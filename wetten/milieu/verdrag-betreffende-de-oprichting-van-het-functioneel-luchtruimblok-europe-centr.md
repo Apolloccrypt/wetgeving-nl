@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de oprichting van het functioneel luchtruimblok „Europe Central” tussen de Bondsrepubliek Duitsland, het Koninkrijk België, de Republiek Frankrijk, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat"
 identifier: "BWBV0004999"
-categorie: "Milieu"
-publicatiedatum: 2013-06-01
-laatste_update: 2013-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004999"
+country: "nl"
+rank: "verdrag"
+publication_date: "2013-06-01"
+last_updated: "2013-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004999"
+soort: "verdrag"
+stam_id: "10004427293"
+version_id: "10004633392"
+internal_id: "C10008330811"
+label_id: "10004412414"
+dtd_version: "2.0"
+original_entry_into_force: "2013-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004999/2013-06-01/0"
+intitule_bron: "Trb.2011-27"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-02-04"
+intitule_in_force: "2013-05-31"
+intitule_status: "goed"
+original_publication: "Trb.2011-27"
+original_published_date: "2011-02-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-27"
+entry_into_force_date: "2013-06-01"
+jci_1_3: "jci1.3:c:BWBV0004999&z=2013-06-01&g=2013-06-01"
+jci_1_0: "1.0:c:BWBV0004999&g=2013-06-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2013-06-01"
 ---
-
 # Verdrag betreffende de oprichting van het functioneel luchtruimblok „Europe Central” tussen de Bondsrepubliek Duitsland, het Koninkrijk België, de Republiek Frankrijk, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat
 
 De Bondsrepubliek Duitsland,
@@ -50,7 +72,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEGINSELEN
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Tenzij anders bepaald, hebben de in dit Verdrag gebruikte begrippen de betekenis die eraan wordt toegekend in de toepasselijke definities uit de Verordeningen betreffende het Gemeenschappelijk Europees Luchtruim die van kracht zijn in de Verdragsluitende Staten. Voor de toepassing van dit Verdrag gelden de volgende definities:
 
@@ -76,7 +98,7 @@ Tenzij anders bepaald, hebben de in dit Verdrag gebruikte begrippen de betekenis
 
 - i. onder „grondgebied” wordt verstaan het landoppervlak en de territoriale wateren die eraan grenzen en die overeenkomstig internationaal recht onder de soevereiniteit van een Verdragsluitende Staat vallen.
 
-#### Artikel 2. Onderwerp van dit Verdrag
+##### Artikel 2. Onderwerp van dit Verdrag
 
 1. Dit Verdrag richt het FABEC op en de FABEC-Raad voor het bestuur ervan.
 
@@ -86,7 +108,7 @@ Tenzij anders bepaald, hebben de in dit Verdrag gebruikte begrippen de betekenis
 
 4. Dit Verdrag bepaalt het kader waarbinnen de specifieke technische en operationele regelingen totstandgebracht dienen te worden die de werkterreinen van de verleners van luchtvaartnavigatiediensten beslaan.
 
-#### Artikel 3. Geografische reikwijdte
+##### Artikel 3. Geografische reikwijdte
 
 1. Dit Verdrag is van toepassing op het betreffende luchtruim dat is samengesteld uit de volgende vluchtinformatiegebieden (Flight Information Region, FIR) en hogere informatiegebieden (Upper Information Region, UIR) van continentaal Europa:
 
@@ -122,23 +144,23 @@ Tenzij anders bepaald, hebben de in dit Verdrag gebruikte begrippen de betekenis
 
 3. Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag alleen van toepassing op het gedeelte van het Koninkrijk der Nederlanden dat zich in Europa bevindt.
 
-#### Artikel 4. Soevereiniteit
+##### Artikel 4. Soevereiniteit
 
 1. In het geval een FIR of een UIR zich uitstrekt tot in het luchtruim boven het grondgebied van een andere Verdragsluitende Staat, wordt de soevereiniteit van de betreffende Verdragsluitende Staat met betrekking tot dat gedeelte van het luchtruim boven zijn grondgebied niet aangetast.
 
 2. De bepalingen van dit Verdrag doen geen afbreuk aan de bevoegdheden van de Verdragsluitende Staten met betrekking tot veiligheids- en militaire belangen.
 
-#### Artikel 5. Staatsluchtvaartuigen
+##### Artikel 5. Staatsluchtvaartuigen
 
 1. Tenzij anders overeengekomen of geregeld, blijft artikel 3, onderdeel c, van het Verdrag van Chicago volledig van toepassing op staatsluchtvaartuigen.
 
 2. De Verdragsluitende Staten streven naar het instellen van een vereenvoudigde procedure voor diplomatieke klaring of speciale toestemming voor militaire trainingsactiviteiten binnen het betreffende luchtruim.
 
-#### Artikel 6. Doelstelling van het FABEC
+##### Artikel 6. Doelstelling van het FABEC
 
 Het FABEC heeft tot doel optimale prestaties te bereiken op het gebied van veiligheid, ecologische duurzaamheid, capaciteit, kostenefficiëntie, vluchtefficiëntie en doeltreffendheid van militaire missies door middel van de inrichting van het luchtruim en de organisatie van de luchtverkeersbeveiliging in het betreffende luchtruim, ongeacht de bestaande grenzen.
 
-#### Artikel 7. Verplichtingen van de Verdragsluitende Staten
+##### Artikel 7. Verplichtingen van de Verdragsluitende Staten
 
 1. Om de doelstelling van het FABEC te bereiken, verbinden de Verdragsluitende Staten zich ertoe om samen te werken en, in overeenstemming met hun nationale procedures, de passende maatregelen te nemen, in het bijzonder op de volgende gebieden:
 
@@ -164,7 +186,7 @@ Het FABEC heeft tot doel optimale prestaties te bereiken op het gebied van veili
 
 ### HOOFDSTUK II. LUCHTRUIM
 
-#### Artikel 8. Luchtruim van het FABEC
+##### Artikel 8. Luchtruim van het FABEC
 
 1. Ongeacht de bestaande grenzen, zorgen de Verdragsluitende Staten gezamenlijk voor het ontwerp en het beheer van een naadloos luchtruim, alsook voor de gecoördineerde regeling van luchtverkeersstromen en -capaciteit, zorgvuldig rekening houdend met samenwerkingsprocessen op internationaal niveau.
 
@@ -182,7 +204,7 @@ Het FABEC heeft tot doel optimale prestaties te bereiken op het gebied van veili
 
 - f. het gecoördineerd instellen van grensoverschrijdende gebieden.
 
-#### Artikel 9. Flexibel gebruik van het luchtruim
+##### Artikel 9. Flexibel gebruik van het luchtruim
 
 1. De Verdragsluitende Staten werken op juridisch, operationeel en technisch niveau samen om het concept van flexibel gebruik van het luchtruim efficiënt en consistent toe te passen, rekening houdend met zowel civiele als militaire vereisten.
 
@@ -196,7 +218,7 @@ Het FABEC heeft tot doel optimale prestaties te bereiken op het gebied van veili
 
 ### HOOFDSTUK III. HARMONISATIE
 
-#### Artikel 10. Harmonisatie van regels en procedures
+##### Artikel 10. Harmonisatie van regels en procedures
 
 1. De Verdragsluitende Staten verbinden zich ertoe om hun materiële regels en procedures die relevant zijn voor het FABEC te harmoniseren.
 
@@ -208,7 +230,7 @@ Het FABEC heeft tot doel optimale prestaties te bereiken op het gebied van veili
 
 ### HOOFDSTUK IV. VERLENING VAN LUCHTVAARTNAVIGATIEDIENSTEN
 
-#### Artikel 11. Luchtvaartnavigatiediensten
+##### Artikel 11. Luchtvaartnavigatiediensten
 
 De Verdragsluitende Staten zorgen ervoor dat de volgende luchtvaartnavigatiediensten worden verleend:
 
@@ -220,7 +242,7 @@ De Verdragsluitende Staten zorgen ervoor dat de volgende luchtvaartnavigatiedien
 
 - d. meteorologische diensten.
 
-#### Artikel 12. Luchtverkeersdiensten
+##### Artikel 12. Luchtverkeersdiensten
 
 1. De Verdragsluitende Staten wijzen gezamenlijk door middel van een gemeenschappelijk instrument de verleners van luchtverkeersdiensten voor het betreffende luchtruim aan.
 
@@ -240,21 +262,21 @@ De Verdragsluitende Staten zorgen ervoor dat de volgende luchtvaartnavigatiedien
 
 6. De Verdragsluitende Staten moedigen nauwe samenwerking tussen verleners van luchtverkeersdiensten aan.
 
-#### Artikel 13. Communicatie-, navigatie- en plaatsbepalingsdiensten
+##### Artikel 13. Communicatie-, navigatie- en plaatsbepalingsdiensten
 
 De Verdragsluitende Staten streven naar gemeenschappelijke technische systemen en de kostenefficiënte operationalisering van infrastructuur voor de verlening van communicatie-, navigatie- en plaatsbepalingsdiensten door de civiele verleners van luchtvaartnavigatiediensten.
 
-#### Artikel 14. Luchtvaartinlichtingendiensten
+##### Artikel 14. Luchtvaartinlichtingendiensten
 
 De Verdragsluitende Staten werken samen op het gebied van luchtvaartinlichtingen en coördineren de verlening van de luchtvaartinlichtingendiensten.
 
-#### Artikel 15. Meteorologische diensten
+##### Artikel 15. Meteorologische diensten
 
 1. De Verdragsluitende Staten zorgen voor samenwerking tussen verleners van meteorologische diensten voor luchtvaartnavigatie.
 
 2. Elke Verdragsluitende Staat wijst de verlener van meteorologische diensten voor luchtvaartnavigatie op exclusieve basis aan en brengt de FABEC-Raad daarvan op de hoogte.
 
-#### Artikel 16. Verhoudingen tussen dienstverleners
+##### Artikel 16. Verhoudingen tussen dienstverleners
 
 1. De Verdragsluitende Staten zorgen ervoor dat verleners van luchtvaartnavigatiediensten de werkrelaties formaliseren die noodzakelijk worden geacht voor de coördinatie van hun diensten in het betreffende luchtruim door middel van schriftelijke overeenkomsten of daaraan gelijkwaardige juridische regelingen.
 
@@ -264,7 +286,7 @@ De Verdragsluitende Staten werken samen op het gebied van luchtvaartinlichtingen
 
 ### HOOFDSTUK V. BEGINSELEN INZAKE CIVIEL-MILITAIRE SAMENWERKING
 
-#### Artikel 17. Militaire activiteiten
+##### Artikel 17. Militaire activiteiten
 
 1. Zorgvuldig rekening houdend met de beginselen van het flexibel gebruik van het luchtruim en in overeenstemming met de bestaande nationale regelingen en de toepasselijke internationale overeenkomsten sluiten de betreffende Verdragsluitende Staten, waar en wanneer nodig, schriftelijke overeenkomsten om militaire trainingsactiviteiten in het betreffende luchtruim mogelijk te maken, ongeacht de bestaande grenzen.
 
@@ -278,7 +300,7 @@ De Verdragsluitende Staten werken samen op het gebied van luchtvaartinlichtingen
 
 ### HOOFDSTUK VI. HEFFINGEN
 
-#### Artikel 18. Heffingenbeleid
+##### Artikel 18. Heffingenbeleid
 
 1. De Verdragsluitende Staten ontwikkelen gemeenschappelijke beginselen met betrekking tot het heffingenbeleid binnen het betreffende luchtruim en passen deze toe, rekening houdend met de mogelijkheid van nationale vrijstellingen.
 
@@ -300,7 +322,7 @@ De Verdragsluitende Staten werken samen op het gebied van luchtvaartinlichtingen
 
 ### HOOFDSTUK VII. TOEZICHT
 
-#### Artikel 19. Toezicht op de verleners van luchtvaartnavigatiediensten
+##### Artikel 19. Toezicht op de verleners van luchtvaartnavigatiediensten
 
 1. De Verdragsluitende Staten zorgen ervoor dat de nationale toezichthoudende instanties nauw samenwerken bij de uitoefening van het toezicht op de verleners van luchtvaartnavigatiediensten binnen het betreffende luchtruim en dat hun werkwijzen zijn geharmoniseerd.
 
@@ -320,7 +342,7 @@ De Verdragsluitende Staten werken samen op het gebied van luchtvaartinlichtingen
 
 ### HOOFDSTUK VIII. PRESTATIES
 
-#### Artikel 20. Prestatieregeling
+##### Artikel 20. Prestatieregeling
 
 1. De Verdragsluitende Staten voeren een FABEC-prestatieregeling in en passen een FABEC-prestatieplan toe dat strookt met de EU-wijde prestatiedoelen en dat rekening houdt met de militaire behoeften. Dit prestatieplan wordt door de FABEC-Raad goedgekeurd.
 
@@ -352,7 +374,7 @@ De Verdragsluitende Staten werken samen op het gebied van luchtvaartinlichtingen
 
 ### HOOFDSTUK IX. BESTUUR
 
-#### Artikel 21. De FABEC-Raad
+##### Artikel 21. De FABEC-Raad
 
 1. De FABEC-Raad is samengesteld uit de volgende vertegenwoordigers van iedere Verdragsluitende Staat:
 
@@ -362,7 +384,7 @@ De Verdragsluitende Staten werken samen op het gebied van luchtvaartinlichtingen
 
 2. Op uitnodiging van de FABEC-Raad kunnen andere deelnemers als waarnemers zijn vergaderingen bijwonen.
 
-#### Artikel 22. Functies van de FABEC-Raad
+##### Artikel 22. Functies van de FABEC-Raad
 
 1. De FABEC-Raad bestuurt het FABEC.
 
@@ -408,7 +430,7 @@ De Verdragsluitende Staten werken samen op het gebied van luchtvaartinlichtingen
 
 - t. te zorgen voor raadpleging van de verleners van luchtvaartnavigatiediensten, de gebruikers van het luchtruim en andere belanghebbende partijen waar nodig.
 
-#### Artikel 23. Functioneren
+##### Artikel 23. Functioneren
 
 1. De FABEC-Raad wordt afwisselend voorgezeten door een van de Verdragsluitende Staten.
 
@@ -420,7 +442,7 @@ De Verdragsluitende Staten werken samen op het gebied van luchtvaartinlichtingen
 
 5. De FABEC-Raad komt bijeen op uitnodiging van de Voorzitter, minstens twee keer per jaar en telkens wanneer dit nodig is. Elke Verdragsluitende Staat heeft het recht om de bijeenroeping van een vergadering te verzoeken.
 
-#### Artikel 24. Comités en werkgroepen
+##### Artikel 24. Comités en werkgroepen
 
 1. Om de doelstellingen van het FABEC te bereiken en de FABEC-Raad bij te staan, worden hierbij het Luchtruimcomité, het Harmonisatie- en Adviescomité, het Financieel en Prestatiecomité en het Comité van de Nationale Toezichthoudende Instanties opgericht. De FABEC-Raad kan andere comités en werkgroepen oprichten.
 
@@ -430,25 +452,25 @@ De Verdragsluitende Staten werken samen op het gebied van luchtvaartinlichtingen
 
 4. Tenzij anders bepaald in het huishoudelijk reglement of door een beslissing van de FABEC-Raad rapporteren comités en werkgroepen rechtstreeks en uitsluitend aan de FABEC-Raad.
 
-#### Artikel 25. Het Luchtruimcomité
+##### Artikel 25. Het Luchtruimcomité
 
 Het Luchtruimcomité staat de FABEC-Raad bij bij de tenuitvoerlegging van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=II&artikel=8&z=2013-06-01&g=2013-06-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=II&artikel=9&z=2013-06-01&g=2013-06-01) en voert de andere taken uit die de FABEC-Raad hem toevertrouwt.
 
-#### Artikel 26. Het Harmonisatie- en Adviescomité
+##### Artikel 26. Het Harmonisatie- en Adviescomité
 
 Het Harmonisatie- en Adviescomité staat de FABEC-Raad bij bij de tenuitvoerlegging van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=III&artikel=10&z=2013-06-01&g=2013-06-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=IV&artikel=12&z=2013-06-01&g=2013-06-01) en voert de andere taken uit die de FABEC-Raad hem toevertrouwt.
 
-#### Artikel 27. Het Financieel en Prestatiecomité
+##### Artikel 27. Het Financieel en Prestatiecomité
 
 Het Financieel en Prestatiecomité staat de FABEC-Raad bij bij de tenuitvoerlegging van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=VI&artikel=18&z=2013-06-01&g=2013-06-01) en, waar van toepassing, [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=VIII&artikel=20&z=2013-06-01&g=2013-06-01) en voert de andere taken uit die de FABEC-Raad hem toevertrouwt.
 
-#### Artikel 28. Comité van de Nationale Toezichthoudende Instanties
+##### Artikel 28. Comité van de Nationale Toezichthoudende Instanties
 
 Onverminderd [artikel 24, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=IX&artikel=24&z=2013-06-01&g=2013-06-01), en de specifieke verantwoordelijkheden die rechtstreeks aan de nationale toezichthoudende instanties zijn verleend, staat het Comité van de Nationale Toezichthoudende Instanties de FABEC-Raad bij bij de tenuitvoerlegging van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=VII&artikel=19&z=2013-06-01&g=2013-06-01) en, waar van toepassing, [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=VIII&artikel=20&z=2013-06-01&g=2013-06-01) en voert de andere taken uit die de FABEC-Raad hem toevertrouwt.
 
 ### HOOFDSTUK X. RAADPLEGING VAN VERLENERS VAN LUCHTVAARTNAVIGATIEDIENSTEN
 
-#### Artikel 29. Adviesraad voor Luchtvaartnavigatiedienstverlening
+##### Artikel 29. Adviesraad voor Luchtvaartnavigatiedienstverlening
 
 1. De Adviesraad voor Luchtvaartnavigatiedienstverlening wordt opgericht voor de raadpleging van verleners van luchtvaartnavigatiediensten over aangelegenheden die te maken hebben met de dienstverlening binnen het FABEC.
 
@@ -464,7 +486,7 @@ Onverminderd [artikel 24, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004999
 
 ### HOOFDSTUK XI. CIVIELRECHTELIJKE AANSPRAKELIJKHEID
 
-#### Artikel 30. Aansprakelijkheidsregime
+##### Artikel 30. Aansprakelijkheidsregime
 
 1. Een Verdragsluitende Staat vergoedt de schade zoals beschreven in lid 4 wanneer deze schade:
 
@@ -500,7 +522,7 @@ De verlener van luchtverkeersdiensten vermeld in b wordt hierna de effectieve ve
 
 ### HOOFDSTUK XII. ONGEVALLEN EN ERNSTIGE INCIDENTEN
 
-#### Artikel 31. Onderzoek van ongevallen en ernstige incidenten
+##### Artikel 31. Onderzoek van ongevallen en ernstige incidenten
 
 1. Bij een ongeval of een ernstig incident overeenkomstig het Verdrag van Chicago dat zich voordoet in het betreffende luchtruim, brengt de Verdragsluitende Staat die het onderzoek voert de FABEC-Raad onmiddellijk op de hoogte als hij tekortkomingen op FABEC-niveau opmerkt.
 
@@ -510,7 +532,7 @@ De verlener van luchtverkeersdiensten vermeld in b wordt hierna de effectieve ve
 
 ### HOOFDSTUK XIII. INSTITUTIONELE BEPALINGEN
 
-#### Artikel 32. Geschillenbeslechting
+##### Artikel 32. Geschillenbeslechting
 
 1. Elk geschil dat tussen Verdragsluitende Staten ontstaat met betrekking tot de interpretatie, toepassing of uitvoering van het Verdrag, met inbegrip van zijn bestaan, gelding of beëindiging, dat niet door rechtstreekse onderhandelingen tussen de betreffende Verdragsluitende Staten of met enig ander middel binnen een periode van zes maanden kan worden opgelost, wordt naar de FABEC-Raad verwezen.
 
@@ -520,7 +542,7 @@ De verlener van luchtverkeersdiensten vermeld in b wordt hierna de effectieve ve
 
 4. De beslissingen van het scheidsgerecht zijn bindend voor de Verdragsluitende Staten die partij zijn bij het geschil.
 
-#### Artikel 33. Toetreding tot dit Verdrag
+##### Artikel 33. Toetreding tot dit Verdrag
 
 1. Dit Verdrag staat open voor toetreding. Een Staat die partij wil worden bij dit Verdrag richt zijn aanvraag voor toetreding tot de Depositaris.
 
@@ -530,7 +552,7 @@ De verlener van luchtverkeersdiensten vermeld in b wordt hierna de effectieve ve
 
 4. De FABEC-Raad neemt alle maatregelen die vereist zijn ingevolge die toetreding.
 
-#### Artikel 34. Opzegging van dit Verdrag
+##### Artikel 34. Opzegging van dit Verdrag
 
 1. Wanneer een Verdragsluitende Staat dit Verdrag opzegt, brengt de betreffende Verdragsluitende Staat de FABEC-Raad op de hoogte en stelt hij de Depositaris in kennis van zijn beslissing.
 
@@ -542,7 +564,7 @@ De verlener van luchtverkeersdiensten vermeld in b wordt hierna de effectieve ve
 
 5. De opzegging ontheft de zich terugtrekkende Verdragsluitende Staat niet van de verplichting om te voldoen aan lid 4 en [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=XIII&artikel=32&z=2013-06-01&g=2013-06-01).
 
-#### Artikel 35. Wijzigingen van dit Verdrag
+##### Artikel 35. Wijzigingen van dit Verdrag
 
 1. Als een Verdragsluitende Staat dit Verdrag wenst te wijzigen, brengt hij de FABEC-Raad hiervan op de hoogte.
 
@@ -552,7 +574,7 @@ De verlener van luchtverkeersdiensten vermeld in b wordt hierna de effectieve ve
 
 4. Wijzigingen van dit Verdrag worden van kracht op de eerste dag van de tweede maand volgend op de neerlegging van de laatste akte van bekrachtiging bij de Depositaris.
 
-#### Artikel 36. Beëindiging en opschorting van dit Verdrag
+##### Artikel 36. Beëindiging en opschorting van dit Verdrag
 
 1. De Verdragsluitende Staten kunnen op elk ogenblik unaniem beslissen om dit Verdrag te beëindigen.
 
@@ -568,15 +590,15 @@ De verlener van luchtverkeersdiensten vermeld in b wordt hierna de effectieve ve
 
 7. De beëindiging en de opschorting ontheffen de betreffende Verdragsluitende Staat/Staten niet van de verplichting om te voldoen aan [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=XIII&artikel=32&z=2013-06-01&g=2013-06-01).
 
-#### Artikel 37. Registratie bij de Internationale Burgerluchtvaartorganisatie
+##### Artikel 37. Registratie bij de Internationale Burgerluchtvaartorganisatie
 
 Dit Verdrag en alle latere wijzigingen ervan worden geregistreerd bij ICAO, in overeenstemming met de bepalingen van artikel 83 van het Verdrag van Chicago.
 
-#### Artikel 38. Inwerkingtreding van dit Verdrag
+##### Artikel 38. Inwerkingtreding van dit Verdrag
 
 Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de neerlegging van de laatste akte van bekrachtiging bij de Depositaris.
 
-#### Artikel 39. De Depositaris en zijn functie
+##### Artikel 39. De Depositaris en zijn functie
 
 1. De regering van het Koninkrijk België is de Depositaris van dit Verdrag. De akten van bekrachtiging worden neergelegd bij de regering van het Koninkrijk België.
 

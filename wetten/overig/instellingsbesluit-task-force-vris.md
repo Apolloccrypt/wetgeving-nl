@@ -1,22 +1,48 @@
 ---
-title: "Instellingsbesluit Task Force VRIS"
+title: "Besluit van de Minister van Justitie en de Staatssecretaris van Justitie van 26 januari 2010, nr. (5638955), strekkende tot instelling van de Task Force Vreemdeling in de strafrechtsketen (Instellingsbesluit Task Force VRIS)"
 identifier: "BWBR0027150"
-categorie: "Overig"
-publicatiedatum: 2010-02-06
-laatste_update: 2010-02-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027150"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-02-06"
+last_updated: "2010-02-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027150"
+soort: "ministeriele-regeling"
+stam_id: "10410693"
+version_id: "17126792"
+internal_id: "C23633831"
+label_id: "10386134"
+dtd_version: "2.0"
+original_entry_into_force: "2010-02-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027150/2010-02-06/0"
+intitule_bron: "Stcrt.2010-1791"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-01-26"
+intitule_published: "2010-02-05"
+intitule_in_force: "2010-02-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-1791"
+original_signed_date: "2010-01-26"
+original_published_date: "2010-02-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-1791"
+entry_into_force_date: "2010-02-06"
+jci_1_3: "jci1.3:c:BWBR0027150&z=2010-02-06&g=2010-02-06"
+jci_1_0: "1.0:c:BWBR0027150&g=2010-02-06"
+citeertitel_status: "redactioneel"
+short_title: "Instellingsbesluit Task Force VRIS"
+signed_date: "2010-01-26"
+entry_into_force: "2010-02-06"
 ---
-
 # Besluit van de Minister van Justitie en de Staatssecretaris van Justitie van 26 januari 2010, nr. (5638955), strekkende tot instelling van de Task Force Vreemdeling in de strafrechtsketen (Instellingsbesluit Task Force VRIS)
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Task Force Vreemdelingen in de strafrechtsketen (VRIS).
 
-#### Artikel 2
+##### Artikel 2
 
 De Task Force heeft als doelstelling:
 
@@ -26,7 +52,7 @@ Het realiseren van een doeltreffende, integrale aanpak van criminele vreemdeling
 
 - –. hetzij door middel van een alternatief voor of aanvullingen van het VRIS-protocol.
 
-#### Artikel 3
+##### Artikel 3
 
 De Task Force heeft als taken:
 
@@ -40,19 +66,19 @@ De Task Force heeft als taken:
 
 - –. het informeren van de Minister en de Staatssecretaris van Justitie over de voortgang van de werkzaamheden van de Task Force.
 
-#### Artikel 4
+##### Artikel 4
 
 De Task Force kan, ter verwezenlijking van zijn doel- en taakstellingen, werkgroepen2Werkgroepen, die reeds functioneel zijn in het Programma Uitzetten/Vastzetten van criminele vreemdelingen/illegalen, worden eveneens betrokken bij de Task Force VRIS. instellen.
 
-#### Artikel 5
+##### Artikel 5
 
 De Task Force wordt ingesteld voor een periode van 1,5 jaar. De Task Force zal zijn werkzaamheden één jaar na zijn oprichting evalueren en hierover aanbevelingen doen aan de Minister en Staatssecretaris van Justitie.
 
-#### Artikel 6
+##### Artikel 6
 
 De Task Force komt minstens vier keer per jaar bijeen en vaker indien daar toe aanleiding is.
 
-#### Artikel 7
+##### Artikel 7
 
 In de Task Force worden benoemd:
 
@@ -76,10 +102,10 @@ In de Task Force worden benoemd:
 
 - –. Mw. drs. E.A. Kaya MA, secretaris Task Force, tevens programmamanager bij het Ministerie van Justitie.
 
-#### Artikel 8
+##### Artikel 8
 
 De Directie Migratiebeleid bij het Ministerie van Justitie voorziet in het secretariaat van de Task Force.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.

@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, doorschuifregeling met toepassing van de artikelen 3.62 of 3.63 van de Wet inkomstenbelasting 2001"
 identifier: "BWBR0040957"
-categorie: "Belastingrecht"
-publicatiedatum: 2018-05-31
-laatste_update: 2018-05-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040957"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2018-05-31"
+last_updated: "2018-05-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040957"
+soort: "beleidsregel"
+stam_id: "14621763"
+version_id: "25038382"
+internal_id: "C35806841"
+label_id: "14575364"
+dtd_version: "2.0"
+original_entry_into_force: "2018-05-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040957/2018-05-31/0"
+intitule_bron: "Stcrt.2018-29948"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-05-14"
+intitule_published: "2018-05-30"
+intitule_in_force: "2018-05-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-29948"
+original_signed_date: "2018-05-14"
+original_published_date: "2018-05-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-29948"
+entry_into_force_date: "2018-05-31"
+jci_1_3: "jci1.3:c:BWBR0040957&z=2018-05-31&g=2018-05-31"
+jci_1_0: "1.0:c:BWBR0040957&g=2018-05-31"
+citeertitel_status: "redactioneel"
+signed_date: "2018-05-14"
+entry_into_force: "2018-05-31"
 ---
-
 # Inkomstenbelasting, doorschuifregeling met toepassing van de artikelen 3.62 of 3.63 van de Wet inkomstenbelasting 2001
 
 **Dit besluit betreft een samenvoeging en actualisering van de besluiten van 12 april 2002, nr. CPP2002/137M, en van 18 juli 2008, nr. CPP2008/163M,** **Stcrt. 2008, nr. 146** **, op het gebied van de geruisloze doorschuiving in de zin van de artikelen 3.62 en 3.63 van de Wet inkomstenbelasting 2001. Nieuw zijn een goedkeuring over de overdracht aan een werknemer en een opname van criteria in verband met de beoordeling van de 36-maandseis bij onderbreking van de dienstbetrekking. Daarnaast is verder uitgeschreven welke de gevolgen zijn van het arrest van de Hoge Raad van 5 januari 2007, nr. 42.683. Voor het overige is met dit besluit geen inhoudelijke wijziging beoogd.**

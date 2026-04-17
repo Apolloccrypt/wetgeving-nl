@@ -1,20 +1,42 @@
 ---
 title: "Regeling Cofinanciering"
 identifier: "BWBR0050177"
-categorie: "Overig"
-publicatiedatum: 2024-08-31
-laatste_update: 2024-08-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050177"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-08-31"
+last_updated: "2024-08-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050177"
+soort: "zbo"
+stam_id: "17211083"
+version_id: "30310862"
+internal_id: "C43483261"
+label_id: "17117034"
+dtd_version: "2.0"
+original_entry_into_force: "2024-08-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050177/2024-08-31/0"
+intitule_bron: "Stcrt.2024-28068"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-08-30"
+intitule_in_force: "2024-08-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-28068"
+original_published_date: "2024-08-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-28068"
+entry_into_force_date: "2024-08-31"
+jci_1_3: "jci1.3:c:BWBR0050177&z=2024-08-31&g=2024-08-31"
+jci_1_0: "1.0:c:BWBR0050177&g=2024-08-31"
+citeertitel_status: "redactioneel"
+entry_into_force: "2024-08-31"
 ---
-
 # Regeling Cofinanciering
 
 ### Inleiding
 
 NWO betrekt maatschappelijke stakeholders, in het bijzonder de (lokale en regionale) overheid, het bedrijfsleven, maatschappelijke of culturele organisaties en professionals, bij het onderzoek. Dergelijke stakeholders kunnen een bijdrage leveren aan door NWO gefinancierd onderzoek, onder andere door het leveren van cofinanciering. In deze regeling (hierna “Regeling Cofinanciering”) is vastgelegd welke regels gelden bij cofinanciering.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 - **Aanvrager:** Een rechtspersoon, als bedoeld in [artikel 1.1 van de NWO Subsidieregeling](onbekend), die krachtens privaat- of publiekrecht is opgericht dan wel ingesteld en wetenschappelijk dan wel praktijkgericht onderzoek initieert, ontwikkelt en uitvoert, en de overdracht van de Resultaten daarvan aan de maatschappij bevordert. Een aanvrager kan ook een natuurlijk persoon zijn, mits wordt voldaan aan de in artikel 1.1 van de NWO Subsidieregeling bedoelde voorwaarden.
 
@@ -38,13 +60,13 @@ NWO betrekt maatschappelijke stakeholders, in het bijzonder de (lokale en region
 
 - **Subsidieregeling:** De geldende subsidieregeling van NWO.
 
-#### Artikel 2. Toepasselijkheid
+##### Artikel 2. Toepasselijkheid
 
 De Regeling Cofinanciering is van toepassing op alle Calls for Proposals die onder de Subsidieregeling vallen.
 
 Indien de Subsidieregeling niet of slechts gedeeltelijk van toepassing is op een Call for Proposals, kan NWO bepalen dat de Regeling Cofinanciering wel van toepassing is.
 
-#### Artikel 3. Cofinancier
+##### Artikel 3. Cofinancier
 
 1. De Aanvrager of andere samenwerkende rechtspersonen kunnen binnen hetzelfde project geen Cofinancier zijn.
 
@@ -56,7 +78,7 @@ Indien de Subsidieregeling niet of slechts gedeeltelijk van toepassing is op een
 
 5. De Aanvrager heeft bij het indienen van de aanvraag de verantwoordelijkheid zich ervan te vergewissen dat de Cofinancier in staat is om de Cofinanciering te leveren en daartoe voldoende financieel stabiel en betrouwbaar is.
 
-#### Artikel 4. Vastlegging Cofinanciering
+##### Artikel 4. Vastlegging Cofinanciering
 
 1. De Aanvrager is verantwoordelijk voor nakoming van de cofinancieringverplichtingen.
 
@@ -68,13 +90,13 @@ Indien de Subsidieregeling niet of slechts gedeeltelijk van toepassing is op een
 
 5. De Cofinanciering wordt vastgelegd in een Overeenkomst tussen de Aanvrager en samenwerkende rechtspersonen en de Cofinancier, tenzij in de Call for Proposals anders is bepaald. NWO vermeldt de Cofinanciering in het besluit tot subsidieverlening.
 
-#### Artikel 5. Cofinanciering in cash
+##### Artikel 5. Cofinanciering in cash
 
 1. De Aanvrager is verantwoordelijk voor de inning van de Cofinanciering in cash.
 
 2. Indien de Cofinanciering niet, niet volledig of niet tijdig wordt betaald, is het de verantwoordelijkheid van de Aanvrager zelf daarvoor een oplossing te vinden in lijn met de Aanvraag.
 
-#### Artikel 6. Cofinanciering in kind
+##### Artikel 6. Cofinanciering in kind
 
 1. Cofinanciering in kind kan worden geleverd in de vorm van personele en/of materiële inbreng aan het Project.
 
@@ -94,7 +116,7 @@ Indien de Subsidieregeling niet of slechts gedeeltelijk van toepassing is op een
 
 - g). know how of andere vormen van immateriële inzet.
 
-#### Artikel 7. Waardebepaling cofinanciering in kind
+##### Artikel 7. Waardebepaling cofinanciering in kind
 
 1. De waarde van Cofinanciering in kind wordt opgenomen in de aanvraagbegroting.
 
@@ -118,7 +140,7 @@ Indien de Subsidieregeling niet of slechts gedeeltelijk van toepassing is op een
 
 - (c). een machine uurtarief (afschrijvingskosten per jaar gedeeld door het aantal operationele uren per jaar) vermenigvuldigd met de verwachte gebruiksuren gedurende het Project.
 
-#### Artikel 8. Verantwoording
+##### Artikel 8. Verantwoording
 
 1. Met betrekking tot Cofinanciering (zowel in cash als in kind) wordt het ontvangen bedrag per Cofinancier in de financiële voortgangs- en/of eindverslagen vermeld, als bedoeld in art. 3.3.1 van de NWO Subsidieregeling.
 

@@ -1,13 +1,37 @@
 ---
 title: "Instelling dienst Informatievoorziening Overheidspersoneel"
 identifier: "BWBR0006576"
-categorie: "Overig"
-publicatiedatum: 1994-04-20
-laatste_update: 1994-04-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006576"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1994-04-20"
+last_updated: "1994-04-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006576"
+soort: "ministeriele-regeling"
+stam_id: "4475153"
+version_id: "6281442"
+internal_id: "C6485651"
+label_id: "4453524"
+dtd_version: "2.0"
+original_entry_into_force: "1994-04-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006576/1994-04-20/0"
+intitule_bron: "Stcrt.1994-74"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-03-30"
+intitule_published: "1994-04-18"
+intitule_in_force: "1994-04-18"
+intitule_status: "goed"
+original_publication: "Stcrt.1994-74"
+original_signed_date: "1994-03-30"
+original_published_date: "1994-04-18"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-04-20"
+jci_1_3: "jci1.3:c:BWBR0006576&z=1994-04-20&g=1994-04-20"
+jci_1_0: "1.0:c:BWBR0006576&g=1994-04-20"
+citeertitel_status: "officieel"
+signed_date: "1994-03-30"
+entry_into_force: "1994-04-20"
 ---
-
 # Instelling dienst Informatievoorziening Overheidspersoneel
 
 Besluit:

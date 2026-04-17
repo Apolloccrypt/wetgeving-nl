@@ -1,13 +1,40 @@
 ---
-title: "Rijksvisumwet"
+title: "Rijkswet van 23 augustus 2016, houdende bepalingen omtrent de verlening van visa voor de toegang tot de landen van het Koninkrijk (Rijksvisumwet)"
 identifier: "BWBR0038494"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2018-07-01
-laatste_update: 2018-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038494"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2018-07-01"
+last_updated: "2018-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038494"
+soort: "rijkswet"
+stam_id: "13746663"
+version_id: "23564142"
+internal_id: "C35873981"
+label_id: "13713154"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038494/2018-07-01/0"
+intitule_bron: "Stb.2016-320"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-08-23"
+intitule_published: "2016-09-08"
+intitule_in_force: "2018-06-21"
+intitule_status: "goed"
+original_publication: "Stb.2016-320"
+original_signed_date: "2016-08-23"
+original_published_date: "2016-09-08"
+original_effect: "nieuwe-regeling"
+original_dossier: "32415"
+original_url_id: "stb-2016-320"
+entry_into_force_date: "2018-07-01"
+jci_1_3: "jci1.3:c:BWBR0038494&z=2018-07-01&g=2018-07-01"
+jci_1_0: "1.0:c:BWBR0038494&g=2018-07-01"
+citeertitel_status: "officieel"
+short_title: "Rijksvisumwet"
+signed_date: "2016-08-23"
+entry_into_force: "2018-07-01"
 ---
-
 # Rijkswet van 23 augustus 2016, houdende bepalingen omtrent de verlening van visa voor de toegang tot de landen van het Koninkrijk (Rijksvisumwet)
 
 Allen die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -48,17 +75,17 @@ In deze wet wordt verstaan onder:
 
 - −. wat betreft de landen: algemeen verbindende voorschriften, vastgesteld door het daartoe bevoegde orgaan van het desbetreffende land.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze wet is van toepassing op de verlening van visa voor de toegang tot de landen en de openbare lichamen.
 
 2. Onze Minister van Buitenlandse Zaken is belast met de verlening van de visa, bedoeld in artikel 2 van de Verordening van de Raad van de Europese Gemeenschappen van 15 maart 2001, nr. 539/2001/EG (Pb EU L81) voor de toegang tot Nederland. Bepalingen omtrent andere visa voor de toegang tot Nederland dan bedoeld in de eerste volzin worden bij of krachtens de wet vastgesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 De bevoegde autoriteit van elk van de landen neemt bij de uitoefening van haar bevoegdheden het door Onze Minister van Buitenlandse Zaken gevoerde beleid inzake de buitenlandse betrekkingen, daaronder begrepen het visumbeleid, in acht.
 
-#### Artikel 4
+##### Artikel 4
 
 De hoofden van de diplomatieke en consulaire vertegenwoordigingen van het Koninkrijk zijn belast met de behandeling van visumaanvragen namens de bevoegde autoriteiten. In overeenstemming met Onze Minister van Buitenlandse Zaken kunnen de bevoegde autoriteiten van de landen aan de hoofden van de diplomatieke of consulaire vertegenwoordiging van het Koninkrijk aanwijzingen geven over de uitvoering van deze wet ten aanzien van het desbetreffende land door de ambtenaren werkzaam op die vertegenwoordiging.
 
@@ -66,7 +93,7 @@ De hoofden van de diplomatieke en consulaire vertegenwoordigingen van het Konink
 
 #### Paragraaf 1. Visumplicht
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een visum, verleend op grond van deze rijkswet, is vereist voor het verkrijgen van een of meer malen toegang van vreemdelingen tot de landen en de openbare lichamen. Bij of krachtens landsregelgeving kan worden bepaald dat aan het visum een verblijfstermijn kan worden verbonden. De eerste volzin laat onverlet hetgeen overigens bij of krachtens enig wettelijk voorschrift is bepaald omtrent de toegang en de toelating tot de landen en de openbare lichamen.
 
@@ -84,13 +111,13 @@ De hoofden van de diplomatieke en consulaire vertegenwoordigingen van het Konink
 
 4. De bevoegde autoriteit kan in aanvulling op het bepaalde krachtens het tweede lid in bijzondere gevallen ontheffing verlenen van de visumplicht.
 
-#### Artikel 6
+##### Artikel 6
 
 Een voor toegang tot een van de landen of openbare lichamen verleend visum geldt mede als visum voor de toegang tot de overige landen en openbare lichamen, tenzij de bevoegde autoriteit van een van de overige landen of openbare lichamen uit oogpunt van openbare orde of nationale veiligheid geen medegelding toestaat. In het geval geen medegelding wordt toegestaan, verbindt de bevoegde autoriteit die op de aanvraag beslist een territoriale beperking aan het visum.
 
 #### Paragraaf 2. Aanvraag
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een visum wordt door de vreemdeling in persoon, indien de bevoegde autoriteit dat verlangt in aanwezigheid van diens wettelijke vertegenwoordiger, aangevraagd bij een diplomatieke of consulaire vertegenwoordiging van het Koninkrijk met gebruikmaking van het door Onze Minister van Buitenlandse Zaken daartoe vastgestelde formulier.
 
@@ -100,7 +127,7 @@ Een voor toegang tot een van de landen of openbare lichamen verleend visum geldt
 
 4. In afwijking van het eerste lid kan bij regeling van Onze Minister van Buitenlandse Zaken worden bepaald dat een visum langs elektronische weg kan worden aangevraagd. In deze regeling worden nadere regels gesteld met betrekking tot de wijze waarop de aanvraag wordt ingediend, alsmede met betrekking tot het beheer van bij de aanvraag verstrekte gegevens en bescheiden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien de aanvrager niet heeft voldaan aan het bij of krachtens deze rijkswet bepaalde voor het in behandeling nemen van de aanvraag of indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag, kan de bevoegde autoriteit besluiten de aanvraag niet te behandelen, mits de aanvrager de gelegenheid heeft gehad binnen een door de bevoegde autoriteit gestelde termijn de aanvraag aan te vullen.
 
@@ -116,7 +143,7 @@ Een voor toegang tot een van de landen of openbare lichamen verleend visum geldt
 
 #### Paragraaf 3. Besluit op aanvraag
 
-#### Artikel 9
+##### Artikel 9
 
 1. De bevoegde autoriteit kan op aanvraag van de vreemdeling een visum verlenen indien de vreemdeling:
 
@@ -136,13 +163,13 @@ Een voor toegang tot een van de landen of openbare lichamen verleend visum geldt
 
 3. Bij landsregelgeving kunnen nadere regels worden gesteld voor de toepassing van het eerste lid, onder b, c, d en f, en het tweede lid.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Ten behoeve van de beoordeling van een visumaanvraag verlangt de bevoegde autoriteit van de vreemdeling dat deze het doel en de omstandigheden van het voorgenomen verblijf op een door de bevoegde autoriteit te bepalen wijze aannemelijk maakt.
 
 2. Bij landsregelgeving kunnen nadere regels worden gesteld voor de toepassing van dit artikel.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De bevoegde autoriteit weigert het visum indien:
 
@@ -160,7 +187,7 @@ Een voor toegang tot een van de landen of openbare lichamen verleend visum geldt
 
 - d. grond bestaat om aan te nemen dat de vreemdeling de verplichtingen verbonden aan het visum of het daarmee verband houdende verblijf niet zal nakomen; zulke grond bestaat in elk geval indien de vreemdeling de verplichtingen verbonden aan een eerder verleend visum of verblijfsrecht niet is nagekomen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De bevoegde autoriteit stelt de geldigheidsduur van het visum vast, kan daaraan overeenkomstig de regels, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038494&hoofdstuk=II&paragraaf=1&artikel=5&z=2018-07-01&g=2018-07-01), een verblijfstermijn verbinden en kan met het oog op de bescherming van de openbare orde, de nationale veiligheid, de volksgezondheid of de internationale betrekkingen of met het oog op het toezicht op de naleving van het bepaalde bij of krachtens deze rijkswet:
 
@@ -170,13 +197,13 @@ Een voor toegang tot een van de landen of openbare lichamen verleend visum geldt
 
 2. De bevoegde autoriteit kan een reeds verleend visum waarvan de geldigheidsduur of de op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038494&hoofdstuk=II&paragraaf=1&artikel=5&z=2018-07-01&g=2018-07-01), daaraan verbonden verblijfstermijn niet is verstreken, wijzigen of intrekken indien de visumverlening onjuist was, gewijzigde omstandigheden zich tegen handhaving van het visum verzetten of de vreemdeling de aan het visum verbonden verplichtingen niet naleeft.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien het belang van de internationale betrekkingen betrokken kan zijn bij een besluit van de bevoegde autoriteit inzake visumverlening stelt de bevoegde autoriteit Onze Minister van Buitenlandse Zaken in de gelegenheid om zijn zienswijze aan de bevoegde autoriteit kenbaar te maken. De bevoegde autoriteit neemt diens zienswijze in acht bij zijn besluit.
 
 #### Paragraaf 4. Afgifte
 
-#### Artikel 14
+##### Artikel 14
 
 1. De bevoegde autoriteit brengt het visum aan in het reisdocument. Indien het reisdocument is afgegeven door een autoriteit van een niet als zodanig door het Koninkrijk der Nederlanden erkende staat of andere omstandigheden in de weg staan aan toepassing van de eerste volzin wordt het visum afzonderlijk verstrekt.
 
@@ -184,7 +211,7 @@ Indien het belang van de internationale betrekkingen betrokken kan zijn bij een 
 
 ### Hoofdstuk III. Overleg
 
-#### Artikel 15
+##### Artikel 15
 
 1. Onze Minister van Buitenlandse Zaken en de bevoegde autoriteiten van de landen voeren regelmatig overleg over aangelegenheden die de toepassing van deze wet ten aanzien van de landen en de openbare lichamen betreffen. Het overleg is gericht op bevordering van de eenheid van het visumbeleid, in aanmerking genomen de belangen van de landen en de openbare lichamen.
 
@@ -192,11 +219,11 @@ Indien het belang van de internationale betrekkingen betrokken kan zijn bij een 
 
 ### Hoofdstuk IV. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Het [Besluit afschaffing binnenlandse paspoorten en verdere reglementaire bepalingen ten aanzien van binnen- en buitenlandse paspoorten](https://wetten.overheid.nl/jci1.3:c:BWBR0001822) wordt ingetrokken.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een op grond van het [Besluit afschaffing binnenlandse paspoorten en verdere reglementaire bepalingen ten aanzien van binnen- en buitenlandse paspoorten](https://wetten.overheid.nl/jci1.3:c:BWBR0001822) verleend visum voor de toegang tot de landen of de openbare lichamen geldt als een visum, verleend op grond van deze rijkswet.
 
@@ -204,11 +231,11 @@ Het [Besluit afschaffing binnenlandse paspoorten en verdere reglementaire bepali
 
 3. De bij inwerkingtreding van deze rijkswet geldende landsregelgeving met betrekking tot onderwerpen die bij deze rijkswet ter regeling aan landsregelgeving is overgelaten, geldt vanaf inwerkingtreding van deze rijkswet ten aanzien van die onderwerpen als landsregelgeving ingevolge deze rijkswet. Bepalingen die niet verenigbaar zijn met deze rijkswet of met het door Onze Minister van Buitenlandse Zaken bepaalde krachtens deze rijkswet blijven buiten toepassing.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor invoering van de verschillende artikelen of onderdelen voor de afzonderlijke landen of openbare lichamen verschillend kan worden vastgesteld.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze rijkswet wordt aangehaald als: Rijksvisumwet.
 

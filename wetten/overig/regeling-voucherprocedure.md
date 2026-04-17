@@ -1,13 +1,35 @@
 ---
 title: "Regeling Voucherprocedure"
 identifier: "BWBR0047587"
-categorie: "Overig"
-publicatiedatum: 2022-12-01
-laatste_update: 2022-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047587"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-12-01"
+last_updated: "2022-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047587"
+soort: "zbo"
+stam_id: "16588063"
+version_id: "29088552"
+internal_id: "C41347951"
+label_id: "16507704"
+dtd_version: "2.0"
+original_entry_into_force: "2022-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047587/2022-12-01/0"
+intitule_bron: "Stcrt.2022-33090"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2022-12-08"
+intitule_in_force: "2022-12-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-33090"
+original_published_date: "2022-12-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-33090"
+entry_into_force_date: "2022-12-01"
+jci_1_3: "jci1.3:c:BWBR0047587&z=2022-12-01&g=2022-12-01"
+jci_1_0: "1.0:c:BWBR0047587&g=2022-12-01"
+citeertitel_status: "officieel"
+entry_into_force: "2022-12-01"
 ---
-
 # Regeling Voucherprocedure
 
 gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap,
@@ -18,13 +40,13 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. Taakopvatting Stimuleringsfonds Creatieve Industrie
+##### Artikel 1. Taakopvatting Stimuleringsfonds Creatieve Industrie
 
 1. De taak van het Stimuleringsfonds Creatieve Industrie is om, vanuit het culturele perspectief, de rijke ontwerptraditie die Nederland heeft te continueren en te vernieuwen door het proces van experimenteren, onderzoeken en maken te stimuleren en goed opdrachtgeverschap te bevorderen.
 
 2. Het Stimuleringsfonds Creatieve Industrie verstrekt, in overeenstemming met zijn statuten en volgens bepalingen vastgesteld in de wet en subsidieregelingen, subsidies aan natuurlijke personen en rechtspersonen die bijdragen aan het bevorderen van hoogwaardige kwaliteit, ontwikkeling en professionalisering van de hedendaagse Nederlandse creatieve industrie.
 
-#### Artikel 2. Begrippen
+##### Artikel 2. Begrippen
 
 De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597). Specifiek binnen deze regeling wordt verstaan onder:
 
@@ -42,7 +64,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 ### Hoofdstuk 2. Algemene bepalingen
 
-#### Artikel 3. Reikwijdte en doelstelling Regeling Voucherprocedure
+##### Artikel 3. Reikwijdte en doelstelling Regeling Voucherprocedure
 
 1. Deze regeling is van toepassing op het aanvragen, beoordelen en vaststellen van een subsidie voor een project dat is ingediend binnen een voucherprocedure. De regeling geeft inzicht in de algemene voorwaarden, weigeringsgronden, wijze van publicatie, wijze van indiening, beoordeling, toekenning en subsidieverplichtingen.
 
@@ -64,7 +86,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 3. Het bestuur kan nadere regels stellen ter uitvoering van deze regeling over specifieke doelstellingen, voorwaarden en weigeringsgronden en de procedure. Deze worden expliciet vermeld in de tekst van de op deze regeling gebaseerde voucherprocedure op de website [www.stimuleringsfonds.nl](onbekend). De tekst van de voucherprocedure is aanvullend op deze regeling.
 
-#### Artikel 4. Voorwaarden voor ondersteuning
+##### Artikel 4. Voorwaarden voor ondersteuning
 
 1. Een subsidie wordt alleen verleend als aan de volgende voorwaarden is voldaan:
 
@@ -86,7 +108,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 - i. De aanvrager is niet tekortgeschoten in het nakomen van zijn subsidieverplichtingen in het kader van een project waarvoor het Stimuleringsfonds Creatieve Industrie een eerdere subsidie heeft verleend.
 
-#### Artikel 5. Weigeringsgronden
+##### Artikel 5. Weigeringsgronden
 
 1. Een aanvraag wordt niet in behandeling genomen als:
 
@@ -116,7 +138,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 ### Hoofdstuk 3. Subsidieaanvraag
 
-#### Artikel 6. Wijze van publicatie
+##### Artikel 6. Wijze van publicatie
 
 1. Een voucherprocedure wordt bekendgemaakt via de website [www.stimuleringsfonds.nl](onbekend) met verwijzing naar deze regeling.
 
@@ -136,7 +158,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 - g. eventuele aanvullende vereisten met betrekking tot de inhoud van de aanvraag.
 
-#### Artikel 7. Wijze van indiening
+##### Artikel 7. Wijze van indiening
 
 1. De aanvraag voor subsidie kan alleen via de digitale aanvraagomgeving van het Stimuleringsfonds Creatieve Industrie worden ingediend.
 
@@ -146,7 +168,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 4. Aanvragen moeten in de Nederlandse of Engelse taal zijn gesteld.
 
-#### Artikel 8. Inhoud van de aanvraag
+##### Artikel 8. Inhoud van de aanvraag
 
 Een aanvraag bevat:
 
@@ -168,7 +190,7 @@ Een aanvraag bevat:
 
 ### Hoofdstuk 4. Subsidieverlening
 
-#### Artikel 9. Beoordeling en advisering
+##### Artikel 9. Beoordeling en advisering
 
 1. Het fonds toetst of de aanvraag compleet is, voldoet aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047587&hoofdstuk=2&artikel=4&z=2022-12-01&g=2022-12-01) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047587&hoofdstuk=2&artikel=5&z=2022-12-01&g=2022-12-01) van deze regeling, en aansluit bij de taakopvatting van het Stimuleringsfonds Creatieve Industrie zoals verwoord in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047587&hoofdstuk=1&artikel=1&z=2022-12-01&g=2022-12-01) en past binnen de reikwijdte van de regeling zoals verwoord in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047587&hoofdstuk=2&artikel=3&z=2022-12-01&g=2022-12-01).
 
@@ -182,7 +204,7 @@ Een aanvraag bevat:
 
 6. De behandelend fondsmedewerker brengt naar aanleiding van de beoordeling van de aanvraag advies uit aan het bestuur over het al dan niet toekennen van een subsidie.
 
-#### Artikel 10. Subsidieplafond
+##### Artikel 10. Subsidieplafond
 
 1. Een subsidie wordt altijd verleend onder de voorwaarde dat door de Minister van Onderwijs, Cultuur en Wetenschap voldoende gelden aan het fonds ter beschikking worden gesteld.
 
@@ -190,7 +212,7 @@ Een aanvraag bevat:
 
 3. Als het bedrag dat samenhangt met het aantal ingediende aanvragen het subsidieplafond overschrijdt, kan het bestuur besluiten de procedure eerder te sluiten.
 
-#### Artikel 11. Verlening en vaststelling van een subsidie
+##### Artikel 11. Verlening en vaststelling van een subsidie
 
 1. Het bestuur informeert de aanvrager binnen zes weken na uiterlijke indieningsdatum schriftelijk over zijn besluit.
 
@@ -204,7 +226,7 @@ Een aanvraag bevat:
 
 ### Hoofdstuk 5. Verplichtingen van de subsidieontvanger
 
-#### Artikel 12. Administratie
+##### Artikel 12. Administratie
 
 1. De subsidieontvanger voert een zodanig ingerichte projectadministratie dat daaruit te allen tijde de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen evenals de baten en lasten kunnen worden nagegaan.
 
@@ -212,11 +234,11 @@ Een aanvraag bevat:
 
 3. De subsidieontvanger bewaart de projectadministratie en de bijbehorende documenten gedurende zeven jaren na het vaststellen van de subsidie.
 
-#### Artikel 13. Vermelding Stimuleringsfonds Creatieve Industrie
+##### Artikel 13. Vermelding Stimuleringsfonds Creatieve Industrie
 
 In alle publieke uitingen over de gesubsidieerde activiteiten vermeldt de subsidieontvanger het fonds als subsidieverstrekker. Het logo van het fonds wordt opgenomen in publicaties en verslagen die betrekking hebben op de gesubsidieerde activiteiten, net als op uitnodigingen, aankondigingen, websites en audiovisuele producties die hierop betrekking hebben. Als een subsidieontvanger logo’s opneemt van andere partijen wordt in verhouding tot de bijdrage het logo van het fonds in een vergelijkbare grootte en opmaak weergegeven.
 
-#### Artikel 14. Melding bij het Stimuleringsfonds Creatieve Industrie
+##### Artikel 14. Melding bij het Stimuleringsfonds Creatieve Industrie
 
 In het geval een van de onderstaande situaties zich voordoet, brengt de subsidieontvanger het bestuur daarvan direct op de hoogte:
 
@@ -230,21 +252,21 @@ In het geval een van de onderstaande situaties zich voordoet, brengt de subsidie
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 15. Bezwaar
+##### Artikel 15. Bezwaar
 
 Een belanghebbende kan tegen een besluit van het bestuur van het fonds bezwaar maken door een bezwaarschrift in te dienen bij het bestuur. De termijn voor het indienen van een bezwaarschrift bedraagt zes weken. Deze termijn gaat in op de dag van de beschikkingsdatum. De procedure voor bezwaren is gepubliceerd op de website [www.stimuleringsfonds.nl](onbekend).
 
-#### Artikel 16. Bescherming persoonsgegevens
+##### Artikel 16. Bescherming persoonsgegevens
 
 Het bestuur verstrekt geen vertrouwelijke informatie over een aanvraag aan derden. Het gaat hier om bedrijfs- en fabricagegegevens die door een aanvrager vertrouwelijk aan het Stimuleringsfonds zijn medegedeeld en om persoonsgegevens als bedoeld in de [artikelen 22 tot en met 33 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=22), tenzij de verstrekking voortvloeit uit een wettelijke verplichting dan wel kennelijk geen inbreuk op de persoonlijke levenssfeer maakt.
 
-#### Artikel 17. Inwerkingtreding en expiratie
+##### Artikel 17. Inwerkingtreding en expiratie
 
 1. Deze regeling treedt in werking met ingang van 01 december 2022.
 
 2. Het [Subsidiereglement Stimuleringsfonds Creatieve Industrie 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040298) is niet van toepassing op deze regeling.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Voucherprocedure.
 

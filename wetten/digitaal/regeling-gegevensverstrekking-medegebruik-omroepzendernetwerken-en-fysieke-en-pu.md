@@ -1,13 +1,39 @@
 ---
-title: "Regeling gegevensverstrekking medegebruik omroepzendernetwerken en fysieke en publieke infrastructuur"
+title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 26 maart 2018, nr. WJZ/18027277, houdende regels inzake de te verstrekken gegevens in het kader van medegebruik van antenne-opstelpunten en medegebruik van fysieke infrastructuur ter bevordering van de aanleg van elektronische communicatienetwerken met hoge snelheid (Regeling gegevensverstrekking medegebruik omroepzendernetwerken en fysieke infrastructuur)"
 identifier: "BWBR0040789"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2022-03-02
-laatste_update: 2022-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040789"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-03-02"
+last_updated: "2022-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040789"
+soort: "ministeriele-regeling"
+stam_id: "14584773"
+version_id: "28440792"
+internal_id: "C40134371"
+label_id: "14538394"
+dtd_version: "2.0"
+original_entry_into_force: "2022-02-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040789/2022-03-02/0"
+intitule_bron: "Stcrt.2018-17595"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-03-26"
+intitule_published: "2018-03-30"
+intitule_in_force: "2018-03-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-5741"
+original_signed_date: "2022-02-28"
+original_published_date: "2022-03-01"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-5741"
+entry_into_force_date: "2022-02-28"
+jci_1_3: "jci1.3:c:BWBR0040789&z=2022-03-02&g=2022-03-02"
+jci_1_0: "1.0:c:BWBR0040789&g=2022-03-02"
+citeertitel_status: "officieel"
+short_title: "Regeling gegevensverstrekking medegebruik omroepzendernetwerken en fysieke en publieke infrastructuur"
+signed_date: "2022-02-28"
+entry_into_force: "2022-02-28"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 26 maart 2018, nr. WJZ/18027277, houdende regels inzake de te verstrekken gegevens in het kader van medegebruik van antenne-opstelpunten en medegebruik van fysieke infrastructuur ter bevordering van de aanleg van elektronische communicatienetwerken met hoge snelheid (Regeling gegevensverstrekking medegebruik omroepzendernetwerken en fysieke infrastructuur)
 
 Gelet op [richtlijn nr. 2014/61](32014L0061)/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake maatregelen ter verlaging van de kosten van de aanleg van elektronischecommunicatienetwerken met hoge snelheid (PbEU 2014, L 155) en de [artikelen 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040788&artikel=3), en [4, eerste lid, van het Besluit medegebruik omroepzendernetwerken en fysieke infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0040788&artikel=4) en [27 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=27);
@@ -16,7 +42,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - **WGS 84:** World Geodetic System 1984.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een verzoek tot medegebruik van antenne-opstelpunten, antennesystemen of antennes als bedoeld in [artikel 5a.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5a.3) bevat de volgende gegevens:
 
@@ -86,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 - f. de tekening van het kabeltracé.
 
-#### Artikel 3
+##### Artikel 3
 
 Een verzoek tot medegebruik van fysieke infrastructuur van bovengrondse en ondergrondse netten of netwerken als bedoeld in [artikel 5a.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5a.3) bevat ten minste een omschrijving van:
 
@@ -96,7 +122,7 @@ Een verzoek tot medegebruik van fysieke infrastructuur van bovengrondse en onder
 
 - c. de beoogde tijdsplanning voor de aanleg.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een houder verstrekt op een daartoe strekkend verzoek als bedoeld in [artikel 4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040788&artikel=4), een lijst van de desbetreffende antenne-opstelpunten die bij hem in eigendom zijn, welke de navolgende gegevens omvat:
 
@@ -206,25 +232,25 @@ Een verzoek tot medegebruik van fysieke infrastructuur van bovengrondse en onder
 
 - c. de gegevens betreffende de faseverdeler per frequentie met opgaaf van de faseverdeling.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Regeling aanwijzing frequentieruimte medegebruik antenne-opstelpunten.
 
-#### Artikel 6
+##### Artikel 6
 
 De [Regeling gegevensverstrekking medegebruik omroepzendernetwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0032897) wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking op het tijdstip waarop de [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728) in werking treedt.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling gegevensverstrekking medegebruik omroepzendernetwerken en fysieke en publieke infrastructuur.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 Een verzoek tot medegebruik van publieke infrastructuur als bedoeld in [artikel 5c.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5c.2) bevat ten minste een omschrijving van:
 

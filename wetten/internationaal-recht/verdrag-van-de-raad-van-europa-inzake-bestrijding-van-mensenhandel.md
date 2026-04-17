@@ -1,13 +1,35 @@
 ---
 title: "Verdrag van de Raad van Europa inzake bestrijding van mensenhandel"
 identifier: "BWBV0004138"
-categorie: "Internationaal recht"
-publicatiedatum: 2010-08-01
-laatste_update: 2010-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004138"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-08-01"
+last_updated: "2010-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004138"
+soort: "verdrag"
+stam_id: "10003948493"
+version_id: "10004085212"
+internal_id: "C10008344791"
+label_id: "10003934204"
+dtd_version: "2.0"
+original_entry_into_force: "2010-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004138/2010-08-01/0"
+intitule_bron: "Trb.2006-99"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2006-05-12"
+intitule_in_force: "2010-05-25"
+intitule_status: "goed"
+original_publication: "Trb.2006-99"
+original_published_date: "2006-05-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2006-99"
+entry_into_force_date: "2010-08-01"
+jci_1_3: "jci1.3:c:BWBV0004138&z=2010-08-01&g=2010-08-01"
+jci_1_0: "1.0:c:BWBV0004138&g=2010-08-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-08-01"
 ---
-
 # Verdrag van de Raad van Europa inzake bestrijding van mensenhandel
 
 **Preambule**
@@ -44,7 +66,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. DOELSTELLINGEN, REIKWIJDTE, BEGINSEL VAN NON-DISCRIMINATIE EN BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1. Doelstellingen van het Verdrag
+##### Artikel 1. Doelstellingen van het Verdrag
 
 1. De doelstellingen van dit Verdrag zijn:
 
@@ -56,15 +78,15 @@ Zijn het volgende overeengekomen:
 
 2. Met het oog op de doeltreffende uitvoering van de bepalingen door de Partijen te waarborgen, wordt bij dit Verdrag een specifiek mechanisme voor toezicht ingesteld.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Dit Verdrag is van toepassing op alle vormen van mensenhandel, hetzij nationaal, hetzij internationaal, al dan niet verbonden met georganiseerde misdaad.
 
-#### Artikel 3. Beginsel van non-discriminatie
+##### Artikel 3. Beginsel van non-discriminatie
 
 De uitvoering van de bepalingen van dit Verdrag door de Partijen, met name de beschikking over maatregelen ter bescherming en ter bevordering van de rechten van slachtoffers, wordt gewaarborgd zonder enige discriminatie op welke grond dan ook, zoals geslacht, ras, kleur, taal, godsdienst, politieke of andere mening, nationale of maatschappelijke afkomst, het behoren tot een nationale minderheid, vermogen, geboorte of andere status.
 
-#### Artikel 4. Begripsomschrijvingen
+##### Artikel 4. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -80,7 +102,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK II. VOORKOMING, SAMENWERKING EN ANDERE MAATREGELEN
 
-#### Artikel 5. Voorkomen van mensenhandel
+##### Artikel 5. Voorkomen van mensenhandel
 
 1. Elke Partij neemt maatregelen om nationale coördinatie in te stellen of te versterken tussen de verschillende instanties die verantwoordelijk zijn voor het voorkomen en bestrijden van mensenhandel.
 
@@ -94,7 +116,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 6. Bij overeenkomstig dit artikel vastgestelde maatregelen worden, wanneer van toepassing, niet-gouvernementele organisaties, andere relevante organisaties en andere onderdelen van het maatschappelijk middenveld betrokken die zich inzetten voor het voorkomen van mensenhandel en voor hulp aan of bescherming van slachtoffers.
 
-#### Artikel 6. Maatregelen om de vraag te ontmoedigen
+##### Artikel 6. Maatregelen om de vraag te ontmoedigen
 
 Teneinde de vraag te ontmoedigen die alle vormen van uitbuiting van mensen, in het bijzonder vrouwen en kinderen, die tot mensenhandel leiden, stimuleert, neemt elke Partij wetgevende, administratieve, educatieve, maatschappelijke, culturele of andere maatregelen, of scherpt deze aan, waaronder:
 
@@ -106,7 +128,7 @@ Teneinde de vraag te ontmoedigen die alle vormen van uitbuiting van mensen, in h
 
 - d. preventieve maatregelen, waaronder educatieve programma’s voor schoolgaande jongens en meisjes waarin de onaanvaardbaarheid van discriminatie op grond van geslacht en de rampzalige gevolgen ervan worden benadrukt en het belang van gendergelijkheid en de waardigheid en integriteit van elk mens worden onderstreept.
 
-#### Artikel 7. Grensmaatregelen
+##### Artikel 7. Grensmaatregelen
 
 1. Onverminderd internationale verplichtingen ten aanzien van het vrije verkeer van personen, scherpen de Partijen, voor zover mogelijk, de grenscontroles aan die nodig kunnen zijn ter voorkoming en opsporing van mensenhandel.
 
@@ -120,7 +142,7 @@ Teneinde de vraag te ontmoedigen die alle vormen van uitbuiting van mensen, in h
 
 6. De Partijen versterken de samenwerking tussen instellingen voor grenscontrole, onder andere door het creëren en onderhouden van rechtstreekse communicatiekanalen.
 
-#### Artikel 8. Betrouwbaarheid en controle van documenten
+##### Artikel 8. Betrouwbaarheid en controle van documenten
 
 Elke Partij neemt de maatregelen die nodig kunnen zijn om:
 
@@ -128,13 +150,13 @@ Elke Partij neemt de maatregelen die nodig kunnen zijn om:
 
 - b. de integriteit en betrouwbaarheid van reis- of identiteitsdocumenten afgegeven door of namens de Partij te verzekeren en om de onrechtmatige vervaardiging en afgifte ervan te voorkomen.
 
-#### Artikel 9. Rechtmatigheid en rechtsgeldigheid van documenten
+##### Artikel 9. Rechtmatigheid en rechtsgeldigheid van documenten
 
 Op verzoek van een andere Partij verifieert een Partij, in overeenstemming met haar nationale recht, binnen een redelijke termijn de rechtmatigheid en rechtsgeldigheid van reis- of identiteitsdocumenten die namens haar zijn afgegeven of beschouwd worden als zijnde door haar afgegeven en ten aanzien waarvan de verdenking bestaat dat zij zijn gebruikt voor mensenhandel.
 
 ### HOOFDSTUK III. MAATREGELEN OM DE RECHTEN VAN SLACHTOFFERS TE BESCHERMEN EN TE BEVORDEREN, WAARBIJ GENDERGELIJKHEID WORDT GEWAARBORGD
 
-#### Artikel 10. Identificatie van de slachtoffers
+##### Artikel 10. Identificatie van de slachtoffers
 
 1. Elke Partij verzekert dat haar bevoegde autoriteiten beschikken over personen die opgeleid en gekwalificeerd zijn op het gebied van het voorkomen en bestrijden van mensenhandel en het identificeren en helpen van slachtoffers, met inbegrip van kinderen, en waarborgt dat de verschillende autoriteiten met elkaar en met relevante hulporganisaties samenwerken, zodat slachtoffers kunnen worden geïdentificeerd in een procedure waarbij op passende wijze rekening wordt gehouden met de bijzondere situatie waarin vrouwen en kinderen die slachtoffer zijn, verkeren en, in de daarvoor in aanmerking komende gevallen, verblijfsvergunningen kunnen worden afgegeven krachtens de voorwaarden als vervat in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=14&z=2010-08-01&g=2010-08-01) van dit Verdrag.
 
@@ -150,7 +172,7 @@ Op verzoek van een andere Partij verifieert een Partij, in overeenstemming met h
 
 - c. het verrichten van alle inspanningen om zijn familie te lokaliseren indien dit in het belang van het kind is.
 
-#### Artikel 11. Bescherming van het privé-leven
+##### Artikel 11. Bescherming van het privé-leven
 
 1. Elke Partij beschermt het privé-leven en de identiteit van de slachtoffers. Persoonsgegevens die op hen betrekking hebben worden opgeslagen en gebruikt in overeenstemming met de bepalingen vervat in het [Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBV0002783).
 
@@ -158,7 +180,7 @@ Op verzoek van een andere Partij verifieert een Partij, in overeenstemming met h
 
 3. Elke Partij overweegt, overeenkomstig [artikel 10 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=10) zoals uitgelegd door het Europese Hof voor de Rechten van de Mens, maatregelen te nemen teneinde de media aan te moedigen het privé-leven en de identiteit van slachtoffers te beschermen door middel van zelfregulering of door regulering of co-regulering.
 
-#### Artikel 12. Hulp aan slachtoffers
+##### Artikel 12. Hulp aan slachtoffers
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om slachtoffers te helpen bij hun fysieke, geestelijke en sociale herstel. Dergelijke hulp omvat ten minste:
 
@@ -186,7 +208,7 @@ Op verzoek van een andere Partij verifieert een Partij, in overeenstemming met h
 
 7. Ten behoeve van de uitvoering van de bepalingen van dit artikel, waarborgt elke Partij dat diensten worden geleverd op basis van wederzijds goedvinden en voldoende informatie, daarbij naar behoren rekening houdend met de bijzondere behoeften van personen in een kwetsbare positie en de rechten van kinderen wat betreft huisvesting, onderwijs en passende gezondheidszorg.
 
-#### Artikel 13. Periode van herstel en bezinning
+##### Artikel 13. Periode van herstel en bezinning
 
 1. Elke Partij voorziet in haar nationale recht in een periode van herstel en bezinning van ten minste 30 dagen, wanneer er redelijke gronden zijn om aan te nemen dat de desbetreffende persoon een slachtoffer is. Een dergelijke periode dient voor de desbetreffende persoon voldoende te zijn om te herstellen en zich te onttrekken aan de invloed van mensenhandelaren en/of op basis van voldoende informatie te beslissen of hij/zij met de bevoegde autoriteiten wil samenwerken. Gedurende deze periode mag geen enkele tegen hem/haar genomen verwijderingsmaatregel ten uitvoer worden gelegd. Deze bepaling geldt onverminderd de door de bevoegde autoriteiten uitgevoerde activiteiten tijdens alle fases van de relevante nationale procedures, en met name bij de opsporing en vervolging van de desbetreffende strafbare feiten. Gedurende deze periode geven de Partijen de desbetreffende personen toestemming op hun grondgebied te verblijven.
 
@@ -194,7 +216,7 @@ Op verzoek van een andere Partij verifieert een Partij, in overeenstemming met h
 
 3. De Partijen zijn niet gehouden deze periode in acht te nemen indien redenen die verband houden met de openbare orde, hiertoe nopen of wanneer ontdekt wordt dat ten onrechte een beroep wordt gedaan op de status van slachtoffer.
 
-#### Artikel 14. Verblijfsvergunning
+##### Artikel 14. Verblijfsvergunning
 
 1. Elke Partij geeft een verlengbare verblijfsvergunning af aan slachtoffers, in een of beide van de volgende situaties:
 
@@ -210,7 +232,7 @@ Op verzoek van een andere Partij verifieert een Partij, in overeenstemming met h
 
 5. Gelet op de verplichtingen van de Partijen waarnaar in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=VIII&artikel=40&z=2010-08-01&g=2010-08-01) van dit Verdrag wordt verwezen, waarborgt elke Partij dat het toekennen van een vergunning overeenkomstig deze bepaling het recht om asiel te zoeken en te genieten onverlet laat.
 
-#### Artikel 15. Schadeloosstelling en rechtsmiddelen
+##### Artikel 15. Schadeloosstelling en rechtsmiddelen
 
 1. Elke Partij waarborgt dat slachtoffers, vanaf het eerste contact met de bevoegde autoriteiten, toegang hebben tot informatie over relevante gerechtelijke en administratieve procedures in een taal die zij kunnen begrijpen.
 
@@ -220,7 +242,7 @@ Op verzoek van een andere Partij verifieert een Partij, in overeenstemming met h
 
 4. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om schadeloosstelling voor slachtoffers te waarborgen overeenkomstig de voorwaarden voorzien in haar nationale recht, bijvoorbeeld door het instellen van een fonds voor schadeloosstelling van slachtoffers of maatregelen of programma’s, gericht op sociale ondersteuning en sociale integratie van slachtoffers, hetgeen gefinancierd zou kunnen worden door de vermogensbestanddelen die voortvloeien uit de toepassing van de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=23&z=2010-08-01&g=2010-08-01) voorziene maatregelen.
 
-#### Artikel 16. Repatriëring en terugzending van slachtoffers
+##### Artikel 16. Repatriëring en terugzending van slachtoffers
 
 1. De Partij waarvan een slachtoffer van mensenhandel onderdaan is of waarin die persoon recht had op permanent verblijf ten tijde van de binnenkomst op het grondgebied van de ontvangende Partij, vergemakkelijkt en aanvaardt, met zorgvuldige inachtneming van zijn of haar rechten, veiligheid en waardigheid, de terugkeer van die persoon zonder onnodige of onredelijke vertraging.
 
@@ -236,21 +258,21 @@ Op verzoek van een andere Partij verifieert een Partij, in overeenstemming met h
 
 7. Kinderen die het slachtoffer zijn, worden niet teruggestuurd naar een Staat indien er aanwijzingen zijn, na een risico- en veiligheidsbeoordeling, dat terugzending niet in het belang van het kind zou zijn.
 
-#### Artikel 17. Gendergelijkheid
+##### Artikel 17. Gendergelijkheid
 
 Elke Partij streeft er bij de toepassing van de in dit hoofdstuk bedoelde maatregelen naar gendergelijkheid te bevorderen en gendermainstreaming toe te passen bij de ontwikkeling, tenuitvoerlegging en beoordeling van de maatregelen.
 
 ### HOOFDSTUK IV. MATERIEEL STRAFRECHT
 
-#### Artikel 18. Strafbaarstelling van mensenhandel
+##### Artikel 18. Strafbaarstelling van mensenhandel
 
 Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=I&artikel=4&z=2010-08-01&g=2010-08-01) van dit Verdrag omschreven handelingen, indien zij opzettelijk zijn gepleegd, strafbaar te stellen.
 
-#### Artikel 19. Strafbaarstelling van het gebruikmaken van de diensten van een slachtoffer
+##### Artikel 19. Strafbaarstelling van het gebruikmaken van de diensten van een slachtoffer
 
 Elke Partij overweegt de wetgevende of andere maatregelen te nemen die nodig kunnen zijn om het gebruikmaken van diensten die het voorwerp zijn van uitbuiting als omschreven in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=I&artikel=4&z=2010-08-01&g=2010-08-01), van dit Verdrag, in de wetenschap dat de persoon een slachtoffer is van mensenhandel, krachtens haar nationale recht strafbaar te stellen.
 
-#### Artikel 20. Strafbaarstelling van handelingen die verband houden met reis- of identiteitsdocumenten
+##### Artikel 20. Strafbaarstelling van handelingen die verband houden met reis- of identiteitsdocumenten
 
 Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om de volgende handelingen strafbaar te stellen indien zij opzettelijk en met het doel mensenhandel mogelijk te maken zijn gepleegd:
 
@@ -260,13 +282,13 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om d
 
 - c. het achterhouden, verwijderen, verbergen, beschadigen of vernietigen van een reis- of identiteitsdocument van een andere persoon.
 
-#### Artikel 21. Poging en medeplichtigheid of uitlokking
+##### Artikel 21. Poging en medeplichtigheid of uitlokking
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om medeplichtigheid aan of uitlokking van elk van de overeenkomstig de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2010-08-01&g=2010-08-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=20&z=2010-08-01&g=2010-08-01) van dit Verdrag omschreven feiten, indien zulks opzettelijk geschiedt, strafbaar te stellen.
 
 2. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om een poging tot het plegen van een van de in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2010-08-01&g=2010-08-01) en [20, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=20&z=2010-08-01&g=2010-08-01), van dit Verdrag omschreven feiten, indien zulks opzettelijk geschiedt, strafbaar te stellen.
 
-#### Artikel 22. Aansprakelijkheid van rechtspersonen
+##### Artikel 22. Aansprakelijkheid van rechtspersonen
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om te waarborgen dat een rechtspersoon aansprakelijk kan worden gesteld voor een overeenkomstig dit Verdrag strafbaar gesteld feit, wanneer dit te zijner voordeel wordt gepleegd door een natuurlijke persoon, individueel handelend of als lid van een orgaan van de rechtspersoon, die binnen die rechtspersoon een leidinggevende functie vervult die gebaseerd is op
 
@@ -282,7 +304,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om d
 
 4. Deze aansprakelijkheid geldt onverminderd de strafrechtelijke aansprakelijkheid van de natuurlijke personen die het strafbare feit hebben gepleegd.
 
-#### Artikel 23. Sancties en maatregelen
+##### Artikel 23. Sancties en maatregelen
 
 1. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om te waarborgen dat op de in de artikelen 18 tot en met 21 omschreven strafbare feiten doeltreffende, evenredige en afschrikkende straffen worden gesteld. Deze sancties omvatten, voor de overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2010-08-01&g=2010-08-01) strafbaar gestelde feiten indien zij door natuurlijke personen worden gepleegd, straffen die vrijheidsbeneming met zich meebrengen en tot uitlevering kunnen leiden.
 
@@ -292,7 +314,7 @@ Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om d
 
 4. Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om de tijdelijke of permanente sluiting mogelijk te maken van een inrichting die gebruikt is voor mensenhandel, onverminderd de rechten van derden te goeder trouw, of om de dader tijdelijk of permanent het recht te ontzeggen de activiteit uit te voeren in de uitvoering waarvan het strafbare feit werd gepleegd.
 
-#### Artikel 24. Verzwarende omstandigheden
+##### Artikel 24. Verzwarende omstandigheden
 
 Elke Partij waarborgt dat de volgende omstandigheden worden beschouwd als verzwarende omstandigheden bij de strafbepaling voor overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2010-08-01&g=2010-08-01) van dit Verdrag strafbaar gestelde feiten:
 
@@ -304,17 +326,17 @@ Elke Partij waarborgt dat de volgende omstandigheden worden beschouwd als verzwa
 
 - d. het strafbare feit werd gepleegd in het kader van een criminele organisatie.
 
-#### Artikel 25. Eerdere veroordelingen
+##### Artikel 25. Eerdere veroordelingen
 
 Elke Partij neemt de wetgevende en andere maatregelen om te voorzien in de mogelijkheid bij het bepalen van de straf rekening te houden met onherroepelijke veroordelingen uitgesproken in een andere Partij betrekking tot de in dit Verdrag omschreven strafbare feiten.
 
-#### Artikel 26. Bepaling inzake het niet opleggen van straf
+##### Artikel 26. Bepaling inzake het niet opleggen van straf
 
 Elke Partij voorziet, in overeenstemming met de grondbeginselen van haar rechtsstelsel, in de mogelijkheid slachtoffers geen straf op te leggen voor hun betrokkenheid bij onrechtmatige handelingen indien zij hiertoe gedwongen werden.
 
 ### HOOFDSTUK V. ONDERZOEK, VERVOLGING EN PROCESRECHT
 
-#### Artikel 27. Verzoeken van partijen en ambtshalve verzoeken
+##### Artikel 27. Verzoeken van partijen en ambtshalve verzoeken
 
 1. Elke Partij waarborgt dat opsporing of vervolging van overeenkomstig dit Verdrag strafbaar gestelde feiten niet afhankelijk is van de aangifte of beschuldiging door een slachtoffer, althans wanneer het strafbare feit geheel of gedeeltelijk op haar grondgebied werd gepleegd.
 
@@ -322,7 +344,7 @@ Elke Partij voorziet, in overeenstemming met de grondbeginselen van haar rechtss
 
 3. Elke Partij waarborgt, door middel van wetgevende of andere maatregelen, in overeenstemming met de voorwaarden voorzien in haar nationale wetgeving, dat elke groep, stichting, vereniging of niet-gouvernementele organisaties die zich richten op de bestrijding van mensenhandel of de bescherming van mensenrechten, de mogelijkheid heeft het slachtoffer met zijn of haar toestemming bij te staan en/of te ondersteunen tijdens het strafproces met betrekking tot het overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=IV&artikel=18&z=2010-08-01&g=2010-08-01) van dit Verdrag strafbaar gestelde feit.
 
-#### Artikel 28. Bescherming van slachtoffers, getuigen en personen die met de gerechtelijke autoriteiten samenwerken
+##### Artikel 28. Bescherming van slachtoffers, getuigen en personen die met de gerechtelijke autoriteiten samenwerken
 
 1. Elke Partij neemt de wetgevende en andere maatregelen die nodig kunnen zijn om doeltreffende en passende bescherming te bieden tegen mogelijke represailles of intimidatie, met name tijdens en na de opsporing en vervolging van daders, aan:
 
@@ -342,7 +364,7 @@ Elke Partij voorziet, in overeenstemming met de grondbeginselen van haar rechtss
 
 5. Elke Partij overweegt overeenkomsten of regelingen met andere Staten te sluiten ten behoeve van de uitvoering van dit artikel.
 
-#### Artikel 29. Gespecialiseerde autoriteiten en coördinerende instanties
+##### Artikel 29. Gespecialiseerde autoriteiten en coördinerende instanties
 
 1. Elke Partij neemt de maatregelen die nodig kunnen zijn om te waarborgen dat personen of organen gespecialiseerd zijn in het bestrijden van mensenhandel en in het beschermen van slachtoffers. Dergelijke personen of organen beschikken, in overeenstemming met de grondbeginselen van het rechtsstelsel van de Partij, over de noodzakelijke onafhankelijkheid om hun taken doeltreffend en ongehinderd door ongeoorloofde externe druk te kunnen uitoefenen. Dergelijke personen of het personeel van dergelijke organen beschikken over een voor hun taken toereikende opleiding en financiële middelen.
 
@@ -352,7 +374,7 @@ Elke Partij voorziet, in overeenstemming met de grondbeginselen van haar rechtss
 
 4. Elke Partij overweegt de benoeming van Nationale Rapporteurs of andere mechanismen ten behoeve van het toezicht op activiteiten van staatsinstellingen gericht tegen mensenhandel en de tenuitvoerlegging van verplichtingen ingevolge de nationale wetgeving.
 
-#### Artikel 30. Rechtszittingen
+##### Artikel 30. Rechtszittingen
 
 In overeenstemming met [Verdrag voor de bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000), met name [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=6), neemt elke Partij de wetgevende en andere maatregelen die nodig kunnen zijn om in de gerechtelijke procedure het volgende te waarborgen:
 
@@ -360,7 +382,7 @@ In overeenstemming met [Verdrag voor de bescherming van de rechten van de mens e
 
 - b. de veiligheid van het slachtoffer en bescherming tegen intimidatie, in overeenstemming met de voorwaarden voorzien in haar nationale recht en daarbij, in het geval van kinderen die het slachtoffer zijn, in het bijzonder rekening te houden met de behoeften van kinderen en hun recht op bijzondere beschermingsmaatregelen te waarborgen.
 
-#### Artikel 31. Rechtsmacht
+##### Artikel 31. Rechtsmacht
 
 1. Elke Partij neemt de wetgevende en andere maatregelen die nodig kunnen zijn om haar rechtsmacht te vestigen met betrekking tot een overeenkomstig dit Verdrag strafbaar gesteld feit, indien dit strafbare feit wordt gepleegd:
 
@@ -384,7 +406,7 @@ In overeenstemming met [Verdrag voor de bescherming van de rechten van de mens e
 
 ### HOOFDSTUK VI. INTERNATIONALE SAMENWERKING EN SAMENWERKING MET HET MAATSCHAPPELIJK MIDDENVELD
 
-#### Artikel 32. Algemene beginselen en maatregelen die van toepassing zijn op de internationale samenwerking
+##### Artikel 32. Algemene beginselen en maatregelen die van toepassing zijn op de internationale samenwerking
 
 De Partijen werken, overeenkomstig de bepalingen van dit Verdrag en door toepassing van relevante toepasselijke internationale en regionale instrumenten, regelingen die zijn overeengekomen op basis van uniforme of wederkerige wetgeving en overeenkomstig hun nationale recht, in zo ruim mogelijke mate met elkaar samen ten behoeve van:
 
@@ -394,13 +416,13 @@ De Partijen werken, overeenkomstig de bepalingen van dit Verdrag en door toepass
 
 - –. vervolging of procedures met betrekking tot de krachtens dit Verdrag strafbaar gestelde feiten.
 
-#### Artikel 33. Maatregelen die betrekking hebben op bedreigde of vermiste personen
+##### Artikel 33. Maatregelen die betrekking hebben op bedreigde of vermiste personen
 
 1. Wanneer een Partij, op basis van de informatie waarover zij beschikt, redelijke gronden heeft om aan te nemen dat het leven, de vrijheid of de lichamelijke integriteit van een in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=V&artikel=28&z=2010-08-01&g=2010-08-01), bedoelde persoon in direct gevaar is op het grondgebied van een andere Partij, doet de partij die deze informatie heeft, deze, in een dergelijk noodgeval, onverwijld aan de andere Partij toekomen zodat deze passende beschermingsmaatregelen kan treffen.
 
 2. De Partijen bij dit Verdrag kunnen overwegen hun samenwerking te intensiveren bij het zoeken naar vermiste personen, in het bijzonder vermiste kinderen, indien zij op basis van de beschikbare informatie vermoeden dat zij het slachtoffer van mensenhandel zijn. De Partijen kunnen hiertoe bilaterale of multilaterale verdragen met elkaar sluiten.
 
-#### Artikel 34. Informatie
+##### Artikel 34. Informatie
 
 1. De aangezochte Partij licht de verzoekende Partij onverwijld in over het uiteindelijke resultaat van de krachtens dit hoofdstuk ondernomen actie. De aangezochte Partij licht de verzoekende Partij eveneens onverwijld in over omstandigheden die de uitvoering van de verzochte maatregelen onmogelijk maken of deze aanzienlijk dreigen te vertragen.
 
@@ -410,13 +432,13 @@ De Partijen werken, overeenkomstig de bepalingen van dit Verdrag en door toepass
 
 4. Alle informatie die wordt verzocht met betrekking tot de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=13&z=2010-08-01&g=2010-08-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=14&z=2010-08-01&g=2010-08-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=16&z=2010-08-01&g=2010-08-01), noodzakelijk om te voorzien in de rechten die voortvloeien uit deze artikelen, wordt op verzoek van de desbetreffende Partij onverwijld verstrekt met zorgvuldige inachtneming van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=III&artikel=11&z=2010-08-01&g=2010-08-01) van dit Verdrag.
 
-#### Artikel 35. Samenwerking met het maatschappelijk middenveld
+##### Artikel 35. Samenwerking met het maatschappelijk middenveld
 
 Elke Partij moedigt haar nationale autoriteiten en overheidsfunctionarissen aan samen te werken met niet-gouvernementele organisaties, andere relevante organisaties en onderdelen van het maatschappelijk middenveld om strategische partnerschappen in te stellen gericht op het verwezenlijken van de doelstelling van dit Verdrag.
 
 ### HOOFDSTUK VII. MECHANISME VOOR TOEZICHT
 
-#### Artikel 36. Groep van deskundigen inzake actie tegen mensenhandel
+##### Artikel 36. Groep van deskundigen inzake actie tegen mensenhandel
 
 1. De Groep van deskundigen inzake actie tegen mensenhandel (hierna te noemen „GRETA”) houdt toezicht op de uitvoering van dit Verdrag door de Partijen.
 
@@ -434,7 +456,7 @@ Elke Partij moedigt haar nationale autoriteiten en overheidsfunctionarissen aan 
 
 4. De procedure voor de verkiezing van de leden van GRETA wordt vastgesteld door het Comité van Ministers na raadpleging en verkrijging van unanieme instemming van de Partijen bij het Verdrag, binnen een jaar na de inwerkingtreding van dit Verdrag. GRETA stelt haar eigen reglement van orde vast.
 
-#### Artikel 37. Comité van de Partijen
+##### Artikel 37. Comité van de Partijen
 
 1. Het Comité van de Partijen is samengesteld uit de vertegenwoordigers bij het Comité van Ministers van de Raad van Europa van de lidstaten die Partij zijn bij het Verdrag en vertegenwoordigers van de Partijen bij het Verdrag die geen lid zijn van de Raad van Europa.
 
@@ -442,7 +464,7 @@ Elke Partij moedigt haar nationale autoriteiten en overheidsfunctionarissen aan 
 
 3. Het Comité van de Partijen stelt zijn eigen reglement van orde vast.
 
-#### Artikel 38. Procedure
+##### Artikel 38. Procedure
 
 1. De evaluatieprocedure heeft betrekking op de Partijen bij het Verdrag en wordt in rondes verdeeld die een door GRETA bepaalde duur hebben. Aan het begin van iedere ronde kiest GRETA de specifieke voorwaarden waarop de evaluatieprocedure moet worden gebaseerd.
 
@@ -464,11 +486,11 @@ Elke Partij moedigt haar nationale autoriteiten en overheidsfunctionarissen aan 
 
 ### HOOFDSTUK VIII. VERHOUDING TOT ANDERE INTERNATIONALE INSTRUMENTEN
 
-#### Artikel 39. Verhouding tot het Protocol inzake de preventie, bestrijding en bestraffing van mensenhandel, in het bijzonder vrouwenhandel en kinderhandel, tot aanvulling van het Verdrag van de Verenigde Naties tegen transnationale georganiseerde misdaad
+##### Artikel 39. Verhouding tot het Protocol inzake de preventie, bestrijding en bestraffing van mensenhandel, in het bijzonder vrouwenhandel en kinderhandel, tot aanvulling van het Verdrag van de Verenigde Naties tegen transnationale georganiseerde misdaad
 
 Dit Verdrag laat de rechten en verplichtingen die voortvloeien uit het Protocol inzake de preventie, bestrijding en bestraffing van mensenhandel, in het bijzonder vrouwenhandel en kinderhandel, tot aanvulling van het [Verdrag van de Verenigde Naties tegen transnationale georganiseerde misdaad](https://wetten.overheid.nl/jci1.3:c:BWBV0001668) onverlet, en beoogt de bescherming die door dit instrument wordt geboden te verbeteren en de erin vastgestelde normen te ontwikkelen.
 
-#### Artikel 40. Verhouding tot andere internationale instrumenten
+##### Artikel 40. Verhouding tot andere internationale instrumenten
 
 1. Dit Verdrag laat de rechten en verplichtingen onverlet die voortvloeien uit andere internationale instrumenten waarbij de Partijen bij dit Verdrag partij zijn of zullen worden en die bepalingen bevatten inzake door dit Verdrag geregelde aangelegenheden en die een grotere bescherming van en meer hulp aan de slachtoffers van mensenhandel waarborgen.
 
@@ -480,7 +502,7 @@ Dit Verdrag laat de rechten en verplichtingen die voortvloeien uit het Protocol 
 
 ### HOOFDSTUK IX. WIJZIGINGEN VAN HET VERDRAG
 
-#### Artikel 41. Wijzigingen
+##### Artikel 41. Wijzigingen
 
 1. Elk voorstel tot wijziging van dit Verdrag dat door een Partij wordt ingediend, wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door hem of haar toegezonden aan de lidstaten van de Raad van Europa, elke ondertekenaar, elke Staat die Partij is, de Europese Gemeenschap, elke Staat die overeenkomstig de bepalingen van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=42&z=2010-08-01&g=2010-08-01) is uitgenodigd dit Verdrag te ondertekenen en aan elke Staat die overeenkomstig de bepalingen van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=43&z=2010-08-01&g=2010-08-01) is uitgenodigd tot dit Verdrag toe te treden.
 
@@ -494,7 +516,7 @@ Dit Verdrag laat de rechten en verplichtingen die voortvloeien uit het Protocol 
 
 ### HOOFDSTUK X. SLOTBEPALINGEN
 
-#### Artikel 42. Ondertekening en inwerkingtreding
+##### Artikel 42. Ondertekening en inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa, door Staten die geen lid van de Raad zijn en die hebben deelgenomen aan de opstelling hiervan en door de Europese Gemeenschap.
 
@@ -504,13 +526,13 @@ Dit Verdrag laat de rechten en verplichtingen die voortvloeien uit het Protocol 
 
 4. Ten aanzien van iedere in het eerste lid genoemde Staat of de Europese Gemeenschap, die daarna het feit dat hij of zij ermee instemt door dit Verdrag te worden gebonden, tot uitdrukking brengt, treedt het Verdrag in werking op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 43. Toetreding tot het Verdrag
+##### Artikel 43. Toetreding tot het Verdrag
 
 1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa, na raadpleging en verkrijging van unanieme instemming van de Partijen bij dit Verdrag, elke Staat die geen lid is van de Raad van Europa en die niet heeft deelgenomen aan de opstelling van het Verdrag, uitnodigen tot dit Verdrag toe te treden, door een door de meerderheid als voorzien in artikel 20, onderdeel d, van het Statuut van de Raad van Europa genomen besluit en door de unanieme stemming door de vertegenwoordigers van de Verdragsluitende Staten die recht hebben op een zetel in het Comité van Ministers.
 
 2. Ten aanzien van elke toetredende Staat treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 44. Territoriale toepassing
+##### Artikel 44. Territoriale toepassing
 
 1. Elke Staat of de Europese Gemeenschap kan, op het tijdstip van de ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het grondgebied of de grondgebieden waarop dit Verdrag van toepassing is nader aanduiden.
 
@@ -518,17 +540,17 @@ Dit Verdrag laat de rechten en verplichtingen die voortvloeien uit het Protocol 
 
 3. Iedere krachtens de twee voorgaande leden gedane verklaring kan, met betrekking tot elk in die verklaring nader aangeduid grondgebied, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 45. Voorbehouden
+##### Artikel 45. Voorbehouden
 
 Ten aanzien van de bepalingen van dit Verdrag kunnen geen voorbehouden worden gemaakt, met uitzondering van het voorbehoud van [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=V&artikel=31&z=2010-08-01&g=2010-08-01).
 
-#### Artikel 46. Opzegging
+##### Artikel 46. Opzegging
 
 1. Iedere Partij kan dit Verdrag te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
 2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 47. Kennisgeving
+##### Artikel 47. Kennisgeving
 
 De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, alle ondertekenende Staten, alle Staten die Partij zijn, de Europese Gemeenschap, alle Staten die overeenkomstig de bepalingen van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=42&z=2010-08-01&g=2010-08-01) zijn uitgenodigd dit Verdrag te ondertekenen en alle Staten die overeenkomstig de bepalingen van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004138&hoofdstuk=X&artikel=43&z=2010-08-01&g=2010-08-01) zijn uitgenodigd tot dit Verdrag toe te treden in kennis van:
 

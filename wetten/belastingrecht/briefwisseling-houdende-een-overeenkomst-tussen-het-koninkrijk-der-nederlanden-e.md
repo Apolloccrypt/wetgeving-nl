@@ -1,13 +1,38 @@
 ---
 title: "Briefwisseling houdende een overeenkomst tussen het Koninkrijk der Nederlanden en de Turks- en Caicoseilanden betreffende belastingheffing op inkomsten uit spaargelden"
 identifier: "BWBV0001744"
-categorie: "Belastingrecht"
-publicatiedatum: 2005-07-27
-laatste_update: 2004-12-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001744"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-07-27"
+last_updated: "2004-12-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001744"
+soort: "verdrag"
+stam_id: "10001521233"
+version_id: "10001599472"
+internal_id: "C10009246821"
+label_id: "10001521494"
+dtd_version: "2.0"
+original_entry_into_force: "2005-07-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001744/2005-07-27/0"
+intitule_bron: "Trb.2005-155"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-07-01"
+intitule_published: "2005-06-01"
+intitule_in_force: "2007-09-19"
+intitule_status: "goed"
+original_publication: "Trb.2005-155"
+original_signed_date: "2005-07-01"
+original_published_date: "2005-06-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2005-155"
+entry_into_force_date: "2005-07-27"
+jci_1_3: "jci1.3:c:BWBV0001744&z=2005-07-27&g=2005-07-27"
+jci_1_0: "1.0:c:BWBV0001744&g=2005-07-27"
+citeertitel_status: "redactioneel"
+signed_date: "2005-07-01"
+entry_into_force: "2005-07-27"
 ---
-
 # Briefwisseling houdende een overeenkomst tussen het Koninkrijk der Nederlanden en de Turks- en Caicoseilanden betreffende belastingheffing op inkomsten uit spaargelden
 
 Overwegende hetgeen volgt:
@@ -52,11 +77,11 @@ Opgeschort per 4 april 2016 (Trb. 2017/89).
 
 Opgeschort per 4 april 2016 (Trb. 2017/89).
 
-#### Artikel 1. Inhouding van belasting door uitbetalende instanties
+##### Artikel 1. Inhouding van belasting door uitbetalende instanties
 
 Over de rentebetalingen die worden omschreven in artikel 8 van deze Overeenkomst en die worden verricht door een uitbetalende instantie gevestigd op de Turks- en Caicoseilanden aan uiteindelijk gerechtigden in de zin van artikel 5 van deze Overeenkomst die hun woonplaats in het Koninkrijk der Nederlanden hebben, is, onverminderd het bepaalde in artikel 3 van deze Overeenkomst, bronbelasting verschuldigd, gedurende de in artikel 14 van deze Overeenkomst bedoelde overgangsperiode die begint op de in artikel 15 van deze Overeenkomst vermelde datum. Het tarief van de bronbelasting bedraagt 15% gedurende de eerste drie jaar van de overgangsperiode, 20% gedurende de volgende drie jaar en 35% daarna.
 
-#### Artikel 2. Informatieverschaffıng door uitbetalende instanties
+##### Artikel 2. Informatieverschaffıng door uitbetalende instanties
 
 1. Indien rentebetalingen, zoals omschreven in artikel 8 van deze Overeenkomst, worden verricht door een uitbetalende instantie gevestigd in het Koninkrijk der Nederlanden aan uiteindelijk gerechtigden, zoals omschreven in artikel 5 van deze Overeenkomst, die hun woonplaats op de Turks- en Caicoseilanden hebben, of indien de bepalingen van artikel 3, eerste lid, onderdeel a, van deze Overeenkomst van toepassing zijn, meldt de uitbetalende instantie aan haar bevoegde autoriteit:
 
@@ -72,7 +97,7 @@ en het Koninkrijk der Nederlanden dient te voldoen aan het tweede lid van dit ar
 
 2. Binnen zes maanden na het einde van het belastingjaar, verstrekt de bevoegde autoriteit van het Koninkrijk der Nederlanden automatisch aan de bevoegde autoriteit van de Turks- en Caicoseilanden de in het eerste lid, onderdelen a tot en met d, van dit artikel bedoelde gegevens van alle gedurende dat jaar verrichte rentebetalingen.
 
-#### Artikel 3. Uitzonderingen op de procedure van bronbelasting
+##### Artikel 3. Uitzonderingen op de procedure van bronbelasting
 
 1. Bij het heffen van bronbelasting overeenkomstig artikel 1 van deze Overeenkomst voorzien de Turks- en Caicoseilanden in een van beide of beide volgende procedures teneinde te waarborgen dat de uiteindelijk gerechtigden een verzoek kunnen indienen dat geen bronbelasting wordt ingehouden:
 
@@ -92,7 +117,7 @@ Een dergelijke verklaring is geldig voor ten hoogste drie jaar. Zij wordt afgege
 
 3. Indien het eerste lid, onderdeel a, van dit artikel van toepassing is, zendt de bevoegde autoriteit van de Turks- en Caicoseilanden waar de uitbetalende instantie is gevestigd, de in artikel 2, eerste lid, van deze Overeenkomst bedoelde informatie aan de bevoegde autoriteit van het Koninkrijk der Nederlanden als woonstaat van de uiteindelijk gerechtigde. Deze informatie wordt automatisch en ten minste eenmaal per jaar verstrekt, binnen zes maanden na afloop van het overeenkomstig de wetgeving van een Overeenkomstsluitende Partij vastgestelde belastingjaar, voor alle gedurende dat jaar verrichte rentebetalingen.
 
-#### Artikel 4. Grondslag voor vaststelling van bronbelasting
+##### Artikel 4. Grondslag voor vaststelling van bronbelasting
 
 1. Een uitbetalende instantie gevestigd op de Turks- en Caicoseilanden heft op de volgende wijze bronbelasting in overeenstemming met artikel 1 van deze Overeenkomst:
 
@@ -112,7 +137,7 @@ Een dergelijke verklaring is geldig voor ten hoogste drie jaar. Zij wordt afgege
 
 4. Tijdens de overgangsperiode kunnen de Turks- en Caicoseilanden bepalen dat een marktdeelnemer die rente uitbetaalt aan of een rentebetaling bewerkstelligt voor, een in de andere Overeenkomstsluitende Partij gevestigde entiteit als bedoeld in artikel 7, tweede lid, van deze Overeenkomst, wordt aangemerkt als de uitbetalende instantie in plaats van de entiteit, en de bronbelasting op die rente heft, tenzij de entiteit formeel heeft aanvaard dat haar naam en adres alsmede het totale bedrag van de rentebetaling die aan haar is verricht of voor haar is bewerkstelligd, worden meegedeeld overeenkomstig de laatste alinea van artikel 7, tweede lid, van deze Overeenkomst.
 
-#### Artikel 5. Definitie van uiteindelijk gerechtigde
+##### Artikel 5. Definitie van uiteindelijk gerechtigde
 
 1. Voor de toepassing van deze Overeenkomst wordt onder „uiteindelijk gerechtigde” verstaan elke natuurlijke persoon die een rentebetaling ontvangt, of ten gunste van wie een rentebetaling wordt bewerkstelligd, tenzij deze aantoont dat de rentebetaling niet te zijner gunste is ontvangen of bewerkstelligd is. Een natuurlijke persoon wordt niet aangemerkt als de uiteindelijk gerechtigde indien:
 
@@ -124,7 +149,7 @@ Een dergelijke verklaring is geldig voor ten hoogste drie jaar. Zij wordt afgege
 
 2. Indien de uitbetalende instantie beschikt over gegevens die doen vermoeden dat de natuurlijke persoon die een rentebetaling ontvangt of ten gunste van wie een rentebetaling wordt bewerkstelligd, niet de uiteindelijk gerechtigde is, en die persoon noch onder onderdeel a, noch onder onderdeel b van het eerste lid van dit artikel valt, moet zij redelijke maatregelen nemen om de identiteit van de uiteindelijk gerechtigde vast te stellen. Indien de uitbetalende instantie de uiteindelijk gerechtigde niet kan identificeren, behandelt zij de natuurlijke persoon in kwestie als de uiteindelijk gerechtigde.
 
-#### Artikel 6. Identiteit en woonplaats van de uiteindelijk gerechtigde
+##### Artikel 6. Identiteit en woonplaats van de uiteindelijk gerechtigde
 
 1. Voor de toepassing van deze Overeenkomst stelt elke Partij, binnen haar grondgebied, de procedures vast die nodig zijn om de uitbetalende instantie in staat te stellen de identiteit en woonplaats van de uiteindelijk gerechtigden vast te stellen en draagt de Partij zorg voor de toepassing van deze procedures. Deze procedures voldoen aan de minimumnormen als vastgesteld in het tweede en derde lid.
 
@@ -140,7 +165,7 @@ Een dergelijke verklaring is geldig voor ten hoogste drie jaar. Zij wordt afgege
 
 - b. voor contractuele betrekkingen die zijn aangegaan, of transacties die bij ontstentenis van contractuele betrekkingen zijn verricht, op of na 1 januari 2004, stelt de uitbetalende instantie de woonplaats van de uiteindelijk gerechtigde vast op basis van het adres dat vermeld staat in het paspoort, op de officiële identiteitskaart of zo nodig op basis van enig ander document dat door de uiteindelijk gerechtigde wordt overgelegd en dat zijn identiteit bewijst, volgens de volgende procedure: van natuurlijke personen die een door een lidstaat uitgereikt paspoort of officiële identiteitskaart overleggen en die verklaren ingezetene van een derde land te zijn, wordt de woonplaats vastgesteld op basis van een fiscalewoonplaatsverklaring die is afgegeven door de bevoegde autoriteit van het derde land waarvan de natuurlijke persoon verklaart ingezetene te zijn. Wordt een dergelijke verklaring niet overgelegd, dan wordt de natuurlijke persoon geacht zijn woonplaats te hebben in de lidstaat die het paspoort of enig ander officieel identiteitsdocument heeft uitgereikt.
 
-#### Artikel 7. Definitie van uitbetalende instantie
+##### Artikel 7. Definitie van uitbetalende instantie
 
 1. Voor de toepassing van deze Overeenkomst wordt onder „uitbetalende instantie” verstaan elke marktdeelnemer die rente uitbetaalt of een rentebetaling bewerkstelligt ten onmiddellijke gunste van de uiteindelijk gerechtigde, ongeacht of deze marktdeelnemer de debiteur is van de rentedragende schuldvordering of de marktdeelnemer die door de debiteur of de uiteindelijk gerechtigde belast is met het uitbetalen van de rente of het bewerkstelligen van de rentebetaling.
 
@@ -164,7 +189,7 @@ Een marktdeelnemer die rente uitbetaalt aan, of een rentebetaling bewerkstelligt
 
 - b. in Zweden: handelsbolag (HB) en kommanditbolag (KB).
 
-#### Artikel 8. Definitie van rentebetaling
+##### Artikel 8. Definitie van rentebetaling
 
 1. Voor de toepassing van deze Overeenkomst wordt onder „rentebetaling” verstaan:
 
@@ -210,7 +235,7 @@ Indien een Overeenkomstsluitende Partij gebruik maakt van deze keuzemogelijkheid
 
 8. De in het eerste lid, onderdeel d, en in het zesde lid van dit artikel bedoelde percentages worden bepaald aan de hand van de beleggingspolitiek zoals die in het fondsenreglement of de statuten van de betrokken instellingen of entiteiten is neergelegd en, bij ontstentenis daarvan, op basis van de feitelijke samenstelling van de beleggingsportefeuille van de betrokken instellingen of entiteiten.
 
-#### Artikel 9. Verdeling van de opbrengsten van bronbelasting
+##### Artikel 9. Verdeling van de opbrengsten van bronbelasting
 
 1. De Turks- en Caicoseilanden behouden 25% van de uit hoofde van deze Overeenkomst geheven bronbelasting en dragen de resterende 75% van de opbrengsten over aan de andere Overeenkomstsluitende Partij.
 
@@ -220,7 +245,7 @@ Indien een Overeenkomstsluitende Partij gebruik maakt van deze keuzemogelijkheid
 
 4. Bij het heffen van bronbelasting treffen de Turks- en Caicoseilanden de maatregelen die nodig zijn om het systeem voor de verdeling van de belastingopbrengsten correct te doen functioneren.
 
-#### Artikel 10. Voorkomen van dubbele belasting
+##### Artikel 10. Voorkomen van dubbele belasting
 
 1. Als een Overeenkomstsluitende Partij de fiscale woonstaat van de uiteindelijk gerechtigde is, zorgt deze ervoor dat het heffen van bronbelasting als bedoeld in deze Overeenkomst door de Turks- en Caicoseilanden niet leidt tot dubbele belasting overeenkomstig de volgende bepalingen:
 
@@ -230,7 +255,7 @@ Indien een Overeenkomstsluitende Partij gebruik maakt van deze keuzemogelijkheid
 
 2. De Overeenkomstsluitende Partij die de fiscale woonstaat is van de uiteindelijk gerechtigde, kan de belastingverrekeningsregeling bedoeld in het eerste lid van dit artikel vervangen door restitutie van de in artikel 1 van deze Overeenkomst bedoelde bronbelasting.
 
-#### Artikel 11. Overgangsbepalingen voor verhandelbare schuldbewijzen
+##### Artikel 11. Overgangsbepalingen voor verhandelbare schuldbewijzen
 
 1. Gedurende de in artikel 14 van deze Overeenkomst bedoelde overgangsperiode, maar uiterlijk tot 31 december 2010, worden binnenlandse en internationale obligaties en andere verhandelbare schuldbewijzen die voor het eerst zijn uitgegeven voor 1 maart 2001 of waarvan het oorspronkelijke emissieprospectus voor die datum is goedgekeurd door de bevoegde autoriteiten in de zin van Richtlijn 80/390/EEG van de Raad of door de verantwoordelijke autoriteiten in derde landen, niet aangemerkt als schuldvorderingen in de zin van artikel 8, eerste lid, onderdeel a, op voorwaarde dat op of na 1 maart 2002 geen aanvullende emissies van dergelijke verhandelbare schuldbewijzen plaatsvinden. Mocht de overgangsperiode echter na 31 december 2010 voortduren, dan blijven de bepalingen van dit artikel alleen van toepassing op de verhandelbare schuldbewijzen:
 
@@ -244,11 +269,11 @@ Indien op of na 1 maart 2002 een vervolgemissie plaatsvindt van een van de voren
 
 2. Dit artikel belet de Overeenkomstsluitende Partijen niet de inkomsten uit de in het eerste lid bedoelde verhandelbare schuldbewijzen overeenkomstig hun nationale recht te belasten.
 
-#### Artikel 12. Regeling voor onderling overleg
+##### Artikel 12. Regeling voor onderling overleg
 
 Indien moeilijkheden of twijfelpunten mochten rijzen tussen Partijen met betrekking tot de uitvoering of de uitlegging van deze Overeenkomst, stellen de Overeenkomstsluitende Partijen alles in het werk om die in onderling overleg op te lossen.
 
-#### Artikel 13. Vertrouwelijkheid
+##### Artikel 13. Vertrouwelijkheid
 
 1. Alle inlichtingen die de bevoegde autoriteit van een Overeenkomstsluitende Partij verstrekt en ontvangt zijn vertrouwelijk. Het beginsel van vertrouwelijkheid is van essentieel belang voor de correcte tenuitvoerlegging en duurzaamheid van deze Overeenkomst.
 
@@ -258,23 +283,23 @@ Indien moeilijkheden of twijfelpunten mochten rijzen tussen Partijen met betrekk
 
 4. Wanneer een bevoegde autoriteit van een Overeenkomstsluitende Partij van mening is dat de inlichtingen die zij van de bevoegde autoriteit van de andere Overeenkomstsluitende Partij heeft ontvangen, van nut kunnen zijn voor de bevoegde autoriteit van een derde lidstaat, kan zij de inlichtingen met toestemming van de bevoegde autoriteit die de inlichtingen heeft verstrekt, doorgeven aan de bevoegde autoriteit van de derde lidstaat.
 
-#### Artikel 14. Overgangsperiode
+##### Artikel 14. Overgangsperiode
 
 Aan het einde van de overgangsperiode als omschreven in artikel 10, tweede lid, van de richtlijn, zullen de Turks- en Caicoseilanden niet langer bronbelasting en verdeling van belastingopbrengsten als voorzien in deze Overeenkomst toepassen en ten behoeve van de andere Overeenkomstsluitende Partij de bepalingen inzake de automatische gegevensuitwisseling toepassen als voorzien in hoofdstuk II van de richtlijn. Indien de Turks- en Caicoseilanden er tijdens de overgangsperiode voor kiezen de automatische gegevensuitwisseling op dezelfde wijze toe te passen als voorzien in hoofdstuk II van de richtlijn, zullen zij niet langer de bronbelasting en verdeling van belastingopbrengsten als bepaald in artikel 9 van deze Overeenkomst toepassen.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 1. Deze Overeenkomst treedt in werking op de dertigste dag na de laatste van de data waarop de respectieve regeringen elkaar er van in kennis hebben gesteld dat de grondwettelijk voorgeschreven formaliteiten zijn vervuld en de bepalingen ervan vinden toepassing op de datum vanaf welke de richtlijn overeenkomstig artikel 17, tweede en derde lid, van de richtlijn van toepassing is.
 
 2. Bij ontstentenis van directe belastingheffing op de Turks- en Caicoseilanden is artikel 2 van deze Overeenkomst niet van toepassing in het Koninkrijk der Nederlanden.
 
-#### Artikel 16. Beëindiging
+##### Artikel 16. Beëindiging
 
 1. Deze Overeenkomst blijft van kracht totdat zij door een van beide Overeenkomstsluitende Partijen wordt beëindigd.
 
 2. Elke Overeenkomstsluitende Partij kan deze Overeenkomst beëindigen door middel van een schriftelijke kennisgeving aan de andere Overeenkomstsluitende Partij, onder vermelding van de omstandigheden die tot de kennisgeving hebben geleid. In dat geval houdt deze Overeenkomst op van kracht te zijn twaalf maanden na de betekening van de kennisgeving.
 
-#### Artikel 17. Toepassing en opschorting van toepassing
+##### Artikel 17. Toepassing en opschorting van toepassing
 
 1. De toepassing van deze Overeenkomst is afhankelijk van de aanneming en tenuitvoerlegging door alle lidstaten van de Europese Unie, de Verenigde Staten van Amerika, Zwitserland, Andorra, Liechtenstein, Monaco en San Marino, evenals door alle betrokken afhankelijke en geassocieerde gebieden van de lidstaten van de Europese Gemeenschap, van maatregelen die voldoen aan of vergelijkbaar zijn met die vervat in de richtlijn of in deze Overeenkomst, en die dezelfde data van tenuitvoerlegging eisen.
 

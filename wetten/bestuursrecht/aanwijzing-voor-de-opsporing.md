@@ -1,13 +1,35 @@
 ---
 title: "Aanwijzing voor de opsporing"
 identifier: "BWBR0034586"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034586"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034586"
+soort: "beleidsregel"
+stam_id: "12532723"
+version_id: "21097302"
+internal_id: "C30283471"
+label_id: "12503794"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034586/2014-01-01/0"
+intitule_bron: "Stcrt.2013-35757"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-12-24"
+intitule_in_force: "2013-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-35757"
+original_published_date: "2013-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-35757"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034586&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0034586&g=2014-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2014-01-01"
 ---
-
 # Aanwijzing voor de opsporing
 
 ### Achtergrond

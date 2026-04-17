@@ -1,13 +1,39 @@
 ---
-title: "Besluit vergoedingen Kernenergiewet"
+title: "Besluit van 25 november 2013, houdende regels inzake de in het kader van de Kernenergiewet in rekening te brengen kosten (Besluit vergoedingen Kernenergiewet)"
 identifier: "BWBR0034271"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034271"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034271"
+soort: "AMvB"
+stam_id: "12446693"
+version_id: "20920192"
+internal_id: "C30036151"
+label_id: "12417544"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034271/2026-01-01/0"
+intitule_bron: "Stb.2013-479"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-11-25"
+intitule_published: "2013-12-05"
+intitule_in_force: "2013-12-05"
+intitule_status: "goed"
+original_publication: "Stb.2013-479"
+original_signed_date: "2013-11-25"
+original_published_date: "2013-12-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2013-479"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034271&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0034271&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vergoedingen Kernenergiewet"
+signed_date: "2013-11-25"
+entry_into_force: "2014-01-01"
 ---
-
 # Besluit van 25 november 2013, houdende regels inzake de in het kader van de Kernenergiewet in rekening te brengen kosten (Besluit vergoedingen Kernenergiewet)
 
 Op de voordracht van Onze Minister van Economische Zaken van 1 oktober 2013, nr. WJZ / 13162708;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Economische Zaken van 19 november
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -40,11 +66,11 @@ In dit besluit wordt verstaan onder:
 
 - –. **wet:** de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402).
 
-#### Artikel 2
+##### Artikel 2
 
 Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld in [artikel 15, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) voor het vervoer van splijtstoffen, genoemd in [bijlage I van de Regeling beveiliging nucleaire inrichtingen en splijtstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0029067&bijlage=I) bedraagt € 3.680 van 1 januari 2026 tot 1 januari 2027: € 4.760,–.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het bedrag dat verschuldigd is voor het in behandeling nemen van een aanvraag van een houder van een vergunning als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) voor de verlening van een vergunning voor het voorhanden hebben of zich ontdoen van splijtstoffen als bedoeld in artikel 15, onderdeel a, van de wet, bedraagt:
 
@@ -58,7 +84,7 @@ Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld 
 
 - b. € 8.648 van 1 januari 2026 tot 1 januari 2027: € 11.186,– indien bij de voorbereiding van de vergunning toepassing is gegeven aan [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het bedrag dat verschuldigd is voor het in behandeling nemen van een aanvraag voor een vergunning voor de oprichting van een inrichting als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) bedraagt:
 
@@ -76,7 +102,7 @@ Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld 
 
 - c. € 1.007.040 van 1 januari 2026 tot 1 januari 2027: € 1.296.000,– indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het bedrag dat verschuldigd is voor het in behandeling nemen van een aanvraag voor een vergunning voor het in werking brengen of het in werking houden van een inrichting als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) bedraagt:
 
@@ -94,7 +120,7 @@ Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld 
 
 - c. € 377.640 van 1 januari 2026 tot 1 januari 2027: € 486.000,– indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het bedrag dat verschuldigd is voor het in behandeling nemen van een aanvraag voor een vergunning voor het buiten gebruik stellen of het ontmantelen van een inrichting als bedoeld in [artikel 15, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), van de wet bedraagt:
 
@@ -112,7 +138,7 @@ Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld 
 
 - c. € 31.470 van 1 januari 2026 tot 1 januari 2027: € 40.500,– indien het een andere inrichting betreft dan in onderdelen a en b genoemd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het bedrag dat verschuldigd is voor het in behandeling nemen van een aanvraag voor een wijziging van een vergunning als bedoeld in de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2026-01-01&g=2026-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2026-01-01&g=2026-01-01), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2026-01-01&g=2026-01-01), bedraagt:
 
@@ -130,7 +156,7 @@ Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld 
 
 - c. € 90.528 van 1 januari 2026 tot 1 januari 2027: € 117.096,– indien het een gecompliceerd besluit betreft.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het bedrag dat jaarlijks verschuldigd is voor de periode vanaf het moment waarop een inrichting als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) in bedrijf is gegaan tot het moment waarop de vergunningen op grond van artikel 15, onderdeel b, zijn ingetrokken bedraagt:
 
@@ -150,7 +176,7 @@ Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld 
 
 - c. € 185.472 van 1 januari 2026 tot 1 januari 2027: € 243.000,– indien het een beoordeling betreft van een verslag betreft ten behoeve van een andere inrichting dan in onderdelen a en b genoemd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De bedragen bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2026-01-01&g=2026-01-01), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2026-01-01&g=2026-01-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2026-01-01&g=2026-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2026-01-01&g=2026-01-01), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2026-01-01&g=2026-01-01), worden met € 13.248 van 1 januari 2026 tot 1 januari 2027: € 17.136,– verhoogd indien een milieueffectrapport als bedoeld in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) moet worden gemaakt.
 
@@ -170,7 +196,7 @@ Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld 
 
 - e. € 5.000 van 1 januari 2026 tot 1 januari 2027: € 6.639,– indien op basis van een wettelijk voorschrift een milieueffectrapport als bedoeld in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) is gemaakt en een kennisgeving hiervan in het buitenland is geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het bedrag dat verschuldigd is voor een inschrijving of de verlenging van een inschrijving in het register voor stralingsartsen als bedoeld in [artikel 7.22, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.22) bedraagt € 500 van 1 januari 2026 tot 1 januari 2027: € 650,–.
 
@@ -180,7 +206,7 @@ Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld 
 
 4. Het bedrag dat verschuldigd is voor de verlening van een erkenning als bedoeld in [artikel 7.15, tweede lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=7.15) bedraagt € 5.000 van 1 januari 2026 tot 1 januari 2027: € 6.639,–.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien voor het in behandeling nemen van een aanvraag op grond van dit besluit meer dan één bedrag verschuldigd is, is alleen het hoogste bedrag verschuldigd.
 
@@ -188,7 +214,7 @@ Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld 
 
 3. Het eerste en tweede lid zijn niet van toepassing indien een aanvraag of een besluit betrekking hebben op in ieder geval twee of meer gecompliceerde vergunningen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Autoriteit brengt de bedragen in rekening en verzendt een besluit daartoe:
 
@@ -204,7 +230,7 @@ Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld 
 
 2. Op de inning van de bedragen, bedoeld in de [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=3&z=2026-01-01&g=2026-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=4&z=2026-01-01&g=2026-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=5&z=2026-01-01&g=2026-01-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=6&z=2026-01-01&g=2026-01-01), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034271&artikel=7&z=2026-01-01&g=2026-01-01), is [titel 4.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4) van toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De in dit besluit genoemde bedragen worden jaarlijks met ingang van 1 januari aangepast met het verschil tussen de in dit besluit gegeven bedragen en het bedrag van het in de bijlage bij dit besluit aantal uren of fulltime equivalents maal het in dat jaar geldende tarief schaal 13 opgenomen in het Handboek Financiële Informatie en Administratie Rijksoverheid. Daarbij worden de bedragen rekenkundig afgerond op gehele euro’s.
 
@@ -212,7 +238,7 @@ Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld 
 
 3. Van de bedragen, bedoeld in het eerste en tweede lid, doet de Autoriteit jaarlijks voor 1 januari mededeling in de Staatscourant.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2014.
 
@@ -222,11 +248,11 @@ Het bedrag dat verschuldigd is voor de verlening van een vergunning als bedoeld 
 
 - b. een document waarin de houder van een vergunning op grond van [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) ten minste eens in de tien jaar aan de Minister verslag doet inzake de nucleaire veiligheid van de onder zijn beheer zijnde kerninstallatie dat voor 1 januari 2014 door Onze Minister van Economische Zaken is ontvangen.
 
-#### Artikel 15
+##### Artikel 15
 
 Het [Bijdragenbesluit Kernenergiewet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003418) wordt ingetrokken.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit vergoedingen Kernenergiewet.
 

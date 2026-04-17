@@ -1,20 +1,43 @@
 ---
-title: "Bestuursreglement College ter beoordeling van geneesmiddelen"
+title: "Bestuursreglement van het College ter beoordeling van geneesmiddelen, als bedoeld in artikel 4 Geneesmiddelenwet, houdende de regeling voor de werkwijze van het College"
 identifier: "BWBR0033182"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-09-27
-laatste_update: 2012-09-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033182"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-09-27"
+last_updated: "2012-09-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033182"
+soort: "zbo"
+stam_id: "12191463"
+version_id: "20401112"
+internal_id: "C28679791"
+label_id: "12163034"
+dtd_version: "2.0"
+original_entry_into_force: "2012-09-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033182/2012-09-27/0"
+intitule_bron: "Stcrt.2012-19281"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2012-09-25"
+intitule_in_force: "2012-09-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-19281"
+original_published_date: "2012-09-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-19281"
+entry_into_force_date: "2012-09-27"
+jci_1_3: "jci1.3:c:BWBR0033182&z=2012-09-27&g=2012-09-27"
+jci_1_0: "1.0:c:BWBR0033182&g=2012-09-27"
+citeertitel_status: "officieel"
+short_title: "Bestuursreglement College ter beoordeling van geneesmiddelen"
+entry_into_force: "2012-09-27"
 ---
-
 # Bestuursreglement van het College ter beoordeling van geneesmiddelen, als bedoeld in artikel 4 Geneesmiddelenwet, houdende de regeling voor de werkwijze van het College
 
 Gelet op [artikel 4 Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=4);
 
 Besluit:
 
-#### Artikel 1. Definitiebepaling
+##### Artikel 1. Definitiebepaling
 
 In dit reglement wordt verstaan onder:
 
@@ -32,7 +55,7 @@ In dit reglement wordt verstaan onder:
 
 - g. **Agentschap:** het agentschap College ter beoordeling van geneesmiddelen dat is opgericht door de Minister van Financiën op grond van de [Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0013891) en dat optreedt als baten-lastendienst in de zin van de [Regeling baten-lastendiensten 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021362).
 
-#### Artikel 2. Taken en bevoegdheden College
+##### Artikel 2. Taken en bevoegdheden College
 
 1. Het College is de bevoegde autoriteit bedoeld in de Richtlijn, belast met de taken bedoeld in [artikel 9 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=9).
 
@@ -44,7 +67,7 @@ In dit reglement wordt verstaan onder:
 
 5. Het College kan zich laten bijstaan door een Raad van Advies.
 
-#### Artikel 3. Voorzitter College
+##### Artikel 3. Voorzitter College
 
 1. De voorzitter vertegenwoordigt het College in en buiten rechte.
 
@@ -52,7 +75,7 @@ In dit reglement wordt verstaan onder:
 
 3. De voorzitter kan zich laten vertegenwoordigen door personen die daartoe door hem gemandateerd zijn.
 
-#### Artikel 4. Secretariaat
+##### Artikel 4. Secretariaat
 
 1. Het secretariaat ondersteunt het College bij zijn wettelijke taken.
 
@@ -64,11 +87,11 @@ In dit reglement wordt verstaan onder:
 
 5. De directeur van het Agentschap is tevens secretaris van het College. Het College maakt hierover afspraken met de minister. Deze afspraken zijn als bijlage bij dit reglement gevoegd.
 
-#### Artikel 5. Bestuurlijk overleg College-Agentschap
+##### Artikel 5. Bestuurlijk overleg College-Agentschap
 
 De voorzitter van het College en/of zijn plaatsvervanger(s), alsmede de directeur en/of zijn plaatsvervanger(s)van het Agentschap voeren regelmatig bestuurlijk overleg over zaken die zowel het College als het Agentschap raken.
 
-#### Artikel 6. Verantwoording en begroting College
+##### Artikel 6. Verantwoording en begroting College
 
 1. Het College zendt jaarlijks voor 1 april aan de Minister zijn (ontwerp-)begroting voor het daarop volgende jaar.
 
@@ -78,7 +101,7 @@ De voorzitter van het College en/of zijn plaatsvervanger(s), alsmede de directeu
 
 4. De (ontwerp-)begroting, het jaarverslag en het Strategisch Business Plan worden gepubliceerd op de website.
 
-#### Artikel 7. Besluiten van het College
+##### Artikel 7. Besluiten van het College
 
 1. Het College kan besluiten nemen binnen en buiten zijn vergadering.
 
@@ -88,7 +111,7 @@ De voorzitter van het College en/of zijn plaatsvervanger(s), alsmede de directeu
 
 4. De secretaris draagt er zorg voor dat na elke Collegevergadering alle besluiten die niet gelden als besluit in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) worden gedocumenteerd.
 
-#### Artikel 8. Vergaderingen van het College
+##### Artikel 8. Vergaderingen van het College
 
 1. De vergaderingen van het College zijn openbaar voor zover het daarbij niet gaat om de behandeling van vertrouwelijke informatie.
 
@@ -110,7 +133,7 @@ De voorzitter van het College en/of zijn plaatsvervanger(s), alsmede de directeu
 
 10. De secretaris draagt er zorg voor dat van de vergadering een verslag wordt gemaakt, dat na vaststelling door het College en ontdaan van vertrouwelijke informatie, openbaar wordt gemaakt.
 
-#### Artikel 9. De besluitvorming in de vergaderingen van het College
+##### Artikel 9. De besluitvorming in de vergaderingen van het College
 
 1. De leden van het College kunnen slechts aan de beraadslagingen en de stemmingen deelnemen, indien zij de presentielijst hebben getekend. Het verslag vermeldt als aanwezigen de namen van degenen die de presentielijst hebben getekend.
 
@@ -124,7 +147,7 @@ De voorzitter van het College en/of zijn plaatsvervanger(s), alsmede de directeu
 
 6. Over onderwerpen wordt mondeling gestemd, tenzij één der leden om schriftelijke stemming verzoekt. Indien een lid hierom verzoekt, vindt schriftelijke stemming plaats met gewaarmerkte, ongetekende en dichtgevouwen stembriefjes.
 
-#### Artikel 10. Bezwaarschriftencommissie
+##### Artikel 10. Bezwaarschriftencommissie
 
 1. Er is een bezwaarschriftencommissie die het College adviseert omtrent bij het College ingediende bezwaarschriften, waarvan ten minste één lid van het College deel uitmaakt.
 
@@ -136,13 +159,13 @@ De voorzitter van het College en/of zijn plaatsvervanger(s), alsmede de directeu
 
 5. De bezwaarschriftencommissie stelt zijn advies aan het College omtrent een bezwaar vast, waarna het College een beslissing op het bezwaar neemt.
 
-#### Artikel 11. Klachtenbehandeling
+##### Artikel 11. Klachtenbehandeling
 
 1. Het College stelt een klachtenregeling vast.
 
 2. Het College stelt een klachtencommissie in.
 
-#### Artikel 12. Commissies en consulteren externe deskundigen
+##### Artikel 12. Commissies en consulteren externe deskundigen
 
 1. Het College kan commissies, ook met externe deskundigen, instellen voor consultatie en het geven van advies.
 
@@ -150,11 +173,11 @@ De voorzitter van het College en/of zijn plaatsvervanger(s), alsmede de directeu
 
 3. Op deze commissies is [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033182&artikel=2&z=2012-09-27&g=2012-09-27), van dit reglement van toepassing.
 
-#### Artikel 13. Gegevensbeveiliging
+##### Artikel 13. Gegevensbeveiliging
 
 De secretaris draagt er zorg voor dat de bij het College en zijn secretariaat rustende gegevens en bescheiden worden beveiligd tegen verlies of onbevoegde inzage.
 
-#### Artikel 14. Wijziging reglement
+##### Artikel 14. Wijziging reglement
 
 1. Een wijziging van dit reglement geschiedt in overeenstemming met de besluitvormingsprocedure zoals bepaald in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033182&artikel=9&z=2012-09-27&g=2012-09-27) van dit reglement.
 
@@ -162,13 +185,13 @@ De secretaris draagt er zorg voor dat de bij het College en zijn secretariaat ru
 
 3. Een wijzing van dit reglement wordt gepubliceerd in de Staatscourant.
 
-#### Artikel 15. Slotbepaling
+##### Artikel 15. Slotbepaling
 
 1. Dit reglement wordt gepubliceerd in de Staatscourant.
 
 2. Dit reglement treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 16. Citatie
+##### Artikel 16. Citatie
 
 Dit reglement wordt aangehaald als: Bestuursreglement College ter beoordeling van geneesmiddelen.
 

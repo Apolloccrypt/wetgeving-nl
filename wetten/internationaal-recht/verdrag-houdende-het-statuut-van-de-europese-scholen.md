@@ -1,13 +1,38 @@
 ---
 title: "Verdrag houdende het Statuut van de Europese Scholen"
 identifier: "BWBV0001147"
-categorie: "Internationaal recht"
-publicatiedatum: 2002-10-01
-laatste_update: 2002-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001147"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-10-01"
+last_updated: "2002-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001147"
+soort: "verdrag"
+stam_id: "10001661393"
+version_id: "10001739862"
+internal_id: "C10006986481"
+label_id: "10001661904"
+dtd_version: "2.0"
+original_entry_into_force: "2002-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001147/2002-10-01/0"
+intitule_bron: "Trb.1994-250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-11-10"
+intitule_published: "1994-11-23"
+intitule_in_force: "2002-10-25"
+intitule_status: "goed"
+original_publication: "Trb.1994-250"
+original_signed_date: "1994-11-10"
+original_published_date: "1994-11-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-250"
+entry_into_force_date: "2002-10-01"
+jci_1_3: "jci1.3:c:BWBV0001147&z=2002-10-01&g=2002-10-01"
+jci_1_0: "1.0:c:BWBV0001147&g=2002-10-01"
+citeertitel_status: "redactioneel"
+signed_date: "1994-11-10"
+entry_into_force: "2002-10-01"
 ---
-
 # Verdrag houdende het Statuut van de Europese Scholen
 
 Preambule
@@ -40,7 +65,7 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 ## TITEL I. DE EUROPESE SCHOLEN
 
-#### Artikel 1
+##### Artikel 1
 
 Bij dit Verdrag wordt het Statuut van de Europese Scholen (hierna „Scholen" genoemd) vastgesteld.
 
@@ -48,7 +73,7 @@ Taak van de Scholen is het gezamenlijk onderwijs aan de kinderen van het persone
 
 De Scholen staan vermeld in Bijlage I, die door de Raad van Bestuur overeenkomstig de artikelen 2, 28 en 31 te nemen besluiten kan worden aangepast.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Raad van Bestuur kan met eenparigheid van stemmen een besluit over de oprichting van nieuwe Scholen nemen.
 
@@ -56,7 +81,7 @@ De Scholen staan vermeld in Bijlage I, die door de Raad van Bestuur overeenkomst
 
 3. Voordat een nieuwe School op het grondgebied van een Lid-Staat wordt geopend, moet een overeenkomst worden gesloten tussen de Raad van Bestuur en de ontvangende Lid-Staat over de gratis terbeschikkingstelling en het onderhoud van aan de behoeften van de nieuwe School aangepaste lokalen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het in elk van de Scholen verstrekte onderwijs omvat de schoolopleiding tot het einde van het secundair onderwijs.
 
@@ -74,7 +99,7 @@ Het onderwijs kan bestaan uit:
 
 - b. Voor elk voorstel om de officiële status van de leerkrachten te wijzigen is eenparigheid van stemmen van de Raad van Bestuur vereist.
 
-#### Artikel 4
+##### Artikel 4
 
 De pedagogische organisatie van de Scholen berust op de volgende beginselen:
 
@@ -92,7 +117,7 @@ De pedagogische organisatie van de Scholen berust op de volgende beginselen:
 
 - 7. er worden maatregelen genomen om de opvang van kinderen met specifieke onderwijsbehoeften te vergemakkelijken.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De jaren dat de leerlingen het onderwijs aan de School met vrucht hebben gevolgd en de ten bewijze daarvan afgegeven diploma's en getuigschriften, worden op het grondgebied van de Lid-Staten erkend volgens een gelijkwaardigheidstabel en onder de voorwaarden die door de Raad van Bestuur overeenkomstig artikel 11 en behoudens instemming van de bevoegde nationale instanties worden vastgesteld.
 
@@ -108,7 +133,7 @@ De houders van het aan de School behaalde Europees baccalaureaatsdiploma:
 
 - b. instellingen die door de Lid-Staat op het grondgebied waarvan zij zijn gelegen, worden geacht een universitair karakter te dragen.
 
-#### Artikel 6
+##### Artikel 6
 
 Elke School bezit de rechtspersoonlijkheid die vereist is voor de verwezenlijking van haar in artikel 1 omschreven taak. Te dien einde geniet zij bestuursautonomie voor de kredieten die zijn opgenomen in het desbetreffende begrotingsonderdeel, onder de voorwaarden die zijn vastgelegd in het in artikel 13, lid 1, bedoelde financieel reglement. Zij kan in rechte optreden. Zij kan met name roerende en onroerende goederen verkrijgen en vervreemden.
 
@@ -116,7 +141,7 @@ Wat haar rechten en plichten betreft, wordt de School in elk van de Lid-Staten, 
 
 ## TITEL II. ORGANEN VAN DE SCHOLEN
 
-#### Artikel 7
+##### Artikel 7
 
 De gemeenschappelijke organen van de Scholen zijn:
 
@@ -132,7 +157,7 @@ Elk van de Scholen wordt bestuurd door het Dagelijks Bestuur en beheerd door de 
 
 ### HOOFDSTUK 1. RAAD VAN BESTUUR
 
-#### Artikel 8
+##### Artikel 8
 
 1. Behoudens artikel 28, bestaat de Raad van Bestuur uit de volgende leden:
 
@@ -152,7 +177,7 @@ Elk van de Scholen wordt bestuurd door het Dagelijks Bestuur en beheerd door de 
 
 5. Het Voorzitterschap wordt telkens gedurende één jaar bij toerbeurt door een vertegenwoordiger van elk van de Lid-Staten bekleed in deze volgorde: België, Denemarken, Duitsland, Griekenland, Spanje, Frankrijk, Ierland, Italië, Luxemburg, Nederland, Portugal, Verenigd Koningrijk.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Behalve in de gevallen waarin uit hoofde van dit Verdrag eenstemmigheid vereist is, worden de besluiten van de Raad van Bestuur genomen met een meerderheid van tweederde van de samenstellende leden, onder voorbehoud van de volgende bepalingen:
 
@@ -168,7 +193,7 @@ Elk van de Scholen wordt bestuurd door het Dagelijks Bestuur en beheerd door de 
 
 3. Bij elke stemming beschikt elk van de aanwezige of vertegenwoordigde leden over één stem, onverminderd artikel 8, lid 1, onder a.
 
-#### Artikel 10
+##### Artikel 10
 
 De Raad van Bestuur ziet toe op de uitvoering van dit Verdrag; te dien einde beschikt hij over de nodige beslissingsbevoegdheden op pedagogisch, budgettair en administratief gebied, alsmede voor de onderhandelingen over overeenkomsten als bedoeld in de artikelen 28 tot en met 30. Hij kan comités instellen om zijn besluiten voor te bereiden.
 
@@ -176,7 +201,7 @@ De Raad van Bestuur stelt het Algemeen Reglement van de Scholen vast.
 
 Jaarlijks stelt de Raad van Bestuur, op basis van het door de Secretaris-Generaal opgestelde ontwerp, over het functioneren van de Scholen een verslag op dat hij doet toekomen aan het Europees Parlement en aan de Raad.
 
-#### Artikel 11
+##### Artikel 11
 
 De Raad van Bestuur, handelend in pedagogische aangelegenheden, bepaalt de richting en de organisatie van het onderwijs. Dit houdt meer bepaald in dat hij op advies van de bevoegde Commissie van Inspecteurs:
 
@@ -188,7 +213,7 @@ De Raad van Bestuur, handelend in pedagogische aangelegenheden, bepaalt de richt
 
 - 4. examens instelt, die moeten worden afgelegd ten bewijze dat het onderwijs aan de School met vrucht is gevolgd, daarvoor de voorschriften vaststelt, de examencommissies benoemt en de getuigschriften uitreikt en de examenopgaven op een zodanig niveau vaststelt dat aan artikel 5 wordt voldaan.
 
-#### Artikel 12
+##### Artikel 12
 
 De Raad van Bestuur, handelend in administratieve aangelegenheden:
 
@@ -206,7 +231,7 @@ De Raad van Bestuur, handelend in administratieve aangelegenheden:
 
 - 5. regelt zijn werkwijze en stelt zijn reglement van orde vast.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Raad van Bestuur, handelende in begrotingsaangelegenheden:
 
@@ -224,29 +249,29 @@ De begrotingsautoriteit van de Europese Gemeenschappen stelt, in het kader van h
 
 4. De Raad van Bestuur stelt vóór het begin van het begrotingsjaar de begroting van de Scholen definitief vast, waarbij hij deze zo nodig aanpast aan de bijdrage van de Europese Gemeenschappen en van de in lid 3 bedoelde organisaties en instellingen.
 
-#### Artikel 14
+##### Artikel 14
 
 De Secretaris-Generaal vertegenwoordigt de Raad van Bestuur en leidt het sectretariaat in het kader van de bepalingen betreffende de rechtspositie van de Secretaris-Generaal, zoals geregeld volgens artikel 12, punt 1. Hij vertegenwoordigt de Scholen in rechte. Hij is verantwoording schuldig aan de Raad van Bestuur.
 
 ### HOOFDSTUK 2. COMMISSIES VAN INSPECTEURS
 
-#### Artikel 15
+##### Artikel 15
 
 Ten behoeve van de Scholen worden twee Commissies van Inspecteurs ingesteld: één voor het kleuter- en basisonderwijs en één voor het secundair onderwijs.
 
-#### Artikel 16
+##### Artikel 16
 
 Elk van de Lid-Staten, die verdragsluitende Partijen zijn, wordt in elke Commissie van Inspecteurs door een inspecteur vertegenwoordigd. Deze inspecteur wordt door de Raad van Bestuur aangewezen op voordracht van de betrokken partij.
 
 Het Voorzitterschap van de Commissie van Inspecteurs wordt uitgeoefend door de vertegenwoordiger van de Commissie van Inspecteurs van de Lid-Staat die de Raad van Bestuur voorzit.
 
-#### Artikel 17
+##### Artikel 17
 
 De Commissies van Inspecteurs hebben tot taak toe te zien op de kwaliteit van het door de Scholen gegeven onderwijs en te dien einde in de Scholen de nodige inspecties te doen verrichten.
 
 Zij dienen bij de Raad van Bestuur de adviezen en voorstellen in bedoeld in respectievelijk de artikelen 11 en 12, en eventueel voorstellen met betrekkking tot de aanpassing van de leerplannen en de organisatie van het onderwijs.
 
-#### Artikel 18
+##### Artikel 18
 
 De inspecteurs hebben tot taak:
 
@@ -260,7 +285,7 @@ Met inachtneming van de door de Raad van Bestuur geraamde behoeften verleent elk
 
 ### HOOFDSTUK 3. DAGELIJKS BESTUUR
 
-#### Artikel 19
+##### Artikel 19
 
 Het in artikel 7 bedoelde Dagelijks Bestuur bestaat, behoudens de afwijkingen bedoeld in de artikelen 28 en 29, uit acht leden, namelijk:
 
@@ -280,7 +305,7 @@ Een vertegenwoordiger van de Lid-Staat waar de School gevestigd is, kan als waar
 
 Twee vertegenwoordigers van de leerlingen worden uitgenodigd om, voor de punten die voor hen van belang zijn, de bijeenkomsten van het Dagelijks Bestuur van hun School als waarnemer bij te wonen.
 
-#### Artikel 20
+##### Artikel 20
 
 Het Dagelijks Bestuur:
 
@@ -296,7 +321,7 @@ De procedures inzake bijeenroeping en besluitvorming van het Dagelijks Bestuur z
 
 ### HOOFDSTUK 4. DIRECTEUR
 
-#### Artikel 21
+##### Artikel 21
 
 De Directeur oefent zijn functies uit overeenkomstig het Algemeen Reglement, bedoeld in artikel 10. Hij oefent gezag uit over het personeel van de School overeenkomstig de in artikel 12, punt 4, onder a. en b., nader omschreven procedures.
 
@@ -304,7 +329,7 @@ Hij dient de bekwaamheid en de titels te hebben die in zijn land vereist zijn vo
 
 ## TITEL III. VERTEGENWOORDIGING VAN HET PERSONEEL
 
-#### Artikel 22
+##### Artikel 22
 
 Er wordt een Personeelscomité opgericht, bestaande uit gekozen vertegenwoordigers van de leerkrachten en van het administratief en dienstpersoneel van elk van de Europese Scholen.
 
@@ -316,7 +341,7 @@ Het Personeelscomité wijst jaarlijks uit de leerkrachten een lid en een plaatsv
 
 ## TITEL IV. DE VERENIGING VAN OUDERS VAN LEERLINGEN
 
-#### Artikel 23
+##### Artikel 23
 
 Ter behartiging van de betrekkingen tussen de ouders van leerlingen en de Autoriteiten van de Scholen, erkent de Raad van Bestuur in elke school de representatieve Vereniging van de Ouders van leerlingen van de School.
 
@@ -326,11 +351,11 @@ De gezamenlijke Verenigingen van de Scholen wijzen jaarlijks uit hun midden éé
 
 ## TITEL V. BEGROTING
 
-#### Artikel 24
+##### Artikel 24
 
 Het begrotingsjaar van de Scholen valt samen met het kalenderjaar.
 
-#### Artikel 25
+##### Artikel 25
 
 De begrotingsmiddelen van de Scholen bestaan uit:
 
@@ -348,11 +373,11 @@ De wijze waarop de bijdrage van de Europese Gemeenschappen ter beschikking wordt
 
 ## TITEL VI. GESCHILLEN
 
-#### Artikel 26
+##### Artikel 26
 
 Het Hof van Justitie van de Europese Gemeenschappen is bij uitsluiting bevoegd om uitspraak te doen in geschillen tussen de Verdragsluitende Partijen inzake de uitlegging en toepassing van dit Verdrag waarvoor in de Raad van Bestuur geen oplossing kan worden gevonden.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Er wordt een Kamer van beroep ingesteld.
 
@@ -378,21 +403,21 @@ Dit reglement moet door de Raad van Bestuur met eenparigheid van stemmen worden 
 
 ## TITEL VII. BIJZONDERE BEPALINGEN
 
-#### Artikel 28
+##### Artikel 28
 
 De Raad van Bestuur kan met eenparigheid van stemmen aangaande een bestaande of krachtens artikel 2 op te richten School deelnemingsovereenkomsten sluiten met elke publiekrechtelijke organisatie die uit hoofde van haar vestigingsplaats betrokken is bij het functioneren van deze School. Bedoelde organisaties kunnen door het sluiten van een dergelijke overeenkomst een zetel en een stem verkrijgen in de Raad van Bestuur voor alle aangelegenheden in verband met de betrokken School, indien de begroting van de School voor het grootste gedeelte uit hun financiële bijdrage kan worden gefinancierd. Tevens kunnen zij een zetel en een stem verkrijgen in het Dagelijks Bestuur van de betrokken School.
 
-#### Artikel 29
+##### Artikel 29
 
 De Raad van Bestuur kan met eenparigheid van stemmen eveneens andere overeenkomsten dan deelnemingsovereenkomsten sluiten met publiek- of privaatrechtelijke organisaties of instellingen die betrokken zijn bij het functioneren van een van de bestaande Scholen.
 
 De Raad van Bestuur kan hun een zetel en een stem in het Dagelijks Bestuur van de betrokken School toekennen.
 
-#### Artikel 30
+##### Artikel 30
 
 De Raad van Bestuur kan met de Regering van het land waar een School is gevestigd, aanvullende overeenkomsten sluiten om ervoor te zorgen dat de school zo goed mogelijk functioneert.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Iedere Verdragsluitende Partij kan dit Verdrag opzeggen door schriftelijke kennisgeving aan de Luxemburgse Regering; deze stelt alle andere Verdragsluitende partijen in kennis van de ontvangst van deze kennisgeving. De opzegging gaat in op 1 september, mits hiervan kennisgeving is gedaan vóór 1 september van het voorgaande jaar.
 
@@ -402,7 +427,7 @@ De Raad van Bestuur kan met de Regering van het land waar een School is gevestig
 
 4. Elke Verdragsluitende Partij kan om wijziging van dit Verdrag verzoeken. Te dien einde geeft zij kennis van haar verzoek aan de Luxemburgse Regering, die samen met de Verdragsluitende Partij die het Voorzitterschap van de Raad van de Europese Gemeenschappen bekleedt de noodzakelijke stappen onderneemt om een Intergouvernementele Conferentie bijeen te roepen.
 
-#### Artikel 32
+##### Artikel 32
 
 Staten die lid worden van de Gemeenschap, moeten hun verzoek om toetreding tot dit Verdrag schriftelijk richten tot de Luxemburgse Regering, die elk van de Verdragsluitende Partijen hiervan in kennis stelt.
 
@@ -410,7 +435,7 @@ De toetreding gaat in op de eerste september volgende op de dag waarop de Akte v
 
 Vanaf die dag wordt de samenstelling van de organen van de scholen dienovereenkomstig gewijzigd.
 
-#### Artikel 33
+##### Artikel 33
 
 Dit Verdrag wordt bekrachtigd door de Lid-Staten die Verdragsluitende Partijen zijn, overeenkomstig hun respectieve grondwettelijke bepalingen. Wat de Gemeenschappen betreft, wordt het verdrag gesloten overeenkomstig de oprichtingsverdragen. De akten van bekrachtiging en de akte van kennisgeving van het sluiten van dit Verdrag worden nedergelegd bij de Luxemburgse Regering, die depositaris is van het Statuut van de Europese School. Deze Regering stelt alle andere Verdragsluitende Partijen in kennis van deze nederlegging.
 
@@ -418,7 +443,7 @@ Dit Verdrag treedt in werking op de eerste dag van de maand volgende op de neder
 
 Dit Verdrag, opgesteld in één exemplaar, in de Deense, de Duitse, de Engelse, de Franse, de Griekse, de Italiaanse, de Nederlandse, de Portugese en de Spaanse taal, zijnde alle negen teksten gelijkelijk authentiek, zal worden nedergelegd in het archief van de Luxemburgse Regering, die een voor eensluidend gewaarmerkt afschrift toezendt aan elk van de andere Verdragsluitende Partijen.
 
-#### Artikel 34
+##### Artikel 34
 
 Dit Verdrag komt in de plaats van het Statuut van 12 april 1957 en het bijbehorende Protocol van 13 april 1962.
 

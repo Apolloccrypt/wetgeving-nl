@@ -1,13 +1,39 @@
 ---
-title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (gefaseerde overheveling van de geneeskundige zorg voor specifieke patiëntgroepen)"
+title: "Aanwijzing van de Minister voor Medische Zorg van 3 juli 2019, kenmerk 1549124-192760-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de gefaseerde overheveling van de geneeskundige zorg voor specifieke patiëntgroepen"
 identifier: "BWBR0042399"
-categorie: "Sociaal recht"
-publicatiedatum: 2019-09-01
-laatste_update: 2019-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042399"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-09-01"
+last_updated: "2019-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042399"
+soort: "ministeriele-regeling"
+stam_id: "15119673"
+version_id: "25920292"
+internal_id: "C36932751"
+label_id: "15067794"
+dtd_version: "2.0"
+original_entry_into_force: "2019-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042399/2019-09-01/0"
+intitule_bron: "Stcrt.2019-38177"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-07-03"
+intitule_published: "2019-07-11"
+intitule_in_force: "2019-07-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-38177"
+original_signed_date: "2019-07-03"
+original_published_date: "2019-07-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-38177"
+entry_into_force_date: "2019-09-01"
+jci_1_3: "jci1.3:c:BWBR0042399&z=2019-09-01&g=2019-09-01"
+jci_1_0: "1.0:c:BWBR0042399&g=2019-09-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (gefaseerde overheveling van de geneeskundige zorg voor specifieke patiëntgroepen)"
+signed_date: "2019-07-03"
+entry_into_force: "2019-09-01"
 ---
-
 # Aanwijzing van de Minister voor Medische Zorg van 3 juli 2019, kenmerk 1549124-192760-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de gefaseerde overheveling van de geneeskundige zorg voor specifieke patiëntgroepen
 
 Gelet op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) jo. [57 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57);
@@ -16,7 +42,7 @@ Na op 27 mei 2019 schriftelijk mededeling te hebben gedaan aan de Eerste en Twee
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -38,11 +64,11 @@ In deze aanwijzing wordt verstaan onder:
 
 - i. **zorg zoals huisartsen die plegen te bieden:** zorg als bedoeld in [artikel 2.4 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.4).
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Deze aanwijzing is van toepassing op geneeskundige zorg voor specifieke patiëntgroepen.
 
-#### Artikel 3. Prestatiebeschrijvingen en tarieven
+##### Artikel 3. Prestatiebeschrijvingen en tarieven
 
 De zorgautoriteit stelt met ingang van 1 januari 2020:
 
@@ -52,11 +78,11 @@ De zorgautoriteit stelt met ingang van 1 januari 2020:
 
 - 3. een prestatiebeschrijving en maximumtarief vast voor reiskosten.
 
-#### Artikel 4. Financieel kader en macrobeheersbaarheid
+##### Artikel 4. Financieel kader en macrobeheersbaarheid
 
 De uitgaven voor geneeskundige zorg voor specifieke patiëntengroepen en de experimenten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042399&artikel=5&z=2019-09-01&g=2019-09-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042399&artikel=6&z=2019-09-01&g=2019-09-01), komen ten laste van het kader eerstelijnsverblijf en geriatrische revalidatiezorg. Voor dit kader geldt het macrobeheersinstrument (Stcrt. 2016, 36919).
 
-#### Artikel 5. Experiment maatwerk voor koplopers
+##### Artikel 5. Experiment maatwerk voor koplopers
 
 1. De zorgautoriteit voorziet met ingang van 1 januari 2020 in een experiment maatwerk voor koplopers in de geneeskundige zorg voor specifieke patiëntgroepen.
 
@@ -72,7 +98,7 @@ De uitgaven voor geneeskundige zorg voor specifieke patiëntengroepen en de expe
 
 7. Het experiment eindigt wanneer de nieuwe integrale bekostiging voor geneeskundige zorg voor specifieke patiëntgroepen in werking treedt.
 
-#### Artikel 6. Experiment proeftuin kortdurende zorg
+##### Artikel 6. Experiment proeftuin kortdurende zorg
 
 1. De zorgautoriteit voorziet met ingang van 1 januari 2020 in een experiment voor samenhangende zorg in het eerstelijnsverblijf, geriatrische revalidatiezorg en geneeskundige zorg voor specifieke patiëntgroepen, waarbij minimaal twee van de genoemde zorgvormen betrokken zijn.
 

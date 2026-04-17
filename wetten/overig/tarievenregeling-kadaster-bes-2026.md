@@ -1,20 +1,46 @@
 ---
-title: "Tarievenregeling Kadaster BES 2026"
+title: "Regeling van het bestuur van de Dienst voor het kadaster en de openbare registers tot vaststelling van de Tarievenregeling Kadaster BES 2026"
 identifier: "BWBR0051884"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051884"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051884"
+soort: "zbo"
+stam_id: "17626853"
+version_id: "31116342"
+internal_id: "C44538671"
+label_id: "17527184"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051884/2026-01-01/0"
+intitule_bron: "Stcrt.2025-40746"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-20"
+intitule_published: "2025-11-28"
+intitule_in_force: "2025-11-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-40746"
+original_signed_date: "2025-11-20"
+original_published_date: "2025-11-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-40746"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051884&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051884&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Tarievenregeling Kadaster BES 2026"
+signed_date: "2025-11-20"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling van het bestuur van de Dienst voor het kadaster en de openbare registers tot vaststelling van de Tarievenregeling Kadaster BES 2026
 
 Gelet op [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=82) en [83 van de Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=83);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - **wet:** [Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565).
 
-#### Artikel 2. Opbouw tarieven, munteenheid en wijze van betaling
+##### Artikel 2. Opbouw tarieven, munteenheid en wijze van betaling
 
 1. De tarieven zijn exclusief ABB en eventuele andere lokale belastingen.
 
@@ -34,27 +60,27 @@ In dit besluit wordt verstaan onder:
 
 3. De tarieven worden voldaan op de wijze als bepaald in de Regeling betaling kadastrale vergoeding BES.
 
-#### Artikel 3. Tarieven [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0051884&bijlage=I&z=2026-01-01&g=2026-01-01). Inzage
+##### Artikel 3. Tarieven [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0051884&bijlage=I&z=2026-01-01&g=2026-01-01). Inzage
 
 Voor het nemen van schriftelijke, digitale of mondelinge inzage in of het verstrekken van afschriften of verklaringen van stukken uit de openbare registers en onderliggende registers, zijn de tarieven, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0051884&bijlage=I&z=2026-01-01&g=2026-01-01). verschuldigd.
 
-#### Artikel 4. Tarieven [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0051884&bijlage=II&z=2026-01-01&g=2026-01-01). Inschrijving
+##### Artikel 4. Tarieven [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0051884&bijlage=II&z=2026-01-01&g=2026-01-01). Inschrijving
 
 Voor het inschrijven van stukken in register B (hypotheek), register C (overdracht) en register D (beslag), alsmede het inschrijven van verklaringen, het stellen van aantekeningen of verklaringen en de teboekstelling van een schip of een luchtvaartuig, zijn de tarieven, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0051884&bijlage=II&z=2026-01-01&g=2026-01-01). verschuldigd.
 
-#### Artikel 5. Tarieven [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0051884&bijlage=III&z=2026-01-01&g=2026-01-01). Onderzoeken
+##### Artikel 5. Tarieven [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0051884&bijlage=III&z=2026-01-01&g=2026-01-01). Onderzoeken
 
 Voor het doen van een erfdienstbaarheid onderzoek, het afgeven van getuigschriften of verklaringen, objectfiliatie of een overzicht van hypotheekinschrijvingen, zijn de tarieven, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0051884&bijlage=III&z=2026-01-01&g=2026-01-01). verschuldigd.
 
-#### Artikel 6. Tarieven [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0051884&bijlage=IV&z=2026-01-01&g=2026-01-01). Kadastrale informatie en diensten
+##### Artikel 6. Tarieven [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0051884&bijlage=IV&z=2026-01-01&g=2026-01-01). Kadastrale informatie en diensten
 
 Voor schriftelijke of digitale inzage in de kadastrale kaart en de daaraan ten grondslag liggende stukken, het vormen van nieuwe percelen, (inlichtingen over) grensuitzettingen, topografische kaarten, situatietekeningen, meetbrieven, informatie over coordinaatpunten, gebruik van satellietplaatsbepaling en overige werkzaamheden, zijn de tarieven, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0051884&bijlage=IV&z=2026-01-01&g=2026-01-01). verschuldigd.
 
-#### Artikel 7. Intrekking regeling(en)
+##### Artikel 7. Intrekking regeling(en)
 
 De [Tarievenregeling Kadaster BES 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050444) wordt ingetrokken.
 
-#### Artikel 8. Inwerkingtreding en citeertitel
+##### Artikel 8. Inwerkingtreding en citeertitel
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2026.
 

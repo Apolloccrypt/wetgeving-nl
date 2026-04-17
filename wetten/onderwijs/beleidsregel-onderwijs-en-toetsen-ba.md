@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel onderwijs en toetsen BA"
+title: "Besluit van de algemene raad van 11 januari 2016 tot vaststelling van de beleidsregel inzake vrijstelling deelname onderwijs, vrijstelling van onderdelen van het examen en de procedure met betrekking tot de aanvraag vrijstelling of het verzoek tot toepassing van de hardheidsclausule (Beleidsregel onderwijs en toetsen BA)"
 identifier: "BWBR0037578"
-categorie: "Onderwijs"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037578"
+country: "nl"
+rank: "pbo"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037578"
+soort: "pbo"
+stam_id: "13405003"
+version_id: "27388472"
+internal_id: "C38673491"
+label_id: "13372654"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037578/2021-01-01/0"
+intitule_bron: "Stcrt.2018-58445"
+intitule_effect: "wijziging"
+intitule_signed: "2018-10-03"
+intitule_published: "2018-10-23"
+intitule_in_force: "2018-10-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-68618"
+original_signed_date: "2020-12-21"
+original_published_date: "2020-12-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2020-68618"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0037578&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0037578&g=2021-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel onderwijs en toetsen BA"
+signed_date: "2020-12-21"
+entry_into_force: "2021-01-01"
 ---
-
 # Besluit van de algemene raad van 11 januari 2016 tot vaststelling van de beleidsregel inzake vrijstelling deelname onderwijs, vrijstelling van onderdelen van het examen en de procedure met betrekking tot de aanvraag vrijstelling of het verzoek tot toepassing van de hardheidsclausule (Beleidsregel onderwijs en toetsen BA)
 
 gelet op [artikel 9c van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9c);
@@ -18,11 +44,11 @@ gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overhei
 
 stelt het navolgende besluit vast:
 
-#### Artikel 1. Reikwijdte van de beleidsregel onderwijs en toetsen BA
+##### Artikel 1. Reikwijdte van de beleidsregel onderwijs en toetsen BA
 
 Deze beleidsregel is van toepassing op de advocaat die op grond van [artikel 9c van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9c) de opleiding voor stagiaires moet volgen.
 
-#### Artikel 2. Uitleg wettelijke voorschriften
+##### Artikel 2. Uitleg wettelijke voorschriften
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -32,21 +58,21 @@ In deze beleidsregel wordt verstaan onder:
 
 - **toets:** een onderdeel van het examen.
 
-#### Artikel 3. Termijn verzoek hardheidsclausule
+##### Artikel 3. Termijn verzoek hardheidsclausule
 
 De stagiaire verzoekt tot toepassing van de hardheidsclausule als bedoeld in [artikel 3.19, zesde lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.19), uiterlijk vier weken na de desbetreffende toetsgelegenheid.
 
-#### Artikel 4. Reikwijdte paragraaf
+##### Artikel 4. Reikwijdte paragraaf
 
 Deze paragraaf is uitsluitend van toepassing op de advocaat die uiterlijk in september 2020 de beroepsopleiding advocaten aanvangt en met ingang van 1 oktober 2020 zonder onderbreking op het tableau staat ingeschreven en ingevolge daarvan een beroep doet op [artikel 9.2a van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=9.2a).
 
-#### Artikel 5. Termijn verzoek vrijstelling onderwijs en toets
+##### Artikel 5. Termijn verzoek vrijstelling onderwijs en toets
 
 1. De stagiaire verzoekt vrijstelling deelname onderwijs als bedoeld in [artikel 3.18, eerste lid van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.18), uiterlijk vier weken na aanvang van het desbetreffende onderwijs.
 
 2. De stagiaire verzoekt vrijstelling van de toets als bedoeld in [artikel 3.20, eerste lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.20), uiterlijk zes weken voor de desbetreffende eerste toetsgelegenheid.
 
-#### Artikel 6. Weigering van de vrijstelling
+##### Artikel 6. Weigering van de vrijstelling
 
 1. De algemene raad weigert de vrijstelling deelname onderwijs in ieder geval indien:
 
@@ -68,7 +94,7 @@ Deze paragraaf is uitsluitend van toepassing op de advocaat die uiterlijk in sep
 
 - d. de stagiaire reeds een onvoldoende resultaat heeft behaald voor de desbetreffende toets.
 
-#### Artikel 7. Verlening van de vrijstelling
+##### Artikel 7. Verlening van de vrijstelling
 
 1. De algemene raad verleent de vrijstelling deelname onderwijs in ieder geval indien:
 
@@ -310,7 +336,7 @@ plaats en datum: ............................................................
 
 handtekening aanvrager: ............................................................
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 februari 2016.
 
@@ -360,6 +386,6 @@ plaats en datum: ............................................................
 
 #### Paragraaf 3. slotbepalingen
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel onderwijs en toetsen BA.

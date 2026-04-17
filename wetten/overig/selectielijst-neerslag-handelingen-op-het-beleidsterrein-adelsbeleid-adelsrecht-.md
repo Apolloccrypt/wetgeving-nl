@@ -1,13 +1,37 @@
 ---
 title: "Selectielijst neerslag handelingen op het beleidsterrein adelsbeleid, adelsrecht en het decoratiestelsel (periode 1945-2000)"
 identifier: "BWBR0015338"
-categorie: "Overig"
-publicatiedatum: 2017-09-27
-laatste_update: 2003-07-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015338"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2017-09-27"
+last_updated: "2003-07-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015338"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "5080983"
+version_id: "9137822"
+internal_id: "C25310081"
+label_id: "5056674"
+dtd_version: "2.0"
+original_entry_into_force: "2003-07-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015338/2017-09-27/0"
+intitule_bron: "Stcrt.2003-133"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-07-04"
+intitule_published: "2003-07-15"
+intitule_in_force: "2003-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-133"
+original_signed_date: "2003-07-04"
+original_published_date: "2003-07-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-07-17"
+jci_1_3: "jci1.3:c:BWBR0015338&z=2017-09-27&g=2017-09-27"
+jci_1_0: "1.0:c:BWBR0015338&g=2017-09-27"
+citeertitel_status: "redactioneel"
+signed_date: "2003-07-04"
+entry_into_force: "2003-07-17"
 ---
-
 # Selectielijst neerslag handelingen op het beleidsterrein adelsbeleid, adelsrecht en het decoratiestelsel (periode 1945-2000)
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +40,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 3 april 2001, 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde `selectielijst voor de neerslag van de handelingen van het Kapittel voor de Civiele Orden, het Kapittel der Militaire Willemsorde en het Nationaal Comité Verzetsherdenkingskruis op het beleidsterrein Adelsbeleid, adelsrecht en het decoratiestelsel over de periode 1945-2000' en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

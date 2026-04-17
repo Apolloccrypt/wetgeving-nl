@@ -1,14 +1,42 @@
 ---
-title: "Wet verbod op kolen bij elektriciteitsproductie"
+title: "Wet van 11 december 2019, houdende Regels voor het produceren van elektriciteit met behulp van kolen (Wet verbod op kolen bij elektriciteitsproductie)"
 identifier: "BWBR0042905"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042905"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042905"
+soort: "wet"
+stam_id: "15277933"
+version_id: "30175002"
+internal_id: "C43235461"
+label_id: "15223844"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042905/2026-01-01/0"
+intitule_bron: "Stb.2019-493"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-11"
+intitule_published: "2019-12-19"
+intitule_in_force: "2019-12-19"
+intitule_status: "goed"
+original_publication: "Stb.2024-192"
+original_signed_date: "2024-06-14"
+original_published_date: "2024-06-27"
+original_effect: "structuurwijziging"
+original_dossier: "36197"
+original_url_id: "stb-2024-192"
+entry_into_force_date: "2024-06-14"
+entry_into_force_dossier: "36197"
+jci_1_3: "jci1.3:c:BWBR0042905&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0042905&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet verbod op kolen bij elektriciteitsproductie"
+signed_date: "2024-06-14"
+entry_into_force: "2024-06-14"
 ---
-
-# Wet verbod op kolen bij elektriciteitsproductie
+# Wet van 11 december 2019, houdende Regels voor het produceren van elektriciteit met behulp van kolen (Wet verbod op kolen bij elektriciteitsproductie)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +44,7 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is om CO2-reductie t
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -28,11 +56,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **productie-installatie:** een installatie, bestaande uit één of meer productie-eenheden, voor de opwekking van elektriciteit.
 
-#### Artikel 2
+##### Artikel 2
 
 Het is verboden om in een productie-installatie elektriciteit op te wekken met behulp van kolen.
 
-#### Artikel 3
+##### Artikel 3
 
 Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2026-01-01&g=2026-01-01), is:
 
@@ -40,7 +68,7 @@ Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR00429
 
 - b. tot 1 januari 2030 niet van toepassing op een productie-installatie met een elektrisch rendement van 44% of meer.
 
-#### Artikel 3a
+##### Artikel 3a
 
 In afwijking van [artikel 3, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2026-01-01&g=2026-01-01), is het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2026-01-01&g=2026-01-01), tot 1 januari 2020 niet van toepassing op een productie-installatie die:
 
@@ -50,11 +78,11 @@ In afwijking van [artikel 3, aanhef en onderdeel a](https://wetten.overheid.nl/j
 
 - c. waarin geen hernieuwbare warmte wordt geproduceerd.
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Minister kan op verzoek van een exploitant van een productie-installatie een tegemoetkoming verlenen indien de desbetreffende exploitant aantoont dat hij ten gevolge van het verbod, ten opzichte van andere exploitanten van een kolengestookte productie-installatie, onevenredig zwaar wordt geraakt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Met het toezicht op de naleving van het bepaalde bij deze wet zijn belast de bij besluit van Onze Minister daartoe aangewezen ambtenaren van de Nederlandse Emissieautoriteit.
 
@@ -64,21 +92,21 @@ Onze Minister kan op verzoek van een exploitant van een productie-installatie ee
 
 4. Verstrekking aan een bestuursorgaan vindt uitsluitend plaats indien de geheimhouding van de gegevens of inlichtingen in voldoende mate is gewaarborgd.
 
-#### Artikel 6
+##### Artikel 6
 
 Onze Minister kan in geval van overtreding van deze wet de overtreder een last onder bestuursdwang opleggen.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze wet wordt aangehaald als: Wet verbod op kolen bij elektriciteitsproductie.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. Er is een fonds waaruit uitkeringen kunnen worden gedaan aan werknemers van een productie-installatie alsmede investeringen in om- en bijscholing.
 
@@ -88,13 +116,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 6a
+##### Artikel 6a
 
 [Artikel 4, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=4&z=2026-01-01&g=2026-01-01), en de daarop berustende bepalingen, zoals die luidden voor 21 juni 2022, blijven van toepassing op schade die is ontstaan in de periode van 1 januari 2022 tot en met 20 juni 2022 als gevolg van de voorwaarde, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2026-01-01&g=2026-01-01), zoals dat luidde voor 21 juni 2022.
 

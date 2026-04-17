@@ -1,18 +1,43 @@
 ---
 title: "Uitvoeringsbesluit merken BES"
 identifier: "BWBR0028591"
-categorie: "Overig"
-publicatiedatum: 2011-10-07
-laatste_update: 2011-10-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028591"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2011-10-07"
+last_updated: "2011-10-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028591"
+soort: "AMvB-BES"
+stam_id: "10887153"
+version_id: "17869562"
+internal_id: "C24778361"
+label_id: "10862124"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028591/2011-10-07/0"
+intitule_bron: "Stb.2010-446"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-29"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-446"
+original_signed_date: "2010-09-29"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-446"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028591&z=2011-10-07&g=2011-10-07"
+jci_1_0: "1.0:c:BWBR0028591&g=2011-10-07"
+citeertitel_status: "officieel"
+signed_date: "2010-09-29"
+entry_into_force: "2010-10-10"
 ---
-
 # Uitvoeringsbesluit merken BES
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze algemene maatregel van bestuur en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -42,7 +67,7 @@ bron: "https://wetten.overheid.nl/BWBR0028591"
 
 ### Hoofdstuk 2. Depot
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het depot van een merk geschiedt in het Nederlands, hetzij het Engels, door de indiening bij Onze Minister van een document, waarop voorkomen:
 
@@ -72,7 +97,7 @@ bron: "https://wetten.overheid.nl/BWBR0028591"
 
 7. [vervallen]
 
-#### Artikel 3
+##### Artikel 3
 
 Het depot gaat vergezeld van:
 
@@ -84,7 +109,7 @@ Het depot gaat vergezeld van:
 
 - d. een door Onze Minister vast te stellen aantal afbeeldingen van het merk; deze afbeeldingen dienen in kleur te zijn indien de deposant de kleur of kleuren als onderscheidend kenmerk verlangt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&artikel=10) bedoelde vereisten voor het vaststellen van een datum van depot, zijn die vermeld in [artikel 2, eerste lid, onderdelen a, b, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028591&hoofdstuk=2&artikel=2&z=2011-10-07&g=2011-10-07), en in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028591&hoofdstuk=2&artikel=3&z=2011-10-07&g=2011-10-07) en, voor wat betreft de basisrechten of vergoedingen, onderdeel c.
 
@@ -92,11 +117,11 @@ Het depot gaat vergezeld van:
 
 3. [vervallen]
 
-#### Artikel 5
+##### Artikel 5
 
 [vervallen]
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien bij het depot een beroep wordt gedaan op een recht van voorrang, worden het land, de dagtekening, het nummer en de houder van het depot, waarop het recht van voorrang steunt, vermeld. Indien de deposant van het merk in het land van oorsprong niet degene is, die het depot hier te lande verricht, dan voegt de laatstgenoemde aan zijn depot een document toe, waaruit zijn rechten blijken.
 
@@ -108,7 +133,7 @@ Het depot gaat vergezeld van:
 
 ### Hoofdstuk 3. Inschrijving
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister schrijft het depot in het register in door vermelding van:
 
@@ -124,11 +149,11 @@ Het depot gaat vergezeld van:
 
 2. Inschrijving heeft plaats in de taal waarin het depot is gesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien een beroep op het recht van voorrang is gedaan, wordt dit feit door Onze Minister in het register aangetekend onder vermelding van het land, de dagtekening, het nummer en de houder van het depot waarop het ingeroepen recht van voorrang steunt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Ieder verzoek tot wijziging van de inschrijving in het register wordt aan Onze Minister gericht en bevat het nummer van de inschrijving, de naam en het adres van de houder van het merk, zijn handtekening of die van zijn gemachtigde en, in voorkomend geval, naam en adres van de gemachtigde.
 
@@ -142,7 +167,7 @@ Indien een beroep op het recht van voorrang is gedaan, wordt dit feit door Onze 
 
 ### Hoofdstuk 4. Vernieuwing
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het verzoek tot vernieuwing van de inschrijving van een depot geschiedt door indiening bij Onze Minister van een door de houder of zijn gemachtigde ondertekend formulier, dat de volgende gegevens bevat:
 
@@ -164,13 +189,13 @@ Indien een beroep op het recht van voorrang is gedaan, wordt dit feit door Onze 
 
 - c. een aantal afbeeldingen van het merk, indien Onze Minister dit noodzakelijk acht, in voorkomend geval in kleur, indien de houder de kleur of kleuren als onderscheidend kenmerk van het merk heeft verlangd.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien bij het verzoek tot vernieuwing niet is voldaan aan het bepaalde in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028591&hoofdstuk=4&artikel=10&z=2011-10-07&g=2011-10-07) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028591&hoofdstuk=5&artikel=13&z=2011-10-07&g=2011-10-07), of indien Onze Minister een legalisatie als bedoeld in artikel 13, zesde lid, verlangt, stelt Onze Minister de verzoeker onverwijld daarvan in kennis en geeft hem de gelegenheid alsnog aan deze vereisten te voldoen binnen een termijn van ten minste een maand. Deze termijn wordt op verzoek of kan ambtshalve worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden. Indien de betaling geheel of ten dele plaatsvindt na de vervaldatum van de inschrijving, is een extrarecht verschuldigd waarvan het bedrag bij ministeriële regeling is vastgesteld.
 
 2. Indien hieraan niet binnen de oorspronkelijke of verlengde termijn is voldaan, wordt het vernieuwingsverzoek buiten behandeling gelaten.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onze Minister schrijft de vernieuwingen in door toevoeging van de nieuwe datum waarop de geldigheidsduur verstrijkt:
 
@@ -190,7 +215,7 @@ Indien een beroep op het recht van voorrang is gedaan, wordt dit feit door Onze 
 
 ### Hoofdstuk 5. Administratieve bepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 1. Alle tot Onze Minister te richten en aan Onze Minister over te leggen stukken zijn in de Nederlandse of Engelse taal gesteld en zijn duidelijk leesbaar. Uit het buitenland afkomstige brieven en bewijzen mogen in een andere taal gesteld zijn. Van bewijzen, in een andere taal gesteld, wordt een vertaling in het Papiaments, Nederlands, Engels of Spaans overgelegd. Onvoldoende gefrankeerde stukken worden geweigerd.
 
@@ -204,7 +229,7 @@ Indien een beroep op het recht van voorrang is gedaan, wordt dit feit door Onze 
 
 6. Legalisatie van de ondertekening van stukken waarvan inschrijving wordt gevraagd, is niet vereist, tenzij Onze Minister dit noodzakelijk oordeelt.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Ter bepaling van het tijdstip, waarop een stuk bij Onze Minister is ingekomen, wordt het onmiddellijk na ontvangst voorzien van een dagtekening, houdende uur, dag, maand en jaar van die ontvangst.
 
@@ -216,13 +241,13 @@ Indien een beroep op het recht van voorrang is gedaan, wordt dit feit door Onze 
 
 5. Onze Minister registreert de verzending en ontvangst van stukken. Deze registratie vormt, behoudens tegenbewijs, het bewijs van verzending en ontvangst en van het moment waarop dit heeft plaatsgevonden.
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. De in dit besluit bedoelde in maanden uitgedrukte termijnen beginnen te lopen met ingang van de dag waarop de desbetreffende handeling plaatsvindt en verstrijken, in de betreffende maand, op de dag die overeenkomt met de dag waarop de termijnen aanvingen. Indien de betreffende maand geen overeenkomende dag heeft, verstrijkt de termijn op de laatste dag van deze maand.
 
 2. De in dit besluit bedoelde in weken uitgedrukte termijnen beginnen te lopen met ingang van de dag waarop de desbetreffende handeling plaatsvindt en verstrijken, in de betreffende week, op de dag die overeenkomt met de dag waarop de termijnen aanvingen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Bij Onze Minister kan iedere handeling als bedoeld in deze wet geschieden door tussenkomst van een gemachtigde. De gemachtigde heeft een woonplaats of zetel binnen het koninkrijk.
 
@@ -234,27 +259,27 @@ Indien een beroep op het recht van voorrang is gedaan, wordt dit feit door Onze 
 
 5. Indien Onze Minister redenen heeft om te twijfelen aan de juistheid van een machtiging als bedoeld in het derde lid, bij welke handeling dan ook, kan het alsnog verlangen dat een volmacht wordt ingediend binnen een termijn van een maand. Deze termijn wordt desgevraagd met een maand verlengd. Het uitblijven van een reactie binnen de gestelde of verlengde termijn heeft tot gevolg dat het verzoek buiten behandeling zal worden gelaten.
 
-#### Artikel 16
+##### Artikel 16
 
 [vervallen]
 
-#### Artikel 17
+##### Artikel 17
 
 Indien bij een verzoek tot aantekening van een wijziging in het register niet is voldaan aan het in deze algemene maatregel van bestuur bepaalde of indien de verschuldigde rechten of vergoedingen niet of niet volledig zijn betaald, stelt Onze Minister de betrokkene hiervan onverwijld in kennis en geeft hem een termijn van ten minste een maand om de gebreken alsnog op te heffen. De termijn wordt op verzoek of kan ambtshalve worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden.
 
-#### Artikel 18
+##### Artikel 18
 
 Tegen betaling van een bij ministeriële regeling vast te stellen bedrag aan rechten of vergoedingen verschaft Onze Minister aan belanghebbenden op grondslag van het register inlichtingen en afschriften.
 
-#### Artikel 19
+##### Artikel 19
 
 De documenten betreffende voorrang worden door Onze Minister aan belanghebbenden verschaft tegen betaling van een bij ministeriële regeling vast te stellen bedrag aan rechten of vergoedingen. Een dergelijk document kan slechts worden afgegeven, indien het depot voldoet aan [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028591&hoofdstuk=2&artikel=4&z=2011-10-07&g=2011-10-07).
 
-#### Artikel 20
+##### Artikel 20
 
 Onze Minister kan formulieren beschikbaar stellen voor het verrichten van handelingen omtrent merken.
 
-#### Artikel 21
+##### Artikel 21
 
 Onze Minister publiceert vermeldingen als bedoeld in [artikel 29, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&artikel=29) uitsluitend in de taal waarin deze zijn ingeschreven, zijnde:
 
@@ -262,21 +287,21 @@ de ingeschreven gegevens betreffende depots, bedoeld in [artikel 7](https://wett
 
 ### Hoofdstuk 6. Rechten en vergoedingen
 
-#### Artikel 22
+##### Artikel 22
 
 [vervallen]
 
-#### Artikel 23
+##### Artikel 23
 
 [vervallen]
 
-#### Artikel 24
+##### Artikel 24
 
 Bij ministeriële regeling worden regels gesteld omtrent de bedragen aan en betaling van rechten en vergoedingen.
 
 ### Hoofdstuk 7. Bepalingen verband houdende met de toepassing van de overgangsbepalingen van de wet
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het bevestigende depot als bedoeld in [artikel 43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&artikel=43), geschiedt overeenkomstig het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028591&hoofdstuk=2&artikel=2&z=2011-10-07&g=2011-10-07) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028591&hoofdstuk=2&artikel=3&z=2011-10-07&g=2011-10-07). Voorts wordt vermeld de dagtekening en nummer van het eerder verkregen recht en wordt Onze Minister een bewijsstuk verstrekt waaruit het eerder verkregen recht blijkt.
 
@@ -292,38 +317,38 @@ Bij ministeriële regeling worden regels gesteld omtrent de bedragen aan en beta
 
 7. De houders van depots, bedoeld in dit artikel, kunnen de gegevens, bedoeld in het eerste lid, verbeteren of aanvullen en desgewenst bewijsstukken toevoegen. Deze gegevens laten de reeds vastgestelde datum van verval van de inschrijving onverlet.
 
-#### Artikel 26
+##### Artikel 26
 
 Indien op het tijdstip van het inroepen van het verkregen recht, de deposant tegelijkertijd de eerste vernieuwing van de inschrijving verzoekt overeenkomstig artikel 43, vierde lid, van de landsverordening, maakt hij daarvan bij het depot melding en betaalt een bij ministeriële regeling vast te stellen bedrag aan rechten of vergoedingen. Het bepaalde in [artikel 25, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028591&hoofdstuk=7&artikel=25&z=2011-10-07&g=2011-10-07), is van toepassing.
 
-#### Artikel 27
+##### Artikel 27
 
 [vervallen]
 
 ### Hoofdstuk 8. Internationaal Depot
 
-#### Artikel 28
+##### Artikel 28
 
 Het formulier voor internationale registratie moet in de engelse taal worden ingevuld.
 
-#### Artikel 29
+##### Artikel 29
 
 Ingevolge het bepaalde in [artikel 19, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&artikel=19) heeft de deposant een termijn van ten minste een maand na de datum van de eerste kennisgeving om te antwoorden op de voorlopige weigering; deze termijn wordt op verzoek of kan ambtshalve worden verlengd, zonder dat een tijdvak van zes maanden na de datum van de eerste kennisgeving wordt overschreden.
 
-#### Artikel 30
+##### Artikel 30
 
 Het bedrag van de rechten of vergoedingen voor handelingen met betrekking tot internationale depots wordt bij ministeriële regeling vastgesteld.
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 Deze algemene maatregel van bestuur treedt in werking op de datum waarop de wet, geheel of gedeeltelijk, in werking treedt.
 
-#### Artikel 32
+##### Artikel 32
 
 Dit besluit berust op de [artikelen 10, eerste, derde, vierde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&artikel=10), 11, derde lid, 17, eerste lid, [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&artikel=18), [20, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&artikel=20), [21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&artikel=21), [29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&artikel=29), en [43 van de Wet merken BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028306&artikel=43).
 
-#### Artikel 33
+##### Artikel 33
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit merken BES.

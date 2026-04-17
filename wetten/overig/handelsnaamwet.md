@@ -1,14 +1,40 @@
 ---
-title: "Handelsnaamwet"
+title: "Wet van 5 juli 1921, houdende bepalingen omtrent de handelsnaam"
 identifier: "BWBR0001906"
-categorie: "Overig"
-publicatiedatum: 2017-09-01
-laatste_update: 2017-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001906"
+country: "nl"
+rank: "wet"
+publication_date: "2017-09-01"
+last_updated: "2017-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001906"
+soort: "wet"
+stam_id: "1378063"
+version_id: "14340312"
+internal_id: "C19503021"
+label_id: "1336354"
+dtd_version: "2.0"
+original_entry_into_force: "2007-03-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001906/2017-09-01/0"
+intitule_bron: "Stb.1921-842"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1921-07-05"
+intitule_status: "goed"
+original_publication: "Stb.2007-108"
+original_signed_date: "2007-03-08"
+original_published_date: "2007-03-22"
+original_effect: "structuurwijziging"
+original_dossier: "30392"
+original_url_id: "stb-2007-108"
+entry_into_force_date: "2007-03-08"
+entry_into_force_dossier: "30392"
+jci_1_3: "jci1.3:c:BWBR0001906&z=2017-09-01&g=2017-09-01"
+jci_1_0: "1.0:c:BWBR0001906&g=2017-09-01"
+citeertitel_status: "officieel"
+short_title: "Handelsnaamwet"
+signed_date: "2007-03-08"
+entry_into_force: "2007-03-08"
 ---
-
-# Handelsnaamwet
+# Wet van 5 juli 1921, houdende bepalingen omtrent de handelsnaam
 
 Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
 
@@ -16,15 +42,15 @@ Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is wettelijke bepal
 
 Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 Onder handelsnaam verstaat deze wet de naam waaronder een onderneming wordt gedreven.
 
-#### Artikel 2
+##### Artikel 2
 
 De handelsnaam gaat over bij erfopvolging en is vatbaar voor overdracht, doch een en ander slechts in verbinding met de onderneming, die onder die naam wordt gedreven.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het is de eigenaar ener onderneming verboden een handelsnaam te voeren, die in strijd met de waarheid aanduidt, dat de onderneming, geheel of gedeeltelijk aan een ander zou toebehoren.
 
@@ -32,7 +58,7 @@ De handelsnaam gaat over bij erfopvolging en is vatbaar voor overdracht, doch ee
 
 3. Het eerste lid is niet van toepassing, indien de handelsnaam en de onderneming afkomstig zijn van iemand, die die naam heeft gevoerd niet in strijd met deze wet.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het is verboden een handelsnaam te voeren, die in strijd met de waarheid aanduidt, dat de onderneming zou toebehoren aan een of meer personen, handelende als een vennootschap onder een firma, als een vennootschap en commandite of een rederij, of wel aan een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid, een onderlinge waarborgmaatschappij, een coöperatie, een vereniging of aan een stichting.
 
@@ -40,19 +66,19 @@ De handelsnaam gaat over bij erfopvolging en is vatbaar voor overdracht, doch ee
 
 3. Het eerste lid is niet van toepassing, indien de handelsnaam wordt gevoerd door één persoon zonder vennoten, en die naam en de onderneming afkomstig zijn van een vennootschap onder een firma of van een vennootschap **en commandite,** die die handelsnaam heeft gevoerd niet in strijd met deze wet.
 
-#### Artikel 5
+##### Artikel 5
 
 Het is verboden een handelsnaam te voeren, die, vóórdat de onderneming onder die naam werd gedreven, reeds door een ander rechtmatig gevoerd werd, of die van diens handelsnaam slechts in geringe mate afwijkt, een en ander voor zover dientengevolge, in verband met de aard der beide ondernemingen en de plaats, waar zij gevestigd zijn, bij het publiek verwarring tussen die ondernemingen te duchten is.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Het is verboden een handelsnaam te voeren, die het merk bevat, waarop een ander ter onderscheiding van zijn fabrieks- of handelswaren recht heeft, dan wel een aanduiding, die van zodanig merk slechts in geringe mate afwijkt, voor zover dientengevolge bij het publiek verwarring omtrent de herkomst van de waren te duchten is.
 
-#### Artikel 5b
+##### Artikel 5b
 
 Het is verboden een handelsnaam te voeren, welke een onjuiste indruk geeft van de onder die naam gedreven onderneming, voor zover dientengevolge misleiding van het publiek te duchten is.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien een handelsnaam wordt gevoerd in strijd met deze wet, kan ieder belanghebbende, onverminderd zijn vordering krachtens [titel 3 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&titeldeel=3), de kantonrechter verzoeken degene die de verboden handelsnaam voert, te veroordelen, daarin zodanige door de rechter te bepalen wijziging aan te brengen, dat de gestelde onrechtmatigheid wordt opgeheven.
 
@@ -66,7 +92,7 @@ Het is verboden een handelsnaam te voeren, welke een onjuiste indruk geeft van d
 
 6. De rechter kan de voorlopige tenuitvoerlegging van zijn beschikking bevelen.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Het verzoek bedoeld in het eerste lid van het vorige artikel kan ook gedaan worden door de Kamer van Koophandel.
 
@@ -76,7 +102,7 @@ Het is verboden een handelsnaam te voeren, welke een onjuiste indruk geeft van d
 
 4. Het vierde, vijfde en zesde lid van het vorige artikel vinden overeenkomstige toepassing.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Hij die een handelsnaam voert in strijd met deze wet, wordt gestraft met een geldboete van de tweede categorie.
 
@@ -86,21 +112,21 @@ Het is verboden een handelsnaam te voeren, welke een onjuiste indruk geeft van d
 
 4. De ambtenaar van het openbaar ministerie kan, alvorens tot vervolging van het strafbaar feit over te gaan, degene die de verboden handelsnaam voert, de wijziging mededelen, die de ambtenaar nodig voorkomt om de onrechtmatigheid van de handelsnaam op te heffen; daarbij wordt een bekwame termijn gesteld om die wijziging aan te brengen. Wordt die wijziging binnen de gestelde termijn aangebracht, dan is het recht tot strafvordering vervallen.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Bevat wijzigingen in andere regelgeving.
 
 #### Slot- en overgangsbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Deze wet kan worden aangehaald onder de titel "Handelsnaamwet".
 
-#### Artikel 11
+##### Artikel 11
 
 1. Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 
@@ -110,11 +136,11 @@ Deze wet kan worden aangehaald onder de titel "Handelsnaamwet".
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 6b
+##### Artikel 6b
 
 De voorzieningenrechter kan op vordering van eiser tijdelijke voortzetting van de vermeende strijd met de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5&z=2017-09-01&g=2017-09-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5a&z=2017-09-01&g=2017-09-01) toestaan onder de voorwaarde dat de verweerder zekerheid stelt voor vergoeding van de door eiser geleden schade.
 
-#### Artikel 6c
+##### Artikel 6c
 
 1. Indien een handelsnaam wordt gevoerd in strijd met de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5&z=2017-09-01&g=2017-09-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5a&z=2017-09-01&g=2017-09-01), kan de rechter in passende gevallen de schadevergoeding vaststellen als een forfaitair bedrag.
 

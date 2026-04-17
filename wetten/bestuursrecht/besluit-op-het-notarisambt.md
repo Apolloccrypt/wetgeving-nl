@@ -1,13 +1,39 @@
 ---
-title: "Besluit op het notarisambt"
+title: "Besluit van 27 september 2012, houdende regels ter uitvoering van de Wet op het notarisambt (Besluit op het notarisambt)"
 identifier: "BWBR0032084"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032084"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032084"
+soort: "AMvB"
+stam_id: "11870743"
+version_id: "19704342"
+internal_id: "C27803091"
+label_id: "11843084"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032084/2018-01-01/0"
+intitule_bron: "Stb.2012-459"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-09-27"
+intitule_published: "2012-10-12"
+intitule_in_force: "2012-11-22"
+intitule_status: "goed"
+original_publication: "Stb.2012-459"
+original_signed_date: "2012-09-27"
+original_published_date: "2012-10-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-459"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032084&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0032084&g=2018-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit op het notarisambt"
+signed_date: "2012-09-27"
+entry_into_force: "2013-01-01"
 ---
-
 # Besluit van 27 september 2012, houdende regels ter uitvoering van de Wet op het notarisambt (Besluit op het notarisambt)
 
 Op de voordracht van de Staatssecretaris van Veiligheid en Justitie van 16 maart 2012, nr. 5727408/12/6;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk II. Beroepsvereisten
 
-#### Artikel 2
+##### Artikel 2
 
 Het in [artikel 6, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=6) bedoelde afsluitend examen op het gebied van het recht, dat met goed gevolg afgelegd moet worden om in aanmerking te kunnen komen voor benoeming tot notaris of om het beroep van kandidaat-notaris te kunnen uitoefenen, omvat de volgende onderdelen:
 
@@ -68,7 +94,7 @@ Het in [artikel 6, tweede lid, onderdeel a, van de wet](https://wetten.overheid.
 
 - g. schriftelijke uitdrukkingsvaardigheid in de vorm van een scriptie of een andere gelijkwaardige, schriftelijke, onderzoeksprestatie op juridisch gebied.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de toepassing van [artikel 6, tweede lid, onderdeel a, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=6), wordt met de in dat onderdeel bedoelde graad Bachelor op het gebied van het recht, gelijkgesteld de graad Bachelor, verleend op grond van het met goed gevolg afleggen van een afsluitend examen van de opleiding HBO-Rechten aan een hogeschool als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), indien blijkens hierop betrekking hebbende bewijsstukken tevens met goed gevolg zijn afgelegd de tentamens van de tot een schakelprogramma behorende onderwijseenheden.
 
@@ -78,7 +104,7 @@ Het in [artikel 6, tweede lid, onderdeel a, van de wet](https://wetten.overheid.
 
 ### Hoofdstuk III. Benoeming, toevoeging en waarneming
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Commissie toegang notariaat bestaat uit vijf leden: een voor het leven benoemd lid van de rechterlijke macht die voorzitter, plaatsvervangend voorzitter of lid is van een kamer voor het notariaat, een op voordracht van het bestuur van de KNB benoemd lid, een op voordracht van het Bureau benoemd lid en twee overige leden. Er zijn twee of meer plaatsvervangende leden.
 
@@ -94,7 +120,7 @@ Het in [artikel 6, tweede lid, onderdeel a, van de wet](https://wetten.overheid.
 
 7. Bij regeling van Onze Minister worden regels gesteld omtrent de vergoeding van de reis- en verblijfkosten van de leden van de Commissie en andere vergoedingen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ten behoeve van haar advies, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=8), en [artikel 30c, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=30c), kan de Commissie zowel een beperkt als een volledig onderzoek instellen.
 
@@ -114,17 +140,17 @@ Het in [artikel 6, tweede lid, onderdeel a, van de wet](https://wetten.overheid.
 
 5. Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent het door de Commissie in te stellen onderzoek.
 
-#### Artikel 6
+##### Artikel 6
 
 [gereserveerd]
 
-#### Artikel 7
+##### Artikel 7
 
 Het minimale aantal uren per week dat een notaris zijn ambt dient uit te oefenen bij waarneming in deeltijd, bedoeld in [artikel 29, vierde lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=29), bedraagt achttien uur.
 
 ### Hoofdstuk IV. Het register voor het notariaat
 
-#### Artikel 8
+##### Artikel 8
 
 In het register worden van iedere notaris opgenomen:
 
@@ -168,7 +194,7 @@ In het register worden van iedere notaris opgenomen:
 
 - t. de datum van beëindiging van het ambt door overlijden.
 
-#### Artikel 9
+##### Artikel 9
 
 In het register worden van iedere toegevoegd notaris opgenomen:
 
@@ -196,7 +222,7 @@ In het register worden van iedere toegevoegd notaris opgenomen:
 
 - l. de datum en grond voor beëindiging van de toevoeging.
 
-#### Artikel 10
+##### Artikel 10
 
 In het register worden van iedere kandidaat-notaris opgenomen:
 
@@ -216,7 +242,7 @@ In het register worden van iedere kandidaat-notaris opgenomen:
 
 - h. in geval van benoeming tot waarnemer: de datum van benoeming en intrekking daarvan, onder vermelding van de daarop betrekking hebbende beslissing of beslissingen met datum en kenmerk, de datum van eedsaflegging, de handtekening en paraaf van de kandidaat-notaris, de naam van de notaris voor wie het ambt wordt waargenomen, de grond van de waarneming en het begin en einde van de waarnemingstermijn.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onze Minister, de KNB, het Bureau, de kamers voor het notariaat, alsmede het gerechtshof te Amsterdam hebben ten behoeve van hun taakvervulling op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388) onbeperkte inzage in het register.
 
@@ -228,7 +254,7 @@ In het register worden van iedere kandidaat-notaris opgenomen:
 
 ### Hoofdstuk V. De tuchtrechtspraak
 
-#### Artikel 12
+##### Artikel 12
 
 1. De kamer voor het notariaat vergadert wanneer de voorzitter zulks nodig acht of indien ten minste drie leden de voorzitter daarom schriftelijk verzoeken met opgave van de te behandelen onderwerpen.
 
@@ -242,21 +268,21 @@ In het register worden van iedere kandidaat-notaris opgenomen:
 
 6. Bij regeling van Onze Minister worden regels gesteld omtrent de vergoeding van de reis- en verblijfkosten van de leden en plaatsvervangend leden van de kamers voor het notariaat en andere vergoedingen.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
 ### Hoofdstuk VI. Overige bepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 Het [Besluit beroepsvereisten kandidaat-notaris](https://wetten.overheid.nl/jci1.3:c:BWBR0010487), het [Besluit deeltijd notaris](https://wetten.overheid.nl/jci1.3:c:BWBR0010486) en het [Besluit kamers van toezicht notariaat](https://wetten.overheid.nl/jci1.3:c:BWBR0010509) worden ingetrokken.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit op het notarisambt.
 

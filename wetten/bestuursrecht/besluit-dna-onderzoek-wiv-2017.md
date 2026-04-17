@@ -1,13 +1,39 @@
 ---
-title: "Besluit DNA-onderzoek Wiv 2017"
+title: "Besluit van 18 april 2018, houdende regels met betrekking tot het verrichten van DNA-onderzoek in het kader van de uitvoering van de Wet op de inlichtingen- en veiligheidsdiensten 2017 (Besluit DNA-onderzoek Wiv 2017)"
 identifier: "BWBR0040851"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-05-01
-laatste_update: 2018-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040851"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-05-01"
+last_updated: "2018-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040851"
+soort: "AMvB"
+stam_id: "14595653"
+version_id: "24992212"
+internal_id: "C35741771"
+label_id: "14549334"
+dtd_version: "2.0"
+original_entry_into_force: "2018-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040851/2018-05-01/0"
+intitule_bron: "Stb.2018-118"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-04-18"
+intitule_published: "2018-04-26"
+intitule_in_force: "2018-04-26"
+intitule_status: "goed"
+original_publication: "Stb.2018-118"
+original_signed_date: "2018-04-18"
+original_published_date: "2018-04-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2018-118"
+entry_into_force_date: "2018-05-01"
+jci_1_3: "jci1.3:c:BWBR0040851&z=2018-05-01&g=2018-05-01"
+jci_1_0: "1.0:c:BWBR0040851&g=2018-05-01"
+citeertitel_status: "officieel"
+short_title: "Besluit DNA-onderzoek Wiv 2017"
+signed_date: "2018-04-18"
+entry_into_force: "2018-05-01"
 ---
-
 # Besluit van 18 april 2018, houdende regels met betrekking tot het verrichten van DNA-onderzoek in het kader van de uitvoering van de Wet op de inlichtingen- en veiligheidsdiensten 2017 (Besluit DNA-onderzoek Wiv 2017)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, gedaan mede namens Onze Minister van Defensie van 22 december 2017, nr. 2017-0000212750;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 2. Veiligstellen van celmateriaal
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een voorwerp met daarop mogelijk celmateriaal dat door de dienst is meegenomen voor DNA-onderzoek wordt, zolang dat celmateriaal niet is veiliggesteld, door de dienst geconditioneerd opgeslagen. Van dit voorwerp wordt in een daartoe ingerichte ruimte celmateriaal veiliggesteld en de verpakking waarin dit celmateriaal wordt gedaan, wordt voorzien van een sporenidentificatienummer.
 
@@ -50,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3. Administratie inzake de uitvoering van de bevoegdheid tot DNA-onderzoek
 
-#### Artikel 3
+##### Artikel 3
 
 De dienst houdt in verband met de toepassing van de bevoegdheid tot het uitvoeren van DNA-onderzoek een administratie bij. De administratie omvat:
 
@@ -68,7 +94,7 @@ De dienst houdt in verband met de toepassing van de bevoegdheid tot het uitvoere
 
 #### Paragraaf 4. Profilering van celmateriaal
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een DNA-onderzoek mag uitsluitend worden verricht in een laboratorium, dat:
 
@@ -78,7 +104,7 @@ De dienst houdt in verband met de toepassing van de bevoegdheid tot het uitvoere
 
 2. Indien de accreditatie van een laboratorium als bedoeld in het eerste lid is ingetrokken, geschorst of na de vervaldatum niet is verlengd, mag het DNA-onderzoek niet door dit laboratorium worden uitgevoerd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien Onze betrokken Minister toestemming heeft verleend voor het verrichten van het DNA-onderzoek, wordt het van het voorwerp veiliggestelde celmateriaal of het voorwerp aangeboden aan het laboratorium dat het DNA-onderzoek zal uitvoeren. Het celmateriaal of het voorwerp wordt aangeboden in daarvoor bestemd verpakkingsmateriaal en afgesloten met een fraudebestendige sluitzegel of een fraudebestendige afsluiting.
 
@@ -98,7 +124,7 @@ De dienst houdt in verband met de toepassing van de bevoegdheid tot het uitvoere
 
 4. Indien Onze betrokken Minister geen toestemming verleent voor het verrichten van het DNA-onderzoek, wordt het voorwerp met daarop mogelijk celmateriaal, indien nodig, teruggeplaatst of het van het voorwerp veiliggestelde celmateriaal terstond door een medewerker van de desbetreffende dienst vernietigd. Van de vernietiging wordt een aantekening gemaakt in de administratie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040851&paragraaf=3&artikel=3&z=2018-05-01&g=2018-05-01).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De deskundige die is belast met het verrichten van het DNA-onderzoek, verricht het DNA-onderzoek volgens een van de methoden die zijn goedgekeurd bij het verlenen van accreditatie aan het laboratorium waaraan hij is verbonden.
 
@@ -124,7 +150,7 @@ De dienst houdt in verband met de toepassing van de bevoegdheid tot het uitvoere
 
 #### Paragraaf 5. De registratie en vergelijking van DNA-profielen
 
-#### Artikel 7
+##### Artikel 7
 
 1. De dienst richt een DNA-profielenregistratie in.
 
@@ -158,7 +184,7 @@ De dienst houdt in verband met de toepassing van de bevoegdheid tot het uitvoere
 
 7. Van iedere toegang tot de gegevens in de DNA-profielenregistratie, de registratie, bedoeld in het tweede lid, en de gegevens, bedoeld in het vijfde lid wordt, aantekening gehouden in de administratie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040851&paragraaf=3&artikel=3&z=2018-05-01&g=2018-05-01).
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het DNA-profiel, verkregen in het kader van een onderzoek als bedoeld in [artikel 43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=43), mag, tenzij het een DNA-profiel betreft dat voorkomt in de registratie, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040851&paragraaf=5&artikel=7&z=2018-05-01&g=2018-05-01), met het oog op de vaststelling en verificatie van de identiteit van een persoon, worden vergeleken met:
 
@@ -184,7 +210,7 @@ De dienst houdt in verband met de toepassing van de bevoegdheid tot het uitvoere
 
 #### Paragraaf 6. De verdere verwerking van gegevens uit de DNA-profielenregistratie
 
-#### Artikel 9
+##### Artikel 9
 
 1. De gegevens in de DNA-profielenregistratie alsmede de daaraan gerelateerde persoonsidentificerende gegevens kunnen, indien daarvoor overeenkomstig [artikel 43, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=43) toestemming is verkregen van Onze betrokken Minister, verder worden verwerkt.
 
@@ -198,11 +224,11 @@ De dienst houdt in verband met de toepassing van de bevoegdheid tot het uitvoere
 
 #### Paragraaf 7. Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit DNA-onderzoek Wiv 2017.
 

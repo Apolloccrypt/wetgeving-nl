@@ -1,13 +1,39 @@
 ---
-title: "Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren"
+title: "Besluit van 11 december 2013, houdende regels voor de opleiding van registerloodsen, noordzeeloodsen en VTS-operators en de bij die functies behorende bevoegdheden en verplichtingen (Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren)"
 identifier: "BWBR0034471"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-09-01
-laatste_update: 2025-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034471"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-09-01"
+last_updated: "2025-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034471"
+soort: "AMvB"
+stam_id: "12499903"
+version_id: "21032902"
+internal_id: "C30205311"
+label_id: "12470984"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034471/2025-09-01/0"
+intitule_bron: "Stb.2013-553"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-11"
+intitule_published: "2013-12-19"
+intitule_in_force: "2013-12-19"
+intitule_status: "goed"
+original_publication: "Stb.2013-553"
+original_signed_date: "2013-12-11"
+original_published_date: "2013-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2013-553"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034471&z=2025-09-01&g=2025-09-01"
+jci_1_0: "1.0:c:BWBR0034471&g=2025-09-01"
+citeertitel_status: "officieel"
+short_title: "Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren"
+signed_date: "2013-12-11"
+entry_into_force: "2014-01-01"
 ---
-
 # Besluit van 11 december 2013, houdende regels voor de opleiding van registerloodsen, noordzeeloodsen en VTS-operators en de bij die functies behorende bevoegdheden en verplichtingen (Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren)
 
 Op de voordracht van Onze Minister van Infrastructuur en Milieu van 14 november 2013, nr. IenM/BSK-2013/254642, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In dit besluit en de daarop gebaseerde bepalingen wordt verstaan onder:
 
@@ -74,19 +100,19 @@ In dit besluit en de daarop gebaseerde bepalingen wordt verstaan onder:
 
 - –. **VTS-operator:** persoon als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-09-01&g=2025-09-01).
 
-#### Artikel 1.2. Geneeskundige verklaring voor de zeevaart
+##### Artikel 1.2. Geneeskundige verklaring voor de zeevaart
 
 1. Voor de toepassing van dit besluit en de daarop gebaseerde bepalingen wordt onder geneeskundige verklaring voor de zeevaart verstaan: een geldige geneeskundige verklaring van geschiktheid voor de zeevaart als bedoeld in [artikel 31, eerste lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=31).
 
 2. In verband met het verkrijgen van de in het eerste lid bedoelde geneeskundige verklaring zijn de [artikelen 31 tot en met 34 van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=31) en de daarop berustende bepalingen van overeenkomstige toepassing.
 
-#### Artikel 1.3. Examenprogramma
+##### Artikel 1.3. Examenprogramma
 
 1. Voor de toepassing van dit besluit en de daarop gebaseerde bepalingen wordt verstaan onder examenprogramma: een beschrijving van de inhoudsgebieden waarop een examen betrekking heeft.
 
 2. Bij de vaststelling van een examenprogramma wordt rekening gehouden met ter zake geldende internationale richtlijnen en gewoonten en met de specifieke beroepsvaardigheden die, ter bevordering van een veilige en vlotte afwikkeling van het scheepvaartverkeer, worden gevorderd om de functie of het beroep waarvoor betrokkene wordt opgeleid en geëxamineerd, naar behoren te kunnen vervullen.
 
-#### Artikel 1.4. Examenreglement
+##### Artikel 1.4. Examenreglement
 
 1. Voor de toepassing van dit besluit en de daarop gebaseerde bepalingen bevat een examenreglement in ieder geval bepalingen over:
 
@@ -106,7 +132,7 @@ In dit besluit en de daarop gebaseerde bepalingen wordt verstaan onder:
 
 #### Paragraaf 1. De opleiding voor het beroep van registerloods
 
-#### Artikel 2.1. Voorwaarden voor deelname aan de opleiding tot registerloods
+##### Artikel 2.1. Voorwaarden voor deelname aan de opleiding tot registerloods
 
 Voor deelname aan de opleiding en de examens voor registerloods kan in aanmerking komen een persoon die:
 
@@ -118,11 +144,11 @@ Voor deelname aan de opleiding en de examens voor registerloods kan in aanmerkin
 
 - d. beschikt over zodanige karaktereigenschappen dat hij naar verwachting geschikt zal zijn voor het uitoefenen van het beroep van registerloods.
 
-#### Artikel 2.2. Inhoud van de opleiding tot registerloods
+##### Artikel 2.2. Inhoud van de opleiding tot registerloods
 
 De opleiding tot registerloods omvat zowel praktisch als theoretisch onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in ten minste de volgende aspecten van de beroepsuitoefening: navigeren, manoeuvreren en communiceren in het algemeen en in het bijzonder met betrekking tot de regio waar betrokkene na zijn examens als registerloods loodsdiensten zal gaan verrichten.
 
-#### Artikel 2.3. Accreditatie van de opleiding tot registerloods
+##### Artikel 2.3. Accreditatie van de opleiding tot registerloods
 
 1. Onverminderd [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-09-01&g=2025-09-01), draagt de algemene raad er zorg voor dat voor de opleiding tot registerloods een accreditatie HBO-master als bedoeld in [hoofdstuk 5 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5), is verleend.
 
@@ -132,7 +158,7 @@ De opleiding tot registerloods omvat zowel praktisch als theoretisch onderwijs d
 
 #### Paragraaf 2. Verplichtingen en bevoegdheden van de registerloods
 
-#### Artikel 2.4. Geneeskundige verklaringen
+##### Artikel 2.4. Geneeskundige verklaringen
 
 1. Een registerloods bezit een geldige geneeskundige verklaring voor de zeevaart.
 
@@ -142,7 +168,7 @@ De opleiding tot registerloods omvat zowel praktisch als theoretisch onderwijs d
 
 4. De registerloods die niet in het bezit is van een of, indien van toepassing beide geldige verklaringen als bedoeld in het eerste en tweede lid, meldt dit onverwijld aan de algemene raad.
 
-#### Artikel 2.5. Voorschriften voor registerloodsen
+##### Artikel 2.5. Voorschriften voor registerloodsen
 
 1. Bij verordening worden regels gesteld met betrekking tot:
 
@@ -158,7 +184,7 @@ De opleiding tot registerloods omvat zowel praktisch als theoretisch onderwijs d
 
 3. In de situatie, bedoeld in het tweede lid, doet de registerloods hiervan onverwijld melding aan de bevoegde autoriteit of aan een opsporingsambtenaar en pleegt hij overleg met de kapitein en zo mogelijk met de bevoegde autoriteit over de te nemen actie. Indien het schip, ondanks de weigering van de registerloods, toch vertrekt of de reis voortzet, oefent de registerloods zijn functie zo goed mogelijk uit.
 
-#### Artikel 2.6. Voorschriften tijdens de functie-uitoefening
+##### Artikel 2.6. Voorschriften tijdens de functie-uitoefening
 
 Tijdens de uitoefening van zijn functie:
 
@@ -180,7 +206,7 @@ Tijdens de uitoefening van zijn functie:
 
 - d. wijst hij de verkeersdeelnemer, die zijn adviezen niet opvolgt en waardoor de veiligheid van het schip, de bemanning of omgeving daardoor naar zijn oordeel gevaar lopen, zo mogelijk in het bijzijn van een ander lid van de scheepsbemanning, op dat gevaar en blijft daarbij zijn functie zo goed mogelijk uitoefenen.
 
-#### Artikel 2.7. Aanvullende voorschriften in verband met het loodsen op afstand
+##### Artikel 2.7. Aanvullende voorschriften in verband met het loodsen op afstand
 
 1. Een registerloods mag slechts op de loodsplichtige scheepvaartwegen loodsen op afstand, voor zover:
 
@@ -200,7 +226,7 @@ Tijdens de uitoefening van zijn functie:
 
 5. Het loodsen op afstand geschiedt in de Engelse taal tenzij door de bevoegde autoriteit een andere taal is voorgeschreven.
 
-#### Artikel 2.8. Procedures in verband met het loodsen op afstand
+##### Artikel 2.8. Procedures in verband met het loodsen op afstand
 
 1. De met het loodsen van een schip belaste registerloods doet onverwijld melding aan de daartoe door het bestuur van een regionale loodsencorporatie aangewezen registerloods, indien zich een voor het loodsen op afstand genoemde omstandigheid als bedoeld in [artikel 2.7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2025-09-01&g=2025-09-01), voordoet.
 
@@ -216,7 +242,7 @@ Tijdens de uitoefening van zijn functie:
 
 #### Paragraaf 1. De bevoegdheid en opleiding van een noordzeeloods
 
-#### Artikel 3.1. Certificaat noordzeeloods
+##### Artikel 3.1. Certificaat noordzeeloods
 
 1. Een certificaat noordzeeloods wordt door de Minister op verzoek afgegeven aan de persoon die:
 
@@ -230,7 +256,7 @@ Tijdens de uitoefening van zijn functie:
 
 4. Het certificaat noordzeeloods voldoet aan daartoe bij ministeriële regeling gestelde eisen.
 
-#### Artikel 3.2. Voorwaarden voor deelname aan de opleiding tot noordzeeloods
+##### Artikel 3.2. Voorwaarden voor deelname aan de opleiding tot noordzeeloods
 
 Voor deelname aan de opleiding tot noordzeeloods kan in aanmerking komen een persoon die:
 
@@ -244,13 +270,13 @@ Voor deelname aan de opleiding tot noordzeeloods kan in aanmerking komen een per
 
 - e. beschikt over zodanige karaktereigenschappen dat hij naar verwachting geschikt zal zijn voor het uitoefenen van het beroep van noordzeeloods.
 
-#### Artikel 3.3. Inhoud van de opleiding en het examen voor noordzeeloods
+##### Artikel 3.3. Inhoud van de opleiding en het examen voor noordzeeloods
 
 1. De opleiding tot noordzeeloods omvat zowel theoretisch als praktisch onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in ten minste de volgende aspecten van de beroepsuitoefening: navigeren, manoeuvreren en communiceren in het algemeen en in het bijzonder met betrekking tot het beloodsingsgebied.
 
 2. Het examenprogramma en het examenreglement behorende bij het examen ter afronding van de opleiding tot noordzeeloods, worden vastgesteld in overleg tussen betrokkenen bij de scheepvaart in het beloodsingsgebied van noordzeeloodsen.
 
-#### Artikel 3.4. Certificering van de opleiding tot noordzeeloods
+##### Artikel 3.4. Certificering van de opleiding tot noordzeeloods
 
 1. Onverminderd [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2025-09-01&g=2025-09-01) beschikt de opleiding tot noordzeeloods over een certificaat waarmee een certificeringsinstelling kenbaar heeft gemaakt dat er gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat de opleiding voldoet aan de voor die certificerende instelling geldende normen met betrekking tot deskundigheid, bekwaamheid, het kwaliteitssysteem, de interne kwaliteitsbewaking, werkinstructies, klachtbehandeling of andere normen waarmee de kwaliteit van de werkzaamheden kan worden bevorderd.
 
@@ -258,7 +284,7 @@ Voor deelname aan de opleiding tot noordzeeloods kan in aanmerking komen een per
 
 #### Paragraaf 2. Verplichtingen van de noordzeeloods
 
-#### Artikel 3.5. Voorschriften voor noordzeeloodsen
+##### Artikel 3.5. Voorschriften voor noordzeeloodsen
 
 1. Een noordzeeloods bezit een geldige geneeskundige verklaring voor de zeevaart en toont deze desgevraagd aan de Minister.
 
@@ -266,7 +292,7 @@ Voor deelname aan de opleiding tot noordzeeloods kan in aanmerking komen een per
 
 3. Onverminderd het tweede lid is een noordzeeloods tijdens het verrichten van loodsdiensten voldoende fit en in goede conditie en neemt hij daartoe voldoende rust tijdens een loodsreis en tussen twee loodsreizen in.
 
-#### Artikel 3.6. Voorschriften tijdens de functie-uitoefening
+##### Artikel 3.6. Voorschriften tijdens de functie-uitoefening
 
 1. Tijdens de uitoefening van zijn functie:
 
@@ -292,7 +318,7 @@ Voor deelname aan de opleiding tot noordzeeloods kan in aanmerking komen een per
 
 3. De verklaring, bedoeld in het tweede lid, is bedoeld voor lering en mag ook alleen gebruikt worden voor lering, behoudens wettelijke verplichtingen voortvloeiend uit het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) of [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
-#### Artikel 3.7. Vervallen of intrekken van het certificaat noodzeeloods
+##### Artikel 3.7. Vervallen of intrekken van het certificaat noodzeeloods
 
 1. Het certificaat noordzeeloods vervalt van rechtswege met ingang van de dag dat de noordzeeloods niet meer in het bezit is van een geldige geneeskundige verklaring voor de zeevaart.
 
@@ -310,7 +336,7 @@ Voor deelname aan de opleiding tot noordzeeloods kan in aanmerking komen een per
 
 #### Paragraaf 1. De bevoegdheid en opleiding van een VTS-operator en andere personen
 
-#### Artikel 5.1. Bevoegdheid VTS-operator en andere personen
+##### Artikel 5.1. Bevoegdheid VTS-operator en andere personen
 
 In opdracht van het bevoegd gezag zijn bevoegd tot het aan de scheepvaart geven van verkeersinformatie en verkeersaanwijzingen:
 
@@ -318,13 +344,13 @@ In opdracht van het bevoegd gezag zijn bevoegd tot het aan de scheepvaart geven 
 
 - b. een persoon die de scheepvaart instrueert vanaf een post, meldpost, vuurtoren of patrouille-vaartuig, in verband met de bediening van bruggen, sluizen, waterkeringen en gemalen of in verband met de uitvoering van andere operationele taken.
 
-#### Artikel 5.2. Voorwaarden voor het uitoefenen van de functie van VTS-operator
+##### Artikel 5.2. Voorwaarden voor het uitoefenen van de functie van VTS-operator
 
 1. Het bevoegd gezag kan alleen een persoon bevoegd verklaren voor het uitoefenen van de functie van VTS-operator nadat deze persoon de opleiding tot VTS-operator met goed gevolg heeft afgerond en zolang deze persoon blijkt geeft over voldoende kennis en vakbekwaamheid te beschikken om de functie van VTS-operator te kunnen blijven uitoefenen.
 
 2. Onverminderde het eerste lid, kan de functie van VTS-operator tevens worden vervuld door de persoon die voldoet aan de krachtens [artikel 33, eerste lid, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33) voor het verkrijgen van erkenning van EU-kwalificaties van voor de functie van VTS-operator gestelde regels met betrekking tot het doorlopen van een aanpassingsstage of het afleggen van een proeve van bekwaamheid zowel wat betreft het landelijk deel van de opleiding als wat betreft de specifieke kenmerken van de scheepvaartwegen waarvoor betrokkene de scheepvaartbegeleiding gaat verzorgen en zolang deze persoon blijkt geeft over voldoende kennis en vakbekwaamheid te beschikken om de functie van VTS-operator te kunnen blijven uitoefenen.
 
-#### Artikel 5.3. Inhoud van de opleiding en het examen voor VTS-operator
+##### Artikel 5.3. Inhoud van de opleiding en het examen voor VTS-operator
 
 1. De opleiding tot VTS-operator bestaat uit een landelijke opleiding en een regionale opleiding die betrekking heeft op specifieke kenmerken van de scheepvaartwegen waarvoor betrokkene de verkeersbegeleiding gaat verzorgen.
 
@@ -332,17 +358,17 @@ In opdracht van het bevoegd gezag zijn bevoegd tot het aan de scheepvaart geven 
 
 3. Het examenprogramma en het examenreglement behorende bij het examen ter afronding van de opleidingen tot VTS-operator, worden vastgesteld in gezamenlijk overleg tussen degenen die als bevoegd gezag bij de scheepvaartbegeleiding zijn betrokken.
 
-#### Artikel 5.4. Certificering van de opleiding tot VTS-operator
+##### Artikel 5.4. Certificering van de opleiding tot VTS-operator
 
 1. Onverminderd [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.3&z=2025-09-01&g=2025-09-01) beschikken de opleidingen over een certificaat waarmee een certificeringsinstelling, kenbaar heeft gemaakt dat er gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat de opleiding voldoet aan de voor de certificerende instelling geldende normen met betrekking tot deskundigheid, bekwaamheid, het kwaliteitssysteem, de interne kwaliteitsbewaking, werkinstructies, klachtbehandeling of andere normen waarmee de kwaliteit van de werkzaamheden kan worden bevorderd.
 
 2. Indien en zolang er geen opleiding is die voldoet aan het eerste lid, wijst de Minister een of meer opleidingsinstellingen aan die de opleidingen met inachtneming van deze paragraaf gaat verzorgen. Aan deze aanwijzing worden in elk geval voorschriften verbonden die ertoe leiden dat de kwaliteit en de continuïteit van de opleidingen gewaarborgd blijven.
 
-#### Artikel 5.5. Voorwaarden voor het uitoefenen van de taken, bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-09-01&g=2025-09-01)
+##### Artikel 5.5. Voorwaarden voor het uitoefenen van de taken, bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-09-01&g=2025-09-01)
 
 Het bevoegd gezag kan alleen een persoon als bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-09-01&g=2025-09-01), bevoegd verklaren voor het uitoefenen van een of meer van de in dat artikel bedoelde taken nadat deze persoon de voor hem vastgestelde delen van de opleiding, bedoeld in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.6&z=2025-09-01&g=2025-09-01), met goed gevolg heeft afgerond en zolang deze persoon blijkt geeft over voldoende kennis en vakbekwaamheid te beschikken om de betreffende functie te kunnen blijven uitoefenen.
 
-#### Artikel 5.6. De opleiding van personen, bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-09-01&g=2025-09-01)
+##### Artikel 5.6. De opleiding van personen, bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-09-01&g=2025-09-01)
 
 1. De opleiding voor personen, bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2025-09-01&g=2025-09-01), omvat de door degenen die als bevoegd gezag zijn aangewezen gezamenlijk ontwikkelde nautische leerlijnen die dienen ter verdere professionalisering van de in artikel 5.1, onderdeel b, bedoelde personen.
 
@@ -350,7 +376,7 @@ Het bevoegd gezag kan alleen een persoon als bedoeld in [artikel 5.1, onderdeel 
 
 #### Paragraaf 2. De bevoegdheid tot het geven van verkeersinformatie en verkeersaanwijzingen in andere gevallen
 
-#### Artikel 5.7. Bevoegdheid van politie-ambtenaren
+##### Artikel 5.7. Bevoegdheid van politie-ambtenaren
 
 1. Op scheepvaartwegen waarop het Binnenvaartpolitiereglement, het Scheepvaartreglement Eemsmonding, het Scheepvaartreglement Gemeenschappelijke Maas, het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen, het Scheepvaartreglement Westerschelde 1990, het Scheepvaartreglement territoriale zee of het Rijnvaartpolitiereglement 1995 van toepassing is, zijn bevoegd tot het geven van verkeersaanwijzingen anders dan vanaf een centrale of post in een verkeersbegeleidend systeem, de ambtenaar van politie, aangesteld voor de uitvoering van de politietaak:
 
@@ -372,13 +398,13 @@ Het bevoegd gezag kan alleen een persoon als bedoeld in [artikel 5.1, onderdeel 
 
 2. De Minister kan in overeenstemming met Onze Minister van Veiligheid en Justitie, voor de toepassing van het eerste lid een ander bewijs van bekwaamheid met het vaarbekwaamheidsbewijs politie gelijkstellen.
 
-#### Artikel 5.8. Bevoegdheid van de directeur Kustwacht en noordzeeloods
+##### Artikel 5.8. Bevoegdheid van de directeur Kustwacht en noordzeeloods
 
 1. De directeur Kustwacht is bevoegd tot het geven van verkeersinformatie en verkeersaanwijzingen in de Nederlandse territoriale zee, behoudens de in het Scheepvaartreglement territoriale zee genoemde aanloopgebieden.
 
 2. Na een daartoe strekkende opdracht van de directeur Kustwacht, is de noordzeeloods die in het bezit is van het certificaat VTS-supplement for certified northsea pilots, bevoegd tot het geven van verkeersinformatie en verkeersaanwijzingen in de Nederlandse territoriale zee, behoudens de in het Scheepvaartreglement territoriale zee genoemde aanloopgebieden.
 
-#### Artikel 5.9. Bevoegdheid van registerloodsen
+##### Artikel 5.9. Bevoegdheid van registerloodsen
 
 Een registerloods is bevoegd tot het geven van verkeersinformatie:
 
@@ -388,13 +414,13 @@ Een registerloods is bevoegd tot het geven van verkeersinformatie:
 
 #### Paragraaf 3. Overige bepalingen
 
-#### Artikel 5.10. Verkeersinformatie op de Eems
+##### Artikel 5.10. Verkeersinformatie op de Eems
 
 Dit hoofdstuk is niet van toepassing indien verkeersinformatie wordt gegeven krachtens de op 9 december 1980 te Bonn tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de gemeenschappelijke informatie en begeleiding van de scheepvaart in de Eemsmonding door middel van walradar- en hoogfrequentie-radio-installaties, met bijlagen (Trb. 1981, 2).
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 6.1. Overgangsbepaling in verband met behoud van verkregen bevoegdheden
+##### Artikel 6.1. Overgangsbepaling in verband met behoud van verkregen bevoegdheden
 
 1. De op grond van het [Besluit adspirant-registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004391) met goed gevolg afgelegde examens worden gelijkgesteld met de in de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-09-01&g=2025-09-01) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2025-09-01&g=2025-09-01) bedoelde opleiding tot registerloods.
 
@@ -408,19 +434,19 @@ Dit hoofdstuk is niet van toepassing indien verkeersinformatie wordt gegeven kra
 
 6. De op grond van [artikel 4 van het Besluit verkeersinformatie en verkeersaanwijzingen Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0014384&artikel=4) en de daarop berustende bepalingen met goed gevolg afgelegde opleidingen of modules worden gelijkgesteld met de in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5&paragraaf=1&artikel=5.6&z=2025-09-01&g=2025-09-01), bedoelde nautische leerlijnen.
 
-#### Artikel 6.2. Wijziging [Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512)
+##### Artikel 6.2. Wijziging [Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512)
 
 Wijzigt het Loodsplichtbesluit 1995.
 
-#### Artikel 6.3. Wijziging [Besluit verklaringhouders Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007513)
+##### Artikel 6.3. Wijziging [Besluit verklaringhouders Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007513)
 
 Wijzigt het Besluit verklaringhouders Scheepvaartverkeerswet.
 
-#### Artikel 6.4. Strafbepaling
+##### Artikel 6.4. Strafbepaling
 
 Overtreding van de bij of krachtens de [artikelen 2.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2025-09-01&g=2025-09-01), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2025-09-01&g=2025-09-01), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2025-09-01&g=2025-09-01) en [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2025-09-01&g=2025-09-01) gestelde voorschriften is een strafbaar feit.
 
-#### Artikel 6.5. Intrekken van besluiten op basis van de [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365) en [Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364)
+##### Artikel 6.5. Intrekken van besluiten op basis van de [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365) en [Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364)
 
 De volgende besluiten worden ingetrokken:
 
@@ -436,7 +462,7 @@ De volgende besluiten worden ingetrokken:
 
 - f. het [Besluit verkeersinformatie en verkeersaanwijzingen scheepvaartverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0014384).
 
-#### Artikel 6.6. Intrekken besluiten voor de handelsvaart en zeevisvaartbemanning
+##### Artikel 6.6. Intrekken besluiten voor de handelsvaart en zeevisvaartbemanning
 
 De volgende besluiten worden ingetrokken:
 
@@ -456,7 +482,7 @@ De volgende besluiten worden ingetrokken:
 
 - h. het [Examenreglement zeevisvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0003996).
 
-#### Artikel 6.7. Inwerkingtreding en overgangsrecht
+##### Artikel 6.7. Inwerkingtreding en overgangsrecht
 
 1. [Artikel IX van de Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s](https://wetten.overheid.nl/jci1.3:c:BWBR0032046&artikel=IX) (wijziging van de Loodsenwet) en dit besluit treden in werking met ingang van 1 januari 2014.
 
@@ -470,13 +496,13 @@ De volgende besluiten worden ingetrokken:
 
 6. In afwijking van het eerste lid en van [artikel 6.5, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=6&artikel=6.5&z=2025-09-01&g=2025-09-01), blijft het [Besluit verkeersinformatie en verkeersaanwijzingen Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0014384) en de daarop berustende bepalingen, zoals deze luidden op 31 december 2013 tot 1 januari 2015 van toepassing op de opleiding en examinering van personen wiens opleiding voor 1 januari 2014 is gestart.
 
-#### Artikel 6.8. Citeertitel
+##### Artikel 6.8. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1.5. Grondslag
+##### Artikel 1.5. Grondslag
 
 Dit besluit berust mede op [artikel 2, zesde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=2) en [artikel 31, vierde lid, van de Wet bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&artikel=31).
 
@@ -504,7 +530,7 @@ Dit besluit berust mede op [artikel 2, zesde lid, van de Loodsenwet](https://wet
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 3.2a
+##### Artikel 3.2a
 
 Voor een uitgetreden registerloods geldt in afwijking van het in [artikel 3.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-09-01&g=2025-09-01), genoemde het vereiste om in het bezit te zijn van een geldig bekwaamheidsbewijs basisveiligheid, als bedoeld in [artikel 3.5.1, eerste lid, van het Besluit bemanning zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050941&artikel=3.5.1).
 

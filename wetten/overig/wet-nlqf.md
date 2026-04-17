@@ -1,14 +1,41 @@
 ---
-title: "Wet NLQF"
+title: "Wet van 26 juni 2024 tot vaststelling van regels voor het Nederlands kwalificatieraamwerk voor een leven lang leren (Wet NLQF)"
 identifier: "BWBR0050058"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050058"
+country: "nl"
+rank: "wet"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050058"
+soort: "wet"
+stam_id: "17188193"
+version_id: "30259372"
+internal_id: "C43570831"
+label_id: "17096344"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050058/2025-01-01/0"
+intitule_bron: "Stb.2024-223"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-26"
+intitule_published: "2024-07-24"
+intitule_in_force: "2024-10-28"
+intitule_status: "goed"
+original_publication: "Stb.2024-223"
+original_signed_date: "2024-06-26"
+original_published_date: "2024-07-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "36341"
+original_url_id: "stb-2024-223"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050058&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050058&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet NLQF"
+signed_date: "2024-06-26"
+entry_into_force: "2025-01-01"
 ---
-
-# Wet NLQF
+# Wet van 26 juni 2024 tot vaststelling van regels voor het Nederlands kwalificatieraamwerk voor een leven lang leren (Wet NLQF)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -56,17 +83,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **waardedocument:** diploma, diplomasupplement, getuigschrift, certificaat of ander document waarin wordt vermeld dat een opleiding met succes is afgerond.
 
-#### Artikel 1.2. Reikwijdte
+##### Artikel 1.2. Reikwijdte
 
 Deze wet is mede van toepassing op de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 1.3. NLQF
+##### Artikel 1.3. NLQF
 
 1. Het NLQF is een samenhangend geheel van kwalificatieniveaus die corresponderen met die van het EQF.
 
 2. Bij of krachtens algemene maatregel van bestuur worden de NLQF-niveaus en hun relatie met de EQF-niveaus vastgesteld.
 
-#### Artikel 1.4. Nationaal coördinatiepunt NLQF
+##### Artikel 1.4. Nationaal coördinatiepunt NLQF
 
 1. Bij algemene maatregel van bestuur wordt een rechtspersoon aangewezen als Nationaal coördinatiepunt NLQF.
 
@@ -90,11 +117,11 @@ Deze wet is mede van toepassing op de openbare lichamen Bonaire, Sint Eustatius 
 
 ### Hoofdstuk 2. NLQF-en EQF-niveaus formele opleidingen
 
-#### Artikel 2.1. Vaststelling NLQF-niveaus formele opleidingen
+##### Artikel 2.1. Vaststelling NLQF-niveaus formele opleidingen
 
 Bij ministeriële regeling worden voor bij die regeling te bepalen formele opleidingen, de NLQF-niveaus vastgesteld.
 
-#### Artikel 2.2. Vermelding niveau op waardedocumenten formele opleidingen
+##### Artikel 2.2. Vermelding niveau op waardedocumenten formele opleidingen
 
 1. Indien voor een formele opleiding op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050058&hoofdstuk=2&artikel=2.1&z=2025-01-01&g=2025-01-01) een NLQF-niveau is vastgesteld, wordt op een waardedocument dat door een onderwijsinstelling voor die formele opleiding wordt afgegeven, het NLQF-niveau en het daarmee corresponderende EQF-niveau vermeld.
 
@@ -104,7 +131,7 @@ Bij ministeriële regeling worden voor bij die regeling te bepalen formele oplei
 
 ### Hoofdstuk 3. NLQF-en EQF-niveaus non-formele opleidingen
 
-#### Artikel 3.1. Inschalen non-formele opleidingen
+##### Artikel 3.1. Inschalen non-formele opleidingen
 
 1. De natuurlijke persoon of rechtspersoon die een non-formele opleiding verzorgt, kan bij het Nationaal coördinatiepunt NLQF een aanvraag indienen om het NLQF-niveau vast te stellen van die non-formele opleiding.
 
@@ -116,23 +143,23 @@ Bij ministeriële regeling worden voor bij die regeling te bepalen formele oplei
 
 - b. het register.
 
-#### Artikel 3.2. Leges inschalen non-formele opleidingen
+##### Artikel 3.2. Leges inschalen non-formele opleidingen
 
 1. Het Nationaal coördinatiepunt NLQF heft voor het vaststellen van een NLQF-niveau van een non-formele opleiding leges bij de natuurlijke persoon of rechtspersoon die de betreffende non-formele opleiding verzorgt.
 
 2. De hoogte van de leges wordt vastgesteld bij ministeriële regeling.
 
-#### Artikel 3.3. Vermelding op waardedocumenten non-formele opleidingen
+##### Artikel 3.3. Vermelding op waardedocumenten non-formele opleidingen
 
 Indien voor een non-formele opleiding het NLQF-niveau is vastgesteld door het Nationaal coördinatiepunt NLQF kan dit niveau of het daarmee correspondeerde EQF-niveau worden vermeld op het waardedocument dat wordt afgegeven voor die non-formele opleiding.
 
 ### Hoofdstuk 4. Sanctiebepalingen
 
-#### Artikel 4.1. Verbod niet-gerechtigde aanduiding NLQF-niveau
+##### Artikel 4.1. Verbod niet-gerechtigde aanduiding NLQF-niveau
 
 Het is verboden op een waardedocument of op een ander document met gegevens over een opleiding een NLQF-niveau te vermelden of een waardedocument of ander document met NLQF-niveau in het vooruitzicht te stellen, tenzij het NLQF-niveau voor de betreffende opleiding is vastgesteld op grond van de voorschriften bij of krachtens deze wet.
 
-#### Artikel 4.2. Verbod niet-gerechtigde aanduiding EQF-niveau
+##### Artikel 4.2. Verbod niet-gerechtigde aanduiding EQF-niveau
 
 1. Het is verboden op een waardedocument of op een ander document met gegevens over een opleiding een EQF-niveau te vermelden of een waardedocument of ander document met EQF-niveau in het vooruitzicht te stellen, tenzij:
 
@@ -142,13 +169,13 @@ Het is verboden op een waardedocument of op een ander document met gegevens over
 
 2. De bewijslast dat aan de voorwaarden van het eerste lid, onderdeel b, is voldaan, rust op degene die een EQF-niveau vermeldt of in het vooruitzicht stelt.
 
-#### Artikel 4.3. Bestuurlijke boete
+##### Artikel 4.3. Bestuurlijke boete
 
 Onze Minister kan een bestuurlijke boete opleggen aan de natuurlijke persoon of rechtspersoon die in strijd met [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050058&hoofdstuk=4&artikel=4.1&z=2025-01-01&g=2025-01-01) of [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050058&hoofdstuk=4&artikel=4.2&z=2025-01-01&g=2025-01-01) handelt. Deze boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), respectievelijk [artikel 27, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27) of, indien dat passender is, ten hoogste 10% van de omzet van de onderneming, onderscheidenlijk, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking waarin de bestuurlijke boete wordt opgelegd.
 
 ### Hoofdstuk 5. Toezicht op het Nationaal coördinatiepunt NLQF
 
-#### Artikel 5.1. Toezicht op het Nationaal coördinatiepunt NLQF
+##### Artikel 5.1. Toezicht op het Nationaal coördinatiepunt NLQF
 
 1. Onze Minister kan bij besluit personen aanwijzen die belast worden met het toezicht op de naleving van de bij of krachtens deze wet aan het Nationaal coördinatiepunt NLQF opgelegde verplichtingen.
 
@@ -158,37 +185,37 @@ Onze Minister kan een bestuurlijke boete opleggen aan de natuurlijke persoon of 
 
 ### Hoofdstuk 6. Wijziging andere wetten
 
-#### Artikel 6.1. Wijziging [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625)
+##### Artikel 6.1. Wijziging [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625)
 
 Wijzigt de Wet educatie en beroepsonderwijs.
 
-#### Artikel 6.2. Wijziging [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395)
+##### Artikel 6.2. Wijziging [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395)
 
 Wijzigt de Wet educatie en beroepsonderwijs BES.
 
-#### Artikel 6.3. Wijziging [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549)
+##### Artikel 6.3. Wijziging [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549)
 
 Wijzigt de Wet op de expertisecentra.
 
-#### Artikel 6.4. Wijziging [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
+##### Artikel 6.4. Wijziging [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-#### Artikel 6.5. Wijziging [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800)
+##### Artikel 6.5. Wijziging [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800)
 
 Wijzigt de Wet op het onderwijstoezicht.
 
-#### Artikel 6.6. Wijziging [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212)
+##### Artikel 6.6. Wijziging [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212)
 
 Wijzigt de Wet voortgezet onderwijs 2020.
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
-#### Artikel 7.1. Evaluatie
+##### Artikel 7.1. Evaluatie
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 7.2. Overgangsbepalingen
+##### Artikel 7.2. Overgangsbepalingen
 
 1. De NLQF-niveaus die voor de inwerkingtreding van deze wet zijn vermeld op waardedocumenten van formele opleidingen, worden geacht te zijn vastgesteld op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050058&hoofdstuk=2&artikel=2.1&z=2025-01-01&g=2025-01-01).
 
@@ -196,15 +223,15 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld in verband met de gelijkgestelde vaststelling bedoeld in het tweede lid.
 
-#### Artikel 7.3. Samenloop Wet taal en toegankelijkheid
+##### Artikel 7.3. Samenloop Wet taal en toegankelijkheid
 
 Wijzigt deze wet.
 
-#### Artikel 7.4. Inwerkingtreding
+##### Artikel 7.4. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 7.5. Citeertitel
+##### Artikel 7.5. Citeertitel
 
 Deze wet wordt aangehaald als: Wet NLQF.
 

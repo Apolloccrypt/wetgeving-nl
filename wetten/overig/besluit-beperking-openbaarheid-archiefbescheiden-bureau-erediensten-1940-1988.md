@@ -1,28 +1,54 @@
 ---
-title: "Besluit beperking openbaarheid archiefbescheiden Bureau Erediensten 1940-1988"
+title: "Besluit van de Minister van Financiën van 30 juli 2007, nr. BenC 2007-1189 M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het Bureau Erediensten over de periode 1940-1988"
 identifier: "BWBR0022471"
-categorie: "Overig"
-publicatiedatum: 2007-09-06
-laatste_update: 2007-09-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022471"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-09-06"
+last_updated: "2007-09-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022471"
+soort: "ministeriele-regeling"
+stam_id: "9198513"
+version_id: "14744842"
+internal_id: "C20059251"
+label_id: "9177194"
+dtd_version: "2.0"
+original_entry_into_force: "2007-09-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022471/2007-09-06/0"
+intitule_bron: "Stcrt.2007-170"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-07-30"
+intitule_published: "2007-09-04"
+intitule_in_force: "2007-09-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-170"
+original_signed_date: "2007-07-30"
+original_published_date: "2007-09-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-170-p9-SC82014"
+entry_into_force_date: "2007-09-06"
+jci_1_3: "jci1.3:c:BWBR0022471&z=2007-09-06&g=2007-09-06"
+jci_1_0: "1.0:c:BWBR0022471&g=2007-09-06"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archiefbescheiden Bureau Erediensten 1940-1988"
+signed_date: "2007-07-30"
+entry_into_force: "2007-09-06"
 ---
-
 # Besluit van de Minister van Financiën van 30 juli 2007, nr. BenC 2007-1189 M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het Bureau Erediensten over de periode 1940-1988
 
 Gelet op [artikel 15, eerste lid, onder a en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden worden aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van het Bureau Erediensten 1940-1988 met de inventarisnummers zoals opgenomen in de Bijlage, de in het volgende lid genoemde beperkingen gesteld voor een termijn van vijftig jaren gerekend vanaf de datum vermeld op archiefbescheiden, echter minimaal durende tot 2015 en maximaal durende tot 2036.
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging van de in het vorige lid genoemde bescheiden is slechts mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruikt gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt gepubliceerd.
 

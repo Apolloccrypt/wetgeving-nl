@@ -1,13 +1,35 @@
 ---
 title: "Uitvoeringsprotocol tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Russische Federatie inzake de uitvoering van de Overnameovereenkomst tussen de Russische Federatie en de Europese Gemeenschap van 25 mei 2006"
 identifier: "BWBV0005244"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-11-01
-laatste_update: 2011-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005244"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-11-01"
+last_updated: "2011-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005244"
+soort: "verdrag"
+stam_id: "10004531663"
+version_id: "10004749512"
+internal_id: "C10007422321"
+label_id: "10004516244"
+dtd_version: "2.0"
+original_entry_into_force: "2011-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005244/2011-11-01/0"
+intitule_bron: "Trb.2011-76"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-04-28"
+intitule_in_force: "2011-10-27"
+intitule_status: "goed"
+original_publication: "Trb.2011-76"
+original_published_date: "2011-04-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-76"
+entry_into_force_date: "2011-11-01"
+jci_1_3: "jci1.3:c:BWBV0005244&z=2011-11-01&g=2011-11-01"
+jci_1_0: "1.0:c:BWBV0005244&g=2011-11-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-11-01"
 ---
-
 # Uitvoeringsprotocol tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Russische Federatie inzake de uitvoering van de Overnameovereenkomst tussen de Russische Federatie en de Europese Gemeenschap van 25 mei 2006
 
 De Regering van het Koninkrijk der Nederlanden
@@ -22,7 +44,7 @@ de wens de noodzakelijke voorwaarden vast te leggen voor de uitvoering van de Ov
 
 zijn het volgende overeengekomen:
 
-#### Artikel 1. Bevoegde autoriteiten
+##### Artikel 1. Bevoegde autoriteiten
 
 1. De bevoegde autoriteiten die verantwoordelijk zijn voor de uitvoering van de bepalingen van de Overeenkomst zijn:
 
@@ -42,17 +64,17 @@ bevoegde autoriteiten – Ministerie van Binnenlandse Zaken en Koninkrijksrelati
 
 3. Voor de uitvoering van dit Uitvoeringsprotocol delen de centrale bevoegde autoriteiten elkaar onverwijld, binnen dertig (30) kalenderdagen na de inwerkingtreding van dit Uitvoeringsprotocol, hun contactgegevens schriftelijk mede.
 
-#### Artikel 2. Indiening en beantwoording van het overnameverzoek
+##### Artikel 2. Indiening en beantwoording van het overnameverzoek
 
 1. Het overnameverzoek, opgesteld in overeenstemming met artikel 7 van de Overeenkomst, wordt per post of koerier door de centrale bevoegde autoriteit van de verzoekende Partij ingediend bij de centrale bevoegde autoriteit van de aangezochte Partij.
 
 2. Het antwoord op het overnameverzoek wordt per post of koerier en in de regel eveneens met behulp van de technische middelen voor teksttransmissie binnen de in artikel 11, tweede lid, van de Overeenkomst bedoelde termijnen door de centrale bevoegde autoriteit van de aangezochte Partij gezonden naar de centrale bevoegde autoriteit van de verzoekende Partij.
 
-#### Artikel 3. Andere documenten
+##### Artikel 3. Andere documenten
 
 Indien de verzoekende Partij van oordeel is dat andere, niet in de bijlagen 2 tot en met 5 bij de Overeenkomst genoemde documenten noodzakelijk kunnen zijn om de nationaliteit van de over te nemen persoon dan wel de gronden voor overname van onderdanen van derde landen en staatloze personen vast te stellen, kunnen dergelijke documenten worden gevoegd bij het bij de aangezochte Partij ingediende overnameverzoek.
 
-#### Artikel 4. Interview
+##### Artikel 4. Interview
 
 1. Indien de verzoekende Partij geen van de in de bijlagen 2 en 3 bij de Overeenkomst genoemde documenten kan overleggen, wordt de over te nemen persoon op het onder punt „D” van het overnameverzoek aangegeven verzoek van de verzoekende Partij door de aangezochte Partij geïnterviewd.
 
@@ -66,13 +88,13 @@ Indien de verzoekende Partij van oordeel is dat andere, niet in de bijlagen 2 to
 
 6. Indien het bewijs van de nationaliteit van de Staat van de aangezochte Partij van de over te nemen persoon niet werd geleverd met de resultaten van het interview of indien een over te nemen persoon niet is voorgedragen voor het interview, wordt het in lid 1 van dit artikel omschreven overnameverzoek tegelijk met de kennisgeving van het resultaat van het interview zonder verdere overwegingen onder vermelding van de gronden teruggezonden naar de centrale bevoegde autoriteit van de verzoekende Partij.
 
-#### Artikel 5. Indiening en beantwoording van het doorgeleidingsverzoek
+##### Artikel 5. Indiening en beantwoording van het doorgeleidingsverzoek
 
 1. Het doorgeleidingsverzoek, opgesteld in overeenstemming met artikel 15 van de Overeenkomst, wordt per post of koerier door de centrale bevoegde autoriteit van de verzoekende Partij ingediend bij de centrale bevoegde autoriteit van de aangezochte Partij.
 
 2. Het antwoord op het doorgeleidingsverzoek wordt per post en in de regel eveneens met behulp van de technische middelen voor teksttransmissie zo spoedig mogelijk maar uiterlijk vijf (5) werkdagen na ontvangst van het doorgeleidingsverzoek door de centrale bevoegde autoriteit van de aangezochte Partij gezonden naar de centrale bevoegde autoriteit van de verzoekende Partij.
 
-#### Artikel 6. Overname- en doorgeleidingsprocedure
+##### Artikel 6. Overname- en doorgeleidingsprocedure
 
 1. Voor de overname en doorgeleiding wijzen de Partijen de volgende grensdoorlaatposten aan:
 
@@ -90,7 +112,7 @@ Indien de centrale bevoegde autoriteit van de aangezochte Partij niet kan instem
 
 4. De bevoegde autoriteiten van de Partijen komen per individueel geval de wijze van organiseren van de doorgeleiding overeen.
 
-#### Artikel 7. Begeleiding van over te nemen of over te dragen personen
+##### Artikel 7. Begeleiding van over te nemen of over te dragen personen
 
 1. Indien voor de overdracht van de persoon begeleiding nodig is, vermeldt de verzoekende Partij onder punt „D” van het overnameverzoek alsmede onder punt „D” van het doorgeleidingsverzoek overeenkomstig de bijlagen 1 en 6 bij de Overeenkomst de voornaam, familienaam, rang, functie, ondergeschiktheid van de begeleiders, het type, nummer en de datum van afgifte van hun paspoort en een beschrijving van hun reisvergunning.
 
@@ -104,11 +126,11 @@ Indien de centrale bevoegde autoriteit van de aangezochte Partij niet kan instem
 
 6. De bevoegde autoriteiten van de Partijen werken met elkaar samen wat alle problemen betreft die in verband met het verblijf van de begeleiders op het grondgebied van de Staat van de aangezochte Partij rijzen. De bevoegde autoriteiten van de aangezochte Partij verlenen de begeleiders, zo nodig, eventueel bijstand.
 
-#### Artikel 8. Kosten
+##### Artikel 8. Kosten
 
 Door de aangezochte Partij gemaakte kosten in verband met de overname of doorgeleiding welke op grond van artikel 16 van de Overeenkomst ten laste van de verzoekende Partij komen, worden binnen zestig (60) werkdagen na overlegging van de desbetreffende documenten door de verzoekende Partij in euro vergoed.
 
-#### Artikel 9. Taal
+##### Artikel 9. Taal
 
 1. Voor de uitvoering van de bepalingen van dit Uitvoeringsprotocol worden de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005244&artikel=3&z=2011-11-01&g=2011-11-01) van dit Uitvoeringsprotocol en de afdelingen III en IV van de Overeenkomst genoemde documenten als volgt opgesteld:
 
@@ -118,11 +140,11 @@ aan Nederlandse zijde – in de Nederlandse of de Engelse taal met, als bijlage,
 
 2. Overleg tussen de bevoegde autoriteiten over de uitvoering van dit Uitvoeringsprotocol vindt in de Engelse taal plaats, tenzij de Partijen van geval tot geval anders overeenkomen.
 
-#### Artikel 10. Wijziging
+##### Artikel 10. Wijziging
 
 Dit Uitvoeringsprotocol kan met wederzijdse instemming van de Partijen worden gewijzigd.
 
-#### Artikel 11. Inwerkingtreding en opzegging
+##### Artikel 11. Inwerkingtreding en opzegging
 
 1. De Partijen stellen elkaar langs diplomatieke weg schriftelijk in kennis van de voltooiing van hun respectieve interne procedures vereist voor de inwerkingtreding van dit Uitvoeringsprotocol.
 

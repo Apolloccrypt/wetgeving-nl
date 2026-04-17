@@ -1,36 +1,62 @@
 ---
-title: "Vervangingsbesluit personele archiefbescheiden VenJ BD"
+title: "Besluit van de Minister van Veiligheid en Justitie van 5 april 2017, kenmerk DP&O/17/2063854 houdende de digitale vervanging van de personele archiefbescheiden van medewerkers van het bestuursdepartement van het Ministerie van Veiligheid en Justitie (Vervangingsbesluit personele archiefbescheiden VenJ BD)"
 identifier: "BWBR0039468"
-categorie: "Overig"
-publicatiedatum: 2017-04-14
-laatste_update: 2017-04-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039468"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-04-14"
+last_updated: "2017-04-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039468"
+soort: "ministeriele-regeling"
+stam_id: "13982143"
+version_id: "24057332"
+internal_id: "C34567041"
+label_id: "13944614"
+dtd_version: "2.0"
+original_entry_into_force: "2017-04-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039468/2017-04-14/0"
+intitule_bron: "Stcrt.2017-20610"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-04-05"
+intitule_published: "2017-04-13"
+intitule_in_force: "2017-04-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-20610"
+original_signed_date: "2017-04-05"
+original_published_date: "2017-04-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-20610"
+entry_into_force_date: "2017-04-14"
+jci_1_3: "jci1.3:c:BWBR0039468&z=2017-04-14&g=2017-04-14"
+jci_1_0: "1.0:c:BWBR0039468&g=2017-04-14"
+citeertitel_status: "officieel"
+short_title: "Vervangingsbesluit personele archiefbescheiden VenJ BD"
+signed_date: "2017-04-05"
+entry_into_force: "2017-04-14"
 ---
-
 # Besluit van de Minister van Veiligheid en Justitie van 5 april 2017, kenmerk DP&O/17/2063854 houdende de digitale vervanging van de personele archiefbescheiden van medewerkers van het bestuursdepartement van het Ministerie van Veiligheid en Justitie (Vervangingsbesluit personele archiefbescheiden VenJ BD)
 
 Gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7), [artikel 6, eerste lid, van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6), [artikel 26b van de Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b) en [artikel 3, eerste lid van de Regeling digitale vervanging personeelsdossiers Ministerie van Justitie 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027775&artikel=3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Dit besluit heeft betrekking op schriftelijke archiefbescheiden die behoren of zullen gaan behoren tot het personeelsdossier van personeelsleden van het Bestuursdepartement als bedoeld in [artikel 1 onder e van het Organisatiebesluit Ministerie van Veiligheid en Justitie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036820&artikel=1). Deze vervanging betreft alle schriftelijke archiefbescheiden die betrekking hebben op personeelsinformatie en salarisgegevens zoals beschreven in het Basisselectiedocument P-dossier is Mens-en-werk. Deze archiefbescheiden worden vervangen door digitale reproducties.
 
-#### Artikel 2
+##### Artikel 2
 
 De digitale vervanging geschiedt overeenkomstig de specificaties en instellingen genoemd in de bijlage bij dit besluit en op de wijze zoals beschreven in het Handboek Digitale Vervanging Personeelsdossiers.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 De digitale reproductie wordt uitgevoerd door P-Direkt van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als Vervangingsbesluit personele archiefbescheiden VenJ BD.
 

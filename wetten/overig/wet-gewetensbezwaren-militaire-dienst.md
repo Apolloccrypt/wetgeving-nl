@@ -1,14 +1,37 @@
 ---
-title: "Wet gewetensbezwaren militaire dienst"
+title: "Wet van 27 september 1962, houdende regeling inzake vrijstelling van de militaire dienst wegens ernstige gewetensbezwaren"
 identifier: "BWBR0002386"
-categorie: "Overig"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002386"
+country: "nl"
+rank: "wet"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002386"
+soort: "wet"
+stam_id: "354763"
+version_id: "523912"
+internal_id: "C523911"
+label_id: "347444"
+dtd_version: "2.0"
+original_entry_into_force: "1964-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002386/2020-01-01/0"
+intitule_bron: "Stb.1962-370"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1962-09-27"
+intitule_status: "goed"
+original_publication: "Stb.1962-370"
+original_signed_date: "1962-09-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "5394"
+entry_into_force_date: "1964-12-01"
+jci_1_3: "jci1.3:c:BWBR0002386&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0002386&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet gewetensbezwaren militaire dienst"
+signed_date: "1962-09-27"
+entry_into_force: "1964-12-01"
 ---
-
-# Wet gewetensbezwaren militaire dienst
+# Wet van 27 september 1962, houdende regeling inzake vrijstelling van de militaire dienst wegens ernstige gewetensbezwaren
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +41,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,55 +61,55 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Waar in deze wet en de daarop berustende bepalingen wordt gesproken van het oproepen voor de vervangende dienst wordt daaronder ten aanzien van hen die reeds de vervangende dienst vervullen verstaan het blijven vervullen van de vervangende dienst.
 
-#### Artikel 2
+##### Artikel 2
 
 Ernstige gewetensbezwaren in de zin van deze wet zijn de onoverkomelijke gewetensbezwaren tegen de persoonlijke vervulling van militaire dienst in verband met het gebruik van middelen van geweld waarbij men door dienstvervulling in de Nederlandse krijgsmacht kan worden betrokken.
 
 ### Hoofdstuk II. Erkenning van bezwaren als ernstige gewetensbezwaren
 
-#### Artikel 3
+##### Artikel 3
 
 1. Op aanvraag kan Onze Minister van Defensie de bezwaren van een dienstplichtige of een militair als ernstige gewetensbezwaren erkennen. De aanvraag vermeldt mede het registratienummer en is met redenen omkleed.
 
 2. Onze Minister van Defensie doet een onderzoek instellen naar de vraag of de bezwaren zijn aan te merken als ernstige gewetensbezwaren. Onze Minister van Defensie kan het inwinnen van een advies achterwege laten, indien het een hernieuwde aanvraag betreft.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Degene die een aanvraag heeft gedaan als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01), kan door Onze Minister, in afwachting van een beslissing daarop, geheel of gedeeltelijk van dienstverrichtingen worden vrijgesteld.
 
 2. Ingeval tegen degene die een aanvraag heeft gedaan als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01), een strafvervolging is ingesteld wegens overtreding van [artikel 139 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=139), wegens ongehoorzaamheid aan enig dienstbevel of dienstvoorschrift, dan wel wegens overtreding van [artikel 36 van de Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&artikel=36) kan het openbaar ministerie besluiten deze strafvervolging, in afwachting van een beslissing op die aanvraag, te schorsen. Ingeval van een hernieuwde aanvraag wordt geen schorsing verleend, tenzij bijzondere omstandigheden daartoe aanleiding geven.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01), bedoelde onderzoek wordt verricht door een of meer leden van een commissie van advies. De leden van de commissie worden bij koninklijk besluit benoemd en ontslagen.
 
 2. De commissie brengt advies uit, nadat de aanvrager in de gelegenheid is gesteld ter zitting te worden gehoord.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien Onze Minister van Defensie van oordeel is, dat de bezwaren zijn aan te merken als ernstige gewetensbezwaren, zal hij die bezwaren als zodanig erkennen.
 
 2. Indien aanvrager zonder gegronde redenen niet voor het onderzoek ter zitting voor de commissie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=5&z=2020-01-01&g=2020-01-01), is verschenen, wordt de aanvraag in ieder geval afgewezen.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Indien de aanvrager bezwaar maakt tegen een besluit tot afwijzing van de aanvraag om erkenning, beslist Onze Minister van Defensie op dat bezwaar na advies van de commissie, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=5&z=2020-01-01&g=2020-01-01). De commissie adviseert nadat zij met ten minste drie leden een onderzoek heeft ingesteld.
 
 2. In de gevallen genoemd in [artikel 7:3, onder a tot en met e, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:3) wint Onze Minister van Defensie geen advies als bedoeld in het eerste lid in.
 
-#### Artikel 7b
+##### Artikel 7b
 
 Vervallen
 
-#### Artikel 7c
+##### Artikel 7c
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld ter uitvoering van dit hoofdstuk.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een beschikking op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=4&z=2020-01-01&g=2020-01-01) blijft van kracht totdat de afwijzing van een aanvraag omtrent erkenning als gewetensbezwaarde onherroepelijk is geworden.
 
@@ -94,7 +117,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld ter uitvoe
 
 ### Hoofdstuk III. Gevolgen van de erkenning
 
-#### Artikel 9
+##### Artikel 9
 
 1. De erkende gewetensbezwaarde is onder alle omstandigheden vrijgesteld van de militaire dienst. Evenmin mogen degene werkzaamheden worden opgedragen, welke naar hun aard er slechts op gericht kunnen zijn de krijgsmacht hulp te verlenen.
 
@@ -104,19 +127,19 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld ter uitvoe
 
 4. De erkende gewetensbezwaarde die als dienstplichtige uitsluitend in buitengewone omstandigheden tot het vervullen van werkelijke dienst zou kunnen worden verplicht is alleen verplicht tot het vervullen van vervangende dienst in buitengewone omstandigheden.
 
-#### Artikel 10
+##### Artikel 10
 
 Het recht tot strafvordering terzake van een delict, als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=II&artikel=4&z=2020-01-01&g=2020-01-01), vervalt, zodra de gewetensbezwaren van de verdachte zijn erkend.
 
 ### Hoofdstuk IV. Vervangende dienst
 
-#### Artikel 11
+##### Artikel 11
 
 1. De erkende gewetensbezwaarde wordt op of zo spoedig mogelijk na de datum, waarop deze zijn militaire dienst zou moeten aanvangen of voortzetten, door Onze Minister van Sociale Zaken en Werkgelegenheid voor de vervangende dienst opgeroepen. De erkende gewetensbezwaarde is verplicht aan deze oproeping gevolg te geven.
 
 2. Voor vervangende dienst in gewone omstandigheden worden erkende gewetensbezwaarden ouder dan 35 jaar niet opgeroepen. In geval van buitengewone omstandigheden vindt geen oproeping van erkende gewetensbezwaarden ouder dan 45 jaar plaats.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De duur van de vervangende dienst in gewone omstandigheden is een derde langer dan die van het verplichte verblijf onder de wapenen voor opleiding en oefening van het merendeel van de dienstplichtigen.
 
@@ -130,7 +153,7 @@ Het recht tot strafvordering terzake van een delict, als bedoeld in [artikel 4, 
 
 6. Bij algemene maatregel van bestuur kunnen groepen van personen worden aangewezen die niet of voorlopig niet tot het vervullen van vervangende dienst in buitengewone omstandigheden worden opgeroepen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De vervangende dienst wordt vervuld bij overheidsdiensten, dan wel bij, door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen, voor tewerkstelling van gewetensbezwaarden geschikte instellingen, die in het algemeen belang werkzaam zijn.
 
@@ -138,11 +161,11 @@ Het recht tot strafvordering terzake van een delict, als bedoeld in [artikel 4, 
 
 3. Onze Minister van Sociale Zaken en Werkgelegenheid bepaalt bij welke instantie of in wiens dienst de tewerkstelling plaats vindt.
 
-#### Artikel 14
+##### Artikel 14
 
 De tewerkgestelde is verplicht de opdrachten en voorschriften naar behoren na te leven, die de betrokkene worden gegeven of voor de betrokkene zijn vastgesteld door of vanwege Onze Minister van Sociale Zaken en Werkgelegenheid of degene aan wie bij de instelling of dienst van tewerkstelling de bevoegdheid tot het geven van opdrachten of het vaststellen van voorschriften krachtens bijzondere aanwijzing of ten aanzien van aldaar werkzame werknemers uit hoofde van zijn functie toekomt. De tewerkgestelde is voorts in het algemeen verplicht zich tijdens de vervangende dienst naar behoren te gedragen.
 
-#### Artikel 15
+##### Artikel 15
 
 Onze Minister van Sociale Zaken en Werkgelegenheid verleent in bij algemene maatregel van bestuur nader aangewezen categorieën van gevallen ontheffing van de vervangende dienst in gewone omstandigheden wegens:
 
@@ -156,7 +179,7 @@ Onze Minister van Sociale Zaken en Werkgelegenheid verleent in bij algemene maat
 
 - e. broeder- of zusterdienst.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Een ontheffing kan onder beperkingen worden verleend.
 
@@ -170,45 +193,45 @@ Onze Minister van Sociale Zaken en Werkgelegenheid verleent in bij algemene maat
 
 - c. na de verlening zodanige feiten of omstandigheden bekend zijn geworden dat, indien deze ten tijde van de verlening bekend waren geweest, de ontheffing niet of niet in die vorm zou zijn verleend.
 
-#### Artikel 17
+##### Artikel 17
 
 Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de ontheffing. Een krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=15&z=2020-01-01&g=2020-01-01) of krachtens de eerste volzin vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 21a
+##### Artikel 21a
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 1. Onze Minister van Sociale Zaken en Werkgelegenheid kan de dienstplichtige die als gewetensbezwaarde is erkend, verplichten de vervangende dienst in gewone omstandigheden bij gedeelten in twee of meer niet aansluitende tijdvakken te vervullen.
 
 2. Indien de in het eerste lid bedoelde verplichting wordt opgelegd als gevolg van omstandigheden onafhankelijk van de wil van de tewerkgestelde komt het tijdvak gelegen tussen de gedeelten van de vervangende dienst in mindering op de duur van de vervangende dienst in gewone omstandigheden.
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 De vervangende dienst kan voor de tewerkgestelde, indien deze voor groot verlof in aanmerking komt, worden verlengd:
 
@@ -216,17 +239,17 @@ De vervangende dienst kan voor de tewerkgestelde, indien deze voor groot verlof 
 
 - b. zolang het vertrek met groot verlof gevaar zou opleveren voor de verspreiding van een heersende of geheerst hebbende besmettelijke ziekte.
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het verlenen van groot verlof geschiedt door Onze Minister van Sociale Zaken en Werkgelegenheid.
 
 2. De erkende gewetensbezwaarde met groot verlof is verplicht om aan Onze Minister van Sociale Zaken en Werkgelegenheid aan te wijzen functionarissen inzage te verlenen van de aan de gewetensbezwaarde ter zake van de erkenning uitgereikte bescheiden alsmede om aan Onze Minister van Sociale Zaken en Werkgelegenheid desgevraagd alle gewenste inlichtingen te verschaffen in verband met de betreffende vervangende dienst.
 
-#### Artikel 28
+##### Artikel 28
 
 De uit deze wet voortvloeiende verplichtingen met betrekking tot het vervullen van vervangende dienst zijn niet langer van toepassing indien de betrokkene:
 
@@ -236,7 +259,7 @@ De uit deze wet voortvloeiende verplichtingen met betrekking tot het vervullen v
 
 - c. het Nederlanderschap verliest.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Vervreemding, verpanding of belening van het aan de tewerkgestelde toekomende zakgeld is slechts geldig voor zover beslag op zijn zakgeld geldig zou zijn bij ontbreken van andere inkomsten.
 
@@ -246,11 +269,11 @@ De uit deze wet voortvloeiende verplichtingen met betrekking tot het vervullen v
 
 ### Hoofdstuk V. Tuchtrechtelijke bepalingen
 
-#### Artikel 30
+##### Artikel 30
 
 De tewerkgestelde die zich gedraagt in strijd met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=14&z=2020-01-01&g=2020-01-01) kan deswege disciplinair worden gestraft door een daartoe door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen persoon.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De disciplinaire straffen zijn:
 
@@ -268,7 +291,7 @@ De tewerkgestelde die zich gedraagt in strijd met [artikel 14](https://wetten.ov
 
 5. Geen straf van verlenging kan worden opgelegd indien en voor zover als gevolg daarvan de krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=12&z=2020-01-01&g=2020-01-01) vastgestelde duur van de vervangende dienst in gewone omstandigheden van de tewerkgestelde met meer dan dertig dagen zou worden verlengd.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Geen straf wordt opgelegd of het voorwaardelijke karakter van een opgelegde straf herroepen dan nadat de tewerkgestelde in de gelegenheid is gesteld zich schriftelijk binnen zes maal vierentwintig uur te verantwoorden. Bij de uitnodiging zich te verantwoorden worden afschriften van de op de zaak betrekking hebbende stukken meegezonden, tenzij het belang van geheimhouding van gegevens of het belang van derden zich daartegen verzet.
 
@@ -278,7 +301,7 @@ De tewerkgestelde die zich gedraagt in strijd met [artikel 14](https://wetten.ov
 
 4. De gestrafte ontvangt van de strafoplegging of herroeping onverwijld bericht door toezending of uitreiking van het daartoe strekkende besluit. Daarbij wordt degene medegedeeld binnen welke termijn en bij welke instantie degene beroep kan instellen.
 
-#### Artikel 33
+##### Artikel 33
 
 1. De gestrafte kan binnen vijf dagen na de ontvangst van het in [artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=V&artikel=32&z=2020-01-01&g=2020-01-01), bedoelde bericht beroep instellen bij de rechtbank Den Haag. De straf, behalve die van berisping, wordt niet ten uitvoer gelegd zolang zij niet onherroepelijk is geworden, tenzij bij de strafoplegging onmiddellijke tenuitvoerlegging is bevolen.
 
@@ -288,19 +311,19 @@ De tewerkgestelde die zich gedraagt in strijd met [artikel 14](https://wetten.ov
 
 4. Op de zittende leden van de in het tweede lid bedoelde kamer zijn de [artikelen 512 tot en met 515](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=512) en de [artikelen 517](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=517) en [518 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=518) van overeenkomstige toepassing.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Het beroep wordt ingesteld door indiening van een beroepschrift bij de griffie van de in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=V&artikel=33&z=2020-01-01&g=2020-01-01), genoemde rechtbank.
 
 2. De rechtbank kan bij gemotiveerde beslissing verklaren, dat een na de beroepstermijn ingediend beroepschrift geacht wordt tijdig te zijn ingekomen indien de gestrafte redelijkerwijs niet geacht kan worden in verzuim te zijn geweest.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Het beroep wordt zo spoedig mogelijk behandeld. De voorzitter van de in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=V&artikel=33&z=2020-01-01&g=2020-01-01), bedoelde kamer bepaalt de dag van behandeling.
 
 2. De gestrafte wordt ten minste zes dagen voor de behandeling van het beroep door de griffier opgeroepen. Daarbij wordt de gestrafte opmerkzaam gemaakt op de bevoegdheid zich door een raadsman te doen bijstaan, alsmede op het recht op kennisneming van de processtukken. Indien de gestrafte niet verschijnt en de rechtbank de aanwezigheid van de gestrafte noodzakelijk acht, kan zij de behandeling van het beroep voor bepaalde tijd uitstellen en de oproeping van de gestrafte gelasten. Verschijnt deze ten dienende dage wederom niet, dan kan de rechtbank het beroep vervallen verklaren.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De behandeling van het beroep geschiedt ter openbare terechtzitting. De voorzitter heeft de leiding van de behandeling. Hij kan op verzoek van de gestrafte of om redenen aan de openbare orde ontleend gelasten dat de behandeling achter gesloten deuren plaatsvindt.
 
@@ -310,7 +333,7 @@ De rechtbank kan weigeren personen, die geen advocaat zijn, als raadsman toe te 
 
 3. De rechtbank is bevoegd getuigen en deskundigen schriftelijk te bevragen of op te roepen. Vergoeding van door getuigen en deskundigen gemaakte kosten geschiedt overeenkomstig het bepaalde krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406).
 
-#### Artikel 37
+##### Artikel 37
 
 1. De rechtbank beslist uiterlijk op de veertiende dag na afloop van de behandeling van het beroep in een schriftelijke, met redenen omklede, uitspraak.
 
@@ -322,73 +345,73 @@ De rechtbank kan weigeren personen, die geen advocaat zijn, als raadsman toe te 
 
 5. Tegen de beslissing van de rechtbank staat geen verdere voorziening open.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Het recht van strafvordering vervalt door de toepassing van disciplinaire straf.
 
 2. Boven de door de strafrechter uitgesproken straf zal geen disciplinaire straf worden opgelegd.
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
-#### Artikel 48
+##### Artikel 48
 
 Vervallen
 
-#### Artikel 49
+##### Artikel 49
 
 Vervallen
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
-#### Artikel 51
+##### Artikel 51
 
 Vervallen
 
 ### Hoofdstuk VI. Strafbepalingen
 
-#### Artikel 52
+##### Artikel 52
 
 1. Degene die opzettelijk niet voldoet aan een wettige oproeping tot het vervullen van vervangende dienst, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
 2. Blijkt niet, dat het feit opzettelijk is gepleegd, dan wordt degene gestraft met gevangenisstraf van ten hoogste negen maanden of geldboete van de derde categorie.
 
-#### Artikel 53
+##### Artikel 53
 
 1. De tewerkgestelde, die opzettelijk ongeoorloofd afwezig is, wordt gestraft:
 
@@ -398,21 +421,21 @@ Vervallen
 
 2. Onder afwezig zijn wordt verstaan het afwezig zijn van die plaats of plaatsen waar de tewerkgestelde zich ter vervulling van de op betrokkene rustende dienstverplichtingen behoort te bevinden; onder zich verwijderen wordt mede begrepen het zich schuil houden, afwezig blijven of achterblijven van die plaats of plaatsen.
 
-#### Artikel 54
+##### Artikel 54
 
 De tewerkgestelde die de dienstverplichtingen stelselmatig niet nakomt wordt gestraft met gevangenisstraf van ten hoogste één jaar en negen maanden of geldboete van de vierde categorie.
 
-#### Artikel 55
+##### Artikel 55
 
 1. De duur van een vrijheidsberoving ondergaan wegens overtreding van een van de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52&z=2020-01-01&g=2020-01-01), [52a](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52a&z=2020-01-01&g=2020-01-01), [53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=53&z=2020-01-01&g=2020-01-01), en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=54&z=2020-01-01&g=2020-01-01) komt in mindering op de duur van de vervangende dienst in gewone of buitengewone omstandigheden.
 
 2. In gevallen waarin na toepassing van het eerste lid de tewerkgestelde nog verplicht is tot het vervullen van vervangende dienst gedurende één maand of minder, kan Onze Minister van Sociale Zaken en Werkgelegenheid de tewerkgestelde van deze verplichting ontslaan.
 
-#### Artikel 55a
+##### Artikel 55a
 
 Onze Minister van Sociale Zaken en Werkgelegenheid kan degene, die op grond van [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52&z=2020-01-01&g=2020-01-01), of wegens een misdrijf begaan tijdens de vervangende dienst onherroepelijk is veroordeeld tot een onvoorwaardelijke vrijheidsstraf, ontslaan van de voor die persoon uit deze wet voortvloeiende verplichtingen.
 
-#### Artikel 56
+##### Artikel 56
 
 1. Met betrekking tot de voorlopige hechtenis worden misdrijven, omschreven in deze wet, gelijkgesteld met misdrijven, waarop als maximum een gevangenisstraf van vier jaren of meer is gesteld.
 
@@ -422,25 +445,25 @@ Onze Minister van Sociale Zaken en Werkgelegenheid kan degene, die op grond van 
 
 ### Hoofdstuk VII. Slotbepalingen
 
-#### Artikel 57
+##### Artikel 57
 
 1. De voor de uitvoering van deze wet nodige regelen worden bij of krachtens algemene maatregel van bestuur vastgesteld, tenzij de wet anders bepaalt.
 
 2. Hierbij zal de rechtspositie van de dienstplichtigen die als gewetensbezwaarden zijn erkend zoveel mogelijk op gelijke wijze worden geregeld als die van de dienstplichtige militairen.
 
-#### Artikel 58
+##### Artikel 58
 
 Alle stukken, die in verband met de bepalingen van deze wet of van de te harer uitvoering gegeven voorschriften worden gevorderd, ingediend, overgelegd of uitgereikt, zijn vrij van legesheffing, van kosten van legalisatie en van griffiekosten.
 
-#### Artikel 59
+##### Artikel 59
 
 Vervallen
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
-#### Artikel 60a
+##### Artikel 60a
 
 1. Ten aanzien van erkende gewetensbezwaarden worden de [artikelen 11 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=11&z=2020-01-01&g=2020-01-01) alsmede de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=23&z=2020-01-01&g=2020-01-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=25&z=2020-01-01&g=2020-01-01) bij inwerkingtreding van de [Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589) opgeschort.
 
@@ -448,23 +471,23 @@ Vervallen
 
 3. De in het eerste lid bedoelde opschorting is niet van toepassing bij de oproeping van dienstplichtigen als bedoeld in [artikel 64 van de Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&artikel=64).
 
-#### Artikel 61
+##### Artikel 61
 
 Deze wet kan worden aangehaald als "Wet gewetensbezwaren militaire dienst".
 
-#### Artikel 62
+##### Artikel 62
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 52a
+##### Artikel 52a
 
 1. Met hechtenis van ten hoogste veertien dagen of geldboete van de tweede categorie wordt gestraft degene die niet voldoet aan de ingevolge [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=27&z=2020-01-01&g=2020-01-01), op hem rustende verplichtingen.
 
 2. Met gevangenisstraf van ten hoogste twee maanden of een geldboete van de tweede categorie wordt gestraft degene die opzettelijk niet voldoet aan de ingevolge [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=IV&artikel=27&z=2020-01-01&g=2020-01-01), op hem rustende verplichtingen.
 
-#### Artikel 55b
+##### Artikel 55b
 
 1. De in de [artikelen 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52&z=2020-01-01&g=2020-01-01), [52a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=52a&z=2020-01-01&g=2020-01-01), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=53&z=2020-01-01&g=2020-01-01) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&hoofdstuk=VI&artikel=54&z=2020-01-01&g=2020-01-01), strafbaar gestelde feiten zijn misdrijven.
 

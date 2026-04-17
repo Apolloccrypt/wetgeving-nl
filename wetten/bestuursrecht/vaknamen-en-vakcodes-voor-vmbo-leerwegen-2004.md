@@ -1,13 +1,36 @@
 ---
 title: "Vaknamen en vakcodes voor vmbo leerwegen (2004)"
 identifier: "BWBR0016978"
-categorie: "Bestuursrecht"
-publicatiedatum: 2004-07-28
-laatste_update: 2004-07-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016978"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2004-07-28"
+last_updated: "2004-07-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016978"
+soort: "beleidsregel"
+stam_id: "6496493"
+version_id: "11182682"
+internal_id: "C15109181"
+label_id: "6485064"
+original_entry_into_force: "2004-07-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016978/2004-07-28/0"
+intitule_bron: "Uitleg.2004-13"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-07-04"
+intitule_published: "2004-07-28"
+intitule_in_force: "2004-07-28"
+intitule_status: "goed"
+original_publication: "Uitleg.2004-13"
+original_signed_date: "2004-07-04"
+original_published_date: "2004-07-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2004-07-28"
+jci_1_3: "jci1.3:c:BWBR0016978&z=2004-07-28&g=2004-07-28"
+jci_1_0: "1.0:c:BWBR0016978&g=2004-07-28"
+citeertitel_status: "redactioneel"
+signed_date: "2004-07-04"
+entry_into_force: "2004-07-28"
 ---
-
 # Vaknamen en vakcodes voor vmbo leerwegen (2004)
 
 De eerdere voorlichtingspublicatie Vaknamen en Vakcodes voor vmbo leerwegen komt hiermee te vervallen. Het betreft de publicatie VO/BOB/2002/2936 van 8 mei 2002, Gele Katern nr. 12. Deze publicatie voegt de aanvullende tabel in met vaknamen en vakcodes van de ’combi vakken’ in de sector landbouw, zoals in mei 2003 op de internetsite eindexamen.nl gepubliceerd. Daarbij zijn de vaknamen betreffende de sector landbouw verkort door de aanhef ’Landbouw en natuurlijke omgeving’ in te korten tot LNO, waardoor ze binnen de daarvoor beschikbare lengte in de geautomatiseerde systemen passen. Tevens zijn enkele vakken, die aan een beperkte groep scholen gegeven worden, toegevoegd. Er zijn derhalve geen vaknamen en vakcodes gewijzigd, echter er wordt voorzien in een volledig overzicht.

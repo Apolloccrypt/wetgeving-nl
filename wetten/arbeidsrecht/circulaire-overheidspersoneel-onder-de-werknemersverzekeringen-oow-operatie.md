@@ -1,13 +1,37 @@
 ---
 title: "Circulaire Overheidspersoneel onder de werknemersverzekeringen (OOW-operatie)"
 identifier: "BWBR0008751"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1997-07-04
-laatste_update: 1997-07-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008751"
+country: "nl"
+rank: "circulaire"
+publication_date: "1997-07-04"
+last_updated: "1997-07-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008751"
+soort: "circulaire"
+stam_id: "6337773"
+version_id: "10992342"
+internal_id: "C14884801"
+label_id: "6327114"
+original_entry_into_force: "1997-07-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008751/1997-07-04/0"
+intitule_bron: "Stcrt.1997-125"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-06-19"
+intitule_published: "1997-07-04"
+intitule_in_force: "1997-07-04"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-125"
+original_signed_date: "1997-06-19"
+original_published_date: "1997-07-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1997-125-p10-SC9813"
+entry_into_force_date: "1997-07-04"
+jci_1_3: "jci1.3:c:BWBR0008751&z=1997-07-04&g=1997-07-04"
+jci_1_0: "1.0:c:BWBR0008751&g=1997-07-04"
+citeertitel_status: "redactioneel"
+signed_date: "1997-06-19"
+entry_into_force: "1997-07-04"
 ---
-
 # Circulaire Overheidspersoneel onder de werknemersverzekeringen (OOW-operatie)
 
 «Circulaire aan de Ministers»

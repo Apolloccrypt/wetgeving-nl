@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels betalingsregelingen Rijk 2026"
+title: "Beleidsregels van de Staatssecretaris van Justitie en Veiligheid, de Minister van Infrastructuur en Waterstaat, de voorzitter van het CAK, de voorzitter van de Autoriteit online Terroristisch en Kinderpornografisch Materiaal, het bestuur van de Nederlandse Emissieautoriteit, de secretaris-generaal van het Ministerie van Financiën, de Directeur-Generaal Dienst Uitvoering Onderwijs, de Directeur-Generaal van de Rijksdienst voor Ondernemend Nederland, de waarnemend inspecteur-generaal Inspectie Justitie en Veiligheid, de Inspecteur-Generaal Nederlandse Voedsel- en Warenautoriteit, de Inspecteur-Generaal van de Rijksinspectie Digitale Infrastructuur en de Raad van Bestuur van het Uitvoeringsinstituut Werknemersverzekeringen, van 1 november 2025, nr. 6815099, betreffende betalingsregelingen bij rijksincassovorderingen (Beleidsregels betalingsregelingen Rijk 2026)"
 identifier: "BWBR0052067"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052067"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052067"
+soort: "beleidsregel"
+stam_id: "17702703"
+version_id: "31240212"
+internal_id: "C44678881"
+label_id: "17601804"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052067/2026-01-01/0"
+intitule_bron: "Stcrt.2025-42773"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-01"
+intitule_published: "2025-12-19"
+intitule_in_force: "2025-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-42773"
+original_signed_date: "2025-11-01"
+original_published_date: "2025-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-42773"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052067&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052067&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels betalingsregelingen Rijk 2026"
+signed_date: "2025-11-01"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregels van de Staatssecretaris van Justitie en Veiligheid, de Minister van Infrastructuur en Waterstaat, de voorzitter van het CAK, de voorzitter van de Autoriteit online Terroristisch en Kinderpornografisch Materiaal, het bestuur van de Nederlandse Emissieautoriteit, de secretaris-generaal van het Ministerie van Financiën, de Directeur-Generaal Dienst Uitvoering Onderwijs, de Directeur-Generaal van de Rijksdienst voor Ondernemend Nederland, de waarnemend inspecteur-generaal Inspectie Justitie en Veiligheid, de Inspecteur-Generaal Nederlandse Voedsel- en Warenautoriteit, de Inspecteur-Generaal van de Rijksinspectie Digitale Infrastructuur en de Raad van Bestuur van het Uitvoeringsinstituut Werknemersverzekeringen, van 1 november 2025, nr. 6815099, betreffende betalingsregelingen bij rijksincassovorderingen (Beleidsregels betalingsregelingen Rijk 2026)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -16,7 +42,7 @@ Besluiten:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1:1. Begripsbepalingen
+##### Artikel 1:1. Begripsbepalingen
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -52,13 +78,13 @@ In deze beleidsregels wordt verstaan onder:
 
 - –. **UWV:** Uitvoeringsinstituut Werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
 
-#### Artikel 1:2. Reikwijdte
+##### Artikel 1:2. Reikwijdte
 
 1. Deze beleidsregels zijn van toepassing op het treffen van betalingsregelingen met betrekking tot één vordering als bedoeld in [artikel 1:3, onder a, b, c, d, e, f, g, h, i, j of k](https://wetten.overheid.nl/jci1.3:c:BWBR0052067&paragraaf=1&artikel=1:3&z=2026-01-01&g=2026-01-01) dan wel een combinatie van vorderingen als bedoeld in artikel 1:3.
 
 2. Deze beleidsregels zijn niet van toepassing op het treffen van betalingsregelingen met betrekking tot één vordering als bedoeld in [artikel 1:3, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0052067&paragraaf=1&artikel=1:3&z=2026-01-01&g=2026-01-01), dan wel een combinatie die geheel bestaat uit vorderingen als bedoeld in datzelfde onderdeel.
 
-#### Artikel 1:3. Relevante vorderingen
+##### Artikel 1:3. Relevante vorderingen
 
 Het CJIB kan betalingsregelingen treffen met betrekking tot:
 
@@ -220,7 +246,7 @@ Het CJIB kan betalingsregelingen treffen met betrekking tot:
 
 #### Paragraaf 2. Verzoeken om betalingsregelingen
 
-#### Artikel 2:1. Indiening
+##### Artikel 2:1. Indiening
 
 1. Een verzoek om een betalingsregeling wordt bij voorkeur via de daarvoor opengestelde elektronische weg ingediend bij het CJIB.
 
@@ -228,15 +254,15 @@ Het CJIB kan betalingsregelingen treffen met betrekking tot:
 
 3. Een verzoek wordt uitsluitend in behandeling genomen, indien het is ingediend door de betalingsplichtige, door een persoon die door de betalingsplichtige is gemachtigd of door een schuldhulpverlenende instantie namens de betalingsplichtige.
 
-#### Artikel 2:2. Medewerking
+##### Artikel 2:2. Medewerking
 
 Bij de behandeling van een verzoek om een betalingsregeling kan het CJIB van de betalingsplichtige verlangen dat hij gegevens overlegt met betrekking tot diens inkomen of vermogen ter onderbouwing van diens betalingsonmacht of diens betalingscapaciteit.
 
-#### Artikel 2:3. Beoordeling
+##### Artikel 2:3. Beoordeling
 
 Bij de beoordeling van een verzoek om een betalingsregeling betrekt het CJIB zo veel mogelijk alle openstaande vorderingen als bedoeld in [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0052067&paragraaf=1&artikel=1:3&z=2026-01-01&g=2026-01-01). Het CJIB betrekt in de beoordeling tevens welke vorm als betalingsregeling het meest geschikt is en ten aanzien van welke vorderingen de betalingsregeling zal gelden.
 
-#### Artikel 2:4. Weigeringsgronden
+##### Artikel 2:4. Weigeringsgronden
 
 1. Het CJIB wijst een verzoek om een betalingsregeling in ieder geval af, indien:
 
@@ -258,7 +284,7 @@ Bij de beoordeling van een verzoek om een betalingsregeling betrekt het CJIB zo 
 
 - d. één of meerdere vorderingen voortkomen uit een schadevergoedingsmaatregel als bedoeld in [artikel 36f, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f) en het slachtoffer of diens nabestaanden op het moment van het verzoek nog geen uitkering hebben ontvangen op grond van [artikel 6:4:8, derde lid, Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:8).
 
-#### Artikel 2:5. Voorwaarden
+##### Artikel 2:5. Voorwaarden
 
 Bij het toestaan van een betalingsregeling kunnen in ieder geval als voorwaarden worden gesteld dat:
 
@@ -270,7 +296,7 @@ Bij het toestaan van een betalingsregeling kunnen in ieder geval als voorwaarden
 
 - d. de betalingsplichtige iedere wijziging in diens financiële situatie onverwijld meldt.
 
-#### Artikel 2:6. Ambtshalve voorstel
+##### Artikel 2:6. Ambtshalve voorstel
 
 1. Het CJIB stelt ambtshalve een betalingsregeling voor aan de betalingsplichtige, indien:
 
@@ -282,11 +308,11 @@ Bij het toestaan van een betalingsregeling kunnen in ieder geval als voorwaarden
 
 #### Paragraaf 3. Uitvoering en naleving
 
-#### Artikel 3:1. Opschorting andere innings- en incassomiddelen
+##### Artikel 3:1. Opschorting andere innings- en incassomiddelen
 
 De inning en incasso door middel van de inzet van andere middelen door het CJIB voor de vorderingen waarvoor de betalingsregeling is getroffen, wordt opgeschort voor de duur van die betalingsregeling.
 
-#### Artikel 3:2. Duur en vorm
+##### Artikel 3:2. Duur en vorm
 
 1. Een betalingsregeling kan worden getroffen voor ten hoogste de duur van de verjaringstermijn van de vorderingen waarop zij betrekking heeft.
 
@@ -294,7 +320,7 @@ De inning en incasso door middel van de inzet van andere middelen door het CJIB 
 
 3. Een betalingsregeling, niet zijnde een draagkrachtregeling als bedoeld in [artikel 3:4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052067&paragraaf=3&artikel=3:4&z=2026-01-01&g=2026-01-01), kan slechts worden toegestaan met het oog op een volledige voldoening van de betalingsverplichtingen. Percentagevoorstellen tegen finale kwijting worden niet toegestaan.
 
-#### Artikel 3:3. Standaardregeling
+##### Artikel 3:3. Standaardregeling
 
 1. Een standaardregeling voor één of meer openstaande vorderingen kan worden getroffen indien voor deze vorderingen nog geen verhaal met dwangbevel wordt toegepast.
 
@@ -302,7 +328,7 @@ De inning en incasso door middel van de inzet van andere middelen door het CJIB 
 
 3. De termijnbedragen voor de standaardregeling en het aantal daarvoor geldende termijnen worden op de website van het CJIB gepubliceerd. Bij het bepalen van het termijnbedrag kan een begrenzing plaatsvinden tot een maximaal openstaand bedrag en maximumaantal maanden.
 
-#### Artikel 3:4. Maatwerkregeling
+##### Artikel 3:4. Maatwerkregeling
 
 1. Een maatwerkregeling kan worden getroffen indien sprake is van bijzondere omstandigheden en de standaardregeling niet mogelijk is of geen uitkomst biedt.
 
@@ -312,7 +338,7 @@ De inning en incasso door middel van de inzet van andere middelen door het CJIB 
 
 4. Een draagkrachtregeling kan worden getroffen indien sprake is van bijzondere omstandigheden en de reguliere maatwerkregeling niet mogelijk is, of geen uitkomst biedt.
 
-#### Artikel 3:5. Uitstel van betaling
+##### Artikel 3:5. Uitstel van betaling
 
 1. Uitstel van betaling kan worden verleend als de betalingsplichtige aannemelijk maakt dat volledige betaling of een significante deelbetaling binnen een redelijke termijn zal volgen.
 
@@ -322,13 +348,13 @@ De inning en incasso door middel van de inzet van andere middelen door het CJIB 
 
 4. Uitstel van betaling voor onbepaalde duur wordt niet verleend.
 
-#### Artikel 3:6. Voegen van andere vorderingen
+##### Artikel 3:6. Voegen van andere vorderingen
 
 In bijzondere gevallen kunnen vorderingen als bedoeld in [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0052067&paragraaf=1&artikel=1:3&z=2026-01-01&g=2026-01-01) na het tot stand komen van een betalingsregeling in die betalingsregeling worden gevoegd.
 
 #### Paragraaf 4. Informeren
 
-#### Artikel 4:1. Informatie bij het toestaan van de betalingsregeling
+##### Artikel 4:1. Informatie bij het toestaan van de betalingsregeling
 
 Bij het toestaan van een betalingsregeling wordt de betalingsplichtige geïnformeerd over:
 
@@ -342,33 +368,33 @@ Bij het toestaan van een betalingsregeling wordt de betalingsplichtige geïnform
 
 - e. betalingsherinneringen bij niet tijdige voldoening van termijnbedragen.
 
-#### Artikel 4:2. Betalingsherinneringen
+##### Artikel 4:2. Betalingsherinneringen
 
 Indien de betalingsplichtige het termijnbedrag van een betalingsregeling niet binnen de gestelde termijn betaalt, stuurt het CJIB eenmalig een betalingsherinnering met het verzoek het termijnbedrag alsnog te voldoen. In de betalingsherinnering wordt aangegeven dat het CJIB binnen de eerstvolgende termijn zowel het alsdan te betalen termijnbedrag, als het bedrag dat eerder niet is betaald, moet hebben ontvangen.
 
-#### Artikel 4:3. Doorverwijzing naar het CJIB
+##### Artikel 4:3. Doorverwijzing naar het CJIB
 
 Ten aanzien van vorderingen als bedoeld in [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0052067&paragraaf=1&artikel=1:3&z=2026-01-01&g=2026-01-01) waarvan de inning of incasso dan wel beiden aan het CJIB is overgedragen verwijzen de DUO, het CAK, de NVWA, de RDI, de RVO, het UWV, de RDW, de ATKM, de DFEI, de NEa en de Inspectie JenV de betalingsplichtige naar het CJIB voor informatie over het treffen van een betalingsregeling. Zij verwijzen eveneens naar het CJIB bij vragen dan wel klachten over betalingsregelingen die de betalingsplichtige heeft lopen bij het CJIB of over verzoeken om betalingsregelingen die zijn afgewezen door het CJIB.
 
 #### Paragraaf 5. Verdeling en bestemming van betalingen
 
-#### Artikel 5:1. Verdeling
+##### Artikel 5:1. Verdeling
 
 Indien een betalingsregeling betrekking heeft op vorderingen van meerdere partijen als bedoeld in [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0052067&paragraaf=1&artikel=1:3&z=2026-01-01&g=2026-01-01), verdeelt het CJIB de van de betalingsplichtige ontvangen bedragen telkens over deze partijen naar evenredigheid van het totaalbedrag aan bij hen openstaande vorderingen.
 
-#### Artikel 5:2. Bestemvolgorde
+##### Artikel 5:2. Bestemvolgorde
 
 1. Voor iedere partij worden de ontvangen bedragen na toepassing van de verdeling, bedoeld in [artikel 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0052067&paragraaf=5&artikel=5:1&z=2026-01-01&g=2026-01-01), bestemd overeenkomstig een voor de vorderingen van die partij nader bepaalde volgorde.
 
 2. Bij de bestemming ter voldoening van vorderingen van dezelfde categorie, worden de ontvangen bedragen eerst bestemd ter voldoening van de oudste vordering.
 
-#### Artikel 5:3. Afwijken van verdeling en bestemvolgorde
+##### Artikel 5:3. Afwijken van verdeling en bestemvolgorde
 
 Het CJIB kan bij de verdeling en bestemming van ontvangen bedragen afwijken van de [artikelen 5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0052067&paragraaf=5&artikel=5:1&z=2026-01-01&g=2026-01-01) en [5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0052067&paragraaf=5&artikel=5:2&z=2026-01-01&g=2026-01-01), indien bijzondere omstandigheden daartoe aanleiding geven.
 
 #### Paragraaf 6. Einde van betalingsregelingen
 
-#### Artikel 6:1. Voortijdige beëindiging betalingsregeling
+##### Artikel 6:1. Voortijdige beëindiging betalingsregeling
 
 1. Het CJIB kan de betalingsregeling in ieder geval beëindigen, indien:
 
@@ -384,7 +410,7 @@ Het CJIB kan bij de verdeling en bestemming van ontvangen bedragen afwijken van 
 
 2. Indien de betalingsregeling voortijdig wordt beëindigd door het CJIB, informeert het CJIB de betalingsplichtige over de reden daarvan en het vervolg.
 
-#### Artikel 6:2. Gevolg voortijdige beëindiging betalingsregeling
+##### Artikel 6:2. Gevolg voortijdige beëindiging betalingsregeling
 
 Indien de betalingsregeling voortijdig wordt beëindigd, wordt de betalingsplichtige in de gelegenheid gesteld om binnen 30 dagen het totaal openstaande bedrag aan vorderingen in één keer te voldoen, tenzij:
 
@@ -392,21 +418,21 @@ Indien de betalingsregeling voortijdig wordt beëindigd, wordt de betalingsplich
 
 - b. het CJIB vaststelt dat de betalingsplichtige over zodanig vermogen beschikt dat dit redelijkerwijs geen aanleiding geeft voor het verlenen van verder uitstel.
 
-#### Artikel 6:3. Van rechtswege eindigen van de betalingsregeling
+##### Artikel 6:3. Van rechtswege eindigen van de betalingsregeling
 
 De betalingsregeling eindigt van rechtswege indien alle openstaande vorderingen zijn voldaan binnen de gestelde termijn of deeltermijnen.
 
 #### Paragraaf 7. Slotbepalingen
 
-#### Artikel 7:1. Intrekking beleidsregels
+##### Artikel 7:1. Intrekking beleidsregels
 
 De [Beleidsregels betalingsregelingen Rijk 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050600) worden ingetrokken.
 
-#### Artikel 7:2. Inwerkingtreding
+##### Artikel 7:2. Inwerkingtreding
 
 Deze beleidsregels treden in werking met ingang van 1 januari 2026.
 
-#### Artikel 7:3. Citeertitel
+##### Artikel 7:3. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels betalingsregelingen Rijk 2026.
 

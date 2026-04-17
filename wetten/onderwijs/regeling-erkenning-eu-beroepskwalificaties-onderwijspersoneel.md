@@ -1,13 +1,39 @@
 ---
-title: "Regeling erkenning EU-beroepskwalificaties onderwijspersoneel"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 16 januari 2008, nr. WJZ/2008/2010 (1602), houdende regels in verband met de erkenning van EG-beroepskwalificaties van onderwijspersoneel (Regeling erkenning EG-beroepskwalificaties onderwijspersoneel)"
 identifier: "BWBR0023393"
-categorie: "Onderwijs"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023393"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023393"
+soort: "ministeriele-regeling"
+stam_id: "9403223"
+version_id: "15136752"
+internal_id: "C20637281"
+label_id: "9380764"
+dtd_version: "2.0"
+original_entry_into_force: "2008-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023393/2022-08-01/0"
+intitule_bron: "Stcrt.2008-21"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-01-16"
+intitule_published: "2008-01-30"
+intitule_in_force: "2008-01-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-21"
+original_signed_date: "2008-01-16"
+original_published_date: "2008-01-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-21-p25-SC84229"
+entry_into_force_date: "2008-02-01"
+jci_1_3: "jci1.3:c:BWBR0023393&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0023393&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling erkenning EU-beroepskwalificaties onderwijspersoneel"
+signed_date: "2008-01-16"
+entry_into_force: "2008-02-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 16 januari 2008, nr. WJZ/2008/2010 (1602), houdende regels in verband met de erkenning van EG-beroepskwalificaties van onderwijspersoneel (Regeling erkenning EG-beroepskwalificaties onderwijspersoneel)
 
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -16,7 +42,7 @@ Gelet op de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artik
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - d. dienstverrichter: dienstverrichter als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21).
 
-#### Artikel 2. Gereglementeerde beroepen en werkzaamheden in het onderwijs
+##### Artikel 2. Gereglementeerde beroepen en werkzaamheden in het onderwijs
 
 Deze regeling is van toepassing op:
 
@@ -46,11 +72,11 @@ Deze regeling is van toepassing op:
 
 - b. de verklaring vooraf, bedoeld in [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), van een dienstverrichter die een gereglementeerd beroep of gereglementeerde werkzaamheden als bedoeld onder a wenst uit te oefenen.
 
-#### Artikel 3. Ib-groep
+##### Artikel 3. Ib-groep
 
 Vervallen
 
-#### Artikel 4. Aanvraag erkenning beroepskwalificaties
+##### Artikel 4. Aanvraag erkenning beroepskwalificaties
 
 1. De aanvrager verstrekt aan de Minister bij de aanvraag de volgende documenten, bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13):
 
@@ -70,7 +96,7 @@ Vervallen
 
 2. Bij toepassing van [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) verstrekt de aanvrager de Minister bij de aanvraag in voorkomend geval een bewijs van kennis, vaardigheden en competenties in het kader van een leven lang leren als bedoeld in artikel 11, derde lid, van de wet.
 
-#### Artikel 5. Proeve van bekwaamheid
+##### Artikel 5. Proeve van bekwaamheid
 
 1. Indien de aanvrager op grond van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) een proeve van bekwaamheid moet afleggen, draagt de Minister ervoor zorg dat:
 
@@ -86,7 +112,7 @@ Vervallen
 
 2. De aanvrager voldoet de kosten van de proeve van bekwaamheid.
 
-#### Artikel 6. Aanpassingsstage
+##### Artikel 6. Aanpassingsstage
 
 1. Indien de aanvrager op grond van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) een aanpassingsstage moet doorlopen, deelt de Minister de aanvrager schriftelijk mede:
 
@@ -106,11 +132,11 @@ Vervallen
 
 6. Het bevoegd gezag van de onderwijsinstelling deelt het resultaat van de aanpassingsstage zo spoedig mogelijk en in elk geval binnen een maand na het doorlopen van de aanpassingsstage mee aan de aanvrager en de Minister.
 
-#### Artikel 7. Herkansing
+##### Artikel 7. Herkansing
 
 Indien het resultaat van de proeve van bekwaamheid of de aanpassingsstage onvoldoende is, heeft de aanvrager het recht nogmaals een proeve van bekwaamheid af te leggen of een aanpassingsstage te volbrengen.
 
-#### Artikel 8. Verklaring vooraf
+##### Artikel 8. Verklaring vooraf
 
 Een dienstverrichter verstrekt aan de Minister de volgende documenten, bedoeld in [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23):
 
@@ -124,15 +150,15 @@ Een dienstverrichter verstrekt aan de Minister de volgende documenten, bedoeld i
 
 - e. voor gevallen als bedoeld in [artikel 22, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=22) een bewijs van de daar omschreven beroepservaring.
 
-#### Artikel 9. Intrekking andere regeling
+##### Artikel 9. Intrekking andere regeling
 
 De [Regeling onderwijsbevoegdheid Lid-Staten](https://wetten.overheid.nl/jci1.3:c:BWBR0008747), kenmerk AB/BAP - 97010148, van 18 juni 1997, gepubliceerd in Uitleg OenW-Regelingen 1997, nummer 18B, wordt ingetrokken.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties onderwijspersoneel.
 

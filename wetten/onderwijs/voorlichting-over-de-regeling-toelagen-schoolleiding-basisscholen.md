@@ -1,13 +1,36 @@
 ---
 title: "Voorlichting over de regeling toelagen schoolleiding basisscholen"
 identifier: "BWBR0010818"
-categorie: "Onderwijs"
-publicatiedatum: 1999-11-17
-laatste_update: 1999-11-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010818"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1999-11-17"
+last_updated: "1999-11-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010818"
+soort: "beleidsregel"
+stam_id: "6520463"
+version_id: "11222122"
+internal_id: "C15153461"
+label_id: "6509274"
+original_entry_into_force: "1999-11-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010818/1999-11-17/0"
+intitule_bron: "Uitleg.1999-26/27"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-11-02"
+intitule_published: "1999-11-17"
+intitule_in_force: "1999-11-17"
+intitule_status: "goed"
+original_publication: "Uitleg.1999-26/27"
+original_signed_date: "1999-11-02"
+original_published_date: "1999-11-17"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-11-17"
+jci_1_3: "jci1.3:c:BWBR0010818&z=1999-11-17&g=1999-11-17"
+jci_1_0: "1.0:c:BWBR0010818&g=1999-11-17"
+citeertitel_status: "redactioneel"
+signed_date: "1999-11-02"
+entry_into_force: "1999-11-17"
 ---
-
 # Voorlichting over de regeling toelagen schoolleiding basisscholen
 
 ### 1. Inleiding

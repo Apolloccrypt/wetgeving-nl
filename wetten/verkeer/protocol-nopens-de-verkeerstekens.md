@@ -1,24 +1,46 @@
 ---
 title: "Protocol nopens de verkeerstekens"
 identifier: "BWBV0005570"
-categorie: "Verkeer"
-publicatiedatum: 1964-10-22
-laatste_update: 1964-10-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005570"
+country: "nl"
+rank: "verdrag"
+publication_date: "1964-10-22"
+last_updated: "1964-10-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005570"
+soort: "verdrag"
+stam_id: "10004719493"
+version_id: "10004986702"
+internal_id: "C10007532141"
+label_id: "10004704864"
+dtd_version: "2.0"
+original_entry_into_force: "1953-12-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005570/1964-10-22/0"
+intitule_bron: "Trb.1951-81"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1951-06-27"
+intitule_in_force: "1952-11-05"
+intitule_status: "goed"
+original_publication: "Trb.1951-81"
+original_published_date: "1951-06-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1951-81"
+entry_into_force_date: "1953-12-20"
+jci_1_3: "jci1.3:c:BWBV0005570&z=1964-10-22&g=1964-10-22"
+jci_1_0: "1.0:c:BWBV0005570&g=1964-10-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "1953-12-20"
 ---
-
 # Protocol nopens de verkeerstekens
 
 De Staten, Partij bij dit Protocol, verlangend de veiligheid van het wegverkeer te verzekeren en het internationale wegverkeer te vergemakkelijken door een gelijkvormig stelsel van verkeerstekens, zijn de volgende bepalingen overeengekomen:
 
 ## DEEL I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 De Partijen bij dit Protocol aanvaarden het daarin omschreven stelsel van verkeerstekens en verbinden zich hetzelve zo spoedig mogelijk in te voeren. Zij plaatsen daartoe de in dit Protocol opgenomen verkeerstekens zo dikwijls nieuwe tekens geplaatst of de thans bestaande vernieuwd moeten worden. De volledige vervanging van de verkeerstekens, welke niet met het in dit Protocol voorgeschreven stesel overeenkomen, vindt plaats binnen tien jaren na het tijdstip, waarop dit Protocol voor de onderscheidene Partijen in werking treedt.
 
-#### Artikel 2
+##### Artikel 2
 
 De Verdragsluitende Partijen verbinden zich die verkeerstekens, welke weliswaar hetzelfde kenmerkend uiterlijk hebben als een teken, behorend tot het in dit Protocol voorgeschreven stelsel, doch met een andere strekking dan die welke dat verkeersteken in dit stelsel heeft worden gebruikt, te vervangen zodra dit Protocol in werking treedt.
 
@@ -26,7 +48,7 @@ De Verdragsluitende Partijen verbinden zich die verkeerstekens, welke weliswaar 
 
 ### HOOFDSTUK I
 
-#### Artikel 3
+##### Artikel 3
 
 Het internationale stelsel van verkeerstekens langs de weg omvat drie categorieën van tekens en wel:
 
@@ -46,11 +68,11 @@ Het internationale stelsel van verkeerstekens langs de weg omvat drie categorie�
 
 - 3. plaatsaanduidings- en wegaanduidingstekens.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor elke categorie van tekens heeft het verkeersbord een afzonderlijke vorm.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De symbolen van de verkeerstekens, zoals deze in de bij dit Protocol behorende tabellen zijn weergegeven, worden door de Partijen aanvaard als de grondslag voor hun verkeerstekens langs de weg. Als regel blijven de tekens binnen de omlijning van het verkeersbord.
 
@@ -62,7 +84,7 @@ Voor elke categorie van tekens heeft het verkeersbord een afzonderlijke vorm.
 
 5. Nieuwe tekens, door de Partijen ingevoerd overeenkomstig het bepaalde in het [eerste lid van artikel 17 van het op 19 September 1949 te Genève voor ondertekening opengestelde Verdrag nopens het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0005415&artikel=17) worden aan de Secretaris-Generaal van de Verenigde Naties medegedeeld, die alle Partijen daarvan kennis geeft.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor de tekens, symbolen en opschriften worden de in dit Protocol voorgeschreven kleuren gebruikt, tenzij bijzondere omstandigheden de toepassing er van verhinderen.
 
@@ -70,23 +92,23 @@ Voor elke categorie van tekens heeft het verkeersbord een afzonderlijke vorm.
 
 3. De keerzijde der verkeersborden draagt een neutrale kleur behoudens voorzoveel betreft de borden, weergegeven onder III, C, 1**a** en III, C, 1**b** en het symbool, weergegeven onder II, A, 15 indien dit aan de keerzijde van het onder II, A, 14 weergegeven bord is aangebracht.
 
-#### Artikel 7
+##### Artikel 7
 
 Het gebruik van lichten of van reflecterende materialen of voorwerpen wordt tenminste aanbevolen voor gevaarstekens en tekenswaarmede bepaalde aanwijzingen worden gegeven, wanneer het gebruik daarvan des nachts bijdraagt tot de zichtbaarheid van verkeerstekens langs de weg; doch zij mogen de weggebruikers niet verblinden of de duidelijkheid van het symbool of van het opschrift nadelig beïnvloeden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De afmetingen der verkeersborden zijn zodanig, dat het teken op een afstand goed zichtbaar is en goed begrijpelijk van nabij.
 
 2. Ter verzekering van de grootst mogelijke eenvormigheid zijn de afmetingen der onderscheidene tekens in elk land genormaliseerd. Als regel worden voor elk soort verkeersteken twee formaten gebruikt, te weten een standaard formaat en een verkleind formaat ten gebruike onder omstandigheden, welke de opstelling van het standaard formaat verhinderen of zo dikwijls de veiligheid der weggebruikers zulks niet vereist. Onder bijzondere omstandigheden mag binnen bebouwde kommen of ter herhaling van het hoofdteken een speciaal klein formaat teken worden gebruikt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Buiten bebouwde kommen bedraagt de afstand tussen de midden loodlijn van het verkeersbord en de naastbijzijnde kant van de rijweg ten hoogste 2 meter, tenzij bijzondere omstandigheden zulks verhinderen.
 
 2. Binnen bebouwde kommen en in bergachtige streken bedraagt de afstand tussen de naar de rijweg gekeerde rand van het verkeersbord en een op de kant van de rijweg opgerichte verticale lijn tenminste 50 centimeter. In bijzondere omstandigheden mag deze afstand evenwel kleiner zijn.
 
-#### Artikel 10
+##### Artikel 10
 
 1. In dit Protocol betekent de hoogte van verkeersborden boven de grond: de hoogte, gemeten van de benedenzijde van het bord tot het door de weg gaande horizontale vlak.
 
@@ -94,7 +116,7 @@ Het gebruik van lichten of van reflecterende materialen of voorwerpen wordt tenm
 
 ### HOOFDSTUK II. Categorie I. Gevaarstekens
 
-#### Artikel 11
+##### Artikel 11
 
 1. De borden voor de gevaarstekens hebben de vorm van een gelijkzijdige driehoek met één punt omhoog gericht, behalve dat voor het teken **nadering voorrangsweg** (I, 22), waarvan één punt omlaag is gericht.
 
@@ -110,11 +132,11 @@ Het gebruik van lichten of van reflecterende materialen of voorwerpen wordt tenm
 
 7. De tekens zijn zo aangebracht, dat zij niet aan het oog kunnen worden onttrokken en geen hinder aan voetgangers kunnen berokkenen.
 
-#### Artikel 12
+##### Artikel 12
 
 Het teken „UITHOLLING OVERDWARS” (I, 1) wordt gebruikt, waar het bevoegde gezag zulks nodig oordeelt ter aanduiding van de nadering van weggedeelten waarvan het wegdek oneffen is, van een dwars over de weg lopende goot of greppel of van een bult in de weg of een hoge brug.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het teken **gevaarlijke bocht** of **gevaarlijke bochten** (I, 2) wordt slechts gebruikt ter aanduiding van de nadering van een bocht of van bochten, welke gevaarlijk zijn door hun uiterlijke eigenschappen of door gebrek aan zicht.
 
@@ -128,13 +150,13 @@ Het teken „UITHOLLING OVERDWARS” (I, 1) wordt gebruikt, waar het bevoegde ge
 
 - I, 6. — S-bocht, eerst naar links.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het teken **kruispunt** (I, 7) wordt gebruikt, waar het bevoegde gezag zulks nodig oordeelt ter aanduiding van de nadering van een splitsing, een kruising of een vereniging van wegen. Binnen bebouwde kommen wordt dit teken slechts in uitzonderingsgevallen gebruikt.
 
 2. Wanneer moet worden aangegeven dat zich op het kruispunt een verkeersplein bevindt, kan het hieronder weergegeven teken I, 7**bis** in plaats van het teken I, 7 worden gebruikt; waar links houden als regel geldt wijzen de pijlen in tegenovergestelde richting.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het teken „BEWAAKTE SPOORWEGOVERGANG” (I, 8) wordt gebruikt ter aanduiding van de nadering van iedere bewaakte spoorwegovergang en van iedere spoorwegovergang welke is voorzien van schuins tegenover elkaar gelegen halve afsluitbomen aan weerszijden van de spoorbaan.
 
@@ -154,51 +176,51 @@ Het teken „UITHOLLING OVERDWARS” (I, 1) wordt gebruikt, waar het bevoegde ge
 
 - -. binnen de bebouwde kom die voorschriften geven, welke zij gewenst achten ter vervanging van het in de leden 1, 2, 3, 5 en 6 van dit artikel bepaalde.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het teken **gevaarlijke helling** (I, 12) wordt gebruikt, waar het bevoegde gezag zulks nodig oordeelt ter aanduiding van de nadering van een gevaarlijke helling. De helling moet sterker zijn dan een op tien of de omstandigheden ter plaatse moeten van dien aard zijn, dat de helling gevaar oplevert.
 
 2. De sterkte der helling wordt in het teken aangegeven, zoals bijvoorbeeld in de figuren I, 12**a** en I, 12**b.**
 
-#### Artikel 17
+##### Artikel 17
 
 Het teken **wegversmalling** (I, 13) wordt gebruikt, waar het bevoegde gezag zulks nodig oordeelt ter aanduiding van de nadering van een punt, waar de rijweg in die mate smaller wordt, dat dit gevaar zou kunnen opleveren.
 
-#### Artikel 18
+##### Artikel 18
 
 Het teken **beweegbare brug** (I, 14) wordt gebruikt, waar het bevoegde gezag zulks nodig oordeelt ter aanduiding van de nadering van een brug, welke kan worden geopend.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het teken **opgebroken weg** (I, 15) wordt gebruikt ter aanduiding van de nadering van een plaats, waar aan de weg een werk wordt uitgevoerd.
 
 2. Het begin en het einde van het werk worden des nachts duidelijk aangegeven.
 
-#### Artikel 20
+##### Artikel 20
 
 Het teken **mogelijkheid slipgevaar** (I, 16) wordt gebruikt, waar het bevoegde gezag zulks nodig oordeelt ter aanduiding van de nadering van een gedeelte van de rijbaan, hetwelk onder bepaalde omstandigheden een glad wegdek kan hebben.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het teken **oversteekplaats voor voetgangers** (I, 17) wordt gebruikt, waar het bevoegde gezag zulks nodig oordeelt ter aanduiding van de nadering van een oversteekplaats voor voetgangers. De wijze, waarop deze oversteekplaatsen zelve zijn aangegeven, wordt vastgesteld door het bevoegde gezag.
 
 2. Op dit teken zijn de bepalingen van het vijfde lid van artikel 11 van dit Protocol niet van toepassing.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het teken **kinderen!** (I, 18) wordt gebruikt, waar het bevoegde gezag zulks nodig oordeelt ter aanduiding van de nadering van een plaats, waar gewoonlijk veel kinderen zijn, zoals een school of een speelplaats.
 
 2. Op dit teken zijn de bepalingen van het vijfde lid van artikel 11 van dit Protocol niet van toepassing.
 
-#### Artikel 23
+##### Artikel 23
 
 Het teken **pas op voor dieren** (I, 19) wordt gebruikt, waar het bevoegde gezag zulks noodzakelijk oordeelt ter aanduiding van een punt, waar de weg in een speciaal gebied komt, waar men rekening moet houden met het tegenkomen van loslopende dieren; het symbool op dit teken kan naar behoefte worden gewijzigd.
 
-#### Artikel 24
+##### Artikel 24
 
 Het teken **kruising met niet-voorrangsweg** (I, 20) wordt gebruikt, waar het bevoegde gezag zulks op een voorrangsweg of hoofdverkeersweg nodig oordeelt ter aanduiding van de nadering van een kruispunt met een niet-voorrangsweg, zulks in het gebied van een Partij, waar het gebruik van dit teken met de verkeersvoorschriften overeenstemt.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het teken **ander gevaar** (I, 21) wordt gebruikt, waar het bevoegde gezag zulks nodig oordeelt ter aanduiding van de nadering van een ander gevaar dan die, omschreven in de artikelen 12 tot en met 24 van dit Protocol.
 
@@ -208,11 +230,11 @@ Het teken **kruising met niet-voorrangsweg** (I, 20) wordt gebruikt, waar het be
 
 4. Beneden het verkeersbord mag daarenboven een rechthoekig bord worden aangebracht met een opschrift of een in het gebied van de betrokken Partij gangbaar symbool.
 
-#### Artikel 26
+##### Artikel 26
 
 Waar atmospherische toestanden het gebruik van een volledig bord niet toelaten, mag een uitgesneden rode driehoek worden gebruikt ter aanduiding van de in de artikelen 12 tot en met 25 bedoelde gevaren. In dat geval wordt steeds beneden de driehoek een rechthoekig bord aangebracht, waarop het toepasselijke symbool of opschrift, dan wel beide het gevaar aanduiden.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het teken **nadering voorrangsweg** (I, 22) wordt gebruikt om een bestuurder erop te wijzen, dat hij de doorgang voor zich langs moet vrijlaten voor voertuigen, gaande langs de weg, welke hij nadert.
 
@@ -224,7 +246,7 @@ Het verdient aanbeveling op zulke wegen bovendien zo dicht mogelijk bij het krui
 
 ### HOOFDSTUK III. Categorie II. Tekens, welke een bepaald voorschrift weergeven
 
-#### Artikel 28
+##### Artikel 28
 
 1. De tot deze categorie behorende tekens geven een verbod of een gebod weer, uitgevaardigd door het bevoegde gezag.
 
@@ -240,11 +262,11 @@ Het verdient aanbeveling op zulke wegen bovendien zo dicht mogelijk bij het krui
 
 ### II. A. Verbodstekens
 
-#### Artikel 29
+##### Artikel 29
 
 Behoudens voorzover elders in dit Protocol of in de figuren anders wordt bepaald, zijn de kleuren van de tekens, welke een verbod weergeven, wit of lichtgeel met rode rand en zwart of donker gekleurd symbool.
 
-#### Artikel 30
+##### Artikel 30
 
 De tekens, welke een verbod voor het verkeer weergeven, zijn de volgende:
 
@@ -256,7 +278,7 @@ De tekens, welke een verbod voor het verkeer weergeven, zijn de volgende:
 
 - d. het teken „VERBOD INHALEN” (II, A.4); dit teken wordt gebruikt om aan te geven dat, onafhankelijk van de algemene regels welke van toepassing zijn op het inhalen, het inhalen van elk wegvervoermiddel met eigen aandrijving (met inbegrip van een trolleybus) voorzover geen motorrijwiel zonder zijspan, is verboden; waar linkshouden als regel geldt, worden de kleuren van de in de figuur aangegeven motorrijtuigen verwisseld.
 
-#### Artikel 31
+##### Artikel 31
 
 De tekens, welke een verbod voor bepaalde soorten voertuigen weergeven, zijn de volgende:
 
@@ -270,7 +292,7 @@ De tekens, welke een verbod voor bepaalde soorten voertuigen weergeven, zijn de 
 
 - e. het teken **gesloten voor wielrijders** (II. A. 9).
 
-#### Artikel 32
+##### Artikel 32
 
 De tekens, welke een beperking aangeven van de afmetingen, het gewicht of de snelheid, toegestaan voor voertuigen, zijn de volgende:
 
@@ -286,7 +308,7 @@ De tekens, welke een beperking aangeven van de afmetingen, het gewicht of de sne
 
 - f. het teken **einde snelheidsbeperking** (II. A. 15) (witte of lichtgele achtergrond, doorsneden door hellende balk in zwart of donkere kleur) wordt gebruikt ter aanduiding van de plaats, waar het teken snelheidsbeperking zijn geldigheid verliest. Het mag worden aangebracht aan de keerzijde van het teken II. A. 14, ook al zou het dientengevolge niet zijn aangebracht aan de wegzijde, waarlangs het verkeer, waarop het betrekking heeft, nadert.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Het teken „STOP BIJ KRUISPUNT” wordt gebruikt om aan te geven dat een bestuurder moet stilhouden alvorens zich op een andere weg te begeven en aan de op die weg rijdende voertuigen voorrang dient te verlenen.
 
@@ -300,13 +322,13 @@ Het verdient aanbeveling op zulk een weg bovendien zo dicht mogelijk bij het kru
 
 5. Het teken II. A. 16 mag worden voorafgegaan door een vooraanduidingsteken, bestaande uit het teken I, 22, aangevuld met een rechthoekig bord, waarop de afstand tot het kruispunt is aangegeven, zoals in figuur I, 22**a**. Wanneer zich nog andere kruisingen bevinden tussen het vooraanduidingsteken en de kruising met een voorrangsweg of hoofdverkeersweg, wordt het vooraanduidingsteken na elk van deze andere kruisingen herhaald.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Het teken **stop (douane)** wordt gebruikt om de nabijheid van een douanepost aan te geven, waar het verplicht is stil te houden. Het woord „Douane” is op het teken aangebracht. De vertaling van het woord „Douane” in de taal van het aangrenzende grondgebied mag worden toegevoegd (II. A. 17).
 
 2. Dit teken mag worden gebruikt om andere verplichtingen tot stilhouden aan te geven, in welk geval het opschrift „Douane” wordt vervangen door een opschrift, dat de reden van de verplichting tot stilhouden omschrijft.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Het teken **stilstaan en wachten aan bepalingen gebonden** (II.A.18) wordt gebruikt om aan te geven, dat het verboden is een voertuig te doen of laten stilstaan of wachten en om aan te geven, dat het doen of laten wachten beperkt is toegestaan. Dit teken bestaat uit een blauw veld diagonaalsgewijs doorsneden door een rode balk en omsloten door een rode rand.
 
@@ -334,7 +356,7 @@ en, tenzij in de aanwijzingen welke op een afzonderlijk onder het teken aangebra
 
 ### II. B. Gebodstekens
 
-#### Artikel 36
+##### Artikel 36
 
 1. De kleur van de gebodstekens bestaat uit een blauwe achtergrond met wit symbool.
 
@@ -348,7 +370,7 @@ en, tenzij in de aanwijzingen welke op een afzonderlijk onder het teken aangebra
 
 ### HOOFDSTUK IV. Categorie III. Tekens, welke een enkele aanduiding inhouden
 
-#### Artikel 37
+##### Artikel 37
 
 1. De tekens van deze categorie zijn rechthoekig van vorm.
 
@@ -356,7 +378,7 @@ en, tenzij in de aanwijzingen welke op een afzonderlijk onder het teken aangebra
 
 ### III. A. Aanwijzingstekens
 
-#### Artikel 38
+##### Artikel 38
 
 1. Het teken **parkeren** (III.A.1) wordt gebruikt ter aanduiding van plaatsen, waar parkeren is toegestaan.
 
@@ -370,7 +392,7 @@ en, tenzij in de aanwijzingen welke op een afzonderlijk onder het teken aangebra
 
 6. Een rechthoekig bord beneden het teken mag worden gebruikt voor opschriften, welke de periode aangeven, gedurende welke parkeren is toegestaan of de richting naar de parkeerplaats.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Het teken **hospitaal of ziekenhuis** wordt gebruikt om de bestuurders van voertuigen erop te wijzen, dat zij de voorzorgen behoren te nemen, vereist wegens de nabijheid van een geneeskundige inrichting en in het bijzonder ter vermijding van onnodig lawaai.
 
@@ -380,7 +402,7 @@ en, tenzij in de aanwijzingen welke op een afzonderlijk onder het teken aangebra
 
 4. Het teken staat het verkeer tegemoet gewend.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De tekens ter aanduiding van de hulpposten zijn de volgende:
 
@@ -396,7 +418,7 @@ en, tenzij in de aanwijzingen welke op een afzonderlijk onder het teken aangebra
 
 3. De in het eerste lid onder **b, c** en **d** omschreven tekens worden gebruikt overeenkomstig de door het bevoegde gezag gegeven voorschriften.
 
-#### Artikel 41
+##### Artikel 41
 
 1. De aanvang van een voorrangsweg; mag worden aangeduid met het teken **voorrangsweg** (III. A. 8).
 
@@ -416,7 +438,7 @@ en, tenzij in de aanwijzingen welke op een afzonderlijk onder het teken aangebra
 
 ### III. B. Richtingvooraanduidingstekens en richtingaanduidingstekens
 
-#### Artikel 42
+##### Artikel 42
 
 1. De richtingvooraanduidingstekens zijn rechthoekig van vorm.
 
@@ -428,7 +450,7 @@ en, tenzij in de aanwijzingen welke op een afzonderlijk onder het teken aangebra
 
 5. De figuren III. B. 1**a** en III. B. 1**b** zijn voorbeelden van dit teken.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Richtingaanduidingstekens zijn rechthoekig met de lange zijden horizontaal gericht en zij lopen aan één zijde in een punt uit.
 
@@ -442,7 +464,7 @@ en, tenzij in de aanwijzingen welke op een afzonderlijk onder het teken aangebra
 
 ### III. C. Plaatsaanduidings- en wegaanduidingstekens
 
-#### Artikel 44
+##### Artikel 44
 
 1. Plaatsaanduidingstekens zijn rechthoekig van vorm met de lange zijden horizontaal gericht.
 
@@ -454,7 +476,7 @@ en, tenzij in de aanwijzingen welke op een afzonderlijk onder het teken aangebra
 
 5. De figuren III. C. 1**a** en III. C. 1**b** zijn voorbeelden van dit teken.
 
-#### Artikel 45
+##### Artikel 45
 
 1. De wegaanduidingstekens met cijfers of letters dan wel een combinatie van beide zijn rechthoekig van vorm.
 
@@ -464,11 +486,11 @@ en, tenzij in de aanwijzingen welke op een afzonderlijk onder het teken aangebra
 
 ## DEEL III. Aanvullende bepalingen met betrekking tot spoorwegovergangen
 
-#### Artikel 46
+##### Artikel 46
 
 Waar het bevoegde gezag zulks noodzakelijk acht kan een verticaal bord, dat drie rode balken, schuin gericht en tegen een witte of gele achtergrond vertoont, worden aangebracht onder een teken van het type I, 8 of I, 9, mits borden van dezelfde vorm, welke onderscheidenlijk twee rode balken en een rode balk, schuin gericht en tegen een witte of gele achtergrond vertonen, als afzonderlijke tekens op ongeveer tweederde en op eenderde van de afstand tussen het eerste teken en de spoorbaan zijn aangebracht. De figuren I, 8**a**, I, 9**a**, I, 8/9**b** en I, 8/9**c** zijn voorbeelden van deze borden.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Wanneer bij een spoorwegovergang een signaalinrichting is aangebracht om te waarschuwen dat een trein nadert of de afsluitbomen of de halve afsluitbomen op het punt staan te worden gesloten, bestaat de inrichting:
 
@@ -486,25 +508,25 @@ Waar het bevoegde gezag zulks noodzakelijk acht kan een verticaal bord, dat drie
 
 5. Op elke spoorwegovergang, voorzien van afsluitbomen of halve afsluitbomen, welke automatisch worden bediend door de nadering van een trein of welke worden bediend van een plaats vanwaar de afsluitbomen of halve afsluitbomen niet zichtbaar zijn, is de snelheid waarmede de afsluitbomen of halve afsluitbomen worden gesloten, zodanig dat weggebruikers die de spoorwegovergang naderen of er zich reeds op bevinden wanneer het signaaltoestel in werking treedt, tijdig kunnen stilhouden alvorens zij de spoorwegovergang bereiken, of in de gelegenheid zijn deze tijdig te verlaten.
 
-#### Artikel 48
+##### Artikel 48
 
 Bij alle spoorwegovergangen, voorzien van afsluitbomen of halve afsluitbomen, worden de afsluitbomen of halve afsluitbomen doorlopend bediend zolang er treinverkeer plaatsvindt. Wordt de hoedanigheid van spoorwegovergang met afsluitbomen of halve afsluitbomen duurzaam vervangen door die van onbewaakte overgang, dan worden de spoorbomen of halve spoorbomen verwijderd, teneinde elk misverstand van de zijde der weggebruikers te voorkomen.
 
-#### Artikel 49
+##### Artikel 49
 
 De apparaten welke overeenkomstig de voorschriften van artikel 47, lid 1 (a) van dit Protocol de nadering van een trein aankondigen, worden in de onmiddellijke nabijheid van de spoorbaan aangebracht en, indien een teken in de vorm van het Andreaskruis wordt gebruikt, zo mogelijk aan dezelfde stijl als dit teken bevestigd. Wanneer de signalen automatisch worden gegeven, worden afdoende maatregelen genomen om defect raken van een signaal te voorkomen, alsmede om elke mogelijkheid tot misverstaan van de strekking van het signaal uit te sluiten, indien dit niet of gebrekkig werkt.
 
-#### Artikel 50
+##### Artikel 50
 
 Spoorwegovergangen zijn niet zonder afsluitbomen of halve afsluitbomen, noch zonder signalen welke de nadering van een trein aankondigen, tenzij de spoorbaan van beide zijden van de overgang voor de weggebruikers duidelijk zichtbaar is, waarbij in het bijzonder rekening wordt gehouden met de snelheid der treinen, zodat de bestuurder van een voertuig, van welke zijde hij de spoorbaan ook nadert, tijd heeft voor de spoorwegovergang stil te houden, wanneer er een trein in zicht is en de weggebruikers die zich bij de nadering van een trein reeds op de overweg bevinden, de overgang tijdig kunnen verlaten.
 
 ## DEEL IV. Tekens, te geven door de verkeerspolitie
 
-#### Artikel 51
+##### Artikel 51
 
 Verkeersagenten zijn zodanig toegerust en opgesteld, dat zij voor alle weggebruikers zichtbaar zijn.
 
-#### Artikel 52
+##### Artikel 52
 
 1. De door de verkeersagenten te geven tekens stemmen overeen met een der twee volgende stelsels.
 
@@ -528,7 +550,7 @@ De tekens B en C mogen gelijktijdig worden gebruikt.
 
 ## DEEL V. Lichtsignalen ten behoeve van het verkeer
 
-#### Artikel 53
+##### Artikel 53
 
 1. De lichten van de lichtsignalen ten behoeve van het verkeer hebben de volgende betekenis:
 
@@ -544,7 +566,7 @@ De tekens B en C mogen gelijktijdig worden gebruikt.
 
 ## DEEL VI. Op het wegdek aangebrachte tekens
 
-#### Artikel 54
+##### Artikel 54
 
 1. Wanneer een rijbaan buiten een bebouwde kom in meer dan twee rijstroken is verdeeld, behoren deze duidelijk te onderscheiden te zijn.
 
@@ -554,7 +576,7 @@ De tekens B en C mogen gelijktijdig worden gebruikt.
 
 4. Het aangeven van rijstroken als bepaald in het tweede en derde lid betekent, dat een voertuig onder normale verkeersomstandigheden de voor zijn richting bestemde rijstrook niet behoort te verlaten.
 
-#### Artikel 55
+##### Artikel 55
 
 1. Wanneer de kanten van de rijbaan door middel van lichten of reflectoren zijn aangegeven, kunnen daartoe twee verschillende kleuren worden gebruikt.
 
@@ -564,7 +586,7 @@ De tekens B en C mogen gelijktijdig worden gebruikt.
 
 ## DEEL VII. Slotbepalingen
 
-#### Artikel 56
+##### Artikel 56
 
 1. Dit Protocol is tot 31 December 1949 opengesteld voor ondertekening door de Staten, welke het op 19 September 1949 te Genève voor ondertekening opengestelde [Verdrag nopens het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0005415) hebben ondertekend.
 
@@ -574,7 +596,7 @@ De tekens B en C mogen gelijktijdig worden gebruikt.
 
 4. Toetreding geschiedt door nederlegging van een toetredingsoorkonde bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 57
+##### Artikel 57
 
 1. Elke Staat kan bij de ondertekening, de bekrachtiging of de toetreding, alsook te allen tijde daarna in een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verklaren, dat de bepalingen van dit Protocol mede van toepassing zullen zijn voor één of meer der gebieden, voor welker buitenlandse betrekkingen hij verantwoordelijk is. Deze bepalingen worden voor de in de kennisgeving genoemde gebieden van toepassing dertig dagen na ontvangst dier kennisgeving door de Secretaris-Generaal of, bijgeval het Protocol op dat tijdstip nog niet in werking is getreden, op het tijdstip van in werking treden van het Protocol.
 
@@ -582,17 +604,17 @@ De tekens B en C mogen gelijktijdig worden gebruikt.
 
 3. Elke Staat, welke overeenkomstig het eerste lid van dit artikel een verklaring heeft afgelegd, waarbij dit Protocol van toepassing wordt verklaard voor een gebied, voor welks buitenlandse betrekkingen hij verantwoordelijk is, kan te allen tijde daarna in een tot de Secretaris-Generaal der Verenigde Naties gerichte kennisgeving verklaren, dat dit Protocol niet langer van toepassing zal zijn voor het in die kennisgeving genoemde gebied. In dat geval zal het Protocol na verstrijken van een jaar sinds de datum der kennisgeving ophouden voor dat gebied van toepassing te zijn.
 
-#### Artikel 58
+##### Artikel 58
 
 Dit Protocol treedt in werking vijftien maanden na nederlegging van de vijfde bekrachtigings- of toetredingsoorkonde. Voor Staten, welke na dat tijdstip dit Protocol bekrachtigen of daartoe toetreden, treedt het in werking vijftien maanden na nederlegging van hun bekrachtigings- of toetredingsoorkonde.
 
 De Secretaris-Generaal der Verenigde Naties stelt de Staten, welke dit Protocol hebben ondertekend of daartoe zijn toegetreden, alsmede andere Staten, welke waren uitgenodigd tot bijwoning van de conferentie van de Verenigde Naties voor wegverkeer en verkeer met motorrijtuigen, in kennis van het tijdstip, waarop dit Protocol in werking treedt.
 
-#### Artikel 59
+##### Artikel 59
 
 Door dit Protocol te bekrachtigen of daartoe toe te treden, verbindt elke Staat, welke Partij is bij het op 30 Maart 1931 te Genève voor ondertekening opengestelde Verdrag tot het brengen van eenheid in de verkeerstekens, zich dat Verdrag op te zeggen binnen drie maanden na het tijdstip van nederlegging van zijn bekrachtigings- of toetredingsoorkonde ter zake van dit Protocol.
 
-#### Artikel 60
+##### Artikel 60
 
 1. Elk der Verdragsluitende Staten kan een of meer wijzigingen van dit Protocol voorstellen. Van de tekst van een voorgestelde wijziging wordt kennis gegeven aan de Secretaris-Generaal van de Verenigde Naties, die hem aan alle Partijen bij dit Protocol doet toekomen met verzoek binnen vier maanden mede te delen of zij:
 
@@ -620,19 +642,19 @@ De bepalingen van dit lid zijn niet van toepassing ingeval een wijziging van dit
 
 7. Partijen, welke met betrekking tot een wijziging een verklaring overeenkomstig het derde lid van dit artikel hebben afgelegd of overeenkomstig het vijfde lid van hun bezwaar hebben kennis gegeven, kunnen deze verklaring onderscheidenlijk dat bezwaar te allen tijde intrekken door een aan de Secretaris-Generaal gerichte kennisgeving. De wijziging is dan voor de betrokken Partij van kracht met ingang van het tijdstip van ontvangst der kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 61
+##### Artikel 61
 
 Dit Protocol kan met inachtneming van een termijn van een jaar worden opgezegd door een daartoe strekkende kennisgeving aan de Secretaris-Generaal der Verenigde Naties, die daarvan mededeling doet aan de Staten, welke het Protocol hebben ondertekend of daartoe zijn toegetreden. Na verloop van deze termijn treedt het Protocol voor de Partij, welke het aldus heeft opgezegd, buiten werking.
 
-#### Artikel 62
+##### Artikel 62
 
 Een geschil tussen twee of meer Partijen, de uitleg of de toepassing van dit Protocol betreffende, hetwelk zij door onderhandeling noch anderzins kunnen oplossen, kan door elk der betrokken Partijen schriftelijk bij het Internationale Gerechtshof ter beslissing aanhangig worden gemaakt.
 
-#### Artikel 63
+##### Artikel 63
 
 Geen bepaling van dit Protocol wordt geacht de Partijen te beletten de maatregelen te nemen, welke zij voor hun buiten- of binnenlandse veiligheid noodzakelijk achten, voorzoveel die maatregelen verenigbaar zijn met het [Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en beperkt blijven tot de vereisten der gegeven omstandigheden.
 
-#### Artikel 64
+##### Artikel 64
 
 1. Afgezien van de kennisgevingen ingevolge artikel 5, lid 5, artikel 58, artikel 60, leden 1, 3 en 5 en artikel 61, stelt de Secretaris-Generaal van de Verenigde Naties de in het eerste lid van artikel 56 bedoelde Staten in kennis van:
 

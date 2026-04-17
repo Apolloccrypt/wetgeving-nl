@@ -1,13 +1,38 @@
 ---
 title: "Besluit artikel 10a Wet Vpb 1969"
 identifier: "BWBR0049814"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-06-15
-laatste_update: 2024-06-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049814"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-06-15"
+last_updated: "2024-06-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049814"
+soort: "beleidsregel"
+stam_id: "17130303"
+version_id: "30150162"
+internal_id: "C43202501"
+label_id: "17039524"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049814/2024-06-15/0"
+intitule_bron: "Stcrt.2024-17476"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-05-30"
+intitule_published: "2024-06-14"
+intitule_in_force: "2024-06-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-17476"
+original_signed_date: "2024-05-30"
+original_published_date: "2024-06-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-17476"
+entry_into_force_date: "2024-06-15"
+jci_1_3: "jci1.3:c:BWBR0049814&z=2024-06-15&g=2024-06-15"
+jci_1_0: "1.0:c:BWBR0049814&g=2024-06-15"
+citeertitel_status: "officieel"
+signed_date: "2024-05-30"
+entry_into_force: "2024-06-15"
 ---
-
 # Besluit artikel 10a Wet Vpb 1969
 
 **De Staatsecretaris van Financiën heeft het volgende besloten.**

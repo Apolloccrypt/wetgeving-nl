@@ -1,13 +1,37 @@
 ---
 title: "Arbeidsvoorwaarden- en werkgelegenheidsbeleid sector Rijk 1995-1997"
 identifier: "BWBR0007571"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1995-10-06
-laatste_update: 1995-10-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007571"
+country: "nl"
+rank: "circulaire"
+publication_date: "1995-10-06"
+last_updated: "1995-10-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007571"
+soort: "circulaire"
+stam_id: "6281033"
+version_id: "10955182"
+internal_id: "C14855591"
+label_id: "6270364"
+original_entry_into_force: "1995-10-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007571/1995-10-06/0"
+intitule_bron: "Stcrt.1995-194"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-09-22"
+intitule_published: "1995-10-06"
+intitule_in_force: "1995-10-06"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-194"
+original_signed_date: "1995-09-22"
+original_published_date: "1995-10-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1995-194-p12-SC3856"
+entry_into_force_date: "1995-10-06"
+jci_1_3: "jci1.3:c:BWBR0007571&z=1995-10-06&g=1995-10-06"
+jci_1_0: "1.0:c:BWBR0007571&g=1995-10-06"
+citeertitel_status: "redactioneel"
+signed_date: "1995-09-22"
+entry_into_force: "1995-10-06"
 ---
-
 # Arbeidsvoorwaarden- en werkgelegenheidsbeleid sector Rijk 1995-1997
 
 Circulaire aan de Ministers

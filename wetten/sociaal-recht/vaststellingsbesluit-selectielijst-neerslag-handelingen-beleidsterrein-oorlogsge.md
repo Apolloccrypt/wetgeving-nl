@@ -1,13 +1,38 @@
 ---
 title: "Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Oorlogsgetroffenen vanaf 1947 (Pensioen- en Uitkeringsraad en taakvoorgangers)"
 identifier: "BWBR0019717"
-categorie: "Sociaal recht"
-publicatiedatum: 2006-04-21
-laatste_update: 2006-04-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019717"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2006-04-21"
+last_updated: "2006-04-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019717"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "8215323"
+version_id: "13025062"
+internal_id: "C25319771"
+label_id: "8196424"
+dtd_version: "2.0"
+original_entry_into_force: "2006-04-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019717/2006-04-21/0"
+intitule_bron: "Stcrt.2006-76"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-03-29"
+intitule_published: "2006-04-19"
+intitule_in_force: "2006-04-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-76"
+original_signed_date: "2006-03-29"
+original_published_date: "2006-04-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-76-p23-SC74500"
+entry_into_force_date: "2006-04-21"
+jci_1_3: "jci1.3:c:BWBR0019717&z=2006-04-21&g=2006-04-21"
+jci_1_0: "1.0:c:BWBR0019717&g=2006-04-21"
+citeertitel_status: "redactioneel"
+signed_date: "2006-03-29"
+entry_into_force: "2006-04-21"
 ---
-
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Oorlogsgetroffenen vanaf 1947 (Pensioen- en Uitkeringsraad en taakvoorgangers)
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +41,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 6 februari 200
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Pensioen- en Uitkeringsraad en taakvoorgangers op het beleidsterrein Oorlogsgetroffenen over de periode vanaf 1947’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

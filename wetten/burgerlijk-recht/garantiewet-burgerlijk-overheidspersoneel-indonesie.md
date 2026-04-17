@@ -1,14 +1,38 @@
 ---
-title: "Garantiewet Burgerlijk Overheidspersoneel Indonesië"
+title: "Wet van 11 mei 1950, tot vaststelling van zekere waarborgen jegens bepaalde groepen burgerlijke overheidsdienaren en gewezen burgerlijke overheidsdienaren van Indonesië en hun nagelaten betrekkingen"
 identifier: "BWBR0002060"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002060"
+country: "nl"
+rank: "wet"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002060"
+soort: "wet"
+stam_id: "1313803"
+version_id: "1954852"
+internal_id: "C1954851"
+label_id: "1273354"
+dtd_version: "2.0"
+original_entry_into_force: "1950-06-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002060/2013-01-01/0"
+intitule_bron: "Stb.1950-K 178"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1950-05-11"
+intitule_status: "goed"
+original_publication: "Stb.1950-K 178"
+original_signed_date: "1950-05-11"
+original_effect: "nieuwe-regeling"
+original_dossier: "1499"
+entry_into_force_date: "1950-06-03"
+entry_into_force_dossier: "1499"
+jci_1_3: "jci1.3:c:BWBR0002060&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0002060&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Garantiewet Burgerlijk Overheidspersoneel Indonesië"
+signed_date: "1950-05-11"
+entry_into_force: "1950-06-03"
 ---
-
-# Garantiewet Burgerlijk Overheidspersoneel Indonesië
+# Wet van 11 mei 1950, tot vaststelling van zekere waarborgen jegens bepaalde groepen burgerlijke overheidsdienaren en gewezen burgerlijke overheidsdienaren van Indonesië en hun nagelaten betrekkingen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +40,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is met het oog op de ov
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van het bij deze wet bepaalde wordt verstaan onder:
 
@@ -48,7 +72,7 @@ Voor de toepassing van het bij deze wet bepaalde wordt verstaan onder:
 
 - IX. "Pensioenstichting": Stichting tot verzorging en afwikkeling van pensioensaangelegenheden betreffende gewezen overheidspersoneel van Indonesië en hun nagelaten betrekkingen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met inachtneming van het bepaalde in de volgende leden en in de volgende artikelen garandeert het Rijk aan de overheidsdienaren, die hun in [artikel 1, onder I](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=1&z=2013-01-01&g=2013-01-01) bedoeld dienstverband vóór of op 31 December 1959 vrijwillig beëindigen, dan wel uit dat dienstverband vóór of op 31 December 1959 worden ontslagen anders dan op eigen verzoek, mits dit ontslag niet is te wijten aan eigen schuld, de voldoening van alle rechten en aanspraken, welke hun op grond van die beëindiging bij toepassing van de terzake op 5 Augustus 1949 van kracht zijnde regelingen toekomen, en overigens de gevolgen, als omschreven in de afvloeiingsvoorwaarden.
 
@@ -72,21 +96,21 @@ Onder gezinsleden worden voor de toepassing van dit lid verstaan de leden van ee
 
 4. Op verzoek van betrokkene kan Onze Minister beslissen, dat in de gevallen, waarin recht bestaat op vrije overtocht naar Nederland ten laste van het Rijk, in de plaats van die vrije overtocht ten laste van het Rijk een geldelijke uitkering aan betrokkene wordt toegekend.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Met inachtneming van het bepaalde in de volgende artikelen garandeert het Rijk aan de overheidsdienaren, wier in [artikel 1, onder I](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=1&z=2013-01-01&g=2013-01-01) bedoeld dienstverband na 31 December 1959 wordt voortgezet, gerekend van dat tijdstip de voldoening van alle rechten en aanspraken, welke hun ingevolge het bepaalde in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=2&z=2013-01-01&g=2013-01-01), zouden zijn toegekomen, ingeval zij op 31 December 1959 de dienst zouden hebben beëindigd, met dien verstande, dat zij, zolang zij hun dienstverband met de Republiek Indonesië nog niet daadwerkelijk hebben beëindigd, geen aanspraak kunnen doen gelden op uitkeringen uit hoofde van deze wet.
 
 2. Onverminderd het bepaalde in het vorige lid en met inachtneming van het bepaalde in de volgende artikelen garandeert het Rijk aan de in dat lid bedoelde overheidsdienaren bij daadwerkelijke dienstbeëindiging op een tijdstip na 31 December 1959 met recht op pensioen of aanspraak op onderstand bij wijze van pensioen volgens de op dat tijdstip bij de Republiek Indonesië van kracht zijnde regelingen de voldoening van de eigen pensioenen en onderstanden bij wijze van pensioen, waarop op dat tijdstip volgens de op 5 Augustus 1949 bestaande regelingen recht of aanspraak zou bestaan bij ontslag wegens welbewezen ziels- of lichaamsgebreken.
 
-#### Artikel 3
+##### Artikel 3
 
 Met inachtneming van het bepaalde in de volgende artikelen garandeert het Rijk aan de gewezen overheidsdienaren de voldoening van alle rechten en aanspraken, welke hun op grond van het hun verleende ontslag volgens de ten tijde van dat ontslag van kracht zijnde regelingen toekomen, met dien verstande, dat de garantie voor hen, die op of nà 5 Augustus 1949 zijn of zullen zijn ontslagen, de voldoening van alle rechten en aanspraken omvat, welke hun op grond van het hun verleende ontslag bij toepassing van de terzake op 5 Augustus 1949 van kracht zijnde regelingen toekomen.
 
-#### Artikel 4
+##### Artikel 4
 
 Onverminderd de verplichting tot toekenning en voldoening van weduwenpensioenen en wezenonderstanden, waartoe het Rijk uit anderen hoofde rechtstreeks gehouden is, garandeert het Rijk aan de nagelaten betrekkingen, behoudens en met inachtneming van het bepaalde in de volgende artikelen, de voldoening van alle rechten en aanspraken, welke hun volgens de ten tijde van het overlijden van kracht zijnde regelingen toekomen, met dien verstande, dat de garantie voor de nagelaten betrekkingen van hem, die na 5 Augustus 1949 is of zal zijn overleden, de voldoening van alle rechten en aanspraken omvat, welke hun bij toepassing van de terzake op 5 Augustus 1949 van kracht zijnde regelingen toekomen.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. Bij beëindiging van het dienstverband onder toekenning van een uitkering krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=2&z=2013-01-01&g=2013-01-01) of [2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=2a&z=2013-01-01&g=2013-01-01) behoudt de overheidsdienaar in vaste dienst voor zijn weduwe en wezen recht op pensioen onderscheidenlijk onderstand ten laste van de Pensioenstichting op de voet van de rechten en verplichtingen, verbonden aan het verplichte deelgenootschap in een der voormalige Weduwen- en Wezenfondsen of van het voormalige Europees Locaal Pensioenfonds, zulks gerekend van de datum van die beëindiging.
 
@@ -98,17 +122,17 @@ Onverminderd de verplichting tot toekenning en voldoening van weduwenpensioenen 
 
 5. In de gevallen, waarin in de regelingen op het gebied van weduwen- en wezenuitkeringen bevoegdheden tot afwijking van die regelingen of tot het treffen van een afzonderlijke voorziening waren voorbehouden aan de Kroon of aan de Gouverneur-Generaal, worden deze bevoegdheden met betrekking tot de buiten het grondgebied van de Republiek Indonesië gevestigde weduwen en wezen uitgeoefend door de Raad van Beheer van de Pensioenstichting na voorafgaande goedkeuring van Onze Ministers van Binnenlandse Zaken en van Financiën.
 
-#### Artikel 4b
+##### Artikel 4b
 
 In de gevallen, waarin in de op 5 Augustus 1949 van kracht zijnde regelingen aan de Kroon of aan de Gouverneur-Generaal de bevoegdheid was voorbehouden om ter aanvulling of in afwijking van die regelingen beslissingen te nemen of bijzondere voorzieningen te treffen, worden deze bevoegdheden, behoudens het bepaalde in [artikel 4**a**, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=4a&z=2013-01-01&g=2013-01-01), voor de toepassing van deze wet uitgeoefend door Onze Minister in overeenstemming met Onze Minister van Financiën.
 
-#### Artikel 4c
+##### Artikel 4c
 
 1. Voor de toepassing van deze wet wordt aangenomen, dat bij wijziging of intrekking van de op 5 Augustus 1949 van kracht zijnde bezoldigingsregelingen deze ongewijzigd van kracht zijn gebleven.
 
 2. Op pensioen of onderstand bij wijze van pensioen wordt, indien bij de vaststelling van de grondslagen daarvan rekening is gehouden met bezoldigingen, welke zijn toegekend op grond van na 31 December 1948 geldende bezoldigingregelingen, buiten Indonesië geen duurtetoeslag en kindertoelage toegekend, tenzij het bedrag van dat pensioen of die onderstand minder bedraagt dan het bedrag aan pensioen of onderstand bij wijze van pensioen, dat zou zijn genoten, indien voor de vaststelling van de grondslag uitsluitend rekening zou zijn gehouden met bezoldigingen, toegekend op basis van de vóór 1 Januari 1949 bestaande bezoldigingsregelingen, vermeerderd met de toekomende duurtetoeslag en kindertoelage, in welk geval het verschil tussen beide bedoelde bedragen in de vorm van een duurtetoeslag wordt toegekend.
 
-#### Artikel 4d
+##### Artikel 4d
 
 1. De uitkeringen, waartoe het Rijk uit hoofde van of krachtens deze wet gehouden is, worden, behoudens het bepaalde in lid 4, vastgesteld en toegekend door of namens Onze Minister.
 
@@ -118,17 +142,17 @@ In de gevallen, waarin in de op 5 Augustus 1949 van kracht zijnde regelingen aan
 
 4. De periodieke uitkeringen aan buiten het grondgebied van de Republiek Indonesië gevestigde weduwen en wezen, uit hoofde van of krachtens de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=4&z=2013-01-01&g=2013-01-01) van deze wet gegeven garantie, worden met inachtneming van de door of namens Onze Minister te geven aanwijzingen toegekend door de Raad van Beheer van de Pensioenstichting ten laste van die stichting.
 
-#### Artikel 4e
+##### Artikel 4e
 
 1. Indien een overheidsdienaar of gewezen overheidsdienaar op grond van de dienstbeëindiging rechten of aanspraken heeft op uitkeringen ten laste van de Republiek Indonesië, kan hij door Onze Minister worden verplicht het nodige te verrichten teneinde deze rechten en aanspraken geldend te maken.
 
 2. Bij niet-nakoming van de in het vorige lid bedoelde verplichting, zomede indien door of vanwege de Republiek Indonesië op grond van de dienstbeëindiging uitkeringen zijn of worden toegekend, zullen de garanties volgens door Onze Minister te stellen regelen slechts worden verwezenlijkt, voorzover en voorzolang de vanwege de Republiek Indonesië toekomende dan wel toegekende uitkeringen minder bedragen dan de uitkeringen, waarop uit hoofde van of krachtens deze wet recht of aanspraak bestaat.
 
-#### Artikel 5
+##### Artikel 5
 
 Door Onze Minister kan in overeenstemming met Onze Ministers van Financiën en van Sociale Zaken en Volksgezondheid in bijzondere gevallen worden bepaald, dat de garanties uit hoofde van of krachtens deze wet blijven gelden bij verandering van nationaliteit.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het nominale bedrag van de periodieke uitkeringen, waartoe het Rijk uit hoofde van of krachtens deze wet is gehouden, wordt betaalbaar gesteld:
 
@@ -150,7 +174,7 @@ hetzij, indien de rechthebbende zich binnen een jaar na beëindiging van het kor
 
 6. In bijzondere gevallen kan van het bepaalde in dit artikel door Onze Minister in overeenstemming met Onze Minister van Financiën ten gunste van belanghebbende worden afgeweken.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een overheidsdienaar of gewezen overheidsdienaar, die uit hoofde van of krachtens deze wet ten laste van het Rijk een periodieke uitkering geniet, is, zolang hij de voor normaal pensioen vereiste leeftijd nog niet heeft bereikt, verplicht:
 
@@ -180,7 +204,7 @@ welke bedragen voor ieder minderjarig kind dat tot de betrokkene in familierecht
 
 7. Ter uitvoering van dit artikel kunnen door Onze Minister nadere voorschriften en aanwijzingen, hetzij in het algemeen hetzij voor enig bijzonder geval, worden gegeven. Bij niet- of niet behoorlijke naleving door de belanghebbende van deze voorschriften of aanwijzingen, is het bepaalde in de leden 4 en 5 van overeenkomstige toepassing.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Indien een overheidsdienaar of gewezen overheidsdienaar een periodieke uitkering ten laste van de Republiek Indonesië geniet, is hij bevoegd zich voor de toepassing van deze wet tot de commissie te wenden met het verzoek om te beslissen:
 
@@ -194,7 +218,7 @@ welke bedragen voor ieder minderjarig kind dat tot de betrokkene in familierecht
 
 3. Het bepaalde in [artikel 7, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=7&z=2013-01-01&g=2013-01-01), is op een overheidsdienaar of gewezen overheidsdienaar, bedoeld in lid 1, van overeenkomstige toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Wij stellen een of meer commissies in, die - behalve de andere bevoegdheden en werkzaamheden, welke haar bij of krachtens deze wet zijn of zullen worden verleend of opgedragen - tot taak hebben voor de toepassing van deze wet:
 
@@ -224,7 +248,7 @@ welke bedragen voor ieder minderjarig kind dat tot de betrokkene in familierecht
 
 5. Bij algemene maatregel van bestuur wordt tevens voorzien in de mogelijkheid tot instelling van beroep tegen beslissingen van de commissie.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Onverminderd het bepaalde in lid 5 en met inachtneming van het bepaalde in de [artikelen 4c tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=4c&z=2013-01-01&g=2013-01-01), garandeert het Rijk bij dienstbeëindiging vóór of op 27 December 1954 aan Indonesische staatsburgers, gewezen Nederlanders, die, waren zij Nederlanders gebleven, zouden hebben behoord tot de overheidsdienaren als bedoeld in [artikel 1, onder I](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=1&z=2013-01-01&g=2013-01-01):
 
@@ -240,33 +264,33 @@ welke bedragen voor ieder minderjarig kind dat tot de betrokkene in familierecht
 
 5. De Indonesische staatsburgers, die garanties genieten krachtens het bepaalde in [lid 2 van artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=8a&z=2013-01-01&g=2013-01-01), zoals dat luidde ingevolge de wet van 21 December 1951 (**Stb.** 591), behouden deze garanties, met dien verstande, dat de [artikelen 4a tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=4a&z=2013-01-01&g=2013-01-01) van overeenkomstige toepassing zijn.
 
-#### Artikel 8b
+##### Artikel 8b
 
 Voor gevallen, waarin deze wet of de afvloeiingsvoorwaarden niet of niet naar billijkheid voorzien, kunnen door Ons op voordracht van Onze Ministers ten behoeve van de overheidsdienaren, gewezen overheidsdienaren en nagelaten betrekkingen aanvullende garanties van het Rijk worden vastgesteld.
 
-#### Artikel 8c
+##### Artikel 8c
 
 De garanties strekken zich niet uit over het recht op kindertoelage voor kinderen, voor wie aanspraak bestaat op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), de Kinderbijslagwet voor loontrekkenden, of de algemene maatregel van bestuur bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=10&z=2013-01-01&g=2013-01-01) van laatstgenoemde wet, terwijl de kindertoelage voor die kinderen voor de berekening van de in het [tweede lid van artikel 4**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=4c&z=2013-01-01&g=2013-01-01) bedoelde duurtetoeslag buiten aanmerking wordt gelaten.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Door Ons kunnen op voordracht van Onze Ministers overeenkomstige garanties als bij de voorgaande artikelen van deze wet zijn verleend, worden vastgesteld ten behoeve van andere Nederlanders, dan genoemd in [artikel 1, onder I of II](https://wetten.overheid.nl/jci1.3:c:BWBR0002060&artikel=1&z=2013-01-01&g=2013-01-01), zomede in bijzondere gevallen ten behoeve van niet-Nederlanders, voor zover betrokkenen een functie bekleden of hebben bekleed, gelegen in de overheidssfeer van Indonesië.
 
 2. Aan de vaststelling van de in het vorige lid bedoelde garanties kunnen door Ons voorwaarden worden verbonden.
 
-#### Artikel 9a
+##### Artikel 9a
 
 Tenzij bij of krachtens deze wet uitdrukkelijk anders is bepaald, worden de ter uitvoering van deze wet te nemen beslissingen genomen door Onze Minister.
 
-#### Artikel 9b
+##### Artikel 9b
 
 Vervallen
 
-#### Artikel 9c
+##### Artikel 9c
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Deze wet treedt in werking met ingang van de dag, volgende op die van haar afkondiging. Zij kan worden aangehaald als "Garantiewet Burgerlijk Overheidspersoneel Indonesië".
 

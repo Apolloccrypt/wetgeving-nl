@@ -1,13 +1,39 @@
 ---
-title: "Regeling teelt"
+title: "Regeling van de Minister van Economische Zaken van 10 december 2014, nr. WJZ/14148909, houdende regels inzake de teelt van gewassen (Regeling teelt)"
 identifier: "BWBR0036074"
-categorie: "Overig"
-publicatiedatum: 2015-11-26
-laatste_update: 2015-11-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036074"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-11-26"
+last_updated: "2015-11-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036074"
+soort: "ministeriele-regeling"
+stam_id: "12925213"
+version_id: "22006162"
+internal_id: "C31558361"
+label_id: "12894474"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036074/2015-11-26/0"
+intitule_bron: "Stcrt.2014-35163"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-10"
+intitule_published: "2014-12-29"
+intitule_in_force: "2014-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-35163"
+original_signed_date: "2014-12-10"
+original_published_date: "2014-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-35163"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0036074&z=2015-11-26&g=2015-11-26"
+jci_1_0: "1.0:c:BWBR0036074&g=2015-11-26"
+citeertitel_status: "officieel"
+short_title: "Regeling teelt"
+signed_date: "2014-12-10"
+entry_into_force: "2015-01-01"
 ---
-
 # Regeling van de Minister van Economische Zaken van 10 december 2014, nr. WJZ/14148909, houdende regels inzake de teelt van gewassen (Regeling teelt)
 
 Gelet op de [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=6a), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=6b) en 6c van het [Besluit verhandeling teeltmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0019210);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -52,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Gebruik van teeltmateriaal
 
-#### Artikel 2
+##### Artikel 2
 
 1. Landbouwzaaizaad dat ingevolge [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&artikel=35), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&artikel=42), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&artikel=48) of [53 van de Regeling verhandeling teeltmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&artikel=53) dient te worden goedgekeurd, wordt slechts voor zaaidoeleinden gebruikt indien het overeenkomstig het desbetreffende artikel is goedgekeurd.
 
@@ -60,11 +86,11 @@ In deze regeling wordt verstaan onder:
 
 3. Het eerste lid is niet van toepassing op het gebruik van lijnzaad van vezelvlas, dat een vlasteler heeft geoogst van, en uitzaait op, cultuurgrond waarvan hij de eigenaar is of die hij voor langer dan een jaar zonder onderbreking in gebruik heeft.
 
-#### Artikel 3
+##### Artikel 3
 
 De opslag en bewerking van landbouwzaaizaad als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036074&hoofdstuk=2&artikel=2&z=2015-11-26&g=2015-11-26), dat niet is goedgekeurd en dat wordt gebruikt overeenkomstig artikel 2, tweede of derde lid, wordt zodanig ingericht dat geen vermenging van partijen zaaizaad van verschillende landbouwers plaatsvindt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Degene die landbouwzaaizaad als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036074&hoofdstuk=2&artikel=2&z=2015-11-26&g=2015-11-26) dat niet is goedgekeurd en dat wordt gebruikt overeenkomstig artikel 2, tweede of derde lid, bewerkt, houdt een dagelijkse administratie bij waaruit voor elke aangevoerde, voorhanden of in voorraad zijnde, of teruggeleverde partij landbouwzaaizaad blijkt:
 
@@ -80,7 +106,7 @@ De opslag en bewerking van landbouwzaaizaad als bedoeld in [artikel 2, eerste li
 
 2. De administratie, bedoeld in het eerste lid, wordt gedurende ten minste vijf jaren in chronologische volgorde bewaard.
 
-#### Artikel 5
+##### Artikel 5
 
 Op verzoek van de Minister doet degene die landbouwzaaizaden gebruikt, opslaat, bewerkt, of in de handel brengt mededeling van:
 
@@ -90,13 +116,13 @@ Op verzoek van de Minister doet degene die landbouwzaaizaden gebruikt, opslaat, 
 
 - c. de opslag en de in- of verkoop van landbouwzaaizaden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De ggo-teler meldt tijdig schriftelijk aan telers waarvan de percelen binnen de afstanden, bedoeld in [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036074&hoofdstuk=2&artikel=7&z=2015-11-26&g=2015-11-26), van de te telen gg-gewassen liggen, welke gg-gewassen hij voornemens is te gaan telen. Aan de verplichting van tijdigheid is niet voldaan na het passeren van de datum van 31 januari van het jaar waarin de ggo-teler van plan is de gg-gewassen te telen.
 
 2. De ggo-vrije teler of de niet-ggo teler die een melding als bedoeld in het eerste lid heeft ontvangen en die voornemens is dezelfde plantensoort te gaan telen, meldt dit schriftelijk binnen twee weken na ontvangst van de melding, bedoeld in het eerste lid, aan de ggo-teler.
 
-#### Artikel 7
+##### Artikel 7
 
 De teler van gg-gewassen neemt tenminste de volgende isolatieafstanden in acht:
 
@@ -104,7 +130,7 @@ De teler van gg-gewassen neemt tenminste de volgende isolatieafstanden in acht:
 
 - b. ten aanzien van ggo-vrije telers: 10 meter voor aardappelen, 3 meter voor suikerbieten en 250 meter voor maïs.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De ggo-teler, niet-ggo teler en ggo-vrije teler nemen maatregelen om de producten van gg-gewassen en niet gg-gewassen tijdens teelt, bewerking, verwerking, transport en opslag strikt te scheiden.
 
@@ -118,21 +144,21 @@ De teler van gg-gewassen neemt tenminste de volgende isolatieafstanden in acht:
 
 ### Hoofdstuk 3. Gebruik van landbouwgronden
 
-#### Artikel 9
+##### Artikel 9
 
 Degene die landbouwgewassen teelt bestrijdt de wilde haverplanten die voorkomen op in zijn gebruik zijnde landbouwgrond effectief voordat het zaad begint uit te vallen, doch in de provincies Utrecht, Zuid-Holland, Gelderland, Noord-Brabant, Zeeland en Limburg uiterlijk vóór 1 juli en in de provincies Groningen, Friesland, Drenthe, Flevoland, Overijssel en Noord-Holland uiterlijk vóór 15 juli van het lopende kalenderjaar.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Archiefbescheiden van de bedrijfslichamen betreffende zaken die op grond van deze regeling worden behartigd door de Minister van Economische Zaken, worden overgedragen aan de Minister van Economische Zaken, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking met ingang van 1 januari 2015.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling teelt.
 

@@ -1,14 +1,42 @@
 ---
-title: "Wet uitwisseling inlichtingen over rulings"
+title: "Wet van 21 december 2016 tot wijziging van de Wet op de internationale bijstandsverlening bij de heffing van belastingen in verband met de automatische uitwisseling van inlichtingen over grensoverschrijdende rulings en verrekenprijsafspraken (Wet uitwisseling inlichtingen over rulings)"
 identifier: "BWBR0038938"
-categorie: "Overig"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038938"
+country: "nl"
+rank: "wet"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038938"
+soort: "wet"
+stam_id: "13837403"
+version_id: "23756622"
+internal_id: "C34188591"
+label_id: "13802814"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038938/2017-01-01/0"
+intitule_bron: "Stb.2016-543"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-12-21"
+intitule_published: "2016-12-29"
+intitule_in_force: "2016-12-29"
+intitule_status: "goed"
+original_publication: "Stb.2016-543"
+original_signed_date: "2016-12-21"
+original_published_date: "2016-12-29"
+original_effect: "nieuwe-regeling"
+original_dossier: "34527"
+original_url_id: "stb-2016-543"
+entry_into_force_date: "2017-01-01"
+entry_into_force_dossier: "34527"
+jci_1_3: "jci1.3:c:BWBR0038938&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBR0038938&g=2017-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet uitwisseling inlichtingen over rulings"
+signed_date: "2016-12-21"
+entry_into_force: "2017-01-01"
 ---
-
-# Wet uitwisseling inlichtingen over rulings
+# Wet van 21 december 2016 tot wijziging van de Wet op de internationale bijstandsverlening bij de heffing van belastingen in verband met de automatische uitwisseling van inlichtingen over grensoverschrijdende rulings en verrekenprijsafspraken (Wet uitwisseling inlichtingen over rulings)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,15 +44,15 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is voorzieningen te tre
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
-#### Artikel III
+##### Artikel III
 
 1. [Artikel 6d van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](onbekend) is van toepassing op voorafgaande grensoverschrijdende rulings en voorafgaande verrekenprijsafspraken die na 31 december 2016 zijn afgegeven, gemaakt, gewijzigd of hernieuwd.
 
@@ -34,11 +62,11 @@ Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belast
 
 4. De [artikelen 2b](onbekend) en [2c van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](onbekend) zijn van overeenkomstige toepassing.
 
-#### Artikel IV
+##### Artikel IV
 
 Deze wet treedt in werking met ingang van 1 januari 2017.
 
-#### Artikel V
+##### Artikel V
 
 Deze wet wordt aangehaald als: Wet uitwisseling inlichtingen over rulings.
 

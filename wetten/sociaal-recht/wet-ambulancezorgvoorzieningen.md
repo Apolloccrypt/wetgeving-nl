@@ -1,14 +1,41 @@
 ---
-title: "Wet ambulancezorgvoorzieningen"
+title: "Wet van 9 juli 2020, houdende regels inzake de organisatie, beschikbaarheid en kwaliteit van ambulancevoorzieningen (Wet ambulancezorgvoorzieningen)"
 identifier: "BWBR0043925"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-07-05
-laatste_update: 2025-07-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043925"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-05"
+last_updated: "2025-07-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043925"
+soort: "wet"
+stam_id: "15575373"
+version_id: "26910732"
+internal_id: "C38520251"
+label_id: "15517204"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043925/2025-07-05/0"
+intitule_bron: "Stb.2020-275"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-07-09"
+intitule_published: "2020-07-22"
+intitule_in_force: "2020-12-02"
+intitule_status: "goed"
+original_publication: "Stb.2020-275"
+original_signed_date: "2020-07-09"
+original_published_date: "2020-07-22"
+original_effect: "nieuwe-regeling"
+original_dossier: "35471"
+original_url_id: "stb-2020-275"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0043925&z=2025-07-05&g=2025-07-05"
+jci_1_0: "1.0:c:BWBR0043925&g=2025-07-05"
+citeertitel_status: "officieel"
+short_title: "Wet ambulancezorgvoorzieningen"
+signed_date: "2020-07-09"
+entry_into_force: "2021-01-01"
 ---
-
-# Wet ambulancezorgvoorzieningen
+# Wet van 9 juli 2020, houdende regels inzake de organisatie, beschikbaarheid en kwaliteit van ambulancevoorzieningen (Wet ambulancezorgvoorzieningen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,19 +65,19 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 2. Deze wet is niet van toepassing op ambulancezorg met gebruikmaking van militaire ambulances.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van deze wet is het grondgebied van Nederland verdeeld in regio’s overeenkomstig de verdeling, bedoeld in [artikel 8 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=8).
 
 ### Hoofdstuk 2. De organisatie van de ambulancevoorzieningen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister draagt zorg voor de duurzame veiligstelling van ambulancevoorzieningen.
 
 2. De duurzame veiligstelling van ambulancevoorzieningen geldt als een dwingende reden van groot openbaar belang.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De zorg voor permanente beschikbaarstelling van voldoende en kwalitatief goede ambulancevoorzieningen berust bij de Regionale Ambulancevoorzieningen, die bevoegd en verplicht zijn tot het verlenen of doen verlenen van ambulancezorg, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=5&z=2025-07-05&g=2025-07-05).
 
@@ -58,7 +85,7 @@ Voor de toepassing van deze wet is het grondgebied van Nederland verdeeld in reg
 
 3. Onze Minister doet in de Staatscourant mededeling welke rechtspersoon in een regio als Regionale Ambulancevoorziening is aangewezen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ambulancezorg is zorg die beroepsmatig wordt verleend, die bestaat uit:
 
@@ -78,7 +105,7 @@ Voor de toepassing van deze wet is het grondgebied van Nederland verdeeld in reg
 
 4. Een krachtens het tweede lid vast te stellen ministeriële regeling wordt aan beide kamers der Staten-Generaal overgelegd. De ministeriële regeling wordt niet eerder vastgesteld dan vier weken na de overlegging van het ontwerp.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het is anderen dan de Regionale Ambulancevoorziening verboden ambulancezorg te verlenen.
 
@@ -88,7 +115,7 @@ Voor de toepassing van deze wet is het grondgebied van Nederland verdeeld in reg
 
 4. Voor zover de Regionale Ambulancevoorziening de ambulancezorg, dan wel een deel ervan, laat uitvoeren door een derde, zorgt de Regionale Ambulancevoorziening ervoor dat deze derde handelt volgens de eisen die aan de Regionale Ambulancevoorziening zijn gesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 De Regionale Ambulancevoorzieningen in het werkgebied van een meldkamer sluiten een convenant, dat in ieder geval afspraken bevat over de uitvoering van de meldkamerfunctie.
 
@@ -96,7 +123,7 @@ De Regionale Ambulancevoorzieningen in het werkgebied van een meldkamer sluiten 
 
 #### Paragraaf 3.1. Nadere eisen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij ministeriële regeling worden eisen vastgesteld waaraan de Regionale Ambulancevoorziening voldoet. De eisen kunnen per regio verschillen.
 
@@ -104,7 +131,7 @@ De Regionale Ambulancevoorzieningen in het werkgebied van een meldkamer sluiten 
 
 #### Paragraaf 3.2. Eisen met betrekking tot de kwaliteit van de ambulancezorg
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het uitvoeren van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05) gaat gepaard met de systematische bewaking, beheersing en verbetering van de kwaliteit van de werkzaamheden en de verlening van ambulancezorg.
 
@@ -120,7 +147,7 @@ De Regionale Ambulancevoorzieningen in het werkgebied van een meldkamer sluiten 
 
 4. Het bestuur van de Regionale Ambulancevoorziening zendt aan Onze Minister het rapport van de visitatiecommissie, samen met het standpunt van het bestuur van de Regionale Ambulancevoorziening daarover. Het bestuur van de Regionale Ambulancevoorziening maakt het rapport en zijn standpunt openbaar.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Regionale Ambulancevoorziening ontvangt van afdelingen spoedeisende hulp van ziekenhuizen ten behoeve van kwaliteitsbewaking, -beheersing en – bevordering van de ambulancezorg in het kader van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05), kosteloos alle daartoe noodzakelijke gegevens, waaronder persoonsgegevens, waaronder begrepen gegevens over de gezondheid als bedoeld in artikel 4, onderdeel 15, van de Algemene verordening gegevensbescherming van de cliënt.
 
@@ -134,7 +161,7 @@ De Regionale Ambulancevoorzieningen in het werkgebied van een meldkamer sluiten 
 
 - b. wat de bewaartermijn van de op grond van het eerste lid aan de Regionale Ambulancevoorziening verstrekte gegevens is.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Regionale Ambulancevoorziening is verantwoordelijk voor een adequate en integrale inbedding van de medische verantwoordelijkheid in de organisatie.
 
@@ -146,13 +173,13 @@ De Regionale Ambulancevoorzieningen in het werkgebied van een meldkamer sluiten 
 
 #### Paragraaf 3.3. Eisen met betrekking tot de transparantie
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Regionale Ambulancevoorziening verstrekt Onze Minister ten behoeve van zijn zorg voor de duurzame veiligstelling van ambulancevoorzieningen op verzoek gegevens over het verrichten van ambulancezorg en de kosten die daarmee verband houden.
 
 2. Bij ministeriële regeling kunnen nadere eisen worden gesteld over de gegevens, bedoeld in het eerste lid, alsmede eisen worden gesteld over de wijze van verstrekking.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien de Regionale Ambulancevoorziening andere activiteiten, dan de taak genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05), verricht, onderscheidt zij, in afwijking van [artikel 40a van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40a), in ieder geval in financiële zin die activiteiten van de activiteiten ter uitvoering van haar taak, bedoeld in artikel 4, eerste lid.
 
@@ -166,7 +193,7 @@ De Regionale Ambulancevoorzieningen in het werkgebied van een meldkamer sluiten 
 
 #### Paragraaf 3.4. Eisen met betrekking tot de interne organisatie van de Regionale Ambulancevoorzieningen
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Regionale Ambulancevoorziening met privaatrechtelijke rechtspersoonlijkheid wordt bestuurd door het bestuur onder toezicht van een interne toezichthouder.
 
@@ -180,7 +207,7 @@ De Regionale Ambulancevoorzieningen in het werkgebied van een meldkamer sluiten 
 
 6. De statuten kunnen aanvullende bepalingen omtrent de taak en de bevoegdheden van de interne toezichthouder bevatten, alsmede de wijze waarop conflicten tussen de interne toezichthouder en het bestuur worden geregeld.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het bestuur van de Regionale Ambulancevoorziening met privaatrechtelijke rechtspersoonlijkheid verstrekt de interne toezichthouder de voor de uitoefening van diens taak noodzakelijke inlichtingen.
 
@@ -202,23 +229,23 @@ De Regionale Ambulancevoorzieningen in het werkgebied van een meldkamer sluiten 
 
 - h. gelijktijdige beëindiging of beëindiging binnen een kort tijdsbestek van de arbeidsovereenkomst van een aanmerkelijk aantal werknemers, of van het verbreken van een overeenkomst met een aanmerkelijk aantal personen dat als zelfstandige of als samenwerkingsverband werkzaam is voor de Regionale Ambulancevoorziening.
 
-#### Artikel 16
+##### Artikel 16
 
 [Artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.4&artikel=15&z=2025-07-05&g=2025-07-05) is van overeenkomstige toepassing op Regionale Ambulancevoorzieningen met publiekrechtelijke rechtspersoonlijkheid, voor zover het de uitoefening van de ambulancezorg door de Regionale Ambulancevoorziening betreft, met dien verstande dat voor «de interne toezichthouder» wordt gelezen «het algemeen bestuur» en voor «het bestuur» telkens «het dagelijks bestuur».
 
 #### Paragraaf 3.5. Eisen met betrekking tot de zeggenschap over een Regionale Ambulancevoorziening
 
-#### Artikel 17
+##### Artikel 17
 
 De Regionale Ambulancevoorziening meldt aan Onze Minister het wijzigen van de statuten of gemeenschappelijke regeling en het sluiten van een overeenkomst waardoor de zeggenschap over de Regionale Ambulancevoorziening geheel of gedeeltelijk door of tezamen met derden wordt uitgeoefend, dan wel waardoor deze feitelijk daartoe in de gelegenheid worden gesteld, voordat het rechtsgevolg krijgt.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het is verboden een rechtshandeling te verrichten, die tot gevolg heeft dat middellijk of onmiddellijk, alleen of tezamen met derden, door anderen geheel of gedeeltelijk zeggenschap wordt verkregen over een Regionale Ambulancevoorziening of een deel daarvan, dan wel over de bedrijfsvoering van een Regionale Ambulancevoorziening of een deel van die bedrijfsvoering.
 
 2. Een Regionale Ambulancevoorziening fuseert niet met een andere Regionale Ambulancevoorziening of wijzigt niet van rechtsvorm zonder voorafgaande toestemming van Onze Minister.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De Regionale Ambulancevoorziening verkeert in een dusdanige financiële staat dat deze de continuïteit van de ambulancezorg als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05) en het voldoen aan de bij of krachtens deze wet gestelde eisen niet in gevaar brengt.
 
@@ -228,7 +255,7 @@ De Regionale Ambulancevoorziening meldt aan Onze Minister het wijzigen van de st
 
 ### Hoofdstuk 4. Bijzondere ambulancezorg
 
-#### Artikel 20
+##### Artikel 20
 
 1. Bij ministeriële regeling kan, ten aanzien van bij de regeling aangewezen ambulancezorg en onder bij de regeling vast te stellen eisen, vrijstelling worden verleend van bepalingen van deze wet.
 
@@ -236,13 +263,13 @@ De Regionale Ambulancevoorziening meldt aan Onze Minister het wijzigen van de st
 
 ### Hoofdstuk 5. Toezicht en handhaving
 
-#### Artikel 21
+##### Artikel 21
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet met uitzondering van [artikel 10, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2025-07-05&g=2025-07-05), zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
 2. In afwijking van het eerste lid, zijn met het toezicht op de naleving van het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.3&artikel=13&z=2025-07-05&g=2025-07-05) en het bepaalde bij of krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.5&artikel=19&z=2025-07-05&g=2025-07-05) belast de ambtenaren van de Nederlandse Zorgautoriteit, met dien verstande dat met het toezicht op de naleving van het bepaalde in artikel 19, eerste en tweede lid, tevens de in het eerste lid bedoelde ambtenaren belast zijn.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Indien Onze Minister van oordeel is dat het bepaalde bij of krachtens deze wet niet of in onvoldoende mate of op onjuiste wijze wordt nageleefd, kan hij de Regionale ambulancevoorziening een schriftelijke aanwijzing geven.
 
@@ -256,19 +283,19 @@ De Regionale Ambulancevoorziening meldt aan Onze Minister het wijzigen van de st
 
 6. Onze Minister regelt bij de aanstelling de bevoegdheden en beloning van de bewindvoerder. [Artikel 2:22, derde tot en met zesde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=22), is van overeenkomstige toepassing, met dien verstande dat voor «de rechter» telkens wordt gelezen «Onze Minister».
 
-#### Artikel 23
+##### Artikel 23
 
 1. Onze Minister is bevoegd tot het opleggen van een last onder dwangsom ter handhaving van het bepaalde bij of krachtens de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=6&z=2025-07-05&g=2025-07-05), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=7&z=2025-07-05&g=2025-07-05), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2025-07-05&g=2025-07-05), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.3&artikel=12&z=2025-07-05&g=2025-07-05), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3&paragraaf=3.5&artikel=18&z=2025-07-05&g=2025-07-05), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=4&artikel=20&z=2025-07-05&g=2025-07-05) en [25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=5&artikel=25&z=2025-07-05&g=2025-07-05).
 
 2. Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=5&artikel=22&z=2025-07-05&g=2025-07-05) en de bij [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) gestelde verplichtingen.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Onze Minister is bevoegd tot het opleggen van een bestuurlijke boete ter handhaving van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=6&z=2025-07-05&g=2025-07-05).
 
 2. De op grond van het eerste lid op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-#### Artikel 25
+##### Artikel 25
 
 1. Onze Minister kan de aanwijzing, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05), wijzigen of intrekken indien:
 
@@ -296,45 +323,45 @@ De Regionale Ambulancevoorziening meldt aan Onze Minister het wijzigen van de st
 
 ### Hoofdstuk 6. Wijzigings-, overgangs- en slotbepalingen
 
-#### Artikel 26
+##### Artikel 26
 
 Wijzigt de Gemeentewet.
 
-#### Artikel 27
+##### Artikel 27
 
 Wijzigt de Wet Veiligheidsregio's.
 
-#### Artikel 28
+##### Artikel 28
 
 Wijzigt de Politiewet 2020.
 
-#### Artikel 29
+##### Artikel 29
 
 Wijzigt de Wet marktordening gezondheidszorg.
 
-#### Artikel 30
+##### Artikel 30
 
 Wijzigt de Wet verplichte geestelijke gezondheidszorg.
 
-#### Artikel 31
+##### Artikel 31
 
 Aanwijzingen verleend bij of krachtens [artikel 6 van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=6), gelden na inwerkingtreding van deze wet als aanwijzing per regio van de Regionale Ambulancevoorziening, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=4&z=2025-07-05&g=2025-07-05).
 
-#### Artikel 31a
+##### Artikel 31a
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk, waarbij in het bijzonder aandacht wordt besteed aan het lerend vermogen en innovatie bij de Regionale Ambulancevoorzieningen.
 
-#### Artikel 32
+##### Artikel 32
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 33
+##### Artikel 33
 
 Deze wet wordt aangehaald als: Wet ambulancezorgvoorzieningen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 31b
+##### Artikel 31b
 
 [Artikel 18, tweede lid, van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=18), zoals dat luidde onmiddellijk voor het tijdstip van inwerkingtreding van deze wet, blijft van toepassing met betrekking tot de afwikkeling van aanvragen om een subsidie als bedoeld in [artikel 12a van de Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757&artikel=12a), ingediend vóór inwerkingtreding van de [Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557).
 

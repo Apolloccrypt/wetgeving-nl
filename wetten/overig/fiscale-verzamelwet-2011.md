@@ -1,14 +1,42 @@
 ---
-title: "Fiscale verzamelwet 2011"
+title: "Wet van 24 november 2011 tot wijziging van enkele belastingwetten en enige andere wetten (Fiscale verzamelwet 2011)"
 identifier: "BWBR0030688"
-categorie: "Overig"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030688"
+country: "nl"
+rank: "wet"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030688"
+soort: "wet"
+stam_id: "11507153"
+version_id: "18935862"
+internal_id: "C26428821"
+label_id: "11480674"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030688/2013-01-01/0"
+intitule_bron: "Stb.2011-562"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-11-24"
+intitule_published: "2011-12-02"
+intitule_in_force: "2011-12-02"
+intitule_status: "goed"
+original_publication: "Stb.2011-562"
+original_signed_date: "2011-11-24"
+original_published_date: "2011-12-02"
+original_effect: "nieuwe-regeling"
+original_dossier: "32810"
+original_url_id: "stb-2011-562"
+entry_into_force_date: "2012-01-01"
+entry_into_force_dossier: "32810"
+jci_1_3: "jci1.3:c:BWBR0030688&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0030688&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Fiscale verzamelwet 2011"
+signed_date: "2011-11-24"
+entry_into_force: "2012-01-01"
 ---
-
-# Fiscale verzamelwet 2011
+# Wet van 24 november 2011 tot wijziging van enkele belastingwetten en enige andere wetten (Fiscale verzamelwet 2011)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,109 +44,109 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is in een aantal belast
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Successiewet 1956.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet belasting zware motorrijtuigen.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Algemene douanewet.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Wet waardering onroerende zaken.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Wet wederzijdse bijstand bij de invordering van belastingschulden en enkele andere schuldvorderingen.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Wet OM-afdoening.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Natuurschoonwet 1928.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Zorgverzekeringswet.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Belastingwet BES.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Douane- en Accijnswet BES.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Wijzigingswet Wet op de internationale bijstandsverlening bij de heffing van belastingen en Wet inkomstenbelasting 2001 (implementatie spaarrenterichtlijn).
 
-#### Artikel XXV
+##### Artikel XXV
 
 1. Voor de periode van 1 januari 2009 tot en met 31 december 2011 vinden [artikel 3.14, eerste lid, onderdeel g, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.14) en [artikel 15b, eerste lid, onderdeel q, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=15b) zoals dit luidde van 1 januari 2009 tot en met 31 december 2010, uitsluitend toepassing indien de in die artikelen bedoelde dieren op grond van de [Regeling agressieve dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005841), zoals deze luidde op 31 december 2008, werden aangeduid als dieren als bedoeld in [artikel 73, eerste lid, van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=73).
 
 2. Voor de periode van 1 januari 2011 tot en met 31 december 2011 vindt [artikel 31, vierde lid, onderdeel g, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) uitsluitend toepassing indien de in dat artikel bedoelde dieren op grond van de [Regeling agressieve dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005841), zoals deze luidde op 31 december 2008, werden aangeduid als dieren als bedoeld in [artikel 73, eerste lid, van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=73).
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 1. Deze wet treedt in werking met ingang van 1 januari 2012.
 
@@ -138,7 +166,7 @@ Wijzigt de Wijzigingswet Wet op de internationale bijstandsverlening bij de heff
 
 9. In afwijking van het eerste lid treedt [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0030688&artikel=XXI&z=2013-01-01&g=2013-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Deze wet wordt aangehaald als: Fiscale verzamelwet 2011.
 

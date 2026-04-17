@@ -1,18 +1,40 @@
 ---
 title: "Overeenkomst tot oprichting van de Interamerikaanse Ontwikkelingsbank"
 identifier: "BWBV0004920"
-categorie: "Internationaal recht"
-publicatiedatum: 1977-01-10
-laatste_update: 1977-01-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004920"
+country: "nl"
+rank: "verdrag"
+publication_date: "1977-01-10"
+last_updated: "1977-01-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004920"
+soort: "verdrag"
+stam_id: "10004386063"
+version_id: "10004589452"
+internal_id: "C10006989251"
+label_id: "10004371624"
+dtd_version: "2.0"
+original_entry_into_force: "1977-01-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004920/1977-01-10/0"
+intitule_bron: "Trb.1976-142"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1976-09-24"
+intitule_in_force: "1977-02-02"
+intitule_status: "goed"
+original_publication: "Trb.1976-142"
+original_published_date: "1976-09-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1976-142"
+entry_into_force_date: "1977-01-10"
+jci_1_3: "jci1.3:c:BWBV0004920&z=1977-01-10&g=1977-01-10"
+jci_1_0: "1.0:c:BWBV0004920&g=1977-01-10"
+citeertitel_status: "redactioneel"
+entry_into_force: "1977-01-10"
 ---
-
 # Overeenkomst tot oprichting van de Interamerikaanse Ontwikkelingsbank
 
 De landen namens welke deze Overeenkomst is ondertekend, komen overeen de Interamerikaanse Ontwikkelingsbank op te richten, die werkzaam zal zijn in overeenstemming met de volgende bepalingen:
 
-#### Artikel I. DOEL EN TAKEN
+##### Artikel I. DOEL EN TAKEN
 
 Sectie 1. **Doel**
 
@@ -34,7 +56,7 @@ Sectie 2. **Taken**
 
 - (b). Bij het uitvoeren van haar taken werkt de Bank zoveel mogelijk samen met nationale en internationale instellingen alsmede met particuliere verschaffers van investeringskapitaal.
 
-#### Artikel II. LIDMAATSCHAP EN KAPITAAL VAN DE BANK
+##### Artikel II. LIDMAATSCHAP EN KAPITAAL VAN DE BANK
 
 Sectie 1. **Lidmaatschap**
 
@@ -108,7 +130,7 @@ In deze Overeenkomst wordt onder de term „gewone kapitaalmiddelen” van de Ba
 
 - (v). alle andere inkomsten uit enige van de bovenvermelde middelen.
 
-#### Artikel IIA. INTERREGIONAAL KAPITAAL VAN DE BANK
+##### Artikel IIA. INTERREGIONAAL KAPITAAL VAN DE BANK
 
 Sectie 1. **Interregionaal maatschappelijk kapitaal**
 
@@ -158,7 +180,7 @@ In deze Overeenkomst wordt onder de term „interregionale kapitaalmiddelen” v
 
 - (v). alle andere inkomsten uit enige van de bovenvermelde middelen.
 
-#### Artikel III. WERKZAAMHEDEN
+##### Artikel III. WERKZAAMHEDEN
 
 Sectie 1. **Gebruik der middelen**
 
@@ -270,7 +292,7 @@ Sectie 13. **Bijzondere reserve**
 
 Het bedrag van de door de Bank krachtens sectie 12 van dit artikel ontvangen provisies wordt op een bijzondere reserverekening geboekt, die beschikbaar wordt gehouden om verplichtingen van de Bank overeenkomstig artikel VII, sectie 3 (b) (i) na te komen. De Raad van Bewindvoerders kan bepalen in welke liquide vorm, toegestaan krachtens deze Overeenkomst, de bijzondere reserve zal worden aangehouden.
 
-#### Artikel IV. FONDS VOOR SPECIALE OPERATIES
+##### Artikel IV. FONDS VOOR SPECIALE OPERATIES
 
 Sectie 1. **Instelling, doel en taken**
 
@@ -372,7 +394,7 @@ Sectie 12. **Opschorting en beëindiging**
 
 De bepalingen van artikel X zijn ook van toepassing op het Fonds, waarbij de verwijzingen naar de Bank, haar kapitaalmiddelen en onderscheiden krediteuren worden vervangen door die welke betrekking hebben op het Fonds en zijn middelen en onderscheiden krediteuren.
 
-#### Artikel V. VALUTA'S
+##### Artikel V. VALUTA'S
 
 Sectie 1. **Gebruik van valuta's**
 
@@ -414,7 +436,7 @@ Sectie 4. **Methoden ter bewaring van valuta's**
 
 De Bank aanvaardt van een lid promessen of soortgelijke waardepapieren, uitgegeven door de regering van het lid of door de door dat lid aangewezen depositaris, ter vervanging van enig deel van de valuta van het lid dat de 50 procent uitmaakt van zijn inschrijving op het gewoon maatschappelijk kapitaal van de Bank en de 50 procent van zijn inschrijving op de middelen van het Fonds, welke ingevolge de bepalingen van onderscheidenlijk artikel II en artikel IV, door ieder lid moeten worden betaald in zijn nationale valuta, mits die valuta niet benodigd is door de Bank voor het uitvoeren van haar werkzaamheden. Dergelijke promessen of waardepapieren zijn niet-verhandelbaar, niet-rentedragend en op verzoek betaalbaar aan de Bank tegen hun pari-waarde. Op dezelfde voorwaarden aanvaardt de Bank ook zodanige promessen als waardepapieren ter vervanging van enig deel van de inschrijving van een lid op het interregionale kapitaal ten aanzien van welk deel de voorwaarden van de inschrijving geen betaling in gereed geld vereisen.
 
-#### Artikel VI. TECHNISCHE BIJSTAND
+##### Artikel VI. TECHNISCHE BIJSTAND
 
 Sectie 1. **Verlening van technische adviezen en bijstand**
 
@@ -434,7 +456,7 @@ Sectie 3. **Kosten**
 
 - (b). De uit het verlenen van technische bijstand voortvloeiende kosten die niet worden betaald door de ontvangers, worden gedekt uit het netto-inkomen van de gewone kapitaalmiddelen, de interregionale kapitaalmiddelen, of het Fonds. Gedurende de eerste drie jaar van de werkzaamheden van de Bank kan echter een bedrag van in totaal maximaal 3 procent van de oorspronkelijke middelen van het Fonds worden gebruikt om zodanige kosten te dekken.
 
-#### Artikel VII. DIVERSE BEVOEGDHEDEN EN VERDELING VAN WINSTEN
+##### Artikel VII. DIVERSE BEVOEGDHEDEN EN VERDELING VAN WINSTEN
 
 Sectie 1. **Diverse bevoegdheden van de Bank**
 
@@ -494,7 +516,7 @@ Sectie 4. **Verdeling of overdracht van netto-winsten en surplus**
 
 - (d). Betalingen ingevolge het bepaalde onder letter (a) van deze sectie worden gedaan op de wijze en in de valuta of valuta's die de Raad van Bestuur bepaalt. Indien zodanige betalingen aan een lid worden gedaan in andere valuta's dan zijn eigen valuta, mag geen enkel lid beperkingen opleggen aan de overdracht van zodanige valuta's en het gebruik ervan door het ontvangende land.
 
-#### Artikel VIII. ORGANISATIE EN BESTUUR
+##### Artikel VIII. ORGANISATIE EN BESTUUR
 
 Sectie 1. **Structuur van de Bank**
 
@@ -604,7 +626,7 @@ Sectie 6. **Openbaarmaking van verslagen en verschaffing van informatie**
 
 - (b). De Bank kan ook andere verslagen publiceren die zij voor de vervulling van haar doel en functies wenselijk acht.
 
-#### Artikel IX. OPZEGGING EN SCHORSING VAN LEDEN
+##### Artikel IX. OPZEGGING EN SCHORSING VAN LEDEN
 
 Sectie 1. **Recht van opzegging**
 
@@ -638,7 +660,7 @@ Sectie 3. **Vereffening van rekeningen**
 
 - (e). In een geval wordt enig aan een land voor zijn aandelen krachtens deze sectie verschuldigd bedrag eerder betaald dan zes maanden na de datum waarop het land ophoudt lid te zijn. Indien de Bank binnen die termijn haar werkzaamheden beëindigt, worden alle rechten van het destreffende land vastgesteld volgens de bepalingen van artikel X en zulk een land wordt ter zake van dat artikel als een lid van de Bank beschouwd, doch heeft geen stemrecht.
 
-#### Artikel X. STAKING EN BEËINDIGING DER WERKZAAMHEDEN
+##### Artikel X. STAKING EN BEËINDIGING DER WERKZAAMHEDEN
 
 Sectie 1. **Staking der werkzaamheden**
 
@@ -662,7 +684,7 @@ Sectie 4. **Verdeling der activa**
 
 - (c). Elk lid dat activa ontvangt die ingevolge dit artikel zijn verdeeld, geniet ten aanzien van deze activa dezelfde rechten als de Bank voor de verdeling daarvan genoot.
 
-#### Artikel XI. RECHTSPOSITIE, IMMUNITEITEN EN VOORRECHTEN
+##### Artikel XI. RECHTSPOSITIE, IMMUNITEITEN EN VOORRECHTEN
 
 Sectie 1. **Strekking van het artikel**
 
@@ -734,7 +756,7 @@ Sectie 10. **Toepassing**
 
 Ieder lid neemt overeenkomstig zijn wetgeving de nodige stappen om op zijn grondgebied aan de bepalingen, neergelegd in dit artikel, uitvoering te geven en stelt de Bank van de genomen maatregelen in kennis.
 
-#### Artikel XII. WIJZIGINGEN
+##### Artikel XII. WIJZIGINGEN
 
 - (i). Deze Overeenkomst kan alleen worden gewijzigd bij besluit van de Raad van Bestuur genomen met een meerderheid van het totaal aantal bestuurders, waaronder begrepen twee derde van de bestuurders der regionale leden, die ten minste drie vierde van het totaal aantal stemmen der lid-landen vertegenwoordigen met dien verstande echter dat de meerderheden bij de stemming zoals bedoeld in artikel II, sectie 1 (b) slechts kunnen worden gewijzigd met de daarin vastgestelde meerderheden van het aantal stemmen.
 
@@ -750,7 +772,7 @@ Ieder lid neemt overeenkomstig zijn wetgeving de nodige stappen om op zijn grond
 
 c. Ieder voorstel deze Overeenkomst te wijzigen, afkomstig hetzij van een lid hetzij van de Raad van Bewindvoerders, wordt ingediend bij de Voorzitter van de Raad van Bestuur, die het voorstel aan de Raad van Bestuur voorlegt. Wanneer een wijziging is aanvaard, legt de Bank dit in een officiële mededeling aan alle leden vast. Wijzigingen worden voor alle leden drie maanden na de datum van de officiële mededeling van kracht, tenzij de Raad van Bestuur daarvoor een andere periode vaststelt.
 
-#### Artikel XIII. INTERPRETATIE EN ARBITRAGE
+##### Artikel XIII. INTERPRETATIE EN ARBITRAGE
 
 Sectie 1. **Interpretatie**
 
@@ -764,7 +786,7 @@ Wanneer er onenigheid ontstaat tussen de Bank en een land dat heeft opgehouden l
 
 De derde scheidsman is gemachtigd alle vragen betreffende de procedure te beslissen indien daaromtrent verschil van mening bij partijen bestaat.
 
-#### Artikel XIV. ALGEMENE BEPALINGEN
+##### Artikel XIV. ALGEMENE BEPALINGEN
 
 Sectie 1. **Hoofdkantoor**
 
@@ -782,7 +804,7 @@ Sectie 4. **Depositaris**
 
 Ieder lid wijst als depositaris zijn centrale bank aan waarin de Bank de valuta van dat lid die zij onder haar berusting heeft en andere activa van de Bank in bewaring kan geven. Indien een lid geen centrale bank heeft, wijst het met instemming van de Bank een andere instelling hiertoe aan.
 
-#### Artikel XV. SLOTBEPALINGEN
+##### Artikel XV. SLOTBEPALINGEN
 
 Sectie 1. **Ondertekening en aanvaarding**
 
@@ -808,15 +830,15 @@ Sectie 3. **Begin van de werkzaamheden**
 
 ### I. VERKIEZING VAN BEWINDVOERDERS
 
-#### 1
+##### 1
 
 De bestuurders die overeenkomstig artikel VIII, sectie 3 (b) (ii) van de Overeenkomst tot Oprichting van de Bank mogen stemmen, kiezen tien Bewindvoerders.
 
-#### 2
+##### 2
 
 De bestuurder voor Canada kiest een Bewindvoerder met de stemmen van zijn land.
 
-#### 3
+##### 3
 
 De bestuurders der in ontwikkeling zijnde regionale lid-landen kiezen zeven Bewindvoerders op de volgende wijze:
 
@@ -838,7 +860,7 @@ De bestuurders der in ontwikkeling zijnde regionale lid-landen kiezen zeven Bewi
 
 - (e). Nadat de stemming is voltooid, kent iedere bestuurder die zijn stem niet op een van de gekozen kandidaten uitbracht, zijn stemmen aan een van hen toe. Het aantal stemmen dat krachtens artikel VIII, sectie 4 (a) van de Overeenkomst toebehoort aan iedere bestuurder die heeft gestemd op of zijn stem heeft toegekend aan een ingevolge deze voorschriften gekozen kandidaat, wordt voor de toepassing van artikel VIII, sectie 4 (d) (ii) geacht te hebben meegeteld voor de verkiezing van een zodanige kandidaat.
 
-#### 4
+##### 4
 
 De bestuurders der niet-regionale landen kiezen twee Bewindvoerders op de volgende wijze:
 
@@ -850,15 +872,15 @@ De bestuurders der niet-regionale landen kiezen twee Bewindvoerders op de volgen
 
 ### II. VERKIEZINGSPROCEDURE
 
-#### 5. Kennisgeving van de verkiezing
+##### 5. Kennisgeving van de verkiezing
 
 Ten minste negentig dagen voor de jaarvergadering van de Raad van Bestuur gedurende welke een algemene verkiezing van Bewindvoerders wordt gehouden, stelt de Secretaris de bestuurders hiervan in kennis en nodigt hen uit kandidaten voor te dragen.
 
-#### 6. Leiding van de verkiezing
+##### 6. Leiding van de verkiezing
 
 De Voorzitter van de Raad van Bestuur heeft de leiding van de verkiezing, stelt twee bestuurders aan als stemopnemer, die de leiding hebben van het stemmen en de stemmen tellen, en neemt de voor het goede verloop van de verkiezing noodzakelijk geachte maatregelen.
 
-#### 7. Kandidaatstelling
+##### 7. Kandidaatstelling
 
 (a). De verkiezing vindt plaats onder de kandidaten die overeenkomstig deze procedure zijn voorgedragen.
 
@@ -874,7 +896,7 @@ De Voorzitter van de Raad van Bestuur heeft de leiding van de verkiezing, stelt 
 
 (g). Het tijdvak gedurende hetwelk kandidaten kunnen worden voorgedragen, eindigt om 10 uur 's ochtends op de eerste dag van de jaarvergadering van de Raad van Bestuur tijdens welke de verkiezing zal worden gehouden.
 
-#### 8. Verkiezing
+##### 8. Verkiezing
 
 (a). De verkiezing omvat vier afzonderlijke fasen. In de eerste fase wordt gekozen de Bewindvoerder bedoeld in sectie 2 van dit Reglement. De vijf Bewindvoerders bedoeld in sectie 3 (c) van dit Reglement worden in de tweede fase gekozen, de twee Bewindvoerders genoemd in sectie 3 (d) in de derde fase en de twee Bewindvoerders bedoeld in sectie 4 in de vierde fase.
 
@@ -882,7 +904,7 @@ De Voorzitter van de Raad van Bestuur heeft de leiding van de verkiezing, stelt 
 
 (c). Voor elke fase kondigt de Secretaris de namen van de officiële kandidaten af, alsmede de namen van de landen die voor stemming in aanmerking komen.
 
-#### 9. Stemming
+##### 9. Stemming
 
 Elke stemming verloopt als volgt:
 
@@ -898,31 +920,31 @@ Elke stemming verloopt als volgt:
 
 - (f). De Voorzitter van de Raad maakt bekend of er verkiezing heeft plaatsgevonden; indien zulks het geval is, maakt hij de namen bekend van de personen die zijn gekozen, alsmede de lid-staten die hen hebben gekozen.
 
-#### 10. Terugtrekking van kandidaten
+##### 10. Terugtrekking van kandidaten
 
 Bij elke stemming kan (kunnen) de bestuurder (s) die een kandidaat heeft (hebben) voorgedragen de Secretaris berichten dat deze kandidaat niet deelneemt aan volgende stemmingen; in dat geval wordt zijn naam van de kandidatenlijst verwijderd.
 
-#### 11. Beslechting van geschillen
+##### 11. Beslechting van geschillen
 
 Problemen die ontstaan naar aanleiding van het verloop van de verkiezing worden door de stemopnemers opgelost, behoudens het recht van beroep, op verzoek van een bestuurder, bij de Voorzitter van de Raad en via deze bij de Raad. Waar mogelijk worden de problemen voorgelegd zonder de naam van het betrokken lid-land of bestuurder bekend te maken.
 
 ### III. VACATURES IN DE RAAD VAN BEWINDVOERDERS
 
-#### 12
+##### 12
 
 De Bewindvoerders blijven hun functie uitoefenen totdat hun opvolgers zijn benoemd of gekozen. Indien de plaats van een gekozen Bewindvoerder meer dan 180 dagen voor het einde van zijn ambtsperiode openvalt, wordt er een opvolger gekozen voor het resterende deel van de ambtsperiode (artikel VIII, lid 3 (d), van de Overeenkomst tot Oprichting van de Interamerikaanse Ontwikkelingsbank).
 
-#### 13
+##### 13
 
 Wanneer een nieuwe Bewindvoerder moet worden gekozen als gevolg van een vacature waarvoor een verkiezing nodig is, stelt de President van de Bank onverwijld de lid-landen die de vorige Bewindvoerder hadden gekozen, in kennis van de bestaande vacature met het verzoek kandidaten voor te dragen.
 
-#### 14
+##### 14
 
 De President van de Bank kan een vergadering van de bestuurders voor deze landen bijeenroepen, die uitsluitend ten doel heeft een nieuwe Bewindvoerder te kiezen; hij kan de verkiezing ook per post of telegraaf doen plaatsvinden. Er dient te worden doorgestemd totdat een van de kandidaten een absolute meerderheid van het uitgebrachte aantal stemmen heeft verkregen.
 
 ### IV. WIJZIGING VAN DE VOORSCHRIFTEN
 
-#### 15
+##### 15
 
 De Raad van Bestuur kan deze voorschriften wijzigen tijdens een van zijn vergaderingen of, zonder een vergadering bijeen te roepen, bij een stemming, met een drie vierde meerderheid van het totaal aantal stemmen van de lid-landen, waaronder begrepen:
 

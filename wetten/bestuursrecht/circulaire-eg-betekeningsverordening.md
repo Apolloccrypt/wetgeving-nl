@@ -1,13 +1,36 @@
 ---
 title: "Circulaire EG-betekeningsverordening"
 identifier: "BWBR0012403"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-04-09
-laatste_update: 2001-04-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012403"
+country: "nl"
+rank: "circulaire"
+publication_date: "2001-04-09"
+last_updated: "2001-04-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012403"
+soort: "circulaire"
+stam_id: "6057543"
+version_id: "10709962"
+internal_id: "C14538351"
+label_id: "6046814"
+original_entry_into_force: "2001-04-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012403/2001-04-09/0"
+intitule_bron: "Stcrt.2001-70"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-04-06"
+intitule_published: "2001-04-09"
+intitule_in_force: "2001-04-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-70"
+original_signed_date: "2001-04-06"
+original_published_date: "2001-04-09"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-04-09"
+jci_1_3: "jci1.3:c:BWBR0012403&z=2001-04-09&g=2001-04-09"
+jci_1_0: "1.0:c:BWBR0012403&g=2001-04-09"
+citeertitel_status: "redactioneel"
+signed_date: "2001-04-06"
+entry_into_force: "2001-04-09"
 ---
-
 # Circulaire EG-betekeningsverordening
 
 Op 31 mei a.s. zal in werking treden de op 29 mei 2000 door de Raad van de Europese Unie vastgestelde [verordening (EG) Nr. 1348/2000](32000R1348) inzake de betekening en de kennisgeving in de lidstaten van gerechtelijke en buitengerechtelijke stukken in burgerlijke of in handelszaken (PbEG L160/37) (hierna: de verordening). De verordening noopt ertoe enige wettelijke voorzieningen te treffen ter uitvoering van de verordening, en daarbij de bestaande wetgeving aan de verordening aan te passen. Een daartoe strekkend wetsvoorstel is inmiddels aan de Raad van State voor advies voorgelegd. Omdat het tijdstip van inwerkingtreding van dit wetsvoorstel vermoedelijk na 31 mei a.s. gelegen zal zijn, kunnen er vragen rijzen omtrent de betekenis en gevolgen van de verordening tot dat tijdstip. Met deze brief wordt beoogd daaromtrent duidelijkheid te brengen. Ik verzoek u om de inhoud van deze brief binnen uw organisatie bekend te maken aan degenen die het aangaat.

@@ -1,13 +1,38 @@
 ---
 title: "Circulaire uitvoering overeenkomst VWNW-beleid en WW-dossier sector Rijk"
 identifier: "BWBR0039795"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039795"
+country: "nl"
+rank: "circulaire"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039795"
+soort: "circulaire"
+stam_id: "14073633"
+version_id: "24233342"
+internal_id: "C34808641"
+label_id: "14034634"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039795/2018-01-01/0"
+intitule_bron: "Stcrt.2017-40405"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-07-10"
+intitule_published: "2017-07-18"
+intitule_in_force: "2017-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-40405"
+original_signed_date: "2017-07-10"
+original_published_date: "2017-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-40405"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0039795&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0039795&g=2018-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2017-07-10"
+entry_into_force: "2018-01-01"
 ---
-
 # Circulaire uitvoering overeenkomst VWNW-beleid en WW-dossier sector Rijk
 
 Bijgevoegd treft u de overeenkomst VWNW-beleid en WW-dossier sector Rijk (verder: de overeenkomst) aan, zoals die op 28 juni jl. in het Sectoroverleg Rijk is vastgesteld. In deze circulaire wordt nadere informatie gegeven die van belang is voor de uitvoering van deze overeenkomst.

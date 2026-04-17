@@ -1,13 +1,36 @@
 ---
 title: "Normering en schaallengte bij de centrale examens vbo, mavo, havo en vwo met ingang van het jaar 2000"
 identifier: "BWBR0010538"
-categorie: "Bestuursrecht"
-publicatiedatum: 1999-07-07
-laatste_update: 1999-07-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010538"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1999-07-07"
+last_updated: "1999-07-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010538"
+soort: "beleidsregel"
+stam_id: "6521693"
+version_id: "11226362"
+internal_id: "C15157721"
+label_id: "6510274"
+original_entry_into_force: "1999-07-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010538/1999-07-07/0"
+intitule_bron: "Uitleg.1999-18a"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-06-22"
+intitule_published: "1999-07-07"
+intitule_in_force: "1999-07-07"
+intitule_status: "goed"
+original_publication: "Uitleg.1999-18a"
+original_signed_date: "1999-06-22"
+original_published_date: "1999-07-07"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-07-07"
+jci_1_3: "jci1.3:c:BWBR0010538&z=1999-07-07&g=1999-07-07"
+jci_1_0: "1.0:c:BWBR0010538&g=1999-07-07"
+citeertitel_status: "redactioneel"
+signed_date: "1999-06-22"
+entry_into_force: "1999-07-07"
 ---
-
 # Normering en schaallengte bij de centrale examens vbo, mavo, havo en vwo met ingang van het jaar 2000
 
 ### 1. Inleiding

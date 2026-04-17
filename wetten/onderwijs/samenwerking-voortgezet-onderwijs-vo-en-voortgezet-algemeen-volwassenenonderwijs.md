@@ -1,13 +1,36 @@
 ---
 title: "Samenwerking voortgezet onderwijs (vo) en voortgezet algemeen volwassenenonderwijs (vavo)"
 identifier: "BWBR0015425"
-categorie: "Onderwijs"
-publicatiedatum: 2003-10-08
-laatste_update: 2003-10-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015425"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-10-08"
+last_updated: "2003-10-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015425"
+soort: "beleidsregel"
+stam_id: "6493693"
+version_id: "11173762"
+internal_id: "C15098311"
+label_id: "6482214"
+original_entry_into_force: "2003-10-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015425/2003-10-08/0"
+intitule_bron: "Uitleg.2003-22/23"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-07-31"
+intitule_published: "2003-10-08"
+intitule_in_force: "2003-10-08"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-22/23"
+original_signed_date: "2003-07-31"
+original_published_date: "2003-10-08"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-10-08"
+jci_1_3: "jci1.3:c:BWBR0015425&z=2003-10-08&g=2003-10-08"
+jci_1_0: "1.0:c:BWBR0015425&g=2003-10-08"
+citeertitel_status: "redactioneel"
+signed_date: "2003-07-31"
+entry_into_force: "2003-10-08"
 ---
-
 # Samenwerking voortgezet onderwijs (vo) en voortgezet algemeen volwassenenonderwijs (vavo)
 
 Uit accountantscontrole, inspectietoezicht en vragen van gemeenten en onderwijsinstellingen blijkt dat er onduidelijkheid bestaat over de mogelijkheden tot samenwerking tussen voortgezet onderwijs en voortgezet algemeen volwassenenonderwijs. Het betreft de toepassing van een niet-toegestane constructie waarbij leerlingen, overwegend in de leeftijdsgroep 18-23 jaar, voor de bekostiging worden ingeschreven op een vo-school, maar feitelijk (vavo-)onderwijs volgen op een ROC. Dit vavo-onderwijs wordt bekostigd uit de rijksbijdrage van de vo-school.

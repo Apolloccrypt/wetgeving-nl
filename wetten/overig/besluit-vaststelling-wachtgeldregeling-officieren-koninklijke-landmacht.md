@@ -1,13 +1,35 @@
 ---
-title: "Besluit vaststelling wachtgeldregeling officieren Koninklijke Landmacht"
+title: "Besluit van 17 augustus 1935, tot vaststelling van een wachtgeldregeling voor officieren behoorende tot de Koninklijke Landmacht"
 identifier: "BWBR0001966"
-categorie: "Overig"
-publicatiedatum: 1957-01-01
-laatste_update: 1957-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001966"
+country: "nl"
+rank: "kb"
+publication_date: "1957-01-01"
+last_updated: "1957-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001966"
+soort: "KB"
+stam_id: "1176003"
+version_id: "1736892"
+internal_id: "C1736891"
+label_id: "1139444"
+dtd_version: "2.0"
+original_entry_into_force: "1935-09-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001966/1957-01-01/0"
+intitule_bron: "Stb.1935-514"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1935-08-17"
+intitule_status: "goed"
+original_publication: "Stb.1935-514"
+original_signed_date: "1935-08-17"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1935-09-22"
+jci_1_3: "jci1.3:c:BWBR0001966&z=1957-01-01&g=1957-01-01"
+jci_1_0: "1.0:c:BWBR0001966&g=1957-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling wachtgeldregeling officieren Koninklijke Landmacht"
+signed_date: "1935-08-17"
+entry_into_force: "1935-09-22"
 ---
-
 # Besluit van 17 augustus 1935, tot vaststelling van een wachtgeldregeling voor officieren behoorende tot de Koninklijke Landmacht
 
 Op de voordracht van Onze Ministers van Defensie en van Binnenlandsche Zaken van 4 April 1935, VIIIe Afdeeling, nr. 129 en van 12 April 1935, nr. 489II, Afdeeling Pensioenen en Wachtgelden;
@@ -26,7 +48,7 @@ A. in te trekken Ons Besluit van 21 Februari 1923 (**Staatsblad** nr. 48) tot re
 
 B. te bepalen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit besluit verstaat onder "officieren" de officieren der landmacht, niet behoorende tot het verlofspersoneel.
 
@@ -36,13 +58,13 @@ B. te bepalen:
 
 4. Ontslag op eigen verzoek, onder toekenning van wachtgeld, wordt slechts verleend aan den officier, die niet in de termen valt, om op den voet der Be[vorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393) voor de landmacht 1902 - tenzij wegens het bepaalde in art. 39, eerste lid, punt 4°. van die wet - onder toekenning van pensioen of van het recht op pensioen ontslag te verkrijgen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de toepassing van de verdere artikelen van dit besluit wordt onder diensttijd verstaan de werkelijke diensttijd in den zin van de Pensioenwet voor de landmacht (**Staatsblad** 1922, nr. 66), volbracht op den datum van ingang van het ontslag, met dien verstande dat, wanneer de diensttijd ten gevolge van ontslag is onderbroken geweest, de tijd vóór de onderbreking slechts medetelt, indien de onderbreking minder dan een jaar heeft geduurd.
 
 2. Bij de toepassing van het [tweede lid van art. 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001966&artikel=3&z=1957-01-01&g=1957-01-01) wordt niettemin de tijd vóór de onderbreking wel medegeteld, ook al heeft de onderbreking een jaar of langer geduurd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan een officier, als bedoeld in [art. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001966&artikel=1&z=1957-01-01&g=1957-01-01), wordt het genot van wachtgeld toegekend gedurende een tijdvak, gelijk aan zijn diensttijd.
 
@@ -62,7 +84,7 @@ een en ander voor zoover de termijnen, waarover het genot van wachtgeld is toege
 
 6. Voor de toepassing van dit artikel komt de ingevolge art. 70, 3°. of 4°., der Be[vorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393) voor de landmacht 1902 reeds op nonactiviteit doorgebrachte tijd in mindering van het in het eerste lid genoemde tijdvak, gedurende hetwelk wachtgeld kan worden toegekend.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Wij behouden Ons voor, om in de gevallen, waarin zulks door Ons noodig wordt geoordeeld, aan belanghebbenden de verplichting op te leggen eene benoeming te aanvaarden bij het reservepersoneel der landmacht, zulks op de wijze nader door Ons te bepalen, zullende de toekenning of verdere uitkeering van wachtgeld aan een officier, gedurende den tijd bedoeld in art. 3, van het aanvaarden dezer benoeming afhankelijk worden gesteld.
 
@@ -74,7 +96,7 @@ een en ander voor zoover de termijnen, waarover het genot van wachtgeld is toege
 
 5. De hierbedoelde toelage wordt aan den reserve-officier-wachtgelder niet toegekend in de gevallen, waarin geen toelagen worden genoten door het reservepersoneel, dat daarop overigens aanspraak heeft, en ook niet in het geval, bedoeld in art. 42 der Wet voor het reserve-personeel der landmacht 1905.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de toepassing van dit besluit wordt onder laatstelijk genoten bezoldiging verstaan de bezoldiging welke op de dag voor het ontslag in de verlaten betrekking bij plaatsing in Nederland werd genoten of zou genoten zijn, vermeerderd met de tijdelijke kindertoelage, de tijdelijke kindertoeslag, de vakantieuitkering en eventuele in de pensioensgrondslag opgenomen inkomsten en baten.
 
@@ -86,7 +108,7 @@ een en ander voor zoover de termijnen, waarover het genot van wachtgeld is toege
 
 5. Met afwijking van het gestelde in het eerste, tweede, derde en vierde lid wordt voor het wachtgeld, toegekend krachtens het [tweede lid van art. 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001966&artikel=3&z=1957-01-01&g=1957-01-01), als laatstelijk genoten bezoldiging aangemerkt het bedrag van den pensioensgrondslag, waarnaar het daarbedoelde wachtgeld is berekend.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Wanneer de op wachtgeld gestelde inkomsten gaat genieten uit of in verband met arbeid of bedrijf, na het ontslag ter hand genomen, wordt, behoudens het bepaalde in het zevende lid van dit artikel:
 
@@ -114,19 +136,19 @@ Het hier bepaalde vindt overeenkomstige toepassing ten aanzien van inkomsten, ve
 
 7. In geval van inkomsten uit overwerk in dienst van openbare lichamen kan worden bepaald, dat voor die inkomsten de in het eerste lid van dit artikel onder A en C bedoelde vermindering geheel of ten deele tot wederopzegging achterwege blijft.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien de op wachtgeld gestelde een hem aangeboden ambt of betrekking, die hem naar het oordeel van Onzen Minister van Defensie in verband met zijn persoonlijkheid en omstandigheden redelijkerwijze kan worden opgedragen, weigert te aanvaarden of ook anderszins, indien hij in de gelegenheid komt om op een wijze, die in verband met zijn persoonlijkheid en omstandigheden naar het oordeel van dien Minister voor hem passend kan worden geacht, inkomsten te verkrijgen, daarvan geen gebruik maakt, dan wordt niettemin het wachtgeld verminderd met een zoodanig bedrag, alsof de verzuimde inkomsten wèl worden genoten.
 
 2. De op wachtgeld gestelde is voorts verplicht zich te gedragen naar de voorschriften, die hem door dien Minister hetzij in het algemeen, hetzij voor eenig bijzonder geval, worden gegeven, strekkende om tot het verkrijgen van een ambt of betrekking of een andere bron van inkomsten te geraken. Bij niet-nakoming van die voorschriften kan het wachtgeld geheel of ten deele worden geschorst of geheel worden vervallen verklaard.
 
-#### Artikel 8
+##### Artikel 8
 
 Voor de toepassing van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001966&artikel=6&z=1957-01-01&g=1957-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0001966&artikel=7&z=1957-01-01&g=1957-01-01) van dit besluit worden onder inkomsten of verzuimde inkomsten mede verstaan bedragen, die terzake van pensioenen ten laste van belanghebbende komen of zouden gekomen zijn.
 
 Als inkomsten, die genoten worden in dienst van een openbaar lichaam worden ten deze ook aangemerkt inkomsten verbonden aan een betrekking, welke aan de belanghebbende uitzicht geeft of kan geven op pensioen krachtens de Pensioenwet 1922 (**Stb.** 240).
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het wachtgeld vervalt:
 
@@ -142,15 +164,15 @@ Wanneer het wachtgeld op een der bovenomschreven wijzen is vervallen, dan is bij
 
 2. Het vervallen, schorsen, verminderen of vermeerderen van het wachtgeld gaat in met den dag, waarop de reden van het vervallen, de schorsing, de vermindering of vermeerdering intreedt.
 
-#### Artikel 10
+##### Artikel 10
 
 Met den op wachtgeld gestelde kan een regeling worden getroffen, krachtens welke het wachtgeld geheel of ten deele wordt vervangen door een afkoopsom.
 
-#### Artikel 11
+##### Artikel 11
 
 Aan hem, die op wachtgeld zal worden of is gesteld, kan, indien hij elders arbeid of bedrijf gaat ter hand nemen, ter zake van de kosten, die voor hem aan de daartoe noodige verhuizing zijn verbonden, een bedrag worden toegekend, indien bij gebreke van die toekenning die arbeid of dat bedrijf door hem redelijkerwijze niet zou zijn te aanvaarden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het bedrag van het wachtgeld, over een jaar berekend, wordt naar boven tot een vollen gulden afgerond. Het wordt uitbetaald in maandelijksche termijnen. Met toestemming van den op wachtgeld gestelde kan de uitbetaling in langere termijnen geschieden.
 
@@ -164,7 +186,7 @@ Aan hem, die op wachtgeld zal worden of is gesteld, kan, indien hij elders arbei
 
 6. Ten aanzien van de toelage, bedoeld in [art. 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001966&artikel=4&z=1957-01-01&g=1957-01-01), wordt in overeenkomstigen zin gehandeld.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De ter uitvoering van dit besluit te nemen beslissingen worden genomen door Onzen Minister van Defensie, met medewerking van Onzen Minister van Binnenlandsche Zaken.
 
@@ -172,7 +194,7 @@ Aan hem, die op wachtgeld zal worden of is gesteld, kan, indien hij elders arbei
 
 3. Aan een verzoek om het advies van de in het vorig lid bedoelde Commissie in te winnen zal slechts worden voldaan, indien dat verzoek bij het Departement van Defensie is ingekomen binnen 30 dagen na den datum, waarop de ter zake betrekkelijke beslissing is verzonden.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit treedt in werking met ingang van den tweeden dag na dien der dagteekening van het **Staatsblad**, waarin het is geplaatst.
 

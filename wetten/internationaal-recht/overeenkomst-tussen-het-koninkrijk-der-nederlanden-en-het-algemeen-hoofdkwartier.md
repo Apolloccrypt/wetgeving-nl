@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa inzake de bijzondere voorwaarden, die toepasselijk zijn op de vestiging en het functioneren van internationale militaire hoofdkwartieren binnen het Europese grondgebied van het Koninkrijk der Nederlanden"
 identifier: "BWBV0004186"
-categorie: "Internationaal recht"
-publicatiedatum: 1965-04-13
-laatste_update: 1965-04-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004186"
+country: "nl"
+rank: "verdrag"
+publication_date: "1965-04-13"
+last_updated: "1965-04-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004186"
+soort: "verdrag"
+stam_id: "10003992333"
+version_id: "10004147992"
+internal_id: "C10008364811"
+label_id: "10003976964"
+dtd_version: "2.0"
+original_entry_into_force: "1965-04-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004186/1965-04-13/0"
+intitule_bron: "Trb.1964-131"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1964-09-18"
+intitule_in_force: "1965-06-03"
+intitule_status: "goed"
+original_publication: "Trb.1964-131"
+original_published_date: "1964-09-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1964-131"
+entry_into_force_date: "1965-04-13"
+jci_1_3: "jci1.3:c:BWBV0004186&z=1965-04-13&g=1965-04-13"
+jci_1_0: "1.0:c:BWBV0004186&g=1965-04-13"
+citeertitel_status: "redactioneel"
+entry_into_force: "1965-04-13"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa inzake de bijzondere voorwaarden, die toepasselijk zijn op de vestiging en het functioneren van internationale militaire hoofdkwartieren binnen het Europese grondgebied van het Koninkrijk der Nederlanden
 
 Het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa, vertegenwoordigd door de Geallieerde Opperbevelhebber in Europa,
@@ -26,7 +48,7 @@ dat zekere bepalingen nog moeten worden uitgewerkt inzake de vestiging en het fu
 
 Zijn als volgt overeengekomen:
 
-#### Artikel I. Omschrijvingen
+##### Artikel I. Omschrijvingen
 
 In deze Overeenkomst betekent
 
@@ -40,11 +62,11 @@ In deze Overeenkomst betekent
 
 - 5. „Protocol”: het op 28 augustus 1952 te Parijs ondertekende Protocol nopens de rechtspositie van uit hoofde van het Noordatlantisch Verdrag ingestelde internationale militaire hoofdkwartieren.
 
-#### Artikel II. Plaats van vestiging van de Geallieerde Hoofdkwartieren
+##### Artikel II. Plaats van vestiging van de Geallieerde Hoofdkwartieren
 
 De plaats van vestiging van de onderscheiden onderdelen van de Geallieerde Hoofdkwartieren in vredestijd op het Europese grondgebied van het Koninkrijk der Nederlanden en elke wijziging in die plaats worden bepaald door een regeling tussen de Nederlandse Regering en SHAPE.
 
-#### Artikel III. Personeelssterkte van de Geallieerde Hoofdkwartieren
+##### Artikel III. Personeelssterkte van de Geallieerde Hoofdkwartieren
 
 (1.). SACEUR verwittigt de Nederlandse Regering van de personeelssterkte van de Geallieerde Hoofdkwartieren op Nederlands grondgebied op het tijdstip van inwerkingtreding van
 
@@ -56,15 +78,15 @@ De plaats van vestiging van de onderscheiden onderdelen van de Geallieerde Hoofd
 
 (3.). Indien een voorgenomen verhoging boven het maximum van 10 procent uitgaat, brengt SACEUR deze verhoging niet tot stand alvorens van de Nederlandse Regering toestemming te hebben verkregen tot een nieuw percentage binnen de grenzen waarvan de bestaande omvang kan worden verhoogd.
 
-#### Artikel IV. Bevoegdheid tot het verrichten van rechtshandelingen
+##### Artikel IV. Bevoegdheid tot het verrichten van rechtshandelingen
 
 De in artikel 10 van het Protocol aan SHAPE toegekende bevoegdheid tot het verrichten van rechtshandelingen wordt, wat betreft hetzij SHAPE zelf, hetzij elk Geallieerd Hoofdkwartier binnen het Europese grondgebied van het Koninkrijk der Nederlanden, uitgeoefend door SACEUR of door een ondergeschikte gezagsdrager, die door hem is aangewezen om in zijn naam en namens hem te handelen.
 
-#### Artikel V. Vertegenwoordiging in rechte
+##### Artikel V. Vertegenwoordiging in rechte
 
 De Nederlandse Regering kan op een desbetreffend verzoek erin toestemmen ten behoeve van SHAPE op te treden in elk rechtsgeding, aanhangig bij een Nederlandse rechterlijke instantie, waarin een Geallieerd Hoofdkwartier is betrokken. Alle daaraan verbonden kosten worden door SHAPE aan de Nederlandse Regering vergoed.
 
-#### Artikel VI. Onschendbaarheid van de gebouwen
+##### Artikel VI. Onschendbaarheid van de gebouwen
 
 (1.). Zij, die krachtens een Nederlandse wettelijke bepaling bevoegd zijn een plaats tegen de wil van de rechthebbende te betreden, betreden de gebouwen van een Geallieerd Hoofdkwartier niet dan met toestemming van zijn Commandant of Directeur.
 
@@ -72,7 +94,7 @@ De Nederlandse Regering kan op een desbetreffend verzoek erin toestemmen ten beh
 
 (3.). Niets in dit artikel doet afbreuk aan de onschendbaarheid van archieven en andere officiële documenten, noch aan de verificatieprocedures, zoals deze zijn neergelegd in artikel 13 van het Protocol.
 
-#### Artikel VII. Immuniteiten
+##### Artikel VII. Immuniteiten
 
 (1.). De Nederlandse Regering verleent zowel aan militairen als aan burgers van andere dan Nederlandse nationaliteit, die geallieerde functies bekleden met hoge verantwoordelijkheid, voor de duur van hun zending, immuniteit van rechtsmacht ten aanzien van hetgeen zij in hun officiële hoedanigheid en binnen de grenzen van hun bevoegdheid hebben gezegd, geschreven en gedaan. Deze immuniteit wordt niet toegekend ten voordele van de personen zelf, maar ter verzekering van de onafhankelijke uitoefening van hun functies met betrekking tot het Noordatlantisch Verdrag.
 
@@ -84,7 +106,7 @@ De Nederlandse Regering kan op een desbetreffend verzoek erin toestemmen ten beh
 
 (5.). De Secretaris-Generaal van de NAVO en SACEUR werken te allen tijde met de Nederlandse autoriteiten samen teneinde de rechtsbedeling te vergemakkelijken, de nakoming van de politieverordeningen te verzekeren en ieder misbruik te vermijden, waartoe de bovenvermelde voorrechten en immuniteiten aanleiding zouden kunnen geven.
 
-#### Artikel VIII. Belastingen en rechten
+##### Artikel VIII. Belastingen en rechten
 
 (1.). Ter uitvoering van artikel 8, eerste lid, van het Protocol verleent de Nederlandse Regering, in de mate en op de wijze als hieronder omschreven, aan de Geallieerde Hoofdkwartieren vrijstelling van Nederlandse belastingen en rechten, voor zover deze geredelijk herkenbaar zijn.
 
@@ -108,7 +130,7 @@ voor zover vrijstelling zou worden verleend, indien de goederen uit Nederland zo
 
 - b. genieten dezelfde faciliteiten met betrekking tot hun persoonlijke bagage als worden toegekend aan leden van het corps diplomatique.
 
-#### Artikel IX. Verbindingen
+##### Artikel IX. Verbindingen
 
 (1.). Voor zover in dit artikel niet anders is bepaald, maakt een Geallieerd Hoofdkwartier gebruik van de openbare telecommunicatiesystemen van het Koninkrijk der Nederlanden. Behoudens andere regelingen waarin deze overeenkomst voorziet, valt zulk een gebruik onder de ten tijde van het gebruik van kracht zijnde Nederlandse bepalingen. Bij de toepassing van genoemde bepalingen is de behandeling van een Geallieerd Hoofdkwartier niet minder gunstig dan die van de Nederlandse krijgsmacht.
 
@@ -126,23 +148,23 @@ zulks in overeenstemming met aanvaarde NAVO-procedures, tweezijdige overeenkomst
 
 (5.). Alle door de Nederlandse Regering verleende diensten worden in rekening gebracht in overeenstemming met de NAVO-overeenkomsten en de voorschriften en tarieven, die voor de Nederlandse krijgsmacht gelden.
 
-#### Artikel X. Arbeidsovereenkomsten
+##### Artikel X. Arbeidsovereenkomsten
 
 Voor het geval dat een Geallieerd Hoofdkwartier personeel zonder internationale rechtspositie op plaatselijke arbeidsvoorwaarden in dienst wil nemen, zullen de Nederlandse Regering en SHAPE een regeling treffen aangaande de Nederlandse voorschriften op het gebied van de sociale voorzieningen.
 
-#### Artikel XI. Schorsing in geval van vijandelijkheden
+##### Artikel XI. Schorsing in geval van vijandelijkheden
 
 Deze Overeenkomst blijft van kracht bij het uitbreken van vijandelijkheden, waarop het Noordatlantisch Verdrag van toepassing is. Elk van beide Partijen heeft echter het recht, voor zover haar betreft, de toepassing van elk van de bepalingen van deze Overeenkomst te schorsen door de andere Partij hiervan kennis te geven met inachtneming van een termijn van 60 dagen. Wanneer dit recht wordt uitgeoefend, raadplegen beide Partijen elkander terstond teneinde overeenstemming te bereiken over passende bepalingen ter vervanging van de geschorste bepalingen.
 
-#### Artikel XII. Beslechting van geschillen
+##### Artikel XII. Beslechting van geschillen
 
 Alle geschillen tussen de Partijen met betrekking tot de uitlegging of toepassing van deze Overeenkomst worden door onderhandelingen tussen hen geregeld zonder beroep op enig rechterlijk orgaan buiten de NAVO. Geschillen, die niet door rechtstreekse onderhandelingen kunnen worden opgelost, worden, behoudens voor zover in het Verdrag of in het Protocol het tegendeel wordt bepaald, verwezen naar de Noordatlantische Raad.
 
-#### Artikel XIII. Inwerkingtreding
+##### Artikel XIII. Inwerkingtreding
 
 Deze Overeenkomst wordt voorlopig toegepast vanaf de dag van ondertekening en treedt definitief in werking op de dag, waarop de Regering van het Koninkrijk der Nederlanden aan SHAPE heeft te kennen gegeven, dat aan de grondwettelijk vereiste voorwaarden voor inwerkingtreding in Nederland is voldaan.
 
-#### Artikel XIV. Duur en herziening
+##### Artikel XIV. Duur en herziening
 
 1. Deze Overeenkomst blijft van kracht zolang het Protocol geldt met betrekking tot het Koninkrijk der Nederlanden.
 

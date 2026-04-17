@@ -1,13 +1,38 @@
 ---
 title: "Regeling toevoeging bijzondere curatoren"
 identifier: "BWBR0042881"
-categorie: "Overig"
-publicatiedatum: 2019-12-13
-laatste_update: 2019-12-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042881"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-12-13"
+last_updated: "2019-12-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042881"
+soort: "zbo"
+stam_id: "15273173"
+version_id: "26310732"
+internal_id: "C37398791"
+label_id: "15219054"
+dtd_version: "2.0"
+original_entry_into_force: "2019-12-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042881/2019-12-13/0"
+intitule_bron: "Stcrt.2019-66185"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-11-06"
+intitule_published: "2019-12-13"
+intitule_in_force: "2019-12-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-66185"
+original_signed_date: "2019-11-06"
+original_published_date: "2019-12-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-66185"
+entry_into_force_date: "2019-12-13"
+jci_1_3: "jci1.3:c:BWBR0042881&z=2019-12-13&g=2019-12-13"
+jci_1_0: "1.0:c:BWBR0042881&g=2019-12-13"
+citeertitel_status: "officieel"
+signed_date: "2019-11-06"
+entry_into_force: "2019-12-13"
 ---
-
 # Regeling toevoeging bijzondere curatoren
 
 Overwegende dat de werkzaamheden van bijzondere curatoren, die door de rechter zijn benoemd om rapport uit te brengen, krachtens de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368) door de Raad voor Rechtsbijstand kunnen worden vergoed;
@@ -20,7 +45,7 @@ Overwegende dat het nodig is daartoe regels vast te stellen;
 
 Stelt de volgende regeling vast:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +59,7 @@ In deze regeling wordt verstaan onder:
 
 - 5. **De Stichting:** De Stichting Bijzondere Curator Nederland.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Raad kan een overeenkomst met bijzondere curatoren afsluiten die niet tevens een bij de Raad ingeschreven advocaat of mediator zijn, indien zij aan de volgende voorwaarden voldoen:
 
@@ -50,7 +75,7 @@ In deze regeling wordt verstaan onder:
 
 2. De Raad weigert het aangaan van de overeenkomst indien niet is voldaan aan de in het vorige lid gestelde voorwaarden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Raad kan besluiten de overeenkomst met een opzegtermijn van één maand te beëindigen indien:
 
@@ -66,7 +91,7 @@ In deze regeling wordt verstaan onder:
 
 3. De beëindiging van de overeenkomst geldt voor een periode van minimaal één jaar. Voor het sluiten van een nieuwe overeenkomst gelden de voorwaarden zoals benoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042881&artikel=2&z=2019-12-13&g=2019-12-13) van deze regeling. In zwaarwegende omstandigheden kan het bestuur weigeren een nieuwe overeenkomst te sluiten. Dit geldt onder andere in het geval indien het bestuur tot oordeel komt dat het sluiten van een nieuwe overeenkomst niet verantwoord is.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De bijzondere curator dient de zaken waarin hij is toegevoegd persoonlijk te behandelen. Indien dat niet langer mogelijk is, stelt hij het gerecht op de hoogte teneinde in de benoeming van een andere bijzondere curator te voorzien.
 
@@ -76,11 +101,11 @@ In deze regeling wordt verstaan onder:
 
 4. De vergoeding wordt altijd uitgekeerd aan de laatste bijzondere curator. Verrekening dient, zonder tussenkomst van de Raad, onderling plaats te vinden.
 
-#### Artikel 5
+##### Artikel 5
 
 De werkzaamheden waarvoor een toevoeging kan worden verleend, zijn strikt beperkt tot het verrichten van de werkzaamheden die voortvloeien uit de door de rechter afgegeven beschikking tot benoeming als bijzondere curator in [artikel 1:250 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=250) zaken.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien de rechter een bijzondere curator benoemt, wordt voor de werkzaamheden van de bijzondere curator één toevoeging verleend.
 
@@ -96,11 +121,11 @@ De werkzaamheden waarvoor een toevoeging kan worden verleend, zijn strikt beperk
 
 7. Naast de maximale vergoeding kent de Raad de bijzondere curator bij een volledige procedure ook een reiskosten- en reistijdvergoeding toe voor het reizen van en naar de zitting overeenkomstig het [Besluit vergoedingen rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0011018).
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als ‘Regeling toevoeging bijzondere curatoren’.
 
-#### Artikel 8
+##### Artikel 8
 
 De regeling is goedgekeurd bij besluit van het Ministerie van Justitie en Veiligheid d.d. 21 november 2019.
 

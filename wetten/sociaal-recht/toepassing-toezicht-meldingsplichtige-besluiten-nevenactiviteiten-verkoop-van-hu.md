@@ -1,13 +1,37 @@
 ---
 title: "Toepassing toezicht (meldingsplichtige besluiten, nevenactiviteiten), verkoop van huurwoningen en invoering euro (sociale-huursector)"
 identifier: "BWBR0012970"
-categorie: "Sociaal recht"
-publicatiedatum: 2006-07-20
-laatste_update: 2006-07-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012970"
+country: "nl"
+rank: "circulaire"
+publication_date: "2006-07-20"
+last_updated: "2006-07-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012970"
+soort: "circulaire"
+stam_id: "6366853"
+version_id: "11027532"
+internal_id: "C14924331"
+label_id: "6356064"
+original_entry_into_force: "2001-11-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012970/2006-07-20/0"
+intitule_bron: "Stcrt.2001-218"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-11-05"
+intitule_published: "2001-11-09"
+intitule_in_force: "2001-11-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-218"
+original_signed_date: "2001-11-05"
+original_published_date: "2001-11-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2001-218-p10-SC31656"
+entry_into_force_date: "2001-11-09"
+jci_1_3: "jci1.3:c:BWBR0012970&z=2006-07-20&g=2006-07-20"
+jci_1_0: "1.0:c:BWBR0012970&g=2006-07-20"
+citeertitel_status: "redactioneel"
+signed_date: "2001-11-05"
+entry_into_force: "2001-11-09"
 ---
-
 # Toepassing toezicht (meldingsplichtige besluiten, nevenactiviteiten), verkoop van huurwoningen en invoering euro (sociale-huursector)
 
 Geacht college/bestuur,

@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregels CAK inning bestuursrechtelijke premie Zorgverzekeringswet 2018"
 identifier: "BWBR0040645"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-02-22
-laatste_update: 2018-02-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040645"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-02-22"
+last_updated: "2018-02-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040645"
+soort: "zbo"
+stam_id: "14554543"
+version_id: "24909902"
+internal_id: "C35629841"
+label_id: "14508544"
+dtd_version: "2.0"
+original_entry_into_force: "2018-02-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040645/2018-02-22/0"
+intitule_bron: "Stcrt.2018-9257"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-01-29"
+intitule_published: "2018-02-21"
+intitule_in_force: "2018-02-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-9257"
+original_signed_date: "2018-01-29"
+original_published_date: "2018-02-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-9257"
+entry_into_force_date: "2018-02-22"
+jci_1_3: "jci1.3:c:BWBR0040645&z=2018-02-22&g=2018-02-22"
+jci_1_0: "1.0:c:BWBR0040645&g=2018-02-22"
+citeertitel_status: "officieel"
+signed_date: "2018-01-29"
+entry_into_force: "2018-02-22"
 ---
-
 # Beleidsregels CAK inning bestuursrechtelijke premie Zorgverzekeringswet 2018
 
 gelet op [artikel 9a tot en met 9d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9a), [18a tot en met 18g](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18a), en [34a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34a), alsmede [paragraaf 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&paragraaf=4a) en [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&paragraaf=5) van de Regeling zorgverzekering;
 
 besluit om de volgende beleidsregels vast te stellen:
 
-#### Artikel 1. De melding van de zorgverzekering als bedoeld in [artikel 18c van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18c) (wanbetalers)
+##### Artikel 1. De melding van de zorgverzekering als bedoeld in [artikel 18c van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18c) (wanbetalers)
 
 1. Voor de toepassing en de uitvoering van het bepaalde in de [artikelen 18c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18c), [18d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18d) in combinatie met [18f](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18f), [18g](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18g) en [34a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34a) maakt het CAK gebruik van de gegevens die de zorgverzekeraar verschaft op grond van de regeling ingevolge [artikel 92 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=92), van de gegevens uit de Basisregistratie Personen (BRP) en van de gegevens uit de UWV-polisadministratie.
 
@@ -36,13 +61,13 @@ besluit om de volgende beleidsregels vast te stellen:
 
 - f. de melding ziet op een zorgverzekering van een overleden verzekeringnemer en, indien deze een andere is dan de verzekeringnemer, de verzekerde.
 
-#### Artikel 2. De zorgverzekering als bedoeld in [artikel 9d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9d) en [18e van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18e) (voormalig onverzekerden)
+##### Artikel 2. De zorgverzekering als bedoeld in [artikel 9d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9d) en [18e van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18e) (voormalig onverzekerden)
 
 1. Voor de toepassing en uitvoering van het bepaalde in de [artikelen 18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18e) in combinatie met [18f](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18f), [18g](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18g) en [34a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34a) maakt het CAK gebruik van de gegevens die zijn gebruikt bij de toepassing en uitvoering van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9a), [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9b), [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9c) en [9d van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9d), van de gegevens uit de Basisregistratie Personen en van de gegevens uit de UWV-polisadministratie.
 
 2. Het CAK maakt, zo nodig, nadere werkafspraken met de zorgverzekeraars over de wijze en aanlevering van de gegevens, bedoeld in het eerste lid, en eventueel andere gegevens die noodzakelijk zijn voor de uitvoering van het bepaalde in de [artikelen 18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18e) in combinatie met [18f](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18f), [18g](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18g) en [34a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34a).
 
-#### Artikel 3. Het besluit van het CAK over de verschuldigdheid, de heffing en de inning van de bestuursrechtelijke premie
+##### Artikel 3. Het besluit van het CAK over de verschuldigdheid, de heffing en de inning van de bestuursrechtelijke premie
 
 1. Het CAK bericht de verzekeringnemer zo spoedig mogelijk dat de verzekeringnemer de bestuursrechtelijke premie verschuldigd is. Het CAK deelt daarbij ten minste mee:
 
@@ -66,7 +91,7 @@ besluit om de volgende beleidsregels vast te stellen:
 
 3. Indien de hoogte van de bestuursrechtelijke premie wijzigt stuurt het CAK voorafgaand aan de wijziging bericht daarvan aan de verzekeringnemer en, indien sprake is van een inhoudingsplichtige, aan de inhoudingsplichtige.
 
-#### Artikel 4. De inhouding door de inhoudingsplichtige
+##### Artikel 4. De inhouding door de inhoudingsplichtige
 
 1. Als een verzekeringnemer meerdere bronnen van loon of uitkering heeft, zal het CAK in beginsel de inhoudingsplichtige van wie de verzekeringnemer het hoogste inkomen ontvangt opdracht geven tot inhouding, mits dat inkomen toereikend is voor het voldoen van de maandelijkse bestuursrechtelijke premie.
 
@@ -86,7 +111,7 @@ De inhoudingsplichtige draagt de maandelijkse inhouding binnen zes weken na de e
 
 5. Indien de inhoudingsplichtige aan het CAK een verifieerbaar signaal geeft waaruit blijkt dat de verzekeringnemer geen inkomen meer van hem ontvangt, zal het CAK de inhoudingsplichtige zo spoedig mogelijk meedelen dat hij de opdracht tot inhouding van de bestuursrechtelijke premie intrekt. Het CAK zal gelijktijdig de verzekeringnemer over de intrekking informeren en daarbij meedelen op welke andere wijze de invordering van de bestuursrechtelijke premie wordt voortgezet.
 
-#### Artikel 5. De inschakeling van het Centraal Justitieel Incassobureau (CJIB) bij incasso van de vordering op de verzekeringnemer
+##### Artikel 5. De inschakeling van het Centraal Justitieel Incassobureau (CJIB) bij incasso van de vordering op de verzekeringnemer
 
 1. Het CAK draagt de invordering van de bestuursrechtelijke premie op aan het CJIB:
 
@@ -108,13 +133,13 @@ De inhoudingsplichtige draagt de maandelijkse inhouding binnen zes weken na de e
 
 8. Het CJIB kan het CAK adviseren de invordering te staken, omdat invordering gelet op de omstandigheden waarin de verzekeringnemer verkeert geen redelijk doel meer dient. Indien de invordering is gestaakt, kan het CAK op enig moment het CJIB verzoeken de invordering opnieuw aan te vangen.
 
-#### Artikel 6. De invordering van de bestuursrechtelijke premie bij de inhoudingsplichtige
+##### Artikel 6. De invordering van de bestuursrechtelijke premie bij de inhoudingsplichtige
 
 1. Indien de inhoudingsplichtige niet binnen zes weken na verzending van de opdracht tot inhouding en afdracht van de bestuursrechtelijke premie aan die opdracht voldoet, stuurt het CAK hem een herinnering tot betaling binnen twee weken na verzending van de herinnering. Blijft betaling binnen twee weken na de herinnering achterwege, dan stuurt het CAK een aanmaning. Daarbij zegt het CAK aan dat het de betaling bij het uitblijven daarvan kan afdwingen door op kosten van de inhoudingsplichtige invorderingsmaatregelen uit te voeren dan wel te laten uitvoeren.
 
 2. Indien na de termijn van twee weken na de aanmaning, bedoeld in het eerste lid, geen betaling heeft plaatsgevonden, zal het CAK tot invordering van de bestuursrechtelijke premie bij de inhoudingsplichtige middels een dwangbevel overgaan. Het dwangbevel kan betrekking hebben op meerdere bestuursrechtelijke maandpremies die niet door de inhoudingsplichtige zijn voldaan of op toekomstige vorderingen.
 
-#### Artikel 7. De eindafrekening voor de verzekeringnemer
+##### Artikel 7. De eindafrekening voor de verzekeringnemer
 
 1. Het CAK stuurt zo spoedig mogelijk na ontvangst van een melding, bedoeld in [artikel 18d, derde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18d), de verzekeringnemer een bericht dat deze de bestuursrechtelijke premie niet langer verschuldigd is. Het CAK stuurt tevens zo spoedig mogelijk na afloop van de periode, bedoeld in [artikel 18e, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18e), de verzekeringnemer een bericht dat deze de bestuursrechtelijke premie niet langer verschuldigd is. Hierbij vermeldt het CAK dat het niet mogelijk is tegen dit besluit bezwaar aan te tekenen.
 
@@ -132,7 +157,7 @@ De inhoudingsplichtige draagt de maandelijkse inhouding binnen zes weken na de e
 
 5. Het CAK maakt de opschorting, bedoeld in het vorige lid, ongedaan zodra de overeenkomst tot stabilisatie is beëindigd, er geen sprake meer is van een betalingsregeling als bedoeld in [artikel 18d, tweede lid, onderdeel c, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18d) of als artikel 18d, tweede lid, onderdeel d, van de Zorgverzekeringswet niet langer van toepassing is.
 
-#### Artikel 8. De invordering restschuld bij de verzekeringnemer door het CJIB
+##### Artikel 8. De invordering restschuld bij de verzekeringnemer door het CJIB
 
 1. Indien het CAK vaststelt dat de verzekeringnemer het saldo van de eindafrekening aan het CAK moet betalen zal het CJIB, namens het CAK, tot invordering van het saldo overgaan, tenzij het CAK aanleiding heeft om af te zien van het invorderen van het saldo van de eindafrekening.
 
@@ -150,7 +175,7 @@ Het CAK vermeldt dit op de eindafrekening.
 
 6. Het CJIB zal, namens het CAK, de kosten van invordering en beslaglegging in verband met de invordering van het saldo op de eindafrekening bij de verzekeringnemer in rekening brengen.
 
-#### Artikel 9. De betalingsregeling voor de invordering van de restschuld bij de verzekeringnemer
+##### Artikel 9. De betalingsregeling voor de invordering van de restschuld bij de verzekeringnemer
 
 1. In afwijking van het bepaalde in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040645&artikel=8&z=2018-02-22&g=2018-02-22), kan het CJIB, namens het CAK, de verzekeringnemer een standaard betaalvoorstel doen ter voldoening van het saldo van de eindafrekening.
 
@@ -174,7 +199,7 @@ Het CAK vermeldt dit op de eindafrekening.
 
 6. Het CJIB treft geen betalingsregeling, namens het CAK, indien het saldo van de eindafrekening ter invordering aan de deurwaarder is overgedragen.
 
-#### Artikel 10. Het afzien van invordering van de restschuld bij de verzekeringnemer
+##### Artikel 10. Het afzien van invordering van de restschuld bij de verzekeringnemer
 
 Het CAK vordert het saldo van de eindafrekening niet in als:
 
@@ -184,7 +209,7 @@ Het CAK vordert het saldo van de eindafrekening niet in als:
 
 - c. het saldo van de eindafrekening minder dan 50 euro bedraagt.
 
-#### Artikel 11. De vaststelling en invordering van de achterstallige betalingen bij de inhoudingsplichtige na afmelding
+##### Artikel 11. De vaststelling en invordering van de achterstallige betalingen bij de inhoudingsplichtige na afmelding
 
 1. Het CAK stuurt gelijk met het bericht, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040645&artikel=7&z=2018-02-22&g=2018-02-22), aan de inhoudingsplichtige een bericht dat deze niet langer de bestuursrechtelijke premie hoeft in te houden en af te dragen. Hierbij vermeldt het CAK dat het niet mogelijk is tegen dit besluit bezwaar aan te tekenen.
 
@@ -196,15 +221,15 @@ Het CAK vordert het saldo van de eindafrekening niet in als:
 
 5. Het CAK vordert het saldo van de eindafrekening, bedoeld in het tweede lid, niet in als het saldo minder dan 50 euro bedraagt.
 
-#### Artikel 12. Werkafspraken
+##### Artikel 12. Werkafspraken
 
 Het CAK maakt zo nodig met het CJIB, Vektis, het Uitvoeringsinstituut Werknemersverzekeringen, de Belastingdienst, de Sociale Verzekeringsbank en de zorgverzekeraars werkafspraken ten behoeve van de uitvoering van het bepaalde in de [artikelen 18c tot en met 18g](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18c) en [34a, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34a), en het bepaalde in deze beleidsregels. Zo nodig kan daarbij van het bepaalde in deze beleidsregels worden afgeweken.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregels CAK inning bestuursrechtelijke premie Zorgverzekeringswet 2018.
 
-#### Artikel 14. Inwerkingtreding en publicatie
+##### Artikel 14. Inwerkingtreding en publicatie
 
 Dit besluit treedt een dag na publicatie in de Staatscourant in werking en werkt terug tot en met 1 januari 2018.
 

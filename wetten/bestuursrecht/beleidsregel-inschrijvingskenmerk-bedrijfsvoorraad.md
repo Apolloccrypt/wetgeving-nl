@@ -1,20 +1,44 @@
 ---
 title: "Beleidsregel inschrijvingskenmerk bedrijfsvoorraad"
 identifier: "BWBR0012879"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-10-15
-laatste_update: 2001-10-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012879"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2001-10-15"
+last_updated: "2001-10-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012879"
+soort: "beleidsregel"
+stam_id: "6232863"
+version_id: "10905642"
+internal_id: "C14777961"
+label_id: "6221874"
+original_entry_into_force: "2001-10-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012879/2001-10-15/0"
+intitule_bron: "Stcrt.2001-198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-10-08"
+intitule_published: "2001-10-12"
+intitule_in_force: "2001-10-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-198"
+original_signed_date: "2001-10-08"
+original_published_date: "2001-10-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2001-198-p32-SC31273"
+entry_into_force_date: "2001-10-15"
+jci_1_3: "jci1.3:c:BWBR0012879&z=2001-10-15&g=2001-10-15"
+jci_1_0: "1.0:c:BWBR0012879&g=2001-10-15"
+citeertitel_status: "officieel"
+signed_date: "2001-10-08"
+entry_into_force: "2001-10-15"
 ---
-
 # Beleidsregel inschrijvingskenmerk bedrijfsvoorraad
 
 Gelet op [artikel 3.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.6);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -22,7 +46,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - b. **register** Nederlandse register voor burgerluchtvaartuigen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De eigenaar van een luchtvaartuig behorende tot de bedrijfsvoorraad kan bij de minister een inschrijvingskenmerk aanvragen als bedoeld in [artikel 3.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.6).
 
@@ -60,11 +84,11 @@ In deze beleidsregel wordt verstaan onder:
 
 6. Het inschrijvingskenmerk moet zijn verwijderd voordat het luchtvaartuig wordt overgedragen aan de nieuwe eigenaar.
 
-#### Artikel 3
+##### Artikel 3
 
 Op verzoek van de eigenaar als bedoeld in [artikel 2 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012879&artikel=2&z=2001-10-15&g=2001-10-15), verstrekt de minister aan de eigenaar een verklaring, dat het luchtvaartuig niet is ingeschreven, dan wel nooit is ingeschreven in het register.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking per 15 oktober 2001.
 

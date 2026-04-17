@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel vergoeding kosten aardbevingsbestendige infrastructuur Groningen"
+title: "Beleidsregel van de Minister van Economische Zaken en Klimaat van 15 februari 2021, nr. WJZ/ 20298861, tot vergoeding van kosten van maatregelen voor aardbevingsbestendige infrastructuur in Groningen (Beleidsregel vergoeding kosten aardbevingsbestendige infrastructuur Groningen)"
 identifier: "BWBR0044887"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-03-06
-laatste_update: 2021-03-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044887"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2021-03-06"
+last_updated: "2021-03-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044887"
+soort: "beleidsregel"
+stam_id: "15869553"
+version_id: "27576972"
+internal_id: "C38903211"
+label_id: "15804474"
+dtd_version: "2.0"
+original_entry_into_force: "2021-03-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044887/2021-03-06/0"
+intitule_bron: "Stcrt.2021-6682"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-02-15"
+intitule_published: "2021-03-05"
+intitule_in_force: "2021-03-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-6682"
+original_signed_date: "2021-02-15"
+original_published_date: "2021-03-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-6682"
+entry_into_force_date: "2021-03-06"
+jci_1_3: "jci1.3:c:BWBR0044887&z=2021-03-06&g=2021-03-06"
+jci_1_0: "1.0:c:BWBR0044887&g=2021-03-06"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel vergoeding kosten aardbevingsbestendige infrastructuur Groningen"
+signed_date: "2021-02-15"
+entry_into_force: "2021-03-06"
 ---
-
 # Beleidsregel van de Minister van Economische Zaken en Klimaat van 15 februari 2021, nr. WJZ/ 20298861, tot vergoeding van kosten van maatregelen voor aardbevingsbestendige infrastructuur in Groningen (Beleidsregel vergoeding kosten aardbevingsbestendige infrastructuur Groningen)
 
 Gelet op [artikel 52g, derde lid, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=52g) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - **veiligheidsnorm:** veiligheidsnorm als bedoeld in [artikel 1.3a.3, eerste lid, van de Mijnbouwregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&artikel=1.3a.3).
 
-#### Artikel 2. Toepassingsbereik
+##### Artikel 2. Toepassingsbereik
 
 1. Deze beleidsregel is van toepassing op infrastructuur die is gelegen op een locatie waar de piekgrondversnelling ten minste 0,05 g is, berekend en vastgesteld bij een herhalingstijd van 475 jaar.
 
@@ -38,7 +64,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ### Hoofdstuk 2. Vergoeding
 
-#### Artikel 3. Vergoeding voor onderzoek en maatregelen
+##### Artikel 3. Vergoeding voor onderzoek en maatregelen
 
 1. Indien dit redelijkerwijs nodig is om de infrastructuur te laten voldoen aan de veiligheidsnorm verstrekt de minister op aanvraag aan een beheerder van infrastructuur een vergoeding voor:
 
@@ -52,7 +78,7 @@ In deze beleidsregel wordt verstaan onder:
 
 4. De vergoeding wordt slechts verstrekt voor de kosten die direct verbonden zijn aan de activiteiten, bedoeld in het eerste lid.
 
-#### Artikel 4. Aanvraag voor vergoeding
+##### Artikel 4. Aanvraag voor vergoeding
 
 1. De aanvraag voor de vergoeding voor de activiteiten, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-03-06), bevat:
 
@@ -82,7 +108,7 @@ In deze beleidsregel wordt verstaan onder:
 
 3. De minister kan bij het beoordelen van een aanvraag advies vragen aan een onafhankelijk deskundige.
 
-#### Artikel 5. Inhoud en voorschriften
+##### Artikel 5. Inhoud en voorschriften
 
 1. In het besluit tot toekenning van de vergoeding wordt de hoogte van de vergoeding vastgesteld.
 
@@ -94,7 +120,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - c. de beheerder meldt aan de minister indien vertraging wordt opgelopen bij het uitvoeren van de te treffen maatregelen die kan leiden tot een overschrijding van de beoogde start- of einddatum, bedoeld in [artikel 4, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=4&z=2021-03-06&g=2021-03-06).
 
-#### Artikel 6. Betaling
+##### Artikel 6. Betaling
 
 1. Indien uit het onderzoek, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-03-06), blijkt dat geen maatregelen nodig zijn om de infrastructuur te laten voldoen aan de veiligheidsnorm, vindt de betaling van de in het besluit tot toekenning opgenomen vergoeding plaats binnen zes weken nadat het besluit tot toekenning is vastgesteld.
 
@@ -104,7 +130,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ### Hoofdstuk 3. Overige bepalingen
 
-#### Artikel 7. Afwijzingsgronden
+##### Artikel 7. Afwijzingsgronden
 
 De minister wijst een aanvraag af indien:
 
@@ -114,11 +140,11 @@ De minister wijst een aanvraag af indien:
 
 - c. de aanvrager eerder een privaatrechtelijke vergoeding door de Nederlandse Aardolie Maatschappij B.V. is verstrekt voor het uitvoeren van een activiteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-03-06), of daarvoor een aanvraag heeft gedaan waarop nog niet onherroepelijk is beslist.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2021.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel vergoeding kosten aardbevingsbestendige infrastructuur Groningen.
 

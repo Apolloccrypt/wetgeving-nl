@@ -1,13 +1,38 @@
 ---
-title: "Besluit politieonderwijsraad"
+title: "Besluit van 2 juni 2004 tot vaststelling van nadere regels inzake de organisatie, werkwijze en bekostiging van de politieonderwijsraad (Besluit politieonderwijsraad)"
 identifier: "BWBR0016802"
-categorie: "Onderwijs"
-publicatiedatum: 2017-11-29
-laatste_update: 2017-11-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016802"
+country: "nl"
+rank: "amvb"
+publication_date: "2017-11-29"
+last_updated: "2017-11-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016802"
+soort: "AMvB"
+stam_id: "5910013"
+version_id: "10499202"
+internal_id: "C14261071"
+label_id: "5899804"
+original_entry_into_force: "2004-06-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016802/2017-11-29/0"
+intitule_bron: "Stb.2004-254"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-06-02"
+intitule_published: "2004-06-17"
+intitule_in_force: "2004-06-17"
+intitule_status: "goed"
+original_publication: "Stb.2004-254"
+original_signed_date: "2004-06-02"
+original_published_date: "2004-06-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2004-254"
+entry_into_force_date: "2004-06-18"
+jci_1_3: "jci1.3:c:BWBR0016802&z=2017-11-29&g=2017-11-29"
+jci_1_0: "1.0:c:BWBR0016802&g=2017-11-29"
+citeertitel_status: "officieel"
+short_title: "Besluit politieonderwijsraad"
+signed_date: "2004-06-02"
+entry_into_force: "2004-06-18"
 ---
-
 # Besluit van 2 juni 2004 tot vaststelling van nadere regels inzake de organisatie, werkwijze en bekostiging van de politieonderwijsraad (Besluit politieonderwijsraad)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 1 april 2004, nr. EA2004/60035, directoraat-generaal voor Openbare Orde en Veiligheid;
@@ -22,13 +47,13 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In dit besluit wordt verstaan onder de raad: de politieonderwijsraad.
 
 #### § 2. Inrichting en werkwijze
 
-#### Artikel 2. Secretariaat
+##### Artikel 2. Secretariaat
 
 1. De raad wordt bijgestaan door een secretaris, die de leiding heeft over het secretariaat van de raad.
 
@@ -36,7 +61,7 @@ In dit besluit wordt verstaan onder de raad: de politieonderwijsraad.
 
 3. De secretaris en de overige leden van het secretariaat zijn geen lid van de raad.
 
-#### Artikel 3. Voorbereiding adviezen
+##### Artikel 3. Voorbereiding adviezen
 
 1. De raad kan, ter voorbereiding van een advies, een of meer ad hoc-werkgroepen instellen. Een werkgroep adviseert uitsluitend aan de raad.
 
@@ -44,7 +69,7 @@ In dit besluit wordt verstaan onder de raad: de politieonderwijsraad.
 
 3. De raad benoemt een van zijn leden tot voorzitter van een werkgroep als bedoeld in het eerste lid.
 
-#### Artikel 4. Totstandkoming adviezen, minderheidsstandpunt
+##### Artikel 4. Totstandkoming adviezen, minderheidsstandpunt
 
 1. De raad beraadslaagt en besluit in vergadering over de uit te brengen adviezen.
 
@@ -58,15 +83,15 @@ In dit besluit wordt verstaan onder de raad: de politieonderwijsraad.
 
 6. Een lid dat ter vergadering een standpunt heeft ingebracht dat afwijkt van het gevoelen van de meerderheid, kan over dat standpunt een afzonderlijke nota bij het advies voegen.
 
-#### Artikel 5. Reglement van Orde
+##### Artikel 5. Reglement van Orde
 
 De raad stelt een reglement van orde vast.
 
-#### Artikel 6. Informatieverwerving
+##### Artikel 6. Informatieverwerving
 
 De raad is bevoegd tot het horen van deskundigen, maatschappelijke organisaties en andere belanghebbenden teneinde informatie te verkrijgen die noodzakelijk is voor de taakuitvoering.
 
-#### Artikel 7. Middelen, begroting, jaarrekening
+##### Artikel 7. Middelen, begroting, jaarrekening
 
 1. De raad verricht zijn werkzaamheden binnen het kader van de middelen die hem jaarlijks door het Ministerie van Veiligheid en Justitie ter beschikking worden gesteld.
 
@@ -76,23 +101,23 @@ De raad is bevoegd tot het horen van deskundigen, maatschappelijke organisaties 
 
 #### § 3. Slotbepalingen
 
-#### Artikel 8. Archief
+##### Artikel 8. Archief
 
 1. Het beheer van de bescheiden betreffende de werkzaamheden van de raad geschiedt door het secretariaat, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016802&paragraaf=2&artikel=2&z=2017-11-29&g=2017-11-29), op overeenkomstige wijze als bij het Ministerie van Veiligheid en Justitie.
 
 2. De bescheiden worden bij opheffing van de raad overgedragen aan Onze Minister.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit politieonderwijsraad.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 8a
+##### Artikel 8a
 
 Dit besluit berust op [artikel 82, zevende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=82).
 

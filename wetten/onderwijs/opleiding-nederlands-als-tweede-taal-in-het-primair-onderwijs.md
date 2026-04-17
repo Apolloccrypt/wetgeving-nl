@@ -1,13 +1,36 @@
 ---
 title: "Opleiding Nederlands als tweede taal in het primair onderwijs"
 identifier: "BWBR0012568"
-categorie: "Onderwijs"
-publicatiedatum: 2001-06-27
-laatste_update: 2001-06-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012568"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2001-06-27"
+last_updated: "2001-06-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012568"
+soort: "beleidsregel"
+stam_id: "6461493"
+version_id: "11137362"
+internal_id: "C15055651"
+label_id: "6450234"
+original_entry_into_force: "2001-06-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012568/2001-06-27/0"
+intitule_bron: "Uitleg.2001-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-06-14"
+intitule_published: "2001-06-27"
+intitule_in_force: "2001-06-27"
+intitule_status: "goed"
+original_publication: "Uitleg.2001-18"
+original_signed_date: "2001-06-14"
+original_published_date: "2001-06-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-06-27"
+jci_1_3: "jci1.3:c:BWBR0012568&z=2001-06-27&g=2001-06-27"
+jci_1_0: "1.0:c:BWBR0012568&g=2001-06-27"
+citeertitel_status: "redactioneel"
+signed_date: "2001-06-14"
+entry_into_force: "2001-06-27"
 ---
-
 # Opleiding Nederlands als tweede taal in het primair onderwijs
 
 ### Inleiding

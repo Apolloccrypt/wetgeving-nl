@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Botswana inzake luchtdiensten tussen en via hun onderscheiden grondgebieden"
 identifier: "BWBV0002580"
-categorie: "Milieu"
-publicatiedatum: 1994-04-15
-laatste_update: 1994-04-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002580"
+country: "nl"
+rank: "verdrag"
+publication_date: "1994-04-15"
+last_updated: "1994-04-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002580"
+soort: "verdrag"
+stam_id: "10002935533"
+version_id: "10002937662"
+internal_id: "C10006986961"
+label_id: "10002922814"
+dtd_version: "2.0"
+original_entry_into_force: "1994-04-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002580/1994-04-15/0"
+intitule_bron: "Trb.1990-130"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-06-26"
+intitule_published: "1990-09-05"
+intitule_in_force: "1994-05-25"
+intitule_status: "goed"
+original_publication: "Trb.1990-130"
+original_signed_date: "1990-06-26"
+original_published_date: "1990-09-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1990-130"
+entry_into_force_date: "1994-04-15"
+jci_1_3: "jci1.3:c:BWBV0002580&z=1994-04-15&g=1994-04-15"
+jci_1_0: "1.0:c:BWBV0002580&g=1994-04-15"
+citeertitel_status: "officieel"
+signed_date: "1990-06-26"
+entry_into_force: "1994-04-15"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Botswana inzake luchtdiensten tussen en via hun onderscheiden grondgebieden
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Botswana,
@@ -20,7 +45,7 @@ Geleid door de wens een overeenkomst te sluiten met het doel luchtdiensten in te
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Tenzij het zinsverband anders vereist, hebben in deze Overeenkomst en de Bijlage de volgende termen de daaraan hierbij toegekende betekenis:
 
@@ -48,7 +73,7 @@ Tenzij het zinsverband anders vereist, hebben in deze Overeenkomst en de Bijlage
 
 - j. onder „verandering van luchtvaartuig” wordt verstaan: de exploitatie van één van de overeengekomen diensten door een aangewezen luchtvaartmaatschappij op zodanige wijze dat één of meer van de sectoren van de route worden afgelegd door luchtvaartuigen waarvan de capaciteit afwijkt van die welke voor een andere sector worden gebruikt.
 
-#### Artikel 2. Verleende rechten
+##### Artikel 2. Verleende rechten
 
 1. Elke Overeenkomstsluitende Partij verleent de andere Overeenkomstsluitende Partij, tenzij in de Bijlage anders is bepaald, de volgende rechten voor het verrichten van internationaal luchtvervoer door de aangewezen luchtvaartmaatschappij van de andere Overeenkomstsluitende Partij:
 
@@ -60,7 +85,7 @@ Tenzij het zinsverband anders vereist, hebben in deze Overeenkomst en de Bijlage
 
 2. Geen van de bepalingen van het eerste lid van dit artikel wordt geacht de luchtvaartmaatschappij van de ene Overeenkomstsluitende Partij het recht te geven tot deelneming aan luchtvervoer tussen punten gelegen op het grondgebied van de andere Overeenkomstsluitende Partij.
 
-#### Artikel 3. Verandering van luchtvaartuig
+##### Artikel 3. Verandering van luchtvaartuig
 
 1. Elke aangewezen luchtvaartmaatschappij kan op iedere vlucht of op alle vluchten na gepast overleg tussen de luchtvaartautoriteiten van beide Overeenkomstsluitende Partijen van luchtvaartuig veranderen op het grondgebied van de andere Overeenkomstsluitende Partij of op enig punt langs de omschreven routes, mits:
 
@@ -72,7 +97,7 @@ Tenzij het zinsverband anders vereist, hebben in deze Overeenkomst en de Bijlage
 
 3. Een aangewezen luchtvaartmaatschappij kan verschillende of dezelfde vluchtnummers gebruiken voor de sectoren waarop haar verandering van luchtvaartuig betrekking heeft.
 
-#### Artikel 4. Aanwijzing en verlening van vergunningen
+##### Artikel 4. Aanwijzing en verlening van vergunningen
 
 1. Elke Overeenkomstsluitende Partij heeft het recht door middel van een schriftelijke kennisgeving langs diplomatieke weg aan de andere Overeenkomstsluitende Partij een luchtvaartmaatschappij aan te wijzen voor de exploitatie van luchtdiensten op de in de Bijlage omschreven routes en een eerder aangewezen luchtvaartmaatschappij te vervangen door een andere luchtvaartmaatschappij.
 
@@ -82,7 +107,7 @@ Tenzij het zinsverband anders vereist, hebben in deze Overeenkomst en de Bijlage
 
 4. Elke Overeenkomstsluitende Partij heeft het recht de in het tweede lid van dit artikel bedoelde exploitatievergunning te weigeren of deze vergunning te verlenen onder noodzakelijk geachte voorwaarden ter zake van de uitoefening van de in artikel 2 van deze Overeenkomst omschreven rechten door de aangewezen luchtvaartmaatschappij, indien niet te haren genoegen is aangetoond dat een aanmerkelijk deel van de eigendom van, en het daadwerkelijke toezicht op die luchtvaartmaatschappij berusten bij de Overeenkomstsluitende Partij die de luchtvaartmaatschappij heeft aangewezen en/of bij haar onderdanen.
 
-#### Artikel 5. Intrekking of opschorting van vergunningen
+##### Artikel 5. Intrekking of opschorting van vergunningen
 
 1. De luchtvaartautoriteiten van elke Overeenkomstsluitende Partij hebben het recht ten aanzien van een door de andere Overeenkomstsluitende Partij aangewezen luchtvaartmaatschappij de in artikel 4 bedoelde vergunningen niet te verlenen, deze vergunningen in te trekken of op te schorten of daaraan voorwaarden te verbinden:
 
@@ -96,7 +121,7 @@ Tenzij het zinsverband anders vereist, hebben in deze Overeenkomst en de Bijlage
 
 2. Tenzij onmiddellijk ingrijpen van wezenlijk belang is ter voorkoming van verdere inbreuken op de hierboven bedoelde wetten en voorschriften, worden de in het eerste lid van dit artikel opgesomde rechten slechts uitgeoefend na overleg met de luchtvaartautoriteiten van de andere Overeenkomstsluitende Partij. Tenzij anders door de Overeenkomstsluitende Partijen is overeengekomen, vangt zulk overleg aan binnen een termijn van zestig (60) dagen na de datum van ontvangst van het verzoek ter zake.
 
-#### Artikel 6. Tarieven
+##### Artikel 6. Tarieven
 
 1. De tarieven die door de aangewezen luchtvaartmaatschappijen van de Overeenkomstsluitende Partijen worden berekend voor het vervoer tussen hun grondgebieden, zijn die welke zijn goedgekeurd door de luchtvaartautoriteiten van beide Overeenkomstsluitende Partijen en zij worden vastgesteld op een redelijk niveau, waarbij naar behoren rekening wordt gehouden met alle relevante factoren, waaronder begrepen de exploitatiekosten, een redelijke winst en de tarieven van andere luchtvaartmaatschappijen voor enig deel van de omschreven route.
 
@@ -114,7 +139,7 @@ Tenzij het zinsverband anders vereist, hebben in deze Overeenkomst en de Bijlage
 
 8. De aangewezen luchtvaartmaatschappijen van beide Overeenkomstsluitende Partijen mogen geen tarieven berekenen die afwijken van die welke in overeenstemming met de bepalingen van dit artikel zijn goedgekeurd.
 
-#### Artikel 7. Commerciële activiteiten
+##### Artikel 7. Commerciële activiteiten
 
 1. Het is de aangewezen luchtvaartmaatschappijen van beide Overeenkomstsluitende Partijen toegestaan om:
 
@@ -128,19 +153,19 @@ Tenzij het zinsverband anders vereist, hebben in deze Overeenkomst en de Bijlage
 
 4. Bovenvermelde activiteiten worden verricht in overeenstemming met de wetten en voorschriften van de andere Overeenkomstsluitende Partij.
 
-#### Artikel 8. Eerlijke concurrentie
+##### Artikel 8. Eerlijke concurrentie
 
 1. De aangewezen luchtvaartmaatschappijen van beide Partijen worden op eerlijk en gelijke wijze in de gelegenheid gesteld deel te nemen aan het internationale luchtvervoer dat door deze Overeenkomst wordt beheerst.
 
 2. Elke Partij treft alle passende maatregelen binnen haar rechtsmacht ter bestrijding van alle vormen van discriminatie of oneerlijke concurrentiepraktijken die de concurrentiepositie van de luchtvaartmaatschappijen van de andere Partij nadelig beïnvloeden.
 
-#### Artikel 9. Dienstregeling
+##### Artikel 9. Dienstregeling
 
 1. De door elke Overeenkomstsluitende Partij aangewezen luchtvaartmaatschappij legt 60 (zestig)dagen tevoren de dienstregeling van haar voorgenomen diensten ter goedkeuring voor aan de luchtvaartautoriteiten van de andere Overeenkomstsluitende Partij, en vermeldt daarbij de frequentie, het type luchtvaartuig, de klasse en het aantal der zitplaatsen dat beschikbaar zal zijn voor het publiek.
 
 2. Verzoeken om toestemming voor het uitvoeren van extra vluchten kunnen door de aangewezen luchtvaartmaatschappij rechtstreeks aan de luchtvaartautoriteiten van de andere Overeenkomstsluitende Partij ter goedkeuring worden voorgelegd.
 
-#### Artikel 10. Belastingen, douanerechten en heffingen
+##### Artikel 10. Belastingen, douanerechten en heffingen
 
 1. Luchtvaartuigen die door de aangewezen luchtvaartmaatschappij van een van beide Overeenkomstsluitende Partijen op internationale luchtdiensten worden gebruikt, alsmede: hun normale uitrustingsstukken, reservedelen, voorraden brandstof en smeermiddelen en boordproviand (waaronder etenswaren, dranken en tabaksartikelen) die zich aan boord bevinden, alsmede reclame- en promotiemateriaal aan boord van zodanige luchtvaartuigen, zijn bij binnenkomst op het grondgebied van de andere Overeenkomstsluitende Partij vrijgesteld van alle douanerechten, inspectiekosten en soortgelijke nationale of lokale belastingen en heffingen, mits genoemde uitrusting en voorraden aan boord van het luchtvaartuig blijven totdat zij weer worden uitgevoerd.
 
@@ -148,7 +173,7 @@ Tenzij het zinsverband anders vereist, hebben in deze Overeenkomst en de Bijlage
 
 3. De normale boorduitrustingstukken, reservedelen, voorraden brandstof en smeermiddelen en boordproviand die zich aan boord bevinden van de luchtvaartuigen van een der Overeenkomstsluitende Partijen kunnen op het grondgebied van de andere Overeenkomstsluitende Partij slechts worden uitgeladen met toestemming van de douaneautoriteiten van laatstgenoemde Partij, die kunnen verlangen dat deze onder hun toezicht worden geplaatst totdat zij weer worden uitgevoerd of overeenkomstig de douanevoorschriften een andere bestemming hebben gekregen.
 
-#### Artikel 11. Overmaking van gelden
+##### Artikel 11. Overmaking van gelden
 
 1. Het staat de luchtvaartmaatschappijen van de Overeenkomstsluitende Partijen vrij om rechtstreeks of via een agent luchtvervoersdiensten te verkopen op het grondgebied van beide Overeenkomstsluitende Partijen, ongeacht in welke munteenheid.
 
@@ -156,7 +181,7 @@ Tenzij het zinsverband anders vereist, hebben in deze Overeenkomst en de Bijlage
 
 3. De luchtvaartmaatschappijen van de Overeenkomstsluitende Partijen verkrijgen op verzoek toestemming voor bedoelde overmaking in een vrij inwisselbare munteenheid, die slechts is onderworpen aan de desbetreffende deviezenbepalingen die op niet-discriminatoire wijze gelden voor alle landen in soortgelijke omstandigheden. Bedoelde overmakingen geschieden tegen de wisselkoers voor lopende transacties die van kracht is op het tijdstip waarop de baten worden aangeboden om te worden gewisseld.
 
-#### Artikel 12. Toepassing van wetten, voorschriften en procedures
+##### Artikel 12. Toepassing van wetten, voorschriften en procedures
 
 1. De wetten, voorschriften en procedures van een Overeenkomstsluitende Partij betreffende de toelating tot of het vertrek uit haar grondgebied van in internationale luchtdiensten gebruikte luchtvaartuigen of betreffende de exploitatie van en het vliegen met zodanige luchtvaartuigen dienen door de aangewezen luchtvaartmaatschappij van de andere Overeenkomstsluitende Partij te worden nageleefd vanaf de binnenkomst in en tot en met het vertrek uit genoemd grondgebied.
 
@@ -168,13 +193,13 @@ Tenzij het zinsverband anders vereist, hebben in deze Overeenkomst en de Bijlage
 
 5. Geen der Overeenkomstsluitende Partijen begunstigt een andere luchtvaartmaatschappij ten opzichte van de aangewezen luchtvaartmaatschappij van de andere Overeenkomstsluitende Partij bij de toepassing van haar voorschriften inzake douane, immigratie, quarantaine en soortgelijke voorschriften of bij het gebruik van luchthavens, luchtwegen, luchtverkeersdiensten en aanverwante voorzieningen waarover zij zeggenschap heeft.
 
-#### Artikel 13. Erkenning van bewijzen en vergunningen
+##### Artikel 13. Erkenning van bewijzen en vergunningen
 
 Bewijzen van luchtwaardigheid, bewijzen van bevoegdheid en vergunningen die door een van de Overeenkomstsluitende Partijen zijn uitgereikt of geldig verklaard en die nog niet zijn verlopen, worden door de andere Overeenkomstsluitende Partij als geldig erkend voor de exploitatie van overeengekomen diensten op de omschreven routes, mits deze bewijzen en vergunningen werden uitgereikt of geldig verklaard overeenkomstig de op grond van, het Verdrag vastgestelde normen.
 
 Elke Overeenkomstsluitende Partij behoudt zich evenwel het recht voor om voor vluchten boven haar grondgebied de erkenning te weigeren van bewijzen van bevoegdheid en vergunningen die door de andere Overeenkomstsluitende Partij zijn verstrekt aan haar eigen onderdanen.
 
-#### Artikel 14. Veiligheid
+##### Artikel 14. Veiligheid
 
 1. De Overeenkomstsluitende Partijen komen overeen elkander de bijstand te verlenen die nodig is ter voorkoming van het wederrechtelijk in zijn macht brengen van luchtvaartuigen en andere wederrechtelijke gedragingen gericht tegen de veiligheid van luchtvaartuigen, luchthavens en luchtvaartvoorzieningen, en elke andere bedreiging voor de veiligheid van de luchtvaart.
 
@@ -186,7 +211,7 @@ Elke Overeenkomstsluitende Partij behoudt zich evenwel het recht voor om voor vl
 
 5. Wanneer zich een voorval voordoet van het wederrechtelijk in zijn macht brengen van een luchtvaartuig of van andere wederrechtelijke gedragingen gericht tegen de veiligheid van een luchtvaartuig, of zich dreigt voor te doen, verlenen de Overeenkomstsluitende Partijen elkander bijstand door de verbindingen die bedoeld zijn om op snelle en veilige wijze aan zulk een voorval of de dreiging daarvan een einde te maken, te vergemakkelijken.
 
-#### Artikel 15. Overleg en wijziging
+##### Artikel 15. Overleg en wijziging
 
 1. In een geest van nauwe samenwerking plegen de luchtvaartautoriteiten van de Overeenkomstsluitende Partij van tijd tot tijd overleg met elkander, ten einde te verzekeren dat de bepalingen van deze Overeenkomst worden uitgevoerd en naar tevredenheid worden nageleefd, en zij plegen indien nodig overleg om in wijziging daarvan te voorzien.
 
@@ -196,7 +221,7 @@ Elke Overeenkomstsluitende Partij behoudt zich evenwel het recht voor om voor vl
 
 4. Elke wijziging op of verandering in de Bijlage bij deze Overeenkomst wordt schriftelijk overeengekomen tussen de luchtvaartautoriteiten en treedt in werking na bevestiging door middel van een diplomatieke notawisseling.
 
-#### Artikel 16. Regeling van geschillen
+##### Artikel 16. Regeling van geschillen
 
 1. Indien tussen de Overeenkomstsluitende Partijen een geschil ontstaat met betrekking tot de uitlegging of toepassing van de onderhavige Overeenkomst, trachten de Overeenkomstsluitende Partijen dit in de eerste plaats te regelen door middel van onderlinge onderhandelingen.
 
@@ -204,29 +229,29 @@ Elke Overeenkomstsluitende Partij behoudt zich evenwel het recht voor om voor vl
 
 3. De Overeenkomstsluitende Partijen verplichten zich ertoe zich te houden aan elke uitspraak gedaan op grond van het tweede lid van dit artikel.
 
-#### Artikel 17. Beëindiging
+##### Artikel 17. Beëindiging
 
 Elk der Overeenkomstsluitende Partijen kan te allen tijde langs diplomatieke weg de andere Overeenkomstsluitende Partij schriftelijk mededeling doen van haar besluit deze Overeenkomst te beëindigen. Deze mededeling wordt tegelijkertijd gezonden aan de Internationale Burgerluchtvaartorganisatie. In een dergelijk geval eindigt deze Overeenkomst twaalf (12) maanden na de datum van ontvangst van de mededeling door de andere Overeenkomstsluitende Partij, tenzij de mededeling van beëindiging in onderlinge overeenstemming wordt ingetrokken vóór het verstrijken van deze termijn. Indien de andere Overeenkomstsluitende Partij nalaat de ontvangst te bevestigen, wordt de mededeling geacht te zijn ontvangen veertien (14) dagen na ontvangst van de mededeling door de Internationale Burgerluchtvaartorganisatie.
 
-#### Artikel 18. Registratie bij de ICAO
+##### Artikel 18. Registratie bij de ICAO
 
 Deze Overeenkomst en alle wijzigingen daarop worden geregistreerd bij de Internationale Burgerluchtvaartorganisatie (ICAO).
 
-#### Artikel 19. Toepasselijkheid van multilaterale overeenkomsten
+##### Artikel 19. Toepasselijkheid van multilaterale overeenkomsten
 
 1. De bepalingen van het Verdrag worden op deze Overeenkomst toegepast.
 
 2. Indien een door beide Partijen aanvaarde multilaterale overeenkomst ter zake van een aangelegenheid die door deze Overeenkomst wordt beheerst in werking treedt, hebben de desbetreffende bepalingen van die overeenkomst voorrang boven de desbetreffende bepalingen van de onderhavige Overeenkomst.
 
-#### Artikel 20. Werkingssfeer
+##### Artikel 20. Werkingssfeer
 
 Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst slechts van toepassing op het Rijk in Europa.
 
-#### Artikel 21. **Inwerkingtreding**
+##### Artikel 21. **Inwerkingtreding**
 
 De onderhavige Overeenkomst wordt voorlopig toegepast vanaf de datum van ondertekening en treedt in werking op de dag waarop de Overeenkomstsluitende Partijen elkander schriftelijk hebben medegedeeld dat aan de in hun onderscheiden landen daarvoor constitutioneel vereiste formaliteiten is voldaan.
 
-#### A
+##### A
 
 1. Punten die in beide richtingen kunnen worden aangedaan door de aangewezen luchtvaartmaatschappij van de Republiek Botswana:
 
@@ -236,7 +261,7 @@ Punten in Botswana - tussenliggende punten - punten in Nederland - verder gelege
 
 Punten in Nederland - tussenliggende punten - punten in Botswana - verder gelegen punten in Zuidelijk Afrika.
 
-#### B
+##### B
 
 1. Elk punt of alle punten op de omschreven routes kan of kunnen op een vlucht of alle vluchten worden overgeslagen.
 

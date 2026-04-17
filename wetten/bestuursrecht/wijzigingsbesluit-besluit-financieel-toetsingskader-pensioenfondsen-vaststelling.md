@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit financieel toetsingskader pensioenfondsen (vaststelling parameters voor fondsen)"
+title: "Besluit van 24 juli 2010 tot wijziging van het Besluit financieel toetsingskader pensioenfondsen in verband met vaststelling van de parameters voor fondsen"
 identifier: "BWBR0027993"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027993"
+country: "nl"
+rank: "amvb"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027993"
+soort: "AMvB"
+stam_id: "10628903"
+version_id: "17560382"
+internal_id: "C24302731"
+label_id: "10603704"
+dtd_version: "2.0"
+original_entry_into_force: "2010-08-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027993/2012-01-01/0"
+intitule_bron: "Stb.2010-315"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-07-24"
+intitule_published: "2010-08-03"
+intitule_in_force: "2010-08-03"
+intitule_status: "goed"
+original_publication: "Stb.2010-315"
+original_signed_date: "2010-07-24"
+original_published_date: "2010-08-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-315"
+entry_into_force_date: "2010-08-04"
+jci_1_3: "jci1.3:c:BWBR0027993&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBR0027993&g=2012-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit financieel toetsingskader pensioenfondsen (vaststelling parameters voor fondsen)"
+signed_date: "2010-07-24"
+entry_into_force: "2010-08-04"
 ---
-
 # Besluit van 24 juli 2010 tot wijziging van het Besluit financieel toetsingskader pensioenfondsen in verband met vaststelling van de parameters voor fondsen
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 22 juni 2010, nr. AV/PB/2010/12710;
@@ -20,19 +46,19 @@ Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit financieel toetsingskader pensioenfondsen.
 
-#### Artikel II
+##### Artikel II
 
 Vervallen
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit financieel toetsingskader pensioenfondsen en dit besluit.
 
-#### Artikel IV
+##### Artikel IV
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

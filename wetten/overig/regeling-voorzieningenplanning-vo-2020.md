@@ -1,20 +1,46 @@
 ---
-title: "Regeling voorzieningenplanning vo 2020"
+title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 28 augustus 2020, nr. VO/5375953, houdende regels voor de voorzieningenplanning bij scholen in het voortgezet onderwijs (Regeling voorzieningenplanning vo 2020)"
 identifier: "BWBR0044042"
-categorie: "Overig"
-publicatiedatum: 2022-09-15
-laatste_update: 2022-09-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044042"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-09-15"
+last_updated: "2022-09-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044042"
+soort: "ministeriele-regeling"
+stam_id: "15616543"
+version_id: "28867462"
+internal_id: "C40871171"
+label_id: "15557054"
+dtd_version: "2.0"
+original_entry_into_force: "2022-08-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044042/2022-09-15/0"
+intitule_bron: "Stcrt.2020-46173"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-08-28"
+intitule_published: "2020-09-02"
+intitule_in_force: "2020-09-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-23306"
+original_signed_date: "2022-08-25"
+original_published_date: "2022-09-08"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-23306"
+entry_into_force_date: "2022-08-25"
+jci_1_3: "jci1.3:c:BWBR0044042&z=2022-09-15&g=2022-09-15"
+jci_1_0: "1.0:c:BWBR0044042&g=2022-09-15"
+citeertitel_status: "officieel"
+short_title: "Regeling voorzieningenplanning vo 2020"
+signed_date: "2022-08-25"
+entry_into_force: "2022-08-25"
 ---
-
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 28 augustus 2020, nr. VO/5375953, houdende regels voor de voorzieningenplanning bij scholen in het voortgezet onderwijs (Regeling voorzieningenplanning vo 2020)
 
 Gelet op de [artikelen 64, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=64), [64a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=64a), [67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=67), [67a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=67a), [68, eerste, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=68), [71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=71), [72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=72), [72a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=72a), en [76 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=76);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,15 +74,15 @@ In deze regeling wordt verstaan onder:
 
 - –. **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Hemelsbreed afstand meten
+##### Artikel 2. Hemelsbreed afstand meten
 
 De hemelsbreed gemeten afstand tussen twee adressen, bedoeld in [artikel 4.15, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.15), [artikel 4.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.16), [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.17) of [artikel 4.20, eerste lid, onderdelen a en c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.20), wordt berekend door de afstand in meters te bepalen met de formule: √((x1 - x2)2 + (y1 - y2)2), waarin x1 en y1 de BAG-coördinaten zijn van het ene adres en x2 en y2 de BAG-coördinaten zijn van het andere adres.
 
-#### Artikel 3. Beschikbaar stellen gegevens over voedingsgebied
+##### Artikel 3. Beschikbaar stellen gegevens over voedingsgebied
 
 DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot het voedingsgebied via de elektronische weg beschikbaar aan de aanvrager.
 
-#### Artikel 4. Melding voorgenomen aanvraag tot bekostiging
+##### Artikel 4. Melding voorgenomen aanvraag tot bekostiging
 
 1. Het bevoegd gezag maakt melding van een voorgenomen aanvraag als bedoeld in [artikel 4.5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.5), tussen 1 juni tot en met 30 juni in het kalenderjaar van de aanvraag, bedoeld in artikel 4.5, eerste lid, van de wet.
 
@@ -88,7 +114,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 5. De melding van de voorgenomen aanvraag tot bekostiging wordt gedaan in het digitale portaal via de website www.duo.nl.
 
-#### Artikel 5. Aanvraag tot bekostiging
+##### Artikel 5. Aanvraag tot bekostiging
 
 1. Een aanvraag als bedoeld in [artikel 4.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.5), bevat naast de gegevens, genoemd in [artikel 4.5a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.5a) de volgende gegevens:
 
@@ -122,13 +148,13 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 3. De aanvraag tot bekostiging wordt ingediend in het digitale portaal via de website www.duo.nl.
 
-#### Artikel 6. Verklaring omtrent het gedrag
+##### Artikel 6. Verklaring omtrent het gedrag
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 67a, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=67a), is afgegeven volgens het screeningsprofiel onderwijs.
 
 2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=5&z=2022-09-15&g=2022-09-15), als in originele vorm aan DUO verstrekt.
 
-#### Artikel 7. Verblijfsjaren
+##### Artikel 7. Verblijfsjaren
 
 1. Het aantal verblijfsjaren, bedoeld in [artikel 4.6, derde lid, onderdeel a, letter w en onderdeel b, letter w, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.6), is voor de schoolsoort:
 
@@ -162,7 +188,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 3. Het aantal verblijfsjaren voor de afdeling havo, bedoeld in [artikel 8, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8), is 2,00.
 
-#### Artikel 8. Nadere regels belangstellingsmeting
+##### Artikel 8. Nadere regels belangstellingsmeting
 
 1. De correctiefactor, bedoeld in [artikel 4.6, derde lid, onderdeel a, letter z en onderdeel b, letter z, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.6), is 0,7.
 
@@ -170,7 +196,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 3. De aantallen, bedoeld in [artikel 4.6, derde lid, onderdeel a, letters x en w, en onderdeel b, letter w, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.6), stelt DUO vanaf 1 juli in het jaar van aanvraag beschikbaar aan de aanvrager.
 
-#### Artikel 9. Nadere regels ouderverklaringen
+##### Artikel 9. Nadere regels ouderverklaringen
 
 1. De ouderverklaring, bedoeld in [artikel 4.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.6), wordt door de ouder ingediend via de website www.duo.nl in de periode van 1 juli tot en met 29 oktober in het kalenderjaar van de aanvraag.
 
@@ -194,7 +220,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 9. Bij overtreding van het achtste lid kan de minister besluiten dat alle ingediende ouderverklaringen geen deel meer uitmaken van de desbetreffende belangstellingsmeting.
 
-#### Artikel 10. Uitzonderingssituaties toepassing marktonderzoek
+##### Artikel 10. Uitzonderingssituaties toepassing marktonderzoek
 
 1. Een marktonderzoek als bedoeld in [artikel 4.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.6), is uitsluitend toegestaan indien:
 
@@ -204,7 +230,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 2. Bij het aantonen van een groei als bedoeld in het eerste lid, onderdeel a, gebruikt het bevoegd gezag in ieder geval gegevens verstrekt door het Centraal Bureau voor de Statistiek en een voorspelling van de gemeente ten aanzien van de woningbouw waar het betreffende viercijferig postcodegebied in is gelegen.
 
-#### Artikel 11. Nadere regels marktonderzoek
+##### Artikel 11. Nadere regels marktonderzoek
 
 1. Een marktonderzoek als bedoeld in [artikel 4.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.6), wordt schriftelijk uitgevoerd, waarbij de anonimiteit van de ondervraagden wordt gegarandeerd.
 
@@ -234,13 +260,13 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 9. Indien de onderzoekspopulatie, bedoeld in [artikel 4.6, vijfde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.6), minder dan 5000 leerlingen bedraagt, is het minimale aantal leerlingen ten aanzien van wie aan het marktonderzoek is deelgenomen, bedoeld in artikel 4.6, derde lid, onderdeel b, letter x, van de wet, 10% van de onderzoekspopulatie. Indien de onderzoekspopulatie 5.000 of meer leerlingen bedraagt dan is het minimale aantal leerlingen ten aanzien van wie aan het marktonderzoek is deelgenomen, bedoeld in artikel 4.6, derde lid, onderdeel b, letter x, van de wet, 500.
 
-#### Artikel 12. Voorwaarde splitsen school of scholengemeenschap
+##### Artikel 12. Voorwaarde splitsen school of scholengemeenschap
 
 1. Van de te splitsen school of scholengemeenschap is het aantal leerlingen op de teldatum voorafgaand aan het kalenderjaar van de aanvraag minimaal gelijk aan tweemaal de stichtingsnorm.
 
 2. De minister besluit voor 1 juni of de school of scholengemeenschap na splitsing met ingang van 1 augustus daaraanvolgend voor bekostiging in aanmerking wordt gebracht.
 
-#### Artikel 13. Splitsingsplan
+##### Artikel 13. Splitsingsplan
 
 1. Bij een aanvraag tot bekostiging voor een school of scholengemeenschap die ontstaat na splitsing als bedoeld in [artikel 4.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.2):
 
@@ -282,7 +308,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 6. De aantallen in het vierde lid, letters g en h en het vijfde lid, letters k en l stelt DUO vanaf 1 juli in het jaar van de aanvraag beschikbaar aan de aanvrager.
 
-#### Artikel 14. Aanvraag tot bekostiging leerwegondersteunend onderwijs mavo of vbo
+##### Artikel 14. Aanvraag tot bekostiging leerwegondersteunend onderwijs mavo of vbo
 
 1. Onverminderd de voorwaarden, bedoeld in [artikel 70 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=70), kan de minister leerwegondersteunend onderwijs voor bekostiging in aanmerking brengen, indien redelijkerwijs kan worden aangenomen dat dit onderwijs zal worden gevolgd door ten minste 40 leerlingen. Voor een uitzonderingsschool, bedoeld in de [Beleidsregel uitzonderingsscholen VO 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032538), kan de minister afwijken van het vereiste aantal leerlingen.
 
@@ -310,7 +336,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 5. De aanvraag tot bekostiging van leerwegondersteunend onderwijs wordt ingediend in het digitale portaal via de website www.duo.nl.
 
-#### Artikel 15. Uitbreiding leerwegondersteunend onderwijs
+##### Artikel 15. Uitbreiding leerwegondersteunend onderwijs
 
 1. Indien het bevoegd gezag dat reeds bekostigd wordt voor het verzorgen van leerwegondersteunend onderwijs, bij de minister een aanvraag indient om dit onderwijs in meer leerwegen of op meer vestigingen te verzorgen, neemt de minister hierover een besluit.
 
@@ -320,23 +346,23 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 4. De aanvraag tot uitbreiding leerwegondersteunend onderwijs wordt ingediend in het digitale portaal via de website www.duo.nl.
 
-#### Artikel 16. Omzetting openbare school in bijzondere school
+##### Artikel 16. Omzetting openbare school in bijzondere school
 
 1. Het bevoegd gezag kan een aanvraag voor een omzetting als bedoeld in [artikel 4.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.9), indienen voor 1 november voorafgaand aan het kalenderjaar van de omzetting.
 
 2. Het bevoegd gezag vraagt advies aan de gedeputeerde staten over de voorgenomen omzetting. Indien de gedeputeerde staten advies geven, wordt dit advies met de aanvraag voor omzetting meegezonden.
 
-#### Artikel 17. Omzetting bijzondere school in openbare school
+##### Artikel 17. Omzetting bijzondere school in openbare school
 
 1. Het bevoegd gezag meldt voor 1 april schriftelijk aan DUO het voornemen om per 1 augustus daaraanvolgend over te gaan tot omzetting van een bijzondere school in een openbare school als bedoeld in [artikel 4.9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.9).
 
 2. Bij de melding voegt het bevoegd gezag een document waaruit blijkt dat het bevoegd gezag over de omzetting overleg heeft gevoerd met het college van burgemeester en wethouders van de betreffende gemeente.
 
-#### Artikel 18. Samenvoeging
+##### Artikel 18. Samenvoeging
 
 Het percentage, bedoeld in [artikel 4.10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.10), bedraagt 1.
 
-#### Artikel 19. Tijdelijke nevenvestiging
+##### Artikel 19. Tijdelijke nevenvestiging
 
 1. Het bevoegd gezag doet uiterlijk 17 weken voorafgaande aan de ingebruikname van een tijdelijke nevenvestiging als bedoeld in [artikel 73d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=73d) een schriftelijke melding aan DUO. Uit die melding volgt voor welke hoofdvestiging of nevenvestiging als bedoeld in de [artikelen 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.13) of [4.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.14), de tijdelijke nevenvestiging in de tijdelijke huisvestingsbehoefte voorziet.
 
@@ -348,19 +374,19 @@ Het percentage, bedoeld in [artikel 4.10, eerste lid, van de wet](https://wetten
 
 - b. dat met ingang van de datum van de feitelijke ingebruikname huisvesting voor de desbetreffende tijdelijke nevenvestiging beschikbaar is.
 
-#### Artikel 20. Percentage leerlingen nieuwe nevenvestiging
+##### Artikel 20. Percentage leerlingen nieuwe nevenvestiging
 
 Het percentage leerlingen, bedoeld in [artikel 64a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=64a), bedraagt 20.
 
-#### Artikel 21. Uitbreiding onderwijsaanbod vestiging binnen hemelsbreed drie kilometer
+##### Artikel 21. Uitbreiding onderwijsaanbod vestiging binnen hemelsbreed drie kilometer
 
 Het bevoegd gezag doet uiterlijk 17 weken voorafgaande aan de uitbreiding, bedoeld in [artikel 4.15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.15), een schriftelijke melding aan DUO.
 
-#### Artikel 22. Verplaatsing vestiging of deel onderwijsaanbod vestiging binnen hemelsbreed drie kilometer
+##### Artikel 22. Verplaatsing vestiging of deel onderwijsaanbod vestiging binnen hemelsbreed drie kilometer
 
 Het bevoegd gezag doet uiterlijk 17 weken voorafgaande aan de verplaatsing, bedoeld in [artikel 4.17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.17), een schriftelijke melding aan DUO.
 
-#### Artikel 23. Aanvraag onderwijsvoorzieningen deelnemers RPO
+##### Artikel 23. Aanvraag onderwijsvoorzieningen deelnemers RPO
 
 1. De aanvraag van het bevoegd gezag, bedoeld in [artikel 4.20, eerste lid, onderdelen a tot en met f, en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.20), bevat de volgende gegevens:
 
@@ -376,7 +402,7 @@ Het bevoegd gezag doet uiterlijk 17 weken voorafgaande aan de verplaatsing, bedo
 
 2. De aanvraag wordt ingediend in het digitale portaal via de website www.duo.nl.
 
-#### Artikel 24. Berekening leerlingverlies
+##### Artikel 24. Berekening leerlingverlies
 
 1. Leerlingverlies als bedoeld in [artikel 4.21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.21), wordt berekend op basis van de leerlingtelling in het kalenderjaar voorafgaand aan het kalenderjaar van de aanvraag van de nieuwe onderwijsvoorziening, bedoeld in [artikel 4.20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.20). Deze berekening vindt plaats door de leerlingen van de bestaande school per schoolsoort en per postcodegebied toe te rekenen aan de bestaande school of aan de nieuwe school afhankelijk van de kortste, hemelsbreed gemeten afstand, gemeten vanaf het middelpunt van het postcodegebied.
 
@@ -400,7 +426,7 @@ Het bevoegd gezag doet uiterlijk 17 weken voorafgaande aan de verplaatsing, bedo
 
 7. Het leerlingverlies van een school die één schoolsoort aanbiedt wordt berekend door het leerlingverlies voor alle leerjaren in absolute aantallen te berekenen, en deze absolute aantallen uit te drukken in een percentage van het totaal aantal leerlingen.
 
-#### Artikel 25. Gebruik gegevens voor leerlingprognose bij regionale samenwerking
+##### Artikel 25. Gebruik gegevens voor leerlingprognose bij regionale samenwerking
 
 1. De prognose van het aantal leerlingen per vestiging, bedoeld in [artikel 4.19, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.19), in het tiende kalenderjaar na vaststelling van het RPO, wordt berekend overeenkomstig de formule (g/h) * i, waarbij:
 
@@ -412,22 +438,22 @@ Het bevoegd gezag doet uiterlijk 17 weken voorafgaande aan de verplaatsing, bedo
 
 2. De aantallen in het eerste lid, letters g en h, stelt DUO vanaf 1 juli in het jaar van de aanvraag beschikbaar aan de aanvrager.
 
-#### Artikel 26. Intrekken [Regeling voorzieningenplanning vo 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041307)
+##### Artikel 26. Intrekken [Regeling voorzieningenplanning vo 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041307)
 
 De [Regeling voorzieningenplanning vo 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041307) wordt ingetrokken.
 
-#### Artikel 27. Inwerkingtreding
+##### Artikel 27. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 november 2020.
 
-#### Artikel 28. Citeertitel
+##### Artikel 28. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling voorzieningenplanning vo 2020. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 26a. Omhang
+##### Artikel 26a. Omhang
 
 Deze regeling berust op de [artikelen 4.2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.2), [4.2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.2a), [4.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.5), [4.5a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.5a), [4.6, eerste, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.6), [4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.9), [4.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.10), [4.11 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.11) en [4.29 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.29).
 
-#### Artikel 5a. Aanvragen tot bekostiging 2022
+##### Artikel 5a. Aanvragen tot bekostiging 2022
 
 In afwijking van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=5&z=2022-09-15&g=2022-09-15), blijkt voor aanvragen die worden ingediend in 2022 uit het document, bedoeld in [artikel 4.5a, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.5a), dat in de periode van 15 september 2021 en 15 september 2022 de in dat artikel bedoelde partijen zijn uitgenodigd om te overleggen.

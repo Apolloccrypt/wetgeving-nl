@@ -1,13 +1,38 @@
 ---
 title: "Tariefbeschikking orthodontische zorg"
 identifier: "BWBR0032539"
-categorie: "Sociaal recht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032539"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032539"
+soort: "zbo"
+stam_id: "11978073"
+version_id: "19911872"
+internal_id: "C27983661"
+label_id: "11949884"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032539/2013-01-01/0"
+intitule_bron: "Stcrt.2012-26443"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-11"
+intitule_published: "2012-12-20"
+intitule_in_force: "2012-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-26443"
+original_signed_date: "2012-12-11"
+original_published_date: "2012-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-26443"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032539&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032539&g=2013-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2012-12-11"
+entry_into_force: "2013-01-01"
 ---
-
 # Tariefbeschikking orthodontische zorg
 
 De Nederlandse Zorgautoriteit,

@@ -1,13 +1,35 @@
 ---
 title: "Organisatiebesluit BZK 2025"
 identifier: "BWBR0051449"
-categorie: "Overig"
-publicatiedatum: 2026-03-03
-laatste_update: 2026-03-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051449"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-03"
+last_updated: "2026-03-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051449"
+soort: "ministeriele-regeling"
+stam_id: "17513863"
+version_id: "30903522"
+internal_id: "C44279221"
+label_id: "17416514"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051449/2026-03-03/0"
+intitule_bron: "Stcrt.2025-29668"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-09-02"
+intitule_in_force: "2025-09-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-29668"
+original_published_date: "2025-09-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-29668"
+entry_into_force_date: "2025-09-03"
+jci_1_3: "jci1.3:c:BWBR0051449&z=2026-03-03&g=2026-03-03"
+jci_1_0: "1.0:c:BWBR0051449&g=2026-03-03"
+citeertitel_status: "officieel"
+entry_into_force: "2025-09-03"
 ---
-
 # Organisatiebesluit BZK 2025
 
 gelet op [artikel 3, tweede lid van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
@@ -18,7 +40,7 @@ vast te stellen het navolgende Organisatiebesluit BZK 2025:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Hoofd- en overlegstructuur
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het Ministerie bestaat uit de secretaris-generaal, de plaatsvervangend secretaris-generaal en de volgende dienstonderdelen:
 
@@ -94,7 +116,7 @@ In dit besluit wordt verstaan onder:
 
 5. De Nationaal Coördinator tegen Discriminatie en Racisme genoemd in het eerste lid, onder i, voert de opgedragen taken uit onder verantwoordelijkheid van de Minister. De regeringscommissaris [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) genoemd in het eerste lid, onder j, voert de opgedragen taken uit onder de verantwoordelijkheid van de Minister van Volkshuisvesting en Ruimtelijke Ordening.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Er is een Bestuursraad Binnenlandse Zaken en Koninkrijksrelaties Smal en een Bestuursraad Binnenlandse Zaken en Koninkrijksrelaties Breed.
 
@@ -114,7 +136,7 @@ In dit besluit wordt verstaan onder:
 
 9. Een adviseur van de directie P&O voert het secretariaat van de bespreking van het departementale personeelsbeleid.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Overeenkomstig [artikel 1 van het Besluit regeling functie en verantwoordelijkheid van de secretaris-generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419&artikel=1) (Stb. 1988, 499), is de secretaris-generaal belast met de ambtelijke leiding van al hetgeen het Ministerie betreft. Tot deze taak behoort in ieder geval:
 
@@ -138,7 +160,7 @@ In dit besluit wordt verstaan onder:
 
 2. De secretaris-generaal werkt samen met de secretaris-generaal van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening op basis van de afspraken die zijn vastgelegd (Besturingsafspraken).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De plaatsvervangend secretaris-generaal staat onder leiding van de secretaris-generaal.
 
@@ -172,7 +194,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.1. Directoraat-generaal Openbaar Bestuur en Democratische Rechtsstaat
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het directoraat-generaal Openbaar Bestuur en Democratische Rechtsstaat staat onder leiding van een directeur-generaal.
 
@@ -210,7 +232,7 @@ In dit besluit wordt verstaan onder:
 
 - e. de directie Versterken en Perspectief Groningen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De directie Constitutionele Zaken en Wetgeving staat onder leiding van een directeur.
 
@@ -232,7 +254,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.2. Directoraat-generaal Volkshuisvesting en Bouwen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het directoraat-generaal Volkshuisvesting en Bouwen staat onder leiding van een directeur-generaal.
 
@@ -272,7 +294,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.3. Directoraat-generaal Ruimtelijke Ordening
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het directoraat-generaal Ruimtelijke Ordening staat onder leiding van een directeur-generaal.
 
@@ -302,7 +324,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.4. Directoraat-generaal Koninkrijksrelaties
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het directoraat-generaal Koninkrijksrelaties staat onder leiding van een directeur-generaal.
 
@@ -342,7 +364,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.5. Directoraat-generaal Digitalisering en Overheidsorganisatie
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het directoraat-generaal Digitalisering en Overheidsorganisatie staat onder leiding van een directeur-generaal.
 
@@ -394,7 +416,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.6. Directoraat-generaal Algemene Bestuursdienst
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het directoraat-generaal Algemene Bestuursdienst staat onder leiding van een directeur-generaal.
 
@@ -426,7 +448,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.7. Directoraat-generaal Algemene Inlichtingen- en Veiligheidsdienst
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het directoraat-generaal Algemene Inlichtingen- en Veiligheidsdienst staat onder leiding van een directeur-generaal en een plaatsvervangend directeur-generaal.
 
@@ -448,7 +470,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.8. Het directoraat-generaal Vastgoed en Bedrijfsvoering Rijk
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het directoraat-generaal Vastgoed en Bedrijfsvoering Rijk staat onder leiding van een directeur-generaal.
 
@@ -506,7 +528,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.9. De Nationaal Coördinator tegen Discriminatie en Racisme
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Nationaal Coördinator tegen Discriminatie en Racisme staat beheersmatig onder leiding van de secretaris-generaal.
 
@@ -532,7 +554,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.10. De regeringscommissaris [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
 
-#### Artikel 16
+##### Artikel 16
 
 1. De regeringscommissaris [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) staat beheersmatig onder leiding van de secretaris-generaal.
 
@@ -548,7 +570,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.11. Cluster Mensen en Middelen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het cluster Mensen en Middelen, met uitzondering van FEZ en sRob, staat onder inhoudelijke leiding van de plaatsvervangend secretaris-generaal en onder beheersmatige leiding van de clusterdirecteur Mensen en Middelen. De directeur P&O vervult de rol van clusterdirecteur Mensen en Middelen. Bij afwezigheid van de plaatsvervangend secretaris-generaal is de clusterdirecteur Mensen en Middelen plaatsvervanger ten aanzien van aangelegenheden die het cluster Mensen en Middelen als geheel betreffen. Bij afwezigheid van de clusterdirecteur Mensen en Middelen is de directeur FEZ eerste plaatsvervanger en de directeur Chief Information Officer & Informatiemanagement tweede plaatsvervanger.
 
@@ -568,7 +590,7 @@ In dit besluit wordt verstaan onder:
 
 - d. het secretariaat van de Raad voor het openbaar bestuur (sRob).
 
-#### Artikel 18
+##### Artikel 18
 
 1. De directie P&O staat onder leiding van een directeur.
 
@@ -586,7 +608,7 @@ In dit besluit wordt verstaan onder:
 
 3. Onderdeel van de Directie P&O is et Bureau Integriteit en Sociale Veiligheid. Het Bureau Integriteit en Sociale Veiligheid geeft invulling aan de stelselverantwoordelijkheid op integriteit en sociale veiligheid. Het Bureau Integriteit en Sociale Veiligheid staat beleids- en beheersmatig onder leiding van de directeur P&O en voor de behandeling van integriteitscasuïstiek onder leiding van de secretaris-generaal.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De directie Financieel-economische Zaken staat onder leiding van een directeur.
 
@@ -618,7 +640,7 @@ In dit besluit wordt verstaan onder:
 
 - d. het adviseren van de (gemandateerd) continuïteitsverantwoordelijken van rijksbrede inkoopcategorieën binnen het Ministerie.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De directie CIO&I staat onder leiding van een directeur. De directeur CIO&I vervult tevens de rol van CIO BZK.
 
@@ -642,7 +664,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.12. Cluster Bestuursondersteuning
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het cluster Bestuursondersteuning staat onder inhoudelijke leiding van de plaatsvervangend secretaris-generaal en onder beheersmatige leiding van de clusterdirecteur Bestuursondersteuning. De rol van clusterdirecteur Bestuursondersteuning wordt roulerend vervuld door de directeuren KIEM, BA en Communicatie. Bij afwezigheid van de plaatsvervangend secretaris-generaal is de clusterdirecteur Bestuursondersteuning plaatsvervanger ten aanzien van aangelegenheden die het cluster Bestuursondersteuning als geheel betreffen.
 
@@ -656,7 +678,7 @@ In dit besluit wordt verstaan onder:
 
 - c. de directie Kennis, Internationaal, Europa en Macro-economie (KIEM).
 
-#### Artikel 22
+##### Artikel 22
 
 1. De directie Communicatie staat onder leiding van een directeur.
 
@@ -668,7 +690,7 @@ In dit besluit wordt verstaan onder:
 
 - c. managen van de dagelijkse actualiteit (kansen, issues, crises).
 
-#### Artikel 23
+##### Artikel 23
 
 1. De directie BA staat onder leiding van een directeur.
 
@@ -686,7 +708,7 @@ In dit besluit wordt verstaan onder:
 
 - f. voorbereiding van het departement op het beheersen van grootschalige incidenten, actualiteiten of crises, en invulling van de piketfunctie en interdepartementaal aanspreekpunt in geval van crisis.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De directie KIEM staat onder leiding van een directeur.
 
@@ -700,7 +722,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.13. Dienst van de Huurcommissie
 
-#### Artikel 25
+##### Artikel 25
 
 1. De Dienst van de Huurcommissie staat onder leiding van het bestuur van de Huurcommissie bedoeld in de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315).
 
@@ -708,7 +730,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.14. Agentschap Logius
 
-#### Artikel 26
+##### Artikel 26
 
 1. Logius staat onder leiding van een algemeen directeur.
 
@@ -724,7 +746,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.15. Agentschap Rijksdienst voor Identiteitsgegevens
 
-#### Artikel 27
+##### Artikel 27
 
 1. De Rijksdienst voor Identiteitsgegevens staat onder leiding van een algemeen directeur.
 
@@ -738,7 +760,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.16. Dienst Toelatingsorganisatie Kwaliteitsborging Bouw
 
-#### Artikel 28
+##### Artikel 28
 
 1. De dienst Toelatingsorganisatie Kwaliteitsborging Bouw staat onder leiding van het bestuur van de Toelatingsorganisatie Kwaliteitsborging Bouw.
 
@@ -746,7 +768,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.17. Dienst Nationaal Coördinator Groningen
 
-#### Artikel 29
+##### Artikel 29
 
 1. De dienst Nationaal Coördinator Groningen staat onder leiding van een algemeen directeur.
 
@@ -782,7 +804,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3.18. Toedeling taken aan het Ministerie van Volkshuisvesting en Ruimtelijke Ordening
 
-#### Artikel 30
+##### Artikel 30
 
 1. De volgende dienstonderdelen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties verrichten uitsluitend taken voor het Ministerie van Volkshuisvesting en Ruimtelijke Ordening:
 
@@ -814,7 +836,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 4.1. Inrichting van de organisatie
 
-#### Artikel 31
+##### Artikel 31
 
 1. De Minister stelt de inrichting van de organisatie vast conform het bepaalde in [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3).
 
@@ -826,7 +848,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 4.2. Overige taken
 
-#### Artikel 32
+##### Artikel 32
 
 1. Tot de taak van de directoraten-generaal, de clusters M&M en BO, RvIG en Logius behoort voorts de uitvoering van andere taken dan hiervoor genoemd, in opdracht van de bewindspersonen, de secretaris-generaal of de plaatsvervangend secretaris-generaal, voor zover hogere wet- en regelgeving zich daartegen niet verzet.
 
@@ -834,7 +856,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 4.3. Beheer
 
-#### Artikel 33
+##### Artikel 33
 
 1. De directeur P&O is belast met het beheer van dit besluit.
 
@@ -842,21 +864,21 @@ In dit besluit wordt verstaan onder:
 
 3. Het beheer en de aanlevering van gegevens geschieden met inachtneming van de desbetreffende (richtlijnen inzake) administratieve organisatiebeschrijvingen.
 
-#### Artikel 34
+##### Artikel 34
 
 Wijziging van dit besluit is voorbehouden aan de Minister en geschiedt op voordracht van de directeur P&O.
 
 #### Paragraaf 4.4. Slotbepalingen
 
-#### Artikel 35
+##### Artikel 35
 
 Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2025.
 
-#### Artikel 36
+##### Artikel 36
 
 Dit besluit wordt aangehaald als: Organisatiebesluit BZK 2025.
 
-#### Artikel 37
+##### Artikel 37
 
 Het Organisatiebesluit BZK 2023 wordt met ingang van 1 juli 2025 ingetrokken.
 

@@ -1,13 +1,38 @@
 ---
 title: "Schenk- en erfbelasting, samentelregeling bij ongehuwde partners"
 identifier: "BWBR0046581"
-categorie: "Belastingrecht"
-publicatiedatum: 2022-04-23
-laatste_update: 2017-04-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046581"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-04-23"
+last_updated: "2017-04-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046581"
+soort: "beleidsregel"
+stam_id: "16333663"
+version_id: "28569152"
+internal_id: "C40315151"
+label_id: "16258454"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046581/2022-04-23/0"
+intitule_bron: "Stcrt.2022-10935"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-04-13"
+intitule_published: "2022-04-22"
+intitule_in_force: "2022-04-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-10935"
+original_signed_date: "2022-04-13"
+original_published_date: "2022-04-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-10935"
+entry_into_force_date: "2022-04-23"
+jci_1_3: "jci1.3:c:BWBR0046581&z=2022-04-23&g=2022-04-23"
+jci_1_0: "1.0:c:BWBR0046581&g=2022-04-23"
+citeertitel_status: "redactioneel"
+signed_date: "2022-04-13"
+entry_into_force: "2022-04-23"
 ---
-
 # Schenk- en erfbelasting, samentelregeling bij ongehuwde partners
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

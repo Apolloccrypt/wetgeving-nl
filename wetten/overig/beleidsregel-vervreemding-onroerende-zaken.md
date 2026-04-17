@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregel vervreemding onroerende zaken"
 identifier: "BWBR0051002"
-categorie: "Overig"
-publicatiedatum: 2025-05-02
-laatste_update: 2025-05-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051002"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-05-02"
+last_updated: "2025-05-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051002"
+soort: "zbo"
+stam_id: "17419683"
+version_id: "30713322"
+internal_id: "C44021111"
+label_id: "17322954"
+dtd_version: "2.0"
+original_entry_into_force: "2025-05-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051002/2025-05-02/0"
+intitule_bron: "Stcrt.2025-15610"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-05-01"
+intitule_in_force: "2025-05-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-15610"
+original_published_date: "2025-05-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-15610"
+entry_into_force_date: "2025-05-02"
+jci_1_3: "jci1.3:c:BWBR0051002&z=2025-05-02&g=2025-05-02"
+jci_1_0: "1.0:c:BWBR0051002&g=2025-05-02"
+citeertitel_status: "officieel"
+entry_into_force: "2025-05-02"
 ---
-
 # Beleidsregel vervreemding onroerende zaken
 
 Gelet op [artikel 18 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=18),
@@ -18,7 +40,7 @@ Besluit:
 
 #### Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -40,7 +62,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - i. **maatschappelijke partij:** een zorgaanbieder als bedoeld in [artikel 1 van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1), een jeugdzorgaanbieder als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), een toegelaten instelling als bedoeld in [artikel 19 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19) of een gemeente.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een instelling die voornemens is gebouwen of terreinen of delen daarvan te vervreemden, dient zich te melden bij het College sanering door middel van het verstrekken van de volgende gegevens:
 
@@ -50,21 +72,21 @@ In deze beleidsregel wordt verstaan onder:
 
 2. Als het College sanering van mening is dat de gegevens onvoldoende of niet voldoende duidelijk zijn, zal het College sanering de instelling verzoeken deze gegevens binnen veertien dagen aan te vullen.
 
-#### Artikel 3
+##### Artikel 3
 
 Het besluit van het College sanering of er voor het voornemen van de instelling al dan niet goedkeuring is vereist, wordt aan de zorginstelling bekendgemaakt door middel van de toezending van een beschikking.
 
-#### Artikel 4
+##### Artikel 4
 
 Behoudens het bepaalde in [artikel 14 lid 1 tot en met lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051002&hoofdstuk=2&artikel=14&z=2025-05-02&g=2025-05-02) zijn de [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0051002&hoofdstuk=1&artikel=5&z=2025-05-02&g=2025-05-02) van toepassing in het geval een instelling voornemens is over te gaan tot vervreemding door middel van verkoop, het onderwerpen aan enig beperkt recht of verhuur.
 
 #### Werkwijze
 
-#### Artikel 5
+##### Artikel 5
 
 Er dient bij het vervreemden een marktconforme opbrengst te worden behaald.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Vervreemden dient plaats te vinden door middel van een open en transparant proces. Alvorens de instelling over gaat tot handelingen die betrekking hebben op het vervreemden van de onroerende zaak, dient de keuze voor de vormgeving van het proces vanwege de wijze van de vervreemding vooraf met de gemachtigde te worden besproken en door deze te worden bevestigd. Dit laat onverlet de bevoegdheid van het College sanering om geen goedkeuring te verlenen vanwege de wijze van vervreemding. De keuze voor de vervreemding hangt onder meer af van het type onroerende zaak en de marktomstandigheden. De meest geëigende methoden om tot vervreemding te komen zijn:
 
@@ -80,17 +102,17 @@ Er dient bij het vervreemden een marktconforme opbrengst te worden behaald.
 
 3. De opdracht voor de taxatie aan de onafhankelijke taxateur dient door de instelling te worden gegeven. De opdrachtbrief dient vooraf te worden getoetst door de gemachtigde.
 
-#### Artikel 7
+##### Artikel 7
 
 De instelling mag geen onomkeerbare besluiten nemen (bijvoorbeeld het gaan onderhandelen met een bieder of het afsluiten van een overeenkomst) ten aanzien van de onroerende zaken die een open en transparant proces met meerdere biedingen in de weg staan, zonder voorafgaande instemming van het College sanering.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Mocht de instelling van mening zijn dat een afwijking van het open en transparante proces, zoals genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051002&hoofdstuk=1&artikel=6&z=2025-05-02&g=2025-05-02), van deze beleidsregel aan de orde is, dan zal de instelling dit, voordat er onomkeerbare besluiten ten aanzien van de onroerende zaken worden genomen, gemotiveerd aan het College sanering voorleggen. Het College sanering kan op basis daarvan instemmen met de afwijking van het in artikel 6, eerste lid van deze beleidsregels gestelde.
 
 2. Het College sanering stemt in ieder geval in met de afwijking van het in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051002&hoofdstuk=1&artikel=6&z=2025-05-02&g=2025-05-02) van deze beleidsregels gestelde, indien een zorginstelling een onroerende zaak wil vervreemden aan een maatschappelijke partij.
 
-#### Artikel 9
+##### Artikel 9
 
 Als het College sanering instemt met de afwijking van het in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051002&hoofdstuk=1&artikel=6&z=2025-05-02&g=2025-05-02) van deze beleidsregels gestelde, dan zullen er, in afwijking van het gestelde in artikel 6, tweede lid, tenminste twee onafhankelijk opgemaakte taxaties door de instelling aangeleverd moeten worden. Bij transacties met een getaxeerde waarde van:
 
@@ -102,21 +124,21 @@ Als het College sanering instemt met de afwijking van het in [artikel 6, eerste 
 
 kan in principe, ter beoordeling van het College sanering, met één taxatie worden volstaan.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Bij verschillende uitkomsten in taxaties wordt als uitgangspunt voor de prijsbepaling van de vervreemding de hoogste taxatiewaarde gevolgd.
 
 2. Indien de instelling van mening is dat voor een beoogde transactie dient te worden afgeweken van het uitgangspunt zoals genoemd in het eerste lid, dient zij de redenen hiervoor bij het College gemotiveerd aan te geven.
 
-#### Artikel 11
+##### Artikel 11
 
 De instelling dient bij het College sanering een verzoek tot goedkeuring van de vervreemding in, voorzien van een (concept)overeenkomst en de taxatie(s).
 
-#### Artikel 12
+##### Artikel 12
 
 Het College sanering kan in een beschikking waarbij goedkeuring wordt verleend voor een transactie bepalen wat de geldigheidsduur van de beschikking is.
 
-#### Artikel 13
+##### Artikel 13
 
 Een positief boekresultaat, behaald door vervreemding, waarvoor op grond van [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=18) goedkeuring van het College sanering is vereist en verkregen, behoeft door het bestuur van de instelling niet gestort te worden in het Fonds langdurige zorg (Flz), tenzij anders bepaald door het College sanering.
 
@@ -124,7 +146,7 @@ Een positief boekresultaat, behaald door vervreemding, waarvoor op grond van [ar
 
 #### Geen goedkeuring noodzakelijk
 
-#### Artikel 14
+##### Artikel 14
 
 1. Voor beoogde verkopen van onroerende zaken die voldoen aan één van de hieronder gestelde voorwaarden besluit het College sanering dat geen goedkeuring noodzakelijk is:
 
@@ -164,16 +186,16 @@ Een positief boekresultaat, behaald door vervreemding, waarvoor op grond van [ar
 
 #### Inwerkingtreding
 
-#### Artikel 15
+##### Artikel 15
 
 1. De beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
 2. Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de ‘[Beleidsregel vervreemding onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0047793)’, d.d. 20 januari 2023, ingetrokken.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze beleidsregel wordt tevens van toepassing verklaard op door instellingen gemelde vervreemdingen, waarvoor door het College sanering eerder is besloten dat er goedkeuring is vereist.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze beleidsregel wordt aangehaald als: ‘Beleidsregel vervreemding onroerende zaken’.

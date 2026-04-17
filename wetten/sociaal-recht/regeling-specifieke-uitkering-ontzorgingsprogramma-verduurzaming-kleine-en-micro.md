@@ -1,13 +1,39 @@
 ---
-title: "Regeling specifieke uitkering ontzorgingsprogramma verduurzaming kleine en micro mkb-ondernemingen en bedrijventerreinen"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 januari 2024, houdende regels voor het verstrekken van een eenmalige specifieke uitkering aan de provincies van Nederland ter ontzorging van kleine en micro mkb-ondernemingen bij de verduurzaming van het gebouw, bedrijfsproces of bedrijventerrein (Regeling specifieke uitkering ontzorgingsprogramma verduurzaming kleine en micro mkb-ondernemingen en bedrijventerreinen)"
 identifier: "BWBR0049289"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-11-30
-laatste_update: 2024-11-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049289"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-11-30"
+last_updated: "2024-11-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049289"
+soort: "ministeriele-regeling"
+stam_id: "17014523"
+version_id: "29927752"
+internal_id: "C42895231"
+label_id: "16924634"
+dtd_version: "2.0"
+original_entry_into_force: "2024-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049289/2024-11-30/0"
+intitule_bron: "Stcrt.2024-1876"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-01-16"
+intitule_published: "2024-01-23"
+intitule_in_force: "2024-01-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-1876"
+original_signed_date: "2024-01-16"
+original_published_date: "2024-01-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-1876"
+entry_into_force_date: "2024-02-01"
+jci_1_3: "jci1.3:c:BWBR0049289&z=2024-11-30&g=2024-11-30"
+jci_1_0: "1.0:c:BWBR0049289&g=2024-11-30"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering ontzorgingsprogramma verduurzaming kleine en micro mkb-ondernemingen en bedrijventerreinen"
+signed_date: "2024-01-16"
+entry_into_force: "2024-02-01"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 januari 2024, houdende regels voor het verstrekken van een eenmalige specifieke uitkering aan de provincies van Nederland ter ontzorging van kleine en micro mkb-ondernemingen bij de verduurzaming van het gebouw, bedrijfsproces of bedrijventerrein (Regeling specifieke uitkering ontzorgingsprogramma verduurzaming kleine en micro mkb-ondernemingen en bedrijventerreinen)
 
 Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Ontzorgingsprogramma verduurzaming kleine en micro mkb-ondernemingen
 
-#### Artikel 2. Doel en activiteiten
+##### Artikel 2. Doel en activiteiten
 
 1. De Minister kan op aanvraag een specifieke uitkering verstrekken aan een provincie voor activiteiten ter ontzorging van een kleine en micro mkb-onderneming bij de verduurzaming van het bedrijfsproces van de onderneming of haar bedrijfsmatig vastgoed.
 
@@ -58,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 - d. het uitvoeren van verduurzamingsmaatregelen voor een kleine en micro mkb-onderneming.
 
-#### Artikel 3. Hoogte en plafond
+##### Artikel 3. Hoogte en plafond
 
 1. De Minister kan in totaal ten hoogste € 32.644.420 aan specifieke uitkeringen aan provincies verstrekken voor het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30), verminderd met het bedrag aan compensabele BTW.
 
@@ -66,7 +92,7 @@ In deze regeling wordt verstaan onder:
 
 3. Het bedrag aan compensabele BTW stort de Minister in het BTW compensatiefonds.
 
-#### Artikel 4. Aanvraag
+##### Artikel 4. Aanvraag
 
 1. Een specifieke uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30) kan door de provincie worden aangevraagd van 15 februari 2024 vanaf 12.00 uur tot en met 15 maart 2024 tot 12.00 uur, dan wel zoveel eerder indien het plafond is bereikt.
 
@@ -96,7 +122,7 @@ In deze regeling wordt verstaan onder:
 
 3. Een aanvraag wordt ingediend met gebruikmaking van het aanvraagformulier dat door de Minister ter beschikking is gesteld op de website van de Rijksdienst voor Ondernemend Nederland.
 
-#### Artikel 5. Weigeringsgronden
+##### Artikel 5. Weigeringsgronden
 
 1. Een aanvraag voor een specifieke uitkering als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=4&z=2024-11-30&g=2024-11-30) wordt geheel of gedeeltelijk afgewezen:
 
@@ -112,7 +138,7 @@ In deze regeling wordt verstaan onder:
 
 2. Er wordt geen specifieke uitkering verstrekt voor de activiteiten, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30), voor zover die op andere wijze worden gesubsidieerd of gefinancierd.
 
-#### Artikel 6. Verstrekking
+##### Artikel 6. Verstrekking
 
 Indien een specifieke uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30) wordt verstrekt, vermeldt de beschikking in
 
@@ -122,7 +148,7 @@ ieder geval:
 
 - b. het bedrag van de specifieke uitkering, met een maximum zoals bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=I&z=2024-11-30&g=2024-11-30).
 
-#### Artikel 7. Verplichtingen
+##### Artikel 7. Verplichtingen
 
 1. De ontvanger van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30), is verplicht om:
 
@@ -142,11 +168,11 @@ ieder geval:
 
 7. Op verzoek van de Minister verschaft de ontvanger van de specifieke uitkering aan hem informatie ten behoeve van door de Minister ingestelde onderzoeken die erop zijn gericht informatie te verkrijgen over de doelmatigheid en doeltreffendheid van de provinciale ontzorgingsprogramma’s in relatie tot het klimaatbeleid.
 
-#### Artikel 8. Voorschot
+##### Artikel 8. Voorschot
 
 De Minister verleent een voorschot van 100% van de specifieke uitkering, bedoeld in [artikel 6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=6&z=2024-11-30&g=2024-11-30), en betaalt dat in één keer uit.
 
-#### Artikel 9. Verantwoording en terugvordering
+##### Artikel 9. Verantwoording en terugvordering
 
 1. De provincies leggen verantwoording af over de besteding van de ontvangen specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30), op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -156,7 +182,7 @@ De Minister verleent een voorschot van 100% van de specifieke uitkering, bedoeld
 
 ### Hoofdstuk 3. Ontzorgingsprogramma verduurzaming bedrijventerreinen
 
-#### Artikel 10. Doel en activiteiten
+##### Artikel 10. Doel en activiteiten
 
 1. De Minister kan op aanvraag een specifieke uitkering verstrekken aan een provincie voor activiteiten ter ontzorging van eigenaren of huurders van bedrijfsmatig vastgoed bij het opzetten of verbeteren van de organisatiegraad op een bedrijventerrein ten behoeve van de verduurzaming ervan.
 
@@ -176,7 +202,7 @@ De Minister verleent een voorschot van 100% van de specifieke uitkering, bedoeld
 
 - b. bedrijventerreinen die binnen de vijf industrieclusters van het Nationaal Programma Verduurzaming Industrie vallen.
 
-#### Artikel 11. Hoogte en plafond
+##### Artikel 11. Hoogte en plafond
 
 1. De Minister kan in totaal ten hoogste € 22.220.000 aan specifieke uitkeringen aan provincies verstrekken voor het doel, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30), verminderd met het bedrag aan compensabele BTW.
 
@@ -184,7 +210,7 @@ De Minister verleent een voorschot van 100% van de specifieke uitkering, bedoeld
 
 3. Het bedrag aan compensabele BTW stort de Minister in het BTW compensatiefonds.
 
-#### Artikel 12. Aanvraag
+##### Artikel 12. Aanvraag
 
 1. Een specifieke uitkering als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30) kan door de provincie worden aangevraagd van 15 februari 2024 vanaf 12.00 uur tot en met 15 maart 2024 tot 12.00 uur, dan wel zoveel eerder indien het plafond is bereikt.
 
@@ -210,7 +236,7 @@ De Minister verleent een voorschot van 100% van de specifieke uitkering, bedoeld
 
 3. Een aanvraag wordt ingediend met gebruikmaking van het aanvraagformulier dat door de Minister ter beschikking is gesteld op de website van de Rijksdienst voor Ondernemend Nederland.
 
-#### Artikel 13. Weigeringsgronden
+##### Artikel 13. Weigeringsgronden
 
 1. Een aanvraag voor een specifieke uitkering als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=12&z=2024-11-30&g=2024-11-30) wordt geheel of gedeeltelijk afgewezen:
 
@@ -226,7 +252,7 @@ De Minister verleent een voorschot van 100% van de specifieke uitkering, bedoeld
 
 2. Er wordt geen specifieke uitkering verstrekt voor activiteiten, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30), voor zover die op andere wijze zijn gesubsidieerd of gefinancierd.
 
-#### Artikel 14. Verstrekking
+##### Artikel 14. Verstrekking
 
 Indien een specifieke uitkering als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30) wordt verstrekt, vermeldt de beschikking in
 
@@ -236,7 +262,7 @@ ieder geval:
 
 - b. het bedrag van de specifieke uitkering, met een maximum zoals bedoeld in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=III&z=2024-11-30&g=2024-11-30).
 
-#### Artikel 15. Verplichtingen
+##### Artikel 15. Verplichtingen
 
 1. De ontvanger van de specifieke uitkering, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30), is verplicht om:
 
@@ -252,11 +278,11 @@ ieder geval:
 
 5. Op verzoek van de Minister verschaft de ontvanger van de specifieke uitkering aan hem informatie ten behoeve van door de Minister ingestelde onderzoeken die erop zijn gericht informatie te verkrijgen over de doelmatigheid en doeltreffendheid van de provinciale ontzorgingsprogramma’s in relatie tot het klimaatbeleid.
 
-#### Artikel 16. Voorschot
+##### Artikel 16. Voorschot
 
 De Minister verleent een voorschot van 100% van de specifieke uitkering, bedoeld in [artikel 14, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=14&z=2024-11-30&g=2024-11-30), en betaalt dat in één keer uit.
 
-#### Artikel 17. Verantwoording en terugvordering
+##### Artikel 17. Verantwoording en terugvordering
 
 1. De provincies leggen verantwoording af over de besteding van de ontvangen specifieke uitkering, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30), op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -266,11 +292,11 @@ De Minister verleent een voorschot van 100% van de specifieke uitkering, bedoeld
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 18. Inwerkingtreding en vervaltermijn
+##### Artikel 18. Inwerkingtreding en vervaltermijn
 
 Deze regeling treedt in werking met ingang van 1 februari 2024 en vervalt met ingang van 1 mei 2027, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die op grond van deze regeling voor laatstgenoemde datum zijn verstrekt.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering ontzorgingsprogramma verduurzaming kleine en micro mkb-ondernemingen en bedrijventerreinen.
 

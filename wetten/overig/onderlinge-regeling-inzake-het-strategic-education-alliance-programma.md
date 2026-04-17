@@ -1,13 +1,38 @@
 ---
 title: "Onderlinge regeling inzake het Strategic Education Alliance-programma"
 identifier: "BWBR0048989"
-categorie: "Overig"
-publicatiedatum: 2023-11-07
-laatste_update: 2023-11-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048989"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-11-07"
+last_updated: "2023-11-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048989"
+soort: "ministeriele-regeling"
+stam_id: "16943493"
+version_id: "29779782"
+internal_id: "C42679771"
+label_id: "16854154"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048989/2023-11-07/0"
+intitule_bron: "Stcrt.2023-33139"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-06"
+intitule_published: "2023-12-04"
+intitule_in_force: "2023-12-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-33139"
+original_signed_date: "2023-11-06"
+original_published_date: "2023-12-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-33139"
+entry_into_force_date: "2023-11-07"
+jci_1_3: "jci1.3:c:BWBR0048989&z=2023-11-07&g=2023-11-07"
+jci_1_0: "1.0:c:BWBR0048989&g=2023-11-07"
+citeertitel_status: "redactioneel"
+signed_date: "2023-11-06"
+entry_into_force: "2023-11-07"
 ---
-
 # Onderlinge regeling inzake het Strategic Education Alliance-programma
 
 Overwegende dat:
@@ -30,7 +55,7 @@ Komen het volgende overeen:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Paragraaf 1. Begripsbepalingen
+##### Paragraaf 1. Begripsbepalingen
 
 - **Hoogambtelijke stuurgroep:** de hoogambtelijke stuurgroep van het Vierlandenoverleg;
 
@@ -38,13 +63,13 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 - **SEA:** Strategic Education Alliance, een gezamenlijk programma van de vier Koninkrijkslanden.
 
-#### Paragraaf 2. Doelstellingen
+##### Paragraaf 2. Doelstellingen
 
 1. De afspraken in deze onderlinge regeling zien op de uitvoering van SEA en hebben tot doel om de structuur en de organisatie ervan vast te leggen en daarmee een structurele basis voor een duurzame samenwerking tussen de Koninkrijkslanden te borgen.
 
 2. De afspraken worden gemaakt in het kader van de doelstelling van SEA: het verbeteren van de aansluiting op vervolgonderwijs voor Caribische studenten.
 
-#### Paragraaf 3. Beschikbaarstelling van middelen en capaciteit
+##### Paragraaf 3. Beschikbaarstelling van middelen en capaciteit
 
 1. De Koninkrijkslanden stellen middelen en capaciteit beschikbaar op basis van een in het Ministerieel Vierlandenoverleg OCW vastgestelde begroting.
 
@@ -52,7 +77,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 3. De Koninkrijkslanden zijn elk budgethouder voor de afzonderlijke door het land ter beschikking gestelde middelen en capaciteit, bedoeld in lid 1.
 
-#### Paragraaf 4. Adviescommissie SEA
+##### Paragraaf 4. Adviescommissie SEA
 
 1. De Minister van Onderwijs, Cultuur en Wetenschap van Nederland stelt na voorafgaande gezamenlijke instemming in het Ministerieel Vierlandenoverleg OCW de ‘Adviescommissie SEA’ in, door middel van een instellingsbesluit.
 
@@ -70,7 +95,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 8. Het instellingsbesluit, genoemd in het eerste lid, wordt binnen door Nederland 30 dagen na ondertekening gepubliceerd in de Staatscourant.
 
-#### Paragraaf 5. Hoogambtelijke stuurgroep
+##### Paragraaf 5. Hoogambtelijke stuurgroep
 
 1. In de hoogambtelijke stuurgroep zijn alle Koninkrijkslanden vertegenwoordigd.
 
@@ -86,7 +111,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 7. De hoogambtelijke stuurgroep stelt een samenwerkingsprotocol vast waarin afspraken staan over de procedure van besluitvorming en vaststelling van de adviezen en voorstellen van de adviescommissie.
 
-#### Paragraaf 6. Besluitvorming
+##### Paragraaf 6. Besluitvorming
 
 1. De adviescommissie stelt adviezen en voorstellen bij volledige consensus vast.
 
@@ -94,7 +119,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 3. In het Ministerieel Vierlandenoverleg OCW wordt een advies of voorstel van de adviescommissie door de Ministers voor akkoord vastgesteld, voorzien van eventuele wijzigingen voortvloeiend uit dit overleg, of niet overgenomen.
 
-#### Paragraaf 7. Programmateam SEA
+##### Paragraaf 7. Programmateam SEA
 
 1. Het programmateam wordt ondergebracht bij Directie Internationaal Beleid onder de verantwoordelijkheid van de Minister van Onderwijs, Cultuur en Wetenschap van Nederland.
 
@@ -106,7 +131,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 5. Het programmateam kan voor de uitvoering zijn taken samenwerken met experts, mits deze mogelijkheid is opgenomen en geclausuleerd in de vastgestelde begroting, bedoeld in [paragraaf 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048989&paragraaf=3&z=2023-11-07&g=2023-11-07), van deze regeling.
 
-#### Paragraaf 8. Inwerkingtreding, looptijd en beëindiging
+##### Paragraaf 8. Inwerkingtreding, looptijd en beëindiging
 
 1. Deze onderlinge regeling treedt in werking met ingang van de dag na ondertekening door alle Partijen en eindigt met ingang van 31 december 2026.
 
@@ -118,7 +143,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 5. Indien zich omstandigheden voordoen die van dien aard zijn dat deze onderlinge regeling behoort te worden gewijzigd, treden de Koninkrijkslanden daarover terstond met elkaar in overleg.
 
-#### Paragraaf 9. Publicatie
+##### Paragraaf 9. Publicatie
 
 1. Binnen 30 dagen na ondertekening van deze onderlinge regeling, wordt de tekst daarvan gepubliceerd in de Staatscourant en in de publicatiebladen van de Caribische landen van het Koninkrijk.
 

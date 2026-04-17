@@ -1,18 +1,43 @@
 ---
 title: "Regeling valschermspringen BES"
 identifier: "BWBR0028685"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028685"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028685"
+soort: "ministeriele-regeling-BES"
+stam_id: "10933893"
+version_id: "17918372"
+internal_id: "C24995391"
+label_id: "10908434"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028685/2010-10-10/0"
+intitule_bron: "Stcrt.2010-14833"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14833"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14833"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028685&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028685&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling valschermspringen BES
 
 Treedt in werking om 00:00 uur in Bonaire, Sint Eustatius en Saba en om 06:00 uur in het Europese deel van Nederland.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,15 +49,15 @@ In deze regeling wordt verstaan onder:
 
 - d. valschermspringgebied: een kolom luchtruimte in de vorm van een cilinder met een straal van 3.7 km (2 nm) rond het middelpunt van het doelgebied en een hoogte gelijk aan de maximale voorgenomen springhoogte.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor het regelmatig gebruik van een valschermspringgebied moet door de betrokken luchtverkeersleidingorganisatie schriftelijk toestemming zijn verleend en moet het valschermspringgebied als zodanig zijn bekendgesteld aan luchtvarenden door middel van een publikatie in de luchtvaartgids AIP of een kennisgeving aan luchtvarenden (NOTAM).
 
-#### Artikel 3
+##### Artikel 3
 
 Het voornemen tot incidenteel gebruik van een deel van het luchtruim als valschermspringgebied moet bekend zijn gesteld aan luchtvarenden door middel van een NOTAM.
 
-#### Artikel 4
+##### Artikel 4
 
 - 1. Voor het incidenteel gebruik van een valschermspringgebied dat geheel of ten dele is gelegen binnen een (of meerdere) luchtverkeersleidingsgebied(en) moet toestemming zijn verkregen van de betrokken luchtverkeersleidingsdienst(en).
 
@@ -44,7 +69,7 @@ Het voornemen tot incidenteel gebruik van een deel van het luchtruim als valsche
 
 - 5. Het voornemen tot het incidenteel gebruik van een valschermspringgebied dat gelegen is in ongecontroleerd luchtruim moet tenminste 3 werkdagen tevoren zijn aangemeld bij de Luchtvaartinlichtendienst van de betrokken luchtverkeersleidingorganisatie.
 
-#### Artikel 5
+##### Artikel 5
 
 - 1. De gezagvoerder van het luchtvaartuig van waaruit de valschermsprongen worden uitgevoerd, overtuigt zich voor de aanvang van de vlucht ervan dat het valschermspringgebied door middel van een publikatie in de luchtvaartgids of een kennisgeving aan luchtvarenden (NOTAM) is bekend gesteld aan luchtvarenden.
 
@@ -60,7 +85,7 @@ Het voornemen tot incidenteel gebruik van een deel van het luchtruim als valsche
 
 - e. onmiddellijk voor het uitvoeren van de valschermsprongen, wordt van de betrokken luchtverkeersleidingsdienst een definitieve klaring daartoe verkregen.
 
-#### Artikel 6
+##### Artikel 6
 
 - 1. De valschermsprong mag slechts worden uitgevoerd gedurende de daglichtperiode, binnen het valschermspringgebied en na uitdrukkelijke toestemming van de gezagvoerder van het luchtvaartuig.
 
@@ -72,10 +97,10 @@ Het voornemen tot incidenteel gebruik van een deel van het luchtruim als valsche
 
 - c. wordt voortdurend zicht op grond en water behouden.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling valschermspringen BES.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling berust op [artikel 85, tweede lid, van het Besluit luchtverkeer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=85).

@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Finland tot het vermijden van dubbele belasting en tot het vaststellen van regelen voor wederzijdse administratieve hulp met betrekking tot rechten ter zake van nalatenschappen"
 identifier: "BWBV0004806"
-categorie: "Belastingrecht"
-publicatiedatum: 1955-12-23
-laatste_update: 1955-12-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004806"
+country: "nl"
+rank: "verdrag"
+publication_date: "1955-12-23"
+last_updated: "1955-12-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004806"
+soort: "verdrag"
+stam_id: "10004331023"
+version_id: "10004530772"
+internal_id: "C10007160151"
+label_id: "10004316064"
+dtd_version: "2.0"
+original_entry_into_force: "1955-12-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004806/1955-12-23/0"
+intitule_bron: "Trb.1954-161"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1954-10-25"
+intitule_in_force: "1956-01-17"
+intitule_status: "goed"
+original_publication: "Trb.1954-161"
+original_published_date: "1954-10-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1954-161"
+entry_into_force_date: "1955-12-23"
+jci_1_3: "jci1.3:c:BWBV0004806&z=1955-12-23&g=1955-12-23"
+jci_1_0: "1.0:c:BWBV0004806&g=1955-12-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "1955-12-23"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Finland tot het vermijden van dubbele belasting en tot het vaststellen van regelen voor wederzijdse administratieve hulp met betrekking tot rechten ter zake van nalatenschappen
 
 Hare Majesteit de Koningin der Nederlanden en de President van de Republiek Finland,
@@ -26,7 +48,7 @@ de Minister van Buitenlandse Zaken de Heer Ralf Törngren
 
 Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 § 1. De rechten, welke het onderwerp van dit Verdrag vormen, zijn
 
@@ -48,13 +70,13 @@ Diplomatieke en consulaire ambtenaren, uitgezonden door een van de Staten en bij
 
 § 6. Zoals gebezigd in dit Verdrag betekent de uitdrukking „Staat”, onderscheidenlijk „Staten” het Koninkrijk der Nederlanden of de Republiek Finland, onderscheidenlijk het Koninkrijk der Nederlanden en de Republiek Finland.
 
-#### Artikel 2
+##### Artikel 2
 
 § 1. Onroerende zaken (daaronder begrepen hun toebehoren en roerende zaken, welke er voorts toe behoren) zijn slechts aan recht onderworpen in de Staat, in welke zulke zaken zijn gelegen.
 
 § 2. Voor de toepassing van de eerste paragraaf van dit artikel omvat de uitdrukking „onroerende zaken” hypothecaire vorderingen, of enige andere vorm van schuldenaarschap, verzekerd door onroerende zaken, maar omvat deze uitdrukking niet obligaties.
 
-#### Artikel 3
+##### Artikel 3
 
 § 1. Vermogensbestanddelen gebezigd in een onderneming gedreven door of een vrij beroep uitgeoefend door de overledene ten tijde van zijn overlijden en toe te rekenen aan een vaste inrichting in een van de Staten zijn slechts in die Staat aan recht onderworpen.
 
@@ -66,11 +88,11 @@ In dit verband:
 
 - (ii). stempelt het feit, dat een onderneming in een van de Staten een vaste bedrijfsinrichting aanhoudt uitsluitend voor het aankopen van goederen of koopwaar op zichzelf die vaste bedrijfsinrichting niet tot een vaste inrichting van zodanige onderneming.
 
-#### Artikel 4
+##### Artikel 4
 
 Vermogensbestanddelen, waarover in de artikelen 2 en 3 van dit Verdrag niet wordt gesproken, zijn slechts aan recht onderworpen in de Staat, waar de overledene ten tijde van zijn overlijden zijn woonplaats had.
 
-#### Artikel 5
+##### Artikel 5
 
 § 1. Een schuld, betrekking hebbende op of verzekerd door zaken, waarop artikel 2 of 3 van dit Verdrag van toepassing is, wordt in de Staat, welke het recht heeft deze zaken te belasten, in mindering gebracht op de waarde van de bedoelde zaken of op de waarde van andere zaken, welke dezelfde Staat gerechtigd is te belasten. Iedere andere schuld wordt in mindering gebracht op de waarde van zaken, welke overeenkomstig dit Verdrag worden belast in die Staat op welks grondgebied de overledene ten tijde van zijn overlijden zijn woonplaats had.
 
@@ -78,15 +100,15 @@ Vermogensbestanddelen, waarover in de artikelen 2 en 3 van dit Verdrag niet word
 
 § 3. Op de waarde van een fideïcommis mogen evenwel slechts die schulden in mindering worden gebracht, welke betrekking hebben op of verzekerd zijn door het fideïcommis.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit Verdrag tast niet aan enig recht op belastingvrijstelling, dat krachtens de algemene regels van internationaal recht verleend is, of hierna verleend mocht worden aan diplomatieke of consulaire ambtenaren. Indien, tengevolge van zodanige belastingvrijstelling, bezittingen niet aan recht zijn onderworpen in de Staat, waarbij zodanige ambtenaren zijn geaccrediteerd, is de Staat, welke hen accrediteert, gerechtigd recht te heffen.
 
-#### Artikel 7
+##### Artikel 7
 
 Rechten, in een van de Staten geheven over de gehele nalatenschap van een overledene of over het deel, dat aan iedere erfgenaam of legataris opkomt, zomede enige daarmede verband houdende verplichting, zullen voor zoveel het een onderdaan (natuurlijk persoon of lichaam) van de andere Staat betreft, niet anders, hoger of drukkender zijn dan de rechten of daarmede verband houdende verplichtingen, waaraan de onderdanen van de eerstbedoelde Staat zijn of mochten worden onderworpen.
 
-#### Artikel 8
+##### Artikel 8
 
 § 1. Indien het recht tot het belasten van de nalatenschap van een persoon, die ten tijde van zijn overlijden zijn woonplaats in Finland had, is verdeeld tussen de Staten, mag het recht, te heffen in Finland niet het verschil te boven gaan tussen enerzijds, het recht dat zou zijn geheven, indien de gehele nalatenschap in Finland zou zijn belast, en anderzijds, het recht, dat zou zijn geheven indien slechts dat deel van de nalatenschap in Finland zou zijn belast, dat Nederland gerechtigd is te belasten.
 
@@ -96,11 +118,11 @@ Rechten, in een van de Staten geheven over de gehele nalatenschap van een overle
 
 - (b). een zodanig deel van het Nederlandse recht, als het netto bedrag van de zaken, welke volgens de bepalingen van dit Verdrag aan Fins recht zijn onderworpen, staat tot het netto bedrag van de gehele nalatenschap van de overledene.
 
-#### Artikel 9
+##### Artikel 9
 
 De bevoegde autoriteiten van de Staten zullen zodanige inlichtingen (zijnde inlichtingen, welke de belastingautoriteiten geordend voorhanden hebben) uitwisselen als nodig is om aan de bepalingen van dit Verdrag uitvoering te geven of om fraude te voorkomen of om uitvoering te geven aan wettelijke voorzieningen tegen wetsontduiking met betrekking tot de rechten, welke het onderwerp van dit Verdrag vormen. Elke aldus uitgewisselde inlichting zal als geheim worden behandeld en zal niet ter kennis worden gebracht van andere personen, dan die, belast met de aanslagregeling en de inning van de rechten, welke het onderwerp van dit Verdrag vormen. Generlei inlichting als hiervoor is bedoeld, welke een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een handwerks- of handelswerkwijze zou onthullen, zal worden uitgewisseld.
 
-#### Artikel 10
+##### Artikel 10
 
 § 1. In geen geval zullen de bepalingen van artikel 9 van dit Verdrag dusdanig worden uitgelegd, dat zij een van de beide Staten de verplichting opleggen
 
@@ -110,41 +132,41 @@ De bevoegde autoriteiten van de Staten zullen zodanige inlichtingen (zijnde inli
 
 § 2. De Staat, aan welke een verzoek om inlichtingen is gedaan, zal zo spoedig mogelijk aan het gedane verzoek gevolg geven. Nochtans kan de bedoelde Staat weigeren aan het verzoek te voldoen om redenen van openbaar beleid. In een dergelijk geval zal deze Staat de verzoekende Staat zo spoedig mogelijk hiervan in kennis stellen.
 
-#### Artikel 11
+##### Artikel 11
 
 De bevoegde autoriteiten van elk van de Staten kunnen voorschriften vaststellen, nodig om de bepalingen van dit Verdrag uit te voeren.
 
-#### Artikel 12
+##### Artikel 12
 
 In geval het optreden van de belastingautoriteiten van de Staten heeft geleid of zal leiden tot dubbele belastingheffing in strijd met de bepalingen van dit Verdrag, zal de persoon, aldus getroffen door dubbele belasting, het recht hebben, een klacht in te dienen bij de Staat waar de overledene zijn woonplaats had ten tijde van zijn overlijden. Als regel dient deze klacht te worden ingediend binnen twee jaar na het einde van het kalenderjaar, waarin de persoon zich bewust is geworden van de dubbele belasting. Indien de klacht gegrond wordt geacht, zal de bevoegde autoriteit van die Staat er naar streven met de bevoegde autoriteit van de andere Staat tot overeenstemming te komen om de bedoelde dubbele belasting te vermijden.
 
-#### Artikel 13
+##### Artikel 13
 
 In geval enige moeilijkheid of twijfel rijst met betrekking tot de uitlegging of de toepassing van dit Verdrag, zullen de bevoegde autoriteiten van de Staten trachten de aangelegenheid in onderling overleg te regelen.
 
-#### Artikel 14
+##### Artikel 14
 
 De uitdrukking „bevoegde autoriteit” betekent, voor zoveel Nederland betreft, de Directeur-Generaal voor Fiscale Zaken, en voor zoveel Finland betreft, de Directeur van de Belastingafdeling van het Ministerie van Financiën.
 
-#### Artikel 15
+##### Artikel 15
 
 § 1. De werking van dit Verdrag kan, ongewijzigd of met overeengekomen wijzigingen, worden uitgebreid tot een van de Nederlandse Overzeese Rijksdelen, indien dit Rijksdeel rechten heft van in wezen gelijksoortige aard met de rechten, genoemd in artikel 1 van dit Verdrag. Over zodanige uitbreiding zullen beide Staten zich verstaan door een notawisseling; in deze nota's zullen zij vastleggen de datum van het in werking treden van de uitbreiding, de wijzigingen en de voorwaarden (daaronder begrepen die, welke betrekking hebben op de opzegging), waaronder het Verdrag van toepassing zal zijn.
 
 § 2. Tenzij door beide Staten uitdrukkelijk anders is overeengekomen, zal de beëindiging met betrekking tot Nederland of Finland van dit Verdrag krachtens artikel 17 een einde maken aan de toepassing van dit Verdrag met betrekking tot elk Rijksdeel, waartoe het Verdrag krachtens dit artikel is uitgebreid.
 
-#### Artikel 16
+##### Artikel 16
 
 § 1. Dit Verdrag zal worden bekrachtigd, voor zoveel Nederland betreft, door Hare Majesteit de Koningin der Nederlanden, en voor zoveel Finland betreft, door de President van de Republiek. De bekrachtigingsoorkonden zullen zo spoedig mogelijk te Helsinki worden uitgewisseld. Het Verdrag zal in werking treden op de dag waarop de uitwisseling van de bekrachtigingsoorkonden heeft plaats gehad.
 
 § 2. Dit Verdrag zal van toepassing zijn in alle gevallen, waarin het overlijden van de overledene heeft plaats gevonden op of na de dag van de inwerkingtreding van het Verdrag.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit Verdrag zal voor onbepaalde tijd van kracht blijven, maar elk van de Staten kan, op of voor de 30ste Juni van elk kalenderjaar niet vroeger dan het jaar 1957, aan de andere Staat langs diplomatieke weg een schriftelijke kennisgeving van beëindiging doen toekomen, en in zulk geval zal dit Verdrag ophouden van kracht te zijn aan het einde van dat kalenderjaar, maar het zal van toepassing zijn in alle gevallen, waarin het overlijden van de overledene heeft plaats gevonden voor het einde van het kalenderjaar.
 
 Bij gelegenheid van de ondertekening van het Verdrag tot het vermijden van dubbele belasting en het vaststellen van regelen voor wederzijdse administratieve hulp met betrekking tot rechten terzake van nalatenschappen, heden tussen het Koninkrijk der Nederlanden en de Republiek Finland gesloten, zijn de ondergetekende Gevolmachtigden overeengekomen, dat de volgende bepaling een integrerend deel van het Verdrag zal uitmaken:
 
-#### Ad Artikel 9
+##### Ad Artikel 9
 
 De verplichting tot het uitwisselen van inlichtingen geldt niet voor inlichtingen, verkregen van banken of daarmede gelijkgestelde instellingen.
 

@@ -1,20 +1,45 @@
 ---
-title: "Tsjechoslowaakse uitvoeringsvoorschriften belastingovereenkomst Nederland-Tsjechoslowakije"
+title: "Regeling inzake vermindering van Tsjechoslowaakse belasting op dividenden, interest en royalty's uit Tsjechoslowaakse bron, genoten door inwoners van Nederland"
 identifier: "BWBR0004982"
-categorie: "Belastingrecht"
-publicatiedatum: 1991-01-27
-laatste_update: 1991-01-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004982"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1991-01-27"
+last_updated: "1991-01-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004982"
+soort: "ministeriele-regeling"
+stam_id: "3778843"
+version_id: "5561692"
+internal_id: "C5754781"
+label_id: "3758574"
+dtd_version: "2.0"
+original_entry_into_force: "1991-01-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004982/1991-01-27/0"
+intitule_bron: "Stcrt.1991-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-01-25"
+intitule_published: "1991-01-25"
+intitule_in_force: "1991-01-25"
+intitule_status: "goed"
+original_publication: "Stcrt.1991-18"
+original_signed_date: "1991-01-25"
+original_published_date: "1991-01-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1991-01-27"
+jci_1_3: "jci1.3:c:BWBR0004982&z=1991-01-27&g=1991-01-27"
+jci_1_0: "1.0:c:BWBR0004982&g=1991-01-27"
+citeertitel_status: "officieel"
+short_title: "Tsjechoslowaakse uitvoeringsvoorschriften belastingovereenkomst Nederland-Tsjechoslowakije"
+signed_date: "1991-01-25"
+entry_into_force: "1991-01-27"
 ---
-
 # Regeling inzake vermindering van Tsjechoslowaakse belasting op dividenden, interest en royalty's uit Tsjechoslowaakse bron, genoten door inwoners van Nederland
 
 Besluit:
 
 Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan de 4 op maart 1974 tussen Nederland en Tsjechoslowakije gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen (Trb. 1974, nr. 98) kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de Overeenkomst:
 
@@ -28,7 +53,7 @@ Aan de 4 op maart 1974 tussen Nederland en Tsjechoslowakije gesloten Overeenkoms
 
 De in dit artikel vermelde vrijstellingen en verminderingen zijn niet van toepassing, indien de genieter van de dividenden, de interest of de royalty's in Tsjechoslowakije een vaste inrichting heeft en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest verschuldigd is, of het recht of de zaak uit hoofde waarvan de royalty's verschuldigd zijn, tot het bedrijfsvermogen van die vaste inrichting behoort (artikel 10, zevende lid, respectievelijk artikel 11, derde lid, en artikel 12, vijfde lid).
 
-#### Artikel 2. Tsjechoslowaakse regeling
+##### Artikel 2. Tsjechoslowaakse regeling
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004982&artikel=1&z=1991-01-27&g=1991-01-27) is van Tsjechoslowaakse zijde de volgende regeling getroffen:
 
@@ -44,11 +69,11 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004982&a
 
 - 4. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf moeten worden ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel II van het Protocol).
 
-#### Artikel 3. Intrekking
+##### Artikel 3. Intrekking
 
 De beschikking van de Staatssecretaris van Financiën van 12 april 1978, nr. 078-604 (Stcrt. van 12 april 1978, nr. 71), wordt ingetrokken.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Tsjechoslowaakse uitvoeringsvoorschriften belastingovereenkomst Nederland-Tsjechoslowakije.
 

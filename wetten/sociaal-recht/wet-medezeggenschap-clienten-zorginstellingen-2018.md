@@ -1,14 +1,41 @@
 ---
-title: "Wet medezeggenschap cliënten zorginstellingen 2018"
+title: "Wet van 22 mei 2019, houdende nieuwe bepalingen met betrekking tot de medezeggenschap van cliënten in zorginstellingen (Wet medezeggenschap cliënten zorginstellingen 2018)"
 identifier: "BWBR0042294"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-07-05
-laatste_update: 2025-07-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042294"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-05"
+last_updated: "2025-07-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042294"
+soort: "wet"
+stam_id: "15094373"
+version_id: "25874812"
+internal_id: "C37717131"
+label_id: "15043094"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042294/2025-07-05/0"
+intitule_bron: "Stb.2019-215"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-05-22"
+intitule_published: "2019-06-14"
+intitule_in_force: "2020-03-20"
+intitule_status: "goed"
+original_publication: "Stb.2019-215"
+original_signed_date: "2019-05-22"
+original_published_date: "2019-06-14"
+original_effect: "nieuwe-regeling"
+original_dossier: "34858"
+original_url_id: "stb-2019-215"
+entry_into_force_date: "2020-07-01"
+jci_1_3: "jci1.3:c:BWBR0042294&z=2025-07-05&g=2025-07-05"
+jci_1_0: "1.0:c:BWBR0042294&g=2025-07-05"
+citeertitel_status: "officieel"
+short_title: "Wet medezeggenschap cliënten zorginstellingen 2018"
+signed_date: "2019-05-22"
+entry_into_force: "2020-07-01"
 ---
-
-# Wet medezeggenschap cliënten zorginstellingen 2018
+# Wet van 22 mei 2019, houdende nieuwe bepalingen met betrekking tot de medezeggenschap van cliënten in zorginstellingen (Wet medezeggenschap cliënten zorginstellingen 2018)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk I. Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,7 +65,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk II. Inspraak
 
-#### Artikel 2
+##### Artikel 2
 
 1. De instelling die erop is ingericht cliënten langdurig te laten verblijven, stelt haar cliënten en hun vertegenwoordigers in de gelegenheid inspraak uit te oefenen in aangelegenheden die direct van invloed zijn op het dagelijks leven van de cliënten.
 
@@ -46,7 +73,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk III. Cliëntenraden
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een instelling stelt een cliëntenraad in die binnen het kader van de doelstellingen van de instelling in het bijzonder de gemeenschappelijke belangen van de betrokken cliënten behartigt, indien:
 
@@ -80,7 +107,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 9. De instelling brengt de medezeggenschapsregeling, alsmede een wijziging daarvan, op een daarvoor geschikte wijze onder de aandacht van de cliënten en hun vertegenwoordigers.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien het aantal natuurlijke personen die in de regel bij een instelling zorg verlenen, daalt beneden het aantal waarbij de instelling ingevolge [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=3&z=2025-07-05&g=2025-07-05), een cliëntenraad dient in te stellen, deelt de instelling aan de cliëntenraad, de cliënten en hun vertegenwoordigers schriftelijk of elektronisch mede of hij de cliëntenraad vrijwillig in stand zal houden dan wel de cliëntenraad zal ontbinden. In het geval van ontbinding, houdt de instelling de cliëntenraad in stand gedurende ten minste drie maanden na de in de eerste volzin bedoelde mededeling.
 
@@ -100,7 +127,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 7. Indien een instelling een cliëntenraad heeft ingesteld hoewel zij daartoe gezien het aantal zorgverleners dat in de regel bij haar werkzaam is niet verplicht is, is het bepaalde in het tweede tot en met zesde lid van overeenkomstige toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De cliëntenraad regelt zijn werkwijze, met inbegrip van zijn vertegenwoordiging in en buiten rechte, in een huishoudelijk reglement.
 
@@ -114,7 +141,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 4. De cliëntenraad betrekt bij zijn werkzaamheden de resultaten van inspraak als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=II&artikel=2&z=2025-07-05&g=2025-07-05) en informeert de betrokken cliënten en hun vertegenwoordigers hoe hij dit heeft gedaan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De instelling verstrekt de cliëntenraad tijdig en desgevraagd schriftelijk alle inlichtingen en gegevens die deze voor de vervulling van zijn taak redelijkerwijs nodig heeft. De instelling verstrekt de cliëntenraad voorts ten minste eenmaal per jaar mondeling of schriftelijk algemene gegevens omtrent het beleid dat in het verstreken tijdvak is gevoerd en in het komende jaar zal worden gevoerd.
 
@@ -126,7 +153,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 5. Kosten die een cliëntenraad maakt voor het voeren van rechtsgedingen over de toepassing van deze wet alsmede kosten verbonden aan het indienen van verzoeken als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=12&z=2025-07-05&g=2025-07-05) en [14, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=IV&artikel=14&z=2025-07-05&g=2025-07-05), komen slechts ten laste van de instelling indien deze kosten redelijkerwijs noodzakelijk zijn en de instelling er vooraf van in kennis is gesteld dat dergelijke kosten zullen worden gemaakt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De instelling stelt de cliëntenraad in de gelegenheid advies uit te brengen over elk door haar voorgenomen besluit inzake:
 
@@ -158,7 +185,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 6. De instelling doet van een besluit inzake een onderwerp waarover de cliëntenraad schriftelijk advies heeft uitgebracht, schriftelijk, en voor zover zij van het advies afwijkt onder opgave van redenen, mededeling aan de cliëntenraad.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De instelling behoeft de instemming van de cliëntenraad voor elk door haar voorgenomen besluit inzake:
 
@@ -198,7 +225,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 8. Indien de medezeggenschapsregeling wordt vastgesteld of gewijzigd en er geen cliëntenraad is ingesteld of functioneert, behoeft de instelling voor het besluit tot vaststelling of wijziging van de medezeggenschapsregeling de instemming van een representatief te achten delegatie van cliënten of hun vertegenwoordigers dan wel van een representatief te achten organisatie van cliënten. De betrokken delegatie of organisatie wordt in dat geval voor de toepassing van het derde tot en met zevende lid, en [artikel 14, eerste, derde, vierde, achtste en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=IV&artikel=14&z=2025-07-05&g=2025-07-05), aangemerkt als cliëntenraad, voor zover het besluiten betreft omtrent de medezeggenschapsregeling.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De cliëntenraad is bevoegd de instelling ongevraagd te adviseren over onderwerpen die voor de cliënten van belang zijn.
 
@@ -214,17 +241,17 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 5. De commissie weigert het verzoek, bedoeld in het vierde lid, onderdeel a, dan wel willigt het verzoek, bedoeld in het vierde lid, onderdeel b, in, indien de weigering van de instelling om het advies geheel te volgen redelijk is. Tenzij de commissie van mening is dat het advies in het geheel niet gevolgd hoeft te worden, bepaalt zij tevens welk deel van het advies uitgevoerd dient te worden en wanneer daarmee een aanvang moet zijn gemaakt.
 
-#### Artikel 10
+##### Artikel 10
 
 Een instelling legt in haar statuten of, indien zij geen statuten heeft, anderszins schriftelijk vast dat de cliëntenraad in de gelegenheid wordt gesteld om een bindende voordracht te doen voor de benoeming van ten minste één lid van het toezichthoudende orgaan van de instelling.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het toezichthoudende orgaan van de instelling en de cliëntenraad overleggen ten minste één keer per jaar.
 
 2. Het toezichthoudende orgaan informeert de cliëntenraad ten minste één keer per jaar over hetgeen zij heeft gedaan met de inbreng van de cliëntenraad in het overleg of de overleggen, bedoeld in het eerste lid.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De cliëntenraad van een instelling die een rechtspersoon is als bedoeld in [artikel 3 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=3), kan een verzoek in het kader van het recht van enquête, bedoeld in [afdeling 2 van titel 8 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=2), indienen bij de ondernemingskamer van het gerechtshof Amsterdam.
 
@@ -232,7 +259,7 @@ Een instelling legt in haar statuten of, indien zij geen statuten heeft, andersz
 
 3. De cliëntenraad die een verzoek als bedoeld in het eerste lid heeft gedaan, kan niet worden veroordeeld in de proceskosten voor de behandeling van dat verzoek.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Behalve in het geval, bedoeld in [artikel 4, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=4&z=2025-07-05&g=2025-07-05), kan de instelling een cliëntenraad slechts ontbinden indien deze structureel tekortschiet in de behartiging van de gemeenschappelijke belangen van de cliënten wier belangen hij dient te behartigen.
 
@@ -250,7 +277,7 @@ Een instelling legt in haar statuten of, indien zij geen statuten heeft, andersz
 
 ### Hoofdstuk IV. Commissie van vertrouwenslieden en toezicht
 
-#### Artikel 14
+##### Artikel 14
 
 1. De instelling, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=3&z=2025-07-05&g=2025-07-05), stelt in overeenstemming met de cliëntenraad of cliëntenraden een uit drie leden bestaande commissie van vertrouwenslieden in, waarvan een lid door haar wordt aangewezen, een lid door de cliëntenraad of cliëntenraden wordt aangewezen en een lid door de beide andere leden wordt aangewezen, of wijst een door een of meer cliëntenorganisaties en een of meer organisaties van instellingen ingestelde commissie van vertrouwenslieden aan.
 
@@ -284,7 +311,7 @@ Een instelling legt in haar statuten of, indien zij geen statuten heeft, andersz
 
 11. De kosten voor het voorleggen van een verzoek als bedoeld in het derde lid, onderdelen d en e, komen voor rekening van de instelling, met uitzondering van de kosten van juridische bijstand indien onderdeel d van toepassing is. In rechtsgedingen als bedoeld in het achtste lid, kan de delegatie, bedoeld in het derde lid, onderdeel d of e, niet in de proceskosten worden veroordeeld.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De ambtenaren van het Staatstoezicht op de volksgezondheid zijn belast met het toezicht op de naleving van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=II&artikel=2&z=2025-07-05&g=2025-07-05), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=3&z=2025-07-05&g=2025-07-05), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=4&z=2025-07-05&g=2025-07-05), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=10&z=2025-07-05&g=2025-07-05) en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=IV&artikel=14&z=2025-07-05&g=2025-07-05). Zij rapporteren daarover aan Onze Minister.
 
@@ -292,45 +319,45 @@ Een instelling legt in haar statuten of, indien zij geen statuten heeft, andersz
 
 ### Hoofdstuk V. Wijzigingen in andere wetten
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt de Jeugdwet.
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt deze wet.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt de Wet verplichte geestelijke gezondheidszorg.
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt de Wet verplichte geestelijke gezondheidszorg.
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt de Wet toetreding zorgaanbieders.
 
-#### Artikel 23
+##### Artikel 23
 
 Wijzigt de Wet toetreding zorgaanbieders.
 
 ### Hoofdstuk VI. Overgangs- en slotbepalingen
 
-#### Artikel 24
+##### Artikel 24
 
 De [Wet medezeggenschap cliënten zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007920) wordt ingetrokken.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De voor het tijdstip van inwerkingtreding van deze wet aangevangen procedures inzake de naleving van de [Wet medezeggenschap cliënten zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007920) zoals die wet luidde tot het tijdstip van inwerkingtreding van deze wet, worden afgewikkeld overeenkomstig [artikel 10 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007920&artikel=10).
 
@@ -340,7 +367,7 @@ De [Wet medezeggenschap cliënten zorginstellingen](https://wetten.overheid.nl/j
 
 4. Een instelling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=3&z=2025-07-05&g=2025-07-05), of [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=III&artikel=4&z=2025-07-05&g=2025-07-05), die op grond van [artikel 2 van de Wet medezeggenschap cliënten zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007920&artikel=2) reeds een medezeggenschapsregeling heeft vastgesteld, stelt binnen zes maanden na het tijdstip van inwerkingtreding van deze wet een medezeggenschapsregeling vast die voldoet aan de in deze wet gestelde eisen. Tot het tijdstip waarop een zodanige regeling is vastgesteld, doch ten hoogste totdat de in de eerste volzin bedoelde zes maanden zijn verstreken, wordt een regeling die is vastgesteld op grond van [artikel 2 van de Wet medezeggenschap cliënten zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007920&artikel=2) aangemerkt als een medezeggenschapsregeling die voldoet aan de eisen van artikel 3.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De voor het tijdstip van inwerkingtreding van deze wet aangevangen procedures inzake de naleving van de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) zoals die wet luidde tot het tijdstip van inwerkingtreding van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=V&artikel=16&z=2025-07-05&g=2025-07-05) van deze wet, worden afgewikkeld overeenkomstig [artikel 4.2.11 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.2.11) zoals die wet luidde tot het tijdstip van inwerkingtreding van artikel 16 van deze wet.
 
@@ -350,15 +377,15 @@ De [Wet medezeggenschap cliënten zorginstellingen](https://wetten.overheid.nl/j
 
 4. Een jeugdhulpaanbieder, gecertificeerde instelling of pleegzorgaanbieder die voor de inwerkingtreding van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&hoofdstuk=V&artikel=16&z=2025-07-05&g=2025-07-05) van deze wet reeds een medezeggenschapsregeling heeft vastgesteld, stelt binnen zes maanden na het tijdstip van inwerkingtreding van dat artikel een medezeggenschapsregeling vast die voldoet aan de krachtens de [artikelen 4.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.2.4) of [4.2.5 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.2.5) gestelde eisen. Tot het tijdstip waarop een zodanige regeling is vastgesteld, doch ten hoogste totdat de in de eerste volzin bedoelde zes maanden zijn verstreken, wordt een regeling die is vastgesteld voor de inwerkingtreding van artikel 16 van deze wet aangemerkt als een medezeggenschapsregeling die voldoet aan de krachtens de artikelen 4.2.4 of 4.2.5 van de Jeugdwet gestelde eisen.
 
-#### Artikel 27
+##### Artikel 27
 
 Onze Minister voor Medische Zorg zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 28
+##### Artikel 28
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 29
+##### Artikel 29
 
 Deze wet wordt aangehaald als: Wet medezeggenschap cliënten zorginstellingen 2018.
 

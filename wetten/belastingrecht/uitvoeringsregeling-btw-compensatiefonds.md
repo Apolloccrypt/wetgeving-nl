@@ -1,20 +1,44 @@
 ---
 title: "Uitvoeringsregeling BTW-compensatiefonds"
 identifier: "BWBR0014121"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014121"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014121"
+soort: "ministeriele-regeling"
+stam_id: "4141343"
+version_id: "5894762"
+internal_id: "C6097591"
+label_id: "4120884"
+dtd_version: "2.0"
+original_entry_into_force: "2003-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014121/2026-04-01/0"
+intitule_bron: "Stcrt.2002-211"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-10-16"
+intitule_published: "2002-11-01"
+intitule_in_force: "2002-11-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-211"
+original_signed_date: "2002-10-16"
+original_published_date: "2002-11-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-01-01"
+jci_1_3: "jci1.3:c:BWBR0014121&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0014121&g=2026-04-01"
+citeertitel_status: "officieel"
+signed_date: "2002-10-16"
+entry_into_force: "2003-01-01"
 ---
-
 # Uitvoeringsregeling BTW-compensatiefonds
 
 Gelet op de [artikelen 2, vierde, zesde, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=2), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=8) en [9, negende lid, van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=9);
 
 Besluit:
 
-#### Artikel 1. Uitkering en voorschotten
+##### Artikel 1. Uitkering en voorschotten
 
 1. De inspecteur kan een voorschot verlenen indien en voorzover daarom door het publiekrechtelijk lichaam of regionaal openbaar lichaam is verzocht op een opgaaf die duidelijk, stellig en zonder voorbehoud is ingediend.
 
@@ -30,11 +54,11 @@ Besluit:
 
 4. Het gezamenlijke bedrag van de over alle tijdvakken in een kalenderjaar verleende voorschotten wordt verrekend met de bijdrage over dat jaar.
 
-#### Artikel 2. Hoogte van de bijdrage voor regionale openbare lichamen
+##### Artikel 2. Hoogte van de bijdrage voor regionale openbare lichamen
 
 De bijdrage uit het BTW-compensatiefonds over enig jaar voor een regionaal openbaar lichaam is het saldo van het bedrag van de omzetbelasting waarvoor voor het regionaal openbaar lichaam in dat kalenderjaar recht op bijdrage is ontstaan en het bedrag van de in dat jaar door het regionaal openbaar lichaam verschuldigde bijdragen, vermenigvuldigd met de voor dat jaar geldende vereveningsfactor, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=4&z=2026-04-01&g=2026-04-01).
 
-#### Artikel 3. Hoogte van de bijdrage voor publiekrechtelijke lichamen
+##### Artikel 3. Hoogte van de bijdrage voor publiekrechtelijke lichamen
 
 1. De bijdrage uit het BTW-compensatiefonds over 2003 voor een publiekrechtelijk lichaam is het hoogste van de in de volgende onderdelen bedoelde bedragen:
 
@@ -60,13 +84,13 @@ De bijdrage uit het BTW-compensatiefonds over enig jaar voor een regionaal openb
 
 - b. de som van de voor dat jaar geldende optelposten bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=5&z=2026-04-01&g=2026-04-01), verminderd met de voor dat jaar geldende korting bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=6&z=2026-04-01&g=2026-04-01), vermeerderd met de over 2003, 2004 en 2005 berekende bedragen bedoeld in het derde lid, onderdeel b.
 
-#### Artikel 4. Vereveningsfactoren
+##### Artikel 4. Vereveningsfactoren
 
 1. De voor het kalenderjaar 2003 geldende vereveningsfactor bedoeld in [artikel 2, tiende lid, van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=2) bedraagt voor provincies 0,96 en voor gemeenten en regionale openbare lichamen 0,95.
 
 2. De voor de kalenderjaren 2004, 2005 en 2006 geldende vereveningsfactor, bedoeld in [artikel 2, tiende lid, van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=2) bedraagt voor provincies 0,96 en voor gemeenten en regionale, openbare lichamen 0,95.
 
-#### Artikel 5. Optelposten voor de minimumuitkering
+##### Artikel 5. Optelposten voor de minimumuitkering
 
 1. De voor een kalenderjaar voor een publiekrechtelijk lichaam geldende optelposten bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=3&z=2026-04-01&g=2026-04-01), zijn:
 
@@ -88,7 +112,7 @@ De bijdrage uit het BTW-compensatiefonds over enig jaar voor een regionaal openb
 
 5. De afgedragen omzetbelasting van een samenwerkingsverband is toerekenbaar aan het publiekrechtelijk lichaam tot het gedeelte van de afgedragen omzetbelasting van dat samenwerkingsverband dat in dezelfde verhouding staat tot de afgedragen omzetbelasting als de netto bijdrage van het publiekrechtelijk lichaam in de kosten van het samenwerkingsverband staat tot de totale netto kosten van het samenwerkingsverband.
 
-#### Artikel 6. De korting bij toepassing van de minimale uitkering
+##### Artikel 6. De korting bij toepassing van de minimale uitkering
 
 1. De voor een kalenderjaar voor een publiekrechtelijk lichaam geldende korting bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=3&z=2026-04-01&g=2026-04-01), bedraagt:
 
@@ -98,7 +122,7 @@ De bijdrage uit het BTW-compensatiefonds over enig jaar voor een regionaal openb
 
 2. Voor de berekening van de bijdragen voor provincies over de kalenderjaren 2004, 2005 en 2006 wordt het in het eerste lid, onderdeel b, genoemde percentage verhoogd tot respectievelijk twee, drie en drie.
 
-#### Artikel 7. Omvang bijdrage en herrekening
+##### Artikel 7. Omvang bijdrage en herrekening
 
 1. De omvang van de bijdrage, bedoeld in [artikel 3 van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=3), wordt vastgesteld op basis van het werkelijke gebruik dat van de goederen en diensten wordt gemaakt dan wel van het beoogde gebruik indien de goederen en diensten in een later kalenderjaar feitelijk gebruikt gaan worden.
 
@@ -108,7 +132,7 @@ De bijdrage uit het BTW-compensatiefonds over enig jaar voor een regionaal openb
 
 4. De herziening, bedoeld in [artikel 7, tweede lid, van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=7), geschiedt op basis van de gegevens van het kalenderjaar waarin het publiekrechtelijk lichaam of regionaal openbaar lichaam de goederen of diensten is gaan gebruiken.
 
-#### Artikel 8. Herziening
+##### Artikel 8. Herziening
 
 1. In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=7&z=2026-04-01&g=2026-04-01) worden voor de toepassing van de bijdrage afzonderlijk in aanmerking genomen:
 
@@ -126,7 +150,7 @@ De bijdrage uit het BTW-compensatiefonds over enig jaar voor een regionaal openb
 
 5. De herziening blijft achterwege in het kalenderjaar waarin het bedrag dat op basis van de voor dat jaar geldende gegevens voor bijdrage in aanmerking komt, niet meer dan tien procent verschilt van het, op dat jaar betrekking hebbende, als bijdrage ontvangen bedrag.
 
-#### Artikel 9. Herziening bij levering
+##### Artikel 9. Herziening bij levering
 
 1. Indien een goed als bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014121&artikel=8&z=2026-04-01&g=2026-04-01), in het kalenderjaar van aanschaf, of ingebruikneming, dan wel binnen de in artikel 8, tweede lid, of derde lid voor zover het betreft de aldaar bedoelde investeringsdiensten, bedoelde herzieningsperiode, al dan niet als ondernemer wordt geleverd, wordt het publiekrechtelijk lichaam of regionaal openbaar lichaam geacht dat goed of de aan het goed verrichte investeringsdiensten, vanaf het tijdstip van levering tot aan het einde van de vorenbedoelde herzieningsperiode te gebruiken voor activiteiten waarvoor geen recht op compensatie bestaat.
 
@@ -136,7 +160,7 @@ De bijdrage uit het BTW-compensatiefonds over enig jaar voor een regionaal openb
 
 4. De herziening geschiedt in één keer bij de opgaaf over het kalenderjaar waarin de levering plaatsvindt.
 
-#### Artikel 10. Formele bepalingen
+##### Artikel 10. Formele bepalingen
 
 1. De verrekeningsbevoegdheid als bedoeld in [artikel 9, derde en vierde lid, van de Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817&artikel=9) komt bij uitsluiting toe aan de inspecteur.
 
@@ -146,7 +170,7 @@ De bijdrage uit het BTW-compensatiefonds over enig jaar voor een regionaal openb
 
 4. Het bedrag van de te vergoeden belastingrente wordt naar boven afgerond op hele euro's.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 januari 2003. Zij kan worden aangehaald als Uitvoeringsregeling BTW-compensatiefonds.
 

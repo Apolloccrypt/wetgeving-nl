@@ -1,13 +1,35 @@
 ---
 title: "Protocol tot uitbanning van illegale handel in tabaksproducten"
 identifier: "BWBV0006383"
-categorie: "Internationaal recht"
-publicatiedatum: 2020-10-01
-laatste_update: 2020-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006383"
+country: "nl"
+rank: "verdrag"
+publication_date: "2020-10-01"
+last_updated: "2020-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006383"
+soort: "verdrag"
+stam_id: "10005208783"
+version_id: "10005593362"
+internal_id: "C10009704951"
+label_id: "10005192674"
+dtd_version: "2.0"
+original_entry_into_force: "2020-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006383/2020-10-01/0"
+intitule_bron: "Trb.2014-155"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2014-08-14"
+intitule_in_force: "2020-08-03"
+intitule_status: "goed"
+original_publication: "Trb.2014-155"
+original_published_date: "2014-08-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2014-155"
+entry_into_force_date: "2020-10-01"
+jci_1_3: "jci1.3:c:BWBV0006383&z=2020-10-01&g=2020-10-01"
+jci_1_0: "1.0:c:BWBV0006383&g=2020-10-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2020-10-01"
 ---
-
 # Protocol tot uitbanning van illegale handel in tabaksproducten
 
 Preambule
@@ -66,7 +88,7 @@ Komen hierbij het volgende overeen:
 
 ## DEEL I. INLEIDING
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. Onder „tussenhandel” wordt verstaan het optreden als agent voor derden, bijvoorbeeld bij de onderhandeling over contracten, aan- of verkopen, in ruil voor een vergoeding of commissie.
 
@@ -106,7 +128,7 @@ Komen hierbij het volgende overeen:
 
 14. Onder „volgen en traceren” wordt verstaan het systematisch monitoren en reconstrueren van de route of beweging van artikelen door de toeleveringsketen door bevoegde instanties en andere personen die namens hen optreden, zoals beschreven in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=8&z=2020-10-01&g=2020-10-01).
 
-#### Artikel 2. Verhouding tussen dit protocol en andere overeenkomsten en juridische instrumenten
+##### Artikel 2. Verhouding tussen dit protocol en andere overeenkomsten en juridische instrumenten
 
 1. De bepalingen van het [WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706) die van toepassing zijn op de protocollen daarbij, zijn van toepassing op dit Protocol.
 
@@ -116,13 +138,13 @@ Komen hierbij het volgende overeen:
 
 4. Geen enkele bepaling van dit Protocol tast de overige rechten, verplichtingen en verantwoordelijkheden aan van de Partijen uit hoofde van het internationale recht, met inbegrip van het [Verdrag van de Verenigde Naties tegen grensoverschrijdende georganiseerde misdaad](https://wetten.overheid.nl/jci1.3:c:BWBV0001668).
 
-#### Artikel 3. Doel
+##### Artikel 3. Doel
 
 Het doel van dit Protocol is alle vormen van illegale handel in tabaksproducten uit te bannen in overeenstemming met de voorwaarden van [artikel 15 van het WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706&artikel=15).
 
 ## DEEL II. ALGEMENE VERPLICHTINGEN
 
-#### Artikel 4. Algemene verplichtingen
+##### Artikel 4. Algemene verplichtingen
 
 1. Aanvullend op de bepalingen van [artikel 5 van het WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706&artikel=5) zullen de Partijen:
 
@@ -140,13 +162,13 @@ Het doel van dit Protocol is alle vormen van illegale handel in tabaksproducten 
 
 2. Bij de nakoming van hun verplichtingen uit hoofde van dit Protocol waarborgen de Partijen de grootst mogelijke transparantie met betrekking tot alle mogelijke interacties met de tabaksindustrie.
 
-#### Artikel 5. Bescherming van persoonsgegevens
+##### Artikel 5. Bescherming van persoonsgegevens
 
 Bij de uitvoering van dit Protocol beschermen de Partijen de persoonsgegevens van natuurlijke personen ongeacht nationaliteit of woonplaats, overeenkomstig hun nationale recht, daarbij rekening houdend met internationale normen inzake de bescherming van persoonsgegevens.
 
 ## DEEL III. TOEZICHT OP DE TOELEVERINGSKETEN
 
-#### Artikel 6. Vergunning, daarmee vergelijkbare goedkeuring of controlesysteem
+##### Artikel 6. Vergunning, daarmee vergelijkbare goedkeuring of controlesysteem
 
 1. Teneinde de doelen van het [WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706) te verwezenlijken en met het oog op het uitbannen van illegale handel in tabaksproducten en productieapparatuur, verbiedt elke Partij het uitvoeren van de volgende activiteiten door natuurlijke of rechtspersonen, behalve op grond van een door een bevoegde autoriteit in overeenstemming met het nationale recht afgegeven vergunning of daarmee vergelijkbare goedkeuring (hierna „vergunning” genoemd) of ingesteld controlesysteem:
 
@@ -204,7 +226,7 @@ Bij de uitvoering van dit Protocol beschermen de Partijen de persoonsgegevens va
 
 5. Vijf jaar na de inwerkingtreding van dit Protocol ziet de Vergadering van de Partijen erop toe dat tijdens haar eerstvolgende zitting op basis van empirisch onderzoek vastgesteld wordt of er voor de productie van tabaksproducten essentiële factoren geïdentificeerd kunnen worden die kunnen worden onderworpen aan een effectief controlemechanisme. Op basis van dergelijk onderzoek overweegt de Vergadering van de Partijen passende maatregelen.
 
-#### Artikel 7. Zorgvuldigheidsvereiste
+##### Artikel 7. Zorgvuldigheidsvereiste
 
 1. Elke Partij eist in overeenstemming met haar nationale recht en de doelen van het [WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706) dat alle natuurlijke en rechtspersonen die deelnemen aan de toeleveringsketen van tabak, tabaksproducten en productieapparatuur:
 
@@ -234,7 +256,7 @@ Bij de uitvoering van dit Protocol beschermen de Partijen de persoonsgegevens va
 
 4. Elke Partij neemt op basis van de informatie vermeld in het eerste lid, onderdeel c, alle nodige maatregelen om de nakoming van de verplichtingen die voortvloeien uit dit Protocol te waarborgen, hetgeen kan inhouden dat een klant binnen haar rechtsmacht wordt aangemerkt als geblokkeerde klant zoals omschreven in haar nationale recht.
 
-#### Artikel 8. Volgen en traceren
+##### Artikel 8. Volgen en traceren
 
 1. Ten behoeve van de verdere beveiliging van de toeleveringsketen en de hulp bij onderzoek naar de illegale handel in tabaksproducten stemmen de Partijen ermee in binnen vijf jaar na de inwerkingtreding van dit Protocol een regeling vast te stellen voor wereldwijd volgen en traceren, bestaande uit nationale en/of regionale volg- en traceersystemen en een mondiaal steunpunt voor de uitwisseling van informatie, ondergebracht bij het Secretariaat van het WHO-Kaderverdrag inzake tabaksontmoediging, dat toegankelijk is voor alle Partijen, hetgeen Partijen in staat stelt onderzoek te verrichten en relevante informatie te ontvangen.
 
@@ -304,7 +326,7 @@ Bij de uitvoering van dit Protocol beschermen de Partijen de persoonsgegevens va
 
 14. Elke Partij kan eisen dat de tabaksindustrie alle kosten draagt die verbonden zijn met de verplichtingen van die Partij op grond van dit artikel.
 
-#### Artikel 9. Bijhouden van administratie
+##### Artikel 9. Bijhouden van administratie
 
 1. Elke Partij eist zo nodig dat alle natuurlijke en rechtspersonen die deelnemen aan de toeleveringsketen van tabak, tabaksproducten en productieapparatuur een volledige en nauwkeurige administratie bijhouden van alle relevante transacties. Aan de hand van deze administratie dient het gebruik van materialen bij de productie van de tabaksproducten volledig verantwoord te kunnen worden.
 
@@ -344,7 +366,7 @@ Bij de uitvoering van dit Protocol beschermen de Partijen de persoonsgegevens va
 
 7. De Partijen streven ernaar samen te werken met elkaar en met bevoegde internationale organisaties aan het in toenemende mate doorgeven en ontwikkelen van verbeterde systemen voor het bijhouden van de administratie.
 
-#### Artikel 10. Veiligheid en voorzorgsmaatregelen
+##### Artikel 10. Veiligheid en voorzorgsmaatregelen
 
 1. Elke Partij eist, indien mogelijk en in overeenstemming met haar nationale recht en de doelstellingen van het [WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706), dat alle natuurlijke en rechtspersonen bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=III&artikel=6&z=2020-10-01&g=2020-10-01) de nodige maatregelen nemen om te voorkomen dat tabaksproducten verdwijnen naar illegale handelskanalen, onder andere door:
 
@@ -362,13 +384,13 @@ Bij de uitvoering van dit Protocol beschermen de Partijen de persoonsgegevens va
 
 4. Elke Partij ziet erop toe dat op elke schending van de vereisten van dit artikel gepaste strafrechtelijke, civielrechtelijke of bestuurlijke procedures en effectieve, proportionele en afschrikkende sancties van toepassing zijn met inbegrip van, naargelang van het geval, opschorting of annulering van de vergunning.
 
-#### Artikel 11. Verkoop via internet, telecommunicatie of andere nieuwe technologieën
+##### Artikel 11. Verkoop via internet, telecommunicatie of andere nieuwe technologieën
 
 1. Elke Partij eist dat alle natuurlijke en rechtspersonen die deelnemen aan een transactie met betrekking tot tabaksproducten via internet, telecommunicatie of een andere op nieuwe technologieën gebaseerde afzetwijze, voldoen aan alle relevante verplichtingen die onder dit Protocol vallen.
 
 2. Elke Partij overweegt de detailhandel in tabaksproducten via internet, telecommunicatie of een andere op nieuwe technologieën gebaseerde afzetwijze te verbieden.
 
-#### Artikel 12. Vrije zones en internationale doorvoer
+##### Artikel 12. Vrije zones en internationale doorvoer
 
 1. Elke Partij implementeert binnen drie jaar na de inwerkingtreding van dit Protocol voor die Partij effectieve controlemaatregelen met betrekking tot de volledige productie en alle transacties van tabak en tabaksproducten in vrije zones met behulp van alle relevante maatregelen voorzien in dit Protocol.
 
@@ -376,7 +398,7 @@ Bij de uitvoering van dit Protocol beschermen de Partijen de persoonsgegevens va
 
 3. Elke Partij neemt in overeenstemming met haar nationale recht controle- en verificatiemaatregelen aan en past deze toe op de internationale doorvoer of overslag op haar grondgebied van tabaksproducten en productieapparatuur in overeenstemming met de bepalingen van dit Protocol teneinde de illegale handel in dergelijke producten te voorkomen.
 
-#### Artikel 13. Belastingvrije verkoop
+##### Artikel 13. Belastingvrije verkoop
 
 1. Elke Partij voert effectieve maatregelen uit teneinde de belastingvrije verkoop te onderwerpen aan alle relevante bepalingen van dit Protocol, rekening houdend met [artikel 6 van het WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706&artikel=6).
 
@@ -384,7 +406,7 @@ Bij de uitvoering van dit Protocol beschermen de Partijen de persoonsgegevens va
 
 ## DEEL IV. INBREUKEN
 
-#### Artikel 14. Gedragingen in strijd met de wet met inbegrip van strafbare feiten
+##### Artikel 14. Gedragingen in strijd met de wet met inbegrip van strafbare feiten
 
 1. Elke Partij neemt in overeenstemming met de beginselen van haar nationale recht wetgevende en, zo nodig, andere maatregelen aan teneinde al de volgende gedragingen volgens haar nationale recht in strijd met de wet te verklaren:
 
@@ -432,7 +454,7 @@ Bij de uitvoering van dit Protocol beschermen de Partijen de persoonsgegevens va
 
 4. Teneinde de internationale samenwerking te versterken bij het bestrijden van strafbare feiten met betrekking tot illegale handel in tabak, tabaksproducten en productieapparatuur, worden de Partijen aangemoedigd hun nationale wetgeving met betrekking tot witwassen, wederzijdse rechtshulp en uitlevering te herzien, rekening houdend met internationale verdragen waarbij zij partij zijn, om te waarborgen dat deze effectief is voor het handhaven van de bepalingen van dit Protocol.
 
-#### Artikel 15. Aansprakelijkheid van rechtspersonen
+##### Artikel 15. Aansprakelijkheid van rechtspersonen
 
 1. Elke Partij neemt de nodige maatregelen aan in overeenstemming met haar rechtsbeginselen teneinde de aansprakelijkheid van rechtspersonen vast te stellen voor de gedragingen die in strijd zijn met de wet, met inbegrip van strafbare feiten, die zijn vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01) van dit Protocol.
 
@@ -440,7 +462,7 @@ Bij de uitvoering van dit Protocol beschermen de Partijen de persoonsgegevens va
 
 3. Deze aansprakelijkheid laat onverlet de aansprakelijkheid van natuurlijke personen die hebben deelgenomen aan gedragingen in strijd met de wet of die strafbare feiten hebben gepleegd, vastgesteld in overeenstemming met de nationale wet- en regelgeving en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01) van dit Protocol.
 
-#### Artikel 16. Vervolging en sancties
+##### Artikel 16. Vervolging en sancties
 
 1. Elke Partij neemt de nodige maatregelen aan in overeenstemming met haar nationale recht om te verzekeren dat op natuurlijke en rechtspersonen die aansprakelijk worden gesteld voor de gedragingen die in strijd zijn met de wet, met inbegrip van strafbare feiten die vastgesteld zijn in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01), effectieve, proportionele en afschrikkende strafrechtelijke of andere sancties, met inbegrip van geldelijke sancties, worden toegepast.
 
@@ -448,15 +470,15 @@ Bij de uitvoering van dit Protocol beschermen de Partijen de persoonsgegevens va
 
 3. Niets in dit Protocol tast het beginsel aan dat de beschrijving van de gedragingen die in strijd zijn met de wet, met inbegrip van strafbare feiten, vastgesteld in overeenstemming met dit Protocol, en van de toepasselijke verdediging in rechte of andere juridische beginselen die van toepassing zijn op de rechtmatigheid van gedragingen, voorbehouden is aan het nationale recht van een Partij en dat dergelijke gedragingen die in strijd zijn met de wet, met inbegrip van strafbare feiten, vervolgd en bestraft zullen worden in overeenstemming met dat recht.
 
-#### Artikel 17. Invordering bij inbeslagname
+##### Artikel 17. Invordering bij inbeslagname
 
 De Partijen dienen, in overeenstemming met hun nationale recht, te overwegen de wetgevende en andere maatregelen te nemen die nodig kunnen zijn teneinde de bevoegde autoriteiten in staat te stellen een bedrag van de producent, fabrikant, distributeur, importeur of exporteur van in beslag genomen tabak, tabaksproducten en/of productieapparatuur in te vorderen dat evenredig is aan de gederfde belastingen en rechten.
 
-#### Artikel 18. Verwijdering of vernietiging
+##### Artikel 18. Verwijdering of vernietiging
 
 Alle in beslag genomen tabak, tabaksproducten en productieapparatuur worden zoveel mogelijk vernietigd met gebruik van milieuvriendelijke methoden, of verwijderd in overeenstemming met het nationale recht.
 
-#### Artikel 19. Bijzondere opsporingsmethoden
+##### Artikel 19. Bijzondere opsporingsmethoden
 
 1. Elke Partij neemt, indien toegestaan volgens de basisbeginselen van haar nationale rechtssysteem, binnen de mogelijkheden en op grond van de voorwaarden voorgeschreven door het nationale recht, de nodige maatregelen teneinde de gepaste inzet van gecontroleerde aflevering en, waar dit nodig geacht wordt, van andere speciale opsporingstechnieken, zoals elektronische of andere vormen van toezicht en undercoveroperaties, door haar bevoegde autoriteiten op haar grondgebied mogelijk te maken om de illegale handel in tabak, tabaksproducten of productieapparatuur effectief te bestrijden.
 
@@ -468,7 +490,7 @@ Alle in beslag genomen tabak, tabaksproducten en productieapparatuur worden zove
 
 ## DEEL V. INTERNATIONALE SAMENWERKING
 
-#### Artikel 20. Algemene informatie-uitwisseling
+##### Artikel 20. Algemene informatie-uitwisseling
 
 1. De Partijen verstrekken, ten behoeve van het verwezenlijken van de doelstellingen van dit Protocol en als onderdeel van het rapportage-instrument van het [WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706), relevante informatie in overeenstemming met hun nationale recht, waaronder, waar nodig, over:
 
@@ -484,7 +506,7 @@ Alle in beslag genomen tabak, tabaksproducten en productieapparatuur worden zove
 
 3. De Partijen beschouwen de genoemde informatie als vertrouwelijk en uitsluitend voor gebruik door de Partijen, tenzij anders vermeld door de verzendende Partij.
 
-#### Artikel 21. Uitwisseling van informatie ten behoeve van handhaving
+##### Artikel 21. Uitwisseling van informatie ten behoeve van handhaving
 
 1. De Partijen verstrekken overeenkomstig het nationale recht of toepasselijke internationale verdragen, indien van toepassing, de volgende informatie uit eigen beweging of op verzoek van een Partij die gegronde redenen aanvoert dat dergelijke informatie nodig is voor opsporing van of onderzoek naar de illegale handel in tabak, tabaksproducten of productieapparatuur:
 
@@ -500,13 +522,13 @@ Alle in beslag genomen tabak, tabaksproducten en productieapparatuur worden zove
 
 2. De informatie die op grond van dit artikel ontvangen wordt van de Partijen wordt uitsluitend gebruikt ter verwezenlijking van de doelen van dit Protocol. De Partijen kunnen bepalen dat dergelijke informatie niet doorgegeven mag worden zonder toestemming van de Partij die de informatie heeft verstrekt.
 
-#### Artikel 22. Informatie-uitwisseling: vertrouwelijkheid en bescherming van informatie
+##### Artikel 22. Informatie-uitwisseling: vertrouwelijkheid en bescherming van informatie
 
 1. Elke Partij wijst de bevoegde nationale autoriteiten aan waaraan de gegevens bedoeld in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=V&artikel=20&z=2020-10-01&g=2020-10-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=V&artikel=21&z=2020-10-01&g=2020-10-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=V&artikel=24&z=2020-10-01&g=2020-10-01) verstrekt worden en stelt de Partijen daarvan op de hoogte via het Secretariaat van het Verdrag.
 
 2. De uitwisseling van informatie op grond van dit Protocol is onderworpen aan het binnenlandse recht met betrekking tot vertrouwelijkheid en privacy. De Partijen beschermen, zoals wederzijds overeengekomen, alle uitgewisselde vertrouwelijke informatie.
 
-#### Artikel 23. Bijstand en samenwerking: training, technische bijstand en samenwerking op wetenschappelijk, technisch en technologisch gebied
+##### Artikel 23. Bijstand en samenwerking: training, technische bijstand en samenwerking op wetenschappelijk, technisch en technologisch gebied
 
 1. De Partijen werken met elkaar en/of via bevoegde internationale en regionale organisaties samen ten behoeve van het verzorgen van training, technische bijstand en samenwerking op wetenschappelijk, technisch en technologisch gebied teneinde de doelen van dit Protocol te verwezenlijken, zoals wederzijds overeengekomen. Deze bijstand kan bestaan uit het overdragen van expertise of geschikte technologie op het gebied van informatievergaring, wetshandhaving, volgen en traceren, informatiebeheer, bescherming van persoonsgegevens, verboden, elektronisch toezicht, forensisch onderzoek, wederzijdse rechtshulp en uitlevering.
 
@@ -514,19 +536,19 @@ Alle in beslag genomen tabak, tabaksproducten en productieapparatuur worden zove
 
 3. De Partijen werken zo nodig samen om mogelijkheden voor het vaststellen van de exacte geografische herkomst van in beslag genomen tabak en tabaksproducten te ontwikkelen en te bestuderen.
 
-#### Artikel 24. Bijstand en samenwerking: onderzoek en vervolging van strafbare feiten
+##### Artikel 24. Bijstand en samenwerking: onderzoek en vervolging van strafbare feiten
 
 1. De Partijen nemen in overeenstemming met hun nationale recht alle nodige maatregelen teneinde de samenwerking te versterken door middel van multilaterale, regionale of bilaterale regelingen voor het voorkomen, opsporen, onderzoeken, vervolgen en bestraffen van natuurlijke of rechtspersonen die deelnemen aan de illegale handel in tabak, tabaksproducten of productieapparatuur.
 
 2. Elke Partij ziet erop toe dat bestuurlijke, regelgevende, wetshandhavings- en andere autoriteiten die betrokken zijn bij het bestrijden van de illegale handel in tabak, tabaksproducten of productieapparatuur (inclusief justitiële instanties, indien toegestaan op grond van het nationale recht) samenwerken en relevante informatie uitwisselen op nationaal en internationaal niveau overeenkomstig de voorwaarden van haar nationale recht.
 
-#### Artikel 25. Bescherming van de soevereiniteit
+##### Artikel 25. Bescherming van de soevereiniteit
 
 1. De Partijen vervullen hun verplichtingen op grond van dit Protocol op een wijze die verenigbaar is met de beginselen van soevereine gelijkheid en territoriale integriteit van Staten en het beginsel van niet-inmenging in de binnenlandse aangelegenheden van andere Staten.
 
 2. Niets in dit Protocol geeft een Partij het recht op het grondgebied van een andere Staat rechtsmacht uit te oefenen en taken uit te voeren die volgens het nationale recht uitsluitend voorbehouden zijn aan de autoriteiten van die andere Staat.
 
-#### Artikel 26. Rechtsmacht
+##### Artikel 26. Rechtsmacht
 
 1. Elke Partij neemt de maatregelen aan die nodig kunnen zijn om haar rechtsmacht te vestigen met betrekking tot de in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01) vastgestelde strafbare feiten indien:
 
@@ -550,7 +572,7 @@ Alle in beslag genomen tabak, tabaksproducten en productieapparatuur worden zove
 
 6. Ongeacht de normen van het algemene internationale recht sluit dit Protocol niet de uitoefening van rechtsmacht in strafzaken uit, die is vastgesteld door een Partij in overeenstemming met haar nationale recht.
 
-#### Artikel 27. Samenwerking op het gebied van rechtshandhaving
+##### Artikel 27. Samenwerking op het gebied van rechtshandhaving
 
 1. Elke Partij neemt, in overeenstemming met haar onderscheiden nationale rechts- en bestuurlijke stelsel, effectieve maatregelen aan teneinde:
 
@@ -578,7 +600,7 @@ Alle in beslag genomen tabak, tabaksproducten en productieapparatuur worden zove
 
 3. De Partijen trachten waar dat in hun vermogen ligt samen te werken teneinde het hoofd te bieden aan de illegale handel in tabaksproducten die plaatsvindt met behulp van moderne technologie.
 
-#### Artikel 28. Wederzijdse administratieve bijstand
+##### Artikel 28. Wederzijdse administratieve bijstand
 
 De Partijen voorzien elkaar in overeenstemming met hun onderscheiden nationale rechts- en bestuursstelsels op verzoek of uit eigen beweging van informatie om de juiste toepassing van douane- en andere relevante wetgeving bij het voorkomen, opsporen, onderzoeken, vervolgen en bestrijden van de illegale handel in tabak, tabaksproducten of productieapparatuur te waarborgen. De Partijen beschouwen de genoemde informatie als vertrouwelijk en voor beperkt gebruik, tenzij anders vermeld door de verzendende Partij. Dergelijke informatie kan onder andere bestaan uit:
 
@@ -592,7 +614,7 @@ De Partijen voorzien elkaar in overeenstemming met hun onderscheiden nationale r
 
 - e. alle andere gegevens die de aangewezen instanties van nut kunnen zijn bij de risicobeoordeling voor controle- en andere handhavingsdoeleinden.
 
-#### Artikel 29. Wederzijdse rechtshulp
+##### Artikel 29. Wederzijdse rechtshulp
 
 1. De Partijen verlenen elkaar de ruimst mogelijke wederzijdse rechtshulp bij het onderzoek, de vervolging en de gerechtelijke procedures met betrekking tot de strafbare feiten vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01) van dit Protocol.
 
@@ -692,7 +714,7 @@ In urgente gevallen en indien overeengekomen door de Partijen kunnen verzoeken m
 
 24. De Partijen overwegen, indien nodig, de mogelijkheid van het aangaan van bilaterale of multilaterale overeenkomsten of regelingen die dienstig kunnen zijn voor, praktische uitvoering geven aan of bevorderlijk zijn voor de bepalingen van dit artikel.
 
-#### Artikel 30. Uitlevering
+##### Artikel 30. Uitlevering
 
 1. Dit artikel is van toepassing op de strafbare feiten die zijn vastgesteld in overeenstemming met [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006383&deel=IV&artikel=14&z=2020-10-01&g=2020-10-01) van dit Protocol indien:
 
@@ -728,7 +750,7 @@ In urgente gevallen en indien overeengekomen door de Partijen kunnen verzoeken m
 
 14. De Partijen streven ernaar bilaterale en multilaterale overeenkomsten of regelingen te sluiten om uitlevering mogelijk te maken of de doeltreffendheid ervan te verhogen. Indien de Partijen gebonden zijn door een bestaand verdrag of intergouvernementele regeling, zijn de overeenkomstige bepalingen van dat verdrag of die intergouvernementele regeling van toepassing, tenzij de Partijen ermee instemmen in plaats daarvan het eerste tot en met het dertiende lid toe te passen.
 
-#### Artikel 31. Maatregelen om uitlevering te verzekeren
+##### Artikel 31. Maatregelen om uitlevering te verzekeren
 
 1. Met inachtneming van haar nationale recht en uitleveringsverdragen kan de aangezochte Partij, nadat zij zich ervan heeft vergewist dat de omstandigheden dit rechtvaardigen en dringend zijn en op verzoek van de verzoekende Partij, een persoon om wiens uitlevering wordt verzocht en die zich op haar grondgebied bevindt in hechtenis nemen of andere passende maatregelen nemen om zijn of haar aanwezigheid bij de uitleveringsprocedure te waarborgen.
 
@@ -742,7 +764,7 @@ In urgente gevallen en indien overeengekomen door de Partijen kunnen verzoeken m
 
 ## DEEL VI. VERSLAGLEGGING
 
-#### Artikel 32. Verslaglegging en uitwisseling van informatie
+##### Artikel 32. Verslaglegging en uitwisseling van informatie
 
 1. Elke Partij dient bij de Vergadering van de Partijen via het Secretariaat van het Verdrag periodiek verslagen in met betrekking tot de uitvoering van dit Protocol.
 
@@ -766,7 +788,7 @@ In de gevallen waarin relevante gegevens reeds verzameld zijn als onderdeel van 
 
 ## DEEL VII. INSTITUTIONELE REGELINGEN EN FINANCIËLE MIDDELEN
 
-#### Artikel 33. Vergadering van de partijen
+##### Artikel 33. Vergadering van de partijen
 
 1. Hierbij wordt een Vergadering van de Partijen ingesteld. Het Secretariaat van het Verdrag roept de eerste zitting van de Vergadering van de Partijen bijeen, onmiddellijk voorafgaand aan of onmiddellijk na de eerste gewone zitting van de Conferentie van de Partijen na de inwerkingtreding van dit Protocol.
 
@@ -782,7 +804,7 @@ In de gevallen waarin relevante gegevens reeds verzameld zijn als onderdeel van 
 
 7. Tijdens elke gewone zitting neemt de Vergadering van de Partijen bij consensus een begroting en werkplan aan voor de financiële periode tot de volgende gewone zitting, die los staan van de begroting en het werkplan van het [WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706).
 
-#### Artikel 34. Secretariaat
+##### Artikel 34. Secretariaat
 
 1. Het Secretariaat van het Verdrag fungeert als Secretariaat van dit Protocol.
 
@@ -804,11 +826,11 @@ In de gevallen waarin relevante gegevens reeds verzameld zijn als onderdeel van 
 
 - h. het verrichten van de andere in dit Protocol omschreven of nog door de Vergadering van de Partijen vast te stellen secretariaatstaken en andere taken.
 
-#### Artikel 35. Verhouding tussen de vergadering van de partijen en intergouvernementele organisaties
+##### Artikel 35. Verhouding tussen de vergadering van de partijen en intergouvernementele organisaties
 
 Teneinde de technische en financiële medewerking te kunnen verlenen voor het bereiken van het doel van dit Protocol, kan de Vergadering van de Partijen verzoeken om de medewerking van deskundige internationale en regionale intergouvernementele organisaties, met inbegrip van financiële en ontwikkelingsorganisaties.
 
-#### Artikel 36. Financiële middelen
+##### Artikel 36. Financiële middelen
 
 1. De Partijen erkennen de belangrijke rol van financiële middelen bij het verwezenlijken van het doel van dit Protocol en onderkennen het belang van [artikel 26 van het WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706&artikel=26) bij het verwezenlijken van de doelen van het Verdrag.
 
@@ -832,13 +854,13 @@ Teneinde de technische en financiële medewerking te kunnen verlenen voor het be
 
 ## DEEL VIII. BESLECHTING VAN GESCHILLEN
 
-#### Artikel 37. Beslechting van geschillen
+##### Artikel 37. Beslechting van geschillen
 
 Op de beslechting van geschillen tussen Partijen met betrekking tot de interpretatie of toepassing van dit Protocol is [artikel 27 van het WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706&artikel=27) van toepassing.
 
 ## DEEL IX. ONTWIKKELING VAN HET PROTOCOL
 
-#### Artikel 38. Wijzigingen van dit Protocol
+##### Artikel 38. Wijzigingen van dit Protocol
 
 1. Elke Partij kan wijzigingen van dit Protocol voorstellen.
 
@@ -850,7 +872,7 @@ Op de beslechting van geschillen tussen Partijen met betrekking tot de interpret
 
 5. Een wijziging treedt voor elke andere Partij in werking negentig dagen na de datum waarop die Partij haar akte van aanvaarding betreffende de bedoelde wijziging heeft nedergelegd bij de Depositaris.
 
-#### Artikel 39. Aanneming en wijziging van bijlagen bij dit Protocol
+##### Artikel 39. Aanneming en wijziging van bijlagen bij dit Protocol
 
 1. Elke Partij kan voorstellen doen voor een bijlage bij dit Protocol en kan wijzigingen van bijlagen bij dit Protocol voorstellen.
 
@@ -860,11 +882,11 @@ Op de beslechting van geschillen tussen Partijen met betrekking tot de interpret
 
 ## DEEL X. SLOTBEPALINGEN
 
-#### Artikel 40. Voorbehouden
+##### Artikel 40. Voorbehouden
 
 Bij dit Protocol kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 41. Opzegging
+##### Artikel 41. Opzegging
 
 1. Na het verstrijken van een termijn van twee jaar te rekenen vanaf de datum waarop dit Protocol voor een Partij in werking is getreden, kan die Partij het Protocol opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris.
 
@@ -872,17 +894,17 @@ Bij dit Protocol kan geen enkel voorbehoud worden gemaakt.
 
 3. Een Partij die het [WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706) opzegt, wordt geacht tevens dit Protocol op te zeggen, met ingang van de datum van de opzegging van het WHO-Kaderverdrag inzake tabaksontmoediging.
 
-#### Artikel 42. Stemrecht
+##### Artikel 42. Stemrecht
 
 1. Behoudens het bepaalde in het tweede lid, heeft elke Partij bij dit Protocol één stem.
 
 2. Regionale organisaties voor economische integratie beschikken ter zake van binnen hun bevoegdheid vallende aangelegenheden over een aantal stemmen dat gelijk is aan het aantal van hun lidstaten die Partij zijn bij het Protocol. Bedoelde organisaties oefenen hun stemrecht niet uit indien een van hun lidstaten zijn stemrecht uitoefent, en omgekeerd.
 
-#### Artikel 43. Ondertekening
+##### Artikel 43. Ondertekening
 
 Het Protocol staat van 10 tot en met 11 januari 2013 voor alle Partijen bij het [WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706) open voor ondertekening op het hoofdkantoor van de Wereldgezondheidsorganisatie in Genève en daarna op het hoofdkantoor van de Verenigde Naties in New York tot 9 januari 2014.
 
-#### Artikel 44. Bekrachtiging, aanvaarding, goedkeuring, formele bevestiging of toetreding
+##### Artikel 44. Bekrachtiging, aanvaarding, goedkeuring, formele bevestiging of toetreding
 
 1. Dit Protocol behoeft bekrachtiging, aanvaarding, goedkeuring of toetreding door Staten en formele bevestiging of toetreding door regionale organisaties voor economische integratie die partij zijn bij het [WHO-Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706). Het staat open voor toetreding vanaf de eerste dag na de datum waarop dit Protocol niet langer kan worden ondertekend. De akten van bekrachtiging, aanvaarding, goedkeuring, formele bevestiging of toetreding worden nedergelegd bij de Depositaris.
 
@@ -890,7 +912,7 @@ Het Protocol staat van 10 tot en met 11 januari 2013 voor alle Partijen bij het 
 
 3. Regionale organisaties voor economische integratie verklaren in hun akte met betrekking tot formele bevestiging of in hun akte van toetreding, de reikwijdte van hun bevoegdheid ten aanzien van de in dit Protocol geregelde aangelegenheden. Deze organisaties doen tevens kennisgeving aan de Depositaris, die op zijn beurt de Partijen in kennis stelt, van belangrijke wijzigingen betreffende de omvang van hun bevoegdheid.
 
-#### Artikel 45. Inwerkingtreding
+##### Artikel 45. Inwerkingtreding
 
 1. Dit Protocol treedt in werking negentig dagen na de datum van de nederlegging van de veertigste akte van bekrachtiging, aanvaarding, goedkeuring, formele bevestiging of toetreding bij de Depositaris.
 
@@ -898,10 +920,10 @@ Het Protocol staat van 10 tot en met 11 januari 2013 voor alle Partijen bij het 
 
 3. Voor de toepassing van dit artikel wordt een door een regionale organisatie voor economische integratie nedergelegde akte niet meegeteld naast de door haar lidstaten nedergelegde akten.
 
-#### Artikel 46. Depositaris
+##### Artikel 46. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties is Depositaris van dit Protocol.
 
-#### Artikel 47. Authentieke teksten
+##### Artikel 47. Authentieke teksten
 
 Het oorspronkelijke exemplaar van dit Protocol, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.

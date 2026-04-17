@@ -1,16 +1,41 @@
 ---
 title: "Regeling vervoer gevaarlijke stoffen door de lucht BES"
 identifier: "BWBR0028671"
-categorie: "Milieu"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028671"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028671"
+soort: "ministeriele-regeling-BES"
+stam_id: "10922803"
+version_id: "17906862"
+internal_id: "C24993531"
+label_id: "10897524"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028671/2010-10-10/0"
+intitule_bron: "Stcrt.2010-14848"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14848"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14848"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028671&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028671&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling vervoer gevaarlijke stoffen door de lucht BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -28,7 +53,7 @@ bron: "https://wetten.overheid.nl/BWBR0028671"
 
 2. Op deze regeling zijn voorts van toepassing de begripsbepalingen zoals neergelegd in paragraaf 18.1.1 van de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=A&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de toepassing van deze regeling gelden de bepalingen van Bijlage 18 en de bepalingen opgenomen in de Technische voorschriften alsmede eventuele wijzigingen daarop. Een wijziging van Bijlage 18 treedt in werking vanaf het moment waarop in het Tractatenblad mededeling van deze wijziging is gedaan. Van een wijziging in de Technische Voorschriften wordt mededeling gedaan in de Staatscourant.
 
@@ -44,75 +69,75 @@ bron: "https://wetten.overheid.nl/BWBR0028671"
 
 3. Het vervoer van gevaarlijke stoffen door de lucht vindt plaats met inachtneming van de algemene bepalingen opgenomen in de paragrafen 18.1.2 tot en met 18.1.10 van de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=A&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 3
+##### Artikel 3
 
 Artikelen en stoffen worden in gevarenklassen ingedeeld conform hoofdstuk 18.2 van de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=A&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het vervoer van gevaarlijke stoffen door de lucht is verboden tenzij er sprake is van de gevallen bedoeld in de paragrafen 18.3.1 en 18.3.2 van de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=A&z=2010-10-10&g=2010-10-10).
 
 2. Het is verboden de gevaarlijke stoffen bedoeld in paragraaf 18.3.3 van de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=A&z=2010-10-10&g=2010-10-10) aan boord van een luchtvaartuig te vervoeren.
 
-#### Artikel 5
+##### Artikel 5
 
 Gevaarlijke stoffen worden verpakt overeenkomstig de voorschriften en voldoen aan de vereisten neergelegd in hoofdstuk 18.4 van de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=A&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 6
+##### Artikel 6
 
 Gevaarlijke stoffen worden verpakt en voorzien van etiketten en verpakkingskenmerken overeenkomstig de bepalingen neergelegd in hoofdstuk 18.5 van de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=A&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 7
+##### Artikel 7
 
 Alvorens een zending gevaarlijke stoffen voor vervoer door de lucht wordt aangeboden voldoet de afzender aan de vereisten neergelegd in paragraaf 18.6.1 van de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=A&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 8
+##### Artikel 8
 
 Tenzij hieromtrent in de Technische Voorschriften een uitzonderingsbepaling is opgenomen zal de afzender een ondertekende luchtvrachtbrief, die de informatie en schriftelijke verklaring bedoeld in paragraaf 18.6.2, leden 1 en 2, van de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=A&z=2010-10-10&g=2010-10-10) bevat, overleggen aan de gebruiker van een luchtvaartuig.
 
-#### Artikel 9
+##### Artikel 9
 
 Bij het vervoer van gevaarlijke stoffen door de lucht voldoet de gebruiker van een luchtvaartuig aan de vereisten opgenomen in hoofdstuk 18.7 van de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=A&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 10
+##### Artikel 10
 
 De gebruiker van een luchtvaartuig waarmee gevaarlijke stoffen door de lucht worden vervoerd voorziet, vóór het vertrek van het desbetreffende luchtvaartuig, de gezagvoerder van de schriftelijke informatie bedoeld in paragraaf 18.8.1 van de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=A&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 11
+##### Artikel 11
 
 De gebruiker van een luchtvaartuig voorziet de bemanningsleden van informatie en geeft hen instructies met inachtneming van paragraaf 18.8.2 van de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=A&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 12
+##### Artikel 12
 
 De gebruiker van een luchtvaartuig draagt er zorg voor dat vóór het vertrek van het desbetreffende luchtvaartuig de passagiers worden voorzien van informatie met inachtneming van paragraaf 18.8.3 van de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=A&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 13
+##### Artikel 13
 
 De gebruiker van een luchtvaartuig, afzenders en andere organisaties betrokken bij het vervoer van gevaarlijke stoffen, voorzien hun personeel van informatie en geven hen instructies met inachtneming van paragraaf 18.8.4 van de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=A&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 14
+##### Artikel 14
 
 In geval van een noodtoestand gedurende de vlucht voorziet de gezagvoerder de luchthavenautoriteiten van informatie met inachtneming van paragraaf 18.8.5 van de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=A&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 15
+##### Artikel 15
 
 Voorvallen en ongevallen met gevaarlijke stoffen optredend vóór, tijdens of na de vlucht worden door de gebruiker van een luchtvaartuig gemeld met inachtneming van paragraaf 18.8.6 van de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=A&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 16
+##### Artikel 16
 
 1. De gebruiker van een luchtvaartuig, afzenders en andere organisaties betrokken bij het vervoer van gevaarlijke stoffen dragen er zorg voor dat trainingsprogramma’s over gevaarlijke stoffen worden vastgesteld en bijgewerkt overeenkomstig hoofdstuk 18.9 van de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=A&z=2010-10-10&g=2010-10-10).
 
 2. De programma’s, bedoeld in het eerste lid, worden door de Minister goedgekeurd.
 
-#### Artikel 17
+##### Artikel 17
 
 De gebruiker van een luchtvaartuig, afzender en vrachtafhandelaar verrichten geen werkzaamheden die verband houden met het vervoer van gevaarlijke stoffen door de lucht, tenzij zij in het bezit zijn van een vergunning als bedoeld in [artikel 16, eerste lid, van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=16).
 
-#### Artikel 18
+##### Artikel 18
 
 Een vergunning als bedoeld in [artikel 16, eerste lid, van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=16), kan op aanvraag worden verleend voor een termijn van ten hoogste vijf jaar.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De aanvraag voor verlening van een vergunning als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&artikel=17&z=2010-10-10&g=2010-10-10), wordt ingediend door middel van een daartoe volledig ingevuld en ondertekend formulier, waarvan het model in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=B&z=2010-10-10&g=2010-10-10) is neergelegd en exemplaren bij de Minister verkrijgbaar zijn.
 
@@ -160,15 +185,15 @@ Een vergunning als bedoeld in [artikel 16, eerste lid, van de Luchtvaartwet BES]
 
 7. Indien op de aanvraag afwijzend wordt beslist, wordt zulks bij een met redenen omklede regeling aan de aanvrager medegedeeld.
 
-#### Artikel 21
+##### Artikel 21
 
 De Minister stelt de veiligheidsmaatregelen, bedoeld in hoofdstuk 18.11 van de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028671&bijlage=A&z=2010-10-10&g=2010-10-10) vast.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze regeling wordt aangeduid als: Regeling vervoer gevaarlijke stoffen door de lucht BES.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze regeling berust op artikel 16, tweede lid, van de Luchtvaartwet BES
 

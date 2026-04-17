@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit trekkende bevolking WPO, enz. (decentralisatie van huisvestingsvoorzieningen)"
+title: "Besluit van 24 mei 2000, houdende wijziging van een aantal algemene maatregelen van bestuur op grond van onder meer de Wet op het primair onderwijs in verband met de decentralisatie van de huisvestingsvoorzieningen"
 identifier: "BWBR0011380"
-categorie: "Bestuursrecht"
-publicatiedatum: 2004-12-29
-laatste_update: 2004-12-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011380"
+country: "nl"
+rank: "amvb"
+publication_date: "2004-12-29"
+last_updated: "2004-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011380"
+soort: "AMvB"
+stam_id: "2899003"
+version_id: "4465802"
+internal_id: "C4465801"
+label_id: "2847084"
+dtd_version: "2.0"
+original_entry_into_force: "2000-06-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011380/2004-12-29/0"
+intitule_bron: "Stb.2000-251"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-05-24"
+intitule_published: "2000-06-22"
+intitule_in_force: "2000-06-22"
+intitule_status: "goed"
+original_publication: "Stb.2000-251"
+original_signed_date: "2000-05-24"
+original_published_date: "2000-06-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2000-251"
+entry_into_force_date: "2000-06-23"
+jci_1_3: "jci1.3:c:BWBR0011380&z=2004-12-29&g=2004-12-29"
+jci_1_0: "1.0:c:BWBR0011380&g=2004-12-29"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit Besluit trekkende bevolking WPO, enz. (decentralisatie van huisvestingsvoorzieningen)"
+signed_date: "2000-05-24"
+entry_into_force: "2000-06-23"
 ---
-
 # Besluit van 24 mei 2000, houdende wijziging van een aantal algemene maatregelen van bestuur op grond van onder meer de Wet op het primair onderwijs in verband met de decentralisatie van de huisvestingsvoorzieningen
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, drs. K.Y.I.J. Adelmund, van 16 februari 2000, nr. WJZ/2000/ 49269 (3706), directie Wetgeving en Juridische Zaken;
@@ -20,53 +46,53 @@ Gezien het nader rapport van de Staatssecretaris van Onderwijs, Cultuur en Weten
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I. Wijziging [besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833)
+##### Artikel I. Wijziging [besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833)
 
 Wijzigt het Besluit trekkende bevolking WPO.
 
-#### Artikel II. Wijziging [besluit oude eigendoms- en huurscholen WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0004190)
+##### Artikel II. Wijziging [besluit oude eigendoms- en huurscholen WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0004190)
 
 Wijzigt het Besluit oude eigendoms- en huurscholen WPO.
 
-#### Artikel III. Wijziging [bekostigingsbesluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259)
+##### Artikel III. Wijziging [bekostigingsbesluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259)
 
 Wijzigt het Bekostigingsbesluit WEC.
 
-#### Artikel IV. Wijziging [bekostigingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005672)
+##### Artikel IV. Wijziging [bekostigingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005672)
 
 Wijzigt het Bekostigingsbesluit W.V.O.
 
-#### Artikel V. Intrekking Huisvestingsbesluit WVO/WCBO
+##### Artikel V. Intrekking Huisvestingsbesluit WVO/WCBO
 
 Het Huisvestingsbesluit WVO/WCBO wordt ingetrokken.
 
-#### Artikel VI. Overgangsrecht overdracht gebouwen, terreinen en roerende zaken scholen gehuisvest in een gebouw
+##### Artikel VI. Overgangsrecht overdracht gebouwen, terreinen en roerende zaken scholen gehuisvest in een gebouw
 
 1. Met betrekking tot huisvestingsvoorzieningen die voor 1 januari 1997 zijn gerealiseerd, blijft ten aanzien van scholen gehuisvest in een gebouw [artikel C 21 van het Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=C_21) zoals dat artikel luidde voor die datum van toepassing. Daarbij wordt in voorkomende gevallen in overleg tussen de gemeente en het bevoegd gezag rekening gehouden met de na die inwerkingtreding gerealiseerde huisvestingsvoorzieningen
 
 2. Op huisvestingsvoorzieningen die op of na 1 januari 1997 zijn gerealiseerd met betrekking tot een gebouw of terrein als bedoeld in het eerste lid, is [artikel C 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=C_21) zoals dat artikel luidde na die datum van toepassing. Daarbij wordt in voorkomende gevallen in overleg tussen het Rijk en het bevoegd gezag rekening gehouden met de voor die inwerkingtreding gerealiseerde huisvestingsvoorzieningen.
 
-#### Artikel VII. Overgangsbepaling huisvestingskosten en vergoeding materiële instandhouding scholen gehuisvest in een gebouw
+##### Artikel VII. Overgangsbepaling huisvestingskosten en vergoeding materiële instandhouding scholen gehuisvest in een gebouw
 
 1. Vervallen.
 
 2. In afwijking van [artikel C 16a van het Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=C_16a) zoals gewijzigd bij dit besluit, dient het bevoegd gezag van een school als bedoeld in het eerste lid voor 1 juli 2001 een verklaring van een accountant omtrent de rechtmatigheid van de uitgaven over de jaren 1997 tot en met 2000 in bij de Minister van Onderwijs, Cultuur en Wetenschappen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Vervallen.
 
-#### Artikel IX. Overgangsbepaling huisvestingskosten en uitgaven materiële instandhouding scholen gehuisvest op een vaartuig
+##### Artikel IX. Overgangsbepaling huisvestingskosten en uitgaven materiële instandhouding scholen gehuisvest op een vaartuig
 
 In afwijking van [artikel C 16a van het Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=C_16a) zoals gewijzigd bij dit besluit, dient het bevoegd gezag van een school gehuisvest op een vaartuig voor 1 juli 2001 een verklaring van een accountant omtrent de rechtmatigheid van de uitgaven over de jaren 1999 en 2000 in bij de Minister van Onderwijs, Cultuur en Wetenschappen.
 
-#### Artikel X. Overgangsbepaling afrekening en aanhangige beroepen
+##### Artikel X. Overgangsbepaling afrekening en aanhangige beroepen
 
 1. De voorschriften van het [Bekostigingsbesluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259), van het [Bekostigingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005672), het [Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833) en het [Besluit oude eigendoms- en huurscholen WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0004190) zoals die luidden op de dag voor de inwerkingtreding van de desbetreffende in het onderhavige besluit opgenomen wijzigingsbepalingen blijven van toepassing op de tijdvakken waarvoor zij gelding hadden.
 
 2. Op geschillen die op grond van het [Bekostigingsbesluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259), van het [Bekostigingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005672), het [Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833) en het [Besluit oude eigendoms- en huurscholen WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0004190), zoals luidend op de dag voor de inwerkingtreding van de desbetreffende in het onderhavige besluit opgenomen wijzigingsbepalingen, op die datum in bezwaar of beroep aanhangig zijn of na die datum binnen de bezwaar- of beroepstermijn aanhangig zijn gemaakt, blijven de op die datum geldenderegelingen van toepassing. De eerste volzin is van overeenkomstige toepassing op de bevoegdheid tot het intrekken en vervangen van besluiten die tot de aldaar bedoelde geschillen hebben geleid.
 
-#### Artikel XI. Inwerkingtreding
+##### Artikel XI. Inwerkingtreding
 
 1. Dit besluit treedt met uitzondering van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=I&z=2004-12-29&g=2004-12-29), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=II&z=2004-12-29&g=2004-12-29) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=VI&z=2004-12-29&g=2004-12-29) tot en met [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0011380&artikel=IX&z=2004-12-29&g=2004-12-29) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

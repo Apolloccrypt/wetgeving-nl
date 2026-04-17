@@ -1,13 +1,38 @@
 ---
 title: "Regeling teboekgestelde schepen 1994"
 identifier: "BWBR0027703"
-categorie: "Overig"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027703"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027703"
+soort: "zbo"
+stam_id: "10547123"
+version_id: "18339662"
+internal_id: "C25542681"
+label_id: "10522434"
+dtd_version: "2.0"
+original_entry_into_force: "2004-06-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027703/2025-07-01/0"
+intitule_bron: "Stcrt.1994-81"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-04-14"
+intitule_published: "1994-04-27"
+intitule_in_force: "1994-04-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-128"
+original_signed_date: "2004-06-23"
+original_published_date: "2004-07-08"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2004-128-p21-SC65842"
+entry_into_force_date: "2004-06-23"
+jci_1_3: "jci1.3:c:BWBR0027703&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0027703&g=2025-07-01"
+citeertitel_status: "officieel"
+signed_date: "2004-06-23"
+entry_into_force: "2004-06-23"
 ---
-
 # Regeling teboekgestelde schepen 1994
 
 **14 april 1994/Nr. KAZ15494003**
@@ -22,7 +47,7 @@ Treedt in werking op het tijdstip waarop de Organisatiewet Kadaster in werking t
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -50,7 +75,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. De openbare registers voor schepen
 
-#### Artikel 2
+##### Artikel 2
 
 [Hoofdstuk 2 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&hoofdstuk=2) is van overeenkomstige toepassing op de openbare registers voor schepen, met dien verstande dat:
 
@@ -58,27 +83,27 @@ In deze regeling wordt verstaan onder:
 
 - b. de opbergeenheid waarin afschriften worden opgeborgen van de stukken die in papieren vorm zijn aangeboden, wordt aangeduid met de letters ‘SC’.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien een stuk ter inschrijving wordt aangeboden en niet vereist is dat tevens een afschrift van dit stuk wordt aangeboden, maakt de Dienst een afschrift van dit stuk, dat voldoet aan de [artikelen 11c van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=11c) en [2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&hoofdstuk=2&artikel=2&z=2025-07-01&g=2025-07-01).
 
@@ -86,7 +111,7 @@ Vervallen
 
 ### Hoofdstuk 3. Wijze waarop de registratie voor schepen wordt gehouden en bijgehouden
 
-#### Artikel 9
+##### Artikel 9
 
 1. De registratie voor schepen wordt, onverminderd het tweede tot en met vijfde lid, gehouden in de vorm van geautomatiseerde bestanden, overeenkomstig de desbetreffende technische handleidingen.
 
@@ -98,7 +123,7 @@ Vervallen
 
 5. Ten aanzien van het gebruik van hoofd- en kleine letters en diacritische tekens, en van het al dan niet aan elkaar schrijven van letters behoeft geen overeenstemming te bestaan tussen de bij de Dienst bekend gestelde schrijfwijze der in de registratie voor schepen te vermelden gegevens en de wijze van vermelding van die gegevens daarin. In geval van diacritische tekens wordt in de registratie voor schepen een indicatie opgenomen waaruit van het bestaan van deze tekens blijkt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Omtrent de wijze van bijhouding van de registratie voor schepen zijn de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=37), [38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=38), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=39), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=41), [46 tot en met 49](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=46) en [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=51), en [84 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=84) voor zover mogelijk van overeenkomstige toepassing, met inachtneming van hetgeen in het tweede tot en met vierde lid is bepaald.
 
@@ -117,21 +142,21 @@ Vervallen
 
 6. In geval van een boeking in het register Hypotheken 4D wordt onder verwijzing van het stukidentificatienummer van het stuk waarop de boeking betrekking heeft achter ‘mede-eigenaar’ opgevoerd ‘boeking in register voorlopige aantekening’.
 
-#### Artikel 11
+##### Artikel 11
 
 Terstond na de inschrijving van een verzoek tot teboekstelling worden in de geautomatiseerde registratie voor schepen zoveel mogelijk de in [artikel 85, tweede lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85) bedoelde gegevens opgenomen.
 
-#### Artikel 12
+##### Artikel 12
 
 De in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002976&artikel=18) en [21 van de Wet aansprakelijkheid olietankschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0002976&artikel=21) bedoelde stukken worden voorzien van de datum van ontvangst en het brandmerk.
 
-#### Artikel 13
+##### Artikel 13
 
 Omtrent de bijhouding van de registratie voor schepen met betrekking tot voorlopige aantekeningen en de doorhaling daarvan, is [artikel 93 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=93) van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Teboekstelling en doorhaling van de teboekstelling
 
-#### Artikel 14
+##### Artikel 14
 
 1. In geval van teboekstelling van een schip dat reeds in een register heeft te boek gestaan, wordt in de registratie voor schepen vermeld:
 
@@ -151,7 +176,7 @@ De Nederlandse teboekstelling heeft eerst gevolg nadat de teboekstelling in het 
 
 ‘bewaarder buitenlands register weigert doorhaling teboekstelling’, onder aantekening van het tijdstip en het stukidentificatienummer van het bewijsstuk van de weigering.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Wanneer een schip in een andere rubriek wordt te boek gesteld, wordt in de registratie voor schepen bij de doorhaling der teboekstelling aangetekend:
 
@@ -161,7 +186,7 @@ De Nederlandse teboekstelling heeft eerst gevolg nadat de teboekstelling in het 
 
 3. Staan nog boekingen betreffende rechthebbenden, hypotheken, beslagen of voorrechten open, dan worden deze overgenomen bij de nieuwe teboekstelling.
 
-#### Artikel 16
+##### Artikel 16
 
 1. In geval van doorhaling van de teboekstelling wordt de datum van doorhaling en het nummer van de verklaring waaruit de doorhaling blijkt in de registratie voor schepen opgenomen.
 
@@ -169,7 +194,7 @@ De Nederlandse teboekstelling heeft eerst gevolg nadat de teboekstelling in het 
 
 3. De in [artikel 30, vierde lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=30) bedoelde vermelding wordt geplaatst in de registratie voor schepen bij de desbetreffende teboekstelling.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De in [artikel 31, eerste en vierde lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=31) bedoelde mededeling wordt in de registratie voor schepen bij de desbetreffende teboekstelling vermeld.
 
@@ -177,7 +202,7 @@ De Nederlandse teboekstelling heeft eerst gevolg nadat de teboekstelling in het 
 
 3. Indien besloten wordt om de Nederlandse teboekstelling niet te handhaven, is [artikel 32 van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=32) van toepassing.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Van de in [artikel 6, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=6) bedoelde opgaaf wordt melding gemaakt in de registratie voor schepen.
 
@@ -185,7 +210,7 @@ De Nederlandse teboekstelling heeft eerst gevolg nadat de teboekstelling in het 
 
 3. De vervallen teboekstellingen worden doorgehaald onder verwijzing naar de in [artikel 6, tweede lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=6) bedoelde beslissing.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Indien de bewaarder bemerkt dat een wijziging waarvan aangifte is voorgeschreven, heeft plaatsgehad zonder dat daarvan aangifte is gedaan, houdt hij hiervan aantekening en stelt de voor de aangifte aansprakelijke personen van hun verzuim in kennis. Hij verzoekt hun onder verwijzing naar [artikel 447a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=447a) alsnog binnen een termijn van ten hoogste één maand aan de desbetreffende voorschriften te voldoen. Indien niet of niet behoorlijk aan dit verzoek wordt voldaan, handelt de bewaarder overeenkomstig het tweede lid.
 
@@ -193,7 +218,7 @@ De Nederlandse teboekstelling heeft eerst gevolg nadat de teboekstelling in het 
 
 ### Hoofdstuk 5. Branding
 
-#### Artikel 20
+##### Artikel 20
 
 De registratie voor schepen wordt bijgewerkt met gegevens inzake het brandmerk:
 
@@ -201,7 +226,7 @@ De registratie voor schepen wordt bijgewerkt met gegevens inzake het brandmerk:
 
 - b. ingeval blijkens bericht van de eigenaar een brandmerk is verwijderd.
 
-#### Artikel 20a
+##### Artikel 20a
 
 1. Het branden geschiedt in een vast deel van het schip dat weinig aan beschadiging of slijtage onderhevig is.
 
@@ -221,7 +246,7 @@ De registratie voor schepen wordt bijgewerkt met gegevens inzake het brandmerk:
 
 - e. plaats op het schip waar het brandmerk is aangebracht.
 
-#### Artikel 20b
+##### Artikel 20b
 
 De registratie voor schepen wordt bijgewerkt met gegevens inzake het brandmerk:
 
@@ -233,7 +258,7 @@ alsmede
 
 ### Hoofdstuk 6. Verstrekking van inlichtingen uit de registratie voor schepen en de openbare registers voor schepen
 
-#### Artikel 21
+##### Artikel 21
 
 1. Uit de registratie voor schepen worden de volgende uittreksels verstrekt:
 
@@ -255,7 +280,7 @@ alsmede
 
 8. Een verklaring van niet voltooiing van de bouw van een schip bevat de omschrijving en het brandmerk van het schip in aanbouw, alsmede de verklaring dat de bouw ervan nog niet is voltooid.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De Dienst verstrekt op verzoek afschriften of uittreksels betreffende de in de registratie voor schepen te boek gestelde stukken, dan wel getuigschriften omtrent het al dan niet bestaan van inschrijvingen betreffende schepen, als bedoeld in [artikel 99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=99). De [artikelen 119](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=119) en [126 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=126) zijn van overeenkomstige toepassing.
 
@@ -265,13 +290,13 @@ alsmede
 
 4. De bewaarder waarmerkt afschriften, uittreksels en getuigschriften in elektronische vorm door hieraan een afzonderlijk bestand toe te voegen, waarin zijn opgenomen zijn naam, de naam van het kantoor van de Dienst, de datum van afgifte en de verklaring dat de gegevens overeenstemmen met de bij de Dienst berustende gegevens.
 
-#### Artikel 23
+##### Artikel 23
 
 De raadpleging van de kadastrale registratie voor schepen geschiedt door het verlenen van inzage aan de kantoren van de Dienst die voor het publiek zijn opengesteld, via het in paragraaf 3.6 van de technische handleiding genoemde internetadres of door middel van een permanente aansluiting op de geautomatiseerde kadastrale registratie en door het verstrekken van inlichtingen, door middel van de telefoon of telefax.
 
 ### Hoofdstuk 7. Overige en slotbepalingen
 
-#### Artikel 24
+##### Artikel 24
 
 1. Omtrent de kennisgeving, bedoeld in [artikel 89, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=89), juncto [artikel 59, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=59), is [artikel 109, vierde lid, van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=109) van overeenkomstige toepassing.
 
@@ -281,11 +306,11 @@ De raadpleging van de kadastrale registratie voor schepen geschiedt door het ver
 
 4. [Artikel 111 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=111) van overeenkomstige toepassing op de beslissing van de ambtenaar op het bezwaarschrift waarbij bezwaar is gemaakt tegen de beslissing, bedoeld in de [artikelen 89, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=89), juncto [artikel 59, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=59) en op diens beslissing op bezwaarschriften als bedoeld in [artikel 87b](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=87b) juncto [artikel 56c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=56c) tegen beschikkingen inzake de bijhouding, alsmede op de brief waarbij die beslissingen van de ambtenaar aan belanghebbenden wordt toegezonden.
 
-#### Artikel 25
+##### Artikel 25
 
 De in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=36) juncto [artikel 35, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=35) bedoelde aangifte heeft de vorm van het model dat als [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&bijlage=9&z=2025-07-01&g=2025-07-01) bij deze regeling is gevoegd.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Omtrent de kennisgeving van het herstel van een kennelijke misslag begaan bij de bijwerking van de registratie voor schepen, bedoeld in [artikel 113, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=113), is [artikel 146, eerste lid, van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=146) van overeenkomstige toepassing.
 
@@ -293,11 +318,11 @@ De in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=36) j
 
 3. [Artikel 111 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=111) is van overeenkomstige toepassing op de vorm van de beslissing van de ambtenaar op bezwaarschriften, waarbij bezwaar is gemaakt tegen de beslissing op een zodanig verzoek dan wel tegen de beslissing tot een ambtshalve herstel van een kennelijke misslag, alsmede op de brief waarbij de desbetrefffende beslissing aan de belanghebbende wordt bekendgemaakt. Het in artikel 111, tweede lid, van de Kadasterregeling 1994 bedoelde model voor de in de vorige zin bedoelde brief wordt aangepast naar de omstandigheden.
 
-#### Artikel 27
+##### Artikel 27
 
 Omtrent de wijze waarop de in [artikel 116 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=116) bedoelde vergissingen, verzuimen, kennelijk misslagen en andere onregelmatigheden omtrent de openbare registers voor schepen en de registratie voor schepen worden hersteld, zijn de [artikelen 147](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=147) en [148 van de Kadasterregeling 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0027695&artikel=148) van overeenkomstige toepassing.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Deze regeling treedt in werking met ingang van de dag waarop de [Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463) in werking treedt.
 
@@ -349,7 +374,7 @@ Niet opgenomen.
 
 Niet opgenomen.
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. Een eigenaar van een zeeschip overlegt bij een aanvraag als bedoeld in [artikel 15, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=15) de volgende bewijsstukken en gegevens:
 
@@ -369,7 +394,7 @@ Niet opgenomen.
 
 3. Indien de eigenaar een natuurlijk persoon is, wordt in afwijking van het eerste lid, onderdelen a en b, een opgave van een notaris omtrent de naam, het adres en de nationaliteit van de eigenaar overgelegd.
 
-#### Artikel 13b
+##### Artikel 13b
 
 Een eigenaar die tevens kapitein is van een zeeschip dat wordt gebruikt voor de uitoefening voor een beroep of bedrijf, overlegt bij een aanvraag als bedoeld in [artikel 15, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=15) de volgende bewijsstukken en gegevens:
 
@@ -379,7 +404,7 @@ Een eigenaar die tevens kapitein is van een zeeschip dat wordt gebruikt voor de 
 
 - c. een verklaring van de eigenaar waaruit blijkt dat er bij voortduring een vertegenwoordiger van hem in Nederland bereikbaar is, die beschikt over de bevoegdheden, om onverwijld te kunnen handelen in situaties waarin dat geboden is.
 
-#### Artikel 13c
+##### Artikel 13c
 
 1. Indien toepassing wordt gegeven aan [artikel 194a, derde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194a) en de eigenaar de verantwoordelijkheid voor het beheer van zijn schip overdraagt aan een vennootschap, legt de eigenaar bij een aanvraag als bedoeld in [artikel 15, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=15) de volgende bewijsstukken en gegevens over:
 
@@ -407,7 +432,7 @@ Een eigenaar die tevens kapitein is van een zeeschip dat wordt gebruikt voor de 
 
 4. Indien de vennootschap, bedoeld in het eerste lid, een niet rechtspersoonlijkheid bezittende vennootschap of rederij is, legt de eigenaar in afwijking van het eerste lid, onderdeel d, een afschrift van de akte van het aangaan van de vennootschap of rederij over. In afwijking van het eerste lid, onderdeel e, wordt een opgave van de notaris betreffende de namen en adressen van de hoofdelijk aansprakelijke vennoten of leden van de rederij overgelegd.
 
-#### Artikel 13d
+##### Artikel 13d
 
 1. Een eigenaar die van een zeeschip dat uitsluitend anders dan in de uitoefening van een beroep of bedrijf, de teboekstelling wenst te verkrijgen, overlegt bij een aanvraag als bedoeld in [artikel 15, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=15) de volgende bewijsstukken en gegevens:
 
@@ -421,7 +446,7 @@ Een eigenaar die tevens kapitein is van een zeeschip dat wordt gebruikt voor de 
 
 3. Indien de eigenaar een natuurlijke persoon is, wordt in afwijking van het eerste lid, onderdelen a en b, een opgave van de naam, de bijbehorende contactgegevens waarop hij bereikbaar is en de nationaliteit van de eigenaar overgelegd.
 
-#### Artikel 13e
+##### Artikel 13e
 
 1. Bij een aanvraag als bedoeld in [artikel 15, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=15) wordt in aanvulling op de [artikelen 13a tot en met 13d](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&hoofdstuk=4&artikel=13a&z=2025-07-01&g=2025-07-01) de volgende bewijsstukken en gegevens ten aanzien van het desbetreffende zeeschip overgelegd:
 
@@ -431,7 +456,7 @@ Een eigenaar die tevens kapitein is van een zeeschip dat wordt gebruikt voor de 
 
 2. Bewijsstukken en gegevens als bedoeld in de [artikelen 13a tot en met 13d](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&hoofdstuk=4&artikel=13a&z=2025-07-01&g=2025-07-01) mogen niet ouder zijn dan vier weken.
 
-#### Artikel 13f
+##### Artikel 13f
 
 Indien een aanvraag als bedoeld in [artikel 37, eerste lid, van de M.t.s.](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=37) wordt ingediend door de verkrijger, zijn de [artikelen 13a tot en met 13e](https://wetten.overheid.nl/jci1.3:c:BWBR0027703&hoofdstuk=4&artikel=13a&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing ten aanzien van de te overleggen bewijsstukken en gegevens, met dien verstande dat voor ‘eigenaar’ steeds ‘verkrijger’ wordt gelezen.
 
@@ -441,7 +466,7 @@ Indien een aanvraag als bedoeld in [artikel 37, eerste lid, van de M.t.s.](https
 
 ### Hoofdstuk 7. Overige en slotbepalingen
 
-#### Artikel 27a
+##### Artikel 27a
 
 Deze regeling is mede gebaseerd op [artikel 15, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=15), en [37, zevende lid, van de M.t.s](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=37).
 

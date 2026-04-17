@@ -1,13 +1,35 @@
 ---
 title: "Protocol van 1992 tot wijziging van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969"
 identifier: "BWBV0003263"
-categorie: "Internationaal recht"
-publicatiedatum: 2003-11-01
-laatste_update: 2003-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003263"
+country: "nl"
+rank: "verdrag"
+publication_date: "2003-11-01"
+last_updated: "2003-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003263"
+soort: "verdrag"
+stam_id: "10003445313"
+version_id: "10003491662"
+internal_id: "C10006978991"
+label_id: "10003431484"
+dtd_version: "2.0"
+original_entry_into_force: "1997-11-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003263/2003-11-01/0"
+intitule_bron: "Trb.1994-229"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1994-11-04"
+intitule_in_force: "1997-01-06"
+intitule_status: "goed"
+original_publication: "Trb.1994-229"
+original_published_date: "1994-11-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-229"
+entry_into_force_date: "1997-11-15"
+jci_1_3: "jci1.3:c:BWBV0003263&z=2003-11-01&g=2003-11-01"
+jci_1_0: "1.0:c:BWBV0003263&g=2003-11-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1997-11-15"
 ---
-
 # Protocol van 1992 tot wijziging van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969
 
 De Partijen bij dit Protocol,
@@ -24,47 +46,47 @@ Erkennend dat er bijzondere bepalingen nodig zijn in verband met de invoering va
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Verdrag dat door de bepalingen van dit Protocol wordt gewijzigd is het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969, hierna te noemen het „Aansprakelijkheidsverdrag, 1969”. Ten aanzien van Staten die Partij zijn bij het Protocol van 1976 bij het Aansprakelijkheidsverdrag, 1969, wordt hiermee bedoeld het Aansprakelijkheidsverdrag, 1969, zoals gewijzigd bij dat Protocol.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het Aansprakelijkheidsverdrag, 1969, en dit Protocol worden, wat de Partijen bij dit Protocol betreft, gelezen en uitgelegd als één enkel document.
 
@@ -72,7 +94,7 @@ Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor s
 
 ### SLOTBEPALINGEN
 
-#### Artikel 12. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 12. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Protocol staat open voor ondertekening te Londen van 15 januari 1993 tot en met 14 januari 1994 door alle Staten.
 
@@ -90,7 +112,7 @@ Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor s
 
 6. Akten van bekrachtiging, aanvaarding, goedkeuring of toetreding die zijn nedergelegd nadat een wijziging van het Aansprakelijkheidsverdrag, 1969, zoals gewijzigd bij dit Protocol, in werking is getreden, worden geacht van toepassing te zijn op het aldus gewijzigde Verdrag, zoals gewijzigd door bedoelde wijziging.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 1. Dit Protocol treedt in werking twaalf maanden na de datum waarop tien Staten, waaronder vier Staten met elk niet minder dan een miljoen brutotonnage van tankschepen, akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd bij de Secretaris-Generaal van de Organisatie.
 
@@ -100,13 +122,13 @@ Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor s
 
 4. Ten aanzien van elke Staat die dit Protocol bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt nadat aan de in het eerste lid gestelde eisen voor inwerkingtreding is voldaan, treedt dit Protocol in werking twaalf maanden na de datum van nederlegging door die Staat van de daartoe strekkende akte.
 
-#### Artikel 14. Herziening en wijziging
+##### Artikel 14. Herziening en wijziging
 
 1. De Organisatie kan een conferentie tot herziening of wijziging van het [Aansprakelijkheidsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004147), bijeenroepen.
 
 2. De Organisatie roept een conferentie van de Verdragsluitende Staten bijeen tot herziening of wijziging van het [Aansprakelijkheidsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004147), op verzoek van ten minste een derde van de Verdragsluitende Staten.
 
-#### Artikel 15. Wijzigingen van de beperkingsbedragen
+##### Artikel 15. Wijzigingen van de beperkingsbedragen
 
 1. Op verzoek van ten minste een vierde van de Verdragsluitende Staten worden voorstellen tot wijziging van de aansprakelijkheidsgrenzen, neergelegd in artikel V, eerste lid, van het Verdrag, zoals gewijzigd bij dit Protocol, door de Secretaris-Generaal toegezonden aan alle Leden van de Organisatie en aan alle Verdragsluitende Staten.
 
@@ -132,7 +154,7 @@ Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor s
 
 10. Wanneer een wijziging door de Juridische Commissie is aangenomen, maar het tijdvak van achttien maanden voor de aanvaarding ervan nog niet is verstreken, is een Staat die gedurende dat tijdvak Verdragsluitende Staat wordt, door de wijziging gebonden indien deze in werking treedt. Een Staat die na dat tijdvak Verdragsluitende Staat wordt, is gebonden door een wijziging die overeenkomstig het zevende lid is aanvaard. In de gevallen bedoeld in dit lid wordt een Staat gebonden door een wijziging wanneer deze wijziging in werking treedt, of wanneer dit Protocol voor die Staat in werking treedt, indien deze datum later valt.
 
-#### Artikel 16. Opzegging
+##### Artikel 16. Opzegging
 
 1. Een Partij kan dit Protocol, na de datum waarop het voor die Partij in werking is getreden, te allen tijde opzeggen.
 
@@ -144,7 +166,7 @@ Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor s
 
 5. Opzegging van het [Protocol van 1992 tot wijziging van het Fondsverdrag, 1971](https://wetten.overheid.nl/jci1.3:c:BWBV0003259), door een Staat die Partij blijft bij het Fondsverdrag, 1971, wordt geacht een opzegging te zijn van dit Protocol. Die opzegging wordt van kracht op de datum waarop de opzegging van het Protocol van 1992 tot wijziging van het Fondsverdrag, 1971, van kracht wordt overeenkomstig [artikel 34 van dat Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003259&artikel=34).
 
-#### Artikel 17. Depositaris
+##### Artikel 17. Depositaris
 
 1. Dit Protocol en alle ingevolge artikel 15 aanvaarde wijzigingen worden nedergelegd bij de Secretaris-Generaal van de Organisatie.
 
@@ -174,7 +196,7 @@ Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor s
 
 3. Zodra dit Protocol in werking treedt, wordt de tekst door de Secretaris-Generaal van de Organisatie toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publikatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 18. Talen
+##### Artikel 18. Talen
 
 Dit Protocol is opgesteld in een enkel oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 

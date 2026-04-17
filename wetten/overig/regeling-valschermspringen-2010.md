@@ -1,20 +1,46 @@
 ---
-title: "Regeling valschermspringen 2010"
+title: "Regeling van de Minister van Verkeer en Waterstaat en de Minister van Defensie houdende regels omtrent de deelname van valschermen aan het luchtverkeer (Regeling valschermspringen 2010)"
 identifier: "BWBR0027968"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027968"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027968"
+soort: "ministeriele-regeling"
+stam_id: "10622413"
+version_id: "22763082"
+internal_id: "C32907591"
+label_id: "10597274"
+dtd_version: "2.0"
+original_entry_into_force: "2015-11-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027968/2024-01-01/0"
+intitule_bron: "Stcrt.2010-11733"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-07-16"
+intitule_published: "2010-07-26"
+intitule_in_force: "2010-07-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-37711"
+original_signed_date: "2015-10-21"
+original_published_date: "2015-11-06"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2015-37711"
+entry_into_force_date: "2015-11-07"
+jci_1_3: "jci1.3:c:BWBR0027968&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0027968&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling valschermspringen 2010"
+signed_date: "2015-10-21"
+entry_into_force: "2015-11-07"
 ---
-
 # Regeling van de Minister van Verkeer en Waterstaat en de Minister van Defensie houdende regels omtrent de deelname van valschermen aan het luchtverkeer (Regeling valschermspringen 2010)
 
 Gelet op de [artikelen 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1a), [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=3), en [44, vierde lid, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=44);
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -36,11 +62,11 @@ In deze regeling wordt verstaan onder:
 
 **vast valschermspringgebied**: valschermspringgebied opgenomen in de lijst van valschermspringgebieden, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&bijlage=1&z=2024-01-01&g=2024-01-01) bij deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling is niet van toepassing op valschermspringen door de krijgsmacht.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Valschermspringen is uitsluitend toegestaan:
 
@@ -54,7 +80,7 @@ Deze regeling is niet van toepassing op valschermspringen door de krijgsmacht.
 
 2. De Minister van Infrastructuur en Milieu kan ontheffing verlenen van het eerste lid, onderdeel c. Aan de ontheffing kunnen voorschriften en beperkingen worden verbonden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor het gebruik van een vast valschermspringgebied of een incidenteel valschermspringgebied gelden de volgende voorwaarden voor het luchtvaartuig waaruit gesprongen wordt:
 
@@ -78,7 +104,7 @@ Deze regeling is niet van toepassing op valschermspringen door de krijgsmacht.
 
 2. Het eerste lid, onderdelen c en d, zijn niet van toepassing indien de betrokken luchtverkeersleidingsdienst anders bepaalt in het belang van de algemene luchtverkeersveiligheid, een veilig, ordelijk en vlot verloop van het luchtverkeer, of de situatie op de grond.
 
-#### Artikel 5
+##### Artikel 5
 
 In aanvulling op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=4&z=2024-01-01&g=2024-01-01) gelden voor het gebruik van een incidenteel valschermspringgebied de volgende voorwaarden:
 
@@ -102,7 +128,7 @@ In aanvulling op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&art
 
 - 2°. buiten de in gebruik zijnde Standard Instrument Departures.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Als gebieden met beperkingen worden aangewezen de klimgebieden van de vaste valschermspringgebieden die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&bijlage=1&z=2024-01-01&g=2024-01-01) behorende bij deze regeling. Deze gebieden gelden als gebieden met beperkingen, gedurende de in bijlage 1 gespecificeerde tijdstippen en voor zover die gebieden in gebruik zijn als klimgebied door een luchtvaartuig ten behoeve van valschermspringen.
 
@@ -130,15 +156,15 @@ In aanvulling op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&art
 
 - 3°. wordt gedurende 3 minuten de op dat moment gevlogen hoogte gehandhaafd, waarna wordt teruggekeerd naar het luchtvaartterrein van vertrek.
 
-#### Artikel 7
+##### Artikel 7
 
 De [Regeling valschermspringen](https://wetten.overheid.nl/jci1.3:c:BWBR0006346) wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van 9 september 2010.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling valschermspringen 2010.
 
@@ -148,11 +174,11 @@ Deze regeling wordt aangehaald als: Regeling valschermspringen 2010.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust op de [artikelen 5.10, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.10) en [12 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=12).
 
-#### Artikel 1b
+##### Artikel 1b
 
 1. Het valscherm verleent voorrang aan vliegtuigen, helikopters, zweeftoestellen, vrije ballonen en luchtschepen.
 

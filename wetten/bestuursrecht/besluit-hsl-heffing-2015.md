@@ -1,13 +1,39 @@
 ---
-title: "Besluit HSL-heffing 2015"
+title: "Besluit van 3 maart 2015, houdende aanwijzing hogesnelheidsnet en vaststelling van regels voor HSL-heffing 2015 (Besluit HSL-heffing 2015)"
 identifier: "BWBR0036412"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-03-18
-laatste_update: 2015-03-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036412"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-03-18"
+last_updated: "2015-03-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036412"
+soort: "AMvB"
+stam_id: "13010833"
+version_id: "22231922"
+internal_id: "C31875951"
+label_id: "12979644"
+dtd_version: "2.0"
+original_entry_into_force: "2015-03-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036412/2015-03-18/0"
+intitule_bron: "Stb.2015-104"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-03-03"
+intitule_published: "2015-03-17"
+intitule_in_force: "2015-03-17"
+intitule_status: "goed"
+original_publication: "Stb.2015-104"
+original_signed_date: "2015-03-03"
+original_published_date: "2015-03-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2015-104"
+entry_into_force_date: "2015-03-18"
+jci_1_3: "jci1.3:c:BWBR0036412&z=2015-03-18&g=2015-03-18"
+jci_1_0: "1.0:c:BWBR0036412&g=2015-03-18"
+citeertitel_status: "officieel"
+short_title: "Besluit HSL-heffing 2015"
+signed_date: "2015-03-03"
+entry_into_force: "2015-03-18"
 ---
-
 # Besluit van 3 maart 2015, houdende aanwijzing hogesnelheidsnet en vaststelling van regels voor HSL-heffing 2015 (Besluit HSL-heffing 2015)
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu van 24 november 2014, nr. IenM/BSK-2014/248736, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Infrastructuur en Milieu va
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - **pad:** pad als bedoeld in [artikel 1, onder c, van het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&artikel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 Als hoofdspoorweginfrastructuur in de zin van [artikel 62, tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=62) wordt aangewezen de volgende hogesnelheidslijnen, die zijn uitgerust voor snelheden van gewoonlijk ten minste 250 km per uur:
 
@@ -42,7 +68,7 @@ Als hoofdspoorweginfrastructuur in de zin van [artikel 62, tweede lid, van de Sp
 
 - b. Barendrecht – Belgische grens.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De gerechtigde en de beheerder komen een HSL-heffing overeen gelijk aan het tarief per HSL-kilometer, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036412&artikel=4&z=2015-03-18&g=2015-03-18), vermenigvuldigd met het aantal HSL-kilometers van de gerechtigde. Daarvan blijven buiten beschouwing de HSL-kilometers die zijn toe te rekenen aan:
 
@@ -72,7 +98,7 @@ Als hoofdspoorweginfrastructuur in de zin van [artikel 62, tweede lid, van de Sp
 
 - d. de verspreiding van reisinformatie over de treindiensten, bedoeld in onderdeel a, zoals in rekening gebracht door de partij die met het verzorgen daarvan is belast.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het tarief per HSL-kilometer is in elk kalenderjaar gelijk aan de bedragen, bedoeld in het tweede lid, gedeeld door het totaal aantal HSL-kilometers van alle gerechtigden in dat kalenderjaar.
 
@@ -100,19 +126,19 @@ Als hoofdspoorweginfrastructuur in de zin van [artikel 62, tweede lid, van de Sp
 
 3. De in het tweede lid genoemde bedragen zijn uitgedrukt in het prijspeil van 2010 en worden ieder opvolgend kalenderjaar gewijzigd volgens de prijsindex voor de gezinsconsumptie van het Centraal Bureau voor de Statistiek.
 
-#### Artikel 5
+##### Artikel 5
 
 De gerechtigde is de HSL-heffing, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036412&artikel=3&z=2015-03-18&g=2015-03-18), verschuldigd per 1 februari na afloop van het kalenderjaar waarop de HSL-heffing betrekking heeft op basis van een door de beheerder na afloop van dat kalenderjaar te maken prognose. Zodra de HSL-heffing definitief vaststaat, wordt het te veel of te weinig betaalde verrekend.
 
-#### Artikel 6
+##### Artikel 6
 
 Het [Besluit HSL-heffing](https://wetten.overheid.nl/jci1.3:c:BWBR0025849) wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2015.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit HSL-heffing 2015.
 

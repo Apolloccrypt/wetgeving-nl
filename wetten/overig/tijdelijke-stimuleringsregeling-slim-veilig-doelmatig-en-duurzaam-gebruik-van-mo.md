@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke stimuleringsregeling slim, veilig, doelmatig en duurzaam gebruik van mobiliteitsinfrastructuur 2023–2027"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 16 november 2023, nr. IENW/BSK-2023/60021, houdende regels voor toekenning van specifieke uitkeringen in verband met specifieke afspraken voor slim, veilig, doelmatig en duurzaam gebruik van infrastructuur (Tijdelijke stimuleringsregeling slim, veilig, doelmatig en duurzaam gebruik van mobiliteitsinfrastructuur 2023–2027)"
 identifier: "BWBR0048944"
-categorie: "Overig"
-publicatiedatum: 2023-11-25
-laatste_update: 2023-11-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048944"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-11-25"
+last_updated: "2023-11-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048944"
+soort: "ministeriele-regeling"
+stam_id: "16931913"
+version_id: "29758552"
+internal_id: "C42649781"
+label_id: "16843454"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048944/2023-11-25/0"
+intitule_bron: "Stcrt.2023-30954"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-16"
+intitule_published: "2023-11-24"
+intitule_in_force: "2023-11-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-30954"
+original_signed_date: "2023-11-16"
+original_published_date: "2023-11-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-30954"
+entry_into_force_date: "2023-11-25"
+jci_1_3: "jci1.3:c:BWBR0048944&z=2023-11-25&g=2023-11-25"
+jci_1_0: "1.0:c:BWBR0048944&g=2023-11-25"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke stimuleringsregeling slim, veilig, doelmatig en duurzaam gebruik van mobiliteitsinfrastructuur 2023–2027"
+signed_date: "2023-11-16"
+entry_into_force: "2023-11-25"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 16 november 2023, nr. IENW/BSK-2023/60021, houdende regels voor toekenning van specifieke uitkeringen in verband met specifieke afspraken voor slim, veilig, doelmatig en duurzaam gebruik van infrastructuur (Tijdelijke stimuleringsregeling slim, veilig, doelmatig en duurzaam gebruik van mobiliteitsinfrastructuur 2023–2027)
 
 Gelet op [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), juncto [artikel 3, eerste lid, aanhef en onderdelen a, b, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), en [artikel 5, aanhef en onderdelen a tot en met f, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -32,11 +58,11 @@ In deze regeling wordt verstaan onder:
 
 - **specifieke uitkering:** uitkering als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048944&artikel=3&z=2023-11-25&g=2023-11-25).
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling heeft tot doel het stimuleren van het nemen van maatregelen die slimmer, veiliger, doelmatiger en duurzamer gebruik van mobiliteitsinfrastructuur beogen te bevorderen.
 
-#### Artikel 3. Activiteiten waarvoor een specifieke uitkering kan worden verstrekt
+##### Artikel 3. Activiteiten waarvoor een specifieke uitkering kan worden verstrekt
 
 1. Met het oog op het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048944&artikel=2&z=2023-11-25&g=2023-11-25) genoemde doel kan de minister op aanvraag een specifieke uitkering verstrekken voor:
 
@@ -68,7 +94,7 @@ Deze regeling heeft tot doel het stimuleren van het nemen van maatregelen die sl
 
 - c. ze komen niet in aanmerking voor een specifieke uitkering op grond van de [Regeling specifieke uitkeringen lokale en regionale MIRT-projecten en MIRT-projectpakketten](https://wetten.overheid.nl/jci1.3:c:BWBR0046418).
 
-#### Artikel 4. Kosten die in aanmerking komen voor een specifieke uitkering
+##### Artikel 4. Kosten die in aanmerking komen voor een specifieke uitkering
 
 1. Voor een specifieke uitkering komen in aanmerking:
 
@@ -84,7 +110,7 @@ tot een maximum bedrag dat is vastgesteld in de afsprakenlijst van het betreffen
 
 2. Kosten die voor de inwerkingtreding van deze regeling zijn gemaakt en deel uit maken van een maatregel of maatregelenpakket waarover in een Bestuurlijk Overleg dat heeft plaatsgevonden in 2022 of 2023 afspraken zijn gemaakt kunnen voor een specifieke uitkering in aanmerking komen.
 
-#### Artikel 5. Kosten die niet in aanmerking komen voor een specifieke uitkering
+##### Artikel 5. Kosten die niet in aanmerking komen voor een specifieke uitkering
 
 Voor een specifieke uitkering komen niet in aanmerking:
 
@@ -94,7 +120,7 @@ Voor een specifieke uitkering komen niet in aanmerking:
 
 - c. kosten die zijn gemaakt vóór een Bestuurlijk Overleg tijdens welke de betreffende afspraak is gemaakt, tenzij in het Bestuurlijk Overleg is afgesproken dat deze kosten wel in aanmerking voor een specifieke uitkering komen.
 
-#### Artikel 6. Uitkeringsplafond en wijze van verdelen
+##### Artikel 6. Uitkeringsplafond en wijze van verdelen
 
 1. De minister stelt per kalenderjaar een uitkeringsplafond vast.
 
@@ -102,17 +128,17 @@ Voor een specifieke uitkering komen niet in aanmerking:
 
 3. In afwijking van het eerste lid stelt de minister een uitkeringsplafond vast voor de periode vanaf inwerkingtreding van deze regeling tot en met 31 december 2024.
 
-#### Artikel 7. Hoogte specifieke uitkering
+##### Artikel 7. Hoogte specifieke uitkering
 
 1. De hoogte van de specifieke uitkering die voor de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048944&artikel=3&z=2023-11-25&g=2023-11-25), beschikbaar is, wordt vastgesteld overeenkomstig de afspraken die hierover zijn gemaakt in het kader van een Bestuurlijk Overleg.
 
 2. Een specifieke uitkering bedraagt niet meer dan het overeenkomstig het eerste lid vastgestelde bedrag verminderd met de omzetbelasting over de kosten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048944&artikel=4&z=2023-11-25&g=2023-11-25), die in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
 
-#### Artikel 8. Begrotingsvoorbehoud
+##### Artikel 8. Begrotingsvoorbehoud
 
 Specifieke uitkeringen die worden verleend ten laste van een begroting die nog niet is vastgesteld, worden verleend onder de voorwaarde, bedoeld in [artikel 4:34 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
-#### Artikel 9. Aanvraag tot verlening specifieke uitkering
+##### Artikel 9. Aanvraag tot verlening specifieke uitkering
 
 1. Een aanvraag tot verlening van een specifieke uitkering kan worden ingediend door een gemeente, een provincie, de Vervoerregio Amsterdam of Metropoolregio Rotterdam Den Haag waarmee afspraken zijn gemaakt in het kader van een Bestuurlijk Overleg over de financiering van maatregelen of maatregelpakketten met betrekking tot activiteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048944&artikel=3&z=2023-11-25&g=2023-11-25).
 
@@ -140,7 +166,7 @@ Specifieke uitkeringen die worden verleend ten laste van een begroting die nog n
 
 5. In afwijking van het tweede lid wordt een aanvraag tot verlening van een specifieke uitkering die voortvloeit uit afspraken die zijn gemaakt in het kader van het Bestuurlijk Overleg dat heeft plaatsgevonden in 2022 of 2023 uiterlijk twaalf weken na de publicatie van deze regeling in de Staatscourant ingediend.
 
-#### Artikel 10. Afwijzingsgronden
+##### Artikel 10. Afwijzingsgronden
 
 De minister beslist afwijzend op een aanvraag tot verlening van een specifieke uitkering indien:
 
@@ -152,7 +178,7 @@ De minister beslist afwijzend op een aanvraag tot verlening van een specifieke u
 
 - d. het bedrag waarvoor de specifieke uitkering wordt aangevraagd niet aannemelijk of redelijk is.
 
-#### Artikel 11. Verlening specifieke uitkering
+##### Artikel 11. Verlening specifieke uitkering
 
 1. Op de aanvraag tot verlening van een specifieke uitkering beslist de minister binnen dertien weken na ontvangst.
 
@@ -172,13 +198,13 @@ De minister beslist afwijzend op een aanvraag tot verlening van een specifieke u
 
 5. Het bedrag van de specifieke uitkering, genoemd in het derde lid, onderdeel b, wordt niet geïndexeerd, tenzij dat in de beschikking tot verlening is vastgelegd.
 
-#### Artikel 12. Voorschotverlening
+##### Artikel 12. Voorschotverlening
 
 1. De minister kan bij een beschikking tot verlening van een specifieke uitkering besluiten tot het verstrekken van een voorschot.
 
 2. De hoogte van het voorschot, de termijnen waarin het wordt uitbetaald en het tijdstip van uitbetaling worden in de beschikking bepaald.
 
-#### Artikel 13. Verplichtingen ontvanger
+##### Artikel 13. Verplichtingen ontvanger
 
 1. De ontvanger besteedt de specifieke uitkering uitsluitend aan de activiteiten waarvoor de specifieke uitkering wordt verleend.
 
@@ -190,23 +216,23 @@ De minister beslist afwijzend op een aanvraag tot verlening van een specifieke u
 
 5. Bij een beschikking tot verlening van een specifieke uitkering kan de minister nadere verplichtingen opleggen die strekken tot verwezenlijking van het doel van de specifieke uitkering.
 
-#### Artikel 14. Verantwoording
+##### Artikel 14. Verantwoording
 
 Verantwoording over de besteding van een specifieke uitkering vindt plaats op de wijze die is bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-#### Artikel 15. Vaststelling specifieke uitkering
+##### Artikel 15. Vaststelling specifieke uitkering
 
 De minister stelt de specifieke uitkering vast uiterlijk op 31 december van het jaar waarin de activiteiten waarvoor de uitkering is verleend, volledig zijn uitgevoerd, de laatste verantwoording, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0048944&artikel=14&z=2023-11-25&g=2023-11-25), heeft plaatsgevonden en volledig is voldaan aan de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048944&artikel=13&z=2023-11-25&g=2023-11-25).
 
-#### Artikel 16. Terugvordering
+##### Artikel 16. Terugvordering
 
 De minister kan onverschuldigd betaalde uitkeringsbedragen of voorschotten terugvorderen voor zover na de dag waarop de beschikking waarin de uitkering is vastgesteld is bekendgemaakt nog geen vijf jaren zijn verstreken.
 
-#### Artikel 17. Evaluatie
+##### Artikel 17. Evaluatie
 
 De minister publiceert voor 31 december 2028 een verslag over de doeltreffendheid en de effecten van de specifieke uitkering in de praktijk.
 
-#### Artikel 18. Inwerkingtreding en vervaldatum
+##### Artikel 18. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
@@ -216,7 +242,7 @@ De minister publiceert voor 31 december 2028 een verslag over de doeltreffendhei
 
 - b. de verplichting tot publicatie van een verslag als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0048944&artikel=17&z=2023-11-25&g=2023-11-25) totdat aan die verplichting is voldaan.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke stimuleringsregeling slim, veilig, doelmatig en duurzaam gebruik van mobiliteitsinfrastructuur 2023–2027.
 

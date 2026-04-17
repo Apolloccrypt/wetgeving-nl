@@ -1,13 +1,38 @@
 ---
 title: "Besluit heffing omzetbelasting bij leasing"
 identifier: "BWBR0048325"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-07-26
-laatste_update: 2024-07-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048325"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-07-26"
+last_updated: "2024-07-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048325"
+soort: "beleidsregel"
+stam_id: "16784853"
+version_id: "29481292"
+internal_id: "C42156151"
+label_id: "16700164"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048325/2024-07-26/0"
+intitule_bron: "Stcrt.2023-17200"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-28"
+intitule_published: "2023-06-29"
+intitule_in_force: "2023-06-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-17200"
+original_signed_date: "2023-06-28"
+original_published_date: "2023-06-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-17200"
+entry_into_force_date: "2023-07-01"
+jci_1_3: "jci1.3:c:BWBR0048325&z=2024-07-26&g=2024-07-26"
+jci_1_0: "1.0:c:BWBR0048325&g=2024-07-26"
+citeertitel_status: "officieel"
+signed_date: "2023-06-28"
+entry_into_force: "2023-07-01"
 ---
-
 # Besluit heffing omzetbelasting bij leasing
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

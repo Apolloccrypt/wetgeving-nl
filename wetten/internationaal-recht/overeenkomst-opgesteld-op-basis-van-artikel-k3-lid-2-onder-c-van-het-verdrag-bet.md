@@ -1,13 +1,37 @@
 ---
 title: "Overeenkomst opgesteld op basis van Artikel K.3, lid 2, onder c), van het Verdrag betreffende de Europese Unie ter bestrijding van corruptie waarbij ambtenaren van de Europese Gemeenschappen of van de lidstaten van de Europese Unie betrokken zijn"
 identifier: "BWBV0001526"
-categorie: "Internationaal recht"
-publicatiedatum: 2005-09-28
-laatste_update: 1997-05-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001526"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-09-28"
+last_updated: "1997-05-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001526"
+soort: "verdrag"
+stam_id: "10000387383"
+version_id: "10000395542"
+internal_id: "C10006989761"
+label_id: "10000387564"
+original_entry_into_force: "2005-09-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001526/2005-09-28/0"
+intitule_bron: "Trb.1997-249"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-03-28"
+intitule_published: "1997-09-11"
+intitule_in_force: "2005-12-30"
+intitule_status: "goed"
+original_publication: "Trb.1997-249"
+original_signed_date: "2002-03-28"
+original_published_date: "1997-09-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1997-249"
+entry_into_force_date: "2005-09-28"
+jci_1_3: "jci1.3:c:BWBV0001526&z=2005-09-28&g=2005-09-28"
+jci_1_0: "1.0:c:BWBV0001526&g=2005-09-28"
+citeertitel_status: "officieel"
+signed_date: "2002-03-28"
+entry_into_force: "2005-09-28"
 ---
-
 # Overeenkomst opgesteld op basis van Artikel K.3, lid 2, onder c), van het Verdrag betreffende de Europese Unie ter bestrijding van corruptie waarbij ambtenaren van de Europese Gemeenschappen of van de lidstaten van de Europese Unie betrokken zijn
 
 De Hoge Verdragsluitende Partijen bij deze Overeenkomst, lidstaten van de Europese Unie,
@@ -24,7 +48,7 @@ Strevend naar een samenhangende en doeltreffende toepassing van de onderhavige O
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van deze Overeenkomst
 
@@ -38,19 +62,19 @@ Voor de toepassing van deze Overeenkomst
 
 - c. wordt de term „nationaal ambtenaar” uitgelegd overeenkomstig de definitie van „ambtenaar” of „overheidspersoon” in de zin van het nationaal recht van de lidstaat waar de betrokkene die hoedanigheid heeft voor de toepassing van zijn strafrecht. Wanneer evenwel door een lidstaat strafvervolging wordt ingesteld waarbij een ambtenaar van een andere lidstaat is betrokken, is eerstgenoemde lidstaat slechts gehouden de definitie van „nationaal ambtenaar” toe te passen voorzover die verenigbaar is met zijn nationaal recht.
 
-#### Artikel 2. Passieve corruptie
+##### Artikel 2. Passieve corruptie
 
 1. Voor de toepassing van deze Overeenkomst bestaat passieve corruptie in het feit dat een ambtenaar opzettelijk, onmiddellijk of middellijk, voordelen, ongeacht de aard daarvan, voor zichzelf of voor een ander vraagt of aanneemt, dan wel ingaat op een desbetreffende toezegging teneinde in strijd met zijn ambtsplicht, een ambtshandeling of een handeling in de uitoefening van zijn ambt te verrichten of na te laten.
 
 2. Elke lidstaat treft de nodige maatregelen om ervoor te zorgen dat de in lid 1 bedoelde gedragingen strafbaar worden gesteld.
 
-#### Artikel 3. Actieve corruptie
+##### Artikel 3. Actieve corruptie
 
 1. Voor de toepassing van deze Overeenkomst bestaat actieve corruptie in het feit dat iemand opzettelijk een ambtenaar onmiddellijk of middellijk een voordeel, ongeacht de aard daarvan, voor hemzelf of voor een ander belooft of verstrekt, om in strijd met zijn ambtsplicht een ambtshandeling of een handeling in de uitoefening van zijn ambt te verrichten of na te laten.
 
 2. Elke lidstaat treft de nodige maatregelen om ervoor te zorgen dat de in lid 1 bedoelde gedragingen strafbaar worden gesteld.
 
-#### Artikel 4. Assimilatie
+##### Artikel 4. Assimilatie
 
 1. Elke lidstaat treft de nodige maatregelen om ervoor te zorgen dat in zijn strafrecht de in de artikelen 2 en 3 bedoelde omschrijvingen van overtredingen die door of tegen ministers van de Regering, verkozen leden van het Parlement, leden van de hoogste rechterlijke instanties of leden van de Rekenkamer in de uitoefening van hun ambt worden gepleegd, krachtens het strafrecht van dat land ook van toepassing zijn in gevallen waarin de feiten worden gepleegd door of jegens leden van de Commissie van de Europese Gemeenschappen, het Europees Parlement, het Hof van Justitie en de Rekenkamer van de Europese Gemeenschappen in de uitoefening van hun ambt.
 
@@ -60,17 +84,17 @@ Voor de toepassing van deze Overeenkomst
 
 4. Deze Overeenkomst is van toepassing onverminderd de bepalingen van de Verdragen tot oprichting van de Europese Gemeenschappen, het[Protocol betreffende de voorrechten en immuniteiten van de Europese Gemeenschappen](onbekend), het [Statuut van het Hof van Justitie](onbekend), alsmede de uitvoeringsbesluiten betreffende de opheffing van de immuniteiten.
 
-#### Artikel 5. Sancties
+##### Artikel 5. Sancties
 
 1. Elke lidstaat treft de nodige maatregelen om ervoor te zorgen dat de in de artikelen 2 en 3 bedoelde gedragingen, alsmede medeplichtigheid aan en uitdeling van die gedragingen, worden gestraft met doeltreffende, evenredige en afschrikkende sancties waaronder, tenminste in ernstige gevallen, vrijheidsstraffen die aanleiding kunnen geven tot uitlevering.
 
 2. Lid 1 geldt onverminderd de uitoefening van disciplinaire bevoegdheden tegen nationale ambtenaren of communautaire ambtenaren door de bevoegde instanties. De nationale rechterlijke instanties kunnen bij de straftoemeting op grond van de beginselen van hun nationale recht rekening houden met eventuele disciplinaire straffen die dezelfde persoon voor dezelfde gedragingen reeds zijn opgelegd.
 
-#### Artikel 6. Strafrechtelijke aansprakelijkheid van ondernemingshoofden
+##### Artikel 6. Strafrechtelijke aansprakelijkheid van ondernemingshoofden
 
 Elke lidstaat treft de nodige maatregelen opdat ondernemingshoofden of personen die beslissings- of controlebevoegdheid binnen een onderneming hebben, overeenkomstig de beginselen van zijn nationaal recht, strafrechtelijk aansprakelijk kunnen worden gesteld in geval van corruptie als bedoeld in artikel 3 die voor rekening van de onderneming door een aan hen ondergeschikte persoon zijn begaan.
 
-#### Artikel 7. Bevoegdheid
+##### Artikel 7. Bevoegdheid
 
 1. Elke lidstaat neemt de nodige maatregelen om zijn rechtsmacht te vestigen ten aanzien van de overeenkomstig de artikelen 2, 3 en 4 strafbaar gestelde feiten, in de volgende gevallen:
 
@@ -84,7 +108,7 @@ Elke lidstaat treft de nodige maatregelen opdat ondernemingshoofden of personen 
 
 2. Elke lidstaat kan bij de in artikel 13, lid 2, bedoelde kennisgeving verklaren dat hij een of meer van de in lid 1, onder b), c) en d), genoemde regels ten aanzien van de bevoegdheid niet of slechts in bepaalde gevallen of onder bepaalde voorwaarden toepast.
 
-#### Artikel 8. Uitlevering en vervolging
+##### Artikel 8. Uitlevering en vervolging
 
 1. Elke lidstaat die ingevolge zijn nationale recht geen eigen onderdanen uitlevert, treft de nodige maatregelen om zijn rechtsmacht te vestigen ten aanzien van de overeenkomstig de artikelen 2, 3 en 4 strafbaar gestelde feiten die door deze onderdanen buiten zijn grondgebied worden begaan.
 
@@ -92,13 +116,13 @@ Elke lidstaat treft de nodige maatregelen opdat ondernemingshoofden of personen 
 
 3. Voor de toepassing van dit artikel worden onder „onderdanen van een lidstaat” de personen verstaan als omschreven in de verklaringen die de betrokken lidstaat heeft afgelegd uit hoofde van [artikel 6, lid 1, onder b), van het Europees Verdrag betreffende uitlevering](https://wetten.overheid.nl/jci1.3:c:BWBV0001010&artikel=6), alsmede de personen bedoeld in lid 1, onder c), van dat artikel.
 
-#### Artikel 9. Samenwerking
+##### Artikel 9. Samenwerking
 
 1. Wanneer twee of meer lidstaten betrokken zijn bij een procedure met betrekking tot een overeenkomstig de artikelen 2, 3 en 4 strafbaar gesteld feit, werken deze lidstaten doeltreffend samen bij het onderzoek, de vervolging en de bestraffing van het strafbaar feit, bijvoorbeeld door middel van wederzijdse rechtshulp, uitlevering, overdracht van strafvervolging of tenuitvoerlegging van in een andere lidstaat gewezen rechterlijke beslissingen.
 
 2. Wanneer ten aanzien van een strafbaar feit meer dan één lidstaat bevoegd is en elk van hen ter zake van dezelfde feiten een vervolging kan instellen, bepalen de betrokken lidstaten in onderling overleg wie van hen de dader of daders zal vervolgen, met het doel de vervolging zo mogelijk in één lidstaat te centraliseren.
 
-#### Artikel 10. Ne bis in idem-beginsel
+##### Artikel 10. Ne bis in idem-beginsel
 
 1. De lidstaten passen in hun nationale strafrecht het „ne bis in idem”-beginsel toe, volgens hetwelk een persoon die bij onherroepelijk vonnis in een lidstaat is berecht, in een andere lidstaat niet kan worden vervolgd ter zake van dezelfde feiten, op voorwaarde dat ingeval een straf of maatregel is opgelegd, deze reeds is ondergaan of feitelijk ten uitvoer wordt gelegd, dan wel op grond van de wetten van de veroordelende staat niet meer ten uitvoer gelegd kan worden.
 
@@ -116,11 +140,11 @@ Elke lidstaat treft de nodige maatregelen opdat ondernemingshoofden of personen 
 
 5. Dit artikel laat de relevante bilaterale of multilaterale overeenkomsten tussen lidstaten, alsmede de met betrekking daartoe afgelegde verklaringen, onverlet.
 
-#### Artikel 11. Nationale bepalingen
+##### Artikel 11. Nationale bepalingen
 
 Niets in deze Overeenkomst belet de lidstaten nationale bepalingen aan te nemen die verder gaan dan de verplichtingen uit hoofde van deze Overeenkomst.
 
-#### Artikel 12. Hof van Justitie
+##### Artikel 12. Hof van Justitie
 
 1. Geschillen tussen de lidstaten over de uitlegging of de toepassing van deze Overeenkomst waarvoor onderling geen oplossing kon worden gevonden, worden met het oog op een oplossing, in een eerste fase in de Raad besproken volgens de procedure van [titel VI van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=VI). Indien binnen zes maanden geen oplossing is gevonden, kan de zaak door een bij het geschil betrokken partij aan het Hof van Justitie van de Europese Gemeenschappen worden voorgelegd.
 
@@ -134,7 +158,7 @@ Niets in deze Overeenkomst belet de lidstaten nationale bepalingen aan te nemen 
 
 6. Het Statuut van het Hof van Justitie van de Europese Gemeenschap en het Reglement voor de procesvoering van het Hof zijn van toepassing. Overeenkomstig dit statuut heeft elke lidstaat, ongeacht of hij de in lid 4 bedoelde verklaring heeft afgelegd, alsmede de Commissie het recht een memorie of schriftelijke opmerkingen aan het Hof voor te leggen in zaken die uit hoofde van lid 3 aanhangig gemaakt worden.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 1. Deze Overeenkomst wordt de lidstaten ter aanneming volgens hun onderscheiden grondwettelijke bepalingen voorgelegd.
 
@@ -146,7 +170,7 @@ Niets in deze Overeenkomst belet de lidstaten nationale bepalingen aan te nemen 
 
 5. Een lidstaat die geen verklaring overeenkomstig lid 4 heeft afgelegd, kan de Overeenkomst ten aanzien van andere overeenkomstsluitende lidstaten toepassen op basis van bilaterale overeenkomsten.
 
-#### Artikel 14. Toetreding van nieuwe lidstaten
+##### Artikel 14. Toetreding van nieuwe lidstaten
 
 1. Elke staat die lid wordt van de Europese Unie, kan tot deze Overeenkomst toetreden.
 
@@ -158,13 +182,13 @@ Niets in deze Overeenkomst belet de lidstaten nationale bepalingen aan te nemen 
 
 5. Indien deze Overeenkomst nog niet in werking is getreden bij de nederlegging van de akte van toetreding, is artikel 13, lid 4, van toepassing op de toetredende staten.
 
-#### Artikel 15. Voorbehouden
+##### Artikel 15. Voorbehouden
 
 1. Behoudens in de in artikel 7, lid 2, en artikel 10, lid 2, genoemde gevallen, kunnen er geen voorbehouden worden gemaakt.
 
 2. Lidstaten die een voorbehoud hebben gemaakt, kunnen dat te allen tijde geheel of gedeeltelijk intrekken door middel van een kennisgeving aan de depositaris. De intrekking wordt van kracht op de datum waarop de depositaris de kennisgeving ontvangt.
 
-#### Artikel 16. Depositaris
+##### Artikel 16. Depositaris
 
 1. De Secretaris-Generaal van de Raad van de Europese Unie is depositaris van deze Overeenkomst.
 

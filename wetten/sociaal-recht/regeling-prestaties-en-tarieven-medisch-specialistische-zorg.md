@@ -1,22 +1,44 @@
 ---
 title: "Regeling prestaties en tarieven medisch specialistische zorg"
 identifier: "BWBR0030241"
-categorie: "Sociaal recht"
-publicatiedatum: 2011-07-08
-laatste_update: 2011-07-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030241"
+country: "nl"
+rank: "zbo"
+publication_date: "2011-07-08"
+last_updated: "2011-07-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030241"
+soort: "zbo"
+stam_id: "11389823"
+version_id: "18691882"
+internal_id: "C26082571"
+label_id: "11363574"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030241/2011-07-08/0"
+intitule_bron: "Stcrt.2011-12174"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-07-08"
+intitule_in_force: "2011-07-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-12174"
+original_published_date: "2011-07-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-12174"
+entry_into_force_date: "2011-07-08"
+jci_1_3: "jci1.3:c:BWBR0030241&z=2011-07-08&g=2011-07-08"
+jci_1_0: "1.0:c:BWBR0030241&g=2011-07-08"
+citeertitel_status: "officieel"
+entry_into_force: "2011-07-08"
 ---
-
 # Regeling prestaties en tarieven medisch specialistische zorg
 
 ### Inleiding
 
-#### Artikel 1. Grondslag
+##### Artikel 1. Grondslag
 
 Gelet op [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) en [38 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) (Wmg) stelt de Nederlandse Zorgautoriteit (NZa) de volgende regeling vast.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Deze regeling is van toepassing op medisch specialistische zorg als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw) die wordt geleverd door instellingen voor medisch specialistische zorg (met uitzondering van sanatoria en abortusklinieken) en door audiologische centra en centra voor erfelijkheidsonderzoek.
 
@@ -24,7 +46,7 @@ Deze regeling is eveneens van toepassing op zorgaanbieders die geneeskundige zor
 
 Deze regeling is eveneens van toepassing op handelingen op het gebied van de individuele gezondheidszorg1Het betreft hier de handelingen bedoeld in artikel 1, sub b, nr. 2°, van de Wmg.of werkzaamheden in het kader van de beroepsuitoefening2Het betreft hier de werkzaamheden bedoeld in artikel 2, aanhef, en sub d, van het Besluit uitbreiding en beperking werkingssfeer Wmg.geleverd door of onder verantwoordelijkheid van zorgaanbieders die medisch specialistische zorg leveren voor zover deze handelingen en werkzaamheden niet zijn begrepen onder het hierboven genoemde.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 De verplichtingen die uit deze regeling voortvloeien treden in werking op 1 januari 2012. Met de inwerkingtreding van deze regeling worden de volgende regelingen beëindigd:
 
@@ -48,7 +70,7 @@ Deze regeling kan worden aangehaald als ‘regeling prestaties en tarieven medis
 
 Met de inwerkingtreding van deze regeling zijn de declaratiebepalingen (NR/CU-201) beëindigd. Deze regeling is met ingang van 1 januari 2012 ook van toepassing ten aanzien van parallelliteit tussen DBC’s (geopend in 2011 en doorlopend in 2012) en DBC- of overige zorgproducten (geopend in 2012).
 
-#### Artikel 4. Begrippen en afkortingen
+##### Artikel 4. Begrippen en afkortingen
 
 In deze regeling worden de volgende begrippen en afkortingen gebruikt.
 
@@ -104,7 +126,7 @@ In deze regeling worden de volgende begrippen en afkortingen gebruikt.
 
 ### Registreren
 
-#### Artikel 5. Algemene registratiebepalingen
+##### Artikel 5. Algemene registratiebepalingen
 
 - 5.1. De registratie van het zorgtraject start op het moment dat een patiënt zich met een nieuwe zorgvraag bij de medisch specialist meldt óf, indien dat eerder is, op het moment dat de eerste zorgactiviteit plaatsvindt in het kader van deze nieuwe zorgvraag.
 
@@ -126,7 +148,7 @@ In deze regeling worden de volgende begrippen en afkortingen gebruikt.
 
 - 5.10. Het is niet toegestaan om binnen 28 dagen na afsluiten van een DBC (openingsdatum in 2011) een subtraject te openen (openingsdatum in 2012) met eenzelfde zorgtype en diagnose, tenzij [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030241&artikel=6&z=2011-07-08&g=2011-07-08) anders voorschrijven.
 
-#### Artikel 6. Het openen van een zorgtraject
+##### Artikel 6. Het openen van een zorgtraject
 
 De regels voor het openen van een zorgtraject zijn afhankelijk van het zorgtype (ZT) van het subtraject.
 
@@ -180,7 +202,7 @@ De regels voor het openen van een zorgtraject zijn afhankelijk van het zorgtype 
 
 - –. via een alternatief koppelmechanisme die de zorgactiviteiten van de ondersteuners (achteraf) koppelt aan het zorgtraject van de hoofdbehandelaar.
 
-#### Artikel 7. Het openen van een subtraject
+##### Artikel 7. Het openen van een subtraject
 
 Een subtraject wordt geopend:
 
@@ -188,7 +210,7 @@ Een subtraject wordt geopend:
 
 - –. Wanneer een reguliere behandeling of controletraject na het afsluiten van een subtraject met ZT11 of ZT21, wordt vervolgd (zie [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030241&artikel=8&z=2011-07-08&g=2011-07-08)).
 
-#### Artikel 8. Het sluiten van een subtraject
+##### Artikel 8. Het sluiten van een subtraject
 
 - 8.1. Een subtraject met een ZT 11 of 21 (initiële of vervolgbehandeling) wordt gesloten:
 
@@ -302,7 +324,7 @@ Een subtraject wordt geopend:
 
 - –. Fase 3: Postransplantatie fase/nazorg
 
-#### Artikel 9. Het sluiten van een zorgtraject
+##### Artikel 9. Het sluiten van een zorgtraject
 
 De regels voor het sluiten van een zorgtraject zijn afhankelijk van het zorgtype (ZT) van het subtraject. Een zorgtraject wordt gesloten in onderstaande situaties:
 
@@ -324,7 +346,7 @@ De regels voor het sluiten van een zorgtraject zijn afhankelijk van het zorgtype
 
 ### Afleiden
 
-#### Artikel 10. Regels afleiden
+##### Artikel 10. Regels afleiden
 
 - 10.1. De zorgaanbieder zorgt te allen tijde voor een 100% betrouwbare en verifieerbare relatie gelegd met de op het moment van opening van het subtraject geldende DOT boomstructuur, -tabellen, en -afsluitregels en de software functioneert zodanig dat zorgproducten juist worden afgeleid op basis van deze landelijk door de NZa vastgestelde boomstructuur.
 
@@ -350,11 +372,11 @@ De regels voor het sluiten van een zorgtraject zijn afhankelijk van het zorgtype
 
 ### Declareren
 
-#### Artikel 11. Algemene declaratiebepalingen
+##### Artikel 11. Algemene declaratiebepalingen
 
 - 11.1. De zorgaanbieder (niet een grouper) als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030241&artikel=2&z=2011-07-08&g=2011-07-08) is verantwoordelijk voor de juiste declaratie van een DBC-zorgproduct en/of overig zorgproduct.
 
-#### Artikel 12. Declaratiebepalingen voor DBC-zorgproducten
+##### Artikel 12. Declaratiebepalingen voor DBC-zorgproducten
 
 - 12.1. De startdatum van het DBC-zorgproduct bepaalt bij welke zorgverzekeraar wordt gedeclareerd10Indien ten tijde van de openingsdatum van het DBC-zorgproduct de patiënt onverzekerd was of er op dat moment geen aanspraak was, zal het DBC-zorgproduct bij de patiënt worden gedeclareerd..
 
@@ -368,7 +390,7 @@ De regels voor het sluiten van een zorgtraject zijn afhankelijk van het zorgtype
 
 - 12.6. De rekening van levende orgaandonoren wordt in rekening gebracht bij de verzekeraar van en op naam van de ontvanger.
 
-#### Artikel 13. Declaratiebepalingen voor overige zorgproducten
+##### Artikel 13. Declaratiebepalingen voor overige zorgproducten
 
 - 13.1. De uitvoeringsdatum van het overige zorgproduct bepaalt bij welke zorgverzekeraar wordt gedeclareerd11Indien ten tijde van de uitvoeringsdatum van het overige zorgproduct de patiënt onverzekerd was of er op dat moment geen aanspraak was, zal het overige zorgproduct bij de patiënt worden gedeclareerd..
 
@@ -398,7 +420,7 @@ De regels voor het sluiten van een zorgtraject zijn afhankelijk van het zorgtype
 
 - 13.9. Naast de hier vermelde declaratiebepalingen gelden voor overige zorgproducten tevens de bij de desbetreffende prestatieomschrijvingen13Deze zijn te vinden in de Beleidsregel prestaties en tarieven medisch specialistische zorg.vermelde specifieke declaratiebepalingen.
 
-#### Artikel 14. Terugvaloptie
+##### Artikel 14. Terugvaloptie
 
 - 14.1. Een zorgaanbieder mag een DBC-zorgproduct, waarvoor hij geen overeenkomst14Onder overeenkomst wordt verstaan: een overeenkomst voor de levering van (bepaalde) zorg.heeft met de zorgverzekeraar, vóór de op grond van in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030241&artikel=8&z=2011-07-08&g=2011-07-08) beschreven sluitingsregels vastgestelde sluitingsdatum declareren indien wordt voldaan aan elk van de onderstaande voorwaarden:
 
@@ -412,7 +434,7 @@ De regels voor het sluiten van een zorgtraject zijn afhankelijk van het zorgtype
 
 ### Informeren
 
-#### Artikel 15. Informatieverplichting bij declaratie
+##### Artikel 15. Informatieverplichting bij declaratie
 
 - 15.1. Informatieverplichting bij declaratie van DBC-zorgproducten Bij het declareren wordt de voorgeschreven wijze van codering toegepast. Declaraties vermelden in ieder geval de navolgende gegevens:
 
@@ -511,7 +533,7 @@ De regels voor het sluiten van een zorgtraject zijn afhankelijk van het zorgtype
 | **Overige trajecten** | x |   |   | x | x | x | x | x | x |
 | **Overige verrichtingen** | x |   |   | x | x | x | x | x | x |
 
-#### Artikel 16. Standaardprijslijst
+##### Artikel 16. Standaardprijslijst
 
 Zorgaanbieders zoals genoemd in artikel 2 van de beleidsregel ‘prestaties en tarieven medisch specialistische zorg’ maken een standaardprijslijst bekend voor prestaties in het vrije segment.
 

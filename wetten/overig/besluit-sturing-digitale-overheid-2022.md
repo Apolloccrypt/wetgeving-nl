@@ -1,13 +1,39 @@
 ---
-title: "Besluit Sturing Digitale Overheid 2022"
+title: "Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 12 juli 2022 kenmerk 2022-0000352542 (Besluit Sturing Digitale Overheid 2022), tot wijziging van het Instellingsbesluit Sturing Digitale Overheid in het kader van de introductie van een meerjarenprogrammering op de generieke digitale infrastructuur"
 identifier: "BWBR0046935"
-categorie: "Overig"
-publicatiedatum: 2022-07-19
-laatste_update: 2022-07-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046935"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-07-19"
+last_updated: "2022-07-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046935"
+soort: "ministeriele-regeling"
+stam_id: "16425383"
+version_id: "28769382"
+internal_id: "C40726951"
+label_id: "16349554"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046935/2022-07-19/0"
+intitule_bron: "Stcrt.2022-18861"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-07-12"
+intitule_published: "2022-07-18"
+intitule_in_force: "2022-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-18861"
+original_signed_date: "2022-07-12"
+original_published_date: "2022-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-18861"
+entry_into_force_date: "2022-07-19"
+jci_1_3: "jci1.3:c:BWBR0046935&z=2022-07-19&g=2022-07-19"
+jci_1_0: "1.0:c:BWBR0046935&g=2022-07-19"
+citeertitel_status: "officieel"
+short_title: "Besluit Sturing Digitale Overheid 2022"
+signed_date: "2022-07-12"
+entry_into_force: "2022-07-19"
 ---
-
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 12 juli 2022 kenmerk 2022-0000352542 (Besluit Sturing Digitale Overheid 2022), tot wijziging van het Instellingsbesluit Sturing Digitale Overheid in het kader van de introductie van een meerjarenprogrammering op de generieke digitale infrastructuur
 
 Overwegende dat;
@@ -48,7 +74,7 @@ hier een adequate overlegstructuur en interbestuurlijke governance voor nodig is
 
 BESLUIT:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 - a. **de staatssecretaris:** de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
 
@@ -76,15 +102,15 @@ BESLUIT:
 
 - m. **het bestuurlijk overleg:** een overleg tussen de eindverantwoordelijke bestuurders van het Rijk en medeoverheden.
 
-#### Artikel 2
+##### Artikel 2
 
 Indien dit naar het oordeel van de staatssecretaris of één van de andere bestuurlijke partijen wenselijk is, wordt een bestuurlijk overleg bijeengeroepen.
 
-#### Artikel 3
+##### Artikel 3
 
 Er is een hoog ambtelijk Overheidsbreed Beleidsoverleg Digitale Overheid (hierna: OBDO).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het OBDO heeft tot taak de staatssecretaris te adviseren op de volgende terreinen:
 
@@ -116,7 +142,7 @@ Er is een hoog ambtelijk Overheidsbreed Beleidsoverleg Digitale Overheid (hierna
 
 4. Het OBDO zorgt zo nodig voor de inrichting van thematische vooroverleggen, waarbij de agenda van het OBDO bepalend is.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het OBDO wordt voorgezeten door de directeur-generaal Digitalisering en Overheidsorganisaties (hierna: dgDOO) en bestaat uit de volgende leden:
 
@@ -156,15 +182,15 @@ Er is een hoog ambtelijk Overheidsbreed Beleidsoverleg Digitale Overheid (hierna
 
 5. Het secretariaat van het OBDO is ondergebracht bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 6
+##### Artikel 6
 
 Het OBDO komt ten minste viermaal per jaar bijeen.
 
-#### Artikel 7
+##### Artikel 7
 
 Er is een Programmeringsraad Generieke Digitale Infrastructuur (hierna: PGDI).
 
-#### Artikel 8
+##### Artikel 8
 
 De PGDI heeft tot taak:
 
@@ -180,7 +206,7 @@ De PGDI heeft tot taak:
 
 - f. zo nodig adequate vooroverleggen in te richten.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De PGDI wordt voorgezeten door een voorzitter die het draagvlak heeft van de leden van de PGDI.
 
@@ -228,15 +254,15 @@ Overige afnemers kunnen op verzoek agendalid zijn.
 
 7. Het secretariaat van de PGDI wordt verzorgd door het bureau MIDO dat is ondergebracht bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 10
+##### Artikel 10
 
 De PGDI komt ten minste viermaal per jaar bijeen.
 
-#### Artikel 11
+##### Artikel 11
 
 Er wordt een architectuurraad ingesteld.
 
-#### Artikel 12
+##### Artikel 12
 
 De architectuurraad heeft tot taak:
 
@@ -256,7 +282,7 @@ De architectuurraad heeft tot taak:
 
 - h. adequate overleggen in te richten.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De architectuurraad wordt voorgezeten door een onafhankelijke voorzitter.
 
@@ -282,11 +308,11 @@ De architectuurraad heeft tot taak:
 
 6. Het secretariaat van de architectuurraad wordt verzorgd door het bureau MIDO.
 
-#### Artikel 14
+##### Artikel 14
 
 Er wordt op elk van de vier GDI-domeinen – toegang, interactie, gegevensuitwisseling en infrastructuur – een programmeringstafel (hierna: PT) ingesteld.
 
-#### Artikel 15
+##### Artikel 15
 
 De PT heeft tot taak:
 
@@ -302,7 +328,7 @@ De PT heeft tot taak:
 
 - f. het signaleren en bespreken van eventuele knelpunten en dilemma’s en zorgdragen voor escalatie naar de Programmeringsraad GDI waar nodig.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De PT heeft een onafhankelijk voorzitter.
 
@@ -332,23 +358,23 @@ De PT heeft tot taak:
 
 7. Het secretariaat van de PT wordt verzorgd door het bureau MIDO.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit wordt binnen 2 jaar na inwerkingtreding geëvalueerd waarbij ook op de werking van de nieuwe structuur wordt ingegaan. Vervolgens vindt evaluatie plaats wanneer daar aanleiding voor is.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijziging van dit besluit geschiedt door de staatssecretaris na advies of op initiatief van het OBDO, de PGDI, de architectuurraad en de programmeringstafels.
 
-#### Artikel 19
+##### Artikel 19
 
 Het [Instellingsbesluit Sturing Digitale Overheid 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040648) wordt ingetrokken.
 
-#### Artikel 20
+##### Artikel 20
 
 Dit besluit wordt aangehaald als: Besluit Sturing Digitale Overheid 2022.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 

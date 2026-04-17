@@ -1,13 +1,39 @@
 ---
-title: "Aanpassingsregeling regelingen aan wijzigingen Luchtvaartwet en Wet luchtvaart"
+title: "Regeling van de Minister van Verkeer en Waterstaat tot aanpassing van regelingen aan wijzigingen van de Luchtvaartwet en de Wet luchtvaart"
 identifier: "BWBR0026575"
-categorie: "Milieu"
-publicatiedatum: 2009-10-31
-laatste_update: 2009-10-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026575"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-10-31"
+last_updated: "2009-10-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026575"
+soort: "ministeriele-regeling"
+stam_id: "10258063"
+version_id: "16787792"
+internal_id: "C23112041"
+label_id: "10233694"
+dtd_version: "2.0"
+original_entry_into_force: "2009-10-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026575/2009-10-31/0"
+intitule_bron: "Stcrt.2009-16329"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-10-27"
+intitule_published: "2009-10-30"
+intitule_in_force: "2009-10-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-16329"
+original_signed_date: "2009-10-27"
+original_published_date: "2009-10-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-16329"
+entry_into_force_date: "2009-10-31"
+jci_1_3: "jci1.3:c:BWBR0026575&z=2009-10-31&g=2009-10-31"
+jci_1_0: "1.0:c:BWBR0026575&g=2009-10-31"
+citeertitel_status: "redactioneel"
+short_title: "Aanpassingsregeling regelingen aan wijzigingen Luchtvaartwet en Wet luchtvaart"
+signed_date: "2009-10-27"
+entry_into_force: "2009-10-31"
 ---
-
 # Regeling van de Minister van Verkeer en Waterstaat tot aanpassing van regelingen aan wijzigingen van de Luchtvaartwet en de Wet luchtvaart
 
 Handelende in overeenstemming met de Staatssecretaris van Defensie en de Minister van Economische Zaken;
@@ -36,71 +62,71 @@ de [artikelen 8.12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit aanwijzing toezichthouders luchtvaart.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Mijnbouwregeling.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Regeling gebruik hoogtemeter.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Regeling grondafhandeling luchtvaartterreinen.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Regeling kabelvliegers en kleine ballons.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Regeling luchtvaartheffingen.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Regeling luchtvaartvertoningen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Regeling luchtverkeersdienstverlening.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Regeling modelvliegen.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Regeling navigatie- en telecommunicatie-installaties.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Regeling omgevingslawaai luchtvaart.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Regeling seinen luchtvaart.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Regeling standaard luchtverkeerscircuits.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Regeling tarieven luchtvaart 2008.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Regeling vliegplannen.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Vrijstellingsregeling LVR.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Ingetrokken worden:
 
@@ -108,11 +134,11 @@ Ingetrokken worden:
 
 - b. de [Nachtvliegregeling Maastricht Airport 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004945).
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 De regelingen, genoemd in de [artikelen I tot en met III](https://wetten.overheid.nl/jci1.3:c:BWBR0026575&artikel=I&z=2009-10-31&g=2009-10-31) en [VII tot en met XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0026575&artikel=VII&z=2009-10-31&g=2009-10-31) zoals zij luidden vóór inwerkingtreding van die artikelen, blijven van toepassing op een luchtvaartterrein, aangewezen op grond van [artikel 18 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=18), zolang op dat luchtvaartterrein het bepaalde bij of krachtens de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) van toepassing blijft krachtens [artikel IX, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=IX), of [artikel XVIII, derde lid, van de Wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=XVIII) (Stb. 561).
 
-#### Artikel XIX
+##### Artikel XIX
 
 Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

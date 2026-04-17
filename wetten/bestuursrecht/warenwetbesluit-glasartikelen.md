@@ -1,13 +1,37 @@
 ---
-title: "Warenwetbesluit glasartikelen"
+title: "Besluit van 7 november 1972, houdende vaststelling van het Glasartikelenbesluit"
 identifier: "BWBR0002841"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-01-21
-laatste_update: 2020-01-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002841"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-01-21"
+last_updated: "2020-01-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002841"
+soort: "AMvB"
+stam_id: "333203"
+version_id: "26418672"
+internal_id: "C37534451"
+label_id: "325854"
+dtd_version: "2.0"
+original_entry_into_force: "2019-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002841/2020-01-21/0"
+intitule_bron: "Stb.1972-688"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1972-11-07"
+intitule_status: "goed"
+original_publication: "Stb.2020-5"
+original_signed_date: "2019-12-18"
+original_published_date: "2020-01-20"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2020-5"
+entry_into_force_date: "2019-12-18"
+jci_1_3: "jci1.3:c:BWBR0002841&z=2020-01-21&g=2020-01-21"
+jci_1_0: "1.0:c:BWBR0002841&g=2020-01-21"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit glasartikelen"
+signed_date: "2019-12-18"
+entry_into_force: "2019-12-18"
 ---
-
 # Besluit van 7 november 1972, houdende vaststelling van het Glasartikelenbesluit
 
 Op de voordracht van Onze Minister van Volksgezondheid en Milieuhygiëne van 8 september 1972, Directoraat-Generaal van de Volksgezondheid, Hoofdafdeling Voedingsaangelegenheden, no. 106624, en van de Staatssecretaris van Economische Zaken;
@@ -24,7 +48,7 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid en Milieuhygiëne
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan onder:
 
@@ -40,7 +64,7 @@ Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan 
 
 - d. richtlijn 1969/493/EEG: richtlijn nr. 69/493/EEG van de Raad van de Europese Gemeenschappen van 15 december 1969 voor de onderlinge aanpassing der wetgevingen van de Lid-Staten inzake kristalglas (PbEG L 326).
 
-#### Artikel 2
+##### Artikel 2
 
 Aangeduid mag uitsluitend worden:
 
@@ -54,7 +78,7 @@ Aangeduid mag uitsluitend worden:
 
 - 2°. tenminste 10% loodoxyde, bariumoxyde of kaliumoxyde dan wel tenminste 10% van een mengsel van twee of van al deze oxyden bevat, dat een oppervlaktehardheid, volgens Vickers, van 550 ± 20 heeft en waarvan de volumieke massa tenminste 2400 kg/m3 bedraagt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Glasartikelen mogen niet worden aangeduid met de symbolen van een cirkel, vierkant of gelijkzijdige driehoek zonder vermelding, bij het symbool, van een der bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2020-01-21&g=2020-01-21) toegelaten benamingen.
 
@@ -62,11 +86,11 @@ Aangeduid mag uitsluitend worden:
 
 3. Indien het overeenkomstig het tweede lid gebezigde symbool aangebracht is op het glasartikel of de verpakking daarvan, moet het zijn uitgevoerd als aangegeven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&bijlage=I&z=2020-01-21&g=2020-01-21).
 
-#### Artikel 4
+##### Artikel 4
 
 Glasartikelen mogen niet worden aangeduid met een benaming, genoemd bij de nummers 3 en 4 van kolom b, van bijlage I van richtlijn 1969/493/EEG, met uitzondering van de benaming sonoorglas.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Glasartikelen waarop is aangebracht hetzij een opschrift dat niet een bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2020-01-21&g=2020-01-21) toegelaten benaming is doch waarin zodanige benaming of een bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=4&z=2020-01-21&g=2020-01-21) verboden benaming voorkomt, hetzij een opschrift, dat met een bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2020-01-21&g=2020-01-21) toegelaten benaming of een bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=4&z=2020-01-21&g=2020-01-21) verboden benaming kan worden verward, alsmede glasartikelen aanwezig in een verpakking waarop een zodanig opschrift is aangebracht, moeten op het glasartikel onderscheidenlijk op de verpakking daarvan tevens zijn aangeduid met:
 
@@ -80,15 +104,15 @@ Glasartikelen mogen niet worden aangeduid met een benaming, genoemd bij de numme
 
 - b. zijn bij verpakte glasartikelen aangebracht op de verpakking of op een daaraan gehecht etiket.
 
-#### Artikel 6
+##### Artikel 6
 
 Aanduidingen met betrekking tot glasartikelen, welke misleidend zijn ten aanzien van hun aard of samenstelling, zijn niet toegestaan.
 
-#### Artikel 7
+##### Artikel 7
 
 Voor zover voor de beoordeling of de aanduidingen van glasartikelen overeenstemmen met de in dit besluit gestelde regelen, de aard of samenstelling van het glas moet worden vastgesteld, moet worden gebruik gemaakt van de methoden van onderzoek, aangegeven in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&bijlage=II&z=2020-01-21&g=2020-01-21) van dit besluit, voor zover deze daartoe toereikend zijn.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Warenwetbesluit glasartikelen.
 
@@ -164,7 +188,7 @@ De brekingsindex wordt gemeten met een refractometer op ± 0,001 nauwkeurig.
 
 Onze Minister van Volksgezondheid en Milieuhygiëne is belast met de uitvoering van dit besluit, dat met de nota van toelichting in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 7a
+##### Artikel 7a
 
 Vervallen
 
@@ -200,7 +224,7 @@ De Vickers hardheid wordt gemeten volgens de norm ASTM E 92-65 (herziening 1965)
 
 Onze Minister van Volksgezondheid en Milieuhygiëne is belast met de uitvoering van dit besluit, dat met de nota van toelichting in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Het is verboden glasartikelen te verhandelen anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
 

@@ -1,14 +1,38 @@
 ---
-title: "Wet aanpassing pensioenvoorzieningen Bijstandkorps"
+title: "Wet van 25 november 1965, houdende maatregelen ten aanzien van pensioenen, toegekend krachtens de wet van 25 mei 1962, Stb. 196"
 identifier: "BWBR0002507"
-categorie: "Sociaal recht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002507"
+country: "nl"
+rank: "wet"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002507"
+soort: "wet"
+stam_id: "1961983"
+version_id: "2907282"
+internal_id: "C2907281"
+label_id: "1911874"
+dtd_version: "2.0"
+original_entry_into_force: "1963-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002507/2015-01-01/0"
+intitule_bron: "Stb.1965-550"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1965-11-25"
+intitule_status: "goed"
+original_publication: "Stb.1965-550"
+original_signed_date: "1965-11-25"
+original_effect: "nieuwe-regeling"
+original_dossier: "8145"
+entry_into_force_date: "1963-01-01"
+entry_into_force_dossier: "8145"
+jci_1_3: "jci1.3:c:BWBR0002507&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0002507&g=2015-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet aanpassing pensioenvoorzieningen Bijstandkorps"
+signed_date: "1965-11-25"
+entry_into_force: "1963-01-01"
 ---
-
-# Wet aanpassing pensioenvoorzieningen Bijstandkorps
+# Wet van 25 november 1965, houdende maatregelen ten aanzien van pensioenen, toegekend krachtens de wet van 25 mei 1962, Stb. 196
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +42,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Afdeling Eerste. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -34,37 +58,37 @@ In deze wet wordt verstaan onder:
 
 ### Afdeling Tweede. Toekenning van invaliditeitstoeslagen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
 ### Afdeling Derde. Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 6a
+##### Artikel 6a
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
@@ -72,7 +96,7 @@ Vervallen
 
 ### hoofdstuk Eerste
 
-#### Artikel 9
+##### Artikel 9
 
 In deze afdeling wordt verstaan onder:
 
@@ -86,11 +110,11 @@ In deze afdeling wordt verstaan onder:
 
 - e. «algemene nabestaandenuitkering» en «algemene wezenuitkering»: uitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795).
 
-#### Artikel 9a
+##### Artikel 9a
 
 Voor de toepassing van deze wet wordt onder het algemeen ouderdomspensioen van een rechthebbende die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), reeds heeft bereikt mede begrepen het algemeen ouderdomspensioen waarop zijn echtgenoot recht heeft, tenzij het echtpaar duurzaam gescheiden leeft.
 
-#### Artikel 10
+##### Artikel 10
 
 Voor de toepassing van de bepalingen van deze afdeling geldt het volgende.
 
@@ -110,7 +134,7 @@ Voor de toepassing van de bepalingen van deze afdeling geldt het volgende.
 
 ### hoofdstuk Tweede. Samenloop van pensioen met algemeen ouderdomspensioen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien een tijdvak, waarop het algemeen ouderdomspensioen moet worden geacht betrekking te hebben, geheel of gedeeltelijk samenvalt met een tijdvak, gedurende hetwelk wordt geacht te zijn vervuld diensttijd, waarnaar een pensioen wordt geacht te zijn berekend, wordt voor iedere maand gedurende welke aanspraak bestaat op algemeen ouderdomspensioen en op pensioen, de uitbetaling van het pensioen beperkt.
 
@@ -124,17 +148,17 @@ Voor de toepassing van de bepalingen van deze afdeling geldt het volgende.
 
 3. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan nadere regels stellen met betrekking tot de in de vorige leden bedoelde beperking te hanteren bedragen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien het bedrag, dat tot grondslag heeft gestrekt voor de berekening van het eigen pensioen, dan wel, indien het pensioen is afgeleid van een eigen pensioen, het bedrag dat tot grondslag heeft gestrekt voor de berekening van dat eigen pensioen, vermeerderd met een percentage gelijk aan het percentage van de op dat pensioen bij of krachtens deze wet toegekende aanpassingstoeslag, lager is dan 7/66 maal het normbedrag bedoeld in het tweede lid, wordt het met toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Tweede&artikel=11&z=2015-01-01&g=2015-01-01) berekende bedrag van de beperking vermenigvuldigd met een breuk, waarvan de teller het eerstbedoelde vermeerderde bedrag is en de noemer 7/66 maal het normbedrag. De uitkomst van deze vermenigvuldiging vormt in dat geval het bedrag van de beperking van het pensioen.
 
 2. Het normbedrag is het bedrag, bedoeld in [artikel J 12 van de Algemene burgerlijke pensioenwet](onbekend), zoals die luidde op 31 december 1995, welk bedrag met ingang van 1 januari 1996 bij ministeriële regeling wordt aangepast overeenkomstig de aanpassing van de pensioenen voor overheidswerknemers in de zin van [artikel 2 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=2) die werkzaam zijn geweest in de sector Rijk.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien aanspraak bestaat of wordt geacht te bestaan op meer dan een pensioen en de tijdvakken, gedurende welke wordt geacht te zijn vervuld diensttijd, waarnaar die pensioenen worden geacht te zijn berekend, geheel of gedeeltelijk samenvallen, overschrijdt het totaal van de volgens de voorgaande artikelen voor elk pensioen berekende beperking - voor zover deze geacht kan worden betrekking te hebben op evenbedoelde samenvallende tijdvakken - niet het bedrag van het algemeen ouderdomspensioen dat geacht kan worden betrekking te hebben op meerbedoelde samenvallende tijdvakken.
 
@@ -146,7 +170,7 @@ Vervallen
 
 5. Op aanvraag van degene die aantoont dat aanspraak bestaat op een of meer pensioenen of andere pensioenen toekomende aan de echtgenoot wordt dit artikel overeenkomstig toegepast, zulks met ingang van de dag waarop bedoelde omstandigheid is opgetreden, doch niet eerder dan een jaar voor de eerste dag van de maand waarin de desbetreffende aanvraag werd ingediend. De aanvraag moet worden gericht tot de Stichting Administratie Indonesische Pensioenen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Op schriftelijk verzoek van degene, die aantoont, dat uit hoofde van zijn aanspraak op algemeen ouderdomspensioen mede een vermindering plaats vindt van een andere pensioenuitkering, wordt, voor zover de tijdvakken, gedurende welke wordt geacht te zijn vervuld de diensttijd, waarnaar het pensioen en de andere pensioenuitkering worden geacht te zijn berekend, samenvallen, het bedrag van die vermindering voor zoveel mogelijk in mindering gebracht op het bedrag van de beperking van het pensioen, zulks met ingang van de dag waarop bedoelde omstandigheid is opgetreden, doch niet vroeger dan een jaar voor de eerste dag van de maand, waarin het desbetreffende verzoek werd ingediend.
 
@@ -162,11 +186,11 @@ Vervallen
 
 ### hoofdstuk Derde. Samenloop van weduwe- of wezenpensioen met een uitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
-#### Artikel 16
+##### Artikel 16
 
 Het wezenpensioen, waarop twee of meer volle wezen aanspraak hebben, wordt, indien het wezenpensioen als een eenheid is toegekend, voor de toepassing van de bepalingen van dit hoofdstuk geacht aan ieder van genoemde wezen te zijn toegekend tot een bedrag, gelijk aan dat wezenpensioen gedeeld door hun aantal.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Bij gelijktijdige aanspraak op een weduwepensioen, onderscheidenlijk een wezenpensioen en een algemene nabestaandenuitkering, onderscheidenlijk een algemene wezenuitkering wordt, voor zover de tijdvakken, waarop het pensioen en de algemene uitkering geacht worden betrekking te hebben, samenvallen, de betaling van het weduwepensioen, onderscheidenlijk het wezenpensioen iedere maand beperkt naar reden van 2 percent van de algemene nabestaandenuitkering, onderscheidenlijk de algemene wezenuitkering per samenvallend jaar.
 
@@ -176,21 +200,21 @@ Het wezenpensioen, waarop twee of meer volle wezen aanspraak hebben, wordt, indi
 
 4. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan nadere regels stellen met betrekking tot de in de vorige leden bedoelde beperking te hanteren bedragen.
 
-#### Artikel 18
+##### Artikel 18
 
 Indien aanspraak bestaat op een weduwenpensioen of een wezenpensioen en tevens aanspraak bestaat op een ander pensioen of op een andere pensioenuitkering vindt het bepaalde in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Tweede&artikel=14&z=2015-01-01&g=2015-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Tweede&artikel=15&z=2015-01-01&g=2015-01-01) overeenkomstige toepassing.
 
-#### Artikel 19
+##### Artikel 19
 
 Op schriftelijk verzoek van de weduwe, die aantoont, dat een rente of uitkering, als bedoeld in artikel 19, onder 2e der Ongevallenwet 1921, artikel 40, onder 2e der Land- en Tuinbouwongevallenwet 1922, onderscheidenlijk artikel 2, tweede lid, der Zeeongevallenwet 1919, daaronder begrepen de daarop verleende toe- en bijslagen anders dan ingevolge de Wet compensatie premie Algemene Ouderdomswet ongevallenrentetrekkers, is beperkt wegens samenloop met een algemene nabestaandenuitkering wordt het bedrag van die beperking in mindering gebracht op het bedrag van de beperking van het weduwenpensioen.
 
-#### Artikel 19a
+##### Artikel 19a
 
 1. Indien recht is ontstaan op weduwepensioen of een wezenpensioen na 31 december 2000 heeft de weduwe die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt, onderscheidenlijk de wees, in afwijking van de Wet brutering overhevelingstoeslag lonen, recht op een toeslag ter grootte van 1,9% van dat pensioen, met een maximum van € 791,85 per jaar.
 
 2. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt de toeslag krachtens dit artikel niet onder pensioen of uitkering begrepen.
 
-#### Artikel 19b
+##### Artikel 19b
 
 1. Indien ter zake van het overlijden van een gepensioneerde recht op een weduwepensioen ontstaat, heeft de weduwe, recht op een toeslag voor de tijd die bij de berekening van het pensioen in aanmerking is genomen indien en voor zolang recht bestaat op een nabestaandenuitkering krachtens de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), die wordt verminderd wegens inkomen uit arbeid of overig inkomen als bedoeld in de Algemene nabestaandenwet.
 
@@ -210,7 +234,7 @@ Op schriftelijk verzoek van de weduwe, die aantoont, dat een rente of uitkering,
 
 5. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt de toeslag krachtens dit artikel niet onder pensioen of uitkering begrepen.
 
-#### Artikel 19c
+##### Artikel 19c
 
 1. Indien ter zake van het overlijden van een gepensioneerde recht op een weduwepensioen als bedoeld in deze regeling ontstaat, heeft de weduwe die op 1 januari 1998 de leeftijd van 55 jaar heeft bereikt in afwijking van [artikel 19b](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Derde&artikel=19b&z=2015-01-01&g=2015-01-01) recht op een toeslag voor de tijd die bij de berekening van het pensioen in aanmerking is genomen. Dit recht bestaat indien en voor zolang recht bestaat op een nabestaandenuitkering krachtens de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), die krachtens [artikel 67, derde of zesde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=67) vanaf 1 januari 1998 wordt verminderd wegens de omstandigheid dat de weduwe vanaf een tijdstip voor 1 juli 1996 met dezelfde persoon ononderbroken ongehuwd samenwoont.
 
@@ -226,17 +250,17 @@ Op schriftelijk verzoek van de weduwe, die aantoont, dat een rente of uitkering,
 
 4. Het [derde en vijfde lid van artikel 19b](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Derde&artikel=19b&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 19d
+##### Artikel 19d
 
 Bij gelijktijdige aanspraak op meerdere pensioenen of uitkeringen waarop een naar aard en strekking soortgelijke toeslag wordt verleend als bedoeld in de [artikelen 19b](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Derde&artikel=19b&z=2015-01-01&g=2015-01-01) en [19c](https://wetten.overheid.nl/jci1.3:c:BWBR0002507&afdeling=Vierde&hoofdstuk=Derde&artikel=19c&z=2015-01-01&g=2015-01-01), wordt de in die artikelen bedoelde toeslag zodanig verminderd, dat het totaal van de toeslagen gelijk is aan de maximaal op grond van genoemde artikelen toe te kennen toeslag.
 
 ### hoofdstuk Vierde. Uitvoeringsbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 Indien zowel beperking van de uitbetaling van een pensioen krachtens het bepaalde in deze afdeling als krachtens het bepaalde in artikel 17 van het pensioenreglement moet plaatsvinden, vindt eerst de laatstgenoemde beperking plaats.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien een betrokkene een algemeen ouderdomspensioen, een algemene nabestaandenuitkering of een algemene wezenuitkering gaat genieten, of indien in het bedrag daarvan een wijziging wordt aangebracht op grond van persoonlijke omstandigheden van hemzelf, zijn echtgenoot of zijn kinderen, dan wel het genot van een algemene nabestaandenuitkering of een algemene wezenuitkering eindigt, is hij gehouden hiervan onverwijld kennis te geven aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
@@ -244,17 +268,17 @@ Indien zowel beperking van de uitbetaling van een pensioen krachtens het bepaald
 
 3. In bijzondere gevallen kan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties het vorige lid buiten toepassing laten.
 
-#### Artikel 22
+##### Artikel 22
 
 Indien een algemeen ouderdomspensioen, een algemene nabestaandenuitkering of een algemene wezenuitkering wordt toegekend of herzien over een tijdvak, waarover reeds een pensioen werd uitbetaald, kan de Sociale verzekeringsbank hetgeen dientengevolge te veel aan pensioen werd genoten, ten behoeve van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, inhouden op het algemeen ouderdomspensioen, het algemeen weduwenpensioen of het algemeen wezenpensioen, voor zover betrekking hebbende op evengenoemd tijdvak.
 
-#### Artikel 23
+##### Artikel 23
 
 De bepalingen van deze afdeling blijven buiten toepassing ten aanzien van degenen, die op grond van gemoedsbezwaren hun aanspraak op algemeen ouderdomspensioen, of een uitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) niet geldig maken.
 
 ### afdeling Vijfde. Overgangs- en slotbepalingen
 
-#### Artikel 24
+##### Artikel 24
 
 1. Ten aanzien van degene, die op 30 juni 1964 recht had zowel op pensioen als op algemeen ouderdomspensioen, algemeen weduwenpensioen of algemeen wezenpensioen en tengevolge van de bepalingen van deze wet minder aan pensioen inbegrepen de daarop vallende toeslagen zou ontvangen dan hem op 30 juni 1964 zou toekomen indien de voor het tijdstip van inwerkingtreding van deze wet geldende bepalingen van kracht waren gebleven, wordt de beperking met een zodanig bedrag verminderd, dat aan pensioen, inbegrepen de daarop vallende toeslagen, niet minder wordt ontvangen, dan op 30 juni 1964 het geval was.
 
@@ -262,15 +286,15 @@ De bepalingen van deze afdeling blijven buiten toepassing ten aanzien van degene
 
 3. Met ingang van de dag waarop voor belanghebbende na 30 juni 1964 recht op een lager bedrag aan algemeen ouderdomspensioen, algemeen weduwenpensioen of algemeen wezenpensioen onderscheidenlijk op of na 1 juli 1996 aan een algemene nabestaandenuitkering, of een algemene wezenuitkering ontstaat, wordt het in het vorige lid bedoelde bedrag zodanig lager gesteld, alsof de omstandigheid die tot wijziging leidde reeds op 30 juni 1964 aanwezig was geweest.
 
-#### Artikel 25
+##### Artikel 25
 
 Indien het bedrag, dat over enig tijdvak aan belanghebbende is betaald bij wijze van voorschot op het bedrag waarop krachtens deze wet over dat tijdvak recht bestaat, laatstgenoemd bedrag overtreft, wordt het meerdere niet teruggevorderd.
 
-#### Artikel 26
+##### Artikel 26
 
 Toeslagen op pensioenen, toegekend bij wijze van voorschot op door het voormalige gouvernement van Nederlands-Nieuw-Guinea voorgenomen regelingen vervallen.
 
-#### Artikel 26a
+##### Artikel 26a
 
 1. Indien terzake van het genot van een eigen pensioen, toegekend met toepassing van artikel 8, eerste lid, sub IV of V van het pensioenreglement, een weduwenpensioen of een wezenonderstand premie wordt geheven krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en de de“de de” moet zijn ”de”[Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), wordt aan de rechthebbende daarvoor een vergoeding verleend.
 
@@ -282,45 +306,45 @@ Toeslagen op pensioenen, toegekend bij wijze van voorschot op door het voormalig
 
 5. De vorige leden zijn van overeenkomstige toepassing ten aanzien van personen, aan wie vrijstelling van premie-betaling ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) of ingevolge de de“de de” moet zijn ”de”[Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) is verleend.
 
-#### Artikel 27
+##### Artikel 27
 
 Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is bevoegd in bijzondere gevallen, waarin de toepassing van deze wet tot een naar zijn oordeel onredelijke uitkomst leidt, ten gunste van de belanghebbende een beslissing te nemen, die met de strekking van deze wet overeenkomt.
 
-#### Artikel 27a
+##### Artikel 27a
 
 1. Indien degene die recht heeft op een pensioen, ingevolge het bepaalde bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) een bijdrage verschuldigd is in de kosten van zorg, is Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties bevoegd het pensioen en de daarop verleende toeslagen tot ten hoogste het bedrag van die bijdrage in de plaats van aan de rechthebbende zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58).
 
 2. Artikel 10 van de wet van 25 mei 1962 (**Stb.** 196) is niet van toepassing op een ingevolge het vorige lid genomen beslissing.
 
-#### Artikel 28
+##### Artikel 28
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Door de leden van het Bijstandkorps dient tenzij bij algemene maatregel van bestuur anders wordt bepaald, 8,5 % van 87,5 % van de onverminderde maandelijke inkomsten, niet inbegrepen de kindertoelage, waarop zij als zodanig aanspraak hebben, aan 's Rijks Kas te worden bijgedragen, met dien verstande dat 2,5 % geldt als bijdrage voor het eigen pensioen en 6 % als bijdrage voor de weduwen- en wezenpensioenen.
 
 2. Ingeval inhouding van de in het eerste lid bedoelde bijdrage op de maandelijkse inkomsten van het lid van het Bijstandkorps niet mogelijk is, vindt verhaal daarvan plaats overeenkomstig het bepaalde in artikel 6 van het pensioenreglement, met dien verstande dat de bijdrage voor de weduwen- en wezenpensioenen tevens verhaalbaar is op het eigen pensioen.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Voor de toepassing van artikel 16, derde lid, van het pensioenreglement wordt na 31 december 1962 geen rekening gehouden met een beperking van de uitbetaling van een pensioen krachtens het bepaalde in de vierde afdeling.
 
 2. Met ingang van 1 januari 1995 wordt geen toepassing gegeven aan artikel 17 van het pensioenreglement.
 
-#### Artikel 31
+##### Artikel 31
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 32
+##### Artikel 32
 
 Bij algemene maatregel van bestuur kunnen nadere regelen worden gesteld voor de uitvoering van deze wet.
 
-#### Artikel 33
+##### Artikel 33
 
 Deze wet kan worden aangehaald als: Wet aanpassing pensioenvoorzieningen Bijstandkorps.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Deze wet treedt in werking met ingang van de tweede dag na die van uitgifte van het **Staatsblad** waarin zij wordt geplaatst en werkt, behoudens het bepaalde in het volgende lid, terug tot 1 januari 1963.
 

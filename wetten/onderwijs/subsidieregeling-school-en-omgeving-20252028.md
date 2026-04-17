@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling School en Omgeving 2025–2028"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap 13 februari 2025, nr. 47049187, houdende regels voor de subsidiëring van een verrijkte schooldag voor leerlingen in het primair onderwijs, voortgezet onderwijs, speciaal onderwijs en voortgezet speciaal onderwijs 2025–2028 (Subsidieregeling School en Omgeving 2025–2028)"
 identifier: "BWBR0050794"
-categorie: "Onderwijs"
-publicatiedatum: 2025-10-29
-laatste_update: 2025-10-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050794"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-29"
+last_updated: "2025-10-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050794"
+soort: "ministeriele-regeling"
+stam_id: "17372943"
+version_id: "30992752"
+internal_id: "C44386191"
+label_id: "17275934"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050794/2025-10-29/0"
+intitule_bron: "Stcrt.2025-6304"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-02-13"
+intitule_published: "2025-02-21"
+intitule_in_force: "2025-02-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-36523"
+original_signed_date: "2025-10-16"
+original_published_date: "2025-10-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-36523"
+entry_into_force_date: "2025-10-16"
+jci_1_3: "jci1.3:c:BWBR0050794&z=2025-10-29&g=2025-10-29"
+jci_1_0: "1.0:c:BWBR0050794&g=2025-10-29"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling School en Omgeving 2025–2028"
+signed_date: "2025-10-16"
+entry_into_force: "2025-10-16"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap 13 februari 2025, nr. 47049187, houdende regels voor de subsidiëring van een verrijkte schooldag voor leerlingen in het primair onderwijs, voortgezet onderwijs, speciaal onderwijs en voortgezet speciaal onderwijs 2025–2028 (Subsidieregeling School en Omgeving 2025–2028)
 
 Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -68,11 +94,11 @@ In deze regeling wordt verstaan onder:
 
 - **vestiging:** hoofdvestiging of nevenvestiging als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), hoofdvestiging of nevenvestiging als bedoeld in [artikel 76a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=76a), hoofdvestiging als bedoeld [artikel 4.13 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.13), nevenvestiging als bedoeld in [artikel 4.14 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.14) of tijdelijke nevenvestiging als bedoeld in [artikel 4.16 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.16).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
+##### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
 
 1. De minister kan voor de schooljaren 2025–2026, 2026–2027 en 2027–2028 subsidie verstrekken aan een bevoegd gezag van een school met een vestiging die is opgenomen in [bijlage 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&bijlage=1&z=2025-10-29&g=2025-10-29), als deelnemer aan een lokale coalitie voor het uitvoeren van een programma School en Omgeving, dat aansluit bij het curriculum van de desbetreffende school en ten dienste staat van een succesvolle schoolloopbaan.
 
@@ -100,7 +126,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 4. Op grond van deze regeling wordt geen subsidie verstrekt aan een bevoegd gezag voor een vestiging die deel uitmaakt van een lokale coalitie waarvoor middelen zijn aangevraagd door een gemeente op grond van de Regeling kansrijke wijk.
 
-#### Artikel 4. Regievoerder en coalitie-aanmelding
+##### Artikel 4. Regievoerder en coalitie-aanmelding
 
 1. Eén bevoegd gezag van één van de deelnemende vestigingen in de lokale coalitie treedt namens de lokale coalitie op als regievoerder.
 
@@ -128,7 +154,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 5. Indien de regievoerder zijn taken aan een nieuwe regievoerder overdraagt, maakt de oorspronkelijke regievoerder daar melding van bij DUS-I.
 
-#### Artikel 5. Aanvraag subsidie
+##### Artikel 5. Aanvraag subsidie
 
 1. De subsidie wordt door het bevoegd gezag van een vestiging aangevraagd. Het bevoegd gezag kan per vestiging maximaal één aanvraag indienen.
 
@@ -154,7 +180,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 6. Indien een bevoegd gezag op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-10-29&g=2025-10-29), een subsidieaanvraag doet, maakt het plan van aanpak van de lokale coalitie, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=4&z=2025-10-29&g=2025-10-29), onderdeel uit van deze subsidieaanvraag.
 
-#### Artikel 6. Subsidieplafond, maximale hoogte subsidie en activiteitenperiode
+##### Artikel 6. Subsidieplafond, maximale hoogte subsidie en activiteitenperiode
 
 1. Voor subsidieverstrekking overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=9&z=2025-10-29&g=2025-10-29) is op grond van deze regeling in totaal een bedrag beschikbaar van € 835.976.165,40, waarvan:
 
@@ -182,13 +208,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 5. Indien één of meerdere subsidieplafonds, bedoeld in het eerste lid, niet of niet volledig worden benut, dan worden de resterende middelen uit andere subsidieplafonds verdeeld over de volledig benutte subsidieplafonds naar rato van de overvraag op de andere subsidieplafonds.
 
-#### Artikel 7. Subsidiebedrag
+##### Artikel 7. Subsidiebedrag
 
 1. Het subsidiebedrag voor een vestiging wordt berekend door het aantal opgegeven leerlingen van de desbetreffende vestiging dat naar verwachting zal deelnemen aan het programma School en Omgeving te vermenigvuldigen met een bedrag van € 264,– per aangevraagd klokuur per schooljaar.
 
 2. Indien een vestiging waarvoor subsidie wordt aangevraagd een totaal leerlingenaantal van 150 of minder heeft, wordt het subsidiebedrag voor de desbetreffende vestiging aangevuld met een aanvullend subsidiebedrag. Voor het totaal leerlingenaantal wordt gekeken naar de leerlingtelling van de Dienst Uitvoering Onderwijs met teldatum 1 februari 2024 voor het primair onderwijs en de leerlingtelling van teldatum 1 oktober 2022 voor het voortgezet onderwijs, zoals geregistreerd bij de Dienst Uitvoering Onderwijs. Het aanvullende subsidiebedrag wordt berekend door 150 te verminderen met het aantal leerlingen waarvoor subsidie wordt aangevraagd, waarbij het resulterende getal wordt vermenigvuldigd met € 52,80 per aangevraagd klokuur. Dit aanvullende bedrag wordt voor alle drie de schooljaren berekend.
 
-#### Artikel 8. Verplichtingen coalitie-aanmelding en subsidieaanvraag
+##### Artikel 8. Verplichtingen coalitie-aanmelding en subsidieaanvraag
 
 1. In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) worden aan de subsidieontvanger de volgende verplichtingen opgelegd:
 
@@ -206,7 +232,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 2. De minister verzoekt de regievoerder uiterlijk op 1 november 2028 een kwaliteitsrapport bij DUS-I in te dienen, waarvoor door DUS-I in juni 2025 een format voor beschikbaar wordt gesteld.
 
-#### Artikel 9. Verlening, besteding en betaling
+##### Artikel 9. Verlening, besteding en betaling
 
 1. In afwijking van [artikel 9.1, vierde lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1) wordt de subsidie verleend binnen 13 weken na afloop van de periode waarin de aanvragen kunnen worden ingediend.
 
@@ -240,7 +266,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 8. Indien tussentijds omhoog wordt bijgesteld, als bedoeld in [artikel 6 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=6&z=2025-10-29&g=2025-10-29), vindt er een extra betaling plaats in september 2026, die het aanvullende budget voor 50 procent van schooljaar 2026–2027 betreft.
 
-#### Artikel 10. Verantwoording, vaststelling en terugvordering
+##### Artikel 10. Verantwoording, vaststelling en terugvordering
 
 1. De verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132), met model G, onderdeel 1.
 
@@ -260,21 +286,21 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 9. De subsidieontvanger toont op verzoek van de minister aan dat de activiteiten waarvoor subsidie is verstrekt zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie verbonden zijn.
 
-#### Artikel 11. Hardheidsclausule
+##### Artikel 11. Hardheidsclausule
 
 De minister kan één of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing daarvan gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zou leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 12. Caribisch Nederland
+##### Artikel 12. Caribisch Nederland
 
 Deze regeling is niet van toepassing op scholen op Caribisch Nederland.
 
-#### Artikel 13. Inwerkingtreding en geldigheidsduur
+##### Artikel 13. Inwerkingtreding en geldigheidsduur
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2030 met dien verstande dat zij van toepassing blijft ten aanzien van subsidies die op grond van deze regeling zijn verstrekt.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling School en Omgeving 2025–2028.
 
@@ -14480,7 +14506,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling School en Omgeving 2025–2
 | 26NC02 | 51 | 0 | 0,0000 |
 | 26NE00 | 78 | 0 | 0,0000 |
 
-#### Artikel 9a. Aanvullend subsidiebedrag
+##### Artikel 9a. Aanvullend subsidiebedrag
 
 1. De Minister verleent aan het bevoegd gezag van een vestiging als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050794&artikel=3&z=2025-10-29&g=2025-10-29), die voor het eerst in 2025 subsidie ontvangt voor de uitvoering van het programma School en Omgeving als bedoeld in artikel 3, tweede lid, ambtshalve een aanvullend subsidiebedrag.
 

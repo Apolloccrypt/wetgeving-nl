@@ -1,13 +1,38 @@
 ---
 title: "Erkenningsregeling Beroepservaringperiode"
 identifier: "BWBR0033701"
-categorie: "Overig"
-publicatiedatum: 2013-09-01
-laatste_update: 2013-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033701"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-09-01"
+last_updated: "2013-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033701"
+soort: "zbo"
+stam_id: "12319573"
+version_id: "20657892"
+internal_id: "C29578651"
+label_id: "12290744"
+dtd_version: "2.0"
+original_entry_into_force: "2013-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033701/2013-09-01/0"
+intitule_bron: "Stcrt.2013-21023"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-07-17"
+intitule_published: "2013-07-25"
+intitule_in_force: "2013-07-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-21023"
+original_signed_date: "2013-07-17"
+original_published_date: "2013-07-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-21023"
+entry_into_force_date: "2013-09-01"
+jci_1_3: "jci1.3:c:BWBR0033701&z=2013-09-01&g=2013-09-01"
+jci_1_0: "1.0:c:BWBR0033701&g=2013-09-01"
+citeertitel_status: "officieel"
+signed_date: "2013-07-17"
+entry_into_force: "2013-09-01"
 ---
-
 # Erkenningsregeling Beroepservaringperiode
 
 Gelet op [artikel 30 van de Regeling Beroepservaringperiode](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&artikel=30);
@@ -18,7 +43,7 @@ Besluit:
 
 ### Hoofdstuk I. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk II. Erkenning van een aanbieder
 
-#### Artikel 2
+##### Artikel 2
 
 1. Erkenning van een aanbieder van een geïntegreerd beroepservaringprogramma of van beroepservaringmodules geschiedt, op schriftelijk verzoek van de aanbieder, door het bureau architectenregister, gehoord de commissie beroepservaringperiode.
 
@@ -38,7 +63,7 @@ In deze regeling wordt verstaan onder:
 
 3. Op het verzoek wordt door het bureau architectenregister binnen acht weken beslist.
 
-#### Artikel 3
+##### Artikel 3
 
 Erkenning van een aanbieder vindt slechts plaats indien aan de volgende voorwaarden is voldaan:
 
@@ -46,7 +71,7 @@ Erkenning van een aanbieder vindt slechts plaats indien aan de volgende voorwaar
 
 - b. de aanbieder beschikt over een programmacommissie van ten minste drie leden, waarvan ten minste twee leden niet aan de aanbieder zijn gelieerd.
 
-#### Artikel 4
+##### Artikel 4
 
 Het kwaliteitsplan van de aanbieder bevat ten minste:
 
@@ -76,7 +101,7 @@ Het kwaliteitsplan van de aanbieder bevat ten minste:
 
 - m. een verklaring dat de aanbieder aan iedere kandidaat een certificaat verstrekt indien een geïntegreerd beroepservaringprogramma met goed gevolg is doorlopen of een beroepservaringmodule met goed gevolg is bijgewoond.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Door of namens het bureau architectenregister kan eenmaal per drie jaar worden gecontroleerd of de aanbieder voldoet aan zijn kwaliteitsplan.
 
@@ -86,7 +111,7 @@ Het kwaliteitsplan van de aanbieder bevat ten minste:
 
 ### Hoofdstuk III. Erkenning van beroepservaringprogramma’s en modules
 
-#### Artikel 6
+##### Artikel 6
 
 1. Erkenning van een geïntegreerd beroepservaringprogramma of van beroeps-ervaringmodules geschiedt door het bureau architectenregister op schriftelijk verzoek van de krachtens [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0033701&hoofdstuk=II&z=2013-09-01&g=2013-09-01) erkende aanbieder.
 
@@ -98,7 +123,7 @@ Het kwaliteitsplan van de aanbieder bevat ten minste:
 
 5. Indien niet wordt voldaan aan de verplichting, bedoeld in het vierde lid, kan het bureau architectenregister de erkenning intrekken.
 
-#### Artikel 7
+##### Artikel 7
 
 1. In afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033701&hoofdstuk=III&artikel=6&z=2013-09-01&g=2013-09-01), kunnen bureaus, instellingen en organisaties die niet krachtens [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0033701&hoofdstuk=II&z=2013-09-01&g=2013-09-01) zijn erkend, erkenning verzoeken voor binnen die bureaus, instellingen of organisaties incidenteel gegeven beroepservaringmodules die om niet aan medewerkers worden aangeboden.
 
@@ -126,10 +151,10 @@ Het kwaliteitsplan van de aanbieder bevat ten minste:
 
 ### Hoofdstuk IV. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van 1 september 2013.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling kan worden aangehaald als ‘Erkenningsregeling Beroepservaringperiode’.

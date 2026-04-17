@@ -1,13 +1,39 @@
 ---
-title: "Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010"
+title: "Besluit van 28 december 2010 tot wijziging van het Rechtspositiebesluit commissarissen van de Koning, het Rechtspositiebesluit burgemeesters, het Rechtspositiebesluit gedeputeerden, het Rechtspositiebesluit wethouders, het Rechtspositiebesluit staten- en commissieleden, het Rechtspositiebesluit raads- en commissieleden, het Waterschapsbesluit en het Rechtspositiebesluit Rijksvertegenwoordiger BES in verband met het van toepassing worden van de Algemene pensioenwet politieke ambtsdragers op commissarissen van de Koning, burgemeesters en voorzitters van waterschapsbesturen, de gevolgen van de Fiscale vereenvoudigingswet en enkele andere wijzigingen (Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010)"
 identifier: "BWBR0029407"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-01-12
-laatste_update: 2011-01-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029407"
+country: "nl"
+rank: "amvb"
+publication_date: "2011-01-12"
+last_updated: "2011-01-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029407"
+soort: "AMvB"
+stam_id: "11199833"
+version_id: "18334182"
+internal_id: "C25534301"
+label_id: "11173904"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029407/2011-01-12/0"
+intitule_bron: "Stb.2011-5"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-28"
+intitule_published: "2011-01-11"
+intitule_in_force: "2011-01-11"
+intitule_status: "goed"
+original_publication: "Stb.2011-5"
+original_signed_date: "2010-12-28"
+original_published_date: "2011-01-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2011-5"
+entry_into_force_date: "2011-01-12"
+jci_1_3: "jci1.3:c:BWBR0029407&z=2011-01-12&g=2011-01-12"
+jci_1_0: "1.0:c:BWBR0029407&g=2011-01-12"
+citeertitel_status: "officieel"
+short_title: "Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010"
+signed_date: "2010-12-28"
+entry_into_force: "2011-01-12"
 ---
-
 # Besluit van 28 december 2010 tot wijziging van het Rechtspositiebesluit commissarissen van de Koning, het Rechtspositiebesluit burgemeesters, het Rechtspositiebesluit gedeputeerden, het Rechtspositiebesluit wethouders, het Rechtspositiebesluit staten- en commissieleden, het Rechtspositiebesluit raads- en commissieleden, het Waterschapsbesluit en het Rechtspositiebesluit Rijksvertegenwoordiger BES in verband met het van toepassing worden van de Algemene pensioenwet politieke ambtsdragers op commissarissen van de Koning, burgemeesters en voorzitters van waterschapsbesturen, de gevolgen van de Fiscale vereenvoudigingswet en enkele andere wijzigingen (Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 11 november 2010, 2010-0000708842, CZW/WVOB;
@@ -20,43 +46,43 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Rechtspositiebesluit commissarissen van de Koning.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Rechtspositiebesluit burgemeesters.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Rechtspositiebesluit gedeputeerden.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Rechtspositiebesluit wethouders.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Rechtspositiebesluit staten- en commissieleden.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Rechtspositiebesluit raads- en commissieleden.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Waterschapsbesluit.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Rechtspositiebesluit Rijksvertegenwoordiger BES.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Rechtspositiebesluit commissarissen van de Koning, het Rechtspositiebesluit burgemeesters, het Rechtspositiebesluit gedeputeerden, het Rechtspositiebesluit wethouders, het Rechtspositiebesluit raads- en commissieleden, het het Waterschapsbesluit en het Rechtspositiebesluit Rijksvertegenwoordiger BES.
 
-#### Artikel X
+##### Artikel X
 
 1. [Artikel I, onderdelen A, onder 2, B, D, E, F en R](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=I&z=2011-01-12&g=2011-01-12), [artikel II, onderdelen A, D, N, O, P en U](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=II&z=2011-01-12&g=2011-01-12), [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=III&z=2011-01-12&g=2011-01-12), [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=IV&z=2011-01-12&g=2011-01-12), [artikel V, onderdelen A, B, C, D, E, onder 1 en 2, en F](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=V&z=2011-01-12&g=2011-01-12), [artikel VI, onderdelen A, B, C, D, E, F, H en I](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VI&z=2011-01-12&g=2011-01-12), [artikel VII, onderdelen A, B, C, E, F, M en N](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VII&z=2011-01-12&g=2011-01-12), en [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VIII&z=2011-01-12&g=2011-01-12) treden in werking met ingang van 1 januari 2011. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 januari 2011, treden de in de vorige zin genoemde artikelonderdelen in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, en werken terug tot en met 1 januari 2011.
 
@@ -66,7 +92,7 @@ Wijzigt het Rechtspositiebesluit commissarissen van de Koning, het Rechtspositie
 
 4. [Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=I&z=2011-01-12&g=2011-01-12), [artikel II, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=II&z=2011-01-12&g=2011-01-12), en [artikel VII, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VII&z=2011-01-12&g=2011-01-12), treden in werking met ingang van 1 januari 2015.
 
-#### Artikel XI
+##### Artikel XI
 
 Dit besluit wordt aangehaald als: Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010.
 

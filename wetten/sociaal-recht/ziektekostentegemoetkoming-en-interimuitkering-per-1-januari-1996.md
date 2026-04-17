@@ -1,13 +1,34 @@
 ---
 title: "Ziektekostentegemoetkoming en interimuitkering per 1 januari 1996"
 identifier: "BWBR0007828"
-categorie: "Sociaal recht"
-publicatiedatum: 1996-01-01
-laatste_update: 1996-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007828"
+country: "nl"
+rank: "circulaire"
+publication_date: "1996-01-01"
+last_updated: "1996-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007828"
+soort: "circulaire"
+stam_id: "6311563"
+version_id: "10970712"
+internal_id: "C14868051"
+label_id: "6300444"
+original_entry_into_force: "1996-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007828/1996-01-01/0"
+intitule_bron: "Stcrt.1996-73"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1996-04-15"
+intitule_in_force: "1996-04-15"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-73"
+original_published_date: "1996-04-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1996-73-p7-SC5680"
+entry_into_force_date: "1996-01-01"
+jci_1_3: "jci1.3:c:BWBR0007828&z=1996-01-01&g=1996-01-01"
+jci_1_0: "1.0:c:BWBR0007828&g=1996-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1996-01-01"
 ---
-
 # Ziektekostentegemoetkoming en interimuitkering per 1 januari 1996
 
 Circulaire aan de ministers

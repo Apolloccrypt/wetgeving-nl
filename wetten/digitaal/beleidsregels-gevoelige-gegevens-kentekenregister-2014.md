@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregels gevoelige gegevens kentekenregister 2014"
 identifier: "BWBR0036178"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2015-01-21
-laatste_update: 2015-01-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036178"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-01-21"
+last_updated: "2015-01-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036178"
+soort: "zbo"
+stam_id: "12963863"
+version_id: "22078682"
+internal_id: "C31657541"
+label_id: "12932994"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036178/2015-01-21/0"
+intitule_bron: "Stcrt.2015-1141"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-22"
+intitule_published: "2015-01-19"
+intitule_in_force: "2015-01-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-1141"
+original_signed_date: "2014-12-22"
+original_published_date: "2015-01-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-1141"
+entry_into_force_date: "2015-01-21"
+jci_1_3: "jci1.3:c:BWBR0036178&z=2015-01-21&g=2015-01-21"
+jci_1_0: "1.0:c:BWBR0036178&g=2015-01-21"
+citeertitel_status: "officieel"
+signed_date: "2014-12-22"
+entry_into_force: "2015-01-21"
 ---
-
 # Beleidsregels gevoelige gegevens kentekenregister 2014
 
 De directie van de Dienst Wegverkeer (DW),
@@ -16,21 +41,21 @@ Gelet op [artikel 42a, vierde lid van de Wegenverkeerswet 1994](https://wetten.o
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Als gevoelige gegevens, als bedoeld in [artikel 42a, eerste lid, onderdeel b, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=42a) en [artikel 7, tweede lid van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=7), worden de in de bijlage bij dit besluit genoemde gegevens uit het kentekenregister aangewezen.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze beleidsregels treden in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij worden geplaatst.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze beleidsregels worden aangehaald als: Beleidsregels gevoelige gegevens kentekenregister 2014
 
 Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 De [Beleidsregels gevoelige gegevens kentekenregister](https://wetten.overheid.nl/jci1.3:c:BWBR0025247) (Staatscourant 2009, nr. 21) worden ingetrokken.
 

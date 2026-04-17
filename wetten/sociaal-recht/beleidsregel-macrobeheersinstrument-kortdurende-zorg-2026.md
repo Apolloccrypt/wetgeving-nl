@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel macrobeheersinstrument kortdurende zorg 2026"
 identifier: "BWBR0051288"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051288"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051288"
+soort: "zbo"
+stam_id: "17479243"
+version_id: "30826562"
+internal_id: "C44176841"
+label_id: "17381534"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051288/2026-01-01/0"
+intitule_bron: "Stcrt.2025-24504"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-08"
+intitule_published: "2025-07-18"
+intitule_in_force: "2025-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-24504"
+original_signed_date: "2025-07-08"
+original_published_date: "2025-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-24504"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051288&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051288&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-08"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel macrobeheersinstrument kortdurende zorg 2026
 
 Gelet op [artikel 57, eerste lid, onderdeel d, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om een grens vast te stellen op grond van [artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
@@ -26,7 +51,7 @@ Gelet op [artikel 59, aanhef en onder c, van de Wmg](https://wetten.overheid.nl/
 
 Gelet op [artikel 59, aanhef en onder c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Staatssecretaris van Volksgezondheid, Welzijn en Sport met een brief van 13 maart 2025, met [kenmerk 4063416-1079243-PZO](https://wetten.overheid.nl/jci1.3:c:BWBR0050866), ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7), aan de NZa gegeven. Deze aanwijzing dateert van 13 maart 2025 en heeft als kenmerk 4063416-1079243-PZO.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -98,11 +123,11 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - –. gerealiseerde omzet Wzd: de omzet in kalenderjaar t verkregen uit declaratie van de prestaties Wzd die uiterlijk 1 december jaar t+1 zijn gehonoreerd, inclusief de correcties volgend uit de materiële controles tot 1 december jaar t+1.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Doel van deze beleidsregel is vastlegging van de wijze waarop de NZa ontstane overschrijdingen van het Budgettair kader zorg betrekking hebbend op de kortdurende zorg met behulp van een macrobeheersinstrument achteraf redresseert.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op zorgaanbieders die:
 
@@ -114,13 +139,13 @@ Deze beleidsregel is van toepassing op zorgaanbieders die:
 
 Deze beleidsregel is mede van toepassing op de zorg onder de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632) zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051288&artikel=1&z=2026-01-01&g=2026-01-01) van deze beleidsregel.
 
-#### Artikel 4. Grenzen
+##### Artikel 4. Grenzen
 
 1. Voorafgaand aan het kalenderjaar t stelt de NZa in een beschikking als bedoeld in[artikel 50, tweede lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), ambtshalve een collectieve bovengrens vast. De som van de door afzonderlijke zorgaanbieders gezamenlijk in jaar t te realiseren omzet mag deze collectieve bovengrens niet overschrijden.
 
 2. Voorafgaand aan het kalenderjaar t stelt de NZa ambtshalve in een beschikking als bedoeld in [artikel 50, tweede lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) een individuele bovengrens per individuele zorgaanbieder vast. De in kalenderjaar t te realiseren omzet mag deze individuele bovengrens niet overschrijden.
 
-#### Artikel 5. Macrobeheersinstrument
+##### Artikel 5. Macrobeheersinstrument
 
 1. Indien sprake blijkt (te zijn geweest) van een overschrijding van de bovengrens, maakt de NZa die overschrijding op last van de minister ongedaan met gebruikmaking van het macrobeheersinstrument. De NZa maakt de hiervoor genoemde beschikking bekend door publicatie op haar website, toezending aan branche- en koepelorganisaties en door publicatie in de Staatscourant.
 
@@ -148,11 +173,11 @@ Deze beleidsregel is mede van toepassing op de zorg onder de [Wet zorg en dwang 
 
 9. De NZa legt in de Regeling macrobeheersinstrument kortdurende zorg 2026 vast op welke wijze en op welk moment zorgverzekeraars haar over de gerealiseerde omzet van de zorgaanbieders dienen te informeren.
 
-#### Artikel 6. Intrekken oude beleidsregels
+##### Artikel 6. Intrekken oude beleidsregels
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de beleidsregel ‘[Beleidsregel macrobeheersinstrument kortdurende zorg 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0046795)’, met kenmerk BR/REG-23108, ingetrokken.
 
-#### Artikel 7. Bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 7. Bekendmaking, inwerkingtreding en citeertitel
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2026.
 

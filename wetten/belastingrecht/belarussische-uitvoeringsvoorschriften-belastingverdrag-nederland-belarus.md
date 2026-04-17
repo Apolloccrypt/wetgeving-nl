@@ -1,13 +1,38 @@
 ---
-title: "Belarussische uitvoeringsvoorschriften belastingverdrag Nederland-Belarus"
+title: "Belarussische voorschriften tot uitvoering van het op 26 maart 1996 tussen Nederland en Belarus gesloten Verdrag tot het vermijden van dubbele belasting"
 identifier: "BWBR0010319"
-categorie: "Belastingrecht"
-publicatiedatum: 1999-03-25
-laatste_update: 1999-03-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010319"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1999-03-25"
+last_updated: "1999-03-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010319"
+soort: "ministeriele-regeling"
+stam_id: "4774883"
+version_id: "6581102"
+internal_id: "C7038341"
+label_id: "4752914"
+dtd_version: "2.0"
+original_entry_into_force: "1999-03-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010319/1999-03-25/0"
+intitule_bron: "Stcrt.1999-57"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-03-08"
+intitule_published: "1999-03-23"
+intitule_in_force: "1999-03-23"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-57"
+original_signed_date: "1999-03-08"
+original_published_date: "1999-03-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-03-25"
+jci_1_3: "jci1.3:c:BWBR0010319&z=1999-03-25&g=1999-03-25"
+jci_1_0: "1.0:c:BWBR0010319&g=1999-03-25"
+citeertitel_status: "officieel"
+short_title: "Belarussische uitvoeringsvoorschriften belastingverdrag Nederland-Belarus"
+signed_date: "1999-03-08"
+entry_into_force: "1999-03-25"
 ---
-
 # Belarussische voorschriften tot uitvoering van het op 26 maart 1996 tussen Nederland en Belarus gesloten Verdrag tot het vermijden van dubbele belasting
 
 Besluit:
@@ -16,7 +41,7 @@ Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende 
 
 Regeling inzake vermindering en vrijstelling van Belarussische belasting op voordelen uit de exploitatie van schepen of luchtvaartuigen in internationaal verkeer, dividenden, interest, royalty’s, licentierechten en overige inkomsten genoten door inwoners van Nederland
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan het op 26 maart 1996 tussen Nederland en Belarus gesloten Verdrag tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen en het Protocol bij dat Verdrag (Trb. 1996, 119), kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van het Verdrag en onderdelen van het Protocol:
 
@@ -52,7 +77,7 @@ De in de onderdelen b, c, i, j, k en l van dit artikel vermelde verminderingen w
 
 De in onderdelen b, c, i, j, k en l van dit artikel vermelde verminderingen zijn niet van toepassing indien de genieter van de dividenden, de interest of de royalty’s in Belarus een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in Belarus zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest wordt betaald of het recht of de zaak uit hoofde waarvan de royalty’s worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort (artikel 10, zevende lid, respectievelijk artikel 11, zesde lid, en artikel 12, vierde lid).
 
-#### Artikel 2. Belarussische regeling
+##### Artikel 2. Belarussische regeling
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010319&artikel=1&z=1999-03-25&g=1999-03-25) is van Belarussische zijde de volgende regeling getroffen:
 
@@ -74,7 +99,7 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010319&a
 
 - 5. **Verkrijgbaarheid van de Belarussische formulieren** Exemplaren van de Belarussische formulieren “Application for reduction or exemption from tax on income of a foreign legal person which does not carry on activity in the Republic of Belarus through a permanent establishment” en “Application for a refund of tax withheld at source in the Republic of Belarus on income of a foreign legal person which does not carry on activity in the Republic of Belarus through a permanent establishment” zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in Belarus bij het Ministry of Finance, 9 Sovetskaya Street, Minsk 220010.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Belarussische uitvoeringsvoorschriften belastingverdrag Nederland-Belarus.
 

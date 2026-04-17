@@ -1,13 +1,38 @@
 ---
 title: "Besluit mandaat, volmacht en machtiging ambtelijke organisatie Tweede Kamer der Staten-Generaal 2024"
 identifier: "BWBR0050261"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2024-10-01
-laatste_update: 2024-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050261"
+country: "nl"
+rank: "reglement"
+publication_date: "2024-10-01"
+last_updated: "2024-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050261"
+soort: "reglement"
+stam_id: "17233243"
+version_id: "30351512"
+internal_id: "C43530781"
+label_id: "17139114"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050261/2024-10-01/0"
+intitule_bron: "Stcrt.2024-32474"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-09-26"
+intitule_published: "2024-10-04"
+intitule_in_force: "2024-10-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-32474"
+original_signed_date: "2024-09-26"
+original_published_date: "2024-10-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-32474"
+entry_into_force_date: "2024-10-01"
+jci_1_3: "jci1.3:c:BWBR0050261&z=2024-10-01&g=2024-10-01"
+jci_1_0: "1.0:c:BWBR0050261&g=2024-10-01"
+citeertitel_status: "officieel"
+signed_date: "2024-09-26"
+entry_into_force: "2024-10-01"
 ---
-
 # Besluit mandaat, volmacht en machtiging ambtelijke organisatie Tweede Kamer der Staten-Generaal 2024
 
 Overwegende dat het gewenst is nadere regels te stellen ten aanzien van de beslissings- en ondertekeningbevoegdheden bij publiekrechtelijke en privaatrechtelijke rechtshandelingen en feitelijke handelingen;
@@ -20,7 +45,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -68,13 +93,13 @@ In dit besluit wordt verstaan onder:
 
 - v. **UWV:** Uitvoeringsinstituut Werknemersverzekeringen.
 
-#### Artikel 2. Organisatie
+##### Artikel 2. Organisatie
 
 De structuur van de ambtelijke organisatie van de Tweede Kamer en daarmee de portefeuilles zijn vastgesteld conform het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050261&bijlage=1&z=2024-10-01&g=2024-10-01) opgenomen organogram.
 
 ### Hoofdstuk 2. Mandaat, volmacht en machtiging
 
-#### Artikel 3. Mandaat, volmacht en machtiging directeuren
+##### Artikel 3. Mandaat, volmacht en machtiging directeuren
 
 Aan de directeuren wordt mandaat, volmacht of machtiging verleend tot:
 
@@ -98,7 +123,7 @@ Aan de directeuren wordt mandaat, volmacht of machtiging verleend tot:
 
 - ii. het verlenen van opdrachten voor het aannemen van werk;
 
-#### Artikel 4. Volmacht en machtiging diensthoofden HR, FEZ en Automatisering en diensthoofd Juridische Zaken
+##### Artikel 4. Volmacht en machtiging diensthoofden HR, FEZ en Automatisering en diensthoofd Juridische Zaken
 
 1. Aan het diensthoofd HR wordt volmacht of machtiging verleend tot:
 
@@ -148,7 +173,7 @@ Aan de directeuren wordt mandaat, volmacht of machtiging verleend tot:
 
 4. Het diensthoofd van de dienst Juridische Zaken is in verzoekschrift-, bezwaarschrift- en beroepschriftprocedures – met betrekking tot de AVG, de [Who](https://wetten.overheid.nl/jci1.3:c:BWBR0036795) en de [Woo](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) – gemachtigd de Tweede Kamer in rechte te vertegenwoordigen en verweer te voeren.
 
-#### Artikel 5. Volmacht en machtiging van diensthoofden en leidinggevenden
+##### Artikel 5. Volmacht en machtiging van diensthoofden en leidinggevenden
 
 1. Aan de diensthoofden wordt volmacht en machtiging verleend tot:
 
@@ -170,13 +195,13 @@ Aan de directeuren wordt mandaat, volmacht of machtiging verleend tot:
 
 2. Met uitzondering van artikel 5, eerste lid, onder a, van dit besluit wordt aan de leidinggevenden machtiging verleend voor het uitoefenen van integraal management ten aanzien van zijn eigen team, tenzij in dit besluit anders is bepaald.
 
-#### Artikel 6. Tijdelijk mandaat, volmacht of machtiging
+##### Artikel 6. Tijdelijk mandaat, volmacht of machtiging
 
 Een directeur of diensthoofd kan onder hem of haar ressorterende medewerkers tijdelijk en schriftelijk mandaat, volmacht of machtiging verlenen voor bepaald omschreven (gedeeltelijke) bevoegdheden.
 
 ### Hoofdstuk 3. Beperkingen
 
-#### Artikel 7. Uitgezonderde bevoegdheden
+##### Artikel 7. Uitgezonderde bevoegdheden
 
 1. Het mandaat, de volmacht of machtiging aan een directeur, een diensthoofd of een leidinggevende betreft niet:
 
@@ -188,7 +213,7 @@ Een directeur of diensthoofd kan onder hem of haar ressorterende medewerkers tij
 
 - d. met een medewerker overeenkomsten te sluiten, betreffende de beëindiging van hun arbeidsovereenkomst en daarbij al dan niet een regeling te treffen.
 
-#### Artikel 8. Toepassingsbereik
+##### Artikel 8. Toepassingsbereik
 
 Aangelegenheden waarvan de aard zich verzet tegen verlening van mandaat of volmacht zijn in ieder geval beslissingen:
 
@@ -198,7 +223,7 @@ Aangelegenheden waarvan de aard zich verzet tegen verlening van mandaat of volma
 
 - c. waarbij een functionaris aangaande personele en financiële aangelegenheden een besluit neemt ten aanzien van zichzelf.
 
-#### Artikel 9. Grensbedragen en informatieplicht portefeuillehouders
+##### Artikel 9. Grensbedragen en informatieplicht portefeuillehouders
 
 1. Met betrekking tot alle financiële taken en bevoegdheden als bedoeld in dit besluit geldt dat:
 
@@ -212,7 +237,7 @@ Aangelegenheden waarvan de aard zich verzet tegen verlening van mandaat of volma
 
 3. Bij het verlenen van bevoegdheden als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050261&hoofdstuk=2&artikel=6&z=2024-10-01&g=2024-10-01) van dit besluit worden aan de verlening de grensbedragen gekoppeld, zoals bedoeld in artikel 9, eerste lid, van dit besluit.
 
-#### Artikel 10. Grensbedragen en ondertekening diensthoofden en andere medewerkers
+##### Artikel 10. Grensbedragen en ondertekening diensthoofden en andere medewerkers
 
 1. De diensthoofden zijn bevoegd voor hun dienst de in [artikel 5, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0050261&hoofdstuk=2&artikel=5&z=2024-10-01&g=2024-10-01), van dit besluit genoemde overeenkomsten af te sluiten en opdrachten aan te nemen voor verplichtingen tot een bedrag van € 175.000,– en betalingen te verrichten tot eenzelfde bedrag.
 
@@ -228,7 +253,7 @@ Aangelegenheden waarvan de aard zich verzet tegen verlening van mandaat of volma
 
 ### Hoofdstuk 4. Ondertekening mandaat en volmacht
 
-#### Artikel 11. Ondertekening mandaat en volmacht
+##### Artikel 11. Ondertekening mandaat en volmacht
 
 1. Indien overeenkomstig dit besluit een besluit in mandaat wordt genomen, luidt de ondertekening: De Tweede Kamer der Staten-Generaal, namens deze de Griffier van de Tweede Kamer, namens deze, vervolgens de handtekening met daaronder de naam en functieaanduiding van de desbetreffende directeur, diensthoofd, leidinggevende of manager.
 
@@ -236,7 +261,7 @@ Aangelegenheden waarvan de aard zich verzet tegen verlening van mandaat of volma
 
 ### Hoofdstuk 5. Vervanging
 
-#### Artikel 12. Afwezigheid
+##### Artikel 12. Afwezigheid
 
 1. De plaatsvervangend Griffier vervangt de Griffier bij kortdurende afwezigheid.
 
@@ -248,7 +273,7 @@ Aangelegenheden waarvan de aard zich verzet tegen verlening van mandaat of volma
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 13. Mandaat-, volmacht- en machtigingsregister
+##### Artikel 13. Mandaat-, volmacht- en machtigingsregister
 
 1. Het diensthoofd FEZ is verantwoordelijk voor (het beheer van) een openbaar register van alle verleende mandaten, volmachten en machtigingen.
 
@@ -256,7 +281,7 @@ Aangelegenheden waarvan de aard zich verzet tegen verlening van mandaat of volma
 
 3. De citeertitel van het openbare register is: ‘Mandaat- volmacht- en machtigingsregister Tweede Kamer der Staten-Generaal’.
 
-#### Artikel 14. Intrekking en overgangsrecht
+##### Artikel 14. Intrekking en overgangsrecht
 
 1. Met de inwerkingtreding van onderhavig besluit wordt het [Besluit mandaat, volmacht en machtiging ambtelijke organisatie Tweede Kamer der Staten-Generaal 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047726) van 30 december 2022 ingetrokken.
 
@@ -264,7 +289,7 @@ Aangelegenheden waarvan de aard zich verzet tegen verlening van mandaat of volma
 
 3. Voor het tijdstip van inwerkingtreding van dit besluit van kracht zijnde mandaten, ondermandaten, volmachten en machtigingen, waarin op het tijdstip van inwerkingtreding van dit besluit niet is voorzien, blijven van kracht totdat op grond van dit besluit is voorzien in mandaat, ondermandaat, volmacht of machtiging dan wel is voorzien in intrekking daarvan.
 
-#### Artikel 15. Inwerkingtreding en citeertitel
+##### Artikel 15. Inwerkingtreding en citeertitel
 
 1. Dit besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van 1 oktober 2024.
 

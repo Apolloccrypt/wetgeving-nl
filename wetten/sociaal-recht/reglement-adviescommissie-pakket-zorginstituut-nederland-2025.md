@@ -1,13 +1,38 @@
 ---
 title: "Reglement Adviescommissie Pakket Zorginstituut Nederland 2025"
 identifier: "BWBR0050885"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-03-26
-laatste_update: 2025-03-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050885"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-03-26"
+last_updated: "2025-03-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050885"
+soort: "zbo"
+stam_id: "17391273"
+version_id: "30659512"
+internal_id: "C43956911"
+label_id: "17294624"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050885/2025-03-26/0"
+intitule_bron: "Stcrt.2025-10926"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-03-11"
+intitule_published: "2025-03-25"
+intitule_in_force: "2025-03-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-10926"
+original_signed_date: "2025-03-11"
+original_published_date: "2025-03-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-10926"
+entry_into_force_date: "2025-03-26"
+jci_1_3: "jci1.3:c:BWBR0050885&z=2025-03-26&g=2025-03-26"
+jci_1_0: "1.0:c:BWBR0050885&g=2025-03-26"
+citeertitel_status: "officieel"
+signed_date: "2025-03-11"
+entry_into_force: "2025-03-26"
 ---
-
 # Reglement Adviescommissie Pakket Zorginstituut Nederland 2025
 
 Gelet op [artikel 59a, eerste lid van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59a) en [artikel 8, derde lid, van het Bestuursreglement Zorginstituut Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&artikel=8);
@@ -16,7 +41,7 @@ heeft in zijn vergadering van 11 maart 2025 besloten:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1.1. begripsbepalingen
+##### Artikel 1.1. begripsbepalingen
 
 Dit reglement verstaat onder:
 
@@ -44,7 +69,7 @@ Dit reglement verstaat onder:
 
 ### Hoofdstuk 2. Taak van de adviescommissie
 
-#### Artikel 2.1. Taak
+##### Artikel 2.1. Taak
 
 1. De adviescommissie heeft tot taak:
 
@@ -58,7 +83,7 @@ Dit reglement verstaat onder:
 
 ### Hoofdstuk 3. Secretariaat
 
-#### Artikel 3.1. De rol en samenstelling van het secretariaat
+##### Artikel 3.1. De rol en samenstelling van het secretariaat
 
 1. De adviescommissie wordt ondersteund door een secretariaat.
 
@@ -88,7 +113,7 @@ Dit reglement verstaat onder:
 
 ### Hoofdstuk 4. Persoonlijke belangen
 
-#### Artikel 4.1. Omgaan met persoonlijke belangen
+##### Artikel 4.1. Omgaan met persoonlijke belangen
 
 1. De adviescommissie verricht haar taak onpartijdig en zonder vooringenomenheid.
 
@@ -114,7 +139,7 @@ Dit reglement verstaat onder:
 
 9. Indien het lid een persoonlijk belang heeft dat niet is uitgesloten op grond van artikel 4.1, zesde lid, maakt het lid een expliciete afweging over de vraag of en onder welke voorwaarden deelgenomen kan worden aan de beraadslaging over het onderwerp. Het lid overlegt met de voorzitter en secretaris over het persoonlijke belang om na te gaan of met de voorgenomen beheersmaatregelen de onafhankelijkheid van de adviescommissie is gewaarborgd.
 
-#### Artikel 4.2. Persoonlijke belangen medewerkers
+##### Artikel 4.2. Persoonlijke belangen medewerkers
 
 1. Voorafgaand aan de voorbereiding van een onderwerp gaan de secretaris, plaatsvervangend secretaris en de overig betrokken medewerkers van het Zorginstituut na of zij een persoonlijk belang hebben bij dat onderwerp, als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050885&hoofdstuk=4&artikel=4.1&z=2025-03-26&g=2025-03-26). Indien een secretaris, plaatsvervangend secretaris of een overig betrokken medewerker van het Zorginstituut een persoonlijk belang heeft bij het onderwerp, meldt hij dit onmiddellijk bij zijn direct leidinggevende.
 
@@ -122,7 +147,7 @@ Dit reglement verstaat onder:
 
 ### Hoofdstuk 5. Werkwijze
 
-#### Artikel 5.1. Vergaderingen
+##### Artikel 5.1. Vergaderingen
 
 1. De voorzitter belegt in overleg met het secretariaat de vergaderingen van de adviescommissie en bepaalt de tijd, plaats en werkwijze van de vergaderingen. Verder belegt de voorzitter een vergadering zo dikwijls hij dit nodig acht.
 
@@ -132,7 +157,7 @@ Dit reglement verstaat onder:
 
 4. De adviescommissie kan ten behoeve van een advies externe deskundigen raadplegen.
 
-#### Artikel 5.2. Agenda
+##### Artikel 5.2. Agenda
 
 1. Het secretariaat stelt in overleg met de voorzitter de agenda voor de vergaderingen van de adviescommissie op.
 
@@ -142,7 +167,7 @@ Dit reglement verstaat onder:
 
 4. Onderwerpen die niet op de agenda staan worden niet in behandeling genomen, tenzij de meerderheid van de aanwezige leden de behandeling ervan van eenvoudige of spoedeisende aard verklaart.
 
-#### Artikel 5.3. Orde van de vergadering
+##### Artikel 5.3. Orde van de vergadering
 
 1. De voorzitter leidt de vergadering en is belast met de handhaving van de orde in de vergadering.
 
@@ -154,7 +179,7 @@ Dit reglement verstaat onder:
 
 5. De voorzitter kan de beraadslagingen sluiten, zodra hij meent, dat een onderwerp voldoende is toegelicht.
 
-#### Artikel 5.4. Advisering aan het Zorginstituut
+##### Artikel 5.4. Advisering aan het Zorginstituut
 
 1. De adviescommissie adviseert de Raad van Bestuur.
 
@@ -170,7 +195,7 @@ Dit reglement verstaat onder:
 
 7. De adviezen zijn openbaar en worden op de website van het Zorginstituut bekend gemaakt.
 
-#### Artikel 5.5. Inspraak
+##### Artikel 5.5. Inspraak
 
 1. Eenieder kan schriftelijk uiterlijk tot en met de vierde dag voor de vergadering van de adviescommissie bij de secretaris om mondelinge inspraak tijdens die vergadering verzoeken. De voorzitter beslist over het verzoek.
 
@@ -178,19 +203,19 @@ Dit reglement verstaat onder:
 
 3. Commissieleden kunnen eenieder die mondelinge inspraak tijdens een vergadering wenst voor inspraak bij de voorzitter voordragen.
 
-#### Artikel 5.6. Afstemming tussen de adviescommissie en de Raad van Bestuur
+##### Artikel 5.6. Afstemming tussen de adviescommissie en de Raad van Bestuur
 
 De voorzitter heeft tenminste drie keer per jaar overleg met de voorzitter van de Raad van Bestuur.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 6.1. Intrekking en inwerkingtreding
+##### Artikel 6.1. Intrekking en inwerkingtreding
 
 1. Het [Reglement Adviescommissie Pakket Zorginstituut Nederland van 5 december 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038880) wordt ingetrokken.
 
 2. Dit reglement treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 6.2. Citeertitel
+##### Artikel 6.2. Citeertitel
 
 Dit besluit kan worden aangehaald als: Reglement Adviescommissie Pakket Zorginstituut Nederland 2025.
 

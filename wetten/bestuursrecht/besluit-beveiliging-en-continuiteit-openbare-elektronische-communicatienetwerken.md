@@ -1,13 +1,39 @@
 ---
-title: "Besluit beveiliging en continuïteit openbare elektronische communicatienetwerken en -diensten"
+title: "Besluit van 19 oktober 2012, houdende nadere regels met betrekking tot technische en organisatorische eisen ter beperking van risico’s voor de veiligheid en de integriteit, de meldplicht van inbreuken op de veiligheid en verliezen van integriteit, de verstrekking van informatie voor de beoordeling van de veiligheid en de integriteit en de aanwijzing van inbreuken op de veiligheid en verliezen van integriteit van openbare elektronische communicatienetwerken en -diensten (Besluit continuïteit openbare elektronische communicatienetwerken en -diensten)"
 identifier: "BWBR0032149"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-03-02
-laatste_update: 2022-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032149"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-03-02"
+last_updated: "2022-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032149"
+soort: "AMvB"
+stam_id: "11887893"
+version_id: "23639072"
+internal_id: "C34031001"
+label_id: "11860044"
+dtd_version: "2.0"
+original_entry_into_force: "2016-10-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032149/2022-03-02/0"
+intitule_bron: "Stb.2012-514"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-10-19"
+intitule_published: "2012-10-30"
+intitule_in_force: "2012-10-30"
+intitule_status: "goed"
+original_publication: "Stb.2016-411"
+original_signed_date: "2016-10-27"
+original_published_date: "2016-11-02"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2016-411"
+entry_into_force_date: "2016-10-27"
+jci_1_3: "jci1.3:c:BWBR0032149&z=2022-03-02&g=2022-03-02"
+jci_1_0: "1.0:c:BWBR0032149&g=2022-03-02"
+citeertitel_status: "officieel"
+short_title: "Besluit beveiliging en continuïteit openbare elektronische communicatienetwerken en -diensten"
+signed_date: "2016-10-27"
+entry_into_force: "2016-10-27"
 ---
-
 # Besluit van 19 oktober 2012, houdende nadere regels met betrekking tot technische en organisatorische eisen ter beperking van risico’s voor de veiligheid en de integriteit, de meldplicht van inbreuken op de veiligheid en verliezen van integriteit, de verstrekking van informatie voor de beoordeling van de veiligheid en de integriteit en de aanwijzing van inbreuken op de veiligheid en verliezen van integriteit van openbare elektronische communicatienetwerken en -diensten (Besluit continuïteit openbare elektronische communicatienetwerken en -diensten)
 
 Op de voordracht van Onze Minister van Economische Zaken, Landbouw en Innovatie van 6 juli 2012, nr. WJZ / 12081040;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1a. Aanwijzing antenne-opstelpunten
 
-#### Artikel 2
+##### Artikel 2
 
 1. De aanbieder beschikt over een beveiligingsplan dat in ieder geval de volgende onderdelen bevat:
 
@@ -50,15 +76,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de maatregelen, bedoeld in [artikel 11a.1, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.1).
 
-#### Artikel 3
+##### Artikel 3
 
 De aanbieder inventariseert, beoordeelt en evalueert regelmatig, mede aan de hand van de in [artikel 11a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2) bedoelde meldingen, de risico’s voor de beveiliging van zijn netwerken en diensten. Hij verwerkt de resultaten hiervan in het beveiligingsplan, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=2&z=2022-03-02&g=2022-03-02).
 
-#### Artikel 4
+##### Artikel 4
 
 De aanbieder zorgt ervoor dat voor hem werkzame personen die betrokken zijn bij de voor de beveiliging van zijn netwerk of dienst relevante processen op de hoogte zijn van de inhoud van het continuïteitsplan, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=2&z=2022-03-02&g=2022-03-02), en zorgt ervoor dat die personen te allen tijde over dit beveiligingsplan kunnen beschikken.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aanbieder zorgt voor een deugdelijke beveiliging van zijn netwerk of dienst door in ieder geval:
 
@@ -70,7 +96,7 @@ De aanbieder zorgt ervoor dat voor hem werkzame personen die betrokken zijn bij 
 
 #### § 3. Meldplicht en informatieplicht
 
-#### Artikel 6
+##### Artikel 6
 
 1. Om te bepalen of een beveiligingsincident aanzienlijke gevolgen heeft als bedoeld in [artikel 11a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2), worden, voor zover beschikbaar, in elk geval in aanmerking genomen:
 
@@ -88,7 +114,7 @@ De aanbieder zorgt ervoor dat voor hem werkzame personen die betrokken zijn bij 
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van het eerste lid.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De aanbieder doet de in [artikel 11a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2) bedoelde melding bij het meldpunt.
 
@@ -120,11 +146,11 @@ De aanbieder zorgt ervoor dat voor hem werkzame personen die betrokken zijn bij 
 
 - d. de informatievoorziening richting gebruikers over een dreigend beveiligingsincident, bedoeld in [artikel 11a.2, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2).
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 1. De aanbieder wijst een in Nederland gevestigde functionaris aan die verantwoordelijk is voor het doen van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=3&artikel=7&z=2022-03-02&g=2022-03-02) bedoelde melding en die tevens optreedt als eerste aanspreekpunt van de aanbieder voor het meldpunt in geval van een beveiligingsincident als bedoeld in [artikel 11a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2).
 
@@ -134,17 +160,17 @@ Vervallen
 
 #### § 3. Meldplicht en informatieplicht
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van 1 januari 2013.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit beveiliging en continuïteit openbare elektronische communicatienetwerken en -diensten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Als antenne-opstelpunten, bedoeld in [artikel 11a.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.3), worden aangewezen de opstelpunten met een hoofdzender voor het verspreiden van programma’s voor het omroepnet voor radio van de regionale media-instelling, bedoeld in [artikel 3.7, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.7).
 
@@ -152,7 +178,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het St
 
 #### § 2. Technische en organisatorische maatregelen
 
-#### Artikel 2a
+##### Artikel 2a
 
 Voor zover voor de aanbieding van een openbaar elektronisch communicatienetwerk of een openbare elektronische communicatiedienst gebruik wordt gemaakt van een antenne-opstelpunt als aangewezen op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=1a&artikel=1a&z=2022-03-02&g=2022-03-02), beschikt de aanbieder over een continuïteitsplan dat in ieder geval een beschrijving bevat van de risico’s en maatregelen, bedoeld in [artikel 11a.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.1), met betrekking tot de volgende onderwerpen:
 
@@ -170,7 +196,7 @@ Voor zover voor de aanbieding van een openbaar elektronisch communicatienetwerk 
 
 - g. onderbreking van de elektriciteitsvoorziening.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Een continuïteitsplan als bedoeld in [artikel 11a.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.3), bevat in elk geval de volgende onderdelen:
 
@@ -198,7 +224,7 @@ Voor zover voor de aanbieding van een openbaar elektronisch communicatienetwerk 
 
 - g. onderbreking van de elektriciteitsvoorziening.
 
-#### Artikel 5b
+##### Artikel 5b
 
 1. Een continuïteitsplan als bedoeld in [artikel 11a.3, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.3), bevat in elk geval de volgende onderdelen:
 

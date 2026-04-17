@@ -1,18 +1,44 @@
 ---
-title: "Instellingsbesluit Rathenau Instituut"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2009, nr. OWB/FO/130825, houdende de herziening van het Besluit van de Staatssecretaris van Onderwijs en Wetenschappen van 19 april 1994, nr. OWB/FO-93070908, aangaande de instelling van het Rathenau Instituut (Instellingbesluit Rathenau Instituut)"
 identifier: "BWBR0026157"
-categorie: "Overig"
-publicatiedatum: 2009-07-24
-laatste_update: 2009-07-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026157"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-07-24"
+last_updated: "2009-07-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026157"
+soort: "ministeriele-regeling"
+stam_id: "10137343"
+version_id: "16574042"
+internal_id: "C22822721"
+label_id: "10113464"
+dtd_version: "2.0"
+original_entry_into_force: "2009-07-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026157/2009-07-24/0"
+intitule_bron: "Stcrt.2009-11024"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-07-03"
+intitule_published: "2009-07-22"
+intitule_in_force: "2009-07-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-11024"
+original_signed_date: "2009-07-03"
+original_published_date: "2009-07-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-11024"
+entry_into_force_date: "2009-07-24"
+jci_1_3: "jci1.3:c:BWBR0026157&z=2009-07-24&g=2009-07-24"
+jci_1_0: "1.0:c:BWBR0026157&g=2009-07-24"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Rathenau Instituut"
+signed_date: "2009-07-03"
+entry_into_force: "2009-07-24"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2009, nr. OWB/FO/130825, houdende de herziening van het Besluit van de Staatssecretaris van Onderwijs en Wetenschappen van 19 april 1994, nr. OWB/FO-93070908, aangaande de instelling van het Rathenau Instituut (Instellingbesluit Rathenau Instituut)
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -26,13 +52,13 @@ In dit besluit wordt verstaan onder:
 
 - e. **WHW:** de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
 
-#### Artikel 2. Instelling
+##### Artikel 2. Instelling
 
 1. Er is een Nederlands instituut voor ‘Technology Assessment’ en ‘Science System Assessment’, genaamd Rathenau Instituut.
 
 2. Het instituut is gevestigd te Den Haag.
 
-#### Artikel 3. Taken
+##### Artikel 3. Taken
 
 1. Het instituut heeft als taak bij te dragen aan het maatschappelijke debat en de politieke oordeelsvorming over vraagstukken die samenhangen met of het gevolg zijn van wetenschappelijke en of technologische ontwikkelingen waaronder de ethische, de maatschappelijke, de culturele en de wettelijke aspecten daarvan. Het instituut levert in het bijzonder bijdragen aan de politieke oordeelsvorming in de beide Kamers van de Staten-Generaal en in het Europese parlement.
 
@@ -44,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 5. Ter ondersteuning van haar taken kan het instituut onderzoek verrichten of doen verrichten.
 
-#### Artikel 4. Bestuur
+##### Artikel 4. Bestuur
 
 1. Het instituut heeft een bestuur bestaande uit een voorzitter en ten hoogste acht overige leden.
 
@@ -62,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 8. Het bestuur kan een programmaraad instellen ten behoeve van het instituut, die het bestuur adviseert over het voorgenomen werkprogramma zoals voorgesteld door de directeur.
 
-#### Artikel 5. Programma
+##### Artikel 5. Programma
 
 1. Het bestuur stelt ter uitvoering van de taken van het instituut een tweejarig werkprogramma vast. Alvorens tot vaststelling van een werkprogramma over te gaan, voert het bestuur overleg met betrokken instellingen en organisaties, waaronder in ieder geval de KNAW en de WRR, alsmede met de minister.
 
@@ -72,7 +98,7 @@ In dit besluit wordt verstaan onder:
 
 4. Het bestuur stelt jaarlijks een inhoudelijk verslag vast over de werkzaamheden van het afgelopen jaar. In het verslag maakt het bestuur melding van de wijze waarop bij de uitvoering van het werkprogramma rekening is gehouden met het standpunt van de minister en met de eventuele opmerkingen van de beide Kamers van de Staten-Generaal. Het bestuur zendt het verslag toe aan de minister. Het verslag wordt door de minister ter kennisneming naar de beide Kamers van de Staten-Generaal gezonden.
 
-#### Artikel 6. Beheer van het instituut
+##### Artikel 6. Beheer van het instituut
 
 1. De KNAW voert het beheer over het instituut. Daarbij waarborgt de KNAW het inhoudelijk onafhankelijk functioneren van het instituut.
 
@@ -96,7 +122,7 @@ In dit besluit wordt verstaan onder:
 
 6. De directeur en het overige personeel van het instituut zijn in dienst van de KNAW.
 
-#### Artikel 7. Financiering, begroting en verantwoording
+##### Artikel 7. Financiering, begroting en verantwoording
 
 1. De KNAW stelt onverwijld het in de rijksbijdrage, bedoeld in [artikel 2.6a van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.6a), ten behoeve van het instituut genoemde bedrag ter beschikking aan het instituut.
 
@@ -106,7 +132,7 @@ In dit besluit wordt verstaan onder:
 
 4. Tenminste éénmaal per jaar voert het bestuur van het instituut overleg met de minister inzake de Rijksbijdrage aan het instituut alsmede over de voorbereiding en uitvoering van het werkprogramma.
 
-#### Artikel 8. Evaluatie
+##### Artikel 8. Evaluatie
 
 1. Elke vijf jaren wordt het instituut door een evaluatiecommissie beoordeeld op in ieder geval haar effectiviteit en doelmatigheid, mede aan de hand van een door het instituut op te stellen rapportage over haar activiteiten en werkwijze. Het resultaat van de evaluatie wordt uitgebracht nadat het bestuur van het instituut hierover is gehoord.
 
@@ -116,7 +142,7 @@ In dit besluit wordt verstaan onder:
 
 4. De beoordeling door de evaluatiecommissie en de rapportage van het instituut worden aan de minister gezonden, die deze stukken, vergezeld van een standpunt, aan de beide Kamers van de Staten-Generaal zendt.
 
-#### Artikel 9. Geschillenregeling, inwerkingtreding en overgangsbepaling
+##### Artikel 9. Geschillenregeling, inwerkingtreding en overgangsbepaling
 
 1. Indien zich geschillen voordoen tussen de KNAW en het instituut omtrent het onafhankelijk functioneren van het instituut, dan kunnen deze door het algemeen bestuur van de KNAW of het bestuur van het instituut worden voorgelegd aan de minister. De minister kan een onafhankelijke bemiddelaar aanwijzen die een voor de KNAW en het instituut bindend advies uitbrengt.
 
@@ -126,7 +152,7 @@ In dit besluit wordt verstaan onder:
 
 4. Bij de toepassing van dit besluit worden de rechtsgevolgen van besluiten die op grond van het in het vorige lid bedoelde besluit zijn genomen zoveel mogelijk in acht genomen.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Rathenau Instituut.
 

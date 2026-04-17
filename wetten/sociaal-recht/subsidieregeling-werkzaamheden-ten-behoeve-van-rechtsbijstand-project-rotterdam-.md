@@ -1,13 +1,38 @@
 ---
 title: "Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand project Rotterdam 2025"
 identifier: "BWBR0051554"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-10-03
-laatste_update: 2025-10-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051554"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-10-03"
+last_updated: "2025-10-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051554"
+soort: "zbo"
+stam_id: "17537463"
+version_id: "30947062"
+internal_id: "C44328431"
+label_id: "17438934"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051554/2025-10-03/0"
+intitule_bron: "Stcrt.2025-33227"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-08-29"
+intitule_published: "2025-10-02"
+intitule_in_force: "2025-10-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-33227"
+original_signed_date: "2025-08-29"
+original_published_date: "2025-10-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-33227"
+entry_into_force_date: "2025-10-03"
+jci_1_3: "jci1.3:c:BWBR0051554&z=2025-10-03&g=2025-10-03"
+jci_1_0: "1.0:c:BWBR0051554&g=2025-10-03"
+citeertitel_status: "officieel"
+signed_date: "2025-08-29"
+entry_into_force: "2025-10-03"
 ---
-
 # Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand project Rotterdam 2025
 
 gelet op [artikel 37b, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37b), waarin is bepaald dat het bestuur van de Raad ten behoeve van de verlening van rechtsbijstand subsidie kan verstrekken voor bijzondere doeleinden en projecten,
@@ -18,7 +43,7 @@ de volgende regeling vast te stellen
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze subsidieregeling wordt verstaan onder:
 
@@ -44,13 +69,13 @@ In deze subsidieregeling wordt verstaan onder:
 
 - i. **casusbespreking:** plenaire bespreking tussen de rechtsbijstandverlener en de overige deelnemers over meerdere casussen waarin rechtsbijstand is verleend.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Deze subsidieregeling heeft tot doel een kader te stellen onder welke voorwaarden een vergoeding verleend kan worden voor rechtsbijstandverlening in het kader van het project en de hoogte van deze vergoeding vast te stellen.
 
 ### Hoofdstuk II. Voorwaarden
 
-#### Artikel 3. Kwaliteitscriteria, deelname en beëindiging deelname
+##### Artikel 3. Kwaliteitscriteria, deelname en beëindiging deelname
 
 1. Het bestuur stelt de volgende kwaliteitscriteria vast:
 
@@ -82,7 +107,7 @@ Deze subsidieregeling heeft tot doel een kader te stellen onder welke voorwaarde
 
 - c. de rechtsbijstandverlener niet of niet meer aan de in lid 1 genoemde criteria voldoet.
 
-#### Artikel 4. De vergoeding
+##### Artikel 4. De vergoeding
 
 1. De vergoeding voor de rechtsbijstandverlening bedraagt één punt per maand, te vermenigvuldigen met het basisbedrag genoemd in het [eerste lid van artikel 3 van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=3).
 
@@ -94,7 +119,7 @@ Deze subsidieregeling heeft tot doel een kader te stellen onder welke voorwaarde
 
 5. Voor de additionele kosten die voortkomen uit de aanvraag van een vergoeding zoals bedoeld in lid 1, 2 en 3, ontvangt de rechtsbijstandverlener ten hoogste één maal per kwartaal de administratieve kostenvergoeding zoals die is geregeld in het [eerste lid van artikel 27 van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=27). Die vergoeding wordt bij de toekenning van een vergoeding aan de rechtsbijstandverlener vergoed.
 
-#### Artikel 5. Aanvragen vergoeding en besluit
+##### Artikel 5. Aanvragen vergoeding en besluit
 
 1. De vergoeding zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051554&hoofdstuk=II&artikel=4&z=2025-10-03&g=2025-10-03) wordt door de deelnemende rechtsbijstandverlener binnen drie maanden na de verrichte werkzaamheden gedeclareerd op een door de Raad voor Rechtsbijstand voorgeschreven formulier. In dit formulier wordt toegelicht waaruit de werkzaamheden hebben bestaan en hoeveel tijd daaraan is besteed.
 
@@ -104,13 +129,13 @@ Deze subsidieregeling heeft tot doel een kader te stellen onder welke voorwaarde
 
 ### Hoofdstuk III. Toepassing
 
-#### Artikel 6. Inwerkingtreding, duur en overgangsrecht
+##### Artikel 6. Inwerkingtreding, duur en overgangsrecht
 
 1. Deze subsidieregeling treedt in werking op de dag na publicatie daarvan in de Staatscourant, werkt terug tot 4 september 2025 en vervalt met ingang van 1 jaar na de datum van publicatie in de Staatscourant.
 
 2. Deze subsidieregeling is van toepassing op rechtsbijstandverlening die is aangevangen op en na 4 september 2025.
 
-#### Artikel 7. Aanhalen subsidieregeling
+##### Artikel 7. Aanhalen subsidieregeling
 
 Deze subsidieregeling wordt aangehaald als ‘Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand project Rotterdam 2025’
 

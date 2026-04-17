@@ -1,34 +1,60 @@
 ---
-title: "Regeling onderwijsaccountantsprotocol OCW 2021"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 24 januari 2022, nr. 29713506, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO, MBO en HO (Regeling onderwijsaccountantsprotocol OCW 2021)"
 identifier: "BWBR0046354"
-categorie: "Onderwijs"
-publicatiedatum: 2022-02-26
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046354"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-02-26"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046354"
+soort: "ministeriele-regeling"
+stam_id: "16277563"
+version_id: "28439802"
+internal_id: "C40133381"
+label_id: "16203634"
+dtd_version: "2.0"
+original_entry_into_force: "2022-02-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046354/2022-02-26/0"
+intitule_bron: "Stcrt.2022-3682"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-01-24"
+intitule_published: "2022-02-25"
+intitule_in_force: "2022-02-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-3682"
+original_signed_date: "2022-01-24"
+original_published_date: "2022-02-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-3682"
+entry_into_force_date: "2022-02-26"
+jci_1_3: "jci1.3:c:BWBR0046354&z=2022-02-26&g=2022-02-26"
+jci_1_0: "1.0:c:BWBR0046354&g=2022-02-26"
+citeertitel_status: "officieel"
+short_title: "Regeling onderwijsaccountantsprotocol OCW 2021"
+signed_date: "2022-01-24"
+entry_into_force: "2022-02-26"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 24 januari 2022, nr. 29713506, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO, MBO en HO (Regeling onderwijsaccountantsprotocol OCW 2021)
 
 Gelet op [artikel 157, vierde lid, tweede volzin, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=157), [artikel 171, vierde lid, tweede volzin, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171), de [artikelen 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=18), en [24, zevende lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=24), [artikel 5.2.5, eerste lid, van het Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=5.2.5) en [artikel 4.4, tweede lid, van het Uitvoeringsbesluit WHW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.4);
 
 Besluit:
 
-#### Artikel 1. Vaststelling onderwijsaccountantsprotocol OCW
+##### Artikel 1. Vaststelling onderwijsaccountantsprotocol OCW
 
 Het protocol voor de controle en onderzoek door de accountant over het jaar 2021 wordt vastgesteld overeenkomstig de bijlage bij deze regeling.
 
-#### Artikel 2. Intrekking [Regeling onderwijsaccountantsprotocol OCW/EZ 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037538)
+##### Artikel 2. Intrekking [Regeling onderwijsaccountantsprotocol OCW/EZ 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037538)
 
 De [Regeling onderwijsaccountantsprotocol OCW/EZ 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037538) wordt ingetrokken.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2021.
 
 2. Deze regeling heeft betrekking op het jaar 2021 en vervalt met ingang van 1 januari 2028.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling onderwijsaccountantsprotocol OCW 2021.
 

@@ -1,13 +1,35 @@
 ---
 title: "Protocol bij de Samenwerkingsovereenkomst tussen de Europese Economische Gemeenschap en de Syrische Arabische Republiek in verband met de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Gemeenschap"
 identifier: "BWBV0002641"
-categorie: "Internationaal recht"
-publicatiedatum: 1988-06-16
-laatste_update: 1988-06-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002641"
+country: "nl"
+rank: "verdrag"
+publication_date: "1988-06-16"
+last_updated: "1988-06-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002641"
+soort: "verdrag"
+stam_id: "10002958343"
+version_id: "10002961222"
+internal_id: "C10006997331"
+label_id: "10002945264"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002641/1988-06-16/0"
+intitule_bron: "Trb.1989-80"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1989-10-03"
+intitule_published: "1989-06-23"
+intitule_status: "nogniet"
+original_publication: "Trb.1989-80"
+original_signed_date: "1989-10-03"
+original_published_date: "1989-06-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1989-80"
+jci_1_3: "jci1.3:c:BWBV0002641&z=1988-06-16&g=1988-06-16"
+jci_1_0: "1.0:c:BWBV0002641&g=1988-06-16"
+citeertitel_status: "officieel"
+signed_date: "1989-10-03"
+entry_into_force: "1989-06-23"
 ---
-
 # Protocol bij de Samenwerkingsovereenkomst tussen de Europese Economische Gemeenschap en de Syrische Arabische Republiek in verband met de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Gemeenschap
 
 Zijne Majesteit de Koning der Belgen,
@@ -94,13 +116,13 @@ Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten,
 
 Overeenstemming hebben bereikt omtrent hetgeen volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Koninkrijk Spanje en de Portugese Repuoiiek worden overeenkomstsluitende partij bij de overeenkomst en bij de verklaringen gehecht aan de Slotakte ondertekend te Brussel op 18 januari 1977.
 
 ## TITEL I. AANPASSINGEN
 
-#### Artikel 2
+##### Artikel 2
 
 De teksten van de overeenkomst, met inbegrip van de bijlagen en protocollen die daarvan een integrerend bestanddeel vormen, alsmede van de aan de Slotakte gehechte verklaringen, opgesteld in de Spaanse en de Portugese taal, zijn onder dezelfde voorwaarden authentiek als de oorspronkelijke teksten. De Samenwerkingsraad keurt de Spaanse en Portugese versies goed.
 
@@ -110,7 +132,7 @@ De teksten van de overeenkomst, met inbegrip van de bijlagen en protocollen die 
 
 ## Deel I. Algemene regeling
 
-#### Artikel 3
+##### Artikel 3
 
 1. Met ingang van de inwerkingtreding van dit protocol past het Koninkrijk Spanje op de produkten van oorsprong uit Syrië invoerrechten toe die gelijk zijn aan die welke het op dezelfde produkten uit de Gemeenschap in haar samenstelling per 31 december 1985 toepast. Deze maatregel is van toepassing volgens de regels neergelegd in de leden 2 en 3 en in artikel 4.
 
@@ -134,7 +156,7 @@ De teksten van de overeenkomst, met inbegrip van de bijlagen en protocollen die 
 
 3. Bij toepassing van de overeenkomstig lid 2 berekende rechten wordt afgerond op de eerste decimaal door schrapping van de tweede decimaal.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor ieder produkt is het basisrecht waarop de in artikel 3, lid 2, bedoelde achtereenvolgende verlagingen moeten worden toegepast, het op 1 januari 1985 door het Koninkrijk Spanje ten opzichte van de Gemeenschap werkelijk toegepaste recht.
 
@@ -146,11 +168,11 @@ De teksten van de overeenkomst, met inbegrip van de bijlagen en protocollen die 
 |   | A. Sigaretten B. Sigaren en cigarillo's C. Rooktabak D. Pruimtabak en snuif E. andere, tabak geagglomereerd tot vellen daaronder begrepen | 50,0% 55,0% 46,8% 26,0% 10,4% |
 | 27.09 | Ruwe aardolie en ruwe oliën uit bitumineuze mineralen | vrij |
 
-#### Artikel 5
+##### Artikel 5
 
 Indien het Koninkrijk Spanje invoerrechten op uit de Gemeenschap in haar samenstelling per 31 december 1985 ingevoerde produkten schorst of sneller verlaagt dan volgens het vastgestelde tijdschema, schorst of verlaagt het met hetzelfde percentage de douanerechten van toepassing op dezelfde produkten van oorsprong uit Syrië.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het Koninkrijk Spanje past kwantitatieve invoerbeperkingen toe:
 
@@ -180,13 +202,13 @@ Indien het Koninkrijk Spanje de invoer van een van de in de bijlagen I en II bed
 
 5. Het Koninkrijk Spanje past bij het beheer van de in lid 2 bedoelde contingenten dezelfde regels en administratieve handelwijzen toe als bij de invoer van produkten van oorsprong uit de Gemeenschap in haar samenstelling per 31 december 1985.
 
-#### Artikel 7
+##### Artikel 7
 
 Voor de onder Verordening (EEG) nr. 3033/80 vallende produkten van oorsprong uit Syrië schaft het Koninkrijk Spanje met ingang van de inwerkingtreding van dit protocol, uitgaande van het in bijlage III vermelde basisrecht en volgens het in artikel 3, lid 2, aangegeven tijdschema, geleidelijk de douanerechten af die het vaste element van de belasting vormen.
 
 ## Deel II. Produkten vermeld in bijlage II bij het Verdrag tot oprichting van de Europese Economische Gemeenschap
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voor de produkten bedoeld in bijlage II bij het Verdrag tot oprichting van de Europese Economische Gemeenschap, van oorsprong uit Syrië, past het Koninkrijk Spanje, onder voorbehoud van de onderstaande bijzondere bepalingen, een recht toe waarbij het verschil tussen het basisrecht en het preferentiële recht volgens onderstaand ritme wordt verkleind:
 
@@ -232,11 +254,11 @@ Het Koninkrijk Spanje past de preferentiële rechten volledig toe vanaf 1 januar
 
 3. Het in lid 1 bedoelde basisrecht is het in artikel 4, lid 1, omschreven recht.
 
-#### Artikel 9
+##### Artikel 9
 
 Tot en met 31 december 1989 kunnen bij de invoer in Spanje van de in bijlage IV vermelde produkten van oorsprong uit Syrië kwantitatieve beperkingen worden toegepast.
 
-#### Artikel 10
+##### Artikel 10
 
 Ten aanzien van de in artikel 8, lid 1, bedoelde produkten die op 1 maart 1986 niet onder een gemeenschappelijke marktordening vallen, zijn de bepalingen van de overeenkomst inzake de afschaffing van de heffingen van gelijke werking als douanerechten en de afschaffing van de kwantitatieve beperkingen en maatregelen van gelijke werking niet van toepassing op deze heffingen, beperkingen en maatregelen wanneer zij op het tijdstip van toetreding deel uitmaken van een nationale marktordening in Spanje.
 
@@ -244,7 +266,7 @@ Deze bepaling geldt slechts tot het ogenblik waarop de gemeenschappelijke markto
 
 ## Deel III. Canarische eilanden en Ceuta en Melilla
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onverminderd de onderstaande bepalingen geldt voor het handelsverkeer van de Canarische eilanden en Ceuta en Melilla met Syrië dezelfde regeling als die welke in het handelsverkeer tussen de Gemeenschap en Syrië wordt toegepast, op voorwaarde dat de Syrische Arabische Republiek de produkten van oorsprong uit de Canarische eilanden en Ceuta en Melilla op dezelfde wijze behandelt als die van oorsprong uit de Gemeenschap.
 
@@ -264,7 +286,7 @@ Deze heffing mag op geen enkel tijdstip hoger zijn dan het peil van het Spaanse 
 
 ## Deel I. Algemene regeling
 
-#### Artikel 12
+##### Artikel 12
 
 1. Met ingang van de inwerkingtreding van dit Protocol schaft de Portugese Republiek de invoerrechten op produkten van oorsprong uit Syrië af.
 
@@ -286,17 +308,17 @@ Deze heffing mag op geen enkel tijdstip hoger zijn dan het peil van het Spaanse 
 
 3. Bij toepassing van de overeenkomstig lid 2 berekende rechten wordt afgerond op de eerste decimaal door schrapping van de tweede decimaal.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Voor ieder produkt is het basisrecht waarop de in artikel 12, lid 2, bedoelde achtereenvolgende verlagingen moeten worden toegepast, het op 1 januari 1985 door de Portugese Republiek ten opzichte van Syrië werkelijk toegepaste recht
 
 2. In afwijking van lid 1 gaat de Portugese Republiek bij de afschaffing van de douanerechten op de in bijlage VII opgenomen produkten 'uit van de in die bijlage aangegeven basisrechten, op voorwaarde dat die rechten hoger zijn dan de door de Portugese Republiek op 1 januari 1985 ten opzichte van Syrië werkelijk toegepaste douanerechten.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien de Portugese Republiek douanerechten op uit de Gemeenschap in haar samenstelling per 31 december 1985 ingevoerde produkten schorst of sneller verlaagt dan volgens het vastgestelde tijdschema, schorst of verlaagt zij met hetzelfde percentage eveneens de douanerechten op dezelfde produkten van oorsprong uit Syrië.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De heffingen van gelijke werking als invoerrechten die door de Portugese Republiek op produkten van oorsprong uit Syrië worden toegepast, worden bij de inwerkingtreding van dit protocol afgeschaft.
 
@@ -322,7 +344,7 @@ Indien de Portugese Republiek douanerechten op uit de Gemeenschap in haar samens
 
 - -. op 1 januari 1991 afgeschaft.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De Portugese Republiek schaft bij de inwerkingtreding van dit protocol de douanerechten van fiscale aard of het fiscale element van de douanerechten die op die datum bestaan af met betrekking tot de invoer van produkten van oorsprong uit Syrië.
 
@@ -330,17 +352,17 @@ Indien de Portugese Republiek douanerechten op uit de Gemeenschap in haar samens
 
 3. Indien de Portugese Republiek gebruik maakt van de mogelijkheid waarover zij krachtens artikel 196, lid 3, van de Toetredingsakte beschikt om een douanerecht van fiscale aard of het fiscale element van een douanerecht te vervangen door een binnenlandse belasting, vertegenwoordigt het eventueel niet door de binnenlandse belasting gedekte element het basisrecht waarvan bij de achtereenvolgende verlagingen moet worden uitgegaan. Dit element wordt in het handelsverkeer met Syrië geleidelijk afgeschaft volgens het in artikel 12, lid 2, bedoelde ritme.
 
-#### Artikel 17
+##### Artikel 17
 
 De Portugese Republiek handhaaft tot en met 31 december 1987 kwantitatieve beperkingen bij invoer ten opzichte van Syrië van automobielen die vallen onder de bijzondere regeling welke overeenkomstig Protocol nr. 18 van de Toetredingsakte tussen de Gemeenschap en de Portugese Republiek is overeengekomen.
 
-#### Artikel 18
+##### Artikel 18
 
 Voor de onder Verordening (EEG) nr. 3033/80 vallende produkten van oorsprong uit Syrië schaft de Portugese Republiek, uitgaande van het in bijlage IX vermelde basisrecht en volgens het in artikel 12, lid 2, aangegeven ritme, geleidelijk de douanerechten af die het vaste element van de belasting vormen.
 
 ## Deel II. Produkten vermeld in bijlage II bij het Verdrag tot oprichting van de Europese Economische Gemeenschap
 
-#### Artikel 19
+##### Artikel 19
 
 1. Voor de produkten bedoeld in bijlage II bij het Verdrag tot oprichting van de Europese Economische Gemeenschap van oorsprong uit Syrië past de Portugese Republiek, onder voorbehoud van onderstaande bijzondere bepalingen, een recht toe waarbij het verschil tussen het basisrecht en het preferentiële recht volgens onderstaand ritme wordt verkleind:
 
@@ -402,11 +424,11 @@ De Portugese Republiek past voor deze produkten met ingang van de tweede etappe 
 
 3. Het in lid 1 bedoelde basisrecht is het in artikel 13, lid 1, omschreven recht.
 
-#### Artikel 20
+##### Artikel 20
 
 Tot en met 31 december 1992 kunnen op de invoer in Portugal van de in bijlage X vermelde produkten van oorsprong uit Syrië kwantitatieve beperkingen worden toegepast.
 
-#### Artikel 21
+##### Artikel 21
 
 Ten aanzien van de in artikel 19, lid 1, bedoelde produkten die op 1 maart 1986 niet onder een gemeenschappelijke marktordening vallen, zijn de bepalingen van de overeenkomst inzake de afschaffing van de heffingen van gelijke werking als douanerechten en de afschaffing van de kwantitatieve beperkingen en maatregelen van gelijke werking niet van toepassing op deze heffingen, beperkingen en maatregelen, wanneer zij op het tijdstip van toetreding deel uitmaken van een nationale marktordening in Portugal.
 
@@ -414,21 +436,21 @@ Deze bepaling geldt slechts tot het ogenblik waarop de gemeenschappelijke markto
 
 ## TITEL III. ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel 22
+##### Artikel 22
 
 De Samenwerkingsraad brengt in de regels van oorsprong de wijzigingen aan die in verband met de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Europese Gemeenschappen nodig mochten blijken.
 
-#### Artikel 23
+##### Artikel 23
 
 De bijlagen1)De bijlagen zijn niet afgedrukt. Zij zullen te zijner tijd worden bekendgemaakt in het Publikatieblad van de Europese Gemeenschappen.bij dit protocol vormen een integrerend bestanddeel van het protocol. Dit protocol vormt een integrerend bestanddeel van de overeenkomst.
 
-#### Artikel 24
+##### Artikel 24
 
 Dit protocol wordt door de overeenkomstsluitende partijen goedgekeurd overeenkomstig hun eigen procedures. Het treedt in werking op de eerste dag van de tweede maand volgende op de kennisgeving van de voltooiing van de procedures door de overeenkomstsluitende partijen.
 
 Bij de inwerkingtreding van dit protocol zijn de verlagingen van rechten en de verhogingen van contingenten en alle andere maatregelen waarin dit protocol voorziet voor het jaar waarin deze inwerkingtreding plaatsvindt onmiddellijk van toepassing. Dit protocol heeft geen gevolgen ten aanzien van voor de datum van inwerkingtreding gelegen tijdvakken.
 
-#### Artikel 25
+##### Artikel 25
 
 Dit protocol is opgesteld, in twee exemplaren, in de Deense, de Duitse, de Engelse, de Franse, de Griekse, de Italiaanse, de Nederlandse, de Portugese, de Spaanse en de Arabische taal, zijnde alle teksten gelijkelijk authentiek.
 

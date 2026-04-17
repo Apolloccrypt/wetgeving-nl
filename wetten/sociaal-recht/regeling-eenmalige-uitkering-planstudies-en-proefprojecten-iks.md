@@ -1,20 +1,46 @@
 ---
-title: "Regeling eenmalige uitkering planstudies en proefprojecten IKS"
+title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 11 oktober 2010, nr. BJZ2010025925, houdende regels met betrekking tot de verstrekking van een eenmalige specifieke uitkering voor het opstellen van planstudies en het uitvoeren van proefprojecten in het kader van het Innovatieprogramma Klimaatneutrale Steden (Regeling eenmalige uitkering planstudies en proefprojecten IKS)"
 identifier: "BWBR0028862"
-categorie: "Sociaal recht"
-publicatiedatum: 2010-10-19
-laatste_update: 2010-10-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028862"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-10-19"
+last_updated: "2010-10-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028862"
+soort: "ministeriele-regeling"
+stam_id: "11052343"
+version_id: "18051172"
+internal_id: "C25094661"
+label_id: "11026904"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028862/2010-10-19/0"
+intitule_bron: "Stcrt.2010-16181"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-11"
+intitule_published: "2010-10-18"
+intitule_in_force: "2010-10-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-16181"
+original_signed_date: "2010-10-11"
+original_published_date: "2010-10-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-16181"
+entry_into_force_date: "2010-10-19"
+jci_1_3: "jci1.3:c:BWBR0028862&z=2010-10-19&g=2010-10-19"
+jci_1_0: "1.0:c:BWBR0028862&g=2010-10-19"
+citeertitel_status: "officieel"
+short_title: "Regeling eenmalige uitkering planstudies en proefprojecten IKS"
+signed_date: "2010-10-11"
+entry_into_force: "2010-10-19"
 ---
-
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 11 oktober 2010, nr. BJZ2010025925, houdende regels met betrekking tot de verstrekking van een eenmalige specifieke uitkering voor het opstellen van planstudies en het uitvoeren van proefprojecten in het kader van het Innovatieprogramma Klimaatneutrale Steden (Regeling eenmalige uitkering planstudies en proefprojecten IKS)
 
 Gelet [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,19 +54,19 @@ In deze regeling wordt verstaan onder:
 
 - –. **samenwerkingspartners:** andere bestuursorganen, bedrijven, instellingen of organisaties.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister kan in het kader van het Innovatieprogramma Klimaatneutrale Steden op aanvraag eenmalig een specifieke uitkering aan een gemeente verlenen ten behoeve van het opstellen van een planstudie.
 
 2. De minister kan in het kader van het Innovatieprogramma Klimaatneutrale Steden op aanvraag eenmalig een specifieke uitkering aan een gemeente verlenen ten behoeve van het uitvoeren van een proefproject.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een uitkering als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19), wordt enkel verleend aan een gemeente die voor 16 december 2009 een aanvraag heeft ingediend die aan de voorwaarden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=4&z=2010-10-19&g=2010-10-19), voldoet.
 
 2. Een uitkering als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19), wordt enkel verleend aan een gemeente die voor 15 september 2010 een aanvraag heeft ingediend, die aan de voorwaarden, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2010-10-19), voldoet.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2010-10-19), wordt ingediend bij SenterNovem.
 
@@ -68,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 - 3°. ‘procesinnovaties die draagvlak bij inwoners, ondernemers en maatschappelijke organisaties creëert’.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2010-10-19), wordt ingediend bij Agentschap NL.
 
@@ -110,7 +136,7 @@ In deze regeling wordt verstaan onder:
 
 - d. hoe over de resultaten van het proefproject wordt gecommuniceerd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een projectvoorstel als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2010-10-19), bestaat ten hoogste uit twee pagina’s van A4-formaat met een lettergrootte negen of tien en volgt het modelformulier dat op www.agentschapnl.nl/klimaatneutralesteden staat.
 
@@ -150,7 +176,7 @@ In deze regeling wordt verstaan onder:
 
 - 3°. ‘het combineren van ideeën en thema’s uit de Innovatieagenda’.
 
-#### Artikel 7
+##### Artikel 7
 
 De minister beoordeelt een projectvoorstel als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2010-10-19), positief, indien:
 
@@ -160,7 +186,7 @@ De minister beoordeelt een projectvoorstel als bedoeld in [artikel 5, tweede lid
 
 - c. de aanvrager bereid is actief bij te dragen aan het vormgeven van de programmering en aan de uitvoering van het kennis- en leertraject.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De minister rangschikt de projectvoorstellen als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2010-10-19), die op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=7&z=2010-10-19&g=2010-10-19) positief zijn beoordeeld, waarbij een projectvoorstel hoger in de rangschikking wordt geplaatst naarmate naar het oordeel van de minister het projectvoorstel een grotere bijdrage levert aan de doelstelling van de uitkering.
 
@@ -188,7 +214,7 @@ het project betrekking heeft.
 
 3. De minister kan externen inzetten die tot taak hebben projectvoorstellen overeenkomstig het eerste en tweede lid te beoordelen en over de rangschikking een niet bindend advies uit te brengen aan de minister.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het totale bedrag van de te verlenen uitkeringen op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19), bedraagt €1.000.000,-.
 
@@ -198,7 +224,7 @@ het project betrekking heeft.
 
 4. De minister verdeelt het bedrag, genoemd in het derde lid, over de aanvragen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=3&z=2010-10-19&g=2010-10-19), in de volgorde van de hoogte in de rangschikking van de bij de aanvragen behorende projectvoorstellen als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=5&z=2010-10-19&g=2010-10-19).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een uitkering op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19), bedraagt tenminste € 50.000 en ten hoogste € 150.000 per aanvraag.
 
@@ -214,7 +240,7 @@ het project betrekking heeft.
 
 4. Intrekking of wijziging van een verlening van een uitkering werkt terug tot en met het tijdstip waarop de uitkering is verleend, tenzij bij intrekking of wijziging anders is bepaald.
 
-#### Artikel 11
+##### Artikel 11
 
 Een uitkering als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19), wordt verleend ten behoeve van de noodzakelijke, rechtstreeks aan het opstellen van de planstudie onderscheidenlijk het uitvoeren van het proefproject toe te rekenen kosten, bestaande uit:
 
@@ -222,7 +248,7 @@ Een uitkering als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.ov
 
 - b. de aan derden verschuldigde kosten voor door hen verleende diensten met betrekking tot het proces en de begeleiding.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De gemeente waaraan een uitkering is verleend op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19), betaalt 50% van de kosten, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=11&z=2010-10-19&g=2010-10-19), uit eigen middelen of met behulp van middelen van samenwerkingspartners.
 
@@ -230,7 +256,7 @@ Een uitkering als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.ov
 
 3. Voor zover het opstellen van de planstudie of het uitvoeren van het proefproject al dan niet gedeeltelijk wordt betaald met een andere uitkering van het Rijk, wordt een uitkering als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19), zodanig vastgesteld dat het totaal van de uitkeringen niet hoger is dan de totale uitkering die op grond van deze regeling kan worden verstrekt.
 
-#### Artikel 13
+##### Artikel 13
 
 De gemeente waaraan een uitkering is verleend op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=2&z=2010-10-19&g=2010-10-19):
 
@@ -240,11 +266,11 @@ De gemeente waaraan een uitkering is verleend op grond van [artikel 2](https://w
 
 - c. neemt bij het opstellen van de planstudie of de uitvoer van het proefproject alle toepasselijke wet- en regelgeving in acht, waaronder in ieder geval wordt verstaan de toepasselijke Europese regels inzake aanbesteding, mededinging en staatssteun.
 
-#### Artikel 14
+##### Artikel 14
 
 De minister kan aan een gemeente een voorschot van 100% van het verleende bedrag uitkeren.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Indien in de verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), is opgenomen dat het opstellen van de planstudie of het uitvoeren van een proefproject is afgerond, geldt deze mededeling als een aanvraag tot vaststelling van de uitkering.
 
@@ -252,7 +278,7 @@ De minister kan aan een gemeente een voorschot van 100% van het verleende bedrag
 
 3. Het bedrag van de uitkering wordt overeenkomstig de vaststelling, binnen 6 weken na vaststelling, betaald onder verrekening van uitgekeerde voorschotten.
 
-#### Artikel 16
+##### Artikel 16
 
 De minister stelt een uitkering overeenkomstig de verlening vast, tenzij:
 
@@ -262,19 +288,19 @@ De minister stelt een uitkering overeenkomstig de verlening vast, tenzij:
 
 - c. de verlening van de uitkering onjuist was en de gemeente waaraan de uitkering is verleend dit wist of behoorde te weten.
 
-#### Artikel 17
+##### Artikel 17
 
 In afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028862&artikel=15&z=2010-10-19&g=2010-10-19), kan de minister een uitkering geheel of gedeeltelijk ambtshalve vaststellen, indien de beschikking tot verlening van de uitkering of tot vaststelling van de uitkering wordt ingetrokken of ten nadele van de gemeente waaraan de uitkering is verleend wordt gewijzigd.
 
-#### Artikel 18
+##### Artikel 18
 
 De minister kan onverschuldigd uitgekeerde bedragen terugvorderen.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze regeling treedt in werking met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 10 november 2009.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze regeling wordt aangehaald als: Regeling eenmalige uitkering planstudies en proefprojecten IKS.
 

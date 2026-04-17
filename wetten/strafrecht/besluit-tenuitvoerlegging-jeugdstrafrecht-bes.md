@@ -1,13 +1,39 @@
 ---
-title: "Besluit tenuitvoerlegging jeugdstrafrecht BES"
+title: "Besluit van 16 juli 2020, houdende vaststelling van regels voor de tenuitvoerlegging van het jeugdstrafrecht op Bonaire, Sint-Eustatius en Saba (Besluit tenuitvoerlegging jeugdstrafrecht BES)"
 identifier: "BWBR0043946"
-categorie: "Strafrecht"
-publicatiedatum: 2020-08-01
-laatste_update: 2020-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043946"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2020-08-01"
+last_updated: "2020-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043946"
+soort: "AMvB-BES"
+stam_id: "15579413"
+version_id: "26917852"
+internal_id: "C38114111"
+label_id: "15521174"
+dtd_version: "2.0"
+original_entry_into_force: "2020-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043946/2020-08-01/0"
+intitule_bron: "Stb.2020-288"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-07-16"
+intitule_published: "2020-07-24"
+intitule_in_force: "2020-07-24"
+intitule_status: "goed"
+original_publication: "Stb.2020-288"
+original_signed_date: "2020-07-16"
+original_published_date: "2020-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2020-288"
+entry_into_force_date: "2020-08-01"
+jci_1_3: "jci1.3:c:BWBR0043946&z=2020-08-01&g=2020-08-01"
+jci_1_0: "1.0:c:BWBR0043946&g=2020-08-01"
+citeertitel_status: "officieel"
+short_title: "Besluit tenuitvoerlegging jeugdstrafrecht BES"
+signed_date: "2020-07-16"
+entry_into_force: "2020-08-01"
 ---
-
 # Besluit van 16 juli 2020, houdende vaststelling van regels voor de tenuitvoerlegging van het jeugdstrafrecht op Bonaire, Sint-Eustatius en Saba (Besluit tenuitvoerlegging jeugdstrafrecht BES)
 
 Op de voordracht van Onze Minister voor Rechtsbescherming van 13 maart 2020, directie Wetgeving en Juridische Zaken, nr. 2859101;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -56,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Over de afdoening met een project
 
-#### Artikel 2
+##### Artikel 2
 
 Een voorstel tot deelname aan een project kan worden aangeboden bij zaken van eenvoudige aard, waarbij sprake is van overlastveroorzakend gedrag van geringe ernst en die betreffen de ontdekking van het strafbare feit omschreven in:
 
@@ -78,7 +104,7 @@ Een voorstel tot deelname aan een project kan worden aangeboden bij zaken van ee
 
 - i. [artikel 2 van de Wet Aansprakelijkheidsverzekering Motorvoertuigen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028254&artikel=2).
 
-#### Artikel 3
+##### Artikel 3
 
 Na uitdrukkelijk verkregen toestemming van de officier van justitie, kan een voorstel tot deelname aan een project worden gedaan in zaken die vergelijkbaar zijn met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043946&hoofdstuk=2&artikel=2&z=2020-08-01&g=2020-08-01) genoemde zaken, indien:
 
@@ -92,7 +118,7 @@ Na uitdrukkelijk verkregen toestemming van de officier van justitie, kan een voo
 
 - e. het strafbare feit de kern van het strafbare gedrag van de verdachte uitmaakt.
 
-#### Artikel 4
+##### Artikel 4
 
 De voogdijraad is belast met de uitvoering van projecten.
 
@@ -100,7 +126,7 @@ De voogdijraad is belast met de uitvoering van projecten.
 
 #### § 3.1. De aanwijzing van inrichtingen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Minister wijst een gesticht of afdeling van een gesticht als bedoeld in[artikel 2 van de Wet beginselen gevangeniswezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&artikel=2) aan voor de tenuitvoerlegging van de vrijheidsbeneming van jeugdigen. De tenuitvoerlegging van de pij-maatregel kan daarnaast plaatsvinden in een inrichting als bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1), juncto [artikel 3a van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=3a).
 
@@ -116,21 +142,21 @@ De voogdijraad is belast met de uitvoering van projecten.
 
 #### § 3.2. Algemene bepalingen over de tenuitvoerlegging van vrijheidsbeneming
 
-#### Artikel 6
+##### Artikel 6
 
 Met handhaving van het karakter van de straf of maatregel wordt de tenuitvoerlegging van de vrijheidsbeneming dienstbaar gemaakt aan de opvoeding van de jeugdige en de voorbereiding van de terugkeer in de maatschappij.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De jeugdige is verplicht tot het volgen van onderwijs of het deelnemen aan andere activiteiten in het kader van zijn pedagogische vorming.
 
 2. In het voor de jeugdige opgestelde verblijfsplan wordt opgenomen welk onderwijs hij volgt of aan welke activiteiten hij in het kader van zijn pedagogische vorming deelneemt.
 
-#### Artikel 8
+##### Artikel 8
 
 De tenuitvoerlegging van de vrijheidsbeneming vindt, voor zover niet bij enige wettelijke bepaling anders is bepaald, plaats door onderbrenging van de jeugdige in een gesticht, inrichting of afdeling als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043946&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2020-08-01&g=2020-08-01), dan wel door de deelname aan activiteiten buiten die afdeling of dat gesticht, onder de verantwoordelijkheid van de directeur.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Op het verblijf van jeugdigen in een inrichting zijn de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&artikel=16), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&artikel=18),[21 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&artikel=21), alsmede de [Hoofdstukken VII](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=VII), [VIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=VIIa), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=VIII), [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=IX), [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=XI) en [XII van de Wet beginselen gevangeniswezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=XII) van overeenkomstige toepassing, alsmede het ter uitvoering daarvan bepaalde in de Gevangenismaatregel 1999 BES en de regeling Urinecontrole gestichten BES.
 
@@ -140,7 +166,7 @@ De tenuitvoerlegging van de vrijheidsbeneming vindt, voor zover niet bij enige w
 
 #### § 3.3. Planmatig werken in de inrichting
 
-#### Artikel 10
+##### Artikel 10
 
 1. De directeur van een gesticht stelt uiterlijk binnen drie weken na de binnenkomst van de jeugdige een verblijfsplan voor hem vast. Alvorens het plan vast te stellen, overlegt hij met de jeugdige. De eerste volzin is niet van toepassing op jeugdigen die jeugddetentie ondergaan van een kortere duur dan drie weken.
 
@@ -172,7 +198,7 @@ De tenuitvoerlegging van de vrijheidsbeneming vindt, voor zover niet bij enige w
 
 #### § 3.4. Verlof
 
-#### Artikel 11
+##### Artikel 11
 
 7. Verlof is incidenteel of planmatig.
 
@@ -212,13 +238,13 @@ De tenuitvoerlegging van de vrijheidsbeneming vindt, voor zover niet bij enige w
 
 12. De directeur vraagt het openbaar ministerie om advies. De directeur kan de reclassering en de voogdijraad om advies vragen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De directeur kan aan de jeugdige incidenteel verlof verlenen in verband met gebeurtenissen of omstandigheden in de persoonlijke levenssfeer van de jeugdige waarbij zijn aanwezigheid naar het oordeel van de directeur noodzakelijk is.
 
 2. De directeur bepaalt de duur van het incidenteel verlof. Deze duur is niet langer dan drie dagen. De directeur kan meermalen incidenteel verlof toekennen op grond van dezelfde gebeurtenis.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De directeur kan aan de jeugdige planmatig verlof verlenen. De wijze waarop planmatig verlof wordt verleend, vormt een onderdeel van het verblijfsplan.
 
@@ -242,13 +268,13 @@ De tenuitvoerlegging van de vrijheidsbeneming vindt, voor zover niet bij enige w
 
 4. Een onveroordeelde komt niet in aanmerking voor planmatig verlof.
 
-#### Artikel 14
+##### Artikel 14
 
 Onze Minister kan nadere regels stellen over het aanvragen en het verlenen van verlof.
 
 #### § 3.5. Dossiers van jeugdigen
 
-#### Artikel 15
+##### Artikel 15
 
 De directeur draagt zorg dat van de jeugdige een dossier wordt aangelegd. In het dossier worden in ieder geval de volgende gegevens opgenomen:
 
@@ -266,7 +292,7 @@ De directeur draagt zorg dat van de jeugdige een dossier wordt aangelegd. In het
 
 - g. adviezen en aantekeningen als bedoeld in [artikel 79m, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=79m).
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het dossier wordt op zorgvuldige wijze, volgens een vaste indeling, opgebouwd. In ieder geval worden hierin onderscheiden:
 
@@ -294,7 +320,7 @@ De directeur draagt zorg dat van de jeugdige een dossier wordt aangelegd. In het
 
 - g. gegevens omtrent de gezondheid van de jeugdige en uitgevoerde verrichtingen, voor zover de opname van deze gegevens voor een goede opvang of behandeling van hem noodzakelijk is.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De jeugdige heeft, behoudens de overeenkomstig het tweede en derde lid te stellen beperkingen, recht op inzage van de in zijn dossier vastgelegde gegevens.
 
@@ -310,7 +336,7 @@ De directeur draagt zorg dat van de jeugdige een dossier wordt aangelegd. In het
 
 4. Het recht op inzage in het verblijfsplan omvat het recht op het ontvangen van een afschrift.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De ouders of voogd, stiefouder of pleegouders hebben recht op inzage in het dossier van de jeugdige, tenzij belangen van de jeugdige zich daartegen verzetten of inzage achterwege dient te blijven ter bescherming van de persoonlijke levenssfeer van anderen. Ten aanzien van jeugdigen van 18 jaar en ouder is instemming van de jeugdige vereist.
 
@@ -324,7 +350,7 @@ De directeur draagt zorg dat van de jeugdige een dossier wordt aangelegd. In het
 
 - c. de behandeling van andere beslissingen, de jeugdige betreffende.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Gedurende het verblijf van een jeugdige wordt zijn dossier in een afsluitbare ruimte bewaard.
 
@@ -332,7 +358,7 @@ De directeur draagt zorg dat van de jeugdige een dossier wordt aangelegd. In het
 
 3. Bij invrijheidstelling, ontvluchting of overlijden van de jeugdige zendt de directeur het dossier aan Onze Minister.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het dossier wordt gedurende een termijn van tien jaar bewaard, te rekenen vanaf het tijdstip van invrijheidstelling.
 
@@ -342,7 +368,7 @@ De directeur draagt zorg dat van de jeugdige een dossier wordt aangelegd. In het
 
 #### § 3.6. Voorwaardelijke invrijheidsstelling
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien de jeugdige voorwaardelijk in vrijheid wordt gesteld als bedoeld in [artikel 79j, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=79j), ontvangen de voogdijraad en de reclassering daarvan mededeling. De mededeling behelst de voorwaarden waaronder de invrijheidstelling is verleend.
 
@@ -358,7 +384,7 @@ De directeur draagt zorg dat van de jeugdige een dossier wordt aangelegd. In het
 
 #### § 3.7. Voorwaardelijke invrijheidsstelling door de rechter
 
-#### Artikel 22
+##### Artikel 22
 
 1. Bij een voorwaardelijke invrijheidsstelling als bedoeld in [artikel 79j, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=79j), draagt de rechter de reclassering op de jeugdige te begeleiden en op voorwaarden toezicht te houden.
 
@@ -378,7 +404,7 @@ De directeur draagt zorg dat van de jeugdige een dossier wordt aangelegd. In het
 
 #### § 3.8. Over de verlenging van de pij-maatregel
 
-#### Artikel 23
+##### Artikel 23
 
 1. Behoudens het bepaalde in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043946&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2020-08-01&g=2020-08-01), worden omtrent de jeugdige aan wie de pij-maatregel is opgelegd, door of vanwege de directeur aantekeningen bijgehouden.
 
@@ -390,7 +416,7 @@ De directeur draagt zorg dat van de jeugdige een dossier wordt aangelegd. In het
 
 - c. gegevens omtrent belangrijke voorvallen gedurende het verblijf.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Behoudens het bepaalde in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043946&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2020-08-01&g=2020-08-01), maakt de directeur uiterlijk drie maanden voordat de pij-maatregel eindigt, een schriftelijk met redenen omkleed, gedagtekend en ondertekend advies op en zendt dit aan Onze Minister. Het advies betreft:
 
@@ -402,7 +428,7 @@ De directeur draagt zorg dat van de jeugdige een dossier wordt aangelegd. In het
 
 3. Uiterlijk binnen een maand vanaf het tijdstip bedoeld in het eerste lid, zendt Onze Minister het advies met bijlagen aan het openbaar ministerie bij de rechter die in eerste aanleg heeft kennis genomen van het misdrijf ter zake waarvan de pij-maatregel is opgelegd.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Behoudens het bepaalde in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043946&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2020-08-01&g=2020-08-01), doet het openbaar ministerie Onze Minister zo spoedig mogelijk mededeling:
 
@@ -416,23 +442,23 @@ De directeur draagt zorg dat van de jeugdige een dossier wordt aangelegd. In het
 
 ### Hoofdstuk 4. De voorwaardelijke veroordeling
 
-#### Artikel 26
+##### Artikel 26
 
 Het openbaar ministerie kan de reclassering, voor zover zij is belast met het toezicht, aanwijzingen geven omtrent het toezicht op de naleving van de voorwaarden.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De reclassering die is belast met het toezicht, draagt er zorg voor dat de aard en de intensiteit van het toezicht en de verplichtingen waaraan de jeugdige zich in het kader van het toezicht heeft te houden, worden vastgelegd.
 
 2. De reclassering die is belast met het toezicht, draagt er zorg voor dat het toezicht aanvangt binnen een termijn van vijf dagen na het ingaan van de proeftijd.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De jeugdige volgt de aanwijzingen en opdrachten op die door de reclassering worden gegeven in het kader van het toezicht.
 
 2. De jeugdige geeft veranderingen in de woon- of werksituatie onmiddellijk door aan de reclassering.
 
-#### Artikel 29
+##### Artikel 29
 
 Zo spoedig mogelijk na de melding van niet-naleving van voorwaarden brengt de reclassering advies uit aan het openbaar ministerie. Zij geeft daarbij aan of de melding naar haar oordeel aanleiding vormt tot een van de volgende maatregelen:
 
@@ -440,11 +466,11 @@ Zo spoedig mogelijk na de melding van niet-naleving van voorwaarden brengt de re
 
 - b. het indienen van een vordering als bedoeld in [artikel 79t, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=79t).
 
-#### Artikel 30
+##### Artikel 30
 
 Met het oog op het beëindigen van het toezicht, stuurt de reclassering zo spoedig mogelijk een afloopbericht aan de voogdijraad en het openbaar ministerie. In het afloopbericht wordt het feitelijke verloop van het toezicht aangegeven.
 
-#### Artikel 31
+##### Artikel 31
 
 Als bijzondere voorwaarden komen in aanmerking:
 
@@ -478,11 +504,11 @@ Als bijzondere voorwaarden komen in aanmerking:
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 32
+##### Artikel 32
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 33
+##### Artikel 33
 
 Dit besluit wordt aangehaald als: Besluit tenuitvoerlegging jeugdstrafrecht BES.
 

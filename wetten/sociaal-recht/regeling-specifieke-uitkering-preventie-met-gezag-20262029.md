@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering Preventie met Gezag 2026–2029"
+title: "Regeling van de Minister van Justitie en Veiligheid van 18 september 2025, nr. 6692706, houdende regels met betrekking tot het verstrekken van een specifieke uitkering voor de aanpak Preventie met Gezag 2026–2029"
 identifier: "BWBR0051515"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-09-23
-laatste_update: 2025-09-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051515"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-23"
+last_updated: "2025-09-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051515"
+soort: "ministeriele-regeling"
+stam_id: "17527193"
+version_id: "30926352"
+internal_id: "C44306581"
+label_id: "17428874"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051515/2025-09-23/0"
+intitule_bron: "Stcrt.2025-31991"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-09-18"
+intitule_published: "2025-09-22"
+intitule_in_force: "2025-09-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-31991"
+original_signed_date: "2025-09-18"
+original_published_date: "2025-09-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-31991"
+entry_into_force_date: "2025-09-23"
+jci_1_3: "jci1.3:c:BWBR0051515&z=2025-09-23&g=2025-09-23"
+jci_1_0: "1.0:c:BWBR0051515&g=2025-09-23"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering Preventie met Gezag 2026–2029"
+signed_date: "2025-09-18"
+entry_into_force: "2025-09-23"
 ---
-
 # Regeling van de Minister van Justitie en Veiligheid van 18 september 2025, nr. 6692706, houdende regels met betrekking tot het verstrekken van een specifieke uitkering voor de aanpak Preventie met Gezag 2026–2029
 
 Gelet op [artikel 17, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17),
 
 Besluit:
 
-#### Artikel 1. Definitiebepalingen
+##### Artikel 1. Definitiebepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **Programma:** het plan van aanpak over de activiteiten Preventie met Gezag per gemeente.
 
-#### Artikel 2. Doel en definitie activiteiten
+##### Artikel 2. Doel en definitie activiteiten
 
 1. Deze regeling heeft tot doel om gemeenten een specifieke uitkering te verstrekken waarmee zij in staat worden gesteld activiteiten in het kader van de aanpak Preventie met Gezag te ontplooien. Daarnaast worden enkele gemeenten in staat gesteld mee te doen aan de grassroot pilots.
 
@@ -32,11 +58,11 @@ In deze regeling wordt verstaan onder:
 
 3. De grassroot pilots zijn pilots bij zes gemeenten die gaan werken aan betere ondersteuning aan de geselecteerde informele organisaties in hun gemeenten.
 
-#### Artikel 3. Specifieke uitkering
+##### Artikel 3. Specifieke uitkering
 
 De Minister kan op aanvraag jaarlijks een specifieke uitkering verstrekken aan een gemeente genoemd in de bijlage bij deze regeling, voor het treffen van maatregelen in het kader van de aanpak Preventie met Gezag van 1 juni 2026 tot en met 31 december 2029.
 
-#### Artikel 4. Aanvraag
+##### Artikel 4. Aanvraag
 
 1. De aanvraag bevat:
 
@@ -66,17 +92,17 @@ De Minister kan op aanvraag jaarlijks een specifieke uitkering verstrekken aan e
 
 5. De aanvraag voor een uitkering als genoemd in tabel 2 van de bijlage, wordt als addendum bij de aanvraag bijgevoegd.
 
-#### Artikel 5. Hoogte specifieke uitkering
+##### Artikel 5. Hoogte specifieke uitkering
 
 De hoogte van de specifieke uitkering bedraagt per gemeente ten hoogste het in de bijlage bij deze regeling genoemde bedrag. Het compensabele BTW-deel van het in de bijlage genoemde bedrag wordt niet aan de gemeente uitgekeerd. Dat bedrag wordt afgedragen aan het BTW-compensatiefonds.
 
-#### Artikel 6. Verlening en bevoorschotting
+##### Artikel 6. Verlening en bevoorschotting
 
 1. De Minister besluit uiterlijk 13 weken na indiening van aanvraag tot verlening van de specifieke uitkering.
 
 2. Het aan de gemeenten toegekende bedrag wordt in de periode van 2026 tot en met 2029 bij wijze van voorschot in jaarlijkse termijnen uitgekeerd. De eerste betaling vindt plaats binnen zes weken volgend op dagtekening van de beschikking tot verlening van de specifieke uitkering. De volgende betalingen vinden plaats in januari 2027, januari 2028 en januari 2029.
 
-#### Artikel 7. Verplichtingen
+##### Artikel 7. Verplichtingen
 
 1. De gemeente besteedt de specifieke uitkering binnen de periode die is opgenomen in de beschikking tot verlening daarvan.
 
@@ -88,7 +114,7 @@ De hoogte van de specifieke uitkering bedraagt per gemeente ten hoogste het in d
 
 5. De gemeente die een specifieke uitkering heeft ontvangen is verplicht om onverwijld een schriftelijke melding te doen zodra aannemelijk is dat de activiteiten waarvoor die uitkering is verleend niet, niet tijdig of niet geheel zullen worden verricht.
 
-#### Artikel 8. Vaststelling en verantwoording
+##### Artikel 8. Vaststelling en verantwoording
 
 1. Nadat de Minister de verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), van de Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft ontvangen, stelt de Minister de uitkering binnen 22 weken overeenkomstig de verlening vast.
 
@@ -102,23 +128,23 @@ De hoogte van de specifieke uitkering bedraagt per gemeente ten hoogste het in d
 
 - d. de verlening van de uitkering onjuist was en de gemeente waaraan de uitkering is verleend dit wist of behoorde te weten.
 
-#### Artikel 9. Terugvordering
+##### Artikel 9. Terugvordering
 
 1. De Minister kan onverschuldigd uitgekeerde bedragen naar aanleiding van een lagere vaststelling van de uitkering als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051515&artikel=8&z=2025-09-23&g=2025-09-23), terugvorderen.
 
 2. Indien de verantwoordingsinformatie te laat, niet of niet volledig wordt verstrekt, kan de Minister de uitkering op een lager bedrag vaststellen als volledige terugvordering tot een onbillijkheid van overwegende aard zou leiden.
 
-#### Artikel 10. Hardheidsclausule
+##### Artikel 10. Hardheidsclausule
 
 De Minister kan een bepaling van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van het verstrekken van een uitkering voor de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051515&artikel=2&z=2025-09-23&g=2025-09-23), zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2030.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering Preventie met Gezag 2026–2029.
 

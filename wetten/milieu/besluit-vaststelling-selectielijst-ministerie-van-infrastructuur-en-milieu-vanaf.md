@@ -1,24 +1,50 @@
 ---
-title: "Besluit vaststelling selectielijst Ministerie van Infrastructuur en Milieu vanaf 2010"
+title: "Vaststelling selectielijst voor het Ministerie van Infrastructuur en Milieu over de periode vanaf 2010"
 identifier: "BWBR0039418"
-categorie: "Milieu"
-publicatiedatum: 2017-04-05
-laatste_update: 2017-04-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039418"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-04-05"
+last_updated: "2017-04-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039418"
+soort: "ministeriele-regeling"
+stam_id: "13969663"
+version_id: "24032032"
+internal_id: "C34536371"
+label_id: "13932684"
+dtd_version: "2.0"
+original_entry_into_force: "2017-04-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039418/2017-04-05/0"
+intitule_bron: "Stcrt.2017-18128"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-02-24"
+intitule_published: "2017-04-03"
+intitule_in_force: "2017-04-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-18128"
+original_signed_date: "2017-02-24"
+original_published_date: "2017-04-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-18128"
+entry_into_force_date: "2017-04-05"
+jci_1_3: "jci1.3:c:BWBR0039418&z=2017-04-05&g=2017-04-05"
+jci_1_0: "1.0:c:BWBR0039418&g=2017-04-05"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling selectielijst Ministerie van Infrastructuur en Milieu vanaf 2010"
+signed_date: "2017-02-24"
+entry_into_force: "2017-04-05"
 ---
-
 # Vaststelling selectielijst voor het Ministerie van Infrastructuur en Milieu over de periode vanaf 2010
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde selectielijst voor de administratieve neerslag van het Ministerie van Infrastructuur en Milieu over de periode vanaf 2010 en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Met de vaststelling van deze selectielijst worden de volgende selectielijsten per 14 oktober 2010 voor de zorgdrager Minister van Infrastructuur en Milieu en daartoe behorende dienstonderdelen voor zover genoemd in hoofdstuk 2 van de selectielijst afgesloten, behoudens de in paragraaf 1.3 van de selectielijst benoemde uitzonderingssituaties:
 
@@ -178,7 +204,7 @@ De volgende selectielijsten worden in een later stadium en wel per 1 januari 201
 
 - •. 120. Geo-Informatie (Stcrt. 118, 2004).
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

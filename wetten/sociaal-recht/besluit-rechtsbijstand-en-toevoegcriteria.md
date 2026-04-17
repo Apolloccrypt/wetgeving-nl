@@ -1,13 +1,35 @@
 ---
-title: "Besluit rechtsbijstand- en toevoegcriteria"
+title: "Besluit van 11 januari 1994, tot vaststelling van het Besluit rechtsbijstand- en toevoegcriteria"
 identifier: "BWBR0006404"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006404"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006404"
+soort: "AMvB"
+stam_id: "898123"
+version_id: "1313672"
+internal_id: "C1313671"
+label_id: "871244"
+dtd_version: "2.0"
+original_entry_into_force: "1994-01-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006404/2022-01-01/0"
+intitule_bron: "Stb.1994-32"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-01-11"
+intitule_status: "goed"
+original_publication: "Stb.1994-32"
+original_signed_date: "1994-01-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-01-19"
+jci_1_3: "jci1.3:c:BWBR0006404&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0006404&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit rechtsbijstand- en toevoegcriteria"
+signed_date: "1994-01-11"
+entry_into_force: "1994-01-19"
 ---
-
 # Besluit van 11 januari 1994, tot vaststelling van het Besluit rechtsbijstand- en toevoegcriteria
 
 Op de voordracht van Onze Minister van Justitie van 20 oktober 1993, Stafafdeling Wetgeving Puliekrecht nr. 401654/93/6, gedaan mede namens de Staatssecretaris van Justitie;
@@ -20,7 +42,7 @@ Gezien het nader rapport van Onze Minister van Justitie van 3 januari 1994, Staf
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -28,11 +50,11 @@ In dit besluit wordt verstaan onder:
 
 - b. belang: het belang voor de behartiging waarvan de rechtzoekende rechtsbijstand verzoekt voorzover dat belang hem rechtstreeks en individueel aangaat.
 
-#### Artikel 2
+##### Artikel 2
 
 Rechtsbijstand kan worden verleend indien de aanvraag daartoe voldoet aan de in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368) gestelde criteria en rechtsbijstand op grond van dit besluit niet is uitgesloten.
 
-#### Artikel 3
+##### Artikel 3
 
 Rechtsbijstand wordt als zijnde van elke grond ontbloot niet verleend indien de aanvraag betrekking heeft op een vordering of verweer:
 
@@ -48,7 +70,7 @@ Rechtsbijstand wordt als zijnde van elke grond ontbloot niet verleend indien de 
 
 - f. dat betrekking heeft op een tweede of volgende aanvraag tot verlening van een verblijfsvergunning asiel voor bepaalde tijd in welk kader redelijkerwijs buiten twijfel is dat de nieuwe feiten of omstandigheden vóór de onherroepelijke beslissing op de eerdere aanvraag tot verlening van een verblijfsvergunning asiel voor bepaalde tijd naar voren hadden kunnen worden gebracht, tenzij redelijkerwijs kan worden aangenomen dat de bijzondere omstandigheden van het geval noodzaken tot het verlenen van rechtsbijstand.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Rechtsbijstand bestaande uit het geven van eenvoudig rechtskundig advies wordt, als zijnde van onvoldoende belang, niet verleend indien het op geld waardeerbare belang blijft beneden een bedrag van € 250,–.
 
@@ -64,13 +86,13 @@ Rechtsbijstand wordt als zijnde van elke grond ontbloot niet verleend indien de 
 
 7. In afwijking van het eerste tot en met vierde lid kan rechtsbijstand of een toevoeging worden verleend indien zwaarwegende belangen van de rechtzoekende dit rechtvaardigen, of indien zwaarwegende persoonlijke omstandigheden van de rechtzoekende dit rechtvaardigen in het belang van een effectieve toegang tot het recht.
 
-#### Artikel 5
+##### Artikel 5
 
 1. In strafzaken wordt geen rechtsbijstand verleend indien de zaak dient bij de kantonrechter. De eerste volzin is niet van toepassing op de verlening van rechtshulp.
 
 2. In afwijking van het eerste lid, eerste volzin kan rechtsbijstand worden verleend, indien zwaarwegende belangen van de rechtzoekende dit rechtvaardigen of de bijzondere feitelijke of juridische ingewikkeldheid van het geval dat vereist.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor rechtsbijstand in zaken betreffende [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656) wordt geen toevoeging verleend:
 
@@ -84,11 +106,11 @@ Rechtsbijstand wordt als zijnde van elke grond ontbloot niet verleend indien de 
 
 - b. indien de rechtzoekende verweerder is in een procedure als bedoeld in de [artikelen 378](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=378) en [431 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=431).
 
-#### Artikel 7
+##### Artikel 7
 
 Voor rechtsbijstand terzake van het treffen van een afbetalingsregeling, het aanvragen van het eigen faillissement of het kwijtschelden van een schuld wordt geen toevoeging verleend.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Geen toevoeging wordt verleend indien de rechtsbijstand uitsluitend is verzocht voor:
 
@@ -116,11 +138,11 @@ Voor rechtsbijstand terzake van het treffen van een afbetalingsregeling, het aan
 
 2. In afwijking van het eerste lid kan een toevoeging worden verleend, indien de bijzondere feitelijke of juridische ingewikkeldheid van het geval dat vereist.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, en werkt terug tot en met 1 januari 1994.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Dit besluit kan worden aangehaald als: Besluit rechtsbijstand- en toevoegcriteria.
 

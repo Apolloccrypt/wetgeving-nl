@@ -1,13 +1,24 @@
 ---
 title: "Overeenkomst tussen de Benelux-Staten en Mongolië inzake de vrijstelling van de visumplicht voor houders van een diplomatiek paspoort en houders van een officieel/dienstpaspoort"
 identifier: "BWBV0007037"
-categorie: "Internationaal recht"
-publicatiedatum: 2024-01-09
-laatste_update: 2024-01-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007037"
+country: "nl"
+rank: "verdrag"
+publication_date: "2024-01-09"
+last_updated: "2024-01-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007037"
+soort: "verdrag"
+stam_id: "10005651833"
+version_id: "10006226182"
+internal_id: "C10010075401"
+label_id: "10005633864"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007037/2024-01-09/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0007037&z=2024-01-09&g=2024-01-09"
+jci_1_0: "1.0:c:BWBV0007037&g=2024-01-09"
+citeertitel_status: "redactioneel"
 ---
-
 # Overeenkomst tussen de Benelux-Staten en Mongolië inzake de vrijstelling van de visumplicht voor houders van een diplomatiek paspoort en houders van een officieel/dienstpaspoort
 
 Preambule
@@ -26,7 +37,7 @@ Bereid zijnde een Overeenkomst te sluiten inzake de vrijstelling van de visumpli
 
 Komen hierbij het volgende overeen:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 Tenzij uit de context anders blijkt, wordt in deze Overeenkomst verstaan onder:
 
@@ -38,7 +49,7 @@ Tenzij uit de context anders blijkt, wordt in deze Overeenkomst verstaan onder:
 
 - –. Voor Mongolië: het grondgebied van Mongolië.
 
-#### Artikel 2. Bevoegde autoriteiten
+##### Artikel 2. Bevoegde autoriteiten
 
 De bevoegde autoriteiten die verantwoordelijk zijn voor de uitvoering van deze Overeenkomst:
 
@@ -46,13 +57,13 @@ De bevoegde autoriteiten die verantwoordelijk zijn voor de uitvoering van deze O
 
 - b. voor de Benelux-Staten: voor het Koninkrijk België, de Federale Overheidsdienst Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking, voor het Groothertogdom Luxemburg, het Ministerie van Buitenlandse en Europese Zaken en voor het Koninkrijk der Nederlanden, het Ministerie van Buitenlandse Zaken.
 
-#### Artikel 3. Vrijstelling van de visumplicht
+##### Artikel 3. Vrijstelling van de visumplicht
 
 1. Onderdanen van Mongolië die houder zijn van een geldig diplomatiek paspoort en onderdanen die houder zijn van een officieel/dienstpaspoort kunnen het grondgebied van de Benelux-Staten betreden zonder visum en gedurende ten hoogste negentig (90) dagen per periode van 180 dagen op het grondgebied verblijven.
 
 2. Onderdanen van een Benelux-Staat die houder zijn van een geldig diplomatiek paspoort en onderdanen die houder zijn van een geldig officieel/dienstpaspoort kunnen het grondgebied van Mongolië betreden zonder visum en gedurende ten hoogste negentig (90) dagen per periode van 180 dagen op het grondgebied verblijven.
 
-#### Artikel 4. Geaccrediteerde vertegenwoordigers
+##### Artikel 4. Geaccrediteerde vertegenwoordigers
 
 1. Onderdanen van de Staat van een Partij die zijn aangesteld bij een diplomatieke of consulaire vertegenwoordiging of bij een vertegenwoordiging van een internationale organisatie die is gelegen in de Staat van de andere Partij en die in het bezit zijn van een geldig diplomatiek paspoort en onderdanen die in het bezit zijn van een geldig officieel/dienstpaspoort, kunnen voor de duur van hun accreditatie zonder visum het grondgebied van de ontvangende Partij betreden, verlaten en er verblijven.
 
@@ -60,35 +71,35 @@ De bevoegde autoriteiten die verantwoordelijk zijn voor de uitvoering van deze O
 
 3. Gezinsleden van de in het eerste lid bedoelde personen die onderdanen zijn van de zendstaat en houder zijn van een geldig diplomatiek paspoort en gezinsleden van de personen die onderdanen zijn van de zendstaat en houder zijn van een geldig officieel/dienstpaspoort, komen voor dezelfde faciliteiten in aanmerking, voor zover zij in hetzelfde huishouden wonen en door de ontvangende Staat worden erkend als gezinsleden die gerechtigd zijn bij de in het eerste lid bedoelde persoon te verblijven.
 
-#### Artikel 5. Weigering van toegang
+##### Artikel 5. Weigering van toegang
 
 Onverminderd de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0007037&artikel=3&z=2024-01-09&g=2024-01-09) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0007037&artikel=4&z=2024-01-09&g=2024-01-09) van deze Overeenkomst behoudt elke Staat van een Partij zich het recht voor de toegang tot zijn grondgebied te weigeren aan personen die als ongewenst worden beschouwd of wier aanwezigheid in het land wordt beschouwd als een gevaar voor de openbare orde of voor de nationale veiligheid.
 
-#### Artikel 6. Toepassing van wetten
+##### Artikel 6. Toepassing van wetten
 
 1. Tenzij hierin anders is voorzien, doet deze Overeenkomst geen afbreuk aan de wet- en regelgeving die in de Staten van kracht is met betrekking tot de toegang tot het grondgebied, de verblijfsduur, de vestiging en de verwijdering en werkzaamheden van vreemdelingen, ongeacht de vorm daarvan.
 
 2. Deze Overeenkomst is van toepassing onverminderd de rechten, verplichtingen en verantwoordelijkheden van de Partijen die voortvloeien uit andere internationale overeenkomsten.
 
-#### Artikel 7. Documentatie
+##### Artikel 7. Documentatie
 
 De Partijen verstrekken elkaar langs diplomatieke weg de specimina van hun nieuwe of gewijzigde nationale diplomatieke paspoorten en officiële/dienstpaspoorten, alsook de gegevens betreffende het gebruik van deze paspoorten, zulks voor zover mogelijk dertig (30) dagen voordat deze in omloop worden gebracht.
 
-#### Artikel 8. Geschillenregeling
+##### Artikel 8. Geschillenregeling
 
 Geschillen tussen de Partijen die voortvloeien uit de toepassing of uitlegging van deze Overeenkomst worden in der minne geregeld via overleg of onderhandelingen tussen de Partijen.
 
-#### Artikel 9. Wijzigingen
+##### Artikel 9. Wijzigingen
 
 1. Deze Overeenkomst kan met wederzijdse instemming van de Partijen worden gewijzigd bij notawisseling langs diplomatieke weg. Deze wijzigingen treden in werking in overeenstemming met de in het eerste lid van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0007037&artikel=11&z=2024-01-09&g=2024-01-09) vastgelegde procedure.
 
 2. De Partijen stellen de depositaris in kennis van de in het eerste lid bedoelde notawisseling en zenden de depositaris hun kennisgeving toe waarin zij bevestigen dat aan alle grondwettelijke en juridische vereisten voor de inwerkingtreding ervan is voldaan.
 
-#### Artikel 10. Depositaris
+##### Artikel 10. Depositaris
 
 Het Secretariaat-Generaal van de Benelux-Unie treedt op als depositaris van deze Overeenkomst. De depositaris verstrekt elke ondertekenende Staat een gewaarmerkt afschrift van het origineel van deze Overeenkomst.
 
-#### Artikel 11. Inwerkingtreding en beëindiging
+##### Artikel 11. Inwerkingtreding en beëindiging
 
 1. Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand na de datum van ontvangst door de depositaris van de laatste kennisgeving waarin wordt bevestigd dat aan alle grondwettelijke en juridische vereisten voor de inwerkingtreding ervan is voldaan.
 
@@ -100,11 +111,11 @@ Het Secretariaat-Generaal van de Benelux-Unie treedt op als depositaris van deze
 
 5. De depositaris stelt elke Staat van een Partij in kennis van de ontvangst van elke in dit artikel bedoelde kennisgeving.
 
-#### Artikel 12. Opschorting
+##### Artikel 12. Opschorting
 
 Elke Partij kan de toepassing van deze Overeenkomst opschorten. Van de opschorting wordt de depositaris onmiddellijk in kennis gesteld. De depositaris zal de Staten van de Partijen van de ontvangst van deze kennisgeving in kennis stellen. Dezelfde procedure geldt voor het ongedaan maken van de opschorting.
 
-#### Artikel 13. Territoriale toepassing
+##### Artikel 13. Territoriale toepassing
 
 1. Het Koninkrijk der Nederlanden kan de toepassing van deze Overeenkomst uitbreiden tot Aruba, Curaçao, Sint-Maarten en tot het Caribische deel van Nederland (Bonaire, Sint-Eustatius en Saba) door de depositaris daarvan in kennis te stellen.
 

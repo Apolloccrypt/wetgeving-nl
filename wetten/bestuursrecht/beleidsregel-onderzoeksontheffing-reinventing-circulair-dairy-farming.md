@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel Onderzoeksontheffing Reinventing circulair dairy farming"
+title: "Beleidsregel van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur 8 november 2024, nr. WJZ/89748388 houdende vaststelling van regels voor het verlenen van een ontheffing van de stikstofgebruiksnomen voor dierlijke mest voor het onderzoek Reinventing circular dairy farming (Beleidsregel Onderzoeksontheffing Reinventing circular dairy farming)"
 identifier: "BWBR0050420"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-11-16
-laatste_update: 2024-11-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050420"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-11-16"
+last_updated: "2024-11-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050420"
+soort: "beleidsregel"
+stam_id: "17271433"
+version_id: "30419652"
+internal_id: "C43624691"
+label_id: "17176854"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050420/2024-11-16/0"
+intitule_bron: "Stcrt.2024-37335"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-08"
+intitule_published: "2024-11-15"
+intitule_in_force: "2024-11-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-37335"
+original_signed_date: "2024-11-08"
+original_published_date: "2024-11-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-37335"
+entry_into_force_date: "2024-11-16"
+jci_1_3: "jci1.3:c:BWBR0050420&z=2024-11-16&g=2024-11-16"
+jci_1_0: "1.0:c:BWBR0050420&g=2024-11-16"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel Onderzoeksontheffing Reinventing circulair dairy farming"
+signed_date: "2024-11-08"
+entry_into_force: "2024-11-16"
 ---
-
 # Beleidsregel van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur 8 november 2024, nr. WJZ/89748388 houdende vaststelling van regels voor het verlenen van een ontheffing van de stikstofgebruiksnomen voor dierlijke mest voor het onderzoek Reinventing circular dairy farming (Beleidsregel Onderzoeksontheffing Reinventing circular dairy farming)
 
 Gelet op [artikel 38, tweede lid, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=38) en [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -30,23 +56,23 @@ In deze beleidsregel wordt verstaan onder:
 
 - **staltechniek 3:** natuurlijk geventileerde vrijloopstal met zandbedding, voorzien van urine afvoerdrainage en beddingreiniger voor dagvers verwijderen van mest.
 
-#### Artikel 2. Toepassingsbereik
+##### Artikel 2. Toepassingsbereik
 
 Deze beleidsregel is van toepassing op de behandeling van aanvragen om een ontheffing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=7) juncto [artikel 8, onderdeel a, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=8) in het kader van deelname aan het Onderzoek RCDF.
 
-#### Artikel 3. Verlening ontheffing
+##### Artikel 3. Verlening ontheffing
 
 De minister verleent op aanvraag en overeenkomstig de in deze beleidsregel opgenomen voorwaarden ontheffing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=7), juncto [artikel 8, onderdeel a, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=8) waarmee hoogwaardige urine boven de gebruiksnorm voor dierlijke mest kan worden aangewend.
 
-#### Artikel 4. Duur ontheffing
+##### Artikel 4. Duur ontheffing
 
 Een ontheffing wordt verleend voor de duur van een kalenderjaar en kan jaarlijks opnieuw worden aangevraagd.
 
-#### Artikel 5. Doelgroep
+##### Artikel 5. Doelgroep
 
 Voor ontheffing komen uitsluitend in aanmerking landbouwbedrijven die beschikken over een werkende staltechniek 1, 2 of 3, en landbouwbedrijven die aantoonbaar uiterlijk op 1 juli van het jaar waarop de ontheffing betrekking heeft kunnen beschikken over een werkende staltechniek als hiervoor genoemd en die deelnemen, dan wel aantoonbaar in het jaar waarop de ontheffing betrekking heeft, zullen gaan deelnemen aan het onderzoek RCDF.
 
-#### Artikel 6. Aanvraag ontheffing
+##### Artikel 6. Aanvraag ontheffing
 
 1. Een aanvraag om ontheffing wordt ingediend van 1 mei tot en met 15 mei van het jaar voorafgaand aan het kalenderjaar waarop de ontheffing betrekking heeft. De aanvraag geschiedt elektronisch met behulp van een door de minister beschikbaar gesteld formulier.
 
@@ -76,13 +102,13 @@ Voor ontheffing komen uitsluitend in aanmerking landbouwbedrijven die beschikken
 
 8. De aanvraag bevat een verklaring waaruit blijkt dat de aanvrager medewerking verleent aan het onderzoek RCDF.
 
-#### Artikel 7. Ontheffingenplafond
+##### Artikel 7. Ontheffingenplafond
 
 1. De minister verleent ten hoogste 100 ontheffingen per kalenderjaar.
 
 2. De minister verleent ten hoogste 50 ontheffingen voor staltechniek 1 en ten hoogste 50 ontheffingen voor de staltechnieken 2 en 3 tezamen.
 
-#### Artikel 8. Verdeling ontheffingen
+##### Artikel 8. Verdeling ontheffingen
 
 1. De ontheffingen worden als volgt verdeeld:
 
@@ -96,7 +122,7 @@ Voor ontheffing komen uitsluitend in aanmerking landbouwbedrijven die beschikken
 
 3. Voor de toepassing van dit artikel worden de staltechnieken 2 en 3 als één staltechniek gezien.
 
-#### Artikel 9. Weigeringsgronden
+##### Artikel 9. Weigeringsgronden
 
 De aanvraag om een ontheffing wordt in ieder geval geweigerd indien:
 
@@ -106,7 +132,7 @@ De aanvraag om een ontheffing wordt in ieder geval geweigerd indien:
 
 - c. de aanvrager voor het jaar voorafgaand aan het kalenderjaar waarop de aanvraag betrekking heeft een ontheffing heeft ontvangen en in strijd heeft gehandeld moet de aan de ontheffing verbonden voorschriften.
 
-#### Artikel 10. Intrekkingsgronden
+##### Artikel 10. Intrekkingsgronden
 
 1. De ontheffing kan in ieder geval worden ingetrokken indien:
 
@@ -120,7 +146,7 @@ De aanvraag om een ontheffing wordt in ieder geval geweigerd indien:
 
 2. De intrekking van de ontheffing kan terugwerken tot het moment van verlening indien de ontheffing ten onrechte is verleend en de houder van de ontheffing dit wist of behoorde te weten.
 
-#### Artikel 11. Voorschriften ontheffing – gebruik en kwaliteit
+##### Artikel 11. Voorschriften ontheffing – gebruik en kwaliteit
 
 1. De hoogwaardige urine wordt uitsluitend op het bedrijf van de houder van de ontheffing aangewend en wordt niet verhandeld.
 
@@ -130,19 +156,19 @@ De aanvraag om een ontheffing wordt in ieder geval geweigerd indien:
 
 4. De houder van de ontheffing voldoet binnen een jaar na de ingangsdatum van de eerste ontheffing aan de kwaliteitseisen, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050420&artikel=6&z=2024-11-16&g=2024-11-16).
 
-#### Artikel 12. Voorschriften ontheffing – informatie
+##### Artikel 12. Voorschriften ontheffing – informatie
 
 De houder van de ontheffing meldt voor de ontheffing relevante wijzigingen in de bedrijfsvoering binnen 30 dagen aan de minister.
 
-#### Artikel 13. Overdraagbaarheid ontheffing
+##### Artikel 13. Overdraagbaarheid ontheffing
 
 Een verleende ontheffing is overdraagbaar ingeval van bedrijfsoverdracht. De houder van de ontheffing en de landbouwer aan wie de ontheffing wordt overgedragen doen gezamenlijk een verzoek aan de minister tot wijziging van de tenaamstelling van de ontheffing. De landbouwer aan wie de ontheffing wordt overgedragen voldoet aan de voorwaarden om in aanmerking te komen voor een ontheffing en neemt deel of gaat aantoonbaar deelnemen aan het onderzoek RCDF.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst en vervalt met ingang van 1 januari 2029.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Onderzoeksontheffing Reinventing circulair dairy farming.
 

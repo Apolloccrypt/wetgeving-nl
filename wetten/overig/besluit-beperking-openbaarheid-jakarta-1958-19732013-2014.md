@@ -1,13 +1,39 @@
 ---
-title: "Besluit Beperking Openbaarheid Jakarta (1958) 1973–2013 (2014)"
+title: "Besluit van de Minister van Buitenlandse Zaken van 10 februari 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Indonesië, ambassade Jakarta, Besluit Beperking Openbaarheid Jakarta (1958) 1973–2013 (2014)"
 identifier: "BWBR0047878"
-categorie: "Overig"
-publicatiedatum: 2023-02-18
-laatste_update: 2023-02-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047878"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-02-18"
+last_updated: "2023-02-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047878"
+soort: "ministeriele-regeling"
+stam_id: "16674933"
+version_id: "29246702"
+internal_id: "C41627941"
+label_id: "16592434"
+dtd_version: "2.0"
+original_entry_into_force: "2023-02-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047878/2023-02-18/0"
+intitule_bron: "Stcrt.2023-5391"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-02-10"
+intitule_published: "2023-02-17"
+intitule_in_force: "2023-02-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-5391"
+original_signed_date: "2023-02-10"
+original_published_date: "2023-02-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-5391"
+entry_into_force_date: "2023-02-18"
+jci_1_3: "jci1.3:c:BWBR0047878&z=2023-02-18&g=2023-02-18"
+jci_1_0: "1.0:c:BWBR0047878&g=2023-02-18"
+citeertitel_status: "redactioneel"
+short_title: "Besluit Beperking Openbaarheid Jakarta (1958) 1973–2013 (2014)"
+signed_date: "2023-02-10"
+entry_into_force: "2023-02-18"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 10 februari 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Indonesië, ambassade Jakarta, Besluit Beperking Openbaarheid Jakarta (1958) 1973–2013 (2014)
 
 Overwegende dat een aantal inventarisnummers in het archief beperkingen aan de openbaarheid behoeven;
@@ -16,7 +42,7 @@ Gelet op [artikel 15, eerste lid onder a en b, van de Archiefwet 1995](https://w
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste, derde en vijfde kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de kolom rechts van het inventarisnummer.
 
@@ -129,7 +155,7 @@ Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventaris
 | 416 | 2065 | 1011 | 2028 | 1374 | 2078 |
 | 417 | 2065 | 1015 | 2054 | 1375 | 2078 |
 
-#### Artikel 2
+##### Artikel 2
 
 Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste, derde en vijfde kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de kolom rechts van het inventarisnummer.
 
@@ -162,17 +188,17 @@ Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnum
 | 669 | 2042 | 1119 | 2027 |   |   |
 | 674 | 2037 | 1139 | 2060 |   |   |
 
-#### Artikel 3
+##### Artikel 3
 
 1. Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047878&artikel=1&z=2023-02-18&g=2023-02-18), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden. (De algemene rijksarchivaris behandelt verzoeken tot raadpleging in de inventarisnummers, volgens de procedures die gelden voor inzage in archieven met bijzondere persoonsgegevens).
 
 2. Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047878&artikel=2&z=2023-02-18&g=2023-02-18), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van het hieronder vermelde overheidsorgaan.
 
-#### Artikel 4
+##### Artikel 4
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047878&artikel=1&z=2023-02-18&g=2023-02-18) is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

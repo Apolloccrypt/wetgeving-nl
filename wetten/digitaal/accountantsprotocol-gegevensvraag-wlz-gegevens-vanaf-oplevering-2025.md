@@ -1,13 +1,38 @@
 ---
 title: "Accountantsprotocol Gegevensvraag Wlz-gegevens, vanaf oplevering 2025"
 identifier: "BWBR0050983"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2025-04-26
-laatste_update: 2025-04-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050983"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-04-26"
+last_updated: "2025-04-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050983"
+soort: "zbo"
+stam_id: "17415243"
+version_id: "30705762"
+internal_id: "C44013391"
+label_id: "17318604"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050983/2025-04-26/0"
+intitule_bron: "Stcrt.2025-14094"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-04-15"
+intitule_published: "2025-04-25"
+intitule_in_force: "2025-04-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-14094"
+original_signed_date: "2025-04-15"
+original_published_date: "2025-04-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-14094"
+entry_into_force_date: "2025-04-26"
+jci_1_3: "jci1.3:c:BWBR0050983&z=2025-04-26&g=2025-04-26"
+jci_1_0: "1.0:c:BWBR0050983&g=2025-04-26"
+citeertitel_status: "redactioneel"
+signed_date: "2025-04-15"
+entry_into_force: "2025-04-26"
 ---
-
 # Accountantsprotocol Gegevensvraag Wlz-gegevens, vanaf oplevering 2025
 
 ### 1. Inleiding

@@ -1,13 +1,37 @@
 ---
 title: "Verdrag inzake de erkenning van de internationale rechtspersoonlijkheid van het Internationaal Aardappelcentrum (CIP)"
 identifier: "BWBV0001514"
-categorie: "Internationaal recht"
-publicatiedatum: 2002-02-01
-laatste_update: 2002-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001514"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-02-01"
+last_updated: "2002-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001514"
+soort: "verdrag"
+stam_id: "10000115673"
+version_id: "10000126142"
+internal_id: "C10006991281"
+label_id: "10000116454"
+original_entry_into_force: "2002-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001514/2002-02-01/0"
+intitule_bron: "Trb.2001-32"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-01-09"
+intitule_published: "2001-02-22"
+intitule_in_force: "2002-03-25"
+intitule_status: "goed"
+original_publication: "Trb.2001-32"
+original_signed_date: "2002-01-09"
+original_published_date: "2001-02-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2001-32"
+entry_into_force_date: "2002-02-01"
+jci_1_3: "jci1.3:c:BWBV0001514&z=2002-02-01&g=2002-02-01"
+jci_1_0: "1.0:c:BWBV0001514&g=2002-02-01"
+citeertitel_status: "officieel"
+signed_date: "2002-01-09"
+entry_into_force: "2002-02-01"
 ---
-
 # Verdrag inzake de erkenning van de internationale rechtspersoonlijkheid van het Internationaal Aardappelcentrum (CIP)
 
 Overwegende dat:
@@ -22,13 +46,13 @@ Komen de Partijen bij dit Verdrag overeen de internationale rechtspersoonlijkhei
 
 De Partijen bij dit Verdrag zijn, derhalve, het volgende overeengekomen:
 
-#### Artikel 1. Erkenning van de internationale rechtspersoonlijkheid
+##### Artikel 1. Erkenning van de internationale rechtspersoonlijkheid
 
 1. Bij deze wordt de internationale rechtspersoonlijkheid van het Internationaal Aardappelcentrum erkend. Als internationale organisatie voert het CIP zijn taken uit en streeft het zijn doelen en doelstellingen na in overeenstemming met de wetten van de landen waarop zijn activiteiten zijn gericht.
 
 2. Het CIP verricht zijn activiteiten in overeenstemming met de bijgevoegde statuten, die eventueel kunnen worden gewijzigd in overeenstemming met de bepalingen inzake wijziging die opgenomen zijn in de statuten.
 
-#### Artikel 2. Beperkingen
+##### Artikel 2. Beperkingen
 
 1. Het enige doel van dit Verdrag is het toekennen van internationale rechtspersoonlijkheid aan het CIP. Het Verdrag kan evenwel als basis dienen voor de toekenning aan het CIP van de voorrechten en immuniteiten die nodig zijn voor de uitvoering van zijn werkzaamheden.
 
@@ -36,7 +60,7 @@ De Partijen bij dit Verdrag zijn, derhalve, het volgende overeengekomen:
 
 3. Dit Verdrag doet geen afbreuk aan de rechten en verplichtingen van het CIP die voortvloeien uit contractuele bepalingen tussen het CIP en derde partijen. Op dezelfde wijze doet het Verdrag geen afbreuk aan de rechten en verplichtingen van het CIP die voortvloeien uit eventuele overeenkomsten die het Centrum met een regering of regeringen heeft gesloten, tenzij de betrokken regeringen en het CIP besluiten de overeenkomsten opnieuw te bezien teneinde hierin rekening te houden met de internationale status van het CIP.
 
-#### Artikel 3. Ondertekening en toetreding
+##### Artikel 3. Ondertekening en toetreding
 
 1. Dit Verdrag staat voor ondertekening open voor de Staten bij het ministerie van buitenlandse zaken van de Republiek Peru. Het Verdrag blijft openstaan voor ondertekening gedurende een tijdvak van twee jaar, te rekenen vanaf 26 november 1999.
 
@@ -58,27 +82,27 @@ De Partijen bij dit Verdrag zijn, derhalve, het volgende overeengekomen:
 
 - c. houdt in bewaring de oorspronkelijke tekst van dit Verdrag alsmede van de aan haar verleende volmacht.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking nadat drie Staten het hebben ondertekend.
 
 2. Ten aanzien van elke Staat die een akte van toetreding nederlegt na de datum van inwerkingtreding van het Verdrag, treedt het Verdrag in werking op de eerste dag van de maand volgend op de datum van ontvangst van deze akte door de Depositaris.
 
-#### Artikel 5. Wijzigingen
+##### Artikel 5. Wijzigingen
 
 1. Elke Partij kan voorstellen doen tot wijziging van dit Verdrag. De wijziging dient te worden goedgekeurd door de meerderheid van de Partijen.
 
 2. Een aldus goedgekeurde wijziging wordt ten aanzien van de Staten die partij zijn, en die de wijziging hebben aanvaard, van kracht 30 dagen na het tijdstip van de nederlegging bij de Depositaris van de akten van aanvaarding door een meerderheid van de Staten die partij zijn bij dit Verdrag. Daarna wordt de wijziging ten aanzien van elke tot dit Verdrag toegetreden Staat dertig dagen na de nederlegging door die Staat van zijn akte van aanvaarding van kracht.
 
-#### Artikel 6. Opzegging
+##### Artikel 6. Opzegging
 
 Elke Partij kan dit Verdrag opzeggen door een schriftelijke kennisgeving van dit voornemen aan de Depositaris, die hiervan mededeling doet aan de overige Partijen. De opzegging wordt drie maanden na de datum van ontvangst van de kennisgeving door de Depositaris van kracht.
 
-#### Artikel 7. Beëindiging van het Verdrag
+##### Artikel 7. Beëindiging van het Verdrag
 
 Dit Verdrag wordt beëindigd door de opheffing van het CIP of wanneer, als gevolg van opzeggingen, minder dan drie tot het Verdrag toegetreden Partijen overblijven.
 
-#### Artikel 8. Beslechting van geschillen
+##### Artikel 8. Beslechting van geschillen
 
 1. Elk geschil tussen de Partijen betreffende de uitlegging of toepassing van dit Verdrag dat niet kan worden opgelost in onderlinge overeenstemming, wordt, op verzoek van een van de partijen bij het geschil, voorgelegd aan een uit drie leden samengesteld scheidsgerecht. Elke partij benoemt een lid van het scheidsgerecht en de twee aldus benoemde leden benoemen tezamen een derde lid van het scheidsgerecht, dat optreedt als voorzitter van het scheidsgerecht.
 
@@ -90,7 +114,7 @@ Dit Verdrag wordt beëindigd door de opheffing van het CIP of wanneer, als gevol
 
 5. Het scheidsgerecht neemt zijn beslissing bij meerderheid van stemmen. Deze beslissing is onherroepelijk en bindend voor de Partijen bij het geschil.
 
-#### Artikel 9. Authentieke teksten
+##### Artikel 9. Authentieke teksten
 
 Dit Verdrag is opgesteld in de Franse, de Engelse en de Spaanse taal, waarbij de drie teksten gelijkelijk authentiek zijn.
 
@@ -100,21 +124,21 @@ Hierbij worden de statuten van het Internationaal Aardappelcentrum vastgesteld, 
 
 ## TITEL I. NAAM, RECHTSPERSOONLIJKHEID, ZETEL, BESTAANSDUUR, DOEL, ACTIVITEITEN EN RECHTSBEVOEGDHEID VAN HET CIP
 
-#### Artikel 1. Naam en juridische status
+##### Artikel 1. Naam en juridische status
 
 Het „Internationaal Aardappelcentrum" (hierna te noemen het CIP), is een onafhankelijke internationale organisatie, zonder winstoogmerk, met uitsluitend wetenschappelijke en educatieve doeleinden, en met volledige autonomie ten aanzien van haar beheer en activiteiten.
 
 Het CIP beschikt over volledige internationale rechtspersoonlijkheid uit hoofde van het Verdrag waarbij het is opgericht en ingevolge de internationale aard van zijn leden en van zijn activiteiten. Het CIP beschikt over alle rechtsbevoegdheid die noodzakelijk is voor de uitoefening van zijn functies en de verwezenlijking van zijn doeleinden.
 
-#### Artikel 2. Zetel
+##### Artikel 2. Zetel
 
 De zetel van het CIP is gevestigd in de Republiek Peru; het hoofdkantoor is gevestigd te Lima. Onverminderd het voorgaande kan de Raad van Toezicht van het CIP in elke andere plaats in Peru of in andere landen kantoren vestigen indien zulks noodzakelijk is ter ondersteuning van het programma van het CIP.
 
-#### Artikel 3. Bestaansduur
+##### Artikel 3. Bestaansduur
 
 De bestaansduur van het CIP is onbepaald, maar de Raad van Toezicht kan zijn ontbinding goedkeuren overeenkomstig het gestelde in Titel VII van deze Statuten.
 
-#### Artikel 4. Doel
+##### Artikel 4. Doel
 
 Het doel van het CIP is omschreven in het mandaat dat aan het Centrum is toegekend en in de opdracht waarmee het is belast, zoals bepaald in de volgende leden van dit artikel.
 
@@ -156,7 +180,7 @@ Het CIP beschikt over alle bevoegdheden die nodig zijn en kan alle door het Cent
 
 - h. het deelnemen aan alle activiteiten die verband houden met de doelstelling van het CIP.
 
-#### Artikel 5. Rechtsbevoegdheid
+##### Artikel 5. Rechtsbevoegdheid
 
 Bij de uitvoering van zijn activiteiten kan het CIP zonder enige beperking of restrictie alle handelingen verrichten en alle contracten sluiten en, in het algemeen, alle handelingen verrichten die relevant of noodzakelijk zijn voor het voldoen aan zijn sociale doelstelling.
 
@@ -176,7 +200,7 @@ Onder voorbehoud dat de navolgende opsomming niet limitatief, doch slechts illus
 
 ## TITEL II. BEHEER VAN HET CIP
 
-#### Artikel 6. Beheersorganen
+##### Artikel 6. Beheersorganen
 
 Het beheer van het CIP berust bij:
 
@@ -190,27 +214,27 @@ Het beheer van het CIP berust bij:
 
 ## TITEL III. ECONOMISCH STELSEL
 
-#### Artikel 7. Institutioneel kapitaal
+##### Artikel 7. Institutioneel kapitaal
 
 Het startkapitaal van het CIP bedraagt USD13.973.000. Echter, hierna is het institutionele kapitaal het kapitaal zoals op de balans weergegeven.
 
-#### Artikel 8. Financiering
+##### Artikel 8. Financiering
 
 De basisbegroting van het CIP wordt gefinancierd door de leden van de internationale adviesgroep inzake landbouwonderzoek (IAL). Hiertoe keurt de Raad van Toezicht de jaarlijkse begroting van het CIP goed, die zal worden voorgelegd aan de internationale adviesgroep inzake landbouwonderzoek (IAL).
 
 Daarnaast kan het CIP bijdragen ontvangen uit andere bronnen voor financiering van werkzaamheden, programma's of uitgaven die niet vallen onder de basisbegroting.
 
-#### Artikel 9. Beheer van fondsen
+##### Artikel 9. Beheer van fondsen
 
 De economische en financiële activiteiten van het CIP worden beheerst door de desbetreffende door de Raad van Toezicht aangenomen reglementen, in overeenstemming met de door de internationale adviesgroep inzake landbouwonderzoek (IAL) vastgelegde beginselen.
 
-#### Artikel 10. Jaarlijkse audit
+##### Artikel 10. Jaarlijkse audit
 
 Op voorstel van de Directeur-Generaal wijst de Raad van Toezicht een internationaal en onafhankelijk accountantskantoor aan dat jaarlijks een volledige controle van de rekeningen en de activiteiten van het CIP uitvoert.
 
 De Directeur-Generaal legt de uitkomst van deze controle ter bestudering en goedkeuring voor aan de Raad van Toezicht en aan de internationale adviesgroep inzake landbouwonderzoek (IAL).
 
-#### Artikel 11. Overschotten en activa
+##### Artikel 11. Overschotten en activa
 
 De economische overschotten van de activiteiten van het CIP kunnen onder geen enkele voorwaarde, rechtstreeks noch indirect, geheel noch ten dele worden verdeeld onder de leden, de Raad van Toezicht of andere functionarissen of privé-personen. De bedragen die het CIP aan zijn functionarissen, consultants, werknemers, arbeiders en, in het algemeen, aan diegenen die het Centrum daadwerkelijk diensten verlenen, uitkeert als vergoeding voor deze diensten, vallen uiteraard buiten deze beperking.
 
@@ -220,7 +244,7 @@ Op dezelfde wijze kunnen ook de activa van het CIP in geen enkel geval, geheel n
 
 ## TITEL IV. RAAD VAN TOEZICHT
 
-#### Artikel 12. Samenstelling en aantal leden van de Raad
+##### Artikel 12. Samenstelling en aantal leden van de Raad
 
 Het CIP wordt geleid door een Raad van Toezicht die is samengesteld uit ten minste tien personen. De eerste Raad van Toezicht wordt benoemd door de internationale adviesgroep inzake landbouwonderzoek (IAL), door bevestiging van de benoeming van de bestaande leden ten tijde van de ondertekening van het Verdrag. Vervolgens, na het verstrijken van de ambtstermijn van zijn leden, benoemt de Raad van Toezicht zijn nieuwe leden. Een van de leden van deze Raad van Toezicht wordt voorgedragen door de minister van landbouw van het gastland en een andere door de universiteit waarnaar in letter a van dit artikel wordt verwezen. Tijdens elke vergadering kan de Raad van Toezicht het exacte aantal leden waaruit deze voortaan zal bestaan, vaststellen, door middel van wijziging van het voorgaande aantal leden, mits het in dit lid bepaalde minimumaantal van tien leden wordt gehandhaafd. In elk geval stelt de Raad van Toezicht, telkens wanneer een vacature ontstaat bij de leden met de in letter d van het volgende lid bedoelde herkomst, het aantal leden vast.
 
@@ -240,7 +264,7 @@ De Raad van Toezicht wordt samengesteld uit de volgende leden:
 
 **Overgangsbepaling:** Wanneer de juridische status van het CIP eenmaal is gewijzigd, blijven de zittende leden van de Raad van Toezicht in functie; in overeenstemming met het eerste lid van dit artikel kan de Raad van Toezicht evenwel nieuwe leden toelaten.
 
-#### Artikel 13. Personen die niet in aanmerking komen om lid te worden van de Raad van Toezicht
+##### Artikel 13. Personen die niet in aanmerking komen om lid te worden van de Raad van Toezicht
 
 De volgende personen kunnen niet worden benoemd als lid van de Raad van Toezicht:
 
@@ -248,7 +272,7 @@ De volgende personen kunnen niet worden benoemd als lid van de Raad van Toezicht
 
 - b. de functionarissen en directeuren van het jaarlijks door het CIP ingeschakelde externe accountantskantoor, ongeacht hun rang of functie.
 
-#### Artikel 14. Beëindiging van het lidmaatschap van de Raad van Toezicht
+##### Artikel 14. Beëindiging van het lidmaatschap van de Raad van Toezicht
 
 De leden van de Raad van Toezicht worden benoemd voor een termijn van drie jaren en kunnen opnieuw worden benoemd voor een aanvullende, daaropvolgende termijn, die in uitzonderlijke gevallen door de Raad van Toezicht zelf kan worden verlengd. Een lid dat twee termijnen heeft voltooid, kan slechts opnieuw worden benoemd wanneer een periode van ten minste twee jaren is verstreken tussen de laatste dag waarop hij het lidmaatschap vervulde en zijn nieuwe benoeming.
 
@@ -256,7 +280,7 @@ De vertegenwoordigers van het gastland zijn vrijgesteld van de beperkingen ten a
 
 De benoeming van de Directeur-Generaal is niet aan een termijn gebonden en de benoemde persoon blijft deze functie bekleden tot het moment dat deze vacant is als gevolg van zijn vertrek of het moment dat hij terugtreedt op verzoek van de Raad van Toezicht.
 
-#### Artikel 15. Vacant worden van het lidmaatschap
+##### Artikel 15. Vacant worden van het lidmaatschap
 
 Het lidmaatschap van de Raad van Toezicht wordt vacant door:
 
@@ -274,13 +298,13 @@ Wanneer een vacature ontstaat, onmiddellijk na de jaarlijkse vergadering, ten aa
 
 De vacature dient door de Raad van Toezicht zo snel mogelijk te worden vervuld. Gedurende het openstaan van de zetel kan de Raad van Toezicht bij wijze van uitzondering zijn werkzaamheden verrichten met minder dan tien leden en, in voorkomend geval, met ten minste zes leden met een geldige benoeming.
 
-#### Artikel 16. Benoemingen
+##### Artikel 16. Benoemingen
 
 De Raad van Toezicht kiest de in [artikel 6, a](https://wetten.overheid.nl/jci1.3:c:BWBV0001514&titeldeel=II&artikel=6&z=2002-02-01&g=2002-02-01), van deze Statuten bedoelde leden alsmede de Directeur-Generaal van het CIP. Op dezelfde wijze is de benoeming van de in de [letters b](https://wetten.overheid.nl/jci1.3:c:BWBV0001514&titeldeel=II&artikel=6&z=2002-02-01&g=2002-02-01) en [d](https://wetten.overheid.nl/jci1.3:c:BWBV0001514&titeldeel=II&artikel=6&z=2002-02-01&g=2002-02-01) van hetzelfde artikel bedoelde leden onderworpen aan de goedkeuring van de Raad van Toezicht.
 
 De Raad van Toezicht gaat over tot de benoeming van het desbetreffende lid teneinde het lid waarvan de termijn afloopt, te vervangen of wanneer de zetel om welke reden dan ook vacant is, of tot de herverkiezing of bekrachtiging van de benoeming indien zulks het geval is, die dient te worden verricht tijdens de jaarlijkse vergadering voorafgaand aan het verstrijken van de ambtstermijn van het desbetreffende lid.
 
-#### Artikel 17. Voorzitterschap en vice-voorzitterschap
+##### Artikel 17. Voorzitterschap en vice-voorzitterschap
 
 De Raad van Toezicht kiest uit zijn leden een Voorzitter en een Vice-voorzitter, die hun functie vervullen gedurende een termijn van twee jaren en die voor een aanvullende termijn van twee jaren kunnen worden herkozen.
 
@@ -288,7 +312,7 @@ Indien de termijn van een lid van de Raad van Toezicht, dat benoemd is tot Voorz
 
 De Voorzitter roept de vergaderingen van de Raad van Toezicht bijeen en zit deze voor. Ingeval van tijdelijke afwezigheid van de Voorzitter, worden zijn functies automatisch overgenomen door de Vice-voorzitter. Indien de functie van Voorzitter vacant wordt, kiest de Raad van Toezicht tijdens zijn volgende jaarlijkse vergadering een nieuwe Voorzitter.
 
-#### Artikel 18. Secretariaat
+##### Artikel 18. Secretariaat
 
 De Raad van Toezicht benoemt een Secretaris, die geen lid mag zijn van de Raad van Toezicht, maar deel dient uit te maken van het personeel van de algemene administratie van het CIP.
 
@@ -296,7 +320,7 @@ De Secretaris is belast met het tijdig opstellen van de agenda en met het opstel
 
 De agenda van elke vergadering dient door de Secretaris te worden opgesteld in overleg met de Voorzitter van de Raad van Toezicht. De leden van de Raad van Toezicht dienen de agenda ten minste 14 dagen voor de datum van de desbetreffende vergadering te ontvangen.
 
-#### Artikel 19. Verantwoordelijkheden van de Raad van Toezicht
+##### Artikel 19. Verantwoordelijkheden van de Raad van Toezicht
 
 De Raad van Toezicht is het hoogste bestuurlijke orgaan van het CIP. De Raad van Toezicht heeft de volgende verantwoordelijkheden:
 
@@ -312,7 +336,7 @@ De Raad van Toezicht is het hoogste bestuurlijke orgaan van het CIP. De Raad van
 
 - f. het aannemen van overeenkomsten die voor het opereren van het CIP noodzakelijk of nuttig zijn, indien hiervoor een besluit van de Raad van Toezicht nodig is.
 
-#### Artikel 20. Vergaderingen van de Raad van Toezicht
+##### Artikel 20. Vergaderingen van de Raad van Toezicht
 
 De vergaderingen van de Raad van Toezicht worden voorgezeten door de Voorzitter van de Raad van Toezicht, waarbij de Secretaris van de Raad van Toezicht optreedt als secretaris.
 
@@ -320,7 +344,7 @@ Ingeval van verhindering of afwezigheid van de Voorzitter, wordt de vergadering 
 
 Ingeval van verhindering of afwezigheid van de Secretaris, treedt de Directeur-Generaal op als Secretaris.
 
-#### Artikel 21. Soorten vergaderingen van de Raad van Toezicht
+##### Artikel 21. Soorten vergaderingen van de Raad van Toezicht
 
 De Raad van Toezicht kent gewone en buitengewone vergaderingen.
 
@@ -330,7 +354,7 @@ In uitzonderlijke gevallen kunnen de leden van de Raad van Toezicht, indien spoe
 
 Alle leden van de Raad van Toezicht, met inbegrip van de leden die hun afwijzende mening te kennen geven en die welke niet aan de vergadering hebben deelgenomen, blijven gebonden aan de door de Raad van Toezicht op wettige wijze aangenomen overeenkomsten.
 
-#### Artikel 22. Gewone vergaderingen van de Raad van Toezicht
+##### Artikel 22. Gewone vergaderingen van de Raad van Toezicht
 
 Tijdens de gewone vergadering heeft de Raad van Toezicht de volgende taken:
 
@@ -344,11 +368,11 @@ Tijdens de gewone vergadering heeft de Raad van Toezicht de volgende taken:
 
 - e. het vergaderen over en oplossen van alle aangelegenheden die het CIP aangaan en die niet onder de verantwoordelijkheid vallen van andere organen, in overeenstemming met deze Statuten.
 
-#### Artikel 23. Buitengewone vergaderingen van de Raad van Toezicht
+##### Artikel 23. Buitengewone vergaderingen van de Raad van Toezicht
 
 Buitengewone vergaderingen kunnen te allen tijde plaatsvinden voor de behandeling van spoedeisende aangelegenheden. Dit kunnen aangelegenheden zijn die onder de bevoegdheid van de Raad van Toezicht vallen en, in het algemeen, alle aangelegenheden die noodzakelijk of nuttig zijn voor de verwezenlijking van de doeleinden van het CIP en het goede functioneren van het Centrum.
 
-#### Artikel 24. Bijeenroeping van vergaderingen van de Raad van Toezicht
+##### Artikel 24. Bijeenroeping van vergaderingen van de Raad van Toezicht
 
 De Raad van Toezicht wordt altijd bijeengeroepen door de Voorzitter, met instemming van de Vice-president en de Directeur-Generaal, waarbij de plaats en datum van de vergadering alsmede de inhoud van de agenda worden aangegeven.
 
@@ -358,21 +382,21 @@ De bijeenroeping van de buitengewone vergaderingen dient ten minste tien dagen v
 
 In de mededeling kan worden aangegeven dat de Raad van Toezicht de dag volgend op die welke voor de eerste bijeenroeping is vastgesteld, in tweede bijeenroeping vergadert ingeval het bijbehorende quorum bij de eerste bijeenroeping niet is bereikt.
 
-#### Artikel 25. Vergadering zonder voorafgaande bijeenroeping
+##### Artikel 25. Vergadering zonder voorafgaande bijeenroeping
 
 Onverminderd het bepaalde in de voorgaande artikelen, wordt de Raad van Toezicht geacht te zijn bijeengeroepen en is hij rechtsgeldig samengesteld indien alle leden aanwezig zijn en indien deze unaniem instemmen met de vergadering van de Raad en met de ter behandeling voorgestelde aangelegenheden.
 
-#### Artikel 26. Deelname
+##### Artikel 26. Deelname
 
 De leden waarvan de benoeming van kracht is, alsmede de Secretaris van de Raad, die slechts een adviserende stem heeft, kunnen vergaderingen van de Raad van Toezicht bijwonen. De Raad van Toezicht kan functionarissen, technisch personeel en vaklieden in dienst van het CIP en alle overige personen die geïnteresseerd zijn in de goede gang van zaken bij het Centrum, uitnodigen bij vergaderingen aanwezig te zijn. Deze door de Raad van Toezicht uitgenodigde personen, zijn slechts aanwezig bij besprekingen over de specifieke aangelegenheden waarvoor zij opgeroepen zijn, en hebben geen stemrecht.
 
-#### Artikel 27. Quorum
+##### Artikel 27. Quorum
 
 Voor het houden van vergaderingen van de Raad van Toezicht, ongeacht of dit gewone of buitengewone vergaderingen zijn, bij de eerste bijeenroeping en in gevallen waarin het niet gaat om aangelegenheden als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001514&titeldeel=IV&artikel=29&z=2002-02-01&g=2002-02-01), is de aanwezigheid van zes leden vereist.
 
 Bij de tweede bijeenroeping is de aanwezigheid van drie leden voldoende; dit dienen de Voorzitter of, ingeval van afwezigheid van de Voorzitter, de Vice-voorzitter, een van de leden van de Raad van Toezicht (eventueel de Vice-voorzitter zelf, indien de Voorzitter aanwezig is) en de Directeur-Generaal te zijn.
 
-#### Artikel 28. Stemmingen
+##### Artikel 28. Stemmingen
 
 Elk lid van de Raad van Toezicht heeft één stem.
 
@@ -380,17 +404,17 @@ De leden van de Raad van Toezicht kunnen hun stem uitbrengen door middel van een
 
 De besluiten van de Raad van Toezicht worden aangenomen met absolute meerderheid van de hun stem uitbrengende leden (de helft van het aantal hun stem uitbrengende leden, plus één), behoudens in de in het volgende artikel bedoelde gevallen. Ingeval van staking der stemmen is de stem van de Voorzitter of van degene die de vergadering voorzit, doorslaggevend.
 
-#### Artikel 29. Gekwalificeerde meerderheid
+##### Artikel 29. Gekwalificeerde meerderheid
 
 Voor vergaderingen die betrekking hebben op de verwijdering van een van de leden van de Raad, met inbegrip van de Directeur-Generaal, op de wijziging of uitlegging van de Statuten, op de ontbinding van het CIP of op het samengaan van het CIP met andere instellingen, wordt het quorum bereikt wanneer twee derde van de leden met een geldige benoeming aanwezig zijn. Voor de geldigheid van besluiten ter zake van deze aangelegenheden is de stem vóór van ten minste zeven leden van de Raad van Toezicht vereist.
 
-#### Artikel 30. Strijdige belangen
+##### Artikel 30. Strijdige belangen
 
 Het recht om advies uit te brengen en het recht om een stem uit te brengen kunnen niet worden uitgeoefend door een lid van de Raad dat ten aanzien van de te behandelen onderwerpen voor eigen rekening of voor rekening van een derde belangen heeft.
 
 Een lid van de Raad van Toezicht dat, ten aanzien van welk in de vergadering te behandelen onderwerpen ook meent dat dit onderwerp voor hem van belang kan zijn, brengt dit ter kennis van de Raad. De Raad beslist of dit belang strijdig is met de belangen van het Centrum. Indien zulks het geval is, kan het betrokken lid niet deelnemen aan de beraadslagingen en aan de stemming over dat onderwerp. Het lid van de Raad van Toezicht dat deze bepaling overtreedt, is aansprakelijk voor de hierdoor aan het Centrum toegebrachte schade en kan door de Raad van Toezicht, op verzoek van de Voorzitter of van een van de leden, worden geroyeerd.
 
-#### Artikel 31. Notulen
+##### Artikel 31. Notulen
 
 De vergaderingen van de Raad van Toezicht, ongeacht hun aard, alsmede de in deze vergaderingen aangenomen besluiten, worden vastgelegd in een notulenboek, in de Spaanse en de Engelse taal.
 
@@ -408,7 +432,7 @@ Bij de opstelling van de notulen dienen de volgende regels in acht te worden gen
 
 ## TITEL V. COMITÉS VAN DE RAAD VAN TOEZICHT
 
-#### Artikel 32. Comités van de Raad van Toezicht
+##### Artikel 32. Comités van de Raad van Toezicht
 
 De Raad van Toezicht wordt geadviseerd door Comités bestaande uit leden van de Raad zelf, zoals nader bepaald in de volgende artikelen.
 
@@ -424,29 +448,29 @@ Deze Comités zijn:
 
 - e. de Comités, ongeacht of deze permanent of ad hoc zijn, waarvan de Raad van Toezicht de instelling in de toekomst, afhankelijk van de behoeften van het CIP, nuttig acht; in een dergelijk geval stelt de Raad van Toezicht hun samenstelling vast en wijst hij aan deze Comités taken toe, zonder dat hiervoor een wijziging van deze Statuten vereist is.
 
-#### Artikel 33. Samenstelling van het Uitvoerend Comité
+##### Artikel 33. Samenstelling van het Uitvoerend Comité
 
 Het Uitvoerend Comité is samengesteld uit de Voorzitter en de Vice-voorzitter van de Raad van Toezicht, de Voorzitter van het Programmacomité en de Directeur-Generaal van het Centrum.
 
-#### Artikel 34. Taken van het Uitvoerend Comité
+##### Artikel 34. Taken van het Uitvoerend Comité
 
 Het Uitvoerend Comité is belast met de wezenlijke aspecten van het CIP, die zich voordoen tussen twee vergaderingen van de Raad in, met inbegrip van het toezicht op de financiën.
 
 Het Uitvoerend Comité komt incidenteel, naar behoefte, in vergadering bijeen op door de Voorzitter vastgestelde plaats en datum. Andere leden van de Raad van Toezicht of functionarissen van het CIP kunnen worden uitgenodigd bij deze vergaderingen aanwezig te zijn.
 
-#### Artikel 35. Samenstelling van het Auditcomité
+##### Artikel 35. Samenstelling van het Auditcomité
 
 Het Auditcomité is samengesteld uit de Vice-voorzitter van de Raad van Toezicht en twee andere leden van de Raad, die door de Voorzitter zijn voorgedragen en door de Raad aanvaard, voor een tijdvak van een jaar.
 
-#### Artikel 36. Taken van het Auditcomité
+##### Artikel 36. Taken van het Auditcomité
 
 Het Auditcomité is verantwoordelijk voor het toezicht op de interne audit van het CIP.
 
-#### Artikel 37. Samenstelling van het Programmacomité
+##### Artikel 37. Samenstelling van het Programmacomité
 
 Het Programmacomité is samengesteld uit een door de Raad van Toezicht voor een tijdvak van twee jaar gekozen Voorzitter en uit ten minste vijf leden die jaarlijks door de Voorzitter van de Raad van Toezicht en de Voorzitter van het Programmacomité worden aangewezen.
 
-#### Artikel 38. Taken van het Programmacomité
+##### Artikel 38. Taken van het Programmacomité
 
 Het Programmacomité is verantwoordelijk voor:
 
@@ -460,11 +484,11 @@ Het Programmacomité is verantwoordelijk voor:
 
 - e. elk ander relevant programma-onderwerp waarom door de Raad van Toezicht wordt verzocht.
 
-#### Artikel 39. Samenstelling van het Benoemingscomité
+##### Artikel 39. Samenstelling van het Benoemingscomité
 
 Het Benoemingscomité wordt voorgezeten door de Vice-voorzitter van de Raad van Toezicht en is verder samengesteld uit twee leden, die om het jaar door de Voorzitter van de Raad van Toezicht worden benoemd.
 
-#### Artikel 40. Notulen
+##### Artikel 40. Notulen
 
 De verschillende comités stellen notulen op van hun vergaderingen; deze taak wordt opgedragen aan een van hun leden.
 
@@ -474,7 +498,7 @@ De notulen van alle Comités worden, voorzien van de handtekeningen van alle dee
 
 ## TITEL VI. ALGEMENE LEIDING
 
-#### Artikel 41. Directeur-Generaal
+##### Artikel 41. Directeur-Generaal
 
 Naast de bevoegdheden en verplichtingen die met de aard van zijn functie samenhangen, de bevoegdheden en verplichtingen die voortvloeien uit deze Statuten alsmede die welke de Raad van Toezicht hem in de toekomst kan toekennen, voert de Directeur-Generaal de besluiten van de Raad van Toezicht uit en is hij de wettelijk vertegenwoordiger van het CIP.
 
@@ -542,7 +566,7 @@ De Directeur-Generaal bezit in het bijzonder de volgende bevoegdheden:
 
 ## TITEL VII. WIJZIGING VAN DE STATUTEN
 
-#### Artikel 42. Formaliteiten voor de wijziging van de Statuten
+##### Artikel 42. Formaliteiten voor de wijziging van de Statuten
 
 Deze Statuten kunnen door de Raad van Toezicht worden gewijzigd, mits de voorwaarden voor het quorum en de meerderheid zoals bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001514&titeldeel=IV&artikel=29&z=2002-02-01&g=2002-02-01) van deze Statuten worden vervuld.
 
@@ -554,13 +578,13 @@ Wijzigingen van de Statuten die niet aan de in dit artikel vastgestelde voorwaar
 
 ## TITEL VIII. ONTBINDING EN LIQUIDATIE VAN HET CIP
 
-#### Artikel 43. Voorwaarden voor ontbinding
+##### Artikel 43. Voorwaarden voor ontbinding
 
 Indien het CIP op grond van zwaarwegende redenen wordt geacht niet langer doeltreffend te kunnen functioneren, kan de Raad van Toezicht overgaan tot ontbinding van het CIP.
 
 De ontbinding dient te worden goedgekeurd door de Raad van Toezicht onder de voorwaarden ten aanzien van het quorum en de meerderheid zoals bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001514&titeldeel=IV&artikel=29&z=2002-02-01&g=2002-02-01) van deze Statuten. Wanneer aan een van deze voorwaarden niet wordt voldaan, is het besluit tot ontbinding ongeldig.
 
-#### Artikel 44. De Liquidatiecommissie
+##### Artikel 44. De Liquidatiecommissie
 
 Wanneer de overeenkomst tot ontbinding is aangenomen, benoemt de Raad van Toezicht een Liquidatiecommissie, wier activiteiten uitsluitend gericht zijn op de beëindiging van de bestaande activiteiten, de beëindiging van de arbeidsverhoudingen met het personeel en de overbrenging van de activa, op de in het volgende artikel aangegeven wijze.
 
@@ -572,7 +596,7 @@ Na de liquidatie legt de Liquidatiecommissie de Raad van Toezicht een eindrappor
 
 Zodra dit rapport is goedgekeurd, kondigt de Raad van Toezicht de ontbinding van het CIP af.
 
-#### Artikel 45. Activa bij liquidatie
+##### Artikel 45. Activa bij liquidatie
 
 De activa van het CIP die overblijven na de betaling van de lopende verplichtingen tijdens de liquidatie worden kosteloos overgemaakt naar organisaties met soortgelijke doeleinden, ongeacht het land waarin deze zich bevinden.
 
@@ -580,7 +604,7 @@ De vaststelling van de keuze van de organisatie of organisaties die deze activa 
 
 In geen geval kunnen de activa van het CIP, rechtstreeks of indirect, kosteloos worden verdeeld onder de leden van de Raad van Toezicht of onder het personeel van het CIP.
 
-#### Artikel 46. Herroeping van de overeenkomst tot ontbinding
+##### Artikel 46. Herroeping van de overeenkomst tot ontbinding
 
 Voordat de laatste overdracht van activa heeft plaatsgevonden en indien nieuwe ontwikkelingen voortzetting van het CIP mogelijk maken, kan de Raad van Toezicht de Liquidatiecommissie buiten werking stellen, de overeenkomst tot ontbinding herroepen en zijn leidinggevende functie overeenkomstig deze Statuten weer op zich nemen.
 
@@ -588,17 +612,17 @@ Voor de aanneming van deze overeenkomst gelden dezelfde formaliteiten als die we
 
 ## TITEL IX. FUSIE
 
-#### Artikel 47
+##### Artikel 47
 
 Op voorstel van de internationale adviesgroep inzake landbouwonderzoek (IAL) kan de Raad van Toezicht het samengaan van het CIP met een andere soortgelijke organisatie goedkeuren, waarbij hetzij de andere organisatie opgaat in het CIP, hetzij het CIP opgaat in de andere organisatie, hetzij beide organisaties verdwijnen en als resultaat van de fusie een nieuwe organisatie wordt opgericht.
 
-#### Artikel 48
+##### Artikel 48
 
 De fusieovereenkomst dient te worden aangenomen onder de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001514&titeldeel=IV&artikel=29&z=2002-02-01&g=2002-02-01) vastgestelde voorwaarden.
 
 ## TITEL X. OVERGANGSBEPALINGEN
 
-#### Artikel 49. Samenstelling van de eerste Raad van Toezicht
+##### Artikel 49. Samenstelling van de eerste Raad van Toezicht
 
 De eerste Raad van Toezicht wordt samengesteld uit de volgende personen, voor de daarbij aangegeven termijn:
 

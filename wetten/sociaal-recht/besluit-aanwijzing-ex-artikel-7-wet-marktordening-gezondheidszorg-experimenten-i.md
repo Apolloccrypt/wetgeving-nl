@@ -1,13 +1,39 @@
 ---
-title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (experimenten in het kader van het Transitie Programma Langdurige Zorg)"
+title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 februari 2009, nr. DLZ/KZ-U-2909122 op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake experimenten in het kader van het Transitie Programma Langdurige Zorg"
 identifier: "BWBR0025327"
-categorie: "Sociaal recht"
-publicatiedatum: 2009-02-20
-laatste_update: 2009-02-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025327"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-02-20"
+last_updated: "2009-02-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025327"
+soort: "ministeriele-regeling"
+stam_id: "9908633"
+version_id: "16156162"
+internal_id: "C22169121"
+label_id: "9885094"
+dtd_version: "2.0"
+original_entry_into_force: "2009-02-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025327/2009-02-20/0"
+intitule_bron: "Stcrt.2009-35"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-02-09"
+intitule_published: "2009-02-20"
+intitule_in_force: "2009-02-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-35"
+original_signed_date: "2009-02-09"
+original_published_date: "2009-02-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-2696"
+entry_into_force_date: "2009-02-20"
+jci_1_3: "jci1.3:c:BWBR0025327&z=2009-02-20&g=2009-02-20"
+jci_1_0: "1.0:c:BWBR0025327&g=2009-02-20"
+citeertitel_status: "redactioneel"
+short_title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (experimenten in het kader van het Transitie Programma Langdurige Zorg)"
+signed_date: "2009-02-09"
+entry_into_force: "2009-02-20"
 ---
-
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 februari 2009, nr. DLZ/KZ-U-2909122 op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake experimenten in het kader van het Transitie Programma Langdurige Zorg
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -18,7 +44,7 @@ Gezien het schriftelijk overleg over transitie-experimenten Langdurige Zorg van 
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In deze aanwijzing wordt verstaan onder:
 
 - g. **financieel kader:** het landelijk financieel kader dat voor het jaar 2008 is vastgesteld in [artikel 5, onder 3, van de aanwijzing inzake Contracteerruimte AWBZ 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023008&artikel=5) (Stcrt. 2007, 249), het landelijk financieel kader dat voor het jaar 2009 is vastgesteld in [artikel 5, aanhef en onder c, van de aanwijzing inzake Contracteerruimte AWBZ 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024742&artikel=5) en enkele andere aangelegenheden (Stcrt. 2008, 230) en het financieel kader dat telkens per jaar voor latere jaren ten behoeve van TPLZ experimenten wordt vastgesteld door de minister.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 1. Deze aanwijzing is van toepassing op zorg als bedoeld in de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) die onderdeel uitmaakt van een TPLZ-experiment ten aanzien waarvan de minister expliciet heeft besloten dat voor die zorg uit dat experiment de regels en beleidsregels die de zorgautoriteit op grond van deze aanwijzing vaststelt van toepassing zijn.
 
@@ -64,7 +90,7 @@ In deze aanwijzing wordt verstaan onder:
 
 3. Ter uitvoering van deze aanwijzing stelt de zorgautoriteit waar nodig regels en beleidsregels vast.
 
-#### Artikel 3. Aanwijzing TPLZ-experiment
+##### Artikel 3. Aanwijzing TPLZ-experiment
 
 1. De minister kan besluiten dat een experiment een TPLZ-experiment is in de zin van [artikel 1, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0025327&artikel=1&z=2009-02-20&g=2009-02-20), en in aanmerking komt voor toepassing van op grond van deze aanwijzing door de zorgautoriteit vastgestelde regels en beleidsregels.
 
@@ -78,7 +104,7 @@ In deze aanwijzing wordt verstaan onder:
 
 6. Besluiten van de minister als bedoeld in dit artikel worden meegedeeld aan de zorgautoriteit bij brief waarvan afschrift is gezonden aan beide Kamers der Staten-Generaal.
 
-#### Artikel 4. Beleidsregel zorgautoriteit
+##### Artikel 4. Beleidsregel zorgautoriteit
 
 1. In de beleidsregel, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025327&artikel=2&z=2009-02-20&g=2009-02-20), stelt de zorgautoriteit een zodanige procedure voor TPLZ-experimenten vast, dat de zorgautoriteit voor het in rekening brengen van een tarief voor individuele TPLZ-experimenten een daartoe strekkende beschikking vaststelt, waarbij wordt voldaan aan de volgende voorwaarden:
 
@@ -96,7 +122,7 @@ In deze aanwijzing wordt verstaan onder:
 
 - b. uit het financieel kader, met inachtneming van het op voet van het onder a bepaalde, door de zorgautoriteit per TPLZ-experiment een bedrag wordt toegekend voor zover met die toekenning dat kader niet wordt overschreden en welk bedrag zorgaanbieders die deelnemen aan dat TPLZ-experiment ten hoogste ten laste kunnen brengen van dat kader.
 
-#### Artikel 5. Tarifering
+##### Artikel 5. Tarifering
 
 1. Voor TPLZ-experimenten kan uitsluitend een tarief in rekening worden gebracht bij:
 
@@ -112,18 +138,18 @@ In deze aanwijzing wordt verstaan onder:
 
 3. Een TPLZ-experiment dat wordt gestart na de inwerkingtreding van deze aanwijzing kan alleen geheel of gedeeltelijk ten laste van het financieel kader worden gebracht, indien de zorgautoriteit dat heeft getoetst, daartoe een bedrag heeft vastgesteld en dat aangeeft in de beschikking als bedoeld in het tweede lid.
 
-#### Artikel 6. Tariefsoort
+##### Artikel 6. Tariefsoort
 
 Voor TPLZ-experimenten geldt een tarief als bedoeld in [artikel 57, vierde lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57).
 
-#### Artikel 7. Aanvang looptijd
+##### Artikel 7. Aanvang looptijd
 
 De looptijd van TPLZ-experimenten neemt een aanvang vanaf de datum van inwerkingtreding van de beschikking als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025327&artikel=5&z=2009-02-20&g=2009-02-20).
 
-#### Artikel 8. Evaluatie
+##### Artikel 8. Evaluatie
 
 De zorgautoriteit evalueert de werking van de organisatorische en procedurele werkwijze bij TPLZ-experimenten en de werking van de regels en beleidsregels die op grond van deze aanwijzing zijn vastgesteld tezamen met mij en met door mij aangewezen personen.
 
-#### Artikel 9. Inwerkingtreding en publicatie
+##### Artikel 9. Inwerkingtreding en publicatie
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.

@@ -1,32 +1,58 @@
 ---
-title: "Beleidsregels Regeling gevelisolatie Schiphol 2023"
+title: "Besluit van de Minister van Infrastructuur en Waterstaat van 17 juni 2024, nr. IENW/BSK-2024/137136, houdende vaststelling van de Beleidsregels Regeling gevelisolatie Schiphol 2023"
 identifier: "BWBR0049847"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-06-22
-laatste_update: 2024-06-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049847"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-06-22"
+last_updated: "2024-06-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049847"
+soort: "beleidsregel"
+stam_id: "17140163"
+version_id: "30165502"
+internal_id: "C43222461"
+label_id: "17048464"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049847/2024-06-22/0"
+intitule_bron: "Stcrt.2024-18491"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-17"
+intitule_published: "2024-06-21"
+intitule_in_force: "2024-06-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-18491"
+original_signed_date: "2024-06-17"
+original_published_date: "2024-06-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-18491"
+entry_into_force_date: "2024-06-22"
+jci_1_3: "jci1.3:c:BWBR0049847&z=2024-06-22&g=2024-06-22"
+jci_1_0: "1.0:c:BWBR0049847&g=2024-06-22"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels Regeling gevelisolatie Schiphol 2023"
+signed_date: "2024-06-17"
+entry_into_force: "2024-06-22"
 ---
-
 # Besluit van de Minister van Infrastructuur en Waterstaat van 17 juni 2024, nr. IENW/BSK-2024/137136, houdende vaststelling van de Beleidsregels Regeling gevelisolatie Schiphol 2023
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van de [Regeling gevelisolatie Schiphol 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048658) wordt uitgegaan van de Beleidsregels uitvoeringskader gevelisolatie Schiphol 2023, opgenomen in de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 3
+##### Artikel 3
 
 De [Beleidsregels geluidsisolatie Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0026154) worden ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Beleidsregels Regeling gevelisolatie Schiphol 2023.
 

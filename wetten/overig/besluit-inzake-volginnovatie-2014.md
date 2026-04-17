@@ -1,13 +1,38 @@
 ---
 title: "Besluit inzake volginnovatie 2014"
 identifier: "BWBR0036125"
-categorie: "Overig"
-publicatiedatum: 2015-01-07
-laatste_update: 2015-01-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036125"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-01-07"
+last_updated: "2015-01-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036125"
+soort: "ministeriele-regeling"
+stam_id: "12941973"
+version_id: "22050292"
+internal_id: "C31614441"
+label_id: "12911074"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036125/2015-01-07/0"
+intitule_bron: "Stcrt.2015-81"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-15"
+intitule_published: "2015-01-06"
+intitule_in_force: "2015-01-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-81"
+original_signed_date: "2014-12-15"
+original_published_date: "2015-01-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-81"
+entry_into_force_date: "2015-01-07"
+jci_1_3: "jci1.3:c:BWBR0036125&z=2015-01-07&g=2015-01-07"
+jci_1_0: "1.0:c:BWBR0036125&g=2015-01-07"
+citeertitel_status: "redactioneel"
+signed_date: "2014-12-15"
+entry_into_force: "2015-01-07"
 ---
-
 # Besluit inzake volginnovatie 2014
 
 Gelet op [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2);
@@ -52,7 +77,7 @@ Gelet op [artikel 8 van de Wet openbaarheid van bestuur](https://wetten.overheid
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Op grond van het vorenstaande worden van alle verleende innovatiegelden in het kader van de uitvoering van bovengenoemde regelingen, de gegevens gepubliceerd met betrekking tot:
 
@@ -84,7 +109,7 @@ De gegevens worden niet eerder dan drie weken na de bekendmaking van dit besluit
 
 2. De gegevens, bedoeld in het eerste lid, hebben uitsluitend betrekking op rechtspersonen.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

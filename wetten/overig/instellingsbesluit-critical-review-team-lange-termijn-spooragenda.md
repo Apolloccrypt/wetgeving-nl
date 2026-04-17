@@ -1,22 +1,48 @@
 ---
-title: "Instellingsbesluit Critical Review Team Lange Termijn Spooragenda"
+title: "Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 8 juli 2013, nr. IENM/BSK-2013/94942, houdende instelling van het Critical Review Team Lange Termijn Spooragenda"
 identifier: "BWBR0033657"
-categorie: "Overig"
-publicatiedatum: 2013-07-13
-laatste_update: 2013-07-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033657"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-07-13"
+last_updated: "2013-07-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033657"
+soort: "ministeriele-regeling"
+stam_id: "12311953"
+version_id: "20638962"
+internal_id: "C29547421"
+label_id: "12283094"
+dtd_version: "2.0"
+original_entry_into_force: "2013-07-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033657/2013-07-13/0"
+intitule_bron: "Stcrt.2013-19903"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-07-08"
+intitule_published: "2013-07-12"
+intitule_in_force: "2013-07-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-19903"
+original_signed_date: "2013-07-08"
+original_published_date: "2013-07-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-19903"
+entry_into_force_date: "2013-07-13"
+jci_1_3: "jci1.3:c:BWBR0033657&z=2013-07-13&g=2013-07-13"
+jci_1_0: "1.0:c:BWBR0033657&g=2013-07-13"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Critical Review Team Lange Termijn Spooragenda"
+signed_date: "2013-07-08"
+entry_into_force: "2013-07-13"
 ---
-
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 8 juli 2013, nr. IENM/BSK-2013/94942, houdende instelling van het Critical Review Team Lange Termijn Spooragenda
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Critical Review Team Lange Termijn Spooragenda, hierna te noemen: het Critical Review Team.
 
-#### Artikel 2
+##### Artikel 2
 
 Het Critical Review Team heeft tot taak om advies te geven over de kwaliteit van het besluitvormingsproces en de inhoudelijke uitwerking van de Lange Termijn Spooragenda, zoals gemeld in de brief aan de Tweede Kamer, d.d. 13 februari 2013 (Kamerstukken II, 29 984, nr. 384), met name met betrekking tot de volgende onderdelen van die uitwerking:
 
@@ -30,7 +56,7 @@ Het Critical Review Team heeft tot taak om advies te geven over de kwaliteit van
 
 - e). het verbinden van deze producten met de concessietrajecten, het PHS en ERTMS.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Tot de leden van het Critical Review Team worden benoemd:
 
@@ -60,21 +86,21 @@ Het Critical Review Team heeft tot taak om advies te geven over de kwaliteit van
 
 5. Op voorspraak van de voorzitter kan de Staatssecretaris van Infrastructuur en Milieu het lidmaatschap van een lid beëindigen als het betrokken lid zich niet houdt of heeft gehouden aan de gemaakte afspraken binnen het Critical Review Team. Van de beëindiging van het lidmaatschap wordt het betrokken lid bij besluit op de hoogte gebracht.
 
-#### Artikel 4
+##### Artikel 4
 
 Op het Critical Review Team is het Besluit vergoedingen adviescolleges en commissie van toepassing. De leden kunnen een vaste vergoeding ontvangen overeenkomstig schaal 18 van [Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). De deeltijdfactor voor de leden wordt vastgesteld op 0,0641.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Uiterlijk 1 juli 2014, of zoveel eerder als het Critical Review Team over de kwaliteit van het besluitvormingsproces en de inhoudelijke uitwerking van de Lange Termijn Spooragenda, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033657&artikel=2&z=2013-07-13&g=2013-07-13), een eindrapportage heeft opgeleverd, is het Critical Review Team opgeheven.
 
 2. De archiefbescheiden van het Critical Review Team worden na opheffing van de klankbordgroep, of zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgedragen aan de archieven van het ministerie van Infrastructuur en Milieu.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: **Instellingsbesluit Critical Review Team Lange Termijn Spooragenda**.
 

@@ -1,60 +1,86 @@
 ---
-title: "Wijzigingsbesluit Besluit algemene regels voor inrichtingen milieubeheer, enz. (herstel gebreken van wetstechnische en inhoudelijk ondergeschikte aard)"
+title: "Besluit van 11 augustus 2012 tot herstel van gebreken van wetstechnische en inhoudelijk ondergeschikte aard in enkele besluiten op de beleidsterreinen van het Ministerie van Infrastructuur en Milieu"
 identifier: "BWBR0032011"
-categorie: "Milieu"
-publicatiedatum: 2012-10-23
-laatste_update: 2012-10-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032011"
+country: "nl"
+rank: "amvb"
+publication_date: "2012-10-23"
+last_updated: "2012-10-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032011"
+soort: "AMvB"
+stam_id: "11848243"
+version_id: "19647362"
+internal_id: "C27564721"
+label_id: "11820414"
+dtd_version: "2.0"
+original_entry_into_force: "2012-09-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032011/2012-10-23/0"
+intitule_bron: "Stb.2012-424"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-08-11"
+intitule_published: "2012-09-25"
+intitule_in_force: "2012-09-25"
+intitule_status: "goed"
+original_publication: "Stb.2012-424"
+original_signed_date: "2012-08-11"
+original_published_date: "2012-09-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-424"
+entry_into_force_date: "2012-09-26"
+jci_1_3: "jci1.3:c:BWBR0032011&z=2012-10-23&g=2012-10-23"
+jci_1_0: "1.0:c:BWBR0032011&g=2012-10-23"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit algemene regels voor inrichtingen milieubeheer, enz. (herstel gebreken van wetstechnische en inhoudelijk ondergeschikte aard)"
+signed_date: "2012-08-11"
+entry_into_force: "2012-09-26"
 ---
-
 # Besluit van 11 augustus 2012 tot herstel van gebreken van wetstechnische en inhoudelijk ondergeschikte aard in enkele besluiten op de beleidsterreinen van het Ministerie van Infrastructuur en Milieu
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt bet Besluit algemene regels voor inrichtingen milieubeheer.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit externe veiligheid inrichtingen.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit milieueffectrapportage.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit omgevingsrecht.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit vervoer gevaarlijke stoffen.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Binnenvaartbesluit.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Scheepvaartreglement Westerschelde 1990.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Binnenvaartpolitiereglement.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Waterbesluit.
 
-#### Artikel XII
+##### Artikel XII
 
 Indien voor het tijdstip van inwerkingtreding van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0032011&artikel=IV&z=2012-10-23&g=2012-10-23) van dit besluit met betrekking tot activiteiten als bedoeld in [artikel 7.2, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.2):
 
@@ -68,7 +94,7 @@ Indien voor het tijdstip van inwerkingtreding van [artikel IV](https://wetten.ov
 
 blijft ten aanzien van die kennisgevingen, aanvraag en mededeling het voor dat tijdstip geldende recht van toepassing.
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. De [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0032011&artikel=II&z=2012-10-23&g=2012-10-23), [V, onderdelen A tot en met G, H, onder 1, 3 en 4, en I](https://wetten.overheid.nl/jci1.3:c:BWBR0032011&artikel=V&z=2012-10-23&g=2012-10-23), en [VI tot en met XII](https://wetten.overheid.nl/jci1.3:c:BWBR0032011&artikel=VI&z=2012-10-23&g=2012-10-23) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

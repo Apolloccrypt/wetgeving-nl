@@ -1,13 +1,38 @@
 ---
 title: "Maatregelbeleid Rechtsbijstand inzake de rechtsbijstandverlening asiel en vreemdelingenbewaring 2017"
 identifier: "BWBR0040221"
-categorie: "Sociaal recht"
-publicatiedatum: 2017-11-23
-laatste_update: 2017-11-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040221"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-11-23"
+last_updated: "2017-11-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040221"
+soort: "zbo"
+stam_id: "14421353"
+version_id: "24657892"
+internal_id: "C35277591"
+label_id: "14381864"
+dtd_version: "2.0"
+original_entry_into_force: "2017-11-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040221/2017-11-23/0"
+intitule_bron: "Stcrt.2017-66940"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-10-11"
+intitule_published: "2017-11-23"
+intitule_in_force: "2017-11-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-66940"
+original_signed_date: "2017-10-11"
+original_published_date: "2017-11-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-66940"
+entry_into_force_date: "2017-11-23"
+jci_1_3: "jci1.3:c:BWBR0040221&z=2017-11-23&g=2017-11-23"
+jci_1_0: "1.0:c:BWBR0040221&g=2017-11-23"
+citeertitel_status: "redactioneel"
+signed_date: "2017-10-11"
+entry_into_force: "2017-11-23"
 ---
-
 # Maatregelbeleid Rechtsbijstand inzake de rechtsbijstandverlening asiel en vreemdelingenbewaring 2017
 
 Het bestuur van de Raad voor Rechtsbijstand, verder te noemen de Raad,

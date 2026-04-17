@@ -1,13 +1,39 @@
 ---
-title: "Implementatiebesluit herziene richtlijn betaaldiensten"
+title: "Besluit van 8 februari 2019 tot wijziging van het Besluit Prudentiële regels Wft, het Besluit Markttoegang financiële ondernemingen Wft en het Besluit Gedragstoezicht financiële ondernemingen Wft ter implementatie van richtlijn 2015/2366/EU van het Europees Parlement en de Raad van 25 november 2015 betreffende betaaldiensten in de interne markt, houdende wijzing van de Richtlijnen 2002/65/EG, 2009/110/EG en 2013/36/EU en Verordening (EU) nr. 1093/2010 en houdende intrekking van Richtlijn 2007/64/EG (PbEU 2015, L 337) (Implementatiebesluit herziene richtlijn betaaldiensten)"
 identifier: "BWBR0041917"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-02-19
-laatste_update: 2019-02-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041917"
+country: "nl"
+rank: "amvb"
+publication_date: "2019-02-19"
+last_updated: "2019-02-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041917"
+soort: "AMvB"
+stam_id: "15003003"
+version_id: "25698792"
+internal_id: "C36657181"
+label_id: "14952964"
+dtd_version: "2.0"
+original_entry_into_force: "2019-02-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041917/2019-02-19/0"
+intitule_bron: "Stb.2019-59"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-02-08"
+intitule_published: "2019-02-18"
+intitule_in_force: "2019-02-18"
+intitule_status: "goed"
+original_publication: "Stb.2019-59"
+original_signed_date: "2019-02-08"
+original_published_date: "2019-02-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2019-59"
+entry_into_force_date: "2019-02-19"
+jci_1_3: "jci1.3:c:BWBR0041917&z=2019-02-19&g=2019-02-19"
+jci_1_0: "1.0:c:BWBR0041917&g=2019-02-19"
+citeertitel_status: "officieel"
+short_title: "Implementatiebesluit herziene richtlijn betaaldiensten"
+signed_date: "2019-02-08"
+entry_into_force: "2019-02-19"
 ---
-
 # Besluit van 8 februari 2019 tot wijziging van het Besluit Prudentiële regels Wft, het Besluit Markttoegang financiële ondernemingen Wft en het Besluit Gedragstoezicht financiële ondernemingen Wft ter implementatie van richtlijn 2015/2366/EU van het Europees Parlement en de Raad van 25 november 2015 betreffende betaaldiensten in de interne markt, houdende wijzing van de Richtlijnen 2002/65/EG, 2009/110/EG en 2013/36/EU en Verordening (EU) nr. 1093/2010 en houdende intrekking van Richtlijn 2007/64/EG (PbEU 2015, L 337) (Implementatiebesluit herziene richtlijn betaaldiensten)
 
 Op de voordracht van Onze Minister van Financiën van 7 december 2018, 2018-00000185850, directie Financiële Markten;
@@ -20,27 +46,27 @@ Gezien het nader rapport van Onze Minister van Financiën van 7 februari 2019, 2
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit Prudentiële regels Wft.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
-#### Artikel V
+##### Artikel V
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel VI
+##### Artikel VI
 
 Dit besluit wordt aangehaald als: Implementatiebesluit herziene richtlijn betaaldiensten.
 

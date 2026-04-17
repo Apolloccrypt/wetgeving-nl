@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake de bevordering, de beschikbaarstelling en het gebruik van het GALILEO- en het GPS-satellietnavigatiesysteem en verwante toepassingen"
 identifier: "BWBV0005636"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-12-12
-laatste_update: 2011-12-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005636"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-12-12"
+last_updated: "2011-12-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005636"
+soort: "verdrag"
+stam_id: "10004797113"
+version_id: "10005096092"
+internal_id: "C10007735761"
+label_id: "10004781024"
+dtd_version: "2.0"
+original_entry_into_force: "2011-12-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005636/2011-12-12/0"
+intitule_bron: "Trb.2004-257"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2004-10-15"
+intitule_in_force: "2012-02-14"
+intitule_status: "goed"
+original_publication: "Trb.2004-257"
+original_published_date: "2004-10-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-257"
+entry_into_force_date: "2011-12-12"
+jci_1_3: "jci1.3:c:BWBV0005636&z=2011-12-12&g=2011-12-12"
+jci_1_0: "1.0:c:BWBV0005636&g=2011-12-12"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-12-12"
 ---
-
 # Overeenkomst inzake de bevordering, de beschikbaarstelling en het gebruik van het GALILEO- en het GPS-satellietnavigatiesysteem en verwante toepassingen
 
 de Verenigde Staten van Amerika,
@@ -94,7 +116,7 @@ Erkennende dat overleg wenselijk is teneinde eventuele geschillen over deze over
 
 Zijn overeengekomen hetgeen volgt:
 
-#### Artikel 1. Doelstellingen
+##### Artikel 1. Doelstellingen
 
 1. Het doel van deze overeenkomst is een raamwerk te creëren voor samenwerking tussen de partijen bij de bevordering, de beschikbaarstelling en het gebruik van Galileo- en GPS-navigatie- en -tijdsbepalingssignalen en -diensten, diensten met toegevoegde waarde, augmentaties en goederen voor wereldwijde navigatie en tijdsbepaling. De partijen zijn voornemens op de hierbij bepaalde wijze samen te werken, zowel onderling als in multilaterale fora, teneinde het gebruik van deze signalen, diensten en apparatuur voor vreedzame civiele, commerciële en wetenschappelijke doeleinden te bevorderen en te vereenvoudigen, op een wijze die verenigbaar is met en bevorderlijk voor de wederzijdse veiligheid. Deze overeenkomst is bedoeld ter aanvulling en bevordering van reeds van kracht zijnde of in de toekomst nog tussen de partijen te sluiten overeenkomsten met betrekking tot het ontwerp en de realisatie van civiele satellietnavigatie- en -tijdsbepalingssignalen en -diensten, augmentaties of diensten met toegevoegde waarde.
 
@@ -102,7 +124,7 @@ Zijn overeengekomen hetgeen volgt:
 
 3. Deze overeenkomst doet in generlei opzicht afbreuk aan de rechten en plichten die voor de partijen voortvloeien uit de [Overeenkomst van Marrakesh tot oprichting van de Wereldhandelsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) (hierna „de WTO-regelingen” genoemd).
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 Voor de toepassing van deze overeenkomst gelden de volgende definities:
 
@@ -140,7 +162,7 @@ Voor de toepassing van deze overeenkomst gelden de volgende definities:
 
 - q. „dienst met toegevoegde waarde”: een downstream-dienst of -toepassing, met uitsluiting van augmentaties, waarbij civiele satellietnavigatie- en -tijdsbepalingssignalen of -diensten worden gebruikt op zodanige wijze dat zij aanvullend nut of voordeel voor de gebruiker opleveren.
 
-#### Artikel 3. Toepassingsgebied
+##### Artikel 3. Toepassingsgebied
 
 Tenzij anders bepaald heeft deze overeenkomst betrekking op alle door de partijen getroffen maatregelen met betrekking tot civiele satellietnavigatie- en -tijdsbepalingssignalen en aanbieders daarvan, civiele satellietnavigatie- en -tijdsbepalingsdiensten en aanbieders daarvan, augmentaties, diensten met toegevoegde waarde en aanbieders van diensten met toegevoegde waarde, en goederen voor wereldwijde navigatie en tijdsbepaling.
 
@@ -148,7 +170,7 @@ De beschikbaarstelling van militaire satellietnavigatie en -tijdsbepalingsdienst
 
 De beveiligde gouvernementele diensten vallen buiten het bestek van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=5&z=2011-12-12&g=2011-12-12) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=6&z=2011-12-12&g=2011-12-12), [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=8&z=2011-12-12&g=2011-12-12), en [artikel 10, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=10&z=2011-12-12&g=2011-12-12).
 
-#### Artikel 4. Interoperabiliteit en frequentiecompatibiliteit
+##### Artikel 4. Interoperabiliteit en frequentiecompatibiliteit
 
 1. Dit artikel is van toepassing op GPS en Galileo, zoals gedefinieerd, en, voor zover het frequentiecompatibiliteit betreft, op alle satellietnavigatie- en -tijdsbepalingsdiensten.
 
@@ -168,7 +190,7 @@ De beveiligde gouvernementele diensten vallen buiten het bestek van de [artikele
 
 6. Deze overeenkomst vormt in generlei opzicht een vervanging, wijziging of afwijking van normen, procedures, regels, voorschriften en aanbevolen praktijken die door de ITU zijn vastgesteld. De partijen bevestigen hun voornemen om bij hun optreden de samenhang met het regelgevingskader en de procedures van deze organisatie te bewaren.
 
-#### Artikel 5. Normen, certificering, wettelijke maatregelen en mandaten
+##### Artikel 5. Normen, certificering, wettelijke maatregelen en mandaten
 
 De partijen komen overeen elkaar te raadplegen alvorens eventuele maatregelen te treffen:
 
@@ -176,7 +198,7 @@ De partijen komen overeen elkaar te raadplegen alvorens eventuele maatregelen te
 
 - 2. die als direct of indirect effect hebben dat het gebruik van specifieke satellietnavigatie- en -tijdsbepalingssignalen of -diensten, diensten met toegevoegde waarde, augmentaties, of apparatuur voor wereldwijde navigatie of tijdsbepaling op hun respectieve grondgebied wordt voorgeschreven (tenzij een dergelijk voorgeschreven gebruik uitdrukkelijk wordt toegestaan door de ICAO of IMO).
 
-#### Artikel 6. Non-discriminatie en handel
+##### Artikel 6. Non-discriminatie en handel
 
 1. De partijen bevestigen dat zij ten aanzien van de handel in goederen en diensten met betrekking tot civiele satellietnavigatie- en -tijdsbepalingssignalen, augmentaties en diensten met toegevoegde waarde een niet-discriminerende benadering volgen.
 
@@ -184,23 +206,23 @@ De partijen komen overeen elkaar te raadplegen alvorens eventuele maatregelen te
 
 3. De uit hoofde van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=13&z=2011-12-12&g=2011-12-12) opgerichte werkgroep voor handel en civiele toepassingen buigt zich onder meer over non-discriminatie en andere voor de handel relevante kwesties in verband met civiele satellietnavigatie- en -tijdsbepalingssignalen of -diensten, augmentaties, diensten met toegevoegde waarde en goederen voor wereldwijde navigatie en tijdsbepaling, met inbegrip van de mogelijkheden voor aanvullende afspraken in bilateraal of multilateraal verband.
 
-#### Artikel 7. Vrije toegang tot civiele satellietnavigatie- en tijdsbepalingssignalen
+##### Artikel 7. Vrije toegang tot civiele satellietnavigatie- en tijdsbepalingssignalen
 
 1. Tenzij om redenen van nationale veiligheid stellen de partijen geen beperkingen aan het gebruik van of de toegang tot plaatsbepalings-, navigatie- en tijdsbepalingsinformatie van hun respectieve open diensten voor eindgebruikers, ook niet voor augmentatie. Deze bepaling belet niet dat voor de toegang tot dergelijke informatie voor andere entiteiten, zoals fabrikanten van satellietnavigatie- en -tijdsbepalingsapparatuur niet-discriminerende commerciële regelingen kunnen worden getroffen.
 
 2. De partijen streven ernaar de voor reddingsdiensten bestemde signalen beschikbaar te stellen met het vereiste niveau van veiligheid, als bepaald door de bevoegde internationale lichamen.
 
-#### Artikel 8. Vrije toegang tot informatie
+##### Artikel 8. Vrije toegang tot informatie
 
 1. Behoudens eventuele uitvoerbeperkingen komen de partijen overeen op niet-discriminerende basis de nodige informatie openbaar te maken over hun respectieve niet-versleutelde civiele satellietnavigatie- en -tijdsbepalingssignalen en augmentaties teneinde degenen die van deze signalen gebruik wensen te maken, apparatuur wensen te vervaardigen die van deze signalen gebruikmaakt of diensten met toegevoegde waarde wensen aan te bieden waarbij van deze signalen gebruik wordt gemaakt gelijke kansen te bieden. Dergelijke informatie strekt zich uit, maar beperkt zich niet tot de signaalspecificaties, waaronder elementen zoals de minimumgebruiksvoorwaarden, de frequentiekenmerken en de structuur van navigatieberichten.
 
 2. Voor zover een der partijen civiele satellietnavigatie- en -tijdsbepalingssignalen of -diensten, augmentaties of diensten met toegevoegde waarde voor civiele gebruikers aanbiedt die versleuteld zijn of andere kenmerken vertonen die de aanbieder van wereldwijde navigatiediensten in staat stelt anderen de toegang hiertoe te ontzeggen, verschaft deze partij, behoudens eventuele uitvoerbeperkingen, fabrikanten van wereldwijde navigatie- en -tijdsbepalingsapparatuur of aanbieders van augmentatie of van diensten met toegevoegde waarde op niet-discriminerende basis de informatie die nodig is om deze versleuteling of andere kenmerken in hun apparatuur op te nemen via licentiëring van de noodzakelijke informatie of andere methoden tegen marktprijzen.
 
-#### Artikel 9. Intellectuele eigendom
+##### Artikel 9. Intellectuele eigendom
 
 Deze overeenkomst heeft in generlei opzicht invloed op de intellectuele-eigendomsrechten met betrekking tot wereldwijde satellietnavigatie- en -tijdsbepalingssignalen, -diensten of goederen.
 
-#### Artikel 10. Vergoedingen voor civiele satellietnavigatie- en tijdsbepalingssignalen
+##### Artikel 10. Vergoedingen voor civiele satellietnavigatie- en tijdsbepalingssignalen
 
 1. De partijen streven ernaar navigatie- en -tijdsbepalingssignalen in open dienst beschikbaar te stellen zonder directe kosten voor eindgebruik of augmentatie in rekening te brengen.
 
@@ -208,7 +230,7 @@ Deze overeenkomst heeft in generlei opzicht invloed op de intellectuele-eigendom
 
 3. De partijen raadplegen elkaar waar nodig over hun vergoedingenbeleid. De partijen moedigen aan dat uitvoerbare maatregelen worden getroffen om de transparantie en de toerekenbaarheid van de kosten die gemaakt worden bij de beschikbaarstelling van hun diensten te garanderen.
 
-#### Artikel 11. Verenigbaarheid met de nationale veiligheid en spectrumgebruik
+##### Artikel 11. Verenigbaarheid met de nationale veiligheid en spectrumgebruik
 
 1. De partijen werken met elkaar samen om adequate frequentiebestemmingen voor satellietnavigatie- en tijdsbepalingssignalen te promoten, de frequentiecompatibiliteit van elkaars signalen bij het spectrumgebruik te garanderen, al het mogelijke te doen om elkaars signalen te beschermen tegen storingen veroorzaakt door emissies van radiofrequente signalen van andere systemen en het geharmoniseerd gebruik van het spectrum op wereldwijde basis, met name in ITU-verband, te stimuleren. De partijen werken met elkaar samen bij de opsporing van storingsbronnen en de vaststelling van passende vervolgmaatregelen.
 
@@ -226,11 +248,11 @@ Deze overeenkomst heeft in generlei opzicht invloed op de intellectuele-eigendom
 
 8. De partijen komen overeen in het kader van de uit hoofde van [artikel 13, lid 2, onder d)](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=13&z=2011-12-12&g=2011-12-12), opgerichte werkgroep voor beveiligingsvraagstukken studie te maken van de middelen voor de bescherming van de beveiligde gouvernementele dienst in het licht van de verenigbaarheid met de nationale veiligheid.
 
-#### Artikel 12. De opsporings- en reddingsdiensten van GPS en Galileo
+##### Artikel 12. De opsporings- en reddingsdiensten van GPS en Galileo
 
 Zowel Galileo- als de toekomstige generaties van GPS-satellieten voorzien in een wereldwijde opsporings- en reddingsdienst. De partijen komen overeen dat deze diensten frequentiecompatibel en in zo groot mogelijk mate interoperabel op gebruikersniveau voor niet-militaire gebruikers dienen te zijn. De partijen werken waar nodig samen bij aangelegenheden betreffende de wereldwijde opsporings- en reddingsdiensten van Galileo en de toekomstige generatie van GPS-satellieten binnen de COSPAS-SARSAT-Raad of op elk ander wederzijds aanvaardbaar forum.
 
-#### Artikel 13. Modaliteiten
+##### Artikel 13. Modaliteiten
 
 1. De partijen richten werkgroepen op met betrekking tot wederzijds overeen te komen aangelegenheden. In elke werkgroep zijn de desbetreffende bevoegde autoriteiten van de partijen vertegenwoordigd. Derde partijen kunnen enkel aan werkgroepen deelnemen indien beide partijen daarmee instemmen.
 
@@ -254,19 +276,19 @@ Zowel Galileo- als de toekomstige generaties van GPS-satellieten voorzien in een
 
 7. De partijen komen zo vaak als nodig, doch in principe eenmaal per jaar, bijeen om de behoefte aan werkgroepen te bepalen, de taakomschrijving van de werkgroepen vast te stellen of aan te passen en de door de werkgroepen gemaakte voortgang te evalueren.
 
-#### Artikel 14. Vervolgactiviteiten
+##### Artikel 14. Vervolgactiviteiten
 
 De partijen zijn voornemens besprekingen te voeren over een vervolgovereenkomst met betrekking tot eventuele samenwerking tussen hun respectieve onafhankelijk gefinancierde en geëxploiteerde civiele satellietnavigatie- en -tijdsbepalingssystemen voor een periode die ingaat zodra Galileo aanvankelijk operationeel is geworden. De partijen zijn voornemens bij deze besprekingen de diverse coördinatiemogelijkheden te verkennen, zoals de aanwijzing met wederzijdse instemming van een interface-raad op hoog niveau die een- of tweemaal per jaar bijeenkomt om beleidskwesties en toekomstplannen te bespreken, van een klein GPS-Galileo-secretariaat voor de uitwisseling van interface-gegevens en de dagelijkse coördinatie, alsmede van verbindingsfunctionarissen.
 
-#### Artikel 15. Activiteiten binnen internationale fora
+##### Artikel 15. Activiteiten binnen internationale fora
 
 Teneinde de doelstellingen van deze overeenkomst te bevorderen en te realiseren werken de partijen waar nodig samen bij aangelegenheden van wederzijds belang in verband met civiele satellietnavigatie- en -tijdsbepalingssignalen en -systemen, diensten met toegevoegde waarde en goederen voor wereldwijde navigatie en tijdsbepaling binnen de ICAO, ITU, IMO, WTO en andere relevante organisaties en fora.
 
-#### Artikel 16. Financiering
+##### Artikel 16. Financiering
 
 Elke partij draagt zelf de kosten die zij maakt in verband met de uitoefening van haar taken in het kader van deze overeenkomst. De uit deze overeenkomst voortvloeiende verplichtingen voor elke partij gelden onder voorbehoud van de beschikbaarheid van voldoende middelen.
 
-#### Artikel 17. Overleg en oplossing van geschillen
+##### Artikel 17. Overleg en oplossing van geschillen
 
 1. Eventuele geschillen die ontstaan op grond van of in verband met de voorwaarden, interpretatie of toepassing van deze overeenkomst worden opgelost door middel van overleg.
 
@@ -274,17 +296,17 @@ Elke partij draagt zelf de kosten die zij maakt in verband met de uitoefening va
 
 3. Deze overeenkomst doet in generlei opzicht afbreuk aan het recht van de partijen om een beroep te doen op de geschillenregeling in het kader van de [WTO-regelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001160).
 
-#### Artikel 18. Definitie van de partijen
+##### Artikel 18. Definitie van de partijen
 
 In deze overeenkomst wordt onder “de partijen” verstaan de Europese Gemeenschap of haar lidstaten of de Europese Gemeenschap en haar lid-staten, op hun respectieve bevoegdheidsterreinen, enerzijds en de Verenigde Staten anderzijds.
 
-#### Artikel 19. Verantwoordelijkheid en aansprakelijkheid
+##### Artikel 19. Verantwoordelijkheid en aansprakelijkheid
 
 1. De partijen zijn verantwoordelijk voor niet-nakoming van verplichtingen uit hoofde van deze overeenkomst.
 
 2. Indien onduidelijk is of een uit deze overeenkomst voortvloeiende verplichting onder de bevoegdheid van de Europese Gemeenschap of die van haar lidstaten valt, verstrekken de Europese Gemeenschap en haar lidstaten op verzoek van de Verenigde Staten hierover de nodige informatie. Indien deze informatie niet op redelijke termijn wordt verstrekt of indien tegenstrijdige informatie wordt gegeven, zijn de Europese Gemeenschap en haar lidstaten hiervoor hoofdelijk aansprakelijk.
 
-#### Artikel 20. Inwerkingtreding en beëindiging
+##### Artikel 20. Inwerkingtreding en beëindiging
 
 1. Deze overeenkomst treedt in werking op de dag waarop de Europese Gemeenschap en haar lidstaten en de Verenigde Staten de depositaris per diplomatieke nota ervan in kennis hebben gesteld dat hun respectieve interne procedures voor de inwerkingtreding zijn voltooid.
 

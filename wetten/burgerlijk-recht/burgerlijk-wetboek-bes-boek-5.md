@@ -1,20 +1,45 @@
 ---
 title: "Burgerlijk Wetboek BES Boek 5"
 identifier: "BWBR0028748"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2016-07-01
-laatste_update: 2016-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028748"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2016-07-01"
+last_updated: "2016-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028748"
+soort: "wet-BES"
+stam_id: "10966903"
+version_id: "17955402"
+internal_id: "C25010831"
+label_id: "10942894"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028748/2016-07-01/0"
+intitule_bron: "Stb.2010-494"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-27"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-494"
+original_signed_date: "2010-09-27"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-494"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028748&z=2016-07-01&g=2016-07-01"
+jci_1_0: "1.0:c:BWBR0028748&g=2016-07-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-27"
+entry_into_force: "2010-10-10"
 ---
-
 # Burgerlijk Wetboek BES Boek 5
 
 ## Boek 5. Zakelijke rechten
 
 ## Titel 1. Eigendom in het algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Eigendom is het meest omvattende recht dat een persoon op een zaak kan hebben.
 
@@ -22,19 +47,19 @@ bron: "https://wetten.overheid.nl/BWBR0028748"
 
 3. De eigenaar van de zaak wordt, behoudens rechten van anderen, eigenaar van de afgescheiden vruchten.
 
-#### Artikel 2
+##### Artikel 2
 
 De eigenaar van een zaak is bevoegd haar van een ieder die haar zonder recht houdt, op te eisen.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor zover de wet niet anders bepaalt, is de eigenaar van een zaak eigenaar van al haar bestanddelen.
 
-#### Artikel 4
+##### Artikel 4
 
 Hij die een aan niemand toebehorende roerende zaak in bezit neemt, verkrijgt daarvan de eigendom.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Hij die een onbeheerde zaak vindt en onder zich neemt, is verplicht:
 
@@ -52,17 +77,17 @@ Hij die een aan niemand toebehorende roerende zaak in bezit neemt, verkrijgt daa
 
 5. De in dit artikel en de [artikelen 6 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=1&artikel=6&z=2016-07-01&g=2016-07-01) aan het openbaar lichaam toegekende bevoegdheden en taken worden uitgeoefend door de gezaghebber van het openbaar lichaam waar de zaak is gevonden, dan wel door een ambtenaar, voor zover deze door de gezaghebber is belast met de uitvoering van de in deze bepalingen genoemde bevoegdheden en taken.
 
-#### Artikel 6
+##### Artikel 6
 
 De vinder die aan de hem in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=1&artikel=5&z=2016-07-01&g=2016-07-01), gestelde eisen heeft voldaan, verkrijgt de eigendom van de zaak één jaar na de aldaar bedoelde aangifte of mededeling, mits de zaak zich op dat tijdstip nog bevindt in de macht van de vinder of bij het openbaar lichaam in bewaring is.
 
-#### Artikel 7
+##### Artikel 7
 
 De vinder kan, door de zaak onverwijld af te geven aan de bewoner van de woning of de gebruiker of exploitant van de ruimte waar de vondst is gedaan, dan wel aan degene die daar voor hem toezicht houdt, zijn rechtspositie met alle daaraan verbonden verplichtingen doen overgaan op die bewoner, gebruiker of exploitant, met dien verstande dat geen recht op beloning bestaat.
 
 ## Titel 2. Eigendom van roerende zaken
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien een bij het openbaar lichaam in bewaring gegeven zaak aan snel tenietgaan of achteruitgang onderhevig is of wegens de onevenredig hoge kosten of ander nadeel de bewaring daarvan redelijkerwijs niet langer kan worden gevergd, is het openbaar lichaam bevoegd haar voor rekening van het openbaar lichaam te verkopen.
 
@@ -74,23 +99,23 @@ Mocht ook dit laatste zijn uitgesloten, dan is het openbaar lichaam bevoegd het 
 
 4. De opbrengst treedt in de plaats van de zaak.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Hij die de zaak opeist van het openbaar lichaam of van de vinder die aan de hem in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=1&artikel=5&z=2016-07-01&g=2016-07-01), gestelde eisen heeft voldaan, is verplicht de kosten van bewaring en onderhoud en tot opsporing van de eigenaar of een andere tot ontvangst bevoegde te vergoeden. Het openbaar lichaam of de vinder is bevoegd de afgifte op te schorten totdat deze verplichting is nagekomen. Indien degene die de zaak opeist, de verschuldigde kosten niet binnen een maand nadat ze hem zijn opgegeven, heeft voldaan, wordt hij geacht zijn recht te hebben prijsgegeven.
 
 2. De vinder die aan de hem opgelegde verplichtingen heeft voldaan, heeft naar omstandigheden recht op een redelijke beloning.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien een vinder die op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=1&artikel=6&z=2016-07-01&g=2016-07-01) eigenaar is geworden van een bij het openbaar lichaam in bewaring gegeven zaak, zich niet binnen één maand na zijn verkrijging bij haar heeft aangemeld om de zaak in ontvangst te nemen, is deze met overeenkomstige toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=2&artikel=8&z=2016-07-01&g=2016-07-01) bevoegd de zaak voor rekening van het openbaar lichaam te verkopen, om niet aan een derde over te dragen of te vernietigen.
 
 Hetzelfde geldt indien geen vinder eigenaar van de zaak is geworden.
 
-#### Artikel 11
+##### Artikel 11
 
 Bestaat de door het openbaar lichaam in bewaring genomen zaak uit geld, dan is zij slechts verplicht aan degene die haar kan opeisen, onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=2&artikel=9&z=2016-07-01&g=2016-07-01), een gelijk bedrag uit te keren. Zij is van deze verplichting ontslagen in de gevallen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=2&artikel=10&z=2016-07-01&g=2016-07-01).
 
-#### Artikel 12
+##### Artikel 12
 
 Bij of krachtens algemene maatregel van bestuur kunnen:
 
@@ -100,7 +125,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen:
 
 - c. voor de afwikkeling van vondsten door personen of instellingen als bedoeld in onderdeel b, groepen van niet afgehaalde zaken met gevonden zaken worden gelijkgesteld.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een schat komt voor gelijke delen toe aan degene die hem ontdekt, en aan de eigenaar van de onroerende of roerende zaak waarin de schat wordt aangetroffen.
 
@@ -108,7 +133,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen:
 
 3. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=1&artikel=5&z=2016-07-01&g=2016-07-01) is van overeenkomstige toepassing. Het openbaar lichaam kan inbewaringgeving van de schat overeenkomstig artikel 5, eerste lid, onderdeel c, slechts vorderen, indien en voor zolang bijzondere omstandigheden daartoe aanleiding geven.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De eigendom van een roerende zaak die een bestanddeel wordt van een andere roerende zaak die als hoofdzaak is aan te merken, gaat over aan de eigenaar van deze hoofdzaak.
 
@@ -116,11 +141,11 @@ Bij of krachtens algemene maatregel van bestuur kunnen:
 
 3. Als hoofdzaak is aan te merken de zaak waarvan de waarde die van de andere zaak aanmerkelijk overtreft of die volgens verkeersopvatting als zodanig wordt beschouwd.
 
-#### Artikel 15
+##### Artikel 15
 
 Worden roerende zaken die aan verschillende eigenaars toebehoren, door vermenging tot één zaak verenigd, dan is [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=2&artikel=14&z=2016-07-01&g=2016-07-01) van overeenkomstige toepassing.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Indien iemand uit een of meer roerende zaken een nieuwe zaak vormt, wordt deze eigendom van de eigenaar van de oorspronkelijke zaken. Behoorden deze toe aan verschillende eigenaars, dan zijn de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=2&artikel=14&z=2016-07-01&g=2016-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=2&artikel=15&z=2016-07-01&g=2016-07-01) van overeenkomstige toepassing.
 
@@ -128,15 +153,15 @@ Worden roerende zaken die aan verschillende eigenaars toebehoren, door vermengin
 
 3. Bij het verwerken van stoffen tot een nieuwe stof of het kweken van planten zijn het eerste en het tweede lid van overeenkomstige toepassing.
 
-#### Artikel 17
+##### Artikel 17
 
 Degene die krachtens zijn genotsrecht op een zaak gerechtigd is tot de vruchten daarvan, verkrijgt de eigendom der vruchten door hun afscheiding.
 
-#### Artikel 18
+##### Artikel 18
 
 De eigendom van een roerende zaak wordt verloren, wanneer de eigenaar het bezit prijsgeeft met het oogmerk om zich van de eigendom te ontdoen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De eigenaar van tamme dieren verliest daarvan de eigendom wanneer zij, nadat zij uit zijn macht zijn gekomen, zijn verwilderd.
 
@@ -144,7 +169,7 @@ De eigendom van een roerende zaak wordt verloren, wanneer de eigenaar het bezit 
 
 ## Titel 3. Eigendom van onroerende zaken
 
-#### Artikel 20
+##### Artikel 20
 
 1. De eigendom van de grond omvat, voor zover de wet niet anders bepaalt:
 
@@ -160,7 +185,7 @@ De eigendom van een roerende zaak wordt verloren, wanneer de eigenaar het bezit 
 
 2. In afwijking van het eerste lid behoort de eigendom van een net, bestaande uit een of meer kabels of leidingen, bestemd voor transport van vaste, vloeibare of gasvormige stoffen, van energie of van informatie, dat in, op of boven de grond van anderen is of wordt aangelegd, toe aan de bevoegde aanlegger van dat net dan wel aan diens rechtsopvolger.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De bevoegdheid van de eigenaar van de grond om deze te gebruiken, omvat de bevoegdheid tot gebruik van de ruimte boven en onder de oppervlakte.
 
@@ -168,41 +193,41 @@ De eigendom van een roerende zaak wordt verloren, wanneer de eigenaar het bezit 
 
 3. Het eerste en het tweede lid zijn niet van toepassing op de bevoegdheid tot vliegen.
 
-#### Artikel 22
+##### Artikel 22
 
 Wanneer een erf niet is afgesloten, mag ieder er zich op begeven, tenzij de eigenaar schade of hinder hiervan kan ondervinden of op duidelijke wijze kenbaar heeft gemaakt dat het verboden is zonder zijn toestemming zich op het erf te bevinden.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Is een voorwerp of een dier anders dan door opzet of grove nalatigheid van de eigenaar op de grond van een ander terecht gekomen, dan moet de eigenaar van de grond hem op zijn verzoek toestaan het voorwerp of het dier op te sporen en weg te voeren.
 
 2. De bij de opsporing en wegvoering aangerichte schade moet door de eigenaar van het voorwerp of het dier aan de eigenaar van de grond worden vergoed. Voor deze vordering heeft laatstgenoemde een retentierecht op het voorwerp of het dier.
 
-#### Artikel 24
+##### Artikel 24
 
 Onroerende zaken die geen andere eigenaar hebben, behoren toe aan het openbaar lichaam waar zij zijn gelegen.
 
-#### Artikel 25
+##### Artikel 25
 
 De bodem van de territoriale zee is eigendom van de Staat.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De stranden der zee, de grond onder de binnenwateren, alsmede de grote en kleine eilanden en platen die in die wateren voorkomen, worden vermoed eigendom te zijn van het openbaar lichaam waar zij zijn gelegen.
 
 2. Beperking van de openbaarheid van aan de Staat of een openbaar lichaam toebehorende stranden door vervreemding, bezwaring, ingebruikgeving of anderszins, behoeft een bij wet, onderscheidenlijk bij eilandsverordening te verlenen bijzondere toestemming.
 
-#### Artikel 29
+##### Artikel 29
 
 De grens van een langs een water liggend erf verplaatst zich met de oeverlijn, behalve in geval van opzettelijke drooglegging of tijdelijke overstroming. Een overstroming is niet tijdelijk, indien tien jaren na de overstroming het land nog door het water wordt overspoeld en de drooglegging niet is begonnen.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Een verplaatsing van de oeverlijn wijzigt de grens niet meer nadat deze is vastgelegd, hetzij door de eigenaars van land en water overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=3&artikel=31&z=2016-07-01&g=2016-07-01), hetzij door de rechter op vordering van een hunner tegen de ander overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=3&artikel=32&z=2016-07-01&g=2016-07-01). De vastlegging geldt jegens een ieder.
 
 2. Indien bij de vastlegging in plaats van de werkelijke eigenaar van een erf iemand die als zodanig in de openbare registers was ingeschreven, partij is geweest, is niettemin het eerste lid van toepassing, tenzij de werkelijke eigenaar tegen inschrijving van de akte of het vonnis verzet heeft gedaan voordat zij is geschied.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De vastlegging van de grens door de eigenaars van land en water geschiedt bij een daartoe bestemde notariële akte, binnen veertien dagen gevolgd door de inschrijving daarvan in de openbare registers.
 
@@ -210,7 +235,7 @@ De grens van een langs een water liggend erf verplaatst zich met de oeverlijn, b
 
 3. Voor zover de in de akte beschreven grens van de toenmalige oeverlijn afwijkt, kan een derde die op het ogenblik van de inschrijving een recht op een der erven heeft, daarvan huurder is of daarop een beslag heeft doen inschrijven, de toenmalige oeverlijn als vastgelegde grens aanmerken.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Een vordering tot vastlegging van de grens wordt slechts toegewezen, indien allen die ten tijde van de inschrijving van de instelling der vordering als rechthebbende of beslaglegger op een der erven stonden ingeschreven, tijdig in het geding zijn geroepen.
 
@@ -222,7 +247,7 @@ De grens van een langs een water liggend erf verplaatst zich met de oeverlijn, b
 
 5. De vastlegging treedt in op het tijdstip dat het vonnis waarbij de vordering is toegewezen, in de openbare registers wordt ingeschreven. Deze inschrijving geschiedt niet voordat het vonnis in kracht van gewijsde is gegaan.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Verplaatst zich, nadat de grens is vastgelegd, de oeverlijn van een openbaar water landinwaarts, dan moet de eigenaar van het overspoelde erf het gebruik van het water overeenkomstig de bestemming dulden.
 
@@ -232,33 +257,33 @@ De grens van een langs een water liggend erf verplaatst zich met de oeverlijn, b
 
 4. In geval van grensvastlegging overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=3&artikel=32&z=2016-07-01&g=2016-07-01) is het eerste tot en met derde lid reeds van toepassing, wanneer de oeverlijn zich na de inschrijving van de vordering verplaatst.
 
-#### Artikel 34
+##### Artikel 34
 
 De oeverlijn in de zin van de [artikelen 29 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=3&artikel=29&z=2016-07-01&g=2016-07-01) wordt bepaald door de normale waterstand, of, bij wateren waarvan het peil periodiek wisselt, door de normale hoogwaterstand. Grond, met andere dan gewoonlijk in het water levende planten begroeid, wordt echter gerekend aan de landzijde van de oeverlijn te liggen, ook al wordt die grond bij hoogwater overstroomd.
 
-#### Artikel 36
+##### Artikel 36
 
 Dient een muur, hek, heg, rooi of greppel, dan wel een sloot, gracht of dergelijke watergang als afscheiding van twee erven, dan wordt het midden van deze afscheiding vermoed de grens tussen deze erven te zijn. Dit vermoeden geldt niet indien een muur slechts aan één zijde een gebouw of werk steunt.
 
 ## Titel 4. Bevoegdheden en verplichtingen van eigenaars van naburige erven
 
-#### Artikel 37
+##### Artikel 37
 
 De eigenaar van een erf mag niet in een mate of op een wijze die volgens [artikel 162 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&artikel=162) onrechtmatig is, aan eigenaars van andere erven hinder toebrengen zoals door het verspreiden van rumoer, trillingen, stank, rook of gassen, door het onthouden van licht of lucht of door het ontnemen van steun.
 
-#### Artikel 38
+##### Artikel 38
 
 Lagere erven moeten het water ontvangen dat van hoger gelegen erven van nature afloopt.
 
-#### Artikel 39
+##### Artikel 39
 
 De eigenaar van een erf mag niet in een mate of op een wijze die volgens [artikel 162 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&artikel=162) onrechtmatig is, aan eigenaars van andere erven hinder toebrengen door wijziging te brengen in de loop, hoeveelheid of hoedanigheid van over zijn erf stromend water of van het grondwater.
 
-#### Artikel 41
+##### Artikel 41
 
 Van de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=4&artikel=38&z=2016-07-01&g=2016-07-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=4&artikel=39&z=2016-07-01&g=2016-07-01) kan bij eilandsverordening worden afgeweken.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Het is niet geoorloofd binnen de in het tweede lid bepaalde afstand van de grenslijn van eens anders erf bomen, heesters of heggen te hebben, tenzij de eigenaar daartoe toestemming heeft gegeven of dat erf een openbare weg of een openbaar water is.
 
@@ -268,25 +293,25 @@ Van de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&tit
 
 4. Ter zake van een volgens dit artikel ongeoorloofde toestand is slechts vergoeding verschuldigd van de schade, ontstaan na het tijdstip waartegen tot opheffing van die toestand is aangemaand.
 
-#### Artikel 43
+##### Artikel 43
 
 Onder muur wordt in deze en de volgende titel verstaan iedere van steen, hout of andere daartoe geschikte stof vervaardigde, ondoorzichtige afsluiting.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Indien een nabuur wiens beplantingen over eens anders erf heenhangen, ondanks aanmaning van de eigenaar van dit erf, nalaat het overhangende te verwijderen, kan laatstgenoemde eigenaar eigenmachtig het overhangende wegsnijden en zich toeëigenen.
 
 2. Degene op wiens erf wortels van een ander erf doorschieten, mag deze voor zover ze doorgeschoten zijn, weghakken en zich toeëigenen.
 
-#### Artikel 45
+##### Artikel 45
 
 Vruchten die van bomen van een erf op een naburig erf vallen, behoren aan hem wie de vruchten van dit laatste erf toekomen.
 
-#### Artikel 46
+##### Artikel 46
 
 De eigenaar van een erf kan te allen tijde van de eigenaar van het aangrenzende erf vorderen dat op de grens van hun erven behoorlijk waarneembare afpalingstekens gesteld of de bestaande zo nodig vernieuwd worden. De eigenaars dragen in de kosten hiervan voor gelijke delen bij.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Indien de loop van de grens tussen twee erven onzeker is, kan ieder der eigenaars te allen tijde vorderen dat de rechter de grens bepaalt.
 
@@ -294,15 +319,15 @@ De eigenaar van een erf kan te allen tijde van de eigenaar van het aangrenzende 
 
 3. Bij het bepalen van de grens kan de rechter naar gelang van de omstandigheden het gebied waarover onzekerheid bestaat, in gelijkwaardige of ongelijkwaardige delen verdelen dan wel het in zijn geheel aan een der partijen toewijzen, al dan niet met toekenning van een schadevergoeding aan een der partijen.
 
-#### Artikel 48
+##### Artikel 48
 
 De eigenaar van een erf is bevoegd dit af te sluiten.
 
-#### Artikel 49
+##### Artikel 49
 
 Ieder der eigenaars van aangrenzende erven kan te allen tijde vorderen dat de andere eigenaar ertoe meewerkt dat op de grens van de erven een scheidsmuur van anderhalve meter hoogte wordt opgericht, voor zover een eilandsverordening of de gewoonte de wijze of de hoogte der afscheiding niet anders regelt. De kosten van de aanleg van de scheidsmuur komen voor rekening van de eiser, doch de andere eigenaar draagt daarin bij voor zover dit gelet op de eisen van een goed nabuurschap redelijkerwijze van hem kan worden verlangd.
 
-#### Artikel 50
+##### Artikel 50
 
 1. Tenzij de eigenaar van het naburige erf daartoe toestemming heeft gegeven, is het niet geoorloofd binnen twee meter van de grenslijn van dit erf vensters of andere muuropeningen, dan wel balkons of soortgelijke werken te hebben, voor zover deze op dit erf uitzicht geven.
 
@@ -314,21 +339,21 @@ Ieder der eigenaars van aangrenzende erven kan te allen tijde vorderen dat de an
 
 5. Ter zake van een volgens dit artikel ongeoorloofde toestand is slechts vergoeding verschuldigd van schade, ontstaan na het tijdstip waartegen opheffing van die toestand is aangemaand.
 
-#### Artikel 51
+##### Artikel 51
 
 In muren, staande binnen de in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=4&artikel=50&z=2016-07-01&g=2016-07-01) aangegeven afstand, mogen steeds lichtopeningen worden gemaakt, mits zij van vaststaande en ondoorzichtige vensters worden voorzien.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Een eigenaar is verplicht de afdekking van zijn gebouwen en werken zodanig in te richten, dat daarvan het water niet op eens anders erf afloopt.
 
 2. Afwatering op de openbare weg is geoorloofd, indien zij niet bij eilandsverordening verboden is.
 
-#### Artikel 53
+##### Artikel 53
 
 Een eigenaar is verplicht er voor te zorgen dat geen water of vuilnis van zijn erf in de goot van eens anders erf komt, tenzij hij de bevoegdheid daartoe heeft verkregen.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Is een gebouw of werk ten dele op, boven of onder het erf van een ander gebouwd en zou de eigenaar van het gebouw of werk door wegneming van het uitstekende gedeelte onevenredig veel zwaarder benadeeld worden dan de eigenaar van het erf door handhaving daarvan, dan kan de eigenaar van het gebouw of werk te allen tijde vorderen dat hem tegen schadeloosstelling een erfdienstbaarheid tot het handhaven van de bestaande toestand wordt verleend of, ter keuze van de eigenaar van het erf, een daartoe benodigd gedeelte van het erf wordt overgedragen.
 
@@ -336,15 +361,15 @@ Een eigenaar is verplicht er voor te zorgen dat geen water of vuilnis van zijn e
 
 3. Het eerste en het tweede lid zijn niet van toepassing, indien dit voortvloeit uit een op de wet of rechtshandeling gegronde verplichting tot het dulden van de bestaande toestand of indien de eigenaar van het gebouw of werk ter zake van de bouw of zijn verkrijging kwade trouw of grove schuld verweten kan worden.
 
-#### Artikel 55
+##### Artikel 55
 
 Indien door een dreigende instorting van een gebouw of werk een naburig erf in gevaar wordt gebracht, kan de eigenaar van dat erf te allen tijde vorderen dat maatregelen worden genomen teneinde het gevaar op te heffen.
 
-#### Artikel 56
+##### Artikel 56
 
 Wanneer het voor het verrichten van werkzaamheden ten behoeve van een onroerende zaak noodzakelijk is van een andere onroerende zaak tijdelijk gebruik te maken, is de eigenaar van deze zaak gehouden dit na behoorlijke kennisgeving en tegen schadeloosstelling toe te staan, tenzij er voor deze eigenaar gewichtige redenen bestaan dit gebruik te weigeren of tot een later tijdstip te doen uitstellen.
 
-#### Artikel 57
+##### Artikel 57
 
 1. De eigenaar van een erf dat geen behoorlijke toegang heeft tot een openbare weg of een openbaar vaarwater, kan van de eigenaars van de naburige erven te allen tijde aanwijzing van een noodweg ten dienste van zijn erf vorderen tegen vooraf te betalen of te verzekeren vergoeding van de schade welke hun door die noodweg wordt berokkend.
 
@@ -356,13 +381,13 @@ Wanneer het voor het verrichten van werkzaamheden ten behoeve van een onroerende
 
 5. Een noodweg vervalt, hoelang hij ook heeft bestaan, zodra hij niet meer nodig is.
 
-#### Artikel 58
+##### Artikel 58
 
 1. De eigenaar van een erf die water dat elders te zijner beschikking staat, door een leiding wil aanvoeren, kan tegen vooraf te betalen of te verzekeren schadevergoeding van de eigenaars der naburige erven vorderen te gedogen dat deze leiding door of over hun erven gaat.
 
 2. [Artikel 57, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=4&artikel=57&z=2016-07-01&g=2016-07-01), vindt daarbij overeenkomstige toepassing.
 
-#### Artikel 59
+##### Artikel 59
 
 1. Wanneer de grens van twee erven in de lengterichting onder een sloot, rooi of dergelijke watergang doorloopt, heeft de eigenaar van elk van die erven met betrekking tot die watergang in zijn gehele breedte dezelfde bevoegdheden en verplichtingen als een mede-eigenaar. Iedere eigenaar is verplicht de op zijn erf gelegen kant van het water, de sloot, de rooi of de watergang te onderhouden.
 
@@ -372,11 +397,11 @@ Wanneer het voor het verrichten van werkzaamheden ten behoeve van een onroerende
 
 ## Titel 5. Mandeligheid
 
-#### Artikel 60
+##### Artikel 60
 
 Mandeligheid ontstaat, wanneer een onroerende zaak gemeenschappelijk eigendom is van de eigenaars van twee of meer erven en door hen tot gemeenschappelijk nut van die erven wordt bestemd bij een tussen hen opgemaakte notariële akte, gevolgd door inschrijving daarvan in de openbare registers.
 
-#### Artikel 61
+##### Artikel 61
 
 1. Mandeligheid die is ontstaan ingevolge [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=5&artikel=60&z=2016-07-01&g=2016-07-01), eindigt:
 
@@ -388,27 +413,27 @@ Mandeligheid ontstaat, wanneer een onroerende zaak gemeenschappelijk eigendom is
 
 2. Het feit dat het nut van de zaak voor elk van de erven is geëindigd, kan in de openbare registers worden ingeschreven.
 
-#### Artikel 62
+##### Artikel 62
 
 1. Een vrijstaande scheidsmuur, een hek of een heg is gemeenschappelijk eigendom en mandelig, indien de grens van twee erven die aan verschillende eigenaars toebehoren, er in de lengterichting onderdoor loopt.
 
 2. De scheidsmuur die twee gebouwen of werken, welke aan verschillende eigenaars toebehoren, gemeen hebben, is eveneens gemeenschappelijk eigendom en mandelig.
 
-#### Artikel 63
+##### Artikel 63
 
 1. Het recht op een mandelige zaak kan niet worden gescheiden van de eigendom der erven.
 
 2. Een vordering tot verdeling van een mandelige zaak is uitgesloten.
 
-#### Artikel 64
+##### Artikel 64
 
 Mandeligheid brengt mee dat iedere mede-eigenaar aan de overige medeeigenaars toegang tot de mandelige zaak moet geven.
 
-#### Artikel 65
+##### Artikel 65
 
 Mandelige zaken moeten op kosten van alle mede-eigenaars worden onderhouden, gereinigd en, indien nodig, vernieuwd.
 
-#### Artikel 66
+##### Artikel 66
 
 1. Een mede-eigenaar van een mandelige zaak kan zijn aandeel in die zaak ook afzonderlijk van zijn erf aan de overige mede-eigenaars overdragen.
 
@@ -416,39 +441,39 @@ Mandelige zaken moeten op kosten van alle mede-eigenaars worden onderhouden, ger
 
 3. Het eerste en het tweede lid zijn niet van toepassing op een muur die twee gebouwen of werken gemeen hebben, noch op een muur, hek of heg waardoor twee erven van elkaar worden gescheiden.
 
-#### Artikel 67
+##### Artikel 67
 
 1. Iedere mede-eigenaar mag tegen de mandelige scheidsmuur aanbouwen en daarin tot op de helft der dikte balken, ribben, ankers en andere werken aanbrengen, mits hij aan de muur en aan de door de buur bevoegdelijk daarmee verbonden werken geen nadeel toebrengt.
 
 2. Behalve in noodgevallen kan een mede-eigenaar vorderen dat vóór de andere mede-eigenaar begint met aanbrengen van het werk, deskundigen zullen vaststellen op welke wijze dit kan geschieden zonder nadeel voor de muur of voor bevoegd aangebrachte werken van de eerstvermelde eigenaar.
 
-#### Artikel 68
+##### Artikel 68
 
 Iedere mede-eigenaar mag op de mandelige scheidsmuur tot op de helft der dikte een goot aanleggen, mits het water niet op het erf van de andere mede-eigenaren uitloost.
 
-#### Artikel 69
+##### Artikel 69
 
 De [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=5&artikel=64&z=2016-07-01&g=2016-07-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=5&artikel=65&z=2016-07-01&g=2016-07-01), [66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=5&artikel=66&z=2016-07-01&g=2016-07-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=5&artikel=67&z=2016-07-01&g=2016-07-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=5&artikel=68&z=2016-07-01&g=2016-07-01) vinden geen toepassing voor zover een overeenkomstig [artikel 168 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=168) getroffen regeling anders bepaalt.
 
 ## Titel 6. Erfdienstbaarheden
 
-#### Artikel 70
+##### Artikel 70
 
 1. Een erfdienstbaarheid is een last, waarmee een onroerende zaak – het dienende erf – ten behoeve van een andere onroerende zaak – het heersende erf – is bezwaard.
 
 2. In de akte van vestiging van een erfdienstbaarheid kan aan de eigenaar van het heersende erf de verplichting worden opgelegd aan de eigenaar van het dienend erf op al dan niet regelmatig terugkerende tijdstippen een geldsom – de retributie – te betalen.
 
-#### Artikel 71
+##### Artikel 71
 
 1. De last die een erfdienstbaarheid op het dienende erf legt, bestaat in een verplichting om op, boven of onder een der beide erven iets te dulden of niet te doen. In de akte van vestiging kan worden bepaald dat de last bovendien een verplichting inhoudt tot het aanbrengen van gebouwen, werken of beplantingen die voor de uitoefening van die erfdienstbaarheid nodig zijn, mits deze gebouwen, werken en beplantingen zich geheel of gedeeltelijk op het dienende erf zullen bevinden.
 
 2. De last die een erfdienstbaarheid op het dienende erf legt, kan ook bestaan in een verplichting tot onderhoud van het dienende erf of van gebouwen, werken of beplantingen die zich geheel of gedeeltelijk op het dienende erf bevinden of zullen bevinden.
 
-#### Artikel 72
+##### Artikel 72
 
 Erfdienstbaarheden kunnen ontstaan door vestiging en door verjaring.
 
-#### Artikel 73
+##### Artikel 73
 
 1. De inhoud van de erfdienstbaarheid en de wijze van uitoefening worden bepaald door de akte van vestiging en, voor zover in die akte regels daaromtrent ontbreken, door de plaatselijke gewoonte. Is een erfdienstbaarheid te goeder trouw geruime tijd zonder tegenspraak op een bepaalde wijze uitgeoefend, dan is in geval van twijfel deze wijze van uitoefening beslissend.
 
@@ -456,11 +481,11 @@ Erfdienstbaarheden kunnen ontstaan door vestiging en door verjaring.
 
 Kosten, noodzakelijk voor zodanige verandering, komen ten laste van de eigenaar van het dienende erf.
 
-#### Artikel 74
+##### Artikel 74
 
 De uitoefening der erfdienstbaarheid moet op de voor het dienende erf minst bezwarende wijze geschieden.
 
-#### Artikel 75
+##### Artikel 75
 
 1. De eigenaar van het heersende erf is bevoegd om op zijn kosten op het dienende erf alles te verrichten wat voor de uitoefening van de erfdienstbaarheid noodzakelijk is.
 
@@ -474,7 +499,7 @@ De uitoefening der erfdienstbaarheid moet op de voor het dienende erf minst bezw
 
 6. In geval van mandeligheid zijn in de plaats van het derde en het vierde lid de uit dien hoofde geldende regels van toepassing.
 
-#### Artikel 76
+##### Artikel 76
 
 1. Wanneer het heersende erf wordt verdeeld, blijft de erfdienstbaarheid bestaan ten behoeve van ieder gedeelte ten voordele waarvan zij kan strekken.
 
@@ -482,7 +507,7 @@ De uitoefening der erfdienstbaarheid moet op de voor het dienende erf minst bezw
 
 3. In de akte van vestiging kan van het eerste en het tweede lid worden afgeweken.
 
-#### Artikel 77
+##### Artikel 77
 
 1. Behoort het heersende of het dienende erf toe aan twee of meer personen, hetzij als deelgenoten, hetzij als eigenaars van verschillende gedeelten daarvan, dan zijn zij hoofdelijk verbonden tot nakoming van de uit de erfdienstbaarheid voortvloeiende geldelijke verplichtingen die tijdens hun recht opeisbaar worden, voor zover deze niet over hun rechten zijn verdeeld.
 
@@ -490,7 +515,7 @@ De uitoefening der erfdienstbaarheid moet op de voor het dienende erf minst bezw
 
 3. In de akte van vestiging kan van het eerste en het tweede lid worden afgeweken, doch van het tweede lid niet ten nadele van de verkrijger.
 
-#### Artikel 78
+##### Artikel 78
 
 De rechter kan op vordering van de eigenaar van het dienende erf een erfdienstbaarheid wijzigen of opheffen:
 
@@ -498,31 +523,31 @@ De rechter kan op vordering van de eigenaar van het dienende erf een erfdienstba
 
 - b. indien ten minste 20 jaren na het ontstaan van de erfdienstbaarheid zijn verlopen en het ongewijzigd voortbestaan van de erfdienstbaarheid in strijd is met het algemeen belang.
 
-#### Artikel 79
+##### Artikel 79
 
 De rechter kan op vordering van de eigenaar van het dienende erf een erfdienstbaarheid opheffen, indien de uitoefening daarvan onmogelijk is geworden of de eigenaar van het heersende erf geen redelijk belang bij de uitoefening meer heeft, en het niet aannemelijk is dat de mogelijkheid of het redelijk belang daarbij zal terugkeren.
 
-#### Artikel 80
+##### Artikel 80
 
 De rechter kan op vordering van de eigenaar van het heersende erf de inhoud van een erfdienstbaarheid, wanneer door onvoorziene omstandigheden de uitoefening blijvend of tijdelijk onmogelijk is geworden of het belang van de eigenaar van het heersende erf aanzienlijk is verminderd, zodanig wijzigen dat de mogelijkheid van uitoefening of het oorspronkelijke belang wordt hersteld, mits deze wijziging naar maatstaven van redelijkheid en billijkheid van de eigenaar van het dienende erf kan worden gevergd.
 
-#### Artikel 81
+##### Artikel 81
 
 1. De rechter kan een vordering als bedoeld in de [artikelen 78 tot en met 80](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=6&artikel=78&z=2016-07-01&g=2016-07-01), toewijzen onder door hem te stellen voorwaarden.
 
 2. Rust op een der erven een beperkt recht, dan is de vordering slechts toewijsbaar, indien de beperkt gerechtigde in het geding is geroepen. Bij het oordeel of aan de maatstaven van de [artikelen 78, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=6&artikel=78&z=2016-07-01&g=2016-07-01), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=6&artikel=79&z=2016-07-01&g=2016-07-01) en [80](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=6&artikel=80&z=2016-07-01&g=2016-07-01) is voldaan, dient mede met zijn belangen rekening te worden gehouden.
 
-#### Artikel 82
+##### Artikel 82
 
 1. Indien de eigenaar van het heersende erf uit hoofde van de aan de erfdienstbaarheid verbonden lasten en verplichtingen op zijn kosten afstand van zijn recht wil doen, is de eigenaar van het dienende erf gehouden hieraan mee te werken.
 
 2. In de akte van vestiging kan voor de eerste 20 jaren anders worden bepaald.
 
-#### Artikel 83
+##### Artikel 83
 
 Indien op het tijdstip waarop het heersende en het dienende erf één eigenaar verkrijgen, een derde een der erven in huur of uit hoofde van een ander persoonlijk recht in gebruik heeft, gaat de erfdienstbaarheid pas door vermenging teniet bij het einde van dit gebruiksrecht.
 
-#### Artikel 84
+##### Artikel 84
 
 1. Hij die een recht van erfpacht, opstal of vruchtgebruik op een onroerende zaak heeft, kan een erfdienstbaarheid ten behoeve van deze zaak bedingen. Hij kan haar ook met een erfdienstbaarheid belasten.
 
@@ -534,17 +559,17 @@ Indien op het tijdstip waarop het heersende en het dienende erf één eigenaar v
 
 ## Titel 7. Erfpacht
 
-#### Artikel 85
+##### Artikel 85
 
 1. Erfpacht is een zakelijk recht, dat de erfpachter de bevoegdheid geeft eens anders onroerende zaak te houden en te gebruiken.
 
 2. In de akte van vestiging kan aan de erfpachter de verplichting worden opgelegd aan de eigenaar op al dan niet regelmatig terugkerende tijdstippen een geldsom – de canon – te betalen.
 
-#### Artikel 86
+##### Artikel 86
 
 Partijen kunnen in de akte van vestiging de duur van de erfpacht regelen.
 
-#### Artikel 87
+##### Artikel 87
 
 1. Een erfpacht kan door de erfpachter worden opgezegd, tenzij in de akte van vestiging anders is bepaald.
 
@@ -552,13 +577,13 @@ Partijen kunnen in de akte van vestiging de duur van de erfpacht regelen.
 
 3. Een beding dat ten nadele van de erfpachter van het tweede lid afwijkt, is nietig. In de akte van vestiging kan aan eigenaar de bevoegdheid worden toegekend tot opzegging, behoudens op grond van tekortschieten van de erfpachter in de nakoming van zijn verplichtingen.
 
-#### Artikel 88
+##### Artikel 88
 
 1. Iedere opzegging geschiedt bij exploot. Zij geschiedt ten minste een jaar voor het tijdstip waartegen wordt opgezegd, doch in het geval van [artikel 87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=7&artikel=87&z=2016-07-01&g=2016-07-01), ten minste een maand voor dat tijdstip.
 
 2. In het geval van [artikel 87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=7&artikel=87&z=2016-07-01&g=2016-07-01), weigert de bewaarder de inschrijving van de opzegging als niet tevens wordt overgelegd de betekening daarvan aan degenen die in de openbare registers als beperkt gerechtigde of beslaglegger op de erfpacht stonden ingeschreven.
 
-#### Artikel 89
+##### Artikel 89
 
 1. Voor zover niet in de akte van vestiging anders is bepaald, heeft de erfpachter hetzelfde genot van de zaak als een eigenaar.
 
@@ -566,13 +591,13 @@ Partijen kunnen in de akte van vestiging de duur van de erfpacht regelen.
 
 3. Voor zover niet in de akte van vestiging anders is bepaald, heeft de erfpachter, zowel tijdens de duur van de erfpacht als bij het einde daarvan, de bevoegdheid gebouwen, werken en beplantingen, die door hemzelf of een rechtsvoorganger onverplicht zijn aangebracht of van de eigenaar tegen vergoeding der waarde zijn overgenomen, weg te nemen, mits hij de in erfpacht gegeven zaak in de oude toestand terugbrengt.
 
-#### Artikel 90
+##### Artikel 90
 
 1. Voor zover niet in de akte van vestiging anders is bepaald, behoren vruchten die tijdens de duur der erfpacht zijn afgescheiden of opeisbaar geworden, en voordelen van roerende aard die de zaak oplevert, aan de erfpachter.
 
 2. Voordelen van onroerende aard behoren aan de eigenaar toe. Zij zijn eveneens aan de erfpacht onderworpen, tenzij in de akte van vestiging anders is bepaald.
 
-#### Artikel 91
+##### Artikel 91
 
 1. In de akte van vestiging kan worden bepaald dat de erfpacht niet zonder toestemming van de eigenaar kan worden overgedragen of toebedeeld. Een zodanige bepaling staat aan executie door schuldeisers niet in de weg.
 
@@ -582,7 +607,7 @@ Partijen kunnen in de akte van vestiging de duur van de erfpacht regelen.
 
 4. Indien de eigenaar de vereiste toestemming zonder redelijke gronden weigert of zich niet verklaart, kan zijn toestemming op verzoek van degene die haar behoeft, worden vervangen door een machtiging van de rechter in eerste aanleg binnen wiens rechtsgebied de zaak is gelegen.
 
-#### Artikel 92
+##### Artikel 92
 
 1. Behoort de erfpacht toe aan twee of meer personen, hetzij als deelgenoten hetzij als erfpachter van verschillende gedeelten van de zaak, dan zijn zij hoofdelijk verbonden voor de gehele canon die tijdens hun recht opeisbaar wordt, voor zover deze niet over hun rechten verdeeld is.
 
@@ -590,7 +615,7 @@ Partijen kunnen in de akte van vestiging de duur van de erfpacht regelen.
 
 3. In de akte van vestiging kan van het eerste en het tweede lid worden afgeweken, doch van het tweede lid niet ten nadele van de verkrijger.
 
-#### Artikel 93
+##### Artikel 93
 
 1. De erfpachter is bevoegd de zaak waarop het recht van erfpacht rust, geheel of ten dele in ondererfpacht te geven, voor zover in de akte van vestiging niet anders is bepaald. Aan de ondererfpachter komen ten aanzien van de zaak niet meer bevoegdheden toe dan de erfpachter jegens de eigenaar heeft.
 
@@ -598,7 +623,7 @@ Partijen kunnen in de akte van vestiging de duur van de erfpacht regelen.
 
 3. Voor de toepassing van de overige artikelen van deze titel wordt de erfpachter in zijn verhouding tot de ondererfpachter als eigenaar aangemerkt.
 
-#### Artikel 94
+##### Artikel 94
 
 1. De erfpachter is bevoegd de zaak waarop het recht van erfpacht rust, te verhuren, voor zover in de akte van vestiging niet anders is bepaald.
 
@@ -606,11 +631,11 @@ Partijen kunnen in de akte van vestiging de duur van de erfpacht regelen.
 
 3. Hij verliest de bevoegdheid gestanddoening te weigeren, wanneer de huurder hem een redelijke termijn heeft gesteld om zich omtrent de gestanddoening te verklaren en hij zich niet binnen deze termijn heeft uitgesproken.
 
-#### Artikel 95
+##### Artikel 95
 
 Tot het instellen van rechtsvorderingen en het indienen van verzoekschriften ter verkrijging van een rechterlijke uitspraak die zowel het recht van de eigenaar als dat van de erfpachter betreft, is ieder van hen bevoegd, mits hij zorg draagt dat de ander tijdig in het geding wordt geroepen.
 
-#### Artikel 96
+##### Artikel 96
 
 1. Gewone lasten en herstellingen worden door de erfpachter gedragen en verricht. De erfpachter is verplicht wanneer buitengewone herstellingen nodig zijn, aan de eigenaar van deze noodzakelijkheid kennis te geven en hem gelegenheid te verschaffen tot het doen van deze herstellingen. De eigenaar is niet tot het doen van enige herstelling verplicht.
 
@@ -618,7 +643,7 @@ Tot het instellen van rechtsvorderingen en het indienen van verzoekschriften ter
 
 3. In de akte van vestiging kan van het eerste en het tweede lid worden afgeweken.
 
-#### Artikel 97
+##### Artikel 97
 
 1. Indien 25 jaren na de vestiging van de erfpacht zijn verlopen, kan de rechter op vordering van de eigenaar of de erfpachter de erfpacht wijzigen of opheffen op grond van onvoorziene omstandigheden, die van dien aard zijn dat naar maatstaven van redelijkheid en billijkheid ongewijzigde instandhouding van de akte van vestiging niet van de eigenaar of de erfpachter kan worden gevergd.
 
@@ -626,13 +651,13 @@ Tot het instellen van rechtsvorderingen en het indienen van verzoekschriften ter
 
 3. Rust op de erfpacht of op de zaak een beperkt recht, dan is de vordering slechts toewijsbaar, indien de beperkt gerechtigde in het geding is geroepen en ook te zijnen aanzien aan de maatstaf van het eerste lid is voldaan.
 
-#### Artikel 98
+##### Artikel 98
 
 1. Wanneer de tijd waarvoor de erfpacht is gevestigd, is verstreken en de erfpachter de zaak niet op dat tijdstip heeft ontruimd, blijft de erfpacht doorlopen, tenzij de eigenaar uiterlijk zes maanden na dat tijdstip doet blijken dat hij haar als geëindigd beschouwt. De eigenaar en de erfpachter kunnen de verlengde erfpacht opzeggen op de wijze en met inachtneming van de termijn, vermeld in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=7&artikel=88&z=2016-07-01&g=2016-07-01).
 
 2. Ieder beding dat ten nadele van de erfpachter van het eerste lid afwijkt, is nietig.
 
-#### Artikel 99
+##### Artikel 99
 
 1. Na het einde van de erfpacht heeft de voormalige erfpachter recht op vergoeding van de waarde van nog aanwezige gebouwen, werken en beplantingen, die door hemzelf of een rechtsvoorganger zijn aangebracht of van de eigenaar tegen vergoeding der waarde zijn overgenomen.
 
@@ -648,7 +673,7 @@ Tot het instellen van rechtsvorderingen en het indienen van verzoekschriften ter
 
 3. De eigenaar is bevoegd van de door hem verschuldigde vergoeding af te houden hetgeen hij uit hoofde van de erfpacht van de erfpachter te vorderen heeft.
 
-#### Artikel 100
+##### Artikel 100
 
 1. De erfpachter heeft een retentierecht op de in erfpacht uitgegeven zaak totdat hem de verschuldigde vergoeding is betaald.
 
@@ -658,7 +683,7 @@ Tot het instellen van rechtsvorderingen en het indienen van verzoekschriften ter
 
 ## Titel 8. Opstal
 
-#### Artikel 101
+##### Artikel 101
 
 1. Het recht van opstal is een zakelijk recht om in, op of boven een onroerende zaak van een ander gebouwen, werken of beplantingen in eigendom te hebben of te verkrijgen.
 
@@ -666,21 +691,21 @@ Tot het instellen van rechtsvorderingen en het indienen van verzoekschriften ter
 
 3. In de akte van vestiging kan de opstaller de verplichting worden opgelegd aan de eigenaar op al dan niet regelmatig terugkerende tijdstippen een geldsom – solarium – te betalen.
 
-#### Artikel 102
+##### Artikel 102
 
 De bevoegdheden van de opstaller tot het gebruiken, aanbrengen en wegnemen van de gebouwen, werken en beplantingen kunnen in de akte van vestiging worden beperkt.
 
-#### Artikel 103
+##### Artikel 103
 
 Bij gebreke van een regeling daaromtrent in de akte van vestiging heeft de opstaller ten aanzien van de zaak waarop zijn recht rust, de bevoegdheden die voor het volle genot van zijn recht nodig zijn.
 
-#### Artikel 104
+##### Artikel 104
 
 1. De [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=7&artikel=92&z=2016-07-01&g=2016-07-01) en [95](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=7&artikel=95&z=2016-07-01&g=2016-07-01) zijn van overeenkomstige toepassing op het recht van opstal.
 
 2. De [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=7&artikel=86&z=2016-07-01&g=2016-07-01), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=7&artikel=87&z=2016-07-01&g=2016-07-01), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=7&artikel=88&z=2016-07-01&g=2016-07-01), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=7&artikel=91&z=2016-07-01&g=2016-07-01), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=7&artikel=93&z=2016-07-01&g=2016-07-01), [94](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=7&artikel=94&z=2016-07-01&g=2016-07-01), [97](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=7&artikel=97&z=2016-07-01&g=2016-07-01) en [98](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=7&artikel=98&z=2016-07-01&g=2016-07-01) zijn van overeenkomstige toepassing op een zelfstandig recht van opstal.
 
-#### Artikel 105
+##### Artikel 105
 
 1. Wanneer het recht van opstal tenietgaat, gaat de eigendom van de gebouwen, werken en beplantingen van rechtswege over op de eigenaar van de onroerende zaak waarop het rustte.
 
@@ -692,7 +717,7 @@ Bij gebreke van een regeling daaromtrent in de akte van vestiging heeft de opsta
 
 ### Afdeling 1. Algemene bepalingen
 
-#### Artikel 106
+##### Artikel 106
 
 1. Een eigenaar, erfpachter of opstaller is bevoegd zijn recht op een gebouw met toebehoren en op de daarbij behorende grond met toebehoren te splitsen in appartementsrechten en deeltijdappartementsrechten.
 
@@ -710,17 +735,17 @@ Bij gebreke van een regeling daaromtrent in de akte van vestiging heeft de opsta
 
 8. Het in deze titel met betrekking tot splitsing in appartementsrechten en de gevolgen daarvan bepaalde is van overeenkomstige toepassing op splitsing in deeltijdappartementsrechten en de gevolgen daarvan, tenzij anders is bepaald.
 
-#### Artikel 107
+##### Artikel 107
 
 Een eigenaar, erfpachter of opstaller is ook bevoegd in verband met een door hem beoogde stichting of gewijzigde inrichting van een gebouw zijn recht op het gebouw met toebehoren en de daarbij behorende grond met toebehoren te splitsen in appartementsrechten. Ook in geval van zodanige splitsing ontstaan de appartementsrechten op het tijdstip van inschrijving van de akte van splitsing.
 
-#### Artikel 108
+##### Artikel 108
 
 1. De appartementseigenaars zijn jegens elkander verplicht de bouw, de inrichting van het gebouw of de inrichting dan wel aanduiding van de grond tot stand te brengen en in stand te houden in overeenstemming met het daaromtrent in de akte van splitsing bepaalde.
 
 2. De rechter kan de uitspraak op een vordering, gegrond op het eerste lid, aanhouden wanneer een op [artikel 144, eerste lid, onderdelen c, d of h](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=4&artikel=144&z=2016-07-01&g=2016-07-01), gegrond verzoek aanhangig is.
 
-#### Artikel 109
+##### Artikel 109
 
 1. De splitsing geschiedt door een daartoe bestemde notariële akte, gevolgd door inschrijving van die akte in de openbare registers.
 
@@ -728,13 +753,13 @@ Een eigenaar, erfpachter of opstaller is ook bevoegd in verband met een door hem
 
 3. Waar in deze titel wordt gesproken van akte van splitsing, is hieronder de tekening begrepen, tenzij uit de bepaling het tegendeel blijkt.
 
-#### Artikel 110
+##### Artikel 110
 
 1. Ondanks onbevoegdheid van degene die de splitsing heeft verricht, om over een daarin betrokken registergoed te beschikken, is de splitsing geldig, indien zij is gevolgd door een geldige overdracht van een appartementsrecht of vestiging van een beperkt recht op een appartementsrecht.
 
 2. Een ongeldige splitsing wordt eveneens als geldig aangemerkt, wanneer een appartementsrecht is verkregen door verjaring.
 
-#### Artikel 111
+##### Artikel 111
 
 De akte van splitsing moet inhouden:
 
@@ -748,7 +773,7 @@ De akte van splitsing moet inhouden:
 
 - e. In geval van deeltijdappartementsrechten tevens: een nauwkeurige vermelding van tijdstippen en periodes gedurende welke de deeltijdappartementseigenaren hun gebruiksrecht mogen uitoefenen.
 
-#### Artikel 112
+##### Artikel 112
 
 1. Het reglement moet inhouden:
 
@@ -776,7 +801,7 @@ De akte van splitsing moet inhouden:
 
 4. Het reglement kan inhouden een regeling omtrent het gebruik, het beheer en het onderhoud van de gedeelten die bestemd zijn om als afzonderlijk geheel te worden gebruikt. Een zodanige regeling kan inhouden dat de vergadering van eigenaars bevoegd is een appartementseigenaar of degene die zijn rechten uitoefent, om nader in het reglement aangegeven gewichtige redenen het gebruik van deze gedeelten te ontzeggen.
 
-#### Artikel 113
+##### Artikel 113
 
 1. De aandelen die door de splitsing in appartementsrechten ontstaan, zijn gelijk, tenzij bij de akte van splitsing een andere verhouding is bepaald. In het laatste geval blijkt uit de akte op welke grondslag die verhouding berust.
 
@@ -788,7 +813,7 @@ De akte van splitsing moet inhouden:
 
 5. Voor de schulden der vereniging zijn zij die appartementseigenaar waren ten tijde van het ontstaan van de schuld, met de vereniging hoofdelijk verbonden, en wel, indien de prestatie deelbaar is, ieder voor een deel in de verhouding, bedoeld in het tweede lid.
 
-#### Artikel 114
+##### Artikel 114
 
 1. Rust op het ogenblik van de inschrijving van de akte van splitsing een hypotheek, een beslag of een voorrecht op alle in de splitsing betrokken registergoederen, dan rust dit verband, beslag of voorrecht van dat ogenblik af op elk der appartementsrechten voor de gehele schuld.
 
@@ -796,13 +821,13 @@ De akte van splitsing moet inhouden:
 
 3. Een recht van erfdienstbaarheid, erfpacht, opstal of vruchtgebruik, dat op dat ogenblik van de inschrijving van de akte van splitsing rust op de registergoederen of een deel daarvan, bestaat daarna ongewijzigd voort.
 
-#### Artikel 115
+##### Artikel 115
 
 1. Wanneer een recht van erfpacht of opstal in de splitsing wordt betrokken, wordt hetgeen daarna aan canon of solarium opeisbaar wordt, over de appartementsrechten verdeeld in een verhouding als bedoeld in [artikel 113, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=1&artikel=113&z=2016-07-01&g=2016-07-01).
 
 2. De vereniging van eigenaars is hoofdelijk verbonden voor de door een of meer appartementseigenaars verschuldigde canon of solarium.
 
-#### Artikel 116
+##### Artikel 116
 
 1. Wanneer een recht van erfpacht of opstal in de splitsing betrokken is, gelden ter aanvulling van de [artikelen 87, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=7&artikel=87&z=2016-07-01&g=2016-07-01), en [88](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=7&artikel=88&z=2016-07-01&g=2016-07-01) de volgende leden.
 
@@ -818,7 +843,7 @@ De akte van splitsing moet inhouden:
 
 7. Ieder beding dat ten nadele van een appartementseigenaar van dit artikel afwijkt, is nietig.
 
-#### Artikel 117
+##### Artikel 117
 
 1. Een appartementsrecht kan als een zelfstandig registergoed worden overgedragen, toegedeeld, bezwaard en uitgewonnen.
 
@@ -828,7 +853,7 @@ De akte van splitsing moet inhouden:
 
 4. In afwijking van het tweede lid kunnen in de splitsing betrokken onroerende zaken door de gezamenlijke appartementseigenaars belast worden met een erfdienstbaarheid.
 
-#### Artikel 118
+##### Artikel 118
 
 1. Een appartementseigenaar kan, voor zover in de akte van splitsing niet anders is bepaald, zonder medewerking van de overige appartementseigenaars en beperkt gerechtigden op het gedeelte van de onroerende zaken dat bestemd is om als afzonderlijk geheel door hem te worden gebruikt, een recht van erfpacht en, behoudens voor zover het betreft in de splitsing betrokken gebouwen, werken en beplantingen, een recht van opstal vestigen.
 
@@ -836,7 +861,7 @@ De akte van splitsing moet inhouden:
 
 3. Tenzij bij de vestiging van het recht van erfpacht anders wordt bepaald, wordt het aan een appartementsrecht verbonden stemrecht in de vergadering van eigenaars uitgeoefend door de erfpachter. Tenzij bij de vestiging van het recht van opstal anders wordt bepaald, behoudt de appartementseigenaar die een recht van opstal heeft gevestigd, het aan zijn appartementsrecht verbonden stemrecht in de vergadering van eigenaars.
 
-#### Artikel 118a
+##### Artikel 118a
 
 1. Een appartementseigenaar kan, voor zover in de akte van splitsing niet anders is bepaald, zonder medewerking van de overige appartementseigenaars en beperkt gerechtigden op het gedeelte van de onroerende zaken dat bestemd is om als afzonderlijk geheel door hem te worden gebruikt, een recht van erfpacht en, behoudens voor zover het betreft in de splitsing betrokken gebouwen, werken en beplantingen, een recht van opstal vestigen.
 
@@ -844,7 +869,7 @@ De akte van splitsing moet inhouden:
 
 3. Tenzij bij de vestiging van het recht van erfpacht anders wordt bepaald, wordt het aan een appartementsrecht verbonden stemrecht in de vergadering van eigenaars uitgeoefend door de erfpachter. Tenzij bij de vestiging van het recht van opstal anders wordt bepaald, behoudt de appartementseigenaar die een recht van opstal heeft gevestigd, het aan zijn appartementsrecht verbonden stemrecht in de vergadering van eigenaars.
 
-#### Artikel 119
+##### Artikel 119
 
 1. Een appartementseigenaar mag zonder toestemming van de overige appartementseigenaars in een gedeelte dat bestemd is om als afzonderlijk geheel door hem te worden gebruikt, veranderingen aanbrengen, mits deze geen nadeel aan een ander gedeelte toebrengen. Van hetgeen hij bij een geoorloofde verandering wegneemt, wordt hij enig eigenaar.
 
@@ -854,11 +879,11 @@ De akte van splitsing moet inhouden:
 
 4. Bij het reglement kan van dit artikel worden afgeweken en kunnen voor de toepassing van het tweede lid wijzigingen in de wijze van gebruik met veranderingen worden gelijkgesteld.
 
-#### Artikel 119a
+##### Artikel 119a
 
 De [artikelen 118](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=1&artikel=118&z=2016-07-01&g=2016-07-01), [118a](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=1&artikel=118a&z=2016-07-01&g=2016-07-01) en [119](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=1&artikel=119&z=2016-07-01&g=2016-07-01) zijn niet van toepassing op deeltijdappartementsrechten. Tot het vestigen van een erfdienstbaarheid, een recht van erfpacht of een recht van opstal en het aanbrengen van veranderingen, als in die artikelen bedoeld, zijn slechts de tot gebruik van de betrokken gedeelten bevoegde deeltijdappartementseigenaren gezamenlijk bevoegd na een besluit, genomen op de wijze en met de meerderheid als in het reglement van splitsing is voorgeschreven.
 
-#### Artikel 120
+##### Artikel 120
 
 1. Onverminderd [artikel 112, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=1&artikel=112&z=2016-07-01&g=2016-07-01), is een appartementseigenaar bevoegd het gedeelte dat bestemd is om als afzonderlijk geheel door hem te worden gebruikt, zelf te gebruiken of aan een ander in gebruik te geven, met inbegrip van het hem toekomende medegebruik van de gedeelten die niet bestemd zijn om als afzonderlijk geheel te worden gebruikt.
 
@@ -870,7 +895,7 @@ Weigert hij zijn toestemming of verklaart hij zich niet, dan kan de rechter in e
 
 4. Na opheffing van de splitsing zijn de gerechtigden tot de goederen die in de splitsing waren betrokken, verplicht een verhuur gestand te doen, mits de tijd van de verhuur in overeenstemming is met het plaatselijk gebruik en de verhuur niet op ongewone, voor hen bezwarende voorwaarden is geschied.
 
-#### Artikel 121
+##### Artikel 121
 
 1. In alle gevallen waarin een appartementseigenaar voor het verrichten van een bepaalde handeling met betrekking tot de gedeelten die niet bestemd zijn als afzonderlijk geheel gebruikt te worden, en, in het geval van een beding als bedoeld in [artikel 112, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=1&artikel=112&z=2016-07-01&g=2016-07-01), met betrekking tot gedeelten die bestemd zijn als afzonderlijk geheel gebruikt te worden, medewerking of toestemming behoeft van een of meer andere appartementseigenaars, van de vereniging van eigenaars of van haar organen, of waarin de vereniging of haar organen voor het verrichten van zodanige handeling toestemming behoeven van een of meer appartementseigenaars, kan die medewerking of toestemming op verzoek van degene die haar behoeft, worden vervangen door een machtiging van de rechter in eerste aanleg. De machtiging kan worden verleend indien de medewerking of toestemming zonder redelijke grond wordt geweigerd of degene die haar moet geven, zich niet verklaart.
 
@@ -878,7 +903,7 @@ Weigert hij zijn toestemming of verklaart hij zich niet, dan kan de rechter in e
 
 3. Betreft het de aanbrenging van een nieuw werk of nieuwe installatie, dan kan de rechter desverzocht ook een regeling vaststellen, bepalende dat en in welke verhouding de appartementseigenaars van alle of bepaalde appartementsrechten de kosten van onderhoud van het werk of de installatie in de toekomst zullen dragen.
 
-#### Artikel 122
+##### Artikel 122
 
 1. Overgang onder bijzondere titel of toedeling van een appartementsrecht omvat, voor zover niet anders is bepaald, mede de als appartementseigenaar verkregen rechten.
 
@@ -892,7 +917,7 @@ Weigert hij zijn toestemming of verklaart hij zich niet, dan kan de rechter in e
 
 6. De verklaring houdt tevens een opgave in van de omvang van het reservefonds van de vereniging, bedoeld in [artikel 126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=2&artikel=126&z=2016-07-01&g=2016-07-01).
 
-#### Artikel 123
+##### Artikel 123
 
 1. In geval van vruchtgebruik van een appartementsrecht treedt de vruchtgebruiker in de plaats van de appartementseigenaar ten aanzien van de aansprakelijkheid voor de gezamenlijke schulden en de aan de gezamenlijke appartementseigenaars en de vereniging van eigenaars verschuldigde bijdragen. De vruchtgebruiker is echter bevoegd de door hem betaalde bedragen, voor zover zij niet betrekking hebben op de gewone lasten en herstellingen, bij het einde van het vruchtgebruik van de appartementseigenaar terug te vorderen.
 
@@ -904,13 +929,13 @@ Weigert hij zijn toestemming of verklaart hij zich niet, dan kan de rechter in e
 
 ### Afdeling 2. De vereniging van eigenaars
 
-#### Artikel 124
+##### Artikel 124
 
 1. De vereniging van eigenaars is een rechtspersoon.
 
 2. Op de rechtsbetrekkingen tussen de vereniging en haar leden, alsmede op die tussen de leden onderling is [artikel 2 van Boek 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&artikel=2) van overeenkomstige toepassing.
 
-#### Artikel 125
+##### Artikel 125
 
 1. Aan de vergadering van eigenaars komen in de vereniging alle bevoegdheden toe, die niet door wet of statuten aan andere organen zijn opgedragen.
 
@@ -918,7 +943,7 @@ Weigert hij zijn toestemming of verklaart hij zich niet, dan kan de rechter in e
 
 3. Een eenstemmig besluit van alle stemgerechtigden, ook al zijn dezen niet in vergadering bijeen, heeft, mits met voorkennis van het bestuur genomen, dezelfde kracht als een besluit van de vergadering van eigenaars.
 
-#### Artikel 126
+##### Artikel 126
 
 1. De vereniging van eigenaars voert het beheer over de gemeenschap, met uitzondering van de gedeelten die bestemd zijn als afzonderlijk geheel te worden gebruikt. De vereniging houdt een reservefonds in stand ter bestrijding van andere dan de gewone jaarlijkse kosten.
 
@@ -926,7 +951,7 @@ Weigert hij zijn toestemming of verklaart hij zich niet, dan kan de rechter in e
 
 3. De vereniging ziet toe op de nakoming van de verplichtingen die voor de appartementseigenaars uit het bij of krachtens de wet en het reglement bepaalde jegens elkander voortvloeien, en kan te dien einde in rechte tegen hen optreden. Onder appartementseigenaars wordt hier begrepen hij die een gebruiksrecht aan een appartementseigenaar ontleent.
 
-#### Artikel 127
+##### Artikel 127
 
 1. Alle appartementseigenaars hebben toegang tot de vergadering van eigenaars. De besluiten worden genomen bij volstrekte meerderheid van de uitgebrachte stemmen, voor zover de statuten niet anders bepalen.
 
@@ -934,17 +959,17 @@ Weigert hij zijn toestemming of verklaart hij zich niet, dan kan de rechter in e
 
 3. In geval van ondersplitsing komen de stemmen van de appartementseigenaar wiens recht is gesplitst, toe aan de gerechtigden tot de door de ondersplitsing ontstane appartementsrechten. Deze stemmen worden in de vergadering van eigenaars uitgebracht door het bestuur van de bij de ondersplitsing opgerichte vereniging van eigenaars. De stemmen behoeven niet eensluidend te worden uitgebracht. De gerechtigden tot de door de ondersplitsing ontstane appartementsrechten zijn bevoegd de vergadering van eigenaars bij te wonen. Het bestuur, bedoeld in de tweede volzin, is bevoegd om in de vergadering het woord te voeren.
 
-#### Artikel 128
+##### Artikel 128
 
 1. De vergadering van eigenaars is bevoegd regels te stellen betreffende het gebruik van de gedeelten die niet bestemd zijn als afzonderlijk geheel te worden gebruikt, voor zover het reglement daarover geen bepalingen bevat.
 
 2. Iedere appartementseigenaar kan een gebruiker vragen te verklaren of hij bereid is een regel als bedoeld in het eerste lid, na te leven. Is de gebruiker daartoe niet bereid of verklaart hij zich niet, dan kan de rechter in eerste aanleg op verzoek van iedere appartementseigenaar beslissen dat de regel ten aanzien van de gebruiker komt te gelden.
 
-#### Artikel 129
+##### Artikel 129
 
 Een besluit van een orgaan van de vereniging van eigenaars dat in strijd is met de wet, de akte van splitsing, met inbegrip van het reglement, bedoeld in [artikel 111, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=1&artikel=111&z=2016-07-01&g=2016-07-01), of de statuten, is nietig. Hetzelfde geldt als het besluit door een onbevoegd orgaan is genomen.
 
-#### Artikel 130
+##### Artikel 130
 
 1. Wanneer een appartementseigenaar van oordeel is dat een besluit van een orgaan van de vereniging van eigenaars waarop [artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=2&artikel=129&z=2016-07-01&g=2016-07-01) niet van toepassing is, door de inhoud of wijze van totstandkoming zijn belangen onredelijk aantast, kan hij binnen een maand na het tijdstip waarop hij van het besluit kennis heeft kunnen nemen, aan de rechter in eerste aanleg verzoeken het te vernietigen.
 
@@ -952,7 +977,7 @@ Een besluit van een orgaan van de vereniging van eigenaars dat in strijd is met 
 
 3. De rechter voor wie het verzoek aanhangig is, is bevoegd het besluit te schorsen totdat op het verzoek onherroepelijk is beslist.
 
-#### Artikel 131
+##### Artikel 131
 
 1. Het bestuur van de vereniging wordt gevormd door één bestuurder, tenzij de statuten bepalen dat er twee of meer zullen zijn.
 
@@ -964,23 +989,23 @@ Een besluit van een orgaan van de vereniging van eigenaars dat in strijd is met 
 
 5. Bij besluit van de vergadering van eigenaars kan van het derde en vierde lid worden afgeweken en kunnen aan het bestuur aanwijzingen met betrekking tot de uitoefening van zijn taak worden gegeven. Deze besluiten kunnen niet worden ingeroepen tegen de wederpartij, tenzij zij haar bekend waren of behoorden te zijn.
 
-#### Artikel 132
+##### Artikel 132
 
 De appartementseigenaars en de gebruikers van de voor het gebruik als afzonderlijk geheel bestemde gedeelten zijn verplicht een bestuurder en door hem aan te wijzen personen toegang tot die gedeelten te verschaffen, wanneer dit voor de vervulling van de taak van het bestuur noodzakelijk is.
 
-#### Artikel 133
+##### Artikel 133
 
 1. Bij belet of ontstentenis van het bestuur wordt dit vervangen door de voorzitter van de vergadering van eigenaars, tenzij in de statuten of door de vergadering een andere voorziening is getroffen.
 
 2. In gevallen waarin de vereniging of de gezamenlijke appartementseigenaars een belang hebben, tegenstrijdig met dat van een bestuurder, treedt de voorzitter van de vergadering van eigenaars bij belet of ontstentenis van andere bestuurders eveneens in de plaats van het bestuur.
 
-#### Artikel 134
+##### Artikel 134
 
 1. Exploten en kennisgevingen, gericht tot de gezamenlijke appartementseigenaars, kunnen aan de persoon of de woonplaats van een bestuurder van de vereniging worden gedaan; zij behoeven dan niet de namen en de woonplaatsen van de appartementseigenaars te bevatten.
 
 2. De bestuurder deelt de appartementseigenaars onverwijld de inhoud van het exploot of de kennisgeving mee.
 
-#### Artikel 135
+##### Artikel 135
 
 1. Het bestuur brengt op een algemene vergadering binnen zes maanden na afloop van het boekjaar, behoudens verlenging van deze termijn door de algemene vergadering, een jaarverslag uit over de gang van zaken in de vereniging en over het gevoerde beleid. Het legt een balans en een staat van baten en lasten met een toelichting ter goedkeuring aan de vergadering over. Deze stukken worden ondertekend door de bestuurders en door de commissarissen zo die er zijn; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van redenen melding gemaakt. Na verloop van de termijn kan ieder lid van de gezamenlijke bestuurders vorderen dat zij deze verplichtingen nakomen.
 
@@ -988,7 +1013,7 @@ De appartementseigenaars en de gebruikers van de voor het gebruik als afzonderli
 
 ### Afdeling 3. Rechten uit verzekeringsovereenkomsten
 
-#### Artikel 136
+##### Artikel 136
 
 1. Hij die krachtens het reglement verplicht is het gebouw te doen verzekeren, vertegenwoordigt de gezamenlijke appartementseigenaars bij de uitoefening van de rechten die uit de verzekeringsovereenkomst voortvloeien, en voert voor hen het beheer over de ontvangen verzekeringspenningen.
 
@@ -1006,13 +1031,13 @@ De appartementseigenaars en de gebruikers van de voor het gebruik als afzonderli
 
 5. Van dit artikel kan in het reglement worden afgeweken.
 
-#### Artikel 138
+##### Artikel 138
 
 Geschillen over herstel of de wijze van herstel beslist de rechter in eerste aanleg op verzoek van de meest gerede partij. Hoger beroep kan slechts worden ingesteld binnen een maand na de dagtekening van de eindbeschikking.
 
 ### Afdeling 4. Wijziging van de akte van splitsing en opheffing van de splitsing
 
-#### Artikel 139
+##### Artikel 139
 
 1. De akte van splitsing kan worden gewijzigd met medewerking van alle apparte-mentseigenaars.
 
@@ -1024,7 +1049,7 @@ Geschillen over herstel of de wijze van herstel beslist de rechter in eerste aan
 
 5. De wijziging geschiedt door een daartoe bestemde notariële akte, gevolgd door inschrijving van die akte in de openbare registers. Indien de wijziging betrekking heeft op de begrenzing van gedeelten van het gebouw of de grond die bestemd zijn als afzonderlijk geheel te worden gebruikt, is [artikel 109, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=1&artikel=109&z=2016-07-01&g=2016-07-01), van overeenkomstige toepassing.
 
-#### Artikel 140
+##### Artikel 140
 
 1. Indien een of meer der in [artikel 139, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=4&artikel=139&z=2016-07-01&g=2016-07-01), genoemden zich niet verklaren of zonder redelijke grond weigeren hun medewerking of toestemming te verlenen, kan deze worden vervangen door een machtiging van de rechter in eerste aanleg.
 
@@ -1034,7 +1059,7 @@ Geschillen over herstel of de wijze van herstel beslist de rechter in eerste aan
 
 4. Alle personen wier medewerking of toestemming ingevolge [artikel 139](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=4&artikel=139&z=2016-07-01&g=2016-07-01) is vereist, worden bij name opgeroepen om op een verzoek als bedoeld in het tweede en derde lid, te worden gehoord.
 
-#### Artikel 140a
+##### Artikel 140a
 
 1. Op vordering van een appartementseigenaar die niet voor een overeenkomstig [artikel 139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=4&artikel=139&z=2016-07-01&g=2016-07-01), bij meerderheid van stemmen genomen besluit tot wijziging van de akte van splitsing heeft gestemd, wordt het besluit bij rechterlijke uitspraak vernietigd.
 
@@ -1042,7 +1067,7 @@ Geschillen over herstel of de wijze van herstel beslist de rechter in eerste aan
 
 3. De rechter kan de vordering afwijzen, wanneer de eiser geen schade lijdt of hem een redelijke schadeloosstelling wordt aangeboden en voor de betaling hiervan voldoende zekerheid is gesteld.
 
-#### Artikel 141
+##### Artikel 141
 
 1. Bij gebreke van de in de [artikelen 139](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=4&artikel=139&z=2016-07-01&g=2016-07-01) en [140](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=4&artikel=140&z=2016-07-01&g=2016-07-01) bedoelde toestemming of daarvoor in de plaats tredende machtiging wordt de wijziging vernietigd bij rechterlijke uitspraak op vordering van degene wiens toestemming achterwege is gebleven.
 
@@ -1050,13 +1075,13 @@ Geschillen over herstel of de wijze van herstel beslist de rechter in eerste aan
 
 3. De rechter kan de vordering afwijzen, wanneer de eiser geen schade lijdt of hem een redelijke schadeloosstelling wordt aangeboden en voor de betaling hiervan voldoende zekerheid is gesteld.
 
-#### Artikel 142
+##### Artikel 142
 
 1. Beperkte rechten en beslagen, waarmee de appartementsrechten zijn belast, rusten na de wijziging van de akte van splitsing op de gewijzigde appartementsrechten, tenzij de akte van wijziging anders bepaalt.
 
 2. Voorrechten blijven na de wijziging bestaan.
 
-#### Artikel 143
+##### Artikel 143
 
 1. De splitsing wordt van rechtswege opgeheven:
 
@@ -1066,7 +1091,7 @@ Geschillen over herstel of de wijze van herstel beslist de rechter in eerste aan
 
 2. In alle andere gevallen geschiedt de opheffing van de splitsing door een daartoe bestemde notariële akte, gevolgd door inschrijving van die akte in de openbare registers. De [artikelen139, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=4&artikel=139&z=2016-07-01&g=2016-07-01), [140, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=4&artikel=140&z=2016-07-01&g=2016-07-01), en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=4&artikel=141&z=2016-07-01&g=2016-07-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 144
+##### Artikel 144
 
 1. Op verzoek van een persoon wiens medewerking of toestemming tot de wijziging van de akte van splitsing of tot opheffing van de splitsing is vereist, kan de rechter in eerste aanleg bevelen dat de akte van splitsing wordt gewijzigd dan wel de splitsing wordt opgeheven, wanneer:
 
@@ -1090,17 +1115,17 @@ Geschillen over herstel of de wijze van herstel beslist de rechter in eerste aan
 
 3. [Artikel 140, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=4&artikel=140&z=2016-07-01&g=2016-07-01), is van overeenkomstige toepassing.
 
-#### Artikel 145
+##### Artikel 145
 
 1. De appartementseigenaars zijn verplicht aan een bevel als bedoeld in [artikel 144](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=4&artikel=144&z=2016-07-01&g=2016-07-01), uitvoering te geven, zodra de beschikking in kracht van gewijsde is gegaan. De in de [artikelen 139, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=4&artikel=139&z=2016-07-01&g=2016-07-01), en [143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&boek=5&titeldeel=9&afdeling=4&artikel=143&z=2016-07-01&g=2016-07-01), bedoelde toestemming is in dit geval niet vereist.
 
 2. Indien de rechter in eerste aanleg met toepassing van [artikel 300 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=300) een vertegenwoordiger heeft aangewezen, stelt hij op verzoek van de meest gerede partij of ambtshalve diens salaris vast; het salaris komt ten laste van de vertegenwoordigde.
 
-#### Artikel 146
+##### Artikel 146
 
 Beperkte rechten, beslagen en voorrechten op een appartementsrecht rusten na opheffing van de splitsing op het aandeel van de gewezen appartementseigenaar in de goederen die in de splitsing betrokken waren.
 
-#### Artikel 147
+##### Artikel 147
 
 1. De vereniging van eigenaars wordt door opheffing van de splitsing van rechtswege ontbonden. Zij blijft echter voortbestaan voor zover dit tot vereffening van haar vermogen noodzakelijk is.
 

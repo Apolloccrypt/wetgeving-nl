@@ -1,30 +1,56 @@
 ---
-title: "Besluit vaststelling speerpunten voor 2023 op grond van de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027"
+title: "Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 2 december 2022, nr. IENW/BSK–2022/276234, houdende vaststelling van de speerpunten voor het kalenderjaar 2023 en de subsidieplafonds voor het kalenderjaar 2023 als bedoeld in de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027"
 identifier: "BWBR0047592"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047592"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047592"
+soort: "ministeriele-regeling"
+stam_id: "16588923"
+version_id: "29090262"
+internal_id: "C41350851"
+label_id: "16508364"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047592/2023-01-01/0"
+intitule_bron: "Stcrt.2022-32204"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-12-02"
+intitule_published: "2022-12-07"
+intitule_in_force: "2022-12-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-32204"
+original_signed_date: "2022-12-02"
+original_published_date: "2022-12-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-32204"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047592&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0047592&g=2023-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling speerpunten voor 2023 op grond van de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027"
+signed_date: "2022-12-02"
+entry_into_force: "2023-01-01"
 ---
-
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 2 december 2022, nr. IENW/BSK–2022/276234, houdende vaststelling van de speerpunten voor het kalenderjaar 2023 en de subsidieplafonds voor het kalenderjaar 2023 als bedoeld in de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027
 
 Gelet op de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046270&artikel=3), en [4, derde lid, van de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0046270&artikel=4);
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 In de bijlage bij dit besluit worden voor 2023 drie speerpunten vastgesteld als bedoeld in [artikel 3, tweede lid, van de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0046270&artikel=3).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het subsidieplafond voor projecten die kwalificeren als project a, project b of project c bedraagt voor het kalenderjaar 2023 € 1.000.000.
 
 2. Het subsidieplafond voor projecten die kwalificeren als project d bedraagt voor het kalenderjaar 2023 € 50.000.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 1 januari 2023.
 

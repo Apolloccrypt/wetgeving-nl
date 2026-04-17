@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Verenigde Staten van Amerika inzake de veiligheid van de burgerluchtvaart voor voorinspectie-operaties op de internationale luchthaven Koningin Beatrix in Aruba"
 identifier: "BWBV0006593"
-categorie: "Milieu"
-publicatiedatum: 2017-03-19
-laatste_update: 2017-03-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006593"
+country: "nl"
+rank: "verdrag"
+publication_date: "2017-03-19"
+last_updated: "2017-03-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006593"
+soort: "verdrag"
+stam_id: "10005352343"
+version_id: "10005772942"
+internal_id: "C10009223991"
+label_id: "10005335234"
+dtd_version: "2.0"
+original_entry_into_force: "2017-03-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006593/2017-03-19/0"
+intitule_bron: "Trb.2016-65"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-06-01"
+intitule_in_force: "2017-03-21"
+intitule_status: "goed"
+original_publication: "Trb.2016-65"
+original_published_date: "2016-06-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2016-65"
+entry_into_force_date: "2017-03-19"
+jci_1_3: "jci1.3:c:BWBV0006593&z=2017-03-19&g=2017-03-19"
+jci_1_0: "1.0:c:BWBV0006593&g=2017-03-19"
+citeertitel_status: "redactioneel"
+entry_into_force: "2017-03-19"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Verenigde Staten van Amerika inzake de veiligheid van de burgerluchtvaart voor voorinspectie-operaties op de internationale luchthaven Koningin Beatrix in Aruba
 
 Overwegende dat op 2 december 1994 te Washington een [Verdrag is gesloten tussen de Verenigde Staten van Amerika en het Koninkrijk der Nederlanden met betrekking tot Aruba inzake douanevoorinspectie](https://wetten.overheid.nl/jci1.3:c:BWBV0001956), dat gewijzigd is op 22 mei 2008 (hierna te noemen „het Verdrag van 1994/2008”);
@@ -26,7 +48,7 @@ Overwegende dat de partijen een instrument wensen te creëren voor de uitvoering
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I. Begripsomschrijvingen
+##### Artikel I. Begripsomschrijvingen
 
 betekent, in het geval van de Verenigde Staten, DHS/TSA (**Transportation Security Administration of the Department of Homeland Security of the United States of America**) en, in het geval van Aruba, de minister belast met transport („MT”) of DCA (Directie Luchtvaart van Aruba), zoals vermeld in de desbetreffende artikelen (tezamen te noemen de „bevoegde autoriteiten”) of hun onderscheiden opvolgers.
 
@@ -46,11 +68,11 @@ betekent informatie verkregen of opgesteld bij de uitvoering van beveiligingsact
 
 betekent een deel van een luchthaven waar passagiers toegelaten worden om aan boord van een luchtvaartuig te gaan en waar de toegang wordt gecontroleerd met omschreven beveiligingsmaatregelen, waaronder het screenen van personen en handbagage.
 
-#### Artikel II. Doel
+##### Artikel II. Doel
 
 In dit Verdrag zijn de voorwaarden vervat waaronder de bevoegde autoriteiten gaan samenwerken op het gebied van de veiligheid van de burgerluchtvaart, en normen gaan vaststellen voor het screenen van passagiers die van de voorinspectieluchthaven vertrekken naar de Verenigde Staten die vergelijkbaar zijn met de normen die zijn geïmplementeerd op Amerikaanse luchthavens. In dit Verdrag zijn voorts de voorwaarden vervat die nader kunnen worden omschreven in een aanhangsel bij dit Verdrag, uit hoofde waarvan DHS/TSA de procedures voor screening van ruimbagage van DCA kan aanvaarden. Bij de samenwerkingsactiviteiten uit hoofde van dit Verdrag wordt voorzien in de ontwikkeling en implementatie van wederzijds aanvaardbare screeningnormen voor checkpoints op luchthavens voor passagiers en ruimbagage, indien van toepassing, op de voorinspectieluchthaven teneinde te waarborgen dat de screening van passagiers, handbagage en ruimbagage, indien van toepassing, wordt uitgevoerd aan de hand van normen die vergelijkbaar zijn met de screeningnormen geïmplementeerd op de Amerikaanse luchthavens waar de gecontroleerde en toegelaten personen en ruimbagage zullen aankomen. Deze activiteiten waarborgen bijgevolg de veiligheid en het gemak van passagiers en ruimbagage die arriveren in de Verenigde Staten vanaf de voorinspectieluchthaven, in het bijzonder van passagiers die overstappen na aankomst in de Verenigde Staten, en zullen de veiligheidsmaatregelen van de VS en Aruba op elkaar afstemmen, waarbij dubbele of overbodige werkzaamheden worden voorkomen voor zover dit passend is en verenigbaar met de onderscheiden wet- en regelgeving van de partijen.
 
-#### Artikel III. Implementatie
+##### Artikel III. Implementatie
 
 A. De bijlagen bij dit Verdrag zijn juridisch bindend en maken een integrerend onderdeel uit van dit Verdrag.
 
@@ -60,7 +82,7 @@ C. De aangewezen functionaris binnen DHS/TSA voor alle coördinatie en managemen
 
 D. Voor Aruba is DCA verantwoordelijk voor alle coördinatie en management in het kader van dit Verdrag.
 
-#### Artikel IV. Omvang van de werkzaamheden
+##### Artikel IV. Omvang van de werkzaamheden
 
 A. De samenwerking omtrent de veiligheid van de burgerluchtvaart ten behoeve van voorinspectie-operaties tussen de bevoegde autoriteiten kan bestaan uit, maar is niet noodzakelijkerwijs beperkt tot:
 
@@ -82,7 +104,7 @@ B. Relevante samenwerkingsactiviteiten in het kader van de veiligheid van de bur
 
 C. Elke uitwisseling van informatie die of van materiaal dat vertrouwelijke informatie of gevoelige veiligheidsinformatie kan omvatten geschiedt in overeenstemming met de van toepassing zijnde wetgeving en beleidslijnen, dit Verdrag en [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&bijlage=B&z=2017-03-19&g=2017-03-19) hierbij.
 
-#### Artikel V. Screeningnormen op de voorinspectieluchthaven
+##### Artikel V. Screeningnormen op de voorinspectieluchthaven
 
 A. De bevoegde autoriteiten stellen voor de screening van passagiers en handbagage op de voorinspectieluchthaven normen vast die vergelijkbaar zijn met de screeningnormen op de commerciële luchthavens in de Verenigde Staten en DCA waarborgt de implementatie ervan. Deze normen dienen bijgevolg onder meer te voorzien in de instelling en handhaving van steriele zones op de voorinspectieluchthaven in overeenstemming met de volgende vereisten:
 
@@ -102,7 +124,7 @@ B. De bevoegde autoriteiten stellen een lijst van in de steriele zone verboden z
 
 C. De door de bevoegde autoriteiten ontwikkelde screeningnormen en de lijst van verboden zaken, hierboven genoemd onder V.A en V.B, kunnen van tijd tot tijd worden gewijzigd of anderszins worden aangepast, afhankelijk van de actuele informatie omtrent dreigingen of andere onderling overeen te komen omstandigheden.
 
-#### Artikel VI. Normen voor screeners op de voorinspectieluchthaven
+##### Artikel VI. Normen voor screeners op de voorinspectieluchthaven
 
 A. De bevoegde autoriteiten stellen voor alle personen die de screening van passagiers en handbagage op de voorinspectieluchthaven verrichten normen vast die vergelijkbaar zijn met de normen voor screeners in de Verenigde Staten en DCA waarborgt de implementatie ervan. Met deze normen dient bijgevolg te worden gewaarborgd dat screeners op de voorinspectieluchthaven:
 
@@ -118,7 +140,7 @@ A. De bevoegde autoriteiten stellen voor alle personen die de screening van pass
 
 B. DCA waarborgt de implementatie op de voorinspectieluchthaven door te zorgen voor voldoende personeel en toezicht om de configuratie bij ieder screening checkpoint voor passagiers te ondersteunen.
 
-#### Artikel VII. Screeningmethodes voor passagiers op de voorinspectieluchthaven
+##### Artikel VII. Screeningmethodes voor passagiers op de voorinspectieluchthaven
 
 De bevoegde autoriteiten stellen wederzijds aanvaardbare procedures vast, en DCA waarborgt de implementatie ervan, om te waarborgen dat passagiers en andere personen op de voorinspectieluchthaven belet wordt verboden goederen mee te voeren naar de steriele zone of aan boord van een luchtvaartuig en dat deze wederzijds aanvaardbare procedures vergelijkbaar zijn met de in de Verenigde Staten verplichte screeningmethodes voor passagiers en ten minste het volgende waarborgen:
 
@@ -146,7 +168,7 @@ De bevoegde autoriteiten stellen wederzijds aanvaardbare procedures vast, en DCA
 
 - J. Indien bij een passagier die onderworpen wordt aan voorinspectie bij een screening checkpoint voor passagiers of in een andere fase van het screeningproces voor passagiers op de voorinspectieluchthaven smokkelwaar of een veiligheidsrisico wordt geconstateerd, wordt personeel van de Amerikaanse douane- en grensbewakingsdienst, bijvoorbeeld de **Port Director** of de dienstdoende toezichthouder, onmiddellijk in kennis gesteld.
 
-#### Artikel VIII. Screeningapparatuur op de voorinspectieluchthaven
+##### Artikel VIII. Screeningapparatuur op de voorinspectieluchthaven
 
 De voorinspectieluchthaven gebruikt een combinatie van screeningapparatuur en -methodes die voldoen aan de kwalificatienormen van DHS/TSA, waaronder röntgensystemen, WTMD, ETD (**explosives trace detection,** apparaten voor het ontdekken van sporen van explosieven) en HHMD. De partijen komen voorts overeen dat MT waarborgt dat:
 
@@ -156,7 +178,7 @@ De voorinspectieluchthaven gebruikt een combinatie van screeningapparatuur en -m
 
 - C. de operators ervoor zorgen dat de screeningapparatuur dagelijks wordt gekalibreerd en periodiek wordt onderhouden.
 
-#### Artikel IX. Screeningmethodes voor handbagage op de voorinspectieluchthaven
+##### Artikel IX. Screeningmethodes voor handbagage op de voorinspectieluchthaven
 
 De bevoegde autoriteiten stellen voor het screenen van handbagage op de voorinspectieluchthaven wederzijds aanvaardbare procedures vast die vergelijkbaar zijn met de in de Verenigde Staten verplichte screeningmethodes voor handbagage en DCA waarborgt de implementatie ervan. Met deze procedures wordt ten minste het volgende gewaarborgd:
 
@@ -180,7 +202,7 @@ De bevoegde autoriteiten stellen voor het screenen van handbagage op de voorinsp
 
 - E. Zaken die niet gecontroleerd en toegelaten kunnen worden via een combinatie van de van toepassing zijnde screeningprocedures worden doorverwezen naar een LEO.
 
-#### Artikel X. Gezamenlijke operationele beoordeling van de voorinspectieluchthaven
+##### Artikel X. Gezamenlijke operationele beoordeling van de voorinspectieluchthaven
 
 A. De bevoegde autoriteiten verrichten gezamenlijk operationele beoordelingen van de infrastructuur, programma’s, procedures en processen ten behoeve van de veiligheid van de burgerluchtvaart die zijn vastgesteld en geïmplementeerd op de voorinspectieluchthaven teneinde te waarborgen dat voldaan wordt aan de wederzijds overeengekomen normen ten aanzien van screeningoperaties voor personen en handbagage in overeenstemming met dit Verdrag en de desbetreffende bijlage of aanhangsel bedoeld in [artikel III.A](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=III&z=2017-03-19&g=2017-03-19).
 
@@ -188,11 +210,11 @@ B. De bevoegde autoriteiten verrichten periodiek gezamenlijke operationele beoor
 
 C. De bevoegde autoriteiten coördineren de uitwerking van een wederzijds aanvaardbare planning voor deze gezamenlijke beoordelingen van de voorinspectieluchthaven. Elke gezamenlijke beoordeling wordt ten minste zestig (60) dagen vóór de uitvoering gepland.
 
-#### Artikel XI. Ondersteuning door gastheerstaat
+##### Artikel XI. Ondersteuning door gastheerstaat
 
 De ondersteuning door DCA die nodig is voor de uitvoering van de samenwerkingsactiviteiten en uitwisselingen beoogd in dit Verdrag dient te voldoen aan de van toepassing zijnde wet- en regelgeving, en het van toepassing zijnde beleid van Aruba. DCA kan voorts de aanvullende ondersteuning verstrekken zoals vastgelegd in een aanhangsel.
 
-#### Artikel XII. Financiële bepalingen
+##### Artikel XII. Financiële bepalingen
 
 A. Elke partij draagt alle kosten, inclusief reiskosten, die verband houden met de deelname van haar eigen personeel aan werkzaamheden verricht uit hoofde van dit Verdrag.
 
@@ -200,7 +222,7 @@ B. Alle activiteiten verricht uit hoofde van dit Verdrag zijn afhankelijk van de
 
 C. Onverminderd [artikel XII.A](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XII&z=2017-03-19&g=2017-03-19) kunnen de partijen met wederzijdse instemming via een aanhangsel of een andere wederzijds aanvaardbare regeling bepalen om middelen uit te wisselen.
 
-#### Artikel XIII. Vertrouwelijkheid
+##### Artikel XIII. Vertrouwelijkheid
 
 A. Samenwerkingsacitiveiten uit hoofde van dit Verdrag kunnen bestaan uit het gebruik en de uitwisseling van vertrouwelijke informatie en/of gevoelige veiligheidsinformatie, voor zover toegestaan door de van toepassing zijnde wet- en regelgeving, en het van toepassing zijnde beleid van de partijen.
 
@@ -220,7 +242,7 @@ E. De bevoegde autoriteiten van beide partijen nemen alle praktische maatregelen
 
 F. De bevoegde autoriteiten van beide partijen waarborgen dat de toegang tot vertrouwelijke informatie of gevoelige veiligheidsinformatie wordt beperkt tot de personen die beschikken over de vereiste veiligheidsmachtigingen en deze informatie specifiek nodig hebben zoals omschreven in een bijlage of aanhangsel bij dit Verdrag.
 
-#### Artikel XIV. Vrijwaring en aansprakelijkheid
+##### Artikel XIV. Vrijwaring en aansprakelijkheid
 
 A. Onverminderd de punten B en C van dit artikel aanvaarden de Verenigde Staten, met inbegrip van DHS/TSA en alle overige instanties en organen van de Verenigde Staten (tezamen aangeduid als „de Verenigde Staten”), geen aansprakelijkheid voor vorderingen, verliezen, schade, letsel of gevallen van overlijden die voortvloeien uit of verband houden met dit Verdrag en de bijlagen en aanhangsels daarbij.
 
@@ -228,21 +250,21 @@ B. De bevoegde autoriteiten van Aruba stemmen ermee in de Verenigde Staten en al
 
 C. Handelingen van de Verenigde Staten of huidige of voormalige functionarissen of medewerkers van de Verenigde Staten die voortvloeien uit of verband houden met dit Verdrag en de bijlagen en aanhangsels waarvan is vastgesteld, door middel van juridische procedures of in een regeling, dat die i. een opzettelijke misdraging of grove nalatigheid vormen en ii. hebben geleid tot persoonlijk letsel, overlijden of schade aan eigendommen, worden geacht te vallen buiten de reikwijdte van de verplichting van de competente autoriteiten van Aruba om de Verenigde Staten of huidige of voormalige functionarissen of medewerkers van de Verenigde Staten schadeloos te stellen uit hoofde van punt B. van dit artikel.
 
-#### Artikel XV. Overleg
+##### Artikel XV. Overleg
 
 Elke partij kan te allen tijde verzoeken om overleg over de uitlegging, toepassing of wijziging van dit Verdrag, met inbegrip van de bijlagen of aanhangsels daarbij. Dergelijk overleg vangt zo spoedig mogelijk aan, maar niet later dan zestig (60) dagen te rekenen vanaf de datum waarop de andere partij het verzoek ontvangt, tenzij anders wordt overeengekomen.
 
-#### Artikel XVI. Wijzigingen
+##### Artikel XVI. Wijzigingen
 
 A. Wijzigingen van dit Verdrag of van de bijlagen worden onderling overeengekomen door de partijen via diplomatieke kanalen en treden in werking in overeenstemming met de procedure vervat in [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XVIII&z=2017-03-19&g=2017-03-19).
 
 B. DHS/TSA en MT kunnen wijzigingen van een aanhangsel schriftelijk overeenkomen zonder uitwisseling van diplomatieke nota’s.
 
-#### Artikel XVII. Regeling van geschillen
+##### Artikel XVII. Regeling van geschillen
 
 Elk geschil omtrent de uitlegging of toepassing van dit Verdrag, met inbegrip van een bijlage of aanhangsel daarbij, wordt opgelost in overleg tussen de partijen in overeenstemming met [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XV&z=2017-03-19&g=2017-03-19) van dit Verdrag en wordt niet voor regeling voorgelegd aan een rechterlijke instantie, een internationaal scheidsgerecht of een derde.
 
-#### Artikel XVIII. Inwerkingtreding en beëindiging
+##### Artikel XVIII. Inwerkingtreding en beëindiging
 
 A. Dit Verdrag treedt in werking dertig dagen na de datum van de laatste nota van een diplomatieke notawisseling tussen de partijen waarbij de partijen elkaar ervan in kennis stellen dat de vereiste interne procedures voor de inwerkingtreding van dit Verdrag zijn voltooid.
 

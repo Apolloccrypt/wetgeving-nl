@@ -1,13 +1,38 @@
 ---
 title: "Regionale Overeenkomst inzake de middengolfomroep in regio 2"
 identifier: "BWBV0002929"
-categorie: "Internationaal recht"
-publicatiedatum: 1983-07-01
-laatste_update: 1983-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002929"
+country: "nl"
+rank: "verdrag"
+publication_date: "1983-07-01"
+last_updated: "1983-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002929"
+soort: "verdrag"
+stam_id: "10003256743"
+version_id: "10003277542"
+internal_id: "C10006979801"
+label_id: "10003242714"
+dtd_version: "2.0"
+original_entry_into_force: "1983-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002929/1983-07-01/0"
+intitule_bron: "Trb.1983-87"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1983-08-09"
+intitule_published: "1983-05-16"
+intitule_in_force: "1983-05-16"
+intitule_status: "goed"
+original_publication: "Trb.1983-87"
+original_signed_date: "1983-08-09"
+original_published_date: "1983-05-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1983-87"
+entry_into_force_date: "1983-07-01"
+jci_1_3: "jci1.3:c:BWBV0002929&z=1983-07-01&g=1983-07-01"
+jci_1_0: "1.0:c:BWBV0002929&g=1983-07-01"
+citeertitel_status: "officieel"
+signed_date: "1983-08-09"
+entry_into_force: "1983-07-01"
 ---
-
 # Regionale Overeenkomst inzake de middengolfomroep in regio 2
 
 Fully respecting the sovereign right of each country to regulate within its territory the broadcasting service in the medium frequency band and to reach special arrangements with such countries as it may consider appropriate, without prejudice to other administrations;
@@ -22,7 +47,7 @@ Recognizing that the protection of mutually accepted services in a major objecti
 
 the delegates of the Members of the International Telecommunication Union meeting in Rio de Janeiro at a regional administrative conference convened under the provisions of the International Telecommunication Convention (Malaga-Torremolinos, 1973), have adopted, subject to approval by the competent authorities of their respective countries, the following provisions relating to the broadcasting service in Region 2 for the medium frequency band between 535 and 1605 kHz:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 For the purposes of this Agreement, the following terms shall have the meanings defined below:
 
@@ -58,11 +83,11 @@ For the purposes of this Agreement, the following terms shall have the meanings 
 
 **Harmful interference:**Interference which endangers the functioning of a radionavigation service or of other safety services or seriously degrades, obstructs or repeatedly interrupts a radiocommunication service operating in accordance with the Radio Regulations.
 
-#### Article 2. Frequency Band
+##### Article 2. Frequency Band
 
 The provisions of the Agreement shall apply to the frequency band 535 to 1605 kHz allocated to the broadcasting service under Article 8 of the Radio Regulations, Geneva, 1979.
 
-#### Article 3. Execution of the Agreement
+##### Article 3. Execution of the Agreement
 
 3.1. The Contracting Members shall adopt for their stations in Region 2 in the frequency band which is the subject of the Agreement the technical characteristics and standards specified in the Plan.
 
@@ -70,7 +95,7 @@ The provisions of the Agreement shall apply to the frequency band 535 to 1605 kH
 
 3.3. The Contracting Members undertake to study and, in common agreement and to the extent possible, to put into practice the measures necessary to avoid or to reduce any harmful or objectionable interference that might result from the application of the Agreement.
 
-#### Article 4. Procedure for Modifications to the Plan
+##### Article 4. Procedure for Modifications to the Plan
 
 4.1. When a Contracting Member proposes to make a modification to the Plan, i.e.:
 
@@ -180,7 +205,7 @@ When an administration decides to cancel an assignment in conformity with the Ag
 
 - 4.7.2. The IFRB shall inform the Secretary-General of modifications to the Plan. The Secretary-General shall publish new editions of the Plan at intervals of two years as from the date of entry into force of the Agreement. Modifications to the Plan shall be published by quarterly recapitulative supplements keeping the format of the Plan.
 
-#### Article 5. Notification of frequency assignments
+##### Article 5. Notification of frequency assignments
 
 5.1. When an administration proposes to bring into use an assignment in conformity with the Agreement, it shall notify it to the IFRB in accordance with the provisions of Article 12 of the Radio Regulations1)While recording the notified assignments in the Master Register, the IFRB shall enter the appropriate symbols to indicate that:-the value recorded for power corresponds to the station power;-the value recorded for antenna height, in the case of omnidirectional antennas, corresponds to height in electrical degrees.. Any such assignment recorded in the Master Register as a result of application of the provisions of Article 12 of the Radio Regulations shall bear a special symbol under the Remarks Column and a date in Column 2a or in Column 2b.
 
@@ -190,27 +215,27 @@ When an administration decides to cancel an assignment in conformity with the Ag
 
 5.4. Should an administration resubmit the notice having applied the procedure of this Article without reaching agreement with the administrations concerned and insist on reconsideration of its notice, the IFRB shall re-examine the notice. Should the finding remain unchanged, the assignment shall be recorded in the Master Register with an unfavourable finding and a symbol indicating that the entry has been made subject to the reservation that no harmful interference will be caused to assignments in conformity with the Agreement.
 
-#### Article 6. Special Arrangements
+##### Article 6. Special Arrangements
 
 In order to supplement the procedures provided for under Article 4 of the Agreement and to facilitate application of the procedures to improve utilization of the Plan, Contracting Members may conclude or continue special arrangements in conformity with the pertinent provisions of the Convention and the Radio Regulations.
 
-#### Article 7. Scope of Application of the Agreement
+##### Article 7. Scope of Application of the Agreement
 
 7.1. The Agreement is binding upon the Contracting Members in their mutual relations, but not in their relations with non-contracting countries.
 
 7.2. Should a Contracting Member make reservations on the application of any provision of the Agreement, the other Contracting Members shall be free to disregard that provision in their relations with the Member that has made the reservations.
 
-#### Article 8. Approval of the Agreement
+##### Article 8. Approval of the Agreement
 
 The signatory Members shall notify the Secretary-General of their approval of this Agreement as soon as possible by depositing an instrument of approval; the Secretary-General shall immediately inform the other Members of the Union.
 
-#### Article 9. Accession to the Agreement
+##### Article 9. Accession to the Agreement
 
 9.1. Any Member of the Union in Region 2 which has not signed the Agreement may at any time deposit an instrument of accession with the Secretary-General, who shall immediately inform the other Members of the Union. Accession shall apply to the Plan as it stands at the time of accession and shall be made without reservations.
 
 9.2. Accession to the Agreement shall become effective on the date on which the instrument of accession is received by the Secretary-General.
 
-#### Article 10. Denunciation of the Agreement
+##### Article 10. Denunciation of the Agreement
 
 10.1. Any Contracting Member may denounce the Agreement at any time by a notification sent to the Secretary-General, who shall inform the other Members of the Union.
 
@@ -218,11 +243,11 @@ The signatory Members shall notify the Secretary-General of their approval of th
 
 10.3. On the date on which the denunciation becomes effective, the IFRB shall delete from the Plan the assignments appearing in the name of the Member that has denounced the Agreement.
 
-#### Article 11. Entry into Force of the Agreement
+##### Article 11. Entry into Force of the Agreement
 
 This Agreement shall enter into force on 1 July 1983 at 0800 hours UTC.
 
-#### Article 12. Duration of the Agreement
+##### Article 12. Duration of the Agreement
 
 12.1. The Agreement has been established with a view to meeting the requirements of the medium frequency broadcasting service for a period of about 10 years from the date of entry into force of the Agreement.
 

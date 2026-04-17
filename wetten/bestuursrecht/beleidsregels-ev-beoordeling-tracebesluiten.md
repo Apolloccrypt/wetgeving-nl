@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels EV-beoordeling tracébesluiten"
+title: "Besluit van de Minister van Infrastructuur en Milieu, van 3 september 2014, nr. IENM/BSK-2014/89247 tot vaststelling van beleid ten aanzien van de beoordeling van externe veiligheid bij de vaststelling van tracébesluiten voor de aanleg of wijziging van landelijke infrastructuur en van verkeersbesluiten (Beleidsregels EV-beoordeling tracébesluiten)"
 identifier: "BWBR0035601"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-04-01
-laatste_update: 2015-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035601"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2015-04-01"
+last_updated: "2015-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035601"
+soort: "beleidsregel"
+stam_id: "12808593"
+version_id: "21754022"
+internal_id: "C31818131"
+label_id: "12778854"
+dtd_version: "2.0"
+original_entry_into_force: "2015-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035601/2015-04-01/0"
+intitule_bron: "Stcrt.2014-25839"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-09-03"
+intitule_published: "2014-10-01"
+intitule_in_force: "2015-03-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-25839"
+original_signed_date: "2014-09-03"
+original_published_date: "2014-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-25839"
+entry_into_force_date: "2015-04-01"
+jci_1_3: "jci1.3:c:BWBR0035601&z=2015-04-01&g=2015-04-01"
+jci_1_0: "1.0:c:BWBR0035601&g=2015-04-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels EV-beoordeling tracébesluiten"
+signed_date: "2014-09-03"
+entry_into_force: "2015-04-01"
 ---
-
 # Besluit van de Minister van Infrastructuur en Milieu, van 3 september 2014, nr. IENM/BSK-2014/89247 tot vaststelling van beleid ten aanzien van de beoordeling van externe veiligheid bij de vaststelling van tracébesluiten voor de aanleg of wijziging van landelijke infrastructuur en van verkeersbesluiten (Beleidsregels EV-beoordeling tracébesluiten)
 
 Gelet op [artikel 9, eerste lid, van de Tracéwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147&artikel=9) en op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop de Wet basisnet, het Wijzigingsbesluit 
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. begripsbepalingen
+##### Artikel 1. begripsbepalingen
 
 1. In deze beleidsregels wordt verstaan onder:
 
@@ -86,15 +112,15 @@ Treedt in werking op het tijdstip waarop de Wet basisnet, het Wijzigingsbesluit 
 
 #### Paragraaf 2.1. Wijziging van wegen die deel uitmaken van het basisnet
 
-#### Artikel 2. toepassingsbereik paragraaf 2.1
+##### Artikel 2. toepassingsbereik paragraaf 2.1
 
 Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op een wijziging van een hoofdweg, waarvoor voorafgaand aan de terinzagelegging van het ontwerp-tracébesluit een PR-plafond is vastgesteld.
 
-#### Artikel 3. inspanningsplicht
+##### Artikel 3. inspanningsplicht
 
 Indien wijziging van een hoofdweg leidt tot verschuiving van de ligging van het referentiepunt op het betrokken wegvak, spant de minister zich in te voorkomen dat bestaande of geprojecteerde kwetsbare of beperkt kwetsbare objecten binnen de basisnetafstand komen te liggen.
 
-#### Artikel 4. beoordeling effecten verschuiving referentiepunt
+##### Artikel 4. beoordeling effecten verschuiving referentiepunt
 
 Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2015-04-01&g=2015-04-01) wordt bij een tracébesluit dat betrekking heeft op een wijziging van een hoofdweg als gevolg waarvan de ligging van het referentiepunt verschuift en als gevolg van die verschuiving bestaande of geprojecteerde kwetsbare of beperkt kwetsbare objecten komen te liggen binnen de basisnetafstand, inzicht gegeven in:
 
@@ -104,7 +130,7 @@ Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdst
 
 - c. de afweging die ten grondslag ligt aan de keuze voor de ligging van de te wijzigen hoofdweg en het effect van die ligging voor de objecten, bedoeld onder a en b, in relatie tot de inspanningsplicht, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2015-04-01&g=2015-04-01).
 
-#### Artikel 5. beoordeling plaatsgebonden risico
+##### Artikel 5. beoordeling plaatsgebonden risico
 
 1. Ter beoordeling van het plaatsgebonden risico wordt in de toelichting op het tracébesluit:
 
@@ -120,11 +146,11 @@ Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdst
 
 4. Indien sprake is van een overschrijding of dreigende overschrijding van de betrokken PR-plafonds, wordt verwezen naar de onderzoeksplicht van de minister, bedoeld in [artikel 15, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=15).
 
-#### Artikel 6. beoordeling groepsrisico
+##### Artikel 6. beoordeling groepsrisico
 
 [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2015-04-01&g=2015-04-01) is van overeenkomstige toepassing ter onderbouwing van de beoordeling van het groepsrisico, met dien verstande dat in geval een GR-plafond is vastgesteld dat plafond als uitgangspunt wordt gehanteerd.
 
-#### Artikel 7. afwijkende beoordeling groepsrisico
+##### Artikel 7. afwijkende beoordeling groepsrisico
 
 1. Dit artikel is van toepassing op een tracébesluit dat betrekking heeft op:
 
@@ -148,7 +174,7 @@ Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdst
 
 - c. de huidige bevolkingsdichtheden en de overeenkomstig de ten tijde van de terinzagelegging van het ontwerp-tracébesluit vigerende bestemmingsplannen en ter inzage gelegde ontwerp-bestemmingsplannen redelijkerwijs te verwachten bevolkingsdichtheden.
 
-#### Artikel 8. verantwoording groepsrisico
+##### Artikel 8. verantwoording groepsrisico
 
 1. Indien [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2015-04-01&g=2015-04-01) van toepassing is, wordt in het tracébesluit gemotiveerd:
 
@@ -166,13 +192,13 @@ Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdst
 
 3. Het bestuur van de veiligheidsregio in wiens regio het gebied ligt waarop het tracébesluit betrekking heeft, wordt in de gelegenheid gesteld advies uit te brengen over de in het eerste en tweede lid bedoelde maatregelen en mogelijkheden.
 
-#### Artikel 9. effecten voor ligging PAG
+##### Artikel 9. effecten voor ligging PAG
 
 Indien voor de omgeving naast de betrokken hoofdweg krachtens het [Bevt](https://wetten.overheid.nl/jci1.3:c:BWBR0034233) een PAG is vastgesteld, wordt in het tracébesluit vermeld in hoeverre de aanpassing van de hoofdweg gevolgen heeft voor de ligging van dat PAG.
 
 #### Paragraaf 2.2. Aanleg of wijziging van wegen die geen deel uitmaken van het basisnet
 
-#### Artikel 10. toepassingsbereik paragraaf 2.2
+##### Artikel 10. toepassingsbereik paragraaf 2.2
 
 1. Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op aanleg van een hoofdweg die geen deel uitmaakt van het basisnet.
 
@@ -180,11 +206,11 @@ Indien voor de omgeving naast de betrokken hoofdweg krachtens het [Bevt](https:/
 
 3. Deze paragraaf is tevens van toepassing op een tracébesluit dat betrekking heeft op een wijziging van een hoofdweg, waarvoor voorafgaand aan de terinzagelegging van het ontwerp van dat besluit geen PR-plafond is vastgesteld.
 
-#### Artikel 11. inspanningsplicht PR
+##### Artikel 11. inspanningsplicht PR
 
 De minister spant zich in te voorkomen dat bestaande of geprojecteerde kwetsbare of beperkt kwetsbare objecten komen te liggen in het gebied langs een hoofdweg als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2015-04-01&g=2015-04-01), waar de waarde van het plaatsgebonden risico groter kan zijn dan 10-6 per jaar.
 
-#### Artikel 12. wijze van berekenen PR
+##### Artikel 12. wijze van berekenen PR
 
 1. Het plaatsgebonden risico wordt berekend met toepassing van RBM-II.
 
@@ -196,7 +222,7 @@ De minister spant zich in te voorkomen dat bestaande of geprojecteerde kwetsbare
 
 3. In afwijking van het tweede lid, onder b, wordt voor een hoofdweg als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2015-04-01&g=2015-04-01), derde lid, uitgegaan van de meest recente beschikbare gegevens over de omvang van het vervoer over die weg.
 
-#### Artikel 13. beoordeling en verantwoording groepsrisico
+##### Artikel 13. beoordeling en verantwoording groepsrisico
 
 1. Bij de beoordeling van het groepsrisico is [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2015-04-01&g=2015-04-01), van overeenkomstige toepassing.
 
@@ -204,17 +230,17 @@ De minister spant zich in te voorkomen dat bestaande of geprojecteerde kwetsbare
 
 3. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2015-04-01&g=2015-04-01) is van overeenkomstige toepassing.
 
-#### Artikel 14. aanvullende beoordeling wegvakken met plafond
+##### Artikel 14. aanvullende beoordeling wegvakken met plafond
 
 Overeenkomstig [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2015-04-01&g=2015-04-01), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2015-04-01&g=2015-04-01) wordt bezien in hoeverre de voor de in het studiegebied gelegen hoofdwegen vastgestelde PR-plafonds en GR-plafonds worden of dreigen te worden overschreden en wordt in voorkomende gevallen overeenkomstig [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2015-04-01&g=2015-04-01), verwezen naar de onderzoeksplicht van de minister, bedoeld in [artikel 15, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=15).
 
 #### Paragraaf 2.3. Omrijden over wegen die deel uitmaken van het basisnet
 
-#### Artikel 15. toepassingsbereik paragraaf 2.3
+##### Artikel 15. toepassingsbereik paragraaf 2.3
 
 Deze paragraaf is van toepassing op verkeersbesluiten waardoor het vervoer van alle of bepaalde gevaarlijke stoffen over een hoofdweg tijdelijk wordt beperkt vanwege werkzaamheden aan deze hoofdweg en dit vervoer als gevolg daarvan zal omrijden over andere hoofdwegen die deel uitmaken van het basisnet.
 
-#### Artikel 16. beoordeling plaatsgebonden risico
+##### Artikel 16. beoordeling plaatsgebonden risico
 
 1. Ter beoordeling van het plaatsgebonden risico wordt in de motivering van het verkeersbesluit:
 
@@ -230,23 +256,23 @@ Deze paragraaf is van toepassing op verkeersbesluiten waardoor het vervoer van a
 
 4. Indien sprake is van een overschrijding of dreigende overschrijding van de desbetreffende PR-plafonds, wordt verwezen naar de onderzoeksplicht van de minister, bedoeld in [artikel 15, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=15).
 
-#### Artikel 17. beoordeling groepsrisico
+##### Artikel 17. beoordeling groepsrisico
 
 [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=2&paragraaf=2.3&artikel=16&z=2015-04-01&g=2015-04-01) is van overeenkomstige toepassing ter onderbouwing van de beoordeling van het groepsrisico, met dien verstande dat in geval een GR-plafond is vastgesteld dat plafond als uitgangspunt wordt gehanteerd.
 
 #### Paragraaf 2.4. Omrijden over wegen die geen deel uitmaken van het basisnet
 
-#### Artikel 18. toepassingsbereik paragraaf 2.4
+##### Artikel 18. toepassingsbereik paragraaf 2.4
 
 1. Deze paragraaf is van toepassing op verkeersbesluiten waardoor het vervoer van alle of bepaalde gevaarlijke stoffen over een hoofdweg tijdelijk wordt beperkt vanwege werkzaamheden aan deze hoofdweg en dit vervoer als gevolg daarvan zal omrijden over andere hoofdwegen die geen deel uitmaken van het basisnet.
 
 2. Bij de voorbereiding van een besluit als bedoeld in het eerste lid wordt overlegd met het ten aanzien van de andere wegen bevoegde gezag.
 
-#### Artikel 19. inspanningsplicht PR
+##### Artikel 19. inspanningsplicht PR
 
 De minister spant zich in te voorkomen dat kwetsbare of beperkt kwetsbare objecten komen te liggen in het gebied langs wegen als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=2&paragraaf=2.4&artikel=18&z=2015-04-01&g=2015-04-01), waar de waarde van het plaatsgebonden risico groter kan zijn dan 10-6 per jaar.
 
-#### Artikel 20. wijze van berekenen PR
+##### Artikel 20. wijze van berekenen PR
 
 1. Het plaatsgebonden risico wordt berekend met toepassing van RBM-II.
 
@@ -258,7 +284,7 @@ De minister spant zich in te voorkomen dat kwetsbare of beperkt kwetsbare object
 
 - c. een inschatting van de verwachte toename van de omvang van het vervoer van gevaarlijke stoffen over de omrijroutes ten opzichte van de meest recente beschikbare gegevens over de omvang van het vervoer over die routes.
 
-#### Artikel 21. beoordeling groepsrisico
+##### Artikel 21. beoordeling groepsrisico
 
 1. Het groepsrisico wordt met toepassing van RBM-II berekend, indien het groepsrisico:
 
@@ -274,7 +300,7 @@ De minister spant zich in te voorkomen dat kwetsbare of beperkt kwetsbare object
 
 - c. de huidige bevolkingsdichtheden.
 
-#### Artikel 22. verantwoording GR
+##### Artikel 22. verantwoording GR
 
 1. Indien [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2015-04-01&g=2015-04-01) van toepassing is, wordt in het verkeersbesluit gemotiveerd:
 
@@ -296,15 +322,15 @@ De minister spant zich in te voorkomen dat kwetsbare of beperkt kwetsbare object
 
 #### Paragraaf 3.1. Wijziging van hoofdspoorwegen die deel uitmaken van het basisnet
 
-#### Artikel 23. toepassingsbereik paragraaf 3.1
+##### Artikel 23. toepassingsbereik paragraaf 3.1
 
 Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op een wijziging van een hoofdspoorweg.
 
-#### Artikel 24. inspanningsplicht
+##### Artikel 24. inspanningsplicht
 
 Indien een wijziging van een hoofdspoorweg leidt tot verschuiving van de ligging van het referentiepunt op het betrokken baanvak, spant de minister zich in te voorkomen dat bestaande of geprojecteerde kwetsbare of beperkt kwetsbare objecten binnen de basisnetafstand komen te liggen.
 
-#### Artikel 25. beoordeling effecten verschuiving referentiepunt
+##### Artikel 25. beoordeling effecten verschuiving referentiepunt
 
 Onverminderd [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=3&paragraaf=3.1&artikel=26&z=2015-04-01&g=2015-04-01) wordt bij een tracébesluit dat betrekking heeft op een wijziging van een hoofdspoorweg als gevolg waarvan de ligging van het referentiepunt verschuift en als gevolg van die verschuiving bestaande of geprojecteerde kwetsbare of beperkt kwetsbare objecten komen te liggen binnen de basisnetafstand, inzicht gegeven in:
 
@@ -314,7 +340,7 @@ Onverminderd [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofds
 
 - c. de afweging die ten grondslag ligt aan de keuze voor de ligging van de te wijzigen hoofdspoorweg en het effect van die ligging voor de objecten, bedoeld onder a en b, in relatie tot de inspanningsplicht, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=3&paragraaf=3.1&artikel=24&z=2015-04-01&g=2015-04-01).
 
-#### Artikel 26. beoordeling plaatsgebonden risico
+##### Artikel 26. beoordeling plaatsgebonden risico
 
 1. Ter beoordeling van het plaatsgebonden risico wordt in de toelichting op het tracébesluit:
 
@@ -330,11 +356,11 @@ Onverminderd [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofds
 
 4. Indien sprake is van een overschrijding of dreigende overschrijding van de desbetreffende PR-plafonds wordt verwezen naar de onderzoeksplicht van de minister, bedoeld in [artikel 15, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=15).
 
-#### Artikel 27. beoordeling groepsrisico
+##### Artikel 27. beoordeling groepsrisico
 
 [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=3&paragraaf=3.1&artikel=26&z=2015-04-01&g=2015-04-01) is van overeenkomstige toepassing ter onderbouwing van de beoordeling van het groepsrisico, met dien verstande dat de voor de desbetreffende hoofdspoorweg vastgestelde GR-plafonds als uitgangspunt worden gehanteerd.
 
-#### Artikel 28. afwijkende beoordeling groepsrisico
+##### Artikel 28. afwijkende beoordeling groepsrisico
 
 1. Dit artikel is van toepassing op een tracébesluit dat:
 
@@ -358,7 +384,7 @@ Onverminderd [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofds
 
 - c. de huidige bevolkingsdichtheden en de overeenkomstig de ten tijde van de terinzagelegging van het ontwerp-tracébesluit vigerende bestemmingsplannen en ter inzage gelegde ontwerp-bestemmingsplannen redelijkerwijs te verwachten bevolkingsdichtheden.
 
-#### Artikel 29. verantwoording GR
+##### Artikel 29. verantwoording GR
 
 1. Indien [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=3&paragraaf=3.1&artikel=28&z=2015-04-01&g=2015-04-01) van toepassing is wordt in het tracébesluit gemotiveerd:
 
@@ -376,23 +402,23 @@ Onverminderd [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofds
 
 3. Het bestuur van de veiligheidsregio in wiens regio het gebied ligt waarop het tracébesluit betrekking heeft, wordt in de gelegenheid gesteld advies uit te brengen over de in het eerste en tweede lid bedoelde maatregelen en mogelijkheden.
 
-#### Artikel 30. effecten voor ligging PAG
+##### Artikel 30. effecten voor ligging PAG
 
 Indien voor de omgeving naast de betrokken hoofdspoorweg krachtens het [Bevt](https://wetten.overheid.nl/jci1.3:c:BWBR0034233) een PAG is vastgesteld, wordt in een tracébesluit vermeld in hoeverre de aanpassing van de hoofdspoorweg gevolgen heeft voor de ligging van dat PAG.
 
 #### Paragraaf 3.2. Aanleg van hoofdspoorwegen die nog geen deel uitmaken van het basisnet
 
-#### Artikel 31. toepassingsbereik paragraaf 3.2
+##### Artikel 31. toepassingsbereik paragraaf 3.2
 
 1. Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op aanleg van een hoofdspoorweg.
 
 2. Deze paragraaf is tevens van toepassing in geval een besluit, bedoeld in het eerste lid, mede betrekking heeft op een wijziging van een bestaande hoofdspoorweg ten behoeve van aantakking op de aan te leggen hoofdspoorweg.
 
-#### Artikel 32. inspanningsplicht PR
+##### Artikel 32. inspanningsplicht PR
 
 De minister spant zich in te voorkomen dat bestaande of geprojecteerde kwetsbare of beperkt kwetsbare objecten komen te liggen in het gebied langs een hoofdspoorweg als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=3&paragraaf=3.2&artikel=31&z=2015-04-01&g=2015-04-01), waar de waarde van het plaatsgebonden risico groter kan zijn dan 10-6 per jaar.
 
-#### Artikel 33. wijze van berekenen PR
+##### Artikel 33. wijze van berekenen PR
 
 1. Het plaatsgebonden risico wordt berekend met toepassing van RBM-II.
 
@@ -402,7 +428,7 @@ De minister spant zich in te voorkomen dat bestaande of geprojecteerde kwetsbare
 
 - b. een inschatting van de omvang van het vervoer van gevaarlijke stoffen dat aan de nieuwe hoofdspoorweg kan worden toegerekend, op basis van de vervoerscijfers zoals die voor de in het studiegebied gelegen hoofdspoorwegen zijn opgenomen in [bijlage II bij de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=II).
 
-#### Artikel 34. beoordeling en verantwoording groepsrisico
+##### Artikel 34. beoordeling en verantwoording groepsrisico
 
 1. Bij de beoordeling van het groepsrisico is [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=3&paragraaf=3.1&artikel=28&z=2015-04-01&g=2015-04-01), van overeenkomstige toepassing.
 
@@ -410,7 +436,7 @@ De minister spant zich in te voorkomen dat bestaande of geprojecteerde kwetsbare
 
 3. [Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=3&paragraaf=3.1&artikel=29&z=2015-04-01&g=2015-04-01) is van overeenkomstige toepassing.
 
-#### Artikel 35. aanvullende beoordeling baanvakken met plafond
+##### Artikel 35. aanvullende beoordeling baanvakken met plafond
 
 Overeenkomstig [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=3&paragraaf=3.1&artikel=26&z=2015-04-01&g=2015-04-01), en [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=3&paragraaf=3.1&artikel=27&z=2015-04-01&g=2015-04-01) wordt bezien in hoeverre de voor de in het studiegebied gelegen hoofdspoorwegen vastgestelde PR-plafonds en GR-plafonds worden of dreigen te worden overschreden en wordt in voorkomende gevallen overeenkomstig artikel 26, vierde lid, verwezen naar de onderzoeksplicht van de minister, bedoeld in [artikel 15, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=15).
 
@@ -418,11 +444,11 @@ Overeenkomstig [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 #### Paragraaf 4.1. Wijziging van hoofdvaarwegen die deel uitmaken van het Basisnet
 
-#### Artikel 36. toepassingsbereik paragraaf 4.1
+##### Artikel 36. toepassingsbereik paragraaf 4.1
 
 Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op een wijziging van een hoofdvaarweg, waar voorafgaand aan de terinzagelegging van het ontwerp-tracébesluit een PR-plafond is vastgesteld.
 
-#### Artikel 37. beoordeling plaatsgebonden risico
+##### Artikel 37. beoordeling plaatsgebonden risico
 
 1. Ter beoordeling van het plaatsgebonden risico wordt in de toelichting op het tracébesluit:
 
@@ -438,7 +464,7 @@ Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op ee
 
 4. Indien sprake is van een overschrijding of dreigende overschrijding van de desbetreffende PR-plafonds, wordt verwezen naar de onderzoeksplicht van de minister, bedoeld in [artikel 15, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=15).
 
-#### Artikel 38. beoordeling groepsrisico
+##### Artikel 38. beoordeling groepsrisico
 
 1. Het groepsrisico wordt met toepassing van RBM-II berekend, indien het groepsrisico:
 
@@ -454,7 +480,7 @@ Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op ee
 
 - c. de huidige bevolkingsdichtheden en de overeenkomstig de ten tijde van de terinzagelegging van het ontwerp-tracébesluit vigerende bestemmingsplannen en ter inzage gelegde ontwerp-bestemmingsplannen redelijkerwijs te verwachten bevolkingsdichtheden.
 
-#### Artikel 39. verantwoording GR
+##### Artikel 39. verantwoording GR
 
 1. Indien [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2015-04-01&g=2015-04-01) van toepassing is, wordt in het tracébesluit, gemotiveerd:
 
@@ -474,7 +500,7 @@ Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op ee
 
 #### Paragraaf 4.2. Aanleg of wijziging van hoofdvaarwegen die geen deel uitmaken van het basisnet
 
-#### Artikel 40. toepassingsbereik paragraaf 4.2
+##### Artikel 40. toepassingsbereik paragraaf 4.2
 
 1. Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op aanleg van een hoofdvaarweg.
 
@@ -482,11 +508,11 @@ Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op ee
 
 3. Deze paragraaf is tevens van toepassing op een tracébesluit dat betrekking heeft op een wijziging van een hoofdvaarweg, waarvoor voorafgaand aan de terinzagelegging van het ontwerp van dat besluit geen PR-plafond is vastgesteld.
 
-#### Artikel 41. inspanningsplicht PR
+##### Artikel 41. inspanningsplicht PR
 
 De minister spant zich in te voorkomen dat bestaande of geprojecteerde kwetsbare of beperkt kwetsbare objecten komen te liggen in het gebied langs een hoofdvaarweg als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=4&paragraaf=4.2&artikel=40&z=2015-04-01&g=2015-04-01), waar de waarde van het plaatsgebonden risico groter kan zijn dan 10-6 per jaar.
 
-#### Artikel 42. wijze van berekenen PR
+##### Artikel 42. wijze van berekenen PR
 
 1. Het plaatsgebonden risico wordt berekend met toepassing van RBM-II.
 
@@ -498,7 +524,7 @@ De minister spant zich in te voorkomen dat bestaande of geprojecteerde kwetsbare
 
 3. In afwijking van het tweede lid, onder b, wordt voor een hoofdvaarweg als bedoeld in [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=4&paragraaf=4.2&artikel=40&z=2015-04-01&g=2015-04-01), uitgegaan van de meest recente beschikbare gegevens over de omvang van het vervoer over die vaarweg.
 
-#### Artikel 43. beoordeling en verantwoording groepsrisico
+##### Artikel 43. beoordeling en verantwoording groepsrisico
 
 1. Bij de beoordeling van het groepsrisico is [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=4&paragraaf=4.1&artikel=38&z=2015-04-01&g=2015-04-01), van overeenkomstige toepassing.
 
@@ -506,27 +532,27 @@ De minister spant zich in te voorkomen dat bestaande of geprojecteerde kwetsbare
 
 3. [Artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=4&paragraaf=4.1&artikel=39&z=2015-04-01&g=2015-04-01) is van overeenkomstige toepassing.
 
-#### Artikel 44. aanvullende beoordeling hoofdvaarwegvakken met plafond
+##### Artikel 44. aanvullende beoordeling hoofdvaarwegvakken met plafond
 
 Overeenkomstig [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=4&paragraaf=4.1&artikel=37&z=2015-04-01&g=2015-04-01), wordt bezien in hoeverre de voor de in het studiegebied gelegen hoofdvaarwegen vastgestelde PR-plafonds worden of dreigen te worden overschreden en wordt in voorkomende gevallen overeenkomstig [artikel 37, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035601&hoofdstuk=4&paragraaf=4.1&artikel=37&z=2015-04-01&g=2015-04-01), verwezen naar de onderzoeksplicht van de minister, bedoeld in [artikel 15, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=15).
 
 ### Hoofdstuk V. Slotbepalingen
 
-#### Artikel 45. overgangsrecht
+##### Artikel 45. overgangsrecht
 
 1. Deze beleidsregels zijn niet van toepassing op een tracébesluit waarvan het ontwerp voor het tijdstip van inwerkingtreding van deze beleidsregels ter inzage is gelegd of waarvan het ontwerp tracébesluit uiterlijk binnen drie maanden na inwerkingtreding van deze beleidsregels wordt genomen.
 
 2. Deze beleidsregels zijn niet van toepassing op het tracébesluit voor het project zeesluis Kanaal Gent-Terneuzen.
 
-#### Artikel 46. inwerkingtreding
+##### Artikel 46. inwerkingtreding
 
 Deze beleidsregels treden in werking op het tijdstip waarop de [Wet van 10 juli 2013 tot wijziging van de Wet vervoer gevaarlijke stoffen en enige andere wetten in verband met de totstandkoming van een basisnet](https://wetten.overheid.nl/jci1.3:c:BWBR0033712) (Wet basisnet) (Stb. 2013, 307), het Besluit van 3 september 2013 tot wijziging van het Besluit vervoer gevaarlijke stoffen in verband met de wijziging van de routeringsystematiek in de Wet vervoer gevaarlijke stoffen (Stb. 2013, 340), het [Besluit van 11 november 2013, houdende milieukwaliteitseisen voor externe veiligheid in verband met het vervoer van gevaarlijke stoffen over transportroutes](https://wetten.overheid.nl/jci1.3:c:BWBR0034233) (Besluit externe veiligheid transportroutes) (Stb. 2013, 465) en de [Regeling van 19 maart 2014, houdende vaststelling van de ligging van de risicoplafonds langs transportroutes en regels voor ruimtelijke ontwikkelingen langs transportroutes in verband met externe veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000) (Regeling basisnet) (Stcrt. 2014, nr. 8242) in werking treden.
 
-#### Artikel 47. citeertitel
+##### Artikel 47. citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels EV-beoordeling tracébesluiten.
 
-#### Artikel 48
+##### Artikel 48
 
 Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
 

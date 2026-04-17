@@ -1,20 +1,46 @@
 ---
-title: "Besluit routinematige digitale vervanging archiefbescheiden Commissie Doelmatigheid Hoger Onderwijs"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 18 februari 2020, 20935100, houdende routinematige digitale vervanging van archiefbescheiden (Besluit routinematige digitale vervanging archiefbescheiden Commissie Doelmatigheid Hoger Onderwijs)"
 identifier: "BWBR0043232"
-categorie: "Onderwijs"
-publicatiedatum: 2020-03-03
-laatste_update: 2020-03-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043232"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-03-03"
+last_updated: "2020-03-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043232"
+soort: "ministeriele-regeling"
+stam_id: "15352503"
+version_id: "26529712"
+internal_id: "C37657701"
+label_id: "15297524"
+dtd_version: "2.0"
+original_entry_into_force: "2020-03-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043232/2020-03-03/0"
+intitule_bron: "Stcrt.2020-12037"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-02-18"
+intitule_published: "2020-03-02"
+intitule_in_force: "2020-03-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-12037"
+original_signed_date: "2020-02-18"
+original_published_date: "2020-03-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-12037"
+entry_into_force_date: "2020-03-03"
+jci_1_3: "jci1.3:c:BWBR0043232&z=2020-03-03&g=2020-03-03"
+jci_1_0: "1.0:c:BWBR0043232&g=2020-03-03"
+citeertitel_status: "officieel"
+short_title: "Besluit routinematige digitale vervanging archiefbescheiden Commissie Doelmatigheid Hoger Onderwijs"
+signed_date: "2020-02-18"
+entry_into_force: "2020-03-03"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 18 februari 2020, 20935100, houdende routinematige digitale vervanging van archiefbescheiden (Besluit routinematige digitale vervanging archiefbescheiden Commissie Doelmatigheid Hoger Onderwijs)
 
 Gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7)
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Over te gaan tot routinematige digitale vervanging van archiefbescheiden:
 
@@ -22,11 +48,11 @@ Over te gaan tot routinematige digitale vervanging van archiefbescheiden:
 
 - b. volgens de specificaties, vastgelegd in de bij dit besluit horende bijlage ‘handboek routinematige digitale vervanging CDHO’;
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als:
 

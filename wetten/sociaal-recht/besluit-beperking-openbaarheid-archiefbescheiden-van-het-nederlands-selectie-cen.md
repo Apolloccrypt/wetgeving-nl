@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid archiefbescheiden van het Nederlands Selectie Centrum Turkije en de Attaché Sociale Zaken in Turkije (periode 1964–1991)"
+title: "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 9 augustus 2016, 2016-0000170131, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden uit de archieven van het Nederlands Selectie Centrum Turkije en de Attaché Sociale Zaken in Turkije over de periode 1964–1991"
 identifier: "BWBR0038422"
-categorie: "Sociaal recht"
-publicatiedatum: 2016-08-19
-laatste_update: 2016-08-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038422"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2016-08-19"
+last_updated: "2016-08-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038422"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "13734643"
+version_id: "23540572"
+internal_id: "C33892581"
+label_id: "13700844"
+dtd_version: "2.0"
+original_entry_into_force: "2016-08-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038422/2016-08-19/0"
+intitule_bron: "Stcrt.2016-43460"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-08-09"
+intitule_published: "2016-08-18"
+intitule_in_force: "2016-08-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-43460"
+original_signed_date: "2016-08-09"
+original_published_date: "2016-08-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-43460"
+entry_into_force_date: "2016-08-19"
+jci_1_3: "jci1.3:c:BWBR0038422&z=2016-08-19&g=2016-08-19"
+jci_1_0: "1.0:c:BWBR0038422&g=2016-08-19"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archiefbescheiden van het Nederlands Selectie Centrum Turkije en de Attaché Sociale Zaken in Turkije (periode 1964–1991)"
+signed_date: "2016-08-09"
+entry_into_force: "2016-08-19"
 ---
-
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 9 augustus 2016, 2016-0000170131, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden uit de archieven van het Nederlands Selectie Centrum Turkije en de Attaché Sociale Zaken in Turkije over de periode 1964–1991
 
 Gelet op [artikel 15, lid 1 onder a van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de algemene rijksarchivaris d.d. 19 juli 2016 met kenmerk 1025347;
@@ -16,7 +42,7 @@ Besluit:
 
 Tot de volgende beperkingen aan de openbaarheid van de archieven van het Nederlands Selectie Centrum Turkije en de Attaché Sociale Zaken in Turkije over de periode 1964–1991
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot het jaar, genoemd in de tweede kolom.
 
@@ -359,18 +385,18 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 342 | 2049 |
 | 343 | 2049 |
 
-#### Artikel 2
+##### Artikel 2
 
 Wanneer ten genoegen van de algemene rijksarchivaris wordt aangetoond dat de persoon op wie een dossier betrekking heeft, is overleden, vervalt de aan de openbaarheid gestelde beperking van dat dossier.
 
-#### Artikel 3
+##### Artikel 3
 
 Raadpleging van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038422&artikel=1&z=2016-08-19&g=2016-08-19), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemeen rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038422&artikel=1&z=2016-08-19&g=2016-08-19), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemeen rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de verklaring van overbrenging van de archieven van het Nederlands Selectie Centrum Turkije en de Attaché Sociale Zaken in Turkije over de periode 1964–1991.

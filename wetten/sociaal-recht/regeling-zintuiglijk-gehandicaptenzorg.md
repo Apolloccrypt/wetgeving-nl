@@ -1,20 +1,45 @@
 ---
 title: "Regeling zintuiglijk gehandicaptenzorg"
 identifier: "BWBR0051289"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051289"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051289"
+soort: "zbo"
+stam_id: "17479373"
+version_id: "30826712"
+internal_id: "C44176991"
+label_id: "17381684"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051289/2026-01-01/0"
+intitule_bron: "Stcrt.2025-24519"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-08"
+intitule_published: "2025-07-18"
+intitule_in_force: "2025-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-24519"
+original_signed_date: "2025-07-08"
+original_published_date: "2025-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-24519"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051289&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051289&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-08"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling zintuiglijk gehandicaptenzorg
 
 **Grondslag**
 
 Gelet op de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) en [38 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van registratie-, declaratie, en transparantievoorschriften.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
@@ -32,17 +57,17 @@ In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
 - **Directe behandeltijd:** Tijd waarin een hulpverlener direct in contact staat met de cliënt, een groep cliënten of het cliëntsysteem.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 In deze regeling legt de NZa regels vast die zorgaanbieders die op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051289&artikel=1&z=2026-01-01&g=2026-01-01) onder de reikwijdte van deze regeling vallen in acht moeten nemen bij het leveren van prestaties en tarieven van zintuiglijk gehandicaptenzorg.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op zorgaanbieders die zintuiglijk gehandicaptenzorg leveren als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw).
 
 Voor zover geen sprake is van zorg als omschreven in de vorige zin, is deze regeling van toepassing op personen, ingeschreven in een register als bedoeld in [artikel 3, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) (Wet BIG) of op personen als bedoeld in [artikel 34 van de Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34), voor zover voornoemde categorieën personen handelingen1Het betreft hier de handelingen bedoeld in artikel 1, onderdeel b, onder 2°, van de Wmg. of werkzaamheden2Het betreft hier de werkzaamheden bedoeld in artikel 2, aanhef en eerste lid, onderdeel c, van het Besluit uitbreiding en beperking werkingssfeer Wmg. op het terrein van zintuiglijk gehandicaptenzorg uitvoeren of verantwoordelijk zijn voor dergelijke door anderen uitgevoerde handelingen of werkzaamheden.
 
-#### Artikel 4. Administratie- en registratieverplichtingen
+##### Artikel 4. Administratie- en registratieverplichtingen
 
 1. De zorgaanbieder is verantwoordelijk voor een juiste en volledige registratie van de geleverde prestaties zoals vermeld in de Beleidsregel zintuiglijk gehandicaptenzorg.
 
@@ -56,7 +81,7 @@ Voor zover geen sprake is van zorg als omschreven in de vorige zin, is deze rege
 
 - •. Vastleggen of een prestatie geleverd is in groepsverband.
 
-#### Artikel 5. Declaratiebepalingen
+##### Artikel 5. Declaratiebepalingen
 
 1. Voor de prestaties met declaratie eenheid van een uur geldt dat de directe behandeltijd in uren tussen zorgverlener en cliënt (systeem) gedeclareerd kan worden.
 
@@ -106,7 +131,7 @@ De prestatie reistoeslag mag niet in rekening gebracht worden als reizen onderde
 
 - c. In het geval van onderlinge dienstverlening registreert de opdrachtgevende zorgaanbieder de activiteiten die de uitvoerende zorgaanbieder heeft uitgevoerd als onderdeel van de prestatie van de opdrachtgever. De registratievereisten uit deze regeling zijn voor de opdrachtgevende zorgaanbieder onverkort van toepassing op activiteiten in het kader van onderlinge dienstverlening.
 
-#### Artikel 6. Standaard prijslijst
+##### Artikel 6. Standaard prijslijst
 
 1. Het is voor de cliënt van belang te weten welke tarieven de zorgaanbieder hanteert. Wanneer een zorgaanbieder die zintuiglijk gehandicaptenzorg levert aan cliënten waarvan de zorgverzekeraar geen contract heeft afgesloten met de betreffende zorgaanbieder, kan de informatie over de tarieven alleen van de zorgaanbieder zelf komen. De zorgaanbieder maakt in die situatie een standaardprijslijst bekend zodat de cliënt voor aanvang van de behandelingsovereenkomst op eenvoudige wijze hiervan kennis kan nemen.
 
@@ -132,11 +157,11 @@ De prestatie reistoeslag mag niet in rekening gebracht worden als reizen onderde
 
 - e. De standaardprijslijst vermeldt voor welke cliënten de standaardprijslijst van toepassing is door het weergeven van de volgende zinnen: ‘Deze prijzen zijn van toepassing op cliënten waarvan de zorgverzekeraar geen contract heeft afgesloten met uw zorgaanbieder. Indien wel een contract is afgesloten met uw zorgverzekeraar dan kunnen andere prijzen gelden.’
 
-#### Artikel 7. Intrekken oude regeling
+##### Artikel 7. Intrekken oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling zintuiglijk gehandicaptenzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042242), met kenmerk NR/REG-2020, ingetrokken.
 
-#### Artikel 8. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 8. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
 
 De [Regeling zintuiglijk gehandicaptenzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042242), met kenmerk NR/REG-2020, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 

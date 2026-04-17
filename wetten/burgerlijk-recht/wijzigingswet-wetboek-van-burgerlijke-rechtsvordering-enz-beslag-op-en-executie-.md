@@ -1,14 +1,37 @@
 ---
-title: "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (beslag op en executie van schepen en luchtvaartuigen)"
+title: "Wet van 28 oktober 1991, houdende aanpassing van het Wetboek van Burgerlijke Rechtsvordering en de Wet teboekgestelde Luchtvaartuigen (Stb. 1957, 72), voor wat betreft beslag op en executie van schepen en luchtvaartuigen, aan de regels betreffende executie en beslag, in dat wetboek opgenomen bij de Wet van 7 mei 1986 (Stb. 295)"
 identifier: "BWBR0005245"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1992-01-01
-laatste_update: 1992-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005245"
+country: "nl"
+rank: "wet"
+publication_date: "1992-01-01"
+last_updated: "1992-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005245"
+soort: "wet"
+stam_id: "562953"
+version_id: "820102"
+internal_id: "C820101"
+label_id: "546714"
+dtd_version: "2.0"
+original_entry_into_force: "1992-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005245/1992-01-01/0"
+intitule_bron: "Stb.1991-583"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-10-28"
+intitule_status: "goed"
+original_publication: "Stb.1991-583"
+original_signed_date: "1991-10-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "21961"
+entry_into_force_date: "1992-01-01"
+jci_1_3: "jci1.3:c:BWBR0005245&z=1992-01-01&g=1992-01-01"
+jci_1_0: "1.0:c:BWBR0005245&g=1992-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (beslag op en executie van schepen en luchtvaartuigen)"
+signed_date: "1991-10-28"
+entry_into_force: "1992-01-01"
 ---
-
-# Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (beslag op en executie van schepen en luchtvaartuigen)
+# Wet van 28 oktober 1991, houdende aanpassing van het Wetboek van Burgerlijke Rechtsvordering en de Wet teboekgestelde Luchtvaartuigen (Stb. 1957, 72), voor wat betreft beslag op en executie van schepen en luchtvaartuigen, aan de regels betreffende executie en beslag, in dat wetboek opgenomen bij de Wet van 7 mei 1986 (Stb. 295)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,73 +41,73 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Wijziging van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VI
+##### Artikel VI
 
 Bevat wijzigingen in andere regelgeving.
 
 ### Hoofdstuk II. Wijziging van de Wet teboekgestelde Luchtvaartuigen (stb. 1957. 72)
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
 ### Hoofdstuk III. Wijziging in enige andere wetten
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VI
+##### Artikel VI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VII
+##### Artikel VII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Bevat wijzigingen in andere regelgeving.
 
 ### Hoofdstuk IV. Overgangsrecht en slotbepalingen
 
-#### Artikel I
+##### Artikel I
 
 1. Een vóór het tijdstip van het in werking treden der wet gelegd beslag wordt, voor zover uit de volgende leden niet anders voortvloeit, naar het voordien geldend recht afgewikkeld.
 
@@ -96,15 +119,15 @@ Bevat wijzigingen in andere regelgeving.
 
 5. Een rangregeling wordt afgewikkeld naar het recht waaronder de benoeming plaats vond van de rechter-commissaris, te wiens overstaan de verdeling zal plaatsvinden.
 
-#### Artikel II
+##### Artikel II
 
 Een executie tot afgifte van een schip of luchtvaartuig geschiedt naar het recht waaronder de executie is aangevangen.
 
-#### Artikel III
+##### Artikel III
 
 Onze Minister van Justitie brengt de in deze wet voorkomende aanhalingen van artikelen van het Burgerlijk Wetboek in overeenstemming met de nummering die op het tijdstip van in werking treden van deze wet voor de Boeken 3 en 8 van dat Wetboek is vastgesteld.
 
-#### Artikel IV
+##### Artikel IV
 
 De bepalingen van deze wet treden in werking op nader door ons te bepalen tijdstippen.
 

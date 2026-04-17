@@ -1,13 +1,35 @@
 ---
 title: "Brochure Stimulering Europees Onderzoek (SEO)"
 identifier: "BWBR0042931"
-categorie: "Internationaal recht"
-publicatiedatum: 2019-12-23
-laatste_update: 2019-12-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042931"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-12-23"
+last_updated: "2019-12-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042931"
+soort: "zbo"
+stam_id: "15283803"
+version_id: "26331662"
+internal_id: "C37425721"
+label_id: "15229804"
+dtd_version: "2.0"
+original_entry_into_force: "2019-12-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042931/2019-12-23/0"
+intitule_bron: "Stcrt.2019-70002"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-12-23"
+intitule_in_force: "2019-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-70002"
+original_published_date: "2019-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-70002"
+entry_into_force_date: "2019-12-23"
+jci_1_3: "jci1.3:c:BWBR0042931&z=2019-12-23&g=2019-12-23"
+jci_1_0: "1.0:c:BWBR0042931&g=2019-12-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "2019-12-23"
 ---
-
 # Brochure Stimulering Europees Onderzoek (SEO)
 
 ### 1. Inleiding

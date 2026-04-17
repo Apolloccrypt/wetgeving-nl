@@ -1,13 +1,37 @@
 ---
 title: "Indiase uitvoeringsvoorschriften belastingverdrag Nederland-India"
 identifier: "BWBR0004876"
-categorie: "Belastingrecht"
-publicatiedatum: 1990-12-01
-laatste_update: 1990-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004876"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1990-12-01"
+last_updated: "1990-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004876"
+soort: "ministeriele-regeling"
+stam_id: "3713363"
+version_id: "5496232"
+internal_id: "C5689321"
+label_id: "3693114"
+dtd_version: "2.0"
+original_entry_into_force: "1990-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004876/1990-12-01/0"
+intitule_bron: "Stcrt.1990-196"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-10-09"
+intitule_published: "1990-10-09"
+intitule_in_force: "1990-10-09"
+intitule_status: "goed"
+original_publication: "Stcrt.1990-196"
+original_signed_date: "1990-10-09"
+original_published_date: "1990-10-09"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1990-12-01"
+jci_1_3: "jci1.3:c:BWBR0004876&z=1990-12-01&g=1990-12-01"
+jci_1_0: "1.0:c:BWBR0004876&g=1990-12-01"
+citeertitel_status: "officieel"
+signed_date: "1990-10-09"
+entry_into_force: "1990-12-01"
 ---
-
 # Indiase uitvoeringsvoorschriften belastingverdrag Nederland-India
 
 Besluit:
@@ -16,7 +40,7 @@ Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende 
 
 Regeling inzake vermindering en vrijstelling van Indiase belasting op dividenden, interest, royalty's, vergoedingen voor technische diensten en vergoedingen voor het gebruik van uitrusting, genoten door inwoners van Nederland.
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan de op 30 juli 1988 tussen Nederland en India gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en vermogen (Trb. 1988, 122) kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de Overeenkomst:
 
@@ -40,7 +64,7 @@ De onder de onderdelen a en d tot en met h van dit artikel vermelde vermindering
 
 De onder de onderdelen b en c van dit artikel vermelde vrijstellingen alsmede de onder de onderdelen a, d en e tot en met h van dit artikel vermelde verminderingen zijn niet van toepassing indien de uiteindelijk gerechtigde tot de dividenden, de interest, de royalty's, vergoedingen voor technische diensten of vergoedingen voor het gebruik van uitrusting in India een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in India zelfstandig arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest wordt betaald of de royalty's, vergoedingen voor technische diensten of vergoedingen voor het gebruik van uitrusting, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort c q. behoren.
 
-#### Artikel 2. Indiase regeling
+##### Artikel 2. Indiase regeling
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004876&artikel=1&z=1990-12-01&g=1990-12-01) is van Indiase zijde de volgende regeling getroffen:
 
@@ -50,11 +74,11 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004876&a
 
 - c. Termijn van indiening Het aangiftebiljet inkomstenbelasting moet worden ingediend binnen een tijdvak van twee jaar na het einde van het desbetreffende belastingjaar. De te veel ingehouden belasting wordt teruggegeven nadat de aanslag inkomstenbelasting op basis van het ingediende aangiftebiljet is vastgesteld.
 
-#### Artikel 3. Intrekking
+##### Artikel 3. Intrekking
 
 De beschikking van de Staatssecretaris van Financiën van 18 mei 1989, nr. IFZ89/575 (Stcrt. van 18 mei 1989, nr. 94, en van 29 mei 1989, nr. 101), wordt ingetrokken.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Indiase uitvoeringsvoorschriften belastingverdrag Nederland-India.
 

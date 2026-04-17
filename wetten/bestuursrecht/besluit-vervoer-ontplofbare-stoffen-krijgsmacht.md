@@ -1,13 +1,39 @@
 ---
-title: "Besluit vervoer ontplofbare stoffen krijgsmacht"
+title: "Besluit van 12 december 1997, houdende vaststelling van regels voor het vervoer van ontplofbare stoffen en voorwerpen ten behoeve van de krijgsmacht (Besluit vervoer ontplofbare stoffen krijgsmacht)"
 identifier: "BWBR0009142"
-categorie: "Bestuursrecht"
-publicatiedatum: 1998-01-01
-laatste_update: 1998-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009142"
+country: "nl"
+rank: "amvb"
+publication_date: "1998-01-01"
+last_updated: "1998-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009142"
+soort: "AMvB"
+stam_id: "39773"
+version_id: "48622"
+internal_id: "C48621"
+label_id: "39754"
+dtd_version: "2.0"
+original_entry_into_force: "1997-12-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009142/1998-01-01/0"
+intitule_bron: "Stb.1997-727"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-12-12"
+intitule_published: "1997-12-29"
+intitule_in_force: "1997-12-29"
+intitule_status: "goed"
+original_publication: "Stb.1997-727"
+original_signed_date: "1997-12-12"
+original_published_date: "1997-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1997-727"
+entry_into_force_date: "1997-12-30"
+jci_1_3: "jci1.3:c:BWBR0009142&z=1998-01-01&g=1998-01-01"
+jci_1_0: "1.0:c:BWBR0009142&g=1998-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vervoer ontplofbare stoffen krijgsmacht"
+signed_date: "1997-12-12"
+entry_into_force: "1997-12-30"
 ---
-
 # Besluit van 12 december 1997, houdende vaststelling van regels voor het vervoer van ontplofbare stoffen en voorwerpen ten behoeve van de krijgsmacht (Besluit vervoer ontplofbare stoffen krijgsmacht)
 
 Op de voordracht van Onze Minister van Defensie van 18 september 1997, nr. CWW85/089/97002604, directie juridische zaken, afdeling wet- en regelgeving;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. Onze Minister: Onze Minister van Defensie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het verrichten van handelingen als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2), met ontplofbare stoffen en voorwerpen is toegestaan, mits:
 
@@ -54,7 +80,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De in het tweede lid bedoelde handelingen moeten met de vereiste behoedzaamheid geschieden op een wijze die in overeenstemming is met de gevaarzetting van de ontplofbare stoffen en voorwerpen.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien bij het vervoer van ontplofbare stoffen en voorwerpen met een voertuig voor het kruisen van een binnenwater gebruik wordt gemaakt van een vaartuig, zijn ten aanzien van dit vervoer uitsluitend van toepassing de bij of krachtens dit besluit met betrekking tot het vervoer van ontplofbare stoffen en voorwerpen met een voertuig gegeven regels.
 
@@ -62,7 +88,7 @@ Indien bij het vervoer van ontplofbare stoffen en voorwerpen met een voertuig vo
 
 #### § 1. Eisen ten aanzien van constructie, inrichting en uitrusting
 
-#### Artikel 4
+##### Artikel 4
 
 1. Tactische voertuigen moeten zijn voorzien van deugdelijke inrichtingen voor het vastzetten of opbergen van de ontplofbare stoffen of voorwerpen.
 
@@ -70,7 +96,7 @@ Indien bij het vervoer van ontplofbare stoffen en voorwerpen met een voertuig vo
 
 3. Bij ministeriële regeling kunnen eisen worden gesteld ten aanzien van de constructie, inrichting en uitrusting van tactische voertuigen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Logistieke voertuigen moeten zijn voorzien van een van de bestuurderscabine afgescheiden laadruimte, die is gesloten dan wel is voorzien van een dekzeil vervaardigd van waterdicht en moeilijk brandbaar materiaal.
 
@@ -94,13 +120,13 @@ Indien bij het vervoer van ontplofbare stoffen en voorwerpen met een voertuig vo
 
 #### § 2. Keuring
 
-#### Artikel 6
+##### Artikel 6
 
 1. In tactische en logistieke voertuigen moet een geldig militair keuringsdocument aanwezig zijn.
 
 2. Een militair keuringsdocument wordt door Onze Minister afgegeven, indien het tactische voertuig of het logistieke voertuig bij een door Onze Minister verrichte keuring heeft voldaan aan de eisen die bij of krachtens dit besluit voor dat voertuig zijn gesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een militair keuringsdocument is geldig voor de duur van een jaar.
 
@@ -110,13 +136,13 @@ Indien bij het vervoer van ontplofbare stoffen en voorwerpen met een voertuig vo
 
 #### § 3. Eisen ten aanzien van de verpakking
 
-#### Artikel 8
+##### Artikel 8
 
 1. Ontplofbare stoffen en voorwerpen moeten zijn verpakt in bij ministeriële regeling aan te wijzen typen verpakkingen.
 
 2. Het in het eerste lid gestelde geldt niet voor ontplofbare voorwerpen waarvan de constructie zodanig robuust en stevig is, dat verpakking uit een oogpunt van gevaarzetting niet nodig is danwel indien verpakking redelijkerwijs niet kan worden gevergd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De verpakkingen moeten op een zodanige wijze zijn vervaardigd en gesloten, dat onder normale vervoersomstandigheden elk verlies van de inhoud, ten gevolge van trillingen of van verandering van temperatuur, vochtigheid of druk, is uitgesloten.
 
@@ -128,7 +154,7 @@ Indien bij het vervoer van ontplofbare stoffen en voorwerpen met een voertuig vo
 
 5. De verpakkingen moeten voorts voldoen aan bij ministeriële regeling te stellen eisen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Verpakkingen moeten zijn voorzien van een door Onze Minister afgegeven geldig militair beproevingsrapport.
 
@@ -138,7 +164,7 @@ Indien bij het vervoer van ontplofbare stoffen en voorwerpen met een voertuig vo
 
 #### § 4. Aanduidingen en aanwijzingen op de verpakking
 
-#### Artikel 11
+##### Artikel 11
 
 1. De verpakkingen moeten zijn voorzien van bij ministeriële regeling aan te wijzen aanduidingen en aanwijzingen.
 
@@ -146,23 +172,23 @@ Indien bij het vervoer van ontplofbare stoffen en voorwerpen met een voertuig vo
 
 ### HOOFDSTUK 3. OVERGANGS- EN SLOTBEPALINGEN
 
-#### Artikel 12
+##### Artikel 12
 
 Met ingang van het tijdstip van inwerkingtreding van dit besluit worden de militaire keuringsdocumenten en de militaire beproevingsrapporten die zijn afgegeven ingevolge artikel 6 onderscheidenlijk ingevolge artikel 10 van het Besluit vervoer ontplofbare stoffen krijgsmacht, aangemerkt als militaire keuringsdocumenten en militaire beproevingsrapporten die zijn afgegeven ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&hoofdstuk=2&paragraaf=2&artikel=6&z=1998-01-01&g=1998-01-01) onderscheidenlijk ingevolge [artikel 10 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&hoofdstuk=2&paragraaf=3&artikel=10&z=1998-01-01&g=1998-01-01).
 
-#### Artikel 13
+##### Artikel 13
 
 [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&hoofdstuk=2&paragraaf=4&artikel=11&z=1998-01-01&g=1998-01-01) geldt voor ontplofbare stoffen en voorwerpen, die voor de inwerkingtreding van dit besluit zijn verpakt, met ingang van 1 augustus 2001.
 
-#### Artikel 14
+##### Artikel 14
 
 Het Besluit vervoer ontplofbare stoffen krijgsmacht wordt ingetrokken.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit vervoer ontplofbare stoffen krijgsmacht.
 

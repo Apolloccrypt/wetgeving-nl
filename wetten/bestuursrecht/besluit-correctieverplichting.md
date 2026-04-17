@@ -1,13 +1,38 @@
 ---
 title: "Besluit correctieverplichting"
 identifier: "BWBR0046764"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-06-17
-laatste_update: 2022-06-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046764"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-06-17"
+last_updated: "2022-06-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046764"
+soort: "beleidsregel"
+stam_id: "16381943"
+version_id: "28689192"
+internal_id: "C40482341"
+label_id: "16306584"
+dtd_version: "2.0"
+original_entry_into_force: "2022-06-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046764/2022-06-17/0"
+intitule_bron: "Stcrt.2022-14481"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-05-23"
+intitule_published: "2022-06-16"
+intitule_in_force: "2022-06-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-14481"
+original_signed_date: "2022-05-23"
+original_published_date: "2022-06-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-14481"
+entry_into_force_date: "2022-06-17"
+jci_1_3: "jci1.3:c:BWBR0046764&z=2022-06-17&g=2022-06-17"
+jci_1_0: "1.0:c:BWBR0046764&g=2022-06-17"
+citeertitel_status: "officieel"
+signed_date: "2022-05-23"
+entry_into_force: "2022-06-17"
 ---
-
 # Besluit correctieverplichting
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

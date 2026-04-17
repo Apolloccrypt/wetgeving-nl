@@ -1,44 +1,72 @@
 ---
-title: "Wijzigingswet Wet op de zorgtoeslag, enz. (technische verbeterpunten en het vervallen van een bepaling in een wijzigingswet)"
+title: "Wet van 29 oktober 2009 tot wijziging van enkele wetten vanwege enige technische verbeterpunten en het vervallen van een bepaling in een wijzigingswet"
 identifier: "BWBR0026714"
-categorie: "Sociaal recht"
-publicatiedatum: 2009-11-27
-laatste_update: 2009-11-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026714"
+country: "nl"
+rank: "wet"
+publication_date: "2009-11-27"
+last_updated: "2009-11-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026714"
+soort: "wet"
+stam_id: "10288283"
+version_id: "16852782"
+internal_id: "C23199081"
+label_id: "10263724"
+dtd_version: "2.0"
+original_entry_into_force: "2009-11-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026714/2009-11-27/0"
+intitule_bron: "Stb.2009-486"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-10-29"
+intitule_published: "2009-11-26"
+intitule_in_force: "2009-11-26"
+intitule_status: "goed"
+original_publication: "Stb.2009-486"
+original_signed_date: "2009-10-29"
+original_published_date: "2009-11-26"
+original_effect: "nieuwe-regeling"
+original_dossier: "31905"
+original_url_id: "stb-2009-486"
+entry_into_force_date: "2009-11-27"
+entry_into_force_dossier: "31905"
+jci_1_3: "jci1.3:c:BWBR0026714&z=2009-11-27&g=2009-11-27"
+jci_1_0: "1.0:c:BWBR0026714&g=2009-11-27"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Wet op de zorgtoeslag, enz. (technische verbeterpunten en het vervallen van een bepaling in een wijzigingswet)"
+signed_date: "2009-10-29"
+entry_into_force: "2009-11-27"
 ---
+# Wet van 29 oktober 2009 tot wijziging van enkele wetten vanwege enige technische verbeterpunten en het vervallen van een bepaling in een wijzigingswet
 
-# Wijzigingswet Wet op de zorgtoeslag, enz. (technische verbeterpunten en het vervallen van een bepaling in een wijzigingswet)
-
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op de zorgtoeslag.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Zorgverzekeringswet.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wijzigingswet Zorgverzekeringswet, enz. (verzwaren incassoregime premie en andere maatregelen zorgverzekering).
 
-#### Artikel IIIa
+##### Artikel IIIa
 
 Wijzigt de Wet tegemoetkoming chronisch zieken en gehandicapten.
 
-#### Artikel IIIb
+##### Artikel IIIb
 
 Wijzigt de Wet ambulancezorg.
 
-#### Artikel IIIc
+##### Artikel IIIc
 
 Wijzigt de Ambtenarenwet.
 
-#### Artikel IIId
+##### Artikel IIId
 
 In afwijking van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=22) juncto [32 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=32) zijn op de rechtspositie van het personeel van het College bouw zorginstellingen en het College sanering zorginstellingen de regels die gelden voor ambtenaren die zijn aangesteld bij ministeries, niet van toepassing tot 1 januari 2013.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 

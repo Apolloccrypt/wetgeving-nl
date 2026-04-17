@@ -1,13 +1,39 @@
 ---
-title: "Klachtenregeling Wetenschappelijke Integriteit NWO"
+title: "Besluit van de raad van bestuur van de Nederlandse Organisatie van Wetenschappelijk Onderzoek van 22 mei 2019, nr. 2019 RvB 139, houdende vaststelling van de Klachtenregeling wetenschappelijke integriteit NWO"
 identifier: "BWBR0042286"
-categorie: "Overig"
-publicatiedatum: 2020-04-07
-laatste_update: 2020-04-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042286"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-04-07"
+last_updated: "2020-04-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042286"
+soort: "zbo"
+stam_id: "15092183"
+version_id: "25869792"
+internal_id: "C36870071"
+label_id: "15040914"
+dtd_version: "2.0"
+original_entry_into_force: "2019-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042286/2020-04-07/0"
+intitule_bron: "Stcrt.2019-32333"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-05-22"
+intitule_published: "2019-06-12"
+intitule_in_force: "2019-06-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-32333"
+original_signed_date: "2019-05-22"
+original_published_date: "2019-06-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-32333"
+entry_into_force_date: "2019-06-01"
+jci_1_3: "jci1.3:c:BWBR0042286&z=2020-04-07&g=2020-04-07"
+jci_1_0: "1.0:c:BWBR0042286&g=2020-04-07"
+citeertitel_status: "officieel"
+short_title: "Klachtenregeling Wetenschappelijke Integriteit NWO"
+signed_date: "2019-05-22"
+entry_into_force: "2019-06-01"
 ---
-
 # Besluit van de raad van bestuur van de Nederlandse Organisatie van Wetenschappelijk Onderzoek van 22 mei 2019, nr. 2019 RvB 139, houdende vaststelling van de Klachtenregeling wetenschappelijke integriteit NWO
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
@@ -30,7 +56,7 @@ De Klachtenregeling Wetenschappelijke Integriteit NWO is uitsluitend van toepass
 
 ### Algemeen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 1. In deze regeling wordt verstaan onder:
 
@@ -60,7 +86,7 @@ De Klachtenregeling Wetenschappelijke Integriteit NWO is uitsluitend van toepass
 
 ### Klachten
 
-#### Artikel 2. Klachten
+##### Artikel 2. Klachten
 
 1. Een ieder kan een klacht als bedoeld in [art. 1 sub e](https://wetten.overheid.nl/jci1.3:c:BWBR0042286&artikel=1&z=2020-04-07&g=2020-04-07) indienen bij het NWO Meldpunt wetenschappelijke integriteit.
 
@@ -86,7 +112,7 @@ De Klachtenregeling Wetenschappelijke Integriteit NWO is uitsluitend van toepass
 
 ### Vertrouwenspersonen Meldpunt
 
-#### Artikel 3. Benoeming vertrouwenspersoon
+##### Artikel 3. Benoeming vertrouwenspersoon
 
 1. De raad van bestuur benoemt één of meerdere vertrouwenspersonen voor een periode van vijf jaar. Een eenmalige herbenoeming voor een aansluitende periode van maximaal vijf jaar is mogelijk.
 
@@ -106,7 +132,7 @@ De Klachtenregeling Wetenschappelijke Integriteit NWO is uitsluitend van toepass
 
 4. Op de werkzaamheden van de vertrouwenspersoon is de Gedragscode Belangenverstrengeling, dan wel, na inwerkingtreding, de Code omgang met persoonlijke belangen van toepassing.
 
-#### Artikel 4. Taken vertrouwenspersoon
+##### Artikel 4. Taken vertrouwenspersoon
 
 De vertrouwenspersoon:
 
@@ -120,7 +146,7 @@ De vertrouwenspersoon:
 
 ### Commissie wetenschappelijke integriteit NWO
 
-#### Artikel 5. Benoeming en samenstelling commissie wetenschappelijke integriteit
+##### Artikel 5. Benoeming en samenstelling commissie wetenschappelijke integriteit
 
 Voor de inhoudelijke beoordeling van één of meerdere klachten stelt de raad van bestuur een commissie wetenschappelijke integriteit in. Dit kan een ad hoc commissie of permanente commissie zijn.
 
@@ -148,7 +174,7 @@ Voor de inhoudelijke beoordeling van één of meerdere klachten stelt de raad va
 
 ### Secretariaat Meldpunt
 
-#### Artikel 6. Secretariaat meldpunt
+##### Artikel 6. Secretariaat meldpunt
 
 1. De afdeling Juridische Zaken van NWO fungeert als secretariaat van het NWO Meldpunt wetenschappelijke integriteit.
 
@@ -162,7 +188,7 @@ Voor de inhoudelijke beoordeling van één of meerdere klachten stelt de raad va
 
 ### Procedure behandeling klacht
 
-#### Artikel 7. Ontvangst klacht
+##### Artikel 7. Ontvangst klacht
 
 1. Het secretariaat bevestigt de ontvangst van de klacht schriftelijk binnen één week.
 
@@ -176,13 +202,13 @@ Voor de inhoudelijke beoordeling van één of meerdere klachten stelt de raad va
 
 - c). deze reeds aan het oordeel van een commissie wetenschappelijke integriteit van een andere instelling of rechterlijke instantie is onderworpen, of onderworpen is geweest.
 
-#### Artikel 8. Bemiddeling door vertrouwenspersoon
+##### Artikel 8. Bemiddeling door vertrouwenspersoon
 
 1. Zodra NWO overgaat tot behandeling van de klacht informeert de vertrouwenspersoon beklaagde over de inhoud van de klacht en stelt hem in de gelegenheid hierop (schriftelijk) te reageren. Naar aanleiding hiervan tracht de vertrouwenspersoon door middel van bemiddeling tussen de betrokken partijen de klacht in der minne op te lossen.
 
 2. Indien de klacht niet in der minne kan worden opgelost of indien dit niet wenselijk is adviseert de vertrouwenspersoon de raad van bestuur om de klacht te laten onderzoeken door de commissie wetenschappelijke integriteit NWO.
 
-#### Artikel 9. Behandeling door commissie wetenschappelijke integriteit NWO
+##### Artikel 9. Behandeling door commissie wetenschappelijke integriteit NWO
 
 1. Indien de klacht inhoudelijk wordt behandeld door de commissie wetenschappelijke integriteit NWO, gaat de commissie over tot het horen van de betrokkenen.
 
@@ -214,7 +240,7 @@ Voor de inhoudelijke beoordeling van één of meerdere klachten stelt de raad va
 
 5. Het advies van de commissie wordt ter kennisgeving voorgelegd aan de vertrouwenspersoon.
 
-#### Artikel 10. Besluitvorming en vervolgprocedure
+##### Artikel 10. Besluitvorming en vervolgprocedure
 
 1. De raad van bestuur stelt in zijn eerstvolgende vergadering na ontvangst van het advies van de commissie wetenschappelijke integriteit NWO zijn aanvankelijk oordeel ten aanzien van de klacht vast.
 
@@ -232,7 +258,7 @@ Voor de inhoudelijke beoordeling van één of meerdere klachten stelt de raad va
 
 ### Overige bepalingen
 
-#### Artikel 11. Rechten en plichten betrokkenen
+##### Artikel 11. Rechten en plichten betrokkenen
 
 1. Alle bij de klacht betrokken partijen zijn verplicht aan de vertrouwenspersoon of de commissie alle medewerking te verlenen die zij redelijkerwijs kunnen vragen bij de uitoefening van hun bevoegdheden. Indien deze medewerking niet wordt verleend, kan de raad van bestuur daaraan de gevolgtrekking verbinden die hij geraden acht.
 
@@ -240,11 +266,11 @@ Voor de inhoudelijke beoordeling van één of meerdere klachten stelt de raad va
 
 3. Het indienen van een klacht ingevolge deze regeling kan voor de klager tot generlei nadeel, direct of indirect, leiden, tenzij de klager niet te goeder trouw heeft gehandeld. Er is onder andere geen sprake van handelen te goeder trouw indien een klacht is ingediend om de goede naam of eer van een persoon bewust te schenden. Hetzelfde geldt voor getuigen, deskundigen, de vertrouwenspersonen of de commissieleden.
 
-#### Artikel 12. Onvoorziene gevallen
+##### Artikel 12. Onvoorziene gevallen
 
 In gevallen waarin deze regeling niet voorziet beslist de raad van bestuur.
 
-#### Artikel 13. Inwerkingtreding en bekendmaking
+##### Artikel 13. Inwerkingtreding en bekendmaking
 
 1. Deze regeling treedt in werking op 1 juni 2019 en vervangt de Klachtenregeling wetenschappelijke integriteit – subsidieverlening.
 

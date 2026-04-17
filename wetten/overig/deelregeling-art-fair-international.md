@@ -1,24 +1,46 @@
 ---
 title: "Deelregeling Art Fair International"
 identifier: "BWBR0050626"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050626"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050626"
+soort: "zbo"
+stam_id: "17327633"
+version_id: "30533282"
+internal_id: "C43769891"
+label_id: "17231734"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050626/2025-01-01/0"
+intitule_bron: "Stcrt.2024-38592"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-12-31"
+intitule_in_force: "2024-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-38592"
+original_published_date: "2024-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-38592"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050626&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050626&g=2025-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2025-01-01"
 ---
-
 # Deelregeling Art Fair International
 
 Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
 
 Besluit:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Het versterken van de internationale positie van hedendaagse beeldende kunst uit Nederland door galeries te stimuleren werk van levende beeldend kunstenaars uit Nederland te tonen op kunstbeurzen van internationaal belang, en door uitgevers te stimuleren boeken te tonen van levende beeldende kunstenaars uit Nederland of publicaties over hedendaagse beeldende kunst in Nederland uit de 21e eeuw. Deze stimulans moet leiden tot een versterking van de bekendheid van, en de internationale waardering voor, relevante hedendaagse beeldende kunst uit Nederland.
 
-#### Artikel 2. Toepasselijkheid galeries
+##### Artikel 2. Toepasselijkheid galeries
 
 1. Een bijdrage kan worden verstrekt aan Nederlandse enaan buitenlandse galeries die de Gallery Fair Practice Code onderschrijven, actief toepassen en uitleggen.
 
@@ -38,7 +60,7 @@ Het versterken van de internationale positie van hedendaagse beeldende kunst uit
 
 7. In de toelichting bij het aanvraagformulier staat het maximaal aantal te ontvangen bijdragen.
 
-#### Artikel 3. Toepasselijkheid uitgevers
+##### Artikel 3. Toepasselijkheid uitgevers
 
 1. Een bijdrage kan worden verstrekt aan uitgevers van kunstboeken.
 
@@ -56,7 +78,7 @@ Het versterken van de internationale positie van hedendaagse beeldende kunst uit
 
 6. In de toelichting bij het aanvraagformulier staat het maximaal aantal te ontvangen bijdragen.
 
-#### Artikel 4. Aanvraag
+##### Artikel 4. Aanvraag
 
 1. Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044527), in het aanvraagformulier en in de toelichting daarop, dient de aanvraag van een galerie als bedoeld in [artikel 2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050626&artikel=2&z=2025-01-01&g=2025-01-01) vergezeld te gaan van:
 
@@ -84,7 +106,7 @@ een toelichting op het belang en de reputatie van de beurs, recente programmerin
 
 - •. indien een uitgever een aanvraag indient voor deelname aan een beurs die niet op de in [artikel 5 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050626&artikel=5&z=2025-01-01&g=2025-01-01) bedoelde lijst van internationaal belangrijke kunstboekenbeurzen staat; een toelichting op het belang en de reputatie van de beurs, recente programmering, publieksbereik en media-aandacht.
 
-#### Artikel 5. Beoordeling
+##### Artikel 5. Beoordeling
 
 1. Mondriaan Fonds stelt, gehoord het bevoegd adviesorgaan, een lijst kunstbeurzen en een lijst kunstboekenbeurzen met internationale uitstraling vast. Indien een galerie of uitgever is toegelaten voor deelname aan één van deze beurzen wordt de aanvraag toegekend, mits deze voldoet aan de overige voorwaarden van deze regeling en aan het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044527).
 
@@ -100,23 +122,23 @@ een toelichting op het belang en de reputatie van de beurs, recente programmerin
 
 5. Het bestuur kan het bevoegd adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in het derde lid van dit artikel.
 
-#### Artikel 6. Hardheidsclausule
+##### Artikel 6. Hardheidsclausule
 
 Het bestuur kan in uitzonderlijke gevallen ten gunste van een belanghebbende van bepalingen in dit reglement afwijken indien toepassing daarvan leidt tot onbillijkheid van overwegende aard.
 
-#### Artikel 7. Overig
+##### Artikel 7. Overig
 
 In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 
-#### Artikel 8. Overgangsbepaling
+##### Artikel 8. Overgangsbepaling
 
 De [Deelregeling Art Fair Internationaal](https://wetten.overheid.nl/jci1.3:c:BWBR0044549) wordt met ingang van 1 januari 2025 ingetrokken. Op aanvragen die op grond van de Deelregeling Art Fair Internationaal voor 1 januari 2025 zijn ingediend, blijven die regeling en het [Algemeen Reglement Mondriaan Fonds 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044527) van toepassing.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2025. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2024, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2025.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Art Fair International.
 

@@ -1,28 +1,54 @@
 ---
-title: "Regeling functionele indeling BES"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 juni 2012, nr. CZW/S&B, 2012-0000298491, houdende nadere voorschriften met betrekking tot de functionele indeling van de begroting en jaarrekening BES (Regeling functionele indeling BES)"
 identifier: "BWBR0031708"
-categorie: "Overig"
-publicatiedatum: 2026-01-31
-laatste_update: 2026-01-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031708"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2026-01-31"
+last_updated: "2026-01-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031708"
+soort: "ministeriele-regeling-BES"
+stam_id: "11769243"
+version_id: "19461212"
+internal_id: "C27286861"
+label_id: "11741534"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031708/2026-01-31/0"
+intitule_bron: "Stcrt.2012-12711"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-06-18"
+intitule_published: "2012-06-26"
+intitule_in_force: "2012-06-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-12711"
+original_signed_date: "2012-06-18"
+original_published_date: "2012-06-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-12711"
+entry_into_force_date: "2012-07-01"
+jci_1_3: "jci1.3:c:BWBR0031708&z=2026-01-31&g=2026-01-31"
+jci_1_0: "1.0:c:BWBR0031708&g=2026-01-31"
+citeertitel_status: "officieel"
+short_title: "Regeling functionele indeling BES"
+signed_date: "2012-06-18"
+entry_into_force: "2012-07-01"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 juni 2012, nr. CZW/S&B, 2012-0000298491, houdende nadere voorschriften met betrekking tot de functionele indeling van de begroting en jaarrekening BES (Regeling functionele indeling BES)
 
 Gelet op [artikel 16, tweede lid, van het Besluit begroting en verantwoording openbare lichamen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030060&artikel=16);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het overzicht van de baten en lasten, bedoeld in [artikel 16, eerste lid, van het Besluit begroting en verantwoording openbare lichamen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030060&artikel=16), wordt ingedeeld volgens de functionele indeling overeenkomstig de bij deze regeling behorende bijlage.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van 1 juli 2012, met dien verstande dat de functionele indeling van de begroting met ingang van het begrotingsjaar 2013 voldoet aan deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling functionele indeling BES.
 

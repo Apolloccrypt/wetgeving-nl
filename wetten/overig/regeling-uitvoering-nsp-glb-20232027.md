@@ -1,13 +1,39 @@
 ---
-title: "Regeling uitvoering NSP GLB 2023–2027"
+title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 december 2022, nr. WJZ/ 21206194, tot uitvoering van verordening (EU) 2021/2115 en verordening (EU) 2021/2116 inzake het Gemeenschappelijk landbouwbeleid (Regeling uitvoering NSP GLB 2023–2027)"
 identifier: "BWBR0047663"
-categorie: "Overig"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047663"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047663"
+soort: "ministeriele-regeling"
+stam_id: "16604423"
+version_id: "29121132"
+internal_id: "C41388301"
+label_id: "16523094"
+dtd_version: "2.0"
+original_entry_into_force: "2022-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047663/2026-04-01/0"
+intitule_bron: "Stcrt.2022-34016"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-12-19"
+intitule_published: "2022-12-21"
+intitule_in_force: "2022-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-34016"
+original_signed_date: "2022-12-19"
+original_published_date: "2022-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-34016"
+entry_into_force_date: "2022-12-22"
+jci_1_3: "jci1.3:c:BWBR0047663&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0047663&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling uitvoering NSP GLB 2023–2027"
+signed_date: "2022-12-19"
+entry_into_force: "2022-12-22"
 ---
-
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 december 2022, nr. WJZ/ 21206194, tot uitvoering van verordening (EU) 2021/2115 en verordening (EU) 2021/2116 inzake het Gemeenschappelijk landbouwbeleid (Regeling uitvoering NSP GLB 2023–2027)
 
 Gelet op:
@@ -24,7 +50,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **verrichting:** verrichting als bedoeld in artikel 3, onderdeel 4), van [verordening (EU) 2021/2115](32021R2115).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Ter uitvoering van artikel 123, eerste lid, eerste alinea, van [verordening (EU) 2021/2115](32021R2115) wordt de minister aanwezen als nationale beheersautoriteit.
 
@@ -60,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Delegatie taken beheersautoriteit
 
-#### Artikel 3
+##### Artikel 3
 
 1. De minister delegeert overeenkomstig artikel 123, vierde lid, van [verordening (EU) 2021/2115](32021R2115) het beheer en de uitvoering van de navolgende verrichtingen die voor steun in aanmerking komen, aan gedeputeerde staten van de onderscheiden twaalf provincies:
 
@@ -86,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 - g. uitvoering geven aan de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047663&hoofdstuk=4&artikel=8&z=2026-04-01&g=2026-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0047663&hoofdstuk=4&artikel=10&z=2026-04-01&g=2026-04-01) voor zover van toepassing op de verrichtingen bedoeld in het eerste lid.
 
-#### Artikel 4
+##### Artikel 4
 
 Gedeputeerde staten van de onderscheiden twaalf provincies leveren op verzoek van de minister:
 
@@ -94,13 +120,13 @@ Gedeputeerde staten van de onderscheiden twaalf provincies leveren op verzoek va
 
 - b. toereikende informatie ter uitvoering van artikel 134 van [verordening (EU) 2021/2115](32021R2115).
 
-#### Artikel 5
+##### Artikel 5
 
 Gedeputeerde staten van de onderscheiden twaalf provincies dragen er zorg voor dat uitvoering wordt gegeven aan de artikelen 32 en 33, tweede lid, van [verordening (EU) 2021/1060](32021R1060).
 
 ### Hoofdstuk 3. Overige instanties
 
-#### Artikel 6
+##### Artikel 6
 
 1. Ter uitvoering van artikel 124, eerste lid, eerste alinea, van [verordening (EU) 2021/2115](32021R2115) is er een Monitoringcomité.
 
@@ -148,23 +174,23 @@ Gedeputeerde staten van de onderscheiden twaalf provincies dragen er zorg voor d
 
 3. Van de aanwijzing van een vertegenwoordiger op grond van het tweede lid die niet geschiedt door de minister en van de aanwijzing van de plaatsvervangend voorzitter wordt door de aanwijzende organisaties mededeling gedaan aan de minister.
 
-#### Artikel 7
+##### Artikel 7
 
 Ter uitvoering van artikel 126 van [verordening (EU) 2021/2115](32021R2115) is er een Nationaal GLB netwerk, waarvan de ambtelijke ondersteuning wordt ondergebracht bij de Regieorganisatie GLB.
 
 ### Hoofdstuk 4. Bevoegdheden controles en sancties
 
-#### Artikel 8. Onregelmatigheden
+##### Artikel 8. Onregelmatigheden
 
 De minister geeft in voorkomende gevallen uitvoering aan de artikelen 56 en 57 van [verordening (EU) 2021/2116](32021R2116) en artikel 30 van [verordening (EU) 2022/128](32022R0128).
 
-#### Artikel 9. GBCS, administratieve controles en controles ter plaatse
+##### Artikel 9. GBCS, administratieve controles en controles ter plaatse
 
 1. De minister beheert het geïntegreerd beheers- en controlesysteem, bedoeld in titel IV, hoofdstuk II, van [verordening (EU) 2021/2116](32021R2116).
 
 2. De minister verricht de controles, bedoeld in artikelen 72 en 83, zesde lid, van [verordening (EU) 2021/2116](32021R2116).
 
-#### Artikel 10. Onverschuldigde betalingen, sancties en terugvorderingen
+##### Artikel 10. Onverschuldigde betalingen, sancties en terugvorderingen
 
 1. De minister besluit tot het niet betalen dan wel de gehele of gedeeltelijke intrekking van de subsidie of betalingen, alsmede de terugvordering van onverschuldigd betaalde bedragen met rente overeenkomstig artikel 59, eerste lid, onderdeel e, van [verordening (EU) 2021/2116](32021R2116) en artikel 30, eerste lid, van [verordening (EU) 2022/128](32022R0128).
 
@@ -176,17 +202,17 @@ De minister geeft in voorkomende gevallen uitvoering aan de artikelen 56 en 57 v
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 1. De [Regeling uitvoering ELFPO programmaperiode 2014–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0036252) wordt ingetrokken.
 
 2. De [Regeling uitvoering ELFPO programmaperiode 2014–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0036252), zoals die luidde tot de datum van inwerkingtreding van deze regeling, blijft tot en met 31 december 2025 van toepassing ten aanzien van de afhandeling van de steunaanvragen die op basis van POP3 of POP3+ zijn aangevraagd.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling uitvoering NSP GLB 2023–2027.
 

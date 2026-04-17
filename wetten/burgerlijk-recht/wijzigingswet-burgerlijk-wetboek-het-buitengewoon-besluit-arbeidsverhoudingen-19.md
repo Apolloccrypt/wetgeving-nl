@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Burgerlijk Wetboek, het Buitengewoon Besluit Arbeidsverhoudingen 1945 enz. (Flexibiliteit en zekerheid)"
+title: "Wet van 14 mei 1998, houdende wijziging van het Burgerlijk Wetboek, het Buitengewoon Besluit Arbeidsverhoudingen 1945 en van enige andere wetten (Flexibiliteit en zekerheid)"
 identifier: "BWBR0009612"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2006-12-20
-laatste_update: 2006-12-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009612"
+country: "nl"
+rank: "wet"
+publication_date: "2006-12-20"
+last_updated: "2006-12-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009612"
+soort: "wet"
+stam_id: "919093"
+version_id: "1346262"
+internal_id: "C1346261"
+label_id: "891464"
+dtd_version: "2.0"
+original_entry_into_force: "1999-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009612/2006-12-20/0"
+intitule_bron: "Stb.1998-300"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-05-14"
+intitule_published: "1998-06-02"
+intitule_in_force: "1998-06-16"
+intitule_status: "goed"
+original_publication: "Stb.1998-300"
+original_signed_date: "1998-05-14"
+original_published_date: "1998-06-02"
+original_effect: "nieuwe-regeling"
+original_dossier: "25263"
+original_url_id: "stb-1998-300"
+entry_into_force_date: "1999-01-01"
+jci_1_3: "jci1.3:c:BWBR0009612&z=2006-12-20&g=2006-12-20"
+jci_1_0: "1.0:c:BWBR0009612&g=2006-12-20"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Burgerlijk Wetboek, het Buitengewoon Besluit Arbeidsverhoudingen 1945 enz. (Flexibiliteit en zekerheid)"
+signed_date: "1998-05-14"
+entry_into_force: "1999-01-01"
 ---
-
-# Wijzigingswet Burgerlijk Wetboek, het Buitengewoon Besluit Arbeidsverhoudingen 1945 enz. (Flexibiliteit en zekerheid)
+# Wet van 14 mei 1998, houdende wijziging van het Burgerlijk Wetboek, het Buitengewoon Besluit Arbeidsverhoudingen 1945 en van enige andere wetten (Flexibiliteit en zekerheid)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,67 +43,67 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de flexibiliteit in 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### ARTIKEL I
+##### ARTIKEL I
 
 Wijzigt Boek 7 van het Burgerlijk Wetboek.
 
-#### ARTIKEL II
+##### ARTIKEL II
 
 Wijzigt het Buitengewoon Besluit Arbeidsverhoudingen 1945.
 
-#### ARTIKEL III
+##### ARTIKEL III
 
 Wijzigt de Wet op de ondernemingsraden.
 
-#### ARTIKEL IV
+##### ARTIKEL IV
 
 Wijzigt de Arbeidsomstandighedenwet.
 
-#### ARTIKEL V
+##### ARTIKEL V
 
 Wijzigt de Wet melding collectief ontslag.
 
-#### ARTIKEL VI
+##### ARTIKEL VI
 
 Wijzigt de Werkloosheidswet.
 
-#### ARTIKEL VII
+##### ARTIKEL VII
 
 Wijzigt de Uitvoeringswet Europees Verdrag inzake rechtspositie migrerende werknemers.
 
-#### ARTIKEL VIII
+##### ARTIKEL VIII
 
 Wijzigt de Wet van 14 september 1995 houdende bijzondere bepalingen voor handelsvertegenwoordigers (Stb. 506).
 
-#### ARTIKEL IX
+##### ARTIKEL IX
 
 Wijzigt de Wet van 11 september 1991 tot wijziging van het Burgerlijk Wetboek in verband met de ontslagbescherming van buitenlandse werknemers (Stb. 1991, 473).
 
-#### ARTIKEL X
+##### ARTIKEL X
 
 Wijzigt de Wet van 23 december 1992, houdende enkele correcties in de Pensioen- en spaarfondsenwet en in enige andere wetten (Stb. 1993, 15).
 
-#### ARTIKEL XI
+##### ARTIKEL XI
 
 Wijzigt de Wet op de Europese ondernemingsraden.
 
-#### ARTIKEL XII
+##### ARTIKEL XII
 
 Wijzigt de Faillissementswet.
 
-#### ARTIKEL XIII
+##### ARTIKEL XIII
 
 Wijzigt de Wet minimumloon en minimumvakantiebijslag.
 
-#### ARTIKEL XIV
+##### ARTIKEL XIV
 
 Wijzigt deze wet.
 
-#### ARTIKEL XV
+##### ARTIKEL XV
 
 Wijzigt Boek 7 van het Burgerlijk Wetboek en de Wet op het ouderschapsverlof.
 
-#### ARTIKEL XVI
+##### ARTIKEL XVI
 
 1. Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen 3 jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
@@ -84,15 +111,15 @@ Wijzigt Boek 7 van het Burgerlijk Wetboek en de Wet op het ouderschapsverlof.
 
 #### OVERGANGS- EN SLOTBEPALINGEN
 
-#### ARTIKEL XVII
+##### ARTIKEL XVII
 
 [Artikel 16, derde en vierde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16) zoals deze leden luiden na de inwerkingtreding van [artikel VI, onderdeel A, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009612&artikel=VI&z=2006-12-20&g=2006-12-20), zijn niet van toepassing indien de dienstbetrekking is geëindigd vóór de dag van inwerkingtreding van dit onderdeel.
 
-#### ARTIKEL XVIII
+##### ARTIKEL XVIII
 
 Indien de dienstbetrekking is beëindigd voor het tijdstip van het inwerkingtreden van deze wet, blijven de bepalingen inzake de beëindiging van de dienstbetrekking met inbegrip van de alstoen terzake van die beëindiging geldende verjaringstermijnen, van toepassing zoals zij golden voor dat tijdstip.
 
-#### ARTIKEL XIX
+##### ARTIKEL XIX
 
 1. Op arbeidsovereenkomsten die op het tijdstip van het inwerkingtreden van deze wet voldoen aan de voorwaarden, bedoeld in artikel 668a lid 1, is artikel 668a eerst dan van toepassing, indien een volgende arbeidsovereenkomst wordt aangegaan met een tussenpoos van niet meer dan drie maanden.
 
@@ -104,7 +131,7 @@ Indien de dienstbetrekking is beëindigd voor het tijdstip van het inwerkingtred
 
 - b. de arbeidsovereenkomst niet rechtsgeldig is geëindigd.
 
-#### ARTIKEL XX
+##### ARTIKEL XX
 
 1. Voor de beëindiging van de uitzendovereenkomst waarin een beding als bedoeld in artikel 691 lid 2, is opgenomen en die voor de datum van inwerkingtreding van deze wet is voortgezet, is, in afwijking van artikel XIX lid 3, geen voorafgaande opzegging nodig.
 
@@ -112,21 +139,21 @@ Indien de dienstbetrekking is beëindigd voor het tijdstip van het inwerkingtred
 
 3. Van de leden 1 en 2 kan slechts worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan.
 
-#### ARTIKEL XXI
+##### ARTIKEL XXI
 
 Voor de werknemer die op het tijdstip van het in werking treden van deze wet 45 jaar of ouder was en voor wie op dat tijdstip een langere termijn voor opzegging gold dan volgens deze wet, blijft de oude termijn gelden zo lang hij bij dezelfde werkgever in dienst blijft.
 
-#### ARTIKEL XXII
+##### ARTIKEL XXII
 
 Op een proeftijd welke is overeengekomen maar nog niet is verstreken op het tijdstip van inwerkingtreding van deze wet, blijven de bepalingen terzake van toepassing zoals zij golden voor dat tijdstip.
 
-#### ARTIKEL XXIII
+##### ARTIKEL XXIII
 
 1. Voor de plaatsing in het Staatsblad kan Onze Minister van Justitie de nummering van de artikelen en afdelingen van de titel Arbeidsovereenkomst in het Burgerlijk Wetboek, zoals deze titel zal luiden op het tijdstip dat deze wet in werking is getreden, opnieuw vaststellen en de in deze wet voorkomende aanhalingen van de artikelen en afdelingen met de nieuwe nummering in overeenstemming brengen.
 
 2. Hij draagt zorg dat de overeenkomstig het vorige lid bijgewerkte tekst van de titel Arbeidsovereenkomst in het Staatsblad wordt geplaatst.
 
-#### ARTIKEL XXIV
+##### ARTIKEL XXIV
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

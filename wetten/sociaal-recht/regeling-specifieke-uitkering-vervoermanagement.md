@@ -1,24 +1,49 @@
 ---
-title: "Regeling specifieke uitkering vervoermanagement"
+title: "Houdende regels met betrekking tot het verstrekken van een specifieke uitkering aan provincies in het jaar 2000 ten behoeve van vervoermanagement"
 identifier: "BWBR0011124"
-categorie: "Sociaal recht"
-publicatiedatum: 2000-02-01
-laatste_update: 2000-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011124"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2000-02-01"
+last_updated: "2000-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011124"
+soort: "ministeriele-regeling"
+stam_id: "4572023"
+version_id: "6388202"
+internal_id: "C6635101"
+label_id: "4550414"
+dtd_version: "2.0"
+original_entry_into_force: "2000-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011124/2000-02-01/0"
+intitule_bron: "Stcrt.2000-21"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-01-27"
+intitule_published: "2000-01-31"
+intitule_in_force: "2000-01-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-21"
+original_signed_date: "2000-01-27"
+original_published_date: "2000-01-31"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-02-01"
+jci_1_3: "jci1.3:c:BWBR0011124&z=2000-02-01&g=2000-02-01"
+jci_1_0: "1.0:c:BWBR0011124&g=2000-02-01"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering vervoermanagement"
+signed_date: "2000-01-27"
+entry_into_force: "2000-02-01"
 ---
-
 # Houdende regels met betrekking tot het verstrekken van een specifieke uitkering aan provincies in het jaar 2000 ten behoeve van vervoermanagement
 
 Gelet op [artikel 17, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 Aan een provincie wordt in het uitkeringsjaar een specifieke uitkering verstrekt met als doel:
 
@@ -28,7 +53,7 @@ Aan een provincie wordt in het uitkeringsjaar een specifieke uitkering verstrekt
 
 - c. aan binnen de provincie gevestigde bedrijven en instellingen ten behoeve van vervoermanagement een adequaat voorzieningenniveau te bieden, zoals op het tijdstip van inwerkingtreding van deze regeling werd geboden door de van Rijkswege opgezette vervoermanagementcentra.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De uitkering wordt door de minister voor 15 februari 2000 verleend onder voorwaarde dat voldoende gelden beschikbaar zijn gesteld.
 
@@ -38,7 +63,7 @@ Groningen 75 Friesland 75 Drenthe 75 Overijssel 160 Flevoland 60 Gelderland 575 
 
 3. [Artikel 4:48 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48) is van overeenkomstige toepassing, met uitzondering van het eerste lid, onderdeel c.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De provincie besteedt de verstrekte uitkering aan activiteiten ten behoeve van het doel van de uitkering.
 
@@ -58,13 +83,13 @@ Groningen 75 Friesland 75 Drenthe 75 Overijssel 160 Flevoland 60 Gelderland 575 
 
 4. De in het derde lid bedoelde accountantsverklaring wordt vastgesteld aan de hand van het door de minister vastgestelde controleprotocol.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Binnen vier weken na de beschikking tot verlening wordt een voorschot betaald.
 
 2. Het voorschot bedraagt 70% van het verleende uitkeringsbedrag.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor zover na 31 december 2000 de verleende uitkering niet is besteed ten behoeve van het doel van de uitkering, kan ze worden gereserveerd.
 
@@ -72,27 +97,27 @@ Groningen 75 Friesland 75 Drenthe 75 Overijssel 160 Flevoland 60 Gelderland 575 
 
 3. De gereserveerde bedragen dienen voor 31 juli 2001 ten behoeve van het doel van de uitkering te zijn besteed.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De minister stelt de uitkering vast binnen zestien weken na ontvangst van een verantwoording als bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011124&artikel=4&z=2000-02-01&g=2000-02-01). Indien niet wordt voldaan aan [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011124&artikel=4&z=2000-02-01&g=2000-02-01), stelt de minister de uitkering voor 1 september 2001 vast.
 
 2. De [artikelen 4:46, met uitzondering van het tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), en [4:49 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) zijn van overeenkomstige toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het uitkeringsbedrag wordt overeenkomstig de vaststelling betaald, onder verrekening van de betaalde voorschotten.
 
 2. Het subsidiebedrag wordt binnen vier weken na de vaststelling betaald.
 
-#### Artikel 9
+##### Artikel 9
 
 Onverschuldigd betaalde uitkeringsbedragen en voorschotten kunnen binnen acht weken na de vaststelling van de uitkering, wijziging of intrekking daarvan worden teruggevorderd.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van 1 februari 2000.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering vervoermanagement.
 

@@ -1,13 +1,36 @@
 ---
-title: "Beleidsregel Tarieventabel Handhaving Centraal Bureau voor de Statistiek 2009"
+title: "Beleidsregel Tarieventabel Handhaving Centraal Bureau voor de Statistiek"
 identifier: "BWBR0033250"
-categorie: "Bestuursrecht"
-publicatiedatum: 2008-12-31
-laatste_update: 2008-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033250"
+country: "nl"
+rank: "zbo"
+publication_date: "2008-12-31"
+last_updated: "2008-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033250"
+soort: "zbo"
+stam_id: "12212883"
+version_id: "20425932"
+internal_id: "C28709151"
+label_id: "12184254"
+dtd_version: "2.0"
+original_entry_into_force: "2008-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033250/2008-12-31/0"
+intitule_bron: "Stcrt.2008-253"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2008-12-31"
+intitule_in_force: "2008-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-253"
+original_published_date: "2008-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-2743"
+entry_into_force_date: "2008-12-31"
+jci_1_3: "jci1.3:c:BWBR0033250&z=2008-12-31&g=2008-12-31"
+jci_1_0: "1.0:c:BWBR0033250&g=2008-12-31"
+citeertitel_status: "redactioneel"
+short_title: "Beleidsregel Tarieventabel Handhaving Centraal Bureau voor de Statistiek 2009"
+entry_into_force: "2008-12-31"
 ---
-
 # Beleidsregel Tarieventabel Handhaving Centraal Bureau voor de Statistiek
 
 ### Algemeen

@@ -1,13 +1,39 @@
 ---
-title: "Belastingregeling voor het land Nederland"
+title: "Besluit van 26 februari 2011 tot vaststelling van het besluit voorkoming dubbele belasting tussen de belastingstelsels van het in Europa gelegen deel van het land Nederland en het in het Caribische gebied gelegen deel van het land Nederland (Belastingregeling voor het land Nederland)"
 identifier: "BWBR0029675"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029675"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029675"
+soort: "AMvB"
+stam_id: "11260533"
+version_id: "18439842"
+internal_id: "C25702221"
+label_id: "11234834"
+dtd_version: "2.0"
+original_entry_into_force: "2011-03-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029675/2025-01-01/0"
+intitule_bron: "Stb.2011-107"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-02-26"
+intitule_published: "2011-03-04"
+intitule_in_force: "2011-03-04"
+intitule_status: "goed"
+original_publication: "Stb.2011-107"
+original_signed_date: "2011-02-26"
+original_published_date: "2011-03-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2011-107"
+entry_into_force_date: "2011-03-05"
+jci_1_3: "jci1.3:c:BWBR0029675&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0029675&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Belastingregeling voor het land Nederland"
+signed_date: "2011-02-26"
+entry_into_force: "2011-03-05"
 ---
-
 # Besluit van 26 februari 2011 tot vaststelling van het besluit voorkoming dubbele belasting tussen de belastingstelsels van het in Europa gelegen deel van het land Nederland en het in het Caribische gebied gelegen deel van het land Nederland (Belastingregeling voor het land Nederland)
 
 Op de voordracht van de Staatssecretaris van Financiën van 17 november 2010, nr. AFP 2010/556;
@@ -24,7 +50,7 @@ Treedt in werking om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius e
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 Voor de toepassing van dit besluit, tenzij de context anders vereist:
 
@@ -52,11 +78,11 @@ Voor de toepassing van dit besluit, tenzij de context anders vereist:
 
 - l. betekent de uitdrukking **Rijk**: het land Nederland, zijnde Nederland en de BES eilanden.
 
-#### Artikel 1.2. Toepassingsbereik
+##### Artikel 1.2. Toepassingsbereik
 
 Dit besluit is van toepassing op personen die inwoner zijn van Nederland of van de BES eilanden.
 
-#### Artikel 1.3. Belastingen waarop het besluit van toepassing is
+##### Artikel 1.3. Belastingen waarop het besluit van toepassing is
 
 Dit besluit is van toepassing op:
 
@@ -82,7 +108,7 @@ Dit besluit is van toepassing op:
 
 - 5°. het aandeel van de Regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de [Mijnwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028161), het [Mijnbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028574) of de [Petroleumwet Saba Bank BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028163).
 
-#### Artikel 1.4. Inwoner
+##### Artikel 1.4. Inwoner
 
 1. Voor de toepassing van dit besluit betekent de uitdrukking «inwoner van een heffingsgebied»:
 
@@ -118,7 +144,7 @@ Dit besluit is van toepassing op:
 
 7. Niettegenstaande het tweede, derde en vijfde lid, wordt een lichaam als bedoeld in het tweede lid, onderdeel d, alleen voor de toepassing van de opbrengstbelasting als bedoeld in [hoofdstuk V van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V), de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) en de [Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515) geacht inwoner van Nederland te zijn. Voor de toepassing van de overige in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=I&artikel=1.3&z=2025-01-01&g=2025-01-01) genoemde belastingen is dit lichaam inwoner van de BES eilanden.
 
-#### Artikel 1.5. Vaste inrichting
+##### Artikel 1.5. Vaste inrichting
 
 1. Voor de toepassing van dit besluit betekent de uitdrukking **vaste inrichting** een vaste bedrijfsinrichting met behulp waarvan de werkzaamheden van een onderneming geheel of gedeeltelijk worden uitgeoefend.
 
@@ -174,7 +200,7 @@ Dit besluit is van toepassing op:
 
 ### Hoofdstuk II. Belastingheffing naar het inkomen
 
-#### Artikel 2.1. Inkomsten uit onroerende zaken
+##### Artikel 2.1. Inkomsten uit onroerende zaken
 
 1. Inkomsten uit onroerende zaken, daaronder begrepen inkomsten uit landbouw- of bosbedrijven, mogen worden belast volgens de in het heffingsgebied waar deze zaken zijn gelegen toepasselijke belastingwetgeving. Niettegenstaande de vorige volzin zijn inkomsten uit onroerende zaken van een lichaam dat ingevolge [artikel 5.2 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=5.2) voor de toepassing van de opbrengstbelasting als bedoeld in [hoofdstuk V van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=V), de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) en de [Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515) wordt geacht in Nederland te zijn gevestigd, slechts belastbaar volgens de Wet op de vennootschapsbelasting 1969 en de Wet op de dividendbelasting 1965.
 
@@ -186,7 +212,7 @@ Dit besluit is van toepassing op:
 
 5. De bepalingen van het eerste en vierde lid zijn ook van toepassing op inkomsten uit onroerende zaken van een onderneming.
 
-#### Artikel 2.2. Winst uit onderneming
+##### Artikel 2.2. Winst uit onderneming
 
 1. Winst van een onderneming van een van de heffingsgebieden is slechts belastbaar volgens de in dat heffingsgebied toepasselijke belastingwetgeving, tenzij de onderneming in het andere heffingsgebied haar bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting. Indien de onderneming aldus haar bedrijf uitoefent, mag de overeenkomstig het tweede lid aan de vaste inrichting toerekenbare winst in het andere heffingsgebied worden belast volgens de aldaar toepasselijke belastingwetgeving.
 
@@ -194,13 +220,13 @@ Dit besluit is van toepassing op:
 
 3. Indien in de winst inkomstenbestanddelen zijn begrepen die afzonderlijk in andere artikelen van dit besluit worden behandeld, worden de bepalingen van die artikelen niet aangetast door de bepalingen van dit artikel.
 
-#### Artikel 2.3. Zee- en luchtvaart
+##### Artikel 2.3. Zee- en luchtvaart
 
 1. Winst verkregen door een onderneming van een van de heffingsgebieden uit de exploitatie van schepen of luchtvaartuigen in het internationale verkeer is slechts belastbaar volgens de in dat heffingsgebied toepasselijke belastingwetgeving.
 
 2. Het eerste lid is ook van toepassing op winst verkregen uit de deelneming in een pool, een gemeenschappelijk bedrijf of een internationaal opererend agentschap.
 
-#### Artikel 2.4. Dividenden
+##### Artikel 2.4. Dividenden
 
 1. Dividenden betaald door een lichaam dat inwoner is van een van de heffingsgebieden aan een inwoner van het andere heffingsgebied mogen volgens de in dat andere heffingsgebied toepasselijke belastingwetgeving worden belast.
 
@@ -220,7 +246,7 @@ Dit besluit is van toepassing op:
 
 9. Dividenden en uitkeringen op winstbewijzen betaald door een lichaam dat inwoner is van een van de heffingsgebieden, daarbij dit besluit buiten beschouwing latend, aan een natuurlijke persoon die inwoner is van het andere heffingsgebied en die bij emigratie uit het eerstgenoemde heffingsgebied is belast ter zake van de waardeaangroei van vermogen als bedoeld in [artikel 2.5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.5&z=2025-01-01&g=2025-01-01), mogen ook worden belast overeenkomstig de in het eerstgenoemde heffingsgebied toepasselijke wetgeving, maar slechts voor een periode van tien jaar na emigratie van de natuurlijke persoon. Deze bepaling geldt slechts zolang er van de aanslag, bedoeld in artikel 2.5, vijfde lid, nog een bedrag openstaat.
 
-#### Artikel 2.5. Vermogenswinsten
+##### Artikel 2.5. Vermogenswinsten
 
 1. Voordelen die een inwoner van een van de heffingsgebieden verkrijgt uit de vervreemding van onroerende zaken als bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.1&z=2025-01-01&g=2025-01-01), die in het andere heffingsgebied zijn gelegen, mogen volgens de in dat andere heffingsgebied toepasselijke belastingwetgeving worden belast. Niettegenstaande de vorige volzin zijn voordelen die een lichaam, dat ingevolge [artikel 5.2 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=5.2) wordt geacht in Nederland te zijn gevestigd, verkrijgt uit de vervreemding van onroerende zaken als bedoeld in artikel 2.1, tweede lid, die op de BES eilanden zijn gelegen, slechts belastbaar volgens de in Nederland toepasselijke belastingwetgeving.
 
@@ -232,7 +258,7 @@ Dit besluit is van toepassing op:
 
 5. Ingeval een natuurlijke persoon inwoner was van een van de heffingsgebieden en inwoner is geworden van het andere heffingsgebied, verhindert de bepaling van het vierde lid niet dat overeenkomstig de in het eerstgenoemde heffingsgebied geldende wetgeving belasting mag worden geheven over de waardeaangroei van aandelen, winstbewijzen, koopopties en vruchtgebruik op aandelen en winstbewijzen in en schuldvorderingen op een lichaam die is ontstaan gedurende de periode van inwonerschap van de natuurlijke persoon in het eerstgenoemde heffingsgebied. De eerste volzin geldt alleen in situaties waarin aan de natuurlijke persoon een aanslag is opgelegd ter zake van de bij diens emigratie uit het eerstgenoemde heffingsgebied aangenomen vervreemding van de in dit artikellid bedoelde aandelen, winstbewijzen, koopopties, vruchtgebruik en schuldvorderingen, zolang er van deze aanslag nog een bedrag openstaat. Ingeval volgens de in het eerstgenoemde heffingsgebied toepasselijke belastingwetgeving de waardeaangroei overeenkomstig de eerste en tweede volzin is belast, zal deze waardeaangroei niet worden opgenomen in de heffingsgrondslag bij een latere bepaling van de waarde van het vermogen voor de in het andere heffingsgebied toepasselijke belastingwetgeving.
 
-#### Artikel 2.6. Inkomsten uit dienstbetrekking
+##### Artikel 2.6. Inkomsten uit dienstbetrekking
 
 1. Onder voorbehoud van de [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.7&z=2025-01-01&g=2025-01-01), [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.9&z=2025-01-01&g=2025-01-01), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.10&z=2025-01-01&g=2025-01-01) en [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.11&z=2025-01-01&g=2025-01-01) zijn salarissen, lonen en andere soortgelijke beloningen verkregen door een inwoner van een van de heffingsgebieden ter zake van een dienstbetrekking slechts volgens de toepasselijke belastingwetgeving in dat heffingsgebied belastbaar, tenzij de dienstbetrekking in het andere heffingsgebied wordt uitgeoefend. Indien de dienstbetrekking aldaar wordt uitgeoefend, mogen de ter zake daarvan verkregen beloningen volgens de toepasselijke belastingwetgeving in dat andere heffingsgebied worden belast.
 
@@ -246,17 +272,17 @@ Dit besluit is van toepassing op:
 
 3. Niettegenstaande het eerste en tweede lid is de beloning verkregen door een inwoner van een van de heffingsgebieden ter zake van een dienstbetrekking uitgeoefend aan boord van een schip of luchtvaartuig dat in het internationale verkeer wordt geëxploiteerd, slechts volgens de toepasselijke belastingwetgeving in dat heffingsgebied belastbaar.
 
-#### Artikel 2.7. Bestuurders- en commissarissenbeloningen
+##### Artikel 2.7. Bestuurders- en commissarissenbeloningen
 
 Beloningen verkregen door een inwoner van een van de heffingsgebieden in zijn hoedanigheid van lid van de raad van beheer, van bestuurder of van commissaris van een lichaam dat inwoner is van het andere heffingsgebied mogen volgens de toepasselijke belastingwetgeving in dat andere heffingsgebied worden belast.
 
-#### Artikel 2.8. Artiesten en sportbeoefenaars
+##### Artikel 2.8. Artiesten en sportbeoefenaars
 
 1. Niettegenstaande de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.2&z=2025-01-01&g=2025-01-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.6&z=2025-01-01&g=2025-01-01) mogen voordelen of inkomsten die een inwoner van een van de heffingsgebieden verkrijgt uit zijn persoonlijke werkzaamheden die hij in het andere heffingsgebied verricht in de hoedanigheid van artiest, zoals toneelspeler, film-, radio- of televisieartiest, of musicus, of in de hoedanigheid van sportbeoefenaar, volgens de toepasselijke belastingwetgeving in dat andere heffingsgebied worden belast.
 
 2. Indien voordelen of inkomsten uit werkzaamheden die een artiest of een sportbeoefenaar persoonlijk en als zodanig verricht niet worden toegekend aan de artiest of aan de sportbeoefenaar zelf maar aan een andere persoon, mogen die inkomsten, niettegenstaande de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.2&z=2025-01-01&g=2025-01-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.6&z=2025-01-01&g=2025-01-01), worden belast volgens de toepasselijke belastingwetgeving in het heffingsgebied waarin de werkzaamheden van de artiest of de sportbeoefenaar worden verricht.
 
-#### Artikel 2.9. Pensioenen, lijfrenten, sociale zekerheidsuitkeringen en alimentatie-uitkeringen
+##### Artikel 2.9. Pensioenen, lijfrenten, sociale zekerheidsuitkeringen en alimentatie-uitkeringen
 
 1. Onder voorbehoud van [artikel 2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.10&z=2025-01-01&g=2025-01-01), zijn pensioenen en andere soortgelijke beloningen alsmede lijfrenten betaald aan een inwoner van een van de heffingsgebieden slechts belastbaar volgens de toepasselijke belastingwetgeving in dat heffingsgebied. Pensioenen en andere al dan niet periodieke uitkeringen krachtens de bepalingen van een sociaalzekerheidsstelsel van een van de heffingsgebieden betaald aan een inwoner van het andere heffingsgebied zijn slechts belastbaar volgens de toepasselijke belastingwetgeving in dat andere heffingsgebied.
 
@@ -268,7 +294,7 @@ Beloningen verkregen door een inwoner van een van de heffingsgebieden in zijn ho
 
 5. Alimentatie-uitkeringen en andere soortgelijke betalingen die afkomstig zijn uit een van de heffingsgebieden en die worden betaald aan een inwoner van het andere heffingsgebied, zijn slechts belastbaar volgens de toepasselijke belastingwetgeving in dat andere heffingsgebied. De uitdrukking **alimentatie-uitkeringen en andere soortgelijke betalingen**, bedoeld in dit lid betekent periodieke uitkeringen ingevolge een wettelijke verplichting tot onderhoud of ingevolge een schriftelijke overeenkomst tot scheiding of een echtscheidingsvonnis, gescheiden onderhoud of verplichte steun dan wel een afkoopsom in plaats daarvan.
 
-#### Artikel 2.10. Overheidsfuncties
+##### Artikel 2.10. Overheidsfuncties
 
 1. Niettegenstaande de bepalingen van [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.9&z=2025-01-01&g=2025-01-01) mogen lonen, salarissen, pensioenen en andere soortgelijke beloningen betaald door:
 
@@ -282,11 +308,11 @@ Beloningen verkregen door een inwoner van een van de heffingsgebieden in zijn ho
 
 3. De [artikelen 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.6&z=2025-01-01&g=2025-01-01), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.7&z=2025-01-01&g=2025-01-01), [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.8&z=2025-01-01&g=2025-01-01) en [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0029675&hoofdstuk=II&artikel=2.9&z=2025-01-01&g=2025-01-01) zijn van toepassing op lonen, salarissen, pensioenen en andere soortgelijke beloningen betaald ter zake van het uitoefenen van een dienstbetrekking in het kader van een op winst gericht bedrijf uitgeoefend door het Rijk, een staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam daarvan.
 
-#### Artikel 2.11. Studenten
+##### Artikel 2.11. Studenten
 
 Bedragen die een student of een voor een beroep of bedrijf in opleiding zijnde persoon – het verkrijgen van bedrijfs- of beroepservaring daaronder begrepen – die inwoner is, of onmiddellijk vóór zijn verblijf in een van de heffingsgebieden inwoner was van het andere heffingsgebied en die uitsluitend voor zijn studie of opleiding in het eerstbedoelde heffingsgebied verblijft, ontvangt ten behoeve van zijn onderhoud, studie of opleiding, worden niet belast volgens de toepasselijke belastingwetgeving in dat heffingsgebied, voor zover die bedragen afkomstig zijn uit bronnen buiten dat heffingsgebied.
 
-#### Artikel 2.12. Overige inkomsten
+##### Artikel 2.12. Overige inkomsten
 
 1. Bestanddelen van het inkomen van een inwoner van een van de heffingsgebieden, van waaruit ook afkomstig, die niet in de voorgaande artikelen van dit besluit zijn behandeld, zijn slechts volgens de toepasselijke belastingwetgeving in dat heffingsgebied belastbaar.
 
@@ -294,7 +320,7 @@ Bedragen die een student of een voor een beroep of bedrijf in opleiding zijnde p
 
 ### Hoofdstuk III. Wijze waarop dubbele belasting wordt vermeden
 
-#### Artikel 3.1. Vermijding van dubbele belasting
+##### Artikel 3.1. Vermijding van dubbele belasting
 
 1. Bij de toepassing van de in Nederland geldende belastingwetgeving mogen bij het heffen van belasting van inwoners van Nederland in de grondslag waarnaar de belasting wordt geheven, de bestanddelen van het inkomen worden begrepen die overeenkomstig dit besluit volgens de op de BES eilanden toepasselijke belastingwetgeving mogen worden belast.
 
@@ -314,11 +340,11 @@ Bedragen die een student of een voor een beroep of bedrijf in opleiding zijnde p
 
 ### Hoofdstuk IV. Slotbepalingen
 
-#### Artikel 4.1. Inwerkingtreding
+##### Artikel 4.1. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2011 om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 05:00 uur in het Europese deel van Nederland.
 
-#### Artikel 4.2. Citeertitel
+##### Artikel 4.2. Citeertitel
 
 Dit besluit kan worden aangehaald als: Belastingregeling voor het land Nederland.
 

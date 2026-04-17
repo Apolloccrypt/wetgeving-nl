@@ -1,13 +1,38 @@
 ---
-title: "Regeling examinatoren voor luchtvarenden 2004"
+title: "Regeling tot vaststelling van een nieuwe regeling voor examinatoren voor luchtvarenden (Regeling examinatoren voor luchtvarenden 2004)"
 identifier: "BWBR0017236"
-categorie: "Milieu"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017236"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017236"
+soort: "ministeriele-regeling"
+stam_id: "6155753"
+version_id: "10823212"
+internal_id: "C14683181"
+label_id: "6145034"
+original_entry_into_force: "2004-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017236/2026-01-01/0"
+intitule_bron: "Stcrt.2004-187"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-09-24"
+intitule_published: "2004-09-29"
+intitule_in_force: "2004-09-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-187"
+original_signed_date: "2004-09-24"
+original_published_date: "2004-09-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-187-p28-SC66777"
+entry_into_force_date: "2004-10-01"
+jci_1_3: "jci1.3:c:BWBR0017236&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0017236&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling examinatoren voor luchtvarenden 2004"
+signed_date: "2004-09-24"
+entry_into_force: "2004-10-01"
 ---
-
 # Regeling tot vaststelling van een nieuwe regeling voor examinatoren voor luchtvarenden (Regeling examinatoren voor luchtvarenden 2004)
 
 Gelet op de [artikelen 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=14), en [15, tweede lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=15);
@@ -16,7 +41,7 @@ Besluit:
 
 ### Hoofdstuk 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -50,7 +75,7 @@ Besluit:
 
 #### § 2.1. Algemeen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan vliegers worden de volgende autorisaties afgegeven:
 
@@ -68,47 +93,47 @@ Besluit:
 
 6. De autorisaties, bedoeld in dit artikel, zijn beperkt tot het bewijs van bevoegdheid en de bevoegdverklaringen, waarvan de examinator houder is en waarvoor hij bevoegd is om instructie te geven.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor examinatoren voor typebevoegdverklaringen voor een luchtvaartuig als bedoeld in bijlage I behorende bij de basisverordening zijn de eisen bedoeld in deel FCL, subdeel K, sectie 1 en sectie 3, van [verordening (EU) nr. 1178/2011](32011R1178) van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 #### § 2.2. Afgifte en verlenging
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een autorisatie tot examinator kan worden afgegeven op voordracht van een geregistreerde dan wel gekwalificeerde opleidingsinstelling of van een luchtvaartmaatschappij en na het Nationaal Expert Team-Praktijk te hebben gehoord.
 
 2. Een voordracht, als bedoeld in het eerste lid, wordt gedaan op een daartoe door de minister verstrekt formulier.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Een autorisatie is ongeldig gedurende de periode dat de examinator niet voldoet aan een of meer eisen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2026-01-01&g=2026-01-01). Indien een dergelijke situatie zich voordoet, is de examinator verplicht dit onverwijld te melden aan de minister.
 
 #### § 2.3. Inhoudelijke eisen
 
-#### Artikel 8
+##### Artikel 8
 
 Een examinator is bevoegd om, indien een kandidaat aan alle voorwaarden heeft voldaan, de desbetreffende bevoegdverklaring te verlengen dan wel hernieuwd af te geven door daarvan namens de minister aantekening te maken op het document, waarop bewijzen van bevoegdheid en bevoegdverklaringen worden weergegeven, en dit document af te tekenen.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
 ### Hoofdstuk 3. Senior-examinatoren
 
-#### Artikel 10
+##### Artikel 10
 
 Er kunnen senior-examinatoren benoemd worden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een senior-examinator heeft de volgende taken:
 
@@ -126,17 +151,17 @@ Er kunnen senior-examinatoren benoemd worden.
 
 2. De taken, bedoeld in het eerste lid, worden slechts uitgeoefend ten aanzien van de autorisatie tot examinator met betrekking waartoe de senior-examinator is benoemd.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een senior-examinator die hetzij niet meer in het bezit is van de autorisatie tot examinator met betrekking waartoe deze als senior-examinator is benoemd, hetzij niet gerechtigd is de bij deze autorisatie behorende bevoegdheden uit te oefenen, oefent geen supervisie uit met betrekking tot acceptatietesten ter verkrijging van een autorisatie tot examinator.
 
 2. Een senior-examinator oefent geen supervisie uit met betrekking tot acceptatietesten respectievelijk beoordeelt niet het afnemen van examens of proeven van bekwaamheid als deze een acceptatietest respectievelijk een examen of proeve van bekwaamheid voor een type- of klassebevoegdheid inhouden en de senior-examinator binnen de relevante autorisatie niet de bevoegdheid heeft tot het examineren voor tenminste één type- of klassebevoegdverklaring.
 
-#### Artikel 13
+##### Artikel 13
 
 Een senior-examinator, die in dienst is van een luchtvaartmaatschappij of opleidingsinstelling, oefent geen supervisie uit met betrekking tot een acceptatietest als deze wordt uitgevoerd door een kandidaat-examinator die in dienst is van dezelfde luchtvaartmaatschappij of opleidingsinstelling.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een senior-examinator kan indien deze een taak uitoefent als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=3&artikel=11&z=2026-01-01&g=2026-01-01) hiervoor een vergoeding declareren bij de minister.
 
@@ -160,7 +185,7 @@ Een senior-examinator, die in dienst is van een luchtvaartmaatschappij of opleid
 
 4. Reis- en verblijfkosten die een senior-examinator in het buitenland maakt worden niet vergoed door de minister. Een senior-examinator, die in dienst is van een luchtvaartmaatschappij of opleidingsinstelling, declareert geen vergoeding bij de minister wanneer hij in het kader van een verlenging van een autorisatie tot examinator, het afnemen van een praktijkexamen of proeve van bekwaamheid door een examinator in dienst van dezelfde luchtvaartmaatschappij of opleidingsinstelling beoordeelt.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Senior-examinatoren worden voor een periode van ten hoogste drie jaren benoemd. Na afloop van deze termijn kunnen zij telkens voor ten hoogste drie jaren worden herbenoemd
 
@@ -176,7 +201,7 @@ Een senior-examinator, die in dienst is van een luchtvaartmaatschappij of opleid
 
 4. Herbenoeming tot senior-examinator vindt niet plaats als de betrokkene de leeftijd van 65 jaar heeft bereikt.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Om in aanmerking te kunnen komen voor een benoeming tot senior-examinator met betrekking tot een bepaalde autorisatie tot examinator:
 
@@ -188,7 +213,7 @@ Een senior-examinator, die in dienst is van een luchtvaartmaatschappij of opleid
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 De volgende regelingen worden ingetrokken:
 
@@ -196,17 +221,17 @@ De volgende regelingen worden ingetrokken:
 
 - b. [Regeling senior-examinatoren voor luchtvarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0012780).
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling treedt in werking met ingang van 1 oktober 2004. Indien de Staatscourant, waarin deze regeling wordt geplaatst, wordt uitgegeven na 29 september 2004, treedt zij in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 oktober 2004.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze regeling wordt aangehaald als: Regeling examinatoren voor luchtvarenden 2004.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust tevens op [artikel 1.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5).
 

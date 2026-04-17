@@ -1,14 +1,42 @@
 ---
-title: "Wet tot samenvoeging van de gemeenten Oss en Ravenstein"
+title: "Wet van 18 april 2002 tot samenvoeging van de gemeenten Oss en Ravenstein"
 identifier: "BWBR0013620"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-07-01
-laatste_update: 2002-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013620"
+country: "nl"
+rank: "wet"
+publication_date: "2002-07-01"
+last_updated: "2002-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013620"
+soort: "wet"
+stam_id: "1973473"
+version_id: "2923152"
+internal_id: "C14347561"
+label_id: "1922764"
+dtd_version: "2.0"
+original_entry_into_force: "2002-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013620/2002-07-01/0"
+intitule_bron: "Stb.2002-284"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-04-18"
+intitule_published: "2002-06-13"
+intitule_in_force: "2002-06-13"
+intitule_status: "goed"
+original_publication: "Stb.2002-284"
+original_signed_date: "2002-04-18"
+original_published_date: "2002-06-13"
+original_effect: "nieuwe-regeling"
+original_dossier: "28096"
+original_url_id: "stb-2002-284"
+entry_into_force_date: "2002-07-01"
+entry_into_force_dossier: "28096"
+jci_1_3: "jci1.3:c:BWBR0013620&z=2002-07-01&g=2002-07-01"
+jci_1_0: "1.0:c:BWBR0013620&g=2002-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet tot samenvoeging van de gemeenten Oss en Ravenstein"
+signed_date: "2002-04-18"
+entry_into_force: "2002-07-01"
 ---
-
-# Wet tot samenvoeging van de gemeenten Oss en Ravenstein
+# Wet van 18 april 2002 tot samenvoeging van de gemeenten Oss en Ravenstein
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,25 +46,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf 1. Opheffing en instelling van gemeenten
 
-#### Artikel 1
+##### Artikel 1
 
 Met ingang van de datum van herindeling worden de gemeenten Oss en Ravenstein opgeheven.
 
-#### Artikel 2
+##### Artikel 2
 
 Met ingang van de datum van herindeling wordt de nieuwe gemeente Oss ingesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 De nieuwe gemeente Oss bestaat uit het grondgebied van de op te heffen gemeenten Oss en Ravenstein, zoals aangegeven op de bij deze wet behorende kaart.
 
 #### Paragraaf 2. Overige bepalingen
 
-#### Artikel 4
+##### Artikel 4
 
 Voor de nieuwe gemeente Oss wordt de op te heffen gemeente Oss aangewezen voor de toepassing van [artikel 36 van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=36), in verband met de toepassing van de instructies en reglementen, bedoeld in dat artikel.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor de op te heffen gemeenten Oss en Ravenstein wordt de nieuwe gemeente Oss aangewezen voor de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718):
 
@@ -54,7 +82,7 @@ Voor de op te heffen gemeenten Oss en Ravenstein wordt de nieuwe gemeente Oss aa
 
 - g. [artikel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=71), in verband met de overgang van de gemeentelijke basisadministratie persoonsgegevens.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor de nieuwe gemeente Oss die bij deze wet wordt ingesteld, wordt een tussentijdse raadsverkiezing gehouden als bedoeld in [artikel 52, tweede lid, onderdeel a, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=52).
 
@@ -64,15 +92,15 @@ Voor de op te heffen gemeenten Oss en Ravenstein wordt de nieuwe gemeente Oss aa
 
 4. De zittingsperiode van de leden van de raad van de nieuwe gemeente eindigt in de in het derde lid bedoelde situatie gelijk met de zittingsperiode van de leden van de raden van de overige gemeenten die volgt op de eerste verkiezingen voor de gemeenteraden na de datum van herindeling.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Wet op de rechterlijke indeling.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Politiewet 1993.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

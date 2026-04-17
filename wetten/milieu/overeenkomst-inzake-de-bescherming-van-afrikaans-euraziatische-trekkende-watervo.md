@@ -1,13 +1,37 @@
 ---
 title: "Overeenkomst inzake de bescherming van Afrikaans-Euraziatische trekkende watervogels"
 identifier: "BWBV0001249"
-categorie: "Milieu"
-publicatiedatum: 2022-12-29
-laatste_update: 2002-12-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001249"
+country: "nl"
+rank: "verdrag"
+publication_date: "2022-12-29"
+last_updated: "2002-12-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001249"
+soort: "verdrag"
+stam_id: "10001078543"
+version_id: "10001106862"
+internal_id: "C10006988631"
+label_id: "10001078924"
+original_entry_into_force: "1999-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001249/2022-12-29/0"
+intitule_bron: "Trb.1996-285"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-08-15"
+intitule_published: "1996-10-18"
+intitule_in_force: "2005-01-26"
+intitule_status: "goed"
+original_publication: "Trb.1996-285"
+original_signed_date: "1996-08-15"
+original_published_date: "1996-10-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1996-285"
+entry_into_force_date: "1999-11-01"
+jci_1_3: "jci1.3:c:BWBV0001249&z=2022-12-29&g=2022-12-29"
+jci_1_0: "1.0:c:BWBV0001249&g=2022-12-29"
+citeertitel_status: "officieel"
+signed_date: "1996-08-15"
+entry_into_force: "1999-11-01"
 ---
-
 # Overeenkomst inzake de bescherming van Afrikaans-Euraziatische trekkende watervogels
 
 The Contracting Parties,
@@ -32,7 +56,7 @@ Acknowledging that effective implementation of such an Agreement will require as
 
 Have agreed as follows:
 
-#### Article I. Scope, Definitions and Interpretation
+##### Article I. Scope, Definitions and Interpretation
 
 1. The geographic scope of this Agreement is the area of the migration systems of African-Eurasian waterbirds, as defined in Annex 1 to this Agreement, hereafter referred to as the “Agreement Area”.
 
@@ -56,13 +80,13 @@ In addition, the terms defined in [Article I, subparagraphs 1(a) to (k), of the 
 
 4. The annexes to this Agreement form an integral part thereof. Any reference to the Agreement includes a reference to its annexes.
 
-#### Article II. Fundamental Principles
+##### Article II. Fundamental Principles
 
 1. Parties shall take co-ordinated measures to maintain migratory waterbird species in a favourable conservation status or to restore them to such a status. To this end, they shall apply within the limits of their national jurisdiction the measures prescribed in Article III, together with the specific actions determined in the Action Plan provided for in Article IV, of this Agreement.
 
 2. In implementing the measures prescribed in paragraph 1 above, Parties should take into account the precautionary principle.
 
-#### Article III. General Conservation Measures
+##### Article III. General Conservation Measures
 
 1. The Parties shall take measures to conserve migratory waterbirds, giving special attention to endangered species as well as to those with an unfavourable conservation status.
 
@@ -92,7 +116,7 @@ In addition, the terms defined in [Article I, subparagraphs 1(a) to (k), of the 
 
 - l). cooperate with a view to assisting each other to implement this Agreement, particularly in the areas of research and monitoring.
 
-#### Article IV. Action Plan and Conservation Guidelines
+##### Article IV. Action Plan and Conservation Guidelines
 
 1. An Action Plan is appended as Annex 3 to this Agreement. It specifies actions which the Parties shall undertake in relation to priority species and issues, under the following headings, consistent with the general conservation measures specified in Article III of this Agreement:
 
@@ -114,7 +138,7 @@ In addition, the terms defined in [Article I, subparagraphs 1(a) to (k), of the 
 
 4. The Conservation Guidelines shall be submitted to the Meeting of the Parties for adoption at its first session, and shall be regularly reviewed.
 
-#### Article V. Implementation and Financing
+##### Article V. Implementation and Financing
 
 1. Each Party shall:
 
@@ -132,7 +156,7 @@ In addition, the terms defined in [Article I, subparagraphs 1(a) to (k), of the 
 
 4. Parties are encouraged to provide training and technical and financial support to other Parties on a multilateral or bilateral basis to assist them in implementing the provisions of this Agreement.
 
-#### Article VI. Meeting of the Parties
+##### Article VI. Meeting of the Parties
 
 1. The Meeting of the Parties shall be the decision-making body of this Agreement.
 
@@ -186,7 +210,7 @@ In addition, the terms defined in [Article I, subparagraphs 1(a) to (k), of the 
 
 - f). decide on any other matter relating to the implementation of this Agreement.
 
-#### Article VII. Technical Committee
+##### Article VII. Technical Committee
 
 1. The Technical Committee shall comprise:
 
@@ -214,7 +238,7 @@ The procedure for the appointment of the experts, the term of their appointment 
 
 5. The Technical Committee may establish such working groups as may be necessary to deal with specific tasks.
 
-#### Article VIII. Agreement Secretariat
+##### Article VIII. Agreement Secretariat
 
 The functions of the Agreement secretariat shall be:
 
@@ -240,7 +264,7 @@ The functions of the Agreement secretariat shall be:
 
 - k). to perform such other functions as may be entrusted to it under the Agreement or by the Meeting of the Parties.
 
-#### Article IX. Relations with International Bodies dealing with Migratory Waterbirds and their Habitats
+##### Article IX. Relations with International Bodies dealing with Migratory Waterbirds and their Habitats
 
 The Agreement secretariat shall consult:
 
@@ -250,7 +274,7 @@ The Agreement secretariat shall consult:
 
 - c). other organizations competent in the field of conservation, including protection and management, of migratory waterbirds and their habitats, as well as in the fields of research, education and awareness raising.
 
-#### Article X. Amendment of the Agreement
+##### Article X. Amendment of the Agreement
 
 1. This Agreement may be amended at any ordinary or extraordinary session of the Meeting of the Parties.
 
@@ -264,19 +288,19 @@ The Agreement secretariat shall consult:
 
 6. During the period of ninety days provided for in paragraph 5 of this Article, any Party may by written notification to the Depositary enter a reservation with respect to an additional annex or an amendment to an annex. Such reservation may be withdrawn at any time by written notification to the Depositary, and thereupon the additional annex or the amendment shall enter into force for that Party on the thirtieth day after the date of withdrawal of the reservation.
 
-#### Article XI. Effect of this Agreement on International Conventions and Legislation
+##### Article XI. Effect of this Agreement on International Conventions and Legislation
 
 1. The provisions of this Agreement do not affect the rights and obligations of any Party deriving from existing international treaties, conventions or agreements.
 
 2. The provisions of this Agreement shall in no way affect the right of any Party to maintain or adopt stricter measures for the conservation of migratory waterbirds and their habitats.
 
-#### Article XII. Settlement of Disputes
+##### Article XII. Settlement of Disputes
 
 1. Any dispute which may arise between two or more Parties with respect to the interpretation or application of the provisions of this Agreement shall be subject to negotiation between the Parties involved in the dispute.
 
 2. If the dispute cannot be resolved in accordance with paragraph 1 of this Article, the Parties may, by mutual consent, submit the dispute to arbitration, in particular that of the Permanent Court of Arbitration at The Hague, and the Parties submitting the dispute shall be bound by the arbitral decision.
 
-#### Article XIII. Signature, Ratification, Acceptance, Approval, Accession
+##### Article XIII. Signature, Ratification, Acceptance, Approval, Accession
 
 1. This Agreement shall be open for signature by any Range State, whether or not areas under its jurisdiction lie within the Agreement Area, or regional economic integration organization, at least one member of which is a Range State, either by:
 
@@ -290,7 +314,7 @@ The Agreement secretariat shall consult:
 
 4. Instruments of ratification, acceptance, approval or accession shall be deposited with the Depositary.
 
-#### Article XIV. Entry into Force
+##### Article XIV. Entry into Force
 
 1. This Agreement shall enter into force on the first day of the third month after at least fourteen Range States or regional economic integration organizations, comprising at least seven from Africa and seven from Eurasia, have signed without reservation in respect of ratification, acceptance or approval, or have deposited their instruments of ratification, acceptance or approval in accordance with Article XIII of this Agreement.
 
@@ -304,15 +328,15 @@ The Agreement secretariat shall consult:
 
 this Agreement after the date on which the number of Range States and regional economic integration organizations necessary to enable entry into force have signed it without reservation or have ratified, accepted or approved it, this Agreement shall enter into force on the first day of the third month following the signature without reservation, or deposit, by that State or organization, of its instrument of ratification, acceptance, approval or accession.
 
-#### Article XV. Reservations
+##### Article XV. Reservations
 
 The provisions of this Agreement shall not be subject to general reservations. However, a specific reservation may be entered by any State or regional economic integration organization on signature without reservation in respect of ratification, acceptance or approval or, as the case may be, on depositing its instrument of ratification, acceptance, approval or accession in respect of any species covered by the Agreement or any specific provision of the Action Plan. Such a reservation may be withdrawn at any time by the State or regional economic integration organization which had entered it, by notification in writing to the Depositary; such a State or organization shall not be bound by the provisions which are the object of the reservation until thirty days after the date on which the reservation has been withdrawn.
 
-#### Article XVI. Denunciation
+##### Article XVI. Denunciation
 
 Any Party may denounce this Agreement by written notification to the Depositary at any time. The denunciation shall take effect twelve months after the date on which the Depositary has received the notification.
 
-#### Article XVII. Depositary
+##### Article XVII. Depositary
 
 1. The original of this Agreement, in the Arabic, English, French and Russian languages, each version being equally authentic, shall be deposited with the Government of the Kingdom of the Netherlands which shall be the Depositary. The Depositary shall transmit certified copies of these versions to all States and regional economic integration organizations referred to in Article XIII, paragraph 1, of this Agreement, and to the Agreement secretariat after it has been established.
 

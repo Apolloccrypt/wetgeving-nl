@@ -1,18 +1,40 @@
 ---
 title: "Overeenkomst tussen de Bondsregering van de Republiek Oostenrijk, enerzijds, en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, anderzijds, betreffende de overname van personen aan de grens"
 identifier: "BWBV0004481"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1965-04-01
-laatste_update: 1965-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004481"
+country: "nl"
+rank: "verdrag"
+publication_date: "1965-04-01"
+last_updated: "1965-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004481"
+soort: "verdrag"
+stam_id: "10004159203"
+version_id: "10004328892"
+internal_id: "C10006999681"
+label_id: "10004144224"
+dtd_version: "2.0"
+original_entry_into_force: "1965-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004481/1965-04-01/0"
+intitule_bron: "Trb.1965-60"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1965-05-14"
+intitule_in_force: "1965-05-14"
+intitule_status: "goed"
+original_publication: "Trb.1965-60"
+original_published_date: "1965-05-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1965-60"
+entry_into_force_date: "1965-04-01"
+jci_1_3: "jci1.3:c:BWBV0004481&z=1965-04-01&g=1965-04-01"
+jci_1_0: "1.0:c:BWBV0004481&g=1965-04-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1965-04-01"
 ---
-
 # Overeenkomst tussen de Bondsregering van de Republiek Oostenrijk, enerzijds, en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, anderzijds, betreffende de overname van personen aan de grens
 
 Met het doel het wederzijds overnemen van personen aan de grens in een geest van vriendschap te regelen, zijn de Bondsregering van de Republiek Oostenrijk enerzijds, en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, die op grond van de op 11 april 1960 tussen hen gesloten [Overeenkomst inzake de verlegging van de personencontrole naar de buitengrenzen van het Benelux-gebied](https://wetten.overheid.nl/jci1.3:c:BWBV0005246), gemeenschappelijk optreden, anderzijds, als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 a). De bevoegde autoriteiten van de Republiek Oostenrijk nemen Oostenrijkse onderdanen, die de Belgische, Luxemburgse of Nederlandse autoriteiten voornemens zijn te verwijderen, over zonder formaliteiten en zonder tussenkomst van de bevoegde Oostenrijkse vertegenwoordiging in België, Luxemburg of Nederland mits hun nationaliteit kan worden aangetoond of aannemelijk kan worden gemaakt.
 
@@ -24,7 +46,7 @@ d). Indien de bepalingen van lid a) op een Oostenrijkse onderdaan die de leeftij
 
 e). Indien de Oostenrijkse nationaliteit niet krachtens de leden a) en b) kan worden aangetoond of aannemelijk gemaakt, doch er niettemin omstandigheden aanwezig zijn die het vermoeden opleveren dat de betrokkene de Oostenrijkse nationaliteit bezit, dan geschiedt de overname op grond van een formele verklaring van overname. Het verzoek tot overname moet worden ingediend bij de bevoegde Oostenrijkse diplomatieke vertegenwoordiging in België, Luxemburg of Nederland, die binnen een maand na de datum van indiening van dit verzoek het Ministerie van Buitenlandse Zaken van de desbetreffende Staat de verklaring van overname doet toekomen of dit Ministerie mededeling doet van de redenen waarom overname niet kan plaatsvinden.
 
-#### Artikel 2
+##### Artikel 2
 
 a). De bevoegde autoriteiten van de Republiek Oostenrijk nemen personen die geen onderdaan zijn van een der Overeenkomstsluitende Staten, over op verzoek van de Belgische, Luxemburgse of Nederlandse autoriteiten, indien deze personen ten hoogste zes maanden vóór de indiening van dit verzoek Oostenrijk na een verblijf van tenminste twee weken hebben verlaten, en België, Luxemburg of Nederland op ongeoorloofde wijze zijn binnengekomen.
 
@@ -36,7 +58,7 @@ d). Een geldige verblijfsontzegging of uitwijzing of verwijdering van Oostenrijk
 
 e). De verplichting tot overname bestaat niet ten aanzien van onderdanen van een derde Staat die een gemeenschappelijke grens met België, Luxemburg of Nederland heeft, tenzij gegronde redenen aanwezig zijn om niet tot hun verwijdering naar het grondgebied van die Staat over te gaan.
 
-#### Artikel 3
+##### Artikel 3
 
 a). Belgische, Luxemburgse of Nederlandse onderdanen die de Oostenrijkse autoriteiten voornemens zijn te verwijderen, worden, mits hun nationaliteit kan worden aangetoond of aannemelijk kan worden gemaakt, door hun respectieve Regeringen zonder formaliteiten en zonder tussenkomst van de bevoegde vertegenwoordiging in Oostenrijk overgenomen.
 
@@ -52,7 +74,7 @@ f). Indien de bepalingen van lid a) op een Belgische, Luxemburgse of Nederlandse
 
 g). Indien de Belgische, Luxemburgse of Nederlandse nationaliteit niet krachtens de leden a) tot en met d) kan worden aangetoond of aannemelijk gemaakt, doch er niettemin omstandigheden aanwezig zijn, die het vermoeden opleveren dat de betrokkene een van deze nationaliteiten bezit, dan geschiedt de overname op grond van een formele verklaring van overname. Het verzoek tot overname dient bij de Belgische of Nederlandse diplomatieke vertegenwoordiging of bij het Luxemburgse Consulaat-Generaal in Oostenrijk, naar gelang de aard van het geval, te worden ingediend. De betrokken autoriteiten doen binnen een maand na de datum van indiening van het verzoek het Bondsministerie van Buitenlandse Zaken van de Republiek Oostenrijk de verklaring van overname toekomen of doen dit Ministerie mededeling van de redenen waarom overname niet kan plaatsvinden.
 
-#### Artikel 4
+##### Artikel 4
 
 a). De Belgische, Luxemburgse of Nederlandse Regering, naar gelang de aard van het geval, zal personen die geen onderdaan van een der Overeenkomstsluitende Staten zijn, op verzoek van de Oostenrijkse autoriteiten overnemen, indien deze personen minder dan zes maanden vóór de indiening van dit verzoek België, Luxemburg of Nederland na een verblijf van tenminste twee weken hebben verlaten en Oostenrijk op ongeoorloofde wijze zijn binnengekomen.
 
@@ -64,7 +86,7 @@ d). Een maatregel tot verwijdering uit het Belgische, Luxemburgse of Nederlandse
 
 e). De verplichting tot overname bestaat niet ten aanzien van onderdanen van een Staat die een gemeenschappelijke grens met de Republiek Oostenrijk heeft, tenzij gegronde redenen aanwezig zijn om niet tot hun verwijdering naar het grondgebied van die Staat over te gaan.
 
-#### Artikel 5
+##### Artikel 5
 
 a). De Bondsregering van de Republiek Oostenrijk enerzijds, en de Belgische, Luxemburgse en Nederlandse Regering, anderzijds, verklaren zich bereid te voldoen aan verzoeken van de autoriteiten van de andere Partij tot doorgeleiding van personen die niet de nationaliteit van een der Overeenkomstsluitende Staten bezitten en ten aanzien van wie een administratieve maatregel tot verwijdering wordt toegepast, indien overname door de Staat van bestemming en, in voorkomende gevallen, de doorreis door andere Staten verzekerd is.
 
@@ -78,19 +100,19 @@ c). Een verzoek tot doorgeleiding wordt door de diplomatieke vertegenwoordiging 
 
 d). De voor doorgeleiding overgenomen persoon kan te allen tijde aan de autoriteiten van de Staat die de verwijdering heeft gelast worden teruggegeven, indien later feiten bekend worden of zich voordoen, die doorgeleiding in de weg staan of indien een andere Staat van doorreis of de Staat van bestemming weigert de betrokkene over te nemen.
 
-#### Artikel 6
+##### Artikel 6
 
 De kosten van verwijdering tot aan de grens van de Staat van bestemming, daarbij inbegrepen de kosten verbonden aan de doorgeleiding aan1)[Red: Lees: door.]derde Staten, alsmede de kosten verbonden aan een eventuele terugwijzing, worden gedragen door de Staat die de verwijdering heeft gelast.
 
-#### Artikel 7
+##### Artikel 7
 
 De voorgaande bepalingen maken in geen enkel opzicht inbreuk op de regelingen betreffende uitlevering tussen de Republiek Oostenrijk, enerzijds, en het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, anderzijds.
 
-#### Artikel 8
+##### Artikel 8
 
 Ten aanzien van het Koninkrijk der Nederlanden geldt deze Overeenkomst slechts voor het in Europa gelegen deel van deze Staat. Zij kan evenwel met wederzijds goedvinden, vastgelegd in een notawisseling tussen de Bondsregering van de Republiek Oostenrijk en de Regering van het Koninkrijk der Nederlanden, tot elk der buiten Europa gelegen delen van het Koninkrijk der Nederlanden worden uitgebreid. In deze notawisseling wordt het tijdstip bepaald waarop deze uitbreiding van kracht wordt; dit wordt aan de andere Overeenkomstsluitende Staten medegedeeld.
 
-#### Artikel 9
+##### Artikel 9
 
 1). Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand volgende op de datum van ondertekening.
 

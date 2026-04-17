@@ -1,14 +1,40 @@
 ---
-title: "Wet BDU verkeer en vervoer"
+title: "Wet van 23 december 2004, houdende regels met betrekking tot het verstrekken van een brede doeluitkering aan provincies en regionaal openbare lichamen ten behoeve van de uitvoering van een integraal verkeer- en vervoerbeleid (Wet BDU verkeer en vervoer)"
 identifier: "BWBR0017828"
-categorie: "Verkeer"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017828"
+country: "nl"
+rank: "wet"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017828"
+soort: "wet"
+stam_id: "6663323"
+version_id: "11498212"
+internal_id: "C15806551"
+label_id: "6652024"
+original_entry_into_force: "2005-03-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017828/2018-01-01/0"
+intitule_bron: "Stb.2005-28"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-23"
+intitule_published: "2005-01-25"
+intitule_in_force: "2005-03-15"
+intitule_status: "goed"
+original_publication: "Stb.2005-28"
+original_signed_date: "2004-12-23"
+original_published_date: "2005-01-25"
+original_effect: "nieuwe-regeling"
+original_dossier: "29469"
+original_url_id: "stb-2005-28"
+entry_into_force_date: "2005-03-16"
+jci_1_3: "jci1.3:c:BWBR0017828&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0017828&g=2018-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet BDU verkeer en vervoer"
+signed_date: "2004-12-23"
+entry_into_force: "2005-03-16"
 ---
-
-# Wet BDU verkeer en vervoer
+# Wet van 23 december 2004, houdende regels met betrekking tot het verstrekken van een brede doeluitkering aan provincies en regionaal openbare lichamen ten behoeve van de uitvoering van een integraal verkeer- en vervoerbeleid (Wet BDU verkeer en vervoer)
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -22,27 +48,27 @@ bron: "https://wetten.overheid.nl/BWBR0017828"
 
 ### Hoofdstuk 6. Wijziging andere wetten
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt de Wet personenvervoer 2000.
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt de Kaderwet bestuur in verandering.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt de Wet Infrastructuurfonds.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Wet verontreiniging oppervlaktewateren.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt de Spoorwegwet.
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt de Wet kabelbaaninstallaties.
 
@@ -58,7 +84,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is verscheidene uitkeri
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -74,11 +100,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. verkeer- en vervoerbeleid: het samenstel van maatregelen gericht op aanleg, verbetering van de functionaliteit en op de instandhouding van de gebruiksfunctie van onroerende voorzieningen ten behoeve van het vervoer van personen en goederen, op exploitatie van openbaar en daarmee gelijkgesteld vervoer als bedoeld in de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470), op verkeersveiligheid en op de overige maatregelen gericht op beïnvloeden van de keuze van een vervoersmodaliteit.
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister verstrekt jaarlijks voor het uitkeringsjaar aan een openbaar lichaam een brede doeluitkering ten behoeve van de voorbereiding en de uitvoering van het regionaal verkeer- en vervoerbeleid in het krachtens [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20) aangewezen gebied.
 
@@ -90,7 +116,7 @@ Vervallen
 
 - c. een provincie ten behoeve van de kosten van de aanleg van provinciale wegen binnen een krachtens [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20) aangewezen gebied.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De uitkering wordt niet aangewend voor kosten van algemeen bestuurlijke aard.
 
@@ -98,7 +124,7 @@ Vervallen
 
 ### Hoofdstuk 3. Berekening van de uitkering
 
-#### Artikel 5
+##### Artikel 5
 
 1. De verdeling over de openbare lichamen van het voor het totaal van de uitkeringen beschikbare bedrag is gebaseerd op bij algemene maatregel van bestuur vastgestelde gebiedsgerichte structuurkenmerken en andere kenmerken.
 
@@ -118,19 +144,19 @@ Vervallen
 
 ### Hoofdstuk 4. Besteding van de uitkering
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het dagelijks bestuur kan een gedeelte van de uitkering reserveren voor het doen van uitgaven in de jaren die volgen op het uitkeringsjaar.
 
@@ -140,11 +166,11 @@ Vervallen
 
 ### Hoofdstuk 5. Verantwoording over de uitkering
 
-#### Artikel 10
+##### Artikel 10
 
 Het openbaar lichaam legt financiële verantwoording af over de besteding en reservering ten laste van de uitkering op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onze Minister kan een uitkering ten nadele van het openbaar lichaam wijzigen indien:
 
@@ -156,17 +182,17 @@ Het openbaar lichaam legt financiële verantwoording af over de besteding en res
 
 3. De wijziging van de uitkering ten nadele van het openbaar lichaam vindt plaats binnen vijf jaar na het einde van het uitkeringsjaar.
 
-#### Artikel 12
+##### Artikel 12
 
 Onverschuldigde betalingen gedaan in het kader van de toepassing van deze wet kunnen door Onze Minister binnen zes jaar worden verrekend met de betalingen op grond van deze wet.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het dagelijks bestuur verstrekt desgevraagd inlichtingen omtrent de besteding en de reservering ten laste van de uitkering aan de accountant die in opdracht van Onze Minister met de controle hiernaar is belast.
 
 2. De accountant, bedoeld in het eerste lid, kan ten aanzien van de financiële verantwoording door het openbaar lichaam tevens informatie inwinnen bij de accountant die belast is met de controle van het openbaar lichaam.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het dagelijks bestuur verstrekt aan Onze Minister desgevraagd informatie met het oog op:
 
@@ -176,7 +202,7 @@ Onverschuldigde betalingen gedaan in het kader van de toepassing van deze wet ku
 
 2. Onze Minister kan nadere regels stellen over de aard van de informatie, bedoeld in het eerste lid, en de wijze van verstrekking ervan.
 
-#### Artikel 15
+##### Artikel 15
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
@@ -184,27 +210,27 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 
 ### Hoofdstuk 7. Overgangsrecht
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 1. Wijzigt de Spoorwegwet.
 
@@ -212,17 +238,17 @@ Vervallen
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 28
+##### Artikel 28
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 29
+##### Artikel 29
 
 1. [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=6&artikel=19&z=2018-01-01&g=2018-01-01) werkt terug tot en met 1 juli 2002.
 
 2. [Artikel 20, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&hoofdstuk=6&artikel=20&z=2018-01-01&g=2018-01-01), werkt terug tot en met de datum van inwerkingtreding van de in dat artikel genoemde bepalingen van de Spoorwegwet (Stb. 2003, 264).
 
-#### Artikel 30
+##### Artikel 30
 
 Deze wet wordt aangehaald als: Wet BDU verkeer en vervoer
 

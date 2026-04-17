@@ -1,13 +1,40 @@
 ---
-title: "Implementatiebesluit verordening instantovermakingen in euro’s"
+title: "Besluit van 27 oktober 2025 tot wijziging van het Besluit prudentiële regels Wft in verband met de implementatie van Verordening (EU) 2024/886 betreffende instantovermakingen in euro’s (Implementatiebesluit verordening instantovermakingen in euro’s)"
 identifier: "BWBR0051735"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-11-19
-laatste_update: 2025-11-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051735"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-11-19"
+last_updated: "2025-11-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051735"
+soort: "AMvB"
+stam_id: "17591813"
+version_id: "31041302"
+internal_id: "C44492661"
+label_id: "17492484"
+dtd_version: "2.0"
+original_entry_into_force: "2025-11-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051735/2025-11-19/0"
+intitule_bron: "Stb.2025-340"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-27"
+intitule_published: "2025-11-11"
+intitule_in_force: "2025-11-18"
+intitule_status: "goed"
+original_publication: "Stb.2025-340"
+original_signed_date: "2025-10-27"
+original_published_date: "2025-11-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2025-340"
+entry_into_force_date: "2025-11-19"
+entry_into_force_dossier: "36701"
+jci_1_3: "jci1.3:c:BWBR0051735&z=2025-11-19&g=2025-11-19"
+jci_1_0: "1.0:c:BWBR0051735&g=2025-11-19"
+citeertitel_status: "officieel"
+short_title: "Implementatiebesluit verordening instantovermakingen in euro’s"
+signed_date: "2025-10-27"
+entry_into_force: "2025-11-19"
 ---
-
 # Besluit van 27 oktober 2025 tot wijziging van het Besluit prudentiële regels Wft in verband met de implementatie van Verordening (EU) 2024/886 betreffende instantovermakingen in euro’s (Implementatiebesluit verordening instantovermakingen in euro’s)
 
 Op de voordracht van Onze Minister van Financiën van 4 september 2025, 2025-0000165068, directie Financiële Markten;
@@ -22,15 +49,15 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop de Implementatiewet verordening inzake instantovermakingen in euro’s in werking treedt.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit prudentiële regels Wft.
 
-#### Artikel II
+##### Artikel II
 
 Dit besluit treedt in werking op het tijdstip waarop de Implementatiewet verordening inzake instantovermakingen in euro’s in werking treedt.
 
-#### Artikel III
+##### Artikel III
 
 Dit besluit wordt aangehaald als: Implementatiebesluit verordening instantovermakingen in euro’s.
 

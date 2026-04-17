@@ -1,24 +1,49 @@
 ---
 title: "Beleidsregel prestatiebeschrijvingen voor extramurale diëtetiek"
 identifier: "BWBR0050752"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050752"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050752"
+soort: "zbo"
+stam_id: "17362613"
+version_id: "30605692"
+internal_id: "C43867431"
+label_id: "17265534"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050752/2026-01-01/0"
+intitule_bron: "Stcrt.2025-4599"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-01-28"
+intitule_published: "2025-02-07"
+intitule_in_force: "2025-02-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-4599"
+original_signed_date: "2025-01-28"
+original_published_date: "2025-02-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-4599"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0050752&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0050752&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-01-28"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel prestatiebeschrijvingen voor extramurale diëtetiek
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
 Gelet op [artikel 59 aanhef en onder b, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) heeft de Minister van Volksgezondheid, Welzijn en Sport met brieven van 29 augustus 2008, [kenmerk CZ/TSZ-2873530](https://wetten.overheid.nl/jci1.3:c:BWBR0024503), en van 14 november 2008, kenmerk CZ/EKZ-2874809, en van 19 december 2008, kenmerk [CZ/EKZ-2901559](https://wetten.overheid.nl/jci1.3:c:BWBR0025143), ten behoeve van de voorliggende beleidsregel aanwijzingen op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7), aan de NZa gegeven.
 
-#### Artikel 1. Doel van de beleidsregel
+##### Artikel 1. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen op het gebied van extramurale diëtetiek.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Deze beleidsregel is van toepassing op diëtistische zorg als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw).
 
@@ -28,7 +53,7 @@ Voor zover geen sprake is van zorg als omschreven in vorige zin, is deze beleids
 
 Deze beleidsregel is niet van toepassing op diëtetiek als intramuraal geleverde prestatie dan wel als onderdeel daarvan.
 
-#### Artikel 3. Prestatiebeschrijvingen
+##### Artikel 3. Prestatiebeschrijvingen
 
 In het kader van deze beleidsregel worden de volgende prestatiebeschrijvingen onderscheiden:
 
@@ -64,7 +89,7 @@ In het kader van deze beleidsregel worden de volgende prestatiebeschrijvingen on
 
 - fp. Facultatieve prestatie
 
-#### Artikel 4. Specifieke bepalingen bij de prestatiebeschrijvingen
+##### Artikel 4. Specifieke bepalingen bij de prestatiebeschrijvingen
 
 De screening bij directe toegang is een kort contact tussen de zorgverlener en de patiënt die zonder verwijzing van een arts naar de zorgverlener gaat. Gedurende de screening inventariseert de zorgverlener de zorgvraag, bepaalt of er een indicatie is voor diëtetiek en verder onderzoek noodzakelijk is, gaat na of er geen contra-indicaties zijn en informeert/adviseert de patiënt.
 
@@ -166,7 +191,7 @@ De NZa beoordeelt de aanvraag op de volgende onderdelen:
 
 Indien de aanvraag niet voldoet aan de gestelde voorwaarden zal de NZa de beoordeling ervan aanhouden totdat de benodigde gegevens zijn ontvangen. Bij een complete aanvraag voor een nieuwe prestatie zal de NZa binnen vier weken na ontvangst van de schriftelijke aanvraag een besluit nemen.
 
-#### Artikel 5. Algemene bepalingen
+##### Artikel 5. Algemene bepalingen
 
 1. De patiënt moet vooraf geïnformeerd zijn over het doel, de kosten en de inhoud van elke prestatie alsmede over het feit dat er, gezien onderstaande uitzonderingen, meerdere prestaties op één dag gedeclareerd kunnen worden.
 
@@ -238,15 +263,15 @@ Indien de aanvraag niet voldoet aan de gestelde voorwaarden zal de NZa de beoord
 
 - f. Indien de zorgverlener en zorgverzekeraar het wenselijk achten dat de prestatie ‘Facultatieve prestatie’ (prestatie fp) gezamenlijk met andere prestaties in rekening kan worden gebracht, dienen zij dit in een overeenkomst vast te leggen.
 
-#### Artikel 6. Tarieven
+##### Artikel 6. Tarieven
 
 Voor de prestaties zoals vastgelegd in deze beleidsregel gelden vrije tarieven.
 
-#### Artikel 7. Intrekking oude beleidsregel
+##### Artikel 7. Intrekking oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel prestatiebeschrijvingen voor extramurale diëtetiek](https://wetten.overheid.nl/jci1.3:c:BWBR0047870), met kenmerk BR/REG-24107, ingetrokken.
 
-#### Artikel 8. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 8. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
 
 De [Beleidsregel prestatiebeschrijvingen voor extramurale diëtetiek](https://wetten.overheid.nl/jci1.3:c:BWBR0047870), met kenmerk BR/REG-24107, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

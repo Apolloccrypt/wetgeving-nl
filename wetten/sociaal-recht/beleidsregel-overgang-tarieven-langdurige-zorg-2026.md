@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel overgang tarieven langdurige zorg 2026"
 identifier: "BWBR0051346"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051346"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051346"
+soort: "zbo"
+stam_id: "17496973"
+version_id: "30857552"
+internal_id: "C44215151"
+label_id: "17399294"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051346/2026-01-01/0"
+intitule_bron: "Stcrt.2025-26191"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-22"
+intitule_published: "2025-08-01"
+intitule_in_force: "2025-08-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-26191"
+original_signed_date: "2025-07-22"
+original_published_date: "2025-08-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-26191"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051346&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051346&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-22"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel overgang tarieven langdurige zorg 2026
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
@@ -18,13 +43,13 @@ aanwijzing van 11 juli 2017 met [kenmerk MC-U-165504](https://wetten.overheid.nl
 
 aanwijzing van 8 december 2014 met [kenmerk 699321-130782-MC](https://wetten.overheid.nl/jci1.3:c:BWBR0036151), gepubliceerd in Staatscourant 2014, 36856.
 
-#### Artikel 1. Doel van de beleidsregel
+##### Artikel 1. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om zorgaanbieders in de gelegenheid te stellen de bedrijfsvoering aan te passen aan de per 1 januari 2026 herijkte beleidsregelwaarden voor Wlz-zorg. Bij herijkte beleidsregelwaarden gaat het om beleidsregelwaarden voor Wlz-zorg die herijkt zijn in het kostenonderzoek langdurige zorg (ghz en ggz exclusief behandeling) en het kostenonderzoek ggz Zvw/Fz/Wlz alsmede beleidsregelwaarden die worden afgeleid van een herijkte beleidsregelwaarde.
 
 Het gaat om zorgaanbieders die verplichtingen hebben die niet per 1 januari 2026 konden worden beëindigd, terwijl tegenover die verplichtingen minder inkomsten kunnen worden gegenereerd. Er bestaan dan kosten waar geen inkomsten meer tegenover staan. Deze beleidsregel voorziet in een overgangsregeling met een aparte prestatie en bijbehorende beleidsregelwaarde.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Deze beleidsregel is van toepassing op de zorg of dienst zoals omschreven in of bij de volgende beleidsregels van de NZa:
 
@@ -34,7 +59,7 @@ Deze beleidsregel is van toepassing op de zorg of dienst zoals omschreven in of 
 
 - –. Beleidsregel prestatiebeschrijving en tarieven advies crisis- en ondersteuningsteam (COT) 2026.
 
-#### Artikel 3. Overgangsprestatie tarieven 2026
+##### Artikel 3. Overgangsprestatie tarieven 2026
 
 De prestatie “OT002 – Overgangsprestatie tarieven 2026” stelt zorgaanbieders in de gelegenheid de bedrijfsvoering aan te passen aan de per 1 januari 2026 herijkte beleidsregelwaarden/maximumtarieven.
 
@@ -44,7 +69,7 @@ De prestatie biedt over 2026 een aanvullende totaalvergoeding (lumpsum), bovenop
 
 In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051346&bijlage=1&z=2026-01-01&g=2026-01-01) zijn prestaties opgenomen waarvan de beleidsregelwaarden door de tariefherijking dalen. De in bijlage 1 genoemde prestaties zijn omschreven in of bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051346&artikel=2&z=2026-01-01&g=2026-01-01) genoemde beleidsregels van de NZa.
 
-#### Artikel 4. Maximumtarief
+##### Artikel 4. Maximumtarief
 
 De NZa stelt het tarief voor de overgangsprestatie 2026 in de tariefbeschikkingen vast op € 400.000.
 
@@ -82,7 +107,7 @@ Uit het voorgaande volgt dus dat buiten de berekening blijven de prestaties/bele
 
 3,75% van het oude rekenbudget blijft voor eigen rekening van de zorgaanbieder. Dit bedrag wordt in mindering gebracht op het verschil tussen het nieuwe rekenbudget en het oude rekenbudget. De einduitkomst is het bedrag dat een zorgaanbieder en zorgkantoor maximaal als tarief mogen afspreken.
 
-#### Artikel 5. Afwijkingen regelgeving NZa, bekostigingscyclus en overeenkomst
+##### Artikel 5. Afwijkingen regelgeving NZa, bekostigingscyclus en overeenkomst
 
 1. De reguliere regelgeving van de NZa is van toepassing op de prestatie en het tarief. Dat is slechts anders voor zover daarvan in deze beleidsregel wordt afgeweken.
 
@@ -118,7 +143,7 @@ Met het voorgaande in artikel 5, derde lid wordt dus afgeweken van artikel 13 va
 
 De NZa neemt in de tariefbeschikkingen een voorwaarde op dat partijen overeenstemming moeten hebben (en dus tweezijdig indienen op het punt van de overgangsregeling).
 
-#### Artikel 6. Inwerkingtreding, terugwerkende kracht, bekendmaking en citeertitel
+##### Artikel 6. Inwerkingtreding, terugwerkende kracht, bekendmaking en citeertitel
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2026 en vervalt met ingang van 1 januari 2027. De beleidsregel blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in de beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

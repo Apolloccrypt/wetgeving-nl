@@ -1,13 +1,39 @@
 ---
-title: "Besluit basisregistratie adressen en gebouwen"
+title: "Besluit van 9 maart 2009, houdende regels met betrekking tot de basisregistraties adressen en gebouwen (Besluit basisregistraties adressen en gebouwen)"
 identifier: "BWBR0025520"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-07-01
-laatste_update: 2018-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025520"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-07-01"
+last_updated: "2018-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025520"
+soort: "AMvB"
+stam_id: "9947763"
+version_id: "24233632"
+internal_id: "C35748951"
+label_id: "9924344"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025520/2018-07-01/0"
+intitule_bron: "Stb.2009-133"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-03-09"
+intitule_published: "2009-03-24"
+intitule_in_force: "2009-06-25"
+intitule_status: "goed"
+original_publication: "Stb.2017-311"
+original_signed_date: "2017-07-06"
+original_published_date: "2017-07-19"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2017-311"
+entry_into_force_date: "2018-07-01"
+jci_1_3: "jci1.3:c:BWBR0025520&z=2018-07-01&g=2018-07-01"
+jci_1_0: "1.0:c:BWBR0025520&g=2018-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit basisregistratie adressen en gebouwen"
+signed_date: "2017-07-06"
+entry_into_force: "2018-07-01"
 ---
-
 # Besluit van 9 maart 2009, houdende regels met betrekking tot de basisregistraties adressen en gebouwen (Besluit basisregistraties adressen en gebouwen)
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 1 december 2008, nr. BJZ208111827, Directie Bestuurlijke en Juridische Zaken, Afdeling Wetgeving;
@@ -22,11 +48,11 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder wet: [Wet basisregistratie adressen en gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023466).
 
-#### Artikel 2
+##### Artikel 2
 
 De beslissing omtrent de indeling van het grondgebied van de gemeente in een of meer woonplaatsen bevat in het belang van een goede registratie in ieder geval:
 
@@ -34,7 +60,7 @@ De beslissing omtrent de indeling van het grondgebied van de gemeente in een of 
 
 - b. de geometrie van de woonplaats, vastgelegd in overeenstemming met de krachtens [artikel 17, tweede lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=17) gestelde regels.
 
-#### Artikel 3
+##### Artikel 3
 
 De beslissing omtrent de vaststelling van een openbare ruimte bevat in het belang van een goede registratie in ieder geval:
 
@@ -42,7 +68,7 @@ De beslissing omtrent de vaststelling van een openbare ruimte bevat in het belan
 
 - b. de vermelding van de woonplaats waarbinnen de openbare ruimte is gelegen.
 
-#### Artikel 4
+##### Artikel 4
 
 De beslissing omtrent de toekenning van een nummeraanduiding bevat in het belang van een goede registratie in ieder geval:
 
@@ -52,17 +78,17 @@ De beslissing omtrent de toekenning van een nummeraanduiding bevat in het belang
 
 - c. de vermelding van de woonplaats waarbinnen het object waaraan de nummeraanduiding wordt toegekend gelegen is, indien die woonplaats afwijkt van de woonplaats waarbinnen de openbare ruimte waaraan de nummeraanduiding is gerelateerd gelegen is.
 
-#### Artikel 5
+##### Artikel 5
 
 De beslissing omtrent de vaststelling van een standplaats bevat in het belang van een goede registratie in ieder geval de geometrie van de standplaats, vastgelegd in overeenstemming met de krachtens [artikel 17, tweede lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=17) gestelde regels.
 
-#### Artikel 6
+##### Artikel 6
 
 De beslissing omtrent de vaststelling van een ligplaats bevat in het belang van een goede registratie in ieder geval de geometrie van de ligplaats, vastgelegd in overeenstemming met de krachtens [artikel 17, tweede lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=17) gestelde regels.
 
 ### Hoofdstuk 2. Brondocumenten
 
-#### Artikel 7
+##### Artikel 7
 
 Krachtens [artikel 10, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=10) worden als brondocument voor de basisregistratie aangewezen:
 
@@ -98,7 +124,7 @@ Krachtens [artikel 10, eerste lid, onderdeel a, van de wet](https://wetten.overh
 
 - 3°. een wijziging of opneming in het belang van een goede registratie van een of meer gegevens in de basisregistratie, die niet voortvloeit uit een ander brondocument.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De basisregistratie bevat ten aanzien van onderscheidenlijk woonplaatsen, openbare ruimten, nummeraanduidingen, panden, verblijfsobjecten, standplaatsen en ligplaatsen de desbetreffende gegevens die in de bijlage bij dit besluit zijn genoemd.
 
@@ -106,11 +132,11 @@ Krachtens [artikel 10, eerste lid, onderdeel a, van de wet](https://wetten.overh
 
 ### Hoofdstuk 3. De registraties en de landelijke voorziening
 
-#### Artikel 9
+##### Artikel 9
 
 Een in de basisregistratie opgenomen gegeven wordt niet uit de basisregistratie verwijderd.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een identificatiecode als bedoeld bij de nummers 1.1, 2.1, 3.1, 4.1, 5.1, 6.1 en 7.1 in de bijlage bij dit besluit wordt gedurende het gehele bestaan van de desbetreffende woonplaats, openbare ruimte of nummeraanduiding, het desbetreffende pand of verblijfsobject, dan wel de desbetreffende standplaats of ligplaats, niet gewijzigd.
 
@@ -118,7 +144,7 @@ Een in de basisregistratie opgenomen gegeven wordt niet uit de basisregistratie 
 
 3. Indien in de basisregistratie opgenomen verblijfsobjecten, standplaatsen of ligplaatsen worden samengevoegd, wordt het aldus ontstane verblijfsobject, dan wel de aldus ontstane standplaats of ligplaats van een nieuwe identificatiecode voorzien.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Nadat een besluit tot indeling van het grondgebied van de gemeente in een of meer woonplaatsen is genomen, voorziet de Dienst vanuit de landelijke voorziening burgemeester en wethouders op hun verzoek binnen twee werkdagen van een identificatiecode van die woonplaats of woonplaatsen.
 
@@ -126,7 +152,7 @@ Een in de basisregistratie opgenomen gegeven wordt niet uit de basisregistratie 
 
 ### Hoofdstuk 4. Wijziging van gegevens
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het Centraal bureau voor de statistiek, bedoeld in [artikel 2 van de Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=2), is niet verplicht toepassing te geven aan [artikel 37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=37).
 
@@ -144,17 +170,17 @@ kan de melding, bedoeld in [artikel 37, eerste lid, van de wet](https://wetten.o
 
 ### Hoofdstuk 5
 
-#### Artikel 14
+##### Artikel 14
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit wordt aangehaald als: Besluit basisregistratie adressen en gebouwen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De termijn, bedoeld in [artikel 39, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=39) bedraagt twee werkdagen.
 
@@ -166,7 +192,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 3. De basisregistratie en de landelijke voorziening
 
-#### Artikel 11a
+##### Artikel 11a
 
 De Dienst registreert het tijdstip waarop de combinatie van gegevens, genoemd bij de nummers 1.6, 2.7, 3.11, 4.6, 5.9, 6.6 en 7.6 in de bijlage bij dit besluit, in de landelijke voorziening is opgenomen.
 

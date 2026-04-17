@@ -1,13 +1,35 @@
 ---
 title: "Protocol over de bezwaren van het Ierse volk ten aanzien van het Verdrag van Lissabon"
 identifier: "BWBV0005868"
-categorie: "Internationaal recht"
-publicatiedatum: 2014-12-01
-laatste_update: 2012-06-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005868"
+country: "nl"
+rank: "verdrag"
+publication_date: "2014-12-01"
+last_updated: "2012-06-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005868"
+soort: "verdrag"
+stam_id: "10004905673"
+version_id: "10005218802"
+internal_id: "C10008761721"
+label_id: "10004889014"
+dtd_version: "2.0"
+original_entry_into_force: "2014-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005868/2014-12-01/0"
+intitule_bron: "Trb.2012-146"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2012-08-13"
+intitule_in_force: "2015-01-12"
+intitule_status: "goed"
+original_publication: "Trb.2012-146"
+original_published_date: "2012-08-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2012-146"
+entry_into_force_date: "2014-12-01"
+jci_1_3: "jci1.3:c:BWBV0005868&z=2014-12-01&g=2014-12-01"
+jci_1_0: "1.0:c:BWBV0005868&g=2014-12-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2014-12-01"
 ---
-
 # Protocol over de bezwaren van het Ierse volk ten aanzien van het Verdrag van Lissabon
 
 het Koninkrijk België,
@@ -76,19 +98,19 @@ Hebben overeenstemming bereikt over de volgende bepalingen, welke aan het [Verdr
 
 ## TITEL I. RECHT OP LEVEN, GEZIN EN ONDERWIJS
 
-#### Artikel 1
+##### Artikel 1
 
 Geen enkele bepaling van het Verdrag van Lissabon waarbij een juridische status wordt toegekend aan het [Handvest van de grondrechten van de Europese Unie](onbekend), en geen enkele bepaling van dat verdrag op het gebied van vrijheid, veiligheid en recht doet afbreuk aan de reikwijdte of toepasbaarheid van de bescherming van het recht op leven in artikel 40, lid 3, eerste, tweede en derde alinea, de bescherming van het gezin in artikel 41 en de bescherming van de rechten met betrekking tot onderwijs in artikel 42 en artikel 44, lid 2, vierde en vijfde alinea, als vervat in de Ierse grondwet.
 
 ## TITEL II. FISCALE AANGELEGENHEDEN
 
-#### Artikel 2
+##### Artikel 2
 
 Geen bepaling van het Verdrag van Lissabon verandert, op welke wijze en voor welke lidstaat ook, iets aan de reikwijdte of werking van de bevoegdheden van de Europese Unie met betrekking tot belastingen.
 
 ## TITEL III. VEILIGHEID EN DEFENSIE
 
-#### Artikel 3
+##### Artikel 3
 
 Het internationale optreden van de Unie berust op de beginselen van de democratie, de rechtsstaat, de universaliteit en de ondeelbaarheid van de mensenrechten en de fundamentele vrijheden, de eerbiediging van de menselijke waardigheid, de beginselen van gelijkheid en solidariteit en de naleving van de beginselen van het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en het internationale recht.
 
@@ -114,7 +136,7 @@ Het is aan Ierland of iedere andere lidstaat om conform eventuele interne rechts
 
 ## TITEL IV. SLOTBEPALINGEN
 
-#### Artikel 4
+##### Artikel 4
 
 Dit protocol blijft tot en met 30 juni 2012 openstaan voor ondertekening door de hoge verdragsluitende partijen.
 
@@ -122,7 +144,7 @@ Dit protocol wordt bekrachtigd door de hoge verdragsluitende partijen, en in het
 
 Het treedt indien mogelijk in werking op 30 juni 2013, mits alle akten van bekrachtiging zijn nedergelegd, of bij gebreke daarvan op de eerste dag van de maand die volgt op het nederleggen van de akte van bekrachtiging door de lidstaat die als laatste deze handeling verricht.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit protocol, opgesteld in één exemplaar, in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Ierse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zijnde de teksten in elk van deze talen gelijkelijk authentiek, wordt nedergelegd in het archief van de regering van de Italiaanse Republiek, die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de regeringen der andere lidstaten.
 

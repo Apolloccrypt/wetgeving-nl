@@ -1,13 +1,39 @@
 ---
-title: "Regeling toelage bedrijfshulpverlening en toelage eerste medische bijstand defensiepersoneel"
+title: "Ministeriële regeling van 3 november 2003, nr. P/2003007139, afdeling Arbeidsvoorwaarden"
 identifier: "BWBR0015828"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-02-07
-laatste_update: 2025-02-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015828"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-02-07"
+last_updated: "2025-02-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015828"
+soort: "ministeriele-regeling"
+stam_id: "5473483"
+version_id: "24368622"
+internal_id: "C34967551"
+label_id: "5448044"
+dtd_version: "2.0"
+original_entry_into_force: "2017-09-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015828/2025-02-07/0"
+intitule_bron: "Stcrt.2003-224"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-11-03"
+intitule_published: "2003-11-19"
+intitule_in_force: "2003-11-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-52819"
+original_signed_date: "2017-08-15"
+original_published_date: "2017-09-20"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2017-52819"
+entry_into_force_date: "2017-09-21"
+jci_1_3: "jci1.3:c:BWBR0015828&z=2025-02-07&g=2025-02-07"
+jci_1_0: "1.0:c:BWBR0015828&g=2025-02-07"
+citeertitel_status: "officieel"
+short_title: "Regeling toelage bedrijfshulpverlening en toelage eerste medische bijstand defensiepersoneel"
+signed_date: "2017-08-15"
+entry_into_force: "2017-09-21"
 ---
-
 # Ministeriële regeling van 3 november 2003, nr. P/2003007139, afdeling Arbeidsvoorwaarden
 
 Gelet op:
@@ -18,7 +44,7 @@ Gelet op:
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -70,11 +96,11 @@ In deze regeling wordt verstaan onder:
 
 - **ploegleider:** een bedrijfshulpverlener die als zodanig is aangewezen om tijdens het verrichten van bedrijfshulpverleningstaken leiding te geven aan de hem toegewezen bedrijfshulpverleners;
 
-#### Artikel 2. Algemene bepaling
+##### Artikel 2. Algemene bepaling
 
 Alle bedragen genoemd in deze regeling zijn onderworpen aan de verschuldigde loonheffing en inhoudingen, bedoeld in [paragraaf 5 van de Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211&paragraaf=5).
 
-#### Artikel 3. Toelage bedrijfshulpverlening en functietoeslag
+##### Artikel 3. Toelage bedrijfshulpverlening en functietoeslag
 
 1. De militair of ambtenaar die in de periode waarvoor hij als bedrijfshulpverlener was aangewezen, inzetbaar was als bedrijfshulpverlener en aan ten minste 80% van de geplande bedrijfshulpverleningslessen en -oefeningen heeft deelgenomen, heeft per kalenderjaar aanspraak op een toelage bedrijfshulpverlening.
 
@@ -82,11 +108,11 @@ Alle bedragen genoemd in deze regeling zijn onderworpen aan de verschuldigde loo
 
 3. De toekenning van de toelage bedrijfshulpverlening en de functietoeslag geschiedt jaarlijks in de maand december met betrekking tot het lopende kalenderjaar, tenzij de periode waarvoor de militair of ambtenaar als bedrijfshulpverlener was aangewezen eerder eindigt.
 
-#### Artikel 4. Bedrag toelage bedrijfshulpverlening
+##### Artikel 4. Bedrag toelage bedrijfshulpverlening
 
 Per kalenderjaar bedraagt de toelage bedrijfshulpverlening als bedoeld in het eerste lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=3&z=2025-02-07&g=2025-02-07): € 322,04.
 
-#### Artikel 5. Bedrag functietoeslag
+##### Artikel 5. Bedrag functietoeslag
 
 Per kalenderjaar bedraagt de functietoeslag als bedoeld in het tweede lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=3&z=2025-02-07&g=2025-02-07):
 
@@ -100,11 +126,11 @@ Per kalenderjaar bedraagt de functietoeslag als bedoeld in het tweede lid van [a
 
 - e. voor het hoofd bedrijfshulpverlening: € 354,23.
 
-#### Artikel 6. Toelage en functietoeslag naar evenredigheid
+##### Artikel 6. Toelage en functietoeslag naar evenredigheid
 
 Indien een militair of ambtenaar in enig kalenderjaar voor een kortere periode dan 12 maanden was aangewezen als algemeen bedrijfshulpverlener, bedrijfshulpverlener met specialisatie, ploegleider, coördinator bedrijfshulpverlening of hoofd bedrijfshulpverlening, worden de toelage bedrijfshulpverlening en de functietoeslag vastgesteld in evenredigheid met het aantal maanden dat hij in dat kalenderjaar als zodanig was aangewezen.
 
-#### Artikel 7. Toelage eerste medische bijstand
+##### Artikel 7. Toelage eerste medische bijstand
 
 1. De EHBO’er heeft eenmaal per kalenderjaar aanspraak op een toelage eerste medische bijstand.
 
@@ -112,15 +138,15 @@ Indien een militair of ambtenaar in enig kalenderjaar voor een kortere periode d
 
 3. Indien een militair of ambtenaar in enig kalenderjaar voor een kortere periode dan 12 maanden was aangewezen als EHBO-er, worden het aantal werkdagen en de toelage eerste medische bijstand vastgesteld in evenredigheid met het aantal maanden dat hij in dat kalenderjaar was aangewezen als EHBO-er.
 
-#### Artikel 8. Bedrag toelage eerste medische bijstand
+##### Artikel 8. Bedrag toelage eerste medische bijstand
 
 Per kalenderjaar bedraagt de toelage eerste medische bijstand als bedoeld in het eerste lid van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=7&z=2025-02-07&g=2025-02-07): € 322,04.
 
-#### Artikel 9. Toelage en functietoeslag naar evenredigheid
+##### Artikel 9. Toelage en functietoeslag naar evenredigheid
 
 Indien een militair of ambtenaar in enig kalenderjaar voor een kortere periode dan 12 maanden was aangewezen als EHBO’er, wordt de toelage eerste medische bijstand als bedoeld in het eerste lid van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=7&z=2025-02-07&g=2025-02-07) vastgesteld in evenredigheid met het aantal maanden dat hij in dat kalenderjaar als zodanig was aangewezen.
 
-#### Artikel 10. Jubileumgratificatie
+##### Artikel 10. Jubileumgratificatie
 
 De bedrijfshulpverlener en de EHBO’er die gedurende een bepaald aantal jaren aanspraak heeft gehad op de toelage bedrijfshulpverlening of de toelage eerste medische bijstand, heeft aanspraak op een jubileumgratificatie volgens onderstaand schema:
 
@@ -140,7 +166,7 @@ na 35 jaar: € 579,68;
 
 na 40 jaar: € 579,68.
 
-#### Artikel 11. Gratificatie wegens een bijzondere prestatie
+##### Artikel 11. Gratificatie wegens een bijzondere prestatie
 
 1. Bij een buitengewone prestatie op het gebied van het verrichten van bedrijfshulpverleningstaken, kan door de commandant een gratificatie worden toegekend.
 
@@ -158,7 +184,7 @@ na 40 jaar: € 579,68.
 
 4. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=2&z=2025-02-07&g=2025-02-07) komen de verschuldigde loonheffing en inhoudingen over deze gratificatie voor rekening van Defensie.
 
-#### Artikel 12. Intrekking
+##### Artikel 12. Intrekking
 
 De volgende regelingen worden ingetrokken:
 
@@ -170,11 +196,11 @@ De volgende regelingen worden ingetrokken:
 
 Deze regeling wordt gepubliceerd in de serie ministeriële publicaties waarvan mededeling zal worden gedaan in de Staatscourant.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2004.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling toelage bedrijfshulpverlening en toelage eerste medische bijstand defensiepersoneel.
 

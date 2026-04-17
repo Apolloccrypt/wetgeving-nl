@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel verstrekking tenuitvoerleggingsgegevens"
+title: "Beleidsregel van de Minister voor Rechtsbescherming van 8 september 2021, kenmerk 3281544 over de verstrekking van tenuitvoerleggingsgegevens (Beleidsregel verstrekking tenuitvoerleggingsgegevens)"
 identifier: "BWBR0045627"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2021-09-18
-laatste_update: 2021-09-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045627"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2021-09-18"
+last_updated: "2021-09-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045627"
+soort: "beleidsregel"
+stam_id: "16078783"
+version_id: "28009222"
+internal_id: "C39508011"
+label_id: "16010484"
+dtd_version: "2.0"
+original_entry_into_force: "2021-09-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045627/2021-09-18/0"
+intitule_bron: "Stcrt.2021-41130"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-09-08"
+intitule_published: "2021-09-17"
+intitule_in_force: "2021-09-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-41130"
+original_signed_date: "2021-09-08"
+original_published_date: "2021-09-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-41130"
+entry_into_force_date: "2021-09-18"
+jci_1_3: "jci1.3:c:BWBR0045627&z=2021-09-18&g=2021-09-18"
+jci_1_0: "1.0:c:BWBR0045627&g=2021-09-18"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel verstrekking tenuitvoerleggingsgegevens"
+signed_date: "2021-09-08"
+entry_into_force: "2021-09-18"
 ---
-
 # Beleidsregel van de Minister voor Rechtsbescherming van 8 september 2021, kenmerk 3281544 over de verstrekking van tenuitvoerleggingsgegevens (Beleidsregel verstrekking tenuitvoerleggingsgegevens)
 
 De Minister voor Rechtsbescherming,

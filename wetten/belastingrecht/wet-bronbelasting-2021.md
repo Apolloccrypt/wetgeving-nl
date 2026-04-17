@@ -1,14 +1,42 @@
 ---
-title: "Wet bronbelasting 2021"
+title: "Wet van 18 december 2019 tot invoering van een bronbelasting op renten en royalty’s (Wet bronbelasting 2021)"
 identifier: "BWBR0042952"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042952"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042952"
+soort: "wet"
+stam_id: "15288163"
+version_id: "26343022"
+internal_id: "C37440961"
+label_id: "15234244"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042952/2026-01-01/0"
+intitule_bron: "Stb.2019-513"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-18"
+intitule_published: "2019-12-27"
+intitule_in_force: "2019-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2019-513"
+original_signed_date: "2019-12-18"
+original_published_date: "2019-12-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "35305"
+original_url_id: "stb-2019-513"
+entry_into_force_date: "2020-01-01"
+entry_into_force_dossier: "35305"
+jci_1_3: "jci1.3:c:BWBR0042952&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0042952&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet bronbelasting 2021"
+signed_date: "2019-12-18"
+entry_into_force: "2020-01-01"
 ---
-
-# Wet bronbelasting 2021
+# Wet van 18 december 2019 tot invoering van een bronbelasting op renten en royalty’s (Wet bronbelasting 2021)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -30,29 +58,29 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 3. Heffingsgrondslag
 
-#### Artikel 7.1. Wijzigingen Wet bronbelasting 2021
+##### Artikel 7.1. Wijzigingen Wet bronbelasting 2021
 
 Wijzigt deze wet.
 
-#### Artikel 7.2. Wijzigingen [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672)
+##### Artikel 7.2. Wijzigingen [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672)
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel 7.3. Wijzigingen [Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515)
+##### Artikel 7.3. Wijzigingen [Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515)
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel 7.4. Wijzigingen [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320)
+##### Artikel 7.4. Wijzigingen [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320)
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel 7.5. Wijzigingen [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770)
+##### Artikel 7.5. Wijzigingen [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770)
 
 Wijzigt de Invorderingswet 1990.
 
 ### Hoofdstuk 4. Tarief
 
-#### Artikel 8.1. Inwerkingtreding
+##### Artikel 8.1. Inwerkingtreding
 
 1. Deze wet treedt in werking met ingang van 1 januari 2021.
 
@@ -60,17 +88,17 @@ Wijzigt de Invorderingswet 1990.
 
 3. In afwijking van het eerste lid treedt [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=7&artikel=7.1&z=2026-01-01&g=2026-01-01) in werking met ingang van 1 januari 2022.
 
-#### Artikel 8.2. Citeertitel
+##### Artikel 8.2. Citeertitel
 
 Deze wet wordt aangehaald als: Wet bronbelasting 2021.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1.1. Bronbelasting
+##### Artikel 1.1. Bronbelasting
 
 Onder de naam bronbelasting wordt een belasting geheven van het lichaam, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 1.2. Definities
+##### Artikel 1.2. Definities
 
 1. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -166,13 +194,13 @@ Onder de naam bronbelasting wordt een belasting geheven van het lichaam, bedoeld
 
 10. Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de beoordeling of voor de toepassing van deze wet en de daarop berustende bepalingen een naar het recht van een andere staat opgericht of aangegaan lichaam een met de rechtsvorm van een lichaam als bedoeld in [artikel 2, eerste lid, onderdelen a, b, c, e, f of g, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) of een met die van een maatschap, vennootschap onder firma, commanditaire vennootschap of een transparant fonds als bedoeld in [artikel 2.14bis, zevende lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14bis) vergelijkbare rechtsvorm heeft. Daarbij kunnen ook regels worden gesteld voor de beoordeling of een naar het recht van een andere staat opgericht of aangegaan lichaam naast de rechtsvorm ook voor het overige met een lichaam vergelijkbaar is als bedoeld in de eerste zin.
 
-#### Artikel 1.3. Fictieve vestigingsplaats
+##### Artikel 1.3. Fictieve vestigingsplaats
 
 1. Indien de oprichting van een inhoudingsplichtige heeft plaatsgevonden naar Nederlands recht, wordt voor de toepassing van deze wet en de daarop berustende bepalingen die inhoudingsplichtige geacht in Nederland te zijn gevestigd. Een Europese naamloze vennootschap die bij haar oprichting werd beheerst door Nederlands recht, wordt voor de toepassing van de eerste zin geacht te zijn opgericht naar Nederlands recht.
 
 2. Voor de toepassing van deze wet en de daarop berustende bepalingen worden op de BES eilanden gevestigde inhoudingsplichtigen die door de toepassing van [artikel 5.2 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=5.2) geacht worden niet op de BES eilanden te zijn gevestigd, geacht in Nederland te zijn gevestigd.
 
-#### Artikel 2.1. Belastingplichtigen
+##### Artikel 2.1. Belastingplichtigen
 
 1. Belastingplichtig voor de belasting is een lichaam dat gerechtigd is tot voordelen als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2026-01-01&g=2026-01-01) en dat:
 
@@ -210,7 +238,7 @@ Onder de naam bronbelasting wordt een belasting geheven van het lichaam, bedoeld
 
 7. Belastingplichtig voor de belasting is mede een lichaam als bedoeld in [artikel 2, elfde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) dat gerechtigd is tot voordelen als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2026-01-01&g=2026-01-01), voor zover een achterliggende gerechtigde die een kwalificerend belang heeft in dat lichaam is gevestigd in een staat die dat lichaam niet als een belastingplichtige voor een naar de winst geheven belasting beschouwt en die gerechtigde op grond van het eerste lid belastingplichtig zou zijn indien hij zonder tussenkomst van dat lichaam de voordeelgerechtigde zou zijn.
 
-#### Artikel 3.1. Heffingsgrondslag
+##### Artikel 3.1. Heffingsgrondslag
 
 De belasting wordt geheven over de voordelen in de vorm van:
 
@@ -220,13 +248,13 @@ De belasting wordt geheven over de voordelen in de vorm van:
 
 - c. dividenden als bedoeld in [artikel 3.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.4a&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 3.2. Correctie naar zakelijke voorwaarden
+##### Artikel 3.2. Correctie naar zakelijke voorwaarden
 
 1. Indien ter zake van voordelen als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2026-01-01&g=2026-01-01) voorwaarden worden overeengekomen of opgelegd (verrekenprijzen) die afwijken van voorwaarden die in het economische verkeer door onafhankelijke partijen zouden zijn overeengekomen, worden die voordelen bepaald alsof die laatstbedoelde voorwaarden zouden zijn overeengekomen.
 
 2. Niet in geld genoten voordelen worden in aanmerking genomen naar de waarde die daaraan in het economische verkeer kan worden toegekend.
 
-#### Artikel 3.3. Heffingsgrondslag renten
+##### Artikel 3.3. Heffingsgrondslag renten
 
 1. De voordelen in de vorm van renten zijn de vergoedingen van welke aard dan ook – kosten daaronder begrepen – uit hoofde van geldleningen verschuldigd door:
 
@@ -238,7 +266,7 @@ De belasting wordt geheven over de voordelen in de vorm van:
 
 3. Voor de toepassing van dit artikel wordt onder vaste inrichting mede verstaan: onroerende zaken, rechten, schuldvorderingen en werkzaamheden als bedoeld in [artikel 17a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17a).
 
-#### Artikel 3.4. Heffingsgrondslag royalty’s
+##### Artikel 3.4. Heffingsgrondslag royalty’s
 
 1. De voordelen in de vorm van royalty’s zijn de vergoedingen, bedoeld in het tweede lid, verschuldigd door:
 
@@ -266,7 +294,7 @@ De belasting wordt geheven over de voordelen in de vorm van:
 
 3. Voor de toepassing van dit artikel wordt onder vaste inrichting mede verstaan: onroerende zaken, rechten, schuldvorderingen en werkzaamheden als bedoeld in [artikel 17a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17a).
 
-#### Artikel 3.5. Genietingstijdstip
+##### Artikel 3.5. Genietingstijdstip
 
 1. De voordelen, bedoeld in [artikel 3.1, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2026-01-01&g=2026-01-01), worden beschouwd te zijn genoten op het tijdstip waarop zij:
 
@@ -280,17 +308,17 @@ De belasting wordt geheven over de voordelen in de vorm van:
 
 4. De voordelen, bedoeld in [artikel 3.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2026-01-01&g=2026-01-01), worden beschouwd te zijn genoten op het tijdstip waarop zij ter beschikking van de voordeelgerechtigde worden gesteld.
 
-#### Artikel 4.1. Tarief
+##### Artikel 4.1. Tarief
 
 De belasting bedraagt het hoogste percentage, bedoeld in [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), van de voordelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 4.2. Belasting voor rekening inhoudingsplichtige
+##### Artikel 4.2. Belasting voor rekening inhoudingsplichtige
 
 Indien de inhoudingsplichtige de belasting voor zijn rekening neemt, worden voor het berekenen van de belasting de voordelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2026-01-01&g=2026-01-01), vermenigvuldigd met 100/(100-T), waarbij T staat voor het geldende percentage van het tarief, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=4&artikel=4.1&z=2026-01-01&g=2026-01-01).
 
 ### Hoofdstuk 4. Tarief
 
-#### Artikel 5.1. Heffing door inhouding
+##### Artikel 5.1. Heffing door inhouding
 
 1. De belasting wordt geheven door inhouding op de voordelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2026-01-01&g=2026-01-01).
 
@@ -302,13 +330,13 @@ Indien de inhoudingsplichtige de belasting voor zijn rekening neemt, worden voor
 
 ### Hoofdstuk 6. Bijzondere bepalingen
 
-#### Artikel 6.1. Naheffing
+##### Artikel 6.1. Naheffing
 
 1. Onverminderd het bepaalde in [artikel 20, tweede lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20) wordt de naheffingsaanslag opgelegd aan de inhoudingsplichtige dan wel aan de belastingplichtige indien de inhoudingsplichtige de belasting die moet worden afgedragen geheel of gedeeltelijk niet heeft betaald.
 
 2. De na te heffen belasting ter zake van de voordelen, bedoeld in [artikel 3.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2026-01-01&g=2026-01-01), wordt verminderd met de ten laste van de belastingplichtige ter zake van die voordelen afgedragen of nageheven dividendbelasting.
 
-#### Artikel 6.2. Informatieverplichting
+##### Artikel 6.2. Informatieverplichting
 
 1. [Artikel 47a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47a) is van overeenkomstige toepassing ter zake van gegevens en inlichtingen alsmede gegevensdragers die van belang kunnen zijn voor de heffing van de belasting waarvan de inhouding is opgedragen aan de inhoudingsplichtige en die in het bezit zijn van:
 
@@ -322,7 +350,7 @@ Indien de inhoudingsplichtige de belasting voor zijn rekening neemt, worden voor
 
 3. [Artikel 52a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52a) is van overeenkomstige toepassing ingeval niet of niet volledig wordt voldaan aan de informatieverplichting ingevolge het eerste lid.
 
-#### Artikel 6.3. Inlichtingenverplichting
+##### Artikel 6.3. Inlichtingenverplichting
 
 1. De inhoudingsplichtige is gehouden de inspecteur eigener beweging juiste en volledige inlichtingen of gegevens die van belang kunnen zijn voor de heffing van de belasting waarvan de inhouding aan hem is opgedragen te verstrekken binnen twee weken nadat hem bekend is geworden dat die inlichtingen of gegevens niet, onjuist of onvolledig door hem zijn verstrekt.
 
@@ -330,7 +358,7 @@ Indien de inhoudingsplichtige de belasting voor zijn rekening neemt, worden voor
 
 3. De verplichting, bedoeld in het eerste lid, vervalt door verloop van vijf jaren na afloop van het kalenderjaar waarin de belastingschuld is ontstaan.
 
-#### Artikel 6.4. Vergrijpboete overtreden inlichtingenverplichting
+##### Artikel 6.4. Vergrijpboete overtreden inlichtingenverplichting
 
 1. Indien het aan opzet of grove schuld van de inhoudingsplichtige is te wijten dat de verplichting, bedoeld in [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=6&artikel=6.3&z=2026-01-01&g=2026-01-01), niet wordt nagekomen, vormt dit een vergrijp ter zake waarvan de inspecteur hem een bestuurlijke boete kan opleggen van ten hoogste 100% van de in het tweede lid omschreven grondslag voor de boete.
 
@@ -346,7 +374,7 @@ Indien de inhoudingsplichtige de belasting voor zijn rekening neemt, worden voor
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 3.4a. Heffingsgrondslag dividenden
+##### Artikel 3.4a. Heffingsgrondslag dividenden
 
 1. De voordelen in de vorm van dividenden zijn de voordelen uit hoofde van de gerechtigdheid – rechtstreeks of door middel van certificaten – tot de opbrengst van aandelen in, winstbewijzen van, kapitaalverstrekkingen als bedoeld in [artikel 10, eerste lid, onderdeel c, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10) aan en geldleningen als bedoeld in artikel 10, eerste lid, onderdeel d, van die wet aan een in Nederland gevestigde aan de voordeelgerechtigde gelieerde inhoudingsplichtige als bedoeld in [artikel 1.2, eerste lid, onderdeel c, onder 1°, 3°, 4° of 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=1&artikel=1.2&z=2026-01-01&g=2026-01-01).
 
@@ -370,7 +398,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - i. renten op inleggelden en, in het algemeen, alle vergoedingen voor kapitaalverstrekkingen aan een coöperatie of een vereniging op coöperatieve grondslag door leden als zodanig, met uitzondering van de gehele of gedeeltelijke teruggaaf van inleggelden.
 
-#### Artikel 3.4b. Op aandelen gestort kapitaal bij aandelenruil, splitsing of fusie
+##### Artikel 3.4b. Op aandelen gestort kapitaal bij aandelenruil, splitsing of fusie
 
 1. Voor zover de storting op aandelen in een vennootschap bestaat uit aandelen in een andere vennootschap wordt ten aanzien van alle aandeelhouders slechts als gestort aangemerkt hetgeen op de laatstbedoelde aandelen is gestort, verminderd met hetgeen in contanten is bijbetaald. In afwijking van de eerste zin wordt, ingeval die andere vennootschap niet in Nederland is gevestigd, als gestort kapitaal aangemerkt de waarde in het economische verkeer van de ingebrachte aandelen ten tijde van de storting, tenzij deze aandelenruil in overwegende mate is gericht op het ontgaan of uitstellen van belastingheffing.
 
@@ -392,13 +420,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 8. De rechtspersoon die zekerheid wenst omtrent de vraag of een aandelenruil, een splitsing of een fusie in overwegende mate is gericht op het ontgaan of uitstellen van belastingheffing, kan vóór de aandelenruil, de splitsing, onderscheidenlijk de fusie, een verzoek indienen bij de inspecteur die daarop bij voor bezwaar vatbare beschikking beslist.
 
-#### Artikel 3.4c. Vaststelling gestort kapitaal
+##### Artikel 3.4c. Vaststelling gestort kapitaal
 
 De inspecteur stelt, op verzoek van de inhoudingsplichtige, bij voor bezwaar vatbare beschikking vast hetgeen is gestort op de aandelen in een vennootschap, alsmede het gemiddeld op de desbetreffende aandelen gestorte kapitaal.
 
 ### Hoofdstuk 5. Wijze van heffing
 
-#### Artikel 5.2. Samenloop dividendbelasting
+##### Artikel 5.2. Samenloop dividendbelasting
 
 De in te houden belasting op de voordelen, bedoeld in [artikel 3.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2026-01-01&g=2026-01-01), wordt verminderd met de ten laste van de voordeelgerechtigde ter zake van die voordelen ingehouden dividendbelasting.
 

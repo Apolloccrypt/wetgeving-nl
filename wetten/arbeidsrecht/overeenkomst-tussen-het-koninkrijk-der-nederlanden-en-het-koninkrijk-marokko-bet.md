@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko betreffende de aanwerving en de tewerkstelling van Marokkaanse werknemers in Nederland"
 identifier: "BWBV0004487"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1969-05-14
-laatste_update: 1969-05-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004487"
+country: "nl"
+rank: "verdrag"
+publication_date: "1969-05-14"
+last_updated: "1969-05-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004487"
+soort: "verdrag"
+stam_id: "10004160623"
+version_id: "10004330572"
+internal_id: "C10006999281"
+label_id: "10004145864"
+dtd_version: "2.0"
+original_entry_into_force: "1969-05-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004487/1969-05-14/0"
+intitule_bron: "Trb.1969-87"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1969-07-02"
+intitule_in_force: "1969-07-02"
+intitule_status: "goed"
+original_publication: "Trb.1969-87"
+original_published_date: "1969-07-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1969-87"
+entry_into_force_date: "1969-05-14"
+jci_1_3: "jci1.3:c:BWBV0004487&z=1969-05-14&g=1969-05-14"
+jci_1_0: "1.0:c:BWBV0004487&g=1969-05-14"
+citeertitel_status: "redactioneel"
+entry_into_force: "1969-05-14"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko betreffende de aanwerving en de tewerkstelling van Marokkaanse werknemers in Nederland
 
 De Regering van het Koninkrijk der Nederlanden en
@@ -24,7 +46,7 @@ Zijn als volgt overeengekomen:
 
 ### Algemene Bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Terzake van de aanwerving en de tewerkstelling van Marokkaanse werknemers in Nederland zijn bevoegd:
 
@@ -32,7 +54,7 @@ aan Marokkaanse zijde, „le Service de la main d'oeuvre du Ministère du Travai
 
 aan Nederlandse zijde, het Directoraat-Generaal voor de Arbeidsvoorziening van het Ministerie van Sociale Zaken en Volksgezondheid te Leidschendam, hierna te noemen „het Directoraat-Generaal”.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Opdat de bevoegde Marokkaanse autoriteiten tijdig de nodige voorzieningen kunnen treffen en aan de aanvragen kunnen voldoen verstrekt het Directoraat-Generaal aan de Dienst inlichtingen over de geraamde behoeften aan Marokkaanse werknemers van het Nederlandse bedrijfsleven. De Dienst kan het Directoraat-Generaal op de hoogte brengen van het totale aanbod van Marokkaanse werknemers.
 
@@ -42,7 +64,7 @@ aan Nederlandse zijde, het Directoraat-Generaal voor de Arbeidsvoorziening van h
 
 ### Aanwerving en tewerkstelling
 
-#### Artikel 3
+##### Artikel 3
 
 1. Rekening houdende met de overeenkomstig artikel 2 verstrekte inlichtingen geeft het Directoraat-Generaal aan de Dienst kennis van de aanbiedingen van werk der Nederlandse werkgevers.
 
@@ -50,7 +72,7 @@ aan Nederlandse zijde, het Directoraat-Generaal voor de Arbeidsvoorziening van h
 
 3. Indien een aanbieding van werk voor de Dienst aanvaardbaar is treft zij de nodige maatregelen om hieraan met spoed bekendheid te geven, met de voor de betrokken werknemers van belang zijnde gegevens en inlichtingen.
 
-#### Artikel 4
+##### Artikel 4
 
 De leeftijdsgrenzen waarbinnen Marokkaanse werknemers werk in Nederland kunnen krijgen, zijn als volgt vastgesteld:
 
@@ -60,7 +82,7 @@ De leeftijdsgrenzen waarbinnen Marokkaanse werknemers werk in Nederland kunnen k
 
 Deze leeftijdsgrenzen kunnen worden gewijzigd voor op naam aangevraagde werknemers of, in bijzondere gevallen, in onderling overleg tussen de Dienst en het Directoraat-Generaal.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Dienst draagt zorg voor het onderzoek naar de gezondheidstoestand der kandidaten die zich voor tewerkstelling in Nederland aanbieden. De Dienst stelt een onderzoek in naar de vakbekwaamheid van de kandidaten en terzake van andere door het Directoraat-Generaal gestelde bijzondere voorwaarden.
 
@@ -72,17 +94,17 @@ Deze leeftijdsgrenzen kunnen worden gewijzigd voor op naam aangevraagde werkneme
 
 5. De lijst van geschikt bevonden kandidaten alsmede de voor elk van hen ingevulde formulieren worden door de Dienst aan het Directoraat-Generaal gezonden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het Directoraat-Generaal kan een delegatie naar Marokko zenden die belast is met de eindselectie van de door de Dienst voorgedragen kandidaten.
 
 2. Om genoemde delegatie - die zich zowel duurzaam als tijdelijk in Marokko kan ophouden - in staat te stellen op snelle en doeltreffende wijze het noodzakelijke onderzoek te verrichten stelt de Dienst in de in onderling overleg aan te wijzen selectieplaatsen aan de delegatie lokaliteiten en andere voor haar werkzaamheden nodige faciliteiten ter beschikking.
 
-#### Artikel 7
+##### Artikel 7
 
 Het Directoraat-Generaal doet zo spoedig mogelijk aan de Dienst een lijst van definitief aanvaarde kandidaten toekomen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voor iedere werknemer die definitief voor tewerkstelling in Nederland is aangenomen, zendt het Directoraat-Generaal de Dienst een arbeidsovereenkomst, ondertekend door de werkgever en gesteld in de talen van beide landen, overeenkomstig een in onderling overleg vastgesteld model, waarin de onderscheiden rechten en verplichtingen van de werkgever en de werknemer zijn vastgesteld. De arbeidsovereenkomst dient door de werknemer voor zijn vertrek uit Marokko te worden ondertekend.
 
@@ -90,7 +112,7 @@ Het Directoraat-Generaal doet zo spoedig mogelijk aan de Dienst een lijst van de
 
 3. De geldigheidsduur moet duidelijk in de arbeidsovereenkomst worden vermeld. Zij is in principe tot twaalf maanden beperkt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De werknemer moet in het bezit zijn:
 
@@ -104,7 +126,7 @@ Het Directoraat-Generaal doet zo spoedig mogelijk aan de Dienst een lijst van de
 
 Voorts moeten deze werknemers in het bezit zijn van een visum geldig voor Nederland, genoemd „machtiging tot voorlopig verblijf”. Deze machtiging wordt kosteloos verstrekt door - of vanwege - de bevoegde Nederlandse diplomatieke of consulaire vertegenwoordiger in Marokko door middel van het stellen van een aantekening in het paspoort.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Dienst draagt er zorg voor, dat de aangeworven werknemers aanwezig zijn op de met het Directoraat-Generaal overeengekomen data en plaatsen van vertrek naar Nederland.
 
@@ -112,11 +134,11 @@ Voorts moeten deze werknemers in het bezit zijn van een visum geldig voor Nederl
 
 3. De afreis van de geworven werknemers dient zo mogelijk plaats te vinden op de dag van hun aankomst op de plaats van vertrek.
 
-#### Artikel 11
+##### Artikel 11
 
 Na aankomst in Nederland van de in dienst genomen werknemers verlenen de bevoegde Nederlandse autoriteiten zo spoedig mogelijk alle faciliteiten ter verkrijging van de benodigde werk- en verblijfsvergunningen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Uitsluitend in gevallen, waarin de arbeidsongeschiktheid van de werknemer bij de uitoefening van zijn werk duidelijk blijkt, kunnen de Nederlandse werkgevers weigeren de arbeidsovereenkomst met een door het Directoraat-Generaal of de delegatie aangeworven werknemer voort te zetten. In die gevallen dienen de Nederlandse arbeidsbureaus zich te beijveren aan de betrokkenen een met hun vakbekwaamheid overeenkomende betrekking aan te bieden.
 
@@ -126,7 +148,7 @@ Na aankomst in Nederland van de in dienst genomen werknemers verlenen de bevoegd
 
 4. In geval van overgang naar een andere onderneming, welke in gemeenschappelijk overleg tussen de betrokken partijen tot stand is gekomen, wordt het nieuwe contract in de plaats gesteld van het oude.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De kosten van de in artikel 5 bedoelde selectie zijn voor Marokkaanse rekening; hieronder zijn begrepen de kosten van de medische keuring en het onderzoek naar de vakbekwaamheid van de werknemers, de reiskosten van de werknemers van hun woonplaatsen naar de plaatsen waar de onderzoeken plaats vinden en de kosten van hun voeding en onderdak gedurende het verblijf in de selectieplaatsen.
 
@@ -134,11 +156,11 @@ Na aankomst in Nederland van de in dienst genomen werknemers verlenen de bevoegd
 
 3. De kosten der werkzaamheden van de Delegatie komen voor rekening van de Nederlandse partij.
 
-#### Artikel 14
+##### Artikel 14
 
 Het Directoraat-Generaal zendt rechtstreeks, onder overlegging van een copie aan de Ambassade van het Koninkrijk Marokko, aan de Dienst lijsten van de in Nederland in het kader van deze overeenkomst aangekomen werknemers, met opgave van het adres van de werkgever en het eerste adres van iedere werknemer.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Indien geen delegatie naar Marokko wordt gezonden, zendt het Directoraat-Generaal de aanbiedingen van werk rechtstreeks aan de Dienst toe.
 
@@ -150,7 +172,7 @@ Het Directoraat-Generaal zendt rechtstreeks, onder overlegging van een copie aan
 
 ### Algemene Arbeidsvoorwaarden
 
-#### Artikel 16
+##### Artikel 16
 
 1. De Marokkaanse werknemers worden in Nederland tewerkgesteld op dezelfde loon- en arbeidsvoorwaarden (met inbegrip van de betaalde vakanties) als die welke voor de Nederlandse werknemers gelden, en wel volgens wettelijke bepalingen, collectieve arbeidsovereenkomsten, beroepsgebruiken en plaatselijke gewoonten.
 
@@ -162,7 +184,7 @@ Het Directoraat-Generaal zendt rechtstreeks, onder overlegging van een copie aan
 
 5. Bij arbeidsgeschillen kunnen de Marokkaanse werknemers een beroep doen op de bevoegde administratieve of gerechtelijke autoriteiten in Nederland en zulks onder dezelfde voorwaarden als die welke voor Nederlanders gelden.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De Marokkaanse werknemers die in Nederland werkzaam en gevestigd zijn kunnen zich door hun gezin doen volgen vanaf het ogenblik waarop zij gedurende twee jaar hebben gewerkt en op voorwaarde dat zij beschikken over een door de Nederlandse autoriteiten als normaal beschouwde huisvesting voor hen en hun gezin. Het gezin bestaat uit de echtgenote en de minderjarige te zijnen laste komende kinderen.
 
@@ -170,11 +192,11 @@ Het Directoraat-Generaal zendt rechtstreeks, onder overlegging van een copie aan
 
 3. De Marokkaanse autoriteiten verlenen aan deze gezinnen alle faciliteiten om het grondgebied te verlaten. De Nederlandse diplomatieke en consulaire vertegenwoordigers verschaffen de vereiste visa en faciliteiten.
 
-#### Artikel 18
+##### Artikel 18
 
 De Marokkaanse werknemers kunnen het totale bedrag van hun spaargelden naar Marokko overmaken binnen het kader van de in Nederland geldende wettelijke regelingen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De bevoegde Nederlandse autoriteiten en de Nederlandse werkgevers verschaffen aan de Marokkaanse werknemers alle noodzakelijke hulp teneinde hen vertrouwd te maken met de nieuwe omgeving waarin zij zich bevinden, vooral in de beginperiode van hun tewerkstelling.
 
@@ -184,7 +206,7 @@ De Marokkaanse werknemers kunnen het totale bedrag van hun spaargelden naar Maro
 
 4. Op verzoek van de werknemer en met toestemming van de werkgever kunnen de wettelijk vastgestelde Nederlandse feestdagen worden vervangen door officiële Marokkaanse feestdagen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Bij beëindiging van de arbeidsovereenkomst zal de werknemer Nederland verlaten, tenzij zijn arbeidsovereenkomst verlengd wordt of tenzij hij met goedkeuring van de Nederlandse autoriteiten een andere betrekking aanvaardt.
 
@@ -196,15 +218,15 @@ De Marokkaanse werknemers kunnen het totale bedrag van hun spaargelden naar Maro
 
 ### Slotbepaling
 
-#### Artikel 21
+##### Artikel 21
 
 De bevoegde Marokkaanse autoriteiten treffen alle vereiste maatregelen om het reizen naar Nederland te verhinderen van werkzoekende Marokkanen, die niet in het kader van deze Overeenkomst zijn aangeworven.
 
-#### Artikel 22
+##### Artikel 22
 
 De Marokkaanse Regering zal de Marokkaanse onderdanen die zich in Nederland bevinden en aan wie het uit hoofde van de Nederlandse vreemdelingenvoorschriften niet of niet langer is toegestaan in Nederland te verblijven te allen tijde zonder formaliteiten toelaten. Genoemde Regering zal de afgifte van reisdocumenten en van de transitvisa benodigd voor de terugreis naar Marokko, bevorderen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Er wordt een Gemengde Commissie ingesteld bestaande uit ten hoogste drie vertegenwoordigers van iedere Partij. Iedere afvaardiging kan door deskundigen worden bijgestaan.
 
@@ -218,19 +240,19 @@ De Marokkaanse Regering zal de Marokkaanse onderdanen die zich in Nederland bevi
 
 3. De Gemengde Commissie stelt haar interne organisatie en haar werkwijze vast. Haar vergaderingen zullen afwisselend in Marokko en Nederland plaats vinden op verzoek van de ene of de andere Partij.
 
-#### Artikel 24
+##### Artikel 24
 
 Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst alleen van toepassing op het in Europa gelegen grondgebied van het Koninkrijk.
 
-#### Artikel 25
+##### Artikel 25
 
 De Nederlandse Regering bevordert dat de door deze Overeenkomst verleende rechten en voorzieningen aan de in Nederland werkzame Marokkanen worden uitgebreid tot de Marokkaanse werknemers die eerder zijn binnengekomen.
 
-#### Artikel 26
+##### Artikel 26
 
 Alleen door de Marokkaanse en Nederlandse Regeringen aangewezen vertegenwoordigers of andere behoorlijk tot dit doel gemachtigde personen kunnen Marokkaanse werknemers voor Nederlandse bedrijven aanwerven.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Deze Overeenkomst treedt in werking op de dag van haar ondertekening.
 

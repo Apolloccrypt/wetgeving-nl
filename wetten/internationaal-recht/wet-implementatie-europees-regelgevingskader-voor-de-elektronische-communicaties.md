@@ -1,14 +1,40 @@
 ---
-title: "Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002"
+title: "Wet van 22 april 2004 tot wijziging van de Telecommunicatiewet en enkele andere wetten in verband met de implementatie van een nieuw Europees geharmoniseerd regelgevingskader voor elektronische communicatienetwerken en -diensten en de nieuwe dienstenrichtlijn van de Commissie van de Europese Gemeenschappen"
 identifier: "BWBR0016635"
-categorie: "Internationaal recht"
-publicatiedatum: 2004-05-19
-laatste_update: 2004-05-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016635"
+country: "nl"
+rank: "wet"
+publication_date: "2004-05-19"
+last_updated: "2004-05-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016635"
+soort: "wet"
+stam_id: "5862473"
+version_id: "10425462"
+internal_id: "C14174641"
+label_id: "5842644"
+original_entry_into_force: "2004-05-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016635/2004-05-19/0"
+intitule_bron: "Stb.2004-189"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-04-22"
+intitule_published: "2004-05-13"
+intitule_in_force: "2004-05-18"
+intitule_status: "goed"
+original_publication: "Stb.2004-189"
+original_signed_date: "2004-04-22"
+original_published_date: "2004-05-13"
+original_effect: "nieuwe-regeling"
+original_dossier: "28851"
+original_url_id: "stb-2004-189"
+entry_into_force_date: "2004-05-19"
+jci_1_3: "jci1.3:c:BWBR0016635&z=2004-05-19&g=2004-05-19"
+jci_1_0: "1.0:c:BWBR0016635&g=2004-05-19"
+citeertitel_status: "officieel"
+short_title: "Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002"
+signed_date: "2004-04-22"
+entry_into_force: "2004-05-19"
 ---
-
-# Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
+# Wet van 22 april 2004 tot wijziging van de Telecommunicatiewet en enkele andere wetten in verband met de implementatie van een nieuw Europees geharmoniseerd regelgevingskader voor elektronische communicatienetwerken en -diensten en de nieuwe dienstenrichtlijn van de Commissie van de Europese Gemeenschappen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,79 +44,79 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Telecommunicatiewet.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Machtigingswet Koninklijke PTT Nederland N.V.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Mediawet.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Burgerlijk Wetboek.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Wetboek van Strafvordering.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten 2002.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Auteurswet 1912.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de naburige rechten.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet Onafhankelijke post- en telecommunicatieautoriteit.
 
-#### Artikel XI
+##### Artikel XI
 
 Onverminderd het bepaalde in [artikel 1:8, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:8), blijven verplichtingen op grond van deze wet of op grond van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) zoals deze luidt na het tijdstip van inwerkingtreding van deze wet, die ertoe strekken om ontwerpen van besluiten aan de Staten-Generaal voor te leggen buiten toepassing voor zover deze besluiten zijn vastgesteld voor het tijdstip van inwerkingtreding van deze wet.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Intrekkingswet van de Radio-Omroep-Zender-Wet 1935 en enige daarmee verband houdende wettelijke voorzieningen.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt deze wet.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Telecommunicatiewet.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Telecommunicatiewet.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt deze wet.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt het Burgerlijk Wetboek Boek 3.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Mededingingswet, de Elektriciteitswet 1998, de Gaswet en de Wet bestuursrechtspraak bedrijfsorganisatie.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Na de inwerkingtreding van deze wet berust:
 
@@ -100,11 +126,11 @@ Na de inwerkingtreding van deze wet berust:
 
 - c. het [Besluit 1-1-2 alarmcentrales](https://wetten.overheid.nl/jci1.3:c:BWBR0009991) mede op [artikel 11.10, vijfde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.10).
 
-#### Artikel XX
+##### Artikel XX
 
 De tekst van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) wordt in het Staatsblad geplaatst.
 
-#### Artikel XXI
+##### Artikel XXI
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
@@ -112,7 +138,7 @@ De tekst van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 3. In een koninklijk besluit als bedoeld in het eerste en tweede lid, wordt zo nodig toepassing gegeven aan [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16).
 
-#### Artikel XXII
+##### Artikel XXII
 
 Deze wet wordt aangehaald als: Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002.
 

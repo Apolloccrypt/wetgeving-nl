@@ -1,13 +1,37 @@
 ---
 title: "Beleidsregels Toetsingskader Wet verplichte beroepspensioenregeling, aangepaste versie"
 identifier: "BWBR0032445"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032445"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032445"
+soort: "beleidsregel"
+stam_id: "11952703"
+version_id: "24973742"
+internal_id: "C35708411"
+label_id: "11925504"
+dtd_version: "2.0"
+original_entry_into_force: "2018-04-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032445/2021-01-01/0"
+intitule_bron: "Stcrt.2012-25924"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2012-12-17"
+intitule_in_force: "2012-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-19650"
+original_signed_date: "2018-03-26"
+original_published_date: "2018-04-10"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2018-19650"
+entry_into_force_date: "2018-04-11"
+jci_1_3: "jci1.3:c:BWBR0032445&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0032445&g=2021-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2018-03-26"
+entry_into_force: "2018-04-11"
 ---
-
 # Beleidsregels Toetsingskader Wet verplichte beroepspensioenregeling, aangepaste versie
 
 Het Toetsingskader Wet verplichte beroepspensioenregeling (Toetsingskader Wvb) is na de inwerkingtreding van de [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831) (Wvb) ingevoerd per 1 september 2006. Beroepsgenoten, belanghebbenden en derden krijgen via het Toetsingskader Wvb inzicht in de criteria waaraan aanvragen om verplichtstelling en ook om wijziging of intrekking ervan, worden getoetst evenals in de procedures die daarbij gevolgd worden. Hierdoor kan ook van die zijde een bijdrage worden geleverd aan een snellere afwikkeling van aanvragen op basis van de Wvb.

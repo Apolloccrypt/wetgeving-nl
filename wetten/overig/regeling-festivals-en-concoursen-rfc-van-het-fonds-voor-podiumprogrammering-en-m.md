@@ -1,16 +1,40 @@
 ---
 title: "Regeling Festivals en Concoursen (RFC) van het Fonds voor Podiumprogrammering en Marketing"
 identifier: "BWBR0017292"
-categorie: "Overig"
-publicatiedatum: 2004-10-17
-laatste_update: 2004-10-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017292"
+country: "nl"
+rank: "zbo"
+publication_date: "2004-10-17"
+last_updated: "2004-10-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017292"
+soort: "zbo"
+stam_id: "6714733"
+version_id: "11560862"
+internal_id: "C15585061"
+label_id: "6703194"
+original_entry_into_force: "2004-10-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017292/2004-10-17/0"
+intitule_bron: "Stcrt.2004-198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-10-07"
+intitule_published: "2004-10-14"
+intitule_in_force: "2004-10-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-198"
+original_signed_date: "2004-10-07"
+original_published_date: "2004-10-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-198-p22-SC67037"
+entry_into_force_date: "2004-10-17"
+jci_1_3: "jci1.3:c:BWBR0017292&z=2004-10-17&g=2004-10-17"
+jci_1_0: "1.0:c:BWBR0017292&g=2004-10-17"
+citeertitel_status: "officieel"
+signed_date: "2004-10-07"
+entry_into_force: "2004-10-17"
 ---
-
 # Regeling Festivals en Concoursen (RFC) van het Fonds voor Podiumprogrammering en Marketing
 
-#### Artikel 1. - Begripsbepalingen
+##### Artikel 1. - Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 Waar in deze regeling festival(s) of festivalorganisatie(s) staat kan ook concours(en) worden gelezen.
 
-#### Artikel 2. - Doel
+##### Artikel 2. - Doel
 
 Het doel van de subsidieregeling is om met subsidie festivalorganisaties in staat te stellen:
 
@@ -36,11 +60,11 @@ Het doel van de subsidieregeling is om met subsidie festivalorganisaties in staa
 
 - •. de programmering af te stemmen op een landelijke spreiding.
 
-#### Artikel 3. - Wie kunnen subsidie aanvragen?
+##### Artikel 3. - Wie kunnen subsidie aanvragen?
 
 Subsidie kan uitsluitend worden aangevraagd door festivalorganisaties.
 
-#### Artikel 4. - Verplichtingen subsidieaanvragers
+##### Artikel 4. - Verplichtingen subsidieaanvragers
 
 1. Een aanvrager voldoet aan de volgende verplichtingen:
 
@@ -54,7 +78,7 @@ Subsidie kan uitsluitend worden aangevraagd door festivalorganisaties.
 
 - b. een afschrift waaruit de inschrijving van de aanvrager in het geldende openbaar register blijkt.
 
-#### Artikel 5. - Verplichtingen subsidieaanvraag
+##### Artikel 5. - Verplichtingen subsidieaanvraag
 
 1. De aanvraag dient te voldoen aan de volgende voorwaarden:
 
@@ -70,7 +94,7 @@ Subsidie kan uitsluitend worden aangevraagd door festivalorganisaties.
 
 - b. een afschrift waaruit de inschrijving van de aanvrager in het geldende openbaar register blijkt.
 
-#### Artikel 6. - Hoe wordt subsidie aangevraagd?
+##### Artikel 6. - Hoe wordt subsidie aangevraagd?
 
 Voor het indienen van aanvragen wordt gebruik gemaakt van het aanvraagformulier Regeling Festivals en Concoursen van het fonds. Dit formulier kan worden gedownload van www.fppm.nl of bij het fonds worden opgevraagd.
 
@@ -118,7 +142,7 @@ Een marketingplan bestaat in ieder geval uit de volgende delen:
 
 - -. een beschrijving van de middelen waarmee u de doelstelling van uw project wilt bewerkstelligen.
 
-#### Artikel 7. - Subsidiabele kosten
+##### Artikel 7. - Subsidiabele kosten
 
 De subsidiabele kosten zijn:
 
@@ -126,17 +150,17 @@ De subsidiabele kosten zijn:
 
 - b). de kosten voor extra te ontwikkelen marketingactiviteiten van het festival in zijn totaliteit.
 
-#### Artikel 8. - Aanvraagtermijn
+##### Artikel 8. - Aanvraagtermijn
 
 Er zijn twee indientermijnen per jaar. Aanvragen voor festivals die plaatsvinden in de periode februari tot en met augustus worden medio november van het jaar daarvoor ingediend. Aanvragen voor festivals die plaatsvinden in de periode september tot en met februari van het volgend jaar worden medio maart ingediend. De exacte indientermijnen kunnen per jaar verschillen en worden vermeld op www.fppm.nl of zijn bij het fonds telefonisch op te vragen.
 
-#### Artikel 9. - Toetsing door het fonds
+##### Artikel 9. - Toetsing door het fonds
 
 Aanvragen worden bij ontvangst getoetst op volledigheid. Aanvragers van wie het subsidieverzoek niet voldoet aan de [artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017292&artikel=3&z=2004-10-17&g=2004-10-17) worden in de gelegenheid gesteld om de aanvraag binnen een termijn van twee weken aan te vullen. Aanvragen die dan nog niet volledig zijn worden niet in behandeling genomen.
 
 Het fonds maakt gebruik van een commissie die adviseert over de subsidieaanvragen. Tijdens de behandeling van een aanvraag wordt over de voortgang daarvan geen informatie verstrekt.
 
-#### Artikel 10. - Toetsingscriteria
+##### Artikel 10. - Toetsingscriteria
 
 De commissies beoordelen de aanvragen aan de hand van de onderstaande toetsingscriteria. Acceptatie van de aanvraag is afhankelijke van de mate waarin de aanvraag beantwoordt aan deze criteria.
 
@@ -176,33 +200,33 @@ Getoetst wordt:
 
 Getoetst wordt de kwaliteit van het festival op het gebied van productie, organisatie en financieel beheer.
 
-#### Artikel 11. - Subsidieverlening
+##### Artikel 11. - Subsidieverlening
 
 1. Het fonds geeft na uiterlijk tien weken, gerekend vanaf de voor dat jaar geldende beoordelingsrondes, uitsluitsel over de subsidieverlening met inachtneming van het advies van de commissie. Indien de beschikking niet binnen tien weken kan worden gegeven, stelt het fonds de aanvrager daarvan in kennis en noemt daarbij de termijn waarbinnen de beschikking kan worden tegemoet gezien. Het advies wordt met de subsidiebeschikking meegezonden. Wanneer het bestuur van het fonds afwijkt van het advies van de commissie wordt dit besluit gemotiveerd.
 
 2. In de beschikking staat de hoogte van de verleende subsidie vermeld en voor welke activiteiten en voor welke periode de subsidieverlening geldt. In de beschikking kunnen voorwaarden en nadere verplichtingen worden vermeld.
 
-#### Artikel 12. - Subsidieplafond
+##### Artikel 12. - Subsidieplafond
 
 Het subsidieplafond kan per kalenderjaar verschillen en wordt voor het betreffende jaar gepubliceerd in de Staatscourant. Gepubliceerd wordt het budget dat totaal voor de RFC beschikbaar is in dat jaar en het maximumbedrag dat per festivalorganisatie kan worden aangevraagd. Subsidie wordt slechts verleend voorzover de middelen van het fonds toereikend zijn. Onder meer vanwege de beperkte hoeveelheid middelen kan het voorkomen dat het fonds niet alle aanvragen kan honoreren of aanvragen met een positief advies voor het gevraagde bedrag kan honoreren.
 
-#### Artikel 13. - Subsidieverplichtingen
+##### Artikel 13. - Subsidieverplichtingen
 
 De Subsidieverplichtingen maken deel uit van de Regeling Festivals en Concoursen (RFC) en zijn opgenomen in de Bijlage - Subsidieverplichtingen behorend bij de Regeling Festivals en Concoursen van het Fonds voor Podiumprogrammering en Marketing.
 
-#### Artikel 14. - Bezwaar en beroep
+##### Artikel 14. - Bezwaar en beroep
 
 Een aanvrager kan bezwaar maken tegen een beslissing van het fonds. Op de bezwaarschriftenprocedure is de Algemene wet bestuursrecht van toepassing. Indien een brief van het fonds een beslissing bevat staat in de brief de bezwaarmogelijkheid aangegeven.
 
-#### Artikel 15. - Bekendmaking
+##### Artikel 15. - Bekendmaking
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 16. - Inwerkingtreding
+##### Artikel 16. - Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de derde dag na de datum van uitgifte van de Staatscourant.
 
-#### Artikel 17. - Citeertitel
+##### Artikel 17. - Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Festivals en Concoursen (RFC) van het Fonds voor Podiumprogrammering en Marketing.
 

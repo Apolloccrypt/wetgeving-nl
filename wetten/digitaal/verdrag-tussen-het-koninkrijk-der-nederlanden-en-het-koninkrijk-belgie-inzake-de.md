@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens"
 identifier: "BWBV0006852"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2023-05-01
-laatste_update: 2023-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006852"
+country: "nl"
+rank: "verdrag"
+publication_date: "2023-05-01"
+last_updated: "2023-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006852"
+soort: "verdrag"
+stam_id: "10005547773"
+version_id: "10006038032"
+internal_id: "C10009978701"
+label_id: "10005530894"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006852/2023-05-01/0"
+intitule_bron: "Trb.2019-169"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-11-12"
+intitule_in_force: "2023-03-20"
+intitule_status: "goed"
+original_publication: "Trb.2019-169"
+original_published_date: "2019-11-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2019-169"
+entry_into_force_date: "2023-05-01"
+jci_1_3: "jci1.3:c:BWBV0006852&z=2023-05-01&g=2023-05-01"
+jci_1_0: "1.0:c:BWBV0006852&g=2023-05-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-05-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens
 
 Het Koninkrijk der Nederlanden
@@ -20,11 +42,11 @@ Hierna te noemen „de partijen”,
 
 Geleid door de wens de wederzijdse beveiliging te waarborgen van gerubriceerde gegevens die worden uitgewisseld tussen hen of tussen rechtspersonen of natuurlijke personen onder hun rechtsmacht of die worden gegenereerd in het kader van een bilateraal programma uit hoofde van dit Verdrag, in het belang van de nationale veiligheid, komen het volgende overeen.
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Dit Verdrag heeft ten doel de beveiliging te waarborgen van gerubriceerde gegevens die worden uitgewisseld tussen de partijen of tussen rechtspersonen of natuurlijke personen onder hun rechtsmacht, of die worden gegenereerd in het kader van een bilateraal programma uit hoofde van dit Verdrag. In het Verdrag worden de veiligheidsprocedures en regelingen voor deze beveiliging vastgelegd.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -56,13 +78,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - „Derde”, elke internationale organisatie of staat, met inbegrip van rechtspersonen of natuurlijke personen onder zijn rechtsmacht, die geen partij is bij dit Verdrag.
 
-#### Artikel 3. Bevoegde veiligheidsautoriteiten
+##### Artikel 3. Bevoegde veiligheidsautoriteiten
 
 1. De bevoegde veiligheidsautoriteiten van de partijen staan vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006852&bijlage=I&z=2023-05-01&g=2023-05-01) bij dit Verdrag.
 
 2. De bevoegde veiligheidsautoriteiten voorzien elkaar van de officiële contactgegevens.
 
-#### Artikel 4. Rubriceringsniveaus
+##### Artikel 4. Rubriceringsniveaus
 
 De rubriceringsniveaus corresponderen met elkaar zoals hieronder aangegeven en worden als equivalent beschouwd:
 
@@ -78,7 +100,7 @@ Informatie die van Nederland wordt ontvangen en de rubricering „DEPARTEMENTAAL
 
 Informatie die van België wordt ontvangen en de rubricering „BEPERKTE VERSPREIDING/DIFFUSION RESTREINTE” heeft, wordt behandeld als „DEPARTEMENTAAL VERTROUWELIJK” in Nederland.
 
-#### Artikel 5. Toegang tot gerubriceerde gegevens
+##### Artikel 5. Toegang tot gerubriceerde gegevens
 
 1. Toegang tot gerubriceerde gegevens op het niveau VERTROUWELIJK/CONFIDENTIEL/Stg CONFIDENTIEEL of hoger is beperkt tot natuurlijke personen die van de gegevens op de hoogte moeten zijn (need to know), zijn ingelicht over hun verantwoordelijkheden en een veiligheidsmachtiging personeel hebben in overeenstemming met de nationale wet- en regelgeving.
 
@@ -88,7 +110,7 @@ Informatie die van België wordt ontvangen en de rubricering „BEPERKTE VERSPRE
 
 4. Toegang tot gegevens op het niveau BEPERKTE VERSPREIDING/DIFFUSION RESTREINTE en DEPARTEMENTAAL VERTROUWELIJK is beperkt tot natuurlijke personen die van de gegevens op de hoogte moeten zijn (need to know) en zijn ingelicht over hun verantwoordelijkheden in overeenstemming met de nationale wet- en regelgeving.
 
-#### Artikel 6. Veiligheidsmaatregelen
+##### Artikel 6. Veiligheidsmaatregelen
 
 1. De partijen nemen alle passende maatregelen die krachtens hun nationale wet- en regelgeving van toepassing zijn op de uit hoofde van dit Verdrag gegenereerde en/of verstrekte gerubriceerde gegevens.
 
@@ -112,7 +134,7 @@ Informatie die van België wordt ontvangen en de rubricering „BEPERKTE VERSPRE
 
 - e. gerubriceerde gegevens uitsluitend gebruiken voor het doel waarvoor zij zijn verstrekt en in overeenstemming met de eisen voor gebruik van de partij van herkomst.
 
-#### Artikel 7. Veiligheidssamenwerking
+##### Artikel 7. Veiligheidssamenwerking
 
 1. Teneinde vergelijkbare veiligheidsnormen te handhaven, verstrekken de bevoegde veiligheidsautoriteiten elkaar op verzoek informatie over hun veiligheidsvoorschriften, -beleid en -praktijken met betrekking tot de beveiliging van gerubriceerde gegevens.
 
@@ -124,7 +146,7 @@ Informatie die van België wordt ontvangen en de rubricering „BEPERKTE VERSPRE
 
 5. Bij de samenwerking uit hoofde van dit Verdrag wordt gebruikgemaakt van de Engelse taal.
 
-#### Artikel 8. Gerubriceerde contracten
+##### Artikel 8. Gerubriceerde contracten
 
 1. Indien een partij of een opdrachtnemer onder haar rechtsmacht voorstelt een gerubriceerd contract te gunnen aan een opdrachtnemer onder de rechtsmacht van de andere partij, dient zij eerst de schriftelijke bevestiging te verkrijgen van de andere partij dat aan deze opdrachtnemer een veiligheidsmachtiging bedrijfslocatie en/of veiligheidsmachtiging personeel is/zijn toegekend op het juiste rubriceringsniveau.
 
@@ -156,13 +178,13 @@ Informatie die van België wordt ontvangen en de rubricering „BEPERKTE VERSPRE
 
 5. De procedures voor de goedkeuring van bezoeken die samenhangen met activiteiten onder een gerubriceerd contract door personeel van de ene partij aan de andere partij, dient in overeenstemming met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006852&artikel=11&z=2023-05-01&g=2023-05-01) van dit Verdrag te zijn.
 
-#### Artikel 9. Overbrenging van gerubriceerde gegevens
+##### Artikel 9. Overbrenging van gerubriceerde gegevens
 
 1. Gerubriceerde gegevens worden overgebracht in overeenstemming met de nationale wet- en regelgeving van de verstrekkende partij of zoals anderszins overeengekomen tussen de bevoegde veiligheidsautoriteiten.
 
 2. De partijen kunnen gerubriceerde gegevens die door encryptie beveiligd zijn overbrengen in overeenstemming met procedures die door de bevoegde autoriteiten dienen te worden goedgekeurd.
 
-#### Artikel 10. Reproductie, vertaling en vernietiging van gerubriceerde gegevens
+##### Artikel 10. Reproductie, vertaling en vernietiging van gerubriceerde gegevens
 
 1. Reproducties en vertalingen van gerubriceerde gegevens krijgen van toepassing zijnde rubriceringsmarkeringen en worden op dezelfde wijze beveiligd als de oorspronkelijke gerubriceerde gegevens.
 
@@ -178,7 +200,7 @@ Informatie die van België wordt ontvangen en de rubricering „BEPERKTE VERSPRE
 
 7. Indien een crisissituatie het onmogelijk maakt de uit hoofde van dit Verdrag verstrekte gerubriceerde gegevens te beveiligen, dienen de gerubriceerde gegevens onmiddellijk vernietigd te worden. De ontvangende partij stelt de bevoegde veiligheidsautoriteit van de verstrekkende partij onverwijld in kennis van de vernietiging van deze gerubriceerde gegevens.
 
-#### Artikel 11. Bezoeken
+##### Artikel 11. Bezoeken
 
 1. Bezoeken waarbij toegang tot gerubriceerde gegevens vereist is, dienen vooraf schriftelijk te worden goedgekeurd door de respectieve bevoegde veiligheidsautoriteit, tenzij anderszins overeengekomen door de bevoegde veiligheidsautoriteiten.
 
@@ -204,7 +226,7 @@ Informatie die van België wordt ontvangen en de rubricering „BEPERKTE VERSPRE
 
 5. Gerubriceerde gegevens die aan een bezoeker worden verstrekt of door deze worden verkregen, worden behandeld in overeenstemming met de bepalingen van dit Verdrag.
 
-#### Artikel 12. Veiligheidsincident
+##### Artikel 12. Veiligheidsincident
 
 1. De bevoegde veiligheidsautoriteiten stellen elkaar onverwijld schriftelijk in kennis van een feitelijk of vermoedelijk veiligheidsincident waarbij gerubriceerde gegevens van de andere partij betrokken zijn.
 
@@ -212,23 +234,23 @@ Informatie die van België wordt ontvangen en de rubricering „BEPERKTE VERSPRE
 
 3. De bevoegde veiligheidsautoriteit neemt passende maatregelen in overeenstemming met zijn nationale wet- en regelgeving om de gevolgen van het incident te beperken en herhalingen te voorkomen. De bevoegde veiligheidsautoriteit van de andere partij wordt in kennis gesteld van de uitkomsten van het onderzoek en de eventuele getroffen maatregelen.
 
-#### Artikel 13. Kosten
+##### Artikel 13. Kosten
 
 Elke partij draagt haar eigen kosten die ontstaan in verband met de uitvoering van haar verplichtingen ingevolge dit Verdrag.
 
-#### Artikel 14. Oplossing van geschillen
+##### Artikel 14. Oplossing van geschillen
 
 Elk geschil omtrent de interpretatie of toepassing van dit Verdrag wordt uitsluitend beslecht door middel van onderhandelingen tussen de partijen.
 
-#### Artikel 15. Relatie met andere verdragen
+##### Artikel 15. Relatie met andere verdragen
 
 Dit Verdrag heeft geen voorrang boven elk internationaal verdrag dat reeds is gesloten of nog kan worden gesloten en dat specifiek betrekking heeft op een verrichting waarop dit Verdrag anderszins van toepassing is.
 
-#### Artikel 16. Uitvoeringsregelingen
+##### Artikel 16. Uitvoeringsregelingen
 
 De bevoegde veiligheidsautoriteiten kunnen uitvoeringsregelingen sluiten ingevolge dit Verdrag.
 
-#### Artikel 17. Slotbepalingen
+##### Artikel 17. Slotbepalingen
 
 1. Dit Verdrag wordt gesloten voor onbepaalde tijd. Elke partij stelt de andere partij langs diplomatieke weg in kennis van de voltooiing van de nationale maatregelen die nodig zijn voor de inwerkingtreding van dit Verdrag. Dit Verdrag treedt in werking op de eerste dag van de tweede maand die volgt op de ontvangst van de laatste kennisgeving.
 

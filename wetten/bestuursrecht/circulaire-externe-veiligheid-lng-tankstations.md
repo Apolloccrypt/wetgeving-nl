@@ -1,13 +1,38 @@
 ---
 title: "Circulaire externe veiligheid LNG-tankstations"
 identifier: "BWBR0036225"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-02-04
-laatste_update: 2015-02-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036225"
+country: "nl"
+rank: "circulaire"
+publication_date: "2015-02-04"
+last_updated: "2015-02-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036225"
+soort: "circulaire"
+stam_id: "12973043"
+version_id: "22129292"
+internal_id: "C31735871"
+label_id: "12942094"
+dtd_version: "2.0"
+original_entry_into_force: "2015-02-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036225/2015-02-04/0"
+intitule_bron: "Stcrt.2015-3125"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-01-28"
+intitule_published: "2015-02-04"
+intitule_in_force: "2015-02-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-3125"
+original_signed_date: "2015-01-28"
+original_published_date: "2015-02-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-3125"
+entry_into_force_date: "2015-02-04"
+jci_1_3: "jci1.3:c:BWBR0036225&z=2015-02-04&g=2015-02-04"
+jci_1_0: "1.0:c:BWBR0036225&g=2015-02-04"
+citeertitel_status: "redactioneel"
+signed_date: "2015-01-28"
+entry_into_force: "2015-02-04"
 ---
-
 # Circulaire externe veiligheid LNG-tankstations
 
 In deze circulaire wordt het interimbeleid weergegeven ten aanzien van de beoordeling van externe veiligheidsrisico’s van LNG1LNG (Liquefied Natural Gas) is vloeibaar gemaakt aardgas.-tankstations. Deze circulaire is gericht aan het bevoegd gezag dat te maken heeft met de vergunningverlening voor milieu en de ruimtelijke ordening in relatie tot de LNG-tankstations.

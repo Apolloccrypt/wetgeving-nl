@@ -1,13 +1,39 @@
 ---
-title: "Rechtspositiebesluit toetsingscommissie inzet bevoegdheden en commissie van toezicht op de inlichtingen- en veiligheidsdiensten"
+title: "Besluit van 7 december 2017 tot vaststelling van de rechtspositie van de voorzitter en leden van de toetsingscommissie inzet bevoegden en van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten (Rechtspositiebesluit toetsingscommissie inzet bevoegdheden en commissie van toezicht op de inlichtingen- en veiligheidsdiensten)"
 identifier: "BWBR0040419"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040419"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040419"
+soort: "AMvB"
+stam_id: "14458833"
+version_id: "24731292"
+internal_id: "C35673671"
+label_id: "14419324"
+dtd_version: "2.0"
+original_entry_into_force: "2018-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040419/2022-01-01/0"
+intitule_bron: "Stb.2017-498"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-12-07"
+intitule_published: "2017-12-22"
+intitule_in_force: "2018-03-21"
+intitule_status: "goed"
+original_publication: "Stb.2017-498"
+original_signed_date: "2017-12-07"
+original_published_date: "2017-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2017-498"
+entry_into_force_date: "2018-04-01"
+jci_1_3: "jci1.3:c:BWBR0040419&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0040419&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Rechtspositiebesluit toetsingscommissie inzet bevoegdheden en commissie van toezicht op de inlichtingen- en veiligheidsdiensten"
+signed_date: "2017-12-07"
+entry_into_force: "2018-04-01"
 ---
-
 # Besluit van 7 december 2017 tot vaststelling van de rechtspositie van de voorzitter en leden van de toetsingscommissie inzet bevoegden en van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten (Rechtspositiebesluit toetsingscommissie inzet bevoegdheden en commissie van toezicht op de inlichtingen- en veiligheidsdiensten)
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, gedaan in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Defensie, van 10 april 2017;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister-President, Minister van Algemene Zake
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - f. **rijksambtenaren:** degenen die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het salaris van het lid dat tot voorzitter van de toetsingscommissie inzet bevoegdheden onderscheidenlijk van het lid dat tot voorzitter van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten is benoemd, is gelijk aan het maximum van salarisschaal 19 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
@@ -58,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 9. Indien een lid overlijdt, ontvangt zijn weduwe of weduwnaar, waaronder mede wordt verstaan de achtergebleven levenspartner of de achtergebleven geregistreerd partner, van wie hij niet duurzaam gescheiden leefde, dan wel ontvangen zijn minderjarige kinderen, een uitkering overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Boven en behalve het salaris, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040419&artikel=2&z=2022-01-01&g=2022-01-01), genieten de leden een vakantie-uitkering, een eindejaarsuitkering, een vergoeding van reis- en verblijfkosten voor dienstreizen, een tegemoetkoming in de kosten voor reizen in het kader van woon-werkverkeer en een gratificatie bij ambtsjubileum overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
@@ -68,7 +94,7 @@ In dit besluit wordt verstaan onder:
 
 4. Ten aanzien van de leden is hetgeen dat voor rijksambtenaren in de laatstelijk afgesloten collectieve arbeidsovereenkomst is overeengekomen met betrekking tot de aanspraak op, het opnemen en het verval van de aanspraak op vakantie, van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een lid meldt afwezigheid in verband met ziekte terstond aan de daartoe aangewezen afdeling van het Ministerie van Algemene Zaken.
 
@@ -76,11 +102,11 @@ In dit besluit wordt verstaan onder:
 
 3. Aan een lid wordt, met inachtneming van [artikel 100 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=100), ontslag verleend wanneer hij gedurende een ononderbroken periode van twee jaar uit hoofde van ziekte of gebreken ongeschikt is zijn functie te vervullen en hij blijvend ongeschikt is zijn functie te vervullen.
 
-#### Artikel 5
+##### Artikel 5
 
 Een lid dat niet wordt herbenoemd zonder dat hij daarom heeft verzocht en daardoor werkloos wordt in de zin van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), dan wel wordt ontslagen wegens blijvende arbeidsongeschiktheid wegens ziekte of gebreken, heeft, tenzij recht bestaat op ouderdomspensioen, recht op een bovenwettelijke uitkering overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een lid van de afdeling klachtbehandeling en een plaatsvervangend lid van de toetsingscommissie inzet bevoegdheden geniet een vergoeding per vergadering van 3% overeenkomstig het maximum van salarisschaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
@@ -88,19 +114,19 @@ Een lid dat niet wordt herbenoemd zonder dat hij daarom heeft verzocht en daardo
 
 3. Een lid van de afdeling klachtbehandeling en een plaatsvervangend lid van de toetsingscommissie inzet bevoegdheden ontvangt voor het bijwonen van een vergadering een vergoeding voor reiskosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
-#### Artikel 7
+##### Artikel 7
 
 Onze Minister kan van dit besluit afwijken voor zover toepassing, gelet op het belang dat dit besluit beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 8
+##### Artikel 8
 
 Het [Rechtspositiebesluit commissie van toezicht op de inlichtingen- en veiligheidsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0013917) wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Rechtspositiebesluit toetsingscommissie inzet bevoegdheden en commissie van toezicht op de inlichtingen- en veiligheidsdiensten.
 

@@ -1,13 +1,35 @@
 ---
 title: "Protocol van 2014 bij het Verdrag betreffende de gedwongen arbeid"
 identifier: "BWBV0006447"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2018-08-08
-laatste_update: 2014-06-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006447"
+country: "nl"
+rank: "verdrag"
+publication_date: "2018-08-08"
+last_updated: "2014-06-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006447"
+soort: "verdrag"
+stam_id: "10005267283"
+version_id: "10005659682"
+internal_id: "C10009277691"
+label_id: "10005250124"
+dtd_version: "2.0"
+original_entry_into_force: "2018-08-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006447/2018-08-08/0"
+intitule_bron: "Trb.2015-32"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-02-27"
+intitule_in_force: "2017-09-06"
+intitule_status: "goed"
+original_publication: "Trb.2015-32"
+original_published_date: "2015-02-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2015-32"
+entry_into_force_date: "2018-08-08"
+jci_1_3: "jci1.3:c:BWBV0006447&z=2018-08-08&g=2018-08-08"
+jci_1_0: "1.0:c:BWBV0006447&g=2018-08-08"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-08-08"
 ---
-
 # Protocol van 2014 bij het Verdrag betreffende de gedwongen arbeid
 
 Preambule
@@ -44,7 +66,7 @@ Vastgesteld hebbend dat deze voorstellen de vorm dienen te krijgen van een Proto
 
 Neemt de elfde juni tweeduizend veertien het volgende protocol aan dat kan worden aangehaald als het Protocol van 2014 bij het Verdrag inzake de gedwongen of verplichte arbeid, 1930.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Bij de nakoming van zijn verplichtingen uit hoofde van het [Verdrag tot bestrijding van gedwongen of verplichte arbeid](onbekend) treft elk Lid effectieve maatregelen teneinde het gebruik ervan te voorkomen en uit te bannen, slachtoffers bescherming en toegang tot passende en effectieve rechtsmiddelen zoals schadeloosstelling te bieden, en degenen die verantwoordelijk zijn voor de gedwongen of verplichte arbeid te bestraffen.
 
@@ -52,7 +74,7 @@ Neemt de elfde juni tweeduizend veertien het volgende protocol aan dat kan worde
 
 3. De omschrijving van gedwongen of verplichte arbeid vervat in het [Verdrag](onbekend) wordt opnieuw bevestigd en de maatregelen waarnaar dit Protocol verwijst omvatten bijgevolg specifieke activiteiten tegen mensenhandel met het oogmerk van gedwongen of verplichte arbeid.
 
-#### Artikel 2
+##### Artikel 2
 
 De te nemen maatregelen ter bestrijding van gedwongen of verplichte arbeid omvatten:
 
@@ -72,35 +94,35 @@ De te nemen maatregelen ter bestrijding van gedwongen of verplichte arbeid omvat
 
 - f. aanpakken van de onderliggende oorzaken en factoren die gedwongen of verplichte arbeid in de hand werken.
 
-#### Artikel 3
+##### Artikel 3
 
 Elk Lid neemt effectieve maatregelen voor de identificatie, bevrijding, bescherming, herstel en rehabilitatie van alle slachtoffers van gedwongen of verplichte arbeid, alsmede voor het verschaffen van andere vormen van bijstand en ondersteuning.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Elk Lid ziet erop toe dat alle slachtoffers van gedwongen of verplichte arbeid, ongeacht hun aanwezigheid of wettelijke status op het nationale grondgebied, toegang krijgen tot passende en effectieve rechtsmiddelen, zoals schadeloosstelling.
 
 2. Elk Lid treft in overeenstemming met de grondbeginselen van zijn rechtsorde, de nodige maatregelen om ervoor te zorgen dat de bevoegde autoriteiten gerechtigd zijn om slachtoffers van gedwongen of verplichte arbeid niet te vervolgen of te bestraffen wegens gedwongen betrokkenheid bij wederrechtelijke activiteiten die een rechtstreeks gevolg is van de gedwongen of verplichte arbeid.
 
-#### Artikel 5
+##### Artikel 5
 
 De Leden werken met elkaar samen teneinde te waarborgen dat alle vormen van gedwongen of verplichte arbeid worden voorkomen en uitgebannen.
 
-#### Artikel 6
+##### Artikel 6
 
 De maatregelen genomen voor de toepassing van dit Protocol en van het [Verdrag](onbekend) worden vastgesteld via de nationale wet- of regelgeving of door de bevoegde autoriteit na overleg met de betrokken werkgevers- en werknemersorganisaties.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt het Verdrag betreffende de gedwongen of verplichte arbeid; Genève, 28 juni 1930.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een Lid kan dit Protocol op het tijdstip van of te allen tijde na de bekrachtiging van het [Verdrag](onbekend) bekrachtigen door zijn formele bekrachtiging voor registratie mede te delen aan de Directeur-Generaal van het Internationaal Arbeidsbureau.
 
 2. Het Protocol treedt in werking twaalf maanden na de datum waarop de bekrachtigingen van twee Leden door de Directeur-Generaal zijn geregistreerd. Daarna treedt dit Protocol voor een Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd en is het [Verdrag](onbekend) met inbegrip van de artikelen 1 tot met 7van dit Protocol bindend voor het desbetreffende Lid.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een Lid dat dit Protocol heeft bekrachtigd kan het Protocol zodra het [Verdrag](onbekend) overeenkomstig [artikel 30 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006218&artikel=30) kan worden opgezegd, te allen tijde opzeggen door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde akte.
 
@@ -108,16 +130,16 @@ Wijzigt het Verdrag betreffende de gedwongen of verplichte arbeid; Genève, 28 j
 
 3. Opzegging overeenkomstig het eerste of tweede lid van dit artikel wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen, verklaringen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
 
 2. Bij kennisgeving aan de Leden van de Organisatie van de registratie van de tweede bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Protocol in werking treedt.
 
-#### Artikel 11
+##### Artikel 11
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met het bepaalde in [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van alle bijzonderheden omtrent alle bekrachtigingen, verklaringen en opzeggingen die door de Directeur-Generaal worden geregistreerd.
 
-#### Artikel 12
+##### Artikel 12
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk gezaghebbend.

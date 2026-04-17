@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake de Internationale Organisatie voor Telecommunicatiesatellieten"
 identifier: "BWBV0004067"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2004-11-30
-laatste_update: 2004-11-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004067"
+country: "nl"
+rank: "verdrag"
+publication_date: "2004-11-30"
+last_updated: "2004-11-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004067"
+soort: "verdrag"
+stam_id: "10003885803"
+version_id: "10003972442"
+internal_id: "C10006983971"
+label_id: "10003871264"
+dtd_version: "2.0"
+original_entry_into_force: "1973-05-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004067/2004-11-30/0"
+intitule_bron: "Trb.1972-65"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1972-06-06"
+intitule_in_force: "1973-07-31"
+intitule_status: "goed"
+original_publication: "Trb.1972-65"
+original_published_date: "1972-06-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1972-65"
+entry_into_force_date: "1973-05-23"
+jci_1_3: "jci1.3:c:BWBV0004067&z=2004-11-30&g=2004-11-30"
+jci_1_0: "1.0:c:BWBV0004067&g=2004-11-30"
+citeertitel_status: "redactioneel"
+entry_into_force: "1973-05-23"
 ---
-
 # Overeenkomst inzake de Internationale Organisatie voor Telecommunicatiesatellieten
 
 Preambule
@@ -30,7 +52,7 @@ Vastgesteld hebbende dat behoefte bestaat aan een intergouvernementele toezichth
 
 Zijn als volgt overeengekomen:
 
-#### Artikel I. Begripsomschrijvingen
+##### Artikel I. Begripsomschrijvingen
 
 In deze overeenkomst wordt verstaan onder:
 
@@ -72,11 +94,11 @@ In deze overeenkomst wordt verstaan onder:
 
 - s. „Administratie”: een regeringsafdeling of -instantie verantwoordelijk voor de naleving van de verplichtingen die zijn afgeleid van het Statuut van de Internationale Telecommunicatie-Unie, het Verdrag van de Internationale Telecommunicatie-Unie, en de Administratieve Voorschriften hiervan.
 
-#### Artikel II. Oprichting van ITSO
+##### Artikel II. Oprichting van ITSO
 
 Met volledige inachtneming van de in de Preambule van deze Overeenkomst neergelegde beginselen richten de Partijen de Internationale Organisatie voor Telecommunicatiesatellieten, hierna te noemen „ITSO”, op.
 
-#### Artikel III. Hoofddoel en Grondbeginselen van ITSO
+##### Artikel III. Hoofddoel en Grondbeginselen van ITSO
 
 a. Met inachtneming van de oprichting van de Onderneming is het hoofddoel van ITSO, door middel van de Algemene Dienstenovereenkomst, erop toe te zien dat de Onderneming op commerciële basis internationale openbare telecommunicatiediensten levert, teneinde de uitvoering van de Grondbeginselen te waarborgen.
 
@@ -88,7 +110,7 @@ b. De Grondbeginselen zijn:
 
 - iii. verlening van non-discriminatoire toegang tot het systeem van de Onderneming.
 
-#### Artikel IV. Verzorgde Binnenlandse Openbare Telecommunicatiediensten
+##### Artikel IV. Verzorgde Binnenlandse Openbare Telecommunicatiediensten
 
 De volgende diensten zullen ten behoeve van de toepassing van artikel III gelijkwaardig worden beschouwd aan internationale openbare telecommunicatiediensten:
 
@@ -96,11 +118,11 @@ De volgende diensten zullen ten behoeve van de toepassing van artikel III gelijk
 
 - b. binnenlandse openbare telecommunicatiediensten tussen gebieden die niet verbonden zijn door aardse breedbandfaciliteiten en die gescheiden zijn door natuurlijke barrières van een zodanig uitzonderlijk karakter, dat zij de reële mogelijkheid van totstandbrenging van aardse breedbandfaciliteiten tussen zodanige gebieden verhinderen, op voorwaarde dat de desbetreffende goedkeuring is verleend.
 
-#### Artikel V. Toezicht
+##### Artikel V. Toezicht
 
 ITSO neemt alle nodige maatregelen, waaronder het sluiten van de Algemene Dienstenovereenkomst, om toe te zien op de uitvoering door de Onderneming van de Grondbeginselen, in het bijzonder het beginsel van non-discriminatoire toegang tot het systeem van de Onderneming voor bestaande en toekomstige openbare telecommunicatiediensten die door de Onderneming worden geleverd wanneer op commerciële basis ruimtesectorcapaciteit beschikbaar is.
 
-#### Artikel VI. Rechtspersoonlijkheid
+##### Artikel VI. Rechtspersoonlijkheid
 
 a. ITSO bezit rechtspersoonlijkheid. Zij heeft alle bevoegdheden die nodig zijn voor de uitoefening van haar functies en het bereiken van haar doeleinden, met inbegrip van de bevoegdheid:
 
@@ -114,13 +136,13 @@ a. ITSO bezit rechtspersoonlijkheid. Zij heeft alle bevoegdheden die nodig zijn 
 
 b. Elke Partij neemt zodanige maatregelen als nodig blijken om de bepalingen van dit artikel binnen haar eigen rechtsgebied bindend te maken krachtens haar eigen wetgeving.
 
-#### Artikel VII. Financiële grondbeginselen
+##### Artikel VII. Financiële grondbeginselen
 
 a. ITSO wordt voor het in artikel XXI bepaalde tijdvak van twaalf jaren gefinancierd door het vasthouden van bepaalde financiële middelen ten tijde van de overdracht van het ITSO-ruimtesysteem aan de Onderneming.
 
 b. In het geval dat ITSO na twaalf jaar doorgaat, verkrijgt ITSO financiering via de Algemene Dienstenovereenkomst.
 
-#### Artikel VIII. Structurele opzet van ITSO
+##### Artikel VIII. Structurele opzet van ITSO
 
 ITSO heeft de volgende organen:
 
@@ -128,7 +150,7 @@ ITSO heeft de volgende organen:
 
 - b. een uitvoerend orgaan, met aan het hoofd de Directeur-Generaal, dat verantwoording verschuldigd is aan de Assemblee van Partijen.
 
-#### Artikel IX. Assemblee van Partijen
+##### Artikel IX. Assemblee van Partijen
 
 a. De Assemblee van Partijen is samengesteld uit alle Partijen en vormt het voornaamste orgaan van ITSO.
 
@@ -188,7 +210,7 @@ h. De Assemblee van Partijen stelt haar eigen huishoudelijk reglement vast, dat 
 
 i. Elke Partij voorziet in haar eigen kosten van vertegenwoordiging tijdens een bijeenkomst van de Assemblee van Partijen. De kosten van de bijeenkomsten der Assemblee van Partijen worden beschouwd als administratieve kosten van ITSO.
 
-#### Artikel X. Directeur-Generaal
+##### Artikel X. Directeur-Generaal
 
 a. Het uitvoerend orgaan wordt geleid door de Directeur-Generaal die rechtstreeks verantwoording verschuldigd is aan de Assemblee van Partijen.
 
@@ -230,7 +252,7 @@ Wanneer de Directeur-Generaal van mening is dat door het verzuim van een Partij 
 
 l. De Assemblee van Partijen wijst een senior functionaris van het uitvoerend orgaan aan die optreedt als Waarnemend Directeur-Generaal wanneer de Directeur-Generaal afwezig is of niet in staat is zijn taken te vervullen, of indien de functie van Directeur-Generaal vacant wordt. De Waarnemend Directeur-Generaal is gerechtigd tot uitoefening van alle bevoegdheden van de Directeur-Generaal uit hoofde van deze Overeenkomst. In het geval van een vacature treedt de Waarnemend Directeur-Generaal in die hoedanigheid op totdat het ambt wordt aanvaard door een Directeur-Generaal die zo snel mogelijk overeenkomstig lid b, paragraaf iii, van dit artikel wordt benoemd en bevestigd.
 
-#### Artikel XI. Rechten en verplichtingen van Partijen
+##### Artikel XI. Rechten en verplichtingen van Partijen
 
 a. De Partijen oefenen hun rechten uit en voldoen aan hun verplichtingen krachtens deze Overeenkomst op een wijze die geheel verenigbaar is met en ter bevordering dient van de in de Preambule opgenomen beginselen, de Grondbeginselen in artikel III en de andere bepalingen van deze Overeenkomst.
 
@@ -238,7 +260,7 @@ b. Alle Partijen dienen toegelaten te worden tot het bijwonen van en deelnemen a
 
 c. Alle Partijen nemen de noodzaakzakelijke maatregelen op een doorzichtige, non-discriminatoire en wat concurrentie betreft neutrale wijze, ingevolge de toepasselijke binnenlandse procedure en relevante internationale overeenkomsten waarbij zijn partij zijn, zodat de Onderneming de Grondbeginselen kan naleven.
 
-#### Artikel XII. Frequentietoewijzingen
+##### Artikel XII. Frequentietoewijzingen
 
 a. De Partijen van ITSO behouden de baanlocaties en frequentietoewijzingen die namens de Partijen bij de ITU worden gecoördineerd of geregistreerd ingevolge de bepalingen vervat in het ITU-Radioreglement totdat de gekozen Kennisgevende Administratie(s) kennisgeving aan de Depositaris heeft of hebben gedaan dat zij de onderhavige Overeenkomst heeft of hebben goedgekeurd, aanvaard of bekrachtigd. De Partijen kiezen uit de ITSO-leden een Partij die alle Partijen die ITSO-lid zijn bij de ITU vertegenwoordigt gedurende het tijdvak waarin de ITSO-Partijen deze toewijzingen behouden.
 
@@ -264,7 +286,7 @@ e. Elke Partij die overeenkomstig lid c is gekozen om op te treden als Kennisgev
 
 - v. pleegt overleg met de ITU betreffende de behoefte aan satellietcommunicatie van de LCO-gebruikers.
 
-#### Artikel XIII. Zetel van ITSO, Voorrechten, Vrijstellingen, Immuniteiten
+##### Artikel XIII. Zetel van ITSO, Voorrechten, Vrijstellingen, Immuniteiten
 
 a. De zetel van ITSO is gevestigd te Washington D.C., tenzij door de Assemblee van Partijen anders wordt besloten.
 
@@ -272,7 +294,7 @@ b. Binnen de omvang van de activiteiten waartoe deze Overeenkomst machtiging ver
 
 c. Elke Partij, behalve degene op wier grondgebied de zetel van ITSO is gevestigd, verleent in overeenstemming met het in dit lid bedoelde Protocol - en de Partij op wier grondgebied het hoofdkwartier van ITSO is gevestigd verleent in overeenstemming met de in dit lid genoemde Zetelovereenkomst - de passende voorrechten, vrijstellingen en immuniteiten aan ITSO, aan haar functionarissen en aan die categorieën van werknemers als zijn genoemd in bedoeld Protocol en in bedoelde Zetelovereenkomst aan Partijen en vertegenwoordigers van Partijen. In het bijzonder verleent elke Partij aan deze personen vrijwaring van wettelijke maatregelen in verband met verrichte handelingen of uitingen in woord en geschrift in de uitoefening van hun functie en binnen de grenzen van hun verplichtingen tot zover en in de gevallen als voorzien zijn in de Zetelovereenkomst en het Protocol als bedoeld in dit lid. De Partij op wier grondgebied de zetel van ITSO is gevestigd, sluit zo spoedig mogelijk een Zetelovereenkomst met ITSO, waarin voorrechten, vrijstellingen en immuniteiten worden geregeld. De andere Partijen sluiten, eveneens zo spoedig mogelijk, een Protocol ter regeling van voorrechten, vrijstellingen en immuniteiten. De Zetelovereenkomst en het Protocol zijn onafhankelijk van deze Overeenkomst en stellen elk hun eigen voorwaarden voor beëindiging vast.
 
-#### Artikel XIV. Terugtrekking
+##### Artikel XIV. Terugtrekking
 
 - i. Een Partij kan zich vrijwillig uit ITSO terugtrekken. Een Partij stelt de Depositaris schriftelijk in kennis van haar besluit zich terug te trekken.
 
@@ -290,7 +312,7 @@ d. Indien de Assemblee van Partijen ingevolge lid b van dit artikel besluit dat 
 
 e. Van geen enkele Partij wordt verlangd zich uit ITSO terug te trekken als een rechtstreeks gevolg van enige wijziging in de status van die Partij ten aanzien van de Verenigde naties of de Internationale Telecommunicatie-Unie.
 
-#### Artikel XV. Wijzigingen
+##### Artikel XV. Wijzigingen
 
 a. Elke Partij mag wijzigingen in deze Overeenkomst voorstellen. Voorgestelde wijzigingen worden voorgelegd aan het uitvoerend orgaan, dat ze onverwijld toezendt aan alle Partijen.
 
@@ -304,7 +326,7 @@ e. Zodra de Depositaris de aanvaardingen, goedkeuringen of bekrachtigingen, inge
 
 f. Niettegenstaande het bepaalde in de leden d en e van dit artikel wordt een wijziging niet van kracht binnen een termijn van acht maanden of later dan achttien maanden, te rekenen van de datum waarop zij door de Assemblee van Partijen is goedgekeurd.
 
-#### Artikel XVI. Beslechting van geschillen
+##### Artikel XVI. Beslechting van geschillen
 
 a. Alle geschillen van juridische aard, die rijzen met betrekking tot de rechten en verplichtingen krachtens deze Overeenkomst tussen Partijen ten aanzien van elkaar, of tussen ITSO en een of meerdere Partijen, worden, indien zij niet binnen een redelijke termijn zijn opgelost, onderworpen aan arbitrage overeenkomstig de bepalingen van Bijlage A bij deze Overeenkomst.
 
@@ -312,7 +334,7 @@ b. Alle geschillen van juridische aard die rijzen met betrekking tot de rechten 
 
 c. Alle geschillen van juridische aard die rijzen ten gevolge van overeenkomsten tussen ITSO en een Partij zijn onderworpen aan de bepalingen inzake de beslechting van geschillen die in zodanige overeenkomsten zijn opgenomen. Bij ontbreken van zodanige bepalingen kunnen deze geschillen, indien zij niet op andere wijze worden beslecht, worden onderworpen aan arbitrage in overeenstemming met de bepalingen van Bijlage A bij deze Overeenkomst, indien de partijen bij het geschil daarmee instemmen.
 
-#### Artikel XVII. Ondertekening
+##### Artikel XVII. Ondertekening
 
 a. Deze Overeenkomst staat voor ondertekening open te Washington van 20 augustus 1971 tot het tijdstip waarop zij in werking treedt of waarop een tijdvak van negen maanden is verlopen, naar gelang van het tijdstip dat het eerste valt:
 
@@ -326,7 +348,7 @@ c. De in lid a van dit artikel bedoelde Staten kunnen tot deze Overeenkomst toet
 
 d. Ten aanzien van deze Overeenkomst kunnen geen voorbehouden wordt gemaakt.
 
-#### Artikel XVIII. Inwerkingtreding
+##### Artikel XVIII. Inwerkingtreding
 
 a. Deze Overeenkomst treedt in werking zestig dagen na de datum waarop tweederden van het aantal Staten, die Partij waren bij de Voorlopige Overeenkomst op het tijdstip waarop deze Overeenkomst voor ondertekening werd opengesteld, haar zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring hebben ondertekend of waarop zij deze Overeenkomst hebben bekrachtigd, aanvaard, goedgekeurd of ertoe zijn toegetreden, mits tot dit aantal van tweederden Partijen bij de Voorlopige Overeenkomst behoren die op dat tijdstip ten minste beschikten over tweederden van de quota krachtens de Bijzondere Overeenkomst. Niettegenstaande de voorgaande bepalingen treedt deze Overeenkomst niet in werking op een eerder tijdstip dan acht maanden of meer dan achttien maanden na de datum waarop zij voor ondertekening is opengesteld.
 
@@ -344,7 +366,7 @@ Indien de voorlopige toepassing wordt beëindigd ingevolge de paragrafen ii of i
 
 d. Na haar inwerkingtreding vervangt en beëindigt deze Overeenkomst de Voorlopige Overeenkomst.
 
-#### Artikel XIX. Diverse bepalingen
+##### Artikel XIX. Diverse bepalingen
 
 a. De officiële talen en de werktalen van ITSO zijn het Engels, het Frans en het Spaans.
 
@@ -352,7 +374,7 @@ b. In de interne voorschriften voor het uitvoerend orgaan dient te worden voorzi
 
 c. In overeenstemming met de bepalingen van Resolutie 1721 (XVI) van de Algemene Vergadering van de Verenigde Naties zendt het uitvoerend orgaan aan de Secretaris-Generaal van de Verenigde Naties en aan de betrokken Gespecialiseerde Organisaties te hunner informatie een jaarverslag over de activiteiten van ITSO.
 
-#### Artikel XX. Depositaris
+##### Artikel XX. Depositaris
 
 a. De Regering van de Verenigde Staten van Amerika is voor deze Overeenkomst de Depositaris bij wie de ingevolge artikel XVII, lid b, van deze Overeenkomst afgelegde verklaringen, akten van bekrachtiging, aanvaarding, goedkeuring of toetreding, verzoeken tot voorlopige toepassing en kennisgevingen van bekrachtiging, aanvaarding of goedkeuring van wijzigingen, besluiten tot terugtrekking uit ITSO of beëindiging van voorlopige toepassing van deze Overeenkomst zullen worden nedergelegd.
 
@@ -360,19 +382,19 @@ b. Deze Overeenkomst, waarvan de Engelse, de Franse en de Spaanse tekst gelijkel
 
 c. Op het tijdstip van de inwerkingtreding van deze Overeenkomst wordt zij door de Depositaris overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) bij het Secretariaat van de Verenigde Naties geregistreerd.
 
-#### Artikel XXI. Duur
+##### Artikel XXI. Duur
 
 De Overeenkomst is ten minste voor een duur van twaalf jaar van kracht, te rekenen vanaf de datum van de overdracht van het ITSO-ruimtesysteem aan de Onderneming. De Assemblee van Partijen kan deze Overeenkomst beëindigen met ingang van de twaalfde verjaardag van de datum van overdracht van het ITSO-ruimtesysteem aan de Onderneming door middel van een stemming van de Partijen ingevolge artikel IX, lid f. Een dergelijk besluit wordt geacht materieel van aard te zijn.
 
-#### Artikel 1
+##### Artikel 1
 
 De enige partijen in arbitragegedingen aanhangig gemaakt overeenkomstig deze Bijlage, zijn die welke worden genoemd in artikel XVI van deze Overeenkomst.
 
-#### Artikel 2
+##### Artikel 2
 
 Een overeenkomstig de bepalingen van deze Bijlage ingesteld scheidsgerecht bestaande uit drie leden is bevoegd een uitspraak te doen in geschillen die daaraan kunnen worden voorgelegd ingevolge artikel XVI van deze Overeenkomst.
 
-#### Artikel 3
+##### Artikel 3
 
 a). Niet later dan zestig dagen vóór de openingsdatum van de eerste en elke daarop volgende gewone vergadering van de Assemblee van Partijen kan elke Partij aan het uitvoerend orgaan de namen voorleggen van ten hoogste twee juridische deskundigen die beschikbaar zullen zijn voor het tijdvak vanaf het einde van die vergadering tot het einde van de tweede daarop volgende gewone vergadering van de Assemblee van Partijen, om op te treden als voorzitter of lid van de overeenkomstig deze Bijlage ingestelde scheidsgerechten. Het uitvoerend orgaan maakt een lijst op van de aldus voorgedragen personen en voegt daaraan de door de aanwijzende Partij verstrekte biografische bijzonderheden toe en zendt deze lijst niet later dan dertig dagen vóór de openingsdatum van de betreffende vergadering toe aan alle Partijen. Indien om enigerlei reden een kandidaat niet beschikbaar is voor verkiezing in de groep van deskundigen gedurende het tijdvak van zestig dagen vóór de openingsdatum van de vergadering van de Assemblee van Partijen, dan kan de aanwijzende Partij niet later dan veertien dagen vóór de openingsdatum van de vergadering der Assemblee van Partijen de naam van een andere juridische deskundige daarvoor in de plaats stellen.
 
@@ -386,7 +408,7 @@ e). Bij de verkiezing van de leden en de plaatsvervangende leden van de groep va
 
 f). Een lid of een plaatsvervangend lid van de groep van deskundigen, dat aan het einde van zijn zittingsperiode deel uitmaakt van een scheidsgerecht, zal dit blijven doen tot de beëindiging van een voor dat gerecht aanhangig gemaakte scheidsrechterlijke procedure.
 
-#### Artikel 4
+##### Artikel 4
 
 a). Een verzoeker die een juridisch geschil aan arbitrage wenst te onderwerpen, doet aan iedere partij alsmede aan het uitvoerend orgaan een document toekomen dat de volgende gegevens bevat:
 
@@ -402,7 +424,7 @@ a). Een verzoeker die een juridisch geschil aan arbitrage wenst te onderwerpen, 
 
 b). Het uitvoerend orgaan zendt onverwijld aan iedere Partij en aan de voorzitter van de groep van deskundigen een afschrift van het ingevolge lid **a**) van dit artikel verschafte document.
 
-#### Artikel 5
+##### Artikel 5
 
 a). Binnen zestig dagen na het tijdstip waarop het in artikel 4, lid, van deze Bijlage omschreven document door alle gedaagden is ontvangen, wordt van de zijde der gedaagden iemand aangewezen om als lid van het scheidsgerecht op te treden. Binnen dit tijdvak kunnen de gedaagden gezamenlijk, of ieder afzonderlijk, aan elke klager en aan het uitvoerend orgaan een document doen toekomen waarin hun verweer op het in artikel 4, lid **a**), van deze Bijlage genoemde document wordt vermeld, met inbegrip van mogelijke eisen in reconventie die uit het onderwerp van het geschil kunnen voortvloeien. Het uitvoerend orgaan zendt onverwijld een afschrift van dat document aan de voorzitter van de groep van deskundigen.
 
@@ -412,7 +434,7 @@ c). Binnen dertig dagen na de aanwijzing van de twee leden van het scheidsgerech
 
 d). Het scheidsgerecht is ingesteld zodra de voorzitter is gekozen.
 
-#### Artikel 6
+##### Artikel 6
 
 a). Indien een vacature ontstaat in het scheidsgerecht door oorzaken die naar het oordeel van de voorzitter of de overblijvende leden van het scheidsgerecht buiten de macht van de partijen in het geschil liggen of die niet strijdig zijn met de regels voorgeschreven voor een geding ten overstaan van scheidsmannen, wordt de vacature vervuld overeenkomstig de volgende bepalingen:
 
@@ -422,7 +444,7 @@ a). Indien een vacature ontstaat in het scheidsgerecht door oorzaken die naar he
 
 b). Indien een vacature om lenige andere reden ontstaat dan die welke zijn omschreven in lid **a**) van dit artikel, of indien een vacature ontstaan ingevolge dat lid niet is vervuld, dan hebben de overblijvende leden van het scheidsgerecht de bevoegdheid om niettegenstaande het bepaalde in artikel 2 van deze Bijlage, op verzoek van een der Partijen het geding voort te zetten en de scheidsrechterlijke uitspraak te doen.
 
-#### Artikel 7
+##### Artikel 7
 
 a). Het scheidsgerecht stelt tijd en plaats van zijn zittingen vast.
 
@@ -448,27 +470,27 @@ k). Het scheidsgerecht doet zijn beslissing toekomen aan het uitvoerend orgaan, 
 
 l). Het scheidsgerecht kan noodzakelijk geachte aanvullende regels inzake de procedure aanvaarden, welke verenigbaar zijn met de in deze Bijlage vastgestelde regels.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien een der partijen nalaat haar standpunt in het geschil in het geding te brengen, kan de andere partij een beroep doen op het scheidsgerecht om een uitspraak te haren gunste te doen. Alvorens dit te doen, dient het scheidsgerecht zich ervan te overtuigen dat de zaak binnen zijn bevoegdheid valt en op goede feitelijke en juridische gronden berust.
 
-#### Artikel 9
+##### Artikel 9
 
 Elke Partij die geen partij is bij een zaak, of ITSO kan, indien deze van oordeel is een aanmerkelijk belang te hebben bij de uitspraak in de zaak, een verzoek tot het scheidsgerecht richten ter verkrijging van toestemming voor toelating als partij bij het geding. Indien het scheidsgerecht beslist dat de verzoeker een aanmerkelijk belang heeft bij de beslissing in de zaak, willigt het het verzoek in.
 
-#### Artikel 10
+##### Artikel 10
 
 Het scheidsgerecht kan op verzoek van een der partijen of op eigen initiatief de deskundigen aanwijzen wier diensten het noodzakelijk acht.
 
-#### Artikel 11
+##### Artikel 11
 
 Iedere Partij, ITSO verschaft alle inlichtingen welke het scheidsgerecht, hetzij op verzoek van een der partijen in het geding, hetzij op eigen initiatief, noodzakelijk oordeelt voor de behandeling en de bepaling van het geschil.
 
-#### Artikel 12
+##### Artikel 12
 
 Het scheidsgerecht kan gedurende de behandeling van de zaak, hangende de uitspraak, voorlopige maatregelen aangeven die naar zijn mening de onderscheiden rechten van de partijen in het geschil waarborgen.
 
-#### Artikel 13
+##### Artikel 13
 
 a). De uitspraak van het scheidsgerecht is gebaseerd op:
 
@@ -480,7 +502,7 @@ b). De uitspraak van het scheidsgerecht, met inbegrip van door de partijen in he
 
 c). In geval van een geschil over de uitleg of de reikwijdte van zijn beslissing wordt deze op verzoek van enige partij in het geschil door het scheidsgerecht toegelicht.
 
-#### Artikel 14
+##### Artikel 14
 
 Tenzij het scheidsgerecht wegens de bijzondere omstandigheden van de zaak anders beslist, worden de kosten van het scheidsgerecht, met inbegrip van de beloning van de leden van het scheidsgerecht, voor gelijke delen door ieder der partijen gedragen. Indien aan één zijde meer dan één partij is, wordt het aandeel in de kosten voor deze zijde door het scheidsgerecht over deze partijen aan deze zijde verdeeld. Ingeval ITSO een der partijen in het geding is, worden de met de arbitrage verband houdende kosten beschouwd als administratieve kosten van ITSO.
 

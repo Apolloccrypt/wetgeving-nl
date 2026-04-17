@@ -1,13 +1,39 @@
 ---
-title: "Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 14 juni 2012, nr. IENM/BSK-1012/109051, houdende vaststelling van regels met betrekking tot het bedrijfsmatig tot ontbranding brengen van vuurwerk (Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk)"
 identifier: "BWBR0031686"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031686"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031686"
+soort: "ministeriele-regeling"
+stam_id: "11763103"
+version_id: "19446242"
+internal_id: "C27261831"
+label_id: "11735844"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031686/2024-01-01/0"
+intitule_bron: "Stcrt.2012-11957"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-06-14"
+intitule_published: "2012-06-21"
+intitule_in_force: "2012-06-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-11957"
+original_signed_date: "2012-06-14"
+original_published_date: "2012-06-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-11957"
+entry_into_force_date: "2012-07-01"
+jci_1_3: "jci1.3:c:BWBR0031686&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0031686&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk"
+signed_date: "2012-06-14"
+entry_into_force: "2012-07-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 14 juni 2012, nr. IENM/BSK-1012/109051, houdende vaststelling van regels met betrekking tot het bedrijfsmatig tot ontbranding brengen van vuurwerk (Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk)
 
 Gelet op [artikel 3B.7 van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3B.7);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -54,33 +80,33 @@ Besluit:
 
 2. In deze regeling wordt onder vuurwerk mede verstaan een pyrotechnisch artikel voor theatergebruik.
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 Deze regeling is uitsluitend van toepassing op het bedrijfsmatig tot ontbranding brengen van vuurwerk, en het in verband daarmee opbouwen van stellingen en installeren, bewerken en na de ontbranding verwijderen van vuurwerk.
 
-#### Artikel 1.3
+##### Artikel 1.3
 
 Indien in enig artikel in deze regeling een afmeting is aangegeven in inches geldt als omrekenfactor 1 inch is 25,4 millimeter.
 
-#### Artikel 1.4
+##### Artikel 1.4
 
 De toepasser draagt er zorg voor dat de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=2&z=2024-01-01&g=2024-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=3&z=2024-01-01&g=2024-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=4&z=2024-01-01&g=2024-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=5&z=2024-01-01&g=2024-01-01) worden nageleefd.
 
-#### Artikel 1.5
+##### Artikel 1.5
 
 Op een melding is [artikel 3B.3a, tweede lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3B.3a) van overeenkomstige toepassing.
 
-#### Artikel 1.6
+##### Artikel 1.6
 
 De meldingen, bedoeld in de [artikelen 2.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=2&artikel=2.3&z=2024-01-01&g=2024-01-01), [5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=5&artikel=5.1&z=2024-01-01&g=2024-01-01), [5.3. eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=5&artikel=5.3&z=2024-01-01&g=2024-01-01), en [5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=5&artikel=5.4&z=2024-01-01&g=2024-01-01), worden gedaan in het elektronisch meldsysteem van Gedeputeerde Staten van de provincie waar het evenement plaatsvindt via DigiD op de website www.formdesk.com/gboprod/Vuurwerk_portal_DIGID of via eHerkenning op de website www.formdesk.com/gboprod/Vuurwerk_portal_OIN.
 
-#### Artikel 1.7
+##### Artikel 1.7
 
 Het is verboden handelingen te verrichten of te doen verrichten in strijd met deze regeling. Het verbod, bedoeld in de eerste volzin, geldt tevens als voorschrift verbonden aan de ontbrandingstoestemming, behoudens voor zover de voorschriften verbonden aan de ontbrandingstoestemming afwijken van deze regeling.
 
 ### Hoofdstuk 2. Algemene bepalingen over het tot ontbranding brengen van vuurwerk
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 Het afsteekterrein heeft een zodanige grootte dat de afstand vanaf de buitenrand van de afsteekplaats tot de buitenrand van het afsteekterrein in alle richtingen:
 
@@ -88,7 +114,7 @@ Het afsteekterrein heeft een zodanige grootte dat de afstand vanaf de buitenrand
 
 - b. minimaal 25 meter bedraagt, indien professioneel vuurwerk tot ontbranding wordt gebracht.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 1. Tijdens het vuurwerkevenement is ten minste één afsteker aanwezig die de Nederlandse taal beheerst.
 
@@ -102,7 +128,7 @@ Het afsteekterrein heeft een zodanige grootte dat de afstand vanaf de buitenrand
 
 - c. een afschrift van het certificaat van vakbekwaamheid als bedoeld in [artikel 4.9, tweede lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9) van de afsteker.
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 1. Vuurwerk mag mede tot ontbranding worden gebracht:
 
@@ -128,13 +154,13 @@ mits hiervan uiterlijk vier werkdagen voorafgaand aan het vuurwerkevenement bij 
 
 3. Vuurwerk mag niet tot ontbranding worden gebracht in afwijking van de melding.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 1. Tijdens het vuurwerkevenement is uitsluitend vuurwerk aanwezig dat bestemd is om tot ontbranding te worden gebracht en dat als zodanig vermeld is op de schietlijst.
 
 2. Indien is volstaan met een melding, is tijdens het vuurwerkevenement niet meer dan 200 kg consumentenvuurwerk en 20 kg pyrotechnische artikelen voor theatergebruik aanwezig.
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 1. Uitsluitend onbeschadigd en ongebruikt vuurwerk wordt tot ontbranding gebracht.
 
@@ -142,7 +168,7 @@ mits hiervan uiterlijk vier werkdagen voorafgaand aan het vuurwerkevenement bij 
 
 3. Handelingen nabij het vuurwerk die kunnen leiden tot statische elektriciteit, brand, brandgevaar of onbedoelde ontsteking worden voorkomen.
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 1. Vuurwerk wordt stabiel opgesteld.
 
@@ -154,13 +180,13 @@ mits hiervan uiterlijk vier werkdagen voorafgaand aan het vuurwerkevenement bij 
 
 5. Constructies en ondergrond die worden gebruikt voor het opstellen van vuurwerk zijn brandveilig.
 
-#### Artikel 2.7
+##### Artikel 2.7
 
 1. Een elektrisch afsteeksysteem is voorzien van een sleutelbeveiliging tegen onbedoeld afsteken.
 
 2. Een elektrisch afsteeksysteem waarbij het afsteekprogramma automatisch wordt doorlopen, is voorzien van een noodstop, zodat het programma kan worden afgebroken.
 
-#### Artikel 2.8
+##### Artikel 2.8
 
 1. Vuur dat onderdeel is van het vuurwerkevenement heeft geen invloed op het opgestelde vuurwerk.
 
@@ -172,7 +198,7 @@ mits hiervan uiterlijk vier werkdagen voorafgaand aan het vuurwerkevenement bij 
 
 3. De handblusapparaten zijn voor onmiddellijk gebruik gereed en opgesteld op een goed zichtbare en bereikbare plaats binnen het afsteekterrein. De handblusapparaten zijn goed werkend en goed onderhouden.
 
-#### Artikel 2.9
+##### Artikel 2.9
 
 1. Op het afsteekterrein wordt niet gerookt en is geen open vuur aanwezig, behoudens het vuur dat benodigd is voor het tot ontbranding brengen van vuurwerk of vuur dat onderdeel is van het vuurwerkevenement.
 
@@ -180,7 +206,7 @@ mits hiervan uiterlijk vier werkdagen voorafgaand aan het vuurwerkevenement bij 
 
 3. Het afsteekterrein wordt na afloop van het vuurwerkevenement schoon opgeleverd, uitgaande van de staat van het terrein vóór het vuurwerkevenement.
 
-#### Artikel 2.10
+##### Artikel 2.10
 
 1. Tijdens het tot ontbranding brengen van vuurwerk mag de veiligheidszone uitsluitend worden betreden door toezichthouders, de toepasser, de afsteker en assistenten, en de artiesten die deelnemen aan het vuurwerkevenement.
 
@@ -192,11 +218,11 @@ mits hiervan uiterlijk vier werkdagen voorafgaand aan het vuurwerkevenement bij 
 
 #### § 3.1. Veiligheidsafstanden
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Bij het tot ontbranding brengen van vuurwerk in de buitenlucht wordt voldaan aan de [artikelen 3.2 tot en met 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 1. Bij het tot ontbranding brengen van consumentenvuurwerk worden de volgende veiligheidsafstanden in acht genomen:
 
@@ -208,7 +234,7 @@ Bij het tot ontbranding brengen van vuurwerk in de buitenlucht wordt voldaan aan
 
 2. Indien luchtvuurwerk als bedoeld in het eerste lid schuin is gemonteerd of opgesteld en de schuine stand in de richting van het publiek wijst, wordt bij het tot ontbranding brengen daarvan de ingevolge het eerste lid van toepassing zijnde veiligheidsafstand vermenigvuldigd met een factor 1,5 in acht genomen
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 1. Bij het tot ontbranding brengen van professioneel vuurwerk worden de volgende veiligheidsafstanden in acht genomen:
 
@@ -257,15 +283,15 @@ Bij het tot ontbranding brengen van vuurwerk in de buitenlucht wordt voldaan aan
 
 5. Vuurwerkbommen die op basis van de uitwendige diameter niet kunnen worden ingedeeld in één van de kalibermaten, bedoeld in het derde lid, worden niet toegepast.
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 De veiligheidsafstanden die bij het tot ontbranding brengen van pyrotechnische artikelen voor theatergebruik in acht worden genomen zijn ten minste gelijk aan de afstanden, vermeld in de gebruiksaanwijzing of het veiligheidsinformatieblad, dan wel indien vanwege weersomstandigheden naar het oordeel van gedeputeerde staten van de provincie waar de pyrotechnische artikelen tot ontbranding worden gebracht grotere veiligheidsafstanden dan hiervoor bedoeld in acht moeten worden genomen, ten minste gelijk aan de door dat bestuursorgaan bepaalde veiligheidsafstanden.
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 Binnen 100 meter vanaf de horizontale projectie van een hoogspanningsleiding wordt geen vuurwerk tot ontbranding gebracht.
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 1. Tijdens het tot ontbranding brengen van vuurwerk zijn binnen de veiligheidsafstand die ingevolge [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2024-01-01&g=2024-01-01) onderscheidenlijk [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2024-01-01&g=2024-01-01) in acht wordt genomen, vermeerderd met vijftig procent, geen bedrijfsmatig gehouden dieren aanwezig, tenzij de toepasser met de eigenaar van de dieren schriftelijk anders is overeengekomen.
 
@@ -289,7 +315,7 @@ Binnen 100 meter vanaf de horizontale projectie van een hoogspanningsleiding wor
 
 #### § 3.2. Weersomstandigheden
 
-#### Artikel 3.7
+##### Artikel 3.7
 
 Het tot ontbranding brengen van vuurwerk is verboden indien sprake is van:
 
@@ -299,11 +325,11 @@ Het tot ontbranding brengen van vuurwerk is verboden indien sprake is van:
 
 - c. mist of rook zodanig dat de veiligheidszone niet in zijn geheel is te overzien dan wel het zicht minder bedraagt dan 200 meter.
 
-#### Artikel 3.8
+##### Artikel 3.8
 
 Bij onweer worden elektrische ontstekingsdraden niet aangesloten, indien het tijdverschil tussen bliksem en donder 10 seconden of minder is. In het geval, bedoeld in de eerste volzin, worden maatregelen getroffen, zodat het vuurwerk niet vroegtijdig af kan gaan.
 
-#### Artikel 3.9
+##### Artikel 3.9
 
 1. Bij het tot ontbranding brengen van vuurwerk in de buitenlucht wordt voldaan aan het tweede tot en met het vierde lid.
 
@@ -313,13 +339,13 @@ Bij onweer worden elektrische ontstekingsdraden niet aangesloten, indien het tij
 
 4. Mortierbuizen en houders voor Romeinse kaarsen worden tijdens het vuurwerkevenement niet herladen.
 
-#### Artikel 3.10
+##### Artikel 3.10
 
 In geval van een ontbrandingstoestemming en het ontbranden van vuurwerk binnen 15 kilometer afstand van een luchthaven, wordt ten minste 30 minuten voor aanvang van het vuurwerkevenement contact opgenomen met de betrokken verlener van een luchtverkeersdienst als bedoeld in de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
 #### § 3.3. Tot ontbranding brengen van vuurwerk vanaf water
 
-#### Artikel 3.11
+##### Artikel 3.11
 
 1. Bij het tot ontbranding brengen van vuurwerk vanaf het water wordt voldaan aan het tweede tot en met het vierde lid.
 
@@ -339,15 +365,15 @@ In geval van een ontbrandingstoestemming en het ontbranden van vuurwerk binnen 1
 
 ### Hoofdstuk 4. Vuurwerkevenementen in een binnenruimte
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 Bij het tot ontbranding brengen van vuurwerk of pyrotechnische artikelen voor theatergebruik in een binnenruimte wordt voldaan aan de [artikelen 4.2 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031686&hoofdstuk=4&artikel=4.2&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Bij het tot ontbranding brengen wordt uitsluitend gebruik gemaakt van pyrotechnische artikelen voor theatergebruik en vuurwerk die in de binnenruimte veilig kunnen worden gebruikt.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 1. Boven de afsteekplaats is een vrije ruimte aanwezig van ten minste anderhalf maal de maximale hoogte van het effect, vermeld in de gebruiksaanwijzing of het veiligheidsinformatieblad behorende bij het vuurwerk.
 
@@ -355,13 +381,13 @@ Bij het tot ontbranding brengen wordt uitsluitend gebruik gemaakt van pyrotechni
 
 3. De boven de afsteekplaats aanwezige installaties, voorzieningen en voorwerpen zijn bestand tegen de gevolgen en eventuele voortplanting van warmtestraling en druk die kunnen vrijkomen door het tot ontbranding brengen van het vuurwerk.
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 De veiligheidsafstanden die bij het tot ontbranding brengen van vuurwerk in een binnenruimte in acht worden genomen zijn ten minste gelijk aan de afstanden, vermeld in de gebruiksaanwijzing of het veiligheidsinformatieblad van het vuurwerk.
 
 ### Hoofdstuk 5. Ongewone voorvallen
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 1. Indien vuurwerk tijdens het tot ontbranding brengen afwijkend gedrag vertoont ten opzichte van de productspecificatie en dit gevaar oplevert voor de omgeving, wordt het resterende vuurwerk van hetzelfde artikelnummer tijdens het betrokken vuurwerkevenement niet meer tot ontbranding gebracht.
 
@@ -381,19 +407,19 @@ De veiligheidsafstanden die bij het tot ontbranding brengen van vuurwerk in een 
 
 - f. nauwkeurige omschrijving afwijkend gedrag.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 1. Nagloeiend vuurwerk wordt met doelmatige middelen gedoofd.
 
 2. Een aangetroffen weigeraar of blindganger wordt met doelmatige middelen onschadelijk gemaakt.
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 1. Indien het vermoeden bestaat dat er sprake is van een blindganger, wordt deze na afloop van het afsteekprogramma onverwijld gezocht. Indien geen blindganger wordt gevonden, wordt dit elektronisch zo spoedig mogelijk gemeld bij gedeputeerde staten van de provincie waar het vuurwerkevenement heeft plaatsgevonden en de politie.
 
 2. Indien een blindganger achteraf alsnog wordt gevonden, wordt deze onverwijld verwijderd.
 
-#### Artikel 5.4
+##### Artikel 5.4
 
 1. Indien zich tijdens het vuurwerkevenement een ongewoon voorval voordoet of heeft voorgedaan, waardoor nadelige gevolgen voor het milieu zijn ontstaan of dreigen te ontstaan of de veiligheid van het publiek niet is gewaarborgd, treft de toepasser onmiddellijk de maatregelen die redelijkerwijs van hem kunnen worden verlangd om de gevolgen van die gebeurtenis te voorkomen of, voor zover die gevolgen niet kunnen worden voorkomen, zoveel mogelijk te beperken en ongedaan te maken.
 
@@ -411,11 +437,11 @@ De veiligheidsafstanden die bij het tot ontbranding brengen van vuurwerk in een 
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 Deze regeling treedt in werking met ingang van 1 juli 2012.
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 Deze regeling wordt aangehaald als: Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk.
 

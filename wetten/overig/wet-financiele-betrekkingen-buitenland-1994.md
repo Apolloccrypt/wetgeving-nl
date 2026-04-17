@@ -1,14 +1,39 @@
 ---
-title: "Wet financiële betrekkingen buitenland 1994"
+title: "Wet van 25 maart 1994, houdende nieuwe regels inzake de financiële betrekkingen met het buitenland"
 identifier: "BWBR0006547"
-categorie: "Overig"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006547"
+country: "nl"
+rank: "wet"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006547"
+soort: "wet"
+stam_id: "267563"
+version_id: "383252"
+internal_id: "C383251"
+label_id: "262174"
+dtd_version: "2.0"
+original_entry_into_force: "2000-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006547/2013-01-01/0"
+intitule_bron: "Stb.1994-258"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-03-25"
+intitule_status: "goed"
+original_publication: "Stb.1999-509"
+original_signed_date: "1999-10-28"
+original_published_date: "1999-12-09"
+original_effect: "structuurwijziging"
+original_dossier: "25821"
+original_url_id: "stb-1999-509"
+entry_into_force_date: "2000-01-01"
+jci_1_3: "jci1.3:c:BWBR0006547&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0006547&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet financiële betrekkingen buitenland 1994"
+signed_date: "1999-10-28"
+entry_into_force: "2000-01-01"
 ---
-
-# Wet financiële betrekkingen buitenland 1994
+# Wet van 25 maart 1994, houdende nieuwe regels inzake de financiële betrekkingen met het buitenland
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +41,7 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is in verband met de
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -46,27 +71,27 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - i. de Bank: De Nederlandsche Bank N.V..
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister kan aan de Bank algemene richtlijnen geven, die deze in acht neemt bij de uitoefening van de haar bij of krachtens deze wet toegekende bevoegdheden; voor zover het Verdrag zich daartegen niet verzet.
 
 2. De Bank verschaft aan Onze Minister de inlichtingen die deze nodig acht voor de bepaling van het algemeen beleid betrefende de financiële betrekkingen met de andere lidstaten en met derde landen; voor zover het Verdrag zich daartegen niet verzet.
 
-#### Artikel 3
+##### Artikel 3
 
 Onze Minister kan ter uitvoering van een besluit dat is genomen op grond van artikel 73 C, tweede lid, van het Verdrag voorschriften geven betreffende het kapitaalverkeer naar of uit derde landen in verband met directe investeringen - met inbegrip van investeringen in onroerende goederen -, vestiging, het verrichten van financiële diensten of de toelating van waardepapieren tot de kapitaalmarkten.
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Minister kan ter uitvoering van een besluit dat is genomen op grond van artikel 73 F van het Verdrag voorschriften geven betreffende het kapitaalverkeer naar of uit derde landen. Deze voorschriften gelden voor een duur van ten hoogste zes maanden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien ten aanzien van goederen regels gelden die bij of krachtens [artikel 1:4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:4), of [artikel 3:1 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:1) in het belang van de internationale rechtsorde, dan wel op grond van een daarop betrekking hebbende internationale afspraak, zijn gesteld, kunnen voor zover dat belang of die internationale afspraak zulks vereist, bij algemene maatregel van bestuur tevens regels worden gesteld ten aanzien van het financiële verkeer met betrekking tot zodanige goederen.
 
 2. Een voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur als bedoeld in het eerste lid, geschiedt door Onze Minister en Onze Minister van Buitenlandse Zaken tezamen in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De voorschriften, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=3&z=2013-01-01&g=2013-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=4&z=2013-01-01&g=2013-01-01), en de regels, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2013-01-01&g=2013-01-01), kunnen mede een verbod inhouden tot het verrichten van daarbij aangeduide handelingen zonder vergunning. Een verbod als in de eerste zin bedoeld tast niet de geldigheid van daarmee strijdige meerzijdige rechtshandelingen aan.
 
@@ -78,7 +103,7 @@ Onze Minister kan ter uitvoering van een besluit dat is genomen op grond van art
 
 5. Een vergunning of ontheffing als bedoeld in dit artikel wordt verleend of ingetrokken door of namens Onze Minister en, in door Onze Minister te bepalen gevallen, namens hem door de Bank.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een ieder is verplicht overeenkomstig de voorschriften die hieromtrent door de Bank worden gegeven, aan de Bank inlichtingen en gegevens te verstrekken die van belang zijn voor:
 
@@ -94,7 +119,7 @@ Onze Minister kan ter uitvoering van een besluit dat is genomen op grond van art
 
 5. Onze Minister kan diensten aanwijzen die voor de toepassing van dit artikel met de Bank worden gelijkgesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het is aan een ieder die uit hoofde van deze wet of van krachtens deze wet genomen besluiten enige taak vervult, verboden van gegevens of inlichtingen, ingevolge deze wet verstrekt dan wel ingevolge [artikel 40 van de Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=40) verkregen of van gegevens of inlichtingen, bij het onderzoek van boeken, bescheiden of andere gegevensdragers verkregen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitoefening van zijn taak of door deze wet wordt geëist.
 
@@ -102,23 +127,23 @@ Onze Minister kan ter uitvoering van een besluit dat is genomen op grond van art
 
 3. In afwijking van het eerste lid en met inachtneming van de richtsnoeren, instructies en andere verbindende bepalingen van de ECB is de Bank bevoegd gegevens die ingevolge deze wet zijn verkregen, te verstrekken aan het Centraal bureau voor de statistiek ten behoeve van de uitoefening van zijn in [artikel 3 van de Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=3) bedoelde taak.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. De Bank kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften gesteld, bij of krachtens [artikel 7, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=7&z=2013-01-01&g=2013-01-01).
 
 2. Onze Minister kan regels stellen ter zake van de uitoefening van de bevoegdheid bedoeld in het eerste lid.
 
-#### Artikel 9b
+##### Artikel 9b
 
 1. De Bank kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften gesteld bij of krachtens [artikel 7, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=7&z=2013-01-01&g=2013-01-01).
 
 2. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.
 
-#### Artikel 9c
+##### Artikel 9c
 
 1. Het bedrag van de bestuurlijke boete wordt bepaald bij algemene maatregel van bestuur, met dien verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 4 000 000 bedraagt. Indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding, wordt het bedrag van de bestuurlijke boete, bedoeld in de eerste volzin, voor een afzonderlijke overtreding verdubbeld.
 
@@ -132,65 +157,65 @@ Vervallen
 
 3. In afwijking van het eerste en tweede lid kan de toezichthouder de hoogte van de bestuurlijke boete vaststellen op ten hoogste twee keer het bedrag van het voordeel dat de overtreder door de overtreding heeft verkregen indien diens voordeel groter is dan € 2 000 000.
 
-#### Artikel 9d
+##### Artikel 9d
 
 Vervallen
 
-#### Artikel 9e
+##### Artikel 9e
 
 Vervallen
 
-#### Artikel 9f
+##### Artikel 9f
 
 Vervallen
 
-#### Artikel 9g
+##### Artikel 9g
 
 Vervallen
 
-#### Artikel 9h
+##### Artikel 9h
 
 Vervallen
 
-#### Artikel 9i
+##### Artikel 9i
 
 Vervallen
 
-#### Artikel 9j
+##### Artikel 9j
 
 Vervallen
 
-#### Artikel 9k
+##### Artikel 9k
 
 1. Met het oog op de effectiviteit van deze wet, kan de Bank het feit ter zake waarvan de last onder dwangsom of de bestuurlijke boete is opgelegd, het overtreden voorschrift, alsmede de naam, het adres en de woonplaats van degene aan wie de last onder dwangsom of de bestuurlijke boete is opgelegd, ter openbare kennis brengen.
 
 2. Onze Minister kan regels stellen ter zake van de uitoefening van de bevoegdheid bedoeld in het eerste lid.
 
-#### Artikel 10
+##### Artikel 10
 
 Beperkende bepalingen, vervat in op grond van deze wet gegeven voorschriften en regels, zijn niet van toepassing op de Staat en de Bank.
 
-#### Artikel 11
+##### Artikel 11
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 12
+##### Artikel 12
 
 De Nederlandse strafwet is ook van toepassing op overtredingen van voorschriften, gesteld bij of krachtens deze wet, voor zover zij opzettelijk en buiten Nederland zijn begaan.
 
-#### Artikel 13
+##### Artikel 13
 
 Na de inwerkingtreding van deze wet berust het Besluit financieel verkeer strategische goederen op [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=5&z=2013-01-01&g=2013-01-01), en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=6&z=2013-01-01&g=2013-01-01), van deze wet.
 
-#### Artikel 14
+##### Artikel 14
 
 De Wet financiële betrekkingen buitenland wordt ingetrokken.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze wet kan worden aangehaald als: Wet financiële betrekkingen buitenland 1994.
 

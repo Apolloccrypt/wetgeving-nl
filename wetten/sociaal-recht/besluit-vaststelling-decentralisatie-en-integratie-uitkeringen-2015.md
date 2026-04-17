@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015"
+title: "Besluit van 4 oktober 2017, houdende vaststelling van diverse decentralisatie- en integratie-uitkeringen aan gemeenten en provincies voor het uitkeringsjaar 2015 en wijziging van het Besluit decentralisatie- en integratie-uitkeringen (Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015)"
 identifier: "BWBR0040102"
-categorie: "Sociaal recht"
-publicatiedatum: 2020-10-20
-laatste_update: 2020-10-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040102"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-10-20"
+last_updated: "2020-10-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040102"
+soort: "AMvB"
+stam_id: "14320333"
+version_id: "24536612"
+internal_id: "C35145161"
+label_id: "14280794"
+dtd_version: "2.0"
+original_entry_into_force: "2017-10-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040102/2020-10-20/0"
+intitule_bron: "Stb.2017-392"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-10-04"
+intitule_published: "2017-10-25"
+intitule_in_force: "2017-10-25"
+intitule_status: "goed"
+original_publication: "Stb.2017-392"
+original_signed_date: "2017-10-04"
+original_published_date: "2017-10-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2017-392"
+entry_into_force_date: "2017-10-26"
+jci_1_3: "jci1.3:c:BWBR0040102&z=2020-10-20&g=2020-10-20"
+jci_1_0: "1.0:c:BWBR0040102&g=2020-10-20"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015"
+signed_date: "2017-10-04"
+entry_into_force: "2017-10-26"
 ---
-
 # Besluit van 4 oktober 2017, houdende vaststelling van diverse decentralisatie- en integratie-uitkeringen aan gemeenten en provincies voor het uitkeringsjaar 2015 en wijziging van het Besluit decentralisatie- en integratie-uitkeringen (Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015)
 
 #### § 1. Decentralisatie-uitkeringen aan gemeenten en provincies
@@ -16,7 +42,7 @@ bron: "https://wetten.overheid.nl/BWBR0040102"
 
 #### § 3. Wijziging van het [Besluit decentralisatie- en integratie-uitkeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0027383)
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt het Besluit decentralisatie- en integratie-uitkeringen.
 
@@ -34,17 +60,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 1
+##### Artikel 1
 
 In het jaar 2015 ontvangen de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&bijlage=1&z=2020-10-20&g=2020-10-20) genoemde gemeenten de in die bijlage genoemde decentralisatie-uitkeringen.
 
-#### Artikel 2
+##### Artikel 2
 
 In het jaar 2015 ontvangen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&bijlage=2&z=2020-10-20&g=2020-10-20) genoemde provincies de in die bijlage genoemde decentralisatie-uitkeringen.
 
 #### § 2. Integratie-uitkeringen aan gemeenten
 
-#### Artikel 3
+##### Artikel 3
 
 In het jaar 2015 ontvangen de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&bijlage=3&z=2020-10-20&g=2020-10-20) genoemde gemeenten de in die bijlage genoemde integratie-uitkeringen.
 
@@ -2201,7 +2227,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 4. Slotbepalingen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
@@ -2215,7 +2241,7 @@ Hebben goedgevonden en verstaan:
 
 6. [Artikel 4, onderdelen A en J](https://wetten.overheid.nl/jci1.3:c:BWBR0040102&paragraaf=3&artikel=4&z=2020-10-20&g=2020-10-20), werken terug tot en met 1 januari 2015.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015.
 

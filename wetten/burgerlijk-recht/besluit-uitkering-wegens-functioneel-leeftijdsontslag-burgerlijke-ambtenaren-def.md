@@ -1,13 +1,35 @@
 ---
-title: "Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie"
+title: "Besluit van 25 juni 1993, houdende regeling uitkering wegens functioneel leeftijdsontslag van burgerlijke ambtenaren in dienst bij het Ministerie van Defensie"
 identifier: "BWBR0006041"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2025-01-17
-laatste_update: 2025-01-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006041"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-17"
+last_updated: "2025-01-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006041"
+soort: "AMvB"
+stam_id: "1140063"
+version_id: "1685802"
+internal_id: "C1685801"
+label_id: "1106044"
+dtd_version: "2.0"
+original_entry_into_force: "1993-07-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006041/2025-01-17/0"
+intitule_bron: "Stb.1993-352"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-06-25"
+intitule_status: "goed"
+original_publication: "Stb.1993-352"
+original_signed_date: "1993-06-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-07-14"
+jci_1_3: "jci1.3:c:BWBR0006041&z=2025-01-17&g=2025-01-17"
+jci_1_0: "1.0:c:BWBR0006041&g=2025-01-17"
+citeertitel_status: "officieel"
+short_title: "Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie"
+signed_date: "1993-06-25"
+entry_into_force: "1993-07-14"
 ---
-
 # Besluit van 25 juni 1993, houdende regeling uitkering wegens functioneel leeftijdsontslag van burgerlijke ambtenaren in dienst bij het Ministerie van Defensie
 
 Op de voordracht van Onze Minister van Defensie van 1 februari 1993, nr. PAV2210/93002671;
@@ -22,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 #### Begripsomschrijvingen
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit besluit wordt verstaan onder:
 
@@ -56,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 - **Wet WIA:** [Wet Werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
 
-#### Artikel 2
+##### Artikel 2
 
 1. In dit besluit wordt verstaan onder bezoldiging: de bezoldiging in de zin van het [Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191) vermeerderd met de vakantie-uitkering, berekend over een maand, waarop de betrokkene op de dag voorafgaand aan zijn ontslag aanspraak had of bij waarneming van zijn functie zou hebben gehad.
 
@@ -72,7 +94,7 @@ In dit besluit wordt verstaan onder:
 
 #### Recht op uitkering
 
-#### Artikel 3. Recht vóór en na 1950
+##### Artikel 3. Recht vóór en na 1950
 
 1. De betrokkene die is geboren na 31 december 1949 heeft recht op een uitkering zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4&z=2025-01-17&g=2025-01-17) jo [artikel 4c](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4c&z=2025-01-17&g=2025-01-17).
 
@@ -80,7 +102,7 @@ In dit besluit wordt verstaan onder:
 
 #### Duur en bedrag van de uitkering
 
-#### Artikel 4
+##### Artikel 4
 
 1. De uitkering bedraagt gedurende 60 maanden 80% van de bezoldiging vermeerderd met zoveel - doch ten hoogste tien - malen 0,5% van die bezoldiging als het totaal aantal volle voor pensioen geldige dienstjaren, die medetellen voor de pensioenberekening krachtens het pensioenreglement, op de dag van ingang van het ontslag meer dan dertig bedraagt en vervolgens 70% van die bezoldiging. Het bedrag van de uitkering daalt echter niet beneden het bedrag van het pensioen, waarop de betrokkene recht zou hebben, indien hij uit de betrekking waaruit hij met recht op uitkering is ontslagen, op de dag van ontslag zou zijn gepensioneerd.
 
@@ -98,17 +120,17 @@ de tijd gedurende welke betrokkene overheidswerknemer is in de zin van de [Wet p
 
 5. Wanneer aan de betrokkene na de dag van ingang van het ontslag ter zake waarvan de uitkering is toegekend, een overheidspensioen, anders dan ten laste van de Stichting Pensioenfonds ABP, wordt toegekend, vindt zo nodig herberekening plaats zowel van het bedrag der uitkering als van het bedrag van het pensioen, genoemd in het eerste lid, met ingang van de dag waarop eerstbedoeld pensioen is ingegaan.
 
-#### Artikel 4a
+##### Artikel 4a
 
 Vervallen
 
-#### Artikel 4b
+##### Artikel 4b
 
 Vervallen
 
 #### Inkomsten uit of in verband met arbeid of bedrijf
 
-#### Artikel 5
+##### Artikel 5
 
 1. De inkomsten, die de betrokkene geniet of gaat genieten uit of in verband met arbeid of bedrijf, ter hand genomen met ingang van of na de dag van het ontslag, ter zake waarvan de uitkering is toegekend, worden met de uitkering verrekend over de maand waarop deze inkomsten betrekking hebben of geacht kunnen worden betrekking te hebben. Deze verrekening geschiedt aldus dat de uitkering wordt verminderd met het bedrag waarmede de uitkering, vermeerderd met die inkomsten, de grens van 150% van de bezoldiging overschrijdt.
 
@@ -120,7 +142,7 @@ Vervallen
 
 5. In bijzondere gevallen kan Onze Minister van het hierboven bepaalde ten gunste van de betrokkene afwijken.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De betrokkene is verplicht van het ter hand nemen van enige arbeid of bedrijf terstond mededeling te doen aan Onze Minister onder opgave, voor zover mogelijk, van de inkomsten, die hij uit die werkzaamheden zal trekken. Zijn de inkomsten niet vooraf op te geven, dan doet hij tijdig vóór het verschijnen van elke uitkeringstermijn opgave van de inkomsten, die hij sinds het ter hand nemen van de werkzaamheden of sinds de vorige opgave heeft genoten.
 
@@ -134,23 +156,23 @@ Onze Minister geeft nadere voorschriften aangaande het doen van mededelingen doo
 
 5. De betrokkene aan wie uitkering is toegekend, wordt door het aanvaarden van de uitkering geacht erin toe te stemmen, dat allen, die daarvoor naar het oordeel van Onze Minister in aanmerking komen, omtrent zijn omstandigheden alle inlichtingen geven, welke voor de uitvoering van dit besluit noodzakelijk zijn.
 
-#### Artikel 7
+##### Artikel 7
 
 Onze Minister kan bepalen, dat inkomsten welke zijn genoten uit hoofde van overwerk, bij wijze van gratificatie, ter zake van een vrijwillige verbintenis bij het Korps Nationale Reserve, bij de politie als vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaak of bij andere door Onze Minister aan te wijzen reserveorganen, geheel of ten dele niet worden aangemerkt als inkomsten.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Indien de betrokkene ongeschikt is tot het verrichten van zijn arbeid wegens ziekte, is hij verplicht daarvan terstond mededeling te doen aan Onze Minister. De betrokkene is eveneens verplicht zijn herstel terstond te melden.
 
 2. De uitkering wordt niet uitbetaald voor de duur dat de betrokkene de in het eerste lid bedoelde verplichting niet nakomt.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien de betrokkene ongeschikt is tot het verrichten van zijn arbeid wegens ziekte, kan hij door Onze Minister worden verplicht zich geneeskundig te doen onderzoeken.
 
 #### Einde en verval van het recht op uitkering
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het recht op uitkering eindigt:
 
@@ -172,7 +194,7 @@ Indien de betrokkene ongeschikt is tot het verrichten van zijn arbeid wegens zie
 
 #### Aanspraak op toelage
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien en voorzover de aan betrokkene toegekende uitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), eventueel vermeerderd met een invaliditeitspensioen of een ABP ArbeidsongeschiktheidsPensioen, lager is dan de uitkering waarop hij aanspraak zou hebben gehad, indien er geen sprake zou zijn van arbeidsongeschiktheid, wordt hem het verschil bij wijze van toelage uitgekeerd.
 
@@ -182,17 +204,17 @@ Indien de betrokkene ongeschikt is tot het verrichten van zijn arbeid wegens zie
 
 #### Vermindering en niet-uitbetaling van de uitkering
 
-#### Artikel 11
+##### Artikel 11
 
 Ten aanzien van de betrokkene, die na zijn ontslag uit hoofde van ziekte of arbeidsongeschiktheid nog aanspraken in verband met de betrekking, waaruit hij is ontslagen, heeft of krijgt, wordt de uitkering dan wel de toelage bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=10&z=2025-01-17&g=2025-01-17) tot het einde van de periode, waarover die aanspraken bestaan, verminderd met het bedrag daarvan.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien de betrokkene de gegevens, die noodzakelijk zijn voor de vaststelling of de vermindering van de uitkering niet, niet volledig of onjuist verstrekt, kan worden bepaald, dat de uitkering, zolang zulks het geval is, niet of slechts gedeeltelijk wordt uitbetaald.
 
 #### Betaling
 
-#### Artikel 13
+##### Artikel 13
 
 1. De uitkering over een maand berekend, wordt in maandelijkse termijnen betaald. Met toestemming van de betrokkene kan de uitbetaling in langere termijnen geschieden.
 
@@ -210,27 +232,27 @@ Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoe
 
 7. Laat de overledene geen betrekkingen, als bedoeld in het tweede, derde of vierde lid na, dan kan het aldaar bedoelde bedrag geheel of ten dele worden uitgekeerd voor de betaling van de kosten van de laatste ziekte en van de lijkbezorging, indien zijn nalatenschap voor de betaling van die kosten ontoereikend is.
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
 #### Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 Een uitkering op grond van de Regeling functioneel leeftijdsontslag toegekend terzake van een ontslag uit de burgerlijke openbare dienst bij het Ministerie van Defensie, wordt gelijkgesteld met een uitkering, toegekend op grond van dit besluit.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot en met 1 april 1993.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit wordt aangehaald als "Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie",
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 4c
+##### Artikel 4c
 
 1. De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=4&z=2025-01-17&g=2025-01-17) genoemde uitkering die ingaat vóór het bereiken van de leeftijd van 60 jaar wordt, in afwijking van [artikel 9, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006041&artikel=9&z=2025-01-17&g=2025-01-17), gecontinueerd totdat, voor zover daarop recht bestaat, met het versterkt ouderdomspensioen het niveau van de uitkering wordt bereikt.
 
@@ -254,7 +276,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 15a
+##### Artikel 15a
 
 Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) berust dit besluit op [artikel 12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o).
 

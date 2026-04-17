@@ -1,13 +1,35 @@
 ---
 title: "Luchtvaartverdrag tussen het Koninkrijk der Nederlanden, ten behoeve van het Caribische deel van Nederland, en de Verenigde Staten van Amerika inzake het luchtvervoer tussen het Caribische deel van Nederland en de Verenigde Staten van Amerika"
 identifier: "BWBV0006717"
-categorie: "Milieu"
-publicatiedatum: 2018-10-01
-laatste_update: 2018-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006717"
+country: "nl"
+rank: "verdrag"
+publication_date: "2018-10-01"
+last_updated: "2018-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006717"
+soort: "verdrag"
+stam_id: "10005424913"
+version_id: "10005871022"
+internal_id: "C10009433661"
+label_id: "10005407614"
+dtd_version: "2.0"
+original_entry_into_force: "2018-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006717/2018-10-01/0"
+intitule_bron: "Trb.2018-22"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-02-05"
+intitule_in_force: "2018-09-07"
+intitule_status: "goed"
+original_publication: "Trb.2018-22"
+original_published_date: "2018-02-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2018-22"
+entry_into_force_date: "2018-10-01"
+jci_1_3: "jci1.3:c:BWBV0006717&z=2018-10-01&g=2018-10-01"
+jci_1_0: "1.0:c:BWBV0006717&g=2018-10-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-10-01"
 ---
-
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden, ten behoeve van het Caribische deel van Nederland, en de Verenigde Staten van Amerika inzake het luchtvervoer tussen het Caribische deel van Nederland en de Verenigde Staten van Amerika
 
 The Kingdom of the Netherlands, in respect of the Caribbean part of the Netherlands,
@@ -28,7 +50,7 @@ Being Parties to the [Convention on International Civil Aviation](onbekend), don
 
 Have agreed as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 For the purposes of this Agreement, unless otherwise stated, the term:
 
@@ -64,7 +86,7 @@ For the purposes of this Agreement, unless otherwise stated, the term:
 
 - 14. “user charge” means a charge imposed on airlines for the provision of airport, airport environmental, air navigation, or aviation security facilities or services including related services and facilities.
 
-#### Article 2. Grant of Rights
+##### Article 2. Grant of Rights
 
 1. Each Party grants to the other Party the following rights for the conduct of international air transportation by the airlines of the other Party:
 
@@ -108,7 +130,7 @@ without directional or geographic limitation and without loss of any right to ca
 
 5. Any airline of a Party performing charter international air transportation originating in the territory of either Party, whether on a one-way or round-trip basis, shall have the option of complying with the charter laws, regulations, and rules of either Party. If a Party applies different rules, regulations, terms, conditions, or limitations to one or more of its airlines, or to airlines of different countries, each airline of the other Party shall be subject to the least restrictive of such criteria. Nothing in this paragraph shall limit the rights of a Party to require airlines of both Parties to adhere to requirements relating to the protection of passenger funds and passenger cancellation and refund rights. Except with respect to the consumer protection rules referred to in this paragraph, neither Party shall require an airline of the other Party, in respect of the carriage of traffic from the territory of that other Party or of a third country on a one-way or round-trip basis, to submit more than a notice that it is complying with the applicable laws, regulations, and rules referred to in this paragraph or of a waiver of these laws, regulations, or rules granted by the applicable aeronautical authorities.
 
-#### Article 3. Authorization
+##### Article 3. Authorization
 
 1. Each Party, on receipt of applications from an airline of the other Party, in the form and manner prescribed for operating authorizations and technical permissions, shall grant appropriate authorizations and permissions with minimum procedural delay, provided that:
 
@@ -122,7 +144,7 @@ without directional or geographic limitation and without loss of any right to ca
 
 - c). the other Party is maintaining and administering the provisions set forth in [Article 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=6&z=2018-10-01&g=2018-10-01) (Safety) and [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=7&z=2018-10-01&g=2018-10-01) (Aviation Security) of this Agreement.
 
-#### Article 4. Revocation of Authorization
+##### Article 4. Revocation of Authorization
 
 1. Either Party may revoke, suspend, limit, or impose conditions on the operating authorizations or technical permissions of an airline where:
 
@@ -140,19 +162,19 @@ without directional or geographic limitation and without loss of any right to ca
 
 3. This Article does not limit the rights of either Party to withhold, revoke, suspend, limit, or impose conditions on the operating authorization or technical permission of an airline or airlines of the other Party in accordance with the provisions of [Article 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=6&z=2018-10-01&g=2018-10-01) (Safety) or [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=7&z=2018-10-01&g=2018-10-01) (Aviation Security) of this Agreement.
 
-#### Article 5. Application of Laws
+##### Article 5. Application of Laws
 
 1. The laws and regulations of a Party relating to the admission to or departure from its territory of aircraft engaged in international air navigation, or to the operation and navigation of such aircraft while within its territory, shall be complied with by such aircraft upon entering, when departing from, or while within the territory of that Party.
 
 2. While entering, within, or leaving the territory of one Party, its laws and regulations relating to the admission to or departure from its territory of passengers, crew, or cargo on aircraft (including regulations relating to entry, clearance, aviation security, immigration, passports, customs and quarantine, or, in the case of mail, postal regulations) shall be complied with by, or on behalf of, such passengers, crew, or cargo of the other Party's airlines.
 
-#### Article 6. Safety
+##### Article 6. Safety
 
 1. Each Party shall recognize as valid, for the purpose of operating the air transportation provided for in this Agreement, certificates of airworthiness, certificates of competency, and licenses issued or validated by the other Party and still in force, provided that the requirements for such certificates or licenses at least equal the minimum standards that may be established pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507). Each Party may, however, refuse to recognize as valid for the purpose of flight above its own territory, certificates of competency and licenses granted to or validated for its own nationals by the other Party.
 
 2. Either Party may request consultations concerning the safety standards maintained by the other Party relating to aeronautical facilities, aircrews, aircraft, and operation of airlines of that other Party. If, following such consultations, one Party finds that the other Party does not effectively maintain and administer safety standards and requirements in these areas that at least equal the minimum standards that may be established pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), the other Party shall be notified of such findings and the steps considered necessary to conform with these minimum standards, and the other Party shall take appropriate corrective action. Each Party reserves the right to withhold, revoke, suspend, limit, or impose conditions on the operating authorization or technical permission of an airline or airlines of the other Party in the event the other Party does not take such appropriate corrective action within a reasonable time and to take immediate action, prior to consultations, as to such airline or airlines if the other Party is not maintaining and administering the aforementioned standards and immediate action is essential to prevent further noncompliance.
 
-#### Article 7. Aviation Security
+##### Article 7. Aviation Security
 
 1. The Parties affirm that their obligation to each other to protect the security of civil aviation against acts of unlawful interference forms an integral part of this Agreement. Without limiting the generality of their rights and obligations under international law, the Parties shall in particular act in conformity with the provisions of the [Convention on Offenses and Certain Other Acts Committed on Board Aircraft](https://wetten.overheid.nl/jci1.3:c:BWBV0004659), done at Tokyo on September 14, 1963, the [Convention for the Suppression of Unlawful Seizure of Aircraft](https://wetten.overheid.nl/jci1.3:c:BWBV0004424), done at The Hague on December 16, 1970, the [Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0003604), done at Montreal on September 23, 1971, the [Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0002152), Supplementary to the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, done at Montreal on February 24, 1988, and the [Convention on the Marking of Plastic Explosives for the Purpose of Detection](https://wetten.overheid.nl/jci1.3:c:BWBV0003003), done at Montreal on March 1, 1991, as well as with any other convention relating to the security of civil aviation to the degree in force for both Parties.
 
@@ -166,7 +188,7 @@ without directional or geographic limitation and without loss of any right to ca
 
 6. When a Party has reasonable grounds to believe that the other Party has departed from the aviation security provisions of this Article, the aeronautical authorities of that Party may request immediate consultations with the aeronautical authorities of the other Party. Failure to reach a satisfactory agreement within 15 days from the date of such request shall constitute grounds to withhold, revoke, suspend, limit, or impose conditions on the operating authorization and technical permissions of an airline or airlines of that Party. When required by an emergency, a Party may take interim action prior to the expiry of 15 days.
 
-#### Article 8. Commercial Opportunities
+##### Article 8. Commercial Opportunities
 
 1. The airlines of each Party shall have the right to establish offices in the territory of the other Party for the promotion and sale of air transportation.
 
@@ -192,7 +214,7 @@ provided that all participants in such arrangements (i) hold the appropriate aut
 
 8. Airlines and indirect providers of cargo transportation of both Parties shall be permitted, without restriction, to employ in connection with international air transportation any surface transportation for cargo to or from any points, including to and from all airports with customs facilities and to transport cargo in bond under applicable laws and regulations. Such cargo, whether moving by surface or by air, shall have access to airport customs processing and facilities. Airlines may elect to perform their own surface transportation or to provide it through arrangements with other surface carriers, including surface transportation operated by other airlines and indirect providers of cargo air transportation. Such intermodal cargo services may be offered at a single, through price for the air and surface transportation combined, provided that shippers are not misled as to the facts concerning such transportation.
 
-#### Article 9. Customs Duties and Charges
+##### Article 9. Customs Duties and Charges
 
 1. On arriving in the territory of one Party, aircraft operated in international air transportation by the airlines of the other Party, their regular equipment, ground equipment, fuel, lubricants, consumable technical supplies, spare parts (including engines), aircraft stores (including but not limited to such items of food, beverages and liquor, tobacco, and other products destined for sale to or use by passengers in limited quantities during flight), and other items intended for or used solely in connection with the operation or servicing of aircraft engaged in international air transportation shall be exempt, on the basis of reciprocity, from all import restrictions, property taxes and capital levies, customs duties, excise taxes, and similar fees and charges that are (a) imposed by the national authorities, and (b) not based on the cost of services provided, provided that such equipment and supplies remain on board the aircraft.
 
@@ -210,7 +232,7 @@ provided that all participants in such arrangements (i) hold the appropriate aut
 
 4). The exemptions provided by this Article shall also be available where the airlines of one Party have contracted with another airline, which similarly enjoys such exemptions from the other Party, for the loan or transfer in the territory of the other Party of the items specified in paragraphs 1 and 2 of this Article.
 
-#### Article 10. User Charges
+##### Article 10. User Charges
 
 1. User charges that may be imposed by the competent charging authorities or bodies of each Party on the airlines of the other Party shall be just, reasonable, not unjustly discriminatory, and equitably apportioned among categories of users. In any event, any such user charges shall be assessed on the airlines of the other Party on terms not less favorable than the most favorable terms available to any other airline at the time the charges are assessed.
 
@@ -220,7 +242,7 @@ provided that all participants in such arrangements (i) hold the appropriate aut
 
 4. Neither Party shall be held, in dispute resolution procedures pursuant to [Article 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=14&z=2018-10-01&g=2018-10-01) (Settlement of Disputes) of this Agreement, to be in breach of a provision of this Article, unless (a) it fails to undertake a review of the charge or practice that is the subject of complaint by the other Party within a reasonable amount of time; or (b) following such a review it fails to take all steps within its power to remedy any charge or practice that is inconsistent with this Article.
 
-#### Article 11. Fair Competition
+##### Article 11. Fair Competition
 
 1. Each Party shall allow a fair and equal opportunity for the airlines of both Parties to compete in providing the international air transportation governed by this Agreement.
 
@@ -230,7 +252,7 @@ provided that all participants in such arrangements (i) hold the appropriate aut
 
 4. Neither Party shall require the filing of schedules, programs for charter flights, or operational plans by airlines of the other Party for approval, except as may be required on a non-discriminatory basis to enforce the uniform conditions foreseen by paragraph 2 of this Article or as may be specifically authorized in this Agreement. If a Party requires filings for information purposes, it shall minimize the administrative burdens of filing requirements and procedures on air transportation intermediaries and on airlines of the other Party.
 
-#### Article 12. Pricing
+##### Article 12. Pricing
 
 1. Each Party shall allow prices for air transportation to be established by airlines of both Parties based upon commercial considerations in the marketplace. Intervention by the Parties shall be limited to:
 
@@ -244,11 +266,11 @@ provided that all participants in such arrangements (i) hold the appropriate aut
 
 3. Neither Party shall take unilateral action to prevent the inauguration or continuation of a price proposed to be charged or charged by (i) an airline of either Party for international air transportation between the territories of the Parties, or (ii) an airline of one Party for international air transportation between the territory of the other Party and any other country, including in both cases transportation on an interline or intraline basis. If either Party believes that any such price is inconsistent with the considerations set forth in paragraph 1 of this Article, it shall request consultations and notify the other Party of the reasons for its dissatisfaction as soon as possible. These consultations shall be held not later than 30 days after receipt of the request, and the Parties shall cooperate in securing information necessary for reasoned resolution of the issue. If the Parties reach agreement with respect to a price for which a notice of dissatisfaction has been given, each Party shall use its best efforts to put that agreement into effect. Without such mutual agreement, the price shall go into effect or continue in effect.
 
-#### Article 13. Consultations
+##### Article 13. Consultations
 
 Either Party may, at any time, request consultations relating to this Agreement. Such consultations shall begin at the earliest possible date, but not later than 60 days from the date the other Party receives the request unless otherwise agreed.
 
-#### Article 14. Settlement of Disputes
+##### Article 14. Settlement of Disputes
 
 1. Any dispute arising under this Agreement, except those that may arise under [paragraph 3 of Article 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=12&z=2018-10-01&g=2018-10-01) (Pricing) of this Agreement, that is not resolved within 30 days of the date established for consultations pursuant to a request for consultations under [Article 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=13&z=2018-10-01&g=2018-10-01) (Consultations) of this Agreement may be referred, by agreement of the Parties, for decision to some person or body. If the Parties do not so agree, either Party may give written notice to the other Party through diplomatic channels that it is requesting that the dispute be submitted to arbitration.
 
@@ -270,15 +292,15 @@ Either Party may, at any time, request consultations relating to this Agreement.
 
 8. The expenses of the arbitral tribunal, including the fees and expenses of the arbitrators, shall be shared equally by the Parties. Any expenses incurred by the President of the Council of the International Civil Aviation Organization in connection with the procedures of paragraph 2b of this Article shall be considered to be part of the expenses of the arbitral tribunal.
 
-#### Article 15. Termination
+##### Article 15. Termination
 
 Either Party may, at any time, give notice in writing, through diplomatic channels, to the other Party of its decision to terminate this Agreement. Such notice shall be sent simultaneously to the International Civil Aviation Organization. This Agreement shall terminate at midnight (at the place of receipt of the notice to the other Party) at the end of the International Air Transport Association (IATA) traffic season in effect one year following the date of written notification of termination, unless the notice is withdrawn by agreement of the Parties before the end of this period.
 
-#### Article 16. Registration with ICAO
+##### Article 16. Registration with ICAO
 
 This Agreement and all amendments thereto shall be registered with the International Civil Aviation Organization.
 
-#### Article 17. Entry into Force
+##### Article 17. Entry into Force
 
 1. This Agreement shall enter into force on the first day of the second month following the date of the last note in an exchange of diplomatic notes between the Parties confirming that all necessary procedures for entry into force of this Agreement have been completed.
 

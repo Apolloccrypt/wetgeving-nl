@@ -1,13 +1,35 @@
 ---
 title: "Aanwijzing opsporing en vervolging bij voorvallen in de burgerluchtvaart"
 identifier: "BWBR0043156"
-categorie: "Milieu"
-publicatiedatum: 2020-03-01
-laatste_update: 2020-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043156"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-03-01"
+last_updated: "2020-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043156"
+soort: "beleidsregel"
+stam_id: "15338413"
+version_id: "26503282"
+internal_id: "C37628991"
+label_id: "15283754"
+dtd_version: "2.0"
+original_entry_into_force: "2020-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043156/2020-03-01/0"
+intitule_bron: "Stcrt.2020-7947"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-02-11"
+intitule_in_force: "2020-02-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-7947"
+original_published_date: "2020-02-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-7947"
+entry_into_force_date: "2020-03-01"
+jci_1_3: "jci1.3:c:BWBR0043156&z=2020-03-01&g=2020-03-01"
+jci_1_0: "1.0:c:BWBR0043156&g=2020-03-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2020-03-01"
 ---
-
 # Aanwijzing opsporing en vervolging bij voorvallen in de burgerluchtvaart
 
 ### Samenvatting

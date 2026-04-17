@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Tuchtrechtbesluit BIG enz. (terugbrengen aantal regionale tuchtcolleges van vijf naar drie en nadere invulling van tijdens de stages te verrichten episiotomieën)"
+title: "Besluit van 24 februari 2022, houdende wijziging van het Tuchtrechtbesluit BIG in verband met het terugbrengen van het aantal regionale tuchtcolleges van vijf naar drie en het Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008 in verband met een nadere invulling van de tijdens de stages te verrichten episiotomieën"
 identifier: "BWBR0046376"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-04-01
-laatste_update: 2022-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046376"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-04-01"
+last_updated: "2022-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046376"
+soort: "AMvB"
+stam_id: "16284293"
+version_id: "28449352"
+internal_id: "C40144061"
+label_id: "16210234"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046376/2022-04-01/0"
+intitule_bron: "Stb.2022-97"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-02-24"
+intitule_published: "2022-03-01"
+intitule_in_force: "2022-03-01"
+intitule_status: "goed"
+original_publication: "Stb.2022-97"
+original_signed_date: "2022-02-24"
+original_published_date: "2022-03-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2022-97"
+entry_into_force_date: "2022-04-01"
+jci_1_3: "jci1.3:c:BWBR0046376&z=2022-04-01&g=2022-04-01"
+jci_1_0: "1.0:c:BWBR0046376&g=2022-04-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Tuchtrechtbesluit BIG enz. (terugbrengen aantal regionale tuchtcolleges van vijf naar drie en nadere invulling van tijdens de stages te verrichten episiotomieën)"
+signed_date: "2022-02-24"
+entry_into_force: "2022-04-01"
 ---
-
 # Besluit van 24 februari 2022, houdende wijziging van het Tuchtrechtbesluit BIG in verband met het terugbrengen van het aantal regionale tuchtcolleges van vijf naar drie en het Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008 in verband met een nadere invulling van de tijdens de stages te verrichten episiotomieën
 
 Op de voordracht van van Volksgezondheid, Welzijn en Sport, van 28 januari 2022, kenmerk 3313455-1023811-WJZ;
@@ -20,19 +46,19 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Tuchtrechtbesluit BIG.
 
-#### Artikel II
+##### Artikel II
 
 De bevoegdheid tot behandeling van zaken die direct voor het tijdstip van inwerkingtreding van [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046376&artikel=I&z=2022-04-01&g=2022-04-01), van dit besluit aanhangig waren bij de regionale tuchtcolleges te Den Haag, Eindhoven en Groningen, gaat bij inwerkingtreding van dat artikel over op de colleges van respectievelijk Amsterdam, ’s‑Hertogenbosch en Zwolle, bij welke colleges de behandeling van de zaak wordt voortgezet in de stand van de procedure waarin deze zich bevindt.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008.
 
-#### Artikel IV
+##### Artikel IV
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

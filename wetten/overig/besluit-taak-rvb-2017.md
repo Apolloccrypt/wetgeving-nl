@@ -1,13 +1,39 @@
 ---
-title: "Besluit taak RVB 2017"
+title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 22 december 2017, nr. 2017-0000633621, houdende vaststelling van het organisatiebesluit Rijksvastgoedbedrijf (Besluit taak RVB 2017)"
 identifier: "BWBR0040475"
-categorie: "Overig"
-publicatiedatum: 2024-05-15
-laatste_update: 2024-05-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040475"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-05-15"
+last_updated: "2024-05-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040475"
+soort: "ministeriele-regeling"
+stam_id: "14469493"
+version_id: "29412702"
+internal_id: "C42057471"
+label_id: "14429914"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040475/2024-05-15/0"
+intitule_bron: "Stcrt.2017-72747"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-12-22"
+intitule_published: "2017-12-27"
+intitule_in_force: "2017-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-14329"
+original_signed_date: "2023-05-09"
+original_published_date: "2023-05-22"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-14329"
+entry_into_force_date: "2023-05-23"
+jci_1_3: "jci1.3:c:BWBR0040475&z=2024-05-15&g=2024-05-15"
+jci_1_0: "1.0:c:BWBR0040475&g=2024-05-15"
+citeertitel_status: "officieel"
+short_title: "Besluit taak RVB 2017"
+signed_date: "2023-05-09"
+entry_into_force: "2023-05-23"
 ---
-
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 22 december 2017, nr. 2017-0000633621, houdende vaststelling van het organisatiebesluit Rijksvastgoedbedrijf (Besluit taak RVB 2017)
 
 Handelend in overeenstemming met het gevoelen van de ministerraad;
@@ -16,7 +42,7 @@ Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedr
 
 Besluit:
 
-#### Artikel 1. Definitiebepaling
+##### Artikel 1. Definitiebepaling
 
 In dit besluit wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 - –. een nationaal belang voor de fysieke leefomgeving is aangegeven dat met de toedeling en realisatie van de nieuwe functie is gediend en de Staat eigenaar is van benodigde gronden in het gebied.
 
-#### Artikel 2. Huisvesting Rijk
+##### Artikel 2. Huisvesting Rijk
 
 1. Het Rijksvastgoedbedrijf is belast met het in gebruik geven van onroerende zaken aan:
 
@@ -68,7 +94,7 @@ een en ander voor zover deze taak niet bij of krachtens de wet is opgedragen aan
 
 - c. het in gebruik geven van onroerende zaken buiten Nederland.
 
-#### Artikel 3. Huisvesting Koninklijk Huis
+##### Artikel 3. Huisvesting Koninklijk Huis
 
 1. Het Rijksvastgoedbedrijf is belast met het tot gebruik ter beschikking stellen van de paleizen, genoemd in [artikel 4, eerste lid, van de Wet financieel statuut van het Koninklijk Huis](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=4).
 
@@ -76,7 +102,7 @@ een en ander voor zover deze taak niet bij of krachtens de wet is opgedragen aan
 
 3. De taak, bedoeld in het tweede lid, omvat ook het zo nodig daarvoor in eigendom verwerven van, het verkrijgen van beperkt zakelijke rechten met betrekking tot en het aanhuren van onroerende zaken als bedoeld in dit lid, het bouwen, verbouwen en inrichten daarvan en het adviseren hieromtrent.
 
-#### Artikel 4. Materieelbeheer van onroerende zaken
+##### Artikel 4. Materieelbeheer van onroerende zaken
 
 1. Het Rijksvastgoedbedrijf is belast met het materieelbeheer van:
 
@@ -98,11 +124,11 @@ voor zover deze taak niet bij of krachtens wet of in een proces-verbaal aan een 
 
 2. De taak bedoeld in het eerste lid omvat mede het onderhoud, vernieuwen en aanvullen van de aan de Staat toebehorende roerende zaken die behoren tot de vaste inrichting van de paleizen, genoemd in [artikel 4, eerste lid, van de Wet financieel statuut van het Koninklijk Huis](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=4).
 
-#### Artikel 5. Zorg voor architectuur, stedenbouwkundige inpassing, beeldende kunst en duurzaamheid
+##### Artikel 5. Zorg voor architectuur, stedenbouwkundige inpassing, beeldende kunst en duurzaamheid
 
 Het Rijksvastgoedbedrijf is belast met de bevordering en bewaking van de kwaliteit van de architectuur, van de stedenbouwkundige inpassing, van de beeldende kunst en van de duurzaamheid bij de uitvoering van de taken genoemd in de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=2&z=2024-05-15&g=2024-05-15), [3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=3&z=2024-05-15&g=2024-05-15), [4, eerste lid, onderdelen a, b, c, d, e en g, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=4&z=2024-05-15&g=2024-05-15), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=7&z=2024-05-15&g=2024-05-15).
 
-#### Artikel 6. Privaatrechtelijk beheer van onroerende zaken
+##### Artikel 6. Privaatrechtelijk beheer van onroerende zaken
 
 Het Rijksvastgoedbedrijf is belast met:
 
@@ -120,7 +146,7 @@ Het Rijksvastgoedbedrijf is belast met:
 
 voor zover daarmee niet bij of krachtens de wet een van de andere ministers is belast.
 
-#### Artikel 7. Inzet onroerende zaken met het oog op nationale beleidsdoelen voor de fysieke leefomgeving
+##### Artikel 7. Inzet onroerende zaken met het oog op nationale beleidsdoelen voor de fysieke leefomgeving
 
 1. Het Rijksvastgoedbedrijf is ter ondersteuning van de verwezenlijking van nationale beleidsdoelen voor de fysieke leefomgeving belast met:
 
@@ -148,7 +174,7 @@ voor zover daarmee niet bij of krachtens de wet een van de andere ministers is b
 
 - e. het vervreemden van onroerende zaken aan gemeenten of provincies naar aanleiding van een daartoe strekkend verzoek, voor zover aan de nadere voorwaarden voor deze vervreemding, gesteld door de Minister van Binnenlandse Zaken en Koninkrijksrelaties, is voldaan.
 
-#### Artikel 8. Bodemmaterialen, nalatenschappen en historische scheepswrakken
+##### Artikel 8. Bodemmaterialen, nalatenschappen en historische scheepswrakken
 
 Het Rijksvastgoedbedrijf is belast met:
 
@@ -158,7 +184,7 @@ Het Rijksvastgoedbedrijf is belast met:
 
 - c. het verrichten van alle privaatrechtelijke rechtshandelingen die voortvloeien uit de positie van de Staat als eigenaar van de scheepswrakken en lading van de voormalige Verenigde Oost-Indische Compagnie, West-Indische Compagnie en Admiraliteit.
 
-#### Artikel 9. Dienstverlening aan derden
+##### Artikel 9. Dienstverlening aan derden
 
 Het Rijksvastgoedbedrijf is belast met het op verzoek van een van de andere ministers, ondersteunen van organisaties als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=2&z=2024-05-15&g=2024-05-15), bij:
 
@@ -184,21 +210,21 @@ Het Rijksvastgoedbedrijf is belast met het op verzoek van een van de andere mini
 
 indien aan de nadere voorwaarden voor deze dienstverlening, gesteld door de Minister van Binnenlandse Zaken en Koninkrijksrelaties, is voldaan.
 
-#### Artikel 10. Aankoop van vastgoed met oog op doorverkoop aan derden
+##### Artikel 10. Aankoop van vastgoed met oog op doorverkoop aan derden
 
 Het Rijksvastgoedbedrijf is belast met het op verzoek van een van de andere ministers in eigendom verwerven van onroerende zaken of verwerven van appartementsrechten van organisaties als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=2&z=2024-05-15&g=2024-05-15), teneinde deze onroerende zaken of appartementsrechten vervolgens te vervreemden aan derden, indien aan de nadere voorwaarden voor deze verwerving en vervreemding, gesteld door de Minister van Binnenlandse Zaken en Koninkrijksrelaties, is voldaan.
 
-#### Artikel 11. Overige taken
+##### Artikel 11. Overige taken
 
 Het Rijksvastgoedbedrijf kan op verzoek van andere ministers taken en bevoegdheden namens hen uitoefenen.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2018.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit taak RVB 2017.
 

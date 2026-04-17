@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake de middelen om de onrechtmatige invoer, uitvoer en eigendomsoverdracht van culturele goederen te verbieden en te verhinderen"
 identifier: "BWBV0003412"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2009-10-17
-laatste_update: 1970-11-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003412"
+country: "nl"
+rank: "verdrag"
+publication_date: "2009-10-17"
+last_updated: "1970-11-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003412"
+soort: "verdrag"
+stam_id: "10003521443"
+version_id: "10003570382"
+internal_id: "C10008431641"
+label_id: "10003507034"
+dtd_version: "2.0"
+original_entry_into_force: "2009-10-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003412/2009-10-17/0"
+intitule_bron: "Trb.1972-50"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1972-05-02"
+intitule_in_force: "2009-09-24"
+intitule_status: "goed"
+original_publication: "Trb.1972-50"
+original_published_date: "1972-05-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1972-50"
+entry_into_force_date: "2009-10-17"
+jci_1_3: "jci1.3:c:BWBV0003412&z=2009-10-17&g=2009-10-17"
+jci_1_0: "1.0:c:BWBV0003412&g=2009-10-17"
+citeertitel_status: "redactioneel"
+entry_into_force: "2009-10-17"
 ---
-
 # Overeenkomst inzake de middelen om de onrechtmatige invoer, uitvoer en eigendomsoverdracht van culturele goederen te verbieden en te verhinderen
 
 De Algemene Vergadering van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, bijeengekomen te Parijs in haar zestiende zitting, van 12 oktober tot 14 november 1970,
@@ -36,7 +58,7 @@ Besloten hebbende, op haar vijftiende zitting, dat deze aangelegenheid het onder
 
 Aanvaardt deze Overeenkomst op 14 november 1970.
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Overeenkomst wordt onder de term „culturele goederen” verstaan goederen die om godsdienstige of wereldlijke redenen door elke Staat zijn aangewezen als belangrijk voor de oudheidkunde, de prehistorie, de geschiedenis, de letterkunde, de kunst of de wetenschap en die behoren tot de volgende categorieën:
 
@@ -70,17 +92,17 @@ Voor de toepassing van deze Overeenkomst wordt onder de term „culturele goeder
 
 - (k). meubelstukken van meer dan honderd jaar oud en oude muziekinstrumenten.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Staten die partij zijn bij deze Overeenkomst zijn van oordeel dat de onrechtmatige invoer, uitvoer en eigendomsoverdracht van culturele goederen tot de voornaamste oorzaken behoren van de verarming van het culturele erfgoed van de landen van oorsprong van deze goederen en dat internationale samenwerking een van de meest doeltreffende middelen vormt om de culturele goederen van elk land te beschermen tegen de daaruit voortvloeiende gevaren.
 
 2. Derhalve verbinden de Staten die partij zijn bij deze Overeenkomst zich ertoe deze praktijken tegen te gaan met de te hunner beschikking staande middelen, met name door de oorzaken ervan weg te nemen, door een einde te maken aan de huidige praktijken en door de vereiste maatregelen tot herstel te helpen treffen.
 
-#### Artikel 3
+##### Artikel 3
 
 De invoer, uitvoer of eigendomsoverdracht van culturele goederen die geschiedt in strijd met de bepalingen welke ingevolge deze Overeenkomst door de Staten die daarbij partij zijn, zijn vastgesteld, is onrechtmatig.
 
-#### Artikel 4
+##### Artikel 4
 
 De Staten die partij zijn bij deze Overeenkomst erkennen dat, voor de toepassing van de Overeenkomst, de tot de volgende categorieën behorende goederen deel uitmaken van het culturele erfgoed van elke Staat:
 
@@ -94,7 +116,7 @@ De Staten die partij zijn bij deze Overeenkomst erkennen dat, voor de toepassing
 
 - (e). culturele goederen die met toestemming van de bevoegde autoriteiten van het land van oorsprong van deze goederen zijn ontvangen als gift of op wettige wijze zijn aangekocht.
 
-#### Artikel 5
+##### Artikel 5
 
 Ter bescherming van hun culturele goederen tegen onrechtmatige invoer, uitvoer en eigendomsoverdracht, verbinden de Staten die partij zijn bij deze Overeenkomst zich ertoe, indien zodanige diensten niet reeds bestaan, op hun grondgebied op de aan elk land eigen wijze een of rneer nationale diensten in te stellen voor de bescherming van het culturele erfgoed, waaraan voldoende deskundig personeel is verbonden om de volgende taken naar behoren te kunnen verrichten:
 
@@ -112,7 +134,7 @@ Ter bescherming van hun culturele goederen tegen onrechtmatige invoer, uitvoer e
 
 - (g). ervoor te zorgen dat voldoende ruchtbaarheid wordt gegeven aan elke verdwijning van culturele goederen.
 
-#### Artikel 6
+##### Artikel 6
 
 De Staten die partij zijn bij deze Overeenkomst verbinden zich:
 
@@ -122,7 +144,7 @@ De Staten die partij zijn bij deze Overeenkomst verbinden zich:
 
 - (c). met passende middelen dit verbod algemeen bekend te maken, vooral onder degenen van wie kan worden aangenomen dat zij culturele goederen zullen uitvoeren of invoeren.
 
-#### Artikel 7
+##### Artikel 7
 
 De Staten die partij zijn bij deze Overeenkomst verbinden zich:
 
@@ -134,15 +156,15 @@ De Staten die partij zijn bij deze Overeenkomst verbinden zich:
 
 - (ii). op verzoek van de Staat van oorsprong die partij is bij deze Overeenkomst, passende stappen te doen om zodanige goederen, die zijn gestolen en ingevoerd na de inwerkingtreding van deze Overeenkomst voor beide betrokken Staten, in beslag te nemen en terug te geven, mits evenwel de verzoekende Staat een passende vergoeding betaalt aan de verkrijger te goeder trouw of rechthebbende van het goed. Verzoeken om inbeslagneming en teruggave moeten worden gedaan langs diplomatieke weg. De Partij die het verzoek doet, verschaft op haar kosten de nodige documenten en andere bewijsstukken ter staving van haar eis tot inbeslagneming en teruggave. De Partijen vorderen geen douanerechten, noch betaling van andere kosten, op culturele goederen die ingevolge dit artikel worden teruggegeven. Alle onkosten verbonden aan de teruggave en de terugzending van de culturele goederen komen ten laste van de Partij die het verzoek doet.
 
-#### Artikel 8
+##### Artikel 8
 
 De Staten die partij zijn bij deze Overeenkomst verbinden zich ertoe straffen of bestuursrechtelijke sancties op te leggen aan personen die aansprakelijk zijn voor overtreding van de verbodsbepalingen bedoeld in de artikelen 6, letter (b) en 7, letter (b).
 
-#### Artikel 9
+##### Artikel 9
 
 Staten die partij zijn bij deze Overeenkomst en waarvan het culturele erfgoed wordt bedreigd door roof van oudheidkundige of etnologische goederen, kunnen een beroep doen op andere Staten die partij zijn bij deze Overeenkomst en die daarbij zijn betrokken. De Staten die partij zijn bij deze Overeenkomst verbinden zich ertoe in deze omstandigheden deel te nemen aan een gezamenlijke internationale actie om de nodige concrete maatregelen, waaronder het toezicht op uitvoer en invoer en de internationale handel in de betrokken specifieke goederen, vast te stellen en uit te voeren. In afwachting van overeenstemming, treft elke betrokken Staat voor zover mogelijk voorlopige maatregelen om te voorkomen dat onherstelbare schade wordt toegebracht aan het culturele erfgoed van de Staat die het verzoek doet.
 
-#### Artikel 10
+##### Artikel 10
 
 De Staten die partij zijn bij deze Overeenkomst verbinden zich:
 
@@ -150,15 +172,15 @@ De Staten die partij zijn bij deze Overeenkomst verbinden zich:
 
 - (b). door middel van onderwijs te trachten het publiek bewust te maken van de waarde van culturele goederen en van de bedreiging van het culturele erfgoed door diefstal, heimelijke opgravingen en onrechtmatige uitvoer.
 
-#### Artikel 11
+##### Artikel 11
 
 De uitvoer en eigendomsoverdracht van culturele goederen onder dwang, rechtstreeks of niet rechtstreeks voortvloeiend uit de bezetting van een land door een vreemde mogendheid, worden als onrechtmatig beschouwd.
 
-#### Artikel 12
+##### Artikel 12
 
 De Staten die partij zijn bij deze Overeenkomst eerbiedigen het culturele erfgoed binnen de grondgebieden voor welker internationale betrekkingen zij verantwoordelijk zijn en nemen alle passende maatregelen om de onrechtmatige invoer, uitvoer en eigendomsoverdracht van culturele goederen in zodanige gebieden te verbieden en te verhinderen.
 
-#### Artikel 13
+##### Artikel 13
 
 De Staten die partij zijn bij deze Overeenkomst verbinden zich voorts, overeenkomstig de wetten van elke Staat:
 
@@ -170,19 +192,19 @@ De Staten die partij zijn bij deze Overeenkomst verbinden zich voorts, overeenko
 
 - (d). het onaantastbare recht te erkennen van elke Staat die partij is bij deze Overeenkomst bepaalde culturele goederen tot onvervreemdbaar monument te verklaren, hetgeen medebrengt dat deze goederen derhalve ipso facto niet mogen worden uitgevoerd, en eraan mede te werken dat zodanige goederen weer in het bezit komen van de betrokken Staat, in gevallen waarin zij toch zijn uitgevoerd.
 
-#### Artikel 14
+##### Artikel 14
 
 Ten einde de onrechtmatige uitvoer te verhinderen en te voldoen aan de verplichtingen voortvloeiend uit de toepassing van deze Overeenkomst, voorziet elke Staat die partij is bij deze Overeenkomst, naar vermogen, de nationale diensten tot bescherming van zijn culturele erfgoed van voldoende geldmiddelen en stelt hij hiertoe, zo nodig, een fonds in.
 
-#### Artikel 15
+##### Artikel 15
 
 Geen enkele bepaling in deze Overeenkomst belet Staten die daarbij partij zijn onderling bijzondere overeenkomsten te sluiten of reeds gesloten overeenkomsten te blijven toepassen betreffende de teruggave van culturele goederen die vóór de inwerkingtreding van deze Overeenkomst voor de betrokken Staten zijn weggevoerd van het grondgebied van oorsprong, onverschillig om welke reden.
 
-#### Artikel 16
+##### Artikel 16
 
 De Staten die partij zijn bij deze Overeenkomst verstrekken in hun periodieke verslagen, die worden voorgelegd aan de Algemene Vergadering van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur op door deze Vergadering vast te stellen tijdstippen en wijze, inlichtingen over de bepalingen in wetten en besluiten die zij hebben genomen en over andere maatregelen die zij hebben genomen ter uitvoering van deze Overeenkomst, alsmede bijzonderheden over de op dit gebied opgedane ervaring.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De Staten die partij zijn bij deze Overeenkomst kunnen een beroep doen op technische bijstand van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, met name ten aanzien van:
 
@@ -200,31 +222,31 @@ De Staten die partij zijn bij deze Overeenkomst verstrekken in hun periodieke ve
 
 5. Op verzoek van ten minste twee Staten die partij zijn bij deze Overeenkomst en die betrokken zijn bij een geschil over de toepassing ervan, kan de UNESCO haar goede diensten aanbieden om een schikking tussen hen te bereiken.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze Overeenkomst is opgesteld in de Engelse, de Franse, de Russische en de Spaanse taal, zijnde de vier teksten gelijkelijk gezaghebbend.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Deze Overeenkomst dient, overeenkomstig hun onderscheiden constitutionele procedures, door de Staten die lid zijn van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur te worden bekrachtigd of aanvaard.
 
 2. De akten van bekrachtiging of aanvaarding worden nedergelegd bij de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Deze Overeenkomst staat open voor toetreding door alle Staten die geen lid zijn van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur en die door het Dagelijks Bestuur van de Organisatie zijn uitgenodigd toe te treden.
 
 2. Toetreding geschiedt door nederlegging van een akte van toetreding bij de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze Overeenkomst treedt in werking drie maanden na de datum van nederlegging van de derde akte van bekrachtiging, aanvaarding of toetreding, doch slechts ten aanzien van die Staten die hun onderscheiden akten op of voor dat tijdstip hebben nedergelegd. Ten aanzien van iedere andere Staat treedt zij in werking drie maanden na de nederlegging van zijn akte van bekrachtiging, aanvaarding of toetreding.
 
-#### Artikel 22
+##### Artikel 22
 
 De Staten die partij zijn bij deze Overeenkomst erkennen dat de Overeenkomst niet alleen van toepassing is op het moederland, maar ook op alle grondgebieden voor welker internationale betrekkingen zij verantwoordelijk zijn; zij verbinden zich zo nodig overleg te plegen met de Regeringen of andere bevoegde autoriteiten van deze grondgebieden op het tijdstip van bekrachtiging, aanvaarding of toetreding of eerder, ten einde de toepassing van de Overeenkomst op deze grondgebieden te verzekeren en geven de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur kennis van de grondgebieden waarop de Overeenkomst wordt toegepast, welke kennisgeving van kracht wordt drie maanden na de datum van ontvangst.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Elke Staat die partij is bij deze Overeenkomst kan haar opzeggen zowel voor zichzelf als voor een grondgebied voor welks internationale betrekkingen hij verantwoordelijk is.
 
@@ -232,17 +254,17 @@ De Staten die partij zijn bij deze Overeenkomst erkennen dat de Overeenkomst nie
 
 3. De opzegging wordt van kracht twaalf maanden na ontvangst van de akte van opzegging.
 
-#### Artikel 24
+##### Artikel 24
 
 De Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur stelt de Lid-Staten van de Organisatie, de Staten die geen lid zijn van de Organisatie, zoals bedoeld in artikel 20, alsmede de Verenigde Naties in kennis van de nederlegging van alle akten van bekrachtiging, aanvaarding en toetreding bedoeld in de artikelen 19 en 20, en van de kennisgevingen en opzeggingen bedoeld in de artikelen 22 en 23.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Deze Overeenkomst kan worden herzien door de Algemene Vergadering van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur. Een herziening bindt evenwel slechts de Staten die partij worden bij de overeenkomst houdende voorziening.
 
 2. Indien de Algemene Vergadering een nieuwe overeenkomst aanvaardt ter gehele of gedeeltelijke herziening van deze Overeenkomst, zal, tenzij de nieuwe overeenkomst anders bepaalt, deze Overeenkomst met ingang van de datum waarop de nieuwe overeenkomst houdende herziening van kracht wordt, niet langer openstaan voor bekrachtiging, aanvaarding of toetreding.
 
-#### Artikel 26
+##### Artikel 26
 
 In overeenstemming met [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), wordt deze Overeenkomst op verzoek van de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur geregistreerd bij het secretariaat van de Verenigde Naties.
 

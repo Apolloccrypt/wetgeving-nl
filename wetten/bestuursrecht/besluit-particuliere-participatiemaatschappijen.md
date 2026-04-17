@@ -1,13 +1,35 @@
 ---
-title: "Besluit particuliere participatiemaatschappijen"
+title: "Besluit van 18 maart 1994, houdende regels inzake de erkenning van en de verstrekking van subsidies aan particuliere participatiemaatschappijen"
 identifier: "BWBR0006526"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-07-01
-laatste_update: 2009-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006526"
+country: "nl"
+rank: "amvb"
+publication_date: "2009-07-01"
+last_updated: "2009-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006526"
+soort: "AMvB"
+stam_id: "814803"
+version_id: "1180482"
+internal_id: "C1180481"
+label_id: "789464"
+dtd_version: "2.0"
+original_entry_into_force: "1994-05-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006526/2009-07-01/0"
+intitule_bron: "Stb.1994-318"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-03-18"
+intitule_status: "goed"
+original_publication: "Stb.1994-318"
+original_signed_date: "1994-03-18"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-05-11"
+jci_1_3: "jci1.3:c:BWBR0006526&z=2009-07-01&g=2009-07-01"
+jci_1_0: "1.0:c:BWBR0006526&g=2009-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit particuliere participatiemaatschappijen"
+signed_date: "1994-03-18"
+entry_into_force: "1994-05-11"
 ---
-
 # Besluit van 18 maart 1994, houdende regels inzake de erkenning van en de verstrekking van subsidies aan particuliere participatiemaatschappijen
 
 Op de voordracht van Onze Minister van Economische Zaken van 24 november 1993, nr. WJA/JZ 93088661;
@@ -22,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -42,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - 2°. laatstbedoelde rechtspersonen of vennootschappen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In dit besluit en de daarop berustende bepalingen wordt onder een participatie verstaan:
 
@@ -84,7 +106,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. In dit besluit en de daarop berustende bepalingen wordt onder een achtergestelde lening verstaan een niet door enige vorm van zekerheid gedekte geldlening, waarop de debiteur krachtens een daartoe strekkende bepaling in de akte van geldlening in geval van ontbinding, een akkoord na verlening van surséance van betaling of een akkoord in faillissement van de debiteur, rente en aflossing - voor zover de termijnen daarvan niet reeds verschenen waren voor het tijdstip van de ontbinding, de indiening van het verzoek om verlening van surséance van betaling of de indiening van de faillissementsaanvrage - eerst verplicht is te betalen nadat alle andere op dat moment bestaande schulden van de debiteur, met uitzondering van die welke voortvloeien uit leningen waaraan een bepaling van gelijke aard als voornoemde bepaling is verbonden, zijn voldaan, terwijl ingevolge de vorenbedoelde akte van geldlening de crediteur afstand heeft gedaan van alle rechten tot verrekening van de rente en aflossing.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In dit besluit en de daarop berustende bepalingen wordt onder de verkrijgingsprijs van een participatie verstaan het bedrag in geld, waarvoor de particuliere participatiemaatschappij de participatie heeft verkregen.
 
@@ -92,7 +114,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Erkenning van de particuliere participatiemaatschappij
 
-#### Artikel 4
+##### Artikel 4
 
 Een naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid, vennootschap onder firma of commanditaire vennootschap wordt op aanvraag door de bank als particuliere participatiemaatschappij erkend, indien zij voldoet aan de volgende eisen:
 
@@ -116,7 +138,7 @@ Een naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid,
 
 - g. indien zij slechts één beherend vennoot heeft, is deze vennoot een rechtspersoon, die voldoet aan het bepaalde onder **a** en **b**.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een aanvraag om erkenning als particuliere participatiemaatschappij wordt ingediend, vergezeld van de volgende bescheiden:
 
@@ -144,7 +166,7 @@ Een naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid,
 
 2. Aanvragen worden niet ingediend per telefax.
 
-#### Artikel 6
+##### Artikel 6
 
 Door de bank aangewezen personen kunnen, voor zover dat redelijkerwijs noodzakelijk is voor een goede uitvoering van dit besluit, de aanvrager verzoeken:
 
@@ -154,11 +176,11 @@ Door de bank aangewezen personen kunnen, voor zover dat redelijkerwijs noodzakel
 
 - c. medewerking te verlenen aan het verstrekken van gegevens door anderen.
 
-#### Artikel 7
+##### Artikel 7
 
 De bank geeft op de aanvraag een beschikking binnen acht weken na ontvangst van de aanvraag.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De bank beslist in ieder geval afwijzend op een aanvraag, indien op grond van de deskundigheid, de voornemens of de antecedenten van een of meer personen die het beleid van de aanvrager bepalen of medebepalen de vrees bestaat, dat het goed functioneren van de aanvrager als particuliere participatiemaatschappij onvoldoende gewaarborgd is.
 
@@ -168,15 +190,15 @@ De bank geeft op de aanvraag een beschikking binnen acht weken na ontvangst van 
 
 - b. indien de aanvrager in het kader van de aanvraag gegevens heeft verstrekt, waarvan hij wist of behoorde te weten dat deze onjuist of onvolledig waren en deze verstrekking tot een onjuiste beschikking op de aanvraag zou hebben geleid.
 
-#### Artikel 9
+##### Artikel 9
 
 Een erkenning als particuliere participatiemaatschappij wordt bekend gemaakt in de **Staatscourant**, onder vermelding van de naam en de statutaire zetel van de particuliere participatiemaatschappij.
 
-#### Artikel 10
+##### Artikel 10
 
 Aan een erkenning als particuliere participatiemaatschappij zijn de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=11&z=2009-07-01&g=2009-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=12&z=2009-07-01&g=2009-07-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=13&z=2009-07-01&g=2009-07-01) opgenomen verplichtingen verbonden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De betrokkene blijft voldoen aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=4&z=2009-07-01&g=2009-07-01) gestelde eisen.
 
@@ -194,7 +216,7 @@ Aan een erkenning als particuliere participatiemaatschappij zijn de in de [artik
 
 4. Voor de toepassing van het tweede lid, aanhef en onder **b**, wordt bij de bepaling van de boekjaren de periode waarin de betrokkene als particuliere participatiemaatschappij was erkend op basis van de Garantieregeling particuliere participatiemaatschappijen 1981 mede betrokken.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Binnen zes maanden na afsluiting van ieder boekjaar zendt de betrokkene aan de bank:
 
@@ -204,7 +226,7 @@ Aan een erkenning als particuliere participatiemaatschappij zijn de in de [artik
 
 2. Met de in het eerste lid bedoelde bescheiden zendt de betrokkene door een accountant gecontroleerde en goedgekeurde, overeenkomstig het bij regeling van Onze Minister vastgestelde model opgestelde overzicht mee van alle aandelen in het kapitaal van enige rechtspersonen en van alle overige door de particuliere participatiemaatschappij aan natuurlijke of rechtspersonen verstrekte financieringen, die de particuliere participatiemaatschappij aan het einde van het laatstverlopen boekjaar had.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De betrokkene stelt de bank binnen acht weken nadat de desbetreffende gebeurtenis heeft plaatsgevonden, schriftelijk, onder medezending van alle relevante gegevens en bescheiden, op de hoogte van:
 
@@ -240,7 +262,7 @@ Aan een erkenning als particuliere participatiemaatschappij zijn de in de [artik
 
 - c. medewerking te verlenen aan het verstrekken van gegevens door anderen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De bank kan de erkenning als particuliere participatiemaatschappij intrekken, indien:
 
@@ -256,7 +278,7 @@ Aan een erkenning als particuliere participatiemaatschappij zijn de in de [artik
 
 ### Hoofdstuk 3. Registratie van een participatie
 
-#### Artikel 15
+##### Artikel 15
 
 1. Een erkende particuliere participatiemaatschappij kan op aanvraag registratie van een participatie verkrijgen van de bank.
 
@@ -282,11 +304,11 @@ Aan een erkenning als particuliere participatiemaatschappij zijn de in de [artik
 
 5. Aanvragen worden niet ingediend per telefax.
 
-#### Artikel 16
+##### Artikel 16
 
 Onze Minister stelt bij ministeriële regeling met betrekking tot ieder kalenderjaar het bedrag vast, inhoudende het totaal van de verkrijgingsprijzen van participaties waarvoor in dat jaar op aanvraag een beschikking tot registratie kan worden verkregen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De bank beslist afwijzend op een aanvraag om registratie, indien:
 
@@ -316,7 +338,7 @@ Onze Minister stelt bij ministeriële regeling met betrekking tot ieder kalender
 
 3. Voor de toepassing van het tweede lid, aanhef en onder **d**, wordt voor de bepaling van de boekjaren de periode waarin de aanvrager een in de zin van de Garantieregeling particuliere participatiemaatschappijen 1981 erkende particuliere participatiemaatschappij was, mede betrokken.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De betrokkene voldoet jaarlijks voor het eind van de maand waarin de participatie is verkregen, en voor het eerst in het jaar volgend op dat waarin de aanvraag tot registratie is ingediend, aan de bank een registratiepremie ten bedrage van 1 procent van de verkrijgingsprijs van de participatie.
 
@@ -326,7 +348,7 @@ Onze Minister stelt bij ministeriële regeling met betrekking tot ieder kalender
 
 4. Voor de berekening van de in het eerste lid bedoelde premie worden de bedragen, die vóór het in het eerste lid bedoelde tijdstip zijn afgelost op participaties die bestaan uit leningen niet tot de verkrijgingsprijs gerekend.
 
-#### Artikel 19
+##### Artikel 19
 
 Een beschikking tot registratie van een participatie vervalt, zodra en voorzover de betrokkene de participatie vervreemdt.
 
@@ -334,7 +356,7 @@ Een beschikking tot registratie van een participatie vervalt, zodra en voorzover
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 1. De bank verstrekt op aanvraag een subsidie aan een erkende particuliere participatiemaatschappij, indien deze op een voor 1 januari 1996 verkregen participatie een verlies lijdt bij:
 
@@ -360,7 +382,7 @@ Een beschikking tot registratie van een participatie vervalt, zodra en voorzover
 
 - b. onder een bestuurder: een niet-commanditaire vennoot en de natuurlijke persoon of rechtspersoon die uit hoofde van een onmiddellijk of middellijk aandeelhouderschap, lidmaatschap, bestuurslidmaatschap of soortgelijke kwaliteit overwegende zeggenschap over een bestuurder of een niet-commanditaire vennoot uitoefent.
 
-#### Artikel 21
+##### Artikel 21
 
 De bank beslist in ieder geval afwijzend op een aanvraag om subsidie indien:
 
@@ -384,7 +406,7 @@ De bank beslist in ieder geval afwijzend op een aanvraag om subsidie indien:
 
 #### § 2. Berekening van de subsidie
 
-#### Artikel 22
+##### Artikel 22
 
 1. De subsidiegrondslag van een participatie die bestaat uit aandelen wordt gevormd door de verkrijgingsprijs of, indien het verlies slechts op een deel van de participatie is geleden, het hiermee overeenkomende deel van de verkrijgingsprijs, verminderd met:
 
@@ -406,7 +428,7 @@ De bank beslist in ieder geval afwijzend op een aanvraag om subsidie indien:
 
 5. Indien de aanvrager naast een of meer geregistreerde participaties tevens een of meer andere financieringen van dezelfde soort in de betreffende vennootschap houdt en slechts op een deel van die participaties en financieringen verlies lijdt, wordt het verlies, onverminderd het vierde lid, geacht te zijn geleden op dat deel van de geregistreerde participaties, dat overeenkomt met de verhouding tussen de totale verkrijgingsprijs van de geregistreerde participaties en het totale bedrag van de verkrijgingsprijs van alle geregistreerde en gemelde participaties en andere financieringen van dezelfde soort.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De subsidie bedraagt 50 procent van de subsidiegrondslag.
 
@@ -428,17 +450,17 @@ Tm: het aantal volledige maanden, verlopen tussen de verkrijging van de particip
 
 #### § 3. Voorschotten
 
-#### Artikel 24
+##### Artikel 24
 
 1. Een voorschot op een subsidie kan op aanvraag van de erkende participatiemaatschappij eerst worden verstrekt nadat de vennootschap waarin de participatie wordt gehouden, in staat van faillissement is gesteld.
 
 2. Het voorschot is niet groter dan de redelijkerwijs te verwachten subsidie.
 
-#### Artikel 25
+##### Artikel 25
 
 De bank geeft op de aanvraag een beschikking binnen acht weken na ontvangst van de aanvraag.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De bank kan een beschikking, inhoudende de verlening van een voorschot, intrekken, indien niet binnen drie jaar na de datum van de beschikking een beschikking is gegeven, inhoudende de verstrekking van subsidie ter zake van het desbetreffende verlies.
 
@@ -446,7 +468,7 @@ De bank geeft op de aanvraag een beschikking binnen acht weken na ontvangst van 
 
 #### § 4. Aanvragen om subsidie
 
-#### Artikel 27
+##### Artikel 27
 
 1. Een aanvraag om subsidie wordt binnen zes maanden na de gebeurtenis, bedoeld in [artikel 20, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=4&paragraaf=1&artikel=20&z=2009-07-01&g=2009-07-01), ingediend bij de bank, met gebruikmaking van een formulier, waarvan het model bij regeling van Onze Minister wordt vastgesteld. De aanvraag gaat vergezeld van:
 
@@ -464,11 +486,11 @@ De bank geeft op de aanvraag een beschikking binnen acht weken na ontvangst van 
 
 2. Aanvragen worden niet ingediend per telefax.
 
-#### Artikel 28
+##### Artikel 28
 
 De bank geeft op de aanvraag een beschikking binnen acht weken na ontvangst van de aanvraag.
 
-#### Artikel 29
+##### Artikel 29
 
 Op een aanvraag kan in ieder geval afwijzend worden beslist:
 
@@ -476,7 +498,7 @@ Op een aanvraag kan in ieder geval afwijzend worden beslist:
 
 - b. indien de aanvrager in het kader van de aanvraag gegevens heeft verstrekt waarvan hij wist of behoorde te weten dat deze onjuist of onvolledig waren, en de verstrekking van deze gegevens tot een onjuiste beschikking op de aanvraag zou hebben geleid.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Een beschikking, inhoudende de verstrekking van een subsidie kan worden ingetrokken of gewijzigd bij een beschikking als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=14&z=2009-07-01&g=2009-07-01).
 
@@ -484,21 +506,21 @@ Op een aanvraag kan in ieder geval afwijzend worden beslist:
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 1. Aanvragen tot erkenning als particuliere participatiemaatschappij als bedoeld in Hoofdstuk 2 van de Garantieregeling particuliere participatiemaatschappijen 1981, die zijn ingediend voor de inwerkingtreding van dit besluit, en waarop nog niet is besloten, worden in aanmerking genomen als aanvragen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=2&artikel=4&z=2009-07-01&g=2009-07-01) van dit besluit.
 
 2. Meldingen als bedoeld in artikel 13 van de Garantieregeling particuliere participatiemaatschappijen 1981 die de toezichthouder ten tijde van de inwerkingtreding van dit besluit nog niet schriftelijk heeft bevestigd, worden in aanmerking genomen als aanvragen om registratie als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006526&hoofdstuk=3&artikel=15&z=2009-07-01&g=2009-07-01) van dit besluit.
 
-#### Artikel 32
+##### Artikel 32
 
 De particuliere participatiemaatschappij, die bij de inwerkingtreding van dit besluit op basis van de Garantieregeling particuliere participatiemaatschappijen 1981 als zodanig was erkend, wordt aangemerkt als een met inachtneming van dit besluit door de bank erkende particuliere participatiemaatschappij.
 
-#### Artikel 33
+##### Artikel 33
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 
-#### Artikel 34
+##### Artikel 34
 
 Dit besluit wordt aangehaald als: Besluit particuliere participatiemaatschappijen.
 

@@ -1,32 +1,55 @@
 ---
-title: "Beleidsregels veiligheidsnormen ATC"
+title: "Beleidsregels van de Staatssecretaris van Infrastructuur en Milieu, betreffende het beoordelingskader voor wijzigingen in functionele systemen van de Luchtverkeersleiding Nederland en het daarbij te borgen veiligheidsniveau (Beleidsregels veiligheidsnormen ATC)"
 identifier: "BWBR0036878"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-07-25
-laatste_update: 2015-07-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036878"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2015-07-25"
+last_updated: "2015-07-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036878"
+soort: "beleidsregel"
+stam_id: "13228913"
+version_id: "22609352"
+internal_id: "C32414631"
+label_id: "13197154"
+dtd_version: "2.0"
+original_entry_into_force: "2015-07-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036878/2015-07-25/0"
+intitule_bron: "Stcrt.2015-22338"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-07-24"
+intitule_in_force: "2015-07-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-22338"
+original_published_date: "2015-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-22338"
+entry_into_force_date: "2015-07-25"
+jci_1_3: "jci1.3:c:BWBR0036878&z=2015-07-25&g=2015-07-25"
+jci_1_0: "1.0:c:BWBR0036878&g=2015-07-25"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels veiligheidsnormen ATC"
+entry_into_force: "2015-07-25"
 ---
-
 # Beleidsregels van de Staatssecretaris van Infrastructuur en Milieu, betreffende het beoordelingskader voor wijzigingen in functionele systemen van de Luchtverkeersleiding Nederland en het daarbij te borgen veiligheidsniveau (Beleidsregels veiligheidsnormen ATC)
 
 Gelet op de artikelen 9, eerste lid, en 10, van Uitvoeringsverordening (EU) nr. 1034/2011 van de Commissie van 17 oktober 2011 betreffende het veiligheidstoezicht op het gebied van luchtverkeersbeheer en luchtvaartnavigatiediensten en tot wijziging van Verordening (EU) nr. 691/2010 (PbEU L 271), onderdeel 3.1 van Bijlage I, de onderdelen 3.1.1, onder d, 3.1.2, onder c, 3.2.1, onder c, en 3.2.4 van Bijlage II bij Uitvoeringsverordening (EU) nr. 1035/2011 van de Commissie van 17 oktober 2011 tot vaststelling van de gemeenschappelijke eisen voor de verlening van luchtvaartnavigatiediensten en tot wijziging van de Verordeningen (EG) nr. 482/2008 en (EU) nr. 691/2010 (PbEU L 271) en [artikel 4:81, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van de artikelen 9, eerste lid, en 10 van Uitvoeringsverordening (EU) nr. 1034/2011 van de Commissie van 17 oktober 2011 betreffende het veiligheidstoezicht op het gebied van luchtverkeersbeheer en luchtvaartnavigatiediensten en tot wijziging van Verordening (EU) nr. 691/2010 (PbEU L 271) en onderdeel 3.1 van Bijlage I en de onderdelen 3.1.1, onder d, 3.1.2, onder c, 3.2.1, onder c, en 3.2.4 van Bijlage II bij Uitvoeringsverordening (EU) nr. 1035/2011 van de Commissie van 17 oktober 2011 tot vaststelling van de gemeenschappelijke eisen voor de verlening van luchtvaartnavigatiediensten en tot wijziging van de Verordeningen (EG) nr. 482/2008 en (EU) nr. 691/2010 (PbEU L 271), gelden de beleidsregels opgenomen in de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit zal twee jaar na de datum van inwerkingtreding worden geëvalueerd.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na publicatie in de Staatscourant.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Beleidsregels veiligheidsnormen ATC.
 

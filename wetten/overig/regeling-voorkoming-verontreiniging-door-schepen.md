@@ -1,13 +1,39 @@
 ---
-title: "Regeling voorkoming verontreiniging door schepen"
+title: "Regeling van 12 december 2006, nr. HDJZ/SCH/2006-1945, Hoofddirectie Juridische Zaken, houdende nadere regels ter voorkoming van verontreiniging door schepen (Regeling voorkoming verontreiniging door schepen)"
 identifier: "BWBR0020786"
-categorie: "Overig"
-publicatiedatum: 2025-09-17
-laatste_update: 2025-09-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020786"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-17"
+last_updated: "2025-09-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020786"
+soort: "ministeriele-regeling"
+stam_id: "8813903"
+version_id: "15754262"
+internal_id: "C21535791"
+label_id: "8793864"
+dtd_version: "2.0"
+original_entry_into_force: "2008-09-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020786/2025-09-17/0"
+intitule_bron: "Stcrt.2006-249"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-12-12"
+intitule_published: "2006-12-21"
+intitule_in_force: "2006-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-185"
+original_signed_date: "2008-09-15"
+original_published_date: "2008-09-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2008-185-p16-SC87643"
+entry_into_force_date: "2008-09-26"
+jci_1_3: "jci1.3:c:BWBR0020786&z=2025-09-17&g=2025-09-17"
+jci_1_0: "1.0:c:BWBR0020786&g=2025-09-17"
+citeertitel_status: "officieel"
+short_title: "Regeling voorkoming verontreiniging door schepen"
+signed_date: "2008-09-15"
+entry_into_force: "2008-09-26"
 ---
-
 # Regeling van 12 december 2006, nr. HDJZ/SCH/2006-1945, Hoofddirectie Juridische Zaken, houdende nadere regels ter voorkoming van verontreiniging door schepen (Regeling voorkoming verontreiniging door schepen)
 
 Gelet op de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=1), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=8), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=11), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=15), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=32), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=35), [38 van het Besluit voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=38), [artikel 2 van het Besluit havenontvangstvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0017136&artikel=2), [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=13),[14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=14), en [30 van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=30), alsmede op de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=1&artikel=1&z=2025-09-17&g=2025-09-17) van deze regeling genoemde richtlijnen en verordeningen;
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -60,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 - t. uitvoeringsverordening scheepsuitrusting: uitvoeringshandeling van de Europese Commissie betreffende de vereisten met betrekking tot het ontwerp, de constructie en de prestaties van en de beproevingsnormen voor de scheepsuitrusting, als bedoeld in artikel 35, tweede lid, van [richtlijn 2014/90](32014L0090)/EU.
 
-#### Artikel 2. Bouwdatum van een schip
+##### Artikel 2. Bouwdatum van een schip
 
 Als bouwdatum van een schip wordt aangemerkt de dag waarop de kiel van het schip is gelegd, dan wel de dag waarop met inachtneming van hetgeen dienaangaande in de op grond van deze regeling toepasselijke code, resoluties, richtlijnen of verordeningen is bepaald, een met de kiellegging vergelijkbaar stadium is bereikt. [Artikel 4, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=4) is van overeenkomstige toepassing.
 
@@ -68,25 +94,25 @@ Als bouwdatum van een schip wordt aangemerkt de dag waarop de kiel van het schip
 
 #### § 1. Eisen aan schepen
 
-#### Artikel 3. Eisen op grond van verordening (EU) 530/2012
+##### Artikel 3. Eisen op grond van verordening (EU) 530/2012
 
 Een olietankschip van 150 GT of meer voldoet in aanvulling op de ingevolge [artikel 5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=5) toepasselijke eisen van Bijlage I van het Verdrag mede aan de eisen van verordening (EU) 530/2012.
 
-#### Artikel 4. Eisen op grond van de [verordening (EG) 782/2003](32003R0782)
+##### Artikel 4. Eisen op grond van de [verordening (EG) 782/2003](32003R0782)
 
 Overeenstemming met de artikelen 4 en 5 van de [verordening (EG) 782/2003](32003R0782) is een eis als bedoeld in [artikel 8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=8).
 
-#### Artikel 5. Alternatieve maatregel voor de beheersing van NOx-emissies
+##### Artikel 5. Alternatieve maatregel voor de beheersing van NOx-emissies
 
 De [Wet pleziervaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008366) in samenhang met de in bijlage I van [richtlijn 2013/53](32013L0053)/EU opgenomen essentiële eisen voor de uitlaatemissies van voortstuwingsmotoren met betrekking tot stikstofoxiden wordt voor de toepassing van [artikel 5, vijfde en zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=5), beschouwd als een alternatieve maatregel voor de beheersing van NOx-emissies als bedoeld in voorschrift 13.1.b.ii van Bijlage VI van het Verdrag.
 
 #### § 2. Toelatingseisen voor scheepsuitrusting
 
-#### Artikel 6. Toepassingsbereik
+##### Artikel 6. Toepassingsbereik
 
 Deze paragraaf is van toepassing op scheepsuitrusting waarvoor bij plaatsing aan boord van een schip, gelet op de op dat schip toepasselijke eisen, een typegoedkeuring is vereist.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Scheepsuitrusting als bedoeld in de [Wet scheepsuitrusting 2016](onbekend) mag slechts aan boord worden geplaatst, indien de scheepsuitrusting:
 
@@ -108,7 +134,7 @@ Deze paragraaf is van toepassing op scheepsuitrusting waarvoor bij plaatsing aan
 
 5. Het eerste tot en met vierde lid zijn niet van toepassing op de plaatsing van emissiereductiemethoden aan boord van schepen die niet behoren tot de categorie schepen waarvoor een certificaat wordt afgegeven als bedoeld in [artikel 12, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003936&artikel=12).
 
-#### Artikel 8. Nationale typegoedkeuringen voor scheepsuitrusting
+##### Artikel 8. Nationale typegoedkeuringen voor scheepsuitrusting
 
 1. Scheepsuitrusting, niet zijnde uitrusting als bedoeld in [artikel 3 van de Wet scheepsuitrusting 2016](onbekend), is van een door het Hoofd van de Scheepvaartinspectie goedgekeurd type.
 
@@ -116,29 +142,29 @@ Deze paragraaf is van toepassing op scheepsuitrusting waarvoor bij plaatsing aan
 
 3. Aan een typegoedkeuring als bedoeld in het eerste of tweede lid kunnen beperkingen met betrekking tot het gebruik van de desbetreffende uitrusting worden verbonden.
 
-#### Artikel 9. Wederzijdse erkenning
+##### Artikel 9. Wederzijdse erkenning
 
 Met een door de Minister verleende typegoedkeuring wordt gelijkgesteld een daaraan gelijkwaardige typegoedkeuring, verleend door of vanwege een andere lidstaat van de Europese Unie, dan wel door of vanwege een staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte.
 
-#### Artikel 10. Goedkeuring voor emissiereductietechnologieën
+##### Artikel 10. Goedkeuring voor emissiereductietechnologieën
 
 1. Emissiereductiemethoden zijn van een door de Europese Commissie goedgekeurd type.
 
 2. Proefnemingen met emissiereductiemethoden worden goedgekeurd door de Minister in overeenstemming met artikel 10, van [richtlijn 2016/802](32016L0802)/EU. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=2&paragraaf=2&artikel=9&z=2025-09-17&g=2025-09-17) is van overeenkomstige toepassing.
 
-#### Artikel 11
+##### Artikel 11
 
 Indien ten aanzien van scheepsuitrusting die is voorzien van een stuurwielmarkering als bedoeld in de [Wet scheepsuitrusting 2016](onbekend), toepassing is gegeven aan [artikel 19, eerste lid, van de Wet scheepsuitrusting 2016](onbekend), neemt het Hoofd van de Scheepvaartinspectie passende voorlopige maatregelen om te voorkomen dat die uitrusting aan boord van schepen wordt geplaatst of gebruikt. Indien nodig verbiedt hij de plaatsing of het gebruik aan boord van schepen.
 
 ### Hoofdstuk 3. Certificaten
 
-#### Artikel 12. Certificaten op grond van de [verordening (EG) 782/2003](32003R0782)
+##### Artikel 12. Certificaten op grond van de [verordening (EG) 782/2003](32003R0782)
 
 Voor een schip dat op grond van artikel 6, eerste lid, onderdeel a, van [verordening (EG) 782/2003](32003R0782) wordt gecertificeerd en waarvan na onderzoek is gebleken dat het voldoet aan de eisen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=2&paragraaf=1&artikel=4&z=2025-09-17&g=2025-09-17) van deze regeling, wordt een AFS-certificaat als bedoeld in artikel 2, zevende lid, van die verordening afgegeven.
 
 ### Hoofdstuk 4. Lozing en overige gedragingen
 
-#### Artikel 13. Nadere regels met betrekking tot verboden lozingen onder het Verdrag
+##### Artikel 13. Nadere regels met betrekking tot verboden lozingen onder het Verdrag
 
 Voorschrift 4.2 van Bijlage I van het Verdrag en voorschrift 3.1.2 van Bijlage II van het Verdrag zijn met betrekking tot een lozing die voldoet aan de voorwaarden van artikel 4 van richtlijn 2005/35/EG voor alle schepen als bedoeld in artikel 2 van die richtlijn:
 
@@ -146,7 +172,7 @@ Voorschrift 4.2 van Bijlage I van het Verdrag en voorschrift 3.1.2 van Bijlage I
 
 - b. met betrekking tot een lozing in de Nederlandse exclusieve economische zone en op volle zee van toepassing voor de eigenaar, de kapitein of de bemanning.
 
-#### Artikel 14
+##### Artikel 14
 
 1. In aanvulling op het verbod, bedoeld in [artikel 31, tweede lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=31), is het verboden om:
 
@@ -178,19 +204,19 @@ Voorschrift 4.2 van Bijlage I van het Verdrag en voorschrift 3.1.2 van Bijlage I
 
 ### Hoofdstuk 5. Operationele voorschriften
 
-#### Artikel 15. Voorschriften voor het bijhouden van journaals
+##### Artikel 15. Voorschriften voor het bijhouden van journaals
 
 Vervallen
 
 ### Hoofdstuk 6. Voorschriften ter uitvoering van de wet
 
-#### Artikel 16. Uitvoering [verordening (EG) 782/2003](32003R0782)
+##### Artikel 16. Uitvoering [verordening (EG) 782/2003](32003R0782)
 
 Als besluit als bedoeld in [artikel 13, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=13) wordt aangewezen artikel 6, eerste lid, onderdeel b, in samenhang met het tweede lid, tweede alinea, van [verordening (EG) 782/2003](32003R0782).
 
 ### Hoofdstuk 3. Certificaten, verklaringen en onderzoeken
 
-#### Artikel 17. Wijzigingen van richtlijnen
+##### Artikel 17. Wijzigingen van richtlijnen
 
 1. Een wijziging van een op grond van deze regeling toepasselijke richtlijn gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
@@ -198,7 +224,7 @@ Als besluit als bedoeld in [artikel 13, derde lid, van de wet](https://wetten.ov
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a. Eisen aan schepen van minder dan 400 GT in verband met Bijlage I bij het Verdrag
+##### Artikel 5a. Eisen aan schepen van minder dan 400 GT in verband met Bijlage I bij het Verdrag
 
 De volgende schepen zijn uitgerust met voorzieningen om olierestanten of oliehoudende mengsels aan boord te houden of om deze overeenkomstig voorschrift 15.6 van Bijlage I bij het Verdrag te lozen:
 
@@ -206,23 +232,23 @@ De volgende schepen zijn uitgerust met voorzieningen om olierestanten of oliehou
 
 - b. olietankschepen van meer dan 150 GT en minder dan 400 GT, voor zover naar het oordeel van de Minister praktisch uitvoerbaar.
 
-#### Artikel 5b. Eisen aan aangewezen schone-ballasttanks in verband met Bijlage I bij het Verdrag
+##### Artikel 5b. Eisen aan aangewezen schone-ballasttanks in verband met Bijlage I bij het Verdrag
 
 De eisen bedoeld in voorschrift 18.8.2 van Bijlage I bij het Verdrag zijn de eisen, opgenomen in resolutie A.495(XII).
 
-#### Artikel 5c. Eisen aan deelstroomsystemen in verband met Bijlage I bij het Verdrag
+##### Artikel 5c. Eisen aan deelstroomsystemen in verband met Bijlage I bij het Verdrag
 
 De eisen, bedoeld in voorschrift 30.6.5.2 van Bijlage I bij het Verdrag, zijn de eisen opgenomen in de specificaties voor het ontwerp, de installatie en werking van een deelstroomsysteem voor de regeling van lozingen overboord, die als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&bijlage=1&z=2025-09-17&g=2025-09-17) bij deze regeling zijn gevoegd.
 
-#### Artikel 5d. Eisen aan ruwe-oliewassystemen in verband met Bijlage I bij het Verdrag
+##### Artikel 5d. Eisen aan ruwe-oliewassystemen in verband met Bijlage I bij het Verdrag
 
 De eisen, bedoeld in voorschrift 33.2 van Bijlage I bij het Verdrag, zijn de eisen, opgenomen in resolutie A.446(XI).
 
-#### Artikel 5e. Eisen aan offshore ondersteuningsschepen in verband met Bijlage II bij het Verdrag
+##### Artikel 5e. Eisen aan offshore ondersteuningsschepen in verband met Bijlage II bij het Verdrag
 
 Vervallen
 
-#### Artikel 5f. Eisen aan schepen in verband met Bijlage IV bij het Verdrag
+##### Artikel 5f. Eisen aan schepen in verband met Bijlage IV bij het Verdrag
 
 De volgende schepen zijn uitgerust met voorzieningen om het sanitair afval te kunnen lozen overeenkomstig de in Bijlage IV bij het Verdrag gegeven voorschriften:
 
@@ -230,11 +256,11 @@ De volgende schepen zijn uitgerust met voorzieningen om het sanitair afval te ku
 
 - b. andere schepen dan die, bedoeld in [artikel 5, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=5).
 
-#### Artikel 5g. Gelijkwaardige voorzieningen
+##### Artikel 5g. Gelijkwaardige voorzieningen
 
 De Minister kan, met inachtneming van hetgeen dienaangaande in de op grond van deze regeling toepasselijke code, resoluties, richtlijnen en verordeningen is bepaald, afwijking toestaan van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-09-17&g=2025-09-17), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=2&paragraaf=1&artikel=4&z=2025-09-17&g=2025-09-17) en [5b tot en met 5e](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=2&paragraaf=1&artikel=5b&z=2025-09-17&g=2025-09-17) bedoelde eisen, indien aan boord van het schip een voorziening wordt getroffen die naar zijn oordeel ten minste gelijkwaardig is aan de op grond van deze artikelen geëiste voorziening.
 
-#### Artikel 5h. Wederzijdse erkenning
+##### Artikel 5h. Wederzijdse erkenning
 
 1. Dit artikel is van toepassing op schepen die vanuit een scheepsregister in een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte, zijn overgeschreven naar een Nederlands scheepsregister.
 
@@ -244,7 +270,7 @@ De Minister kan, met inachtneming van hetgeen dienaangaande in de op grond van d
 
 ### Hoofdstuk 3. Certificaten, verklaringen en onderzoeken
 
-#### Artikel 12a. Verklaringen voor schepen in verband met Bijlagen I en IV bij het Verdrag
+##### Artikel 12a. Verklaringen voor schepen in verband met Bijlagen I en IV bij het Verdrag
 
 1. Op verzoek van de reder kan de Minister een verklaring afgeven voor:
 
@@ -254,7 +280,7 @@ De Minister kan, met inachtneming van hetgeen dienaangaande in de op grond van d
 
 2. De in het eerste lid bedoelde verklaringen hebben een geldigheidsduur van maximaal vijf jaren.
 
-#### Artikel 12b. Onderzoeken aan schepen in verband met Bijlagen I en IV bij het Verdrag
+##### Artikel 12b. Onderzoeken aan schepen in verband met Bijlagen I en IV bij het Verdrag
 
 1. Het onderzoek, bedoeld in [artikel 12a, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=3&artikel=12a&z=2025-09-17&g=2025-09-17), vindt plaats voordat het schip in dienst wordt gesteld of voordat de verklaring voor de eerste maal wordt afgegeven.
 
@@ -262,11 +288,11 @@ De Minister kan, met inachtneming van hetgeen dienaangaande in de op grond van d
 
 ### Hoofdstuk 4. Lozing en overige gedragingen
 
-#### Artikel 14a. Nadere regels voor lozingen door offshore ondersteuningsschepen
+##### Artikel 14a. Nadere regels voor lozingen door offshore ondersteuningsschepen
 
 Offshore ondersteuningsschepen als bedoeld in resolutie A.1122(30), die beperkte hoeveelheden van de schadelijke stoffen, bedoeld in die resolutie, in bulk vervoeren, lozen in overeenstemming met de lozingsvoorschriften van die resolutie.
 
-#### Artikel 14b. Nadere regels voor lozingen onder Bijlage IV bij het Verdrag
+##### Artikel 14b. Nadere regels voor lozingen onder Bijlage IV bij het Verdrag
 
 De vaarsnelheid van ten minste 4 knopen als bedoeld in voorschrift 11.1.1 van Bijlage IV bij het Verdrag is zodanig dat deze consistent is met het goedgekeurde tempo van lozing.
 
@@ -274,15 +300,15 @@ De vaarsnelheid van ten minste 4 knopen als bedoeld in voorschrift 11.1.1 van Bi
 
 #### § 1. Operationele voorschriften
 
-#### Artikel 15a. Voorschriften voor de aangewezen schone-ballasttankmethode in verband met Bijlage I bij het Verdrag
+##### Artikel 15a. Voorschriften voor de aangewezen schone-ballasttankmethode in verband met Bijlage I bij het Verdrag
 
 De eisen, bedoeld in voorschrift 18.8.2 van Bijlage I bij het Verdrag, zijn de eisen, opgenomen in resolutie A.495(XII).
 
-#### Artikel 15b. Voorschriften voor de werking van deelstroomsystemen in verband met Bijlage I bij het Verdrag
+##### Artikel 15b. Voorschriften voor de werking van deelstroomsystemen in verband met Bijlage I bij het Verdrag
 
 De eisen, bedoeld in voorschrift 30.6.5.2 van Bijlage I bij het Verdrag, zijn de eisen opgenomen in de specificaties voor het ontwerp, de installatie en werking van een deelstroomsysteem voor de regeling van lozingen overboord, die als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&bijlage=1&z=2025-09-17&g=2025-09-17) bij deze regeling zijn gevoegd.
 
-#### Artikel 15c. Voorschriften voor het vervoer van schadelijke stoffen in verpakte vorm in verband met Bijlage III bij het Verdrag
+##### Artikel 15c. Voorschriften voor het vervoer van schadelijke stoffen in verpakte vorm in verband met Bijlage III bij het Verdrag
 
 In alle bescheiden die betrekking hebben op het vervoer van een schadelijke stof in verpakte vorm worden vermeld:
 
@@ -294,11 +320,11 @@ In alle bescheiden die betrekking hebben op het vervoer van een schadelijke stof
 
 #### § 1. Operationele voorschriften
 
-#### Artikel 15d. Voorschriften voor de melding van het niet beschikbaar zijn van brandstofolie in verband met Bijlage VI bij het Verdrag.
+##### Artikel 15d. Voorschriften voor de melding van het niet beschikbaar zijn van brandstofolie in verband met Bijlage VI bij het Verdrag.
 
 Het ingevolge [artikel 34 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=34) toepasselijke voorschrift 18.2.4 van Bijlage VI bij het Verdrag is mede van toepassing op de kapitein van een buitenlands schip dat zich in een Nederlandse haven bevindt.
 
-#### Artikel 15e. Vrijstelling van operationele voorschriften voor offshore ondersteuningsschepen
+##### Artikel 15e. Vrijstelling van operationele voorschriften voor offshore ondersteuningsschepen
 
 De ingevolge artikel 33, tweede lid, van het besluit toepasselijke voorschriften van Bijlage II bij het Verdrag met betrekking tot het vervoer van schadelijke vloeistoffen in bulk, gelden niet voor het vervoer in bulk van beperkte hoeveelheden van de schadelijke stoffen, bedoeld in resolutie A.1122(30) door offshore ondersteuningsschepen als bedoeld in die resolutie, mits dit vervoer voldoet aan de in die resolutie neergelegde eisen.
 
@@ -306,11 +332,11 @@ De ingevolge artikel 33, tweede lid, van het besluit toepasselijke voorschriften
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 17a. Wijzigingen van Codes
+##### Artikel 17a. Wijzigingen van Codes
 
 [Artikel 42 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=42) is van overeenkomstige toepassing op de ingevolge deze regeling toepasselijke codes en resoluties.
 
-#### Artikel 18. Wijziging andere regelingen
+##### Artikel 18. Wijziging andere regelingen
 
 1.
 
@@ -320,17 +346,17 @@ Wijzigt het Besluit machtiging werkzaamheden Inspectie Verkeer en Waterstaat.
 
 3. Wijzigt het Besluit terbeschikkingstelling ambtenaren aan Scheepvaartinspectie t.b.v. havenstaatcontrole.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Wijzigt de Regeling uitvoering EG-verordeningen Wvvs.
 
 2. De [regeling van de Minister van Verkeer en Waterstaat van 3 februari 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008534), nr. DGSM/J-97000025 Directoraat-Generaal Scheepvaart en Maritieme Zaken, houdende vaststelling model Internationaal certificaat van voorkoming van verontreiniging door olie en Internationaal certificaat van voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk (Stcrt. 28) wordt ingetrokken.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2007, met uitzondering van de [artikelen 1, onderdeel d en onderdelen h tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=1&artikel=1&z=2025-09-17&g=2025-09-17), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=2&paragraaf=2&artikel=7&z=2025-09-17&g=2025-09-17), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=2&paragraaf=2&artikel=10&z=2025-09-17&g=2025-09-17), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=4&artikel=14&z=2025-09-17&g=2025-09-17), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=5&paragraaf=1&artikel=15&z=2025-09-17&g=2025-09-17), en [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=7&artikel=18&z=2025-09-17&g=2025-09-17), die in werking treden met ingang van 2 januari 2007 en met uitzondering van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=4&artikel=13&z=2025-09-17&g=2025-09-17), dat in werking treedt met ingang van 1 april 2007.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling voorkoming verontreiniging door schepen.
 
@@ -428,7 +454,7 @@ Als de diameter van de bemonsteringsleiding minder dan 40 millimeter bedraagt, m
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a*. Toepassing op Caribisch-Nederlandse schepen
+##### Artikel 1a*. Toepassing op Caribisch-Nederlandse schepen
 
 De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=1&artikel=2&z=2025-09-17&g=2025-09-17), [5a tot en met 5g](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=2&paragraaf=1&artikel=5a&z=2025-09-17&g=2025-09-17), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=2&paragraaf=2&artikel=11&z=2025-09-17&g=2025-09-17), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=3&artikel=12a&z=2025-09-17&g=2025-09-17), [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=3&artikel=12b&z=2025-09-17&g=2025-09-17), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=4&artikel=13&z=2025-09-17&g=2025-09-17), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=4&artikel=14a&z=2025-09-17&g=2025-09-17), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=4&artikel=14b&z=2025-09-17&g=2025-09-17) en [15a tot en met 15e](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=5&paragraaf=1&artikel=15a&z=2025-09-17&g=2025-09-17) zijn tevens van toepassing op Caribisch-Nederlandse schepen, met dien verstande dat:
 
@@ -494,7 +520,7 @@ De capaciteit van de aanvoerpomp voor bemonstering moet zodanig zijn dat aan de 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Aanwijzing richtlijn monitoring- en informatiesysteem zeescheepvaart
+##### Artikel 1a. Aanwijzing richtlijn monitoring- en informatiesysteem zeescheepvaart
 
 Vervallen
 
@@ -504,7 +530,7 @@ Vervallen
 
 #### § 2. Toelatingseisen voor scheepsuitrusting
 
-#### Artikel 8a. Typegoedkeuringen Caribisch-Nederlandse schepen
+##### Artikel 8a. Typegoedkeuringen Caribisch-Nederlandse schepen
 
 1. Uitrusting waarvoor bij plaatsing aan boord van een Caribisch-Nederlands schip, gelet op de op dat schip toepasselijke eisen, een typegoedkeuring is vereist, is van een door de Minister goedgekeurd type.
 
@@ -520,7 +546,7 @@ Vervallen
 
 ### Hoofdstuk 4. Lozing en overige gedragingen
 
-#### Artikel 13a. Nadere regels voor lozingen als onderdeel van een emissiereductiemethode
+##### Artikel 13a. Nadere regels voor lozingen als onderdeel van een emissiereductiemethode
 
 Schepen die gebruik maken van emissiereductiemethoden als bedoeld in [artikel 14, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=4&artikel=14&z=2025-09-17&g=2025-09-17), lozen het in het kader van deze methoden ontstane afvalwater in overeenstemming met de in bijlage II van [richtlijn 2016/802](32016L0802)/EU opgenomen lozingscriteria.
 
@@ -530,17 +556,17 @@ Schepen die gebruik maken van emissiereductiemethoden als bedoeld in [artikel 14
 
 #### § 2. Vrijstellingen van operationele voorschriften
 
-#### Artikel 15f. Vrijstelling van operationele voorschriften voor vervoer van schadelijke stoffen in verpakte vorm
+##### Artikel 15f. Vrijstelling van operationele voorschriften voor vervoer van schadelijke stoffen in verpakte vorm
 
 De ingevolge artikel 33, derde lid, van het besluit toepasselijke voorschriften van Bijlage III bij het Verdrag met betrekking tot de wijze van merken en etikettering van verpakkingen en de voorschriften, bedoeld in [artikel 15c](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=5&paragraaf=1&artikel=15c&z=2025-09-17&g=2025-09-17), gelden niet, voor zover de IMDG-Code dat bepaalt.
 
 ### Hoofdstuk 6. Voorschriften ter uitvoering van de wet
 
-#### Artikel 16a. Uitvoering Bijlage V bij het Verdrag
+##### Artikel 16a. Uitvoering Bijlage V bij het Verdrag
 
 Als stof als bedoeld in [artikel 12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=12) wordt aangewezen vistuig als bedoeld in voorschrift 1 van Bijlage V bij het Verdrag.
 
-#### Artikel 16b. Regels met betrekking tot het toezicht op de naleving
+##### Artikel 16b. Regels met betrekking tot het toezicht op de naleving
 
 1. Bij het houden van toezicht op de naleving van [artikel 31, tweede lid, aanhef en onder a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=31) en [artikel 14 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=4&artikel=14&z=2025-09-17&g=2025-09-17) wordt artikel 13 van [richtlijn 2016/802](32016L0802) in acht genomen.
 
@@ -580,7 +606,7 @@ Als stof als bedoeld in [artikel 12, eerste lid, van de wet](https://wetten.over
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 12c. Certificaten en aantekeningen op grond van verordening (EU) 1257/2013
+##### Artikel 12c. Certificaten en aantekeningen op grond van verordening (EU) 1257/2013
 
 1. De Minister geeft voor een schip dat met goed gevolg overeenkomstig artikel 8, vierde en vijfde lid, van verordening (EU) 1257/2013 is geïnspecteerd een internationaal certificaat betreffende de inventarisatie van gevaarlijke materialen als bedoeld in artikel 9, eerste lid, van die verordening af.
 
@@ -598,19 +624,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 6. Voorschriften ter uitvoering van de wet
 
-#### Artikel 16c. Uitvoering verordening (EU) 530/2012
+##### Artikel 16c. Uitvoering verordening (EU) 530/2012
 
 1. Als bepalingen als bedoeld in [artikel 36a, eerste lid, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=36a) worden aangewezen de artikelen 4, eerste en derde lid, 5 en 7, aanhef en onder b, van verordening (EU) 530/2012.
 
 2. De Minister van Infrastructuur en Milieu kan van de in het eerste lid genoemde artikelen van de verordening ontheffing verlenen ter uitvoering van artikel 8 van de verordening.
 
-#### Artikel 16d. Uitvoering van verordening (EU) 1257/2013
+##### Artikel 16d. Uitvoering van verordening (EU) 1257/2013
 
 1. Als besluit als bedoeld in de artikelen 13, derde lid, en 20, eerste lid, onderdeel g, van de wet wordt aangewezen Verordening (EU) 1257/2013.
 
 2. Als bepalingen als bedoeld in artikel 36a, eerste lid, van de wet worden aangewezen de artikelen 4, 5, eerste lid, 6, tweede lid, en 12, eerste tot en met vierde lid, van verordening (EU) 1257/2013.
 
-#### Artikel 16e. Uitvoering verordening (EU) 2015/757
+##### Artikel 16e. Uitvoering verordening (EU) 2015/757
 
 1. Als besluit als bedoeld in de [artikelen 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=13), en [20, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=20) wordt aangewezen Verordening (EU) 2015/757.
 
@@ -644,7 +670,7 @@ Het bemonsteringswater dat het kijkgatcompartiment verlaat, moet naar het opperv
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 12d. Certificaten en aantekeningen op grond van het Scheepsrecyclingsverdrag
+##### Artikel 12d. Certificaten en aantekeningen op grond van het Scheepsrecyclingsverdrag
 
 1. Indien een schip met goed gevolg overeenkomstig [artikel 12c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=3&artikel=12c&z=2025-09-17&g=2025-09-17), is geïnspecteerd, geeft de Minister tevens een internationaal certificaat betreffende de inventarisatie van gevaarlijke materialen als bedoeld in voorschrift 11, eerste lid, van de bijlage bij het Scheepsrecyclingsverdrag af.
 
@@ -656,7 +682,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. De geldigheidsduur van de certificaten, bedoeld in het eerste of derde lid, is gelijk aan de geldigheidsduur van de certificaten afgegeven op grond van [artikel 12c, eerste, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=3&artikel=12c&z=2025-09-17&g=2025-09-17).
 
-#### Artikel 12e. Certificaten en aantekeningen op grond van het Scheepsrecyclingsverdrag voor buitenlandse schepen
+##### Artikel 12e. Certificaten en aantekeningen op grond van het Scheepsrecyclingsverdrag voor buitenlandse schepen
 
 1. Indien ten aanzien van een buitenlands schip een verzoek wordt gedaan op grond van [artikel 8a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=8a), geeft de Minister in afwijking van [artikel 12c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020786&hoofdstuk=3&artikel=12c&z=2025-09-17&g=2025-09-17), slechts een internationaal certificaat betreffende de inventarisatie van gevaarlijke materialen als bedoeld in voorschrift 11, eerste lid, van de bijlage bij het Scheepsrecyclingsverdrag af, indien het schip met goed gevolg overeenkomstig artikel 8, vierde en vijfde lid, van verordening (EU) 1257/2013 is geïnspecteerd.
 
@@ -686,7 +712,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 16f. Uitvoering [verordening (EU) 2023/1805](32023R1805)
+##### Artikel 16f. Uitvoering [verordening (EU) 2023/1805](32023R1805)
 
 1. Als besluit als bedoeld in de [artikelen 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=13), en [20, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=20) wordt aangewezen [Verordening (EU) 2023/1805](32023R1805).
 

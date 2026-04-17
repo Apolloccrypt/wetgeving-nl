@@ -1,13 +1,35 @@
 ---
 title: "Aanwijzing kader voor strafvordering meerderjarigen"
 identifier: "BWBR0042068"
-categorie: "Strafrecht"
-publicatiedatum: 2019-04-01
-laatste_update: 2019-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042068"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2019-04-01"
+last_updated: "2019-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042068"
+soort: "beleidsregel"
+stam_id: "15041503"
+version_id: "25771122"
+internal_id: "C36748941"
+label_id: "14991014"
+dtd_version: "2.0"
+original_entry_into_force: "2019-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042068/2019-04-01/0"
+intitule_bron: "Stcrt.2019-14890"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-03-29"
+intitule_in_force: "2019-03-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-14890"
+original_published_date: "2019-03-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-14890"
+entry_into_force_date: "2019-04-01"
+jci_1_3: "jci1.3:c:BWBR0042068&z=2019-04-01&g=2019-04-01"
+jci_1_0: "1.0:c:BWBR0042068&g=2019-04-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2019-04-01"
 ---
-
 # Aanwijzing kader voor strafvordering meerderjarigen
 
 ### 1. Achtergrond

@@ -1,13 +1,36 @@
 ---
-title: "Beleidswijziging inzake onverzekerd rijden en recidiveregeling strafvorderingsbeleid OM"
+title: "Beleidswijziging naar aanleiding van de arresten van de Hoge Raad van 5 maart jl. (LJN BZ3230 en LJN BZ3257) betreffende artikel 30 Wet aansprakelijkheidsverzekering motorrijtuigen (WAM), inzake onverzekerd rijden en de recidiveregeling in het strafvorderingsbeleid van het Openbaar Ministerie"
 identifier: "BWBR0033057"
-categorie: "Strafrecht"
-publicatiedatum: 2013-03-25
-laatste_update: 2013-03-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033057"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2013-03-25"
+last_updated: "2013-03-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033057"
+soort: "beleidsregel"
+stam_id: "12147273"
+version_id: "20274322"
+internal_id: "C28518161"
+label_id: "12118774"
+dtd_version: "2.0"
+original_entry_into_force: "2013-03-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033057/2013-03-25/0"
+intitule_bron: "Stcrt.2013-8065"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-03-25"
+intitule_in_force: "2013-03-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-8065"
+original_published_date: "2013-03-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-8065"
+entry_into_force_date: "2013-03-25"
+jci_1_3: "jci1.3:c:BWBR0033057&z=2013-03-25&g=2013-03-25"
+jci_1_0: "1.0:c:BWBR0033057&g=2013-03-25"
+citeertitel_status: "redactioneel"
+short_title: "Beleidswijziging inzake onverzekerd rijden en recidiveregeling strafvorderingsbeleid OM"
+entry_into_force: "2013-03-25"
 ---
-
 # Beleidswijziging naar aanleiding van de arresten van de Hoge Raad van 5 maart jl. (LJN BZ3230 en LJN BZ3257) betreffende artikel 30 Wet aansprakelijkheidsverzekering motorrijtuigen (WAM), inzake onverzekerd rijden en de recidiveregeling in het strafvorderingsbeleid van het Openbaar Ministerie
 
 Naar aanleiding van deze arresten kan in zaken met pleegdatum van vóór 1 juli 2011 de recidiveregeling van de [Richtlijn voor strafvordering feitgecodeerde misdrijven en overtredingen](https://wetten.overheid.nl/jci1.3:c:BWBR0029643) (2011R001) weer worden toegepast. Deze regeling luidt als volgt.

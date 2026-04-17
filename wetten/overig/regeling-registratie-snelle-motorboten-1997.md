@@ -1,30 +1,54 @@
 ---
 title: "Regeling registratie snelle motorboten 1997"
 identifier: "BWBR0008666"
-categorie: "Overig"
-publicatiedatum: 2011-03-30
-laatste_update: 2011-03-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008666"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-03-30"
+last_updated: "2011-03-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008666"
+soort: "ministeriele-regeling"
+stam_id: "4551843"
+version_id: "6358052"
+internal_id: "C6602521"
+label_id: "4530124"
+dtd_version: "2.0"
+original_entry_into_force: "1997-05-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008666/2011-03-30/0"
+intitule_bron: "Stcrt.1997-88"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-04-28"
+intitule_published: "1997-05-13"
+intitule_in_force: "1997-05-13"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-88"
+original_signed_date: "1997-04-28"
+original_published_date: "1997-05-13"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-05-15"
+jci_1_3: "jci1.3:c:BWBR0008666&z=2011-03-30&g=2011-03-30"
+jci_1_0: "1.0:c:BWBR0008666&g=2011-03-30"
+citeertitel_status: "officieel"
+signed_date: "1997-04-28"
+entry_into_force: "1997-05-15"
 ---
-
 # Regeling registratie snelle motorboten 1997
 
 Gelet op [artikel 8.01, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.01);
 
-#### Artikel 1
+##### Artikel 1
 
 Als instelling voor de registratie van snelle motorboten als bedoeld in [artikel 8.01, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.01) wordt aangewezen de Dienst Wegverkeer.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor het registratiebewijs als bedoeld in [artikel 8.01, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.01) wordt de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008666&bijlage=1&z=2011-03-30&g=2011-03-30) bij deze regeling opgenomen modellen vastgesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 De geldigheid van registratiebewijzen, die zijn afgegeven vóór 1 maart 1995, vervalt met ingang van 28 februari 2000.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een registratiebewijs afgegeven dan wel erkend door of vanwege het Bondsministerie voor Verkeer van de Bondsrepubliek Duitsland, een registratiebewijs afgegeven door of vanwege het Ministerie van Verkeer en Infrastructuur van het Koninkrijk België en een registratiebewijs afgegeven door of vanwege het Ministerie van Milieu en Transport van het Verenigd Koninkrijk wordt geacht te zijn afgegeven door een instelling als bedoeld in [artikel 8.01, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.01).
 
@@ -34,15 +58,15 @@ De geldigheid van registratiebewijzen, die zijn afgegeven vóór 1 maart 1995, v
 
 4. Het in het Verenigd Koninkrijk afgegeven identificatienummer bestaat uit de letters SSR gevolgd door zes cijfers of enkel uit zes cijfers.
 
-#### Artikel 5
+##### Artikel 5
 
 De Regeling registratie snelle motorboten 1991 (Stcrt. 1991, 85), zoals gewijzigd, wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling kan worden aangehaald als: Regeling registratie snelle motorboten 1997.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

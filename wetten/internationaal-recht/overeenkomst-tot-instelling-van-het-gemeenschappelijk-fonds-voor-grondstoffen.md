@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tot instelling van het Gemeenschappelijk Fonds voor Grondstoffen"
 identifier: "BWBV0003602"
-categorie: "Internationaal recht"
-publicatiedatum: 2016-01-10
-laatste_update: 2016-01-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003602"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-01-10"
+last_updated: "2016-01-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003602"
+soort: "verdrag"
+stam_id: "10003601033"
+version_id: "10003661722"
+internal_id: "C10006980051"
+label_id: "10003587054"
+dtd_version: "2.0"
+original_entry_into_force: "1989-06-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003602/2016-01-10/0"
+intitule_bron: "Trb.1981-49"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1981-03-18"
+intitule_in_force: "1989-08-30"
+intitule_status: "goed"
+original_publication: "Trb.1981-49"
+original_published_date: "1981-03-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1981-49"
+entry_into_force_date: "1989-06-19"
+jci_1_3: "jci1.3:c:BWBV0003602&z=2016-01-10&g=2016-01-10"
+jci_1_0: "1.0:c:BWBV0003602&g=2016-01-10"
+citeertitel_status: "redactioneel"
+entry_into_force: "1989-06-19"
 ---
-
 # Overeenkomst tot instelling van het Gemeenschappelijk Fonds voor Grondstoffen
 
 **Preambule**
@@ -26,7 +48,7 @@ Zijn hierbij overeengekomen het Gemeenschappelijk Fonds voor Grondstoffen in te 
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
@@ -58,7 +80,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 ### HOOFDSTUK II. DOELSTELLINGEN EN TAKEN
 
-#### Artikel 2. Doelstellingen
+##### Artikel 2. Doelstellingen
 
 De doelstellingen van het Fonds zijn:
 
@@ -66,7 +88,7 @@ De doelstellingen van het Fonds zijn:
 
 - b. de ontwikkeling van de grondstoffensector te bevorderen en bij te dragen aan duurzame ontwikkeling in de drie aspecten daarvan, te weten het sociale, economische en milieutechnische aspect, daarbij erkennend dat meerdere wegen naar duurzame ontwikkeling leiden en in dit verband erop wijzend dat elk land primair verantwoordelijk is voor zijn eigen ontwikkeling en het recht heeft zijn eigen ontwikkelingstraject en passende strategieën te bepalen.
 
-#### Artikel 3. Taken
+##### Artikel 3. Taken
 
 Teneinde zijn doelstellingen zoals vervat in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=II&artikel=2&z=2016-01-10&g=2016-01-10) te verwezenlijken vervult het Fonds de volgende taken:
 
@@ -82,7 +104,7 @@ Teneinde zijn doelstellingen zoals vervat in [artikel 2](https://wetten.overheid
 
 ### HOOFDSTUK III. LIDMAATSCHAP
 
-#### Artikel 4. Voorwaarden voor lidmaatschap
+##### Artikel 4. Voorwaarden voor lidmaatschap
 
 Het lidmaatschap van het Fonds staat open voor:
 
@@ -90,7 +112,7 @@ Het lidmaatschap van het Fonds staat open voor:
 
 - b. iedere intergouvernementele organisatie die bevoegdheden uitoefent op de werkterreinen van het Fonds. Deze intergouvernementele organisaties behoeven geen financiële verplichtingen jegens het Fonds op zich te nemen en bezitten geen stemmen.
 
-#### Artikel 5. Leden
+##### Artikel 5. Leden
 
 De Leden van het Fonds (hierna te noemen Leden) zijn:
 
@@ -102,13 +124,13 @@ De Leden van het Fonds (hierna te noemen Leden) zijn:
 
 - d. de in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=III&artikel=4&z=2016-01-10&g=2016-01-10), bedoelde intergouvernementele organisaties die overeenkomstig [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=XII&artikel=56&z=2016-01-10&g=2016-01-10) tot deze Overeenkomst zijn toegetreden.
 
-#### Artikel 6. Beperking van aansprakelijkheid
+##### Artikel 6. Beperking van aansprakelijkheid
 
 Geen Lid is, uitsluitend op grond van zijn lidmaatschap, aansprakelijk voor handelingen of verplichtingen van het Fonds.
 
 ### HOOFDSTUK IV. KAPITAAL EN ANDERE MIDDELEN
 
-#### Artikel 7. Rekeneenheid en valuta
+##### Artikel 7. Rekeneenheid en valuta
 
 1. De rekeneenheid van het Fonds wordt in [Bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&bijlage=F&z=2016-01-10&g=2016-01-10) omschreven.
 
@@ -126,7 +148,7 @@ Geen Lid is, uitsluitend op grond van zijn lidmaatschap, aansprakelijk voor hand
 
 ### HOOFDSTUK V. KAPITAAL EN ANDERE MIDDELEN
 
-#### Artikel 8. Kapitaalmiddelen
+##### Artikel 8. Kapitaalmiddelen
 
 1. Het kapitaal van het Fonds (hierna te noemen kapitaal) wordt verdeeld in 37.000 aandelen die door het Fonds worden uitgegeven en die elk een nominale waarde hebben van 7.566.47145 rekeneenheden en een totale waarde van 279.959.444 rekeneenheden.
 
@@ -140,7 +162,7 @@ Geen Lid is, uitsluitend op grond van zijn lidmaatschap, aansprakelijk voor hand
 
 4. Indien de Raad van Bestuur ingevolge [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=11&z=2016-01-10&g=2016-01-10), de inschrijving openstelt op aandelen in het kapitaal waarop niet is ingeschreven, of ingevolge het derde lid, onderdeel b, van dit artikel het aantal aandelen in het kapitaal verhoogt, heeft ieder Lid het recht op deze aandelen in te schrijven, doch is daartoe niet gehouden.
 
-#### Artikel 9. Inschrijving op aandelen
+##### Artikel 9. Inschrijving op aandelen
 
 1. Elk Lid bedoeld in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=III&artikel=5&z=2016-01-10&g=2016-01-10), handhaaft de inschrijving zoals vermeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&bijlage=A&z=2016-01-10&g=2016-01-10) op:
 
@@ -160,7 +182,7 @@ Geen Lid is, uitsluitend op grond van zijn lidmaatschap, aansprakelijk voor hand
 
 5. De aandelen in het kapitaal worden op generlei wijze door de Leden verpand of bezwaard en kunnen uitsluitend aan het Fonds worden overgedragen.
 
-#### Artikel 10. Betaling van aandelen
+##### Artikel 10. Betaling van aandelen
 
 1. Betalingen van aandelen in het kapitaal waarop door ieder Lid is ingeschreven, worden gedaan:
 
@@ -186,7 +208,7 @@ Op het tijdstip van nederlegging van zijn akte van bekrachtiging, aanvaarding of
 
 6. Inschrijvingen op aandelen in het kapitaal kunnen in voorkomende gevallen betaald worden door de desbetreffende instellingen van de betrokken Leden.
 
-#### Artikel 11. Toereikendheid van inschrijvingen op aandelen in het kapitaal
+##### Artikel 11. Toereikendheid van inschrijvingen op aandelen in het kapitaal
 
 1. De Raad van Bestuur kan, met door de Raad passend geachte tussenpozen, de toereikendheid van het aan de Kapitaalrekening ter beschikking staande kapitaal onderzoeken.
 
@@ -194,7 +216,7 @@ Op het tijdstip van nederlegging van zijn akte van bekrachtiging, aanvaarding of
 
 3. Besluiten van de Raad van Bestuur ingevolge dit artikel worden aangenomen met een versterkt gekwalificeerde meerderheid, maar treden pas in werking wanneer alle Leden deze aanvaard hebben. Aanvaarding wordt geacht te zijn geschied tenzij een Lid binnen zes maanden na de aanneming van het besluit de Directeur schriftelijk in kennis stelt van zijn bezwaar. Deze termijn kan op verzoek van een Lid door de Raad van Bestuur worden verlengd op het tijdstip waarop het besluit wordt aangenomen.
 
-#### Artikel 12. Vrijwillige bijdragen
+##### Artikel 12. Vrijwillige bijdragen
 
 1. Het Fonds kan vrijwillige bijdragen van Leden en uit andere bronnen aanvaarden. Deze bijdragen worden in bruikbare valuta betaald.
 
@@ -202,7 +224,7 @@ Op het tijdstip van nederlegging van zijn akte van bekrachtiging, aanvaarding of
 
 3. Vrijwillige bijdragen worden, naar keuze van de bijdragende partij, al dan niet onderworpen aan beperkingen ter zake van hun gebruik door het Fonds.
 
-#### Artikel 13. Reserve tot zekerheidstelling
+##### Artikel 13. Reserve tot zekerheidstelling
 
 1. De Raad van Bestuur stelt een Reserve tot zekerheidstelling in waarvan de middelen zullen dienen als zekerheidstelling voor leningen van het Fonds.
 
@@ -216,7 +238,7 @@ Op het tijdstip van nederlegging van zijn akte van bekrachtiging, aanvaarding of
 
 3. Niettegenstaande de bepalingen van het eerste en tweede lid van dit artikel beslist de Raad van Bestuur met een versterkt gekwalificeerde meerderheid op welke wijze zal worden beschikt over netto-opbrengsten van de Kapitaalrekening die niet aan de Reserve tot zekerheidstelling zijn toegewezen.
 
-#### Artikel 14. Schulden
+##### Artikel 14. Schulden
 
 1. Het Fonds sluit geen leningen af en gaat op geen enkele wijze schuldverplichtingen aan tenzij in overeenstemming met het tweede lid van dit artikel.
 
@@ -228,7 +250,7 @@ Op het tijdstip van nederlegging van zijn akte van bekrachtiging, aanvaarding of
 
 3. Het totale bedrag aan schulden van het Fonds mag de middelen van de Reserve tot zekerheidstelling nooit te boven gaan.
 
-#### Artikel 15. Trustfondsen
+##### Artikel 15. Trustfondsen
 
 1. Het Fonds mag financiële middelen aanvaarden van een andere partij of partijen voor het instellen van een Trustfonds mits de middelen van het Trustfonds worden ingezet voor het bevorderen van de doelstellingen van het Fonds zoals vervat in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=II&artikel=2&z=2016-01-10&g=2016-01-10).
 
@@ -238,7 +260,7 @@ Op het tijdstip van nederlegging van zijn akte van bekrachtiging, aanvaarding of
 
 ### HOOFDSTUK VI. WERKZAAMHEDEN
 
-#### Artikel 16. Algemene bepalingen
+##### Artikel 16. Algemene bepalingen
 
 1. De middelen en faciliteiten van het Fonds worden uitsluitend gebruikt ter verwezenlijking van zijn doelstellingen en ter vervulling van zijn taken.
 
@@ -256,7 +278,7 @@ Op het tijdstip van nederlegging van zijn akte van bekrachtiging, aanvaarding of
 
 6. Het Fonds verricht zijn activiteiten op een wijze die verenigbaar is met goede praktijken voor verantwoord financieel beheer van publieke gelden.
 
-#### Artikel 17. De Kapitaalrekening
+##### Artikel 17. De Kapitaalrekening
 
 1. De middelen van de Kapitaalrekening bestaan uit:
 
@@ -286,7 +308,7 @@ Op het tijdstip van nederlegging van zijn akte van bekrachtiging, aanvaarding of
 
 3. Voor de toepassing van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=V&artikel=17&z=2016-01-10&g=2016-01-10), wordt het kapitaal dat aan de Kapitaalrekening wordt toegewezen geïnvesteerd en/of gedeponeerd in overeenstemming met de door de Raad van Bestuur aangenomen regels en voorschriften. Bij deze regels en voorschriften wordt terdege rekening gehouden met de doelstelling dat dit kapitaal te allen tijde intact blijft en op generlei wijze wordt verpand of bezwaard.
 
-#### Artikel 18. De Activiteitenrekening
+##### Artikel 18. De Activiteitenrekening
 
 1. De middelen van de Activiteitenrekening bestaan uit:
 
@@ -310,11 +332,11 @@ Op het tijdstip van nederlegging van zijn akte van bekrachtiging, aanvaarding of
 
 ### HOOFDSTUK VII. ORGANISATIE EN BEHEER
 
-#### Artikel 19. Structuur van het Fonds
+##### Artikel 19. Structuur van het Fonds
 
 Het Fonds heeft een Raad van Bestuur, een College van Bewindvoerders, een Raadgevend Comité, een Directeur en de staf en medewerkers die nodig zijn om de taken van het Fonds te kunnen vervullen.
 
-#### Artikel 20. Raad van Bestuur
+##### Artikel 20. Raad van Bestuur
 
 1. Alle bevoegdheden van het Fonds berusten bij de Raad van Bestuur.
 
@@ -360,7 +382,7 @@ Het Fonds heeft een Raad van Bestuur, een College van Bewindvoerders, een Raadge
 
 De Voorzitter bekleedt zijn functie tot de verkiezing van zijn opvolger en kan voor één volgende ambtstermijn worden herkozen.
 
-#### Artikel 21. Stemrecht in de Raad van Bestuur
+##### Artikel 21. Stemrecht in de Raad van Bestuur
 
 1. De stemmen in de Raad van Bestuur worden onder de Lidstaten verdeeld overeenkomstig [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&bijlage=D&z=2016-01-10&g=2016-01-10).
 
@@ -368,7 +390,7 @@ De Voorzitter bekleedt zijn functie tot de verkiezing van zijn opvolger en kan v
 
 3. Behoudens voor zover anders in deze Overeenkomst is bepaald, worden besluiten ten aanzien van alle aangelegenheden die in behandeling zijn bij de Raad van Bestuur met een gewone meerderheid genomen.
 
-#### Artikel 22. College van Bewindvoerders
+##### Artikel 22. College van Bewindvoerders
 
 1. Het College van Bewindvoerders is verantwoordelijk voor het uitvoeren van de activiteiten van het Fonds en brengt daarover verslag uit aan de Raad van Bestuur. Het College van Bewindvoerders oefent hiertoe de bevoegdheden uit die dit College elders in deze Overeenkomst zijn toegekend of eraan zijn overgedragen door de Raad van Bestuur. Bij de uitoefening van aan het College van Bewindvoerders overgedragen bevoegdheden, neemt het College besluiten met dezelfde meerderheid die vereist zou zijn wanneer deze bevoegdheden bij de Raad van Bestuur zouden berusten.
 
@@ -390,7 +412,7 @@ Zij blijven in functie totdat hun opvolgers zijn gekozen. Een plaatsvervanger ka
 
 9. Het College van Bewindvoerders kan de vertegenwoordigers van andere belanghebbende internationale organen uitnodigen zijn vergaderingen als waarnemer bij te wonen.
 
-#### Artikel 23. Stemrecht in het College van Bewindvoerders
+##### Artikel 23. Stemrecht in het College van Bewindvoerders
 
 1. Elke bewindvoerder is gerechtigd het aantal stemmen uit te brengen dat aan de Leden die hij vertegenwoordigt, is toegewezen. Deze stemmen behoeven niet als een blok te worden uitgebracht.
 
@@ -398,7 +420,7 @@ Zij blijven in functie totdat hun opvolgers zijn gekozen. Een plaatsvervanger ka
 
 3. Behoudens voor zover anders in deze Overeenkomst is bepaald, worden besluiten ten aanzien van alle aangelegenheden die in behandeling zijn bij het College van Bewindvoerders met een gewone meerderheid genomen.
 
-#### Artikel 24. Directeur en personeel
+##### Artikel 24. Directeur en personeel
 
 1. De Raad van Bestuur benoemt met een gekwalificeerde meerderheid de Directeur. Indien de te benoemen persoon op het tijdstip van zijn benoeming bestuurder of bewindvoerder of plaatsvervanger is, legt hij deze functie neer alvorens zijn taken als Directeur aan te vangen.
 
@@ -410,11 +432,11 @@ Zij blijven in functie totdat hun opvolgers zijn gekozen. Een plaatsvervanger ka
 
 5. De Directeur en het personeel staan bij het vervullen van hun taken uitsluitend in dienst van het Fonds en stellen hun diensten aan geen enkele andere autoriteit ter beschikking. Elk Lid eerbiedigt de internationale aard van deze dienstbetrekking en onthoudt zich van elke poging de Directeur of een personeelslid bij het vervullen van deze taken te beïnvloeden.
 
-#### Artikel 25. Raadgevend Comité
+##### Artikel 25. Raadgevend Comité
 
 Het Fonds handhaaft het ter beschikking stellen van een Raadgevend Comité aan het College van Bewindvoerders, dat is ingesteld en functioneert overeenkomstig de door de Raad van Bestuur aangenomen regels en voorschriften, om de activiteiten uit hoofde van de Activiteitenrekening te vergemakkelijken.
 
-#### Artikel 26. Voorschriften inzake begroting en accountantscontrole
+##### Artikel 26. Voorschriften inzake begroting en accountantscontrole
 
 1. De administratiekosten van het Fonds worden gedekt door de middelen van de Kapitaalrekening.
 
@@ -422,15 +444,15 @@ Het Fonds handhaaft het ter beschikking stellen van een Raadgevend Comité aan h
 
 3. De Directeur draagt er zorg voor dat de jaarrekening van het Fonds jaarlijks door een onafhankelijke en externe accountant wordt gecontroleerd. De door de accountants gecontroleerde jaarrekening wordt, na door het College van Bewindvoerders te zijn bestudeerd, voorzien van zijn aanbevelingen ter goedkeuring aan de Raad van Bestuur toegezonden.
 
-#### Artikel 27. Plaats van de zetel
+##### Artikel 27. Plaats van de zetel
 
 De zetel van het Fonds is gevestigd in Amsterdam, Nederland, tenzij de Raad van Bestuur met een gekwalificeerde meerderheid anderszins besluit. Bij besluit van de Raad van Bestuur kan het Fonds, indien nodig, andere kantoren op het grondgebied van enig Lid vestigen.
 
-#### Artikel 28. Publicatie van verslagen
+##### Artikel 28. Publicatie van verslagen
 
 Het Fonds publiceert en zendt aan de Leden een jaarverslag met een door accountants gecontroleerde jaarrekening. Na aanvaarding door de Raad van Bestuur worden dit jaarverslag en deze jaarrekening eveneens ter kennisneming gezonden aan de Algemene Vergadering van de Verenigde Naties, de Raad voor Handel en Ontwikkeling van de UNCTAD en andere belanghebbende internationale organisaties.
 
-#### Artikel 29. Betrekkingen met de Verenigde Naties, ICB’s, andere internationale organisaties en andere organen
+##### Artikel 29. Betrekkingen met de Verenigde Naties, ICB’s, andere internationale organisaties en andere organen
 
 1. Het Fonds kan onderhandelingen aangaan met de Verenigde Naties om een overeenkomst tot stand te brengen ten einde betrekkingen aan te knopen met de Verenigde Naties als een van de gespecialiseerde organisaties bedoeld in [artikel 57 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=57). Voor overeenkomsten tot stand gekomen ingevolge artikel [63 van het Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=63) is de goedkeuring vereist van de Raad van Bestuur op aanbeveling van het College van Bewindvoerders.
 
@@ -440,11 +462,11 @@ Het Fonds publiceert en zendt aan de Leden een jaarverslag met een door accounta
 
 ### HOOFDSTUK VIII. TERUGTREKKING DOOR EN SCHORSING VAN LEDEN EN TERUGTREKKING DOOR GEASSOCIEERDE INTERNATIONALE GRONDSTOFFENORGANISATIES
 
-#### Artikel 30. Terugtrekking door Leden
+##### Artikel 30. Terugtrekking door Leden
 
 Behoudens het bepaalde in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=VIII&artikel=34&z=2016-01-10&g=2016-01-10), en met inachtneming van het bepaalde in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=VII&artikel=32&z=2016-01-10&g=2016-01-10) kan een Lid zich te allen tijde uit het Fonds terugtrekken door middel van een schriftelijke kennisgeving daarvan aan het Fonds. De terugtrekking wordt van kracht op de in de kennisgeving aangegeven datum, doch niet eerder dan twaalf maanden na ontvangst van de kennisgeving door het Fonds.
 
-#### Artikel 31. Schorsing van Leden
+##### Artikel 31. Schorsing van Leden
 
 1. Behoudens het bepaalde in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=VIII&artikel=34&z=2016-01-10&g=2016-01-10), kan de Raad van Bestuur met een gekwalificeerde meerderheid een Lid schorsen, indien dit Lid nalaat een van zijn financiële verplichtingen jegens het Fonds na te komen. Het aldus geschorste Lid houdt automatisch op Lid te zijn met ingang van één jaar na de datum van de schorsing, tenzij de Raad besluit de schorsing met één jaar te verlengen.
 
@@ -452,25 +474,25 @@ Behoudens het bepaalde in [artikel 34, tweede lid](https://wetten.overheid.nl/jc
 
 3. Tijdens zijn schorsing is het het Lid niet toegestaan enig recht ingevolge deze Overeenkomst uit te oefenen, behalve het recht van terugtrekking en het recht op arbitrage tijdens de beëindiging van de activiteiten van het Fonds. Het Lid blijft evenwel onderworpen aan de nakoming van alle hem ingevolge deze Overeenkomst opgelegde verplichtingen.
 
-#### Artikel 32. Vereffening van rekeningen
+##### Artikel 32. Vereffening van rekeningen
 
 1. Wanneer een Lid ophoudt Lid te zijn, blijft het daarna aansprakelijk voor het voldoen van de daarvóór door het Fonds opgevraagde bedragen en van de uitstaande betalingen op de datum waarop het Lid is opgehouden Lid te zijn met betrekking tot zijn verplichtingen jegens het Fonds.
 
 2. Wanneer een Lid ophoudt Lid te zijn, treft het Fonds als onderdeel van de vereffening van de rekeningen met dat Lid regelingen voor het terugkopen van zijn aandelen, in overeenstemming met [artikel 16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=V&artikel=16&z=2016-01-10&g=2016-01-10). De prijs waarvoor de aandelen worden teruggekocht is gelijk aan de waarde in U.S. dollars die is aangegeven in de boeken van het Fonds op de datum waarop het Lid ophoudt Lid te zijn, met dien verstande dat aldus aan het Lid verschuldigde bedragen door het Fonds kunnen worden aangewend ter voldoening van uitstaande verplichtingen van dat Lid jegens het Fonds ingevolge het eerste lid van dit artikel.
 
-#### Artikel 33. Tijdelijke opschorting van activiteiten
+##### Artikel 33. Tijdelijke opschorting van activiteiten
 
 In urgente gevallen kan het College van Bewindvoerders activiteiten van het Fonds tijdelijk opschorten wanneer het zulks noodzakelijk acht, totdat de Raad van Bestuur in de gelegenheid is zich nader te beraden en maatregelen te nemen.
 
 ### HOOFDSTUK IX. OPSCHORTING EN BEËINDIGING VAN WERKZAAMHEDEN EN VEREFFENING VAN VERPLICHTINGEN
 
-#### Artikel 34. Beëindiging van activiteiten
+##### Artikel 34. Beëindiging van activiteiten
 
 1. De Raad van Bestuur kan de activiteiten van het Fonds beëindigen bij een besluit door middel van stemming dat is genomen door twee derde van het totaal aantal bestuurders die ten minste driekwart van het totaal aantal stemmen bezitten. Na deze beëindiging staakt het Fonds onmiddellijk alle activiteiten, behalve die welke noodzakelijk zijn voor het ordelijk te gelde maken en in stand houden van zijn activa en het vereffenen van zijn uitstaande verplichtingen.
 
 2. Totdat de definitieve vereffening van deze verplichtingen en definitieve verdeling van deze activa heeft plaatsgevonden, blijft het Fonds bestaan en blijven alle rechten en verplichtingen van het Fonds en zijn Leden ingevolge deze Overeenkomst onverlet, met dien verstande dat een Lid zich niet kan terugtrekken of kan worden geschorst nadat het besluit tot beëindiging is genomen.
 
-#### Artikel 35. Vereffening van verplichtingen: Algemene bepalingen
+##### Artikel 35. Vereffening van verplichtingen: Algemene bepalingen
 
 1. Het College van Bewindvoerders treft de noodzakelijke maatregelen om te verzekeren dat de activa van het Fonds ordelijk te gelde worden gemaakt. Voordat betalingen aan crediteuren die directe vorderingen hebben, plaatsvinden, zorgt het College met een gekwalificeerde meerderheid van stemmen voor de waarborgen en treft het de maatregelen die naar zijn mening noodzakelijk zijn om te verzekeren dat een verdeling onder de houders van directe vorderingen en de houders van voorwaardelijke vorderingen naar evenredigheid plaatsvindt.
 
@@ -482,35 +504,35 @@ In urgente gevallen kan het College van Bewindvoerders activiteiten van het Fond
 
 3. Na een besluit van de Raad van Bestuur ingevolge het tweede lid, onderdeel b, van dit artikel verdeelt het College van Bewindvoerders de resterende activa van de rekening in kwestie totdat al deze activa zijn verdeeld.
 
-#### Artikel 36. Vereffening van verplichtingen: Kapitaalrekening
+##### Artikel 36. Vereffening van verplichtingen: Kapitaalrekening
 
 1. Aan de verplichtingen jegens crediteuren van het Fonds wordt gelijkelijk uit de activa van de Kapitaalrekening voldaan.
 
 2. Verdeling van de activa van de Kapitaalrekening die resteren na de verdeling zoals voorzien in het eerste lid van dit artikel, vindt plaats naar rato van hun inschrijvingen op aandelen in het kapitaal dat aan de Kapitaalrekening is toegewezen.
 
-#### Artikel 37. Vereffening van verplichtingen: Activiteitenrekening
+##### Artikel 37. Vereffening van verplichtingen: Activiteitenrekening
 
 1. Aan verplichtingen die door het Fonds in verband met activiteiten uit hoofde van de Activiteitenrekening zijn aangegaan wordt uit de middelen van de Activiteitenrekening voldaan.
 
 2. Verdeling van eventuele resterende activa van de Activiteitenrekening vindt eerst plaats onder de Leden, tot de waarde van hun inschrijving op aandelen in het kapitaal dat ingevolge [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=9&z=2016-01-10&g=2016-01-10), aan die Rekening werd toegewezen, en vervolgens onder degenen die aan die Rekening hebben bijgedragen naar evenredigheid van hun aandeel in het totale, ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=12&z=2016-01-10&g=2016-01-10) bijgedragen, bedrag.
 
-#### Artikel 38. Vereffening van verplichtingen: overige activa van het Fonds
+##### Artikel 38. Vereffening van verplichtingen: overige activa van het Fonds
 
 1. Overige activa worden te gelde gemaakt op een of meerdere door de Raad van Bestuur vast te stellen tijdstippen, met inachtneming van de door het College van Bewindvoerders gedane aanbevelingen en overeenkomstig de door dit College met een gekwalificeerde meerderheid vastgestelde procedures.
 
 2. Opbrengsten uit de verkoop van deze activa worden gebruikt om naar evenredigheid te voldoen aan de verplichtingen bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=VIII&artikel=36&z=2016-01-10&g=2016-01-10), en [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=VIII&artikel=37&z=2016-01-10&g=2016-01-10). Resterende activa worden verdeeld onder de Leden naar evenredigheid van hun inschrijving op aandelen in het kapitaal.
 
-#### Artikel 39. Doelstellingen
+##### Artikel 39. Doelstellingen
 
 Ten einde het Fonds in staat te stellen de aan het Fonds toevertrouwde taken te vervullen, worden de in dit hoofdstuk vermelde rechtspositie, voorrechten en immuniteiten aan het Fonds toegekend op het grondgebied van elk Lid.
 
 ### HOOFDSTUK X. RECHTSPOSITIE, VOORRECHTEN EN IMMUNITEITEN
 
-#### Artikel 40. Rechtspositie van het Fonds
+##### Artikel 40. Rechtspositie van het Fonds
 
 Het Fonds bezit volledige rechtspersoonlijkheid en heeft in het bijzonder de bevoegdheid internationale verdragen met Staten en internationale organisaties tot stand te brengen, overeenkomsten aan te gaan, roerende en onroerende zaken te verwerven of te vervreemden en rechtsgedingen te voeren.
 
-#### Artikel 41. Immuniteit van rechtsgedingen
+##### Artikel 41. Immuniteit van rechtsgedingen
 
 1. Het Fonds geniet immuniteit van iedere vorm van rechtsvervolging, behalve ter zake van vorderingen die tegen het Fonds kunnen worden ingesteld door:
 
@@ -526,23 +548,23 @@ Deze vorderingen kunnen slechts bij bevoegde rechtbanken worden ingesteld in pla
 
 3. Niettegenstaande het bepaalde in het eerste lid van dit artikel worden de eigendommen en activa van het Fonds, ongeacht waar zij zich bevinden en wie hen onder zich heeft, gevrijwaard van onderzoek, iedere vorm van beslag, beslaglegging, alle vormen van inbeslagneming, dwangbevelen of andere wettelijke maatregelen waardoor de betaling van gelden wordt verhinderd en zijn deze eigendommen en activa tevens vrij van andere voorlopige maatregelen genomen voordat een eindvonnis tegen het Fonds door een overeenkomstig het eerste lid van dit artikel bevoegde rechtbank is uitgesproken. Het Fonds kan met zijn crediteuren overeenkomen de eigendommen en activa te beperken die voorwerp van executie kunnen zijn in verband met de tenuitvoerlegging van een eindvonnis.
 
-#### Artikel 42. Immuniteit van activa ter zake van andere vorderingen
+##### Artikel 42. Immuniteit van activa ter zake van andere vorderingen
 
 De eigendommen en activa van het Fonds, ongeacht waar zij zich bevinden of wie hen onder zich heeft, worden gevrijwaard van onderzoek, vordering, inbeslagneming, onteigening of alle andere vormen van inmenging of beslag op last van uitvoerende of wetgevende macht.
 
-#### Artikel 43. Immuniteit van het archief
+##### Artikel 43. Immuniteit van het archief
 
 Het archief van het Fonds, ongeacht waar dit zich bevindt, is onschendbaar.
 
-#### Artikel 44. Vrijwaring van de activa van beperkingen
+##### Artikel 44. Vrijwaring van de activa van beperkingen
 
 Voor zover dat voor de uitvoering van de in deze Overeenkomst voorziene activiteiten nodig is en behoudens de bepalingen van deze Overeenkomst, zijn alle eigendommen en activa van het Fonds vrijgesteld van beperkingen, voorschriften, controles en moratoria van welke aard ook.
 
-#### Artikel 45. Vertrouwelijkheid van mededelingen
+##### Artikel 45. Vertrouwelijkheid van mededelingen
 
 Voor zover verenigbaar met van kracht zijnde internationale verdragen inzake telecommunicatie totstandgekomen onder de auspiciën van de Internationale Telecommunicatie Unie waarbij een Lid partij is, wordt door elk Lid aan de officiële mededelingen van het Fonds dezelfde behandeling toegekend als aan de officiële mededelingen van andere Leden.
 
-#### Artikel 46. Immuniteiten en voorrechten van bepaalde personen
+##### Artikel 46. Immuniteiten en voorrechten van bepaalde personen
 
 Alle bestuurders, bewindvoerders, hun plaatsvervangers, de Directeur, leden van het Raadgevend Comité, deskundigen die voor het Fonds een opdracht vervullen alsmede de personeelsleden die geen deel uitmaken van het huishoudelijk personeel van het Fonds:
 
@@ -552,7 +574,7 @@ Alle bestuurders, bewindvoerders, hun plaatsvervangers, de Directeur, leden van 
 
 - c. genieten dezelfde behandeling op het gebied van reisfaciliteiten, die door elk Lid aan vertegenwoordigers, functionarissen en personeel van vergelijkbare rang in dienst van andere internationale financiële instellingen waarvan het lid is, wordt toegekend.
 
-#### Artikel 47. Vrijstelling van belasting
+##### Artikel 47. Vrijstelling van belasting
 
 1. Binnen de grenzen van zijn officiële activiteiten zijn het Fonds, zijn activa, eigendommen, inkomsten en de activiteiten en transacties waartoe het uit hoofde van deze Overeenkomst is gemachtigd, vrijgesteld van alle directe belastingen en alle douanerechten op voor zijn officiële gebruik ingevoerde of uitgevoerde goederen, met dien verstande dat een Lid daardoor niet belet wordt zijn normale belastingen en douanerechten te heffen op grondstoffen die van oorsprong afkomstig zijn van het grondgebied van dat Lid en die door omstandigheden aan het Fonds zijn verbeurd. Het Fonds maakt geen aanspraak op vrijstelling van belastingen die slechts heffingen voor verleende diensten zijn.
 
@@ -566,17 +588,17 @@ Alle bestuurders, bewindvoerders, hun plaatsvervangers, de Directeur, leden van 
 
 - b. indien de enige rechtsgrond voor een dergelijke belasting zou zijn de plaats waar of de valuta waarin de papieren zijn uitgegeven of waarin zij luiden, betaalbaar gesteld of betaald zijn, of de plaats waar een kantoor van het Fonds gevestigd is of waar het zijn activiteiten uitoefent.
 
-#### Artikel 48. Afstand van immuniteiten, vrijstellingen en voorrechten
+##### Artikel 48. Afstand van immuniteiten, vrijstellingen en voorrechten
 
 1. De immuniteiten, vrijstellingen en voorrechten bedoeld in dit hoofdstuk worden verleend in het belang van het Fonds. Het Fonds kan besluiten, in de mate en op voorwaarden door hem te bepalen, afstand te doen van de in dit hoofdstuk bedoelde immuniteiten, vrijstellingen en voorrechten, indien hierdoor de belangen van het Fonds niet worden geschaad.
 
 2. De Directeur heeft de bevoegdheid, zoals deze aan hem door de Raad van Bestuur kan zijn gedelegeerd, en de plicht de immuniteit van een personeelslid en van deskundigen die voor het Fonds een opdracht vervullen, op te heffen indien immuniteit de rechtsgang zou belemmeren en deze kan worden opgeheven zonder de belangen van het Fonds te schaden.
 
-#### Artikel 49. Toepassing van dit hoofdstuk
+##### Artikel 49. Toepassing van dit hoofdstuk
 
 Elk Lid onderneemt de nodige stappen met het doel op zijn grondgebied de beginselen en verplichtingen vervat in dit hoofdstuk, toe te passen.
 
-#### Artikel 50. Wijzigingen
+##### Artikel 50. Wijzigingen
 
 - a. Elk voorstel van een Lid tot wijziging van deze Overeenkomst wordt door de Directeur ter kennis gebracht van alle Leden en voorgelegd aan het College van Bewindvoerders dat zijn aanbevelingen ter zake voorlegt aan de Raad van Bestuur.
 
@@ -588,7 +610,7 @@ Elk Lid onderneemt de nodige stappen met het doel op zijn grondgebied de beginse
 
 ### HOOFDSTUK XI. UITLEGGING EN ARBITRAGE
 
-#### Artikel 51. Uitlegging
+##### Artikel 51. Uitlegging
 
 1. Elke kwestie omtrent de uitlegging of toepassing van de bepalingen van deze Overeenkomst tussen een Lid en het Fonds of tussen de Leden van het Fonds onderling, wordt aan het College van Bewindvoerders ter beslissing voorgelegd. Dit Lid of deze Leden heeft/hebben het recht deel te nemen aan de beraadslagingen van het College van Bewindvoerders gedurende de behandeling van de desbetreffende kwestie overeenkomstig de door de Raad van Bestuur aan te nemen regels en voorschriften.
 
@@ -598,37 +620,37 @@ Elk Lid onderneemt de nodige stappen met het doel op zijn grondgebied de beginse
 
 ### HOOFDSTUK XII. INTERPRETATIE EN ARBITRAGE
 
-#### Artikel 52. Arbitrage
+##### Artikel 52. Arbitrage
 
 1. Elk geschil tussen het Fonds en een Lid dat zich heeft teruggetrokken, of tussen het Fonds en een Lid tijdens de beëindiging van de activiteiten van het Fonds, wordt voorgelegd voor arbitrage.
 
 2. Het scheidsgerecht bestaat uit drie scheidsmannen. Elke partij bij het geschil benoemt één scheidsman. Beide aldus benoemde scheidsmannen benoemen de derde scheidsman, die als voorzitter optreedt. Indien binnen 45 dagen na ontvangst van het verzoek om arbitrage een van de partijen geen scheidsman heeft benoemd, of indien binnen 30 dagen na de benoeming van de twee scheidsmannen geen derde is benoemd, kan elk van beide partijen de President van het Internationaal Gerechtshof of een andere autoriteit voorzien in de regels en voorschriften zoals aangenomen door de Raad van Bestuur, verzoeken een scheidsman te benoemen. Indien de President van het Internationaal Gerechtshof ingevolge dit lid is verzocht een scheidsman te benoemen en de President een onderdaan is van een Staat die partij is bij het geschil of niet in staat is zijn taak te vervullen, gaat de bevoegdheid om een scheidsman te benoemen over op de Vice-President van het Hof, of, indien voor hem dezelfde beletsels gelden, op het oudste lid van het Hof, voor wie deze beletsels niet gelden en die het langst deel heeft uitgemaakt van het Hof. De arbitrageprocedure wordt door de scheidsmannen vastgesteld, met dien verstande dat de voorzitter volledig gemachtigd is inzake alle vragen betreffende de procedure een beslissing te nemen indien daaromtrent verschil van mening bestaat. Een meerderheid van stemmen van de scheidsmannen volstaat om tot een definitieve en voor de partijen bindende beslissing te komen.
 
-#### Artikel 53. Inwerkingtreding
+##### Artikel 53. Inwerkingtreding
 
 Deze Overeenkomst is op 19 juni 1989 in werking getreden en is op ............ door de Raad van Bestuur gewijzigd.
 
 ### HOOFDSTUK XIII. SLOTBEPALINGEN
 
-#### Artikel 54. Periodieke toetsing van de Overeenkomst
+##### Artikel 54. Periodieke toetsing van de Overeenkomst
 
 De Raad van Bestuur voert iedere tien jaar een toetsing uit van de Overeenkomst, voor de eerste keer in 2024, en neemt aan de hand daarvan alle maatregelen die hij nodig acht.
 
-#### Artikel 55. Depositaris
+##### Artikel 55. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties is de depositaris van deze Overeenkomst.
 
-#### Artikel 56. Toetreding
+##### Artikel 56. Toetreding
 
 1. Elke Staat of in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=III&artikel=4&z=2016-01-10&g=2016-01-10) omschreven intergouvernementele organisatie kan tot deze Overeenkomst toetreden op de tussen de Raad van Bestuur en die Staat of intergouvernementele organisatie overeengekomen voorwaarden. Toetreding geschiedt door nederlegging van een akte van toetreding bij de depositaris.
 
 2. Deze Overeenkomst treedt voor een staat of intergouvernementele organisatie die een akte van toetreding nederlegt in werking op de datum van deze nederlegging.
 
-#### Artikel 57. Voorbehouden
+##### Artikel 57. Voorbehouden
 
 Er mogen geen voorbehouden worden gemaakt ten aanzien van de bepalingen van deze Overeenkomst, behalve ten aanzien van [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=XI&artikel=52&z=2016-01-10&g=2016-01-10).
 
-#### Artikel 58. Talen
+##### Artikel 58. Talen
 
 Deze Overeenkomst is opgesteld in de Engelse, de Franse, de Russische, de Spaanse, de Chinese en de Arabische taal, waarbij alle teksten gelijkelijk authentiek zijn en dezelfde werking hebben.
 

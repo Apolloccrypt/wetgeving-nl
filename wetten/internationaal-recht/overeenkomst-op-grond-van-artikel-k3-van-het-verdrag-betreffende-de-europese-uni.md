@@ -1,13 +1,34 @@
 ---
 title: "Overeenkomst op grond van Artikel K.3 van het Verdrag betreffende de Europese Unie tot oprichting van een Europese Politiedienst (Europol-Overeenkomst)"
 identifier: "BWBV0001323"
-categorie: "Internationaal recht"
-publicatiedatum: 2010-01-01
-laatste_update: 2010-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001323"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-01-01"
+last_updated: "2010-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001323"
+soort: "verdrag"
+stam_id: "10000019853"
+version_id: "10003975832"
+internal_id: "C10006987501"
+label_id: "10000020464"
+original_entry_into_force: "2010-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001323/2010-01-01/0"
+intitule_bron: "Trb.2010-65"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2010-02-24"
+intitule_in_force: "2010-02-24"
+intitule_status: "vervallen"
+original_publication: "Trb.2010-65"
+original_published_date: "2010-02-24"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2010-65"
+entry_into_force_date: "2010-01-01"
+jci_1_3: "jci1.3:c:BWBV0001323&z=2010-01-01&g=2010-01-01"
+jci_1_0: "1.0:c:BWBV0001323&g=2010-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2010-01-01"
 ---
-
 # Overeenkomst op grond van Artikel K.3 van het Verdrag betreffende de Europese Unie tot oprichting van een Europese Politiedienst (Europol-Overeenkomst)
 
 De Hoge Overeenkomstsluitende Partijen, Lid-Staten van de Europese Unie,
@@ -36,203 +57,203 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 ## Titel I. Oprichting en taakomschrijving
 
-#### Artikel 1. Oprichting
+##### Artikel 1. Oprichting
 
 Vervallen
 
-#### Artikel 2. Doelstelling
+##### Artikel 2. Doelstelling
 
 Vervallen
 
-#### Artikel 3. Taken
+##### Artikel 3. Taken
 
 Vervallen
 
-#### Artikel 4. Nationale eenheden
+##### Artikel 4. Nationale eenheden
 
 Vervallen
 
-#### Artikel 5. Verbindingsofficieren
+##### Artikel 5. Verbindingsofficieren
 
 Vervallen
 
-#### Artikel 6. Geautomatiseerde gegevensbestanden
+##### Artikel 6. Geautomatiseerde gegevensbestanden
 
 Vervallen
 
 ## Titel II. Informatiesysteem
 
-#### Artikel 7. Het aanleggen van het informatiesysteem
+##### Artikel 7. Het aanleggen van het informatiesysteem
 
 Vervallen
 
-#### Artikel 8. Inhoud van het informatiesysteem
+##### Artikel 8. Inhoud van het informatiesysteem
 
 Vervallen
 
-#### Artikel 9. Recht van toegang tot het informatiesysteem
+##### Artikel 9. Recht van toegang tot het informatiesysteem
 
 Vervallen
 
 ## Titel III. Werkbestanden voor analyse
 
-#### Artikel 10. Verzameling, verwerking en gebruik van persoonsgegevens
+##### Artikel 10. Verzameling, verwerking en gebruik van persoonsgegevens
 
 Vervallen
 
-#### Artikel 11. Indexsysteem
+##### Artikel 11. Indexsysteem
 
 Vervallen
 
-#### Artikel 12. Bestandsreglement
+##### Artikel 12. Bestandsreglement
 
 Vervallen
 
 ## Titel IV. Gemeenschappelijke voorwaarden voor informatieverwerking
 
-#### Artikel 13. Mededelingsplicht
+##### Artikel 13. Mededelingsplicht
 
 Vervallen
 
-#### Artikel 14. Niveau van gegevensbescherming
+##### Artikel 14. Niveau van gegevensbescherming
 
 Vervallen
 
-#### Artikel 15. Verantwoordelijkheid voor de gegevensbescherming
+##### Artikel 15. Verantwoordelijkheid voor de gegevensbescherming
 
 Vervallen
 
-#### Artikel 16. Controle van de opvragingen
+##### Artikel 16. Controle van de opvragingen
 
 Vervallen
 
-#### Artikel 17. Regeling van het gebruik van de gegevens
+##### Artikel 17. Regeling van het gebruik van de gegevens
 
 Vervallen
 
-#### Artikel 18. Verstrekking van gegevens aan derde staten en instanties
+##### Artikel 18. Verstrekking van gegevens aan derde staten en instanties
 
 Vervallen
 
-#### Artikel 19. Recht op kennisneming
+##### Artikel 19. Recht op kennisneming
 
 Vervallen
 
-#### Artikel 20. Verbetering en verwijdering van gegevens
+##### Artikel 20. Verbetering en verwijdering van gegevens
 
 Vervallen
 
-#### Artikel 21. Termijnen voor het opslaan en verwijderen van gegevens in bestanden
+##### Artikel 21. Termijnen voor het opslaan en verwijderen van gegevens in bestanden
 
 Vervallen
 
-#### Artikel 22. Het bewaren en verbeteren van gegevens in dossiers
+##### Artikel 22. Het bewaren en verbeteren van gegevens in dossiers
 
 Vervallen
 
-#### Artikel 23. Nationaal controle-orgaan
+##### Artikel 23. Nationaal controle-orgaan
 
 Vervallen
 
-#### Artikel 24. Gemeenschappelijk controle-orgaan
+##### Artikel 24. Gemeenschappelijk controle-orgaan
 
 Vervallen
 
-#### Artikel 25. Beveiliging van de gegevens
+##### Artikel 25. Beveiliging van de gegevens
 
 Vervallen
 
 ## Titel V. RECHTSPOSITIE, ORGANISATIE EN FINANCIËLE BEPALINGEN
 
-#### Artikel 26. Handelingsbevoegdheid
+##### Artikel 26. Handelingsbevoegdheid
 
 Vervallen
 
-#### Artikel 27. Organen van Europol
+##### Artikel 27. Organen van Europol
 
 Vervallen
 
-#### Artikel 28. Raad van Bestuur
+##### Artikel 28. Raad van Bestuur
 
 Vervallen
 
-#### Artikel 29. Directeur
+##### Artikel 29. Directeur
 
 Vervallen
 
-#### Artikel 30. Personeel
+##### Artikel 30. Personeel
 
 Vervallen
 
-#### Artikel 31. Geheimhouding
+##### Artikel 31. Geheimhouding
 
 Vervallen
 
-#### Artikel 32. Zwijg- en geheimhoudingsplicht
+##### Artikel 32. Zwijg- en geheimhoudingsplicht
 
 Vervallen
 
-#### Artikel 33. Talen
+##### Artikel 33. Talen
 
 Vervallen
 
-#### Artikel 34. Informatie aan het Europees Parlement
+##### Artikel 34. Informatie aan het Europees Parlement
 
 Vervallen
 
-#### Artikel 35. Begroting
+##### Artikel 35. Begroting
 
 Vervallen
 
-#### Artikel 36. Controle van de rekeningen
+##### Artikel 36. Controle van de rekeningen
 
 Vervallen
 
-#### Artikel 37. Zetelovereenkomst
+##### Artikel 37. Zetelovereenkomst
 
 Vervallen
 
 ## Titel VI. AANSPRAKELIJKHEID EN RECHTSBESCHERMING
 
-#### Artikel 38. Aansprakelijkheid voor onrechtmatige of onjuiste verwerking van gegevens
+##### Artikel 38. Aansprakelijkheid voor onrechtmatige of onjuiste verwerking van gegevens
 
 Vervallen
 
-#### Artikel 39. Overige aansprakelijkheid
+##### Artikel 39. Overige aansprakelijkheid
 
 Vervallen
 
-#### Artikel 40. Regeling van geschillen
+##### Artikel 40. Regeling van geschillen
 
 Vervallen
 
-#### Artikel 41. Voorrechten en immuniteiten
+##### Artikel 41. Voorrechten en immuniteiten
 
 Vervallen
 
 ## Titel VII. SLOTBEPALINGEN
 
-#### Artikel 42. Betrekkingen met derde Staten en instanties
+##### Artikel 42. Betrekkingen met derde Staten en instanties
 
 Vervallen
 
-#### Artikel 43. Wijziging van de Overeenkomst
+##### Artikel 43. Wijziging van de Overeenkomst
 
 Vervallen
 
-#### Artikel 44. Voorbehouden
+##### Artikel 44. Voorbehouden
 
 Vervallen
 
-#### Artikel 45. Inwerkingtreding
+##### Artikel 45. Inwerkingtreding
 
 Vervallen
 
-#### Artikel 46. Toetreding door nieuwe Lid-Staten
+##### Artikel 46. Toetreding door nieuwe Lid-Staten
 
 Vervallen
 
-#### Artikel 47. Depositaris
+##### Artikel 47. Depositaris
 
 Vervallen
 
@@ -240,11 +261,11 @@ TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder deze
 
 GEDAAN te Brussel, de zesentwintigste juli negentienhonderd vijfennegentig, in één exemplaar, in de Deense, de Duitse, de Engelse, de Finse, de Franse, de Griekse, de Ierse, de Italiaanse, de Nederlandse, de Portugese, de Spaanse en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek, dat wordt neergelegd in het archief van het Secretariaat-Generaal van de Raad van de Europese Unie.
 
-#### Artikel 3 bis. Deelname aan gemeenschappelijke onderzoeksteams
+##### Artikel 3 bis. Deelname aan gemeenschappelijke onderzoeksteams
 
 Vervallen
 
-#### 3 ter. Verzoeken van Europol om instelling van een strafrechtelijk onderzoek
+##### 3 ter. Verzoeken van Europol om instelling van een strafrechtelijk onderzoek
 
 Vervallen
 
@@ -258,7 +279,7 @@ Vervallen
 
 ## Titel VI. AANSPRAKELIJKHEID EN RECHTSBESCHERMING
 
-#### Artikel 39 bis. Aansprakelijkheid in verband met de deelname van Europol aan gemeenschappelijke onderzoeksteams
+##### Artikel 39 bis. Aansprakelijkheid in verband met de deelname van Europol aan gemeenschappelijke onderzoeksteams
 
 Vervallen
 
@@ -268,7 +289,7 @@ TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder deze
 
 GEDAAN te Brussel, de zesentwintigste juli negentienhonderd vijfennegentig, in één exemplaar, in de Deense, de Duitse, de Engelse, de Finse, de Franse, de Griekse, de Ierse, de Italiaanse, de Nederlandse, de Portugese, de Spaanse en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek, dat wordt neergelegd in het archief van het Secretariaat-Generaal van de Raad van de Europese Unie.
 
-#### Artikel 6 bis. Informatieverwerking door Europol
+##### Artikel 6 bis. Informatieverwerking door Europol
 
 Vervallen
 
@@ -280,7 +301,7 @@ Vervallen
 
 ## Titel V. RECHTSPOSITIE, ORGANISATIE EN FINANCIËLE BEPALINGEN
 
-#### Artikel 32 bis. Recht van toegang tot documenten van Europol
+##### Artikel 32 bis. Recht van toegang tot documenten van Europol
 
 Vervallen
 

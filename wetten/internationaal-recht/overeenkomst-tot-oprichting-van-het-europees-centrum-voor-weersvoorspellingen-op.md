@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tot oprichting van het Europees Centrum voor weersvoorspellingen op middellange termijn"
 identifier: "BWBV0001985"
-categorie: "Internationaal recht"
-publicatiedatum: 2010-06-06
-laatste_update: 2010-06-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001985"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-06-06"
+last_updated: "2010-06-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001985"
+soort: "verdrag"
+stam_id: "10002591773"
+version_id: "10002583432"
+internal_id: "C10006982091"
+label_id: "10002581474"
+dtd_version: "2.0"
+original_entry_into_force: "1975-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001985/2010-06-06/0"
+intitule_bron: "Trb.1974-7"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1974-09-26"
+intitule_published: "1974-01-17"
+intitule_in_force: "1975-11-25"
+intitule_status: "goed"
+original_publication: "Trb.1974-7"
+original_signed_date: "1974-09-26"
+original_published_date: "1974-01-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1974-7"
+entry_into_force_date: "1975-11-01"
+jci_1_3: "jci1.3:c:BWBV0001985&z=2010-06-06&g=2010-06-06"
+jci_1_0: "1.0:c:BWBV0001985&g=2010-06-06"
+citeertitel_status: "redactioneel"
+signed_date: "1974-09-26"
+entry_into_force: "1975-11-01"
 ---
-
 # Overeenkomst tot oprichting van het Europees Centrum voor weersvoorspellingen op middellange termijn
 
 De verdragsluitende Staten in deze conventie
@@ -38,7 +63,7 @@ komen het volgende overeen:
 
 Abusievelijk is een wijzigingsopdracht geformuleerd die niet geheel juist is.
 
-#### Artikel 1. Oprichting, Raad, Lidstaten, Hoofdkantoor, Talen
+##### Artikel 1. Oprichting, Raad, Lidstaten, Hoofdkantoor, Talen
 
 1. Er wordt opgericht een Europees Centrum voor weervoorspellingen op middellange termijn, hierna te noemen „het Centrum”.
 
@@ -56,7 +81,7 @@ De werktalen zijn Engels, Frans en Duits.
 
 De Raad bepaalt in welke mate de officiële en werktalen respectievelijk worden gebruikt in overeenstemming met Artikel 6(2)(1).
 
-#### Artikel 2. De doelen, doelstellingen en activiteiten
+##### Artikel 2. De doelen, doelstellingen en activiteiten
 
 1. De voornaamste doelen van het Centrum zijn de ontwikkeling van een capaciteit voor weersvoorspellingen op middellange termijn en de voorziening van weersvoorspellingen op middellange termijn voor de Lidstaten.
 
@@ -90,7 +115,7 @@ De Raad bepaalt in welke mate de officiële en werktalen respectievelijk worden 
 
 6. Het Centrum kan Optionele Programma’s uitvoeren overeenkomstig Artikel 11(3).
 
-#### Artikel 3. Samenwerking met andere entiteiten
+##### Artikel 3. Samenwerking met andere entiteiten
 
 1. Ter verwezenlijking van zijn doelstellingen werkt het Centrum overeenkomstig de internationale meteorologische traditie in de ruimst mogelijke mate samen met de Regeringen en de nationale organisaties van de Lidstaten, alsook met de Staten die geen lid zijn van het Centrum of met de al dan niet gouvernementele wetenschappelijke of technische internationale organisaties waarvan de werkzaamheden verband houden met zijn doelstellingen.
 
@@ -104,7 +129,7 @@ De Raad bepaalt in welke mate de officiële en werktalen respectievelijk worden 
 
 3. Indien in de in lid 2 bedoelde samenwerkingsovereenkomsten wordt bepaald dat een deel van de rekencapaciteit van het Centrum beschikbaar wordt gesteld, dan kan zulks slechts ten goede komen aan openbare instellingen der Lidstaten.
 
-#### Artikel 4. De Raad
+##### Artikel 4. De Raad
 
 1. De Raad beschikt over de bevoegdheid te doen wat voor de uitvoering van deze Conventie noodzakelijk is en neemt de ter zake vereiste maatregelen.
 
@@ -120,7 +145,7 @@ Een vertegenwoordiger van de Wereld Meteorologische Organisatie wordt uitgenodig
 
 6. De Raad kan adviescommissies oprichten en stelt de samenstelling en de taak daarvan vast.
 
-#### Artikel 5. Stemmen in de Raad
+##### Artikel 5. Stemmen in de Raad
 
 1. Om het quorum te bereiken, is in elke zitting van de Raad de aanwezigheid van de Vertegenwoordigers van de meerderheid der stemgerechtigde Lid-Staten noodzakelijk.
 
@@ -130,7 +155,7 @@ Een vertegenwoordiger van de Wereld Meteorologische Organisatie wordt uitgenodig
 
 4. Voor het constateren van eenstemmigheid en van de verschillende, in deze Conventie genoemde meerderheden wordt alleen rekening gehouden met de stemmen die voor of tegen het besluit waarover wordt gestemd, zijn uitgebracht alsmede, in de gevallen waarin de Raad besluit volgens de procedure van Artikel 6(2) met de financiële bijdragen der aan de stemming deelnemende Lidstaten.
 
-#### Artikel 6. Stemmeerderheid
+##### Artikel 6. Stemmeerderheid
 
 1. Met eenparigheid van stemmen besluit de Raad:
 
@@ -208,7 +233,7 @@ Een vertegenwoordiger van de Wereld Meteorologische Organisatie wordt uitgenodig
 
 4. Wanneer geen speciale meerderheid is vastgesteld, spreekt de Raad zich uit met eenvoudige meerderheid.
 
-#### Artikel 7. De Wetenschappelijke Adviescommissie
+##### Artikel 7. De Wetenschappelijke Adviescommissie
 
 1. De Wetenschappelijke Adviescommissie bestaat uit twaalf leden, op grond van hun persoonlijke hoedanigheden voor de duur van vier jaren door de Raad benoemd. Een vierde gedeelte van het Comité wordt jaarlijks vervangen; geen der leden mag meer dan twee achtereenvolgende ambtstermijnen zitting hebben.
 
@@ -222,7 +247,7 @@ De leden van de Commissie worden gekozen uit de wetenschapsbeoefenaars van de Li
 
 4. Het Comité stelt zijn Reglement van Orde op. Dit treedt in werking na goedkeuring door de Raad, die besluit overeenkomstig Artikel 6(3)(g).
 
-#### Artikel 8. De Financiële Commissie
+##### Artikel 8. De Financiële Commissie
 
 1. De Financiële Commissie bestaat uit:
 
@@ -232,7 +257,7 @@ De leden van de Commissie worden gekozen uit de wetenschapsbeoefenaars van de Li
 
 2. Onder de voorwaarden gesteld in het Financieel Reglement, brengt het Comité ten behoeve van de Raad adviezen en aanbevelingen uit over alle aan de Raad voorgelegde financiële vraagstukken en oefent het de bevoegdheden uit die de Raad op financieel gebied aan het Comité delegeert.
 
-#### Artikel 9. De Directeur-Generaal
+##### Artikel 9. De Directeur-Generaal
 
 1. De Directeur-Generaal is het hoofd van de diensten van het Centrum. Hij vertegenwoordigt het Centrum naar buiten. Onder gezag van de Raad draagt hij zorg voor de uitvoering van de aan het Centrum toevertrouwde taken. Hij neemt zonder stemrecht deel aan alle vergaderingen van de Raad.
 
@@ -256,7 +281,7 @@ De Raad wijst degene aan die de directeursfunctie ad interim waarneemt.
 
 3. Bij de uitoefening van zijn functie wordt de Directeur-Generaal bijgestaan door het personeel van het Centrum.
 
-#### Artikel 10. Het personeel
+##### Artikel 10. Het personeel
 
 1. Behoudens het bepaalde in de tweede lid, geldt voor het personeel van het Centrum het statuut van het personeel, dat wordt vastgesteld door de Raad, die besluit overeenkomstig Artikel 6(3)(b).
 
@@ -276,7 +301,7 @@ Geen enkel ambt kan worden voorbehouden aan onderdanen van een bepaalde Lidstaat
 
 7. Iedere Lidstaat is gehouden het internationale karakter van de verantwoordelijkheid van de Directeur-Generaal en van de overige personeelsleden van het Centrum te eerbiedigen. Bij de uitoefening van hun functies mogen de Directeur-Generaal en de overige personeelsleden geen instructies van enige Regering of van enige andere autoriteit buiten het Centrum vragen of ontvangen.
 
-#### Artikel 11. Het Programma van Activiteiten, het beleid op lange termijn en Optionele Programma’s
+##### Artikel 11. Het Programma van Activiteiten, het beleid op lange termijn en Optionele Programma’s
 
 1. Het werkprogramma van het Centrum wordt op voorstel van de Directeur-Generaal vastgesteld door de Raad, die besluit overeenkomstig Artikel 6(2)(c).
 
@@ -294,7 +319,7 @@ Het beleid wordt goedgekeurd door de Raad handelend op een voorstel van de Direc
 
 - b. Individuele Optionele Programma’s worden goedgekeurd door de Raad overeenkomstig Artikel 6(2)(f).
 
-#### Artikel 12. De begroting
+##### Artikel 12. De begroting
 
 1. De begroting van het Centrum wordt voor elk boekjaar vóór de aanvang daarvan opgesteld, overeenkomstig de voorwaarden vastgesteld in het Financieel Reglement.
 
@@ -322,7 +347,7 @@ Maandelijks storten de Lidstaten als voorlopige betaling overeenkomstig de in Ar
 
 6. De begroting wordt uitgevoerd overeenkomstig de voorwaarden vastgesteld in het Financieel Reglement.
 
-#### Artikel 13. Bijdragen van de Lidstaten
+##### Artikel 13. Bijdragen van de Lidstaten
 
 1. Iedere Lidstaat betaalt het Centrum jaarlijks in inwisselbare valuta een bijdrage die is bepaald op basis van een bijdragenschaal die om de drie jaar door de Raad wordt vastgesteld overeenkomstig Artikel 6 (3) (h). Deze schaal is gebaseerd op het gemiddelde van het bruto nationaal inkomen van elke Lidstaat gedurende de laatste drie kalenderjaren waarvoor statistieken bestaan.
 
@@ -338,7 +363,7 @@ Tenzij de Raad anders heeft besloten overeenkomstig Artikel 6 (1), wordt elke ui
 
 5. De wijze van storting van de bijdragen wordt vastgesteld in het Financieel Reglement.
 
-#### Artikel 14. De audit
+##### Artikel 14. De audit
 
 1. De rekeningen van alle ontvangsten en uitgaven op de begroting, alsmede de balans van de activa en passiva van het Centrum worden onder de voorwaarden van het Financieel Reglement ter controle voorgelegd aan accountants die alle waarborgen van onafhankelijkheid bieden. Deze controle, die aan de hand van bescheiden en zo nodig ter plaatse geschiedt, heeft ten doel de wettigheid en de regelmatigheid van de ontvangsten en uitgaven na te gaan en vast te stellen of een goed financieel beheer van het Centrum is gevoerd. De accountants leggen aan de Raad een verslag over de jaarrekeningen voor.
 
@@ -346,7 +371,7 @@ Tenzij de Raad anders heeft besloten overeenkomstig Artikel 6 (1), wordt elke ui
 
 3. De Directeur-Generaal verschaft de accountants alle inlichtingen en alle hulp die zij voor de in (1) bedoelde controle nodig hebben.
 
-#### Artikel 15. Eigendomsrechten en licenties
+##### Artikel 15. Eigendomsrechten en licenties
 
 1. ECMWT heeft wereldwijd exclusief eigendom van al haar producten en andere resultaten van haar activiteiten.
 
@@ -356,11 +381,11 @@ Tenzij de Raad anders heeft besloten overeenkomstig Artikel 6 (1), wordt elke ui
 
 4. Over de voorwaarden waaronder de in lid (2) bedoelde licenties kunnen worden uitgebreid tot andere toepassingen dan weervoorspellingen beslist de Raad overeenkomstig Artikel (6)(3)(k).
 
-#### Artikel 16. Voorrechten en immuniteiten, en aansprakelijkheden
+##### Artikel 16. Voorrechten en immuniteiten, en aansprakelijkheden
 
 De voorrechten en immuniteiten die het Centrum, de vertegenwoordigers der Lidstaten, alsmede het personeel en de deskundigen van het Centrum genieten op het grondgebied der Lidstaten, zijn vastgesteld in een aan deze overeenkomst gehecht protocol dat daarvan een integrerend deel uitmaakt, en in een tussen het Centrum en de Staat op welks grondgebied de zetel van het Centrum is gevestigd, te sluiten overeenkomst. Deze overeenkomst wordt overeenkomstig Artikel (6) (3) (c) door de Raad goedgekeurd.
 
-#### Artikel 17. Geschillen
+##### Artikel 17. Geschillen
 
 1. Elk geschil tussen Lidstaten, of tussen een of meer Lidstaten en het Centrum, betreffende de uitlegging of de toepassing van deze overeenkomst, met inbegrip van het in Artikel 16 bedoelde Protocol betreffende de voorrechten en immuniteiten, of betreffende één der in Artikel 24 van dit Protocol bedoelde gevallen, dat niet door de goede diensten van de Raad kan worden bijgelegd, wordt op verzoek van één der partijen bij het geschil, gericht aan de andere partij, voorgelegd aan een scheidsgerecht, gevormd overeenkomstig (2), eerste lid, tenzij de partijen onderling binnen een termijn van drie maanden overeenstemming bereiken over een andere wijze van regeling.
 
@@ -368,13 +393,13 @@ De voorrechten en immuniteiten die het Centrum, de vertegenwoordigers der Lidsta
 
 Het scheidsgerecht besluit met meerderheid van stemmen. Zijn besluiten zijn bindend voor de partijen bij het geschil. Elke partij draagt de uitgaven die betrekking hebben op het door haar aangewezen lid van het scheidsgerecht en de lasten van haar vertegenwoordiging bij de procesvoering voor het scheidsgerecht. De partijen bij het geschil dragen in gelijke delen de uitgaven die betrekking hebben op de voorzitter van het scheidsgerecht en de overige uitgaven, tenzij het scheidsgerecht anders beslist. Het scheidsgerecht stelt zijn overige regels voor de procesvoering vast.
 
-#### Artikel 18. Wijzigingen aan de Conventie
+##### Artikel 18. Wijzigingen aan de Conventie
 
 1. Elke Lidstaat kan aan de Directeur-Generaal voorstellen tot wijziging van deze Conventie doen. De Directeur-Generaal deelt de overige Lidstaten deze voorstellen ten minste drie maanden vóór hun behandeling door de Raad mede. De Raad behandelt deze voorstellen en kan, overeenkomstig Artikel (6)(3)(m), de Lidstaten aanbevelen de voorgestelde wijzigingen te aanvaarden.
 
 2. De door de Raad aanbevolen wijzigingen kunnen door de Lidstaten slechts schriftelijk worden aanvaard. Zij treden in werking dertig dagen nadat de Secretaris-Generaal van de Raad van de Europese Unie de laatste schriftelijke kennisgeving van aanvaarding heeft ontvangen.
 
-#### Artikel 19. Opzegging van de Conventie
+##### Artikel 19. Opzegging van de Conventie
 
 1. Aan het einde van een termijn van vijf jaar, te rekenen vanaf de datum van de inwerkingtreding van deze Conventie, kan deze door elke Lidstaat worden opgezegd door middel van een kennisgeving aan de Secretaris-Generaal van de Raad van de Europese Unie. De opzegging gaat in aan het einde van het tweede boekjaar, volgende op het jaar in de loop waarvan de kennisgeving is gedaan.
 
@@ -382,11 +407,11 @@ Het scheidsgerecht besluit met meerderheid van stemmen. Zijn besluiten zijn bind
 
 3. Een Lidstaat die deze Conventie heeft opgezegd, verliest zijn rechten op het vermogen van het Centrum en moet dit, onder de overeenkomstig Artikel (6)(2)(i) door de Raad vastgestelde voorwaarden, elk verlies van het Centrum aan goederen op het grondgebied van die Staat vergoeden, tenzij er een bijzondere overeenkomst wordt gesloten waarbij het Centrum het gebruik van deze goederen wordt gewaarborgd.
 
-#### Artikel 20. Niet-nakoming van verplichtingen
+##### Artikel 20. Niet-nakoming van verplichtingen
 
 Aan een Lidstaat die de uit deze Conventie voortvloeiende verplichtingen niet nakomt, kan bij besluit van de Raad overeenkomstig Artikel (6) (1) (c) het lidmaatschap worden ontnomen. Het bepaalde in Artikel 19(2) en (3) is van overeenkomstige toepassing.
 
-#### Artikel 21. Ontbinding van het Centrum
+##### Artikel 21. Ontbinding van het Centrum
 
 1. Tenzij de Raad anders besluit overeenkomstig Artikel 6(2)(j), wordt het Centrum ontbonden indien de opzegging van de Conventie door een of meer Lidstaten ertoe leidt dat de bijdragen van de overige Lidstaten met een vijfde van hun aanvankelijke hoogte stijgen.
 
@@ -398,7 +423,7 @@ Tenzij de Raad anders besluit overeenkomstig Artikel (6)(2)(j), worden de activa
 
 Indien er een passief bestaat, komt dit naar rata van de bijdragen die zijn vastgesteld voor het lopende boekjaar ten laste van de Lidstaten.
 
-#### Artikel 22. Inwerkingtreding
+##### Artikel 22. Inwerkingtreding
 
 1. Deze Conventie staat tot en met 11 april 1974 bij het Secretariaat-Generaal van de Raad van de Europese Gemeenschappen open voor ondertekening door de Europese Staten die in de bijlage zijn vermeld.
 
@@ -408,13 +433,13 @@ Zij dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachti
 
 Voor elke andere ondertekenende Staat treedt deze Conventie in werking op de eerste dag van de tweede maand, volgende op de dag waarop zijn akte van bekrachtiging, aanvaarding of goedkeuring is nedergelegd.
 
-#### Artikel 23. Toetreding van Staten
+##### Artikel 23. Toetreding van Staten
 
 1. Na inwerkingtreding van deze Conventie, kan een Staat die geen ondertekenaar is toetreden tot de Conventie behoudens de goedkeuring van de Raad overeenkomstig Artikel 6(1)(b). Een Staat die wenst toe te treden tot deze Conventie stelt de Directeur-Generaal overeenkomstig op de hoogte en laatstgenoemde bericht de Lidstaten over het verzoek ten minste drie maanden alvorens dit bij de Raad wordt ingediend voor een besluit. De Raad bepaalt de bepalingen en voorwaarden van toetreding van de desbetreffende Staat, overeenkomstig Artikel 6(1)(b).
 
 2. De akten van toetreding worden gedeponeerd in de archieven van het Secretariaat-Generaal van de Raad van de Europese Unie. Voor elke toetredende Staat treedt deze Conventie in werking op de eerste dag van de tweede maand na de datum van deponering van de akten van toetreding.
 
-#### Artikel 24. Kennisgeving van ondertekening en aanverwante zaken
+##### Artikel 24. Kennisgeving van ondertekening en aanverwante zaken
 
 De Secretaris-Generaal van de Raad van de Europese Unie doet de ondertekenende en toetredende Staten mededeling van:
 
@@ -432,7 +457,7 @@ De Secretaris-Generaal van de Raad van de Europese Unie doet de ondertekenende e
 
 Zodra deze Conventie en enige wijziging hieraan in werking treedt, registreert de Secretaris-Generaal van de Raad van de Europese Unie deze bij het Secretariaat-Generaal van de Verenigde Naties, overeenkomstig [Artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 25. Het eerste boekjaar
+##### Artikel 25. Het eerste boekjaar
 
 1. Het eerste begrotingsjaar loopt van de datum van inwerkingtreding van deze Conventie tot en met de 31e december daaropvolgend. Indien dit boekjaar in het tweede halfjaar begint, loopt het tot en met de 31e december van het volgende jaar.
 
@@ -440,7 +465,7 @@ Zodra deze Conventie en enige wijziging hieraan in werking treedt, registreert d
 
 3. Tijdens zijn eerste vergadering wijst het Wetenschappelijke Adviescommissie door loting de negen leden van het Comité aan wier ambtstermijn overeenkomstig Artikel 7 (1) verstrijkt na het eerste, na het tweede en na het derde jaar van werking van het Comité.
 
-#### Artikel 26. Deponering van Conventie
+##### Artikel 26. Deponering van Conventie
 
 Deze Conventie, en alle wijzigingen daarvan, opgesteld in één exemplaar in het Nederlands, Engels, Frans, Duits, Italiaans, Deens, Fins, Iers, Grieks, Noors, Portugees, Spaans, Zweeds en Turks, zijnde de teksten gelijkelijk authentiek, wordt gedeponeerd in de archieven van het Secretariaat-Generaal van de Raad van de Europese Unie, die een gewaarmerkt afschrift zal sturen naar de regering van elke ondertekenende of toetredende Staat.
 
@@ -450,7 +475,7 @@ Geleid door de wens de voor de goede werking van dit Centrum noodzakelijke voorr
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De gebouwen van het Centrum zijn onschendbaar, onder voorbehoud van de bepalingen van dit protocol.
 
@@ -458,11 +483,11 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 3. Het Centrum belet dat de gebouwen als toevluchtsoord dienen voor personen die zich willen onttrekken aan een arrestatie of die zich trachten te onttrekken aan de betekening van een procedurestuk.
 
-#### Artikel 2
+##### Artikel 2
 
 Het archief van het Centrum is onschendbaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In het kader van zijn officiële werkzaamheden geniet het Centrum immuniteit van jurisdictie en van executie behalve:
 
@@ -478,7 +503,7 @@ Het archief van het Centrum is onschendbaar.
 
 3. Onder voorbehoud van lid 1 kunnen de eigendommen en bezittingen van het Centrum, ongeacht waar deze zich bevinden, niet worden getroffen door enige administratieve of voorlopige gerechtelijke dwangmaatregel, zoals vordering, inbeslagneming, onteigening of conservatoir beslag, tenzij een dergelijke maatregel tijdelijk noodzakelijk is ter voorkoming van ongevallen waarbij een voertuig toebehorend aan het Centrum of rijdend voor rekening daarvan is betrokken, dan wel om onderzoekingen mogelijk te maken waartoe die ongevallen aanleiding kunnen geven.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In het kader van zijn officiële werkzaamheden is het Centrum, alsmede zijn eigendommen en inkomsten, vrijgesteld van alle directe belastingen.
 
@@ -486,29 +511,29 @@ Het archief van het Centrum is onschendbaar.
 
 3. Geen vrijstelling wordt verleend van belastingen, rechten en heffingen die in feite een eenvoudige vergoeding zijn voor diensten van openbaar nut.
 
-#### Artikel 5
+##### Artikel 5
 
 De door het Centrum ingevoerde of uitgevoerde goederen welke strikt noodzakelijk zijn voor het verrichten van zijn officiële werkzaamheden, zijn vrijgesteld van alle douanerechten, belastingen of heffingen en van alle douaneheffingen, met uitzondering van die welke in feite een eenvoudige vergoeding zijn voor verleende diensten. Deze goederen zijn eveneens vrijgesteld van alle in- en uitvoerverboden en -beperkingen. De Lidstaten nemen in het kader van hun onderscheiden bevoegdheden alle dienstige maatregelen voor een zo vlot mogelijk verloop van de douanebehandeling van deze goederen.
 
-#### Artikel 6
+##### Artikel 6
 
 Geen vrijstelling wordt verleend uit hoofde van Artikel 4 of Artikel 5 wat betreft de aankoop en invoer van goederen welke bestemd zijn ter voorziening in de persoonlijke behoeften van de personeelsleden van het Centrum of van de deskundigen in de zin van Artikel 14.
 
-#### Artikel 7
+##### Artikel 7
 
 Goederen die zijn verkregen overeenkomstig Artikel 4 of ingevoerd overeenkomstig Artikel 5, mogen slechts worden verkocht, overgedragen of verhuurd onder de voorwaarden die zijn neergelegd in de voorschriften van de Staat die de vrijstellingen heeft verleend.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het Centrum kan alle fondsen of deviezen ontvangen en in bezit hebben. Het kan daarover voor het verrichten van zijn officiële werkzaamheden vrijelijk beschikken en rekeningen aanhouden in ongeacht welke valuta voor zover zulks nodig is voor het nakomen van zijn verplichtingen.
 
 2. In het kader van zijn officiële werkzaamheden en onverminderd lid 1, kan het Centrum eveneens waardepapieren ontvangen, in bezit hebben en daarover beschikken, onder voorbehoud van de voorschriften op het gebied van de deviezenregeling die in de betrokken Lidstaat eventueel op de andere intergouvernementele organisaties van toepassing zijn.
 
-#### Artikel 9
+##### Artikel 9
 
 Voor de verspreiding van de in het kader van zijn officiële werkzaamheden door het Centrum verzonden of aan hem gerichte publikaties en ander voorlichtingsmateriaal geldt geen enkele beperking.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Voor de toezending van gegevens in het kader van zijn officiële werkzaamheden geniet het Centrum op het grondgebied van iedere Lidstaat een even gunstige behandeling als die welke deze Staat verleent aan zijn nationale meteorologische dienst, rekening houdend met internationale verbintenissen van deze Staat op het gebied van de telecommunicatie.
 
@@ -516,11 +541,11 @@ Voor de verspreiding van de in het kader van zijn officiële werkzaamheden door 
 
 3. Op de officiële mededelingen van het Centrum mag, ongeacht langs welke weg zij worden gedaan, geen censuur worden uitgeoefend.
 
-#### Artikel 11
+##### Artikel 11
 
 De Lidstaten treffen alle dienstige maatregelen ter vergemakkelijking van de binnenkomst, het verblijf en het vertrek van de vertegenwoordigers van de Lidstaten, van de personeelsleden van het Centrum en van de deskundigen in de zin van Artikel 14.
 
-#### Artikel 12
+##### Artikel 12
 
 De aan de werkzaamheden van de organen en comités van het Centrum deelnemende vertegenwoordigers van de Lidstaten genieten gedurende de uitoefening van hun functie en op hun reizen naar en van de plaatsen van bijeenkomst de volgende voorrechten, immuniteiten en faciliteiten:
 
@@ -534,7 +559,7 @@ De aan de werkzaamheden van de organen en comités van het Centrum deelnemende v
 
 - e). dezelfde douanefaciliteiten met betrekking tot hun persoonlijke en dezelfde voorrechten met betrekking tot monetaire voorschriften en deviezenregelingen als die welke worden verleend aan de vertegenwoordigers van buitenlandse Regeringen die met een tijdelijke officiële missie zijn belast.
 
-#### Artikel 13
+##### Artikel 13
 
 Binnen de in dit Protocol genoemde grenzen genieten de personeelsleden van het Centrum de volgende voorrechten, immuniteiten en faciliteiten:
 
@@ -552,7 +577,7 @@ Binnen de in dit Protocol genoemde grenzen genieten de personeelsleden van het C
 
 - g). het recht, wanneer zij in de betrokken Staat hun functie aanvaarden krachtens een verbintenis voor de duur van ten minste een jaar, hun meubelen en hun persoonlijke bezittingen vrij van rechten in te voeren, en het recht hun meubelen en hun persoonlijke bezittingen na beëindiging van hun functie in genoemde Staat vrij van rechten uit te voeren, in beide gevallen behoudens de voorwaarden die noodzakelijk worden geacht door de Regering van de Staat op het grondgebied waarvan dit recht wordt uitgeoefend, en met uitzondering van de in die Staat verkregen goederen waarvoor in die Staat een uitvoerverbod bestaat.
 
-#### Artikel 14
+##### Artikel 14
 
 De niet tot het personeel behorende deskundigen die functies bij het Centrum uitoefenen of die missies voor het Centrum uitvoeren, gemeten gedurende de uitoefening van hun functies of tijdens hun missies alsmede tijdens de in het kader van deze functies of missies gemaakte reizen, de volgende voorrechten, immuniteiten en faciliteiten, voor zover deze noodzakelijk zijn voor de uitoefening van hun functies, of voor de uitvoering van hun missies:
 
@@ -562,25 +587,25 @@ De niet tot het personeel behorende deskundigen die functies bij het Centrum uit
 
 - c). dezelfde douanefaciliteiten met betrekking tot hun persoonlijke bagage en dezelfde voorrechten met betrekking tot monetaire voorschriften en deviezenregelingen als die welke worden verleend aan door buitenlandse regeringen gezonden personen die met een tijdelijke officiële missie zijn belast.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Met inachtneming van de voorwaarden en volgens de procedure zoals die door de Raad binnen een tijdvak van één jaar, te rekenen van de datum van inwerkingtreding van de Conventie, zijn vastgesteld overeenkomstig de procedure van artikel 6(2), daarvan, zijn de personeelsleden van het Centrum, ten gunste van het Centrum, binnen de in dit protocol genoemde grenzen onderworpen aan een belasting op door het Centrum betaalde salarissen, lonen en emolumenten. Met ingang van de datum waarop die belasting van toepassing wordt, zijn deze salarissen, lonen en emolumenten vrijgesteld van de nationale inkomstenbelasting; de Lidstaten behouden zich de mogelijkheid voor rekening te houden met deze salarissen, lonen en emolumenten bij de berekening van de belasting die geheven wordt op inkomsten uit andere bronnen.
 
 2. Lid 1 geldt niet voor de door het Centrum verstrekte pensioenen en soortgelijke uitkeringen.
 
-#### Artikel 16
+##### Artikel 16
 
 Geen enkele Lidstaat is verplicht de in artikel 12, artikel 13(b), (e), (f), (g), en artikel 14(c), genoemde voorrechten en immuniteiten te verlenen aan zijn Vertegenwoordigers, zijn onderdanen of aan de personen die bij hun indiensttreding bij het Centrum hun vaste woonplaats in die Staat hebben.
 
-#### Artikel 17
+##### Artikel 17
 
 Overeenkomstig de procedure van artikel 6(3)(o), van de Conventie bepaalt de Raad, op welke categorieën van personeelsleden de artikelen 13 en 15 geheel of ten dele van toepassing zijn, alsmede op welke categorieën van deskundigen artikel 14 van toepassing is. De namen, hoedanigheden en adressen van de personen die onder deze categorieën zijn begrepen, worden op gezette tijden ter kennis van de Lidstaten gebracht.
 
-#### Artikel 18
+##### Artikel 18
 
 Ingeval het Centrum zijn eigen stelsel van sociale zekerheid vaststelt of zich aansluit bij dat van een andere internationale organisatie onder de voorwaarden van het statuut van het personeel, genieten het Centrum en zijn personeelsleden vrijstelling van alle verplichte bijdragen aan nationale organen van sociale zekerheid, onder voorbehoud van de hiertoe overeenkomstig de voorwaarden van Artikel 22 te sluiten overeenkomsten met de betrokken Lidstaten.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De bij dit protocol verleende voorrechten, immuniteiten en faciliteiten worden uitsluitend toegekend in het belang van het Centrum en van de Lidstaten en niet voor het persoonlijk voordeel der begunstigden.
 
@@ -594,21 +619,21 @@ Ingeval het Centrum zijn eigen stelsel van sociale zekerheid vaststelt of zich a
 
 - -. de Directeur-Generaal, wat betreft de overige personeelsleden en de deskundigen in de zin van Artikel 14.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het Centrum onderhoudt een bestendige samenwerking met de bevoegde autoriteiten van de Lidstaten, ten einde een goede rechtsbedeling te vergemakkelijken, de naleving van de politievoorschriften, de voorschriften inzake de volksgezondheid en de arbeidsinspectie alsmede soortgelijke wetten te waarborgen, en misbruik van de bij dit protocol verleende voorrechten, immuniteiten en faciliteiten te verhinderen.
 
 2. De wijze van samenwerking kan in de in Artikel 22 genoemde aanvullende overeenkomsten nader worden bepaald.
 
-#### Artikel 21
+##### Artikel 21
 
 De bepalingen van dit protocol mogen geen afbreuk doen aan het recht van iedere Lidstaat, alle in het belang van zijn veiligheid nodige voorzorgen te nemen.
 
-#### Artikel 22
+##### Artikel 22
 
 Het Centrum kan, wanneer de Raad daartoe met eenparigheid van stemmen besluit, met iedere Lidstaat aanvullende overeenkomsten aangaan met het oog op de tenuitvoerlegging van dit protocol, alsmede andere regelingen treffen om het goed functioneren van het Centrum en de vrijwaring van zijn belangen te waarborgen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het Centrum is verplicht in alle schriftelijke contracten - behalve in de overeenkomstig het statuut van het personeel gesloten contracten -, waarbij het partij is en die betrekking hebben op gebieden, waarvoor het immuniteit van jurisdictie geniet, een arbitrageclausule op te nemen krachtens welke elk geschil in verband met de uitlegging of uitvoering van het contract, op verzoek van één der partijen, aan arbitrage zal worden onderworpen.
 
@@ -618,7 +643,7 @@ Het Centrum kan, wanneer de Raad daartoe met eenparigheid van stemmen besluit, m
 
 4. De uitvoering van deze scheidsrechterlijke uitspraak geschiedt volgens de voorschriften die gelden in de Staat op het grondgebied waarvan zij plaatsvindt.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Elke Lidstaat kan aan het in Artikel 17 van de Conventie bedoelde scheidsgerecht ieder geschil voorleggen waarbij:
 
@@ -634,7 +659,7 @@ Het Centrum kan, wanneer de Raad daartoe met eenparigheid van stemmen besluit, m
 
 4. De uitspraak van het scheidsgerecht is definitief en niet vatbaar voor beroep; de partijen moeten zich eraan houden. In geval van onenigheid over betekenis of draagwijdte van de uitspraak dient het scheidsgerecht haar op verzoek van een der partijen uit te leggen.
 
-#### Artikel 25
+##### Artikel 25
 
 In de zin van dit protocol:
 
@@ -642,6 +667,6 @@ In de zin van dit protocol:
 
 - b). is in de uitdrukking „personeelsleden”, de Directeur-Generaal van het Centrum begrepen.
 
-#### Artikel 26
+##### Artikel 26
 
 Dit protocol moet worden uitgelegd in het licht van zijn wezenlijke doelstelling, te weten het Centrum in staat te stellen zijn taak volledig en doelmatig te vervullen en de bij de Conventie aan het Centrum opgedragen functies uit te oefenen.

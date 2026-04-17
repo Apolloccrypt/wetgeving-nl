@@ -1,13 +1,37 @@
 ---
 title: "Overdracht pensioenkapitaal – waarde-overdracht pensioenrechten bij het 4%-circuit/pensioenbreuk"
 identifier: "BWBR0006649"
-categorie: "Bestuursrecht"
-publicatiedatum: 1994-04-30
-laatste_update: 1994-04-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006649"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1994-04-30"
+last_updated: "1994-04-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006649"
+soort: "beleidsregel"
+stam_id: "8402373"
+version_id: "13275062"
+internal_id: "C17845381"
+label_id: "8383124"
+dtd_version: "2.0"
+original_entry_into_force: "1994-04-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006649/1994-04-30/0"
+intitule_bron: "Infob.1994-338"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-04-30"
+intitule_published: "1994-01-01"
+intitule_in_force: "1994-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1994-338"
+original_signed_date: "1994-04-30"
+original_published_date: "1994-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-04-30"
+jci_1_3: "jci1.3:c:BWBR0006649&z=1994-04-30&g=1994-04-30"
+jci_1_0: "1.0:c:BWBR0006649&g=1994-04-30"
+citeertitel_status: "redactioneel"
+signed_date: "1994-04-30"
+entry_into_force: "1994-04-30"
 ---
-
 # Overdracht pensioenkapitaal – waarde-overdracht pensioenrechten bij het 4%-circuit/pensioenbreuk
 
 De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.

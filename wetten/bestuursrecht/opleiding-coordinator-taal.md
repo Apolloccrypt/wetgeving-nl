@@ -1,13 +1,36 @@
 ---
 title: "Opleiding coördinator taal"
 identifier: "BWBR0012309"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-03-21
-laatste_update: 2001-03-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012309"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2001-03-21"
+last_updated: "2001-03-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012309"
+soort: "beleidsregel"
+stam_id: "6483093"
+version_id: "11162252"
+internal_id: "C15084501"
+label_id: "6471864"
+original_entry_into_force: "2001-03-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012309/2001-03-21/0"
+intitule_bron: "Uitleg.2001-8"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-03-09"
+intitule_published: "2001-03-21"
+intitule_in_force: "2001-03-21"
+intitule_status: "goed"
+original_publication: "Uitleg.2001-8"
+original_signed_date: "2001-03-09"
+original_published_date: "2001-03-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-03-21"
+jci_1_3: "jci1.3:c:BWBR0012309&z=2001-03-21&g=2001-03-21"
+jci_1_0: "1.0:c:BWBR0012309&g=2001-03-21"
+citeertitel_status: "redactioneel"
+signed_date: "2001-03-09"
+entry_into_force: "2001-03-21"
 ---
-
 # Opleiding coördinator taal
 
 ### Inleiding

@@ -1,13 +1,38 @@
 ---
 title: "Protocol inzake de voorbereiding op, de bestrijding van en de samenwerking bij voorvallen van verontreiniging door gevaarlijke en schadelijke stoffen van 2000"
 identifier: "BWBV0004763"
-categorie: "Internationaal recht"
-publicatiedatum: 2007-06-14
-laatste_update: 2000-03-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004763"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-06-14"
+last_updated: "2000-03-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004763"
+soort: "verdrag"
+stam_id: "10004304303"
+version_id: "10004503482"
+internal_id: "C10006992761"
+label_id: "10004289624"
+dtd_version: "2.0"
+original_entry_into_force: "2007-06-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004763/2007-06-14/0"
+intitule_bron: "Trb.2001-167"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-10-22"
+intitule_published: "2001-10-08"
+intitule_in_force: "2006-09-26"
+intitule_status: "goed"
+original_publication: "Trb.2001-167"
+original_signed_date: "2002-10-22"
+original_published_date: "2001-10-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2001-167"
+entry_into_force_date: "2007-06-14"
+jci_1_3: "jci1.3:c:BWBV0004763&z=2007-06-14&g=2007-06-14"
+jci_1_0: "1.0:c:BWBV0004763&g=2007-06-14"
+citeertitel_status: "officieel"
+signed_date: "2002-10-22"
+entry_into_force: "2007-06-14"
 ---
-
 # Protocol inzake de voorbereiding op, de bestrijding van en de samenwerking bij voorvallen van verontreiniging door gevaarlijke en schadelijke stoffen van 2000
 
 De Partijen bij dit Protocol,
@@ -26,7 +51,7 @@ Tevens indachtig het feit dat, bij een voorval van verontreiniging door gevaarli
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Algemene bepalingen
+##### Artikel 1. Algemene bepalingen
 
 1. De Partijen verplichten zich, afzonderlijk of gezamenlijk, alle passende maatregelen te nemen, in overeenstemming met de bepalingen van dit Protocol en de Bijlage daarbij, ter voorbereiding op en ter bestrijding van een voorval van verontreiniging door gevaarlijke en schadelijke stoffen.
 
@@ -34,7 +59,7 @@ Zijn het volgende overeengekomen:
 
 3. Dit Protocol is niet van toepassing op oorlogsschepen, marinehulpschepen of andere schepen in eigendom van of in beheer bij een Staat, die tijdelijk uitsluitend worden ingezet voor niet-commerciële overheidsdienst. Elke Partij waarborgt evenwel, door het nemen van passende maatregelen die de werkzaamheden of de operationele kwaliteiten van dergelijke schepen in haar eigendom of beheer niet aantasten, dat dergelijke schepen, voor zover redelijk en uitvoerbaar, opereren in overeenstemming met dit Protocol.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Protocol:
 
@@ -50,7 +75,7 @@ Voor de toepassing van dit Protocol:
 
 - 6. wordt onder OPRC-Verdrag verstaan: het [Internationaal Verdrag inzake de voorbereiding op, de bestrijding van en de samenwerking bij olieverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBV0002364) van 1990.
 
-#### Artikel 3. Rampenplannen en melding
+##### Artikel 3. Rampenplannen en melding
 
 1. Elke Partij verlangt dat schepen die gerechtigd zijn om onder haar vlag te varen, een rampenplan voor voorvallen van verontreiniging aan boord hebben en verlangt dat gezagvoerders of anderen die het gezag voeren over zulke schepen in de vereiste mate meldingsprocedures volgen. Zowel de vereisten voor rampenplannen als de meldingsprocedures dienen in overeenstemming te zijn met de toepasselijke bepalingen van de binnen de Organisatie ontwikkelde verdragen die voor die Partij in werking zijn getreden. Rampenplannen voor voorvallen van verontreiniging aan boord voor offshore-installaties, met inbegrip van drijvende inrichtingen voor productie, opslag en lossen en drijvende inrichtingen voor opslag, moeten worden geregeld door nationale bepalingen en/of bedrijfsinterne milieuzorgsystemen, en zijn uitgezonderd van de toepassing van dit artikel.
 
@@ -58,7 +83,7 @@ Voor de toepassing van dit Protocol:
 
 3. Wanneer de desbetreffende autoriteiten van een Partij kennis nemen van een voorval van verontreiniging, doen zij hiervan mededeling aan andere Staten waarvan de belangen waarschijnlijk door dat voorval worden aangetast.
 
-#### Artikel 4. Nationale en regionale systemen voor voorbereiding en bestrijding
+##### Artikel 4. Nationale en regionale systemen voor voorbereiding en bestrijding
 
 1. Elke Partij zet een nationaal systeem op om voorvallen van verontreiniging onmiddellijk en doeltreffend te kunnen bestrijden. Dit systeem omvat ten minste:
 
@@ -90,7 +115,7 @@ Voor de toepassing van dit Protocol:
 
 - c. haar nationale rampenplan.
 
-#### Artikel 5. Internationale samenwerking bij de bestrijding van verontreiniging
+##### Artikel 5. Internationale samenwerking bij de bestrijding van verontreiniging
 
 1. De Partijen komen overeen dat zij, voor zover zulks in hun vermogen ligt en de desbetreffende middelen beschikbaar zijn, op verzoek van een Partij die is of waarschijnlijk zal worden getroffen, samenwerken, advies geven, technische bijstand verlenen en uitrusting leveren ten behoeve van het bestrijden van een voorval van verontreiniging, wanneer de ernst van het voorval zulks rechtvaardigt. De financiering van de kosten van die bijstand geschiedt op grond van de bepalingen vervat in de Bijlage bij dit Protocol.
 
@@ -102,7 +127,7 @@ Voor de toepassing van dit Protocol:
 
 - b. de vlotte verplaatsing naar, via en vanuit haar grondgebied van personeel, vrachten, materiaal en apparatuur, bedoeld onder letter a.
 
-#### Artikel 6. Onderzoek en ontwikkeling
+##### Artikel 6. Onderzoek en ontwikkeling
 
 1. De Partijen komen overeen, rechtstreeks of, indien van toepassing, via de Organisatie of de desbetreffende regionale organisaties of regelingen, samen te werken bij de bevordering van onderzoeks- en ontwikkelingsprogramma's en de uitwisseling van resultaten daarvan, met betrekking tot de verbetering van de stand der techniek op het gebied van de voorbereiding op en de bestrijding van voorvallen van verontreiniging, met inbegrip van technologieën en technieken voor toezicht, indamming, terugwinning, verspreiding, opruiming en het anderszins beperken of verzachten van de gevolgen van voorvallen van verontreiniging, alsmede voor herstel.
 
@@ -112,7 +137,7 @@ Voor de toepassing van dit Protocol:
 
 4. De Partijen komen overeen om via de Organisatie of andere bevoegde internationale organisaties het opstellen van normen voor onderling verenigbare technieken en apparatuur voor bestrijding van verontreiniging door gevaarlijke en schadelijke stoffen te stimuleren.
 
-#### Artikel 7. Technische samenwerking
+##### Artikel 7. Technische samenwerking
 
 1. De Partijen verplichten zich rechtstreeks of, indien van toepassing, via de Organisatie en andere internationale organen, wat betreft de voorbereiding op en de bestrijding van voorvallen van verontreiniging, steun te verlenen aan Partijen die verzoeken om technische bijstand:
 
@@ -126,15 +151,15 @@ Voor de toepassing van dit Protocol:
 
 2. De Partijen verplichten zich actief samen te werken, met inachtneming van hun nationale wetten, voorschriften en beleidslijnen, bij de overdracht van technologie op het gebied van de voorbereiding op en de bestrijding van voorvallen van verontreiniging.
 
-#### Artikel 8. Bevordering van bilaterale en multilaterale samenwerking bij de voorbereiding en bestrijding
+##### Artikel 8. Bevordering van bilaterale en multilaterale samenwerking bij de voorbereiding en bestrijding
 
 De Partijen streven ernaar bilaterale en multilaterale overeenkomsten te sluiten voor de voorbereiding op en de bestrijding van voorvallen van verontreiniging. Afschriften van dergelijke overeenkomsten worden toegezonden aan de Organisatie, die deze op verzoek aan de Partijen ter beschikking stelt.
 
-#### Artikel 9. Verhouding tot andere verdragen en internationale overeenkomsten
+##### Artikel 9. Verhouding tot andere verdragen en internationale overeenkomsten
 
 Niets in dit Protocol mag zodanig worden geïnterpreteerd dat daardoor de rechten of verplichtingen van een Partij uit hoofde van enig ander verdrag of enige andere internationale overeenkomst worden gewijzigd.
 
-#### Artikel 10. Institutionele regelingen
+##### Artikel 10. Institutionele regelingen
 
 1. De Partijen dragen de Organisatie op, behoudens haar instemming en de beschikbaarheid van voldoende middelen om dit te doen, om de volgende taken en werkzaamheden te verrichten:
 
@@ -168,11 +193,11 @@ Niets in dit Protocol mag zodanig worden geïnterpreteerd dat daardoor de rechte
 
 3. De bepalingen van dit artikel worden toegepast in overeenstemming met een door de Organisatie op te stellen en te toetsen programma.
 
-#### Artikel 11. Evaluatie van het Protocol
+##### Artikel 11. Evaluatie van het Protocol
 
 De Partijen evalueren binnen de Organisatie de doeltreffendheid van het Protocol in het licht van de doelstellingen ervan, in het bijzonder met betrekking tot de beginselen die ten grondslag liggen aan de samenwerking en de bijstand.
 
-#### Artikel 12. Wijzigingen
+##### Artikel 12. Wijzigingen
 
 1. Dit Protocol kan worden gewijzigd door middel van een der in de volgende leden genoemde procedures.
 
@@ -226,7 +251,7 @@ wordt behandeld als niet-Partij, zulks slechts ten behoeve van de toepassing van
 
 8. Een aanhangsel bij het Protocol bevat alleen bepalingen van technische aard.
 
-#### Artikel 13. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 13. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Protocol staat van 15 maart 2000 tot en met 14 maart 2001 open voor ondertekening op de zetel van de Organisatie en blijft daarna openstaan voor toetreding. Elke Staat die Partij is bij het [OPRC-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002364) kan Partij worden bij dit Protocol door:
 
@@ -238,13 +263,13 @@ wordt behandeld als niet-Partij, zulks slechts ten behoeve van de toepassing van
 
 2. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal.
 
-#### Artikel 14. Staten met meer dan één rechtsstelsel
+##### Artikel 14. Staten met meer dan één rechtsstelsel
 
 1. Indien een Staat die Partij is bij het [OPRC-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002364) twee of meer territoriale eenheden omvat waarin verschillende rechtsstelsels van toepassing zijn inzake aangelegenheden waarop dit Protocol betrekking heeft, kan hij op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat de werking van dit Protocol zich uitstrekt tot al zijn territoriale eenheden of slechts tot een of meer daarvan tot welke de toepassing van het OPRC-Verdrag wordt uitgebreid, en kan hij deze verklaring te allen tijde wijzigen door het indienen van een andere verklaring.
 
 2. Van deze verklaringen wordt schriftelijk kennisgegeven aan de depositaris en zij vermelden uitdrukkelijk de territoriale eenheid of eenheden waarop het Protocol van toepassing is. In het geval van wijziging vermeldt de verklaring uitdrukkelijk de territoriale eenheid of eenheden tot welke de toepassing van het Protocol wordt uitgebreid en de datum waarop deze uitbreiding van kracht wordt.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 1. Dit Protocol treedt in werking twaalf maanden na de datum waarop ten minste vijftien Staten het zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring hebben ondertekend of de vereiste akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd in overeenstemming met artikel 13.
 
@@ -254,7 +279,7 @@ wordt behandeld als niet-Partij, zulks slechts ten behoeve van de toepassing van
 
 4. Na de datum waarop een wijziging van dit Protocol wordt geacht te zijn aanvaard ingevolge artikel 12, heeft elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding betrekking op dit Protocol zoals gewijzigd.
 
-#### Artikel 16. Opzegging
+##### Artikel 16. Opzegging
 
 1. Dit Protocol kan te allen tijde door elke Partij worden opgezegd na het verstrijken van vijf jaar na de datum waarop dit Protocol voor die Partij in werking treedt.
 
@@ -264,7 +289,7 @@ wordt behandeld als niet-Partij, zulks slechts ten behoeve van de toepassing van
 
 4. Een Partij die het [OPRC-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002364) opzegt, zegt tevens automatisch het Protocol op.
 
-#### Artikel 17. Depositaris
+##### Artikel 17. Depositaris
 
 1. Dit Protocol wordt nedergelegd bij de Secretaris-Generaal.
 
@@ -284,11 +309,11 @@ wordt behandeld als niet-Partij, zulks slechts ten behoeve van de toepassing van
 
 3. Zodra dit Protocol in werking treedt, wordt een voor eensluidend gewaarmerkt afschrift daarvan door de depositaris toegezonden aan de Secretaris-Generaal van de Verenigde Naties ter registratie en publicatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 18. Talen
+##### Artikel 18. Talen
 
 Dit Protocol is opgesteld in een enkel exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 
-#### 1
+##### 1
 
 - a. Tenzij voorafgaand aan het voorval van verontreiniging een bilaterale of multilaterale overeenkomst is gesloten inzake de financiële regelingen aangaande het optreden van Partijen ter bestrijding van voorvallen van verontreiniging, dragen de Partijen de kosten van hun onderscheiden optreden bij de bestrijding van verontreiniging in overeenstemming met het bepaalde in punt i of punt ii.
 
@@ -298,15 +323,15 @@ Dit Protocol is opgesteld in een enkel exemplaar in de Arabische, de Chinese, de
 
 - b. Tenzij de betrokken Partijen in een afzonderlijk geval anders zijn overeengekomen, zijn de in letter a vervatte beginselen van toepassing.
 
-#### 2
+##### 2
 
 Tenzij anders is overeengekomen, worden de kosten van optreden door een Partij op verzoek van een andere Partij op billijke wijze berekend overeenkomstig het recht en de geldende praktijk van de hulpverlenende Partij, betreffende de vergoeding van dergelijke kosten.
 
-#### 3
+##### 3
 
 De Partij die om hulp verzoekt en de hulpverlenende Partij werken, indien van toepassing, samen bij de afhandeling van een vordering naar aanleiding van een aanspraak op vergoeding. Daartoe schenken zij de nodige aandacht aan bestaande rechtsregimes. Wanneer de aldus afgehandelde vordering niet leidt tot volledige vergoeding van de met de hulp gemoeide uitgaven, kan de Partij die om de hulp verzoekt de hulpverlenende Partij vragen af te zien van aanspraak op terugbetaling van uitgaven die de vergoeding overstijgen, of vragen om verlaging van de in overeenstemming met het tweede lid berekende kosten. Zij kan ook verzoeken om uitstel van vergoeding van bedoelde kosten. Bij de behandeling van een dergelijk verzoek schenkt de hulpverlenende Partij de nodige aandacht aan de behoeften van de ontwikkelingslanden.
 
-#### 4
+##### 4
 
 De bepalingen van dit Protocol mogen niet zodanig worden geïnterpreteerd dat daardoor afbreuk wordt gedaan aan de rechten van Partijen betreffende het op derden verhalen van de kosten van maatregelen naar aanleiding van verontreiniging of de dreiging van verontreiniging, zulks uit hoofde van andere toepasselijke bepalingen en regels van nationaal en internationaal recht.
 

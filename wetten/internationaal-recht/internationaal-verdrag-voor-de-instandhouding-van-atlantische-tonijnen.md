@@ -1,28 +1,50 @@
 ---
 title: "Internationaal Verdrag voor de instandhouding van Atlantische tonijnen"
 identifier: "BWBV0006284"
-categorie: "Internationaal recht"
-publicatiedatum: 2014-02-06
-laatste_update: 2014-02-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006284"
+country: "nl"
+rank: "verdrag"
+publication_date: "2014-02-06"
+last_updated: "2014-02-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006284"
+soort: "verdrag"
+stam_id: "10005135753"
+version_id: "10005490632"
+internal_id: "C10008577541"
+label_id: "10005118764"
+dtd_version: "2.0"
+original_entry_into_force: "2014-02-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006284/2014-02-06/0"
+intitule_bron: "Trb.2013-203"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-10-24"
+intitule_in_force: "2014-04-11"
+intitule_status: "goed"
+original_publication: "Trb.2013-203"
+original_published_date: "2013-10-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2013-203"
+entry_into_force_date: "2014-02-06"
+jci_1_3: "jci1.3:c:BWBV0006284&z=2014-02-06&g=2014-02-06"
+jci_1_0: "1.0:c:BWBV0006284&g=2014-02-06"
+citeertitel_status: "redactioneel"
+entry_into_force: "2014-02-06"
 ---
-
 # Internationaal Verdrag voor de instandhouding van Atlantische tonijnen
 
 Preambule
 
 De regeringen waarvan de naar behoren gemachtigde vertegenwoordigers dit Verdrag hebben onderschreven, rekening houdend met hun wederzijds belang in de populaties van tonijnen en tonijnachtigen aangetroffen in de Atlantische Oceaan, en verlangend samen te werken om deze vispopulaties op een peil te houden dat maximale duurzame vangst voor voeding en andere doeleinden mogelijk maakt, hebben besloten een Verdrag voor de instandhouding van de bestanden van Atlantische tonijnen en tonijnachtigen te sluiten en zijn daartoe het volgende overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 Het gebied waarop dit Verdrag van toepassing is, hierna te noemen „het verdragsgebied”, omvat alle wateren van de Atlantische Oceaan, met inbegrip van de aangrenzende zeeën.
 
-#### Artikel II
+##### Artikel II
 
 Geen enkele bepaling van dit Verdrag wordt geacht afbreuk te doen aan de rechten, aanspraken of standpunten van enige verdragsluitende partij met betrekking tot de grenzen van de territoriale wateren of de omvang van de rechtsmacht inzake visserij overeenkomstig het internationale recht.
 
-#### Artikel III
+##### Artikel III
 
 1. De verdragsluitende partijen besluiten hierbij tot de oprichting en de instandhouding van een commissie, de Internationale Commissie voor de instandhouding van Atlantische tonijnen (hierna te noemen „de Commissie”), die tot taak heeft de doelstellingen van dit Verdrag te verwezenlijken.
 
@@ -42,7 +64,7 @@ Geen enkele bepaling van dit Verdrag wordt geacht afbreuk te doen aan de rechten
 
 9. De Commissie brengt aan de verdragsluitende partijen om de twee jaar een verslag uit over haar werkzaamheden en conclusies en verstrekt elke verdragsluitende partij desgevraagd informatie over elke aangelegenheid die betrekking heeft op de doelstellingen van dit Verdrag.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Om de doelstellingen van dit Verdrag te verwezenlijken, wordt de Commissie belast met het onderzoek naar de populaties van tonijnen en tonijnachtigen (Scombriformes, met uitzondering van de families Trichiuridae en Gempylidae en van het geslacht Scomber), en naar de andere vissoorten die bij het vissen op tonijn in het verdragsgebied worden gevangen, maar geen onderwerp van onderzoek in het kader van een andere internationale visserijorganisatie zijn. Dit onderzoek heeft onder meer betrekking op getalsterkte, biometrie en ecologie van vispopulaties, de oceanografie van hun milieu en de effecten van natuurlijke en menselijke factoren op hun getalsterkte. Bij het vervullen van haar taken maakt de Commissie voor zover mogelijk gebruik van de wetenschappelijke en technische diensten van de officiële organen van de verdragsluitende partijen en de staatkundige onderdelen daarvan, alsmede van de door deze organen verstrekte gegevens, en kan zij indien gewenst gebruikmaken van de diensten of gegevens van openbare of particuliere instellingen, organisaties, of particulieren, en tevens binnen de grenzen van haar begroting onafhankelijk onderzoek verrichten ter aanvulling van het onderzoek dat wordt uitgevoerd door regeringen, nationale instellingen of door andere internationale organisaties.
 
@@ -56,13 +78,13 @@ Geen enkele bepaling van dit Verdrag wordt geacht afbreuk te doen aan de rechten
 
 - d. het publiceren en anderszins verspreiden van rapporten over haar bevindingen en statistische, biologische en andere wetenschappelijke gegevens over de tonijnvisserij in het verdragsgebied.
 
-#### Artikel V
+##### Artikel V
 
 1. Binnen de Commissie wordt een Raad opgericht, die bestaat uit de voorzitter en de vicevoorzitters van de Commissie en de vertegenwoordigers van ten minste vier en ten hoogste acht verdragsluitende partijen. De in de Raad vertegenwoordigde verdragsluitende partijen worden tijdens elke gewone zitting van de Commissie gekozen. Indien er evenwel meer dan veertig verdragsluitende partijen zijn, mag de Commissie twee aanvullende verdragsluitende partijen kiezen die in de Raad vertegenwoordigd worden. De verdragsluitende partijen waarvan de voorzitter en de vicevoorzitters onderdanen zijn, mogen niet in de Raad worden gekozen. De Commissie houdt bij het kiezen van leden voor de Raad naar behoren rekening met de geografische situatie en de belangen van de verdragsluitende partijen op het gebied van de tonijnvisserij en -verwerking en met het feit dat de verdragsluitende partijen in gelijke mate recht hebben op vertegenwoordiging in de Raad.
 
 2. De Raad vervult de taken die hem krachtens dit Verdrag of door de Commissie worden toegewezen. De Raad vergadert ten minste éénmaal in de periode tussen twee gewone zittingen van de Commissie. Tussen twee zittingen van de Commissie neemt de Raad de nodige besluiten ten aanzien van de door het personeel uit te voeren taken en geeft hij de uitvoerend secretaris de nodige instructies. De besluiten van de Raad worden genomen overeenkomstig door de Commissie vast te stellen regels.
 
-#### Artikel VI
+##### Artikel VI
 
 Om de doelstellingen van dit Verdrag te verwezenlijken, kan de Commissie werkgroepen per soort, groep soorten of geografisch gebied instellen. Elke werkgroep:
 
@@ -72,7 +94,7 @@ Om de doelstellingen van dit Verdrag te verwezenlijken, kan de Commissie werkgro
 
 - c. kan de Commissie aanbevelingen doen met betrekking tot studies en onderzoek waarmee gegevens kunnen worden verkregen over de soort, de groep soorten of het geografisch gebied, en met betrekking tot de coördinatie van de onderzoekprogramma’s van de verdragsluitende partijen.
 
-#### Artikel VII
+##### Artikel VII
 
 De Commissie benoemt een uitvoerend secretaris, die aanblijft zolang de Commissie zulks nodig acht. De uitvoerend secretaris is belast met de selectie en leiding van het personeel van de Commissie en neemt daarbij de door de Commissie vast te stellen regels en procedures in acht. De uitvoerend secretaris verricht tevens de volgende taken waarmee de Commissie hem kan belasten:
 
@@ -90,7 +112,7 @@ De Commissie benoemt een uitvoerend secretaris, die aanblijft zolang de Commissi
 
 - g. opstellen van de ter goedkeuring aan de Commissie voor te leggen wetenschappelijke, administratieve en andere rapporten van de Commissie en haar hulporganen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 - a. De Commissie kan op grond van wetenschappelijk bewijs aanbevelingen doen die erop gericht zijn de populaties van tonijn en tonijnachtigen die in het verdragsgebied kunnen worden gevangen, op een peil te houden dat maximale duurzame vangst mogelijk maakt. Deze aanbevelingen zijn op de verdragsluitende partijen van toepassing onder de in het tweede en derde lid van dit artikel vastgestelde voorwaarden.
 
@@ -122,7 +144,7 @@ De Commissie benoemt een uitvoerend secretaris, die aanblijft zolang de Commissi
 
 5. De Commissie stelt elke verdragsluitende partij onmiddellijk in kennis van de ontvangst van een bezwaar en van elke intrekking van een bezwaar, alsmede van de datum van inwerkingtreding van elke aanbeveling.
 
-#### Artikel IX
+##### Artikel IX
 
 1. De verdragsluitende partijen komen overeen alle nodige maatregelen te treffen om de handhaving van dit Verdrag te waarborgen. Elke verdragsluitende partij zendt de Commissie om de twee jaar, of telkens wanneer de Commissie daarom verzoekt, een verslag over de daartoe getroffen maatregelen.
 
@@ -134,7 +156,7 @@ De Commissie benoemt een uitvoerend secretaris, die aanblijft zolang de Commissi
 
 3. De verdragsluitende partijen verbinden zich ertoe met elkaar samen te werken om gepaste adequate maatregelen vast te stellen om de toepassing van de bepalingen van dit Verdrag te waarborgen en met name een internationaal controlesysteem in te stellen voor toepassing in het verdragsgebied, met uitzondering van de territoriale zee en eventuele andere wateren waar een staat op grond van het internationaal recht rechtsmacht over de visserij mag uitoefenen.
 
-#### Artikel X
+##### Artikel X
 
 1) Zoals gewijzigd bij het Protocol van Madrid, dat op 10 maart 2005 in werking trad.
 
@@ -162,7 +184,7 @@ De bijdragen zijn verschuldigd op 1 januari van het jaar waarop zij betrekking h
 
 11. De Commissie kan voor de uitvoering van haar werkzaamheden andere dan de in het tweede lid bedoelde bijdragen aanvaarden.
 
-#### Artikel XI
+##### Artikel XI
 
 1. De verdragsluitende partijen komen overeen dat er een werkrelatie tussen de Commissie en de Voedsel- en Landbouworganisatie van de Verenigde Naties dient te zijn. Daartoe zal de Commissie in onderhandeling treden met de Voedsel- en Landbouworganisatie van de Verenigde Naties om een overeenkomst ingevolge artikel XIII van het Statuut van de organisatie te sluiten.2)Zie het FAO-verdrag. In deze overeenkomst dient onder meer te worden bepaald dat de Directeur-Generaal van de Voedsel- en Landbouworganisatie van de Verenigde Naties een vertegenwoordiger aanwijst die zonder stemrecht deelneemt aan alle zittingen van de Commissie en haar hulporganen.
 
@@ -170,7 +192,7 @@ De bijdragen zijn verschuldigd op 1 januari van het jaar waarop zij betrekking h
 
 3. De Commissie kan elke relevante internationale organisatie en elke regering die geen lid is van de Commissie, maar wel van de Verenigde Naties of van een gespecialiseerde organisatie van de Verenigde Naties, uitnodigen waarnemers af te vaardigen naar de zittingen van de Commissie en haar hulporganen.
 
-#### Artikel XII
+##### Artikel XII
 
 1. Dit Verdrag blijft gedurende tien jaar van kracht en blijft daarna van kracht totdat een meerderheid van verdragsluitende partijen besluit het te beëindigen.
 
@@ -178,13 +200,13 @@ De bijdragen zijn verschuldigd op 1 januari van het jaar waarop zij betrekking h
 
 3. Elke andere verdragsluitende partij kan zich vervolgens per 31 december van hetzelfde jaar terugtrekken uit dit Verdrag; daartoe dient een schriftelijke kennisgeving van terugtrekking aan de Directeur-Generaal van de Voedsel- en Landbouworganisatie van de Verenigde Naties te worden gericht binnen één maand na de datum waarop zij van de Directeur-Generaal van de Voedsel- en Landbouworganisatie van de Verenigde Naties een bericht van terugtrekking heeft ontvangen, en in elk geval uiterlijk op 1 april van dat jaar.
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. Elke verdragsluitende partij of de Commissie mag wijzigingen van dit Verdrag voorstellen. De Directeur-Generaal van de Voedsel- en Landbouworganisatie van de Verenigde Naties zendt alle verdragsluitende partijen een gewaarmerkt afschrift van de tekst van elke voorgestelde wijziging. Elke wijziging die geen nieuwe verplichtingen tot gevolg heeft, treedt voor alle verdragsluitende partijen in werking op de dertigste dag na aanvaarding van de wijziging door drie vierde van de verdragsluitende partijen. Elke wijziging die nieuwe verplichtingen tot gevolg heeft, treedt voor elke verdragsluitende partij die de wijziging heeft aanvaard, in werking op de negentigste dag na aanvaarding van de wijziging door drie vierde van de verdragsluitende partijen, en voor elke andere verdragsluitende partij op het tijdstip waarop zij die wijziging aanvaardt. Elke wijziging die naar de mening van een of meer verdragsluitende partijen nieuwe verplichtingen tot gevolg heeft, wordt als zodanig beschouwd en treedt in werking zoals hierboven bepaald. Een regering die verdragsluitende partij wordt nadat een wijziging van dit Verdrag is voorgelegd voor aanvaarding overeenkomstig het bepaalde in dit artikel is door het gewijzigde Verdrag gebonden zodra de betrokken wijziging in werking treedt.
 
 2. Voorgestelde wijzigingen worden nedergelegd bij de Directeur-Generaal van de Voedsel- en Landbouworganisatie van de Verenigde Naties. De kennisgevingen van aanvaarding van de wijzigingen worden nedergelegd bij de Directeur-Generaal van de Voedsel- en Landbouworganisatie van de Verenigde Naties.
 
-#### Artikel XIV
+##### Artikel XIV
 
 3) Zoals gewijzigd bij het Protocol van Parijs, dat op 14 december 1997 in werking trad.
 
@@ -200,13 +222,13 @@ De bijdragen zijn verschuldigd op 1 januari van het jaar waarop zij betrekking h
 
 6. Zodra een organisatie als bedoeld in het vierde lid partij wordt bij dit Verdrag, zijn de lidstaten van die organisatie en de staten die in de toekomst tot die organisatie toetreden, niet langer partij bij het Verdrag; zij dienen een daartoe strekkende schriftelijke kennisgeving te richten aan de Directeur-Generaal van de Voedsel- en Landbouworganisatie van de Verenigde Naties.
 
-#### Artikel XV
+##### Artikel XV
 
 4) Zoals gewijzigd bij het Protocol van Parijs, dat op 14 december 1997 in werking trad.
 
 De Directeur-Generaal van de Voedsel- en Landbouworganisatie van de Verenigde Naties stelt alle regeringen bedoeld in [artikel XIV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006284&artikel=XIV&z=2014-02-06&g=2014-02-06), alsmede de organisaties bedoeld in artikel XIV, vierde lid, in kennis van de nederlegging van akten van bekrachtiging, goedkeuring en formele bevestiging van toetreding, alsmede van de inwerkingtreding van het Verdrag, de voorstellen voor wijziging, de kennisgevingen van aanvaarding van de wijzigingen, de inwerkingtreding van de wijzigingen en de kennisgevingen van terugtrekking.
 
-#### Artikel XVI
+##### Artikel XVI
 
 5) Zoals gewijzigd bij het Protocol van Parijs, dat op 14 december 1997 in werking trad.
 

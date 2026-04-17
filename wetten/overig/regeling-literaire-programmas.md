@@ -1,13 +1,35 @@
 ---
 title: "Regeling literaire programma’s"
 identifier: "BWBR0051906"
-categorie: "Overig"
-publicatiedatum: 2025-12-09
-laatste_update: 2025-12-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051906"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-12-09"
+last_updated: "2025-12-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051906"
+soort: "zbo"
+stam_id: "17659183"
+version_id: "31156352"
+internal_id: "C44579891"
+label_id: "17558824"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051906/2025-12-09/0"
+intitule_bron: "Stcrt.2025-39974"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-12-08"
+intitule_in_force: "2025-12-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-39974"
+original_published_date: "2025-12-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-39974"
+entry_into_force_date: "2025-12-09"
+jci_1_3: "jci1.3:c:BWBR0051906&z=2025-12-09&g=2025-12-09"
+jci_1_0: "1.0:c:BWBR0051906&g=2025-12-09"
+citeertitel_status: "officieel"
+entry_into_force: "2025-12-09"
 ---
-
 # Regeling literaire programma’s
 
 gelet op het bepaalde in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
@@ -20,7 +42,7 @@ Besluit:
 
 De volgende Regeling literaire programma's vast te stellen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -62,11 +84,11 @@ In deze regeling wordt verstaan onder:
 
 - **Randstad:** de stedelijke regio's Amsterdam, Den Haag, Rotterdam, Utrecht.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Met deze regeling wil het Letterenfonds literaire programma’s ondersteunen die een bijdrage leveren aan de kwaliteit en diversiteit van het literaire landschap en aan het vergroten van de toegankelijkheid en zichtbaarheid van literatuur en haar makers voor een breed publiek.
 
-#### Artikel 3. Activiteiten
+##### Artikel 3. Activiteiten
 
 1. Subsidie kan uitsluitend worden aangevraagd voor het organiseren van niet-commerciële literaire programma's in het Koninkrijk.
 
@@ -74,7 +96,7 @@ Met deze regeling wil het Letterenfonds literaire programma’s ondersteunen die
 
 3. De subsidieontvanger van een vierjarige subsidie op grond van de [regeling Vierjarige subsidies literaire organisaties Nederlands Letterenfonds 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0048979) of de [Regeling vierjarige subsidies literair-educatieve organisaties 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0048974) kan op grond van deze regeling slechts subsidie aanvragen voor programma’s die plaatsvinden in 2027 en 2028 mits het programma waarvoor subsidie wordt aangevraagd duidelijk is afgebakend van de activiteiten die naar het oordeel van het bestuur reeds worden gesubsidieerd op grond van de regeling Vierjarige subsidies literaire organisaties Nederlands Letterenfonds 2025–2028 of de regeling vierjarige subsidies literair-educatieve organisaties 2025–2028. Het maximaal aan te vragen bedrag is in dit geval € 20.000,– per jaar.
 
-#### Artikel 4. Aanvrager
+##### Artikel 4. Aanvrager
 
 1. Subsidie kan uitsluitend worden aangevraagd door een rechtspersoon zonder winstoogmerk met volledige rechtsbevoegdheid die literaire programma’s organiseert en/of uitvoert in het Koninkrijk.
 
@@ -82,7 +104,7 @@ Met deze regeling wil het Letterenfonds literaire programma’s ondersteunen die
 
 3. Een aanvrager kan per subsidieronde maximaal één aanvraag indienen.
 
-#### Artikel 5. Voorwaarden voor ondersteuning
+##### Artikel 5. Voorwaarden voor ondersteuning
 
 Ten aanzien van de in de sector gangbare codes geldt in deze regeling dat:
 
@@ -92,7 +114,7 @@ Ten aanzien van de in de sector gangbare codes geldt in deze regeling dat:
 
 - c. de aanvrager in de aanvraag beschrijft hoe hij zich verhoudt tot de Code Diversiteit en Inclusie.
 
-#### Artikel 6. Weigeringsgronden
+##### Artikel 6. Weigeringsgronden
 
 1. De subsidie wordt in ieder geval niet verleend indien:
 
@@ -116,13 +138,13 @@ Ten aanzien van de in de sector gangbare codes geldt in deze regeling dat:
 
 2. De subsidieontvanger van een vierjarige subsidie op grond van de [regeling Vierjarige subsidies literaire organisaties Nederlands Letterenfonds 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0048979) of de [Regeling vierjarige subsidies literair-educatieve organisaties 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0048974) komt niet in aanmerking voor een subsidie op grond van deze regeling voor projecten die plaatsvinden in het kalenderjaar 2026.
 
-#### Artikel 7. Aanvraagperiode
+##### Artikel 7. Aanvraagperiode
 
 1. Het bestuur behandelt de aanvragen in twee rondes per jaar;
 
 2. Het Letterenfonds publiceert de openings- en sluitingsdata van de subsidierondes, bedoeld in het eerste lid, in de Staatscourant en op de website.
 
-#### Artikel 8. Subsidieplafond
+##### Artikel 8. Subsidieplafond
 
 1. Het subsidieplafond bedraagt € 625.000 per jaar en wordt als volgt verdeeld:
 
@@ -134,7 +156,7 @@ De in onderdelen a en b genoemde bedragen gelden als deelsubsidieplafonds.
 
 2. Wijzigingen in de hoogte van een subsidieplafond of de verdeling over de aanvraagrondes, worden bekendgemaakt in de Staatscourant en op de website van het Letterenfonds.
 
-#### Artikel 9. Aanvraag
+##### Artikel 9. Aanvraag
 
 1. Een aanvraag voor subsidie wordt ingediend via de website van het Letterenfonds.
 
@@ -160,7 +182,7 @@ De in onderdelen a en b genoemde bedragen gelden als deelsubsidieplafonds.
 
 6. Aanvragen die op het moment van de deadline niet compleet zijn, worden niet in behandeling genomen.
 
-#### Artikel 10. Hoogte subsidiebedrag
+##### Artikel 10. Hoogte subsidiebedrag
 
 1. Het aan te vragen subsidiebedrag bedraagt minimaal € 10.000 en maximaal € 60.000.
 
@@ -168,7 +190,7 @@ De in onderdelen a en b genoemde bedragen gelden als deelsubsidieplafonds.
 
 3. Als de aanvrager is gevestigd in de Cariben, of als de aanvrager is gevestigd in Europees Nederland en voor een project aanvraagt dat in de Cariben met een lokale samenwerkingspartner plaatsvindt, dan dient in afwijking van het tweede lid de aanvrager minimaal 10% van de kosten van het project uit eigen inkomsten of op andere wijze te financieren.
 
-#### Artikel 11. Beoordelingscriteria
+##### Artikel 11. Beoordelingscriteria
 
 Alle aanvragen worden getoetst aan de volgende criteria:
 
@@ -180,13 +202,13 @@ Alle aanvragen worden getoetst aan de volgende criteria:
 
 - d. realisme van de begroting.
 
-#### Artikel 12. Adviezen
+##### Artikel 12. Adviezen
 
 1. Aanvragen die in aanmerking komen voor een inhoudelijke beoordeling worden voor advies voorgelegd aan een adviescommissie.
 
 2. De adviescommissie geeft per beoordelingscriterium, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051906&artikel=11&z=2025-12-09&g=2025-12-09), een inhoudelijk advies, met als conclusie het oordeel onvoldoende, zwak, voldoende, goed of zeer goed, en adviseert over het al dan niet toewijzen van de aanvragen en de subsidiehoogte.
 
-#### Artikel 13. Verdeling budget
+##### Artikel 13. Verdeling budget
 
 1. Aanvragen die op één of meer beoordelingscriteria, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051906&artikel=11&z=2025-12-09&g=2025-12-09), als onvoldoende of zwak zijn beoordeeld, worden op inhoudelijke gronden afgewezen.
 
@@ -218,11 +240,11 @@ Alle aanvragen worden getoetst aan de volgende criteria:
 
 9. Als na toepassing van het voorgaande lid nog aanvragers gelijk eindigen in de rangorde, dan wordt door middel van loting bepaald welke aanvraag alsnog gehonoreerd wordt. Indien het resterende bedrag minder dan 50% van het aangevraagde bedrag bedraagt van de aanvrager die op grond van dit lid wordt gehonoreerd, wordt de aanvraag afgewezen en kan het bestuur besluiten het overgebleven bedrag van het subsidieplafond door te schuiven naar de eerstvolgende subsidieronde.
 
-#### Artikel 14. Besluit
+##### Artikel 14. Besluit
 
 Het bestuur beslist binnen 22 weken na de uiterste datum van indiening van de aanvraag.
 
-#### Artikel 15. Verplichtingen subsidieontvanger
+##### Artikel 15. Verplichtingen subsidieontvanger
 
 1. De subsidieontvanger meldt onverwijld aan het bestuur als:
 
@@ -238,13 +260,13 @@ Het bestuur beslist binnen 22 weken na de uiterste datum van indiening van de aa
 
 4. De subsidieontvanger vermeldt het Letterenfonds als subsidiegever met het logo op de website van het project en alle promotie- en documentatiemateriaal, zoals folders, affiches en brochures van het project, zoals aangegeven in de toekenningentoolkit op de website en nodigt het Letterenfonds uit voor de openbare programma’s.
 
-#### Artikel 16. Subsidieverlening en -vaststelling
+##### Artikel 16. Subsidieverlening en -vaststelling
 
 1. Bij het verlenen van een subsidie geeft het bestuur direct een beschikking tot subsidievaststelling.
 
 2. In de beschikking wordt de wijze van betaling van de subsidie bepaald.
 
-#### Artikel 17. Intrekkings- en wijzigingsgronden subsidieverlening
+##### Artikel 17. Intrekkings- en wijzigingsgronden subsidieverlening
 
 1. Het bestuur kan de subsidieverlening intrekken of wijzigen als de aanvrager niet heeft voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -256,11 +278,11 @@ Het bestuur beslist binnen 22 weken na de uiterste datum van indiening van de aa
 
 5. Indien de subsidieontvanger niet heeft voldaan aan de meldplicht, bedoeld in [artikel 15, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0051906&artikel=15&z=2025-12-09&g=2025-12-09), kan het bestuur de subsidie op nihil stellen en het subsidiebedrag inclusief de verschuldigde wettelijke rente terugvorderen.
 
-#### Artikel 18. Begrotingsvoorbehoud
+##### Artikel 18. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende middelen door de Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 19. Slotbepaling
+##### Artikel 19. Slotbepaling
 
 1. In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.
 
@@ -268,11 +290,11 @@ Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende mi
 
 3. Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2029. In afwijking van de eerste volzin blijft deze regeling zoals zij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling literaire programma’s
 

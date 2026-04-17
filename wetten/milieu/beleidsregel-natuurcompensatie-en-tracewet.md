@@ -1,13 +1,37 @@
 ---
 title: "Beleidsregel natuurcompensatie en Tracéwet"
 identifier: "BWBR0009742"
-categorie: "Milieu"
-publicatiedatum: 1998-09-01
-laatste_update: 1998-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009742"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1998-09-01"
+last_updated: "1998-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009742"
+soort: "beleidsregel"
+stam_id: "6266793"
+version_id: "10949982"
+internal_id: "C14847201"
+label_id: "6255724"
+original_entry_into_force: "1998-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009742/1998-09-01/0"
+intitule_bron: "Stcrt.1998-124"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-06-30"
+intitule_published: "1998-07-06"
+intitule_in_force: "1998-07-06"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-124"
+original_signed_date: "1998-06-30"
+original_published_date: "1998-07-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1998-124-p13-SC14541"
+entry_into_force_date: "1998-09-01"
+jci_1_3: "jci1.3:c:BWBR0009742&z=1998-09-01&g=1998-09-01"
+jci_1_0: "1.0:c:BWBR0009742&g=1998-09-01"
+citeertitel_status: "redactioneel"
+signed_date: "1998-06-30"
+entry_into_force: "1998-09-01"
 ---
-
 # Beleidsregel natuurcompensatie en Tracéwet
 
 ### 1. Inleiding en doel

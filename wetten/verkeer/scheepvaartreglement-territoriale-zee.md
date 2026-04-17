@@ -1,13 +1,39 @@
 ---
-title: "Scheepvaartreglement territoriale zee"
+title: "Besluit van 27 februari 1996, houdende vaststelling van aanvullende bepalingen voor de scheepvaart in de territoriale zee (Scheepvaartreglement territoriale zee)"
 identifier: "BWBR0007914"
-categorie: "Verkeer"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007914"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007914"
+soort: "AMvB"
+stam_id: "3020243"
+version_id: "4679992"
+internal_id: "C4679991"
+label_id: "2971304"
+dtd_version: "2.0"
+original_entry_into_force: "1996-03-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007914/2025-01-01/0"
+intitule_bron: "Stb.1996-170"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-02-27"
+intitule_published: "1996-03-28"
+intitule_in_force: "1996-03-28"
+intitule_status: "goed"
+original_publication: "Stb.1996-170"
+original_signed_date: "1996-02-27"
+original_published_date: "1996-03-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1996-170"
+entry_into_force_date: "1996-03-29"
+jci_1_3: "jci1.3:c:BWBR0007914&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0007914&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Scheepvaartreglement territoriale zee"
+signed_date: "1996-02-27"
+entry_into_force: "1996-03-29"
 ---
-
 # Besluit van 27 februari 1996, houdende vaststelling van aanvullende bepalingen voor de scheepvaart in de territoriale zee (Scheepvaartreglement territoriale zee)
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 12 juli 1995, nr. S/J 13.399/95, Directoraat-Generaal Scheepvaart en Maritieme Zaken;
@@ -24,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 #### Toepassingsgebied
 
-#### Artikel 1
+##### Artikel 1
 
 1. Onverminderd de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972 (**Trb.** 1974, 51), zoals gewijzigd, is dit besluit van toepassing in het gedeelte van de territoriale zee dat zeewaarts is gelegen van de lijn, zoals beschreven in [artikel 4, eerste lid, van het besluit van 7 november 1989, houdende het van toepassing verklaren van de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972 (**Stb.** 502)](https://wetten.overheid.nl/jci1.3:c:BWBR0004644&artikel=4), behoudens dat gedeelte van de territoriale zee dat gemeentelijk is ingedeeld.
 
@@ -36,7 +62,7 @@ Hebben goedgevonden en verstaan:
 
 #### Begripsbepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -68,13 +94,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Verantwoordelijkheid
 
-#### Artikel 3
+##### Artikel 3
 
 De kapitein is verantwoordelijk voor de naleving van de bepalingen van dit besluit, tenzij uit de desbetreffende bepaling anderszins blijkt.
 
 #### Voorzorgsmaatregelen
 
-#### Artikel 4
+##### Artikel 4
 
 Ook bij het ontbreken van uitdrukkelijke voorschriften in dit besluit, worden alle voorzorgsmaatregelen genomen die volgens goede zeemanschap zijn geboden, teneinde met name te voorkomen dat door of vanaf het schip:
 
@@ -88,7 +114,7 @@ Ook bij het ontbreken van uitdrukkelijke voorschriften in dit besluit, worden al
 
 #### Meld-, uitluister- en communicatieplicht
 
-#### Artikel 5. Uitluister- en communicatieplicht
+##### Artikel 5. Uitluister- en communicatieplicht
 
 1. De kapitein van een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert of een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378) van 300 of meer, meldt zich voordat hij de Nederlandse territoriale zee binnenvaart op het bij ministeriële regeling aangewezen marifoonkanaal aan de bevoegde autoriteit.
 
@@ -96,7 +122,7 @@ Ook bij het ontbreken van uitdrukkelijke voorschriften in dit besluit, worden al
 
 #### Mededelingsplicht
 
-#### Artikel 6
+##### Artikel 6
 
 Van een schip wordt zo spoedig mogelijk aan de bevoegde autoriteit medegedeeld dat het:
 
@@ -112,7 +138,7 @@ Van een schip wordt zo spoedig mogelijk aan de bevoegde autoriteit medegedeeld d
 
 #### Mededelingsplicht
 
-#### Artikel 7. Bijzonder transport en werkzaamheden
+##### Artikel 7. Bijzonder transport en werkzaamheden
 
 1. Een bijzonder transport dan wel een schip door middel waarvan werkzaamheden worden verricht, vaart niet dan met toestemming van de bevoegde autoriteit.
 
@@ -122,7 +148,7 @@ Van een schip wordt zo spoedig mogelijk aan de bevoegde autoriteit medegedeeld d
 
 #### Bijzonder transport
 
-#### Artikel 8
+##### Artikel 8
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2010/748.
 
@@ -130,25 +156,25 @@ Een schip gaat in een aanloopgebied niet voor anker, dan na daartoe van de bevoe
 
 #### Voor anker gaan
 
-#### Artikel 9
+##### Artikel 9
 
 Een schip meert niet af aan een verkeersteken.
 
 #### Bescherming van verkeerstekens
 
-#### Artikel 10
+##### Artikel 10
 
 Dit onderdeel is nog niet inwerking getreden
 
 #### Radarreflector
 
-#### Artikel 11
+##### Artikel 11
 
 Verkeersaanwijzingen worden opgevolgd.
 
 #### Verkeersaanwijzingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een sportevenement, een festiviteit of een ander evenement, oefeningen en trainingen daaronder begrepen, alsmede een praktijktest met vergaand geautomatiseerd varen, waarbij een of meer schepen zijn betrokken of waarbij zich personen anders dan op een schip te water bevinden, vindt niet plaats, tenzij dat minimaal 6 weken van te voren bij de bevoegde autoriteit is gemeld.
 
@@ -160,7 +186,7 @@ Verkeersaanwijzingen worden opgevolgd.
 
 #### Evenementen
 
-#### Artikel 13
+##### Artikel 13
 
 Een schip wordt niet geladen, gelost, of gebunkerd, tenzij daartoe door de bevoegde autoriteit toestemming is verleend.
 
@@ -168,7 +194,7 @@ Een schip wordt niet geladen, gelost, of gebunkerd, tenzij daartoe door de bevoe
 
 #### Tijdige melding
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
@@ -176,13 +202,13 @@ Vervallen
 
 #### Vaststellen van verkeerstekens
 
-#### Artikel 15
+##### Artikel 15
 
 De bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=2&z=2025-01-01&g=2025-01-01) vermeldt de verkeerstekens ter markering van het vaarwater of van obstakels daarin.
 
 #### Opvolgen van en rekening houden met verkeerstekens en bekendmakingen met dezelfde strekking als een verkeersteken
 
-#### Artikel 16
+##### Artikel 16
 
 1. Een bekendmaking met dezelfde strekking als een verkeersteken inhoudende een gebod of verbod wordt opgevolgd.
 
@@ -192,7 +218,7 @@ De bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 #### Regels voor een diepstekend schip
 
-#### Artikel 17
+##### Artikel 17
 
 1. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de deelname aan het scheepvaartverkeer door schepen in de Eurogeul, de Maasgeul en de IJgeul, die een in die regeling vastgestelde diepgang hebben.
 
@@ -210,13 +236,13 @@ De bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 #### Invullen en overhandigen controlelijst
 
-#### Artikel 18. Maatregelen in geval van gevaarlijke ijsgang
+##### Artikel 18. Maatregelen in geval van gevaarlijke ijsgang
 
 In geval van gevaarlijke ijsgang kan de bevoegde autoriteit verlangen dat schepen die zich in het betrokken gebied bevinden en die een haven of terminal willen binnen- of uitvaren of een ankerplaats willen verlaten, met documenten kunnen aantonen dat zij aan sterkte- en vermogenseisen voldoen die op de ijsgang in het betrokken gebied zijn afgestemd.
 
 #### Aan toestemming te verbinden voorschriften
 
-#### Artikel 19
+##### Artikel 19
 
 Aan een toestemming als bedoeld in de [artikelen 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=7&z=2025-01-01&g=2025-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=8&z=2025-01-01&g=2025-01-01), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=12&z=2025-01-01&g=2025-01-01), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=2&artikel=13&z=2025-01-01&g=2025-01-01), kunnen voorschriften worden verbonden.
 
@@ -224,7 +250,7 @@ Aan een toestemming als bedoeld in de [artikelen 7, eerste en tweede lid](https:
 
 #### Strafbaarstelling
 
-#### Artikel 20. Strafbaarstelling
+##### Artikel 20. Strafbaarstelling
 
 Overtreding van de bij of krachtens dit besluit vastgestelde regels, alsmede overtreding van de aan toestemming verbonden voorschriften, is een strafbaar feit.
 
@@ -232,37 +258,37 @@ Overtreding van de bij of krachtens dit besluit vastgestelde regels, alsmede ove
 
 #### Wijzigingen [Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315)
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen.
 
 #### Wijzigingen [Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393)
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt het Scheepvaartreglement Westerschelde 1990.
 
 #### Wijzigingen [Besluit administratieve bepalingen scheepvaartverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0006309)
 
-#### Artikel 23
+##### Artikel 23
 
 Wijzigt het Besluit administratieve bepalingen scheepvaartverkeer.
 
 #### Wijziging Besluit van 15 april 1992, houdende regelen met betrekking tot de bevoegdheid tot het geven van verkeersinformatie dan wel verkeersaanwijzingen en de daartoe aan de bevoegde personen te stellen eisen (Stb. 234)
 
-#### Artikel 24
+##### Artikel 24
 
 Wijzigt het Besluit houdende regelen met betrekking tot de bevoegdheid tot het geven van verkeersinformatie dan wel verkeersaanwijzingen en de daartoe aan de bevoegde personen te stellen eisen.
 
 #### Wijziging [Vaststellingsbesluit Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628)
 
-#### Artikel 25
+##### Artikel 25
 
 Wijzigt het Vaststellingsbesluit Binnenvaartpolitiereglement.
 
 #### Wijziging Binnenvaartpolitiereglement
 
-#### Artikel 26
+##### Artikel 26
 
 Wijzigt het Binnenvaartpolitiereglement.
 
@@ -270,37 +296,37 @@ Wijzigt het Binnenvaartpolitiereglement.
 
 #### Intrekking Bijzonder reglement Rotterdamse Waterweg
 
-#### Artikel 27
+##### Artikel 27
 
 Het Bijzonder reglement Rotterdamse Waterweg wordt ingetrokken.
 
 #### Intrekking besluit betonning, bebakening, kust- en oeververlichting
 
-#### Artikel 28
+##### Artikel 28
 
 Het Besluit van 11 augustus 1934, houdende regeling van het Bestuur over de betonning, bebakening, kust- en oeverlichten langs de zeekusten, in de zeegaten, op de benedenrivieren en het IJsselmeer van het Koninkrijk der Nederlanden (**Stb.**138), wordt ingetrokken.
 
 #### Intrekking Besluit informatieverstrekking schepen met bepaalde stoffen
 
-#### Artikel 29
+##### Artikel 29
 
 Het Besluit informatieverstrekking schepen met bepaalde stoffen wordt ingetrokken.
 
 #### Wijziging grondslag
 
-#### Artikel 30
+##### Artikel 30
 
 Na inwerkingtreding van [artikel 22, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=22&z=2025-01-01&g=2025-01-01), van dit besluit, berust de bekendmaking aan de Scheepvaart Scheldemond «Marifoonblokindeling» van de Rijkshavenmeester Westerschelde van 4 november 1994, nr. Bass 134/94 (**Stcrt.** 216) op [artikel 51, eerste, en tweede lid, van het Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=51).
 
 #### Inwerkingtreding
 
-#### Artikel 31
+##### Artikel 31
 
 De [artikelen 1 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=1&artikel=1&z=2025-01-01&g=2025-01-01), [artikel 23, onderdeel A, 2°, en onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=23&z=2025-01-01&g=2025-01-01), en de [artikelen 27 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=8&artikel=27&z=2025-01-01&g=2025-01-01), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=21&z=2025-01-01&g=2025-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=22&z=2025-01-01&g=2025-01-01), [23, onderdeel A, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=23&z=2025-01-01&g=2025-01-01), en [24 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&paragraaf=7&artikel=24&z=2025-01-01&g=2025-01-01) treden in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin dit besluit wordt geplaatst.
 
 #### Citeertitel
 
-#### Artikel 32
+##### Artikel 32
 
 Dit besluit wordt aangehaald als: Scheepvaartreglement territoriale zee.
 
@@ -470,7 +496,7 @@ Deze aanvullende markering mag niet in strijd zijn met de navigatiebetonning en 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Een wijziging van [richtlijn nr. 2002/59/EG](32002L0059) gaat voor de toepassing van dit reglement gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
@@ -482,7 +508,7 @@ Een wijziging van [richtlijn nr. 2002/59/EG](32002L0059) gaat voor de toepassing
 
 #### Meld-, uitluister- en communicatieplicht
 
-#### Artikel 5a. Routerings- en meldingssystemen
+##### Artikel 5a. Routerings- en meldingssystemen
 
 1. Bij ministeriële regeling kunnen voor in die regeling vermelde categorieën schepen in de Nederlandse territoriale zee, overeenkomstig richtlijnen en criteria van de Internationale Maritieme Organisatie, routeringssystemen en meldingssystemen worden vastgesteld.
 
@@ -502,7 +528,7 @@ Een wijziging van [richtlijn nr. 2002/59/EG](32002L0059) gaat voor de toepassing
 
 #### Regels voor een diepstekend schip
 
-#### Artikel 17a. Belading
+##### Artikel 17a. Belading
 
 1. Een schip neemt niet deel aan de scheepvaart indien het zodanig is beladen, dat het inzinkt tot over het vlak door de onderkant van de inzinkingsmerken, dan wel indien het zodanig is beladen, dat het een geringer vrijboord heeft dan blijkens de afgegeven certificaten is toegestaan.
 

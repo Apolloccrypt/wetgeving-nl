@@ -1,13 +1,38 @@
 ---
 title: "Internationale Overeenkomst inzake het gebruik van IMSO-grondstations aan boord van schepen binnen de territoriale zee en de havens"
 identifier: "BWBV0002291"
-categorie: "Internationaal recht"
-publicatiedatum: 1993-09-12
-laatste_update: 1993-09-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002291"
+country: "nl"
+rank: "verdrag"
+publication_date: "1993-09-12"
+last_updated: "1993-09-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002291"
+soort: "verdrag"
+stam_id: "10002760103"
+version_id: "10002759102"
+internal_id: "C10006978371"
+label_id: "10002747894"
+dtd_version: "2.0"
+original_entry_into_force: "1993-09-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002291/1993-09-12/0"
+intitule_bron: "Trb.1986-161"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-06-24"
+intitule_published: "1986-11-27"
+intitule_in_force: "1994-10-14"
+intitule_status: "goed"
+original_publication: "Trb.1986-161"
+original_signed_date: "1987-06-24"
+original_published_date: "1986-11-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1986-161"
+entry_into_force_date: "1993-09-12"
+jci_1_3: "jci1.3:c:BWBV0002291&z=1993-09-12&g=1993-09-12"
+jci_1_0: "1.0:c:BWBV0002291&g=1993-09-12"
+citeertitel_status: "officieel"
+signed_date: "1987-06-24"
+entry_into_force: "1993-09-12"
 ---
-
 # Internationale Overeenkomst inzake het gebruik van IMSO-grondstations aan boord van schepen binnen de territoriale zee en de havens
 
 De Staten die Partij bij deze Overeenkomst zijn (hierna te noemen: „de Partijen”),
@@ -18,13 +43,13 @@ Besloten hebbende de berichtgeving bij noodgevallen en voor de beveiliging van m
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Krachtens het bepaalde in deze Overeenkomst en in overeenstemming met de ingevolge het internationale recht vastgestelde rechten met betrekking tot de scheepvaart geven de Partijen in hun territoriale zeeën en in hun havens toestemming tot het gebruik van goedgekeurde grondstations aan boord van schepen, die deel uitmaken van het satellietsysteem voor maritieme berichtgeving dat beschikbaar wordt gesteld door de Internationale Organisatie voor Maritieme Satellieten (INMARSAT), en naar behoren zijn geïnstalleerd aan boord van schepen die de vlag van enige andere Partij voeren (hierna te noemen: „de INMARSAT-grondstations aan boord van schepen”).
 
 2. Deze toestemming is te allen tijde beperkt tot het gebruik van de frequenties van het mobiele maritieme satellietsysteem door de INMARSAT-grondstations aan boord van schepen en wordt verleend onder het voorbehoud dat deze grondstations de desbetreffende bepalingen van het Radioreglement van de Internationale Telecommunicatie-Unie en de in artikel 2 van deze Organisatie genoemde voorwaarden in acht nemen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het gebruik van een INMARSAT-grondstation aan boord van een schip is afhankelijk van de vervulling van de volgende voorwaarden:
 
@@ -40,23 +65,23 @@ Zijn als volgt overeengekomen:
 
 2. In deze Overeenkomst wordt onder „Kuststaat” verstaan de Staat in welks territoriale zee en havens het INMARSAT-grondstation aan boord van een schip wordt gebruikt, behoudens het bepaalde in deze Overeenkomst.
 
-#### Artikel 3
+##### Artikel 3
 
 De Partijen kunnen, onverminderd de krachtens het internationale recht vastgestelde rechten met betrekking tot de scheepvaart, het gebruik van de INMARSAT-grondstations aan boord van schepen beperken, opschorten of verbieden in de door hen aangegeven havens of zones van de territoriale zee. Onverminderd het van-kracht-worden van deze beperking of opschorting of dit verbod, naar gelang van de beslissing van de Partij, wordt de Depositaris voor deze Overeenkomst daarvan zo spoedig mogelijk in kennis gesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 Behoudens het bepaalde inzake de berichtgeving bij noodgevallen en voor de beveiliging van mensenlevens op zee kan de in het eerste lid van artikel 1 van deze Overeenkomst bedoelde toestemming worden beperkt tot de rechten die de Vlagstaat krachtens het bepaalde in het eerste lid van artikel 1 binnen zijn territoriale zee en zijn havens verleent aan de schepen van de betrokken Kuststaat.
 
-#### Artikel 5
+##### Artikel 5
 
 Niets in deze Overeenkomst mag worden uitgelegd als een beletsel voor de verlening van ruimere faciliteiten door een Partij met betrekking tot het gebruik van de INMARSAT-grondstations aan boord van schepen.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze Overeenkomst is niet van toepassing op oorlogsschepen en andere gouvernementele schepen die voor niet-commerciële doeleinden worden gebruikt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Elke Staat kan Partij bij deze Overeenkomst worden door:
 
@@ -68,17 +93,17 @@ Deze Overeenkomst is niet van toepassing op oorlogsschepen en andere gouvernemen
 
 2. Deze Overeenkomst blijft open voor ondertekening te Londen vanaf 1 januari 1986 tot aan het tijdstip van inwerkingtreding en blijft daarna open voor toetreding of instemming.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Deze Overeenkomst treedt in werking dertig (30) dagen na de datum waarop vijfentwintig (25) Staten Partij zijn geworden.
 
 2. Ten aanzien van een Staat waarvan de akte van bekrachtiging, aanvaarding, goedkeuring, toetreding of instemming wordt nedergelegd na de datum waarop deze Overeenkomst in werking is getreden, treedt deze Overeenkomst in werking op de datum van deze nederlegging.
 
-#### Artikel 9
+##### Artikel 9
 
 Een Partij kan deze Overeenkomst te allen tijde opzeggen door middel van een kennisgeving aan de Depositaris. Deze opzegging wordt van kracht negentig (90) dagen na de datum waarop de Depositaris de schriftelijke kennisgeving van opzegging van de Partij heeft ontvangen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Directeur-Generaal van de INMARSAT is de Depositaris van deze Overeenkomst.
 
@@ -96,7 +121,7 @@ Een Partij kan deze Overeenkomst te allen tijde opzeggen door middel van een ken
 
 3. Op het tijdstip van inwerkingtreding van deze Overeenkomst zendt de Depositaris een gewaarmerkt afschrift aan de Secretaris-Generaal van de Verenigde Naties voor registratie en publikatie overeenkomstig het bepaalde in [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102). Tegelijkertijd zendt de Depositaris een gewaarmerkt afschrift van deze Overeenkomst aan de Internationale Telecommunicatie-Unie en aan de Internationale Maritieme Organisatie.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze Overeenkomst is opgesteld in één exemplaar in de Engelse, de Franse, de Russische en de Spaanse taal, waarbij alle teksten gelijkelijk authentiek zijn, en wordt nedergelegd bij de Depositaris, die een gewaarmerkt afschrift toezendt aan de Partijen.
 

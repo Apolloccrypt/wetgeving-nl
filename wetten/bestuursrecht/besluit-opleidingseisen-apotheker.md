@@ -1,13 +1,39 @@
 ---
-title: "Besluit opleidingseisen apotheker"
+title: "Besluit van 3 september 1997, houdende regels inzake de opleiding tot apotheker (Besluit opleidingseisen apotheker)"
 identifier: "BWBR0008895"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008895"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008895"
+soort: "AMvB"
+stam_id: "621623"
+version_id: "902932"
+internal_id: "C902931"
+label_id: "603134"
+dtd_version: "2.0"
+original_entry_into_force: "1997-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008895/2026-01-01/0"
+intitule_bron: "Stb.1997-438"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-09-03"
+intitule_published: "1997-10-07"
+intitule_in_force: "1997-11-27"
+intitule_status: "goed"
+original_publication: "Stb.1997-438"
+original_signed_date: "1997-09-03"
+original_published_date: "1997-10-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1997-438"
+entry_into_force_date: "1997-12-01"
+jci_1_3: "jci1.3:c:BWBR0008895&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0008895&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit opleidingseisen apotheker"
+signed_date: "1997-09-03"
+entry_into_force: "1997-12-01"
 ---
-
 # Besluit van 3 september 1997, houdende regels inzake de opleiding tot apotheker (Besluit opleidingseisen apotheker)
 
 Op voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 22 januari 1997, CSZ/BenO-97657;
@@ -24,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,13 +60,13 @@ In dit besluit wordt verstaan onder:
 
 - c. **medisch hulpmiddel:** medisch hulpmiddel als bedoeld in [artikel 1, eerste lid, onder a, van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 Om in het krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) van de wet ingestelde register van apothekers te kunnen worden ingeschreven, is vereist het bezit van een door een universiteit als bedoeld in [hoofdstuk 7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7) uitgereikt getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen heeft afgelegd ter afsluiting van een opleiding tot apotheker die voldoet aan [de artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01) van dit besluit.
 
 #### § 2. Opleidingseisen
 
-#### Artikel 3
+##### Artikel 3
 
 1. De opleiding tot apotheker duurt ten minste vijf jaar, waarvan vier jaar voltijds onderwijs, en omvat theoretisch en praktisch onderwijs alsmede een stage van ten minste 6 maanden in een openbare apotheek of een ziekenhuisapotheek.
 
@@ -48,7 +74,7 @@ Om in het krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008895&
 
 3. Een wijziging van punt 5.6.1 van Bijlage V, bedoeld in het tweede lid, gaat voor de toepassing van het tweede lid gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-#### Artikel 4
+##### Artikel 4
 
 De opleiding tot apotheker is zodanig ingericht dat de betrokkene:
 
@@ -90,11 +116,11 @@ De opleiding tot apotheker is zodanig ingericht dat de betrokkene:
 
 #### § 3. Slotbepalingen
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen apotheker.
 

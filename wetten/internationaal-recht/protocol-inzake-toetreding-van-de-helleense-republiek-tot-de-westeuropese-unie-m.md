@@ -1,13 +1,35 @@
 ---
 title: "Protocol inzake toetreding van de Helleense Republiek tot de Westeuropese Unie, met een bijlage"
 identifier: "BWBV0001173"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-06-30
-laatste_update: 2011-06-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001173"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-06-30"
+last_updated: "2011-06-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001173"
+soort: "verdrag"
+stam_id: "10002362943"
+version_id: "10004915312"
+internal_id: "C10007383851"
+label_id: "10002352624"
+dtd_version: "2.0"
+original_entry_into_force: "2011-06-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001173/2011-06-30/0"
+intitule_bron: "Trb.2011-180"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2011-10-04"
+intitule_in_force: "2011-10-04"
+intitule_status: "vervallen"
+original_publication: "Trb.2011-180"
+original_published_date: "2011-10-04"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2011-180"
+entry_into_force_date: "2011-06-30"
+jci_1_3: "jci1.3:c:BWBV0001173&z=2011-06-30&g=2011-06-30"
+jci_1_0: "1.0:c:BWBV0001173&g=2011-06-30"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-06-30"
 ---
-
 # Protocol inzake toetreding van de Helleense Republiek tot de Westeuropese Unie, met een bijlage
 
 De Hoge Verdragsluitende Partijen bij het Verdrag van economische, sociale en culturele samenwerking en collectieve zelfverdediging, ondertekend te Brussel op 17 maart 1948, zoals gewijzigd en aangevuld bij het Protocol ondertekend te Parijs op 23 oktober 1954 en de andere Protocollen en Bijlagen die daarvan een integrerend deel uitmaken, hierna te noemen „het Verdrag", enerzijds,
@@ -36,23 +58,23 @@ Overwegende dat de uitbreiding van de Westeuropese Unie met de Helleense Republi
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 Vervallen
 
-#### Artikel II
+##### Artikel II
 
 Vervallen
 
-#### Artikel III
+##### Artikel III
 
 Vervallen
 
-#### 1
+##### 1
 
 Vervallen
 
-#### 2
+##### 2
 
 Vervallen
 

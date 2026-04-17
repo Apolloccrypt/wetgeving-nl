@@ -1,13 +1,36 @@
 ---
-title: "Onderlinge regeling Aruba, Curaçao, Sint Maarten en Nederland ex artikel 38, van het Statuut voor het Koninkrijk der Nederlanden (samenwerking op het gebied van de onderlinge beschikbaarstelling van detentiecapaciteit op medische gronden of in verband met dringende redenen van veiligheid)"
+title: "Onderlinge regeling als bedoeld in artikel 38, van het Statuut voor het Koninkrijk der Nederlanden regelende de samenwerking tussen Nederland, Aruba, Curaçao en Sint Maarten op het gebied van de onderlinge beschikbaarstelling van detentiecapaciteit op medische gronden of in verband met dringende redenen van veiligheid"
 identifier: "BWBR0035270"
-categorie: "Strafrecht"
-publicatiedatum: 2014-07-03
-laatste_update: 2014-07-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035270"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-07-03"
+last_updated: "2014-07-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035270"
+soort: "ministeriele-regeling"
+stam_id: "12710823"
+version_id: "21501272"
+internal_id: "C30870861"
+label_id: "12680774"
+dtd_version: "2.0"
+original_entry_into_force: "2014-07-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035270/2014-07-03/0"
+intitule_bron: "Stcrt.2014-17851"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2014-07-01"
+intitule_in_force: "2014-07-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-17851"
+original_published_date: "2014-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-17851"
+entry_into_force_date: "2014-07-03"
+jci_1_3: "jci1.3:c:BWBR0035270&z=2014-07-03&g=2014-07-03"
+jci_1_0: "1.0:c:BWBR0035270&g=2014-07-03"
+citeertitel_status: "redactioneel"
+short_title: "Onderlinge regeling Aruba, Curaçao, Sint Maarten en Nederland ex artikel 38, van het Statuut voor het Koninkrijk der Nederlanden (samenwerking op het gebied van de onderlinge beschikbaarstelling van detentiecapaciteit op medische gronden of in verband met dringende redenen van veiligheid)"
+entry_into_force: "2014-07-03"
 ---
-
 # Onderlinge regeling als bedoeld in artikel 38, van het Statuut voor het Koninkrijk der Nederlanden regelende de samenwerking tussen Nederland, Aruba, Curaçao en Sint Maarten op het gebied van de onderlinge beschikbaarstelling van detentiecapaciteit op medische gronden of in verband met dringende redenen van veiligheid
 
 Overwegende, dat in onderdeel D van de Slotverklaring van het bestuurlijk overleg over de toekomstige staatkundige positie van Curaçao en Sint Maarten op 2 november 2006 is afgesproken dat Curaçao, Sint Maarten en Nederland op basis van een onderlinge regeling als bedoeld in [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38), met elkaar zullen samenwerken om te voorzien in het beschikbaar stellen van detentiecapaciteit ten behoeve van Bonaire, Sint Eustatius en Saba en ten behoeve van elkaar;
@@ -20,13 +43,13 @@ Gelet op [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR000215
 
 Komen het volgende overeen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Nederland, Aruba, Curaçao en Sint Maarten, hierna ook aan te duiden als de landen en elk afzonderlijk als land, stellen ten behoeve van elkaar detentiecapaciteit ter beschikking op de wijze, bij deze onderlinge regeling bepaald.
 
 2. Voor de toepassing van deze regeling wordt onder detentiecapaciteit verstaan de beschikbare verblijfsruimte voor het onderbrengen van personen aan wie rechtens hun vrijheid is ontnomen op grond van een bevel tot voorlopige hechtenis of een veroordeling tot een vrijheidsstraf, hierna ook aangeduid als gedetineerden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling is uitsluitend van toepassing in de gevallen waarin:
 
@@ -40,7 +63,7 @@ Komen het volgende overeen:
 
 4. Het verzoekende land en het aangezochte land verlenen elkaar tevens alle medewerking om de uitoefening van de wettelijke verantwoordelijkheden jegens de gedetineerde te kunnen verzekeren. Met het oog daarop worden schriftelijke afspraken gemaakt over tussentijdse berichtgeving betreffende het gedrag en de toestand van de gedetineerde.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De openbare ministeries van de landen richten hun verzoek om tijdelijke beschikbaarstelling van detentiecapaciteit door tussenkomst van de procureur-generaal tot de Minister van Justitie van het aangezochte land dat mogelijkerwijs detentiecapaciteit beschikbaar kan stellen.
 
@@ -64,7 +87,7 @@ Komen het volgende overeen:
 
 5. In het geval er een mogelijkheid bestaat tot terugkeer van de gedetineerde, stelt het openbaar ministerie van het verzoekende land, door de tussenkomst van de procureur-generaal, het openbaar ministerie van het land waarin de gedetineerde is ondergebracht hiervan op de hoogte. De daartoe strekkende kennisgeving geschiedt uiterlijk binnen 14 dagen voor terugkeer van de gedetineerde.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De gedetineerde keert zo spoedig mogelijk, doch in ieder geval binnen een termijn van zes maanden vanaf het tijdstip van tijdelijke onderbrenging, terug naar het land waarin het bevel tot voorlopige hechtenis is gegeven of de vrijheidsstraf is opgelegd.
 
@@ -74,19 +97,19 @@ Komen het volgende overeen:
 
 4. Bij toepassing van het derde lid richt het openbaar ministerie van het verzoekende land anderhalve maand voor het verlopen van de termijn, bedoeld in het derde lid, een schriftelijk verzoek tot verlenging aan de Minister van Justitie van het aangezochte land door tussenkomst van de procureur-generaal of een daartoe aangewezen dienst. Het aangezochte land neemt binnen de termijn van 14 dagen na ontvangst van het schriftelijk verzoek een beslissing over de verlenging en stelt binnen deze termijn het verzoekende land op de hoogte van de inhoud van deze beslissing.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Overdracht van een gedetineerde in de zin van deze regeling heeft tot gevolg dat de verantwoordelijkheid voor de tenuitvoerlegging van de detentie van de betrokkene wordt overgedragen aan het aangezochte land.
 
 2. De overdracht wordt georganiseerd door het verzoekende land.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Binnen vijf jaar na inwerkingtreding van deze regeling evalueren de Ministers van Justitie de werking van deze regeling in praktijk.
 
 2. Deze regeling kan in onderlinge overeenstemming worden gewijzigd of naar aanleiding van de evaluatie in onderlinge overeenstemming worden beëindigd.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze onderlinge regeling treedt in werking met ingang van de tweede dag na de dagtekening van het publicatiemedium waarin zij wordt geplaatst.
 

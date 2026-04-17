@@ -1,14 +1,41 @@
 ---
-title: "Organisatiewet Kadaster"
+title: "Wet van 14 februari 1994, houdende verzelfstandiging van de Rijksdienst van het Kadaster en de Openbare Registers"
 identifier: "BWBR0006463"
-categorie: "Overig"
-publicatiedatum: 2025-02-12
-laatste_update: 2025-02-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006463"
+country: "nl"
+rank: "wet"
+publication_date: "2025-02-12"
+last_updated: "2025-02-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006463"
+soort: "wet"
+stam_id: "2141193"
+version_id: "3259932"
+internal_id: "C13511551"
+label_id: "2092144"
+dtd_version: "2.0"
+original_entry_into_force: "1994-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006463/2025-02-12/0"
+intitule_bron: "Stb.1994-125"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-02-14"
+intitule_published: "1994-03-01"
+intitule_in_force: "1994-03-01"
+intitule_status: "goed"
+original_publication: "Stb.1994-125"
+original_signed_date: "1994-02-14"
+original_published_date: "1994-03-01"
+original_effect: "nieuwe-regeling"
+original_dossier: "23007"
+entry_into_force_date: "1994-05-01"
+entry_into_force_dossier: "23007"
+jci_1_3: "jci1.3:c:BWBR0006463&z=2025-02-12&g=2025-02-12"
+jci_1_0: "1.0:c:BWBR0006463&g=2025-02-12"
+citeertitel_status: "officieel"
+short_title: "Organisatiewet Kadaster"
+signed_date: "1994-02-14"
+entry_into_force: "1994-05-01"
 ---
-
-# Organisatiewet Kadaster
+# Wet van 14 februari 1994, houdende verzelfstandiging van de Rijksdienst van het Kadaster en de Openbare Registers
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -32,7 +59,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **raad van toezicht:** raad van toezicht als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-02-12&g=2025-02-12).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Dienst voor het kadaster en de openbare registers. De Dienst is werkzaam in het Europese deel van Nederland en in de openbare lichamen Bonaire, Sint Eustatius en Saba. Hij bezit rechtspersoonlijkheid en is gevestigd te Apeldoorn.
 
@@ -52,45 +79,45 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1. Algemeen
 
-#### Artikel 3
+##### Artikel 3
 
 De Dienst heeft een bestuur en een raad van toezicht.
 
 #### § 2. Het bestuur
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Het bestuur is belast met het besturen van de Dienst. De voorzitter en overige leden van het bestuur worden benoemd voor een tijdvak van ten hoogste vijf jaren en zijn terstond herbenoembaar.
 
-#### Artikel 8
+##### Artikel 8
 
 Het bestuur vertegenwoordigt de Dienst in en buiten rechte. De bevoegdheid tot vertegenwoordiging komt mede toe aan ieder bestuurslid.
 
-#### Artikel 9
+##### Artikel 9
 
 Het bestuur stelt een bestuursreglement vast.
 
 #### § 3. De raad van toezicht
 
-#### Artikel 10
+##### Artikel 10
 
 1. De raad van toezicht bestaat uit ten minste drie en ten hoogste vijf leden.
 
 2. De leden van de raad van toezicht hebben op persoonlijke titel zitting in de raad en oefenen hun functie uit zonder last of ruggespraak.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onze Minister benoemt, schorst en ontslaat de voorzitter en de overige leden van de raad van toezicht.
 
@@ -106,7 +133,7 @@ Het bestuur stelt een bestuursreglement vast.
 
 7. Zolang niet is voorzien in een vacature in de raad van toezicht, vormen de overblijvende leden de raad van toezicht. Indien alle leden ontbreken, benoemt Onze Minister onverwijld een of meer personen die tijdelijk de taken van de raad van toezicht vervullen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De raad van toezicht ziet toe op de werkzaamheden van het bestuur en op de algemene gang van zaken in de organisatie van de Dienst. Hij staat het bestuur met raad ter zijde.
 
@@ -114,7 +141,7 @@ Het bestuur stelt een bestuursreglement vast.
 
 3. Het bestuur verstrekt de raad van toezicht tijdig de voor de uitoefening van diens taak noodzakelijke gegevens. Het ziet erop toe dat aan de leden van de raad desgevraagd toegang wordt verleend tot de lokaliteiten van de Dienst en inzage wordt verleend van boeken en bescheiden van de Dienst.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Onze Minister kan bepalen dat het bestuur de voorafgaande instemming behoeft van de raad van toezicht voor een beslissing als bedoeld in [artikel 32 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32) of dat het bestuur, ingeval hij een beslissing als bedoeld in dat artikel aan zijn voorafgaande instemming heeft onderworpen, die beslissing pas aan hem kan voorleggen nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben.
 
@@ -126,13 +153,13 @@ Het bestuur stelt een bestuursreglement vast.
 
 3. Het bestuur heeft de voorafgaande instemming nodig van Onze Minister voor het verrichten van werkzaamheden als bedoeld in [artikel 2, derde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=1&artikel=2&z=2025-02-12&g=2025-02-12). Het bestuur legt die beslissing voor aan Onze Minister nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De raad van toezicht kan geen beslissingen nemen indien niet ten minste de helft van het aantal leden ter vergadering aanwezig is.
 
 2. De raad van toezicht regelt bij reglement zijn werkwijze, waaronder in ieder geval de openbaarheid van zijn vergaderingen. Het reglement behoeft de goedkeuring van Onze Minister.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Onze Minister kan aan de leden van de raad van toezicht een bezoldiging toekennen ten laste van de Dienst.
 
@@ -142,7 +169,7 @@ Het bestuur stelt een bestuursreglement vast.
 
 ### Hoofdstuk 3. Overleg met gebruikers
 
-#### Artikel 16
+##### Artikel 16
 
 1. Er is een gebruikersraad.
 
@@ -184,13 +211,13 @@ Het bestuur stelt een bestuursreglement vast.
 
 #### § 1. De organisatie
 
-#### Artikel 17
+##### Artikel 17
 
 Het bestuur stelt bij reglement de hoofdlijnen vast van de inrichting van de organisatie van de Dienst.
 
 #### § 1. De organisatie
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
@@ -198,7 +225,7 @@ Vervallen
 
 #### § 1. Financieel beheer
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het bestuur stelt de begroting vast als onderdeel van het door hem vast te stellen meerjarenbeleidsplan.
 
@@ -206,177 +233,177 @@ Vervallen
 
 3. Het meerjarenbeleidsplan geeft een overzicht van de door de Dienst te verrichten werkzaamheden en een zo getrouw mogelijke doorkijk van het geschetste beeld in de begroting over de volgende vier jaren na het begrotingsjaar.
 
-#### Artikel 20
+##### Artikel 20
 
 [Artikel 29 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29) is van toepassing op het meerjarenbeleidsplan.
 
-#### Artikel 21
+##### Artikel 21
 
 Het bestuur stelt de jaarrekening vast nadat de raad van toezicht daarmee heeft ingestemd.
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
 #### § 2. De jaarrekening en het jaarverslag
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
 ### Hoofdstuk 6. Inlichtingen en onderzoek
 
-#### Artikel 31
+##### Artikel 31
 
 De raad van toezicht verschaft Onze Minister alle verlangde inlichtingen, met inachtneming van het door Onze Minister vastgestelde informatiestatuut.
 
 ### Hoofdstuk 7. Geheimhouding
 
-#### Artikel 47
+##### Artikel 47
 
 Bevat wijzigingen in andere regelgeving.
 
 ### Hoofdstuk 7. Evaluatie
 
-#### Artikel 33
+##### Artikel 33
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 34
+##### Artikel 34
 
 Bevat wijzigingen in andere regelgeving.
 
 ### Hoofdstuk 9. Wijziging van andere wetten
 
-#### Artikel 35
+##### Artikel 35
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 36
+##### Artikel 36
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 37
+##### Artikel 37
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 38
+##### Artikel 38
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 39
+##### Artikel 39
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 40
+##### Artikel 40
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 41
+##### Artikel 41
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 42
+##### Artikel 42
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 43
+##### Artikel 43
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 44
+##### Artikel 44
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 45
+##### Artikel 45
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 46
+##### Artikel 46
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 47
+##### Artikel 47
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 48
+##### Artikel 48
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 49
+##### Artikel 49
 
 Bevat wijzigingen in andere regelgeving.
 
 ### Hoofdstuk 10. Overgangs- en slotbepalingen
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
-#### Artikel 51
+##### Artikel 51
 
 Vervallen
 
-#### Artikel 52
+##### Artikel 52
 
 Vervallen
 
-#### Artikel 53
+##### Artikel 53
 
 Vervallen
 
-#### Artikel 54
+##### Artikel 54
 
 Het bepaalde in de [artikelen 11, zevende lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11), [84, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=84), en [117 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=117) en [30, eerste en tweede lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=30), zoals die artikelen luidden vóór het tijdstip van het in werking treden van deze wet, blijft van toepassing met betrekking tot aansprakelijkheid en schadevergoeding ter zake van in die artikelen bedoelde feiten die zich hebben voorgedaan vóór dat tijdstip.
 
-#### Artikel 55
+##### Artikel 55
 
 Vervallen
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
-#### Artikel 57
+##### Artikel 57
 
 Deze wet treedt in werking met ingang van 1 mei 1994 of op een bij koninklijk besluit te bepalen ander tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 58
+##### Artikel 58
 
 Deze wet wordt aangehaald als: Organisatiewet Kadaster.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 16a
+##### Artikel 16a
 
 1. Het bestuur voert met de gebruikersraad of, indien het bestuur gebruik heeft gemaakt van de mogelijkheid, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2025-02-12&g=2025-02-12), met de kamers overleg over de kwaliteit en de doelmatigheid van de dienstverlening door de Dienst, over de tarieven die daarvoor in rekening worden gebracht, over het meerjarenbeleidsplan en over andere zaken van gemeenschappelijk belang.
 
@@ -402,7 +429,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk 7. Evaluatie
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
@@ -414,7 +441,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 31a
+##### Artikel 31a
 
 Onze Minister stelt regels over de uitoefening van het toezicht op de Dienst door Onze Minister en de raad van toezicht.
 
@@ -426,7 +453,7 @@ Onze Minister stelt regels over de uitoefening van het toezicht op de Dienst doo
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2a
+##### Artikel 2a
 
 De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) is van toepassing op de Dienst, met uitzondering van [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=15).
 
@@ -444,7 +471,7 @@ De [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:B
 
 #### § 2. Het personeel
 
-#### Artikel 18a
+##### Artikel 18a
 
 Vervallen
 

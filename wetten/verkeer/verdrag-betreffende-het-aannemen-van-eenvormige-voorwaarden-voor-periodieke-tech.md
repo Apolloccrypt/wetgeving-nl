@@ -1,13 +1,37 @@
 ---
 title: "Verdrag betreffende het aannemen van eenvormige voorwaarden voor periodieke technische keuringen van motorvoertuigen en de wederzijdse erkenning van dergelijke keuringen"
 identifier: "BWBV0001368"
-categorie: "Verkeer"
-publicatiedatum: 2007-07-04
-laatste_update: 2007-07-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001368"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-07-04"
+last_updated: "2007-07-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001368"
+soort: "verdrag"
+stam_id: "10000448073"
+version_id: "10000462752"
+internal_id: "C10006989881"
+label_id: "10000448404"
+original_entry_into_force: "2001-01-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001368/2007-07-04/0"
+intitule_bron: "Trb.1998-58"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-02-05"
+intitule_published: "1998-03-02"
+intitule_in_force: "2002-03-25"
+intitule_status: "goed"
+original_publication: "Trb.1998-58"
+original_signed_date: "1999-02-05"
+original_published_date: "1998-03-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-58"
+entry_into_force_date: "2001-01-27"
+jci_1_3: "jci1.3:c:BWBV0001368&z=2007-07-04&g=2007-07-04"
+jci_1_0: "1.0:c:BWBV0001368&g=2007-07-04"
+citeertitel_status: "officieel"
+signed_date: "1999-02-05"
+entry_into_force: "2001-01-27"
 ---
-
 # Verdrag betreffende het aannemen van eenvormige voorwaarden voor periodieke technische keuringen van motorvoertuigen en de wederzijdse erkenning van dergelijke keuringen
 
 Preambule
@@ -28,7 +52,7 @@ In aanmerking nemende dat bij het vaststellen van een datum voor de toepassing v
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Verdragsluitende Partijen stellen Voorschriften vast voor periodieke technische keuringen van motorvoertuigen die op hun grondgebied zijn geregistreerd en erkennen de overeenkomstig deze Voorschriften uitgevoerde keuringen wederzijds. De Voorschriften worden vastgesteld door tussenkomst van een Commissie van beheer bestaande uit alle Verdragsluitende Partijen in overeenstemming met het in Aanhangsel 1 opgenomen Voorschrift van orde en ingevolge de hiernavolgende leden en artikelen.
 
@@ -38,7 +62,7 @@ wordt onder de term „motorvoertuigen" verstaan ieder motorvoertuig en de daarb
 
 wordt onder de term „technische keuring" verstaan de keuring van alle uitrustingsstukken en onderdelen die worden gebruikt op motorvoertuigen en waarvan de eigenschappen verband houden met verkeersveiligheid, milieubescherming en energiebesparing; onder de term „Voorschriften voor periodieke technische keuringen van motorvoertuigen" wordt verstaan bepalingen inzake het bewijs van de eenvormige periodieke administratieve procedure door middel waarvan de bevoegde autoriteiten van een Verdragsluitende Partij verklaren, nadat de vereiste toetsingen hebben plaatsgevonden, dat het motorvoertuig voldoet aan de eisen van de desbetreffende Voorschriften. Als bewijs kan dienen een technisch keuringsbewijs, waarvan het model is opgenomen in Aanhangsel 2 bij dit Verdrag.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Nadat een Voorschrift is opgesteld in overeenstemming met de in Aanhangsel 1 opgenomen procedure, wordt de tekst hiervan door de Commissie van beheer medegedeeld aan de Secretaris-Generaal van de Verenigde Naties, hierna te noemen „Secretaris-Generaal”. De Secretaris-Generaal stelt zo spoedig mogelijk daarna de Verdragsluitende Partijen van dit Voorschrift in kennis.
 
@@ -72,7 +96,7 @@ Het Voorschrift kan, waar nodig, verwijzen naar de door de bevoegde autoriteiten
 
 8. De Voorschriften gehecht aan dit Verdrag als Aanhangsels vormen een integrerend deel daarvan.
 
-#### Artikel 3
+##### Artikel 3
 
 De procedure van wijziging van de Voorschriften gehecht aan dit Verdrag, wordt beheerst door de volgende bepalingen:
 
@@ -82,7 +106,7 @@ De procedure van wijziging van de Voorschriften gehecht aan dit Verdrag, wordt b
 
 3. In het geval dat een nieuwe Verdragsluitende Partij tot dit Verdrag toetreedt tussen de kennisgeving door de Secretaris-Generaal van de wijziging van een Voorschrift en de inwerkingtreding van die wijziging, kan het desbetreffende Voorschrift ten aanzien van deze Verdragsluitende Partij niet eerder in werking treden dan twee maanden nadat deze Partij de wijziging formeel aanvaard heeft, dan wel twee maanden na het verstrijken van een termijn van zes maanden na de mededeling door de Secretaris-Generaal aan deze Partij van de voorgestelde wijziging.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Staten welke lid zijn van de Economische Commissie voor Europa, de Staten welke overeenkomstig paragraaf 8 van het mandaat van deze Commissie met adviserende bevoegdheid tot de Commissie zijn toegelaten, alsmede de organisaties voor regionale economische integratie die zijn opgericht door de Staten welke lid zijn van de Economische Commissie voor Europa en die van hun lidstaten bevoegdheden hebben gekregen op gebieden als bedoeld in dit Verdrag, met inbegrip van de bevoegdheid besluiten te nemen die ten aanzien van hun lidstaten bindend zijn, kunnen Verdragsluitende Partij worden bij dit Verdrag.
 
@@ -104,25 +128,25 @@ Voor het vaststellen van het aantal stemmen bedoeld in artikel 2, eerste lid, en
 
 5. Het Verdrag staat van 13 november 1997 tot en met 30 juni 1998 open voor ondertekening. Na deze datum staat het Verdrag open voor toetreding.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Dit Verdrag treedt in werking op de zestigste dag nadat vijf van de in het eerste lid van artikel 4 bedoelde Staten het Verdrag hebben ondertekend zonder voorbehoud van bekrachtiging of hun akte van bekrachtiging of van toetreding hebben nedergelegd.
 
 2. Ten aanzien van elke Staat die het Verdrag bekrachtigt of tot het Verdrag toetreedt nadat het in werking is getreden, treedt dit Verdrag in werking op de zestigste dag na de nederlegging van de akte van bekrachtiging of toetreding van de genoemde Staat.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Elke Verdragsluitende Partij kan dit Verdrag opzeggen door een tot de Secretaris-Generaal der Verenigde Naties gerichte kennisgeving.
 
 2. De opzegging wordt van kracht twaalf maanden na de datum van ontvangst door de Secretaris-Generaal van de kennisgeving van opzegging.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Elke Staat kan, ten tijde van de ondertekening van dit Verdrag zonder voorbehoud van bekrachtiging of bij de nederlegging van zijn akte van bekrachtiging of toetreding of te eniger tijd daarna, door middel van een tot de Secretaris-Generaal der Verenigde Naties gerichte kennisgeving verklaren dat dit Verdrag van toepassing zal zijn op alle of een deel van de gebieden voor welker internationale betrekkingen het verantwoordelijk is. Het Verdrag is van toepassing op het gebied of de gebieden in de kennisgeving vermeld met ingang van de zestigste dag na ontvangst door de Secretaris-Generaal van deze kennisgeving of, indien op die dag het Verdrag nog niet in werking is getreden, met ingang van de datum van de inwerkingtreding van het Verdrag.
 
 2. Elke Staat die overeenkomstig het eerste lid van dit artikel een verklaring heeft afgelegd waardoor dit Verdrag van toepassing wordt op een gebied voor welker internationale betrekkingen het verantwoordelijk is, kan het Verdrag met betrekking tot dit gebied afzonderlijk opzeggen, overeenkomstig de bepalingen van artikel 6.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Elk geschil tussen twee of meer Verdragsluitende Partijen betreffende de uitlegging of de toepassing van dit Verdrag zal zoveel mogelijk worden beslecht door middel van onderhandelingen tussen de betrokken Partijen.
 
@@ -130,7 +154,7 @@ Voor het vaststellen van het aantal stemmen bedoeld in artikel 2, eerste lid, en
 
 3. De uitspraak van de overeenkomstig het tweede lid van dit artikel aangewezen scheidsrechter of scheidsrechters zal bindend zijn voor de betrokken Verdragsluitende Partijen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Elke Verdragsluitende Partij kan op het tijdstip waarop zij dit Verdrag ondertekent of bekrachtigt of tot dit Verdrag toetreedt, verklaren dat zij zich niet gebonden acht aan artikel 8 van het Verdrag. De andere Verdragsluitende Partijen zijn niet gebonden aan artikel 8 tegenover elke Verdragsluitende Partij die een zodanig voorbehoud heeft gemaakt.
 
@@ -138,7 +162,7 @@ Voor het vaststellen van het aantal stemmen bedoeld in artikel 2, eerste lid, en
 
 3. Geen ander voorbehoud met betrekking tot dit Verdrag of de daarbij aangehechte Voorschriften is toegelaten, maar elke Verdragsluitende Partij kan overeenkomstig artikel 2 verklaren dat zij bepaalde Voorschriften niet toepast dan wel geen enkel Voorschrift toepast.
 
-#### Artikel 10
+##### Artikel 10
 
 De procedure van wijziging van de tekst van dit Verdrag en van de daaraan gehechte Aanhangsels wordt geregeld door de volgende bepalingen:
 
@@ -148,7 +172,7 @@ De procedure van wijziging van de tekst van dit Verdrag en van de daaraan gehech
 
 3. De Secretaris-Generaal richt zo spoedig mogelijk een kennisgeving tot alle Verdragsluitende Partijen om hun te doen weten of een bezwaar is gemaakt tegen de voorgestelde wijziging. Indien een bezwaar is gemaakt tegen de voorgestelde wijziging, wordt de wijziging geacht niet te zijn aanvaard en heeft deze geen enkel rechtsgevolg. Indien geen bezwaar is gemaakt, treedt de wijziging voor alle Verdragsluitende Partijen in werking drie maanden na het verstrijken van de termijn van zes maanden bedoeld in het tweede lid van dit artikel.
 
-#### Artikel 11
+##### Artikel 11
 
 Behalve van de in de artikelen 2, 3 en 5 van dit Verdrag bedoelde kennisgeving geeft de Secretaris-Generaal van de Verenigde Naties aan de Verdragsluitende Partijen kennis van:
 
@@ -166,55 +190,55 @@ Behalve van de in de artikelen 2, 3 en 5 van dit Verdrag bedoelde kennisgeving g
 
 - g. de inwerkingtreding van elke wijziging overeenkomstig het derde lid van artikel 10.
 
-#### Artikel 12
+##### Artikel 12
 
 Organen of instellingen die door een Verdragsluitende Partij worden aangewezen, kunnen in overeenstemming met dit Verdrag namens een andere Verdragsluitende Partij periodieke technische keuringen uitvoeren, mits zowel de Verdragsluitende Partij waar het voertuig geregistreerd is als de Verdragsluitende Partij waar de keuring dient plaats te vinden daarmee akkoord gaan. Het op grond van artikel 12 afgegeven certificaat dient een duidelijke verwijzing te bevatten naar het akkoord tussen de betrokken Verdragsluitende Partijen.
 
-#### Artikel 13
+##### Artikel 13
 
 Na 30 juni 1998 zal het origineel van dit Verdrag worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die aan elk van de in het eerste en tweede lid van artikel 4 bedoelde Staten een voor eensluidend gewaarmerkt afschrift doet toekomen.
 
-#### Artikel 1
+##### Artikel 1
 
 De Commissie van beheer bestaat uit alle Verdragsluitende Partijen bij het Verdrag.
 
-#### Artikel 2
+##### Artikel 2
 
 De Uitvoerende Secretaris van de Economische Commissie voor Europa van de Verenigde Naties verleent secretariële diensten aan de Commissie van beheer.
 
-#### Artikel 3
+##### Artikel 3
 
 De Commissie van beheer kiest ieder jaar in haar eerste zitting een voorzitter en een vice-voorzitter.
 
-#### Artikel 4
+##### Artikel 4
 
 De Secretaris-Generaal van de Verenigde Naties roept de Commissie van beheer onder auspiciën van de Economische Commissie voor Europa bijeen wanneer een nieuw Voorschrift of een wijziging van een Voorschrift dient te worden vastgesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 Voorgestelde nieuwe Voorschriften worden in stemming gebracht. Elke Staat die Verdragsluitende Partij bij het Verdrag is, heeft één stem. Voor het nemen van besluiten is een quorum bestaande uit ten minste de helft van de Verdragsluitende Partijen vereist. Voor het vaststellen van het quorum bezitten de organisaties voor regionale economische integratie welke Verdragsluitende Partij bij het Verdrag zijn over een aantal stemmen dat gelijk is aan het aantal stemmen van hun lidstaten. De vertegenwoordiger van een organisatie voor regionale economische integratie kan de stemmen uitbrengen van de soevereine staten die daarvan lid zijn. Nieuwe ontwerp-voorschriften worden vastgesteld met een meerderheid van twee derde van de stemmen uitgebracht door aanwezige leden die hun stem uitbrengen.
 
-#### Artikel 6
+##### Artikel 6
 
 Voorgestelde wijzigingen van Voorschriften worden in stemming gebracht. Elke Staat die Verdragsluitende Partij is bij het Verdrag en het Voorschrift toepast, heeft één stem. Voor het nemen van besluiten is een quorum bestaande uit ten minste de helft van de Verdragsluitende Partijen vereist. Voor het vaststellen van het quorum bezitten de organisaties voor regionale economische integratie welke Verdragsluitende Partij bij het Verdrag zijn een aantal stemmen dat gelijk is aan het aantal stemmen van hun lidstaten. De vertegenwoordiger van een organisatie voor regionale economische integratie kan de stemmen uitbrengen van de soevereine staten die daarvan lid zijn en het Voorschrift toepassen. Nieuwe ontwerp-voorschriften worden vastgesteld met een meerderheid van twee derde van de stemmen uitgebracht door de aanwezige leden die hun stem uitbrengen.
 
-#### 1
+##### 1
 
 De verantwoordelijkheid voor het uitvoeren van de technische controles, voor het toekennen van een certificaat waaruit blijkt dat aan de voorwaarden van het/de desbetreffende Voorschrift(en) behorend bij het Verdrag van Wenen van 1997 is voldaan, en voor het vermelden van de uiterste datum van de volgende keuring onder rubriek 12.5 van het Internationaal Technisch Keuringscertificaat, waarvan in het navolgende een model is weergegeven, berust bij de erkende instanties voor technische keuringen.
 
-#### 2
+##### 2
 
 Het Internationaal Technisch Keuringscertificaat bevat de in het navolgende vermelde informatie. Het kan de vorm hebben van een boekje op A6-formaat (148x105 mm), met een groene omslag en witte pagina's binnenin, of van een vel papier op A4-formaat (210x197 mm)*Het A4-formaat is 210x297 mm.dat tot een A6-formaat is gevouwen, en wel zodanig dat het gedeelte met het herkenningsteken van de staat of van de Verenigde Naties de bovenzijde van het gevouwen Certificaat vormt. dat tot een A6-formaat is gevouwen, en wel zodanig dat het gedeelte met het herkenningsteken van de staat of van de Verenigde Naties de bovenzijde van het gevouwen Certificaat vormt.
 
-#### 3
+##### 3
 
 De rubrieken van het certificaat worden ingevuld in de officiële taal van de Verdragsluitende Partij die het certificaat afgeeft, met handhaving van de nummering.
 
-#### 4
+##### 4
 
 De verslagen van periodieke technische keuringen, die worden gebruikt in de landen van de Verdragsluitende Partijen bij het Verdrag, kunnen als alternatieve versie dienen. Een model hiervan wordt ter informatie van de Verdragsluitende Partijen gezonden aan de Secretaris-Generaal van de Verenigde Naties.
 
-#### 5
+##### 5
 
 Handgeschreven, getypte of met behulp van de computer vervaardigde aantekeningen op de Internationale Technische Keuringscertificaten mogen slechts worden gemaakt door de bevoegde autoriteiten en dienen te worden uitgevoerd in Latijns schrift.
 

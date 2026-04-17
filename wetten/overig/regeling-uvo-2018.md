@@ -1,20 +1,46 @@
 ---
-title: "Regeling UVO 2018"
+title: "Regeling van 20 september 2018 van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie houdende het stellen van regels met betrekking tot een Unit Veiligheidsonderzoeken (Regeling UVO 2018)"
 identifier: "BWBR0041396"
-categorie: "Overig"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041396"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041396"
+soort: "ministeriele-regeling"
+stam_id: "14822033"
+version_id: "25341752"
+internal_id: "C36188381"
+label_id: "14774104"
+dtd_version: "2.0"
+original_entry_into_force: "2018-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041396/2020-01-01/0"
+intitule_bron: "Stcrt.2018-53581"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-09-20"
+intitule_published: "2018-09-28"
+intitule_in_force: "2018-09-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-53581"
+original_signed_date: "2018-09-20"
+original_published_date: "2018-09-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-53581"
+entry_into_force_date: "2018-10-01"
+jci_1_3: "jci1.3:c:BWBR0041396&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0041396&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling UVO 2018"
+signed_date: "2018-09-20"
+entry_into_force: "2018-10-01"
 ---
-
 # Regeling van 20 september 2018 van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie houdende het stellen van regels met betrekking tot een Unit Veiligheidsonderzoeken (Regeling UVO 2018)
 
 Gelet op [artikel 86, vierde lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=86),
 
 Besluiten:
 
-#### Artikel 1. Algemene bepalingen
+##### Artikel 1. Algemene bepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -26,13 +52,13 @@ In deze regeling wordt verstaan onder:
 
 - –. **UVO:** Unit Veiligheidsonderzoeken.
 
-#### Artikel 2. Taakomschrijving
+##### Artikel 2. Taakomschrijving
 
 1. Er is een UVO.
 
 2. De UVO heeft tot taak het in opdracht en onder verantwoordelijkheid van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie zorgdragen voor de uitvoering van de b-taak.
 
-#### Artikel 3. Algemene leiding
+##### Artikel 3. Algemene leiding
 
 1. De algemene leiding bestaat uit het hoofd van de UVO en het plaatsvervangend hoofd van de UVO. Het hoofd van de UVO is een ambtenaar van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties en het plaatsvervangend hoofd is een ambtenaar van het Ministerie van Defensie.
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 4. De algemene leiding legt over de dagelijkse aansturing en organisatie verantwoording af aan de bestuursraad UVO.
 
-#### Artikel 4. Besturing
+##### Artikel 4. Besturing
 
 1. De bestuursraad UVO bestaat uit twee leden die respectievelijk werkzaam zijn bij één van de diensten en worden aangewezen door de hoofden van de diensten.
 
@@ -70,17 +96,17 @@ In deze regeling wordt verstaan onder:
 
 4. De bestuursraad UVO legt over de besturing van de UVO verantwoording af aan de hoofden van de diensten.
 
-#### Artikel 5. Personeel
+##### Artikel 5. Personeel
 
 1. De algemene leiding wordt ondersteund door ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij de Algemene Inlichtingen- en Veiligheidsdienst en door ambtenaren die krachtens een aanstelling bij het Ministerie van Defensie werkzaam zijn bij de Militaire Inlichtingen- en Veiligheidsdienst en die bij de UVO worden geplaatst.
 
 2. De ambtenaren, bedoeld in het eerste lid, worden ingezet voor de uitvoering van de taak, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041396&artikel=2&z=2020-01-01&g=2020-01-01), en zijn hierover verantwoording verschuldigd aan de algemene leiding.
 
-#### Artikel 6. Financiën
+##### Artikel 6. Financiën
 
 De UVO wordt gezamenlijk gefinancierd door de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie.
 
-#### Artikel 7. Gegevensverwerking en ondersteuning
+##### Artikel 7. Gegevensverwerking en ondersteuning
 
 1. Binnen de UVO worden uitsluitend gegevens verwerkt ten behoeve van de b-taak van de diensten.
 
@@ -88,11 +114,11 @@ De UVO wordt gezamenlijk gefinancierd door de Minister van Binnenlandse Zaken en
 
 3. Voor de uitvoering van de b-taak maakt de UVO gebruik van gemeenschappelijke applicaties, die slechts toegankelijk zijn voor daartoe geautoriseerde ambtenaren, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041396&artikel=5&z=2020-01-01&g=2020-01-01), ten behoeve van de aan de desbetreffende ambtenaar opgedragen taak.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 oktober 2018.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling UVO 2018.
 

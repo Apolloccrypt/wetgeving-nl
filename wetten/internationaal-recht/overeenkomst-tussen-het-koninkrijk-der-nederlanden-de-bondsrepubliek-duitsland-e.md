@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake samenwerking bij de ontwikkeling en exploitatie van het gas-ultracentrifuge-procédé voor de produktie van verrijkt uranium"
 identifier: "BWBV0004423"
-categorie: "Internationaal recht"
-publicatiedatum: 1971-07-19
-laatste_update: 1971-07-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004423"
+country: "nl"
+rank: "verdrag"
+publication_date: "1971-07-19"
+last_updated: "1971-07-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004423"
+soort: "verdrag"
+stam_id: "10004120003"
+version_id: "10004288792"
+internal_id: "C10006984401"
+label_id: "10004104954"
+dtd_version: "2.0"
+original_entry_into_force: "1971-07-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004423/1971-07-19/0"
+intitule_bron: "Trb.1970-41"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1970-03-17"
+intitule_in_force: "1971-08-06"
+intitule_status: "goed"
+original_publication: "Trb.1970-41"
+original_published_date: "1970-03-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1970-41"
+entry_into_force_date: "1971-07-19"
+jci_1_3: "jci1.3:c:BWBV0004423&z=1971-07-19&g=1971-07-19"
+jci_1_0: "1.0:c:BWBV0004423&g=1971-07-19"
+citeertitel_status: "redactioneel"
+entry_into_force: "1971-07-19"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake samenwerking bij de ontwikkeling en exploitatie van het gas-ultracentrifuge-procédé voor de produktie van verrijkt uranium
 
 Het Koninkrijk der Nederlanden,
@@ -36,7 +58,7 @@ Wederom bevestigend dat iedere afspraak tot samenwerking in overeenstemming zal 
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I
+##### Artikel I
 
 (1). De Overeenkomstsluitende Partijen werken samen overeenkomstig de bepalingen van deze Overeenkomst met als doel de verrijking van uranium volgens het gasultracentrifuge-procédé en de fabricage van de voor dit procédé benodigde gas-ultracentrifuges.
 
@@ -46,7 +68,7 @@ Zijn overeengekomen als volgt:
 
 (4). De Overeenkomstsluitende Partijen bevorderen de integratie van hun onderzoek en ontwikkelingswerk op dit gebied met als doel de uitvoering van een geïntegreerd programma voor onderzoek en ontwikkeling door de in het tweede lid van dit Artikel bedoelde gezamenlijke industriële ondernemingen ten einde een concurrerende positie ten opzichte van andere producenten van verrijkt uranium op te bouwen en te handhaven.
 
-#### Artikel II
+##### Artikel II
 
 (1). Ten einde te voorzien in een doeltreffend toezicht door de Overeenkomstsluitende Partijen overeenkomstig de bepalingen van dit Artikel op de in Artikel I van deze Overeenkomst omschreven samenwerking, wordt een Gemengde Commissie ingesteld.
 
@@ -88,7 +110,7 @@ Zijn overeengekomen als volgt:
 
 (7). De Gemengde Commissie kan te allen tijde aan de gezamenlijke industriële ondernemingen richtlijnen geven ingevolge door de Commissie krachtens het vijfde of zesde lid van dit Artikel genomen beslissingen; de gezamenlijke industriële ondernemingen hebben de plicht deze richtlijnen ten uitvoer te leggen.
 
-#### Artikel III
+##### Artikel III
 
 - (a). Met inachtneming van de bepalingen van dit Artikel, neemt een Overeenkomstsluitende Partij niet de exploitatie op commerciële basis ter hand van het gas-ultracentrifuge-procédé voor de verrijking van uranium of bevordert of helpt op enigerlei wijze deze exploitatie, dan door middel van de in Artikel I van deze Overeenkomst omschreven samenwerking.
 
@@ -100,25 +122,25 @@ Zijn overeengekomen als volgt:
 
 (3). De Overeenkomstsluitende Partijen houden elkander via de Gemengde Commissie op de hoogte van technische en/of economische ontwikkelingen die de exploitatie op commerciële basis van het gas-ultracentrifuge-procédé door de gezamenlijke industriële ondernemingen in belangrijke mate zouden kunnen beïnvloeden.
 
-#### Artikel IV
+##### Artikel IV
 
 (1). Ten aanzien van de in Artikel I van de Overeenkomst omschreven samenwerking, passen de Overeenkomstsluitende Partijen de bepalingen toe van Bijlage I bij deze Overeenkomst betreffende octrooien en andere industriële rechten, welke Bijlage een integrerend deel van deze Overeenkomst uitmaakt.
 
 (2). Met inachtneming van de bepalingen van dit Artikel en van Artikel III van deze Overeenkomst maken de Overeenkomstsluitende Partijen, tenzij anders is overeengekomen, geen gebruik van gegevens die hun ingevolge deze Overeenkomst zijn overgedragen noch delen zij deze aan iemand mede, behalve ten behoeve van de in Artikel I van de Overeenkomst omschreven samenwerking.
 
-#### Artikel V
+##### Artikel V
 
 (1). Ten aanzien van de in Artikel I van de Overeenkomst omschreven samenwerking, passen de Overeenkomstsluitende Partijen de bepalingen toe van Bijlage II bij deze Overeenkomst betreffende beveiligingsmaatregelen en rubricering, welke Bijlage een integrerend deel van deze Overeenkomst uitmaakt.
 
 (2). Op de datum van de inwerkingtreding van deze Overeenkomst treedt de op 4 maart 1970 te Almelo ondertekende Interim-Overeenkomst inzake beveiligingsmaatregelen en rubricering buiten werking en worden alle gegevens en documenten, overgedragen met inachtneming van de bepalingen daarvan, beschermd alsof zij krachtens deze Overeenkomst waren overgedragen.
 
-#### Artikel VI
+##### Artikel VI
 
 (1). De Overeenkomstsluitende Partijen verbinden zich gezamenlijk en ieder voor zich te verzekeren dat gegevens, uitrusting, basismaterialen of bijzondere splijtbare materialen, in hun bezit ten behoeve van of als gevolg van de in Artikel I van deze Overeenkomst omschreven samenwerking, niet zullen worden gebruikt door een niet-kernwapenstaat om kernwapens of andere nucleaire explosiemiddelen te vervaardigen of anderszins te verwerven of de beschikkingsmacht over zodanige kernwapens of nucleaire explosiemiddelen te verkrijgen, dan wel om een niet-kernwapenstaat te helpen, aan te moedigen of ertoe te bewegen kernwapens of andere nucleaire explosiemiddelen te vervaardigen of anderszins te verwerven of de beschikkingsmacht over zodanige kernwapens of nucleaire explosiemiddelen te verkrijgen. Voor de toepassing van dit lid betekent de uitdrukking „niet-kernwapenstaat” een Staat, daaronder begrepen elke door deze Overeenkomst gebonden Staat, die vóór 1 januari 1967 geen kernwapen of ander nucleair explosiemiddel heeft vervaardigd en tot ontploffing heeft gebracht.
 
 (2). Voorts verbinden de Overeenkomstsluitende Partijen zich te verzekeren dat de in Artikel I van deze Overeenkomst bedoelde gezamenlijke industriële ondernemingen geen uranium van de voor wapens vereiste verrijkingsgraad zullen produceren voor de vervaardiging van kernwapens of andere nucleaire explosiemiddelen.
 
-#### Artikel VII
+##### Artikel VII
 
 (1). Ten behoeve van de verificatie van de nakoming van de in artikel VI van deze Overeenkomst neergelegde verbintenissen, worden geëigende procedures voor veiligheidscontrole toegepast, die verenigbaar dienen te zijn met de internationale verplichtingen van iedere Overeenkomstsluitende Partij.
 
@@ -132,7 +154,7 @@ Zijn overeengekomen als volgt:
 
 (3). De Gemengde Commissie treft alle voor de tenuitvoerlegging van dit Artikel noodzakelijke voorzieningen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 (1). Ieder geschil dat tussen de Overeenkomstsluitende Partijen ontstaat betreffende de uitlegging of toepassing van deze Overeenkomst of van een beslissing van de Gemengde Commissie, dan wel van maatregelen of regelingen die krachtens een zodanige beslissing ten uitvoer zijn gelegd, wordt verwezen naar de Gemengde Commissie, die zal trachten tot een minnelijke schikking te komen.
 
@@ -148,39 +170,39 @@ Zijn overeengekomen als volgt:
 
 (7). Tegen een beslissing van de Scheidsrechterlijke Commissie staat geen beroep open. In geval van een geschil betreffende de strekking of draagwijdte van een zodanige beslissing, rust op de Scheidsrechterlijke Commissie de plicht de beslissing op verzoek van een der Overeenkomstsluitende Partijen toe te lichten.
 
-#### Artikel IX
+##### Artikel IX
 
 De Overeenkomstsluitende Partijen kunnen gezamenlijk overeenkomsten sluiten voor samenwerking met Europese of andere Staten of met internationale organisaties. Elk voorstel voor het sluiten van een zodanige overeenkomst wordt door de Gemengde Commissie in overweging genomen.
 
-#### Artikel X
+##### Artikel X
 
 Deze Overeenkomst laat onverlet de verplichtingen van de Bondsrepubliek Duitsland en van het Koninkrijk der Nederlanden die voortvloeien uit het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033).
 
-#### Artikel XI
+##### Artikel XI
 
 Wat het Koninkrijk der Nederlanden betreft, geldt deze Overeenkomst alleen voor het in Europa gelegen deel van het Koninkrijk en wat het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreft, alleen voor Groot-Brittannië en Noord-Ierland.
 
-#### Artikel XII
+##### Artikel XII
 
 Deze Overeenkomst dient te worden bekrachtigd. De akten van bekrachtiging worden nedergelegd bij de Regering van het Koninkrijk der Nederlanden. Deze Overeenkomst treedt in werking na de nederlegging bij de Regering van het Koninkrijk der Nederlanden van de derde akte van bekrachtiging. De Regering van het Koninkrijk der Nederlanden stelt de andere ondertekenende Staten in kennis van de nederlegging van elke akte van bekrachtiging en van de datum van inwerkingtreding van deze Overeenkomst.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Iedere Overeenkomstsluitende Partij of de Gemengde Commissie kan te allen tijde voorstellen doen tot wijziging van deze Overeenkomst. Deze voorstellen worden, indien zij door de Gemengde Commissie zijn goedgekeurd, door de Commissie aan de Overeenkomstsluitende Partijen ter aanvaarding voorgelegd. Elke aldus voorgelegde wijziging moet door iedere Overeenkomstsluitende Partij schriftelijk worden aanvaard en treedt in werking 30 dagen na ontvangst door de Regering van het Koninkrijk der Nederlanden van een schriftelijke kennisgeving van aanvaarding van alle Overeenkomstsluitende Partijen. De Regering van het Koninkrijk der Nederlanden stelt de andere Overeenkomstsluitende Partijen in kennis van de datum van inwerkingtreding van een zodanige wijziging.
 
-#### Artikel XIV
+##### Artikel XIV
 
 In geval van toetreding van het Verenigd Koninkrijk tot het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) of tot een verdrag dat voor dit Verdrag in de plaats treedt, onderwerpen de Overeenkomstsluitende Partijen deze Overeenkomst aan een onderzoek ten einde vast te stellen in hoeverre wijzigingen als gevolg van deze toetreding nodig of wenselijk zijn.
 
-#### Artikel XV
+##### Artikel XV
 
 Nadat deze Overeenkomst tien jaar van kracht is geweest, kan iedere Overeenkomstsluitende Partij, met inachtneming van een opzeggingstermijn van een jaar, deze Overeenkomst schriftelijk opzeggen. De Overeenkomstsluitende Partijen voeren onmiddellijk daarop onderhandelingen met het oog op de regeling van de gevolgen van een zodanige opzegging.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Deze Overeenkomst kan te allen tijde met eenstemmige goedkeuring van de Overeenkomstsluitende Partijen worden beëindigd. In dit geval wordt tussen hen een Protocol gesloten voor een dienovereenkomstige regeling van de rechten en verplichtingen, waaronder begrepen bepalingen aangaande de te volgen handelwijze met betrekking tot activa en passiva verband houdend met de samenwerking krachtens deze Overeenkomst.
 
-#### Artikel XVII
+##### Artikel XVII
 
 In het geval van opzegging van deze Overeenkomst door een Overeenkomstsluitende partij overeenkomstig de bepalingen van Artikel XV of in geval van beëindiging van deze Overeenkomst krachtens Artikel XVI, worden geëigende voorzieningen getroffen voor de voortzetting, in verband met het bepaalde in de Artikelen VI en VII, van verbintenissen en waarborgen en, in verband met het bepaalde in Artikel V, van maatregelen, voor de bescherming van gerubriceerde gegevens, documenten en apparatuur. Zolang deze voorzieningen nog niet zijn getroffen, blijven de Artikelen V, VI en VII en alle uit hoofde daarvan tot stand gekomen regelingen of toegepaste procedures van kracht.
 

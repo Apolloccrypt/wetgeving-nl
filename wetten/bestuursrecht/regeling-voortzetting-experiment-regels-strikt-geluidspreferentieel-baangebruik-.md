@@ -1,20 +1,46 @@
 ---
-title: "Regeling voortzetting experiment regels strikt geluidspreferentieel baangebruik volgens het nieuwe normen- en handhavingstelsel voor de luchthaven Schiphol"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 9 juli 2013, nr. IenM/BSK-2013/129725, tot voortzetting van het experiment met de regels voor het strikt geluidspreferentieel baangebruik volgens het nieuwe normen- en handhavingstelsel voor de luchthaven Schiphol"
 identifier: "BWBR0033661"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-07-13
-laatste_update: 2013-07-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033661"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-07-13"
+last_updated: "2013-07-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033661"
+soort: "ministeriele-regeling"
+stam_id: "12312603"
+version_id: "20640042"
+internal_id: "C29548511"
+label_id: "12283784"
+dtd_version: "2.0"
+original_entry_into_force: "2013-07-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033661/2013-07-13/0"
+intitule_bron: "Stcrt.2013-18637"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-07-09"
+intitule_published: "2013-07-12"
+intitule_in_force: "2013-07-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-18637"
+original_signed_date: "2013-07-09"
+original_published_date: "2013-07-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-18637"
+entry_into_force_date: "2013-07-13"
+jci_1_3: "jci1.3:c:BWBR0033661&z=2013-07-13&g=2013-07-13"
+jci_1_0: "1.0:c:BWBR0033661&g=2013-07-13"
+citeertitel_status: "redactioneel"
+short_title: "Regeling voortzetting experiment regels strikt geluidspreferentieel baangebruik volgens het nieuwe normen- en handhavingstelsel voor de luchthaven Schiphol"
+signed_date: "2013-07-09"
+entry_into_force: "2013-07-13"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 9 juli 2013, nr. IenM/BSK-2013/129725, tot voortzetting van het experiment met de regels voor het strikt geluidspreferentieel baangebruik volgens het nieuwe normen- en handhavingstelsel voor de luchthaven Schiphol
 
 Gelet op [artikel 8.23a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.23a), [8.27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.27), en [8.28, vierde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.28);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -26,11 +52,11 @@ In deze regeling wordt verstaan onder:
 
 - d. **Schiphol:** N.V. Luchthaven Schiphol.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 De regeling heeft tot doel te borgen dat het vliegen volgens de regels van het strikt geluidspreferentieel baangebruik voortgang kan vinden en niet leidt tot ongewenste stuurmaatregelen in de operatie van Schiphol om de kans op overschrijdingen van de grenswaarden voor de geluidbelasting in handhavingspunten te minimaliseren.
 
-#### Artikel 3. Grenswaarden
+##### Artikel 3. Grenswaarden
 
 1. In plaats van de grenswaarden genoemd in [bijlage 2 van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=2) gelden tijdens dit experiment voor het gebruiksjaar 2013 vanaf 15 juli 2013 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:
 
@@ -104,15 +130,15 @@ De regeling heeft tot doel te borgen dat het vliegen volgens de regels van het s
 | 24 | 106.000 | 471.050 | 46,02 | (47,02) |
 | 25 | 100.475 | 472.525 | 48,64 | (49,64) |
 
-#### Artikel 4. Uitvoering
+##### Artikel 4. Uitvoering
 
 In het gebruiksjaar 2013 wordt het vliegen volgens de regels voor het strikt geluidsprefentieel baangebruik voortgezet. Dit houdt in dat bij voorkeur de voor de omgeving minst overlastgevende start- en landingsbanen (Polderbaan en Kaagbaan) worden ingezet.
 
-#### Artikel 5. Gevolgen
+##### Artikel 5. Gevolgen
 
 De gevolgen van het experiment met het nieuwe normen- en handhavingstelsel staan beschreven in het Tussentijdse evaluatierapport van de Tafel van Alders (Kamerstukken II 2011/2012, 29 665, nr. 175) en de monitoringsrapportages over het gebruiksjaar 2011 en 2012 (Kamerstukken II 2011/2012, 29 665, nrs. 162, 165, 168, 171, 175, 176, 179 en 185).
 
-#### Artikel 6. Criteria
+##### Artikel 6. Criteria
 
 De criteria die onderdeel vormen van de afweging en de beoordeling of het experiment met het nieuwe normen- en handhavingstelsel zal worden omgezet in een wijziging van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) en van het [LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330) staan beschreven in de brief van Hans Alders van 19 augustus 2010 aan de Minister van Verkeer en Waterstaat en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer (Kamerstukken II 2009/2010, 29 665, nr. 152), en zijn op hoofdlijnen:
 
@@ -130,19 +156,19 @@ De criteria die onderdeel vormen van de afweging en de beoordeling of het experi
 
 Deze criteria zijn nader uitgewerkt in de brief van de Staatssecretaris van Infrastructuur en Milieu aan de Tweede Kamer van 28 oktober 2010 (Kamerstukken II 2009/2010, 29 665, nr. 158).
 
-#### Artikel 7. Onvoorziene gevallen
+##### Artikel 7. Onvoorziene gevallen
 
 In onvoorziene gevallen kan op advies van belanghebbenden de Staatssecretaris van Infrastructuur en Milieu overgaan tot bijsturen, opschorten of vroegtijdig stopzetten van het experiment.
 
-#### Artikel 8. Termijn experiment
+##### Artikel 8. Termijn experiment
 
 De termijn van het experiment betreft de periode van 15 juli 2013 tot en met 31 oktober 2013.
 
-#### Artikel 9. Reparatie
+##### Artikel 9. Reparatie
 
 Wijzigt de Regeling milieu-informatie luchthaven Schiphol.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

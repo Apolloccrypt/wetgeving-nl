@@ -1,13 +1,37 @@
 ---
 title: "Uitvoering wachtgeldvutgarantie"
 identifier: "BWBR0009739"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-04-01
-laatste_update: 1997-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009739"
+country: "nl"
+rank: "circulaire"
+publication_date: "1997-04-01"
+last_updated: "1997-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009739"
+soort: "circulaire"
+stam_id: "6355153"
+version_id: "11012562"
+internal_id: "C14906831"
+label_id: "6344074"
+original_entry_into_force: "1997-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009739/1997-04-01/0"
+intitule_bron: "Stcrt.1998-138"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-06-29"
+intitule_published: "1998-07-24"
+intitule_in_force: "1998-07-24"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-138"
+original_signed_date: "1998-06-29"
+original_published_date: "1998-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1998-138-p10-SC14821"
+entry_into_force_date: "1997-04-01"
+jci_1_3: "jci1.3:c:BWBR0009739&z=1997-04-01&g=1997-04-01"
+jci_1_0: "1.0:c:BWBR0009739&g=1997-04-01"
+citeertitel_status: "redactioneel"
+signed_date: "1998-06-29"
+entry_into_force: "1997-04-01"
 ---
-
 # Uitvoering wachtgeldvutgarantie
 
 Bij [circulaire](onbekend) van 11 december 1997 informeerde ik u over de uitvoering van de wachtgeldvutmaatregel en de wachtgeldvutgarantie. In aanvulling en ter correctie op die [circulaire](onbekend) bericht ik u het volgende.

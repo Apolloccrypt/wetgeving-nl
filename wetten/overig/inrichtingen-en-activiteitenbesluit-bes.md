@@ -1,13 +1,39 @@
 ---
-title: "Inrichtingen- en activiteitenbesluit BES"
+title: "Besluit van 20 december 2023, houdende regels met betrekking tot inrichtingen- en activiteiten, milieueffectrapportage en de kwaliteit van toezicht en handhaving, ter bescherming van de fysieke leefomgeving op Bonaire, Sint Eustatius en Saba (Inrichtingen- en activiteitenbesluit BES)"
 identifier: "BWBR0049276"
-categorie: "Overig"
-publicatiedatum: 2024-04-01
-laatste_update: 2024-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049276"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2024-04-01"
+last_updated: "2024-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049276"
+soort: "AMvB-BES"
+stam_id: "17011073"
+version_id: "29922002"
+internal_id: "C42888771"
+label_id: "16921244"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049276/2024-04-01/0"
+intitule_bron: "Stb.2023-493"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-20"
+intitule_published: "2023-12-22"
+intitule_in_force: "2023-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2023-493"
+original_signed_date: "2023-12-20"
+original_published_date: "2023-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2023-493"
+entry_into_force_date: "2024-04-01"
+jci_1_3: "jci1.3:c:BWBR0049276&z=2024-04-01&g=2024-04-01"
+jci_1_0: "1.0:c:BWBR0049276&g=2024-04-01"
+citeertitel_status: "officieel"
+short_title: "Inrichtingen- en activiteitenbesluit BES"
+signed_date: "2023-12-20"
+entry_into_force: "2024-04-01"
 ---
-
 # Besluit van 20 december 2023, houdende regels met betrekking tot inrichtingen- en activiteiten, milieueffectrapportage en de kwaliteit van toezicht en handhaving, ter bescherming van de fysieke leefomgeving op Bonaire, Sint Eustatius en Saba (Inrichtingen- en activiteitenbesluit BES)
 
 Op de voordracht Onze Minister van Infrastructuur en Waterstaat van 18 augustus 2023, nr. IENW/BSK-2022/228899, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -50,7 +76,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **wet:** [Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031218).
 
-#### Artikel 1.2. Categorieën van inrichtingen
+##### Artikel 1.2. Categorieën van inrichtingen
 
 1. Als categorieën van inrichtingen als bedoeld in [artikel 1.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=1.2) worden aangewezen de inrichtingen die in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&bijlage=1&z=2024-04-01&g=2024-04-01) bij dit besluit zijn genoemd.
 
@@ -64,13 +90,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. inrichting type IV: inrichting die als type IV is aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&bijlage=1&z=2024-04-01&g=2024-04-01).
 
-#### Artikel 1.3. Bevoegd gezag
+##### Artikel 1.3. Bevoegd gezag
 
 1. Het bestuurscollege is het bevoegd gezag ten aanzien van inrichtingen type I, type II en type III.
 
 2. Onze Minister is het bevoegd gezag ten aanzien van inrichtingen type IV.
 
-#### Artikel 1.4. Zorgplicht
+##### Artikel 1.4. Zorgplicht
 
 1. Degene die een inrichting type I, II, III of IV drijft en weet of redelijkerwijs had kunnen weten dat hiermee nadelige gevolgen voor het milieu ontstaan of kunnen ontstaan die niet of onvoldoende kunnen worden voorkomen of beperkt door naleving van de bij of krachtens dit besluit gestelde regels, is verplicht alle maatregelen te nemen die redelijkerwijs van hem kunnen worden gevraagd om die gevolgen te voorkomen.
 
@@ -116,7 +142,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Regels voor inrichtingen type i en ii
 
-#### Artikel 2.1. Kwaliteitscriteria
+##### Artikel 2.1. Kwaliteitscriteria
 
 1. Degene die een type I of II inrichting drijft, voldoet aan de bij ministeriële regeling vast te stellen kwaliteitscriteria alsmede aan de nadere regels gesteld bij eilandsverordening.
 
@@ -152,7 +178,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De eilandsraad stelt nadere regels als bedoeld in [artikel 5.1, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=5.1), over de kwaliteitscriteria, bedoeld in het eerste lid, die betrekking hebben op de onderwerpen, bedoeld in het tweede lid.
 
-#### Artikel 2.2. Melding inrichting type II
+##### Artikel 2.2. Melding inrichting type II
 
 1. Degene die een inrichting type II opricht, verandert of de werking daarvan verandert, meldt dat bij het bevoegd gezag, bedoeld in [artikel 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&hoofdstuk=1&artikel=1.3&z=2024-04-01&g=2024-04-01).
 
@@ -174,7 +200,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. nummer van de bouwvergunning.
 
-#### Artikel 2.3. Maatwerkvoorschriften als bedoeld in [artikel 5.4, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=5.4), voor inrichtingen type I en II
+##### Artikel 2.3. Maatwerkvoorschriften als bedoeld in [artikel 5.4, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=5.4), voor inrichtingen type I en II
 
 1. Het bestuurscollege kan ambtshalve of op aanvraag van degene die een inrichting type I of II drijft, maatwerkvoorschriften als bedoeld in [artikel 5.4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=5.4), vaststellen, indien deze voorschriften betrekking hebben op bij ministeriële regeling of eilandsverordening vast te stellen kwaliteitscriteria en een hoger of gelijkwaardig niveau van bescherming van het milieu bieden dan het bepaalde op grond van [artikel 2.1, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&hoofdstuk=2&artikel=2.1&z=2024-04-01&g=2024-04-01).
 
@@ -188,11 +214,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 3. REGELS VOOR INRICHTINGEN TYPE III en IV
 
-#### Artikel 3.1. Vergunningplicht
+##### Artikel 3.1. Vergunningplicht
 
 Degene die een inrichting type III of IV opricht, in werking heeft, verandert of de werking daarvan verandert, vraagt schriftelijk een vergunning als bedoeld in [artikel 5.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=5.1), aan bij het bevoegd gezag, bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&hoofdstuk=1&artikel=1.3&z=2024-04-01&g=2024-04-01).
 
-#### Artikel 3.2. De aanvraag vergunning inrichtingen type III
+##### Artikel 3.2. De aanvraag vergunning inrichtingen type III
 
 1. Bij de aanvraag om een vergunning voor een inrichting type III worden de volgende gegevens verstrekt:
 
@@ -250,7 +276,7 @@ Degene die een inrichting type III of IV opricht, in werking heeft, verandert of
 
 5. De gegevens, genoemd in het eerste en tweede lid, behoeven niet te worden verstrekt voor zover het bevoegd gezag reeds over die gegevens beschikt.
 
-#### Artikel 3.3. De aanvraag vergunning inrichtingen type IV
+##### Artikel 3.3. De aanvraag vergunning inrichtingen type IV
 
 1. Bij de aanvraag om een vergunning voor een inrichting type IV verstrekt de aanvrager de gegevens, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&hoofdstuk=3&artikel=3.2&z=2024-04-01&g=2024-04-01), en:
 
@@ -272,7 +298,7 @@ Degene die een inrichting type III of IV opricht, in werking heeft, verandert of
 
 3. De gegevens, bedoeld in het eerste en tweede lid, behoeven niet te worden verstrekt voor zover Onze Minister reeds over die gegevens beschikt.
 
-#### Artikel 3.4. Beste beschikbare technieken inrichtingen type III en IV
+##### Artikel 3.4. Beste beschikbare technieken inrichtingen type III en IV
 
 1. Het bevoegd gezag houdt ten behoeve van de vergunning bij het bepalen van de voor inrichting type III en IV in aanmerking komende beste beschikbare technieken, in elk geval rekening met:
 
@@ -314,7 +340,7 @@ Degene die een inrichting type III of IV opricht, in werking heeft, verandert of
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld over de inhoud van de beste beschikbare technieken en omtrent de wijze waarop aan dit artikel uitvoering wordt gegeven.
 
-#### Artikel 3.5. Melding verandering inrichtingen type III en IV
+##### Artikel 3.5. Melding verandering inrichtingen type III en IV
 
 Bij een melding als bedoeld in [artikel 5.25, eerste lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=5.25), van het voornemen tot het uitvoeren van een verandering van een inrichting verstrekt de vergunninghouder de volgende gegevens:
 
@@ -332,7 +358,7 @@ Bij een melding als bedoeld in [artikel 5.25, eerste lid, aanhef en onderdeel b,
 
 - g. het beoogde tijdstip van verwezenlijking van de voorgenomen verandering.
 
-#### Artikel 3.6. Openbare kennisgeving
+##### Artikel 3.6. Openbare kennisgeving
 
 1. De verklaring, bedoeld in [artikel 5.25, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=5.25), wordt ter inzage gelegd en van de verklaring wordt kennisgegeven in één of meer plaatselijke dagbladen en voorts op de voor publicatie van officiële mededelingen gebruikelijke wijze.
 
@@ -348,7 +374,7 @@ Bij een melding als bedoeld in [artikel 5.25, eerste lid, aanhef en onderdeel b,
 
 3. In de gevallen waarin een verklaring betrekking heeft op een inrichting type IV kan Onze Minister de kennisgeving, bedoeld in het eerste lid, geheel of gedeeltelijk achterwege laten, voor zover het belang van de veiligheid van de staat dat vereist.
 
-#### Artikel 3.7. Financiële zekerheid bij vergunning
+##### Artikel 3.7. Financiële zekerheid bij vergunning
 
 1. Het bevoegd gezag kan in de vergunning de verplichting opnemen dat degene die een inrichting type III of type IV opricht, verandert of de werking daarvan verandert, in werking heeft of beëindigt, financiële zekerheid stelt:
 
@@ -362,7 +388,7 @@ Bij een melding als bedoeld in [artikel 5.25, eerste lid, aanhef en onderdeel b,
 
 ### Hoofdstuk 3a. Categorieën van personen
 
-#### Artikel 3.1a. Categorieën van personen behorende bij [artikel 1.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=1.2)
+##### Artikel 3.1a. Categorieën van personen behorende bij [artikel 1.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=1.2)
 
 Als categorieën van personen bedoeld in [artikel 1.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=1.2), in de omschrijving van het begrip «badinrichting», worden aangewezen:
 
@@ -372,7 +398,7 @@ Als categorieën van personen bedoeld in [artikel 1.2, eerste lid, van de wet](h
 
 ### Hoofdstuk 4. Milieueffectrapportage
 
-#### Artikel 4.1. Milieueffectrapportage
+##### Artikel 4.1. Milieueffectrapportage
 
 1. Als activiteiten als bedoeld in [artikel 7.1, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=7.1), worden aangewezen de activiteiten die behoren tot een categorie die in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&bijlage=2&z=2024-04-01&g=2024-04-01), onderdeel B, van dit besluit, is omschreven.
 
@@ -390,7 +416,7 @@ Als categorieën van personen bedoeld in [artikel 1.2, eerste lid, van de wet](h
 
 ### Hoofdstuk 5. Toezicht en handhaving van de fysieke leefomgeving
 
-#### Artikel 5.1. Toezicht- en handhavingsbeleid
+##### Artikel 5.1. Toezicht- en handhavingsbeleid
 
 1. Onze Minister en het bestuurscollege die zijn belast met de bestuursrechtelijke handhaving bedoeld in [artikel 10.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=10.2), stellen ieder voor zich het toezicht- en handhavingsbeleid vast. Het toezicht- en handhavingsbeleid wordt vastgesteld voor een periode van ten minste één kalenderjaar.
 
@@ -414,13 +440,13 @@ Als categorieën van personen bedoeld in [artikel 1.2, eerste lid, van de wet](h
 
 5. [Titel 4.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.3) is van overeenkomstige toepassing op het toezicht- en handhavingsbeleid.
 
-#### Artikel 5.2. Uitvoeringsprogramma toezicht- en handhaving
+##### Artikel 5.2. Uitvoeringsprogramma toezicht- en handhaving
 
 1. Onze Minister en het bestuurscollege werken het toezicht- en handhavingsbeleid, bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&hoofdstuk=5&artikel=5.1&z=2024-04-01&g=2024-04-01), jaarlijks uit in een uitvoeringsprogramma. Hierin wordt aangegeven welke voorgenomen activiteiten Onze Minister en het bestuurscollege het komende kalenderjaar uitvoeren en de bijbehorende benodigde capaciteit voor die uitvoering. Daarbij wordt rekening gehouden met de gestelde doelen en prioriteiten als bedoeld in artikel 5.1, tweede lid, onderdeel a.
 
 2. [Artikel 5.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&hoofdstuk=5&artikel=5.1&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing.
 
-#### Artikel 5.3. Monitoring en evaluatie
+##### Artikel 5.3. Monitoring en evaluatie
 
 1. Onze Minister en het bestuurscollege bewaken de resultaten en de voortgang van:
 
@@ -430,7 +456,7 @@ Als categorieën van personen bedoeld in [artikel 1.2, eerste lid, van de wet](h
 
 2. Onze Minister en het bestuurscollege passen op grond van de resultaten genoemd in het eerste lid, het toezicht- en handhavingsbeleid, bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&hoofdstuk=5&artikel=5.1&z=2024-04-01&g=2024-04-01), zo nodig aan.
 
-#### Artikel 5.4. Rapportage
+##### Artikel 5.4. Rapportage
 
 Het bestuurscollege rapporteert jaarlijks aan de eilandsraad en aan Onze Minister over:
 
@@ -440,11 +466,11 @@ Het bestuurscollege rapporteert jaarlijks aan de eilandsraad en aan Onze Ministe
 
 - c. de uitgevoerde activiteiten die zijn opgenomen in de uitvoeringsprogramma’s, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&hoofdstuk=5&artikel=5.2&z=2024-04-01&g=2024-04-01), en in hoeverre deze activiteiten hebben bijgedragen aan het bereiken van de krachtens [artikel 5.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&hoofdstuk=5&artikel=5.1&z=2024-04-01&g=2024-04-01), gestelde doelen.
 
-#### Artikel 5.5. Bekendmaking
+##### Artikel 5.5. Bekendmaking
 
 Het toezicht- en handhavingsbeleid, bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&hoofdstuk=5&artikel=5.1&z=2024-04-01&g=2024-04-01), het uitvoeringsprogramma, bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&hoofdstuk=5&artikel=5.2&z=2024-04-01&g=2024-04-01), en de rapportage, bedoeld in artikel 5.4, worden als geheel bekendgemaakt overeenkomstig de [Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287).
 
-#### Artikel 5.6. Nadere regels
+##### Artikel 5.6. Nadere regels
 
 In overeenstemming met [artikel 10.9, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=10.9) kunnen bij ministeriële regeling nadere regels worden gesteld over de doelmatige handhaving van de wet, waaronder in ieder geval regels over:
 
@@ -456,7 +482,7 @@ In overeenstemming met [artikel 10.9, vierde lid, van de wet](https://wetten.ove
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-#### Artikel 6.1. Overgangsrecht
+##### Artikel 6.1. Overgangsrecht
 
 1. Een vergunning verleend op grond van:
 
@@ -488,17 +514,17 @@ wordt aangemerkt als een vergunning als bedoeld in [artikel 5.1, tweede lid, van
 
 8. Als op het tijdstip van inwerkingtreding van dit besluit ten aanzien van een inrichting als bedoeld in het zevende lid, nog niet is beslist op een aanvraag om een hindervergunning, is het zevende lid niet van toepassing en wordt de aanvraag om de hindervergunning aangemerkt als een melding overeenkomstig [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&hoofdstuk=2&artikel=2.2&z=2024-04-01&g=2024-04-01).
 
-#### Artikel 6.2. Intrekking [Besluit grote inrichtingen milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0036481)
+##### Artikel 6.2. Intrekking [Besluit grote inrichtingen milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0036481)
 
 1. Het [Besluit grote inrichtingen milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0036481) wordt ingetrokken.
 
 2. Na de inwerkingtreding van dit besluit berust de [Regeling aanwijzing BBT-documenten grote inrichtingen milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0036456) op [artikel 3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&hoofdstuk=3&artikel=3.4&z=2024-04-01&g=2024-04-01), van dit besluit.
 
-#### Artikel 6.3. Inwerkingtreding
+##### Artikel 6.3. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende openbare lichamen, artikelen en categorieën van inrichtingen van dit besluit verschillend kan worden vastgesteld.
 
-#### Artikel 6.4. Citeertitel
+##### Artikel 6.4. Citeertitel
 
 Dit besluit wordt aangehaald als: Inrichtingen- en activiteitenbesluit BES.
 

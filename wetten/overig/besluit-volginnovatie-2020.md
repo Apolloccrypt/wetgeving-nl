@@ -1,13 +1,39 @@
 ---
-title: "Besluit volginnovatie 2020"
+title: "Besluit van de Minister van Economische Zaken en Klimaat van 8 december 2021 inzake volginnovatie 2020"
 identifier: "BWBR0046068"
-categorie: "Overig"
-publicatiedatum: 2021-12-23
-laatste_update: 2021-12-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046068"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-12-23"
+last_updated: "2021-12-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046068"
+soort: "ministeriele-regeling"
+stam_id: "16195663"
+version_id: "28264152"
+internal_id: "C39851061"
+label_id: "16123784"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046068/2021-12-23/0"
+intitule_bron: "Stcrt.2021-50198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-08"
+intitule_published: "2021-12-22"
+intitule_in_force: "2021-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-50198"
+original_signed_date: "2021-12-08"
+original_published_date: "2021-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-50198"
+entry_into_force_date: "2021-12-23"
+jci_1_3: "jci1.3:c:BWBR0046068&z=2021-12-23&g=2021-12-23"
+jci_1_0: "1.0:c:BWBR0046068&g=2021-12-23"
+citeertitel_status: "redactioneel"
+short_title: "Besluit volginnovatie 2020"
+signed_date: "2021-12-08"
+entry_into_force: "2021-12-23"
 ---
-
 # Besluit van de Minister van Economische Zaken en Klimaat van 8 december 2021 inzake volginnovatie 2020
 
 Gelet op [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2);
@@ -22,7 +48,7 @@ Gelet op [artikel 8 van de Wet openbaarheid van bestuur](https://wetten.overheid
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Op grond van het vorenstaande worden van alle verleende innovatiegelden in het kader van de uitvoering van bovengenoemde regelingen, de gegevens gepubliceerd met betrekking tot:
 
@@ -54,7 +80,7 @@ De gegevens worden niet eerder dan drie weken na de bekendmaking van dit besluit
 
 2. De gegevens, bedoeld in het eerste lid, hebben uitsluitend betrekking op rechtspersonen.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

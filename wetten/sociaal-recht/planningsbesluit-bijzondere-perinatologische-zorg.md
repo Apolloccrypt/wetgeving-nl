@@ -1,46 +1,71 @@
 ---
 title: "Planningsbesluit bijzondere perinatologische zorg"
 identifier: "BWBR0032383"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-06-05
-laatste_update: 2024-06-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032383"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-05"
+last_updated: "2024-06-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032383"
+soort: "ministeriele-regeling"
+stam_id: "11936533"
+version_id: "19843062"
+internal_id: "C27871431"
+label_id: "11908444"
+dtd_version: "2.0"
+original_entry_into_force: "2001-09-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032383/2024-06-05/0"
+intitule_bron: "Stcrt.2001-175"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-07-06"
+intitule_published: "2001-09-11"
+intitule_in_force: "2001-09-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-175"
+original_signed_date: "2001-07-06"
+original_published_date: "2001-09-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2001-175-p9-SC30879"
+entry_into_force_date: "2001-09-13"
+jci_1_3: "jci1.3:c:BWBR0032383&z=2024-06-05&g=2024-06-05"
+jci_1_0: "1.0:c:BWBR0032383&g=2024-06-05"
+citeertitel_status: "officieel"
+signed_date: "2001-07-06"
+entry_into_force: "2001-09-13"
 ---
-
 # Planningsbesluit bijzondere perinatologische zorg
 
 Gelet op [artikel 5 van de Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=5) en op [artikel 1, onder b, van het Besluit aanwijzing bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0005209&artikel=1),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Er bestaat behoefte aan maximaal negen centra voor bijzondere perinatologische zorg.
 
-#### Artikel 2
+##### Artikel 2
 
 De wijze waarop in de behoefte aan centra voor bijzondere perinatologische zorg kan worden voorzien, de spreiding van deze centra over Nederland en de manier waarop de eventuele uitbreiding bij de bestaande centra gerealiseerd wordt, zijn neergelegd in de bijlage bij deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor het uitvoeren van de verrichtingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032383&artikel=1&z=2024-06-05&g=2024-06-05) gelden de voorwaarden zoals aangegeven in de bijlage bij deze regeling.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het bedrag van de investeringskosten voor apparatuur als bedoeld in [artikel 1, onder b, van het Besluit aanwijzing bijzondere verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0005209&artikel=1) ten behoeve van bijzondere perinatologische zorg tot welk bedrag een vergunning niet vereist is, wordt vastgesteld op € 9.075.604,32 per afzonderlijk apparaat.
 
 2. Tot en met 31 december 2001 bedraagt het in het eerste lid genoemde bedrag f 20 miljoen.
 
-#### Artikel 5
+##### Artikel 5
 
 Het Planningsbesluit neonatale intensive care 1993 wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Planningsbesluit bijzondere perinatologische zorg.
 

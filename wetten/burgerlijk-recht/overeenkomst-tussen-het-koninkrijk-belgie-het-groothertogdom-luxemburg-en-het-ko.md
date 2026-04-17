@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden (de Benelux-staten) en de Republiek Kosovo betreffende de terug- en overname van onregelmatig binnengekomen en/of verblijvende personen en haar Uitvoeringsprotocol"
 identifier: "BWBV0005360"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2014-04-01
-laatste_update: 2014-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005360"
+country: "nl"
+rank: "verdrag"
+publication_date: "2014-04-01"
+last_updated: "2014-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005360"
+soort: "verdrag"
+stam_id: "10004585473"
+version_id: "10004825202"
+internal_id: "C10009083661"
+label_id: "10004570374"
+dtd_version: "2.0"
+original_entry_into_force: "2014-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005360/2014-04-01/0"
+intitule_bron: "Trb.2011-127"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-07-22"
+intitule_in_force: "2014-07-30"
+intitule_status: "goed"
+original_publication: "Trb.2011-127"
+original_published_date: "2011-07-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-127"
+entry_into_force_date: "2014-04-01"
+jci_1_3: "jci1.3:c:BWBV0005360&z=2014-04-01&g=2014-04-01"
+jci_1_0: "1.0:c:BWBV0005360&g=2014-04-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2014-04-01"
 ---
-
 # Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden (de Benelux-staten) en de Republiek Kosovo betreffende de terug- en overname van onregelmatig binnengekomen en/of verblijvende personen en haar Uitvoeringsprotocol
 
 Het Koninkrijk België,
@@ -40,7 +62,7 @@ Bezorgd dat deze terug- en overname snel en veilig moet plaatsvinden, volgens pr
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Definities en werkingssfeer
+##### Artikel 1. Definities en werkingssfeer
 
 Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
@@ -72,7 +94,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 - 10. ”verblijfstitel”: een door de Partijen afgegeven vergunning, ongeacht van welke aard, die een persoon recht geeft om op haar grondgebied te verblijven. Hieronder valt niet de tijdelijke toelating tot verblijf met het oog op de behandeling van een asielverzoek of van een verzoek om een verblijfstitel.
 
-#### Artikel 2. Terugname van eigen onderdanen of staatsburgers
+##### Artikel 2. Terugname van eigen onderdanen of staatsburgers
 
 1. Iedere Partij neemt op verzoek van de andere Partij, zonder andere formaliteiten dan die welke in deze Overeenkomst zijn genoemd, de persoon op haar grondgebied terug die niet of niet meer voldoet aan de voorwaarden voor binnenkomst of verblijf op het grondgebied van de verzoekende Partij, wanneer kan worden aangetoond of op basis van een begin van bewijs aannemelijk kan worden gemaakt dat hij de nationaliteit of het staatsburgerschap van de aangezochte Partij heeft.
 
@@ -82,7 +104,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 4. De verzoekende Partij neemt deze persoon onder dezelfde voorwaarden terug, indien uit een onderzoek, uitgevoerd binnen een termijn van drie maanden na de terugname van betrokkene, blijkt dat hij op het moment van het verlaten van het grondgebied van de verzoekende Partij niet de nationaliteit of het staatsburgerschap van de aangezochte Partij had, tenzij de terugnameplicht volgt uit lid (2).
 
-#### Artikel 3. Overname van onderdanen van een derde Staat en staatlozen
+##### Artikel 3. Overname van onderdanen van een derde Staat en staatlozen
 
 1. Iedere Partij neemt op verzoek van de andere Partij en zonder andere formaliteiten dan die welke in deze Overeenkomst zijn genoemd, elke onderdaan van een derde Staat over op haar grondgebied die niet of niet meer voldoet aan de voorwaarden voor binnenkomst of verblijf op het grondgebied van de verzoekende Partij, wanneer kan worden aangetoond of op basis van een begin van bewijs aannemelijk kan worden gemaakt dat die onderdaan
 
@@ -98,7 +120,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 3. De aangezochte Partij verplicht zich tegenover de over te nemen onderdaan van een derde Staat de bepalingen van [artikel 33 van het Verdrag van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002&artikel=33), als gewijzigd bij het [Protocol van 31 januari 1967 betreffende de status van vluchtelingen](onbekend), alsmede de bepalingen van [artikel 3 van het Verdrag van 4 november 1950 tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=3), dan wel de bepalingen van [artikel 7 van het Internationale Verdrag inzake burgerrechten en politieke rechten](https://wetten.overheid.nl/jci1.3:c:BWBV0001017&artikel=7) van 19 december 1966, als ook de bepalingen van [artikel 3 van het Verdrag van 10 december 1984 tegen foltering en andere wrede, onmenselijke of vernederende behandeling of bestraffing](https://wetten.overheid.nl/jci1.3:c:BWBV0002507&artikel=3), na te leven, ook indien zij geen partij is bij deze Verdragen.
 
-#### Artikel 4. Indiening van het verzoek om terug- of overname
+##### Artikel 4. Indiening van het verzoek om terug- of overname
 
 1. Een verzoek om terug- of overname op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=2&z=2014-04-01&g=2014-04-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=3&z=2014-04-01&g=2014-04-01) wordt schriftelijk ingediend bij de bevoegde autoriteit van de aangezochte Partij.
 
@@ -118,7 +140,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 5. Indien de terug of over te nemen persoon zich in de internationale zone van een luchthaven van één der Partijen bevindt kunnen de bevoegde luchthavenautoriteiten een vereenvoudigde procedure overeenkomen.
 
-#### Artikel 5. Bewijsmiddelen met betrekking tot eigen onderdanen of staatsburgers
+##### Artikel 5. Bewijsmiddelen met betrekking tot eigen onderdanen of staatsburgers
 
 1. Het bewijs van de nationaliteit of het staatsburgerschap overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=2&z=2014-04-01&g=2014-04-01) kan worden geleverd door middel van de navolgende documenten:
 
@@ -170,7 +192,7 @@ Wanneer dergelijke documenten of elementen worden voorgelegd, nemen de Partijen 
 
 5. Indien om feitelijke of technische redenen de bij de verzoekende Partij geaccrediteerde diplomatieke of consulaire vertegenwoordiging van de aangezochte Partij niet in staat is om de betrokkene te horen, zal deze taak in uitzonderlijke omstandigheden worden uitgevoerd door ofwel een in onderlinge overeenstemming aangewezen deskundige ofwel een uitgenodigde delegatie van de aangezochte Partij die bij de verzoekende Partij is geaccrediteerd.
 
-#### Artikel 6. Bewijsmiddelen met betrekking tot onderdanen van een derde Staat
+##### Artikel 6. Bewijsmiddelen met betrekking tot onderdanen van een derde Staat
 
 1. Het bewijs dat is voldaan aan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=3&z=2014-04-01&g=2014-04-01) vermelde voorwaarden voor overname van onderdanen van een derde Staat kan worden geleverd door middel van de navolgende bewijsmiddelen:
 
@@ -212,7 +234,7 @@ Bovengenoemde bewijsmiddelen worden tussen de Partijen zonder verdere formalitei
 
 Wanneer dit begin van bewijs is geleverd, nemen de Partijen aan dat aan de voorwaarden is voldaan, tenzij de aangezochte Partij het tegendeel kan bewijzen.
 
-#### Artikel 7. Termijnen
+##### Artikel 7. Termijnen
 
 1. Het verzoek om terugname van een eigen onderdaan of staatsburger kan op ieder ogenblik door de bevoegde autoriteit van de verzoekende Partij worden ingediend, wanneer is vastgesteld dat de betrokkene niet of niet meer voldoet aan de voorwaarden voor binnenkomst of verblijf op het grondgebied van de verzoekende Partij.
 
@@ -226,13 +248,13 @@ Wanneer dit begin van bewijs is geleverd, nemen de Partijen aan dat aan de voorw
 
 6. Op verzoek van de verzoekende Partij verstrekt de aangezochte Partij op naam van de over te dragen persoon onverwijld, doch uiterlijk binnen drie werkdagen, de voor zijn terugkeer noodzakelijke reisdocumenten met een geldigheidsduur van drie maanden. Kan de aangezochte Partij het gevraagde reisdocument niet binnen drie werkdagen na de datum van ontvangst van het verzoek verstrekken, dan wordt aangenomen dat zij instemt met het gebruik van een door de verzoekende Partij verstrekt reisdocument. Indien de betrokkene om juridische of feitelijke redenen niet binnen de geldigheidstermijn van het oorspronkelijk afgegeven reisdocument kan worden overgedragen dan verstrekt de aangezochte Partij binnen drie werkdagen een nieuw reisdocument met dezelfde geldigheidsduur.
 
-#### Artikel 8. Overdrachtmodaliteiten en wijze van vervoer
+##### Artikel 8. Overdrachtmodaliteiten en wijze van vervoer
 
 1. Voordat een persoon wordt overgedragen stellen de bevoegde autoriteiten van de verzoekende Partij schriftelijk de bevoegde autoriteiten van de aangezochte Partij in kennis van de datum en de modaliteiten van de overdracht alsmede van het eventuele gebruik van begeleiders.
 
 2. Geen enkele wijze van vervoer, hetzij door de lucht, over land of over zee, is verboden doch in de regel geschiedt de overdracht door de lucht. De overdracht per vliegtuig kan plaatsvinden met gebruikmaking van lijn- of chartervluchten.
 
-#### Artikel 9. Doorgeleiding
+##### Artikel 9. Doorgeleiding
 
 1. De Partijen staan de doorgeleiding van onderdanen van een derde Staat over hun grondgebied toe indien een andere Partij daarom verzoekt, wanneer de verdere reis in eventuele andere Staten van doorreis en de overname door de Staat van bestemming verzekerd zijn.
 
@@ -246,7 +268,7 @@ Wanneer dit begin van bewijs is geleverd, nemen de Partijen aan dat aan de voorw
 
 4. De Partijen kunnen elke verleende toestemming intrekken indien zich later omstandigheden als bedoeld in lid (3) voordoen die de doorgeleiding belemmeren of indien de verdere reis in eventuele Staten van doorreis of de overname door de Staat van bestemming niet meer verzekerd is. In die gevallen neemt de verzoekende Partij de betrokkene onverwijld op haar grondgebied terug.
 
-#### Artikel 10. Doorgeleidingsprocedure
+##### Artikel 10. Doorgeleidingsprocedure
 
 1. Een doorgeleidingsverzoek moet schriftelijk worden ingediend bij de bevoegde autoriteiten en moet de volgende inlichtingen bevatten:
 
@@ -264,11 +286,11 @@ Wanneer dit begin van bewijs is geleverd, nemen de Partijen aan dat aan de voorw
 
 4. De bevoegde autoriteiten van de aangezochte Partij steunen, mits in onderling overleg, de doorgeleiding, met name door toezicht op de betrokkenen en stellen daartoe geschikte voorzieningen beschikbaar.
 
-#### Artikel 11. Kosten
+##### Artikel 11. Kosten
 
 Onverminderd het recht van de bevoegde autoriteiten om de aan de terug- of overname verbonden kosten van de terug of over te nemen persoon of derden terug te vorderen, komen alle kosten in verband met terug- of overname en doorgeleiding uit hoofde van deze Overeenkomst tot aan de grens van de Staat van eindbestemming ten laste van de verzoekende Partij.
 
-#### Artikel 12. Gegevensbescherming
+##### Artikel 12. Gegevensbescherming
 
 Persoonsgegevens worden alleen verstrekt wanneer dit nodig is voor de tenuitvoerlegging van deze Overeenkomst door de bevoegde autoriteiten van de Partijen. De verwerking en behandeling van persoonsgegevens in een bepaald geval zijn onderworpen aan de wetgeving van de Republiek Kosovo en, wanneer de behandeling door een bevoegde autoriteit van een Benelux-Staat wordt uitgevoerd, aan de bepalingen van [Richtlijn 95/46/EG](31995L0046) van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens, en de uit hoofde van deze Richtlijn vastgestelde nationale wetgeving. Daarnaast zijn de volgende beginselen van toepassing:
 
@@ -298,7 +320,7 @@ Persoonsgegevens worden alleen verstrekt wanneer dit nodig is voor de tenuitvoer
 
 - 9. de mededelende en ontvangende autoriteiten zijn verplicht de verstrekking en ontvangst van persoonsgegevens schriftelijk te registreren.
 
-#### Artikel 13. Onverminderde toepasselijkheid
+##### Artikel 13. Onverminderde toepasselijkheid
 
 Deze Overeenkomst doet geen afbreuk aan de verplichtingen die voortvloeien uit:
 
@@ -320,7 +342,7 @@ Deze Overeenkomst doet geen afbreuk aan de verplichtingen die voortvloeien uit:
 
 - 9. internationale conventies en overeenkomsten betreffende de overname van vreemde onderdanen. In het bijzonder geldt dit voor de Annex 9 bij het Verdrag van Chicago van 7 december 1944.
 
-#### Artikel 14. Comité van deskundigen
+##### Artikel 14. Comité van deskundigen
 
 1. De Partijen verlenen elkaar onderling hulp bij de toepassing en uitlegging van deze Overeenkomst. Daartoe stellen zij een Comité van deskundigen in dat met name:
 
@@ -338,7 +360,7 @@ Deze Overeenkomst doet geen afbreuk aan de verplichtingen die voortvloeien uit:
 
 4. Het Comité komt indien nodig bijeen op verzoek van één van de Partijen.
 
-#### Artikel 15. Uitvoeringsprotocol
+##### Artikel 15. Uitvoeringsprotocol
 
 Alle nodige praktische bepalingen voor de uitvoering van deze Overeenkomst worden in het Uitvoeringsprotocol vastgelegd. In het Uitvoeringsprotocol wordt onder andere geregeld:
 
@@ -348,11 +370,11 @@ Alle nodige praktische bepalingen voor de uitvoering van deze Overeenkomst worde
 
 - 3. de voorwaarden waaronder en de wijze waarop begeleiding plaatsvindt van terug of over te nemen of door te geleiden personen.
 
-#### Artikel 16. Territoriale toepassing
+##### Artikel 16. Territoriale toepassing
 
 Wat het Koninkrijk der Nederlanden betreft, kan de toepassing van deze Overeenkomst tot de buiten Europa gelegen gebiedsdelen van het Koninkrijk worden uitgebreid door een kennisgeving aan de Regering van het Koninkrijk België, depositaris van deze Overeenkomst, die de overige Partijen hiervan in kennis stelt.
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 1. Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand die volgt op de datum van ontvangst door de Regering van het Koninkrijk België van de notificaties van twee Ondertekenende Staten, waarvan de ene de Republiek Kosovo is, waarbij ervan kennis wordt gegeven dat de voor de inwerkingtreding vereiste interne formaliteiten zijn nageleefd.
 
@@ -360,7 +382,7 @@ Wat het Koninkrijk der Nederlanden betreft, kan de toepassing van deze Overeenko
 
 3. De Regering van het Koninkrijk België stelt ieder der Ondertekenende Staten in kennis van de in lid (1) en (2) bedoelde notificaties en van de data van de inwerkingtreding van deze Overeenkomst ten aanzien van de Partijen.
 
-#### Artikel 18. Schorsing, opzegging
+##### Artikel 18. Schorsing, opzegging
 
 1. Deze Overeenkomst wordt voor onbepaalde tijd gesloten.
 
@@ -372,7 +394,7 @@ Wat het Koninkrijk der Nederlanden betreft, kan de toepassing van deze Overeenko
 
 5. De opzegging van deze Overeenkomst wordt van kracht op de eerste dag van de tweede maand volgende op de maand waarin de kennisgeving bedoeld in lid (4) door de Regering van het Koninkrijk België is ontvangen.
 
-#### Artikel 19. Depositaris
+##### Artikel 19. Depositaris
 
 De Regering van het Koninkrijk België is depositaris van deze Overeenkomst.
 
@@ -396,7 +418,7 @@ hierna genoemd „de Overeenkomst”,
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit Uitvoeringsprotocol wordt verstaan onder:
 
@@ -404,7 +426,7 @@ Voor de toepassing van dit Uitvoeringsprotocol wordt verstaan onder:
 
 - 2. begeleider(s): de door de verzoekende Partij aangewezen persoon (of personen), belast met de begeleiding van de terug of over te nemen of door te geleiden persoon.
 
-#### Artikel 2. Verzoek om terug- of overname
+##### Artikel 2. Verzoek om terug- of overname
 
 1. Een verzoek om terug- of overname dat de inlichtingen bevat als bedoeld in [artikel 4, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=4&z=2014-04-01&g=2014-04-01), wordt per telefax of via elektronische weg ingediend bij de bevoegde autoriteit van de aangezochte Partij.
 
@@ -416,13 +438,13 @@ Voor de toepassing van dit Uitvoeringsprotocol wordt verstaan onder:
 
 5. Het antwoord op een verzoek om terug- of overname wordt per telefax of via elektronische weg overgemaakt aan de bevoegde autoriteit van de verzoekende Partij door middel van het formulier dat als [bijlage 1A](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=1A&z=2014-04-01&g=2014-04-01) of [1B](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=1B&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
 
-#### Artikel 3. Reisdocumenten
+##### Artikel 3. Reisdocumenten
 
 1. Ingeval van een positief antwoord op het verzoek om terug- of overname, worden de voor terugkeer noodzakelijke reisdocumenten overeenkomstig [artikel 7, lid (6), van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=7&z=2014-04-01&g=2014-04-01), op naam van de over te dragen persoon gesteld en door de diplomatieke vertegenwoordiging aan de bevoegde autoriteiten van de verzoekende Partij overhandigd.
 
 2. Op grond van [artikel 7, lid (6), van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=7&z=2014-04-01&g=2014-04-01), wordt de aangezochte Partij, indien de diplomatieke vertegenwoordiging het gevraagde reisdocument niet binnen drie werkdagen na de datum van ontvangst van het verzoek daartoe kan verstrekken, geacht in te stemmen met het gebruik van een door de verzoekende Partij verstrekt reisdocument. De documenten die de Partijen voor dit doel zullen gebruiken zijn als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=4&z=2014-04-01&g=2014-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=5&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol gehecht.
 
-#### Artikel 4. Overdracht
+##### Artikel 4. Overdracht
 
 1. De bevoegde autoriteit van de verzoekende Partij stelt de bevoegde autoriteit van de aangezochte Partij, per telefax of via elektronische weg, minimaal twee werkdagen vóór de geplande overdracht in kennis van haar voornemen daartoe over te gaan. Daartoe wordt gebruik gemaakt van het formulier dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=2&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
 
@@ -430,7 +452,7 @@ Voor de toepassing van dit Uitvoeringsprotocol wordt verstaan onder:
 
 3. Indien medische redenen vervoer over de weg of over zee rechtvaardigen, maken de bevoegde autoriteiten van de verzoekende Partij daarvan afzonderlijk melding op het formulier dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=2&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
 
-#### Artikel 5. Procedure met het oog op de doorgeleiding van onderdanen van een derde Staat en staatlozen
+##### Artikel 5. Procedure met het oog op de doorgeleiding van onderdanen van een derde Staat en staatlozen
 
 1. Een verzoek om doorgeleiding wordt minimaal twee dagen voor de geplande doorgeleiding per telefax of via elektronische weg ingediend bij de bevoegde autoriteit van de aangezochte Partij. Voor de indiening van het verzoek wordt gebruik gemaakt van het formulier dat als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=6&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
 
@@ -438,7 +460,7 @@ Voor de toepassing van dit Uitvoeringsprotocol wordt verstaan onder:
 
 3. Doorgeleiding geschiedt in beginsel door de lucht.
 
-#### Artikel 6. Ondersteuning van de doorgeleiding
+##### Artikel 6. Ondersteuning van de doorgeleiding
 
 1. Indien de verzoekende Partij ondersteuning van de doorgeleiding door de autoriteiten van de aangezochte Partij noodzakelijk acht, geeft zij dit verzoek aan in het formulier dat als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=6&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
 
@@ -446,7 +468,7 @@ Voor de toepassing van dit Uitvoeringsprotocol wordt verstaan onder:
 
 3. Indien de betrokkene wordt begeleid, geschieden de bewaking en het aan boord brengen onder het gezag van de aangezochte Partij.
 
-#### Artikel 7. Verplichtingen van de begeleiders
+##### Artikel 7. Verplichtingen van de begeleiders
 
 1. Bij de uitvoering van de doorgeleiding zijn de bevoegdheden van de begeleiders beperkt tot zelfverdediging. Daarnaast kunnen de begeleiders, bij afwezigheid van terzake bevoegde ambtenaren van de aangezochte Partij of ter ondersteuning van deze ambtenaren, in reactie op een onmiddellijke en ernstige dreiging op redelijke en evenredige wijze optreden om te voorkomen dat de betrokkene vlucht, zichzelf of derden letsel toebrengt dan wel schade aan goederen veroorzaakt.
 
@@ -456,37 +478,37 @@ Voor de toepassing van dit Uitvoeringsprotocol wordt verstaan onder:
 
 4. De autoriteiten van de aangezochte Partij verlenen de begeleiders bij de uitoefening van hun taken in het kader van de Overeenkomst dezelfde bescherming en bijstand als aan de eigen terzake bevoegde ambtenaren.
 
-#### Artikel 8. Aanwijzing bevoegde autoriteiten
+##### Artikel 8. Aanwijzing bevoegde autoriteiten
 
 Overeenkomstig [artikel 15, onder 1, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=15&z=2014-04-01&g=2014-04-01) wisselen de Partijen uiterlijk 30 dagen na de sluiting van dit Uitvoeringsprotocol schriftelijk een lijst van de voor de uitvoering van de Overeenkomst bevoegde autoriteiten uit. Iedere wijziging in deze lijst delen zij elkaar onverwijld mede.
 
-#### Artikel 9. Aanwijzing plaatsen grensoverschrijding
+##### Artikel 9. Aanwijzing plaatsen grensoverschrijding
 
 Overeenkomstig [artikel 15, onder 2, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=15&z=2014-04-01&g=2014-04-01) delen de Partijen elkaar uiterlijk 30 dagen na de sluiting van dit Uitvoeringsprotocol schriftelijk mede via welke grensovergangen personen daadwerkelijk worden overgedragen en toegelaten. Iedere wijziging in deze lijst delen zij elkaar onverwijld mede.
 
-#### Artikel 10. Kosten
+##### Artikel 10. Kosten
 
 Door de aangezochte Partij gemaakte kosten in verband met terug- of overname en doorgeleiding welke op grond van [artikel 11, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=11&z=2014-04-01&g=2014-04-01) ten laste van de verzoekende Partij komen, worden door de verzoekende Partij na overlegging van een factuur vergoed.
 
-#### Artikel 11. Comité van deskundigen
+##### Artikel 11. Comité van deskundigen
 
 De Partijen stellen elkaar binnen de dertig dagen na de inwerkingtreding van de Overeenkomst in kennis van de samenstelling van hun delegatie in het krachtens [artikel 14, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=14&z=2014-04-01&g=2014-04-01) ingestelde Comité van deskundigen. Iedere wijziging in hun delegatie delen zij elkaar onverwijld mede.
 
-#### Artikel 12. Taal
+##### Artikel 12. Taal
 
 Partijen communiceren met elkaar in de Engelse taal.
 
-#### Artikel 13. Wijziging van de bijlagen
+##### Artikel 13. Wijziging van de bijlagen
 
 1. De bijlagen 1 tot en met 6 vormen een integrerend onderdeel van het Uitvoeringsprotocol.
 
 2. Elke wijziging van de bijlagen bij dit Uitvoeringsprotocol wordt schriftelijk overeengekomen tussen de Partijen en wordt van kracht op een door de Partijen te bepalen datum.
 
-#### Artikel 14. Inwerkingtreding en opzegging
+##### Artikel 14. Inwerkingtreding en opzegging
 
 Dit Uitvoeringsprotocol wordt overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=17&z=2014-04-01&g=2014-04-01) en [18, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=18&z=2014-04-01&g=2014-04-01) toegepast en gelijktijdig met de opzegging van de Overeenkomst opgezegd.
 
-#### Artikel 15. Depositaris
+##### Artikel 15. Depositaris
 
 Het Koninkrijk België is depositaris van dit Uitvoeringsprotocol. De depositaris zal alle Partijen een voor eensluidend verklaard afschrift daarvan overmaken.
 

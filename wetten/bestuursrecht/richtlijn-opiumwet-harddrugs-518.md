@@ -1,13 +1,38 @@
 ---
 title: "Richtlijn Opiumwet, harddrugs 5.18"
 identifier: "BWBR0030190"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-07-01
-laatste_update: 2011-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030190"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2011-07-01"
+last_updated: "2011-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030190"
+soort: "beleidsregel"
+stam_id: "11375613"
+version_id: "18668592"
+internal_id: "C26049721"
+label_id: "11350804"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030190/2011-07-01/0"
+intitule_bron: "Stcrt.2011-11749"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-06-23"
+intitule_published: "2011-06-30"
+intitule_in_force: "2011-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-11749"
+original_signed_date: "2011-06-23"
+original_published_date: "2011-06-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-11749"
+entry_into_force_date: "2011-07-01"
+jci_1_3: "jci1.3:c:BWBR0030190&z=2011-07-01&g=2011-07-01"
+jci_1_0: "1.0:c:BWBR0030190&g=2011-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "2011-06-23"
+entry_into_force: "2011-07-01"
 ---
-
 # Richtlijn Opiumwet, harddrugs 5.18
 
 ### **Toelichting:**

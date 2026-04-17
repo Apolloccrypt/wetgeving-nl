@@ -1,13 +1,37 @@
 ---
 title: "Regeling gehandicaptenparkeerkaart"
 identifier: "BWBR0012625"
-categorie: "Overig"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012625"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012625"
+soort: "ministeriele-regeling"
+stam_id: "4832923"
+version_id: "6640652"
+internal_id: "C7156031"
+label_id: "4811004"
+dtd_version: "2.0"
+original_entry_into_force: "2001-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012625/2013-01-01/0"
+intitule_bron: "Stcrt.2001-130"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-07-02"
+intitule_published: "2001-07-10"
+intitule_in_force: "2001-07-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-130"
+original_signed_date: "2001-07-02"
+original_published_date: "2001-07-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-10-01"
+jci_1_3: "jci1.3:c:BWBR0012625&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0012625&g=2013-01-01"
+citeertitel_status: "officieel"
+signed_date: "2001-07-02"
+entry_into_force: "2001-10-01"
 ---
-
 # Regeling gehandicaptenparkeerkaart
 
 Gelet op artikel 13, tweede lid, van de Wegenverkeerswet 1994, de artikelen 49 en 55 van het Besluit administratieve bepalingen inzake het wegverkeer en de artikelen 85 en 86 van het Reglement verkeersregels en verkeerstekens 1990;
@@ -16,7 +40,7 @@ Besluit:
 
 #### Paragraaf 1. Criteria voor de afgifte van gehandicaptenparkeerkaarten
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor een gehandicaptenparkeerkaart kunnen in aanmerking komen:
 
@@ -36,7 +60,7 @@ Besluit:
 
 #### Paragraaf 2. Geneeskundig onderzoek
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een gehandicaptenparkeerkaart wordt niet afgegeven alvorens een geneeskundig onderzoek heeft plaatsgehad met betrekking tot de handicap van de aanvrager.
 
@@ -50,7 +74,7 @@ Besluit:
 
 3. Een geneeskundig onderzoek wordt achterwege gelaten indien een gehandicaptenparkeerkaart is aangevraagd door het bestuur van een instelling als bedoeld in [artikel 1, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012625&paragraaf=1&artikel=1&z=2013-01-01&g=2013-01-01).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ingeval de gehandicaptenparkeerkaart wordt afgegeven door het gemeentelijk gezag, bedoeld in [artikel 49 van het BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=49), wordt het geneeskundig onderzoek verricht door de Gemeentelijke Gezondheidsdienst dan wel - bij externe advisering - door een vanwege het gemeentelijk gezag aangewezen deskundige.
 
@@ -58,7 +82,7 @@ Besluit:
 
 #### Paragraaf 3. Wijze van aanbrengen van de gehandicaptenparkeerkaart
 
-#### Artikel 4
+##### Artikel 4
 
 1. De gehandicaptenparkeerkaart moet op zodanige wijze bij de voorruit worden aangebracht, dat de voorzijde ervan buiten het voertuig behoorlijk leesbaar is.
 
@@ -66,7 +90,7 @@ Besluit:
 
 #### Paragraaf 4. Model van de gehandicaptenparkeerkaart
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als model van de gehandicaptenparkeerkaart wordt vastgesteld het in de bijlage bij deze regeling opgenomen model.
 
@@ -74,7 +98,7 @@ Besluit:
 
 #### Paragraaf 5. Gelijkstelling van in het buitenland afgegeven gehandicaptenparkeerkaart
 
-#### Artikel 6
+##### Artikel 6
 
 Met een ingevolge [artikel 49 BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=49) afgegeven gehandicaptenparkeerkaart wordt gelijkgesteld:
 
@@ -84,15 +108,15 @@ Met een ingevolge [artikel 49 BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004
 
 #### Paragraaf 6. Slotbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 De regeling van de Minister van Verkeer en Waterstaat van 1 oktober 1991, nr. RVR 103389, houdende vaststelling van regels betreffende de invalidenparkeerkaart (Stcrt. 202), wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van 1 oktober 2001.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling gehandicaptenparkeerkaart.
 

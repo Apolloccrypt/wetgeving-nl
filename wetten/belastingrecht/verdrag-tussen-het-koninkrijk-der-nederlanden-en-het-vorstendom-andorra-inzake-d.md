@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Vorstendom Andorra inzake de uitwisseling van informatie betreffende belastingzaken"
 identifier: "BWBV0004028"
-categorie: "Belastingrecht"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004028"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004028"
+soort: "verdrag"
+stam_id: "10003830793"
+version_id: "10003900022"
+internal_id: "C10009632171"
+label_id: "10003815564"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004028/2011-01-01/0"
+intitule_bron: "Trb.2010-24"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-01-26"
+intitule_in_force: "2011-03-21"
+intitule_status: "goed"
+original_publication: "Trb.2010-24"
+original_published_date: "2010-01-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2010-24"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBV0004028&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBV0004028&g=2011-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-01-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Vorstendom Andorra inzake de uitwisseling van informatie betreffende belastingzaken
 
 De Regering van het Koninkrijk der Nederlanden,
@@ -20,21 +42,21 @@ Geleid door de wens de uitwisseling van informatie met betrekking tot belastinge
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doelstelling en reikwijdte van het Verdrag
+##### Artikel 1. Doelstelling en reikwijdte van het Verdrag
 
 De bevoegde autoriteiten van de Verdragsluitende Partijen verlenen elkaar bijstand door middel van de uitwisseling van informatie die naar verwachting van belang zullen zijn voor de toepassing en handhaving van de nationale wetten van de Verdragsluitende Partijen die betrekking hebben op de belastingen waarop dit Verdrag van toepassing is. Deze informatie omvatten informatie die naar verwachting van belang zullen zijn voor de bepaling, vaststelling en inning van deze belastingen, de invordering en tenuitvoerlegging van belastingvorderingen of het onderzoek naar of de vervolging van belastingzaken. informatie worden uitgewisseld in overeenstemming met de bepalingen van dit Verdrag en worden vertrouwelijk behandeld op de wijze voorzien in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004028&artikel=8&z=2011-01-01&g=2011-01-01). De uit hoofde van de wetgeving of bestuursrechtelijke praktijk van de aangezochte Partij aan personen toegekende rechten en waarborgen blijven van toepassing voor zover zij de doeltreffende uitwisseling van informatie niet onnodig verhinderen of vertragen.
 
-#### Artikel 2. Rechtsmacht
+##### Artikel 2. Rechtsmacht
 
 Een aangezochte Partij is niet verplicht informatie te verstrekken die noch in het bezit zijn van haar autoriteiten, noch in het bezit of onder de macht van personen die zich binnen haar territoriale rechtsgebied bevinden.
 
-#### Artikel 3. Belastingen waarop het Verdrag van toepassing is
+##### Artikel 3. Belastingen waarop het Verdrag van toepassing is
 
 1. De belastingen waarop dit Verdrag van toepassing is betreffen belastingen van elke soort en benaming.
 
 2. De bevoegde autoriteiten van de Verdragsluitende Partijen doen elkaar mededeling van alle wezenlijke wijzigingen die zijn aangebracht in de belastingheffing en daarmee samenhangende maatregelen ten behoeve van het verzamelen van informatie waarop dit Verdrag van toepassing is.
 
-#### Artikel 4. Begripsomschrijvingen
+##### Artikel 4. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag, tenzij anders is bepaald:
 
@@ -78,7 +100,7 @@ Een aangezochte Partij is niet verplicht informatie te verstrekken die noch in h
 
 2. Wat betreft de toepassing van dit Verdrag door een Verdragsluitende Partij op enig moment heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat tijdstip heeft volgens de wetgeving van die Partij, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die Partij prevaleert boven een betekenis die volgens andere wetgeving van die Partij aan die uitdrukking wordt gegeven.
 
-#### Artikel 5. Uitwisseling van informatie op verzoek
+##### Artikel 5. Uitwisseling van informatie op verzoek
 
 1. De bevoegde autoriteit van de aangezochte Partij verstrekt op verzoek informatie ten behoeve van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004028&artikel=1&z=2011-01-01&g=2011-01-01) bedoelde doelstellingen. Dergelijke informatie worden uitgewisseld ongeacht of de onderzochte gedragingen, indien deze in de aangezochte Partij zouden plaatsvinden, uit hoofde van de wetgeving van de aangezochte Partij als misdrijf zouden worden aangemerkt.
 
@@ -112,7 +134,7 @@ Een aangezochte Partij is niet verplicht informatie te verstrekken die noch in h
 
 7. Indien de bevoegde autoriteit van de aangezochte Partij niet in staat is de informatie binnen 90 dagen na ontvangst van het verzoek te verkrijgen en te verstrekken, onder meer omdat zij belemmeringen ondervindt bij het verstrekken van de informatie dan wel weigert de informatie te verstrekken, stelt zij de verzoekende Partij daarvan onverwijld op de hoogte, onder vermelding van de oorzaken van de onmogelijkheid, de aard van de belemmeringen of de redenen voor haar weigering.
 
-#### Artikel 6. Belastingcontrole in het buitenland
+##### Artikel 6. Belastingcontrole in het buitenland
 
 1. Een Verdragsluitende Partij kan vertegenwoordigers van de bevoegde autoriteit van de andere Verdragsluitende Partij toestaan het grondgebied van de eerstgenoemde Partij binnen te komen teneinde, met schriftelijke toestemming van de betrokkenen, personen te ondervragen en stukken te onderzoeken. De bevoegde autoriteit van de als tweede genoemde Partij stelt de bevoegde autoriteit van de eerstgenoemde Partij in kennis van het tijdstip en de locatie van de ontmoeting met de betrokken personen.
 
@@ -120,7 +142,7 @@ Een aangezochte Partij is niet verplicht informatie te verstrekken die noch in h
 
 3. Indien het in het tweede lid bedoelde verzoek wordt ingewilligd, stelt de bevoegde autoriteit van de Verdragsluitende Partij die de controle uitvoert, de bevoegde autoriteit van de andere Partij zo spoedig mogelijk in kennis van het tijdstip en de locatie van de controle, de autoriteit of functionaris die de controle zal uitvoeren en de door de eerstgenoemde Partij ten behoeve van de controle vereiste procedures en voorwaarden. Alle beslissingen met betrekking tot het uitvoeren van de belastingcontrole worden genomen door de Partij die de controle uitvoert.
 
-#### Artikel 7. Mogelijkheid een verzoek af te wijzen
+##### Artikel 7. Mogelijkheid een verzoek af te wijzen
 
 1. Van de aangezochte Partij kan niet worden verlangd dat zij informatie verkrijgt of verstrekt die de verzoekende Partij krachtens haar eigen wetgeving niet zou kunnen verkrijgen ten behoeve van de toepassing of handhaving van haar eigen belastingwetten. De bevoegde autoriteit van de aangezochte Partij kan verzoeken om bijstand die niet in overeenstemming met dit Verdrag gedaan zijn afwijzen.
 
@@ -138,23 +160,23 @@ Een aangezochte Partij is niet verplicht informatie te verstrekken die noch in h
 
 6. De aangezochte Partij kan een verzoek om informatie afwijzen indien de informatie door de verzoekende Partij worden gevraagd om een bepaling van de belastingwetgeving van de verzoekende Partij ten uitvoer te leggen of te handhaven die, of een daarmee verband houdend vereiste dat, discriminatie inhoudt van een onderdaan van de aangezochte Partij ten opzichte van een onderdaan van de verzoekende Partij die zich in dezelfde omstandigheden bevindt.
 
-#### Artikel 8. Vertrouwelijkheid
+##### Artikel 8. Vertrouwelijkheid
 
 Alle uit hoofde van dit Verdrag door een Verdragsluitende Partij ontvangen informatie worden vertrouwelijk behandeld en worden uitsluitend ter kennis gebracht van personen of autoriteiten (met inbegrip van rechterlijke en bestuursrechtelijke instanties) die onder de rechtsmacht van de desbetreffende Verdragsluitende Partij vallen en betrokken zijn bij de vaststelling of inning van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen waarop dit Verdrag van toepassing is, of het toezicht daarop. Deze personen of autoriteiten mogen uitsluitend voor deze doeleinden van deze informatie gebruikmaken. Zij mogen de informatie bekendmaken in openbare rechtszittingen of in gerechtelijke beslissingen. De informatie mogen niet ter kennis worden gebracht van enige andere persoon, instelling, autoriteit of gerechtelijke instantie zonder de uitdrukkelijke schriftelijke toestemming van de bevoegde autoriteit van de aangezochte Partij.
 
-#### Artikel 9. Kosten
+##### Artikel 9. Kosten
 
 De Verdragsluitende Partijen bereiken overeenstemming over kosten die voortvloeien uit het verlenen van bijstand.
 
-#### Artikel 10. Uitvoeringswetgeving
+##### Artikel 10. Uitvoeringswetgeving
 
 De Verdragsluitende Partijen stellen alle wetgeving vast die noodzakelijk is om te voldoen aan en ter uitvoering van de bepalingen van dit Verdrag.
 
-#### Artikel 11. Taal
+##### Artikel 11. Taal
 
 Verzoeken om bijstand en antwoorden daarop worden in het Engels of Catalaans gesteld.
 
-#### Artikel 12. Regeling voor onderling overleg
+##### Artikel 12. Regeling voor onderling overleg
 
 1. De bevoegde autoriteiten trachten moeilijkheden of twijfelpunten die mochten rijzen tussen de Verdragsluitende Partijen met betrekking tot de toepassing of de uitlegging van dit Verdrag gezamenlijk op te lossen.
 
@@ -164,7 +186,7 @@ Verzoeken om bijstand en antwoorden daarop worden in het Engels of Catalaans ges
 
 4. De Verdragsluitende Partijen kunnen ook overeenstemming bereiken over andere vormen van geschillenregeling.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Dit Verdrag treedt in werking nadat beide Partijen elkaar ervan in kennis hebben gesteld dat de vereiste interne procedures voor de inwerkingtreding ervan zijn afgerond. Vanaf de inwerkingtreding is dit Verdrag van toepassing op:
 
@@ -172,7 +194,7 @@ Dit Verdrag treedt in werking nadat beide Partijen elkaar ervan in kennis hebben
 
 - b. alle overige aangelegenheden vanaf die datum waarop [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004028&artikel=1&z=2011-01-01&g=2011-01-01) van toepassing is, zij het uitsluitend met betrekking tot belastingtijdvakken beginnend op of na die datum, of bij ontbreken van een belastingtijdvak, alle belastingvorderingen ontstaan op of na die datum.
 
-#### Artikel 14. Beëindiging
+##### Artikel 14. Beëindiging
 
 1. Elk van de Verdragsluitende Partijen kan dit Verdrag beëindigen door middel van een kennisgeving hetzij langs diplomatieke weg hetzij per nota aan de bevoegde autoriteit van de andere Verdragsluitende Partij.
 

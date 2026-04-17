@@ -1,18 +1,44 @@
 ---
-title: "Instellingsbesluit Landelijke adviescommissie plaatsing longstay forensische zorg"
+title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 april 2012, nr. DDS5706676, houdende instelling van de Landelijke adviescommissie plaatsing longstay forensische zorg (Instellingsbesluit Landelijke adviescommissie plaatsing longstay forensische zorg)"
 identifier: "BWBR0031541"
-categorie: "Sociaal recht"
-publicatiedatum: 2018-05-10
-laatste_update: 2018-05-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031541"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-05-10"
+last_updated: "2018-05-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031541"
+soort: "ministeriele-regeling"
+stam_id: "11730833"
+version_id: "19376392"
+internal_id: "C27094471"
+label_id: "11703464"
+dtd_version: "2.0"
+original_entry_into_force: "2012-05-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031541/2018-05-10/0"
+intitule_bron: "Stcrt.2012-8977"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-04-15"
+intitule_published: "2012-05-09"
+intitule_in_force: "2012-05-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-8977"
+original_signed_date: "2012-04-15"
+original_published_date: "2012-05-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-8977"
+entry_into_force_date: "2012-05-10"
+jci_1_3: "jci1.3:c:BWBR0031541&z=2018-05-10&g=2018-05-10"
+jci_1_0: "1.0:c:BWBR0031541&g=2018-05-10"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Landelijke adviescommissie plaatsing longstay forensische zorg"
+signed_date: "2012-04-15"
+entry_into_force: "2012-05-10"
 ---
-
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 15 april 2012, nr. DDS5706676, houdende instelling van de Landelijke adviescommissie plaatsing longstay forensische zorg (Instellingsbesluit Landelijke adviescommissie plaatsing longstay forensische zorg)
 
 Besluit:
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In dit besluit wordt verstaan onder:
 
@@ -24,15 +50,15 @@ In dit besluit wordt verstaan onder:
 
 - d. **longstay:** een afdeling van een inrichting voor ter beschikking gestelden gericht op langdurige forensisch psychiatrische zorg.
 
-#### Artikel 2. Instelling
+##### Artikel 2. Instelling
 
 Er is een Landelijke adviescommissie plaatsing longstay forensische zorg.
 
-#### Artikel 3. Taak
+##### Artikel 3. Taak
 
 De Lap heeft tot taak de Minister te adviseren over de afdoening van aanvragen tot plaatsing of beëindiging van plaatsing van ter beschikking gestelden in een longstay-voorziening. Tevens adviseert de Lap de Minister elke drie jaar over de voortzetting van de plaatsing.
 
-#### Artikel 4. Samenstelling
+##### Artikel 4. Samenstelling
 
 1. De Lap bestaat uit de volgende leden:
 
@@ -48,25 +74,25 @@ De Lap heeft tot taak de Minister te adviseren over de afdoening van aanvragen t
 
 5. De Lap kan een van de juristen als vicevoorzitter aanwijzen.
 
-#### Artikel 5. Ontslag
+##### Artikel 5. Ontslag
 
 1. De Minister ontslaat de leden en plaatsvervangende leden op eigen verzoek.
 
 2. De leden en plaatsvervangende leden kunnen tevens ontslagen worden door de Minister wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden.
 
-#### Artikel 6. Subcommissies
+##### Artikel 6. Subcommissies
 
 1. De voorzitter deelt de Lap in subcommissies in. De subcommissies kunnen worden belast met de taak, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031541&artikel=3&z=2018-05-10&g=2018-05-10).
 
 2. Een subcommissie bestaat in ieder geval uit een forensisch psychiater, een forensisch psycholoog en als voorzitter een jurist.
 
-#### Artikel 7. Informatie en geheimhouding
+##### Artikel 7. Informatie en geheimhouding
 
 1. De Minister verstrekt aan de Lap de informatie die nodig is voor een goede vervulling van haar taken.
 
 2. Voor zover de leden en plaatsvervangende leden van de Lap in het kader van de uitvoering van hun taken de beschikking krijgen over gegevens waarvan zij het vertrouwelijke karakter kennen of redelijkerwijs moeten vermoeden en op hun niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift terzake van die gegevens een geheimhoudingsplicht rust, zijn zij verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hen tot mededeling verplicht of uit hun taak de noodzaak tot mededeling voortvloeit.
 
-#### Artikel 8. Adviezen
+##### Artikel 8. Adviezen
 
 1. Bij het uitbrengen van een advies ontvangt de Lap geen aanwijzingen van de Minister over de te hanteren methodiek, haar oordeelsvorming en inhoudelijke advisering.
 
@@ -74,7 +100,7 @@ De Lap heeft tot taak de Minister te adviseren over de afdoening van aanvragen t
 
 3. De Minister kan gemotiveerd afwijken van het advies van de Lap.
 
-#### Artikel 9. Ondersteuning
+##### Artikel 9. Ondersteuning
 
 1. De Lap heeft een secretaris.
 
@@ -88,23 +114,23 @@ De Lap heeft tot taak de Minister te adviseren over de afdoening van aanvragen t
 
 6. De Minister draagt, na overleg met de Lap, zorg voor de nodige voorzieningen ten behoeve van de werkzaamheden van de Lap.
 
-#### Artikel 10. Reglement voor de werkwijze
+##### Artikel 10. Reglement voor de werkwijze
 
 1. De Lap stelt met het oog op een goede en zorgvuldige uitoefening van haar taken een reglement vast.
 
 2. Het reglement en elke wijziging daarvan behoeft de goedkeuring van de Minister en wordt openbaar gemaakt door plaatsing op de website van de Lap.
 
-#### Artikel 11. Jaarplan en jaarverslag
+##### Artikel 11. Jaarplan en jaarverslag
 
 1. De Lap biedt elk jaar voor 15 november aan de Minister het jaarplan voor het komende jaar ter vaststelling aan.
 
 2. De Lap brengt elk jaar voor 1 maart een jaarverslag uit naar aanleiding van de werkzaamheden van het voorafgaande jaar.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Landelijke adviescommissie plaatsing longstay forensische zorg.
 

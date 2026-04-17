@@ -1,14 +1,41 @@
 ---
-title: "Invoeringswet geluidproductieplafonds"
+title: "Wet van 24 november 2011 tot vaststelling van overgangsrecht en wijziging van diverse wetten ten behoeve van de invoering van de wet van 24 november 2011 tot wijziging van de Wet milieubeheer in verband met de invoering van de geluidproductieplafonds en de overheveling van hoofdstuk IX van de Wet geluidhinder naar de Wet milieubeheer (modernisering instrumentarium geluidbeleid, geluidproductieplafonds) (Invoeringswet geluidproductieplafonds)"
 identifier: "BWBR0031679"
-categorie: "Overig"
-publicatiedatum: 2012-07-01
-laatste_update: 2012-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031679"
+country: "nl"
+rank: "wet"
+publication_date: "2012-07-01"
+last_updated: "2012-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031679"
+soort: "wet"
+stam_id: "11761853"
+version_id: "19442682"
+internal_id: "C27272041"
+label_id: "11734274"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031679/2012-07-01/0"
+intitule_bron: "Stb.2012-267"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-11-24"
+intitule_published: "2012-06-20"
+intitule_in_force: "2012-06-20"
+intitule_status: "goed"
+original_publication: "Stb.2012-267"
+original_signed_date: "2011-11-24"
+original_published_date: "2012-06-20"
+original_effect: "nieuwe-regeling"
+original_dossier: "32625"
+original_url_id: "stb-2012-267"
+entry_into_force_date: "2012-07-01"
+jci_1_3: "jci1.3:c:BWBR0031679&z=2012-07-01&g=2012-07-01"
+jci_1_0: "1.0:c:BWBR0031679&g=2012-07-01"
+citeertitel_status: "officieel"
+short_title: "Invoeringswet geluidproductieplafonds"
+signed_date: "2011-11-24"
+entry_into_force: "2012-07-01"
 ---
-
-# Invoeringswet geluidproductieplafonds
+# Wet van 24 november 2011 tot vaststelling van overgangsrecht en wijziging van diverse wetten ten behoeve van de invoering van de wet van 24 november 2011 tot wijziging van de Wet milieubeheer in verband met de invoering van de geluidproductieplafonds en de overheveling van hoofdstuk IX van de Wet geluidhinder naar de Wet milieubeheer (modernisering instrumentarium geluidbeleid, geluidproductieplafonds) (Invoeringswet geluidproductieplafonds)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,47 +43,47 @@ Alzo Wij in overweging genomen hebben dat het wenselijk is, met het oog op de in
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet geluidhinder.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wijzigingswet Wet milieubeheer (modernisering instrumentarium geluidbeleid, geluidproductieplafonds) (Stb. 2012/266).
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet milieubeheer.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Spoedwet wegverbreding.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Spoorwegwet.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Tracéwet.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet bereikbaarheid en mobiliteit.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet luchtvaart.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel X
+##### Artikel X
 
 Na inwerkingtreding van deze wet berusten algemene maatregelen van bestuur, voor zover zij vóór de inwerkingtreding van deze wet berustten op [artikel 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.1), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.2) of [11.3 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.3), op [artikel 11A.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11a.1), [11A.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11a.2) onderscheidenlijk [11A.3 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11a.3).
 
-#### Artikel XI
+##### Artikel XI
 
 1. De [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227) en de daarop gebaseerde regelgeving zoals deze gold voor het tijdstip van inwerkingtreding van deze wet blijft van toepassing op de onderstaande besluiten of handelingen, totdat deze onherroepelijk zijn geworden:
 
@@ -96,7 +123,7 @@ Na inwerkingtreding van deze wet berusten algemene maatregelen van bestuur, voor
 
 10. Voor de toepassing van dit artikel wordt onder een «bestemmingsplan» mede begrepen een inpassingsplan als bedoeld in [artikel 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.26) of [artikel 3.28 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.28), alsmede een wijzigings- of uitwerkingsplan als bedoeld in [artikel 3.6, eerste lid, onder a of b, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.6).
 
-#### Artikel XII
+##### Artikel XII
 
 1. Een publicatie, verricht op grond van [artikel 117 van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=117), geldt als publicatie als bedoeld in [artikel 11.4, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.4).
 
@@ -106,7 +133,7 @@ Na inwerkingtreding van deze wet berusten algemene maatregelen van bestuur, voor
 
 4. Een actieplan, vastgesteld op grond [artikel 122 van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=122), blijft van kracht totdat op grond van [artikel 11.11](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.11) of [11.12 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.12) een nieuw actieplan voor de desbetreffende wegen, spoorwegen of gemeente is vastgesteld.
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. Tot het tijdstip waarop de beheerder zijn eerste verslag als bedoeld in [artikel 11.22 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.22) moet hebben gezonden aan Onze Minister, kan Onze Minister de locatie van een referentiepunt dat tot stand is gekomen met toepassing van [artikel 11.45](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.45) en [artikel 11.46 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.46), op verzoek van de beheerder wijzigen.
 
@@ -114,11 +141,11 @@ Na inwerkingtreding van deze wet berusten algemene maatregelen van bestuur, voor
 
 3. Het gewijzigde referentiepunt wordt in het geluidregister opgenomen. [Artikel 11.46, tweede lid, onder b tot en met e, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.46) is van overeenkomstige toepassing.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel XV
+##### Artikel XV
 
 Deze wet wordt aangehaald als: Invoeringswet geluidproductieplafonds.
 

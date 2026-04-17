@@ -1,20 +1,45 @@
 ---
 title: "Regeling taken Dienst Wegverkeer"
 identifier: "BWBR0008144"
-categorie: "Verkeer"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008144"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008144"
+soort: "ministeriele-regeling"
+stam_id: "4964813"
+version_id: "18852012"
+internal_id: "C26310241"
+label_id: "4941844"
+dtd_version: "2.0"
+original_entry_into_force: "2011-10-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008144/2026-01-01/0"
+intitule_bron: "Stcrt.1996-125"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-06-28"
+intitule_published: "1996-07-03"
+intitule_in_force: "1996-07-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-18171"
+original_signed_date: "2011-10-04"
+original_published_date: "2011-10-27"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2011-18171"
+entry_into_force_date: "2011-10-04"
+jci_1_3: "jci1.3:c:BWBR0008144&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0008144&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2011-10-04"
+entry_into_force: "2011-10-04"
 ---
-
 # Regeling taken Dienst Wegverkeer
 
 Gelet op [artikel 4b, tweede lid, onderdeel b, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4b) en [artikel 15 van het Informatiestatuut Dienst Wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0008129&artikel=15);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -48,11 +73,11 @@ In dit besluit wordt verstaan onder:
 
 - **uitvoeringsverordening 2016/480:** [Uitvoeringsverordening (EU) 2016/480](32016R0480) van de Commissie van 1 april 2016 tot vaststelling van gemeenschappelijke regels voor de onderlinge koppeling van nationale elektronische registers van wegvervoerondernemingen en tot intrekking van [Verordening (EU) nr. 1213/2010](32010R1213) (PbEU 2016, L 87).
 
-#### Artikel 1a
+##### Artikel 1a
 
 Een wijziging van [richtlijn 2014/47](32014L0047)/EU gaat voor de toepassing van deze regeling gelden met ingang van de datum waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-#### Artikel 2. Taken Dienst Wegverkeer
+##### Artikel 2. Taken Dienst Wegverkeer
 
 Aan de dienst worden de volgende taken opgedragen:
 
@@ -160,7 +185,7 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - jj. de uitvoering van de taken die betrekking hebben op het plaatsen op een aangevraagd rijbewijs van het publieke identificatiemiddel, bedoeld in [artikel 5, vierde lid, van de Wet digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&artikel=5), de activatie of de intrekking van dat publiek identificatiemiddel, waaronder in ieder geval begrepen het verstrekken van de activatiecode, het deblokkeren van een geblokkeerd publiek identificatiemiddel, het verzenden van brieven aan rijbewijshouders samenhangend met het publieke identificatiemiddel, alsmede het verwerken van hiermee samenhangende gegevens en persoonsgegevens.
 
-#### Artikel 3. Voorwaarden
+##### Artikel 3. Voorwaarden
 
 1. De dienst mag voor de activiteiten, bedoeld in [artikel 2, onder a tot en met d, j, p tot en met r, t, u, w, z en ee](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2026-01-01&g=2026-01-01), prijzen in rekening brengen.
 
@@ -174,21 +199,21 @@ Aan de dienst worden de volgende taken opgedragen:
 
 3. De houder van een publiek identificatiemiddel op een rijbewijs dat is uitgegeven voor de inwerkingtreding van [artikel 27 van de Wet digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&artikel=27) en dat wordt geactiveerd na inwerkingtreding van dat artikel is € 3,50 verschuldigd aan de dienst. Betaling vindt plaats op de door de dienst vastgestelde wijze.
 
-#### Artikel 4. Informatie-uitwisseling
+##### Artikel 4. Informatie-uitwisseling
 
 De artikelen 5, 8 en 9 van de Regeling sturing van en toezicht op de Dienst Wegverkeer en [artikel 18 van de Beleidsregel sturing van en toezicht op de Dienst Wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0032371&artikel=18) zijn van overeenkomstige toepassing.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 1996.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling taken Dienst Wegverkeer.
 
 Deze regeling zal met de toeliching 'toeliching' moet zijn 'toelichting' in de Staatscourant worden geplaatst.
 
-#### Artikel 2a. Aanvullende taken Dienst Wegverkeer in verband met begeleid rijden
+##### Artikel 2a. Aanvullende taken Dienst Wegverkeer in verband met begeleid rijden
 
 In het kader van het experiment met begeleid rijden als bedoeld in [hoofdstuk VIIIb van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&hoofdstuk=VIIIb) worden aan de Dienst Wegverkeer de volgende taken opgedragen:
 

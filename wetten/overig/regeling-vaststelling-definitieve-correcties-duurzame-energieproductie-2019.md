@@ -1,20 +1,46 @@
 ---
-title: "Regeling vaststelling definitieve correcties duurzame energieproductie 2019"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 30 maart 2020, nr. WJZ/ 20076708, tot vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2019 (Regeling vaststelling definitieve correcties duurzame energieproductie 2019)"
 identifier: "BWBR0043347"
-categorie: "Overig"
-publicatiedatum: 2020-09-23
-laatste_update: 2020-09-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043347"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-09-23"
+last_updated: "2020-09-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043347"
+soort: "ministeriele-regeling"
+stam_id: "15389473"
+version_id: "26600822"
+internal_id: "C37749101"
+label_id: "15333754"
+dtd_version: "2.0"
+original_entry_into_force: "2020-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043347/2020-09-23/0"
+intitule_bron: "Stcrt.2020-19702"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-03-30"
+intitule_published: "2020-03-31"
+intitule_in_force: "2020-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-19702"
+original_signed_date: "2020-03-30"
+original_published_date: "2020-03-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-19702"
+entry_into_force_date: "2020-04-01"
+jci_1_3: "jci1.3:c:BWBR0043347&z=2020-09-23&g=2020-09-23"
+jci_1_0: "1.0:c:BWBR0043347&g=2020-09-23"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling definitieve correcties duurzame energieproductie 2019"
+signed_date: "2020-03-30"
+entry_into_force: "2020-04-01"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat van 30 maart 2020, nr. WJZ/ 20076708, tot vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2019 (Regeling vaststelling definitieve correcties duurzame energieproductie 2019)
 
 Gelet op [artikelen 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), [22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), [31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), [39, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=39), [47, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47), en [54, vierde lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=54);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **tenderbedrag:** het tenderbedrag, bedoeld in [artikel 19, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=19).
 
-#### Artikel 2
+##### Artikel 2
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2019 vastgesteld voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -340,7 +366,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 | Artikel 14, onderdeel d | Zon PV ≥ 1 MWp zonvolgend niet gebouwgebonden systeem (netlevering) | € 0,036 per kWh | € 0 per kWh |
 | Artikel 14, onderdeel d | Zon PV ≥ 1 MWp zonvolgend niet gebouwgebonden systeem (niet-netlevering) | € 0,057 per kWh | € 0 per kWh |
 
-#### Artikel 3
+##### Artikel 3
 
 De correcties op het tenderbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2019 vastgesteld voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 22, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 22, eerste lid, onderdelen b en c van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -364,7 +390,7 @@ De correcties op het tenderbedrag voor subsidie voor een productie-installatie a
 | Artikel [Regeling innovatieve windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0040113) | Omschrijving categorie | Correctiebedrag [artikel 22, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22) | Correctiebedrag art. 22, eerste lid, onderdelen b en c, van het besluit |
 | [Artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040113&artikel=2) | Innovatieve wind op zee | € 0,038106 per kWh | € 0 per kWh |
 
-#### Artikel 4
+##### Artikel 4
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2019 vastgesteld voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, onderdeel b, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -507,7 +533,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 | [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0041922&artikel=20) | Rioolwaterzuiveringsinstallaties bestaande slibgisting | € 0,021 per kWh | € 0 per kWh |
 | [Artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041922&artikel=22) | Biomassavergassing (≥95% biogeen) | € 0,021 per kWh | € 0 per kWh |
 
-#### Artikel 5
+##### Artikel 5
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2019 als volgt vastgesteld: voor wat betreft de gasprijs, bedoeld in [artikel 39, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=39), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 39, eerste lid, onderdeel b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -516,7 +542,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie, b
 | Artikel [Regeling monomestver-gisting 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039698) | Omschrijving categorie | Correctiebedrag [art. 39, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=39) | Correctiebedrag art. 39, eerste lid, onderdelen b en c, van het besluit |
 | [Artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&artikel=2) | Monomestvergisting/gas | € 0,021 per kWh | € 0 per kWh |
 
-#### Artikel 6
+##### Artikel 6
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2019 vastgesteld voor wat betreft de energieprijs, bedoeld in [artikel 47, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47) het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 47, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -778,7 +804,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 | [Artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042602&artikel=42) | Stoomketel op houtpellets, warmte en gecombineerde opwekking | € 0,021 per kWh | € 0 per kWh |
 | [Artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042602&artikel=44) | Direct inzet (brander) van houtpellets voor industriële toepassingen voor warmte en gecombineerde opwekking | € 0,026 per kWh | € 0 per kWh |
 
-#### Artikel 7
+##### Artikel 7
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2019 als volgt vastgesteld: voor wat betreft de elektriciteits- of energieprijs, bedoeld in [artikel 54, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=54) het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 54, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -787,11 +813,11 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie, b
 | Artikel [Regeling monomestvergisting 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039698) | Omschrijving categorie | Correctiebedrag [art. 54, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=54) | Correctiebedrag art. 54, eerste lid, onderdelen b en c, van het besluit |
 | [Artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&artikel=2) | Monomestvergisting/elektriciteit en warmte | € 0,039 per kWh | € 0 per kWh |
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling vaststelling definitieve correcties duurzame energieproductie 2019.
 

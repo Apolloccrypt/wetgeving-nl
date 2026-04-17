@@ -1,13 +1,36 @@
 ---
 title: "Inzet van middelen over en weer tussen inburgering nieuwkomers en educatie"
 identifier: "BWBR0012257"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-03-14
-laatste_update: 2001-03-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012257"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2001-03-14"
+last_updated: "2001-03-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012257"
+soort: "beleidsregel"
+stam_id: "6554683"
+version_id: "11354042"
+internal_id: "C15294711"
+label_id: "6543244"
+original_entry_into_force: "2001-03-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012257/2001-03-14/0"
+intitule_bron: "Uitleg.2001-7"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-02-15"
+intitule_published: "2001-03-14"
+intitule_in_force: "2001-03-14"
+intitule_status: "goed"
+original_publication: "Uitleg.2001-7"
+original_signed_date: "2001-02-15"
+original_published_date: "2001-03-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-03-14"
+jci_1_3: "jci1.3:c:BWBR0012257&z=2001-03-14&g=2001-03-14"
+jci_1_0: "1.0:c:BWBR0012257&g=2001-03-14"
+citeertitel_status: "redactioneel"
+signed_date: "2001-02-15"
+entry_into_force: "2001-03-14"
 ---
-
 # Inzet van middelen over en weer tussen inburgering nieuwkomers en educatie
 
 In de fase van voorbereiding van beide regelingen die in voorliggend Gele Katern worden gepubliceerd, heeft CFI via het Uitvoeringsoverleg BVE deze voor commentaar voorgelegd aan vertegenwoordigers van belanghebbende organisaties. Uit het ontvangen commentaar blijkt onduidelijkheid over het afzonderlijk verantwoorden van de rijksbijdragen educatie en inburgering in relatie tot de mogelijkheid om beide rijksbijdragen (deels) ontschot in te zetten. In verband hiermee wordt onderstaand een toelichting gegeven op de verantwoordingssystematiek die voor deze rijksbijdragen geldt.

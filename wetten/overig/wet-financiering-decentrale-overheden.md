@@ -1,14 +1,42 @@
 ---
-title: "Wet financiering decentrale overheden"
+title: "Wet van 14 december 2000, houdende nieuwe bepalingen inzake het financieringsbeleid van openbare lichamen (Wet financiering decentrale overheden)"
 identifier: "BWBR0011987"
-categorie: "Overig"
-publicatiedatum: 2013-12-15
-laatste_update: 2013-12-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011987"
+country: "nl"
+rank: "wet"
+publication_date: "2013-12-15"
+last_updated: "2013-12-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011987"
+soort: "wet"
+stam_id: "1442463"
+version_id: "20979102"
+internal_id: "C30134261"
+label_id: "1401704"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011987/2013-12-15/0"
+intitule_bron: "Stb.2000-587"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-14"
+intitule_published: "2000-12-21"
+intitule_in_force: "2000-12-21"
+intitule_status: "goed"
+original_publication: "Stb.2013-530"
+original_signed_date: "2013-12-11"
+original_published_date: "2013-12-13"
+original_effect: "structuurwijziging"
+original_dossier: "33540"
+original_url_id: "stb-2013-530"
+entry_into_force_date: "2013-12-11"
+entry_into_force_dossier: "33540"
+jci_1_3: "jci1.3:c:BWBR0011987&z=2013-12-15&g=2013-12-15"
+jci_1_0: "1.0:c:BWBR0011987&g=2013-12-15"
+citeertitel_status: "officieel"
+short_title: "Wet financiering decentrale overheden"
+signed_date: "2013-12-11"
+entry_into_force: "2013-12-11"
 ---
-
-# Wet financiering decentrale overheden
+# Wet van 14 december 2000, houdende nieuwe bepalingen inzake het financieringsbeleid van openbare lichamen (Wet financiering decentrale overheden)
 
 Allen die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +44,7 @@ Alzo Wij in overweging genomen hebben, dat het op grond van veranderde omstandig
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -72,7 +100,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - k. begrotingstotaal: de totale lasten op de begroting.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Openbare lichamen kunnen uitsluitend ten behoeve van de uitoefening van de publieke taak leningen aangaan, middelen uitzetten of garanties verlenen. Voor het overige houden zij hun liquide middelen in ’s Rijks schatkist aan.
 
@@ -82,7 +110,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij regeling van Onze Ministers kunnen bepaalde middelen uitgezonderd worden van de verplichting deze aan te houden in ’s Rijks schatkist.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Ministers stellen bij ministeriële regeling een percentage voor de berekening van de kasgeldlimiet vast. Onze Ministers zenden eens per drie jaar aan de Staten-Generaal een verslag houdende overwegingen met betrekking tot de hoogte van het percentage, bedoeld in de eerste volzin.
 
@@ -94,7 +122,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. De toezichthouder van de openbare lichamen, bedoeld in [artikel 1, onderdeel a, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=1&z=2013-12-15&g=2013-12-15), kan na overleg met het bestuur van de gemeenschappelijke regeling een afwijkend percentage voor de kasgeldlimiet voor een gemeenschappelijke regeling vaststellen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De gemiddelde netto-vlottende schuld per kwartaal van een openbaar lichaam overschrijdt de kasgeldlimiet niet.
 
@@ -106,13 +134,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. De toezichthouder kan bij incidentele wijzigingen in het inkomsten- en uitgavenpatroon ontheffing verlenen van de in het eerste lid genoemde verplichting voor een periode van maximaal twee kwartalen. Aan de ontheffing kunnen voorschriften worden verbonden en beperkingen gesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Ministers stellen bij ministeriële regeling een percentage voor de berekening van de renterisiconorm en een minimumbedrag voor de renterisiconorm vast, alsmede regels ten aanzien van de bepaling van het renterisico op het begrotingstotaal.
 
 2. Het op basis van het eerste lid vast te stellen percentage voor de renterisiconorm en minimumbedrag kunnen verschillend zijn voor de verschillende categorieën openbare lichamen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het renterisico op het begrotingstotaal van een openbaar lichaam overschrijdt de renterisiconorm niet.
 
@@ -124,11 +152,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. De toezichthouder kan ontheffing verlenen van de in het eerste lid genoemde verplichting. Aan de ontheffing kunnen voorschriften worden verbonden en beperkingen gesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Ministers stellen bij ministeriële regeling regels ten aanzien van de berekening en de verstrekking door de openbare lichamen van gegevens, welke nodig zijn voor het toezicht op de naleving van het bepaalde bij of krachtens deze wet.
 
@@ -152,41 +180,41 @@ Vervallen
 
 - i. het EMU-saldo van de openbare lichamen.
 
-#### Artikel 9
+##### Artikel 9
 
 Onze Ministers zenden binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Provinciewet.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Gemeentewet.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt de Waterschapswet.
 
-#### Artikel 13
+##### Artikel 13
 
 De Wet financiering lagere overheid wordt ingetrokken.
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze wet wordt aangehaald als: Wet financiering decentrale overheden.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Openbare lichamen kunnen geldleningen slechts aangaan en verstrekken, dan wel de nakoming van uit geldleningen voortvloeiende verplichtingen ten aanzien van de betaling van rente en aflossing slechts garanderen, indien de geldleningen voldoen aan de daarvoor bij algemene maatregel van bestuur te stellen regels.
 
@@ -194,7 +222,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Openbare lichamen sluiten ten gunste van personeel of politieke ambtsdragers geen contracten met betrekking tot hypothecaire leningen of garanties op de verstrekking van hypothecaire leningen door financiële instellingen.
 
-#### Artikel 2b
+##### Artikel 2b
 
 1. Openbare lichamen ontvangen rente over de liquide middelen die zij in ’s Rijks schatkist aanhouden. De rente kan niet negatief zijn.
 

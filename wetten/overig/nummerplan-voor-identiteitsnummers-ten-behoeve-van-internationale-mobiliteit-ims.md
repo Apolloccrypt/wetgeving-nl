@@ -1,20 +1,44 @@
 ---
 title: "Nummerplan voor identiteitsnummers ten behoeve van internationale mobiliteit (IMSI-nummers)"
 identifier: "BWBR0010199"
-categorie: "Overig"
-publicatiedatum: 2014-03-13
-laatste_update: 2014-03-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010199"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-03-13"
+last_updated: "2014-03-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010199"
+soort: "ministeriele-regeling"
+stam_id: "5010763"
+version_id: "8679922"
+internal_id: "C11233481"
+label_id: "4987184"
+dtd_version: "2.0"
+original_entry_into_force: "1999-01-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010199/2014-03-13/0"
+intitule_bron: "Stcrt.1999-15"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-01-11"
+intitule_published: "1999-01-22"
+intitule_in_force: "1999-01-22"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-15"
+original_signed_date: "1999-01-11"
+original_published_date: "1999-01-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-01-24"
+jci_1_3: "jci1.3:c:BWBR0010199&z=2014-03-13&g=2014-03-13"
+jci_1_0: "1.0:c:BWBR0010199&g=2014-03-13"
+citeertitel_status: "officieel"
+signed_date: "1999-01-11"
+entry_into_force: "1999-01-24"
 ---
-
 # Nummerplan voor identiteitsnummers ten behoeve van internationale mobiliteit (IMSI-nummers)
 
 Gelet op [artikel 4.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.1);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 - a. Autoriteit Consument en Markt: de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
@@ -42,7 +66,7 @@ Besluit:
 
 - g. besloten elektronisch communicatienetwerk: elektronisch communicatienetwerk dat niet wordt gebruikt voor het aanbieden van openbare elektronische communicatiediensten.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een nummer als bedoeld in dit besluit bestaat uit een mobiele landencode gevolgd door een mobiele netwerkcode, al dan niet gevolgd door een IMSI-gebruikersnummer.
 
@@ -54,15 +78,15 @@ Besluit:
 
 5. De IMSI-gebruikersnummers kunnen door de houders van een mobiele netwerkcode zelf worden gekozen tenzij daartoe door de Autoriteit Consument en Markt op grond van [artikel 4.2, vierde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.2) beperkingen zijn opgelegd.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Nummerplan voor identiteitsnummers ten behoeve van internationale mobiliteit (IMSI-nummers).
 

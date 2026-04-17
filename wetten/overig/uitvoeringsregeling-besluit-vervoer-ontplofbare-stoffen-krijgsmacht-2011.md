@@ -1,20 +1,45 @@
 ---
 title: "Uitvoeringsregeling Besluit vervoer ontplofbare stoffen krijgsmacht 2011"
 identifier: "BWBR0028898"
-categorie: "Overig"
-publicatiedatum: 2022-09-21
-laatste_update: 2022-09-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028898"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-09-21"
+last_updated: "2022-09-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028898"
+soort: "ministeriele-regeling"
+stam_id: "11060993"
+version_id: "18071862"
+internal_id: "C25122081"
+label_id: "11035464"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028898/2022-09-21/0"
+intitule_bron: "Stcrt.2010-16765"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-15"
+intitule_published: "2010-10-27"
+intitule_in_force: "2010-10-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-16765"
+original_signed_date: "2010-10-15"
+original_published_date: "2010-10-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-16765"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0028898&z=2022-09-21&g=2022-09-21"
+jci_1_0: "1.0:c:BWBR0028898&g=2022-09-21"
+citeertitel_status: "officieel"
+signed_date: "2010-10-15"
+entry_into_force: "2011-01-01"
 ---
-
 # Uitvoeringsregeling Besluit vervoer ontplofbare stoffen krijgsmacht 2011
 
 Gelet op de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=4), [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=5), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=7), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=8), [9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=9), [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=10), en [11 van het Besluit vervoer ontplofbare stoffen krijgsmacht](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=11);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -28,13 +53,13 @@ In deze regeling wordt verstaan onder:
 
 - e. **meevoeren:** het meenemen van munitie bestemd voor gebruik door de eigen bemanning in het bij het voertuig behorende wapensysteem, inbegrepen munitie behorende tot de uitrusting van de bemanning.
 
-#### Artikel 2. Stanag 4441
+##### Artikel 2. Stanag 4441
 
 1. Indien door de krijgsmacht munitie wordt vervoerd over de weg, het spoor of het binnenwater dienen de daarop betrekking hebbende gedeelten van de Standards-related documents van de AMovP-6, behorende tot de STANAG 4441 in acht te worden genomen.
 
 2. Voor de toepassing van STANAG 4441 wordt onder standard military vehicle in deze regeling begrepen een logistiek voertuig als bedoeld in het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009142).
 
-#### Artikel 3. Tactisch voertuig
+##### Artikel 3. Tactisch voertuig
 
 1. Indien een tactisch voertuig niet beschikt over een organieke brandbestrijdingsuitrusting dient op het voertuig een brandblusvoorziening met ten minste twee kilo brandblusmiddel aanwezig te zijn.
 
@@ -50,7 +75,7 @@ In deze regeling wordt verstaan onder:
 
 - d. wordt voldaan aan de bij of krachtens het besluit gestelde regels met betrekking tot logistieke voertuigen met uitzondering van het gestelde in [artikel 4 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0028898&artikel=4&z=2022-09-21&g=2022-09-21) en [artikel 5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=5).
 
-#### Artikel 4. Logistiek voertuig
+##### Artikel 4. Logistiek voertuig
 
 1. De afscheiding tussen bestuurderscabine en laadruimte moet zijn vervaardigd uit zodanig materiaal dat voortschrijding van een brand niet meer kan bedragen dan 100 mm per minuut.
 
@@ -106,7 +131,7 @@ Het vloeroppervlak mag geen onderbrekingen vertonen. Als onderbreking wordt niet
 
 16. Een aanhangwagen met een totaal maximum massa minder dan of gelijk aan 750 kg moet zijn voorzien van een extra verbinding met het trekkende voertuig zodat in geval van het breken van de koppeling tijdens het rijden de aanhangwagen niet losraakt van het trekkend voertuig.
 
-#### Artikel 5. Technische keuring
+##### Artikel 5. Technische keuring
 
 1. Een tactisch en logistiek voertuig dient jaarlijks te worden gekeurd of wordt voldaan aan het gestelde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=4) respectievelijk [5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=5).
 
@@ -124,7 +149,7 @@ Het vloeroppervlak mag geen onderbrekingen vertonen. Als onderbreking wordt niet
 
 8. Indien het voertuig binnen twee maanden voor de vervaldatum wordt goedgekeurd, mag de oude vervaldatum met een jaar worden verlengd.
 
-#### Artikel 6. Militair keuringsdocument
+##### Artikel 6. Militair keuringsdocument
 
 1. Voor het militair keuringsdocument wordt het in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028898&bijlage=A&z=2022-09-21&g=2022-09-21) van deze regeling opgenomen model vastgesteld.
 
@@ -134,7 +159,7 @@ Het vloeroppervlak mag geen onderbrekingen vertonen. Als onderbreking wordt niet
 
 4. De commandant van de eenheid waar het voertuig organiek is ingedeeld, is verantwoordelijk voor het bewaken van de geldigheidsduur van het militair keuringsdocument.
 
-#### Artikel 7. Typen verpakking
+##### Artikel 7. Typen verpakking
 
 1. Als typen verpakking wordt toegestaan UN goedgekeurde verpakkingen, herkenbaar aan het UN kenmerk, als omschreven in deel 6 van het ADR. Tevens zijn toegestaan verpakkingen welke vallen onder en voldoen aan het gestelde in de randnummers 1.6.1.3 en 1.6.1.4 van het ADR.
 
@@ -148,7 +173,7 @@ Het vloeroppervlak mag geen onderbrekingen vertonen. Als onderbreking wordt niet
 
 - 2°. waarvan de lengte niet meer dan 5 km bedraagt.
 
-#### Artikel 8. Aanduidingen en aanwijzingen op verpakkingen
+##### Artikel 8. Aanduidingen en aanwijzingen op verpakkingen
 
 1. Verpakkingen van ontplofbare stoffen moeten ten behoeve van een veilige behandeling en juist gebruik van de verpakte voorwerpen en artikelen zijn voorzien van de door de civiele en militaire autoriteiten vastgestelde aanduidingen en aanwijzingen ter identificatie.
 
@@ -162,7 +187,7 @@ Het vloeroppervlak mag geen onderbrekingen vertonen. Als onderbreking wordt niet
 
 6. Munitie die in een tactisch voertuig wordt meegevoerd, hoeft niet te zijn voorzien van de kenmerking en etikettering, bedoeld in deel 5 van het ADR.
 
-#### Artikel 9. Intrekking
+##### Artikel 9. Intrekking
 
 Ingetrokken worden:
 
@@ -170,11 +195,11 @@ Ingetrokken worden:
 
 - b. de Aanvullende regelgeving/Bedrijfsvoorschriften Defensie (MP 40-20, Deel C).
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2011.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling Besluit vervoer ontplofbare stoffen krijgsmacht 2011.
 

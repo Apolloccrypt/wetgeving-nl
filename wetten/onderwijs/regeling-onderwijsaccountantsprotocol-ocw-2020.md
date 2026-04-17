@@ -1,34 +1,60 @@
 ---
-title: "Regeling onderwijsaccountantsprotocol OCW 2020"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 26 januari 2021, nr. 26750652, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO, MBO en HO (Regeling onderwijsaccountantsprotocol OCW 2020)"
 identifier: "BWBR0044851"
-categorie: "Onderwijs"
-publicatiedatum: 2021-02-25
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044851"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-02-25"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044851"
+soort: "ministeriele-regeling"
+stam_id: "15856493"
+version_id: "27547122"
+internal_id: "C38869291"
+label_id: "15791454"
+dtd_version: "2.0"
+original_entry_into_force: "2021-02-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044851/2021-02-25/0"
+intitule_bron: "Stcrt.2021-6210"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-01-26"
+intitule_published: "2021-02-24"
+intitule_in_force: "2021-02-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-6210"
+original_signed_date: "2021-01-26"
+original_published_date: "2021-02-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-6210"
+entry_into_force_date: "2021-02-25"
+jci_1_3: "jci1.3:c:BWBR0044851&z=2021-02-25&g=2021-02-25"
+jci_1_0: "1.0:c:BWBR0044851&g=2021-02-25"
+citeertitel_status: "officieel"
+short_title: "Regeling onderwijsaccountantsprotocol OCW 2020"
+signed_date: "2021-01-26"
+entry_into_force: "2021-02-25"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 26 januari 2021, nr. 26750652, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO, MBO en HO (Regeling onderwijsaccountantsprotocol OCW 2020)
 
 Gelet op [artikel 157, vierde lid, tweede volzin, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=157), [artikel 171, vierde lid, tweede volzin, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171), de [artikelen 14a, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=14a), en [18, zesde lid, van het Bekostigingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=18), [artikel 5.2.5, eerste lid, van het Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=5.2.5) en [artikel 4.4, tweede lid, van het Uitvoeringsbesluit WHW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.4);
 
 **Besluit:**
 
-#### Artikel 1. Vaststelling onderwijsaccountantsprotocol OCW
+##### Artikel 1. Vaststelling onderwijsaccountantsprotocol OCW
 
 Het protocol voor de controle en onderzoek door de accountant over het jaar 2020 wordt vastgesteld overeenkomstig de bijlage bij deze regeling.
 
-#### Artikel 2. Intrekking [Regeling onderwijsaccountantsprotocol OCW/EZ 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0036238)
+##### Artikel 2. Intrekking [Regeling onderwijsaccountantsprotocol OCW/EZ 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0036238)
 
 De [Regeling onderwijsaccountantsprotocol OCW/EZ 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0036238) wordt ingetrokken.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2020.
 
 2. Deze regeling heeft betrekking op het jaar 2020 en vervalt met ingang van 1 januari 2027.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling onderwijsaccountantsprotocol OCW 2020.
 

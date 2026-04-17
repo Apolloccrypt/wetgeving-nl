@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake een gedragscode voor lijnvaartconferences"
 identifier: "BWBV0003936"
-categorie: "Internationaal recht"
-publicatiedatum: 1983-10-06
-laatste_update: 1983-10-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003936"
+country: "nl"
+rank: "verdrag"
+publication_date: "1983-10-06"
+last_updated: "1983-10-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003936"
+soort: "verdrag"
+stam_id: "10003780183"
+version_id: "10003845572"
+internal_id: "C10006983191"
+label_id: "10003765744"
+dtd_version: "2.0"
+original_entry_into_force: "1983-10-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003936/1983-10-06/0"
+intitule_bron: "Trb.1979-177"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1979-12-28"
+intitule_in_force: "1983-06-23"
+intitule_status: "goed"
+original_publication: "Trb.1979-177"
+original_published_date: "1979-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1979-177"
+entry_into_force_date: "1983-10-06"
+jci_1_3: "jci1.3:c:BWBV0003936&z=1983-10-06&g=1983-10-06"
+jci_1_0: "1.0:c:BWBV0003936&g=1983-10-06"
+citeertitel_status: "redactioneel"
+entry_into_force: "1983-10-06"
 ---
-
 # Verdrag inzake een gedragscode voor lijnvaartconferences
 
 DOELSTELLINGEN EN BEGINSELEN
@@ -42,7 +64,7 @@ zijn overeengekomen als volgt:
 
 ### HOOFDSTUK II. : BETREKKINGEN TUSSEN LEDEN-LIJNEN
 
-#### Artikel 1. Lidmaatschap
+##### Artikel 1. Lidmaatschap
 
 1. Een nationale lijn heeft het recht volledig lid te zijn van een conference die het buitenlandse vervoer van haar land verzorgt, zulks in overeenstemming met de normen neergelegd in artikel 1, tweede lid. Lijnen die niet als nationale lijnen worden aangemerkt, hebben het recht volledig lid van die conference te worden, afhankelijk van de normen neergelegd in artikel 1, tweede en derde lid, en van het bepaalde betreffende het aandeel in het vervoer neergelegd in artikel 2 met betrekking tot lijnen uit derde landen.
 
@@ -68,7 +90,7 @@ De bovenstaande criteria dienen niet zo te worden gehanteerd dat daardoor de toe
 
 6. Een lijn die om wedertoelating verzoekt, dient, naast te voldoen aan de criteria voor toelating neergelegd in artikel 1, tweede lid, ook aan te tonen dat zij voldaan heeft aan haar verplichtingen overeenkomstig artikel 4, eerste en vierde lid. De conference kan de omstandigheden waaronder de lijn de conference heeft verlaten aan een bijzonder onderzoek onderwerpen.
 
-#### Artikel 2. Deelneming aan het vervoer
+##### Artikel 2. Deelneming aan het vervoer
 
 1. Een lijn die is toegelaten tot het lidmaatschap van een conference heeft afvaart- en laadrechten in het vaargebied van die conference.
 
@@ -108,11 +130,11 @@ De bovenstaande criteria dienen niet zo te worden gehanteerd dat daardoor de toe
 
 17. De bepalingen van artikel 2, eerste tot en met zestiende lid, gelden voor alle goederen, ongeacht hun oorsprong, hun bestemming of het gebruik waarvoor zij zijn bestemd, met uitzondering van militaire uitrusting ten behoeve van de nationale verdediging.
 
-#### Artikel 3. Besluitvormingsprocedures
+##### Artikel 3. Besluitvormingsprocedures
 
 De besluitvormingsprocedures vervat in een conference-overeenkomst dienen te zijn gebaseerd op het beginsel van gelijkheid van alle lijnen die volledig lid zijn; deze procedures dienen te verzekeren dat de stemvoorschriften het juiste functioneren van de conference en de dienstverlening in het vaargebied niet belemmeren en dient die aangelegenheden te omschrijven waarover met eenparigheid van stemmen beslissingen zullen worden genomen. Ten aanzien van in een conference-overeenkomst omschreven aangelegenheden betreffende het goederenvervoer tussen twee landen kan evenwel geen beslissing worden genomen zonder de instemming van de nationale lijnen van deze twee landen.
 
-#### Artikel 4. Sancties
+##### Artikel 4. Sancties
 
 1. Een conferencelid heeft het recht, onder voorbehoud van de bepalingen betreffende terugtrekking die zijn vervat in poolregelingen en/of ladingverdeling-regelingen, nadat hij een conference-overeenkomst heeft opgezegd met inachtneming van een termijn van drie maanden, zich zonder sancties ontslagen te achten van de voorwaarden van deze overeenkomst, tenzij de conference-overeenkomst een andere termijn bepaalt, hoewel hij zijn verplichtingen als lid van de conference dient te vervullen tot de datum van ontheffing.
 
@@ -122,7 +144,7 @@ De besluitvormingsprocedures vervat in een conference-overeenkomst dienen te zij
 
 4. Bij terugtrekking of royement dient de betrokken lijn haar deel in de uitstaande financiële verplichtingen van de conference te betalen tot de datum van haar terugtrekking of royement. In geval van terugtrekking, schorsing of royement wordt de rederij niet ontheven van haar eigen financiële verplichtingen ingevolge de conference-overeenkomst of van enigerlei verplichtingen jegens verladers.
 
-#### Artikel 5. Tuchtregeling
+##### Artikel 5. Tuchtregeling
 
 1. Een conference dient een indicatieve lijst vast te stellen en bij te houden, die zo uitputtend mogelijk dient te zijn, van praktijken die als misbruiken en/of inbreuken op de conference-overeenkomst worden beschouwd en dient te voorzien in een doeltreffende zelfregulering ten einde deze praktijken aan te pakken, met specifieke bepalingen die voorzien in:
 
@@ -134,13 +156,13 @@ De besluitvormingsprocedures vervat in een conference-overeenkomst dienen te zij
 
 2. Lijnen en conferences zijn gerechtigd de volle medewerking van verladers en verladersorganisatie te ontvangen in hun pogingen misbruiken en inbreuken te bestrijden.
 
-#### Artikel 6. Conference-overeenkomsten
+##### Artikel 6. Conference-overeenkomsten
 
 Alle conference-overeenkomsten, pooling- en afvaartregelingen, regelingen omtrent laad- en losrechten en wijzigingen daarop of andere documenten die rechtstreeks op zodanige overeenkomsten betrekking hebben en deze raken, dienen op verzoek ter beschikking te worden gesteld van de bevoegde autoriteiten van de landen wier vervoer door de conference wordt verricht en van de landen wier lijnen lid zijn van de conference.
 
 ### HOOFDSTUK III. : BETREKKINGEN MET VERLADERS
 
-#### Artikel 7. Getrouwheidsovereenkomsten
+##### Artikel 7. Getrouwheidsovereenkomsten
 
 1. De lijnen die lid zijn van een conference, zijn gerechtigd getrouwheidsovereenkomsten met verladers te sluiten en te handhaven, over de vorm en voorwaarden waarvan overlegd wordt tussen de conference en de verladersorganisaties of de vertegenwoordigers van verladers. Deze getrouwheidsovereenkomsten dienen waarborgen te bieden waarbij de rechten van verladers en van conferenceleden expliciet vastgesteld worden. Deze overeenkomsten dienen te zijn gebaseerd op het contractsysteem of op een ander eveneens wettig systeem.
 
@@ -168,21 +190,21 @@ Alle conference-overeenkomsten, pooling- en afvaartregelingen, regelingen omtren
 
 4. Indien er een geschil bestaat tussen een conference en een verladersorganisatie, vertegenwoordigers van verladers en/of verladers over de vorm of de voorwaarden van een voorgestelde getrouwheidsovereenkomst, kan elk der partijen het geschil ter oplossing voorleggen volgens passende procedures zoals vervat in deze Code.
 
-#### Artikel 8. Ontheffing
+##### Artikel 8. Ontheffing
 
 1. Binnen de voorwaarden van de getrouwheidsovereenkomsten dienen de conferences erin te voorzien dat verzoeken van verladers om ontheffing worden bestudeerd en dat onverwijld een beslissing daaromtrent wordt genomen en dat, indien daarom wordt verzocht, schriftelijk de redenen worden gegeven wanneer ontheffing wordt geweigerd. Indien een conference niet binnen een in de getrouwheidsovereenkomst aangegeven termijn, bevestigt dat voldoende ruimte beschikbaar is voor het vervoer van de lading van een verlader binnen een eveneens in de getrouwheidsovereenkomst aangegeven termijn, heeft de verlader het recht ongestraft een ander schip voor het vervoer van de betrokken lading te gebruiken.
 
 2. In havens waar conferencediensten worden aangeboden afhankelijk van de beschikbaarheid van een aangegeven minimum hoeveelheid lading (d.w.z. op aanmelding) hebbende verladers automatisch het recht, zonder hun status als trouwe verlader in gevaar te brengen indien de lijn de haven niet aandoet, ondanks tijdige kennisgeving door de verladers, of indien de lijn niet binnen een overeengekomen termijn reageert op de door verladers gedane kennisgeving, elk beschikbaar schip te gebruiken voor het vervoer van hun lading.
 
-#### Artikel 9. Beschikbaarstelling van vervoertarieven en daarmede samenhangende voorwaarden en/of regelingen
+##### Artikel 9. Beschikbaarstelling van vervoertarieven en daarmede samenhangende voorwaarden en/of regelingen
 
 De vervoertarieven, de daarmede samenhangende voorwaarden, regelingen en wijzigingen daarop, worden op verzoek ter beschikking gesteld van verladers, verladersorganisaties en andere betrokken partijen tegen redelijke vergoeding en dienen beschikbaar te zijn voor raadpleging op het kantoor van de lijnen en hun agenten. Zij dienen alle voorwaarden te behelzen betreffende de toepassing van vervoertarieven en het vervoer van de lading waarvoor deze tarieven gelden.
 
-#### Artikel 10. Jaarverslagen
+##### Artikel 10. Jaarverslagen
 
 De conferences verstrekken jaarlijks aan de verladersorganisaties, of aan de vertegenwoordigers van verladers verslagen over hun werkzaamheden, welke verslagen beogen algemene voor dezen van belang zijnde informatie te verstrekken, met inbegrip van ter zake dienende informatie over met verladers en verladersorganisaties gevoerd overleg, maatregelen genomen naar aanleiding van klachten, veranderingen in het lidmaatschap en belangrijke veranderingen in de dienst, de vervoertarieven en de vervoervoorwaarden. Zulke jaarverslagen dienen op verzoek te worden overgelegd aan de bevoegde autoriteiten van de landen waarvan het vervoer door de betrokken conference wordt verzorgd.
 
-#### Artikel 11. Overlegprocedure
+##### Artikel 11. Overlegprocedure
 
 1. Omtrent aangelegenheden van gemeenschappelijk belang dient overleg te worden gepleegd tussen een conference, verladersorganisaties, verladersvertegenwoordigers en, indien mogelijk, verladers, die voor dit doel kunnen worden aangewezen door de bevoegde autoriteit indien deze zulks wenst. Dit overleg vindt plaats wanneer daarom wordt verzocht door een van de bovengenoemde partijen. De bevoegde autoriteiten hebben op hun verzoek het recht, volledig deel te nemen in het overleg, doch dit houdt niet in dat zij een rol bij de besluitvorming spelen.
 
@@ -222,7 +244,7 @@ De conferences verstrekken jaarlijks aan de verladersorganisaties, of aan de ver
 
 ### HOOFDSTUK IV. : VERVOERTARIEVEN
 
-#### Artikel 12. Maatstaven voor de vaststelling van de vervoertarieven
+##### Artikel 12. Maatstaven voor de vaststelling van de vervoertarieven
 
 Bij het nemen van een beslissing inzake tariefbeleidsvraagstukken wordt, in alle in deze Code genoemde gevallen tenzij anderszins bepaald, rekening gehouden met de onderstaande punten:
 
@@ -232,13 +254,13 @@ Bij het nemen van een beslissing inzake tariefbeleidsvraagstukken wordt, in alle
 
 - c. Bij het vaststellen van stimuleringsvervoertarieven en/of bijzondere vervoertarieven voor bepaalde goederen, wordt rekening gehouden met de voorwaarden waaronder deze goederen worden verhandeld in de landen die door de conference worden bediend, inzonderheid de ontwikkelingslanden en de landen zonder zeekust.
 
-#### Artikel 13. Conferencevervoertarieven en de klassificatie van vervoertarieven
+##### Artikel 13. Conferencevervoertarieven en de klassificatie van vervoertarieven
 
 1. In de conferencevervoertarieven mag niet op onbillijke wijze onderscheid worden gemaakt tussen verladers in een soortgelijke situatie. Lijnen die lid zijn van een conference, dienen zich strikt te houden aan de vervoertarieven, regels en voorwaarden vermeld in de tarieven en in andere op dat tijdstip geldige gepubliceerde documenten van de conference, en aan ingevolge deze Code toegestane bijzondere regelingen.
 
 2. De conferencetariefschalen dienen eenvoudig en duidelijk te zijn opgesteld, zo min mogelijk klassen/categorieën te omvatten afhankelijk van de bijzondere vereisten van een vervoerroute, een vervoertarief aan te geven voor elk vervoerd goed en, waar passend, voor elke klasse/categorie; zij dienen tevens, waar mogelijk, ten einde de opstelling en analyse van statistieken te vergemakkelijken, het overeenkomstige nummer te omvatten van het artikel overeenkomstig de Internationale Standaardhandelsclassificatie, de Naamlijst van Brussel of enige andere naamlijst die internationaal aanvaard is; de klassificatie van goederen in de vervoertarieven dient, voor zo ver mogelijk, te worden opgesteld in samenwerking met verladersorganisaties en andere betrokken nationale en internationale organisaties.
 
-#### Artikel 14. Algemene verhogingen van vervoertarieven
+##### Artikel 14. Algemene verhogingen van vervoertarieven
 
 1. Een conference dient ten minste 150 dagen van te voren, of overeenkomstig regionaal gebruik en/of overeenkomst, de verladersorganisaties of de vertegenwoordigers van verladers en/of verladers en, waar zulks is vereist, de bevoegde autoriteiten van de landen wier vervoer door de conference wordt verzorgd, kennis te geven van haar voornemen een algemene verhoging van de vervoertarieven toe te passen, alsmede een aanduiding van de omvang daarvan, de datum van inwerkingtreding en de redenen voor de voorgestelde verhoging.
 
@@ -258,7 +280,7 @@ Bij het nemen van een beslissing inzake tariefbeleidsvraagstukken wordt, in alle
 
 9. De conferences dienen een algemene tariefsverhoging, die geldt overeenkomstig deze Code, in te voeren voor een aangegeven minimum tijdvak, altijd onder voorbehoud van de regels betreffende tarieftoeslagen en aanpassing van vervoertarieven na schommelingen in wisselkoersen. Het tijdvak gedurende hetwelk een algemene tariefsverhoging van toepassing zal zijn, is een onderwerp, dat tijdens het overleg gevoerd overeenkomstig artikel 14, tweede lid, kan worden besproken, doch tenzij tussen de partijen tijdens het overleg anders overeengekomen, dient het minimum tijdvak tussen de datum waarop een algemene tariefsverhoging in werking treedt en de datum van kennisgeving van de volgende algemene tariefsverhoging, gedaan overeenkomstig artikel 14, eerste lid, niet korter te zijn dan 10 maanden.
 
-#### Artikel 15. Stimuleringstarieven
+##### Artikel 15. Stimuleringstarieven
 
 1. Voor niet-traditionele exporten dienen door de conferences stimuleringstarieven te worden ingevoerd.
 
@@ -276,7 +298,7 @@ Bij het nemen van een beslissing inzake tariefbeleidsvraagstukken wordt, in alle
 
 8. Elke lijn die lid is van een conference die de desbetreffende havens in een conferencevaargebied bedient, behoort een billijk deel van de lading waarvoor een stimuleringstarief is vastgesteld door de conference te aanvaarden en dit niet op onredelijke gronden te weigeren.
 
-#### Artikel 16. Toeslagen
+##### Artikel 16. Toeslagen
 
 1. Toeslagen geheven door een conference ter dekking van plotselinge of buitengewone stijgingen in kosten of een daling van opbrengsten worden als tijdelijk beschouwd. Zij dienen te worden verlaagd naarmate verbeteringen optreden in de situatie of omstandigheden waarin zij verondersteld waren te voorzien en dienen te worden afgeschaft, onverminderd het bepaalde in artikel 16, zesde lid, zodra de situatie of omstandigheden die tot de heffing hebben geleid, zich niet meer voordoen. Zulks wordt aangegeven op het tijdstip van de invoering daarvan, te zamen met, voor zover mogelijk, een beschrijving van de verandering in de situatie of omstandigheden die zal leiden tot de verhoging, verlaging of afschaffing ervan.
 
@@ -290,7 +312,7 @@ Bij het nemen van een beslissing inzake tariefbeleidsvraagstukken wordt, in alle
 
 6. Door de conferenceleden geleden financiële verliezen ten gevolge van vertraging wegens in het overeenkomstig de bepalingen van deze Code gevoerde overleg en/of in andere procedures ter oplossing van geschillen betreffende de heffing van een toeslag, verband houdend met het tijdstip waarop de toeslag zou zijn ingevoerd volgens de kennisgeving gedaan overeenkomstig artikel 16, derde lid, kunnen worden gecompenseerd door een gelijke verlenging van de geldigheidsduur van de toeslag, alvorens deze wordt ingetrokken. Daartegenover worden, wat betreft een toeslag opgelegd door de conference, waarvan daarna wordt vastgesteld en overeengekomen dat deze ongerechtvaardigd of overmatig is, tengevolge van overleg of andere procedures die in deze Code zijn voorgeschreven, de aldus ontvangen bedragen of het teveel betaalde bedrag zoals hierboven bepaald, tenzij anderszins overeengekomen, aan de betrokken partijen terugbetaald, indien deze zulks verzoeken, binnen een termijn van 30 dagen van een zodanig verzoek.
 
-#### Artikel 17. Koerswijzigingen
+##### Artikel 17. Koerswijzigingen
 
 1. Koerswijzigingen, met inbegrip van devaluatie of revaluatie, die leiden tot veranderingen in de totale exploitatiekosten en/of inkomsten van de conferenceleden wat betreft hun activiteiten binnen de conference, vormen een geldige reden voor de invoering van een monetaire aanpassingscoëfficiënt of voor een wijziging van de vervoertarieven. De aanpassing of wijziging dient zodanig te zijn dat over het geheel genomen de betrokken conferenceleden voor zover mogelijk, niet winnen of verliezen ten gevolge van de aanpassing of wijziging. De aanpassing of wijziging kan de vorm aannemen van in geld uitgedrukte toeslagen of kortingen, dan wel van verhogingen of verlagingen van de vervoertarieven.
 
@@ -302,11 +324,11 @@ Bij het nemen van een beslissing inzake tariefbeleidsvraagstukken wordt, in alle
 
 ### HOOFDSTUK V. : ANDERE AANGELEGENHEDEN
 
-#### Artikel 18. Concurrentiebrekers
+##### Artikel 18. Concurrentiebrekers
 
 De leden van een conference mogen in het vaargebied van de conference geen schepen inzetten uitsluitend met het doel de concurrentie van een lijn die geen lid van de conference is te breken, te voorkomen of te verminderen ten einde deze te dwingen zich uit genoemd vaargebied terug te trekken.
 
-#### Artikel 19. Toereikendheid van dienstverlening
+##### Artikel 19. Toereikendheid van dienstverlening
 
 1. De conferences dienen de nodige en passende maatregelen te nemen ten einde te verzekeren dat hun leden geregelde, toereikende en doelmatige diensten met de benodigde frequentie bieden op de routes waarop zij varen en dienen zulke diensten dusdanig te regelen dat daardoor voor zover mogelijk de afvaarten in de tijd niet te dicht bijeen of te ver uiteen liggen. De conferences dienen ook bijzondere maatregelen in overweging te nemen die noodzakelijk kunnen zijn voor de verzorging van de diensten met het oog op de opvang van seizoenschommelingen in de omvang van de te vervoeren lading.
 
@@ -314,15 +336,15 @@ De leden van een conference mogen in het vaargebied van de conference geen schep
 
 3. Met betrekking tot een haven die door de conference alleen wordt bediend afhankelijk van het voorhanden zijn van een aangegeven minimumhoeveelheid lading, dient dat minimum te worden aangegeven in het tarief. De verladers dienen tijdig van te voren kennis te geven van het voorhanden zijn van zulke lading.
 
-#### Artikel 20. Hoofdkantoor van een conference
+##### Artikel 20. Hoofdkantoor van een conference
 
 Een conference dient als regel haar hoofdkantoor te vestigen in een land waarvan het vervoer door die conference wordt verzorgd, tenzij door de lijnen die lid zijn van die conference anderszins is overeengekomen.
 
-#### Artikel 21. Vertegenwoordiging
+##### Artikel 21. Vertegenwoordiging
 
 De conferences dienen een plaatselijke vertegenwoordiging te vestigen in alle landen, waarvan zij het vervoer verzorgen doch indien daartegen praktische argumenten zijn aan te voeren, kan de vertegenwoordiging op regionale basis zijn. De namen en adressen van de vertegenwoordigers dienen gemakkelijk beschikbaar te zijn en deze vertegenwoordigers dienen ervoor zorg te dragen dat de standpunten van de verladers en de conferences snel over en weer ter kennis worden gebracht ten einde prompte beslissingen te bespoedigen. Wanneer een conference zulks passend acht, dient zij te voorzien in een toereikende delegatie van de beslissingsbevoegdheid aan haar vertegenwoordigers.
 
-#### Artikel 22. Inhoud van conference-overeenkomsten, overeenkomsten tot deelneming aan het vervoer en getrouwheidsovereenkomsten
+##### Artikel 22. Inhoud van conference-overeenkomsten, overeenkomsten tot deelneming aan het vervoer en getrouwheidsovereenkomsten
 
 Conference-overeenkomsten, overeenkomsten tot deelneming aan het vervoer en getrouwheidsovereenkomsten dienen te voldoen aan de desbetreffende bepalingen van deze Code en kunnen eventueel andere overeengekomen bepalingen omvatten voor zover deze niet onverenigbaar zijn met deze Code.
 
@@ -332,7 +354,7 @@ Conference-overeenkomsten, overeenkomsten tot deelneming aan het vervoer en getr
 
 ### A. Algemene bepalingen
 
-#### Artikel 23
+##### Artikel 23
 
 1. De bepalingen van dit hoofdstuk zijn van toepassing wanneer er sprake is van een geschil betreffende de toepassing of werking van de bepalingen van deze Code tussen de volgende partijen:
 
@@ -372,7 +394,7 @@ Voor de toepassing van dit hoofdstuk wordt onder de term „partij” verstaan d
 
 die niet zijn opgelost door middel van uitwisseling van standpunten of rechtstreekse onderhandelingen worden, op verzoek van een der partijen bij het geschil, onderworpen aan verplichte internationale bemiddeling overeenkomstig de bepalingen van dit hoofdstuk.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De bemiddelingsprocedure wordt ingeleid op verzoek van een der partijen bij het geschil.
 
@@ -396,7 +418,7 @@ die niet zijn opgelost door middel van uitwisseling van standpunten of rechtstre
 
 7. Indien geen verzoek is gedaan binnen de in artikel 24, tweede of vijfde lid, aangegeven termijnen, is de beslissing van de conference definitief en kunnen door een partij bij het geschil geen procedures worden ingeleid om deze beslissing aan te vechten.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Wanneer de partijen zijn overeengekomen dat de geschillen bedoeld in artikel 23, vierde lid, letters a, b, c, d, h en i worden opgelost door middel van andere procedures dan die welke in dat artikel zijn vastgesteld, of overeenstemming bereiken inzake procedures ter oplossing van een bepaald geschil dat tussen hen is gerezen, worden zodanige geschillen, op verzoek van een der partijen bij het geschil, opgelost zoals bepaald in hun overeenkomst.
 
@@ -404,7 +426,7 @@ die niet zijn opgelost door middel van uitwisseling van standpunten of rechtstre
 
 3. Wanneer er bemiddelingsprocedures zijn ingeleid, hebben zodanige procedures voorrang op de in het kader van het nationale recht geboden rechtsgangen. Indien een partij een beroep doet op het nationale recht ten aanzien van een geschil waarop dit hoofdstuk van toepassing is, zonder een beroep te doen op de in dit hoofdstuk bepaalde procedures, dan wordt dit geding, op verzoek van een verweerder in dit geding, opgeschort en wordt het geschil door de rechter of andere autoriteit bij wie een beroep wordt gedaan op de door het nationale recht geboden mogelijkheden, behandeld volgens de in dit hoofdstuk omschreven procedures.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De Verdragsluitende Partijen verlenen de conferences en de verladersorganisaties de wettelijke bekwaamheden die nodig zijn voor de toepassing van de bepalingen van dit hoofdstuk. Inzonderheid:
 
@@ -416,23 +438,23 @@ die niet zijn opgelost door middel van uitwisseling van standpunten of rechtstre
 
 2. De aanvaarding of verwerping door een conference of een verladersorganisatie van een aanbeveling van de bemiddelaars wordt beschouwd als de aanvaarding of verwerping van een zodanige aanbeveling door elk van haar leden.
 
-#### Artikel 27
+##### Artikel 27
 
 Tenzij de partijen anderszins overeenkomen, kunnen de bemiddelaars besluiten een aanbeveling te doen op basis van schriftelijke uiteenzettingen zonder een mondelinge procedure.
 
 ### B. Verplichte internationale bemiddeling
 
-#### Artikel 28
+##### Artikel 28
 
 Bij een verplichte internationale bemiddeling nemen de bevoegde autoriteiten vaneen Verdragsluitende Partij, indien zij zulks verzoeken, deel aan de bemiddelingsprocedure, ter verdediging van een partij die onderdaan is van die Verdragsluitende Partij, of ter verdediging van een partij bij een geschil dat zich voordoet in het kader van het vervoer van de buitenlandse handel van die Verdragsluitende Partij. De bevoegde autoriteit kan ook optreden als waarnemer bij een zodanige bemiddelingsprocedure.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Bij een verplichte internationale bemiddeling wordt het geding gevoerd op de plaats waaromtrent de partijen eenstemmig overeenstemming hebben bereikt of, bij gebreke van zodanige overeenstemming, op de plaats die door de bemiddelaars is vastgesteld.
 
 2. Bij de vaststelling van de plaats van de bemiddelingsprocedure houden de partijen en de bemiddelaars onder meer rekening met de landen die nauw bij het geschil zijn betrokken, daarbij gelet op het land van de betrokken lijnvaartrederij en, vooral wanneer het geschil betrekking heeft op lading, op het land van herkomst van de lading.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Voor de toepassing van dit hoofdstuk wordt een Internationale Lijst van Bemiddelaars opgesteld, bestaande uit deskundigen van grote faam of ervaring op de gebieden van het recht, de economie van het zeevervoer, of de buitenlandse handel en financiën, naar keuze van de Verdragsluitende Partijen, die hun taak geheel onafhankelijk vervullen.
 
@@ -440,7 +462,7 @@ Bij een verplichte internationale bemiddeling nemen de bevoegde autoriteiten van
 
 3. De Administrateur houdt de Lijst bij en stelt de Verdragsluitende Partijen regelmatig in kennis van de samenstelling van de Lijst.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Het doel van de bemiddeling is het bereiken van een minnelijke schikking van het geschil door middel van door onafhankelijke bemiddelaars geformuleerde aanbevelingen.
 
@@ -450,7 +472,7 @@ Bij een verplichte internationale bemiddeling nemen de bevoegde autoriteiten van
 
 4. Onverminderd het bepaalde in artikel 25, tweede lid, kunnen de partijen bij het geschil te allen tijde gedurende de bemiddelingsprocedure in onderlinge overeenstemming besluiten gebruik te maken van een andere procedure voor de regeling van hun geschil. De partijen bij een geschil dat is onderworpen aan andere procedures dan die bepaald in dit hoofdstuk, kunnen in onderlinge overeenstemming besluiten het geschil te onderwerpen aan verplichte internationale bemiddeling.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De bemiddelingsprocedures worden gevoerd door één bemiddelaar of door een oneven aantal bemiddelaars waaromtrent door de partijen overeenstemming is bereikt of die door deze zijn aangewezen.
 
@@ -464,13 +486,13 @@ Bij een verplichte internationale bemiddeling nemen de bevoegde autoriteiten van
 
 - b. elk van de twee benoemde bemiddelaars een gelijk aantal personen van de Lijst van bemiddelaars kan wraken, met dien verstande dat ten minste 30 op de Lijst vermelde personen in aanmerking blijven komen voor de verkiezing door loting.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Wanneer verscheidene partijen verzoeken om bemiddeling met dezelfde verweerder ten aanzien van dezelfde aangelegenheid of van aangelegenheden die nauw met elkaar verband houden, kan die verweerder verzoeken om voeging van deze zaken.
 
 2. Het verzoek om voeging wordt overwogen door de voorzitters van de tot dat ogenblik gekozen bemiddelaars, die met meerderheid van stemmen daaromtrent beslissen. Indien een zodanig verzoek wordt ingewilligd, wijzen de voorzitters uit de tot dat ogenblik benoemde of gekozen bemiddelaars de bemiddelaars die de gevoegde zaken moeten bezien met dien verstande dat een oneven aantal bemiddelaars wordt gekozen en de door elke partij het eerst benoemde bemiddelaar een van de bemiddelaars is die de gevoegde zaak bezien.
 
-#### Artikel 34
+##### Artikel 34
 
 Elke partij, behalve een bevoegde autoriteit zoals bedoeld in artikel 28, kan, indien de bemiddelingsprocedure is ingeleid, zich in de procedure voegen:
 
@@ -482,7 +504,7 @@ hetzij:
 
 tenzij een van de oorspronkelijke partijen zich hiertegen verzet.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De aanbevelingen van de bemiddelaars worden gedaan overeenkomstig de bepalingen van deze Code.
 
@@ -494,11 +516,11 @@ tenzij een van de oorspronkelijke partijen zich hiertegen verzet.
 
 5. De bemiddelaars kunnen de herstelmaatregelen en schadeloosstellingen aanbevelen waarin het op het geschil toepasselijke recht voorziet.
 
-#### Artikel 36
+##### Artikel 36
 
 De aanbevelingen van de bemiddelaars zijn met redenen omkleed.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Tenzij de partijen voorafgaand aan, tijdens of na de bemiddelingsprocedure zijn overeengekomen dat de aanbeveling van de bemiddelaars bindend is, wordt de aanbeveling bindend door aanvaarding door de partijen. Een aanbeveling die door enkele partijen bij een geschil is aanvaard, is slechts tussen die partijen bindend.
 
@@ -512,13 +534,13 @@ De aanbevelingen van de bemiddelaars zijn met redenen omkleed.
 
 6. Een partij kan haar aanvaarding afhankelijk stellen van aanvaarding door alle of enige van de andere partijen bij het geschil.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Een aanbeveling vormt een definitieve regeling van een geschil tussen de partijen die de aanbeveling aanvaarden, behalve voor zover de aanbeveling niet wordt erkend en uitgevoerd overeenkomstig het bepaalde in artikel 39.
 
 2. „Aanbeveling” omvat een interpretatie, verheldering of herziening van de door de bemiddelaars gedane aanbeveling voordat de aanbeveling is aanvaard.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Elke Verdragsluitende Partij erkent een aanbeveling als bindend tussen de partijen die haar hebben aanvaard en voert, onverminderd het bepaalde in artikel 39, tweede en derde lid, op verzoek van een van die partijen alle door de aanbeveling opgelegde verplichtingen uit, als ware de aanbeveling een definitief vonnis van een rechter van die Verdragsluitende Partij.
 
@@ -534,7 +556,7 @@ De aanbevelingen van de bemiddelaars zijn met redenen omkleed.
 
 3. Een deel van de aanbeveling wordt niet uitgevoerd en erkend indien de rechter of een andere bevoegde autoriteit ervan is overtuigd dat zulk een deel valt onder het bepaalde in een van de sub-paragrafen van artikel 39, tweede lid, en kan worden gescheiden van andere delen van de aanbeveling. Indien zulk een deel niet kan worden gescheiden, wordt de gehele aanbeveling niet uitgevoerd en erkend.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Wanneer de aanbeveling door alle partijen is aanvaard, kunnen de aanbeveling en de redenen daarvoor worden openbaar gemaakt met de toestemming van alle partijen.
 
@@ -546,17 +568,17 @@ De aanbevelingen van de bemiddelaars zijn met redenen omkleed.
 
 3. Wanneer de aanbeveling door geen der partijen is aanvaard, kan elke partij de aanbeveling en de redenen daarvoor, alsmede haar eigen verwerping en de motieven daarvoor openbaar maken.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Documenten en uiteenzettingen die feitelijke informatie bevatten, en die door een partij aan de bemiddelaars zijn verstrekt, worden openbaar gemaakt, tenzij die partij of een meerderheid van de bemiddelaars anderszins overeenkomt.
 
 2. Zodanige documenten en uiteenzettingen die door een partij zijn verstrekt, kunnen door die partij worden overgelegd ter staving van haar beweringen in volgende procedures voortvloeiend uit hetzelfde geschil en tussen dezelfde partijen.
 
-#### Artikel 42
+##### Artikel 42
 
 Wanneer de aanbeveling niet bindend voor de partijen is geworden, zijn de door de bemiddelaars naar voren gebrachte meningen of aangevoerde redenen, of de door de partijen ten behoeve van de bemiddelingsprocedure gedane concessies of aanbiedingen, niet van invloed op de wettelijke rechten en verplichtingen van een partij.
 
-#### Artikel 43
+##### Artikel 43
 
 - a. De kosten van de bemiddelaars en alle kosten verbonden aan de bemiddelingsprocedure worden gelijkelijk door de partijen bij de procedure gedragen, tenzij zij anderszins overeenkomen.
 
@@ -566,7 +588,7 @@ Wanneer de aanbeveling niet bindend voor de partijen is geworden, zijn de door d
 
 3. Niettegenstaande het bepaalde in artikel 43, eerste en tweede lid, kunnen de bemiddelaars, wanneer zij met eenparigheid van stemmen hebben beslist dat een partij een eis heeft ingediend op ondeugdelijke gronden, dan wel met het oogmerk een ander schade toe te brengen, die partij veroordelen tot enige of alle kosten van andere partijen bij de procedure. Een zodanige beslissing is definitief en bindend voor alle partijen.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Indien een partij in enig stadium van de procedure niet verschijnt of haar zaak niet uiteenzet, wordt dit niet beschouwd als een erkenning van de juistheid van de beweringen van de wederpartij. In dat geval kan de andere partij, naar keuze, de bemiddelaars verzoeken de procedure af te sluiten dan wel de aan hun voorgelegde vragen te behandelen en een aanbeveling uit te brengen overeenkomstig de bepalingen voor het doen van aanbevelingen vervat in deze Code.
 
@@ -576,7 +598,7 @@ Wanneer de aanbeveling niet bindend voor de partijen is geworden, zijn de door d
 
 4. Wanneer de procedure is afgesloten, wegens het niet verschijnen van een partij of het niet bepleiten van haar zaak, stellen de bemiddelaars een rapport op, vermeldend het niet deelnemen van die partij aan de procedure.
 
-#### Artikel 45
+##### Artikel 45
 
 1. De bemiddelaars volgen de procedures bepaald in deze Code.
 
@@ -590,7 +612,7 @@ Wanneer de aanbeveling niet bindend voor de partijen is geworden, zijn de door d
 
 ### C. Institutionele voorzieningen
 
-#### Artikel 46
+##### Artikel 46
 
 1. Zes maanden voor de inwerkingtreding van dit Verdrag benoemt de Secretaris-Generaal van de Verenigde Naties, onder voorbehoud van goedkeuring door de Algemene Vergadering van de Verenigde Naties, en met inachtneming van de meningen naar voren gebracht door de Verdragsluitende Partijen, een Administrateur, die kan worden bijgestaan door ander personeel dat nodig is voor de vervulling van de taken opgesomd in artikel 46, tweede lid.
 
@@ -612,13 +634,13 @@ De administratieve diensten voor de Administrateur en zijn assistenten worden ve
 
 ### HOOFDSTUK VII. : SLOTBEPALINGEN
 
-#### Artikel 47. Tenuitvoerlegging
+##### Artikel 47. Tenuitvoerlegging
 
 1. Elke Verdragsluitende Partij neemt de wetgevende of andere maatregelen die nodig zijn voor de tenuitvoerlegging van dit Verdrag.
 
 2. Elke Verdragsluitende Partij deelt de Secretaris-Generaal van de Verenigde Naties, die optreedt als depositaris, de tekst mede van de wetgevende of andere maatregelen die zij heeft genomen ter tenuitvoerlegging van dit Verdrag.
 
-#### Artikel 48. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 48. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Verdrag staat van 1 juli 1974 tot en met 30 juni 1975 open ter ondertekening op het Hoofdkwartier van de Verenigde Naties en blijft daarna openstaan voor toetreding.
 
@@ -632,7 +654,7 @@ De administratieve diensten voor de Administrateur en zijn assistenten worden ve
 
 3. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door de nederlegging van een hiertoe strekkende akte bij de depositaris.
 
-#### Artikel 49. Inwerkingtreding
+##### Artikel 49. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking zes maanden na de datum waarop niet minder dan 24 Staten, waarvan de tonnage te zamen ten minste 25 procent van de wereldtonnage beloopt, Partij bij het Verdrag zijn geworden overeenkomsting artikel 48. Voor de toepassing van dit artikel wordt onder tonnage verstaan tonnage zoals omschreven in Lloyd's Register of Shipping, Statistical Tables 1973, tabel 2 ,,World Fleets - Analysis by Principal Types”, ten aanzien van schepen voor het vervoer van ladingen stukgoederen (met inbegrip van schepen voor passagiers en vracht) en cellulaire containerschepen met uitsluiting van de reservevloot van de Verenigde Staten en de Vloten op de Grote Meren in de Verenigde Staten van Amerika en Canada.1)De tonnage-vereisten voor de toepassing van artikel 49, eerste lid, zijn vervat in het verslag van de Diplomatieke Conferentie der Verenigde Naties inzake een Gedragscode voor Lijnvaartconferences over het tweede deel van haar zitting (TD/CODE/10), bijlage I.
 
@@ -644,13 +666,13 @@ De administratieve diensten voor de Administrateur en zijn assistenten worden ve
 
 - b. beschouwd als Partij bij het ongewijzigde Verdrag met betrekking tot een Partij bij dit Verdrag die niet is gebonden door de wijziging.
 
-#### Artikel 50. Opzegging
+##### Artikel 50. Opzegging
 
 1. Dit Verdrag kan door een Verdragsluitende Partij te allen tijde worden opgezegd na het verstrijken van een tijdvak van twee jaar te rekenen van de datum waarop het Verdrag in werking is getreden.
 
 2. De opzegging wordt schriftelijk ter kennis gebracht van de depositaris en gaat in een jaar, of een langere periode zoals aangegeven in de akte van opzegging, na de datum van ontvangst door depositaris.
 
-#### Artikel 51. Wijzigingen
+##### Artikel 51. Wijzigingen
 
 1. Een Verdragsluitende Partij kan een of meer wijzigingen van dit Verdrag voorstellen door de wijzigingen mede te delen aan de depositaris. De depositaris zendt deze wijzigingen toe aan de Verdragsluitende Partijen ter aanvaarding, en aan Staten die gerechtigd zijn Partij bij dit Verdrag te worden en die geen Verdragsluitende Partij zijn, ter kennisneming.
 
@@ -658,7 +680,7 @@ De administratieve diensten voor de Administrateur en zijn assistenten worden ve
 
 3. Indien geen bezwaar ter kennis is gebracht, treedt de wijziging ten aanzien van alle Verdragsluitende Partijen in werking zes maanden na de datum van verstrijken van de periode van 12 maanden bedoeld in artikel 51, tweede lid.
 
-#### Artikel 52. Herzieningsconferenties
+##### Artikel 52. Herzieningsconferenties
 
 1. Vijf jaar na de datum waarop dit Verdrag in werking treedt, wordt door de depositaris een Herzieningsconferentie bijeengeroepen ten einde het functioneren van het Verdrag te bezien, in het bijzonder wat betreft de toepassing ervan, ten einde passende wijzigingen te overwegen en aan te nemen.
 
@@ -668,7 +690,7 @@ De administratieve diensten voor de Administrateur en zijn assistenten worden ve
 
 4. Niettegenstaande het bepaalde in artikel 52, eerste lid, wordt, indien dit Verdrag niet in werking is getreden binnen vijf jaar na de datum van de aanneming van de Slotakte van de Diplomatieke Conferentie der Verenigde Naties inzake een Gedragscode voor Lijnvaartconferences, op verzoek van een derde van de Staten die gerechtigd zijn Partij bij dit Verdrag te worden, een Herzieningsconferentie bijeengeroepen door de Secretaris-Generaal van de Verenigde Naties, behoudens goedkeuring van de Algemene Vergadering, ten einde de bepalingen van het Verdrag en de Bijlage daarbij te herzien en passende wijzigingen te overwegen en aan te nemen.
 
-#### Artikel 53. Taken van de depositaris
+##### Artikel 53. Taken van de depositaris
 
 1. De depositaris stelt de ondertekenende en toetredende Staten in kennis van:
 
@@ -688,11 +710,11 @@ De administratieve diensten voor de Administrateur en zijn assistenten worden ve
 
 2. De depositaris onderneemt tevens alle ingevolge artikel 52 noodzakelijke stappen.
 
-#### Artikel 54. Authentieke teksten-Nederlegging
+##### Artikel 54. Authentieke teksten-Nederlegging
 
 Het origineel van dit Verdrag, waarvan de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Regel 1
+##### Regel 1
 
 1. Een partij die ingevolge de Code een bemiddelingsprocedure aanhangig wenst te maken, richt schriftelijk een hiertoe strekkend verzoek, vergezeld van een uiteenzetting van eis, tot de andere partij, met een afschrift aan de Administrateur.
 
@@ -712,7 +734,7 @@ Het origineel van dit Verdrag, waarvan de Chinese, de Engelse, de Franse, de Rus
 
 3. De eis dient te zijn gedateerd en dient door de Partij te zijn ondertekend.
 
-#### Regel 2
+##### Regel 2
 
 1. Indien de verweerder besluit op de eis te antwoorden, zendt hij binnen 30 dagen na de datum waarop hij de eis heeft ontvangen, een antwoord naar de andere partij, met een afschrift aan de Administrateur.
 
@@ -730,7 +752,7 @@ Het origineel van dit Verdrag, waarvan de Chinese, de Engelse, de Franse, de Rus
 
 3. Het antwoord dient te zijn gedateerd en dient door de partij te zijn ondertekend.
 
-#### Regel 3
+##### Regel 3
 
 1. Een persoon of andere belanghebbende die ingevolge artikel 34 wenst deel te nemen aan de bemiddelingsprocedure dient een schriftelijk verzoek te zenden aan de partijen bij het geschil met een afschrift aan de Administrateur.
 
@@ -742,11 +764,11 @@ Het origineel van dit Verdrag, waarvan de Chinese, de Engelse, de Franse, de Rus
 
 5. Ingeval twee of meer procedures worden gevoegd, worden latere verzoeken tot deelneming door derden toegezonden aan alle betrokken partijen, die elk bezwaar kunnen maken overeenkomstig deze Regel.
 
-#### Regel 4
+##### Regel 4
 
 Bij overeenstemming tussen de partijen bij een geschil, kunnen de bemiddelaars, op verzoek van een der partijen, en na de partijen de gelegenheid te hebben geboden te worden gehoord, de voeging of scheiding bevelen van alle of enkele eisen die dan tussen dezelfde partijen hangende zijn.
 
-#### Regel 5
+##### Regel 5
 
 1. Een partij kan een bemiddelaar wraken wanneer er omstandigheden bestaan die gerechtvaardigde twijfel aan zijn onafhankelijkheid wekken.
 
@@ -756,11 +778,11 @@ Bij overeenstemming tussen de partijen bij een geschil, kunnen de bemiddelaars, 
 
 4. Op deze wijze onderbroken procedures worden voortgezet vanaf het punt waar zij werden onderbroken tenzij door de partijen wordt overeengekomen of door de bemiddelaars wordt bevolen dat een herziening of hernieuwd horen van mondelinge getuigenverklaringen dient plaats te vinden.
 
-#### Regel 6
+##### Regel 6
 
 De bemiddelaars beoordelen zelf hun eigen rechtsmacht en/of bevoegdheid binnen de bepalingen van de Code.
 
-#### Regel 7
+##### Regel 7
 
 1. De bemiddelaars ontvangen en bestuderen alle schriftelijke uiteenzettingen, documenten, beëdigde verklaringen, publikaties of ander bewijsmateriaal, met inbegrip van mondelinge getuigenverklaringen, die door of namens een der partijen aan hen worden voorgelegd en kennen daaraan het gewicht toe dat zulk bewijsmateriaal naar hun oordeel toekomt.
 
@@ -770,17 +792,17 @@ De bemiddelaars beoordelen zelf hun eigen rechtsmacht en/of bevoegdheid binnen d
 
 - c. De bemiddelaars kunnen de partijen vragen het bijkomend bewijsmateriaal over te leggen dat zij nodig achten voor het inzicht en de beslissing in het geschil, mits, indien zulk bijkomend bewijsmateriaal wordt overgelegd, de andere partijen bij de procedure een redelijke gelegenheid hebben om commentaar daarop te leveren.
 
-#### Regel 8
+##### Regel 8
 
 1. Wanneer in de Code of in deze Regels een in dagen uitgedrukte termijn voor het verrichten van enigerlei handeling is bepaald, wordt de dag met ingang waarvan de termijn aanvangt niet meegeteld en wordt de laatste dag van de termijn wel meegeteld, behalve wanneer die laatste dag een zaterdag, zondag of officiële feestdag op de plaats van bemiddeling is, in welk geval de laatste dag de volgende werkdag is.
 
 2. Wanneer de bepaalde termijn minder dan zeven dagen is, worden binnen de termijn vallende zaterdagen, zondagen en officiële feestdagen van de berekening uitgesloten.
 
-#### Regel 9
+##### Regel 9
 
 Behoudens de bepalingen betreffende procedurele termijnen in de Code, kunnen de bemiddelaars, op verzoek van een van de partijen of ingevolge overeenstemming tussen hen, een door de bemiddelaars bepaalde termijn verlengen.
 
-#### Regel 10
+##### Regel 10
 
 1. De bemiddelaars stellen de agenda en, tenzij anderszins overeengekomen, de datum en het uur van elke zitting vast.
 
@@ -788,7 +810,7 @@ Behoudens de bepalingen betreffende procedurele termijnen in de Code, kunnen de 
 
 3. De bemiddelaars vragen alle partijen uitdrukkelijk of deze nog ander bewijsmateriaal over te leggen hebben voordat zij de procedure gesloten verklaren en daarvan zal aantekening worden gemaakt.
 
-#### Regel 11
+##### Regel 11
 
 1. De aanbevelingen van de bemiddelaars dienen schriftelijk te zijn en te omvatten:
 
@@ -810,11 +832,11 @@ Behoudens de bepalingen betreffende procedurele termijnen in de Code, kunnen de 
 
 - i. een adres voor de toezending van de kennisgeving van aanvaarding of verwerping van de aanbeveling.
 
-#### Regel 12
+##### Regel 12
 
 Voor zover mogelijk omvat de aanbeveling een uitspraak omtrent de kosten overeenkomstig de bepalingen van de Code. Indien de aanbeveling geen volledige uitspraak omtrent de kosten omvat, doen de bemiddelaars zo spoedig mogelijk na de aanbeveling, en in elk geval niet later dan 60 dagen daarna, een schriftelijke uitspraak betreffende de kosten zoals bepaald in de Code.
 
-#### Regel 13
+##### Regel 13
 
 In de aanbevelingen van de bemiddelaars dient ook rekening te worden gehouden met voorgaande en soortgelijke gevallen wanneer zulks een meer eenvormige toepassing van de Code en de naleving van de aanbevelingen van de bemiddelaars zou vergemakkelijken.
 

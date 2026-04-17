@@ -1,14 +1,38 @@
 ---
-title: "Liquidatiewet Oorlogs- en Watersnoodschade I"
+title: "Wet van 14 juli 1960, houdende regelen met betrekking tot de afsluiting van een gedeelte van de uit de Wet op de Materiële Oorlogsschaden, de Wet Overheidsaansprakelijkheid Bezettingshandelingen en de Wet op de Watersnoodschade 1953 voortvloeiende werkzaamheden"
 identifier: "BWBR0002342"
-categorie: "Milieu"
-publicatiedatum: 1960-08-01
-laatste_update: 1960-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002342"
+country: "nl"
+rank: "wet"
+publication_date: "1960-08-01"
+last_updated: "1960-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002342"
+soort: "wet"
+stam_id: "1605863"
+version_id: "2375602"
+internal_id: "C2375601"
+label_id: "1560124"
+dtd_version: "2.0"
+original_entry_into_force: "1960-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002342/1960-08-01/0"
+intitule_bron: "Stb.1960-294"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1960-07-14"
+intitule_status: "goed"
+original_publication: "Stb.1960-294"
+original_signed_date: "1960-07-14"
+original_effect: "nieuwe-regeling"
+original_dossier: "5910"
+entry_into_force_date: "1960-08-01"
+entry_into_force_dossier: "5910"
+jci_1_3: "jci1.3:c:BWBR0002342&z=1960-08-01&g=1960-08-01"
+jci_1_0: "1.0:c:BWBR0002342&g=1960-08-01"
+citeertitel_status: "officieel"
+short_title: "Liquidatiewet Oorlogs- en Watersnoodschade I"
+signed_date: "1960-07-14"
+entry_into_force: "1960-08-01"
 ---
-
-# Liquidatiewet Oorlogs- en Watersnoodschade I
+# Wet van 14 juli 1960, houdende regelen met betrekking tot de afsluiting van een gedeelte van de uit de Wet op de Materiële Oorlogsschaden, de Wet Overheidsaansprakelijkheid Bezettingshandelingen en de Wet op de Watersnoodschade 1953 voortvloeiende werkzaamheden
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,11 +40,11 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is regelen te stelle
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 Deze wet verstaat onder "Onze Minister": Onze Minister van Financiën.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het Commissariaat voor Oorlogsschade, de schade-enquête-commissie te Rotterdam en het rampschadebureau te Rotterdam worden opgeheven met ingang van 1 augustus 1960. Tegelijkertijd eindigen de functies van Directeur van het bureau en van secretaris van dit Commissariaat, van secretaris van de schade-enquête-commissie te Rotterdam en van hoofd van het rampschadebureau te Rotterdam. Ten aanzien van de archieven van deze organen treft Onze Minister de nodige voorzieningen.
 
@@ -28,7 +52,7 @@ Deze wet verstaat onder "Onze Minister": Onze Minister van Financiën.
 
 3. Het in de eerste volzin van het vorige lid bepaalde geldt eveneens ten aanzien van taken, welke door de [Wet op de Watersnoodschade 1953](https://wetten.overheid.nl/jci1.3:c:BWBR0002128) aan de hoofden van de rampschadebureaus, dan wel krachtens die wet aan het Commissariaat voor Oorlogsschade en aan de Directeur van het bureau van dit Commissariaat zijn opgedragen, en ten aanzien van de krachtens die wet aan deze organen verleende bevoegdheden. Ten aanzien van nog openstaande beroepen tegen hun beschikkingen of beslissingen blijft artikel 44, tweede lid, van die wet buiten toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Tegen alle beschikkingen en beslissingen van Onze Minister, genomen uit hoofde van de door hem ingevolge [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002342&artikel=2&z=1960-08-01&g=1960-08-01), uitgeoefende bevoegdheden, kan iedere belanghebbende een met redenen omkleed bezwaarschrift bij Onze Minister indienen.
 
@@ -36,7 +60,7 @@ Deze wet verstaat onder "Onze Minister": Onze Minister van Financiën.
 
 3. De rechthebbende, die bezwaar heeft tegen een uitspraak ingevolge de eerste volzin van het vorige lid, kan daarvan in hoger beroep komen bij het Scheidsgerecht voor de Oorlogsschade, bedoeld in artikel 90 van de Wet op de Materiële Oorlogsschaden, uitsluitend op de gronden, in artikel 91, eerste lid, van die wet, onderscheidenlijk [artikel 45, eerste lid, van de Wet op de Watersnoodschade 1953](https://wetten.overheid.nl/jci1.3:c:BWBR0002128&artikel=45) genoemd. De [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002128&artikel=45), tweede tot en met vijfde lid, [46](https://wetten.overheid.nl/jci1.3:c:BWBR0002128&artikel=46) en [47 van de Wet op de Watersnoodschade 1953](https://wetten.overheid.nl/jci1.3:c:BWBR0002128&artikel=47) zijn met betrekking tot het in dit lid voorziene hoger beroep van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Na 31 juli 1960 ingediende verzoeken, strekkende tot het niet toerekenen aan de belanghebbende van de overschrijding van termijnen, gesteld
 
@@ -54,7 +78,7 @@ worden niet meer in behandeling genomen.
 
 2. Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Na 30 september 1960 worden niet meer verleend:
 
@@ -80,7 +104,7 @@ worden niet meer in behandeling genomen.
 
 4. Het Koninklijk Besluit van 18 juni 1946 (**Stb.** nr. G 152) vervalt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aanspraken tot uitbetaling van de in het eerste lid van het vorige artikel bedoelde bijdragen, tegemoetkomingen en schadeloosstellingen of rente daarover, aanvullende bijdragen en vergoedingen vervallen, ongeacht de vraag, of voor het geldend maken daarvan de vervulling van een bestedingsplicht vereist is, met ingang van 1 april 1961.
 
@@ -88,11 +112,11 @@ worden niet meer in behandeling genomen.
 
 3. Eveneens lijdt het eerste lid uitzondering in gevallen, waarin de rechthebbende vóór 1 januari 1961 per aangetekende brief aan Onze Minister, dan wel aan Onze Minister van Landbouw en Visserij, voor zoveel de zaak hem aangaat, te kennen heeft gegeven, dat aan zijn aanspraak op uitbetaling nog niet is voldaan, doch uitsluitend, indien alsnog van een tegoed blijkt en mits de bestedingsplicht, voor zoveel de uitbetaling daarvan afhankelijk is, vóór 1 april 1961 is vervuld.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze wet treedt in werking met ingang van 1 augustus 1960.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze wet kan worden aangehaald als "Liquidatiewet Oorlogs- en Watersnoodschade I".
 

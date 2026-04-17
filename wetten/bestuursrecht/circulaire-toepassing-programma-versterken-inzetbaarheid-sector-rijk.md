@@ -1,13 +1,38 @@
 ---
 title: "Circulaire toepassing programma versterken inzetbaarheid sector Rijk"
 identifier: "BWBR0041440"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-10-12
-laatste_update: 2018-09-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041440"
+country: "nl"
+rank: "circulaire"
+publication_date: "2018-10-12"
+last_updated: "2018-09-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041440"
+soort: "circulaire"
+stam_id: "14835303"
+version_id: "25361022"
+internal_id: "C36212971"
+label_id: "14787164"
+dtd_version: "2.0"
+original_entry_into_force: "2018-10-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041440/2018-10-12/0"
+intitule_bron: "Stcrt.2018-56948"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-10-03"
+intitule_published: "2018-10-11"
+intitule_in_force: "2018-10-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-56948"
+original_signed_date: "2018-10-03"
+original_published_date: "2018-10-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-56948"
+entry_into_force_date: "2018-10-12"
+jci_1_3: "jci1.3:c:BWBR0041440&z=2018-10-12&g=2018-10-12"
+jci_1_0: "1.0:c:BWBR0041440&g=2018-10-12"
+citeertitel_status: "redactioneel"
+signed_date: "2018-10-03"
+entry_into_force: "2018-10-12"
 ---
-
 # Circulaire toepassing programma versterken inzetbaarheid sector Rijk
 
 Op 13 juli jongstleden hebben de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de vakbonden FNV Overheid, Ambtenarencentrum, CNV Overheid en CMHF de Arbeidsvoorwaardenovereenkomst sector Rijk 2018–2020 gesloten. Eén van deze afspraken is het pilotprogramma versterken inzetbaarheid. Met deze circulaire informeer ik u over de inhoud van dit onderdeel van de arbeidsvoorwaardenovereenkomst met meer toelichting op het programma, op welke wijze organisaties dit programma kunnen inzetten, uitvoering en de opzet van de evaluatie. De volledige tekst over het programma versterken inzetbaarheid uit de arbeidsvoorwaardenovereenkomst is als bijlage bij deze circulaire gevoegd.

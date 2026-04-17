@@ -1,13 +1,39 @@
 ---
-title: "Regeling en beleidsregels fusietoets in het onderwijs 2017"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 11 juli 2017, nr. WJZ/1171880/7226, houdende regels en beleidsregels ten behoeve van de uitvoering van de fusietoets in het onderwijs (Regeling en beleidsregels fusietoets in het onderwijs 2017)"
 identifier: "BWBR0039819"
-categorie: "Onderwijs"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039819"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039819"
+soort: "ministeriele-regeling"
+stam_id: "14078103"
+version_id: "24242552"
+internal_id: "C34821811"
+label_id: "14039174"
+dtd_version: "2.0"
+original_entry_into_force: "2017-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039819/2022-08-01/0"
+intitule_bron: "Stcrt.2017-41402"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-07-11"
+intitule_published: "2017-07-21"
+intitule_in_force: "2017-07-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-41402"
+original_signed_date: "2017-07-11"
+original_published_date: "2017-07-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-41402"
+entry_into_force_date: "2017-08-01"
+jci_1_3: "jci1.3:c:BWBR0039819&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0039819&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling en beleidsregels fusietoets in het onderwijs 2017"
+signed_date: "2017-07-11"
+entry_into_force: "2017-08-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 11 juli 2017, nr. WJZ/1171880/7226, houdende regels en beleidsregels ten behoeve van de uitvoering van de fusietoets in het onderwijs (Regeling en beleidsregels fusietoets in het onderwijs 2017)
 
 handelende in overeenstemming met de Minister van Economische Zaken.
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Procedure aanvraag en noodzaak tot advisering
 
-#### Artikel 2. Aanvraag
+##### Artikel 2. Aanvraag
 
 1. Het modelformulier voor de aanvraag wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&bijlage=1&z=2022-08-01&g=2022-08-01). Voor de aanvraag kan tevens het digitale aanvraagformulier van de website van de Dienst Uitvoering Onderwijs worden gebruikt. Dit is te vinden op: https://www.duo.nl/zakelijk/formulieren/.
 
@@ -56,13 +82,13 @@ In deze regeling wordt verstaan onder:
 
 3. De aanvraag en daarbij behorende stukken, bedoeld in [artikel 64b, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64b), [artikel 66b, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66b), [artikel 3.31, eerste lid, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.31), [artikel 2.1.7, eerste lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.7) of [artikel 16.16a, tweede lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16a), worden ingediend bij de Dienst Uitvoering Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 3. Advisering
+##### Artikel 3. Advisering
 
 1. De noodzaak tot advisering ten aanzien van de goedkeuring, bedoeld in [artikel 64c, tweede lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64c), [artikel 3.30, vijfde lid, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.30) en [artikel 66c, tweede lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66c), en voor bestuursoverdrachten als bedoeld in [artikel 17 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=17), [artikel 3.16 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.16), of [artikel 28 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28), ontbreekt.
 
 2. Fusies waarbij zowel een school als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), als een instelling als bedoeld in [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), of een instelling voor hoger onderwijs als bedoeld in [artikel 1.1, onderdeel g, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), is betrokken, worden voor advies voorgelegd aan de commissie als bedoeld in [artikel 2.1.8, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.8) of als bedoeld in [artikel 16.16b, derde lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16b).
 
-#### Artikel 4. Noodzaak tot advisering
+##### Artikel 4. Noodzaak tot advisering
 
 Vervallen
 
@@ -70,7 +96,7 @@ Vervallen
 
 #### Paragraaf 1. Beroepsonderwijs en volwasseneneducatie
 
-#### Artikel 5. Toetscriteria
+##### Artikel 5. Toetscriteria
 
 Bij het advies, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=3&z=2022-08-01&g=2022-08-01), en in [artikel 2.1.8, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.8), onderzoekt de commissie of sprake is van een significante belemmering van de daadwerkelijke variatie in het onderwijsaanbod, bedoeld in artikel 2.1.8, eerste lid, van de WEB, waarbij de commissie in haar advies ten aanzien van de goedkeuring in ieder geval de volgende aspecten betrekt bij de afweging of er sprake is van een significante belemmering:
 
@@ -96,11 +122,11 @@ Bij het advies, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jc
 
 #### Paragraaf 2. Hoger onderwijs
 
-#### Artikel 6. Significante belemmering
+##### Artikel 6. Significante belemmering
 
 In het hoger onderwijs is in ieder geval sprake van een significante belemmering van de daadwerkelijke variatie van het onderwijsaanbod, bedoeld in [artikel 16.16b, eerste lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16b), indien de fusie leidt tot substantieel nadelige effecten voor het onderwijsaanbod op de korte termijn of indien dit voorzienbaar is op de langere termijn, zonder dat daarvoor een aannemelijke rechtvaardigingsgrond aanwezig is.
 
-#### Artikel 7. Rechtvaardigingsgronden
+##### Artikel 7. Rechtvaardigingsgronden
 
 Rechtvaardigingsgronden als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=3&paragraaf=2&artikel=6&z=2022-08-01&g=2022-08-01), kunnen in het hoger onderwijs in ieder geval zijn:
 
@@ -112,23 +138,23 @@ Rechtvaardigingsgronden als bedoeld in [artikel 6](https://wetten.overheid.nl/jc
 
 ### Hoofdstuk 4. Overige bepalingen
 
-#### Artikel 8. Overgangsrecht
+##### Artikel 8. Overgangsrecht
 
 Aanvragen die voor 1 augustus 2018 in behandeling zijn genomen door de adviescommissie, bedoeld in de [artikelen 64c, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64c), [66c, derde lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66c) en [artikel 3.30, vijfde lid, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.30), worden afgedaan overeenkomstig de Regeling en beleidsregels fusietoets in het onderwijs 2017, zoals deze luidde op 31 juli 2018.
 
-#### Artikel 9
+##### Artikel 9
 
 De [Regeling en beleidsregels fusietoets in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0030294) wordt ingetrokken.
 
-#### Artikel 10. Omhang
+##### Artikel 10. Omhang
 
 Deze regeling is mede gebaseerd op de [artikelen 3.30, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.30), en [3.31, vierde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.30), [2.1.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.7), en [2.1.8, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.8) en [4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=4.1.1) en [4.1.2 van het Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=4.1.2).
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 augustus 2017. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 juli 2017, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 augustus 2017.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling en beleidsregels fusietoets in het onderwijs 2017.
 
@@ -254,7 +280,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7a. Ingangsdatum fusie
+##### Artikel 7a. Ingangsdatum fusie
 
 Indien er sprake is van samenloop met een vorming, wijziging of beëindiging van een verticale scholengemeenschap als bedoeld in [paragraaf 3 van de Regeling verticale scholengemeenschap](onbekend), vinden de fusie en de vorming, wijziging of beëindiging van de verticale scholengemeenschap gelijktijdig plaats op 1 augustus van enig kalenderjaar.
 

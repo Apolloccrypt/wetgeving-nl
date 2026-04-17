@@ -1,13 +1,38 @@
 ---
 title: "Internationale Overeenkomst inzake de vereenvoudiging en harmonisatie van douaneprocedures"
 identifier: "BWBV0001015"
-categorie: "Internationaal recht"
-publicatiedatum: 2006-02-03
-laatste_update: 1973-05-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001015"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-02-03"
+last_updated: "1973-05-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001015"
+soort: "verdrag"
+stam_id: "10002330963"
+version_id: "10002342722"
+internal_id: "C10008354961"
+label_id: "10002322604"
+dtd_version: "2.0"
+original_entry_into_force: "2006-02-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001015/2006-02-03/0"
+intitule_bron: "Trb.2001-162"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1977-06-08"
+intitule_published: "2001-10-01"
+intitule_in_force: "2006-04-04"
+intitule_status: "goed"
+original_publication: "Trb.2001-162"
+original_signed_date: "1977-06-08"
+original_published_date: "2001-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2001-162"
+entry_into_force_date: "2006-02-03"
+jci_1_3: "jci1.3:c:BWBV0001015&z=2006-02-03&g=2006-02-03"
+jci_1_0: "1.0:c:BWBV0001015&g=2006-02-03"
+citeertitel_status: "redactioneel"
+signed_date: "1977-06-08"
+entry_into_force: "2006-02-03"
 ---
-
 # Internationale Overeenkomst inzake de vereenvoudiging en harmonisatie van douaneprocedures
 
 **Preambule**
@@ -44,7 +69,7 @@ De Franse tekst, de Engelse tekst en de vertaling van de Overeenkomst, met Bijla
 
 ### HOOFDSTUK I. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze Overeenkomst wordt verstaan onder:
 
@@ -72,17 +97,17 @@ In deze Overeenkomst wordt verstaan onder:
 
 #### Toepassingsgebied van de Overeenkomst
 
-#### Artikel 2
+##### Artikel 2
 
 Elke Overeenkomstsluitende Partij verbindt zich ertoe de vereenvoudiging en de harmonisatie van de douaneprocedures te bevorderen en, te dien einde, zich overeenkomstig de bepalingen van deze Overeenkomst te conformeren aan de normen, overgangsnormen en aanbevelingen in de bijlagen bij deze Overeenkomst. Geen enkele bepaling van deze Overeenkomst vormt voor een Overeenkomstsluitende Partij evenwel een beletsel verdergaande vereenvoudigingen toe te passen dan die waarin deze Overeenkomst voorziet en elke Overeenkomstsluitende Partij wordt aanbevolen dergelijke verdergaande vereenvoudigingen in zoverre mogelijk in te voeren.
 
-#### Artikel 3
+##### Artikel 3
 
 De bepalingen van deze Overeenkomst laten onverlet de toepassing van nationale wetgeving ten aanzien van verboden of beperkingen die van toepassing zijn op goederen die aan douanecontrole zijn onderworpen.
 
 #### Structuur van de Overeenkomst
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Overeenkomst omvat een dispositief, een algemene bijlage en specifieke bijlagen.
 
@@ -96,7 +121,7 @@ De bepalingen van deze Overeenkomst laten onverlet de toepassing van nationale w
 
 4. Elke bijlage gaat vergezeld van richtlijnen waarvan de tekst niet bindend is voor de Overeenkomstsluitende Partijen.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor de toepassing van deze Overeenkomst worden alle specifieke bijlagen of hoofdstukken daarvan die een Overeenkomstsluitende Partij binden, geacht integrerend deel uit te maken van de Overeenkomst. Voor deze Overeenkomstsluitende Partij wordt elke verwijzing naar de Overeenkomst geacht een verwijzing naar dergelijke bijlagen of hoofdstukken te omvatten.
 
@@ -104,7 +129,7 @@ Voor de toepassing van deze Overeenkomst worden alle specifieke bijlagen of hoof
 
 #### Comité van beheer
 
-#### Artikel 6
+##### Artikel 6
 
 1. Er wordt een Comité van beheer ingesteld dat toezicht houdt op de tenuitvoerlegging van deze Overeenkomst en dat alle maatregelen om de uniforme interpretatie en toepassing daarvan te waarborgen en alle voorgestelde wijzigingen daarvan onderzoekt.
 
@@ -146,7 +171,7 @@ Voor de toepassing van deze Overeenkomst worden alle specifieke bijlagen of hoof
 
 11. Behoudens specifieke bepalingen in dit artikel, is het reglement van orde van de Raad van toepassing, tenzij het Comité van beheer anders beslist.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij stemming in het Comité van beheer wordt over elke specifieke bijlage en elk hoofdstuk van een specifieke bijlage afzonderlijk gestemd.
 
@@ -160,7 +185,7 @@ Bij stemming in het Comité van beheer wordt over elke specifieke bijlage en elk
 
 #### Ratificatie van de Overeenkomst
 
-#### Artikel 8
+##### Artikel 8
 
 1. Elk lid van de Raad en elk lid van de Verenigde Naties of de gespecialiseerde organisaties daarvan kan partij worden bij deze Overeenkomst door:
 
@@ -180,7 +205,7 @@ Bij stemming in het Comité van beheer wordt over elke specifieke bijlage en elk
 
 - b. Een douane-unie of economische unie die Partij is bij deze Overeenkomst oefent voor aangelegenheden die onder haar bevoegdheid vallen in eigen naam de rechten uit en vervult de taken die uit de Overeenkomst voortvloeien voor de leden van een dergelijke unie die Partij zijn bij deze Overeenkomst. In dergelijk geval zijn de leden van een dergelijke Unie niet gemachtigd deze rechten, met inbegrip van het stemrecht, individueel uit te oefenen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Elke Overeenkomstsluitende Partij die deze Overeenkomst ratificeert of tot deze Overeenkomst toetreedt, is gebonden door alle wijzigingen van deze Overeenkomst, met inbegrip van de algemene bijlage, die van kracht waren op de datum waarop zij haar akte van ratificatie of toetreding heeft neergelegd.
 
@@ -188,19 +213,19 @@ Bij stemming in het Comité van beheer wordt over elke specifieke bijlage en elk
 
 #### Toepassing van de Overeenkomst
 
-#### Artikel 10
+##### Artikel 10
 
 1. Elke Overeenkomstsluitende Partij kan bij de ondertekening van deze Overeenkomst zonder voorbehoud van ratificatie of bij de neerlegging van haar akte van ratificatie of toetreding dan wel op enig later tijdstip, door middel van een kennisgeving aan de depositaris verklaren dat het toepassingsgebied van deze Overeenkomst zich uitstrekt tot alle gebieden waarvan de internationale betrekkingen tot haar bevoegdheid behoren. Deze kennisgeving wordt van kracht drie maanden na de datum waarop zij door de depositaris is ontvangen. Deze Overeenkomst is echter niet op de in de kennisgeving genoemde gebieden van toepassing voor de datum waarop deze Overeenkomst voor de betrokken Overeenkomstsluitende Partij in werking treedt.
 
 2. Een Overeenkomstsluitende Partij die overeenkomstig het bepaalde in lid 1 van dit artikel een kennisgeving heeft gedaan waarbij het toepassingsgebied van deze Overeenkomst wordt uitgebreid tot een gebied waarvan de internationale betrekkingen tot haar bevoegdheid behoren, kan de depositaris volgens de procedure van artikel 19 van deze Overeenkomst mededelen dat het betrokken gebied deze Overeenkomst niet langer toepast.
 
-#### Artikel 11
+##### Artikel 11
 
 Voor de toepassing van deze Overeenkomst deelt een douane-unie of economische unie die Partij is bij deze Overeenkomst de Secretaris-generaal van de Raad mede welke gebieden deel uitmaken van de douane-unie of de economische unie. Deze gebieden dienen als één enkel gebied te worden beschouwd.
 
 #### Aanvaarding van de bepalingen en voorbehouden
 
-#### Artikel 12
+##### Artikel 12
 
 1. Alle Overeenkomstsluitende Partijen zijn gebonden door de algemene bijlage.
 
@@ -210,7 +235,7 @@ Voor de toepassing van deze Overeenkomst deelt een douane-unie of economische un
 
 #### Implementatie van de bepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 1. Elke Overeenkomstsluitende Partij implementeert de normen in de algemene bijlage en de specifieke bijlage(n) of hoofdstuk(ken) daarvan die zij heeft aanvaard binnen 36 maanden na de datum waarop deze bijlage(n) of één of meer hoofdstukken daarvan voor de betrokken Overeenkomstsluitende Partij in werking zijn getreden.
 
@@ -224,7 +249,7 @@ Voor de toepassing van deze Overeenkomst deelt een douane-unie of economische un
 
 #### Geschillenbeslechting
 
-#### Artikel 14
+##### Artikel 14
 
 1. Alle geschillen tussen twee of meer Overeenkomstsluitende Partijen in verband met de interpretatie of de toepassing van deze Overeenkomst worden in zoverre mogelijk onderling geregeld.
 
@@ -234,7 +259,7 @@ Voor de toepassing van deze Overeenkomst deelt een douane-unie of economische un
 
 #### Wijziging van de Overeenkomst
 
-#### Artikel 15
+##### Artikel 15
 
 1. De tekst van elke wijziging die de Overeenkomstsluitende Partijen door het Comité van beheer wordt aanbevolen overeenkomstig artikel 6, lid 5, onder a, i en ii, wordt door de Secretaris-generaal van de Raad ter kennis gebracht van alle Overeenkomstsluitende Partijen en van de leden van de Raad die geen Overeenkomstsluitende Partij zijn.
 
@@ -260,7 +285,7 @@ Voor de toepassing van deze Overeenkomst deelt een douane-unie of economische un
 
 8. De Secretaris-generaal van de Raad stelt de Overeenkomstsluitende Partijen zo spoedig mogelijk in kennis van elk bezwaar dat overeenkomstig lid 3, onder a), tegen de aanbevolen wijziging is aangetekend en van elke overeenkomstig lid 3, onder b), van dit artikel ontvangen kennisgeving. De Secretaris-generaal van de Raad deelt de Overeenkomstsluitende Partijen vervolgens mede of de Overeenkomstsluitende Partij of Partijen die een dergelijke kennisgeving hebben gedaan, bezwaar aantekenen tegen de aanbevolen wijziging of deze aanvaarden.
 
-#### Artikel 16
+##### Artikel 16
 
 1. In afwijking van de in artikel 15 van deze Overeenkomst vastgestelde wijzigingsprocedure kan het Comité van beheer overeenkomstig artikel 6 besluiten een aanbeveling te wijzigen of in een specifieke bijlage of hoofdstuk daarvan nieuwe aanbevelingen op te nemen. Elke Overeenkomstsluitende Partij wordt door de Secretaris-generaal van de Raad uitgenodigd aan de besprekingen in het Comité van beheer deel te nemen. De tekst van een dergelijke wijziging of nieuwe aanbeveling waarover aldus is beslist, wordt door de Secretaris-generaal van de Raad ter kennis gebracht van de Overeenkomstsluitende Partijen en van de leden van de Raad die geen Partij zijn bij deze Overeenkomst.
 
@@ -268,7 +293,7 @@ Voor de toepassing van deze Overeenkomst deelt een douane-unie of economische un
 
 #### Duur van de toetreding
 
-#### Artikel 17
+##### Artikel 17
 
 1. Deze Overeenkomst wordt voor onbepaalde tijd gesloten. Een Overeenkomstsluitende Partij kan deze Overeenkomst na de datum van inwerkingtreding evenwel te allen tijde opzeggen overeenkomstig het bepaalde in artikel 18.
 
@@ -284,7 +309,7 @@ Voor de toepassing van deze Overeenkomst deelt een douane-unie of economische un
 
 #### Inwerkingtreding van de Overeenkomst
 
-#### Artikel 18
+##### Artikel 18
 
 1. Deze Overeenkomst treedt in werking drie maanden na de datum waarop vijf van de in artikel 8, lid 1 en lid 5, bedoelde entiteiten de Overeenkomst zonder voorbehoud van ratificatie hebben ondertekend of hun akten van ratificatie of toetreding hebben neergelegd.
 
@@ -296,7 +321,7 @@ Voor de toepassing van deze Overeenkomst deelt een douane-unie of economische un
 
 #### Depositaris van de Overeenkomst
 
-#### Artikel 19
+##### Artikel 19
 
 1. Deze Overeenkomst, alle ondertekeningen met of zonder voorbehoud van ratificatie en alle akten van ratificatie of toetreding worden bij de Secretaris-generaal van de Raad neergelegd.
 
@@ -316,7 +341,7 @@ Voor de toepassing van deze Overeenkomst deelt een douane-unie of economische un
 
 #### Registratie en authentieke teksten
 
-#### Artikel 20
+##### Artikel 20
 
 Overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) wordt deze Overeenkomst op verzoek van de Secretaris-generaal van de Raad bij het Secretariaat van de Verenigde Naties geregistreerd.
 

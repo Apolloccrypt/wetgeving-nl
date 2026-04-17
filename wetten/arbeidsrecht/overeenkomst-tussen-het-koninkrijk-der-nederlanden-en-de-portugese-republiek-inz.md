@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Portugese Republiek inzake migratie, aanwerving en tewerkstelling van Portugese arbeiders in Nederland"
 identifier: "BWBV0004200"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1963-11-22
-laatste_update: 1963-11-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004200"
+country: "nl"
+rank: "verdrag"
+publication_date: "1963-11-22"
+last_updated: "1963-11-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004200"
+soort: "verdrag"
+stam_id: "10003999673"
+version_id: "10004160162"
+internal_id: "C10008364871"
+label_id: "10003984764"
+dtd_version: "2.0"
+original_entry_into_force: "1963-11-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004200/1963-11-22/0"
+intitule_bron: "Trb.1964-16"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1964-02-05"
+intitule_in_force: "1964-02-05"
+intitule_status: "goed"
+original_publication: "Trb.1964-16"
+original_published_date: "1964-02-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1964-16"
+entry_into_force_date: "1963-11-22"
+jci_1_3: "jci1.3:c:BWBV0004200&z=1963-11-22&g=1963-11-22"
+jci_1_0: "1.0:c:BWBV0004200&g=1963-11-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "1963-11-22"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Portugese Republiek inzake migratie, aanwerving en tewerkstelling van Portugese arbeiders in Nederland
 
 De Regering van het Koninkrijk der Nederlanden en
@@ -22,7 +44,7 @@ zijn de volgende bepalingen overeengekomen:
 
 ## Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Terzake van de migratie, de aanwerving en de tewerkstelling van Portugese arbeiders in Nederland zijn bevoegd:
 
@@ -30,13 +52,13 @@ Aan Portugese zijde, de Junta da Emigraçao (in het vervolg te noemen „Junta�
 
 Aan Nederlandse zijde, de Directie voor de Arbeidsvoorziening van het Ministerie van Sociale Zaken en Volksgezondheid (in het vervolg te noemen „Directie”).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Opdat de bevoegde Portugese autoriteiten tijdig de nodige voorzieningen kunnen treffen en aan de aanvragen voldoen, zal de Directie aan de Junta ten minste eens in de zes maanden inlichtingen verstrekken over de geraamde behoeften van het Nederlandse bedrijfsleven aan Portugese arbeiders, onderverdeeld naar takken der economische bedrijvigheid, naar bedrijfsklassen en naar beroepen.
 
 2. De Junta zal in antwoord daarop op zo kort mogelijke termijn aan de Directie mededelen in hoeverre het beschikbare aanbod van arbeidskrachten aan de vraag kan voldoen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Directie zal aan de Junta alle inlichtingen verschaffen betreffende de algemene loon- en arbeidsvoorwaarden en de levensomstandigheden, die voor eerdergenoemde arbeiders van belang kunnen zijn.
 
@@ -46,7 +68,7 @@ Aan Nederlandse zijde, de Directie voor de Arbeidsvoorziening van het Ministerie
 
 ## Aanwerving en tewerkstelling
 
-#### Artikel 4
+##### Artikel 4
 
 1. Rekening houdende met de opgaven vermeld in artikel 2, zendt de Directie aan de Junta de aanbiedingen van werk der Nederlandse werkgevers.
 
@@ -54,7 +76,7 @@ Aan Nederlandse zijde, de Directie voor de Arbeidsvoorziening van het Ministerie
 
 3. Indien een aanbieding van werk gunstig wordt beoordeeld, zal de Junta deze spoedig bekend maken, evenals de gegevens en inlichtingen die voor de eventuele kandidaten van belang zijn.
 
-#### Artikel 5
+##### Artikel 5
 
 De leeftijdsgrenzen waarbinnen de Portugese arbeiders werk in Nederland kunnen verkrijgen, zijn vastgesteld als volgt:
 
@@ -64,7 +86,7 @@ De leeftijdsgrenzen waarbinnen de Portugese arbeiders werk in Nederland kunnen v
 
 Deze leeftijdsgrenzen kunnen in bijzondere gevallen met wederzijdse instemming van de Junta en de Directie worden gewijzigd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Junta en de Directie zullen de door de Junta voorgestelde kandidaten aan een onderzoek omtrent hun gezondheidstoestand en hun vakbekwaamheid onderwerpen, alsmede nagaan of zij aan de door de Directie gestelde bijzondere voorwaarden voldoen.
 
@@ -74,19 +96,19 @@ Deze leeftijdsgrenzen kunnen in bijzondere gevallen met wederzijdse instemming v
 
 4. De lijst van de geschikt bevonden kandidaten zal in gezamenlijk overleg tussen de Junta en de Directie worden opgemaakt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Directie zal een delegatie naar Portugal zenden die belast is in samenwerking met de Junta kandidaten te selecteren.
 
 2. Opdat genoemde delegatie medische en vakbekwaamheidsonderzoeken snel en doeltreffend kan verrichten, zal de Junta in de, in onderling overleg vast te stellen selectie-plaatsen, lokaliteiten en andere voor de uitoefening van haar werkzaamheden nodige middelen ter beschikking van de delegatie stellen.
 
-#### Artikel 8
+##### Artikel 8
 
 De Directie zal voor iedere arbeider, die definitief voor tewerkstelling in aanmerking komt, aan de Junta een in de Nederlandse en Portugese taal gestelde arbeidsovereenkomst voor de duur van één jaar in drievoud verstrekken.
 
 Deze, volgens een in onderling overleg tussen de Directie en de Junta vastgesteld model opgemaakte arbeidsovereenkomst, zal door de werkgever ondertekend en door de Directie voor gezien worden getekend; de arbeider zal deze vóór zijn vertrek uit Portugal ondertekenen en de Junta zal tekenen voor gezien.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Na ontvangst van de in het voorgaande artikel bedoelde arbeidsovereenkomst zal de Junta er voor zorgdragen, dat de arbeider in het bezit wordt gesteld van een paspoort.
 
@@ -94,7 +116,7 @@ Deze, volgens een in onderling overleg tussen de Directie en de Junta vastgestel
 
 3. Het consulaire visum in het paspoort is kosteloos.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Junta zal er voor zorgdragen, dat de aangeworven arbeiders aanwezig zijn op de met de Directie overeengekomen data en plaatsen van vertrek naar Nederland.
 
@@ -104,15 +126,15 @@ Deze, volgens een in onderling overleg tussen de Directie en de Junta vastgestel
 
 4. Alle in dit artikel voorziene onkosten komen ten laste van de werkgevers die zich tot terugbetaling aan de Directie moeten verbinden.
 
-#### Artikel 11
+##### Artikel 11
 
 De Nederlandse werkgevers kunnen bij de Nederlandse Arbeidsbureaus het oordeel van de Directie of van de delegatie inzake de arbeidsgeschiktheid slechts weigeren te aanvaarden in de gevallen waarin de ongeschiktheid van de arbeider bij de uitoefening van zijn arbeid onmiskenbaar blijkt. In die gevallen zullen de Nederlandse Arbeidsbureaus zich beijveren aan de betrokkenen een met hun vakbekwaamheid overeenkomende betrekking aan te bieden.
 
-#### Artikel 12
+##### Artikel 12
 
 Op naam gestelde aanbiedingen van werk op grond van persoonlijke betrekkingen kunnen slechts in overleg tussen de Directie en de Junta in aanmerking worden genomen. In dat geval kan de procedure van selectie en aanwerving worden vereenvoudigd.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De kosten van medische keuringen en de reiskosten van de arbeiders tussen hun woonplaats en de plaats waar de keuringen worden verricht, alsmede de kosten voor voeding en onderdak gedurende hun verblijf aldaar zullen voor rekening van Portugal komen.
 
@@ -122,7 +144,7 @@ Op naam gestelde aanbiedingen van werk op grond van persoonlijke betrekkingen ku
 
 ## Algemene Arbeidsvoorwaarden
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Portugese arbeiders worden in Nederland tewerkgesteld onder dezelfde loon- en arbeidsvoorwaarden welke voor de Nederlandse arbeiders gelden en wel volgens wettelijke bepalingen, collectieve arbeidsovereenkomsten, beroepsgebruiken en plaatselijke gewoonten.
 
@@ -136,17 +158,17 @@ Op naam gestelde aanbiedingen van werk op grond van persoonlijke betrekkingen ku
 
 6. De Portugese consuls kunnen in geschillen als bedoeld in het vorige lid de Portugese arbeiders bijstaan, met inachtneming van de grenzen gesteld door de Nederlandse wetgeving.
 
-#### Artikel 15
+##### Artikel 15
 
 De Portugese arbeiders kunnen het totale bedrag van hun spaargelden naar Portugal overmaken, in overeenstemming met de in Nederland geldende regelingen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De Nederlandse Arbeidsbureaus en de Nederlandse werkgevers zullen aan de Portugese arbeiders alle noodzakelijke hulp verschaffen om hen vertrouwd te maken met de nieuwe omgeving waarin zij zich bevinden, vooral in de beginperiode van hun verblijf.
 
 2. De bevoegde autoriteiten van beide Overeenkomstsluitende Partijen zullen met welwillendheid alle initiatieven in beschouwing nemen van maatschappelijke en godsdienstige organisaties, zowel Nederlandse als Portugese, die ten doel hebben de aanpassing van de Portugese arbeiders te vergemakkelijken. Eveneens zal de samenwerking tussen de genoemde Portugese en Nederlandse organisaties worden vergemakkelijkt.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Bij het beëindigen van de arbeidsovereenkomst zal de arbeider terugkeren naar Portugal, tenzij zijn arbeidsovereenkomst vernieuwd wordt of tenzij hij met machtiging van de Nederlandse autoriteiten een andere betrekking aanvaardt.
 
@@ -156,15 +178,15 @@ De Portugese arbeiders kunnen het totale bedrag van hun spaargelden naar Portuga
 
 ## Slotbepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 De bevoegde Nederlandse autoriteiten zullen, om redenen van openbare orde, openbare veiligheid of volksgezondheid, arbeiders binnen het raam van deze Overeenkomst aangeworven, naar Portugal kunnen repatriëren.
 
-#### Artikel 19
+##### Artikel 19
 
 De bevoegde Nederlandse autoriteiten zullen trachten de noodzakelijke maatregelen te treffen om alle in deze Overeenkomst niet voorziene migratie-vormen te voorkomen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Op verzoek van een der beide Overeenkomstsluitende Partijen kan een Gemengde Commissie worden ingesteld, bestaande ten hoogste uit drie vertegenwoordigers van iedere Partij. Iedere afvaardiging kan door deskundigen worden bijgestaan.
 
@@ -172,11 +194,11 @@ De bevoegde Nederlandse autoriteiten zullen trachten de noodzakelijke maatregele
 
 3. De Gemengde Commissie stelt zelf haar interne organisatie en haar werkwijze vast. Haar vergaderingen zullen afwisselend in Portugal en in Nederland plaats vinden.
 
-#### Artikel 21
+##### Artikel 21
 
 Wat het Koninkrijk der Nederlanden betreft, zal deze Overeenkomst alleen van toepassing zijn op het in Europa gelegen gebied van het Koninkrijk.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Deze Overeenkomst treedt in werking op de dag van ondertekening.
 
@@ -184,11 +206,11 @@ Wat het Koninkrijk der Nederlanden betreft, zal deze Overeenkomst alleen van toe
 
 De Gevolmachtigden van het Koninkrijk der Nederlanden en van de Portugese Republiek zijn, ter gelegenheid van de ondertekening van de Overeenkomst inzake de migratie, de aanwerving, en de tewerkstelling van Portugese arbeiders in Nederland, het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De beide Overeenkomstsluitende Partijen hebben de wens op korte termijn hun betrekkingen op het terrein van de sociale verzekeringen door de sluiting van een algemeen verdrag inzake de sociale zekerheid te regelen.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit Protocol zal in werking treden tegelijk met de Overeenkomst inzake de migratie, de aanwerving, en de tewerkstelling van Portugese arbeiders in Nederland.
 

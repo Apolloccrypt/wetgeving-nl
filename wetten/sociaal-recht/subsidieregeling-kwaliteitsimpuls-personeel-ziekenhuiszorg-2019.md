@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling kwaliteitsimpuls personeel ziekenhuiszorg 2019"
+title: "Regeling van de Minister voor Medische Zorg van 26 november 2018, kenmerk 1451474-184520-MEVA, houdende regels voor subsidiëring van opleidingsactiviteiten in de ziekenhuiszorg (Subsidieregeling kwaliteitsimpuls personeel ziekenhuiszorg 2019)"
 identifier: "BWBR0041610"
-categorie: "Sociaal recht"
-publicatiedatum: 2019-10-01
-laatste_update: 2019-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041610"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-10-01"
+last_updated: "2019-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041610"
+soort: "ministeriele-regeling"
+stam_id: "14889043"
+version_id: "25464892"
+internal_id: "C36339531"
+label_id: "14840454"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041610/2019-10-01/0"
+intitule_bron: "Stcrt.2018-67824"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-11-26"
+intitule_published: "2018-12-03"
+intitule_in_force: "2018-12-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-67824"
+original_signed_date: "2018-11-26"
+original_published_date: "2018-12-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-67824"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041610&z=2019-10-01&g=2019-10-01"
+jci_1_0: "1.0:c:BWBR0041610&g=2019-10-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling kwaliteitsimpuls personeel ziekenhuiszorg 2019"
+signed_date: "2018-11-26"
+entry_into_force: "2019-01-01"
 ---
-
 # Regeling van de Minister voor Medische Zorg van 26 november 2018, kenmerk 1451474-184520-MEVA, houdende regels voor subsidiëring van opleidingsactiviteiten in de ziekenhuiszorg (Subsidieregeling kwaliteitsimpuls personeel ziekenhuiszorg 2019)
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -86,11 +112,11 @@ In deze regeling wordt verstaan onder:
 
 - 3°. Opbrengsten [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-#### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Op deze regeling zijn de definities van het activiteitenverslag, het financieel verslag, de verklaring inzake werkelijke kosten en opbrengsten, instelling en minister als bedoeld in [artikel 1.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.1) niet van toepassing. [Artikel 10.1 van deze Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1) is evenmin van toepassing.
 
-#### Artikel 3. Doel van de regeling
+##### Artikel 3. Doel van de regeling
 
 1. De minister kan aan een instelling een subsidie verstrekken voor 2019 ten behoeve van een organisatorisch verband met een toelating als bedoeld in [artikel 5 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5) voor het verlenen van zorg waarop aanspraak bestaat ingevolge een zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
 
@@ -98,7 +124,7 @@ Op deze regeling zijn de definities van het activiteitenverslag, het financieel 
 
 3. Geen subsidie wordt verstrekt voor onderwijs waarvoor onderwijsinstellingen reeds financiering ontvangen krachtens de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) of op grond van de [Wet Educatie en Beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
-#### Artikel 4. Subsidiabele activiteiten
+##### Artikel 4. Subsidiabele activiteiten
 
 1. De subsidie wordt uitsluitend verstrekt ten behoeve van opleidingsactiviteiten die passen binnen het strategisch opleidingsplan.
 
@@ -114,7 +140,7 @@ Op deze regeling zijn de definities van het activiteitenverslag, het financieel 
 
 - e. andere opleidingen waarvoor de instelling een subsidie of een andere financiële bijdrage van de overheid ontvangt of kan ontvangen.
 
-#### Artikel 5. Subsidiabele kosten
+##### Artikel 5. Subsidiabele kosten
 
 1. De kosten gemoeid met de activiteiten als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=4&z=2019-10-01&g=2019-10-01), komen in aanmerking voor subsidie indien het een van de volgende kostencategorieën betreft:
 
@@ -130,7 +156,7 @@ Op deze regeling zijn de definities van het activiteitenverslag, het financieel 
 
 3. De activiteiten zoals bedoeld in het eerste lid zijn subsidiabel voor zover zij worden verricht tussen 1 januari 2019 tot en met 31 december 2019.
 
-#### Artikel 6. Aanvraag tot verlening
+##### Artikel 6. Aanvraag tot verlening
 
 1. In afwijking van [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat de aanvraag vergezeld van:
 
@@ -158,13 +184,13 @@ Op deze regeling zijn de definities van het activiteitenverslag, het financieel 
 
 10. Alleen wanneer instemming als bedoeld in het eerste lid, onder c, wegens zwaar moverende redenen niet mogelijk is, kan de minister besluiten dat kan worden volstaan met een jaarplan dat met een werknemersvertegenwoordiging is afgestemd.
 
-#### Artikel 7. Subsidieplafond
+##### Artikel 7. Subsidieplafond
 
 1. Het subsidieplafond bedraagt voor het subsidiejaar 2019 voor de ziekenhuizen en de klinieken € 165.406.000.
 
 2. Het subsidieplafond bedraagt voor het subsidiejaar 2019 voor de universitair medische centra € 40.468.000.
 
-#### Artikel 8. Verdeling in geval van overtekening ziekenhuizen en klinieken
+##### Artikel 8. Verdeling in geval van overtekening ziekenhuizen en klinieken
 
 1. In geval van overtekening van het subsidieplafond wordt het uit hoofde van het subsidieplafond beschikbare bedrag voor de ziekenhuizen en de klinieken verdeeld en krijgt het organisatorisch verband in eerste instantie het aangevraagde bedrag toegewezen tot het maximum van de formule (A / B) * C = D, waarbij wordt verstaan onder:
 
@@ -192,7 +218,7 @@ Op deze regeling zijn de definities van het activiteitenverslag, het financieel 
 
 5. De minister kan afwijken van de Zvw-omzet, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=1&z=2019-10-01&g=2019-10-01), voor zover toepassing zal leiden tot een onbillijkheid van overwegende aard, door voor de bedrijfsopbrengsten van het organisatorisch verband uit te gaan van het tweede jaar voorafgaand aan het subsidiejaar.
 
-#### Artikel 9. Verdeling in geval van overtekening universitair medische centra
+##### Artikel 9. Verdeling in geval van overtekening universitair medische centra
 
 1. Het uit hoofde van het subsidieplafond beschikbare bedrag voor de universitair medische centra wordt op dezelfde wijze verdeeld als bedoeld in [artikel 8, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=8&z=2019-10-01&g=2019-10-01).
 
@@ -208,29 +234,29 @@ Op deze regeling zijn de definities van het activiteitenverslag, het financieel 
 
 **E:** de som van de personeelskosten van alle organisatorische verbanden die vallen onder de instellingen waarvan het aangevraagde bedrag hoger is dan de uitkomst van de formule zoals vermeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=8&z=2019-10-01&g=2019-10-01).
 
-#### Artikel 10. Verantwoording
+##### Artikel 10. Verantwoording
 
 De minister kan afwijken van de definitie van activiteitenverslag, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041610&artikel=1&z=2019-10-01&g=2019-10-01), en besluiten dat ter verantwoording kan worden volstaan met een activiteitenverslag dat met een werknemersvertegenwoordiging is afgestemd indien instemming met het activiteitenverslag wegens zwaar moverende redenen niet mogelijk is.
 
-#### Artikel 11. Meldingsplicht
+##### Artikel 11. Meldingsplicht
 
 1. De subsidieontvanger meldt schriftelijk aan de minister indien aannemelijk is geworden dat meer dan 15% van het aangevraagde subsidiebedrag niet kan worden besteed.
 
 2. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.
 
-#### Artikel 12. Vaststelling
+##### Artikel 12. Vaststelling
 
 De minister kan de subsidievaststelling wijzigen in verband met de ontwikkeling in de arbeidsvoorwaarden.
 
-#### Artikel 13. Aanvullende verplichtingen bij beschikking
+##### Artikel 13. Aanvullende verplichtingen bij beschikking
 
 De minister kan bij de verstrekking van de subsidieverplichtingen opleggen als bedoeld in de [artikel 4:38](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:38) en [4:39 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:39).
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2019 en vervalt met ingang van 1 januari 2020.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling kwaliteitsimpuls personeel ziekenhuiszorg 2019.
 

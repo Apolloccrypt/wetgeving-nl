@@ -1,20 +1,45 @@
 ---
-title: "Besluit mandaat en volmacht Stichting Administratie Indonesische Pensioenen om overzeese pensioen- en uitkeringsregelingen af te doen en te ondertekenen"
+title: "Besluit tot het verlenen van mandaat en volmacht aan de Stichting Administratie Indonesische Pensioenen om namens de minister stukken over overzeese pensioen- en uitkeringsregelingen af te doen en te ondertekenen"
 identifier: "BWBR0018084"
-categorie: "Sociaal recht"
-publicatiedatum: 2005-03-18
-laatste_update: 2005-03-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018084"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-03-18"
+last_updated: "2005-03-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018084"
+soort: "ministeriele-regeling"
+stam_id: "6853213"
+version_id: "11732982"
+internal_id: "C15817131"
+label_id: "6841424"
+original_entry_into_force: "2005-03-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018084/2005-03-18/0"
+intitule_bron: "Stcrt.2005-53"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-03-08"
+intitule_published: "2005-03-16"
+intitule_in_force: "2005-03-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-53"
+original_signed_date: "2005-03-08"
+original_published_date: "2005-03-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-53-p18-SC69218"
+entry_into_force_date: "2005-03-18"
+jci_1_3: "jci1.3:c:BWBR0018084&z=2005-03-18&g=2005-03-18"
+jci_1_0: "1.0:c:BWBR0018084&g=2005-03-18"
+citeertitel_status: "redactioneel"
+short_title: "Besluit mandaat en volmacht Stichting Administratie Indonesische Pensioenen om overzeese pensioen- en uitkeringsregelingen af te doen en te ondertekenen"
+signed_date: "2005-03-08"
+entry_into_force: "2005-03-18"
 ---
-
 # Besluit tot het verlenen van mandaat en volmacht aan de Stichting Administratie Indonesische Pensioenen om namens de minister stukken over overzeese pensioen- en uitkeringsregelingen af te doen en te ondertekenen
 
 Gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), de [Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075) en het [Besluit privaatrechtelijke rechtshandelingen 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007804);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -24,7 +49,7 @@ In dit besluit wordt verstaan onder:
 
 - c. SAIP: Stichting Administratie Indonesische Pensioenen.
 
-#### Artikel 2
+##### Artikel 2
 
 De minister verleent aan de SAIP het volgende mandaat en volmacht.
 
@@ -34,23 +59,23 @@ De minister verleent aan de SAIP het volgende mandaat en volmacht.
 
 - 3. De SAIP is bevoegd om inzake de uitvoering van de regelingen namens de minister in rechte op te treden en tegen rechterlijke uitspraken ter zake hoger beroep of cassatie in te stellen, dan wel af te zien van hoger beroep of cassatie. De SAIP stelt de minister tijdig in kennis van een voornemen om hoger beroep of cassatie in te stellen, dan wel daarvan af te zien.
 
-#### Artikel 3
+##### Artikel 3
 
 De SAIP is niet bevoegd om zelfstandig verzoeken in het kader van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de [Wet nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372), dan wel verzoeken van gelijksoortig karakter, voor zover die verband houden met de uitvoering van de regelingen, namens de minister af te handelen.
 
 Dergelijke zaken worden door de SAIP inhoudelijk voorbereid en formeel door de minister afgehandeld.
 
-#### Artikel 4
+##### Artikel 4
 
 De SAIP is bevoegd tot het opvragen en inzien van bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties aanwezige archieven over regelingen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De SAIP is bevoegd tot het verlenen van ondermandaat aan werknemers van een organisatie aan wie zij de administratieve taken heeft uitbesteed en die deze werkzaamheden verrichten onder verantwoordelijkheid van de SAIP.
 
 2. Het bepaalde in het eerste lid is niet van toepassing op de bevoegdheid tot het beslissen op bezwaar.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

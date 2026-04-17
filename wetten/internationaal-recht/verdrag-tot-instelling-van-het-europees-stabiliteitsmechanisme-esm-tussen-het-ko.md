@@ -1,13 +1,32 @@
 ---
 title: "Verdrag tot instelling van het Europees Stabiliteitsmechanisme (ESM) tussen het Koninkrijk België, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, het Groothertogdom Luxemburg, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland"
 identifier: "BWBV0005616"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-07-11
-laatste_update: 2011-07-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005616"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-07-11"
+last_updated: "2011-07-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005616"
+soort: "verdrag"
+stam_id: "10004764163"
+version_id: "10005055012"
+internal_id: "C10008384151"
+label_id: "10004748364"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005616/2011-07-11/0"
+intitule_bron: "Trb.2011-157"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-09-01"
+intitule_status: "nogniet"
+original_publication: "Trb.2011-157"
+original_published_date: "2011-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-157"
+jci_1_3: "jci1.3:c:BWBV0005616&z=2011-07-11&g=2011-07-11"
+jci_1_0: "1.0:c:BWBV0005616&g=2011-07-11"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-09-01"
 ---
-
 # Verdrag tot instelling van het Europees Stabiliteitsmechanisme (ESM) tussen het Koninkrijk België, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, het Groothertogdom Luxemburg, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland
 
 De verdragsluitende partijen, het Koninkrijk België, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, het Groothertogdom Luxemburg, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek en de Republiek Finland (de „lidstaten van de eurozone” of „ESM-leden”);
@@ -48,13 +67,13 @@ zijn overeengekomen hetgeen volgt:
 
 ### HOOFDSTUK 1. LIDMAATSCHAP EN DOEL
 
-#### Artikel 1. Oprichting en leden
+##### Artikel 1. Oprichting en leden
 
 1. Bij dit Verdrag richten de Verdragsluitende partijen tezamen een internationale financiële instelling op die de naam „Europees Stabiliteitsmechanisme” („ESM”) draagt.
 
 2. De Verdragsluitende partijen zijn de ESM-leden.
 
-#### Artikel 2. Nieuwe leden
+##### Artikel 2. Nieuwe leden
 
 1. Het lidmaatschap van het ESM staat open voor de andere lidstaten van de Europese Unie vanaf de inwerkingtreding van het overeenkomstig [artikel 140, lid 2, VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=140) vastgestelde besluit van de Raad van de Europese Unie tot intrekking van hun derogatie de euro aan te nemen.
 
@@ -62,13 +81,13 @@ zijn overeengekomen hetgeen volgt:
 
 3. Een nieuwe lidstaat die tot het ESM toetreedt na de instelling ervan, ontvangt aandelen in het ESM in ruil voor zijn kapitaalinbreng, die wordt berekend overeenkomstig de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&hoofdstuk=3&artikel=11&z=2011-07-11&g=2011-07-11) bepaalde bijdragesleutel.
 
-#### Artikel 3. Doel
+##### Artikel 3. Doel
 
 Het doel van het ESM is het vrijmaken van middelen en het verstrekken van financiële bijstand, onder stringente voorwaarden voor het economische beleid, ten gunste van ESM-leden die te maken hebben met of worden bedreigd door ernstige financieringsproblemen, indien zulks onontbeerlijk is om de financiële stabiliteit van de eurozone in haar geheel te waarborgen. Daartoe wordt het ESM gemachtigd middelen te verwerven door financiële instrumenten uit te geven, dan wel door financiële of andere overeenkomsten of regelingen aan te gaan met ESM-leden, financiële instellingen of andere derden.
 
 ### HOOFDSTUK 2. BESTUUR
 
-#### Artikel 4. Structuren en stemprocedure
+##### Artikel 4. Structuren en stemprocedure
 
 1. Het ESM heeft een Raad van gouverneurs en een Raad van bewind, alsmede een directeur en ander specifiek personeel dat noodzakelijk wordt geoordeeld.
 
@@ -84,7 +103,7 @@ Het doel van het ESM is het vrijmaken van middelen en het verstrekken van financ
 
 7. Ingeval een ESM-lid verzuimt een deel van het bedrag te betalen dat het verschuldigd is uit hoofde van de krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&hoofdstuk=3&artikel=8&z=2011-07-11&g=2011-07-11), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&hoofdstuk=3&artikel=9&z=2011-07-11&g=2011-07-11) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&hoofdstuk=3&artikel=10&z=2011-07-11&g=2011-07-11) op hem rustende verplichtingen in verband met volgestorte aandelen of opvragingen van kapitaal, dan wel uit hoofde van de krachtens de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&hoofdstuk=4&artikel=14&z=2011-07-11&g=2011-07-11) of [15](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&hoofdstuk=4&artikel=15&z=2011-07-11&g=2011-07-11) op hem rustende verplichtingen in verband met de terugbetaling van de financiële bijstand, is het betrokken ESM-lid, zolang dat verzuim voortduurt, niet gerechtigd zijn stemrechten uit te oefenen. De stemmingsdrempels worden dienovereenkomstig herberekend.
 
-#### Artikel 5. Raad van gouverneurs
+##### Artikel 5. Raad van gouverneurs
 
 1. Elk ESM-lid benoemt een gouverneur en een plaatsvervangend gouverneur. Deze benoemingen zijn te allen tijde herroepbaar. De gouverneur is een lid van de regering van dit ESM-lid en draagt verantwoordelijkheid voor financiën. De plaatsvervangend gouverneur is volledig bevoegd om namens de gouverneur op te treden wanneer deze niet aanwezig is.
 
@@ -156,7 +175,7 @@ Het doel van het ESM is het vrijmaken van middelen en het verstrekken van financ
 
 9. De Raad van gouverneurs stelt zijn reglement van orde en de organisatievoorschriften van het ESM vast.
 
-#### Artikel 6. Raad van bewind
+##### Artikel 6. Raad van bewind
 
 1. Elke gouverneur benoemt één bewindvoerder en één plaatsvervangend bewindvoerder en maakt daarbij een keuze uit personen die in hoge mate competent zijn in economische en financiële zaken. Deze benoemingen zijn te allen tijde herroepbaar. De plaatsvervangend bewindvoerder is volledig bevoegd om namens de bewindvoerder op te treden wanneer deze niet aanwezig is.
 
@@ -174,7 +193,7 @@ Het doel van het ESM is het vrijmaken van middelen en het verstrekken van financ
 
 8. De Raad van gouverneurs bepaalt welke activiteiten onverenigbaar zijn met de functie van bewindvoerder of plaatsvervangend bewindvoerder, de organisatievoorschriften van het ESM en het reglement van orde van de Raad van bewind.
 
-#### Artikel 7. Directeur
+##### Artikel 7. Directeur
 
 1. De directeur wordt benoemd door de Raad van gouverneurs, die daarbij een keuze maakt uit kandidaten die de nationaliteit van een ESM-lid hebben, relevante internationale ervaring bezitten en in hoge mate competent zijn in economische en financiële zaken. De directeur mag tijdens het bekleden van zijn functie geen gouverneur, bewindvoerder of plaatsvervanger van een van beiden zijn.
 
@@ -188,7 +207,7 @@ Het doel van het ESM is het vrijmaken van middelen en het verstrekken van financ
 
 ### HOOFDSTUK 3. KAPITAAL
 
-#### Artikel 8. Maatschappelijk kapitaal
+##### Artikel 8. Maatschappelijk kapitaal
 
 1. Het maatschappelijk kapitaal bedraagt 700 000 miljoen EUR. Het is verdeeld in zeven miljoen aandelen, elk met een nominale waarde van 100 000 EUR, waarop kan worden ingeschreven volgens de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&hoofdstuk=3&artikel=11&z=2011-07-11&g=2011-07-11) omschreven en in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&bijlage=I&z=2011-07-11&g=2011-07-11) bepaalde oorspronkelijke bijdragesleutel.
 
@@ -200,7 +219,7 @@ Het doel van het ESM is het vrijmaken van middelen en het verstrekken van financ
 
 5. De aansprakelijkheid van elk ESM-lid blijft onder alle omstandigheden beperkt tot zijn aandeel in het maatschappelijk kapitaal tegen de uitgifteprijs ervan. De ESM-leden zijn niet op grond van hun lidmaatschap aansprakelijk voor verplichtingen van het ESM. De verplichting van ESM-leden om overeenkomstig dit Verdrag tot het maatschappelijk kapitaal bij te dragen, wordt onverlet gelaten door het feit dat een dergelijk ESM-lid in aanmerking komt voor financiële bijstand van het ESM of dergelijke bijstand ontvangt.
 
-#### Artikel 9. Opvragingen van kapitaal
+##### Artikel 9. Opvragingen van kapitaal
 
 1. De Raad van gouverneurs kan te allen tijde niet-volgestort maatschappelijk kapitaal opvragen en een passende termijn vaststellen voor de betaling ervan door de ESM-leden.
 
@@ -210,7 +229,7 @@ Het doel van het ESM is het vrijmaken van middelen en het verstrekken van financ
 
 4. De Raad van bewind stelt de gedetailleerde voorwaarden vast die gelden voor opvragingen van kapitaal uit hoofde van dit artikel.
 
-#### Artikel 10. Wijzigingen in het maatschappelijk kapitaal
+##### Artikel 10. Wijzigingen in het maatschappelijk kapitaal
 
 1. De Raad van gouverneurs evalueert op gezette tijden en ten minste om de vijf jaar het maximale leningvolume en de toereikendheid van het maatschappelijk kapitaal van het ESM. Hij kan besluiten het maatschappelijk kapitaal te wijzigen en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&hoofdstuk=3&artikel=8&z=2011-07-11&g=2011-07-11) en [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&bijlage=II&z=2011-07-11&g=2011-07-11) dienovereenkomstig aan te passen. Dit besluit treedt in werking nadat de ESM-leden de depositaris in kennis hebben gesteld van de voltooiing van hun toepasselijke nationale procedures. De nieuwe aandelen worden aan de ESM-leden toegewezen volgens de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&hoofdstuk=3&artikel=11&z=2011-07-11&g=2011-07-11) en [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&bijlage=I&z=2011-07-11&g=2011-07-11) bepaalde bijdragesleutel.
 
@@ -218,7 +237,7 @@ Het doel van het ESM is het vrijmaken van middelen en het verstrekken van financ
 
 3. Zodra een lidstaat van de Europese Unie als nieuw lid toetreedt tot het ESM, wordt het maatschappelijk kapitaal van het ESM automatisch verhoogd door de op dat ogenblik geldende respectieve bedragen te vermenigvuldigen met de ratio tussen de weging, in het kader van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&hoofdstuk=3&artikel=11&z=2011-07-11&g=2011-07-11) bepaalde aangepaste bijdragesleutel, van het nieuwe ESM-lid enerzijds en die van de bestaande ESM-leden anderzijds.
 
-#### Artikel 11. Bijdragesleutel
+##### Artikel 11. Bijdragesleutel
 
 1. De bijdragesleutel voor de inschrijving op het maatschappelijk kapitaal van het ESM is, behoudens de leden 2 en 3, gebaseerd op de sleutel voor de inschrijving van de nationale centrale banken van de ESM-leden op het kapitaal van de ECB, welke is vastgesteld overeenkomstig [artikel 29 van Protocol (nr. 4)](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=29) betreffende de statuten van het Europees Stelsel van centrale banken en van de Europese Centrale Bank (de „ESCB-statuten”), dat aan het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en aan het [VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) is gehecht.
 
@@ -240,7 +259,7 @@ Het doel van het ESM is het vrijmaken van middelen en het verstrekken van financ
 
 ### HOOFDSTUK 4. OPERATIES
 
-#### Artikel 12. Beginselen
+##### Artikel 12. Beginselen
 
 1. Indien zulks onontbeerlijk is om de financiële stabiliteit van de eurozone als geheel te waarborgen, biedt het ESM een ESM-lid onder stringente economische beleidsvoorwaarden in het kader van een macro-economisch aanpassingsprogramma financiële bijstand, waarbij het aanpassingsprogramma en de bijstand in verhouding staan tot de ernst van de economische en financiële onevenwichtigheden waarmee het betrokken ESM-lid wordt geconfronteerd.
 
@@ -248,7 +267,7 @@ Het doel van het ESM is het vrijmaken van middelen en het verstrekken van financ
 
 3. Vanaf juli 2013 worden in alle nieuwe overheidsobligaties van de eurozone met een looptijd van meer dan een jaar collectieve-actieclausules opgenomen die op zulke wijze gestandaardiseerd worden dat zij dezelfde rechtsgevolgen hebben.
 
-#### Artikel 13. Procedure voor de toekenning van financiële bijstand
+##### Artikel 13. Procedure voor de toekenning van financiële bijstand
 
 1. Een ESM-lid kan tot de voorzitter van de Raad van gouverneurs een verzoek om financiële bijstand richten. Na ontvangst van een dergelijk verzoek vertrouwt de voorzitter van de Raad van gouverneurs de Europese Commissie toe om, in overleg met de ECB:
 
@@ -274,7 +293,7 @@ Het memorandum van overeenstemming is volledig consistent met de maatregelen tot
 
 8. De Raad van bewind stelt de gedetailleerde richtsnoeren vast die op de uitbetalingen van financiële bijstand van toepassing zijn.
 
-#### Artikel 14. esm-stabiliteitssteun
+##### Artikel 14. esm-stabiliteitssteun
 
 1. De Raad van gouverneurs kan overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&hoofdstuk=4&artikel=12&z=2011-07-11&g=2011-07-11) besluiten stabiliteitssteun voor de korte of middellange termijn in de vorm van een lening aan een ESM-lid als financiële bijstand te verlenen.
 
@@ -284,7 +303,7 @@ Het memorandum van overeenstemming is volledig consistent met de maatregelen tot
 
 4. De Raad van gouverneurs kan besluiten de prijsstructuur en het prijsstellingsbeleid aan te passen en [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&bijlage=III&z=2011-07-11&g=2011-07-11) dienovereenkomstig wijzigen.
 
-#### Artikel 15. Steunvoorziening op de primaire markt
+##### Artikel 15. Steunvoorziening op de primaire markt
 
 1. De Raad van gouverneurs kan bij wijze van uitzondering overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&hoofdstuk=4&artikel=12&z=2011-07-11&g=2011-07-11) besluiten regelingen te treffen voor de aankoop van obligaties van een ESM-lid op de primaire markt ten behoeve van een maximale kostenefficiëntie van de financiële bijstand.
 
@@ -292,11 +311,11 @@ Het memorandum van overeenstemming is volledig consistent met de maatregelen tot
 
 3. De Raad van bewind stelt de gedetailleerde richtsnoeren vast die gelden voor de regels van tenuitvoerlegging van de steunvoorziening op de primaire markt.
 
-#### Artikel 16. Evaluatie van de lijst van financiële-bijstandinstrumenten
+##### Artikel 16. Evaluatie van de lijst van financiële-bijstandinstrumenten
 
 De Raad kan de lijst van financiële-bijstandinstrumenten waarin de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&hoofdstuk=4&artikel=14&z=2011-07-11&g=2011-07-11) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&hoofdstuk=4&artikel=15&z=2011-07-11&g=2011-07-11) voorzien, aan een evaluatie onderwerpen en besluiten daarin wijzigingen aan te brengen.
 
-#### Artikel 17. Transacties voor het aangaan van leningen
+##### Artikel 17. Transacties voor het aangaan van leningen
 
 1. Het ESM wordt gemachtigd op de kapitaalmarkten bij banken, financiële instellingen of andere personen of instellingen leningen aan te gaan voor het verwezenlijken van zijn doel.
 
@@ -306,11 +325,11 @@ De Raad kan de lijst van financiële-bijstandinstrumenten waarin de [artikelen 1
 
 ### HOOFDSTUK 5. FINANCIEEL BEHEER
 
-#### Artikel 18. Beleggingsbeleid
+##### Artikel 18. Beleggingsbeleid
 
 De directeur voert overeenkomstig door de Raad van bewind vast te stellen en regelmatig opnieuw te beoordelen richtsnoeren een prudent beleggingsbeleid voor het ESM teneinde de hoogste kredietwaardigheid ervan te garanderen. Het ESM is gemachtigd een deel van de opbrengst van zijn beleggingsportefeuille te gebruiken om zijn bedrijfs- en administratiekosten te dekken.
 
-#### Artikel 19. Dividendbeleid
+##### Artikel 19. Dividendbeleid
 
 1. Zolang het ESM geen financiële bijstand aan een van zijn leden heeft verleend, wordt de opbrengst van de belegging van het volgestort kapitaal van het ESM aan de ESM-leden uitgekeerd volgens hun respectieve aandeel, na aftrek van de operationele kosten, mits de beoogde effectieve kredietverleningscapaciteit volledig beschikbaar is.
 
@@ -318,7 +337,7 @@ De directeur voert overeenkomstig door de Raad van bewind vast te stellen en reg
 
 3. De directeur voert het dividendbeleid voor het ESM uit overeenkomstig door de Raad van bewind vast te stellen richtsnoeren.
 
-#### Artikel 20. Reservefonds en andere fondsen
+##### Artikel 20. Reservefonds en andere fondsen
 
 1. De Raad van gouverneurs stelt een reservefonds en, indien nodig, andere fondsen in.
 
@@ -328,7 +347,7 @@ De directeur voert overeenkomstig door de Raad van bewind vast te stellen en reg
 
 4. De Raad van bewind stelt alle regels vast die vereist zijn voor het instellen, het beheer en het gebruik van andere fondsen.
 
-#### Artikel 21. Dekking van verliezen
+##### Artikel 21. Dekking van verliezen
 
 1. Uit ESM-operaties voortvloeiende verliezen worden ten laste gebracht van:
 
@@ -342,17 +361,17 @@ De directeur voert overeenkomstig door de Raad van bewind vast te stellen en reg
 
 3. Wanneer een ESM-lid zijn in lid 2 bedoelde schuld jegens het ESM vereffent, wordt het overschot aan kapitaal aan de overige ESM-leden terugbetaald volgens door de Raad van gouverneurs vast te stellen regels.
 
-#### Artikel 22. Begroting
+##### Artikel 22. Begroting
 
 De Raad van bewind keurt jaarlijks de ESM-begroting goed.
 
-#### Artikel 23. Jaarrekening
+##### Artikel 23. Jaarrekening
 
 1. De Raad van gouverneurs keurt de jaarrekening van het ESM goed.
 
 2. Het ESM publiceert een jaarverslag met een door auditors gecertificeerd overzicht van zijn rekeningen, en doet de ESM-leden een driemaandelijks beknopt overzicht van zijn financiële positie toekomen, alsook een winst- en verliesrekening waaruit het resultaat van zijn werkzaamheden blijkt.
 
-#### Artikel 24. Intern auditcomité
+##### Artikel 24. Intern auditcomité
 
 1. Het intern auditcomité bestaat uit drie leden die door de Raad van gouverneurs zijn benoemd voor hun competentie in financiële en auditzaken.
 
@@ -368,19 +387,19 @@ De Raad van bewind keurt jaarlijks de ESM-begroting goed.
 
 5. Het ESM wordt beheerd volgens beginselen van goed financieel en risicobeheer.
 
-#### Artikel 25. Externe controle
+##### Artikel 25. Externe controle
 
 De rekeningen van het ESM worden gecontroleerd door onafhankelijke externe auditors die door de Raad van gouverneurs zijn aanvaard. De auditors zijn zonder voorbehoud bevoegd alle boeken en rekeningen van het ESM te onderzoeken en volledig te worden geïnformeerd over zijn transacties.
 
 ### HOOFDSTUK 6. ALGEMENE BEPALINGEN
 
-#### Artikel 26. Vestiging
+##### Artikel 26. Vestiging
 
 1. Het ESM heeft zijn zetel en hoofdkantoor te Luxemburg.
 
 2. Het ESM kan een verbindingsbureau vestigen te Brussel.
 
-#### Artikel 27. Rechtspositie, voorrechten en immuniteiten
+##### Artikel 27. Rechtspositie, voorrechten en immuniteiten
 
 1. Teneinde het ESM in staat te stellen zijn doel te verwezenlijken, worden aan het ESM op het grondgebied van elk ESM-lid de rechtspositie en de voorrechten en immuniteiten, als vermeld in dit artikel, toegekend. Het ESM tracht erkenning van zijn rechtspositie en van zijn voorrechten en immuniteiten te verkrijgen op andere grondgebieden waar het functies vervult of activa bezit.
 
@@ -408,15 +427,15 @@ De rekeningen van het ESM worden gecontroleerd door onafhankelijke externe audit
 
 9. Het ESM is vrijgesteld van elke verplichting om te worden erkend of een vergunning te verkrijgen als kredietinstelling, verlener van beleggingsdiensten of enigerlei andere uit hoofde van de wetgeving van een ESM-lid erkende, vergunninghoudende of gereguleerde entiteit.
 
-#### Artikel 28. Personeel van het ESM
+##### Artikel 28. Personeel van het ESM
 
 De Raad van bewind stelt de arbeidsvoorwaarden van de directeur en ander personeel van het ESM vast.
 
-#### Artikel 29. Beroepsgeheim
+##### Artikel 29. Beroepsgeheim
 
 De leden of voormalige leden van de Raad van gouverneurs en van de Raad van bewind en alle andere personen die werkzaamheden voor of in verband met het ESM verrichten of hebben verricht, zijn gehouden inlichtingen die naar hun aard onder de geheimhoudingsplicht vallen, niet openbaar te maken. Ook na beëindiging van hun taken mogen zij geen onder het beroepsgeheim vallende inlichtingen openbaar maken.
 
-#### Artikel 30. Immuniteiten van personen
+##### Artikel 30. Immuniteiten van personen
 
 1. In het belang van het ESM genieten de voorzitter van de Raad van gouverneurs, gouverneurs, plaatsvervangend gouverneurs, bewindvoerders, plaatsvervangend bewindvoerders, alsmede de directeur en andere personeelsleden immuniteit van rechtsvervolging voor wat zij in hun officiële hoedanigheid hebben gedaan en genieten onschendbaarheid wat hun officiële papieren en documenten betreft.
 
@@ -426,7 +445,7 @@ De leden of voormalige leden van de Raad van gouverneurs en van de Raad van bewi
 
 4. Elk ESM-lid neemt terstond de nodige maatregelen om in zijn eigen wetgeving uitvoering te geven aan dit artikel en stelt het ESM daarvan in kennis.
 
-#### Artikel 31. Vrijstelling van belasting
+##### Artikel 31. Vrijstelling van belasting
 
 1. In het kader van zijn officiële activiteiten zijn het ESM, zijn bezittingen, inkomsten, eigendommen en zijn operaties en transacties waartoe het op grond van dit Verdrag gemachtigd is, vrijgesteld van alle directe belastingen.
 
@@ -444,7 +463,7 @@ De leden of voormalige leden van de Raad van gouverneurs en van de Raad van bewi
 
 - b. indien de plaats waar of de valuta waarin deze zijn uitgegeven, betaalbaar worden gesteld of worden betaald, of de plaats waar een kantoor van het ESM is gevestigd of waar het zijn bedrijf uitoefent, de enige rechtsgrond voor een dergelijke belasting is.
 
-#### Artikel 32. Uitlegging en geschillenbeslechting
+##### Artikel 32. Uitlegging en geschillenbeslechting
 
 1. Verschillen van mening die rijzen tussen een ESM-lid en het ESM, dan wel tussen ESM-leden onderling over de uitlegging of toepassing van de bepalingen van dit Verdrag en van de organisatievoorschriften van het ESM, worden ter beslissing voorgelegd aan de Raad van bewind.
 
@@ -452,17 +471,17 @@ De leden of voormalige leden van de Raad van gouverneurs en van de Raad van bewi
 
 3. Indien een ESM-lid het in lid 2 bedoelde besluit betwist, wordt het geschil voorgelegd aan het Hof van Justitie van de Europese Unie. Het arrest van het Hof van Justitie van de Europese Unie is bindend voor de partijen bij de procedure, die gehouden zijn binnen de door genoemd Hof vastgestelde termijn de maatregelen te nemen die nodig zijn ter uitvoering van het arrest.
 
-#### Artikel 33. Internationale samenwerking
+##### Artikel 33. Internationale samenwerking
 
 Met het oog op het bereiken van zijn doelen is het ESM gemachtigd overeenkomstig de bepalingen van dit Verdrag samen te werken met het IMF, elke lidstaat van buiten de eurozone die op ad-hocbasis financiële bijstand verleent, en elke internationale organisatie of entiteit die speciale verantwoordelijkheden op aanverwante terreinen draagt.
 
 ### HOOFDSTUK 7. OVERGANGSREGELINGEN
 
-#### Artikel 34. Verhouding met leningen door het EFSF
+##### Artikel 34. Verhouding met leningen door het EFSF
 
 Tijdens de overgangsfase die loopt van juni 2013 tot de volledige opheffing van de EFSF, ligt het geconsolideerde bedrag aan door het ESM en de EFSF verstrekte leningen niet hoger dan 500 000 miljoen EUR, onverminderd de regelmatige evaluatie van de toereikendheid van het maximale leningvolume overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&hoofdstuk=3&artikel=10&z=2011-07-11&g=2011-07-11). De Raad van bewind stelt gedetailleerde richtsnoeren vast voor de berekening van de capaciteit voor het toekennen van nieuwe leningen teneinde te voorkomen dat het geconsolideerde leningplafond wordt overschreden.
 
-#### Artikel 35. Overdracht van EFSF-steun
+##### Artikel 35. Overdracht van EFSF-steun
 
 1. In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&hoofdstuk=4&artikel=13&z=2011-07-11&g=2011-07-11) kan de Raad van gouverneurs besluiten dat de toezeggingen tot het verlenen van financiële bijstand aan een ESM-lid welke de EFSF in het kader van haar akkoord met het betrokken lid heeft gedaan, door het ESM worden overgenomen, voor zover deze toezeggingen verband houden met niet-uitbetaalde en niet-gefinancierde delen van leenfaciliteiten.
 
@@ -470,13 +489,13 @@ Tijdens de overgangsfase die loopt van juni 2013 tot de volledige opheffing van 
 
 3. De Raad van gouverneurs stelt de gedetailleerde uitvoeringsregels vast die nodig zijn om uitvoering te geven aan de in lid 1 bedoelde overdracht van de verplichtingen van de EFSF aan het ESM en aan een eventuele overdracht van rechten en verplichtingen als beschreven in lid 2.
 
-#### Artikel 36. Betaling van het aanvangskapitaal
+##### Artikel 36. Betaling van het aanvangskapitaal
 
 1. Onverminderd lid 2, geschiedt de betaling van de volgestorte aandelen tot het bedrag waarop aanvankelijk door elk ESM-lid is ingeschreven, in vijf jaarlijkse termijnen van elk 20% procent van het totale bedrag. De eerste termijn wordt door elk ESM-lid betaald binnen vijftien dagen na de datum van inwerkingtreding van dit Verdrag, maar niet vroeger dan 2 januari 2013. De resterende vier termijnen zijn betaalbaar op respectievelijk de eerste, tweede, derde en vierde verjaardag van de datum van betaling van de eerste termijn.
 
 2. Tijdens de periode van vijf jaar van betaling van het kapitaal in termijnen stellen de ESM-leden vóór de uitgiftedatum tijdig passende instrumenten ter beschikking opdat de verhouding tussen het volgestort kapitaal en het uitstaande bedrag aan ESM-uitgiften ten minste 15% procent blijft.
 
-#### Artikel 37. Tijdelijke correctie van de bijdragesleutel
+##### Artikel 37. Tijdelijke correctie van de bijdragesleutel
 
 1. Aanvankelijk schrijven de ESM-leden op het maatschappelijk kapitaal in op basis van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&bijlage=I&z=2011-07-11&g=2011-07-11) vermelde oorspronkelijke bijdragesleutel. De tijdelijke correctie die in deze oorspronkelijke bijdragesleutel is verwerkt, is van toepassing voor een periode van twaalf jaar te rekenen vanaf de datum van aanneming van de euro door het betrokken ESM-lid.
 
@@ -492,7 +511,7 @@ De onder a) en b) bedoelde percentages worden naar onder of naar boven afgerond 
 
 4. Als gevolg van de tijdelijke correctie van de sleutel wordt het betreffende gedeelte van de krachtens lid 2 aan een ESM-lid toegewezen aandelen onder de ESM-leden die geen tijdelijke correctie genieten herverdeeld op basis van het overeenkomstig [artikel 29 van de ESCB-statuten](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=29) vastgestelde aandelenbezit in de ECB onmiddellijk voorafgaand aan de uitgifte van aandelen aan het toetredende ESM-lid.
 
-#### Artikel 38. Eerste benoemingen
+##### Artikel 38. Eerste benoemingen
 
 1. Elk ESM-lid wijst binnen twee weken na de inwerkingtreding van dit Verdrag zijn gouverneur en zijn plaatsvervangend gouverneur aan.
 
@@ -500,11 +519,11 @@ De onder a) en b) bedoelde percentages worden naar onder of naar boven afgerond 
 
 ### HOOFDSTUK 8. SLOTBEPALINGEN
 
-#### Artikel 39. Toetreding
+##### Artikel 39. Toetreding
 
 Overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&hoofdstuk=1&artikel=2&z=2011-07-11&g=2011-07-11) staat dit Verdrag open voor toetreding door andere lidstaten van de Europese Unie na indiening van een toetredingsaanvraag door een dergelijke lidstaat van de Europese Unie bij het ESM nadat de Raad van de Europese Unie overeenkomstig [artikel 140, lid 2, VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=140) het besluit tot intrekking van zijn derogatie de euro aan te nemen heeft vastgesteld. De Raad van gouverneurs hecht zijn goedkeuring aan de toetredingsaanvraag van het nieuwe ESM-lid en aan de aan de toetreding verbonden gedetailleerde technische voorwaarden, alsook aan de aanpassingen die als rechtstreeks gevolg van de toetreding aan het Verdrag moeten worden aangebracht. Na de goedkeuring van de aanvraag door de Raad van gouverneurs zullen de nieuwe ESM-leden toetreden na neerlegging van de akten van toetreding bij de depositaris, die de andere ESM-leden daarvan in kennis stelt.
 
-#### Artikel 40. Bijlagen
+##### Artikel 40. Bijlagen
 
 De volgende bijlagen bij dit Verdrag maken een integrerend deel daarvan uit:
 
@@ -514,17 +533,17 @@ De volgende bijlagen bij dit Verdrag maken een integrerend deel daarvan uit:
 
 - 3. [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&bijlage=III&z=2011-07-11&g=2011-07-11): Prijsstellingsbeleid.
 
-#### Artikel 41. Ondertekening en neerlegging
+##### Artikel 41. Ondertekening en neerlegging
 
 1. Dit Verdrag wordt neergelegd bij het secretariaat-generaal van de Raad van de Europese Unie („de depositaris”), dat alle ondertekenaars voor eensluidend gewaarmerkte afschriften van dit Verdrag doet toekomen.
 
-#### Artikel 42. Bekrachtiging, goedkeuring of aanvaarding
+##### Artikel 42. Bekrachtiging, goedkeuring of aanvaarding
 
 1. Dit Verdrag wordt bekrachtigd, goedgekeurd of aanvaard door de ondertekenaars. De akten van bekrachtiging, goedkeuring of aanvaarding worden uiterlijk op 31 december 2012 neergelegd bij de depositaris.
 
 2. De depositaris stelt de andere ondertekenaars in kennis van elke neerlegging en van de datum waarop deze heeft plaatsgevonden.
 
-#### Artikel 43. Inwerkingtreding
+##### Artikel 43. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop de akten van bekrachtiging, goedkeuring of aanvaarding zijn neergelegd door de ondertekenaars waarvan de oorspronkelijke inschrijvingen ten minste 95% van het totale aantal inschrijvingen vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&bijlage=II&z=2011-07-11&g=2011-07-11) vertegenwoordigen. Indien nodig wordt de lijst van ESM-leden aangepast. De in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&bijlage=I&z=2011-07-11&g=2011-07-11) vermelde sleutel wordt dan herberekend, en het in [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005616&hoofdstuk=3&artikel=8&z=2011-07-11&g=2011-07-11), en bijlage II vermelde totale maatschappelijk kapitaal en de in artikel 8, lid 2, vermelde oorspronkelijke totale geaggregeerde nominale waarde van de volgestorte aandelen worden dienovereenkomstig verminderd.
 

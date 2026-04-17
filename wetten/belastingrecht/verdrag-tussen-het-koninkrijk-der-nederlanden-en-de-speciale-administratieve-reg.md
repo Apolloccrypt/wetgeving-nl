@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Speciale Administratieve Regio Hongkong van de Volksrepubliek China tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen"
 identifier: "BWBV0004190"
-categorie: "Belastingrecht"
-publicatiedatum: 2011-10-24
-laatste_update: 2011-10-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004190"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-10-24"
+last_updated: "2011-10-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004190"
+soort: "verdrag"
+stam_id: "10003993783"
+version_id: "10004150132"
+internal_id: "C10007421181"
+label_id: "10003978754"
+dtd_version: "2.0"
+original_entry_into_force: "2011-10-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004190/2011-10-24/0"
+intitule_bron: "Trb.2010-198"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-06-29"
+intitule_in_force: "2011-10-26"
+intitule_status: "goed"
+original_publication: "Trb.2010-198"
+original_published_date: "2010-06-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2010-198"
+entry_into_force_date: "2011-10-24"
+jci_1_3: "jci1.3:c:BWBV0004190&z=2011-10-24&g=2011-10-24"
+jci_1_0: "1.0:c:BWBV0004190&g=2011-10-24"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-10-24"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Speciale Administratieve Regio Hongkong van de Volksrepubliek China tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
 De Regering van het Koninkrijk der Nederlanden
@@ -22,11 +44,11 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. REIKWIJDTE VAN HET VERDRAG
 
-#### Artikel 1. Personen op wie het Verdrag van toepassing is
+##### Artikel 1. Personen op wie het Verdrag van toepassing is
 
 Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide verdragsluitende partijen.
 
-#### Artikel 2. Belastingen waarop het Verdrag van toepassing is
+##### Artikel 2. Belastingen waarop het Verdrag van toepassing is
 
 1. Dit Verdrag is van toepassing op belastingen naar het inkomen die, ongeacht de wijze van heffing, worden geheven ten behoeve van een verdragsluitende partij of van de staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen daarvan.
 
@@ -58,7 +80,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 ### HOOFDSTUK II. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 3. Algemene begripsbepalingen
+##### Artikel 3. Algemene begripsbepalingen
 
 1. Voor de toepassing van dit Verdrag, tenzij de context anders vereist:
 
@@ -90,7 +112,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 2. Wat betreft de toepassing van dit Verdrag op enig moment door een verdragsluitende partij heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat tijdstip heeft volgens de wetgeving van die verdragsluitende partij met betrekking tot de belastingen waarop dit Verdrag van toepassing is, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die verdragsluitende partij prevaleert boven een betekenis die volgens andere wetgeving van die verdragsluitende partij aan die uitdrukking wordt gegeven.
 
-#### Artikel 4. Inwoner
+##### Artikel 4. Inwoner
 
 1. Voor de toepassing van dit Verdrag betekent de uitdrukking „inwoner van een verdragsluitende partij”:
 
@@ -126,7 +148,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 4. Indien een persoon, niet zijnde een natuurlijke persoon, ingevolge de bepalingen van het eerste lid, inwoner is van beide verdragsluitende partijen, trachten de bevoegde autoriteiten van de verdragsluitende partijen de aangelegenheid in onderling overleg te regelen. Bij het ontbreken van een dergelijk overleg heeft een dergelijke persoon geen recht op enig voordeel uit hoofde van dit Verdrag, behalve dat deze persoon aanspraak kan maken op de voordelen van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=V&artikel=23&z=2011-10-24&g=2011-10-24) (Non-discriminatie) en [24](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=V&artikel=24&z=2011-10-24&g=2011-10-24) (Procedure voor onderling overleg), en de bevoegde autoriteiten kunnen in onderling overleg de wijze van toepassing van de rest van dit Verdrag op die persoon vaststellen.
 
-#### Artikel 5. Vaste inrichting
+##### Artikel 5. Vaste inrichting
 
 1. Voor de toepassing van dit Verdrag betekent de uitdrukking „vaste inrichting” een vaste bedrijfsinrichting door middel waarvan de werkzaamheden van een onderneming geheel of gedeeltelijk worden uitgeoefend.
 
@@ -176,7 +198,7 @@ De in de andere verdragsluitende partij in het kader van deze diensten verrichte
 
 ### HOOFDSTUK III. BELASTINGHEFFING NAAR HET INKOMEN
 
-#### Artikel 6. Inkomsten uit onroerende zaken
+##### Artikel 6. Inkomsten uit onroerende zaken
 
 1. Inkomsten verkregen door een inwoner van een verdragsluitende partij uit onroerende zaken (waaronder begrepen voordelen uit landbouw- of bosbedrijven) die in de andere verdragsluitende partij zijn gelegen mogen in die andere verdragsluitende partij worden belast.
 
@@ -186,7 +208,7 @@ De in de andere verdragsluitende partij in het kader van deze diensten verrichte
 
 4. De bepalingen van het eerste en derde lid zijn eveneens van toepassing op inkomsten uit onroerende zaken van een onderneming.
 
-#### Artikel 7. Winst uit onderneming
+##### Artikel 7. Winst uit onderneming
 
 1. De voordelen van een onderneming van een verdragsluitende partij zijn slechts in die verdragsluitende partij belastbaar, tenzij de onderneming in de andere verdragsluitende partij haar bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting. Indien de onderneming aldus haar bedrijf uitoefent, mogen de voordelen van de onderneming in de andere verdragsluitende partij worden belast, maar slechts in zoverre als zij aan die vaste inrichting kunnen worden toegerekend.
 
@@ -204,13 +226,13 @@ De in de andere verdragsluitende partij in het kader van deze diensten verrichte
 
 8. Indien in de voordelen bestanddelen van het inkomen zijn begrepen die afzonderlijk in andere artikelen van dit Verdrag worden behandeld, laten de bepalingen van dit artikel de bepalingen van die artikelen onverlet.
 
-#### Artikel 8. Zee- en luchtvervoer
+##### Artikel 8. Zee- en luchtvervoer
 
 1. Voordelen van een onderneming van een verdragsluitende partij uit de exploitatie van schepen of luchtvaartuigen in internationaal verkeer zijn slechts in die verdragsluitende partij belastbaar.
 
 2. De bepalingen van het eerste lid zijn ook van toepassing op voordelen uit de deelneming in een „pool”, een gemeenschappelijke onderneming of een internationaal opererend agentschap.
 
-#### Artikel 9. Gelieerde ondernemingen
+##### Artikel 9. Gelieerde ondernemingen
 
 1. Indien:
 
@@ -222,7 +244,7 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 2. Indien een verdragsluitende partij in de voordelen van een onderneming van die partij voordelen begrijpt – en dienovereenkomstig belast – ter zake waarvan een onderneming van de andere verdragsluitende partij in die andere verdragsluitende partij in de belastingheffing is betrokken en deze voordelen bestaan uit voordelen die de onderneming van de eerstbedoelde verdragsluitende partij zou hebben behaald, indien tussen de beide ondernemingen zodanige voorwaarden zouden zijn overeengekomen als die welke tussen onafhankelijke ondernemingen zouden zijn overeengekomen, zal die andere verdragsluitende partij het bedrag aan belasting dat in die verdragsluitende partij over die voordelen is geheven, dienovereenkomstig aanpassen. Bij de vaststelling van deze aanpassing wordt zorgvuldig rekening gehouden met de overige bepalingen van dit Verdrag en plegen de bevoegde autoriteiten van de verdragsluitende partijen daartoe indien nodig met elkaar overleg.
 
-#### Artikel 10. Dividenden
+##### Artikel 10. Dividenden
 
 1. Dividenden betaald door een lichaam dat inwoner is van een verdragsluitende partij aan een inwoner van de andere verdragsluitende partij, mogen in die andere verdragsluitende partij worden belast.
 
@@ -264,7 +286,7 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 9. Niettegenstaande de bepalingen van het eerste, tweede en achtste lid, mogen dividenden betaald door een lichaam met een in aandelen verdeeld kapitaal en dat volgens de wetgeving van een verdragsluitende partij inwoner is van die verdragsluitende partij, aan een natuurlijke persoon die inwoner is van de andere verdragsluitende partij, in de eerstbedoelde verdragsluitende partij worden belast overeenkomstig de wetgeving van die verdragsluitende partij, indien die natuurlijke persoon – al dan niet tezamen met zijn of haar echtgenoot dan wel een van hun bloed- of aanverwanten in de rechte lijn – onmiddellijk of middellijk ten minste vijf percent bezit van het geplaatste kapitaal van een bepaalde soort van aandelen van dat lichaam.
 
-#### Artikel 11. Interest
+##### Artikel 11. Interest
 
 1. Interest afkomstig uit een verdragsluitende partij die wordt verkregen door een inwoner van de andere verdragsluitende partij die de uiteindelijke gerechtigde is, mag uitsluitend in die andere verdragsluitende partij worden belast.
 
@@ -276,7 +298,7 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 5. Indien, wegens een bijzondere verhouding tussen de schuldenaar en de uiteindelijk gerechtigde of tussen hen beiden en een derde, het bedrag van de interest, ongeacht de gronden, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de uiteindelijk gerechtigde zou zijn overeengekomen, zijn de bepalingen van dit artikel slechts op het laatstbedoelde bedrag van toepassing. In dat geval blijft het daarboven uitgaande deel van het betaalde bedrag belastbaar overeenkomstig de wetgeving van elk van de verdragsluitende partijen, zulks met inachtneming van de overige bepalingen van dit Verdrag.
 
-#### Artikel 12. Royalty’s
+##### Artikel 12. Royalty’s
 
 1. Royalty’s afkomstig uit een verdragsluitende partij die worden betaald of worden geacht te worden betaald aan een inwoner van de andere verdragsluitende partij mogen in die andere verdragsluitende partij worden belast.
 
@@ -290,7 +312,7 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 6. Royalty’s worden geacht uit een verdragsluitende partij afkomstig te zijn indien zij worden betaald door een inwoner van die verdragsluitende partij. Indien evenwel de persoon die de royalty’s betaalt, of hij inwoner van een verdragsluitende partij is of niet, in een verdragsluitende partij een vaste inrichting heeft, waarvoor de verplichting tot het betalen van de royalty’s was aangegaan, en deze royalty’s ten laste komen van die vaste inrichting, worden deze royalty’s geacht afkomstig te zijn uit de verdragsluitende partij waar de vaste inrichting is gevestigd.
 
-#### Artikel 13. Vermogenswinsten
+##### Artikel 13. Vermogenswinsten
 
 1. Voordelen verkregen door een inwoner van een verdragsluitende partij uit de vervreemding van onroerende zaken als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=6&z=2011-10-24&g=2011-10-24) en die zijn gelegen in de andere verdragsluitende partij, mogen in die andere verdragsluitende partij worden belast.
 
@@ -310,7 +332,7 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 6. Niettegenstaande de bepalingen van het vijfde lid, mag een verdragsluitende partij, overeenkomstig haar eigen wetgeving, de uitleg van de uitdrukking „vervreemding” daaronder begrepen, belasting heffen over voordelen verkregen door een natuurlijke persoon die inwoner is van de andere verdragsluitende partij uit de vervreemding van aandelen in, winstbewijzen van of schuldvorderingen op, een lichaam met een in aandelen verdeeld kapitaal, dat volgens de wetgeving van de eerstbedoelde verdragsluitende partij inwoner is van die verdragsluitende partij, alsmede uit de vervreemding van een gedeelte van de in die aandelen, winstbewijzen of schuldvorderingen besloten liggende rechten, indien die natuurlijke persoon – al dan niet tezamen met zijn of haar echtgenoot – dan wel een van hun bloed- of aanverwanten in de rechte lijn onmiddellijk of middellijk ten minste vijf percent bezit van het geplaatste kapitaal van een bepaalde soort van aandelen in dat lichaam.
 
-#### Artikel 14. Inkomsten uit dienstbetrekking
+##### Artikel 14. Inkomsten uit dienstbetrekking
 
 1. Onder voorbehoud van de bepalingen van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=15&z=2011-10-24&g=2011-10-24), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=17&z=2011-10-24&g=2011-10-24) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=18&z=2011-10-24&g=2011-10-24) zijn salarissen, lonen en andere soortgelijke beloningen verkregen door een inwoner van een verdragsluitende partij ter zake van een dienstbetrekking slechts in die verdragsluitende partij belastbaar, tenzij de dienstbetrekking in de andere verdragsluitende partij wordt uitgeoefend. Indien de dienstbetrekking aldaar wordt uitgeoefend, mag de ter zake daarvan verkregen beloning in die andere verdragsluitende partij worden belast.
 
@@ -324,11 +346,11 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 3. Niettegenstaande de voorgaande bepalingen van dit artikel is de beloning verkregen ter zake van een dienstbetrekking uitgeoefend aan boord van een schip of luchtvaartuig dat in internationaal verkeer wordt geëxploiteerd door een onderneming van een verdragsluitende partij, slechts in die verdragsluitende partij belastbaar.
 
-#### Artikel 15. Directeursbeloningen
+##### Artikel 15. Directeursbeloningen
 
 Directeursbeloningen en andere soortgelijke beloningen verkregen door een inwoner van een verdragsluitende partij in zijn hoedanigheid van lid van de raad van beheer van een lichaam dat inwoner is van de andere verdragsluitende partij, mogen in die andere verdragsluitende partij worden belast.
 
-#### Artikel 16. Artiesten en sportbeoefenaars
+##### Artikel 16. Artiesten en sportbeoefenaars
 
 1. Niettegenstaande de bepalingen van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=7&z=2011-10-24&g=2011-10-24) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=14&z=2011-10-24&g=2011-10-24), mogen inkomsten verkregen door een inwoner van een verdragsluitende partij als artiest, zoals een toneelspeler, een film-, radio- of televisie-artiest, of een musicus, of als sportbeoefenaar, uit zijn persoonlijke werkzaamheden als zodanig die worden verricht in de andere verdragsluitende partij, worden belast in die andere verdragsluitende partij.
 
@@ -336,7 +358,7 @@ Directeursbeloningen en andere soortgelijke beloningen verkregen door een inwone
 
 3. De bepalingen van het eerste en tweede lid van dit artikel zijn niet van toepassing op beloningen die worden verkregen uit werkzaamheden die in een verdragsluitende partij worden verricht door een artiest of sportbeoefenaar van de andere verdragsluitende partij, indien het bezoek aan de eerstbedoelde verdragsluitende partij hoofdzakelijk wordt bekostigd uit de openbare fondsen van de andere verdragsluitende partij met inbegrip van haar plaatselijk publiekrechtelijk lichaam of bij wet ingesteld lichaam. In een zodanig geval zijn de beloningen slechts belastbaar in de verdragsluitende partij waarvan de artiest of sportbeoefenaar inwoner is.
 
-#### Artikel 17. Pensioenen, lijfrenten, socialezekerheidsuitkeringen, alimentatieuitkeringen en betalingen ten behoeve van levensonderhoud
+##### Artikel 17. Pensioenen, lijfrenten, socialezekerheidsuitkeringen, alimentatieuitkeringen en betalingen ten behoeve van levensonderhoud
 
 1. Onder voorbehoud van de bepalingen van [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=18&z=2011-10-24&g=2011-10-24), mogen pensioenen en andere soortgelijke beloningen (met inbegrip van een afkoopsom) ter zake van een vroegere dienstbetrekking of werkzaamheden als zelfstandige en lijfrenten (met inbegrip van een afkoopsom) afkomstig uit een verdragsluitende partij en betaald aan een inwoner van de andere verdragsluitende partij in de eerstgenoemde verdragsluitende partij worden belast.
 
@@ -360,7 +382,7 @@ Door de overdracht van een pensioen of een soortgelijke beloning of lijfrente va
 
 6. Periodieke betalingen gedaan uit hoofde van een schriftelijke scheidingsovereenkomst of een echtscheidingsvonnis, onderhoudsuitkeringen in verband met scheiding, of verplichte ondersteuning, met inbegrip van betalingen voor het levensonderhoud van een kind, alsmede afkoopsommen in plaats daarvan, betaald door een inwoner van een verdragsluitende partij aan een inwoner van de andere verdragsluitende partij worden in geen van de verdragsluitende partijen belast indien de schuldenaar in de eerstgenoemde verdragsluitende partij geen recht heeft op aftrek van de belasting voor dergelijke betalingen. Indien de schuldenaar in de eerstgenoemde verdragsluitende partij voor dergelijke betalingen evenwel recht heeft op aftrek van de belasting, mogen deze betalingen in beide verdragsluitende partijen worden belast.
 
-#### Artikel 18. Overheidsfuncties
+##### Artikel 18. Overheidsfuncties
 
 - a. Salarissen, lonen en andere soortgelijke beloningen, niet zijnde een pensioen, betaald door de regering van een verdragsluitende partij of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan, aan een natuurlijke persoon ter zake van diensten verricht voor die verdragsluitende partij of dat onderdeel of dat publiekrechtelijke lichaam, zijn slechts in die verdragsluitende partij belastbaar.
 
@@ -376,11 +398,11 @@ Door de overdracht van een pensioen of een soortgelijke beloning of lijfrente va
 
 3. De bepalingen van de voorgaande leden van dit artikel zijn niet van toepassing op salarissen, lonen en andere soortgelijke beloningen of op pensioenen (met inbegrip van een afkoopsom) ter zake van diensten verricht in het kader van een bedrijf, uitgeoefend door de regering van een verdragsluitende partij of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan. In dat geval zijn, naar gelang van het geval, de bepalingen van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=14&z=2011-10-24&g=2011-10-24), [15](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=15&z=2011-10-24&g=2011-10-24), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=16&z=2011-10-24&g=2011-10-24) en [17](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=17&z=2011-10-24&g=2011-10-24) van toepassing.
 
-#### Artikel 19. Studenten
+##### Artikel 19. Studenten
 
 Beloningen en betalingen die een student die inwoner is of onmiddellijk voorafgaande aan zijn bezoek aan een verdragsluitende partij inwoner was van de andere verdragsluitende partij en die uitsluitend voor zijn opleiding in de eerstbedoelde verdragsluitende partij verblijft, ontvangt ten behoeve van zijn onderhoud of opleiding, zijn in die verdragsluitende partij niet belastbaar, mits deze beloningen en betalingen afkomstig zijn uit bronnen buiten die verdragsluitende partij.
 
-#### Artikel 20. Overige inkomsten
+##### Artikel 20. Overige inkomsten
 
 1. Bestanddelen van het inkomen die worden verkregen door een inwoner van een verdragsluitende partij die de uiteindelijke gerechtigde is, van waaruit ook afkomstig, die niet in de voorgaande artikelen van dit Verdrag zijn behandeld, zijn slechts in die verdragsluitende partij belastbaar.
 
@@ -390,7 +412,7 @@ Beloningen en betalingen die een student die inwoner is of onmiddellijk voorafga
 
 ### HOOFDSTUK IV. VERMIJDEN VAN DUBBELE BELASTING
 
-#### Artikel 21. Methoden voor het vermijden van dubbele belasting
+##### Artikel 21. Methoden voor het vermijden van dubbele belasting
 
 1. Nederland is bevoegd bij het heffen van belasting van zijn inwoners in de grondslag waarnaar de belasting wordt geheven, de bestanddelen van het inkomen te begrijpen die overeenkomstig de bepalingen van dit Verdrag mogen worden belast of uitsluitend mogen worden belast in de Speciale Administratieve Regio Hongkong.
 
@@ -406,7 +428,7 @@ Dit lid zal een tegemoetkoming nu of in de toekomst verleend uit hoofde van de b
 
 ### HOOFDSTUK V. BIJZONDERE BEPALINGEN
 
-#### Artikel 22. Werkzaamheden buitengaats
+##### Artikel 22. Werkzaamheden buitengaats
 
 1. De bepalingen van dit artikel vinden toepassing niettegenstaande enige andere bepaling van dit Verdrag. Dit artikel is echter niet van toepassing indien werkzaamheden buitengaats van een persoon voor die persoon een vaste inrichting vormen ingevolge de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=II&artikel=5&z=2011-10-24&g=2011-10-24).
 
@@ -432,7 +454,7 @@ Voor de toepassing van dit lid:
 
 6. Indien aan de hand van bewijsstukken wordt aangetoond dat in de Speciale Administratieve Regio Hongkong belasting is betaald over de bestanddelen van het inkomen die ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=7&z=2011-10-24&g=2011-10-24) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=14&z=2011-10-24&g=2011-10-24) in verband met het derde lid van dit artikel en ingevolge het vijfde lid van dit artikel in de Speciale Administratieve Regio Hongkong mogen worden belast of uitsluitend mogen worden belast, verleent Nederland een vermindering van zijn belasting die wordt berekend overeenkomstig de regels die zijn neergelegd in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=IV&artikel=21&z=2011-10-24&g=2011-10-24).
 
-#### Artikel 23. Non-discriminatie
+##### Artikel 23. Non-discriminatie
 
 1. Personen die, wat Nederland betreft, onderdaan zijn, en, wat de Speciale Administratieve Regio Hongkong betreft, die gerechtigd zijn tot verblijf of zijn opgericht of anderszins daarin gevestigd zijn, worden in de andere verdragsluitende partij niet aan enige belasting of daarmee verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmee verband houdende verplichtingen waaraan personen die gerechtigd zijn tot verblijf, zijn opgericht of anderszins zijn gevestigd in die andere verdragsluitende partij (zijnde de Speciale Administratieve Regio Hongkong) of onderdanen van die andere verdragsluitende partij (zijnde Nederland) onder dezelfde omstandigheden, in het bijzonder met betrekking tot de woonplaats, zijn of kunnen worden onderworpen. Deze bepaling is, niettegenstaande de bepalingen van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=I&artikel=1&z=2011-10-24&g=2011-10-24), ook van toepassing op personen die geen inwoner zijn van een of van beide verdragsluitende partijen.
 
@@ -444,7 +466,7 @@ Voor de toepassing van dit lid:
 
 5. Ondernemingen van een verdragsluitende partij, waarvan het kapitaal geheel of gedeeltelijk, onmiddellijk of middellijk, in het bezit is van of wordt beheerst door een of meer inwoners van de andere verdragsluitende partij, worden in de eerstbedoelde verdragsluitende partij niet aan enige belastingheffing of daarmee verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmede verband houdende verplichtingen waaraan andere soortgelijke ondernemingen van de eerstbedoelde verdragsluitende partij zijn of kunnen worden onderworpen.
 
-#### Artikel 24. Regeling voor onderling overleg
+##### Artikel 24. Regeling voor onderling overleg
 
 1. Indien een persoon van oordeel is dat de maatregelen van een van de of van beide verdragsluitende partijen voor hem leiden of zullen leiden tot een belastingheffing die niet in overeenstemming is met de bepalingen van dit Verdrag, kan hij, ongeacht de rechtsmiddelen waarin de nationale wetgeving van die verdragsluitende partijen voorziet, zijn geval voorleggen aan de bevoegde autoriteit van de verdragsluitende partij waarvan hij inwoner is, of, indien zijn geval valt onder [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=V&artikel=23&z=2011-10-24&g=2011-10-24), aan die van de verdragsluitende partij waarvan hij onderdaan is (zijnde Nederland) of de verdragsluitende partij waar hij gerechtigd is tot verblijf, of is opgericht of anderszins is gevestigd (zijnde de Speciale Administratieve Regio Hongkong). Het geval moet worden voorgelegd binnen drie jaar nadat de maatregel die leidt tot een belastingheffing die niet in overeenstemming is met de bepalingen van dit Verdrag, voor het eerst te zijner kennis is gebracht.
 
@@ -462,7 +484,7 @@ Voor de toepassing van dit lid:
 
 worden onopgeloste kwesties die voortvloeien uit het geval op verzoek van de persoon voorgelegd voor arbitrage. Deze onopgeloste kwesties worden evenwel niet voorgelegd voor arbitrage indien een rechterlijke of bestuursrechtelijke instantie van een van beide verdragsluitende partijen reeds over deze kwesties beslist heeft. Deze arbitrale uitspraak is bindend voor beide verdragsluitende partijen en wordt ten uitvoer gelegd ongeacht eventuele termijnen in de nationale wetgeving van deze verdragsluitende partijen, tenzij de rechtstreeks betrokken persoon de wederzijdse overeenstemming voor de tenuitvoerlegging van de arbitrale uitspraak niet aanvaardt. De bevoegde autoriteiten van de verdragsluitende partijen regelen in onderling overleg de wijze van toepassing van dit lid.
 
-#### Artikel 25. Uitwisseling van informatie
+##### Artikel 25. Uitwisseling van informatie
 
 1. De bevoegde autoriteiten van de verdragsluitende partijen wisselen de informatie uit die naar verwachting van belang zal zijn voor de uitvoering van de bepalingen van dit Verdrag of voor de toepassing of handhaving van de nationale wetgeving van de verdragsluitende partijen betreffende de belastingen waarop dit Verdrag van toepassing is, voor zover de heffing van die belastingen niet in strijd is met het Verdrag. De uitwisseling van informatie wordt niet beperkt door [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=I&artikel=1&z=2011-10-24&g=2011-10-24).
 
@@ -480,11 +502,11 @@ worden onopgeloste kwesties die voortvloeien uit het geval op verzoek van de per
 
 5. De bepalingen van het derde lid mogen in geen geval zodanig worden uitgelegd dat het een verdragsluitende partij toegestaan is het verschaffen van informatie te weigeren uitsluitend op grond van het feit dat de informatie berust bij een bank, een andere financiële instelling, een gevolmachtigde, of een persoon die bij wijze van vertegenwoordiging of als vertrouwenspersoon optreedt, dan wel omdat deze betrekking heeft op eigendomsbelangen in een persoon.
 
-#### Artikel 26. Leden van regeringsmissies
+##### Artikel 26. Leden van regeringsmissies
 
 De bepalingen in dit Verdrag tasten in geen enkel opzicht de fiscale voorrechten aan die leden van regeringsmissies, met inbegrip van consulaire posten, ontlenen aan de algemene regels van het internationaal recht of aan de bepalingen van bijzondere internationale overeenkomsten.
 
-#### Artikel 27. Overige bepalingen
+##### Artikel 27. Overige bepalingen
 
 1. Geen enkele bepaling van dit Verdrag doet afbreuk aan het recht van beide verdragsluitende partijen hun nationale wetgeving en maatregelen inzake het ontgaan van belasting toe te passen, ongeacht of deze als zodanig zijn omschreven.
 
@@ -494,7 +516,7 @@ De bepalingen in dit Verdrag tasten in geen enkel opzicht de fiscale voorrechten
 
 artikel 17, derde lid, onderdeel b juncto artikel 17a, eerste lid, onderdeel c, van de Wet op de vennootschapsbelasting 1969 of gelijke of in wezen gelijksoortige bepalingen die deze artikelen vervangen.
 
-#### Artikel 28. Uitbreiding tot andere gebieden
+##### Artikel 28. Uitbreiding tot andere gebieden
 
 1. Dit Verdrag kan, hetzij in zijn geheel, hetzij met de noodzakelijke wijzigingen, worden uitgebreid tot zowel de Nederlandse Antillen als Aruba, of tot de Nederlandse Antillen of Aruba afzonderlijk, of de rechtsopvolgers van één van de of van beide landen, indien het desbetreffende land belastingen heft die in wezen gelijksoortig zijn aan de belastingen waarop het Verdrag van toepassing is. Een dergelijke uitbreiding wordt van kracht met ingang van een dergelijke datum en met inachtneming van wijzigingen en voorwaarden, daaronder begrepen voorwaarden ten aanzien van de beëindiging, nader vast te stellen en overeen te komen bij een notawisseling.
 
@@ -502,7 +524,7 @@ artikel 17, derde lid, onderdeel b juncto artikel 17a, eerste lid, onderdeel c, 
 
 ### HOOFDSTUK VI. SLOTBEPALINGEN
 
-#### Artikel 29. Inwerkingtreding
+##### Artikel 29. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking vijf dagen na de laatste van de data waarop de onderscheiden verdragsluitende partijen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de wettelijk vereiste formaliteiten voor het in werking doen treden van dit Verdrag is voldaan.
 
@@ -512,7 +534,7 @@ artikel 17, derde lid, onderdeel b juncto artikel 17a, eerste lid, onderdeel c, 
 
 - b. in Nederland ter zake van de Nederlandse belasting voor belastingjaren en -tijdvakken beginnend op of na 1 januari 2011.
 
-#### Artikel 30. Beëindiging
+##### Artikel 30. Beëindiging
 
 Dit Verdrag blijft van kracht totdat het door een verdragsluitende partij wordt beëindigd. Elk van de verdragsluitende partijen kan dit Verdrag beëindigen door de andere verdragsluitende partij ten minste zes maanden voor het einde van enig kalenderjaar na het verstrijken van een periode van vijf jaar na de datum van inwerkingtreding van het Verdrag schriftelijk kennis te geven van de beëindiging. In dat geval houdt het Verdrag op van toepassing te zijn:
 
@@ -522,17 +544,17 @@ Dit Verdrag blijft van kracht totdat het door een verdragsluitende partij wordt 
 
 Op het tijdstip van de ondertekening van het Verdrag tussen het Koninkrijk der Nederlanden en de Speciale Administratieve Regio Hongkong van de Volksrepubliek China tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (het „Verdrag”) zijn de regeringen van de verdragsluitende partijen de volgende bepalingen overeengekomen die een integrerend onderdeel uitmaken van dit Verdrag.
 
-#### I. Algemeen
+##### I. Algemeen
 
 1. Het is wel te verstaan dat het OESO-commentaar evenals latere aanpassingen ter verduidelijking daarvan belangrijke richtlijnen vormen bij de uitlegging van de bepalingen van dit Verdrag die op het tijdstip van de ondertekening gelijk of in wezen gelijk zijn aan de desbetreffende bepalingen van het OESO-modelverdrag ter zake van het inkomen en het vermogen. De strekking van de voorgaande volzin is niet van toepassing op daarmee strijdige uitleggingen die in dit Protocol zijn overeengekomen, op daarmee strijdige uitleggingen die na de inwerkingtreding van het Verdrag tussen de bevoegde autoriteiten zijn overeengekomen noch op voorbehouden of commentaar van een van de verdragsluitende partijen op het OESO-modelverdrag inzake belastingen of het OESO-commentaar.
 
 2. Voor de toepassing van dit Verdrag wordt een bestanddeel van het inkomen, de winst of een voordeel verkregen door tussenkomst van een persoon die fiscaal transparant is krachtens de wetgeving van een van beide verdragsluitende partijen, geacht te zijn verworven door een inwoner van een verdragsluitende partij voor zover dat bestanddeel, die winst of dat voordeel voor de toepassing van de belastingwetgeving van die verdragsluitende partij wordt behandeld als het inkomen, de winst of het voordeel van die inwoner.
 
-#### II. Ad [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=I&artikel=2&z=2011-10-24&g=2011-10-24)
+##### II. Ad [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=I&artikel=2&z=2011-10-24&g=2011-10-24)
 
 In dit Verdrag wordt onder de uitdrukkingen „belasting van de Speciale Administratieve Regio Hongkong” en „Nederlandse belasting” niet verstaan een boete of interest (wat de Speciale Administratieve Regio Hongkong betreft met inbegrip van enig bedrag waarmee de belasting van de Speciale Administratieve Regio Hongkong wegens verzuim verhoogd is en teruggevorderd wordt en „aanvullende belasting” ingevolge artikel 82A van de **Inland Revenue Ordinance**) geheven uit hoofde van de wetgeving van een van de verdragsluitende partijen ter zake van de belastingen waarop dit Verdrag ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=I&artikel=2&z=2011-10-24&g=2011-10-24) van toepassing is.
 
-#### III. Ad [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=II&artikel=4&z=2011-10-24&g=2011-10-24)
+##### III. Ad [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=II&artikel=4&z=2011-10-24&g=2011-10-24)
 
 1. Een natuurlijke persoon die aan boord van een schip woont zonder een werkelijke woonplaats in een van de verdragsluitende partijen te hebben, wordt geacht inwoner te zijn van de verdragsluitende partij waarin het schip zijn thuishaven heeft.
 
@@ -548,11 +570,11 @@ In dit Verdrag wordt onder de uitdrukkingen „belasting van de Speciale Adminis
 
 - e. of de vaststelling dat de persoon inwoner is van een van de verdragsluitende partijen maar voor de toepassing van het Verdrag niet van de andere verdragsluitende partij het risico met zich brengt dat het Verdrag of de nationale wetgeving van een van de verdragsluitende partijen niet naar behoren of onjuist wordt toegepast.
 
-#### IV. Ad [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=II&artikel=5&z=2011-10-24&g=2011-10-24), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=6&z=2011-10-24&g=2011-10-24), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=7&z=2011-10-24&g=2011-10-24), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=13&z=2011-10-24&g=2011-10-24) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=V&artikel=22&z=2011-10-24&g=2011-10-24)
+##### IV. Ad [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=II&artikel=5&z=2011-10-24&g=2011-10-24), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=6&z=2011-10-24&g=2011-10-24), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=7&z=2011-10-24&g=2011-10-24), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=13&z=2011-10-24&g=2011-10-24) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=V&artikel=22&z=2011-10-24&g=2011-10-24)
 
 Het is wel te verstaan dat rechten op de exploratie en exploitatie van natuurlijke hulpbronnen worden aangemerkt als een vaste inrichting in de verdragsluitende partij op wier zeebodem en ondergrond daarvan deze rechten betrekking hebben. Voorts is het wel te verstaan dat voornoemde rechten mede belangen in dergelijke rechten omvatten.
 
-#### V. Ad [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=7&z=2011-10-24&g=2011-10-24)
+##### V. Ad [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=7&z=2011-10-24&g=2011-10-24)
 
 1. Met betrekking tot [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=7&z=2011-10-24&g=2011-10-24):
 
@@ -562,13 +584,13 @@ Het is wel te verstaan dat rechten op de exploratie en exploitatie van natuurlij
 
 2. Vergoedingen voor technische diensten, waaronder begrepen studies of onderzoeken van wetenschappelijke, geologische of technische aard, of voor diensten van adviserende of toezichthoudende aard, worden aangemerkt als vergoedingen waarop de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=7&z=2011-10-24&g=2011-10-24) van toepassing zijn.
 
-#### VI. Ad [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=8&z=2011-10-24&g=2011-10-24) en [29](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=VI&artikel=29&z=2011-10-24&g=2011-10-24)
+##### VI. Ad [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=8&z=2011-10-24&g=2011-10-24) en [29](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=VI&artikel=29&z=2011-10-24&g=2011-10-24)
 
 1. Het [Verdrag tussen het Koninkrijk der Nederlanden en de Speciale Administratieve Regio Hongkong van de Volksrepubliek China tot het vermijden van dubbele belasting van inkomsten, winsten, vermogenswinsten of vermogen van een onderneming die schepen exploiteert in het internationale verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0001497), ondertekend te Hongkong op 2 november 2000 (hierna te noemen „het Scheepvaartverdrag”) wordt bij de inwerkingtreding van dit Verdrag beëindigd. De bepalingen van het Scheepvaartverdrag blijven echter van toepassing op belastingjaren en -tijdvakken die zijn verstreken voor het tijdstip waarop de bepalingen van dit Verdrag van kracht worden.
 
 2. Het is wel te verstaan dat [artikel 8A van de Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Hongkong inzake luchtdiensten](https://wetten.overheid.nl/jci1.3:c:BWBV0002782&artikel=8A), ondertekend te Den Haag op 17 september 1986 (hierna te noemen de „Luchtvaartovereenkomst”) niet van kracht is zolang dit Verdrag van kracht is. De bepalingen van de Luchtvaartovereenkomst blijven echter van toepassing op belastingjaren en -tijdvakken die zijn verstreken voor het tijdstip waarop de bepalingen van dit Verdrag van kracht worden.
 
-#### VII. Ad [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=10&z=2011-10-24&g=2011-10-24) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=13&z=2011-10-24&g=2011-10-24)
+##### VII. Ad [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=10&z=2011-10-24&g=2011-10-24) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=13&z=2011-10-24&g=2011-10-24)
 
 1. Een persoon wordt voor de toepassing van [artikel 10, derde lid, onderdeel a, iv](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=10&z=2011-10-24&g=2011-10-24), uitsluitend als hoofdkantoor aangemerkt indien:
 
@@ -600,19 +622,19 @@ mits de aankoop of verkoop van aandelen op de effectenbeurs niet impliciet of ex
 
 - b. een door de Regering van de Speciale Administratieve Regio Hongkong aangewezen en door de bevoegde autoriteiten van beide verdragsluitende partijen onderling overeengekomen financiële instelling.
 
-#### VIII. Ad [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=10&z=2011-10-24&g=2011-10-24), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=11&z=2011-10-24&g=2011-10-24) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=12&z=2011-10-24&g=2011-10-24)
+##### VIII. Ad [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=10&z=2011-10-24&g=2011-10-24), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=11&z=2011-10-24&g=2011-10-24) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=12&z=2011-10-24&g=2011-10-24)
 
 Indien aan de bron belasting is geheven die het belastingbedrag dat ingevolge de bepalingen van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=10&z=2011-10-24&g=2011-10-24), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=11&z=2011-10-24&g=2011-10-24) of [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=12&z=2011-10-24&g=2011-10-24) mag worden geheven te boven gaat, moeten verzoeken om teruggaaf van het daarboven uitgaande belastingbedrag worden ingediend bij de bevoegde autoriteit van de verdragsluitende partij die de belasting heeft geheven, binnen een tijdvak van drie jaar na afloop van het kalenderjaar waarin de belasting is geheven.
 
-#### IX. Ad [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=10&z=2011-10-24&g=2011-10-24) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=13&z=2011-10-24&g=2011-10-24)
+##### IX. Ad [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=10&z=2011-10-24&g=2011-10-24) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=13&z=2011-10-24&g=2011-10-24)
 
 Het is wel te verstaan dat inkomsten die worden ontvangen in verband met de (gedeeltelijke) liquidatie van een lichaam of een inkoop van eigen aandelen door een lichaam worden behandeld als inkomsten uit aandelen en niet als vermogenswinsten.
 
-#### X. Ad [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=15&z=2011-10-24&g=2011-10-24)
+##### X. Ad [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=III&artikel=15&z=2011-10-24&g=2011-10-24)
 
 Het is wel te verstaan dat indien een lichaam inwoner is van Nederland, de uitdrukking „lid van de raad van beheer” zowel een bestuurder als een commissaris omvat. Het is wel te verstaan dat „bestuurder” of „commissaris” van een Nederlands lichaam betrekking heeft op personen die als zodanig zijn benoemd door de algemene vergadering van aandeelhouders of door enig ander bevoegd orgaan van dat lichaam, en die zijn belast met de algemene leiding van het lichaam, onderscheidenlijk met het toezicht daarop.
 
-#### XI. Ad [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=V&artikel=25&z=2011-10-24&g=2011-10-24)
+##### XI. Ad [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=V&artikel=25&z=2011-10-24&g=2011-10-24)
 
 Het is wel te verstaan dat [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0004190&hoofdstuk=V&artikel=25&z=2011-10-24&g=2011-10-24) de verdragsluitende partijen niet verplicht uit eigener beweging of automatisch informatie uit te wisselen.
 

@@ -1,13 +1,37 @@
 ---
 title: "Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties"
 identifier: "BWBV0005536"
-categorie: "Internationaal recht"
-publicatiedatum: 1948-12-02
-laatste_update: 1948-12-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005536"
+country: "nl"
+rank: "verdrag"
+publication_date: "1948-12-02"
+last_updated: "1948-12-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005536"
+soort: "verdrag"
+stam_id: "10004694753"
+version_id: "10004957382"
+internal_id: "C10007492781"
+label_id: "10004678734"
+dtd_version: "2.0"
+original_entry_into_force: "1948-12-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005536/1948-12-02/0"
+intitule_bron: "Stb.1949-J 67"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1949-02-11"
+intitule_published: "1949-03-04"
+intitule_in_force: "1949-03-04"
+intitule_status: "goed"
+original_publication: "Stb.1949-J 67"
+original_signed_date: "1949-02-11"
+original_published_date: "1949-03-04"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1948-12-02"
+jci_1_3: "jci1.3:c:BWBV0005536&z=1948-12-02&g=1948-12-02"
+jci_1_0: "1.0:c:BWBV0005536&g=1948-12-02"
+citeertitel_status: "officieel"
+signed_date: "1949-02-11"
+entry_into_force: "1948-12-02"
 ---
-
 # Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties
 
 Aangezien de Algemene Vergadering van de Verenigde Naties op 13 Februari 1946 een resolutie aannam, strekkende tot zo ver mogelijke unificatie van de voorrechten en immuniteiten, welke de Verenigde Naties en de verschillende gespecialiseerde organisaties genieten;
@@ -16,7 +40,7 @@ Aangezien besprekingen betreffende de ten uitvoerlegging van voornoemde resoluti
 
 Heeft de Algemene Vergadering derhalve in een resolutie, aangenomen op 21 November 1947, het volgende verdrag goedgekeurd, hetwelk aan de gespecialiseerde organisaties ter aanvaarding en aan ieder Lid van de Verenigde Naties en iedere andere Staat, welke lid is van een of meer gespecialiseerde organisaties, ter toetreding wordt overgelegd.
 
-#### Artikel I. Definities en omvang
+##### Artikel I. Definities en omvang
 
 § 1. In dit Verdrag:
 
@@ -64,7 +88,7 @@ Heeft de Algemene Vergadering derhalve in een resolutie, aangenomen op 21 Novemb
 
 § 2. Elke Staat, partij bij dit Verdrag, past met betrekking tot elke gespecialiseerde organisatie, waarop dit Verdrag van toepassing is overeenkomstig paragraaf 37, de voorrechten en immuniteiten toe, welke in de standaardbepalingen zijn voorzien, op de voorwaarden, zoals die daarin zijn gespecificeerd, behoudens de in die bepalingen aangebrachte wijzigingen, welke vervat zijn in de definitieve (of herziene) tekst van het aanhangsel, dat op die organisatie betrekking heeft en ingevolge de paragrafen 36 en 38 is overgelegd.
 
-#### Artikel II. Rechtspersoonlijkheid
+##### Artikel II. Rechtspersoonlijkheid
 
 § 3. De gespecialiseerde organisaties bezitten rechtspersoonlijkheid. Zij hebben de bevoegdheid:
 
@@ -74,7 +98,7 @@ Heeft de Algemene Vergadering derhalve in een resolutie, aangenomen op 21 Novemb
 
 - c. in rechte te verschijnen.
 
-#### Artikel III. Eigendommen, fondsen en bezittingen
+##### Artikel III. Eigendommen, fondsen en bezittingen
 
 § 4. De gespecialiseerde organisaties, haar eigendommen en bezittingen, waar deze ook gelegen zijn en wie deze ook onder zich heeft, zijn vrijgesteld van rechtsvervolging, behoudens wanneer zij in een bijzonder geval uitdrukkelijk afstand hebben gedaan van haar immuniteit. Het is echter wel verstaan, dat afstand van immuniteit zich niet uitstrekt tot enige maatregel van tenuitvoerlegging.
 
@@ -100,7 +124,7 @@ Heeft de Algemene Vergadering derhalve in een resolutie, aangenomen op 21 Novemb
 
 § 10. Terwijl de gespecialiseerde organisaties in principe geen vrijstelling zullen opeisen van accijnzen en van belastingen op de verkoop van roerend en onroerend goed, welk een deel vormen van de te betalen prijs, zullen niettemin, wanneer de gespecialiseerde organisaties voor officieel gebruik belangrijke inkopen doen van goederen, waarop zodanige rechten en belastingen gelegd zijn of gelegd kunnen worden, de Staten, Partij bij dit Verdrag, telkens wanneer dit mogelijk is, de nodige administratieve regelingen treffen voor de kwijtschelding of teruggave van het bedrag van zodanige rechten of belastingen.
 
-#### Artikel IV. Faciliteiten met betrekking tot communicatiemiddelen
+##### Artikel IV. Faciliteiten met betrekking tot communicatiemiddelen
 
 § 11. Elke gespecialiseerde organisatie geniet op het grondgebied van iedere Staat, Partij bij dit Verdrag voor haar officiële mededelingen een behandeling, die niet minder gunstig zal zijn dan die, welke door de Regering van die Staat wordt toegestaan aan enige andere Regering met inbegrip van haar diplomatieke missie, wat betreft prioriteiten, tarieven en belastingen op post, kabeltelegrammen, radiogrammen, telefoto's, telefoon en andere communicatiemiddelen, alsmede perstarieven voor mededelingen aan pers of radio.
 
@@ -110,7 +134,7 @@ De gespecialiseerde organisaties hebben het recht codes te gebruiken en haar cor
 
 Niets in deze paragraaf verbiedt het nemen van geschikte veiligheidsmaatregelen, welke bij een overeenkomst tussen een Staat, Partij bij dit Verdrag en een gespecialiseerde organisatie vastgesteld moeten worden.
 
-#### Artikel V. Vertegenwoordigers van leden
+##### Artikel V. Vertegenwoordigers van leden
 
 § 13. De vertegenwoordigers van leden op vergaderingen, die door een gespecialiseerde organisatie zijn bijeengeroepen, genieten gedurende de uitoefening van hun functies en gedurende hun reis naar en van de plaats van samenkomst de volgende voorrechten en immuniteiten:
 
@@ -134,7 +158,7 @@ Niets in deze paragraaf verbiedt het nemen van geschikte veiligheidsmaatregelen,
 
 § 17. De bepalingen van § 13, 14 en 15 zijn niet van toepassing op de autoriteiten van de Staat, waarvan de persoon een onderdaan is of waarvan hij een vertegenwoordiger is of is geweest.
 
-#### Artikel VI. Functionarissen
+##### Artikel VI. Functionarissen
 
 § 18. Elke gespecialiseerde organisatie geeft aan, op welke categorieën van functionarissen de bepalingen van dit artikel en artikel VIII van toepassing zijn. Zij doet met betrekking tot die organisatie daarvan mededeling aan de Regering van elke Staat, Partij bij dit Verdrag, alsmede aan de Secretaris-Generaal der Verenigde Naties. De namen van de functionarissen, die in deze categorieën begrepen zijn, worden van tijd tot tijd ter kennis van voornoemde Regeringen gebracht.
 
@@ -162,7 +186,7 @@ In het geval, dat andere functionarissen van gespecialiseerde organisaties voor 
 
 § 23. Iedere gespecialiseerde organisatie dient te allen tijde met de daarvoor aangewezen autoriteiten van de Statenleden samen te werken om de juiste rechtbedeling te bevorderen, het nakomen van politievoorschriften te verzekeren en te voorkomen, dat misbruik optreedt in verband met de voorrechten, immuniteiten en faciliteiten, bedoeld in dit artikel.
 
-#### Artikel VII. Misbruik van voorrechten
+##### Artikel VII. Misbruik van voorrechten
 
 § 24. Wanneer een Staat, Partij van dit Verdrag, van mening is, dat zich een misbruik heeft voorgedaan van een bij dit Verdrag verleend voorrecht of verleende immuniteit, wordt tussen die Staat en de betrokken gespecialiseerde organisatie overleg gepleegd teneinde vast te stellen, of zulk een misbruik heeft plaats gehad en indien dit het geval blijkt te zijn, teneinde te trachten een herhaling er van te voorkomen. Indien, tengevolge van dit overleg, niet een resultaat wordt bereikt, dat die Staat en de gespecialiseerde organisatie bevredigt, wordt de vraag, of er misbruik van een voorrecht of immuniteit heeft plaats gehad, overeenkomstig § 32 voorgelegd aan het Internationale Gerechtshof. Indien het Internationale Gerechtshof beslist, dat een dergelijk misbruik heeft plaats gehad, heeft de Staat, Partij bij dit Verdrag, die dit misbruik heeft ondervonden, het recht, na kennisgeving aan de gespecialiseerde organisatie, de voordelen van het voorrecht of de immuniteit, waarvan misbruik is gemaakt, aan de betrokken gespecialiseerde organisatie te onthouden.
 
@@ -176,7 +200,7 @@ In het geval, dat andere functionarissen van gespecialiseerde organisaties voor 
 
 - II. In geval van een funtionaris, op wien § 21 niet van toepassing is, geen besluit tot uitwijzing uit het land wordt uitgevaardigd, tenzij met goedkeuring van de Minister van Buitenlandse Zaken van het betrokken land, en een dergelijke goedkeuring wordt slechts verleend na overleg met het uitvoerende hoofd van de betrokken gespecialiseerde organisatie; en, indien tegen een functionaris een bevel tot uitwijzing wordt uitgevaardigd, heeft het uitvoerende hoofd van een gespecialiseerde organisatie het recht voor de persoon, tegen wie dit bevel is uitgevaardigd, in rechte te verschijnen.
 
-#### Artikel VIII. Laissez-passer
+##### Artikel VIII. Laissez-passer
 
 § 26. De functionarissen van de gespecialiseerde organisaties zijn gerechtigd de laissez-passer van de Verenigde Naties te gebruiken overeenkomstig de te treffen administratieve regelingen tussen de Secretaris-Generaal van de Verenigde Naties en de bevoegde autoriteiten van de gespecialiseerde organisaties, aan welke organisaties speciale bevoegdheden om de laissez-passer uit te geven zijn verleend. De Secretaris-Generaal van de Verenigde Naties stelt iedere Staat, Partij van dit Verdrag, in kennis van de aldus getroffen administratieve regelingen.
 
@@ -188,7 +212,7 @@ In het geval, dat andere functionarissen van gespecialiseerde organisaties voor 
 
 § 30. De uitvoerende hoofden, adjunct-uitvoerende hoofden, hoofden van afdelingen en andere functionarissen van een niet lagere rang dan die van hoofd van een afdeling van de gespecialiseerde organisaties, die op een laissez-passer reizen voor zaken van de gespecialiseerde organisaties, genieten dezelfde reis-faciliteiten als die, welke worden toegestaan aan ambtenaren van vergelijkbare rang, die deel uitmaken van diplomatieke zendingen.
 
-#### Artikel IX. Beslechting van geschillen
+##### Artikel IX. Beslechting van geschillen
 
 § 31. De gespecialiseerde organisaties treffen regelingen voor passende wijzen van beslechting van:
 
@@ -198,7 +222,7 @@ In het geval, dat andere functionarissen van gespecialiseerde organisaties voor 
 
 § 32. Alle geschillen, welke voortkomen uit de uitlegging of toepassing van dit Verdrag, worden gebracht voor het Internationale Gerechtshof, tenzij in een bepaald geval tussen de partijen is overeengekomen, dat zij zullen overgaan tot een andere wijze van beslechting. Indien een geschil ontstaat tussen een gespecialiseerde organisatie enerzijds en een lid anderzijds, wordt een advies verzocht omtrent de hierbij betrokken rechtsquaesties overeenkomstig [artikel 96 van het Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=96) en [artikel 65 van het Statuut van het Hof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509&artikel=65), alsmede overeenkomstig de desbetreffende bepalingen van de tussen de Verenigde Naties en de betrokken gespecialiseerde organisatie getroffen overeenkomsten. Het door het Hof gegeven advies wordt door de partijen als beslissend aanvaard.
 
-#### Artikel X. Aanhangsels en toepassing op elke gespecialiseerde organisatie
+##### Artikel X. Aanhangsels en toepassing op elke gespecialiseerde organisatie
 
 § 33. Bij haar toepassing op elke gespecialiseerde organisatie gelden de standaardbepalingen, behoudens de wijzigingen voorkomende in de definitieve (of herziene) tekst van het op die organisatie betrekking hebbende aanhangsel, zoals in de § 36 en 38 bepaald is.
 
@@ -218,7 +242,7 @@ In het geval, dat andere functionarissen van gespecialiseerde organisaties voor 
 
 Geen enkele bepaling van het Statuut van een gespecialiseerde organisatie, noch een recht en verplichting, welke de organisatie overigens mocht bezitten, verkrijgen of op zich nemen, kunnen alleen door de werking van dit Verdrag worden tenietgedaan of verminderd.
 
-#### Artikel XI. Slotbepalingen
+##### Artikel XI. Slotbepalingen
 
 § 41. Toetreding tot dit Verdrag door een Lid van de Verenigde Naties en (behoudens § 42) door een Staat lid van een gespecialiseerde organisatie geschiedt door het nederleggen van een akte van toetreding bij de Secretaris-Generaal van de Verenigde Naties, welke in werking treedt op de datum van zijn nederlegging.
 

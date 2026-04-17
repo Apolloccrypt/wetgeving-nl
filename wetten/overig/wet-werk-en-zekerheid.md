@@ -1,68 +1,95 @@
 ---
-title: "Wet werk en zekerheid"
+title: "Wet van 14 juni 2014 tot wijziging van verschillende wetten in verband met de hervorming van het ontslagrecht, wijziging van de rechtspositie van flexwerkers en wijziging van verschillende wetten in verband met het aanpassen van de Werkloosheidswet, het verruimen van de openstelling van de Wet inkomensvoorziening oudere werklozen en de beperking van de toegang tot de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers (Wet werk en zekerheid)"
 identifier: "BWBR0035254"
-categorie: "Overig"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035254"
+country: "nl"
+rank: "wet"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035254"
+soort: "wet"
+stam_id: "12705553"
+version_id: "21489922"
+internal_id: "C30951161"
+label_id: "12676034"
+dtd_version: "2.0"
+original_entry_into_force: "2014-07-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035254/2020-01-01/0"
+intitule_bron: "Stb.2014-216"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-06-14"
+intitule_published: "2014-06-24"
+intitule_in_force: "2014-07-17"
+intitule_status: "goed"
+original_publication: "Stb.2014-216"
+original_signed_date: "2014-06-14"
+original_published_date: "2014-06-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "33818"
+original_url_id: "stb-2014-216"
+entry_into_force_date: "2014-07-18"
+jci_1_3: "jci1.3:c:BWBR0035254&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0035254&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet werk en zekerheid"
+signed_date: "2014-06-14"
+entry_into_force: "2014-07-18"
 ---
-
-# Wet werk en zekerheid
-
-### Hoofdstuk 1. Wijzigingen in verband met hervorming flexibele arbeid en ontslagrecht
+# Wet van 14 juni 2014 tot wijziging van verschillende wetten in verband met de hervorming van het ontslagrecht, wijziging van de rechtspositie van flexwerkers en wijziging van verschillende wetten in verband met het aanpassen van de Werkloosheidswet, het verruimen van de openstelling van de Wet inkomensvoorziening oudere werklozen en de beperking van de toegang tot de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers (Wet werk en zekerheid)
 
 ### Hoofdstuk 1. Wijzigingen in verband met hervorming flexibele arbeid en ontslagrecht
 
-#### Artikel XXVI
+### Hoofdstuk 1. Wijzigingen in verband met hervorming flexibele arbeid en ontslagrecht
+
+##### Artikel XXVI
 
 Wijzigt de Werkloosheidswet.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt de Ziektewet.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Wijzigt de Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters.
 
-#### Artikel XXX
+##### Artikel XXX
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 Wijzigt de Wet inkomensvoorziening oudere werklozen.
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 Wijzigt de Toeslagenwet.
 
-#### Artikel XXXIV
+##### Artikel XXXIV
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
-#### Artikel XXXV
+##### Artikel XXXV
 
 Wijzigt de Wet overheidspersoneel onder de werknemersverzekeringen.
 
-#### Artikel XXXVI
+##### Artikel XXXVI
 
 Wijzigt de Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria.
 
-#### Artikel XXXVII
+##### Artikel XXXVII
 
 Wijzigt de Wet privatisering spoorwegpensioenfonds.
 
-#### Artikel XXXVIII
+##### Artikel XXXVIII
 
 Wijzigt de Wet inkomensvoorziening oudere werklozen.
 
@@ -78,127 +105,127 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel XXXIX
+##### Artikel XXXIX
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. [Artikel XXXII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&hoofdstuk=2&artikel=XXXII&z=2020-01-01&g=2020-01-01), kan terugwerken tot een bij dat besluit te bepalen tijdstip.
 
 2. [Artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&hoofdstuk=1&artikel=I&z=2020-01-01&g=2020-01-01), van deze wet treedt in werking met ingang van 1 juli 2015.
 
-#### Artikel XL
+##### Artikel XL
 
 Deze wet wordt aangehaald als: Wet werk en zekerheid.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Burgerlijk Wetboek Boek 2.
 
-#### Artikel III
+##### Artikel III
 
 Het [Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014) wordt ingetrokken, met dien verstande dat voor de verschillende artikelen of onderdelen van de artikelen van het Buitengewoon Besluit Arbeidsverhoudingen 1945 bij koninklijk besluit het tijdstip waarop deze vervallen verschillend kan worden gesteld.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet melding collectief ontslag.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Faillissementswet.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op de rechtsbijstand.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet personenvervoer 2000.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet sociale werkvoorziening.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Noodwet arbeidsvoorziening.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Algemene wet gelijke behandeling.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet gelijke behandeling op grond van handicap of chronische ziekte.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wet gelijke behandeling op grond van leeftijd bij de arbeid.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet gelijke behandeling van mannen en vrouwen.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet op de economische delicten.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Wet op de loonvorming.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Wet arbeidsvoorwaarden grensoverschrijdende arbeid.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Pensioenwet.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten.
 
-#### Artikel XXIa
+##### Artikel XXIa
 
 Wijzigt de Wet educatie en beroepsonderwijs.
 
-#### Artikel XXIb
+##### Artikel XXIb
 
 Wijzigt de Wet op de expertisecentra.
 
-#### Artikel XXIc
+##### Artikel XXIc
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-#### Artikel XXId
+##### Artikel XXId
 
 Wijzigt de Wet op het primair onderwijs.
 
-#### Artikel XXIe
+##### Artikel XXIe
 
 Wijzigt de Wet op het voortgezet onderwijs.
 
-#### Artikel XXIf
+##### Artikel XXIf
 
 1. [Artikel 1.1.1, onderdeel z, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), [artikel 1.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.3), [hoofdstuk 4, titel 1, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=2), en [artikel 4.3.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.3.3), zoals deze luidden de dag voor het tijdstip van inwerkingtreding van [artikel XXIa](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&hoofdstuk=1&artikel=XXIa&z=2020-01-01&g=2020-01-01) blijven van toepassing op een beslissing die voor dat tijdstip is genomen op grond van [artikel 4.1.5, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.1.5).
 
@@ -210,7 +237,7 @@ Wijzigt de Wet op het voortgezet onderwijs.
 
 5. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), [24e1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=24e1), [52 tot en met 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=52) en [53b, derde en zesde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53b), zoals deze luidden de dag voor het tijdstip van inwerkingtreding van [artikel XXIe](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&hoofdstuk=1&artikel=XXIe&z=2020-01-01&g=2020-01-01) blijven van toepassing op een beslissing die voor dat tijdstip is genomen op grond van [artikel 52, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=52).
 
-#### Artikel XXII
+##### Artikel XXII
 
 1. Het [Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014) alsmede [artikel 665](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=665) en [afdeling 9 van Boek 7, titel 10 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=9), zoals deze luidden de dag voor het tijdstip van inwerkingtreding van [artikel I, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&hoofdstuk=1&artikel=I&z=2020-01-01&g=2020-01-01), van deze wet, blijven van toepassing:
 
@@ -238,27 +265,27 @@ Wijzigt de Wet op het voortgezet onderwijs.
 
 - b. deze zijn geëindigd voor 1 juli 2015 en ten hoogste zes maanden na het einde van een voorafgaande arbeidsovereenkomst een arbeidsovereenkomst voor onbepaalde tijd is ingegaan.
 
-#### Artikel XXIIa
+##### Artikel XXIIa
 
 1. [Artikel 628, leden 5 tot en met 7, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=628), zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&hoofdstuk=1&artikel=I&z=2020-01-01&g=2020-01-01), van deze wet, blijft van toepassing op een op die dag geldende collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan waarin toepassing is gegeven aan artikel 628, lid 7, van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor dat tijdstip, en de arbeidsovereenkomsten waarop deze van toepassing zijn of worden, voor de duur van de looptijd van de collectieve arbeidsovereenkomst of regeling, maar ten hoogste gedurende achttien maanden na die inwerkingtreding.
 
 2. [Artikel 628, leden 5 tot en met 7, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=628), zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&hoofdstuk=1&artikel=I&z=2020-01-01&g=2020-01-01), van deze wet, blijft van toepassing op collectieve arbeidsovereenkomsten of regelingen door of namens daartoe bevoegde bestuursorganen tot en met de dag voor het tijdstip van inwerkingtreding van artikel I, onderdeel Ca, van deze wet, uitsluitend voor zover daarin vanwege buitengewone natuurlijke omstandigheden als bedoeld in [artikel 18 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18) toepassing is gegeven aan de in artikel 628, lid 7, van Boek 7 van het Burgerlijk Wetboek, zoals dat luidde voor het tijdstip van inwerkingtreding van artikel I, onderdeel C, van deze wet opgenomen afwijkingsmogelijkheid.
 
-#### Artikel XXIIb
+##### Artikel XXIIb
 
 1. [Artikel 652 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=652), zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van [artikel I, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&hoofdstuk=1&artikel=I&z=2020-01-01&g=2020-01-01), van deze wet blijft van toepassing op arbeidsovereenkomsten die tot stand zijn gekomen voor dat tijdstip.
 
 2. [Artikel 652 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=652), zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van [artikel I, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&hoofdstuk=1&artikel=I&z=2020-01-01&g=2020-01-01), van deze wet blijft van toepassing op een op die dag geldende collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan waarin toepassing is gegeven aan artikel 652, lid 6, van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor dat tijdstip, en de arbeidsovereenkomsten waarop deze van toepassing zijn of worden, voor de duur van de looptijd van de collectieve arbeidsovereenkomst of regeling, maar ten hoogste gedurende achttien maanden na die inwerkingtreding.
 
-#### Artikel XXIIc
+##### Artikel XXIIc
 
 Op arbeidsovereenkomsten die tot stand zijn gekomen voor de inwerkingtreding van [artikel I, onderdeel I, onder 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&hoofdstuk=1&artikel=I&z=2020-01-01&g=2020-01-01), blijft [artikel 653, leden 1 en 2, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=653), zoals dat luidde op de dag voor dat tijdstip van toepassing en is artikel 653, lid 3, van Boek 7 van het Burgerlijk Wetboek, zoals dat komt te luiden na dat tijdstip niet van toepassing.
 
-#### Artikel XXIId
+##### Artikel XXIId
 
 [Artikel 668, leden 1, 2, 3 en 4, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=668), zoals dat artikel komt te luiden na het tijdstip van inwerkingtreding van [artikel I, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&hoofdstuk=1&artikel=I&z=2020-01-01&g=2020-01-01), van deze wet, is niet van toepassing op arbeidsovereenkomsten die eindigen binnen een maand na het tijdstip van inwerkingtreding van dat onderdeel.
 
-#### Artikel XXIIe
+##### Artikel XXIIe
 
 1. [Artikel 668a van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=668a), zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van [artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&hoofdstuk=1&artikel=I&z=2020-01-01&g=2020-01-01), van deze wet, blijft van toepassing op een op die dag geldende collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan waarin hetgeen in artikel 668a van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op die dag, van toepassing is verklaard of waarin toepassing is gegeven aan artikel 668a, lid 5, van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor dat tijdstip, en de arbeidsovereenkomsten waarop deze van toepassing zijn of worden, voor de duur van de looptijd van de collectieve arbeidsovereenkomst of regeling, maar ten hoogste gedurende twaalf maanden na die inwerkingtreding.
 
@@ -266,57 +293,57 @@ Op arbeidsovereenkomsten die tot stand zijn gekomen voor de inwerkingtreding van
 
 3. In afwijking van [artikel 668a, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=668a), zoals dat artikel komt te luiden na het tijdstip van inwerkingtreding van [artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&hoofdstuk=1&artikel=I&z=2020-01-01&g=2020-01-01), van deze wet worden de arbeidsovereenkomst, bedoeld in het eerste lid, en de daaraan voorafgaande arbeidsovereenkomsten geacht elkaar niet te hebben opgevolgd, indien zij elkaar hebben opgevolgd met tussenpozen van meer dan drie maanden, of met tussenpozen langer dan de tussenpoos die gold op grond van een collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan waarin toepassing is gegeven aan artikel 668a, vijfde lid, van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van artikel I, onderdeel N, van de Wet werk en zekerheid.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 1. [Artikel 691 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691), zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van [artikel I, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&hoofdstuk=1&artikel=I&z=2020-01-01&g=2020-01-01), van deze wet blijft van toepassing op arbeidsovereenkomsten die tot stand zijn gekomen voor dat tijdstip.
 
 2. [Artikel 691 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691), zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van [artikel I, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&hoofdstuk=1&artikel=I&z=2020-01-01&g=2020-01-01), van deze wet, blijft van toepassing op een op die dag geldende collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan waarin toepassing is gegeven aan artikel 691, lid 7, van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor dat tijdstip, en de arbeidsovereenkomsten waarop deze van toepassing zijn of worden, voor de duur van de looptijd van de collectieve arbeidsovereenkomst of regeling, maar ten hoogste gedurende achttien maanden na die inwerkingtreding.
 
-#### Artikel XXIIIa
+##### Artikel XXIIIa
 
 Wijzigt deze wet.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XXIIIb
+##### Artikel XXIIIb
 
 Wijzigt deze wet.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XXIIIc
+##### Artikel XXIIIc
 
 Wijzigt de Wet Huis voor klokkenluiders(kamerstuk 33258).
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XXIIId
+##### Artikel XXIIId
 
 Wijzigt de Wet Huis voor klokkenluiders(kamerstuk 33258).
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XXIIIe
+##### Artikel XXIIIe
 
 Wijzigt deze wet.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XXIIIf
+##### Artikel XXIIIf
 
 Wijzigt de Wet Huis voor klokkenluiders(kamerstuk 33258).
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel XXVa
+##### Artikel XXVa
 
 Vervallen
 

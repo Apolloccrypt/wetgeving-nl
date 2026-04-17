@@ -1,18 +1,43 @@
 ---
 title: "Besluit rechtspositie Kustwacht BES"
 identifier: "BWBR0028499"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028499"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028499"
+soort: "AMvB-BES"
+stam_id: "10827323"
+version_id: "17806252"
+internal_id: "C24849691"
+label_id: "10802464"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028499/2010-10-10/0"
+intitule_bron: "Stb.2010-428"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-22"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-428"
+original_signed_date: "2010-09-22"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-428"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028499&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028499&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-22"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit rechtspositie Kustwacht BES
 
 #### § 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen, wordt verstaan onder:
 
@@ -30,13 +55,13 @@ In dit besluit en de daarop berustende bepalingen, wordt verstaan onder:
 
 #### § 2. Aanstelling
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het geneeskundige onderzoek bedoeld in artikel 6, eerste lid, onderdeel c, van de WMABES alsmede het periodieke onderzoek, naar de geschiktheid voor het ambt van geüniformeerd ambtenaar, geschieden overeenkomstig het daaromtrent gestelde bij of krachtens de [Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876) en het [Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501).
 
 2. Als geüniformeerd ambtenaar is slechts geschikt de persoon wiens fysieke en psychische toestand doet verwachten, dat hij zal voldoen aan de eisen die aan hem worden gesteld en bestand zal zijn tegen de daaraan verbonden vermoeienissen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ten aanzien van de belanghebbende wordt door Onze Minister een veiligheidsonderzoek ingesteld.
 
@@ -58,7 +83,7 @@ In dit besluit en de daarop berustende bepalingen, wordt verstaan onder:
 
 4. Aanstelling vindt niet plaats indien op grond van de uitslag van het veiligheidsonderzoek naar het oordeel van Onze Minister daartoe bezwaren bestaan.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De directeur van de Kustwacht doet jaarlijks onderzoeken of de geüniformeerde ambtenaar voldoet aan de normvaardigheidsvereisten voor de desbetreffende functie.
 
@@ -72,7 +97,7 @@ In dit besluit en de daarop berustende bepalingen, wordt verstaan onder:
 
 #### § 3. Functietoewijzing
 
-#### Artikel 5
+##### Artikel 5
 
 1. Functietoewijzing en ontheffing uit de functie geschiedt door Onze Minister. De geüniformeerde ambtenaar is gehouden de hem toegewezen functie te vervullen.
 
@@ -82,7 +107,7 @@ In dit besluit en de daarop berustende bepalingen, wordt verstaan onder:
 
 4. Onze Minister kan ten aanzien van de geüniformeerde ambtenaar die buiten staat is de hem toegewezen functie te vervullen, daaraan consequenties verbinden met betrekking tot toekomstige functietoewijzing.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij het nemen van een beslissing tot functietoewijzing houdt Onze Minister rekening met de volgende factoren:
 
@@ -96,7 +121,7 @@ In dit besluit en de daarop berustende bepalingen, wordt verstaan onder:
 
 2. Onze Minister kan aan de duur van de functievervulling een maximale termijn verbinden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De functies bij de Kustwacht vloeien voort uit een door Onze Minister van Defensie vastgesteld organisatieschema.
 
@@ -108,17 +133,17 @@ In dit besluit en de daarop berustende bepalingen, wordt verstaan onder:
 
 #### § 4. Rangen en bezoldiging
 
-#### Artikel 8
+##### Artikel 8
 
 De rangen en de daarbij behorende bezoldigingsschalen voor degenen die worden aangesteld als geüniformeerde ambtenaar zijn vermeld in de bijlage bij dit besluit.
 
 #### § 5. Bevordering
 
-#### Artikel 9
+##### Artikel 9
 
 Aan de geüniformeerde ambtenaar die een functie is toegewezen waaraan een hogere rang is verbonden dan de rang die hij bekleedt, wordt op de ingangsdatum van de functievervulling die hogere rang toegekend, tenzij hiervan bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028499&paragraaf=5&artikel=10&z=2010-10-10&g=2010-10-10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028499&paragraaf=5&artikel=11&z=2010-10-10&g=2010-10-10) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028499&paragraaf=5&artikel=12&z=2010-10-10&g=2010-10-10) wordt afgeweken.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een functie waaraan de rang van matroos, volmatroos of eerste volmatroos verbonden is, wordt vervuld op basis van een tijdelijke aanstelling voor een periode van ten hoogste vijf jaar.
 
@@ -138,13 +163,13 @@ De in het eerste lid genoemde periode kan op voordracht van de directeur van de 
 
 Na ommekomst van de tijdelijke aanstelling, bedoeld in dit artikel, zal Onze Minister zich inspannen voor plaatsing van de geüniformeerde ambtenaar bij de overheid op Bonaire, Sint Eustatius of Saba.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een functie waaraan de rang van kwartiermeester of hoger is verbonden, wordt vervuld op basis van een vaste aanstelling.
 
 2. Van het vereiste, bedoeld in het eerste lid, kan door Onze Minister op voorstel van de directeur van de Kustwacht worden afgeweken voor een periode van ten hoogste een jaar ten aanzien van de geüniformeerde ambtenaar in de rang van eerste volmatroos, die beoogd wordt een functie te vervullen waaraan de rang van kwartiermeester is verbonden en, op een later tijdstip, zo nodig, de rang van bootsman. Aan de tijdelijke vervulling als bedoeld in de eerste volzin, is een toelage verbonden als bedoeld in artikel 26 van de WMABES
 
-#### Artikel 12
+##### Artikel 12
 
 1. Met het oog op een evenwichtige loopbaanontwikkeling en ervaringsopbouw kan Onze Minister op voorstel van de directeur van de Kustwacht in vaste dienst aangestelde geüniformeerde ambtenaren voor een periode van twee jaar aanstellen in een rang die één schaal lager is dan de schaal die verbonden is aan de rang die behoort bij de door die geüniformeerd ambtenaar te vervullen functie. In bijzondere gevallen kan deze periode op voorstel van de directeur van de Kustwacht verlengd worden tot ten hoogste drie jaar.
 
@@ -152,7 +177,7 @@ Na ommekomst van de tijdelijke aanstelling, bedoeld in dit artikel, zal Onze Min
 
 #### § 6. Opleiding
 
-#### Artikel 13
+##### Artikel 13
 
 1. De geüniformeerd ambtenaar wordt bij aanstelling in beginsel aangewezen voor het volgen van de initiële opleiding. Deze opleiding is ten minste gericht op het verkrijgen van de benodigde kennis en vaardigheden voor de eerste functie of functies waarvoor hij is bestemd.
 
@@ -164,27 +189,27 @@ Na ommekomst van de tijdelijke aanstelling, bedoeld in dit artikel, zal Onze Min
 
 3. Onder de kosten van de opleiding valt niet de tijdens de opleiding genoten bezoldiging.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De geüniformeerde ambtenaar kan, al dan niet op eigen verzoek, door Onze Minister worden aangewezen voor het volgen van een bijscholingsopleiding om de benodigde kennis en vaardigheid te behouden die noodzakelijk zijn voor de vervulling van zijn functie, dan wel te verkrijgen voor de vervulling van functies binnen de groepen van functies waarvoor hij is bestemd. Hij wordt tijdig in de gelegenheid gesteld tot het volgen van die opleiding.
 
 2. Aan het volgen van de opleiding op verzoek is, voor wat betreft de verplichtingen die daaraan kunnen worden verbonden, het bepaalde in [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028499&paragraaf=6&artikel=13&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De geüniformeerde ambtenaar kan, al dan niet op eigen verzoek, door Onze Minister worden aangewezen voor het volgen van een omscholingsopleiding ter verkrijging van de benodigde kennis en vaardigheid voor de vervulling van functies binnen andere groepen van functies dan waarvoor hij tot dan toe was bestemd.
 
 2. Aan het volgen van de opleiding op verzoek is, voor wat betreft de verplichtingen die daaraan kunnen worden verbonden, het bepaalde in [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028499&paragraaf=6&artikel=13&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
 
-#### Artikel 16
+##### Artikel 16
 
 De geüniformeerde ambtenaar heeft, onder nader door Onze Minister te stellen regels, aanspraak op een vergoeding van de aan een bijscholings- of omscholingsopleiding verbonden noodzakelijke en te zijnen laste komende kosten.
 
-#### Artikel 17
+##### Artikel 17
 
 Onze Minister kan, indien de billijkheid dit naar zijn oordeel vordert, een geüniformeerd ambtenaar, op wie een verplichting rust als bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028499&paragraaf=6&artikel=13&z=2010-10-10&g=2010-10-10), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028499&paragraaf=6&artikel=14&z=2010-10-10&g=2010-10-10) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028499&paragraaf=6&artikel=15&z=2010-10-10&g=2010-10-10), geheel of gedeeltelijk van die verplichting ontheffen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De geüniformeerde ambtenaar, die zonder daarvoor ingevolge de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028499&paragraaf=6&artikel=13&z=2010-10-10&g=2010-10-10), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028499&paragraaf=6&artikel=14&z=2010-10-10&g=2010-10-10) of [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028499&paragraaf=6&artikel=15&z=2010-10-10&g=2010-10-10) te zijn aangewezen, voor eigen rekening een studie of opleiding volgt of heeft voltooid die naar het oordeel van Onze Minister mede dan wel volledig in het belang van de dienst is, kan volgens regels door Onze Minister te stellen, in aanmerking komen voor een tegemoetkoming in de aan de studie of opleiding verbonden kosten.
 
@@ -192,7 +217,7 @@ Onze Minister kan, indien de billijkheid dit naar zijn oordeel vordert, een geü
 
 #### § 7. Beoordelingen
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een geüniformeerd ambtenaar wordt periodiek en incidenteel beoordeeld met het doel om op basis van objectieve criteria inzicht te krijgen omtrent het functioneren van betrokkene en diens gedrag in relatie tot de functie.
 
@@ -202,7 +227,7 @@ Onze Minister kan, indien de billijkheid dit naar zijn oordeel vordert, een geü
 
 4. [vervallen.]
 
-#### Artikel 20
+##### Artikel 20
 
 1. Na toewijzing van een (nieuwe) functie aan een geüniformeerd ambtenaar, vindt na één jaar een beoordeling van de betrokkene plaats.
 
@@ -216,7 +241,7 @@ op ieder moment waarop de directeur van de Kustwacht een oordeel wenst te verkri
 
 4. Geen incidentele beoordeling wordt opgemaakt, dan nadat ten minste vier maanden zijn verstreken na de datum van vaststelling van de vorige beoordeling.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Zo spoedig mogelijk na het opmaken van een beoordeling vindt een beoordelingsgesprek plaats tussen de beoordelaars en de geüniformeerd ambtenaar. De ambtenaar wordt minimaal twee dagen tevoren op de hoogte gesteld van dit gesprek.
 
@@ -230,17 +255,17 @@ op ieder moment waarop de directeur van de Kustwacht een oordeel wenst te verkri
 
 6. Indien de beoordeelde ambtenaar bezwaren heeft terzake van zijn beoordeling dient hij binnen zes weken na vaststelling schriftelijk en gemotiveerd bezwaar in bij Onze Minister. Onze Minister beslist binnen zes weken na de datum van indiening van het bezwaar.
 
-#### Artikel 22
+##### Artikel 22
 
 Indien Onze Minister of de betrokken geüniformeerd ambtenaar zulks verzoekt, draagt de directeur van de Kustwacht er zorg voor dat de personeelsbeoordelingsadviseur bij het beoordelingsgesprek aanwezig is.
 
-#### Artikel 23
+##### Artikel 23
 
 [vervallen.]
 
 #### § 8. Dienst- en werktijden van de geüniformeerde ambtenaar
 
-#### Artikel 24
+##### Artikel 24
 
 1. Voor de geüniformeerde ambtenaren wordt de te verrichten dienst bij dienstrooster voorgeschreven door de directeur van de Kustwacht.
 
@@ -252,23 +277,23 @@ Indien Onze Minister of de betrokken geüniformeerd ambtenaar zulks verzoekt, dr
 
 5. Een dienstrooster wordt telkenmale aangelegd voor een periode van een maand.
 
-#### Artikel 25
+##### Artikel 25
 
 Een rustdag bestaat uit een dienstvrije periode van 24 aaneengesloten uren, in beginsel samenvallende met een kalenderdag.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De uren waarop de geüniformeerde ambtenaar, gewoonlijk dienst moet verrichten, dienen zo veel mogelijk te zijn gelegen op werkdagen van maandag tot en met vrijdag tussen 07:30 uur en 17:00 uur. In gevallen waarin het dienstbelang het noodzakelijk maakt en zulks een regelmatig karakter draagt, mogen andere werkuren worden voorgeschreven.
 
 2. De dienst dient voordat vijf diensturen zijn verricht door een pauze te worden onderbroken, gedurende welke de geüniformeerde ambtenaar gelegenheid wordt gegeven naar behoren een maaltijd te nuttigen. Indien om dringende redenen van dienstbelang de werktijd niet door een pauze als hiervoor bedoeld kan worden onderbroken, wordt in ieder geval aan de geüniformeerde ambtenaar gelegenheid gegeven een maaltijd te nuttigen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De geüniformeerde ambtenaar die in afwijking van het gestelde in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028499&paragraaf=8&artikel=26&z=2010-10-10&g=2010-10-10), ingevolge het voor hem geldende dienstrooster, regelmatig rouleert in dag-, avond- en nachtdienst dan wel in dag- en avonddienst is in continudienst werkzaam.
 
 2. In de regel zal een dagdienst niet eerder aanvangen dan te 06:00 uur, een avonddienst niet later eindigen dan te 24:00 uur en een nachtdienst niet eerder aanvangen dan te 22:00 uur en niet later eindigen dan te 08:00 uur.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Aan de geüniformeerde ambtenaar die in continudienst werkzaam is, worden per kwartaal 26 rustdagen toegekend en wel per kalendermaand tenminste acht.
 
@@ -284,7 +309,7 @@ Een rustdag bestaat uit een dienstvrije periode van 24 aaneengesloten uren, in b
 
 #### § 9. Vergoeding voor overwerk van de geüniformeerde ambtenaar
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien de belangen van de dienst zulks onvermijdelijk maken, verrichten de geüniformeerde ambtenaren overwerk.
 
@@ -318,7 +343,7 @@ Een rustdag bestaat uit een dienstvrije periode van 24 aaneengesloten uren, in b
 
 #### § 10. Vergoeding voor beschikbaarheid en bereikbaarheid van de geüniformeerde ambtenaar
 
-#### Artikel 30
+##### Artikel 30
 
 1. De directeur van de Kustwacht kan aan de geüniformeerde ambtenaren om redenen van dienstbelang opdragen dat zij zich gedurende een bepaalde tijd van niet minder dan vijftien minuten boven de voor hen vastgestelde werktijd beschikbaar en bereikbaar moeten houden teneinde bij oproep arbeid te gaan verrichten.
 
@@ -326,27 +351,27 @@ Een rustdag bestaat uit een dienstvrije periode van 24 aaneengesloten uren, in b
 
 #### § 11. Continudiensttoelage, feestdagtoelage en verschuivingstoelage van de geüniformeerd ambtenaar
 
-#### Artikel 31
+##### Artikel 31
 
 De geüniformeerd ambtenaar, die ingevolge het voor hem geldende dienstrooster, anders dan wegens varen, in continudienst werkzaam is, ontvangt een continudiensttoelage.
 
-#### Artikel 32
+##### Artikel 32
 
 De geüniformeerd ambtenaar die niet in continudienst werkzaam is, wordt, ingeval hij tijdelijk in het desbetreffende dienstrooster wordt ingedeeld, voor de duur van die indeling geacht in continudienst werkzaam te zijn.
 
-#### Artikel 33
+##### Artikel 33
 
 De continudiensttoelage bedraagt USD 101,– per maand, indien de geüniformeerd ambtenaar ingevolge het voor hem geldende dienstrooster rouleert in dag-, avond- en nachtdienst en USD 67,– per maand, indien hij ingevolge het voor hem geldende dienstrooster regelmatig rouleert in dag- en avonddienst.
 
-#### Artikel 34
+##### Artikel 34
 
 Gedurende de tijd dat de in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028499&paragraaf=11&artikel=31&z=2010-10-10&g=2010-10-10) bedoelde ambtenaar vrijstelling van dienst wegens bijzondere omstandigheden zonder behoud van inkomen geniet dan wel geschorst is of in strijd met zijn verplichtingen opzettelijk nalaat zijn dienst te verrichten, ontvangt hij geen continudiensttoelage.
 
-#### Artikel 35
+##### Artikel 35
 
 De geüniformeerd ambtenaar ontvangt voor dienst verricht ingevolge het voor hem geldende dienstrooster op een feestdag voor elk uur dat hij volgens het dienstrooster heeft gewerkt, naast zijn inkomen een vergoeding gelijk aan honderd procent van zijn uurloon.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Aan de geüniformeerd ambtenaar wordt voor het in opdracht van de directeur van de Kustwacht verrichten van arbeid op uren die afwijken van het voor hem geldende dienstrooster een toelage toegekend, voor zover met die uren het totaal van het per werkperiode vastgestelde aantal uren niet wordt overschreden.
 
@@ -356,7 +381,7 @@ De geüniformeerd ambtenaar ontvangt voor dienst verricht ingevolge het voor hem
 
 #### § 12. Vergoeding voor varen van de geüniformeerde ambtenaar
 
-#### Artikel 37
+##### Artikel 37
 
 1. Aan de geüniformeerde ambtenaar wordt voor varen dat een etmaal of langer duurt een vergoeding toegekend.
 
@@ -368,13 +393,13 @@ De geüniformeerd ambtenaar ontvangt voor dienst verricht ingevolge het voor hem
 
 5. Voor de toepassing van het tweede en derde lid wordt een gedeelte van een etmaal berekend per half etmaal, waarbij een tijdvak van minder dan twaalf uren telt voor een half etmaal.
 
-#### Artikel 38
+##### Artikel 38
 
 Tenzij de Kustwacht de maaltijden verstrekt, heeft de geüniformeerde ambtenaar aanspraak op een vergoeding voor maaltijden, conform de door de directeur van de Kustwacht vastgestelde regels.
 
 #### § 13. Dienstreizen en verplaatsingen
 
-#### Artikel 39
+##### Artikel 39
 
 Door Onze Minister worden, in afwijking van het gestelde in de artikelen 30, 72 en 73 van de WMABES, nadere regels vastgesteld met betrekking tot de toekenning van vergoedingen:
 
@@ -388,31 +413,31 @@ bij dienstreizen.
 
 #### § 14. Kleding en uitrusting
 
-#### Artikel 40
+##### Artikel 40
 
 1. De geüniformeerde ambtenaar draagt tijdens zijn werktijd de kleding en uitrusting die behoren bij zijn rang, tenzij anders bepaald door de directeur van de Kustwacht.
 
 2. Het Kustwachtuniform en de draagwijze worden vastgesteld door de directeur van de Kustwacht.
 
-#### Artikel 41
+##### Artikel 41
 
 De geüniformeerde ambtenaar heeft na zijn ter beschikkingstelling aan de Kustwacht recht op verstrekking in bruikleen van de goederen waarvan de directeur van de Kustwacht heeft bepaald dat zij behoren tot de persoonlijke standaarduitrusting van die ambtenaar. De directeur van de Kustwacht stelt voorschriften omtrent de vervanging van de bruikleengoederen.
 
 #### § 15. Overgangs- en slotbepalingen
 
-#### Artikel 42
+##### Artikel 42
 
 Het besluit rechtspositie Kustwacht wordt ingetrokken.
 
-#### Artikel 43
+##### Artikel 43
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Publicatieblad waarin het is geplaatst en werkt terug tot en met 1 januari 2002.
 
-#### Artikel 44
+##### Artikel 44
 
 Dit besluit wordt aangehaald als: Besluit rechtspositie Kustwacht BES.
 
-#### Artikel 45
+##### Artikel 45
 
 [vervallen.]
 

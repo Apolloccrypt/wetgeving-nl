@@ -1,18 +1,44 @@
 ---
-title: "Instellingsbesluit USAR.NL"
+title: "Besluit van de Minister van Veiligheid en Justitie in overeenstemming met de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking en de Minister van Buitenlandse Zaken van 1 juli 2013, nr. 396425, houdende de instelling van het team Urban Search and Rescue Nederland (Instellingsbesluit USAR.NL)"
 identifier: "BWBR0033753"
-categorie: "Overig"
-publicatiedatum: 2016-03-11
-laatste_update: 2016-03-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033753"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-03-11"
+last_updated: "2016-03-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033753"
+soort: "ministeriele-regeling"
+stam_id: "12333483"
+version_id: "20691542"
+internal_id: "C29701771"
+label_id: "12304554"
+dtd_version: "2.0"
+original_entry_into_force: "2013-08-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033753/2016-03-11/0"
+intitule_bron: "Stcrt.2013-22648"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-07-01"
+intitule_published: "2013-08-13"
+intitule_in_force: "2013-08-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-22648"
+original_signed_date: "2013-07-01"
+original_published_date: "2013-08-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-22648"
+entry_into_force_date: "2013-08-14"
+jci_1_3: "jci1.3:c:BWBR0033753&z=2016-03-11&g=2016-03-11"
+jci_1_0: "1.0:c:BWBR0033753&g=2016-03-11"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit USAR.NL"
+signed_date: "2013-07-01"
+entry_into_force: "2013-08-14"
 ---
-
 # Besluit van de Minister van Veiligheid en Justitie in overeenstemming met de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking en de Minister van Buitenlandse Zaken van 1 juli 2013, nr. 396425, houdende de instelling van het team Urban Search and Rescue Nederland (Instellingsbesluit USAR.NL)
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 - a. **INSARAG:** International Search and Rescue Advisory Group, waarvan het secretariaat valt onder de Field Coordination Support Section van de Emergency Service Branch van het Office for the coordination of Humanitarian Affairs van de Verenigde Naties;
 
@@ -34,7 +60,7 @@ Besluit:
 
 - j. **USAR.NL:** Urban Search and Rescue Nederland.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een USAR.NL.
 
@@ -48,7 +74,7 @@ Besluit:
 
 4. USAR.NL voldoet aan de kwalificatie HUSAR en TAST en maakt als zodanig onderdeel uit van de EU Voluntary Pool.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan het hoofd van USAR.NL staat de landelijk commandant USAR.NL.
 
@@ -56,7 +82,7 @@ Besluit:
 
 3. Het beheer van USAR.NL berust bij het Instituut Fysieke Veiligheid.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Minister benoemt en ontslaat de landelijk commandant USAR.NL en zijn plaatsvervanger, gehoord hebbende de leden van de Stuurgroep USAR.NL, bedoeld in artikel 8, met uitzondering van de landelijke commandant USAR.NL.
 
@@ -64,11 +90,11 @@ Besluit:
 
 3. De directeur Weerbaarheidsverhoging van het Ministerie van Veiligheid en Justitie is focal point voor de INSARAG. Hij kan deze bevoegdheid mandateren aan de landelijk commandant USAR.NL en door hem aangewezen medewerkers van USAR.NL.
 
-#### Artikel 5
+##### Artikel 5
 
 De Minister beslist over de inzet van USAR.NL binnen het land Nederland.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking of de Minister van Buitenlandse Zaken beslist over de inzet van USAR.NL buiten het land Nederland en de daarbij geldende voorwaarden. De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking of de Minister van Buitenlandse Zaken laat zich hierbij adviseren door daartoe gemandateerde leden van het Kernteam USAR.NL, te weten:
 
@@ -84,13 +110,13 @@ De Minister beslist over de inzet van USAR.NL binnen het land Nederland.
 
 3. De landelijk commandant USAR.NL legt na afloop van de inzet, bedoeld in het eerste lid, verantwoording af aan de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking alsmede over de kosten die zijn gemaakt bij de desbetreffende inzet.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onverminderd de bevoegdheden van de landelijk commandant USAR.NL, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033753&artikel=3&z=2016-03-11&g=2016-03-11), staat USAR.NL bij de inzet in Nederland onder operationeel bevel van de burgemeester of van de voorzitter van de betrokken veiligheidsregio’s.
 
 2. Onverminderd de bevoegdheden van de landelijk commandant USAR.NL, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033753&artikel=3&z=2016-03-11&g=2016-03-11), staat USAR.NL bij de inzet in het buitenland onder operationeel bevel van de daartoe bevoegde lokale autoriteiten.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Er is een Stuurgroep USAR.NL die de Minister en het bestuur van het IFV adviseert over beleid en beheer inzake USAR.NL.
 
@@ -114,11 +140,11 @@ De Minister beslist over de inzet van USAR.NL binnen het land Nederland.
 
 4. Het secretariaat van de Stuurgroep USAR.NL berust bij het Instituut Fysieke Veiligheid.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Instellingsbesluit USAR.NL.
 

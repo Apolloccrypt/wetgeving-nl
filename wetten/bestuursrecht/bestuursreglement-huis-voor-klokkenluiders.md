@@ -1,13 +1,38 @@
 ---
 title: "Bestuursreglement Huis voor Klokkenluiders"
 identifier: "BWBR0040987"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-06-08
-laatste_update: 2018-06-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040987"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-06-08"
+last_updated: "2018-06-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040987"
+soort: "zbo"
+stam_id: "14627523"
+version_id: "25048862"
+internal_id: "C35817801"
+label_id: "14580634"
+dtd_version: "2.0"
+original_entry_into_force: "2018-06-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040987/2018-06-08/0"
+intitule_bron: "Stcrt.2018-31039"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-04-26"
+intitule_published: "2018-06-07"
+intitule_in_force: "2018-06-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-31039"
+original_signed_date: "2018-04-26"
+original_published_date: "2018-06-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-31039"
+entry_into_force_date: "2018-06-08"
+jci_1_3: "jci1.3:c:BWBR0040987&z=2018-06-08&g=2018-06-08"
+jci_1_0: "1.0:c:BWBR0040987&g=2018-06-08"
+citeertitel_status: "officieel"
+signed_date: "2018-04-26"
+entry_into_force: "2018-06-08"
 ---
-
 # Bestuursreglement Huis voor Klokkenluiders
 
 Gelet op [artikel 3h van de Wet Huis voor klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3h);
@@ -16,7 +41,7 @@ Gezien de goedkeuring van de Minister van Binnenlandse Zaken en Koninkrijksrelat
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit bestuursreglement wordt verstaan onder:
 
@@ -28,7 +53,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 - d. **de Minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 2. Bestuur
+##### Artikel 2. Bestuur
 
 1. De voorzitter roept het bestuur in vergadering bijeen en leidt de vergadering.
 
@@ -38,13 +63,13 @@ In dit bestuursreglement wordt verstaan onder:
 
 4. Het bestuur ziet toe op de eenheid van het Huis.
 
-#### Artikel 3. Algemeen Secretaris
+##### Artikel 3. Algemeen Secretaris
 
 1. De Algemeen Secretaris geeft leiding aan het bureau, bedoeld in [artikel 3d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3d).
 
 2. De Algemeen Secretaris neemt deel aan de bestuursvergaderingen en heeft daarbij een adviserende rol.
 
-#### Artikel 4. Bestuursvergaderingen
+##### Artikel 4. Bestuursvergaderingen
 
 1. Het bestuur komt ten minste eenmaal per maand in vergadering bijeen en overigens zo vaak als een goede taakuitvoering dit noodzakelijk maakt.
 
@@ -54,13 +79,13 @@ In dit bestuursreglement wordt verstaan onder:
 
 4. Het bestuur kan personen die geen lid zijn, uitnodigen om een bepaald onderdeel van de vergadering bij te wonen.
 
-#### Artikel 5. Besluitvorming
+##### Artikel 5. Besluitvorming
 
 1. Ieder bestuurslid heeft één stem.
 
 2. Het bestuur neemt besluiten bij meerderheid van stemmen. Indien de stemmen staken heeft de voorzitter een doorslaggevende stem.
 
-#### Artikel 6. Verschoning
+##### Artikel 6. Verschoning
 
 1. Een bestuurslid kan zich verschonen indien hij van mening is dat zijn onpartijdigheid bij een bepaalde aangelegenheid in de bestuursvergadering in het geding zou kunnen zijn. Indien hij zich verschoont, doet hij hiervan mededeling aan de voorzitter dan wel, in het geval van de voorzitter, aan de plaatsvervangend voorzitter.
 
@@ -68,7 +93,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 3. Indien de in het eerste of het tweede lid beschreven situatie zich voordoet, neemt het desbetreffende bestuurslid geen deel aan de behandeling van en de besluitvorming over de desbetreffende aangelegenheid in de bestuursvergadering. Daarvan wordt mededeling gedaan in het verslag.
 
-#### Artikel 7. Verslaglegging
+##### Artikel 7. Verslaglegging
 
 1. De Algemeen Secretaris draagt zorg voor de verslaglegging van de vergadering. Het verslag bevat ten minste:
 
@@ -84,23 +109,23 @@ In dit bestuursreglement wordt verstaan onder:
 
 3. Het verslag wordt in de eerstvolgende vergadering na verzending, door het bestuur al dan niet gewijzigd vastgesteld.
 
-#### Artikel 8. Werkwijzen
+##### Artikel 8. Werkwijzen
 
 Het Huis beschrijft zijn werkwijzen in een Onderzoeksprotocol en Adviesprotocol en publiceert deze protocollen in de Staatscourant en op zijn website.
 
-#### Artikel 9. Mandaat
+##### Artikel 9. Mandaat
 
 Het bestuur stelt een mandaatregeling vast.
 
-#### Artikel 10. Klachtrecht
+##### Artikel 10. Klachtrecht
 
 Het bestuur stelt een klachtenregeling vast conform [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9).
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit bestuursreglement treedt in werking met ingang van de dag na publicatie in de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit bestuursreglement wordt aangehaald als: Bestuursreglement Huis voor Klokkenluiders.
 

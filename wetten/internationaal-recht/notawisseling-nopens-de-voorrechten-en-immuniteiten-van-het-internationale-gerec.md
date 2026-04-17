@@ -1,13 +1,37 @@
 ---
 title: "Notawisseling nopens de voorrechten en immuniteiten van het Internationale Gerechtshof"
 identifier: "BWBV0005454"
-categorie: "Internationaal recht"
-publicatiedatum: 1946-12-11
-laatste_update: 1946-12-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005454"
+country: "nl"
+rank: "verdrag"
+publication_date: "1946-12-11"
+last_updated: "1946-12-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005454"
+soort: "verdrag"
+stam_id: "10004637763"
+version_id: "10004893982"
+internal_id: "C10008335991"
+label_id: "10004622084"
+dtd_version: "2.0"
+original_entry_into_force: "1946-12-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005454/1946-12-11/0"
+intitule_bron: "Stb.1947-H 79"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1947-03-04"
+intitule_published: "1947-04-05"
+intitule_in_force: "1947-04-05"
+intitule_status: "goed"
+original_publication: "Stb.1947-H 79"
+original_signed_date: "1947-03-04"
+original_published_date: "1947-04-05"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1946-12-11"
+jci_1_3: "jci1.3:c:BWBV0005454&z=1946-12-11&g=1946-12-11"
+jci_1_0: "1.0:c:BWBV0005454&g=1946-12-11"
+citeertitel_status: "redactioneel"
+signed_date: "1947-03-04"
+entry_into_force: "1946-12-11"
 ---
-
 # Notawisseling nopens de voorrechten en immuniteiten van het Internationale Gerechtshof
 
 's-Gravenhage, den 26sten Juni 1946.

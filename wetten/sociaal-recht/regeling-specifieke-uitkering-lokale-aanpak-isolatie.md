@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering Lokale Aanpak Isolatie"
+title: "Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 1 februari 2023, nr. 2022-0000430533 houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten ten behoeve van de verduurzaming van slecht geïsoleerde woningen van eigenaar-bewoners en woningen van verenigingen van eigenaars, woonverenigingen en wooncoöperaties in het kader van het Nationaal Isolatieprogramma"
 identifier: "BWBR0047844"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-07-02
-laatste_update: 2025-07-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047844"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-02"
+last_updated: "2025-07-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047844"
+soort: "ministeriele-regeling"
+stam_id: "16664713"
+version_id: "30787572"
+internal_id: "C44129551"
+label_id: "16582624"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047844/2025-07-02/0"
+intitule_bron: "Stcrt.2023-3877"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-02-01"
+intitule_published: "2023-02-02"
+intitule_in_force: "2023-02-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-21092"
+original_signed_date: "2025-06-29"
+original_published_date: "2025-07-01"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-21092"
+entry_into_force_date: "2025-06-29"
+jci_1_3: "jci1.3:c:BWBR0047844&z=2025-07-02&g=2025-07-02"
+jci_1_0: "1.0:c:BWBR0047844&g=2025-07-02"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering Lokale Aanpak Isolatie"
+signed_date: "2025-06-29"
+entry_into_force: "2025-06-29"
 ---
-
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 1 februari 2023, nr. 2022-0000430533 houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten ten behoeve van de verduurzaming van slecht geïsoleerde woningen van eigenaar-bewoners en woningen van verenigingen van eigenaars, woonverenigingen en wooncoöperaties in het kader van het Nationaal Isolatieprogramma
 
 Gelet op [artikel 17, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17) juncto [artikel 4:23, derde lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In deze regeling wordt verstaan onder:
 
@@ -84,7 +110,7 @@ Besluit:
 
 - c. woning in een gebouw van een woonvereniging.
 
-#### Artikel 2. Doel en activiteiten van de specifieke uitkering
+##### Artikel 2. Doel en activiteiten van de specifieke uitkering
 
 1. De minister kan op aanvraag van een college of ambtshalve een specifieke uitkering verstrekken aan de gemeente voor het uitvoeren van een isolatieprogramma dat gericht is op het nemen van energiebesparende isolatiemaatregelen, eventueel in samenhang met energiezuinige ventilatiemaatregelen, in slecht geïsoleerde woningen van eigenaar-bewoners en slecht geïsoleerde woningen van leden van een gemengde vereniging, met een focus op woningen die bewoond zijn door huishoudens in energiearmoede of een risico daarop. Die focus wordt in ieder geval bereikt door uitvoering te geven aan de verplichting in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2025-07-02&g=2025-07-02).
 
@@ -112,7 +138,7 @@ Besluit:
 
 4. De specifieke uitkering wordt niet verstrekt voor BTW verschuldigd over kosten voor de uitvoering van een isolatieprogramma voor zover het bedrag van de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of voor zover de kosten in aanmerking komen voor aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
 
-#### Artikel 3. Hoogte van de specifieke uitkering
+##### Artikel 3. Hoogte van de specifieke uitkering
 
 1. Een college kan gedurende het aanvraagtijdvak, bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2025-07-02&g=2025-07-02), een aanvraag doen voor een specifieke uitkering van ten hoogste het voor die gemeente in de voorlaatste kolom in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=I&z=2025-07-02&g=2025-07-02) opgenomen totaalbedrag dat aangevraagd kan worden.
 
@@ -132,7 +158,7 @@ Besluit:
 
 9. Het aantal woningen waarvoor geen aanvraag wordt gedaan als bedoeld in het vijfde lid, wordt herverdeeld over de gemeenten waarvoor een aanvraag als bedoeld in het zesde lid is gedaan naar rato van het aantal woningen dat de colleges hebben aangevraagd op grond van het zesde lid. Per extra aangevraagde woning ontvangt de gemeente ten hoogste het genoemde bedrag in de zesde kolom van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=IV&z=2025-07-02&g=2025-07-02). Het aantal woningen dat wordt herverdeeld wordt opgehoogd, met een aantal waardoor het bedrag dat op grond van deze ophoging wordt uitgekeerd ten hoogste € 15.424.807 is.
 
-#### Artikel 4. De aanvraag
+##### Artikel 4. De aanvraag
 
 1. Een aanvraag voor een specifieke uitkering kan worden ingediend met ingang van:
 
@@ -160,7 +186,7 @@ Besluit:
 
 5. Een aanvraag wordt ingediend via een formulier dat beschikbaar wordt gesteld op de website van de Rijksdienst voor Ondernemend Nederland.
 
-#### Artikel 5. Wijze van betaling en uitkeringsbeschikking
+##### Artikel 5. Wijze van betaling en uitkeringsbeschikking
 
 1. De in [artikel 3, tweede en derde lid, onderscheidenlijk artikel 3, vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-07-02&g=2025-07-02), bedoelde specifieke uitkeringen worden in één keer uitbetaald.
 
@@ -174,7 +200,7 @@ Besluit:
 
 - d. de periode waarbinnen de uitkering moet zijn besteed en de activiteiten moeten zijn afgerond.
 
-#### Artikel 6. Verplichtingen
+##### Artikel 6. Verplichtingen
 
 1. De gemeente die een specifieke uitkering ontvangt is verplicht om:
 
@@ -196,15 +222,15 @@ Besluit:
 
 2. De Minister kan op gemotiveerd verzoek van het college de in het eerste lid, onderdeel c, genoemde termijn, tweemaal met ten hoogste één jaar verlengen, indien sprake is van onvoorziene omstandigheden op grond waarvan het aannemelijk is dat de uitvoering van de activiteiten waar de specifieke uitkering voor is verstrekt niet binnen die termijn kan worden afgerond.
 
-#### Artikel 7. Afwijzingsgronden
+##### Artikel 7. Afwijzingsgronden
 
 De minister wijst een aanvraag voor een specifieke uitkering gedeeltelijk af, voor zover het aangevraagde bedrag het bedrag overstijgt dat het college op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-07-02&g=2025-07-02) ten hoogste kan aanvragen.
 
-#### Artikel 8. Informatievoorziening na uitkering
+##### Artikel 8. Informatievoorziening na uitkering
 
 Het college van een gemeente die een specifieke uitkering ontvangt informeert de minister ieder jaar op uiterlijk 1 maart over de voortgang van de activiteiten waarvoor de specifieke uitkering is verstrekt door een rapportage aan te leveren met gebruikmaking van een daartoe door de minister beschikbaar gesteld digitaal formulier dat is geplaatst op de website van de Rijksdienst voor Ondernemend Nederland.
 
-#### Artikel 9. Verantwoording, terugvordering en vaststelling
+##### Artikel 9. Verantwoording, terugvordering en vaststelling
 
 1. Het college legt verantwoording af over de besteding van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2025-07-02&g=2025-07-02), op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -216,7 +242,7 @@ Het college van een gemeente die een specifieke uitkering ontvangt informeert de
 
 5. Indien de uiterlijke datum voor het afronden van de activiteiten, bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2025-07-02&g=2025-07-02), of de op grond van artikel 6, tweede lid, verlengde termijn, is verstreken en het college geen eindverantwoording heeft verstrekt, stelt de minister de specifieke uitkering vast aan de hand van de eerstvolgende verantwoordingsinformatie.
 
-#### Artikel 10. Inwerkingtreding en vervaldatum
+##### Artikel 10. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking op 1 maart 2023 en vervalt met ingang van 1 januari 2029, met dien verstande dat deze regeling van toepassing blijft op specifieke uitkeringen die voor die datum zijn verstrekt.
 
@@ -571,7 +597,7 @@ Deze regeling treedt in werking op 1 maart 2023 en vervalt met ingang van 1 janu
 
 Lasten en bevelen dat deze regeling met de daarbij behorende toelichting in de Staatscourant zal worden geplaatst.
 
-#### Artikel 4a. Ambtshalve toekenning
+##### Artikel 4a. Ambtshalve toekenning
 
 1. Indien het college van een gemeente een aanvraag heeft gedaan op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2025-07-02&g=2025-07-02), wordt een specifieke uitkering aan het college verstrekt ter hoogte van het bedrag dat voor die gemeente is opgenomen in de tweede kolom van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=II&z=2025-07-02&g=2025-07-02).
 
@@ -1973,7 +1999,7 @@ Lasten en bevelen dat deze regeling met de daarbij behorende toelichting in de S
 
 Lasten en bevelen dat deze regeling met de daarbij behorende toelichting in de Staatscourant zal worden geplaatst.
 
-#### Artikel 9a
+##### Artikel 9a
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering Lokale Aanpak Isolatie.
 

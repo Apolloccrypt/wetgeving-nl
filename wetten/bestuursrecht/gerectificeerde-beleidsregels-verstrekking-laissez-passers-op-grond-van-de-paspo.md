@@ -1,13 +1,37 @@
 ---
 title: "Gerectificeerde beleidsregels verstrekking laissez passers op grond van de Paspoortwet"
 identifier: "BWBR0012929"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-02-06
-laatste_update: 2005-02-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012929"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2005-02-06"
+last_updated: "2005-02-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012929"
+soort: "beleidsregel"
+stam_id: "6188043"
+version_id: "10872062"
+internal_id: "C14726131"
+label_id: "6177074"
+original_entry_into_force: "2001-11-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012929/2005-02-06/0"
+intitule_bron: "Stcrt.2001-213"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-10-29"
+intitule_published: "2001-11-02"
+intitule_in_force: "2001-11-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-213"
+original_signed_date: "2001-10-29"
+original_published_date: "2001-11-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2001-213-p6-SC31564"
+entry_into_force_date: "2001-11-04"
+jci_1_3: "jci1.3:c:BWBR0012929&z=2005-02-06&g=2005-02-06"
+jci_1_0: "1.0:c:BWBR0012929&g=2005-02-06"
+citeertitel_status: "redactioneel"
+signed_date: "2001-10-29"
+entry_into_force: "2001-11-04"
 ---
-
 # Gerectificeerde beleidsregels verstrekking laissez passers op grond van de Paspoortwet
 
 De Minister van Buitenlandse Zaken;
@@ -16,15 +40,15 @@ Gelet op de [artikelen 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor het verlenen van laissez passers op grond van de [artikelen 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=15), [26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26), en [40, zesde lid, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=40) gelden de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 Het besluit van 1 augustus 2001/DPC/VV/392, houdende beleidsregels van de Minister van Buitenlandse Zaken voor de verstrekking van laissez passers op grond van de Paspoortwet, wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

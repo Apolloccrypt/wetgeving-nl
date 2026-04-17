@@ -1,16 +1,41 @@
 ---
 title: "Wapenwet BES"
 identifier: "BWBR0028756"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028756"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028756"
+soort: "wet-BES"
+stam_id: "10981383"
+version_id: "17968662"
+internal_id: "C30735941"
+label_id: "10956014"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028756/2010-10-10/0"
+intitule_bron: "Stb.2010-519"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-23"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-519"
+original_signed_date: "2010-09-23"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-519"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028756&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028756&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-23"
+entry_into_force: "2010-10-10"
 ---
-
 # Wapenwet BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het is verboden op de openbare weg of op enige voor het publiek toegankelijke plaats een wapen bij zich te hebben.
 
@@ -20,7 +45,7 @@ bron: "https://wetten.overheid.nl/BWBR0028756"
 
 - b. andere voorwerpen, die door de drager of gebruiker daarvan zijn bedoeld om als wapenen of mede als wapenen te dienen, blijkende uit de omstandigheid waaronder of de wijze waarop zij worden gedragen of gebruikt.
 
-#### Artikel 2
+##### Artikel 2
 
 De bepaling van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=1&z=2010-10-10&g=2010-10-10) is niet toepasselijk:
 
@@ -44,7 +69,7 @@ De bepaling van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&arti
 
 - 10°. op hen, die krachtens een tot bepaalde plaatsen beperkte machtiging van het bevoegde gezag een vuurwapen en munitie voorhanden mogen hebben gedurende de tijd, dat zij zich bewegen tussen de plaatsen, waarvoor de machtiging geldt, mits het vuurwapen gedurende het vervoer zodanig is ingepakt, dat het niet voor dadelijk gebruik kan worden aangewend.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Schietverenigingen met volledige rechtsbevoegdheid dienen, alvorens als zodanig te kunnen optreden, in het bezit te zijn van een daartoe bestemde vergunning, welke door Onze Minister van Justitie kan worden verleend onder door hem te stellen voorwaarden.
 
@@ -52,7 +77,7 @@ De bepaling van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&arti
 
 3. Onze Minister van Justitie kan de vergunning schorsen of intrekken, indien de aan de vergunning verbonden voorwaarden niet worden nagekomen dan wel indien de openbare orde of de veiligheid van Bonaire, Sint Eustatius of Saba of een deel daarvan in gevaar zou worden gebracht door gebruikmaking van de vergunning.
 
-#### Artikel 3
+##### Artikel 3
 
 De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=2&z=2010-10-10&g=2010-10-10) bedoelde machtiging wordt verleend door de betrokken gezaghebber:
 
@@ -62,33 +87,33 @@ De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=2&z=20
 
 - 3°. slechts ten name van één persoon, wordende deze persoon daarin zo nauwkeurig mogelijk aangewezen door vermelding van voornamen, geslachtsnaam, geboorteplaats, leeftijd, ambt of beroep, woon- of verblijfplaats.
 
-#### Artikel 4
+##### Artikel 4
 
 De machtiging vermeldt het soort van wapen, tot het bij zich hebben waarvan zij verleend wordt en is overigens ingericht naar een bij ministeriële regeling vast te stellen model.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De machtiging wordt schriftelijk aangevraagd. De aanvrager verstrekt zoveel mogelijk de van hem gevraagde inlichtingen en bescheiden.
 
 2. Binnen een maand wordt op de aanvraag schriftelijk beschikt. Indien de aanvraag geheel of gedeeltelijk niet wordt ingewilligd, is de beschikking met redenen omkleed.
 
-#### Artikel 6
+##### Artikel 6
 
 [vervallen]
 
-#### Artikel 7
+##### Artikel 7
 
 De gezaghebber is te allen tijde bevoegd elke verleende machtiging bij een met redenen omklede beschikking te schorsen of in te trekken. Hij kan in dringende gevallen deze beschikking bij voorraad uitvoerbaar verklaren.
 
-#### Artikel 8
+##### Artikel 8
 
 De gezaghebber is verplicht een register te houden en daarin aantekening te doen zowel van elke verleende machtiging, met vermelding van de dag der uitreiking en van hetgeen de machtiging volgens deze wet moet inhouden, als van elke intrekking van zodanige machtiging, met vermelding van de dag, waarop zulks is geschied.
 
-#### Artikel 9
+##### Artikel 9
 
 Hij, die krachtens verleende machtiging, op de openbare weg of op enige voor het publiek toegankelijke plaats een wapen bij zich heeft, is verplicht deze machtiging bij zich te hebben en die op de eerste vordering van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren, terstond ter inzage af te geven.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onze Minister van Justitie kan bij nadere regels:
 
@@ -100,7 +125,7 @@ Hij, die krachtens verleende machtiging, op de openbare weg of op enige voor het
 
 2. De regels, bedoeld in het eerste lid, zijn niet van toepassing op vuurwapens, bedoeld in de Vuurwapenwet BES.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Hij die de verbodsbepaling van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=1&z=2010-10-10&g=2010-10-10), overtreedt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de derde categorie.
 
@@ -110,11 +135,11 @@ Hij, die krachtens verleende machtiging, op de openbare weg of op enige voor het
 
 4. De bij deze wet strafbaar gestelde feiten worden, indien daarop mede gevangenisstraf is gesteld, als misdrijven en overigens als overtredingen beschouwd.
 
-#### Artikel 12
+##### Artikel 12
 
 [vervallen]
 
-#### Artikel 13
+##### Artikel 13
 
 1. Met het toezicht op de naleving van het bij en krachtens deze wet bepaalde zijn belast:
 
@@ -126,11 +151,11 @@ Hij, die krachtens verleende machtiging, op de openbare weg of op enige voor het
 
 3. De in het eerste lid, onderdeel a, bedoelde ambtenaren hebben te allen tijde toegang tot alle plaatsen, waar, naar zij redelijkerwijze kunnen vermoeden, wapenen aanwezig zijn, en kunnen op die plaatsen ter inbeslagneming huiszoeking doen. Is de plaats een woning, tevens een woning of alleen door een woning toegankelijk, dan treden zij deze zonder de uitdrukkelijke toestemming van de bewoner niet binnen dan op algemene of bijzondere schriftelijke last van de officier van justitie, of op een bijzondere schriftelijke last van een hulpofficier van justitie. Van het binnentreden wordt door hen proces-verbaal opgemaakt, dat binnen twee maal vierentwintig uur aan degene, wiens woning is binnengetreden, in afschrift worden toegezonden.
 
-#### Artikel 13a
+##### Artikel 13a
 
 De in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren zijn bevoegd ladingen, waarvan zij redelijkerwijs kunnen vermoeden dat wapenen daarvan deel uitmaken, aan onderzoekingen te onderwerpen, voor zover dit redelijkerwijs voor de vervulling van hun taak met betrekking tot deze wet nodig is. Daartoe kunnen zij vorderen dat de verpakking van goederen wordt geopend en dat ook overigens de medewerking wordt verleend die voor die onderzoekingen is vereist.
 
-#### Artikel 13b
+##### Artikel 13b
 
 1. De in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren zijn bevoegd van de in [artikel 2 onderdeel 4° tot en met 10°](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=2&z=2010-10-10&g=2010-10-10), bedoelde personen alle inlichtingen te verlangen die redelijkerwijs voor de vervulling van hun taak met betrekking tot deze wet nodig zijn.
 
@@ -142,7 +167,7 @@ De in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&a
 
 5. Zij die uit hoofde van hun stand, beroep of ambt tot geheimhouding verplicht zijn, kunnen zich verschonen van het verschaffen van inlichtingen, doch uitsluitend voor zover het betreft hetgeen hun in hun hoedanigheid is toevertrouwd. Zij kunnen voorts het verlenen van medewerking weigeren, voor zover hun plicht tot geheimhouding zich daartoe uitstrekt.
 
-#### Artikel 13c
+##### Artikel 13c
 
 1. De in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren zijn bevoegd te vorderen dat de verpakking van goederen, met inbegrip van reisbagage, wordt geopend, indien daartoe redelijkerwijs aanleiding bestaat op grond van een gepleegd strafbaar feit waarbij wapenen zijn gebruikt of op grond van aanwijzingen dat een dergelijk strafbaar feit zal worden gepleegd.
 
@@ -150,7 +175,7 @@ De in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&a
 
 3. Indien geen medewerking wordt verleend, kunnen de in het eerste lid bedoelde ambtenaren en personen, op kosten en risico van de houder van de goederen, in het nodige voorzien.
 
-#### Artikel 13d
+##### Artikel 13d
 
 1. De in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren zijn bevoegd vervoermiddelen te onderzoeken, indien daartoe redelijkerwijs aanleiding bestaat op grond van een gepleegd strafbaar feit waarbij wapenen zijn gebruikt of op grond van aanwijzingen dat een dergelijk strafbaar feit zal worden gepleegd.
 
@@ -158,26 +183,26 @@ De in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&a
 
 3. De in het eerste lid bedoelde ambtenaren kunnen van de bestuurders van voertuigen en van de schippers van vaartuigen daartoe vorderen dat deze de vervoermiddelen tot stilstand brengen, deze vervoermiddelen naar een door hen aangewezen plaats overbrengen en overeenkomstig hun aanwijzingen terzake medewerking verlenen.
 
-#### Artikel 13e
+##### Artikel 13e
 
 1. De in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren zijn bevoegd van personen die zich op de openbare weg of op enige voor het publiek toegankelijke plaats bevinden te vorderen dat deze hun medewerking verlenen aan een onderzoek aan de kleding, indien daartoe redelijkerwijs aanleiding bestaat op grond van een gepleegd strafbaar feit waarbij wapenen zijn gebruikt of op grond van aanwijzingen dat een dergelijk strafbaar feit zal worden gepleegd.
 
 2. De in het eerste lid bedoelde bevoegdheid kan slechts worden uitgeoefend tegen bepaalde personen, indien daartoe jegens hen aanleiding bestaat. De officier van justitie kan bij schriftelijk bevel gelasten dat deze bevoegdheid tegenover een ieder kan worden uitgeoefend. Het bevel is met redenen omkleed.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren zijn bevoegd een persoon, verdacht van overtreding van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=1&z=2010-10-10&g=2010-10-10) gestelde verbod, door het voorhanden hebben van een wapen, indien tegen hem ernstige bezwaren bestaan, aan zijn lichaam en kleding te onderzoeken.
 
 2. De in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028756&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren alsmede andere daartoe door af vanwege het bevoegde gezag aangewezen personen zijn bevoegd een persoon die zich bevindt op een voor aankomst en vertrek van reizigers bestemd gedeelte van een luchtvaartterrein te allen tijde aan zijn kleding en reisbagage te onderzoeken.
 
-#### Artikel 15
+##### Artikel 15
 
 [wijzigt de Zegelverordening 1908]
 
-#### Artikel 16
+##### Artikel 16
 
 [wijzigt de Vuurwapenverordening 1930]
 
-#### Artikel 17
+##### Artikel 17
 
 Deze wet wordt aangehaald als: Wapenwet BES.

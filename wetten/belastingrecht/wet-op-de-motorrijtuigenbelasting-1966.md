@@ -1,14 +1,38 @@
 ---
-title: "Wet op de motorrijtuigenbelasting 1966"
+title: "Wet van 21 juli 1966, houdende vervanging van de Motorrijtuigenbelastingwet (Stb. 1926, 464) door een nieuwe wettelijke regeling"
 identifier: "BWBR0002534"
-categorie: "Belastingrecht"
-publicatiedatum: 1995-01-01
-laatste_update: 1995-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002534"
+country: "nl"
+rank: "wet"
+publication_date: "1995-01-01"
+last_updated: "1995-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002534"
+soort: "wet"
+stam_id: "1291733"
+version_id: "1924722"
+internal_id: "C1924721"
+label_id: "1251464"
+dtd_version: "2.0"
+original_entry_into_force: "1966-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002534/1995-01-01/0"
+intitule_bron: "Stb.1966-332"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1966-07-21"
+intitule_status: "goed"
+original_publication: "Stb.1966-332"
+original_signed_date: "1966-07-21"
+original_effect: "nieuwe-regeling"
+original_dossier: "8445"
+entry_into_force_date: "1966-10-01"
+entry_into_force_dossier: "8445"
+jci_1_3: "jci1.3:c:BWBR0002534&z=1995-01-01&g=1995-01-01"
+jci_1_0: "1.0:c:BWBR0002534&g=1995-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet op de motorrijtuigenbelasting 1966"
+signed_date: "1966-07-21"
+entry_into_force: "1966-10-01"
 ---
-
-# Wet op de motorrijtuigenbelasting 1966
+# Wet van 21 juli 1966, houdende vervanging van de Motorrijtuigenbelastingwet (Stb. 1926, 464) door een nieuwe wettelijke regeling
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +42,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Belastbaar feit
 
-#### Artikel 1
+##### Artikel 1
 
 Onder de naam "motorrijtuigenbelasting" wordt een belasting geheven ter zake van het gebruik van de weg:
 
@@ -28,7 +52,7 @@ Onder de naam "motorrijtuigenbelasting" wordt een belasting geheven ter zake van
 
 - c. met een ander motorrijtuig dan is bedoeld onder letter **a** of **b**, door daarmede op de weg te rijden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onder motorrijtuig wordt verstaan het rij- of voertuig dat is bestemd om anders dan langs spoorstaven te worden voortbewogen uitsluitend of mede door een mechanische kracht, op of aan het rij- of voertuig zelf aanwezig.
 
@@ -38,13 +62,13 @@ Onder de naam "motorrijtuigenbelasting" wordt een belasting geheven ter zake van
 
 4. Als weg wordt niet aangemerkt een weg of pad, niet in beheer bij een publiekrechtelijk lichaam.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De belasting wordt geheven voor elk motorrijtuig afzonderlijk.
 
 2. Onze Minister kan, onder door hem te stellen voorwaarden, met betrekking tot motorrijtuigen die deel uitmaken van een zelfde fabrieks- of handelsvoorraad of bij een zelfde bedrijf in herstelling zijn en waarmede uitsluitend in verband daarmede de weg wordt gebruikt, toestaan dat de belasting niet voor elk motorrijtuig afzonderlijk wordt geheven.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De belasting wordt geheven van de houder van het motorrijtuig.
 
@@ -52,7 +76,7 @@ Onder de naam "motorrijtuigenbelasting" wordt een belasting geheven ter zake van
 
 ### Hoofdstuk II. Tarief en vrijstellingen
 
-#### Artikel 5
+##### Artikel 5
 
 1. De belasting bedraagt over een tijdvak van twaalf maanden:
 
@@ -102,7 +126,7 @@ Onder de naam "motorrijtuigenbelasting" wordt een belasting geheven ter zake van
 
 6. In afwijking van het eerste lid bedraagt de belasting nihil voor een motorrijtuig dat is ingericht en bestemd hoofdzakelijk te worden aangedreven door een elektromotor.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor een in [artikel 5, eerste lid, letter **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=II&artikel=5&z=1995-01-01&g=1995-01-01), bedoeld motorrijtuig dat wordt voortbewogen of is bestemd om te worden voortbewogen door:
 
@@ -114,7 +138,7 @@ Onder de naam "motorrijtuigenbelasting" wordt een belasting geheven ter zake van
 
 3. Onder de in het eerste en tweede lid bedoelde minerale oliën worden begrepen mengsels van de minerale oliën met hiertoe door Onze Minister, al dan niet voorwaardelijk, aangewezen stoffen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ingeval krachtens [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=I&artikel=3&z=1995-01-01&g=1995-01-01), de belasting niet voor ieder motorrijtuig afzonderlijk wordt geheven, bedraagt de belasting over een tijdvak van twaalf maanden:
 
@@ -126,7 +150,7 @@ Onder de naam "motorrijtuigenbelasting" wordt een belasting geheven ter zake van
 
 2. Wordt met twee of meer motorrijtuigen gelijktijdig de weg gebruikt, dan wordt het in het eerste lid omschreven tarief toegepast op elk van die motorrijtuigen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Als tijdvak waarover de belasting kan worden voldaan, geldt in elk geval een tijdvak van twaalf of van drie maanden.
 
@@ -142,7 +166,7 @@ Onder de naam "motorrijtuigenbelasting" wordt een belasting geheven ter zake van
 
 - e. vijftien of meer willekeurige binnen een jaar vallende dagen: per dag 1/240 van de belasting over een tijdvak van twaalf maanden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Onder door Ons bij algemene maatregel van bestuur te stellen voorwaarden wordt vrijstelling van belasting verleend voor:
 
@@ -174,27 +198,27 @@ Onder de naam "motorrijtuigenbelasting" wordt een belasting geheven ter zake van
 
 ### Hoofdstuk III. Wijze van heffing
 
-#### Artikel 10
+##### Artikel 10
 
 1. De over een tijdvak verschuldigde belasting wordt geheven bij wege van voldoening op aangifte.
 
 2. De belasting moet worden betaald voordat het gebruik van de weg met het motorrijtuig aanvangt.
 
-#### Artikel 11
+##### Artikel 11
 
 Onze Minister kan omtrent de aangifte regelen geven welke afwijken van [Hoofdstuk II van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=II) (**Stb.** 1959, 301).
 
-#### Artikel 12
+##### Artikel 12
 
 Wij behouden Ons voor bij algemene maatregel van bestuur, ter verzekering van de heffing van de belasting, regelen te geven ingevolge welke in de daarbij bepaalde gevallen de weg niet met een motorrijtuig mag worden gebruikt zonder dat degene die bij die regelen daartoe is aangewezen in het bezit is van een bij of krachtens die regelen aangewezen bewijsstuk volgens hetwelk voor dat motorrijtuig de belasting is voldaan, dan wel niet is verschuldigd.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Ingeval de houder van een motorrijtuig dit door een ander vervangt, wordt de voor het vervangen motorrijtuig over de nog niet verstreken halve maanden van het lopende tijdvak betaalde belasting op zijn verzoek verrekend met de belasting over die halve maanden voor het vervangende motorrijtuig, met dien verstande dat, indien de laatstbedoelde belasting lager is dan de betaalde, teruggaaf van het verschil slechts plaats vindt over nog niet ingetreden halve maanden. Onder een halve maand wordt verstaan een periode van de eerste tot en met de vijftiende dan wel van de zestiende tot en met de laatste dag van een kalendermaand.
 
 2. Een motorrijtuig dat een zodanige verandering heeft ondergaan, dat de belasting hoger of lager is, wordt voor de toepassing van het eerste lid geacht te zijn vervangen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Teruggaaf wordt slechts verleend van belasting, betaald:
 
@@ -208,13 +232,13 @@ Onder een halve maand wordt verstaan een periode van de eerste tot en met de vij
 
 3. Het verzoek geschiedt bij een aangifte waarvan Onze Minister het formulier vaststelt. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Op eerste vordering van ambtenaren van de rijksbelastingdienst of van opsporingsambtenaren als zijn bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), is de bestuurder van een motorrijtuig verplicht het rijtuig te doen stilhouden. Degene die ingevolge het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=III&artikel=12&z=1995-01-01&g=1995-01-01) in het bezit moet zijn van een bewijsstuk, is verplicht op eerste vordering van de ambtenaren dat bewijsstuk ter inzage te verstrekken.
 
 2. De in het eerste lid bedoelde ambtenaren zijn bevoegd een motorrijtuig of een daarmede verbonden rij- of voertuig aan een onderzoek te onderwerpen en het voertuig daartoe naar een nabij gelegen plaats te voeren of te doen voeren. De bestuurder, bij afwezigheid de houder, of degene die ingevolge het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=III&artikel=12&z=1995-01-01&g=1995-01-01) in het bezit moet zijn van een bewijsstuk, is verplicht desgevorderd zijn tot het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Indien met een motorrijtuig de weg is gebruikt zonder dat vooraf de belasting is betaald, kan deze worden nageheven op de voet van [Hoofdstuk IV van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IV), met dien verstande dat:
 
@@ -228,43 +252,43 @@ Onder een halve maand wordt verstaan een periode van de eerste tot en met de vij
 
 3. Voor een motorrijtuig dat in het krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) aangehouden register van opgegeven kentekens is ingeschreven, wordt voor de vraag of en hoeveel te weinig belasting is geheven, afgegaan op de in dat register voorkomende gegevens, zulks met inachtneming van de verschillen welke bij ambtelijk onderzoek zijn bevonden.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Hij die niet voldoet aan de hem bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=III&artikel=15&z=1995-01-01&g=1995-01-01) opgelegde verplichting het aldaar bedoelde bewijsstuk ter inzage te verstrekken, beloopt een administratieve boete van vijfentwintig gulden.
 
 2. Op de administratieve boete zijn de bepalingen die gelden voor de naheffing, [artikel 21, tweede lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21) daaronder niet begrepen, van overeenkomstige toepassing, met dien verstande dat de naheffingsaanslag wordt opgelegd aan degene die de boete heeft belopen.
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
 ### Hoofdstuk IV. Overgangs- en slotbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 Behoudens wettige bevoegdheid tot heffing van tol, de bevoegdheid van de provincies ingevolge de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) tot het heffen van opcenten op de motorrijtuigenbelasting en de bevoegdheid van de gemeenten ingevolge de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) (**Stb.** 1992, 96) tot het heffen van parkeerbelastingen, wordt terzake van het gebruik van de weg met motorrijtuigen geen belasting geheven door andere publiekrechtelijke lichamen dan het Rijk.
 
-#### Artikel 20a
+##### Artikel 20a
 
 Onze Minister kan bij de berekening van de belasting, van de vermeerdering daarvan en van op de belasting geheven toeslagen en opcenten alsmede bij de berekening van de teruggaaf van belasting en van de verhoging van de in een naheffingsaanslag begrepen belasting de door hem nodig geachte afrondingen doen aanbrengen.
 
-#### Artikel 21
+##### Artikel 21
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 22
+##### Artikel 22
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 23
+##### Artikel 23
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De Motorrijtuigenbelastingwet (**Stb.** 1926, 464) wordt ingetrokken.
 
@@ -272,11 +296,11 @@ Bevat wijzigingen in andere regelgeving.
 
 3. Onze Minister is bevoegd nadere bepalingen ter zake van de overgang vast te stellen.
 
-#### Artikel 25
+##### Artikel 25
 
 Zolang [artikel 4 van het Reglement verkeersregels en verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=4) (**Stb.** 1966, 181) niet in werking is getreden, wordt in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&hoofdstuk=I&artikel=2&z=1995-01-01&g=1995-01-01), voor "bromfiets" gelezen: rijwiel met hulpmotor.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 

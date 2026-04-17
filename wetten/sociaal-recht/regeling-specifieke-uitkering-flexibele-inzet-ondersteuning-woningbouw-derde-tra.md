@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering flexibele inzet ondersteuning woningbouw (derde tranche)"
+title: "Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 25 november 2024, nr. 2024-0000039225, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van de financiering van capaciteitsondersteuning voor het voorkomen van vertragingen in de voorfase van de woningbouw (Regeling specifieke uitkering flexibele inzet ondersteuning woningbouw (derde tranche))"
 identifier: "BWBR0050481"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-11-30
-laatste_update: 2024-11-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050481"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-11-30"
+last_updated: "2024-11-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050481"
+soort: "ministeriele-regeling"
+stam_id: "17289903"
+version_id: "30451442"
+internal_id: "C43663941"
+label_id: "17194024"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050481/2024-11-30/0"
+intitule_bron: "Stcrt.2024-38727"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-25"
+intitule_published: "2024-11-29"
+intitule_in_force: "2024-11-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-38727"
+original_signed_date: "2024-11-25"
+original_published_date: "2024-11-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-38727"
+entry_into_force_date: "2024-11-30"
+jci_1_3: "jci1.3:c:BWBR0050481&z=2024-11-30&g=2024-11-30"
+jci_1_0: "1.0:c:BWBR0050481&g=2024-11-30"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering flexibele inzet ondersteuning woningbouw (derde tranche)"
+signed_date: "2024-11-25"
+entry_into_force: "2024-11-30"
 ---
-
 # Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 25 november 2024, nr. 2024-0000039225, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van de financiering van capaciteitsondersteuning voor het voorkomen van vertragingen in de voorfase van de woningbouw (Regeling specifieke uitkering flexibele inzet ondersteuning woningbouw (derde tranche))
 
 Gelet op [artikel 2, eerste lid, onderdelen b, g en h, van het Besluit van 29 oktober 2022, houdende het stellen van regels over het verstrekken van specifieke uitkeringen aan gemeenten of provincies voor activiteiten die passen in het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister van Volkshuisvesting en Ruimtelijke Ordening.
 
-#### Artikel 2. Specifieke uitkering
+##### Artikel 2. Specifieke uitkering
 
 1. De minister verstrekt een specifieke uitkering aan de provincie ten behoeve van de financiering van capaciteitsondersteuning in de organisatie van de provincie, de gemeente, het waterschap of een regionaal samenwerkingsverband ter bevordering van:
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - g. de transformatie van vakantieparken naar woningen.
 
-#### Artikel 3. Hoogte van de specifieke uitkering
+##### Artikel 3. Hoogte van de specifieke uitkering
 
 De specifieke uitkering is per provincie vastgesteld en bedraagt exclusief btw:
 
@@ -76,7 +102,7 @@ De specifieke uitkering is per provincie vastgesteld en bedraagt exclusief btw:
 
 - l. Zuid-Holland: € 8.733.700,55.
 
-#### Artikel 4. Wijze van betaling en uitkeringsbeschikking
+##### Artikel 4. Wijze van betaling en uitkeringsbeschikking
 
 1. De minister verleent uiterlijk 31 december 2024 bij het besluit tot verstrekking van de specifieke uitkering een voorschot van 100 procent en betaalt het voorschot in één keer uit.
 
@@ -90,7 +116,7 @@ De specifieke uitkering is per provincie vastgesteld en bedraagt exclusief btw:
 
 - d. het ingeschatte bedrag dat de provincie aan BTW verschuldigd zal zijn.
 
-#### Artikel 5. Verplichtingen
+##### Artikel 5. Verplichtingen
 
 1. De provincie besteedt het volledige bedrag aan specifieke uitkering uiterlijk op 31 december 2026 aan de activiteiten waarvoor deze is verstrekt.
 
@@ -104,13 +130,13 @@ De specifieke uitkering is per provincie vastgesteld en bedraagt exclusief btw:
 
 4. Aan het verstrekken van de specifieke uitkering kan de minister nadere verplichtingen verbinden.
 
-#### Artikel 6. Informatievoorziening na uitkering
+##### Artikel 6. Informatievoorziening na uitkering
 
 1. Gedeputeerde staten informeren de minister op verzoek over de voortgang van de activiteiten waarvoor de specifieke uitkering is verstrekt.
 
 2. Gedeputeerde staten verlenen op verzoek van de minister medewerking en verstrekken op verzoek van de minister informatie ten behoeve van de evaluatie van de doelmatigheid en doeltreffendheid van de activiteiten waarvoor de specifieke uitkering is verstrekt.
 
-#### Artikel 7. Eenmalige informatieverstrekking verwachte inzet middelen
+##### Artikel 7. Eenmalige informatieverstrekking verwachte inzet middelen
 
 1. Gedeputeerde staten verstrekken uiterlijk 1 april 2025 informatie over de verwachte inzet van de middelen middels het daartoe door de minister beschikbaar gestelde formulier.
 
@@ -120,7 +146,7 @@ De specifieke uitkering is per provincie vastgesteld en bedraagt exclusief btw:
 
 - b. de verwachte begin- en einddatum van de activiteiten waarvoor de specifieke uitkering naar verwachting wordt ingezet.
 
-#### Artikel 8. Verantwoording, terugvordering en vaststelling
+##### Artikel 8. Verantwoording, terugvordering en vaststelling
 
 1. Gedeputeerde staten leggen verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -128,11 +154,11 @@ De specifieke uitkering is per provincie vastgesteld en bedraagt exclusief btw:
 
 3. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de specifieke uitkering niet volledig of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan gedeputeerde staten.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering flexibele inzet ondersteuning woningbouw (derde tranche).
 

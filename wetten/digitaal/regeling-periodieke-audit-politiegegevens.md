@@ -1,20 +1,46 @@
 ---
-title: "Regeling periodieke audit politiegegevens"
+title: "Regeling van de Minister van Justitie, de Minister van Binnenlandse Zaken en de Minister van Defensie van 9 december 2008, nr. 5578598/08, houdende nadere regels ten aanzien van het toezicht op de naleving van de bij of krachtens de Wet politiegegevens gegevens voorschriften (Regeling periodieke audit politiegegegevens)"
 identifier: "BWBR0025038"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2019-06-26
-laatste_update: 2019-06-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025038"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-06-26"
+last_updated: "2019-06-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025038"
+soort: "ministeriele-regeling"
+stam_id: "9851453"
+version_id: "16032442"
+internal_id: "C21963661"
+label_id: "9828004"
+dtd_version: "2.0"
+original_entry_into_force: "2009-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025038/2019-06-26/0"
+intitule_bron: "Stcrt.2008-252"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-09"
+intitule_published: "2008-12-30"
+intitule_in_force: "2008-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-252"
+original_signed_date: "2008-12-09"
+original_published_date: "2008-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-2666"
+entry_into_force_date: "2009-01-01"
+jci_1_3: "jci1.3:c:BWBR0025038&z=2019-06-26&g=2019-06-26"
+jci_1_0: "1.0:c:BWBR0025038&g=2019-06-26"
+citeertitel_status: "officieel"
+short_title: "Regeling periodieke audit politiegegevens"
+signed_date: "2008-12-09"
+entry_into_force: "2009-01-01"
 ---
-
 # Regeling van de Minister van Justitie, de Minister van Binnenlandse Zaken en de Minister van Defensie van 9 december 2008, nr. 5578598/08, houdende nadere regels ten aanzien van het toezicht op de naleving van de bij of krachtens de Wet politiegegevens gegevens voorschriften (Regeling periodieke audit politiegegegevens)
 
 Gelet op [artikel 6:5 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:5);
 
 Besluiten:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - j. **hercontrole:** de hercontrole, bedoeld in [artikel 33, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=33).
 
-#### Artikel 2. Privacy audit ([artikel 6:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:5))
+##### Artikel 2. Privacy audit ([artikel 6:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:5))
 
 1. De privacy audit wordt uitgevoerd door middel van een Electronic Data Processing (EDP) audit, ook wel IT-audit genoemd.
 
@@ -64,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 6. Na afronding van de privacy audit wordt de rapportage onverwijld aangeboden aan de verantwoordelijke.
 
-#### Artikel 3. Interne audit ([artikel 6:5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:5))
+##### Artikel 3. Interne audit ([artikel 6:5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:5))
 
 1. De verantwoordelijke draagt zorg dat, mede ter voorbereiding op de privacy audit, tenminste jaarlijks een interne audit plaatsvindt.
 
@@ -106,7 +132,7 @@ In deze regeling wordt verstaan onder:
 
 7. Na afronding van de interne audit wordt de rapportage onverwijld aangeboden aan de verantwoordelijke.
 
-#### Artikel 4. Hercontrole ([artikel 6:5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:5))
+##### Artikel 4. Hercontrole ([artikel 6:5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:5))
 
 1. Indien bij het uitvoeren van de privacy audit tekortkomingen zijn geconstateerd stelt de verantwoordelijke binnen drie maanden een verbeterrapport op waarin de maatregelen worden beschreven die getroffen zijn ter verbetering van de geconstateerde tekortkomingen.
 
@@ -118,7 +144,7 @@ In deze regeling wordt verstaan onder:
 
 5. Na afronding van de hercontrole wordt de rapportage onverwijld aangeboden aan de verantwoordelijke.
 
-#### Artikel 5. De auditor ([artikel 6:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:5))
+##### Artikel 5. De auditor ([artikel 6:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:5))
 
 1. De auditor is ingeschreven als Register EDP-auditor bij de Nederlandse Orde van Register EDP-Auditors, dan wel bij een internationaal of Europees equivalent daarvan.
 
@@ -136,7 +162,7 @@ In deze regeling wordt verstaan onder:
 
 5. De functie van auditor kan worden voorgedragen voor aanwijzing als vertrouwensfunctie ingevolge [artikel 3 van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3).
 
-#### Artikel 6. De interne auditor
+##### Artikel 6. De interne auditor
 
 1. De interne auditor heeft een auditorenopleiding van de politie gevolgd.
 
@@ -152,11 +178,11 @@ In deze regeling wordt verstaan onder:
 
 3. De interne auditor stelt zich onafhankelijk op ten opzichte van de auditee.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2009.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling periodieke audit politiegegevens.
 

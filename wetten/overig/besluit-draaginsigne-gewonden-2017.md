@@ -1,18 +1,44 @@
 ---
-title: "Besluit Draaginsigne Gewonden 2017"
+title: "Besluit houdende vaststelling Draaginsigne Gewonden 2017"
 identifier: "BWBR0039236"
-categorie: "Overig"
-publicatiedatum: 2017-02-28
-laatste_update: 2017-02-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039236"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-02-28"
+last_updated: "2017-02-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039236"
+soort: "ministeriele-regeling"
+stam_id: "13922923"
+version_id: "23935202"
+internal_id: "C34417631"
+label_id: "13886984"
+dtd_version: "2.0"
+original_entry_into_force: "2017-02-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039236/2017-02-28/0"
+intitule_bron: "Stcrt.2017-10580"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-02-17"
+intitule_published: "2017-02-27"
+intitule_in_force: "2017-02-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-10580"
+original_signed_date: "2017-02-17"
+original_published_date: "2017-02-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-10580"
+entry_into_force_date: "2017-02-28"
+jci_1_3: "jci1.3:c:BWBR0039236&z=2017-02-28&g=2017-02-28"
+jci_1_0: "1.0:c:BWBR0039236&g=2017-02-28"
+citeertitel_status: "officieel"
+short_title: "Besluit Draaginsigne Gewonden 2017"
+signed_date: "2017-02-17"
+entry_into_force: "2017-02-28"
 ---
-
 # Besluit houdende vaststelling Draaginsigne Gewonden 2017
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - **psychisch letsel:** een acuut of chronisch psychiatrisch toestandsbeeld, beschreven in het geldende ‘Diagnostic and Statistical Manual of Mental Disorders’ of in de ‘International Classification of Diseases and related health problems’ en waarvan de diagnose is gesteld door of onder supervisie van een psychiater.
 
-#### Artikel 2. Uiterlijk draaginsigne
+##### Artikel 2. Uiterlijk draaginsigne
 
 1. Er is een Draaginsigne Gewonden.
 
@@ -32,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 4. Bij de uitreiking van het draaginsigne ontvangt de gedecoreerde tevens een oorkonde en een verkleinde versie in de vorm van een reversspeld.
 
-#### Artikel 3. Toekenningscriteria
+##### Artikel 3. Toekenningscriteria
 
 1. Het draaginsigne wordt toegekend aan de militair of de gewezen militair die:
 
@@ -58,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 6. Onder enige andere vorm van excessieve geweldsuitoefening, genoemd in het eerste lid, wordt onder meer verstaan: geweldsuitoefening door middel van ontploffing van mijnen of geïmproviseerde explosieven, zelfmoordaanslagen, gijzeling en marteling.
 
-#### Artikel 4. Lichamelijke verwonding of psychisch letsel
+##### Artikel 4. Lichamelijke verwonding of psychisch letsel
 
 1. De ernst van de lichamelijke verwonding of het psychische letsel, genoemd in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039236&artikel=3&z=2017-02-28&g=2017-02-28), wordt in elk geval mede bepaald door de volgende omstandigheden:
 
@@ -76,7 +102,7 @@ In dit besluit wordt verstaan onder:
 
 4. Een blijvende lichamelijke verwonding of blijvend psychisch letsel is niet vereist.
 
-#### Artikel 5. Onwaardig gedrag
+##### Artikel 5. Onwaardig gedrag
 
 1. Toekenning geschiedt niet aan degene die zich onwaardig heeft gedragen.
 
@@ -90,11 +116,11 @@ In dit besluit wordt verstaan onder:
 
 - d. zich opzettelijk schuldig heeft gemaakt aan zelfverwonding.
 
-#### Artikel 6. Eenmalige toekenning
+##### Artikel 6. Eenmalige toekenning
 
 Het draaginsigne wordt eenmalig en bij leven toegekend.
 
-#### Artikel 7. Aanvraagprocedure, toekenning en uitreiking militairen
+##### Artikel 7. Aanvraagprocedure, toekenning en uitreiking militairen
 
 1. Het verzoek om toekenning van het draaginsigne wordt, onder gebruikmaking van het voorgeschreven defensieformulier, schriftelijk ingediend door betrokkene, door de commandant van de militair in actieve dienst of door de zorgcoördinator van het Veteranenloket.
 
@@ -106,29 +132,29 @@ Het draaginsigne wordt eenmalig en bij leven toegekend.
 
 5. De uitreiking van het draaginsigne aan de gewezen militair die in de Caraïbische delen van het Koninkrijk of in het buitenland verblijft, geschiedt naar diens wens door de daar aanwezige militaire autoriteit.
 
-#### Artikel 8. Zeelieden
+##### Artikel 8. Zeelieden
 
 De Minister van Infrastructuur en Milieu beslist in de gevallen waarin dit besluit niet voorziet indien het betreft vaarplichtig koopvaardijpersoneel in oorlogstijd.
 
-#### Artikel 9. Intrekking van de toekenning
+##### Artikel 9. Intrekking van de toekenning
 
 1. De Minister van Defensie of de Minister van Infrastructuur en Milieu kan de toekenning intrekken op grond van feiten of omstandigheden waarvan hij bij de toekenning redelijkerwijs niet op de hoogte kon zijn geweest en op grond waarvan de toekenning niet zou hebben plaatsgehad.
 
 2. Na intrekking als bedoeld in het eerste lid, is betrokkene niet langer gerechtigd het draaginsigne te dragen en wordt dit samen met de oorkonde onverwijld aan de Minister van Defensie teruggegeven.
 
-#### Artikel 10. Hardheidsclausule
+##### Artikel 10. Hardheidsclausule
 
 In zeer bijzondere gevallen kunnen de Minister van Defensie of de Minister van Infrastructuur en Milieu het draaginsigne toekennen aan degene die niet of niet volledig voldoet aan de criteria, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039236&artikel=3&z=2017-02-28&g=2017-02-28).
 
-#### Artikel 11. Intrekking besluit
+##### Artikel 11. Intrekking besluit
 
 Het besluit D90/251/24321 van 11 oktober 1990 en het daarop gebaseerde beleid wordt ingetrokken.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2017.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit Draaginsigne Gewonden 2017.
 

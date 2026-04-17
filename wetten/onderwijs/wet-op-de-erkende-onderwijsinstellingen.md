@@ -1,14 +1,39 @@
 ---
-title: "Wet op de erkende onderwijsinstellingen"
+title: "Wet van 4 juli 1985, houdende Wet op de erkende onderwijsinstellingen"
 identifier: "BWBR0003821"
-categorie: "Onderwijs"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003821"
+country: "nl"
+rank: "wet"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003821"
+soort: "wet"
+stam_id: "1236653"
+version_id: "1820652"
+internal_id: "C36443521"
+label_id: "1197394"
+dtd_version: "2.0"
+original_entry_into_force: "1986-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003821/2022-08-01/0"
+intitule_bron: "Stb.1985-407"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-07-04"
+intitule_published: "1985-07-23"
+intitule_status: "goed"
+original_publication: "Stb.1985-407"
+original_signed_date: "1985-07-04"
+original_published_date: "1985-07-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "18197"
+entry_into_force_date: "1986-10-01"
+jci_1_3: "jci1.3:c:BWBR0003821&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0003821&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Wet op de erkende onderwijsinstellingen"
+signed_date: "1985-07-04"
+entry_into_force: "1986-10-01"
 ---
-
-# Wet op de erkende onderwijsinstellingen
+# Wet van 4 juli 1985, houdende Wet op de erkende onderwijsinstellingen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +43,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ## Titel I. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze wet wordt verstaan onder:
 
@@ -40,7 +65,7 @@ In deze wet wordt verstaan onder:
 
 - i. "deelexamen": een voor de cursist op zich staand examen in een examenvak.
 
-#### Artikel 2. Reikwijdte wet
+##### Artikel 2. Reikwijdte wet
 
 1. Deze wet is van toepassing op het onderwijs dat niet volledig en rechtstreeks uit ’s Rijks kas wordt bekostigd, gericht op het afleggen van een van de volgende examens:
 
@@ -52,11 +77,11 @@ In deze wet wordt verstaan onder:
 
 ## Titel II. Erkenning
 
-#### Artikel 3. Voorwaarden erkenning
+##### Artikel 3. Voorwaarden erkenning
 
 Onze Minister erkent een instelling, indien zij voldoet aan de voorschriften van deze wet en van de algemene maatregel van bestuur, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=III&artikel=9&z=2022-08-01&g=2022-08-01).
 
-#### Artikel 4. Aanvraag tot erkenning; gegevens
+##### Artikel 4. Aanvraag tot erkenning; gegevens
 
 1. Een aanvraag tot erkenning wordt ingediend door het bevoegd gezag van de instelling.
 
@@ -66,19 +91,19 @@ Onze Minister erkent een instelling, indien zij voldoet aan de voorschriften van
 
 4. Onze Minister kan zich omtrent de kwaliteit van de cursussen van de te erkennen instelling door deskundigen doen voorlichten.
 
-#### Artikel 5. Beslissing op de aanvraag
+##### Artikel 5. Beslissing op de aanvraag
 
 Na ontvangst van de aanvraag tot erkenning en de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=II&artikel=4&z=2022-08-01&g=2022-08-01), bedoelde bijlagen wordt binnen 1 jaar na ontvangst hiervan, daarop een beslissing genomen.
 
 ## Titel III. Voorwaarden voor de erkende instelling
 
-#### Artikel 6. Vermelding van erkenning
+##### Artikel 6. Vermelding van erkenning
 
 1. Het bevoegd gezag van de instelling vermeldt de erkenning in de met betrekking tot de instelling uitgaande correspondentie, publikaties en reclame met de woorden "erkend door de Minister van Onderwijs, Cultuur en Wetenschap op grond van de Wet op de erkende onderwijsinstellingen".
 
 2. Indien de instelling andere activiteiten verricht dan het onderwijs waarop deze wet van toepassing is, moet het bevoegd gezag in de met betrekking tot de instelling uitgaande correspondentie, publikaties en reclame, duidelijk doen uitkomen op welk onderwijs de erkenning betrekking heeft.
 
-#### Artikel 7. Bewijzen en verklaringen van bekwaamheid
+##### Artikel 7. Bewijzen en verklaringen van bekwaamheid
 
 1. De auteurs en docenten zijn in het bezit van een bewijs dan wel verklaring van bekwaamheid, zoals die voor het desbetreffende vak voor het op grond van een onderwijswet uit ’s Rijks kas bekostigd onderwijs vereist zijn en indien er geen overeenkomstig op grond van een onderwijswet uit ’s Rijks kas bekostigd onderwijs is, een door Onze Minister aanvaard bewijs of aanvaarde verklaring van bekwaamheid.
 
@@ -86,17 +111,17 @@ Na ontvangst van de aanvraag tot erkenning en de in [artikel 4, tweede lid](http
 
 3. Onze Minister kan goedkeuren dat wordt afgeweken van de in het eerste lid gestelde eis.
 
-#### Artikel 8. Verklaring omtrent het gedrag
+##### Artikel 8. Verklaring omtrent het gedrag
 
 De leden van de directie van de instellingen zijn in het bezit van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194).
 
-#### Artikel 9. Kwaliteit van de cursus
+##### Artikel 9. Kwaliteit van de cursus
 
 1. De cursus is zodanig afgestemd op de kennis en ervaring van de cursist, dat het gestelde doel redelijkerwijs kan worden bereikt.
 
 2. Bij of krachtens algemene maatregel van bestuur worden nadere voorschriften gesteld omtrent de kwaliteit van de cursus en de betrekkingen tussen de instelling en de cursist.
 
-#### Artikel 10. Werving cursisten
+##### Artikel 10. Werving cursisten
 
 1. De werving van cursisten geschiedt op behoorlijke wijze.
 
@@ -106,7 +131,7 @@ De leden van de directie van de instellingen zijn in het bezit van een verklarin
 
 4. Voor de toepassing van het derde lid wordt als persoonlijk bezoek niet aangemerkt het persoonlijk bezoek, dat in overwegende mate voortvloeit uit een initiatief van degene, die wordt bezocht, en als groep van personen wordt niet aangemerkt een groep, welke kennelijk niet met of mede met het oog op de aanprijzing van een cursus in die groep is bijeengebracht.
 
-#### Artikel 11. Overeenkomst met cursist
+##### Artikel 11. Overeenkomst met cursist
 
 1. De overeenkomst tussen de natuurlijke persoon dan wel de rechtspersoon waarvan de instelling uitgaat en de cursist wordt schriftelijk aangegaan en vermeldt in elk geval:
 
@@ -152,7 +177,7 @@ De leden van de directie van de instellingen zijn in het bezit van een verklarin
 
 4. Het eerste tot en met derde lid, met uitzondering van het eerste lid onder **g** onder 1°, is van overeenkomstige toepassing op overeenkomsten tussen de natuurlijke persoon dan wel de rechtspersoon waarvan de instelling uitgaat en de werkgever, die voor één of meer van zijn werknemers de overeenkomst aangaat. Bij overlijden van een werknemer, wiens werkgever de overeenkomst is aangegaan, kan de overeenkomst voortijdig worden ontbonden, indien zij uitsluitend betrekking heeft op die werknemer.
 
-#### Artikel 12. Examens
+##### Artikel 12. Examens
 
 1. De examens van een instelling worden geregeld in een of meer examenreglementen, die de goedkeuring van Onze Minister behoeven. De examenreglementen bevatten in elk geval bepalingen omtrent:
 
@@ -182,13 +207,13 @@ De leden van de directie van de instellingen zijn in het bezit van een verklarin
 
 6. Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven.
 
-#### Artikel 13. Gecommitteerden
+##### Artikel 13. Gecommitteerden
 
 1. Voor het toezicht op de examens van de instellingen kan Onze Minister gecommitteerden aanwijzen. De aanwijzing geldt totdat voor alle cursisten die het examen afleggen de einduitslag is vastgesteld. Indien dit door Onze Minister wordt verzocht, stelt het bevoegd gezag gecommitteerden ter aanwijzing voor.
 
 2. De gecommitteerden ontvangen uit ’s Rijks kas vacatiegeld en een vergoeding van reis- en verblijfkosten, volgens door Onze Minister vast te stellen regels.
 
-#### Artikel 14. Diploma's, certificaten, beoordelingslijsten en verklaringen
+##### Artikel 14. Diploma's, certificaten, beoordelingslijsten en verklaringen
 
 1. Een diploma en een beoordelingslijst worden uitgereikt aan de cursist, die voor het examen van de instelling is geslaagd.
 
@@ -198,11 +223,11 @@ De leden van de directie van de instellingen zijn in het bezit van een verklarin
 
 4. De modellen van de diploma's, de certificaten, de beoordelingslijsten en van de verklaringen behoeven de goedkeuring van Onze Minister.
 
-#### Artikel 16. Waarborg belang onderwijs
+##### Artikel 16. Waarborg belang onderwijs
 
 Het bevoegd gezag draagt er zorg voor dat door zijn handelen of nalaten het belang van het onderwijs waarop deze wet van toepassing is niet kan worden geschaad.
 
-#### Artikel 17. Informatieplicht bevoegd gezag
+##### Artikel 17. Informatieplicht bevoegd gezag
 
 1. Jaarlijks vóór 1 december zendt het bevoegd gezag van de instelling een opgave van het aantal cursisten per 1 november aan Onze Minister.
 
@@ -212,13 +237,13 @@ Het bevoegd gezag draagt er zorg voor dat door zijn handelen of nalaten het bela
 
 4. Het bevoegd gezag van de instelling zendt van alle aan Onze Minister gerichte stukken afschrift aan de inspectie.
 
-#### Artikel 18. Deskundigenonderzoek
+##### Artikel 18. Deskundigenonderzoek
 
 Onze Minister kan zich omtrent de kwaliteit van de cursussen van de instelling door deskundigen doen voorlichten.
 
 ## Titel IV. Nadere voorwaarde voor handhaving van de erkenning; intrekking en verval van de erkenning
 
-#### Artikel 19. Intrekking erkenning
+##### Artikel 19. Intrekking erkenning
 
 1. Indien een instelling niet meer voldoet aan de voorschriften gegeven bij of krachtens deze wet kan Onze Minister:
 
@@ -230,7 +255,7 @@ Onze Minister kan zich omtrent de kwaliteit van de cursussen van de instelling d
 
 3. Onze Minister trekt op aanvraag van het bevoegd gezag van de instelling de erkenning in.
 
-#### Artikel 20. Verval van rechtswege van erkenning
+##### Artikel 20. Verval van rechtswege van erkenning
 
 1. De erkenning van een instelling vervalt van rechtswege, wanneer de instelling niet binnen 1 jaar nadat zij is opgehouden met het geven van onderwijs, opnieuw is aangevangen met het geven van onderwijs.
 
@@ -238,21 +263,21 @@ Onze Minister kan zich omtrent de kwaliteit van de cursussen van de instelling d
 
 ## Titel V. Toezicht
 
-#### Artikel 22. Opdracht tot toezicht, inspectie
+##### Artikel 22. Opdracht tot toezicht, inspectie
 
 Vervallen
 
-#### Artikel 23. Taak inspectie
+##### Artikel 23. Taak inspectie
 
 Vervallen
 
-#### Artikel 24. Toegang en inlichting inspectie
+##### Artikel 24. Toegang en inlichting inspectie
 
 Vervallen
 
 ## Titel VI. Bijzondere bepalingen
 
-#### Artikel 26. Publikatie in de Nederlandse Staatscourant
+##### Artikel 26. Publikatie in de Nederlandse Staatscourant
 
 1. Onze Minister draagt zorg, dat de krachtens deze wet tot stand gebrachte ministeriële regelingen bekend worden gemaakt in de **Nederlandse Staatscourant**.
 
@@ -260,11 +285,11 @@ Vervallen
 
 ## Titel VII. Overgangs- en slotbepalingen
 
-#### Artikel 27. Overgangsbepaling inzake erkenning
+##### Artikel 27. Overgangsbepaling inzake erkenning
 
 In afwijking van het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=II&artikel=5&z=2022-08-01&g=2022-08-01) geldt voor verzoeken die zijn ingediend binnen 1 jaar na de inwerkingtreding van de wet, dat binnen 2 jaar na inwerkingtreding van de wet een beslissing wordt genomen.
 
-#### Artikel 28. Intrekking Weiso
+##### Artikel 28. Intrekking Weiso
 
 1. De Wet erkenning instellingen schriftelijk onderwijs wordt ingetrokken en de erkenningen gegeven op grond van de Wet erkenning instellingen schriftelijk onderwijs worden erkenningen in de zin van deze wet.
 
@@ -272,11 +297,11 @@ In afwijking van het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c
 
 3. Indien een instelling de in het tweede lid bedoelde hernieuwde erkenning binnen 1 jaar na de inwerkingtreding van de wet aanvraagt, blijft de erkenning in het eerste lid gehandhaafd, doch met een werking beperkt tot het schriftelijk onderwijs.
 
-#### Artikel 29. Citeertitel
+##### Artikel 29. Citeertitel
 
 Deze wet kan worden aangehaald als "Wet op de erkende onderwijsinstellingen".
 
-#### Artikel 30. Inwerkingtreding
+##### Artikel 30. Inwerkingtreding
 
 1. Deze wet treedt in werking op een bij Koninklijk besluit te bepalen tijdstip, met dien verstande dat de[artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=II&artikel=5&z=2022-08-01&g=2022-08-01) en [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&titeldeel=VII&artikel=28&z=2022-08-01&g=2022-08-01), een jaar na dat tijdstip in werking treden.
 

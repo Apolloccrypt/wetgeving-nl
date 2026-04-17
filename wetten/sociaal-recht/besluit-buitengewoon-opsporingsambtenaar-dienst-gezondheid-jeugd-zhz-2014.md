@@ -1,13 +1,39 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar Dienst Gezondheid & Jeugd ZHZ 2014"
+title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 5 december 2014, nr. BOACAT2014/051, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Dienst Gezondheid & Jeugd Zuid-Holland-Zuid"
 identifier: "BWBR0035908"
-categorie: "Sociaal recht"
-publicatiedatum: 2014-12-16
-laatste_update: 2014-12-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035908"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-12-16"
+last_updated: "2014-12-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035908"
+soort: "ministeriele-regeling"
+stam_id: "12877593"
+version_id: "21892242"
+internal_id: "C31418001"
+label_id: "12847044"
+dtd_version: "2.0"
+original_entry_into_force: "2014-12-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035908/2014-12-16/0"
+intitule_bron: "Stcrt.2014-35767"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-05"
+intitule_published: "2014-12-15"
+intitule_in_force: "2014-12-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-35767"
+original_signed_date: "2014-12-05"
+original_published_date: "2014-12-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-35767"
+entry_into_force_date: "2014-12-16"
+jci_1_3: "jci1.3:c:BWBR0035908&z=2014-12-16&g=2014-12-16"
+jci_1_0: "1.0:c:BWBR0035908&g=2014-12-16"
+citeertitel_status: "officieel"
+short_title: "Besluit buitengewoon opsporingsambtenaar Dienst Gezondheid & Jeugd ZHZ 2014"
+signed_date: "2014-12-05"
+entry_into_force: "2014-12-16"
 ---
-
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 5 december 2014, nr. BOACAT2014/051, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Dienst Gezondheid & Jeugd Zuid-Holland-Zuid
 
 Gelezen het verzoek van de Dienst Gezondheid & Jeugd Zuid-Holland-Zuid van 27 november 2014 en de adviezen van de hoofdofficier van justitie Rotterdam en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
@@ -22,11 +48,11 @@ Gelet op:
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de ambtenaren belast met de opsporing van strafbare feiten in de functie van leerplichtambtenaar werkzaam bij de Dienst Gezondheid & Jeugd Zuid-Holland-Zuid.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035908&artikel=1&z=2014-12-16&g=2014-12-16) bedoelde ambtenaren zijn bevoegd tot het opsporen van de strafbare feiten genoemd in domein III Onderwijs, [bijlage A-I van de Circulaire Buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0029447&bijlage=A-I), voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -34,17 +60,17 @@ In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de ambtena
 
 3. De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het domein waarin hij is aangesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 Op grond van dit besluit kunnen maximaal 50 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie Rotterdam.
 
 2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27) / het hoofd van de desbetreffende dienst.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Dienst Gezondheid & Jeugd Zuid-Holland-Zuid brengt jaarlijks, voor 1 april, verslag uit over:
 
@@ -56,15 +82,15 @@ Op grond van dit besluit kunnen maximaal 50 personen als buitengewoon opsporings
 
 2. Dit verslag wordt toegezonden aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035908&artikel=4&z=2014-12-16&g=2014-12-16) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
-#### Artikel 6
+##### Artikel 6
 
 De individuele akten van opsporingsbevoegdheid en beëdiging en de overige benoemingsbescheiden van de buitengewoon opsporingsambtenaren in dienst van de Dienst Gezondheid & Jeugd Zuid-Holland-Zuid in de functie van leerplichtambtenaar, worden voor de duur van hun geldigheid of tot daarover nader zal zijn beslist, geacht te zijn akten en overige benoemingsbescheiden afgegeven mede op basis van het onderhavige besluit.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt vijf jaar na het tijdstip van inwerkingtreding.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Dienst Gezondheid & Jeugd ZHZ 2014.
 

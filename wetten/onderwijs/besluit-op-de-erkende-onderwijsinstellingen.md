@@ -1,13 +1,35 @@
 ---
-title: "Besluit op de erkende onderwijsinstellingen"
+title: "Besluit van 26 augustus 1986, houdende nadere voorschriften voor de erkende onderwijsinstellingen"
 identifier: "BWBR0004019"
-categorie: "Onderwijs"
-publicatiedatum: 2014-01-06
-laatste_update: 2014-01-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004019"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-01-06"
+last_updated: "2014-01-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004019"
+soort: "AMvB"
+stam_id: "760693"
+version_id: "1108622"
+internal_id: "C1108621"
+label_id: "738124"
+dtd_version: "2.0"
+original_entry_into_force: "1986-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004019/2014-01-06/0"
+intitule_bron: "Stb.1986-466"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1986-08-26"
+intitule_status: "goed"
+original_publication: "Stb.1986-466"
+original_signed_date: "1986-08-26"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1986-10-01"
+jci_1_3: "jci1.3:c:BWBR0004019&z=2014-01-06&g=2014-01-06"
+jci_1_0: "1.0:c:BWBR0004019&g=2014-01-06"
+citeertitel_status: "officieel"
+short_title: "Besluit op de erkende onderwijsinstellingen"
+signed_date: "1986-08-26"
+entry_into_force: "1986-10-01"
 ---
-
 # Besluit van 26 augustus 1986, houdende nadere voorschriften voor de erkende onderwijsinstellingen
 
 Op de voordracht van de Staatssecretaris van Onderwijs en Wetenschappen, drs. N. J. Ginjaar-Maas, van 16 mei 1986, nr. 7263/3149A, centrale directie Wetgeving en Juridische Zaken;
@@ -24,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepaling
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -56,17 +78,17 @@ In dit besluit wordt verstaan onder:
 
 #### § 1. Algemeen
 
-#### Artikel 2. Aanpassing cursussen aan nieuwe ontwikkelingen
+##### Artikel 2. Aanpassing cursussen aan nieuwe ontwikkelingen
 
 Het bevoegd gezag van de instelling draagt er zorg voor dat de cursussen zowel inhoudelijk als methodisch en didactisch verantwoord zijn en worden aangepast aan nieuwe, ter zake dienende ontwikkelingen.
 
-#### Artikel 3. Vervanging van docenten
+##### Artikel 3. Vervanging van docenten
 
 Het bevoegd gezag van de instelling draagt er zorg voor dat de docent die bij herhaling de met hem overeengekomen taken niet naar behoren vervult, wordt vervangen.
 
 #### § 2. Correctie bij het schriftelijk onderwijs
 
-#### Artikel 4. Regelmaat bij inzending
+##### Artikel 4. Regelmaat bij inzending
 
 1. Het bevoegd gezag van de instelling draagt er zorg voor dat de cursist vóór de aanvang van de cursus schriftelijk wordt medegedeeld, dat het van wezenlijk belang is dat regelmatig werk ter correctie wordt ingezonden.
 
@@ -74,47 +96,47 @@ Het bevoegd gezag van de instelling draagt er zorg voor dat de docent die bij he
 
 3. Indien de cursist gedurende een maand na de datum waarop de brief of de aanwijzing, bedoeld in het tweede lid, is verzonden in gebreke blijft, doet het bevoegd gezag van de instelling binnen twee weken na het verstrijken van die termijn tenminste nog eenmaal de in het tweede lid bedoelde brief of aanwijzing aan de cursist toekomen.
 
-#### Artikel 5. Aanwijzingen bij correctie
+##### Artikel 5. Aanwijzingen bij correctie
 
 De docent doet de correctie vergezeld gaan van alle ter zake doende aanwijzingen voor de cursist.
 
-#### Artikel 6. Verzending van huiswerk
+##### Artikel 6. Verzending van huiswerk
 
 1. Het te corrigeren en gecorrigeerde werk bereikt de docent onderscheidenlijk de cursist uitsluitend via het bevoegd gezag van de instelling.
 
 2. Onze Minister kan ontheffing verlenen van het bepaalde in het eerste lid. Bij het verlenen van de ontheffing kan Onze Minister voorwaarden stellen.
 
-#### Artikel 7. Termijn voor correctie
+##### Artikel 7. Termijn voor correctie
 
 Het door de cursist ingezonden werk dient binnen twee weken na ontvangst gecorrigeerd en eventueel van een beoordeling voorzien, aan de cursist te worden teruggezonden. Het bevoegd gezag van de instelling houdt hiervan administratie.
 
-#### Artikel 8. Controle en administratie van correctie
+##### Artikel 8. Controle en administratie van correctie
 
 Het bevoegd gezag van de instelling oefent controle uit op een juiste uitvoering van de correctie door de docent en houdt hiervan administratie.
 
 #### § 3. Het mondeling en ander niet-schriftelijk onderwijs
 
-#### Artikel 9. Regelmaat bij het volgen van lessen
+##### Artikel 9. Regelmaat bij het volgen van lessen
 
 1. Het bevoegd gezag van de instelling draagt er zorg voor dat de cursist vóór de aanvang van de cursus schriftelijk wordt medegedeeld, dat het van wezenlijk belang is dat de lessen regelmatig worden bijgewoond en dat het noodzakelijk is die lessen zorgvuldig voor te bereiden.
 
 2. Indien de cursist veelvuldig zonder bericht van verhindering de lessen niet bijwoont, draagt het bevoegd gezag van de instelling er zorg voor dat aan de cursist nogmaals wordt medegedeeld dat het van wezenlijk belang is dat de lessen regelmatig worden bijgewoond.
 
-#### Artikel 10. Lesprogramma
+##### Artikel 10. Lesprogramma
 
 Het bevoegd gezag van de instelling ziet er op toe dat de docenten het onderwijs geven volgens het door het bevoegd gezag van de instelling vastgestelde lesprogramma.
 
 ### Hoofdstuk III. De betrekkingen tussen instelling en cursist
 
-#### Artikel 11. Inlichtingen aan cursist omtrent cursus
+##### Artikel 11. Inlichtingen aan cursist omtrent cursus
 
 Het bevoegd gezag van de instelling verschaft aan de cursist uitsluitend juiste en volledige inlichtingen. Het onthoudt zich van voorspiegelingen met betrekking tot redelijkerwijs niet te bereiken resultaten en geeft geen onjuiste suggesties met betrekking tot het te behalen diploma.
 
-#### Artikel 12. Overeenkomst met de cursist
+##### Artikel 12. Overeenkomst met de cursist
 
 Het bevoegd gezag van de instelling vermeldt in de prospectussen en studiegidsen op duidelijke wijze de gegevens die op grond van [artikel 11, eerste lid, de onderdelen **a** tot en met **i**, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003821&artikel=11) in de overeenkomst dienen te worden opgenomen.
 
-#### Artikel 13. Continuïteit van het onderwijs
+##### Artikel 13. Continuïteit van het onderwijs
 
 1. Het bevoegd gezag van de instelling draagt er zorg voor bij voortduring in staat te zijn zijn verplichtingen ten aanzien van de cursist na te komen.
 
@@ -122,13 +144,13 @@ Het bevoegd gezag van de instelling vermeldt in de prospectussen en studiegidsen
 
 3. Onze Minister kan goedkeuren dat wordt afgeweken van het bepaalde in het tweede lid.
 
-#### Artikel 14. Lokaliteiten
+##### Artikel 14. Lokaliteiten
 
 Het bevoegd gezag van de instelling draagt er zorg voor dat de lokaliteiten waarin mondelinge lessen of praktijkoefeningen worden gegeven, en die waarin de examens van de instelling worden afgenomen, voldoen aan redelijke eisen.
 
 ### Hoofdstuk IV. Examens
 
-#### Artikel 15. Examenreglement
+##### Artikel 15. Examenreglement
 
 1. De examens van een instelling worden geregeld in een of meer examenreglementen, die de goedkeuring van Onze Minister behoeven.
 
@@ -156,7 +178,7 @@ Het bevoegd gezag van de instelling draagt er zorg voor dat de lokaliteiten waar
 
 - j. een regeling voor de examinering van kandidaten die in bijzondere omstandigheden verkeren.
 
-#### Artikel 16. Samenstelling examencommissie
+##### Artikel 16. Samenstelling examencommissie
 
 1. Het bevoegd gezag van de instelling benoemt de examencommissie ten minste vier maanden voor de aanvang van het examen.
 
@@ -170,71 +192,71 @@ Het bevoegd gezag van de instelling draagt er zorg voor dat de lokaliteiten waar
 
 6. De examencommissie kan zich doen bijstaan door examinatoren, beoordelaars en toezichthouders. De examinatoren en beoordelaars dienen voor het merendeel deskundigen te zijn in de zin van het vierde lid.
 
-#### Artikel 17. Aanmelding voor het examen
+##### Artikel 17. Aanmelding voor het examen
 
 Bij de aanmelding voor het examen dient de kandidaat een gewaarmerkt afschrift van de benodigde gegevens uit de basisregistratie personen over te leggen.
 
-#### Artikel 18. Examenrooster
+##### Artikel 18. Examenrooster
 
 Het examenrooster alsmede een opgave van de data van de vergaderingen van de examencommissie worden tenminste zes weken voor de aanvang van het examen gezonden aan Onze Minister, aan de inspectie en, voor zover deze zijn aangewezen, aan de gecommitteerden.
 
-#### Artikel 19. Examenopgaven
+##### Artikel 19. Examenopgaven
 
 1. De examenopgaven worden met de vereiste zorg voor geheimhouding vastgesteld. Op de enveloppen worden aangegeven het vak of het onderdeel van het vak waarop de inhoud betrekking heeft, de datum en het tijdstip waarop de opgaven aan de kandidaten moeten worden voorgelegd, de tijd die voor het werk beschikbaar is, alsmede het aantal ingesloten exemplaren. De voorzitter van de examencommissie draagt er zorg voor dat deze enveloppen met de vereiste geheimhouding in ongeopende staat worden bewaard tot de aanvang van het examen.
 
 2. Bij de aanvang van het examen worden de enveloppen onder verantwoordelijkheid van de voorzitter van de examencommissie in tegenwoordigheid van de kandidaten geopend.
 
-#### Artikel 20. Toezicht op het examen
+##### Artikel 20. Toezicht op het examen
 
 Indien voor het toezicht op het examen gecommitteerden zijn aangewezen, draagt het bevoegd gezag van de instelling er zorg voor dat dezen in de gelegenheid worden gesteld datgene te doen dat voor de vervulling van hun taak nodig is.
 
-#### Artikel 21. De beoordeling
+##### Artikel 21. De beoordeling
 
 De beoordeling van het examen geschiedt door twee of meer personen, die in meerderheid geen belangen hebben die vermengd zijn met die van de instelling. Indien de beoordeling van het examen geschiedt door twee personen, dient ten minste een van hen geen belangen te hebben die vermengd zijn met die van de instelling.
 
-#### Artikel 22. Uitslag
+##### Artikel 22. Uitslag
 
 De uitslag van het examen wordt vastgesteld door de examencommissie.
 
-#### Artikel 23. Diploma's, certificaten en beoordelingslijsten
+##### Artikel 23. Diploma's, certificaten en beoordelingslijsten
 
 Diploma's, certificaten en beoordelingslijsten worden ondertekend door de voorzitter, door een van de leden van de examencommissie en, voor zover deze is aangewezen, door een gecommitteerde.
 
-#### Artikel 24. Bewaartermijnen
+##### Artikel 24. Bewaartermijnen
 
 1. Het schriftelijk examenwerk wordt gedurende tenminste 6 maanden na afloop van het examen bewaard door het bevoegd gezag van de instelling en is ter inzage voor belanghebbenden.
 
 2. Het bevoegd gezag van de instelling draagt er zorg voor dat een volledig stel van de bij de schriftelijke examens gebruikte opgaven, de beoordelingsnormen en van elke kandidaat een lijst met de bij het examen behaalde cijfers, alsmede de uitslag bewaard blijven in het archief van de instelling.
 
-#### Artikel 25. Onvoorziene omstandigheden
+##### Artikel 25. Onvoorziene omstandigheden
 
 Indien door onvoorziene omstandigheden het examen in één of meer vakken niet op de voorgeschreven wijze kan worden afgenomen, besluit de voorzitter van de examencommissie hoe alsdan moet worden gehandeld na overleg met de inspectie en voor zover deze is aangewezen met de gecommitteerde.
 
 ### Hoofdstuk V. Maatregelen indien een instelling ten aanzien van een of meer cursussen niet voldoet aan de voorschriften
 
-#### Artikel 26. Commentaar op deskundigenrapport
+##### Artikel 26. Commentaar op deskundigenrapport
 
 Indien uit een deskundigenonderzoek blijkt dat de instelling niet meer voldoet aan de voorschriften gegeven bij of krachtens de [Wet op de erkende onderwijsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003821), stelt Onze Minister het bevoegd gezag van de instelling in de gelegenheid binnen 60 dagen na de dag van verzending van het deskundigenrapport commentaar te leveren op dit rapport.
 
-#### Artikel 27. Maatregelen bij onvolkomenheden
+##### Artikel 27. Maatregelen bij onvolkomenheden
 
 Indien door de geconstateerde onvolkomenheden het belang van de cursisten wordt geschaad en de instelling deze niet binnen een door Onze Minister gestelde termijn herstelt, kan Onze Minister de inschrijving op de desbetreffende cursussen verbieden totdat de onvolkomenheden zijn hersteld.
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29. Informatieplicht bevoegd gezag
+##### Artikel 29. Informatieplicht bevoegd gezag
 
 Het bevoegd gezag van de instelling draagt er zorg voor dat Onze Minister regelmatig op de hoogte wordt gehouden van de werkzaamheden die voortvloeien uit de maatregel, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=V&artikel=27&z=2014-01-06&g=2014-01-06).
 
 ### Hoofdstuk VI. Slotbepalingen
 
-#### Artikel 30. Inwerkingtreding Weo en besluit
+##### Artikel 30. Inwerkingtreding Weo en besluit
 
 Dit besluit alsmede de wet met uitzondering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=II&paragraaf=2&artikel=5&z=2014-01-06&g=2014-01-06) en [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004019&hoofdstuk=V&artikel=28&z=2014-01-06&g=2014-01-06), treden in werking met ingang van de eerste kalendermaand na de datum van uitgifte van het **Staatsblad** waarin dit besluit wordt geplaatst. Indien het **Staatsblad** waarin dit besluit wordt geplaatst, wordt uitgegeven op de voorlaatste of laatste dag van een kalendermaand, treden zij in werking met ingang van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad** waarin dit besluit wordt geplaatst.
 
-#### Artikel 31. Citeertitel
+##### Artikel 31. Citeertitel
 
 Dit besluit kan worden aangehaald als "Besluit op de erkende onderwijsinstellingen".
 

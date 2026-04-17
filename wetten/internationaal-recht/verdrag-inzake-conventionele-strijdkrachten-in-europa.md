@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake conventionele strijdkrachten in Europa"
 identifier: "BWBV0002009"
-categorie: "Internationaal recht"
-publicatiedatum: 1993-07-06
-laatste_update: 1993-07-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002009"
+country: "nl"
+rank: "verdrag"
+publication_date: "1993-07-06"
+last_updated: "1993-07-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002009"
+soort: "verdrag"
+stam_id: "10002608663"
+version_id: "10002610042"
+internal_id: "C10010045971"
+label_id: "10002602294"
+dtd_version: "2.0"
+original_entry_into_force: "1992-11-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002009/1993-07-06/0"
+intitule_bron: "Trb.1991-31"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-11-08"
+intitule_published: "1991-02-25"
+intitule_in_force: "1992-12-18"
+intitule_status: "goed"
+original_publication: "Trb.1991-31"
+original_signed_date: "1991-11-08"
+original_published_date: "1991-02-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1991-31"
+entry_into_force_date: "1992-11-09"
+jci_1_3: "jci1.3:c:BWBV0002009&z=1993-07-06&g=1993-07-06"
+jci_1_0: "1.0:c:BWBV0002009&g=1993-07-06"
+citeertitel_status: "redactioneel"
+signed_date: "1991-11-08"
+entry_into_force: "1992-11-09"
 ---
-
 # Verdrag inzake conventionele strijdkrachten in Europa
 
 De Republiek Armenië, de Republiek Azerbeidzjan, de Republiek Belarus, het Koninkrijk België, de Republiek Bulgarije, Canada, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Franse Republiek, de Republiek Georgië, de Helleense Republiek, de Republiek Hongarije, de Republiek IJsland, de Italiaanse Republiek, de Republiek Kazachstan, het Groothertogdom Luxemburg, de Republiek Moldavië, het Koninkrijk der Nederlanden, het Koninkrijk Noorwegen, Oekraïne, de Republiek Polen, de Portugese Republiek, Roemenië, de Russische Federatie, de Slowaakse Republiek, het Koninkrijk Spanje, de Tsjechische Republiek, de Republiek Turkije, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Verenigde Staten van Amerika, hierna te noemen de Partijen,
@@ -38,7 +63,7 @@ Zijn overeengekomen als volgt:
 
 Opgeschort per 7 december 2023 (Trb. 2023/141).
 
-#### Artikel I
+##### Artikel I
 
 1. Elke Partij vervult de verplichtingen die zijn vervat in dit Verdrag, zulks overeenkomstig de bepalingen daarvan, met inbegrip van de verplichtingen betreffende de volgende vijf categorieën conventionele strijdkrachten: gevechtstanks, pantsergevechtsvoertuigen, artillerie, gevechtsvliegtuigen en gevechtshelikopters.
 
@@ -46,7 +71,7 @@ Opgeschort per 7 december 2023 (Trb. 2023/141).
 
 3. Dit Verdrag omvat mede het Protocol inzake bestaande typen conventionele wapensystemen, hierna te noemen het Protocol inzake bestaande typen, met een Bijlage daarbij; het Protocol inzake procedures betreffende de reclassificering van bepaalde modellen of versies van lesvliegtuigen met gevechtscapaciteit als onbewapende lesvliegtuigen, hierna te noemen het Protocol inzake de reclassificering van vliegtuigen; het Protocol inzake procedures betreffende de vermindering van conventionele wapensystemen beperkt bij het Verdrag inzake conventionele strijdkrachten in Europa, hierna te noemen het Protocol inzake vermindering; het Protocol inzake procedures betreffende de categorisering van gevechtshelikopters en de recategorisering van algemeen inzetbare aanvalshelikopters, hierna te noemen het Protocol inzake de recategorisering van helikopters; het Protocol inzake bekendmaking en uitwisseling van informatie, hierna te noemen het Protocol inzake informatie-uitwisseling, met een Bijlage inzake vormvoorschriften voor de uitwisseling van informatie, hierna te noemen de Bijlage inzake vormvoorschriften; het Protocol inzake inspectie; het Protocol inzake het Gemengd Overlegorgaan; en het Protocol inzake de voorlopige toepassing van enkele bepalingen van het Verdrag inzake conventionele strijdkrachten in Europa, hierna te noemen het Protocol inzake voorlopige toepassing. Elk van deze documenten maakt een integrerend deel uit van dit Verdrag.
 
-#### Artikel II
+##### Artikel II
 
 1. Voor de toepassing van dit Verdrag:
 
@@ -96,7 +121,7 @@ Opgeschort per 7 december 2023 (Trb. 2023/141).
 
 3. De in het Protocol inzake bestaande typen opgesomde bestaande typen gevechtshelikopters worden gecategoriseerd in overeenstemming met Titel I van het Protocol inzake de recategorisering van helikopters.
 
-#### Artikel III
+##### Artikel III
 
 1. Voor de toepassing van dit Verdrag passen de Partijen de volgende telregels toe:
 
@@ -118,7 +143,7 @@ Alle gevechtstanks, pantsergevechtsvoertuigen, artillerie, gevechtsvliegtuigen e
 
 2. Indien een Partij, wat zulke gevechtstanks, pantsergevechtsvoertuigen, artillerie, gevechtsvliegtuigen of aanvalshelikopters betreft, die moeten worden bekendgemaakt ingevolge Titel IV van het Protocol inzake informatie-uitwisseling, in meer dan twee achtereenvolgende jaarlijkse informatie-uitwisselingen een ongewoon hoog aantal bekendmaakt, geeft zij op verzoek de redenen daarvoor in het Gemengd Overlegorgaan.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Binnen het toepassingsgebied zoals omschreven in artikel II, beperkt en, voor zover nodig, vermindert elke Partij haar aantallen gevechtstanks, pantsergevechtsvoertuigen, stukken artillerie, gevechtsvliegtuigen, en aanvalshelikopters zodat 40 maanden na de inwerkingtreding van dit Verdrag en daarna, voor de groep van Partijen waartoe zij behoort, zoals omschreven in artikel II, de totale aantallen binnen het toepassingsgebied niet groter zijn dan:
 
@@ -170,7 +195,7 @@ Gevechtstanks, pantsergevechtsvoertuigen en artillerie die niet in actieve eenhe
 
 6. Indien de totale aantallen gevechtstanks, pantsergevechtsvoertuigen en stukken artillerie in actieve eenheden van een groep van Partijen binnen het gebied beschreven in het vierde lid van dit artikel kleiner zijn dan de getalsmatige beperkingen genoemd in het vierde lid van dit artikel en mits geen enkele Partij daardoor wordt belet haar in overeenstemming met artikel VII, tweede, derde en vijfde lid, bekendgemaakte maximumaantallen te bereiken, kunnen aantallen gelijk aan het verschil tussen de totale aantallen in elk van de categorieën gevechtstanks, pantsergevechtsvoertuigen en artillerie en de voor dat gebied aangegeven getalsmatige beperkingen, door Partijen behorend tot die groep van Partijen worden geplaatst in het gebied beschreven in het derde lid van dit artikel, zulks in overeenstemming met de in het derde lid van dit artikel aangegeven getalsmatige beperkingen.
 
-#### Artikel V
+##### Artikel V
 
 1. Ten einde te verzekeren dat de veiligheid van een Partij nimmer nadelig wordt beïnvloed:
 
@@ -200,7 +225,7 @@ Gevechtstanks, pantsergevechtsvoertuigen en artillerie die niet in actieve eenhe
 
 2. Uiterlijk bij de aanvang van de plaatsing wordt deze aan alle andere Partijen bekendgemaakt door de plaatsende Partij of Partijen en door de ontvangende Partij of Partijen, waarbij per categorie het totale aantal geplaatste gevechtstanks, pantsergevechtsvoertuigen en stukken artillerie wordt aangegeven. Eveneens maken de plaatsende Partij of Partijen en de ontvangende Partij of Partijen binnen 30 dagen na de terugtrekking van de tijdelijk geplaatste gevechtstanks, pantsergevechtsvoertuigen en stukken artillerie deze bekend aan alle andere Partijen.
 
-#### Artikel VI
+##### Artikel VI
 
 Ten einde te verzekeren dat geen enkele Partij meer dan ongeveer een derde van de bij het Verdrag beperkte conventionele wapensystemen bezit binnen het toepassingsgebied, beperkt en, voor zover nodig, vermindert elke Partij haar aantallen gevechtstanks, pantsergevechtsvoertuigen, stukken artillerie, gevechtsvliegtuigen en aanvalshelikopters zodat, 40 maanden na de inwerkingtreding van dit Verdrag en daarna, de aantallen binnen het toepassingsgebied voor die Partij niet groter zijn dan:
 
@@ -214,7 +239,7 @@ Ten einde te verzekeren dat geen enkele Partij meer dan ongeveer een derde van d
 
 - E. 1.500 aanvalshelikopters.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Opdat de beperkingen genoemd in de artikelen IV, V en VI niet worden overschreden mag geen enkele Partij, na het verstrijken van 40 maanden na de inwerkingtreding van dit Verdrag, de maximumaantallen voor haar bij het Verdrag beperkte conventionele wapensystemen overschrijden die zij eerder binnen haar groep van Partijen is overeengekomen in overeenstemming met het zevende lid van dit artikel en die zij ingevolge de bepalingen van dit artikel heeft bekendgemaakt.
 
@@ -230,7 +255,7 @@ Ten einde te verzekeren dat geen enkele Partij meer dan ongeveer een derde van d
 
 7. Het is de uitsluitende verantwoordelijkheid van elke afzonderlijke Partij te verzekeren dat de maximumaantallen die ingevolge de bepalingen van dit artikel zijn bekendgemaakt, niet worden overschreden. Partijen behorend tot dezelfde groep van Partijen plegen overleg ten einde te verzekeren dat de maximumaantallen die ingevolge de bepalingen van dit artikel zijn bekendgemaakt, te zamen genomen, de in de artikelen IV, V en VI genoemde beperkingen niet overschrijden.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. De in de artikelen IV, V en VI uiteengezette getalsmatige beperkingen worden uitsluitend verwezenlijkt door middel van vermindering in overeenstemming met het Protocol inzake vermindering, het Protocol inzake de recategorisering van helikopters, het Protocol inzake de reclassificering van vliegtuigen, de voetnoot bij Titel I, paragraaf 2, letter A, van het Protocol inzake bestaande typen en het Protocol inzake inspectie.
 
@@ -276,7 +301,7 @@ Ten einde te verzekeren dat geen enkele Partij meer dan ongeveer een derde van d
 
 13. Het verminderingsproces, met inbegrip van de resultaten van de conversie van bij het Verdrag beperkte conventionele wapensystemen voor niet-militaire doeleinden, is zowel gedurende het verminderingstijdvak, als in de 24 maanden na het verminderingstijdvak, onderworpen aan inspectie, zonder recht van weigering, in overeenstemming met het Protocol inzake inspectie.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Anders dan afvoer van materieel in overeenstemming met de bepalingen van artikel V1I1 worden gevechtstanks, pantsergevechtsvoertuigen, artillerie, gevechtsvliegtuigen en aanvalshelikopters binnen het toepassingsgebied afgevoerd uitsluitend door middel van uitdienststelling, mits:
 
@@ -286,7 +311,7 @@ Ten einde te verzekeren dat geen enkele Partij meer dan ongeveer een derde van d
 
 2. De bekendmaking van uitdienststelling omvat het aantal en het type van de bij het Verdrag beperkte conventionele wapensystemen die uit dienst worden gesteld, alsmede de plaats van de uitdienststelling, en deze bekendmaking wordt aan alle andere Partijen afgegeven in overeenstemming met Titel IX, paragraaf 1, letter B, van het Protocol inzake informatie-uitwisseling.
 
-#### Artikel X
+##### Artikel X
 
 1. De Partij waaraan de bij het Verdrag beperkte conventionele wapensystemen toebehoren die zich bevinden in aangewezen permanente opslagplaatsen maakt, in overeenstemming met het Protocol inzake informatie-uitwisseling, de aangewezen permanente opslagplaatsen bekend aan alle andere Partijen. In de bekendmaking worden de benaming en de ligging, met inbegrip van geografische coördinaten, van de aangewezen permanente opslagplaatsen vermeld, alsmede de aantallen per type van elke categorie van haar bij het Verdrag beperkte conventionele wapensystemen die zich in elk van deze opslagplaatsen bevinden.
 
@@ -322,7 +347,7 @@ Ten einde te verzekeren dat geen enkele Partij meer dan ongeveer een derde van d
 
 11. Elke Partij heeft het recht om bij het Verdrag beperkte conventionele wapensystemen die zich in aangewezen permanente opslagplaatsen bevinden te vervangen. Elke Partij maakt aan het begin van de vervanging aan alle andere Partijen bekend het aantal, de verblijfplaats, het type en de bestemming van bij het Verdrag beperkte conventionele wapensystemen die worden vervangen.
 
-#### Artikel XI
+##### Artikel XI
 
 1. Elke Partij beperkt haar brugleggende tanks, zodat 40 maanden na de inwerkingtreding van dit Verdrag en daarna voor de groep van Partijen waartoe zij behoort het totale aantal brugleggende tanks in actieve eenheden binnen het toepassingsgebied niet groter is dan 740.
 
@@ -344,13 +369,13 @@ Ten einde te verzekeren dat geen enkele Partij meer dan ongeveer een derde van d
 
 7. In geval van natuurrampen die een overstroming of schade.aan vaste bruggen met zich meebrengen, hebben Partijen het recht om brugleggende tanks te onttrekken aan aangewezen permanente opslagplaatsen. Op het tijdstip van onttrekking wordt zulks bekendgemaakt aan alle andere Partijen.
 
-#### Artikel XII
+##### Artikel XII
 
 1. Pantserinfanteriegevechtsvoertuigen in het bezit van organisaties van een Partij die qua opzet en structuur bedoeld zijn om in vredestijd binnenlandse veiligheidstaken te verrichten en die qua structuur en organisatievorm niet geschikt zijn voor grondgevechten tegen een buitenlandse vijand, worden niet beperkt door dit Verdrag. Desondanks, ten einde de uitvoering van dit Verdrag te verbeteren en te verzekeren dat het aantal voertuigen dat bedoelde organisaties in bezit hebben niet wordt gebruikt om de bepalingen van dit Verdrag te omzeilen, maken alle pantserinfanteriegevechtsvoertuigen boven de 1000 die door een Partij zijn toegewezen aan organisaties die qua opzet en structuur bedoeld zijn om in vredestijd binnenlandse veiligheidstaken te verrichten, deel uit van de toegestane aantallen genoemd in de artikelen IV, V en VI. Van de pantserinfanteriegevechtsvoertuigen van een Partij die zijn ondergebracht bij bedoelde organisaties mogen zich ten hoogste 600 bevinden in het gedeelte van het toepassingsgebied omschreven in artikel V, eerste lid, letter A. Elke Partij verzekert voorts dat deze organisaties zich onthouden van de verwerving van meer gevechtscapaciteit dan nodig is om te voorzien in de behoeften op het gebied van de binnenlandse veiligheid.
 
 2. Een Partij die voornemens is gevechtstanks, pantserinfanteriegevechtsvoertuigen, artillerie, gevechtsvliegtuigen, aanvalshelikopters en brugleggende tanks in dienst van haar conventionele strijdkrachten over te dragen aan een organisatie van die Partij die geen deel uitmaakt van haar conventionele strijdkrachten, maakt dit bekend aan alle andere Partijen, zulks uiterlijk op de datum waarop de overdracht ingaat. In de bekendmaking worden de ingangsdatum van de overdracht en de datum waarop deze wapensystemen feitelijk worden overgebracht vermeld, alsook de aantallen, per type, van de bij het Verdrag beperkte conventionele wapensystemen die worden overgedragen.
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. Ten einde de naleving van de bepalingen van dit Verdrag te kunnen verifiëren geeft elke Partij bekendmakingen af en wisselt zij informatie uit omtrent haar conventionele wapensystemen in overeenstemming met het Protocol inzake informatie-uitwisseling.
 
@@ -358,7 +383,7 @@ Ten einde te verzekeren dat geen enkele Partij meer dan ongeveer een derde van d
 
 3. Elke Partij is verantwoordelijk voor haar eigen informatie; de ontvangst van deze informatie en van bekendmakingen houdt geen bevestiging van de juistheid of aanvaarding van de verstrekte informatie in.
 
-#### Artikel XIV
+##### Artikel XIV
 
 1. Ten einde de naleving van de bepalingen van het Verdrag te kunnen verifiëren, heeft elke Partij het recht binnen het toepassingsgebied inspecties te houden en de plicht deze te dulden, zulks in overeenstemming met het Protocol inzake inspectie.
 
@@ -378,7 +403,7 @@ Ten einde te verzekeren dat geen enkele Partij meer dan ongeveer een derde van d
 
 6. Na het verstrijken van het 120 dagen durende restinventarisatietijdvak heeft elke Partij het recht een overeen te komen aantal luchtinspecties te houden binnen het toepassingsgebied en heeft elke Partij met grondgebied binnen het toepassingsgebied de plicht deze te dulden. De overeen te komen aantallen en andere toepasselijke bepalingen worden nader uitgewerkt gedurende de in artikel XVIII bedoelde onderhandelingen.
 
-#### Artikel XV
+##### Artikel XV
 
 1. Ten einde de naleving van de bepalingen van dit Verdrag te kunnen verifiëren, heeft een Partij het recht om, naast de in artikel XIV bedoelde procedures, gebruik te maken van de haar ter beschikking staande nationale of multinationale technische verificatiemiddelen op een wijze die verenigbaar is met de algemeen erkende beginselen van internationaal recht.
 
@@ -386,7 +411,7 @@ Ten einde te verzekeren dat geen enkele Partij meer dan ongeveer een derde van d
 
 3. Een Partij treft geen maatregelen ter verhulling die een beletsel vormen voor de verificatie van de naleving van de bepalingen van dit Verdrag met nationale of multinationale technische verificatiemiddelen van een andere Partij die handelt in overeenstemming met het eerste lid van dit artikel. Deze verplichting heeft geen betrekking op dekkings- of verhullingspraktijken die verband houden met gewone oefeningen van het personeel, onderhoud of verrichtingen waarbij bij het Verdrag beperkte conventionele wapensystemen betrokken zijn.
 
-#### Artikel XVI
+##### Artikel XVI
 
 1. Ter bevordering van de doelstellingen en de uitvoering van de bepalingen van dit Verdrag stellen de Partijen hierbij een Gemengd Overlegorgaan in.
 
@@ -420,11 +445,11 @@ Ten einde te verzekeren dat geen enkele Partij meer dan ongeveer een derde van d
 
 7. Het Gemengd Overlegorgaan volgt de procedures vervat in het Protocol inzake het Gemengd Overlegorgaan.
 
-#### Artikel XVII
+##### Artikel XVII
 
 De Partijen doen de bij dit Verdrag voorgeschreven informatie en bekendmakingen in schriftelijke vorm toekomen. Zij doen zulks langs diplomatieke weg of andere door hen aan te wijzen officiële kanalen, waaronder met name een bij een afzonderlijke regeling in te stellen communicatienetwerk
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 1. Na ondertekening van dit Verdrag zetten de Partijen de onderhandelingen over conventionele strijdkrachten voort, zulks met hetzelfde Mandaat en met het doel voort te bouwen op dit Verdrag.
 
@@ -432,7 +457,7 @@ De Partijen doen de bij dit Verdrag voorgeschreven informatie en bekendmakingen 
 
 3. De Partijen streven ernaar die onderhandelingen niet later af te sluiten dan de in 1992 te Helsinki te houden vervolgbijeenkomst van de Conferentie over Veiligheid en Samenwerking in Europa.
 
-#### Artikel XIX
+##### Artikel XIX
 
 1. Dit Verdrag wordt voor onbepaalde tijd gesloten. Het kan worden aangevuld door een volgend verdrag.
 
@@ -440,13 +465,13 @@ De Partijen doen de bij dit Verdrag voorgeschreven informatie en bekendmakingen 
 
 3. Elke Partij heeft met name het recht, in de uitoefening van haar nationale soevereiniteit, zich uit dit Verdrag terug te trekken indien een andere Partij haar aantallen gevechtstanks, pantsergevechtsvoertuigen, artillerie, gevechtsvliegtuigen of aanvalshelikopters, als omschreven in artikel II, die buiten de werkingssfeer van de beperkingen van dit Verdrag vallen zodanig verhoogt, dat daardoor een duidelijke bedreiging ontstaat voor de krachtenbalans in het toepassingsgebied.
 
-#### Artikel XX
+##### Artikel XX
 
 1. Elke Partij kan wijzigingen op dit Verdrag voorstellen. De tekst van een voorgestelde wijziging wordt ingediend bij de Depositaris, die deze verspreidt onder alle Partijen.
 
 2. Indien een wijziging op dit Verdrag door alle Partijen is goedgekeurd, treedt zij in werking in overeenstemming met de procedures vervat in artikel XXII aangaande de inwerkingtreding van dit Verdrag.
 
-#### Artikel XXI
+##### Artikel XXI
 
 1. Zesenveertig maanden na de inwerkingtreding van dit Verdrag, en daarna om de vijfjaar, belegt de Depositaris een conferentie van Partijen ten einde de werking van dit Verdrag te bezien.
 
@@ -456,7 +481,7 @@ De Partijen doen de bij dit Verdrag voorgeschreven informatie en bekendmakingen 
 
 4. Ingeval een Partij haar beslissing bekendmaakt zich uit dit Verdrag terug te trekken ingevolge artikel XIX, belegt de Depositaris een conferentie van Partijen die uiterlijk 21 dagen na de ontvangst van de bekendmaking van terugtrekking aanvangt, ten einde zich te buigen over vraagstukken die verband houden met de terugtrekking uit dit Verdrag.
 
-#### Artikel XXII
+##### Artikel XXII
 
 1. Dit Verdrag dient door elke Partij te worden bekrachtigd in overeenstemming met haar constitutionele procedures. De akten van bekrachtiging worden nedergelegd bij de Regering van het Koninkrijk der Nederlanden, die hierbij wordt aangewezen als Depositaris.
 
@@ -482,7 +507,7 @@ De Partijen doen de bij dit Verdrag voorgeschreven informatie en bekendmakingen 
 
 4. Dit Verdrag wordt door de Depositaris geregistreerd ingevolge [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Het oorspronkelijk exemplaar van dit Verdrag, waarvan de Duitse, de Engelse, de Franse, de Italiaanse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd in het archief van de Depositaris. De Depositaris doet aan alle Partijen voor eensluidend gewaarmerkte afschriften van dit Verdrag toekomen.
 
@@ -494,7 +519,7 @@ Opgeschort per 7 december 2023 (Trb. 2023/141).
 
 ## TITEL I. BESTAANDE TYPEN VAN BIJ HET VERDRAG BEPERKTE CONVENTIONELE WAPENSYSTEMEN
 
-#### 1
+##### 1
 
 Bestaande typen gevechtstanks zijn:
 
@@ -504,7 +529,7 @@ Bestaande typen gevechtstanks zijn:
 
 Alle modellen en versies van een hierboven genoemd bestaand type gevechtstank worden beschouwd als gevechtstank van dat type.
 
-#### 2
+##### 2
 
 Bestaande typen pantsergevechtsvoertuigen zijn:
 
@@ -527,7 +552,7 @@ Bestaande typen pantsergevechtsvoertuigen zijn:
 | --- | --- |
 | Scorpion Saladin JPK-90 M-24 AMX-13 EBR-75 Panhard PT-76 |   |
 
-#### 3
+##### 3
 
 Bestaande typen artillerie zijn:
 
@@ -597,7 +622,7 @@ Bestaande typen artillerie zijn:
 |   |   | 280 mm: |
 |   |   | 300 mm: |
 
-#### 4
+##### 4
 
 Bestaande typen gevechtsvliegtuigen zijn:
 
@@ -608,7 +633,7 @@ Bestaande typen gevechtsvliegtuigen zijn:
 
 Alle modellen of versies van een hierboven genoemd bestaand type gevechtsvliegtuig worden beschouwd als gevechtsvliegtuig van dat type.
 
-#### 5
+##### 5
 
 Bestaande typen aanvalshelikopters zijn:
 
@@ -626,7 +651,7 @@ Bestaande typen aanvalshelikopters zijn:
 
 ## TITEL II. BESTAANDE TYPEN VAN NIET BIJ HET VERDRAG BEPERKTE CONVENTIONELE WAPENSYSTEMEN
 
-#### 1
+##### 1
 
 Bestaande typen van op een gepantserd personeelsvoertuig lijkende voertuigen zijn:
 
@@ -707,7 +732,7 @@ Bestaande typen van op een gepantserd personeelsvoertuig lijkende voertuigen zij
 |   |   |   | A-POMA |
 |   |   | TAB MLVM | TCG-80 AR |
 
-#### 2
+##### 2
 
 Bestaande typen van op een pantserinfanteriegevechtsvoertuig lijkende voertuigen zijn:
 
@@ -717,7 +742,7 @@ Bestaande typen van op een pantserinfanteriegevechtsvoertuig lijkende voertuigen
 | BMP-1 | MTP MP-31 |   | B SVO |
 |   |   |   | DTB-80 VPV IRM MTP BREM-4, -2, -D BMD-1 K-Sh BRM-1 KSh |
 
-#### 3
+##### 3
 
 Bestaande typen lesvliegtuigen die zijn ontworpen en gebouwd voor de initiële vliegopleiding en die slechts inbeperkte mate kunnen worden bewapend ten behoeve van de basisopleiding wapengebruik, zijn:
 
@@ -725,7 +750,7 @@ Bestaande typen lesvliegtuigen die zijn ontworpen en gebouwd voor de initiële v
 | --- | --- |
 | L-39 MB-326 PD-808 T-2 T-33/CT-133 T-37 T-38 |   |
 
-#### 4
+##### 4
 
 Bestaande typen gevechtsondersteunende helikopters zijn:
 
@@ -733,7 +758,7 @@ Bestaande typen gevechtsondersteunende helikopters zijn:
 | --- | --- |
 | Bell 47/AB 47/Sioux BO-105 CH53 Chinook Fennec AS 555 A Hughes 300. Hughes 500/OH-6 Mi-8 OH-58 Kiowa/AB-206/CH-136 Puma Sea King UH-1A/1B/AB-204 UH-1D/1H/AB-205 UH-1N/AB-212 Wessex |   |
 
-#### 5
+##### 5
 
 Bestaande typen onbewapende transporthelikopters die niet zijn uitgerust voor het gebruik van wapens zijn:
 
@@ -741,7 +766,7 @@ Bestaande typen onbewapende transporthelikopters die niet zijn uitgerust voor he
 | --- | --- |
 | Chinook Cougar AS 532 U Dauphin AS 365 NI Hughes 300 NH 500 Puma Sea King/H-3F/HAR 3 SH-3D UH-1D/1H/AB-205 UH-1N/AB-212 |   |
 
-#### 6
+##### 6
 
 Bestaande typen brugleggende tanks zijn:
 
@@ -751,29 +776,29 @@ Bestaande typen brugleggende tanks zijn:
 
 ## TITEL III. TECHNISCHE GEGEVENS EN FOTO'S
 
-#### 1
+##### 1
 
 Bij de ondertekening van dit Verdrag verstrekt elke Partij aan alle andere Partijen technische gegevens, overeenkomstig de in de Bijlage bij dit Protocol overeengekomen categorieën, te zamen met foto's die het boven-, voor- en zijaanzicht, rechts of links, weergeven van elk van haar bestaande typen conventionele wapensystemen genoemd in de Titels I en II van dit Protocol. Bovendien dienen foto's van op een gepantserd personeelsvoertuig en op een pantserinfanteriegevechtsvoertuig lijkende voertuigen afbeeldingen van die voertuigen te omvatten die het inwendige ervan weergeven, opdat het specifieke kenmerk wordt getoond waardoor het betrokken voertuig zich onderscheidt als een op een gepantserd personeelsvoertuig of een pantserinfanteriegevechtsvoertuig lijkend voertuig. Elke Partij kan naar goeddunken foto's verstrekken naast de krachtens deze paragraaf vereiste.
 
-#### 2
+##### 2
 
 Voor elk bestaand type van conventionele wapensystemen genoemd in de Titels I en II van dit Protocol dient eeri model of versie van dat type te bestaan dat wordt aangewezen als standaardexemplaar. Van elk aangewezen standaardexemplaar moeten foto's worden verstrekt overeenkomstig paragraaf 1 van deze Titel. Van modellen en versies van een type die geen noemenswaardige uitwendig waarneembare verschillen van het standaardexemplaar van dat type vertonen, zijn geen foto's vereist. De foto's van elk standaardexemplaar van een type moeten een aantekening bevatten betreffende de bestaande type-aanduiding en de nationale benaming voor alle modellen en versies van het type dat de foto's van het standaardexemplaar weergeven. De foto's van elk standaardexemplaar van een type dienen een aantekening te bevatten van de technische gegevens van dat type, overeenkomstig de in de Bijlage bij dit Protocol overeengekomen categorieën. Bovendien dienen in de aantekening alle modellen en versies te zijn vermeld van het type dat de foto's van het standaardexemplaar weergeven. Bedoelde technische gegevens moeten worden aangetekend op de foto van het zijaanzicht.
 
 ## TITEL IV. BIJWERKEN VAN LIJSTEN VAN BESTAANDE TYPEN EN VERPLICHTINGEN VAN DE PARTIJEN
 
-#### 1
+##### 1
 
 Dit Protocol vormt slechts de weergave van de overeenstemming tussen de Partijen met betrekking tot bestaande typen conventionele wapensystemen, alsmede met betrekking tot de categorieën technische gegevens uiteengezet in de Titels I en II van de Bijlage bij dit Protocol.
 
-#### 2
+##### 2
 
 Elke Partij is verantwoordelijk voor de juistheid van de technische gegevens betreffende uitsluitend haar eigen conventionele wapensystemen verstrekt in overeenstemming met Titel III van dit Protocol.
 
-#### 3
+##### 3
 
 Elke Partij meldt aan alle andere Partijen:a) elk nieuw type van conventionele wapensystemen dat voldoet aan één van de.omschrijvingen in artikel II van dit Verdrag en dat tot een in dit Protocol genoemde categorie behoort, en b) elk nieuw model of nieuwe versie van een in dit Protocol genoemd type, zulks bij de indienststelling daarvan bij haar strijdkrachten in het toepassingsgebied. Tegelijkertijd verstrekt elke Partij alle andere Partijen de op grond van Titel III van dit Protocol vereiste technische gegevens en foto's.
 
-#### 4
+##### 4
 
 Zo spoedig mogelijk en in elk geval uiterlijk 60 dagen na een bekendmaking uit hoofde van paragraaf 3 van deze Titel nemen de Partijen, in overeenstemming met de bepalingen van artikel XVI van het Verdrag en het Protocol inzake het Gemengd Overlegorgaan, maatregelen gericht op het bijwerken van de lijsten van bestaande typen conventionele wapensystemen in de Titels I en II van dit Protocol.
 
@@ -789,7 +814,7 @@ Opgeschort per 7 december 2023 (Trb. 2023/141).
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### 1
+##### 1
 
 Elke Partij heeft het recht uit de getalsmatige beperkingen voor gevechtsvliegtuigen in de artikelen IV en VI van het Verdrag slechts die bepaalde modellen of versies van lesvliegtuigen met gevechtscapaciteit te lichten die zijn genoemd in Titel II, paragraaf 1, van dit Protocol, zulks in overeenstemming met de in dit Protocol vervatte procedures.
 
@@ -797,11 +822,11 @@ Elke Partij heeft het recht uit de getalsmatige beperkingen voor gevechtsvliegtu
 
 - B. Elke Partij heeft het recht uit de getalsmatige beperkingen voor gevechtsvliegtuigen in de artikelen IV en VI van het Verdrag de in Titel II, paragraaf 1, van dit Protocol genoemde bepaalde modellen of versies van vliegtuigen te lichten die niet onderdelen bevatten zoals omschreven in Titel III, paragrafen 1 en 2, van dit Protocol, zulks door alleen certificering.
 
-#### 2
+##### 2
 
 Modellen of versies van lesvliegtuigen met gevechtscapaciteit genoemd in Titel II van dit Protocol kunnen worden ontwapend en gecertificeerd of alleen gecertificeerd binnen 40 maanden na de inwerkingtreding van het Verdrag. Deze vliegtuigen worden meegeteld.voor de getalsmatige beperkingen voor gevechtsvliegtuigen in de artikelen IV en VI van het Verdrag totdat deze vliegtuigen zijn gecertificeerd als onbewapend in overeenstemming met de procedures vervat in Titel IV van dit Protocol. Elke Partij heeft het recht uit de getalsmatige beperkingen voor gevechtsvliegtuigen in de artikelen IV en VI van het Verdrag niet meer dan 550 van deze vliegtuigen te lichten, waarvan er niet meer dan 130 van het model of de versie MiG-25U mogen zijn.
 
-#### 3
+##### 3
 
 Uiterlijk bij de inwerkingtreding van het Verdrag maakt elke Partij aan alle andere Partijen bekend:
 
@@ -809,13 +834,13 @@ Uiterlijk bij de inwerkingtreding van het Verdrag maakt elke Partij aan alle and
 
 - B. het totale aantal van elk bepaald model of elke bepaalde versie van lesvliegtuigen met gevechtscapaciteit dat de Partij voornemens is alleen te certificeren in overeenstemming met Titel I, paragraaf 1, letter B, en Titel IV van dit Protocol.
 
-#### 4
+##### 4
 
 Elke Partij gebruikt ieder door haar noodzakelijk geacht technologische middel om de procedures voor algehele ontwapening vervat in Titel III van dit Protocol toe te passen.
 
 ## TITEL II. MODELLEN OF VERSIES VAN LESVLIEGTUIGEN MET GEVECHTSCAPACITEIT DIE IN AANMERKING KOMEN VOOR ALGEHELE ONTWAPENING EN CERTIFICERING
 
-#### 1
+##### 1
 
 Elke Partij heeft het recht uit de getalsmatige beperkingen voor gevechtsvliegtuigen in de artikelen IV en VI van het Verdrag in overeenstemming met de bepalingen van dit Protocol slechts de volgende bepaalde modellen of versies van lesvliegtuigen met gevechtscapaciteit te lichten:
 
@@ -833,13 +858,13 @@ MiG-25U
 
 UIL-28.
 
-#### 2
+##### 2
 
 De bovenstaande lijst van bepaalde modellen of versies van lesvliegtuigen met gevechtscapaciteit is definitief en niet vatbaar voor herziening.
 
 ## TITEL III. PROCEDURES VOOR ALGEHELE ONTWAPENING
 
-#### 1
+##### 1
 
 Modellen of versies van lesvliegtuigen met gevechtscapaciteit die algeheel worden ontwapend worden ongeschikt gemaakt voor verder gebruik van' welk type wapensysteem dan ook, alsmede voor verdere bediening van systemen voor elektronische oorlogvoering en verkenning, zulks door verwijdering van de volgende onderdelen:
 
@@ -851,11 +876,11 @@ Modellen of versies van lesvliegtuigen met gevechtscapaciteit die algeheel worde
 
 - D. besturingseenheden en -panelen van systemen voor elektronische oorlogvoering en verkenning, met inbegrip van de bijbehorende antennes.
 
-#### 2
+##### 2
 
 Niettegenstaande paragraaf 1 van deze Titel worden speciale bevestigingspunten die zijn ingebouwd in het vliegtuig, alsmede speciale elementen van bevestigingspunten voor algemene doeleinden, die uitsluitend zijn bedoeld voor gebruik met de onderdelen beschreven in paragraaf 1 van deze Titel, ongeschikt gemaakt voor verder gebruik met zulke systemen. Elektrische circuits van de systemen voor wapens, elektronische oorlogvoering en verkenning beschreven in paragraaf 1 van deze Titel worden ongeschikt gemaakt voor verder gebruik door verwijdering van de bedrading of, indien dat technisch niet uitvoerbaar is, door op toegankelijke plaatsen delen van de bedrading eruit te snijden.
 
-#### 3
+##### 3
 
 Elke Partij verstrekt alle andere Partijen uiterlijk 42 dagen voor de algehele ontwapening van het eerste vliegtuig van elk model of elke versie van lesvliegtuigen met gevechtscapaciteit genoemd in Titel II van dit Protocol de volgende informatie:
 
@@ -867,27 +892,27 @@ Elke Partij verstrekt alle andere Partijen uiterlijk 42 dagen voor de algehele o
 
 ## TITEL IV. PROCEDURES VOOR CERTIFICERING
 
-#### 1
+##### 1
 
 Elke Partij die voornemens is modellen of versies van lesvliegtuigen met gevechtscapaciteit te ontwapenen en te certificeren of alleen te certificeren, neemt de onderstaande certificeringsprocedure in acht, ten einde te verzekeren dat deze vliegtuigen geen van.de in Titel III, paragrafen 1 en 2, van dit Protocol genoemde onderdelen bevatten.
 
-#### 2
+##### 2
 
 In overeenstemming met Titel IX, paragraaf 3, van het Protocol inzake inspectie maakt elke Partij elke certificering bekend aan alle andere Partijen. Bij de eerste certificering van een vliegtuig waarvoor geen algehele ontwapening vereist is, verstrekt de Partij die voornemens is de certificering te verrichten alle andere Partijen de in Titel III, paragraaf 3, letters A, B en C, van dit Protocol de voor een bewapend model of bewapende versie van hetzelfde type vliegtuig voorgeschreven informatie.
 
-#### 3
+##### 3
 
 Elke Partij heeft het recht de certificering van les vliegtuigen met gevechtscapaciteit te inspecteren in overeenstemming met Titel IX van het Protocol inzake inspectie.
 
-#### 4
+##### 4
 
 Het proces van algehele ontwapening en certificering of van alleen certificering wordt geacht te zijn voltooid wanneer de certificeringsprocedures vervat in deze Titel zijn vervuld, ongeacht of een Partij de rechten met betrekking tot inspectie van de certificering beschreven in paragraaf 3 van deze Titel en Titel IX van het Protocol inzake inspectie uitoefent, mits binnen 30 dagen na ontvangst van de bekendmaking van voltooiing van de certificering en reclassificering ingevolge paragraaf 5 van deze Titel geen Partij aan alle andere Partijen heeft bekendgemaakt dat zij van mening is dat er sprake is van een onduidelijkheid met betrekking tot het certificerings- en reclassificeringsproces. Ingeval er wordt gesteld dat er sprake is van een onduidelijkheid, wordt deze reclassificering niet geacht te zijn voltooid totdat de kwestie aangaande de onduidelijkheid is opgelost.
 
-#### 5
+##### 5
 
 De Partij die de certificering verricht, maakt aan alle andere Partijen de voltooiing van de certificering bekend in overeenstemming met Titel IX van het Protocol inzake inspectie.
 
-#### 6
+##### 6
 
 De certificering wordt verricht in het toepassingsgebied. Partijen behorend tot dezelfde groep van Partijen hebben het recht gezamenlijk gebruik te maken van plaatsen voor certificering.
 
@@ -901,29 +926,29 @@ Opgeschort per 7 december 2023 (Trb. 2023/141).
 
 ## TITEL I. ALGEMENE VEREISTEN VOOR VERMINDERING
 
-#### 1
+##### 1
 
 De bij het Verdrag beperkte wapensystemen worden verminderd in overeenstemming met de procedures vervat in dit Protocol en in de andere protocollen genoemd in artikel VIII, eerste lid van het Verdrag. Ieder van deze procedures wordt, wanneer zij wordt toegepast in overeenstemming met de bepalingen van artikel VIII van het Verdrag of van dit Protocol, toereikend geacht om verminderingen te verrichten.
 
-#### 2
+##### 2
 
 Elke Partij heeft het recht alle technologische middelen te gebruiken die zij noodzakelijk acht ter toepassing van de procedures voor vermindering van bij het Verdrag beperkte conventionele wapensystemen.
 
-#### 3
+##### 3
 
 Elke Partij heeft het recht de onderdelen en delen van bij het Verdrag beperkte conventionele wapensystemen die zelf niet zijn onderworpen aan vermindering in overeenstemming met de bepalingen van Titel II van dit Protocol, te verwijderen, te behouden en te gebruiken, en resten af te voeren.
 
-#### 4
+##### 4
 
 Tenzij in dit Protocol anders is bepaald, worden bij het Verdrag beperkte conventionele wapensystemen op zodanige wijze verminderd dat verder gebruik of herstel ervan voor militaire doeleinden is uitgesloten.
 
-#### 5
+##### 5
 
 Na de inwerkingtreding van het Verdrag kan iedere Partij bijkomende procedures voor vermindering voorstellen. Deze voorstellen worden medegedeeld aan alle andere Partijen en omvatten de details van zulke procedures in dezelfde vorm als de in dit Protocol vervatte procedures. Dergelijke procedures worden toereikend geacht om de vermindering van bij het Verdrag beperkte conventionele wapensystemen uit te voeren na een daartoe strekkende beslissing van het Gemengd Overlegorgaan.
 
 ## TITEL II. NORMEN VOOR AANBIEDING OP VERMINDERINGSPLAATSEN
 
-#### 1
+##### 1
 
 Elk bij het Verdrag beperkt conventioneel wapensysteem dat moet worden verminderd wordt op een verminderingsplaats aangeboden. Elk systeem bestaat ten minste uit de volgende delen en onderdelen:
 
@@ -937,21 +962,21 @@ Elk bij het Verdrag beperkt conventioneel wapensysteem dat moet worden verminder
 
 - E. bij aanvalshelikopters: de romp, met inbegrip van de bevestigingspunten voor de transmissie.
 
-#### 2
+##### 2
 
 In alle gevallen bestaat het in overeenstemming met paragraaf 1 van deze Titel op de verminderingsplaats aangeboden wapensysteem uit één geheel.
 
-#### 3
+##### 3
 
 Over delen en onderdelen van bij het Verdrag beperkte conventionele wapensystemen niet nader aangegeven in paragraaf 1 van deze Titel, alsook delen en onderdelen die niet behoeven te worden verminderd ingevolge de procedures van dit Protocol, met inbegrip van de koepels van gepantserde personeelsvoertuigen die alleen met machinegeweren zijn uitgerust, kan de Partij die de vermindering verricht, naar eigen inzicht beschikken.
 
 ## TITEL III. PROCEDURES VOOR VERMINDERING VAN GEVECHTSTANKS DOOR VERNIETIGING
 
-#### 1
+##### 1
 
 Elke Partij heeft het recht een van de onderstaande procedures te kiezen telkens wanneer zij overgaat tot vernietiging van gevechtstanks op verminderingsplaatsen.
 
-#### 2
+##### 2
 
 Procedure voor vernietiging door versnijden:
 
@@ -973,7 +998,7 @@ Procedure voor vernietiging door versnijden:
 
 - G. uitzagen van delen uit beide zijden van de romp, die de openingen voor de eindaandrijvingen omvatten, door verticale en horizontale insnijdingen in het zijpantser en diagonale insnijdingen in het boven- of bodempantser en in het voor- of achterpantser, zodat de openingen voor de eindaandrijvingen zich in de uitgezaagde gedeelten bevinden.
 
-#### 3
+##### 3
 
 Procedure voor vernietiging door opblazen:
 
@@ -987,7 +1012,7 @@ Procedure voor vernietiging door opblazen:
 
 - E. alle ladingen worden tegelijkertijd tot ontploffing gebracht zodat de romp en de koepel barsten en worden verwrongen, de kulas van de schietbuis wordt afgerukt, daaraan vastsmelt of wordt vervormd, de schietbuis splijt of in de lengte wordt doorsneden; de affuit breekt zodat er geen schietbuis op geplaatst kan worden en bijkomende schade wordt toegebracht aan het loopwerk zodat ten minste één van de wielaandrijfpunten wordt vernietigd.
 
-#### 4
+##### 4
 
 Procedure voor vernietiging door vervormen:
 
@@ -1007,7 +1032,7 @@ Procedure voor vernietiging door vervormen:
 
 - F. de romp en de koepel worden vervormd zodat hun breedte met ten minste 20 procent wordt verminderd.
 
-#### 5
+##### 5
 
 Procedure voor vernietiging door pletten:
 
@@ -1019,11 +1044,11 @@ Procedure voor vernietiging door pletten:
 
 ## TITEL IV. PROCEDURES VOOR DE VERMINDERING VAN PANTSERGEVECHTSVOERTUIGEN DOOR VERNIETIGING
 
-#### 1
+##### 1
 
 Elke Partij heeft het recht een van de onderstaande procedures te kiezen telkens wanneer zij overgaat tot vernietiging van pantsergevechtsvoertuigen op verminderingsplaatsen.
 
-#### 2
+##### 2
 
 Procedure voor vernietiging door versnijden:
 
@@ -1051,7 +1076,7 @@ Procedure voor vernietiging door versnijden:
 
 - 5. uitzagen van twee delen uit de rand van de koepelopening in de romp, die elk een deel vormen van een cirkelsector met een hoek van ten minste 60 graden en met een lengte van minimaal 200 mm langs de straal, gecentreerd op de lengteas van het voertuig.
 
-#### 3
+##### 3
 
 Procedure voor vernietiging door opblazen:
 
@@ -1067,7 +1092,7 @@ Procedure voor vernietiging door opblazen:
 
 - D. de ladingen worden tegelijkertijd tot ontploffing gebracht zodat de zijkanten en de bovenkant van de romp splijten. Bij zwaarbewapen de gevechtsvoertuigen en pantserinfanteriegevechtsvoertuigen dient de schade aan het wapensysteem overeen te komen met dieaangegeven in paragraaf 2, letter D, van deze Titel.
 
-#### 4
+##### 4
 
 Procedure, voor vernietiging door pletten:
 
@@ -1081,11 +1106,11 @@ Procedure, voor vernietiging door pletten:
 
 ## TITEL V. PROCEDURES VOOR DE VERMINDERING VAN ARTILLERIE DOOR VERNIETIGING
 
-#### 1
+##### 1
 
 Elke Partij heeft het recht een van de onderstaande procedures te kiezen telkens wanneer zij overgaat tot'vernietiging van kanonnen, houwitsers, stukken artillerie die de kenmerken van kanonnen en houwitsers in zich verenigen, meervoudige raketwerpers of mortieren op verminderingsplaatsen.
 
-#### 2
+##### 2
 
 Procedure voor vernietiging door versnijden van kanonnen, houwitsers, stukken artillerie die de kenmerken van kanonnen en houwitsers in zich verenigen, of mortieren (niet gemechaniseerd):
 
@@ -1103,7 +1128,7 @@ Procedure voor vernietiging door versnijden van kanonnen, houwitsers, stukken ar
 
 - E. versnijden van de staart of de grondplaat van het mortier in twee ongeveer gelijke delen.
 
-#### 3
+##### 3
 
 Procedure voor vernietiging door opblazen van kanonnen, houwitsers of stukken artillerie die de kenmerken van kanonnen en houwitsers in zich verenigen (niet gemechaniseerd):
 
@@ -1117,13 +1142,13 @@ Procedure voor vernietiging door opblazen van kanonnen, houwitsers of stukken ar
 
 - 4. de staart wordt gescheiden in twee ongeveer gelijke delen of voldoende wordt beschadigd om deze ongeschikt te maken voor verder gebruik.
 
-#### 4
+##### 4
 
 Procedure voor vernietiging door opblazen van niet gemechaniseerde mortieren:
 
 Er worden explosieve ladingen aangebracht in de mortierloop en op de grondplaat zodat, wanneer de ladingen tot ontploffing worden gebracht, de onderste helft van de mortierloop is gescheurd en de grondplaat is losgeslagen in twee ongeveer gelijke delen.
 
-#### 5
+##### 5
 
 Procedure voor vernietiging door vervormen van niet gemechaniseerde mortieren:
 
@@ -1131,7 +1156,7 @@ Procedure voor vernietiging door vervormen van niet gemechaniseerde mortieren:
 
 - B. de grondplaat dient te zijn verbogen ongeveer op de middellijn onder een hoek van ten minste 45 graden.
 
-#### 6
+##### 6
 
 Procedure voor vernietiging door versnijden van gemechaniseerde kanonnen, houwitsers, stukken artillerie die de kenmerken van kanonnen en houwitsers in zich verenigen, of mortieren:
 
@@ -1149,7 +1174,7 @@ Procedure voor vernietiging door versnijden van gemechaniseerde kanonnen, houwit
 
 - E. uitzagen van delen uit beide zijden van de romp, die de openingen voor de eindaandrijvingen omvatten, door verticale en horizontale insnijdingen in het zijpantser en diagonale insnijdingen in het boven- of bodempantser en het voor- of achterpantser, zodat de openingen voor de eindaandrijvingen zich in de uitgezaagde gedeelten bevinden.
 
-#### 7
+##### 7
 
 Procedure voor vernietiging door opblazen van gemechaniseerde kanonnen, houwitsers, stukken artillerie die de kenmerken van kanonnen en houwitsers in zich verenigen, of mortieren:
 
@@ -1157,7 +1182,7 @@ Procedure voor vernietiging door opblazen van gemechaniseerde kanonnen, houwitse
 
 - B. bij gemechaniseerde kanonnen, houwitsers, stukken artillerie die de kenmerken van kanonnen en houwitsers in zich verenigen, of mortieren zonder koepel: er wordt een explosieve lading aangebracht in de romp onder de voorrand van de bovenkant van het mechanisme voor de breedterichting waarop de schietbuis steunt en tot ontploffing gebracht, zodat hét bovenpantser van de romp wordt gescheiden. Voor de vernietiging van het wapensysteem dient de in paragraaf 3 van deze Titel aangegeven methode voor kanonnen, houwitsers of stukken artillerie die de kenmerken van kanonnen en houwitsers in zich verenigen te worden toegepast ten einde resultaten te bereiken die overeenkomen met het aldaar bepaalde.
 
-#### 8
+##### 8
 
 Procedure voor vernietiging door pletten van gemechaniseerde kanonnen, houwitsers, stukken artillerie die de kenmerken van kanonnen en houwitsers in zich verenigen, of mortieren:
 
@@ -1167,7 +1192,7 @@ Procedure voor vernietiging door pletten van gemechaniseerde kanonnen, houwitser
 
 - C. de schietbuis dient zichtbaar gescheurd of verbogen te zijn, ongeveer in het midden.
 
-#### 9
+##### 9
 
 Procedure voor vernietiging door versnijden van meervoudige raketwerpers:
 
@@ -1175,13 +1200,13 @@ Procedure voor vernietiging door versnijden van meervoudige raketwerpers:
 
 - B. verwijderen van schietbuizen of lanceerrails, schroeven (drijfwerk) van delen van het mechanisme voor hoogterichting, schietbuisof lanceerrailsdragers en hun draaibare delen en het zagen daarvan in twee ongeveer gelijke delen op plaatsen die geen lasnaden zijn.
 
-#### 10
+##### 10
 
 Procedure voor vernietiging door opblazen van meervoudige raketwerpers:
 
 er wordt een lineaire holle lading aangebracht dwars op de schietbuizen of lanceerrails en de dragers daarvan. Bij ontploffing dient de.lading de schietbuizen of lanceerrails en de dragers daarvan en hun draaibare delen los te rukken in twee ongeveer gelijke delen op plaatsen die geen lasnaden zijn.
 
-#### 11
+##### 11
 
 Procedure voor vernietiging door vervormen van meervoudige raketwerpers:
 
@@ -1189,23 +1214,23 @@ alle schietbuizen of lanceerrails, dragers daarvan en het richtsysteem dienen on
 
 ## TITEL VI. PROCEDURES VOOR DE VERMINDERING VAN GEVECHTSVLIEGTUIGEN DOOR VERNIETIGING
 
-#### 1
+##### 1
 
 Elke Partij heeft het recht een van de onderstaande procedures te kiezen telkens wanneer zij overgaat tot vernietiging van gevechtsvliegtuigen op verminderingsplaatsen.
 
-#### 2
+##### 2
 
 Procedure voor vernietiging door versnijden:
 
 de romp van het vliegtuig wordt verdeeld in drie delen, niet langs de lasnaden, door de neus onmiddellijk voor de cockpit en de staart op de plaats waar de vleugels bevestigd te zijn, eraf te zagen zodat de lasnaden, indien deze in de door te zagen delen liggen, zich in de afgezaagde gedeelten bevinden.
 
-#### 3
+##### 3
 
 Procedure voor vernietiging door vervormen:
 
 de romp wordt in zijn geheel vervormd door deze samen te drukken, zodat de hoogte, breedte of lengte wordt verminderd met ten minste dertig procent.
 
-#### 4
+##### 4
 
 Procedure voor vernietiging door gebruik als doelvliegtuigen:
 
@@ -1219,11 +1244,11 @@ Procedure voor vernietiging door gebruik als doelvliegtuigen:
 
 ## TITEL VII. PROCEDURE VOOR DE VERMINDERING VAN AANVALSHELIKOPTERSDOOR VERNIETIGING
 
-#### 1
+##### 1
 
 Elke Partij heeft het recht een van de onderstaande procedures te kiezen telkens wanneer zij overgaat tot vernietiging van aanvalshelikopters op verminderingsplaatsen.
 
-#### 2
+##### 2
 
 Procedure voor vernietiging door versnijden:
 
@@ -1231,13 +1256,13 @@ Procedure voor vernietiging door versnijden:
 
 - B. ten minste twee, bevestigingspunten voorde transmissie op de romp worden afgezaagd, versmolten of vervormd.
 
-#### 3
+##### 3
 
 Procedure voor vernietiging door opblazen:
 
 elk willekeurig type en aantal springstoffen kan worden, gebruikt zodat na ontploffing ten minste de romp is gebroken in twee stukken in dat deel van de romp waar zich de bevestigingspunten voor de transmissie bevinden.
 
-#### 4
+##### 4
 
 Procedure voor vernietiging door vervorming:
 
@@ -1245,11 +1270,11 @@ de romp wordt in zijn geheel vervormd door deze. samen te drukken, zodat de hoog
 
 ## TITEL VIII. REGELS EN PROCEDURES VOOR VERMINDERING VAN BU HET VERDRAG BEPERKTE CONVENTIONELE WAPENSYSTEMEN DOOR CONVERSIE VOOR NIET-MILITAIRE DOELEINDEN
 
-#### 1
+##### 1
 
 Elke Partij heeft het recht een bepaald aantal gevechtstanks en pantsergevechtsvoertuigen te verminderen door conversie. De typen voertuigen die kunnen worden geconverteerd, zijn genoemd in paragraaf 3 van deze Titel en de specifieke niet-militaire doeleinden waarvoor zij kunnen worden geconverteerd zijn genoemd in paragraaf 4 van deze Titel. Geconverteerde voertuigen mogen niet in dienst worden gesteld bij de conventionele strijdkrachten van een Partij.
 
-#### 2
+##### 2
 
 Elke Partij bepaalt het aantal gevechtstanks en pantsergevechtsvoertuigen dat zij zal converteren. Dit aantal mag niet groter zijn dan:
 
@@ -1257,11 +1282,11 @@ Elke Partij bepaalt het aantal gevechtstanks en pantsergevechtsvoertuigen dat zi
 
 - B. wat pantsergevechtsvoertuigen betreft, 15 procent (niet meer dan 3.000 pantsergevechtsvoertuigen) van het maximumaantal pantsergevechtsvoertuigen dat zij bij ondertekening van het Verdrag heeft bekendgemaakt ingevolge artikel VII van het Verdrag, of 150 stuks, naar gelang welk aantal het grootst is.
 
-#### 3
+##### 3
 
 De volgende voertuigen kunnen worden geconverteerd voor niet-militaire doeleinden: T-54, T-55, T-62, T-64, T-72, Leopard 1, BMP-1, BTR-60, OT-64. De Partijen kunnen, in het kader van het Gemengd Overlegorgaan, wijzigingen aanbrengen in de lijst van voertuigen die voor niet-militaire doelen kunnen worden geconverteerd. Deze wijzigingen ingevolge artikel XVI, vijfde lid, van het Verdrag worden geacht verbeteringen te zijn met het oog op de uitvoerbaarheid en doeltreffendheid van het Verdrag, die slechts betrekking hebben op ondergeschikte kwesties van technische aard.
 
-#### 4
+##### 4
 
 Deze voertuigen worden geconverteerd voor de volgende specifieke niet-militaire doeleinden:
 
@@ -1295,11 +1320,11 @@ Deze voertuigen worden geconverteerd voor de volgende specifieke niet-militaire 
 
 De Partijen kunnen in het kader van het Gemengd Overlegorgaan wijzigingen aanbrengen in de lijst van specifieke niet-militaire doeleinden. Deze wijzigingen ingevolge artikel XVI, vijfde lid, van het Verdrag worden geacht verbeteringen te zijn met het oog op de uitvoerbaarheid en doeltreffendheid van het Verdrag, die slechts betrekking hebben op ondergeschikte kwesties van technische aard.
 
-#### 5
+##### 5
 
 Bij de inwerkingtreding van het Verdrag maakt elke Partij aan alle andere Partijen het aantal gevechtstanks en pantsergevechtsvoertuigen bekend die zij voornemens is te converteren in overeenstemming met de bepalingen van het Verdrag. Bekendmaking van het voornemen van een Partij om over te gaan tot conversie in overeenstemming met deze Titel geschiedt aan alle andere Partijen ten minste 15 dagen van tevoren in overeenstemming met Titel X, vijfde lid van het Protocol inzake inspectie. In de bekendmaking worden het aantal en de typen voertuigen die zullen worden geconverteerd, de aanvangsd'a'tum en de datum van voltooiing van het converteren, alsmede de voertuigen voor specifieke niet-militaire doeleinden die aldus zullen ontstaan, aangegeven.
 
-#### 6
+##### 6
 
 De volgende procedures worden uitgevoerd voor het converteren van gevechtstanks en pantsergevechtsvoertuigen op verminderingsplaatsen:
 
@@ -1345,15 +1370,15 @@ De volgende procedures worden uitgevoerd voor het converteren van gevechtstanks 
 
 - d. doorzagen van dé schietbuis in twee delen op een afstand van niet meer dan 100 mm van het sluitstuk.
 
-#### 7
+##### 7
 
 Gevechtstanks en pantsergevechtsvpertuigen die worden verminderd ingevolge paragraaf 6 van deze Titel zijn onderworpen aan inspectie, zonder recht van weigering, in overeenstemming met Titel X van het Protocol inzake inspectie. Gevechtstanks en pantsergevechtsvoertuigen worden geacht te zijn verminderd na voltooiing van de procedures bepaald in paragraaf 6 van deze Titel en bekendmaking in overeenstemming met Titel X van het Protocol inzake inspectie.
 
-#### 8
+##### 8
 
 Voertuigen verminderd ingevolge paragraaf 7 van deze Titel blijven onderworpen aan bekendmaking ingevolge Titel IV van het Protocol inzake informatie-uitwisseling tot de definitieve conversie voor niet-militaire doeleinden is voltooid en deze is bekendgemaakt in overeenstemming met Titel X, paragraaf 12, van het Protocol inzake inspectie.
 
-#### 9
+##### 9
 
 Voertuigen die definitieve conversie voor niet-militaire doeleinden ondergaan zijn eveneens onderworpen aan inspectie in overeenstemming met Titel X van het Protocol inzake inspectie, met de onderstaande wijzigingen:
 
@@ -1361,43 +1386,43 @@ Voertuigen die definitieve conversie voor niet-militaire doeleinden ondergaan zi
 
 - B. alle andere Partijen nebben het recht geheel geconverteerde voertuigen te inspecteren, zonder recht van weigering, na ontvangst van een bekendmaking van de Partij die de definitieve conversie verricht, waarin is aangegeven wanneer de procedures voor definitieve conversie zullen zijn voltooid.
 
-#### 10
+##### 10
 
 Indien, na voltooiing van de procedures aangegeven in paragraaf 6 van dezeTitel voor een bepaald voertuig; wordt besloten niet over te gaan tot definitieve conversie, wordt het voertuig vernietigd binnen de termijnen voor conversie genoemd in artikel VIII van het Verdrag, zulks in overeenstemming met de desbetreffende procedures elders in dit Protocol.
 
 ## TITEL IX. PROCEDURE INGEVAL VAN VERNIETIGING DOOR EEN ONGEVAL
 
-#### 1
+##### 1
 
 Elke Partij heeft het recht haar verminderingsverplichting voor elke categorie bij het Verdrag beperkte conventionele wapensystemen te verminderen in geval van vernietiging door een ongeval, zulks met een aantal niet groter dan 1,5 procent van de maximumaantallen die zij bij ondertekening van het Verdrag voor die categorie heeft bekendgemaakt.
 
-#### 2
+##### 2
 
 Een bij het Verdrag beperkt conventioneel wapensysteem wordt geacht te zijn verminderd, in overeenstemming met artikel VIII van het Verdrag, indien het ongeval waarbij het werd vernietigd binnen zeven dagen nadat het ongeval zich heeft voorgedaan; wordt bekendgemaakt aan alle andere Partijen. De bekendmaking omvat het type van het vernietigde exemplaar, de datum van het ongeval, de bij benadering aangegeven plaats van het ongeval en de met het ongeval samenhangende omstandigheden.
 
-#### 3
+##### 3
 
 Binnen 90 dagen na de bekendmaking verstrekt de Partij die deze vermindering meldt bewijsstukken, zoals een rapport van het onderzoek, aan alle andere Partijen in overeenstemming met artikel XVII van het Verdrag. In geval van onduidelijkheden betreffende het ongeval wordt deze vermindering niet geacht te zijn voltooid totdat de aangelegenheid definitief is opgelost.
 
 ## TITEL X. PROCEDURE VOOR VERMINDERING DOOR MIDDEL VAN TENTOONSTELLING
 
-#### 1
+##### 1
 
 Elke Partij heeft het recht te verminderen door een bepaald aantal bij het Verdrag beperkte conventionele wapensystemen tentoon te stellen.
 
-#### 2
+##### 2
 
 Een Partij mag ten hoogste een procent of acht exemplaren, naar gelang welk aantal het grootst is, van haar maximumaantallen die zij heeft opgegeven bij ondertekening van het Verdrag voor elke categorie bij het Verdrag beperkte conventionele wapensystemen, verminderen door middel van tentoonstelling.
 
-#### 3
+##### 3
 
 Niettegenstaande de paragrafen 1 en 2 van deze Titel heeft elke Partij tevens het recht twee exemplaren van elk bestaand type bij het Verdrag beperkte conventionele wapensystemen in werkende staat te houden voor tentoonstelling. Deze conventionele wapensystemen worden tentoongesteld in musea of op andere soortgelijke plaatsen.
 
-#### 4
+##### 4
 
 Conventionele wapensystemen die worden tentoongesteld of zich in musea bevinden vóór de ondertekening van dit Verdrag zijn niet onderworpen aan de getalsmatige beperkingen vervat in het Verdrag, met inbegrip van de getalsmatige beperkingen vervat in de paragrafen 2 en 3 van deze Titel.
 
-#### 5
+##### 5
 
 De exemplaren die zullen worden verminderd door middel van tentoonstelling dienen de volgende procedures te ondergaan op verminderingsplaatsen:
 
@@ -1413,19 +1438,19 @@ De exemplaren die zullen worden verminderd door middel van tentoonstelling diene
 
 ## TITEL XI. PROCEDURE VOOR VERMINDERING DOOR GEBRUIK ALS GRONDDOELEN
 
-#### 1
+##### 1
 
 Elke Partij heeft het recht een bepaald aantal gevechtstanks, pantsergevechtsvoertuigen en gemechaniseerde stukken artillerie te verminderen door deze te gebruiken als gronddoelen.
 
-#### 2
+##### 2
 
 Een Partij mag aantallen gevechtstanks of pantsergevechtsvoertuigen tot ten hoogste 2,5 procent van haar maximumaantallen in elk van beide categorieën, zoals bekendgemaakt bij de ondertekening van het Verdrag ingevolge artikel VII van het Verdrag, verminderen door gebruik als gronddoelen. Daarnaast heeft geen enkele Partij het recht meer dan 50 stukken gemechaniseerde artillerie te verminderen door gebruik als gronddoelen.
 
-#### 3
+##### 3
 
 Conventionele wapensystemen in gebruik als gronddoelen vóór de ondertekening van het Verdrag zijn niet onderworpen aan de getalsmatige beperkingen vervat in de artikelen IV, V of VI van het Verdrag, of aan de getalsmatige beperkingen vervat in paragraaf 2 van deze Titel.
 
-#### 4
+##### 4
 
 Deze door gebruik als gronddoelen te verminderen exemplaren ondergaan de volgende procedures op verminderingsplaatsen:
 
@@ -1459,19 +1484,19 @@ Deze door gebruik als gronddoelen te verminderen exemplaren ondergaan de volgend
 
 ## TITEL XII. PROCEDURE VOOR VERMINDERING DOOR GEBRUIK VOOR INSTRUCTIEDOELEINDEN OP DE GROND
 
-#### 1
+##### 1
 
 Elke Partij heeft het recht een bepaald aantal gevechtsvliegtuigen en aanvalshelikopters te verminderen door gebruik voor instructiedoeleinden op de grond.
 
-#### 2
+##### 2
 
 Een Partij mag aantallen gevechtsvliegtuigen of aanvalshelikopters tot ten hoogste vijf procent van haar maximumaantallen in elk van beide categorieën, zoals bekendgemaakt bij de ondertekening van het Verdrag ingevolge artikel VII van het Verdrag, verminderen door gebruik voor instructiedoelen op de grond.
 
-#### 3
+##### 3
 
 Bij het Verdrag beperkte conventionele wapensystemen die in gebruik zijn voor instructiedoeleinden op de grond vóór de ondertekening van het Verdrag zijn niet onderworpen aan de getalsmatige beperkingen vervat in de artikelen IV, V of VI van het Verdrag of de getalsmatige beperkingen vervat in paragraaf 2 van deze Titel.
 
-#### 4
+##### 4
 
 De exemplaren die worden verminderd door gebruik voor instructiedoeleinden op de grond ondergaan de volgende procedures op verminderingsplaatsen:
 
@@ -1493,47 +1518,47 @@ Opgeschort per 7 december 2023 (Trb. 2023/141).
 
 ## TITEL I. ALGEMENE VOORWAARDEN VOOR DE CATEGORISERING VAN GEVECHTSHELIKOPTERS
 
-#### 1
+##### 1
 
 Gevechtshelikopters worden gecategoriseerd als gespecialiseerde aanvalshelikopters, algemeen inzetbare aanvalshelikopters of gevechtsondersteunende helikopters en worden als zodanig genoemd in het Protocol inzake bestaande typen.
 
-#### 2
+##### 2
 
 Alle modellen of versies van een gespecialiseerde aanvalshelikopter worden gecategoriseerd als gespecialiseerde aanvalshelikopters.
 
-#### 3
+##### 3
 
 Niettegenstaande de bepalingen van paragraaf 2 van deze Titel en als enige uitzondering op die paragraaf, kunnen de Republiek Armenië, de Republiek Azerbeidzjan, de Republiek Belarus, de Republiek Georgië, de Republiek Kazachstan, de Republiek Moldavië, Oekraïne en de Russische Federatie in totaal ten hoogste 100 Mi-24Ren Mi-24K helikopters bezitten, die zijn uitgerust voor het verkennen, lokaliseren of het nemen van chemische, biologische of radiologische monsters, welke niet zijn onderworpen aan de beperkingen voor aanvalshelikopters in de artikelen IV en VI van het Verdrag. Deze helikopters zijn onderworpen aan uitwisseling van informatie in overeenstemming met het Protocol inzake informatie-uitwisseling en aan inwendige inspectie in overeenstemming met Titel VI, paragraaf 30, van het Protocol inzake inspectie. Mi-24R en Mi-24K helikopters boven dit totaal worden gecategoriseerd als gespecialiseerde aanvalshelikopters, ongeacht hoe zij zijn uitgerust, en tellen mee voor de getalsmatige beperkingen voor aanvalshelikopters in de artikelen IV en VI van het Verdrag.
 
-#### 4
+##### 4
 
 Elke Partij die zowel gevechtsondersteunende als algemeen inzetbare aanvalsmodellen of -versies van een helikopter bezit, categoriseert als aanvalshelikopters alle helikopters die een of meer in Titel III, paragraaf 1, van dit Protocol genoemde kenmerken hebben en is gerechtigd alle helikopters die geen van de in Titel III, paragraaf 1, van dit Protocol genoemde kenmerken hebben, te categoriseren als gevechtsondersteunende helikopters.
 
-#### 5
+##### 5
 
 Elke Partij die alleen gevechtsondersteunende modellen of versies bezit van een type helikopter dat zowel in de lijst van algemeen inzetbare aanvalshelikopters als in de lijst van gevechtsondersteunende helikopters in het Protocol inzake bestaande typen is opgenomen, is gerechtigd die helikopters te categoriseren als gevechtsondersteunende helikopters.
 
 ## TITEL II. ALGEMENE VOORWAARDEN VOOR RECATEGORISERING
 
-#### 1
+##### 1
 
 Alleen gevechtshelikopters die zijn gecategoriseerd als algemeen inzetbare aanvalshelikopters in overeenstemming met de voorwaarden voor categorisering vervat in dit Protocol komen in aanmerking voor recategorisering als gevechtsondersteunende helikopters.
 
-#### 2
+##### 2
 
 Elke Partij heeft het recht individuele algemeen inzetbare aanvalshelikopters die een of meer van de in Titel III, paragraaf 1, van dit Protocol genoemde kenmerken hebben, alleen door conversie en certificering te recategoriseren. Elke Partij heeft het recht individuele algemeen inzetbare aanvalshelikopters die geen van de in Titel III, paragraaf 1, van dit Protocol genoemde kenmerken hebben, te recategoriseren door alleen certificering.
 
-#### 3
+##### 3
 
 Elke Partij gebruikt alle door haar noodzakelijk geachte technologische middelen om de procedures voor conversie vervat in Titel III van dit Protocol toe te passen.
 
-#### 4
+##### 4
 
 Elke gevechtshelikopter die is onderworpen aan de recategoriseringsprocedure moet het oorspronkelijke serienummer van de fabrikant dragen, duurzaam aangebracht in een deel van de hoofdstructuur van de romp.
 
 ## TITEL III. PROCEDURES VOOR CONVERSIE
 
-#### 1
+##### 1
 
 Algemeen inzetbare aanvalshelikopters die worden geconverteerd, worden ongeschikt gemaakt voor verder gebruik van geleide wapens door de verwijdering van de volgende onderdelen:
 
@@ -1541,7 +1566,7 @@ Algemeen inzetbare aanvalshelikopters die worden geconverteerd, worden ongeschik
 
 - B. alle ingebouwde vuurleidings- en richtsystemen voor geleide wapens, met inbegrip van bedrading.
 
-#### 2
+##### 2
 
 Elke Partij verstrekt alle andere Partijen de volgende informatie, hetzij ten minste 42 dagen voor de conversie van de eerste helikopter van een type, hetzij bij de inwerkingtreding van het Verdrag ingeval een Partij zowel algemeen inzetbare aanvalshelikopters als gevechtsondersteunende helikopters van hetzelfde type opgeeft:
 
@@ -1553,27 +1578,27 @@ Elke Partij verstrekt alle andere Partijen de volgende informatie, hetzij ten mi
 
 ## TITEL IV. PROCEDURES VOOR CERTIFICERING
 
-#### 1
+##### 1
 
 Elke Partij die algemeen inzetbare aanvalshelikopters recatego-. riseert, neemt de onderstaande certificeririgsprocedüres in acht, ten einde te verzekeren dat deze helikopters geen van de in Titel III, paragraaf 1, van dit Protocol genoemde kenmerken hebben.
 
-#### 2
+##### 2
 
 Elke Partij maakt elke certificering bekend aan alle andere Partijen in overeenstemming met Titel IX, paragraaf 3, van het Protocol inzake inspectie.
 
-#### 3
+##### 3
 
 Elke Partij heeft het recht de certificering van helikopters te inspecteren in overeenstemming met Titel IX van het Protocol inzake inspectie.
 
-#### 4
+##### 4
 
 Het proces van recategorisering wordt geacht te zijn voltooid wanneer de certificeringsprocedures vervat in deze Titel zijn voltooid, ongeacht of een Partij de rechten met betrekking tot inspectie van de certificering beschreven in paragraaf 3 van deze Titel en Titel IX van het Protocol inzake inspectie uitoefent, mits binnen 30 dagen na ontvangst van de bekendmaking van voltooiing van de certificering en recategorisering ingevolge paragraaf 5 van deze Titel geen Partij aan alle andere Partijen heeft bekendgemaakt dat zij van mening is dat er sprake is van een onduidelijkheid met betrekking tot het certificeringsen recategoriseringsproces. Ingeval er wordt gesteld dat er sprake is van een onduidelijkheid wordt deze recategorisering niet geacht te zijn voltooid totdat de kwestie aangaande de onduidelijkheid is opgelost.
 
-#### 5
+##### 5
 
 De Partij die de certificering verricht, maakt aan alle andere Partijen de voltooiing van de certificering en recategorisering bekend in overeenstemming met Titel IX van het Protocol inzake inspectie.
 
-#### 6
+##### 6
 
 De certificering, wordt verricht binnen het toepassingsgebied. Partijen behorend tot dezelfde groep van Partijen hebben het recht gezamenlijk gebruik te maken van plaatsen voor certificering.
 
@@ -1587,7 +1612,7 @@ Opgeschort per 7 december 2023 (Trb. 2023/141).
 
 ## TITEL I. INFORMATIE OVER DE STRUCTUUR VAN DE LANDSTRIJDKRACHTEN, DE LUCHTSTRIJDKRACHTEN EN DE LUCHTVERDEDIGINGSSTRUDKRACHTEN VAN ELKE PARTIJ BINNEN HET TOEPASSINGSGEBIED
 
-#### 1
+##### 1
 
 Elke Partij verstrekt alle andere Partijen de volgende informatie over de structuur van haar landstrijdkrachten, luchtstrijdkrachten en luchtverdedigingsstrijdkrachten binnen het toepassingsgebied:
 
@@ -1597,7 +1622,7 @@ Elke Partij verstrekt alle andere Partijen de volgende informatie over de struct
 
 ## TITEL II. INFORMATIE OVER DE TOTALE AANTALLEN IN ELKE CATEGORIE BIJ HET VERDRAG BEPERKTE CONVENTIONELE WAPENSYSTEMEN
 
-#### 1
+##### 1
 
 Elke Partij verstrekt alle andere Partijen informatie over:
 
@@ -1607,7 +1632,7 @@ Elke Partij verstrekt alle andere Partijen informatie over:
 
 ## TITEL III. INFORMATIE OVER DE PLAATS, AANTALLEN EN TYPEN VAN CONVENTIONELE WAPENSYSTEMEN IN DIENST BIJ DE: CONVENTIONELE STRIJDKRACHTEN VAN DE PARTIJEN
 
-#### 1
+##### 1
 
 Voor elk van haar ingevolge Titel I, paragraaf 1, letters A en B, van dit Protocol bekendgemaakte formaties en eenheden, alsmede afzonderlijk gelegerde bataljons/squadrons, of gelijkwaardige eenheden, die aan die formaties en eenheden ondergeschikt zijn, verstrekt elke Partij aan alle andere Partijen de volgende informatie:
 
@@ -1661,7 +1686,7 @@ Voor elk van haar ingevolge Titel I, paragraaf 1, letters A en B, van dit Protoc
 
 - D. hetgeen haar ingevolge letter C van deze paragraaf bekendgemaakte formaties en eenheden bezitten in elke hierboven genoemde categorie, met opgave van aantallen (per type ingeval van formaties en eenheden op het niveau van divisie, of daaraan gelijkwaardig, en daaronder) en, in geval van brugleggende tanks, die welke zich in actieve eenheden bevinden;
 
-#### 2
+##### 2
 
 Elke Partij verstrekt alle andere Partijen informatie over conventionele wapensystemen die in dienst zijn gesteld bij haar conventionele strijdkrachten, doch niet in het bezit zijn van haar landstrijdkrachten, luchtstrijdkrachten of luchtverdedigingsstrijdkrachten, zulks onder vermelding van:
 
@@ -1695,7 +1720,7 @@ Elke Partij verstrekt alle andere Partijen informatie over conventionele wapensy
 
 - 8. Mi-24R en Mi-24K helikopters die niet zijn onderworpen aan de in artikel IV, eerste lid, en artikel VI van-het Verdrag genoemde getalsmatige beperkingen1)Overeenkomstig Titel 1, paragraaf 3, van het Protocol inzake de recategorisering van helikopters..
 
-#### 3
+##### 3
 
 Elke Partij verstrekt alle andere Partijen de volgende informatie:
 
@@ -1707,7 +1732,7 @@ Elke Partij verstrekt alle andere Partijen de volgende informatie:
 
 ## TITEL IV. INFORMATIE OVER DE PLAATS EN AANTALLEN VAN GEVECHTSTANKS, PANTSERGEVECHTSVOERTUIGEN, ARTILLERIE, GEVECHTSVLIEGTUIGEN EN AANVALSHELIKOPTERS BINNEN HET TOEPASSINGSGEBIED, DOCH NIET IN DIENST BIJ CONVENTIONELE STRIJDKRACHTEN
 
-#### 1
+##### 1
 
 Elke Partij vertrekt alle andere Partijen informatie over de plaats en de aantallen van haar gevechtstanks, pantsergevechtsvoertuigen, artillerie, gevechtsvliegtuigen en aanvalshelikopters binnen het toepassingsgebied die niet in dienst zijn bij haar conventionele strijdkrachten, doch die van militaire betekenis kunnen zijn.
 
@@ -1727,7 +1752,7 @@ Elke Partij vertrekt alle andere Partijen informatie over de plaats en de aantal
 
 ## TITEL V. INFORMATIE OVER VERIFICATIE-OBJECTEN EN OPGEGEVEN INSPECTIEPLAATSEN
 
-#### 1
+##### 1
 
 Elke Partij verstrekt alle andere Partijen informatie waarin zij haar verificatie-objecten aanduidt, met inbegrip van het totale aantal en de benaming van elk verificatie-object, en waarin zij haar opgegeven inspectieplaatsen, als-omschreven in Titel I van het Protocol inzake inspectie, noemt, waarbij zij over elke inspectieplaats de volgende informatie verstrekt:
 
@@ -1749,13 +1774,13 @@ Elke Partij verstrekt alle andere Partijen informatie waarin zij haar verificati
 
 ## TITEL VI. INFORMATIE OVER DE LIGGING VAN INSPECTIEPLAATSEN WAARAAN CONVENTIONELE WAPENSYSTEMEN ZIJN ONTTROKKEN
 
-#### 1
+##### 1
 
 Elke Partij verstrekt alle andere Partijen jaarlijks, bij de jaarlijkse uitwisseling van informatie ingevolge Titel VII, paragraaf 1, letter C, van dit Protocol, informatie over de ligging van plaatsen die eerder zijn bekendgemaakt als opgegeven inspectieplaatsen waaraan alle conventionele wapensystemen in de in Titel III, paragraaf 1, van dit Protocol genoemde categorieën zijn onttrokken sinds de ondertekening van het Verdrag, indien die inspectieplaatsen nog worden gebruikt door de conventionele strijdkrachten van die Partij. De ligging van die inspectieplaatsen wordt voor de duur van driejaar na de onttrekking bekendgemaakt.
 
 ## TITEL VII. TIJDSCHEMA VOOR HET VERSTREKKEN VAN INFORMATIE INGEVOLGE DE TITELS I TOT EN MET V VAN DIT PROTOCOL
 
-#### 1
+##### 1
 
 Elke Partij verstrekt alle andere Partijen de informatie ingevolge de Titels I tot en met V van dit Protocol op de volgende wijze:
 
@@ -1769,7 +1794,7 @@ Elke Partij verstrekt alle andere Partijen de informatie ingevolge de Titels I t
 
 ## TITEL VIII. INFORMATIE OVER WIJZIGINGEN IN DE ORGANISATORISCHESTRUCTUREN VAN DE STRIJDKRACHTEN OF DE AANTALLEN CONVENTIONELE WAPENSYTEMEN IN HUN BEZIT
 
-#### 1
+##### 1
 
 Elke Partij maakt aan alle andere Partijen bekend:
 
@@ -1779,7 +1804,7 @@ Elke Partij maakt aan alle andere Partijen bekend:
 
 ## TITEL IX. INFORMATIE OVER DE INDIENSTSTELLING EN DE UITDIENSTSTELLING VAN BIJ HET VERDRAG BEPERKTE CONVENTIONELE WAPENSYSTEMEN BIJ DE CONVENTIONELE STRIJDKRACHTEN VAN EEN PARTIJ
 
-#### 1
+##### 1
 
 Elke Partij verstrekt alle andere Partijen na de inwerkingtreding van het Verdrag of bij elke jaarlijkse uitwisseling van informatie ingevolge Titel VII, paragraaf 1, letter C, van dit Protocol:
 
@@ -1789,7 +1814,7 @@ Elke Partij verstrekt alle andere Partijen na de inwerkingtreding van het Verdra
 
 ## TITEL X. INFORMATIE OVER HET OVERBRENGEN NAAR OF HET VERWIJDEREN UIT HET TOEPASSINGSGEBIED VAN BIJ HET VERDRAG BEPERKTE CONVENTIONELE WAPENSYSTEMEN IN DIENST BIJ DE CONVENTIONELE STRIJDKRACHTEN VAN DE PARTIJEN
 
-#### 1
+##### 1
 
 Elke Partij verstrekt alle andere Partijen jaarlijks na de inwerkingtreding van het Verdrag en bij elke jaarlijkse uitwisseling van informatie ingevolge Titel VII, paragraaf 1, letter C, van dit Protocol:
 
@@ -1801,37 +1826,37 @@ Elke Partij verstrekt alle andere Partijen jaarlijks na de inwerkingtreding van 
 
 ## TITEL XI. CONVENTIONELE WAPENSYSTEMEN DIE DOOR HET TOEPASSINGSGEBIED WORDEN DOORGEVOERD
 
-#### 1
+##### 1
 
 De bepalingen van dit Protocol zijn niet van toepassing op conventionele wapensystemen die door het toepassingsgebied worden overgebracht van een plaats buiten het toepassingsgebied naar een eindbestemming buiten het toepassingsgebied. Conventionele wapensystemen in de in Titel III van dit Protocol genoemde categorieen die binnen het toepassingsgebied zijn gebracht met het oog op doorvoer worden gemeld overeenkomstig dit Protocol indien zij langer dan zeven dagen binnen het toepassingsgebied verblijven.
 
 ## TITEL XII. DE VORM WAARIN DE INFORMATIE WORDT VERSTREKT
 
-#### 1
+##### 1
 
 Elke Partij verstrekt alle andere Partijen de in dit Protocol genoemde informatie in overeenstemming met de procedures vervat in artikel XVII van het Verdrag en de Bijlage inzake de vormvoorschriften. In overeenstemming met artikel XVI, vijfde lid, van het Verdrag worden wijzigingen op de Bijlage inzake de vormvoorschriften beschouwd als verbeteringen betreffende de uitvoerbaarheid en de doeltreffendheid van het Verdrag die betrekking hebben op ondergeschikte kwesties van technische aard.
 
 ## TITEL XIII. ANDERE BEKENDMAKINGEN OP GROND VAN HET VERDRAG
 
-#### 1
+##### 1
 
 Na de ondertekening van het Verdrag en voor de inwerkingtreding daarvan stelt het Gemengd Overlegorgaan een document op betreffende de door het Verdrag voorgeschreven bekendmakingen. Dit document noemt alle bekendmakingen, onder vermelding van die welke móeten worden afgegeven in overeenstemming met artikel XVII van het Verdrag, en omvat, voor zover noodzakelijk, mede de passende vormvoorschriften voor die bekendmakingen. In overeenstemming met artikel XVI, vijfde lid, van het Verdrag worden wijzigingen op dit document, waaronder de vormvoorschriften, beschouwd als verbeteringen betreffende de uitvoerbaarheid en de doeltreffendheid van het Verdrag die betrekking hebben op ondergeschikte kwesties van-technische aard.
 
-#### 1
+##### 1
 
 Elke Partij verstrekt alle andere Partijen informatie ingevolge het Protocol inzake informatie-uitwisseling, hierna te noemen het Protocol, zulks in overeenstemming met de in deze Bijlage beschreven vormvoorschriften. De informatie in elk gegevensoverzicht wordt verstrekt in mechanisch of elektronisch gedrukte vorm en in één van de zes officiële talen van de Conferentie over Veiligheid en Samenwerking in Europa. In elk schema (kolom a) wordt aan de ingevoerde gegevens telkens een volgend regelnummer toegekend.
 
-#### 2
+##### 2
 
 Elke bundel van gegevensoverzichten begint met een schutblad waarop de naam is vermeld van de Partij die de overzichten verstrekt, de taal waarin de overzichten zijn gesteld, de datum waarop de overzichten zullen worden uitgewisseld en de datum met ingang waarvan de in de overzichten verstrekte informatie van toepassing is.
 
 ## TITEL I. INFORMATIE OVER DE STRUCTUUR VAN DE LANDSTRIJDKRACHTEN, DE LUCHTSTRIJDKRACHTEN EN DE LUCHTVERDEDIGINGSSTRIJDKRACHTEN BINNEN HET TOEPASSINGSGEBIED
 
-#### 1
+##### 1
 
 Ingevolge Titel I van het Protocol verstrekt elke Partij informatie over de bevelsorganisatie van haar landstrijdkrachten, met inbegrip van luchtverdedigingsformaties en -eenheden ondergeschikt aan of onder het niveau van militair district of een gelijkwaardig niveau, en haar luchtstrijdkrachten alsmede haar luchtverdedigingsstrijdkrachten, zulks in de vorm van twee afzonderlijke overzichten van hiërarchiegegevens als weergegeven in Schema I.
 
-#### 2
+##### 2
 
 De te verstrekken gegevensoverzichten beginnen bij het hoogste bevelsniveau en bestrijken alle bevelsniveaus in neergaande lijn tot aan het niveau van brigade/regiment, zelfstandig bataljon en wing/ luchtmachtregiment, zelfstandig squadron of daaraan gelijkwaardig. Een militair district/leger/korps wordt bijvoorbeeld gevolgd door ondergeschikte zelfstandige regimenten, zelfstandige bataljons, depots, opleidingsinstellingen, vervolgens elke ondergeschikte divisie met haar regimenten/zelfstandige bataljons. Na vermelding van alle ondergeschikte organisaties volgen de gegevens betreffende het volgende militaire district/leger/korps. Dezelfde procedure wordt toegepast voor luchtstrijdkrachten en luchtverdedigingsstrijdkrachten.
 
@@ -1843,15 +1868,15 @@ De te verstrekken gegevensoverzichten beginnen bij het hoogste bevelsniveau en b
 
 ## TITEL II. INFORMATIE OVER DE TOTALE AANTALLEN CONVENTIONELE WAPENSYSTEMEN DIE ZIJN ONDERWORPEN AAN DE GETALSMATIGE BEPERKINGEN OVEREENKOMSTIG DE ARTIKELEN IV EN V VAN HET VERDRAG
 
-#### 1
+##### 1
 
 Overeenkomstig Titel II van het Protocol verstrekt elke Partij gegevens over haar totale aantallen, per type, van gevechtstanks, pantsergevechtsvoertuigen en stukken artillerie (Schema IIA) die zijn onderworpen aan de getalsmatige beperkingen genoemd in de artikelen IV en V van het Verdrag (kolom b), en over haar totale aantallen, per type, van gevechtsvliegtuigen en aanvalshelikopters (Schema IIB) die zijn onderworpen aan de getalsmatige beperkingen genoemd in artikel IV van het Verdrag (kolom b).
 
-#### 2
+##### 2
 
 De gegevens over pantsergevechtsvoertuigen omvatten de totale aantallen van zwaarbewapende gevechtsvoertuigen, pantserinfanteriegevechtsvoertuigen en gepantserde personeelsvöertuigen, alsmede de aantallen (kolom f/e) en de typen (kolom e/d) daarvan in elk van deze subcategorieën (kolom d/c).
 
-#### 3
+##### 3
 
 In het geval van gevechtstanks, pantsergevechtsvoertuigen, artillerie en brugleggende tanks, opgeslagen in overeenstemming met artikel X van het Verdrag, wordt het totale aantal vermeld dat zich in aangewezen permanente opslagplaatsen bevindt (kolom g).
 
@@ -1861,11 +1886,11 @@ In het geval van gevechtstanks, pantsergevechtsvoertuigen, artillerie en brugleg
 
 ## TITEL III. INFORMATIE OVER DE PLAATS, AANTALLEN EN TYPEN VAN CONVENTIONELE WAPENSYSTEMEN IN DIENST BIJ DE CONVENTIONELE STRIJDKRACHTEN
 
-#### 1
+##### 1
 
 Elke Partij verstrekt een overzicht van hiërarchiegegevens van al haar landstrijdkrachten, luchtstrijdkrachten en luchtverdedigingsstrijdkrachten gemeld ingevolge Titel III, paragraaf 1, van het Protocol, formaties en eenheden gemeld ingevolge Titel III, paragraaf 2, van het Protocol en inrichtingen waar zich in Titel III, paragraaf 3, van het Protocol genoemde conventionele wapensystemen bevinden.
 
-#### 2
+##### 2
 
 Voor elke organisatie en inrichting wordt de volgende informatie verstrekt:
 
@@ -1887,11 +1912,11 @@ Voor elke organisatie en inrichting wordt de volgende informatie verstrekt:
 
 ## TITEL IV. INFORMATIE OVER CONVENTIONELE WAPENSYSTEMEN DIE NIET IN DIENST ZIJN BIJ CONVENTIONELE STRIJDKRACHTEN, VERSTREKT INGEVOLGE TITEL IV VAN HET PROTOCOL INZAKE INFORMATIE-UITWISSELING
 
-#### 1
+##### 1
 
 Ingevolge Titel IV van het Protocol verstrekt elke Partij informatie over de, plaats, aantallen en typen van haar gevechtstanks, pantsergevechtsvoertuigen, artillerie, gevechtsvliegtuigen en aanvalshelikopters binnen het toepassingsgebied, doch niet in dienst bij haar conventionele strijdkrachten.
 
-#### 2
+##### 2
 
 Voor elke plaats wordt de volgende informatie verstrekt:
 
@@ -1911,11 +1936,11 @@ Voor elke plaats wordt de volgende informatie verstrekt:
 
 ## TITEL V. INFORMATIE OVER VERIFICATIE-OBJECTEN EN OPGEGEVEN INSPECTIEPLAATSEN
 
-#### 1
+##### 1
 
 Ingevolge Titel V van het Protocol verstrekt elke Partij een overzicht van haar verificatie-objecten en opgegeven inspectieplaatsen als omschreven in Titel I van het Protocol inzake inspectie. Opgegeven inspectieplaatsen (Schema V) worden in alfabetische volgorde vermeld.
 
-#### 2
+##### 2
 
 Over opgegeven inspectieplaatsen dient de volgende informatie te worden verstrekt:
 
@@ -1945,7 +1970,7 @@ Over opgegeven inspectieplaatsen dient de volgende informatie te worden verstrek
 
 ### Schema V:. informatie over verificatie-objecten en opgegeven inspectieplaatsen van (Partij) per (datum)
 
-#### 3
+##### 3
 
 Elke Partij verstrekt een overzicht van punten van binnenkomst/ vertrek (Schema VI). In het schema wordt telkens een eigen numerieke identificatiecode toegekend, die wordt gebruikt ter aanduiding van het/de punt(en) van binnenkomst/vertrek voor elke ingevolge paragraaf 2, letter c, van deze Titel vermelde inspectieplaats. De aanduiding van de ligging omvat mede de aardrijkskundige naam (kolom c) en de coördinaten, op 10 seconden nauwkeurig (kolom d). Bij elk punt wordt tevens vermeld voor welk type vervoer - „lucht", „zee" of „land" - het geschikt is (kolom e).
 
@@ -1975,7 +2000,7 @@ Opgeschort per 7 december 2023 (Trb. 2023/141).
 
 ## TITEL I. BEGRIPSOMSCHRIJVINGEN
 
-#### 1
+##### 1
 
 Voor de toepassing van het Verdrag wordt verstaan onder:
 
@@ -2049,15 +2074,15 @@ Voor de toepassing van het Verdrag wordt verstaan onder:
 
 ## TITEL II. ALGEMENE VERPLICHTINGEN
 
-#### 1
+##### 1
 
 Ten einde de naleving van de bepalingen van het Verdrag te kunnen verifiëren, vergemakkelijkt elke Partij het houden van inspecties uit hoofde van dit Protocol.
 
-#### 2
+##### 2
 
 In het geval van conventionele wapensystemen, in dienst bij de conventionele strijdkrachten van een Partij, die in het toepassingsgebied buiten het eigen grondgebied zijn gestationeerd, dragen de ontvangende Partij en de stationerende Partij, ter nakoming van hun onderscheiden verplichtingen, gezamenlijk zorg voor de inachtneming van de desbetreffende bepalingen van dit Protocol. De stationerende Partij is volledig verantwoordelijk voor de nakoming van de door het Verdrag opgelegde verplichtingen met betrekking tot haar conventionele wapensystemen die in dienst zijn bij haar conventionele strijdkrachten die op het grondgebied van de ontvangende Partij zijn gestationeerd.
 
-#### 3
+##### 3
 
 Het begeleidingsteam valt onder de verantwoordelijkheid van de geïnspecteerde Partij:
 
@@ -2065,31 +2090,31 @@ Het begeleidingsteam valt onder de verantwoordelijkheid van de geïnspecteerde P
 
 - B. in het geval van inspectieplaatsen waar zich bij het Verdrag beperkte conventionele wapensystemen bevinden van zowel de ontvangende Partij als de stationerende Partij., bestaat het begeleidingsteam uit vertegenwoordigers van beide Partijen wanneer daadwerkelijk bij het Verdrag beperkte conventionele wapensystemen van de stationerende Partij worden geïnspecteerd. Tijdens de inspectie op die inspectieplaats oefent de ontvangende Staat de rechten en verplichtingen uit van de geïnspecteerde Partij, met uitzondering van de rechten en verplichtingen die verband houden met de inspectie van bij het Verdrag beperkte conventionele wapensystemen van de stationerende Partij; die rechten en verplichtingen oefent de stationerende Partij uit.
 
-#### 4
+##### 4
 
 Indien een inspectieteam verzoekt om toegang tot opstallen of terreinen die worden gebruikt door een andere Partij opgrond van een akkoord met de geïnspecteerde Partij, oefent die andere Partij, in samenwerking met de geïnspecteerde Partij en voor zover zulks verenigbaar is met het akkoord inzake het gebruik, de in dit Protocol neergelegde rechten en verplichtingen uit met betrekking tot inspecties betreffende wapensystemen die toebehoren aan de Partij, die de opstallen of terreinen gebruikt.
 
-#### 5
+##### 5
 
 Opstallen of terreinen die door een andere Partij worden gebruikt op grond van een akkoord met de geïnspecteerde Partij zijn slechts aan inspectie onderworpen wanneer een vertegenwoordiger van die andere Partij deel uitmaakt van het begeleidingsteam.
 
-#### 6
+##### 6
 
 Inspectieteams en subteams vallen onder de zeggenschap en de verantwoordelijkheid van de inspecterende Partij.
 
-#### 7
+##### 7
 
 Op een inspectieplaats mag zich telkens slechts één inspectieteam bevinden dat een inspectie houdt uit hoofde van Titel VII of VIII van dit Protocol.
 
-#### 8
+##### 8
 
 Met inachtneming van de overige bepalingen van dit Protocol besluit de inspecterende Partij hoe lang elk inspectieteam zal verblijven op het grondgebied van de Partij waar een inspectie zal worden uitgevoerd, en in hoeveel en op welke inspectieplaatsen het inspecties zal houden gedurende de verblijfsperiode.
 
-#### 9
+##### 9
 
 De reiskosten van een inspectieteam tot aan het punt van binnenkomst/vertrek vóór een inspectie en vanaf het punt van binnenkomst/vertrek na voltooiing van de laatste inspectie worden gedragen door de inspecterende Partij.
 
-#### 10
+##### 10
 
 Elke Partij is verplicht een aantal inspecties uit hoofde van Titel VII of VIII van dit Protocol te dulden, welk aantal niet groter mag zijn dan haar passieve quotum voor inspecties op opgegeven inspectieplaatsen in elk van de volgende tijdvakken: een 120 dagen durendaanvangsinventarisatietijdvak, een drie jaar durend verminderingstijdvak, een 120 dagen durend restinventarisatietijdvak en een resttijdyak dat duurt zolang het Verdrag van kracht is. De passieve quota voor inspecties in opgegeven inspectieplaatsen worden per tijdvak vastgesteld als percentage van de verificatie-objecten van een Partij binnen het toepassingsgebied van het Verdrag, met uitzondering van verminderingsplaatsen en certificerings plaatsen:
 
@@ -2101,7 +2126,7 @@ Elke Partij is verplicht een aantal inspecties uit hoofde van Titel VII of VIII 
 
 - D. gedurende elk jaar na afloop van het 120 dagen durende restinventarisatietijdvak is, zolang het Verdrag van kracht blijft, het passieve quotum voor inspecties op opgegeven inspectieplaatsen gelijk aan 15 procent van de verificatie-objecten van een Partij, bekendgemaakt overeenkomstig Titel V van het Protocol inzake informatie-uitwisseling.
 
-#### 11
+##### 11
 
 Elke Partij met grondgebied binnen het toepassingsgebied is verplicht verrassingsinspecties te dulden als volgt:
 
@@ -2109,27 +2134,27 @@ Elke Partij met grondgebied binnen het toepassingsgebied is verplicht verrassing
 
 - B. gedurende elk jaar van het resttijdvak ten hoogste 23 procent van het aantal inspecties op opgegeven inspectieplaatsen dat een Partij op haar grondgebied moet dulden, zowel met betrekking tot haar eigen verificatie-objecten, als met betrekking tot verificatie-objecten die toebehoren aan stationerende Partijen.
 
-#### 12
+##### 12
 
 Ongeacht andere beperkingen uit hoofde van deze Titel is elke Partij verplicht per jaar ten minste een inspectie van haar verificatieobjecten te dulden ingevolge Titel VII van dit Protocol, en elke Partij met grondgebied binnen het toepassingsgebied is verplicht per jaar ten minste een inspectie binnen een gespecificeerd gebied te dulden overeenkomstig Titel VIII van dit Protocol.
 
-#### 13
+##### 13
 
 Een inspectie van één verificatie-object op een inspectieplaats ingevolge Titel VII van dit Protocol telt mee als één inspectie voor het passieve quotum voor inspecties op opgegeven inspectieplaatsen van de Partij waarvan het verificatie-object wordt geïnspecteerd.
 
-#### 14
+##### 14
 
 Het aandeel van inspecties uit hoofde van Titel VII van dit Protocol op het grondgebied van een ontvangende Partij binnen een bepaald tijdvak, dat wordt gebruikt voor het inspecteren van verificatie-objecten die aan een stationerende Partij toebehoren, mag niet groter zijn dan het aandeel van de verificatie-objecten van die stationerende Partij in het totale aantal verificatie-objecten die zich op het grondgebied van de ontvangende Partij bevinden.
 
-#### 15
+##### 15
 
 Het aantal inspecties van verificatie-objecten uit hoofde van Titel VII van dit Protocol binnen een bepaald tijdvak op het grondgebied van een Partij wordt berekend als percentage van het totale aantal verificatie-objecten die zich op het grondgebied van die Partij bevinden.
 
-#### 16
+##### 16
 
 Een inspectie uit hoofde van Titel VIII van dit Protocol binnen een gespecificeerd gebied telt mee als één inspectie voor het passieve quotum voor verrassingsinspecties en als één inspectie voor het passieve quotum voor inspecties op opgegeven inspectieplaatsen van de Partij op het grondgebied waarvan de inspectie wordt gehouden.
 
-#### 17
+##### 17
 
 Tenzij anders is overeengekomen tussen het begeleidingsteam en het inspectieteam, duurt de verblijfsperiode van een inspectieteam, met een maximum van in totaal 10 dagen, niet langer dan het totale aantal uren berekend aan de hand van de volgende formule:
 
@@ -2137,31 +2162,31 @@ Tenzij anders is overeengekomen tussen het begeleidingsteam en het inspectieteam
 
 - B. 36 uur voor elke volgende inspectie van een verificatie-object of binnen een gespecificeerd gebied.
 
-#### 18
+##### 18
 
 Met inachtneming van de beperkingen van paragraaf 17 van deze Titel verblijft een inspectieteam dat een inspectie houdt uit hoofde van Titel VII of VI11 van dit Protocol ten hoogste 48 uur op een opgegeven inspectieplaats en ten hoogste 24 uur bij een inspectie binnen een gespecificeerd gebied.
 
-#### 19
+##### 19
 
 De geïnspecteerde Partij verzekert dat het inspectieteam op de snelst mogelijke wijze naar de volgende inspectieplaats reist. Indien de tijd tussen de voltooiing van de ene inspectie en de aankomst van het inspectieteam op een volgende inspectieplaats langer duurt dan negen uur, of indien de tijd tussen de voltooiing van de laatste inspectie die het inspectieteam houdt op het grondgebied van de geïnspecteerde Partij en de aankomst van dat inspectieteam op het punt van binnenkomst/vertrek langer duurt dan negen uur, tellen de uren waarmee die negen uur wordt overschreden niet mee voor de verblijfsperiode van dat inspectieteam.
 
-#### 20
+##### 20
 
 Een Partij behoeft op haar grondgebied binnen het toepassingsgebied tegelijkertijd ten hoogste te dulden hetzij twee inspectieteams ter uitvoering van inspecties ingevolge de Titels VII en VIII van dit Protocol, hetzij een aantal inspectieteams ter uitvoering van inspecties ingevolge de Titels VII of VIII van dit Protocol dat gelijk is aan 2 procent van het totale aantal verificatie-objecten die gedurende een tijdvak op het grondgebied van die Partij zullen worden geïnspecteerd, naar gelang van welk aantal het grootst is.
 
-#### 21
+##### 21
 
 Een Partij behoeft tegelijkertijd ten hoogste te dulden hetzij twee inspectieteams ter uitvoering van inspecties van haar conventionele strijdkrachten ingevolge Titel VII of VIII van dit Protocol, hetzij een aantal inspectieteams ter uitvoering van inspecties van haar conventionele strijdkrachten ingevolge Titel VII of VIII van dit Protocol dat gelijk is aan 2 procent van het totale aantal van haar verificatie-objecten die gedurende een tijdvak zullen worden geïnspecteerd, naar gelang van welk aantal het grootst is.
 
-#### 22
+##### 22
 
 Onverminderd de bepalingen van de paragrafen 20 en 21 van deze Titel behoeft een Partij met militaire districten als omschreven in de artikelen IV en V van het Verdrag op haar grondgebied binnen het toepassingsgebied ten hoogste twee inspectieteams tegelijkertijd te dulden ter uitvoering van inspecties uit hoofde van de Titels VII en VIII van dit Protocol in één van die militaire districten.
 
-#### 23
+##### 23
 
 Een Partij behoeft inspecties ingevolge de Titels VII en VIII van dit Protocol door dezelfde Partij niet te dulden, wanneer deze gedurende een kalenderjaar meer dan 50 procent uitmaken van haar passieve quotum voor inspecties op opgegeven inspectieplaatsen.
 
-#### 24
+##### 24
 
 Elke Partij heeft het recht binnen het toepassingsgebied inspecties te houden op het grondgebied van andere Partijen. Een Partij mag evenwel per jaar niet meer dan vijf inspecties ingevolge de Titels VII en VIII houden ten aanzien van een andere Partij die tot dezelfde groep van Partijen behoort. Deze inspecties tellen mee voor het passieve quotum voor inspecties op opgegeven inspectieplaatsen van de geïnspecteerde Partij. Overigens is elke groep van Partijen als enige verantwoordelijk voor de toewijzing van inspecties aan elke Partij binnen de groep van Partijen. Elke Partij maakt haar actieve inspectiequotum bekend aan alle andere Partijen:
 
@@ -2173,35 +2198,35 @@ Elke Partij heeft het recht binnen het toepassingsgebied inspecties te houden op
 
 ## TITEL III. VEREISTEN VOOR INSPECTIE
 
-#### 1
+##### 1
 
 Inspecties ingevolge het Verdrag worden uitgevoerd door inspecteurs die zijn aangewezen in overeenstemming met de paragrafen 3 tot en met 7 van deze Titel.
 
-#### 2
+##### 2
 
 Inspecteurs moeten onderdaan zijn van de inspecterende Partij of van andere Partijen.
 
-#### 3
+##### 3
 
 Binnen 90 dagen na ondertekening van het Verdrag verstrekt elke Partij alle andere Partijen een lijst van haar voorgedragen inspecteurs en een lijst van haar voorgedragen bemanningsleden, waarin de namen (voluit) van de inspecteurs en de bemanningsleden, hun geslacht, geboortedatum, geboorteplaats en paspoortnummer zijn vermeld. Een lijst van voorgedragen inspecteurs die door een Partij wordt verstrekt, mag nimmer meer dan 400 personen bevatten en een lijst van voorgedragen bemanningsleden die door een Partij wordt verstrekt, mag nimmer meer dan 600 personen bevatten.
 
-#### 4
+##### 4
 
 Elke Partij bestudeert de lijsten van inspecteurs en bemanningsleden die aan haar zijn verstrekt door de andere Partijen en deelt binnen 30 dagen na de ontvangst van elke lijst aan de Partij die de lijst verstrekt de personen mede van wie zij de naam uit die lijst wenst te schrappen.
 
-#### 5
+##### 5
 
 Met inachtneming van paragraaf 7 van deze Titel worden inspecteurs en bemanningsleden om wier schrapping niet is verzocht binnen de in paragraaf 4 van deze Titel genoemde termijn, geacht te zijn aanvaard met het oog op de afgifte van visa en andere documenten in overeenstemming met paragraaf 8 van deze Titel.
 
-#### 6
+##### 6
 
 Elke Partij heeft het recht haar lijsten te wijzigen binnen een maand na de inwerkingtreding van het Verdrag. Daarna kan elke Partij eens per zes maanden toevoegingen aan of schrappingen uit haar lijst van inspecteurs en bemanningsleden voorstellen, mits die gewijzigde lijsten de in paragraaf 3 van deze Titel genoemde aantallen niet overschrijden. Voorgedragen toevoegingen worden bestudeerd in overeenstemming met de paragrafen 4 en 5 van deze Titel.
 
-#### 7
+##### 7
 
 Een Partij kan, zonder recht van weigering, naar goeddunken verzoeken om schrapping van elke persoon uit de lijsten van inspecteurs en bemanningsleden die door een andere Partij zijn verstrekt.
 
-#### 8
+##### 8
 
 De Partij op het grondgebied waarvan een inspectie wordt gehouden, verstrekt aan de in overeenstemming met paragraaf 5 van deze Titel aanvaarde inspecteurs en bemanningsleden de visa en alle andere documenten die deze inspecteurs en bemanningsleden nodig hebben om het grondgebied van die Partij binnen te komen en aldaar te verblijven om inspectie-activiteiten te verrichten in overeenstemming met de bepalingen van dit Protocol. De visa en alle andere documenten worden verstrekt:
 
@@ -2209,29 +2234,29 @@ De Partij op het grondgebied waarvan een inspectie wordt gehouden, verstrekt aan
 
 - B. hetzij binnen een uur na de aankomst van het inspectieteam en de bemanningsleden op het punt van binnenkomst/vertrek, in welk geval de visa geldig zijn voor de duur van hun inspectie-activiteiten.
 
-#### 9
+##### 9
 
 Binnen 90 dagen na ondertekening van het Verdrag stelt elke Partij alle andere Partijen in kennis van het nummer van de permanente diplomatieke toestemming voor de vervoermiddelen van die Partij waarmee inspecteurs en materieel, benodigd voor een inspectie, worden vervoerd naar of vanuit het grondgebied van de Partij waar een inspectie wordt gehouden. De routes naar en van de aangewezen punten van binnenkomst/vertrek lopen langs erkende internationale luchtwegen of andere routes die door de betrokken Partijen zijn overeengekomen als grondslag voor deze diplomatieke toestemming. De inspecteurs kunnen gebruik maken van lijnvluchten om te reizen naar de punten van binnenkomst/vertrek die door luchtvaartmaatschappijen worden aangedaan. De bepalingen van deze paragraaf inzake de diplomatieke toestemming zijn niet op die vluchten van toepassing.
 
-#### 10
+##### 10
 
 Elke Partij geeft in de bekendmaking ingevolge Titel V van het Protocol inzake informatie-uitwisseling een punt of punten van binnenkomst/vertrek aan met betrekking tot elke opgegeven inspectieplaats, te zamen met de verificatie-objecten daarvan. Deze punten van binnenkomst/vertrek kunnen doorlaatposten te land, luchthavens of zeehavens zijn, die voldoende capaciteit moeten hebben om de vervoermiddelen van de inspecterende Partij te kunnen ontvangen. Met betrekking tot elke opgegeven inspectieplaats moet ten minste één luchthaven worden bekendgemaakt als punt van binnenkomst/ vertrek. De ligging van een punt van binnenkomst/vertrek dat met betrekking tot een opgegeven inspectieplaats is bekendgemaakt, moet zodanig zijn dat toegang tot de opgegeven plaats mogelijk is binnen de in Titel VII, paragraaf 8, van dit Protocol genoemde tijdsduur.
 
-#### 11
+##### 11
 
 Elke Partij heeft het recht het punt of de punten van binnenkomst/ vertrek op zijn grondgebied te wijzigen door zulks ten minste 90 dagen voordat de wijziging van kracht wordt aan alle andere Partijen bekend te maken.
 
-#### 12
+##### 12
 
 Binnen 90 dagen na ondertekening van het Verdrag maakt elke Partij aan alle andere Partijen de officiële taal of talen van de Conferentie over Veiligheid en Samenwerking in Europa bekend waarvan inspectieteams die haar conventionele strijdkrachten inspecteren, zich zullen bedienen.
 
 ## TITEL IV. BEKENDMAKING VAN HET VOORNEMEN OM TE INSPECTEREN
 
-#### 1
+##### 1
 
 De inspecterende Partij maakt haar voornemen een in artikel XIV van het Verdrag bedoelde inspectie uit te voeren bekend aan de geïnspecteerde Partij. In geval van inspectie van gestationeerde conventionele strijdkrachten maakt de inspecterende Partij dit tegelijkertijd bekend aan de ontvangende en stationerende Partijen. In geval van inspectie van certificerings- of verminderingsprocedures uitgevoerd door een stationerende Partij, maakt de inspecterende Partij dit tegelijkertijd bekend aan de ontvangende en stationerende Partijen.
 
-#### 2
+##### 2
 
 Voor inspecties ingevolge de Titels VII en VIII van dit Protocol geschieden die bekendmakingen in overeenstemming met artikel XVII van het Verdrag, zulks ten minste 36 uur voor het verwachte tijdstip van aankomst vanhet inspectieteam op het punt van binnenkomst/vertrek op het grondgebied van de Partij waar een inspectie zal worden gehouden, en daarin dient te zijn vermeld:
 
@@ -2253,7 +2278,7 @@ Voor inspecties ingevolge de Titels VII en VIII van dit Protocol geschieden die 
 
 - I. het vermoedelijke aantal volgende inspecties.
 
-#### 3
+##### 3
 
 Voor inspecties ingevolge de Titels IX en X van dit Protocol geschieden die bekendmakingen in overeenstemming met artikel XVII van het Verdrag, zulks ten minste 96 uur voor het verwachte tijdstip van aankomst van het inspectieteam op het aangewezen punt van binnenkomst/vertrek op het grondgebied van de Partij waar een inspectie wordt gehouden, en daarin dient te zijn vermeld:
 
@@ -2271,19 +2296,19 @@ Voor inspecties ingevolge de Titels IX en X van dit Protocol geschieden die beke
 
 - G. de namen (voluit) van de inspecteurs en de bemanningsleden, hun geslacht, geboortedatum, geboorteplaats en paspoortnummer.
 
-#### 4
+##### 4
 
 De Partijen die in kennis zijn gesteld ingevolge paragraaf 1 van deze Titel bevestigen de ontvangst van de bekendmaking binnen 3 uur in overeenstemming met artikel XVII van het Verdrag. Met inachtneming van de bepalingen van deze Titel wordt het het inspectieteam toegestaan op het punt van binnenkomst/vertrek aan te komen op het verwachte tijdstip van aankomst, dat is bekendgemaakt ingevolge paragraaf 2, letter B, of paragraaf 3, letter B, van deze Titel.
 
-#### 5
+##### 5
 
 Een geïnspecteerde Partij die een bekendmaking van het voornemen om te inspecteren ontvangt, zendt onmiddellijk na ontvangst van de bekendmaking afschriften daarvan aan alle andere Partijen in overeenstemming met artikel XVII van het Verdrag.
 
-#### 6
+##### 6
 
 Indien de Partij op het grondgebied waarvan een inspectie zal worden uitgevoerd niet in staat is de binnenkomst van het inspectieteam mogelijk te maken op het verwachte tijdstip van aankomst, wordt het het inspectieteam toegestaan het grondgebied van die Partij binnen te komen binnen twee uur vóór of na het bekendgemaakte verwachte tijdstip van aankomst. In dat geval maakt de Partij op het grondgebied waarvan een inspectie zal worden uitgevoerd een nieuwe aankomsttijd bekend aan de inspecterende Partij, zulks uiterlijk 24 uur na de oorspronkelijke bekendmaking.
 
-#### 7
+##### 7
 
 Indien het inspectieteam meer dan twee uur vertraging ondervindt, te rekenen vanaf het bekendgemaakte verwachte tijdstip van aankomst of vanaf het nieuwe tijdstip van aankomst, medegedeeld ingevolge paragraaf 6 van deze Titel, maakt de inspecterende Partij aan de ingevolge paragraaf 1 van deze Titel ingelichte Partijen bekend:
 
@@ -2291,143 +2316,143 @@ Indien het inspectieteam meer dan twee uur vertraging ondervindt, te rekenen van
 
 - B. indien de inspecterende Partij zulks wenst, een-nieuwe tijdsspanne tussen de aankomst op het punt van binnenkomst/vertrek en de aanwijzing van de eerste inspectieplaats.
 
-#### 8
+##### 8
 
 Ingeval gebruik wordt gemaakt van andere vluchten dan lijnvluchten voor het vervoer van het inspectieteam naar het punt van binnenkomst/vertrek, verstrekt de inspecterende Partij ten minste 10 uur vóór het verwachte tijdstip van binnenkomst in het luchtruim van de Partij op het grondgebied waarvan de inspectie zal worden uitgevoerd, aan die Partij een vliegplan in overeenstemming met artikel XVII van het Verdrag. Het vliegplan moet wordeningediend in overeenstemming met de procedures van de Internationale Burgerluchtvaartorganisatie die gelden voor bürgerluchtvaartuigen. De inspecterende Partij vermeldt in het gedeelte voor opmerkingen van elk vliegplan het nummer van de permanente diplomatieke toestemming en de aantekening: „CSE-inspectieluchtvaartuigen: Met voorrang te behandelen".
 
-#### 9
+##### 9
 
 Uiterlijk drie uur na de ontvangst van een vliegplan dat is ingediend in overeenstemming met paragraaf 8 van deze Titel, verzekert de Partij op het grondgebied waarvan een inspectie zal worden uitgevoerd dat het vliegplan wordt goedgekeurd, zodat het inspectieteam op het punt van binnenkomst/vertrek kan aankomen op het verwachte tijdstip van aankomst.
 
 ## TITEL V. PROCEDURES BIJ AANKOMST OP HET PUNT VAN BINNENKOMST / VERTREK
 
-#### 1
+##### 1
 
 Het begeleidingsteam wacht het inspectieteam en de bemanningsleden op bij aankomst op het punt van binnenkomst/vertrek.
 
-#### 2
+##### 2
 
 Een Partij die op grond van een akkoord met de geïnspecteerde Partij opstallen en terreinen gebruikt, wijst een contactambtenaar aan voor het begeleidingsteam, die desgewenst beschikbaar is op het punt van binnenkomst/vertrek om het inspectieteam te allen tijde, in overleg met het begeleidingsteam, te kunnen begeleiden:
 
-#### 3
+##### 3
 
 De tijdstippen van aankomst en terugkomst op een punt van binnenkomst/vertrek worden overeengekomen en vastgelegd door zowel het inspectieteam als het begeleidingsteam.
 
-#### 4
+##### 4
 
 De Partij op het grondgebied waarvan een inspectie zal worden uitgevoerd, ziet erop toe dat de bagage, uitrusting en voorraden van het inspectieteam zijn vrijgesteld van douanerechten en dat deze snel worden behandeld op het punt van binnenkomst/vertrek.
 
-#### 5
+##### 5
 
 De uitrusting en voorraden die de inspecterende Partij op het grondgebied brengt van de Partij waar een inspectie zal worden uitgevoerd, worden telkens wanneer deze op dat grondgebied worden gebracht, aan een controle onderworpen. De controle moet zijn voltooid vóór het vertrek van het inspectieteam van het punt van binnenkomst/vertrek naar de inspectieplaats. De uitrusting en voorraden worden gecontroleerd door het begeleidingsteam in aanwezigheid van de leden van het inspectieteam.
 
-#### 6
+##### 6
 
 Indien het begeleidingsteam bij de controle vaststelt dat een voorwerp dat deel uitmaakt van de door inspecteurs meegebrachte uitrusting of voorraden functies kan verrichten die niet stroken met de inspectievereisten van dit Protocol of die niet voldoen aan de vereisten uiteengezet in Titel VI, paragraaf 15, van dit Protocol, heeft het begeleidingsteam het recht de toestemming tot gebruik van het voorwerp te weigeren en dit in bewaring te nemen op het punt van binnenkomst/vertrek. De inspecterende Partij verwijdert deze in bewaring genomen uitrusting of voorraden van het grondgebied van de Partij waar een inspectie zal worden uitgevoerd bij de eerstvolgende gelegenheid die zich naar haar goeddunken voordoet, doch niet later dan het tijdstip waarop het inspectieteam die de in bewaring genomen uitrusting of voorraden heeft meegebracht, het grondgebied verlaat.
 
-#### 7
+##### 7
 
 Indien een Partij de controle van de uitrusting van een inspectieteam op het punt van binnenkomst/vertrek niet heeft bijgewoond, is die Partij gerechtigd de rechten van het begeleidingsteam ingevolge de paragrafen 5 en 6 van deze Titel uit te oefenen vóór de inspectie op een opgegeven inspectieplaats waar haar conventionele strijdkrachten zich bevinden, of van opstallen of terreinen die zij gebruikt op grond van een akkoord met de geïnspecteerde Partij.
 
-#### 8
+##### 8
 
 Gedurende de gehele periode waarin het inspectieteam en de bemanningsleden verblijven op het grondgebied van de Partij waar de inspectieplaats is gelegen, verzorgt of regelt de geïnspecteerde Partij de verschaffing van maaltijden, onderdak, werkruimte, vervoer en, indien nodig, het bieden van medische verzorging of enige andere noodhulp.
 
-#### 9
+##### 9
 
 De Partij op het grondgebied waarvan een inspectie wordt uitgevoerd, draagt zorg voor de stalling, de beveiliging, het onderhoud en de brandstof voor de vervoermiddelen van de inspecterende Partij op het punt van binnenkomst/vertrek.
 
 ## TITEL VI. ALGEMENE REGELS VOOR HET HOUDEN VAN INSPECTIES
 
-#### 1
+##### 1
 
 Een inspectieteam kan naast inspecteurs van de inspecterende Partij mede inspecteurs van andere Partijen omvatten.
 
-#### 2
+##### 2
 
 Bij inspecties in overeenstemming met de Titels VII, VIII, IX en X van dit Protocol bestaat een inspectieteam uit ten hoogste negen inspecteurs en kan het worden opgesplitst in ten hoogste drie subteams. In geval van gelijktijdige inspecties op het grondgebied van Partijen die geen militaire districten hebben als bedoeld in de artikelen IV en V van het Verdrag, of in één van de militaire districten van een Partij die zulke militaire districten heeft, mag slechts één inspectieteam worden opgesplitst in drie subteams en de andere in twee.
 
-#### 3
+##### 3
 
 De inspecteurs en de leden van het begeleidingsteam dragen duidelijke herkenningstekenen waardoor zij als zodanig te onderscheiden zijn.
 
-#### 4
+##### 4
 
 Een inspecteur wordt geacht zijn/haar taken te hebben aangevangen bij aankomst op het punt van binnenkomst/vertrek op het grondgebied van de Partij waar een inspectie zal worden uitgevoerd, en wordt geacht die taken te hebben beëindigd bij het verlaten van het grondgebied van die Partij via het punt van binnenkomst/vertrek.
 
-#### 5
+##### 5
 
 Het aantal bemanningsleden mag niet groter zijn dan 10.
 
-#### 6
+##### 6
 
 Onverminderd hun voorrechten en immuniteiten eerbiedigen de inspecteurs en bemanningsleden de wetten en voorschriften van de Partij op het grondgebied waarvan een inspectie wordt uitgevoerd en laten zij zich niet in met de binnenlandse aangelegenheden van die Partij. Inspecteurs en bemanningsleden nemen ook de voorschriften op een inspectieplaats in acht, waaronder de veiligheidsprocedures en administratieve procedures. Wanneer de geïnspecteerde Partij van oordeel is dat een inspecteur of bemanningslid heeft gehandeld in strijd met de wetten en voorschriften of andere voorwaarden ter zake van inspectie-activiteiten genoemd in dit Protocol, maakt zij dit bekend aan de inspecterende Partij, die, op verzoek van de geïnspecteerde Partij, die persoon onmiddellijk schrapt uit de lijst van inspecteurs en bemanningsleden. Indien die persoon zich bevindt op het grondgebied van de Partij waar een inspectie wordt uitgevoerd, trekt de inspecterende Partij die persoon onverwijld uit dat grondgebied terug.
 
-#### 7
+##### 7
 
 De geïnspecteerde Partij is verantwoordelijk voor de veiligheid van het inspectieteam en de bemanningsleden vanaf het tijdstip waarop zij aankomen op het punt van binnenkomst/vertrek tot het tijdstip waarop zij vertrekken van het punt van binnenkomst/vertrek om het grondgebied van die Partij te verlaten.
 
-#### 8
+##### 8
 
 Het begeleidingsteam staat het inspectieteam bij in de vervulling van zijn taken. Het begeleidingsteam kan naar eigen goeddunken gebruik maken van het recht om het inspectieteam te vergezellen vanaf het tijdstip waarop dit het grondgebied van de Partij waar een inspectie zal worden uitgevoerd binnenkomt tot het tijdstip waarop het dat grondgebied verlaat.
 
-#### 9
+##### 9
 
 De inspecterende Partij ziet erop toe dat het inspectieteam en de subteams over de nodige talenkennis beschikken om gemakkelijk te kunnen communiceren met het begeleidingsteam in de taal die is bekendgemaakt in overeenstemming met Titel IV, paragraaf 2, letter F, en paragraaf 3, letter E, van dit Protocol. De geïnspecteerde Partij ziet erop toe dat het begeleidingsteam over de nodige talenkennis beschikt om gemakkelijk in die taal te kunnen communiceren met het inspectieteam en elk subteam. Inspecteurs en leden van het begeleidingsteam mogen ook in andere talen met elkander communiceren.
 
-#### 10
+##### 10
 
 Informatie die tijdens inspecties is verkregen, wordt niet openbaar gemaakt zonder de uitdrukkelijke toestemming van de inspecterende Partij.
 
-#### 11
+##### 11
 
 Gedurende hun aanwezigheid op het grondgebied van een Partij waar een inspectie zal worden uitgevoerd, hebben de inspecteurs het recht om zich in verbinding te stellen met de ambassade of het consulaat van de inspecterende Partij gelegen op dat grondgebied, met gebruikmaking van de door de geïnspecteerde Partij ter beschikking gestelde telecommunicatiemiddelen. De geïnspecteerde Partij stelt ook middelen voor de communicatie tussen de subteams van een inspectieteam ter beschikking.
 
-#### 12
+##### 12
 
 De geïnspecteerde Partij vervoert het inspectieteam naar, van en tussen de inspectieplaatsen, met gebruikmaking van de door haar te kiezen vervoermiddelen en route. De inspecterende Partij kan verzoeken om een afwijking van de gekozen route. De geïnspecteerde Partij willigt dat verzoek indien mogelijk in. Wanneer zulks onderling is overeengekomen, kan de inspecterende Partij haar eigen landvoertuigen gebruiken.
 
-#### 13
+##### 13
 
 Ingeval een noodsituatie ontstaat die de inspecteurs noopt van een inspectieplaats te reizen naar een punt van binnenkomst/vertrek of naar de ambassade of het consulaat van de inspecterende Partij op het grondgebied van de Partij waar een inspectie wordt uitgevoerd, doet het inspectieteam daarvan kennisgeving aan het begeleidingsteam, dat onverwijld voorzieningen treft voor die reis en, indien noodzakelijk, geschikte vervoermiddelen ter beschikking stelt.
 
-#### 14
+##### 14
 
 De geïnspecteerde Partij stelt het inspectieteam op de inspectieplaats een ruimte ter beschikking voor de opslag van de uitrusting en voorraden, het schrijven van rapporten, alsmede voor rustpauzes en maaltijden.
 
-#### 15
+##### 15
 
 Het is het inspectieteam toegestaan de voor het houden van de inspectie benodigde documenten mee te brengen, in het bijzonder zijn eigen kaarten en plattegronden. Inspecteurs mogen draagbare passieve nachtzichtapparatuur, verrekijkers, video- en fotocamera's, dicteerapparaten, meetlinten, zaklantaarns, magnetische kompassen en draagbare computers meenemen en gebruiken. De inspecteurs mogen ook andere benodigdheden gebruiken, mits de geïnspecteerde Partij daarmee instemt. Gedurende de gehele verblijfsperiode is het begeleidingsteam gerechtigd toe te zien op het gebruik van de door de inspecteurs meegebrachte benodigdheden; het begeleidingsteam mag zich echter niet bemoeien met het gebruik van de uitrusting die het heeft goedgekeurd in overeenstemming met Titel V, paragrafen 5 tot en met 7, van dit Protocol.
 
-#### 16
+##### 16
 
 In geval van een inspectie ingevolge Titel VII of VIII van dit Protocol geeft het inspectieteam telkens als het de inspectieplaats aanwijst die het zal inspecteren aan of de inspectie te voet, per terreinvoertuig, per helikoper, dan wel een combinatie hiervan, zal worden gehouden. Tenzij anderszins is overeengekomen, worden op de inspectieplaats de vereiste terreinvoertuigen ter beschikking gesteld en bestuurd door de geïnspecteerde Partij.
 
-#### 17
+##### 17
 
 Telkens wanneer zulks mogelijk is, heeft het inspectieteam het recht, met inachtneming van de veiligheids- en vliegvoorschriften van de geïnspecteerde Partij en de bepalingen van de paragrafen 18 tot en met 21 van deze Titel, om gedurende inspecties ingevolge de Titels VII en VIII van dit Protocol per helikopter een vlucht boven de inspectieplaats te maken, met gebruikmaking van een door de geïnspecteerde Partij ter beschikking gestelde en bestuurde helikopter.
 
-#### 18
+##### 18
 
 De geïnspecteerde Partij is niet verplicht een helikopter ter beschikking te stellen op inspectieplaatsen met een oppervlakte van minder dan 20 vierkante kilometer.
 
-#### 19
+##### 19
 
 De geïnspecteerde Partij heeft het recht om het vliegen per helikopter boven gevoelige punten uit te stellen, te beperken of te weigeren, maar de aanwezigheid van gevoelige punten mag geen beletsel vormen voor het vliegen per helikopter over de overige delen van de inspectieplaats. Het fotograferen van of boven gevoelige punten tijdens vluchten per helikopter is slechts toegestaan indien het begeleidingsteam daarmee instemt.
 
-#### 20
+##### 20
 
 De duur van bedoelde helikoptervluchten boven een inspectieplaats mag niet langer zijn dan in totaal één uur, tenzij anders is overeengekomen tussen het inspectieteam en het begeleidingsteam.
 
-#### 21
+##### 21
 
 De door de geïnspecteerde Partij ter beschikking gestelde helikopters moeten groot genoeg zijn om ten minste twee leden van het inspectieteam en ten minste één lid van het begeleidingsteam te kunnen vervoeren. Tijdens het vliegen over de inspectieplaats mogen de inspecteurs de in paragraaf 15 van deze Titel bedoelde benodigdheden meenemen en gebruiken. Telkens wanneer het inspectieteam voornemens is foto's te nemen tijdens inspectievluchten deelt het dit mede aan het begeleidingsteam. Een helikopter moet de inspecteurs ononderbroken en ongehinderd uitzicht op de grond kunnen bieden.
 
-#### 22
+##### 22
 
 Bij de vervulling van hun taken bemoeien de inspecteurs zich niet rechtstreeks met de gang van zaken op een inspectieplaats; zij mogen de verrichtingen op een inspectieplaats niet onnodig hinderen of vertragen, noch maatregelen nemen die het veilig functioneren beïnvloeden.
 
-#### 23
+##### 23
 
 Voor zover in de paragrafen 24 tot en met 29 van deze Titel niet anders is bepaald, wordt tijdens een inspectie van een verificatie-object of binnen een gespecificeerd gebied aan inspecteurs toegang verleend en een ongehinderde inspectie toegestaan als volgt:
 
@@ -2435,75 +2460,75 @@ Voor zover in de paragrafen 24 tot en met 29 van deze Titel niet anders is bepaa
 
 - B. in geval van een verificatie-object, binnen het gehele grondgebied van de opgegeven inspectieplaats, met uitzondering van zones die op de plattegrond zijn gemarkeerd als zones die uitsluitend behoren tot een ander verificatie-object dat het inspectieteam niet heeft aangewezen voor inspectie.
 
-#### 24
+##### 24
 
 Gedurende een inspectie ingevolge Titel VII of VIII van dit Protocol van een verificatie-object of binnen een gespecificeerd gebied hebben de inspecteurs het recht, met inachtneming van de bepalingen van paragraaf 25 van deze Titel, om binnen de in paragraaf 23 van deze Titel genoemde gebieden alle terreinen, opstallen of ruimten binnen opstallen te betreden waar zich permanent of veelvuldig gevechtstanks, pantsergevechtsvoertuigen, artillerie, gevechtshelikopters, gevechtsvliegtuigen, gereclassificeerde lesvliegtuigen met gevechtscapaciteit, op een gepantserd personeelsvoertuig of op een pantserinfanteriegevechtsvoertuig lijkende voertuigen of brugleggende tanks bevinden. Inspecteurs zijn niet gerechtigd andere opstallen of ruimten binnen opstallen te betreden die slechts toegankelijk zijn via deuren voor personeel, met een breedte van ten hoogste 2 meter, en waartoe de toegang is geweigerd door het begeleidingsteam.
 
-#### 25
+##### 25
 
 Gedurende een inspectie ingevolge Titel VII of VIII van dit Protocol van een verificatie-object of binnen een gespecificeerd gebied hebben de inspecteurs het recht om in versterkte vliegtuigonderkomens te kijken om zich uit eigen waarneming ervan te vergewissen of zich daarin gevechtstanks, pantsergevechtsvoertuigen, artillerie, gevechtshelikopters, gevechtsvliegtuigen, gereclassificeerde lesvliegtuigen met gevechtscapaciteit, op een gepantserd personeelsvoertuig of op een pantserinfanteriegevechtsvoertuig lijkende voertuigen of brugleggende tanks bevinden en zo ja, zich te vergewissen van hun aantallen, typen, modellen of versies. Niettegenstaande de bepalingen van paragraaf 24 van deze Titel mogen de inspecteurs versterkte vliegtuigonderkomens slechts betreden met toestemming van het begeleidingsteam. Indien deze toestemming wordt geweigerd, worden de zich in de versterkte vliegtuigonderkomens bevindende gevechtstanks, pantsergevechtsvoertuigen, artillerie, gevechtshelikopters, gevechtsvliegtuigen, gereclassificeerde lesvliegtuigen met gevechtscapaciteit, op een gepantserd personeelsvoertuig of op een pantserinfanteriegevechtsvoertuig lijkende voertuigen of brugleggende tanks buiten getoond.
 
-#### 26
+##### 26
 
 Gedurende een inspectie ingevolge Titels VII of VIII van dit Protocol van een verificatie-object of binnen een gespecificeerd gebied, wordt, indien niet anders is bepaald in de paragrafen 27 tot en met 33 van deze Titel, inspecteurs slechts toegang verleend tot conventionele wapensystemen voor zover zulks noodzakelijk is om zich uit eigen waarneming te vergewissen van hun aantallen en typen, modellen of versies.
 
-#### 27
+##### 27
 
 De geïnspecteerde Partij heeft het recht afzonderlijke gevoelige uitrustingsstukken af te dekken.
 
-#### 28
+##### 28
 
 Het begeleidingsteam heeft het recht de toegang te weigeren tot gevoelige punten, waarvan het aantal en de omvang zo beperkt mogelijk dient te blijven, tot afgedekte objecten en tot containers waarvan de afmetingen (breedte, hoogte, lengte of doorsnede) kleiner zijn dan twee meter. Wanneer er een gevoelig punt wordt aangewezen of er afgedekte objecten of containers aanwezig zijn, geeft het begeleidingsteam op of het gevoelige punt, het afgedekte object of de container gevechtstanks, pantsergevechtsvoertuigen, artillerie, gevechtshelikopters, gevechtsvliegtuigen, gereclassificeerde lesvliegtuigen met gevechtscapaciteit, op een gepantserd personeelsvoertuig of op een pantserinfanteriegevechtsvoertuig lijkende voertuigen of brugleggende tanks bevat, en zo ja, hun aantallen en typen, modellen of versies.
 
-#### 29
+##### 29
 
 Indien het begeleidingsteam opgeeft dat een gevoelig punt, een afgedekt object of een container één van de in paragraaf 28 van deze Titel genoemde conventionele wapensystemen bevat, toont of noemt het begeleidingsteam die conventionele wapensystemen aan het inspectieteam en neemt het stappen om het inspectieteam ervan te overtuigen dat er niet meer conventionele wapensystemen aanwezig zijn dan het opgegeven aantal.
 
-#### 30
+##### 30
 
 Indien gedurende een inspectie ingevolge Titel VII en VIII van dit Protocol van een verificatie-object of binnen een gespecificeerd gebied er op een inspectieplaats een helikopter aanwezig is van een type dat is of was opgenomen in de lijst van algemeen inzetbare aanvalshelikopters in het Protocol inzake bestaande typen die door het begeleidingsteam is opgegeven als gevechtsondersteunende helikopter, of indien er op een inspectieplaats een helikopter aanwezig is van het type Mi-24R of Mi-24K die door het begeleidingsteam is opgegeven als beperkt ingevolge Titel I, paragraa("3, van het Protocol inzake de recategorisering van helikopters, is die helikopter onderworpen aan inwendige inspectie in overeenstemming met Titel IX, paragrafen 4 tot en met 6, van dit Protocol.
 
-#### 31
+##### 31
 
 Indien gedurende een inspectie ingevolge Titel VII of VIII van dit Protocol van een verificatie-object of binnen een gespecificeerd gebied er op een inspectieplaats een vliegtuig aanwezig is van bepaald model of bepaalde versie van lesvliegtuigen met gevechtscapaciteit, genoemd in Titel II van het Protocol inzake de reclassificering van vliegtuigen, dat door het begeleidingsteam is opgegeven als gecertificeerd als onbewapend in overeenstemming met het Protocol inzake de reclassificering van vliegtuigen, is dat vliegtuig onderworpen aan inwendige inspectie in overeenstemming met Titel IX, paragrafen 4 en 5, van dit Protocol.
 
-#### 32
+##### 32
 
 Indien gedurende een inspectie van een verificatie-object of binnen een gespecificeerd gebied ingevolge Titel VII of VIII van dit Protocol er op een inspectieplaats een pantservoertuig aanwezig is dat door het begeleidingsteam is opgegeven als op een gepantserd personeelsvoertuig of op een pantserinfanteriegevechtsvoertuig lijkend voertuig, heeft het inspectieteam het recht zich ervan te vergewissen dat dat voertuig geen infanteriegevechtsgroep kan vervoeren. De inspecteurs hebben het recht te verlangen dat de deuren en /of luiken van het voertuig worden geopend, zodat het inwendige van het voertuig van buiten af kan worden waargenomen. Gevoelige uitrusting in of op het voertuig mag worden afgedekt.
 
-#### 33
+##### 33
 
 Indien gedurende een inspectie van een verificatie-object of binnen een gespecificeerd gebied ingevolge Titel VII of VIII van dit Protocol er op een inspectieplaats exemplaren aanwezig zijn die door het begeleidingsteam zijn opgegeven als verminderd in overeenstemming met de bepalingen van het Protocol inzake vermindering, heeft het inspectieteam het recht die exemplaren te inspecteren om zich ervan te vergewissen dat zij zijn verminderd in overeenstemming met de procedures genoemd in de Titels III tot en met XII van het Protocol inzake vermindering.
 
-#### 34
+##### 34
 
 De inspecteurs hebben het recht foto's, waaronder video-opnamen, te maken met het doel de aanwezigheid vast te leggen van conventionele wapensystemen waarop dit Verdrag van toepassing is; dit geldt ook voor aangewezen permanente opslagplaatsen of andere opslagplaatsen waar zich meer dan 50 van zulke conventionele wapensystemen bevinden. Het gebruik van fotocamera's is beperkt tot 35 mm-camera's en polaroid-camera's. Het inspectieteam deelt het begeleidingsteam op voorhand mede of het voornemens is om foto's te maken. Het begeleidingsteam verleent medewerking aan het maken van foto's door het inspectieteam.
 
-#### 35
+##### 35
 
 Het fotograferen van gevoelige punten is slechts toegestaan met toestemming van het begeleidingsteam.
 
-#### 36
+##### 36
 
 Tenzij in paragraaf 38 van deze Titel anders is bepaald, is het fotograferen van het inwendige van andere opstallen dan opslagplaatsen genoemd in paragraaf 34 van deze Titel slechts toegestaan met toestemming van het begeleidingsteam.
 
-#### 37
+##### 37
 
 De inspecteurs hebben het recht om maten te controleren ten einde onduidelijkheden op te lossen die tijdens inspecties aan het licht treden. De tijdens de inspectie vastgestelde maten worden onmiddellijk bevestigd door een lid van het inspectieteam en een lid van het begeleidingsteam. Deze bevestigde gegevens worden vermeld in het inspectierapport.
 
-#### 38
+##### 38
 
 Telkens wanneer zulks mogelijk is, lossen de Partijen tijdens een inspectie onduidelijkheden op die zich voordoen met betrekking tot feitenmateriaal. Telkens wanneer inspecteurs het begeleidingsteam verzoeken een dergelijke onduidelijkheid op te helderen, verschaft het begeleidingsteam het inspectieteam onmiddellijk opheldering. Indien de inspecteurs besluiten een niet opgehelderde onduidelijkheid fotografisch vast te leggen, verleent het begeleidingsteam, met inachtneming van de bepalingen van paragraaf 35 van deze Titel, medewerking aan het maken van de desbetreffende foto's door het inspectieteam, zulks met gebruikmaking van een polaroid-camera. Wordt een onduidelijkheid niet tijdens de inspectie opgelost, dan worden de kwestie, de daarop betrekking hebbende toelichting en eventuele relevante foto's opgenomen in het inspectierapport in overeenstemming met Titel XII van dit Protocol.
 
-#### 39
+##### 39
 
 Bij inspecties ingevolge de Titels VII en VIII van dit Protocol wordt de inspectie geacht te zijn voltooid wanneer het inspectierapport is ondertekend en medeondertekend.
 
-#### 40
+##### 40
 
 Uiterlijk bij de voltooiing van een inspectie op een opgegeven inspectieplaats of binnen een gespecificeerde zone deelt het inspectieteam aan het begeleidingsteam mede of het voornemens is een volgende inspectie te houden. Indien het inspectieteam voornemens is een volgende inspectie te houden, wijst het op dat tijdstip de volgende inspectieplaats aan. In dergelijke gevallen verzekert de geïnspecteerde Partij, met inachtneming van de bepalingen van Titel VII, paragrafen 6 en 17, en Titel VIII, paragraaf 6, letter A, van dit Protocol, dat het inspectieteam zo spoedig mogelijk na voltooiing van de voorgaande inspectie op de volgende inspectieplaats aankomt. Indien het inspectieteam niet voornemens is een volgende inspectie te houden, zijn de bepalingen van de paragrafen 42 en 43 van deze Titel van toepassing.
 
-#### 41
+##### 41
 
 Het inspectieteam is, met inachtneming van de bepalingen van de Titels VII en VIII van dit Protocol, gerechtigd om een volgende inspectie te houden op het grondgebied van de Partij waar dat inspectieteam de voorgaande inspectie heeft gehouden, zulks:
 
@@ -2517,49 +2542,49 @@ Het inspectieteam is, met inachtneming van de bepalingen van de Titels VII en VI
 
 - E. op een opgegeven inspectieplaats die volgens een mededeling van de geïnspecteerde Partij ingevolge Titel VII, paragraaf 11, letter B, van dit Protocol de plaats van herkomst is van de gevechtstanks, pantsergevechtsvoertuigen, artillerie, gevechtshelikopters, gevechtsvliegtuigen of brugleggende tanks op de vorige inspectieplaats waarmee het aantal op de vorige inspectieplaats aanwezige conventionele wapensystemen dat is bekendgemaakt in de laatste bekendmaking ingevolge het Protocol inzake informatie-uitwisseling wordt overschreden, ingeval die conventionele wapensystemen het aldus bekendgemaakte aantal met meer dan 15% overschrijden.
 
-#### 42
+##### 42
 
 Na voltooiing van een inspectie op een opgegeven inspectieplaats of binnen een gespecificeerd gebied wordt het inspectieteam, indien geen volgende inspectie is aangekondigd, zo spoedig mogelijk vervoerd naar het desbetreffende punt van binnenkomst/vertrek en verlaat het het grondgebied van de Partij waar de inspectie is uitgevoerd binnen 24 uur.
 
-#### 43
+##### 43
 
 Het inspectieteam verlaat het grondgebied van de Partij waar het inspecties heeft gehouden via hetzelfde punt van binnenkomst/ vertrek als dat waar het is binnengekomen, tenzij anderszins is overeengekomen. Indien een inspectieteam wenst door te reizen naar een punt van binnenkomst/vertrek op het grondgebied van een andere Partij om inspecties te houden, is het daartoe gerechtigd, mits de inspecterende Partij is overgegaan tot de vereiste bekendmaking in overeenstemming met Titel IV, paragraaf 1 van dit Protocol.
 
 ## TITEL VII. INSPECTIE VAN OPGEGEVEN INSPECTIEPLAATSEN
 
-#### 1
+##### 1
 
 Inspectie ingevolge dit Protocol van een opgegeven inspectieplaats kan niet worden geweigerd. Een inspectie kan slechts worden geweigerd in geval van overmacht of op grond van de bepalingen van Titel II, paragrafen 7 en 20 tot en met 22, van dit Protocol.
 
-#### 2
+##### 2
 
 Behoudens het in paragraaf 3 van deze Titel bepaalde komt een inspectieteam op het grondgebied van de Partij waar een inspectie zal worden uitgevoerd aan via een punt van binnenkomst/vertrek dat ingevolge Titel V van het Protocol inzake informatie-uitwisseling is toegewezen aan de opgegeven inspectieplaats die het beoogt aan te wijzen als eerste inspectieplaats ingevolge paragraaf 7 van deze Titel.
 
-#### 3
+##### 3
 
 Indien een inspecterende Partij een doorlaatpost te land of een zeehaven als punt van binnenkomst/vertrek wenst te gebruiken eri de geïnspecteerde Partij nog niet een doorlaatpost te land of zeehaven als punt van binnenkomst/vertrek heeft bekendgemaakt ingevolge Titel V van het Protocol inzake informatie-uitwisseling voor de opgegeven inspectieplaats die de inspecterende Partij wenst aan te wijzen als eerste inspectieplaats ingevolge paragraaf 7 van deze Titel, geeft de inspecterende Partij in de bekendmaking uit hoofde van Titel IV, paragraaf 2, van dit Protocol de doorlaatpost te land of zeehaven aan die zij wenst als punt van binnenkomst/vertrek. De geïnspecteerde Partij geeft in haar ontvangstbevestiging van de bekendmaking, bedoeld in Titel IV, paragraaf 4, van dit Protocol, aan of dit punt van binnenkomst/vertrek aanvaardbaar is of niet. In laatstbedoeld geval maakt de geïnspecteerde Partij aan de inspecterende Partij een ander punt van binnenkomst/vertrek bekend, dat zo dicht mogelijk is gelegen bij het gewenste punt van binnenkomst/vertrek en dat een luchthaven, bekendgemaakt ingevolge Titel V van het Protocol inzake informatie-uitwisseling, een zeehaven of een doorlaatpost te land kan zijn, waarlangs het inspectieteam en de bemanningsleden op haar grondgebied kunnen aankomen.
 
-#### 4
+##### 4
 
 Indien een inspecterende Partij haar wens bekendmaakt een doorlaatpost te land of een zeehaven te gebruiken als punt van binnenkomst/ vertrek ingevolge paragraaf 3 van deze Titel, moet zij voorafgaande aan die bekendmaking nagaan of er voldoende zekerheid bestaat dat haar inspectieteam de eerste opgegeven inspectieplaats waar zij een inspectie wenst uit te voeren binnen de in paragraaf 8 van deze Titel genoemde termijn kan bereiken met vervoermiddelen over land.
 
-#### 5
+##### 5
 
 Indien een inspectieteam en bemanningsleden ingevolge paragraaf 3 van deze Titel aankomen op het grondgebied van de Partij waar een inspectie zal worden uitgevoerd via een ander punt van binnenkomst/vertrek dan het punt van binnenkomst/vertrek dat, ingevolge Titel V van het Protocol inzake informatie-uitwisseling, was bekendgemaakt in verband met de opgegeven inspectieplaats die zij als eerste inspectieplaats wenst aan te wijzen, maakt de geïnspecteerde partij zo spoedig mogelijk de toegang tot die aangewezen inspectieplaats mogelijk, waarbij zij, indien nodig, de in paragraaf 8 van deze Titel genoemde termijn mag overschrijden.
 
-#### 6
+##### 6
 
 De geïnspecteerde Partij heeft na de aanwijzing van een opgegeven inspectieplaats ten hoogste zes uur de tijd om de aankomst van het inspectieteam op die inspectieplaats voor te bereiden.
 
-#### 7
+##### 7
 
 Op het ingevolge Titel IV, paragraaf 2, letter E, van dit Protocol bekendgemaakte tijdstip, dat niet minder dan een uur en niet meer dan 16 uur na de aankomst op het punt van binnenkomst/vertrek mag liggen, wijst het inspectieteam de eerste inspectieplaats aan die het zal inspecteren.
 
-#### 8
+##### 8
 
 De geïnspecteerde Partij zorgt ervoor dat het inspectieteam op de snelst mogelijke wijze naar de eerste opgegeven inspectieplaats reist en dat het zo spoedig mogelijk, doch uiterlijk negen uur na de aanwijzing van de te inspecteren inspectieplaats, aankomt, tenzij het inspectieteam en het begeleidingsteam anderszins zijn overeengekomen of tenzij de inspectieplaats is gelegen in een bergachtig of moeilijk toegankelijk gebied. In dat geval wordt het inspectieteam uiterlijk 15 uur na de aanwijzing van de inspectieplaats naar de inspectieplaats vervoerd. Indien de reistijd meer bedraagt dan negen uur, telt de extra benodigde tijd niet mee voor de verblijfsperiode van dat inspectieteam.
 
-#### 9
+##### 9
 
 Onmiddellijk na aankomst op de opgegeven inspectieplaats wordt het inspectieteam begeleid naar een voorlichtingsruimte, waar een plattegrond van de opgegeven inspectieplaats wordt verstrekt, voor zover deze niet was verstrekt bij een eerdere uitwisseling van plattegronden. Op de bij aankomst op de opgegeven inspectieplaats verstrekte plattegrond moet het volgende exact zijn aangegeven:
 
@@ -2577,7 +2602,7 @@ Onmiddellijk na aankomst op de opgegeven inspectieplaats wordt het inspectieteam
 
 - G. de ligging van de in Titel VI, paragraaf 14, van dit Protocol bedoelde ruimte voor het inspectieteam.
 
-#### 10
+##### 10
 
 Binnen een halfuur na ontvangst van de plattegrond van de opgegeven inspectieplaats wijst het inspectieteam het verificatie-object aan dat het zal inspecteren. Het inspectieteam krijgt dan voorlichting, die niet meer dan een uur in beslag mag nemen, waarin het volgende aan de orde moet komen:
 
@@ -2587,41 +2612,41 @@ Binnen een halfuur na ontvangst van de plattegrond van de opgegeven inspectiepla
 
 - C. de aantallen en vindplaatsen op de inspectieplaats, waaronder de gemeenschappelijke gedeelten van de opgegeven inspectieplaats, van gevechtstanks, pantsergevechtsvoertuigen, artillerie, gevechtsvliegtuigen, geyechtshelikopters, gereclassificeerde lesvliegtuigen met gevechtscapaciteit, op een gepantserd personeelsvoertuig of op een pantserinfanteriegevechtsvoertuig lijkende voertuigen en brugleggende tanks, waaronder die welke behoren tot afzonderlijk gelegen ondergeschikte onderdelen die behoren tot hetzelfde te inspecteren verificatie-object.
 
-#### 11
+##### 11
 
 De voorlichting voorafgaande aan de inspectie omvat mede een toelichting bij eventuele verschillen tussen de aantallen gevechtstanks, pantsergevechtsvoertuigen, artillerie, gevechtsvliegtuigen, gevechtshelikopters of brugleggende tanks die op een inspectieplaats aanwezig zijn, en de desbetreffende aantallen die zijn vermeld in de laatste bekendmaking ingevolge het Protocol inzake informatie-uitwisseling, zulks in overeenstemming met de volgende bepalingen: A. indien de aantallen conventionele wapensystemen die zich op de inspectieplaats bevinden, kleiner zijn dan de in de laatste bekendmaking vermelde aantallen, moet de toelichting mede informatie omvatten omtrent de tijdelijke plaats van de desbetreffende conventionele wapensystemen; en B. indien de aantallen conventionele wapensystemen die zich op de inspectieplaats bevinden, groter zijn dan de in de laatste bekendmaking vermelde aantallen, moet de toelichting mede nauwkeurige informatie bevatten omtrent de herkomst, het tijdstip van vertrek van de plaats van herkomst, het tijdstip van aankomst en de geplande verblijfsduur van de extra conventionele wapensystemen op de inspectieplaats.
 
-#### 12
+##### 12
 
 Wanneer het inspectieteam een verificatie-object aanwijst om te inspecteren, heeft het inspectieteam het recht, als onderdeel van dezelfde inspectie van dat verificatie-object, om al het grondgebied te inspecteren dat op de plattegrond van de inspectieplaats is aangeduid als behorende tot dat verificatie-object, met inbegrip van de afzonderlijk gelegen terreinen op het grondgebied van dezelfde Partij waaraan tot hetzelfde verificatie-object behorende conventionele wapensystemen permanent zijn toegewezen.
 
-#### 13
+##### 13
 
 Bij de inspectie van een verificatie-object op een opgegeven inspectieplaats wordt aan het inspectieteam de toegang en de ongehinderde inspectie toegestaan met betrekking tot het gehele grondgebied van de opgegeven inspectieplaats, met uitzondering van de zones die op de plattegrond zijn aangeduid als uitsluitend behorende tot een ander verificatie-object dat het inspectieteam niet heeft aangewezen voor inspectie. Gedurende de inspectie zijn de bepalingen van Titel VI van dit Protocol van toepassing.
 
-#### 14
+##### 14
 
 Indien het begeleidingsteam het inspectieteam mededeelt dat zich gevechtstanks, pantsergevechtsvoertuigen, artillerie, gevechtshelikopters, gevechtsvliegtuigen, gereclassificeerde lesvliegtuigen met gevechtscapaciteit, op een gepantserd personeelsvoertuig of op een pantserinfanteriegevechtsvoertuig lijkende voertuigen of brugleggende tanks, waarvan is bekendgemaakt dat zij in het bezit zijn van een verificatie-object op een opgegeven inspectieplaats, bevinden binnen een zone die op de plattegrond is aangeduid als uitsluitend behorende tot een ander verificatie-object, zorgt het begeleidingsteam ervoor dat het inspectieteam, als onderdeel van dezelfde inspectie, toegang heeft tot de desbetreffende conventionele wapensystemen.
 
-#### 15
+##### 15
 
 Indien zich bij het Verdrag beperkte conventionele wapensystemen of brugleggende tanks bevinden binnen zones van een opgegeven inspectieplaats die op de plattegrond niet zijn aangeduid als uitsluitend behorende tot een verificatie-object, deelt het begeleidingsteam het inspectieteam mede tot welk verificatie-object de desbetreffende conventionele wapensystemen behoren.
 
-#### 16
+##### 16
 
 Elke Partij is verplicht verantwoording af te leggen omtrent het totale aantal van elke categorie bij het Verdrag beperkte conventionele wapensystemen, bekendgemaakt ingevolge Titel III van het Protocol inzake informatie-uitwisseling, op het bevelsniveau boven dat van brigade/regiment of gelijkwaardig, indien een andere Partij daarom verzoekt.
 
-#### 17
+##### 17
 
 Indien het inspectieteam gedurende een inspectie op een opgegeven inspectieplaats besluit op dezelfde opgegeven inspectieplaats een inspectie te houden van een verificatie-object dat niet eerder was aangewezen, heeft het inspectieteam het recht binnen drie uur na de aanwijzing met die inspectie te beginnen. In dat geval ontvangt het inspectieteam voorlichting betreffende het voor de volgende inspectie aangewezen verificatie-object in overeenstemming met de paragrafen 10 en 11 van deze Titel.
 
 ## TITEL VIII. VERRASSINGSINSPECTIES BINNEN GESPECIFICEERDE GEBIEDEN
 
-#### 1
+##### 1
 
 Elke Partij heeft het recht binnen gespecificeerde gebieden verrassingsinspecties te houden in overeenstemming met dit Protocol.
 
-#### 2
+##### 2
 
 Indien de inspecterende Partij voornemens is binnen een gespecificeerd gebied een verrassingsinspectie te houden als eerste inspectie na aankomst op het punt van binnenkomst/vertrek:
 
@@ -2629,19 +2654,19 @@ Indien de inspecterende Partij voornemens is binnen een gespecificeerd gebied ee
 
 - B. wijst het inspectieteam op het ingevolge Titel IV, paragraaf 2, letter E, van dit Protocol bekendgemaakte tijdstip, dat niet minder dan een uur en niet meer dan 16 uur na de aankomst op het punt van binnenkomst/vertrek mag liggen, het eerste gespecificeerde gebied aan dat het wenst te inspecteren. Wanneer een gespecificeerd gebied wordt aangewezen verstrekt het inspectieteam, als onderdeel van het verzoek om inspectie, aan het begeleidingsteam een geografische beschrijving waarin de buitengrenzen van dat gebied worden bepaald. Het inspectieteam heeft het recht om als onderdeel van dat verzoek elke opstal of inrichting aan te duiden die het wenst te inspecteren.
 
-#### 3
+##### 3
 
 De Partij op wier grondgebied een verzoek om een verrassingsinspectie betrekking heeft, licht onmiddellijk na ontvangst van de aanwijzing van een gespecificeerd gebied de andere Partijen die op grond van een akkoord met de geïnspecteerde Partij gebruik maken van opstallen of terreinen in omtrent dat gespecificeerde gebied, met inbegrip van de geografische beschrijving waarin de buitengrenzen worden bepaald.
 
-#### 4
+##### 4
 
 De geïnspecteerde Partij heeft het recht verrassingsinspecties binnen gespecificeerde gebieden te weigeren.
 
-#### 5
+##### 5
 
 De geïnspecteerde Partij deelt het inspectieteam binnen twee uur na de aanwijzing van een gespecificeerd gebied mede of het verzoek om inspectie wordt ingewilligd.
 
-#### 6
+##### 6
 
 Indien toegang wordt verleend tot een gespecificeerd gebied:
 
@@ -2651,15 +2676,15 @@ Indien toegang wordt verleend tot een gespecificeerd gebied:
 
 - C. zijn de bepalingen van Titel VI van dit Protocol van toepassing. Binnen het gespecificeerde gebied kan het begeleidingsteam de toegang tot of het vliegen boven bepaalde delen daarvan uitstellen. Indien het uitstel meer dan vier uur bedraagt, heeft het inspectieteam het recht de inspectie te annuleren. De duur van het uitstel telt niet mee voor de verblijfsperiode of de maximaal toegestane tijd voor aanwezigheid binnen een gespecificeerd gebied.
 
-#### 7
+##### 7
 
 Indien een inspectieteam verzoekt om toegang tot opstallen of terreinen die dooreen andere Partij worden gebruikt op grond van een akkoord met de geïnspecteerde Partij, stelt de geïnspecteerde Partij die Partij onmiddellijk in kennis van het verzoek. Het begeleidingsteam deelt het inspectieteam mede dat, op grond van een akkoord met de geïnspecteerde Partij, de andere Partij in samenwerking met de geïnspecteerde Partij en voor zover zulks verenigbaar is met het akkoord inzake het gebruik, de in dit Protocol neergelegde rechten en verplichtingen uitoefent ten aanzien van inspecties die betrekking hebben op uitrusting of materieel van de Partij die de opstallen of terreinen gebruikt.
 
-#### 8
+##### 8
 
 Indien de geïnspecteerde Partij zulks wenst, kan het inspectieteam instructies ontvangen bij aankomst in het gespecificeerde gebied. Deze instructies mogen niet meer dan een uur in beslag nemen. Deze instructies kunnen ook betrekking hebben op veiligheidsprocedures en administratieve regelingen.
 
-#### 9
+##### 9
 
 Indien de toegang tot een gespecificeerd gebied wordt geweigerd:
 
@@ -2669,15 +2694,15 @@ Indien de toegang tot een gespecificeerd gebied wordt geweigerd:
 
 ## TITEL IX. INSPECTIE VAN CERTIFICERINGEN
 
-#### 1
+##### 1
 
 Elke Partij heeft het recht, zonder recht van weigering, over te gaan tot inspectie van.de certificering van gerecategoriseërde,algemeen inzetbare aanvalshelikopters en gereclassificeerde lesvliegtuigen met gevechtscapaciteit in overeenstemming met de bepalingen van deze Titel, het Protocol inzake de recategorisering van helikopters en het Protocol inzake de reclassificering van vliegtuigen. Deze inspecties tellen niet mee voor de in Titel II van dit Protocol vastgelegde quota. De inspectieteams die deze inspecties houden, mogen bestaan uit vertegenwoordigers van verschillende Partijen. De geïnspecteerde Partij is niet verplicht meer dan één inspectieteam tegelijkertijd.tot een certificeringsplaats toe-te laten.
 
-#### 2
+##### 2
 
 Bij een inspectie van certificeringen in overeenstemming met deze Titel is het inspectieteam gerechtigd ten hoogste twee dagen in een certificeringsplaats te blijven, tenzij anderszins is overeengekomen.
 
-#### 3
+##### 3
 
 Tenminste 15 dagen voor de certificering van gerecategoriseërde algemeen inzetbare aanvalshelikopters of van gereclassificeerde lesvliegtuigen met gevechtscapaciteit maakt de Partij die tot certificering overgaat aan alle andere Partijen bekend:
 
@@ -2697,49 +2722,49 @@ Tenminste 15 dagen voor de certificering van gerecategoriseërde algemeen inzetb
 
 - H. de datum en het tijdstip waarop een inspectieteam aankomt op het punt van binnenkomst/vertrek om een certificering te inspecteren.
 
-#### 4
+##### 4
 
 De inspecteurs hebben het recht de cockpit en het interieur van helikopters of vliegtuigen te betreden en deze met eigen ogen te inspecteren, waaronder het controleren van de serienummers van de fabrikant, zulks zonder recht van weigering van de kant van de Partij die tot certificering overgaat.
 
-#### 5
+##### 5
 
 Indien het inspectieteam daarom verzoekt, verwijdert het begeleidingsteam, zonder recht van weigering, de toegangspanelen die de plaats bedekken vanwaar de onderdelen en de bedrading zijn verwijderd in overeenstemming met de bepalingen van het Protocol inzake recategorisering van helikopters of het Protocol inzake de reclassificering van vliegtuigen.
 
-#### 6
+##### 6
 
 De inspecteurs zijn gerechtigd, met recht van weigering van de kant van de Partij die tot certificering overgaat, te verzoeken om het in werking zetten van elk onderdeel van het wapensysteem in algemeen inzetbare aanvalshelikopters die worden gecertificeerd of die zijn opgegeven als gerecategoriseerd, en dit in werking zetten waar te nemen.
 
-#### 7
+##### 7
 
 Aan het einde van elke inspectie van een certificering stelt het inspectieteam een inspectierapport op in overeenstemming met de bepalingen van Titel XII van dit Protocol.
 
-#### 8
+##### 8
 
 Na voltooiing van een inspectie op een certificeringsplaats is het inspectieteam gerechtigd om ofwel het grondgebied van de geïnspecteerde Partij te verlaten, ofwel een volgende inspectie te houden op een andere certificeringsplaats of op een verminderingsplaats, indien het inspectieteam is overgegaan tot de desbetreffende bekendmaking in overeenstemming met Titel IV, paragraaf 3, van dit Protocol. Het inspectieteam stelt het begeleidingsteam in kennis van zijn voorgenomen vertrek van de certificeringsplaats en, indien van toepassing, van zijn voornemen om zich te begeven naar een andere certificeringsplaats of een verminderingsplaats, zulks ten minste 24 uur vóór de voorgenomen vertrektijd.
 
-#### 9
+##### 9
 
 Binnen zeven dagen na voltooiing van de certificering maakt de Partij die voor de certificering verantwoordelijk is de voltooiing van de certificering bekend aan alle andere Partijen. In die bekendmaking moeten zijn vermeld de aantallen, typen, modellen of versies en de serienummers van de fabrikant van gecertificeerde helikopters of vliegtuigen, de desbetreffende certificeringsplaats, de feitelijke data van de certificering, alsmede de eenheden of plaatsen waaraan de gerecategoriseerde helikopters of gereclassificee rde vliegtuigen zullen worden toegewezen.
 
 ## TITEL X. INSPECTIE VAN VERMINDERINGEN
 
-#### 1
+##### 1
 
 Elke Partij is gerechtigd, zonder recht van weigering door de geïnspecteerde Partij, om inspecties te houden van het verminderings proces ingevolge de Titels I toten met VIII en X tot en met XII van het Protocol inzake vermindering, zulks in overeenstemming met de bepalingen van deze Titel. Deze inspecties tellen niet mee voor de in Titel II van dit Protocol vastgelegde quota. De inspectieteams die deze inspecties houden, mogen bestaan uit vertegenwoordigers van verschillende Partijen. De geïnspecteerde Partij is niet verplicht meer dan één inspectieteam tegelijkertijd op een verminderingsplaats toe te laten.
 
-#### 2
+##### 2
 
 De geïnspecteerde Partij is gerechtigd het verminderingsproces te organiseren en uit te voeren met inachtneming van uitsluitend de bepalingen van artikel VIII van het Verdrag en het Protocol inzake vermindering. Inspecties van het verminderingsproces dienen te worden gehouden op een wijze die de gang van zaken op een verminderingsplaats niet nadelig beïnvloed en die de uitvoering van het verminderingsproces niet onnodig hindert, vertraagt of bemoeilijkt.
 
-#### 3
+##### 3
 
 Indien een ingevolge Titel III van het Protocol inzake informatie-uitwisseling bekendgemaakte verminderingsplaats door meer dan één Partij wordt gebruikt, worden de inspecties van het verminderingsproces gehouden in overeenstemming met de gebruiksregeling die door elk van de Partijen die de verminderingsplaats gebruikt, wordt verstrekt.
 
-#### 4
+##### 4
 
 Elke Partij die voornemens is bij het Verdrag beperkte conventionele wapensystemen te verminderen, maakt aan alle andere Partijen bekend welke conventionele wapensystemen op elke verminderingsplaats zullen worden verminderd gedurende een verslagperiode. Elke verslagperiode duurt ten hoogste 90 dagen en ten minste 30 dagen. Deze bepaling geldt voor elke vermindering op een verminderingsplaats, ongeacht of het verminderingsproces ononderbroken of met onderbrekingen wordt uitgevoerd.
 
-#### 5
+##### 5
 
 Ten minste 15 dagen voor de aanvang van de vermindering waarop een verslagperiode betrekking heeft doet de Partij die voornemens is verminderingsprocedures uit te voeren, aan alle andere Partijen de bekendmaking van de verslagperiode toekomen. Deze bekendmaking omvat mede de aanduiding van de verminderingsplaats met geografische coördinaten, de geplande datum voor de aanvang van de vermindering en de geplande datum voor de voltooiing van de vermindering van conventionele wapensystemen die zijn aangewezen voor vermindering gedurende de verslagperiode. Daarnaast moeten in de bekendmaking zijn vermeld:
 
@@ -2753,27 +2778,27 @@ Ten minste 15 dagen voor de aanvang van de vermindering waarop een verslagperiod
 
 - E. de datum en het tijdstip waarop een inspectieteam op het punt van binnenkomst/vertrek moet aankomen om de conventionele wapensystemen te kunnen inspecteren vóór de aanvang van de vermindering.
 
-#### 6
+##### 6
 
 Tenzij in paragraaf 11 van deze Titel anders is bepaald, is het inspectieteam gerechtigd op elk tijdstip gedurende de verslagperiode, plus drie dagen na het einde van een bekendgemaakte verslagperiode, op een verminderingsplaats aan te komen of vandaar te vertrekken. Bovendien is het inspectieteam gerechtigd gedurende de gehele duur van één of meer verslagperiodes op de verminderingsplaats te blijven, mits die periodes door niet meer dan drie dagen worden gescheiden. Gedurende de gehele periode waarin het inspectieteam op de verminderingsplaats blijft, is het gerechtigd alle in overeenstemming met het Protocol inzake vermindering uitgevoerde verminderingsprocedures te aanschouwen.
 
-#### 7
+##### 7
 
 In overeenstemming met de bepalingen van deze Titel is het inspectieteam gerechtigd om ongehinderd fabrieksserienummers van de te verminderen conventionele wapensystemen te noteren of op bedoeld materieel speciale merktekens aan te brengen en vervolgens deze nummers of merktekens na voltooiing van het verminderingsproces op te tekenen. Delen en onderdelen van verminderde conventionele wapensystemen als genoemd in Titel II, paragrafen 1 en 2, van het Protocol inzake vermindering of, in geval van conversie, de voor niet-militaire doeleinden geconverteerde voertuigen, moeten ten minste gedurende drie dagen na het einde van de bekend gemaakte verslagperiode voor inspectie beschikbaar blijven, tenzij de inspectie van die verminderde delen eerder is voltooid.
 
-#### 8
+##### 8
 
 De Partij die het proces van vermindering van bij het Verdrag beperkte conventionele wapensystemen uitvoert, houdt op elke verminderingsplaats een werkregister bij, waarin de fabrieksserienummers van elk te verminderen exemplaar worden aangetekend, alsook de data waarop de verminderingsprocedures zijn aangevangen en voltooid. Het register bevat tevens de totaalgegevens voor elke verslagperiode. Het register ligt gedurende het inspectietijdvak ter inzage voor het inspectieteam.
 
-#### 9
+##### 9
 
 Aan het einde van elke inspectie van het verminderingsproces stelt het inspectieteam een gestandaardiseerd rapport op, dat door de leider van het inspectieteam en een vertegenwoordiger van de geïn specteerde Partij wordt ondertekend. De bepalingen vann Titel XII van dit Protocol zijn van toepassing.
 
-#### 10
+##### 10
 
 Na voltooiing van een inspectie op een verminderingsplaats is het inspectieteam gerechtigd om ofwel het grondgebied van de geïnspecteerde Partij te verlaten, ofwel, een volgende inspectie te houden op een andere verminderingsplaats of op een certificeringsplaats, indien de desbetreffende bekendmaking is geschied in, overeenstemming met Titel IV, paragraaf 3, van dit Protocol. Het inspectieteam stelt het begeleidingsteam in kennis van zijn voorgenomen vertrek van de verminderingsplaats en, indien van toepassing, van zijn voornemen om zich te begeven naar een andere verminderingsplaats of een certificeringsplaats, zulks ten minste 24 uur vóór de voorgenomen vertrektijd.
 
-#### 11
+##### 11
 
 Elke Partij is verplicht per jaar ten hoogste 10 inspecties ter bevestiging van de voltooiing van de conversie van conventionele wapensystemen in voertuigen voor niet-militaire doeleinden overeenkomstig Titel VIII van het Protocol inzake vermindering te dulden. Deze inspecties worden gehouden in overeenstemming met de bepalingen van deze Titel, met de volgende uitzonderingen:
 
@@ -2781,23 +2806,23 @@ Elke Partij is verplicht per jaar ten hoogste 10 inspecties ter bevestiging van 
 
 - B. het inspectieteam mag slechts gedurende de drie dagen na de bekendgemaakte datum van voltooiing van de conversie op een verminderingsplaats aankomen of vandaar vertrekken.
 
-#### 12
+##### 12
 
 Binnen zeven dagen na de voltooiing van het verminderingsproces waarop een verslagperiode betrekking heeft, maakt de Partij die voor de vermindering verantwoordelijk is de voltooiing van de vermindering voor die periode bekend aan alle andere Partijen. In die bekendmaking dienen de aantallen en typen van de verminderde conventionele wapensystemen te zijn vermeld, alsook de desbetreffende verminderingsplaats, de toegepaste verminderingsprocedures en de feitelijke data van aanvang en voltooiing van het verminderingsproces waarop de verslagperiode betrekking heeft. Voor de overeenkomstig de Titels X, XI en XII van het Protocol inzake vermindering verminderde conventionele wapensystemen dient in die bekendmaking ook de plaats te worden vermeld waar die conventionele wapensystemen definitief zullen worden ondergebracht. Voor overeenkomstig Titel VIII van het Protocol inzake vermindering verminderde conventionele wapensystemen moet in die bekendmaking worden vermeld ofwel de verminderingsplaats waar de definitieve conversie zal,plaatsvinden, ofwel de opslagplaats waarnaar.elk te converteren exemplaar zal worden overgebracht.
 
 ## TITEL XI. ANNULEREN VAN INSPECTIES
 
-#### 1
+##### 1
 
 Indien het inspectieteam van oordeel is dat het niet in staat is op het punt van binnenkomst/vertrek aan te komen binnen zes uur na het aanvankelijke verwachte tijdstip van aankomst of het nieuwe tijdstip van aankomst, medegedeeld ingevolge Titel IV, paragraaf 6, van dit Protocol, licht de inspecterende Partij de Partijen die een bekendmaking ingevolge Titel IV, paragraafl, van dit Protocol hebben ontvangen hierover in. In dat geval vervalt de bekendmaking van de voorgenomen inspectie en wordt de inspectie geannuleerd.
 
-#### 2
+##### 2
 
 In geval van vertraging, ten gevolge van omstandigheden waarop de inspecterende Partij geen invloed kan uitoefenen, die zich voordoet nadat het inspectieteam is aangekomen op het punt van binnenkomst/vertrek en die het inspectieteam heeft belet binnen de in Titel VII, paragraaf 8, of Titel VIII, paragraaf 6, letter b, van dit Protocol genoemde termijn aan te komen op de eerste aangewezen inspectieplaats, heeft de inspecterende Partij het recht de inspectie te annuleren. Indien een inspectie onder zodanige omstandigheden wordt geannuleerd, wordt zij niet meegeteld voor de in het Verdrag genoemde quota.
 
 ## TITEL XII. INSPECTIERAPPORTEN
 
-#### 1
+##### 1
 
 Ter voltooiing van een inspectie uitgevoerd in overeenstemming met de Titels VII, VIII, IX of X van dit Protocol en alvorens de inspectieplaats te verlaten:
 
@@ -2805,15 +2830,15 @@ Ter voltooiing van een inspectie uitgevoerd in overeenstemming met de Titels VII
 
 - B. heeft het begeleidingsteam het recht zijn schriftelijke commentaar in het inspectierapport op te nemen en het rapport mede te ondertekenen binnen een uur nadat het het rapport van het inspectieteam heeft ontvangen, tenzij een verlenging is overeengekomen tussen het inspectieteam en het begeleidingsteam.
 
-#### 2
+##### 2
 
 Het rapport wordt ondertekend door de leider van het inspectieteam en de ontvangst wordt schriftelijk bevestigd door de leider van het begeleidingsteam.
 
-#### 3
+##### 3
 
 Het rapport moet zakelijk en gestandaardiseerd zijn. De vormvoorschriften voor elk type inspectie worden door het Gemengd Overlegorgaan overeengekomen vóór de inwerkingtreding van het Verdrag, rekening houdend met de paragrafen 4 en 5 van deze Titel.
 
-#### 4
+##### 4
 
 In rapporten van inspecties ingevolge de Titels VII en VIII van dit Protocol dienen te worden vermeld:
 
@@ -2825,7 +2850,7 @@ In rapporten van inspecties ingevolge de Titels VII en VIII van dit Protocol die
 
 - D. de aantallen en typen, modellen of versies van gevechtstanks, pantsergevechtsvoertuigen, artillerie, gevechtsvliegtuigen, gevechtshelikopters, gereclassificeerde lesvliegtuigen met gevechtscapaciteit, op een gepantserd personeelsvoertuig of op een pantserinfanteriegevechtsvoertuig lijkende voertuigen of brugleggende tanks die tijdens de inspectie zijn aanschouwd, met inbegrip van, indien van toepassing, een aanduiding van het verificatie-object waartoe deze behoren.
 
-#### 5
+##### 5
 
 In rapporten van inspecties ingevolge de Titels IX en X van dit Protocol dienen te worden vermeld:
 
@@ -2841,15 +2866,15 @@ In rapporten van inspecties ingevolge de Titels IX en X van dit Protocol dienen 
 
 - F. in geval van vermindering, de feitelijke data waarop de verminderingsprocedures zijn aangevangen en voltooid, indien het inspectieteam gedurende de gehele verslagperiode op de verminderingsplaats aanwezig was.
 
-#### 6
+##### 6
 
 Het inspectierapport wordt geschreven in de officiële taal van de Conferentie over Veiligheid en Samenwerking in Europa die door de inspecterende Partij is aangewezen in overeenstemming met Titel IV, paragraaf 2, letter G, of paragraaf 3, letter F, van dit Protocol.
 
-#### 7
+##### 7
 
 De inspecterende Partij en de geïnspecteerde Partij behouden elk een exemplaar van het rapport. Het inspectierapport kan door beide Partijen, naar eigen goeddunken, worden toegezonden aan andere Partijen en wordt in de regel aan het Gemengd Overlegorgaan ter beschikking gesteld.
 
-#### 8
+##### 8
 
 De stationerende Partij
 
@@ -2859,23 +2884,23 @@ De stationerende Partij
 
 ## TITEL XIII. VOORRECHTEN EN IMMUNITEITEN VAN INSPECTEURS EN BEMANNINGSLEDEN
 
-#### 1
+##### 1
 
 Ten einde hun taken doeltreffend te kunnen uitoefenen, ter uitvoering van het Verdrag en niet in hun persoonlijk voordeel, worden aan inspecteurs en bemanningsleden de voorrechten en immuniteiten verleend die diplomatieke ambtenaren genieten uit hoofde van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0004345&artikel=29), [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004345&artikel=30), [artikel 31, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004345&artikel=31), en de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBV0004345&artikel=34) en [35 van het Verdrag van Wenen inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345&artikel=35) van 18 april 1961.
 
-#### 2
+##### 2
 
 Bovendien worden aan inspecteurs en bemanningsleden de voorrechten verleend die diplomatieke ambtenaren genieten uit hoofde van [artikel 36, eerste lid, letter b, van het Verdrag van Wenen inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=36) van 18 april 1961. Het is hun niet toegestaan op het grondgebied van de Partij waar de inspectie zal worden gehouden, goederen te brengen waarvan de invoer of uitvoer verboden is door de wetgeving of is onderworpen aan quarantainebepalingen van die Partij.
 
-#### 3
+##### 3
 
 De vervoermiddelen van het inspectieteam zijn onschendbaar, tenzij in het Verdrag anders is bepaald.
 
-#### 4
+##### 4
 
 De inspecterende Partij kan afstand doen van de immuniteit van rechtsmacht van haar inspecteurs of bemanningsleden ingeval zij van mening is dat de immuniteit een beletsel zou vormen voor de rechtsbedeling en dat daarvan afstand kan worden gedaan zonder afbreuk te doen aan de uitvoering van de bepalingen van het Verdrag. Van de immuniteit van inspecteurs en bemanningsleden die geen onderdaan zijn van de inspecterende Partij kan slechts afstand worden gedaan door de Partijen waarvan die inspecteurs onderdaan zijn. Het doen van afstand van immuniteit dient altijd uitdrukkelijk kenbaar te worden gemaakt.
 
-#### 5
+##### 5
 
 De voorrechten en immuniteiten waarin deze Titel voorziet, worden verleend aan inspecteurs en bemanningsleden:
 
@@ -2885,7 +2910,7 @@ De voorrechten en immuniteiten waarin deze Titel voorziet, worden verleend aan i
 
 - C. daarna met betrekking tot eerder verrichte handelingen in de uitoefening van officiële taken als inspecteur of bemanningslid.
 
-#### 6
+##### 6
 
 Indien de geïnspecteerde Partij van oordeel is dat een inspecteur of bemanningslid misbruik heeft gemaakt van zijn voorrechten en immuniteiten, zijn de bepalingen van Titel VI, paragraaf 6, van dit Protocol van toepassing. Op verzoek van één van de betrokken Partijen vindt onderling overleg plaats ten einde herhaling van een dergelijk misbruik te voorkomen.
 
@@ -2895,47 +2920,47 @@ Opgeschort per 7 december 2023 (Trb. 2023/141).
 
 Deze aanhef is voorlopig toegepast vanaf 19 november 1990 tot 17 juli 1992 (Trb. 1991/31). Voor voorlopige toepassing zie ook Trb. 1992/126.
 
-#### 1
+##### 1
 
 Het Gemengd Overlegorgaan bestaat uit door elke Partij aangewezen vertegenwoordigers. Plaatsvervangers, adviseurs en deskundigen van een Partij kunnen aan de werkzaamheden van het Gemengd Overlegorgaan deelnemen wanneer die Partij zulks noodzakelijk acht,
 
-#### 2
+##### 2
 
 De eerste zitting van het Gemengd Overlegorgaan vangt uiterlijk 60 dagen na de ondertekening van het Verdrag aan. De vertegenwoordiger van het Koninkrijk Noorwegen is voorzitter van de openingsvergadering.
 
-#### 3
+##### 3
 
 Het Gemengd Overlegorgaan komt tweemaal per jaar in gewone zitting bijeen.
 
-#### 4
+##### 4
 
 Op verzoek van één of meer Partijen worden extra zittingen belegd door de voorzitter van het Gemengd Overlegorgaan, die alle andere Partijen onmiddellijk in kennis stelt van het verzoek. Bedoelde zittingen vangen uiterlijk 15 dagen na de ontvangst door de voorzitter van een daartoe strekkend verzoek aan.
 
-#### 5
+##### 5
 
 Zittingen van het Gemengd Overlegorgaan duren niet langer dan vier weken, tenzij het anders besluit.
 
-#### 6
+##### 6
 
 De Partijen bekleden het voorzitterschap van het Gemengd Overlegorgaan bij toerbeurt, waarvoor de alfabetische volgorde in de Franse taal bepalend is.
 
-#### 7
+##### 7
 
 Het Gemengd Overlegorgaan komt te Wenen bijeen, tenzij het anders besluit.
 
-#### 8
+##### 8
 
 Vertegenwoordigers zitten op bijeenkomsten overeenkomstig de alfabetische volgorde van de Partijen in de Franse taal.
 
-#### 9
+##### 9
 
 De officiële talen van het Gemengd Overlegorgaan zijn het Duits, het Engels, het Frans, het Italiaans, het Russisch en het Spaans.
 
-#### 10
+##### 10
 
 De werkzaamheden van het Gemengd Overlegorgaan zijn vertrouwelijk, tenzij het anders besluit.
 
-#### 11
+##### 11
 
 De verdeelsleutel voor de gezamenlijke kosten in verband met het functioneren van het Gemengd Overlegorgaan is als volgt, tenzij het Gemengd Overlegorgaan anders besluit:
 
@@ -2951,7 +2976,7 @@ De verdeelsleutel voor de gezamenlijke kosten in verband met het functioneren va
 | 0,68% | voor de Republiek Bulgarije, het Groothertogdom Luxemburg en de Portugese Republiek; en |   |
 | 0,16% | voor de Republiek IJsland. |   |
 
-#### 12
+##### 12
 
 Gedurende de tijdvak waarin dit Protocol voorlopig wordt toegepast in overeenstemming met het Protocol inzake voorlopige toepassing heeft het Gemengd Overlegorgaan tot taak:
 

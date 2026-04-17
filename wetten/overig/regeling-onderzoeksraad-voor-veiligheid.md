@@ -1,13 +1,37 @@
 ---
 title: "Regeling Onderzoeksraad voor veiligheid"
 identifier: "BWBR0017940"
-categorie: "Overig"
-publicatiedatum: 2021-11-09
-laatste_update: 2021-11-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017940"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-11-09"
+last_updated: "2021-11-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017940"
+soort: "ministeriele-regeling"
+stam_id: "6703463"
+version_id: "11542082"
+internal_id: "C15571331"
+label_id: "6692104"
+original_entry_into_force: "2005-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017940/2021-11-09/0"
+intitule_bron: "Stcrt.2005-21"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-01-25"
+intitule_published: "2005-01-31"
+intitule_in_force: "2005-01-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-21"
+original_signed_date: "2005-01-25"
+original_published_date: "2005-01-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-21-p27-SC68707"
+entry_into_force_date: "2005-02-01"
+jci_1_3: "jci1.3:c:BWBR0017940&z=2021-11-09&g=2021-11-09"
+jci_1_0: "1.0:c:BWBR0017940&g=2021-11-09"
+citeertitel_status: "officieel"
+signed_date: "2005-01-25"
+entry_into_force: "2005-02-01"
 ---
-
 # Regeling Onderzoeksraad voor veiligheid
 
 Gelet op [Richtlijn nr. 1999/35/EG](31999L0035) van de Raad van de Europese Unie van 29 april 1999 betreffende een stelsel van verplichte onderzoeken voor de veilige exploitatie van geregelde diensten met ro-ro-veerboten en hogesnelheidspassagiersvaartuigen (PbEG L 138) alsmede op de [artikelen 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=22), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=27), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=29), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=44), [45, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=45), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=46), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=53), en [55, vijfde lid, van de Rijkswet Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=55), [artikel 4, derde en vierde lid, van het Rijksbesluit Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017680&artikel=4) en de [artikelen 1, eerste lid, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&artikel=1), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&artikel=11) en [13 van het Besluit Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&artikel=13);
@@ -18,7 +42,7 @@ Treedt in werking op het krachtens artikel 97, eerste lid, eerste volzin, van de
 
 #### § 1. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -98,7 +122,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Toepasselijkheid
 
-#### Artikel 2
+##### Artikel 2
 
 1. De [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2021-11-09&g=2021-11-09) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2021-11-09&g=2021-11-09) zijn niet van toepassing op voorvallen waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van:
 
@@ -112,7 +136,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Staten met een aanmerkelijk belang
 
-#### Artikel 3
+##### Artikel 3
 
 In geval van een voorval met een zeeschip wordt onder staat met aanmerkelijk belang, als bedoeld in [artikel 1, eerste lid, onderdeel o, van het Besluit Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&artikel=1), verstaan:
 
@@ -132,7 +156,7 @@ In geval van een voorval met een zeeschip wordt onder staat met aanmerkelijk bel
 
 #### § 4. Beheer
 
-#### Artikel 4
+##### Artikel 4
 
 1. De begroting van de raad omvat, naast een algemeen deel een begrotingsoverzicht, een overzicht van de ontwikkeling van het eigen vermogen, een kasstroomoverzicht en een toelichting.
 
@@ -176,7 +200,7 @@ In geval van een voorval met een zeeschip wordt onder staat met aanmerkelijk bel
 
 #### § 5. Melding voorval en verstrekken informatie aan derden
 
-#### Artikel 5
+##### Artikel 5
 
 1. In geval van een luchtvaartongeval of ernstig luchtvaartincident op of boven het Nederlandse grondgebied, met inbegrip van de territoriale zee, doet de raad terzake zo spoedig mogelijk een melding toekomen aan:
 
@@ -228,7 +252,7 @@ In geval van een voorval met een zeeschip wordt onder staat met aanmerkelijk bel
 
 6. Indien bij het verzenden van de melding noodzakelijkerwijs bijzonderheden zijn weggelaten omdat deze nog niet bekend waren ten tijde van het verzenden van de melding, worden deze bijzonderheden tezamen met eventuele andere relevante informatie zo spoedig mogelijk nagezonden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. In geval van een scheepvaartongeval of een ernstig scheepvaartincident met een zeeschip in de Europese wateren onder Nederlandse jurisdictie, doet de raad terzake zo spoedig mogelijk een melding toekomen aan de staat waarvan het zeeschip, dat niet is een Nederlands zeeschip, de vlag voert, dan wel aan Aruba, Curaçao of Sint Maarten indien het een zeeschip uit Aruba, Curaçao onderscheidenlijk Sint Maarten betreft. Hij vermeldt daarbij tevens welke actie door Nederland wordt voorgesteld.
 
@@ -238,7 +262,7 @@ In geval van een voorval met een zeeschip wordt onder staat met aanmerkelijk bel
 
 #### § 6. Melding onderzoek en informatie betreffende een onderzoek
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien de raad een onderzoek instelt naar een luchtvaartongeval of ernstig luchtvaartincident met een Nederlands luchtvaartuig zendt de raad zo spoedig mogelijk een melding terzake aan:
 
@@ -252,13 +276,13 @@ In geval van een voorval met een zeeschip wordt onder staat met aanmerkelijk bel
 
 2. [Artikel 5, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2021-11-09&g=2021-11-09), is van overeenkomstige toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien de raad een onderzoek instelt naar een scheepvaartongeval met een zeeschip zendt de raad zo spoedig mogelijk een melding terzake aan de staten met aanmerkelijk belang.
 
 2. Voor de wijze waarop de melding plaatsvindt, worden de terzake internationaal gemaakte afspraken nageleefd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Binnen dertig dagen na de datum van een luchtvaartongeval met een luchtvaartuig waarnaar de raad een onderzoek instelt, zendt de raad een voorlopig bericht toe aan:
 
@@ -284,13 +308,13 @@ In geval van een voorval met een zeeschip wordt onder staat met aanmerkelijk bel
 
 4. Indien er sprake is van zaken die direct verband houden met de veiligheid, wordt het voorlopig bericht verzonden zodra de informatie beschikbaar is en met behulp van de meest geschikte en de snelste middelen die beschikbaar zijn.
 
-#### Artikel 10
+##### Artikel 10
 
 Zo spoedig mogelijk na het onderzoek zendt de raad in geval van een onderzoek naar een luchtvaartongeval met een luchtvaartuig met een startmassa van meer dan 2250 kg of een ernstig luchtvaartincident met een luchtvaartuig met een startmassa van meer dan 5700 kg een bericht met uit het onderzoek naar voren gekomen gegevens naar de internationale burgerluchtvaartorganisatie.
 
 #### § 7. Vertegenwoordiger ander land
 
-#### Artikel 11
+##### Artikel 11
 
 De raad is, in geval van een luchtvaartongeval of een luchtvaartincident, verplicht een vertegenwoordiger als bedoeld in [artikel 45, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=45), en een deskundige als bedoeld in [artikel 45, vierde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=45), aan het onderzoek te laten deelnemen, indien daartoe een verzoek wordt gedaan door:
 
@@ -304,13 +328,13 @@ De raad is, in geval van een luchtvaartongeval of een luchtvaartincident, verpli
 
 - e. een staat die op verzoek van de raad informatie, voorzieningen of deskundigen verschaft.
 
-#### Artikel 12
+##### Artikel 12
 
 De raad is, in geval van een scheepvaartongeval of een scheepvaartincident met een zeeschip, verplicht staten met aanmerkelijk belang uit te nodigen een verzoek te doen een vertegenwoordiger te laten deelnemen aan het onderzoek.
 
 #### § 8. Rechten andere staat
 
-#### Artikel 13
+##### Artikel 13
 
 De raad is, ingeval een staat waarvan burgers dodelijk of ernstig letsel hebben opgelopen bij een gebeurtenis met een luchtvaartuig, verplicht een deskundige aan het onderzoek te laten deelnemen, nadat de betreffende staat daaromtrent een met redenen omkleed verzoek heeft gedaan. De deskundige is bevoegd:
 
@@ -326,15 +350,15 @@ De raad is, ingeval een staat waarvan burgers dodelijk of ernstig letsel hebben 
 
 #### § 8. Rechten andere staat
 
-#### Artikel 14
+##### Artikel 14
 
 De raad stelt het rapport, bedoeld in [artikel 55, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=55), op in een bij de aard en de ernst van het voorval passende vorm en hanteert zoveel mogelijk een uniform model.
 
-#### Artikel 15
+##### Artikel 15
 
 Het rapport betreffende een scheepvaartongeval of een scheepvaartincident met een zeeschip wordt opgesteld met inachtneming van bijlage I bij richtlijn nr. 2009/18/EG.
 
-#### Artikel 16
+##### Artikel 16
 
 1. In geval van een onderzoek betreffende een luchtvaartongeval of een ernstig luchtvaartincident zendt de raad zijn rapport in concept, met de uitnodiging zo spoedig mogelijk, doch in ieder geval binnen 60 dagen hun commentaar van betekenis te geven, aan de volgende staten:
 
@@ -352,7 +376,7 @@ Het rapport betreffende een scheepvaartongeval of een scheepvaartincident met ee
 
 2. In geval van een onderzoek betreffende een scheepvaartongeval of een scheepvaartincident met een zeeschip zendt de raad zijn rapport in concept aan alle staten met aanmerkelijk belang met de uitnodiging zo spoedig mogelijk, doch in ieder geval binnen vijf weken of een andere overeengekomen termijn, hun commentaar van betekenis te geven.
 
-#### Artikel 17
+##### Artikel 17
 
 1. In geval van een onderzoek betreffende een luchtvaartongeval of een luchtvaartincident, zendt de raad een afschrift van zijn rapport aan de Europese Commissie. Indien het onderzoek een luchtvaartongeval betreft, zendt de raad een afschrift van zijn rapport tevens aan:
 
@@ -380,7 +404,7 @@ Het rapport betreffende een scheepvaartongeval of een scheepvaartincident met ee
 
 #### § 10. Vergoedingen
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het deeltijdpercentage, bedoeld in [artikel 4, derde lid, van het Rijksbesluit Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017680&artikel=4), bedraagt voor de voorzitter 100 procent en voor de overige leden 60 procent.
 
@@ -390,25 +414,25 @@ Het rapport betreffende een scheepvaartongeval of een scheepvaartincident met ee
 
 #### § 11. Overgangs- en slotbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Regeling burgerluchtvaartinlichtingen.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt de Regeling risico’s zware ongevallen 1999.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze regeling treedt in werking op het krachtens [artikel 97, eerste lid, eerste volzin, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=97) vastgestelde tijdstip.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze regeling wordt aangehaald als: Regeling Onderzoeksraad voor veiligheid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Indien de raad een onderzoek instelt naar een voorval in verband met een spoorweg zendt de raad binnen één week nadat besloten is een onderzoek in te stellen een melding ter zake aan het Europees Spoorwegbureau.
 
@@ -420,7 +444,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 9. Rapport
 
-#### Artikel 17a
+##### Artikel 17a
 
 1. In geval van een onderzoek naar een voorval in verband met een spoorweg wordt het rapport zoveel mogelijk vastgesteld conform de rapportagestructuur die bij uitvoeringshandelingen op grond van artikel 24, tweede lid, van de spoorwegveiligheidsrichtlijn door de Europese Commissie worden vastgesteld.
 
@@ -430,7 +454,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. De raad zendt het Europees Spoorwegbureau jaarlijks een exemplaar van het jaarverslag toe.
 
-#### Artikel 17b
+##### Artikel 17b
 
 Vervallen
 
@@ -440,7 +464,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 12a
+##### Artikel 12a
 
 Indien de raad een onderzoek instelt naar een voorval, waarbij een spoorwegonderneming als bedoeld in artikel 3, aanhef en onder 3, van de spoorwegveiligheidsrichtlijn, met een vergunning van een andere lidstaat betrokken is of waarbij een in een andere lidstaat geregistreerd of onderhouden voertuig betrokken is, nodigt hij het onderzoeksorgaan, bedoeld in artikel 22 van de spoorwegveiligheidsrichtlijn, van die lidstaat uit deel te nemen aan het onderzoek.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit waardering verzekeringsvorderingen in faillissement"
+title: "Besluit van 10 juli 2019, houdende regels met betrekking tot de waardering van vorderingen uit hoofde van een verzekering in geval van een faillietverklaring van een verzekeraar (Besluit waardering verzekeringsvorderingen in faillissement)"
 identifier: "BWBR0042467"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-08-01
-laatste_update: 2019-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042467"
+country: "nl"
+rank: "amvb"
+publication_date: "2019-08-01"
+last_updated: "2019-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042467"
+soort: "AMvB"
+stam_id: "15134423"
+version_id: "25953442"
+internal_id: "C36969871"
+label_id: "15082254"
+dtd_version: "2.0"
+original_entry_into_force: "2019-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042467/2019-08-01/0"
+intitule_bron: "Stb.2019-274"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-07-10"
+intitule_published: "2019-07-29"
+intitule_in_force: "2019-07-29"
+intitule_status: "goed"
+original_publication: "Stb.2019-274"
+original_signed_date: "2019-07-10"
+original_published_date: "2019-07-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2019-274"
+entry_into_force_date: "2019-08-01"
+jci_1_3: "jci1.3:c:BWBR0042467&z=2019-08-01&g=2019-08-01"
+jci_1_0: "1.0:c:BWBR0042467&g=2019-08-01"
+citeertitel_status: "officieel"
+short_title: "Besluit waardering verzekeringsvorderingen in faillissement"
+signed_date: "2019-07-10"
+entry_into_force: "2019-08-01"
 ---
-
 # Besluit van 10 juli 2019, houdende regels met betrekking tot de waardering van vorderingen uit hoofde van een verzekering in geval van een faillietverklaring van een verzekeraar (Besluit waardering verzekeringsvorderingen in faillissement)
 
 Op de voordracht van Onze Minister van Financiën van 16 mei 2019, 2019-0000070363, directie Financiële Markten, gedaan mede namens Onze Minister voor Rechtsbescherming;
@@ -20,11 +46,11 @@ Gezien het nader rapport van Onze Minister van Financiën van 5 juli 2019, 2019-
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 Dit besluit is van toepassing op de waardering van vorderingen uit hoofde van een verzekering in faillissement.
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 1. Voor de toepassing van dit besluit wordt verstaan onder:
 
@@ -42,15 +68,15 @@ Dit besluit is van toepassing op de waardering van vorderingen uit hoofde van ee
 
 - c. **ultimate forward rate:** de ultimate forward rate, bedoeld in artikel 47 van de verordening solvabiliteit II.
 
-#### Artikel 3. Geen toezegging om rente te voldoen
+##### Artikel 3. Geen toezegging om rente te voldoen
 
 De toezegging door een verzekeraar tot het doen van een uitkering uit hoofde van verzekering als bedoeld in [artikel 925, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=925) is niet een toezegging om interesten te voldoen als bedoeld in [artikel 128 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=128).
 
-#### Artikel 4. Actuele overlevingstafel
+##### Artikel 4. Actuele overlevingstafel
 
 Bij het vaststellen van de hoogte van de vordering uit hoofde van een verzekering, waarbij de verzekeraar zich heeft verbonden tot het verrichten van uitkeringen waarvan de hoogte, het tijdstip of de duur afhankelijk is gesteld van het wel of niet in leven zijn van een verzekerde, wordt een op het moment van de vaststelling algemeen aanvaarde overlevingstafel gehanteerd.
 
-#### Artikel 5. Algemene uitgangspunten bij vaststelling rechten polishouder
+##### Artikel 5. Algemene uitgangspunten bij vaststelling rechten polishouder
 
 1. Indien de curator met toepassing van [artikel 213ka van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=213ka) heeft verklaard dat de overeenkomst niet wordt nagekomen, zijn de waarde van het toegezegde rendement en de waarde van de toegezegde risicoafdekking op premies die niet zijn betaald op het tijdstip van faillietverklaring nihil.
 
@@ -66,7 +92,7 @@ Bij het vaststellen van de hoogte van de vordering uit hoofde van een verzekerin
 
 4. Indien een verzekering betaling van alle overeengekomen premies als voorwaarde bevat voor het als gevolg van een rendementsgarantie bereiken van het in die verzekering opgenomen verzekerde bedrag, is die voorwaarde niet van toepassing op de vermeerdering, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042467&artikel=6&z=2019-08-01&g=2019-08-01).
 
-#### Artikel 6. Premiebetalende verzekering niet zijnde beleggingsverzekering
+##### Artikel 6. Premiebetalende verzekering niet zijnde beleggingsverzekering
 
 1. De waarde van een vordering uit hoofde van een verzekering wordt berekend overeenkomstig het tweede tot en met zesde lid, indien de verzekeraar zich heeft verbonden tot het verrichten van een uitkering waarbij het tijdstip of hoogte onzeker is en de hoogte van de uitkering niet gebaseerd is op de tegenwaarde in beleggingseenheden en:
 
@@ -86,11 +112,11 @@ Bij het vaststellen van de hoogte van de vordering uit hoofde van een verzekerin
 
 6. De hoogte van de vordering is de contante waarde van de in het vierde of, indien van toepassing, het vijfde lid, bedoelde bedragen op het tijdstip met ingang waarvan de overeenkomst niet meer wordt nagekomen. Discontering geschiedt met toepassing van de risicovrije rentetermijnstructuur.
 
-#### Artikel 7. Verzekeringen waarbij alle premie is betaald, niet zijnde beleggingsverzekeringen
+##### Artikel 7. Verzekeringen waarbij alle premie is betaald, niet zijnde beleggingsverzekeringen
 
 De waarde van een vordering uit hoofde van een verzekering waarbij de verzekeraar zich heeft verbonden tot het verrichten van een uitkering waarbij het tijdstip of de hoogte onzeker is, de hoogte van de uitkering niet is gebaseerd op de tegenwaarde in beleggingseenheden en de wederpartij op het tijdstip van faillietverklaring aan al haar betalingsverplichtingen heeft voldaan, wordt bepaald overeenkomstig [artikel 6, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042467&artikel=6&z=2019-08-01&g=2019-08-01), met dien verstande dat de verzekerde bedragen in de overeenkomst geacht worden de bedragen te zijn, bedoeld in artikel 6, vierde lid.
 
-#### Artikel 8. Beleggingsverzekeringen met gegarandeerde ondergrens
+##### Artikel 8. Beleggingsverzekeringen met gegarandeerde ondergrens
 
 1. De waarde van een vordering uit hoofde van een verzekering waarbij de verzekeraar zich heeft verbonden tot het verrichten van uitkeringen waarbij het tijdstip of hoogte onzeker is, de hoogte van de uitkering gebaseerd is op de tegenwaarde in beleggingseenheden en een uitkeringsgarantie is toegezegd, wordt berekend overeenkomstig het tweede tot en met vijfde lid.
 
@@ -106,25 +132,25 @@ De waarde van een vordering uit hoofde van een verzekering waarbij de verzekeraa
 
 5. De waarde van de vordering wordt bepaald overeenkomstig [artikel 6, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042467&artikel=6&z=2019-08-01&g=2019-08-01), met dien verstande dat de bedragen, bedoeld in artikel 6, vierde lid, voor de uitkeringen bij leven, de uitkomsten zijn van de vergelijking op elk van de tijdstippen, bedoeld in het derde lid, tussen de tegenwaarde van de beleggingseenheden en de minimumgarantiewaarde, waarbij telkens de hoogste van deze twee waarden wordt genomen.
 
-#### Artikel 9. Beleggingsverzekeringen zonder gegarandeerde ondergrens
+##### Artikel 9. Beleggingsverzekeringen zonder gegarandeerde ondergrens
 
 1. Voor verzekeringen waarbij de verzekeraar zich heeft verbonden tot het verrichten van een uitkering waarbij het tijdstip of hoogte onzeker is, waarbij de hoogte van de uitkering bij leven is gebaseerd op de tegenwaarde in beleggingseenheden en waarbij een uitkeringsgarantie niet is meeverzekerd, is de waarde van de vordering van de uitkeringen bij leven de tegenwaarde van de beleggingseenheden op het tijdstip met ingang waarvan de verzekering niet meer wordt nagekomen.
 
 2. De waarde van de vordering, bedoeld in het eerste lid, wordt, indien de verzekering ook voorziet in een uitkering bij overlijden, verhoogd met de waarde van de vordering van de uitkering bij overlijden, berekend overeenkomstig [artikel 6, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042467&artikel=6&z=2019-08-01&g=2019-08-01).
 
-#### Artikel 10. Alternatieve berekeningsmethoden
+##### Artikel 10. Alternatieve berekeningsmethoden
 
 Onverminderd de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042467&artikel=2&z=2019-08-01&g=2019-08-01) en in afwijking van de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042467&artikel=6&z=2019-08-01&g=2019-08-01) kan de waarde van een vordering uit hoofde van een verzekering op een andere wijze worden berekend indien door de curator genoegzaam wordt aangetoond dat deze methode tot dezelfde uitkomst leidt.
 
-#### Artikel 11. Overgangsbepaling
+##### Artikel 11. Overgangsbepaling
 
 Dit besluit is niet van toepassing op een faillissement van een verzekeraar dat is uitgesproken voor het tijdstip van inwerkingtreding van dit besluit.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 augustus 2019. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 juli 2019 treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt het terug tot en met 1 augustus 2019.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit waardering verzekeringsvorderingen in faillissement.
 

@@ -1,13 +1,38 @@
 ---
 title: "Besluit onderwijsvrijstelling omzetbelasting"
 identifier: "BWBR0050769"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-02-12
-laatste_update: 2025-02-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050769"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-02-12"
+last_updated: "2025-02-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050769"
+soort: "beleidsregel"
+stam_id: "17365543"
+version_id: "30612672"
+internal_id: "C43875971"
+label_id: "17269014"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050769/2025-02-12/0"
+intitule_bron: "Stcrt.2025-3488"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-01-21"
+intitule_published: "2025-02-11"
+intitule_in_force: "2025-02-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-3488"
+original_signed_date: "2025-01-21"
+original_published_date: "2025-02-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-3488"
+entry_into_force_date: "2025-02-12"
+jci_1_3: "jci1.3:c:BWBR0050769&z=2025-02-12&g=2025-02-12"
+jci_1_0: "1.0:c:BWBR0050769&g=2025-02-12"
+citeertitel_status: "officieel"
+signed_date: "2025-01-21"
+entry_into_force: "2025-02-12"
 ---
-
 # Besluit onderwijsvrijstelling omzetbelasting
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

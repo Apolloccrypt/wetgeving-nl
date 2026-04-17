@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregels controle informatieverstrekkingen uit het kentekenregister"
 identifier: "BWBR0044466"
-categorie: "Overig"
-publicatiedatum: 2020-12-11
-laatste_update: 2020-12-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044466"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-12-11"
+last_updated: "2020-12-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044466"
+soort: "zbo"
+stam_id: "15743893"
+version_id: "27279532"
+internal_id: "C38539451"
+label_id: "15682894"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044466/2020-12-11/0"
+intitule_bron: "Stcrt.2020-62798"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-11-11"
+intitule_published: "2020-12-11"
+intitule_in_force: "2020-12-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-62798"
+original_signed_date: "2020-11-11"
+original_published_date: "2020-12-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-62798"
+entry_into_force_date: "2020-12-11"
+jci_1_3: "jci1.3:c:BWBR0044466&z=2020-12-11&g=2020-12-11"
+jci_1_0: "1.0:c:BWBR0044466&g=2020-12-11"
+citeertitel_status: "redactioneel"
+signed_date: "2020-11-11"
+entry_into_force: "2020-12-11"
 ---
-
 # Beleidsregels controle informatieverstrekkingen uit het kentekenregister
 
 ### Hoofdstuk 1. – Toelichting op controle inzake informatieverstrekkingen uit het kentekenregister

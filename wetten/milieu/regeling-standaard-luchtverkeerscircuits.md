@@ -1,13 +1,38 @@
 ---
 title: "Regeling standaard luchtverkeerscircuits"
 identifier: "BWBR0006175"
-categorie: "Milieu"
-publicatiedatum: 2014-12-12
-laatste_update: 2014-12-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006175"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-12-12"
+last_updated: "2014-12-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006175"
+soort: "ministeriele-regeling"
+stam_id: "4838233"
+version_id: "21888832"
+internal_id: "C31412851"
+label_id: "4816204"
+dtd_version: "2.0"
+original_entry_into_force: "2014-12-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006175/2014-12-12/0"
+intitule_bron: "Stcrt.1993-199"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-10-11"
+intitule_published: "1993-10-18"
+intitule_in_force: "1993-10-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-35427"
+original_signed_date: "2014-12-09"
+original_published_date: "2014-12-11"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2014-35427"
+entry_into_force_date: "2014-12-09"
+jci_1_3: "jci1.3:c:BWBR0006175&z=2014-12-12&g=2014-12-12"
+jci_1_0: "1.0:c:BWBR0006175&g=2014-12-12"
+citeertitel_status: "officieel"
+signed_date: "2014-12-09"
+entry_into_force: "2014-12-09"
 ---
-
 # Regeling standaard luchtverkeerscircuits
 
 Handelend in overeenstemming met de Minister van Defensie;
@@ -16,7 +41,7 @@ Gelet op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artik
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Deze regeling is van toepassing op luchtvaartuigen behorend tot het luchthavenverkeer van burgerluchthavens waar geen luchtverkeersleiding wordt gegeven en waarvoor:
 
@@ -24,7 +49,7 @@ Deze regeling is van toepassing op luchtvaartuigen behorend tot het luchthavenve
 
 - b. het bevoegde gezag geen andere luchtverkeerspatronen heeft voorgeschreven overeenkomstig de [artikelen 8.44](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.44) en [8.64 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.64).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De onderdelen van het ingevolge paragraaf SERA.3225, onderdeel b, van de verordening (EU) nr. 923/2012 door luchtvaartuigen te vliegen luchtverkeerscircuit, zoals aangegeven in de bij deze regeling behorende bijlage, worden achtereenvolgens benoemd:
 
@@ -46,15 +71,15 @@ Deze regeling is van toepassing op luchtvaartuigen behorend tot het luchthavenve
 
 4. De hoogte van het standaard luchtverkeerscircuit bedraagt 210 m (700 ft) AAL.
 
-#### Artikel 3
+##### Artikel 3
 
 Het volgen, aanvliegen en verlaten van het standaardluchtverkeerscircuit alsmede het afbreken van de eindnadering geschiedt op de wijze zoals vermeld in de volgende artikelen en zoals aangegeven in de bij deze regeling behorende bijlage.
 
-#### Artikel 4
+##### Artikel 4
 
 Binnen een luchtverkeerscircuit is het niet toegestaan een ander luchtvaartuig in te halen.
 
-#### Artikel 5
+##### Artikel 5
 
 Het volgen van het standaardluchtverkeerscircuit geschiedt, met inachtneming van de bijlage bij deze regeling, op de volgende wijze:
 
@@ -68,11 +93,11 @@ Het volgen van het standaardluchtverkeerscircuit geschiedt, met inachtneming van
 
 - e. Zet op het eindnaderingsbeen de eindnadering in.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien er aanleiding bestaat de eindnadering af te breken gaat de vlieger over in een stijgvlucht waarna hij op een veilige wijze weer het luchtverkeerscircuit volgt.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij het aanvliegen en invoegen worden de volgende voorschriften in acht genomen:
 
@@ -82,11 +107,11 @@ Bij het aanvliegen en invoegen worden de volgende voorschriften in acht genomen:
 
 - c. Het invoegen geschiedt op het rugwindbeen tegenover het midden van de landingsbaan. Het aanvliegen van deze invoegpositie geschiedt loodrecht op het rugwindbeen.
 
-#### Artikel 8
+##### Artikel 8
 
 Het luchtverkeerscircuit wordt verlaten onder een hoek van 45° halverwege het dwarswindbeen. De klim of daling tot kruishoogte vindt plaats buiten het circuitgebied.
 
-#### Artikel 9
+##### Artikel 9
 
 Indien en voor zover het overige circuitverkeer niet wordt gehinderd gelden de [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006175&artikel=2&z=2014-12-12&g=2014-12-12), en 3 tot en met 8 niet ingeval van:
 
@@ -98,21 +123,21 @@ Indien en voor zover het overige circuitverkeer niet wordt gehinderd gelden de [
 
 - d. gesimuleerde nood- en voorzorgslandingen.
 
-#### Artikel 10
+##### Artikel 10
 
 De regeling van de Directeur-generaal van de Rijksluchtvaartdienst van 1 september 1982/nr. LVB/L24146, Stcrt. 1982/171 wordt ingetrokken.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling standaard luchtverkeerscircuits.
 
 ## Bijlage
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust op [artikel 7, eerste lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=7).
 

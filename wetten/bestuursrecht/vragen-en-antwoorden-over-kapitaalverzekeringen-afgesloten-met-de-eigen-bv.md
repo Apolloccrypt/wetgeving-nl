@@ -1,13 +1,37 @@
 ---
 title: "Vragen en antwoorden over kapitaalverzekeringen afgesloten met de eigen BV"
 identifier: "BWBR0009773"
-categorie: "Bestuursrecht"
-publicatiedatum: 1998-07-09
-laatste_update: 1998-07-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009773"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1998-07-09"
+last_updated: "1998-07-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009773"
+soort: "beleidsregel"
+stam_id: "8388903"
+version_id: "13261162"
+internal_id: "C17831471"
+label_id: "8371214"
+dtd_version: "2.0"
+original_entry_into_force: "1998-07-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009773/1998-07-09/0"
+intitule_bron: "Infob.1998-7"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-07-09"
+intitule_published: "1998-01-01"
+intitule_in_force: "1998-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1998-7"
+original_signed_date: "1998-07-09"
+original_published_date: "1998-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-07-09"
+jci_1_3: "jci1.3:c:BWBR0009773&z=1998-07-09&g=1998-07-09"
+jci_1_0: "1.0:c:BWBR0009773&g=1998-07-09"
+citeertitel_status: "redactioneel"
+signed_date: "1998-07-09"
+entry_into_force: "1998-07-09"
 ---
-
 # Vragen en antwoorden over kapitaalverzekeringen afgesloten met de eigen BV
 
 De plv. Directeur-Generaal der Belastingen heeft namens de Staatssecretaris van Financiën het volgende besloten.

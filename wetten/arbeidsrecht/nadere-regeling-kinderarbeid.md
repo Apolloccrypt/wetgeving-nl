@@ -1,13 +1,34 @@
 ---
 title: "Nadere regeling kinderarbeid"
 identifier: "BWBR0007195"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007195"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007195"
+soort: "ministeriele-regeling"
+stam_id: "5210443"
+version_id: "9368012"
+internal_id: "C12518511"
+label_id: "5185984"
+dtd_version: "2.0"
+original_entry_into_force: "1996-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007195/2025-07-01/0"
+intitule_bron: "Stcrt.1995-246"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1995-12-19"
+intitule_in_force: "1995-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-246"
+original_published_date: "1995-12-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-01-01"
+jci_1_3: "jci1.3:c:BWBR0007195&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0007195&g=2025-07-01"
+citeertitel_status: "officieel"
+entry_into_force: "1996-01-01"
 ---
-
 # Nadere regeling kinderarbeid
 
 Gelet op [artikel 3:2, derde lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=3:2);
@@ -16,7 +37,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1:1. Definities
+##### Artikel 1:1. Definities
 
 1. In deze regeling wordt verstaan onder:
 
@@ -74,7 +95,7 @@ Besluit:
 
 #### § 2. Alternatieve sanctie
 
-#### Artikel 2:1
+##### Artikel 2:1
 
 Indien in het kader van een alternatieve sanctie een kind van 12 jaar tot en met 14 jaar niet industriële hulparbeid van lichte aard verricht of een kind van 15 jaar niet industriële arbeid van lichte aard verricht, dan wordt in acht genomen, dat dat kind:
 
@@ -94,7 +115,7 @@ Indien in het kader van een alternatieve sanctie een kind van 12 jaar tot en met
 
 #### § 3. Arbeid naast en in samenhang met onderwijs
 
-#### Artikel 3:1
+##### Artikel 3:1
 
 1. Alvorens de in dit artikel bedoelde arbeid kan worden verricht is een stageovereenkomst, bedoeld in [artikel 35 van het Inrichtingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=35), gesloten, onderscheidenlijk een beslissing van burgemeester en wethouders, waarbij goedkeuring wordt verleend op een verzoek tot vervangende leerplicht, bedoeld in de [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=3a) en [3b van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=3b). De stageovereenkomst wordt (mede)ondertekend door een persoon, die over het betrokken kind het ouderlijke gezag of de voogdij uitoefent of in wiens huishouding dat kind is opgenomen.
 
@@ -116,7 +137,7 @@ Indien in het kader van een alternatieve sanctie een kind van 12 jaar tot en met
 
 #### Kind van 13 of 14 jaar
 
-#### Artikel 4:1
+##### Artikel 4:1
 
 1. Indien een kind van 13 of 14 jaar tijdens een schoolweek niet-industriële hulparbeid van lichte aard verricht, niet zijnde een uitvoering, dan wordt in acht genomen, dat dat kind:
 
@@ -152,7 +173,7 @@ tevens in acht genomen, dat dat kind:
 
 #### Kind van 15 jaar
 
-#### Artikel 4:2
+##### Artikel 4:2
 
 Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van lichte aard verricht, niet zijnde een uitvoering, dan wordt in acht genomen, dat dat kind:
 
@@ -174,7 +195,7 @@ Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van 
 
 #### Kind van 13 of 14 jaar
 
-#### Artikel 5:1
+##### Artikel 5:1
 
 1. Indien een kind van 13 of 14 jaar tijdens een vakantieweek niet-industriële hulparbeid van lichte aard verricht, niet zijnde een uitvoering, dan wordt in acht genomen, dat dat kind:
 
@@ -192,7 +213,7 @@ Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van 
 
 #### Kind van 15 jaar
 
-#### Artikel 5:2
+##### Artikel 5:2
 
 1. Indien een kind van 15 jaar tijdens een vakantieweek niet-industriële arbeid van lichte aard verricht, niet zijnde een uitvoering, dan wordt in acht genomen, dat dat kind:
 
@@ -214,7 +235,7 @@ Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van 
 
 #### Kind van 13 of 14 jaar
 
-#### Artikel 6:1
+##### Artikel 6:1
 
 1. Indien een kind van 13 of 14 jaar tijdens een schoolweek niet-industriële arbeid van lichte aard verricht bestaande uit een uitvoering, dan wordt in acht genomen, dat dat kind:
 
@@ -238,7 +259,7 @@ Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van 
 
 #### Kind van 15 jaar
 
-#### Artikel 6:2
+##### Artikel 6:2
 
 1. Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van lichte aard verricht bestaande uit een uitvoering, dan wordt in acht genomen, dat dat kind:
 
@@ -264,7 +285,7 @@ Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van 
 
 #### Kind van 13 of 14 jaar
 
-#### Artikel 7:1
+##### Artikel 7:1
 
 1. Indien een kind van 13 of 14 jaar tijdens een vakantieweek niet-industriële arbeid van lichte aard verricht bestaande uit een uitvoering, dan wordt in acht genomen, dat dat kind:
 
@@ -288,7 +309,7 @@ Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van 
 
 #### Kind van 15 jaar
 
-#### Artikel 7:2
+##### Artikel 7:2
 
 1. Indien een kind van 15 jaar tijdens een vakantieweek niet-industriële arbeid van lichte aard verricht bestaande uit een uitvoering, dan wordt in acht genomen, dat dat kind:
 
@@ -310,7 +331,7 @@ Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van 
 
 #### § 8. Niet-industriële arbeid van lichte aard voor kinderen met een vrijstelling van de leerplicht
 
-#### Artikel 8:1
+##### Artikel 8:1
 
 1. Voor de toepassing van dit artikel geldt de tijd waarop onderwijs wordt gevolgd en gelden de daarbij behorende onderbrekingen van het onderwijs als arbeidstijd.
 
@@ -330,7 +351,7 @@ Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van 
 
 #### § 9. Het bezorgen van ochtendkranten
 
-#### Artikel 9:1
+##### Artikel 9:1
 
 1. Alvorens de in dit artikel bedoelde arbeid kan worden verricht is een bezorgovereenkomst gesloten tussen de werkgever en het kind. De bezorgovereenkomst wordt (mede)ondertekend door een persoon, die over het betrokken kind het ouderlijke gezag of de voogdij uitoefent of in wiens huishouding dat kind is opgenomen.
 
@@ -346,13 +367,13 @@ Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van 
 
 #### Kind van 13 of 14 jaar
 
-#### Artikel 10:1
+##### Artikel 10:1
 
 Indien een kind van 13 of 14 jaar in een schoolweek arbeid verricht, waarop de [artikelen 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=3&artikel=3:2&z=2025-07-01&g=2025-07-01), [4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=4&artikel=4:1&z=2025-07-01&g=2025-07-01) of [6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=6&artikel=6:1&z=2025-07-01&g=2025-07-01) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 12 uren per week, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 7 uren per dag op andere dagen.
 
 #### Kind van 15 jaar
 
-#### Artikel 10:2
+##### Artikel 10:2
 
 Indien een kind van 15 jaar in een schoolweek arbeid verricht, waarop de [artikelen 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=3&artikel=3:4&z=2025-07-01&g=2025-07-01), [4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=4&artikel=4:2&z=2025-07-01&g=2025-07-01), [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=6&artikel=6:2&z=2025-07-01&g=2025-07-01) of [9:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=9&artikel=9:1&z=2025-07-01&g=2025-07-01) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 12 uren per week, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 8 uren per dag op andere dagen.
 
@@ -360,19 +381,19 @@ Indien een kind van 15 jaar in een schoolweek arbeid verricht, waarop de [artike
 
 #### Kind van 13 of 14 jaar
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 Indien een kind van 13 of 14 jaar in een vakantieweek arbeid verricht, waarop de [artikelen 3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=3&artikel=3:3&z=2025-07-01&g=2025-07-01), [5:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=5&artikel=5:1&z=2025-07-01&g=2025-07-01) of [7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=7&artikel=7:1&z=2025-07-01&g=2025-07-01) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag.
 
 #### Kind van 15 jaar
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Indien een kind van 15 jaar in een vakantieweek arbeid verricht, waarop de [artikelen 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=3&artikel=3:5&z=2025-07-01&g=2025-07-01), [5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=5&artikel=5:2&z=2025-07-01&g=2025-07-01), [7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=7&artikel=7:2&z=2025-07-01&g=2025-07-01) of [9:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=9&artikel=9:1&z=2025-07-01&g=2025-07-01) van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag.
 
 #### § 12. Andere vormen van samenloop
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 1. Indien een kind van 12 jaar tot en met 14 jaar arbeid verricht als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0007195&paragraaf=2&artikel=2:1&z=2025-07-01&g=2025-07-01) en tevens in de week andere arbeid verricht, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag.
 
@@ -384,17 +405,17 @@ Indien een kind van 15 jaar in een vakantieweek arbeid verricht, waarop de [arti
 
 #### § 13. Slotbepalingen
 
-#### Artikel 13:1
+##### Artikel 13:1
 
 Deze regeling treedt in werking met ingang van het tijdstip waarop de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) in werking treedt.
 
-#### Artikel 13:2
+##### Artikel 13:2
 
 Deze regeling wordt aangehaald als: Nadere regeling kinderarbeid.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3:2. Maatschappelijke stage tijdens een schoolweek voor 13 en 14 jarigen
+##### Artikel 3:2. Maatschappelijke stage tijdens een schoolweek voor 13 en 14 jarigen
 
 1. Alvorens de in dit artikel bedoelde arbeid kan worden verricht is een stageovereenkomst als bedoeld in [artikel 30a van het Inrichtingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=30a), gesloten.
 
@@ -414,7 +435,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 - g. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.
 
-#### Artikel 3:3. Maatschappelijke stage tijdens een vakantieweek voor 13 en 14 jarigen
+##### Artikel 3:3. Maatschappelijke stage tijdens een vakantieweek voor 13 en 14 jarigen
 
 1. Alvorens de in dit artikel bedoelde arbeid kan worden verricht is een stageovereenkomst als bedoeld in [artikel 30a van het Inrichtingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=30a), gesloten.
 
@@ -436,7 +457,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Een kind van 13 of 14 jaar mag gedurende ten hoogste 4 vakantieweken per jaar arbeid verrichten, waarvan ten hoogste 3 vakantieweken aaneengesloten.
 
-#### Artikel 3:4. Maatschappelijke stage tijdens een schoolweek voor 15 jarigen
+##### Artikel 3:4. Maatschappelijke stage tijdens een schoolweek voor 15 jarigen
 
 1. Alvorens de in dit artikel bedoelde arbeid kan worden verricht is een stageovereenkomst als bedoeld in [artikel 30a van het Inrichtingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=30a), gesloten.
 
@@ -456,7 +477,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 - g. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.
 
-#### Artikel 3:5. Maatschappelijke stage tijdens een vakantieweek voor 15 jarigen
+##### Artikel 3:5. Maatschappelijke stage tijdens een vakantieweek voor 15 jarigen
 
 1. Alvorens de in dit artikel bedoelde arbeid kan worden verricht is een stageovereenkomst als bedoeld in [artikel 30a van het Inrichtingsbesluit W.V.O.](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=30a), gesloten.
 

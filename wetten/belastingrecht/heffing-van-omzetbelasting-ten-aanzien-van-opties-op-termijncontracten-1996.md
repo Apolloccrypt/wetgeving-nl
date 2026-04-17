@@ -1,13 +1,38 @@
 ---
-title: "Heffing van omzetbelasting ten aanzien van opties op termijncontracten (1996)"
+title: "Besluit van 24 april 1996, nr. VB96/1157"
 identifier: "BWBR0027809"
-categorie: "Belastingrecht"
-publicatiedatum: 1996-04-24
-laatste_update: 1996-04-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027809"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1996-04-24"
+last_updated: "1996-04-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027809"
+soort: "beleidsregel"
+stam_id: "10583573"
+version_id: "17466592"
+internal_id: "C24161891"
+label_id: "10558494"
+dtd_version: "2.0"
+original_entry_into_force: "1996-04-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027809/1996-04-24/0"
+intitule_bron: "Infob.1996-343"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-04-24"
+intitule_published: "1996-01-01"
+intitule_in_force: "1996-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1996-343"
+original_signed_date: "1996-04-24"
+original_published_date: "1996-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-04-24"
+jci_1_3: "jci1.3:c:BWBR0027809&z=1996-04-24&g=1996-04-24"
+jci_1_0: "1.0:c:BWBR0027809&g=1996-04-24"
+citeertitel_status: "redactioneel"
+short_title: "Heffing van omzetbelasting ten aanzien van opties op termijncontracten (1996)"
+signed_date: "1996-04-24"
+entry_into_force: "1996-04-24"
 ---
-
 # Besluit van 24 april 1996, nr. VB96/1157
 
 De plaatsvervangend Directeur-Generaal der Belastingen heeft namens de Staatssecretaris van Financiën het volgende besloten.

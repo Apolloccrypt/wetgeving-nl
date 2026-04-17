@@ -1,13 +1,35 @@
 ---
 title: "Verordening commissie bezwaarschriften Stimuleringsfonds Creatieve Industrie"
 identifier: "BWBR0049444"
-categorie: "Overig"
-publicatiedatum: 2024-03-08
-laatste_update: 2024-03-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049444"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-03-08"
+last_updated: "2024-03-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049444"
+soort: "zbo"
+stam_id: "17045563"
+version_id: "29991792"
+internal_id: "C42998671"
+label_id: "16955154"
+dtd_version: "2.0"
+original_entry_into_force: "2024-03-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049444/2024-03-08/0"
+intitule_bron: "Stcrt.2024-6558"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-03-07"
+intitule_in_force: "2024-03-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-6558"
+original_published_date: "2024-03-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-6558"
+entry_into_force_date: "2024-03-08"
+jci_1_3: "jci1.3:c:BWBR0049444&z=2024-03-08&g=2024-03-08"
+jci_1_0: "1.0:c:BWBR0049444&g=2024-03-08"
+citeertitel_status: "officieel"
+entry_into_force: "2024-03-08"
 ---
-
 # Verordening commissie bezwaarschriften Stimuleringsfonds Creatieve Industrie
 
 gelet op [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13) (Awb);
@@ -16,7 +38,7 @@ besluit vast te stellen de volgende verordening:
 
 De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze verordening wordt verstaan onder:
 
@@ -30,11 +52,11 @@ In deze verordening wordt verstaan onder:
 
 - e. **secretaris:** de secretaris van de commissie.
 
-#### Artikel 2. Inleidende bepaling commissie
+##### Artikel 2. Inleidende bepaling commissie
 
 Er is een commissie ter voorbereiding van de beslissing op bezwaren tegen besluiten van het bestuur.
 
-#### Artikel 3. Samenstelling van de commissie
+##### Artikel 3. Samenstelling van de commissie
 
 1. De commissie bestaat uit een voorzitter en ten minste twee leden.
 
@@ -44,11 +66,11 @@ Er is een commissie ter voorbereiding van de beslissing op bezwaren tegen beslui
 
 4. De voorzitter en de leden van de commissie kunnen niet in dienst zijn van of werkzaam zijn onder verantwoordelijkheid van het Fonds.
 
-#### Artikel 4. Secretaris
+##### Artikel 4. Secretaris
 
 De secretarissen van de commissie zijn door het bestuur aangewezen medewerkers van het Fonds.
 
-#### Artikel 5. Zittingsduur
+##### Artikel 5. Zittingsduur
 
 1. De voorzitters en de leden van de commissie worden benoemd voor een periode van een jaar, welke kan worden verlengd tot in totaal een periode van vier jaar.
 
@@ -56,17 +78,17 @@ De secretarissen van de commissie zijn door het bestuur aangewezen medewerkers v
 
 3. De aftredende of ontslagnemende voorzitters of leden van de commissie blijven hun functie vervullen totdat in de opvolging is voorzien.
 
-#### Artikel 6. Ingediend bezwaarschrift
+##### Artikel 6. Ingediend bezwaarschrift
 
 1. Op het ingediende bezwaarschrift wordt de datum van ontvangst aangetekend.
 
 2. Het bezwaarschrift met de daarbij overgelegde stukken wordt zo spoedig mogelijk in handen van de commissie gesteld.
 
-#### Artikel 7. Bemiddeling
+##### Artikel 7. Bemiddeling
 
 De commissie onderzoekt of de zaak in der minne kan worden geschikt alvorens de zaak in behandeling wordt genomen. De secretaris verricht daartoe de nodige handelingen.
 
-#### Artikel 8. Uitoefening bevoegdheden
+##### Artikel 8. Uitoefening bevoegdheden
 
 De bevoegdheden ingevolge de hierna genoemde artikelen van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) worden voor de toepassing van deze verordening uitgeoefend door de voorzitter van de commissie:
 
@@ -80,13 +102,13 @@ De bevoegdheden ingevolge de hierna genoemde artikelen van de [Awb](https://wett
 
 - e. [artikel 7:6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:6), vierde lid.
 
-#### Artikel 9. Vooronderzoek
+##### Artikel 9. Vooronderzoek
 
 1. De voorzitter van de commissie is bevoegd rechtstreeks alle gewenste inlichtingen in te winnen of te laten inwinnen.
 
 2. De voorzitter kan uit eigen beweging of op verlangen van de commissie bij deskundigen advies of inlichtingen inwinnen en hen zo nodig uitnodigen daartoe op de hoorzitting te verschijnen. Indien daaraan kosten zijn verbonden, is vooraf machtiging van het bestuur vereist.
 
-#### Artikel 10. Hoorzitting
+##### Artikel 10. Hoorzitting
 
 1. De voorzitter van de commissie bepaalt plaats en tijdstip van de zitting van de commissie waarin de belanghebbenden en het verwerend orgaan in de gelegenheid worden gesteld zich door de commissie te laten horen.
 
@@ -94,7 +116,7 @@ De bevoegdheden ingevolge de hierna genoemde artikelen van de [Awb](https://wett
 
 3. Indien de voorzitter op grond van het tweede lid besluit af te zien van het horen, doet hij daarvan mededeling aan de belanghebbenden en het verwerend orgaan.
 
-#### Artikel 11. Uitnodiging zitting
+##### Artikel 11. Uitnodiging zitting
 
 1. De voorzitter van de commissie nodigt de belanghebbenden en het verwerend orgaan ten minste twee weken voor de zitting schriftelijk uit.
 
@@ -104,15 +126,15 @@ De bevoegdheden ingevolge de hierna genoemde artikelen van de [Awb](https://wett
 
 4. De voorzitter is bevoegd in bijzondere omstandigheden af te wijken of afwijking toe te staan van de termijnen die genoemd zijn in het eerste tot en met het derde lid.
 
-#### Artikel 12. Quorum
+##### Artikel 12. Quorum
 
 Voor het houden van een zitting van de commissie is vereist dat de meerderheid van het aantal leden, onder wie in elk geval de voorzitter, aanwezig is.
 
-#### Artikel 13. Niet-deelneming aan de behandeling
+##### Artikel 13. Niet-deelneming aan de behandeling
 
 De voorzitters en de leden van de commissie nemen niet deel aan de behandeling van een bezwaarschrift indien daarbij hun onpartijdigheid in het geding kan zijn. Zij laten zich zo nodig vervangen.
 
-#### Artikel 14. Openbaarheid zitting
+##### Artikel 14. Openbaarheid zitting
 
 1. De zitting van de commissie is openbaar voor zover het de behandeling van bezwaarschriften betreft die geen betrekking hebben op rechtspositie – en andere regelingen voor medewerkers van het Fonds. Behandeling van deze bezwaarschriften vindt in een besloten zitting plaats.
 
@@ -120,7 +142,7 @@ De voorzitters en de leden van de commissie nemen niet deel aan de behandeling v
 
 3. Indien de commissie vervolgens beslist dat gewichtige redenen aanwezig zijn die zich tegen openbaarheid van de zitting verzetten, vindt de zitting achter gesloten deuren plaats.
 
-#### Artikel 15. Schriftelijke verslaglegging
+##### Artikel 15. Schriftelijke verslaglegging
 
 1. Het verslag als bedoeld in [artikel 7:7 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:7) vermeldt de namen van de aanwezigen en hun hoedanigheid.
 
@@ -132,7 +154,7 @@ De voorzitters en de leden van de commissie nemen niet deel aan de behandeling v
 
 5. Het verslag wordt ondertekend door de voorzitter en de secretaris van de commissie.
 
-#### Artikel 16. Nader onderzoek
+##### Artikel 16. Nader onderzoek
 
 1. Indien na afloop van de zitting maar voordat het advies wordt opgesteld, nader onderzoek wenselijk blijkt te zijn, kan de voorzitter van de commissie uit eigen beweging of op verlangen van de andere commissieleden dit onderzoek houden.
 
@@ -142,7 +164,7 @@ De voorzitters en de leden van de commissie nemen niet deel aan de behandeling v
 
 4. Op een nieuwe hoorzitting zijn de bepalingen in deze verordening die betrekking hebben op de hoorzitting, zo veel mogelijk van overeenkomstige toepassing.
 
-#### Artikel 17. Raadkamer en advies
+##### Artikel 17. Raadkamer en advies
 
 1. De commissie beraadslaagt en beslist achter gesloten deuren over het door haar uit te brengen advies.
 
@@ -156,7 +178,7 @@ De voorzitters en de leden van de commissie nemen niet deel aan de behandeling v
 
 6. Het advies wordt door de voorzitter en de secretaris van de commissie ondertekend.
 
-#### Artikel 18. Uitbrengen advies en verdaging
+##### Artikel 18. Uitbrengen advies en verdaging
 
 1. Het advies wordt, onder medezending van het verslag als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0049444&artikel=15&z=2024-03-08&g=2024-03-08) en eventueel door de commissie ontvangen nadere informatie en nader verslag, tijdig uitgebracht aan het bestuursorgaan dat op het bezwaarschrift dient te beslissen.
 
@@ -164,18 +186,18 @@ De voorzitters en de leden van de commissie nemen niet deel aan de behandeling v
 
 3. Van een besluit tot verdaging ontvangen de leden van de adviserende commissie en de belanghebbenden een afschrift.
 
-#### Artikel 19. Uitbrengen jaarverslag
+##### Artikel 19. Uitbrengen jaarverslag
 
 De commissie brengt jaarlijks voor 1 februari aan het bestuur van het Fonds schriftelijk verslag uit van haar werkzaamheden in het voorafgaande kalenderjaar.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Deze verordening treedt na goedkeuring door het bestuur, met ingang van 1 januari 2013 in werking.
 
-#### Artikel 21. Overgangsbepaling
+##### Artikel 21. Overgangsbepaling
 
 Bezwaarschriften die voor het moment van het in werking treden van deze verordening bij het bestuur van het Fonds zijn ingediend en waarop nog niet is beslist, worden behandeld overeenkomstig de bepalingen van deze verordening.
 
-#### Artikel 22. Citeertitel
+##### Artikel 22. Citeertitel
 
 Deze verordening wordt aangehaald als: Verordening commissie bezwaarschriften Stimuleringsfonds Creatieve Industrie.

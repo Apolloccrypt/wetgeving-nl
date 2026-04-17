@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel vergunningen voor geregeld en ongeregeld luchtvervoer"
+title: "Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 12 mei 2014, nr. IENM/BSK-2014/94206, houdende vaststelling van beleidsregels inzake vergunningen voor geregeld en ongeregeld luchtvervoer (Beleidsregel vergunningen voor geregeld en ongeregeld luchtvervoer)"
 identifier: "BWBR0035117"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-09-01
-laatste_update: 2020-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035117"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-09-01"
+last_updated: "2020-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035117"
+soort: "beleidsregel"
+stam_id: "12672023"
+version_id: "21408952"
+internal_id: "C30737611"
+label_id: "12642194"
+dtd_version: "2.0"
+original_entry_into_force: "2014-05-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035117/2020-09-01/0"
+intitule_bron: "Stcrt.2014-13842"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-05-12"
+intitule_published: "2014-05-14"
+intitule_in_force: "2014-05-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-13842"
+original_signed_date: "2014-05-12"
+original_published_date: "2014-05-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-13842"
+entry_into_force_date: "2014-05-15"
+jci_1_3: "jci1.3:c:BWBR0035117&z=2020-09-01&g=2020-09-01"
+jci_1_0: "1.0:c:BWBR0035117&g=2020-09-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel vergunningen voor geregeld en ongeregeld luchtvervoer"
+signed_date: "2014-05-12"
+entry_into_force: "2014-05-15"
 ---
-
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 12 mei 2014, nr. IENM/BSK-2014/94206, houdende vaststelling van beleidsregels inzake vergunningen voor geregeld en ongeregeld luchtvervoer (Beleidsregel vergunningen voor geregeld en ongeregeld luchtvervoer)
 
 Gelet op de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=16) en [16b van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=16b) en [artikel 3 van het Besluit ongeregeld luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002965&artikel=3);
@@ -16,11 +42,11 @@ Besluit:
 
 #### § 1. Vergunningen voor geregeld luchtvervoer
 
-#### Artikel 1
+##### Artikel 1
 
 Op het verlenen van een vergunning als bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=16) en [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=16b) voor het uitvoeren van geregeld luchtvervoer zijn de in deze paragraaf opgenomen beleidsregels van toepassing.
 
-#### Artikel 2
+##### Artikel 2
 
 De aanvraag voor een vergunning voor het uitvoeren van geregeld luchtvervoer door een in Nederland gevestigde EU-luchtvaartmaatschappij voldoet aan de volgende luchtrechtelijke vereisten:
 
@@ -28,7 +54,7 @@ De aanvraag voor een vergunning voor het uitvoeren van geregeld luchtvervoer doo
 
 - b. de EU-luchtvaartmaatschappij voldoet aan de internationaal geldende eisen ten aanzien van de exploitatie en veiligheid en beschikt in dat kader over een vergunning als bedoeld in [artikel 16a van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=16a) en een vergunning als bedoeld in [4.1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=4.1).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het is alleen aan duurzaam in Nederland gevestigde EU-luchtvaartmaatschappijen toegestaan om geregeld luchtvervoer vanuit Nederland uit te voeren op grond van de Nederlandse rechten onder een bilaterale of multilaterale luchtvaartovereenkomst.
 
@@ -42,7 +68,7 @@ De aanvraag voor een vergunning voor het uitvoeren van geregeld luchtvervoer doo
 
 - d. de werkzaamheden gelet op de overige criteria, voor langere tijd plaatsvinden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De vergunningaanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=2&z=2020-09-01&g=2020-09-01) wordt beoordeeld aan de hand van:
 
@@ -62,7 +88,7 @@ De aanvraag voor een vergunning voor het uitvoeren van geregeld luchtvervoer doo
 
 - e. het behoud van de kwaliteit van het netwerk als primair streven.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De vergunningaanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=2&z=2020-09-01&g=2020-09-01) wordt getoetst aan een bij de marktvraag aansluitend frequentiebeleid dat met het oog op gezonde concurrentieverhoudingen wordt gevoerd. In het kader van dat frequentiebeleid wordt capaciteit uitgedrukt in het aantal frequenties, ongeacht het type toestel.
 
@@ -74,13 +100,13 @@ De aanvraag voor een vergunning voor het uitvoeren van geregeld luchtvervoer doo
 
 #### § 2. Vergunningen voor ongeregeld luchtvervoer
 
-#### Artikel 6
+##### Artikel 6
 
 1. Op het verlenen van een vergunning als bedoeld in [artikel 3 van het Besluit ongeregeld luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002965&artikel=3) voor het uitvoeren van ongeregeld luchtvervoer zijn de in deze paragraaf opgenomen beleidsregels van toepassing.
 
 2. [Artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=2&z=2020-09-01&g=2020-09-01), is van overeenkomstige toepassing op het verlenen van een vergunning als bedoeld in het eerste lid.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De vergunning, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=2&artikel=6&z=2020-09-01&g=2020-09-01), wordt verleend aan een niet in Nederland gevestigde EU-luchtvaartmaatschappij, indien Nederland met het land van afkomst van de desbetreffende luchtvaartmaatschappij een reciprociteitsverklaring heeft afgesloten.
 
@@ -96,7 +122,7 @@ De aanvraag voor een vergunning voor het uitvoeren van geregeld luchtvervoer doo
 
 7. In afwijking van het zesde lid wordt een aanvraag van een in Nederland gevestigde EU- luchtvaartmaatschappij voor het uitvoeren van ongeregeld luchtvervoer naar derde landen geheel ten behoeve van vracht toegestaan.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=4&z=2020-09-01&g=2020-09-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=5&z=2020-09-01&g=2020-09-01) zijn van overeenkomstige toepassing op de aanvraag voor een vergunning als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=2&artikel=6&z=2020-09-01&g=2020-09-01) door een niet in de EU gevestigde luchtvaartmaatschappij.
 
@@ -104,7 +130,7 @@ De aanvraag voor een vergunning voor het uitvoeren van geregeld luchtvervoer doo
 
 3. [Artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=1&artikel=2&z=2020-09-01&g=2020-09-01), is van overeenkomstige toepassing op het uitvoeren van zevende vrijheidsvervoer naar, via of vanuit Nederland.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij een gelijktijdige aanvraag voor een geregelde en een ongeregelde dienst waarbij een keuze gemaakt moet worden tussen deze diensten, geniet de geregelde dienst de voorkeur.
 
@@ -116,17 +142,17 @@ De aanvraag voor een vergunning voor het uitvoeren van geregeld luchtvervoer doo
 
 5. Het uitvoeren van vijfde vrijheidsvervoer is niet toegestaan bij combinaties van geregeld en ongeregeld luchtvervoer, tenzij sprake is van vervoer waarbij op de eerste bestemming die de vlucht aandoet een gedeelte van de passagiers uitstapt, dan wel passagiers aan boord worden genomen die eerder op de desbetreffende bestemming zijn afgezet en terugkeren naar hun oorspronkelijke luchthaven van vertrek.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Beleidsregel vergunningen voor geregeld en ongeregeld luchtvervoer.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het geplaatst wordt.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 9a
+##### Artikel 9a
 
 Vervallen
 

@@ -1,20 +1,46 @@
 ---
-title: "Regeling vergunningverlening windenergie op zee kavels III en IV Hollandse Kust (zuid)"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 23 november 2018, nr. WJZ/18199760, houdende nadere regels tot vergunningverlening windenergie op zee voor de kavels III en IV van het windenergiegebied Hollandse Kust (zuid) (Regeling vergunningverlening windenergie op zee kavels III en IV Hollandse Kust (zuid))"
 identifier: "BWBR0041607"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041607"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041607"
+soort: "ministeriele-regeling"
+stam_id: "14888523"
+version_id: "25464002"
+internal_id: "C36338631"
+label_id: "14839874"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041607/2019-01-01/0"
+intitule_bron: "Stcrt.2018-67681"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-11-23"
+intitule_published: "2018-12-03"
+intitule_in_force: "2018-12-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-67681"
+original_signed_date: "2018-11-23"
+original_published_date: "2018-12-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-67681"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041607&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0041607&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vergunningverlening windenergie op zee kavels III en IV Hollandse Kust (zuid)"
+signed_date: "2018-11-23"
+entry_into_force: "2019-01-01"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat van 23 november 2018, nr. WJZ/18199760, houdende nadere regels tot vergunningverlening windenergie op zee voor de kavels III en IV van het windenergiegebied Hollandse Kust (zuid) (Regeling vergunningverlening windenergie op zee kavels III en IV Hollandse Kust (zuid))
 
 Gelet op de [artikelen 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=14), [23, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=23), en [24, derde lid, van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,13 +54,13 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De aanvraag voor een vergunning voor kavel III of kavel IV wordt ingediend in de periode tussen 1 maart 2019 en 14 maart 2019, 17:00 uur.
 
 2. De aanvraag wordt ingediend met gebruikmaking van een middel dat door de Minister beschikbaar wordt gesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het ontwerp voor het windpark, bedoeld in [artikel 23, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=23), omvat ten minste:
 
@@ -128,7 +154,7 @@ In deze regeling wordt verstaan onder:
 
 - d. de meest recent vastgestelde jaarrekening van de aanvrager, de moederonderneming ervan, elk van de deelnemers aan het samenwerkingsverband of hun moederondernemingen, waarbij de jaarrekening betrekking heeft op een jaar dat ten hoogste drie kalenderjaren voor het jaar waarin de aanvraag wordt ingediend.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij de beoordeling van de technische haalbaarheid van de bouw en exploitatie van een windpark wordt in ieder geval rekening gehouden met het door de aanvrager overgelegde ontwerp voor het windpark, bedoeld in [artikel 23, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=23).
 
@@ -146,7 +172,7 @@ In deze regeling wordt verstaan onder:
 
 6. Bij de beoordeling van de economische haalbaarheid van de bouw en exploitatie van een windpark wordt in ieder geval rekening gehouden met de door de aanvrager overgelegde raming van de kosten en opbrengsten, bedoeld in [artikel 23, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=23).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De onderlinge weging van de rangschikkingscriteria, bedoeld in [artikel 24, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24) vindt plaats overeenkomstig de waardering in punten zoals opgenomen in de bijlage waarbij een hoger aantal punten leidt tot een hogere rangschikking.
 
@@ -160,15 +186,15 @@ In deze regeling wordt verstaan onder:
 
 6. Als bij toepassing van het vijfde lid twee of meer aanvragen gelijk als hoogste worden gerangschikt, weegt het criterium, genoemd in [artikel 24, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24), zwaarder dan het criteria, genoemd in artikel 24, tweede lid, onderdeel b, van de wet.
 
-#### Artikel 6
+##### Artikel 6
 
 De kosten voor de behandeling van een aanvraag voor een vergunning als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041607&artikel=2&z=2019-01-01&g=2019-01-01), bedragen € 0.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van 1 januari 2019.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling vergunningverlening windenergie op zee kavels III en IV Hollandse Kust (zuid).
 

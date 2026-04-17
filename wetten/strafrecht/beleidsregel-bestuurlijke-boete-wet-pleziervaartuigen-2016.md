@@ -1,20 +1,43 @@
 ---
-title: "Beleidsregel bestuurlijke boete Wet pleziervaartuigen 2016"
+title: "Beleidsregel van de Minister van Infrastructuur en Waterstaat, kenmerk nr. ILT-2025/3336, over de toepassing van artikel 18 van de Wet pleziervaartuigen 2016 (Beleidsregel bestuurlijke boete Wet pleziervaartuigen 2016)"
 identifier: "BWBR0050783"
-categorie: "Strafrecht"
-publicatiedatum: 2025-02-20
-laatste_update: 2025-02-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050783"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-02-20"
+last_updated: "2025-02-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050783"
+soort: "beleidsregel"
+stam_id: "17369813"
+version_id: "30619572"
+internal_id: "C43886811"
+label_id: "17272744"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050783/2025-02-20/0"
+intitule_bron: "Stcrt.2025-6827"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-02-19"
+intitule_in_force: "2025-02-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-6827"
+original_published_date: "2025-02-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-6827"
+entry_into_force_date: "2025-02-20"
+jci_1_3: "jci1.3:c:BWBR0050783&z=2025-02-20&g=2025-02-20"
+jci_1_0: "1.0:c:BWBR0050783&g=2025-02-20"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel bestuurlijke boete Wet pleziervaartuigen 2016"
+entry_into_force: "2025-02-20"
 ---
-
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat, kenmerk nr. ILT-2025/3336, over de toepassing van artikel 18 van de Wet pleziervaartuigen 2016 (Beleidsregel bestuurlijke boete Wet pleziervaartuigen 2016)
 
 Gelet op [artikel 4:81 eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 18 van de Wet pleziervaartuigen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&artikel=18);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -22,13 +45,13 @@ In deze beleidsregel wordt verstaan onder:
 
 - **wet:** [Wet pleziervaartuigen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037546).
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 1. Deze beleidsregel is van toepassing op alle overtredingen waarvoor op grond van [artikel 18, eerste lid, van de Wet pleziervaartuigen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&artikel=18) een bestuurlijke boete kan worden opgelegd.
 
 2. In de bijlage bij deze beleidsregel staan de normbedragen die als uitgangspunt worden gehanteerd bij het opleggen van een bestuurlijke boete.
 
-#### Artikel 3. Marktdeelnemers
+##### Artikel 3. Marktdeelnemers
 
 1. Het normbedrag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050783&artikel=2&z=2025-02-20&g=2025-02-20), wordt voor marktdeelnemers vermenigvuldigd met de bij de omzetcategorie van de marktdeelnemer behorende factor.
 
@@ -40,11 +63,11 @@ In deze beleidsregel wordt verstaan onder:
 | Omzetcategorie III | Marktdeelnemers met een omzet van ten minste 250.000 maar minder dan 400.000 euro | Factor 0,75 |
 | Omzetcategorie IV | Marktdeelnemers met een omzet van 400.000 euro of meer | Factor 1,0 |
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel bestuurlijke boete Wet pleziervaartuigen 2016.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze wordt geplaatst.
 

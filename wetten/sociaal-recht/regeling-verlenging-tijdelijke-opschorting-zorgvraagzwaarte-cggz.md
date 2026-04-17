@@ -1,13 +1,39 @@
 ---
-title: "Regeling verlenging tijdelijke opschorting zorgvraagzwaarte cGGZ"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 5 maart 2015, kenmerk 721205-132866-MC, houdende Regeling verlenging tijdelijke opschorting zorgvraagzwaarte cGGZ"
 identifier: "BWBR0036398"
-categorie: "Sociaal recht"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036398"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036398"
+soort: "ministeriele-regeling"
+stam_id: "13008643"
+version_id: "22223252"
+internal_id: "C31864271"
+label_id: "12977404"
+dtd_version: "2.0"
+original_entry_into_force: "2015-03-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036398/2016-01-01/0"
+intitule_bron: "Stcrt.2015-6779"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-03-05"
+intitule_published: "2015-03-13"
+intitule_in_force: "2015-03-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-6779"
+original_signed_date: "2015-03-05"
+original_published_date: "2015-03-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-6779"
+entry_into_force_date: "2015-03-14"
+jci_1_3: "jci1.3:c:BWBR0036398&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBR0036398&g=2016-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling verlenging tijdelijke opschorting zorgvraagzwaarte cGGZ"
+signed_date: "2015-03-05"
+entry_into_force: "2015-03-14"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 5 maart 2015, kenmerk 721205-132866-MC, houdende Regeling verlenging tijdelijke opschorting zorgvraagzwaarte cGGZ
 
 Gelet op de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=87) en [88 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=88);
@@ -34,14 +60,14 @@ Overwegende dat een reële termijn voor nadere uitwerking van een gekozen altern
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Regeling zorgverzekering.
 
-#### Artikel II
+##### Artikel II
 
 Vervallen
 
-#### Artikel III
+##### Artikel III
 
 Deze regeling treedt in werking op de dag na de uitgifte van de Staatscourant waarin zij met de bijbehorende toelichting wordt geplaatst en werkt terug tot en met 1 januari 2015.

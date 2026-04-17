@@ -1,13 +1,35 @@
 ---
 title: "Europees Verdrag inzake de adoptie van kinderen (herzien)"
 identifier: "BWBV0003426"
-categorie: "Internationaal recht"
-publicatiedatum: 2012-10-01
-laatste_update: 2012-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003426"
+country: "nl"
+rank: "verdrag"
+publication_date: "2012-10-01"
+last_updated: "2012-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003426"
+soort: "verdrag"
+stam_id: "10003527543"
+version_id: "10003577152"
+internal_id: "C10007987911"
+label_id: "10003513574"
+dtd_version: "2.0"
+original_entry_into_force: "2012-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003426/2012-10-01/0"
+intitule_bron: "Trb.2009-141"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-09-25"
+intitule_in_force: "2012-08-03"
+intitule_status: "goed"
+original_publication: "Trb.2009-141"
+original_published_date: "2009-09-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2009-141"
+entry_into_force_date: "2012-10-01"
+jci_1_3: "jci1.3:c:BWBV0003426&z=2012-10-01&g=2012-10-01"
+jci_1_0: "1.0:c:BWBV0003426&g=2012-10-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2012-10-01"
 ---
-
 # Europees Verdrag inzake de adoptie van kinderen (herzien)
 
 Preambule
@@ -38,29 +60,29 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I. REIKWIJDTE VAN HET VERDRAG EN TOEPASSELIJKHEID VAN DE BEGINSELEN ERVAN
 
-#### Artikel 1. Reikwijdte van het Verdrag
+##### Artikel 1. Reikwijdte van het Verdrag
 
 1. Dit Verdrag is van toepassing op de adoptie van kinderen die op het tijdstip waarop de adoptanten een verzoek indienen om hen te adopteren nog geen 18 jaar zijn, niet gehuwd zijn of zijn geweest, geen geregistreerd partnerschap zijn aangegaan en nog niet meerderjarig zijn.
 
 2. Dit Verdrag heeft slechts betrekking op adopties die volgens de wet een blijvende ouder/kindrelatie tot stand brengen.
 
-#### Artikel 2. Toepassing van beginselen
+##### Artikel 2. Toepassing van beginselen
 
 Elke Staat die Partij is, brengt wetgeving tot stand of treft andere maatregelen die nodig zijn om te waarborgen dat zijn wetgeving voldoet aan de bepalingen van dit Verdrag en stelt de Secretaris-Generaal van de Raad van Europa hiervan in kennis.
 
 ## DEEL II. ALGEMENE BEGINSELEN
 
-#### Artikel 3. Geldigheid van adoptie
+##### Artikel 3. Geldigheid van adoptie
 
 Een adoptie is uitsluitend geldig indien daarvoor toestemming is verkregen van een rechter of van een administratieve autoriteit (hierna te noemen de „bevoegde autoriteit”).
 
-#### Artikel 4. Toestemming voor adoptie
+##### Artikel 4. Toestemming voor adoptie
 
 1. De bevoegde autoriteit geeft uitsluitend toestemming voor adoptie, indien zij zich ervan vergewist heeft dat de belangen van het kind het best gediend zijn met adoptie.
 
 2. In elke zaak hecht de bevoegde autoriteit er in het bijzonder belang aan dat het kind een stabiel en harmonieus thuis krijgt.
 
-#### Artikel 5. Toestemming voor adoptie
+##### Artikel 5. Toestemming voor adoptie
 
 1. Onverminderd hetgeen in het tweede tot en met het vijfde lid van dit artikel is bepaald, wordt een adoptie uitsluitend uitgesproken indien ten minste de toestemming van de volgende personen is verkregen en niet is herroepen:
 
@@ -80,11 +102,11 @@ Een adoptie is uitsluitend geldig indien daarvoor toestemming is verkregen van e
 
 6. Voor de toepassing van dit Verdrag worden onder „vader” en „moeder” verstaan de personen die volgens de wet de ouders van het kind zijn.
 
-#### Artikel 6. Overleg met het kind
+##### Artikel 6. Overleg met het kind
 
 Indien de instemming van het kind ingevolge [artikel 5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=5&z=2012-10-01&g=2012-10-01), niet vereist is, wordt voor zover mogelijk overlegd met het kind en wordt rekening gehouden met zijn opvattingen en wensen, waarbij zijn ontwikkelingspeil in aanmerking wordt genomen. Van dergelijk overleg kan worden afgezien indien dit kennelijk in strijd zou zijn met de belangen van het kind.
 
-#### Artikel 7. Voorwaarden voor adoptie
+##### Artikel 7. Voorwaarden voor adoptie
 
 1. De wet dient te bepalen dat een kind kan worden geadopteerd:
 
@@ -98,7 +120,7 @@ Indien de instemming van het kind ingevolge [artikel 5, eerste en derde lid](htt
 
 2. Het staat Staten vrij de reikwijdte van dit Verdrag uit te breiden tot paren van hetzelfde geslacht die met elkaar gehuwd zijn of een geregistreerd partnerschap met elkaar zijn aangegaan. Het staat hun tevens vrij de reikwijdte van dit Verdrag uit te breiden tot paren van verschillend en hetzelfde geslacht die samenleven in een duurzame relatie.
 
-#### Artikel 8. Mogelijkheid van opeenvolgende adoptie
+##### Artikel 8. Mogelijkheid van opeenvolgende adoptie
 
 De wet mag niet toestaan dat een geadopteerd kind nogmaals geadopteerd wordt, behalve in een of meer van de volgende omstandigheden:
 
@@ -112,7 +134,7 @@ De wet mag niet toestaan dat een geadopteerd kind nogmaals geadopteerd wordt, be
 
 - e. indien opvolgende adoptie op zwaarwegende gronden gerechtvaardigd is en de wet niet toestaat dat de oorspronkelijke adoptie beëindigd wordt.
 
-#### Artikel 9. Minimumleeftijd van de adoptant
+##### Artikel 9. Minimumleeftijd van de adoptant
 
 1. Een kind kan uitsluitend worden geadopteerd indien de adoptant de daartoe wettelijk voorgeschreven minimumleeftijd heeft bereikt die niet lager dan 18 of hoger dan 30 jaar mag zijn. Er dient een passend leeftijdsverschil tussen de adoptant en het kind te zijn van bij voorkeur ten minste 16 jaar, waarbij de belangen van het kind voorop dienen te staan.
 
@@ -122,7 +144,7 @@ De wet mag niet toestaan dat een geadopteerd kind nogmaals geadopteerd wordt, be
 
 - b. vanwege bijzondere omstandigheden.
 
-#### Artikel 10. Voorbereidend onderzoek
+##### Artikel 10. Voorbereidend onderzoek
 
 1. De bevoegde autoriteit geeft geen toestemming voor adoptie voordat adequaat onderzoek naar de adoptant, het kind en zijn familie heeft plaatsgevonden. Tijdens deze onderzoeken en daarna mogen gegevens alleen worden verzameld, verwerkt en doorgegeven volgens de regels inzake beroepsgeheim en de bescherming van persoonsgegevens.
 
@@ -146,7 +168,7 @@ De wet mag niet toestaan dat een geadopteerd kind nogmaals geadopteerd wordt, be
 
 5. Onderzoeken naar de geschiktheid en bevoegdheid van de adoptant, de omstandigheden en de motieven van de betrokkenen en de wenselijkheid van de plaatsing van het kind geschieden voordat het kind ten behoeve van adoptie wordt toevertrouwd aan de zorg van de aspirant-adoptant.
 
-#### Artikel 11. Gevolgen van adoptie
+##### Artikel 11. Gevolgen van adoptie
 
 1. Door adoptie wordt een kind een volwaardig lid van de familie van de adoptant(en) en heeft het jegens de adoptant(en) en zijn, haar of hun familie dezelfde rechten en plichten als een kind van de adoptant(en) van wie het ouderschap wettelijk vaststaat. De adoptant(en) oefent(oefenen) het ouderlijk gezag uit over het kind. De adoptie verbreekt de familierechtelijke betrekkingen tussen het kind en zijn vader, moeder en de familie van herkomst.
 
@@ -156,19 +178,19 @@ De wet mag niet toestaan dat een geadopteerd kind nogmaals geadopteerd wordt, be
 
 4. De Staten die Partij zijn kunnen voorzien in andere adoptievormen met beperktere gevolgen dan die welke zijn vermeld in de voorgaande leden van dit artikel.
 
-#### Artikel 12. Nationaliteit van het geadopteerde kind
+##### Artikel 12. Nationaliteit van het geadopteerde kind
 
 1. De Staten die Partij zijn vergemakkelijken het verkrijgen van hun nationaliteit door kinderen die door een van hun onderdanen zijn geadopteerd.
 
 2. Verlies van nationaliteit dat het gevolg kan zijn van adoptie is afhankelijk van het bezit of de verkrijging van een andere nationaliteit.
 
-#### Artikel 13. Verbod op beperkingen
+##### Artikel 13. Verbod op beperkingen
 
 1. Het aantal kinderen dat door een adoptant mag worden geadopteerd mag niet bij wet worden beperkt.
 
 2. Personen die kinderen hebben of kunnen krijgen, mogen op grond daarvan niet bij wet van de mogelijkheid tot adoptie van kinderen worden uitgesloten.
 
-#### Artikel 14. Herroeping en vernietiging van een adoptie
+##### Artikel 14. Herroeping en vernietiging van een adoptie
 
 1. Uitsluitend de bevoegde autoriteit kan besluiten tot herroeping of vernietiging van een adoptie. De belangen van het kind vormen te allen tijde de voornaamste overweging.
 
@@ -176,35 +198,35 @@ De wet mag niet toestaan dat een geadopteerd kind nogmaals geadopteerd wordt, be
 
 3. Een verzoek om vernietiging dient te worden ingediend binnen een wettelijk voorgeschreven termijn.
 
-#### Artikel 15. Verzoek om informatie van een andere Staat die Partij is
+##### Artikel 15. Verzoek om informatie van een andere Staat die Partij is
 
 Indien de onderzoeken uit hoofde van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=4&z=2012-10-01&g=2012-10-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=10&z=2012-10-01&g=2012-10-01) van dit Verdrag betrekking hebben op een persoon die woont of gewoond heeft op het grondgebied van een andere Staat die Partij is, tracht die Staat die Partij is indien een verzoek om informatie is ingediend, onverwijld te bewerkstelligen dat de verzochte informatie wordt verschaft. Elke Staat wijst een nationale autoriteit aan waaraan verzoeken om informatie dienen te worden gericht.
 
-#### Artikel 16. Procedures tot vaststelling van afstamming
+##### Artikel 16. Procedures tot vaststelling van afstamming
 
 Hangende procedures tot vaststelling van het vaderschap, of, indien een dergelijke procedure bestaat, tot vaststelling van het moederschap, aangespannen door de vermoedelijke biologische vader of moeder, worden adoptieprocedures indien van toepassing, opgeschort in afwachting van de uitkomst van de desbetreffende procedures. De bevoegde autoriteiten betrachten voortvarendheid bij zulke procedures inzake afstamming.
 
-#### Artikel 17. Verbod op ongerechtvaardigd verkregen voordeel
+##### Artikel 17. Verbod op ongerechtvaardigd verkregen voordeel
 
 Niemand mag ongerechtvaardigd financieel of ander voordeel verwerven met activiteiten die verband houden met de adoptie van kinderen.
 
-#### Artikel 18. Gunstiger bepalingen
+##### Artikel 18. Gunstiger bepalingen
 
 Staten die Partij zijn behouden de mogelijkheid bepalingen aan te nemen die gunstiger zijn voor geadopteerde kinderen.
 
-#### Artikel 19. Proefperiode
+##### Artikel 19. Proefperiode
 
 Het staat Staten die Partij zijn vrij voor te schrijven dat een kind moet worden verzorgd door de adoptant gedurende een periode die lang genoeg is voor de bevoegde autoriteit om zich een redelijk beeld te kunnen vormen van hun relatie in de toekomst alvorens toestemming te gegeven voor de adoptie. De belangen van het kind vormen in dit verband te allen tijde de voornaamste overweging.
 
-#### Artikel 20. Voorlichting over en advisering na adoptie
+##### Artikel 20. Voorlichting over en advisering na adoptie
 
 De overheidsinstanties zien erop toe dat voorlichting over adoptie en advisering na adoptie wordt bevorderd en naar behoren functioneert, zodat aspirant-adoptanten, adoptanten en geadopteerde kinderen hulp en advies krijgen.
 
-#### Artikel 21. Scholing
+##### Artikel 21. Scholing
 
 De Staten die Partij zijn zien erop toe dat maatschappelijk werkers die bij adoptie betrokken zijn naar behoren geschoold worden ter zake van de sociale en juridische aspecten van adoptie.
 
-#### Artikel 22. Toegang tot en bekendmaking van informatie
+##### Artikel 22. Toegang tot en bekendmaking van informatie
 
 1. Er kunnen regelingen worden getroffen om een adoptieprocedure te voltooien zonder dat de identiteit van de adoptant wordt bekend gemaakt aan de familie van herkomst van het kind.
 
@@ -220,13 +242,13 @@ De Staten die Partij zijn zien erop toe dat maatschappelijk werkers die bij adop
 
 ## DEEL III. SLOTBEPALINGEN
 
-#### Artikel 23. Gevolgen van het Verdrag
+##### Artikel 23. Gevolgen van het Verdrag
 
 1. Dit Verdrag treedt ten aanzien van de Staten die er Partij bij zijn in de plaats van het Europees Verdrag inzake de adoptie van kinderen, dat op 24 april 1967 werd opengesteld voor ondertekening.
 
 2. In de betrekkingen tussen een Partij bij dit Verdrag en een Partij bij het Verdrag van 1967 die dit Verdrag niet heeft bekrachtigd, blijft artikel 14 van het Verdrag van 1967 van toepassing.
 
-#### Artikel 24. Ondertekening, bekrachtiging en inwerkingtreding
+##### Artikel 24. Ondertekening, bekrachtiging en inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa en de niet-lidstaten die hebben deelgenomen aan de opstelling ervan.
 
@@ -236,13 +258,13 @@ De Staten die Partij zijn zien erop toe dat maatschappelijk werkers die bij adop
 
 4. Ten aanzien van iedere in het eerste lid genoemde Staat die daarna het feit dat hij ermee instemt door dit Verdrag te worden gebonden, tot uitdrukking brengt, treedt het Verdrag in werking op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 25. Toetreding
+##### Artikel 25. Toetreding
 
 1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa, na raadpleging van de Partijen, elke Staat die geen lid is van de Raad van Europa en die niet heeft deelgenomen aan de opstelling van het Verdrag, uitnodigen tot dit Verdrag toe te treden, door een door de meerderheid als voorzien in artikel 20, onderdeel d, van het Statuut van de Raad van Europa genomen besluit en door de unanieme stemming door de vertegenwoordigers van de Verdragsluitende Staten die recht hebben op een zetel in het Comité van Ministers.
 
 2. Ten aanzien van elke toetredende Staat treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 26. Territoriale toepassing
+##### Artikel 26. Territoriale toepassing
 
 1. Elke Staat kan, op het tijdstip van ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het gebied of de gebieden waarop dit Verdrag van toepassing is nader aanduiden.
 
@@ -250,7 +272,7 @@ De Staten die Partij zijn zien erop toe dat maatschappelijk werkers die bij adop
 
 3. Iedere krachtens de twee voorgaande leden gedane verklaring kan, met betrekking tot elk in die verklaring nader aangeduid grondgebied, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 27. Voorbehouden
+##### Artikel 27. Voorbehouden
 
 1. Voorbehouden op dit Verdrag zijn niet toegestaan, behalve ter zake van de bepalingen van [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=5&z=2012-10-01&g=2012-10-01), [artikel 7, eerste lid, onderdeel a, onder ii, en eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=7&z=2012-10-01&g=2012-10-01), en [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=22&z=2012-10-01&g=2012-10-01).
 
@@ -258,17 +280,17 @@ De Staten die Partij zijn zien erop toe dat maatschappelijk werkers die bij adop
 
 3. Elke Staat kan een krachtens het eerste lid gemaakt voorbehoud geheel of gedeeltelijk intrekken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring, welke van kracht wordt op de datum van ontvangst ervan.
 
-#### Artikel 28. Kennisgeving omtrent de bevoegde autoriteiten
+##### Artikel 28. Kennisgeving omtrent de bevoegde autoriteiten
 
 Elke Staat die Partij is stelt de Secretaris-Generaal van de Raad van Europa in kennis van de naam en het adres van de autoriteit waaraan verzoeken uit hoofde van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003426&deel=II&artikel=15&z=2012-10-01&g=2012-10-01) gericht kunnen worden.
 
-#### Artikel 29. Opzegging
+##### Artikel 29. Opzegging
 
 1. Iedere Staat die Partij is kan dit Verdrag te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
 2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 30. Kennisgevingen
+##### Artikel 30. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, de niet-lidstaten die hebben deelgenomen aan de opstelling van dit Verdrag alsmede elke Staat die Partij is en elke Staat die is uitgenodigd tot dit Verdrag toe te treden, in kennis van:
 

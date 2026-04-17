@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel controlebeleid Dienst Uitvoering Onderwijs (uitwonend zijn van studerenden met een toelage ex artikel 11.5 Wet studiefinanciering 2000)"
+title: "Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 17 december 2009, nr. HO&S/BS/2009/178032, inzake het controlebeleid Dienst Uitvoering Onderwijs op het uitwonend zijn van studerenden met een toelage ingevolge de Wet studiefinanciering 2000 op grond van artikel 11.5 Wet studiefinanciering 2000"
 identifier: "BWBR0027009"
-categorie: "Onderwijs"
-publicatiedatum: 2009-12-31
-laatste_update: 2009-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027009"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2009-12-31"
+last_updated: "2009-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027009"
+soort: "beleidsregel"
+stam_id: "10364523"
+version_id: "17026992"
+internal_id: "C23481581"
+label_id: "10339604"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027009/2009-12-31/0"
+intitule_bron: "Stcrt.2009-20688"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-17"
+intitule_published: "2009-12-31"
+intitule_in_force: "2009-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-20688"
+original_signed_date: "2009-12-17"
+original_published_date: "2009-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-20688"
+entry_into_force_date: "2009-12-31"
+jci_1_3: "jci1.3:c:BWBR0027009&z=2009-12-31&g=2009-12-31"
+jci_1_0: "1.0:c:BWBR0027009&g=2009-12-31"
+citeertitel_status: "redactioneel"
+short_title: "Beleidsregel controlebeleid Dienst Uitvoering Onderwijs (uitwonend zijn van studerenden met een toelage ex artikel 11.5 Wet studiefinanciering 2000)"
+signed_date: "2009-12-17"
+entry_into_force: "2009-12-31"
 ---
-
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 17 december 2009, nr. HO&S/BS/2009/178032, inzake het controlebeleid Dienst Uitvoering Onderwijs op het uitwonend zijn van studerenden met een toelage ingevolge de Wet studiefinanciering 2000 op grond van artikel 11.5 Wet studiefinanciering 2000
 
 ### Inhoud maatregel

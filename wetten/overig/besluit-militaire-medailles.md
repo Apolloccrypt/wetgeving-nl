@@ -1,13 +1,35 @@
 ---
-title: "Besluit militaire medailles"
+title: "Besluit van 25 januari 1951, houdende bepalingen voor toekenning van onderscheidingen voor langdurige trouwe dienst aan beroepsmilitairen beneden de rang van tweede-luitenant, behorende tot de Koninklijke landmacht"
 identifier: "BWBR0002070"
-categorie: "Overig"
-publicatiedatum: 2018-07-18
-laatste_update: 2018-07-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002070"
+country: "nl"
+rank: "kb"
+publication_date: "2018-07-18"
+last_updated: "2018-07-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002070"
+soort: "KB"
+stam_id: "717403"
+version_id: "1045662"
+internal_id: "C1045661"
+label_id: "695224"
+dtd_version: "2.0"
+original_entry_into_force: "1951-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002070/2018-07-18/0"
+intitule_bron: "Stb.1951-30"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1951-01-25"
+intitule_status: "goed"
+original_publication: "Stb.1951-30"
+original_signed_date: "1951-01-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1951-03-01"
+jci_1_3: "jci1.3:c:BWBR0002070&z=2018-07-18&g=2018-07-18"
+jci_1_0: "1.0:c:BWBR0002070&g=2018-07-18"
+citeertitel_status: "officieel"
+short_title: "Besluit militaire medailles"
+signed_date: "1951-01-25"
+entry_into_force: "1951-03-01"
 ---
-
 # Besluit van 25 januari 1951, houdende bepalingen voor toekenning van onderscheidingen voor langdurige trouwe dienst aan beroepsmilitairen beneden de rang van tweede-luitenant, behorende tot de Koninklijke landmacht
 
 Op de voordracht van Onze Minister van Oorlog van 20 Januari 1951, Directoraat Personeel, Afdeling A 1, bureau 2, Nr. 180417;
@@ -18,7 +40,7 @@ Op de voordracht van Onze Minister van Oorlog van 20 Januari 1951, Directoraat P
 
 **Hebben goedgevonden en verstaan:**
 
-#### Artikel 1
+##### Artikel 1
 
 1. Na het volbrengen van een eerlijke en trouwe dienst wordt een onderscheiding uitgereikt aan:
 
@@ -38,7 +60,7 @@ Op de voordracht van Onze Minister van Oorlog van 20 Januari 1951, Directoraat P
 
 4. De medaille wordt gedragen op een lint van oranje moiré zijde van 27 millimeter breed, dat in opgemaakte vorm 40 millimeter breed is.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de toekenning van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2018-07-18&g=2018-07-18) bedoelde medailles worden voorts vereist, zodanig goed gedrag en zodanig goede plichtsbetrachting gedurende de diensttijd of de aanstelling, als onder eerlijke en trouwe dienst behoort te worden verstaan.
 
@@ -46,15 +68,15 @@ Op de voordracht van Onze Minister van Oorlog van 20 Januari 1951, Directoraat P
 
 3. Aan de tot het beroepspersoneel der Koninklijke landmacht of der Koninklijke luchtmacht behorende militair beneden de rang van tweede-luitenant, die reeds in het bezit is van een hem op grond van de voor militairen van het voormalig Koninklijk Nederlands Indonesisch Leger geldende voorschriften toegekende zilveren medaille, wordt de zilveren medaille, waarop ingevolge dit besluit recht zou bestaan, niet toegekend.
 
-#### Artikel 3
+##### Artikel 3
 
 Van alle medailles wordt het oorspronkelijk toegekende exemplaar kosteloos aan de belanghebbende verstrekt, met dien verstande, dat in de plaats van een gouden- een verguld zilveren medaille wordt verstrekt.
 
-#### Artikel 4
+##### Artikel 4
 
 De medailles worden uitgereikt op een wijze, waaruit de waardering voor de bewezen diensten duidelijk blijkt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij toekenning van de zilveren en de gouden medaille mogen respectievelijk de eerder toegekende bronzen en zilveren medaille niet meer worden gedragen.
 
@@ -62,7 +84,7 @@ De medailles worden uitgereikt op een wijze, waaruit de waardering voor de bewez
 
 3. Bij diens overlijden gaan zij in eigendom over op de erven.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij toekenning van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2018-07-18&g=2018-07-18) bedoelde medailles wordt aan de begiftigde tevens een brevet uitgereikt, waaruit de toekenning blijkt.
 
@@ -70,15 +92,15 @@ De medailles worden uitgereikt op een wijze, waaruit de waardering voor de bewez
 
 3. Bij diens overlijden gaan zij in eigendom over op de erven.
 
-#### Artikel 7
+##### Artikel 7
 
 Het is de begiftigde vergund de medaille in verkleinde vorm te dragen in alle gevallen, waarbij het dragen van de model medaille niet verplicht is.
 
-#### Artikel 8
+##### Artikel 8
 
 Na ontslag uit de militaire dienst of na beëindiging van de aanstelling blijft de begiftigde gerechtigd tot het dragen van de hem laatstelijk toegekende model medaille, c.q. van de medaille in verkleinde vorm.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het berekenen van de diensttijd tot het verkrijgen van de in [artikel 1 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2018-07-18&g=2018-07-18) bedoelde medailles geschiedt, behoudens de leden 2 tot en met 4 van dit artikel, overeenkomstig het berekenen van de diensttijd tot het verkrijgen van pensioen ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen inzake voor pensioen geldige diensttijd, met dien verstande dat:
 
@@ -96,7 +118,7 @@ Met betrekking tot de vaststelling van de in [artikel 1, tweede lid, onder b, re
 
 5. De tijd doorgebracht als reservist als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2018-07-18&g=2018-07-18) wordt – indien deze tijd niet reeds wordt vergolden op grond van het eerste lid – meegeteld op de in het eerste lid aangegeven wijze, als ware die tijd diensttijd tot het verkrijgen van pensioen krachtens de bepalingen van de Algemene militaire pensioenwet.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002070&artikel=1&z=2018-07-18&g=2018-07-18) toegekende of laatstelijk toegekende medailles, alsmede het daarbij uitgereikte brevet, worden verbeurd:
 
@@ -112,23 +134,23 @@ Met betrekking tot de vaststelling van de in [artikel 1, tweede lid, onder b, re
 
 3. Bij het verbeuren van de medaille wordt het daarbij uitgereikte brevet vernietigd.
 
-#### Artikel 11
+##### Artikel 11
 
 Aan hen, die op of nà 5 September 1944 zijn herplaatst als beroepsmilitair der Koninklijke landmacht beneden de rang van tweede-luitenant, doch vóór de inwerkingtreding van dit besluit wederom eervol uit de militaire dienst zijn ontslagen, kan, indien zij in verband met de wijze, waarop hun diensttijd volgens de bepalingen van het Koninklijk besluit van 18 Februari 1904, nr. 30, werd berekend, niet voor toekenning van een medaille in aanmerking zijn gekomen, alsnog een medaille als bedoeld in dit besluit, worden toegekend, indien zij daarvoor naar het oordeel van Onze Minister van Defensie in aanmerking komen.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit kan worden aangehaald als "Besluit militaire medailles".
 
-#### Artikel 13
+##### Artikel 13
 
 Het Koninklijk besluit van 18 Februari 1904, nr. 30, wordt ingetrokken.
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 

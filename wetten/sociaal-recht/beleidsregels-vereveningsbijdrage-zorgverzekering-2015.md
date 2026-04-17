@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregels vereveningsbijdrage zorgverzekering 2015"
 identifier: "BWBR0036586"
-categorie: "Sociaal recht"
-publicatiedatum: 2015-05-06
-laatste_update: 2015-05-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036586"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-05-06"
+last_updated: "2015-05-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036586"
+soort: "zbo"
+stam_id: "13149613"
+version_id: "22413552"
+internal_id: "C32161281"
+label_id: "13118724"
+dtd_version: "2.0"
+original_entry_into_force: "2015-05-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036586/2015-05-06/0"
+intitule_bron: "Stcrt.2015-12203"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-05-04"
+intitule_in_force: "2015-05-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-12203"
+original_published_date: "2015-05-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-12203"
+entry_into_force_date: "2015-05-06"
+jci_1_3: "jci1.3:c:BWBR0036586&z=2015-05-06&g=2015-05-06"
+jci_1_0: "1.0:c:BWBR0036586&g=2015-05-06"
+citeertitel_status: "officieel"
+entry_into_force: "2015-05-06"
 ---
-
 # Beleidsregels vereveningsbijdrage zorgverzekering 2015
 
 Gelet op de [artikelen 32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), [34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34) en [artikel 90 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=90), [Hoofdstuk 3 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3), de [Regeling risicoverevening 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036251) en de brief van de minister van VWS van 7 oktober 2014, kenmerk 671602-126798-Z,
@@ -16,7 +38,7 @@ Heeft in zijn vergadering van 16 maart 2015 besloten:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Deze beleidsregels verstaan onder:
 
@@ -44,17 +66,17 @@ Deze beleidsregels verstaan onder:
 
 - l. **Regeling:** [Regeling risicoverevening 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036251)
 
-#### Artikel 2. Algemene bepaling
+##### Artikel 2. Algemene bepaling
 
 Het Zorginstituut past de bepalingen uit het [Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492) en de [Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036251) met betrekking tot de toekenning en vaststelling van de bijdrage aan de zorgverzekeraars toe met inachtneming van het bepaalde in deze beleidsregels.
 
-#### Artikel 3. Zorgverzekeraars
+##### Artikel 3. Zorgverzekeraars
 
 Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2015 en de berekening van de normatieve bedragen en de vereveningsbijdragen ervan uit dat alle zorgverzekeraars die gedurende 2014 actief zijn geweest ook in 2015 als zorgverzekeraar actief zullen zijn.
 
 ### Hoofdstuk II. Toekenning van de vereveningsbijdrage 2015 aan een zorgverzekeraar
 
-#### Artikel 4. Raming van de verzekerdenaantallen 2015 voor het macro-deelbedrag variabele zorgkosten en voor het macro-deelbedrag kosten van verpleging en verzorging
+##### Artikel 4. Raming van de verzekerdenaantallen 2015 voor het macro-deelbedrag variabele zorgkosten en voor het macro-deelbedrag kosten van verpleging en verzorging
 
 1. Het Zorginstituut raamt de verzekerdenaantallen 2015 voor het macro-deelbedrag variabele zorgkosten en voor het macro-deelbedrag kosten van verpleging en verzorging per criterium met inachtneming van het bepaalde in dit artikel.
 
@@ -226,7 +248,7 @@ ten slotte: referentiegroep, alle verzekerden omvattend die niet zijn ingedeeld 
 
 43. Het Zorginstituut deelt verzekerden woonachtig in het buitenland uitsluitend in bij de criteria leeftijd en geslacht, FKG’s, DKG’s, HKG’s, aard van het inkomen, MHK en GSM. Overeenkomstig [artikel 7 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036251&artikel=7) deelt het Zorginstituut alle verzekerden woonachtig in het buitenland voor het criterium FKG’s in in de klasse 'Geen FKG', voor het criterium DKG’s in de klasse '0’ en voor het criterium HKG’s in de klasse ‘Geen HKG’.
 
-#### Artikel 5. Raming van de verzekerdenaantallen 2015 voor het macro-deelbedrag geneeskundige geestelijke gezondheidszorg
+##### Artikel 5. Raming van de verzekerdenaantallen 2015 voor het macro-deelbedrag geneeskundige geestelijke gezondheidszorg
 
 1. Het Zorginstituut raamt de verzekerdenaantallen 2015 voor het macro-deelbedrag geneeskundige geestelijke gezondheidszorg met inachtneming van het bepaalde in dit artikel.
 
@@ -354,7 +376,7 @@ ten slotte: referentiegroep, alle verzekerden omvattend die niet zijn ingedeeld 
 
 37. Het Zorginstituut deelt verzekerden woonachtig in het buitenland van achttien jaar en ouder uitsluitend in bij de criteria leeftijd en geslacht, FKG GGZ, DKG GGZ, GGZ-MHK en aard van het inkomen. Overeenkomstig [artikel 7 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036251&artikel=7) deelt het Zorginstituut alle verzekerden woonachtig in het buitenland voor het criterium FKG GGZ in in de klasse 'Geen FKG psychische aandoeningen' en voor het criterium DKG GGZ in de klasse ‘0’.
 
-#### Artikel 6. Raming van de verzekerdenaantallen 2015 voor de normatieve eigen risico opbrengst
+##### Artikel 6. Raming van de verzekerdenaantallen 2015 voor de normatieve eigen risico opbrengst
 
 1. Het Zorginstituut raamt de verzekerdenaantallen 2015 voor de normatieve eigen risico opbrengst per criterium met inachtneming van het bepaalde in dit artikel.
 
@@ -398,7 +420,7 @@ ten slotte: referentiegroep, alle verzekerden omvattend die niet zijn ingedeeld 
 
 15. Het Zorginstituut deelt het geraamde aantal verzekerden woonachtig in het buitenland van achttien jaar en ouder dat zowel in de FKG klasse ‘Geen FKG’, als in de DKG klasse ‘0’ en in de MHK klasse ‘Geen MHK’ valt, uitsluitend in bij de criteria leeftijd en geslacht en aard van het inkomen.
 
-#### Artikel 7. De verdeling van het macro-deelbedrag variabele zorgkosten en de berekening van het deelbedrag variabele zorgkosten
+##### Artikel 7. De verdeling van het macro-deelbedrag variabele zorgkosten en de berekening van het deelbedrag variabele zorgkosten
 
 1. Voor de verdeling van het macro-deelbedrag variabele zorgkosten hanteert het Zorginstituut de volgende gewichten als uitgangspunten:
 
@@ -446,7 +468,7 @@ ten slotte: referentiegroep, alle verzekerden omvattend die niet zijn ingedeeld 
 
 11. Het resultaat van het tiende lid wordt aangeduid als het deelbedrag variabele zorgkosten 2015.
 
-#### Artikel 8. De verdeling van het macro-deelbedrag vaste zorgkosten en de berekening van het deelbedrag vaste zorgkosten
+##### Artikel 8. De verdeling van het macro-deelbedrag vaste zorgkosten en de berekening van het deelbedrag vaste zorgkosten
 
 1. Het Zorginstituut bepaalt het deelbedrag vaste zorgkosten 2015 als volgt:
 
@@ -464,7 +486,7 @@ ten slotte: referentiegroep, alle verzekerden omvattend die niet zijn ingedeeld 
 
 4. Het resultaat van het derde lid wordt aangeduid als het deelbedrag vaste zorgkosten 2015.
 
-#### Artikel 9. De verdeling van het macro-deelbedrag kosten van verpleging en verzorging en de berekening van het deelbedrag verpleging en verzorging
+##### Artikel 9. De verdeling van het macro-deelbedrag kosten van verpleging en verzorging en de berekening van het deelbedrag verpleging en verzorging
 
 1. Voor de verdeling van het macro-deelbedrag verpleging en verzorging hanteert het Zorginstituut als uitgangspunten:
 
@@ -482,7 +504,7 @@ ten slotte: referentiegroep, alle verzekerden omvattend die niet zijn ingedeeld 
 
 5. Het resultaat van het vierde lid wordt aangeduid als deelbedrag kosten van verpleging en verzorging 2015.
 
-#### Artikel 10. De verdeling van het macro-deelbedrag geneeskundige geestelijke gezondheidszorg en de berekening van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg
+##### Artikel 10. De verdeling van het macro-deelbedrag geneeskundige geestelijke gezondheidszorg en de berekening van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg
 
 1. Voor de verdeling van het macro-deelbedrag geneeskundige geestelijke gezondheidszorg hanteert het Zorginstituut als uitgangspunten:
 
@@ -524,7 +546,7 @@ ten slotte: referentiegroep, alle verzekerden omvattend die niet zijn ingedeeld 
 
 10. Het resultaat van het negende lid wordt aangeduid als het deelbedrag geneeskundige geestelijke gezondheidszorg 2015.
 
-#### Artikel 11. De berekening van de normatieve eigen risico opbrengst
+##### Artikel 11. De berekening van de normatieve eigen risico opbrengst
 
 1. Het Zorginstituut berekent de normatieve eigen risico opbrengst 2015 voor verzekerden van achttien jaar en ouder dat niet zowel in de FKG klasse ‘Geen FKG’, als in de DKG klasse ‘0’ en in de MHK klasse ‘Geen MHK’ valt, per zorgverzekeraar door het aantal verzekerden van achttien jaar en ouder dat niet zowel in de FKG klasse ‘Geen FKG’, als in de DKG klasse ‘0’ en in de MHK klasse ‘Geen MHK’ valt, zoals bepaald op grond van [artikel 6, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=II&artikel=6&z=2015-05-06&g=2015-05-06) te vermenigvuldigen met een bedrag van EUR 356,36 per verzekerde.
 
@@ -548,7 +570,7 @@ ten slotte: referentiegroep, alle verzekerden omvattend die niet zijn ingedeeld 
 
 8. De totale normatieve eigen risico opbrengst per zorgverzekeraar is de som van het resultaat van het tweede en het zevende lid.
 
-#### Artikel 12. De berekening van het normatieve bedrag en de berekening en toekenning van de vereveningsbijdrage
+##### Artikel 12. De berekening van het normatieve bedrag en de berekening en toekenning van de vereveningsbijdrage
 
 1. Het Zorginstituut berekent het normatieve bedrag 2015 van een zorgverzekeraar als de som van het op grond van het in dit hoofdstuk berekende deelbedrag variabele zorgkosten 2015, het deelbedrag vaste zorgkosten 2015, het deelbedrag verpleging en verzorging 2015 en het deelbedrag geneeskundige geestelijke gezondheidszorg 2015.
 
@@ -562,11 +584,11 @@ ten slotte: referentiegroep, alle verzekerden omvattend die niet zijn ingedeeld 
 
 6. Het Zorginstituut kent de vereveningsbijdrage 2015 ter hoogte van de bijdrage berekend in het vierde lid, aangevuld met het bedrag, berekend in het vijfde lid, aan de zorgverzekeraar toe.
 
-#### Artikel 13. Herberekeningen als gevolg van splitsing van de zorgverzekeraar
+##### Artikel 13. Herberekeningen als gevolg van splitsing van de zorgverzekeraar
 
 Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2015 besluit zich te splitsen, deelt de zorgverzekeraar aan het Zorginstituut mee hoe naar zijn verwachting de geraamde verzekerdenaantallen 2015 verdeeld zullen worden, over nieuwe dan wel bestaande zorgverzekeraars. Het Zorginstituut kan de toegekende vereveningsbijdrage herzien en de bijdragen aan nieuwe dan wel bestaande zorgverzekeraars toekennen, rekening houdend met de meegedeelde geraamde verzekerdenaantallen en het tijdstip waarop de splitsing wordt gerealiseerd.
 
-#### Artikel 14. De herberekening en herziening van de toegekende bijdrage 2015
+##### Artikel 14. De herberekening en herziening van de toegekende bijdrage 2015
 
 1. Het Zorginstituut herberekent de toekenning van de vereveningsbijdrage op basis van de werkelijke verzekerdenaantallen 2015 volgens de opgaven van de zorgverzekeraars aan het Zorginstituut op 7 maart 2015.
 
@@ -578,7 +600,7 @@ het Zorginstituut deelt per zorgverzekeraar het totaal aantal verzekerden uit de
 
 ### Hoofdstuk III. De eerste voorlopige vaststelling van de vereveningsbijdrage voor een zorgverzekeraar
 
-#### Artikel 15. Bepaling van de verzekerdenaantallen 2015 voor het deelbedrag variabele zorgkosten en voor het deelbedrag verpleging en verzorging
+##### Artikel 15. Bepaling van de verzekerdenaantallen 2015 voor het deelbedrag variabele zorgkosten en voor het deelbedrag verpleging en verzorging
 
 1. Het Zorginstituut bepaalt de verzekerdenaantallen 2015 voor het deelbedrag variabele zorgkosten en voor het deelbedrag kosten van verpleging en verzorging per criterium met inachtneming van het bepaalde in dit artikel.
 
@@ -710,7 +732,7 @@ het Zorginstituut deelt per zorgverzekeraar het totaal aantal verzekerden uit de
 
 28. Het Zorginstituut deelt verzekerden woonachtig in het buitenland uitsluitend in bij de criteria leeftijd en geslacht, FKG’s, DKG’s, HKG’s, aard van het inkomen, MHK en GSM. Overeenkomstig [artikel 7 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036251&artikel=7) deelt het Zorginstituut alle verzekerden woonachtig in het buitenland voor het criterium FKG’s in in de klasse 'Geen FKG', voor het criterium DKG’s in de klasse ‘0' en voor het criterium HKG’s in de klasse ‘Geen HKG’.
 
-#### Artikel 16. Bepaling van de verzekerdenaantallen 2015 voor het deelbedrag geneeskundige geestelijke gezondheidszorg
+##### Artikel 16. Bepaling van de verzekerdenaantallen 2015 voor het deelbedrag geneeskundige geestelijke gezondheidszorg
 
 1. Het Zorginstituut bepaalt de verzekerdenaantallen 2015 voor het deelbedrag geneeskundige geestelijke gezondheidszorg met inachtneming van het bepaalde in dit artikel.
 
@@ -828,7 +850,7 @@ het Zorginstituut deelt per zorgverzekeraar het totaal aantal verzekerden uit de
 
 26. Het Zorginstituut deelt verzekerden woonachtig in het buitenland van achttien jaar en ouder uitsluitend in bij de criteria leeftijd en geslacht, FKG GGZ, DKG GGZ, aard van het inkomen en GGZ-MHK. Overeenkomstig [artikel 7 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036251&artikel=7) deelt het Zorginstituut alle verzekerden woonachtig in het buitenland voor het criterium FKG GGZ in in de klasse 'Geen FKG psychische aandoeningen' en voor het criterium DKG GGZ in de klasse ‘0’.
 
-#### Artikel 17. Bepaling van de verzekerdenaantallen 2015 voor de normatieve eigen risico opbrengst
+##### Artikel 17. Bepaling van de verzekerdenaantallen 2015 voor de normatieve eigen risico opbrengst
 
 1. Het Zorginstituut bepaalt de verzekerdenaantallen 2015 voor de normatieve eigen risico opbrengst per criterium met inachtneming van het bepaalde in dit artikel.
 
@@ -874,7 +896,7 @@ het Zorginstituut deelt per zorgverzekeraar het totaal aantal verzekerden uit de
 
 11. Het Zorginstituut deelt verzekerden woonachtig in het buitenland van achttien jaar en ouder uitsluitend in bij de criteria leeftijd en geslacht en aard van het inkomen.
 
-#### Artikel 18. De voorlopige herberekening van het deelbedrag variabele zorgkosten 2015
+##### Artikel 18. De voorlopige herberekening van het deelbedrag variabele zorgkosten 2015
 
 1. Op basis van de opgave jaarstaat 2015 per 1 mei 2016 en met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036251&artikel=12) en [14 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036251&artikel=14) bepaalt het Zorginstituut de variabele zorgkosten 2015 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -900,7 +922,7 @@ het Zorginstituut deelt per zorgverzekeraar het totaal aantal verzekerden uit de
 
 12. Het Zorginstituut vermindert per zorgverzekeraar het product voor die zorgverzekeraar, berekend in het negende lid, met het product voor die zorgverzekeraar, berekend in het elfde lid. Het resultaat wordt aangeduid als het voorlopige herberekende deelbedrag variabele zorgkosten 2015.
 
-#### Artikel 19. De voorlopige herberekening van het deelbedrag vaste zorgkosten 2015
+##### Artikel 19. De voorlopige herberekening van het deelbedrag vaste zorgkosten 2015
 
 1. Op basis van de opgave jaarstaat 2015 per 1 mei 2016 en met inachtneming van [artikel 15 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036251&artikel=15) bepaalt het Zorginstituut de vaste zorgkosten 2015 voor iedere zorgverzekeraar afzonderlijk.
 
@@ -914,7 +936,7 @@ het Zorginstituut deelt per zorgverzekeraar het totaal aantal verzekerden uit de
 
 4. De som van het resultaat van het tweede en het derde lid wordt aangeduid als het voorlopige herberekende deelbedrag vaste zorgkosten 2015.
 
-#### Artikel 20. De voorlopige herberekening van het deelbedrag verpleging en verzorging 2015
+##### Artikel 20. De voorlopige herberekening van het deelbedrag verpleging en verzorging 2015
 
 1. Op basis van de opgave jaarstaat 2015 per 1 mei 2016 en met inachtneming van [artikel 12 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036251&artikel=12), bepaalt het Zorginstituut de kosten van verpleging en verzorging 2015 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -932,7 +954,7 @@ het Zorginstituut deelt per zorgverzekeraar het totaal aantal verzekerden uit de
 
 8. Het Zorginstituut vermindert per zorgverzekeraar het product voor die zorgverzekeraar berekend in het vijfde lid met het product voor die zorgverzekeraar berekend in het zevende lid. Het resultaat wordt aangeduid als het voorlopige herberekende deelbedrag kosten van verpleging en verzorging 2015.
 
-#### Artikel 21. De voorlopige herberekening van het deelbedrag kosten geneeskundige geestelijke gezondheidszorg 2015
+##### Artikel 21. De voorlopige herberekening van het deelbedrag kosten geneeskundige geestelijke gezondheidszorg 2015
 
 1. Op basis van de opgave jaarstaat 2015 per 1 mei 2016 en met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036251&artikel=12) en [13 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036251&artikel=13), bepaalt het Zorginstituut de kosten van geneeskundige geestelijke gezondheidszorg 2015 voor verzekerden van achttien jaar en ouder voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -952,7 +974,7 @@ het Zorginstituut deelt per zorgverzekeraar het totaal aantal verzekerden uit de
 
 9. Het Zorginstituut vermindert per zorgverzekeraar het product voor die zorgverzekeraar berekend in het zesde lid met het product voor die zorgverzekeraar berekend in het achtste lid. Het resultaat wordt aangeduid als het voorlopige herberekende deelbedrag kosten van de geneeskundige geestelijke gezondheidszorg 2015.
 
-#### Artikel 22. De voorlopige herberekening van de normatieve opbrengst van het eigen risico 2015
+##### Artikel 22. De voorlopige herberekening van de normatieve opbrengst van het eigen risico 2015
 
 1. Uitgangspunt voor de herberekening van de normatieve opbrengst van het eigen risico zijn de opgaven, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=III&artikel=17&z=2015-05-06&g=2015-05-06), van de verzekerdenaantallen van de zorgverzekeraar.
 
@@ -960,7 +982,7 @@ het Zorginstituut deelt per zorgverzekeraar het totaal aantal verzekerden uit de
 
 3. In afwijking van het tweede lid bepaalt het Zorginstituut de gederfde inkomsten voor verzekerden van achttien jaar en ouder voor wie op grond van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen, op basis van de opgave jaarstaat 2015 per 1 mei 2016.
 
-#### Artikel 23. De voorlopige herberekening van het normatieve bedrag 2015 en de voorlopige herberekening en voorlopige vaststelling van de vereveningsbijdrage 2015
+##### Artikel 23. De voorlopige herberekening van het normatieve bedrag 2015 en de voorlopige herberekening en voorlopige vaststelling van de vereveningsbijdrage 2015
 
 1. Het Zorginstituut herberekent het normatieve bedrag 2015 voorlopig als de som van het voorlopige herberekende deelbedrag variabele zorgkosten 2015, het voorlopige herberekende deelbedrag vaste zorgkosten 2015, het voorlopig herberekende deelbedrag verpleging en verzorging 2015 en het voorlopig herberekende deelbedrag geneeskundige geestelijke gezondheidszorg 2015.
 
@@ -996,11 +1018,11 @@ het Zorginstituut deelt per zorgverzekeraar het totaal aantal verzekerden uit de
 
 ### Hoofdstuk IV. De tweede voorlopige vaststelling van de vereveningsbijdrage 2015 voor een zorgverzekeraar
 
-#### Artikel 24. Algemene bepaling
+##### Artikel 24. Algemene bepaling
 
 Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopig met inachtneming van de kosten 2015 uit de opgave jaarstaat 2017 per 1 mei 2018 en de correcties die de Nederlandse Zorgautoriteit heeft toegepast.
 
-#### Artikel 25. Bepaling van de verzekerdenaantallen 2015
+##### Artikel 25. Bepaling van de verzekerdenaantallen 2015
 
 1. Het Zorginstituut betrekt de correcties die de Nederlandse Zorgautoriteit heeft toegepast over 2015 bij de verzekerdenaantallen, zoals berekend op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=III&artikel=15&z=2015-05-06&g=2015-05-06), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=III&artikel=16&z=2015-05-06&g=2015-05-06) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=III&artikel=17&z=2015-05-06&g=2015-05-06).
 
@@ -1010,7 +1032,7 @@ Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopi
 
 4. Voor het criterium GGZ-MHK betrekt het Zorginstituut bij de verzekerdenaantallen de declaraties 2014 per gepseudonimiseerd burgerservicenummer voor het deelbedrag GGZ kosten tot en met 31 december 2016, zoals zorgverzekeraars die op 1 mei 2017 bij het Zorginstituut hebben aangeleverd.
 
-#### Artikel 26. De tweede voorlopige herberekening van het deelbedrag variabele zorgkosten 2015
+##### Artikel 26. De tweede voorlopige herberekening van het deelbedrag variabele zorgkosten 2015
 
 1. Het Zorginstituut bepaalt met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036251&artikel=12) en [14 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036251&artikel=14), de variabele zorgkosten 2015 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -1036,11 +1058,11 @@ Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopi
 
 12. Het Zorginstituut vermindert per zorgverzekeraar het product voor die zorgverzekeraar berekend in het negende lid met het product voor die zorgverzekeraar berekend in het elfde lid. Het resultaat wordt aangeduid als het tweede voorlopige herberekende deelbedrag variabele zorgkosten 2015.
 
-#### Artikel 27. De tweede voorlopige herberekening van het deelbedrag vaste zorgkosten 2015
+##### Artikel 27. De tweede voorlopige herberekening van het deelbedrag vaste zorgkosten 2015
 
 Het Zorginstituut herberekent voor de tweede keer voorlopig het deelbedrag vaste zorgkosten 2015 overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=III&artikel=19&z=2015-05-06&g=2015-05-06), met inachtneming van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=IV&artikel=24&z=2015-05-06&g=2015-05-06) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=IV&artikel=25&z=2015-05-06&g=2015-05-06).
 
-#### Artikel 28. De tweede voorlopige herberekening van het deelbedrag verpleging en verzorging 2015
+##### Artikel 28. De tweede voorlopige herberekening van het deelbedrag verpleging en verzorging 2015
 
 1. Het Zorginstituut bepaalt met inachtneming van [artikel 12 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036251&artikel=12), de kosten van verpleging en verzorging 2015 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -1058,7 +1080,7 @@ Het Zorginstituut herberekent voor de tweede keer voorlopig het deelbedrag vaste
 
 8. Het Zorginstituut vermindert per zorgverzekeraar het product voor die zorgverzekeraar berekend in het vijfde lid met het product voor die zorgverzekeraar berekend in het zevende lid. Het resultaat wordt aangeduid als het tweede voorlopige herberekende deelbedrag kosten van verpleging en verzorging 2015.
 
-#### Artikel 29. De tweede voorlopige herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2015
+##### Artikel 29. De tweede voorlopige herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2015
 
 1. Het Zorginstituut bepaalt met inachtneming van [artikel 12 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036251&artikel=12), de kosten van geneeskundige geestelijke gezondheidszorg 2015 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -1078,11 +1100,11 @@ Het Zorginstituut herberekent voor de tweede keer voorlopig het deelbedrag vaste
 
 9. Het Zorginstituut vermindert per zorgverzekeraar het product voor die zorgverzekeraar berekend in het zesde lid met het product voor die zorgverzekeraar berekend in het achtste lid. Het resultaat wordt aangeduid als het tweede voorlopige herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2015.
 
-#### Artikel 30. De tweede voorlopige herberekening van de normatieve eigen risico opbrengst 2015
+##### Artikel 30. De tweede voorlopige herberekening van de normatieve eigen risico opbrengst 2015
 
 Het Zorginstituut herberekent voor de tweede keer voorlopig de normatieve eigen risico opbrengst 2015 overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=III&artikel=22&z=2015-05-06&g=2015-05-06), met inachtneming van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=IV&artikel=24&z=2015-05-06&g=2015-05-06) en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=IV&artikel=25&z=2015-05-06&g=2015-05-06).
 
-#### Artikel 31. De tweede voorlopige herberekening van het normatieve bedrag 2015 en de tweede voorlopige herberekening en de vaststelling van de vereveningsbijdrage 2015
+##### Artikel 31. De tweede voorlopige herberekening van het normatieve bedrag 2015 en de tweede voorlopige herberekening en de vaststelling van de vereveningsbijdrage 2015
 
 1. Het Zorginstituut herberekent het normatieve bedrag 2015 voor de tweede keer voorlopig als de som van het tweede voorlopige deelbedrag variabele zorgkosten 2015, het tweede voorlopige deelbedrag vaste zorgkosten 2015, het tweede voorlopige deelbedrag kosten van verpleging en verzorging 2015 en het tweede voorlopige deelbedrag geneeskundige geestelijke gezondheidszorg 2015.
 
@@ -1118,31 +1140,31 @@ Het Zorginstituut herberekent voor de tweede keer voorlopig de normatieve eigen 
 
 ### Hoofdstuk V. De vaststelling van de vereveningsbijdrage 2015 voor een zorgverzekeraar
 
-#### Artikel 32. Algemene bepaling
+##### Artikel 32. Algemene bepaling
 
 Het Zorginstituut herberekent de vereveningsbijdrage definitief met inachtneming van de correcties die voortkomen uit de reviewrapportages die de Nederlandse Zorgautoriteit uitbrengt over de declaraties 2014 per gepseudonimiseerd burgerservicenummer en kosten 2015 uit de jaarstaat 2017.
 
-#### Artikel 33. De definitieve herberekening van het deelbedrag variabele zorgkosten 2015
+##### Artikel 33. De definitieve herberekening van het deelbedrag variabele zorgkosten 2015
 
 Het Zorginstituut herberekent definitief het deelbedrag variabele zorgkosten 2015 overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=IV&artikel=26&z=2015-05-06&g=2015-05-06), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=V&artikel=32&z=2015-05-06&g=2015-05-06).
 
-#### Artikel 34. De definitieve herberekening van het deelbedrag vaste zorgkosten 2015
+##### Artikel 34. De definitieve herberekening van het deelbedrag vaste zorgkosten 2015
 
 Het Zorginstituut herberekent definitief het deelbedrag vaste zorgkosten 2015 overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=IV&artikel=27&z=2015-05-06&g=2015-05-06), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=V&artikel=32&z=2015-05-06&g=2015-05-06).
 
-#### Artikel 35. De definitieve herberekening van het deelbedrag verpleging en verzorging 2015
+##### Artikel 35. De definitieve herberekening van het deelbedrag verpleging en verzorging 2015
 
 Het Zorginstituut herberekent definitief het deelbedrag verpleging en verzorging 2015 overeenkomstig [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=IV&artikel=28&z=2015-05-06&g=2015-05-06), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=V&artikel=32&z=2015-05-06&g=2015-05-06).
 
-#### Artikel 36. De definitieve herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2015
+##### Artikel 36. De definitieve herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2015
 
 Het Zorginstituut herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2015 overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=IV&artikel=29&z=2015-05-06&g=2015-05-06), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=V&artikel=32&z=2015-05-06&g=2015-05-06).
 
-#### Artikel 37. De definitieve herberekening van de normatieve eigen risico opbrengst 2015
+##### Artikel 37. De definitieve herberekening van de normatieve eigen risico opbrengst 2015
 
 Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico opbrengst overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=IV&artikel=30&z=2015-05-06&g=2015-05-06), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=V&artikel=32&z=2015-05-06&g=2015-05-06).
 
-#### Artikel 38. De definitieve herberekening van het normatieve bedrag 2015 en de definitieve herberekening en de vaststelling van de bijdrage 2015
+##### Artikel 38. De definitieve herberekening van het normatieve bedrag 2015 en de definitieve herberekening en de vaststelling van de bijdrage 2015
 
 1. Het Zorginstituut herberekent definitief het normatieve bedrag 2015 overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=IV&artikel=31&z=2015-05-06&g=2015-05-06), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=V&artikel=32&z=2015-05-06&g=2015-05-06).
 
@@ -1150,7 +1172,7 @@ Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico 
 
 ### Hoofdstuk VI. De uitkering voor de kosten van prestaties die door het zorginstituut naar het werkelijk bedrag worden vergoed
 
-#### Artikel 39
+##### Artikel 39
 
 1. Bij gelegenheid van de vaststelling van de bijdrage 2015, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=V&artikel=38&z=2015-05-06&g=2015-05-06), stelt het Zorginstituut per zorgverzekeraar ook de uitkering 2015 vast voor de kosten die op grond van de wet naar het werkelijke bedrag door het Zorginstituut worden vergoed.
 
@@ -1160,7 +1182,7 @@ Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico 
 
 ### Hoofdstuk VII. De betalingen aan de zorgverzekeraars
 
-#### Artikel 40
+##### Artikel 40
 
 1. Het Zorginstituut betaalt de zorgverzekeraars de vereveningsbijdrage, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=II&artikel=12&z=2015-05-06&g=2015-05-06), uit. Het Zorginstituut maakt bij de betaling onderscheid naar de volgende bestanddelen:
 
@@ -1178,7 +1200,7 @@ Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico 
 
 3. Voor de betaling van de kosten, die op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar werkelijke kosten worden vergoed, kan het Zorginstituut ambtshalve een bedrag vaststellen, waarmee de betaling aan de zorgverzekeraars wordt verhoogd.
 
-#### Artikel 41. Betaling
+##### Artikel 41. Betaling
 
 1. Het Zorginstituut bepaalt per zorgverzekeraar de som van de bestanddelen genoemd in [artikel 40, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=VII&artikel=40&z=2015-05-06&g=2015-05-06) en de uitkering, genoemd in artikel 40, tweede lid.
 
@@ -1232,7 +1254,7 @@ Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico 
 
 7. Het Zorginstituut kan, indien naar zijn oordeel uit nieuwe informatie blijkt dat de verwachting is dat bij de eerstvolgende herberekening of herziening van de vereveningsbijdrage, de vereveningsbijdrage meer dan 5 procent hoger zal zijn dan bij de laatst toegekende of voorlopig vastgestelde vereveningsbijdrage, afwijken van de vorige leden en de betalingen aan een zorgverzekeraar aanpassen.
 
-#### Artikel 42. Aanpassing bevoorschotting
+##### Artikel 42. Aanpassing bevoorschotting
 
 1. Bij de herberekening en herziening van de toegekende vereveningsbijdrage 2015 op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=II&artikel=14&z=2015-05-06&g=2015-05-06) herziet het Zorginstituut de te betalen termijnen overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=VII&artikel=41&z=2015-05-06&g=2015-05-06) voor de eerste keer. Het Zorginstituut verrekent het verschil tussen de reeds betaalde termijnen en de voor de eerste keer herziene termijnen.
 
@@ -1248,13 +1270,13 @@ Het Zorginstituut verrekent het verschil tussen de reeds betaalde termijnen en d
 
 6. Indien toepassing van onderscheidenlijk het eerste, tweede, derde en vierde lid, resulteert in een negatief saldo voor de zorgverzekeraar, betaalt de betreffende zorgverzekeraar dat saldo in een keer terug aan het Zorginstituut.
 
-#### Artikel 43
+##### Artikel 43
 
 1. De zorgverzekeraar en het Zorginstituut zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=VII&artikel=42&z=2015-05-06&g=2015-05-06).
 
 2. De rente, bedoeld in het eerste lid, wordt bij de eerste voorlopige, tweede voorlopige en de definitieve vaststelling van de uitkering door het Zorginstituut verwerkt en zo mogelijk verrekend met andere betalingen die uit deze vaststellingen voortvloeien.
 
-#### Artikel 44. Renteberekening
+##### Artikel 44. Renteberekening
 
 1. Bij de verrekening van verschillen, bedoeld in [artikel 42, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036586&hoofdstuk=VII&artikel=42&z=2015-05-06&g=2015-05-06), berekent het Zorginstituut rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
 
@@ -1278,11 +1300,11 @@ Bij de berekening wordt een maand op 30 en een jaar op 360 dagen gesteld.
 
 ### Hoofdstuk VIII. Slotbepalingen
 
-#### Artikel 45
+##### Artikel 45
 
 Deze beleidregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij worden geplaatst en werken terug tot en met 1 oktober 2014.
 
-#### Artikel 46
+##### Artikel 46
 
 Deze beleidsregels worden aangehaald als: Beleidsregels vereveningsbijdrage zorgverzekering 2015.
 

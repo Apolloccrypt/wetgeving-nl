@@ -1,13 +1,39 @@
 ---
-title: "Besluit informatievoorziening WPO BES"
+title: "Besluit van 3 februari 2011, houdende vaststelling van voorschriften inzake de informatievoorziening WPO BES (Besluit informatievoorziening WPO BES)"
 identifier: "BWBR0029578"
-categorie: "Overig"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029578"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029578"
+soort: "AMvB-BES"
+stam_id: "11231833"
+version_id: "18391782"
+internal_id: "C25617771"
+label_id: "11205954"
+dtd_version: "2.0"
+original_entry_into_force: "2011-03-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029578/2021-01-01/0"
+intitule_bron: "Stb.2011-36"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-02-03"
+intitule_published: "2011-03-07"
+intitule_in_force: "2011-03-07"
+intitule_status: "goed"
+original_publication: "Stb.2011-36"
+original_signed_date: "2011-02-03"
+original_published_date: "2011-03-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2011-36"
+entry_into_force_date: "2011-03-08"
+jci_1_3: "jci1.3:c:BWBR0029578&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0029578&g=2021-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit informatievoorziening WPO BES"
+signed_date: "2011-02-03"
+entry_into_force: "2011-03-08"
 ---
-
 # Besluit van 3 februari 2011, houdende vaststelling van voorschriften inzake de informatievoorziening WPO BES (Besluit informatievoorziening WPO BES)
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap van 22 september 2010, nr. WJZ/236422 (2711), directie Wetgeving en Juridische Zaken, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **bevoegd gezag:** een bevoegd gezag als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1).
 
-#### Artikel 2. Nadere invulling van de onderdelen van het jaarverslag
+##### Artikel 2. Nadere invulling van de onderdelen van het jaarverslag
 
 1. Het jaarverslag, bedoeld in [artikel 131 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=131), wordt ingericht overeenkomstig bij ministeriële regeling vast te stellen regels.
 
@@ -54,25 +80,25 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Het bevoegd gezag vermeldt in de schoolgids, bedoeld in [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=16), wanneer het jaarverslag wordt vastgesteld of goedgekeurd en hoe derden het kunnen verkrijgen.
 
-#### Artikel 3. Beschrijving van de gegevens
+##### Artikel 3. Beschrijving van de gegevens
 
 De gegevens, bedoeld in de [artikelen 132](onbekend) en [133 van de wet](onbekend) waarover een bevoegd gezag beschikt, worden gedefinieerd en geordend volgens de voorschriften vermeld in de bijlage bij dit besluit.
 
-#### Artikel 4. Nadere invulling
+##### Artikel 4. Nadere invulling
 
 Bij ministeriële regeling kan een nadere invulling worden gegeven van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=3&z=2021-01-01&g=2021-01-01), en van de wijze waarop de gegevens beschikbaar worden gesteld. Tevens kan een nadere invulling worden gegeven van de gegevens die betrekking hebben op verstrekte aanvullende bekostiging en de wijze waarop deze gegevens worden gedefinieerd, geordend en beschikbaar gesteld.
 
-#### Artikel 5. Overgangsbepaling
+##### Artikel 5. Overgangsbepaling
 
 Tot het tijdstip waarop de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=3&z=2021-01-01&g=2021-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=4&z=2021-01-01&g=2021-01-01) in werking treden, worden bij ministeriële regeling regels vastgesteld met betrekking tot de gegevens die het bevoegd gezag ten aanzien van bekostiging en beleid aan Onze Minister levert en op welke wijze deze gegevens worden gedefinieerd en geordend.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=1&z=2021-01-01&g=2021-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=2&z=2021-01-01&g=2021-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=5&z=2021-01-01&g=2021-01-01) treden in werking met ingang van de op Bonaire, Sint Eustatius en Saba na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst.
 
 2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=3&z=2021-01-01&g=2021-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=4&z=2021-01-01&g=2021-01-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit informatievoorziening WPO BES.
 

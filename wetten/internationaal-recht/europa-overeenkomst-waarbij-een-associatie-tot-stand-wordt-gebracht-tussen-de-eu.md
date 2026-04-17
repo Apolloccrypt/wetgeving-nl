@@ -1,13 +1,35 @@
 ---
 title: "Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Bulgarije, anderzijds"
 identifier: "BWBV0001151"
-categorie: "Internationaal recht"
-publicatiedatum: 2007-01-01
-laatste_update: 2007-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001151"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-01-01"
+last_updated: "2007-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001151"
+soort: "verdrag"
+stam_id: "10002347063"
+version_id: "10002590212"
+internal_id: "C10006978031"
+label_id: "10002338464"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001151/2007-01-01/0"
+intitule_bron: "Trb.2007-48"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2007-03-09"
+intitule_in_force: "2007-03-09"
+intitule_status: "vervallen"
+original_publication: "Trb.2007-48"
+original_published_date: "2007-03-09"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2007-48"
+entry_into_force_date: "2007-01-01"
+jci_1_3: "jci1.3:c:BWBV0001151&z=2007-01-01&g=2007-01-01"
+jci_1_0: "1.0:c:BWBV0001151&g=2007-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2007-01-01"
 ---
-
 # Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Bulgarije, anderzijds
 
 Het Koninkrijk België,
@@ -182,165 +204,165 @@ Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten,
 
 Als volgt zijn overeengekomen[Red: De oorspronkelijke Bijlagen en Protocollen bij de Overeenkomst liggen ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken, en zijn gepubliceerd in PbEG 1994, L 358.]:
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
 ## TITEL I. POLITIEKE DIALOOG
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
 ## TITEL II. ALGEMENE BEGINSELEN
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
 ## TITEL III. VRIJ VERKEER VAN GOEDEREN
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
 ### HOOFDSTUK I. INDUSTRIEPRODUKTEN
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
 ### HOOFDSTUK II. LANDBOUW
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
 ### HOOFDSTUK III. VISSERIJ
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
 ### HOOFDSTUK IV. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
@@ -348,97 +370,97 @@ Vervallen
 
 ### HOOFDSTUK I. HET VERKEER VAN WERKNEMERS
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
 ### HOOFDSTUK II. VESTIGING
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
-#### Artikel 48
+##### Artikel 48
 
 Vervallen
 
-#### Artikel 49
+##### Artikel 49
 
 Vervallen
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
-#### Artikel 51
+##### Artikel 51
 
 Vervallen
 
-#### Artikel 52
+##### Artikel 52
 
 Vervallen
 
-#### Artikel 53
+##### Artikel 53
 
 Vervallen
 
-#### Artikel 54
+##### Artikel 54
 
 Vervallen
 
-#### Artikel 55
+##### Artikel 55
 
 Vervallen
 
 ### HOOFDSTUK III. DIENSTENVERKEER TUSSEN DE GEMEENSCHAP EN BULGARIJE
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
-#### Artikel 57
+##### Artikel 57
 
 Vervallen
 
-#### Artikel 58
+##### Artikel 58
 
 Vervallen
 
 ### HOOFDSTUK IV. ALGEMENE BEPALINGEN
 
-#### Artikel 59
+##### Artikel 59
 
 Vervallen
 
@@ -446,279 +468,279 @@ Vervallen
 
 ### HOOFDSTUK I. BETALINGS- EN KAPITAALVERKEER
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
-#### Artikel 61
+##### Artikel 61
 
 Vervallen
 
-#### Artikel 62
+##### Artikel 62
 
 Vervallen
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
 ### HOOFDSTUK II. BEPALINGEN BETREFFENDE DE MEDEDINGING EN ANDERE ECONOMISCHE BEPALINGEN
 
-#### Artikel 64
+##### Artikel 64
 
 Vervallen
 
-#### Artikel 65
+##### Artikel 65
 
 Vervallen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
-#### Artikel 67
+##### Artikel 67
 
 Vervallen
 
-#### Artikel 68
+##### Artikel 68
 
 Vervallen
 
 ### HOOFDSTUK III. HARMONISATIE VAN WETGEVING
 
-#### Artikel 69
+##### Artikel 69
 
 Vervallen
 
-#### Artikel 70
+##### Artikel 70
 
 Vervallen
 
-#### Artikel 71
+##### Artikel 71
 
 Vervallen
 
 ## TITEL VI. ECONOMISCHE SAMENWERKING
 
-#### Artikel 72
+##### Artikel 72
 
 Vervallen
 
-#### Artikel 73. Industriële samenwerking
+##### Artikel 73. Industriële samenwerking
 
 Vervallen
 
-#### Artikel 74. Bevordering en bescherming van investeringen
+##### Artikel 74. Bevordering en bescherming van investeringen
 
 Vervallen
 
-#### Artikel 75. Agrarische en industriële normen en conformiteitsbeoordeling
+##### Artikel 75. Agrarische en industriële normen en conformiteitsbeoordeling
 
 Vervallen
 
-#### Artikel 76. Samenwerking op het gebied van wetenschappen en technologie
+##### Artikel 76. Samenwerking op het gebied van wetenschappen en technologie
 
 Vervallen
 
-#### Artikel 77. Onderwijs en opleiding
+##### Artikel 77. Onderwijs en opleiding
 
 Vervallen
 
-#### Artikel 78. De landbouw en de agro-industriële sector
+##### Artikel 78. De landbouw en de agro-industriële sector
 
 Vervallen
 
-#### Artikel 79. Energie
+##### Artikel 79. Energie
 
 Vervallen
 
-#### Artikel 80. Nucleaire veiligheid
+##### Artikel 80. Nucleaire veiligheid
 
 Vervallen
 
-#### Artikel 81. Milieu
+##### Artikel 81. Milieu
 
 Vervallen
 
-#### Artikel 82. Vervoer
+##### Artikel 82. Vervoer
 
 Vervallen
 
-#### Artikel 83. Telecommunicatie en Posterijen
+##### Artikel 83. Telecommunicatie en Posterijen
 
 Vervallen
 
-#### Artikel 84. Bank- en verzekeringswezen en andere financiële diensten
+##### Artikel 84. Bank- en verzekeringswezen en andere financiële diensten
 
 Vervallen
 
-#### Artikel 85. Samenwerking op het gebied van de boekhoudkundige en financiële controle
+##### Artikel 85. Samenwerking op het gebied van de boekhoudkundige en financiële controle
 
 Vervallen
 
-#### Artikel 86. Monetair beleid
+##### Artikel 86. Monetair beleid
 
 Vervallen
 
-#### Artikel 87. Witwassen van geld
+##### Artikel 87. Witwassen van geld
 
 Vervallen
 
-#### Artikel 88. Regionale ontwikkeling
+##### Artikel 88. Regionale ontwikkeling
 
 Vervallen
 
-#### Artikel 89. Sociale samenwerking
+##### Artikel 89. Sociale samenwerking
 
 Vervallen
 
-#### Artikel 90. Toerisme
+##### Artikel 90. Toerisme
 
 Vervallen
 
-#### Artikel 91. Midden- en kleinbedrijf
+##### Artikel 91. Midden- en kleinbedrijf
 
 Vervallen
 
-#### Artikel 92. Informatie en audiovisuele sector
+##### Artikel 92. Informatie en audiovisuele sector
 
 Vervallen
 
-#### Artikel 93. Bescherming van de consument
+##### Artikel 93. Bescherming van de consument
 
 Vervallen
 
-#### Artikel 94. Douane
+##### Artikel 94. Douane
 
 Vervallen
 
-#### Artikel 95. Statistische samenwerking
+##### Artikel 95. Statistische samenwerking
 
 Vervallen
 
-#### Artikel 96. Economie
+##### Artikel 96. Economie
 
 Vervallen
 
-#### Artikel 97. Drugs
+##### Artikel 97. Drugs
 
 Vervallen
 
 ## TITEL VII. CULTURELE SAMENWERKING
 
-#### Artikel 98
+##### Artikel 98
 
 Vervallen
 
 ## TITEL VIII. FINANCIËLE SAMENWERKING
 
-#### Artikel 99
+##### Artikel 99
 
 Vervallen
 
-#### Artikel 100
+##### Artikel 100
 
 Vervallen
 
-#### Artikel 101
+##### Artikel 101
 
 Vervallen
 
-#### Artikel 102
+##### Artikel 102
 
 Vervallen
 
-#### Artikel 103
+##### Artikel 103
 
 Vervallen
 
-#### Artikel 104
+##### Artikel 104
 
 Vervallen
 
 ## TITEL IX. INSTITUTIONELE, ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel 105
+##### Artikel 105
 
 Vervallen
 
-#### Artikel 106
+##### Artikel 106
 
 Vervallen
 
-#### Artikel 107
+##### Artikel 107
 
 Vervallen
 
-#### Artikel 108
+##### Artikel 108
 
 Vervallen
 
-#### Artikel 109
+##### Artikel 109
 
 Vervallen
 
-#### Artikel 110
+##### Artikel 110
 
 Vervallen
 
-#### Artikel 111
+##### Artikel 111
 
 Vervallen
 
-#### Artikel 112
+##### Artikel 112
 
 Vervallen
 
-#### Artikel 113
+##### Artikel 113
 
 Vervallen
 
-#### Artikel 114
+##### Artikel 114
 
 Vervallen
 
-#### Artikel 115
+##### Artikel 115
 
 Vervallen
 
-#### Artikel 116
+##### Artikel 116
 
 Vervallen
 
-#### Artikel 117
+##### Artikel 117
 
 Vervallen
 
-#### Artikel 118
+##### Artikel 118
 
 Vervallen
 
-#### Artikel 119
+##### Artikel 119
 
 Vervallen
 
-#### Artikel 120
+##### Artikel 120
 
 Vervallen
 
-#### Artikel 121
+##### Artikel 121
 
 Vervallen
 
-#### Artikel 122
+##### Artikel 122
 
 Vervallen
 
-#### Artikel 123
+##### Artikel 123
 
 Vervallen
 
-#### Artikel 124
+##### Artikel 124
 
 Vervallen
 
-#### Artikel 125
+##### Artikel 125
 
 Vervallen
 

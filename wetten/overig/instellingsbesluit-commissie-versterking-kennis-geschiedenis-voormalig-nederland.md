@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Commissie Versterking kennis geschiedenis voormalig Nederlands-Indië"
+title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 november 2021, kenmerk 3276389-1019021-DMO, houdende de instelling van de Commissie Versterking kennis geschiedenis voormalig Nederlands-Indië (Instellingsbesluit Commissie Versterking kennis geschiedenis voormalig Nederlands-Indië)"
 identifier: "BWBR0045867"
-categorie: "Overig"
-publicatiedatum: 2021-11-20
-laatste_update: 2021-11-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045867"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-11-20"
+last_updated: "2021-11-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045867"
+soort: "ministeriele-regeling"
+stam_id: "16146243"
+version_id: "28171832"
+internal_id: "C39719101"
+label_id: "16075474"
+dtd_version: "2.0"
+original_entry_into_force: "2021-11-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045867/2021-11-20/0"
+intitule_bron: "Stcrt.2021-46800"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-11-11"
+intitule_published: "2021-11-19"
+intitule_in_force: "2021-11-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-46800"
+original_signed_date: "2021-11-11"
+original_published_date: "2021-11-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-46800"
+entry_into_force_date: "2021-11-20"
+jci_1_3: "jci1.3:c:BWBR0045867&z=2021-11-20&g=2021-11-20"
+jci_1_0: "1.0:c:BWBR0045867&g=2021-11-20"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Commissie Versterking kennis geschiedenis voormalig Nederlands-Indië"
+signed_date: "2021-11-11"
+entry_into_force: "2021-11-20"
 ---
-
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 november 2021, kenmerk 3276389-1019021-DMO, houdende de instelling van de Commissie Versterking kennis geschiedenis voormalig Nederlands-Indië (Instellingsbesluit Commissie Versterking kennis geschiedenis voormalig Nederlands-Indië)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **commissie:** commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045867&artikel=2&z=2021-11-20&g=2021-11-20).
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een Commissie Versterking kennis geschiedenis voormalig Nederlands-Indië.
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - 2.4. De commissie brengt op basis van bovenstaande een adviesrapport uit voor de staatssecretaris.
 
-#### Artikel 3. Samenstelling, benoeming, ontslag
+##### Artikel 3. Samenstelling, benoeming, ontslag
 
 1. De commissie bestaat uit een voorzitter en zes andere leden.
 
@@ -50,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 6. De voorzitter en overige leden kunnen op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst en ontslagen door de staatssecretaris.
 
-#### Artikel 4. Leden
+##### Artikel 4. Leden
 
 Tot leden van de commissie worden benoemd:
 
@@ -68,7 +94,7 @@ Tot leden van de commissie worden benoemd:
 
 - g. de heer J. Waerts M.Phil, te Utrecht.
 
-#### Artikel 5. Instellingsduur
+##### Artikel 5. Instellingsduur
 
 1. De commissie wordt ingesteld met ingang van 25 oktober 2021.
 
@@ -76,7 +102,7 @@ Tot leden van de commissie worden benoemd:
 
 3. Na het uitbrengen van het laatste adviesrapport is de commissie opgeheven.
 
-#### Artikel 6. Secretariaat
+##### Artikel 6. Secretariaat
 
 1. De commissie wordt ondersteund door een secretaris.
 
@@ -86,7 +112,7 @@ Tot leden van de commissie worden benoemd:
 
 4. De secretaris is geen lid van de commissie.
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 1. De commissie stelt haar eigen werkwijze vast.
 
@@ -94,7 +120,7 @@ Tot leden van de commissie worden benoemd:
 
 3. De commissie kan zich door andere personen doen bijstaan voor zover dat voor de vervulling van haar taak nodig is.
 
-#### Artikel 8. Vergoeding
+##### Artikel 8. Vergoeding
 
 1. De voorzitter en de andere leden ontvangen per vergadering een vergoeding, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en hiermee niet het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag overschrijden.
 
@@ -102,7 +128,7 @@ Tot leden van de commissie worden benoemd:
 
 3. De vergoeding per vergadering van de voorzitter bedraagt 130% van de hoogte van de vergoeding die aan de andere leden van de commissie is toegekend.
 
-#### Artikel 9. Kosten van de commissie
+##### Artikel 9. Kosten van de commissie
 
 1. De kosten van de commissie komen, voor zover op basis van een goedgekeurde raming, voor rekening van de staatssecretaris. Onder kosten worden in ieder geval verstaan:
 
@@ -114,15 +140,15 @@ Tot leden van de commissie worden benoemd:
 
 2. De commissie biedt zo spoedig mogelijk na haar instelling een raming aan de staatssecretaris aan.
 
-#### Artikel 10. Archiefbescheiden
+##### Artikel 10. Archiefbescheiden
 
 De commissie draagt zo snel mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Maatschappelijke Ondersteuning van het Ministerie van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 25 oktober 2021.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Versterking kennis geschiedenis voormalig Nederlands-Indië.
 

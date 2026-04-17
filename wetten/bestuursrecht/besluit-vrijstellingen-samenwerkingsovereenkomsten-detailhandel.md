@@ -1,13 +1,39 @@
 ---
-title: "Besluit vrijstellingen samenwerkingsovereenkomsten detailhandel"
+title: "Besluit van 12 december 1997, houdende enige vrijstellingen voor samenwerkingsovereenkomsten in de detailhandel van het verbod van mededingingsafspraken (Besluit vrijstellingen samenwerkingsovereenkomsten detailhandel)"
 identifier: "BWBR0009141"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-08-01
-laatste_update: 2014-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009141"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-08-01"
+last_updated: "2014-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009141"
+soort: "AMvB"
+stam_id: "685653"
+version_id: "997462"
+internal_id: "C997461"
+label_id: "664454"
+dtd_version: "2.0"
+original_entry_into_force: "1998-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009141/2014-08-01/0"
+intitule_bron: "Stb.1997-704"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-12-12"
+intitule_published: "1997-12-23"
+intitule_in_force: "1997-12-23"
+intitule_status: "goed"
+original_publication: "Stb.1997-704"
+original_signed_date: "1997-12-12"
+original_published_date: "1997-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1997-704"
+entry_into_force_date: "1998-01-01"
+jci_1_3: "jci1.3:c:BWBR0009141&z=2014-08-01&g=2014-08-01"
+jci_1_0: "1.0:c:BWBR0009141&g=2014-08-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vrijstellingen samenwerkingsovereenkomsten detailhandel"
+signed_date: "1997-12-12"
+entry_into_force: "1998-01-01"
 ---
-
 # Besluit van 12 december 1997, houdende enige vrijstellingen voor samenwerkingsovereenkomsten in de detailhandel van het verbod van mededingingsafspraken (Besluit vrijstellingen samenwerkingsovereenkomsten detailhandel)
 
 Op de voordracht van Onze Minister van Economische Zaken van 18 juli 1997, nr. 97044393 WJA/W;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Economische Zaken van 8 december 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - d. wet: [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691).
 
-#### Artikel 2
+##### Artikel 2
 
 Artikel 6, eerste lid, van de wet geldt niet voor overeenkomsten waarin partijen bij een samenwerkingsovereenkomst overeenkomen dat de betrokken detailhandelsonderneming gedurende een reclame-actie geen hogere dan in de desbetreffende overeenkomsten aangegeven prijzen aan eindgebruikers berekent voor de in die reclame-actie aan te bieden roerende zaken, mits de reclame-actie
 
@@ -48,7 +74,7 @@ Artikel 6, eerste lid, van de wet geldt niet voor overeenkomsten waarin partijen
 
 - c. betrekking heeft op niet meer dan vijf procent van het assortiment van roerende zaken dat de onderneming of de ondernemersvereniging die de in [artikel 1, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0009141&artikel=1&z=2014-08-01&g=2014-08-01), bedoelde verplichtingen op zich heeft genomen, aanbiedt aan de detailhandelsonderneming.
 
-#### Artikel 3
+##### Artikel 3
 
 Artikel 6, eerste lid, van de wet geldt niet voor overeenkomsten in het kader van een samenwerkingsovereenkomst, waarin de detailhandelsonderneming de verplichting op zich neemt roerende zaken af te nemen bij de andere onderneming of de ondernemersvereniging, dan wel bij een door de ondernemersvereniging aangewezen onderneming, mits die overeenkomsten voldoen aan de volgende vereisten:
 
@@ -60,19 +86,19 @@ Artikel 6, eerste lid, van de wet geldt niet voor overeenkomsten in het kader va
 
 - d. voor de verplicht af te nemen roerende zaken gelden geen minder gunstige prijs of leveringsvoorwaarden dan die waarvoor de andere onderneming, de ondernemersvereniging of de door de ondernemersvereniging aangewezen onderneming, gelijke roerende zaken levert aan detailhandelsondernemingen die jegens haar geen afnameverplichting hebben.
 
-#### Artikel 4
+##### Artikel 4
 
 De Autoriteit Consument en Markt kan verklaren dat op een overeenkomst als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=3), [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=6) van toepassing is, indien in het voorafgaande boekjaar meer dan zestig procent van de totale omzet van die detailhandelsonderneming werd behaald met roerende zaken die de detailhandelsonderneming op grond van die overeenkomst verplicht is af te nemen.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van 1 januari 1998.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit vrijstellingen samenwerkingsovereenkomsten detailhandel.
 

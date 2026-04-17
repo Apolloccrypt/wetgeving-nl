@@ -1,13 +1,39 @@
 ---
-title: "Regeling eigen bijdrage asielzoekers met inkomen en vermogen 2008"
+title: "Regeling van de Staatssecretaris van Justitie van 12 november 2008, nr. 5557004/08, houdende bepalingen met betrekking tot eigen bijdrage asielzoekers met inkomen en vermogen (regeling eigen bijdrage asielzoekers met inkomen en vermogen 2008)"
 identifier: "BWBR0024733"
-categorie: "Overig"
-publicatiedatum: 2025-11-01
-laatste_update: 2025-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024733"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-01"
+last_updated: "2025-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024733"
+soort: "ministeriele-regeling"
+stam_id: "9773683"
+version_id: "15853622"
+internal_id: "C21746461"
+label_id: "9750614"
+dtd_version: "2.0"
+original_entry_into_force: "2008-11-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024733/2025-11-01/0"
+intitule_bron: "Stcrt.2008-228"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-11-12"
+intitule_published: "2008-11-24"
+intitule_in_force: "2008-11-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-228"
+original_signed_date: "2008-11-12"
+original_published_date: "2008-11-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-850"
+entry_into_force_date: "2008-11-26"
+jci_1_3: "jci1.3:c:BWBR0024733&z=2025-11-01&g=2025-11-01"
+jci_1_0: "1.0:c:BWBR0024733&g=2025-11-01"
+citeertitel_status: "officieel"
+short_title: "Regeling eigen bijdrage asielzoekers met inkomen en vermogen 2008"
+signed_date: "2008-11-12"
+entry_into_force: "2008-11-26"
 ---
-
 # Regeling van de Staatssecretaris van Justitie van 12 november 2008, nr. 5557004/08, houdende bepalingen met betrekking tot eigen bijdrage asielzoekers met inkomen en vermogen (regeling eigen bijdrage asielzoekers met inkomen en vermogen 2008)
 
 Gelet op [artikel 12, tweede lid, van de Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=12);
@@ -18,7 +44,7 @@ Besluit:
 
 #### Paragraaf 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van deze regeling wordt verstaan onder ‘Rva 2005’: de [Regeling verstrekkingen asielzoekers en andere categorie vreemdelingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959).
 
@@ -26,7 +52,7 @@ Besluit:
 
 #### Paragraaf 2. Feitelijk geboden verstrekkingen
 
-#### Artikel 2
+##### Artikel 2
 
 Tot de aan de asielzoeker feitelijk geboden verstrekkingen, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=20), worden gerekend:
 
@@ -38,7 +64,7 @@ Tot de aan de asielzoeker feitelijk geboden verstrekkingen, bedoeld in [artikel 
 
 #### Paragraaf 3. De economische waarde
 
-#### Artikel 3
+##### Artikel 3
 
 De economische waarde per maand, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=20), bedraagt:
 
@@ -52,13 +78,13 @@ De economische waarde per maand, bedoeld in [artikel 20, tweede lid, van de Rva 
 
 #### Paragraaf 1. De vergoeding
 
-#### Artikel 4
+##### Artikel 4
 
 De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=20), per maand is gelijk aan de in aanmerking te nemen middelen van de asielzoeker en zijn gezinsleden tot een maximum van de economische waarde van de verstrekkingen bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=3&artikel=3&z=2025-11-01&g=2025-11-01).
 
 #### Paragraaf 2. De middelen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tot de middelen bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=1&artikel=4&z=2025-11-01&g=2025-11-01) worden alle vermogens- en inkomensbestanddelen gerekend waarover de asielzoeker beschikt of redelijkerwijs kan beschikken.
 
@@ -90,7 +116,7 @@ De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wett
 
 #### Paragraaf 3. Het inkomen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onder inkomen wordt verstaan de middelen voor zover deze:
 
@@ -102,7 +128,7 @@ De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wett
 
 #### Paragraaf 4. Het vermogen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onder vermogen wordt verstaan:
 
@@ -124,25 +150,25 @@ De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wett
 
 ### Hoofdstuk 3. Overgangs- en slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 [Artikel 4, tweede lid, onder e, van de Regeling eigen bijdrage asielzoekers met inkomen en vermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0009876&artikel=4) blijft van toepassing voor zover voor de inwerkingtreding van deze regeling door de asielzoeker een vergoeding bedoeld in [artikel 20, tweede lid, Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=20) werd afgedragen en voor zover dit voor de asielzoeker gunstiger is.
 
-#### Artikel 10
+##### Artikel 10
 
 De [Regeling eigen bijdrage asielzoekers met inkomen en vermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0009876) wordt ingetrokken.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling eigen bijdrage asielzoekers met inkomen en vermogen 2008.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. [Artikel 1, eerste lid, onder d en f, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=1) en [artikel 3, tweede en derde lid van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=3) zijn van overeenkomstige toepassing.
 

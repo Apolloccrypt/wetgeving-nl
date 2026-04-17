@@ -1,13 +1,39 @@
 ---
-title: "Regeling Woningbouwimpuls 2020"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 mei 2020, nr. 2020-0000027462, houdende nadere regels met betrekking tot verstrekking van een specifieke uitkering aan gemeenten ten behoeve van het versnellen van de bouw van betaalbare woningen in een kwalitatief goede leefomgeving (Regeling Woningbouwimpuls 2020)"
 identifier: "BWBR0043557"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043557"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043557"
+soort: "ministeriele-regeling"
+stam_id: "15460273"
+version_id: "31231332"
+internal_id: "C44668661"
+label_id: "15403344"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043557/2026-01-01/0"
+intitule_bron: "Stcrt.2020-28062"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-05-15"
+intitule_published: "2020-05-20"
+intitule_in_force: "2020-07-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-43760"
+original_signed_date: "2025-12-19"
+original_published_date: "2025-12-22"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-43760"
+entry_into_force_date: "2025-12-19"
+jci_1_3: "jci1.3:c:BWBR0043557&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0043557&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling Woningbouwimpuls 2020"
+signed_date: "2025-12-19"
+entry_into_force: "2025-12-19"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 mei 2020, nr. 2020-0000027462, houdende nadere regels met betrekking tot verstrekking van een specifieke uitkering aan gemeenten ten behoeve van het versnellen van de bouw van betaalbare woningen in een kwalitatief goede leefomgeving (Regeling Woningbouwimpuls 2020)
 
 Gelet op de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=3), [4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=6), [7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=7), en [artikel 10, derde lid, van het Besluit Woningbouwimpuls 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=10);
@@ -16,7 +42,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop het Besluit woningbouwimpuls 2020 in werking treedt.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -84,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 - **woning:** een zelfstandige woonruimte, een gebouw bestaande uit onzelfstandige woonruimten, of een woonwagen.
 
-#### Artikel 2. Nadere regels inzake de activiteiten waarvoor een uitkering kan worden verstrekt
+##### Artikel 2. Nadere regels inzake de activiteiten waarvoor een uitkering kan worden verstrekt
 
 De uitkering wordt slechts toegekend ten behoeve van bijdragen in een project dat is gericht op het uitvoeren van activiteiten die zijn gericht op:
 
@@ -96,7 +122,7 @@ De uitkering wordt slechts toegekend ten behoeve van bijdragen in een project da
 
 - 4). uitplaatsing van activiteiten die de realisatie van woningen beperken of belemmeren.
 
-#### Artikel 3. Nadere voorwaarden projecten waarvoor een uitkering kan worden verstrekt
+##### Artikel 3. Nadere voorwaarden projecten waarvoor een uitkering kan worden verstrekt
 
 1. De uitkering wordt slechts toegekend ten behoeve van bijdragen in een project dat is gericht op:
 
@@ -106,7 +132,7 @@ de netto toevoeging van minstens 200 woningen in een afgebakend projectgebied, m
 
 3. Een financiële bijdrage als bedoeld in [artikel 2, eerste lid, onder d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2), is substantieel als deze ten minste 50% van het aantoonbare financiële tekort van het project bedraagt.
 
-#### Artikel 4. De aanvraag
+##### Artikel 4. De aanvraag
 
 1. De minister kan besluiten een aanvraagtijdvak te openen waarin uitsluitend colleges van burgemeester en wethouders die in een voorafgaand aanvraagtijdvak een aanvraag hebben ingediend die is afgewezen een aanvraag kunnen doen voor hetzelfde project als waarop de afgewezen aanvraag zag. Het aanvraagtijdvak vangt aan binnen 17 weken na het sluiten van het voorafgaande aanvraagtijdvak.
 
@@ -150,11 +176,11 @@ de netto toevoeging van minstens 200 woningen in een afgebakend projectgebied, m
 
 8. Aan een uitkering kunnen in de uitkeringsbeschikking nadere verplichtingen worden verbonden.
 
-#### Artikel 5. Scoring van aanvragen
+##### Artikel 5. Scoring van aanvragen
 
 De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder 1° tot en met 4°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5), worden bepaald conform [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&bijlage=1&z=2026-01-01&g=2026-01-01). De totaalscore van een aanvraag is het gewogen gemiddelde van de scores op die criteria.
 
-#### Artikel 6. Rangschikking van aanvragen
+##### Artikel 6. Rangschikking van aanvragen
 
 1. Indien meerdere aanvragen gelijk scoren bij de weging op grond van [artikel 5, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5), en de toekenning van uitkeringen zou leiden tot overschrijding van het krachtens [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=3), vastgestelde bedrag, worden die aanvragen onderling gerangschikt op grond van de behaalde score bij het criterium effectiviteit.
 
@@ -162,7 +188,7 @@ De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder
 
 3. Indien een aanvraag niet volledig kan worden toegekend in verband met de overschrijding van het krachtens [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=3), vastgestelde bedrag, kan de minister besluiten om de aanvraag toch toe te wijzen en het restant van de uitkering ten laste te brengen van het uitkeringsplafond van het eerstvolgende aanvraagtijdvak. De minister kan, in afwijking van [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=4&z=2026-01-01&g=2026-01-01), voor een geval als bedoeld in de eerste volzin besluiten om de uitkering in twee keer uit te betalen.
 
-#### Artikel 7. Weigeringsgronden
+##### Artikel 7. Weigeringsgronden
 
 1. Een project scoort onvoldoende als bedoeld in [artikel 6, eerste lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=6), indien:
 
@@ -174,7 +200,7 @@ De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder
 
 3. Op grond van de woningbouwopgave van de regio’s, genoemd in het tweede lid, wordt beoordeeld of sprake is van een onevenwichtige spreiding van de beschikbare middelen over die regio’s. De woningbouwopgave wordt bepaald op basis van de door de minister in het kader van de in de meest actuele staat van de woningmarkt gepubliceerde cijfers over het tekort aan woningen.
 
-#### Artikel 8. Leden van de commissie
+##### Artikel 8. Leden van de commissie
 
 1. De commissie bestaat uit een voorzitter en ten minste drie en ten hoogste vier leden.
 
@@ -184,7 +210,7 @@ De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder
 
 4. De voorzitter en de leden worden op eigen aanvraag ontslagen. Zij kunnen voorts worden geschorst en ontslagen wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden.
 
-#### Artikel 9. Ondersteuning van de commissie
+##### Artikel 9. Ondersteuning van de commissie
 
 1. De commissie wordt ondersteund door een secretariaat.
 
@@ -192,11 +218,11 @@ De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder
 
 3. Het secretariaat is voor de inhoudelijke uitvoering van zijn taak uitsluitend verantwoording schuldig aan de voorzitter van de commissie.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop het [Besluit woningbouwimpuls 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043540) in werking treedt. Indien aan het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540) terugwerkende kracht wordt verleend, werkt deze regeling terug tot het tijdstip waarop het besluit terugwerkt.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Woningbouwimpuls 2020.
 
@@ -265,7 +291,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Grondslag
+##### Artikel 1a. Grondslag
 
 Deze regeling berust mede op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2), en [4, vierde lid, van het Besluit Woningimpuls 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4).
 

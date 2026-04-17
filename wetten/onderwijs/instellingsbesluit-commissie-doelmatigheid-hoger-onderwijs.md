@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Commissie Doelmatigheid Hoger Onderwijs"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 17 juni 2009, nr. HO&S/BS/2009/119774, tot het instellen van een Commissie doelmatigheid hoger onderwijs (Instellingsbesluit Commissie Doelmatigheid Hoger Onderwijs)"
 identifier: "BWBR0026019"
-categorie: "Onderwijs"
-publicatiedatum: 2024-03-20
-laatste_update: 2024-03-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026019"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-03-20"
+last_updated: "2024-03-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026019"
+soort: "ministeriele-regeling"
+stam_id: "10092433"
+version_id: "16498802"
+internal_id: "C22693441"
+label_id: "10068854"
+dtd_version: "2.0"
+original_entry_into_force: "2009-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026019/2024-03-20/0"
+intitule_bron: "Stcrt.2009-117"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-06-17"
+intitule_published: "2009-06-29"
+intitule_in_force: "2009-06-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-117"
+original_signed_date: "2009-06-17"
+original_published_date: "2009-06-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-9710"
+entry_into_force_date: "2009-07-01"
+jci_1_3: "jci1.3:c:BWBR0026019&z=2024-03-20&g=2024-03-20"
+jci_1_0: "1.0:c:BWBR0026019&g=2024-03-20"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Commissie Doelmatigheid Hoger Onderwijs"
+signed_date: "2009-06-17"
+entry_into_force: "2009-07-01"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 17 juni 2009, nr. HO&S/BS/2009/119774, tot het instellen van een Commissie doelmatigheid hoger onderwijs (Instellingsbesluit Commissie Doelmatigheid Hoger Onderwijs)
 
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
 Besluit:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In dit besluit wordt verstaan onder:
 
@@ -28,11 +54,11 @@ In dit besluit wordt verstaan onder:
 
 - e. **RIO:** de Registratie instellingen en opleidingen als bedoeld in [artikel 6.13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
 
-#### Artikel 2. Instelling
+##### Artikel 2. Instelling
 
 Er is een Commissie Doelmatigheid Hoger Onderwijs.
 
-#### Artikel 3. Taak
+##### Artikel 3. Taak
 
 De commissie heeft tot taak:
 
@@ -42,23 +68,23 @@ De commissie heeft tot taak:
 
 - 3. Het desgevraagd uitbrengen van advies aan de Minister in het kader van besluitvorming over het ontnemen van de rechten aan een opleiding op grond van [artikel 6.5, eerste lid onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.5) en het opheffen van een vestigingsplaats van een opleiding op grond van [artikel 7.17a, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.17a).
 
-#### Artikel 4. Instelling
+##### Artikel 4. Instelling
 
 1. De commissie wordt ingesteld met ingang van 1 juli 2009.
 
 2. Aan de commissie worden aanvragen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=3&z=2024-03-20&g=2024-03-20), ter beoordeling en advisering voorgelegd die zijn ingediend vanaf de datum dat de commissie is ingesteld.
 
-#### Artikel 5. Lidmaatschap
+##### Artikel 5. Lidmaatschap
 
 1. De leden van de commissie worden door de minister benoemd en ontslagen. De leden worden benoemd voor een periode van ten hoogste vier jaar. Zij zijn slechts eenmaal herbenoembaar.
 
 2. De leden worden door de Minister benoemd voor een periode van ten hoogste vier jaar. Zij zijn in beginsel eenmaal herbenoembaar voor een periode van ten hoogte vier jaar, behoudens uitzonderingsgevallen waarbij zij voor een tweede maal herbenoembaar zijn voor een periode van ten hoogste van vier jaar.
 
-#### Artikel 6. Leden
+##### Artikel 6. Leden
 
 Vervallen
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 1. De commissie kan ter voorbereiding op de totstandkoming van een advies nadere informatie vragen aan de aanvrager of, indien de aanvraag onvolledig is, de aanvrager de gelegenheid bieden binnen een door de commissie vast te stellen termijn, de aanvraag aan te vullen.
 
@@ -78,11 +104,11 @@ Vervallen
 
 9. De commissie pleegt twee maal per jaar overleg met de minister over de praktijk van de beoordeling van de mutaties met betrekking tot macrodoelmatigheid en de ontwikkelingen die zich hierin voordoen.
 
-#### Artikel 8. (administratieve) ondersteuning
+##### Artikel 8. (administratieve) ondersteuning
 
 De Minister voorziet in het secretariaat van de commissie en treft voorzieningen op het gebied van logistiek, financiën en personeel. Het secretariaat wordt ondergebracht bij de NVAO.
 
-#### Artikel 9. Kosten van de commissie en vergoeding
+##### Artikel 9. Kosten van de commissie en vergoeding
 
 1. De kosten van de commissie komen, voor zover goedgekeurd, voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
 
@@ -108,25 +134,25 @@ De Minister voorziet in het secretariaat van de commissie en treft voorzieningen
 
 10. In geval van opheffing van de commissie, is deze ter zake van de egalisatiereserve (en de daarover opgebouwde rente) vergoedingsplichtig.
 
-#### Artikel 10. Informatieplicht
+##### Artikel 10. Informatieplicht
 
 De commissie verstrekt aan de minister desgevraagd alle door hem gewenste inlichtingen.
 
-#### Artikel 11. Geheimhouding
+##### Artikel 11. Geheimhouding
 
 1. De commissie neemt geheimhouding in acht ten aanzien van alle informatie die in het kader van dit besluit bekend wordt en waarvan het karakter als vertrouwelijk is aan te merken.
 
 2. De commissie zorgt ervoor dat door een ieder die betrokken is bij de werkzaamheden van de commissie, geheimhouding in acht wordt genomen ten aanzien van alle informatie die in het kader van dit besluit bekend wordt en waarvan het karakter als vertrouwelijk is aan te merken.
 
-#### Artikel 12. Openbaarmaking
+##### Artikel 12. Openbaarmaking
 
 Adviezen, rapporten, notities, verslagen en andere documenten welke door of namens de commissie worden vervaardigd, worden niet door de commissie openbaar gemaakt, maar uitsluitend aan de Minister uitgebracht, tenzij de Minister de commissie heeft gevraagd deze te publiceren.
 
-#### Artikel 13. Archiefbescheiden
+##### Artikel 13. Archiefbescheiden
 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 14. Bekendmaking instelling commissie
+##### Artikel 14. Bekendmaking instelling commissie
 
 Afschrift van dit besluit wordt gezonden aan:
 
@@ -150,11 +176,11 @@ Afschrift van dit besluit wordt gezonden aan:
 
 - •. MKB-Nederland.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. Indien dit besluit wordt geplaatst in een staatscourant die verschijnt na 1 juli 2009, dan heeft dit besluit terugwerkende kracht tot 1 juli 2009.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Doelmatigheid Hoger Onderwijs
 

@@ -1,13 +1,38 @@
 ---
-title: "Regeling verwijdering PCB’s"
+title: "Regeling houdende implementatie van richtlijn 96/59/EG van de Raad van de Europese Unie betreffende de verwijdering van polychloorbifenylen en polychloorterfenylen (PCB's/PCT's) (PbEG L 42)"
 identifier: "BWBR0009821"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009821"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009821"
+soort: "ministeriele-regeling"
+stam_id: "4651493"
+version_id: "6467842"
+internal_id: "C6714721"
+label_id: "4629844"
+dtd_version: "2.0"
+original_entry_into_force: "1998-08-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009821/2024-01-01/0"
+intitule_bron: "Stcrt.1998-154"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-07-30"
+intitule_published: "1998-08-17"
+intitule_in_force: "1998-08-17"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-154"
+original_signed_date: "1998-07-30"
+original_published_date: "1998-08-17"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-08-19"
+jci_1_3: "jci1.3:c:BWBR0009821&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0009821&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling verwijdering PCB’s"
+signed_date: "1998-07-30"
+entry_into_force: "1998-08-19"
 ---
-
 # Regeling houdende implementatie van richtlijn 96/59/EG van de Raad van de Europese Unie betreffende de verwijdering van polychloorbifenylen en polychloorterfenylen (PCB's/PCT's) (PbEG L 42)
 
 Gelet op [richtlijn 96/59/EG](31996L0059) van de Raad van de Europese Unie van 16 september 1996 betreffende de verwijdering van polychloorbifenylen en polychloorterfenylen (PCB’s/PCT’s), PARCOM Decision 92/3 on the phasing out of PCB’s and hazardous PCB substitutes en op de [artikelen 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.4), [10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.6) en [21.6, zesde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6);
@@ -16,11 +41,11 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 Deze regeling is niet van toepassing op:
 
@@ -30,13 +55,13 @@ Deze regeling is niet van toepassing op:
 
 #### § 2. Reiniging en verwijdering van PCB's-bevattende apparaten
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 1. De houder van PCB’s of gebruikte PCB’s verwijdert deze vóór 1 januari 2000.
 
 2. De houder van PCB’s-bevattende apparaten, reinigt deze overeenkomstig [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&paragraaf=2&artikel=2.2&z=2024-01-01&g=2024-01-01) of verwijdert deze vóór 1 januari 2000.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 1. De houder van transformatoren die meer dan 0,5 mg/kg PCB’s bevatten, bepaald volgens EN 12766-1: uitgave 2000, reinigt deze zodanig dat:
 
@@ -48,7 +73,7 @@ Deze regeling is niet van toepassing op:
 
 #### § 3. Scheiden van PCB's of bijvullen met PCB's
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 1. Het is verboden PCB’s van andere stoffen te scheiden met het oog op het nuttig toepassen van die PCB’s.
 
@@ -56,7 +81,7 @@ Deze regeling is niet van toepassing op:
 
 #### § 4. Aanmelding van PCB's-bevattende apparaten
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 1. Apparaten die meer dan vijf kubieke decimeter PCB’s bevatten of sterkstroomcondensatoren waarvan het totaal van de gecombineerde afzonderlijke onderdelen meer dan vijf kubieke decimeter PCB’s bevatten, worden door de houder aangemeld bij de inspecteur.
 
@@ -84,7 +109,7 @@ Deze regeling is niet van toepassing op:
 
 #### § 5. Registratie van PCB's-bevattende apparaten
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 Degene die bedrijfsmatig PCB’s verwijdert of laat verwijderen, houdt een voor een toezichthouder toegankelijk register waarin worden vermeld:
 
@@ -94,15 +119,15 @@ Degene die bedrijfsmatig PCB’s verwijdert of laat verwijderen, houdt een voor 
 
 #### § 6. Overgangs- en slotbepalingen
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 Uiterlijk 12 maanden na inwerkingtreding van deze regeling is uitvoering gegeven aan [artikel 4.1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&paragraaf=4&artikel=4.1&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6.3
+##### Artikel 6.3
 
 Deze regeling wordt aangehaald als: Regeling verwijdering PCB’s.
 
@@ -154,7 +179,7 @@ Apparaat aangemeld
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1.3
+##### Artikel 1.3
 
 Deze regeling berust mede op [artikel 21.6, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6).
 

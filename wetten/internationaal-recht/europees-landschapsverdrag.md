@@ -1,13 +1,38 @@
 ---
 title: "Europees landschapsverdrag"
 identifier: "BWBV0001748"
-categorie: "Internationaal recht"
-publicatiedatum: 2005-11-01
-laatste_update: 2000-10-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001748"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-11-01"
+last_updated: "2000-10-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001748"
+soort: "verdrag"
+stam_id: "10001760483"
+version_id: "10001838702"
+internal_id: "C10006992241"
+label_id: "10001760744"
+dtd_version: "2.0"
+original_entry_into_force: "2005-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001748/2005-11-01/0"
+intitule_bron: "Trb.2005-23"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-07-27"
+intitule_published: "2005-01-27"
+intitule_in_force: "2005-10-04"
+intitule_status: "goed"
+original_publication: "Trb.2005-23"
+original_signed_date: "2005-07-27"
+original_published_date: "2005-01-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2005-23"
+entry_into_force_date: "2005-11-01"
+jci_1_3: "jci1.3:c:BWBV0001748&z=2005-11-01&g=2005-11-01"
+jci_1_0: "1.0:c:BWBV0001748&g=2005-11-01"
+citeertitel_status: "redactioneel"
+signed_date: "2005-07-27"
+entry_into_force: "2005-11-01"
 ---
-
 # Europees landschapsverdrag
 
 **Preambule**
@@ -40,7 +65,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -56,21 +81,21 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - f. ``Landschapsinrichting", sterk op de toekomst gerichte maatregelen om landschappen te verbeteren, te herstellen of te creëren.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Het Verdrag is, met inachtneming van de bepalingen van artikel 15, van toepassing op het gehele grondgebied van de Partijen en heeft betrekking op natuurlijke, rurale, stedelijke en perifere stedelijke gebieden. Het omvat landgebieden, binnenwateren en mariene gebieden. Het betreft landschappen die als zeer waardevol beschouwd kunnen worden, maar ook doorsnee of aangetaste landschappen.
 
-#### Artikel 3. Doelstellingen
+##### Artikel 3. Doelstellingen
 
 Het doel van dit Verdrag is het bevorderen van de bescherming, het beheer en de inrichting van landschappen en het organiseren van Europese samenwerking op dit gebied.
 
 ### HOOFDSTUK II. NATIONALE MAATREGELEN
 
-#### Artikel 4. Verdeling van bevoegdheden
+##### Artikel 4. Verdeling van bevoegdheden
 
 Elke Partij voert dit Verdrag, met name de artikelen 5 en 6, uit conform haar eigen verdeling van bevoegdheden, in overeenstemming met haar grondwettelijke beginselen en administratieve regelingen, en met inachtneming van het subsidiariteitsbeginsel, rekening houdend met het Europees Handvest inzake lokale autonomie. Elke Partij voert dit Verdrag uit in overeenstemming met haar eigen beleid, zonder afbreuk te doen aan de bepalingen van dit Verdrag.
 
-#### Artikel 5. Algemene maatregelen
+##### Artikel 5. Algemene maatregelen
 
 Elke Partij verplicht zich ertoe:
 
@@ -82,7 +107,7 @@ Elke Partij verplicht zich ertoe:
 
 - d. landschap te integreren in haar beleid op het gebied van ruimtelijke ordening en stadsplanning en in haar cultureel, milieu-, landbouw-, maatschappelijk en economisch beleid, alsmede in ander beleid dat rechtstreekse of onrechtstreekse gevolgen heeft voor het landschap.
 
-#### Artikel 6. Specifieke maatregelen
+##### Artikel 6. Specifieke maatregelen
 
 Elke Partij verbindt zich ertoe het maatschappelijk middenveld, particuliere organisaties en publieke autoriteiten bewuster te maken van de waarde van landschappen, de rol ervan en de veranderingen die zij ondergaan.
 
@@ -114,11 +139,11 @@ Teneinde uitvoering te geven aan het landschapsbeleid, verbindt elke Partij zich
 
 ### HOOFDSTUK III. EUROPESE SAMENWERKING
 
-#### Artikel 7. Beleid en programma's op internationaal niveau
+##### Artikel 7. Beleid en programma's op internationaal niveau
 
 Partijen verbinden zich ertoe samen te werken bij het integreren van het landschap als dimensie in internationaal beleid en internationale programma's, en waar relevant, de aanbeveling te doen daarin overwegingen van landschappelijke aard op te nemen.
 
-#### Artikel 8. Wederzijdse bijstand en uitwisseling van informatie
+##### Artikel 8. Wederzijdse bijstand en uitwisseling van informatie
 
 De Partijen verbinden zich ertoe samen te werken om de doeltreffendheid te verbeteren van maatregelen genomen ingevolge andere artikelen van dit Verdrag, en met name;
 
@@ -128,11 +153,11 @@ De Partijen verbinden zich ertoe samen te werken om de doeltreffendheid te verbe
 
 - c. informatie uit te wisselen over alle zaken waarop de bepalingen van dit Verdrag betrekking hebben.
 
-#### Artikel 9. Grensoverschrijdende landschappen
+##### Artikel 9. Grensoverschrijdende landschappen
 
 De Partijen bevorderen grensoverschrijdende samenwerking op lokaal en regionaal niveau en stellen waar nodig gezamenlijke landschapsprogramma's op en implementeren deze.
 
-#### Artikel 10. Toezicht op de uitvoering van het Verdrag
+##### Artikel 10. Toezicht op de uitvoering van het Verdrag
 
 1. Bestaande bevoegde Comités van deskundigen die zijn ingesteld ingevolge [artikel 17 van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=17) worden door het Comité van Ministers van de Raad van Europa aangewezen om de uitvoering van dit Verdrag te controleren.
 
@@ -140,7 +165,7 @@ De Partijen bevorderen grensoverschrijdende samenwerking op lokaal en regionaal 
 
 3. De Comités van deskundigen doen het Comité van Ministers een voorstel ten aanzien van de toekenningscriteria en het reglement met betrekking tot de Landschapsprijs van de Raad van Europa.
 
-#### Artikel 11. Landschapsprijs van de Raad van Europa
+##### Artikel 11. Landschapsprijs van de Raad van Europa
 
 1. De Landschapsprijs van de Raad van Europa is een onderscheiding die kan worden toegekend aan lokale of regionale autoriteiten of groepen van lokale of regionale autoriteiten die, als onderdeel van het landschapsbeleid van een Partij bij dit Verdrag, beleid of maatregelen hebben ingevoerd voor de bescherming, het beheer en/of de inrichting van hun landschap waarvan de doeltreffendheid op langere termijn is bewezen en die derhalve andere autoriteiten tot voorbeeld kunnen strekken. De onderscheiding kan ook worden toegekend aan niet-gouvernementele organisaties die een zeer bijzondere bijdrage hebben geleverd aan de bescherming, het beheer of de inrichting van landschappen.
 
@@ -152,11 +177,11 @@ De Partijen bevorderen grensoverschrijdende samenwerking op lokaal en regionaal 
 
 ### HOOFDSTUK IV. SLOTBEPALINGEN
 
-#### Artikel 12. Verhouding tot andere instrumenten
+##### Artikel 12. Verhouding tot andere instrumenten
 
 De bepalingen van dit Verdrag doen geen afbreuk aan strengere bepalingen inzake landschapsbescherming, -beheer en -inrichting vervat in andere bestaande of toekomstige bindende nationale of internationale instrumenten.
 
-#### Artikel 13. Ondertekening, bekrachtiging en inwerkingtreding
+##### Artikel 13. Ondertekening, bekrachtiging en inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa. Het dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -164,13 +189,13 @@ De bepalingen van dit Verdrag doen geen afbreuk aan strengere bepalingen inzake 
 
 3. Met betrekking tot iedere lidstaat die later zijn instemming door het Verdrag te worden gebonden tot uitdrukking brengt, treedt het Verdrag in werking op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 14. Toetreding
+##### Artikel 14. Toetreding
 
 1. Na de inwerkingtreding van dit Verdrag, kan het Comité van Ministers van de Raad van Europa de Europese Gemeenschap en iedere Europese staat die geen lid is van de Raad van Europa uitnodigen toe te treden tot dit Verdrag, door een door de meerderheid als voorzien in [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) genomen besluit en met algemene stemmen van de vertegenwoordigers van de Staten die Partij zijn die recht hebben op een zetel in het Comité van Ministers.
 
 2. Ten aanzien van iedere toetredende Staat, of de Europese Gemeenschap ingeval zij toetreedt, treedt dit Verdrag in werking op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 15. Territoriale toepassing
+##### Artikel 15. Territoriale toepassing
 
 1. Elke staat of de Europese Gemeenschap kan, bij de ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het gebied of de gebieden waarop het Verdrag van toepassing is nader aanduiden.
 
@@ -178,13 +203,13 @@ De bepalingen van dit Verdrag doen geen afbreuk aan strengere bepalingen inzake 
 
 3. Iedere overeenkomstig de twee voorgaande leden afgelegde verklaring kan, met betrekking tot elk in die verklaring aangewezen grondgebied, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 16. Opzegging
+##### Artikel 16. Opzegging
 
 1. Iedere Partij kan dit Verdrag te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
 2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 17. Wijzigingen
+##### Artikel 17. Wijzigingen
 
 1. Elke Partij of de Comités van deskundigen genoemd in artikel 10 kan respectievelijk kunnen wijzigingen van dit Verdrag voorstellen.
 
@@ -194,7 +219,7 @@ De bepalingen van dit Verdrag doen geen afbreuk aan strengere bepalingen inzake 
 
 4. Ten aanzien van de Partijen die een wijziging hebben aanvaard treedt deze in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop drie lidstaten van de Raad van Europa de Secretaris-Generaal ervan in kennis hebben gesteld dat zij de wijziging hebben aanvaard. Met betrekking tot iedere Partij die nadien de wijziging aanvaardt, wordt de wijziging van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop die Partij de Secretaris-Generaal in kennis heeft gesteld van haar aanvaarding.
 
-#### Artikel 18. Kennisgevingen
+##### Artikel 18. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa en iedere Staat, of de Europese Gemeenschap, die tot dit Verdrag is toegetreden, in kennis van:
 

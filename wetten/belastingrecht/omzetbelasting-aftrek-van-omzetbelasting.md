@@ -1,13 +1,38 @@
 ---
 title: "Omzetbelasting, aftrek van omzetbelasting"
 identifier: "BWBR0044485"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044485"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044485"
+soort: "beleidsregel"
+stam_id: "15749753"
+version_id: "27291072"
+internal_id: "C38552531"
+label_id: "15689084"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044485/2025-07-01/0"
+intitule_bron: "Stcrt.2020-63000"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-11-24"
+intitule_published: "2020-12-14"
+intitule_in_force: "2020-12-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-63000"
+original_signed_date: "2020-11-24"
+original_published_date: "2020-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-63000"
+entry_into_force_date: "2020-12-15"
+jci_1_3: "jci1.3:c:BWBR0044485&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0044485&g=2025-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "2020-11-24"
+entry_into_force: "2020-12-15"
 ---
-
 # Omzetbelasting, aftrek van omzetbelasting
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

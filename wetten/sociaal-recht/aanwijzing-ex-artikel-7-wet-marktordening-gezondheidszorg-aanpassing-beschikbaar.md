@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (aanpassing beschikbaarheidbijdrage traumazorg)"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2014, houdende aanpassing beschikbaarheidbijdrage traumazorg"
 identifier: "BWBR0036148"
-categorie: "Sociaal recht"
-publicatiedatum: 2015-02-01
-laatste_update: 2015-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036148"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-02-01"
+last_updated: "2015-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036148"
+soort: "ministeriele-regeling"
+stam_id: "12945863"
+version_id: "22054882"
+internal_id: "C31620911"
+label_id: "12914984"
+dtd_version: "2.0"
+original_entry_into_force: "2015-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036148/2015-02-01/0"
+intitule_bron: "Stcrt.2014-36908"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-11"
+intitule_published: "2014-12-22"
+intitule_in_force: "2014-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-36908"
+original_signed_date: "2014-12-11"
+original_published_date: "2014-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-36908"
+entry_into_force_date: "2015-02-01"
+jci_1_3: "jci1.3:c:BWBR0036148&z=2015-02-01&g=2015-02-01"
+jci_1_0: "1.0:c:BWBR0036148&g=2015-02-01"
+citeertitel_status: "redactioneel"
+short_title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (aanpassing beschikbaarheidbijdrage traumazorg)"
+signed_date: "2014-12-11"
+entry_into_force: "2015-02-01"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2014, houdende aanpassing beschikbaarheidbijdrage traumazorg
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -18,7 +44,7 @@ Gezien het Verslag van het schriftelijk overleg over de brief van 10 oktober 201
 
 Besluit:
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -38,15 +64,15 @@ In deze aanwijzing wordt verstaan onder:
 
 - h. **convenant:** Convenant OTO uit 2008, zoals dat in de voorhangbrief van 25 mei 2012 voor de Aanwijzing beschikbaarheidbijdrage curatieve somatische zorg is vermeld (Kamerstukken II 2011/2012, 32 393, nr.16).
 
-#### Artikel 2. werkingssfeer
+##### Artikel 2. werkingssfeer
 
 Deze aanwijzing is van toepassing op zorg als bedoeld in onderdeel B, aanhef en onder 5 en 6 van de [Bijlage](onbekend).
 
-#### Artikel 3. opdrachtverlening
+##### Artikel 3. opdrachtverlening
 
 De zorgautoriteit stelt ter uitvoering van deze aanwijzing regels of beleidsregels vast.
 
-#### Artikel 4
+##### Artikel 4
 
 In aanvulling op de [Aanwijzing beschikbaarheidbijdrage curatieve zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0032584) wordt de hierna aan te wijzen zorg met ingang van het jaar 2015 als volgt nader afgebakend:
 

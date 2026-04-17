@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling selectielijst neerslag handelingen Prophylaxefonds (Sociale Zekerheid 1931–1950) en rechtsopvolger Praeventiefonds (Volksgezondheidsubsidies 1950–1998)"
+title: "Vaststelling selectielijst neerslag handelingen Prophylaxefonds (Sociale Zekerheid 1931–1950) en rechtsopvolger Praeventiefonds (Volksgezondheidsubsidies 1950–1998)"
 identifier: "BWBR0019087"
-categorie: "Sociaal recht"
-publicatiedatum: 2005-12-31
-laatste_update: 2005-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019087"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2005-12-31"
+last_updated: "2005-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019087"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "7774533"
+version_id: "12690512"
+internal_id: "C25313551"
+label_id: "7762154"
+dtd_version: "2.0"
+original_entry_into_force: "2005-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019087/2005-12-31/0"
+intitule_bron: "Stcrt.2005-253"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-11-21"
+intitule_published: "2005-12-29"
+intitule_in_force: "2005-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-253"
+original_signed_date: "2005-11-21"
+original_published_date: "2005-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-253-p33-SC73051"
+entry_into_force_date: "2005-12-31"
+jci_1_3: "jci1.3:c:BWBR0019087&z=2005-12-31&g=2005-12-31"
+jci_1_0: "1.0:c:BWBR0019087&g=2005-12-31"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling selectielijst neerslag handelingen Prophylaxefonds (Sociale Zekerheid 1931–1950) en rechtsopvolger Praeventiefonds (Volksgezondheidsubsidies 1950–1998)"
+signed_date: "2005-11-21"
+entry_into_force: "2005-12-31"
 ---
-
 # Vaststelling selectielijst neerslag handelingen Prophylaxefonds (Sociale Zekerheid 1931–1950) en rechtsopvolger Praeventiefonds (Volksgezondheidsubsidies 1950–1998)
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +42,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 9 november 200
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst ingediend door Zorgonderzoek Nederland Medische Wetenschappen voor de neerslag van de handelingen van het Prophylaxefonds op het beleidsterrein Sociale Zekerheid over de periode 1931–⁠1950 en haar rechtsopvolger Praeventiefonds op het beleidsterrein Volksgezondheidsubsidies over de periode 1950–1998’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

@@ -1,13 +1,39 @@
 ---
-title: "Legesbesluit visserijdocumenten"
+title: "Besluit van 7 september 2000, houdende vaststelling leges visserijdocumenten (Legesbesluit visserijdocumenten)"
 identifier: "BWBR0011616"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-04-12
-laatste_update: 2006-04-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011616"
+country: "nl"
+rank: "amvb"
+publication_date: "2006-04-12"
+last_updated: "2006-04-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011616"
+soort: "AMvB"
+stam_id: "1423673"
+version_id: "2134552"
+internal_id: "C2134551"
+label_id: "1381694"
+dtd_version: "2.0"
+original_entry_into_force: "2001-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011616/2006-04-12/0"
+intitule_bron: "Stb.2000-492"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-09-07"
+intitule_published: "2000-11-28"
+intitule_in_force: "2001-10-25"
+intitule_status: "goed"
+original_publication: "Stb.2000-492"
+original_signed_date: "2000-09-07"
+original_published_date: "2000-11-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2000-492"
+entry_into_force_date: "2001-11-01"
+jci_1_3: "jci1.3:c:BWBR0011616&z=2006-04-12&g=2006-04-12"
+jci_1_0: "1.0:c:BWBR0011616&g=2006-04-12"
+citeertitel_status: "officieel"
+short_title: "Legesbesluit visserijdocumenten"
+signed_date: "2000-09-07"
+entry_into_force: "2001-11-01"
 ---
-
 # Besluit van 7 september 2000, houdende vaststelling leges visserijdocumenten (Legesbesluit visserijdocumenten)
 
 Op de voordracht van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 20 juli 2000, no. TRCJZ/2000/9628, Directie Juridische Zaken;
@@ -20,11 +46,11 @@ Gezien het nader rapport van de Staatssecretaris van Landbouw, Natuurbeheer en V
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder vissersvaartuig: vissersvaartuig als bedoeld in [artikel 1, onderdeel b, van het Besluit registratie vissersvaartuigen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien naar aanleiding van een aanvraag een vergunning of ontheffing als bedoeld in de onderdelen a tot en met v wordt verstrekt, is de geadresseerde van het besluit voor de uitreiking van het desbe-treffende document het daarachter vermelde bedrag verschuldigd.
 
@@ -71,17 +97,17 @@ In dit besluit wordt verstaan onder vissersvaartuig: vissersvaartuig als bedoeld
 | m. | document houdende de toestemming tot de uitoefening van een bepaalde tak van de visserij met een vissersvaartuig in een bepaalde geografische zone buiten de communautaire wateren: | € 146,00; |
 | n. | document houdende de toestemming tot de uitoefening van de visserij met een vissersvaartuig in wateren van een ander land dan een lidstaat van de Europese Unie: | € 146,00. |
 
-#### Artikel 3
+##### Artikel 3
 
 Indien op aanvraag voor één handeling twee of meer verschillende ontheffingen als bedoeld in [artikel 2, eerste lid, onderdelen s tot en met v](https://wetten.overheid.nl/jci1.3:c:BWBR0011616&artikel=2&z=2006-04-12&g=2006-04-12), worden verstrekt, is slechts terzake van de ontheffing met het hoogste vergoedingsbedrag, het vastgestelde bedrag verschuldigd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 2. Onverminderd het eerste lid, is dit besluit niet van toepassing op aanvragen die zijn ingediend op het tijdstip van inwerkingtreding van dit besluit.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Legesbesluit visserijdocumenten.
 

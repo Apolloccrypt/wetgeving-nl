@@ -1,14 +1,41 @@
 ---
-title: "Waarborgwet 2019"
+title: "Wet van 22 mei 2019, houdende regels omtrent het waarborgen van edelmetalen voorwerpen (Waarborgwet 2019)"
 identifier: "BWBR0042284"
-categorie: "Overig"
-publicatiedatum: 2022-03-02
-laatste_update: 2022-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042284"
+country: "nl"
+rank: "wet"
+publication_date: "2022-03-02"
+last_updated: "2022-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042284"
+soort: "wet"
+stam_id: "15091363"
+version_id: "25868312"
+internal_id: "C37989091"
+label_id: "15040504"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042284/2022-03-02/0"
+intitule_bron: "Stb.2019-209"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-05-22"
+intitule_published: "2019-06-12"
+intitule_in_force: "2020-06-25"
+intitule_status: "goed"
+original_publication: "Stb.2019-209"
+original_signed_date: "2019-05-22"
+original_published_date: "2019-06-12"
+original_effect: "nieuwe-regeling"
+original_dossier: "35075"
+original_url_id: "stb-2019-209"
+entry_into_force_date: "2020-07-01"
+jci_1_3: "jci1.3:c:BWBR0042284&z=2022-03-02&g=2022-03-02"
+jci_1_0: "1.0:c:BWBR0042284&g=2022-03-02"
+citeertitel_status: "officieel"
+short_title: "Waarborgwet 2019"
+signed_date: "2019-05-22"
+entry_into_force: "2020-07-01"
 ---
-
-# Waarborgwet 2019
+# Wet van 22 mei 2019, houdende regels omtrent het waarborgen van edelmetalen voorwerpen (Waarborgwet 2019)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -68,7 +95,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.1. De verplichting tot waarborgen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een ondernemer is verplicht een platina, gouden of zilveren voorwerp te laten waarborgen voordat het in Nederland in de handel wordt gebracht, tenzij het voorwerp reeds beschikt over een gehaltemerk.
 
@@ -78,13 +105,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De verplichting, bedoeld in het eerste lid, is mede van toepassing op een voorwerp waarvan het reeds aangebrachte gehaltemerk niet langer leesbaar is.
 
-#### Artikel 3
+##### Artikel 3
 
 Met de waarborging, vereist op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2022-03-02&g=2022-03-02), wordt gelijkgesteld de waarborging door een onafhankelijke waarborginstelling in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, mits het desbetreffende gehaltemerk op grond van aldaar geldende wettelijke voorschriften wordt erkend en de waarborging een beschermingsniveau biedt dat ten minste gelijkwaardig is aan het niveau dat met de nationale waarborging wordt nagestreefd.
 
 #### § 2.2. Waarborginstellingen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister wijst een of meer rechtspersonen aan die tot taak hebben om overeenkomstig het bij of krachtens deze wet bepaalde:
 
@@ -116,7 +143,7 @@ Met de waarborging, vereist op grond van [artikel 2, eerste lid](https://wetten.
 
 13. De accountant, bedoeld in het twaalfde lid, doet bij de jaarrekening verslag van zijn bevindingen ten aanzien van de wijze waarop de waarborginstelling rekening houdt met de aspecten die van belang zijn voor de continuïteit van de waarborginstelling, bedoeld in het elfde lid. Onze Minister kan bepalen dat de jaarrekening tevens vergezeld gaat van een verslag van de accountant van zijn bevindingen over de vraag of het beheer en de organisatie van de waarborginstelling voldoen aan de eisen van doelmatigheid.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De kosten die samenhangen met het verrichten van werkzaamheden en diensten door een waarborginstelling op grond van het bepaalde bij of krachtens deze wet, worden door de waarborginstelling ten laste gebracht van de betrokken ondernemer.
 
@@ -134,7 +161,7 @@ Met de waarborging, vereist op grond van [artikel 2, eerste lid](https://wetten.
 
 8. Het besluit omtrent goedkeuring van een wijziging van de tarieven, bedoeld in het zevende lid, wordt uiterlijk acht weken nadat de waarborginstelling de wijziging ter goedkeuring aan Onze Minister heeft voorgelegd, bekendgemaakt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Met het oog op de goedkeuring, bedoeld in [artikel 29, eerste lid, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29), zendt een waarborginstelling jaarlijks voor 1 oktober de door haar vastgestelde begroting aan Onze Minister.
 
@@ -142,7 +169,7 @@ Met de waarborging, vereist op grond van [artikel 2, eerste lid](https://wetten.
 
 #### § 2.3. De merken
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het laagste gehalte dat door een gehaltemerk wordt gewaarborgd, is:
 
@@ -158,7 +185,7 @@ Met de waarborging, vereist op grond van [artikel 2, eerste lid](https://wetten.
 
 4. Bij ministeriële regeling worden de gehaltemerken vastgesteld en nadere regels gesteld over het gebruik ervan.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Behalve van het gehaltemerk, voorziet een waarborginstelling ter waarborging aangeboden gouden, zilveren en platina voorwerpen tevens van het verantwoordelijkheidsteken, indien een dergelijk merk nog ontbreekt op het voorwerp.
 
@@ -170,7 +197,7 @@ Met de waarborging, vereist op grond van [artikel 2, eerste lid](https://wetten.
 
 3. Bij ministeriële regeling worden de merken, bedoeld in het eerste en tweede lid, vastgesteld en kunnen regels worden gesteld over het gebruik ervan.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voor registratie als verantwoordelijkheidsteken behoeft een ontwerpverantwoordelijkheidsteken de goedkeuring van een waarborginstelling.
 
@@ -182,7 +209,7 @@ Met de waarborging, vereist op grond van [artikel 2, eerste lid](https://wetten.
 
 - b. het verantwoordelijkheidsteken gelijk is aan dat van een andere ondernemer.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Na de goedkeuring, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.3&artikel=9&z=2022-03-02&g=2022-03-02), wordt het goedgekeurde teken opgenomen in het register van verantwoordelijkheidstekens.
 
@@ -190,19 +217,19 @@ Met de waarborging, vereist op grond van [artikel 2, eerste lid](https://wetten.
 
 3. Indien de goedkeurende waarborginstelling niet de beheerder is van het register, zendt zij het goedgekeurde teken zo spoedig mogelijk ter registratie aan de beheerder.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een waarborginstelling kan het besluit nemen om in afwijking van [artikel 4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2022-03-02&g=2022-03-02), af te zien van het aanbrengen van een merk, indien dat niet zonder gevaar van beschadiging op het voorwerp aangebracht kan worden of indien het voorwerp van bijzondere oudheidkundige of kunstzinnige waarde is.
 
 2. Een besluit als bedoeld in het eerste lid bevat een nauwkeurige omschrijving van het desbetreffende voorwerp en de informatie die uit het merk zou kunnen zijn verkregen, indien van het aanbrengen van dat merk niet zou zijn afgezien.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het aanbrengen van een merk gebeurt door stempeling of lasergravering of een andere bij of krachtens onderdeel 5.2 van Bijlage II van het Verdrag toegestane methode.
 
 2. Bij ministeriële regeling kunnen eisen worden gesteld aan de toegestane methodes om een merk aan te brengen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien een waarborginstelling specifieke taken uitbesteedt of door een dochteronderneming laat uitvoeren, draagt zij er zorg voor dat de onderaannemer of dochteronderneming voldoet aan de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2022-03-02&g=2022-03-02), gestelde eisen en behoudt zij de volledige verantwoordelijkheid voor de taakuitvoering.
 
@@ -210,15 +237,15 @@ Met de waarborging, vereist op grond van [artikel 2, eerste lid](https://wetten.
 
 #### § 2.4. Bepalingen over het waarborgen in het algemeen en de gehalteproef in het bijzonder
 
-#### Artikel 14
+##### Artikel 14
 
 Indien een platina, gouden of zilveren voorwerp een gehalte aan platina, goud of zilver heeft dat niet gelijk is aan een krachtens [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2022-03-02&g=2022-03-02), vastgesteld gehalte, wordt het voorwerp gewaarborgd op het naastgelegen lagere gehalte waarop het desbetreffende edelmetaal overeenkomstig artikel 7, eerste lid, of krachtens artikel 7, tweede lid, kan worden gewaarborgd.
 
-#### Artikel 15
+##### Artikel 15
 
 Indien het gehalte aan een bepaald edelmetaal niet in het hele voorwerp gelijk is, wordt voor het waarborgen van dat voorwerp uitgegaan van het aangetroffen laagste gehalte.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Indien een voorwerp bestaat uit delen van verschillende edelmetalen worden die delen, met uitzondering van palladium delen, afzonderlijk gewaarborgd, mits het voorwerp voldoet aan bij ministeriële regeling te stellen eisen.
 
@@ -226,7 +253,7 @@ Indien het gehalte aan een bepaald edelmetaal niet in het hele voorwerp gelijk i
 
 3. Bij ministeriële regeling worden regels gesteld over het waarborgen van voorwerpen als bedoeld in het eerste lid, die niet voldoen aan de in dat lid bedoelde eisen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Indien een voorwerp bestaat uit delen van goud, zilver of platina en uit delen van andere stoffen, worden de edelmetalen delen afzonderlijk gewaarborgd, mits het voorwerp voldoet aan bij ministeriële regeling te stellen eisen.
 
@@ -234,7 +261,7 @@ Indien het gehalte aan een bepaald edelmetaal niet in het hele voorwerp gelijk i
 
 3. Bij ministeriële regeling kunnen regels worden gesteld over het aanbrengen van andere aanduidingen op voorwerpen als bedoeld in het eerste lid. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2022-03-02&g=2022-03-02) is van overeenkomstige toepassing.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Indien een partij platina, gouden, zilveren of palladium voorwerpen ter waarborging wordt aangeboden en het borderel vermeldt dat de voorwerpen in de partij telkens beschikken over hetzelfde gehalte aan edelmetaal, toetst de waarborginstelling de homogeniteit van het gehalte aan edelmetaal van de voorwerpen in die partij door middel van een bij of krachtens het Verdrag toegestane onderzoeksmethode.
 
@@ -242,7 +269,7 @@ Indien het gehalte aan een bepaald edelmetaal niet in het hele voorwerp gelijk i
 
 3. Indien de in het eerste lid bedoelde toets uitwijst dat de partij homogeen is, hoeft de waarborginstelling niet elk afzonderlijk voorwerp van die partij aan een gehalteproef te onderwerpen voordat zij de voorwerpen van die partij van het betreffende gehaltemerk voorziet.
 
-#### Artikel 19
+##### Artikel 19
 
 Een waarborginstelling besluit het uitvoeren van een gehalteproef te weigeren, indien:
 
@@ -254,27 +281,27 @@ Een waarborginstelling besluit het uitvoeren van een gehalteproef te weigeren, i
 
 - d. het vermoeden, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&artikel=24&z=2022-03-02&g=2022-03-02), juist blijkt.
 
-#### Artikel 20
+##### Artikel 20
 
 Een waarborginstelling kan besluiten het voor de gehalteproef benodigde metaal te ontnemen aan het voorwerp zelf en niet aan het verlengstuk, bedoeld in [artikel 19, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&artikel=19&z=2022-03-02&g=2022-03-02).
 
-#### Artikel 21
+##### Artikel 21
 
 Voor het borderel, bedoeld in [artikel 19, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&artikel=19&z=2022-03-02&g=2022-03-02), wordt gebruik gemaakt van een door de betrokken waarborginstelling vastgesteld en tegen kostprijs ter beschikking gesteld formulier.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Indien uit een gehalteproef blijkt dat het gehalte aan edelmetaal van een voorwerp lager is dan het gehalte dat in het desbetreffende borderel is opgegeven, verricht de betrokken waarborginstelling op verzoek van de aanbieder een tweede gehalteproef.
 
 2. Indien de tweede gehalteproef het op het borderel opgegeven gehalte bevestigt, is de aanbieder geen vergoeding verschuldigd voor de eerste gehalteproef.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Holle voorwerpen, draad- en knopwerk en alle andere voorwerpen waarvan het gehalte niet op reguliere wijze kan worden onderzocht, onderzoekt de betrokken waarborginstelling door samensmelting van een of meerdere voorwerpen van de betreffende aangeboden partij.
 
 2. Indien het onderzoek de juistheid van het op het borderel opgegeven gehalte bevestigt, vergoedt de betrokken waarborginstelling het maakloon van de aangeboden voorwerpen die zijn samengesmolten.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Indien een waarborginstelling vermoedt dat een ter waarborging aangeboden platina, gouden of zilveren voorwerp in afwijking van de opgave op het borderel met ijzer, koper, hars of enige andere stof is opgevuld of op bedekte wijze met soldeersel is overladen, is zij bevoegd dat voorwerp door te snijden.
 
@@ -282,27 +309,27 @@ Voor het borderel, bedoeld in [artikel 19, onder b](https://wetten.overheid.nl/j
 
 3. Indien het vermoeden van de waarborginstelling onjuist blijkt, vergoedt de waarborginstelling het maakloon van het aangeboden voorwerp dat is doorgesneden.
 
-#### Artikel 25
+##### Artikel 25
 
 Na de gehalteproef wordt elk stukje platina, goud of zilver dat voor die proef bestemd was, teruggegeven aan de aanbieder, tenzij de waarde ervan verwaarloosbaar is.
 
 ### Hoofdstuk 3. Waarborging op verzoek overeenkomstig het Verdrag
 
-#### Artikel 26
+##### Artikel 26
 
 Op verzoek van de aanbieder waarborgt een waarborginstelling palladium voorwerpen, voorwerpen met een gehalte aan goud onder 585 duizendsten en boven of gelijk aan 375 duizendsten en, in afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2022-03-02&g=2022-03-02) en de [paragrafen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.3&z=2022-03-02&g=2022-03-02) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&z=2022-03-02&g=2022-03-02), platina, gouden en zilveren voorwerpen overeenkomstig het bij of krachtens dit hoofdstuk bepaalde.
 
-#### Artikel 27
+##### Artikel 27
 
 Waarborging van de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=3&artikel=26&z=2022-03-02&g=2022-03-02) bedoelde voorwerpen geschiedt op de bij of krachtens onderdeel 2.2 van Bijlage I van het Verdrag bedoelde gehalten.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De gehalteproef wordt verricht overeenkomstig de bij en krachtens het Verdrag bepaalde methoden en technieken.
 
 2. De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&artikel=19&z=2022-03-02&g=2022-03-02), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&artikel=20&z=2022-03-02&g=2022-03-02), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&artikel=21&z=2022-03-02&g=2022-03-02), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&artikel=22&z=2022-03-02&g=2022-03-02), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&artikel=23&z=2022-03-02&g=2022-03-02), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&artikel=24&z=2022-03-02&g=2022-03-02) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&artikel=25&z=2022-03-02&g=2022-03-02) zijn van toepassing op de gehalteproef bij platina, gouden en zilveren voorwerpen en van overeenkomstige toepassing op de gehalteproef bij palladium voorwerpen en voorwerpen met een gehalte aan goud onder 585 duizendsten en boven of gelijk aan 375 duizendsten.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Een voorwerp, ten aanzien waarvan een gehalte als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=3&artikel=27&z=2022-03-02&g=2022-03-02) is vastgesteld, en dat voldoet aan de vereisten, genoemd in bijlage I bij het Verdrag, wordt overeenkomstig het bij of krachtens het Verdrag bepaalde gemerkt met het in onderdeel 5.5 van bijlage II van het Verdrag voor het desbetreffende gehalte vastgestelde gehaltemerk.
 
@@ -310,7 +337,7 @@ Waarborging van de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR00422
 
 ### Hoofdstuk 4. Verbodsbepalingen gericht tot ondernemers
 
-#### Artikel 30
+##### Artikel 30
 
 1. Het is een ondernemer verboden een voltooid platina, gouden of zilveren voorwerp, dat op grond van het bij of krachtens deze wet bepaalde moet zijn gewaarborgd, in zijn bezit te hebben of daarmee handel te drijven, tenzij dat voorwerp is voorzien van een gehaltemerk of de ondernemer ten aanzien van het desbetreffende voorwerp beschikt over een besluit als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.3&artikel=11&z=2022-03-02&g=2022-03-02).
 
@@ -318,7 +345,7 @@ Waarborging van de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR00422
 
 3. Het bepaalde in het eerste lid omtrent het in het bezit hebben van voorwerpen is niet van toepassing op de ondernemer, die de desbetreffende voorwerpen minder dan vier weken in zijn bezit heeft, mits die voorwerpen niet onder de aandacht van het publiek worden gebracht.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Het is een ondernemer verboden een voorwerp dat op grond van het bepaalde bij of krachtens deze wet niet behoeft te worden gewaarborgd, in de handel te brengen als platina, gouden of zilveren voorwerp indien dat voorwerp niet ten minste voldoet aan het op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2022-03-02&g=2022-03-02), voor het desbetreffende edelmetaal geldende laagste gehalte.
 
@@ -326,13 +353,13 @@ Waarborging van de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR00422
 
 3. Onverminderd het eerste en tweede lid, is het een ondernemer verboden een voorwerp als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&artikel=16&z=2022-03-02&g=2022-03-02), of [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.4&artikel=17&z=2022-03-02&g=2022-03-02), in de handel te brengen indien niet duidelijk kenbaar is dat het een voorwerp betreft als bedoeld in artikel 16, eerste lid, of artikel 17, eerste lid.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Het is een ondernemer verboden op platina, gouden of zilveren voorwerpen lijkende voorwerpen samen met gewaarborgde platina, gouden of zilveren voorwerpen onder de aandacht van het publiek te brengen, tenzij eerstgenoemde voorwerpen op duidelijke wijze van de andere zijn onderscheiden.
 
 2. Het is een ondernemer verboden op platina, gouden of zilveren voorwerpen lijkende voorwerpen samen met platina, gouden of zilveren voorwerpen die op grond van het bepaalde bij of krachtens deze wet niet behoeven te worden gewaarborgd, onder de aandacht van het publiek te brengen, tenzij eerstgenoemde voorwerpen op duidelijke wijze van de andere zijn onderscheiden.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Het is een ondernemer verboden om een ander voorwerp onder de aandacht van het publiek te brengen met gebruikmaking van de woorden edelmetaal, platina, goud of zilver, of op zodanige andere wijze dat daaruit redelijkerwijs kan worden afgeleid dat het gaat om een platina, gouden of zilveren voorwerp, dan een voorwerp dat:
 
@@ -344,7 +371,7 @@ Waarborging van de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR00422
 
 ### Hoofdstuk 5. Openbare verkopingen en verkopingen door pandhuizen
 
-#### Artikel 34
+##### Artikel 34
 
 De [artikelen 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=4&artikel=30&z=2022-03-02&g=2022-03-02), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=4&artikel=31&z=2022-03-02&g=2022-03-02), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=4&artikel=32&z=2022-03-02&g=2022-03-02) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=4&artikel=33&z=2022-03-02&g=2022-03-02) zijn van overeenkomstige toepassing op degenen die verantwoordelijkheid dragen voor een verkoping, te weten:
 
@@ -354,7 +381,7 @@ De [artikelen 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&ho
 
 - c. het pandhuis ingeval van verkopingen van verpande zaken door een pandhuis.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Indien een openbare verkoping plaatsvindt waarvan platina, gouden of zilveren voorwerpen deel uitmaken, meldt de betrokken verantwoordelijke, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=5&artikel=34&z=2022-03-02&g=2022-03-02), ten minste drie dagen voor de eerste kijkdag de voorgenomen verkoping aan de krachtens [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=6&paragraaf=6.1&artikel=36&z=2022-03-02&g=2022-03-02), aangewezen ambtenaren.
 
@@ -376,13 +403,13 @@ De [artikelen 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&ho
 
 #### § 6.1. Toezicht op de naleving
 
-#### Artikel 36
+##### Artikel 36
 
 1. Met het toezicht op de naleving van het bepaalde bij en krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2022-03-02&g=2022-03-02) en [40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=7&artikel=40&z=2022-03-02&g=2022-03-02), [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=4&z=2022-03-02&g=2022-03-02) en [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=5&z=2022-03-02&g=2022-03-02) zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 37
+##### Artikel 37
 
 1. De krachtens [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=6&paragraaf=6.1&artikel=36&z=2022-03-02&g=2022-03-02), aangewezen ambtenaren zijn bevoegd om, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.
 
@@ -390,17 +417,17 @@ De [artikelen 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&ho
 
 #### § 6.2. Last onder dwangsom
 
-#### Artikel 38
+##### Artikel 38
 
 Onze Minister kan in geval van overtreding van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2022-03-02&g=2022-03-02) of [40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=7&artikel=40&z=2022-03-02&g=2022-03-02), of van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=4&z=2022-03-02&g=2022-03-02) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=5&z=2022-03-02&g=2022-03-02), aan de overtreder een last onder dwangsom opleggen.
 
 ### Hoofdstuk 7. Informatie
 
-#### Artikel 39
+##### Artikel 39
 
 Een waarborginstelling verstrekt een krachtens [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=6&paragraaf=6.1&artikel=36&z=2022-03-02&g=2022-03-02), aangewezen ambtenaar desgevraagd de gegevens en inlichtingen en verschaft hem desgevraagd inzage in de gegevens en bescheiden die redelijkerwijze nodig zijn voor de uitvoering van het in artikel 36, eerste lid, bedoelde toezicht op de naleving.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Een ondernemer heeft op een voor het publiek zichtbare plaats een document aanwezig waarop de in de [artikelen 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2022-03-02&g=2022-03-02), en [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=3&artikel=29&z=2022-03-02&g=2022-03-02), bedoelde gehaltemerken met toelichting staan afgebeeld.
 
@@ -408,25 +435,25 @@ Een waarborginstelling verstrekt een krachtens [artikel 36, eerste lid](https://
 
 ### Hoofdstuk 8. Wijziging andere wetten
 
-#### Artikel 41
+##### Artikel 41
 
 Wijzigt de Algemene douanewet.
 
-#### Artikel 42
+##### Artikel 42
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 43
+##### Artikel 43
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 44
+##### Artikel 44
 
 Wijzigt het Wetboek van Strafrecht.
 
 ### Hoofdstuk 9. Overige bepalingen
 
-#### Artikel 45
+##### Artikel 45
 
 1. Indien de Permanente Commissie, bedoeld in artikel 10 van het Verdrag, conform het bepaalde in het Verdrag besluit tot wijziging van de:
 
@@ -444,7 +471,7 @@ gaat deze wijziging voor de toepassing van deze wet gelden met ingang van de dag
 
 2. Onze Minister maakt een besluit als bedoeld in het eerste lid in de Staatscourant bekend.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Indien op basis van [artikel 7, eerste lid, van de Waarborgwet 1986](https://wetten.overheid.nl/jci1.3:c:BWBR0009275&artikel=7), zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2022-03-02&g=2022-03-02), een rechtspersoon is aangewezen, wordt die aanwijzing voor de duur daarvan aangemerkt als een aanwijzing als bedoeld in artikel 4, eerste lid.
 
@@ -456,15 +483,15 @@ gaat deze wijziging voor de toepassing van deze wet gelden met ingang van de dag
 
 5. De op het tijdstip van inwerkingtreding van de desbetreffende bepalingen van deze wet aanhangige aanvragen tot, verzoeken om of bezwaren tegen besluiten op grond van [Waarborgwet 1986](https://wetten.overheid.nl/jci1.3:c:BWBR0009275) worden met ingang van dat tijdstip aangemerkt als aanvragen tot, verzoeken om of bezwaren tegen besluiten op grond van deze wet.
 
-#### Artikel 47
+##### Artikel 47
 
 De [Waarborgwet 1986](https://wetten.overheid.nl/jci1.3:c:BWBR0009275) en de [Wet van 4 oktober 2001 tot wijziging van de Waarborgwet 1986 met betrekking tot de uitoefening van toezicht op de naleving](https://wetten.overheid.nl/jci1.3:c:BWBR0012870) (Stb. 2001, 514) worden ingetrokken.
 
-#### Artikel 48
+##### Artikel 48
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 49
+##### Artikel 49
 
 Deze wet wordt aangehaald als: Waarborgwet met vermelding van het jaartal van het Staatsblad waarin zij zal worden geplaatst.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit onderzoek in strafzaken naar een ernstige besmettelijke ziekte"
+title: "Besluit van 8 maart 2010, houdende regels over het strafvorderlijk onderzoek naar besmetting met een ernstige besmettelijke ziekte en fylogenetisch onderzoek (Besluit bloedtest in strafzaken in geval van een ernstige besmettelijke ziekte)"
 identifier: "BWBR0027394"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-04-24
-laatste_update: 2020-04-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027394"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-04-24"
+last_updated: "2020-04-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027394"
+soort: "AMvB"
+stam_id: "10461623"
+version_id: "26647722"
+internal_id: "C37799091"
+label_id: "10436924"
+dtd_version: "2.0"
+original_entry_into_force: "2020-04-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027394/2020-04-24/0"
+intitule_bron: "Stb.2010-115"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-03-08"
+intitule_published: "2010-03-16"
+intitule_in_force: "2010-04-22"
+intitule_status: "goed"
+original_publication: "Stb.2020-125"
+original_signed_date: "2020-04-22"
+original_published_date: "2020-04-24"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2020-125"
+entry_into_force_date: "2020-04-24"
+jci_1_3: "jci1.3:c:BWBR0027394&z=2020-04-24&g=2020-04-24"
+jci_1_0: "1.0:c:BWBR0027394&g=2020-04-24"
+citeertitel_status: "officieel"
+short_title: "Besluit onderzoek in strafzaken naar een ernstige besmettelijke ziekte"
+signed_date: "2020-04-22"
+entry_into_force: "2020-04-24"
 ---
-
 # Besluit van 8 maart 2010, houdende regels over het strafvorderlijk onderzoek naar besmetting met een ernstige besmettelijke ziekte en fylogenetisch onderzoek (Besluit bloedtest in strafzaken in geval van een ernstige besmettelijke ziekte)
 
 Op de voordracht van Onze Minister van Justitie van 15 december 2009, directie Wetgeving, nr. 5634096/09/6;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wetboek van Strafvorde
 
 #### § 1. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Aanwijzing ernstige besmettelijke ziekten
 
-#### Artikel 2
+##### Artikel 2
 
 Als ernstige besmettelijke ziekten in het kader waarvan een onderzoek als bedoeld in [artikel 151e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151e), 151e, vijfde lid, [artikel 151h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151h), of [artikel 151i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151i), kan worden verricht, worden aangewezen:
 
@@ -54,7 +80,7 @@ Als ernstige besmettelijke ziekten in het kader waarvan een onderzoek als bedoel
 
 #### § 3. Aanwijzing van het te onderzoeken celmateriaal
 
-#### Artikel 3
+##### Artikel 3
 
 Als celmateriaal waaraan een onderzoek als bedoeld in [artikel 151e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151e), 151e, vijfde lid, [artikel 151h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151h), of [artikel 151i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151i), kan worden verricht, wordt aangewezen:
 
@@ -62,7 +88,7 @@ Als celmateriaal waaraan een onderzoek als bedoeld in [artikel 151e, eerste lid]
 
 - b. neus- en keelslijmvlies en sputum, indien het een onderzoek naar een ernstige besmettelijke ziekte als bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=2&artikel=2&z=2020-04-24&g=2020-04-24), betreft.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Degene die gevraagd wordt schriftelijk toe te stemmen in het afnemen van celmateriaal ten behoeve van het uitvoeren van een onderzoek als bedoeld in [artikel 151e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151e), of [artikel 151h, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151h), kan zich bij het nemen van zijn beslissing door een raadsman doen bijstaan. De officier van justitie of de rechter-commissaris wijst hem op deze mogelijkheid.
 
@@ -72,13 +98,13 @@ Als celmateriaal waaraan een onderzoek als bedoeld in [artikel 151e, eerste lid]
 
 4. Het celmateriaal wordt afgenomen door een arts of een verpleegkundige. Indien de arts of de verpleegkundige bij de behandeling van de desbetreffende persoon betrokken is of is geweest, neemt hij bij hem geen celmateriaal af, tenzij de persoon daarin schriftelijk toestemt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het afnemen van celmateriaal ten behoeve van een onderzoek als bedoeld in [artikel 151e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151e), of [artikel 151h, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151h) bij degene aan wie een bevel als bedoeld in artikel 151e, tweede lid, of artikel 151h, derde lid, van de wet is gegeven, geschiedt op de wijze als omschreven in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=4&artikel=4&z=2020-04-24&g=2020-04-24). Artikel 4, derde lid, is van overeenkomstige toepassing.
 
 2. Het eerste lid is van overeenkomstige toepassing in geval van het afnemen van celmateriaal ten behoeve van een tegenonderzoek.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij het afnemen van celmateriaal als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=4&artikel=4&z=2020-04-24&g=2020-04-24) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=4&artikel=5&z=2020-04-24&g=2020-04-24) is een opsporingsambtenaar aanwezig die:
 
@@ -94,7 +120,7 @@ Als celmateriaal waaraan een onderzoek als bedoeld in [artikel 151e, eerste lid]
 
 #### § 4. Onderzoek naar besmetting met een ernstige besmettelijke ziekte
 
-#### Artikel 7
+##### Artikel 7
 
 1. In geval van een onderzoek als bedoeld in [artikel 151e, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151e) voorziet de opsporingsambtenaar de verpakking van een in beslag genomen voorwerp waarop mogelijkerwijs celmateriaal van de verdachte aanwezig is, dan wel van celmateriaal dat niet is afgenomen op de wijze als voorzien in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=4&artikel=4&z=2020-04-24&g=2020-04-24) of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=4&artikel=5&z=2020-04-24&g=2020-04-24), van een identiteitszegel zo spoedig mogelijk nadat het voorwerp of celmateriaal in beslag is genomen.
 
@@ -102,13 +128,13 @@ Als celmateriaal waaraan een onderzoek als bedoeld in [artikel 151e, eerste lid]
 
 3. De opsporingsambtenaar zorgt ervoor dat het voorwerp of het celmateriaal, bedoeld in het eerste lid, zo spoedig mogelijk nadat de officier van justitie of de rechter-commissaris opdracht heeft gegeven tot het verrichten van een onderzoek als bedoeld in [artikel 151e, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151e), in een verpakking die hij heeft voorzien van een of meer sluitzegels als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=4&artikel=6&z=2020-04-24&g=2020-04-24), wordt bezorgd bij een gemeentelijke gezondheidsdienst.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een onderzoek als bedoeld in [artikel 151e, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151e), of [artikel 151h, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151h) of een tegenonderzoek als bedoeld in [artikel 151f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151f), of artikel 151h, derde lid, van de wet wordt verricht in het laboratorium van de gemeentelijke gezondheidsdienst waarbij het celmateriaal, bedoeld in [artikel 6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=4&artikel=6&z=2020-04-24&g=2020-04-24), of [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=4&artikel=7&z=2020-04-24&g=2020-04-24), of het voorwerp, bedoeld in artikel 7, derde lid, is bezorgd, of het laboratorium van een ziekenhuis dat binnen het grondgebied van die gemeentelijke gezondheidsdienst valt.
 
 2. Indien het onderzoek, bedoeld in [artikel 151e, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151e), of [artikel 151h, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151h) wordt verricht in het laboratorium van een ziekenhuis, zorgt de gemeentelijke gezondheidsdienst dat het celmateriaal of het voorwerp, dat voor het verrichten van het onderzoek nodig is, zo spoedig mogelijk in de verpakking, bedoeld in [artikel 6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=4&artikel=6&z=2020-04-24&g=2020-04-24), of [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=4&artikel=7&z=2020-04-24&g=2020-04-24), bij dat laboratorium wordt bezorgd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De deskundige die is verbonden aan het laboratorium van de gemeentelijke gezondheidsdienst of het ziekenhuis, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=5&artikel=8&z=2020-04-24&g=2020-04-24), en is aangewezen voor het verrichten van het onderzoek, bedoeld in [artikel 151e, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151e), of [artikel 151h, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151h), of een tegenonderzoek als bedoeld in [artikel 151f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151f), of artikel 151h, derde lid, van de wet, verricht het onderzoek binnen de termijn die de officier van justitie of de rechter-commissaris die de opdracht tot het verrichten van het onderzoek heeft gegeven, heeft gesteld. De termijn wordt na overleg met de deskundige die het onderzoek verricht, vastgesteld.
 
@@ -132,7 +158,7 @@ Als celmateriaal waaraan een onderzoek als bedoeld in [artikel 151e, eerste lid]
 
 #### § 5. Fylogenetisch onderzoek
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien de uitslag van het onderzoek, bedoeld in [artikel 151e, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151e), of [artikel 151h, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151h) negatief is, vernietigt de gemeentelijke gezondheidsdienst, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=5&artikel=8&z=2020-04-24&g=2020-04-24), het resterende celmateriaal waarmee dat onderzoek is verricht, en het celmateriaal, bedoeld in [artikel 6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=4&artikel=6&z=2020-04-24&g=2020-04-24), of [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=4&artikel=7&z=2020-04-24&g=2020-04-24), dat bestemd is voor een onderzoek als bedoeld in [artikel 151i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151i).
 
@@ -142,7 +168,7 @@ Als celmateriaal waaraan een onderzoek als bedoeld in [artikel 151e, eerste lid]
 
 4. De gemeentelijke gezondheidsdienst of het ziekenhuis in wiens laboratorium het onderzoek, bedoeld in [artikel 151e, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151e), of [artikel 151h, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151h), is verricht, vernietigt na een half jaar het verslag van het onderzoek, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=5&artikel=9&z=2020-04-24&g=2020-04-24), en de bij dat verslag behorende identificerende persoonsgegevens.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een onderzoek als bedoeld in [artikel 151i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151i) of een tegenonderzoek als bedoeld in artikel 151i, tweede lid, van de wet wordt verricht in
 
@@ -154,7 +180,7 @@ Als celmateriaal waaraan een onderzoek als bedoeld in [artikel 151e, eerste lid]
 
 3. Indien de accreditatie van een laboratorium als bedoeld in het eerste lid is ingetrokken, is geschorst of na haar vervaldatum niet is verlengd, kan in dit laboratorium niet langer onderzoek als bedoeld in [artikel 151i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151i) worden verricht.
 
-#### Artikel 12
+##### Artikel 12
 
 1. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=5&artikel=9&z=2020-04-24&g=2020-04-24) is van overeenkomstige toepassing op de deskundige die is verbonden aan een laboratorium als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=6&artikel=11&z=2020-04-24&g=2020-04-24) en is aangewezen voor het verrichten van een onderzoek als bedoeld in [artikel 151i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151i) of een tegenonderzoek als bedoeld in artikel 151i, tweede lid, van de wet.
 
@@ -162,7 +188,7 @@ Als celmateriaal waaraan een onderzoek als bedoeld in [artikel 151e, eerste lid]
 
 #### § 6. Kosten van tegenonderzoek
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het Academisch Medisch Centrum in Amsterdam of een ander laboratorium dan het betrokken laboratorium van het Academisch Medisch Centrum, indien het onderzoek, bedoeld in [artikel 151i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151i), of het tegenonderzoek, bedoeld in artikel 151i, tweede lid, van de wet, wordt verricht in dat andere laboratorium, vernietigt het celmateriaal, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=5&artikel=10&z=2020-04-24&g=2020-04-24), het verslag van het onderzoek, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027394&paragraaf=5&artikel=9&z=2020-04-24&g=2020-04-24), en de bij dat verslag behorende identificerende persoonsgegevens, nadat een beslissing tot niet-vervolging, een kennisgeving van niet verdere vervolging, een onherroepelijke buitenvervolgingstelling, een rechterlijke verklaring dat de zaak geëindigd is, een strafbeschikking volledig ten uitvoer is gelegd of een einduitspraak als bedoeld in de [artikelen 351](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=351) en [352 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=352) onherroepelijk is geworden in verband met het misdrijf in het kader waarvan het celmateriaal is verkregen.
 
@@ -170,7 +196,7 @@ Als celmateriaal waaraan een onderzoek als bedoeld in [artikel 151e, eerste lid]
 
 #### § 7. Kosten van tegenonderzoek
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het aan de verdachte in rekening te brengen deel van de kosten, bedoeld in de [artikelen 151f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151f), en [151h, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151h), voor het verrichten van een tegenonderzoek als bedoeld in artikel 151f, derde lid, of artikel 151h, derde lid, van de wet bedraagt € 50.
 
@@ -180,11 +206,11 @@ Als celmateriaal waaraan een onderzoek als bedoeld in [artikel 151e, eerste lid]
 
 #### § 8. Wijziging van andere regelingen
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt het Tijdelijk besluit Lex silencio positivo Dienstenrichtlijn.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit treedt in werking op het tijdstip waarop de wet van 12 november 2009 tot wijziging van het Wetboek van Strafvordering inzake de regeling van onderzoek naar de mogelijkheid van overbrenging van een ernstige besmettelijke ziekte bij gelegenheid van een strafbaar feit (verplichte medewerking aan een bloedtest in strafzaken) (Stb. 2009, 475) in werking treedt.
 
@@ -198,7 +224,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 9. Slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit wordt aangehaald als: Besluit onderzoek in strafzaken naar een ernstige besmettelijke ziekte.
 

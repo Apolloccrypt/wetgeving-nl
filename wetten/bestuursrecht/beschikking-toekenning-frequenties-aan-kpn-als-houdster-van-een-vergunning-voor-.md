@@ -1,13 +1,39 @@
 ---
-title: "Beschikking toekenning frequenties aan KPN als houdster van een vergunning voor GSM"
+title: "Beschikking van de Minister van Verkeer en Waterstaat, houdende toekenning van frequenties aan KPN als houdster van een vergunning voor GSM"
 identifier: "BWBR0032236"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-11-01
-laatste_update: 2012-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032236"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-11-01"
+last_updated: "2012-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032236"
+soort: "ministeriele-regeling"
+stam_id: "11912183"
+version_id: "19794742"
+internal_id: "C27802141"
+label_id: "11884224"
+dtd_version: "2.0"
+original_entry_into_force: "2012-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032236/2012-11-01/0"
+intitule_bron: "Stcrt.2012-19660"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-09-20"
+intitule_published: "2012-09-27"
+intitule_in_force: "2012-09-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-19660"
+original_signed_date: "2012-09-20"
+original_published_date: "2012-09-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-19660"
+entry_into_force_date: "2012-11-01"
+jci_1_3: "jci1.3:c:BWBR0032236&z=2012-11-01&g=2012-11-01"
+jci_1_0: "1.0:c:BWBR0032236&g=2012-11-01"
+citeertitel_status: "redactioneel"
+short_title: "Beschikking toekenning frequenties aan KPN als houdster van een vergunning voor GSM"
+signed_date: "2012-09-20"
+entry_into_force: "2012-11-01"
 ---
-
 # Beschikking van de Minister van Verkeer en Waterstaat, houdende toekenning van frequenties aan KPN als houdster van een vergunning voor GSM
 
 Gelet op de artikelen 13e en 13l van de Wet op de telecommunicatievoorzieningen;
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
@@ -54,7 +80,7 @@ In deze beschikking wordt verstaan onder:
 
 #### § 2. Frequenties
 
-#### Artikel 2. Toekenning van frequenties
+##### Artikel 2. Toekenning van frequenties
 
 1. Indien de vergunning met kenmerk HDTP/95/5447/HP wordt gehouden door één vergunninghouder, zijn voor hem voor de uitvoering van die vergunning de radiofrequenties beschikbaar, genoemd in tabel 1 van de vergunning.
 
@@ -64,7 +90,7 @@ In deze beschikking wordt verstaan onder:
 
 4. De frequenties die zijn opgenomen in de band 935-960 MHz worden alleen gebruikt voor de basisstations.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In het belang van continuïteit van dienstverlening, sluit de vergunninghouder binnen:
 
@@ -96,21 +122,21 @@ In deze beschikking wordt verstaan onder:
 
 7. De minister kan de vergunninghouder aanvullende verplichtingen opleggen die verband houden met de omschakeling. De vergunninghouder heeft dan geen aanspraak op enigerlei vorm van schadevergoeding of schadeloosstelling.
 
-#### Artikel 5. Planning van de telecommunicatie-infrastructuur
+##### Artikel 5. Planning van de telecommunicatie-infrastructuur
 
 1. De planning van de telecommunicatie-infrastructuur met frequenties dient plaats te vinden in overeenstemming met Recommandatie T/R 20-08 van de CEPT en de relevante GSM standaarden.2. De in het eerste lid bedoelde telecommunicatie-infrastructuur wordt niet eerder in werking gesteld dan na goedkeuring door de minister.
 
 #### § 3. Overige bepalingen met betrekking tot frequenties
 
-#### Artikel 6
+##### Artikel 6
 
 Vervalt
 
-#### Artikel 7. Aanvragen om toekenning van frequenties
+##### Artikel 7. Aanvragen om toekenning van frequenties
 
 De vergunninghouder kan ten behoeve van de verdere ontwikkeling van de capaciteit en kwaliteit van de telecommunicatie-infrastructuur bij de minister een aanvraag indienen om toekenning van aanvullende frequenties.
 
-#### Artikel 8. Beoordelingscriteria
+##### Artikel 8. Beoordelingscriteria
 
 1. Een aanvraag als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032236&paragraaf=3&artikel=7&z=2012-11-01&g=2012-11-01) om toekenning van aanvullende frequenties wordt slechts toegewezen, indien:
 
@@ -120,7 +146,7 @@ De vergunninghouder kan ten behoeve van de verdere ontwikkeling van de capacitei
 
 2. Indien bijzondere omstandigheden daartoe naar het oordeel van de minister aanleiding geven, kan de minister, door wijziging van het in het eerste lid bepaalde, voor de beoordeling van een aanvraag nadere technische of economische criteria vaststellen. Deze criteria kunnen slechts betrekking hebben op het doelmatig gebruik van de toegekende frequenties.
 
-#### Artikel 9. Gronden voor intrekking
+##### Artikel 9. Gronden voor intrekking
 
 Een toegekende frequentie kan worden ingetrokken indien:
 
@@ -132,7 +158,7 @@ Een toegekende frequentie kan worden ingetrokken indien:
 
 #### § 4. Slotbepaling
 
-#### Artikel 10. Geldigheidsduur
+##### Artikel 10. Geldigheidsduur
 
 Deze beschikking treedt in werking met ingang van 1 april 1995.
 

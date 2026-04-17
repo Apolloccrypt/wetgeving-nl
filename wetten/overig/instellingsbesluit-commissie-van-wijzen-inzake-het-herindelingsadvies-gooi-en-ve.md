@@ -1,13 +1,38 @@
 ---
 title: "Instellingsbesluit Commissie van Wijzen inzake het herindelingsadvies Gooi- en Vechtstreek"
 identifier: "BWBR0025290"
-categorie: "Overig"
-publicatiedatum: 2009-02-14
-laatste_update: 2009-02-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025290"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-02-14"
+last_updated: "2009-02-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025290"
+soort: "ministeriele-regeling"
+stam_id: "9900773"
+version_id: "16139292"
+internal_id: "C22148991"
+label_id: "9877214"
+dtd_version: "2.0"
+original_entry_into_force: "2009-02-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025290/2009-02-14/0"
+intitule_bron: "Stcrt.2009-29"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-02-02"
+intitule_published: "2009-02-12"
+intitule_in_force: "2009-02-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-29"
+original_signed_date: "2009-02-02"
+original_published_date: "2009-02-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-2259"
+entry_into_force_date: "2009-02-14"
+jci_1_3: "jci1.3:c:BWBR0025290&z=2009-02-14&g=2009-02-14"
+jci_1_0: "1.0:c:BWBR0025290&g=2009-02-14"
+citeertitel_status: "officieel"
+signed_date: "2009-02-02"
+entry_into_force: "2009-02-14"
 ---
-
 # Instellingsbesluit Commissie van Wijzen inzake het herindelingsadvies Gooi- en Vechtstreek
 
 Gehoord de burgemeesters van Bussum, Naarden, Muiden en Weesp;
@@ -16,7 +41,7 @@ Overwegende dat zij op basis van de [Wet Arhi](https://wetten.overheid.nl/jci1.3
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,11 +55,11 @@ In dit besluit wordt verstaan onder:
 
 - e. **de Wet Arhi:** de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718) van 24 oktober 1984.
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een Commissie van Wijzen inzake het herindelingsadvies Gooi- en Vechtstreek.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie heeft tot taak om advies uit te brengen over het besluit dat de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties dient te nemen naar aanleiding van het herindelingsadvies. De commissie wordt gevraagd daarbij de volgende uitgangspunten te hanteren:
 
@@ -50,7 +75,7 @@ Er is een Commissie van Wijzen inzake het herindelingsadvies Gooi- en Vechtstree
 
 3. Na het uitbrengen van het rapport wordt de commissie opgeheven.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie bestaat uit de volgende leden.
 
@@ -70,15 +95,15 @@ Er is een Commissie van Wijzen inzake het herindelingsadvies Gooi- en Vechtstree
 
 6. Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt met inachtneming van de beheersregels, op grond van de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) (Stb. 1995, 276) en het [Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748) (Stb. 1995, 671). De bescheiden worden na het beëindigen van de werkzaamheden overgedragen aan het archief van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 5
+##### Artikel 5
 
 De leden van de commissie kunnen op basis van het [vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317) (Stb. 1988, nummer 205) een vacatiegeld van € 200,– per vergadering ontvangen voor hun werkzaamheden. De voorzitter van de commissie kan op basis van het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317) (Stb. 1988, nummer 205) een vacatiegeld van € 260,– per vergadering ontvangen voor zijn werkzaamheden.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van Wijzen inzake het herindelingsadvies Gooi- en Vechtstreek.
 

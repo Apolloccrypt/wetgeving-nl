@@ -1,13 +1,40 @@
 ---
-title: "Rijkswet op de consulaire tarieven"
+title: "Rijkswet van 18 april 2002, houdende bepalingen omtrent de tarieven voor consulaire dienstverlening"
 identifier: "BWBR0013618"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013618"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013618"
+soort: "rijkswet"
+stam_id: "1712553"
+version_id: "2529092"
+internal_id: "C13412261"
+label_id: "1665324"
+dtd_version: "2.0"
+original_entry_into_force: "2004-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013618/2010-10-10/0"
+intitule_bron: "Stb.2002-251"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-04-18"
+intitule_published: "2002-06-04"
+intitule_in_force: "2003-12-16"
+intitule_status: "goed"
+original_publication: "Stb.2002-251"
+original_signed_date: "2002-04-18"
+original_published_date: "2002-06-04"
+original_effect: "nieuwe-regeling"
+original_dossier: "27217"
+original_url_id: "stb-2002-251"
+entry_into_force_date: "2004-01-01"
+jci_1_3: "jci1.3:c:BWBR0013618&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0013618&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Rijkswet op de consulaire tarieven"
+signed_date: "2002-04-18"
+entry_into_force: "2004-01-01"
 ---
-
 # Rijkswet van 18 april 2002, houdende bepalingen omtrent de tarieven voor consulaire dienstverlening
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -16,7 +43,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de bepalingen betref
 
 Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder
 
@@ -24,7 +51,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder
 
 - 2°. de Gevolmachtigde Minister: de Gevolmachtigde Minister van Aruba, Curaçao of Sint Maarten in Nederland.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De belanghebbende is aan Onze Minister dan wel indien dat bij algemene maatregel van rijksbestuur is bepaald aan de Gevolmachtigde Minister een bij of krachtens algemene maatregel van rijksbestuur te bepalen vergoeding verschuldigd voor het verlenen van de bij of krachtens algemene maatregel van rijksbestuur aangeduide diensten met betrekking tot:
 
@@ -50,7 +77,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder
 
 3. In afwijking van het eerste lid kunnen de diensten en de daarvoor in rekening te brengen vergoeding bij of krachtens algemene maatregel van bestuur worden aangeduid respectievelijk vastgesteld, indien Onze Minister de dienst in Nederland verricht.
 
-#### Artikel 3
+##### Artikel 3
 
 De vergoeding op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=2&z=2010-10-10&g=2010-10-10) wordt verhoogd met een vergoeding voor:
 
@@ -60,15 +87,15 @@ De vergoeding op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - c. kosten die voortvloeien uit de inschakeling van derden bij het verrichten van de dienst.
 
-#### Artikel 4
+##### Artikel 4
 
 De vergoeding op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=2&z=2010-10-10&g=2010-10-10) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=3&z=2010-10-10&g=2010-10-10) is verschuldigd, ook als de dienst door omstandigheden die niet aan Onze Minister dan wel de Gevolmachtigde Minister kunnen worden toegerekend niet is voltooid of de dienst niet tot het beoogde resultaat heeft geleid.
 
-#### Artikel 5
+##### Artikel 5
 
 Onze Minister dan wel de Gevolmachtigde Minister kan bepalen dat de vergoeding op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=2&z=2010-10-10&g=2010-10-10) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=3&z=2010-10-10&g=2010-10-10) niet of niet geheel verschuldigd is, op verzoek van de belanghebbende die voor aanvang van de dienstverrichting zijn onvermogen aannemelijk maakt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De vergoeding wordt vastgesteld en is verschuldigd in de valuta, waarin de bedragen bij of krachtens algemene maatregel van rijksbestuur dan wel algemene maatregel van bestuur op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=2&z=2010-10-10&g=2010-10-10) zijn uitgedrukt.
 
@@ -78,29 +105,29 @@ Onze Minister dan wel de Gevolmachtigde Minister kan bepalen dat de vergoeding o
 
 4. De omrekening uit of naar de valuta, waarin de bedragen bij of krachtens algemene maatregel van rijksbestuur op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=2&z=2010-10-10&g=2010-10-10) zijn uitgedrukt, geschiedt overeenkomstig de bij de vaststelling van de vergoeding bepaalde wisselkoers. Deze wisselkoers wordt zo veel mogelijk op grondslag van de koers van de dag bepaald.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De vergoeding op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=2&z=2010-10-10&g=2010-10-10) is bij vooruitbetaling verschuldigd.
 
 2. De vergoeding op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=3&z=2010-10-10&g=2010-10-10) wordt vastgesteld na beëindiging van de dienstverrichting. Onze Minister dan wel de Gevolmachtigde Minister kan verlangen dat voor de aanvang van de dienstverrichting zekerheid wordt gesteld en kan betaling van een of meer voorschotten vorderen.
 
-#### Artikel 8
+##### Artikel 8
 
 Nadere voorschriften voor de vaststelling en de betaling van de vergoeding kunnen worden vastgesteld bij of krachtens algemene maatregel van rijksbestuur dan wel, indien toepassing is gegeven aan [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=2&z=2010-10-10&g=2010-10-10), bij of krachtens algemene maatregel van bestuur.
 
-#### Artikel 9
+##### Artikel 9
 
 Onze Minister zendt binnen drie jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid, doelmatigheid en de effecten van de toepassing van deze wet en de daarop berustende bepalingen.
 
-#### Artikel 10
+##### Artikel 10
 
 De [Wet op de kanselarijrechten 1948](https://wetten.overheid.nl/jci1.3:c:BWBR0002043) wordt ingetrokken.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze wet wordt aangehaald als: Rijkswet op de consulaire tarieven.
 

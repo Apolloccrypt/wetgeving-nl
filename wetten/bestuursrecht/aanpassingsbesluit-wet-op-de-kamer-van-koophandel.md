@@ -1,13 +1,39 @@
 ---
-title: "Aanpassingsbesluit Wet op de Kamer van Koophandel"
+title: "Besluit van 25 november 2013, houdende aanpassing van algemene maatregelen van bestuur aan de Wet op de Kamer van Koophandel (Aanpassingsbesluit Wet op de Kamer van Koophandel)"
 identifier: "BWBR0034335"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034335"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034335"
+soort: "AMvB"
+stam_id: "12471703"
+version_id: "20967632"
+internal_id: "C30438441"
+label_id: "12442534"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034335/2014-01-01/0"
+intitule_bron: "Stb.2013-510"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-11-25"
+intitule_published: "2013-12-10"
+intitule_in_force: "2013-12-10"
+intitule_status: "goed"
+original_publication: "Stb.2013-510"
+original_signed_date: "2013-11-25"
+original_published_date: "2013-12-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2013-510"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034335&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0034335&g=2014-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanpassingsbesluit Wet op de Kamer van Koophandel"
+signed_date: "2013-11-25"
+entry_into_force: "2014-01-01"
 ---
-
 # Besluit van 25 november 2013, houdende aanpassing van algemene maatregelen van bestuur aan de Wet op de Kamer van Koophandel (Aanpassingsbesluit Wet op de Kamer van Koophandel)
 
 Op de voordracht van Onze Minister van Economische Zaken van 1 oktober 2013, nr. WJZ / 13161457;
@@ -48,75 +74,75 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop hoofdstuk 12 van de Wet op de Kamer van Koophandel in werking treedt.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Aanwijzingsbesluit economische noodwetgeving.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit akten van colportageovereenkomsten.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit beheer sociale-huursector.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit draagbare blustoestellen 1997.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit geluidhinder.
 
-#### Artikel VII
+##### Artikel VII
 
 Het [Besluit heffingen kamers van koophandel en fabrieken](https://wetten.overheid.nl/jci1.3:c:BWBR0009278) wordt ingetrokken.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Het [Besluit instelling, gebiedsindeling en bestuursgrootte kamers van koophandel en fabrieken](https://wetten.overheid.nl/jci1.3:c:BWBR0009277) wordt ingetrokken.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Besluit milieusubsidies.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Besluit registers kinderopvang en peuterspeelzaalwerk.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Besluit SUWI.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Besluit vaststelling bedrag bedoeld in artikel 7b, zevende lid, van de Wet op de kansspelen.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Handelsregisterbesluit 2008.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Instellingsbesluit Hoofdbedrijfschap Ambachten.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt het Kaderbesluit BZK-subsidies.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt het Vreemdelingenbesluit 2000.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Dit besluit treedt in werking met ingang van het tijdstip waarop [hoofdstuk 12 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=12) in werking treedt.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Dit besluit wordt aangehaald als: Aanpassingsbesluit Wet op de Kamer van Koophandel.
 

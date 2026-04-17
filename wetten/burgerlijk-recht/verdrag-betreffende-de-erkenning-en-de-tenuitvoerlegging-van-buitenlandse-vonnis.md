@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de erkenning en de tenuitvoerlegging van buitenlandse vonnissen in burgerlijke of handelszaken"
 identifier: "BWBV0007044"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2023-09-01
-laatste_update: 2023-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007044"
+country: "nl"
+rank: "verdrag"
+publication_date: "2023-09-01"
+last_updated: "2023-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007044"
+soort: "verdrag"
+stam_id: "10005655513"
+version_id: "10006230822"
+internal_id: "C10010081051"
+label_id: "10005637604"
+dtd_version: "2.0"
+original_entry_into_force: "2023-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007044/2023-09-01/0"
+intitule_bron: "Trb.2024-42"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-03-25"
+intitule_in_force: "2024-03-25"
+intitule_status: "goed"
+original_publication: "Trb.2024-42"
+original_published_date: "2024-03-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2024-42"
+entry_into_force_date: "2023-09-01"
+jci_1_3: "jci1.3:c:BWBV0007044&z=2023-09-01&g=2023-09-01"
+jci_1_0: "1.0:c:BWBV0007044&g=2023-09-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-09-01"
 ---
-
 # Verdrag betreffende de erkenning en de tenuitvoerlegging van buitenlandse vonnissen in burgerlijke of handelszaken
 
 De verdragsluitende partijen bij dit verdrag,
@@ -22,13 +44,13 @@ Hebben besloten daartoe dit verdrag te sluiten en hebben overeenstemming bereikt
 
 ### HOOFDSTUK I. – TOEPASSINGSGEBIED EN DEFINITIES
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 1. Dit verdrag is van toepassing op de erkenning en tenuitvoerlegging van vonnissen in burgerlijke of handelszaken. Het heeft met name geen betrekking op fiscale zaken, douanezaken of administratiefrechtelijke zaken.
 
 2. Dit verdrag is van toepassing op de erkenning en tenuitvoerlegging in een verdragsluitende staat van een vonnis dat is gegeven door een gerecht van een andere verdragsluitende staat.
 
-#### Artikel 2. Uitsluitingen van het toepassingsgebied
+##### Artikel 2. Uitsluitingen van het toepassingsgebied
 
 1. Dit verdrag is niet van toepassing op de volgende aangelegenheden:
 
@@ -74,7 +96,7 @@ Hebben besloten daartoe dit verdrag te sluiten en hebben overeenstemming bereikt
 
 5. Dit verdrag laat onverlet de voorrechten en immuniteiten van staten of van internationale organisaties, ten aanzien van henzelf of van hun eigendommen.
 
-#### Artikel 3. Definities
+##### Artikel 3. Definities
 
 1. In dit verdrag wordt verstaan onder:
 
@@ -94,7 +116,7 @@ Hebben besloten daartoe dit verdrag te sluiten en hebben overeenstemming bereikt
 
 ### HOOFDSTUK II. – ERKENNING EN TENUITVOERLEGGING
 
-#### Artikel 4. Algemene bepalingen
+##### Artikel 4. Algemene bepalingen
 
 1. Een door een gerecht van een verdragsluitende staat (staat van herkomst) gegeven vonnis wordt in een andere verdragsluitende staat (aangezochte staat) erkend en ten uitvoer gelegd overeenkomstig de bepalingen van dit hoofdstuk. Erkenning of tenuitvoerlegging kan uitsluitend worden geweigerd op de in dit verdrag vermelde gronden.
 
@@ -104,7 +126,7 @@ Hebben besloten daartoe dit verdrag te sluiten en hebben overeenstemming bereikt
 
 4. Erkenning of tenuitvoerlegging kan worden uitgesteld of geweigerd indien tegen het in lid 3 bedoelde vonnis in de staat van herkomst een rechtsmiddel is ingesteld of indien de termijn voor het instellen van een gewoon rechtsmiddel nog niet is verstreken. Een weigering vormt geen belemmering voor een hernieuwd verzoek om erkenning of tenuitvoerlegging van het vonnis.
 
-#### Artikel 5. Gronden voor erkenning en tenuitvoerlegging
+##### Artikel 5. Gronden voor erkenning en tenuitvoerlegging
 
 1. Een vonnis komt voor erkenning en tenuitvoerlegging in aanmerking wanneer aan een van de volgende voorwaarden is voldaan:
 
@@ -156,11 +178,11 @@ Voor de toepassing van dit onderdeel wordt onder een „exclusief forumkeuzebedi
 
 3. Lid 1 is niet van toepassing op een vonnis betreffende een huurovereenkomst voor een woning of betreffende de registratie van een onroerend goed. Een dergelijk vonnis komt slechts voor erkenning en tenuitvoerlegging in aanmerking indien zij is gegeven door een gerecht van de staat waar het betrokken onroerend goed is gelegen.
 
-#### Artikel 6. Exclusieve grond voor erkenning en tenuitvoerlegging
+##### Artikel 6. Exclusieve grond voor erkenning en tenuitvoerlegging
 
 Niettegenstaande [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=5&z=2023-09-01&g=2023-09-01) wordt een vonnis over een zakelijk recht op een onroerend goed erkend en ten uitvoer gelegd indien en alleen indien het onroerend goed in de staat van herkomst is gelegen.
 
-#### Artikel 7. Weigering van erkenning en tenuitvoerlegging
+##### Artikel 7. Weigering van erkenning en tenuitvoerlegging
 
 1. Erkenning of tenuitvoerlegging kan worden geweigerd indien:
 
@@ -188,27 +210,27 @@ Niettegenstaande [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoo
 
 Een weigering uit hoofde van dit lid vormt geen belemmering voor een hernieuwd verzoek om erkenning of tenuitvoerlegging van het vonnis.
 
-#### Artikel 8. Voorvragen
+##### Artikel 8. Voorvragen
 
 1. Een vonnis over een voorvraag wordt niet erkend of ten uitvoer gelegd uit hoofde van dit verdrag indien het vonnis betrekking heeft op een aangelegenheid waarop dit verdrag niet van toepassing is of op een in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=6&z=2023-09-01&g=2023-09-01) bedoelde aangelegenheid waarover een gerecht van een andere staat dan de in dat artikel bedoelde staat uitspraak heeft gedaan.
 
 2. Erkenning of tenuitvoerlegging van een vonnis kan worden geweigerd indien en voor zover het vonnis gegrond was op een uitspraak over een aangelegenheid waarop dit verdrag niet van toepassing is, dan wel op een uitspraak over een in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=6&z=2023-09-01&g=2023-09-01) bedoelde aangelegenheid waarover een gerecht van een andere staat dan de in dat artikel bedoelde staat uitspraak heeft gedaan.
 
-#### Artikel 9. Deelbaarheid
+##### Artikel 9. Deelbaarheid
 
 Erkenning of tenuitvoerlegging van een scheidbaar deel van een vonnis wordt toegestaan wanneer om erkenning of tenuitvoerlegging van dat deel wordt verzocht of wanneer slechts een deel van het vonnis uit hoofde van dit verdrag kan worden erkend of ten uitvoer kan worden gelegd.
 
-#### Artikel 10. Schadevergoeding
+##### Artikel 10. Schadevergoeding
 
 1. Erkenning of tenuitvoerlegging van een vonnis kan worden geweigerd indien en voor zover in het vonnis schadevergoeding wordt toegekend – met inbegrip van exemplaire of punitieve schadevergoeding waarbij een partij niet schadeloos wordt gesteld voor feitelijk geleden verlies of schade.
 
 2. Het aangezochte gerecht houdt rekening met de vraag of en in welke mate de door het gerecht van herkomst toegekende schadevergoeding dient ter dekking van de kosten van de procedure.
 
-#### Artikel 11. Gerechtelijke schikkingen
+##### Artikel 11. Gerechtelijke schikkingen
 
 Gerechtelijke schikkingen die door een gerecht van een verdragsluitende staat zijn goedgekeurd, of die tijdens een procedure voor een gerecht van een verdragsluitende staat tot stand zijn gekomen, en die op dezelfde wijze uitvoerbaar zijn als een vonnis in de staat van herkomst, worden uit hoofde van dit verdrag op dezelfde wijze ten uitvoer gelegd als een vonnis.
 
-#### Artikel 12. Over te leggen stukken
+##### Artikel 12. Over te leggen stukken
 
 1. De partij die om erkenning of tenuitvoerlegging verzoekt, dient de volgende stukken over te leggen:
 
@@ -226,13 +248,13 @@ Gerechtelijke schikkingen die door een gerecht van een verdragsluitende staat zi
 
 4. Indien de in dit artikel bedoelde stukken niet in een officiële taal van de aangezochte staat zijn gesteld, dienen zij vergezeld te gaan van een gewaarmerkte vertaling in een officiële taal, tenzij in het recht van de aangezochte staat anders is bepaald.
 
-#### Artikel 13. Procedure
+##### Artikel 13. Procedure
 
 1. De procedure voor de erkenning, de verklaring van uitvoerbaarheid of de registratie voor tenuitvoerlegging, en de tenuitvoerlegging van het vonnis worden beheerst door het recht van de aangezochte staat, tenzij in dit verdrag anders is bepaald. Het gerecht van de aangezochte staat treedt voortvarend op.
 
 2. Het gerecht van de aangezochte staat weigert de erkenning of de tenuitvoerlegging van een vonnis uit hoofde van dit verdrag niet op grond van het feit dat er in een andere staat om erkenning of tenuitvoerlegging zou moeten worden verzocht.
 
-#### Artikel 14. Kosten van de procedure
+##### Artikel 14. Kosten van de procedure
 
 1. Van een partij die in een verdragsluitende staat verzoekt om de tenuitvoerlegging van een door een gerecht van een andere verdragsluitende staat gegeven vonnis, wordt geen zekerheid, borg of pand, onder welke benaming ook, verlangd op grond van het enkele feit dat die partij een buitenlander is of geen woon- of verblijfplaats heeft in de staat waar om tenuitvoerlegging is verzocht.
 
@@ -240,21 +262,21 @@ Gerechtelijke schikkingen die door een gerecht van een verdragsluitende staat zi
 
 3. Een staat kan verklaren dat hij lid 1 niet zal toepassen of in een verklaring aanwijzen welke van zijn gerechten lid 1 niet zullen toepassen.
 
-#### Artikel 15. Erkenning en tenuitvoerlegging uit hoofde van nationaal recht
+##### Artikel 15. Erkenning en tenuitvoerlegging uit hoofde van nationaal recht
 
 Met inachtneming van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=6&z=2023-09-01&g=2023-09-01) staat dit verdrag niet in de weg aan de erkenning of de tenuitvoerlegging van vonnissen uit hoofde van nationaal recht.
 
 ### HOOFDSTUK III. – ALGEMENE BEPALINGEN
 
-#### Artikel 16. Overgangsbepaling
+##### Artikel 16. Overgangsbepaling
 
 Dit verdrag is van toepassing op de erkenning en tenuitvoerlegging van vonnissen indien, op het tijdstip waarop de procedure in de staat van herkomst werd ingesteld, het verdrag tussen die staat en de aangezochte staat werking had.
 
-#### Artikel 17. Verklaringen ter beperking van de erkenning en de tenuitvoerlegging
+##### Artikel 17. Verklaringen ter beperking van de erkenning en de tenuitvoerlegging
 
 Een staat kan verklaren dat zijn gerechten kunnen weigeren een door een gerecht van een andere verdragsluitende staat gegeven vonnis te erkennen of ten uitvoer te leggen, indien de partijen in de aangezochte staat hun verblijfplaats hadden en de betrekkingen tussen de partijen en alle andere voor het geschil ter zake doende elementen, anders dan de plaats van het gerecht van herkomst, uitsluitend met de aangezochte staat verbonden waren.
 
-#### Artikel 18. Verklaringen ten aanzien van specifieke aangelegenheden
+##### Artikel 18. Verklaringen ten aanzien van specifieke aangelegenheden
 
 1. Wanneer een staat er groot belang bij heeft dit verdrag niet op een specifieke aangelegenheid toe te passen, kan die staat verklaren het verdrag niet te zullen toepassen op die aangelegenheid. De staat die een dergelijke verklaring aflegt, ziet erop toe dat die verklaring niet ruimer is dan nodig en dat de specifieke aangelegenheid die wordt uitgesloten, duidelijk en nauwkeurig wordt omschreven.
 
@@ -264,7 +286,7 @@ Een staat kan verklaren dat zijn gerechten kunnen weigeren een door een gerecht 
 
 - b. in andere verdragsluitende staten, wanneer wordt verzocht om erkenning of tenuitvoerlegging van een vonnis van een gerecht van een verdragsluitende staat die de verklaring heeft afgelegd.
 
-#### Artikel 19. Verklaringen met betrekking tot vonnissen betreffende een staat
+##### Artikel 19. Verklaringen met betrekking tot vonnissen betreffende een staat
 
 1. Een staat kan verklaren dat hij dit verdrag niet zal toepassen op vonnissen die voortvloeien uit procedures waaraan als partij wordt deelgenomen door:
 
@@ -276,15 +298,15 @@ De staat die een dergelijke verklaring aflegt, ziet erop toe dat die verklaring 
 
 2. Erkenning of tenuitvoerlegging van een vonnis van een gerecht van een staat die een verklaring op grond van lid 1 heeft afgelegd, kan worden geweigerd indien het vonnis voortvloeide uit een procedure waarbij de staat die de verklaring heeft afgelegd of de aangezochte staat, een van hun overheidsinstanties of een natuurlijke persoon die namens een van hen optreedt partij is, voor zover in de verklaring aangeduid.
 
-#### Artikel 20. Uniforme uitlegging
+##### Artikel 20. Uniforme uitlegging
 
 Bij de uitlegging van dit verdrag wordt rekening gehouden met het internationale karakter ervan alsmede met de noodzaak de uniforme toepassing ervan te bevorderen.
 
-#### Artikel 21. Evaluatie van de werking van het verdrag
+##### Artikel 21. Evaluatie van de werking van het verdrag
 
 De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrecht neemt periodieke maatregelen om de werking van dit verdrag, met inbegrip van eventuele verklaringen, te evalueren en brengt verslag uit aan de Raad voor Algemene Zaken en Beleid.
 
-#### Artikel 22. Niet-geünificeerde rechtsstelsels
+##### Artikel 22. Niet-geünificeerde rechtsstelsels
 
 1. Ten aanzien van een verdragsluitende staat die op het gebied van enige bij dit verdrag geregelde aangelegenheid twee of meer rechtsstelsels heeft die binnen verschillende territoriale eenheden van toepassing zijn:
 
@@ -302,7 +324,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 4. Dit artikel is niet van toepassing op regionale organisaties voor economische integratie.
 
-#### Artikel 23. Verhouding tot andere internationale instrumenten
+##### Artikel 23. Verhouding tot andere internationale instrumenten
 
 1. Dit verdrag wordt voor zover mogelijk op zodanige wijze uitgelegd dat het verenigbaar is met andere voor de verdragsluitende staten van kracht zijnde verdragen, ongeacht of die vóór of na dit verdrag zijn gesloten.
 
@@ -318,7 +340,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 ### HOOFDSTUK IV. – SLOTBEPALINGEN
 
-#### Artikel 24. Ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding
+##### Artikel 24. Ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding
 
 1. Dit verdrag staat open voor ondertekening door alle staten.
 
@@ -328,7 +350,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 4. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden, depositaris van het verdrag.
 
-#### Artikel 25. Verklaringen met betrekking tot niet-geünificeerde rechtsstelsels
+##### Artikel 25. Verklaringen met betrekking tot niet-geünificeerde rechtsstelsels
 
 1. Indien een staat twee of meer territoriale eenheden heeft waarin verschillende rechtsstelsels gelden met betrekking tot in dit verdrag geregelde aangelegenheden, kan hij verklaren dat dit verdrag op al die territoriale eenheden of slechts op één of meer daarvan van toepassing is. In een dergelijke verklaring worden de territoriale eenheden waarop dit verdrag van toepassing is, uitdrukkelijk genoemd.
 
@@ -336,7 +358,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 3. Dit artikel is niet van toepassing op regionale organisaties voor economische integratie.
 
-#### Artikel 26. Regionale organisaties voor economische integratie
+##### Artikel 26. Regionale organisaties voor economische integratie
 
 1. Een regionale organisatie voor economische integratie die uitsluitend is samengesteld uit soevereine staten en die bevoegd is ter zake van sommige of alle in dit verdrag geregelde aangelegenheden, kan dit verdrag ondertekenen, aanvaarden, goedkeuren of ertoe toetreden. De regionale organisatie voor economische integratie heeft in dat geval de rechten en verplichtingen van een verdragsluitende staat voor zover de organisatie bevoegd is ter zake van de in dit verdrag geregelde aangelegenheden.
 
@@ -346,13 +368,13 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 4. Alle verwijzingen naar een „verdragsluitende staat” of een „staat” in dit verdrag zijn in voorkomend geval eveneens van toepassing op een regionale organisatie voor economische integratie.
 
-#### Artikel 27. Een regionale organisatie voor economische integratie als verdragsluitende partij zonder haar lidstaten
+##### Artikel 27. Een regionale organisatie voor economische integratie als verdragsluitende partij zonder haar lidstaten
 
 1. Op het tijdstip van ondertekening van, aanvaarding van, goedkeuring van of toetreding tot dit verdrag kan een regionale organisatie voor economische integratie verklaren dat zij de bevoegdheid uitoefent ter zake van alle in dit verdrag geregelde aangelegenheden en dat haar lidstaten geen partij bij dit verdrag zullen zijn, maar gebonden zullen zijn door ondertekening, aanvaarding, goedkeuring of toetreding door de organisatie.
 
 2. Ingeval een regionale organisatie voor economische integratie een verklaring in de zin van lid 1 heeft afgelegd, zijn alle verwijzingen naar een „verdragsluitende staat” of „staat” in dit verdrag in voorkomend geval eveneens van toepassing op de lidstaten van de organisatie.
 
-#### Artikel 28. Inwerkingtreding
+##### Artikel 28. Inwerkingtreding
 
 1. Dit verdrag treedt in werking op de eerste dag van de maand volgend op het verstrijken van de periode gedurende welke overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=29&z=2023-09-01&g=2023-09-01), lid 2, een kennisgeving kan worden gedaan ten aanzien van de tweede staat die zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=24&z=2023-09-01&g=2023-09-01) heeft nedergelegd.
 
@@ -362,7 +384,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 - b. voor een territoriale eenheid waartoe dit verdrag overeenkomstig [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=25&z=2023-09-01&g=2023-09-01) is uitgebreid nadat het verdrag in werking is getreden voor de staat die de verklaring aflegt, op de eerste dag van de maand volgend op het verstrijken van een termijn van drie maanden na de kennisgeving van de in dat artikel bedoelde verklaring.
 
-#### Artikel 29. Totstandbrenging van betrekkingen op grond van het verdrag
+##### Artikel 29. Totstandbrenging van betrekkingen op grond van het verdrag
 
 1. Dit verdrag heeft slechts werking tussen twee verdragsluitende staten indien geen van beide de depositaris een kennisgeving betreffende de andere heeft toegezonden overeenkomstig lid 2 of lid 3. Bij gebreke van een dergelijke kennisgeving heeft het verdrag werking tussen twee verdragsluitende staten vanaf de eerste dag van de maand volgend op het verstrijken van de periode gedurende welke kennisgevingen kunnen worden gedaan.
 
@@ -372,7 +394,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 4. Een verdragsluitende staat kan te allen tijde een kennisgeving die hij uit hoofde van lid 2 of lid 3 heeft gedaan, intrekken. Die intrekking wordt van kracht op de eerste dag van de maand volgend op het verstrijken van een termijn van drie maanden na de datum van kennisgeving.
 
-#### Artikel 30. Verklaringen
+##### Artikel 30. Verklaringen
 
 1. De in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=14&z=2023-09-01&g=2023-09-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=III&artikel=17&z=2023-09-01&g=2023-09-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=III&artikel=18&z=2023-09-01&g=2023-09-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=III&artikel=19&z=2023-09-01&g=2023-09-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=25&z=2023-09-01&g=2023-09-01) bedoelde verklaringen kunnen worden afgelegd bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding of op enig tijdstip daarna, en kunnen te allen tijde worden gewijzigd of ingetrokken.
 
@@ -384,13 +406,13 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 5. Een op een later tijdstip afgelegde verklaring en elke wijziging of intrekking van een verklaring zijn niet van toepassing op vonnissen die voortvloeien uit procedures die op het tijdstip waarop de verklaring van kracht wordt reeds bij het gerecht van herkomst zijn ingesteld.
 
-#### Artikel 31. Opzegging
+##### Artikel 31. Opzegging
 
 1. Een verdragsluitende staat kan bij schriftelijke kennisgeving aan de depositaris dit verdrag opzeggen. De opzegging kan worden beperkt tot bepaalde territoriale eenheden van een niet-geünificeerd rechtsstelsel waarop dit verdrag van toepassing is.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand volgend op het verstrijken van een termijn van twaalf maanden na de datum waarop de kennisgeving door de depositaris is ontvangen. Wanneer in de kennisgeving een langere opzegtermijn is aangegeven, wordt de opzegging van kracht na het verstrijken van die langere termijn na de datum waarop de kennisgeving door de depositaris is ontvangen.
 
-#### Artikel 32. Kennisgevingen door de depositaris
+##### Artikel 32. Kennisgevingen door de depositaris
 
 De depositaris geeft de leden van de Haagse Conferentie voor Internationaal Privaatrecht en andere staten en regionale organisaties voor economische integratie die conform de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=24&z=2023-09-01&g=2023-09-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=26&z=2023-09-01&g=2023-09-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=27&z=2023-09-01&g=2023-09-01) zijn overgegaan tot ondertekening, bekrachtiging, aanvaarding of goedkeuring van dit verdrag of tot toetreding ertoe, kennis van het volgende:
 

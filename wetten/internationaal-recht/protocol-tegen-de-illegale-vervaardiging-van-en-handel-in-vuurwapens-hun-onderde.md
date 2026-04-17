@@ -1,13 +1,38 @@
 ---
 title: "Protocol tegen de illegale vervaardiging van en handel in vuurwapens, hun onderdelen, componenten en munitie, tot aanvulling van het Verdrag van de Verenigde Naties tegen grensoverschrijdende georganiseerde misdaad"
 identifier: "BWBV0001710"
-categorie: "Internationaal recht"
-publicatiedatum: 2005-07-03
-laatste_update: 2001-05-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001710"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-07-03"
+last_updated: "2001-05-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001710"
+soort: "verdrag"
+stam_id: "10001791243"
+version_id: "10001879482"
+internal_id: "C10006993861"
+label_id: "10001791524"
+dtd_version: "2.0"
+original_entry_into_force: "2005-07-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001710/2005-07-03/0"
+intitule_bron: "Trb.2004-37"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-02-08"
+intitule_published: "2004-02-19"
+intitule_in_force: "2005-10-04"
+intitule_status: "goed"
+original_publication: "Trb.2004-37"
+original_signed_date: "2005-02-08"
+original_published_date: "2004-02-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-37"
+entry_into_force_date: "2005-07-03"
+jci_1_3: "jci1.3:c:BWBV0001710&z=2005-07-03&g=2005-07-03"
+jci_1_0: "1.0:c:BWBV0001710&g=2005-07-03"
+citeertitel_status: "redactioneel"
+signed_date: "2005-02-08"
+entry_into_force: "2005-07-03"
 ---
-
 # Protocol tegen de illegale vervaardiging van en handel in vuurwapens, hun onderdelen, componenten en munitie, tot aanvulling van het Verdrag van de Verenigde Naties tegen grensoverschrijdende georganiseerde misdaad
 
 Preambule
@@ -28,7 +53,7 @@ Zijn het volgende overeengekomen:
 
 ### Algemene bepalingen I
 
-#### Artikel 1. Relatie tot het Verdrag van de Verenigde Naties tegen transnationale georganiseerde misdaad
+##### Artikel 1. Relatie tot het Verdrag van de Verenigde Naties tegen transnationale georganiseerde misdaad
 
 1. Dit Protocol vormt een aanvulling op het [Verdrag van de Verenigde Naties tegen transnationale georganiseerde misdaad](https://wetten.overheid.nl/jci1.3:c:BWBV0001668). Het Protocol wordt tezamen met het Verdrag uitgelegd.
 
@@ -36,11 +61,11 @@ Zijn het volgende overeengekomen:
 
 3. De in overeenstemming met artikel 5 van dit Protocol strafbaar gestelde feiten worden beschouwd als in overeenstemming met het Verdrag strafbaar gestelde feiten.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het doel van het Protocol is de samenwerking tussen de Staten die Partij zijn te bevorderen, te vergemakkelijken en te intensiveren ten behoeve van de preventie, bestrijding en uitbanning van de illegale vervaardiging van en handel in vuurwapens, hun onderdelen, componenten en munitie.
 
-#### Artikel 3. Gebruikte termen
+##### Artikel 3. Gebruikte termen
 
 Voor de toepassing van dit Protocol wordt verstaan onder:
 
@@ -62,13 +87,13 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - f. „traceren", het systematisch volgen van vuurwapens en, indien mogelijk, van hun onderdelen, componenten en munitie, vanaf de fabrikant tot aan de koper, met het oogmerk de bevoegde autoriteiten van de Staten die Partij zijn te assisteren bij het opsporen, onderzoeken en analyseren van de illegale vervaardiging en illegale handel.
 
-#### Artikel 4. Reikwijdte
+##### Artikel 4. Reikwijdte
 
 1. Behoudens waar in dit Protocol anders wordt bepaald, is dit Protocol van toepassing op de voorkoming van de illegale vervaardiging van en handel in vuurwapens, hun onderdelen, componenten en munitie en op de opsporing en de vervolging van de overeenkomstig artikel 5 van dit Protocol strafbaar gestelde feiten, wanneer deze strafbaar gestelde feiten transnationaal van aard zijn en een georganiseerde criminele groep daarbij betrokken is.
 
 2. Dit Protocol is niet van toepassing op transacties tussen Staten onderling of op de overdracht tussen Staten in de gevallen waarin de toepassing van het Protocol het recht zou aantasten van een Staat die Partij is om, in het belang van de nationale veiligheid, met het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) verenigbare maatregelen te nemen.
 
-#### Artikel 5. Strafbaarstelling
+##### Artikel 5. Strafbaarstelling
 
 1. Elke Staat die Partij is, neemt de wettelijke en andere maatregelen die nodig kunnen zijn om het navolgende gedrag als strafbare feiten aan te merken, indien zij opzettelijk zijn gepleegd:
 
@@ -84,7 +109,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - b. het organiseren van, leiding geven aan, assistentie verlenen bij, uitlokken van, mogelijk maken van of adviseren bij het plegen van een overeenkomstig het eerste lid van dit artikel strafbaar gesteld feit.
 
-#### Artikel 6. Confiscatie, inbeslagneming en vervreemding
+##### Artikel 6. Confiscatie, inbeslagneming en vervreemding
 
 1. Onverminderd het bepaalde in artikel 12 van het Verdrag nemen de Staten die Partij zijn in de ruimst mogelijke mate binnen hun nationale rechtsstelsels de maatregelen die nodig kunnen zijn om de confiscatie mogelijk te maken van vuurwapens, hun onderdelen, componenten en munitie die illegaal zijn vervaardigd of verhandeld.
 
@@ -92,7 +117,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 ### Preventie II
 
-#### Artikel 7. Documentbeheer
+##### Artikel 7. Documentbeheer
 
 Elke Staat die Partij is, ziet erop toe op dat informatie met betrekking tot vuurwapens en, waar passend en praktisch uitvoerbaar, hun onderdelen, componenten en munitie, benodigd voor het traceren en identificeren van die vuurwapens en, waar passend en praktisch haalbaar, hun onderdelen, componenten en munitie die illegaal zijn vervaardigd of verhandeld en ten behoeve van het voorkomen en opsporen van deze activiteiten gedurende ten minste tien jaar bewaard wordt. Deze informatie omvat in ieder geval:
 
@@ -100,7 +125,7 @@ Elke Staat die Partij is, ziet erop toe op dat informatie met betrekking tot vuu
 
 - b. wanneer sprake is van internationale transacties van vuurwapens, hun onderdelen, componenten en munitie, de afgifte- en vervaldata van de toepasselijke vergunningen of autorisaties, het land van uitvoer, het land van invoer, de landen van doorvoer, indien van toepassing, en de uiteindelijke ontvanger alsmede het aantal artikelen en een omschrijving hiervan.
 
-#### Artikel 8. Markering van vuurwapens
+##### Artikel 8. Markering van vuurwapens
 
 1. Ten behoeve van de identificatie en tracering van elk vuurwapen:
 
@@ -112,7 +137,7 @@ Elke Staat die Partij is, ziet erop toe op dat informatie met betrekking tot vuu
 
 2. De Staten die Partij zijn, stimuleren de vuurwapenvervaardigende industrie maatregelen te ontwikkelen tegen de verwijdering of wijziging van markeringen.
 
-#### Artikel 9. Voor gebruik ongeschikt maken van vuurwapens
+##### Artikel 9. Voor gebruik ongeschikt maken van vuurwapens
 
 Een Staat die Partij is die een voor gebruik ongeschikt gemaakt vuurwapen overeenkomstig zijn nationale recht niet aanmerkt als een vuurwapen, neemt de nodige maatregelen, indien van toepassing met inbegrip van de instelling van specifieke strafbare feiten, om het illegaal opnieuw gebruiksklaar maken van voor gebruik ongeschikt gemaakte vuurwapens te voorkomen, overeenkomstig de volgende algemene beginselen voor het voor gebruik ongeschikt maken:
 
@@ -122,7 +147,7 @@ Een Staat die Partij is die een voor gebruik ongeschikt gemaakt vuurwapen overee
 
 - c. Ten blijke van de verificatie door een bevoegde autoriteit moet een certificaat of document worden afgegeven waarin wordt verklaard dat het vuurwapen voor gebruik ongeschikt is gemaakt, of moet een duidelijk zichtbare markering op het vuurwapen worden aangebracht waaruit dit blijkt.
 
-#### Artikel 10. Algemene vereisten voor vergunning- of autorisatiestelsels met betrekking tot uitvoer, invoer en doorvoer
+##### Artikel 10. Algemene vereisten voor vergunning- of autorisatiestelsels met betrekking tot uitvoer, invoer en doorvoer
 
 1. Elke Staat die Partij is, creëert of handhaaft een effectief vergunning- of autorisatiestelsel voor uitvoer en invoer, alsmede voor maatregelen betreffende de internationale doorvoer, voor de overdracht van vuurwapens, hun onderdelen, componenten en munitie.
 
@@ -140,7 +165,7 @@ Een Staat die Partij is die een voor gebruik ongeschikt gemaakt vuurwapen overee
 
 6. De Staten die Partij zijn, kunnen vereenvoudigde procedures aannemen voor de tijdelijke invoer, uitvoer en doorvoer van vuurwapens, hun onderdelen, componenten en munitie, ten behoeve van verifieerbaar legale doeleinden zoals de jacht, schietsport, onderzoek, tentoonstellingen of reparaties.
 
-#### Artikel 11. Beveiligingsmaatregelen en preventieve maatregelen
+##### Artikel 11. Beveiligingsmaatregelen en preventieve maatregelen
 
 Teneinde diefstal, verlies of verduistering van, alsmede de illegale vervaardiging van en handel in vuurwapens, hun onderdelen, componenten en munitie op te sporen, te voorkomen en uit te bannen, neemt elke Staat die Partij is passende maatregelen:
 
@@ -148,7 +173,7 @@ Teneinde diefstal, verlies of verduistering van, alsmede de illegale vervaardigi
 
 - b. om de doeltreffendheid van de controles bij invoer, uitvoer en doorvoer te vergroten, waar passend met inbegrip van grenscontroles en transnationale politie- en douanesamenwerking.
 
-#### Artikel 12. Informatie
+##### Artikel 12. Informatie
 
 1. Onverminderd het bepaalde in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0001668&artikel=27) en [28 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001668&artikel=28) wisselen de Staten die Partij zijn, in overeenstemming met hun respectieve nationale rechtsstelsels en administratieve systemen, per individueel geval onderling relevante informatie uit betreffende geautoriseerde fabrikanten, handelaren, importeurs, exporteurs en, telkens wanneer dat mogelijk is, vervoerders van vuurwapens, hun onderdelen, componenten en munitie.
 
@@ -168,7 +193,7 @@ Teneinde diefstal, verlies of verduistering van, alsmede de illegale vervaardigi
 
 5. Onder voorbehoud van de grondbeginselen van zijn rechtsstelsel of van internationale overeenkomsten waarborgt elke Staat die Partij is op verzoek van de informatie verstrekkende Staat die Partij is de vertrouwelijkheid van en beperkingen ten aanzien van het gebruik van de informatie die hij van een andere Staat die Partij is ontvangt uit hoofde van dit artikel, met inbegrip van eigendomsinformatie met betrekking tot handelstransacties. Indien deze vertrouwelijkheid niet kan worden gewaarborgd, wordt de Staat die Partij is die de informatie verstrekt in kennis gesteld voordat deze informatie bekend wordt gemaakt.
 
-#### Artikel 13. Samenwerking
+##### Artikel 13. Samenwerking
 
 1. De Staten die Partij zijn, werken op bilateraal, regionaal en internationaal niveau met elkaar samen teneinde de illegale vervaardiging van en handel in vuurwapens, hun onderdelen, componenten en munitie te voorkomen, te bestrijden en uit te bannen.
 
@@ -176,11 +201,11 @@ Teneinde diefstal, verlies of verduistering van, alsmede de illegale vervaardigi
 
 3. De Staten die Partij zijn, zoeken de steun en samenwerking van fabrikanten, handelaren, importeurs, exporteurs, tussenpersonen en beroepsvervoerders van vuurwapens, hun onderdelen, componenten en munitie, teneinde de in het eerste lid van dit artikel bedoelde illegale activiteiten te voorkomen en op te sporen.
 
-#### Artikel 14. Opleiding en technische bijstand
+##### Artikel 14. Opleiding en technische bijstand
 
 De Staten die Partij zijn, werken, waar passend, met elkaar en met de betrokken internationale organisaties samen, zodat de Staten die Partij zijn op verzoek de nodige opleiding en technische bijstand kunnen verkrijgen ter vergroting van hun vaardigheid om de illegale vervaardiging van en handel in vuurwapens, hun onderdelen, componenten en munitie te voorkomen, te bestrijden en uit te bannen, met inbegrip van technische, financiële en materiële bijstand bij de in de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001668&artikel=29) en [30 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001668&artikel=30) genoemde aangelegenheden.
 
-#### Artikel 15. Tussenpersonen en makelaarsactiviteiten
+##### Artikel 15. Tussenpersonen en makelaarsactiviteiten
 
 1. Met het oog op de voorkoming en bestrijding van de illegale vervaardiging van en handel in vuurwapens, hun onderdelen, componenten en munitie, bestuderen de Staten die Partij zijn die dit nog niet hebben gedaan, de instelling van een stelsel ter regulering van de activiteiten van degenen die zich bezighouden met makelaarsactiviteiten. Een dergelijk stelsel kan een of meerdere van de volgende maatregelen omvatten:
 
@@ -194,7 +219,7 @@ De Staten die Partij zijn, werken, waar passend, met elkaar en met de betrokken 
 
 ### Slotbepalingen III
 
-#### Artikel 16. Beslechting van geschillen
+##### Artikel 16. Beslechting van geschillen
 
 1. De Staten die Partij zijn, spannen zich in geschillen betreffende de interpretatie of toepassing van dit Protocol te beslechten door onderhandeling.
 
@@ -204,7 +229,7 @@ De Staten die Partij zijn, werken, waar passend, met elkaar en met de betrokken 
 
 4. Een Staat die Partij is die een voorbehoud heeft gemaakt in overeenstemming met het derde lid van dit artikel, kan dit voorbehoud te allen tijde intrekken door middel van een kennisgeving aan de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 17. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 17. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Protocol is dertig dagen nadat het door de Algemene Vergadering is aangenomen tot en met 12 december 2002 voor alle Staten opengesteld voor ondertekening op het hoofdkwartier van de Verenigde Naties te New York.
 
@@ -214,13 +239,13 @@ De Staten die Partij zijn, werken, waar passend, met elkaar en met de betrokken 
 
 4. Dit Protocol staat open voor toetreding door elke Staat of elke regionale organisatie voor economische integratie waarvan ten minste een lidstaat Partij is bij dit Protocol. De akten van toetreding worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties. Bij haar toetreding geeft een regionale organisatie voor economische integratie de omvang van haar bevoegdheden ter zake van in dit Protocol geregelde aangelegenheden aan. Een dergelijke organisatie stelt de depositaris ook in kennis van elke relevante wijziging in de omvang van haar bevoegdheden.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 1. Dit Protocol treedt in werking negentig dagen na de datum van de nederlegging van de veertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, met dien verstande dat het niet in werking treedt voor de inwerkingtreding van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001668). Voor de toepassing van dit lid wordt een door een regionale organisatie voor economische integratie nedergelegde akte niet meegeteld naast de door de lidstaten van deze organisatie reeds nedergelegde akten.
 
 2. Voor elke Staat of regionale organisatie voor economische integratie die dit Protocol bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de nederlegging van de desbetreffende veertigste akte, treedt dit Protocol in werking dertig dagen na de datum van nederlegging door een dergelijke Staat of organisatie van de desbetreffende akte, of op de datum waarop dit Protocol in werking treedt ingevolge het eerste lid van dit artikel, al naargelang welke datum later valt.
 
-#### Artikel 19. Wijziging
+##### Artikel 19. Wijziging
 
 1. Na het verstrijken van een termijn van vijf jaar na de inwerkingtreding van dit Protocol kan een Staat die Partij is bij het Protocol een wijziging voorstellen en indienen bij de Secretaris-Generaal van de Verenigde Naties, die de voorgestelde wijziging vervolgens overbrengt aan de Staten die Partij zijn en aan de Conferentie van de Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001668), teneinde het voorstel te bestuderen en erover te beslissen. De Staten die Partij zijn die bijeenkomen in het kader van de Conferentie van de Partijen stellen alles in het werk om consensus te bereiken over iedere wijziging. Indien alle pogingen om consensus te bereiken zijn mislukt en er geen overeenstemming wordt bereikt, wordt de wijziging in laatste instantie aangenomen met een tweederde meerderheid van de Staten die Partij zijn bij dit Protocol die aanwezig zijn en hun stem uitbrengen tijdens de Conferentie van de Partijen.
 
@@ -232,13 +257,13 @@ De Staten die Partij zijn, werken, waar passend, met elkaar en met de betrokken 
 
 5. Wanneer een wijziging van kracht wordt, is zij bindend voor de Staten die Partij zijn en die het feit dat zij ermee instemmen erdoor gebonden te worden tot uitdrukking hebben gebracht. De andere Staten die Partij zijn, blijven gebonden door de bepalingen van dit Protocol en alle eerdere wijzigingen die zij hebben bekrachtigd, aanvaard of goedgekeurd.
 
-#### Artikel 20. Opzegging
+##### Artikel 20. Opzegging
 
 1. Iedere Staat die Partij is, kan dit Protocol opzeggen door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal van de Verenigde Naties. De opzegging wordt van kracht een jaar na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
 2. Een regionale organisatie voor economische integratie houdt op partij te zijn bij dit Protocol wanneer al haar lidstaten het hebben opgezegd.
 
-#### Artikel 21. Depositaris en talen
+##### Artikel 21. Depositaris en talen
 
 1. De Secretaris-Generaal van de Verenigde Naties wordt aangewezen als depositaris van dit Protocol.
 

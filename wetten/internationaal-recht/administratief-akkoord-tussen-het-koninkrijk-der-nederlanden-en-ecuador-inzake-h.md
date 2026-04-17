@@ -1,13 +1,34 @@
 ---
-title: "Administratief Akkoord tussen het Koninkrijk der Nederlanden en Ecuador inzake het project "SNV-programma Ecuador""
+title: "Administratief Akkoord tussen het Koninkrijk der Nederlanden en Ecuador inzake het project \"SNV-programma Ecuador\""
 identifier: "BWBV0001214"
-categorie: "Internationaal recht"
-publicatiedatum: 2013-03-09
-laatste_update: 2013-03-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001214"
+country: "nl"
+rank: "verdrag"
+publication_date: "2013-03-09"
+last_updated: "2013-03-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001214"
+soort: "verdrag"
+stam_id: "10000585673"
+version_id: "10005302032"
+internal_id: "C10008264611"
+label_id: "10000585814"
+original_entry_into_force: "2013-03-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001214/2013-03-09/0"
+intitule_bron: "Trb.2012-209"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2012-11-19"
+intitule_in_force: "2012-11-19"
+intitule_status: "vervallen"
+original_publication: "Trb.2012-209"
+original_published_date: "2012-11-19"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2012-209"
+entry_into_force_date: "2013-03-09"
+jci_1_3: "jci1.3:c:BWBV0001214&z=2013-03-09&g=2013-03-09"
+jci_1_0: "1.0:c:BWBV0001214&g=2013-03-09"
+citeertitel_status: "officieel"
+entry_into_force: "2013-03-09"
 ---
-
 # Administratief Akkoord tussen het Koninkrijk der Nederlanden en Ecuador inzake het project "SNV-programma Ecuador"
 
 De Nederlandse Minister voor Ontwikkelingssamenwerking, zijnde de bevoegde Nederlandse autoriteit voor de uitvoering van dit administratief akkoord, hierna te noemen de Nederlandse Partij,
@@ -20,39 +41,39 @@ Gelet op de bepalingen van Artikel I van de Overeenkomst tussen het Koninkrijk d
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I. Het Programma
+##### Artikel I. Het Programma
 
 Vervallen
 
-#### Artikel II. De Uitvoerende Autoriteiten
+##### Artikel II. De Uitvoerende Autoriteiten
 
 Vervallen
 
-#### Artikel III. Uitvoering van het Programma
+##### Artikel III. Uitvoering van het Programma
 
 Vervallen
 
-#### Artikel IV. Status van het Nederlandse personeel
+##### Artikel IV. Status van het Nederlandse personeel
 
 Vervallen
 
-#### Artikel V. Status van de Nederlandse apparatuur en materialen
+##### Artikel V. Status van de Nederlandse apparatuur en materialen
 
 Vervallen
 
-#### Artikel VI. Rapportage
+##### Artikel VI. Rapportage
 
 Vervallen
 
-#### Artikel VII. Toezicht
+##### Artikel VII. Toezicht
 
 Vervallen
 
-#### Artikel VIII. Beslechting van geschillen
+##### Artikel VIII. Beslechting van geschillen
 
 Vervallen
 
-#### Artikel IX. Inwerkingtreding en duur
+##### Artikel IX. Inwerkingtreding en duur
 
 Vervallen
 

@@ -1,18 +1,43 @@
 ---
 title: "Wet grondslagen natuurbeheer- en bescherming BES"
 identifier: "BWBR0028434"
-categorie: "Milieu"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028434"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028434"
+soort: "wet-BES"
+stam_id: "10783143"
+version_id: "17760772"
+internal_id: "C24820051"
+label_id: "10758234"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028434/2019-01-01/0"
+intitule_bron: "Stb.2010-565"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-565"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-565"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028434&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0028434&g=2019-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet grondslagen natuurbeheer- en bescherming BES
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -48,7 +73,7 @@ bron: "https://wetten.overheid.nl/BWBR0028434"
 
 ### Hoofdstuk II. Taken en bevoegdheden van Onze Minister
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister stelt een maal per vijf jaren een natuurbeleidsplan voor de openbare lichamen Bonaire, Sint Eustatius en Saba vast, waarin mede uitvoering wordt gegeven aan de terzake aangegane internationale verplichtingen.
 
@@ -70,7 +95,7 @@ bron: "https://wetten.overheid.nl/BWBR0028434"
 
 6. Jaarlijks doet Onze Minister vóór 1 september verslag van de stand van zaken met betrekking tot de uitvoering van het natuurbeleidsplan aan de Staten-Generaal. Afschrift van dit verslag wordt mede aangeboden aan het bestuurscollege.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Onze minister kan natuurparken instellen ten uitvoering van het Verdrag van Ramsar, het SPAW-protocol of het Biodiversiteitsverdrag.
 
@@ -78,7 +103,7 @@ bron: "https://wetten.overheid.nl/BWBR0028434"
 
 3. Onze minister draagt de gemelde natuurparken voor bij het desbetreffende uitvoerende bureau dat bij deze verdragen is ingesteld, met het verzoek tot opname in de bij het verdrag horende lijst van beschermde soorten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze minister kan een Commissie natuurbeheer en bescherming instellen.
 
@@ -86,11 +111,11 @@ bron: "https://wetten.overheid.nl/BWBR0028434"
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld over de samenstelling, werkwijze en wijze van bezoldiging van de leden van de commissie.
 
-#### Artikel 4
+##### Artikel 4
 
 Onze minister is bevoegd tot het verstrekken van vergunningen en certificaten krachtens de artikelen III, IV en V van het CITES-verdrag, het toestaan van de uitzondering, bedoeld in artikel VII, zevende lid, van het CITES-verdrag.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Minister wijst een beheersinstantie aan.
 
@@ -112,7 +137,7 @@ Onze minister is bevoegd tot het verstrekken van vergunningen en certificaten kr
 
 5. De beheersinstantie is bevoegd voor haar taken, bedoeld in het tweede en derde lid, vergoedingen in rekening te brengen die bij ministeriële regeling worden vastgesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister wijst één of meer deskundigen of instanties aan als wetenschappelijke autoriteit.
 
@@ -132,7 +157,7 @@ Onze minister is bevoegd tot het verstrekken van vergunningen en certificaten kr
 
 3. De wetenschappelijke autoriteit is bevoegd voor haar taken als bedoeld in het tweede lid, vergoedingen in rekening te brengen die bij ministeriële regeling worden vastgesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 In de[artikelen 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7a&z=2019-01-01&g=2019-01-01), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7b&z=2019-01-01&g=2019-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=11&z=2019-01-01&g=2019-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2019-01-01&g=2019-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=6&paragraaf=3&artikel=35&z=2019-01-01&g=2019-01-01), alsmede de daarop berustende bepaling wordt verstaan onder:
 
@@ -150,7 +175,7 @@ In de[artikelen 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II
 
 - g. **doorvoer:** de uitvoer van elk tevoren ingevoerd specimen zonder dat dit in het vrije verkeer is gebracht.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Handel in specimens, opgenomen in Bijlage I, II of III van het CITES-verdrag, moet in overeenstemming zijn met de bepalingen van onderscheidenlijk artikel III, IV of V van dit verdrag, onverminderd de uitzonderingsgevallen van artikel VII, tweede, derde, vijfde en zesde lid, van het CITES-verdrag.
 
@@ -158,7 +183,7 @@ In de[artikelen 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II
 
 3. Bij ministeriele regeling kunnen regels worden gegeven ter uitvoering van het CITES-verdrag.
 
-#### Artikel 7b
+##### Artikel 7b
 
 1. Bij handel als bedoeld in [artikel 7A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7a&z=2019-01-01&g=2019-01-01), moeten de krachtens de bepalingen van de artikelen III, IV en V van het CITES-verdrag verstrekte vergunningen en certificaten in overeenstemming zijn met de bepalingen van artikel VI van dit verdrag.
 
@@ -172,7 +197,7 @@ In de[artikelen 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II
 
 4. De regels opgenomen in de Resoluties van het CITES-verdrag met betrekking tot vergunningen en certificaten bedoeld in de artikelen van dit verdrag zijn van toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 In de [artikelen 8A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8a&z=2019-01-01&g=2019-01-01), [8B](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8b&z=2019-01-01&g=2019-01-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=10&z=2019-01-01&g=2019-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=13&z=2019-01-01&g=2019-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2019-01-01&g=2019-01-01), alsmede de daarop berustende bepalingen wordt verstaan onder:
 
@@ -186,7 +211,7 @@ In de [artikelen 8A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=I
 
 - e. **Wetenschappelijke en Technische Raadgevende Commissie:** als bedoeld in artikel 20 van het SPAW-protocol.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Het is verboden handelingen of aktiviteiten te verrichten als bedoeld in artikel 11, eerste lid, onderdeel a, van het SPAW-protocol, ter zake van plantensoorten, opgenomen in Bijlage I van dat protocol, en zaden, delen of produkten van deze plantensoorten.
 
@@ -198,17 +223,17 @@ In de [artikelen 8A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=I
 
 - b. andere aangelegenheden ter uitvoering van het SPAW-protocol, onverminderd het bepaalde in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=13&z=2019-01-01&g=2019-01-01), jo. [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2019-01-01&g=2019-01-01), van deze wet.
 
-#### Artikel 8b
+##### Artikel 8b
 
 Bij ministeriële regeling kunnen ten aanzien van de verboden, bedoeld in artikel 11, eerste lid, van het SPAW-protocol, vrijstellingen worden verleend als bedoeld in artikel 11, tweede lid, en artikel 14 van dat protocol, nadat de Wetenschappelijke en Technische Raadgevende Commissie in evengenoemd artikel 11, tweede lid, de gegrondheid van de te verlenen vrijstellingen positief heeft beoordeeld.
 
-#### Artikel 8c
+##### Artikel 8c
 
 1. Onverminderd het bepaalde in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2019-01-01&g=2019-01-01), van deze wet kunnen bij of krachtens algemene maatregel van bestuur regels worden gegeven ter uitvoering van het Verdrag van Ramsar, de Bonn-conventie, het Biodiversiteitsverdrag en het Zeeschildpaddenverdrag.
 
 2. Bij of krachtens algemene maatregel van bestuur als bedoeld in het eerste lid kan worden bepaald dat de eilandsraad zorgdraagt voor aangelegenheden vermeld in de in het eerste lid bedoelde verdragen onder opneming van een voorziening, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2019-01-01&g=2019-01-01), van deze wet.
 
-#### Artikel 8d
+##### Artikel 8d
 
 1. Buiten de territoriale wateren, doch binnen de exclusieve economische zone, heeft Onze Minister’ dezelfde taken en bevoegdheden als die, welke voor de openbare lichamen Bonaire, Sint Eustatius of Saba zijn vastgesteld in de [artikelen 10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=10&z=2019-01-01&g=2019-01-01).
 
@@ -218,7 +243,7 @@ Bij ministeriële regeling kunnen ten aanzien van de verboden, bedoeld in artike
 
 ### Hoofdstuk III. Taken en bevoegdheden van de openbare lichamen Bonaire, Sint Eustatius en Saba
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het bestuurscollege stelt een maal per vijf jaren een natuurplan vast.
 
@@ -234,7 +259,7 @@ Bij ministeriële regeling kunnen ten aanzien van de verboden, bedoeld in artike
 
 5. Bij het opstellen van het natuurplan draagt het bestuurscollege zorg dat dit is afgestemd op het natuurbeleidsplan.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De eilandsraad stelt, voor zover mogelijk, natuurparken in.
 
@@ -244,31 +269,31 @@ Bij ministeriële regeling kunnen ten aanzien van de verboden, bedoeld in artike
 
 4. Onze Minister draagt de gemelde natuurparken voor bij het desbetreffende uitvoerende bureau dat bij deze verdragen is ingesteld, met het verzoek tot opname in de bij dat verdrag horende lijst van beschermde gebieden.
 
-#### Artikel 11
+##### Artikel 11
 
 De eilandsraad draagt zorg voor de beheersmaatregelen voor en de bescherming van soorten die vermeld zijn in de bijlagen van het Zeeschildpaddenverdrag.
 
 De eisen die hiervoor krachtens het in het eerste lid genoemde verdrag gelden, zijn van toepassing.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De eilandsraad draagt zorg voor de bescherming van en de beheersmaatregelen voor soorten die vermeld zijn in de bijlagen van de Bonn-conventie.
 
 2. De eisen die hiervoor krachtens het in het eerste lid genoemde verdrag gelden, zijn van toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De eilandsraad draagt zorg voor de bescherming van en de beheersmaatregelen voor soorten die vermeld zijn in de bijlagen van het SPAW-protocol.
 
 2. De eisen die hieraan krachtens het in het eerste lid genoemde verdrag gesteld worden, zijn van toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De eilandsraad draagt zorg voor de bescherming van de biologische diversiteit, het verantwoord gebruik van haar componenten en de eerlijke en billijke verdeling van de voordelen die uit het gebruik van genetische bronnen voortvloeien.
 
 2. De eisen die hiervoor krachtens het Biodiversiteitsverdrag gelden, zijn van toepassing.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De eilandsraad stelt uiterlijk twee jaren na inwerkingtreding van deze wet voorschriften vast ter uitvoering van de verplichtingen die voor de openbare lichamen Bonaire, Sint Eustatius en Saba voortvloeien uit deze wet.
 
@@ -278,7 +303,7 @@ De eisen die hiervoor krachtens het in het eerste lid genoemde verdrag gelden, z
 
 ### Hoofdstuk 5. Toezicht en opsporing
 
-#### Artikel 16
+##### Artikel 16
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de daartoe bij besluit van Onze minister aangewezen ambtenaren of personen. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
@@ -304,13 +329,13 @@ De eisen die hiervoor krachtens het in het eerste lid genoemde verdrag gelden, z
 
 6. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van taakuitoefening van de krachtens het eerste en het tweede lid aangewezen personen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een ieder is verplicht aan toezichthouders alle medewerking te verlenen die deze redelijkerwijs kunnen verlangen ter uitoefening van hun bevoegdheden.
 
 2. Zij die uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover hun geheimhoudingsplicht zich daartoe uitstrekt.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) bedoelde personen, belast de daartoe bij besluit van Onze minister van Justitie, in overeenstemming met Onze Minister aangewezen ambtenaren of personen. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
@@ -318,7 +343,7 @@ De eisen die hiervoor krachtens het in het eerste lid genoemde verdrag gelden, z
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de vereisten waaraan de krachtens het eerste en het tweede lid aangewezen ambtenaren of personen dienen te voldoen.
 
-#### Artikel 19
+##### Artikel 19
 
 Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van deze wet de noodzaak tot bekendmaking voortvloeit.
 
@@ -326,11 +351,11 @@ Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikk
 
 #### § 1. Bestuursdwang
 
-#### Artikel 20
+##### Artikel 20
 
 Onze Minister en het bestuurscollege, voor zover het betreft overtreding van voorschriften van de openbare lichamen, zijn bevoegd tot het doen wegnemen, ontruimen, beletten, in de vorige toestand herstellen of het verrichten van hetgeen in strijd met de in deze wet en de daarop berustende bepalingen gestelde verplichtingen is of wordt gedaan, gehouden of nagelaten.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een beslissing tot toepassing van bestuursdwang wordt op schrift gesteld en geldt als een beschikking.
 
@@ -342,7 +367,7 @@ Onze Minister en het bestuurscollege, voor zover het betreft overtreding van voo
 
 5. Indien de situatie dermate spoedeisend is dat Onze Minister of het bestuurscollege de beslissing tot toepassing van bestuursdwang niet van te voren op schrift kan zetten, zorgt deze alsnog zo spoedig mogelijk voor de opschriftstelling en de bekendmaking.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De overtreder is de kosten verbonden aan de toepassing van bestuursdwang verschuldigd, tenzij deze kosten redelijkerwijze niet of niet geheel te zijnen laste behoren te komen.
 
@@ -354,7 +379,7 @@ Onze Minister en het bestuurscollege, voor zover het betreft overtreding van voo
 
 5. De kosten zijn ook verschuldigd indien de bestuursdwang door opheffing van de onwettige situatie niet of niet volledig is uitgevoerd.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Onze Minister of het bestuurscollege, voor zover het betreft overtreding van voorschriften van de openbare lichamen, kan van de overtreder bij dwangbevel de verschuldigde kosten, verhoogd met de op de invordering vallende kosten invorderen.
 
@@ -364,19 +389,19 @@ Onze Minister en het bestuurscollege, voor zover het betreft overtreding van voo
 
 4. Het verzet schorst de tenuitvoerlegging. Op verzoek van de Staat der Nederlanden of het desbetreffende openbare lichaam kan de rechter in eerste aanleg de schorsing van de tenuitvoerlegging opheffen.
 
-#### Artikel 24
+##### Artikel 24
 
 De kosten verbonden aan de toepassing van bestuursdwang, zijn bevoorrecht op de zaak ten aanzien waarvan zij zijn besteed en worden na de kosten, bedoeld in artikel 1165, onderdeel 4° van het Burgerlijk Wetboek BES uit de opbrengst van de zaak betaald.
 
-#### Artikel 25
+##### Artikel 25
 
 Om aan een besluit tot toepassing van bestuursdwang uitvoering te geven, zijn de [artikelen 16, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=16&z=2019-01-01&g=2019-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=17&z=2019-01-01&g=2019-01-01) van overeenkomstige toepassing op door Onze Minister of het bestuurscollege, voor zover het betreft overtreding van voorschriften van de openbare lichamen, aan te wijzen personen.
 
-#### Artikel 26
+##### Artikel 26
 
 Onze Minister of het bestuurscollege, voor zover het betreft overtreding van voorschriften van de openbare lichamen, zijn bevoegd gebouwen, terreinen en hetgeen zich daarop bevindt, te verzegelen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Tot de bevoegdheid tot toepassing van bestuursdwang behoort het meevoeren en opslaan van daarvoor vatbare zaken voor zover de toepassing van bestuursdwang dit vereist.
 
@@ -386,7 +411,7 @@ Onze Minister of het bestuurscollege, voor zover het betreft overtreding van voo
 
 4. Onze Minister en het desbetreffende bestuurscollege zijn bevoegd de afgifte op te schorten totdat de verschuldigde kosten zijn voldaan. Indien de rechthebbende niet tevens de overtreder is, zijn Onze Minister en het bestuurscollege bevoegd de afgifte op te schorten totdat de kosten van bewaring zijn voldaan.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Onze Minister en het bestuurscollege, indien het betreft overtreding van voorschriften van de openbare lichamen, zijn bevoegd, indien een opgeslagen zaak niet binnen drie maanden na de opslag kan worden teruggegeven, deze te verkopen of, indien verkoop naar hun oordeel niet mogelijk is, de zaak om niet aan een derde in eigendom over te dragen of te laten vernietigen.
 
@@ -398,7 +423,7 @@ Onze Minister of het bestuurscollege, voor zover het betreft overtreding van voo
 
 #### § 2. Dwangsom
 
-#### Artikel 29
+##### Artikel 29
 
 1. Onze Minister en het bestuurscollege, indien het betreft overtreding van voorschriften van de openbare lichamen, kunnen in plaats van bestuursdwang toe te passen aan de overtreder een last onder dwangsom opleggen. Voor het opleggen van een last onder dwangsom wordt niet gekozen, indien het belang dat het overtreden voorschrift beoogt te beschermen, zich daartegen verzet.
 
@@ -406,19 +431,19 @@ Onze Minister of het bestuurscollege, voor zover het betreft overtreding van voo
 
 3. In de beschikking tot oplegging van een last onder dwangsom die strekt tot het ongedaan maken of het beëindigen van een overtreding, wordt een termijn gesteld gedurende welke de overtreder de last kan uitvoeren zonder dat een dwangsom wordt verbeurd.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Verbeurde dwangsommen komen toe aan de Staat der Nederlanden of het desbetreffende openbare lichaam.
 
 2. Onze Minister en het desbetreffende bestuurscollege kunnen bij dwangbevel het verschuldigde bedrag, verhoogd met de op de invordering vallende kosten, invorderen. [Artikel 22, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=6&paragraaf=1&artikel=22&z=2019-01-01&g=2019-01-01), zijn van overeenkomstige toepassing.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Onze Minister of het desbetreffende bestuurscollege kunnen op verzoek van de overtreder de dwangsom opheffen of de looptijd ervan opschorten voor een bepaalde termijn ingeval van blijvende of tijdelijke gehele of gedeeltelijke onmogelijkheid voor de overtreder om aan zijn verplichtingen te voldoen.
 
 2. Onze Minister of het desbetreffende bestuurscollege kunnen op verzoek van de overtreder de dwangsom opheffen indien de beschikking een jaar van kracht is geweest zonder dat de dwangsom is verbeurd.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De bevoegdheid tot invordering van verbeurde bedragen verjaart door verloop van één jaar na de dag waarop zij zijn verbeurd.
 
@@ -426,7 +451,7 @@ Onze Minister of het bestuurscollege, voor zover het betreft overtreding van voo
 
 #### § 3. Strafbepalingen
 
-#### Artikel 33
+##### Artikel 33
 
 1. Handelen in strijd met de voorschriften gegeven bij of krachtens de [artikelen 7A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7a&z=2019-01-01&g=2019-01-01), [7B](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=7b&z=2019-01-01&g=2019-01-01), [8A](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8a&z=2019-01-01&g=2019-01-01), [8B](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8b&z=2019-01-01&g=2019-01-01), [8C](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8c&z=2019-01-01&g=2019-01-01) en [8D, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8d&z=2019-01-01&g=2019-01-01), of krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=III&artikel=15&z=2019-01-01&g=2019-01-01), en overtreding van de verboden gegeven bij of krachtens de artikelen 7A, 7B, 8A, 8B, 8C en 8D, eerste en tweede lid, of krachtens artikel 15, wordt, voor zover opzettelijk begaan, gestraft met hetzij gevangenisstraf van ten hoogste vier jaren, hetzij geldboete van ten hoogste de zesde categorie van het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570), hetzij beide straffen.
 
@@ -434,11 +459,11 @@ Onze Minister of het bestuurscollege, voor zover het betreft overtreding van voo
 
 3. Handelen in strijd met de bij de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=17&z=2019-01-01&g=2019-01-01), en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=19&z=2019-01-01&g=2019-01-01) gegeven voorschriften wordt gestraft met hetzij hechtenis van ten hoogste zes maanden, hetzij een geldboete van de vierde categorie van het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570), hetzij beide straffen.
 
-#### Artikel 34
+##### Artikel 34
 
 De in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=6&paragraaf=3&artikel=33&z=2019-01-01&g=2019-01-01), strafbaar gestelde feiten zijn misdrijven; de overige in dit artikel strafbaar gestelde feiten zijn overtredingen.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Onverminderd het bepaalde in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=36) en [38b tot en met 38d van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=38b) worden alle, onverschillig waar, ongeoorloofd aanwezig bevonden specimens, verbeurd verklaard of aan het verkeer onttrokken.
 
@@ -460,7 +485,7 @@ De in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&h
 
 ### Hoofdstuk 7. Beroep
 
-#### Artikel 38
+##### Artikel 38
 
 1. Het natuurbeleidsplan, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=2&z=2019-01-01&g=2019-01-01), wordt voor de eerste keer vastgesteld uiterlijk één jaar na het in werking treden van deze wet.
 
@@ -468,7 +493,7 @@ De in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&h
 
 3. Indien het bestuurscollege nalaat binnen de in het tweede lid genoemde termijn het natuurplan vast te stellen, stelt de gezaghebber dit vast.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Ingetrokken worden:
 
@@ -482,21 +507,21 @@ De in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&h
 
 3. De landsverordening van de 20sten juli 1926, tot bescherming van diersoorten, nuttig voor land- en ooftbouw of die langzamerhand uitsterven en op welker voortbestaan prijs wordt gesteld (P.B. 1926, no. 60), wordt met ingang van het tijdstip waarop voor een eilandgebied de in artikel 15 van deze landsverordening bedoelde eilandsverordening van kracht is geworden voor dat eilandgebied ingetrokken.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De verboden in [artikel 8a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=8a&z=2019-01-01&g=2019-01-01), of krachtens het derde lid, onderdeel a, gelden niet voor het onder zich hebben van soorten, opgenomen in de Bijlagen I en II van het SPAW-protocol die men onder zich had op het tijdstip van inwerkingtreding van de Landsverordening grondslagen natuurbeheer en -bescherming.
 
 2. Het bepaalde in het eerste lid is slechts van toepassing in geval soorten, opgenomen in Bijlage I van het CITES-verdrag en in de Bijlagen I en II van het SPAW-protocol binnen zes maanden na inwerkingtreding van de Landsverordening grondslagen natuurbeheer en -bescherming zijn geregistreerd in het register, bedoeld in [artikel 5, tweede lid, onderdeel b, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=II&artikel=5&z=2019-01-01&g=2019-01-01).
 
-#### Artikel 41
+##### Artikel 41
 
 [Vervallen]
 
-#### Artikel 42
+##### Artikel 42
 
 Deze regeling wordt aangehaald als: Wet grondslagen natuurbeheer- en bescherming BES.
 
-#### Artikel 18a
+##### Artikel 18a
 
 1. De ambtenaren of personen, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&hoofdstuk=5&artikel=18&z=2019-01-01&g=2019-01-01), hebben de beschikking over de bevoegdheden, bedoeld in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&artikel=53) en [55 tot en met 61 van de Wet maritiem beheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&artikel=55).
 

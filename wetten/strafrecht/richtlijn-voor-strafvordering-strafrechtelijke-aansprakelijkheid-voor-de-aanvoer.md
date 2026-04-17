@@ -1,13 +1,35 @@
 ---
 title: "Richtlijn voor strafvordering strafrechtelijke aansprakelijkheid voor de aanvoer van niet of onjuist gedocumenteerde vreemdelingen"
 identifier: "BWBR0051837"
-categorie: "Strafrecht"
-publicatiedatum: 2025-12-01
-laatste_update: 2025-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051837"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-12-01"
+last_updated: "2025-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051837"
+soort: "beleidsregel"
+stam_id: "17615863"
+version_id: "31098752"
+internal_id: "C44519081"
+label_id: "17516134"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051837/2025-12-01/0"
+intitule_bron: "Stcrt.2025-40151"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-11-25"
+intitule_in_force: "2025-11-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-40151"
+original_published_date: "2025-11-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-40151"
+entry_into_force_date: "2025-12-01"
+jci_1_3: "jci1.3:c:BWBR0051837&z=2025-12-01&g=2025-12-01"
+jci_1_0: "1.0:c:BWBR0051837&g=2025-12-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-12-01"
 ---
-
 # Richtlijn voor strafvordering strafrechtelijke aansprakelijkheid voor de aanvoer van niet of onjuist gedocumenteerde vreemdelingen
 
 ### 1. Beschrijving

@@ -1,32 +1,57 @@
 ---
 title: "Beleidsregels toepassing artikel 16, derde lid en artikel 24, vijfde lid, WW 2006"
 identifier: "BWBR0020336"
-categorie: "Sociaal recht"
-publicatiedatum: 2006-10-01
-laatste_update: 2006-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020336"
+country: "nl"
+rank: "zbo"
+publication_date: "2006-10-01"
+last_updated: "2006-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020336"
+soort: "zbo"
+stam_id: "8632983"
+version_id: "13608892"
+internal_id: "C18299631"
+label_id: "8613204"
+dtd_version: "2.0"
+original_entry_into_force: "2006-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020336/2006-10-01/0"
+intitule_bron: "Stcrt.2006-190"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-09-26"
+intitule_published: "2006-09-29"
+intitule_in_force: "2006-09-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-190"
+original_signed_date: "2006-09-26"
+original_published_date: "2006-09-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-190-p28-SC77048"
+entry_into_force_date: "2006-10-01"
+jci_1_3: "jci1.3:c:BWBR0020336&z=2006-10-01&g=2006-10-01"
+jci_1_0: "1.0:c:BWBR0020336&g=2006-10-01"
+citeertitel_status: "officieel"
+signed_date: "2006-09-26"
+entry_into_force: "2006-10-01"
 ---
-
 # Beleidsregels toepassing artikel 16, derde lid en artikel 24, vijfde lid, WW 2006
 
 Gelet op [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16) en [artikel 24, vijfde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) (WW);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Uitvoeringsinstituut werknemersverzekeringen voert bij de toepassing van [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16) en [artikel 24, vijfde lid WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), een beleid als weergegeven in de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking op 1 oktober 2006.
 
-#### Artikel 3
+##### Artikel 3
 
 Het [Besluit vaststelling fictieve opzeggingstermijn Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009312), het Besluit wet Flexibiliteit en zekerheid en recht op WW, en de Mededelingen M 98.06, M 98.119 en M 01.026, van het Landelijk instituut sociale verzekeringen, worden ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Beleidsregels toepassing artikel 16, derde lid en artikel 24, vijfde lid, WW 2006.
 

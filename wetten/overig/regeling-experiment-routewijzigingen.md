@@ -1,13 +1,38 @@
 ---
 title: "Regeling experiment routewijzigingen"
 identifier: "BWBR0023613"
-categorie: "Overig"
-publicatiedatum: 2009-11-01
-laatste_update: 2009-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023613"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-11-01"
+last_updated: "2009-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023613"
+soort: "ministeriele-regeling"
+stam_id: "9447883"
+version_id: "15213862"
+internal_id: "C20731641"
+label_id: "9425414"
+dtd_version: "2.0"
+original_entry_into_force: "2008-03-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023613/2009-11-01/0"
+intitule_bron: "Stcrt.2008-50"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-03-09"
+intitule_published: "2008-03-11"
+intitule_in_force: "2008-03-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-50"
+original_signed_date: "2008-03-09"
+original_published_date: "2008-03-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-50-p15-SC84875"
+entry_into_force_date: "2008-03-13"
+jci_1_3: "jci1.3:c:BWBR0023613&z=2009-11-01&g=2009-11-01"
+jci_1_0: "1.0:c:BWBR0023613&g=2009-11-01"
+citeertitel_status: "redactioneel"
+signed_date: "2008-03-09"
+entry_into_force: "2008-03-13"
 ---
-
 # Regeling experiment routewijzigingen
 
 Handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
@@ -16,7 +41,7 @@ Gelet op [artikel 8.23a, eerste lid, van de Wet luchtvaart](https://wetten.overh
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -40,7 +65,7 @@ In deze regeling wordt verstaan onder:
 
 - j. gebruiksjaar 2010: de periode van 1 november 2009 tot en met 31 oktober 2010.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het doel van dit experiment is het optimaliseren van vijf routes van vertrekkend vliegverkeer teneinde een gunstig effect op de hinderbeleving te bewerkstelligen. Het betreft de volgende routes:
 
@@ -54,11 +79,11 @@ Het doel van dit experiment is het optimaliseren van vijf routes van vertrekkend
 
 - e. de uitvliegroutes van de Polderbaan (36L) ter hoogte van Amsterdam West (LEKKO/LOPIK route).
 
-#### Artikel 3. Luchtverkeerwegen
+##### Artikel 3. Luchtverkeerwegen
 
 Voor de duur van het experiment wordt vrijstelling verleend van de [artikelen 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.1) en [3.1.3, eerste lid, van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.3) met betrekking tot de luchtverkeerwegen die zijn aangewezen op de kaarten 3/21, 5/21, 7/21, 13/21 en 19/21 van [bijlage 1 van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=1).
 
-#### Artikel 4. Grenswaarden
+##### Artikel 4. Grenswaarden
 
 1. In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=2) gelden tijdens dit experiment voor het gedeelte van het gebruiksjaar 2008 vanaf 13 maart 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:
 
@@ -270,11 +295,11 @@ Voor de duur van het experiment wordt vrijstelling verleend van de [artikelen 3.
 | 24 | 106.000 | 471.050 | 46,15 | (47,15) |
 | 25 | 100.475 | 472.525 | 48,84 | (49,84) |
 
-#### Artikel 5. Uitvoering
+##### Artikel 5. Uitvoering
 
 De routewijzigingen gelden voor al het straalverkeer op de betreffende routes. Hierdoor zullen alle straalvliegtuigen de aangepaste routes vliegen.
 
-#### Artikel 6. Gevolgen
+##### Artikel 6. Gevolgen
 
 Als gevolg van het experiment zal naar verwachting per saldo minder hinder worden ervaren in de omgeving. De hinderbeperking komt tot stand
 
@@ -286,7 +311,7 @@ Als gevolg van het experiment zal naar verwachting per saldo minder hinder worde
 
 Gedurende het experiment zullen de effecten regelmatig worden gemonitord.
 
-#### Artikel 7. Criteria
+##### Artikel 7. Criteria
 
 De criteria die onderdeel vormen van de afweging en de beoordeling of het experiment wordt omgezet in een wijziging van het [LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330) zijn:
 
@@ -302,15 +327,15 @@ De criteria die onderdeel vormen van de afweging en de beoordeling of het experi
 
 - –. het effect op ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0014329) en bestaande verstedelijking en nieuwbouwplannen.
 
-#### Artikel 8. Onvoorziene gevallen
+##### Artikel 8. Onvoorziene gevallen
 
 In onvoorziene gevallen kunnen op advies van belanghebbenden de Minister van Verkeer en Waterstaat en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer overgaan tot bijsturen, opschorten of vroegtijdig stopzetten van het experiment.
 
-#### Artikel 9. Termijn experiment
+##### Artikel 9. Termijn experiment
 
 De termijn van de experimenten betreft de periode vanaf 13 maart 2008 tot en met 31 oktober 2008. De termijn van het verlengde experiment betreft het gebruiksjaar 2009. De termijn van het op grond van [artikel 8.23a, zesde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.23a) verlengde experiment betreft de periode vanaf 1 november 2009 tot het tijdstip waarop het besluit tot wijziging van het [LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330) waarmee het experiment onderdeel wordt van dat besluit in werking treedt.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 13 maart 2008.
 

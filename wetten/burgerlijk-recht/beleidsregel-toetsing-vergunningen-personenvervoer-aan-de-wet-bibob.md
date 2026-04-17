@@ -1,13 +1,38 @@
 ---
-title: "Beleidsregel toetsing vergunningen personenvervoer aan de Wet Bibob"
+title: "Beleidsregel van de Minister van Verkeer en Waterstaat inzake toepassing van regels van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur op de toetsing van vergunningen personenvervoer (Beleidsregel toetsing vergunningen personenvervoer aan de Wet Bibob)"
 identifier: "BWBR0015123"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2003-05-29
-laatste_update: 2003-05-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015123"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-05-29"
+last_updated: "2003-05-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015123"
+soort: "beleidsregel"
+stam_id: "6233373"
+version_id: "10906592"
+internal_id: "C14779191"
+label_id: "6222684"
+original_entry_into_force: "2003-05-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015123/2003-05-29/0"
+intitule_bron: "Stcrt.2003-101"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-05-26"
+intitule_published: "2003-05-27"
+intitule_in_force: "2003-05-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-101"
+original_signed_date: "2003-05-26"
+original_published_date: "2003-05-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2003-101-p16-SC40106"
+entry_into_force_date: "2003-05-29"
+jci_1_3: "jci1.3:c:BWBR0015123&z=2003-05-29&g=2003-05-29"
+jci_1_0: "1.0:c:BWBR0015123&g=2003-05-29"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel toetsing vergunningen personenvervoer aan de Wet Bibob"
+signed_date: "2003-05-26"
+entry_into_force: "2003-05-29"
 ---
-
 # Beleidsregel van de Minister van Verkeer en Waterstaat inzake toepassing van regels van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur op de toetsing van vergunningen personenvervoer (Beleidsregel toetsing vergunningen personenvervoer aan de Wet Bibob)
 
 gelet op de [artikelen 3, eerste en zesde lid van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3), en de [artikelen 6, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=6) en [99, eerste lid, onder c, en tweede lid van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=99);
@@ -16,7 +41,7 @@ Besluit:
 
 ### Hoofdstuk 1. Definities en toepassing
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -34,7 +59,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - g. **vergunning**: vergunning voor het verrichten van besloten busvervoer, taxivervoer, openbaar vervoer per trein en openbaar vervoer anders dan per trein als bedoeld in [artikel 4, eerste, tweede en vierde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=4).
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 Deze beleidsregel heeft betrekking op:
 
@@ -48,11 +73,11 @@ Deze beleidsregel heeft betrekking op:
 
 #### Paragraaf 2.1. Voordelen uit strafbare feiten
 
-#### Artikel 2.1.1
+##### Artikel 2.1.1
 
 De Minister kan op grond de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=6), en [99, eerste lid, onder c, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=99) een vergunning weigeren, intrekken of schorsen indien er ernstig gevaar bestaat dat de vergunning mede zal worden gebruikt om uit gepleegde strafbare feiten verkregen of te verkrijgen, op geld waardeerbare voordelen te benutten.
 
-#### Artikel 2.1.2
+##### Artikel 2.1.2
 
 1. De Minister neemt ingevolge het gevaar als bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0015123&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2003-05-29&g=2003-05-29) uitsluitend strafbare feiten in aanmerking:
 
@@ -70,7 +95,7 @@ De Minister kan op grond de [artikelen 6, vierde lid](https://wetten.overheid.nl
 
 2. Het eerste lid, onder b is niet van toepassing op de weigering of intrekking van een vergunning voor het verrichten van taxivervoer en openbaar vervoer per trein.
 
-#### Artikel 2.1.3
+##### Artikel 2.1.3
 
 Als strafbare feiten, bedoeld in [artikel 2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015123&hoofdstuk=2&paragraaf=2.1&artikel=2.1.2&z=2003-05-29&g=2003-05-29), kunnen worden aangemerkt:
 
@@ -130,7 +155,7 @@ a. het medeplichtig zijn aan of op enigerlei wijze behulpzaam zijn bij de onder 
 
 - b. het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen (artikel 67, onder f)](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67).
 
-#### Artikel 2.1.4
+##### Artikel 2.1.4
 
 1. De Minister kan de in [artikel 2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015123&hoofdstuk=2&paragraaf=2.1&artikel=2.1.2&z=2003-05-29&g=2003-05-29) bedoelde strafbare feiten buiten beschouwing laten indien naar zijn oordeel een gepleegd strafbaar feit door de omstandigheden van het geval in geringe mate ernstig is.
 
@@ -154,11 +179,11 @@ a. het medeplichtig zijn aan of op enigerlei wijze behulpzaam zijn bij de onder 
 
 #### Paragraaf 2.2. Te plegen strafbare feiten
 
-#### Artikel 2.2.1
+##### Artikel 2.2.1
 
 De Minister kan op grond de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=6), en [99, eerste lid, onder c, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=99) een vergunning weigeren, intrekken of schorsen indien er ernstig gevaar bestaat dat de vergunning mede zal worden gebruikt om strafbare feiten te plegen.
 
-#### Artikel 2.2.2
+##### Artikel 2.2.2
 
 1. De Minister neemt ingevolge het gevaar als bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0015123&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2003-05-29&g=2003-05-29) uitsluitend strafbare feiten in aanmerking:
 
@@ -174,7 +199,7 @@ De Minister kan op grond de [artikelen 6, vierde lid](https://wetten.overheid.nl
 
 2. Het eerste lid, onder a is niet van toepassing op de weigering of intrekking van een vergunning voor het verrichten van taxivervoer en openbaar vervoer per trein.
 
-#### Artikel 2.2.3
+##### Artikel 2.2.3
 
 Als strafbare feiten, bedoeld in [artikel 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015123&hoofdstuk=2&paragraaf=2.2&artikel=2.2.2&z=2003-05-29&g=2003-05-29), kunnen worden aangemerkt:
 
@@ -224,7 +249,7 @@ Als strafbare feiten, bedoeld in [artikel 2.2.2](https://wetten.overheid.nl/jci1
 
 overtredingen van voorschriften, gesteld bij of krachtens: de [Wet personenvervoer, artikel 5 (artikel 1, onder ten tweede en ten derde Wed)](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=5).
 
-#### Artikel 2.2.4
+##### Artikel 2.2.4
 
 1. De Minister kan de in [artikel 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015123&hoofdstuk=2&paragraaf=2.2&artikel=2.2.2&z=2003-05-29&g=2003-05-29) bedoelde strafbare feiten buiten beschouwing laten indien naar zijn oordeel een gepleegd strafbaar feit door de omstandigheden van het geval in geringe mate ernstig is.
 
@@ -248,11 +273,11 @@ overtredingen van voorschriften, gesteld bij of krachtens: de [Wet personenvervo
 
 #### Paragraaf 2.3. Strafbare feiten als middel
 
-#### Artikel 2.3.1
+##### Artikel 2.3.1
 
 De Minister kan op grond de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=6), en [99, eerste lid, onder c, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=99) een vergunning weigeren, intrekken of schorsen indien feiten en omstandigheden er op wijzen of redelijkerwijze doen vermoeden dat ter verkrijging van een vergunning een strafbaar feit is gepleegd.
 
-#### Artikel 2.3.2
+##### Artikel 2.3.2
 
 De Minister neemt ingevolge een aanwijzing of vermoeden als bedoeld in [artikel 2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0015123&hoofdstuk=2&paragraaf=2.3&artikel=2.3.1&z=2003-05-29&g=2003-05-29) uitsluitend gepleegde strafbare feiten in aanmerking die:
 
@@ -268,7 +293,7 @@ De Minister neemt ingevolge een aanwijzing of vermoeden als bedoeld in [artikel 
 
 2. Het eerste lid, onder b is niet van toepassing op de weigering of intrekking van een vergunning voor het verrichten van taxivervoer en openbaar vervoer per trein.
 
-#### Artikel 2.3.3
+##### Artikel 2.3.3
 
 Als strafbare feiten, bedoeld in [artikel 2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015123&hoofdstuk=2&paragraaf=2.3&artikel=2.3.2&z=2003-05-29&g=2003-05-29), kunnen worden aangemerkt:
 
@@ -300,7 +325,7 @@ Als strafbare feiten, bedoeld in [artikel 2.3.2](https://wetten.overheid.nl/jci1
 
 - b. het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen (artikel 67, onder f)](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67).
 
-#### Artikel 2.3.4
+##### Artikel 2.3.4
 
 1. De Minister kan de in [artikel 2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015123&hoofdstuk=2&paragraaf=2.3&artikel=2.3.2&z=2003-05-29&g=2003-05-29) bedoelde strafbare feiten buiten beschouwing laten indien naar zijn oordeel een strafbaar feit door de omstandigheden van het geval in geringe mate ernstig is.
 
@@ -324,7 +349,7 @@ Als strafbare feiten, bedoeld in [artikel 2.3.2](https://wetten.overheid.nl/jci1
 
 ### Hoofdstuk 3. Afweging van belangen
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 De Minister kan een besluit tot weigering of intrekking van een vergunning waarbij ernstig gevaar als bedoeld in [artikel 3, eerste lid Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3) of een aanwijzing of een vermoeden als bedoeld in [artikel 3, zesde lid Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3) is geconstateerd achterwege laten indien sprake is van andere, zwaarwegende belangen en omstandigheden.
 
@@ -352,11 +377,11 @@ De Minister kan een besluit tot weigering of intrekking van een vergunning waarb
 
 ### Hoofdstuk 4. Aanvraag van een advies
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 Alvorens de Minister een advies als bedoeld in [artikel 9, eerste lid van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) aanvraagt, maakt hij redelijkerwijze gebruik van andere, bij of krachtens de [Wet Personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) en de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) toegestane middelen om te toetsen of er feiten of omstandigheden aanwezig zijn die kunnen leiden tot toepassing van [artikel 3, eerste of zesde lid van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 1. De feiten en omstandigheden die kunnen leiden tot aanvraag van een advies als bedoeld in [artikel 9, eerste lid van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) kunnen blijken uit:
 
@@ -370,7 +395,7 @@ Alvorens de Minister een advies als bedoeld in [artikel 9, eerste lid van de Wet
 
 2. De feiten of omstandigheden, bedoeld in het eerste lid, duiden op een mogelijk verband met de strafbare feiten als bedoeld in [paragraaf 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0015123&hoofdstuk=2&paragraaf=2.1&z=2003-05-29&g=2003-05-29), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0015123&hoofdstuk=2&paragraaf=2.2&z=2003-05-29&g=2003-05-29) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0015123&hoofdstuk=2&paragraaf=2.3&z=2003-05-29&g=2003-05-29).
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 Onder de in [artikel 4.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0015123&hoofdstuk=4&artikel=4.2&z=2003-05-29&g=2003-05-29) genoemde kenmerken van de aanvrager of houder van een vergunning of de omgeving waarbinnen hij zijn activiteiten verricht wordt verstaan:
 
@@ -390,7 +415,7 @@ Onder de in [artikel 4.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR00151
 
 - h. 0nduidelijke eigendom van in gebruik genomen panden, gronden en bedrijfsmiddelen.
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 Onder de in [artikel 4.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015123&hoofdstuk=4&artikel=4.2&z=2003-05-29&g=2003-05-29) genoemde gegevens uit gesloten of open bronnen wordt verstaan:
 
@@ -440,7 +465,7 @@ Onder de in [artikel 4.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR00151
 
 - w. ontvangen klachten van klanten, leveranciers, afnemers en omwonenden van het bedrijf die duiden op een verband met strafbare feiten als bedoeld in hoofdstuk 2.
 
-#### Artikel 4.5
+##### Artikel 4.5
 
 Onder de in [artikel 4.2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0015123&hoofdstuk=4&artikel=4.2&z=2003-05-29&g=2003-05-29) genoemde gedragingen van de aanvrager of houder van een vergunning wordt verstaan:
 
@@ -456,7 +481,7 @@ Onder de in [artikel 4.2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR00151
 
 - f. herhaald uitstel vragen bij het overleggen van bewijs ter voldoening aan eisen.
 
-#### Artikel 4.6
+##### Artikel 4.6
 
 Onder de in [artikel 4.2, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0015123&hoofdstuk=4&artikel=4.2&z=2003-05-29&g=2003-05-29) genoemde objectieve kenmerken wordt verstaan:
 
@@ -484,7 +509,7 @@ Onder de in [artikel 4.2, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR00151
 
 - l. één of meerdere buitenlandse vestigingen.
 
-#### Artikel 4.7
+##### Artikel 4.7
 
 Onverminderd [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0015123&hoofdstuk=4&artikel=4.1&z=2003-05-29&g=2003-05-29) wordt een advies uitsluitend aangevraagd indien op een aanvrager of houder van een vergunning:
 
@@ -494,17 +519,17 @@ Onverminderd [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0015123&hoofd
 
 ### Hoofdstuk 5. Bijzondere omstandigheden
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 De Minister kan in bijzondere omstandigheden van deze beleidsregel afwijken voor zover dit gelet op het achterhalen, voorkomen of tegengaan van misbruik van een vergunning niet zal leiden tot een onbillijkheid van overwegende aard.
 
 ### Hoofdstuk 6. Overige bepalingen
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel toetsing vergunningen personenvervoer aan de [Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798).
 

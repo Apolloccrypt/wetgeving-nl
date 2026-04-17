@@ -1,13 +1,38 @@
 ---
 title: "Besluit MAP-tiebreaker"
 identifier: "BWBR0042921"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-12-21
-laatste_update: 2019-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042921"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2019-12-21"
+last_updated: "2019-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042921"
+soort: "beleidsregel"
+stam_id: "15282083"
+version_id: "26327692"
+internal_id: "C37420961"
+label_id: "15227994"
+dtd_version: "2.0"
+original_entry_into_force: "2019-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042921/2019-12-21/0"
+intitule_bron: "Stcrt.2019-66227"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-09"
+intitule_published: "2019-12-20"
+intitule_in_force: "2019-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-66227"
+original_signed_date: "2019-12-09"
+original_published_date: "2019-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-66227"
+entry_into_force_date: "2019-12-21"
+jci_1_3: "jci1.3:c:BWBR0042921&z=2019-12-21&g=2019-12-21"
+jci_1_0: "1.0:c:BWBR0042921&g=2019-12-21"
+citeertitel_status: "officieel"
+signed_date: "2019-12-09"
+entry_into_force: "2019-12-21"
 ---
-
 # Besluit MAP-tiebreaker
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

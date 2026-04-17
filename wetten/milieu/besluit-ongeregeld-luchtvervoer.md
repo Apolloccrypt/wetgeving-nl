@@ -1,13 +1,37 @@
 ---
-title: "Besluit ongeregeld luchtvervoer"
+title: "Besluit van 2 mei 1975, houdende regels inzake het ongeregeld luchtvervoer"
 identifier: "BWBR0002965"
-categorie: "Milieu"
-publicatiedatum: 2010-06-12
-laatste_update: 2010-06-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002965"
+country: "nl"
+rank: "amvb"
+publication_date: "2010-06-12"
+last_updated: "2010-06-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002965"
+soort: "AMvB"
+stam_id: "749093"
+version_id: "16263202"
+internal_id: "C24079111"
+label_id: "726274"
+dtd_version: "2.0"
+original_entry_into_force: "2010-06-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002965/2010-06-12/0"
+intitule_bron: "Stb.1975-227"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1975-05-02"
+intitule_status: "goed"
+original_publication: "Stb.2009-145"
+original_signed_date: "2009-03-05"
+original_published_date: "2009-03-31"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2009-145"
+entry_into_force_date: "2010-06-12"
+jci_1_3: "jci1.3:c:BWBR0002965&z=2010-06-12&g=2010-06-12"
+jci_1_0: "1.0:c:BWBR0002965&g=2010-06-12"
+citeertitel_status: "officieel"
+short_title: "Besluit ongeregeld luchtvervoer"
+signed_date: "2009-03-05"
+entry_into_force: "2010-06-12"
 ---
-
 # Besluit van 2 mei 1975, houdende regels inzake het ongeregeld luchtvervoer
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 7 april 1975, nr. Jur/L 21 811, Rijksluchtvaartdienst;
@@ -24,13 +48,13 @@ Hebben goedgevonden en verstaan:
 
 #### Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder ongeregeld vervoer: vluchten die niet onder een bilaterale luchtvaartovereenkomst vallen tenzij in een dergelijke overeenkomst daarover anderszins is bepaald.
 
 #### Toepasselijkheid van het besluit
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit is van toepassing op alle vluchten in ongeregeld vervoer door luchtvaartmaatschappijen in, naar of uit Nederland of met Nederland als tussenstation uit of naar landen niet behorende tot de Europese Unie.
 
@@ -38,23 +62,23 @@ Dit besluit is van toepassing op alle vluchten in ongeregeld vervoer door luchtv
 
 #### Toestemming
 
-#### Artikel 3
+##### Artikel 3
 
 Voor zover bij internationale overeenkomst niet anders is bepaald mogen vluchten in ongeregeld vervoer slechts worden uitgevoerd krachtens een daartoe strekkende toestemming door Onze Minister aan de betrokken luchtvaartmaatschappij.
 
 #### Ontheffing
 
-#### Artikel 4
+##### Artikel 4
 
 Het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002965&hoofdstuk=II&artikel=3&z=2010-06-12&g=2010-06-12) geldt niet, indien door Onze Minister daarvan ontheffing is verleend.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
 #### Richtlijnen
 
-#### Artikel 6
+##### Artikel 6
 
 Bij het beslissen op een aanvraag voor ongeregeld luchtvervoer wordt in ieder geval rekening gehouden met:
 
@@ -66,35 +90,35 @@ Bij het beslissen op een aanvraag voor ongeregeld luchtvervoer wordt in ieder ge
 
 #### Nadere regelen
 
-#### Artikel 7
+##### Artikel 7
 
 Onze Minister kan nadere regels stellen met betrekking tot het uitvoeren van vluchten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002965&hoofdstuk=I&artikel=2&z=2010-06-12&g=2010-06-12).
 
 ### Hoofdstuk III. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
 ### Hoofdstuk IV. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit kan worden aangeduid als "Besluit ongeregeld luchtvervoer".
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit treedt in werking met ingang van de derde kalendermaand na de datum van uitgifte van het **Staatsblad**, waarin het is geplaatst.
 

@@ -1,13 +1,36 @@
 ---
 title: "Instandhoudingsbeleid basisonderwijs"
 identifier: "BWBR0015239"
-categorie: "Onderwijs"
-publicatiedatum: 2003-07-30
-laatste_update: 2003-07-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015239"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-07-30"
+last_updated: "2003-07-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015239"
+soort: "beleidsregel"
+stam_id: "6473933"
+version_id: "11151882"
+internal_id: "C15071671"
+label_id: "6462534"
+original_entry_into_force: "2003-07-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015239/2003-07-30/0"
+intitule_bron: "Uitleg.2003-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-06-16"
+intitule_published: "2003-07-30"
+intitule_in_force: "2003-07-30"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-18"
+original_signed_date: "2003-06-16"
+original_published_date: "2003-07-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-07-30"
+jci_1_3: "jci1.3:c:BWBR0015239&z=2003-07-30&g=2003-07-30"
+jci_1_0: "1.0:c:BWBR0015239&g=2003-07-30"
+citeertitel_status: "redactioneel"
+signed_date: "2003-06-16"
+entry_into_force: "2003-07-30"
 ---
-
 # Instandhoudingsbeleid basisonderwijs
 
 ### Inleiding

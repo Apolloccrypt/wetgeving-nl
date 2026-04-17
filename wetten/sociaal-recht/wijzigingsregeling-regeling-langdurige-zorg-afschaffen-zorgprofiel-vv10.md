@@ -1,32 +1,58 @@
 ---
-title: "Wijzigingsregeling Regeling langdurige zorg (afschaffen zorgprofiel VV10)"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2017, kenmerk 170374-LZ, houdende wijziging van de Regeling langdurige zorg in verband met het afschaffen van het zorgprofiel VV10 en enige andere wijzigingen"
 identifier: "BWBR0040343"
-categorie: "Sociaal recht"
-publicatiedatum: 2018-04-01
-laatste_update: 2018-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040343"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-04-01"
+last_updated: "2018-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040343"
+soort: "ministeriele-regeling"
+stam_id: "14447543"
+version_id: "24706462"
+internal_id: "C35343911"
+label_id: "14408094"
+dtd_version: "2.0"
+original_entry_into_force: "2017-12-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040343/2018-04-01/0"
+intitule_bron: "Stcrt.2017-70510"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-12-01"
+intitule_published: "2017-12-08"
+intitule_in_force: "2017-12-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-70510"
+original_signed_date: "2017-12-01"
+original_published_date: "2017-12-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-70510"
+entry_into_force_date: "2017-12-09"
+jci_1_3: "jci1.3:c:BWBR0040343&z=2018-04-01&g=2018-04-01"
+jci_1_0: "1.0:c:BWBR0040343&g=2018-04-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling Regeling langdurige zorg (afschaffen zorgprofiel VV10)"
+signed_date: "2017-12-01"
+entry_into_force: "2017-12-09"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2017, kenmerk 170374-LZ, houdende wijziging van de Regeling langdurige zorg in verband met het afschaffen van het zorgprofiel VV10 en enige andere wijzigingen
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Regeling langdurige zorg.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Regeling vaststelling bedragen ex Besluit langdurige zorg en Uitvoeringsbesluit Wmo 2015 per 1 januari 2018.
 
-#### Artikel III
+##### Artikel III
 
 Het zorgprofiel VV Beschermd verblijf met intensieve palliatief-terminale zorg in [bijlage A bij de Regeling langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=A) zoals dat profiel luidde op de dag voor inwerkingtreding van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0040343&artikel=I&z=2018-04-01&g=2018-04-01), blijft van toepassing op de verzekerde die op die dag krachtens zijn indicatiebesluit was aangewezen op dat zorgprofiel gedurende de looptijd van dat indicatiebesluit.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Regeling langdurige zorg.
 
-#### Artikel V
+##### Artikel V
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2018, met uitzondering van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0040343&artikel=I&z=2018-04-01&g=2018-04-01), het in artikel I, onderdeel C, onder 2, toegevoegde artikel 5.3, achtste en negende lid, en artikel I, onderdelen M en N.
 

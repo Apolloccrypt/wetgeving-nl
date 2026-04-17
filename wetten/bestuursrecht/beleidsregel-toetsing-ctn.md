@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel toetsing Ctn"
+title: "Beleidsregel van de Staatssecretaris van Justitie en Veiligheid van 30 mei 2025, nr. 6373888, over de procedure bij en toetsing door de Commissie toegang notariaat (Beleidsregel toetsing Ctn)"
 identifier: "BWBR0051101"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-06-13
-laatste_update: 2025-06-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051101"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-06-13"
+last_updated: "2025-06-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051101"
+soort: "beleidsregel"
+stam_id: "17445073"
+version_id: "30762932"
+internal_id: "C44093991"
+label_id: "17348164"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051101/2025-06-13/0"
+intitule_bron: "Stcrt.2025-19872"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-05-30"
+intitule_published: "2025-06-13"
+intitule_in_force: "2025-06-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-19872"
+original_signed_date: "2025-05-30"
+original_published_date: "2025-06-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-19872"
+entry_into_force_date: "2025-06-13"
+jci_1_3: "jci1.3:c:BWBR0051101&z=2025-06-13&g=2025-06-13"
+jci_1_0: "1.0:c:BWBR0051101&g=2025-06-13"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel toetsing Ctn"
+signed_date: "2025-05-30"
+entry_into_force: "2025-06-13"
 ---
-
 # Beleidsregel van de Staatssecretaris van Justitie en Veiligheid van 30 mei 2025, nr. 6373888, over de procedure bij en toetsing door de Commissie toegang notariaat (Beleidsregel toetsing Ctn)
 
 Gelet op:

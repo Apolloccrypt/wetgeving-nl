@@ -1,20 +1,46 @@
 ---
-title: "Archiefregeling voor de archieven op het beleidsterrein Emancipatie en Gelijke Behandeling van het Ministerie van Sociale Zaken en Werkgelegenheid"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van d.d. 26 juni 2009, nr. Directie BV/DCA/12747 houdende een beperking van de openbaarheid voor de inventarisnummers 1 tot en met 182, 207 tot en met 451 en 519 tot en met 891 uit de archieven van de Commissie Gelijke Behandeling van Mannen en Vrouwen bij de Arbeid en taakvoorgangers over de periode 1975–1993 (Archiefregeling voor de archieven op het beleidsterrein Emancipatie en Gelijke Behandeling van het Ministerie van Sociale Zaken en Werkgelegenheid)"
 identifier: "BWBR0026064"
-categorie: "Sociaal recht"
-publicatiedatum: 2009-07-09
-laatste_update: 2009-07-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026064"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-07-09"
+last_updated: "2009-07-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026064"
+soort: "ministeriele-regeling"
+stam_id: "10119463"
+version_id: "16541152"
+internal_id: "C22764181"
+label_id: "10095754"
+dtd_version: "2.0"
+original_entry_into_force: "2009-07-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026064/2009-07-09/0"
+intitule_bron: "Stcrt.2009-10085"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-06-26"
+intitule_published: "2009-07-07"
+intitule_in_force: "2009-07-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-10085"
+original_signed_date: "2009-06-26"
+original_published_date: "2009-07-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-10085"
+entry_into_force_date: "2009-07-09"
+jci_1_3: "jci1.3:c:BWBR0026064&z=2009-07-09&g=2009-07-09"
+jci_1_0: "1.0:c:BWBR0026064&g=2009-07-09"
+citeertitel_status: "officieel"
+short_title: "Archiefregeling voor de archieven op het beleidsterrein Emancipatie en Gelijke Behandeling van het Ministerie van Sociale Zaken en Werkgelegenheid"
+signed_date: "2009-06-26"
+entry_into_force: "2009-07-09"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van d.d. 26 juni 2009, nr. Directie BV/DCA/12747 houdende een beperking van de openbaarheid voor de inventarisnummers 1 tot en met 182, 207 tot en met 451 en 519 tot en met 891 uit de archieven van de Commissie Gelijke Behandeling van Mannen en Vrouwen bij de Arbeid en taakvoorgangers over de periode 1975–1993 (Archiefregeling voor de archieven op het beleidsterrein Emancipatie en Gelijke Behandeling van het Ministerie van Sociale Zaken en Werkgelegenheid)
 
 Gelet op [artikel 15, eerste lid , onder a en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden wordt aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden uit het historische bestand van personeelsleden van het Ministerie de in het volgende lid genoemde beperking gesteld voor de volledige duur van de in [artikel 15, vierde lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) genoemde termijn.
 
@@ -1624,12 +1650,12 @@ Indiening van het verzoek geschiedt door invulling en ondertekening door de verz
 
 - –. inventarisnummer 891 op 1 januari 2063
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling wordt aangehaald als:
 
 Archiefregeling voor de archieven op het beleidsterrein Emancipatie en Gelijke Behandeling van het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.

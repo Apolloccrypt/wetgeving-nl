@@ -1,13 +1,39 @@
 ---
-title: "Regeling openbare jaarverantwoording WMG"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 21 september 2021, kenmerk 3255145-1015194-PZo, houdende nadere regels over de jaarverantwoording op grond van artikel 40b van de Wet marktordening gezondheidszorg (Regeling openbare jaarverantwoording WMG)"
 identifier: "BWBR0045649"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045649"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045649"
+soort: "ministeriele-regeling"
+stam_id: "16086753"
+version_id: "30382622"
+internal_id: "C43570261"
+label_id: "16018114"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045649/2025-01-01/0"
+intitule_bron: "Stcrt.2021-42397"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-09-21"
+intitule_published: "2021-09-29"
+intitule_in_force: "2021-09-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-34738"
+original_signed_date: "2024-10-14"
+original_published_date: "2024-10-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-34738"
+entry_into_force_date: "2024-10-14"
+jci_1_3: "jci1.3:c:BWBR0045649&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0045649&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling openbare jaarverantwoording WMG"
+signed_date: "2024-10-14"
+entry_into_force: "2024-10-14"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 21 september 2021, kenmerk 3255145-1015194-PZo, houdende nadere regels over de jaarverantwoording op grond van artikel 40b van de Wet marktordening gezondheidszorg (Regeling openbare jaarverantwoording WMG)
 
 Handelende in overeenstemming met de Minister voor Rechtsbescherming en de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -50,7 +76,7 @@ Besluit:
 
 ### Hoofdstuk 2. Financiële verantwoording
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onverminderd [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=2&artikel=7&z=2025-01-01&g=2025-01-01), maakt de zorgaanbieder, anders dan bedoeld in het derde tot en met zesde lid, als financiële verantwoording een jaarrekening openbaar die is ingericht overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&bijlage=1&z=2025-01-01&g=2025-01-01) bij deze regeling, met dien verstande dat:
 
@@ -92,7 +118,7 @@ Besluit:
 
 6. Een zorgaanbieder die ingevolge de [artikelen 190 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=190) of [186 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=186) een jaarrekening opstelt, maakt als financiële verantwoording die jaarrekening openbaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De toelichting op de financiële verantwoording van een zorgaanbieder die financiële derivaten heeft aangetrokken, bevat, naast hetgeen overigens voortvloeit uit deze regeling:
 
@@ -122,7 +148,7 @@ Besluit:
 
 - f. [artikel 40b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een zorgaanbieder die een jaarrekening als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=2&artikel=2&z=2025-01-01&g=2025-01-01), openbaar maakt en die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, heeft voldaan aan minimaal twee van de in het tweede lid omschreven vereisten kan zijn jaarrekening overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&bijlage=1&z=2025-01-01&g=2025-01-01), Modellen C en D, inrichten en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=2&artikel=5&z=2025-01-01&g=2025-01-01) toepassen.
 
@@ -138,7 +164,7 @@ Besluit:
 
 4. Voor het eerste en tweede boekjaar geldt het eerste lid eveneens voor een zorgaanbieder die op de balansdatum van het eerste boekjaar aan de desbetreffende vereisten heeft voldaan.
 
-#### Artikel 5
+##### Artikel 5
 
 In het geval, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=2&artikel=4&z=2025-01-01&g=2025-01-01), mogen de volgende bepalingen van [Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045) overeenkomstig worden toegepast:
 
@@ -146,7 +172,7 @@ In het geval, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1
 
 - b. op de toelichtingen op de balans en de winst- en verliesrekening: [artikel 396, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396), met dien verstande dat in aanvulling op de tweede volzin van dat artikellid ook de [artikelen 380c](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=380c), [380d](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=380d) en [383b tot en met 383e, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=383b) niet van toepassing zijn.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een zorgaanbieder die een jaarrekening als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=2&artikel=2&z=2025-01-01&g=2025-01-01), opstelt en die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, heeft voldaan aan minimaal twee van de in het tweede lid omschreven vereisten kan voor de jaarrekening de vrijstelling, bedoeld in het derde lid, toepassen op Model E in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&bijlage=1&z=2025-01-01&g=2025-01-01).
 
@@ -162,7 +188,7 @@ waarbij [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 3. Op de toelichting op de balans is [artikel 397, zesde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=397) van overeenkomstige toepassing.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een zorgaanbieder die een jaarrekening als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=2&artikel=2&z=2025-01-01&g=2025-01-01), openbaar moet maken en die alleen of samen met een andere groepsmaatschappij, aan het hoofd staat van zijn groep, maakt als financiële verantwoording naast de eigen jaarrekening, bedoeld in artikel 2, eerste lid, voor deze groep een geconsolideerde jaarrekening openbaar, waarin zijn opgenomen de eigen financiële gegevens met die van zijn dochtermaatschappijen in de groep, andere groepsmaatschappijen en andere rechtspersonen waarop hij een overheersende zeggenschap kan uitoefenen of waarover hij de centrale leiding heeft.
 
@@ -188,7 +214,7 @@ waarbij [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ### Hoofdstuk 3. Bij de financiële verantwoording te voegen informatie
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een zorgaanbieder als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=2&artikel=2&z=2025-01-01&g=2025-01-01), eerste lid, voegt aan de financiële verantwoording de volgende informatie toe:
 
@@ -226,7 +252,7 @@ waarbij [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - b. een jaarverslag dat voldoet aan de krachtens de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645), onderscheidenlijk de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), gestelde eisen.
 
-#### Artikel 9
+##### Artikel 9
 
 In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=3&artikel=8&z=2025-01-01&g=2025-01-01) voegt de zorgaanbieder die een formeel buitenlandse vennootschap is de volgende informatie toe aan de financiële verantwoording:
 
@@ -238,7 +264,7 @@ In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoo
 
 - d. afzonderlijke jaarlijkse verslagen en verklaringen, indien de zorgaanbieder voldoet aan het bepaalde bij of krachtens [artikel 391a, tweede en vijfde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391a).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Op het bestuursverslag, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=3&artikel=8&z=2025-01-01&g=2025-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=3&artikel=9&z=2025-01-01&g=2025-01-01), is [artikel 391, uitgezonderd het eerste lid, zinsnede ‘, tenzij (...) besloten’, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391) van overeenkomstige toepassing.
 
@@ -248,7 +274,7 @@ In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoo
 
 4. De aan de financiële verantwoording toe te voegen informatie mag niet onderling in strijd zijn of in strijd zijn met de financiële verantwoording.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De controleverklaring, bedoeld in [artikel 8, eerste lid, onderdeel a, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=3&artikel=8&z=2025-01-01&g=2025-01-01), bevat de uitslag van het onderzoek omtrent de getrouwheid van de financiële verantwoording, waarbij door de accountant die behoort tot één van de in [artikel 40b, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) bedoelde categorieën, in ieder geval is onderzocht of:
 
@@ -300,7 +326,7 @@ In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoo
 
 ### Hoofdstuk 4. Andere informatie over de bedrijfsvoering
 
-#### Artikel 12
+##### Artikel 12
 
 1. De zorgaanbieder vermeldt de andere informatie betreffende de bedrijfsvoering, bedoeld in [artikel 40b, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b), overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&bijlage=4&z=2025-01-01&g=2025-01-01) bij deze regeling.
 
@@ -310,7 +336,7 @@ In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoo
 
 ### Hoofdstuk 5. Openbaarmaking
 
-#### Artikel 13
+##### Artikel 13
 
 1. De openbaarmaking geschiedt langs elektronische weg door deponering van de volledig in de Nederlandse taal en euro gestelde jaarverantwoording bij het CIBG via het platform DigiMV.
 
@@ -322,7 +348,7 @@ In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoo
 
 ### Hoofdstuk 6. Wijzigingsbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien een zorgaanbieder in het boekjaar partij was bij een rechtshandeling die ertoe leidde dat één of meer zorgaanbieders ophielden zorgaanbieder te zijn, betrekt hij in zijn jaarverantwoording over het boekjaar tevens de gegevens en andere informatie van die één of meer gewezen zorgaanbieders.
 
@@ -334,7 +360,7 @@ In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoo
 
 - b. betrekking hebben op een zorgaanbieder als bedoeld in [artikel 5a van het Besluit uitbreiding en beperking werkingssfeer WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0020326&artikel=5a).
 
-#### Artikel 15
+##### Artikel 15
 
 1. In afwijking van deze regeling is de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) van overeenkomstige toepassing op de jaarverantwoording van een zorgaanbieder, indien:
 
@@ -346,19 +372,19 @@ In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoo
 
 ### Hoofdstuk 5a. Gedeeltelijk niet-openbare jaarverantwoording
 
-#### Artikel 16
+##### Artikel 16
 
 In afwijking van het bepaalde in de [artikelen 1 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=1&artikel=1&z=2025-01-01&g=2025-01-01) wordt de verantwoording over het boekjaar 2021 opgesteld overeenkomstig de bepalingen van de [Regeling verslaggeving WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0019252), zoals die regeling luidde op 31 december 2021.
 
-#### Artikel 17
+##### Artikel 17
 
 De [Regeling verslaggeving WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0019252) wordt ingetrokken.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling treedt in werking met ingang van 1 januari 2022.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze regeling wordt aangehaald als: Regeling openbare jaarverantwoording WMG.
 
@@ -604,7 +630,7 @@ Invullen indien van toepassing (alleen de van toepassing zijnde situatie invulle
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. Een zorgaanbieder maakt vóór 1 juni van het kalenderjaar volgend op het boekjaar de jaarverantwoording openbaar.
 
@@ -710,7 +736,7 @@ Invullen indien van toepassing (alleen de van toepassing zijnde situatie invulle
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. In het geval, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=2&artikel=2&z=2025-01-01&g=2025-01-01), mogen de volgende bepalingen van [Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045) overeenkomstig worden toegepast:
 
@@ -728,7 +754,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 5. Openbaarmaking
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. In afwijking van de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=2&artikel=2&z=2025-01-01&g=2025-01-01), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=2&artikel=7&z=2025-01-01&g=2025-01-01)maakt een zorgaanbieder als bedoeld in artikel 2, eerste lid, onderdeel a, een beperkte balans, een bestuursverklaring en indien van toepassing de melding dat de jaarverantwoording in ernstige mate tekortschiet, openbaar en wordt het overige deel van de jaarverantwoording niet-openbaar gemaakt en aan het CIBG overgelegd.
 
@@ -738,11 +764,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=2&artikel=2&z=2025-01-01&g=2025-01-01), die voldoet aan het bepaalde in [artikel 40b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b), waarbij voor ‘netto-omzet’ wordt gelezen ‘som der bedrijfsbaten’.
 
-#### Artikel 13b
+##### Artikel 13b
 
 Een zorgaanbieder als bedoeld in [artikel 40b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) overlegt het niet openbaar gemaakte deel van de jaarverantwoording, bedoeld in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=5&artikel=13a&z=2025-01-01&g=2025-01-01), aan het CIBG, waarbij de [artikelen 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=5&artikel=12a&z=2025-01-01&g=2025-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=5&artikel=13&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing zijn.
 
-#### Artikel 13c
+##### Artikel 13c
 
 Het niet openbaar gemaakte deel van de jaarverantwoording van een zorgaanbieder als bedoeld in [artikel 40b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b), bedoeld in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&hoofdstuk=5&artikel=13a&z=2025-01-01&g=2025-01-01), wordt door het CIBG verstrekt aan:
 

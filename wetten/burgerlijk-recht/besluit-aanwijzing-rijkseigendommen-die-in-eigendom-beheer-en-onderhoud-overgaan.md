@@ -1,13 +1,35 @@
 ---
-title: "Besluit aanwijzing rijkseigendommen die in eigendom, beheer en onderhoud overgaan op de gemeente Noordoostpolder"
+title: "Besluit van 28 december 1985, houdende aanwijzing van rijkseigendommen die in eigendom, beheer en onderhoud overgaan op de gemeente Noordoostpolder"
 identifier: "BWBR0003912"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1993-01-01
-laatste_update: 1993-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003912"
+country: "nl"
+rank: "kb"
+publication_date: "1993-01-01"
+last_updated: "1993-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003912"
+soort: "KB"
+stam_id: "56993"
+version_id: "72222"
+internal_id: "C72221"
+label_id: "57174"
+dtd_version: "2.0"
+original_entry_into_force: "1986-12-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003912/1993-01-01/0"
+intitule_bron: "Stb.1985-771"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-12-28"
+intitule_status: "goed"
+original_publication: "Stb.1985-771"
+original_signed_date: "1985-12-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1986-12-24"
+jci_1_3: "jci1.3:c:BWBR0003912&z=1993-01-01&g=1993-01-01"
+jci_1_0: "1.0:c:BWBR0003912&g=1993-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit aanwijzing rijkseigendommen die in eigendom, beheer en onderhoud overgaan op de gemeente Noordoostpolder"
+signed_date: "1985-12-28"
+entry_into_force: "1986-12-24"
 ---
-
 # Besluit van 28 december 1985, houdende aanwijzing van rijkseigendommen die in eigendom, beheer en onderhoud overgaan op de gemeente Noordoostpolder
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken van 20 december 1985, nr. BT85/U1202, Directoraat-Generaal Binnenlands Bestuur, Directie Bestuurszaken, Afdeling Toezichtsbeleid, en van Onze Minister van Verkeer en Waterstaat van 23 december 1985, nr. R 48335, Hoofddirectie van de Waterstaat, Hoofdafdeling Bestuurlijke en Juridische Zaken, en van de Staatssecretaris van Financiën, van 23 december 1985, nr. 385-15865, Generale Thesaurie, Directie der Domeinen, Afdeling Rentambten;
@@ -20,7 +42,7 @@ Gehoord de raad der gemeente Noordoostpolder (brief van 26 september 1985);
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De onderstaande onroerende rijkseigendommen gaan in eigendom, beheer en onderhoud over op de Gemeente Noordoostpolder, hierna te noemen de gemeente, met ingang van 1 januari 1991.
 
@@ -349,7 +371,7 @@ Zwarte Meerpad-Paardetocht, de fietsbruggen in de Vliegtuigweg en op Schokland, 
 
 De gedeeltelijk aangeduide kadastrale aanduiding is nader aangegeven op bijlage 1 van dit besluit.
 
-#### Artikel 1a
+##### Artikel 1a
 
 De onderstaande roerende rijkseigendommen gaan in eigendom over op de gemeente met ingang van de dag, volgende op die van de dagtekening van dit besluit:
 
@@ -359,7 +381,7 @@ De onderstaande roerende rijkseigendommen gaan in eigendom over op de gemeente m
 
 - -. Strooiers met bijbehorende portalen: 4 stuks, 3 * merk Nido (typo M-75), 1 * merk Epoke (type P-40); 1 fietspadstrooier, merk Nido (type Baby).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De verharding:
 
@@ -375,15 +397,15 @@ gaat in beheer en onderhoud over op de gemeente met ingang van 1 januari 1991.
 
 3. Het is de gemeente bekend dat op de in de vorige leden bedoelde dijkgedeelten het Rijkszeeweringenreglement van toepassing is.
 
-#### Artikel 3
+##### Artikel 3
 
 De overgang in eigendom, beheer en onderhoud dan wel in beheer en onderhoud dan wel in beheer van de in [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003912&artikel=1&z=1993-01-01&g=1993-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003912&artikel=2&z=1993-01-01&g=1993-01-01) genoemde onroerende goederen geschiedt om niet.
 
-#### Artikel 4
+##### Artikel 4
 
 De in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003912&artikel=1&z=1993-01-01&g=1993-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003912&artikel=2&z=1993-01-01&g=1993-01-01) genoemde onroerende goederen gaan over op de gemeente in de staat waarin deze zich op de dag van de eigendomsovergang bevinden, met alle daaraan verbonden lusten en lasten.
 
-#### Artikel 5
+##### Artikel 5
 
 In dit besluit wordt verstaan onder:
 
@@ -401,7 +423,7 @@ In dit besluit wordt verstaan onder:
 
 - 5. **kunstwerken:** een verzamelnaam van werken, genoemd onder 3, 4, 5 en 6.
 
-#### Artikel 6
+##### Artikel 6
 
 De begrenzing van de op de gemeente in eigendom, beheer en onderhoud overgaande wegen wordt gevormd:
 
@@ -409,7 +431,7 @@ De begrenzing van de op de gemeente in eigendom, beheer en onderhoud overgaande 
 
 - b. indien de weg aan één zijde dan wel aan weerszijden grenst aan een hoofdafvoerleiding of een vaart, door de aan de wegzijde gelegen insteek van die watergang dan wel watergangen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De met het waterstaatkundig beheer belaste instantie is bevoegd de door haar nodig geachte werkzaamheden aan hoofdafvoerleidingen en vaarten vanaf de wegzijde uit te voeren of te doen uitvoeren, na overleg met de gemeente.
 
@@ -419,33 +441,33 @@ De begrenzing van de op de gemeente in eigendom, beheer en onderhoud overgaande 
 
 - b. het rechtstreeks of via wegsloten laten uitstromen van water afkomstig van de wegen, in de hoofdafvoerleidingen en vaarten.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien onroerende goederen die bij dit besluit in eigendom, beheer en onderhoud op de gemeente overgaan, alsnog benodigd blijken te zijn voor de aanleg van de spoorlijn Lelystad-Lemmer, verkoopt de gemeente deze aan het Rijk.
 
 2. De koopprijs wordt bij wijze van bindend advies vastgesteld door één of meer door het Rijk en de gemeente in onderling overleg aan te wijzen niet-ambtelijke deskundigen.
 
-#### Artikel 11
+##### Artikel 11
 
 Vergunning wordt geacht te zijn verleend om de landbouwerven, bossen, beplantingsstroken, natuurterreinen, transformatorhuizen, rioolwaterzuiveringsinstallaties, recreatieobjecten en dergelijke aan te sluiten en aangesloten te houden op de wegen die in eigendom, beheer en onderhoud op de gemeente overgaan.
 
 Het onderhoud van de aansluitingen komt voor rekening van de exploitanten van vorenbedoelde voorzieningen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het Rijk (Staatsbosbeheer) verleent de gemeente toestemming tot het hebben, houden en onderhouden van fietspaden in of langs de beplantingsstroken, behorende tot de wegen en vrijwaart de gemeente voor schade aan het wegdek van genoemde fietspaden als gevolg van de in de beplantingsstroken aanwezige bomen.
 
 2. Het Rijk (Rijkswaterstaat) verleent de gemeente vergunning tot het hebben, houden en onderhouden van het wegdek op de in eigendom bij de Staat blijvende viaducten over de rijkswegen nr. 6 en nr. 50.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De gemeente gedoogt dat met betrekking tot de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003912&artikel=1&z=1993-01-01&g=1993-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003912&artikel=2&z=1993-01-01&g=1993-01-01) genoemde onroerende goederen, na overleg met de gemeente:
 

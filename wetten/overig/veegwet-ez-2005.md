@@ -1,108 +1,136 @@
 ---
-title: "Veegwet EZ 2005"
+title: "Wet van 20 november 2006, houdende herstel van wetstechnische gebreken en leemten alsmede aanbrenging van enkele inhoudelijke wijzigingen in de Telecommunicatiewet, de Elektriciteitswet 1998, de Gaswet, de Mijnbouwwet en enkele andere daarmee verbandhoudende wetten, de Wet voorraadvorming aardolieproducten 2001, de Wet op de kamers van koophandel en fabrieken 1997, de Raamwet EEG-voorschriften aanbestedingen en diverse andere wetten (Veegwet EZ 2005)"
 identifier: "BWBR0020555"
-categorie: "Overig"
-publicatiedatum: 2007-02-07
-laatste_update: 2007-02-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020555"
+country: "nl"
+rank: "wet"
+publication_date: "2007-02-07"
+last_updated: "2007-02-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020555"
+soort: "wet"
+stam_id: "8749473"
+version_id: "13812332"
+internal_id: "C18645861"
+label_id: "8729534"
+dtd_version: "2.0"
+original_entry_into_force: "2006-12-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020555/2007-02-07/0"
+intitule_bron: "Stb.2006-593"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-11-20"
+intitule_published: "2006-12-05"
+intitule_in_force: "2006-12-05"
+intitule_status: "goed"
+original_publication: "Stb.2006-593"
+original_signed_date: "2006-11-20"
+original_published_date: "2006-12-05"
+original_effect: "nieuwe-regeling"
+original_dossier: "30027"
+original_url_id: "stb-2006-593"
+entry_into_force_date: "2006-12-06"
+entry_into_force_dossier: "30027"
+jci_1_3: "jci1.3:c:BWBR0020555&z=2007-02-07&g=2007-02-07"
+jci_1_0: "1.0:c:BWBR0020555&g=2007-02-07"
+citeertitel_status: "officieel"
+short_title: "Veegwet EZ 2005"
+signed_date: "2006-11-20"
+entry_into_force: "2006-12-06"
 ---
+# Wet van 20 november 2006, houdende herstel van wetstechnische gebreken en leemten alsmede aanbrenging van enkele inhoudelijke wijzigingen in de Telecommunicatiewet, de Elektriciteitswet 1998, de Gaswet, de Mijnbouwwet en enkele andere daarmee verbandhoudende wetten, de Wet voorraadvorming aardolieproducten 2001, de Wet op de kamers van koophandel en fabrieken 1997, de Raamwet EEG-voorschriften aanbestedingen en diverse andere wetten (Veegwet EZ 2005)
 
-# Veegwet EZ 2005
-
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Telecommunicatiewet.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Elektriciteitswet 1998.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Gaswet.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wijziging Elektriciteitswet 1998 en Gaswet in verband met implementatie en aanscherping toezicht netbeheer.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Mijnbouwwet.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet goedkeuring en uitvoering Markham-overeenkomst.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet bestrijding ongevallen Noordzee.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet milieubeheer.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet explosieven voor civiel gebruik.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Waterleidingwet.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Kernenergiewet.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wet voorraadvorming aardolieproducten 2001.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Onteigeningswet.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet op de kamers van koophandel en fabrieken 1997.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Mediawet.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Algemene wet bestuursrecht, de Algemene wet inzake rijksbelastingen, de Beroepswet, de Mijnbouwwet, de Wet bestuursrechtspraak bedrijfsorganisatie, het Wetboek van Strafrecht, de Wet buitengewoon pensioen 1940–1945, de Wet buitengewoon pensioen Indisch verzet, de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Wet op de kansspelen, de Wet op de Raad van State, de Wet op de rechtsbijstand, de Wet op het notarisambt, de Wet tarieven in burgerlijke zaken, de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945, de Wet uitkeringen vervolgingsslachtoffers 1940–1945.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Uitvoeringswet huurprijzen woonruimte, de Wet werk en bijstand, de Wet werk en inkomen kunstenaars.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Wet financieel statuut van het Koninklijk Huis.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Garantiewet Surinaamse pensioenen.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Wet werk en bijstand.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Algemene Kinderbijslagwet.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Raamwet EEG-voorschriften aanbestedingen.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Na inwerkingtreding van deze wet berust:
 
@@ -112,11 +140,11 @@ Na inwerkingtreding van deze wet berust:
 
 - c. het [Besluit elektronische handtekening](https://wetten.overheid.nl/jci1.3:c:BWBR0015047) mede op de [artikelen 18.17](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.17) en [18.17a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.17a), in plaats van [artikel 18.17, eerste en vijfde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.17).
 
-#### Artikel XXV
+##### Artikel XXV
 
 De [wet van 17 december 2003 tot wijziging van de Telecommunicatiewet en de Wet Onafhankelijke post- en telecommunicatieautoriteit in verband met de invoering van een regeling voor toegang tot openbare telecommunicatienetwerken bestemd voor het bieden van toegang tot internet en een verduidelijking en een verruiming van de regeling voor toegang tot omroepnetwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0016176) (Stb. 2004, 23), de [Wet van 19 mei 1994, houdende wijziging van de Wet op de telecommunicatievoorzieningen voor wat betreft de bepalingen met betrekking tot elektromagnetische compatibiliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0006683) (Stb. 1995, 386), de [Wet van 16 juni 1994, houdende wijziging van de Wet op de telecommunicatievoorzieningen, het Wetboek van Strafrecht en het Wetboek van Strafvordering in verband met de doorbreking van het exclusieve recht van de concessiehouder in hoofdzaak door middel van invoering van een gelimiteerd vergunningenstelsel voor specifieke vormen van openbare mobiele telecommunicatie (mobiele telecommunicatie)](https://wetten.overheid.nl/jci1.3:c:BWBR0006749) (Stb. 1994, 628), de [Wet van 28 maart 1996, houdende wijziging van de Wet op de telecommunicatievoorzieningen, de Mediawet, de Radio-Omroep-Zender-Wet 1935 en het Wetboek van Strafvordering in verband met de liberalisering van kabelgebonden telecommunicatie-inrichtingen (kabelgebonden telecommunicatie)](https://wetten.overheid.nl/jci1.3:c:BWBR0007974) (Stb. 1996, 320), de [Wet van 21 februari 1997, houdende wijziging van de Wet op de telecommunicatievoorzieningen en het Wetboek van Strafvordering in verband met de volledige wederzijdse erkenning van goedkeuringen van randapparatuur en van apparatuur voor satellietgrondstations](https://wetten.overheid.nl/jci1.3:c:BWBR0008561) (Stb. 1997, 124), de [Wet van 2 juli 1997 tot wijziging van de Wet op de telecommunicatievoorzieningen in verband met de liberalisering van de spraaktelefoondienst](https://wetten.overheid.nl/jci1.3:c:BWBR0008784) (Stb. 1997, 296) en de [Wet energiedistributie](https://wetten.overheid.nl/jci1.3:c:BWBR0008429) worden ingetrokken.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 1. Met uitzondering van [artikel XXIV, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020555&artikel=XXIV&z=2007-02-07&g=2007-02-07), treden de artikelen van deze wet in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
@@ -124,7 +152,7 @@ De [wet van 17 december 2003 tot wijziging van de Telecommunicatiewet en de Wet 
 
 3. [Artikel XXIV, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020555&artikel=XXIV&z=2007-02-07&g=2007-02-07), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 19 mei 2004.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Deze wet wordt aangehaald als: Veegwet EZ 2005.
 

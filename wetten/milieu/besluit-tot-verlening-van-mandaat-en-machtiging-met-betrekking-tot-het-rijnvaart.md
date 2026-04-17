@@ -1,20 +1,45 @@
 ---
 title: "Besluit tot verlening van mandaat en machtiging met betrekking tot het Rijnvaartpolitiereglement 1995 Rijkswaterstaat West-Nederland Zuid 2013"
 identifier: "BWBR0033499"
-categorie: "Milieu"
-publicatiedatum: 2013-06-12
-laatste_update: 2013-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033499"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-06-12"
+last_updated: "2013-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033499"
+soort: "ministeriele-regeling"
+stam_id: "12278223"
+version_id: "20559402"
+internal_id: "C28910131"
+label_id: "12249544"
+dtd_version: "2.0"
+original_entry_into_force: "2013-06-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033499/2013-06-12/0"
+intitule_bron: "Stcrt.2013-15331"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-06-03"
+intitule_published: "2013-06-11"
+intitule_in_force: "2013-06-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-15331"
+original_signed_date: "2013-06-03"
+original_published_date: "2013-06-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-15331"
+entry_into_force_date: "2013-06-12"
+jci_1_3: "jci1.3:c:BWBR0033499&z=2013-06-12&g=2013-06-12"
+jci_1_0: "1.0:c:BWBR0033499&g=2013-06-12"
+citeertitel_status: "officieel"
+signed_date: "2013-06-03"
+entry_into_force: "2013-06-12"
 ---
-
 # Besluit tot verlening van mandaat en machtiging met betrekking tot het Rijnvaartpolitiereglement 1995 Rijkswaterstaat West-Nederland Zuid 2013
 
 Gelet op [artikel 5, vierde lid, van de Aanwijzing bevoegde autoriteiten reglementen CCR](https://wetten.overheid.nl/jci1.3:c:BWBR0019146&artikel=5);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Ten aanzien van de in het tweede lid genoemde artikelen van het [Rijnvaartpolitiereglement 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0006923) wordt mandaat en machtiging verleend aan de volgende functionarissen werkzaam bij Rijkswaterstaat Oost-Nederland:
 
@@ -94,15 +119,15 @@ Besluit:
 
 3. Het mandaat verleend aan de directeur Netwerkontwikkeling omvat mede de bevoegdheid tot het beslissen op bezwaar, mits het besluit waartegen bezwaar is gemaakt niet door hem in mandaat is genomen. Het mandaat verleend aan het hoofd van de afdeling Vergunningen heeft geen betrekking op de bevoegdheid tot het beslissen op bezwaar.
 
-#### Artikel 2
+##### Artikel 2
 
 Het Besluit tot verlening van mandaat en machtiging met betrekking tot het Rijnvaartpolitiereglement 1995 Rijkswaterstaat Oost-Nederland wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2013.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit tot verlening van mandaat en machtiging met betrekking tot het Rijnvaartpolitiereglement 1995 Rijkswaterstaat West-Nederland Zuid 2013.
 

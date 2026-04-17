@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en Japan betreffende luchtdiensten"
 identifier: "BWBV0005018"
-categorie: "Milieu"
-publicatiedatum: 2016-09-26
-laatste_update: 2004-02-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005018"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-09-26"
+last_updated: "2004-02-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005018"
+soort: "verdrag"
+stam_id: "10004434633"
+version_id: "10004641232"
+internal_id: "C10007132271"
+label_id: "10004419514"
+dtd_version: "2.0"
+original_entry_into_force: "1953-07-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005018/2016-09-26/0"
+intitule_bron: "Trb.1953-23"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1953-03-02"
+intitule_in_force: "1953-09-04"
+intitule_status: "goed"
+original_publication: "Trb.1953-23"
+original_published_date: "1953-03-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1953-23"
+entry_into_force_date: "1953-07-24"
+jci_1_3: "jci1.3:c:BWBV0005018&z=2016-09-26&g=2016-09-26"
+jci_1_0: "1.0:c:BWBV0005018&g=2016-09-26"
+citeertitel_status: "redactioneel"
+entry_into_force: "1953-07-24"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en Japan betreffende luchtdiensten
 
 The Government of the Kingdom of the Netherlands and the Government of Japan,
@@ -16,11 +38,11 @@ Desiring to conclude an agreement for the purpose of establishing and operating 
 
 Have accordingly appointed their respective representatives for this purpose, who have agreed as follows:
 
-#### Article 1
+##### Article 1
 
 For the purpose of the present Agreement, the provisions of the Convention on International Civil Aviation signed at Chicago on December 7, 1944 (hereinafter called „Convention”), which are applicable to the air services established and operated hereunder, shall, in their present terms or as amended in respect of both Contracting Parties in accordance with relevant provisions of the Convention, apply between the Contracting Parties for the duration of the present Agreement.
 
-#### Article 2
+##### Article 2
 
 1. For the purpose of the present Agreement, unless the text, otherwise provides:
 
@@ -40,11 +62,11 @@ For the purpose of the present Agreement, the provisions of the Convention on In
 
 (2). The Schedule forms an integral part of the present Agreement, and all reference to the „Agreement” shall include reference to the Schedule except where otherwise provided.
 
-#### Article 3
+##### Article 3
 
 Each Contracting Party grants to the other Contracting Party the rights specified in the present Agreement to enable its designated airlines to establish and operate international air services on the routes specified in the appropriate Section of the Schedule (hereinafter called „agreed services” and „specified routes” respectively).
 
-#### Article 4
+##### Article 4
 
 (1). The agreed services on any specified route may be inaugurated immediately or at a later date at the option of the Contracting Party to which the rights are granted under Article 3 of the present Agreement, but not before
 
@@ -54,7 +76,7 @@ Each Contracting Party grants to the other Contracting Party the rights specifie
 
 (2). Each of the airlines designated may be required to satisfy the aeronautical authorities of the other Contracting Party that it is qualified to fulfil the conditions prescribed by the laws and regulations normally and reasonably applied by those authorities to the operation of international air services.
 
-#### Article 5
+##### Article 5
 
 (1). Subject to the provisions of the present Agreement, the designated airlines of each Contracting Party shall enjoy, while operating an agreed service on a specified route, the following privileges:
 
@@ -66,27 +88,27 @@ Each Contracting Party grants to the other Contracting Party the rights specifie
 
 (2). Nothing in paragraph (1) of this Article shall be deemed to confer on the airlines of one Contracting Party the privilege of taking up, in the territory of the other Contracting Party, passengers, cargo or mail carried for remuneration or hire and destined for another point in the territory of that other Contracting Party.
 
-#### Article 6
+##### Article 6
 
 (1). The charges which either of the Contracting Parties may impose, or permit to be imposed, on the designated airlines of the other Contracting Party for the use of airports and other facilities under its control shall be just and reasonable and not higher than would be paid for the use of such airports and facilities by any national airline of the first Contracting Party in providing similar international air services.
 
 (2). In respect of customs duties, inspection fees and similar national or local duties or charges on fuel, lubricating oils, spare parts, regular aircraft equipment and aircraft stores introduced into the territory of one Contracting Party or taken on board aircraft in that territory, by or on behalf of the designated airline or airlines of the other Contracting Party and intended solely for use by or in the aircraft of those airlines, the designated airlines of the second Contracting Party shall, subject to compliance with normal customs regulations, be accorded, in addition to the treatment prescribed in Article 24 of the Convention, treatment not less favourable than that granted by the first Contracting Party to the airlines of the most favoured nation or to its national airlines engaged in international air services. Neither Contracting Party shall, however, be obliged to grant to the designated airlines of the other Contracting Party exemption or remission of customs duties, inspection fees or similar national or local duties or charges, unless such other Contracting Party grants exemption or remission of the duties or charges in question to the designated airlines of the first Contracting Party.
 
-#### Article 7
+##### Article 7
 
 (1). Each Contracting Party reserves the right to withhold or revoke the privileges specified in paragraph (1) of Article 5 of the present Agreement in respect of an airline designated by the other Contracting Party, or to impose such conditions as it may deem necessary on the exercise by the airline of those privileges, in any case where it is not satisfied that substantial ownership and effective control of such airline are vested in the Contracting Party designating the airline or in nationals of such Contracting Party.
 
 (2). Each Contracting Party reserves the right to suspend the exercise by a designated airline of the other Contracting Party of the privileges referred to in paragraph (1) above, or to impose such conditions as it may deem necessary on the exercise by the airline of those privileges, in any case where such airline fails to comply with such laws and regulations of the Contracting Party granting those privileges as referred to in Articles 11 and 13 of the Convention or otherwise fails to operate in accordance with the conditions prescribed in the present Agreement; provided that, unless immediate suspension or imposition of conditions is essential to prevent further infringements of such laws and regulations, this right shall be exercised only after consultation with the other Contracting Party.
 
-#### Article 8
+##### Article 8
 
 There shall be fair and equal opportunity for the airlines of both Contracting Parties to establish and operate the agreed services between and beyond their respective territories.
 
-#### Article 9
+##### Article 9
 
 In the operation by the designated airlines of either Contracting Party of the agreed services, the interests of the designated airlines of the other Contracting Party shall be taken into consideration so as not to affect unduly the services which the latter provides on all or part of the same routes.
 
-#### Article 10
+##### Article 10
 
 (1). The agreed services provided by the designated airlines of the Contracting Parties shall bear a close relationship to the requirements of the public for such services.
 
@@ -98,7 +120,7 @@ In the operation by the designated airlines of either Contracting Party of the a
 
 - (c). traffic requirements of the area through which the airline passes, after taking account of local and regional services.
 
-#### Article 11
+##### Article 11
 
 (1). The tariffs on any agreed service shall be established at reasonable levels, due regard being paid to all relevant factors including cost of operation, reasonable profit, characteristics of service and the tariffs of other airlines for any part of the specified route. These tariffs shall be fixed in accordance with the following provisions of this Article.
 
@@ -110,15 +132,15 @@ In the operation by the designated airlines of either Contracting Party of the a
 
 (5). No new tariff shall come into effect if the aeronautical authorities of either Contracting Party are dissatisfied with it except under the terms of paragraph (3) of Article 14 of the present Agreement. Pending determination of the tariffs in accordance with the provisions of this Article, the tariffs already in force shall prevail.
 
-#### Article 12
+##### Article 12
 
 The aeronautical authorities of either Contracting Party shall supply to the aeronautical authorities of the other Contracting Party at the latter's request such periodic or other statements of statistics as may be reasonably required for the purpose of surveying the capacity provided on the agreed services by the designated airlines of the first Contracting Party. Such statements shall include all information required to determine the amount of traffic carried by those airlines on the agreed services.
 
-#### Article 13
+##### Article 13
 
 There shall be regular and frequent consultation between the aeronautical authorities of the Contracting Parties to ensure close collaboration in all matters affecting the fulfilment of the present Agreement.
 
-#### Article 14
+##### Article 14
 
 (1). If any dispute arises between the Contracting Parties relating to the interpretation or application of the present Agreement, the Contracting Parties shall in the first place endeavour to settle it by negotiation between themselves.
 
@@ -126,23 +148,23 @@ There shall be regular and frequent consultation between the aeronautical author
 
 (3). The Contracting Parties undertake to comply with any decision given under paragraph (2) of this Article.
 
-#### Article 15
+##### Article 15
 
 Either Contracting Party may at any time request consultation with the other Contracting Party for the purpose of amending the present Agreement, such consultation to begin within a period of sixty days from the date of request. If the amendment relates only to the Schedule, the consultation shall be between the aeronautical authorities of both Contracting Parties. When these authorities agree on a new or revised Schedule, their recommendations on the matter will come into effect after they have been confirmed by an exchange of diplomatic notes.
 
-#### Article 16
+##### Article 16
 
 If a general multilateral convention concerning air transport comes into force in respect of both Contracting Parties, the present Agreement shall be amended so as to conform with the provisions of such convention.
 
-#### Article 17
+##### Article 17
 
 Either of the Contracting Parties may at any time notify the other of its intention to terminate the present Agreement. A copy of the notice shall be sent simultaneously to the International Civil Aviation Organization formed by the Convention. If such notice is given, the present Agreement shall terminate one year after the date of receipt by the other Contracting Party of the notice to terminate, unless by agreement between the Contracting Parties the notice under reference is withdrawn before the expiration of that period. If the other Contracting Party fails to acknowledge receipt, notice shall be deemed to have been received fourteen days after receipt by the International Civil Aviation Organization of its copy.
 
-#### Article 18
+##### Article 18
 
 The present Agreement and the diplomatic notes exchanged in accordance with Article 15 shall be registered with the International Civil Aviation Organization.
 
-#### Article 19
+##### Article 19
 
 The present Agreement will be approved by each Contracting Party in accordance with its legal procedures and the Agreement shall enter into force upon an exchange of diplomatic notes indicating such approval.
 

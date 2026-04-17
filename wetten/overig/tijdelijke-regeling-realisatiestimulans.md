@@ -1,13 +1,39 @@
 ---
-title: "Tijdelijke regeling realisatiestimulans"
+title: "Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 4 november 2025 nr. 2025-0000035295, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van de stimulering van de bouw van betaalbare woningen (Tijdelijke regeling realisatiestimulans)"
 identifier: "BWBR0051707"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051707"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051707"
+soort: "ministeriele-regeling"
+stam_id: "17584423"
+version_id: "31028212"
+internal_id: "C44430251"
+label_id: "17485444"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051707/2026-01-01/0"
+intitule_bron: "Stcrt.2025-36777"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-04"
+intitule_published: "2025-11-05"
+intitule_in_force: "2025-11-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-36777"
+original_signed_date: "2025-11-04"
+original_published_date: "2025-11-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-36777"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051707&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051707&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke regeling realisatiestimulans"
+signed_date: "2025-11-04"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 4 november 2025 nr. 2025-0000035295, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van de stimulering van de bouw van betaalbare woningen (Tijdelijke regeling realisatiestimulans)
 
 Gelet op [artikel 2, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2), en [artikel 3 van het Besluit van 29 oktober 2022, houdende het stellen van regels over het verstrekken van specifieke uitkeringen aan gemeenten of provincies voor activiteiten die passen in het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=3);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 - **betaalbare woning:**
 
@@ -80,7 +106,7 @@ Besluit:
 
 ### Hoofdstuk 2. Realisatiestimulans per betaalbare woning
 
-#### Artikel 2.1. Specifieke uitkering per betaalbare woning
+##### Artikel 2.1. Specifieke uitkering per betaalbare woning
 
 1. De minister verstrekt een specifieke uitkering aan een gemeente op basis van het aantal door nieuwbouw of verbouw te realiseren betaalbare woningen indien er sprake is van de start van bouwwerkzaamheden ten behoeve van deze woningen.
 
@@ -102,7 +128,7 @@ Besluit:
 
 - g. de [Stimuleringsregeling flex- en transformatiewoningen](https://wetten.overheid.nl/jci1.3:c:BWBR0047455).
 
-#### Artikel 2.2. Hoogte van de uitkering per betaalbare woning
+##### Artikel 2.2. Hoogte van de uitkering per betaalbare woning
 
 1. De hoogte van de specifieke uitkering, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051707&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01), bedraagt per betaalbare woning € 7.000,– exclusief btw.
 
@@ -110,11 +136,11 @@ Besluit:
 
 3. In afwijking van het eerste lid kan de hoogte van de specifieke uitkering per betaalbare woning, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051707&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01), per gemeente met maximaal 33 procent verlaagd worden indien de gemeentelijke woningbouwprogrammering van die gemeente leidt tot een evidente overschrijding van de nationale of regionale betaalbaarheidsdoelstellingen met betrekking tot woningbouwprogrammering.
 
-#### Artikel 2.3. Uitkeringsplafond
+##### Artikel 2.3. Uitkeringsplafond
 
 In totaal is ten hoogste € 1.486.000.000 beschikbaar voor specifieke uitkeringen op basis van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051707&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 2.4. Wijze van betaling en het besluit tot verstrekking
+##### Artikel 2.4. Wijze van betaling en het besluit tot verstrekking
 
 1. Het college zendt jaarlijks aan de minister informatie over de start van bouwwerkzaamheden ten behoeve van het aantal betaalbare woningen als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051707&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01), in het voorafgaande jaar in de gemeente.
 
@@ -134,7 +160,7 @@ In totaal is ten hoogste € 1.486.000.000 beschikbaar voor specifieke uitkering
 
 #### § 3.1. Openbare ruimte en collectieve maatschappelijke voorzieningen NPLV-gebieden
 
-#### Artikel 3.1. Specifieke uitkering voor maatregelen openbare ruimte en collectieve maatschappelijke voorzieningen NPLV
+##### Artikel 3.1. Specifieke uitkering voor maatregelen openbare ruimte en collectieve maatschappelijke voorzieningen NPLV
 
 1. De minister verstrekt een specifieke uitkering aan een gemeente voor de financiering van activiteiten ter verbetering van bovenplanse openbare ruimte en collectieve maatschappelijke voorzieningen in een NPLV-gebied welke plaatsvinden tussen 1 januari 2025 en 31 december 2029.
 
@@ -148,17 +174,17 @@ In totaal is ten hoogste € 1.486.000.000 beschikbaar voor specifieke uitkering
 
 3. De specifieke uitkering wordt niet verstrekt voor btw die is verschuldigd over kosten voor zover het bedrag van de btw in aanmerking komt voor compensatie op grond van de [Wet op het btw-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
 
-#### Artikel 3.2. Hoogte van de specifieke uitkering
+##### Artikel 3.2. Hoogte van de specifieke uitkering
 
 1. De reservering van het bedrag voor de specifieke uitkering, bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051707&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2026-01-01&g=2026-01-01), is per gemeente inclusief btw vastgesteld en opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051707&bijlage=1&z=2026-01-01&g=2026-01-01).
 
 2. In afwijking van het eerste lid kan de hoogte van de specifieke uitkeringen in dat jaar aangepast worden op basis van een verdeling naar rato van het beschikbare uitkeringsplafond op basis van de gemaakte kosten aan activiteiten als bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051707&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2026-01-01&g=2026-01-01), als het uitkeringsplafond onvoldoende is om alle in aanmerking komende gevallen volledig te honoreren.
 
-#### Artikel 3.3. Uitkeringsplafond
+##### Artikel 3.3. Uitkeringsplafond
 
 In totaal is ten hoogste € 180.000.000 beschikbaar voor specifieke uitkeringen op basis van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051707&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 3.4. Wijze van betaling en besluit tot uitkering
+##### Artikel 3.4. Wijze van betaling en besluit tot uitkering
 
 1. Het college zendt in het jaar volgend op het begrotingsjaar aan de minister informatie over de activiteiten als genoemd in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051707&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2026-01-01&g=2026-01-01).
 
@@ -170,7 +196,7 @@ In totaal is ten hoogste € 180.000.000 beschikbaar voor specifieke uitkeringen
 
 #### § 3.2. Ambtelijke capaciteit voor woningbouw in NPLV-gebieden
 
-#### Artikel 3.5. Specifieke uitkering capaciteitsondersteuning woningbouw in NPLV-gebieden
+##### Artikel 3.5. Specifieke uitkering capaciteitsondersteuning woningbouw in NPLV-gebieden
 
 1. De minister verstrekt een specifieke uitkering aan een gemeente voor de financiering van capaciteitsondersteuning voor de uitvoering van de woningbouwopgave in een NPLV-gebied welke plaatsvinden tussen 1 januari 2025 en 31 december 2029.
 
@@ -178,17 +204,17 @@ In totaal is ten hoogste € 180.000.000 beschikbaar voor specifieke uitkeringen
 
 3. De specifieke uitkering wordt niet verstrekt voor btw die is verschuldigd over kosten voor zover het bedrag van de btw in aanmerking komt voor compensatie op grond van de [Wet op het btw-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
 
-#### Artikel 3.6. Hoogte van de specifieke uitkering
+##### Artikel 3.6. Hoogte van de specifieke uitkering
 
 1. De reservering van het bedrag voor de specifieke uitkering, bedoeld in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051707&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2026-01-01&g=2026-01-01), is per gemeente inclusief btw vastgesteld en opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051707&bijlage=2&z=2026-01-01&g=2026-01-01).
 
 2. In afwijking van het eerste lid kan de hoogte van de specifieke uitkeringen in dat jaar aangepast worden op basis van een verdeling naar rato van het beschikbare uitkeringsplafond op basis van de gemaakte kosten aan capaciteitsondersteuning als bedoeld in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051707&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2026-01-01&g=2026-01-01), als het uitkeringsplafond onvoldoende is om alle in aanmerking komende gevallen volledig te honoreren.
 
-#### Artikel 3.7. Uitkeringsplafond
+##### Artikel 3.7. Uitkeringsplafond
 
 In totaal is ten hoogste € 50.000.000 beschikbaar voor specifieke uitkeringen op basis van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0051707&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 3.8. Wijze van betaling en besluit tot uitkering
+##### Artikel 3.8. Wijze van betaling en besluit tot uitkering
 
 1. Het college zendt in het jaar volgend op het begrotingsjaar aan de minister informatie over de capaciteitsondersteuning bedoeld in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051707&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2026-01-01&g=2026-01-01).
 
@@ -200,27 +226,27 @@ In totaal is ten hoogste € 50.000.000 beschikbaar voor specifieke uitkeringen 
 
 ### Hoofdstuk 4. Overige en slotbepalingen
 
-#### Artikel 4.1. Informatievoorziening na toekenning
+##### Artikel 4.1. Informatievoorziening na toekenning
 
 1. Het college informeert de minister op verzoek over de voortgang van de activiteiten waarvoor de specifieke uitkering aan de gemeente is verstrekt.
 
 2. Het college verleent op verzoek van de minister medewerking en verstrekt informatie ten behoeve van de voortgang en evaluatie van de doelmatigheid en doeltreffendheid van deze regeling.
 
-#### Artikel 4.2. Verantwoording en terugvordering
+##### Artikel 4.2. Verantwoording en terugvordering
 
 1. Het college legt verantwoording af over de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. Als blijkt dat de uitkering onrechtmatig is verleend, niet volledig is besteed aan de activiteiten waarvoor deze is verstrekt, of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel of het onrechtmatig verleende deel door Onze Minister worden teruggevorderd.
 
-#### Artikel 4.3. Evaluatiebepaling
+##### Artikel 4.3. Evaluatiebepaling
 
 De minister zendt binnen vijf jaar na inwerkingtreding van deze regeling aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze regeling in de praktijk.
 
-#### Artikel 4.4. Inwerkingtreding
+##### Artikel 4.4. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2026 en vervalt met ingang van vijf jaar na het tijdstip van inwerkingtreding.
 
-#### Artikel 4.5. Citeertitel
+##### Artikel 4.5. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling realisatiestimulans
 

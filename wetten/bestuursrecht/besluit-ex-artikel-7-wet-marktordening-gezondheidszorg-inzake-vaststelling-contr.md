@@ -1,28 +1,54 @@
 ---
-title: "Besluit ex artikel 7 Wet marktordening gezondheidszorg inzake vaststelling contracteerruimte 2007 voor AWBZ"
+title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 24 oktober 2006, nr. MC-2725263, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de vaststelling van de contracteerruimte 2007 voor de Algemene Wet Bijzondere Ziektekosten"
 identifier: "BWBR0020456"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-10-31
-laatste_update: 2006-10-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020456"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-10-31"
+last_updated: "2006-10-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020456"
+soort: "ministeriele-regeling"
+stam_id: "8698503"
+version_id: "13724382"
+internal_id: "C18527481"
+label_id: "8678694"
+dtd_version: "2.0"
+original_entry_into_force: "2006-10-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020456/2006-10-31/0"
+intitule_bron: "Stcrt.2006-212"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-10-24"
+intitule_published: "2006-10-31"
+intitule_in_force: "2006-10-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-212"
+original_signed_date: "2006-10-24"
+original_published_date: "2006-10-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-212-p13-SC77424"
+entry_into_force_date: "2006-10-31"
+jci_1_3: "jci1.3:c:BWBR0020456&z=2006-10-31&g=2006-10-31"
+jci_1_0: "1.0:c:BWBR0020456&g=2006-10-31"
+citeertitel_status: "redactioneel"
+short_title: "Besluit ex artikel 7 Wet marktordening gezondheidszorg inzake vaststelling contracteerruimte 2007 voor AWBZ"
+signed_date: "2006-10-24"
+entry_into_force: "2006-10-31"
 ---
-
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 24 oktober 2006, nr. MC-2725263, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de vaststelling van de contracteerruimte 2007 voor de Algemene Wet Bijzondere Ziektekosten
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Deze aanwijzing is van toepassing op zorg als omschreven bij de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614). Ter uitvoering van deze aanwijzing stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels op.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor het jaar 2007 stelt de Nederlandse Zorgautoriteit de totale contracteerruimte en een maximale contracteerruimte per zorgkantoorregio vast voor zorg als bedoeld in [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020456&artikel=1&z=2006-10-31&g=2006-10-31). De totale contracteerruimte is het bedrag, exclusief de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020456&artikel=7&z=2006-10-31&g=2006-10-31) van deze aanwijzing geoormerkte gelden, dat maximaal beschikbaar is voor het maken van de voor toetsing relevante productieafspraken tussen zorgkantoren en zorgaanbieders. De contracteerruimte per zorgkantoorregio is het aan een zorgkantoorregio toegerekende aandeel in de totale contracteerruimte.
 
-#### Artikel 3
+##### Artikel 3
 
 De Nederlandse Zorgautoriteit bepaalt de totale contracteerruimte voor het jaar 2007 via eenzelfde systematiek als ook voor de jaren 2005 en 2006 is toegepast door het College tarieven gezondheidszorg op basis van de [Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356). De totale contracteerruimte voor 2007 berekent de Nederlandse Zorgautoriteit als volgt:
 
@@ -64,7 +90,7 @@ De Nederlandse Zorgautoriteit bepaalt de totale contracteerruimte voor het jaar 
 
 - –. inzet voor maatschappelijke opvang in de vier grote steden (€ 60 miljoen).
 
-#### Artikel 4
+##### Artikel 4
 
 De Nederlandse Zorgautoriteit bepaalt voor het jaar 2007 de maximale contracteerruimte per zorgkantoorregio, en deelt deze mede aan de zorgkantoren. Daarbij hanteert de Nederlandse Zorgautoriteit eenzelfde systematiek als ook voor de jaren 2005 en 2006 is toegepast door het College tarieven gezondheidszorg op basis van de [Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356). De volgende uitgangspunten gelden bij de toedeling naar zorgkantoorregio:
 
@@ -76,7 +102,7 @@ De Nederlandse Zorgautoriteit bepaalt voor het jaar 2007 de maximale contracteer
 
 - 4. De Nederlandse Zorgautoriteit kan binnen de totale contracteerruimte op basis van een tweezijdig verzoek van zorgkantoren, incidenteel of structureel contracteerruimte overhevelen tussen de betreffende zorgkantoren.
 
-#### Artikel 5
+##### Artikel 5
 
 De Nederlandse Zorgautoriteit toetst per zorgkantoorregio de totale financiële gevolgen van de productieafspraken aan de contracteerruimte, die voor het desbetreffende zorgkantoor is vastgesteld. Daarbij hanteert de Nederlandse Zorgautoriteit eenzelfde systematiek als ook voor de jaren 2005 en 2006 is toegepast door het College tarieven gezondheidszorg op basis van de [Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356):
 
@@ -84,11 +110,11 @@ De Nederlandse Zorgautoriteit toetst per zorgkantoorregio de totale financiële 
 
 - 2. De Nederlandse Zorgautoriteit hanteert een knelpuntenprocedure en werkt deze uit in een passend instrumentarium.
 
-#### Artikel 6
+##### Artikel 6
 
 De Nederlandse Zorgautoriteit heeft de mogelijkheid om op basis van de 1% margeregeling de contracteerruimte te verhogen. Het bedrag hiervoor volgt uit informatie, die door het Ministerie van Volksgezondheid, Welzijn en Sport nader worden verstrekt.
 
-#### Artikel 7
+##### Artikel 7
 
 In aanvulling op de contracteerruimte zijn geoormerkte gelden beschikbaar voor het maken van specifieke productieafspraken. Het betreft:
 
@@ -100,6 +126,6 @@ In aanvulling op de contracteerruimte zijn geoormerkte gelden beschikbaar voor h
 
 - 4. het bekostigen van productieafspraken voor het terugdringen van wachtlijsten in de Jeugd Geestelijke Gezondheidszorg (landelijk financieel kader van maximaal € 48 miljoen).
 
-#### Artikel 8
+##### Artikel 8
 
 Deze aanwijzing treedt terstond in werking en wordt in de Staatscourant geplaatst.

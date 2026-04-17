@@ -1,13 +1,36 @@
 ---
 title: "Circulaire Overheidswerknemers onder de werknemersverzekeringen (OOW-operatie)"
 identifier: "BWBR0008483"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1998-01-01
-laatste_update: 1998-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008483"
+country: "nl"
+rank: "circulaire"
+publication_date: "1998-01-01"
+last_updated: "1998-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008483"
+soort: "circulaire"
+stam_id: "6342993"
+version_id: "10997922"
+internal_id: "C14890701"
+label_id: "6332204"
+original_entry_into_force: "1998-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008483/1998-01-01/0"
+intitule_bron: "Stcrt.1997-241"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1997-12-15"
+intitule_in_force: "1997-12-15"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-241"
+original_published_date: "1997-12-15"
+original_effect: "nieuwe-regeling"
+original_dossier: "010197"
+original_url_id: "stcrt-1997-241-p14-SC11694"
+entry_into_force_date: "1998-01-01"
+entry_into_force_dossier: "010197"
+jci_1_3: "jci1.3:c:BWBR0008483&z=1998-01-01&g=1998-01-01"
+jci_1_0: "1.0:c:BWBR0008483&g=1998-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1998-01-01"
 ---
-
 # Circulaire Overheidswerknemers onder de werknemersverzekeringen (OOW-operatie)
 
 Circulaire aan de Ministers

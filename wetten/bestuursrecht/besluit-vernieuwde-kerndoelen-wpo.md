@@ -1,26 +1,52 @@
 ---
-title: "Besluit vernieuwde kerndoelen WPO"
+title: "Besluit van 8 oktober 2005, houdende de vaststelling van vernieuwde kerndoelen voor het basisonderwijs (Besluit vernieuwde kerndoelen WPO) en houdende wijziging van het Besluit trekkende bevolking WPO in verband met de vaststelling van vernieuwde kerndoelen voor het basisonderwijs"
 identifier: "BWBR0018844"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-12-01
-laatste_update: 2006-03-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018844"
+country: "nl"
+rank: "amvb"
+publication_date: "2012-12-01"
+last_updated: "2006-03-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018844"
+soort: "AMvB"
+stam_id: "8162683"
+version_id: "12973192"
+internal_id: "C17477591"
+label_id: "8143774"
+dtd_version: "2.0"
+original_entry_into_force: "2006-03-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018844/2012-12-01/0"
+intitule_bron: "Stb.2005-551"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-10-08"
+intitule_published: "2005-11-03"
+intitule_in_force: "2006-03-21"
+intitule_status: "goed"
+original_publication: "Stb.2005-551"
+original_signed_date: "2005-10-08"
+original_published_date: "2005-11-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2005-551"
+entry_into_force_date: "2006-03-22"
+jci_1_3: "jci1.3:c:BWBR0018844&z=2012-12-01&g=2012-12-01"
+jci_1_0: "1.0:c:BWBR0018844&g=2012-12-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vernieuwde kerndoelen WPO"
+signed_date: "2005-10-08"
+entry_into_force: "2006-03-22"
 ---
-
 # Besluit van 8 oktober 2005, houdende de vaststelling van vernieuwde kerndoelen voor het basisonderwijs (Besluit vernieuwde kerndoelen WPO) en houdende wijziging van het Besluit trekkende bevolking WPO in verband met de vaststelling van vernieuwde kerndoelen voor het basisonderwijs
 
-#### Artikel 1
+##### Artikel 1
 
 De kerndoelen, bedoeld in [artikel 9, vijfde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9) worden vastgesteld als aangegeven in de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het [Besluit kerndoelen primair onderwijs 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009666) wordt ingetrokken.
 
 2. De kerndoelen die in de [bijlage bij het Besluit kerndoelen primair onderwijs 1998](onbekend) zijn opgenomen, kunnen door het bevoegd gezag van een basisschool of een speciale school voor basisonderwijs uiterlijk tot 1 augustus 2009 worden gehanteerd voor het onderwijs aan leerlingen die op 1 augustus 2005 reeds basisonderwijs volgen.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit vernieuwde kerndoelen WPO.
 

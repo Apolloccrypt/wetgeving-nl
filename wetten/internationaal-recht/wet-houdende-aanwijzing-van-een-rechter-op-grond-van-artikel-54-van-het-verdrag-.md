@@ -1,14 +1,38 @@
 ---
-title: "Wet houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten"
+title: "Wet van 1 november 1980, houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten (Trb. 1966, 152)"
 identifier: "BWBR0003351"
-categorie: "Internationaal recht"
-publicatiedatum: 2015-07-01
-laatste_update: 2015-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003351"
+country: "nl"
+rank: "wet"
+publication_date: "2015-07-01"
+last_updated: "2015-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003351"
+soort: "wet"
+stam_id: "368793"
+version_id: "542692"
+internal_id: "C542691"
+label_id: "360154"
+dtd_version: "2.0"
+original_entry_into_force: "1980-12-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003351/2015-07-01/0"
+intitule_bron: "Stb.1980-595"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1980-11-01"
+intitule_status: "goed"
+original_publication: "Stb.1980-595"
+original_signed_date: "1980-11-01"
+original_effect: "nieuwe-regeling"
+original_dossier: "15423"
+entry_into_force_date: "1980-12-17"
+entry_into_force_dossier: "15423"
+jci_1_3: "jci1.3:c:BWBR0003351&z=2015-07-01&g=2015-07-01"
+jci_1_0: "1.0:c:BWBR0003351&g=2015-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten"
+signed_date: "1980-11-01"
+entry_into_force: "1980-12-17"
 ---
-
-# Wet houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten
+# Wet van 1 november 1980, houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten (Trb. 1966, 152)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +40,7 @@ Alzo Wij in overweging genomen hebben, dat op grond van artikel 54 van het Verdr
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### artikel Enig
+##### artikel Enig
 
 1. Erkenning en tenuitvoerlegging in Nederland van een uitspraak uit kracht van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten (**Trb.** 1966, 152), kan bij advocaat worden verzocht aan de voorzieningenrechter van de rechtbank Den Haag.
 

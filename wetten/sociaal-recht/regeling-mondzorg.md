@@ -1,18 +1,43 @@
 ---
 title: "Regeling mondzorg"
 identifier: "BWBR0051216"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051216"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051216"
+soort: "zbo"
+stam_id: "17467303"
+version_id: "30806752"
+internal_id: "C44152841"
+label_id: "17369634"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051216/2026-01-01/0"
+intitule_bron: "Stcrt.2025-23464"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-02"
+intitule_published: "2025-07-10"
+intitule_in_force: "2025-07-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-23464"
+original_signed_date: "2025-07-02"
+original_published_date: "2025-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-23464"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051216&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051216&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-02"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling mondzorg
 
 Gelet op [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [artikel 37 eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37), [artikel 38, derde en zevende lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van mondzorg.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
@@ -48,7 +73,7 @@ In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
 - 2°. natuurlijk persoon of rechtspersoon voor zover deze tarieven in rekening brengt namens, ten behoeve van of in verband met het verlenen van zorg door een zorgaanbieder als bedoeld onder 1°.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling beoogt de navolgende voorschriften met betrekking tot de verlening van mondzorg te stellen:
 
@@ -58,13 +83,13 @@ Deze regeling beoogt de navolgende voorschriften met betrekking tot de verlening
 
 - C. Transparantievoorschriften, zoals genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051216&artikel=6&z=2026-01-01&g=2026-01-01) van deze regeling, teneinde te bewerkstelligen dat zorgaanbieders, zoals genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051216&artikel=1&z=2026-01-01&g=2026-01-01) van deze regeling, de patiënten tijdig en zorgvuldig informeren over de tarieven die zij voor prestaties en deelprestaties in rekening brengen.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op zorgaanbieders die mondzorg leveren dan wel mondzorgprestaties in rekening brengen (Zie de prestatiebeschrijvingen mondzorg in de beleidsregels en prestatie- en tariefbeschikkingen ‘tandheelkundige zorg’, ‘jeugdtandverzorging instellingen’, ‘orthodontische zorg’, tandtechniek in eigen beheer’ en ‘bijzondere tandheelkunde instellingen’).
 
 Deze regeling is niet van toepassing op zorgaanbieders die chirurgische tandheelkundige hulp van specialistische aard leveren (kaakchirurgen).
 
-#### Artikel 4. Administratievoorschriften
+##### Artikel 4. Administratievoorschriften
 
 Zorgaanbieders voeren een administratie van uitgevoerde prestaties, zodanig dat telling mogelijk is van gerealiseerde prestaties en de daarvoor gehanteerde tarieven in enige periode. Zorgaanbieders registreren per prestatie:
 
@@ -84,7 +109,7 @@ Zorgaanbieders voeren een administratie van uitgevoerde prestaties, zodanig dat 
 
 - •. de postcode van de praktijk van de zorgaanbieder.
 
-#### Artikel 5. Declaratievoorschriften
+##### Artikel 5. Declaratievoorschriften
 
 1. De zorgaanbieder maakt in zijn declaratie aan een patiënt en/of ziektekostenverzekeraar zichtbaar welk tarief voor een prestatie in rekening is gebracht.
 
@@ -118,7 +143,7 @@ Zorgaanbieders voeren een administratie van uitgevoerde prestaties, zodanig dat 
 
 7. Voor prestatiespecifieke declaratiebepalingen wordt verwezen naar de relevante tariefbeschikkingen.
 
-#### Artikel 6. Transparantievoorschriften
+##### Artikel 6. Transparantievoorschriften
 
 Zorgaanbieders dienen de patiënt tijdig en zorgvuldig te informeren over de tarieven die zij voor prestaties in rekening brengen. Daarnaast gelden de volgende transparantievoorschriften.
 
@@ -164,7 +189,7 @@ De zorgaanbieder dient de patiënt in ieder geval op de volgende wijzen te infor
 
 De zorgaanbieder motiveert, voor de start van de behandeling, schriftelijk dan wel mondeling, als hij (in zijn prijsopgave) tot afwijkende materiaal- en/of techniekkosten voor de betreffende patiënt komt.
 
-#### Artikel 7. Verantwoordelijkheid
+##### Artikel 7. Verantwoordelijkheid
 
 1. De zorgaanbieder is verantwoordelijk voor de goede opvolging van de in deze regeling genoemde bepalingen.
 
@@ -174,11 +199,11 @@ De zorgaanbieder motiveert, voor de start van de behandeling, schriftelijk dan w
 
 4. Bij onderlinge dienstverlening draagt de opdrachtgevende zorgaanbieder zorg voor de uitvoering van de in deze regeling genoemde bepalingen.
 
-#### Artikel 8. Intrekken oude regeling
+##### Artikel 8. Intrekken oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling mondzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0050012), met kenmerk NR/REG‑2507, ingetrokken.
 
-#### Artikel 9. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 9. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
 
 De [Regeling mondzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0050012), met kenmerk NR/REG-2507, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling zonering onbemande luchtvaartuigen"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 21 december 2020, nr. IENW/BSK-2020/236627, houdende de vaststelling van regels met betrekking tot het afbakenen en aanwijzen van geografische zones voor onbemande luchtvaartuigen (Regeling zonering onbemande luchtvaartuigen)"
 identifier: "BWBR0044597"
-categorie: "Milieu"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044597"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044597"
+soort: "ministeriele-regeling"
+stam_id: "15780253"
+version_id: "30124122"
+internal_id: "C43162651"
+label_id: "15718014"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044597/2026-01-01/0"
+intitule_bron: "Stcrt.2020-66579"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-21"
+intitule_published: "2020-12-29"
+intitule_in_force: "2020-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-17335"
+original_signed_date: "2024-05-28"
+original_published_date: "2024-05-31"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-17335"
+entry_into_force_date: "2024-05-28"
+jci_1_3: "jci1.3:c:BWBR0044597&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0044597&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling zonering onbemande luchtvaartuigen"
+signed_date: "2024-05-28"
+entry_into_force: "2024-05-28"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 21 december 2020, nr. IENW/BSK-2020/236627, houdende de vaststelling van regels met betrekking tot het afbakenen en aanwijzen van geografische zones voor onbemande luchtvaartuigen (Regeling zonering onbemande luchtvaartuigen)
 
 Handelende in overeenstemming met de Staatssecretaris van Defensie,
@@ -16,7 +42,7 @@ Gelet op [artikel 9 van het Besluit vluchtuitvoering](https://wetten.overheid.nl
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - e). **zone:** geografische UAS-zone als bedoeld in artikel 2 van uitvoeringsverordening (EU) nr. 2019/947.
 
-#### Artikel 2. Laagvliegroutes en -gebieden voor civiele en militaire luchtvaartuigen
+##### Artikel 2. Laagvliegroutes en -gebieden voor civiele en militaire luchtvaartuigen
 
 1. Het is verboden in de open categorie een vlucht uit te voeren hoger dan 30 meter boven het dichtstbijzijnde punt van het aardoppervlak in de volgende geografische zones waarin laag mag worden gevlogen door civiele of militaire luchtvaartuigen:
 
@@ -82,7 +108,7 @@ In deze regeling wordt verstaan onder:
 
 2. In afwijking van het eerste lid is het verboden een vlucht in subcategorie A3 als bedoeld in Bijlage deel A van uitvoeringsverordening (EU) nr. 2019/947 uit te voeren in geografische zones waarin laag mag worden gevlogen door civiele of militaire luchtvaartuigen.
 
-#### Artikel 3. Ongecontroleerde luchthavens en helihavens
+##### Artikel 3. Ongecontroleerde luchthavens en helihavens
 
 1. Het is verboden een vlucht in de open categorie uit te voeren in de volgende geografische zones:
 
@@ -196,7 +222,7 @@ In deze regeling wordt verstaan onder:
 
 - ccc. EHTX als middelpunt van een cirkel met een straal van‘ 3000 meter: 53°06'55"N 004°50'01"E.
 
-#### Artikel 4. Havens
+##### Artikel 4. Havens
 
 1. Het is verboden een vlucht in de open categorie uit te voeren in de volgende geografische zones:
 
@@ -226,11 +252,11 @@ In deze regeling wordt verstaan onder:
 
 - m. Moerdijk de zone, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°41'19.50"N 004°31'33.93"E; 51°41'25.68"N 004°32'39.43"E; 51°41'41.90"N 004°34'11.97"E; 51°41'50.97"N 004°35'24.52"E; 51°41'54.22"N 004°35'42.67"E; 51°42'5.48"N 004°36'13.9"E; 51°42'17.2"N 004°36'38.83"E; 51°42'24.73"N 004°36'56.1"E; 51°42'18.82"N 004°37'10.94"E; 51°42'9.22"N 004°37'21.99"E; 51°41'55.42"N 004°37'23.8"E; 51°41'52.13"N 004°37'33.32"E; 51°41'45.54"N 004°37'35.94"E; 51°41'38.62"N 004°37'32.71"E; 51°41'28.14"N 004°37'24.68"E; 51°41'19.78"N 004°37'39.54"E; 51°41'12.98"N 004°37'50.17"E; 51°41'22.19"N 004°38'3.89"E; 51°41'26.38"N 004°38'10.13"E; 51°41'28.34"N 004°38'13.6"E; 51°41'31.69"N 004°38'18.5"E; 51°41'34.34"N 004°38'21.100"E; 51°41'37.87"N 004°38'15.87"E; 51°41'40.2"N 004°38'12.13"E; 51°41'46.45"N 004°38'21.70"E; 51°41'41.40"N 004°38'31.54"E; 51°41'42.28"N 004°38'38.39"E; 51°41'39.7"N 004°38'46.37"E; 51°41'44.25"N 004°39'11.38"E; 51°41'15.7"N 004°39'36.30"E; 51°41'10.85"N 004°39'39.91"E; 51°41'8.20"N 004°39'42.17"E; 51°41'12.29"N 004°39'54.58"E; 51°41'4.35"N 004°40'1.36"E; 51°40'55.30"N 004°39'31.21"E; 51°40'54.11"N 004°39'27.87"E; 51°40'47.68"N 004°39'22.24"E; 51°40'47.32"N 004°39'8.77"E; 51°40'43.37"N 004°38'25.97"E; 51°40'41.44"N 004°38'6.42"E; 51°40'51.69"N 004°37'40.9"E; 51°40'34.41"N 004°37'18.62"E; 51°40'7.35"N 004°36'59.40"E; 51°40'0.81"N 004°36'45.11"E; 51°39'52.100"N 004°36'41.38"E; 51°39'43.53"N 004°36'16.28"E; 51°39'42.92"N 004°36'4.64"E; 51°38'57.41"N 004°34'27.24"E; 51°39'5.20"N 004°33'2.50"E; 51°39'13.63"N 004°32'55.67"E; 51°39'32.58"N 004°32'55.44"E; 51°39'54.27"N 004°32'50.82"E; 51°40'25.62"N 004°32'11.15"E; 51°40'35.86"N 004°31'58.19"E; 51°40'31.92"N 004°31'42.50"E; 51°40'39.85"N 004°31'37.6"E; 51°40'51.8"N 004°31'40.91"E; 51°41'14.70"N 004°31'35.10"E; 51°41'19.50"N 004°31'33.93"E.
 
-#### Artikel 5. Industriegebieden en locaties
+##### Artikel 5. Industriegebieden en locaties
 
 Het is verboden een vlucht uit te voeren met onbemande luchtvaartuigen in de open categorie in de geografische zones zoals bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&bijlage=1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 6. Vitale infrastructuur en beveiligde gebieden
+##### Artikel 6. Vitale infrastructuur en beveiligde gebieden
 
 - 1). Het is verboden een vlucht in de open categorie uit te voeren in de geografische zones van een beveiligd gebied of een locatie met vitale processen.
 
@@ -496,11 +522,11 @@ Het is verboden een vlucht uit te voeren met onbemande luchtvaartuigen in de ope
 
 - 7). Het is verboden een vlucht uit te voeren met onbemande luchtvaartuigen in de open categorie in de geografische zones, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044597&bijlage=2&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 31 december 2020.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling zonering onbemande luchtvaartuigen.
 

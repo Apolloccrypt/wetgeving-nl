@@ -1,14 +1,36 @@
 ---
-title: "Wetboek van Strafrecht"
+title: "Wet van 3 maart 1881"
 identifier: "BWBR0001854"
-categorie: "Strafrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001854"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001854"
+soort: "wet"
+stam_id: "3012053"
+version_id: "4679112"
+internal_id: "C4679111"
+label_id: "2970494"
+dtd_version: "2.0"
+original_entry_into_force: "1886-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001854/2026-01-01/0"
+intitule_bron: "Stb.1881-35"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1881-03-03"
+intitule_status: "goed"
+original_publication: "Stb.1881-35"
+original_signed_date: "1881-03-03"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1886-09-01"
+jci_1_3: "jci1.3:c:BWBR0001854&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0001854&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wetboek van Strafrecht"
+signed_date: "1881-03-03"
+entry_into_force: "1886-09-01"
 ---
-
-# Wetboek van Strafrecht
+# Wet van 3 maart 1881
 
 Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
 
@@ -20,21 +42,21 @@ Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten
 
 ## Titel I. Omvang van de werking van de strafwet
 
-#### Artikel 1
+##### Artikel 1
 
 1. Geen feit is strafbaar dan uit kracht van een daaraan voorafgegane wettelijke strafbepaling.
 
 2. Bij verandering in de wetgeving na het tijdstip waarop het feit begaan is, worden de voor de verdachte gunstigste bepalingen toegepast.
 
-#### Artikel 2
+##### Artikel 2
 
 De Nederlandse strafwet is toepasselijk op ieder die zich in Nederland aan enig strafbaar feit schuldig maakt.
 
-#### Artikel 3
+##### Artikel 3
 
 De Nederlandse strafwet is toepasselijk op ieder die zich buiten Nederland aan boord van een Nederlands vaartuig of luchtvaartuig aan enig strafbaar feit schuldig maakt.
 
-#### Artikel 4
+##### Artikel 4
 
 De Nederlandse strafwet is toepasselijk op ieder die zich buiten Nederland schuldig maakt:
 
@@ -50,7 +72,7 @@ De Nederlandse strafwet is toepasselijk op ieder die zich buiten Nederland schul
 
 - f. aan het misdrijf omschreven in [artikel 207a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IX&artikel=207a&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. De Nederlandse strafwet is toepasselijk op ieder tegen wie de strafvervolging door Nederland van een vreemde staat is overgenomen op grond van een verdrag waaruit de bevoegdheid tot strafvervolging voor Nederland volgt.
 
@@ -60,19 +82,19 @@ De Nederlandse strafwet is toepasselijk op ieder die zich buiten Nederland schul
 
 4. De Nederlandse strafwet is voorts toepasselijk op ieder tegen wie de strafvervolging door Nederland is overgenomen van een krachtens verdrag of besluit van een volkenrechtelijke organisatie ingesteld internationaal gerecht.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Nederlandse strafwet is toepasselijk op een ieder die zich buiten Nederland schuldig maakt aan een misdrijf tegen een Nederlander, een Nederlandse ambtenaar, een Nederlands voertuig, vaartuig of luchtvaartuig, voor zover op dit feit naar de wettelijke omschrijving een gevangenisstraf van ten minste acht jaren is gesteld en daarop door de wet van het land waar het begaan is, straf is gesteld.
 
 2. Met een Nederlander wordt voor de toepassing van het eerste lid gelijkgesteld de vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Nederlandse strafwet is toepasselijk op een ieder die zich buiten Nederland schuldig maakt aan een feit voor zover een bij algemene maatregel van bestuur aangewezen verdrag of besluit van een volkenrechtelijke organisatie tot het vestigen van rechtsmacht over dat feit verplicht.
 
 2. In de algemene maatregel van bestuur, bedoeld in het eerste lid, worden de feiten omschreven met betrekking tot welke de bij de maatregel aangewezen verdragen en besluiten van volkenrechtelijke organisaties tot de vestiging van rechtsmacht verplichten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Nederlandse strafwet is toepasselijk op de Nederlander die zich buiten Nederland schuldig maakt aan een feit dat door de Nederlandse strafwet als misdrijf wordt beschouwd en waarop door de wet van het land waar het begaan is, straf is gesteld.
 
@@ -90,13 +112,13 @@ De Nederlandse strafwet is toepasselijk op ieder die zich buiten Nederland schul
 
 3. Met een Nederlander wordt voor de toepassing van het eerste en het tweede lid, onder b tot en met e, gelijkgesteld de vreemdeling die na het plegen van het feit Nederlander wordt alsmede, voor de toepassing van het eerste en tweede lid, de vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft.
 
-#### Artikel 8
+##### Artikel 8
 
 De Nederlandse strafwet is toepasselijk op de Nederlandse ambtenaar die zich buiten Nederland schuldig maakt aan een van de misdrijven omschreven in [Titel XXVIII van het Tweede Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&z=2026-01-01&g=2026-01-01).
 
 ## Titel II. Straffen
 
-#### Artikel 9
+##### Artikel 9
 
 1. De straffen zijn:
 
@@ -126,11 +148,11 @@ De Nederlandse strafwet is toepasselijk op de Nederlandse ambtenaar die zich bui
 
 5. Een bijkomende straf kan, in de gevallen waarin de wet haar oplegging toelaat, zowel afzonderlijk als te zamen met hoofdstraffen en met andere bijkomende straffen worden opgelegd.
 
-#### Artikel 9a
+##### Artikel 9a
 
 Indien de rechter dit raadzaam acht in verband met de geringe ernst van het feit, de persoonlijkheid van de dader of de omstandigheden waaronder het feit is begaan, dan wel die zich nadien hebben voorgedaan, kan hij in het vonnis bepalen dat geen straf of maatregel zal worden opgelegd.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De gevangenisstraf is levenslang of tijdelijk.
 
@@ -140,15 +162,15 @@ Indien de rechter dit raadzaam acht in verband met de geringe ernst van het feit
 
 4. Zij kan in geen geval de tijd van dertig jaren te boven gaan.
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. In geval van veroordeling tot gevangenisstraf van ten hoogste twee jaren, tot hechtenis, vervangende hechtenis daaronder niet begrepen, tot taakstraf of tot geldboete, kan de rechter bepalen dat de straf of een gedeelte daarvan niet zal worden tenuitvoergelegd.
 
@@ -156,13 +178,13 @@ Vervallen
 
 3. De rechter kan voorts bepalen dat opgelegde bijkomende straffen geheel of gedeeltelijk niet zullen worden tenuitvoergelegd.
 
-#### Artikel 14b
+##### Artikel 14b
 
 1. De rechter die bepaalt dat een door hem opgelegde straf geheel of gedeeltelijk niet zal worden tenuitvoergelegd, stelt daarbij een proeftijd vast.
 
 2. De proeftijd bedraagt ten hoogste drie jaren. De proeftijd kan ten hoogste tien jaren bedragen indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen. Onder gericht zijn tegen of gevaar veroorzaken voor de onaantastbaarheid van het lichaam van een of meer personen wordt voor de toepassing van dit artikel mede begrepen het misdrijf, bedoeld in [artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=252&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 14c
+##### Artikel 14c
 
 1. Toepassing van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14a&z=2026-01-01&g=2026-01-01) geschiedt onder de algemene voorwaarde dat de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit.
 
@@ -210,59 +232,59 @@ Vervallen
 
 7. Gedurende de proeftijd of gedurende de tijd dat deze is geschorst kan de rechter in de gestelde bijzondere voorwaarden of in de termijn waartoe deze voorwaarden in hun werking binnen de proeftijd zijn beperkt wijziging brengen, deze voorwaarden opheffen, alsnog bijzondere voorwaarden stellen en een opdracht als bedoeld in het zesde lid, geven, wijzigen of opheffen.
 
-#### Artikel 14d
+##### Artikel 14d
 
 Vervallen
 
-#### Artikel 14f
+##### Artikel 14f
 
 Vervallen
 
-#### Artikel 14g
+##### Artikel 14g
 
 Vervallen
 
-#### Artikel 14h
+##### Artikel 14h
 
 Vervallen
 
-#### Artikel 14i
+##### Artikel 14i
 
 Vervallen
 
-#### Artikel 14j
+##### Artikel 14j
 
 Vervallen
 
-#### Artikel 14k
+##### Artikel 14k
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 15a
+##### Artikel 15a
 
 Vervallen
 
-#### Artikel 15b
+##### Artikel 15b
 
 Vervallen
 
-#### Artikel 15c
+##### Artikel 15c
 
 Vervallen
 
-#### Artikel 15d
+##### Artikel 15d
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 1. De duur van de hechtenis is ten minste een dag en ten hoogste een jaar.
 
@@ -270,25 +292,25 @@ Vervallen
 
 3. Zij kan in geen geval de tijd van een jaar en vier maanden te boven gaan.
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 De duur van de tijdelijke gevangenisstraf en de hechtenis wordt in de rechterlijke uitspraak aangewezen in dagen, weken, maanden en jaren, niet in gedeelten daarvan.
 
-#### Artikel 22a
+##### Artikel 22a
 
 Vervallen
 
-#### Artikel 22c
+##### Artikel 22c
 
 1. Een taakstraf bestaat uit het verrichten van onbetaalde arbeid. Het vonnis dan wel de strafbeschikking vermeldt het aantal uren dat de straf zal duren. Het vonnis dan wel de strafbeschikking kan de aard van de te verrichten werkzaamheden vermelden.
 
 2. De taakstraf duurt ten hoogste tweehonderdenveertig uren.
 
-#### Artikel 22d
+##### Artikel 22d
 
 1. In het vonnis waarbij taakstraf wordt opgelegd, beveelt de rechter, voor het geval dat de veroordeelde de taakstraf niet naar behoren verricht, dat vervangende hechtenis zal worden toegepast.
 
@@ -296,35 +318,35 @@ Vervallen
 
 3. De vervangende hechtenis beloopt ten minste één dag en ten hoogste vier maanden. Voor elke twee uren van de taakstraf wordt niet meer dan één dag opgelegd.
 
-#### Artikel 22e
+##### Artikel 22e
 
 Vervallen
 
-#### Artikel 22f
+##### Artikel 22f
 
 Vervallen
 
-#### Artikel 22g
+##### Artikel 22g
 
 Vervallen
 
-#### Artikel 22h
+##### Artikel 22h
 
 Vervallen
 
-#### Artikel 22i
+##### Artikel 22i
 
 Vervallen
 
-#### Artikel 22j
+##### Artikel 22j
 
 Vervallen
 
-#### Artikel 22k
+##### Artikel 22k
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 1. Hij die tot een geldboete is veroordeeld, betaalt het vastgestelde bedrag binnen de door Onze Minister van Justitie en Veiligheid te stellen termijn aan de staat.
 
@@ -356,11 +378,11 @@ de zesde categorie, € 670 000 Per 1 januari 2026: € 1.100.000..
 
 9. De in het vierde lid genoemde bedragen worden elke twee jaar, met ingang van 1 januari van een jaar, bij algemene maatregel van bestuur aangepast aan de ontwikkeling van de consumentenprijsindex sinds de vorige aanpassing van deze bedragen. Bij deze aanpassing wordt het geldbedrag van de eerste categorie op een veelvoud van € 5 naar beneden afgerond en worden, uitgaande van het geldbedrag van deze eerste categorie en onder instandhouding van de onderlinge verhouding tussen de bedragen van de geldboetecategorieën, de bedragen van de tweede tot en met de zesde geldboetecategorie bepaald.
 
-#### Artikel 24
+##### Artikel 24
 
 Bij de vaststelling van de geldboete wordt rekening gehouden met de draagkracht van de verdachte in de mate waarin dat nodig is met het oog op een passende bestraffing van de verdachte zonder dat deze in zijn inkomen en vermogen onevenredig wordt getroffen.
 
-#### Artikel 24a
+##### Artikel 24a
 
 1. Indien een of meer geldboeten worden opgelegd tot een bedrag van ten minste € 225, kan in de uitspraak dan wel de strafbeschikking worden bepaald dat degene aan wie de geldboete is opgelegd het bedrag in gedeelten mag voldoen. Elk van die gedeelten wordt daarbij op ten minste € 45 bepaald.
 
@@ -368,11 +390,11 @@ Bij de vaststelling van de geldboete wordt rekening gehouden met de draagkracht 
 
 3. Deze termijnen worden op ten minste één en ten hoogste drie maanden gesteld. Zij mogen in het geval van een uitspraak tezamen een tijdvak van twee jaar niet overschrijden; in het geval van een strafbeschikking mogen zij een tijdvak van een jaar niet overschrijden.
 
-#### Artikel 24b
+##### Artikel 24b
 
 Vervallen
 
-#### Artikel 24c
+##### Artikel 24c
 
 1. Bij de uitspraak waarbij geldboete wordt opgelegd, beveelt de rechter voor het geval dat noch volledige betaling noch volledig verhaal van het verschuldigde bedrag volgt, dat vervangende hechtenis zal worden toegepast. Indien de veroordeelde een rechtspersoon is, blijft dit bevel achterwege. [Artikel 51, laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=V&artikel=51&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
@@ -380,19 +402,19 @@ Vervallen
 
 3. De vervangende hechtenis beloopt ten minste één dag en ten hoogste een jaar. Voor elke volle € 25 van de geldboete wordt niet meer dan één dag opgelegd.
 
-#### Artikel 24d
+##### Artikel 24d
 
 Vervallen
 
-#### Artikel 24e
+##### Artikel 24e
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 1. Bij het opleggen van tijdelijke gevangenisstraf, hechtenis of taakstraf beveelt de rechter, dat de tijd die door de veroordeelde vóór de tenuitvoerlegging van de uitspraak in verzekering, in voorlopige hechtenis, in gijzeling ingevolge [artikel 6:6:25 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:25), in een psychiatrisch ziekenhuis of een instelling voor klinische observatie bestemd ingevolge een bevel tot observatie of in detentie in het buitenland ingevolge een Nederlands verzoek om uitlevering of om overlevering is doorgebracht, bij de uitvoering van die straf geheel in mindering zal worden gebracht. Indien hij dit bevel geeft terzake van een taakstraf, bepaalt hij in zijn uitspraak volgens welke maatstaf de aftrek zal geschieden. Het vorenstaande blijft buiten toepassing voor zover die tijd reeds met toepassing van [artikel 68, eerste lid, laatste volzin, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=68) in mindering is gebracht op een andere vrijheidsstraf die de veroordeelde heeft ondergaan.
 
@@ -402,11 +424,11 @@ Vervallen
 
 4. De voorgaande leden van dit artikel zijn ook van toepassing in gevallen waarin, bij gelijktijdige vervolging wegens twee of meer feiten, de veroordeling wordt uitgesproken ter zake van een ander feit dan dat waarvoor de verzekering , de voorlopige hechtenis of de gijzeling ingevolge [artikel 6:6:25 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:25) is bevolen.
 
-#### Artikel 27a
+##### Artikel 27a
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 1. De rechten waarvan de schuldige, in de bij de wet bepaalde gevallen, bij rechterlijke uitspraak kan worden ontzet, zijn:
 
@@ -426,11 +448,11 @@ Vervallen
 
 4. De rechter kan aan een krachtens algemene maatregel van bestuur aangewezen reclasseringsinstelling opdracht geven toezicht te houden op de naleving door de veroordeelde van de ontzetting van het recht om ambten of bepaalde ambten te bekleden en het recht om bepaalde beroepen uit te oefenen.
 
-#### Artikel 29
+##### Artikel 29
 
 Ontzetting van het recht om ambten of bepaalde ambten te bekleden en bij de gewapende macht te dienen kan, behalve in de gevallen in het Tweede Boek omschreven, worden uitgesproken bij veroordeling wegens enig ambtsmisdrijf of wegens enig misdrijf waardoor de schuldige een bijzondere ambtsplicht schond of waarbij hij gebruik maakte van macht, gelegenheid of middel hem door zijn ambt geschonken.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Wanneer ontzetting van rechten wordt uitgesproken, bepaalt de rechter de duur als volgt:
 
@@ -446,13 +468,13 @@ Ontzetting van het recht om ambten of bepaalde ambten te bekleden en bij de gewa
 
 2. De ontzetting van het recht vermeld in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), gaat in op de dag dat de veroordeling daartoe onherroepelijk is geworden. De ontzetting van een van de andere in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten gaat in op de dag waarop de rechterlijke uitspraak kan worden ten uitvoer gelegd.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Verbeurdverklaring kan worden uitgesproken bij veroordeling wegens enig strafbaar feit.
 
 2. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
-#### Artikel 33a
+##### Artikel 33a
 
 1. Vatbaar voor verbeurdverklaring zijn:
 
@@ -478,11 +500,11 @@ Ontzetting van het recht om ambten of bepaalde ambten te bekleden en bij de gewa
 
 4. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
 
-#### Artikel 33b
+##### Artikel 33b
 
 In de verbeurdverklaring van een voorwerp is begrepen die van de verpakking waarin het zich bevindt, tenzij de rechter het tegendeel bepaalt.
 
-#### Artikel 33c
+##### Artikel 33c
 
 1. Bij de verbeurdverklaring van voorwerpen kan de rechter voor het geval waarin de verbeurd verklaarde voorwerpen meer zouden opbrengen dan een in de uitspraak vastgesteld bedrag, bevelen dat het verschil wordt vergoed.
 
@@ -490,7 +512,7 @@ In de verbeurdverklaring van een voorwerp is begrepen die van de verpakking waar
 
 3. De rechter bepaalt aan wie het bedrag van de vergoeding of tegemoetkoming wordt uitbetaald; zulks laat ieders recht op dit bedrag onverlet.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Niet in beslag genomen voorwerpen worden, bij verbeurdverklaring, in de uitspraak op een bepaald geldelijk bedrag geschat.
 
@@ -498,11 +520,11 @@ In de verbeurdverklaring van een voorwerp is begrepen die van de verpakking waar
 
 3. De [artikelen 24c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24c&z=2026-01-01&g=2026-01-01) en 25 en de [artikelen 6:4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:2) en [6:4:7 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:7) vinden overeenkomstige toepassing.
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 1. In de gevallen waarin de rechter krachtens de wet de openbaarmaking van zijn uitspraak gelast, bepaalt hij tevens de wijze waarop aan die last uitvoering wordt gegeven.
 
@@ -512,11 +534,11 @@ Vervallen
 
 ### afdeling Eerste. Onttrekking aan het verkeer, ontneming van het wederrechtelijk verkregen voordeel en schadevergoeding
 
-#### Artikel 36a
+##### Artikel 36a
 
 Vervallen
 
-#### Artikel 36b
+##### Artikel 36b
 
 1. Onttrekking aan het verkeer van in beslag genomen voorwerpen kan worden opgelegd:
 
@@ -534,7 +556,7 @@ Vervallen
 
 3. De maatregel kan te zamen met straffen en met andere maatregelen worden opgelegd.
 
-#### Artikel 36c
+##### Artikel 36c
 
 Vatbaar voor onttrekking aan het verkeer zijn alle voorwerpen:
 
@@ -550,11 +572,11 @@ Vatbaar voor onttrekking aan het verkeer zijn alle voorwerpen:
 
 een en ander voor zover zij van zodanige aard zijn, dat het ongecontroleerde bezit daarvan in strijd is met de wet of met het algemeen belang.
 
-#### Artikel 36d
+##### Artikel 36d
 
 Vatbaar voor onttrekking aan het verkeer zijn bovendien de aan de dader of verdachte toebehorende voorwerpen van zodanige aard dat het ongecontroleerde bezit daarvan in strijd is met de wet of met het algemeen belang, welke bij gelegenheid van het onderzoek naar het door hem begane feit, dan wel het feit waarvan hij wordt verdacht, zijn aangetroffen, doch alleen indien de voorwerpen kunnen dienen tot het begaan of de voorbereiding van soortgelijke feiten, dan wel tot de belemmering van de opsporing daarvan.
 
-#### Artikel 36e
+##### Artikel 36e
 
 1. Op vordering van het openbaar ministerie kan bij een afzonderlijke rechterlijke beslissing aan degene die is veroordeeld wegens een strafbaar feit de verplichting worden opgelegd tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel.
 
@@ -582,7 +604,7 @@ Vatbaar voor onttrekking aan het verkeer zijn bovendien de aan de dader of verda
 
 11. De rechter bepaalt bij de oplegging van de maatregel de duur van de gijzeling die met toepassing van [artikel 6:6:25 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:25) ten hoogste kan worden gevorderd. Bij het bepalen van de duur wordt voor elke volle € 25 van het opgelegde bedrag niet meer dan één dag gerekend. De duur beloopt ten hoogste drie jaar.
 
-#### Artikel 36f
+##### Artikel 36f
 
 1. Aan degene die bij rechterlijke uitspraak wegens een strafbaar feit wordt veroordeeld tot een straf of aan wie bij rechterlijke uitspraak een maatregel wordt opgelegd dan wel ten aanzien van wie met toepassing van [artikel 2.3 van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=2.3) een zorgmachtiging of rechterlijke machtiging is afgegeven op de gronden, genoemd in artikel 2.3, eerste lid, onderdeel 1°, 2° of 4°, van de Wet forensische zorg, of waarbij door de rechter bij de strafoplegging rekening is gehouden met een strafbaar feit, waarvan in de dagvaarding is meegedeeld dat het door de verdachte is erkend en ter kennis van de rechtbank wordt gebracht dan wel jegens wie een strafbeschikking wordt uitgevaardigd, kan de verplichting worden opgelegd tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer of de personen genoemd in [artikel 51f, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51f). De staat keert een ontvangen bedrag onverwijld uit aan het slachtoffer of de personen genoemd in artikel 51f, tweede lid, van het Wetboek van Strafvordering.
 
@@ -596,11 +618,11 @@ Vatbaar voor onttrekking aan het verkeer zijn bovendien de aan de dader of verda
 
 ### afdeling Tweede. Plaatsing in een psychiatrisch ziekenhuis en terbeschikkingstelling
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 37a
+##### Artikel 37a
 
 1. Indien de veiligheid van anderen, dan wel de algemene veiligheid van personen of goederen dat eist, kan de rechter gelasten dat een verdachte ter beschikking wordt gesteld indien hij tot het oordeel komt dat:
 
@@ -624,25 +646,25 @@ Vervallen
 
 9. Onze Minister stelt een multidisciplinaire commissie in die tot taak heeft te adviseren over de aanwezigheid en de bruikbaarheid van persoonsgegevens betreffende de gezondheid. De multidisciplinaire commissie bestaat uit een tweetal artsen, onder wie een psychiater, een gedragsdeskundige en een tweetal juristen. De voorzitter van de commissie is een arts, die tevens psychiater is. Bij algemene maatregel van bestuur worden regels gesteld over de werkwijze, de geheimhouding, en de besluitvorming van de multidisciplinaire commissie, alsmede over de gegevens in het advies.
 
-#### Artikel 37b
+##### Artikel 37b
 
 1. De rechter kan bevelen dat de ter beschikking gestelde van overheidswege wordt verpleegd, indien de veiligheid van anderen dan wel de algemene veiligheid van personen of goederen de verpleging eist.
 
 2. Indien de rechter naast de maatregel van terbeschikkingstelling met bevel tot verpleging van overheidswege een gevangenisstraf heeft opgelegd kan de rechter in zijn uitspraak een advies opnemen omtrent het tijdstip waarop de terbeschikkingstelling met verpleging van overheidswege dient aan te vangen.
 
-#### Artikel 37c
+##### Artikel 37c
 
 Vervallen
 
-#### Artikel 37d
+##### Artikel 37d
 
 Vervallen
 
-#### Artikel 37e
+##### Artikel 37e
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 1. Indien de rechter niet een bevel als bedoeld in [artikel 37b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=37b&z=2026-01-01&g=2026-01-01) geeft, stelt hij ter bescherming van de veiligheid van anderen dan wel de algemene veiligheid van personen of goederen voorwaarden betreffende het gedrag van de ter beschikking gestelde. Als algemene voorwaarde geldt dat de ter beschikking gestelde ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) ter inzage aanbiedt.
 
@@ -660,27 +682,27 @@ Vervallen
 
 8. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de procedure van terbeschikkingstelling met voorwaarden.
 
-#### Artikel 38a
+##### Artikel 38a
 
 1. De voorwaarden bedoeld in het eerste lid van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=38&z=2026-01-01&g=2026-01-01) kunnen inhouden dat de ter beschikking gestelde zich in een door de rechter aangewezen instelling laat opnemen, zich onder behandeling stelt van een in de uitspraak aangewezen deskundige, of door de behandelend arts voorgeschreven geneesmiddelen inneemt dan wel gedoogt dat deze door de behandelend arts aan hem worden toegediend.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de eisen waaraan een door de rechter aan te wijzen instelling moet voldoen.
 
-#### Artikel 38b
+##### Artikel 38b
 
 Vervallen
 
-#### Artikel 38c
+##### Artikel 38c
 
 Vervallen
 
-#### Artikel 38d
+##### Artikel 38d
 
 1. De terbeschikkingstelling geldt voor de tijd van twee jaar, te rekenen van de dag waarop de rechterlijke uitspraak waarbij zij is opgelegd onherroepelijk is geworden.
 
 2. De termijn van de terbeschikkingstelling kan, behoudens het bepaalde in [artikel 38e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=38e&z=2026-01-01&g=2026-01-01) of [artikel 38j](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=38j&z=2026-01-01&g=2026-01-01), door de rechter, op vordering van het openbaar ministerie, telkens hetzij met een jaar hetzij met twee jaar worden verlengd, indien de veiligheid van anderen, dan wel de algemene veiligheid van personen of goederen die verlenging eist.
 
-#### Artikel 38e
+##### Artikel 38e
 
 1. De totale duur van de maatregel van terbeschikkingstelling met bevel tot verpleging van overheidswege gaat een periode van vier jaar niet te boven, tenzij de terbeschikkingstelling met bevel tot verpleging van overheidswege is opgelegd ter zake van een misdrijf dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen.
 
@@ -688,37 +710,37 @@ Vervallen
 
 3. Indien de totale duur van de terbeschikkingstelling niet in tijd is beperkt, kan de termijn van de terbeschikkingstelling telkens worden verlengd, wanneer de veiligheid van anderen, dan wel de algemene veiligheid van personen die verlenging eist.
 
-#### Artikel 38f
+##### Artikel 38f
 
 Vervallen
 
-#### Artikel 38g
+##### Artikel 38g
 
 Vervallen
 
-#### Artikel 38h
+##### Artikel 38h
 
 Vervallen
 
-#### Artikel 38i
+##### Artikel 38i
 
 Vervallen
 
-#### Artikel 38j
+##### Artikel 38j
 
 In geval van voorwaardelijke beëindiging van de verpleging van overheidswege kan de terbeschikkingstelling telkens met een jaar, dan wel met twee jaren, worden verlengd.
 
-#### Artikel 38k
+##### Artikel 38k
 
 Vervallen
 
-#### Artikel 38l
+##### Artikel 38l
 
 Vervallen
 
 ### afdeling Derde. Plaatsing in een inrichting voor de opvang van verslaafden
 
-#### Artikel 38m
+##### Artikel 38m
 
 1. De rechter kan op vordering van het openbaar ministerie de maatregel opleggen tot plaatsing van een verdachte in een inrichting voor stelselmatige daders, indien:
 
@@ -740,7 +762,7 @@ Vervallen
 
 7. Onder een veroordeling als bedoeld in het eerste lid, onder 2°, wordt mede verstaan een onherroepelijke veroordeling door een strafrechter in een andere lidstaat van de Europese Unie wegens soortgelijke feiten.
 
-#### Artikel 38n
+##### Artikel 38n
 
 1. De maatregel geldt voor de tijd van ten hoogste twee jaren, te rekenen van de dag waarop de rechterlijke uitspraak waarbij hij is opgelegd, onherroepelijk is geworden.
 
@@ -748,11 +770,11 @@ Vervallen
 
 3. De rechter kan ambtshalve, op vordering van het openbaar ministerie, dan wel op verzoek van de verdachte of diens raadsman, bij of na het opleggen van de maatregel beslissen tot een tussentijdse beoordeling van de noodzaak van de voortzetting van de tenuitvoerlegging van de maatregel.
 
-#### Artikel 38o
+##### Artikel 38o
 
 Vervallen
 
-#### Artikel 38p
+##### Artikel 38p
 
 1. De rechter kan bepalen dat de maatregel niet ten uitvoer zal worden gelegd.
 
@@ -770,43 +792,43 @@ Vervallen
 
 6. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de eisen waaraan een inrichting en een behandeling als bedoeld in het vijfde lid moeten voldoen.
 
-#### Artikel 38q
+##### Artikel 38q
 
 Vervallen
 
-#### Artikel 38r
+##### Artikel 38r
 
 Vervallen
 
-#### Artikel 38s
+##### Artikel 38s
 
 Vervallen
 
-#### Artikel 38t
+##### Artikel 38t
 
 Vervallen
 
-#### Artikel 38u
+##### Artikel 38u
 
 Vervallen
 
 ## Titel III. Uitsluiting en verhoging van strafbaarheid
 
-#### Artikel 39
+##### Artikel 39
 
 Niet strafbaar is hij die een feit begaat, dat hem wegens de psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap niet kan worden toegerekend.
 
-#### Artikel 40
+##### Artikel 40
 
 Niet strafbaar is hij die een feit begaat waartoe hij door overmacht is gedrongen.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Niet strafbaar is hij die een feit begaat, geboden door de noodzakelijke verdediging van eigen of eens anders lijf, eerbaarheid of goed tegen ogenblikkelijke, wederrechtelijke aanranding.
 
 2. Niet strafbaar is de overschrijding van de grenzen van noodzakelijke verdediging, indien zij het onmiddellijk gevolg is geweest van een hevige gemoedsbeweging, door de aanranding veroorzaakt.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Niet strafbaar is hij die een feit begaat ter uitvoering van een wettelijk voorschrift.
 
@@ -814,13 +836,13 @@ Niet strafbaar is hij die een feit begaat waartoe hij door overmacht is gedronge
 
 3. Met een ambtenaar wordt gelijkgesteld een persoon in de openbare dienst van een vreemde staat die in Nederland op door het volkenrecht toegelaten wijze zijn bediening uitoefent.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Niet strafbaar is hij die een feit begaat ter uitvoering van een ambtelijk bevel, gegeven door het daartoe bevoegde gezag.
 
 2. Een onbevoegd gegeven ambtelijk bevel heft de strafbaarheid niet op, tenzij het door de ondergeschikte te goeder trouw als bevoegd gegeven werd beschouwd en de nakoming daarvan binnen de kring van zijn ondergeschiktheid was gelegen.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Indien een ambtenaar door het begaan van een strafbaar feit een bijzondere ambtsplicht schendt of bij het begaan van een strafbaar feit gebruik maakt van macht, gelegenheid of middel hem door zijn ambt geschonken, kan de op het feit gestelde straf, met uitzondering van geldboete, met een derde worden verhoogd.
 
@@ -828,7 +850,7 @@ Niet strafbaar is hij die een feit begaat waartoe hij door overmacht is gedronge
 
 ## Titel IV. Poging en voorbereiding
 
-#### Artikel 45
+##### Artikel 45
 
 1. Poging tot misdrijf is strafbaar, wanneer het voornemen van de dader zich door een begin van uitvoering heeft geopenbaard.
 
@@ -838,7 +860,7 @@ Niet strafbaar is hij die een feit begaat waartoe hij door overmacht is gedronge
 
 4. De bijkomende straffen zijn voor poging dezelfde als voor het voltooide misdrijf.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Voorbereiding van een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld is strafbaar, wanneer de dader opzettelijk voorwerpen, stoffen, informatiedragers, ruimten of vervoermiddelen bestemd tot het begaan van dat misdrijf verwerft, vervaardigt, invoert, doorvoert, uitvoert of voorhanden heeft.
 
@@ -850,17 +872,17 @@ Niet strafbaar is hij die een feit begaat waartoe hij door overmacht is gedronge
 
 5. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
 
-#### Artikel 46a
+##### Artikel 46a
 
 Poging om een ander door een der in [artikel 47, eerste lid onder 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=V&artikel=47&z=2026-01-01&g=2026-01-01), vermelde middelen te bewegen om een misdrijf te begaan, is strafbaar, met dien verstande dat geen zwaardere straf wordt uitgesproken dan ter zake van poging tot het misdrijf of, indien zodanige poging niet strafbaar is, terzake van het misdrijf zelf kan worden opgelegd.
 
-#### Artikel 46b
+##### Artikel 46b
 
 Voorbereiding noch poging bestaat indien het misdrijf niet is voltooid tengevolge van omstandigheden van de wil van de dader afhankelijk.
 
 ## Titel III. Uitsluiting en verhoging van strafbaarheid
 
-#### Artikel 47
+##### Artikel 47
 
 1. Als daders van een strafbaar feit worden gestraft:
 
@@ -870,7 +892,7 @@ Voorbereiding noch poging bestaat indien het misdrijf niet is voltooid tengevolg
 
 2. Ten aanzien van de laatsten komen alleen die handelingen in aanmerking die zij opzettelijk hebben uitgelokt, benevens hun gevolgen.
 
-#### Artikel 48
+##### Artikel 48
 
 Als medeplichtigen van een misdrijf worden gestraft:
 
@@ -878,7 +900,7 @@ Als medeplichtigen van een misdrijf worden gestraft:
 
 - 2°. zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van het misdrijf.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Het maximum van de hoofdstraffen op het misdrijf gesteld wordt bij medeplichtigheid met een derde verminderd.
 
@@ -888,11 +910,11 @@ Als medeplichtigen van een misdrijf worden gestraft:
 
 4. Bij het bepalen van de straf komen alleen die handelingen in aanmerking die de medeplichtige opzettelijk heeft gemakkelijk gemaakt of bevorderd, benevens hun gevolgen.
 
-#### Artikel 50
+##### Artikel 50
 
 De persoonlijke omstandigheden waardoor de strafbaarheid uitgesloten, verminderd of verhoogd wordt, komen bij de toepassing van de strafwet alleen in aanmerking ten aanzien van die dader of medeplichtige wie zij persoonlijk betreffen.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Strafbare feiten kunnen worden begaan door natuurlijke personen en rechtspersonen.
 
@@ -906,17 +928,17 @@ De persoonlijke omstandigheden waardoor de strafbaarheid uitgesloten, verminderd
 
 3. Voor de toepassing van de vorige leden wordt met de rechtspersoon gelijkgesteld: de vennootschap zonder rechtspersoonlijkheid, de maatschap, de rederij en het doelvermogen.
 
-#### Artikel 52
+##### Artikel 52
 
 Medeplichtigheid aan overtreding is niet strafbaar.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Bij misdrijven door middel van de drukpers gepleegd wordt de uitgever als zodanig niet vervolgd, indien het gedrukte stuk zijn naam en woonplaats vermeldt en de dader bekend is of op de eerste aanmaning van de rechter-commissaris, door de uitgever is bekendgemaakt.
 
 2. Deze bepaling is niet toepasselijk, indien de dader op het tijdstip van de uitgave strafrechtelijk niet vervolgbaar of buiten het Rijk in Europa gevestigd was.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Bij misdrijven door middel van de drukpers gepleegd wordt de drukker als zodanig niet vervolgd, indien het gedrukte stuk zijn naam en woonplaats vermeldt en de persoon op wiens last het stuk is gedrukt, bekend is of op de eerste aanmaning van de rechter-commissaris, door de drukker is bekendgemaakt.
 
@@ -924,33 +946,33 @@ Medeplichtigheid aan overtreding is niet strafbaar.
 
 ## Titel IV. Poging en voorbereiding
 
-#### Artikel 55
+##### Artikel 55
 
 1. Valt een feit in meer dan één strafbepaling, dan wordt slechts één van die bepalingen toegepast, bij verschil die waarbij de zwaarste hoofdstraf is gesteld.
 
 2. Indien voor een feit dat in een algemene strafbepaling valt een bijzondere strafbepaling bestaat, komt deze alleen in aanmerking.
 
-#### Artikel 56
+##### Artikel 56
 
 1. Staan meerdere feiten, ofschoon elk op zichzelf misdrijf of overtreding opleverende, in zodanig verband dat zij moeten worden beschouwd als één voortgezette handeling, dan wordt slechts één strafbepaling toegepast, bij verschil die waarbij de zwaarste hoofdstraf is gesteld.
 
 2. Insgelijks wordt slechts één strafbepaling toegepast bij schuldigverklaring aan valsheid of muntschennis en aan het gebruikmaken van het voorwerp ten opzichte waarvan de valsheid of muntschennis gepleegd is.
 
-#### Artikel 57
+##### Artikel 57
 
 1. Bij samenloop van feiten die als op zichzelf staande handelingen moeten worden beschouwd en meer dan één misdrijf opleveren waarop gelijksoortige hoofdstraffen zijn gesteld, wordt één straf opgelegd.
 
 2. Het maximum van deze straf is het totaal van de hoogste straffen op de feiten gesteld, doch - voor zover het gevangenisstraf of hechtenis betreft - niet meer dan een derde boven het hoogste maximum.
 
-#### Artikel 58
+##### Artikel 58
 
 Bij samenloop van feiten die als op zichzelf staande handelingen moeten worden beschouwd en meer dan één misdrijf opleveren waarop ongelijksoortige hoofdstraffen zijn gesteld, kan elk van die straffen worden opgelegd, doch deze mogen - voor zover het gevangenisstraf en hechtenis betreft - te zamen in duur de langstdurende niet meer dan een derde overtreffen.
 
-#### Artikel 59
+##### Artikel 59
 
 Bij veroordeling tot levenslange gevangenisstraf kunnen daarnevens geen andere straffen worden opgelegd dan ontzetting van bepaalde rechten, verbeurdverklaring van reeds in beslag genomen voorwerpen en openbaarmaking van de rechterlijke uitspraak.
 
-#### Artikel 60
+##### Artikel 60
 
 In de gevallen van de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=57&z=2026-01-01&g=2026-01-01) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=58&z=2026-01-01&g=2026-01-01) gelden ten aanzien van bijkomende straffen de volgende bepalingen:
 
@@ -960,11 +982,11 @@ In de gevallen van de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 - 3°. de straffen van verbeurdverklaring van bepaalde voorwerpen worden voor elk misdrijf afzonderlijk en zonder vermindering opgelegd; de vervangende vrijheidsstraffen mogen gezamenlijk het maximum, bepaald in [artikel 24**c**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24c&z=2026-01-01&g=2026-01-01), niet overschrijden.
 
-#### Artikel 60a
+##### Artikel 60a
 
 Bij samenloop op de wijze in de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=57&z=2026-01-01&g=2026-01-01) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=58&z=2026-01-01&g=2026-01-01) bedoeld, geldt voor de maatregel genoemd in [artikel 36f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Eerste&artikel=36f&z=2026-01-01&g=2026-01-01) dat de vervangende vrijheidsstraffen gezamenlijk het maximum, bepaald in [artikel 24c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24c&z=2026-01-01&g=2026-01-01), niet mogen overschrijden.
 
-#### Artikel 61
+##### Artikel 61
 
 1. De betrekkelijke zwaarte van ongelijksoortige hoofdstraffen wordt bepaald door de volgorde van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=9&z=2026-01-01&g=2026-01-01).
 
@@ -974,23 +996,23 @@ Bij samenloop op de wijze in de [artikelen 57](https://wetten.overheid.nl/jci1.3
 
 4. De betrekkelijke duur, zowel van ongelijksoortige als van gelijksoortige hoofdstraffen, wordt eveneens bepaald door het maximum.
 
-#### Artikel 62
+##### Artikel 62
 
 1. Bij samenloop op de wijze in de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=57&z=2026-01-01&g=2026-01-01) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=58&z=2026-01-01&g=2026-01-01) bedoeld, hetzij van overtredingen met misdrijven, hetzij van overtredingen onderling, wordt voor elke overtreding zonder vermindering straf opgelegd.
 
 2. De vervangende vrijheidsstraffen mogen voor de misdrijven en overtredingen of voor de overtredingen gezamenlijk het maximum, bepaald in [artikel 24**c**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24c&z=2026-01-01&g=2026-01-01), niet overschrijden.
 
-#### Artikel 63
+##### Artikel 63
 
 Indien iemand, nadat hem een straf is opgelegd, schuldig wordt verklaard aan een misdrijf of een overtreding voor die strafoplegging gepleegd, zijn de bepalingen van deze titel voor het geval gelijktijdig straf wordt opgelegd van toepassing.
 
 ## Titel IIIa. Gronden voor vermindering van straf
 
-#### Artikel 64
+##### Artikel 64
 
 Inzake een misdrijf dat alleen op klacht wordt vervolgd, is degene tegen wie het feit is begaan, tot de klacht gerechtigd.
 
-#### Artikel 65
+##### Artikel 65
 
 1. Indien de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VII&artikel=64&z=2026-01-01&g=2026-01-01) aangewezen persoon de leeftijd van zestien jaren nog niet heeft bereikt of anders dan wegens verkwisting onder curatele is gesteld, dan wel aan een zodanige psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap lijdt dat hij niet in staat is te beoordelen of zijn belang gediend is met de klacht, geschiedt de klacht door zijn wettige vertegenwoordiger in burgerlijke zaken.
 
@@ -1000,19 +1022,19 @@ Inzake een misdrijf dat alleen op klacht wordt vervolgd, is degene tegen wie het
 
 4. Indien een in het tweede of derde lid aangewezen persoon de leeftijd van zestien jaren nog niet heeft bereikt of anders dan wegens verkwisting onder curatele is gesteld, dan wel aan een zodanige psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap lijdt dat hij niet in staat is te beoordelen of zijn belang gediend is met de klacht, kan vervolging plaatsvinden op klacht van diens wettige vertegenwoordiger in burgerlijke zaken.
 
-#### Artikel 66
+##### Artikel 66
 
 1. De klacht kan worden ingediend gedurende drie maanden na de dag waarop de tot klacht gerechtigde kennis heeft genomen van het gepleegde feit.
 
 2. Indien degene tegen wie het feit is begaan, nadat de termijn een aanvang heeft genomen, is overleden, dan wel het recht tot het indienen van de klacht heeft verloren, verkregen of herkregen, loopt deze termijn zonder verlenging door.
 
-#### Artikel 67
+##### Artikel 67
 
 Hij die de klacht indient, blijft gedurende acht dagen na de dag der indiening bevoegd deze in te trekken.
 
 ## Titel VI. Samenloop van strafbare feiten
 
-#### Artikel 68
+##### Artikel 68
 
 1. Behoudens de gevallen waarin rechterlijke uitspraken voor herziening vatbaar zijn, kan niemand andermaal worden vervolgd wegens een feit waarover te zijnen aanzien bij gewijsde van de rechter in Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba onherroepelijk is beslist.
 
@@ -1024,11 +1046,11 @@ Hij die de klacht indient, blijft gedurende acht dagen na de dag der indiening b
 
 3. Niemand kan worden vervolgd wegens een feit dat te zijnen aanzien in een vreemde staat onherroepelijk is afgedaan door de voldoening aan een voorwaarde, door de bevoegde autoriteit gesteld ter voorkoming van strafvervolging.
 
-#### Artikel 69
+##### Artikel 69
 
 Het recht tot strafvordering vervalt door de dood van de verdachte.
 
-#### Artikel 70
+##### Artikel 70
 
 1. Het recht tot strafvordering vervalt door verjaring:
 
@@ -1046,7 +1068,7 @@ Het recht tot strafvordering vervalt door de dood van de verdachte.
 
 - 2°. voor de misdrijven omschreven in de [artikelen 242](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=242&z=2026-01-01&g=2026-01-01), [243, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=243&z=2026-01-01&g=2026-01-01), [245](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=245&z=2026-01-01&g=2026-01-01), [246, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=246&z=2026-01-01&g=2026-01-01), [247, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=247&z=2026-01-01&g=2026-01-01), [249, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=249&z=2026-01-01&g=2026-01-01), [252](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=252&z=2026-01-01&g=2026-01-01), [253](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=253&z=2026-01-01&g=2026-01-01) en het misdrijf omschreven in [artikel 241, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=241&z=2026-01-01&g=2026-01-01), indien het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt.
 
-#### Artikel 71
+##### Artikel 71
 
 De termijn van verjaring vangt aan op de dag na die waarop het feit is gepleegd, behoudens in de volgende gevallen:
 
@@ -1060,17 +1082,17 @@ De termijn van verjaring vangt aan op de dag na die waarop het feit is gepleegd,
 
 - 5°. bij de overtredingen omschreven in de [artikelen 465](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=VIII&artikel=465&z=2026-01-01&g=2026-01-01), [466](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=VIII&artikel=466&z=2026-01-01&g=2026-01-01) en [467](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=VIII&artikel=467&z=2026-01-01&g=2026-01-01), op de dag na die waarop ingevolge de voorschriften gegeven in of ter uitvoering van [artikel 18c van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=18c), de aldaar bedoelde registers waaruit zodanige overtreding blijkt, naar de centrale bewaarplaats, bedoeld in [afdeling 8 van hoofdstuk 1 van het Besluit burgerlijke stand 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&afdeling=Achtste) zijn overgebracht.
 
-#### Artikel 72
+##### Artikel 72
 
 1. Elke daad van vervolging stuit de verjaring, ook ten aanzien van anderen dan de vervolgde.
 
 2. Na de stuiting vangt een nieuwe verjaringstermijn aan. Het recht tot strafvordering vervalt evenwel ten aanzien van overtredingen na tien jaren en ten aanzien van misdrijven indien vanaf de dag waarop de oorspronkelijke verjaringstermijn is aangevangen een periode is verstreken die gelijk is aan twee maal de voor het misdrijf geldende verjaringstermijn.
 
-#### Artikel 73
+##### Artikel 73
 
 De schorsing van de strafvervolging ter zake van een prejudicieel geschil schorst de verjaring.
 
-#### Artikel 74
+##### Artikel 74
 
 1. De officier van justitie kan voor de aanvang van de terechtzitting een of meer voorwaarden stellen ter voorkoming van de strafvervolging wegens misdrijven, met uitzondering van die waarop naar de wettelijke omschrijving gevangenisstraf is gesteld van meer dan zes jaar, en wegens overtreding. Door voldoening aan die voorwaarden vervalt het recht tot strafvordering.
 
@@ -1096,11 +1118,11 @@ De schorsing van de strafvervolging ter zake van een prejudicieel geschil schors
 
 6. Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omtrent de nakoming van de voorwaarde, bedoeld in het tweede lid, onderdeel a. Deze voorschriften hebben in ieder geval betrekking op de plaats en wijze van betaling van de geldsom, de termijn waarbinnen die betaling moet zijn geschied en de verantwoording van de ontvangen geldbedragen. Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gegeven omtrent de nakoming van de overige in het tweede lid bedoelde voorwaarden.
 
-#### Artikel 74a
+##### Artikel 74a
 
 Is op het strafbare feit naar de wettelijke omschrijving geen andere hoofdstraf gesteld dan geldboete en biedt de verdachte aan, binnen een door de officier van justitie te bepalen termijn, het maximum van de geldboete te betalen en aan alle overige, overeenkomstig [artikel 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=74&z=2026-01-01&g=2026-01-01), te stellen voorwaarden te voldoen, dan mag de officier van justitie het stellen van voorwaarden, als bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=74&z=2026-01-01&g=2026-01-01), niet weigeren.
 
-#### Artikel 74b
+##### Artikel 74b
 
 1. Een bevel als bedoeld in [artikel 12k van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12k) doet, na voldoening aan de overeenkomstig [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=74&z=2026-01-01&g=2026-01-01) gestelde voorwaarden, het recht tot strafvordering herleven als ware het niet vervallen geweest.
 
@@ -1110,23 +1132,23 @@ Is op het strafbare feit naar de wettelijke omschrijving geen andere hoofdstraf 
 
 4. Eindigt, na een bevel als bedoeld in het eerste lid, de zaak waarbij een voorwaarde is gesteld als bedoeld in [artikel 74, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=74&z=2026-01-01&g=2026-01-01), zonder oplegging van straf of maatregel, dan kan de rechter, op verzoek van de gewezen verdachte, deze een vergoeding ten laste van de staat toekennen voor de schade welke hij ten gevolge van de verrichtte onbetaalde arbeid of het gevolgde leerproject heeft geleden. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat. De [artikelen 533, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=533), [534](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=534), [535](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=535) en [536 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=536) zijn van overeenkomstige toepassing.
 
-#### Artikel 74c
+##### Artikel 74c
 
 Vervallen
 
-#### Artikel 75
+##### Artikel 75
 
 Vervallen
 
-#### Artikel 76
+##### Artikel 76
 
 Vervallen
 
-#### Artikel 76a
+##### Artikel 76a
 
 Vervallen
 
-#### Artikel 77
+##### Artikel 77
 
 1. Het recht tot strafvordering vervalt door de overdracht van de strafvervolging aan een vreemde staat overeenkomstig de bepalingen van [Titel 3 van het Vijfde Boek van het Wetboek van Strafvordering](onbekend).
 
@@ -1134,23 +1156,23 @@ Vervallen
 
 ## Titel VII. Indiening en intrekking van de klacht bij misdrijven alleen op klacht vervolgbaar
 
-#### Artikel 77a
+##### Artikel 77a
 
 Ten aanzien van degene die ten tijde van het begaan van een strafbaar feit de leeftijd van twaalf jaren doch nog niet die van achttien jaren heeft bereikt, zijn de [artikelen 9, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=9&z=2026-01-01&g=2026-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=10&z=2026-01-01&g=2026-01-01), [14a tot en met 22d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14a&z=2026-01-01&g=2026-01-01), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24b&z=2026-01-01&g=2026-01-01), [24c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24c&z=2026-01-01&g=2026-01-01), [27 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=27&z=2026-01-01&g=2026-01-01), [37a tot en met 38p](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Tweede&artikel=37a&z=2026-01-01&g=2026-01-01), [43a tot en met 44](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=III&artikel=44&z=2026-01-01&g=2026-01-01) en [57 tot en met 62](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VI&artikel=57&z=2026-01-01&g=2026-01-01) niet van toepassing. In de plaats daarvan treden de bijzondere bepalingen vervat in de [artikelen 77d tot en met 77gg](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77d&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 77b
+##### Artikel 77b
 
 1. Ten aanzien van degene die ten tijde van het begaan van een strafbaar feit de leeftijd van zestien jaren doch nog niet die van achttien jaren heeft bereikt, kan de rechter de [artikelen 77g tot en met 77gg](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77g&z=2026-01-01&g=2026-01-01) buiten toepassing laten en recht doen overeenkomstig de bepalingen in de voorgaande titels vervat, indien hij daartoe grond vindt in de ernst van het begane feit, de persoonlijkheid van de dader of de omstandigheden waaronder het feit is begaan.
 
 2. Bij toepassing van het eerste lid kan levenslange gevangenisstraf niet worden opgelegd.
 
-#### Artikel 77c
+##### Artikel 77c
 
 1. Ten aanzien van de jongvolwassene die ten tijde van het begaan van het strafbaar feit de leeftijd van achttien jaren doch nog niet die van drieëntwintig jaren heeft bereikt, kan de rechter, indien hij daartoe grond vindt in de persoonlijkheid van de dader of de omstandigheden waaronder het feit is begaan, recht doen overeenkomstig [de artikelen 77g tot en met 77hh](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77g&z=2026-01-01&g=2026-01-01).
 
 2. [Artikel 77e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77e&z=2026-01-01&g=2026-01-01) blijft buiten toepassing.
 
-#### Artikel 77d
+##### Artikel 77d
 
 1. De verjaringstermijn van het recht tot strafvordering, genoemd in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII&artikel=70&z=2026-01-01&g=2026-01-01), wordt ten aanzien van misdrijven tot de helft van de daar bedoelde duur ingekort.
 
@@ -1162,7 +1184,7 @@ Ten aanzien van degene die ten tijde van het begaan van een strafbaar feit de le
 
 - b. de misdrijven omschreven in de [artikelen 242](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=242&z=2026-01-01&g=2026-01-01), [243, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=243&z=2026-01-01&g=2026-01-01), [245](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=245&z=2026-01-01&g=2026-01-01), [246, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=246&z=2026-01-01&g=2026-01-01), [247, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=247&z=2026-01-01&g=2026-01-01), [249, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=249&z=2026-01-01&g=2026-01-01), [252](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=252&z=2026-01-01&g=2026-01-01), [253](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=253&z=2026-01-01&g=2026-01-01) en het misdrijf omschreven in [artikel 241, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=241&z=2026-01-01&g=2026-01-01), indien het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt.
 
-#### Artikel 77e
+##### Artikel 77e
 
 1. De opsporingsambtenaar die daartoe door de officier van justitie is aangewezen, kan na verkregen toestemming door de officier van justitie aan de verdachte voorstellen dat deze deelneemt aan een project. De deelneming strekt tot voorkoming van toezending van het opgemaakte proces-verbaal aan de officier van justitie. Bij algemene maatregel van bestuur worden de strafbare feiten aangewezen die op deze wijze kunnen worden afgedaan.
 
@@ -1180,7 +1202,7 @@ Ten aanzien van degene die ten tijde van het begaan van een strafbaar feit de le
 
 5. Indien de opsporingsambtenaar, bedoeld in het eerste lid, van oordeel is dat de verdachte naar behoren aan een project heeft deelgenomen, stelt hij de officier van justitie en de verdachte hiervan schriftelijk in kennis. Daarmee vervalt het recht tot strafvordering, behalve indien een bevel wordt gegeven als bedoeld in [artikel 12i van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12i). In dat geval houdt de rechter, indien hij een straf oplegt, rekening met de voltooide deelneming.
 
-#### Artikel 77f
+##### Artikel 77f
 
 1. In een strafbeschikking kan de officier van justitie tevens de aanwijzing geven dat:
 
@@ -1190,7 +1212,7 @@ Ten aanzien van degene die ten tijde van het begaan van een strafbaar feit de le
 
 2. In afwijking van [artikel 257a, tweede lid, onderdeel a, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) kan de officier van justitie in een strafbeschikking een taakstraf opleggen voor ten hoogste zestig uren.
 
-#### Artikel 77g
+##### Artikel 77g
 
 1. In plaats van de op een feit gestelde straffen worden de straffen en maatregelen opgelegd, in deze Titel voorzien.
 
@@ -1198,7 +1220,7 @@ Ten aanzien van degene die ten tijde van het begaan van een strafbaar feit de le
 
 3. Een maatregel kan zowel afzonderlijk als tezamen met hoofdstraffen, met bijkomende straffen en met andere maatregelen worden opgelegd.
 
-#### Artikel 77h
+##### Artikel 77h
 
 1. De hoofdstraffen zijn:
 
@@ -1234,7 +1256,7 @@ Ten aanzien van degene die ten tijde van het begaan van een strafbaar feit de le
 
 - f. vrijheidsbeperkende maatregel.
 
-#### Artikel 77i
+##### Artikel 77i
 
 1. De duur van de jeugddetentie is:
 
@@ -1246,21 +1268,21 @@ Ten aanzien van degene die ten tijde van het begaan van een strafbaar feit de le
 
 3. [Artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=27&z=2026-01-01&g=2026-01-01) is bij veroordeling tot jeugddetentie van overeenkomstige toepassing.
 
-#### Artikel 77j
+##### Artikel 77j
 
 Vervallen
 
-#### Artikel 77k
+##### Artikel 77k
 
 Vervallen
 
-#### Artikel 77l
+##### Artikel 77l
 
 1. Het bedrag van de geldboete is ten minste het bedrag, genoemd in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=23&z=2026-01-01&g=2026-01-01), en ten hoogste het maximum van een geldboete van de tweede categorie. [Artikel 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=24a&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing met dien verstande dat de rechter of de officier van justitie bij elke geldboete kan bepalen dat het bedrag in gedeelten kan worden voldaan. De rechter of de officier van justitie stelt daarbij de hoogte van elk van die gedeelten vast.
 
 2. De rechter kan bij de uitspraak waarbij geldboete wordt opgelegd, bevelen dat voor het geval volledige betaling noch volledig verhaal van het verschuldigde bedrag volgt, vervangende jeugddetentie zal worden toegepast.
 
-#### Artikel 77m
+##### Artikel 77m
 
 1. Het vonnis of de strafbeschikking vermeldt of de taakstraf bestaat uit een werkstraf, een leerstraf of een combinatie van beide, alsmede het aantal uren dat de straf zal duren. Het vonnis of de strafbeschikking kan de aard en inhoud van de te verrichten werkzaamheden of het te volgen leerproject vermelden.
 
@@ -1272,7 +1294,7 @@ Vervallen
 
 5. [Artikel 27, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=27&z=2026-01-01&g=2026-01-01), is bij veroordeling tot een taakstraf door de rechter van overeenkomstige toepassing.
 
-#### Artikel 77n
+##### Artikel 77n
 
 1. In het vonnis waarbij taakstraf wordt opgelegd, beveelt de rechter voor het geval dat de veroordeelde de taakstraf niet naar behoren verricht, dat vervangende jeugddetentie zal worden toegepast.
 
@@ -1280,23 +1302,23 @@ Vervallen
 
 3. De vervangende jeugddetentie beloopt ten minste één dag en ten hoogste vier maanden. Voor elke twee uren van de taakstraf wordt niet meer dan één dag opgelegd.
 
-#### Artikel 77o
+##### Artikel 77o
 
 Vervallen
 
-#### Artikel 77p
+##### Artikel 77p
 
 Vervallen
 
-#### Artikel 77q
+##### Artikel 77q
 
 Vervallen
 
-#### Artikel 77r
+##### Artikel 77r
 
 Ontzegging van de bevoegdheid motorrijtuigen te besturen is slechts mogelijk in de gevallen genoemd in de [artikelen 179](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=179), [179a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=179a) en [180 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=180) en in [artikel 30, zesde lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=30) (**Stb.** 1963, 228). Die artikelen zijn dan van overeenkomstige toepassing.
 
-#### Artikel 77s
+##### Artikel 77s
 
 1. Aan de verdachte bij wie ten tijde van het begaan van het misdrijf een gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens bestond, kan de maatregel van plaatsing in een inrichting voor jeugdigen worden opgelegd, indien
 
@@ -1318,7 +1340,7 @@ Ontzegging van de bevoegdheid motorrijtuigen te besturen is slechts mogelijk in 
 
 7. De maatregel geldt voor de tijd van drie jaar.
 
-#### Artikel 77t
+##### Artikel 77t
 
 1. Indien de maatregel voorwaardelijk eindigt op grond van [artikel 6:2:22, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:22) of op grond van het tweede lid, zijn daaraan van rechtswege de voorwaarden verbonden dat:
 
@@ -1328,21 +1350,21 @@ Ontzegging van de bevoegdheid motorrijtuigen te besturen is slechts mogelijk in 
 
 2. Een jaar nadat de maatregel voorwaardelijk is geëindigd, eindigt de maatregel van rechtswege onvoorwaardelijk, tenzij de voorwaardelijke beëindiging wordt verlengd met toepassing van [artikel 6:6:32 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:32). In de gevallen waarin de voorwaardelijke beëindiging is verlengd, eindigt de maatregel onvoorwaardelijk nadat de maximale duur van de voorwaardelijke beëindiging is bereikt.
 
-#### Artikel 77u
+##### Artikel 77u
 
 Vervallen
 
-#### Artikel 77v
+##### Artikel 77v
 
 Vervallen
 
-#### Artikel 77x
+##### Artikel 77x
 
 1. In geval van een veroordeling tot jeugddetentie, vervangende jeugddetentie daaronder niet begrepen, tot taakstraf, tot geldboete of tot ontzegging van de bevoegdheid motorrijtuigen te besturen, kan de rechter bepalen dat deze geheel of gedeeltelijk niet ten uitvoer zal worden gelegd.
 
 2. In geval van een veroordeling tot plaatsing in een inrichting voor jeugdigen kan de rechter bepalen dat deze niet ten uitvoer zal worden gelegd. [Artikel 6:6:10a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:10a) is van overeenkomstige toepassing.
 
-#### Artikel 77y
+##### Artikel 77y
 
 1. De rechter die bepaalt dat een door hem opgelegde straf of maatregel niet zal worden ten uitvoer gelegd, stelt daarbij een proeftijd vast van ten hoogste twee jaren.
 
@@ -1354,7 +1376,7 @@ Vervallen
 
 - c. indien de rechter een bevel als bedoeld in [artikel 77za, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77za&z=2026-01-01&g=2026-01-01), heeft gegeven, op de dag van de einduitspraak.
 
-#### Artikel 77z
+##### Artikel 77z
 
 1. Toepassing van [artikel 77x](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77x&z=2026-01-01&g=2026-01-01) geschiedt onder de algemene voorwaarde dat de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit.
 
@@ -1400,7 +1422,7 @@ Vervallen
 
 5. De voorwaarden in het tweede lid, onderdelen 10°, 11° of 15° en de gedragsinterventie, bedoeld in het tweede lid, onderdeel 13°, kunnen geheel of ten dele bestaan uit van jeugdhulp als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
 
-#### Artikel 77aa
+##### Artikel 77aa
 
 1. De rechter kan aan een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) of, in bijzondere gevallen en na overleg met een dergelijke rechtspersoon, aan een particulier persoon, opdracht geven toezicht te houden op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan te begeleiden.
 
@@ -1410,27 +1432,27 @@ Vervallen
 
 4. Bij algemene maatregel van bestuur, op de voordracht van Onze Minister van Justitie en Veiligheid en Onze Minister van Volksgezondheid, Welzijn en Sport, kunnen regels worden gesteld omtrent de aard en de omvang van het toezicht en de begeleiding, bedoeld in het eerste en tweede lid.
 
-#### Artikel 77bb
+##### Artikel 77bb
 
 [Artikel 366a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=366a) is van overeenkomstige toepassing op de mededeling van de veroordeling, waarbij [artikel 77x](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77x&z=2026-01-01&g=2026-01-01) en [77z](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77z&z=2026-01-01&g=2026-01-01) zijn toegepast.
 
-#### Artikel 77cc
+##### Artikel 77cc
 
 Vervallen
 
-#### Artikel 77dd
+##### Artikel 77dd
 
 Vervallen
 
-#### Artikel 77ee
+##### Artikel 77ee
 
 Vervallen
 
-#### Artikel 77ff
+##### Artikel 77ff
 
 Vervallen
 
-#### Artikel 77gg
+##### Artikel 77gg
 
 1. De straffen en maatregelen als bedoeld in deze Titel, zijn voor poging, voorbereiding, deelneming en medeplichtigheid dezelfde als die voor het voltooide misdrijf.
 
@@ -1438,53 +1460,53 @@ Vervallen
 
 ## Titel IX. Betekenis van sommige in het wetboek voorkomende uitdrukkingen
 
-#### Artikel 78
+##### Artikel 78
 
 Waar van misdrijf in het algemeen of van enig misdrijf in het bijzonder gesproken wordt, wordt daaronder medeplichtigheid aan, poging tot en voorbereiding van dat misdrijf begrepen, voorzover niet uit enige bepaling het tegendeel volgt.
 
-#### Artikel 79
+##### Artikel 79
 
 Aanslag tot een feit bestaat, zodra het voornemen van de dader zich door een begin van uitvoering, in de zin van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IV&artikel=45&z=2026-01-01&g=2026-01-01), heeft geopenbaard.
 
-#### Artikel 80
+##### Artikel 80
 
 Samenspanning bestaat zodra twee of meer personen overeengekomen zijn om het misdrijf te plegen.
 
-#### Artikel 80bis
+##### Artikel 80bis
 
 Onder omwenteling wordt verstaan het vernietigen of op onwettige wijze veranderen van de grondwettige regeringsvorm of de orde van troonopvolging.
 
-#### Artikel 80ter
+##### Artikel 80ter
 
 Onder verboden plaats wordt verstaan iedere plaats die als verboden plaats is aangewezen ingevolge de [Wet bescherming staatsgeheimen](https://wetten.overheid.nl/jci1.3:c:BWBR0002074).
 
-#### Artikel 80quater
+##### Artikel 80quater
 
 Onder gegeven waarvan de geheimhouding door het belang van de staat wordt geboden, wordt mede verstaan een gegeven, behorende tot of ontleend aan gegevens, hulpmiddelen of materialen of met behulp daarvan verrichte onderzoekingen of toegepaste werkmethoden, ter zake van de geheimhouding waarvan krachtens [artikel 68 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=68) gestelde regelen gelden.
 
-#### Artikel 80quinquies
+##### Artikel 80quinquies
 
 Onder gegevens wordt verstaan iedere weergave van feiten, begrippen of instructies, op een overeengekomen wijze, geschikt voor overdracht, interpretatie of verwerking door personen of geautomatiseerde werken.
 
-#### Artikel 80sexies
+##### Artikel 80sexies
 
 Onder geautomatiseerd werk wordt verstaan een apparaat of groep van onderling verbonden of samenhangende apparaten, waarvan er één of meer op basis van een programma automatisch computergegevens verwerken.
 
-#### Artikel 81
+##### Artikel 81
 
 Met het plegen van geweld wordt gelijkgesteld het brengen in een staat van bewusteloosheid of onmacht.
 
-#### Artikel 82
+##### Artikel 82
 
 1. Onder zwaar lichamelijk letsel worden begrepen: ziekte die geen uitzicht op volkomen genezing overlaat, voortdurende ongeschiktheid tot uitoefening van zijn ambts- of beroepsbezigheden, en afdrijving of dood van de vrucht van een vrouw.
 
 2. Onder zwaar lichamelijk letsel wordt mede begrepen storing van de verstandelijke vermogens die langer dan vier weken geduurd heeft.
 
-#### Artikel 82a
+##### Artikel 82a
 
 Onder een ander, of een kind bij of kort na de geboorte, van het leven beroven wordt begrepen: het doden van een vrucht die naar redelijkerwijs verwacht mag worden in staat is buiten het moederlichaam in leven te blijven.
 
-#### Artikel 84
+##### Artikel 84
 
 1. Onder ambtenaren worden begrepen leden van algemeen vertegenwoordigende organen.
 
@@ -1492,15 +1514,15 @@ Onder een ander, of een kind bij of kort na de geboorte, van het leven beroven w
 
 3. Allen die tot de gewapende macht behoren worden mede als ambtenaar beschouwd.
 
-#### Artikel 84bis
+##### Artikel 84bis
 
 Onder koopman wordt verstaan ieder die een bedrijf uitoefent.
 
-#### Artikel 84ter
+##### Artikel 84ter
 
 Vervallen
 
-#### Artikel 85
+##### Artikel 85
 
 1. Onder schipper wordt verstaan elke gezagvoerder van een vaartuig of die deze vervangt.
 
@@ -1510,11 +1532,11 @@ Vervallen
 
 4. Vaartuigen in aanbouw noch schepen in aanbouw worden als vaartuigen of schepen aangemerkt.
 
-#### Artikel 86
+##### Artikel 86
 
 Onder Nederlandse schepen worden alleen verstaan die vaartuigen die op grond van voor Nederland geldende rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren.
 
-#### Artikel 86a
+##### Artikel 86a
 
 1. Onder Nederlandse luchtvaartuigen worden verstaan:
 
@@ -1526,7 +1548,7 @@ Onder Nederlandse schepen worden alleen verstaan die vaartuigen die op grond van
 
 3. Een luchtvaartuig is in bedrijf van het begin van het gereedmaken van dat luchtvaartuig voor een bepaalde vlucht door het grondpersoneel of door de bemanning tot het moment dat sedert de landing vierentwintig uren zijn verstreken. De periode tijdens welke het luchtvaartuig in bedrijf is strekt zich in elk geval uit tot de gehele periode tijdens welke het luchtvaartuig in vlucht is, zoals omschreven in het tweede lid.
 
-#### Artikel 87
+##### Artikel 87
 
 1. Onder vijand worden begrepen opstandelingen.
 
@@ -1534,11 +1556,11 @@ Onder Nederlandse schepen worden alleen verstaan die vaartuigen die op grond van
 
 3. Onder tijd van oorlog wordt begrepen de tijd waarin oorlog dreigende is. Tijd van oorlog wordt mede geacht te bestaan zodra dienstplichtigen buitengewoon in werkelijke dienst worden opgeroepen en zolang zij buitengewoon in werkelijke dienst worden gehouden.
 
-#### Artikel 87a
+##### Artikel 87a
 
 Onder een bevriende staat wordt verstaan een buitenlandse mogendheid waarmede Nederland niet in een gewapend conflict is gewikkeld.
 
-#### Artikel 87b
+##### Artikel 87b
 
 1. Onder internationaal beschermd persoon wordt verstaan een persoon vallende onder de omschrijving van artikel 1, eerste lid, van het Verdrag inzake de voorkoming en bestraffing van misdrijven tegen internationaal beschermde personen, met inbegrip van diplomaten van 14 december 1973 (**Trb.** 1981, 69).
 
@@ -1546,41 +1568,41 @@ Onder een bevriende staat wordt verstaan een buitenlandse mogendheid waarmede Ne
 
 3. Onder beschermde goederen worden verstaan de goederen bedoeld in artikel 2, eerste lid, onder b, van het in het eerste lid genoemde verdrag en artikel 9, eerste lid, onderdeel b, van het in het tweede lid genoemde verdrag.
 
-#### Artikel 88
+##### Artikel 88
 
 Onder maand wordt verstaan een tijd van dertig dagen, onder dag, behoudens voor de toepassing van de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448), een tijd van vierentwintig uren.
 
-#### Artikel 89
+##### Artikel 89
 
 Onder inklimming wordt begrepen ondergraving, alsmede het overschrijden van sloten of grachten tot afsluiting dienende.
 
-#### Artikel 90
+##### Artikel 90
 
 Onder valse sleutels worden begrepen alle tot opening van het slot niet bestemde werktuigen.
 
-#### Artikel 90bis
+##### Artikel 90bis
 
 1. Onder opkoper wordt verstaan hij die van opkopen een beroep of een gewoonte maakt.
 
 2. Onder opkopen worden begrepen alle handelingen, hoe ook genaamd, waarmede kennelijk hetzelfde wordt beoogd.
 
-#### Artikel 90ter
+##### Artikel 90ter
 
 1. Onder electriciteitswerken worden verstaan werken dienende tot voortbrenging, geleiding, transformatie of levering van electriciteit en daarmede in verband staande beveiligings-, bevestigings-, ondersteunings- en waarschuwingswerken.
 
 2. Onder electriciteitswerken worden niet begrepen telegraaf- en telefoonwerken.
 
-#### Artikel 90quater
+##### Artikel 90quater
 
 1. Onder discriminatie of discrimineren wordt verstaan elke vorm van onderscheid, elke uitsluiting, beperking of voorkeur, die ten doel heeft of ten gevolge kan hebben dat de erkenning, het genot of de uitoefening op voet van gelijkheid van de rechten van de mens en de fundamentele vrijheden op politiek, economisch, sociaal of cultureel terrein of op andere terreinen van het maatschappelijk leven, wordt teniet gedaan of aangetast.
 
 2. Onder discriminatoir oogmerk wordt verstaan het oogmerk om haat tegen of discriminatie van een groep mensen wegens hun ras, hun godsdienst of levensovertuiging, hun geslacht, hun seksuele gerichtheid of hun handicap tot uitdrukking te brengen.
 
-#### Artikel 90quinquies
+##### Artikel 90quinquies
 
 Onder instelling voor verpleging van ter beschikking gestelden wordt verstaan een instelling bedoeld in [artikel 1.1, onderdeel g, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1).
 
-#### Artikel 90sexies
+##### Artikel 90sexies
 
 Onder psychiatrisch ziekenhuis wordt verstaan:
 
@@ -1588,17 +1610,17 @@ Onder psychiatrisch ziekenhuis wordt verstaan:
 
 - 2o. een accommodatie als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=1).
 
-#### Artikel 90septies
+##### Artikel 90septies
 
 Onder psychiater wordt verstaan een arts die bevoegd is de titel van psychiater of zenuwarts te voeren.
 
-#### Artikel 90octies
+##### Artikel 90octies
 
 Waar van huwelijk of echtgenoot wordt gesproken wordt, met uitzondering van [artikel 449](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=IV&artikel=449&z=2026-01-01&g=2026-01-01), daaronder mede begrepen geregistreerd partnerschap dan wel geregistreerde partner.
 
 ## Titel IX. Betekenis van sommige in het wetboek voorkomende uitdrukkingen
 
-#### Artikel 91
+##### Artikel 91
 
 De bepalingen van de Titels I-VIII A van dit Boek zijn ook toepasselijk op feiten waarop bij andere wetten of verordeningen straf is gesteld, tenzij de wet anders bepaalt.
 
@@ -1606,27 +1628,27 @@ De bepalingen van de Titels I-VIII A van dit Boek zijn ook toepasselijk op feite
 
 ## Slotbepaling
 
-#### Artikel 92
+##### Artikel 92
 
 De aanslag ondernomen met het oogmerk om de Koning, de regerende Koningin of de Regent van het leven of de vrijheid te beroven of tot regeren ongeschikt te maken, wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
-#### Artikel 93
+##### Artikel 93
 
 De aanslag ondernomen met het oogmerk om het Rijk geheel of gedeeltelijk onder vreemde heerschappij te brengen of om een deel daarvan af te scheiden, wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
-#### Artikel 94
+##### Artikel 94
 
 De aanslag ondernomen met het oogmerk om de grondwettige regeringsvorm of de orde van troonopvolging te vernietigen of op onwettige wijze te veranderen, wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
-#### Artikel 95
+##### Artikel 95
 
 Hij die door geweld of bedreiging met geweld een vergadering van de regeringsraad uiteenjaagt, tot het nemen of niet nemen van enig besluit dwingt, een lid uit die vergadering verwijdert of opzettelijk een lid verhindert die vergadering bij te wonen of daarin vrij en onbelemmerd zijn plicht te vervullen, wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
-#### Artikel 95a
+##### Artikel 95a
 
 Hij die door geweld of bedreiging met geweld een vergadering van de raad van ministers uiteenjaagt, tot het nemen of niet nemen van enig besluit dwingt, een lid uit die vergadering verwijdert of opzettelijk een lid verhindert die vergadering bij te wonen of daarin vrij en onbelemmerd zijn plicht te vervullen, wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
-#### Artikel 96
+##### Artikel 96
 
 1. De samenspanning tot een der in de [artikelen 92-95a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2026-01-01&g=2026-01-01) omschreven misdrijven wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
@@ -1642,17 +1664,17 @@ Hij die door geweld of bedreiging met geweld een vergadering van de raad van min
 
 - 5°. enige maatregel van regeringswege genomen om de uitvoering van het misdrijf te voorkomen of te onderdrukken, tracht te beletten, te belemmeren of te verijdelen.
 
-#### Artikel 97
+##### Artikel 97
 
 1. Hij die met een buitenlandse mogendheid in verbinding treedt, met het oogmerk om haar tot het plegen van vijandelijkheden of het voeren van oorlog tegen de staat te bewegen, haar in het daartoe opgevatte voornemen te versterken, haar daarbij hulp toe te zeggen of bij de voorbereiding hulp te verlenen, wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
 2. Handelingen gepleegd ter voorbereiding van een misdrijf als omschreven in het voorgaande lid, worden gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
-#### Artikel 97a
+##### Artikel 97a
 
 Hij die met een in het buitenland gevestigd persoon of lichaam in verbinding treedt met het oogmerk om een zodanig persoon of lichaam tot het verschaffen van steun aan het voorbereiden, bevorderen of teweegbrengen van omwenteling te bewegen, om een zodanig persoon of lichaam in het daartoe opgevatte voornemen te versterken of aan een zodanig persoon of lichaam daarbij hulp toe te zeggen of te verlenen, of om omwenteling voor te bereiden, te bevorderen of teweeg te brengen, wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
-#### Artikel 97b
+##### Artikel 97b
 
 Met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie wordt gestraft:
 
@@ -1660,13 +1682,13 @@ Met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde catego
 
 - 2°. hij die enig voorwerp onder zich heeft of tot onderwerp van een overeenkomst maakt dat geschikt is tot het verschaffen van stoffelijke steun aan het voorbereiden, bevorderen of teweegbrengen van omwenteling, indien hij weet of ernstige reden heeft om te vermoeden, dat het daartoe bestemd is en dat het voorwerp of enig ander voorwerp waarvoor het in de plaats is getreden, hetzij met die bestemming is ingevoerd, hetzij door of vanwege een in het buitenland gevestigd persoon of lichaam daartoe is bestemd.
 
-#### Artikel 98
+##### Artikel 98
 
 1. Hij die een inlichting waarvan de geheimhouding door het belang van de staat of van zijn bondgenoten wordt geboden, een voorwerp waaraan een zodanige inlichting kan worden ontleend, of zodanige gegevens opzettelijk verstrekt aan of ter beschikking stelt van een tot kennisneming daarvan niet gerechtigd persoon of lichaam, wordt, indien hij weet of redelijkerwijs moet vermoeden dat het een zodanige inlichting, een zodanig voorwerp of zodanige gegevens betreft, gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.
 
 2. Met dezelfde straf wordt gestraft hij die een inlichting die van een verboden plaats afkomstig is en tot de veiligheid van de staat of van zijn bondgenoten in betrekking staat, een voorwerp waaraan een zodanige inlichting kan worden ontleend, of zodanige gegevens opzettelijk verstrekt aan of ter beschikking stelt van een tot kennisneming daarvan niet gerechtigd persoon of lichaam, indien hij weet of redelijkerwijs moet vermoeden dat het een zodanige inlichting, een zodanig voorwerp of zodanige gegevens betreft.
 
-#### Artikel 98a
+##### Artikel 98a
 
 1. Hij die een inlichting, een voorwerp of gegevens als bedoeld in [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=98&z=2026-01-01&g=2026-01-01), hetzij opzettelijk openbaar maakt, hetzij zonder daartoe gerechtigd te zijn opzettelijk verstrekt aan of ter beschikking stelt van een buitenlandse mogendheid, een in het buitenland gevestigd persoon of lichaam, dan wel een zodanig persoon of lichaam dat gevaar ontstaat dat de inlichting of de gegevens aan een buitenlandse mogendheid of aan een in het buitenland gevestigd persoon of lichaam bekend wordt, wordt, indien hij weet of redelijkerwijs moet vermoeden dat het een zodanige inlichting of zodanige gegevens betreft, gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
@@ -1674,11 +1696,11 @@ Met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde catego
 
 3. Handelingen gepleegd ter voorbereiding van een misdrijf als omschreven in de voorgaande leden worden gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
-#### Artikel 98b
+##### Artikel 98b
 
 Hij aan wiens schuld te wijten is dat een inlichting, een voorwerp of gegevens als bedoeld in [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=98&z=2026-01-01&g=2026-01-01), openbaar worden gemaakt of ter beschikking komt van een tot kennisneming daarvan niet gerechtigd persoon of lichaam, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
-#### Artikel 98c
+##### Artikel 98c
 
 1. Met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie wordt gestraft:
 
@@ -1690,11 +1712,11 @@ Hij aan wiens schuld te wijten is dat een inlichting, een voorwerp of gegevens a
 
 2. De bepaling onder 3° is niet toepasselijk, indien de rechter blijkt dat de dader niet heeft gehandeld met het oogmerk bedoeld onder 2°.
 
-#### Artikel 99
+##### Artikel 99
 
 Hij die een hem van regeringswege opgedragen onderhandeling met een buitenlandse mogendheid opzettelijk ten nadele van de staat voert, wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
-#### Artikel 100
+##### Artikel 100
 
 Met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie wordt gestraft:
 
@@ -1702,23 +1724,23 @@ Met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde catego
 
 - 2°. hij die, in tijd van oorlog, enig voorschrift van regeringswege in het belang van de veiligheid van de staat gegeven en bekendgemaakt, opzettelijk overtreedt.
 
-#### Artikel 101
+##### Artikel 101
 
 De Nederlander die in het vooruitzicht van een oorlog met een buitenlandse mogendheid vrijwillig bij deze mogendheid in krijgsdienst treedt, wordt, indien de oorlog uitbreekt, gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
-#### Artikel 102
+##### Artikel 102
 
 Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie wordt gestraft hij die opzettelijk, in tijd van oorlog, de vijand hulp verleent of de staat tegenover de vijand benadeelt.
 
-#### Artikel 103
+##### Artikel 103
 
 De samenspanning tot het in [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=102&z=2026-01-01&g=2026-01-01) omschreven misdrijf wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
-#### Artikel 103a
+##### Artikel 103a
 
 Niet strafbaar is hij die een der in de [artikelen 102](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=102&z=2026-01-01&g=2026-01-01) en [103](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=103&z=2026-01-01&g=2026-01-01) omschreven misdrijven heeft begaan in de redelijke overtuiging het Nederlandse belang niet te schaden.
 
-#### Artikel 104
+##### Artikel 104
 
 Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft hij die, in tijd van oorlog, zonder oogmerk om de vijand hulp te verlenen of de staat tegenover de vijand te benadelen, opzettelijk:
 
@@ -1726,13 +1748,13 @@ Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categor
 
 - 2°. desertie van een krijgsman, in dienst van het Rijk, teweegbrengt of bevordert.
 
-#### Artikel 105
+##### Artikel 105
 
 1. Hij die, in tijd van oorlog, enige bedrieglijke handeling pleegt bij levering van benodigdheden ten dienste van de krijgsmacht, wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.
 
 2. Met dezelfde straf wordt gestraft hij die, met het opzicht over de levering van de goederen belast, de bedrieglijke handeling opzettelijk toelaat.
 
-#### Artikel 106
+##### Artikel 106
 
 1. Bij veroordeling wegens het in [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2026-01-01&g=2026-01-01) omschreven misdrijf, kan ontzetting van de in [artikel 28, eerste lid, onder 1°-4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken.
 
@@ -1740,127 +1762,127 @@ Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categor
 
 3. Bij veroordeling wegens het in [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=105&z=2026-01-01&g=2026-01-01) omschreven misdrijf, kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf begaan heeft en van de in [artikel 28, eerste lid, onder 1°-4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten, en kan openbaarmaking van de rechterlijke uitspraak worden gelast.
 
-#### Artikel 107
+##### Artikel 107
 
 De straffen gesteld op de in de [artikelen 102-105](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=102&z=2026-01-01&g=2026-01-01) omschreven feiten, zijn toepasselijk indien een van die feiten wordt gepleegd tegen of met betrekking tot de bondgenoten van de staat in een gemeenschappelijke oorlog.
 
-#### Artikel 107a
+##### Artikel 107a
 
 De [artikelen 100, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=100&z=2026-01-01&g=2026-01-01), en [101-107](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=101&z=2026-01-01&g=2026-01-01) vinden overeenkomstige toepassing in geval van een gewapend conflict dat niet als oorlog kan worden aangemerkt en waarbij Nederland is betrokken, hetzij ter individuele of collectieve zelfverdediging, hetzij tot herstel van internationale vrede en veiligheid.
 
 ## Titel I. Misdrijven tegen de veiligheid van de staat
 
-#### Artikel 108
+##### Artikel 108
 
 1. De aanslag op het leven of de vrijheid van de echtgenoot van de Koning, van de vermoedelijke opvolger van de Koning, of van diens echtgenoot, wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
 2. Indien de aanslag op het leven de dood ten gevolge heeft of met voorbedachten rade wordt ondernomen, wordt levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren opgelegd of geldboete van de vijfde categorie.
 
-#### Artikel 109
+##### Artikel 109
 
 Elke feitelijke aanranding van de persoon van de Koning die niet valt in een zwaardere strafbepaling wordt gestraft met gevangenisstraf van ten hoogste zeven jaren en zes maanden of geldboete van de vijfde categorie.
 
-#### Artikel 110
+##### Artikel 110
 
 Elke feitelijke aanranding van de persoon van de echtgenoot van de Koning, van de vermoedelijke opvolger van de Koning, van diens echtgenoot, of van de Regent die niet valt in een zwaardere strafbepaling wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
-#### Artikel 111
+##### Artikel 111
 
 Vervallen
 
-#### Artikel 112
+##### Artikel 112
 
 Vervallen
 
-#### Artikel 113
+##### Artikel 113
 
 Vervallen
 
-#### Artikel 114
+##### Artikel 114
 
 Bij veroordeling wegens een der in de [artikelen 108](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=108&z=2026-01-01&g=2026-01-01), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=109&z=2026-01-01&g=2026-01-01) en [110](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=110&z=2026-01-01&g=2026-01-01) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°-4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken.
 
 ## Slotbepaling
 
-#### Artikel 115
+##### Artikel 115
 
 1. De aanslag op het leven of de vrijheid van een hoofd van een bevriende staat wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
 2. Indien de aanslag op het leven de dood ten gevolge heeft of met voorbedachten rade wordt ondernomen, wordt levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie opgelegd.
 
-#### Artikel 116
+##### Artikel 116
 
 Elke feitelijke aanranding van de persoon van een hoofd van een bevriende staat, die niet valt in een zwaardere strafbepaling, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
-#### Artikel 117
+##### Artikel 117
 
 1. De aanslag op het leven of de vrijheid van een internationaal beschermd persoon wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.
 
 2. Indien de aanslag op het leven de dood ten gevolge heeft of met voorbedachte rade wordt ondernomen, wordt levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren opgelegd of geldboete van de vijfde categorie.
 
-#### Artikel 117a
+##### Artikel 117a
 
 Elke feitelijke aanranding van de persoon van een internationaal beschermd persoon, die niet valt in een zwaardere strafbepaling, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
-#### Artikel 117b
+##### Artikel 117b
 
 Hij die opzettelijk geweld pleegt tegen de beschermde goederen van een internationaal beschermd persoon wordt, indien daardoor gevaar voor de veiligheid of de vrijheid van die persoon te duchten is, gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.
 
-#### Artikel 118
+##### Artikel 118
 
 Vervallen
 
-#### Artikel 119
+##### Artikel 119
 
 Vervallen
 
-#### Artikel 120
+##### Artikel 120
 
 Bij veroordeling wegens een der in de [artikelen 115](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=115&z=2026-01-01&g=2026-01-01) en [116](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=116&z=2026-01-01&g=2026-01-01) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°-4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken.
 
 ## Titel III. Misdrijven tegen hoofden van bevriende Staten en andere internationaal beschermde personen
 
-#### Artikel 121
+##### Artikel 121
 
 Hij die door geweld of bedreiging met geweld een vergadering van de beide kamers der Staten-Generaal of van een van deze uiteenjaagt of tot het nemen of niet nemen van enig besluit dwingt, of een lid, een minister of een staatssecretaris uit die vergadering verwijdert of opzettelijk verhindert die bij te wonen of daarin vrij en onbelemmerd zijn plicht te vervullen, wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
-#### Artikel 122
+##### Artikel 122
 
 1. De samenspanning tot het in [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=121&z=2026-01-01&g=2026-01-01) omschreven misdrijf wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
 2. [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=96&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 123
+##### Artikel 123
 
 Hij die door geweld of bedreiging met geweld een vergadering van de staten van een provincie uiteenjaagt of tot het nemen of niet nemen van enig besluit dwingt of een lid, de voorzitter of een gedeputeerde uit die vergadering verwijdert of opzettelijk verhindert die bij te wonen of daarin vrij en onbelemmerd zijn plicht te vervullen, wordt gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.
 
-#### Artikel 124
+##### Artikel 124
 
 Hij die door geweld of bedreiging met geweld een vergadering van de raad van een gemeente uiteenjaagt of tot het nemen of niet nemen van enig besluit dwingt of een lid, de voorzitter of een wethouder uit die vergadering verwijdert of opzettelijk verhindert die bij te wonen of daarin vrij en onbelemmerd zijn plicht te vervullen, wordt gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.
 
-#### Artikel 125
+##### Artikel 125
 
 Hij die bij gelegenheid van een krachtens wettelijk voorschrift uitgeschreven verkiezing door geweld of bedreiging met geweld opzettelijk iemand verhindert zijn of eens anders kiesrecht vrij en onbelemmerd uit te oefenen, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
-#### Artikel 126
+##### Artikel 126
 
 1. Hij die bij gelegenheid van een krachtens wettelijk voorschrift uitgeschreven verkiezing door gift of belofte iemand omkoopt om zijn of eens anders kiesrecht hetzij niet, hetzij op bepaalde wijze uit te oefenen, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
 2. Dezelfde straf wordt toegepast op de kiezer of de gemachtigde van een kiezer die zich door gift of belofte tot een of ander laat omkopen.
 
-#### Artikel 127
+##### Artikel 127
 
 Hij die bij gelegenheid van een krachtens wettelijk voorschrift uitgeschreven verkiezing, enige bedrieglijke handeling pleegt waardoor een stem van onwaarde wordt of een ander dan de bij het uitbrengen van de stem bedoelde persoon wordt aangewezen, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
-#### Artikel 128
+##### Artikel 128
 
 Hij die opzettelijk zich voor een ander uitgevende, aan een krachtens wettelijk voorschrift uitgeschreven verkiezing deelneemt, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
-#### Artikel 129
+##### Artikel 129
 
 Hij die bij gelegenheid van een krachtens wettelijk voorschrift uitgeschreven verkiezing, opzettelijk een plaats gehad hebbende stemming verijdelt of enige bedrieglijke handeling pleegt waardoor aan de stemming een andere uitslag wordt gegeven dan door de wettig uitgebrachte stemmen zou zijn verkregen, wordt gestraft met gevangenisstraf van ten hoogste een jaar en zes maanden of geldboete van de vierde categorie.
 
-#### Artikel 130
+##### Artikel 130
 
 1. Bij veroordeling wegens een der in de [artikelen 121](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=121&z=2026-01-01&g=2026-01-01) en [123](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=123&z=2026-01-01&g=2026-01-01) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°-3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken.
 
@@ -1868,13 +1890,13 @@ Hij die bij gelegenheid van een krachtens wettelijk voorschrift uitgeschreven ve
 
 ## Titel IV. Misdrijven betreffende de uitoefening van staatsplichten en staatsrechten
 
-#### Artikel 131
+##### Artikel 131
 
 1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie.
 
 2. Indien het strafbare feit waartoe wordt opgeruid een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf inhoudt, wordt de gevangenisstraf, gesteld op het in het eerste lid omschreven feit, met een derde verhoogd.
 
-#### Artikel 132
+##### Artikel 132
 
 1. Hij die een geschrift of afbeelding waarin tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag wordt opgeruid, verspreidt, openlijk tentoonstelt of aanslaat of, om verspreid, openlijk tentoongesteld of aangeslagen te worden, in voorraad heeft, wordt, indien hij weet of ernstige reden heeft te vermoeden dat in het geschrift of de afbeelding zodanige opruiing voorkomt, gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vijfde categorie.
 
@@ -1882,31 +1904,31 @@ Hij die bij gelegenheid van een krachtens wettelijk voorschrift uitgeschreven ve
 
 3. Indien het strafbare feit waartoe bij geschrift of afbeelding wordt opgeruid een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf inhoudt, wordt de gevangenisstraf, gesteld op het in het eerste lid omschreven feit, met een derde verhoogd.
 
-#### Artikel 133
+##### Artikel 133
 
 Hij die in het openbaar, mondeling of bij geschrift of afbeelding, aanbiedt inlichtingen, gelegenheid of middelen te verschaffen om enig strafbaar feit te plegen, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
-#### Artikel 134
+##### Artikel 134
 
 1. Hij die een geschrift of afbeelding waarin wordt aangeboden inlichtingen, gelegenheid of middelen te verschaffen om enig strafbaar feit te plegen, verspreidt, openlijk tentoonstelt of aanslaat of, om verspreid, openlijk tentoongesteld of aangeslagen te worden, in voorraad heeft, wordt, indien hij weet of ernstige reden heeft om te vermoeden dat in het geschrift of de afbeelding zodanig aanbod voorkomt, gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
 
 2. Met dezelfde straf wordt gestraft hij die, met gelijke wetenschap of een gelijke reden tot vermoeden, de inhoud van een zodanig geschrift openlijk ten gehore brengt.
 
-#### Artikel 135
+##### Artikel 135
 
 Hij die, kennis dragende van een strafbare samenspanning, op een tijdstip waarop het plegen van deze misdrijven nog kan worden voorkomen, opzettelijk nalaat daarvan tijdig voldoende kennis te geven, hetzij aan de ambtenaren van de justitie of politie, hetzij aan de bedreigde, wordt, indien het misdrijf is gevolgd, gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-#### Artikel 136
+##### Artikel 136
 
 1. Hij die, kennis dragende van een voornemen tot het plegen van een der in de [artikelen 92-110](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=92&z=2026-01-01&g=2026-01-01) omschreven misdrijven, tot desertie in tijd van oorlog, tot militair verraad, tot moord, mensenroof of de in [artikel 243, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=243&z=2026-01-01&g=2026-01-01), omschreven misdrijven of tot een der in [Titel VII van dit Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&z=2026-01-01&g=2026-01-01) omschreven misdrijven dan wel een terroristisch misdrijf, op een tijdstip waarop het plegen van deze misdrijven nog kan worden voorkomen, opzettelijk nalaat daarvan tijdig voldoende kennis te geven, hetzij aan de ambtenaren van de justitie of politie, hetzij aan de bedreigde, wordt, indien het misdrijf is gevolgd, gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
 
 2. Dezelfde straf is toepasselijk op hem die, kennis dragende van enig in het eerste lid vermeld reeds gepleegd misdrijf waardoor levensgevaar is ontstaan, op een tijdstip waarop de gevolgen nog kunnen worden afgewend, opzettelijk nalaat daarvan gelijke kennisgeving te doen.
 
-#### Artikel 137
+##### Artikel 137
 
 De bepalingen van de [artikelen 135](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=135&z=2026-01-01&g=2026-01-01) en [136](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=136&z=2026-01-01&g=2026-01-01) zijn niet van toepassing op hem die door de kennisgeving gevaar voor een strafvervolging zou doen ontstaan voor zichzelf, voor een van zijn bloedverwanten of aangehuwden in de rechte linie of in de tweede of derde graad van de zijlinie, voor zijn echtgenoot of gewezen echtgenoot, of voor een ander bij wiens vervolging hij zich, uit hoofde van zijn ambt of beroep, van het afleggen van getuigenis zou kunnen verschonen.
 
-#### Artikel 137c
+##### Artikel 137c
 
 1. Hij die zich in het openbaar, mondeling of bij geschrift of afbeelding, opzettelijk beledigend uitlaat over een groep mensen wegens hun ras, hun godsdienst of levensovertuiging, hun seksuele gerichtheid of hun handicap, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
@@ -1918,13 +1940,13 @@ De bepalingen van de [artikelen 135](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 3. Indien het feit wordt gepleegd door een persoon die daarvan een beroep of gewoonte maakt of door twee of meer verenigde personen wordt gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie opgelegd.
 
-#### Artikel 137d
+##### Artikel 137d
 
 1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, aanzet tot haat tegen of discriminatie van mensen of gewelddadig optreden tegen persoon of goed van mensen wegens hun ras, hun godsdienst of levensovertuiging, hun geslacht, hun seksuele gerichtheid of hun handicap, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
 2. Indien het feit wordt gepleegd door een persoon die daarvan een beroep of gewoonte maakt of door twee of meer verenigde personen wordt gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie opgelegd.
 
-#### Artikel 137e
+##### Artikel 137e
 
 1. Hij die, anders dan ten behoeve van zakelijke berichtgeving:
 
@@ -1936,17 +1958,17 @@ wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van 
 
 2. Indien het feit wordt gepleegd door een persoon die daarvan een beroep of gewoonte maakt of door twee of meer verenigde personen wordt gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie opgelegd.
 
-#### Artikel 137f
+##### Artikel 137f
 
 Hij die deelneemt of geldelijke of andere stoffelijke steun verleent aan activiteiten gericht op discriminatie van mensen wegens hun ras, hun godsdienst, hun levensovertuiging, hun geslacht, hun seksuele gerichtheid of hun handicap, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
 
-#### Artikel 137g
+##### Artikel 137g
 
 1. Hij die, in de uitoefening van een ambt, beroep of bedrijf personen opzettelijk discrimineert wegens hun ras, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
 2. Indien het feit wordt gepleegd door een persoon die daarvan een gewoonte maakt of door twee of meer verenigde personen wordt gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie opgelegd.
 
-#### Artikel 138
+##### Artikel 138
 
 1. Hij die in de woning of het besloten lokaal of erf, bij een ander in gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van of vanwege de rechthebbende aanstonds verwijdert, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
@@ -1956,7 +1978,7 @@ Hij die deelneemt of geldelijke of andere stoffelijke steun verleent aan activit
 
 4. De in het eerste en derde lid bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien twee of meer verenigde personen het misdrijf plegen.
 
-#### Artikel 138a
+##### Artikel 138a
 
 1. Hij die in een woning of gebouw, waarvan het gebruik door de rechthebbende is beëindigd, wederrechtelijk binnendringt of wederrechtelijk aldaar vertoeft, wordt, als schuldig aan kraken, gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
@@ -1964,7 +1986,7 @@ Hij die deelneemt of geldelijke of andere stoffelijke steun verleent aan activit
 
 3. De in het eerste en tweede lid bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien twee of meer verenigde personen het misdrijf plegen.
 
-#### Artikel 139
+##### Artikel 139
 
 1. Hij die in een voor de openbare dienst bestemd lokaal wederrechtelijk binnendringt, of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van de bevoegde ambtenaar aanstonds verwijdert, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
 
@@ -1974,7 +1996,7 @@ Hij die deelneemt of geldelijke of andere stoffelijke steun verleent aan activit
 
 4. De in het eerste en derde lid bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien twee of meer verenigde personen het misdrijf plegen.
 
-#### Artikel 139a
+##### Artikel 139a
 
 1. Met gevangenisstraf van ten hoogste zes maanden of geldboete van de vierde categorie wordt gestraft hij die met een technisch hulpmiddel een gesprek dat in een woning, besloten lokaal of erf wordt gevoerd opzettelijk:
 
@@ -1990,7 +2012,7 @@ Hij die deelneemt of geldelijke of andere stoffelijke steun verleent aan activit
 
 - 3°. ter uitvoering van de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896).
 
-#### Artikel 139b
+##### Artikel 139b
 
 1. Met gevangenisstraf van ten hoogste drie maanden of geldboete van de derde categorie wordt gestraft hij die, met het oogmerk een gesprek dat elders dan in een woning, besloten lokaal of erf wordt gevoerd af te luisteren of op te nemen, dat gesprek met een technisch hulpmiddel heimelijk:
 
@@ -2000,7 +2022,7 @@ Hij die deelneemt of geldelijke of andere stoffelijke steun verleent aan activit
 
 2. [Artikel 139a, tweede lid, onder 1° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=139a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 139c
+##### Artikel 139c
 
 1. Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft hij die opzettelijk en wederrechtelijk met een technisch hulpmiddel gegevens aftapt of opneemt die niet voor hem bestemd zijn en die worden verwerkt of overgedragen door middel van telecommunicatie of door middel van een geautomatiseerd werk.
 
@@ -2012,7 +2034,7 @@ Hij die deelneemt of geldelijke of andere stoffelijke steun verleent aan activit
 
 - 3°. ten behoeve van de goede werking van een openbaar telecommunicatienetwerk, ten behoeve van de strafvordering, dan wel ter uitvoering van de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896).
 
-#### Artikel 139d
+##### Artikel 139d
 
 1. Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft hij die met het oogmerk dat daardoor een gesprek, telecommunicatie of andere gegevensoverdracht of andere gegevensverwerking door een geautomatiseerd werk wederrechtelijk wordt afgeluisterd, afgetapt of opgenomen, een technisch hulpmiddel op een bepaalde plaats aanwezig doet zijn.
 
@@ -2024,7 +2046,7 @@ Hij die deelneemt of geldelijke of andere stoffelijke steun verleent aan activit
 
 3. Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie wordt gestraft hij die het in het tweede lid bedoelde feit pleegt terwijl zijn oogmerk is gericht op een misdrijf als bedoeld in [artikel 138ab, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138ab&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 139e
+##### Artikel 139e
 
 Met gevangenisstraf van ten hoogste zes maanden of geldboete van de vierde categorie wordt gestraft:
 
@@ -2034,11 +2056,11 @@ Met gevangenisstraf van ten hoogste zes maanden of geldboete van de vierde categ
 
 - 3°. hij die een voorwerp als omschreven onder 1° opzettelijk ter beschikking stelt van een ander.
 
-#### Artikel 139f
+##### Artikel 139f
 
 Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die, gebruik makende van een technisch hulpmiddel waarvan de aanwezigheid niet op duidelijke wijze kenbaar is gemaakt, opzettelijk en wederrechtelijk van een persoon, aanwezig in een woning of op een andere niet voor het publiek toegankelijke plaats, een afbeelding vervaardigt.
 
-#### Artikel 139g
+##### Artikel 139g
 
 1. Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die niet-openbare gegevens:
 
@@ -2048,7 +2070,7 @@ Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categori
 
 2. Niet strafbaar is degene die te goeder trouw heeft kunnen aannemen dat het algemeen belang het verwerven, voorhanden hebben, ter beschikkingstellen, bekendmaken of gebruik van de gegevens, bedoeld in het eerste lid, vereiste.
 
-#### Artikel 140
+##### Artikel 140
 
 1. Deelneming aan een organisatie die tot oogmerk heeft het plegen van misdrijven, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
@@ -2060,7 +2082,7 @@ Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categori
 
 5. Onder deelneming als omschreven in het eerste lid wordt mede begrepen het verlenen van geldelijke of andere stoffelijke steun aan alsmede het werven van gelden of personen ten behoeve van de daar omschreven organisatie.
 
-#### Artikel 141
+##### Artikel 141
 
 1. Zij die openlijk in vereniging geweld plegen tegen personen of goederen, worden gestraft met gevangenisstraf van ten hoogste vier jaren en zes maanden of geldboete van de vierde categorie.
 
@@ -2074,57 +2096,57 @@ Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categori
 
 3. [Artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IX&artikel=81&z=2026-01-01&g=2026-01-01) blijft buiten toepassing.
 
-#### Artikel 142
+##### Artikel 142
 
 1. Hij die opzettelijk door valse alarmkreten of signalen de rust verstoort, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
 
 2. Hij die opzettelijk, zonder dat daartoe de noodzaak aanwezig is, gebruik maakt van een alarmnummer voor publieke diensten wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de derde categorie.
 
-#### Artikel 143
+##### Artikel 143
 
 Hij die door geweld of bedreiging met geweld een geoorloofde openbare vergadering of betoging verhindert, wordt gestraft met gevangenisstraf van ten hoogste negen maanden of geldboete van de derde categorie.
 
-#### Artikel 144
+##### Artikel 144
 
 Hij die door het verwekken van wanorde of het maken van gedruis een geoorloofde openbare vergadering opzettelijk stoort, of door het verwekken van wanorde een geoorloofde betoging opzettelijk stoort, wordt gestraft met gevangenisstraf van ten hoogste twee weken of geldboete van de tweede categorie.
 
-#### Artikel 145
+##### Artikel 145
 
 Hij die door geweld of bedreiging met geweld hetzij een geoorloofde openbare samenkomst tot het belijden van godsdienst of levensovertuiging, hetzij een geoorloofde godsdienstige of levensbeschouwelijke plechtigheid of lijkplechtigheid verhindert, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
-#### Artikel 146
+##### Artikel 146
 
 Hij die door het verwekken van wanorde of het maken van gedruis hetzij een geoorloofde openbare samenkomst tot het belijden van godsdienst of levensovertuiging, hetzij een geoorloofde godsdienstige of levensbeschouwelijke plechtigheid of lijkplechtigheid opzettelijk stoort, wordt gestraft met gevangenisstraf van ten hoogste twee maanden of geldboete van de tweede categorie.
 
-#### Artikel 147
+##### Artikel 147
 
 Vervallen
 
-#### Artikel 147a
+##### Artikel 147a
 
 Vervallen
 
-#### Artikel 148
+##### Artikel 148
 
 Hij die opzettelijk de geoorloofde toegang tot een begraafplaats of crematorium of het geoorloofd vervoer van een lijk naar een begraafplaats of crematorium verhindert of belemmert, wordt gestraft met gevangenisstraf van ten hoogste een maand of geldboete van de tweede categorie.
 
-#### Artikel 149
+##### Artikel 149
 
 Hij die opzettelijk een graf schendt of enig op een begraafplaats opgericht gedenkteken opzettelijk en wederrechtelijk vernielt of beschadigt, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
-#### Artikel 150
+##### Artikel 150
 
 Hij die opzettelijk en wederrechtelijk een lijk opgraaft of wegneemt of een opgegraven of weggenomen lijk verplaatst of vervoert, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
-#### Artikel 151
+##### Artikel 151
 
 Hij die een lijk begraaft, verbrandt, vernietigt, verbergt, wegvoert of wegmaakt, met het oogmerk om het feit of de oorzaak van het overlijden, dan wel van het dood ter wereld komen te verhelen, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-#### Artikel 151a
+##### Artikel 151a
 
 Hij die uit winstbejag opzettelijk bevordert dat een kind beneden de leeftijd van zes maanden hetwelk niet onder voogdij van een rechtspersoon staat, zonder voorafgaande schriftelijke toestemming van de raad voor de kinderbescherming, als pleegkind wordt opgenomen, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
-#### Artikel 151b
+##### Artikel 151b
 
 1. Degene die in de uitoefening van een beroep of bedrijf opzettelijk teweegbrengt of bevordert dat een draagmoeder of een vrouw die draagmoeder wenst te worden, rechtstreeks of middellijk met een ander onderhandelt of een afspraak maakt ten einde het voornemen, bedoeld in het derde lid, uit te voeren, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
 
@@ -2136,7 +2158,7 @@ Hij die uit winstbejag opzettelijk bevordert dat een kind beneden de leeftijd va
 
 3. Als draagmoeder wordt aangemerkt de vrouw die zwanger is geworden met het voornemen een kind te baren ten behoeve van een ander die het ouderlijk gezag over dat kind wil verwerven, dan wel anderszins duurzaam de verzorging en opvoeding van dat kind op zich wil nemen.
 
-#### Artikel 151c
+##### Artikel 151c
 
 1. Degene die in de uitoefening van een beroep of bedrijf opzettelijk teweegbrengt of bevordert dat een vrouw rechtstreeks of middellijk met een ander onderhandelt of een afspraak maakt in verband met de wens van die vrouw de verzorging en opvoeding van haar kind duurzaam aan een ander over te laten, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
@@ -2148,31 +2170,31 @@ Hij die uit winstbejag opzettelijk bevordert dat een kind beneden de leeftijd va
 
 ## Titel IV. Misdrijven betreffende de uitoefening van staatsplichten en staatsrechten
 
-#### Artikel 152
+##### Artikel 152
 
 1. Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 138b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138b&z=2026-01-01&g=2026-01-01), en [140a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=140a&z=2026-01-01&g=2026-01-01) kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde recht worden uitgesproken.
 
 2. Bij veroordeling wegens het misdrijf omschreven in [artikel 140](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=140&z=2026-01-01&g=2026-01-01) kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken en kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf heeft gepleegd.
 
-#### Artikel 153
+##### Artikel 153
 
 Vervallen
 
-#### Artikel 154
+##### Artikel 154
 
 Vervallen
 
-#### Artikel 155
+##### Artikel 155
 
 Vervallen
 
-#### Artikel 156
+##### Artikel 156
 
 Vervallen
 
 ## Titel V. Misdrijven tegen de openbare orde
 
-#### Artikel 157
+##### Artikel 157
 
 Hij die opzettelijk brand sticht, een ontploffing teweegbrengt of een overstroming veroorzaakt, wordt gestraft:
 
@@ -2182,7 +2204,7 @@ Hij die opzettelijk brand sticht, een ontploffing teweegbrengt of een overstromi
 
 - 3°. met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
 
-#### Artikel 158
+##### Artikel 158
 
 Hij aan wiens schuld brand, ontploffing of overstroming te wijten is, wordt gestraft:
 
@@ -2192,15 +2214,15 @@ Hij aan wiens schuld brand, ontploffing of overstroming te wijten is, wordt gest
 
 - 3°. met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie, indien het feit iemands dood ten gevolge heeft.
 
-#### Artikel 159
+##### Artikel 159
 
 Hij die opzettelijk bij of in het vooruitzicht van brand blusgereedschappen of blusmiddelen wederrechtelijk verbergt of onbruikbaar maakt, of op enige wijze de blussing van brand verhindert of belemmert, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
-#### Artikel 160
+##### Artikel 160
 
 Hij die opzettelijk bij of in het vooruitzicht van watersnood dijkmaterialen of gereedschappen wederrechtelijk verbergt of onbruikbaar maakt, enige poging tot herstel van dijken of andere waterstaatswerken verijdelt, of de aangewende middelen tot het voorkomen of stuiten van overstroming tegenwerkt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
-#### Artikel 161
+##### Artikel 161
 
 Hij die opzettelijk enig werk dienend tot waterkering, waterlozing, gas- of waterleiding of riolering vernielt, onbruikbaar maakt of beschadigt, wordt gestraft:
 
@@ -2210,7 +2232,7 @@ Hij die opzettelijk enig werk dienend tot waterkering, waterlozing, gas- of wate
 
 - 3º. met gevangenisstraf van ten hoogste vijften jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
 
-#### Artikel 161bis
+##### Artikel 161bis
 
 Hij die opzettelijk enig electriciteitswerk vernielt, beschadigt of onbruikbaar maakt, stoornis in de gang of in de werking van zodanig werk veroorzaakt, of een ten opzichte van zodanig werk genomen veiligheidsmaatregel verijdelt, wordt gestraft:
 
@@ -2222,7 +2244,7 @@ Hij die opzettelijk enig electriciteitswerk vernielt, beschadigt of onbruikbaar 
 
 - 4°. met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
 
-#### Artikel 161ter
+##### Artikel 161ter
 
 Hij aan wiens schuld te wijten is, dat enig electriciteitswerk wordt vernield, beschadigd, of onbruikbaar gemaakt, dat stoornis in de gang of in de werking van zodanig werk ontstaat, of dat een ten opzichte van zodanig werk genomen veiligheidsmaatregel wordt verijdeld, wordt gestraft:
 
@@ -2232,7 +2254,7 @@ Hij aan wiens schuld te wijten is, dat enig electriciteitswerk wordt vernield, b
 
 - 3°. met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie, indien het feit iemands dood ten gevolge heeft.
 
-#### Artikel 161quater
+##### Artikel 161quater
 
 Hij die opzettelijk mensen, dieren, planten of goederen aan ioniserende stralen blootstelt, dan wel mensen, dieren, planten, goederen, bodem, water of lucht met radioactieve stoffen besmet, wordt gestraft:
 
@@ -2240,7 +2262,7 @@ Hij die opzettelijk mensen, dieren, planten of goederen aan ioniserende stralen 
 
 - 2°. met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
 
-#### Artikel 161quinquies
+##### Artikel 161quinquies
 
 Hij aan wiens schuld te wijten is dat mensen, dieren, planten of goederen aan ioniserende stralen worden blootgesteld, dan wel mensen, dieren, planten, goederen, bodem, water of lucht met radioactieve stoffen worden besmet, wordt gestraft:
 
@@ -2248,7 +2270,7 @@ Hij aan wiens schuld te wijten is dat mensen, dieren, planten of goederen aan io
 
 - 2°. met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
 
-#### Artikel 161sexies
+##### Artikel 161sexies
 
 Hij die opzettelijk enig geautomatiseerd werk of enig werk voor telecommunicatie vernielt, beschadigt of onbruikbaar maakt, stoornis in de gang of in de werking van zodanig werk veroorzaakt, of een ten opzichte van zodanig werk genomen veiligheidsmaatregel verijdelt, wordt gestraft:
 
@@ -2258,7 +2280,7 @@ Hij die opzettelijk enig geautomatiseerd werk of enig werk voor telecommunicatie
 
 - 3°. met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
 
-#### Artikel 161septies
+##### Artikel 161septies
 
 Hij aan wiens schuld te wijten is dat enig geautomatiseerd werk of enig werk voor telecommunicatie wordt vernield, beschadigd of onbruikbaar gemaakt, dat stoornis in de gang of in de werking van zodanig werk ontstaat, of dat een ten opzichte van zodanig werk genomen veiligheidsmaatregel wordt verijdeld, wordt gestraft:
 
@@ -2268,7 +2290,7 @@ Hij aan wiens schuld te wijten is dat enig geautomatiseerd werk of enig werk voo
 
 - 3°. met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie, indien het feit iemands dood ten gevolge heeft.
 
-#### Artikel 162
+##### Artikel 162
 
 Hij die opzettelijk enig werk dienende voor het openbaar verkeer of het luchtverkeer vernielt, onbruikbaar maakt of beschadigt, enige openbare land- of waterweg verspert of een ten aanzien van zodanig werk of van zodanige weg genomen veiligheidsmaatregel verijdelt, wordt gestraft:
 
@@ -2276,7 +2298,7 @@ Hij die opzettelijk enig werk dienende voor het openbaar verkeer of het luchtver
 
 - 2°. met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daarvan gevaar voor de veiligheid van het verkeer te duchten is en het feit iemands dood ten gevolge heeft.
 
-#### Artikel 162a
+##### Artikel 162a
 
 Hij die opzettelijk op een luchthaven een luchtvaartuig buiten bedrijf of enige voorziening vernielt, onbruikbaar maakt of beschadigt, dan wel de diensten op een luchthaven verstoort, wordt gestraft:
 
@@ -2284,7 +2306,7 @@ Hij die opzettelijk op een luchthaven een luchtvaartuig buiten bedrijf of enige 
 
 - 2°. met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daarvan gevaar voor de veiligheid van de luchtvaart of gemeen gevaar voor goederen, gebouwen of diensten op de luchthaven te duchten valt en het feit iemands dood ten gevolge heeft.
 
-#### Artikel 163
+##### Artikel 163
 
 Hij aan wiens schuld te wijten is dat enig werk dienende voor het openbaar verkeer of het luchtverkeer wordt vernield, onbruikbaar gemaakt of beschadigd, enige openbare land- of waterweg versperd of een ten aanzien van zodanig werk of van zodanige weg genomen veiligheidsmaatregel verijdeld wordt, wordt gestraft:
 
@@ -2292,19 +2314,19 @@ Hij aan wiens schuld te wijten is dat enig werk dienende voor het openbaar verke
 
 - 2°. met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie, indien het feit iemands dood ten gevolge heeft.
 
-#### Artikel 164
+##### Artikel 164
 
 1. Hij die opzettelijk gevaar veroorzaakt voor het verkeer door mechanische kracht over een spoorweg of voor het luchtverkeer, wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
 2. Indien het feit iemands dood ten gevolge heeft, wordt de schuldige gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
-#### Artikel 165
+##### Artikel 165
 
 1. Hij aan wiens schuld te wijten is dat gevaar ontstaat voor het verkeer door mechanische kracht over een spoorweg of voor het luchtverkeer, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
 
 2. Indien het feit iemands dood ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-#### Artikel 166
+##### Artikel 166
 
 Hij die opzettelijk een voor de veiligheid van de scheepvaart of luchtvaart gesteld teken of hulpmiddel vernielt, beschadigt, wegneemt of verplaatst, de werking daarvan verijdelt of een verkeerd teken stelt, wordt gestraft:
 
@@ -2314,7 +2336,7 @@ Hij die opzettelijk een voor de veiligheid van de scheepvaart of luchtvaart gest
 
 - 3°. met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie, indien daarvan gevaar voor de veiligheid van de scheepvaart of luchtvaart te duchten is en het feit iemands dood ten gevolge heeft.
 
-#### Artikel 167
+##### Artikel 167
 
 Hij aan wiens schuld vernieling, beschadiging, wegneming of verplaatsing van een voor de veiligheid van de scheepvaart of luchtvaart gesteld teken of hulpmiddel dan wel de verijdeling van de werking daarvan of het stellen van een verkeerd teken te wijten is, wordt gestraft:
 
@@ -2324,7 +2346,7 @@ Hij aan wiens schuld vernieling, beschadiging, wegneming of verplaatsing van een
 
 - 3°. met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie, indien het feit iemands dood ten gevolge heeft.
 
-#### Artikel 168
+##### Artikel 168
 
 Hij die enig vaartuig, voertuig of luchtvaartuig opzettelijk en wederrechtelijk doet zinken, stranden of verongelukken, vernielt, onbruikbaar maakt of beschadigt, wordt gestraft:
 
@@ -2332,7 +2354,7 @@ Hij die enig vaartuig, voertuig of luchtvaartuig opzettelijk en wederrechtelijk 
 
 - 2°. met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
 
-#### Artikel 169
+##### Artikel 169
 
 Hij aan wiens schuld te wijten is dat enig vaartuig, voertuig of luchtvaartuig zinkt, strandt of verongelukt, vernield, onbruikbaar gemaakt of beschadigd wordt, wordt gestraft:
 
@@ -2340,7 +2362,7 @@ Hij aan wiens schuld te wijten is dat enig vaartuig, voertuig of luchtvaartuig z
 
 - 2°. met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie, indien het feit iemands dood ten gevolge heeft.
 
-#### Artikel 170
+##### Artikel 170
 
 Hij die enig gebouw, getimmerte, installatie ter zee of voor het publiek toegankelijke plaats opzettelijk vernielt of beschadigt, wordt gestraft:
 
@@ -2350,7 +2372,7 @@ Hij die enig gebouw, getimmerte, installatie ter zee of voor het publiek toegank
 
 - 3°. met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
 
-#### Artikel 171
+##### Artikel 171
 
 Hij aan wiens schuld de vernieling of beschadiging van enig gebouw, getimmerte, installatie ter zee of voor het publiek toegankelijke plaats te wijten is, wordt gestraft:
 
@@ -2360,7 +2382,7 @@ Hij aan wiens schuld de vernieling of beschadiging van enig gebouw, getimmerte, 
 
 - 3°. met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie, indien het feit iemands dood ten gevolge heeft.
 
-#### Artikel 172
+##### Artikel 172
 
 1. Hij die opzettelijk en wederrechtelijk een stof in een inrichting ten behoeve van de drinkwatervoorziening of in een tot gezamenlijk gebruik van of met anderen bestemde waterleiding brengt, dan wel de aanmaak van drinkwater in of de toevoer van drinkwater vanuit de openbare drinkwatervoorziening belemmert, wordt gestraft:
 
@@ -2370,7 +2392,7 @@ Hij aan wiens schuld de vernieling of beschadiging van enig gebouw, getimmerte, 
 
 2. Hij die opzettelijk enig voor de openbare drinkwatervoorziening bestemd werk vernielt, beschadigt of onbruikbaar maakt, stoornis in de gang of in de werking van zodanig werk veroorzaakt, of een ten opzichte van zodanig werk genomen veiligheidsmaatregel verijdelt, wordt, indien daardoor verhindering of bemoeilijking van de openbare drinkwatervoorziening te duchten is, gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
 
-#### Artikel 173
+##### Artikel 173
 
 1. Hij aan wiens schuld te wijten is, dat wederrechtelijk een stof in een inrichting ten behoeve van de drinkwatervoorziening of in een tot gezamenlijk gebruik van of met anderen bestemde waterleiding, wordt gebracht, wordt gestraft:
 
@@ -2380,7 +2402,7 @@ Hij aan wiens schuld de vernieling of beschadiging van enig gebouw, getimmerte, 
 
 2. Hij aan wiens schuld te wijten is, dat enig voor de openbare drinkwatervoorziening bestemd werk wordt vernield, beschadigd, of onbruikbaar gemaakt, dat stoornis in de gang of in de werking van een zodanig werk ontstaat of dat een ten opzichte van zodanig werk genomen veiligheidsmaatregel wordt verijdeld, wordt, indien daardoor verhindering of bemoeilijking van de openbare drinkwatervoorziening te duchten is, gestraft met een gevangenisstraf van ten hoogste zes maanden of geldboete van de vierde categorie.
 
-#### Artikel 173a
+##### Artikel 173a
 
 Hij die opzettelijk en wederrechtelijk een stof op of in de bodem, in de lucht of in het oppervlaktewater brengt, wordt gestraft:
 
@@ -2388,7 +2410,7 @@ Hij die opzettelijk en wederrechtelijk een stof op of in de bodem, in de lucht o
 
 - 2°. met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
 
-#### Artikel 173b
+##### Artikel 173b
 
 Hij aan wiens schuld te wijten is, dat wederrechtelijk een stof op of in de bodem, in de lucht of in het oppervlaktewater wordt gebracht, wordt gestraft:
 
@@ -2396,19 +2418,19 @@ Hij aan wiens schuld te wijten is, dat wederrechtelijk een stof op of in de bode
 
 - 2°. met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
 
-#### Artikel 174
+##### Artikel 174
 
 1. Hij die waren verkoopt, te koop aanbiedt, aflevert of uitdeelt, wetende dat zij voor het leven of de gezondheid schadelijk zijn, en dat schadelijk karakter verzwijgende, wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
 2. Indien het feit iemands dood ten gevolge heeft, wordt de schuldige gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
-#### Artikel 175
+##### Artikel 175
 
 1. Hij aan wiens schuld te wijten is dat waren, schadelijk voor het leven of de gezondheid, verkocht, afgeleverd of uitgedeeld worden, zonder dat de koper of verkrijger met dat schadelijk karakter bekend is, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
 
 2. Indien het feit iemands dood ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-#### Artikel 175a
+##### Artikel 175a
 
 Hij die in geval van oorlog opzettelijk een bekendgemaakt bevel, bedoeld in [artikel 7 van de Wet bescherming bevolking](https://wetten.overheid.nl/jci1.3:c:BWBR0002096&artikel=7) (**Stb.** 1952, 404), dan wel een bij of krachtens een van de algemene maatregelen van bestuur, bedoeld in [artikel 29 van de Intrekkingswet BB](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&artikel=29) (**Stb.** 1986, 312), gegeven en bekendgemaakt voorschrift overtreedt, wordt gestraft:
 
@@ -2418,7 +2440,7 @@ Hij die in geval van oorlog opzettelijk een bekendgemaakt bevel, bedoeld in [art
 
 - 3°. met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
 
-#### Artikel 175b
+##### Artikel 175b
 
 Hij aan wiens schuld in geval van oorlog overtreding te wijten is van een bekendgemaakt bevel, bedoeld in [artikel 7 van de Wet bescherming bevolking](https://wetten.overheid.nl/jci1.3:c:BWBR0002096&artikel=7), dan wel van een bij of krachtens een van de algemene maatregelen van bestuur, bedoeld in [artikel 29 van de Intrekkingswet BB](https://wetten.overheid.nl/jci1.3:c:BWBR0003986&artikel=29), gegeven en bekendgemaakt voorschrift, wordt gestraft:
 
@@ -2428,7 +2450,7 @@ Hij aan wiens schuld in geval van oorlog overtreding te wijten is van een bekend
 
 - 3°. met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie, indien het feit iemands dood ten gevolge heeft.
 
-#### Artikel 176
+##### Artikel 176
 
 1. Bij veroordeling wegens enig in deze titel omschreven misdrijf kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf begaan heeft.
 
@@ -2436,7 +2458,7 @@ Hij aan wiens schuld in geval van oorlog overtreding te wijten is van een bekend
 
 ## Titel VII. Misdrijven waardoor de algemene veiligheid van personen of goederen wordt in gevaar gebracht
 
-#### Artikel 177
+##### Artikel 177
 
 1. Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft:
 
@@ -2452,11 +2474,11 @@ Hij aan wiens schuld in geval van oorlog overtreding te wijten is van een bekend
 
 5. Indien het feit is gepleegd ten behoeve van een buitenlandse mogendheid wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 
-#### Artikel 177a
+##### Artikel 177a
 
 Vervallen
 
-#### Artikel 178
+##### Artikel 178
 
 1. Hij die een rechter een gift of belofte doet dan wel een dienst verleent of aanbiedt met het oogmerk invloed uit te oefenen op de beslissing van een aan diens oordeel onderworpen zaak, wordt gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.
 
@@ -2468,7 +2490,7 @@ Vervallen
 
 5. Indien het feit is gepleegd ten behoeve van een buitenlandse mogendheid wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 
-#### Artikel 178a
+##### Artikel 178a
 
 1. Met ambtenaren worden ten aanzien van [artikel 177](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=177&z=2026-01-01&g=2026-01-01) gelijkgesteld personen in de openbare dienst van een vreemde staat of van een volkenrechtelijke organisatie.
 
@@ -2476,17 +2498,17 @@ Vervallen
 
 3. Met rechter wordt ten aanzien van [artikel 178](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=178&z=2026-01-01&g=2026-01-01) gelijkgesteld de rechter van een vreemde staat of van een volkenrechtelijke organisatie.
 
-#### Artikel 179
+##### Artikel 179
 
 1. Hij die door geweld of enige andere feitelijkheid of bedreiging met geweld of enige andere feitelijkheid een ambtenaar dwingt tot het volvoeren van een ambtsverrichting of het nalaten van een rechtmatige ambtsverrichting, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
 2. Bij veroordeling wegens het misdrijf omschreven in het eerste lid kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken en kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf heeft gepleegd.
 
-#### Artikel 180
+##### Artikel 180
 
 Hij die zich met geweld of bedreiging met geweld verzet tegen een ambtenaar werkzaam in de rechtmatige uitoefening van zijn bediening, of tegen personen die hem daarbij krachtens wettelijke verplichting of op zijn verzoek bijstand verlenen, wordt als schuldig aan wederspannigheid gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
-#### Artikel 181
+##### Artikel 181
 
 De dwang en de wederspannigheid in de [artikelen 179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=179&z=2026-01-01&g=2026-01-01) en [180](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=180&z=2026-01-01&g=2026-01-01) omschreven worden gestraft:
 
@@ -2496,7 +2518,7 @@ De dwang en de wederspannigheid in de [artikelen 179](https://wetten.overheid.nl
 
 - 3°. met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien zij de dood ten gevolge hebben.
 
-#### Artikel 182
+##### Artikel 182
 
 1. De dwang en de wederspannigheid in de [artikelen 179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=179&z=2026-01-01&g=2026-01-01) en [180](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=180&z=2026-01-01&g=2026-01-01) omschreven, door twee of meer personen met verenigde krachten gepleegd, worden gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
@@ -2508,11 +2530,11 @@ De dwang en de wederspannigheid in de [artikelen 179](https://wetten.overheid.nl
 
 - 3°. met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien zij de dood ten gevolge hebben.
 
-#### Artikel 183
+##### Artikel 183
 
 Met ambtenaren worden ten aanzien van de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=179&z=2026-01-01&g=2026-01-01) gelijkgesteld de schipper of gezagvoerder van een luchtvaartuig die een bevoegdheid uitoefent of een verplichting vervult welke hem als zodanig is toegekend of opgelegd bij een bepaling van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903). Onder schipper wordt begrepen hij die het hoogste gezag uitoefent op een overeenkomstig [artikel 136**a**, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=136a) aangewezen installatie.
 
-#### Artikel 184
+##### Artikel 184
 
 1. Hij die opzettelijk niet voldoet aan een bevel of een vordering, krachtens wettelijk voorschrift gedaan door een ambtenaar met de uitoefening van enig toezicht belast of door een ambtenaar belast met of bevoegd verklaard tot het opsporen of onderzoeken van strafbare feiten, alsmede hij die opzettelijk enige handeling, door een van die ambtenaren ondernomen ter uitvoering van enig wettelijk voorschrift, belet, belemmert of verijdelt, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
 
@@ -2522,27 +2544,27 @@ Met ambtenaren worden ten aanzien van de [artikelen 179 tot en met 182](https://
 
 4. Indien tijdens het plegen van het misdrijf nog geen twee jaren zijn verlopen sedert een vroegere veroordeling van de schuldige wegens gelijk misdrijf onherroepelijk is geworden, kan de gevangenisstraf met een derde worden verhoogd.
 
-#### Artikel 185
+##### Artikel 185
 
 Hij die bij een terechtzitting of ter plaatse waar een ambtenaar in het openbaar in de rechtmatige uitoefening van zijn bediening werkzaam is, opschudding veroorzaakt en na het door of vanwege het bevoegd gezag gegeven bevel zich niet verwijdert, wordt gestraft met gevangenisstraf van ten hoogste twee weken of geldboete van de tweede categorie.
 
-#### Artikel 185a
+##### Artikel 185a
 
 Met ambtenaren worden ten aanzien van de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=179&z=2026-01-01&g=2026-01-01), [184](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=184&z=2026-01-01&g=2026-01-01) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=185&z=2026-01-01&g=2026-01-01) gelijkgesteld personen in de openbare dienst van een vreemde staat of van een volkenrechtelijke organisatie die in Nederland op door het volkenrecht toegelaten wijze hun bediening uitoefenen.
 
-#### Artikel 186
+##### Artikel 186
 
 Hij die opzettelijk bij gelegenheid van een volksoploop zich niet onmiddellijk verwijdert na het derde door of vanwege het bevoegd gezag gegeven bevel, wordt, als schuldig aan deelneming aan samenscholing, gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
 
-#### Artikel 187
+##### Artikel 187
 
 Hij die een bekendmaking, vanwege het bevoegd gezag in het openbaar gedaan, wederrechtelijk afscheurt, onleesbaar maakt of beschadigt, met het oogmerk om de kennisneming daarvan te beletten of te bemoeilijken, wordt gestraft met gevangenisstraf van ten hoogste een maand of geldboete van de tweede categorie.
 
-#### Artikel 188
+##### Artikel 188
 
 Hij die aangifte of klacht doet dat een strafbaar feit gepleegd is, wetende dat het niet gepleegd is, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
-#### Artikel 189
+##### Artikel 189
 
 1. Met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft:
 
@@ -2558,15 +2580,15 @@ Hij die aangifte of klacht doet dat een strafbaar feit gepleegd is, wetende dat 
 
 4. Met ambtenaren van de justitie of politie worden gelijkgesteld: personen in de openbare dienst van een internationaal gerecht dat zijn rechtsmacht ontleent aan een verdrag waarbij het Koninkrijk partij is, die belast zijn met de opsporing of vervolging van enig misdrijf, alsmede personen in de openbare dienst van een vreemde staat die in Nederland op door het volkenrecht toegelaten wijze hun bediening uitoefenen.
 
-#### Artikel 190
+##### Artikel 190
 
 Hij die opzettelijk een gerechtelijke lijkschouwing belet, belemmert of verijdelt, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
-#### Artikel 191
+##### Artikel 191
 
 Hij die opzettelijk iemand, op openbaar gezag of krachtens rechterlijke uitspraak of beschikking van de vrijheid beroofd, bevrijdt of bij zijn zelfbevrijding behulpzaam is, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
-#### Artikel 192
+##### Artikel 192
 
 1. Hij die, wettelijk als getuige, als deskundige of als tolk opgeroepen, opzettelijk niet voldoet aan enige wettelijke verplichting die hij als zodanig te vervullen heeft, wordt gestraft:
 
@@ -2578,11 +2600,11 @@ Hij die opzettelijk iemand, op openbaar gezag of krachtens rechterlijke uitspraa
 
 3. Het bepaalde in het vorige lid van dit artikel is niet van toepassing op de partij in een burgerlijke procedure die, wanneer zij als getuige wordt gehoord, weigert op de haar gestelde vragen te antwoorden.
 
-#### Artikel 192a
+##### Artikel 192a
 
 Hij die opzettelijk niet voldoet aan de vordering van een parlementaire enquêtecommissie tot het hebben van inzage in of het nemen van afschrift van of het op andere wijze kennisnemen van documenten wordt gestraft met gevangenisstraf van ten hoogste vier maanden of geldboete van de tweede categorie.
 
-#### Artikel 193
+##### Artikel 193
 
 Hij die opzettelijk niet voldoet aan een wettig bevel tot overlegging van een stuk hetwelk beweerd wordt vals of vervalst te zijn, of hetwelk dienen moet ter vergelijking met een ander waarvan de valsheid of vervalsing beweerd, of de echtheid ontkend of niet erkend wordt, wordt gestraft:
 
@@ -2590,7 +2612,7 @@ Hij die opzettelijk niet voldoet aan een wettig bevel tot overlegging van een st
 
 - 2°. in andere zaken met gevangenisstraf van ten hoogste vier maanden of geldboete van de tweede categorie.
 
-#### Artikel 194
+##### Artikel 194
 
 1. Hij die in staat van faillissement is verklaard en wettelijk verplicht is tot het geven van inlichtingen, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie, indien hij hetzij zonder geldige reden opzettelijk wegblijft, hetzij weigert de vereiste inlichtingen te geven, hetzij opzettelijk onjuiste of onvolledige inlichtingen geeft.
 
@@ -2600,19 +2622,19 @@ Hij die opzettelijk niet voldoet aan een wettig bevel tot overlegging van een st
 
 4. Indien de schuldige een van de strafbare feiten, omschreven in het eerste lid, in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.
 
-#### Artikel 195
+##### Artikel 195
 
 Hij die een recht uitoefent, wetende dat hij daarvan bij rechterlijke uitspraak is ontzet, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
-#### Artikel 196
+##### Artikel 196
 
 Hij die opzettelijk onderscheidingstekens draagt of een daad verricht behorende tot een ambt dat hij niet bekleedt of waarin hij geschorst is, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
 
-#### Artikel 197
+##### Artikel 197
 
 Een vreemdeling die in Nederland verblijft, terwijl hij weet of ernstige reden heeft te vermoeden, dat hij op grond van een wettelijk voorschrift tot ongewenste vreemdeling is verklaard of tegen hem een inreisverbod is uitgevaardigd met toepassing van [artikel 66a, zevende lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=66a), wordt gestraft met een gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
-#### Artikel 197a
+##### Artikel 197a
 
 1. Hij die een ander behulpzaam is bij het zich verschaffen van toegang tot of doorreis door Nederland, een andere lidstaat van de Europese Unie, IJsland, Noorwegen of een staat die is toegetreden tot het op 15 november 2000 te NewYork totstandgekomen Protocol tegen de smokkel van migranten over land, over de zee en in de lucht, tot aanvulling van het op 15 november 2000 te NewYork totstandgekomen Verdrag tegen transnationale georganiseerde misdaad, of hem daartoe gelegenheid, middelen of inlichtingen verschaft, terwijl hij weet of ernstige redenen heeft te vermoeden dat die toegang of doorreis wederrechtelijk is, wordt als schuldig aan mensensmokkel gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
@@ -2632,19 +2654,19 @@ Een vreemdeling die in Nederland verblijft, terwijl hij weet of ernstige reden h
 
 9. Bij veroordeling wegens een van de feiten, omschreven in het eerste en tweede lid, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken.
 
-#### Artikel 197b
+##### Artikel 197b
 
 Hij die een ander, die zich wederrechtelijk toegang tot of verblijf in Nederland heeft verschaft, krachtens overeenkomst of aanstelling arbeid doet verrichten, terwijl hij weet of ernstige redenen heeft om te vermoeden dat de toegang of dat verblijf wederrechtelijk is, wordt gestraft met een gevangenisstraf van ten hoogste een jaar of geldboete van de vijfde categorie.
 
-#### Artikel 197c
+##### Artikel 197c
 
 Hij die van het in [artikel 197b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=197b&z=2026-01-01&g=2026-01-01) omschreven feit een beroep of gewoonte maakt wordt gestraft met een gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
-#### Artikel 197d
+##### Artikel 197d
 
 Indien de schuldige de in de [artikelen 197b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=197b&z=2026-01-01&g=2026-01-01) of [197c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=197c&z=2026-01-01&g=2026-01-01) omschreven feiten begaat in de uitoefening van enig ambt of beroep kan de rechter tevens de ontzetting uitspreken van de uitoefening van het recht het ambt te bekleden of het beroep uit te oefenen en de openbaarmaking van zijn uitspraak gelasten.
 
-#### Artikel 198
+##### Artikel 198
 
 1. Hij die opzettelijk enig goed aan het krachtens de wet daarop gelegd beslag of aan een gerechtelijke bewaring onttrekt of, wetende dat het daaraan onttrokken is, verbergt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
@@ -2652,7 +2674,7 @@ Indien de schuldige de in de [artikelen 197b](https://wetten.overheid.nl/jci1.3:
 
 3. Met dezelfde straf wordt gestraft de bewaarder die opzettelijk een van deze feiten pleegt of toelaat, of de dader als medeplichtige ter zijde staat.
 
-#### Artikel 199
+##### Artikel 199
 
 1. Hij die opzettelijk zegels waarmede voorwerpen door of vanwege het bevoegd openbaar gezag verzegeld zijn, verbreekt, opheft of beschadigt, of de door zodanig zegel bewerkte afsluiting op andere wijze verijdelt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
@@ -2660,29 +2682,29 @@ Indien de schuldige de in de [artikelen 197b](https://wetten.overheid.nl/jci1.3:
 
 3. Indien het feit ten gevolge van onachtzaamheid van de bewaarder gepleegd is, wordt deze gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
-#### Artikel 200
+##### Artikel 200
 
 1. Hij die opzettelijk zaken, bestemd om voor de bevoegde macht tot overtuiging of bewijs te dienen, akten, bescheiden of registers die voortdurend of tijdelijk op openbaar gezag bewaard worden, of hetzij aan een ambtenaar, hetzij aan een ander in het belang van de openbare dienst zijn ter hand gesteld, vernielt, beschadigt, onbruikbaar maakt of wegmaakt, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
 2. Onder bevoegde macht wordt mede verstaan: een internationaal gerecht dat zijn rechtsmacht ontleent aan een verdrag waarbij het Koninkrijk partij is.
 
-#### Artikel 201
+##### Artikel 201
 
 Hij die opzettelijk brieven of andere stukken, aan een post- of telegraafkantoor bezorgd of in een postbus gestoken, aan hun bestemming onttrekt, opent of beschadigt, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
-#### Artikel 202
+##### Artikel 202
 
 Indien de schuldige aan een der in de [artikelen 198-201](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=198&z=2026-01-01&g=2026-01-01) omschreven misdrijven zich de toegang tot de plaats van het misdrijf verschaft of het goed onder zijn bereik brengt door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum, kan de straf met ten hoogste een jaar gevangenisstraf worden verhoogd.
 
-#### Artikel 203
+##### Artikel 203
 
 Hij die in tijd van vrede opzettelijk desertie van een krijgsman in dienst van het Rijk uitlokt door een der in [artikel 47, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=V&artikel=47&z=2026-01-01&g=2026-01-01), vermelde middelen, of bevordert op enige in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=V&artikel=48&z=2026-01-01&g=2026-01-01) vermelde wijze, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
-#### Artikel 204
+##### Artikel 204
 
 Hij die, in tijd van vrede, opzettelijk oproer of muiterij van krijgslieden, in dienst van het Rijk, uitlokt door een der in [artikel 47, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=V&artikel=47&z=2026-01-01&g=2026-01-01), vermelde middelen, of bevordert op enige in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=V&artikel=48&z=2026-01-01&g=2026-01-01) vermelde wijze, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
-#### Artikel 205
+##### Artikel 205
 
 1. Hij die, zonder toestemming van de Koning, iemand voor vreemde krijgsdienst of gewapende strijd werft, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
@@ -2690,7 +2712,7 @@ Hij die, in tijd van vrede, opzettelijk oproer of muiterij van krijgslieden, in 
 
 3. Indien de gewapende strijd waarvoor wordt geworven, het plegen van een terroristisch misdrijf inhoudt, wordt de gevangenisstraf, gesteld op het in het eerste lid omschreven feit, met een derde verhoogd.
 
-#### Artikel 206
+##### Artikel 206
 
 1. Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft:
 
@@ -2702,7 +2724,7 @@ Hij die, in tijd van vrede, opzettelijk oproer of muiterij van krijgslieden, in 
 
 ## Titel VI. Tweegevecht
 
-#### Artikel 207
+##### Artikel 207
 
 1. Hij die in de gevallen waarin een wettelijk voorschrift een verklaring onder ede vordert of daaraan rechtsgevolgen verbindt, mondeling of schriftelijk, persoonlijk of door een bijzonder daartoe gemachtigde, opzettelijk een valse verklaring onder ede aflegt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
@@ -2712,7 +2734,7 @@ Hij die, in tijd van vrede, opzettelijk oproer of muiterij van krijgslieden, in 
 
 4. Ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten kan worden uitgesproken.
 
-#### Artikel 207a
+##### Artikel 207a
 
 1. Hij die in de gevallen waarin door of krachtens een verdrag waarbij het Koninkrijk partij is, een verklaring onder ede of onder een daarvoor in de plaats tredende bevestiging of belofte wordt gevorderd, voor een internationaal gerecht mondeling of schriftelijk, persoonlijk of door een bijzonder daartoe gemachtigde, opzettelijk een valse verklaring in die vorm aflegt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
@@ -2720,27 +2742,27 @@ Hij die, in tijd van vrede, opzettelijk oproer of muiterij van krijgslieden, in 
 
 ## Titel VI. Tweegevecht
 
-#### Artikel 208
+##### Artikel 208
 
 Hij die muntspeciën of munt- of bankbiljetten namaakt of vervalst, met het oogmerk om die muntspeciën of munt- of bankbiljetten als echt en onvervalst uit te geven of te doen uitgeven, wordt gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.
 
-#### Artikel 209
+##### Artikel 209
 
 Hij die opzettelijk als echte en onvervalste muntspeciën of munt- of bankbiljetten uitgeeft muntspeciën of munt- of bankbiljetten die hij zelf heeft nagemaakt of vervalst of waarvan de valsheid of vervalsing hem, toen hij ze ontving, bekend was, of deze, met het oogmerk om ze als echt en onvervalst uit te geven of te doen uitgeven, ontvangt, zich verschaft, in voorraad heeft, vervoert, invoert, doorvoert of uitvoert, wordt gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.
 
-#### Artikel 210
+##### Artikel 210
 
 Hij die opzettelijk en wederrechtelijk muntspeciën of munt- of bankbiljetten welke bestemd zijn om als wettig betaalmiddel in omloop te worden gebracht, in omloop brengt of, teneinde ze in omloop te brengen, ontvangt, zich verschaft, in voorraad heeft, vervoert, invoert, doorvoert of uitvoert, wordt gestraft met een gevangenisstraf van ten hoogste vijf jaren of geldboete van de vijfde categorie.
 
-#### Artikel 213
+##### Artikel 213
 
 Hij die opzettelijk valse of vervalste muntspeciën of valse of vervalste munt- of bankbiljetten uitgeeft, wordt, behoudens [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=X&artikel=209&z=2026-01-01&g=2026-01-01), gestraft met gevangenisstraf van ten hoogste vier jaar of geldboete van de vierde categorie.
 
-#### Artikel 214
+##### Artikel 214
 
 Hij die stoffen, voorwerpen of gegevens vervaardigt, ontvangt, zich verschaft of voorhanden heeft waarvan hij weet dat zij bestemd zijn tot het namaken of vervalsen van muntspeciën of van munt- of bankbiljetten, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
-#### Artikel 214bis
+##### Artikel 214bis
 
 Bij veroordeling wegens een der in deze titel omschreven misdrijven worden:
 
@@ -2752,13 +2774,13 @@ Bij veroordeling wegens een der in deze titel omschreven misdrijven worden:
 
 voor zover daarmede het misdrijf is gepleegd of zij het voorwerp daarvan hebben uitgemaakt, verbeurd verklaard, ongeacht aan wie de voorwerpen toebehoren.
 
-#### Artikel 215
+##### Artikel 215
 
 Bij veroordeling wegens een der in de [artikelen 208 tot en met 210](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=X&artikel=208&z=2026-01-01&g=2026-01-01) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken.
 
 ## Titel IX. Meineed
 
-#### Artikel 216
+##### Artikel 216
 
 1. Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft:
 
@@ -2768,7 +2790,7 @@ Bij veroordeling wegens een der in de [artikelen 208 tot en met 210](https://wet
 
 2. Het eerste lid is van overeenkomstige toepassing op zegels die worden uitgegeven door een verlener van de universele postdienst als bedoeld in de [Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) met daarop de vermelding «Nederland», alsmede op zegels die ingevolge artikel 3.01, tweede lid, van de Uitvoeringsregeling, behorende bij het op 9 september 1996 te Straatsburg tot stand gekomen Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart (Trb. 1996, 293), worden uitgegeven door het Internationaal Verevenings- en Coördinatieorgaan, genoemd in artikel 10, tweede lid, van dat verdrag.
 
-#### Artikel 217
+##### Artikel 217
 
 Met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vijfde categorie wordt gestraft:
 
@@ -2778,7 +2800,7 @@ Met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vijfde catego
 
 - 3°. hij die echte wettelijke merken of tekens inzet, aanvoegt of overbrengt in, aan of op andere palladium, platina, gouden of zilveren voorwerpen dan die waaraan zij oorspronkelijk zijn aangebracht, met het oogmerk om die voorwerpen te gebruiken of door anderen te doen gebruiken alsof de bedoelde merken of tekens oorspronkelijk daarop waren geplaatst.
 
-#### Artikel 218
+##### Artikel 218
 
 Met gevangenisstraf van ten hoogste drie jaren of geldboete van de vijfde categorie wordt gestraft:
 
@@ -2786,7 +2808,7 @@ Met gevangenisstraf van ten hoogste drie jaren of geldboete van de vijfde catego
 
 - 2°. hij die, met gelijk oogmerk, op de bedoelde voorwerpen merken plaatst door wederrechtelijk gebruik te maken van echte stempels.
 
-#### Artikel 219
+##### Artikel 219
 
 Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie wordt gestraft:
 
@@ -2796,37 +2818,37 @@ Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde catego
 
 - 3°. hij die echte merken gebruikt voor goederen of hun verpakking waarvoor die merken niet bestemd zijn, met het oogmerk om die goederen te gebruiken of door anderen te doen gebruiken alsof de bedoelde merken daarvoor bestemd waren.
 
-#### Artikel 220
+##### Artikel 220
 
 Hij die opzettelijk valse, vervalste of wederrechtelijk vervaardigde zegels, tekens of merken, of de voorwerpen waaraan zij wederrechtelijk verbonden zijn, gebruikt, verkoopt, te koop aanbiedt, aflevert, ten verkoop in voorraad heeft of binnen het Rijk in Europa invoert, als waren die zegels, tekens of merken echt en onvervalst en niet wederrechtelijk vervaardigd of wederrechtelijk aan de voorwerpen verbonden, wordt gestraft met dezelfde straffen als in de [artikelen 216-219](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2026-01-01&g=2026-01-01) zijn bepaald, naar de daar gemaakte onderscheidingen.
 
-#### Artikel 221
+##### Artikel 221
 
 1. Hij die aan een metrologische conformiteitsbeoordeling onderworpen voorwerpen ontdoet van het daarop geplaatste afkeuringsmerk, met het oogmerk om die voorwerpen te gebruiken of door anderen te doen gebruiken als waren zij niet afgekeurd, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
 
 2. Met dezelfde straf wordt gestraft hij die opzettelijk deze van het afkeuringsmerk ontdane voorwerpen gebruikt, verkoopt, te koop aanbiedt, aflevert of ten verkoop in voorraad heeft, als waren zij niet afgekeurd.
 
-#### Artikel 222
+##### Artikel 222
 
 1. Hij die van zegels als bedoeld in [artikel 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2026-01-01&g=2026-01-01) welke reeds tot gebruik hebben gediend ontdoet van het merk bestemd om ze voor verder gebruik ongeschikt te maken, met het oogmerk om die zegels te gebruiken of door anderen te doen gebruiken als waren zij nog niet gebruikt, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vijfde categorie.
 
 2. Met dezelfde straffen wordt gestraft hij die opzettelijk deze van dat merk ontdane zegels gebruikt, verkoopt, te koop aanbiedt, aflevert, ten verkoop in voorraad heeft of binnen het Rijk in Europa invoert, als waren zij nog niet gebruikt.
 
-#### Artikel 222bis
+##### Artikel 222bis
 
 De bepalingen van de [artikelen 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2026-01-01&g=2026-01-01), [219](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=219&z=2026-01-01&g=2026-01-01), [220](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=220&z=2026-01-01&g=2026-01-01) en [222](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=222&z=2026-01-01&g=2026-01-01) zijn naar de daar gemaakte onderscheidingen mede van toepassing, indien de daarin omschreven feiten worden gepleegd met betrekking tot zegels of merken van Aruba, Curaçao, Sint Maarten, een buitenlandse mogendheid of een volkenrechtelijke organisatie.
 
-#### Artikel 223
+##### Artikel 223
 
 Hij die stoffen of voorwerpen voorhanden heeft waarvan hij weet dat zij bestemd zijn tot het plegen van enig in [artikel 216](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2026-01-01&g=2026-01-01) of in [artikel 222bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=222bis&z=2026-01-01&g=2026-01-01) in verband met artikel 216 omschreven misdrijf, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de vierde categorie.
 
-#### Artikel 224
+##### Artikel 224
 
 Bij veroordeling wegens een der in de [artikelen 216-222bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XI&artikel=216&z=2026-01-01&g=2026-01-01) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken.
 
 ## Titel IX. Meineed
 
-#### Artikel 225
+##### Artikel 225
 
 1. Hij die een geschrift dat bestemd is om tot bewijs van enig feit te dienen, valselijk opmaakt of vervalst, met het oogmerk om het als echt en onvervalst te gebruiken of door anderen te doen gebruiken, wordt als schuldig aan valsheid in geschrift gestraft, met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
@@ -2834,7 +2856,7 @@ Bij veroordeling wegens een der in de [artikelen 216-222bis](https://wetten.over
 
 3. Indien een feit, omschreven in het eerste of tweede lid, wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 
-#### Artikel 226
+##### Artikel 226
 
 1. De schuldige aan valsheid in geschrift wordt gestraft met gevangenisstraf van ten hoogste zeven jaren of geldboete van de vijfde categorie, indien zij gepleegd is:
 
@@ -2850,21 +2872,21 @@ Bij veroordeling wegens een der in de [artikelen 216-222bis](https://wetten.over
 
 2. Met dezelfde straf wordt gestraft hij die opzettelijk gebruik maakt van enig in het eerste lid vermeld vals of vervalst geschrift als ware het echt en onvervalst, dan wel opzettelijk zodanig geschrift aflevert, voorhanden heeft, ontvangt, zich verschaft, vervoert, verkoopt of overdraagt, terwijl hij weet of redelijkerwijs moet vermoeden dat dit geschrift bestemd is voor zodanig gebruik.
 
-#### Artikel 227
+##### Artikel 227
 
 1. Hij die in een authentieke akte een valse opgave doet opnemen aangaande een feit van welks waarheid de akte moet doen blijken, met het oogmerk om die akte te gebruiken of door anderen te doen gebruiken als ware zijn opgave in overeenstemming met de waarheid, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
 2. Met dezelfde straf wordt gestraft hij die opzettelijk gebruik maakt van de akte als ware de inhoud in overeenstemming met de waarheid dan wel opzettelijk de akte aflevert of voorhanden heeft, terwijl hij weet of redelijkerwijs moet vermoeden dat die akte bestemd is voor zodanig gebruik.
 
-#### Artikel 227a
+##### Artikel 227a
 
 Hij die, anders dan door valsheid in geschrift, opzettelijk niet naar waarheid gegevens verstrekt aan degene door wie of door wiens tussenkomst enige verstrekking of tegemoetkoming wordt verleend, wordt, indien het feit kan strekken tot bevoordeling van zichzelf of een ander, terwijl hij weet of redelijkerwijze moet vermoeden dat de verstrekte gegevens van belang zijn voor de vaststelling van zijn of eens anders recht op die verstrekking of tegemoetkoming dan wel voor de hoogte of de duur van een dergelijke verstrekking of tegemoetkoming, gestraft met gevangenis straf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
-#### Artikel 227b
+##### Artikel 227b
 
 Hij die, in strijd met een hem bij of krachtens wettelijk voorschrift opgelegde verplichting, opzettelijk nalaat tijdig de benodigde gegevens te verstrekken, wordt, indien het feit kan strekken tot bevoordeling van zichzelf of een ander, terwijl hij weet of redelijkerwijze moet vermoeden dat de gegevens van belang zijn voor de vaststelling van zijn of eens anders recht op een verstrekking of tegemoetkoming dan wel voor de hoogte of de duur van een dergelijke verstrekking of tegemoetkoming, gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
-#### Artikel 228
+##### Artikel 228
 
 1. De arts of verloskundige die opzettelijk een valse verklaring afgeeft nopens een geboorte, een oorzaak van overlijden dan wel nopens het al of niet bestaan of bestaan hebben van ziekten, zwakheden of gebreken, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
@@ -2872,19 +2894,19 @@ Hij die, in strijd met een hem bij of krachtens wettelijk voorschrift opgelegde 
 
 3. Met dezelfde straffen wordt gestraft hij die opzettelijk van de valse verklaring gebruik maakt als ware de inhoud in overeenstemming met de waarheid.
 
-#### Artikel 229
+##### Artikel 229
 
 1. Hij die een schriftelijke geneeskundige verklaring nopens een oorzaak van overlijden, dan wel nopens het al of niet bestaan of bestaan hebben van ziekten, zwakheden of gebreken valselijk opmaakt of vervalst, met het oogmerk om het openbaar gezag of verzekeraars te misleiden, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
 2. Met dezelfde straf wordt gestraft hij die, met gelijk oogmerk, van de valse of vervalste verklaring gebruik maakt als ware zij echt en onvervalst.
 
-#### Artikel 230
+##### Artikel 230
 
 1. Hij die een getuigschrift van goed gedrag, bekwaamheid, armoede, gebreken of andere omstandigheden valselijk opmaakt of vervalst, met het oogmerk om het te gebruiken of door anderen te doen gebruiken tot het verkrijgen van een indienststelling of tot het opwekken van welwillendheid en hulpbetoon, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
 2. Met dezelfde straf wordt gestraft hij die opzettelijk gebruik maakt van enig in het eerste lid vermeld vals of vervalst getuigschrift als ware het echt en onvervalst.
 
-#### Artikel 231
+##### Artikel 231
 
 1. Hij die een reisdocument, een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) of een ander identiteitsbewijs dat afgegeven is door een dienst of organisatie van vitaal of nationaal belang, valselijk opmaakt of vervalst, of een zodanig geschrift op grond van valse persoonsgegevens doet verstrekken dan wel een zodanig geschrift dat aan hem of een ander verstrekt is, ter beschikking stelt van een derde met het oogmerk het door deze te doen gebruiken als ware het aan hem verstrekt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
@@ -2892,19 +2914,19 @@ Hij die, in strijd met een hem bij of krachtens wettelijk voorschrift opgelegde 
 
 3. [Artikel 225, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 232
+##### Artikel 232
 
 1. Hij die opzettelijk een niet-contant betaalinstrument dan wel een voor het publiek beschikbare kaart of een voor het publiek beschikbare drager van identificerende persoonsgegevens, bestemd voor het verrichten of verkrijgen van andere prestaties dan betalingen langs geautomatiseerde weg, valselijk opmaakt of vervalst, met het oogmerk zich of een ander te bevoordelen, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
 2. Met dezelfde straf wordt gestraft hij die opzettelijk gebruikmaakt van een door misdrijf verkregen, vals of vervalst niet-contant betaalinstrument of van een door misdrijf verkregen, valse of vervalste kaart als waren deze echt of onvervalst dan wel opzettelijk een zodanig betaalinstrument of zodanige kaart aflevert, voorhanden heeft, ontvangt, zich verschaft, vervoert, invoert, uitvoert, verkoopt of overdraagt, terwijl hij weet of redelijkerwijs moet vermoeden dat het niet-contante betaalinstrument of de kaart bestemd is voor zodanig gebruik.
 
-#### Artikel 234
+##### Artikel 234
 
 1. Hij die stoffen, voorwerpen of gegevens vervaardigt, ontvangt, zich verschaft, verkoopt, overdraagt, verwerft, vervoert, invoert, uitvoert, verspreidt, anderszins ter beschikking stelt of voorhanden heeft waarvan hij weet dat zij bestemd zijn tot het plegen van een der in de [artikelen 226, eerste lid, onderdelen 2° tot en met 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=226&z=2026-01-01&g=2026-01-01), [231, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=231&z=2026-01-01&g=2026-01-01), [231a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=231a&z=2026-01-01&g=2026-01-01), [231b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=231b&z=2026-01-01&g=2026-01-01) en [232, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=232&z=2026-01-01&g=2026-01-01), omschreven misdrijven dan wel een der misdrijven omschreven in de [artikelen 310](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=310&z=2026-01-01&g=2026-01-01), [311](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=311&z=2026-01-01&g=2026-01-01), [312](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=312&z=2026-01-01&g=2026-01-01), [317](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=317&z=2026-01-01&g=2026-01-01), [321](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIV&artikel=321&z=2026-01-01&g=2026-01-01) en [326](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXV&artikel=326&z=2026-01-01&g=2026-01-01), voor zover deze feiten betrekking hebben op de verkrijging van een niet-contant betaalinstrument, wordt gestraft met gevangenisstraf van ten hoogste vier jaar of geldboete van de vierde categorie.
 
 2. [Artikel 225, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 235
+##### Artikel 235
 
 1. Bij veroordeling wegens een der in deze titel omschreven misdrijven, kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf begaan heeft.
 
@@ -2912,7 +2934,7 @@ Hij die, in strijd met een hem bij of krachtens wettelijk voorschrift opgelegde 
 
 ## Titel XI. Valsheid in zegels en merken
 
-#### Artikel 236
+##### Artikel 236
 
 1. Hij die door enige handeling opzettelijk eens anders afstamming onzeker maakt, wordt, als schuldig aan verduistering van staat, gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie.
 
@@ -2920,7 +2942,7 @@ Hij die, in strijd met een hem bij of krachtens wettelijk voorschrift opgelegde 
 
 3. Vervolging heeft niet plaats dan nadat een verzoek tot inroeping of tot betwisting van staat is gedaan en de burgerlijke rechter daarop een eindbeslissing heeft gegeven. Indien het verzoek echter door het stilzitten van partijen onvoldoende voortgang vindt, kan vervolging ook plaats hebben nadat de burgerlijke rechter heeft beslist dat er een begin van bewijs is.
 
-#### Artikel 237
+##### Artikel 237
 
 1. Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie wordt gestraft:
 
@@ -2932,13 +2954,13 @@ Hij die, in strijd met een hem bij of krachtens wettelijk voorschrift opgelegde 
 
 3. Ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten kan worden uitgesproken.
 
-#### Artikel 238
+##### Artikel 238
 
 De ongehuwde die een huwelijk aangaat, opzettelijk aan de wederpartij verzwijgende dat daartegen enig wettig beletsel bestaat, wordt, indien op grond van dat beletsel de nietigheid van het huwelijk is uitgesproken, gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
 ## Titel XIV. Misdrijven tegen de zeden
 
-#### Artikel 239
+##### Artikel 239
 
 1. In deze titel wordt onder degene die met een persoon seksuele handelingen verricht mede verstaan: degene die een persoon seksuele handelingen laat verrichten met diegene, met zichzelf of met een derde, dan wel degene die een persoon seksuele handelingen laat ondergaan door een derde.
 
@@ -2946,35 +2968,35 @@ De ongehuwde die een huwelijk aangaat, opzettelijk aan de wederpartij verzwijgen
 
 3. In deze titel wordt onder visuele weergave mede verstaan: gegevens die geschikt zijn om een visuele weergave te vormen of een gegevensdrager bevattende gegevens die geschikt zijn om een visuele weergave te vormen.
 
-#### Artikel 240
+##### Artikel 240
 
 Als schuldig aan schuldaanranding wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie, degene die met een persoon seksuele handelingen verricht terwijl diegene ernstige reden heeft om te vermoeden dat bij die persoon daartoe de wil ontbreekt.
 
-#### Artikel 240a
+##### Artikel 240a
 
 Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft hij die een afbeelding, een voorwerp of een gegevensdrager, bevattende een afbeelding waarvan de vertoning schadelijk is te achten voor personen beneden de leeftijd van zestien jaar, verstrekt, aanbiedt of vertoont aan een minderjarige van wie hij weet of redelijkerwijs moet vermoeden, dat deze jonger is dan zestien jaar.
 
-#### Artikel 240b
+##### Artikel 240b
 
 1. Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie wordt gestraft degene die een afbeelding - of een gegevensdrager, bevattende een afbeelding - van een seksuele gedraging, waarbij iemand die kennelijk de leeftijd van achttien jaar nog niet heeft bereikt, is betrokken of schijnbaar is betrokken, verspreidt, aanbiedt, openlijk tentoonstelt, vervaardigt, invoert, doorvoert, uitvoert, verwerft, in bezit heeft of zich door middel van een geautomatiseerd werk of met gebruikmaking van een communicatiedienst de toegang daartoe verschaft.
 
 2. Met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie wordt gestraft degene die van het plegen van een van de misdrijven, omschreven in het eerste lid, een beroep of een gewoonte maakt.
 
-#### Artikel 242
+##### Artikel 242
 
 Als schuldig aan schuldverkrachting wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie, degene die met een persoon seksuele handelingen verricht, welke handelingen bestaan uit of mede bestaan uit het seksueel binnendringen van het lichaam, terwijl diegene ernstige reden heeft om te vermoeden dat bij die persoon daartoe de wil ontbreekt.
 
-#### Artikel 243
+##### Artikel 243
 
 1. Als schuldig aan opzetverkrachting wordt gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie, degene die met een persoon seksuele handelingen verricht, welke handelingen bestaan uit of mede bestaan uit het seksueel binnendringen van het lichaam, terwijl diegene weet dat bij die persoon daartoe de wil ontbreekt.
 
 2. Als schuldig aan gekwalificeerde opzetverkrachting wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, degene die zich schuldig maakt aan het misdrijf omschreven in het eerste lid, voorafgegaan door, vergezeld van of gevolgd door dwang, geweld of bedreiging.
 
-#### Artikel 244
+##### Artikel 244
 
 Voor de toepassing van de misdrijven omschreven in de [artikelen 240 tot met 243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240&z=2026-01-01&g=2026-01-01) ontbreekt bij een persoon in ieder geval de wil tot seksuele handelingen indien diegene in een staat van bewusteloosheid, verminderd bewustzijn of lichamelijke onmacht verkeert of een zodanige psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap heeft dat deze niet of onvolkomen in staat is een wil te bepalen of kenbaar te maken omtrent de seksuele handelingen of daartegen weerstand te bieden.
 
-#### Artikel 245
+##### Artikel 245
 
 1. Als schuldig aan aanranding in de leeftijdscategorie van zestien tot achttien jaren wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie, degene die met een kind in de leeftijd van zestien tot achttien jaren seksuele handelingen verricht:
 
@@ -2988,7 +3010,7 @@ Voor de toepassing van de misdrijven omschreven in de [artikelen 240 tot met 243
 
 2. Als schuldig aan gekwalificeerde aanranding in de leeftijdscategorie van zestien tot achttien jaren wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie, degene die zich schuldig maakt aan het misdrijf omschreven in het eerste lid, voorafgegaan door, vergezeld van of gevolgd door dwang, geweld of bedreiging.
 
-#### Artikel 246
+##### Artikel 246
 
 1. Als schuldig aan verkrachting in de leeftijdscategorie van zestien tot achttien jaren wordt gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie, degene die met een kind in de leeftijd van zestien tot achttien jaren seksuele handelingen verricht, welke handelingen bestaan uit of mede bestaan uit het seksueel binnendringen van het lichaam:
 
@@ -3002,7 +3024,7 @@ Voor de toepassing van de misdrijven omschreven in de [artikelen 240 tot met 243
 
 2. Als schuldig aan gekwalificeerde verkrachting in de leeftijdscategorie van zestien tot achttien jaren wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, degene die zich schuldig maakt aan het misdrijf omschreven in het eerste lid, voorafgegaan door, vergezeld van of gevolgd door dwang, geweld of bedreiging.
 
-#### Artikel 247
+##### Artikel 247
 
 1. Als schuldig aan aanranding in de leeftijdscategorie van twaalf tot zestien jaren wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie, degene die met een kind in de leeftijd van twaalf tot zestien jaren seksuele handelingen verricht.
 
@@ -3010,7 +3032,7 @@ Voor de toepassing van de misdrijven omschreven in de [artikelen 240 tot met 243
 
 3. Niet strafbaar is degene die als leeftijdsgenoot de in het eerste lid bedoelde gedragingen begaat in het kader van een gelijkwaardige situatie tussen diegene en dat kind.
 
-#### Artikel 248
+##### Artikel 248
 
 1. Als schuldig aan verkrachting in de leeftijdscategorie van twaalf tot zestien jaren wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, degene die met een kind in de leeftijd van twaalf tot zestien jaren seksuele handelingen verricht, welke handelingen bestaan uit of mede bestaan uit het seksueel binnendringen van het lichaam.
 
@@ -3018,31 +3040,31 @@ Voor de toepassing van de misdrijven omschreven in de [artikelen 240 tot met 243
 
 3. Niet strafbaar is degene die als leeftijdsgenoot de in het eerste lid bedoelde gedragingen begaat in het kader van een gelijkwaardige situatie tussen diegene en dat kind.
 
-#### Artikel 248a
+##### Artikel 248a
 
 Hij die door giften of beloften van geld of goed, misbruik van uit feitelijke verhoudingen voortvloeiend overwicht of misleiding een persoon die de leeftijd van achttien jaren nog niet heeft bereikt of iemand die zich, al dan niet met een technisch hulpmiddel, waaronder een virtuele creatie van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt, voordoet als een persoon die de leeftijd van achttien jaren nog niet heeft bereikt, opzettelijk beweegt ontuchtige handelingen te plegen of zodanige handelingen van hem te dulden, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
-#### Artikel 248b
+##### Artikel 248b
 
 Hij die ontucht pleegt met iemand die zich beschikbaar stelt tot het verrichten van seksuele handelingen met een derde tegen betaling en die de leeftijd van zestien jaren maar nog niet de leeftijd van achttien jaren heeft bereikt, wordt gestraft met een gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
-#### Artikel 249
+##### Artikel 249
 
 1. Als schuldig aan aanranding in de leeftijdscategorie beneden twaalf jaren wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie, degene die met een kind beneden de leeftijd van twaalf jaren seksuele handelingen verricht.
 
 2. Als schuldig aan gekwalificeerde aanranding in de leeftijdscategorie beneden twaalf jaren wordt gestraft met gevangenisstraf van ten hoogste dertien jaren en vier maanden of geldboete van de vijfde categorie, degene die zich schuldig maakt aan het misdrijf omschreven in het eerste lid, voorafgegaan door, vergezeld van of gevolgd door dwang, geweld of bedreiging.
 
-#### Artikel 250
+##### Artikel 250
 
 1. Als schuldig aan verkrachting in de leeftijdscategorie beneden twaalf jaren wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, degene die met een kind beneden de leeftijd van twaalf jaren seksuele handelingen verricht, welke handelingen bestaan uit of mede bestaan uit het seksueel binnendringen van het lichaam.
 
 2. Als schuldig aan gekwalificeerde verkrachting in de leeftijdscategorie beneden twaalf jaren wordt gestraft met gevangenisstraf van ten hoogste achttien jaren of geldboete van de vijfde categorie, degene die zich schuldig maakt aan het misdrijf omschreven in het eerste lid, voorafgegaan door, vergezeld van of gevolgd door dwang, geweld of bedreiging.
 
-#### Artikel 250a
+##### Artikel 250a
 
 Degene die zich of een ander opzettelijk gelegenheid, middelen of inlichtingen verschaft of tracht te verschaffen tot het plegen van een misdrijf als omschreven in de [artikelen 247 tot en met 250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=247&z=2026-01-01&g=2026-01-01), dan wel zich kennis of vaardigheden daartoe verwerft of een ander bijbrengt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
-#### Artikel 251
+##### Artikel 251
 
 1. Degene die een kind beneden de leeftijd van zestien jaren of een persoon die zich voordoet als een kind beneden de leeftijd van zestien jaren:
 
@@ -3058,39 +3080,39 @@ wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van d
 
 3. Niet strafbaar is degene die als leeftijdsgenoot de in het eerste lid, aanhef en onder c, bedoelde gedraging begaat in het kader van een gelijkwaardige situatie tussen diegene en dat kind, voor zover dat kind ten minste de leeftijd van twaalf jaren heeft bereikt.
 
-#### Artikel 252
+##### Artikel 252
 
 Degene die een visuele weergave van seksuele aard of met een onmiskenbaar seksuele strekking waarbij een persoon die kennelijk de leeftijd van achttien jaren nog niet heeft bereikt is betrokken of schijnbaar is betrokken, verspreidt, aanbiedt, openlijk tentoonstelt, vervaardigt, invoert, doorvoert, uitvoert, verwerft, in bezit heeft of zich de toegang daartoe verschaft, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
-#### Artikel 253
+##### Artikel 253
 
 Degene die opzettelijk een voorstelling bijwoont waarin een persoon beneden de leeftijd van achttien jaren is betrokken of schijnbaar is betrokken bij handelingen van seksuele aard of met een onmiskenbaar seksuele strekking dan wel waarin een visuele weergave als bedoeld in [artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=252&z=2026-01-01&g=2026-01-01) wordt getoond, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
 ## Titel XIII. Misdrijven tegen de burgerlijke staat
 
-#### Artikel 255
+##### Artikel 255
 
 Hij die opzettelijk iemand tot wiens onderhoud, verpleging of verzorging hij krachtens wet of overeenkomst verplicht is, in een hulpeloze toestand brengt of laat, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-#### Artikel 256
+##### Artikel 256
 
 Hij die een kind beneden de leeftijd van zeven jaren te vondeling legt of, met het oogmerk om er zich van te ontdoen, verlaat, wordt gestraft met gevangenisstraf van ten hoogste vier jaren en zes maanden of geldboete van de vierde categorie.
 
-#### Artikel 257
+##### Artikel 257
 
 1. Indien een der in de [artikelen 255](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=255&z=2026-01-01&g=2026-01-01) en [256](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=256&z=2026-01-01&g=2026-01-01) omschreven feiten zwaar lichamelijk letsel ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste zeven jaren en zes maanden of geldboete van de vijfde categorie.
 
 2. Indien een van deze feiten de dood ten gevolge heeft, wordt hij gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.
 
-#### Artikel 258
+##### Artikel 258
 
 Indien de schuldige aan het in [artikel 256](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=256&z=2026-01-01&g=2026-01-01) omschreven misdrijf de vader of de moeder is, kunnen te zijnen aanzien de in de [artikelen 256](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=256&z=2026-01-01&g=2026-01-01) en [257](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=257&z=2026-01-01&g=2026-01-01) bepaalde gevangenisstraffen met een derde worden verhoogd.
 
-#### Artikel 259
+##### Artikel 259
 
 Indien de moeder onder de werking van vrees voor de ontdekking van haar bevalling haar kind kort na de geboorte te vondeling legt of, met het oogmerk om er zich van te ontdoen, verlaat, wordt het maximum der in de [artikelen 256](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=256&z=2026-01-01&g=2026-01-01) en [257](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=257&z=2026-01-01&g=2026-01-01) vermelde gevangenisstraffen tot de helft verminderd en wordt de in [artikel 257](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=257&z=2026-01-01&g=2026-01-01) vermelde geldboete tot de vierde categorie teruggebracht.
 
-#### Artikel 260
+##### Artikel 260
 
 1. Bij veroordeling wegens een der in de [artikelen 255-259](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XV&artikel=255&z=2026-01-01&g=2026-01-01) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken.
 
@@ -3098,7 +3120,7 @@ Indien de moeder onder de werking van vrees voor de ontdekking van haar bevallin
 
 ## Titel XVI. Belediging
 
-#### Artikel 261
+##### Artikel 261
 
 1. Hij die opzettelijk iemands eer of goede naam aanrandt, door telastlegging van een bepaald feit, met het kennelijke doel om daaraan ruchtbaarheid te geven, wordt, als schuldig aan smaad, gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
@@ -3106,13 +3128,13 @@ Indien de moeder onder de werking van vrees voor de ontdekking van haar bevallin
 
 3. Noch smaad, noch smaadschrift bestaat voor zover de dader heeft gehandeld tot noodzakelijke verdediging, of te goeder trouw heeft kunnen aannemen dat het te last gelegde waar was en dat het algemeen belang de telastlegging eiste.
 
-#### Artikel 262
+##### Artikel 262
 
 1. Hij die het misdrijf van smaad of smaadschrift pleegt, wetende dat het te last gelegde feit in strijd met de waarheid is, wordt, als schuldig aan laster, gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
 2. Ontzetting van de in [artikel 28, eerste lid, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten kan worden uitgesproken.
 
-#### Artikel 265
+##### Artikel 265
 
 1. Indien de beledigde aan het te last gelegde feit bij rechterlijk gewijsde onherroepelijk is schuldig verklaard, is veroordeling wegens laster uitgesloten.
 
@@ -3120,13 +3142,13 @@ Indien de moeder onder de werking van vrees voor de ontdekking van haar bevallin
 
 3. Indien tegen de beledigde wegens het hem te last gelegde feit een strafvervolging is aangevangen, wordt de vervolging wegens laster geschorst totdat bij gewijsde onherroepelijk over het te last gelegde feit is beslist.
 
-#### Artikel 266
+##### Artikel 266
 
 1. Elke opzettelijke belediging die niet het karakter van smaad of smaadschrift draagt, hetzij in het openbaar mondeling of bij geschrift of afbeelding, hetzij iemand, in zijn tegenwoordigheid mondeling of door feitelijkheden, hetzij door een toegezonden of aangeboden geschrift of afbeelding, aangedaan, wordt, als eenvoudige belediging, gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
 
 2. Niet als eenvoudige belediging strafbaar zijn gedragingen die ertoe strekken een oordeel te geven over de behartiging van openbare belangen, en die er niet op zijn gericht ook in ander opzicht of zwaarder te grieven dan uit die strekking voortvloeit.
 
-#### Artikel 267
+##### Artikel 267
 
 1. De in de voorgaande artikelen van deze titel bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien de belediging wordt aangedaan aan:
 
@@ -3138,13 +3160,13 @@ Indien de moeder onder de werking van vrees voor de ontdekking van haar bevallin
 
 2. Met een ambtenaar wordt gelijkgesteld een persoon in de openbare dienst van een vreemde staat die in Nederland op door het volkenrecht toegelaten wijze zijn bediening uitoefent.
 
-#### Artikel 268
+##### Artikel 268
 
 1. Hij die opzettelijk tegen een bepaald persoon bij de overheid een valse klacht of aangifte schriftelijk inlevert of in schrift doet brengen, waardoor de eer of goede naam van die persoon wordt aangerand, wordt, als schuldig aan lasterlijke aanklacht, gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
 2. Ontzetting van de in [artikel 28, eerste lid, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten kan worden uitgesproken.
 
-#### Artikel 269
+##### Artikel 269
 
 1. Belediging, strafbaar krachtens deze titel, wordt niet vervolgd dan op klacht van hem tegen wie het misdrijf is gepleegd.
 
@@ -3152,13 +3174,13 @@ Indien de moeder onder de werking van vrees voor de ontdekking van haar bevallin
 
 3. Het eerste lid is tevens niet van toepassing in geval van belediging van leden van algemeen vertegenwoordigende lichamen.
 
-#### Artikel 270
+##### Artikel 270
 
 1. Hij die ten aanzien van een overledene een feit pleegt dat, ware deze nog in leven, als smaadschrift of smaad zou zijn gekenmerkt, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
 
 2. Dit misdrijf wordt niet vervolgd dan op klacht hetzij van een der bloedverwanten of aangehuwden van de overledene in de rechte linie of zijlinie tot de tweede graad, hetzij van zijn echtgenoot.
 
-#### Artikel 271
+##### Artikel 271
 
 1. Hij die een geschrift of afbeelding van beledigende of voor een overledene smadelijke inhoud verspreidt, openlijk tentoonstelt of aanslaat of, om verspreid, openlijk tentoongesteld of aangeslagen te worden, in voorraad heeft, wordt, indien hij weet of ernstige reden heeft om te vermoeden dat de inhoud van het geschrift of de afbeelding van zodanige aard is, gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
 
@@ -3170,7 +3192,7 @@ Indien de moeder onder de werking van vrees voor de ontdekking van haar bevallin
 
 ## Titel XII. Valsheid in geschriften, opgave van onware gegevens en schending van de verplichting gegevens te verstrekken
 
-#### Artikel 272
+##### Artikel 272
 
 1. Hij die enig geheim waarvan hij weet of redelijkerwijs moet vermoeden dat hij uit hoofde van ambt, beroep of wettelijk voorschrift dan wel van vroeger ambt of beroep verplicht is het te bewaren, opzettelijk schendt, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vijfde categorie.
 
@@ -3178,7 +3200,7 @@ Indien de moeder onder de werking van vrees voor de ontdekking van haar bevallin
 
 3. Indien het feit is gepleegd ten behoeve van een buitenlandse mogendheid wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 
-#### Artikel 273
+##### Artikel 273
 
 1. Met gevangenisstraf van ten hoogste zes maanden of geldboete van de vierde categorie wordt gestraft hij die opzettelijk
 
@@ -3194,35 +3216,35 @@ Indien de moeder onder de werking van vrees voor de ontdekking van haar bevallin
 
 ## Titel IX. Meineed
 
-#### Artikel 274
+##### Artikel 274
 
 Hij die voor eigen of vreemde rekening slavenhandel drijft of opzettelijk daaraan middellijk of onmiddellijk deelneemt, wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.
 
-#### Artikel 275
+##### Artikel 275
 
 1. Hij die als schipper dienst neemt of dienst doet op een vaartuig, wetende dat het tot het drijven van slavenhandel bestemd is, of het daartoe gebruikende, wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.
 
 2. Indien het vervoer de dood van een of meer slaven ten gevolge heeft, wordt de schipper gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
-#### Artikel 276
+##### Artikel 276
 
 Hij die als schepeling dienst neemt op een vaartuig, wetende dat het tot het drijven van slavenhandel bestemd is of gebruikt wordt, of vrijwillig in dienst blijft na die bestemming of dit gebruik te hebben vernomen, wordt gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.
 
-#### Artikel 277
+##### Artikel 277
 
 Hij die voor eigen of vreemde rekening middellijk of onmiddellijk medewerkt tot het verhuren, vervrachten of verzekeren van een vaartuig, wetende dat het tot het drijven van slavenhandel bestemd is, wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.
 
-#### Artikel 278
+##### Artikel 278
 
 Hij die iemand over de grenzen van het Rijk in Europa voert, met het oogmerk om hem wederrechtelijk onder de macht van een ander te brengen of om hem in hulpeloze toestand te verplaatsen, wordt, als schuldig aan mensenroof, gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.
 
-#### Artikel 279
+##### Artikel 279
 
 1. Hij die opzettelijk een minderjarige onttrekt aan het wettig over hem gesteld gezag of aan het opzicht van degene die dit desbevoegd over hem uitoefent, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
 2. Gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie wordt opgelegd indien list, geweld of bedreiging met geweld is gebezigd, of indien de minderjarige beneden de twaalf jaren oud is.
 
-#### Artikel 280
+##### Artikel 280
 
 1. Hij die opzettelijk een minderjarige die onttrokken is of zich onttrokken heeft aan het wettig over hem gesteld gezag of aan het opzicht van degene die dit desbevoegd over hem uitoefent, verbergt of aan de nasporing van de ambtenaren van de justitie of politie onttrekt, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie of, indien de minderjarige beneden de twaalf jaren oud is, met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
@@ -3238,7 +3260,7 @@ Hij die iemand over de grenzen van het Rijk in Europa voert, met het oogmerk om 
 
 4. Met ambtenaren van justitie en politie worden gelijkgesteld personen in de openbare dienst van een vreemde staat die in Nederland op door het volkenrecht toegelaten wijze hun bediening uitoefenen.
 
-#### Artikel 281
+##### Artikel 281
 
 1. Als schuldig aan schaking wordt gestraft:
 
@@ -3256,7 +3278,7 @@ Hij die iemand over de grenzen van het Rijk in Europa voert, met het oogmerk om 
 
 4. Indien de schaker met de weggevoerde een huwelijk heeft gesloten, heeft geen veroordeling plaats, dan nadat de nietigheid van het huwelijk is uitgesproken.
 
-#### Artikel 282
+##### Artikel 282
 
 1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft of beroofd houdt, wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.
 
@@ -3266,7 +3288,7 @@ Hij die iemand over de grenzen van het Rijk in Europa voert, met het oogmerk om 
 
 4. De in dit artikel bepaalde straffen zijn ook van toepassing op hem die opzettelijk tot de wederrechtelijke vrijheidsberoving een plaats verschaft.
 
-#### Artikel 282a
+##### Artikel 282a
 
 1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft of beroofd houdt met het oogmerk een ander te dwingen iets te doen of niet te doen wordt als schuldig aan gijzeling gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
@@ -3274,7 +3296,7 @@ Hij die iemand over de grenzen van het Rijk in Europa voert, met het oogmerk om 
 
 3. Het [vierde lid van artikel 282](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282&z=2026-01-01&g=2026-01-01) is toepasselijk.
 
-#### Artikel 283
+##### Artikel 283
 
 1. Hij aan wiens schuld te wijten is dat iemand wederrechtelijk van de vrijheid beroofd wordt of beroofd blijft, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de tweede categorie.
 
@@ -3282,7 +3304,7 @@ Hij die iemand over de grenzen van het Rijk in Europa voert, met het oogmerk om 
 
 3. Indien het feit de dood ten gevolge heeft, wordt hij gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-#### Artikel 284
+##### Artikel 284
 
 1. Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft:
 
@@ -3292,11 +3314,11 @@ Hij die iemand over de grenzen van het Rijk in Europa voert, met het oogmerk om 
 
 2. In het geval onder 2° omschreven wordt het misdrijf niet vervolgd dan op klacht van hem tegen wie het gepleegd is.
 
-#### Artikel 284a
+##### Artikel 284a
 
 Hij die een ander door bedreiging met diefstal of afpersing van splijtstof, als bedoeld in [artikel 1, eerste lid, onder **b**, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=1) (**Stb.** 1963, 82), gericht tegen die ander of tegen derden wederrechtelijk dwingt iets te doen, niet te doen of te dulden, wordt gestraft met gevangenisstraf van ten hoogste een jaar en zes maanden of geldboete van de vierde categorie.
 
-#### Artikel 285
+##### Artikel 285
 
 1. Bedreiging met openlijk in vereniging geweld plegen tegen personen of goederen, met geweld tegen een internationaal beschermd persoon of diens beschermde goederen, met enig misdrijf waardoor gevaar voor de algemene veiligheid van personen of goederen of gemeen gevaar voor de verlening van diensten ontstaat, met de misdrijven omschreven in de [artikelen 241](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=241&z=2026-01-01&g=2026-01-01) en [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=243&z=2026-01-01&g=2026-01-01), met enig misdrijf tegen het leven gericht, met gijzeling, met zware mishandeling of met brandstichting, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vijfde categorie.
 
@@ -3308,61 +3330,61 @@ Hij die een ander door bedreiging met diefstal of afpersing van splijtstof, als 
 
 5. Indien het feit, omschreven in het eerste, tweede of derde lid wordt gepleegd tegen een persoon in diens hoedanigheid van Minister, Staatssecretaris, commissaris van de Koning, gedeputeerde, burgemeester, wethouder, lid van een algemeen vertegenwoordigend orgaan, rechterlijk ambtenaar, advocaat, journalist of publicist in het kader van nieuwsgaring, ambtenaar van politie of buitengewoon opsporingsambtenaar wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 
-#### Artikel 285a
+##### Artikel 285a
 
 1. Hij die opzettelijk mondeling, door gebaren, bij geschrift of afbeelding zich jegens een persoon uit, kennelijk om diens vrijheid om naar waarheid of geweten ten overstaan van een rechter of ambtenaar een verklaring af te leggen te beïnvloeden, terwijl hij weet of ernstige reden heeft te vermoeden dat die verklaring zal worden afgelegd, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
 2. Met rechter of ambtenaar wordt gelijkgesteld: een rechter bij onderscheidenlijk een persoon in de openbare dienst van een internationaal gerecht dat zijn rechtsmacht ontleent aan een verdrag waarbij het Koninkrijk partij is en een persoon in de openbare dienst van een vreemde staat die in Nederland op door het volkenrecht toegelaten wijze zijn bediening uitoefent.
 
-#### Artikel 285b
+##### Artikel 285b
 
 1. Hij, die wederrechtelijk stelselmatig opzettelijk inbreuk maakt op eens anders persoonlijke levenssfeer met het oogmerk die ander te dwingen iets te doen, niet te doen of te dulden dan wel vrees aan te jagen wordt, als schuldig aan belaging, gestraft met een gevangenisstraf van ten hoogste drie jaren of een geldboete van de vierde categorie.
 
 2. Vervolging vindt niet plaats dan op klacht van hem tegen wie het misdrijf is begaan.
 
-#### Artikel 286
+##### Artikel 286
 
 Bij veroordeling wegens een der in [artikelen 274-282](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=274&z=2026-01-01&g=2026-01-01) en in het [eerste en tweede lid van artikel 285](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285&z=2026-01-01&g=2026-01-01) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken.
 
 ## Titel XI. Valsheid in zegels en merken
 
-#### Artikel 287
+##### Artikel 287
 
 Hij die opzettelijk een ander van het leven berooft, wordt, als schuldig aan doodslag, gestraft met gevangenisstraf van ten hoogste vijfentwintig jaren of geldboete van de vijfde categorie.
 
-#### Artikel 288
+##### Artikel 288
 
 Doodslag gevolgd, vergezeld of voorafgegaan van een strafbaar feit en gepleegd met het oogmerk om de uitvoering van dat feit voor te bereiden of gemakkelijk te maken, of om, bij betrapping op heter daad, aan zichzelf of andere deelnemers aan dat feit hetzij straffeloosheid hetzij het bezit van het wederrechtelijk verkregene te verzekeren, wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
-#### Artikel 289
+##### Artikel 289
 
 Hij die opzettelijk en met voorbedachten rade een ander van het leven berooft, wordt, als schuldig aan moord, gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
-#### Artikel 290
+##### Artikel 290
 
 De moeder die, onder de werking van vrees voor de ontdekking van haar bevalling, haar kind bij of kort na de geboorte opzettelijk van het leven berooft, wordt, als schuldig aan kinderdoodslag, gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
-#### Artikel 291
+##### Artikel 291
 
 De moeder die, ter uitvoering van een onder de werking van vrees voor de ontdekking van haar aanstaande bevalling genomen besluit, haar kind bij of kort na de geboorte opzettelijk van het leven berooft, wordt, als schuldig aan kindermoord, gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.
 
-#### Artikel 292
+##### Artikel 292
 
 De in de [artikelen 290](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=290&z=2026-01-01&g=2026-01-01) en [291](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=291&z=2026-01-01&g=2026-01-01) omschreven misdrijven worden ten aanzien van anderen die er aan deelnemen als doodslag of als moord aangemerkt.
 
-#### Artikel 293
+##### Artikel 293
 
 1. Hij die opzettelijk het leven van een ander op diens uitdrukkelijk en ernstig verlangen beëindigt, wordt gestraft met een gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.
 
 2. Het in het eerste lid bedoelde feit is niet strafbaar, indien het is begaan door een arts die daarbij voldoet aan de zorgvuldigheidseisen, bedoeld in [artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=2) en hiervan mededeling doet aan de gemeentelijke lijkschouwer overeenkomstig [artikel 7, tweede lid, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=7).
 
-#### Artikel 294
+##### Artikel 294
 
 1. Hij die opzettelijk een ander tot zelfdoding aanzet, wordt, indien de zelfdoding volgt, gestraft met een gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
 2. Hij die opzettelijk een ander bij zelfdoding behulpzaam is of hem de middelen daartoe verschaft, wordt, indien de zelfdoding volgt, gestraft met een gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie. Artikel 293, tweede lid, is van overeenkomstige toepassing.
 
-#### Artikel 295
+##### Artikel 295
 
 1. Bij veroordeling wegens doodslag, wegens moord of wegens een der in de [artikelen 293, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=293&z=2026-01-01&g=2026-01-01), en [296](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIXA&artikel=296&z=2026-01-01&g=2026-01-01) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken.
 
@@ -3370,7 +3392,7 @@ De in de [artikelen 290](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tw
 
 ## Titel XII. Valsheid met geschriften, gegevens en biometrische kenmerken
 
-#### Artikel 296
+##### Artikel 296
 
 1. Hij die een vrouw een behandeling geeft, terwijl hij weet of redelijkerwijs moet vermoeden dat daardoor zwangerschap kan worden afgebroken, wordt gestraft met gevangenisstraf van ten hoogste vier jaar en zes maanden of geldboete van de vierde categorie.
 
@@ -3388,7 +3410,7 @@ De in de [artikelen 290](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tw
 
 ## Titel XII. Valsheid met geschriften, gegevens en biometrische kenmerken
 
-#### Artikel 300
+##### Artikel 300
 
 1. Mishandeling wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
@@ -3400,7 +3422,7 @@ De in de [artikelen 290](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tw
 
 5. Poging tot dit misdrijf is niet strafbaar.
 
-#### Artikel 301
+##### Artikel 301
 
 1. Mishandeling gepleegd met voorbedachten rade wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
@@ -3408,19 +3430,19 @@ De in de [artikelen 290](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tw
 
 3. Indien het feit de dood ten gevolge heeft, wordt hij gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.
 
-#### Artikel 302
+##### Artikel 302
 
 1. Hij die aan een ander opzettelijk zwaar lichamelijk letsel toebrengt, wordt, als schuldig aan zware mishandeling, gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.
 
 2. Indien het feit de dood ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
-#### Artikel 303
+##### Artikel 303
 
 1. Zware mishandeling gepleegd met voorbedachten rade wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.
 
 2. Indien het feit de dood ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
-#### Artikel 304
+##### Artikel 304
 
 1. De in de [artikelen 300-303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=300&z=2026-01-01&g=2026-01-01) bepaalde gevangenisstraffen kunnen met een derde worden verhoogd:
 
@@ -3434,13 +3456,13 @@ De in de [artikelen 290](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tw
 
 2. Met een ambtenaar wordt gelijkgesteld een persoon in de openbare dienst van een vreemde staat die in Nederland op door het volkenrecht toegelaten wijze zijn bediening uitoefent.
 
-#### Artikel 305
+##### Artikel 305
 
 1. Bij veroordeling wegens een der in de [artikelen 301](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=301&z=2026-01-01&g=2026-01-01) en [303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=303&z=2026-01-01&g=2026-01-01) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken.
 
 2. Bij veroordeling wegens een der in de [artikelen 301–303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=301&z=2026-01-01&g=2026-01-01) omschreven misdrijven kan de schuldige, indien hij het misdrijf in zijn beroep heeft begaan, worden ontzet van de uitoefening van dat beroep.
 
-#### Artikel 306
+##### Artikel 306
 
 Zij die opzettelijk deelnemen aan een aanval of vechterij waarin onderscheiden personen zijn gewikkeld, worden, behoudens ieders verantwoordelijkheid voor de bijzondere door hem bedreven feiten, gestraft:
 
@@ -3450,29 +3472,29 @@ Zij die opzettelijk deelnemen aan een aanval of vechterij waarin onderscheiden p
 
 ## Titel XIII. Misdrijven tegen de burgerlijke staat
 
-#### Artikel 307
+##### Artikel 307
 
 1. Hij aan wiens schuld de dood van een ander te wijten is, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
 2. Indien de schuld bestaat in roekeloosheid, wordt hij gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
-#### Artikel 308
+##### Artikel 308
 
 1. Hij aan wiens schuld te wijten is dat een ander zwaar lichamelijk letsel bekomt of zodanig lichamelijk letsel dat daaruit tijdelijke ziekte of verhindering in de uitoefening van zijn ambts- of beroepsbezigheden ontstaat, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
 
 2. Indien de schuld bestaat in roekeloosheid, wordt hij gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-#### Artikel 309
+##### Artikel 309
 
 Indien de in deze titel omschreven misdrijven worden gepleegd in de uitoefening van enig ambt of beroep, kan de gevangenisstraf met een derde worden verhoogd, kan ontzetting worden uitgesproken van de uitoefening van het beroep waarin het misdrijf is gepleegd, en kan de rechter de openbaarmaking van zijn uitspraak gelasten.
 
 ## Titel XIII. Misdrijven tegen de burgerlijke staat
 
-#### Artikel 310
+##### Artikel 310
 
 Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, met het oogmerk om het zich wederrechtelijk toe te eigenen, wordt, als schuldig aan diefstal, gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
-#### Artikel 311
+##### Artikel 311
 
 1. Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft:
 
@@ -3490,7 +3512,7 @@ Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, met 
 
 2. Indien de onder 3° omschreven diefstal vergezeld gaat van een der in onder 4° en 5° vermelde omstandigheden, wordt gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie opgelegd.
 
-#### Artikel 312
+##### Artikel 312
 
 1. Met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie wordt gestraft diefstal, voorafgegaan, vergezeld of gevolgd van geweld of bedreiging met geweld tegen personen, gepleegd met het oogmerk om die diefstal voor te bereiden of gemakkelijk te maken, of om, bij betrapping op heter daad, aan zichzelf of andere deelnemers aan het misdrijf hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren.
 
@@ -3508,17 +3530,17 @@ Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, met 
 
 3. Gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie wordt opgelegd, indien het feit de dood ten gevolge heeft.
 
-#### Artikel 313
+##### Artikel 313
 
 Bij veroordeling wegens diefstal kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken.
 
-#### Artikel 314
+##### Artikel 314
 
 1. Hij die, zonder geweld of bedreiging met geweld tegen personen, geheel of ten dele aan een ander toebehorende klei, bagger, ongesneden veen, zand, aarde, grind, puin, mestspeciën, zoden, plaggen, heide, helm, wier, riet, biezen, mos, onbewerkt en niet vervoerd hak- of sprokkelhout, ongeplukte of afgevallen boomvruchten of bladeren, te veld staand gras of te veld staande of na de oogst achtergebleven veldvruchten wegneemt, met het oogmerk om zich die voorwerpen wederrechtelijk toe te eigenen, wordt, als schuldig aan stroperij, gestraft met gevangenisstraf van ten hoogste een maand of geldboete van de tweede categorie.
 
 2. Indien tijdens het plegen van het misdrijf nog geen twee jaren zijn verlopen sedert een vroegere veroordeling van de schuldige wegens gelijk misdrijf onherroepelijk is geworden, wordt hij gestraft met gevangenisstraf van ten hoogste twee maanden of geldboete van de tweede categorie.
 
-#### Artikel 315
+##### Artikel 315
 
 1. Met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie wordt gestraft:
 
@@ -3528,7 +3550,7 @@ Bij veroordeling wegens diefstal kan ontzetting van de in [artikel 28, eerste li
 
 2. Ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten kan worden uitgesproken.
 
-#### Artikel 316
+##### Artikel 316
 
 1. Indien de dader van of medeplichtige aan een der in deze titel omschreven misdrijven de niet van tafel en bed of van goederen gescheiden echtgenoot is van hem tegen wie het misdrijf is gepleegd, is de strafvervolging tegen die dader of die medeplichtige uitgesloten.
 
@@ -3538,7 +3560,7 @@ Bij veroordeling wegens diefstal kan ontzetting van de in [artikel 28, eerste li
 
 ## Titel XIII. Misdrijven tegen de burgerlijke staat
 
-#### Artikel 317
+##### Artikel 317
 
 1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, door geweld of bedreiging met geweld iemand dwingt hetzij tot de afgifte van enig goed dat geheel of ten dele aan deze of aan een derde toebehoort, hetzij tot het aangaan van een schuld of het teniet doen van een inschuld, hetzij tot het ter beschikking stellen van gegevens, wordt, als schuldig aan afpersing, gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.
 
@@ -3546,7 +3568,7 @@ Bij veroordeling wegens diefstal kan ontzetting van de in [artikel 28, eerste li
 
 3. De bepalingen van het [tweede en derde lid van artikel 312](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=312&z=2026-01-01&g=2026-01-01) zijn op dit misdrijf van toepassing.
 
-#### Artikel 318
+##### Artikel 318
 
 1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, door bedreiging met smaad, smaadschrift of openbaring van een geheim iemand dwingt hetzij tot de afgifte van enig goed dat geheel of ten dele aan deze of aan een derde toebehoort, hetzij tot het aangaan van een schuld of het teniet doen van een inschuld, hetzij tot het ter beschikking stellen van gegevens, wordt als schuldig aan afdreiging, gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
@@ -3554,37 +3576,37 @@ Bij veroordeling wegens diefstal kan ontzetting van de in [artikel 28, eerste li
 
 3. Dit misdrijf wordt niet vervolgd dan op klacht van hem tegen wie het gepleegd is.
 
-#### Artikel 319
+##### Artikel 319
 
 De bepaling van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=316&z=2026-01-01&g=2026-01-01) is op de in deze titel omschreven misdrijven van toepassing.
 
-#### Artikel 320
+##### Artikel 320
 
 Bij veroordeling wegens een der in deze titel omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken.
 
 ## Titel XIV. Seksuele misdrijven
 
-#### Artikel 321
+##### Artikel 321
 
 Hij die opzettelijk enig goed dat geheel of ten dele aan een ander toebehoort en dat hij anders dan door misdrijf onder zich heeft, wederrechtelijk zich toeëigent, wordt, als schuldig aan verduistering, gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vijfde categorie.
 
-#### Artikel 322
+##### Artikel 322
 
 Verduistering gepleegd door hem die het goed uit hoofde van zijn persoonlijke dienstbetrekking of van zijn beroep, of tegen geldelijke vergoeding onder zich heeft, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
-#### Artikel 323
+##### Artikel 323
 
 Verduistering gepleegd door hem wie het goed uit noodzaak in bewaring is gegeven, of door voogden, curators, bewindvoerders, executeurs van een nalatenschap, door de rechter benoemde vereffenaars van een nalatenschap of gemeenschap of beheerders van instellingen van weldadigheid of van stichtingen, ten opzichte van enig goed dat zij als zodanig onder zich hebben, wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vijfde categorie.
 
-#### Artikel 323a
+##### Artikel 323a
 
 Hij die opzettelijk en wederrechtelijk middelen die met een bepaald doel door of vanwege de overheid dan wel door of vanwege een volkenrechtelijke organisatie zijn verstrekt, aanwendt voor andere doeleinden dan waarvoor zij zijn verstrekt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
-#### Artikel 324
+##### Artikel 324
 
 De bepaling van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=316&z=2026-01-01&g=2026-01-01) is op de in deze titel omschreven misdrijven van toepassing.
 
-#### Artikel 325
+##### Artikel 325
 
 1. Bij veroordeling wegens een der in deze titel omschreven misdrijven, kan de rechter de openbaarmaking van zijn uitspraak gelasten en ontzetting uitspreken van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten.
 
@@ -3592,17 +3614,17 @@ De bepaling van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&bo
 
 ## Titel XVIII. Misdrijven tegen de persoonlijke vrijheid
 
-#### Artikel 326
+##### Artikel 326
 
 1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, hetzij door het aannemen van een valse naam of van een valse hoedanigheid, hetzij door listige kunstgrepen, hetzij door een samenweefsel van verdichtsels, iemand beweegt tot de afgifte van enig goed, tot het verlenen van een dienst, tot het ter beschikking stellen van gegevens, tot het aangaan van een schuld of tot het teniet doen van een inschuld, wordt, als schuldig aan oplichting, gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
 2. Indien het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 
-#### Artikel 326a
+##### Artikel 326a
 
 Hij die een beroep of een gewoonte maakt van het kopen van goederen met het oogmerk om zonder volledige betaling zich of een ander de beschikking over die goederen te verzekeren, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
-#### Artikel 326b
+##### Artikel 326b
 
 Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie wordt gestraft:
 
@@ -3610,7 +3632,7 @@ Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde catego
 
 - 2°. hij die opzettelijk een werk van letterkunde, wetenschap, kunst of nijverheid, waarop of waarin valselijk enige naam of enig teken is geplaatst, of de echte naam of het echte teken is vervalst, verkoopt, te koop aanbiedt, aflevert, ten verkoop in voorraad heeft of binnen het Rijk in Europa invoert, als ware dat werk van de hand van degene wiens naam of teken daarop of daarin valselijk is aangebracht.
 
-#### Artikel 326c
+##### Artikel 326c
 
 1. Hij die, met het oogmerk daarvoor niet volledig te betalen, door een technische ingreep of met behulp van valse signalen, gebruik maakt van een dienst die via telecommunicatie aan het publiek wordt aangeboden, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
@@ -3624,19 +3646,19 @@ Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde catego
 
 3. Hij die van het plegen van misdrijven als bedoeld in het tweede lid, zijn beroep maakt of het plegen van deze misdrijven als bedrijf uitoefent wordt gestraft hetzij met gevangenisstraf van ten hoogste vier jaren en geldboete van de vijfde categorie, hetzij met één van deze straffen.
 
-#### Artikel 327
+##### Artikel 327
 
 Hij die door listige kunstgrepen de verzekeraar in dwaling brengt ten opzichte van omstandigheden tot de verzekering betrekking hebbende, zodat deze een overeenkomst sluit die hij niet of niet onder dezelfde voorwaarden zou hebben gesloten indien hij de ware staat van zaken gekend had, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vijfde categorie.
 
-#### Artikel 328
+##### Artikel 328
 
 Hij die, met het oogmerk om zich of een ander, ten nadele van de verzekeraar, wederrechtelijk te bevoordelen, brand sticht of een ontploffing teweegbrengt in enig tegen brandgevaar verzekerd goed, of een vaartuig of luchtvaartuig dat verzekerd is of waarvan de zich aan boord bevindende zaken of de te verdienen vracht zijn verzekerd, doet zinken, stranden of verongelukken, vernielt, onbruikbaar maakt of beschadigt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
-#### Artikel 328bis
+##### Artikel 328bis
 
 Hij die, om het handels- of bedrijfsdebiet van zichzelf of van een ander te vestigen, te behouden of uit te breiden, enige bedrieglijke handeling pleegt tot misleiding van het publiek of van een bepaald persoon, wordt, indien daaruit enig nadeel voor concurrenten van hem of van die ander kan ontstaan, als schuldig aan oneerlijke mededinging, gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vijfde categorie.
 
-#### Artikel 328ter
+##### Artikel 328ter
 
 1. Hij die, anders dan als ambtenaar, werkzaam zijnde in dienstbetrekking of optredend als lasthebber, naar aanleiding van hetgeen hij in strijd met zijn plicht in zijn betrekking of bij de uitvoering van zijn last heeft gedaan of nagelaten dan wel zal doen of nalaten, een gift, belofte of dienst aanneemt dan wel vraagt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
@@ -3650,7 +3672,7 @@ Hij die, om het handels- of bedrijfsdebiet van zichzelf of van een ander te vest
 
 6. Indien het feit is gepleegd ten behoeve van een buitenlandse mogendheid wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 
-#### Artikel 328quater
+##### Artikel 328quater
 
 1. Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie wordt gestraft hij die een gift of een belofte aanneemt naar aanleiding van hetgeen hij heeft gedaan of nagelaten dan wel zal doen of nalaten in verband met een op hem of op de persoon bij wie hij in dienst is, rustende wettelijke plicht tot
 
@@ -3660,7 +3682,7 @@ Hij die, om het handels- of bedrijfsdebiet van zichzelf of van een ander te vest
 
 2. Met gelijke straf wordt gestraft hij die een ander een gift of een belofte doet naar aanleiding van hetgeen deze heeft gedaan of nagelaten dan wel zal doen of nalaten in verband met een op hem of op de persoon bij wie hij in dienst is, rustende wettelijke plicht als bedoeld in het eerste lid.
 
-#### Artikel 329
+##### Artikel 329
 
 Met gevangenisstraf van ten hoogste een jaar of geldboete van de vijfde categorie wordt gestraft de verkoper die de koper bedriegt:
 
@@ -3668,41 +3690,41 @@ Met gevangenisstraf van ten hoogste een jaar of geldboete van de vijfde categori
 
 - 2°. ten opzichte van de aard, de hoedanigheid of de hoeveelheid van het geleverde, door het aanwenden van listige kunstgrepen.
 
-#### Artikel 329bis
+##### Artikel 329bis
 
 De houder van een cognossement die opzettelijk over verschillende exemplaren daarvan onder bezwarende titel beschikt ten behoeve van verschillende verkrijgers, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie.
 
-#### Artikel 330
+##### Artikel 330
 
 1. Hij die eet- of drinkwaren of geneesmiddelen verkoopt, te koop aanbiedt of aflevert, wetende dat zij vervalst zijn en die vervalsing verzwijgende, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vijfde categorie.
 
 2. Eet- of drinkwaren of geneesmiddelen zijn vervalst wanneer door bijmenging van vreemde bestanddelen hun waarde of hun bruikbaarheid verminderd is.
 
-#### Artikel 331
+##### Artikel 331
 
 1. Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft de aannemer of de bouwmeester van enig werk of de verkoper van bouwmaterialen die bij de uitvoering van het werk of de levering van de materialen enige bedrieglijke handeling pleegt, ten gevolge waarvan de veiligheid van personen of goederen of de veiligheid van de staat in tijd van oorlog kan worden in gevaar gebracht.
 
 2. Met dezelfde straf wordt gestraft hij die, met het opzicht over het werk of over de levering van de materialen belast, de bedrieglijke handeling opzettelijk toelaat.
 
-#### Artikel 332
+##### Artikel 332
 
 1. Hij die, bij levering van benodigdheden ten dienste van de vloot of het leger, enige bedrieglijke handeling pleegt, ten gevolge waarvan de veiligheid van de staat in tijd van oorlog kan worden in gevaar gebracht, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
 2. Met dezelfde straf wordt gestraft hij die, met het opzicht over de levering van de goederen belast, de bedrieglijke handeling opzettelijk toelaat.
 
-#### Artikel 333
+##### Artikel 333
 
 Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, hetgeen tot afbakening van de grenzen van erven dient vernielt, verplaatst, verwijdert of onbruikbaar maakt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie.
 
-#### Artikel 334
+##### Artikel 334
 
 Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, door het verspreiden van een leugenachtig bericht de prijs van koopwaren, fondsen of geldswaardig papier doet stijgen of dalen, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie.
 
-#### Artikel 336
+##### Artikel 336
 
 De koopman, de bestuurder, beherende vennoot of commissaris van een rechtspersoon of vennootschap, die opzettelijk een onware staat of een onware balans, winst- en verliesrekening, staat van baten en lasten of toelichting op een van die stukken openbaar maakt of zodanige openbaarmaking opzettelijk toelaat, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
-#### Artikel 337
+##### Artikel 337
 
 1. Hij die opzettelijk:
 
@@ -3724,11 +3746,11 @@ invoert, doorvoert of uitvoert, verkoopt, te koop aanbiedt, aflevert, uitdeelt o
 
 4. Indien door het plegen van het misdrijf, genoemd in het eerste lid, gemeen gevaar voor personen of goederen te duchten is, wordt de schuldige gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
-#### Artikel 338
+##### Artikel 338
 
 De bepaling van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=316&z=2026-01-01&g=2026-01-01) is op de in deze titel omschreven misdrijven van toepassing.
 
-#### Artikel 339
+##### Artikel 339
 
 1. Bij veroordeling wegens een der in deze titel omschreven misdrijven, kan de rechter de openbaarmaking van zijn uitspraak gelasten en de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf begaan heeft.
 
@@ -3736,11 +3758,11 @@ De bepaling van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&bo
 
 ## Titel XVI. Belediging
 
-#### Artikel 340
+##### Artikel 340
 
 Hij die in staat van faillissement is verklaard wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie, indien hij voor de intreding van het faillissement buitensporige uitgaven heeft gedaan, ten gevolge waarvan een of meer schuldeisers in hun verhaalsmogelijkheden zijn benadeeld.
 
-#### Artikel 341
+##### Artikel 341
 
 1. Hij die in staat van faillissement is verklaard wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie, indien hij, wetende dat hierdoor een of meer schuldeisers in hun verhaalsmogelijkheden worden benadeeld:
 
@@ -3754,11 +3776,11 @@ Hij die in staat van faillissement is verklaard wordt gestraft met gevangenisstr
 
 - 2°. voor of tijdens de toepassing van de schuldsaneringsregeling een van zijn schuldeisers op enige wijze wederrechtelijk heeft bevoordeeld of bevoordeelt.
 
-#### Artikel 342
+##### Artikel 342
 
 Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie wordt gestraft de bestuurder of commissaris van een rechtspersoon die voor de intreding van het faillissement, indien dit is gevolgd, buitensporig middelen van de rechtspersoon heeft verbruikt, uitgegeven of vervreemd, dan wel hieraan heeft meegewerkt of daarvoor zijn toestemming heeft gegeven, ten gevolge waarvan een of meer schuldeisers in hun verhaalsmogelijkheden zijn benadeeld.
 
-#### Artikel 343
+##### Artikel 343
 
 Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft de bestuurder of commissaris van een rechtspersoon die wetende dat hierdoor een of meer schuldeisers van de rechtspersoon in hun verhaalsmogelijkheden worden benadeeld:
 
@@ -3768,7 +3790,7 @@ Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categor
 
 - 3°. voor de intreding van het faillissement, indien dit is gevolgd, of tijdens het faillissement een van de schuldeisers van de rechtspersoon op enige wijze wederrechtelijk heeft bevoordeeld of bevoordeelt.
 
-#### Artikel 344
+##### Artikel 344
 
 1. Met gevangenisstraf van ten hoogste vier jaren en zes maanden of geldboete van de vijfde categorie wordt gestraft hij die in geval van een faillissement van een ander, of daaraan voorafgaand indien het faillissement is gevolgd, wetende dat hierdoor een of meer schuldeisers in hun verhaalsmogelijkheden worden benadeeld:
 
@@ -3782,19 +3804,19 @@ Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categor
 
 - 2°. zich wederrechtelijk bevoordeelt of laat bevoordelen, dan wel zich wederrechtelijk heeft bevoordeeld of zich heeft laten bevoordelen.
 
-#### Artikel 345
+##### Artikel 345
 
 1. De schuldeiser die tot een aangeboden gerechtelijk akkoord toetreedt ten gevolge van een overeenkomst hetzij met de schuldenaar, hetzij met een derde, waarbij hij bijzondere voordelen heeft bedongen, wordt, in geval van aanneming van het akkoord, gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vijfde categorie.
 
 2. Gelijke straf wordt in hetzelfde geval toegepast op de schuldenaar of, indien deze een rechtspersoon is, op de bestuurder of commissaris, die zodanige overeenkomst sluit.
 
-#### Artikel 347
+##### Artikel 347
 
 1. De bestuurder of commissaris van een rechtspersoon die, buiten het geval van de [artikelen 342](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=342&z=2026-01-01&g=2026-01-01) en [343](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=343&z=2026-01-01&g=2026-01-01), buitensporig middelen van de rechtspersoon heeft verbruikt, uitgegeven of vervreemd, dan wel hieraan zijn medewerking heeft verleend of daarvoor zijn toestemming heeft gegeven, ten gevolge waarvan de rechtspersoon ernstig nadeel ondervindt en het voortbestaan in gevaar komt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie.
 
 2. Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie wordt gestraft de bestuurder of commissaris van een rechtspersoon die, buiten het geval van de [artikelen 342](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=342&z=2026-01-01&g=2026-01-01) en [343](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVI&artikel=343&z=2026-01-01&g=2026-01-01), buitensporig middelen van de rechtspersoon verbruikt, uitgeeft of vervreemdt, dan wel hieraan medewerkt of daaraan zijn toestemming geeft, met het oogmerk zichzelf of een ander te bevoordelen, ten gevolge waarvan de rechtspersoon ernstig nadeel ondervindt en het voortbestaan in gevaar komt.
 
-#### Artikel 348
+##### Artikel 348
 
 1. Hij die opzettelijk zijn eigen goed of, ten behoeve van degene aan wie het toebehoort, een hem niet toebehorend goed onttrekt aan een pandrecht, een retentierecht of een recht van vruchtgebruik of gebruik van een ander, wordt gestraft met een gevangenisstraf van ten hoogste een jaar en zes maanden.
 
@@ -3802,7 +3824,7 @@ Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categor
 
 3. De bepaling van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=316&z=2026-01-01&g=2026-01-01) is op deze misdrijven van toepassing.
 
-#### Artikel 349
+##### Artikel 349
 
 1. Bij veroordeling wegens een der in deze titel omschreven misdrijven, kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf begaan heeft.
 
@@ -3812,13 +3834,13 @@ Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categor
 
 ## Titel XVII. Schending van geheimen
 
-#### Artikel 350
+##### Artikel 350
 
 1. Hij die opzettelijk en wederrechtelijk enig goed dat geheel of ten dele aan een ander toebehoort, vernielt, beschadigt, onbruikbaar maakt of wegmaakt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
 2. Met gevangenisstraf van ten hoogste vijf jaren of een geldboete van de vijfde categorie wordt gestraft hij die opzettelijk en wederrechtelijk een dier dat geheel of ten dele aan een ander toebehoort, doodt, beschadigt, onbruikbaar maakt of wegmaakt.
 
-#### Artikel 350a
+##### Artikel 350a
 
 1. Hij die opzettelijk en wederrechtelijk gegevens die door middel van een geautomatiseerd werk of door middel van telecommunicatie zijn opgeslagen, worden verwerkt of overgedragen, verandert, wist, onbruikbaar of ontoegankelijk maakt, dan wel andere gegevens daaraan toevoegt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
@@ -3828,35 +3850,35 @@ Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categor
 
 4. Niet strafbaar is degeen die het feit, bedoeld in het derde lid, pleegt met het oogmerk om schade als gevolg van deze gegevens te beperken.
 
-#### Artikel 350b
+##### Artikel 350b
 
 1. Hij aan wiens schuld te wijten is dat gegevens die door middel van een geautomatiseerd werk of door middel van telecommunicatie zijn opgeslagen, worden verwerkt of overgedragen, wederrechtelijk worden veranderd, gewist, onbruikbaar of ontoegankelijk gemaakt, dan wel dat andere gegevens daaraan worden toegevoegd, wordt, indien daardoor ernstige schade met betrekking tot die gegevens wordt veroorzaakt, gestraft met gevangenisstraf of hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
 2. Hij aan wiens schuld te wijten is dat gegevens wederrechtelijk ter beschikking gesteld of verspreid worden die zijn bestemd om schade aan te richten in een geautomatiseerd werk, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
-#### Artikel 351
+##### Artikel 351
 
 Hij die spoorweg- of elektriciteitswerken, geautomatiseerde werken of werken voor telecommunicatie, werken dienend tot waterkering, waterlozing, gas- of waterleiding of riolering, voor zover deze werken ten algemenen nutte gebezigd worden, dan wel goederen of werken ten behoeve van de landsverdediging, opzettelijk en wederrechtelijk vernielt, beschadigt, onbruikbaar maakt, onklaar maakt of weg maakt, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
-#### Artikel 351bis
+##### Artikel 351bis
 
 Hij aan wiens schuld te wijten is dat enig in het vorig artikel bedoeld goed of werk, vernield, beschadigd, onbruikbaar gemaakt, onklaar gemaakt of weggemaakt wordt, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
-#### Artikel 352
+##### Artikel 352
 
 Hij die opzettelijk en wederrechtelijk enig gebouw, vaartuig of zijn lading, installatie ter zee of luchtvaartuig dat geheel of ten dele aan een ander toebehoort, vernielt, beschadigt, onbruikbaar maakt of onklaar maakt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
-#### Artikel 353
+##### Artikel 353
 
 De bepaling van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=316&z=2026-01-01&g=2026-01-01) is op de in deze titel omschreven misdrijven van toepassing.
 
-#### Artikel 354
+##### Artikel 354
 
 Indien een der in deze titel omschreven misdrijven arglistig gepleegd wordt, of daarvan levensgevaar voor een ander is te duchten, kan de gevangenisstraf met een derde worden verhoogd.
 
 ## Titel XIX. Misdrijven tegen het leven gericht
 
-#### Artikel 355
+##### Artikel 355
 
 Met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie, worden gestraft de ministers of staatssecretarissen:
 
@@ -3868,39 +3890,39 @@ Met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde catego
 
 - 4°. die opzettelijk nalaten uitvoering te geven aan de bepalingen van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) of andere wetten of algemene maatregelen van bestuur, voor zover die uitvoering wegens de aard van het onderwerp tot hun taak behoort of uitdrukkelijk hun is opgedragen.
 
-#### Artikel 356
+##### Artikel 356
 
 Met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie worden gestraft de ministers en staatssecretarissen aan wier grove schuld te wijten is dat de in [artikel 355, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=355&z=2026-01-01&g=2026-01-01), omschreven uitvoering wordt nagelaten.
 
-#### Artikel 357
+##### Artikel 357
 
 De bevelhebber van de gewapende macht die weigert of opzettelijk nalaat op de wettige vordering van het bevoegde burgerlijk gezag de onder zijn bevel staande macht aan te wenden, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
-#### Artikel 358
+##### Artikel 358
 
 1. De ambtenaar die opzettelijk de bijstand van de gewapende macht inroept tegen de uitvoering van wettelijke voorschriften, van wettige bevelen van het openbaar gezag of van rechterlijke uitspraken of bevelschriften, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
 2. Indien die uitvoering daardoor wordt verhinderd, wordt de schuldige gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.
 
-#### Artikel 359
+##### Artikel 359
 
 De ambtenaar of een ander met enige openbare dienst voortdurend of tijdelijk belast persoon, die opzettelijk geld of geldswaardig papier dat hij in zijn bediening onder zich heeft, verduistert of toelaat dat het door een ander weggenomen of verduisterd wordt, of die ander daarbij als medeplichtige ter zijde staat, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
-#### Artikel 360
+##### Artikel 360
 
 De ambtenaar of een ander met enige openbare dienst voortdurend of tijdelijk belast persoon, die opzettelijk boeken of registers, uitsluitend bestemd tot controle van de administratie, valselijk opmaakt of vervalst, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vijfde categorie.
 
-#### Artikel 361
+##### Artikel 361
 
 1. De ambtenaar of een ander met enige openbare dienst voortdurend of tijdelijk belast persoon, die opzettelijk zaken bestemd om voor de bevoegde macht tot overtuiging of bewijs te dienen, akten, bescheiden of registers, welke hij in zijn bediening onder zich heeft verduistert, vernielt, beschadigt of onbruikbaar maakt, of toelaat dat zij door een ander worden weggemaakt, vernield, beschadigd of onbruikbaar gemaakt, of die ander daarbij als medeplichtige ter zijde staat, wordt gestraft met gevangenisstraf van ten hoogste vier jaren en zes maanden of geldboete van de vijfde categorie.
 
 2. Onder bevoegde macht wordt mede verstaan: een internationaal gerecht dat zijn rechtsmacht ontleent aan een verdrag waarbij het Koninkrijk partij is.
 
-#### Artikel 362
+##### Artikel 362
 
 Vervallen
 
-#### Artikel 363
+##### Artikel 363
 
 1. Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft de ambtenaar:
 
@@ -3918,7 +3940,7 @@ Vervallen
 
 4. Indien het feit is gepleegd ten behoeve van een buitenlandse mogendheid wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 
-#### Artikel 364
+##### Artikel 364
 
 1. De rechter die een gift, belofte of dienst aanneemt, wetende of redelijkerwijs vermoedende dat deze hem gedaan, verleend of aangeboden wordt teneinde invloed uit te oefenen op de beslissing van een aan zijn oordeel onderworpen zaak, wordt gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.
 
@@ -3930,7 +3952,7 @@ Vervallen
 
 5. Indien het feit is gepleegd ten behoeve van een buitenlandse mogendheid wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 
-#### Artikel 364a
+##### Artikel 364a
 
 1. Met ambtenaren worden ten aanzien van de [artikelen 358 tot en met 361](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=358&z=2026-01-01&g=2026-01-01), [363](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=363&z=2026-01-01&g=2026-01-01), [365 tot en met 371](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=365&z=2026-01-01&g=2026-01-01) en [376](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=376&z=2026-01-01&g=2026-01-01) gelijkgesteld personen in de openbare dienst van een vreemde staat of van een volkenrechtelijke organisatie.
 
@@ -3938,21 +3960,21 @@ Vervallen
 
 3. Met rechter wordt ten aanzien van [artikel 364](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=364&z=2026-01-01&g=2026-01-01) gelijkgesteld de rechter van een vreemde staat of van een volkenrechtelijke organisatie.
 
-#### Artikel 365
+##### Artikel 365
 
 De ambtenaar die door misbruik van gezag iemand dwingt iets te doen, niet te doen of te dulden, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-#### Artikel 366
+##### Artikel 366
 
 De ambtenaar die in de uitoefening van zijn bediening, als verschuldigd aan hemzelf, aan een ander ambtenaar of aan enige openbare kas, vordert of ontvangt of bij een uitbetaling terughoudt hetgeen hij weet dat niet verschuldigd is, wordt, als schuldig aan knevelarij, gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
-#### Artikel 367
+##### Artikel 367
 
 1. De ambtenaar die, belast met de bewaking van iemand die op openbaar gezag of krachtens rechterlijke uitspraak of beschikking van de vrijheid is beroofd, hem opzettelijk laat ontsnappen of bevrijdt of bij zijn bevrijding of zelfbevrijding behulpzaam is, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
 2. Indien de ontsnapping, bevrijding of zelfbevrijding aan zijn schuld te wijten is, wordt hij gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
 
-#### Artikel 368
+##### Artikel 368
 
 1. Met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie wordt gestraft:
 
@@ -3962,23 +3984,23 @@ De ambtenaar die in de uitoefening van zijn bediening, als verschuldigd aan hemz
 
 2. De ambtenaar aan wiens schuld enig in dit artikel omschreven verzuim te wijten is, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.
 
-#### Artikel 369
+##### Artikel 369
 
 Vervallen
 
-#### Artikel 370
+##### Artikel 370
 
 1. De ambtenaar die, met overschrijding van zijn bevoegdheid of zonder inachtneming van de bij de wet bepaalde vormen, in de woning of het besloten lokaal of erf, bij een ander in gebruik, diens ondanks binnentreedt of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van of vanwege de rechthebbende aanstonds verwijdert, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
 2. Met gelijke straf wordt gestraft de ambtenaar die ter gelegenheid van het doorzoeken van plaatsen met overschrijding van zijn bevoegdheid of zonder inachtneming van de bij de wet bepaalde vormen, geschriften, boeken of andere papieren onderzoekt of in beslag neemt.
 
-#### Artikel 371
+##### Artikel 371
 
 1. De ambtenaar die, met overschrijding van zijn bevoegdheid, zich doet overleggen of in beslag neemt een aan enige openbare instelling van vervoer toevertrouwde brief, briefkaart, stuk of pakket, of een telegrafisch bericht dat zich in handen bevindt van een persoon belast met de dienst van een ten algemenen nutte gebezigde telegraafinrichting, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
 2. Met dezelfde straf wordt gestraft de ambtenaar die, met overschrijding van zijn bevoegdheid, zich door een persoon werkzaam bij een aanbieder van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst doet inlichten ter zake van enig verkeer dat over dat netwerk dan wel met gebruikmaking van die dienst is geschied.
 
-#### Artikel 372
+##### Artikel 372
 
 De ambtenaar aan wie bij of krachtens [artikel 7, eerste, achtste of negende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) of [artikel 6, eerste lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6) de bevoegdheid geweld te gebruiken is toegekend en aan wiens schuld het te wijten is dat hij het in zijn geweldsinstructie bepaalde schendt, wordt gestraft:
 
@@ -3988,41 +4010,41 @@ De ambtenaar aan wie bij of krachtens [artikel 7, eerste, achtste of negende lid
 
 - 3°. met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie, indien het feit de dood ten gevolge heeft.
 
-#### Artikel 373
+##### Artikel 373
 
 Ten aanzien van [artikel 372](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=372&z=2026-01-01&g=2026-01-01) worden met de in dat artikel bedoelde ambtenaren aan wie bij of krachtens [artikel 7, eerste, achtste of negende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) of [artikel 6, eerste lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6) de bevoegdheid geweld te gebruiken is toegekend, gelijkgesteld personen in de openbare dienst van een vreemde staat die in Nederland op door het volkenrecht toegelaten wijze hun bediening uitoefenen en aan wie de bevoegdheid geweld te gebruiken is toegekend.
 
-#### Artikel 374
+##### Artikel 374
 
 Vervallen
 
-#### Artikel 374bis
+##### Artikel 374bis
 
 Vervallen
 
-#### Artikel 375
+##### Artikel 375
 
 Vervallen
 
-#### Artikel 376
+##### Artikel 376
 
 Met gevangenisstraf van ten hoogste zes maanden of geldboete van de vijfde categorie wordt gestraft de ambtenaar die opzettelijk deelneemt, middellijk of onmiddellijk, aan aannemingen of leveranties waarover hem op het tijdstip van de handeling geheel of ten dele het bestuur of toezicht is opgedragen.
 
-#### Artikel 377
+##### Artikel 377
 
 De ambtenaar van het muntwezen, behalve de muntmeester, of degene, in dienst van een waarborginstelling als bedoeld in [artikel 4 van de Waarborgwet 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&artikel=4), die handel drijft in edele metalen of daarvan vervaardigde voorwerpen, of opzettelijk aan zodanige handel middellijk of onmiddellijk deelneemt, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
-#### Artikel 378
+##### Artikel 378
 
 Degene, in dienst van een waarborginstelling als bedoeld in [artikel 4 van de Waarborgwet 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&artikel=4), die een aan die waarborginstelling aangeboden palladium, platina, gouden of zilveren voorwerp afdrukt of natrekt of daarvan een beschrijving geeft aan een ander dan die van ambtswege bevoegd is haar te vorderen, wordt gestraft met geldboete van de tweede categorie.
 
-#### Artikel 379
+##### Artikel 379
 
 1. De ambtenaar van de burgerlijke stand die meewerkt aan iemands huwelijksvoltrekking, wetende dat deze daardoor een dubbel huwelijk aangaat, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
 2. De ambtenaar van de burgerlijke stand die meewerkt aan iemands huwelijksvoltrekking, wetende dat daartegen enig ander wettig beletsel bestaat, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-#### Artikel 380
+##### Artikel 380
 
 1. Bij veroordeling wegens een der in de [artikelen 355](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=355&z=2026-01-01&g=2026-01-01), [357](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=357&z=2026-01-01&g=2026-01-01) en [358](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVIII&artikel=358&z=2026-01-01&g=2026-01-01) omschreven misdrijven kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde recht worden uitgesproken.
 
@@ -4030,7 +4052,7 @@ Degene, in dienst van een waarborginstelling als bedoeld in [artikel 4 van de Wa
 
 ## Titel XXI. Veroorzaken van de dood of van lichamelijk letsel door schuld
 
-#### Artikel 381
+##### Artikel 381
 
 1. Als schuldig aan zeeroof wordt gestraft:
 
@@ -4044,19 +4066,19 @@ Degene, in dienst van een waarborginstelling als bedoeld in [artikel 4 van de Wa
 
 4. Het in de vorige leden ten aanzien van de schipper en de schepeling bepaalde is van overeenkomstige toepassing ten aanzien van de gezagvoerder onderscheidenlijk het lid van de bemanning van een luchtvaartuig. Onder vaartuig wordt in de vorige leden luchtvaartuig begrepen en onder open zee het luchtruim daarboven.
 
-#### Artikel 382
+##### Artikel 382
 
 Indien de in [artikel 381](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=381&z=2026-01-01&g=2026-01-01) omschreven daden van geweld de dood van een der zich op het aangevallen vaartuig of luchtvaartuig bevindende personen ten gevolge hebben, wordt de schipper of de gezagvoerder van het luchtvaartuig en worden zij die aan de daden van geweld hebben deelgenomen, met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie gestraft.
 
-#### Artikel 383
+##### Artikel 383
 
 Hij die voor eigen of vreemde rekening een vaartuig of luchtvaartuig uitrust met de in [artikel 381](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=381&z=2026-01-01&g=2026-01-01) omschreven bestemming, wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.
 
-#### Artikel 384
+##### Artikel 384
 
 Hij die voor eigen of vreemde rekening middellijk of onmiddellijk medewerkt tot het verhuren, vervrachten of verzekeren van een vaartuig of luchtvaartuig, wetende dat het de in [artikel 381](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=381&z=2026-01-01&g=2026-01-01) omschreven bestemming heeft, wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.
 
-#### Artikel 385
+##### Artikel 385
 
 Hij die een Nederlands vaartuig opzettelijk in de macht van zeerovers brengt, wordt gestraft:
 
@@ -4064,7 +4086,7 @@ Hij die een Nederlands vaartuig opzettelijk in de macht van zeerovers brengt, wo
 
 - 2°. in alle andere gevallen met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.
 
-#### Artikel 385a
+##### Artikel 385a
 
 1. Hij die een luchtvaartuig door geweld, bedreiging met geweld of vreesaanjaging in zijn macht brengt of houdt dan wel van zijn route doet afwijken, wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.
 
@@ -4074,7 +4096,7 @@ Hij die een Nederlands vaartuig opzettelijk in de macht van zeerovers brengt, wo
 
 4. De straffen in het eerste lid bepaald, zijn toepasselijk op degene die de in dit lid omschreven misdrijven pleegt ten aanzien van een vaartuig, een installatie ter zee, een autobus, een trein of een ander middel van openbaar vervoer dan wel een vrachtwagen met een gevaarlijke lading.
 
-#### Artikel 385b
+##### Artikel 385b
 
 1. Hij die opzettelijk een ontplofbare of anderszins gemeengevaarlijke stof, of enig ander gemeengevaarlijk voorwerp aan boord van een luchtvaartuig brengt of een daad van geweld begaat tegen iemand die zich aan boord van een luchtvaartuig in vlucht bevindt, wordt gestraft:
 
@@ -4086,11 +4108,11 @@ Hij die een Nederlands vaartuig opzettelijk in de macht van zeerovers brengt, wo
 
 2. De straffen in het eerste lid bepaald, zijn toepasselijk op degene die de in dit lid omschreven misdrijven pleegt ten aanzien van een vaartuig en een installatie ter zee. Onder gevaar voor de veiligheid van het luchtvaartuig wordt in het eerste lid tevens begrepen gevaar voor de veilige vaart van het vaartuig.
 
-#### Artikel 385c
+##### Artikel 385c
 
 Hij die opzettelijk gegevens doorgeeft waarvan hij weet of ernstige reden heeft om te vermoeden dat zij onjuist zijn, wordt, indien daarvan gevaar voor een luchtvaartuig in vlucht of voor de veilige vaart van een vaartuig te duchten is, gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
-#### Artikel 385d
+##### Artikel 385d
 
 Hij die opzettelijk een daad van geweld begaat tegen iemand die zich op een luchthaven bevindt, wordt gestraft:
 
@@ -4100,37 +4122,37 @@ Hij die opzettelijk een daad van geweld begaat tegen iemand die zich op een luch
 
 - 3°. met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daardoor levensgevaar voor anderen op de luchthaven te duchten valt en het feit iemands dood ten gevolge heeft.
 
-#### Artikel 386
+##### Artikel 386
 
 De opvarende van een Nederlands schip die zich wederrechtelijk van het schip meester maakt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
-#### Artikel 387
+##### Artikel 387
 
 De schipper van een Nederlands schip die het schip aan de eigenaar of de rederij onttrekt en ten eigen bate gebruikt, wordt gestraft met gevangenisstraf van ten hoogste zeven jaren en zes maanden of geldboete van de vijfde categorie.
 
-#### Artikel 388
+##### Artikel 388
 
 Vervallen
 
-#### Artikel 389
+##### Artikel 389
 
 Vervallen
 
-#### Artikel 389bis
+##### Artikel 389bis
 
 1. De schipper van een Nederlands vaartuig die een scheepsverklaring doet opmaken waarvan hij weet dat de inhoud in strijd is met de waarheid, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
 2. De schepelingen die medewerken tot het doen opmaken van een scheepsverklaring waarvan zij weten dat de inhoud in strijd is met de waarheid, worden gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-#### Artikel 389ter
+##### Artikel 389ter
 
 Hij die ter voldoening aan het voorschrift van het [vierde lid van artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=194&z=2026-01-01&g=2026-01-01), van het [vijfde lid van artikel 784](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784), van het [eerste lid onder a ten derde van artikel 786](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=786) of van het [vierde lid van artikel 1303 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1303) een schriftelijke verklaring overlegt van welke hij weet dat de inhoud in strijd is met de waarheid, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
-#### Artikel 390
+##### Artikel 390
 
 De schipper van een Nederlands vaartuig die gedurende de reis zich opzettelijk aan het voeren van het vaartuig onttrekt, wordt, indien die gedraging de veiligheid van de opvarenden, het vaartuig of de zaken aan boord daarvan in gevaar brengt, gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
-#### Artikel 395
+##### Artikel 395
 
 1. De opvarende van een Nederlands schip of zeevissersschip die aan boord de schipper, of de schepeling die aan boord of in dienst een meerdere in rang feitelijk aanrandt, zich met geweld of bedreiging met geweld tegen hem verzet of hem opzettelijk van zijn vrijheid van handelen berooft, wordt, als schuldig aan insubordinatie, gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
@@ -4142,7 +4164,7 @@ De schipper van een Nederlands vaartuig die gedurende de reis zich opzettelijk a
 
 - 3°. met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien zij de dood ten gevolge hebben.
 
-#### Artikel 396
+##### Artikel 396
 
 1. Insubordinatie gepleegd door twee of meer verenigde personen, wordt, als muiterij, gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
@@ -4154,11 +4176,11 @@ De schipper van een Nederlands vaartuig die gedurende de reis zich opzettelijk a
 
 - 3°. met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien zij de dood ten gevolge hebben.
 
-#### Artikel 397
+##### Artikel 397
 
 Hij die aan boord van een Nederlands schip of zeevissersschip tot muiterij op dat schip of vaartuig opruit, wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie.
 
-#### Artikel 400
+##### Artikel 400
 
 1. Met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft:
 
@@ -4172,69 +4194,69 @@ Hij die aan boord van een Nederlands schip of zeevissersschip tot muiterij op da
 
 2. De onder 3° vermelde bepaling is niet van toepassing indien de insubordinatie niet is gevolgd.
 
-#### Artikel 401
+##### Artikel 401
 
 De in de [artikelen 386](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=386&z=2026-01-01&g=2026-01-01), [395-397](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=395&z=2026-01-01&g=2026-01-01) en [400](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=400&z=2026-01-01&g=2026-01-01) bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien de schuldige aan een der in die artikelen omschreven misdrijven scheepsofficier is.
 
-#### Artikel 402
+##### Artikel 402
 
 De schipper van een Nederlands schip die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen of zodanige bevoordeling te bedekken, hetzij het schip verkoopt, hetzij geld opneemt op het schip, het scheepstoebehoren of de scheepsvoorraad, hetzij zaken aan boord van het schip of zaken van de scheepsvoorraad verkoopt of verpandt, hetzij verdichte schaden of uitgaven in rekening brengt, hetzij niet zorgt dat aan boord de vereiste dagboeken overeenkomstig de wettelijke voorschriften worden gehouden, hetzij bij het verlaten van het schip niet zorgt voor het behoud van de scheepspapieren, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
-#### Artikel 403
+##### Artikel 403
 
 De schipper van een Nederlands schip die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen of zodanige bevoordeling te bedekken, van koers verandert, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
-#### Artikel 405
+##### Artikel 405
 
 1. De schipper van een Nederlands vaartuig die, buiten noodzaak en buiten voorkennis van de eigenaar of de rederij, handelingen pleegt of gedoogt, wetende dat deze het vaartuig of de zaken aan boord daarvan aan opbrenging, aanhouding of ophouding kunnen blootstellen, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
 2. De opvarende die, buiten noodzaak en buiten voorkennis van de schipper, met gelijke wetenschap gelijke handelingen pleegt, wordt gestraft met gevangenisstraf van ten hoogste negen maanden of geldboete van de derde categorie.
 
-#### Artikel 406
+##### Artikel 406
 
 De schipper van een Nederlands schip die opzettelijk buiten noodzaak aan een opvarende niet verschaft datgene wat hij verplicht is hem te verschaffen, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-#### Artikel 407
+##### Artikel 407
 
 De schipper van een Nederlands schip die opzettelijk buiten noodzaak of in strijd met enig wettelijk voorschrift goederen werpt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-#### Artikel 408
+##### Artikel 408
 
 Hij die zaken aan boord van een vaartuig, opzettelijk en wederrechtelijk vernielt, beschadigt of onbruikbaar maakt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-#### Artikel 409
+##### Artikel 409
 
 De schipper die op grond van voor Nederland geldende rechtsregels de vlag van het Koninkrijk voert, wetende dat hij daartoe niet gerechtigd is, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
-#### Artikel 410
+##### Artikel 410
 
 De schipper die opzettelijk door het voeren van enig onderscheidingsteken aan zijn vaartuig de schijn geeft alsof het een Nederlands oorlogsvaartuig ware, of een loodsvaartuig in Nederlandse wateren of zeegaten dienst doende, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
 
-#### Artikel 411
+##### Artikel 411
 
 Hij die buiten noodzaak op een Nederlands vaartuig optreedt als schipper, stuurman of machinist, wetende dat hij ingevolge wettelijk voorschrift daartoe onbevoegd is, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
-#### Artikel 412
+##### Artikel 412
 
 De schipper van een Nederlands schip die zonder geldige reden weigert te voldoen aan een wettelijke vordering om een beklaagde of veroordeelde benevens de tot zijn zaak betrekkelijke stukken aan boord te nemen, wordt gestraft met een gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
 
-#### Artikel 413
+##### Artikel 413
 
 1. De schipper van een Nederlands schip die een beklaagde of veroordeelde die hij op een wettelijke vordering aan boord genomen heeft, opzettelijk laat ontsnappen of bevrijdt, of bij zijn bevrijding of zelfbevrijding behulpzaam is, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
 2. Indien de ontsnapping, bevrijding of zelfbevrijding aan zijn schuld is te wijten, wordt hij gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
 
-#### Artikel 414
+##### Artikel 414
 
 De schipper die de krachtens het [eerste lid van artikel 358a](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=358a) of van [artikel 785 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=785) op hem rustende verplichting tot hulpverlening, opzettelijk niet nakomt, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
-#### Artikel 415
+##### Artikel 415
 
 Bij veroordeling wegens een der in de [artikelen 381-387](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=381&z=2026-01-01&g=2026-01-01), [402](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=402&z=2026-01-01&g=2026-01-01) en [403](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=403&z=2026-01-01&g=2026-01-01) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken.
 
 ## Titel XXIV. Verduistering
 
-#### Artikel 416
+##### Artikel 416
 
 1. Als schuldig aan opzetheling wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie:
 
@@ -4244,11 +4266,11 @@ Bij veroordeling wegens een der in de [artikelen 381-387](https://wetten.overhei
 
 2. Met dezelfde straf wordt gestraft hij die opzettelijk uit de opbrengst van enig door misdrijf verkregen goed voordeel trekt.
 
-#### Artikel 417
+##### Artikel 417
 
 Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
-#### Artikel 417bis
+##### Artikel 417bis
 
 1. Als schuldig aan schuldheling wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vijfde categorie:
 
@@ -4258,11 +4280,11 @@ Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met ge
 
 2. Met dezelfde straf wordt gestraft hij die uit de opbrengst van enig goed voordeel trekt, terwijl hij redelijkerwijs moet vermoeden dat het een door misdrijf verkregen goed betreft.
 
-#### Artikel 417ter
+##### Artikel 417ter
 
 Bij veroordeling wegens een der in de [artikelen 416-417bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXX&artikel=416&z=2026-01-01&g=2026-01-01) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken en kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf begaan heeft.
 
-#### Artikel 418
+##### Artikel 418
 
 Hij die enig geschrift of enige afbeelding uitgeeft van strafbare aard, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste een jaar of geldboete van de derde categorie, indien:
 
@@ -4270,7 +4292,7 @@ Hij die enig geschrift of enige afbeelding uitgeeft van strafbare aard, wordt ge
 
 - 2°. de uitgever wist of moest verwachten dat de dader op het tijdstip van de uitgave strafrechtelijk niet vervolgbaar of buiten het Rijk in Europa gevestigd zou zijn.
 
-#### Artikel 419
+##### Artikel 419
 
 Hij die enig geschrift of enige afbeelding drukt van strafbare aard, wordt gestraft met gevangenisstraf of hechtenis van ten hoogste een jaar of geldboete van de derde categorie, indien:
 
@@ -4278,13 +4300,13 @@ Hij die enig geschrift of enige afbeelding drukt van strafbare aard, wordt gestr
 
 - 2°. de drukker wist of moest verwachten dat de persoon op wiens last het stuk gedrukt is, op het tijdstip van de uitgave strafrechtelijk niet vervolgbaar of buiten het Rijk in Europa gevestigd zou zijn.
 
-#### Artikel 420
+##### Artikel 420
 
 Indien de aard van het geschrift of de afbeelding een misdrijf oplevert dat alleen op klacht vervolgbaar is, kan de uitgever of drukker in de gevallen der beide voorgaande artikelen alleen vervolgd worden op klacht van hem tegen wie dat misdrijf gepleegd is.
 
 ## Titel XXV. Bedrog
 
-#### Artikel 420bis
+##### Artikel 420bis
 
 1. Als schuldig aan witwassen wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie:
 
@@ -4294,13 +4316,13 @@ Indien de aard van het geschrift of de afbeelding een misdrijf oplevert dat alle
 
 2. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
 
-#### Artikel 420ter
+##### Artikel 420ter
 
 1. Hij die van het plegen van witwassen een gewoonte maakt, wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.
 
 2. Met dezelfde straf wordt gestraft hij die zich schuldig maakt aan witwassen in de uitoefening van zijn beroep of bedrijf.
 
-#### Artikel 420quater
+##### Artikel 420quater
 
 1. Als schuldig aan schuldwitwassen wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie:
 
@@ -4310,13 +4332,13 @@ Indien de aard van het geschrift of de afbeelding een misdrijf oplevert dat alle
 
 2. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
 
-#### Artikel 420quinquies
+##### Artikel 420quinquies
 
 Bij veroordeling wegens een der in de [artikelen 420bis tot en met 420quater.1](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXXA&artikel=420bis&z=2026-01-01&g=2026-01-01) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken en kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf heeft begaan.
 
 ## Titel XXVII. Vernieling of beschadiging
 
-#### Artikel 421
+##### Artikel 421
 
 1. Als schuldig aan het financieren van terrorisme wordt gestraft met een gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie:
 
@@ -4334,11 +4356,11 @@ Bij veroordeling wegens een der in de [artikelen 420bis tot en met 420quater.1](
 
 2. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
 
-#### Artikel 422
+##### Artikel 422
 
 Vervallen
 
-#### Artikel 423
+##### Artikel 423
 
 Vervallen
 
@@ -4346,13 +4368,13 @@ Vervallen
 
 ## Titel I. Overtredingen betreffende de algemene veiligheid van personen en goederen
 
-#### Artikel 424
+##### Artikel 424
 
 1. Hij die op of aan de openbare weg of op enige voor het publiek toegankelijke plaats tegen personen of goederen enige baldadigheid pleegt waardoor gevaar of nadeel kan worden teweeggebracht, wordt, als schuldig aan straatschenderij, gestraft met geldboete van de eerste categorie.
 
 2. Indien tijdens het plegen van de overtreding nog geen jaar is verlopen sedert een vroegere veroordeling van de schuldige wegens gelijke overtreding onherroepelijk is geworden, kan hechtenis van ten hoogste drie dagen of geldboete van de eerste categorie worden opgelegd.
 
-#### Artikel 425
+##### Artikel 425
 
 Met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft:
 
@@ -4360,17 +4382,17 @@ Met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wo
 
 - 2°. hij die geen voldoende zorg draagt voor het onschadelijk houden van een onder zijn hoede staand gevaarlijk dier.
 
-#### Artikel 426
+##### Artikel 426
 
 1. Hij die, terwijl hij in staat van dronkenschap verkeert, hetzij in het openbaar het verkeer belemmert of de orde verstoort, hetzij eens anders veiligheid bedreigt, hetzij enige handeling verricht waarbij, tot voorkoming van gevaar voor leven of gezondheid van derden, bijzondere omzichtigheid of voorzorgen worden vereist, wordt gestraft met hechtenis van ten hoogste zes dagen of geldboete van de eerste categorie.
 
 2. Indien tijdens het plegen van de overtreding nog geen jaar is verlopen sedert een vroegere veroordeling van de schuldige wegens gelijke of de in [artikel 430b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=II&artikel=430b&z=2026-01-01&g=2026-01-01) omschreven overtreding onherroepelijk is geworden, wordt hij gestraft met hechtenis van ten hoogste twee weken of geldboete van de tweede categorie.
 
-#### Artikel 426bis
+##### Artikel 426bis
 
 Hij die wederrechtelijk op de openbare weg een ander in zijn vrijheid van beweging belemmert of met een of meer anderen zich aan een ander tegen diens uitdrukkelijk verklaarde wil blijft opdringen of hem op hinderlijke wijze blijft volgen, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
-#### Artikel 427
+##### Artikel 427
 
 Met geldboete van de eerste categorie wordt gestraft:
 
@@ -4386,11 +4408,11 @@ Met geldboete van de eerste categorie wordt gestraft:
 
 - 6°. hij die zonder verlof van het bevoegd gezag, enige openbare land- of waterweg verspert of het verkeer daarop belemmert.
 
-#### Artikel 428
+##### Artikel 428
 
 Hij die, zonder verlof van de burgemeester, dan wel, in geval van een situatie als bedoeld in [artikel 39 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=39), de voorzitter van de veiligheidsregio of van de door deze aangewezen ambtenaar, een of meer eigen onroerende zaken in brand steekt, wordt gestraft met geldboete van de eerste categorie.
 
-#### Artikel 429
+##### Artikel 429
 
 Met hechtenis van ten hoogste veertien dagen of geldboete van de tweede categorie wordt gestraft:
 
@@ -4408,37 +4430,37 @@ Met hechtenis van ten hoogste veertien dagen of geldboete van de tweede categori
 
 ## Titel XXVIII. Ambtsmisdrijven
 
-#### Artikel 429bis
+##### Artikel 429bis
 
 Vervallen
 
-#### Artikel 429quater
+##### Artikel 429quater
 
 1. Hij die in de uitoefening van een ambt, beroep of bedrijf personen discrimineert wegens hun ras, hun godsdienst, hun levensovertuiging, hun geslacht of hun seksuele gerichtheid wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie.
 
 2. Met dezelfde straf wordt gestraft hij wiens handelen of nalaten in de uitoefening van een ambt, beroep of bedrijf zonder redelijke grond, ten doel heeft of ten gevolge kan hebben dat ten aanzien van personen met een handicap de erkenning, het genot of de uitoefening op voet van gelijkheid van de rechten van de mens en de fundamentele vrijheden op politiek, economisch, sociaal of cultureel terrein of op andere terreinen van het maatschappelijk leven, wordt teniet gedaan of aangetast.
 
-#### Artikel 429quinquies
+##### Artikel 429quinquies
 
 Hij die zonder daartoe gerechtigd te zijn zich op een verboden plaats bevindt, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
 
-#### Artikel 429sexies
+##### Artikel 429sexies
 
 Vervallen
 
-#### Artikel 430
+##### Artikel 430
 
 Hij die zonder verlof van het bevoegd gezag een opneming doet, een tekening of beschrijving maakt van enig militair werk, of die openbaar maakt, wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie.
 
-#### Artikel 430a
+##### Artikel 430a
 
 Hij die zich buiten een door de gemeenteraad als geschikt voor ongeklede openbare recreatie aangewezen plaats, ongekleed bevindt op of aan een voor het openbaar verkeer bestemde plaats die voor ongeklede recreatie niet geschikt is, wordt gestraft met geldboete van de eerste categorie.
 
-#### Artikel 431
+##### Artikel 431
 
 Met geldboete van de eerste categorie wordt gestraft hij die rumoer of burengerucht verwekt waardoor de nachtrust kan worden verstoord.
 
-#### Artikel 435
+##### Artikel 435
 
 Met geldboete van de tweede categorie wordt gestraft:
 
@@ -4450,11 +4472,11 @@ Met geldboete van de tweede categorie wordt gestraft:
 
 - 4°. hij die, door het bevoegd gezag naar zijn identificerende persoonsgegevens gevraagd, een valse naam, voornaam, geboortedatum, geboorteplaats, adres waarop hij in de basisregistratie personen als ingezetene staat ingeschreven of woon- of verblijfplaats opgeeft.
 
-#### Artikel 435a
+##### Artikel 435a
 
 Hij die in het openbaar kledingstukken of opzichtige onderscheidingstekens draagt of voert, welke uitdrukking zijn van een bepaald staatkundig streven, wordt gestraft met hechtenis van ten hoogste twaalf dagen of geldboete van de tweede categorie.
 
-#### Artikel 435b
+##### Artikel 435b
 
 1. Hij die, zonder daartoe gerechtigd te zijn, gebruik maakt van woorden, uitdrukkingen of kentekens, die aanduiden of de indruk kunnen wekken dat zijn optreden is bevorderd dan wel de steun of de erkenning geniet van rijkswege, vanwege Aruba, Curaçao, Sint Maarten of een buitenlandse mogendheid dan wel vanwege een volkenrechtelijke organisatie, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
@@ -4462,11 +4484,11 @@ Hij die in het openbaar kledingstukken of opzichtige onderscheidingstekens draag
 
 3. Bij veroordeling wegens de in het eerste lid omschreven overtreding, kan openbaarmaking van de rechterlijke uitspraak worden gelast.
 
-#### Artikel 435c
+##### Artikel 435c
 
 Hij die, zonder daartoe gerechtigd te zijn, gebruik maakt van het rode-kruisteken of van de woorden "Rode Kruis" of "Kruis van Genève", of van daarmede door de wetten en gebruiken van de oorlog gelijkgestelde tekens of woorden, dan wel van tekens of woorden die daarvan een nabootsing zijn, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
-#### Artikel 435d
+##### Artikel 435d
 
 Met hechtenis van ten hoogste een maand of geldboete van de tweede categorie wordt gestraft hij die het wapen van het Zwitserse Eedgenootschap of een teken hetwelk een nabootsing daarvan vormt, gebruikt:
 
@@ -4476,15 +4498,15 @@ Met hechtenis van ten hoogste een maand of geldboete van de tweede categorie wor
 
 - 3°. hetzij onder omstandigheden die het Zwitserse nationale gevoel zouden kunnen krenken.
 
-#### Artikel 435e
+##### Artikel 435e
 
 Hij die, anders dan in besloten kring, door tussenkomst van een ten algemenen nutte of mede ten algemenen nutte gebezigde telefooninrichting, goederen of diensten tegen betaling aanbiedt, daarbij te kennen gevend of de indruk wekkend dat de opbrengst geheel of ten dele voor een liefdadig of ideëel doel is bestemd, wordt gestraft met geldboete van de derde categorie.
 
-#### Artikel 435f
+##### Artikel 435f
 
 Vervallen
 
-#### Artikel 436
+##### Artikel 436
 
 1. Hij die, niet toegelaten tot de uitoefening van een beroep waartoe de wet een toelating vordert, buiten noodzaak dat beroep uitoefent, wordt gestraft met geldboete van de tweede categorie.
 
@@ -4492,7 +4514,7 @@ Vervallen
 
 3. Indien tijdens het plegen van de overtreding nog geen twee jaren zijn verlopen sedert een vroegere veroordeling van de schuldige wegens gelijke overtreding onherroepelijk is geworden, kan in het geval van het eerste lid hechtenis van ten hoogste twee maanden of geldboete van de derde categorie, in het geval van het tweede lid hechtenis van ten hoogste een maand of geldboete van de derde categorie worden opgelegd.
 
-#### Artikel 437
+##### Artikel 437
 
 1. Met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft de bij algemene maatregel van bestuur aangewezen handelaar die in de uitoefening van zijn beroep of bedrijf:
 
@@ -4516,7 +4538,7 @@ Vervallen
 
 4. Onder ongeregelde goederen worden verstaan goederen die wegens hun aard of uitvoering, hun herkomst of de staat waarin zij verkeren, niet tot de algemeen gangbare goederen kunnen worden gerekend.
 
-#### Artikel 437bis
+##### Artikel 437bis
 
 1. Met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft de handelaar die op grond van [artikel 437](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=II&artikel=437&z=2026-01-01&g=2026-01-01) bij algemene maatregel van bestuur is aangewezen en in de oefening van zijn beroep of bedrijf:
 
@@ -4528,17 +4550,17 @@ Vervallen
 
 3. De schuldige kan worden ontzet van de uitoefening van het beroep waarin hij de overtreding heeft begaan.
 
-#### Artikel 437ter
+##### Artikel 437ter
 
 1. De handelaar aangewezen bij algemene maatregel van bestuur op grond van [artikel 437](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=II&artikel=437&z=2026-01-01&g=2026-01-01), die een verordening door de raad van een gemeente ter bestrijding van heling uitgevaardigd en afgekondigd, overtreedt, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie.
 
 2. Met dezelfde straf wordt gestraft hij die van opkopen een beroep of gewoonte maakt, zonder daarvan te voren de burgemeester of een door die burgemeester aangewezen ambtenaar schriftelijk in kennis te hebben gesteld.
 
-#### Artikel 437quater
+##### Artikel 437quater
 
 Hij die enig voorschrift ter voorkoming van gevaar voor begunstiging van misdrijven, bij algemene maatregel van bestuur met betrekking tot het verkeer op bepaalde daarbij aan te wijzen watergebieden vastgesteld, overtreedt, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie.
 
-#### Artikel 438
+##### Artikel 438
 
 1. Hij die er zijn beroep van maakt aan personen nachtverblijf te verschaffen wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie indien hij:
 
@@ -4552,7 +4574,7 @@ Hij die enig voorschrift ter voorkoming van gevaar voor begunstiging van misdrij
 
 3. Op nachtverblijf, verschaft aan meereizende echtgenoten, minderjarige kinderen of aan reisgezelschappen, is het voorgaande niet van toepassing.
 
-#### Artikel 439
+##### Artikel 439
 
 1. Met hechtenis van ten hoogste een maand of geldboete van de tweede categorie wordt gestraft:
 
@@ -4562,23 +4584,23 @@ Hij die enig voorschrift ter voorkoming van gevaar voor begunstiging van misdrij
 
 2. Indien tijdens het plegen van de overtreding nog geen twee jaren zijn verlopen sedert een vroegere veroordeling van de schuldige wegens een van deze overtredingen onherroepelijk is geworden, kan de straf van hechtenis worden verdubbeld.
 
-#### Artikel 440
+##### Artikel 440
 
 Hij die drukwerken of andere voorwerpen in een vorm die ze op munt- of bankbiljetten, op muntspeciën, op van wettelijke merken voorziene palladium, platina, gouden of zilveren voorwerpen, op postzegels of op reisdocumenten, identiteitsbewijzen als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) of andere identiteitsbewijzen die afgegeven zijn door een dienst of organisatie van vitaal of nationaal belang of Nederlandse identiteitskaarten doet gelijken, vervaardigt, ontvangt, zich verschaft, in voorraad heeft, vervoert, invoert, doorvoert of uitvoert, wordt gestraft met geldboete van de tweede categorie.
 
-#### Artikel 441
+##### Artikel 441
 
 Met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie wordt gestraft hij die de inhoud of de strekking van hetgeen door middel van een onder zijn beheer staande of door hem gebruikt radio-ontvangapparaat is opgevangen en, naar hij redelijkerwijs moet vermoeden, niet voor hem of mede voor hem bestemd is, hetzij aan een ander meedeelt, indien hij redelijkerwijs moet vermoeden, dat dan openlijke bekendmaking van de inhoud of de strekking volgen zal en zodanige bekendmaking volgt, hetzij openlijk bekend maakt.
 
-#### Artikel 441a
+##### Artikel 441a
 
 Hij die openlijk of door verspreiding van enig geschrift ongevraagd een voorwerp als verkrijgbaar dan wel als bij hem voorhanden aanwijst en daarbij de aandacht vestigt op de geschiktheid daarvan als technisch hulpmiddel voor het heimelijk afluisteren, aftappen of opnemen van gesprekken, telecommunicatie of andere gegevensoverdracht door een geautomatiseerd werk of als onderdeel van zulk een hulpmiddel, wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie.
 
-#### Artikel 441b
+##### Artikel 441b
 
 Met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie wordt gestraft hij die, gebruik makende van een daartoe aangebracht technisch hulpmiddel waarvan de aanwezigheid niet op duidelijke wijze kenbaar is gemaakt, van een persoon, aanwezig op een voor het publiek toegankelijke plaats, wederrechtelijk een afbeelding vervaardigt.
 
-#### Artikel 442
+##### Artikel 442
 
 Met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie wordt gestraft:
 
@@ -4586,29 +4608,29 @@ Met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie w
 
 - 2°. de bestuurder of commissaris van een rechtspersoon welke surséance van betaling verkregen heeft, die eigenmachtig daden verricht waartoe de medewerking van bewindvoerders door de wet wordt gevorderd.
 
-#### Artikel 442a
+##### Artikel 442a
 
 Hij die zonder voorafgaande schriftelijke toestemming van de raad voor de kinderbescherming een kind beneden de leeftijd van zes maanden hetwelk niet onder voogdij van een rechtspersoon staat als pleegkind opneemt, wordt gestraft met hechtenis van ten hoogste drie weken of geldboete van de tweede categorie.
 
 ## Titel XXVIII. Ambtsmisdrijven
 
-#### Artikel 443
+##### Artikel 443
 
 Hij die een algemeen voorschrift van politie, krachtens de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) in buitengewone omstandigheden door de burgemeester, de voorzitter van de veiligheidsregio of de commissaris van de Koning in de provincie uitgevaardigd en afgekondigd, overtreedt, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.
 
-#### Artikel 444
+##### Artikel 444
 
 Hij die, wettelijk als getuige, als deskundige of als tolk opgeroepen, wederrechtelijk wegblijft, wordt gestraft met geldboete van de eerste categorie.
 
-#### Artikel 445
+##### Artikel 445
 
 Hij die in zaken van minderjarigen of van onder curatele te stellen of gestelde personen, of van hen die in een psychiatrisch ziekenhuis zijn opgenomen, als bloedverwant, aangehuwde, echtgenoot, voogd, curator, voor de rechter geroepen om te worden gehoord, noch in persoon noch, waar dit is toegelaten, door tussenkomst van een gemachtigde verschijnt, zonder geldige reden van verschoning, wordt gestraft met geldboete van de eerste categorie.
 
-#### Artikel 446
+##### Artikel 446
 
 Hij die, bij het bestaan van gevaar voor de algemene veiligheid van personen of goederen of bij ontdekking van een misdrijf op heter daad, het hulpbetoon weigert dat de openbare macht van hem vordert en waartoe hij, zonder zich aan dadelijk gevaar bloot te stellen, in staat is, wordt gestraft met geldboete van de eerste categorie.
 
-#### Artikel 446a
+##### Artikel 446a
 
 Met een hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie wordt gestraft hij die,
 
@@ -4620,11 +4642,11 @@ Met een hechtenis van ten hoogste drie maanden of geldboete van de tweede catego
 
 niet onverwijld en op de snelst mogelijke wijze aan een bevoegde officier van justitie kennis geeft van de gegevens, bedoeld in [artikel 539**b**, tweede en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=539b), of nalaat te trachten ten spoedigste aanwijzingen van de officier van justitie te verkrijgen als bedoeld in het derde lid van dat artikel.
 
-#### Artikel 447
+##### Artikel 447
 
 Hij die een bekendmaking, vanwege het bevoegd gezag in het openbaar gedaan, wederrechtelijk afscheurt, onleesbaar maakt of beschadigt, wordt gestraft met geldboete van de eerste categorie.
 
-#### Artikel 447a
+##### Artikel 447a
 
 Met geldboete van de tweede categorie wordt gestraft:
 
@@ -4634,25 +4656,25 @@ Met geldboete van de tweede categorie wordt gestraft:
 
 - 3°. hij die niet of niet behoorlijk voldoet aan de verplichting, opgelegd in [artikel 1304, tweede lid, van Boek 8 van het Burgerlijk Wetboek](onbekend), of aan enige verplichting, opgelegd in een algemene maatregel van bestuur, uitgevaardigd krachtens [artikel 1321 van Boek 8 van het Burgerlijk Wetboek](onbekend).
 
-#### Artikel 447b
+##### Artikel 447b
 
 Hij die een reisdocument, een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) of een ander identiteitsbewijs dat afgegeven is door een dienst of organisatie van vitaal of nationaal belang, dat hij voorhanden heeft, waarvan hij niet de houder is, of dat ingevolge een wettelijke bepaling moet worden ingeleverd, niet terstond wanneer hem dit mondeling door een daartoe bevoegde ambtenaar is bevolen, dan wel binnen veertien dagen, nadat hem dit bij aangetekend schrijven in persoon is medegedeeld inlevert, wordt gestraft met geldboete van de tweede categorie.
 
-#### Artikel 447c
+##### Artikel 447c
 
 Hij die, anders dan door valsheid in geschrift, aan degene door wie of door wiens tussenkomst enige verstrekking of tegemoetkoming wordt verleend, gegevens verstrekt die naar hij weet of redelijkerwijze moet vermoeden niet met de waarheid in overeenstemming zijn, wordt, indien deze gegevens van belang zijn voor de vaststelling van zijn of eens anders recht op die verstrekking of tegemoetkoming dan wel voor de hoogte of de duur van een dergelijke verstrekking of tegemoetkoming, gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
 
-#### Artikel 447d
+##### Artikel 447d
 
 Hij die, in strijd met een hem bij of krachtens wettelijk voorschrift opgelegde verplichting, nalaat tijdig de benodigde gegevens te verstrekken, wordt, indien deze gegevens van belang zijn voor de vaststelling van zijn of eens anders recht op een verstrekking of tegemoetkoming dan wel voor de hoogte of de duur van een dergelijke verstrekking of tegemoetkoming, gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
 
 ## Titel XXX. Begunstiging
 
-#### Artikel 448
+##### Artikel 448
 
 Hij die niet voldoet aan een wettelijke verplichting tot aangifte aan de ambtenaar van de burgerlijke stand voor de registers van geboorte of overlijden, wordt gestraft met geldboete van de eerste categorie.
 
-#### Artikel 449
+##### Artikel 449
 
 1. De bedienaar van de godsdienst die, voordat partijen hem hebben doen blijken dat hun huwelijk ten overstaan van de ambtenaar van de burgerlijke stand is voltrokken, enige godsdienstige plechtigheid daartoe betrekkelijk verricht, wordt gestraft met geldboete van de tweede categorie.
 
@@ -4660,61 +4682,61 @@ Hij die niet voldoet aan een wettelijke verplichting tot aangifte aan de ambtena
 
 ## Titel I. Overtredingen betreffende de algemene veiligheid van personen en goederen
 
-#### Artikel 450
+##### Artikel 450
 
 Hij die, getuige van het ogenblikkelijk levensgevaar waarin een ander verkeert, nalaat deze die hulp te verlenen of te verschaffen die hij hem, zonder gevaar voor zichzelf of anderen redelijkerwijs te kunnen duchten, verlenen of verschaffen kan, wordt, indien de dood van de hulpbehoevende volgt, gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.
 
 ## Titel XXIX. Scheepvaart- en luchtvaartmisdrijven
 
-#### Artikel 453
+##### Artikel 453
 
 Vervallen
 
 ## Titel V. Overtreding betreffende hulpbehoevenden
 
-#### Artikel 458
+##### Artikel 458
 
 Hij die, zonder daartoe gerechtigd te zijn, zijn niet uitvliegend pluimgedierte laat lopen in tuinen of op enige grond die bezaaid, bepoot of beplant is, wordt gestraft met geldboete van de eerste categorie.
 
-#### Artikel 459
+##### Artikel 459
 
 Hij die, zonder daartoe gerechtigd te zijn, vee laat lopen in tuinen, hakbossen of rijswaarden, op enig wei- of hooiland of op enige grond die bezaaid, bepoot of beplant is, of die ter bezaaiing, bepoting of beplanting is gereedgemaakt, wordt gestraft met geldboete van de eerste categorie.
 
-#### Artikel 460
+##### Artikel 460
 
 Hij die zich, zonder daartoe gerechtigd te zijn, bevindt op enige grond die bezaaid, bepoot of beplant is, of die ter bezaaiing, bepoting of beplanting is gereedgemaakt, of gedurende de maanden mei tot en met oktober op enig wei- of hooiland, wordt gestraft met geldboete van de eerste categorie.
 
-#### Artikel 461
+##### Artikel 461
 
 Hij die, zonder daartoe gerechtigd te zijn, zich op eens anders grond waarvan de toegang op een voor hem blijkbare wijze door de rechthebbende is verboden, bevindt of daar vee laat lopen, wordt gestraft met geldboete van de eerste categorie.
 
 ## Titel VIII. Ambtsovertredingen
 
-#### Artikel 462
+##### Artikel 462
 
 De ambtenaar, bevoegd tot de uitgifte van afschriften of uittreksels van vonnissen, die zodanig afschrift of uittreksel uitgeeft alvorens het vonnis behoorlijk is ondertekend, wordt gestraft met geldboete van de eerste categorie.
 
-#### Artikel 463
+##### Artikel 463
 
 De ambtenaar die zonder verlof van het bevoegd gezag afschrift maakt of uittreksel neemt van geheime regeringsbescheiden of die openbaar maakt, wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
 
-#### Artikel 464
+##### Artikel 464
 
 Het hoofd van een gesticht, bestemd tot opsluiting van veroordeelden, voorlopig aangehoudenen of gegijzelden, of van een rijksinrichting voor kinderbescherming of psychiatrisch ziekenhuis, die iemand in het gesticht of ziekenhuis opneemt of houdt zonder zich het bevel van de bevoegde macht of de rechterlijke uitspraak te hebben laten vertonen, of die nalaat van deze opneming en van het bevel of de uitspraak op grond waarvan zij geschiedt, in zijn registers de vereiste inschrijving te doen, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
-#### Artikel 465
+##### Artikel 465
 
 De ambtenaar van de burgerlijke stand die nalaat vóór de voltrekking van een huwelijk zich de bewijsstukken of verklaringen te laten geven die door enig wettelijk voorschrift worden gevorderd, wordt gestraft met geldboete van de tweede categorie.
 
-#### Artikel 466
+##### Artikel 466
 
 De ambtenaar van de burgerlijke stand die in strijd handelt met enig wettelijk voorschrift omtrent de registers of de akten van de burgerlijke stand of omtrent de formaliteiten vóór of de voltrekking van een huwelijk, wordt gestraft met geldboete van de eerste categorie.
 
-#### Artikel 467
+##### Artikel 467
 
 De ambtenaar van de burgerlijke stand die nalaat een akte in de registers op te nemen, wordt gestraft met geldboete van de tweede categorie.
 
-#### Artikel 468
+##### Artikel 468
 
 Met geldboete van de eerste categorie wordt gestraft:
 
@@ -4722,25 +4744,25 @@ Met geldboete van de eerste categorie wordt gestraft:
 
 - 2°. de ambtenaar die nalaat aan de ambtenaar van de burgerlijke stand de opgaven te doen die enig wettelijk voorschrift van hem vordert.
 
-#### Artikel 468a
+##### Artikel 468a
 
 Onder ambtenaar van de burgerlijke stand wordt ten aanzien van de [artikelen 466-468](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=VIII&artikel=466&z=2026-01-01&g=2026-01-01) verstaan een ieder die ingevolge enig wettelijk voorschrift met de bewaring van een register van de burgerlijke stand is belast.
 
 ## Titel XXIX. Scheepvaart- en luchtvaartmisdrijven
 
-#### Artikel 469
+##### Artikel 469
 
 Vervallen
 
-#### Artikel 470
+##### Artikel 470
 
 De schipper die niet alle door of krachtens wettelijke bepalingen gevorderde scheepspapieren, boeken, bescheiden of andere gegevensdragers aan boord heeft, wordt gestraft met geldboete van de eerste categorie.
 
-#### Artikel 470a
+##### Artikel 470a
 
 Vervallen
 
-#### Artikel 471
+##### Artikel 471
 
 1. Met geldboete van de tweede categorie wordt gestraft:
 
@@ -4756,35 +4778,35 @@ Vervallen
 
 2. Indien tijdens het plegen van de overtreding nog geen twee jaren zijn verlopen sedert een vroegere veroordeling van de schuldige wegens een van deze overtredingen onherroepelijk is geworden, kan hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie worden opgelegd.
 
-#### Artikel 471a
+##### Artikel 471a
 
 Hij die het bepaalde bij [artikel 539**u** van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=539u) overtreedt wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.
 
-#### Artikel 472
+##### Artikel 472
 
 De schipper van een Nederlands vaartuig die niet voldoet aan zijn wettelijke verplichting betreffende de inschrijving en kennisgeving van geboorten of sterfgevallen die gedurende een zeereis plaats hebben, wordt gestraft met geldboete van de eerste categorie.
 
-#### Artikel 474
+##### Artikel 474
 
 De schipper die niet voldoet aan de verplichtingen bedoeld in het [tweede lid van artikel 358a](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=358a) of van [artikel 785 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=785), wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.
 
-#### Artikel 475
+##### Artikel 475
 
 Vervallen
 
-#### Artikel 476
+##### Artikel 476
 
 Vervallen
 
 ## Titel XXX. Begunstiging
 
-#### Artikel 479
+##### Artikel 479
 
 Het in werking treden van dit wetboek wordt nader bij de wet geregeld.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. De Nederlandse strafwet is toepasselijk op de vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft en zich buiten Nederland schuldig maakt:
 
@@ -4862,7 +4884,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ## Titel VIII. Misdrijven tegen het openbaar gezag
 
-#### Artikel 248c
+##### Artikel 248c
 
 Hij die opzettelijk aanwezig is bij het plegen van ontuchtige handelingen door een persoon waarvan hij weet of redelijkerwijs moet vermoeden dat deze de leeftijd van achttien jaren nog niet heeft bereikt dan wel bij het vertonen van afbeeldingen van dergelijke handelingen in een daarvoor bestemde gelegenheid, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
@@ -4922,7 +4944,7 @@ Hij die opzettelijk aanwezig is bij het plegen van ontuchtige handelingen door e
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 207b
+##### Artikel 207b
 
 1. Hij die in de gevallen waarin door of krachtens een verdrag een verklaring onder ede of onder een daarvoor in de plaats tredende bevestiging of belofte wordt gevorderd, in Nederland, per videoconferentie, voor een rechterlijke autoriteit van een andere staat mondeling, persoonlijk, opzettelijk een valse verklaring aflegt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
@@ -4998,7 +5020,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 54a
+##### Artikel 54a
 
 Een tussenpersoon die een communicatiedienst verleent bestaande in de doorgifte of opslag van gegevens die van een ander afkomstig zijn, wordt bij een strafbaar feit dat met gebruikmaking van die dienst wordt begaan als zodanig niet vervolgd indien hij voldoet aan een bevel als bedoeld in [artikel 125p van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=125p) of een beslissing als bedoeld in artikel 3, eerste lid, van [verordening (EU) 2021/784](32684R2021) van het Europees Parlement en de Raad van 29 april 2021 inzake het tegengaan van de verspreiding van terroristische online-inhoud (PbEU 2021, L 172) of een bevel als bedoeld in [artikel 6, eerste lid, van de Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal](https://wetten.overheid.nl/jci1.3:c:BWBR0049809&artikel=6).
 
@@ -5098,7 +5120,7 @@ Een tussenpersoon die een communicatiedienst verleent bestaande in de doorgifte 
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 83a
+##### Artikel 83a
 
 Onder terroristisch oogmerk wordt verstaan het oogmerk om de bevolking of een deel der bevolking van een land ernstige vrees aan te jagen, dan wel een overheid of internationale organisatie wederrechtelijk te dwingen iets te doen, niet te doen of te dulden, dan wel de fundamentele politieke, constitutionele, economische of sociale structuren van een land of een internationale organisatie ernstig te ontwrichten of te vernietigen.
 
@@ -5108,11 +5130,11 @@ Onder terroristisch oogmerk wordt verstaan het oogmerk om de bevolking of een de
 
 ## Titel II. Misdrijven tegen de koninklijke waardigheid
 
-#### Artikel 114a
+##### Artikel 114a
 
 Indien een misdrijf, strafbaar gesteld in [artikel 108, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=108&z=2026-01-01&g=2026-01-01), [109](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=109&z=2026-01-01&g=2026-01-01) of [110](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=110&z=2026-01-01&g=2026-01-01), is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien op het misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren opgelegd.
 
-#### Artikel 114b
+##### Artikel 114b
 
 1. De samenspanning tot de in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=II&artikel=108&z=2026-01-01&g=2026-01-01) omschreven misdrijven, te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
@@ -5120,11 +5142,11 @@ Indien een misdrijf, strafbaar gesteld in [artikel 108, eerste lid](https://wett
 
 ## Titel III. Misdrijven tegen hoofden van bevriende Staten en andere internationaal beschermde personen
 
-#### Artikel 120a
+##### Artikel 120a
 
 Indien een misdrijf, strafbaar gesteld in [artikel 115, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=115&z=2026-01-01&g=2026-01-01), [116](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=116&z=2026-01-01&g=2026-01-01), [117, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117&z=2026-01-01&g=2026-01-01), [117a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117a&z=2026-01-01&g=2026-01-01) of [117b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117b&z=2026-01-01&g=2026-01-01), is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien op het misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren opgelegd.
 
-#### Artikel 120b
+##### Artikel 120b
 
 1. De samenspanning tot de in de [artikelen 115](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=115&z=2026-01-01&g=2026-01-01) en [117](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117&z=2026-01-01&g=2026-01-01) omschreven misdrijven, te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
@@ -5132,13 +5154,13 @@ Indien een misdrijf, strafbaar gesteld in [artikel 115, eerste lid](https://wett
 
 ## Titel I. Misdrijven tegen de veiligheid van de staat
 
-#### Artikel 130a
+##### Artikel 130a
 
 Indien een misdrijf, strafbaar gesteld in [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=123&z=2026-01-01&g=2026-01-01) of [124](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=124&z=2026-01-01&g=2026-01-01), is begaan met een terroristisch oogmerk, wordt de in deze artikelen bepaalde tijdelijke gevangenisstraf met de helft verhoogd.
 
 ## Titel II. Misdrijven tegen de koninklijke waardigheid
 
-#### Artikel 140a
+##### Artikel 140a
 
 1. Deelneming aan een organisatie die tot oogmerk heeft het plegen van terroristische misdrijven, wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
@@ -5152,11 +5174,11 @@ Indien een misdrijf, strafbaar gesteld in [artikel 123](https://wetten.overheid.
 
 ## Titel IV. Misdrijven betreffende de uitoefening van staatsplichten en staatsrechten
 
-#### Artikel 176a
+##### Artikel 176a
 
 Indien een misdrijf, strafbaar gesteld in [artikel 157](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=157&z=2026-01-01&g=2026-01-01), [159](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=159&z=2026-01-01&g=2026-01-01), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=160&z=2026-01-01&g=2026-01-01), [161](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161&z=2026-01-01&g=2026-01-01), [161bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161bis&z=2026-01-01&g=2026-01-01), [161quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161quater&z=2026-01-01&g=2026-01-01), [161sexies](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161sexies&z=2026-01-01&g=2026-01-01), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162&z=2026-01-01&g=2026-01-01), [162a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162a&z=2026-01-01&g=2026-01-01), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=164&z=2026-01-01&g=2026-01-01), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=166&z=2026-01-01&g=2026-01-01), [168](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=168&z=2026-01-01&g=2026-01-01), [170](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=170&z=2026-01-01&g=2026-01-01), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=172&z=2026-01-01&g=2026-01-01), [173a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=173a&z=2026-01-01&g=2026-01-01) of [174](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=174&z=2026-01-01&g=2026-01-01), is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien op het misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren opgelegd.
 
-#### Artikel 176b
+##### Artikel 176b
 
 1. De samenspanning tot de in de [artikelen 157](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=157&z=2026-01-01&g=2026-01-01), [161, onderdelen 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161&z=2026-01-01&g=2026-01-01), [161bis, onderdelen 3° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161bis&z=2026-01-01&g=2026-01-01), [161quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161quater&z=2026-01-01&g=2026-01-01), [161sexies, onderdelen 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161sexies&z=2026-01-01&g=2026-01-01), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162&z=2026-01-01&g=2026-01-01), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=164&z=2026-01-01&g=2026-01-01), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=166&z=2026-01-01&g=2026-01-01), [168](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=168&z=2026-01-01&g=2026-01-01), [170](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=170&z=2026-01-01&g=2026-01-01), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=172&z=2026-01-01&g=2026-01-01), [173a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=173a&z=2026-01-01&g=2026-01-01) en [174](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=174&z=2026-01-01&g=2026-01-01) omschreven misdrijven, te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
@@ -5178,23 +5200,23 @@ Indien een misdrijf, strafbaar gesteld in [artikel 157](https://wetten.overheid.
 
 ## Titel X. Valsheid in muntspeciën en munt- en bankbiljetten
 
-#### Artikel 282b
+##### Artikel 282b
 
 1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft of beroofd houdt met een terroristisch oogmerk, wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
 2. [Artikel 282, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 282c
+##### Artikel 282c
 
 1. De samenspanning tot het in [artikel 282b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282b&z=2026-01-01&g=2026-01-01) omschreven misdrijf wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
 2. [Artikel 96, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=I&artikel=96&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 288a
+##### Artikel 288a
 
 Doodslag, gepleegd met een terroristisch oogmerk, wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
-#### Artikel 289a
+##### Artikel 289a
 
 1. De samenspanning tot het in [artikel 289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=289&z=2026-01-01&g=2026-01-01) omschreven misdrijf, te begaan met een terroristisch oogmerk, alsmede het in [artikel 288a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=288a&z=2026-01-01&g=2026-01-01) omschreven misdrijf, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
@@ -5202,11 +5224,11 @@ Doodslag, gepleegd met een terroristisch oogmerk, wordt gestraft met levenslange
 
 ## Titel XIII. Misdrijven tegen de burgerlijke staat
 
-#### Artikel 304a
+##### Artikel 304a
 
 Indien een misdrijf, strafbaar gesteld in [artikel 302](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=302&z=2026-01-01&g=2026-01-01) of [303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=303&z=2026-01-01&g=2026-01-01), is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien op het misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren opgelegd.
 
-#### Artikel 304b
+##### Artikel 304b
 
 1. De samenspanning tot het in [artikel 303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=303&z=2026-01-01&g=2026-01-01) omschreven misdrijf, te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
@@ -5226,11 +5248,11 @@ Indien een misdrijf, strafbaar gesteld in [artikel 302](https://wetten.overheid.
 
 ## Titel XXI. Veroorzaken van de dood of van lichamelijk letsel door schuld
 
-#### Artikel 415a
+##### Artikel 415a
 
 Indien een misdrijf, strafbaar gesteld in een der [artikelen 385a tot en met 385d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=385a&z=2026-01-01&g=2026-01-01), is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien op het misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren opgelegd.
 
-#### Artikel 415b
+##### Artikel 415b
 
 1. De samenspanning tot de in de [artikelen 385a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=385a&z=2026-01-01&g=2026-01-01), [385b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=385b&z=2026-01-01&g=2026-01-01) en [385d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=385d&z=2026-01-01&g=2026-01-01) omschreven misdrijven, te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
@@ -5244,7 +5266,7 @@ Indien een misdrijf, strafbaar gesteld in een der [artikelen 385a tot en met 385
 
 ## Titel XXVII. Vernieling of beschadiging
 
-#### Artikel 447e
+##### Artikel 447e
 
 Hij die niet voldoet aan de verplichting om een identiteitsbewijs ter inzage aan te bieden of medewerking te verlenen aan het nemen van een of meer vingerafdrukken, hem opgelegd krachtens de [Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297), het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903), het Wetboek van Strafrecht, de [Overleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016664), de [Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559), de [Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028), de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709), de [Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765), de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756), de [Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635) of de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632), wordt gestraft met geldboete van de tweede categorie.
 
@@ -5260,7 +5282,7 @@ Hij die niet voldoet aan de verplichting om een identiteitsbewijs ter inzage aan
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 83
+##### Artikel 83
 
 Onder terroristisch misdrijf wordt verstaan:
 
@@ -5336,7 +5358,7 @@ Onder terroristisch misdrijf wordt verstaan:
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 77hh
+##### Artikel 77hh
 
 Vervallen
 
@@ -5372,7 +5394,7 @@ Vervallen
 
 ## Titel X. Valsheid in muntspeciën en munt- en bankbiljetten
 
-#### Artikel 273a
+##### Artikel 273a
 
 De persoon werkzaam bij enige openbare instelling van vervoer die een aan zodanige instelling toevertrouwde brief, gesloten stuk of pakket opzettelijk en wederrechtelijk opent, daarvan inzage neemt of de inhoud aan een ander bekendmaakt, wordt gestraft met gevangenisstraf van ten hoogste een jaar en zes maanden of geldboete van de vierde categorie.
 
@@ -5496,7 +5518,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 78a
+##### Artikel 78a
 
 1. Waar in dit wetboek de bevoegdheid wordt gegeven tot het horen, verhoren of ondervragen van personen, wordt daaronder, met uitzondering van bij algemene maatregel van bestuur te bepalen gevallen, mede begrepen horen, verhoren of ondervragen per videoconferentie, waarbij een directe beeld- en geluidsverbinding totstandkomt tussen de betrokken personen.
 
@@ -5556,11 +5578,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 43a
+##### Artikel 43a
 
 De op een misdrijf gestelde tijdelijke gevangenisstraf of hechtenis kan, onverminderd [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=10&z=2026-01-01&g=2026-01-01), met een derde worden verhoogd indien tijdens het plegen van het misdrijf nog geen vijf jaren zijn verlopen sedert een vroegere veroordeling van de schuldige tot gevangenisstraf wegens een daaraan soortgelijk misdrijf in kracht van gewijsde is gegaan. De termijn van vijf jaren wordt verlengd met de tijd waarin de veroordeelde rechtens zijn vrijheid is ontnomen.
 
-#### Artikel 43b
+##### Artikel 43b
 
 Als misdrijven welke soortgelijk zijn aan elkaar worden in elk geval aangemerkt:
 
@@ -5576,7 +5598,7 @@ Als misdrijven welke soortgelijk zijn aan elkaar worden in elk geval aangemerkt:
 
 - 6°. de misdrijven omschreven in de [Wegenverkeerswet 1994](onbekend).
 
-#### Artikel 43c
+##### Artikel 43c
 
 Vervallen
 
@@ -5600,21 +5622,21 @@ Vervallen
 
 ## Slotbepaling
 
-#### Artikel 121a
+##### Artikel 121a
 
 Hij die door geweld of bedreiging met geweld een vergadering van een commissie uit de beide kamers der Staten-Generaal of uit een van deze uiteenjaagt of tot het nemen of niet nemen van enig besluit dwingt of een lid, een minister of een staatssecretaris uit die vergadering verwijdert of opzettelijk verhindert die bij te wonen of daarin vrij en onbelemmerd zijn plicht te vervullen, wordt gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.
 
-#### Artikel 123a
+##### Artikel 123a
 
 Hij die door geweld of bedreiging met geweld een vergadering van een door de staten van een provincie ingestelde commissie uiteenjaagt of tot het nemen of niet nemen van enig besluit dwingt of een lid, een gedeputeerde of de commissaris van de Koning uit die vergadering verwijdert of opzettelijk verhindert die bij te wonen of daarin vrij en onbelemmerd zijn plicht te vervullen, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
-#### Artikel 124a
+##### Artikel 124a
 
 Hij die door geweld of bedreiging met geweld een vergadering van een door de raad van een gemeente ingestelde commissie uiteenjaagt of tot het nemen of niet nemen van enig besluit dwingt of een lid, een wethouder of de burgemeester uit die vergadering verwijdert of opzettelijk verhindert die bij te wonen of daarin vrij en onbelemmerd zijn plicht te vervullen, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
 ## Titel II. Misdrijven tegen de koninklijke waardigheid
 
-#### Artikel 142a
+##### Artikel 142a
 
 1. Hij die een voorwerp verzendt of op een al dan niet voor het publiek toegankelijke plaats achterlaat of plaatst, met het oogmerk een ander ten onrechte te doen geloven dat daardoor een ontploffing kan worden teweeggebracht, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
@@ -5652,7 +5674,7 @@ Hij die door geweld of bedreiging met geweld een vergadering van een door de raa
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 44a
+##### Artikel 44a
 
 1. Op vordering van de officier van justitie kan de rechter na een op grond van [artikel 226h, derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=226h) gemaakte afspraak de straf verminderen die hij overwoog op te leggen op de in het tweede lid bepaalde wijze. Bij de strafvermindering houdt de rechter ermee rekening dat door het afleggen van een getuigenverklaring een belangrijke bijdrage is of kan worden geleverd aan de opsporing of vervolging van misdrijven.
 
@@ -5718,7 +5740,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 78b
+##### Artikel 78b
 
 Waar van veroordeling wordt gesproken wordt daaronder een strafbeschikking begrepen, voorzover niet uit enige bepaling het tegendeel volgt.
 
@@ -5736,7 +5758,7 @@ Waar van veroordeling wordt gesproken wordt daaronder een strafbeschikking begre
 
 ## Titel IV. Misdrijven betreffende de uitoefening van staatsplichten en staatsrechten
 
-#### Artikel 138b
+##### Artikel 138b
 
 1. Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft hij die opzettelijk en wederrechtelijk de toegang tot of het gebruik van een geautomatiseerd werk belemmert door daaraan gegevens aan te bieden of toe te zenden.
 
@@ -5794,13 +5816,13 @@ wordt de schuldige gestraft met gevangenisstraf van ten hoogste drie jaren of ge
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 273b
+##### Artikel 273b
 
 1. De persoon werkzaam bij enige openbare instelling van vervoer die een aan zodanige instelling toevertrouwde brief, briefkaart, stuk of pakket opzettelijk aan een ander dan de rechthebbende afgeeft, vernietigt, wegmaakt, zich toe-eigent, of de inhoud wijzigt of enig daarin gesloten voorwerp zich toe-eigent, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
 2. Indien zodanig stuk of voorwerp geldswaarde heeft, wordt de toe-eigening gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 
-#### Artikel 273c
+##### Artikel 273c
 
 De persoon belast met de dienst van een ten algemenen nutte gebezigde telegraafinrichting wordt gestraft:
 
@@ -5808,7 +5830,7 @@ De persoon belast met de dienst van een ten algemenen nutte gebezigde telegraafi
 
 - b. met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie, indien hij een aan zodanige inrichting toevertrouwd bericht of een telegram opzettelijk aan een ander dan de rechthebbende afgeeft, vernietigt, wegmaakt, zich toe-eigent of de inhoud wijzigt.
 
-#### Artikel 273d
+##### Artikel 273d
 
 1. Met gevangenisstraf van ten hoogste een jaar en zes maanden of geldboete van de vierde categorie wordt gestraft de persoon werkzaam bij een aanbieder van een openbaar communicatienetwerk of een openbare communicatiedienst:
 
@@ -5822,11 +5844,11 @@ De persoon belast met de dienst van een ten algemenen nutte gebezigde telegraafi
 
 2. Het eerste lid is van overeenkomstige toepassing op de persoon werkzaam bij een aanbieder van een niet-openbaar communicatienetwerk of een niet-openbare communicatiedienst.
 
-#### Artikel 273e
+##### Artikel 273e
 
 Enig in de [artikelen 273a tot en met 273d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVII&artikel=273a&z=2026-01-01&g=2026-01-01) bedoeld persoon die opzettelijk toelaat dat een ander een der in deze artikelen vermelde feiten pleegt, of die ander daarbij als medeplichtige ter zijde staat, wordt gestraft met de straffen en naar de onderscheidingen in die bepalingen vastgesteld.
 
-#### Artikel 273f
+##### Artikel 273f
 
 1. Als schuldig aan mensenhandel wordt met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie gestraft:
 
@@ -5884,19 +5906,19 @@ Enig in de [artikelen 273a tot en met 273d](https://wetten.overheid.nl/jci1.3:c:
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 15i
+##### Artikel 15i
 
 Vervallen
 
-#### Artikel 15j
+##### Artikel 15j
 
 Vervallen
 
-#### Artikel 15k
+##### Artikel 15k
 
 Vervallen
 
-#### Artikel 15l
+##### Artikel 15l
 
 Vervallen
 
@@ -5916,25 +5938,25 @@ Vervallen
 
 ## Titel VIII A. Bijzondere bepalingen voor jeugdige personen
 
-#### Artikel 77wa
+##### Artikel 77wa
 
 1. De rechter kan bepalen dat het in [artikel 77w, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77w&z=2026-01-01&g=2026-01-01), bedoelde programma geheel of ten dele komt te bestaan uit een vorm van jeugdhulp als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
 
 2. Indien de rechter toepassing heeft gegeven aan het bepaalde in het eerste lid, doet de raad daarvan onverwijld mededeling aan de gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
 
-#### Artikel 77wb
+##### Artikel 77wb
 
 1. In het vonnis waarbij de maatregel betreffende het gedrag van de jeugdige wordt opgelegd, beveelt de rechter voor het geval dat de veroordeelde niet naar behoren aan de tenuitvoerlegging van de maatregel heeft meegewerkt, dat vervangende jeugddetentie zal worden toegepast.
 
 2. De duur van de vervangende jeugddetentie wordt in gehele dagen, weken of maanden vastgesteld. Voor elke maand waarvoor de maatregel is opgelegd beloopt de vervangende jeugddetentie maximaal een maand.
 
-#### Artikel 77wc
+##### Artikel 77wc
 
 1. In het vonnis waarbij de maatregel betreffende het gedrag van de jeugdige wordt opgelegd, beveelt de rechter voor het geval dat de veroordeelde niet naar behoren aan de tenuitvoerlegging van de maatregel heeft meegewerkt, dat vervangende jeugddetentie zal worden toegepast.
 
 2. De duur van de vervangende jeugddetentie wordt in gehele dagen, weken of maanden vastgesteld. Voor elke maand waarvoor de maatregel is opgelegd beloopt de vervangende jeugddetentie maximaal een maand.
 
-#### Artikel 77wd
+##### Artikel 77wd
 
 Vervallen
 
@@ -5980,7 +6002,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 77w
+##### Artikel 77w
 
 1. De maatregel betreffende het gedrag van de jeugdige kan slechts worden opgelegd, indien:
 
@@ -6042,15 +6064,15 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 192b
+##### Artikel 192b
 
 Hij die opzettelijk niet voldoet aan een vordering van een parlementaire enquêtecommissie tot het verstrekken van schriftelijke inlichtingen, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of een geldboete van de tweede categorie.
 
-#### Artikel 192c
+##### Artikel 192c
 
 Hij die opzettelijk een parlementaire enquêtecommissie of door haar aangewezen personen belet, belemmert of verhindert een plaats te betreden, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of een geldboete van de tweede categorie.
 
-#### Artikel 192d
+##### Artikel 192d
 
 De misdrijven genoemd in de [artikelen 192 tot en met 192c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=192&z=2026-01-01&g=2026-01-01) worden niet vervolgd, indien zij zijn begaan door een lid van de Staten-Generaal, een minister of een staatssecretaris.
 
@@ -6082,19 +6104,19 @@ De misdrijven genoemd in de [artikelen 192 tot en met 192c](https://wetten.overh
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 15e
+##### Artikel 15e
 
 Vervallen
 
-#### Artikel 15f
+##### Artikel 15f
 
 Vervallen
 
-#### Artikel 15g
+##### Artikel 15g
 
 Vervallen
 
-#### Artikel 15h
+##### Artikel 15h
 
 Vervallen
 
@@ -6152,7 +6174,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 83b
+##### Artikel 83b
 
 Onder misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf wordt verstaan elk van de misdrijven omschreven in de [artikelen 131, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=131&z=2026-01-01&g=2026-01-01), [132, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=132&z=2026-01-01&g=2026-01-01), [134a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=134a&z=2026-01-01&g=2026-01-01), [138b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138b&z=2026-01-01&g=2026-01-01), [197a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=197a&z=2026-01-01&g=2026-01-01), [205, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VIII&artikel=205&z=2026-01-01&g=2026-01-01), [225, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2026-01-01&g=2026-01-01), [285, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285&z=2026-01-01&g=2026-01-01), [311, eerste lid, onderdeel 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=311&z=2026-01-01&g=2026-01-01), [312, tweede lid, onderdeel 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=312&z=2026-01-01&g=2026-01-01), [317, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=317&z=2026-01-01&g=2026-01-01), jo. [312, tweede lid, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=312&z=2026-01-01&g=2026-01-01), [318, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIII&artikel=318&z=2026-01-01&g=2026-01-01), [322a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIV&artikel=322a&z=2026-01-01&g=2026-01-01), [326, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXV&artikel=326&z=2026-01-01&g=2026-01-01), [354a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=354a&z=2026-01-01&g=2026-01-01) en [421](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXXI&artikel=421&z=2026-01-01&g=2026-01-01).
 
@@ -6162,11 +6184,11 @@ Onder misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misd
 
 ## Titel V. Misdrijven tegen de openbare orde
 
-#### Artikel 134a
+##### Artikel 134a
 
 Hij die zich of een ander opzettelijk gelegenheid, middelen of inlichtingen verschaft of tracht te verschaffen tot het plegen van een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf, dan wel zich kennis of vaardigheden daartoe verwerft of een ander bijbrengt, wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.
 
-#### Artikel 137h
+##### Artikel 137h
 
 Indien de schuldige een van de strafbare feiten, omschreven in de [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=131&z=2026-01-01&g=2026-01-01) en [137c tot en met 137g](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=137c&z=2026-01-01&g=2026-01-01), in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.
 
@@ -6182,7 +6204,7 @@ Indien de schuldige een van de strafbare feiten, omschreven in de [artikelen 131
 
 ## Titel XXII. Diefstal en stroperij
 
-#### Artikel 322a
+##### Artikel 322a
 
 Indien een der in de [artikelen 321](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIV&artikel=321&z=2026-01-01&g=2026-01-01) en [322](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIV&artikel=322&z=2026-01-01&g=2026-01-01) omschreven feiten wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 
@@ -6190,7 +6212,7 @@ Indien een der in de [artikelen 321](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 ## Titel XXI. Veroorzaken van de dood of van lichamelijk letsel door schuld
 
-#### Artikel 354a
+##### Artikel 354a
 
 1. Indien een der in de [artikelen 350](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350&z=2026-01-01&g=2026-01-01), [350a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350a&z=2026-01-01&g=2026-01-01), [350c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350c&z=2026-01-01&g=2026-01-01), [351](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=351&z=2026-01-01&g=2026-01-01), [352](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=352&z=2026-01-01&g=2026-01-01) en [354](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=354&z=2026-01-01&g=2026-01-01) omschreven feiten wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 
@@ -6204,7 +6226,7 @@ Indien een der in de [artikelen 321](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5b
+##### Artikel 5b
 
 De Nederlandse strafwet is toepasselijk op ieder die zich schuldig maakt:
 
@@ -6244,11 +6266,11 @@ De Nederlandse strafwet is toepasselijk op ieder die zich schuldig maakt:
 
 ## Titel IX. Meineed
 
-#### Artikel 248d
+##### Artikel 248d
 
 Hij die een persoon van wie hij weet of redelijkerwijs moet vermoeden dat deze de leeftijd van zestien jaren nog niet heeft bereikt, met ontuchtig oogmerk ertoe beweegt getuige te zijn van seksuele handelingen, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-#### Artikel 248e
+##### Artikel 248e
 
 Hij die door middel van een geautomatiseerd werk of met gebruikmaking van een communicatiedienst aan een persoon die de leeftijd van zestien jaren nog niet heeft bereikt of iemand die zich, al dan niet met een technisch hulpmiddel, waaronder een virtuele creatie van een persoon die de leeftijd van zestien jaren nog niet heeft bereikt, voordoet als een persoon die de leeftijd van zestien jaren nog niet heeft bereikt een ontmoeting voorstelt met het oogmerk ontuchtige handelingen met een persoon die de leeftijd van zestien jaren nog niet heeft bereikt te plegen of een afbeelding van een seksuele gedraging waarbij een persoon die de leeftijd van zestien jaren nog niet heeft bereikt is betrokken te vervaardigen, wordt, indien hij enige handeling onderneemt tot het verwezenlijken van die ontmoeting, gestraft met gevangenisstraf van ten hoogste twee jaren of een geldboete van de vierde categorie.
 
@@ -6272,7 +6294,7 @@ Hij die door middel van een geautomatiseerd werk of met gebruikmaking van een co
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 254a
+##### Artikel 254a
 
 1. Bij veroordeling wegens een van de in de [artikelen 240 tot en met 253](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=240&z=2026-01-01&g=2026-01-01) omschreven misdrijven, kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken.
 
@@ -6298,11 +6320,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 38la
+##### Artikel 38la
 
 Vervallen
 
-#### Artikel 38lb
+##### Artikel 38lb
 
 Vervallen
 
@@ -6316,7 +6338,7 @@ Vervallen
 
 ## Titel IX. Betekenis van sommige in het wetboek voorkomende uitdrukkingen
 
-#### Artikel 78c
+##### Artikel 78c
 
 Waar van een voorafgegane of vroegere veroordeling wegens een strafbaar feit wordt gesproken, wordt daaronder mede verstaan een voorafgegane of vroegere onherroepelijke veroordeling door een strafrechter in een andere lidstaat van de Europese Unie wegens soortgelijke feiten.
 
@@ -6332,7 +6354,7 @@ Waar van een voorafgegane of vroegere veroordeling wegens een strafbaar feit wor
 
 ## Titel IX. Meineed
 
-#### Artikel 254
+##### Artikel 254
 
 1. De op het misdrijf gestelde gevangenisstraf kan met drie jaren worden verhoogd in de onder a tot en met e omschreven gevallen:
 
@@ -6376,7 +6398,7 @@ Waar van een voorafgegane of vroegere veroordeling wegens een strafbaar feit wor
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 184a
+##### Artikel 184a
 
 1. Hij die opzettelijk handelt in strijd met een gedragsaanwijzing, gegeven krachtens [artikel 509hh, eerste lid, onderdeel b, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509hh), wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
@@ -6400,7 +6422,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 138ab
+##### Artikel 138ab
 
 1. Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt, als schuldig aan computervredebreuk, gestraft hij die opzettelijk en wederrechtelijk binnendringt in een geautomatiseerd werk of in een deel daarvan. Van binnendringen is in ieder geval sprake indien de toegang tot het werk wordt verworven:
 
@@ -6422,7 +6444,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 4. Indien het feit is gepleegd ten behoeve van een buitenlandse mogendheid wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 
-#### Artikel 141a
+##### Artikel 141a
 
 Hij die opzettelijk gelegenheid, middelen of inlichtingen verschaft tot het plegen van geweld tegen personen of goederen wordt gestraft met gevangenisstraf van ten hoogste drie jaren of een geldboete van de vierde categorie.
 
@@ -6444,7 +6466,7 @@ Hij die opzettelijk gelegenheid, middelen of inlichtingen verschaft tot het pleg
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 77ta
+##### Artikel 77ta
 
 1. Indien de maatregel voorwaardelijk eindigt als bedoeld in [artikel 77s, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77s&z=2022-10-01&g=2022-10-01), en [artikel 77t, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77t&z=2022-10-01&g=2022-10-01), zijn daaraan van rechtswege de voorwaarden verbonden dat:
 
@@ -6454,7 +6476,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 2. Een jaar nadat de maatregel voorwaardelijk is geëindigd als bedoeld in het bepaalde in de [artikelen 6:2:22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:22), en [6:6:31, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:31) eindigt de maatregel van rechtswege onvoorwaardelijk, tenzij de voorwaardelijke beëindiging wordt verlengd op de wijze als bedoeld in [artikel 77tb](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77tb&z=2022-10-01&g=2022-10-01). In de gevallen waarin de voorwaardelijke beëindiging is verlengd, eindigt de maatregel onvoorwaardelijk nadat de maximale duur van de voorwaardelijke beëindiging is bereikt.
 
-#### Artikel 77tb
+##### Artikel 77tb
 
 Vervallen
 
@@ -6484,7 +6506,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 14fa
+##### Artikel 14fa
 
 Vervallen
 
@@ -6506,13 +6528,13 @@ Vervallen
 
 ## Titel VIII A. Bijzondere bepalingen voor jeugdige personen
 
-#### Artikel 77we
+##### Artikel 77we
 
 1. In het vonnis waarbij de vrijheidsbeperkende maatregel wordt opgelegd, beveelt de rechter dat vervangende jeugddetentie zal worden toegepast voor het geval niet aan de maatregel wordt voldaan.
 
 2. De [artikelen 38v](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Vierde&artikel=38v&z=2026-01-01&g=2026-01-01), [38w, tweede tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Vierde&artikel=38w&z=2026-01-01&g=2026-01-01), en [artikel 6:3:10, derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:10), zijn van overeenkomstige toepassing.
 
-#### Artikel 77wf
+##### Artikel 77wf
 
 Vervallen
 
@@ -6538,7 +6560,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 22b
+##### Artikel 22b
 
 1. Een taakstraf wordt niet opgelegd in geval van veroordeling voor:
 
@@ -6586,15 +6608,15 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 14e
+##### Artikel 14e
 
 De rechter kan bij zijn uitspraak, ambtshalve of op vordering van het openbaar ministerie, bevelen dat de op grond van [artikel 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=14c&z=2026-01-01&g=2026-01-01) gestelde voorwaarden en hierop uit te oefenen toezicht, dadelijk uitvoerbaar zijn, indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen.
 
-#### Artikel 14l
+##### Artikel 14l
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
@@ -6608,7 +6630,7 @@ Vervallen
 
 ### afdeling Vierde. Oplegging vrijheidsbeperkende maatregel
 
-#### Artikel 38v
+##### Artikel 38v
 
 1. Ter beveiliging van de maatschappij of ter voorkoming van strafbare feiten kan een maatregel strekkende tot beperking van de vrijheid worden opgelegd bij de rechterlijke uitspraak:
 
@@ -6632,7 +6654,7 @@ Vervallen
 
 5. De maatregel kan tezamen met straffen en andere maatregelen worden opgelegd.
 
-#### Artikel 38w
+##### Artikel 38w
 
 1. In het vonnis waarbij de maatregel als bedoeld in [artikel 38v](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Vierde&artikel=38v&z=2026-01-01&g=2026-01-01) wordt opgelegd, beveelt de rechter dat vervangende hechtenis zal worden toegepast voor het geval niet aan de maatregel wordt voldaan.
 
@@ -6642,11 +6664,11 @@ Vervallen
 
 4. Toepassing van de vervangende hechtenis heft de verplichtingen ingevolge de maatregel, bedoeld in [artikel 38v](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=IIA&afdeling=Vierde&artikel=38v&z=2026-01-01&g=2026-01-01), tweede lid, niet op.
 
-#### Artikel 38x
+##### Artikel 38x
 
 Vervallen
 
-#### Artikel 38ij
+##### Artikel 38ij
 
 Vervallen
 
@@ -6658,11 +6680,11 @@ Vervallen
 
 ## Titel VIII A. Bijzondere bepalingen voor jeugdigen en jongvolwassenen
 
-#### Artikel 77za
+##### Artikel 77za
 
 De rechter kan bij zijn uitspraak, ambtshalve of op vordering van het openbaar ministerie, bevelen dat de op grond van [artikel 77z](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77z&z=2026-01-01&g=2026-01-01) gestelde voorwaarden, en het op grond van [artikel 77aa](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=VIII_A&artikel=77aa&z=2026-01-01&g=2026-01-01) uit te oefenen toezicht, dadelijk uitvoerbaar zijn, indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen.
 
-#### Artikel 77cca
+##### Artikel 77cca
 
 Vervallen
 
@@ -6682,17 +6704,17 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 77ma
+##### Artikel 77ma
 
 1. Een taakstraf wordt niet opgelegd in geval van veroordeling voor een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van zes jaren of meer is gesteld en dat een ernstige inbreuk op de lichamelijke integriteit van het slachtoffer ten gevolge heeft gehad.
 
 2. Van het eerste lid kan worden afgeweken indien naast de taakstraf, jeugddetentie, de maatregel betreffende het gedrag of de maatregel plaatsing in een inrichting voor jeugdigen wordt opgelegd.
 
-#### Artikel 77tc
+##### Artikel 77tc
 
 Vervallen
 
-#### Artikel 86b
+##### Artikel 86b
 
 Voor de toepassing van [Titel I van dit Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=I&z=2026-01-01&g=2026-01-01) wordt onder het hebben van een vaste woon- of verblijfplaats in Nederland verstaan het rechtmatig verblijven in Nederland gedurende een onafgebroken periode van vijf jaar of langer.
 
@@ -6728,7 +6750,7 @@ Voor de toepassing van [Titel I van dit Boek](https://wetten.overheid.nl/jci1.3:
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 248f
+##### Artikel 248f
 
 Hij die door dwang, geweld of een andere feitelijkheid of door dreiging met geweld of een andere feitelijkheid, het plegen van ontucht door een persoon van wie hij weet of redelijkerwijs moet vermoeden dat deze de leeftijd van achttien jaren nog niet heeft bereikt, met een derde opzettelijk teweegbrengt of bevordert, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
@@ -6746,7 +6768,7 @@ Hij die door dwang, geweld of een andere feitelijkheid of door dreiging met gewe
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 231a
+##### Artikel 231a
 
 1. Hij die biometrische kenmerken of biometrische persoonsgegevens valselijk opmaakt of vervalst met het oogmerk om deze als echt en onvervalst te gebruiken of te doen gebruiken in gevallen waarin die kenmerken of persoonsgegevens worden gebruikt voor het vaststellen van iemands identiteit, teneinde zijn identiteit te verhelen of de identiteit van een ander te verhelen of misbruiken, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
@@ -6754,7 +6776,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. [Artikel 225, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XII&artikel=225&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 231b
+##### Artikel 231b
 
 Hij die opzettelijk en wederrechtelijk identificerende persoonsgegevens, niet zijnde biometrische persoonsgegevens, van een ander gebruikt met het oogmerk om zijn identiteit te verhelen of de identiteit van de ander te verhelen of misbruiken, waardoor uit dat gebruik enig nadeel kan ontstaan, wordt gestraft met een gevangenisstraf van ten hoogste vijf jaren of geldboete van de vijfde categorie.
 
@@ -6770,11 +6792,11 @@ Hij die opzettelijk en wederrechtelijk identificerende persoonsgegevens, niet zi
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 8a
+##### Artikel 8a
 
 De Nederlandse strafwet is toepasselijk op de schipper en opvarenden van een Nederlands vaartuig die zich buiten Nederland, ook buiten boord, schuldig maken aan een van de strafbare feiten omschreven in [Titel XXIX van het Tweede Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&z=2026-01-01&g=2026-01-01) en [Titel IX van het Derde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde&titeldeel=IX&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 8b
+##### Artikel 8b
 
 1. De Nederlandse strafwet is toepasselijk op een ieder tegen wie de strafvervolging door Nederland van een vreemde staat is overgenomen op grond van een verdrag waaruit de bevoegdheid tot strafvervolging voor Nederland volgt.
 
@@ -6784,7 +6806,7 @@ De Nederlandse strafwet is toepasselijk op de schipper en opvarenden van een Ned
 
 4. De Nederlandse strafwet is voorts toepasselijk op een ieder tegen wie de strafvervolging door Nederland is overgenomen op verzoek van een krachtens verdrag of besluit van een door een volkenrechtelijke organisatie ingesteld internationaal gerecht.
 
-#### Artikel 8c
+##### Artikel 8c
 
 De Nederlandse strafwet is toepasselijk op de vreemdeling die zich buiten Nederland schuldig maakt aan een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van ten minste acht jaren is gesteld, indien deze vreemdeling zich in Nederland bevindt en:
 
@@ -6792,7 +6814,7 @@ De Nederlandse strafwet is toepasselijk op de vreemdeling die zich buiten Nederl
 
 - b. uitlevering ter zake van dit misdrijf wegens het ontbreken van een verdragsrelatie niet mogelijk is, voor zover op het feit door de wet van het land waar het begaan is, straf is gesteld.
 
-#### Artikel 8d
+##### Artikel 8d
 
 De toepasselijkheid van de [artikelen 2 tot en met 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=I&artikel=2&z=2026-01-01&g=2026-01-01) wordt beperkt door de uitzonderingen in het volkenrecht erkend.
 
@@ -6840,13 +6862,13 @@ De toepasselijkheid van de [artikelen 2 tot en met 8c](https://wetten.overheid.n
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 350c
+##### Artikel 350c
 
 1. Hij die opzettelijk enig geautomatiseerd werk of enig werk voor telecommunicatie vernielt, beschadigt of onbruikbaar maakt, stoornis in de gang of in de werking van zodanig werk veroorzaakt, of een ten opzichte van zodanig werk genomen veiligheidsmaatregel verijdelt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie, indien daardoor wederrechtelijk verhindering of bemoeilijking van de opslag, verwerking of overdracht van gegevens of stoornis in een telecommunicatienetwerk of in de uitvoering van een telecommunicatiedienst, ontstaat.
 
 2. [Artikel 138b, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=V&artikel=138b&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 350d
+##### Artikel 350d
 
 Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft hij die, met het oogmerk dat daarmee een misdrijf als bedoeld in [artikel 350a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350a&z=2026-01-01&g=2026-01-01), of [350c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350c&z=2026-01-01&g=2026-01-01) wordt gepleegd:
 
@@ -6862,7 +6884,7 @@ Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde catego
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 285c
+##### Artikel 285c
 
 Hij die opzettelijk een persoon buiten of naar Nederland lokt met het oogmerk ten aanzien van die persoon een in [artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=284&z=2026-01-01&g=2026-01-01) omschreven misdrijf te plegen, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
@@ -6874,7 +6896,7 @@ Hij die opzettelijk een persoon buiten of naar Nederland lokt met het oogmerk te
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 38z
+##### Artikel 38z
 
 1. Ter bescherming van de veiligheid van anderen, dan wel de algemene veiligheid van personen of goederen kan de rechter, ambtshalve of op vordering van het openbaar ministerie, een verdachte een maatregel strekkende tot gedragsbeïnvloeding of vrijheidsbeperking opleggen indien die verdachte bij die rechterlijke uitspraak:
 
@@ -6886,31 +6908,31 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 2. Bij de vordering tot oplegging van de maatregel legt de officier van justitie een recent opgemaakt, met redenen omkleed en ondertekend advies over van een reclasseringsinstelling.
 
-#### Artikel 38aa
+##### Artikel 38aa
 
 Vervallen
 
-#### Artikel 38ab
+##### Artikel 38ab
 
 Vervallen
 
-#### Artikel 38ac
+##### Artikel 38ac
 
 Vervallen
 
-#### Artikel 38ad
+##### Artikel 38ad
 
 Vervallen
 
-#### Artikel 38ae
+##### Artikel 38ae
 
 Vervallen
 
-#### Artikel 38af
+##### Artikel 38af
 
 Vervallen
 
-#### Artikel 38ag
+##### Artikel 38ag
 
 Vervallen
 
@@ -6934,11 +6956,11 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 326d
+##### Artikel 326d
 
 Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, enige bedrieglijke handeling pleegt tot misleiding teneinde een ander die handelt in de uitoefening van een beroep, bedrijf of organisatie te bewegen tot het doen van een betaling, wordt gestraft met een gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie.
 
-#### Artikel 344a
+##### Artikel 344a
 
 1. Hij die in staat van faillissement is verklaard, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie:
 
@@ -6958,7 +6980,7 @@ Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, en
 
 - 2°. hij voor of tijdens de toepassing van de schuldsaneringsregeling opzettelijk niet heeft voldaan aan de wettelijke verplichtingen tot het voeren van een administratie en het bewaren van de daartoe behorende boeken, bescheiden en andere gegevensdragers, ten gevolge waarvan de schuldsanering wordt bemoeilijkt.
 
-#### Artikel 344b
+##### Artikel 344b
 
 1. Hij die in staat van faillissement is verklaard aan wiens schuld het te wijten is dat voor of tijdens het faillissement niet is voldaan aan de wettelijke verplichtingen tot het voeren van een administratie en het bewaren van de daartoe behorende boeken, bescheiden en andere gegevensdragers, ten gevolge waarvan de afhandeling wordt bemoeilijkt, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
 
@@ -6966,7 +6988,7 @@ Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, en
 
 3. Hij ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie, indien het aan zijn schuld te wijten is dat voor of tijdens de toepassing van de schuldsaneringsregeling niet is voldaan aan de wettelijke verplichtingen tot het voeren van een administratie en het bewaren van de daartoe behorende boeken, bescheiden en andere gegevensdragers, ten gevolge waarvan de schuldsanering wordt bemoeilijkt.
 
-#### Artikel 348a
+##### Artikel 348a
 
 1. Onder bestuurder van een rechtspersoon worden voor de toepassing van de bepalingen in deze Titel mede begrepen zij die feitelijk optreden als bestuurder van een rechtspersoon.
 
@@ -6984,11 +7006,11 @@ Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, en
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 420bis.1
+##### Artikel 420bis.1
 
 Witwassen dat enkel bestaat uit het verwerven of voorhanden hebben van een voorwerp dat onmiddellijk afkomstig is uit enig eigen misdrijf wordt als eenvoudig witwassen gestraft met een gevangenisstraf van ten hoogste zes maanden of geldboete van de vijfde categorie.
 
-#### Artikel 420quater.1
+##### Artikel 420quater.1
 
 Schuldwitwassen dat enkel bestaat uit het verwerven of voorhanden hebben van een voorwerp dat onmiddellijk afkomstig is uit enig eigen misdrijf wordt als eenvoudig schuldwitwassen gestraft met een gevangenisstraf van ten hoogste drie maanden of geldboete van de vijfde categorie.
 
@@ -7002,7 +7024,7 @@ Schuldwitwassen dat enkel bestaat uit het verwerven of voorhanden hebben van een
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 138c
+##### Artikel 138c
 
 1. Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die opzettelijk en wederrechtelijk niet-openbare gegevens die zijn opgeslagen door middel van een geautomatiseerd werk, voor zichzelf of voor een ander overneemt of doorgeeft.
 
@@ -7016,7 +7038,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ## Titel XIX. Misdrijven tegen het leven gericht
 
-#### Artikel 326e
+##### Artikel 326e
 
 Hij die een beroep of een gewoonte maakt van het door middel van een geautomatiseerd werk verkopen van goederen of verlenen van diensten tegen betaling met het oogmerk om zonder volledige levering zich of een ander van de betaling van die goederen of diensten te verzekeren, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
@@ -7032,39 +7054,39 @@ Hij die een beroep of een gewoonte maakt van het door middel van een geautomatis
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 120c
+##### Artikel 120c
 
 Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 117](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117&z=2026-01-01&g=2026-01-01), [117a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117a&z=2026-01-01&g=2026-01-01) en [117b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=117b&z=2026-01-01&g=2026-01-01), begaan met een terroristisch oogmerk, alsmede bij veroordeling wegens een der misdrijven omschreven in [artikel 120b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=III&artikel=120b&z=2026-01-01&g=2026-01-01), kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde recht worden uitgesproken.
 
-#### Artikel 130b
+##### Artikel 130b
 
 Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 123](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=123&z=2026-01-01&g=2026-01-01) en [124](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IV&artikel=124&z=2026-01-01&g=2026-01-01), begaan met een terroristisch oogmerk, kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde recht worden uitgesproken.
 
-#### Artikel 176c
+##### Artikel 176c
 
 1. Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 157](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=157&z=2026-01-01&g=2026-01-01), [159](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=159&z=2026-01-01&g=2026-01-01), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=160&z=2026-01-01&g=2026-01-01), [161bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161bis&z=2026-01-01&g=2026-01-01), [161quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161quater&z=2026-01-01&g=2026-01-01), [161sexies](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=161sexies&z=2026-01-01&g=2026-01-01), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162&z=2026-01-01&g=2026-01-01), [162a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=162a&z=2026-01-01&g=2026-01-01), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=164&z=2026-01-01&g=2026-01-01), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=166&z=2026-01-01&g=2026-01-01), [168](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=168&z=2026-01-01&g=2026-01-01), [170](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=170&z=2026-01-01&g=2026-01-01), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=172&z=2026-01-01&g=2026-01-01), [173a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=173a&z=2026-01-01&g=2026-01-01), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=174&z=2026-01-01&g=2026-01-01), begaan met een terroristisch oogmerk, alsmede bij veroordeling wegens een der misdrijven omschreven in [artikel 176b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=176b&z=2026-01-01&g=2026-01-01), kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde recht worden uitgesproken.
 
 2. Bij veroordeling wegens het in [artikel 173a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=VII&artikel=173a&z=2026-01-01&g=2026-01-01) omschreven misdrijf kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde rechten worden uitgesproken en kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf heeft gepleegd.
 
-#### Artikel 286a
+##### Artikel 286a
 
 Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 282b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282b&z=2026-01-01&g=2026-01-01), [282c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=282c&z=2026-01-01&g=2026-01-01) en [285, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=285&z=2026-01-01&g=2026-01-01), kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde recht worden uitgesproken.
 
-#### Artikel 295a
+##### Artikel 295a
 
 Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 288a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=288a&z=2026-01-01&g=2026-01-01) en [289a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=289a&z=2026-01-01&g=2026-01-01) alsmede bij veroordeling wegens het misdrijf omschreven in [artikel 289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=289&z=2026-01-01&g=2026-01-01), begaan met een terroristisch oogmerk, kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde recht worden uitgesproken.
 
-#### Artikel 304c
+##### Artikel 304c
 
 Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 302](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=302&z=2026-01-01&g=2026-01-01) en [303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=303&z=2026-01-01&g=2026-01-01), begaan met een terroristisch oogmerk, alsmede bij veroordeling wegens het misdrijf omschreven in [artikel 304b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XX&artikel=304b&z=2026-01-01&g=2026-01-01), kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde recht worden uitgesproken.
 
 ## Titel XXIII. Afpersing en afdreiging
 
-#### Artikel 354b
+##### Artikel 354b
 
 Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 350](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350&z=2026-01-01&g=2026-01-01), [350a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350a&z=2026-01-01&g=2026-01-01), [350c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=350c&z=2026-01-01&g=2026-01-01), [351](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=351&z=2026-01-01&g=2026-01-01), [352](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=352&z=2026-01-01&g=2026-01-01), [354](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXVII&artikel=354&z=2026-01-01&g=2026-01-01), begaan met een terroristisch oogmerk, kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde recht worden uitgesproken.
 
-#### Artikel 415c
+##### Artikel 415c
 
 Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 385a tot en met 385d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=385a&z=2026-01-01&g=2026-01-01), begaan met een terroristisch oogmerk, alsmede bij veroordeling wegens een der misdrijven omschreven in [artikel 415b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXIX&artikel=415b&z=2026-01-01&g=2026-01-01), kan ontzetting van het in [artikel 28, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Eerste&titeldeel=II&artikel=28&z=2026-01-01&g=2026-01-01), vermelde recht worden uitgesproken.
 
@@ -7076,7 +7098,7 @@ Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 385a tot 
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 429a
+##### Artikel 429a
 
 1. Hij die voorwerpen binnen een inrichting, een instelling of een afdeling daarvan waarop de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709), de [Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765) dan wel de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756) van toepassing is, brengt of tracht te brengen waarvan het bezit binnen die inrichting, instelling of afdeling verboden is, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
 
@@ -7090,13 +7112,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 139h
+##### Artikel 139h
 
 Vervallen
 
 ## Boek Derde. Overtredingen
 
-#### Artikel 426ter
+##### Artikel 426ter
 
 Hij die wederrechtelijk een hulpverlener gedurende de uitoefening van zijn beroep in zijn vrijheid van beweging belemmert of met een of meer anderen zich aan hem tegen zijn uitdrukkelijk verklaarde wil blijft opdringen of hem op hinderlijke wijze blijft volgen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie.
 
@@ -7108,7 +7130,7 @@ Hij die wederrechtelijk een hulpverlener gedurende de uitoefening van zijn beroe
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 80septies
+##### Artikel 80septies
 
 1. Onder niet-contant betaalinstrument wordt verstaan:
 
@@ -7146,7 +7168,7 @@ geschikt voor het initiëren van een betaalopdracht.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 90novies
+##### Artikel 90novies
 
 1. Onder geweldsinstructie wordt verstaan de bij of krachtens de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) en de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919) gegeven algemeen verbindende voorschriften die tot de ambtenaar gerichte instructies bevatten omtrent het gebruik van geweld.
 
@@ -7158,7 +7180,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ## Titel VIII. Misdrijven tegen het openbaar gezag
 
-#### Artikel 273g
+##### Artikel 273g
 
 1. Hij die seksuele handelingen verricht met een ander, terwijl hij weet of ernstige reden heeft om te vermoeden dat die ander zich onder de in [artikel 273f, eerste lid, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XVIII&artikel=273f&z=2026-01-01&g=2026-01-01), bedoelde omstandigheden beschikbaar stelt tot het verrichten van seksuele handelingen met een derde tegen betaling, wordt gestraft met een gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
@@ -7176,7 +7198,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 138aa
+##### Artikel 138aa
 
 1. Hij die wederrechtelijk verblijft op een in een haven, luchthaven of spoorwegemplacement gelegen besloten plaats voor distributie, opslag of overslag van goederen, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
@@ -7216,15 +7238,15 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 240c
+##### Artikel 240c
 
 Hij die zich of een ander opzettelijk gelegenheid, middelen of inlichtingen verschaft of tracht te verschaffen tot het plegen van een misdrijf als omschreven in de [artikelen 244](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=244&z=2024-01-01&g=2024-01-01) en [245](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=245&z=2024-01-01&g=2024-01-01) of in de [artikelen 242](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=242&z=2024-01-01&g=2024-01-01), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=243&z=2024-01-01&g=2024-01-01), [246](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=246&z=2024-01-01&g=2024-01-01), [247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=247&z=2024-01-01&g=2024-01-01) of [249](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=249&z=2024-01-01&g=2024-01-01) ten aanzien van een persoon die de leeftijd van zestien jaren nog niet heeft bereikt, dan wel zich kennis of vaardigheden daartoe verwerft of een ander bijbrengt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
-#### Artikel 306a
+##### Artikel 306a
 
 Hij die een dier op een mens of op een ander dier aanhitst, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
-#### Artikel 285d
+##### Artikel 285d
 
 1. Degene die zich persoonsgegevens van een ander of een derde verschaft, deze gegevens verspreidt of anderszins ter beschikking stelt met het oogmerk om die ander vrees aan te jagen dan wel aan te laten jagen, ernstige overlast aan te doen dan wel aan te laten doen of hem in de uitoefening van zijn ambt of beroep ernstig te hinderen dan wel ernstig te laten hinderen, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie.
 
@@ -7240,7 +7262,7 @@ Hij die een dier op een mens of op een ander dier aanhitst, wordt gestraft met g
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 151d
+##### Artikel 151d
 
 Degene die weet of ernstige reden heeft om te vermoeden dat een visuele weergave als bedoeld in [artikel 239, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=239&z=2026-01-01&g=2026-01-01), of een voorwerp aanstotelijk voor de eerbaarheid is en die visuele weergave of dat voorwerp:
 
@@ -7250,11 +7272,11 @@ Degene die weet of ernstige reden heeft om te vermoeden dat een visuele weergave
 
 wordt gestraft met gevangenisstraf van ten hoogste twee maanden of geldboete van de derde categorie.
 
-#### Artikel 151e
+##### Artikel 151e
 
 Degene die een visuele weergave als bedoeld in [artikel 239, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIV&artikel=239&z=2026-01-01&g=2026-01-01), of een voorwerp, waarvan de vertoning schadelijk is te achten voor personen beneden de leeftijd van zestien jaren, verstrekt, aanbiedt of vertoont aan een persoon beneden de leeftijd van zestien jaren wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
 
-#### Artikel 151f
+##### Artikel 151f
 
 1. Degene die
 
@@ -7272,17 +7294,17 @@ wordt gestraft met gevangenisstraf van ten hoogste negen maanden of geldboete va
 
 4. Indien degene die schuldig is aan het misdrijf dit misdrijf in de uitoefening van een beroep begaat, kan diegene van de uitoefening van dat beroep worden ontzet.
 
-#### Artikel 241
+##### Artikel 241
 
 1. Als schuldig aan opzetaanranding wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie, degene die met een persoon seksuele handelingen verricht terwijl diegene weet dat bij die persoon daartoe de wil ontbreekt.
 
 2. Als schuldig aan gekwalificeerde opzetaanranding wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie, degene die zich schuldig maakt aan het misdrijf omschreven in het eerste lid, voorafgegaan door, vergezeld van of gevolgd door dwang, geweld, of bedreiging.
 
-#### Artikel 254b
+##### Artikel 254b
 
 Degene die opzettelijk in het openbaar of, indien een persoon daarbij zijns ondanks tegenwoordig is, op een niet openbare plaats handelingen die aanstotelijk zijn voor de eerbaarheid verricht, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
-#### Artikel 254ba
+##### Artikel 254ba
 
 1. Degene die
 
@@ -7300,21 +7322,21 @@ wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de 
 
 wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
-#### Artikel 254c
+##### Artikel 254c
 
 1. Degene die een visuele weergave van een seksuele handeling waarbij een mens en een dier zijn betrokken of schijnbaar zijn betrokken verspreidt, openlijk tentoonstelt, vervaardigt, invoert, doorvoert, uitvoert, of in bezit heeft, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
 2. Indien het in het eerste lid omschreven feit wordt gepleegd door een persoon die daarvan een beroep of gewoonte maakt, wordt gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie opgelegd.
 
-#### Artikel 254d
+##### Artikel 254d
 
 Degene die seksuele handelingen verricht met een dier of een dier seksuele handelingen laat verrichten met diegene of met zichzelf of met een derde dan wel een dier seksuele handelingen laat ondergaan door een derde, wordt gestraft met gevangenisstraf van ten hoogste een jaar en zes maanden of geldboete van de vierde categorie.
 
-#### Artikel 429ter
+##### Artikel 429ter
 
 Degene die in het openbaar een ander indringend seksueel benadert door middel van opmerkingen, gebaren, geluiden of aanrakingen op een wijze die vreesaanjagend, vernederend, kwetsend of onterend is te achten, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie.
 
-#### Artikel 430b
+##### Artikel 430b
 
 Hij die zich in kennelijke staat van dronkenschap op de openbare weg bevindt, wordt gestraft met hechtenis van ten hoogste twaalf dagen of geldboete van de eerste categorie.
 
@@ -7324,7 +7346,7 @@ Hij die zich in kennelijke staat van dronkenschap op de openbare weg bevindt, wo
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 227c
+##### Artikel 227c
 
 1. Hij die, anders dan door valsheid in geschrift, opzettelijk niet naar waarheid gegevens verstrekt of in strijd met een op hem rustende verplichting nalaat gegevens te verstrekken, terwijl dat feit tot gevolg heeft dat middelen of activa afkomstig van de begroting van de Europese Unie of van een door of voor de Europese Unie beheerde begroting wederrechtelijk worden ontvangen of achtergehouden wordt gestraft met een gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
@@ -7336,7 +7358,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 253a
+##### Artikel 253a
 
 Degene die een voorwerp met een uiterlijke verschijningsvorm van een kind of van een lichaamsdeel van een kind dat de leeftijd van zestien jaren nog niet heeft bereikt, dat bestemd is om seksuele handelingen mee te verrichten, verspreidt, aanbiedt, openlijk tentoonstelt, vervaardigt, invoert, doorvoert, uitvoert, verwerft of in bezit heeft, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
@@ -7346,7 +7368,7 @@ Degene die een voorwerp met een uiterlijke verschijningsvorm van een kind of van
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 44bis
+##### Artikel 44bis
 
 Indien een strafbaar feit wordt begaan met een discriminatoir oogmerk dan wel bestaat uit, wordt voorafgegaan door, vergezeld van of gevolgd door gedragingen die haat tegen of discriminatie van een groep mensen wegens hun ras, hun godsdienst of levensovertuiging, hun geslacht, hun seksuele gerichtheid of hun handicap tot uitdrukking brengen, kan de op dat feit gestelde tijdelijke gevangenisstraf of hechtenis met een derde worden verhoogd.
 
@@ -7356,7 +7378,7 @@ Indien een strafbaar feit wordt begaan met een discriminatoir oogmerk dan wel be
 
 ## Titel IX. Betekenis van sommige in het wetboek voorkomende uitdrukkingen
 
-#### Artikel 98d
+##### Artikel 98d
 
 1. Met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie wordt gestraft hij die, wetende dat daarvan gevaar is te duchten voor de veiligheid van de staat, van zijn bondgenoten of van een volkenrechtelijke organisatie, voor de vitale infrastructuur, voor de integriteit en exclusiviteit van hoogwaardige technologieën, of voor de veiligheid van een of meer personen, opzettelijk in heimelijke betrokkenheid met een buitenlandse mogendheid
 
@@ -7378,7 +7400,7 @@ Indien een strafbaar feit wordt begaan met een discriminatoir oogmerk dan wel be
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Collegiën en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 189a
+##### Artikel 189a
 
 1. Degene die opzettelijk een vervoermiddel toerust of inricht met een ruimte die kennelijk is bestemd om de opsporing van strafbare feiten te beletten of te bemoeilijken, wordt gestraft met gevangenisstraf van ten hoogste twee jaar of geldboete van de derde categorie.
 

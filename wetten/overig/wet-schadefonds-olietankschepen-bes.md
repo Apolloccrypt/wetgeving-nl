@@ -1,18 +1,43 @@
 ---
 title: "Wet schadefonds olietankschepen BES"
 identifier: "BWBR0028246"
-categorie: "Overig"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028246"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028246"
+soort: "wet-BES"
+stam_id: "10720113"
+version_id: "17688132"
+internal_id: "C24800231"
+label_id: "10694864"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028246/2019-01-01/0"
+intitule_bron: "Stb.2010-501"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-14"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-501"
+original_signed_date: "2010-09-14"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-501"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028246&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0028246&g=2019-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-14"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet schadefonds olietankschepen BES
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,25 +61,25 @@ bron: "https://wetten.overheid.nl/BWBR0028246"
 
 ### Hoofdstuk 2. Rechtsvorderingen en verhaal
 
-#### Artikel 2
+##### Artikel 2
 
 1. De uit het Verdrag voortvloeiende verplichting tot betaling van bijdragen aan het Fonds heeft de kracht van een verbintenis naar burgerlijk recht.
 
 2. Tot de kennisneming in eerste aanleg van vorderingen van het Fonds tot betaling van bijdragen, is in de openbare lichamen Bonaire, Sint Eustatius en Saba bevoegd het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba, zittingsplaats Bonaire.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Tot de kennisneming in eerste aanleg van vorderingen tegen het Fonds op grond van artikel 4 van het Verdrag, is in de openbare lichamen Bonaire, Sint Eustatius en Saba bevoegd het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba, zittingsplaats Bonaire.
 
 2. Het Fonds kan, zonder dat het daartoe een belang behoeft te stellen, zich voegen of tussenkomen in elk geding, dat op grond van het Aansprakelijkheidsverdrag 1992 tegen de eigenaar van een schip of tegen diens garant wordt gevoerd.
 
-#### Artikel 4
+##### Artikel 4
 
 Op het recht van verhaal dat het Fonds heeft voor bedragen die het heeft betaald op grond van artikel 4 van het Verdrag is [artikel 3, zesde lid, van de Wet aansprakelijkheid olietankschepen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028324&artikel=3) van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Opgave
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een ieder die in de openbare lichamen Bonaire, Sint Eustatius en Saba bijdragende olie ontvangt op de wijze, bepaald in artikel 10, eerste lid, onderdelen a of b, van het Verdrag, is verplicht ieder kalenderjaar aan Onze Minister schriftelijk opgave te doen van de hoeveelheid bijdragende olie die hij in het voorafgaande kalenderjaar heeft ontvangen. Bij algemene maatregel van bestuur worden nadere regels gegeven met betrekking tot het tijdstip en de wijze van opgave en kunnen nadere regels worden gegeven met betrekking tot de vraag welke personen tot opgave verplicht zijn; daarbij kunnen personen die in het voorafgaande kalenderjaar niet meer dan een bepaalde hoeveelheid bijdragende olie hebben ontvangen van de verplichting tot opgave worden vrijgesteld.
 
@@ -64,7 +89,7 @@ Op het recht van verhaal dat het Fonds heeft voor bedragen die het heeft betaald
 
 4. Onze Minister stelt elke persoon, ten aanzien van wie hij overeenkomstig het tweede of het derde lid mededelingen doet aan de Directeur van het Fonds, schriftelijk van die mededelingen in kennis en wel uiterlijk binnen een termijn van veertien dagen na verzending daarvan aan de Directeur van het Fonds. Indien in de mededelingen van de opgave wordt afgeweken of de mededelingen zijn verstrekt met toepassing van het derde lid, wordt daarvan melding gemaakt bij de in de vorige zin bedoelde kennisgeving.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij ministeriële regeling aangewezen ambtenaren of andere personen. Een zodanige aanwijzing wordt bekendgemaakt door publicatie in de Staatscourant.
 
@@ -80,37 +105,37 @@ Op het recht van verhaal dat het Fonds heeft voor bedragen die het heeft betaald
 
 Zonodig verschaffen zij zich de toegang tot een plaats als bedoeld in onderdeel c, alsmede inzage van boeken en bescheiden, met behulp van de sterke arm.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een ieder is verplicht aan de krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=3&artikel=6&z=2019-01-01&g=2019-01-01), aangewezen personen alle medewerking te verlenen, die redelijkerwijs voor de uitoefening van de hun bij dat artikel verleende bevoegdheden nodig is.
 
 2. Zij die uit hoofde van hun stand, beroep of ambt tot geheimhouding verplicht zijn, kunnen het verlenen van medewerking weigeren voor zover hun plicht tot geheimhouding zich daartoe uitstrekt.
 
-#### Artikel 8
+##### Artikel 8
 
 Onverminderd [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=3&artikel=5&z=2019-01-01&g=2019-01-01), wordt informatie die is verkregen op grond van deze wet, voor zover deze betrekking heeft op bepaalde personen dan wel daaruit gevolgtrekkingen ten aanzien van bepaalde personen kunnen worden gemaakt, zonder toestemming van die personen niet verstrekt aan anderen dan degenen, die belast zijn met de uitvoering van één of meer bepalingen van deze wet.
 
 ### Hoofdstuk 4
 
-#### Artikel 9
+##### Artikel 9
 
 [vervallen]
 
 ### Hoofdstuk 5. Geheimhoudingsplicht
 
-#### Artikel 10
+##### Artikel 10
 
 Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van deze wet de noodzaak tot bekendmaking voortvloeit.
 
 ### Hoofdstuk 6. Strafbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Handelen in strijd met het bepaalde bij of krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=3&artikel=5&z=2019-01-01&g=2019-01-01), [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=3&artikel=7&z=2019-01-01&g=2019-01-01) of [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=5&artikel=10&z=2019-01-01&g=2019-01-01), wordt gestraft met hechtenis van ten hoogste zes maanden en geldboete van ten hoogste USD 56.000,–, hetzij met één van deze straffen.
 
 2. De in het eerste lid genoemde strafbare feiten zijn overtredingen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien een bij of krachtens deze wet strafbaar gestelde gedraging wordt begaan door of vanwege een rechtspersoon, een vennootschap, een andere vereniging van personen of een doelvermogen, wordt de strafvervolging ingesteld en worden de straffen uitgesproken hetzij tegen die rechtspersoon, die vennootschap, die vereniging of dat doelvermogen, hetzij tegen hen die tot de gedraging opdracht hebben gegeven of die feitelijk leiding hebben gehad bij het verboden handelen of nalaten, hetzij tegen hen gezamenlijk.
 
@@ -124,18 +149,18 @@ Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikk
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Bij of krachtens algemene maatregel van bestuur kunnen, indien dit in het belang van een goede uitvoering van de wet of in verband met internationale afspraken inzake de uitvoering van het Verdrag en de daarop berustende regelingen gewenst is, nadere regels worden gegeven betreffende de verkrijging van gegevens aangaande in de openbare lichamen Bonaire, Sint Eustatius en Saba ontvangen bijdragende olie en andere in deze wet geregelde onderwerpen.
 
-#### Artikel 14
+##### Artikel 14
 
 [Vervallen]
 
-#### Artikel 15
+##### Artikel 15
 
 Deze wet wordt aangehaald als: Wet schadefonds olietankschepen BES.
 
-#### Artikel 13a
+##### Artikel 13a
 
 Tenzij anders is aangegeven, is het in of krachtens de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=2&artikel=2&z=2019-01-01&g=2019-01-01) bepaalde van overeenkomstige toepassing ten aanzien van het Aanvullend Fonds, met dien verstande dat een opgave van bijdragende olie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&hoofdstuk=3&artikel=5&z=2019-01-01&g=2019-01-01), alsmede een mededeling als bedoeld in artikel 5, tweede lid, die is geschied ten aanzien van het Fonds, geacht wordt tevens ten aanzien van het Aanvullend Fonds te zijn gedaan.

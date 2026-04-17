@@ -1,13 +1,37 @@
 ---
 title: "Regeling erkenning opleidingen"
 identifier: "BWBR0004757"
-categorie: "Overig"
-publicatiedatum: 2001-07-01
-laatste_update: 2001-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004757"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2001-07-01"
+last_updated: "2001-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004757"
+soort: "ministeriele-regeling"
+stam_id: "4891543"
+version_id: "7830282"
+internal_id: "C18196661"
+label_id: "4869634"
+dtd_version: "2.0"
+original_entry_into_force: "1990-06-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004757/2001-07-01/0"
+intitule_bron: "Stcrt.1990-107"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-05-18"
+intitule_published: "1990-06-06"
+intitule_in_force: "1990-06-06"
+intitule_status: "goed"
+original_publication: "Stcrt.1990-107"
+original_signed_date: "1990-05-18"
+original_published_date: "1990-06-06"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1990-06-08"
+jci_1_3: "jci1.3:c:BWBR0004757&z=2001-07-01&g=2001-07-01"
+jci_1_0: "1.0:c:BWBR0004757&g=2001-07-01"
+citeertitel_status: "officieel"
+signed_date: "1990-05-18"
+entry_into_force: "1990-06-08"
 ---
-
 # Regeling erkenning opleidingen
 
 Gelet op [artikel 39, tweede lid van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=39) (Stb. 1978, 99), laatstelijk gewijzigd bij besluit van 13 juli 1987 (Stb. 1987, 449);
@@ -16,17 +40,17 @@ Besluit:
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder een erkende opleiding: Een instelling die door de Minister van Verkeer en Waterstaat is erkend voor het geven van een opleiding voor examens ter verkrijging van bewijzen van bevoegdheid, zoals aangegeven in het bewijs van erkenning.
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
 ### Hoofdstuk II. De aanvraag
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanvraag tot het verlenen, opnieuw verlenen of wijzigen van een erkenning moet worden ingediend bij de Minister van Verkeer en Waterstaat (per adres de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat) met behulp van een behoorlijk ingevuld en ondertekend formulier waarvan exemplaren bij de divisie Luchtvaart van de Inspectie Verkeer en Waterstaat verkrijgbaar zijn, aangevuld met de volgende gegevens:
 
@@ -50,7 +74,7 @@ Vervallen
 
 ### Hoofdstuk III. De eisen
 
-#### Artikel 4
+##### Artikel 4
 
 De erkende opleiding moet beschikken over:
 
@@ -58,23 +82,23 @@ De erkende opleiding moet beschikken over:
 
 - b. door de Minister van Verkeer en Waterstaat geaccepteerde criteria op grond waarvan personeel wordt geselecteerd en benoemd.
 
-#### Artikel 5
+##### Artikel 5
 
 De erkende opleiding moet beschikken over een leerplan, dat bestaat uit een systematische rangschikking van de leefstof, het vereiste aantal lesuren en de verdeling over de voor de opleiding beschikbare tijd.
 
-#### Artikel 6
+##### Artikel 6
 
 De erkende opleiding moet een beoordelingssysteem bijhouden, waarvan de administratie per leerling ten minste tot 3 jaar na het door de leerling beëindigen van de opleiding bewaard moet blijven.
 
-#### Artikel 7
+##### Artikel 7
 
 De erkende opleiding moet desgevraagd aantonen dat de opleiding, waarop de erkenning betrekking heeft, gunstige resultaten oplevert. Voor de beoordeling van deze resultaten kan het percentage van de bij examens geslaagde leerlingen in ogenschouw worden genomen.
 
-#### Artikel 8
+##### Artikel 8
 
 De erkende opleiding moet kunnen beschikken over lokaliteiten van voldoende afmeting en voorzien van voldoende ventilatie, verwarming en verlichting. De lokaliteiten moeten zodanig zijn ingericht en van leermiddelen zijn voorzien, dat het beoogde onderricht daarin naar behoren kan worden gegeven.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De erkende opleiding moet beschikken over voldoende geschikte leermiddelen voor het verzorgen van lessen, instructies en practica.
 
@@ -86,19 +110,19 @@ De erkende opleiding moet kunnen beschikken over lokaliteiten van voldoende afme
 
 - c. een voor de vliegopleiding verantwoordelijke chef-instructeur die als zodanig voor de Minister van Verkeer en Waterstaat aanvaardbaar is.
 
-#### Artikel 10
+##### Artikel 10
 
 De erkende opleiding moet beschikken over een door de Minister van Verkeer en Waterstaat geaccepteerde toelatingsregeling. Een zodanige regeling wordt niet geëist van instellingen die opleidingen verzorgen voor bewijzen van bevoegdheid als privé-vlieger.
 
 ### Hoofdstuk IV. De erkenning
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een opleidingsinstelling die een aanvraag voor erkenning heeft ingediend wordt erkend nadat ten genoegen van de Minister van Verkeer en Waterstaat is aangetoond dat er voldoende waarborgen zijn voor een deugdelijke opleiding.
 
 2. Een opleidingsinstelling, waarvan de erkenning werd ingetrokken of waarvan een aanvraag voor erkenning werd afgewezen en die opnieuw een volledige aanvraag voor erkenning heeft ingediend, wordt erkend nadat ten genoegen van de Minister van Verkeer en Waterstaat tevens is aangetoond dat de omstandigheden die tot intrekking of afwijzing hebben geleid, zijn opgeheven.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De erkenning wordt verleend voor ten hoogste twee jaren en kan daarna steeds op verzoek van de erkende opleiding voor ten hoogste twee jaren opnieuw worden verlengd.
 
@@ -110,17 +134,17 @@ De erkende opleiding moet beschikken over een door de Minister van Verkeer en Wa
 
 - c. de opleidingsresultaten voldoende waren.
 
-#### Artikel 13
+##### Artikel 13
 
 Van de erkenning wordt een bewijs, eventueel met aanhangsel, afgegeven overeenkomstig de bij deze regeling behorende [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0004757&bijlage=I&z=2001-07-01&g=2001-07-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0004757&bijlage=II&z=2001-07-01&g=2001-07-01).
 
 ### Hoofdstuk V. Wijziging en intrekking
 
-#### Artikel 14
+##### Artikel 14
 
 Iedere wijziging in de organisatie van de erkende opleiding die verandering in de gegevens als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004757&hoofdstuk=II&artikel=3&z=2001-07-01&g=2001-07-01) als gevolg heeft, moet voor instemming aan de Minister van Verkeer en Waterstaat worden aangeboden, voor zover nodig met het verzoek om de erkenning dienovereenkomstig te wijzigen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De erkenning kan geheel of gedeeltelijk door de Minister van Verkeer en Waterstaat worden ingetrokken, indien:
 
@@ -142,13 +166,13 @@ Iedere wijziging in de organisatie van de erkende opleiding die verandering in d
 
 2. Van de intrekking wordt door de Minister van Verkeer en Waterstaat per aangetekende brief mededeling gedaan aan de erkende opleiding met vermelding van de datum van ingang van de intrekking en de termijn waarbinnen de opleidingsinstelling het bewijs van erkenning terug moet zenden aan de Minister van Verkeer en Waterstaat.
 
-#### Artikel 15a
+##### Artikel 15a
 
 De Minister van Verkeer en Waterstaat kan in dringende gevallen afwijken van deze regeling.
 
 ### Hoofdstuk VI. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Van de opleidingsinstellingen die krachtens deze regeling zijn erkend, worden in Mededelingen aan Nederlandse Luchtvarenden en Eigenaren van Luchtvaartuigen (M.A.L.) de volgende gegevens gepubliceerd:
 
@@ -158,19 +182,19 @@ Van de opleidingsinstellingen die krachtens deze regeling zijn erkend, worden in
 
 - c. de rechten, die aan de erkenning zijn verbonden.
 
-#### Artikel 17
+##### Artikel 17
 
 De erkenningen die zijn afgegeven op grond van de regeling van 4 oktober 1976, nr. LI 24741, behouden hun geldigheid tot de op het bewijs van erkenning vermelde datum
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling kan worden aangehaald als de Regeling erkenning opleidingen
 
-#### Artikel 19
+##### Artikel 19
 
 De regeling van de directeur-generaal van de Rijksluchtvaartdienst van 4 oktober 1976, nr. L1 24741 wordt ingetrokken
 
-#### Artikel 20
+##### Artikel 20
 
 Deze regeling treedt in werking met ingang van de tweede dag na de datum van verschijning van de Nederlandse Staatscourant waarin zij wordt geplaatst
 

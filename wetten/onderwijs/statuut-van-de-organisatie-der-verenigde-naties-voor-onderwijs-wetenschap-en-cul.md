@@ -1,13 +1,35 @@
 ---
 title: "Statuut van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur"
 identifier: "BWBV0003155"
-categorie: "Onderwijs"
-publicatiedatum: 2001-11-03
-laatste_update: 2001-11-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003155"
+country: "nl"
+rank: "verdrag"
+publication_date: "2001-11-03"
+last_updated: "2001-11-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003155"
+soort: "verdrag"
+stam_id: "10003360323"
+version_id: "10003396772"
+internal_id: "C10008431271"
+label_id: "10003346094"
+dtd_version: "2.0"
+original_entry_into_force: "2001-11-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003155/2001-11-03/0"
+intitule_bron: "Trb.2009-51"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-04-14"
+intitule_in_force: "2009-04-14"
+intitule_status: "goed"
+original_publication: "Trb.2009-51"
+original_published_date: "2009-04-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2009-51"
+entry_into_force_date: "2001-11-03"
+jci_1_3: "jci1.3:c:BWBV0003155&z=2001-11-03&g=2001-11-03"
+jci_1_0: "1.0:c:BWBV0003155&g=2001-11-03"
+citeertitel_status: "redactioneel"
+entry_into_force: "2001-11-03"
 ---
-
 # Statuut van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur
 
 Aangenomen te Londen op 16 november 1945 en gewijzigd door de Algemene Conferentie tijdens haar tweede, derde, vierde, vijfde, zesde, zevende, achtste, negende, tiende, twaalfde, vijftiende, zeventiende, negentiende, twintigste, eenentwintigste, vierentwintigste, vijfentwintigste, zesentwintigste, zevenentwintigste, achtentwintigste, negenentwintigste en eenendertigste zitting.
@@ -30,7 +52,7 @@ In overeenstemming hiermee richten zij bij dezen de Organisatie van de Verenigde
 
 De Engelse tekst van het Statuut is oorspronkelijk gepubliceerd in Stb. 1946 (G)/336. De vertaling is gepubliceerd in Stb. 1947 (H)/62. Het Statuut wordt voorlopig toegepast per 15 november 1946, zie Stb. 1947 (H)/62. Het Statuut is in werking getreden op 1 januari 1947, zie Trb. 1960/131. Het Statuut is gewijzigd volgens Trb. 1960/131, Trb. 1968/56, Trb. 1973/143 en Trb. 1977/176.
 
-#### Artikel I. Doelstellingen en taak
+##### Artikel I. Doelstellingen en taak
 
 1. De Organisatie heeft ten doel bij te dragen aan de vrede en veiligheid door de samenwerking van de volken door middel van onderwijs, wetenschap en cultuur te bevorderen, teneinde overal ter wereld de eerbied te bevorderen voor de rechtvaardigheid, de rechtsstaat en de rechten van de mens en de fundamentele vrijheden, die door het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) worden bevestigd voor alle volken, zonder onderscheid naar ras, geslacht, taal of godsdienst.
 
@@ -56,7 +78,7 @@ De Engelse tekst van het Statuut is oorspronkelijk gepubliceerd in Stb. 1946 (G)
 
 3. Teneinde de onafhankelijkheid, integriteit en vruchtbare diversiteit van beschavingen en onderwijsstelsels van de Lidstaten van de Organisatie te handhaven, is het de Organisatie verboden tussenbeide te komen in aangelegenheden die wezenlijk onder de nationale rechtsmacht van een staat vallen.
 
-#### Artikel II. Lidmaatschap
+##### Artikel II. Lidmaatschap
 
 1. Lidmaatschap van de Verenigde Naties geeft recht op het lidmaatschap van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 
@@ -74,11 +96,11 @@ De Engelse tekst van het Statuut is oorspronkelijk gepubliceerd in Stb. 1946 (G)
 
 8. De Permanente Afgevaardigde van de Lidstaat overlegt zijn geloofsbrieven aan de Directeur-Generaal van de Organisatie en oefent officieel zijn functie uit vanaf de dag waarop hij zijn geloofsbrieven overlegt.
 
-#### Artikel III. Organen
+##### Artikel III. Organen
 
 De Organisatie omvat een Algemene Conferentie, een Uitvoerende Raad en een Secretariaat.
 
-#### Artikel IV. De Algemene Conferentie
+##### Artikel IV. De Algemene Conferentie
 
 1. De Algemene Conferentie bestaat uit de vertegenwoordigers van de Lidstaten van de Organisatie. De Regering van iedere Lidstaat benoemt niet meer dan vijf afgevaardigden, die worden gekozen na overleg met de Nationale Commissie, indien deze bestaat, of met instellingen op het gebied van onderwijs, wetenschap en cultuur.
 
@@ -114,7 +136,7 @@ De Organisatie omvat een Algemene Conferentie, een Uitvoerende Raad en een Secre
 
 14. Indien de Uitvoerende Raad regelingen inzake overleg met non-gouvernementele of semi-gouvernementele organisaties, als bedoeld in [artikel XI, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003155&artikel=XI&z=2001-11-03&g=2001-11-03), heeft goedgekeurd, worden die organisaties uitgenodigd waarnemers te zenden naar de zittingen van de Algemene Conferentie en van haar commissies.
 
-#### Artikel V. Uitvoerende Raad
+##### Artikel V. Uitvoerende Raad
 
 - a. De Uitvoerende Raad wordt gekozen door de Algemene Conferentie en bestaat uit achtenvijftig Lidstaten. De Voorzitter van de Algemene Conferentie heeft ex officio met adviserende stem zitting in de Uitvoerende Raad.
 
@@ -152,7 +174,7 @@ De Organisatie omvat een Algemene Conferentie, een Uitvoerende Raad en een Secre
 
 13. De Uitvoerende Raad oefent eveneens de door de Algemene Conferentie aan hem gedelegeerde bevoegdheden uit, uit naam van de gehele Conferentie.
 
-#### Artikel VI. Secretariaat
+##### Artikel VI. Secretariaat
 
 1. Het Secretariaat omvat de Directeur-Generaal en het benodigde personeel.
 
@@ -168,7 +190,7 @@ De Organisatie omvat een Algemene Conferentie, een Uitvoerende Raad en een Secre
 
 6. Geen enkele bepaling van dit artikel belet de Organisatie om binnen het kader van de Verenigde Naties bijzondere regelingen te treffen voor gemeenschappelijke diensten en gemeenschappelijk personeel en voor de uitwisseling van personeel.
 
-#### Artikel VII. Samenwerkende nationale instellingen
+##### Artikel VII. Samenwerkende nationale instellingen
 
 1. Iedere Lidstaat treft, rekening houdend met zijn eigen bijzondere omstandigheden, de nodige maatregelen teneinde zijn voornaamste nationale instellingen die op het gebied van onderwijs, wetenschap en cultuur werkzaam zijn, te betrekken bij het werk van de Organisatie, bij voorkeur door de instelling van een Nationale Commissie, waarin de Regering en de genoemde instellingen op brede grondslag vertegenwoordigd zijn.
 
@@ -176,11 +198,11 @@ De Organisatie omvat een Algemene Conferentie, een Uitvoerende Raad en een Secre
 
 3. De Organisatie kan, op verzoek van een Lidstaat, tijdelijk of permanent, een lid van haar Secretariaat afvaardigen om deel uit te maken van de Nationale Commissie van die Staat, teneinde haar bij haar werkzaamheden behulpzaam te zijn.
 
-#### Artikel VIII. Rapporten van Lidstaten
+##### Artikel VIII. Rapporten van Lidstaten
 
 Iedere Lidstaat dient, op de door de Algemene Conferentie vast te stellen tijdstippen en wijze, verslagen in bij de Organisatie over de wetten, voorschriften en statistieken die betrekking hebben op zijn instellingen en werkzaamheden op het gebied van onderwijs, wetenschap en cultuur, alsmede omtrent de maatregelen die zij hebben genomen naar aanleiding van de aanbevelingen en overeenkomsten, bedoeld in [artikel IV, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003155&artikel=IV&z=2001-11-03&g=2001-11-03).
 
-#### Artikel IX. Begroting
+##### Artikel IX. Begroting
 
 1. Het beheer van de begroting berust bij de Organisatie.
 
@@ -188,11 +210,11 @@ Iedere Lidstaat dient, op de door de Algemene Conferentie vast te stellen tijdst
 
 3. De Directeur-Generaal kan, met inachtneming van de voorwaarden omschreven in het Financieel Reglement, rechtstreeks vijwillige bijdragen, giften, legaten en subsidies in ontvangst nemen van Regeringen, van openbare of particuliere instellingen en van verenigingen of particulieren.
 
-#### Artikel X. Betrekkingen met de Verenigde Naties
+##### Artikel X. Betrekkingen met de Verenigde Naties
 
 De Organisatie zal zo spoedig mogelijk worden verbonden met de Verenigde Naties als een van de gespecialiseerde organisaties, bedoeld in [artikel 57 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=57). Deze relatie wordt bewerkstelligd door een overeenkomst met de Verenigde Naties als bedoeld in [artikel 63 van het Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=63). Deze overeenkomst behoeft de goedkeuring van de Algemene Conferentie van deze Organisatie. De overeenkomst zal voorzien in een doeltreffende samenwerking tussen de beide Organisaties bij het nastreven van hun gemeenschappelijke doeleinden en zal tegelijkertijd de zelfstandigheid van deze Organisatie binnen het kader van haar eigen bevoegdheden, zoals deze wordt omschreven in dit Statuut, erkennen. De overeenkomst kan onder meer bepalen, dat de begroting van de Organisatie zal worden goedgekeurd en gefinancierd door de Algemene Vergadering van de Verenigde Naties.
 
-#### Artikel XI. Betrekkingen met andere gespecialiseerde internationale organisaties en instellingen
+##### Artikel XI. Betrekkingen met andere gespecialiseerde internationale organisaties en instellingen
 
 1. Deze Organisatie kan samenwerken met andere gespecialiseerde intergouvernementele organisaties en instellingen, van wie de belangen en werkzaamheden verwant zijn met haar doelstellingen. Daartoe kan de Directeur-Generaal, handelend met algemene machtiging van de Uitvoerende Raad, doeltreffende samenwerkingsverbanden aangaan met dergelijke organisaties en instellingen en daarbij de voor een doelmatige samenwerking nodig geachte gemeenschappelijke commissies oprichten. Alle formele overeenkomsten die met dergelijke organisaties of instellingen worden aangegaan, behoeven de goedkeuring van de Uitvoerende Raad.
 
@@ -202,23 +224,23 @@ De Organisatie zal zo spoedig mogelijk worden verbonden met de Verenigde Naties 
 
 4. De Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur kan alle dienstige regelingen treffen met betrekking tot overleg en samenwerking met non-gouvernementele internationale organisaties die zich bezighouden met aangelegenheden die tot haar bevoegdheid behoren, en kan hen uitnodigen bepaalde taken op zich te nemen. Deze samenwerking kan eveneens de vorm aannemen van een daartoe geëigende participatie van vertegenwoordigers van dergelijke organisaties in de werkzaamheden van de door de Algemene Conferentie opgerichte adviescommissies.
 
-#### Artikel XII. Rechtspositie van de Organisatie
+##### Artikel XII. Rechtspositie van de Organisatie
 
 De bepalingen van de [artikelen 104](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=104) en [105 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=105), betreffende de rechtspositie en de voorrechten en immuniteiten van die Organisatie, zijn op overeenkomstige wijze van toepassing op deze Organisatie.
 
-#### Artikel XIII. Wijziging
+##### Artikel XIII. Wijziging
 
 1. Voorstellen tot wijziging van dit Statuut worden van kracht zodra zij met een meerderheid van twee derden zijn aangenomen door de Algemene Conferentie; met dien verstande echter, dat wijzigingen die fundamentele veranderingen in de doeleinden van de Organisatie of nieuwe verplichtingen voor de Lidstaten met zich meebrengen, vervolgens moeten worden aanvaard door twee derden van de Lidstaten, voordat zij in werking kunnen treden. De ontwerp-teksten van voorgestelde wijzigingen worden door de Directeur-Generaal ten minste zes maanden voordat zij door de Algemene Conferentie zullen worden behandeld, aan de Lidstaten toegezonden.
 
 2. De Algemene Conferentie is bevoegd om met een meerderheid van twee derden procedurele regels vast te stellen voor de uitvoering van de bepalingen van dit artikel.
 
-#### Artikel XIV. Uitlegging
+##### Artikel XIV. Uitlegging
 
 1. De Engelse en de Franse tekst van dit Statuut worden als gelijkelijk gezaghebbend beschouwd.
 
 2. Iedere vraag of ieder geschil met betrekking tot de uitlegging van dit Statuut zal ter beslissing worden voorgelegd aan het Internationale Gerechtshof of aan een scheidsgerecht, al naar gelang hetgeen de Algemene Conferentie, in overeenstemming met haar reglement van orde, zal beslissen.
 
-#### Artikel XV. Inwerkingtreding
+##### Artikel XV. Inwerkingtreding
 
 1. Dit Statuut behoeft aanvaarding. De akten van aanvaarding worden nedergelegd bij de Regering van het Verenigd Koninkrijk.
 

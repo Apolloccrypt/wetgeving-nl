@@ -1,13 +1,39 @@
 ---
-title: "Besluit Woningbouwimpuls 2020"
+title: "Besluit van 11 mei 2020, houdende regels met betrekking tot verstrekking van een specifieke uitkering aan gemeenten ten behoeve van het versnellen van de bouw van betaalbare woningen in een kwalitatief goede leefomgeving (Besluit Woningbouwimpuls 2020)"
 identifier: "BWBR0043540"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043540"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043540"
+soort: "AMvB"
+stam_id: "15457263"
+version_id: "26715352"
+internal_id: "C38092151"
+label_id: "15400404"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043540/2026-01-01/0"
+intitule_bron: "Stb.2020-141"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-05-11"
+intitule_published: "2020-05-18"
+intitule_in_force: "2020-07-17"
+intitule_status: "goed"
+original_publication: "Stb.2020-141"
+original_signed_date: "2020-05-11"
+original_published_date: "2020-05-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2020-141"
+entry_into_force_date: "2020-07-18"
+jci_1_3: "jci1.3:c:BWBR0043540&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0043540&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit Woningbouwimpuls 2020"
+signed_date: "2020-05-11"
+entry_into_force: "2020-07-18"
 ---
-
 # Besluit van 11 mei 2020, houdende regels met betrekking tot verstrekking van een specifieke uitkering aan gemeenten ten behoeve van het versnellen van de bouw van betaalbare woningen in een kwalitatief goede leefomgeving (Besluit Woningbouwimpuls 2020)
 
 Op de voordracht van Onze Minister voor Milieu en Wonen van 13 maart 2020, nr. 2020-0000139923;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **project:** project als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 2. Activiteiten waarvoor een uitkering kan worden verstrekt
+##### Artikel 2. Activiteiten waarvoor een uitkering kan worden verstrekt
 
 1. Onze Minister kan op aanvraag van een college een specifieke uitkering verstrekken aan de gemeente voor bijdragen in projecten die:
 
@@ -60,13 +86,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij ministeriële Regeling kunnen nadere regels worden gesteld over de toepassing van het eerste en tweede lid.
 
-#### Artikel 3. Uitkeringsplafond
+##### Artikel 3. Uitkeringsplafond
 
 1. Onze Minister stelt het bedrag vast dat ten behoeve van de aanvragen in een aanvraagtijdvak bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4&z=2026-01-01&g=2026-01-01), ten hoogste aan specifieke uitkeringen kan worden verstrekt, en maakt dit tegelijk met de bekendmaking van het aanvraagtijdvak bekend.
 
 2. Specifieke uitkeringen worden per aanvraagtijdvak toegekend op volgorde van de rangschikking, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 4. De aanvraag
+##### Artikel 4. De aanvraag
 
 1. Specifieke uitkeringen kunnen worden aangevraagd gedurende door Onze Minister vastgestelde aanvraagtijdvakken.
 
@@ -84,7 +110,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de aanvraag, de betaling en bevoorschotting van de specifieke uitkering.
 
-#### Artikel 5. De rangschikking van de aanvragen
+##### Artikel 5. De rangschikking van de aanvragen
 
 1. Onze Minister beoordeelt alle in een aanvraagtijdvak ingediende aanvragen na het sluiten van het aanvraagtijdvak en stelt een rangschikking op van de aanvragen die voldoen aan de vereisten, gesteld bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2026-01-01&g=2026-01-01), en aan de vereisten, gesteld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4&z=2026-01-01&g=2026-01-01), en de krachtens artikel 4, vierde lid, gestelde vereisten.
 
@@ -100,7 +126,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij ministeriële regeling worden regels gesteld over de toepassing, de weging, de vereiste score per criterium en de vereiste totaalscore van de weging van de criteria, genoemd in het tweede lid, onder 1° tot en met 4°.
 
-#### Artikel 6. Weigeringsgronden
+##### Artikel 6. Weigeringsgronden
 
 1. Onze Minister wijst een aanvraag voor een specifieke uitkering af indien:
 
@@ -122,7 +148,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de toepassing van het tweede lid.
 
-#### Artikel 7. Instelling toetsingscommissie
+##### Artikel 7. Instelling toetsingscommissie
 
 1. Er is een Toetsingscommissie Woningbouwimpuls.
 
@@ -136,19 +162,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Bij ministeriële regeling worden regels gesteld over onder meer de samenstelling, benoeming en de ondersteuning van de commissie.
 
-#### Artikel 8. Toetsing door de commissie
+##### Artikel 8. Toetsing door de commissie
 
 1. De commissie stelt haar eigen werkwijze vast. Dit omvat in ieder geval een protocol omtrent de wijze waarop de commissie voorgelegde aanvragen toetst en weegt. Het protocol wordt opgesteld in overleg met Onze Minister.
 
 2. De commissie kan de indiener van de aanvraag om een specifieke uitkering als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2026-01-01&g=2026-01-01), om nadere informatie verzoeken omtrent de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4&z=2026-01-01&g=2026-01-01), bedoelde gegevens.
 
-#### Artikel 9. Informatievoorziening na uitkering
+##### Artikel 9. Informatievoorziening na uitkering
 
 1. Het college informeert Onze Minister op verzoek over de voortgang van de activiteiten waarvoor de specifieke uitkering is verstrekt.
 
 2. Het college verleent op verzoek van Onze Minister medewerking en verstrekt informatie ten behoeve van de voortgang en evaluatie van de doelmatigheid en doeltreffendheid van de verstrekte specifieke uitkering.
 
-#### Artikel 10. Verantwoording en terugvordering
+##### Artikel 10. Verantwoording en terugvordering
 
 1. [Artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) is van toepassing.
 
@@ -156,11 +182,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld over de verantwoording over en de terugvordering van de uitkering.
 
-#### Artikel 11. Overgangsrecht
+##### Artikel 11. Overgangsrecht
 
 De aanvraag wordt behandeld onder het recht zoals dat luidde ten tijde van het aanvraagtijdvak als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4&z=2026-01-01&g=2026-01-01), waarbinnen die aanvraag is gedaan.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit Woningbouwimpuls 2020.
 

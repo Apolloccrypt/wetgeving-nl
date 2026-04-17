@@ -1,13 +1,35 @@
 ---
-title: "Uitvoeringsbesluit ex artikel 2 Wet tot uitvoering van de Verordening no. 11 van de Raad van de Europese Economische Gemeenschap"
+title: "Besluit van 14 februari 1964, houdende vaststelling van een algemene maatregel van bestuur, als bedoeld in de artikelen 2 en 3 van de Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap"
 identifier: "BWBR0002436"
-categorie: "Bestuursrecht"
-publicatiedatum: 1994-01-01
-laatste_update: 1994-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002436"
+country: "nl"
+rank: "amvb"
+publication_date: "1994-01-01"
+last_updated: "1994-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002436"
+soort: "AMvB"
+stam_id: "989073"
+version_id: "1452452"
+internal_id: "C1452451"
+label_id: "958534"
+dtd_version: "2.0"
+original_entry_into_force: "1964-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002436/1994-01-01/0"
+intitule_bron: "Stb.1964-35"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1964-02-14"
+intitule_status: "goed"
+original_publication: "Stb.1964-35"
+original_signed_date: "1964-02-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1964-03-01"
+jci_1_3: "jci1.3:c:BWBR0002436&z=1994-01-01&g=1994-01-01"
+jci_1_0: "1.0:c:BWBR0002436&g=1994-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit ex artikel 2 Wet tot uitvoering van de Verordening no. 11 van de Raad van de Europese Economische Gemeenschap"
+signed_date: "1964-02-14"
+entry_into_force: "1964-03-01"
 ---
-
 # Besluit van 14 februari 1964, houdende vaststelling van een algemene maatregel van bestuur, als bedoeld in de artikelen 2 en 3 van de Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 30 oktober 1963, no. A-2/020324, Directoraat-Generaal van het Verkeer;
@@ -22,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Inleidende bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 de gebieden waarop het Verdrag tot oprichting van de Europese Economische Gemeenschap en het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal van toepassing zijn, onder de in die verdragen neergelegde voorwaarden en voorts de grondgebieden van de Republiek Finland, met inachtneming van het tweede lid van artikel 126 van de Overeenkomst betreffende de Europese Economische Ruimte, de Republiek IJsland, het Koninkrijk Noorwegen, de Republiek Oostenrijk en het Koninkrijk Zweden.
 
-#### Artikel 2. Toepasselijkheid
+##### Artikel 2. Toepasselijkheid
 
 1. Dit besluit is van toepassing op vervoer van goederen per spoor, over de weg of over de binnenwateren, dat geheel of ten dele in Nederland plaats vindt, almede op zodanig vervoer, dat door een in Nederland gevestigde ondernemer geheel of ten dele in een of meer van de andere Lid-Staten van de Europese Gemeenschappen dan wel in een of meer der overige staten, die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte wordt verricht, een en ander voor zover de bepalingen van de Wet daarop van toepassing zijn.
 
@@ -42,25 +64,25 @@ de gebieden waarop het Verdrag tot oprichting van de Europese Economische Gemeen
 
 #### § 2. Verstrekking gegevens
 
-#### Artikel 3
+##### Artikel 3
 
 1. De in Nederland gevestigde ondernemer, die vervoer als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002436&paragraaf=1&artikel=2&z=1994-01-01&g=1994-01-01), verricht, is verplicht Onze Minister of de door deze daartoe aangewezen instanties of ambtenaren binnen een week na vaststelling kennis te geven van de tarieven, overeenkomsten, prijsafspraken en vervoervoorwaarden, welke binnen de Europese Economische Ruimte voor dezelfde verbindingen en voor gelijke goederen verschillende vrachtprijzen en vervoervoorwaarden inhouden al naar het land van herkomst of bestemming van deze goederen.
 
 2. De ondernemer, bedoeld in het eerste lid, is verplicht op verzoek van Onze Minister binnen de daarbij gestelde termijn aanvullende gegevens te verschaffen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De expediteur of een andere tussenpersoon op het gebied van het vervoer is verplicht op verzoek van Onze Minister binnen de daarbij gestelde termijn aan deze of aan de door deze daartoe aangewezen instanties of ambtenaren alle gegevens te verschaffen met betrekking tot de verrichte werkzaamheden en de toegepaste prijzen en voorwaarden.
 
 2. Een gelijke verplichting rust op de ondernemer, die rechtstreeks bijkomstige werkzaamheden ten dienste van het vervoer verricht, mits zijn beloning en de beloning van de vervoerondernemer zijn samengevat in één totale prijs.
 
-#### Artikel 5
+##### Artikel 5
 
 De gegevens, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002436&paragraaf=2&artikel=3&z=1994-01-01&g=1994-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002436&paragraaf=2&artikel=4&z=1994-01-01&g=1994-01-01) van dit besluit, moeten volledig en naar waarheid worden verstrekt.
 
 #### § 3. Vervoerdocumenten en administratievoorschriften
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor vervoer van goederen, welke door een afzender aan een geadresseerde worden verzonden, met een totaal bruto gewicht van meer dan 5000 kg over een totaal traject van meer dan 100 km, indien het vervoer binnen één land plaats vindt, dan wel over een totaal traject van meer dan 30 km, indien bij het vervoer tenminste één grens tussen twee landen wordt overschreden, is de ondernemer, die het vervoer verricht, verplicht er voor zorg te dragen, dat
 
@@ -80,17 +102,17 @@ De gegevens, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - b. met vervoer van goederen binnen één land gelijkgesteld het vervoer van goederen tussen twee plaatsen van één land, hetwelk ten dele plaats vindt over het grondgebied van een ander land, mits in het andere land geen goederen worden geladen of gelost.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister stelt het model van de vervoerdocumenten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002436&paragraaf=3&artikel=6&z=1994-01-01&g=1994-01-01), vast, dan wel de gegevens, welke deze documenten moeten bevatten.
 
 2. Door Onze Minister worden nadere voorschriften gegeven inzake de te voeren bedrijfsadministratie en het gebruik van de vervoersdocumenten.
 
-#### Artikel 8
+##### Artikel 8
 
 Onze Minister is bevoegd in bijzondere gevallen op verzoek van de ondernemer ontheffing te verlenen van het bepaalde in [artikel 6, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002436&paragraaf=3&artikel=6&z=1994-01-01&g=1994-01-01).
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002436&paragraaf=3&artikel=6&z=1994-01-01&g=1994-01-01) is niet van toepassing op vervoer van goederen, dat door een ondernemer voor eigen behoeften wordt verricht, mits
 
@@ -106,7 +128,7 @@ Onze Minister is bevoegd in bijzondere gevallen op verzoek van de ondernemer ont
 
 #### § 4. Slotbepaling
 
-#### Artikel 10
+##### Artikel 10
 
 De [Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBR0002419) en dit besluit treden in werking met ingang van 1 maart 1964.
 

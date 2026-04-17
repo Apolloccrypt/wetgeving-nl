@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Organisatie voor het Verbod van Chemische Wapens (OVCW) betreffende de zetel van de OVCW"
 identifier: "BWBV0001293"
-categorie: "Internationaal recht"
-publicatiedatum: 1997-06-07
-laatste_update: 1997-06-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001293"
+country: "nl"
+rank: "verdrag"
+publication_date: "1997-06-07"
+last_updated: "1997-06-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001293"
+soort: "verdrag"
+stam_id: "10000656723"
+version_id: "10000675022"
+internal_id: "C10009088291"
+label_id: "10000657134"
+dtd_version: "2.0"
+original_entry_into_force: "1997-06-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001293/1997-06-07/0"
+intitule_bron: "Trb.1997-114"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-06-06"
+intitule_published: "1997-06-05"
+intitule_in_force: "1997-07-04"
+intitule_status: "goed"
+original_publication: "Trb.1997-114"
+original_signed_date: "1997-06-06"
+original_published_date: "1997-06-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1997-114"
+entry_into_force_date: "1997-06-07"
+jci_1_3: "jci1.3:c:BWBV0001293&z=1997-06-07&g=1997-06-07"
+jci_1_0: "1.0:c:BWBV0001293&g=1997-06-07"
+citeertitel_status: "officieel"
+signed_date: "1997-06-06"
+entry_into_force: "1997-06-07"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Organisatie voor het Verbod van Chemische Wapens (OVCW) betreffende de zetel van de OVCW
 
 Het Koninkrijk der Nederlanden
@@ -28,7 +53,7 @@ Overwegende dat voor de vestiging van de zetel van de Organisatie voor het Verbo
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit Verdrag wordt verstaan onder:
 
@@ -74,7 +99,7 @@ In dit Verdrag wordt verstaan onder:
 
 - u. „Het Verdrag van Wenen”: het [Verdrag van Wenen inzake Diplomatiek Verkeer](onbekend) van 18 april 1961.
 
-#### Artikel 2. Rechtspersoonlijkheid
+##### Artikel 2. Rechtspersoonlijkheid
 
 De OVCW bezit volledige rechtspersoonlijkheid. Zij heeft met name de bevoegdheid:
 
@@ -84,13 +109,13 @@ De OVCW bezit volledige rechtspersoonlijkheid. Zij heeft met name de bevoegdheid
 
 - c. juridische procedures in te stellen en in rechte op te treden.
 
-#### Artikel 3. Vrijheid van vergadering
+##### Artikel 3. Vrijheid van vergadering
 
 1. De Regering erkent het recht van de OVCW naar eigen goeddunken vergaderingen te beleggen in haar zetel te 's-Gravenhage of, met instemming van de Regering of de door haar aangewezen bevoegde autoriteiten van het Koninkrijk der Nederlanden, elders in het Koninkrijk der Nederlanden.
 
 2. De Regering garandeert de OVCW volledige vrijheid van vergadering, van discussie en van besluitvorming. De Regering stelt alles in het werk om te waarborgen dat de voortgang van door de OVCW bijeengeroepen vergaderingen op geen enkele wijze wordt belemmerd.
 
-#### Artikel 4. Immuniteit van rechtsvervolging
+##### Artikel 4. Immuniteit van rechtsvervolging
 
 1. Binnen de reikwijdte van haar officiële activiteiten geniet de OVCW immuniteit van alle vormen van rechtsvervolging, behalve in geval van:
 
@@ -100,7 +125,7 @@ De OVCW bezit volledige rechtspersoonlijkheid. Zij heeft met name de bevoegdheid
 
 2. Onverminderd de bepalingen van het eerste lid van dit artikel zijn eigendommen en bezittingen, waar deze ook gelegen zijn en wie deze ook onder zich heeft, vrijgesteld van onderzoek, vordering, executie, inbeslagneming, alle vormen van beslaglegging, gerechtelijke bevelen of andere vormen van rechtsvervolging, behalve voorzover de OVCW uitdrukkelijk van haar immuniteit afstand heeft gedaan. Zulks echter met dien verstande dat afstand van immuniteit zich nooit zal uitstrekken tot executiemaatregelen.
 
-#### Artikel 5. Vrijstelling van bezittingen van andere maatregelen, onschendbaarheid van de archieven, monsters, apparatuur en ander materiaal
+##### Artikel 5. Vrijstelling van bezittingen van andere maatregelen, onschendbaarheid van de archieven, monsters, apparatuur en ander materiaal
 
 1. De eigendommen en bezittingen van de OVCW, waar deze ook gelegen zijn en wie deze ook onder zich heeft, zijn vrijgesteld van onderzoek, vordering, confiscatie, onteigening of iedere andere vorm van ingrijpen, ongeacht of het optreden van uitvoerende, administratieve, rechterlijke of wetgevende aard betreft.
 
@@ -108,11 +133,11 @@ De OVCW bezit volledige rechtspersoonlijkheid. Zij heeft met name de bevoegdheid
 
 3. De apparatuur en het overige voor de activiteiten van de OVCW benodigde materiaal zijn te allen tijde onschendbaar.
 
-#### Artikel 6. De zetel
+##### Artikel 6. De zetel
 
 De desbetreffende autoriteiten van het Koninkrijk der Nederlanden stellen al het nodige in het werk om te voorkomen dat de OVCW het bezit van de zetel of een gedeelte daarvan verliest.
 
-#### Artikel 7. Recht en gezag in de zetel
+##### Artikel 7. Recht en gezag in de zetel
 
 1. De Regering erkent de te allen tijde geldende onschendbaarheid van de zetel, dat onder het beheer en het gezag van de OVCW staat zoals bepaald in dit Verdrag.
 
@@ -128,7 +153,7 @@ De desbetreffende autoriteiten van het Koninkrijk der Nederlanden stellen al het
 
 7. De Directeur-Generaal voorkomt dat de zetel wordt gebruikt om personen in bescherming te nemen die arrestatie op grond van een wettelijke bepaling van het Koninkrijk der Nederlanden ontlopen, door de Regering worden gezocht voor uitlevering aan een ander land, of die pogen te ontsnappen aan de uitoefening van rechtsvervolging.
 
-#### Artikel 8. Bescherming van de zetel
+##### Artikel 8. Bescherming van de zetel
 
 1. De desbetreffende autoriteiten van het Koninkrijk der Nederlanden betrachten de nodige zorgvuldigheid om ervoor te zorgen dat de veiligheid en de rust van de zetel niet wordt verstoord door onbevoegde personen of groepen personen die de onmiddellijke omgeving van de zetel trachten te betreden, of hierin ordeverstoringen veroorzaken. Wanneer nodig bieden de desbetreffende autoriteiten voldoende politiebescherming aan de grenzen en in de omgeving van de zetel.
 
@@ -136,7 +161,7 @@ De desbetreffende autoriteiten van het Koninkrijk der Nederlanden stellen al het
 
 3. De desbetreffende autoriteiten van het Koninkrijk der Nederlanden treffen alle redelijke maatregelen om erop toe te zien dat het ongestoord gebruik van de zetel niet nadelig wordt beïnvloed en dat de zetel kan worden gebruikt voor de doeleinden waarvoor het is bestemd zonder hinder door de wijze van gebruik van de terreinen of gebouwen in de omgeving van de zetel. De OVCW treft alle redelijke maatregelen om erop toe te zien dat het ongestoord gebruik van de terreinen in de omgeving van de zetel niet nadelig wordt beïnvloed door de wijze van gebruik van de terreinen of gebouwen van de zetel.
 
-#### Artikel 9. Openbare voorzieningen ten behoeve van de zetel
+##### Artikel 9. Openbare voorzieningen ten behoeve van de zetel
 
 1. De desbetreffende autoriteiten van het Koninkrijk der Nederlanden wenden binnen hun bevoegdheden en voorzover de Directeur-Generaal daarom verzoekt, hun invloed aan om te waarborgen dat de zetel tegen gunstige en redelijke voorwaarden de beschikking krijgt over de nodige openbare voorzieningen, waaronder elektriciteit, water, riolering, gas, post, telefoon, telegraaf, alle nodige communicatiemiddelen, plaatselijk vervoer, afvoer, ophalen van vuilnis, brandbestrijding, en verwijdering van sneeuw van de openbare weg.
 
@@ -146,7 +171,7 @@ De desbetreffende autoriteiten van het Koninkrijk der Nederlanden stellen al het
 
 4. Wanneer de openbare voorzieningen bedoeld in het eerste lid van dit artikel worden geleverd of de prijzen daarvan worden bepaald door de desbetreffende autoriteiten van het Koninkrijk der Nederlanden, worden aan de OVCW tarieven in rekening gebracht die niet hoger zijn dan de laagste tarieven voor instellingen en organen van wezenlijk belang van de Regering.
 
-#### Artikel 10. Faciliteiten en immuniteiten met betrekking tot communicatie en publicaties
+##### Artikel 10. Faciliteiten en immuniteiten met betrekking tot communicatie en publicaties
 
 1. De Regering staat het de OVCW toe vrijelijk en zonder vereiste bijzondere toestemming te communiceren voor alle officiële doeleinden, en beschermt haar recht hiertoe. De OVCW heeft het recht codes te gebruiken en officiële correspondentie en andere officiële berichten te verzenden en te ontvangen per koerier of in verzegelde tassen, ten aanzien waarvan dezelfde voorrechten en immuniteiten gelden als voor diplomatieke koeriers en tassen.
 
@@ -158,7 +183,7 @@ De desbetreffende autoriteiten van het Koninkrijk der Nederlanden stellen al het
 
 5. Niets in het derde en vierde lid van dit artikel wordt zodanig uitgelegd als zou de OVCW worden vrijgesteld van de naleving van de wetten van het Koninkrijk der Nederlanden alsmede alle verdragen waarbij het Koninkrijk der Nederlanden partij is met betrekking tot auteursrechten.
 
-#### Artikel 11. Vrijstelling van de OVCW en haar eigendommen van belastingen en heffingen
+##### Artikel 11. Vrijstelling van de OVCW en haar eigendommen van belastingen en heffingen
 
 1. Binnen het kader van haar officiële taken worden de OVCW, haar bezittingen, inkomsten en andere eigendommen vrijgesteld van alle directe en indirecte belastingen die door de nationale, provinciale of plaatselijke overheid of andere overheden worden geheven.
 
@@ -186,7 +211,7 @@ De desbetreffende autoriteiten van het Koninkrijk der Nederlanden stellen al het
 
 5. De OVCW kan voor de verkoop van beperkte hoeveelheden van bepaalde voor persoonlijk gebruik of verbruik en niet voor schenking of verkoop bestemde artikelen een belastingvrije winkel instellen onder nader door Partijen overeen te komen voorwaarden. Van deze belastingvrije winkel kan gebruik worden gemaakt door functionarissen van de OVCW, behalve door functionarissen die Nederlands staatsburger zijn of permanent ingezetene zijn in het Koninkrijk der Nederlanden. Het gebruik van deze faciliteit kan eveneens toegestaan worden voor delegatieleiders, permanente vertegenwoordigers, plaatsvervangers en adviseurs van delegatieleiders, leden van de permanente vertegenwoordigingen en afgevaardigden van Staten die Partij zijn, die de diplomatieke status hebben.
 
-#### Artikel 12. Vrijheid van beperkingen ten aanzien van financiële bezittingen
+##### Artikel 12. Vrijheid van beperkingen ten aanzien van financiële bezittingen
 
 De OVCW is niet onderworpen aan financiële controles, regelingen, kennisgevingsvereisten met betrekking tot financiële transacties, of moratoria van enigerlei aard, en kan vrijelijk:
 
@@ -200,11 +225,11 @@ De OVCW is niet onderworpen aan financiële controles, regelingen, kennisgevings
 
 - e. fondsen werven op elke door haar wenselijk geachte wijze, met dien verstande dat de OVCW met betrekking tot de werving van fondsen binnen het Koninkrijk der Nederlanden toestemming van de Regering dient te verkrijgen.
 
-#### Artikel 13. Vrijstelling van invoer- en uitvoerbeperkingen
+##### Artikel 13. Vrijstelling van invoer- en uitvoerbeperkingen
 
 Door de OVCW voor officiële doeleinden ingevoerde of uitgevoerde goederen zijn vrijgesteld van alle door de Regering op invoer en uitvoer ingestelde verboden en beperkingen.
 
-#### Artikel 14. Doorreis en verblijf
+##### Artikel 14. Doorreis en verblijf
 
 1. De Regering neemt alle noodzakelijke maatregelen om de toegang en het verblijf op het grondgebied van het Koninkrijk der Nederlanden mogelijk te maken en te vergemakkelijken, werpt geen belemmeringen op voor het vertrek van het grondgebied van het Koninkrijk der Nederlanden van de hieronder genoemde personen van welke nationaliteit ook, waarborgt dat zij onbelemmerd kunnen doorreizen naar en van de zetel en biedt hen bij hun doorreis alle nodige bescherming:
 
@@ -230,11 +255,11 @@ Door de OVCW voor officiële doeleinden ingevoerde of uitgevoerde goederen zijn 
 
 7. De Directeur-Generaal en de desbetreffende autoriteiten van het Koninkrijk der Nederlanden plegen op verzoek van een van hen overleg over de wijze van vergemakkelijking van de binnenkomst in het Koninkrijk der Nederlanden door personen uit het buitenland die de zetel wensen te bezoeken en die niet de in dit artikel geregelde voorrechten genieten.
 
-#### Artikel 15. Permanente vertegenwoordigingen bij de OVCW
+##### Artikel 15. Permanente vertegenwoordigingen bij de OVCW
 
 De in het Koninkrijk der Nederlanden gevestigde permanente vertegenwoordigingen van de Staten die Partij zijn, met inbegrip van hun terreinen en gebouwen zoals omschreven in het Verdrag van Wenen, genieten dezelfde voorrechten en immuniteiten als die welke aan in Koninkrijk der Nederlanden gevestigde diplomatieke zendingen worden verleend overeenkomstig het Verdrag van Wenen.
 
-#### Artikel 16. Voorrechten en immuniteiten van delegatieleiders, permanente vertegenwoordigers bij de OVCW en van personeelsleden van permanente vertegenwoordigingen
+##### Artikel 16. Voorrechten en immuniteiten van delegatieleiders, permanente vertegenwoordigers bij de OVCW en van personeelsleden van permanente vertegenwoordigingen
 
 1. Alle delegatieleiders en permanente vertegenwoordigers genieten binnen het Koninkrijk der Nederlanden dezelfde voorrechten en immuniteiten als die welke door de Regering aan hoofden van bij het Koninkrijk der Nederlanden geaccrediteerde diplomatieke zendingen worden verleend overeenkomstig het Verdrag van Wenen.
 
@@ -242,7 +267,7 @@ De in het Koninkrijk der Nederlanden gevestigde permanente vertegenwoordigingen 
 
 3. De echtgenoten, kinderen en ten laste komende leden van het huishouden van de in dit artikel bedoelde personen genieten dezelfde voorrechten en immuniteiten als de echtgenoten, kinderen en ten laste komende leden van het huishouden van personen in diplomatieke zendingen met vergelijkbare rang, overeenkomstig het Verdrag van Wenen.
 
-#### Artikel 17. Voorrechten en immuniteiten van vertegenwoordigers en van plaatsvervangers en adviseurs van delegatieleiders
+##### Artikel 17. Voorrechten en immuniteiten van vertegenwoordigers en van plaatsvervangers en adviseurs van delegatieleiders
 
 1. Vertegenwoordigers van de Staten die Partij zijn en plaatsvervangers en adviseurs van de delegatieleiders genieten, onverminderd de andere voorrechten en immuniteiten die zij genieten bij de uitoefening van hun functies en gedurende hun reizen van en naar de zetel, binnen en ten aanzien van het Koninkrijk der Nederlanden de volgende voorrechten en immuniteiten:
 
@@ -266,7 +291,7 @@ De in het Koninkrijk der Nederlanden gevestigde permanente vertegenwoordigingen 
 
 3. Voorzover het vaststellen van enige vorm van belasting wordt gebaseerd op het ingezetenschap worden periodes, gedurende welke de in het eerste lid van dit artikel genoemde personen in het Koninkrijk der Nederlanden aanwezig zijn voor de uitoefening van hun functies, niet beschouwd als periodes van ingezetenschap. Deze personen zijn met name vrijgesteld van belastingen op hun salarissen en emolumenten gedurende deze periodes.
 
-#### Artikel 18. Voorrechten en immuniteiten van de Directeur-Generaal en andere functionarissen van de OVCW
+##### Artikel 18. Voorrechten en immuniteiten van de Directeur-Generaal en andere functionarissen van de OVCW
 
 1. Functionarissen van de OVCW genieten binnen en met betrekking tot het Koninkrijk der Nederlanden de volgende voorrechten en immuniteiten:
 
@@ -298,7 +323,7 @@ De in het Koninkrijk der Nederlanden gevestigde permanente vertegenwoordigingen 
 
 3. Functionarissen van de OVCW die Nederlands staatsburger zijn of permanent ingezetenen van het Koninkrijk der Nederlanden, genieten dezelfde voorrechten en immuniteiten, vrijstellingen en faciliteiten als die welke worden toegekend ingevolge dit Verdrag voorzover erkend door het internationale recht, met dien verstande dat artikel 22, eerste lid, en artikel 18, eerste lid, letter a, met betrekking tot hun officiële bagage, en artikel 18, eerste lid, letters b, c en e, van dit Verdrag altijd op hen van toepassing zijn.
 
-#### Artikel 19. Voorrechten en immuniteiten van deskundigen
+##### Artikel 19. Voorrechten en immuniteiten van deskundigen
 
 1. Deskundigen genieten binnen en ten aanzien van het Koninkrijk der Nederlanden de volgende voorrechten en immuniteiten voorzover nodig voor de doelmatige uitoefening van hun functie en gedurende hun reizen in verband met deze functies en gedurende hun aanwezigheid op de zetel:
 
@@ -320,11 +345,11 @@ De in het Koninkrijk der Nederlanden gevestigde permanente vertegenwoordigingen 
 
 3. Deskundigen die Nederlands staatsburger zijn of permanent ingezetene zijn in het Koninkrijk der Nederlanden genieten slechts de voorrechten, immuniteiten en faciliteiten die hun ingevolge het eerste lid, letter a, met betrekking tot hun officiële bagage, en ingevolge het eerste lid, letters b, c, d en g, worden verleend.
 
-#### Artikel 20. Vertegenwoordigers en functionarissen van Staten die geen Partij zijn bij het Verdrag
+##### Artikel 20. Vertegenwoordigers en functionarissen van Staten die geen Partij zijn bij het Verdrag
 
 De status van vertegenwoordigers en functionarissen van Staten die geen partij zijn bij het Verdrag en waarmee de OVCW in overeenstemming met het Verdrag overeenkomsten of regelingen heeft gesloten dan wel getroffen, en die officiële contacten met de OVCW hebben, wordt bepaald in de genoemde overeenkomsten en regelingen.
 
-#### Artikel 21. Kennisgeving
+##### Artikel 21. Kennisgeving
 
 1. De OVCW doet de Regering onmiddellijk kennisgeving van:
 
@@ -340,7 +365,7 @@ De status van vertegenwoordigers en functionarissen van Staten die geen partij z
 
 3. De Regering verstrekt identiteitskaarten met een foto van de houder aan de Directeur-Generaal, de Plaatsvervangend Directeuren-Generaal en aan andere functionarissen van de OVCW en hun gezinsleden die deel uitmaken van hun huishouden en aan huishoudelijk personeel van de in het eerste lid, letter b, van dit artikel genoemde personen. Deze identiteitskaart strekt tot bewijs van de identiteit van de houder tegenover alle autoriteiten van het Koninkrijk der Nederlanden.
 
-#### Artikel 22. Sociale zekerheid
+##### Artikel 22. Sociale zekerheid
 
 1. Voor zover er door de OVCW regelingen voor sociale zekerheid worden vastgesteld of uitgevoerd, worden de OVCW en de functionarissen op wie bedoelde regelingen van toepassing zijn, vrijgesteld van alle verplichte bijdragen aan organisaties van het Koninkrijk der Nederlanden voor sociale zekerheid. Hieruit volgt dat zij niet vallen onder de regelingen voor sociale zekerheid van het Koninkrijk der Nederlanden.
 
@@ -348,11 +373,11 @@ De status van vertegenwoordigers en functionarissen van Staten die geen partij z
 
 3. De bepalingen van het eerste lid van dit artikel zijn **mutatis mutandis** van toepassing op echtgenoten en de ten laste komende familieleden die deel uitmaken van het huishouden van personen bedoeld in het eerste lid van dit artikel, tenzij zij in het Koninkrijk der Nederlanden in dienst zijn bij een andere werkgever dan de OVCW, of uitkeringen ingevolge het Nederlandse stelsel van sociale zekerheid ontvangen.
 
-#### Artikel 23. Tewerkstelling
+##### Artikel 23. Tewerkstelling
 
 Aan echtgenoten en ten laste komende leden van de huishoudens van functionarissen van de OVCW worden tijdelijke werkvergunningen verleend voor de duur van de tewerkstelling van deze functionarissen bij de OVCW in het Koninkrijk der Nederlanden.
 
-#### Artikel 24. Aanvullende bepalingen met betrekking tot voorrechten en immuniteiten
+##### Artikel 24. Aanvullende bepalingen met betrekking tot voorrechten en immuniteiten
 
 1. De krachtens de bepalingen van dit Verdrag verleende voorrechten en immuniteiten worden verleend in het belang van de OVCW en niet tot persoonlijk voordeel van de betrokken1)Lees: betrokkene. zelf. Het is de plicht van de OVCW en alle personen die dergelijke voorrechten en immuniteiten genieten in alle overige opzichten de wetten en regelingen van het Koninkrijk der Nederlanden in acht te nemen.
 
@@ -366,11 +391,11 @@ Aan echtgenoten en ten laste komende leden van de huishoudens van functionarisse
 
 6. De Directeur-Generaal heeft het recht en de plicht afstand van de immuniteit van een functionaris van de OVCW te doen in gevallen waarin de immuniteit de rechtsgang zou belemmeren en deze afstand mogelijk is zonder nadelige invloed op de belangen van de OVCW. Met betrekking tot de Directeur-Generaal heeft de OVCW dezelfde rechten en plichten, die door de Uitvoerende Raad worden uitgeoefend dan wel vervuld.
 
-#### Artikel 25. Internationale aansprakelijkheid van het Koninkrijk der Nederlanden
+##### Artikel 25. Internationale aansprakelijkheid van het Koninkrijk der Nederlanden
 
 Het feit dat de zetel zich bevindt op het grondgebied van het Koninkrijk der Nederlanden brengt geen internationale aansprakelijkheid van het Koninkrijk der Nederlanden met zich mee voor een handeling of nalatigheid van de OVCW of haar functionarissen die een handeling verrichten of nalaten te verrichten in de uitoefening van hun functie, behoudens de aansprakelijkheid die het Koninkrijk der Nederlanden zou hebben op dezelfde grondslag als andere Staten die Partij zijn.
 
-#### Artikel 26. Beslechting van geschillen
+##### Artikel 26. Beslechting van geschillen
 
 1. De OVCW stelt nadere bepalingen vast ten behoeve van een geschikte wijze van beslechting van:
 
@@ -388,17 +413,17 @@ Het feit dat de zetel zich bevindt op het grondgebied van het Koninkrijk der Ned
 
 6. Het tribunaal komt tot een uitspraak met meerderheid van stemmen. Een uitspraak van het tribunaal is onherroepelijk en bindend voor de partijen bij het geschil.
 
-#### Artikel 27. Werking van dit Verdrag
+##### Artikel 27. Werking van dit Verdrag
 
 1. Dit Verdrag wordt uitgelegd tegen de achtergrond van zijn voornaamste doelstelling om de OVCW in haar zetel in het Koninkrijk der Nederlanden in staat te stellen zich volledig en doelmatig van haar verantwoordelijkheden te kwijten en haar doelstellingen te verwezenlijken.
 
 2. Waar dit Verdrag verplichtingen oplegt aan de desbetreffende autoriteiten van het Koninkrijk der Nederlanden, ligt de uiteindelijke verantwoordelijkheid voor de vervulling van deze verplichtingen bij de Regering.
 
-#### Artikel 28. Beëindiging van dit Verdrag
+##### Artikel 28. Beëindiging van dit Verdrag
 
 Dit Verdrag wordt beëindigd door wederzijdse instemming hiermee van de OVCW en de Regering.
 
-#### Artikel 29. Wijzigingen
+##### Artikel 29. Wijzigingen
 
 1. Dit Verdrag kan te allen tijde worden gewijzigd.
 
@@ -406,21 +431,21 @@ Dit Verdrag wordt beëindigd door wederzijdse instemming hiermee van de OVCW en 
 
 3. Op verzoek van een van de Partijen wordt door de OVCW en de Regering overleg gepleegd met betrekking tot de wijziging van dit Verdrag.
 
-#### Artikel 30. De status van de Afzonderlijke Regeling
+##### Artikel 30. De status van de Afzonderlijke Regeling
 
 De gelijktijdig met dit Verdrag gesloten Afzonderlijke Regeling is een integrerend onderdeel van dit Verdrag. Iedere verwijzing naar dit Verdrag omvat mede de Afzonderlijke Regeling.
 
-#### Artikel 31. Inwerkingtreding
+##### Artikel 31. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking daags nadat beide Partijen elkaar er schriftelijk van in kennis hebben gesteld dat aan de wettelijke vereisten voor de inwerkingtreding is voldaan.
 
 2. Ten aanzien van het Koninkrijk der Nederlanden is dit Verdrag alleen van toepassing op het Koninkrijk in Europa.
 
-#### 1. Artikel 11, tweede lid, letter c: „aanzienlijke uitgaven"
+##### 1. Artikel 11, tweede lid, letter c: „aanzienlijke uitgaven"
 
 Voor het doel van de vrijstelling van BTW op voor de officiële activiteiten van de OVCW benodigde goederen en diensten die aanzienlijke uitgaven met zich meebrengen wordt onder „aanzienlijke uitgaven" overeenkomstig de bestaande bepalingen verstaan een bedrag boven de drempel van Hfl. 500 per factuur.
 
-#### 2. Artikel 11, vierde lid: „de met de Regering overeengekomen voorwaarden”
+##### 2. Artikel 11, vierde lid: „de met de Regering overeengekomen voorwaarden”
 
 De Regering maakt bij deze de voorwaarden bekend waaronder de verworven of ingevoerde goederen als bedoeld in artikel 11, vierde lid, kunnen worden verkocht, weggegeven of op andere wijze kunnen worden vervreemd.
 
@@ -440,7 +465,7 @@ e. Overeengekomen wordt dat de OVCW ook het recht heeft om op elk moment zonder 
 
 f. De OVCW brengt de Regering op de hoogte van de vervreemding van onder vrijstelling gekochte goederen. De procedure voor de kennisgeving aan de Regering is zodanig dat de administratieve last zo klein mogelijk is.
 
-#### 3. Functionarissen van de OVCW
+##### 3. Functionarissen van de OVCW
 
 a. Onverminderd het bepaalde in artikel 18 van het Zetelverdrag worden functionarissen van de OVCW die geen Nederlands staatsburger of permanent ingezetene van het Koninkrijk der Nederlanden zijn, voor zover het de heffing van Nederlandse inkomstenbelasting betreft, alleen belast over het in Nederland buiten het kader van de functie bij de OVCW verdiende binnenlands inkomen in de zin van de artikelen 48 en 49 van de Wet op de Inkomstenbelasting 1964. Ten aanzien van de vermogensbelasting wordt alleen binnenlands vermogen in de zin van artikel 12 en 13 van de Wet op de Vermogensbelasting 1964 belast. In dit opzicht worden de betrokken functionarissen hetzelfde behandeld als leden van diplomatieke zendingen.
 
@@ -454,7 +479,7 @@ e. Functionarissen van de OVCW genieten overeenkomstig de geldende regelingen on
 
 f. Wanneer de regelingen betreffende diplomatiek personeel of internationale functionarissen die worden geacht dezelfde status te hebben als functionarissen van de OVCW worden gewijzigd, worden de op functionarissen van de OVCW toepasselijke regelingen eveneens gewijzigd.
 
-#### 4. Aanvullende bepaling
+##### 4. Aanvullende bepaling
 
 a. Indien en voor zover de Regering in de toekomst met een intergouvernementele organisatie een verdrag aangaat waarin voorwaarden zijn vervat die voor die organisatie gunstiger zijn dan de vergelijkbare voorwaarden van dit Verdrag, kent de Regering deze gunstigere voorwaarden ook toe aan de OVCW of aan een ieder die krachtens dit Verdrag recht heeft op voorrechten en immuniteiten.
 

@@ -1,13 +1,36 @@
 ---
-title: "Besluit beperking openbaarheid archief Hoofdingenieur-directeur Landinrichting, Grond- en Bosbeheer Noord-Brabant Ministerie Landbouw, Natuur en Voedselkwaliteit, (1947) 1972–1983 (1992) Inventaris 1716"
+title: "Besluit beperking openbaarheid met betrekking het archief van de Hoofdingenieur-directeur voor de Landinrichting, Grond- en Bosbeheer in Noord-Brabant van het Ministerie Landbouw, Natuur en Voedselkwaliteit, (1947) 1972–1983 (1992) Inventaris 1716"
 identifier: "BWBR0045295"
-categorie: "Milieu"
-publicatiedatum: 2021-06-29
-laatste_update: 2021-06-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045295"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-06-29"
+last_updated: "2021-06-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045295"
+soort: "ministeriele-regeling"
+stam_id: "15998523"
+version_id: "27844182"
+internal_id: "C39270561"
+label_id: "15932294"
+dtd_version: "2.0"
+original_entry_into_force: "2021-06-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045295/2021-06-29/0"
+intitule_bron: "Stcrt.2021-33455"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2021-06-28"
+intitule_in_force: "2021-06-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-33455"
+original_published_date: "2021-06-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-33455"
+entry_into_force_date: "2021-06-29"
+jci_1_3: "jci1.3:c:BWBR0045295&z=2021-06-29&g=2021-06-29"
+jci_1_0: "1.0:c:BWBR0045295&g=2021-06-29"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archief Hoofdingenieur-directeur Landinrichting, Grond- en Bosbeheer Noord-Brabant Ministerie Landbouw, Natuur en Voedselkwaliteit, (1947) 1972–1983 (1992) Inventaris 1716"
+entry_into_force: "2021-06-29"
 ---
-
 # Besluit beperking openbaarheid met betrekking het archief van de Hoofdingenieur-directeur voor de Landinrichting, Grond- en Bosbeheer in Noord-Brabant van het Ministerie Landbouw, Natuur en Voedselkwaliteit, (1947) 1972–1983 (1992) Inventaris 1716
 
 Gelet op [artikel 15, eerste lid, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
@@ -16,7 +39,7 @@ Gezien het advies van het algemene rijksarchivaris van 20 februari 2020 met kenm
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar genoemd in de tweede kolom.
 
@@ -29,18 +52,18 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer genoemd in de eer
 | 32 | 1-1-2027 |
 | 35 | 1-1-2027 |
 
-#### Artikel 2
+##### Artikel 2
 
 De beperkingen gesteld aan de openbaarheid van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045295&artikel=1&z=2021-06-29&g=2021-06-29), vervallen op het moment dat een verzoeker ten genoegen van de rijksarchivaris in de provincie Noord-Brabant heeft aangetoond dat de persoon op wie dat inventarisnummer betrekking heeft, is overleden.
 
-#### Artikel 3
+##### Artikel 3
 
 Raadpleging van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045295&artikel=1&z=2021-06-29&g=2021-06-29), is tot openbaarwording slechts mogelijk na voorafgaande schriftelijke toestemming van de rijksarchivaris provincie Noord Brabant. De rijksarchivaris van de provincie Noord-Brabant kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Het vervaardigen van reproducties van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045295&artikel=1&z=2021-06-29&g=2021-06-29) is tot openbaarwording slechts mogelijk met toestemming van de rijksarchivaris van de provincie Noord-Brabant. Deze kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt overeenkomstig [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) als bijlage gevoegd bij de Verklaring van Overbrenging van het archief van de Hoofdingenieur-directeur voor de Landinrichting, Grond- en Bosbeheer in Noord-Brabant van het Ministerie Landbouw, Natuur en Voedselkwaliteit, (1947) 1972–1983 (1992)

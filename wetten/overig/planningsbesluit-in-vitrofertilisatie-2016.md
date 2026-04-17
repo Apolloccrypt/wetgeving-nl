@@ -1,52 +1,78 @@
 ---
-title: "Planningsbesluit in-vitrofertilisatie 2016"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 27 juni 2016, kenmerk 926933-146877-CZ, houdende vaststelling van regels ten aanzien van in-vitrofertilisatie (Planningsbesluit in-vitrofertilisatie 2016)"
 identifier: "BWBR0038113"
-categorie: "Overig"
-publicatiedatum: 2024-06-05
-laatste_update: 2024-06-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038113"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-05"
+last_updated: "2024-06-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038113"
+soort: "ministeriele-regeling"
+stam_id: "13661433"
+version_id: "23393372"
+internal_id: "C33717771"
+label_id: "13628104"
+dtd_version: "2.0"
+original_entry_into_force: "2016-06-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038113/2024-06-05/0"
+intitule_bron: "Stcrt.2016-33598"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-06-27"
+intitule_published: "2016-06-28"
+intitule_in_force: "2016-06-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-33598"
+original_signed_date: "2016-06-27"
+original_published_date: "2016-06-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-33598"
+entry_into_force_date: "2016-06-29"
+jci_1_3: "jci1.3:c:BWBR0038113&z=2024-06-05&g=2024-06-05"
+jci_1_0: "1.0:c:BWBR0038113&g=2024-06-05"
+citeertitel_status: "officieel"
+short_title: "Planningsbesluit in-vitrofertilisatie 2016"
+signed_date: "2016-06-27"
+entry_into_force: "2016-06-29"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 27 juni 2016, kenmerk 926933-146877-CZ, houdende vaststelling van regels ten aanzien van in-vitrofertilisatie (Planningsbesluit in-vitrofertilisatie 2016)
 
 Gelet op de [artikelen 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=5) en [6, eerste, tweede en vierde lid, van de Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=6);
 
 Besluit:
 
-#### Artikel 1. Definitie
+##### Artikel 1. Definitie
 
 In deze regeling wordt verstaan onder in-vitrofertilisatie: het tot stand brengen van menselijke embryo’s buiten het lichaam.
 
-#### Artikel 2. Behoefteraming
+##### Artikel 2. Behoefteraming
 
 De omvang van de behoefte aan in-vitrofertilisatie en de wijze waarop in deze behoefte kan worden voorzien, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=1&z=2024-06-05&g=2024-06-05).
 
-#### Artikel 3. Voorwaarden
+##### Artikel 3. Voorwaarden
 
 De voorwaarden die gesteld worden aan een vergunningaanvraag zijn neergelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=2&z=2024-06-05&g=2024-06-05).
 
-#### Artikel 4. Verleningprocedure
+##### Artikel 4. Verleningprocedure
 
 De vergunningverleningprocedure is neergelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=2&z=2024-06-05&g=2024-06-05).
 
-#### Artikel 5. Voorschriften
+##### Artikel 5. Voorschriften
 
 De voorschriften behorend bij een vergunning voor in-vitrofertilisatie zijn neergelegd in de beleidsregels in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=3&z=2024-06-05&g=2024-06-05).
 
-#### Artikel 6. Overgangsrecht
+##### Artikel 6. Overgangsrecht
 
 Vergunningen die op het moment van inwerkingtreding van deze regeling geldig zijn voor het uitvoeren van in-vitrofertilisatie, worden gelijkgesteld met vergunningen, verleend ingevolge deze regeling.
 
-#### Artikel 7. Intrekking
+##### Artikel 7. Intrekking
 
 Het [Planningsbesluit in-vitrofertilisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0009523) wordt ingetrokken.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Planningsbesluit in-vitrofertilisatie 2016.
 

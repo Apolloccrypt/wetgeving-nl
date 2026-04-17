@@ -1,13 +1,35 @@
 ---
 title: "Richtlijn voor strafvordering Artikelen 30 en 34 Wet aansprakelijkheidsverzekering motorrijtuigen (WAM)"
 identifier: "BWBR0050968"
-categorie: "Strafrecht"
-publicatiedatum: 2025-05-01
-laatste_update: 2025-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050968"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-05-01"
+last_updated: "2025-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050968"
+soort: "beleidsregel"
+stam_id: "17412593"
+version_id: "30701642"
+internal_id: "C44008721"
+label_id: "17315904"
+dtd_version: "2.0"
+original_entry_into_force: "2025-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050968/2025-05-01/0"
+intitule_bron: "Stcrt.2025-13762"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-04-22"
+intitule_in_force: "2025-04-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-13762"
+original_published_date: "2025-04-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-13762"
+entry_into_force_date: "2025-05-01"
+jci_1_3: "jci1.3:c:BWBR0050968&z=2025-05-01&g=2025-05-01"
+jci_1_0: "1.0:c:BWBR0050968&g=2025-05-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-05-01"
 ---
-
 # Richtlijn voor strafvordering Artikelen 30 en 34 Wet aansprakelijkheidsverzekering motorrijtuigen (WAM)
 
 ### 1. Samenvatting

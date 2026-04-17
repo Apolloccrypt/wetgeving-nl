@@ -1,18 +1,43 @@
 ---
 title: "Besluit radio-elektrische inrichtingen BES"
 identifier: "BWBR0028621"
-categorie: "Overig"
-publicatiedatum: 2022-05-13
-laatste_update: 2022-05-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028621"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2022-05-13"
+last_updated: "2022-05-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028621"
+soort: "AMvB-BES"
+stam_id: "10902683"
+version_id: "17886582"
+internal_id: "C24829711"
+label_id: "10878404"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028621/2022-05-13/0"
+intitule_bron: "Stb.2010-455"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-15"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-455"
+original_signed_date: "2010-09-15"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-455"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028621&z=2022-05-13&g=2022-05-13"
+jci_1_0: "1.0:c:BWBR0028621&g=2022-05-13"
+citeertitel_status: "officieel"
+signed_date: "2010-09-15"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit radio-elektrische inrichtingen BES
 
 ### Hoofdstuk 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -62,19 +87,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - 2°. ten aanzien van ontvanginrichtingen: een bewijsstuk als bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=7&paragraaf=2&artikel=69&z=2022-05-13&g=2022-05-13).
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust op de [artikelen 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=13), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=31) en [33 van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=33).
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van artikel 14 van de wet en het bij of krachtens dit besluit ten aanzien van zendinrichtingen bepaalde zijn met zendinrichtingen gelijkgesteld radiofrequent vermogensversterkers die geschikt zijn voor gebruik te zamen met zendinrichtingen alsmede andere elektrische of elektronische inrichtingen die geschikt zijn om het radiofrequent signaal van zendinrichtingen te wijzigen.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien door middel van zendinrichtingen communicatie met het grondgebied van een andere mogendheid wenselijk is, dient door beide betrokken landen toestemming te zijn verleend om deze communicatie te voeren.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit is van overeenkomstige toepassing op de aanleg, het aanwezig hebben, het gebruiken of exploiteren van radio-elektrische zend- en ontvanginrichtingen door houder van een concessie als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=2), met dien verstande dat overeenkomstig [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=15) de houder van een concessie geen machtiging behoeft.
 
@@ -82,17 +107,17 @@ Dit besluit is van overeenkomstige toepassing op de aanleg, het aanwezig hebben,
 
 #### § 1. Gelding machtiging
 
-#### Artikel 5
+##### Artikel 5
 
 Een machtiging geldt voor de aanleg, het aanwezig hebben of het gebruik dan wel de exploitatie, tenzij in dit besluit dan wel bij de verlening van de machtiging anders is bepaald.
 
 #### § 2. Aanvraag
 
-#### Artikel 6
+##### Artikel 6
 
 Een aanvraag om verlening, wijziging of intrekking van een machtiging voor een zendinrichting of een ontvanginrichting dan wel van een ontheffing dient te geschieden op een door Onze Minister te bepalen wijze.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De aanvraag om verlening of wijziging van een machtiging dan wel ontheffing bevat tenminste de volgende gegevens:
 
@@ -114,23 +139,23 @@ Een aanvraag om verlening, wijziging of intrekking van een machtiging voor een z
 
 3. De aanvrager verschaft voorts de gegevens en bescheiden die voor de beoordeling van de aanvraag nodig zijn en waarover hij redelijkerwijs de beschikking kan krijgen.
 
-#### Artikel 8
+##### Artikel 8
 
 De aanvrager kan weigeren gegevens en bescheiden te verschaffen op grond dat het belang daarvan voor de beslissing van Onze Minister niet opweegt tegen het belang van de eerbiediging van de persoonlijke levenssfeer of tegen het belang van de bescherming van bedrijfsgegevens.
 
-#### Artikel 9
+##### Artikel 9
 
 Indien een aanvraag niet is ingediend op de wijze bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-05-13&g=2022-05-13) voorgeschreven of indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of voor de voorbereiding van de beschikking, verzoekt Onze Minister de aanvrager de aanvraag aan te vullen binnen een bij het verzoek te stellen termijn.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien Onze Minister voornemens is een aanvraag om een machtiging dan wel ontheffing geheel of gedeeltelijk te weigeren op grond van gegevens over feiten en belangen die de aanvrager betreffen en die niet in overeenstemming zijn met gegevens die de aanvrager ter zake zelf heeft versterkt, wordt de aanvrager gedurende een te stellen termijn in de gelegenheid gesteld zijn zienswijze daarover naar voren te brengen.
 
-#### Artikel 11
+##### Artikel 11
 
 Onze Minister stelt de machtiginghouder en de houder van de ontheffing in kennis van de aanvraag van een derde belanghebbende tot wijziging of intrekking van de machtiging of ontheffing en biedt hem gedurende een te stellen termijn de gelegenheid zijn zienswijze daarover naar voren te brengen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Op een aanvraag als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-05-13&g=2022-05-13) wordt door Onze Minister beslist binnen drie maanden na ontvangst van de aanvraag.
 
@@ -144,19 +169,19 @@ Onze Minister stelt de machtiginghouder en de houder van de ontheffing in kennis
 
 #### § 3. Ingebruikneming
 
-#### Artikel 13
+##### Artikel 13
 
 Indien de houder van de verleende machtiging deze niet binnen een periode van twaalf maanden gebruikt, trekt Onze Minister deze in behoudens ingeval zulks naar het oordeel van Onze Minister als onredelijk is aan te merken. In dat geval bepaalt Onze Minister een termijn waarbinnen de machtiging alsnog gebruikt dient te worden. Geschiedt zulks niet binnen die termijn dan trekt Onze Minister de machtiging in.
 
 #### § 4. Vergoedingen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
 #### § 5. Algemene verplichtingen
 
-#### Artikel 15
+##### Artikel 15
 
 1. Bij elke zend- of ontvanginrichting waarvoor ingevolge dit besluit een machtiging is vereist, dient de beschikking of een namens Onze Minister gewaarmerkt afschrift daarvan aanwezig te zijn.
 
@@ -164,13 +189,13 @@ Vervallen
 
 3. Alle aan de machtiginghouder terzake van diens machtiging verstrekte bescheiden blijven eigendom van de Staat der Nederlanden.
 
-#### Artikel 16
+##### Artikel 16
 
 Het is de machtiginghouder verboden de zend- of ontvanginrichting te gebruiken voor een ander doel dan waarvoor de machtiging is verleend.
 
 #### § 6. Registratie
 
-#### Artikel 17
+##### Artikel 17
 
 1. Onze Minister houdt een register van alle verleende machtigingen. Daarin worden in ieder geval vermeld:
 
@@ -186,7 +211,7 @@ Het is de machtiginghouder verboden de zend- of ontvanginrichting te gebruiken v
 
 #### § 1. Technische eisen
 
-#### Artikel 18
+##### Artikel 18
 
 1. Onze Minister stelt per categorie zendinrichtingen technische eisen vast waaraan zendinrichtingen voor gebruik in het etherverkeer dienen te voldoen.
 
@@ -206,7 +231,7 @@ Het is de machtiginghouder verboden de zend- of ontvanginrichting te gebruiken v
 
 #### § 2. Erkenning van testinstellingen
 
-#### Artikel 19
+##### Artikel 19
 
 1. Ten behoeve van het testen van zendinrichtingen op conformiteit aan de technische eisen kan Onze Minister testinstellingen erkennen.
 
@@ -220,13 +245,13 @@ Het is de machtiginghouder verboden de zend- of ontvanginrichting te gebruiken v
 
 4. Een erkenning of intrekking daarvan wordt in de Staatscourant bekend gemaakt.
 
-#### Artikel 20
+##### Artikel 20
 
 Een aanvraag om erkenning als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=1&artikel=18&z=2022-05-13&g=2022-05-13), wordt schriftelijk ingediend bij Onze Minister met gebruikmaking van een bij Onze Minister verkrijgbaar formulier.
 
 #### § 3. Verklaring van conformiteit
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien een krachtens [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=2&artikel=19&z=2022-05-13&g=2022-05-13), erkende testinstelling, een zendinrichting ten behoeve van de toelating heeft getest op conformiteit met de daarvoor gestelde technische eisen en op basis van de resultaten van die test tot de bevinding is gekomen dat die zendinrichting voldoet aan de gestelde eisen, geeft de testinstelling ten bewijze daarvan een verklaring van conformiteit af.
 
@@ -252,7 +277,7 @@ Een aanvraag om erkenning als bedoeld in [artikel 18, eerste lid](https://wetten
 
 #### § 4. Toelating van zendinrichtingen
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het is verboden een zendinrichting die niet door Onze Minister is toegelaten te installeren, aanwezig te hebben of te gebruiken.
 
@@ -262,7 +287,7 @@ Een aanvraag om erkenning als bedoeld in [artikel 18, eerste lid](https://wetten
 
 4. Het eerste tot en met derde lid is niet van toepassing op zendinrichtingen die met het oog op het gebruik voor een periode van ten hoogste drie maanden worden ingevoerd als deel van de persoonlijke bezittingen van de gebruiker.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De verlening van de toelating geschiedt door afgifte van een verklaring van toelating waarin verder in elk geval zijn opgenomen:
 
@@ -278,7 +303,7 @@ Een aanvraag om erkenning als bedoeld in [artikel 18, eerste lid](https://wetten
 
 4. De afgegeven verklaringen van toelating worden vanwege Onze Minister geregistreerd volgens door Onze Minister te stellen regels.
 
-#### Artikel 24
+##### Artikel 24
 
 Een verklaring van toelating mag slechts worden geweigerd:
 
@@ -288,7 +313,7 @@ Een verklaring van toelating mag slechts worden geweigerd:
 
 - c. ten aanzien van zendinrichtingen bestemd voor gebruik als randapparatuur, indien daarvoor een verklaring van toelating als bedoeld in artikel 8, derde lid, van het Besluit randapparatuur BES wordt geweigerd.
 
-#### Artikel 25
+##### Artikel 25
 
 Een verklaring van toelating mag slechts worden ingetrokken indien is gebleken dat het type zendinrichting waarvoor een verklaring van toelating is afgegeven:
 
@@ -298,17 +323,17 @@ Een verklaring van toelating mag slechts worden ingetrokken indien is gebleken d
 
 #### § 5. Storingen en behandeling van storingsklachten
 
-#### Artikel 26
+##### Artikel 26
 
 Toewijzing van radiofrequenties voor zendinrichtingen als bedoeld in de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=4&z=2022-05-13&g=2022-05-13) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=5&z=2022-05-13&g=2022-05-13) geeft geen aanspraak op een exclusief en storingvrij gebruik daarvan.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Bij de aanleg, het aanwezig hebben en het gebruik van een zendinrichting mag geen storing of belemmering worden veroorzaakt in andere zendinrichtingen, ontvanginrichtingen en overige elektrische of elektronische inrichtingen.
 
 2. Het bepaalde in het eerste lid is niet van toepassing indien de inrichting welke storing of belemmering ondervindt niet voldoet hetzij aan bij of krachtens de wet dan wel bij of krachtens enige andere wet ter zake gestelde technische eisen hetzij aan door Onze Minister te stellen redelijke technische eisen.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De door Onze Minister ingevolge [artikel 33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=33) te geven aanwijzingen tot het voorkomen en opheffen van storingen en belemmeringen kunnen betreffen:
 
@@ -320,13 +345,13 @@ Toewijzing van radiofrequenties voor zendinrichtingen als bedoeld in de [hoofdst
 
 3. Aan de in het eerste lid, onderdeel a, bedoelde verplichting dient door de houder te worden voldaan binnen zes weken nadat de aanwijzing is gegeven.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien een krachtens [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=5&artikel=28&z=2022-05-13&g=2022-05-13), gegeven aanwijzing tot het treffen van voorzieningen aan een inrichting niet binnen zes weken is opgevolgd, kan een toezichthoudende ambtenaar deze voorzieningen treffen of doen treffen, doch slechts na voorafgaande schriftelijke waarschuwing.
 
 2. De bij een krachtens [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=5&artikel=28&z=2022-05-13&g=2022-05-13), gegeven aanwijzing opgelegde verplichting om het gebruik van een zendinrichting te staken, wordt opgeheven nadat een toezichthoudende ambtenaar heeft vastgesteld, dat de in die aanwijzing bevolen voorzieningen zijn getroffen dan wel geen storing of belemmering meer wordt veroorzaakt.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Klachten over storingen of belemmeringen door zendinrichtingen in andere zendinrichtingen, ontvanginrichtingen of overige elektrische of elektronische inrichtingen worden behandeld overeenkomstig door Onze Minister te stellen regels.
 
@@ -340,11 +365,11 @@ Toewijzing van radiofrequenties voor zendinrichtingen als bedoeld in de [hoofdst
 
 #### § 6. Verboden voor ondernemers terzake van zendinrichtingen
 
-#### Artikel 31
+##### Artikel 31
 
 Het is een ondernemer verboden zendinrichtingen die krachtens [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=1&artikel=18&z=2022-05-13&g=2022-05-13), dienen te voldoen aan door Onze Minister gestelde technische eisen, op het grondgebied van een openbaar lichaam af te leveren, te verhuren of op andere wijze ter beschikking te stellen, indien deze zendinrichtingen niet voldoen aan de gestelde technische eisen.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Het is verboden op het grondgebied van een openbaar lichaam handelsreclame te maken of te doen maken voor zendinrichtingen die niet zijn toegelaten.
 
@@ -354,7 +379,7 @@ Het is een ondernemer verboden zendinrichtingen die krachtens [artikel 18, eerst
 
 #### § 1. Machtiging
 
-#### Artikel 33
+##### Artikel 33
 
 1. Onze Minister wijst aan de hand van het doel waarvoor zendinrichtingen mogen worden gebruikt categorieën zendinrichtingen aan, waarvoor een machtiging is vereist.
 
@@ -374,7 +399,7 @@ Het is een ondernemer verboden zendinrichtingen die krachtens [artikel 18, eerst
 
 - g. dat een ondernemer als zodanig is ingeschreven in het handelsregister van de Kamer van Koophandel en Fabrieken BES.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Een machtiging wordt verleend voor ten hoogste tien jaren.
 
@@ -414,11 +439,11 @@ Het is een ondernemer verboden zendinrichtingen die krachtens [artikel 18, eerst
 
 4. De machtiging voor een zendinrichting die is toegelaten, kan worden ingetrokken indien de mechanische, elektrische of elektronische uitvoering van die zendinrichting niet overeenstemt met het model of type waarvoor de verklaring van toelating is afgegeven.
 
-#### Artikel 35
+##### Artikel 35
 
 Onverminderd het bepaalde in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=4&paragraaf=1&artikel=34&z=2022-05-13&g=2022-05-13), kunnen aan een machtiging voor de aanleg of voor het aanwezig hebben mede voorschriften worden verbonden inzake de na verkoop of tijdens verhuur te verlenen nazorg.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Onze Minister kan bepalen dat een ondernemer aan wie machtiging voor het aanwezig hebben van zendinrichtingen is verleend, verplicht is een register te houden van de door hem vervaardigde, ontvangen en afgeleverde inrichtingen van door Onze Minister aangegeven klassen.
 
@@ -438,13 +463,13 @@ Onverminderd het bepaalde in [artikel 34, tweede lid](https://wetten.overheid.nl
 
 4. De gegevens, welke in het register zijn opgenomen, dienen tenminste drie jaar te worden bewaard.
 
-#### Artikel 37
+##### Artikel 37
 
 Een ondernemer aan wie machtiging voor het aanwezig hebben is verleend, mag de door Onze Minister aan te wijzen klassen van zendinrichtingen uitsluitend op een niet voor het publiek toegankelijke plaats aanwezig hebben. Onze Minister kan ter zake nadere regels stellen.
 
 #### § 2. Technische keuring
 
-#### Artikel 38
+##### Artikel 38
 
 1. Een zendinrichting mag niet in bedrijf worden genomen alvorens deze door of namens Onze Minister is goedgekeurd. De verlening van de goedkeuring geschiedt door afgifte van een bewijs van goedkeuring waarin in elk geval zijn opgenomen:
 
@@ -480,13 +505,13 @@ Een ondernemer aan wie machtiging voor het aanwezig hebben is verleend, mag de d
 
 #### § 3. Verzegeling
 
-#### Artikel 39
+##### Artikel 39
 
 Indien de zendinrichting niet langer voldoet aan de technische eisen gesteld krachtens [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=1&artikel=18&z=2022-05-13&g=2022-05-13), kan een toezichthoudende ambtenaar de zendinrichting verzegelen totdat de machtiginghouder deze weer in overeenstemming heeft gebracht met evenbedoelde technische eisen. De kosten van de verzegeling komen ten laste van de machtiginghouder.
 
 #### § 4. Roepletters
 
-#### Artikel 40
+##### Artikel 40
 
 1. In het belang van het interinsulaire en internationale telecommunicatieverkeer geeft Onze Minister bij het verlenen van de machtiging met het oog op de identificatie van een zendinrichting roepletters uit. Hieraan kunnen door Onze Minister kosten worden verbonden.
 
@@ -494,7 +519,7 @@ Indien de zendinrichting niet langer voldoet aan de technische eisen gesteld kra
 
 #### § 5. Installeren van zendinrichtingen
 
-#### Artikel 41
+##### Artikel 41
 
 1. Degene die zendinrichtingen installeert dan wel diegene die onmiddellijke leiding geeft aan de uitoefening van een bedrijf voor het installeren van zendinrichtingen dient in het bezit te zijn van:
 
@@ -506,7 +531,7 @@ Indien de zendinrichting niet langer voldoet aan de technische eisen gesteld kra
 
 2. Onze Minister kan met een diploma als bedoeld in het eerste lid gelijkstellen het diploma van een opleiding van een ander land, indien dat diploma ten aanzien van eisen van vakbekwaamheid voor het installeren van zendinrichtingen naar diens oordeel gelijkwaardig is aan een diploma als bedoeld in het eerste lid.
 
-#### Artikel 42
+##### Artikel 42
 
 1. De erkenning van een vakopleiding als bedoeld in [artikel 41, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=4&paragraaf=5&artikel=41&z=2022-05-13&g=2022-05-13), geschiedt op aanvraag van een door Onze Minister als representatief erkende beroeps- of bedrijfsorganisatie, werkzaam of mede werkzaam op het gebied van het installeren van zendinrichtingen.
 
@@ -520,7 +545,7 @@ Indien de zendinrichting niet langer voldoet aan de technische eisen gesteld kra
 
 #### § 6. Waarschuwing, zendverbod, administratieve boete en intrekking van machtiging
 
-#### Artikel 43
+##### Artikel 43
 
 1. Tot toepassing van de [artikelen 15, achtste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=15), en [33, tweede lid, onderdelen a en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=33), wordt ten aanzien van de zendinrichtingen als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=4&z=2022-05-13&g=2022-05-13) van dit besluit slechts overgegaan nadat de machtiginghouder aan een terzake gegeven schriftelijke waarschuwing geen gevolg heeft gegeven dan wel geen gebruik heeft gemaakt van de hem gedurende een periode van ten minste drie weken geboden gelegenheid om alsnog aan de bij of krachtens de wet gestelde regels dan wel aan de voorschriften of beperkingen die zijn verbonden aan de machtiging, te voldoen.
 
@@ -530,27 +555,27 @@ Indien de zendinrichting niet langer voldoet aan de technische eisen gesteld kra
 
 #### § 7. Vrijstelling van een machtiging
 
-#### Artikel 44
+##### Artikel 44
 
 1. Onze Minister kan bepalen dat niet-ingezetenen van een openbaar lichaam die tijdelijk op het grondgebied van een openbaar lichaam verblijven met inachtneming van door hem te stellen regels gedurende ten hoogste één jaar zijn vrijgesteld van een machtiging voor daarbij aan te geven categorieën van zendinrichtingen, voor zover deze personen bevoegd zijn in het land van herkomst deze zendinrichtingen aan te leggen, aanwezig te hebben en te gebruiken.
 
 2. De vrijstelling van een machtiging, bedoeld in het eerste lid, kan worden beperkt tot de aanleg en het aanwezig hebben van bedoelde zendinrichtingen.
 
-#### Artikel 45
+##### Artikel 45
 
 Onze Minister kan overheidsinstanties die belast zijn met de uitvoering van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=15), met inachtneming van door hem te stellen regels, vrijstelling van een machtiging voor zendinrichtingen verlenen.
 
-#### Artikel 46
+##### Artikel 46
 
 De ondernemer is vrijgesteld van een machtiging voor zendinrichtingen van een toegelaten type welke behoren tot de door Onze Minister ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=5&artikel=48&z=2022-05-13&g=2022-05-13) aangewezen categorieën vrijetijdstoepassingen en welke uitsluitend kunnen worden gebruikt op de daarvoor aangewezen frequenties.
 
-#### Artikel 47
+##### Artikel 47
 
 Degenen die het vervoer van goederen als beroep of bedrijf uitoefent is ten behoeve van het vervoer vrijgesteld van een machtiging bij de wet vereist voor het aanwezig hebben van zendinrichtingen, voorzover deze deugdelijk zijn verpakt en de naam, het adres en de woonplaats van de afzender en geadresseerde daarbij zijn vermeld.
 
 ### Hoofdstuk 5. Zendinrichtingen waarvoor geen machtiging is vereist
 
-#### Artikel 48
+##### Artikel 48
 
 1. Geen machtiging is vereist voor door Onze Minister aan te wijzen categorieën zendinrichtingen welke door de aard van de toepassing alsmede de technische constructie geen of vrijwel geen storing of belemmering kunnen veroorzaken in zendinrichtingen, ontvanginrichtingen en overige elektrische of elektronische inrichtingen.
 
@@ -558,7 +583,7 @@ Degenen die het vervoer van goederen als beroep of bedrijf uitoefent is ten beho
 
 3. Voor de aanwijzing van frequenties als bedoeld in het tweede lid alsmede met het oog op de controle op de naleving van de aldaar bedoelde regels, kan Onze Minister een vergoeding vragen van de gebruikers. Deze wordt geheven door tussenkomst van de leverancier van de in dit artikel bedoelde zendinrichtingen.
 
-#### Artikel 49
+##### Artikel 49
 
 In afwijking van het bepaalde in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=5&artikel=48&z=2022-05-13&g=2022-05-13) is voor de krachtens dat artikel aangewezen zendinrichtingen een machtiging vereist indien de mechanische, elektrische of elektronische uitvoering van deze zendinrichtingen niet of niet meer in overeenstemming is met het model of het type waarvoor een verklaring van toelating is afgegeven.
 
@@ -566,13 +591,13 @@ In afwijking van het bepaalde in [artikel 48](https://wetten.overheid.nl/jci1.3:
 
 #### § 1. Verbod van gebruik van informatie
 
-#### Artikel 50
+##### Artikel 50
 
 Ter bescherming van de rechten van derden is het een ieder verboden van niet of niet mede voor hem bestemde informatie, opgevangen door middel van een ontvanginrichting, aantekening te houden of deze op enige wijze te gebruiken dan wel de inhoud, de strekking of het bestaan ervan bekend te maken of te laten worden, behoudens ingeval de veiligheid van het Koninkrijk, of een openbaar lichaam of de openbare orde in een van de openbare lichamen in het geding is dan wel een vermoeden bestaat van een strafbaar feit of een voornemen daartoe.
 
 #### § 2. Technische eisen
 
-#### Artikel 51
+##### Artikel 51
 
 1. Onze Minister kan technische eisen stellen waaraan ontvanginrichtingen voor gebruik in het etherverkeer dienen te voldoen.
 
@@ -592,7 +617,7 @@ Ter bescherming van de rechten van derden is het een ieder verboden van niet of 
 
 #### § 3. Erkenning van testinstellingen
 
-#### Artikel 52
+##### Artikel 52
 
 1. Ten behoeve van het testen van ontvanginrichtingen op conformiteit aan de technische eisen kan Onze Minister testinstellingen erkennen.
 
@@ -606,13 +631,13 @@ Ter bescherming van de rechten van derden is het een ieder verboden van niet of 
 
 4. Een erkenning of intrekking daarvan wordt in de Staatscourant bekend gemaakt.
 
-#### Artikel 53
+##### Artikel 53
 
 Een aanvraag om erkenning als bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=6&paragraaf=3&artikel=52&z=2022-05-13&g=2022-05-13), wordt schriftelijk ingediend bij Onze Minister met gebruikmaking van een bij Onze Minister verkrijgbaar formulier.
 
 #### § 4. Verklaring van conformiteit
 
-#### Artikel 54
+##### Artikel 54
 
 1. Indien een krachtens [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=6&paragraaf=3&artikel=52&z=2022-05-13&g=2022-05-13), erkende testinstelling, een ontvanginrichting ten behoeve van de toelating heeft getest op conformiteit met de daarvoor gestelde technische eisen en op basis van de resultaten van die test tot de bevinding is gekomen dat die ontvanginrichting voldoet aan de gestelde eisen, geeft de testinstelling ten bewijze daarvan een verklaring van conformiteit af.
 
@@ -638,7 +663,7 @@ Een aanvraag om erkenning als bedoeld in [artikel 52, eerste lid](https://wetten
 
 #### § 5. De toelating van ontvanginrichtingen
 
-#### Artikel 55
+##### Artikel 55
 
 1. Het is verboden een ontvanginrichting die niet door Onze Minister is toegelaten te installeren.
 
@@ -646,7 +671,7 @@ Een aanvraag om erkenning als bedoeld in [artikel 52, eerste lid](https://wetten
 
 3. Gelijktijdig met de indiening van de aanvraag om toelating van de ontvanginrichtingen moet daarbij als bijlage worden overgelegd de overeenkomstig [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=6&paragraaf=4&artikel=54&z=2022-05-13&g=2022-05-13), afgegeven verklaring van conformiteit met bijbehorende bijlagen voor die zendinrichtingen. De aanvraag en de bijbehorende stukken zijn in de Nederlandse of de Engelse taal gesteld.
 
-#### Artikel 56
+##### Artikel 56
 
 1. De verlening van de toelating geschiedt door afgifte van een verklaring van toelating waarin verder in elk geval zijn opgenomen:
 
@@ -662,7 +687,7 @@ Een aanvraag om erkenning als bedoeld in [artikel 52, eerste lid](https://wetten
 
 4. De afgegeven verklaringen van toelating worden vanwege Onze Minister geregistreerd volgens door Onze Minister te stellen regels.
 
-#### Artikel 57
+##### Artikel 57
 
 Een verklaring van toelating mag slechts worden geweigerd:
 
@@ -672,7 +697,7 @@ Een verklaring van toelating mag slechts worden geweigerd:
 
 - c. ten aanzien van ontvanginrichtingen bestemd voor gebruik als randapparatuur, indien daarvoor een verklaring van toelating als bedoeld in [artikel 8, eerste lid, van het Besluit randapparatuur BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=8) wordt geweigerd.
 
-#### Artikel 58
+##### Artikel 58
 
 Een verklaring van toelating mag slechts worden ingetrokken indien is gebleken dat het type ontvanginrichting waarvoor een verklaring van toelating is afgegeven:
 
@@ -682,35 +707,35 @@ Een verklaring van toelating mag slechts worden ingetrokken indien is gebleken d
 
 #### § 6. Verbod voor ondernemers terzake van verhandelen van ontvanginrichtingen
 
-#### Artikel 59
+##### Artikel 59
 
 Het is de ondernemer verboden ontvanginrichtingen die krachtens [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=6&paragraaf=2&artikel=51&z=2022-05-13&g=2022-05-13) dienen te voldoen aan door Onze Minister gestelde technische eisen, op het grondgebied van een openbaar lichaam af te leveren, te verhuren of op andere wijze ter beschikking te stellen, indien deze ontvanginrichtingen niet voldoen aan de gestelde technische eisen.
 
 #### § 7. Storingen en behandeling van storingsklachten
 
-#### Artikel 60
+##### Artikel 60
 
 De houder kan geen aanspraak maken op een storingvrije ontvangst van ethersignalen.
 
-#### Artikel 61
+##### Artikel 61
 
 1. Bij de aanleg, het aanwezig hebben en het gebruik van een ontvanginrichting mag geen storing of belemmering worden veroorzaakt in andere ontvanginrichtingen, zendinrichtingen en overige elektrische of elektronische inrichtingen.
 
 2. Het bepaalde in het eerste lid is niet van toepassing indien de inrichting welke storing en belemmering ondervindt, niet voldoet hetzij aan bij of krachtens de wet dan wel bij of krachtens enige andere wet ter zake gestelde technische eisen hetzij aan door Onze Minister te stellen redelijke technische eisen.
 
-#### Artikel 62
+##### Artikel 62
 
 1. De door Onze Minister ingevolge [artikel 33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=33) te geven aanwijzingen tot het voorkomen en opheffen van storingen en belemmeringen kunnen betreffen de verplichting voor de houder om binnen zes weken nadat de aanwijzing is gegeven de nodige voorzieningen te treffen aan de ontvanginrichting. Deze aanwijzingen worden schriftelijk gegeven maar kunnen in afwijking daarvan in dringende gevallen door een toezichthoudende ambtenaar mondeling worden gegeven in welk geval zij binnen drie weken schriftelijk dienen te worden bevestigd.
 
 2. Indien een krachtens het eerste lid gegeven aanwijzing tot het treffen van voorzieningen aan een inrichting niet binnen zes weken zijn opgevolgd, kan een toezichthoudende ambtenaar deze voorzieningen, na voorafgaande schriftelijke waarschuwing, treffen of doen treffen.
 
-#### Artikel 63
+##### Artikel 63
 
 Ten aanzien van de behandeling van klachten over storingen of belemmeringen door ontvanginrichtingen is het bepaalde in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=5&artikel=30&z=2022-05-13&g=2022-05-13) van overeenkomstige toepassing.
 
 #### § 8. Verzegeling
 
-#### Artikel 64
+##### Artikel 64
 
 Indien een ontvanginrichting niet langer voldoet aan de technische eisen gesteld krachtens [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=6&paragraaf=2&artikel=51&z=2022-05-13&g=2022-05-13), kan een toezichthoudende ambtenaar de ontvanginrichting verzegelen totdat de machtiginghouder deze weer in overeenstemming heeft gebracht met evenbedoelde technische eisen. De kosten van de verzegeling komen ten laste van de machtiginghouder.
 
@@ -718,27 +743,27 @@ Indien een ontvanginrichting niet langer voldoet aan de technische eisen gesteld
 
 #### § 1. Machtiging
 
-#### Artikel 65
+##### Artikel 65
 
 1. Een machtiging van Onze Minister is vereist voor de aanleg, het aanwezig hebben, het gebruik of de exploitatie van ontvanginrichtingen die bestemd zijn voor de ontvangst van niet voor het publiek bestemde, door middel van satellieten uitgezonden, gegevens.
 
 2. Het bepaalde in het eerste lid is niet van toepassing op ontvanginrichtingen uitsluitend bestemd voor de ontvangst van gegevens afkomstig van zendinrichtingen voor het doen van onderzoekingen.
 
-#### Artikel 66
+##### Artikel 66
 
 Een machtiging van Onze Minister is vereist voor ontvanginrichtingen die andere gegevens dan omroepprogramma’s, welke door middel van technische voorzieningen zijn beschermd, kunnen ontvangen en zodanig kunnen omzetten dat deze gegevens van de bescherming ontdaan, beschikbaar komen.
 
-#### Artikel 67
+##### Artikel 67
 
 Onze Minister kan categorieën van ontvanginrichtingen aanwijzen waarvoor een machtiging als bedoeld in de [artikelen 65](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=7&paragraaf=1&artikel=65&z=2022-05-13&g=2022-05-13) en [66](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=7&paragraaf=1&artikel=66&z=2022-05-13&g=2022-05-13) niet vereist is.
 
-#### Artikel 68
+##### Artikel 68
 
 Het bepaalde in de [artikelen 33 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=4&paragraaf=1&artikel=33&z=2022-05-13&g=2022-05-13) is van overeenkomstige toepassing ten aanzien van ontvanginrichtingen waarvoor bij dit besluit een machtiging is vereist.
 
 #### § 2. Technische keuring
 
-#### Artikel 69
+##### Artikel 69
 
 1. Een ontvanginrichting als bedoeld in dit hoofdstuk mag niet in bedrijf worden genomen alvorens deze door of namens Onze Minister is goedgekeurd. De verlening van de goedkeuring geschiedt door afgifte van een bewijs van goedkeuring waarin in elk geval zijn opgenomen:
 
@@ -766,7 +791,7 @@ Het bepaalde in de [artikelen 33 tot en met 37](https://wetten.overheid.nl/jci1.
 
 #### § 3. Waarschuwing en administratieve boete, intrekking van de machtiging
 
-#### Artikel 70
+##### Artikel 70
 
 1. Tot toepassing van de [artikelen 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=15), en [33, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=33), wordt ten aanzien van ontvanginrichtingen als bedoeld in dit hoofdstuk slechts overgegaan nadat de machtiginghouder aan een terzake gegeven schriftelijke waarschuwing geen gevolg heeft gegeven dan wel geen gebruik heeft gemaakt van de hem gedurende een periode van ten minste drie weken geboden gelegenheid om alsnog aan de regels, voorschriften te voldoen.
 
@@ -774,13 +799,13 @@ Het bepaalde in de [artikelen 33 tot en met 37](https://wetten.overheid.nl/jci1.
 
 #### § 4. Vrijstelling van een machtiging
 
-#### Artikel 71
+##### Artikel 71
 
 Degene die het vervoer van goederen als beroep of bedrijf uitoefent is ten behoeve van het vervoer vrijgesteld van een machtiging bij dit besluit vereist voor ontvanginrichtingen, voorzover deze deugdelijk zijn verpakt en de naam, het adres en de woonplaats van de afzender en de geadresseerde daarbij zijn vermeld.
 
 ### Hoofdstuk 8. Strafbepalingen
 
-#### Artikel 72
+##### Artikel 72
 
 Het is een strafbaar feit als bedoeld in [artikel 35, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=35) om:
 
@@ -794,26 +819,26 @@ Het is een strafbaar feit als bedoeld in [artikel 35, vierde lid, van de wet](ht
 
 ### Hoofdstuk 10. Overgangs- en slotbepalingen
 
-#### Artikel 73
+##### Artikel 73
 
 Verklaringen van conformiteit die voor het tijdstip van inwerkingtreding van dit besluit zijn afgegeven voor zend- of ontvanginrichtingen worden aangemerkt als een verklaring van conformiteit als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=3&artikel=21&z=2022-05-13&g=2022-05-13), onderscheidenlijk [54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=6&paragraaf=4&artikel=54&z=2022-05-13&g=2022-05-13).
 
-#### Artikel 74
+##### Artikel 74
 
 Zendinrichtingen en ontvanginrichtingen die behoren tot een model of een type, die zijn toegelaten vóór het tijdstip van het in werking treden van dit besluit worden aangemerkt als inrichtingen die zijn toegelaten ingevolge [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=4&artikel=22&z=2022-05-13&g=2022-05-13), onderscheidenlijk [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=6&paragraaf=5&artikel=55&z=2022-05-13&g=2022-05-13). In een zodanig geval wordt de vóór het tijdstip van inwerkingtreding van dit besluit verstrekte verklaring van toelating aangemerkt als een verklaring van toelating, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=4&artikel=23&z=2022-05-13&g=2022-05-13), onderscheidenlijk [56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=6&paragraaf=5&artikel=56&z=2022-05-13&g=2022-05-13).
 
-#### Artikel 75
+##### Artikel 75
 
 Bewijzen van goedkeuring die voor het tijdstip van inwerkingtreding van dit besluit zijn afgegeven voor zend- of ontvanginrichtingen worden aangemerkt als een bewijs van goedkeuring als bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=4&paragraaf=2&artikel=38&z=2022-05-13&g=2022-05-13), onderscheidenlijk [69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=7&paragraaf=2&artikel=69&z=2022-05-13&g=2022-05-13).
 
-#### Artikel 76
+##### Artikel 76
 
 Technische eisen vastgesteld krachtens de artikelen 18, eerste lid, en 51, eerste lid, van het Landsbesluit radio- elektrische zendinrichtingen alsmede technische eisen van vóór 1 januari 1996 als bedoeld in artikel 72 van het Landsbesluit radio-elektrische inrichtingen, voor zover laatst bedoelde eisen niet zijn vervangen door technische eisen ingevolge de artikelen 18, eerste lid, of 51, eerste lid, van het Landsbesluit radio-elektrische zendinrichtingen, blijven gelden tot het tijdstip waarop Onze Minister krachtens de [artikelen 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=1&artikel=18&z=2022-05-13&g=2022-05-13), of [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=6&paragraaf=2&artikel=51&z=2022-05-13&g=2022-05-13), nieuwe technische eisen heeft vastgesteld.
 
-#### Artikel 77
+##### Artikel 77
 
 Een erkenning die is verleend krachtens de artikelen 19, eerste lid, of 52, eerste lid, van het Landsbesluit radio-elektrische inrichtingen wordt gelijkgesteld met een erkenning verleend krachtens [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=3&paragraaf=2&artikel=19&z=2022-05-13&g=2022-05-13), onderscheidenlijk [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&hoofdstuk=6&paragraaf=3&artikel=52&z=2022-05-13&g=2022-05-13).
 
-#### Artikel 78
+##### Artikel 78
 
 Dit besluit wordt aangehaald als: Besluit radio-elektrische inrichtingen BES.

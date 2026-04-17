@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Warenwet, enz. ( opneming mogelijkheid om een last onder bestuursdwang op te leggen)"
+title: "Wet van 2 oktober 2008 tot wijziging van de Warenwet in verband met de opneming van de mogelijkheid om een last onder bestuursdwang op te leggen en enkele andere wijzigingen"
 identifier: "BWBR0024669"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-11-17
-laatste_update: 2018-11-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024669"
+country: "nl"
+rank: "wet"
+publication_date: "2018-11-17"
+last_updated: "2018-11-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024669"
+soort: "wet"
+stam_id: "9760853"
+version_id: "15825462"
+internal_id: "C21643621"
+label_id: "9737654"
+dtd_version: "2.0"
+original_entry_into_force: "2008-11-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024669/2018-11-17/0"
+intitule_bron: "Stb.2008-431"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-10-02"
+intitule_published: "2008-11-11"
+intitule_in_force: "2008-11-11"
+intitule_status: "goed"
+original_publication: "Stb.2008-431"
+original_signed_date: "2008-10-02"
+original_published_date: "2008-11-11"
+original_effect: "nieuwe-regeling"
+original_dossier: "31262"
+original_url_id: "stb-2008-431"
+entry_into_force_date: "2008-11-12"
+entry_into_force_dossier: "31262"
+jci_1_3: "jci1.3:c:BWBR0024669&z=2018-11-17&g=2018-11-17"
+jci_1_0: "1.0:c:BWBR0024669&g=2018-11-17"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Warenwet, enz. ( opneming mogelijkheid om een last onder bestuursdwang op te leggen)"
+signed_date: "2008-10-02"
+entry_into_force: "2008-11-12"
 ---
-
-# Wijzigingswet Warenwet, enz. ( opneming mogelijkheid om een last onder bestuursdwang op te leggen)
+# Wet van 2 oktober 2008 tot wijziging van de Warenwet in verband met de opneming van de mogelijkheid om een last onder bestuursdwang op te leggen en enkele andere wijzigingen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,31 +44,31 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is in het belang van de
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Warenwet.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel III
+##### Artikel III
 
 Vervallen
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Warenwet en de Aanpassingswet vierde tranche Awb (Kst. 31124).
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Vierde tranche Algemene wet bestuursrecht (Kst. 29702).
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt deze wet.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

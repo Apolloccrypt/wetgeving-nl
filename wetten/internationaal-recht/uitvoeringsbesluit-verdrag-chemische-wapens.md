@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit verdrag chemische wapens"
+title: "Besluit van 23 december 1996, houdende regels ter uitvoering van hoofdstuk 2 van de Uitvoeringswet verdrag chemische wapens (Uitvoeringsbesluit verdrag chemische wapens)"
 identifier: "BWBR0008467"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-07-01
-laatste_update: 2011-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008467"
+country: "nl"
+rank: "amvb"
+publication_date: "2011-07-01"
+last_updated: "2011-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008467"
+soort: "AMvB"
+stam_id: "227433"
+version_id: "315042"
+internal_id: "C315041"
+label_id: "223364"
+dtd_version: "2.0"
+original_entry_into_force: "1997-04-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008467/2011-07-01/0"
+intitule_bron: "Stb.1997-15"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-12-23"
+intitule_published: "1997-01-21"
+intitule_in_force: "1997-04-29"
+intitule_status: "goed"
+original_publication: "Stb.1997-15"
+original_signed_date: "1996-12-23"
+original_published_date: "1997-01-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1997-15"
+entry_into_force_date: "1997-04-30"
+jci_1_3: "jci1.3:c:BWBR0008467&z=2011-07-01&g=2011-07-01"
+jci_1_0: "1.0:c:BWBR0008467&g=2011-07-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit verdrag chemische wapens"
+signed_date: "1996-12-23"
+entry_into_force: "1997-04-30"
 ---
-
 # Besluit van 23 december 1996, houdende regels ter uitvoering van hoofdstuk 2 van de Uitvoeringswet verdrag chemische wapens (Uitvoeringsbesluit verdrag chemische wapens)
 
 Op de voordracht van de Staatssecretaris van Economische Zaken van 22 oktober 1996, nr. 96064710 WJA/W;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### HOOFDSTUK 1. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### HOOFDSTUK 2. AANWIJZING VAN STOFFEN
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als stoffen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008467&hoofdstuk=3&artikel=3&z=2011-07-01&g=2011-07-01), van de wet worden aangewezen de stoffen, opgenomen in lijst 1.
 
@@ -56,7 +82,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### HOOFDSTUK 3. AANWIJZING VAN TE VERSTREKKEN GEGEVENS
 
-#### Artikel 3. (lijst-1-stoffen)
+##### Artikel 3. (lijst-1-stoffen)
 
 1. Degene die een inrichting in bedrijf neemt waarop [artikel 3, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008467&hoofdstuk=3&artikel=3&z=2011-07-01&g=2011-07-01), van de wet van toepassing is, verstrekt tenminste zeven maanden voor de productie aanvangt aan Onze Minister de volgende gegevens:
 
@@ -100,7 +126,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Het tweede en derde lid gelden niet, indien de betrokken, in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008467&hoofdstuk=3&artikel=3&z=2011-07-01&g=2011-07-01), bedoelde inrichting een ziekenhuis betreft.
 
-#### Artikel 4. (lijst-1-stoffen)
+##### Artikel 4. (lijst-1-stoffen)
 
 1. Degene aan wie een ontheffing als bedoeld in [artikel 3, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008467&hoofdstuk=3&artikel=3&z=2011-07-01&g=2011-07-01), van de wet is verleend verstrekt tenminste zeven maanden voor de ingebruikneming van de betrokken inrichting aan Onze Minister de volgende gegevens:
 
@@ -144,7 +170,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. informatie over verwachte veranderingen in de inrichting gedurende het jaar ten opzichte van eerder verstrekte gedetailleerde technische beschrijvingen van de inrichting.
 
-#### Artikel 5. (lijst-1-stoffen)
+##### Artikel 5. (lijst-1-stoffen)
 
 Degene aan wie een ontheffing als bedoeld in [artikel 3, vierde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=3) is verleend, verstrekt jaarlijks voor 1 maart aan Onze Minister een opgave van de verrichte overdrachten van stoffen van lijst 1 gedurende het voorafgaande kalenderjaar. Van elke overgedragen stof worden daarbij vermeld:
 
@@ -152,7 +178,7 @@ Degene aan wie een ontheffing als bedoeld in [artikel 3, vierde lid, onder b, va
 
 - b. de hoeveelheid die is verkregen uit of overgedragen naar een andere staat die partij is bij het verdrag, waarbij per overdracht de hoeveelheid, de ontvanger en het doel worden vermeld.
 
-#### Artikel 6. (lijst-2-stoffen)
+##### Artikel 6. (lijst-2-stoffen)
 
 1. Degene die een inrichting als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008467&hoofdstuk=3&artikel=5&z=2011-07-01&g=2011-07-01), van de wet in bedrijf houdt waarin in een van de drie voorafgaande kalenderjaren of in het komende kalenderjaar naar verwachting meer wordt geproduceerd, verwerkt of verbruikt dan:
 
@@ -208,7 +234,7 @@ verstrekt aan Onze Minister met betrekking tot de desbetreffende activiteiten in
 
 5. Dit artikel is niet van toepassing met betrekking tot mengsels met een laag gehalte aan stoffen van lijst 2. Onder «laag gehalte» wordt verstaan een gewichtspercentage van het betrokken mengsel van minder dan 10, ingeval het de productie van een mengsel betreft, en van minder dan 30 in andere gevallen.
 
-#### Artikel 7. (lijst-3-stoffen)
+##### Artikel 7. (lijst-3-stoffen)
 
 1. Degene die een inrichting als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008467&hoofdstuk=3&artikel=5&z=2011-07-01&g=2011-07-01), van de wet in bedrijf houdt waarin in het voorafgaande kalenderjaar of in het komende kalenderjaar naar verwachting meer wordt geproduceerd dan 30 000 kg van een stof van lijst 3, verstrekt aan Onze Minister met betrekking tot de desbetreffende activiteiten in het verleden jaarlijks voor 1 maart, respectievelijk met betrekking tot verwachte activiteiten jaarlijks voor 1 september de gegevens overeenkomstig het tweede lid. Elke activiteit die extra wordt verwacht na het verstrekken van de jaaropgave dient uiterlijk twee weken voordat die activiteit begint te worden opgegeven.
 
@@ -240,7 +266,7 @@ verstrekt aan Onze Minister met betrekking tot de desbetreffende activiteiten in
 
 5. Dit artikel is niet van toepassing met betrekking tot mengsels met een laag gehalte aan stoffen van lijst 3. De tweede zin van artikel 6, vijfde lid, is van toepassing.
 
-#### Artikel 8. (onderscheiden organische stoffen)
+##### Artikel 8. (onderscheiden organische stoffen)
 
 1. Degene die een inrichting als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008467&hoofdstuk=3&artikel=6&z=2011-07-01&g=2011-07-01) van de wet in bedrijf houdt, waarin in het voorgaande kalenderjaar;
 
@@ -264,7 +290,7 @@ verstrekt aan Onze Minister met betrekking tot de desbetreffende activiteiten in
 
 ### HOOFDSTUK 4. ONTHEFFINGEN
 
-#### Artikel 9. (lijst-1-stoffen)
+##### Artikel 9. (lijst-1-stoffen)
 
 1. Een aanvraag om een ontheffing als bedoeld in [artikel 3, vierde lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=3) wordt ten minste zeven maanden voor de aanvang van de voorgenomen handeling ingediend.
 
@@ -298,7 +324,7 @@ verstrekt aan Onze Minister met betrekking tot de desbetreffende activiteiten in
 
 ### HOOFDSTUK 5. OVERGANGS- EN SLOTBEPALINGEN
 
-#### Artikel 10. (lijst-1-stoffen)
+##### Artikel 10. (lijst-1-stoffen)
 
 1. Degene die op het tijdstip van inwerkingtreding van dit besluit een inrichting als bedoeld in [artikel 3, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008467&hoofdstuk=3&artikel=3&z=2011-07-01&g=2011-07-01), van de wet, in bedrijf houdt, verstrekt binnen twee weken na dat tijdstip aan Onze Minister de volgende gegevens:
 
@@ -312,7 +338,7 @@ verstrekt aan Onze Minister met betrekking tot de desbetreffende activiteiten in
 
 4. De[artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008467&hoofdstuk=3&artikel=4&z=2011-07-01&g=2011-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008467&hoofdstuk=3&artikel=5&z=2011-07-01&g=2011-07-01) gelden niet zolang niet op de aanvraag om een ontheffing als in het tweede of derde lid bedoeld is beslist.
 
-#### Artikel 11. (lijst-2-stoffen)
+##### Artikel 11. (lijst-2-stoffen)
 
 1. Degene die op het tijdstip van inwerkingtreding van dit besluit een inrichting als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008467&hoofdstuk=3&artikel=5&z=2011-07-01&g=2011-07-01), van de wet in bedrijf houdt waarin in een van de drie voorafgaande kalenderjaren meer is, of in het komende kalenderjaar naar verwachting meer wordt geproduceerd, bewerkt, verwerkt of verbruikt aan stoffen van lijst 2 dan:
 
@@ -366,19 +392,19 @@ verstrekt aan Onze Minister met betrekking tot de desbetreffende activiteiten in
 
 5. Dit artikel is niet van toepassing met betrekking tot mengsels met een laag gehalte aan stoffen van lijst 2. De tweede zin van artikel 6, vijfde lid, is van toepassing.
 
-#### Artikel 11a
+##### Artikel 11a
 
 Vervallen
 
-#### Artikel 11b
+##### Artikel 11b
 
 Vervallen
 
-#### Artikel 11c
+##### Artikel 11c
 
 Vervallen
 
-#### Artikel 12. (lijst-2-stoffen voor chemische wapens)
+##### Artikel 12. (lijst-2-stoffen voor chemische wapens)
 
 Degene die op het tijdstip van inwerkingtreding van dit besluit een inrichting als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008467&hoofdstuk=3&artikel=5&z=2011-07-01&g=2011-07-01), van de wet in bedrijf houdt of heeft gehouden in de in dat artikel genoemde periode, waar stoffen van lijst 2 zijn geproduceerd met het oog op de ontwikkeling van chemische wapens, verstrekt binnen twee weken na de inwerkingtreding van dit besluit de volgende gegevens:
 
@@ -408,7 +434,7 @@ Degene die op het tijdstip van inwerkingtreding van dit besluit een inrichting a
 
 - 3°. de plaats waar de stof is afgeleverd en de aard van het geproduceerde eindproduct, indien bekend.
 
-#### Artikel 13. (lijst-3-stoffen)
+##### Artikel 13. (lijst-3-stoffen)
 
 1. Degene die op het tijdstip van inwerkingtreding van dit besluit een inrichting als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008467&hoofdstuk=3&artikel=5&z=2011-07-01&g=2011-07-01), van de wet in bedrijf houdt waarin in het voorafgaande kalenderjaar of in het komende kalenderjaar naar verwachting meer wordt geproduceerd dan 30 000 kg van een stof van lijst 3, verstrekt aan Onze Minister met betrekking tot de desbetreffende activiteiten in het verleden, binnen twee weken na de inwerkingtreding van dit besluit, de gegevens overeenkomstig het tweede en derde lid.
 
@@ -440,7 +466,7 @@ Degene die op het tijdstip van inwerkingtreding van dit besluit een inrichting a
 
 5. Dit artikel is niet van toepassing met betrekking tot mengsels met een laag gehalte aan stoffen van lijst 3. De tweede zin van artikel 6, vijfde lid, is van toepassing.
 
-#### Artikel 14. (lijst-3-stoffen voor chemische wapens)
+##### Artikel 14. (lijst-3-stoffen voor chemische wapens)
 
 Degene die op het tijdstip van inwerkingtreding van dit besluit een inrichting als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008467&hoofdstuk=3&artikel=5&z=2011-07-01&g=2011-07-01), van de wet in bedrijf houdt of heeft gehouden in de in dat artikel genoemde periode, waar stoffen van lijst 3 zijn geproduceerd met het oog op de ontwikkeling van chemische wapens, verstrekt binnen twee weken na de inwerkingtreding van dit besluit de volgende gegevens:
 
@@ -464,7 +490,7 @@ Degene die op het tijdstip van inwerkingtreding van dit besluit een inrichting a
 
 - 3°. de plaats waar de stof is afgeleverd en de aard van het geproduceerde eindproduct, indien bekend.
 
-#### Artikel 15. (onderscheiden organische stoffen)
+##### Artikel 15. (onderscheiden organische stoffen)
 
 1. Degene die op het tijdstip van inwerkingtreding van dit besluit een inrichting als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008467&hoofdstuk=3&artikel=6&z=2011-07-01&g=2011-07-01) van de wet in bedrijf houdt, waarin in het aan dat tijdstip voorafgaande kalenderjaar:
 
@@ -486,15 +512,15 @@ Degene die op het tijdstip van inwerkingtreding van dit besluit een inrichting a
 
 4. Dit artikel is niet van toepassing met betrekking tot een inrichting die uitsluitend explosieven of koolwaterstoffen heeft geproduceerd.
 
-#### Artikel 16
+##### Artikel 16
 
 Opgaven van gegevens en aanvragen om ontheffing als bedoeld in dit besluit worden gericht aan Onze Minister en worden ingediend bij de Belastingdienst/Douane centrale dienst voor in- en uitvoer te Groningen.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit verdrag chemische wapens.
 

@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel compensatie vervroegde beëindiging pelsdierhouderij"
+title: "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 1 februari 2021, nr. WJZ/20288990, tot vaststelling van beleidsregels voor de beoordeling van aanvragen om een vergoeding op grond van artikel 8 van de Wet verbod pelsdierhouderij"
 identifier: "BWBR0044778"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-05-12
-laatste_update: 2021-05-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044778"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2021-05-12"
+last_updated: "2021-05-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044778"
+soort: "beleidsregel"
+stam_id: "15834383"
+version_id: "27491932"
+internal_id: "C38799701"
+label_id: "15771124"
+dtd_version: "2.0"
+original_entry_into_force: "2021-02-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044778/2021-05-12/0"
+intitule_bron: "Stcrt.2021-5472"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-02-01"
+intitule_published: "2021-02-03"
+intitule_in_force: "2021-02-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-5472"
+original_signed_date: "2021-02-01"
+original_published_date: "2021-02-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-5472"
+entry_into_force_date: "2021-02-03"
+jci_1_3: "jci1.3:c:BWBR0044778&z=2021-05-12&g=2021-05-12"
+jci_1_0: "1.0:c:BWBR0044778&g=2021-05-12"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel compensatie vervroegde beëindiging pelsdierhouderij"
+signed_date: "2021-02-01"
+entry_into_force: "2021-02-03"
 ---
-
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 1 februari 2021, nr. WJZ/20288990, tot vaststelling van beleidsregels voor de beoordeling van aanvragen om een vergoeding op grond van artikel 8 van de Wet verbod pelsdierhouderij
 
 Gelet op [artikel 8 van de Wet verbod pelsdierhouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=8) en de [artikelen 4:81](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [4:95 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - **wet:** [Wet verbod pelsdierhouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0032739).
 
-#### Artikel 2. Rechtstreeks gevolg van vervroegde beëindiging
+##### Artikel 2. Rechtstreeks gevolg van vervroegde beëindiging
 
 1. Voor een vergoeding van schade komt in aanmerking de pelsdierhouder die als rechtstreeks en noodzakelijk gevolg van de vervroegde beëindiging schade lijdt.
 
@@ -52,11 +78,11 @@ In deze beleidsregel wordt verstaan onder:
 
 3. Voor een plaats waar in 2020 geen nertsen zijn gehouden komt de pelsdierhouder slechts in aanmerking voor een vergoeding van schade, indien hij aannemelijk kan maken dat de bouwwerken, gebouwen en inventaris nog zodanig intact zijn dat de productie op die plaats op 28 augustus 2020 terstond had kunnen worden hervat.
 
-#### Artikel 3. Normaal maatschappelijk risico
+##### Artikel 3. Normaal maatschappelijk risico
 
 De minister hanteert voor het bepalen van het normale maatschappelijke risico, bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=8), een kortingspercentage van 15%.
 
-#### Artikel 4. Vergoeding
+##### Artikel 4. Vergoeding
 
 1. De vergoeding bestaat uit:
 
@@ -70,7 +96,7 @@ De minister hanteert voor het bepalen van het normale maatschappelijke risico, b
 
 2. Op de totale vergoeding, bedoeld in het eerste lid, wordt het normaal maatschappelijk risico, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=3&z=2021-05-12&g=2021-05-12), in mindering gebracht.
 
-#### Artikel 5. Inkomensschade
+##### Artikel 5. Inkomensschade
 
 1. In dit artikel wordt onder ‘het aantal fokteven dat rechtens mag worden gehouden’ verstaan het laagste aantal fokteven dat de pelsdierhouder mag houden, ingevolge:
 
@@ -86,7 +112,7 @@ De minister hanteert voor het bepalen van het normale maatschappelijke risico, b
 
 4. Het derde lid is van overeenkomstige toepassing op een plaats waar in 2020 geen nertsen zijn gehouden.
 
-#### Artikel 6. Overbruggingsperiode vervangende arbeid
+##### Artikel 6. Overbruggingsperiode vervangende arbeid
 
 1. De vergoeding ter overbrugging van de benodigde periode voor het vinden van vervangende arbeid bedraagt (2 x € 66.500) x het totaal aantal voltijdse arbeidsplaatsen die worden vervuld door de ondernemer of ondernemers van de pelsdierhouderij, afgerond op twee decimalen.
 
@@ -98,19 +124,19 @@ De minister hanteert voor het bepalen van het normale maatschappelijke risico, b
 
 3. Een ondernemer van de pelsdierhouderij vervult maximaal 1 voltijdse arbeidsplaats.
 
-#### Artikel 7. Transitiekosten werknemer
+##### Artikel 7. Transitiekosten werknemer
 
 1. Een pelsdierhouder komt in aanmerking voor een vergoeding van 60% van de transitievergoeding die hij aan zijn werknemer overeenkomstig [artikel 7:673 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673) dient uit te keren, indien het dienstverband is beëindigd na 28 augustus 2020 en voor het einde van de 26 weken, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=11&z=2021-05-12&g=2021-05-12).
 
 2. Een pelsdierhouder komt niet in aanmerking voor een vergoeding als bedoeld in het eerste lid, indien het dienstverband na 28 augustus 2020 is aangegaan.
 
-#### Artikel 8. Beperking exporteren fokteven
+##### Artikel 8. Beperking exporteren fokteven
 
 1. De vergoeding ter compensatie van de beperking om fokteven te exporteren wordt vastgesteld op € 5,– x het aantal fokteven dat de pelsdierhouder in 2020 ingevolge [artikel 4, eerste lid, onderdeel a, van de Regeling landbouwtelling](https://wetten.overheid.nl/jci1.3:c:BWBR0043204&artikel=4) en gecombineerde opgave 2020 aan de minister heeft opgegeven.
 
 2. Een pelsdierhouder komt niet voor een vergoeding als bedoeld in het eerste lid in aanmerking voor fokteven waarvoor hij vergoeding op grond van [artikel 21, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=21) in samenhang met [artikel 22, eerste lid, onderdeel f, van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=22) een maatregel tot het doden van zieke en verdachte dieren is opgelegd ter bestrijding van SARS-CoV-2 heeft ontvangen.
 
-#### Artikel 9. Overige vergoedingen
+##### Artikel 9. Overige vergoedingen
 
 Indien de minister een vergoeding als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=4&z=2021-05-12&g=2021-05-12) toekent, vergoedt de minister ook:
 
@@ -118,11 +144,11 @@ Indien de minister een vergoeding als bedoeld in [artikel 4](https://wetten.over
 
 - b. de wettelijke rente vanaf de ontvangst van de aanvraag en de gegevens, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=11&z=2021-05-12&g=2021-05-12).
 
-#### Artikel 10. Verhouding Regeling subsidie financiering vaste lasten MKB COVID-19
+##### Artikel 10. Verhouding Regeling subsidie financiering vaste lasten MKB COVID-19
 
 Indien aan een pelsdierhouder op grond van de [Regeling subsidie financiering vaste lasten MKB COVID-19](https://wetten.overheid.nl/jci1.3:c:BWBR0043735) een subsidie is verleend om bij te dragen aan de financiering van de vaste lasten in de periode na 1 januari 2021, wordt het bedrag dat op grond van [artikel 11 van die Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0043735&artikel=11) is vastgesteld in mindering gebracht op de vergoeding van inkomensschade, vastgesteld overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=4&z=2021-05-12&g=2021-05-12).
 
-#### Artikel 11. Aanvraag vergoeding
+##### Artikel 11. Aanvraag vergoeding
 
 1. De pelsdierhouder die in aanmerking wil komen voor een vergoeding dient binnen 26 weken nadat het middel, bedoeld in het tweede lid, ter beschikking is gesteld een aanvraag in voor alle plaatsen ten aanzien waarvan hij in aanmerking wil komen voor een vergoeding.
 
@@ -144,13 +170,13 @@ Indien aan een pelsdierhouder op grond van de [Regeling subsidie financiering va
 
 - g. gegevens over de onderneming, waaronder het nummer waarmee de onderneming geregistreerd is in het handelsregister, het vestigingsadres en het rekeningnummer dat op naam van de onderneming of, in geval van een eenmanszaak, de eigenaar staat.
 
-#### Artikel 12. Beslissing op het verzoek
+##### Artikel 12. Beslissing op het verzoek
 
 1. De minister kan zich bij de beoordeling van de aanvraag en de vaststelling van de hoogte van de schade die voor vergoeding in aanmerking komt, laten adviseren door een of meer onafhankelijke deskundigen.
 
 2. De minister stelt de pelsdierhouder in kennis van het inschakelen van de deskundige en van de termijn die aan de deskundige is gesteld om te adviseren.
 
-#### Artikel 13. Voorschot
+##### Artikel 13. Voorschot
 
 1. De minister kent de pelsdierhouder die een aanvraag als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044778&artikel=11&z=2021-05-12&g=2021-05-12), heeft ingediend, een voorschot toe.
 
@@ -160,11 +186,11 @@ Indien aan een pelsdierhouder op grond van de [Regeling subsidie financiering va
 
 4. Het voorschot kan uitsluitend worden verleend indien de pelsdierhouder schriftelijk de verplichting aanvaardt tot gehele en onvoorwaardelijke terugbetaling van hetgeen ten onrechte als voorschot is uitbetaald, zulks te vermeerderen met de wettelijke rente over het teveel betaalde te rekenen vanaf de datum van betaling van het voorschot.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag van de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst en werkt terug tot en met 25 december 2020.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel compensatie vervroegde beëindiging pelsdierhouderij.
 

@@ -1,20 +1,45 @@
 ---
-title: "Letse uitvoeringsvoorschriften belastingverdrag Nederland-Letland"
+title: "Regeling inzake vermindering en vrijstelling van Letse belasting op dividenden, interest en royalty’s en sommige andere soorten van inkomsten, genoten door inwoner van Nederland"
 identifier: "BWBR0008539"
-categorie: "Belastingrecht"
-publicatiedatum: 1996-03-19
-laatste_update: 1996-03-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008539"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1996-03-19"
+last_updated: "1996-03-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008539"
+soort: "ministeriele-regeling"
+stam_id: "3960773"
+version_id: "5733922"
+internal_id: "C5936651"
+label_id: "3940834"
+dtd_version: "2.0"
+original_entry_into_force: "1996-03-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008539/1996-03-19/0"
+intitule_bron: "Stcrt.1997-32"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-02-06"
+intitule_published: "1997-02-14"
+intitule_in_force: "1997-02-14"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-32"
+original_signed_date: "1997-02-06"
+original_published_date: "1997-02-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-03-19"
+jci_1_3: "jci1.3:c:BWBR0008539&z=1996-03-19&g=1996-03-19"
+jci_1_0: "1.0:c:BWBR0008539&g=1996-03-19"
+citeertitel_status: "officieel"
+short_title: "Letse uitvoeringsvoorschriften belastingverdrag Nederland-Letland"
+signed_date: "1997-02-06"
+entry_into_force: "1996-03-19"
 ---
-
 # Regeling inzake vermindering en vrijstelling van Letse belasting op dividenden, interest en royalty’s en sommige andere soorten van inkomsten, genoten door inwoner van Nederland
 
 Besluit:
 
 Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
-#### Artikel 1
+##### Artikel 1
 
 Aan het op 14 maart 1994 tussen Nederland en Letland gesloten Verdrag tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, en het Protocol bij dat Verdrag (Trb. 1994, 83 en 166), kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van het Verdrag en onderdelen van het Protocol:
 
@@ -40,7 +65,7 @@ Aan het op 14 maart 1994 tussen Nederland en Letland gesloten Verdrag tot het ve
 
 - i. algehele vrijstelling van de Letse belasting op het salaris, het loon en de andere soortgelijke beloning, betaald door een werkgever die inwoner van Letland is aan een werknemer die inwoner van Nederland is ter zake van een niet in Letland uitgeoefende dienstbetrekking (artikel 15, eerste lid). De in de onderdelen a, b, f, g en h van dit artikel vermelde verminderingen worden berekend over het bruto bedrag van de dividenden, interest en royalty’s. De in onderdelen a, b, f, g en h van dit artikel vermelde verminderingen zijn niet van toepassing indien de uiteindelijk gerechtigde tot de dividenden, de interest of de royalty’s in Letland een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in Letland zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest wordt betaald of het recht of de zaak uit hoofde waarvan de royalty’s worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort (artikel 10, zesde lid, respectievelijk artikel 11, zesde lid, en artikel 12, vijfde lid).
 
-#### Artikel 2
+##### Artikel 2
 
 Ter uitvoering van de door Letland met andere landen gesloten verdragen ter voorkoming van dubbele belasting, waaronder dat met Nederland, heeft het Kabinet van Ministers van de Republiek Letland op grond van het bepaalde in artikel 5 van de Wet op belastingen en vergoedingen bij regeling van 19 maart 1996, no. 66, uniforme uitvoeringsvoorschriften vastgesteld, die niet alleen voor inwoners van Nederland gelden maar ook voor inwoners van alle andere verdragslanden.
 
@@ -100,7 +125,7 @@ Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centr
 
 LV-1978.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Deze regeling kan worden aangehaald als: Letse uitvoeringsvoorschriften belastingverdrag Nederland-Letland.
 
@@ -108,6 +133,6 @@ LV-1978.
 
 3. Zij vindt toepassing met betrekking tot Letse inkomsten die zijn betaald of worden betaald in een belastingjaar of belastingtijdvak dat aanvangt op of na 1 januari 1996.
 
-#### Artikel 4
+##### Artikel 4
 
 Letse belasting die voor de inwerkingtreding van de Letse uitvoeringsvoorschriften op grond van het Nederlands-Letse belastingverdrag te veel is geheven, zal worden teruggeven nadat daartoe een verzoek is ingediend op de wijze zoals omschreven in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008539&artikel=2&z=1996-03-19&g=1996-03-19), hiervoor (onderdelen 8 tot en met 10 van de Letse uitvoeringsvoorschriften).

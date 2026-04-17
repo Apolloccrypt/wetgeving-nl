@@ -1,26 +1,51 @@
 ---
 title: "Besluit bestuurlijke boeten BES"
 identifier: "BWBR0037210"
-categorie: "Strafrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037210"
+country: "nl"
+rank: "beleidsregel_bes"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037210"
+soort: "beleidsregel-BES"
+stam_id: "13306773"
+version_id: "22787402"
+internal_id: "C32935921"
+label_id: "13274704"
+dtd_version: "2.0"
+original_entry_into_force: "2015-11-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037210/2024-01-01/0"
+intitule_bron: "Stcrt.2015-41005"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-11-09"
+intitule_published: "2015-11-20"
+intitule_in_force: "2015-11-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-41005"
+original_signed_date: "2015-11-09"
+original_published_date: "2015-11-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-41005"
+entry_into_force_date: "2015-11-21"
+jci_1_3: "jci1.3:c:BWBR0037210&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0037210&g=2024-01-01"
+citeertitel_status: "officieel"
+signed_date: "2015-11-09"
+entry_into_force: "2015-11-21"
 ---
-
 # Besluit bestuurlijke boeten BES
 
 Dit besluit betreft een wijziging van het [besluit van 19 december 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029304), nr. DGB2010/8055M, Stcrt. 2010, nr. 21193 (Besluit bestuurlijke boeten BES) in verband met de beleidsmatige invulling van de [artikelen 8.24](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.24) en [8.24a Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.24a) (zie de [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=II&artikel=6a&z=2024-01-01&g=2024-01-01) en [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=II&artikel=6b&z=2024-01-01&g=2024-01-01) van dit besluit) en een nadere uitwerking van het beleid omtrent vrijwillige verbetering ([artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=IV&artikel=8&z=2024-01-01&g=2024-01-01) van dit besluit).
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit beleidsbesluit wordt onder ‘boete’ verstaan een bestuurlijke boete die de inspecteur ingevolge [Hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) kan opleggen bij de heffing en invordering van BES belastingen als bedoeld in [artikel 1.3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=1.3), van die wet.
 
 2. Dit besluit werd gewijzigd bij besluit van 20 december 2023, nr. 2023-23713 (Stcrt.2023, 32017). De wijziging zag op de artikelen 1 en [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=II&artikel=6b&z=2024-01-01&g=2024-01-01) en betrof een verruiming en verduidelijking van het toepassingsbereik van het besluit en het bijwerken van een verwijzing.
 
-#### Artikel 2
+##### Artikel 2
 
 Bij het vaststellen van de boete wijkt de inspecteur niet af van de percentages en bedragen, die in dit beleidsbesluit zijn vermeld.
 
@@ -28,7 +53,7 @@ De boete kan worden verminderd wanneer sprake is van een wanverhouding tussen de
 
 ### Hoofdstuk II. Verzuimboeten
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het niet of niet binnen de termijn doen van aangifte voor een belasting die bij wege van aanslag wordt geheven, wordt aangemerkt als een verzuim.
 
@@ -40,7 +65,7 @@ De boete kan worden verminderd wanneer sprake is van een wanverhouding tussen de
 
 5. Een boete blijft achterwege indien door de werking van [artikel 41B van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=41b) de aanslag op nihil of op een negatief bedrag wordt vastgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het niet of niet binnen de termijn doen van aangifte voor een belasting welke op aangifte moet worden voldaan of afgedragen wordt aangemerkt als een aangifteverzuim.
 
@@ -52,17 +77,17 @@ De boete kan worden verminderd wanneer sprake is van een wanverhouding tussen de
 
 3. In afwijking van het tweede lid kan in uitzonderlijke gevallen een verzuimboete tot het wettelijk maximum worden opgelegd. Van een uitzonderlijk geval kan bijvoorbeeld sprake zijn als belanghebbende stelselmatig in verzuim is.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor het opleggen van de boeten voor een betalingsverzuim wordt de hoogte van de verzuimboete gerelateerd aan de hoogte van de niet, gedeeltelijk niet of niet binnen de termijn betaalde belasting.
 
 2. In geval van een betalingsverzuim legt de inspecteur een boete op van vijf procent van de niet, gedeeltelijk niet of niet binnen de termijn betaalde belasting tot het wettelijk maximum van [artikel 8.23 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.23). De boete wordt minimaal gesteld op $ 100.
 
-#### Artikel 6
+##### Artikel 6
 
 In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=II&artikel=5&z=2024-01-01&g=2024-01-01) wordt een verzuimboete opgelegd van vijftien procent van de niet, gedeeltelijk niet of niet tijdig betaalde belasting tot het wettelijk maximum van [artikel 8.23 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.23), indien de belastingplichtige of de inhoudingsplichtige de belasting die op aangifte moet worden voldaan of afgedragen niet, gedeeltelijk niet dan wel niet tijdig heeft betaald, omdat te weinig is aangegeven. De boete wordt minimaal gesteld op $ 200.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Het niet, niet tijdig of niet volledig indienen van de opgave werknemers of de opgave niet-werknemers als bedoeld in [artikel 8.87, tweede en derde lid van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.87), wordt aangemerkt als een opgaveverzuim.
 
@@ -70,7 +95,7 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoo
 
 3. In afwijking van het vorige lid kan in gevallen waarin sprake is van een tweede of volgend verzuim een verzuimboete tot het wettelijk maximum van [artikel 8.24 Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.24) worden opgelegd.
 
-#### Artikel 6b
+##### Artikel 6b
 
 1. Het niet of niet tijdig indienen van de jaarrekening als bedoeld in [artikel 8.87a, eerste en tweede lid, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.87a), wordt aangemerkt als een jaarrekeningverzuim.
 
@@ -80,7 +105,7 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoo
 
 ### Hoofdstuk III. Vergrijpboeten
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien het aan opzet dan wel grove schuld van de belastingplichtige of de inhoudingsplichtige te wijten is dat, met betrekking tot een belasting welke bij wege van aanslag wordt geheven, de aanslag te laag is vastgesteld of anderszins te weinig belasting is geheven legt de inspecteur een boete op van vijfentwintig procent van de in [artikel 8.25, tweede lid, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.25) omschreven grondslag voor de boete in geval van grove schuld, dan wel vijftig procent in geval van opzet.
 
@@ -94,7 +119,7 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoo
 
 ### Hoofdstuk IV. Vrijwillige verbetering
 
-#### Artikel 8
+##### Artikel 8
 
 1. Dit artikel ziet op vrijwillige verbeteringen in de sfeer van de aangiftebelastingen.
 
@@ -114,15 +139,15 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoo
 
 ### Hoofdstuk V. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als Besluit bestuurlijke boeten BES.
 
-#### Artikel 10
+##### Artikel 10
 
 Het [besluit van 19 december 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029304), nr. DGB2010/8055M, Stcrt. 2010, nr. 21193 (Besluit bestuurlijke boeten BES) wordt ingetrokken met ingang van de inwerkingtreding van dit besluit.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

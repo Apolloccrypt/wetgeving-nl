@@ -1,13 +1,41 @@
 ---
-title: "Belastingregeling Nederland Curaçao"
+title: "Rijkswet van 30 september 2015, houdende regeling voor Nederland en Curaçao tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en een woonplaatsfictie ter zake van erf- en schenkbelasting (Belastingregeling Nederland Curaçao)"
 identifier: "BWBR0037077"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-07-13
-laatste_update: 2024-07-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037077"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2024-07-13"
+last_updated: "2024-07-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037077"
+soort: "rijkswet"
+stam_id: "13272273"
+version_id: "22717632"
+internal_id: "C32847231"
+label_id: "13240644"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037077/2024-07-13/0"
+intitule_bron: "Stb.2015-348"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-09-30"
+intitule_published: "2015-10-09"
+intitule_in_force: "2015-10-09"
+intitule_status: "goed"
+original_publication: "Stb.2015-348"
+original_signed_date: "2015-09-30"
+original_published_date: "2015-10-09"
+original_effect: "nieuwe-regeling"
+original_dossier: "33955"
+original_url_id: "stb-2015-348"
+entry_into_force_date: "2015-12-01"
+entry_into_force_dossier: "33955"
+jci_1_3: "jci1.3:c:BWBR0037077&z=2024-07-13&g=2024-07-13"
+jci_1_0: "1.0:c:BWBR0037077&g=2024-07-13"
+citeertitel_status: "officieel"
+short_title: "Belastingregeling Nederland Curaçao"
+signed_date: "2015-09-30"
+entry_into_force: "2015-12-01"
 ---
-
 # Rijkswet van 30 september 2015, houdende regeling voor Nederland en Curaçao tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en een woonplaatsfictie ter zake van erf- en schenkbelasting (Belastingregeling Nederland Curaçao)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -22,7 +50,7 @@ De bepalingen vinden toepassing voor belastingjaren en belastingtijdvakken die a
 
 ### Hoofdstuk I. Reikwijdte van de rijkswet
 
-#### Artikel 1. Toepassingsbereik
+##### Artikel 1. Toepassingsbereik
 
 1. Deze rijkswet is van toepassing op personen die inwoner zijn van een van de landen of van beide landen.
 
@@ -44,7 +72,7 @@ geen aanspraak op de voordelen van de [artikelen 10](https://wetten.overheid.nl/
 
 6. De bevoegde autoriteiten van beide landen kunnen in onderling overleg beslissen in hoeverre een inwoner van een van de landen die onder een bijzondere regeling valt geen aanspraak kan maken op de voordelen van deze rijkswet.
 
-#### Artikel 2. Belastingen waarop de rijkswet van toepassing is
+##### Artikel 2. Belastingen waarop de rijkswet van toepassing is
 
 1. Deze rijkswet is van toepassing op belastingen naar het inkomen die worden geheven ten behoeve van een land, of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan, ongeacht de wijze van heffing.
 
@@ -92,7 +120,7 @@ geen aanspraak op de voordelen van de [artikelen 10](https://wetten.overheid.nl/
 
 ### Hoofdstuk II. Begripsomschrijvingen
 
-#### Artikel 3. Algemene begripsomschrijvingen
+##### Artikel 3. Algemene begripsomschrijvingen
 
 1. Voor de toepassing van deze rijkswet, tenzij de context anders vereist:
 
@@ -138,7 +166,7 @@ geen aanspraak op de voordelen van de [artikelen 10](https://wetten.overheid.nl/
 
 2. Voor de toepassing van deze rijkswet door een land op enig moment heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat moment heeft volgens de wetgeving van dat land met betrekking tot de belastingen waarop deze rijkswet van toepassing is, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van dat land prevaleert boven een betekenis die volgens andere wetgeving van dat land aan die uitdrukking wordt gegeven.
 
-#### Artikel 4. Inwoner
+##### Artikel 4. Inwoner
 
 1. Voor de toepassing van deze rijkswet betekent de uitdrukking «inwoner van een land» iedere persoon die, ingevolge de wetgeving van dat land, aldaar aan belasting is onderworpen op grond van zijn woonplaats, verblijf, plaats van leiding, plaats van oprichting of enige andere soortgelijke omstandigheid. De uitdrukking «inwoner van een land» omvat tevens het land zelf en elk staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam daarvan en een persoon die voor de toepassing van de opbrengstbelasting in het Caribische deel van Nederland is gevestigd alsmede een pensioenfonds als bedoeld in [artikel 3, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=II&artikel=3&z=2024-07-13&g=2024-07-13). Deze uitdrukking omvat echter niet een persoon die in dat land slechts aan belasting is onderworpen ter zake van inkomsten uit bronnen in dat land.
 
@@ -168,7 +196,7 @@ geen aanspraak op de voordelen van de [artikelen 10](https://wetten.overheid.nl/
 
 - c. kan de bevoegde autoriteit van een land de voordelen van deze rijkswet ook verlenen aan een inwoner van het andere land ter zake van een inkomensbestanddeel dat krachtens de wetgeving van dat andere land niet als inkomen van een inwoner van dat land wordt behandeld, in gevallen waarin een dergelijk inkomensbestanddeel van belasting zou zijn vrijgesteld indien het als inkomen van die inwoner zou zijn behandeld.
 
-#### Artikel 5. Vaste inrichting
+##### Artikel 5. Vaste inrichting
 
 1. Voor de toepassing van deze rijkswet betekent de uitdrukking «vaste inrichting» een vaste bedrijfsinrichting door middel waarvan de werkzaamheden van een onderneming geheel of gedeeltelijk worden verricht.
 
@@ -230,7 +258,7 @@ de in het andere land verrichte activiteiten bestaande uit de voornoemde dienste
 
 ### Hoofdstuk III. Belastingheffing naar het inkomen
 
-#### Artikel 6. Inkomsten uit onroerende zaken
+##### Artikel 6. Inkomsten uit onroerende zaken
 
 1. Inkomsten verkregen door een inwoner van een land uit onroerende zaken, waaronder begrepen inkomsten uit landbouw- of bosbedrijven, die in het andere land zijn gelegen, mogen in dat andere land worden belast.
 
@@ -242,7 +270,7 @@ de in het andere land verrichte activiteiten bestaande uit de voornoemde dienste
 
 5. Dit artikel is eveneens van toepassing op inkomsten uit onroerende zaken van een onderneming.
 
-#### Artikel 7. Winst uit onderneming
+##### Artikel 7. Winst uit onderneming
 
 1. De voordelen van een onderneming van een land zijn slechts in dat land belastbaar, tenzij de onderneming in het andere land haar bedrijf uitoefent door middel van een aldaar gelegen vaste inrichting. Indien de onderneming aldus haar bedrijf uitoefent, mogen de voordelen die in overeenstemming met de bepalingen van het tweede lid aan de vaste inrichting kunnen worden toegerekend in dat andere land worden belast.
 
@@ -252,7 +280,7 @@ de in het andere land verrichte activiteiten bestaande uit de voornoemde dienste
 
 4. Indien in de voordelen bestanddelen van het inkomen zijn begrepen die afzonderlijk in andere artikelen van deze rijkswet worden geregeld, laten de bepalingen van dit artikel de bepalingen van die artikelen onverlet.
 
-#### Artikel 8. Zee- en luchtvaart
+##### Artikel 8. Zee- en luchtvaart
 
 1. Voordelen uit de exploitatie van schepen of luchtvaartuigen in het internationale verkeer zijn slechts belastbaar in het land waar de plaats van de werkelijke leiding van de onderneming is gelegen.
 
@@ -264,7 +292,7 @@ de in het andere land verrichte activiteiten bestaande uit de voornoemde dienste
 
 5. Niettegenstaande de voorgaande bepalingen van dit artikel en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=II&artikel=4&z=2024-07-13&g=2024-07-13), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=7&z=2024-07-13&g=2024-07-13), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=13&z=2024-07-13&g=2024-07-13), en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=20&z=2024-07-13&g=2024-07-13), zijn de voordelen uit de exploitatie van luchtvaartuigen in het internationale verkeer, alsmede de voordelen uit de vervreemding van luchtvaartuigen die in het internationale verkeer worden geëxploiteerd en van roerende zaken die ter zake daarvan worden gebruikt, slechts in Nederland belastbaar indien deze voordelen door Nederland mogen worden belast krachtens het protocol van 7 april 2004 tot wijziging van de Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, met protocol, gesloten te Parijs op 16 maart 1973, (Trb . 2004, 150), in samenhang met dat verdrag, of krachtens een daarvoor in de plaats gekomen verdrag.
 
-#### Artikel 9. Gelieerde ondernemingen
+##### Artikel 9. Gelieerde ondernemingen
 
 1. Indien:
 
@@ -276,7 +304,7 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 2. Indien een land in de voordelen van een onderneming van dat land voordelen begrijpt, en dienovereenkomstig belast, ter zake waarvan een onderneming van het andere land in dat andere land in de belastingheffing is betrokken en deze voordelen bestaan uit voordelen welke de onderneming van het eerstbedoelde land zou hebben behaald indien tussen de beide ondernemingen zodanige voorwaarden zouden zijn overeengekomen als die welke tussen onafhankelijke ondernemingen zouden zijn overeengekomen, past dat andere land het bedrag aan belasting dat in dat land over die voordelen is geheven, dienovereenkomstig aan. Bij de vaststelling van deze aanpassing wordt zorgvuldig rekening gehouden met de overige bepalingen van deze rijkswet en plegen de bevoegde autoriteiten van de landen zo nodig met elkaar overleg.
 
-#### Artikel 10. Dividenden
+##### Artikel 10. Dividenden
 
 1. Dividenden betaald door een lichaam dat inwoner is van een land aan een inwoner van het andere land, mogen in dat andere land worden belast.
 
@@ -362,7 +390,7 @@ mits de aankoop of verkoop van aandelen op de desbetreffende effectenbeurs niet 
 
 - b. aan een persoon die voor de toepassing van de Curaçaose winstbelasting een Curaçaose Beleggingsvennootschap is, voor zover de inkomsten voortkomen uit beleggingen in effecten, deposito’s, financiële instrumenten of andere beleggingen, tenzij de Curaçaose Beleggingsvennootschap een lichaam is als bedoeld in [artikel 3, eerste lid, onderdeel j, subonderdeel 5⁰](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=II&artikel=3&z=2024-07-13&g=2024-07-13).
 
-#### Artikel 11. Rente
+##### Artikel 11. Rente
 
 1. Rente afkomstig uit een land die wordt verkregen door een inwoner van het andere land die de uiteindelijk gerechtigde is, is slechts belastbaar in dat andere land.
 
@@ -372,7 +400,7 @@ mits de aankoop of verkoop van aandelen op de desbetreffende effectenbeurs niet 
 
 4. Indien, wegens een bijzondere verhouding tussen de schuldenaar en de uiteindelijk gerechtigde of tussen hen beiden en een derde, het bedrag van de rente, gelet op de schuldvordering ter zake waarvan deze wordt betaald, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de uiteindelijk gerechtigde zou zijn overeengekomen, zijn de bepalingen van dit artikel slechts op het laatstbedoelde bedrag van toepassing. In dat geval blijft het daarboven uitgaande deel van het betaalde bedrag belastbaar overeenkomstig de wetgeving van elk van de landen, zulks met inachtneming van de overige bepalingen van deze rijkswet.
 
-#### Artikel 12. Royalty’s
+##### Artikel 12. Royalty’s
 
 1. Royalty’s afkomstig uit een land die worden verkregen door een inwoner van het andere land die de uiteindelijk gerechtigde is, zijn slechts belastbaar in dat andere land.
 
@@ -382,7 +410,7 @@ mits de aankoop of verkoop van aandelen op de desbetreffende effectenbeurs niet 
 
 4. Indien, wegens een bijzondere verhouding tussen de schuldenaar en de uiteindelijk gerechtigde of tussen hen beiden en een derde, het bedrag van de royalty’s, gelet op het gebruik, het recht of de informatie waarvoor zij worden betaald, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de uiteindelijk gerechtigde zou zijn overeengekomen, zijn de bepalingen van dit artikel slechts op het laatstbedoelde bedrag van toepassing. In dat geval blijft het daarboven uitgaande deel van het betaalde bedrag belastbaar overeenkomstig de wetgeving van elk van de landen, zulks met inachtneming van de overige bepalingen van deze rijkswet.
 
-#### Artikel 13. Vermogenswinsten
+##### Artikel 13. Vermogenswinsten
 
 1. Voordelen verkregen door een inwoner van een land uit de vervreemding van onroerende zaken als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=6&z=2024-07-13&g=2024-07-13) die zijn gelegen in het andere land, mogen in dat andere land worden belast.
 
@@ -394,7 +422,7 @@ mits de aankoop of verkoop van aandelen op de desbetreffende effectenbeurs niet 
 
 5. Indien een natuurlijke persoon inwoner is geweest van een van de landen en inwoner is geworden van het andere land, beletten de bepalingen van het vierde lid het eerstbedoelde land niet uit hoofde van zijn nationale recht de waardevermeerdering van aandelen, winstbewijzen, koopopties en het vruchtgebruik op aandelen in en winstbewijzen van en schuldvorderingen op een lichaam te belasten, indien die natuurlijke persoon minder dan tien jaar geleden is geëmigreerd uit het eerstbedoelde land en voor zover de betreffende waardevermeerdering ziet op het tijdvak waarin de natuurlijke persoon inwoner was van het eerstbedoelde land. In een dergelijk geval wordt de waardevermeerdering van vermogen die is belast in het eerstgenoemde land, niet begrepen in de belastinggrondslag bij de vaststelling van de waardevermeerdering van het vermogen door het andere land.
 
-#### Artikel 14. Inkomsten uit dienstbetrekking
+##### Artikel 14. Inkomsten uit dienstbetrekking
 
 1. Onder voorbehoud van de bepalingen van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=15&z=2024-07-13&g=2024-07-13), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=17&z=2024-07-13&g=2024-07-13) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=18&z=2024-07-13&g=2024-07-13), zijn salarissen, lonen en andere soortgelijke beloningen verkregen door een inwoner van een van de landen ter zake van een dienstbetrekking slechts in dat land belastbaar, tenzij de dienstbetrekking in het andere land wordt uitgeoefend. Indien de dienstbetrekking aldaar wordt uitgeoefend, mag de ter zake daarvan verkregen beloning in dat andere land worden belast.
 
@@ -408,13 +436,13 @@ mits de aankoop of verkoop van aandelen op de desbetreffende effectenbeurs niet 
 
 3. Niettegenstaande de voorgaande bepalingen van dit artikel is de beloning verkregen door een inwoner van een land ter zake van een dienstbetrekking uitgeoefend aan boord van een schip of luchtvaartuig dat in het internationale verkeer wordt geëxploiteerd, slechts in dat land belastbaar.
 
-#### Artikel 15. Directeursbeloningen
+##### Artikel 15. Directeursbeloningen
 
 1. Directeursbeloningen en andere beloningen verkregen door een inwoner van een land in zijn hoedanigheid van lid van de raad van beheer van een lichaam dat inwoner is van het andere land, mogen in dat andere land worden belast.
 
 2. Voor de toepassing van dit artikel wordt onder de uitdrukking «lid van de raad van beheer» zowel personen die zijn belast met de algemene leiding van het lichaam als personen die zijn belast met het toezicht daarop verstaan.
 
-#### Artikel 16. Artiesten en sportbeoefenaars
+##### Artikel 16. Artiesten en sportbeoefenaars
 
 1. Niettegenstaande de bepalingen van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=7&z=2024-07-13&g=2024-07-13) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=14&z=2024-07-13&g=2024-07-13), mogen inkomsten verkregen door een inwoner van een land als artiest, zoals een toneelspeler, een film-, radio- of televisie-artiest of een musicus, of als sportbeoefenaar, uit zijn persoonlijke werkzaamheden als zodanig die worden verricht in het andere land, worden belast in dat andere land.
 
@@ -422,7 +450,7 @@ mits de aankoop of verkoop van aandelen op de desbetreffende effectenbeurs niet 
 
 3. De bepalingen van het eerste en tweede lid zijn niet van toepassing op inkomsten verkregen door een inwoner van een land uit werkzaamheden verricht in het andere land, indien het bezoek aan dat land grotendeels wordt bekostigd uit de openbare middelen van een van de landen, een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan of door een organisatie die in een van de landen wordt erkend als een algemeen nut beogende instelling of plaatsvindt in het kader van een culturele overeenkomst tussen de landen of tussen staatkundige onderdelen of plaatselijk publiekrechtelijke lichamen daarvan. In dat geval zijn de inkomsten slechts belastbaar in het land waarvan de artiest of sportbeoefenaar inwoner is.
 
-#### Artikel 17. Pensioenen, lijfrenten, socialezekerheidsuitkeringen
+##### Artikel 17. Pensioenen, lijfrenten, socialezekerheidsuitkeringen
 
 1. Onder voorbehoud van de bepalingen van [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=18&z=2024-07-13&g=2024-07-13), zijn pensioenen en andere soortgelijke beloningen, alsmede lijfrenten, betaald aan een inwoner van een land, slechts in dat land belastbaar.
 
@@ -444,7 +472,7 @@ mits de aankoop of verkoop van aandelen op de desbetreffende effectenbeurs niet 
 
 of elke daarvoor in de plaats komende identieke of grotendeels vergelijkbare bepaling in de wetgeving die een van de hiervoor bedoelde bepalingen vervangt.
 
-#### Artikel 18. Overheidsfuncties
+##### Artikel 18. Overheidsfuncties
 
 1. Salarissen, lonen en andere soortgelijke beloningen, niet zijnde pensioenen, betaald door een land, of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan, aan een natuurlijke persoon ter zake van diensten bewezen aan dat land, dat staatkundige onderdeel of dat publiekrechtelijke lichaam, mogen in dat land worden belast.
 
@@ -456,11 +484,11 @@ of elke daarvoor in de plaats komende identieke of grotendeels vergelijkbare bep
 
 5. Pensioenen en andere soortgelijke beloningen vallen onder de reikwijdte van het derde lid voor zover de aanspraak daarop is opgebouwd gedurende een publiekrechtelijke dienstbetrekking, ongeacht door wie dat pensioen of andere soortgelijke beloning wordt uitbetaald. Wanneer de aanspraak op een pensioen of een andere soortgelijke beloning deels gedurende een particuliere dienstbetrekking en deels gedurende een publiekrechtelijke dienstbetrekking is opgebouwd, wordt het deel van dat pensioen of die andere soortgelijke beloning dat wordt beheerst door [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=17&z=2024-07-13&g=2024-07-13), respectievelijk het deel dat wordt beheerst door het derde lid, vastgesteld naar evenredigheid van het aantal jaren dat de aanspraak op dat pensioen of die andere soortgelijke beloning is opgebouwd gedurende een particuliere, onderscheidenlijk gedurende een publiekrechtelijke dienstbetrekking, ten opzichte van het totale aantal jaren waarover de aanspraak op dat pensioen of die andere soortgelijke beloning is opgebouwd.
 
-#### Artikel 19. Studenten
+##### Artikel 19. Studenten
 
 Vergoedingen die een student of een voor een beroep of bedrijf in opleiding zijnde persoon die inwoner is of onmiddellijk voorafgaande aan zijn bezoek aan een land inwoner was van het andere land en die uitsluitend voor zijn studie of opleiding in het eerstbedoelde land verblijft, ontvangt ten behoeve van zijn onderhoud, studie of opleiding, zijn in dat land niet belastbaar, mits deze vergoedingen afkomstig zijn uit bronnen buiten dat land.
 
-#### Artikel 20. Overige inkomsten
+##### Artikel 20. Overige inkomsten
 
 1. Bestanddelen van het inkomen van een inwoner van een land, van waaruit ook afkomstig, die niet in de voorgaande artikelen van deze rijkswet zijn behandeld, zijn slechts in dat land belastbaar.
 
@@ -468,7 +496,7 @@ Vergoedingen die een student of een voor een beroep of bedrijf in opleiding zijn
 
 ### Hoofdstuk IV. Vermijden van dubbele belasting
 
-#### Artikel 21. Vermijden van dubbele belasting
+##### Artikel 21. Vermijden van dubbele belasting
 
 1. Nederland is bevoegd bij het heffen van belasting van zijn inwoners in de grondslag waarnaar de belasting wordt geheven, de bestanddelen van het inkomen te begrijpen die overeenkomstig de bepalingen van deze rijkswet in Curaçao mogen worden belast.
 
@@ -494,7 +522,7 @@ Vergoedingen die een student of een voor een beroep of bedrijf in opleiding zijn
 
 ### Hoofdstuk V. Bijzondere bepalingen
 
-#### Artikel 22
+##### Artikel 22
 
 1. Niettegenstaande de overige bepalingen van deze rijkswet, wordt een voordeel uit hoofde van deze rijkswet niet toegekend met betrekking tot een inkomensbestanddeel indien, alle relevante feiten en omstandigheden in aanmerking genomen, redelijkerwijs kan worden geconcludeerd dat het verkrijgen van dit voordeel een van de voornaamste redenen was voor een constructie of transactie die direct of indirect tot dat voordeel heeft geleid, tenzij wordt vastgesteld dat toekenning van dit voordeel onder deze omstandigheden in overeenstemming zou zijn met het voorwerp en doel van de relevante bepalingen van deze rijkswet.
 
@@ -502,7 +530,7 @@ Vergoedingen die een student of een voor een beroep of bedrijf in opleiding zijn
 
 3. De bevoegde autoriteit van een land raadpleegt de bevoegde autoriteit van het andere land alvorens een voordeel uit hoofde van het eerste of tweede lid van dit artikel te weigeren.
 
-#### Artikel 23. Non-discriminatie
+##### Artikel 23. Non-discriminatie
 
 1. Een rechtspersoon die, een samenwerkingsverband dat of een vereniging die, zijn of haar rechtspositie als zodanig ontleent aan de wetgeving die in een land van kracht is, wordt in het andere land niet aan enige belastingheffing of daarmee verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmede verband houdende verplichtingen waaraan een rechtspersoon die, een samenwerkingsverband dat of een vereniging die zijn of haar rechtspositie als zodanig ontleent aan de wetgeving die in dat andere land van kracht is, in dat land onder dezelfde omstandigheden, in het bijzonder met betrekking tot woonplaats, zijn of kunnen worden onderworpen. Deze bepaling is, niettegenstaande het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=I&artikel=1&z=2024-07-13&g=2024-07-13), ook van toepassing op personen die geen inwoner zijn van een of van beide landen.
 
@@ -526,7 +554,7 @@ Voor de toepassing van dit lid omvat de uitdrukking «pensioenregeling» mede ee
 
 8. Niettegenstaande de bepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=I&artikel=2&z=2024-07-13&g=2024-07-13) zijn de bepalingen van dit artikel van toepassing op belastingen van elke soort en benaming.
 
-#### Artikel 24. Procedure voor onderling overleg
+##### Artikel 24. Procedure voor onderling overleg
 
 1. Indien een persoon van oordeel is dat de maatregelen van een land of van beide landen voor hem leiden of zullen leiden tot een belastingheffing die niet in overeenstemming is met de bepalingen van deze rijkswet, kan hij, ongeacht de rechtsmiddelen waarin de nationale wetgeving van die landen voorziet, de kwestie voorleggen aan de bevoegde autoriteiten van een van beide landen. De kwestie dient te worden voorgelegd binnen drie jaar nadat de maatregel die leidt tot een belastingheffing die niet in overeenstemming is met de bepalingen van deze rijkswet, voor het eerst te zijner kennis is gebracht.
 
@@ -556,7 +584,7 @@ wordt elk onopgelost vraagstuk dat voortvloeit uit de kwestie op schriftelijk ve
 
 een situatie van dubbele belasting of dubbele vrijstelling zou optreden, zal deze oplossing, na bekendmaking daarvan door beide bevoegde autoriteiten, voor de toepassing van deze rijkswet ook in andere, soortgelijke gevallen, bindend zijn.
 
-#### Artikel 25. Uitwisseling van informatie
+##### Artikel 25. Uitwisseling van informatie
 
 1. De bevoegde autoriteiten van de landen wisselen de informatie uit die naar verwachting van belang is voor de uitvoering van de bepalingen van deze rijkswet of voor de toepassing of de handhaving van de nationale wetgeving betreffende belastingen van elke soort en benaming die worden geheven ten behoeve van een land, een staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam daarvan, voor zover de heffing van die belastingen niet in strijd is met deze rijkswet. De uitwisseling van informatie wordt niet beperkt door de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=I&artikel=1&z=2024-07-13&g=2024-07-13) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=I&artikel=2&z=2024-07-13&g=2024-07-13).
 
@@ -578,7 +606,7 @@ een situatie van dubbele belasting of dubbele vrijstelling zou optreden, zal dez
 
 7. De bepalingen van dit artikel zijn van overeenkomstige toepassing op de inkomensafhankelijke regelingen als bedoeld in de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) en op de premies geheven volgens het sociale zekerheidsstelsel van een land.
 
-#### Artikel 26. Bijstand bij invordering
+##### Artikel 26. Bijstand bij invordering
 
 1. De landen verlenen elkaar bijstand bij de invordering van belastingvorderingen. Deze bijstand wordt niet beperkt door de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=I&artikel=1&z=2024-07-13&g=2024-07-13) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=I&artikel=2&z=2024-07-13&g=2024-07-13). De bevoegde autoriteiten van de landen kunnen in onderling overleg de wijze van toepassing van dit artikel regelen.
 
@@ -612,65 +640,65 @@ stelt de bevoegde autoriteit van het eerstbedoelde land de bevoegde autoriteit v
 
 9. De bepalingen van dit artikel zijn van overeenkomstige toepassing op terugvorderingen van tegemoetkomingen als bedoeld in de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) en op de premies geheven volgens het sociale zekerheidsstelsel van een land.
 
-#### Artikel 27. Woonplaats gevolmachtigde minister
+##### Artikel 27. Woonplaats gevolmachtigde minister
 
 1. Voor de heffing van belastingen naar het inkomen in de zin van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=I&artikel=2&z=2024-07-13&g=2024-07-13), alsmede voor de toepassing van deze rijkswet voor zover deze op die belastingen betrekking heeft, wordt, voor zoveel nodig in afwijking van de overige bepalingen van deze rijkswet omtrent de woonplaats, de Gevolmachtigde Minister van Curaçao geacht inwoner te zijn van Curaçao.
 
 2. De Ministers van Financiën van beide landen kunnen gezamenlijk bepalen dat het eerste lid mede wordt toegepast ten aanzien van de plaatsvervangers van de Gevolmachtigde Minister en met hen gelijk te stellen functionarissen.
 
-#### Artikel 28. Woonplaatsfictie ter zake van nederlandse schenk- en erfbelasting
+##### Artikel 28. Woonplaatsfictie ter zake van nederlandse schenk- en erfbelasting
 
 In afwijking in zoverre van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=I&artikel=2&z=2024-07-13&g=2024-07-13) van deze rijkswet en [artikel 3, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=3), wordt een Nederlander die in het Europese deel van Nederland heeft gewoond en binnen een periode van ten hoogste vijf jaren nadat hij het Europese deel van Nederland metterwoon heeft verlaten, is overleden of een schenking heeft gedaan, geacht ten tijde van zijn overlijden of van het doen van de schenking in het Europese deel van Nederland te hebben gewoond.
 
 ### Hoofdstuk VI. Slotbepalingen
 
-#### Artikel 29. Overgangsregeling pensioenen, andere soortgelijke beloningen, als mede lijfrenten
+##### Artikel 29. Overgangsregeling pensioenen, andere soortgelijke beloningen, als mede lijfrenten
 
 1. Ten aanzien van een natuurlijke persoon die op het tijdstip van indiening bij koninklijke boodschap van deze rijkswet reeds inwoner was van Curaçao vinden de bepalingen van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=17&z=2024-07-13&g=2024-07-13) van deze rijkswet geen toepassing op pensioenen en andere soortgelijke beloningen, alsmede lijfrenten, als bedoeld in het eerste lid van dat artikel, die op dat tijdstip reeds waren ingegaan, maar blijven de bepalingen daarop van toepassing die op dat tijdstip bij of krachtens de Belastingregeling voor het Koninkrijk zijn gesteld.
 
 2. Het eerste lid is van overeenkomstige toepassing ten aanzien van een natuurlijke persoon die op het tijdstip van indiening van deze rijkswet reeds inwoner was van Nederland.
 
-#### Artikel 30. Tijdelijke regeling deelnemingsverhoudingen
+##### Artikel 30. Tijdelijke regeling deelnemingsverhoudingen
 
 Vervallen
 
-#### Artikel 31. Overgangsregeling ter zake van nederlandse schenk- en erfbelasting
+##### Artikel 31. Overgangsregeling ter zake van nederlandse schenk- en erfbelasting
 
 1. Ingeval een Nederlander voor het moment van indiening bij koninklijke boodschap van deze rijkswet reeds inwoner was van Curaçao en een schenking doet na inwerkingtreding van deze rijkswet, wordt de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=V&artikel=28&z=2024-07-13&g=2024-07-13) bedoelde termijn van vijf jaar teruggebracht tot een periode van een jaar nadat hij het Europese deel van Nederland metterwoon heeft verlaten.
 
 2. [Artikel 3, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=3) en [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=V&artikel=28&z=2024-07-13&g=2024-07-13) vinden geen toepassing ter zake van het overlijden van een Nederlander die voor het in het eerste lid bedoelde moment reeds inwoner was van Curaçao.
 
-#### Artikel 32. Overgangsregeling ter zake van aanmerkelijk belang natuurlijke personen
+##### Artikel 32. Overgangsregeling ter zake van aanmerkelijk belang natuurlijke personen
 
 1. Indien de in [artikel 10, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=10&z=2024-07-13&g=2024-07-13), en [artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=15&z=2024-07-13&g=2024-07-13), bedoelde natuurlijke persoon reeds voor het moment van indiening bij koninklijke boodschap van deze rijkswet inwoner was van het andere land wordt de in die artikelen genoemde termijn van 10 jaar teruggebracht tot vijf jaar.
 
 2. Indien het eerste lid van toepassing is met betrekking tot [artikel 10, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037077&hoofdstuk=III&artikel=10&z=2024-07-13&g=2024-07-13), mag de belasting geheven uit hoofde van het belastbare inkomen uit aanmerkelijk belang, bedoeld in [artikel 7.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.5), 15 percent over dat inkomen niet overschrijden.
 
-#### Artikel 33. Eu-spaarrenterichtlijn
+##### Artikel 33. Eu-spaarrenterichtlijn
 
 Vervallen
 
-#### Artikel 34. Einde overgangsperiode eu-spaarrenterichtlijn
+##### Artikel 34. Einde overgangsperiode eu-spaarrenterichtlijn
 
 Vervallen
 
-#### Artikel 35. Buitenwerkingstelling
+##### Artikel 35. Buitenwerkingstelling
 
 1. Bij wet kan een land bepalen dat de bepalingen van deze rijkswet geheel of gedeeltelijk buiten werking treden. De daartoe strekkende wettelijke regeling treedt niet in werking voor de aanvang van het tweede kalenderjaar volgend op het jaar waarin de regeling is afgekondigd.
 
 2. De in het eerste lid bedoelde wettelijke regeling van een land wordt bekend gemaakt in het andere land door plaatsing van de tekst, voor zover het Nederland betreft, in het Staatsblad en, voor zover het Curaçao betreft, in het Publicatieblad van Curaçao.
 
-#### Artikel 36. Invoeringswetgeving
+##### Artikel 36. Invoeringswetgeving
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel 37. Inwerkingtreding
+##### Artikel 37. Inwerkingtreding
 
 1. Deze rijkswet treedt in werking met ingang van de eerste dag van de tweede maand volgend op de datum van uitgifte van het Staatsblad waarin deze wordt geplaatst en de bepalingen ervan vinden toepassing voor belastingjaren en belastingtijdvakken die aanvangen of, in geval van aan de bron geheven belastingen, voor betalingen die zijn gedaan op of na 1 januari van het kalenderjaar dat volgt op het kalenderjaar waarin deze rijkswet in werking is getreden.
 
 2. Behoudens voor zover in deze rijkswet anders bepaald, vindt de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464) tussen Nederland en Curaçao geen toepassing meer met ingang van de dag van inwerkingtreding van deze rijkswet, met dien verstande dat de bepalingen ervan van toepassing blijven voor belastingjaren en belastingtijdvakken of betalingen waarop ingevolge het eerste lid de bepalingen van deze rijkswet nog niet van toepassing zijn geworden.
 
-#### Artikel 38. Citeertitel
+##### Artikel 38. Citeertitel
 
 Deze rijkswet wordt aangehaald als: Belastingregeling Nederland Curaçao.
 

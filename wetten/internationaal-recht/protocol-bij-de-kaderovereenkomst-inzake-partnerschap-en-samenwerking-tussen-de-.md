@@ -1,13 +1,35 @@
 ---
 title: "Protocol bij de Kaderovereenkomst inzake partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek der Filipijnen, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie"
 identifier: "BWBV0006462"
-categorie: "Internationaal recht"
-publicatiedatum: 2018-05-01
-laatste_update: 2015-01-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006462"
+country: "nl"
+rank: "verdrag"
+publication_date: "2018-05-01"
+last_updated: "2015-01-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006462"
+soort: "verdrag"
+stam_id: "10005273773"
+version_id: "10005667702"
+internal_id: "C10009405251"
+label_id: "10005256454"
+dtd_version: "2.0"
+original_entry_into_force: "2018-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006462/2018-05-01/0"
+intitule_bron: "Trb.2015-49"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-03-26"
+intitule_in_force: "2018-05-28"
+intitule_status: "goed"
+original_publication: "Trb.2015-49"
+original_published_date: "2015-03-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2015-49"
+entry_into_force_date: "2018-05-01"
+jci_1_3: "jci1.3:c:BWBV0006462&z=2018-05-01&g=2018-05-01"
+jci_1_0: "1.0:c:BWBV0006462&g=2018-05-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-05-01"
 ---
-
 # Protocol bij de Kaderovereenkomst inzake partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek der Filipijnen, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie
 
 Het Koninkrijk België,
@@ -88,25 +110,25 @@ Overwegende dat overeenkomstig [artikel 6, lid 2, van de Akte van toetreding van
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Republiek Kroatië treedt hierbij als een partij toe tot de [kaderovereenkomst inzake partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek der Filipijnen, anderzijds](https://wetten.overheid.nl/jci1.3:c:BWBV0005873), die op 11 juli 2012 in Phnom Penh is ondertekend, en dient op dezelfde wijze als de andere lidstaten van de Europese Unie, de tekst van de overeenkomst respectievelijk vast te stellen en er nota van te nemen.
 
-#### Artikel 2
+##### Artikel 2
 
 Tijdig na de parafering van dit protocol doet de Europese Unie de Kroatische taalversie van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005873) aan haar lidstaten en de Filipijnen toekomen. Onder voorbehoud van de inwerkingtreding van dit protocol wordt de in de eerste zin van dit artikel bedoelde tekst authentiek op dezelfde voorwaarden als de teksten van de overeenkomst in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit protocol maakt een integrerend deel uit van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005873).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Dit protocol wordt goedgekeurd door de Europese Unie, door de Raad van de Europese Unie namens de lidstaten en door de Filipijnen volgens hun eigen procedures. De overeenkomstsluitende partijen stellen elkaar in kennis van de voltooiing van de daartoe vereiste procedures. De akten van goedkeuring worden neergelegd bij het secretariaat-generaal van de Raad van de Europese Unie.
 
 2. Dit protocol treedt in werking op de eerste dag van de maand volgende op de datum waarop de laatste akte van goedkeuring is neergelegd, maar niet eerder dan de datum van de inwerkingtreding van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005873).
 
-#### Artikel 5
+##### Artikel 5
 
 Dit protocol is opgesteld in twee exemplaren in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek.
 

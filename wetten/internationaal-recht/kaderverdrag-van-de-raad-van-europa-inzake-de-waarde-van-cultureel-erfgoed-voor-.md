@@ -1,13 +1,24 @@
 ---
 title: "Kaderverdrag van de Raad van Europa inzake de waarde van cultureel erfgoed voor de samenleving"
 identifier: "BWBV0007033"
-categorie: "Internationaal recht"
-publicatiedatum: 2005-10-27
-laatste_update: 2005-10-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007033"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-10-27"
+last_updated: "2005-10-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007033"
+soort: "verdrag"
+stam_id: "10005649373"
+version_id: "10006223822"
+internal_id: "C10010067021"
+label_id: "10005631704"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007033/2005-10-27/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0007033&z=2005-10-27&g=2005-10-27"
+jci_1_0: "1.0:c:BWBV0007033&g=2005-10-27"
+citeertitel_status: "redactioneel"
 ---
-
 # Kaderverdrag van de Raad van Europa inzake de waarde van cultureel erfgoed voor de samenleving
 
 Preambule
@@ -34,7 +45,7 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I. – DOELEN, BEGRIPSOMSCHRIJVINGEN EN BEGINSELEN
 
-#### Artikel 1. – Doelen van het Verdrag
+##### Artikel 1. – Doelen van het Verdrag
 
 De Partijen bij dit Verdrag komen overeen:
 
@@ -50,7 +61,7 @@ De Partijen bij dit Verdrag komen overeen:
 
 - –. grotere synergie van de competenties van alle betrokken publieke, institutionele en private actoren.
 
-#### Artikel 2. – Begripsomschrijvingen
+##### Artikel 2. – Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -58,7 +69,7 @@ Voor de toepassing van dit Verdrag:
 
 - b. bestaat een erfgoedgemeenschap uit mensen die waarde hechten aan specifieke aspecten van cultureel erfgoed die zij, binnen het kader van publieke actie, wensen te behouden en aan toekomstige generaties over te dragen.
 
-#### Artikel 3. – Het gemeenschappelijke erfgoed van Europa
+##### Artikel 3. – Het gemeenschappelijke erfgoed van Europa
 
 De Partijen komen overeen erkenning van het gemeenschappelijk erfgoed van Europa te bevorderen, dat bestaat uit:
 
@@ -66,7 +77,7 @@ De Partijen komen overeen erkenning van het gemeenschappelijk erfgoed van Europa
 
 - b. de idealen, beginselen en waarden, ontleend aan de ervaringen opgedaan door vooruitgang en conflicten uit het verleden, die de ontwikkeling bevorderen van een vreedzame en stabiele samenleving gebaseerd op eerbiediging van de rechten van de mens, de democratie en de rechtstaat.
 
-#### Artikel 4. – Rechten en verantwoordelijkheden met betrekking tot cultureel erfgoed
+##### Artikel 4. – Rechten en verantwoordelijkheden met betrekking tot cultureel erfgoed
 
 De Partijen erkennen dat:
 
@@ -76,7 +87,7 @@ De Partijen erkennen dat:
 
 - c. de uitoefening van het recht op cultureel erfgoed alleen onderworpen mag zijn aan die beperkingen die in een democratische samenleving noodzakelijk zijn voor de bescherming van het algemeen belang en de rechten en vrijheden van anderen.
 
-#### Artikel 5. – Wetgeving en beleid inzake cultureel erfgoed
+##### Artikel 5. – Wetgeving en beleid inzake cultureel erfgoed
 
 De Partijen verbinden zich ertoe:
 
@@ -94,7 +105,7 @@ De Partijen verbinden zich ertoe:
 
 - g. geïntegreerde strategieën te formuleren om de implementatie van de bepalingen van dit Verdrag te vergemakkelijken.
 
-#### Artikel 6. – Gevolgen van het Verdrag
+##### Artikel 6. – Gevolgen van het Verdrag
 
 Geen enkele bepaling van dit Verdrag wordt zodanig uitgelegd dat:
 
@@ -106,7 +117,7 @@ Geen enkele bepaling van dit Verdrag wordt zodanig uitgelegd dat:
 
 ## DEEL II. – BIJDRAGE VAN CULTUREEL ERFGOED AAN DE SAMENLEVING EN DE MENSELIJKE ONTWIKKELING
 
-#### Artikel 7. – Cultureel erfgoed en dialoog
+##### Artikel 7. – Cultureel erfgoed en dialoog
 
 De Partijen verbinden zich ertoe, via de publieke autoriteiten en andere bevoegde instanties:
 
@@ -118,7 +129,7 @@ De Partijen verbinden zich ertoe, via de publieke autoriteiten en andere bevoegd
 
 - d. deze benaderingen te integreren in alle aspecten van een leven lang leren en opleiden.
 
-#### Artikel 8. -Omgeving, erfgoed en kwaliteit van leven
+##### Artikel 8. -Omgeving, erfgoed en kwaliteit van leven
 
 De Partijen verbinden zich ertoe alle erfgoedaspecten van de culturele omgeving te gebruiken voor:
 
@@ -130,7 +141,7 @@ De Partijen verbinden zich ertoe alle erfgoedaspecten van de culturele omgeving 
 
 - d. het bevorderen van het streven naar kwaliteit van hedendaagse toevoegingen aan de omgeving zonder de culturele waarden daarvan in gevaar te brengen.
 
-#### Artikel 9. – Duurzaam gebruik van het cultureel erfgoed
+##### Artikel 9. – Duurzaam gebruik van het cultureel erfgoed
 
 Om het cultureel erfgoed duurzaam in stand te houden verbinden de Partijen zich ertoe:
 
@@ -144,7 +155,7 @@ Om het cultureel erfgoed duurzaam in stand te houden verbinden de Partijen zich 
 
 - e. werk van hoge kwaliteit te bevorderen door middel van stelsels van beroepskwalificaties en accreditatie van individuen, ondernemingen en instellingen.
 
-#### Artikel 10. – Cultureel erfgoed en economische activiteit
+##### Artikel 10. – Cultureel erfgoed en economische activiteit
 
 Teneinde optimaal gebruik te maken van het potentieel van het cultureel erfgoed als een factor in duurzame economische ontwikkeling, verbinden de Partijen zich ertoe:
 
@@ -156,7 +167,7 @@ Teneinde optimaal gebruik te maken van het potentieel van het cultureel erfgoed 
 
 ## DEEL III. – GEDEELDE VERANTWOORDELIJKHEID VOOR CULTUREEL ERFGOED EN PUBLIEKE PARTICIPATIE
 
-#### Artikel 11. – Organisatie van publieke verantwoordelijkheden voor cultureel erfgoed
+##### Artikel 11. – Organisatie van publieke verantwoordelijkheden voor cultureel erfgoed
 
 Bij de zorg voor het cultureel erfgoed verbinden de Partijen zich ertoe:
 
@@ -170,7 +181,7 @@ Bij de zorg voor het cultureel erfgoed verbinden de Partijen zich ertoe:
 
 - e. niet-gouvernementele organisaties die betrokken zijn bij het behoud van erfgoed aan te moedigen actie te ondernemen in het algemeen belang.
 
-#### Artikel 12. – Toegang tot cultureel erfgoed en democratische participatie
+##### Artikel 12. – Toegang tot cultureel erfgoed en democratische participatie
 
 De Partijen verbinden zich ertoe:
 
@@ -186,7 +197,7 @@ De Partijen verbinden zich ertoe:
 
 - d. maatregelen te nemen om toegang tot het erfgoed te verbeteren, met name voor jongeren en mensen in een achtergestelde positie, teneinde bewustwording te bevorderen over de waarde ervan, de noodzaak het te onderhouden en te behouden en de voordelen die eruit kunnen voortvloeien.
 
-#### Artikel 13. – Cultureel erfgoed en kennis
+##### Artikel 13. – Cultureel erfgoed en kennis
 
 De Partijen verbinden zich ertoe:
 
@@ -198,7 +209,7 @@ De Partijen verbinden zich ertoe:
 
 - d. voortdurende professionele ontwikkeling en uitwisseling van kennis en vaardigheden, zowel binnen als buiten het onderwijsstelsel, aan te moedigen.
 
-#### Artikel 14. – Cultureel erfgoed en de informatiemaatschappij
+##### Artikel 14. – Cultureel erfgoed en de informatiemaatschappij
 
 De Partijen verbinden zich ertoe het gebruik van digitale technologie te ontwikkelen om de toegang tot cultureel erfgoed en de voordelen die eruit voortvloeien te verbeteren, door:
 
@@ -212,7 +223,7 @@ De Partijen verbinden zich ertoe het gebruik van digitale technologie te ontwikk
 
 ## DEEL IV. – MONITORING EN SAMENWERKING
 
-#### Artikel 15. – Verbintenissen van de Partijen
+##### Artikel 15. – Verbintenissen van de Partijen
 
 De Partijen verbinden zich ertoe:
 
@@ -220,7 +231,7 @@ De Partijen verbinden zich ertoe:
 
 - b. gegevens te onderhouden en te ontwikkelen en deze toe te voegen aan een gedeeld informatiesysteem, voor het publiek toegankelijk, waardoor het gemakkelijker wordt vast te stellen in hoeverre elke Partij haar verplichtingen ingevolge dit Verdrag nakomt.
 
-#### Artikel 16. – Monitoringmechanisme
+##### Artikel 16. – Monitoringmechanisme
 
 - a. Het Comité van Ministers benoemt, uit hoofde van [artikel 17 van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=17), een speciaal comité of wijst een bestaand comité aan, dat belast is met de monitoring van de toepassing van het Verdrag en dat bevoegd is de regels voor de uitvoering van zijn taken op te stellen;
 
@@ -240,7 +251,7 @@ De Partijen verbinden zich ertoe:
 
 Het comité kan deskundigen en waarnemers bij zijn werkzaamheden betrekken.
 
-#### Artikel 17. – Samenwerking bij follow-upactiviteiten
+##### Artikel 17. – Samenwerking bij follow-upactiviteiten
 
 De Partijen verbinden zich ertoe met elkaar en via de Raad van Europa samen te werken bij het nastreven van de doelen en beginselen van dit Verdrag, en met name bij het bevorderen van de erkenning van het gemeenschappelijke Europese erfgoed, door:
 
@@ -256,7 +267,7 @@ Alle Partijen kunnen, in onderlinge overeenstemming, financiële afspraken maken
 
 ## HOOFDSTUK V. – SLOTBEPALINGEN
 
-#### Artikel 18. – Ondertekening en inwerkingtreding
+##### Artikel 18. – Ondertekening en inwerkingtreding
 
 - a. Dit Verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa.
 
@@ -266,13 +277,13 @@ Alle Partijen kunnen, in onderlinge overeenstemming, financiële afspraken maken
 
 - d. Met betrekking tot elke ondertekenende Staat die later zijn instemming door het Verdrag te worden gebonden tot uitdrukking brengt, treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 19. – Toetreding
+##### Artikel 19. – Toetreding
 
 - a. Na de inwerkingtreding van dit Verdrag, kan het Comité van Ministers van de Raad van Europa elke Staat die geen lid is van de Raad van Europa, alsmede de Europese Gemeenschap, uitnodigen toe te treden tot dit Verdrag, door een door de meerderheid als voorzien in [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) genomen besluit en met algemene stemmen van de vertegenwoordigers van de verdragsluitende Staten die Partij zijn die recht hebben op een zetel in het Comité van Ministers.
 
 - b. Ten aanzien van elke toetredende Staat, of de Europese Gemeenschap ingeval zij toetreedt, treedt dit Verdrag in werking op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 20. – Territoriale toepassing
+##### Artikel 20. – Territoriale toepassing
 
 - a. Elke Staat kan, bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het gebied of de gebieden waarop dit Verdrag van toepassing is nader aanduiden.
 
@@ -280,13 +291,13 @@ Alle Partijen kunnen, in onderlinge overeenstemming, financiële afspraken maken
 
 - c. Elke krachtens de twee voorgaande leden afgelegde verklaring kan, met betrekking tot elk in die verklaring aangewezen gebied, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 21. – Opzegging
+##### Artikel 21. – Opzegging
 
 - a. Elke Partij kan dit Verdrag te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
 - b. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 22. – Wijzigingen
+##### Artikel 22. – Wijzigingen
 
 - a. Alle Partijen en het comité genoemd in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0007033&deel=IV&artikel=16&z=2005-10-27&g=2005-10-27) kunnen wijzigingen van dit Verdrag voorstellen.
 
@@ -296,7 +307,7 @@ Alle Partijen kunnen, in onderlinge overeenstemming, financiële afspraken maken
 
 - d. Ten aanzien van de Partijen die een wijziging hebben aanvaard treedt deze in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop tien lidstaten van de Raad van Europa de Secretaris-Generaal ervan in kennis hebben gesteld dat zij de wijziging hebben aanvaard. Met betrekking tot elke Partij die nadien de wijziging aanvaardt, wordt de wijziging van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop die Partij de Secretaris-Generaal in kennis heeft gesteld van haar aanvaarding.
 
-#### Artikel 23. Kennisgevingen
+##### Artikel 23. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, elke Staat die tot dit Verdrag is toegetreden of is uitgenodigd toe te treden, en de Europese Gemeenschap die tot dit Verdrag is toegetreden of is uitgenodigd toe te treden, in kennis van:
 

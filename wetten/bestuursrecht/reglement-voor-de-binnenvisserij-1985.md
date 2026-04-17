@@ -1,13 +1,39 @@
 ---
-title: "Reglement voor de binnenvisserij 1985"
+title: "Besluit van 19 november 1997, houdende vaststelling van het Reglement voor de binnenvisserij 1985"
 identifier: "BWBR0009027"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-07-01
-laatste_update: 2019-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009027"
+country: "nl"
+rank: "amvb"
+publication_date: "2019-07-01"
+last_updated: "2019-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009027"
+soort: "AMvB"
+stam_id: "2052663"
+version_id: "19657212"
+internal_id: "C27582511"
+label_id: "2000884"
+dtd_version: "2.0"
+original_entry_into_force: "2012-09-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009027/2019-07-01/0"
+intitule_bron: "Stb.1997-639"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-11-19"
+intitule_published: "1997-12-16"
+intitule_in_force: "1997-12-16"
+intitule_status: "goed"
+original_publication: "Stb.2012-439"
+original_signed_date: "2012-09-22"
+original_published_date: "2012-09-28"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2012-439"
+entry_into_force_date: "2012-09-22"
+jci_1_3: "jci1.3:c:BWBR0009027&z=2019-07-01&g=2019-07-01"
+jci_1_0: "1.0:c:BWBR0009027&g=2019-07-01"
+citeertitel_status: "officieel"
+short_title: "Reglement voor de binnenvisserij 1985"
+signed_date: "2012-09-22"
+entry_into_force: "2012-09-22"
 ---
-
 # Besluit van 19 november 1997, houdende vaststelling van het Reglement voor de binnenvisserij 1985
 
 Op de voordracht van Onze Minister van Landbouw, Natuurbeheer en Visserij, van 23 juli 1997, no. J. 977964, Directie Juridische Zaken;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Landbouw, Natuurbeheer en Visseri
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -70,7 +96,7 @@ Hebben goedgevonden en verstaan:
 
 - b. waar een open verbinding is, de lijn gaande over de uitmonding, met dien verstande dat de grensscheiding tussen het Gooi- en Eemmeer en het IJsselmeer wordt gevormd door de as van de verkeersbrug nabij Muiderberg en dat de grensscheiding tussen het Ketelmeer en het IJsselmeer wordt gevormd door de as van de verkeersbrug nabij de Zwolsche Hoek.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden te vissen met andere vistuigen dan de volgende:
 
@@ -116,11 +142,11 @@ Hebben goedgevonden en verstaan:
 
 3. Het is verboden te vissen met een vistuig waarvan het netwerk van metaal- of niet vervormend kunststofgaas is vervaardigd, met uitzondering van de kreeftenkorf.
 
-#### Artikel 3
+##### Artikel 3
 
 Het is degene die vist met de hengel of de peur verboden de daarmee gevangen vis in de handel te brengen, te koop aan te bieden of te vervreemden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het is verboden met de volgende vistuigen te vissen, indien de maaswijdte kleiner is dan het aantal millimeters, vermeld achter het desbetreffende vistuig:
 
@@ -136,7 +162,7 @@ Het is degene die vist met de hengel of de peur verboden de daarmee gevangen vis
 
 4. Het is verboden te vissen met een vistuig,, indien met betrekking tot dat vistuig enige handeling is verricht of enig middel is aangewend, waardoor het ontsnappen van vis kan worden bemoeilijkt of belet.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het is verboden een vistuig door het water voort te trekken, anders dan om in het water te brengen, te lichten, op te halen of binnen te halen.
 
@@ -152,7 +178,7 @@ Het is degene die vist met de hengel of de peur verboden de daarmee gevangen vis
 
 - e. de zegen, mits deze is voorzien van een bovenpees van een lengte van meer dan 100 m en wordt voortgetrokken met een snelheid van minder dan 2 km/uur, gemeten ten opzichte van het water.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het is verboden te vissen van 1 april tot en met 31 mei met:
 
@@ -172,7 +198,7 @@ Het is degene die vist met de hengel of de peur verboden de daarmee gevangen vis
 
 4. Onze Minister kan het vissen verbieden in een of meer door hem aan te wijzen wateren met één of meer door hem aan te wijzen vistuigen gedurende het gehele jaar dan wel gedurende een nader te bepalen gedeelte van het jaar. Daarbij kan worden afgeweken van het eerste lid.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het is verboden tussen twee uur na zonsondergang en één uur voor zonsopgang te vissen.
 
@@ -188,13 +214,13 @@ Het is degene die vist met de hengel of de peur verboden de daarmee gevangen vis
 
 - e. voor het vissen in de Rijn, de Maas, de IJssel en alle andere stromende wateren die met deze wateren in open verbinding staan en daarvan water afvoeren.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het is verboden te vissen in het IJsselmeer zonder voorzien te zijn van een vergunning van Onze Minister geldende voor de visserij, welke wordt uitgeoefend.
 
 2. Het verbod geldt niet voor zover wordt gevist met ten hoogste twee hengels.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij ministeriële regeling kan het vissen bij vispassages, stuwen, sluizen of gemalen worden verboden.
 
@@ -216,7 +242,7 @@ Het is degene die vist met de hengel of de peur verboden de daarmee gevangen vis
 
 - c. het terugzetten van gevangen vis.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het is verboden op of in de nabijheid van enig binnenwater een of meer vistuigen voorhanden te hebben indien:
 
@@ -230,41 +256,41 @@ Het is degene die vist met de hengel of de peur verboden de daarmee gevangen vis
 
 3. Het is verboden op het IJsselmeer, anders dan in een haven, vistuig aan boord van een vissersvaartuig als bedoeld in [artikel 1, onderdeel b, van het Besluit registratie vissersvaartuigen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=1) te hebben, indien het gebruik daarvan, ingevolge het bij of krachtens dit besluit bepaalde, verboden is.
 
-#### Artikel 11
+##### Artikel 11
 
 Onze Minister kan vrijstelling of ontheffing verlenen van de bepalingen bij of krachtens dit besluit.
 
-#### Artikel 12
+##### Artikel 12
 
 Aan vrijstellingen, ontheffingen en vergunningen als bedoeld in de vorige artikelen kunnen voorschriften worden verbonden. Zij kunnen onder beperkingen worden verleend. Zij kunnen te allen tijde worden ingetrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 Na inwerkingtreding van dit besluit berusten de krachtens het Reglement voor de binnenvisserij 1985 vastgestelde regels en andere besluiten op dit besluit.
 
-#### Artikel 14
+##### Artikel 14
 
 Het Reglement voor de binnenvisserij 1985 wordt ingetrokken.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit wordt aangehaald als: Reglement voor de binnenvisserij 1985.
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. Een ieder die vis van de door Onze Minister aangewezen soorten aanvoert, aan- of verkoopt of onder zich houdt, of die bemiddeling verleent bij het veilen van die vis, is verplicht een administratie te voeren en aan Onze Minister periodiek of op verzoek opgave te doen van de hoeveelheden vis door hem aangevoerd, aan- of verkocht, onder zich gehouden, dan wel aan hem ter veiling aangeboden.
 
@@ -274,13 +300,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 10b
+##### Artikel 10b
 
 In het belang van de visserij is Onze Minister bevoegd regelen te stellen ter uitvoering van op grond van internationale overeenkomsten of van besluiten van volkenrechtelijke organisaties opgelegde verplichtingen of verleende bevoegdheden.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Het is verboden te vissen met de vistuigen genoemd in [artikel 2, eerste lid, onderdelen c tot en met q](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=2019-07-01&g=2019-07-01), tenzij dat vissen plaatsvindt in het IJsselmeer.
 

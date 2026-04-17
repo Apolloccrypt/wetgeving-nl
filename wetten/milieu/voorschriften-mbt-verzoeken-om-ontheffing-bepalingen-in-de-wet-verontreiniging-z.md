@@ -1,20 +1,44 @@
 ---
 title: "Voorschriften m.b.t. verzoeken om ontheffing bepalingen in de Wet verontreiniging zeewater"
 identifier: "BWBR0003613"
-categorie: "Milieu"
-publicatiedatum: 2008-10-01
-laatste_update: 2008-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003613"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-10-01"
+last_updated: "2008-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003613"
+soort: "ministeriele-regeling"
+stam_id: "3790843"
+version_id: "5573722"
+internal_id: "C5766811"
+label_id: "3770604"
+dtd_version: "2.0"
+original_entry_into_force: "1983-09-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003613/2008-10-01/0"
+intitule_bron: "Stcrt.1983-168"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1983-08-22"
+intitule_published: "1983-08-31"
+intitule_in_force: "1983-08-31"
+intitule_status: "goed"
+original_publication: "Stcrt.1983-168"
+original_signed_date: "1983-08-22"
+original_published_date: "1983-08-31"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1983-09-20"
+jci_1_3: "jci1.3:c:BWBR0003613&z=2008-10-01&g=2008-10-01"
+jci_1_0: "1.0:c:BWBR0003613&g=2008-10-01"
+citeertitel_status: "officieel"
+signed_date: "1983-08-22"
+entry_into_force: "1983-09-20"
 ---
-
 # Voorschriften m.b.t. verzoeken om ontheffing bepalingen in de Wet verontreiniging zeewater
 
 Gelet op [artikel 8, eerste lid, van de Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975&artikel=8),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
@@ -24,11 +48,11 @@ In deze beschikking wordt verstaan onder:
 
 - **de hoofdingenieur-directeur;** de hoofdingenieur-directeur van de Rijkswaterstaat in de dienst Noordzee.
 
-#### Artikel 2
+##### Artikel 2
 
 Een verzoek om ontheffing als bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002975&artikel=3) of tot wijziging van de aan de ontheffing verbonden voorschriften wordt ingediend bij de hoofdingenieur-directeur.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij het verzoek om ontheffing als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=2&z=2008-10-01&g=2008-10-01) dienen, onverminderd het bepaalde in het tweede, derde en vierde lid, de volgende gegevens schriftelijk te worden verstrekt:
 
@@ -66,11 +90,11 @@ Een verzoek om ontheffing als bedoeld in [artikel 3, eerste lid, van de wet](htt
 
 4. Indien met betrekking tot de periode waarvoor om ontheffing wordt verzocht voornemens bestaan die al dan niet rechtstreeks betrekking kunnen hebben op in de voorgaande leden bedoelde aspecten, dient de invloed van die voornemens op deze aspecten bij het verzoek te worden omschreven en zoveel mogelijk te worden gekwantificeerd.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien de Minister van Verkeer en Waterstaat van oordeel is dat de verstrekte gegevens voor een voldoende beoordeling van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=2&z=2008-10-01&g=2008-10-01) bedoelde verzoek aanvulling behoeven, kan hij verlangen dat daartoe de nodige nadere of verdere, door hem aangeduide, gegevens worden verstrekt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij het verzoek tot wijziging van de aan een ontheffing verbonden voorschriften als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=2&z=2008-10-01&g=2008-10-01) dienen de volgende gegevens te worden verstrekt:
 
@@ -84,21 +108,21 @@ Indien de Minister van Verkeer en Waterstaat van oordeel is dat de verstrekte ge
 
 2. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=4&z=2008-10-01&g=2008-10-01) is van overeenkomstige toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=2&z=2008-10-01&g=2008-10-01) bedoelde verzoek, alsmede de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=3&z=2008-10-01&g=2008-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=4&z=2008-10-01&g=2008-10-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=5&z=2008-10-01&g=2008-10-01) bedoelde gegevens dienen in tienvoud te worden verstrekt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ten behoeve van het verstrekken van de gevraagde gegevens in verband met een verzoek als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&artikel=2&z=2008-10-01&g=2008-10-01) dient gebruik te worden gemaakt van de formulieren waarvan de modellen zijn opgenomen in de bij dit besluit behorende [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&bijlage=II&z=2008-10-01&g=2008-10-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&bijlage=III&z=2008-10-01&g=2008-10-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&bijlage=IV&z=2008-10-01&g=2008-10-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0003613&bijlage=V&z=2008-10-01&g=2008-10-01).
 
 2. De in het eerste lid bedoelde formulieren zijn verkrijgbaar bij de hoofdingenieur-directeur.
 
-#### Artikel 8
+##### Artikel 8
 
 Het besluit van 24 mei 1977, nr. HW/RRW 33865 (Stcrt. 134), betreffende voorschriften voor verzoeken om ontheffing van bepalingen in de [Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975), wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking op de twintigste dag na afkondiging in de Nederlandse Staatscourant.
 

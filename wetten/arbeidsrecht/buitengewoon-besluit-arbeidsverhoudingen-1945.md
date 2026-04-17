@@ -1,13 +1,35 @@
 ---
-title: "Buitengewoon Besluit Arbeidsverhoudingen 1945"
+title: "Besluit van 5 oktober 1945, houdende vaststelling van het Buitengewoon Besluit Arbeidsverhoudingen 1945"
 identifier: "BWBR0002014"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002014"
+country: "nl"
+rank: "kb"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002014"
+soort: "KB"
+stam_id: "248253"
+version_id: "350742"
+internal_id: "C350741"
+label_id: "243874"
+dtd_version: "2.0"
+original_entry_into_force: "1945-10-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002014/2020-01-01/0"
+intitule_bron: "Stb.1945-F 214"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1945-10-05"
+intitule_status: "goed"
+original_publication: "Stb.1945-F 214"
+original_signed_date: "1945-10-05"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1945-10-15"
+jci_1_3: "jci1.3:c:BWBR0002014&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0002014&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Buitengewoon Besluit Arbeidsverhoudingen 1945"
+signed_date: "1945-10-05"
+entry_into_force: "1945-10-15"
 ---
-
 # Besluit van 5 oktober 1945, houdende vaststelling van het Buitengewoon Besluit Arbeidsverhoudingen 1945
 
 Op de voordracht van Onzen Minister van Sociale Zaken van 5 September 1945, n°. 4600, afdeeling Arbeid II;
@@ -24,7 +46,7 @@ vast te stellen de navolgende bepalingen
 
 #### Eerste titel. Algemene Bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -50,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 - g. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit besluit is niet van toepassing op de arbeidsverhouding van:
 
@@ -64,29 +86,29 @@ In dit besluit wordt verstaan onder:
 
 3. Onze Minister kan voorts bepalen, dat dit besluit of sommige artikelen van dit besluit niet van toepassing zijn op de arbeidsverhouding van door hem aangewezen werknemers of groepen van werknemers.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
 #### Tweede titel. Van het aangaan en het beëindigen der arbeidsverhouding en daarmede verband houdende onderwerpen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het is de werkgever verboden de werktijd van de werknemer op minder dan 48 uur per week te stellen of gesteld te houden.
 
@@ -100,109 +122,109 @@ Vervallen
 
 3. Van het bepaalde in het eerste lid kan voorts door of vanwege Onze Minister voor bepaalde werknemers of groepen van werknemers voorwaardelijk of onvoorwaardelijk ontheffing worden verleend.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
 #### Derde titel. Van de lonen en andere arbeidsvoorwaarden
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
 #### Vierde titel. Strafbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
 #### Vijfde titel. Slotbepalingen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 

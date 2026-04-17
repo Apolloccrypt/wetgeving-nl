@@ -1,13 +1,37 @@
 ---
-title: "Besluit aanwijzing gevallen waarin arbeidsverhouding als dienstbetrekking wordt beschouwd"
+title: "Besluit van 24 december 1986, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 5 van de Wet op de arbeidsongeschiktheidsverzekering, artikel 5 van de Ziektewet en artikel 5 van de Werkloosheidswet"
 identifier: "BWBR0004090"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004090"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004090"
+soort: "AMvB"
+stam_id: "42763"
+version_id: "15994212"
+internal_id: "C21906641"
+label_id: "42674"
+dtd_version: "2.0"
+original_entry_into_force: "2008-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004090/2024-01-01/0"
+intitule_bron: "Stb.1986-655"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1986-12-24"
+intitule_status: "goed"
+original_publication: "Stb.2008-574"
+original_signed_date: "2008-12-18"
+original_published_date: "2008-12-29"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2008-574"
+entry_into_force_date: "2008-12-18"
+jci_1_3: "jci1.3:c:BWBR0004090&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0004090&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit aanwijzing gevallen waarin arbeidsverhouding als dienstbetrekking wordt beschouwd"
+signed_date: "2008-12-18"
+entry_into_force: "2008-12-18"
 ---
-
 # Besluit van 24 december 1986, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 5 van de Wet op de arbeidsongeschiktheidsverzekering, artikel 5 van de Ziektewet en artikel 5 van de Werkloosheidswet
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 november 1986, Directoraat-Generaal Sociale Zekerheid, Directie Sociale Verzekeringen, Hoofdafdeling Werknemersverzekeringen, Afdeling Werkloosheidsregelingen, nr. SZ/SV/WV/WW/SVW/86/09845;
@@ -20,7 +44,7 @@ Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelege
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Als dienstbetrekking in de zin van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) wordt beschouwd de arbeidsverhouding van de persoon die als thuiswerker arbeid verricht en van de persoon die hem als hulp bij het verrichten van zijn arbeid bijstaat, indien zij deze arbeid persoonlijk verrichten.
 
@@ -38,7 +62,7 @@ Hebben goedgevonden en verstaan:
 
 5. Dit artikel is niet van toepassing met betrekking tot de arbeidsverhouding van degene die werkzaam is op basis van een voor aanvang van de betaling van de beloning gesloten schriftelijke overeenkomst waaruit blijkt dat het de bedoeling is van beide partijen dat dit artikel niet van toepassing is.
 
-#### Artikel 2
+##### Artikel 2
 
 Als dienstbetrekking wordt niet beschouwd de arbeidsverhouding van de thuiswerker die:
 
@@ -46,23 +70,23 @@ Als dienstbetrekking wordt niet beschouwd de arbeidsverhouding van de thuiswerke
 
 - b. behoort tot een groep personen, aangewezen door Onze Minister.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Zonodig in afwijking van de [artikelen 3, 4 en 5, onderdeel **a, b** en **c**, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=3), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) wordt als dienstbetrekking beschouwd de arbeidsverhouding van de persoon die persoonlijk arbeid verricht ten behoeve van een derde door tussenkomst van de natuurlijke persoon tot wie of van het lichaam tot welk de arbeidsverhouding bestaat.
 
 2. Het eerste lid is niet van toepassing in gevallen, aangewezen door Onze Minister.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Als dienstbetrekking wordt beschouwd de arbeidsverhouding van de persoon die als musicus of anderszins als artiest optreedt.
 
 2. Dit artikel is niet van toepassing indien de werkzaamheden worden verricht op basis van een voor aanvang van de betaling van de beloning gesloten schriftelijke overeenkomst waaruit blijkt dat het de bedoeling is van beide partijen dat dit artikel niet van toepassing is.
 
-#### Artikel 4a
+##### Artikel 4a
 
 Als dienstbetrekking wordt beschouwd de arbeidsverhouding van de topsporter die op grond van het in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport vastgestelde reglement van de stichting Fonds voor de Topsporter een periodieke uitkering als tegemoetkoming in de kosten van zijn levensonderhoud geniet.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als dienstbetrekking wordt beschouwd de arbeidsverhouding van de persoon die, anders dan bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=1&z=2024-01-01&g=2024-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=3&z=2024-01-01&g=2024-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=4&z=2024-01-01&g=2024-01-01) en [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=4a&z=2024-01-01&g=2024-01-01), persoonlijk arbeid verricht op doorgaans ten minste twee dagen per week.
 
@@ -76,15 +100,15 @@ Als dienstbetrekking wordt beschouwd de arbeidsverhouding van de topsporter die 
 
 4. Dit artikel is niet van toepassing met betrekking tot de arbeidsverhouding van degene die werkzaam is op basis van een voor aanvang van de betaling van de beloning gesloten schriftelijke overeenkomst waaruit blijkt dat het de bedoeling is van beide partijen dat dit artikel niet van toepassing is.
 
-#### Artikel 6
+##### Artikel 6
 
 Als werkgever wordt beschouwd in de gevallen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=3&z=2024-01-01&g=2024-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=5&z=2024-01-01&g=2024-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=5a&z=2024-01-01&g=2024-01-01), de natuurlijke persoon op wie of het lichaam waarop de verplichting rust het loon te betalen, niet zijnde, in de gevallen, bedoeld in [artikel 5a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=5a&z=2024-01-01&g=2024-01-01), degene, bedoeld in [artikel 5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=5a&z=2024-01-01&g=2024-01-01), met of voor wie de seksuele handelingen worden verricht.
 
-#### Artikel 7
+##### Artikel 7
 
 Onder bruto-inkomen, genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=1&z=2024-01-01&g=2024-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=5&z=2024-01-01&g=2024-01-01), wordt verstaan het loon in de zin van de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638).
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voor de toepassing van dit besluit wordt niet als dienstbetrekking beschouwd de arbeidsverhouding van de persoon:
 
@@ -100,21 +124,21 @@ Onder bruto-inkomen, genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1
 
 2. Onze Minister is bevoegd regels te stellen met betrekking tot het eerste lid.
 
-#### Artikel 9
+##### Artikel 9
 
 Tussen Onze Minister en Onze Minister van Financiën dient overeenstemming te bestaan omtrent het aanwijzen van een groep personen of van gevallen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=2&z=2024-01-01&g=2024-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=3&z=2024-01-01&g=2024-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=5&z=2024-01-01&g=2024-01-01) en omtrent het stellen van regels, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004090&artikel=8&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 10
+##### Artikel 10
 
 Het besluit van 14 december 1973, **Stb.** 627, wordt ingetrokken.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking met ingang van 1 januari 1987.
 
 Lasten en bevelen, dat dit besluit, met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Als dienstbetrekking wordt beschouwd de arbeidsverhouding van de persoon die als sekswerker persoonlijk arbeid verricht, tenzij wordt voldaan aan bij ministeriële regeling te stellen regels.
 

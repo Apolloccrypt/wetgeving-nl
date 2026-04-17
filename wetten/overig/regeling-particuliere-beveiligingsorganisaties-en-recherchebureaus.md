@@ -1,13 +1,38 @@
 ---
 title: "Regeling particuliere beveiligingsorganisaties en recherchebureaus"
 identifier: "BWBR0010256"
-categorie: "Overig"
-publicatiedatum: 2024-07-27
-laatste_update: 2024-07-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010256"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-07-27"
+last_updated: "2024-07-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010256"
+soort: "ministeriele-regeling"
+stam_id: "5012013"
+version_id: "20555652"
+internal_id: "C28904541"
+label_id: "4988924"
+dtd_version: "2.0"
+original_entry_into_force: "2013-06-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010256/2024-07-27/0"
+intitule_bron: "Stcrt.1999-60"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-02-01"
+intitule_published: "1999-03-26"
+intitule_in_force: "1999-03-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-14956"
+original_signed_date: "2013-06-03"
+original_published_date: "2013-06-07"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2013-14956"
+entry_into_force_date: "2013-06-03"
+jci_1_3: "jci1.3:c:BWBR0010256&z=2024-07-27&g=2024-07-27"
+jci_1_0: "1.0:c:BWBR0010256&g=2024-07-27"
+citeertitel_status: "officieel"
+signed_date: "2013-06-03"
+entry_into_force: "2013-06-03"
 ---
-
 # Regeling particuliere beveiligingsorganisaties en recherchebureaus
 
 gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=9) en [10 van de Wet particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=10);
@@ -16,7 +41,7 @@ Besluit:
 
 #### 1. Algemene bepalingen
 
-#### Artikel 1. (definitiebepalingen)
+##### Artikel 1. (definitiebepalingen)
 
 1. In deze regeling wordt verstaan onder:
 
@@ -48,23 +73,23 @@ Besluit:
 
 2. Overige in deze regeling voorkomende begrippen hebben dezelfde betekenis als in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973).
 
-#### Artikel 2. (optreden naar buiten)
+##### Artikel 2. (optreden naar buiten)
 
 De wijze van acquisitie en promotie door een beveiligingsorganisatie en een recherchebureau, alsmede het optreden naar buiten, de presentatie en de uitvoering van de werkzaamheden, zijn niet in strijd met de belangen van de veiligheidszorg of de goede naam van de bedrijfstak.
 
-#### Artikel 3. (opzet en inrichting)
+##### Artikel 3. (opzet en inrichting)
 
 1. De opzet en de inrichting van een beveiligingsorganisatie of recherchebureau zijn zodanig dat regelmatige, continue en volledige uitoefening van de beveiligings- dan wel recherchewerkzaamheden waartoe de organisatie of het bureau zich heeft verbonden, is gewaarborgd.
 
 2. Het eerste lid is niet van toepassing op een beveiligingsorganisatie die werkzaamheden verricht als bedoeld in artikel 3, onder d, van de wet.
 
-#### Artikel 4. (vertrouwelijke gegevens)
+##### Artikel 4. (vertrouwelijke gegevens)
 
 Een beveiligingsorganisatie of recherchebureau treft maatregelen om te voorkomen dat persoons- en andere vertrouwelijke gegevens in handen van onbevoegden komen.
 
 #### 2. Opleidingseisen
 
-#### Artikel 5. (algemene opleiding)
+##### Artikel 5. (algemene opleiding)
 
 1. Een beveiligingsorganisatie belast uitsluitend een persoon met beveiligingswerkzaamheden, indien deze in het bezit is van een op zijn naam gesteld diploma Beveiliger van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties.
 
@@ -106,15 +131,15 @@ Aan de onderbreking of verlenging kunnen voorwaarden worden verbonden.
 
 - k. een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als beveiliger.
 
-#### Artikel 6. (bestuursorganen)
+##### Artikel 6. (bestuursorganen)
 
 [Artikel 5, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2024-07-27&g=2024-07-27), van deze regeling, is van overeenkomstige toepassing op personen in dienst van een bestuursorgaan, die in de uitoefening van hun functie beveiligingswerkzaamheden verrichten.
 
-#### Artikel 7. (horecaportiers)
+##### Artikel 7. (horecaportiers)
 
 In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2024-07-27&g=2024-07-27), van deze regeling, kan een beveiligingsorganisatie een persoon met beveiligingswerkzaamheden belasten ten behoeve van een horecabedrijf, indien deze in het bezit is van een op naam gesteld diploma horecaportier van de Stichting Vakbekwaamheid Horeca of van het Horeca Branche Instituut, dan wel van de Stichting Nationaal Onderwijscentrum van de Bedrijfstak Horeca, dan wel een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als horecaportier.
 
-#### Artikel 8. (voetbalorganisaties)
+##### Artikel 8. (voetbalorganisaties)
 
 1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2024-07-27&g=2024-07-27), kan een beveiligingsorganisatie een persoon die niet beschikt over het in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=7a&z=2024-07-27&g=2024-07-27), genoemde certificaat met beveiligingswerkzaamheden belasten bij voetbalwedstrijden in het betaald voetbal als aan de volgende voorwaarden is voldaan:
 
@@ -132,7 +157,7 @@ In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - c. het betreft beveiligingswerkzaamheden kort voor, tijdens of kort na de wedstrijd van de voetbalorganisatie, in en rond het stadion waar de wedstrijden, bedoeld in de aanhef, plaatsvinden.
 
-#### Artikel 9. (ongeuniformeerden)
+##### Artikel 9. (ongeuniformeerden)
 
 1. Onverminderd [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2024-07-27&g=2024-07-27), van deze regeling, belast een beveiligingsorganisatie uitsluitend een persoon ongeüniformeerd met beveiligingswerkzaamheden, indien deze in het bezit is van een op zijn naam gesteld certificaat persoonsbeveiliging van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties (SVPB) dan wel het diploma Beveiligingsmedewerker, differentiatie persoonsbeveiliger van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties, dan wel een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als ongeüniformeerd persoonsbeveiliger.
 
@@ -144,7 +169,7 @@ In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 5. Als gelijkwaardig aan het diploma in het derde lid wordt erkend het Certificaat Detailhandel van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties.
 
-#### Artikel 10. (particulier rechercheurs)
+##### Artikel 10. (particulier rechercheurs)
 
 1. Een recherchebureau belast uitsluitend een persoon met recherchewerkzaamheden, indien deze in het bezit is van een op naam gesteld diploma particulier onderzoeker van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties.
 
@@ -154,7 +179,7 @@ In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 4. De in het derde lid genoemde periode van maximaal 12 maanden wordt op geen enkele wijze onderbroken, verlengd of geschorst.
 
-#### Artikel 11. (alarminstallateurs)
+##### Artikel 11. (alarminstallateurs)
 
 1. Een beveiligingsorganisatie die werkzaamheden verricht als bedoeld in [artikel 3, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=3), aan welke een vergunning is verleend, laat het plan voor de installatie, de installatie en het onderhoud van de alarmapparatuur die hij gebruikt, slechts opstellen dan wel uitvoeren door alarminstallateurs die in het bezit zijn van een diploma dat de instemming heeft van de minister.
 
@@ -168,7 +193,7 @@ In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 #### 3. Uniformen
 
-#### Artikel 12. (uiterlijk uniform en ontheffing)
+##### Artikel 12. (uiterlijk uniform en ontheffing)
 
 1. Het uniform, bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=9), is voorzien van een embleem, overeenkomstig het in bijlage 1 bij deze regeling vastgestelde model, op de wijze zoals in genoemde bijlage is omschreven.
 
@@ -176,7 +201,7 @@ In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 #### 3. Uniformen
 
-#### Artikel 13. (model legitimatiebewijs)
+##### Artikel 13. (model legitimatiebewijs)
 
 1. Het legitimatiebewijs, bedoeld in [artikel 9, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=9), komt overeen met het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=2&z=2024-07-27&g=2024-07-27) bij deze regeling vastgestelde model en de in die bijlage aangeduide kleur. Indien het legitimatiebewijs wordt afgegeven door de commandant, wordt de in het model vervatte aanduiding van de korpschef als afgever van het legitimatiebewijs overeenkomstig aangepast.
 
@@ -200,23 +225,23 @@ In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 #### 3. Uniformen
 
-#### Artikel 14. (instructie voor personeel)
+##### Artikel 14. (instructie voor personeel)
 
 Vervallen
 
-#### Artikel 15. (controle van personeel)
+##### Artikel 15. (controle van personeel)
 
 Vervallen
 
 #### 5. Instructie van en controle op het personeel
 
-#### Artikel 16. (jaarlijks verslag)
+##### Artikel 16. (jaarlijks verslag)
 
 Vervallen
 
 #### 6. Verslaglegging
 
-#### Artikel 17. (gebruik hond)
+##### Artikel 17. (gebruik hond)
 
 1. Een beveiligingsorganisatie kan bij de uitvoering van beveiligingswerkzaamheden gebruik maken van een hond, tenzij in de vergunning anders is bepaald. Gebruik maken van een hond is slechts toegestaan indien uit een verklaring, afgegeven door een instantie die de toestemming heeft van de minister, blijkt dat deze hond geschikt is om als surveillancehond of objectbewakingshond te worden ingezet.
 
@@ -236,7 +261,7 @@ Vervallen
 
 #### 6. Verslaglegging
 
-#### Artikel 18. (vaststellen klachtenregeling)
+##### Artikel 18. (vaststellen klachtenregeling)
 
 1. Een beveiligingsorganisatie of recherchebureau stelt een klachtenregeling vast. De klachtenregeling bevat ten minste gegevens over:
 
@@ -256,7 +281,7 @@ Vervallen
 
 #### 7. Uitrusting
 
-#### Artikel 19. (informeren politie)
+##### Artikel 19. (informeren politie)
 
 1. Een beveiligingsorganisatie draagt zorg voor een goede afstemming van de beveiligingswerkzaamheden met de politie of, indien de beveiligingswerkzaamheden worden verricht op een luchtvaartterrein, met de commandant.
 
@@ -266,7 +291,7 @@ Vervallen
 
 #### 8. Behandeling van klachten
 
-#### Artikel 20. (eisen particuliere alarmcentrales)
+##### Artikel 20. (eisen particuliere alarmcentrales)
 
 1. Een beveiligingsorganisatie die werkzaamheden verricht als bedoeld in [artikel 3, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=3), is gevestigd in een lidstaat van de Europese Unie en overlegt aan de minister een geldig en passend certificaat dat is afgegeven door een certificerende instantie die is geaccrediteerd door een erkende instantie als bedoeld in artikel 14 van Verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93.
 
@@ -288,11 +313,11 @@ Vervallen
 
 3. De minister kan besluiten de eis van het overleggen van een certificaat als bedoeld in het eerste lid eenmalig voor een periode van ten hoogste zes maanden buiten toepassing te laten.
 
-#### Artikel 21. (eisen alarmapparatuur)
+##### Artikel 21. (eisen alarmapparatuur)
 
 Vervallen
 
-#### Artikel 22. (informeren politie)
+##### Artikel 22. (informeren politie)
 
 Zodra door een beveiligingsorganisatie die werkzaamheden verricht als bedoeld in [artikel 3, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=3), een aanvang wordt gemaakt met nieuwe beveiligingswerkzaamheden stelt deze beveiligingsorganisatie de korpschef of, indien de objecten die door de alarmcentrale worden beveiligd zich bevinden op een luchtvaartterrein, de commandant,op de hoogte van:
 
@@ -310,7 +335,7 @@ Zodra door een beveiligingsorganisatie die werkzaamheden verricht als bedoeld in
 
 #### 10. Bijzondere bepalingen voor particuliere alarmcentrales
 
-#### Artikel 23. (eisen voor geld- en waardetransportbedrijf)
+##### Artikel 23. (eisen voor geld- en waardetransportbedrijf)
 
 1. De wijze waarop de werkzaamheden door een particulier geld- en waardetransportbedrijf worden verricht, alsmede het door een particulier geld- en waardetransport gebruikte materieel voldoen aan de in bijlage 5 bij deze regeling gestelde eisen.
 
@@ -318,7 +343,7 @@ Zodra door een beveiligingsorganisatie die werkzaamheden verricht als bedoeld in
 
 #### 11. Bijzondere bepalingen voor geld- en waardetransporten
 
-#### Artikel 24. (kosten vergunning, toestemming en legitimatiebewijs)
+##### Artikel 24. (kosten vergunning, toestemming en legitimatiebewijs)
 
 1. De vergoeding van kosten, bedoeld in [artikel 4, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=4), bedraagt voor:
 
@@ -346,7 +371,7 @@ Deze kosten worden voldaan aan de korpschef, commandant of de minister die op gr
 
 #### 11. Bijzondere bepalingen voor geld- en waardetransporten
 
-#### Artikel 25. (overgangsregeling opleidingseis bestuursorganen)
+##### Artikel 25. (overgangsregeling opleidingseis bestuursorganen)
 
 1. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=6&z=2024-07-27&g=2024-07-27) van deze regeling, is niet van toepassing op personen die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) in dienst zijn van een bestuursorgaan en in de uitoefening van hun functie beveiligingswerkzaamheden verrichten.
 
@@ -354,7 +379,7 @@ Deze kosten worden voldaan aan de korpschef, commandant of de minister die op gr
 
 3. Het tweede lid vervalt op 1 april 2004.
 
-#### Artikel 26. (particulier rechercheur)
+##### Artikel 26. (particulier rechercheur)
 
 1. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=10&z=2024-07-27&g=2024-07-27) van deze regeling, is niet van toepassing indien het personen betreft die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) te werk zijn gesteld door een recherchebureau.
 
@@ -362,7 +387,7 @@ Deze kosten worden voldaan aan de korpschef, commandant of de minister die op gr
 
 3. Het tweede lid vervalt op 1 april 2004.
 
-#### Artikel 27. (alarminstallateur)
+##### Artikel 27. (alarminstallateur)
 
 1. [Artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=11&z=2024-07-27&g=2024-07-27), van deze regeling, is niet van toepassing indien het personen betreft die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) als alarminstallateur werkzaam zijn.
 
@@ -370,27 +395,27 @@ Deze kosten worden voldaan aan de korpschef, commandant of de minister die op gr
 
 3. Het tweede lid vervalt op 1 april 2004.
 
-#### Artikel 28
+##### Artikel 28
 
 Een legitimatiebewijs als bedoeld in artikel 13 dat voor 1 mei 2014 is afgegeven, blijft geldig tot de datum die daarop is vermeld, doch uiterlijk tot 1 mei 2017.
 
-#### Artikel 28a
+##### Artikel 28a
 
 Vervallen
 
-#### Artikel 29. (voorkomen handelsbelemmeringen)
+##### Artikel 29. (voorkomen handelsbelemmeringen)
 
 Met het in deze regeling bedoelde materieel wordt gelijk gesteld materieel, dat rechtmatig is geproduceerd of in de handel is gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig is geproduceerd in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte en dat ten minste aan gelijkwaardige technische eisen voldoet.
 
-#### Artikel 30. (intrekken voorgaande regeling)
+##### Artikel 30. (intrekken voorgaande regeling)
 
 De Regeling particuliere beveiligingsorganisaties (Stcrt.1997, 237) wordt ingetrokken.
 
-#### Artikel 31. (inwerkingtreding regeling)
+##### Artikel 31. (inwerkingtreding regeling)
 
 Deze regeling treedt in werking op het tijdstip waarop de wet in werking treedt.
 
-#### Artikel 32. (titel regeling)
+##### Artikel 32. (titel regeling)
 
 Deze regeling kan worden aangehaald als: Regeling particuliere beveiligingsorganisaties en recherchebureaus.
 
@@ -464,7 +489,7 @@ Het volle vlak van het embleem, alsmede de letters in het embleem, zijn zilverkl
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen 3 en 5 die ter inzage worden gelegd in de bibliotheek van het Ministerie van Justitie, Schedeldoekshaven 100 te Den Haag.
 
-#### Artikel 23a. Vaststellen (privacy)gedragscode
+##### Artikel 23a. Vaststellen (privacy)gedragscode
 
 Een recherchebureau stelt een (privacy)gedragscode vast, identiek aan het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=6&z=2024-07-27&g=2024-07-27) bij deze regeling vastgestelde model, en leeft de code na.
 
@@ -1088,7 +1113,7 @@ Het particulier recherchebureau beoordeelt binnen één maand na ontvangst van h
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen 3 en 5 die ter inzage worden gelegd in de bibliotheek van het Ministerie van Justitie, Schedeldoekshaven 100 te Den Haag.
 
-#### Artikel 7a. (evenementenbeveiliging)
+##### Artikel 7a. (evenementenbeveiliging)
 
 1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2024-07-27&g=2024-07-27), van deze regeling, kan een beveiligingsorganisatie een persoon belasten met beveiligingswerkzaamheden bij een evenement indien deze in het bezit is van het certificaat Event Security Officer van de Stichting Vakexamens voor de Particuliere beveiligingsorganisaties of een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als evenementenbeveiliger.
 
@@ -1096,7 +1121,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 3. Onder beveiligingswerkzaamheden bij een evenement worden mede de beveiligingswerkzaamheden genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=8&z=2024-07-27&g=2024-07-27) verstaan.
 
-#### Artikel 11a. (alarmcentralisten)
+##### Artikel 11a. (alarmcentralisten)
 
 1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2024-07-27&g=2024-07-27), van deze regeling, kan een beveiligingsorganisatie als bedoeld in[artikel 3, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=3) een persoon belasten met beveiligingswerkzaamheden als alarmcentralist indien deze in het bezit is van het certificaat Basisopleiding Centralist Alarmcentrale van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties of een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als alarmcentralist.
 
@@ -1278,7 +1303,7 @@ Indien zodanige gegevens worden verwerkt, bevat de mededeling een volledig overz
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen 3 en 5 die ter inzage worden gelegd in de bibliotheek van het Ministerie van Justitie, Schedeldoekshaven 100 te Den Haag.
 
-#### Artikel 23b. (documenten bij aanvraag)
+##### Artikel 23b. (documenten bij aanvraag)
 
 1. De aanvraag om erkenning van de EU-beroepskwalificaties wordt ingediend bij Justis.
 
@@ -1306,7 +1331,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 5. De Minister kan verlangen dat de gegevens en bescheiden, bedoeld in het tweede lid, onderdelen b, c en d, en vierde lid, die zijn gesteld in een andere dan de Nederlandse taal, vergezeld gaan van vertalingen in de Nederlandse taal, en dat deze vertalingen zijn opgesteld door een beëdigd tolk of vertaler.
 
-#### Artikel 23c. (procedure erkenning)
+##### Artikel 23c. (procedure erkenning)
 
 1. Justis deelt de aanvrager zo spoedig mogelijk, maar uiterlijk een maand na ontvangst, schriftelijk mee dat de aanvraag is ontvangen.
 
@@ -1322,11 +1347,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 5. De Minister kan de termijn, bedoeld in het vierde lid onder a, met een maand verlengen.
 
-#### Artikel 23d. (erkenning)
+##### Artikel 23d. (erkenning)
 
 De beroepskwalificaties worden erkend indien is voldaan aan de vereisten van [artikel 6 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6).
 
-#### Artikel 23e. (voornemen tot afwijzing en zienswijze)
+##### Artikel 23e. (voornemen tot afwijzing en zienswijze)
 
 1. Indien de Minister van oordeel is dat de beroepskwalificaties niet kunnen worden erkend, deelt hij de aanvrager zo spoedig mogelijk schriftelijk mee dat hij voornemens is de aanvraag af te wijzen.
 
@@ -1342,11 +1367,11 @@ De beroepskwalificaties worden erkend indien is voldaan aan de vereisten van [ar
 
 7. Indien de aanvrager in zijn zienswijze aangeeft een aanpassingsstage te willen volgen, geeft hij in die zienswijze tevens aan bij welke beveiligingsorganisatie, welk recherchebureau of welk alarminstallatiebedrijf de aanpassingsstage zal worden gevolgd, alsmede welke gekwalificeerde beroepsbeoefenaar hem daarbij zal begeleiden.
 
-#### Artikel 23f. (geen aanhouding besluit)
+##### Artikel 23f. (geen aanhouding besluit)
 
 De Minister maakt niet ambtshalve gebruik van de bevoegdheid, bedoeld in [artikel 19, derde lid, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19), tot aanhouding van de aanvraag als een aanpassingsstage of een proeve van bekwaamheid vereist wordt.
 
-#### Artikel 23g. (afwijzing)
+##### Artikel 23g. (afwijzing)
 
 1. De aanvraag wordt afgewezen indien niet is voldaan aan de voorwaarden van artikel 6 van de Algemene wet erkenning EU-beroepskwalificaties en de aanvrager ook niet op grond van de [artikelen 7 tot en met 11 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=7) voor erkenning in aanmerking komt.
 
@@ -1358,7 +1383,7 @@ De Minister maakt niet ambtshalve gebruik van de bevoegdheid, bedoeld in [artike
 
 5. Indien de minister de aanvraag afwijst, maar op grond van [artikel 12 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12) gedeeltelijk toegang moet worden verleend tot het gereglementeerd beroep, deelt hij in de afwijzing mee welke beroepswerkzaamheden de aanvrager onder welke voorwaarden gerechtigd is uit te oefenen.
 
-#### Artikel 23h. (aanpassingsstage)
+##### Artikel 23h. (aanpassingsstage)
 
 1. Het bedrijf, bedoeld in [artikel 23e, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23e&z=2024-07-27&g=2024-07-27), kan een stagiair met werkzaamheden belasten zonder dat deze in het bezit is van een in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&z=2024-07-27&g=2024-07-27) genoemd diploma of een erkenning van EU-beroepskwalificaties, indien de stagiair beschikt over een mededeling, bedoeld in [23g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23g&z=2024-07-27&g=2024-07-27), met vermelding van het betrokken bedrijf.
 
@@ -1370,7 +1395,7 @@ De Minister maakt niet ambtshalve gebruik van de bevoegdheid, bedoeld in [artike
 
 5. De verklaring, bedoeld in het vierde lid, wordt binnen twee weken na afronding van de aanpassingsstage verzonden, en bevat een oordeel over de wijze waarop de aanpassingsstage is vervuld.
 
-#### Artikel 23i. (proeve van bekwaamheid)
+##### Artikel 23i. (proeve van bekwaamheid)
 
 1. De proeve van bekwaamheid wordt afgelegd in de Nederlandse taal bij een door de Minister aangewezen instantie.
 
@@ -1382,7 +1407,7 @@ De Minister maakt niet ambtshalve gebruik van de bevoegdheid, bedoeld in [artike
 
 #### 11c. Bijzondere bepalingen voor tijdelijke en incidentele dienstverrichters
 
-#### Artikel 23j. (beroepskwalificatie-eisen aan tijdelijke en incidentele dienstverrichters)
+##### Artikel 23j. (beroepskwalificatie-eisen aan tijdelijke en incidentele dienstverrichters)
 
 Een dienstverrichter worden geen beperkingen wegens beroepskwalificaties opgelegd indien de dienstverrichter voorafgaand aan de eerste dienstverrichting in Nederland een schriftelijke verklaring als bedoeld in [artikel 23, eerste lid, van de Algemene wet EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23) doet toekomen aan Justis, met informatie over welk gereglementeerd beroep op welke tijdelijke of incidentele wijze zal worden verricht en:
 
@@ -1390,7 +1415,7 @@ Een dienstverrichter worden geen beperkingen wegens beroepskwalificaties opgeleg
 
 - b. het beroep of de opleiding die leidt tot toegang of uitoefening van het beroep in de betrokken staat van vestiging is niet gereglementeerd en de migrerende beroepsbeoefenaar heeft het beroep tijdens de tien jaar voorafgaand aan de dienstverrichting in Nederland gedurende ten minste één jaar, of gedurende een gelijkwaardige periode deeltijds, uitgeoefend in de betrokken staat van vestiging.
 
-#### Artikel 23k. (verklaring vooraf door tijdelijke en incidentele dienstverrichter)
+##### Artikel 23k. (verklaring vooraf door tijdelijke en incidentele dienstverrichter)
 
 1. De verklaring, genoemd in [artikel 23j](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11c&artikel=23j&z=2024-07-27&g=2024-07-27), kan met alle middelen worden aangeleverd en wordt steeds na een jaar opnieuw afgegeven door de dienstverrichter indien hij voornemens is om gedurende het opvolgende jaar in Nederland tijdelijk en incidenteel diensten te verrichten.
 
@@ -1780,11 +1805,11 @@ Het particulier onderzoeksbureau neemt naar aanleiding van de uitkomst van de DP
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen 3 en 5 die ter inzage worden gelegd in de bibliotheek van het Ministerie van Justitie, Schedeldoekshaven 100 te Den Haag.
 
-#### Artikel 23l. (toepasselijke vervoersregelingen verordening)
+##### Artikel 23l. (toepasselijke vervoersregelingen verordening)
 
 De vervoersregelingen die worden genoemd in de artikelen 17, 18 en 20 van de verordening zijn op Nederlands grondgebied toegestaan.
 
-#### Artikel 23m. (medisch attest)
+##### Artikel 23m. (medisch attest)
 
 De eisen die gelden voor het medisch attest, bedoeld in [artikel 6a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=6a), zijn de volgende:
 
@@ -1796,11 +1821,11 @@ De eisen die gelden voor het medisch attest, bedoeld in [artikel 6a van de wet](
 
 - 4. De vragen die tijdens de medische keuring ten aanzien van de gezondheid mogen worden gesteld, alsmede de medische onderzoeken die mogen worden verricht, zijn opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=7&z=2024-07-27&g=2024-07-27) bij deze regeling.
 
-#### Artikel 23n. (aanwijzing autoriteit artikel 12, tweede lid, verordening)
+##### Artikel 23n. (aanwijzing autoriteit artikel 12, tweede lid, verordening)
 
 De korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27), is de autoriteit, bedoeld in [artikel 7a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=7a).
 
-#### Artikel 23o. (initiatieopleiding artikel 5, eerste lid, onder c, en bijlage VI verordening)
+##### Artikel 23o. (initiatieopleiding artikel 5, eerste lid, onder c, en bijlage VI verordening)
 
 1. Als initiatieopleiding beschikken de leden van het bewakingspersoneel over het diploma Beveiliger van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties.
 
@@ -2082,7 +2107,7 @@ Het onderzoek bestaat uit een gesprek over de algemene gezondheid, oogonderzoek,
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen 3 en 5 die ter inzage worden gelegd in de bibliotheek van het Ministerie van Justitie, Schedeldoekshaven 100 te Den Haag.
 
-#### Artikel 11b. (videotoezichtcentrales)
+##### Artikel 11b. (videotoezichtcentrales)
 
 1. Een beveiligingsorganisatie als bedoeld in [artikel 3, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=3) laat, indien het een organisatie betreft die in de uitoefening van beroep of bedrijf ten behoeve van derden in een centraal meldpunt, de door videoapparatuur verzonden beelden ontvangt en beoordeelt en zo nodig assistentie vraagt aan de politie, andere overheidsinstanties of particulieren, het plan voor de installatie, de installatie en het onderhoud van de videoapparatuur die hij gebruikt, slechts opstellen dan wel uitvoeren door installateurs en personen die aan installateurs assistentie verlenen, die in het bezit zijn van een diploma dat de instemming heeft van de minister.
 
@@ -2138,7 +2163,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 #### 13. Overgangs- en slotbepalingen
 
-#### Artikel 29a. Grondslag
+##### Artikel 29a. Grondslag
 
 Deze regeling is mede gebaseerd [artikel 33 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33).
 
@@ -2244,7 +2269,7 @@ Ligt ter inzage bij het Ministerie van Justitie en Veiligheid.
 
 Het onderzoek bestaat uit een gesprek over de algemene gezondheid, oogonderzoek, bloeddruk- en polsmeting, urine- of bloedsuikertest, alsmede een oriënterend lichamelijk/psychisch onderzoek.
 
-#### Artikel 5a. (tijdelijke regeling beveiligers in opleiding in verband met COVID-19)
+##### Artikel 5a. (tijdelijke regeling beveiligers in opleiding in verband met COVID-19)
 
 Vervallen
 

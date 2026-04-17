@@ -1,20 +1,44 @@
 ---
 title: "Regeling snelle motorboten Rijkswateren 1995"
 identifier: "BWBR0007331"
-categorie: "Milieu"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007331"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007331"
+soort: "ministeriele-regeling"
+stam_id: "4932103"
+version_id: "7989312"
+internal_id: "C9913371"
+label_id: "4909934"
+dtd_version: "2.0"
+original_entry_into_force: "1995-05-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007331/2026-04-01/0"
+intitule_bron: "Stcrt.1995-85"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-04-10"
+intitule_published: "1995-05-02"
+intitule_in_force: "1995-05-02"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-85"
+original_signed_date: "1995-04-10"
+original_published_date: "1995-05-02"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-05-04"
+jci_1_3: "jci1.3:c:BWBR0007331&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0007331&g=2026-04-01"
+citeertitel_status: "officieel"
+signed_date: "1995-04-10"
+entry_into_force: "1995-05-04"
 ---
-
 # Regeling snelle motorboten Rijkswateren 1995
 
 Gelet op de [artikel 13, eerste lid, van het Besluit administratieve bepalingen scheepvaartverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&artikel=13) en de [artikelen 6.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.02), en [8.06, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.06);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Als vaarwegen of gedeelten daarvan, waar overdag met een snelle motorboot mag worden gevaren met een grotere snelheid dan 20 km/u worden aangewezen:
 
@@ -246,7 +270,7 @@ Besluit:
 
 - f. binnen 100 meter van havenmondingen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als vaarwegen of gedeelten daarvan, waar overdag mag worden gewaterskied worden aangewezen:
 
@@ -450,25 +474,25 @@ Besluit:
 
 - f. binnen 100 meter van havenmondingen.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling kan worden aangehaald als: [Regeling snelle motorboten Rijkswateren 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007331).
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling kan worden aangehaald als: [Regeling snelle motorboten Rijkswateren 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007331).
 
-#### Artikel 5
+##### Artikel 5
 
 De Regeling snelle motorboten Rijkswateren 1993 van 4 maart 1992, nr. RVR 117412 (Stcrt. 1992, 55), gewijzigd bij regeling van 21 maart 1994, nr. RVR 170891 (Stcrt. 1994, 68) wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de tweede dag na plaatsing in de Staatscourant.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Als vaarwegen of gedeelten daarvan, waar 's nachts met een snelle motorboot mag worden gevaren met een grotere snelheid dan 20 km/u worden aangewezen:
 

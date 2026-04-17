@@ -1,13 +1,38 @@
 ---
-title: "Vaststelling bijdragen gemoedsbezwaarden (1988)"
+title: "Vaststelling bijdragen gemoedsbezwaarden"
 identifier: "BWBR0004255"
-categorie: "Overig"
-publicatiedatum: 1988-01-18
-laatste_update: 1988-01-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004255"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1988-01-18"
+last_updated: "1988-01-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004255"
+soort: "ministeriele-regeling"
+stam_id: "3615153"
+version_id: "5398182"
+internal_id: "C5591271"
+label_id: "3595064"
+dtd_version: "2.0"
+original_entry_into_force: "1988-01-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004255/1988-01-18/0"
+intitule_bron: "Stcrt.1987-251"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-12-21"
+intitule_published: "1987-12-29"
+intitule_in_force: "1987-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.1987-251"
+original_signed_date: "1987-12-21"
+original_published_date: "1987-12-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1988-01-18"
+jci_1_3: "jci1.3:c:BWBR0004255&z=1988-01-18&g=1988-01-18"
+jci_1_0: "1.0:c:BWBR0004255&g=1988-01-18"
+citeertitel_status: "officieel"
+short_title: "Vaststelling bijdragen gemoedsbezwaarden (1988)"
+signed_date: "1987-12-21"
+entry_into_force: "1988-01-18"
 ---
-
 # Vaststelling bijdragen gemoedsbezwaarden
 
 Gelet op [artikel 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=20) (Stb. 1984, 269);

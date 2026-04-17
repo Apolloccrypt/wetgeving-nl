@@ -1,20 +1,43 @@
 ---
 title: "Begrafeniswet BES"
 identifier: "BWBR0028363"
-categorie: "Overig"
-publicatiedatum: 2011-10-04
-laatste_update: 2011-10-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028363"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2011-10-04"
+last_updated: "2011-10-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028363"
+soort: "wet-BES"
+stam_id: "10757943"
+version_id: "18826082"
+internal_id: "C26277821"
+label_id: "10732964"
+dtd_version: "2.0"
+original_entry_into_force: "2011-10-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028363/2011-10-04/0"
+intitule_bron: "Stb.2010-400"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-17488"
+original_published_date: "2011-10-03"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2011-17488"
+entry_into_force_date: "2011-10-04"
+jci_1_3: "jci1.3:c:BWBR0028363&z=2011-10-04&g=2011-10-04"
+jci_1_0: "1.0:c:BWBR0028363&g=2011-10-04"
+citeertitel_status: "officieel"
+entry_into_force: "2011-10-04"
 ---
-
 # Begrafeniswet BES
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet verstaan onder openbaar lichaam: het openbaar lichaam Bonaire, Sint Eustatius of Saba.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Het lijk van een persoon of doodgeboren kind wordt in eene gesloten kist begraven, hetzij in een geheel of gedeeltelijk aarden graf, hetzij in een grafkelder, op eene begraafplaats als zoodanig vanwege het bestuurscollege aangelegd of toegelaten.
 
@@ -22,7 +45,7 @@ Het lijk van een persoon of doodgeboren kind wordt in eene gesloten kist begrave
 
 Ook is het geoorloofd volgens nader bij wet vast te stellen regelen lijken te verbranden.
 
-#### Artikel 2
+##### Artikel 2
 
 Lijken, die in een zoodanigen staat verkeeren, dat zij niet naar eene begraafplaats kunnen worden overgebracht, worden ter plaatse, waar zij gevonden zijn of in de onmiddellijke nabijheid, zonder kist, mits ter diepte van 1 Meter, begraven en overdekt, zoo mogelijk met ongebluschte kalk ter hoogte van 2 d.M. en in ieder geval met aangestampte aarde. Is op de plaats, waar een lijk gevonden wordt, een lijkkist aanwezig, dan kan het lijk daarin begraven worden.
 
@@ -30,23 +53,23 @@ De begraving geschiedt ter plaatse door de ambtenaren van de gezondheidsdienst v
 
 De schade, die aan den eigendom mocht worden veroorzaakt, wordt door den Kantonrechter begroot en door het openbaar lichaam vergoed, naar de onderscheiding gemaakt in de [artt. 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=11&z=2011-10-04&g=2011-10-04), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=12&z=2011-10-04&g=2011-10-04) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=13&z=2011-10-04&g=2011-10-04). Als schade komt niet in aanmerking de aanwezigheid van het graf zelf.
 
-#### Artikel 3
+##### Artikel 3
 
 Zijn er omstandigheden, die een gewelddadigen dood doen vermoeden, dan geschiedt de begraving niet dan met toestemming, van de officier van justitie, zoo mogelijk na voorafgegane gerechtelijk schouwing.
 
 In het daarvan of te maken proces-verbaal worden, zooveel mogelijk, vermeld de voornamen, de naam, de ouderdom, de geboorteplaats, het beroep en de woonplaats van den overledene, of andere gegevens, die tot herkenning kunnen dienen.
 
-#### Artikel 4
+##### Artikel 4
 
 Geene begraving geschiedt zonder schriftelijk verlof van den ambtenaar van den Burgerlijken Stand, vrij van zegel en kosteloos af te geven, waarin de begraafplaats, of de in [art. 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=2&z=2011-10-04&g=2011-10-04) bedoelde plaats, waar het lijk ter aarde zal worden besteld, wordt vermeld.
 
 Bij het vragen van verlof tot begraven moet worden overgelegd eene der schriftelijke verklaringen als bedoeld in de [Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199).
 
-#### Artikel 5
+##### Artikel 5
 
 De bewoner van een woning waarin zich een lijk bevindt, is verplicht aan de met de gerechtelijke schouwing of het afhalen van het lijk ter begraving of verbranding of het vervoer naar het lijkenhuis belaste personen bij de uitvoering van hun taak de benodigde medewerking te verlenen.
 
-#### Artikel 6
+##### Artikel 6
 
 Begraving geschiedt niet eerder dan 36 uren na het overlijden en uiterlijk op de zesde werkdag na die van overlijden.
 
@@ -54,23 +77,23 @@ Ontheffing van deze bepaling kan worden verleend door de gezaghebber de door het
 
 In dit geval wordt door de gezaghebber onmiddellijk aan den betrokken ambtenaar van den Burgerlijken Stand van zijn beschikking kennis gegeven.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een lijk mag niet worden begraven dan tussen des morgens 6 uur en des namiddags 6 uur, tenzij de ambtenaar van de Burgerlijke Stand op grond van dringende of buitengewone omstandigheden in individuele gevallen verlof verleent om op een ander uur te begraven. Het verlof wordt steeds verleend wanneer godsdienstige redenen zulks noodzakelijk maken en, zo nodig, in de gevallen bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=2&z=2011-10-04&g=2011-10-04), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=6&z=2011-10-04&g=2011-10-04) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=8&z=2011-10-04&g=2011-10-04).
 
 2. Ingeval in een openbaar lichaam een algemene behoefte bestaat om na zonsondergang lijken te begraven, kan in afwijking van het bepaalde in het eerste lid, bij eilandsbesluit houdende algemene maatregelen de mogelijkheid daartoe worden geopend. Bij een zodanig besluit worden tevens nadere regelen vastgesteld welke in het belang van de openbare orde en volksgezondheid in acht moeten worden genomen bij het begraven na zonsondergang».
 
-#### Artikel 8
+##### Artikel 8
 
 Opgevischte lijken worden vanwege Gezondheidsdienst van het openbaar lichaam begraven, nadat de doodschouw of, in het geval van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=3&z=2011-10-04&g=2011-10-04), de gerechtelijke schouwing zal hebben plaats gehad.
 
-#### Artikel 9
+##### Artikel 9
 
 Tenzij op rechtelijk bevel mogen lijken niet opgegraven en vervoerd worden dan met toestemming, van de gezaghebber, de door het bestuurscollege aangewezen geneeskundige gehoord.
 
 Het vervoer van een opgegraven lijk kan aan nader te stellen voorwaarden verbonden worden, maar het geschiedt niet, tenzij de opgegraven lijkkist met zijn inhoud is geplaatst in eene goed gesloten, volkomen dichte houten of metalen kist.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien een lijkkist niet op een draagbaar wordt gedragen, moet worden gebruik gemaakt van een uitsluitend voor het vervoer van lijken bestemd voertuig.
 
@@ -82,7 +105,7 @@ Echter geldt de vrijstelling van het vorig lid niet, indien de ambtnaar van den 
 
 Bij het ter aarde bestellen van lijken worden de desbetreffende bepalingen dezer wet stipt opgevolgd en verder de wenken in acht genomen, door de ambtenaren van de gezondheidsdienst van het openbaar lichaam of van de politie, in het belang van gezondheid of van orde gegeven.
 
-#### Artikel 11
+##### Artikel 11
 
 De naaste bloedverwanten van de overleden persoon of het doodgeboren kind zijn aansprakelijk voor de begrafenis, terwijl de erfgenamen aansprakelijk zijn voor de begrafeniskosten.
 
@@ -90,11 +113,11 @@ De lijken van onvermogenden echter worden, voor zooveel kerk- of armbestuur of a
 
 Van het onvermogen moet blijken op de wijze door het bestuurscollege te bepalen.
 
-#### Artikel 12
+##### Artikel 12
 
 De begrafenis van lijken, welker begraving zich niemand aantrekt, geschiedt door de gezondheidsdienst van het openbaar lichaam, komende de kosten daarvan ten last van het openbaar lichaam, voor zoover zij niet op de nalatenschap of op de erfgenamen verhaalbaar zijn.»
 
-#### Artikel 13
+##### Artikel 13
 
 Het begraven van lijken van personen overleden in inrichtingen, die hetzij geheel of gedeeltelijk onder beheer van het openbaar gezag staan, geschiedt door de zorg van het bestuur dier inrichtingen, met inachtneming van de voorschriften daaromtrent bij eilandsbesluit, houdende algemene maatregelen, te geven.
 
@@ -108,23 +131,23 @@ Geschiedt de aanvraag later, dan kan de afgifte nog geschieden, wanneer daartege
 
 ## Van de begraafplaatsen
 
-#### Artikel 14
+##### Artikel 14
 
 In ieder openbaar lichaam zullen een of meer algemeene begraafplaatsen worden aangelegd, zoodra zich de behoefte daaraan doet gevoelen.
 
-#### Artikel 15
+##### Artikel 15
 
 Bijzondere begraafplaatsen kunnen worden aangelegd met verlof van het bestuurscollege.
 
 Verlof tot het aanleggen van een bijzondere begraafplaats ten behoeve van de leden eener kerkelijke gemeente wordt aan het bestuur dier gemeente niet geweigerd, dan wanneer de aangewezen plaats niet aan de wettelijke voorschriften voldoet.
 
-#### Artikel 16
+##### Artikel 16
 
 Elke begraafplaats wordt door een muur, heining, rasterwerk of heg ter hoogte van ten minste twee Meter afgesloten.
 
 Daarvan kan door het bestuurscollege ontheffing worden verleend, indien op andere wijze in de afsluiting behoorlijk is voorzien.
 
-#### Artikel 17
+##### Artikel 17
 
 Zonder vergunning van het bestuurscollege, de door het bestuurscollege aangewezen geneeskundige gehoord, mogen geene begraafplaatsen worden aangelegd op een afstand van minder dan 50 Meter van gebouwen tot bewoning dienende of bestemd en zonder die vergunning mogen, binnen gelijken afstand van eene begraafplaats, geene gebouwen ter bewoning worden opgericht of putten worden gegraven.
 
@@ -134,13 +157,13 @@ Het uitbreiden eener bestaande begraafplaats wordt, voor deze wet, met het aanle
 
 Het verbod in het eerste lid vermeld omtrent het oprichten van gebouwen ter bewoning is niet toepasselijk op het oprichten van gebouwen ter bewoning binnen de op 1 September 1918 bestaande bebouwde lijnen.
 
-#### Artikel 18
+##### Artikel 18
 
 Bij de schriftelijke aanvrage om de vergunning, in het [vorig artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=17&z=2011-10-04&g=2011-10-04) bedoeld, wordt eene op schaal vervaardigde, nauwkeurige teekening overgelegd van het terrein, tevens aangevende de plaatsen, waar zich woningen of putten bevinden, als in het vorig artikel bedoeld.
 
 Ook wordt de diepte van aarde op het terrein aanwezig aangegeven.
 
-#### Artikel 19
+##### Artikel 19
 
 Eene nieuwe begraafplaats wordt aangelegd naar een in kaart gebracht, vast plan van verdeeling in vakken en rijen, waarbij de noodige ruimte voor paden is uitgespaard, terwijl elke ruimte voor graf of grafkelder op de kaart is aangegeven.
 
@@ -150,7 +173,7 @@ Het bijzetten van lijken moet naar het vastgestelde en in kaart gebrachte plan g
 
 Op bestaande begraafplaatsen wordt eene verdeeling, als in het eerste lid bedoeld, zooveel mogelijk gevolgd, maar in ieder geval bij het aanleggen van nieuwe vakken, voor begraven bestemd, en bij het ledigen van alle oude graven in bestaande vakken.
 
-#### Artikel 20
+##### Artikel 20
 
 Voor elke begraafplaats wordt, hetzij door de zorg van de eigenaars eener particuliere begraafplaats, hetzij door of van wege de ambtenaren in [art. 36](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=36&z=2011-10-04&g=2011-10-04) genoemd, nauwkeurig en regelmatig een register bijgehouden, bevattende, in afzonderlijke kolommen, een doorloopend nummer, dag en jaar der begraving, naam, voornamen, leeftijd en geslacht van de begraven personen, benevens eene duidelijke aanwijzing van het graf of van den grafkelder, eventueel der plaats in den grafkelder, waar de bijzetting plaats vond.
 
@@ -158,19 +181,19 @@ Het hiervoor bedoelde register is openbaar en wordt in het geval [artikel 33](ht
 
 Graven een grafkelders moeten van duidelijke zichtbare merkpaaltjes of van andere merkteekenen voorzien zijn, aangevende het vastgestelde nummer der graven.
 
-#### Artikel 21
+##### Artikel 21
 
 Eene begraafplaats, daaronder begrepen: omheining, gebouwen, graven, grafkelders, monumenten, kruisen, boomen of andere gewassen en verder alles wat tot het kerkhof behoort, moet zorgvuldig in goeden staat worden onderhouden.
 
 Zoonoodig kan het Bestuurscollege op kosten van de eigenaars van particuliere begraafplaatsen, of op kosten van de eigenaars van graven en grafkelders, op alle begraafplaatsen de noodige herstellingen en verbeteringen doen aanbrengen, indien voornoemde eigenaars in gebreke bleven.
 
-#### Artikel 22
+##### Artikel 22
 
 Op elke nieuwe begraafplaats wordt vóór het in gebruik stellen en op elke bestaande begraafplaats uiterlijk binnen één jaar na het in werking treden dezer wet, een lokaal ingericht voor tijdelijke bewaring van lijken.
 
 Bij verzuim wordt vanwege het bestuurscollege, op kosten van de eigenaars der begraafplaats, ten spoedigste een lijkenhuis, als in het vorig lid bedoeld, ingericht.
 
-#### Artikel 23
+##### Artikel 23
 
 De onderlinge afstand der graven zoo aan het hoofd- en het voeteneinde als van de zijden bedraagt minstens 0,3 M.
 
@@ -180,7 +203,7 @@ De bovenste of de eenige kist in een graf wordt met eene laag aangestampte aarde
 
 Deze bepalingen zijn niet toepasselijk op gemetselde grafkelders.
 
-#### Artikel 24
+##### Artikel 24
 
 Op de begraafplaatsen mogen grafkelders worden gesticht, mits deze voldoen aan de navolgende voorwaarden:
 
@@ -192,21 +215,21 @@ Op de begraafplaatsen mogen grafkelders worden gesticht, mits deze voldoen aan d
 
 - d. is het onder c. bepaalde niet mogelijk, dan worden de wanden aan de buiten-beneden zijde bedekt met eenen zoom van aangestampte aarde van minstens 30 c.M. hoogte en breedte.
 
-#### Artikel 25
+##### Artikel 25
 
 Aan nieuw te bouwen grafkelders kunnen lucht-openingen worden voorgeschreven, wier aantal, plaats, vorm en inrichting door het bestuurscollege worden bepaald.
 
-#### Artikel 26
+##### Artikel 26
 
 In een grafkelder moet, voor elke daarin opgenomen lijkkist van een volwassen overledene, eene ruimte van minstens 2 M3 beschikbaar zijn.
 
 Eene zelfde ruimte, als in het eerste lid genoemd, kan voor meer dan één kinderlijk worden gebruikt, indien de gezamenlijke maat de lijkkisten, die van de lijkkist van een volwassen overledene niet overtreft.
 
-#### Artikel 27
+##### Artikel 27
 
 In een grafkelder mogen twee of meer lijkkisten in één horizontaal vlak worden geplaatst, mits gescheiden door lucht- en vochtdichte tusschenmuren, van steen-materiaal, die de geheelde grafruimte verdeelen.
 
-#### Artikel 28
+##### Artikel 28
 
 In een grafkelder mogen twee of meer lijkkisten boven elkander worden gezet, indien de plaats, waar eene lijkkist staat, geheel omgeven en aangevuld wordt door vast aangedreven aarde, die de kist minstens 30 c.M. bedekt.
 
@@ -214,15 +237,15 @@ De scheidende laag aarde in het vorig lid bedoeld, kan vervangen worden door een
 
 Indien in een grafkelder niet meer dan ééne lijkkist wordt begraven, worde de plaats, waar de lijkkist staat, op de wijze, als in het eerste lid bepaald, aangevuld met vast aangedreven aarde, ter dikte van ongeveer 20 c.M.
 
-#### Artikel 29
+##### Artikel 29
 
 Op grafkelders, waarin niet meer wordt begraven, zijn de [artt. 24–28](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=24&z=2011-10-04&g=2011-10-04) niet van toepassing.
 
-#### Artikel 30
+##### Artikel 30
 
 Voor het bijzetten van lijken in bestaande grafkelders kan door het bestuurscollege vrijstelling worden verleend van het voorschrift van [art. 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=27&z=2011-10-04&g=2011-10-04), mits tusschen twee naast elkander geplaatste lijkkisten eene laag vast aangedreven aarde van minstens 30 c.M. wordt aangebracht.
 
-#### Artikel 31
+##### Artikel 31
 
 Een graf mag niet geroerd worden dan na drie jaren na de begraving.
 
@@ -232,7 +255,7 @@ Voor zover begraving plaatsvindt, mogen zij niet in een geruimd graf of grafkeld
 
 Het verbod van alinea 1 is niet van toepassing op graven, waaruit eene lijkkist wordt weggenomen na verkregen toestemming, als bedoeld in het [eerste lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=9&z=2011-10-04&g=2011-10-04).
 
-#### Artikel 32
+##### Artikel 32
 
 onder het roeren van graven wordt in deze wet verstaan:
 
@@ -240,13 +263,13 @@ onder het roeren van graven wordt in deze wet verstaan:
 
 - b. bij graven of grafkelders met meer lijkkisten, het verandering brengen: in de beschuttende aardlaag, als bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=23&z=2011-10-04&g=2011-10-04), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=28&z=2011-10-04&g=2011-10-04) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=30&z=2011-10-04&g=2011-10-04) en in lijkkisten met haar inhoud.
 
-#### Artikel 33
+##### Artikel 33
 
 Een algemeene begraafplaats, waarvan geen gebruik meer wordt gemaakt, wordt bij besluit door het bestuurscollege gesloten verklaard.
 
 Wordt het besluit genomen, dat van een bijzondere begraafplaats geen gebruik meer zal worden gemaakt, dan heeft het bestuur dier begraafplaats daarvan onverwijld schriftelijk kennis aan het bestuurscollege.
 
-#### Artikel 34
+##### Artikel 34
 
 Een gesloten begraafplaats blijft gedurende ten minste tien jaren onaangeroerd liggen. Na dien tijd is het verbod in [art. 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=17&z=2011-10-04&g=2011-10-04) opgeheven en mag de grond ter bezaaiing en beplanting worden vergraven, mits niet dieper dan 0,5 M.
 
@@ -256,15 +279,15 @@ Overblijfselen van lijken, die bij de ontgraving voor den dag mochten komen, wor
 
 Daartoe wordt den eigenaar eener zoodanige begraafplaats kosteloos de gelegenheid verstrekt op een door het bestuurscollege aan te wijzen plaats.
 
-#### Artikel 35
+##### Artikel 35
 
 De begraafplaatsen staan onder toezicht van het bestuurscollege.
 
-#### Artikel 36
+##### Artikel 36
 
 De zorg en het beheer over de algemeene begraafplaatsen is opgedragen aan de ambtenaren van den Burgerlijken Stand.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de ambtenaren van politie, alsmede andere daartoe bij landsbesluit aangewezen personen. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
@@ -288,7 +311,7 @@ De zorg en het beheer over de algemeene begraafplaatsen is opgedragen aan de amb
 
 6. Een ieder is verplicht aan de in het eerste lid bedoelde personen alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd.
 
-#### Artikel 38
+##### Artikel 38
 
 Voor een vergunning tot het beaarden, bijzetten of opdelven van een lijk op een algemene begraafplaats zijn ten behoeven van de kas van het openbaar lichaam de bedragen verschuldigd als vastgesteld bij eilandsbesluit houdende algemene maatregelen.
 
@@ -300,7 +323,7 @@ Geen recht wordt geheven voor de begraving of opdelving van lijken van krijgslie
 
 ## Van het verkrijgen in eigendom van graf- en kelderplaatsen
 
-#### Artikel 39
+##### Artikel 39
 
 Op een algemene begraafplaats kunnen graf- en kelderplaatsen in eigendom worden verkregen tegen betaling ten behoeve van de kas van het openbaar lichaam van de bij eilandsbesluit, houden algemene maatregelen, vastgestelde bedragen.
 
@@ -312,13 +335,13 @@ Indien een vereeniging of vennootschap kooper is, dan worden de benaming en de p
 
 ## Van het vervoer van lijken uit en naar een openbaar lichaam
 
-#### Artikel 40
+##### Artikel 40
 
 Het vervoer van een lijk uit een openbaar lichaam naar elders of van elders naar een openbaar lichaam, is slechts toegestaan indien voldaan wordt aan bij algemene maatregel van bestuur te stellen regelen.
 
 ## Strafbepalingen
 
-#### Artikel 41
+##### Artikel 41
 
 Onverminderd de straffen bij de gewone strafwetten gesteld tegen andere feiten, die gelijktijdig of in samenhang met de in deze wet genoemde mochten worden gepleegd, worden overtredingen van deze wet gestraft als volgt:
 
@@ -328,19 +351,19 @@ Onverminderd de straffen bij de gewone strafwetten gesteld tegen andere feiten, 
 
 - 3°. met hechtenis van ten hoogste een jaar of geldboete van ten hoogste de eerste categorie: hij, die een lijk vervoert of begraaft in het geval van [art. 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=3&z=2011-10-04&g=2011-10-04) in strijd met dat artikel; hij, die het lijk van iemand, die aan een gewelddadigen dood is gestorven verbergt of poogt te verbergen; hij, die een lijk uit een begraafplaats of een lijkenhuis wegneemt of poogt weg te nemen; hij, die de afgifte, bedoeld in [art. 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=5&z=2011-10-04&g=2011-10-04), van een lijk weigert; hij, die geen geneeskundige zijnde of buiten toezicht van een geneeskundige een lijkopening of ontleding van een lijk verricht; hij die een lijk vervoert of doet vervoeren in strijd met de krachtens [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=40&z=2011-10-04&g=2011-10-04) gegeven voorschriften.
 
-#### Artikel 42
+##### Artikel 42
 
 De bij deze wet strafbaar gestelde feiten worden beschouwd als overtredingen.
 
-#### Artikel 44bis
+##### Artikel 44bis
 
 De in de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=38&z=2011-10-04&g=2011-10-04) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=39&z=2011-10-04&g=2011-10-04) genoemde tarieven kunnen bij eilandsverordening worden gewijzigd.
 
-#### Artikel 45
+##### Artikel 45
 
 Deze wet wordt aangehaald als: Begrafeniswet BES.
 
-#### Artikel 4a
+##### Artikel 4a
 
 In gevallen als bedoeld in [artikel 1, derde lid, van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1) wordt geen verlof tot begraving afgegeven zolang niet is overgelegd een verklaring waaruit blijkt van geen bezwaar van de officier van justitie tegen begraving. Indien de officier van justitie meent niet tot de afgifte van een verklaring van geen bezwaar tegen begraving te kunnen overgaan, stelt deze de op grond van [artikel 4 van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4) aangewezen geneeskundige en de regionale toetsingscommissie, bedoeld in [artikel 19c van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=19c), hiervan onverwijld op de hoogte.
 

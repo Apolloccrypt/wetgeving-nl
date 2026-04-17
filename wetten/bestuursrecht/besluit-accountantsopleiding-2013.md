@@ -1,13 +1,39 @@
 ---
-title: "Besluit accountantsopleiding 2013"
+title: "Besluit van 19 december 2012, houdende regels inzake de opleiding voor het accountantsberoep (Besluit accountantsopleiding 2013)"
 identifier: "BWBR0032724"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032724"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032724"
+soort: "AMvB"
+stam_id: "12037023"
+version_id: "20042482"
+internal_id: "C28153941"
+label_id: "12008784"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032724/2014-01-01/0"
+intitule_bron: "Stb.2012-685"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-19"
+intitule_published: "2012-12-28"
+intitule_in_force: "2012-12-21"
+intitule_status: "goed"
+original_publication: "Stb.2012-685"
+original_signed_date: "2012-12-19"
+original_published_date: "2012-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-685"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032724&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0032724&g=2014-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit accountantsopleiding 2013"
+signed_date: "2012-12-19"
+entry_into_force: "2013-01-01"
 ---
-
 # Besluit van 19 december 2012, houdende regels inzake de opleiding voor het accountantsberoep (Besluit accountantsopleiding 2013)
 
 Op de voordracht van Onze Minister van Financiën van 28 september 2012, nr. FM/2012/613 M, Generale Thesaurie, Directie Financiële Markten, Afdeling Marktgedrag en Effectenverkeer;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop de Wet op het accountantsberoep in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -32,45 +58,45 @@ In dit besluit wordt verstaan onder:
 
 - **wet:** [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
 
-#### Artikel 2
+##### Artikel 2
 
 De opleiding, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46), heeft betrekking op de vakgebieden, bedoeld in artikel 8 van de richtlijn.
 
-#### Artikel 3
+##### Artikel 3
 
 In het examen Nederlands recht wordt getoetst of de betrokkene voldoende kennis heeft van de vakgebieden, bedoeld in artikel 8, eerste lid, onderdelen b en h, en tweede lid, onderdelen a tot en met e, van de richtlijn, voor zover deze kennis voor controles van financiële verantwoordingen van belang is, met dien verstande dat van het vakgebied, bedoeld artikel 8, eerste lid, onderdeel h, van de richtlijn niet de kennis van gedrags- en beroepsregels, bedoeld in [artikel 54, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54), wordt getoetst.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie stelt de eindtermen vast die betrekking hebben op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032724&artikel=3&z=2014-01-01&g=2014-01-01) bedoelde vakgebieden.
 
 2. De commissie maakt de vastgestelde eindtermen bekend door plaatsing in de Staatscourant.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De beroepsorganisatie verzorgt het examen Nederlands recht.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Besluit toezicht accountantsorganisaties.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Wet toezicht accountantsorganisaties.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt het Kansspelenbesluit.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking op het tijdstip waarop de [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573) in werking treedt.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit accountantsopleiding 2013.
 

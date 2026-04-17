@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2026"
 identifier: "BWBR0052447"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-03-25
-laatste_update: 2026-03-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052447"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-03-25"
+last_updated: "2026-03-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052447"
+soort: "zbo"
+stam_id: "17818583"
+version_id: "31494712"
+internal_id: "C44975451"
+label_id: "17715804"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052447/2026-03-25/0"
+intitule_bron: "Stcrt.2026-11179"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-03-10"
+intitule_published: "2026-03-24"
+intitule_in_force: "2026-03-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-11179"
+original_signed_date: "2026-03-10"
+original_published_date: "2026-03-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-11179"
+entry_into_force_date: "2026-03-25"
+jci_1_3: "jci1.3:c:BWBR0052447&z=2026-03-25&g=2026-03-25"
+jci_1_0: "1.0:c:BWBR0052447&g=2026-03-25"
+citeertitel_status: "officieel"
+signed_date: "2026-03-10"
+entry_into_force: "2026-03-25"
 ---
-
 # Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2026
 
 **Grondslag**
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -86,21 +111,21 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **geïncludeerde Wlz-cliënt:** een cliënt met een Wlz-indicatie die na het besluit door het levensloopteam georganiseerd vanuit het Zorg- en Veiligheidshuis is geïncludeerd in de Ketenveldnorm levensloopfunctie en beveiligde intensieve zorg (ook wel genoemd: levensloopaanpak). Voor overige begrippen die in deze beleidsregel gebruikt worden, maar niet hierboven vermeld staan, wordt verwezen naar de [Beleidsregel definities Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0051356).
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen op het gebied van het mpt.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op de zorg of dienst als omschreven bij of krachtens de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) die wordt geleverd door zorgaanbieders.
 
-#### Artikel 4. Prijspeil
+##### Artikel 4. Prijspeil
 
 De loon- en materiële kosten van de beleidsregelwaarden bevatten de definitieve percentages 2025 en de voorschotpercentages 2026.
 
 Indien binnen de beleidsregelwaarde een nhc is opgenomen (zie [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&bijlage=1&z=2026-03-25&g=2026-03-25)), dan bevat de nhc de jaarlijkse index van 2,5%.
 
-#### Artikel 5. Beleidsregelwaarden voor tariefvaststelling en overige onderwerpen
+##### Artikel 5. Beleidsregelwaarden voor tariefvaststelling en overige onderwerpen
 
 Voor zover de aanvaardbare kosten bestaan uit modulair geboden zorg, dan worden die bepaald door de gehonoreerde productieafspraak met betrekking tot de prestaties en beleidsregelwaarden zoals vermeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=8&z=2026-03-25&g=2026-03-25) van deze beleidsregel.
 
@@ -156,11 +181,11 @@ De vervoersprestaties voor cliënten ggz wonen sluiten aan bij de vervoerspresta
 
 De prestaties en prestatiebeschrijvingen voor logeren zijn vermeld in de [Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis](https://wetten.overheid.nl/jci1.3:c:BWBR0051621).
 
-#### Artikel 6. Overbruggingsperiode instroom sglvg en lvg
+##### Artikel 6. Overbruggingsperiode instroom sglvg en lvg
 
 Indien een cliënt geïndiceerd wordt voor een sglvg- of lvg-indicatie, maar er nog geen plaats is in een instelling die de bij dat profiel benodigde zorg kan leveren, kan volgens de [Rlz, artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=2.5), tijdelijk zorg geleverd worden middels een vpt, mpt, of via een intramurale zorgaanbieder. Deze vorm van overbruggingszorg geldt gedurende een periode van maximaal dertien weken. Op grond van [artikel 3.3.6, derde lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.6) kan die termijn van dertien weken worden verlengd indien er zicht op is dat binnen afzienbare tijd na het aflopen van die termijn zorg geboden kan worden in een instelling voor sglvg of lvg cliënten.
 
-#### Artikel 7. Prestatiebeschrijvingen modulaire zorg
+##### Artikel 7. Prestatiebeschrijvingen modulaire zorg
 
 De NZa stelt de navolgende prestatiebeschrijvingen vast. Deze prestaties zijn alleen van toepassing indien is voldaan aan de voorwaarden als weergegeven in de onderstaande overzichten. In [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=8&z=2026-03-25&g=2026-03-25) van deze beleidsregel staan de beleidsregelwaarden van deze prestaties vermeld.
 
@@ -911,7 +936,7 @@ Gecontracteerd vervoer heeft betrekking op zowel niet-rolstoelgebonden als rolst
 
 Niet gecontracteerd vervoer heeft betrekking op eigen vervoermiddelen en overige vervoermiddelen. Eigen vervoermiddelen zijn bijvoorbeeld een busje of een auto van de instelling, familie of een vrijwilliger. Overige vervoermidelen zijn bijvoorbeeld openbaar vervoer, de fiets of een elektrokar.
 
-#### Artikel 8. Prestatiebeschrijvingen en beleidsregelwaarden modulair pakket thuis
+##### Artikel 8. Prestatiebeschrijvingen en beleidsregelwaarden modulair pakket thuis
 
 De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=5&z=2026-03-25&g=2026-03-25) beschreven beleidsregelwaarden voor tariefvaststelling zijn hieronder beschreven. De prestatiebeschrijvingen van de in dit artikel vermelde prestaties zijn opgenomen in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052447&artikel=7&z=2026-03-25&g=2026-03-25) van deze beleidsregel.
 
@@ -1087,13 +1112,13 @@ Vervoer naar een plaats waar de cliënt gedurende een dagdeel dagbesteding of da
 | --- | --- | --- |
 | Coördinatiekosten levensloopaanpak per geïncludeerde | H540 | € 23,76 |
 
-#### Artikel 9. Intrekken oude beleidsregel
+##### Artikel 9. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050781), met kenmerk BR/REG-25130c, ingetrokken.
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0051619), met kenmerk BR/REG-26124a, ingetrokken.
 
-#### Artikel 10. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
+##### Artikel 10. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
 
 De [Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050781), met kenmerk BR/REG-25130c, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

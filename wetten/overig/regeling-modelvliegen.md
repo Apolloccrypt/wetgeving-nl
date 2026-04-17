@@ -1,13 +1,39 @@
 ---
-title: "Regeling modelvliegen"
+title: "Regeling van de Staatssecretaris van Verkeer en Waterstaat van 2 december 2005, nr. HDJZ/LUV/2005-2297, Hoofddirectie Juridische Zaken, houdende nadere regels voor vluchten met een modelvliegtuig (Regeling modelvliegen)"
 identifier: "BWBR0019147"
-categorie: "Overig"
-publicatiedatum: 2021-04-22
-laatste_update: 2021-04-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019147"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-04-22"
+last_updated: "2021-04-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019147"
+soort: "ministeriele-regeling"
+stam_id: "7656463"
+version_id: "21885372"
+internal_id: "C31408231"
+label_id: "7644204"
+dtd_version: "2.0"
+original_entry_into_force: "2014-12-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019147/2021-04-22/0"
+intitule_bron: "Stcrt.2005-239"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-02"
+intitule_published: "2005-12-08"
+intitule_in_force: "2005-12-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-35427"
+original_signed_date: "2014-12-09"
+original_published_date: "2014-12-11"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2014-35427"
+entry_into_force_date: "2014-12-12"
+jci_1_3: "jci1.3:c:BWBR0019147&z=2021-04-22&g=2021-04-22"
+jci_1_0: "1.0:c:BWBR0019147&g=2021-04-22"
+citeertitel_status: "officieel"
+short_title: "Regeling modelvliegen"
+signed_date: "2014-12-09"
+entry_into_force: "2014-12-12"
 ---
-
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat van 2 december 2005, nr. HDJZ/LUV/2005-2297, Hoofddirectie Juridische Zaken, houdende nadere regels voor vluchten met een modelvliegtuig (Regeling modelvliegen)
 
 Handelende in overeenstemming met de Staatssecretaris van defensie;
@@ -16,7 +42,7 @@ Gelet op [artikel 5.7 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **uitvoeringsverordening (EU) nr. 2019/947:** Uitvoeringsverordening (EU) nr. 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 20139, L 152).
 
-#### Artikel 2
+##### Artikel 2
 
 Onverminderd het [Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899) gelden voor een vlucht met een modelluchtvaartuig die wordt uitgevoerd in het verband van een modelluchtvaartuigclub of -vereniging, als bedoeld in artikel 2, onder 10, van uitvoeringsverordening (EU) nr. 2019/947 de volgende regels:
 
@@ -58,35 +84,35 @@ Onverminderd het [Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c
 
 - m. de regels voor de navigatie- en telecommunicatie-installaties waarmee een luchtvaartuig voor het uitvoeren van een VFR-vlucht is uitgerust, gelden niet.
 
-#### Artikel 3
+##### Artikel 3
 
 Modelluchtvaartuigen worden aangewezen als onbemande luchtvaartuigen, bedoeld in [artikel 5.7, derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.7).
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling modelvliegen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust op [artikel 5.7, derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.7) en [artikel 4a van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=4a).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1b
+##### Artikel 1b
 
 1. Modelluchtvaartuigen verlenen voorrang aan vliegtuigen, helikopters, zweeftoestellen, vrije ballonnen en luchtschepen.
 

@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel ontheffing leer-werk-traject taxi"
+title: "Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu, van 1 mei 2013, nr. ILT-2013/15952, inzake verlening van ontheffing van de eis een chauffeurskaart in het bezit te hebben en te gebruiken, ten behoeve van de deelname aan een leer-werk-traject (beleidsregel ontheffing leer-werk-traject taxi)"
 identifier: "BWBR0033521"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-06-16
-laatste_update: 2013-06-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033521"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2013-06-16"
+last_updated: "2013-06-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033521"
+soort: "beleidsregel"
+stam_id: "12282963"
+version_id: "20568442"
+internal_id: "C28921021"
+label_id: "12254304"
+dtd_version: "2.0"
+original_entry_into_force: "2013-06-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033521/2013-06-16/0"
+intitule_bron: "Stcrt.2013-14962"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-05-01"
+intitule_published: "2013-06-14"
+intitule_in_force: "2013-06-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-14962"
+original_signed_date: "2013-05-01"
+original_published_date: "2013-06-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-14962"
+entry_into_force_date: "2013-06-16"
+jci_1_3: "jci1.3:c:BWBR0033521&z=2013-06-16&g=2013-06-16"
+jci_1_0: "1.0:c:BWBR0033521&g=2013-06-16"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel ontheffing leer-werk-traject taxi"
+signed_date: "2013-05-01"
+entry_into_force: "2013-06-16"
 ---
-
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu, van 1 mei 2013, nr. ILT-2013/15952, inzake verlening van ontheffing van de eis een chauffeurskaart in het bezit te hebben en te gebruiken, ten behoeve van de deelname aan een leer-werk-traject (beleidsregel ontheffing leer-werk-traject taxi)
 
 Gelet op onderdeel e van het eerste lid van [artikel 79 van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=79) en [het negende lid van artikel 83 van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - f. **CBR:** Stichting Centraal Bureau Rijvaardigheidsbewijzen;
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een ontheffing wordt op aanvraag verstrekt.
 
@@ -52,29 +78,29 @@ In deze beleidsregel wordt verstaan onder:
 
 5. Een ontheffing wordt geweigerd indien aan de aanvrager eerder een ontheffing is verstrekt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien de houder van een ontheffing het examen vakbekwaamheid voor het besturen van een taxi, bedoeld in [artikel 3 van de Regeling taxibestuurders 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&artikel=3), met goed gevolg heeft afgelegd, wordt aan hem een chauffeurskaart verleend.
 
 2. Aan de houder van een ontheffing wordt slechts een chauffeurskaart verstrekt tegen inlevering van de beschikking tot verlening van de ontheffing.
 
-#### Artikel 4
+##### Artikel 4
 
 De houder van een ontheffing heeft in de auto waarmee hij LWT-contractvervoer verricht een gezamenlijke verklaring aanwezig.
 
-#### Artikel 5
+##### Artikel 5
 
 Het model voor de verklaring, bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0033521&artikel=1&z=2013-06-16&g=2013-06-16). is opgenomen in bijlage 1 bij deze beleidsregel.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze beleidsregel wordt aangehaald als: beleidsregel ontheffing leer-werk-traject taxi.
 
-#### Artikel 7
+##### Artikel 7
 
 De [Tijdelijke beleidsregel leer-werk-traject taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0020893) wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze wordt geplaatst en vervalt op een door de Minister te bepalen tijdstip.
 

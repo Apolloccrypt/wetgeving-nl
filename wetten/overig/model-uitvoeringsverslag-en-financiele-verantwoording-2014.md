@@ -1,13 +1,38 @@
 ---
 title: "Model Uitvoeringsverslag en financiële verantwoording 2014"
 identifier: "BWBR0035734"
-categorie: "Overig"
-publicatiedatum: 2014-11-07
-laatste_update: 2014-11-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035734"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-11-07"
+last_updated: "2014-11-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035734"
+soort: "zbo"
+stam_id: "12832063"
+version_id: "21802242"
+internal_id: "C31288751"
+label_id: "12803444"
+dtd_version: "2.0"
+original_entry_into_force: "2014-11-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035734/2014-11-07/0"
+intitule_bron: "Stcrt.2014-31358"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-10-14"
+intitule_published: "2014-11-06"
+intitule_in_force: "2014-11-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-31358"
+original_signed_date: "2014-10-14"
+original_published_date: "2014-11-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-31358"
+entry_into_force_date: "2014-11-07"
+jci_1_3: "jci1.3:c:BWBR0035734&z=2014-11-07&g=2014-11-07"
+jci_1_0: "1.0:c:BWBR0035734&g=2014-11-07"
+citeertitel_status: "redactioneel"
+signed_date: "2014-10-14"
+entry_into_force: "2014-11-07"
 ---
-
 # Model Uitvoeringsverslag en financiële verantwoording 2014
 
 ### Verantwoordingsplicht concessiehouders over de uitvoering [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)

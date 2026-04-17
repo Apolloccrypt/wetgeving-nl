@@ -1,13 +1,35 @@
 ---
 title: "Deelregeling Bewustwording Slavernijverleden"
 identifier: "BWBR0051800"
-categorie: "Overig"
-publicatiedatum: 2025-11-22
-laatste_update: 2025-11-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051800"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-11-22"
+last_updated: "2025-11-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051800"
+soort: "zbo"
+stam_id: "17608953"
+version_id: "31088672"
+internal_id: "C44508201"
+label_id: "17509494"
+dtd_version: "2.0"
+original_entry_into_force: "2025-11-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051800/2025-11-22/0"
+intitule_bron: "Stcrt.2025-39693"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-11-21"
+intitule_in_force: "2025-11-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-39693"
+original_published_date: "2025-11-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-39693"
+entry_into_force_date: "2025-11-22"
+jci_1_3: "jci1.3:c:BWBR0051800&z=2025-11-22&g=2025-11-22"
+jci_1_0: "1.0:c:BWBR0051800&g=2025-11-22"
+citeertitel_status: "officieel"
+entry_into_force: "2025-11-22"
 ---
-
 # Deelregeling Bewustwording Slavernijverleden
 
 Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
@@ -16,11 +38,11 @@ Besluit:
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 1.1. Doel
+##### Artikel 1.1. Doel
 
 Het doel van de regeling is om zowel instellingen als individuele kunstenaars en curatoren/beschouwers de mogelijkheid te geven een plan te realiseren dat bijdraagt aan de bewustwording van het slavernijverleden in het Koninkrijk der Nederlanden.
 
-#### Artikel 1.2. Doelgroepen
+##### Artikel 1.2. Doelgroepen
 
 Subsidie kan worden aangevraagd door:
 
@@ -32,7 +54,7 @@ Subsidie kan worden aangevraagd door:
 
 - II. onafhankelijke curator of beschouwer.
 
-#### Artikel 1.3. Subsidieplafond
+##### Artikel 1.3. Subsidieplafond
 
 1. Voor de Deelregeling Bewustwording Slavernijverleden geldt in 2026 een subsidieplafond van € 711.443,– dat wordt verdeeld over twee deelplafonds.
 
@@ -42,19 +64,19 @@ Subsidie kan worden aangevraagd door:
 
 4. Indien een deelplafond niet volledig wordt benut, kan het bestuur besluiten het resterende bedrag toe te voegen aan het andere deelplafond binnen het in het eerste lid bedoelde subsidieplafond.
 
-#### Artikel 1.4. Indieningsperiode
+##### Artikel 1.4. Indieningsperiode
 
 Aanvraag kunnen worden ingediend vanaf 18 december 2025 tot en met 16 juli 2026 om 16.00 uur (CEST) / 10.00 (AST).
 
 #### Paragraaf 2. Instellingen
 
-#### Artikel 2.1. Aanvrager
+##### Artikel 2.1. Aanvrager
 
 1. De aanvrager is een culturele instelling in Nederland of het Caribisch deel van het Koninkrijk, met rechtspersoonlijkheid, zonder winstoogmerk en/of verkoopdoel, die gericht is op het presenteren van cultureel erfgoed en/of beeldende kunst.
 
 2. Instellingen voor kunstonderwijs of postacademische instellingen kunnen niet aanvragen.
 
-#### Artikel 2.2. Subsidiabele activiteiten
+##### Artikel 2.2. Subsidiabele activiteiten
 
 1. Instellingen, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051800&paragraaf=2&artikel=2.1&z=2025-11-22&g=2025-11-22), kunnen subsidie aanvragen voor het aanstellen van, of een opdracht verlenen aan een beeldend kunstenaar, curator of erfgoedprofessional die een onderzoek gaat uitvoeren, een artistiek project gaat ontwikkelen en presenteren, of programma’s ontwikkelt die bijdragen aan bewustwording over het slavernijverleden.
 
@@ -66,7 +88,7 @@ Aanvraag kunnen worden ingediend vanaf 18 december 2025 tot en met 16 juli 2026 
 
 5. Instellingen kunnen maximaal één keer per ronde een subsidie Bewustwording Slavernijverleden ontvangen.
 
-#### Artikel 2.3. Hoogte en vorm subsidie
+##### Artikel 2.3. Hoogte en vorm subsidie
 
 1. De hoogte van de subsidie bedraagt € 50.000 per positie met een maximale looptijd van twee jaar.
 
@@ -76,7 +98,7 @@ Aanvraag kunnen worden ingediend vanaf 18 december 2025 tot en met 16 juli 2026 
 
 4. De kosten voor een eventuele detachering, transitievergoeding of andere kosten na afloop van het dienstverband kunnen niet gefinancierd worden met de subsidie.
 
-#### Artikel 2.4. Aanvraag
+##### Artikel 2.4. Aanvraag
 
 1. Naast de bepalingen vastgesteld in het Algemeen Reglement, in het aanvraagformulier en in de toelichting daarop, dient de aanvraag vergezeld te gaan van een:
 
@@ -100,7 +122,7 @@ Aanvraag kunnen worden ingediend vanaf 18 december 2025 tot en met 16 juli 2026 
 
 - b. bewijsstuk waaruit blijkt dat de instelling niet btw-plichtig is, indien de instelling niet btw-plichtig is.
 
-#### Artikel 2.5. Beoordeling
+##### Artikel 2.5. Beoordeling
 
 1. Het bevoegd adviesorgaan beoordeelt of het plan bijdraagt aan de bewustwording van het slavernijverleden. Daarbij worden onderstaande criteria in onderlinge samenhang gehanteerd:
 
@@ -118,7 +140,7 @@ Aanvraag kunnen worden ingediend vanaf 18 december 2025 tot en met 16 juli 2026 
 
 3. Indien het bevoegd adviesorgaan op basis van de beoordeling aan de hand van het totaalbeeld van de drie beoordelingscriteria, de aanvraag van voldoende belang acht, komt het tot een positief advies over de aanvraag. Wordt de aanvraag niet van voldoende belang geacht, dan brengt het een negatief advies uit.
 
-#### Artikel 2.6. Honorering en verdeling budget
+##### Artikel 2.6. Honorering en verdeling budget
 
 1. Indien het deelplafond, bedoeld in [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051800&paragraaf=1&artikel=1.3&z=2025-11-22&g=2025-11-22), ontoereikend is om alle positief beoordeelde aanvragen te honoreren, worden de positief beoordeelde aanvragen gerangschikt op basis van de in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051800&paragraaf=2&artikel=2.5&z=2025-11-22&g=2025-11-22), genoemde beoordelingscriteria.
 
@@ -128,7 +150,7 @@ Aanvraag kunnen worden ingediend vanaf 18 december 2025 tot en met 16 juli 2026 
 
 #### Paragraaf 3. Individuen
 
-#### Artikel 3.1. Aanvrager
+##### Artikel 3.1. Aanvrager
 
 1. De aanvrager is een natuurlijk persoon die aantoonbaar professioneel werkzaam is in de beeldende kunst en/of cultureel erfgoed als:
 
@@ -144,7 +166,7 @@ Aanvraag kunnen worden ingediend vanaf 18 december 2025 tot en met 16 juli 2026 
 
 3. De aanvrager, bedoeld in het eerste lid, onder b, is minimaal twee jaar aantoonbaar professioneel werkzaam als curator of beschouwer in de beeldende kunst of het cultureel erfgoed.
 
-#### Artikel 3.2. Subsidiabele activiteiten
+##### Artikel 3.2. Subsidiabele activiteiten
 
 1. Individuen, bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051800&paragraaf=3&artikel=3.1&z=2025-11-22&g=2025-11-22), kunnen subsidie aanvragen voor het uitvoeren van een specifiek plan, gebonden aan een duidelijke werkperiode, dat bijdraagt aan de bewustwording van het slavernijverleden. Hierbij geldt:
 
@@ -164,7 +186,7 @@ Aanvraag kunnen worden ingediend vanaf 18 december 2025 tot en met 16 juli 2026 
 
 4. Stapeling van subsidies is niet toegestaan; individuen die in het kader van deze regeling door een instelling worden voorgedragen voor een project, residentie of werkplek kunnen binnen deze regeling geen individuele aanvraag indienen.
 
-#### Artikel 3.3. Hoogte en vorm subsidie
+##### Artikel 3.3. Hoogte en vorm subsidie
 
 1. De hoogte van de subsidie voor activiteiten, bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051800&paragraaf=3&artikel=3.2&z=2025-11-22&g=2025-11-22), bedraagt minimaal € 20.000 en maximaal € 50.000, met een looptijd van maximaal 12 maanden.
 
@@ -178,7 +200,7 @@ Aanvraag kunnen worden ingediend vanaf 18 december 2025 tot en met 16 juli 2026 
 
 4. Indien een andere partij zoals een kunstpodium, museum, een galerie, of een (particuliere) opdrachtgever bij de aanvraag voor een subsidie betrokken is, dient de financiële bijdrage die deze partij levert in een aanvaardbare verhouding te staan tot de subsidie van het fonds. Daarnaast wordt van betrokken culturele instellingen verwacht dat zij de Fair Practice Code onderschrijven. Dat betekent automatisch dat de instelling de richtlijn kunstenaarshonoraria in de praktijk brengt.
 
-#### Artikel 3.4. Aanvraag
+##### Artikel 3.4. Aanvraag
 
 1. Naast de bepalingen vastgesteld in het Algemeen Reglement, in het aanvraagformulier en in de toelichting daarop, dient de aanvraag vergezeld te gaan van een:
 
@@ -204,7 +226,7 @@ Aanvraag kunnen worden ingediend vanaf 18 december 2025 tot en met 16 juli 2026 
 
 - e. uittreksel van de Kamer van Koophandel van maximaal 3 maanden oud, indien de aanvrager een zakelijk rekeningnummer van een eigen eenmanszaak heeft.
 
-#### Artikel 3.5. Beoordeling
+##### Artikel 3.5. Beoordeling
 
 1. Het bevoegd adviesorgaan beoordeelt of het plan bijdraagt aan de bewustwording van het slavernijverleden. Daarbij worden onderstaande criteria in onderlinge samenhang gehanteerd:
 
@@ -234,7 +256,7 @@ Aanvraag kunnen worden ingediend vanaf 18 december 2025 tot en met 16 juli 2026 
 
 5. Een positief advies kan vergezeld gaan van een aanbeveling over de hoogte van de toe te kennen bijdrage en over de periode waarover de subsidie verstrekt wordt.
 
-#### Artikel 3.6. Honorering en verdeling
+##### Artikel 3.6. Honorering en verdeling
 
 1. Indien het deelplafond, bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051800&paragraaf=1&artikel=1.3&z=2025-11-22&g=2025-11-22), ontoereikend is om alle positief beoordeelde aanvragen te honoreren, worden deze aanvragen gerangschikt op basis van de in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051800&paragraaf=3&artikel=3.5&z=2025-11-22&g=2025-11-22), genoemde beoordelingscriteria.
 
@@ -244,19 +266,19 @@ Aanvraag kunnen worden ingediend vanaf 18 december 2025 tot en met 16 juli 2026 
 
 #### Paragraaf 4. Overige bepalingen
 
-#### Artikel 4.1. Begrotingsvoorbehoud
+##### Artikel 4.1. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende middelen door de Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 4.2. Inwerkingtreding
+##### Artikel 4.2. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 4.3. Hardheidsclausule
+##### Artikel 4.3. Hardheidsclausule
 
 Het bestuur kan in uitzonderlijke gevallen ten gunste van een belanghebbende van bepalingen in dit reglement afwijken indien toepassing daarvan leidt tot onbillijkheid van overwegende aard.
 
-#### Artikel 4.4. Citeertitel
+##### Artikel 4.4. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Bewustwording Slavernijverleden.
 

@@ -1,20 +1,46 @@
 ---
-title: "Regeling verlenging en digitalisering landelijke commerciële radio-omroep 2017"
+title: "Regeling van de Minister van Economische Zaken van 17 maart 2017, nr. WJZ/17041366, houdende regels inzake aanvraag en verlenging vergunningen landelijke commerciële radio-omroep in de FM-band (Regeling verlenging en digitalisering landelijke commerciële radio-omroep 2017)"
 identifier: "BWBR0039358"
-categorie: "Overig"
-publicatiedatum: 2017-03-23
-laatste_update: 2017-03-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039358"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-03-23"
+last_updated: "2017-03-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039358"
+soort: "ministeriele-regeling"
+stam_id: "13956773"
+version_id: "23998702"
+internal_id: "C34494451"
+label_id: "13920004"
+dtd_version: "2.0"
+original_entry_into_force: "2017-03-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039358/2017-03-23/0"
+intitule_bron: "Stcrt.2017-16290"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-03-17"
+intitule_published: "2017-03-22"
+intitule_in_force: "2017-03-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-16290"
+original_signed_date: "2017-03-17"
+original_published_date: "2017-03-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-16290"
+entry_into_force_date: "2017-03-23"
+jci_1_3: "jci1.3:c:BWBR0039358&z=2017-03-23&g=2017-03-23"
+jci_1_0: "1.0:c:BWBR0039358&g=2017-03-23"
+citeertitel_status: "officieel"
+short_title: "Regeling verlenging en digitalisering landelijke commerciële radio-omroep 2017"
+signed_date: "2017-03-17"
+entry_into_force: "2017-03-23"
 ---
-
 # Regeling van de Minister van Economische Zaken van 17 maart 2017, nr. WJZ/17041366, houdende regels inzake aanvraag en verlenging vergunningen landelijke commerciële radio-omroep in de FM-band (Regeling verlenging en digitalisering landelijke commerciële radio-omroep 2017)
 
 Gelet op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=12) en [18, vijfde en elfde lid, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=18);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - **vergunning voor digitale radio-omroep:** vergunning voor het gebruik van 1/9e deel van een capaciteit van het frequentieblok bedoeld in nationale voetnoot HOL007A van het Nationaal Frequentieplan 2014 die gekoppeld is aan de te verlengen vergunning.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een aanvraag om verlenging van de looptijd van een FM-vergunning tot 1 september 2022 wordt ingediend bij de minister.
 
@@ -42,13 +68,13 @@ In deze regeling wordt verstaan onder:
 
 5. De aanvraag wordt ingediend met gebruikmaking van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039358&bijlage=1&z=2017-03-23&g=2017-03-23) opgenomen model en gaat vergezeld van de in dit model genoemde gegevens en bescheiden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Teneinde te kunnen voldoen aan het Nationaal Frequentieplan 2014, doet de aanvrager gelijktijdig met zijn aanvraag om verlenging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039358&artikel=2&z=2017-03-23&g=2017-03-23), een aanvraag voor een vergunning voor digitale radio-omroep per FM-vergunning waar die aanvraag tot verlenging betrekking op heeft. In geval van persoonlijke overhandiging is artikel 2, derde lid, van overeenkomstige toepassing.
 
 2. [Artikel 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039358&artikel=2&z=2017-03-23&g=2017-03-23), is van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien de aanvrager een of meer bedragen is verschuldigd op grond van [artikel 2 van de Regeling vaststelling bedrag landelijke commerciële radio-omroep 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039357&artikel=2), verstrekt de aanvrager een waarborgsom of een bankgarantie ter grootte van het totale verschuldigde bedrag.
 
@@ -56,13 +82,13 @@ In deze regeling wordt verstaan onder:
 
 3. Bij de verstrekking van een bankgarantie wordt gebruik gemaakt van de modelbankgarantie, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039358&bijlage=2&z=2017-03-23&g=2017-03-23). [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039358&artikel=2&z=2017-03-23&g=2017-03-23), is van overeenkomstige toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien niet is voldaan aan [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039358&artikel=2&z=2017-03-23&g=2017-03-23), of [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039358&artikel=3&z=2017-03-23&g=2017-03-23), weigert de minister de aanvraag om verlenging, bedoeld in artikel 2.
 
 2. Onverminderd het eerste lid, wordt de aanvraag om verlenging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039358&artikel=2&z=2017-03-23&g=2017-03-23), geweigerd in geval de aanvraag om een vergunning voor digitale radio-omroep, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039358&artikel=3&z=2017-03-23&g=2017-03-23), op grond van [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.18) wordt geweigerd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien de aanvrager niet heeft voldaan aan een van de in [artikel 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039358&artikel=2&z=2017-03-23&g=2017-03-23), in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039358&artikel=3&z=2017-03-23&g=2017-03-23), of in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039358&artikel=4&z=2017-03-23&g=2017-03-23) gestelde eisen, deelt de minister dit de aanvrager mee en stelt de minister de aanvrager in de gelegenheid het verzuim te herstellen.
 
@@ -72,7 +98,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien het verzuim niet binnen de termijn, bedoeld in het tweede en het derde lid, en niet op de wijze, vermeld in het derde lid, is hersteld of de aanvrager na herstel niet heeft voldaan aan de in [artikel 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039358&artikel=2&z=2017-03-23&g=2017-03-23), in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039358&artikel=3&z=2017-03-23&g=2017-03-23), of in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039358&artikel=4&z=2017-03-23&g=2017-03-23) gestelde eisen, kan de minister besluiten de aanvraag niet te behandelen.
 
-#### Artikel 7
+##### Artikel 7
 
 Een aanvraag om verlenging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039358&artikel=2&z=2017-03-23&g=2017-03-23), wordt toegewezen, voor zover de aanvraag:
 
@@ -82,15 +108,15 @@ Een aanvraag om verlenging, bedoeld in [artikel 2, eerste lid](https://wetten.ov
 
 - c. door de minister niet wordt geweigerd met toepassing van de gronden bedoeld in [artikel 3.19, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.19), welke gronden van overeenkomstige toepassing worden verklaard op de aanvraag tot verlenging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039358&artikel=2&z=2017-03-23&g=2017-03-23).
 
-#### Artikel 8
+##### Artikel 8
 
 Indien de aanvraag, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039358&artikel=2&z=2017-03-23&g=2017-03-23), wordt toegewezen, verleent de minister gelijktijdig een vergunning voor digitale radio-omroep per, op grond van die aanvraag, te verlengen FM-vergunning. De aanvraag om verlening van een vergunning voor digitale radio-omroep wordt in elk geval geweigerd indien de aanvraag, bedoeld in artikel 2, eerste lid, niet wordt toegewezen.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling verlenging en digitalisering landelijke commerciële radio-omroep 2017.
 

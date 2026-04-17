@@ -1,13 +1,39 @@
 ---
-title: "Besluit transparantieverslag richtlijn collectief beheer"
+title: "Besluit van 23 november 2016 ter uitvoering van de bijlage van Richtlijn 2014/26/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende het collectieve beheer van auteursrechten en naburige rechten en de multiterritoriale licentieverlening van rechten inzake muziekwerken voor het online gebruik ervan op de interne markt (Pb. 2014, L 84, 92) (Besluit transparantieverslag richtlijn collectief beheer)"
 identifier: "BWBR0038752"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038752"
+country: "nl"
+rank: "amvb"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038752"
+soort: "AMvB"
+stam_id: "13799113"
+version_id: "23668452"
+internal_id: "C34072961"
+label_id: "13765264"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038752/2017-01-01/0"
+intitule_bron: "Stb.2016-447"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-11-23"
+intitule_published: "2016-11-25"
+intitule_in_force: "2016-11-25"
+intitule_status: "goed"
+original_publication: "Stb.2016-447"
+original_signed_date: "2016-11-23"
+original_published_date: "2016-11-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2016-447"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0038752&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBR0038752&g=2017-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit transparantieverslag richtlijn collectief beheer"
+signed_date: "2016-11-23"
+entry_into_force: "2017-01-01"
 ---
-
 # Besluit van 23 november 2016 ter uitvoering van de bijlage van Richtlijn 2014/26/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende het collectieve beheer van auteursrechten en naburige rechten en de multiterritoriale licentieverlening van rechten inzake muziekwerken voor het online gebruik ervan op de interne markt (Pb. 2014, L 84, 92) (Besluit transparantieverslag richtlijn collectief beheer)
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 3 november 2016, nr. 2010723, directie Wetgeving en Juridische Zaken;
@@ -20,11 +46,11 @@ Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 23 nov
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder de Wet toezicht: de [Wet toezicht en geschillenbeslechting collectieve beheersorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0014779).
 
-#### Artikel 2
+##### Artikel 2
 
 Het jaarlijkse transparantieverslag als bedoeld in [artikel 2q van de Wet toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2q) bevat, naast de informatie die is voorgeschreven op basis van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), de volgende informatie:
 
@@ -42,7 +68,7 @@ Het jaarlijkse transparantieverslag als bedoeld in [artikel 2q van de Wet toezic
 
 - g. een speciaal verslag over het gebruik van bedragen die zijn ingehouden ten behoeve van sociale, culturele en educatieve diensten, waarin de informatie bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038752&artikel=3&z=2017-01-01&g=2017-01-01) van dit besluit wordt opgenomen.
 
-#### Artikel 3
+##### Artikel 3
 
 Financiële gegevens als bedoeld in [artikel 2, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0038752&artikel=2&z=2017-01-01&g=2017-01-01), betreffen:
 
@@ -88,7 +114,7 @@ Financiële gegevens als bedoeld in [artikel 2, onderdeel f](https://wetten.over
 
 - 4. de rechtstreeks onder rechthebbenden verdeelde bedragen die afkomstig zijn van andere collectieve beheersorganisaties, met een onderverdeling per rechtencategorie en per organisatie.
 
-#### Artikel 4
+##### Artikel 4
 
 Het speciale verslag als bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0038752&artikel=2&z=2017-01-01&g=2017-01-01), bevat de volgende informatie:
 
@@ -96,11 +122,11 @@ Het speciale verslag als bedoeld in [artikel 2, onderdeel g](https://wetten.over
 
 - b. een toelichting van het gebruik van die bedragen, met een onderverdeling per soort doelstelling met inbegrip van de kosten voor het beheer van de ingehouden bedragen ter financiering van sociale, culturele en educatieve diensten en van de afzonderlijke bedragen die voor sociale, culturele en educatieve diensten zijn aangewend.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van 1 januari 2017. Indien het Staatsblad waarin dit besluit tijdstip wordt geplaatst, wordt uitgegeven na 31 december 2016, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt het terug tot en met 1 januari 2017.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit transparantieverslag richtlijn collectief beheer.
 

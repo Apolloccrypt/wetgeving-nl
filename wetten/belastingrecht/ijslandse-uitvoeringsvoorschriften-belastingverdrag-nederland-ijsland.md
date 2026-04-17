@@ -1,13 +1,38 @@
 ---
-title: "IJslandse uitvoeringsvoorschriften belastingverdrag Nederland-IJsland"
+title: "IJslandse voorschriften tot uitvoering van het op 25 september 1997 tussen Nedeland en IJsland gesloten Verdrag tot het vermijden van dubbele belasting"
 identifier: "BWBR0010643"
-categorie: "Belastingrecht"
-publicatiedatum: 1999-08-13
-laatste_update: 1999-08-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010643"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1999-08-13"
+last_updated: "1999-08-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010643"
+soort: "ministeriele-regeling"
+stam_id: "3956943"
+version_id: "5730022"
+internal_id: "C5932751"
+label_id: "3936934"
+dtd_version: "2.0"
+original_entry_into_force: "1999-08-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010643/1999-08-13/0"
+intitule_bron: "Stcrt.1999-152"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-08-05"
+intitule_published: "1999-08-11"
+intitule_in_force: "1999-08-11"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-152"
+original_signed_date: "1999-08-05"
+original_published_date: "1999-08-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-08-13"
+jci_1_3: "jci1.3:c:BWBR0010643&z=1999-08-13&g=1999-08-13"
+jci_1_0: "1.0:c:BWBR0010643&g=1999-08-13"
+citeertitel_status: "officieel"
+short_title: "IJslandse uitvoeringsvoorschriften belastingverdrag Nederland-IJsland"
+signed_date: "1999-08-05"
+entry_into_force: "1999-08-13"
 ---
-
 # IJslandse voorschriften tot uitvoering van het op 25 september 1997 tussen Nedeland en IJsland gesloten Verdrag tot het vermijden van dubbele belasting
 
 Besluit:
@@ -16,7 +41,7 @@ Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende 
 
 **Regeling inzake vermindering en vrijstelling van IJslandse belasting op dividenden, interest en royalty's genoten door inwoners van Nederland**
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan het op 25 september 1997 tussen Nederland en IJsland gesloten Verdrag tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen en het Protocol bij dat Verdrag (Trb. 1998, 44, 148 en 274), kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van het Verdrag en onderdelen van het Protocol:
 
@@ -28,7 +53,7 @@ Aan het op 25 september 1997 tussen Nederland en IJsland gesloten Verdrag tot he
 
 - d. algehele vrijstelling van de IJslandse belasting op royalty’s (vergoedingen van welke aard ook voor het gebruik van, of voor het recht van gebruik van, een auteursrecht op een werk op het gebied van letterkunde, kunst of wetenschap, waaronder begrepen bioscoopfilms, een octrooi, een fabrieks- of handelsmerk, een tekening of model, een plan, een geheim recept of een geheime werkwijze, of voor inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap) afkomstig uit IJsland en betaald aan een inwoner van Nederland die de uiteindelijk gerechtigde daarvan is (artikel 12, eerste en derde lid). Vergoedingen voor technische diensten, waaronder begrepen studies of onderzoeken van wetenschappelijke, geologische of technische aard, of voor diensten van raadgevende of toezichthoudende aard, worden echter niet als royalty’s beschouwd (onderdeel V van het Protocol). De in de onderdelen c en d van dit artikel vermelde vrijstellingen en de in de onderdelen a en b vermelde verminderingen zijn niet van toepassing indien de genieter van de dividenden, de interest of de royalty’s in IJsland een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in IJsland zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest wordt betaald of het recht of de zaak uit hoofde waarvan de royalty’s worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort (artikel 10, zevende lid, respectievelijk artikel 11, vierde lid, en artikel 12, vierde lid).
 
-#### Artikel 2. IJslandse regeling
+##### Artikel 2. IJslandse regeling
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010643&artikel=1&z=1999-08-13&g=1999-08-13) is van IJslandse zijde de volgende regeling getroffen:
 
@@ -44,7 +69,7 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010643&a
 
 - 6. **Verkrijgbaarheid van de IJslandse formulieren** Exemplaren van de IJslandse formulieren RSK 14.03 zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in IJsland bij het Ministry of Finance, Directorate of Internal Revenue, Laugavegur 166, 150 Reykjavik.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: IJslandse uitvoeringsvoorschriften belastingverdrag Nederland-IJsland.
 

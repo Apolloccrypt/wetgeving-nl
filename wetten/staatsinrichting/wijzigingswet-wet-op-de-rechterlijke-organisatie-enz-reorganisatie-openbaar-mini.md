@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Wet op de rechterlijke organisatie, enz. (reorganisatie openbaar ministerie en instelling landelijk parket)"
+title: "Wet van 19 april 1999 tot wijziging van de Wet op de rechterlijke organisatie, het Wetboek van Strafvordering, de Politiewet 1993 en andere wetten (reorganisatie openbaar ministerie en instelling landelijk parket)"
 identifier: "BWBR0010416"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 1999-06-01
-laatste_update: 1999-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010416"
+country: "nl"
+rank: "wet"
+publication_date: "1999-06-01"
+last_updated: "1999-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010416"
+soort: "wet"
+stam_id: "1083313"
+version_id: "1597302"
+internal_id: "C1597301"
+label_id: "1050204"
+dtd_version: "2.0"
+original_entry_into_force: "1999-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010416/1999-06-01/0"
+intitule_bron: "Stb.1999-194"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-04-19"
+intitule_published: "1999-05-27"
+intitule_in_force: "1999-05-27"
+intitule_status: "goed"
+original_publication: "Stb.1999-194"
+original_signed_date: "1999-04-19"
+original_published_date: "1999-05-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "25392"
+original_url_id: "stb-1999-194"
+entry_into_force_date: "1999-06-01"
+jci_1_3: "jci1.3:c:BWBR0010416&z=1999-06-01&g=1999-06-01"
+jci_1_0: "1.0:c:BWBR0010416&g=1999-06-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op de rechterlijke organisatie, enz. (reorganisatie openbaar ministerie en instelling landelijk parket)"
+signed_date: "1999-04-19"
+entry_into_force: "1999-06-01"
 ---
-
-# Wijzigingswet Wet op de rechterlijke organisatie, enz. (reorganisatie openbaar ministerie en instelling landelijk parket)
+# Wet van 19 april 1999 tot wijziging van de Wet op de rechterlijke organisatie, het Wetboek van Strafvordering, de Politiewet 1993 en andere wetten (reorganisatie openbaar ministerie en instelling landelijk parket)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,129 +43,129 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is een reorganisatie va
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### ARTIKEL I
+##### ARTIKEL I
 
 Wijzigt de Wet op de rechterlijke organisatie.
 
-#### ARTIKEL II
+##### ARTIKEL II
 
 Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
-#### ARTIKEL III
+##### ARTIKEL III
 
 Wijzigt de Beroepswet.
 
-#### ARTIKEL IV
+##### ARTIKEL IV
 
 Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 
-#### ARTIKEL V
+##### ARTIKEL V
 
 Wijzigt de Wet op de studiefinanciering.
 
-#### ARTIKEL VI
+##### ARTIKEL VI
 
 Wijzigt de Wet van 16 augustus 1951 (Stb. 386) tot openstelling van rechterlijke betrekkingen, advocatuur en notariaat voor bepaalde groepen van Indische juristen, notarissen en candidaat-notarissen.
 
-#### ARTIKEL VII
+##### ARTIKEL VII
 
 Wijzigt de Advocatenwet.
 
-#### ARTIKEL VIII
+##### ARTIKEL VIII
 
 Wijzigt de Wetboek van Strafvordering.
 
-#### ARTIKEL IX
+##### ARTIKEL IX
 
 Wijzigt de Politiewet 1993.
 
-#### ARTIKEL X
+##### ARTIKEL X
 
 Wijzigt de Arbeidswet 1919.
 
-#### ARTIKEL XI
+##### ARTIKEL XI
 
 Wijzigt de Pachtwet.
 
-#### ARTIKEL XII
+##### ARTIKEL XII
 
 Wijzigt de Vreemdelingenwet.
 
-#### ARTIKEL XIII
+##### ARTIKEL XIII
 
 Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
 
-#### ARTIKEL XIV
+##### ARTIKEL XIV
 
 Wijzigt de Wet bescherming staatsgeheimen 1951.
 
-#### ARTIKEL XV
+##### ARTIKEL XV
 
 Wijzigt de Algemene wet op het binnentreden.
 
-#### ARTIKEL XVI
+##### ARTIKEL XVI
 
 Wijzigt de Wet op de economische delicten.
 
-#### ARTIKEL XVII
+##### ARTIKEL XVII
 
 Wijzigt de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag.
 
-#### ARTIKEL XVIII
+##### ARTIKEL XVIII
 
 Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten.
 
-#### ARTIKEL XIX
+##### ARTIKEL XIX
 
 Wijzigt de Wet oorlogsstrafrecht.
 
-#### ARTIKEL XX
+##### ARTIKEL XX
 
 Wijzigt de Wet tarieven in strafzaken.
 
-#### ARTIKEL XXI
+##### ARTIKEL XXI
 
 Wijzigt Boek 2 van het Burgerlijk Wetboek.
 
-#### ARTIKEL XXII
+##### ARTIKEL XXII
 
 Wijzigt de Wetboek van Burgerlijke Rechtsvordering.
 
-#### ARTIKEL XXIII
+##### ARTIKEL XXIII
 
 Wijzigt de Wetboek van Strafrecht.
 
-#### ARTIKEL XXIV
+##### ARTIKEL XXIV
 
 Wijzigt de Wet op de samenstelling op de burgerlijke gerechten.
 
-#### ARTIKEL XXV
+##### ARTIKEL XXV
 
 Wijzigt de Wet militaire strafrechtspraak.
 
-#### ARTIKEL XXVI
+##### ARTIKEL XXVI
 
 Wijzigt de Ambtenarenwet.
 
-#### ARTIKEL XXVII
+##### ARTIKEL XXVII
 
 Wijzigt de Wet op de rechterlijke organisatie.
 
-#### ARTIKEL XXVIII
+##### ARTIKEL XXVIII
 
 Wijzigt de Wetboek van Militair Strafrecht.
 
-#### ARTIKEL XXIX
+##### ARTIKEL XXIX
 
 De tekst van de [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830) en van de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) worden in het Staatsblad geplaatst.
 
-#### ARTIKEL XXX
+##### ARTIKEL XXX
 
 1. De benoemingen van de procureurs-generaal bij de gerechtshoven worden van rechtswege gewijzigd in een benoeming tot procureur-generaal, lid van het College van procureurs-generaal. Zij worden als zodanig niet beëdigd en geïnstalleerd.
 
 2. De benoemingen van de plaatsvervangende procureurs-generaal bij de gerechtshoven worden van rechtswege gewijzigd in een benoeming tot advocaat-generaal in de rang van hoofdadvocaat-generaal en met de titel hoofd van het ressortsparket. Zij worden als zodanig niet beëdigd en geïnstalleerd.
 
-#### ARTIKEL XXXI
+##### ARTIKEL XXXI
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregels vereveningsbijdrage zorgverzekering 2009"
 identifier: "BWBR0025797"
-categorie: "Sociaal recht"
-publicatiedatum: 2012-10-03
-laatste_update: 2012-10-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025797"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-10-03"
+last_updated: "2012-10-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025797"
+soort: "zbo"
+stam_id: "10004673"
+version_id: "19671092"
+internal_id: "C27598701"
+label_id: "9981904"
+dtd_version: "2.0"
+original_entry_into_force: "2012-10-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025797/2012-10-03/0"
+intitule_bron: "Stcrt.2009-83"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-05-07"
+intitule_in_force: "2009-05-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-19652"
+original_published_date: "2012-10-01"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2012-19652"
+entry_into_force_date: "2012-10-03"
+jci_1_3: "jci1.3:c:BWBR0025797&z=2012-10-03&g=2012-10-03"
+jci_1_0: "1.0:c:BWBR0025797&g=2012-10-03"
+citeertitel_status: "officieel"
+entry_into_force: "2012-10-03"
 ---
-
 # Beleidsregels vereveningsbijdrage zorgverzekering 2009
 
 Gelet op de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=33) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34) en [Hoofdstuk 3 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3) en [Hoofdstuk 3 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=3);
@@ -20,7 +42,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Deze beleidsregels verstaan onder:
 
@@ -56,11 +78,11 @@ Deze beleidsregels verstaan onder:
 
 - p. **BSN:** burgerservicenummer.
 
-#### Artikel 2. Zorgverzekeraars
+##### Artikel 2. Zorgverzekeraars
 
 Het college gaat bij de verdeling van de macro-deelbedragen 2009 en de berekening van de normatieve bedragen en de bijdragen ervan uit dat alle zorgverzekeraars die gedurende 2008 actief zijn geweest ook in 2009 als zorgverzekeraar actief zullen zijn, tenzij zij voor 1 augustus 2008 aan het college hebben aangegeven dat zulks niet het geval zal zijn.
 
-#### Artikel 3. Samenloop van criteria aard van het inkomen
+##### Artikel 3. Samenloop van criteria aard van het inkomen
 
 Voor de indeling in de aard van het inkomenklasse deelt het college een verzekerde, die onder meerdere criteria valt in te delen, in op basis van de hierna genoemde volgorde:
 
@@ -74,7 +96,7 @@ Voor de indeling in de aard van het inkomenklasse deelt het college een verzeker
 
 - 5. referentiegroep aard van het inkomen, alle verzekerden omvattend die niet zijn ingedeeld onder 1 tot en met 4.
 
-#### Artikel 4. Indeling in FKG’s 2009 en DKG’s 2009
+##### Artikel 4. Indeling in FKG’s 2009 en DKG’s 2009
 
 1. Het college baseert de indeling in FKG’s 2009 op bijlage 8 bij de brief van de minister van Volksgezondheid, Welzijn en Sport van 30 september 2008 (kenmerk Z/F-2880603)
 
@@ -92,17 +114,17 @@ Voor de indeling in de aard van het inkomenklasse deelt het college een verzeker
 
 5. Bij de bepaling van de DKG’s baseert het college de indeling in DKG’s 2009 op bijlage 9, bij de brief van de minister van Volksgezondheid, Welzijn en Sport van 30 september 2008 (kenmerk Z/F-2880603).
 
-#### Artikel 5. Indeling in regioklasse 2009
+##### Artikel 5. Indeling in regioklasse 2009
 
 Wanneer van een verzekerde geen geldige Nederlandse postcode bekend is – ondanks inspanningen van de zorgverzekeraar deze te administreren – zal het college als gewicht van de regioklasse en GGZ-regioklasse de waarde nul hanteren.
 
-#### Artikel 6
+##### Artikel 6
 
 Het college past de regels die in het [Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492) en de [Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715) zijn gesteld met betrekking tot de toekenning en vaststelling van de bijdragen aan de zorgverzekeraars voor het jaar 2009 toe met inachtneming van het bepaalde in deze regeling.
 
 ### Hoofdstuk II. Toekenning van de bijdrage 2009 aan de zorgverzekeraar
 
-#### Artikel 7. Raming van de verzekerdenaantallen 2009 voor de zorgverzekeraars
+##### Artikel 7. Raming van de verzekerdenaantallen 2009 voor de zorgverzekeraars
 
 1. De verzekeraars leveren het persoonskenmerkenbestand 2008 op 1 juli 2008 bij het CVZ aan. De peildatum van deze opgaven is de datum van nominale premieprolongatie voor de maand juni 2008.
 
@@ -144,7 +166,7 @@ Het college past de regels die in het [Besluit zorgverzekering](https://wetten.o
 
 - c. Vervolgens bepaalt het college per zorgverzekeraar het totaal aantal geraamde verzekerden 2009 per risicoklasse naar leeftijd en geslacht, aard van het inkomenklasse en regioklasse door de zwaarten per risicoklasse naar leeftijd en geslacht, inkomensklasse en regioklasse bij elkaar op te tellen.
 
-#### Artikel 8. De verdeling van het macro-deelbedrag kosten van B-dbc’s ten behoeve van de zorgverzekeraars
+##### Artikel 8. De verdeling van het macro-deelbedrag kosten van B-dbc’s ten behoeve van de zorgverzekeraars
 
 Voor de verdeling van het macro-deelbedrag kosten van B-dbc’s hanteert het college de volgende gewichten als uitgangspunten:
 
@@ -176,7 +198,7 @@ Voor de verdeling van het macro-deelbedrag kosten van B-dbc’s hanteert het col
 
 - 8. Het resultaat van het zevende lid wordt aangeduid als het deelbedrag kosten van B-dbc’s 2009.
 
-#### Artikel 9. De verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp en de berekening van de normatieve bedragen variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp ten behoeve van de zorgverzekeraars
+##### Artikel 9. De verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp en de berekening van de normatieve bedragen variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp ten behoeve van de zorgverzekeraars
 
 Voor de verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp hanteert het college de volgende gewichten als uitgangspunten:
 
@@ -208,7 +230,7 @@ Voor de verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverple
 
 - 8. Het resultaat van het zevende lid wordt aangeduid als het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2009.
 
-#### Artikel 10. De verdeling van het macro-deelbedrag vaste kosten van ziekenhuisverpleging en de berekening van de normatieve bedragen vaste kosten van ziekenhuisverpleging ten behoeve van de zorgverzekeraars
+##### Artikel 10. De verdeling van het macro-deelbedrag vaste kosten van ziekenhuisverpleging en de berekening van de normatieve bedragen vaste kosten van ziekenhuisverpleging ten behoeve van de zorgverzekeraars
 
 1. Het college bepaalt het deelbedrag vaste kosten van ziekenhuisverpleging 2009 als volgt:
 
@@ -226,7 +248,7 @@ Voor de verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverple
 
 4. Het resultaat van het derde lid wordt aangeduid als het deelbedrag vaste kosten van ziekenhuisverpleging 2009.
 
-#### Artikel 11. De verdeling van het macro-deelbedrag geneeskundige geestelijke gezondheidszorg en de berekening van de normatieve bedragen van de kosten van geneeskundige geestelijke gezondheidszorg ten behoeve van de zorgverzekeraars
+##### Artikel 11. De verdeling van het macro-deelbedrag geneeskundige geestelijke gezondheidszorg en de berekening van de normatieve bedragen van de kosten van geneeskundige geestelijke gezondheidszorg ten behoeve van de zorgverzekeraars
 
 1. Voor de verdeling van het macro-deelbedrag geneeskundige geestelijke gezondheidszorg hanteert het college als uitgangspunten:
 
@@ -256,7 +278,7 @@ Voor de verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverple
 
 8. Het resultaat van het zevende lid wordt aangeduid als het deelbedrag geneeskundige geestelijke gezondheidszorg 2009.
 
-#### Artikel 12. De verdeling van het macro-deelbedrag kosten van overige prestaties en de berekening van de normatieve bedragen kosten van overige prestaties ten behoeve van de zorgverzekeraars
+##### Artikel 12. De verdeling van het macro-deelbedrag kosten van overige prestaties en de berekening van de normatieve bedragen kosten van overige prestaties ten behoeve van de zorgverzekeraars
 
 1. Voor de verdeling van het macro-deelbedrag kosten van overige prestaties hanteert het college als uitgangspunten:
 
@@ -288,7 +310,7 @@ Voor de verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverple
 
 9. Het college kan ter voorlichting aan de zorgverzekeraars ook deelbedragen per afzonderlijke overige prestaties berekenen overeenkomstig de leden 2 tot 8.
 
-#### Artikel 13. De raming van de normatieve eigen risico opbrengst
+##### Artikel 13. De raming van de normatieve eigen risico opbrengst
 
 1. Voor de raming van de normatieve eigen risico opbrengst voor verzekerden zonder een FKG 1 t/m 20 2009 hanteert het college als uitgangspunten:
 
@@ -308,7 +330,7 @@ Voor de verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverple
 
 6. De totale raming van de normatieve eigen risico opbrengst per zorgverzekeraar is de som van het resultaat van het vierde en het vijfde lid.
 
-#### Artikel 14. De berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar, en de berekening en toekenning van de bijdrage aan een zorgverzekeraar
+##### Artikel 14. De berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar, en de berekening en toekenning van de bijdrage aan een zorgverzekeraar
 
 1. Het college stelt het normatieve bedrag 2009 van een zorgverzekeraar vast als de som van het volgens dit hoofdstuk berekende deelbedrag kosten B-dbc’s 2009, het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2009, het deelbedrag vaste kosten van ziekenhuisverpleging 2009, het deelbedrag geneeskundige geestelijke gezondheidszorg 2009 en het deelbedrag kosten van overige prestaties 2009.
 
@@ -322,11 +344,11 @@ Voor de verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverple
 
 6. Het college kent de bijdrage 2009 ter hoogte van de bijdrage berekend in het vierde lid, aangevuld met het bedrag berekend in het vijfde lid, aan de zorgverzekeraar toe.
 
-#### Artikel 15. Herberekeningen als gevolg van splitsingen
+##### Artikel 15. Herberekeningen als gevolg van splitsingen
 
 Indien een zorgverzekeraar na de toekenning van de bijdrage 2009 besluit zich te splitsen, dient de zorgverzekeraar aan het college mee te delen hoe naar zijn verwachting de geraamde verzekerdenaantallen 2009 verdeeld zullen worden, over nieuwe dan wel bestaande zorgverzekeraars. Het college kan de toegekende bijdrage herzien en de bijdragen aan nieuwe dan wel bestaande zorgverzekeraars toekennen, een en ander rekening houdend met de meegedeelde geraamde verzekerdenaantallen en het tijdstip waarop de splitsing wordt gerealiseerd.
 
-#### Artikel 16. De herberekening en herziening van de toegekende bijdrage 2009
+##### Artikel 16. De herberekening en herziening van de toegekende bijdrage 2009
 
 1. Het college herberekent de toekenning van de bijdrage op basis van de werkelijke verzekerdenaantallen 2009 volgens de opgaven van de zorgverzekeraars aan het college op 7 maart 2009.
 
@@ -338,7 +360,7 @@ Het college deelt het totaal aantal verzekerden uit de opgave in het eerste lid 
 
 ### Hoofdstuk III. De voorlopige vaststelling van de bijdrage aan een zorgverzekeraar
 
-#### Artikel 17. Bepaling van de verzekerdenaantallen 2009 voor de zorgverzekeraars
+##### Artikel 17. Bepaling van de verzekerdenaantallen 2009 voor de zorgverzekeraars
 
 1. De zorgverzekeraars leveren het persoonskenmerkenbestand 2009 op 1 juli 2009 bij het CVZ aan. De peildatum van de opgave is de datum van nominale premieprolongatie voor de maand juni 2009.
 
@@ -382,7 +404,7 @@ In aanvulling op het persoonskenmerkenbestand 2009 leveren de zorgverzekeraars h
 
 10. Het college bepaalt met behulp van het RBVZ over 2009, de opgave van de Belastingdienst en de opgave van de zorgverzekeraars naar viercijferige postcode van het adres waar de verzekerde woonachtig is, de aantallen verzekerden naar regioklasse 2009, naar GGZ regioklasse 2009 en naar éénpersoonshuishouden. Hierbij telt de verzekerde mee voor de verzekeringsduur zoals vastgesteld in het tweede lid.
 
-#### Artikel 18. De voorlopige herberekening van het deelbedrag kosten van B-dbc’s 2009
+##### Artikel 18. De voorlopige herberekening van het deelbedrag kosten van B-dbc’s 2009
 
 1. Het college bepaalt op basis van de jaarstaat 2009 per zorgverzekeraar en voor het totaal van de zorgverzekeraars de kosten van B-dbc’s 2009, met inachtneming van de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11) en [3.12 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12).
 
@@ -410,7 +432,7 @@ In aanvulling op het persoonskenmerkenbestand 2009 leveren de zorgverzekeraars h
 
 13. Voor de toepassing van [artikel 3.16 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.16) trekt het college van het voorlopige herberekende deelbedrag kosten van B-dbc’s 2009 af de kosten van B-dbc’s 2009, zoals bepaald in het eerste lid.
 
-#### Artikel 19. De voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2009
+##### Artikel 19. De voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2009
 
 1. Het college bepaalt op basis van de jaarstaat 2009 per zorgverzekeraar en voor het totaal van de zorgverzekeraars de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2009 met inachtneming van de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12) en [3.15 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.15).
 
@@ -438,7 +460,7 @@ In aanvulling op het persoonskenmerkenbestand 2009 leveren de zorgverzekeraars h
 
 13. Voor de toepassing van [artikel 3.16 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.16) trekt het college van het voorlopige herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2009 af de kosten van ziekenhuisverpleging en kosten van specialistische hulp 2009, zoals bepaald in het eerste lid.
 
-#### Artikel 20. De voorlopige herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2009
+##### Artikel 20. De voorlopige herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2009
 
 1. Het college bepaalt op basis van de jaarstaat 2009 per zorgverzekeraar met inachtneming van de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12) en [3.17 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.17), de vaste kosten van ziekenhuisverpleging 2009.
 
@@ -452,7 +474,7 @@ In aanvulling op het persoonskenmerkenbestand 2009 leveren de zorgverzekeraars h
 
 4. Het resultaat van het derde lid wordt aangeduid als het voorlopige herberekende deelbedrag vaste kosten van ziekenhuisverpleging 2009.
 
-#### Artikel 21. De voorlopige herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2009
+##### Artikel 21. De voorlopige herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2009
 
 1. Het college bepaalt op basis van de jaarstaat 2009 per zorgverzekeraar en voor het totaal van de zorgverzekeraars met inachtneming van de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11) en [3.12 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12), de kosten van geneeskundige geestelijke gezondheidszorg 2009.
 
@@ -460,7 +482,7 @@ In aanvulling op het persoonskenmerkenbestand 2009 leveren de zorgverzekeraars h
 
 3. Het resultaat van het tweede lid wordt aangeduid als het voorlopige herberekende deelbedrag geneeskundige geestelijke gezondheidszorg 2009.
 
-#### Artikel 22. De voorlopige herberekening van het deelbedrag kosten van overige prestaties 2009
+##### Artikel 22. De voorlopige herberekening van het deelbedrag kosten van overige prestaties 2009
 
 1. Het college bepaalt op basis van de jaarstaat 2009 de kosten van overige prestaties 2009 met inachtneming van de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11) en [3.12 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12).
 
@@ -484,13 +506,13 @@ In aanvulling op het persoonskenmerkenbestand 2009 leveren de zorgverzekeraars h
 
 11. Het resultaat van het tiende lid wordt aangeduid als het voorlopige herberekende deelbedrag kosten van overige prestaties 2009.
 
-#### Artikel 23. De voorlopige herberekening van de opbrengst van het normatieve eigen risico 2009
+##### Artikel 23. De voorlopige herberekening van de opbrengst van het normatieve eigen risico 2009
 
 1. Uitgangspunt voor de herberekening van de opbrengst van het normatieve eigen risico zijn de opgaven, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=III&artikel=17&z=2012-10-03&g=2012-10-03),van de verzekerdenaantallen van de zorgverzekeraar, van 1 juni 2009 danwel 1 juli 2009.
 
 2. Het college herberekent op de wijze zoals beschreven in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=II&artikel=13&z=2012-10-03&g=2012-10-03) de normatieve eigen risico opbrengst 2009 op basis van de werkelijke verzekerden aantallen 2009 van 18 jaar en ouder zoals berekend in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=III&artikel=17&z=2012-10-03&g=2012-10-03).
 
-#### Artikel 24. De voorlopige herberekening van het normatieve bedrag 2009 en de voorlopige herberekening en voorlopige vaststelling van de bijdrage 2009
+##### Artikel 24. De voorlopige herberekening van het normatieve bedrag 2009 en de voorlopige herberekening en voorlopige vaststelling van de bijdrage 2009
 
 1. Het college herberekent het normatieve bedrag 2009 voorlopig als de som van het voorlopige herberekende deelbedrag B-dbc’s 2009, het voorlopig herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2009, het voorlopige herberekende deelbedrag vaste kosten van ziekenhuisverpleging 2009, het voorlopig herberekende deelbedrag geneeskundige geestelijke gezondheidszorg 2009 en het voorlopig herberekende deelbedrag kosten van overige prestaties 2009.
 
@@ -514,35 +536,35 @@ In aanvulling op het persoonskenmerkenbestand 2009 leveren de zorgverzekeraars h
 
 ### Hoofdstuk IV. De vaststelling van de bijdrage 2009 aan een zorgverzekeraar
 
-#### Artikel 25. Algemene bepaling
+##### Artikel 25. Algemene bepaling
 
 Het college herberekent de vereveningsbijdrage definitief met inachtneming van de correcties die voortkomen uit de reviewrapportage die de Nederlandse Zorgautoriteit uitbrengt over de lasten 2009 uit de opgave jaarstaat 2011 per 1 juni 2012.
 
-#### Artikel 26. De definitieve herberekening van het deelbedrag kosten van B-dbc’s 2009
+##### Artikel 26. De definitieve herberekening van het deelbedrag kosten van B-dbc’s 2009
 
 Het college herberekent definitief het deelbedrag kosten van B-dbc’s 2009 overeenkomstig [artikel 24c](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=IIIa&artikel=24c&z=2012-10-03&g=2012-10-03), met inachtneming van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=IV&artikel=25&z=2012-10-03&g=2012-10-03).
 
-#### Artikel 27. De definitieve herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2009
+##### Artikel 27. De definitieve herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2009
 
 Het college herberekent definitief het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2009 overeenkomstig [artikel 24d](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=IIIa&artikel=24d&z=2012-10-03&g=2012-10-03), met inachtneming van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=IV&artikel=25&z=2012-10-03&g=2012-10-03).
 
-#### Artikel 28. De definitieve herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2009
+##### Artikel 28. De definitieve herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2009
 
 Het college herberekent definitief het deelbedrag vaste kosten van ziekenhuisverpleging 2009 overeenkomstig [artikel 24e](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=IIIa&artikel=24e&z=2012-10-03&g=2012-10-03), met inachtneming van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=IV&artikel=25&z=2012-10-03&g=2012-10-03).
 
-#### Artikel 29. De definitieve herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2009
+##### Artikel 29. De definitieve herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2009
 
 Het college herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2009 overeenkomstig [artikel 24f](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=IIIa&artikel=24f&z=2012-10-03&g=2012-10-03), met inachtneming van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=IV&artikel=25&z=2012-10-03&g=2012-10-03).
 
-#### Artikel 30. De definitieve herberekening van het deelbedrag kosten van overige prestaties 2009
+##### Artikel 30. De definitieve herberekening van het deelbedrag kosten van overige prestaties 2009
 
 Het college herberekent definitief het deelbedrag kosten van overige prestaties 2009 overeenkomstig [artikel 24g](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=IIIa&artikel=24g&z=2012-10-03&g=2012-10-03), met inachtneming van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=IV&artikel=25&z=2012-10-03&g=2012-10-03).
 
-#### Artikel 31. De definitieve herberekening van de normatieve eigen risico opbrengst 2009
+##### Artikel 31. De definitieve herberekening van de normatieve eigen risico opbrengst 2009
 
 Het college herberekent definitief de normatieve eigen risico opbrengst 2009 overeenkomstig [artikel 24h](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=IIIa&artikel=24h&z=2012-10-03&g=2012-10-03), met inachtneming van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=IV&artikel=25&z=2012-10-03&g=2012-10-03).
 
-#### Artikel 32. De definitieve herberekening van het normatieve bedrag 2009 en de definitieve herberekening en de vaststelling van de bijdrage 2009
+##### Artikel 32. De definitieve herberekening van het normatieve bedrag 2009 en de definitieve herberekening en de vaststelling van de bijdrage 2009
 
 1. Het college herberekent het normatieve bedrag 2009 definitief als de som van het definitieve deelbedrag B-dbc’s 2009, het definitieve deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2009, het definitieve deelbedrag vaste kosten van ziekenhuisverpleging 2009, het definitieve deelbedrag geneeskundige geestelijke gezondheidszorg 2009 en het definitieve deelbedrag kosten van overige prestaties 2009.
 
@@ -566,7 +588,7 @@ Het college herberekent definitief de normatieve eigen risico opbrengst 2009 ove
 
 ### Hoofdstuk V. De uitkering voor de kosten van prestaties die door het college naar het werkelijk bedrag worden vergoed
 
-#### Artikel 33
+##### Artikel 33
 
 1. Bij gelegenheid van de vaststelling van de bijdrage 2009 als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=IV&artikel=32&z=2012-10-03&g=2012-10-03) stelt het college per zorgverzekeraar ook de uitkering 2009 vast voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed.
 
@@ -574,7 +596,7 @@ Het college herberekent definitief de normatieve eigen risico opbrengst 2009 ove
 
 ### Hoofdstuk VI. De betalingen aan de zorgverzekeraars
 
-#### Artikel 34
+##### Artikel 34
 
 1. Het college betaalt de zorgverzekeraars de bijdrage, bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=II&artikel=14&z=2012-10-03&g=2012-10-03), uit. Het college maakt bij de betalingen onderscheid naar de volgende bestanddelen:
 
@@ -594,7 +616,7 @@ Het college herberekent definitief de normatieve eigen risico opbrengst 2009 ove
 
 4. Indien toepassing van onderscheidenlijk het eerste en het tweede lid resulteert in een negatief saldo voor de zorgverzekeraar, schort het CVZ de betalingen aan de zorgverzekeraar op, tot het negatieve saldo is verrekend.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, bedoeld in [artikel 24, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=III&artikel=24&z=2012-10-03&g=2012-10-03), stelt het college ook het volgende vast:
 
@@ -610,7 +632,7 @@ Het college herberekent definitief de normatieve eigen risico opbrengst 2009 ove
 
 3. Indien verrekening, als bedoeld in het tweede lid, niet mogelijk blijkt, vordert het college het door de zorgverzekeraar af te dragen bedrag bij de zorgverzekeraar in, dan wel betaalt het college het door de zorgverzekeraar te ontvangen bedrag, aan de zorgverzekeraar na.
 
-#### Artikel 36. compensatiebijdrage voor wanbetaling
+##### Artikel 36. compensatiebijdrage voor wanbetaling
 
 1. Het college stelt de compensatiebijdrage voor het jaar 2009 uiterlijk 1 oktober 2010 vast overeenkomstig [artikel 3.23 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.23).
 
@@ -648,7 +670,7 @@ Het college herberekent definitief de normatieve eigen risico opbrengst 2009 ove
 
 - b. **datum gereed:** de eerste dag van de maand volgend op de datum waarvan het college op grond van [artikel 23, tweede lid Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.23) en [artikel 3, eerste lid van de Beleidsregels aanmelding stuwmeer wanbetalers van de nominale premie Zorgverzekeringswet 2009/2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026342&artikel=3) heeft vastgesteld dat de zorgverzekeraar gereed is om de melding bedoeld in artikel II, eerste lid van de Regeling van 19 juli 2009 tot wijziging van de Regeling zorgverzekering te doen.
 
-#### Artikel 37. Betaling
+##### Artikel 37. Betaling
 
 1. Het college bepaalt de som van de bestanddelen genoemd in [artikel 34, eerste lid, onder a, eerste lid, onder b, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=VI&artikel=34&z=2012-10-03&g=2012-10-03) en de uitkering genoemd in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=VI&artikel=34&z=2012-10-03&g=2012-10-03).
 
@@ -694,7 +716,7 @@ Het college herberekent definitief de normatieve eigen risico opbrengst 2009 ove
 
 8. Het college kan, indien naar zijn oordeel uit nieuwe informatie blijkt dat de verwachting is dat bij de eerstvolgende herberekening of herziening van de bijdrage, de bijdrage meer dan 5 procent hoger zal zijn dan bij de laatst toegekende of voorlopig vastgestelde bijdrage, afwijken van de vorige leden en de betalingen aan een zorgverzekeraar aanpassen.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Bij de herberekening en herziening van de toegekende bijdrage 2009 op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=II&artikel=16&z=2012-10-03&g=2012-10-03) herziet het college de te betalen termijnen overeenkomstig [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=VI&artikel=37&z=2012-10-03&g=2012-10-03) voor de eerste keer. Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de eerste keer herziene termijnen.
 
@@ -708,13 +730,13 @@ Het college herberekent definitief de normatieve eigen risico opbrengst 2009 ove
 
 6. Indien toepassing van onderscheidenlijk het eerste, tweede, derde en vierde lid, resulteert in een negatief saldo voor de zorgverzekeraar, wordt dat saldo ineens door de desbetreffende zorgverzekeraar aan het college terugbetaald, behoudens voor zover het college het bedrag heeft verrekend met enige vordering op de zorgverzekeraar op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) dan wel de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
 
-#### Artikel 39
+##### Artikel 39
 
 1. De zorgverzekeraar en het college zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=VI&artikel=38&z=2012-10-03&g=2012-10-03).
 
 2. De rente, bedoeld in het eerste lid, wordt bij de herberekening en herziening van de toekenning, de voorlopige, de tweede voorlopige en de definitieve vaststelling van de uitkering door het college verwerkt en zo mogelijk verrekend met andere betalingen die uit deze vaststellingen voortvloeien.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Bij de verrekening van verschillen, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=VI&artikel=38&z=2012-10-03&g=2012-10-03), berekent het college rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
 
@@ -738,11 +760,11 @@ Bij de berekening wordt een maand op 30 en een jaar op 360 dagen gesteld.
 
 ### Hoofdstuk VII. Slotbepalingen
 
-#### Artikel 41
+##### Artikel 41
 
 Deze beleidsregels treden in werking met ingang van 1 januari 2009.
 
-#### Artikel 42
+##### Artikel 42
 
 Deze beleidsregels worden aangehaald als: Beleidsregels vereveningsbijdrage zorgverzekering 2009.
 
@@ -1163,13 +1185,13 @@ Bron: [Bijlage 6 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci
 
 Deze beleidsregels zullen in de Staatscourant worden geplaatst.
 
-#### Artikel 24a. Algemene bepaling
+##### Artikel 24a. Algemene bepaling
 
 1. Het college betrekt de correcties die de Nederlandse Zorgautoriteit heeft toegepast, het VPPKB 2010, het bestand verzekerden 2009 met bevestigd E106 formulier en het bestand met verzekerden zonder BSN en verzekerden zonder geverifieerd BSN 2009 bij de verzekerdenaantallen.
 
 2. Het college herberekent het normatieve bedrag voor de tweede maal voorlopig rekening houdend met de opgave hogekostencompensatie 2009, de lasten 2009 uit de opgave jaarstaat 2011, het opbrengstresultaat 2009 en de correcties die de Nederlandse Zorgautoriteit heeft toegepast.
 
-#### Artikel 24b. Bepaling van de verzekerdenaantallen 2009 voor de zorgverzekeraars
+##### Artikel 24b. Bepaling van de verzekerdenaantallen 2009 voor de zorgverzekeraars
 
 1. De zorgverzekeraars leveren het persoonskenmerkenbestand 2009 op 1 juli 2009 bij het CVZ aan. De peildatum van de opgave is de datum van nominale premieprolongatie voor de maand juni 2009. In aanvulling op het persoonskenmerkenbestand 2009 maakt het college gebruik van het uitstroombestand 2009 en het VPPKB 2010, zoals zorgverzekeraars dat op 1 juli 2010 respectievelijk 1 juli 2011 bij het college hebben aangeleverd. Tevens maakt het college gebruik van het bestand verzekerden 2009 met bevestigd E106 formulier zoals zorgverzekeraars dat op 1 juli 2010 bij het college hebben aangeleverd.
 
@@ -1213,7 +1235,7 @@ Deze beleidsregels zullen in de Staatscourant worden geplaatst.
 
 11. Het bestand verzekerden zonder BSN 2009 en verzekerden zonder geverifieerd BSN 2009 bevat per verzekerde de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar en viercijferige postcode. Voor de vaststelling van het aantal verzekerden en de verzekeringsduur per verzekerde zonder een BSN per zorgverzekeraar en de vaststelling van de verzekeringsduur per verzekerde zonder een geverifieerd BSN per zorgverzekeraar, baseert het college zich op het bestand verzekerden zonder BSN 2009 en verzekerden zonder geverifieerd BSN 2009. Het college deelt verzekerden zonder BSN respectievelijk verzekerden zonder geverifieerd BSN uitsluitend in bij de vereveningskenmerken leeftijd en geslacht en regio.
 
-#### Artikel 24c. De tweede voorlopige herberekening van het deelbedrag kosten van B-dbc’s 2009
+##### Artikel 24c. De tweede voorlopige herberekening van het deelbedrag kosten van B-dbc’s 2009
 
 1. Het college hanteert bij de tweede voorlopige herberekening van het deelbedrag kosten van B-dbc’s 2009 als uitgangspunten:
 
@@ -1257,7 +1279,7 @@ Deze beleidsregels zullen in de Staatscourant worden geplaatst.
 
 15. Voor de toepassing van [artikel 3.16 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.16) trekt het college van het voorlopige herberekende deelbedrag kosten van B-dbc’s 2009 af de kosten van B-dbc’s 2009, zoals bepaald in het tweede lid.
 
-#### Artikel 24d. De tweede voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2009
+##### Artikel 24d. De tweede voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2009
 
 1. Het college hanteert bij de tweede voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2009 als uitgangspunten:
 
@@ -1301,7 +1323,7 @@ Deze beleidsregels zullen in de Staatscourant worden geplaatst.
 
 15. Voor de toepassing van [artikel 3.16 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.16) trekt het college van het tweede voorlopige herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2009 af de kosten van ziekenhuisverpleging en kosten van specialistische hulp 2009, zoals bepaald in het tweede lid.
 
-#### Artikel 24e. De tweede voorlopige herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2009
+##### Artikel 24e. De tweede voorlopige herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2009
 
 1. Het college bepaalt per zorgverzekeraar overeenkomstig de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12) en [3.17 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.17), de vaste kosten van ziekenhuisverpleging 2009.
 
@@ -1315,7 +1337,7 @@ Deze beleidsregels zullen in de Staatscourant worden geplaatst.
 
 4. Het resultaat van het derde lid wordt aangeduid als het tweede voorlopige herberekende deelbedrag vaste kosten van ziekenhuisverpleging 2009.
 
-#### Artikel 24f. De tweede voorlopige herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2009
+##### Artikel 24f. De tweede voorlopige herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2009
 
 1. Het college bepaalt per zorgverzekeraar en voor het totaal van de zorgverzekeraars overeenkomstig de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11) en [3.12 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12), de kosten van geneeskundige geestelijke gezondheidszorg 2009.
 
@@ -1323,7 +1345,7 @@ Deze beleidsregels zullen in de Staatscourant worden geplaatst.
 
 3. Het resultaat van het tweede lid wordt aangeduid als het tweede voorlopige herberekende deelbedrag geneeskundige geestelijke gezondheidszorg 2009.
 
-#### Artikel 24g. De tweede voorlopige herberekening van het deelbedrag kosten van overige prestaties 2009
+##### Artikel 24g. De tweede voorlopige herberekening van het deelbedrag kosten van overige prestaties 2009
 
 1. Voor de tweede voorlopige herberekening van het deelbedrag kosten van overige prestaties hanteert het college als uitgangspunten:
 
@@ -1363,7 +1385,7 @@ Deze beleidsregels zullen in de Staatscourant worden geplaatst.
 
 13. Het resultaat van het twaalfde lid wordt aangeduid als het tweede voorlopige herberekende deelbedrag kosten van overige prestaties 2009.
 
-#### Artikel 24h. De tweede voorlopige herberekening van de opbrengst van het normatieve eigen risico 2009
+##### Artikel 24h. De tweede voorlopige herberekening van de opbrengst van het normatieve eigen risico 2009
 
 1. Uitgangspunt voor de herberekening van de opbrengst van het normatieve eigen risico zijn de opgaven, bedoeld in [artikel 24b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025797&hoofdstuk=IIIa&artikel=24b&z=2012-10-03&g=2012-10-03) van de verzekerdenaantallen van de zorgverzekeraar.
 

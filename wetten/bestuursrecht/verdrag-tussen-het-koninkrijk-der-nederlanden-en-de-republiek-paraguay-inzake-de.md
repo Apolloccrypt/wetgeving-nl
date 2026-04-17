@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Paraguay inzake de export en handhaving van socialezekerheidsuitkeringen"
 identifier: "BWBV0002897"
-categorie: "Bestuursrecht"
-publicatiedatum: 2008-03-01
-laatste_update: 2003-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002897"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-03-01"
+last_updated: "2003-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002897"
+soort: "verdrag"
+stam_id: "10003218233"
+version_id: "10003233912"
+internal_id: "C10006996091"
+label_id: "10003204194"
+dtd_version: "2.0"
+original_entry_into_force: "2008-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002897/2008-03-01/0"
+intitule_bron: "Trb.2006-35"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-02-01"
+intitule_published: "2006-02-17"
+intitule_in_force: "2008-04-02"
+intitule_status: "goed"
+original_publication: "Trb.2006-35"
+original_signed_date: "2006-02-01"
+original_published_date: "2006-02-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2006-35"
+entry_into_force_date: "2008-03-01"
+jci_1_3: "jci1.3:c:BWBV0002897&z=2008-03-01&g=2008-03-01"
+jci_1_0: "1.0:c:BWBV0002897&g=2008-03-01"
+citeertitel_status: "redactioneel"
+signed_date: "2006-02-01"
+entry_into_force: "2008-03-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Paraguay inzake de export en handhaving van socialezekerheidsuitkeringen
 
 Het Koninkrijk der Nederlanden
@@ -24,7 +49,7 @@ Geleid door de wens de samenwerking tussen de twee staten te regelen ter waarbor
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -50,7 +75,7 @@ Zijn het volgende overeengekomen:
 
 2. Andere in dit Verdrag gebruikte termen hebben de betekenis die daaraan in de toegepaste wetgeving wordt gegeven.
 
-#### Artikel 2. Materiële werkingssfeer
+##### Artikel 2. Materiële werkingssfeer
 
 Dit Verdrag is van toepassing:
 
@@ -80,11 +105,11 @@ Dit Verdrag is van toepassing:
 
 - f. kinderbijslagen.
 
-#### Artikel 3. Personele werkingssfeer
+##### Artikel 3. Personele werkingssfeer
 
 Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op een uitkeringsgerechtigde als op een lid van zijn gezin voorzover de uitkeringsgerechtigde of het gezinslid woont of verblijft op het grondgebied van een van de Verdragsluitende Partijen.
 
-#### Artikel 4. Export van uitkeringen
+##### Artikel 4. Export van uitkeringen
 
 1. Tenzij in dit Verdrag anders is bepaald, is een bepaling van de wetgeving van een Verdragsluitende Partij die de betaling van een uitkering beperkt uitsluitend omdat een uitkeringsgerechtigde of een lid van zijn gezin buiten het grondgebied van die Verdragsluitende Partij woont of verblijft, niet van toepassing ten aanzien van een uitkeringsgerechtigde of een lid van zijn gezin die respectievelijk dat op het grondgebied van de andere Verdragsluitende Partij woont of verblijft.
 
@@ -92,13 +117,13 @@ Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op 
 
 3. Het eerste lid laat onverlet Nederlandse wetgeving tot invoering van beperkingen ten aanzien van de betaling van kinderbijslagen met betrekking tot kinderen die wonen of verblijven buiten het grondgebied van het Koninkrijk der Nederlanden, of tot uitsluiting van de betaling daarvan.
 
-#### Artikel 5. Identificatie
+##### Artikel 5. Identificatie
 
 1. Teneinde het recht op een uitkering of op de betaling van een uitkering ingevolge de Paraguayaanse of Nederlandse wetgeving vast te stellen, is een uitkeringsgerechtigde of een lid van zijn of haar gezin verplicht zich te identificeren door overlegging van een officieel identiteitsbewijs aan het bevoegde orgaan op het grondgebied waarvan de betrokken persoon woont of verblijft. Een officieel identiteitsbewijs is een paspoort of enig ander geldig identiteitsbewijs dat is afgegeven op het grondgebied waar de betrokken persoon woont of verblijft.
 
 2. Het betrokken bevoegde orgaan identificeert de uitkeringsgerechtigde of het lid van zijn of haar gezin aan de hand van een officieel identiteitsbewijs. Het bevoegde orgaan stelt het bevoegde orgaan van de andere Verdragsluitende Partij door toezending van een gewaarmerkt afschrift van het officiële identiteitsbewijs ervan in kennis dat de identiteit van de uitkeringsgerechtigde, of van dit lid van het gezin, is geverifieerd.
 
-#### Artikel 6. Verificatie van aanvragen en betalingen
+##### Artikel 6. Verificatie van aanvragen en betalingen
 
 1. Voor de toepassing van dit artikel wordt verstaan onder „inlichtingen’’: gegevens betreffende identiteit, adres, gezinssituatie, werk, scholing, inkomen, vermogensbestanddelen, gezondheidstoestand, overlijden en hechtenis, of alle andere gegevens die relevant zijn voor de uitvoering van dit Verdrag.
 
@@ -112,7 +137,7 @@ Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op 
 
 6. Bij de uitvoering van dit Verdrag zijn de instanties elkaar behulpzaam en handelen zij als betrof het de uitvoering van hun eigen wetgeving. De administratieve bijstand die door de instanties wordt verleend, is kosteloos. De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen echter overeenkomen dat bepaalde kosten worden vergoed.
 
-#### Artikel 7. Geneeskundig onderzoek
+##### Artikel 7. Geneeskundig onderzoek
 
 1. Op verzoek van het bevoegde orgaan van een Verdragsluitende Partij wordt het geneeskundig onderzoek ten aanzien van een uitkeringsgerechtigde of een lid van zijn gezin die respectievelijk dat woont of verblijft op het grondgebied van de andere Verdragsluitende Partij, verricht door het bevoegde orgaan van de laatstgenoemde Verdragsluitende Partij.
 
@@ -124,7 +149,7 @@ Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op 
 
 5. De kosten van het onderzoek en, naar gelang van het geval, de uitgaven voor reis en verblijf worden betaald door het bevoegde orgaan op verzoek waarvan het onderzoek wordt verricht.
 
-#### Artikel 8. Erkenning van beslissingen en uitspraken
+##### Artikel 8. Erkenning van beslissingen en uitspraken
 
 1. Iedere beslissing inzake de terugvordering van onverschuldigde betalingen of de inning van socialeverzekeringspremies en administratieve boeten uit hoofde van de toepasselijke wetgeving genomen door een bevoegd orgaan in de ene Verdragsluitende Partij waartegen geen rechtsmiddelen meer openstaan en iedere rechterlijke uitspraak gedaan met betrekking tot een dergelijke beslissing waartegen geen rechtsmiddelen meer openstaan, wordt door de andere Verdragsluitende Partij erkend.
 
@@ -132,35 +157,35 @@ Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op 
 
 3. Voor tenuitvoerlegging vatbare beslissingen en uitspraken die ingevolge het eerste en tweede lid zijn erkend, worden door de andere Verdragsluitende Partij ten uitvoer gelegd in overeenstemming met de op het grondgebied van die staat van kracht zijnde wettelijke bepalingen die van toepassing zijn op de tenuitvoerlegging van soortgelijke beslissin-gen en uitspraken. De uitvoerbaarverklaring dient te worden vermeld op het gewaarmerkte afschrift van die uitspraak of beslissing. De andere Verdragsluitende Partij wordt in kennis gesteld van de bevestiging dat de beslissing ten uitvoer is gelegd.
 
-#### Artikel 9. Terugvordering van onverschuldigde betalingen en administratieve boetes
+##### Artikel 9. Terugvordering van onverschuldigde betalingen en administratieve boetes
 
 Indien een bevoegd orgaan een voor tenuitvoerlegging vatbare beslissing heeft genomen in de zin van artikel 8 en de desbetreffende uitkeringsgerechtigde tevens een uitkering ontvangt van een bevoegd orgaan van de andere Verdragsluitende Partij, kan het eerstbedoelde orgaan verzoeken dat de desbetreffende betaling of de administratieve boete wordt verrekend met in die Verdragsluitende Partij achterstallige bedragen of bedragen die nog verschuldigd zijn aan de uitkeringsgerechtigde. Het laatstgenoemde bevoegde orgaan brengt het bedrag in mindering binnen de grenzen van de door dat bevoegde orgaan toegepaste wet inzake de uitvoering van overeenkomstige beslissingen en maakt het bedrag over aan het eerstgenoemde bevoegde orgaan dat recht heeft op teruggave.
 
-#### Artikel 10. Bescherming van persoonsgegevens
+##### Artikel 10. Bescherming van persoonsgegevens
 
 1. Wanneer, krachtens dit Verdrag, de bevoegde autoriteiten, bevoegde organen of instanties van een Verdragsluitende Partij persoonsgegevens mededelen aan de bevoegde autoriteiten of bevoegde organen van de andere Verdragsluitende Partij, is die mededeling onderworpen aan de door de Verdragsluitende Partij die de gegevens verstrekt vastgestelde wettelijke bepalingen inzake de bescherming van gegevens. Elke daaropvolgende overdracht dan wel opslag, wijziging of vernietiging van de gegevens is onderworpen aan de bepalingen van de wetgeving inzake bescherming van gegevens van de ontvangende Verdragsluitende Partij.
 
 2. Het gebruik van persoonsgegevens voor andere doeleinden dan die van sociale zekerheid is onderworpen aan de goedkeuring van de betrokken persoon of in overeenstemming met andere waarborgen waarin de nationale wetgeving voorziet.
 
-#### Artikel 11. Uitvoering van het Verdrag
+##### Artikel 11. Uitvoering van het Verdrag
 
 De bevoegde organen van beide Verdragsluitende Partijen kunnen door middel van aanvullende regelingen maatregelen vaststellen voor de uitvoering van dit Verdrag.
 
-#### Artikel 12. Taal
+##### Artikel 12. Taal
 
 1. Voor de toepassing van dit Verdrag kunnen de bevoegde autoriteiten, bevoegde organen en instanties van de Verdragsluitende Partijen rechtstreeks met elkaar communiceren in de Engelse taal.
 
 2. Geen enkel document wordt geweigerd op grond van het enkele feit dat het is opgesteld in een officiële taal van een Verdragsluitende Partij.
 
-#### Artikel 13. Beslechting van geschillen
+##### Artikel 13. Beslechting van geschillen
 
 De bevoegde autoriteiten van beide Verdragsluitende Partijen verrichten alle redelijke inspanningen om geschillen die voortvloeien uit de uitlegging of toepassing van dit Verdrag met wederzijdse instemming op te lossen.
 
-#### Artikel 14. Territoriale toepassing
+##### Artikel 14. Territoriale toepassing
 
 Met betrekking tot het Koninkrijk der Nederlanden is dit Verdrag slechts van toepassing op het grondgebied van het Koninkrijk in Europa.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 1. De Verdragsluitende Partijen stellen elkaar schriftelijk langs diplomatieke weg in kennis van de voltooiing van hun onderscheiden wettelijke of grondwettelijke procedures die vereist zijn voor de inwerkingtreding van dit Verdrag.
 
@@ -168,7 +193,7 @@ Met betrekking tot het Koninkrijk der Nederlanden is dit Verdrag slechts van toe
 
 3. Het Koninkrijk der Nederlanden past de artikelen 4, 5, 6 en 7 voorlopig toe vanaf de eerste dag van de tweede maand volgend op de datum van ondertekening.
 
-#### Artikel 16. Werkingsduur en beëindiging
+##### Artikel 16. Werkingsduur en beëindiging
 
 Dit Verdrag is voor onbepaalde tijd van kracht. Dit Verdrag kan te allen tijde langs diplomatieke weg worden beëindigd bij schriftelijke kennisgeving aan de andere Verdragsluitende Partij. In het geval van beëindiging blijft dit Verdrag van kracht tot het einde van het kalenderjaar volgend op het jaar waarin de kennisgeving van beëindiging door de andere Verdragsluitende Partij is ontvangen.
 

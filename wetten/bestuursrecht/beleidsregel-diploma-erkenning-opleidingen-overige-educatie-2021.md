@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel diploma-erkenning opleidingen overige educatie (2021)"
+title: "Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 25 mei 2021 nr. MBO/25782734, houdende beleid over de wijze waarop de bevoegdheid wordt uitgeoefend tot het verlenen van het recht op diploma-erkenning als bedoeld in artikel 1.4a.1 van de Wet educatie en beroepsonderwijs voor opleidingen overige educatie als bedoeld in artikel 7.3.1, eerste lid, onder b tot en met f, van de Wet educatie en beroepsonderwijs (Beleidsregel diploma-erkenning opleidingen overige educatie (2021))"
 identifier: "BWBR0045183"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045183"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045183"
+soort: "beleidsregel"
+stam_id: "15971493"
+version_id: "27792052"
+internal_id: "C39796471"
+label_id: "15905504"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045183/2022-08-01/0"
+intitule_bron: "Stcrt.2021-27270"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-05-25"
+intitule_published: "2021-05-31"
+intitule_in_force: "2021-12-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-27270"
+original_signed_date: "2021-05-25"
+original_published_date: "2021-05-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-27270"
+entry_into_force_date: "2022-01-01"
+jci_1_3: "jci1.3:c:BWBR0045183&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0045183&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel diploma-erkenning opleidingen overige educatie (2021)"
+signed_date: "2021-05-25"
+entry_into_force: "2022-01-01"
 ---
-
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 25 mei 2021 nr. MBO/25782734, houdende beleid over de wijze waarop de bevoegdheid wordt uitgeoefend tot het verlenen van het recht op diploma-erkenning als bedoeld in artikel 1.4a.1 van de Wet educatie en beroepsonderwijs voor opleidingen overige educatie als bedoeld in artikel 7.3.1, eerste lid, onder b tot en met f, van de Wet educatie en beroepsonderwijs (Beleidsregel diploma-erkenning opleidingen overige educatie (2021))
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 1.4a.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4a.1);
@@ -16,19 +42,19 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Wet inburgering 2021 in werking treedt.
 
-#### Artikel 1. Beleidsregel
+##### Artikel 1. Beleidsregel
 
 De beleidsregel voor het beslissen op aanvragen tot het verlenen van het recht op diploma-erkenning als bedoeld in [artikel 1.4a.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4a.1) voor opleidingen overige educatie als bedoeld in [artikel 7.3.1, eerste lid, onder b tot en met f, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) wordt vastgesteld overeenkomstig de bijlage bij dit besluit.
 
-#### Artikel 2. Intrekking vorige beleidsregel
+##### Artikel 2. Intrekking vorige beleidsregel
 
 De [Aanvraagprocedure diploma-erkenning voor opleidingen Nederlandse taal en/of rekenen en digitale vaardigheden (overige educatie)](https://wetten.overheid.nl/jci1.3:c:BWBR0044193) van 5 oktober 2018 (Staatscourant 2018, 55481) wordt ingetrokken.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) in werking treedt.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel diploma-erkenning opleidingen overige educatie (2021).
 

@@ -1,13 +1,35 @@
 ---
 title: "Veiligheidsovereenkomst tussen de Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden, de Portugese Republiek en het Koninkrijk Spanje betreffende de bescherming van gerubriceerde informatie van de European Gendarmerie Force (EUROGENDFOR)"
 identifier: "BWBV0006669"
-categorie: "Internationaal recht"
-publicatiedatum: 2020-12-05
-laatste_update: 2020-12-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006669"
+country: "nl"
+rank: "verdrag"
+publication_date: "2020-12-05"
+last_updated: "2020-12-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006669"
+soort: "verdrag"
+stam_id: "10005402793"
+version_id: "10005837862"
+internal_id: "C10009765171"
+label_id: "10005385494"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006669/2020-12-05/0"
+intitule_bron: "Trb.2017-49"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-03-30"
+intitule_in_force: "2020-11-20"
+intitule_status: "goed"
+original_publication: "Trb.2017-49"
+original_published_date: "2017-03-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2017-49"
+entry_into_force_date: "2020-12-05"
+jci_1_3: "jci1.3:c:BWBV0006669&z=2020-12-05&g=2020-12-05"
+jci_1_0: "1.0:c:BWBV0006669&g=2020-12-05"
+citeertitel_status: "redactioneel"
+entry_into_force: "2020-12-05"
 ---
-
 # Veiligheidsovereenkomst tussen de Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden, de Portugese Republiek en het Koninkrijk Spanje betreffende de bescherming van gerubriceerde informatie van de European Gendarmerie Force (EUROGENDFOR)
 
 De Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden, de Portugese Republiek en het Koninkrijk Spanje, hierna te noemen „de Partijen”,
@@ -20,7 +42,7 @@ In het besef dat voor de uitvoering van de aan EUROGENDFOR opgedragen taken en h
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Reikwijdte en doel
+##### Artikel 1. Reikwijdte en doel
 
 1. Deze Overeenkomst is van toepassing op gerubriceerde informatie van EUROGENDFOR, zoals omschreven in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006669&artikel=2&z=2020-12-05&g=2020-12-05) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0006669&artikel=3&z=2020-12-05&g=2020-12-05), ongeacht of die informatie haar oorsprong heeft binnen EUROGENDFOR of ontvangen is van de Partijen in het belang van EUROGENDFOR.
 
@@ -28,7 +50,7 @@ Zijn het volgende overeengekomen:
 
 3. De Partijen en EUROGENDFOR beschermen alle gerubriceerde en als zodanig gemarkeerde informatie die ontstaat dan wel wordt uitgewisseld in het kader van EUROGENDFOR.
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 In deze Overeenkomst gelden de volgende definities:
 
@@ -38,7 +60,7 @@ In deze Overeenkomst gelden de volgende definities:
 
 - c. Onder „bronhouder” wordt verstaan iedere Partij bij deze Overeenkomst onder wier bevoegdheid gerubriceerde informatie is geproduceerd dan wel binnen de EUROGENDFOR-organisatie in omloop is gebracht. Ook EUROGENDFOR kan bronhouder van gerubriceerde informatie zijn.
 
-#### Artikel 3. Rubriceringen
+##### Artikel 3. Rubriceringen
 
 Met betrekking tot gerubriceerde informatie zoals omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006669&artikel=2&z=2020-12-05&g=2020-12-05) en met betrekking tot [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006669&artikel=1&z=2020-12-05&g=2020-12-05), gebruiken de Partijen de volgende rubriceringen voor informatie die binnen EUROGENDFOR is gegenereerd dan wel uitgewisseld:
 
@@ -50,7 +72,7 @@ Met betrekking tot gerubriceerde informatie zoals omschreven in [artikel 2](http
 
 - d. EUROGENDFOR RESTRICTED (EGF-R): betekent dat ongeautoriseerde openbaarmaking nadelig zou zijn voor EUROGENDFOR of voor één of meerdere Partijen;
 
-#### Artikel 4. Vergelijkingstabellen voor rubriceringen
+##### Artikel 4. Vergelijkingstabellen voor rubriceringen
 
 1. De Partijen verklaren dat de hieronder genoemde rubriceringsniveaus overeenkomen met de in hun eigen nationale wetten en regelgeving gedefinieerde niveaus.
 
@@ -65,7 +87,7 @@ Met betrekking tot gerubriceerde informatie zoals omschreven in [artikel 2](http
 
 EUROGENDFOR en de overige Partijen behandelen en beschermen informatie met de rubricering “DIFFUSION RESTREINTE” volgens de toepasselijke regelgeving voor het niveau “EUROGENDFOR RESTRICTED” of het nationale equivalent.
 
-#### Artikel 5. Degraderen en derubriceren
+##### Artikel 5. Degraderen en derubriceren
 
 1. De bronhouder of EUROGENDFOR stelt de ontvangende Partij of EUROGENDFOR onverwijld op de hoogte van eventuele veranderingen in de rubricering van de gerubriceerde informatie die onder zijn bevoegdheid is vrijgegeven.
 
@@ -73,7 +95,7 @@ EUROGENDFOR en de overige Partijen behandelen en beschermen informatie met de ru
 
 3. Informatie mag niet worden gedegradeerd of gederubriceerd zonder voorafgaande schriftelijke toestemming van de bronhouder.
 
-#### Artikel 6. Verplichtingen van de Partijen
+##### Artikel 6. Verplichtingen van de Partijen
 
 De Partijen verplichten zich ertoe:
 
@@ -85,7 +107,7 @@ De Partijen verplichten zich ertoe:
 
 - d. Gerubriceerde informatie van EUROGENDFOR niet aan niet-EUROGENDFOR-partijen of Internationale Organisaties beschikbaar te stellen zonder voorafgaande schriftelijke toestemming van de bronhouder of, indien van toepassing, EUROGENDFOR, en zonder dat hierover een veiligheidsovereenkomst of -regeling van kracht is.
 
-#### Artikel 7. Beheer en beveiliging van gerubriceerde informatie
+##### Artikel 7. Beheer en beveiliging van gerubriceerde informatie
 
 1. De Commandant EGF ziet erop toe dat de bepalingen van deze Overeenkomst worden toegepast op het permanente hoofdkwartier en binnen de bij EUROGENDFOR ingedeelde eenheden.
 
@@ -93,7 +115,7 @@ De Partijen verplichten zich ertoe:
 
 3. Daartoe zal de Commandant EGF of de CIMIN, al naar gelang van toepassing, specifieke veiligheidsvoorschriften en ondersteunende richtlijnen goedkeuren, met goedkeuring van de nationale veiligheidsautoriteiten van de Partijen.
 
-#### Artikel 8. Toegang tot gerubriceerde informatie
+##### Artikel 8. Toegang tot gerubriceerde informatie
 
 1. Toegang tot gerubriceerde informatie van EUROGENDFOR wordt alleen gegeven aan personen die om hun taken te kunnen uitvoeren van die informatie op de hoogte moeten zijn („need to know”).
 
@@ -101,7 +123,7 @@ De Partijen verplichten zich ertoe:
 
 3. Iedere Partij voert de noodzakelijke veiligheidsonderzoeken met betrekking tot haar eigen onderdanen uit conform haar eigen toepasselijke nationale wetten en regelgeving. De nationale/bevoegde veiligheidsautoriteiten van de Partijen staan elkaar op verzoek bij in de onderzoeksprocedures met betrekking tot het afgeven van de verklaringen van geen bezwaar conform nationale wetten en regelgeving.
 
-#### Artikel 9. Veiligheidsincidenten en schending van het vertrouwelijke karakter van informatie
+##### Artikel 9. Veiligheidsincidenten en schending van het vertrouwelijke karakter van informatie
 
 De Partijen en de Commandant EGF, al naar gelang van toepassing, verplichten zich ertoe:
 
@@ -109,35 +131,35 @@ De Partijen en de Commandant EGF, al naar gelang van toepassing, verplichten zic
 
 - b. Elkaar waar van toepassing zo spoedig mogelijk op de hoogte te stellen van alle gegevens met betrekking tot de zaak, alsmede van de uiteindelijke resultaten van het onderzoek en eventuele correctieve maatregelen die genomen zijn om herhaling van een dergelijke openbaarmaking te voorkomen.
 
-#### Artikel 10. Bevoegde veiligheidsautoriteiten
+##### Artikel 10. Bevoegde veiligheidsautoriteiten
 
 Iedere Partij stelt via haar nationale veiligheidsautoriteit informatie beschikbaar aan de andere Partijen en aan EUROGENDFOR over haar veiligheidsorganisatie alsmede de benaming en het adres van de bevoegde veiligheidsautoriteit op nationaal niveau.
 
-#### Artikel 11. Andere overeenkomsten
+##### Artikel 11. Andere overeenkomsten
 
 1. Deze overeenkomst sluit niet uit dat de Partijen andere bilaterale of multilaterale overeenkomsten aangaan en laat de verplichtingen van de Partijen die voortvloeien uit andere internationale overeenkomsten onverlet.
 
 2. Op grond van deze Overeenkomst kunnen de nationale/bevoegde veiligheidsautoriteiten van de Partijen specifieke technische regelingen bedingen met betrekking tot specifieke veiligheidsvraagstukken die binnen de reikwijdte van deze Overeenkomst vallen.
 
-#### Artikel 12. Geschillenbeslechting
+##### Artikel 12. Geschillenbeslechting
 
 Eventuele geschillen over de interpretatie of toepassing van deze Overeenkomst worden beslecht door middel van overleg of onderhandelingen tussen de Partijen.
 
-#### Artikel 13. Depositaris
+##### Artikel 13. Depositaris
 
 De Italiaanse Republiek is depositaris van deze Overeenkomst.
 
-#### Artikel 14. Toetreding tot de Overeenkomst
+##### Artikel 14. Toetreding tot de Overeenkomst
 
 Deze Overeenkomst staat open voor toetreding door nieuwe Staten die Partij worden bij het oprichtingsverdrag van EUROGENDFOR.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 1. Deze Overeenkomst treedt dertig dagen nadat alle Partijen hun instrumenten van ratificatie, aanvaarding of goedkeuring hebben neergelegd, in werking.
 
 2. Voor staten die Partij worden bij het oprichtingsverdrag van EUROGENDFOR treedt deze Overeenkomst dertig dagen nadat hun instrumenten van toetreding zijn neergelegd, in werking.
 
-#### Artikel 16. Wijzigingen
+##### Artikel 16. Wijzigingen
 
 1. Deze Overeenkomst kan worden gewijzigd na schriftelijk verzoek daartoe door een van de Partijen.
 
@@ -145,7 +167,7 @@ Deze Overeenkomst staat open voor toetreding door nieuwe Staten die Partij worde
 
 3. De depositaris stelt alle Partijen op de hoogte van de datum van inwerkingtreding van een dergelijke wijziging.
 
-#### Artikel 17. Duur en beëindiging
+##### Artikel 17. Duur en beëindiging
 
 1. Deze Overeenkomst blijft voor onbepaalde duur van kracht.
 

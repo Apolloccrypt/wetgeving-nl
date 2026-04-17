@@ -1,14 +1,40 @@
 ---
-title: "Wet op de rechterlijke organisatie"
+title: "Wet van den 18den April 1827, op de zamenstelling der Regterlijke magt en het beleid der Justitie"
 identifier: "BWBR0001830"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001830"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001830"
+soort: "wet"
+stam_id: "2691013"
+version_id: "27659442"
+internal_id: "C39020901"
+label_id: "2638084"
+dtd_version: "2.0"
+original_entry_into_force: "2021-03-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001830/2025-07-01/0"
+intitule_bron: "Stb.1827-20"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1827-04-18"
+intitule_status: "goed"
+original_publication: "Stb.2021-155"
+original_signed_date: "2021-03-17"
+original_published_date: "2021-03-31"
+original_effect: "structuurwijziging"
+original_dossier: "35429"
+original_url_id: "stb-2021-155"
+entry_into_force_date: "2021-03-17"
+entry_into_force_dossier: "35429"
+jci_1_3: "jci1.3:c:BWBR0001830&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0001830&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet op de rechterlijke organisatie"
+signed_date: "2021-03-17"
+entry_into_force: "2021-03-17"
 ---
-
-# Wet op de rechterlijke organisatie
+# Wet van den 18den April 1827, op de zamenstelling der Regterlijke magt en het beleid der Justitie
 
 Allen die deze zullen zien of hooren lezen, salut! doen te weten:
 
@@ -20,7 +46,7 @@ Hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze, te 
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -66,7 +92,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Afdeling 1. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 De tot de rechterlijke macht behorende gerechten zijn:
 
@@ -76,15 +102,15 @@ De tot de rechterlijke macht behorende gerechten zijn:
 
 - c. de Hoge Raad.
 
-#### Artikel 3
+##### Artikel 3
 
 De [afdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&z=2025-07-01&g=2025-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&z=2025-07-01&g=2025-07-01) zijn niet van toepassing op de Hoge Raad.
 
-#### Artikel 3a
+##### Artikel 3a
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Tenzij bij de wet anders is bepaald, zijn, op straffe van nietigheid, de zittingen openbaar.
 
@@ -92,7 +118,7 @@ Vervallen
 
 3. Indien in zaken betreffende het personen- en familierecht of waarop [artikel 803 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=803) van overeenkomstige toepassing is de zitting geheel of gedeeltelijk openbaar is, worden in het proces-verbaal van de zitting de redenen daarvoor vermeld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Op straffe van nietigheid geschiedt de uitspraak van vonnissen en arresten in burgerlijke zaken en strafzaken in het openbaar en bevatten deze beslissingen de gronden waarop zij berusten.
 
@@ -100,11 +126,11 @@ Vervallen
 
 3. Indien bij de wet is bepaald dat ook anderen dan rechterlijke ambtenaren deel uitmaken van een meervoudige kamer, zijn de beslissingen van de desbetreffende meervoudige kamer tevens nietig, indien deze beslissingen niet zijn genomen met het in deze wet bepaalde aantal personen, niet zijnde rechterlijk ambtenaar.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het bestuur van een gerecht vormt voor het behandelen en beslissen van zaken en het beëdigen van de daartoe bij de wet aangewezen functionarissen enkelvoudige en meervoudige kamers en bepaalt de bezetting daarvan.
 
@@ -114,23 +140,23 @@ Vervallen
 
 4. Dit artikel is niet van toepassing op de Hoge Raad.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Vervallen
 
-#### Artikel 6b
+##### Artikel 6b
 
 Vervallen
 
-#### Artikel 6c
+##### Artikel 6c
 
 Vervallen
 
-#### Artikel 6d
+##### Artikel 6d
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 1. De voorzitter van de meervoudige kamer doet in raadkamer hoofdelijk omvraag. De voorzitter geeft als laatste zijn oordeel.
 
@@ -138,31 +164,31 @@ Vervallen
 
 3. De rechterlijke ambtenaren met rechtspraak belast, de rechters in opleiding en de officieren in opleiding, de senior-gerechtsauditeurs en gerechtsauditeurs, de griffier, substituut-griffier en waarnemend griffiers van de Hoge Raad, gerechtsambtenaren en buitengriffiers, bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=14&z=2025-07-01&g=2025-07-01), zijn tot geheimhouding verplicht van hetgeen in de raadkamer over aanhangige zaken is geuit.
 
-#### Artikel 7a
+##### Artikel 7a
 
 Vervallen
 
-#### Artikel 7b
+##### Artikel 7b
 
 Vervallen
 
-#### Artikel 7c
+##### Artikel 7c
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Raadsheren-plaatsvervangers en rechters-plaatsvervangers kunnen door het bestuur worden opgeroepen voor de behandeling en beslissing van zaken.
 
-#### Artikel 8a
+##### Artikel 8a
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 De Raad kan in overeenstemming met de bij een gerechtshof of rechtbank werkzame rechterlijk ambtenaar en het bestuur van het gerecht waar hij werkzaam is, die rechterlijk ambtenaar belasten met de waarneming van een ander rechterlijk ambt bij een ander gerechtshof of andere rechtbank.
 
-#### Artikel 10
+##### Artikel 10
 
 1. In elke zittingsplaats, bedoeld in [artikel 21b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=21b&z=2025-07-01&g=2025-07-01), is een griffie. De griffies zijn alle werkdagen gedurende ten minste zes uren per dag geopend.
 
@@ -172,41 +198,41 @@ De Raad kan in overeenstemming met de bij een gerechtshof of rechtbank werkzame 
 
 4. Stukken en zaken kunnen worden ingediend en gedeponeerd bij de griffie waar de zaak wordt behandeld, tenzij in het bestuursreglement anders is bepaald.
 
-#### Artikel 11
+##### Artikel 11
 
 Bij algemene maatregel van bestuur worden regels gesteld omtrent de orde van dienst binnen de gerechten.
 
-#### Artikel 11a
+##### Artikel 11a
 
 Vervallen
 
-#### Artikel 11b
+##### Artikel 11b
 
 Vervallen
 
-#### Artikel 11c
+##### Artikel 11c
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 De rechterlijke ambtenaren met rechtspraak belast, de rechters in opleiding en de officieren in opleiding, de senior-gerechtsauditeurs en gerechtsauditeurs en de griffier en substituut-griffier van de Hoge Raad mogen zich niet op enige wijze inlaten met partijen of hun advocaten of gemachtigden over enige voor hen aanhangige geschillen of geschillen waarvan zij weten of vermoeden dat die voor hen aanhangig zullen worden.
 
-#### Artikel 12a
+##### Artikel 12a
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 De rechterlijke ambtenaren met rechtspraak belast, de rechters in opleiding en de officieren in opleiding, de senior-gerechtsauditeurs en gerechtsauditeurs, de griffier, substituut-griffier en waarnemend griffiers van de Hoge Raad, gerechtsambtenaren en buitengriffiers, bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=14&z=2025-07-01&g=2025-07-01), zijn verplicht tot geheimhouding van de gegevens waarover zij bij de uitoefening van hun ambt de beschikking krijgen en waarvan zij het vertrouwelijke karakter kennen of redelijkerwijs moeten vermoeden, behoudens voorzover enig wettelijk voorschrift hen tot mededeling verplicht of uit hun ambt de noodzaak tot mededeling voortvloeit.
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. Degene die een klacht heeft over de wijze waarop een rechterlijk ambtenaar met rechtspraak belast zich in de uitoefening van zijn functie jegens hem heeft gedragen, kan, tenzij de klacht een rechterlijke beslissing betreft, de procureur-generaal bij de Hoge Raad schriftelijk verzoeken een vordering bij de Hoge Raad in te stellen tot het doen van een onderzoek naar de gedraging.
 
 2. Het verzoekschrift wordt ondertekend en bevat de naam en het adres van de verzoeker en een zo duidelijk mogelijke beschrijving van de bedoelde gedraging en de daartegen gerezen klacht.
 
-#### Artikel 13b
+##### Artikel 13b
 
 1. De procureur-generaal is niet verplicht aan het verzoek, bedoeld in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1a&artikel=13a&z=2025-07-01&g=2025-07-01), te voldoen, indien:
 
@@ -234,7 +260,7 @@ De rechterlijke ambtenaren met rechtspraak belast, de rechters in opleiding en d
 
 #### Paragraaf 1. Inrichting
 
-#### Artikel 14
+##### Artikel 14
 
 1. Bij een gerecht zijn werkzaam:
 
@@ -260,13 +286,13 @@ De rechterlijke ambtenaren met rechtspraak belast, de rechters in opleiding en d
 
 7. Indien een gerechtsambtenaar, rechter in opleiding, senior-gerechtsauditeur, gerechtsauditeur of buitengriffier griffierswerkzaamheden verricht ter ondersteuning van een rechterlijk ambtenaar met rechtspraak belast of een deskundig lid, is hij verplicht te voldoen aan de aanwijzingen van die rechterlijk ambtenaar of dat deskundig lid.
 
-#### Artikel 14a. Vervallen.
+##### Artikel 14a. Vervallen.
 
 1. Degene die een klacht heeft over de wijze waarop een rechterlijk ambtenaar met rechtspraak belast zich in de uitoefening van zijn functie jegens hem heeft gedragen, kan, tenzij de klacht een rechterlijke beslissing betreft, de procureur-generaal bij de Hoge Raad verzoeken een vordering in te stellen bij de Hoge Raad tot het doen van een onderzoek naar die gedraging.
 
 2. Het verzoekschrift dient de naam en het adres van de verzoeker te bevatten; de bedoelde gedraging en de daartegen gerezen klacht moeten er zo duidelijk mogelijk in worden beschreven.
 
-#### Artikel 14b. Vervallen.
+##### Artikel 14b. Vervallen.
 
 1. De procureur-generaal voldoet aan het verzoek tenzij:
 
@@ -286,11 +312,11 @@ De rechterlijke ambtenaren met rechtspraak belast, de rechters in opleiding en d
 
 3. De procureur-generaal stelt de verzoeker en de ambtenaar op wiens gedraging het verzoekschrift betrekking heeft op de hoogte van de uitkomsten van het vooronderzoek. Staat naar het oordeel van de procureur-generaal met betrekking tot de klacht een voorziening bij een rechterlijke instantie open, dan geeft hij daarvan kennis aan de verzoeker.
 
-#### Artikel 14c. Vervallen.
+##### Artikel 14c. Vervallen.
 
 De vordering van de procureur-generaal tot het instellen van een onderzoek naar de in het verzoekschrift bedoelde gedraging wordt behandeld door een voor de behandeling van deze vorderingen bij het reglement van orde aangewezen Kamer, die zitting houdt met drie leden.
 
-#### Artikel 14d. Vervallen.
+##### Artikel 14d. Vervallen.
 
 1. De Hoge Raad stelt de verzoeker en de ambtenaar op wiens gedraging het verzoekschrift betrekking heeft in de gelegenheid naar aanleiding van de vordering van de procureur-generaal, al dan niet in elkaars tegenwoordigheid, te worden gehoord.
 
@@ -298,13 +324,13 @@ De vordering van de procureur-generaal tot het instellen van een onderzoek naar 
 
 3. De Hoge Raad stelt het bestuur van het gerechtshof onderscheidenlijk de rechtbank in de gelegenheid omtrent een aanhangige klacht schriftelijk of mondeling inlichtingen te verstrekken en van zijn gevoelen daaromtrent te doen blijk geven, indien de klacht is gericht tegen een rechterlijk ambtenaar met rechtspraak belast, werkzaam bij dat gerechtshof onderscheidenlijk die rechtbank.
 
-#### Artikel 14e. Vervallen.
+##### Artikel 14e. Vervallen.
 
 1. De Hoge Raad beslist bij een arrest, waarin hij zijn bevindingen met betrekking tot de in het verzoekschrift genoemde bezwaren opneemt en zijn oordeel uitspreekt over de gegrondheid daarvan.
 
 2. Een afschrift van het arrest wordt gezonden aan de verzoeker en aan de ambtenaar op wiens gedraging het verzoekschrift betrekking heeft. De Hoge Raad zendt een afschrift van het arrest aan het bestuur van het betrokken gerecht dan wel, indien de klacht gericht is tegen een rechterlijk ambtenaar met rechtspraak belast, werkzaam bij de Hoge Raad, aan de president van de Hoge Raad.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Bij elk gerecht is een bestuur, dat bestaat uit drie leden, waaronder de voorzitter.
 
@@ -344,7 +370,7 @@ De vordering van de procureur-generaal tot het instellen van een onderzoek naar 
 
 10. [Artikel 3, onderdeel a, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=3) is niet van toepassing op het niet-rechterlijk lid van het bestuur.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De voorzitter onderscheidenlijk het andere rechterlijk lid van het bestuur ontvangt gedurende zijn benoemingsduur als voorzitter onderscheidenlijk ander rechterlijk lid, in plaats van het salaris overeenkomstig het bepaalde bij en krachtens de [artikelen 1ab](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ab) en [7 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7), een bij algemene maatregel van bestuur vast te stellen salaris behorende bij de vervulling van de functie van voorzitter onderscheidenlijk ander rechterlijk lid. Na het verstrijken van een benoemingsduur van ten minste zes aaneengesloten jaren ontvangt de voorzitter onderscheidenlijk het andere rechterlijk lid, met ingang van de datum waarop hij zijn werkzaamheden als zodanig beëindigt, gedurende drie jaren een toelage op het salaris dat hij overeenkomstig het bepaalde bij en krachtens de artikelen 1ab en 7 van de Wet rechtspositie rechterlijke ambtenaren geniet. Het bedrag van de toelage is gelijk aan het verschil tussen dat salaris en de bij algemene maatregel van bestuur voor de functie van voorzitter onderscheidenlijk ander rechterlijk lid vast te stellen salarishoogte. Toekenning van de toelage geschiedt door het bestuur uitgezonderd de betrokken voorzitter onderscheidenlijk het betrokken andere rechterlijk lid.
 
@@ -358,7 +384,7 @@ De vordering van de procureur-generaal tot het instellen van een onderzoek naar 
 
 6. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de rechtspositie van de bestuursleden, waaronder in ieder geval regels betreffende het salaris van de bestuursleden alsmede de in het eerste lid, derde volzin, bedoelde toelage.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het bestuur kan slechts beslissingen nemen indien ten minste de helft van het aantal leden aanwezig is.
 
@@ -366,11 +392,11 @@ De vordering van de procureur-generaal tot het instellen van een onderzoek naar 
 
 3. Indien de stemmen staken, geeft de stem van de president de doorslag.
 
-#### Artikel 18
+##### Artikel 18
 
 Het bestuur kan een of meer leden van het bestuur machtigen een of meer van zijn bevoegdheden uit te oefenen. [Afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1) is van overeenkomstige toepassing.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het bestuur stelt een huishoudelijk reglement vast, dat in ieder geval nadere regels bevat over:
 
@@ -382,7 +408,7 @@ Het bestuur kan een of meer leden van het bestuur machtigen een of meer van zijn
 
 2. Het bestuur wijst in het huishoudelijk reglement aan de president of aan het andere rechterlijk lid van het bestuur in ieder geval het aandachtsgebied toe dat betrekking heeft op de taken, bedoeld in [artikel 23, eerste lid, onderdeel d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=23&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het bestuur stelt een bestuursreglement vast, dat in ieder geval nadere regels bevat over:
 
@@ -398,7 +424,7 @@ Het bestuur kan een of meer leden van het bestuur machtigen een of meer van zijn
 
 2. Het bestuur stelt in het bestuursreglement voorts zijn zetel vast.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het bestuur stelt een zaaksverdelingsreglement vast, waarin per zittingsplaats wordt bepaald voor welke categorieën van zaken in die zittingsplaats zittingen worden gehouden. Daarbij wordt in ieder geval rekening gehouden met het belang van een goede toegankelijkheid van rechtspraak.
 
@@ -406,7 +432,7 @@ Het bestuur kan een of meer leden van het bestuur machtigen een of meer van zijn
 
 3. Alvorens het bestuur van het gerechtshof het zaaksverdelingsreglement vaststelt, stelt het de landelijk hoofdadvocaat-generaal in de gelegenheid zijn zienswijze naar voren te brengen over hetgeen in het reglement zal worden bepaald ten aanzien van strafzaken.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Met uitzondering van de raadsheren-plaatsvervangers en rechters-plaatsvervangers, die hun ambt niet vervullen op basis van een aanwijzing als bedoeld in [artikel 5f, derde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5f), vormen de bij een gerecht werkzame rechterlijke ambtenaren met rechtspraak belast, de senior-gerechtsauditeurs en gerechtsauditeurs, die tevens raadsheer-plaatsvervanger of rechter-plaatsvervanger zijn, en de rechters in opleiding tezamen de gerechtsvergadering.
 
@@ -416,7 +442,7 @@ Het bestuur kan een of meer leden van het bestuur machtigen een of meer van zijn
 
 #### Paragraaf 2. Taken en bevoegdheden
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het bestuur is belast met de algemene leiding, de organisatie en de bedrijfsvoering van het gerecht. In het bijzonder draagt het bestuur zorg voor:
 
@@ -438,13 +464,13 @@ Het bestuur kan een of meer leden van het bestuur machtigen een of meer van zijn
 
 4. De bestuursleden geven elkaar inlichtingen die voor de uitvoering van de taken, bedoeld in het eerste en derde lid, noodzakelijk zijn.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Het bestuur kan ter uitvoering van zijn taken, genoemd in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=23&z=2025-07-01&g=2025-07-01), alle bij het gerecht werkzame ambtenaren algemene en bijzondere aanwijzingen geven.
 
 2. Bij het geven van aanwijzingen treedt het bestuur niet in de procesrechtelijke behandeling van, de inhoudelijke beoordeling van alsmede de beslissing in een concrete zaak of in categorieën van zaken.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Ten aanzien van het niet-rechterlijk lid van het bestuur worden de bevoegdheden uit de [Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) en [titel 10 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=10) uitgeoefend door het bestuur uitgezonderd dat lid.
 
@@ -454,43 +480,43 @@ Het bestuur kan een of meer leden van het bestuur machtigen een of meer van zijn
 
 4. Voor gerechtsambtenaren gelden de arbeidsvoorwaarden die zijn opgenomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
-#### Artikel 11a
+##### Artikel 11a
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 De president vertegenwoordigt het gerecht.
 
-#### Artikel 28
+##### Artikel 28
 
 De gerechtsvergadering kan het bestuur gevraagd of ongevraagd adviseren over de uitvoering van de in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=23&z=2025-07-01&g=2025-07-01), genoemde taak.
 
-#### Artikel 28a
+##### Artikel 28a
 
 Vervallen
 
 #### Paragraaf 2. Taken en bevoegdheden
 
-#### Artikel 29
+##### Artikel 29
 
 1. Met inachtneming van de regels, bedoeld in [artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=97&z=2025-07-01&g=2025-07-01), kent de Raad jaarlijks aan elk gerecht een algemeen budget toe ten laste van de rijksbegroting. De Raad kan aan de toekenning van het budget voorschriften verbinden.
 
 2. In aanvulling op het algemene budget kan de Raad een gerecht financiële middelen verstrekken voor specifiek omschreven activiteiten die gericht zijn op verbetering van de organisatie of de werkwijze van de gerechten of het desbetreffende gerecht. De tweede volzin van het eerste lid is van overeenkomstige toepassing.
 
-#### Artikel 29a
+##### Artikel 29a
 
 Vervallen
 
-#### Artikel 29b
+##### Artikel 29b
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 De Raad deelt aan elk gerecht zo spoedig mogelijk na de mededeling, bedoeld in [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=101&z=2025-07-01&g=2025-07-01) mede welk budget, met inbegrip van de daaraan te verbinden voorschriften, voor het komende begrotingsjaar voorlopig kan worden verwacht. Hij deelt daarbij tevens mede op welke wijze het geraamde budget is berekend.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Het bestuur stelt jaarlijks een jaarplan voor het gerecht vast. Het plan bevat:
 
@@ -508,7 +534,7 @@ De Raad deelt aan elk gerecht zo spoedig mogelijk na de mededeling, bedoeld in [
 
 5. Binnen het bestuur ziet de president toe op de uitvoering van het jaarplan.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Het bestuur stelt de begroting van het gerecht als onderdeel van het jaarplan vast in overeenstemming met het door de Raad geraamde budget, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=30&z=2025-07-01&g=2025-07-01).
 
@@ -520,7 +546,7 @@ De Raad deelt aan elk gerecht zo spoedig mogelijk na de mededeling, bedoeld in [
 
 5. In gevallen van dringende spoed kan het bestuur een uitgave doen voordat de desbetreffende begroting de instemming van de Raad heeft verkregen. De Raad wordt daarvan terstond in kennis gesteld.
 
-#### Artikel 33
+##### Artikel 33
 
 1. De Raad maakt aan elk gerecht zo spoedig mogelijk na de vaststelling van de begroting van het Ministerie van Veiligheid en Justitie bekend, welk budget hij aan het gerecht toekent. Indien het budget afwijkt van het geraamde budget, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=30&z=2025-07-01&g=2025-07-01) is de tweede volzin van dat artikel van overeenkomstige toepassing.
 
@@ -532,7 +558,7 @@ De Raad deelt aan elk gerecht zo spoedig mogelijk na de mededeling, bedoeld in [
 
 5. Het bestuur doet de noodzakelijke uitgaven binnen de grenzen van de vastgestelde of gewijzigde begroting.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Indien de begroting niet de instemming van de Raad heeft verkregen, behoeft het bestuur tot het doen van uitgaven steeds de instemming van de Raad.
 
@@ -544,7 +570,7 @@ De Raad deelt aan elk gerecht zo spoedig mogelijk na de mededeling, bedoeld in [
 
 5. De Raad kan bepalen voor welke posten en tot welk bedrag het bestuur geen instemming behoeft.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Het bestuur dient jaarlijks voor een door de Raad te bepalen tijdstip bij de Raad een verslag in.
 
@@ -562,21 +588,21 @@ De Raad deelt aan elk gerecht zo spoedig mogelijk na de mededeling, bedoeld in [
 
 #### Paragraaf 3. Planning en bekostiging
 
-#### Artikel 36
+##### Artikel 36
 
 1. Het bestuur verstrekt desgevraagd aan de Raad de voor de uitoefening van zijn taak benodigde inlichtingen.
 
 2. De Raad kan omtrent de verstrekking van inlichtingen algemene aanwijzingen geven voorzover de gevraagde inlichtingen betrekking hebben op beslissingen en handelingen ter uitvoering van de taken, genoemd in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=23&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 36a
+##### Artikel 36a
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Een beslissing van het bestuur ter uitvoering van de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=23&z=2025-07-01&g=2025-07-01), genoemde taken kan door de Raad worden vernietigd indien de beslissing kennelijk in strijd is met het recht of het belang van een goede bedrijfsvoering van het gerecht. De [artikelen 10:36](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:36), [10:37](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:37), [10:38 tot en met 10:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:38) zijn van overeenkomstige toepassing.
 
-#### Artikel 38
+##### Artikel 38
 
 1. In geval van ongeschiktheid anders dan wegens ziekte kan de Raad Onze Minister voorstellen om een of meer leden van het bestuur voor te dragen voor ontslag als lid van het bestuur. In geval van een ernstig vermoeden voor het bestaan van ongeschiktheid anders dan wegens ziekte, kan de Raad Onze Minister voorstellen om een of meer leden van het bestuur voor te dragen voor schorsing als lid van het bestuur.
 
@@ -584,7 +610,7 @@ Een beslissing van het bestuur ter uitvoering van de in [artikel 23, eerste lid]
 
 3. Indien alle leden van het bestuur zijn geschorst of ontslagen, kan de Raad bij het desbetreffende gerecht een of meer tijdelijke bewindvoerders aanstellen. [Artikel 15, zevende tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=15&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing. Bij de aanstelling wordt een termijn bepaald voor de bewindvoering.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Tegen een besluit op grond van [artikel 38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=4&artikel=38&z=2025-07-01&g=2025-07-01), kan een belanghebbende beroep instellen bij de Hoge Raad.
 
@@ -596,7 +622,7 @@ Een beslissing van het bestuur ter uitvoering van de in [artikel 23, eerste lid]
 
 #### Paragraaf 4. Toezicht
 
-#### Artikel 40
+##### Artikel 40
 
 1. Rechterlijke ambtenaren met rechtspraak belast, werkzaam bij de rechtbanken zijn:
 
@@ -610,61 +636,61 @@ Een beslissing van het bestuur ter uitvoering van de in [artikel 23, eerste lid]
 
 2. De rechterlijke ambtenaren met rechtspraak belast in een rechtbank zijn van rechtswege rechter-plaatsvervanger in de overige rechtbanken.
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 De rechtbanken nemen in eerste aanleg kennis van alle burgerlijke zaken, behoudens bij de wet bepaalde uitzonderingen.
 
-#### Artikel 43
+##### Artikel 43
 
 De rechtbanken nemen in eerste aanleg kennis van de bestuursrechtelijke zaken waarvan de kennisneming bij de wet aan hen is opgedragen.
 
-#### Artikel 43a
+##### Artikel 43a
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 De rechtbanken nemen in eerste aanleg kennis van de belastingzaken waarvan de kennisneming bij de wet aan hen is opgedragen.
 
-#### Artikel 45
+##### Artikel 45
 
 1. De rechtbanken nemen in eerste aanleg kennis van alle strafzaken, behoudens bij de wet bepaalde uitzonderingen.
 
 2. De rechtbanken nemen ook kennis van de vordering tot vergoeding van kosten en schaden ten behoeve van de benadeelde partij in strafzaken.
 
-#### Artikel 46
+##### Artikel 46
 
 Het bestuur van de rechtbank wijst uit de bij het gerecht werkzame rechterlijke ambtenaren met rechtspraak belast rechters-commissarissen aan, belast met de behandeling van strafzaken.
 
 #### Paragraaf 2. De sector kanton
 
-#### Artikel 47
+##### Artikel 47
 
 1. Het bestuur vormt voor het behandelen en beslissen van kantonzaken enkelvoudige kamers en bepaalt de bezetting daarvan.
 
 2. Degene die zitting heeft in de enkelvoudige kamer draagt de titel van kantonrechter dan wel kantonrechter-plaatsvervanger.
 
-#### Artikel 47a
+##### Artikel 47a
 
 Vervallen
 
-#### Artikel 48
+##### Artikel 48
 
 1. Het bestuur vormt voor het behandelen en beslissen van kantonzaken als bedoeld in [artikel 1019j van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1019j) meervoudige kamers onder de benaming van pachtkamers. Het bestuur bepaalt de bezetting van deze kamers.
 
 2. Een pachtkamer wordt bezet door twee personen, niet zijnde rechterlijk ambtenaar, als deskundige leden en een kantonrechter. Op de deskundige leden zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2025-07-01&g=2025-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2025-07-01&g=2025-07-01) en [13 tot en met 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
-#### Artikel 49
+##### Artikel 49
 
 Het bestuur van de rechtbank Gelderland vormt een enkelvoudige kamer voor het behandelen en beslissen van militaire kantonzaken en bepaalt de bezetting daarvan. Degene die zitting heeft in deze kamer draagt de titel van militaire kantonrechter.
 
 #### Paragraaf 3. Vorming en bezetting van kamers
 
-#### Artikel 50
+##### Artikel 50
 
 1. Het bestuur vormt voor het behandelen en beslissen van zaken waarvoor in verband met onverwijlde spoed een voorziening wordt gevraagd enkelvoudige kamers en bepaalt de bezetting daarvan. Deze kamers kunnen ook andere bij de wet aan hen toebedeelde zaken behandelen en beslissen.
 
@@ -672,25 +698,25 @@ Het bestuur van de rechtbank Gelderland vormt een enkelvoudige kamer voor het be
 
 3. In kort geding als bedoeld in het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) draagt de voorzieningenrechter ter terechtzitting de aanspreektitel van president in kort geding.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Het bestuur vormt voor het behandelen en beslissen van strafzaken in eerste aanleg, niet zijnde kantonzaken als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=47&z=2025-07-01&g=2025-07-01), enkelvoudige kamers. Het bestuur bepaalt de bezetting van deze kamers.
 
 2. Degene die zitting heeft in een enkelvoudige kamer als bedoeld in het eerste lid draagt de titel van politierechter.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Het bestuur vormt voor het behandelen en beslissen van zaken betreffende economische delicten enkelvoudige en meervoudige kamers onder de benaming van economische kamers. Het bestuur bepaalt de bezetting van deze kamers.
 
 2. Degene die zitting heeft in een enkelvoudige economische kamer draagt de titel van economische politierechter.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Het bestuur vormt voor het behandelen en beslissen van kinderzaken enkelvoudige kamers en bepaalt de bezetting daarvan.
 
 2. Degene die zitting heeft in een enkelvoudige kamer voor kinderzaken draagt de titel van kinderrechter.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Het bestuur van de rechtbank Den Haag vormt voor het behandelen en beslissen van zaken op grond van de [Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952) enkelvoudige en meervoudige kamers en bepaalt de bezetting daarvan.
 
@@ -698,7 +724,7 @@ Het bestuur van de rechtbank Gelderland vormt een enkelvoudige kamer voor het be
 
 3. Een meervoudige kamer bestaat uit twee rechterlijke ambtenaren met rechtspraak belast en een militair lid, dat bij voorkeur afkomstig is uit het krijgsmachtdeel waartoe degene die beroep heeft ingesteld behoort of behoorde. Op het militaire lid zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2025-07-01&g=2025-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2025-07-01&g=2025-07-01) en [13 tot en met 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing. Tevens zijn de [artikelen 44, eerste, vierde tot en met achtste en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44), en [44a, eerste tot en met achtste en tiende lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44a) op dit lid van overeenkomstige toepassing, met dien verstande dat het bestuur van het gerecht wordt aangemerkt als zijn functionele autoriteit, dit lid voor de overeenkomstige toepassing van artikel 44, eerste en zevende lid, wordt gelijkgesteld met plaatsvervangers in hetzelfde gerecht, en de president van het gerecht ten aanzien van dit lid de bevoegdheid, bedoeld in artikel 44, zesde lid, uitoefent.
 
-#### Artikel 55
+##### Artikel 55
 
 1. Het bestuur van de rechtbank Gelderland vormt voor het behandelen en beslissen van zaken als bedoeld in [artikel 2 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=2), enkelvoudige en meervoudige kamers onder de benaming van militaire kamers. Het bestuur bepaalt de bezetting van deze kamers.
 
@@ -706,25 +732,25 @@ Het bestuur van de rechtbank Gelderland vormt een enkelvoudige kamer voor het be
 
 3. Degene die zitting heeft in een enkelvoudige militaire kamer draagt de titel van militaire politierechter.
 
-#### Artikel 55a
+##### Artikel 55a
 
 1. Het bestuur van de rechtbank Den Haag vormt voor het behandelen en beslissen van zaken als bedoeld in [artikel 78, eerste en tweede lid, van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=78), enkelvoudige en meervoudige kamers onder de benaming van kamers voor het kwekersrecht. Het bestuur bepaalt de bezetting van deze kamers.
 
 2. Een meervoudige kamer bestaat uit twee rechterlijke ambtenaren met rechtspraak belast en een persoon, niet zijnde rechterlijk ambtenaar, als deskundig lid. Op het deskundige lid zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2025-07-01&g=2025-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2025-07-01&g=2025-07-01) en [13 tot en met 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing. Tevens zijn de [artikelen 44, eerste, vierde tot en met achtste en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44), en [44a, eerste tot en met achtste en tiende lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44a) op dit lid van overeenkomstige toepassing, met dien verstande dat het bestuur van het gerecht wordt aangemerkt als zijn functionele autoriteit, dit lid voor de overeenkomstige toepassing van artikel 44, eerste en zevende lid, wordt gelijkgesteld met plaatsvervangers in hetzelfde gerecht, en de president van het gerecht ten aanzien van dit lid de bevoegdheid, bedoeld in artikel 44, zesde lid, uitoefent.
 
-#### Artikel 55b
+##### Artikel 55b
 
 Vervallen
 
-#### Artikel 55c
+##### Artikel 55c
 
 Vervallen
 
-#### Artikel 56
+##### Artikel 56
 
 Het bestuur van de rechtbank Noord-Holland vormt voor het behandelen en beslissen van zaken als bedoeld in [artikel 8:2, tweede en derde lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=8:2), enkelvoudige en meervoudige kamers onder de benaming van douanekamers. Het bestuur bepaalt de bezetting van deze kamers.
 
-#### Artikel 57
+##### Artikel 57
 
 Vervallen
 
@@ -732,7 +758,7 @@ Vervallen
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 58
+##### Artikel 58
 
 1. Rechterlijke ambtenaren met rechtspraak belast, werkzaam bij de gerechtshoven zijn:
 
@@ -744,51 +770,51 @@ Vervallen
 
 2. De rechterlijke ambtenaren met rechtspraak belast in een gerechtshof zijn van rechtswege raadsheer-plaatsvervanger in de overige gerechtshoven.
 
-#### Artikel 58a
+##### Artikel 58a
 
 Vervallen
 
-#### Artikel 59
+##### Artikel 59
 
 Vervallen
 
-#### Artikel 59a
+##### Artikel 59a
 
 Vervallen
 
-#### Artikel 59b
+##### Artikel 59b
 
 Vervallen
 
-#### Artikel 59c
+##### Artikel 59c
 
 Vervallen
 
-#### Artikel 59d
+##### Artikel 59d
 
 Vervallen
 
-#### Artikel 59e
+##### Artikel 59e
 
 Vervallen
 
-#### Artikel 59f
+##### Artikel 59f
 
 Vervallen
 
-#### Artikel 59g
+##### Artikel 59g
 
 Vervallen
 
-#### Artikel 59h
+##### Artikel 59h
 
 Vervallen
 
-#### Artikel 114
+##### Artikel 114
 
 Vervallen
 
-#### Artikel 60
+##### Artikel 60
 
 1. De gerechtshoven oordelen in hoger beroep over de daarvoor vatbare vonnissen, beschikkingen en uitspraken in burgerlijke zaken, strafzaken en belastingzaken van de rechtbanken in hun ressort.
 
@@ -796,23 +822,23 @@ Vervallen
 
 3. Het bestuur van het gerechtshof kan uit de bij het gerecht werkzame rechterlijke ambtenaren met rechtspraak belast raadsheren-commissarissen aanwijzen, belast met de behandeling van strafzaken.
 
-#### Artikel 60a
+##### Artikel 60a
 
 Vervallen
 
-#### Artikel 61
+##### Artikel 61
 
 De gerechtshoven nemen in eerste aanleg, tevens in hoogste ressort, kennis van jurisdictiegeschillen tussen rechtbanken binnen hun rechtsgebied, met uitzondering van geschillen als bedoeld in [artikel 8:9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:9).
 
-#### Artikel 61a
+##### Artikel 61a
 
 Vervallen
 
-#### Artikel 61b
+##### Artikel 61b
 
 Vervallen
 
-#### Artikel 62
+##### Artikel 62
 
 1. De gerechtshoven nemen in eerste aanleg, tevens in hoogste ressort, kennis van de voor hoger beroep vatbare burgerlijke zaken waarin partijen zijn overeengekomen deze bij de aanvang van het geding bij wege van prorogatie aanhangig te maken bij het gerechtshof dat in hoger beroep bevoegd zou zijn.
 
@@ -820,21 +846,21 @@ Vervallen
 
 #### Paragraaf 2. Vorming en bezetting van kamers
 
-#### Artikel 63
+##### Artikel 63
 
 1. Het bestuur vormt voor het behandelen en beslissen van zaken waarvoor in verband met onverwijlde spoed een voorziening wordt gevraagd enkelvoudige kamers en bepaalt de bezetting daarvan. Deze kamers kunnen ook andere bij de wet aan hen toebedeelde zaken behandelen en beslissen.
 
 2. Degene die zitting heeft in een enkelvoudige kamer als bedoeld in het eerste lid draagt de titel van voorzieningenrechter.
 
-#### Artikel 64
+##### Artikel 64
 
 Het bestuur vormt voor het behandelen en beslissen van zaken waarin door de economische kamers van de rechtbanken vonnis is gewezen dan wel een bevel of een beschikking is gegeven, enkelvoudige en meervoudige kamers onder de benaming van economische kamers. Het bestuur bepaalt de bezetting van deze kamers.
 
-#### Artikel 65
+##### Artikel 65
 
 Het bestuur van het gerechtshof Amsterdam vormt voor het behandelen en beslissen in hoger beroep van zaken waarin door de douanekamers van de rechtbank Noord-Holland uitspraak is gedaan enkelvoudige en meervoudige kamers onder de benaming van douanekamers. Het bestuur bepaalt de bezetting van deze kamers.
 
-#### Artikel 66
+##### Artikel 66
 
 1. Het bestuur van het gerechtshof Amsterdam vormt voor het behandelen en beslissen van zaken als bedoeld in [Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045), de [artikelen 173](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=173) en [217 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=217), de [artikelen 168](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=168) en [211a van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=211a), [artikel 5 van de Wet op de Europese ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0008508&artikel=5), [artikel 26 van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=26), [artikel 36 van de Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=36) en de [artikelen 997](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=997) en [1000 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1000) een meervoudige kamer onder de benaming van ondernemingskamer en bepaalt de bezetting daarvan.
 
@@ -850,7 +876,7 @@ Het bestuur van het gerechtshof Amsterdam vormt voor het behandelen en beslissen
 
 7. Bij algemene maatregel van bestuur worden regels gesteld over het kostuum, de afwezigheid, de afwisseling, de vergoeding voor reis- en verblijfskosten en nadere vergoeding van de deskundige leden en hun plaatsvervangers.
 
-#### Artikel 67
+##### Artikel 67
 
 1. Het bestuur van het gerechtshof Arnhem-Leeuwarden vormt een meervoudige kamer die is belast met het behandelen en beslissen van zaken in beroep als bedoeld in de [artikelen 6:6:15](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:15), [6:6:23f](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:23f) en [6:6:37 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:37). Het bestuur bepaalt de bezetting van deze kamer.
 
@@ -866,7 +892,7 @@ Het bestuur van het gerechtshof Amsterdam vormt voor het behandelen en beslissen
 
 7. Bij algemene maatregel van bestuur worden regels gesteld over het kostuum, de afwezigheid, de afwisseling, de vergoeding voor reis- en verblijfskosten en nadere vergoeding van de deskundige leden en hun plaatsvervangers.
 
-#### Artikel 68
+##### Artikel 68
 
 1. Het bestuur van het gerechtshof Arnhem-Leeuwarden vormt voor het behandelen en beslissen van zaken waarin door de militaire kamer van de rechtbank Gelderland vonnis is gewezen een meervoudige kamer onder de benaming van militaire kamer. Het bestuur bepaalt de bezetting van deze kamer.
 
@@ -874,25 +900,25 @@ Het bestuur van het gerechtshof Amsterdam vormt voor het behandelen en beslissen
 
 3. De militaire kamer oordeelt ook over het beklag over niet vervolging in militaire zaken als bedoeld in [artikel 12 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12).
 
-#### Artikel 69
+##### Artikel 69
 
 1. Het bestuur van het gerechtshof Arnhem-Leeuwarden vormt voor het behandelen en beslissen van zaken als bedoeld in [artikel 1019o, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1019o), een meervoudige kamer onder de benaming van pachtkamer. Het bestuur bepaalt de bezetting van deze kamer.
 
 2. De pachtkamer bestaat uit drie rechterlijke ambtenaren met rechtspraak belast en twee personen, niet zijnde rechterlijk ambtenaar, als deskundige leden. Op de deskundige leden zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2025-07-01&g=2025-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2025-07-01&g=2025-07-01) en [13 tot en met 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing.
 
-#### Artikel 70
+##### Artikel 70
 
 1. Het bestuur van het gerechtshof Den Haag vormt voor het behandelen en beslissen van zaken als bedoeld in [artikel 78, derde lid, van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=78), een meervoudige kamer onder de benaming van kamer voor het kwekersrecht. Het bestuur bepaalt de bezetting van deze kamer.
 
 2. De kamer voor het kwekersrecht bestaat uit drie rechterlijke ambtenaren met rechtspraak belast en twee personen, niet zijnde rechterlijk ambtenaar, als deskundige leden. Op de deskundige leden zijn de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=7&z=2025-07-01&g=2025-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2025-07-01&g=2025-07-01) en [13 tot en met 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing. Tevens zijn de [artikelen 44, eerste, vierde tot en met achtste en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44), en [44a, eerste tot en met achtste en tiende lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44a) op deze leden van overeenkomstige toepassing, met dien verstande dat het bestuur van het gerecht wordt aangemerkt als hun functionele autoriteit, zij voor de overeenkomstige toepassing van artikel 44, eerste en zevende lid, worden gelijkgesteld met plaatsvervangers in hetzelfde gerecht, en de president van het gerecht ten aanzien van hen de bevoegdheid, bedoeld in artikel 44, zesde lid, uitoefent.
 
-#### Artikel 71
+##### Artikel 71
 
 Het bestuur van het gerechtshof Arnhem-Leeuwarden vormt enkelvoudige en meervoudige kamers voor het behandelen en beslissen van zaken op basis van de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581) en op basis van [artikel 154b van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=154b). Het bestuur bepaalt de bezetting van deze kamers.
 
 ### Afdeling 5. De Hoge Raad
 
-#### Artikel 72
+##### Artikel 72
 
 1. De Hoge Raad bestaat uit een president, ten hoogste zeven vice-presidenten, ten hoogste dertig raadsheren en ten hoogste twintig raadsheren in buitengewone dienst.
 
@@ -906,7 +932,7 @@ Het bestuur van het gerechtshof Arnhem-Leeuwarden vormt enkelvoudige en meervoud
 
 6. Voor de toepassing van het eerste lid worden rechterlijke ambtenaren die zijn aangesteld voor een minder dan volledige arbeidsduur, geteld overeenkomstig de breuk die hun arbeidsduur aangeeft.
 
-#### Artikel 73
+##### Artikel 73
 
 1. In geval van ziekte of andere verhindering wordt de president vervangen door een vice-president.
 
@@ -924,11 +950,11 @@ Het bestuur van het gerechtshof Arnhem-Leeuwarden vormt enkelvoudige en meervoud
 
 - c. wegens het doen of nalaten van iets wat een persoon, werkzaam ten behoeve van de Hoge Raad, behoort na te laten of te doen.
 
-#### Artikel 74
+##### Artikel 74
 
 De Hoge Raad geeft advies of inlichtingen wanneer dat vanwege de regering wordt gevraagd.
 
-#### Artikel 75
+##### Artikel 75
 
 1. De Hoge Raad vormt, op voorstel van de president, een of meer meervoudige kamers en, voor de gevallen waarin de wet dat voorschrijft, een of meer enkelvoudige kamers en bepaalt de bezetting daarvan.
 
@@ -942,7 +968,7 @@ De Hoge Raad geeft advies of inlichtingen wanneer dat vanwege de regering wordt 
 
 6. De Hoge Raad stelt een regeling vast voor de behandeling van klachten. [Artikel 26, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=26&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
-#### Artikel 76
+##### Artikel 76
 
 1. De Hoge Raad neemt in eerste instantie, tevens in hoogste ressort, kennis van de ambtsmisdrijven en ambtsovertredingen begaan door de leden van de Staten-Generaal, de ministers en de staatssecretarissen.
 
@@ -952,7 +978,7 @@ De Hoge Raad geeft advies of inlichtingen wanneer dat vanwege de regering wordt 
 
 4. In de gedingen, bedoeld in het eerste en tweede lid, oordeelt de Hoge Raad met een aantal van tien raadsheren. Bij het staken der stemmen wordt een uitspraak ten voordele van de verdachte gedaan.
 
-#### Artikel 77
+##### Artikel 77
 
 1. De Hoge Raad neemt in eerste aanleg, tevens in hoogste ressort, kennis van jurisdictiegeschillen tussen:
 
@@ -968,7 +994,7 @@ De Hoge Raad geeft advies of inlichtingen wanneer dat vanwege de regering wordt 
 
 2. Indien het jurisdictiegeschil is gerezen tussen de Hoge Raad en een ander in het eerste lid genoemd gerecht, wordt de Hoge Raad ter beslissing daarvan zoveel mogelijk samengesteld uit raadsheren die van de zaak nog geen kennis genomen hebben.
 
-#### Artikel 78
+##### Artikel 78
 
 1. De Hoge Raad neemt kennis van het beroep in cassatie tegen de handelingen, arresten, vonnissen en beschikkingen van de gerechtshoven en de rechtbanken, ingesteld hetzij door een partij, hetzij «in het belang der wet» door de procureur-generaal bij de Hoge Raad.
 
@@ -984,7 +1010,7 @@ De Hoge Raad geeft advies of inlichtingen wanneer dat vanwege de regering wordt 
 
 7. Cassatie «in het belang der wet» kan niet worden ingesteld indien voor partijen een gewoon rechtsmiddel openstaat en brengt geen nadeel toe aan de rechten door partijen verkregen
 
-#### Artikel 79
+##### Artikel 79
 
 1. De Hoge Raad vernietigt handelingen, arresten, vonnissen en beschikkingen:
 
@@ -994,7 +1020,7 @@ De Hoge Raad geeft advies of inlichtingen wanneer dat vanwege de regering wordt 
 
 2. Feiten waaruit het gelden of niet gelden van een regel van gewoonterecht wordt afgeleid, worden voorzover zij bewijs behoeven, alleen op grond van de bestreden beslissing als vaststaande aangenomen.
 
-#### Artikel 80
+##### Artikel 80
 
 1. Tegen een vonnis of een beschikking van een kantonrechter in een burgerlijke zaak waartegen geen hoger beroep kan of kon worden ingesteld, kan een partij slechts beroep in cassatie instellen wegens:
 
@@ -1016,23 +1042,23 @@ De Hoge Raad geeft advies of inlichtingen wanneer dat vanwege de regering wordt 
 
 - d. het niet in het openbaar gewezen zijn van het vonnis.
 
-#### Artikel 81
+##### Artikel 81
 
 1. Indien de Hoge Raad oordeelt dat een aangevoerde klacht niet tot cassatie kan leiden en niet noopt tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling, kan hij zich bij de vermelding van de gronden van zijn beslissing beperken tot dit oordeel.
 
 2. Het beroep in cassatie wordt behandeld en beslist door drie leden van een meervoudige kamer, van wie een als voorzitter optreedt.
 
-#### Artikel 82
+##### Artikel 82
 
 1. De Hoge Raad is belast met de beëdiging van functionarissen ten aanzien van wie zulks bij of krachtens de wet is bepaald.
 
 2. De in het eerste lid bedoelde taak wordt uitgeoefend door de president van de Hoge Raad. De beëdiging geschiedt op vordering van de procureur-generaal.
 
-#### Artikel 83
+##### Artikel 83
 
 De rechtbanken, de gerechtshoven en de presidenten geven inlichtingen wanneer die door de Hoge Raad voor de behandeling van een zaak noodzakelijk worden geacht.
 
-#### Artikel 83a
+##### Artikel 83a
 
 Vervallen
 
@@ -1040,7 +1066,7 @@ Vervallen
 
 #### Paragraaf 1. Inrichting
 
-#### Artikel 84
+##### Artikel 84
 
 1. Er is een Raad voor de rechtspraak.
 
@@ -1072,11 +1098,11 @@ Vervallen
 
 - i. lid van het College van Afgevaardigden, bedoeld in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=1&artikel=90&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 84a
+##### Artikel 84a
 
 Vervallen
 
-#### Artikel 85
+##### Artikel 85
 
 1. Voorafgaand aan de voordracht, bedoeld in [artikel 84, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=1&artikel=84&z=2025-07-01&g=2025-07-01), stelt Onze Minister in overeenstemming met de Raad een lijst vast van maximaal zes personen die voor de vervulling van de desbetreffende vacature in aanmerking lijken te komen.
 
@@ -1086,7 +1112,7 @@ Vervallen
 
 4. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de procedure, bedoeld in dit artikel.
 
-#### Artikel 86
+##### Artikel 86
 
 1. De rechterlijke leden van de Raad ontvangen gedurende hun benoemingsduur als lid van de Raad, in plaats van het salaris overeenkomstig het bepaalde bij en krachtens de [artikelen 1ab](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ab) en [7 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7), een bij algemene maatregel van bestuur vast te stellen salaris behorende bij de functie van voorzitter of ander rechterlijk lid van de Raad.
 
@@ -1106,7 +1132,7 @@ Vervallen
 
 9. [Artikel 3, onderdeel a, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=3) is niet van toepassing op een niet-rechterlijk lid van de Raad.
 
-#### Artikel 87
+##### Artikel 87
 
 1. Indien de Raad bestaat uit drie leden, kan hij alleen beslissingen nemen indien ten minste twee leden aanwezig zijn. Indien de Raad bestaat uit vier of vijf leden, kan hij alleen beslissingen nemen indien ten minste drie leden aanwezig zijn.
 
@@ -1116,11 +1142,11 @@ Vervallen
 
 4. De Raad stelt bij reglement nadere regels vast met betrekking tot zijn werkwijze en besluitvorming. Het reglement wordt aan Onze Minister gezonden en gepubliceerd in de Staatscourant.
 
-#### Artikel 88
+##### Artikel 88
 
 De Raad kan een of meer leden machtigen een of meer van zijn bevoegdheden uit te oefenen. [Afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1) is van overeenkomstige toepassing.
 
-#### Artikel 89
+##### Artikel 89
 
 1. Te zijner ondersteuning beschikt de Raad over een bureau.
 
@@ -1128,7 +1154,7 @@ De Raad kan een of meer leden machtigen een of meer van zijn bevoegdheden uit te
 
 3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de uitoefening van rechtspositionele bevoegdheden door de Raad ten aanzien van de tot het bureau behorende ambtenaren.
 
-#### Artikel 90
+##### Artikel 90
 
 1. Er is een College van afgevaardigden.
 
@@ -1140,7 +1166,7 @@ De Raad kan een of meer leden machtigen een of meer van zijn bevoegdheden uit te
 
 #### Paragraaf 2. Taken en bevoegdheden
 
-#### Artikel 91
+##### Artikel 91
 
 1. De Raad is belast met:
 
@@ -1168,7 +1194,7 @@ De Raad kan een of meer leden machtigen een of meer van zijn bevoegdheden uit te
 
 - e. overige materiële voorzieningen.
 
-#### Artikel 92
+##### Artikel 92
 
 1. De Raad kan ter uitvoering van de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=2&artikel=91&z=2025-07-01&g=2025-07-01) genoemde taken algemene aanwijzingen geven aan de besturen van de gerechten voorzover dit noodzakelijk is met het oog op een goede bedrijfsvoering van de gerechten.
 
@@ -1176,7 +1202,7 @@ De Raad kan een of meer leden machtigen een of meer van zijn bevoegdheden uit te
 
 3. Een aanwijzing wordt gepubliceerd in de Staatscourant.
 
-#### Artikel 93
+##### Artikel 93
 
 1. Onze Minister kan algemene aanwijzingen geven betreffende de uitvoering van de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=2&artikel=91&z=2025-07-01&g=2025-07-01) genoemde taken door de Raad voorzover dit noodzakelijk is met het oog op een goede bedrijfsvoering van de rechterlijke organisatie.
 
@@ -1190,17 +1216,17 @@ De Raad kan een of meer leden machtigen een of meer van zijn bevoegdheden uit te
 
 6. [Artikel 8:2, onderdelen a en b, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:2) is van overeenkomstige toepassing.
 
-#### Artikel 94
+##### Artikel 94
 
 De Raad heeft tot taak ondersteuning te bieden aan activiteiten van de gerechten die gericht zijn op uniforme rechtstoepassing en bevordering van de juridische kwaliteit.
 
-#### Artikel 95
+##### Artikel 95
 
 1. De Raad heeft tot taak regering en Staten-Generaal te adviseren omtrent algemeen verbindende voorschriften en te voeren beleid van het Rijk op het terrein van de rechtspleging. De adviezen van de Raad worden vastgesteld na overleg met de gerechten.
 
 2. [Hoofdstuk 4 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&hoofdstuk=4) is van overeenkomstige toepassing.
 
-#### Artikel 96
+##### Artikel 96
 
 1. Bij de uitvoering van de taken, bedoeld in de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=2&artikel=94&z=2025-07-01&g=2025-07-01) en [95](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=2&artikel=95&z=2025-07-01&g=2025-07-01), treedt de Raad niet in de procesrechtelijke behandeling van, de inhoudelijke beoordeling van alsmede de beslissing in een concrete zaak.
 
@@ -1208,7 +1234,7 @@ De Raad heeft tot taak ondersteuning te bieden aan activiteiten van de gerechten
 
 #### Paragraaf 3. Planning en bekostiging
 
-#### Artikel 97
+##### Artikel 97
 
 1. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de financiering van de rechtspraak. Daartoe behoren in elk geval regels betreffende:
 
@@ -1228,7 +1254,7 @@ De Raad heeft tot taak ondersteuning te bieden aan activiteiten van de gerechten
 
 4. In het verslag, bedoeld in [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=104&z=2025-07-01&g=2025-07-01), besteedt de Raad aandacht aan de wijze waarop de algemene maatregel van bestuur is toegepast. Daarbij geeft de Raad aan op welke wijze de toepassing van de regeling zich verhoudt tot de kwaliteit van de taakuitvoering door de gerechten en doet hij zo nodig voorstellen tot wijziging.
 
-#### Artikel 98
+##### Artikel 98
 
 1. Met inachtneming van de regels, bedoeld in [artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=97&z=2025-07-01&g=2025-07-01), stelt de Raad jaarlijks, voorafgaand aan het desbetreffende begrotingsjaar, een voorstel vast voor een begroting van de Raad en de gerechten gezamenlijk, met inbegrip van de aan het toe te kennen budget te verbinden voorschriften, alsmede een meerjarenraming voor ten minste vier op het begrotingsjaar volgende jaren.
 
@@ -1240,7 +1266,7 @@ De Raad heeft tot taak ondersteuning te bieden aan activiteiten van de gerechten
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de voorbereiding en de inrichting van het begrotingsvoorstel en de meerjarenraming, met inbegrip van de daarbij behorende toelichting en bijlagen.
 
-#### Artikel 99
+##### Artikel 99
 
 1. De departementale begroting, bedoeld in [artikel 2.1, zesde lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.1) wordt door Onze Minister opgesteld in overeenstemming met het begrotingsvoorstel van de Raad, tenzij zich het geval voordoet, bedoeld in het derde lid.
 
@@ -1250,19 +1276,19 @@ De Raad heeft tot taak ondersteuning te bieden aan activiteiten van de gerechten
 
 4. In de toelichting op het voorstel van wet geeft Onze Minister aan welke voorschriften hij voornemens is aan het krachtens [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=100&z=2025-07-01&g=2025-07-01) toe te kennen budget te verbinden. Het eerste tot en met het derde lid zijn van overeenkomstige toepassing.
 
-#### Artikel 100
+##### Artikel 100
 
 Met inachtneming van de regels, bedoeld in [artikel 97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=97&z=2025-07-01&g=2025-07-01), kent Onze Minister jaarlijks aan de Raad een budget toe ten laste van de rijksbegroting ten behoeve van de activiteiten van de Raad en de gerechten gezamenlijk. Aan de toekenning kan Onze Minister voorschriften verbinden.
 
-#### Artikel 101
+##### Artikel 101
 
 Onze Minister deelt zo spoedig mogelijk na de aanhangigmaking van het voorstel van wet tot vaststelling van de begroting van het Ministerie van Veiligheid en Justitie bij de Afdeling advisering van de Raad van State, aan de Raad mede welk budget, met inbegrip van de daaraan te verbinden voorschriften, voor het komende begrotingsjaar voorlopig kan worden verwacht. Hij deelt daarbij mede op welke wijze het geraamde budget is berekend.
 
-#### Artikel 101a
+##### Artikel 101a
 
 Vervallen
 
-#### Artikel 102
+##### Artikel 102
 
 1. De Raad stelt jaarlijks een jaarplan vast voor de Raad en de gerechten gezamenlijk. Het plan omvat:
 
@@ -1278,7 +1304,7 @@ Vervallen
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de inrichting van het jaarplan.
 
-#### Artikel 103
+##### Artikel 103
 
 1. Onze Minister maakt aan de Raad zo spoedig mogelijk na de vaststelling van de begroting van het Ministerie van Veiligheid en Justitie bekend, welk budget hij toekent aan de Raad en de gerechten gezamenlijk. Indien het budget afwijkt van het geraamde budget, bedoeld in [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=3&artikel=101&z=2025-07-01&g=2025-07-01), is de tweede volzin van dat artikel van overeenkomstige toepassing.
 
@@ -1288,7 +1314,7 @@ Vervallen
 
 4. De Raad doet de noodzakelijke uitgaven binnen de grenzen van de vastgestelde of gewijzigde begroting.
 
-#### Artikel 104
+##### Artikel 104
 
 1. De Raad dient jaarlijks voor een door Onze Minister te bepalen tijdstip bij Onze Minister een verslag in. Onze Minister zendt het verslag onverwijld aan de beide kamers der Staten-Generaal.
 
@@ -1308,17 +1334,17 @@ Vervallen
 
 #### Paragraaf 4. Toezicht
 
-#### Artikel 105
+##### Artikel 105
 
 De Raad verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen.
 
-#### Artikel 106
+##### Artikel 106
 
 1. Een beslissing van de Raad ter uitvoering van de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=2&artikel=91&z=2025-07-01&g=2025-07-01) genoemde taken kan op voordracht van Onze Minister bij koninklijk besluit worden vernietigd indien de beslissing in strijd is met het recht of het belang van een goede bedrijfsvoering van de rechterlijke organisatie. Een beslissing van de Raad als bedoeld in [artikel 21a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=21a&z=2025-07-01&g=2025-07-01), kan op voordracht van Onze Minister bij koninklijk besluit worden vernietigd wegens strijd met het recht of het algemeen belang.
 
 2. De [artikelen 8:4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4), [10:36](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:36), [10:37](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:37) en [10:38 tot en met 10:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:38) zijn van overeenkomstige toepassing.
 
-#### Artikel 107
+##### Artikel 107
 
 1. In geval van ongeschiktheid anders dan wegens ziekte kan Onze Minister een of meer leden van de Raad voordragen voor ontslag als lid van de Raad. In geval van een ernstig vermoeden voor het bestaan van ongeschiktheid anders dan wegens ziekte, kan Onze Minister een of meer leden van de Raad voordragen voor schorsing als lid van de Raad.
 
@@ -1326,7 +1352,7 @@ De Raad verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn 
 
 3. Indien alle leden van de Raad zijn geschorst of ontslagen, kan Onze Minister bij de Raad een of meer tijdelijke bewindvoerders aanstellen. [Artikel 84, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=1&artikel=84&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing. Bij de aanstelling wordt een termijn bepaald voor de bewindvoering.
 
-#### Artikel 108
+##### Artikel 108
 
 1. Tegen een besluit op grond van [artikel 107, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=6&paragraaf=4&artikel=107&z=2025-07-01&g=2025-07-01), kan een belanghebbende beroep instellen bij de Hoge Raad.
 
@@ -1334,17 +1360,17 @@ De Raad verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn 
 
 3. Op het beroep is [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), met uitzondering van [afdeling 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=8.1.1) en de [artikelen 8:10,](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:10)[8:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:11), [8:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:13) en [8:86](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:86), van overeenkomstige toepassing.
 
-#### Artikel 109
+##### Artikel 109
 
 Bij de uitvoering van de bevoegdheden, toegedeeld bij of krachtens deze wet, treedt Onze Minister niet in de procesrechtelijke behandeling van, de inhoudelijke beoordeling van alsmede de beslissing in een concrete zaak of in categorieën van zaken.
 
-#### Artikel 110
+##### Artikel 110
 
 Vervallen
 
 ### Hoofdstuk 3. De procureur-generaal bij de Hoge Raad
 
-#### Artikel 111
+##### Artikel 111
 
 1. Er is een parket bij de Hoge Raad, aan het hoofd waarvan de procureur-generaal bij de Hoge Raad staat.
 
@@ -1364,11 +1390,11 @@ Vervallen
 
 5. De bevoegdheden van de procureur-generaal kunnen, tenzij de aard van de bevoegdheden zich daartegen verzet, mede worden uitgeoefend door de plaatsvervangend procureur-generaal en door advocaten-generaal.
 
-#### Artikel 112
+##### Artikel 112
 
 Vervallen
 
-#### Artikel 113
+##### Artikel 113
 
 1. Het parket bij de Hoge Raad bestaat uit een procureur-generaal, een plaatsvervangend procureur-generaal, ten hoogste tweeëntwintig advocaten-generaal en ten hoogste elf advocaten-generaal in buitengewone dienst.
 
@@ -1378,27 +1404,27 @@ Vervallen
 
 4. Voor de toepassing van het eerste lid worden rechterlijke ambtenaren die zijn aangesteld voor een minder dan volledige arbeidsduur, geteld overeenkomstig de breuk die hun arbeidsduur aangeeft.
 
-#### Artikel 114
+##### Artikel 114
 
 Vervallen
 
-#### Artikel 115
+##### Artikel 115
 
 Vervallen
 
-#### Artikel 116
+##### Artikel 116
 
 De procureur-generaal geeft leiding aan het parket bij de Hoge Raad.
 
-#### Artikel 117
+##### Artikel 117
 
 In geval van afwezigheid, belet of ontstentenis wordt de procureur-generaal vervangen door de plaatsvervangend procureur-generaal en, bij afwezigheid, belet of ontstentenis ook van deze, door de advocaat-generaal oudste in rang.
 
-#### Artikel 118
+##### Artikel 118
 
 Onze Minister kan de plaatsvervangend procureur-generaal of een advocaat-generaal belasten met de waarneming van het ambt van procureur-generaal.
 
-#### Artikel 119
+##### Artikel 119
 
 1. Onze Minister kan, op aanbeveling van de procureur-generaal, als plaatsvervangend advocaat-generaal bij de Hoge Raad een rechterlijk ambtenaar, die bij een rechtbank, een gerechtshof of een tot het openbaar ministerie behorend parket werkzaam is in een ambt als bedoeld in [artikel 2, eerste tot en met derde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=2), aanwijzen. De aanwijzing geschiedt voor een daarbij te bepalen termijn. De [artikelen 46c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46ca, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46ca), [46d, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), en [46e van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46e) zijn op de plaatsvervangend advocaat-generaal van overeenkomstige toepassing.
 
@@ -1408,7 +1434,7 @@ Onze Minister kan de plaatsvervangend procureur-generaal of een advocaat-generaa
 
 4. De president van de Hoge Raad kan, op aanbeveling van de procureur-generaal, een vice-president van, een raadsheer in of een raadsheer in buitengewone dienst bij de Hoge Raad, indien hij daarmee instemt, belasten met de waarneming van het ambt van advocaat-generaal bij de Hoge Raad.
 
-#### Artikel 120
+##### Artikel 120
 
 1. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=12&z=2025-07-01&g=2025-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2025-07-01&g=2025-07-01) en [74](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=5&artikel=74&z=2025-07-01&g=2025-07-01) zijn op de in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=3&artikel=113&z=2025-07-01&g=2025-07-01) genoemde rechterlijke ambtenaren van overeenkomstige toepassing.
 
@@ -1424,17 +1450,17 @@ Onze Minister kan de plaatsvervangend procureur-generaal of een advocaat-generaa
 
 - c. een afschrift van de beschikking, bedoeld in [artikel 13f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1a&artikel=13f&z=2025-07-01&g=2025-07-01), wordt gezonden aan de verzoeker, aan de bij het parket bij de Hoge Raad werkzame rechterlijk ambtenaar op wiens gedraging het onderzoek betrekking had, en aan de procureur-generaal bij de Hoge Raad.
 
-#### Artikel 121
+##### Artikel 121
 
 De procureur-generaal bij de Hoge Raad waakt in het bijzonder voor de handhaving en uitvoering van wettelijke voorschriften bij de Hoge Raad, de gerechtshoven en de rechtbanken.
 
-#### Artikel 122
+##### Artikel 122
 
 1. Indien naar het oordeel van de procureur-generaal bij de Hoge Raad het openbaar ministerie bij de uitoefening van zijn taak de wettelijke voorschriften niet naar behoren handhaaft of uitvoert, kan hij Onze Minister daarvan in kennis stellen.
 
 2. Op verzoek van de procureur-generaal worden hem vanwege het College van procureurs-generaal de inlichtingen verstrekt die hij nodig acht en worden hem de desbetreffende stukken overgelegd.
 
-#### Artikel 123
+##### Artikel 123
 
 Het College van procureurs-generaal verleent de procureur-generaal bij de Hoge Raad de bijstand van het openbaar ministerie, die deze ter uitvoering van de aan hem opgedragen taken verlangt.
 
@@ -1442,11 +1468,11 @@ Het College van procureurs-generaal verleent de procureur-generaal bij de Hoge R
 
 ### Afdeling 1. Taken en bevoegdheden
 
-#### Artikel 124
+##### Artikel 124
 
 Het openbaar ministerie is belast met de strafrechtelijke handhaving van de rechtsorde en met andere bij de wet vastgestelde taken.
 
-#### Artikel 125
+##### Artikel 125
 
 De taken en bevoegdheden van het openbaar ministerie worden, op de wijze bij of krachtens de wet bepaald, uitgeoefend door:
 
@@ -1454,7 +1480,7 @@ De taken en bevoegdheden van het openbaar ministerie worden, op de wijze bij of 
 
 - b. rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, onder 6° en 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=1&artikel=1&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 126
+##### Artikel 126
 
 1. De uitoefening van een of meer bevoegdheden van de hoofdofficier van justitie, de plaatsvervangend hoofdofficier van justitie, de senior officier van justitie A, de senior officier van justitie, de officier van justitie, de substituut-officier van justitie, de officier enkelvoudige zittingen, de landelijk hoofdadvocaat-generaal, de hoofdadvocaat-generaal, de senior advocaat-generaal en de advocaat-generaal kan worden opgedragen aan een andere bij het parket werkzame ambtenaar voor zover het hoofd van het parket daarmee heeft ingestemd.
 
@@ -1464,15 +1490,15 @@ De taken en bevoegdheden van het openbaar ministerie worden, op de wijze bij of 
 
 4. Bij algemene maatregel van bestuur worden omtrent de toepassing van dit artikel nadere regels gesteld.
 
-#### Artikel 127
+##### Artikel 127
 
 Onze Minister kan algemene en bijzondere aanwijzingen geven betreffende de uitoefening van de taken en bevoegdheden van het openbaar ministerie.
 
-#### Artikel 59i
+##### Artikel 59i
 
 Vervallen
 
-#### Artikel 129
+##### Artikel 129
 
 1. Het College verstrekt Onze Minister de inlichtingen die deze nodig heeft.
 
@@ -1480,7 +1506,7 @@ Vervallen
 
 ### Afdeling 2. Inrichting
 
-#### Artikel 130
+##### Artikel 130
 
 1. Er is een College van procureurs-generaal.
 
@@ -1494,7 +1520,7 @@ Vervallen
 
 6. Het College kan algemene en bijzondere aanwijzingen geven betreffende de uitoefening van de taken en bevoegdheden van het openbaar ministerie.
 
-#### Artikel 131
+##### Artikel 131
 
 1. Het College van procureurs-generaal kan geen beslissingen nemen indien niet ten minste drie leden aanwezig zijn.
 
@@ -1506,13 +1532,13 @@ Vervallen
 
 5. In het reglement wordt in ieder geval geregeld in welke gevallen de voorzitter een voorgenomen beslissing aan Onze Minister voorlegt, daaronder zijn in ieder geval begrepen de beslissingen bedoeld in [artikel 140a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=140a).
 
-#### Artikel 132
+##### Artikel 132
 
 1. Het College van procureurs-generaal verdeelt de werkzaamheden onder de procureurs-generaal.
 
 2. Onze Minister kan bepaalde werkzaamheden opdragen aan de voorzitter van het College.
 
-#### Artikel 133
+##### Artikel 133
 
 1. Het College van procureurs-generaal kan een procureur-generaal machtigen een of meer van zijn bevoegdheden uit te oefenen, tenzij de regeling waarop de bevoegdheid steunt of de aard van de bevoegdheid zich daartegen verzet.
 
@@ -1520,7 +1546,7 @@ Vervallen
 
 3. Het College kan ten aanzien van de uitoefening van de bevoegdheid algemene en bijzondere aanwijzingen geven.
 
-#### Artikel 134
+##### Artikel 134
 
 1. Het openbaar ministerie bestaat uit:
 
@@ -1540,7 +1566,7 @@ Vervallen
 
 3. In afwijking van het tweede lid is er één arrondissementsparket in de arrondissementen Gelderland en Overijssel gezamenlijk, genaamd arrondissementsparket Oost-Nederland.
 
-#### Artikel 135
+##### Artikel 135
 
 1. Bij het parket-generaal zijn werkzaam:
 
@@ -1558,7 +1584,7 @@ Vervallen
 
 6. De procureurs-generaal, met uitzondering van de in [artikel 130, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=4&afdeling=2&artikel=130&z=2025-07-01&g=2025-07-01), bedoelde procureur-generaal, zijn van rechtswege plaatsvervangend advocaat-generaal bij het ressortsparket, plaatsvervangend officier van justitie bij de arrondissementsparketten, plaatsvervangend officier van justitie bij het landelijk parket, plaatsvervangend officier van justitie bij het functioneel parket en plaatsvervangend officier van justitie bij het parket centrale verwerking openbaar ministerie.
 
-#### Artikel 136
+##### Artikel 136
 
 1. Bij een arrondissementsparket zijn werkzaam:
 
@@ -1594,7 +1620,7 @@ Vervallen
 
 6. De officier enkelvoudige zittingen en de plaatsvervangende officier enkelvoudige zittingen hebben de bevoegdheden en verplichtingen die bij of krachtens de wet aan de officier van justitie worden toegekend, met uitzondering van de bevoegdheid om op te treden ter terechtzitting van een meervoudige kamer van de rechtbank.
 
-#### Artikel 137
+##### Artikel 137
 
 1. Bij het landelijk parket zijn werkzaam:
 
@@ -1632,7 +1658,7 @@ Vervallen
 
 6. De officier enkelvoudige zittingen en de plaatsvervangende officier enkelvoudige zittingen hebben de bevoegdheden en verplichtingen die bij of krachtens de wet aan de officier van justitie worden toegekend, met uitzondering van de bevoegdheid om op te treden ter terechtzitting van een meervoudige kamer van de rechtbank.
 
-#### Artikel 138
+##### Artikel 138
 
 1. Bij het ressortsparket zijn werkzaam:
 
@@ -1652,7 +1678,7 @@ Vervallen
 
 4. De landelijk hoofdadvocaat-generaal, hoofdadvocaten-generaal, senior advocaten-generaal, advocaten-generaal en plaatsvervangende advocaten-generaal zijn van rechtswege plaatsvervangend advocaat-generaal bij het parket-generaal.
 
-#### Artikel 139
+##### Artikel 139
 
 1. De hoofden van de parketten zijn in hun ambtsuitoefening ondergeschikt aan het College.
 
@@ -1662,29 +1688,29 @@ Vervallen
 
 ### Afdeling 3. Overige bepalingen
 
-#### Artikel 140
+##### Artikel 140
 
 Vervallen
 
-#### Artikel 141
+##### Artikel 141
 
 Vervallen
 
-#### Artikel 142
+##### Artikel 142
 
 Onze Minister kan een rechterlijk ambtenaar als bedoeld in [artikel 1, onderdeel b, onder 5° tot en met 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=1&artikel=1&z=2025-07-01&g=2025-07-01), belasten met de waarneming van een ander ambt bij het openbaar ministerie.
 
-#### Artikel 143
+##### Artikel 143
 
 De rechterlijke ambtenaren, bedoeld in [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=4&afdeling=3&artikel=142&z=2025-07-01&g=2025-07-01), zijn verplicht tot het verstrekken van inlichtingen wanneer de procureur-generaal bij de Hoge Raad op grond van [artikel 122, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=3&artikel=122&z=2025-07-01&g=2025-07-01), daarom vraagt.
 
-#### Artikel 144
+##### Artikel 144
 
 [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1&artikel=13&z=2025-07-01&g=2025-07-01) is op de in [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=4&afdeling=3&artikel=142&z=2025-07-01&g=2025-07-01) bedoelde rechterlijke ambtenaren van overeenkomstige toepassing.
 
 ### Hoofdstuk 5. Rechterlijke ambtenaren in opleiding
 
-#### Artikel 145
+##### Artikel 145
 
 1. Onze Minister kan rechters in opleiding en officieren in opleiding benoemen.
 
@@ -1692,7 +1718,7 @@ De rechterlijke ambtenaren, bedoeld in [artikel 142](https://wetten.overheid.nl/
 
 ### Hoofdstuk 5. Rechterlijke ambtenaren in opleiding
 
-#### Artikel 146
+##### Artikel 146
 
 Deze wet wordt aangehaald als: Wet op de rechterlijke organisatie.
 
@@ -1723,7 +1749,7 @@ De nevenvestigingsplaatsen van de rechtbanken zijn:
 
 Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, kollegien en ambtenaren, aan de naauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het bestuur stelt een regeling vast voor de behandeling van klachten.
 
@@ -1737,7 +1763,7 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 6. [Afdeling 9.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.2) is van overeenkomstige toepassing.
 
-#### Artikel 35a
+##### Artikel 35a
 
 1. In afwijking van [artikel 4.6, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.6) verricht het bestuur namens de staat privaatrechtelijke rechtshandelingen voor zover die voortvloeien uit het door hem beheerde deel van de begroting van het Ministerie van Veiligheid en Justitie, tenzij bij of krachtens de wet is bepaald dat een andere minister dan Onze Minister de rechtshandeling verricht.
 
@@ -1769,7 +1795,7 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 #### Paragraaf 3. Planning en bekostiging
 
-#### Artikel 104a
+##### Artikel 104a
 
 1. In afwijking van [artikel 4.6, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.6) verricht de Raad namens de staat privaatrechtelijke rechtshandelingen voor zover die voortvloeien uit het door hem beheerde deel van de begroting van het Ministerie van Veiligheid en Justitie, tenzij bij of krachtens de wet is bepaald dat een andere minister dan Onze Minister de rechtshandeling verricht.
 
@@ -1779,7 +1805,7 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 ### Hoofdstuk 3. De procureur-generaal bij de Hoge Raad
 
-#### Artikel 115
+##### Artikel 115
 
 Vervallen
 
@@ -1820,7 +1846,7 @@ De nevenvestigingsplaatsen van de rechtbanken zijn:
 
 Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, kollegien en ambtenaren, aan de naauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 137a
+##### Artikel 137a
 
 1. Bij het functioneel parket zijn werkzaam:
 
@@ -1887,7 +1913,7 @@ De nevenvestigingsplaatsen van de rechtbanken zijn:
 
 Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, kollegien en ambtenaren, aan de naauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 48a
+##### Artikel 48a
 
 1. De deskundige leden van de pachtkamers van de rechtbanken, bedoeld in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=48&z=2025-07-01&g=2025-07-01), van deze wet en hun plaatsvervangers worden benoemd bij koninklijk besluit op voordracht van Onze Minister, gehoord Gedeputeerde Staten. Zij worden genoemd lid, onderscheidenlijk plaatsvervangend lid van de pachtkamer.
 
@@ -1901,7 +1927,7 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 6. Met ingang van de eerste dag van de maand volgende op die waarin een deskundig lid of een plaatsvervangend lid van de pachtkamer de leeftijd van zeventig jaren heeft bereikt, wordt aan hem bij koninklijk besluit ontslag verleend.
 
-#### Artikel 48b
+##### Artikel 48b
 
 1. Het in de [artikelen 46c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46ca](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46ca), [46d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), [46e](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46e), [46f](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46f), [46i, met uitzondering van het eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j), [46l, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l), [46m](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46m), [46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o) en [46p, van de Wet rechtspositie rechterlijk ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p) bepaalde is van overeenkomstige toepassing ten aanzien van de deskundige leden van de pachtkamers en hun plaatsvervangers, met dien verstande dat voor de overeenkomstige toepassing van [artikel 46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j) onderscheidenlijk [46o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o), onder functionele autoriteit wordt verstaan: bestuur onderscheidenlijk president van het gerecht. Tevens zijn de [artikelen 44, eerste, vierde tot en met achtste en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44), en [44a, eerste tot en met achtste en tiende lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44a) op hen van overeenkomstige toepassing, met dien verstande dat het bestuur van het gerecht wordt aangemerkt als hun functionele autoriteit, zij voor de overeenkomstige toepassing van artikel 44, eerste en zevende lid, worden gelijkgesteld met rechters-plaatsvervangers in hetzelfde gerecht, en de president van het gerecht ten aanzien van hen de bevoegdheid, bedoeld in artikel 44, zesde lid, uitoefent.
 
@@ -1917,7 +1943,7 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 #### Paragraaf 2. Vorming en bezetting van kamers
 
-#### Artikel 69a
+##### Artikel 69a
 
 1. De deskundige leden van de pachtkamer van het gerechtshof en hun plaatsvervangers worden benoemd bij koninklijk besluit op voordracht van Onze Minister. Zij worden genoemd raad, onderscheidenlijk plaatsvervangende raad in de pachtkamer van het gerechtshof.
 
@@ -1937,7 +1963,7 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 ### Hoofdstuk 3. De procureur-generaal bij de Hoge Raad
 
-#### Artikel 117
+##### Artikel 117
 
 In geval van afwezigheid, belet of ontstentenis wordt de procureur-generaal vervangen door de plaatsvervangend procureur-generaal en, bij afwezigheid, belet of ontstentenis ook van deze, door de advocaat-generaal oudste in rang.
 
@@ -2003,7 +2029,7 @@ De nevenvestigingsplaatsen van de rechtbanken zijn:
 
 Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, kollegien en ambtenaren, aan de naauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 125a
+##### Artikel 125a
 
 1. Indien bij of krachtens een wet een bevoegdheid wordt toegekend aan de officier van justitie, kan deze bevoegdheid worden uitgeoefend door de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, onder 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=1&artikel=1&z=2025-07-01&g=2025-07-01), van de wet, tenzij de regeling waarop de bevoegdheid steunt of de aard van de bevoegdheid zich daartegen verzet.
 
@@ -2049,15 +2075,15 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 ### Afdeling 1a. Klachtbehandeling door de Hoge Raad
 
-#### Artikel 13c
+##### Artikel 13c
 
 Onverminderd [artikel 13a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1a&artikel=13a&z=2025-07-01&g=2025-07-01), kan de procureur-generaal ook ambtshalve bij de Hoge Raad een vordering instellen tot het doen van een onderzoek naar de wijze waarop een rechterlijk ambtenaar met rechtspraak belast zich in de uitoefening van zijn functie heeft gedragen. [Artikel 13b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1a&artikel=13b&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
-#### Artikel 13d
+##### Artikel 13d
 
 Een vordering bij de Hoge Raad als bedoeld in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1a&artikel=13a&z=2025-07-01&g=2025-07-01) of [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1a&artikel=13c&z=2025-07-01&g=2025-07-01) wordt behandeld door een bij het reglement van orde daartoe aangewezen kamer, die zitting houdt met drie leden.
 
-#### Artikel 13e
+##### Artikel 13e
 
 1. De Hoge Raad kan het betrokken gerechtsbestuur, degene op wiens gedraging het onderzoek betrekking heeft, de verzoeker en anderen verzoeken hem schriftelijk of mondeling inlichtingen te verstrekken.
 
@@ -2065,7 +2091,7 @@ Een vordering bij de Hoge Raad als bedoeld in [artikel 13a](https://wetten.overh
 
 3. De Hoge Raad stelt het betrokken gerechtsbestuur en degene op wiens gedraging het onderzoek betrekking heeft, in de gelegenheid omtrent een aanhangige vordering zijn zienswijze schriftelijk of mondeling te doen blijken.
 
-#### Artikel 13f
+##### Artikel 13f
 
 1. De Hoge Raad beoordeelt of degene op wiens gedraging het onderzoek betrekking heeft, zich in de onderzochte aangelegenheid al dan niet behoorlijk heeft gedragen. De Hoge Raad kan tevens beoordelen of het betrokken gerechtsbestuur zich al dan niet behoorlijk heeft gedragen.
 
@@ -2073,7 +2099,7 @@ Een vordering bij de Hoge Raad als bedoeld in [artikel 13a](https://wetten.overh
 
 3. Een afschrift van de beslissing wordt gezonden aan de verzoeker, aan de rechterlijk ambtenaar op wiens gedraging het onderzoek betrekking had, en aan het betrokken gerechtsbestuur dan wel, indien het onderzoek betrekking had op een gedraging van een bij de Hoge Raad werkzame rechterlijk ambtenaar met rechtspraak belast, de president van de Hoge Raad.
 
-#### Artikel 13g
+##### Artikel 13g
 
 1. De procureur-generaal bij en de president van de Hoge Raad stellen jaarlijks een verslag op van de overeenkomstig de [artikelen 13a tot en met 13f](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=1a&artikel=13a&z=2025-07-01&g=2025-07-01) verrichte werkzaamheden.
 
@@ -2085,7 +2111,7 @@ Een vordering bij de Hoge Raad als bedoeld in [artikel 13a](https://wetten.overh
 
 #### Paragraaf 2. Taken en bevoegdheden
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het bestuur stelt een regeling vast voor de behandeling van klachten.
 
@@ -2115,7 +2141,7 @@ Een vordering bij de Hoge Raad als bedoeld in [artikel 13a](https://wetten.overh
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 62a
+##### Artikel 62a
 
 1. Onze Minister kan, gehoord de Raad, een gerechtshof of meerdere gerechtshoven aanwijzen waarvan de zittingsplaatsen onderscheidenlijk overige zittingsplaatsen ten behoeve van een in de aanwijzing te bepalen categorie of categorieën van zaken tijdelijk mede worden aangemerkt als zittingsplaatsen onderscheidenlijk overige zittingsplaatsen van een ander gerechtshof, indien dit noodzakelijk is als gevolg van gebrek aan voldoende zittingscapaciteit binnen het ressort waarin dat andere gerechtshof is gelegen.
 
@@ -2127,7 +2153,7 @@ Een vordering bij de Hoge Raad als bedoeld in [artikel 13a](https://wetten.overh
 
 5. Het derde en vierde lid zijn van overeenkomstige toepassing op een verlenging van de aanwijzing.
 
-#### Artikel 62b
+##### Artikel 62b
 
 Het gerechtshof kan een zaak ter verdere behandeling verwijzen naar een ander gerechtshof, indien naar zijn oordeel door betrokkenheid van het gerechtshof behandeling van die zaak door een ander gerechtshof gewenst is.
 
@@ -2141,7 +2167,7 @@ Het gerechtshof kan een zaak ter verdere behandeling verwijzen naar een ander ge
 
 #### Paragraaf 2. Taken en bevoegdheden
 
-#### Artikel 96a
+##### Artikel 96a
 
 De Raad stelt een regeling vast voor de behandeling van klachten. [Artikel 26, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=26&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
@@ -2149,7 +2175,7 @@ De Raad stelt een regeling vast voor de behandeling van klachten. [Artikel 26, v
 
 #### Paragraaf 4. Toezicht
 
-#### Artikel 123
+##### Artikel 123
 
 Het College van procureurs-generaal verleent de procureur-generaal bij de Hoge Raad de bijstand van het openbaar ministerie, die deze ter uitvoering van de aan hem opgedragen taken verlangt.
 
@@ -2159,7 +2185,7 @@ Het College van procureurs-generaal verleent de procureur-generaal bij de Hoge R
 
 ### Afdeling 2. Inrichting
 
-#### Artikel 139a
+##### Artikel 139a
 
 Het College kan de hoofden van door het College aangewezen arrondissementsparketten opdragen om taken op het gebied van de organisatie en de bedrijfsvoering van die parketten gezamenlijk uit te voeren onder verantwoordelijkheid van een daartoe aangewezen hoofdofficier van justitie.
 
@@ -2222,7 +2248,7 @@ de bovenvermelde eed/belofte afgelegd.
 
 Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, kollegien en ambtenaren, aan de naauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 80a
+##### Artikel 80a
 
 1. De Hoge Raad kan, gehoord de procureur-generaal, het beroep in cassatie niet-ontvankelijk verklaren wanneer de aangevoerde klachten geen behandeling in cassatie rechtvaardigen, omdat de partij die het cassatieberoep instelt klaarblijkelijk onvoldoende belang heeft bij het cassatieberoep of omdat de klachten klaarblijkelijk niet tot cassatie kunnen leiden.
 
@@ -2238,7 +2264,7 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 4. Indien de Hoge Raad toepassing geeft aan het eerste lid, kan hij zich bij de vermelding van de gronden van zijn beslissing beperken tot dit oordeel.
 
-#### Artikel 81a
+##### Artikel 81a
 
 De Hoge Raad neemt kennis van door de rechtbanken en de gerechtshoven gestelde prejudiciële vragen.
 
@@ -2250,7 +2276,7 @@ De Hoge Raad neemt kennis van door de rechtbanken en de gerechtshoven gestelde p
 
 #### Paragraaf 4. Toezicht
 
-#### Artikel 123
+##### Artikel 123
 
 Het College van procureurs-generaal verleent de procureur-generaal bij de Hoge Raad de bijstand van het openbaar ministerie, die deze ter uitvoering van de aan hem opgedragen taken verlangt.
 
@@ -2315,7 +2341,7 @@ de bovenvermelde eed/belofte afgelegd.
 
 Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, kollegien en ambtenaren, aan de naauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 21a
+##### Artikel 21a
 
 1. De reglementen, bedoeld in de [artikelen 19 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=19&z=2025-07-01&g=2025-07-01), behoeven de instemming van de Raad. De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:28) zijn van overeenkomstige toepassing.
 
@@ -2323,7 +2349,7 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 3. De reglementen, bedoeld in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=20&z=2025-07-01&g=2025-07-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=21&z=2025-07-01&g=2025-07-01), worden gepubliceerd in de Staatscourant.
 
-#### Artikel 21b
+##### Artikel 21b
 
 1. Bij algemene maatregel van bestuur worden voor elk gerecht zittingsplaatsen aangewezen binnen het rechtsgebied waarin het gerecht is gelegen. Daarbij wordt in ieder geval rekening gehouden met het belang van een goede toegankelijkheid van rechtspraak en het belang van een goede bedrijfsvoering van het gerecht. De voordracht voor die algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -2331,13 +2357,13 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 3. Onze Minister kan, na overleg met de Raad en het College van procureurs-generaal, bepalen dat in een zaak de terechtzitting zal worden gehouden op een door hem aan te wijzen locatie in of buiten het rechtsgebied waarin het gerecht is gelegen, indien dit noodzakelijk is in verband met de veiligheid van personen of andere zwaarwegende omstandigheden.
 
-#### Artikel 23a
+##### Artikel 23a
 
 1. De Raad kan besturen van gerechten opdragen om een of meer van de taken, bedoeld in [artikel 23, eerste lid, onderdelen a en c tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=23&z=2025-07-01&g=2025-07-01), gezamenlijk uit te voeren.
 
 2. Indien tot samenwerking overeenkomstig het eerste lid is besloten, stellen de betrokken besturen met betrekking tot die samenwerking nadere regels vast bij gemeenschappelijk reglement. [Artikel 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=21a&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het bestuur stelt een regeling vast voor de behandeling van klachten.
 
@@ -2359,7 +2385,7 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 ### Afdeling 3. De rechtbanken
 
-#### Artikel 46a
+##### Artikel 46a
 
 1. Onze Minister kan, gehoord de Raad, een rechtbank of meerdere rechtbanken aanwijzen waarvan de zittingsplaatsen onderscheidenlijk overige zittingsplaatsen ten behoeve van een in de aanwijzing te bepalen categorie of categorieën van zaken tijdelijk mede worden aangemerkt als zittingsplaatsen onderscheidenlijk overige zittingsplaatsen van een andere rechtbank, indien dit noodzakelijk is als gevolg van gebrek aan voldoende zittingscapaciteit binnen het arrondissement waarin die andere rechtbank is gelegen.
 
@@ -2371,7 +2397,7 @@ Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat al
 
 5. Het derde en vierde lid zijn van overeenkomstige toepassing op een verlenging van de aanwijzing.
 
-#### Artikel 46b
+##### Artikel 46b
 
 De rechtbank kan een zaak ter verdere behandeling verwijzen naar een andere rechtbank, indien naar haar oordeel door betrokkenheid van de rechtbank behandeling van die zaak door een andere rechtbank gewenst is.
 
@@ -2399,13 +2425,13 @@ De rechtbank kan een zaak ter verdere behandeling verwijzen naar een andere rech
 
 ### Hoofdstuk 4. Het openbaar ministerie
 
-#### Artikel 127
+##### Artikel 127
 
 Onze Minister kan algemene en bijzondere aanwijzingen geven betreffende de uitoefening van de taken en bevoegdheden van het openbaar ministerie.
 
 ### Afdeling 2. Inrichting
 
-#### Artikel 139b
+##### Artikel 139b
 
 1. Het College stelt een reglement vast waarin wordt bepaald ten aanzien van welke strafbare feiten de officier van justitie bij het landelijk parket onderscheidenlijk de officier van justitie bij het functioneel parket overeenkomstig [artikel 2, eerste lid, voorlaatste onderscheidenlijk laatste zinsnede, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2) de vervolging instelt bij de rechtbank Amsterdam, de rechtbank Oost-Brabant, de rechtbank Overijssel of de rechtbank Rotterdam.
 
@@ -2475,7 +2501,7 @@ de boppeneamde eed/belofte ôflein.
 
 Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, kollegien en ambtenaren, aan de naauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 137b
+##### Artikel 137b
 
 1. Bij het parket centrale verwerking openbaar ministerie zijn werkzaam:
 
@@ -2575,13 +2601,13 @@ de boppeneamde eed/belofte ôflein.
 
 Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, kollegien en ambtenaren, aan de naauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 21c
+##### Artikel 21c
 
 De zittingsplaatsen onderscheidenlijk overige zittingsplaatsen van de rechtbank Amsterdam, de rechtbank Oost-Brabant, de rechtbank Overijssel en de rechtbank Rotterdam zijn over en weer zittingsplaatsen onderscheidenlijk overige zittingsplaatsen van deze rechtbanken in zaken waarin deze rechtbanken bevoegd zijn op grond van [artikel 2, eerste lid, voorlaatste en laatste volzin van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2).
 
 #### Paragraaf 2. Taken en bevoegdheden
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het bestuur stelt een regeling vast voor de behandeling van klachten.
 
@@ -2625,7 +2651,7 @@ De zittingsplaatsen onderscheidenlijk overige zittingsplaatsen van de rechtbank 
 
 ### Hoofdstuk 4. Het openbaar ministerie
 
-#### Artikel 128
+##### Artikel 128
 
 1. Onze Minister stelt het College van procureurs-generaal in de gelegenheid zijn zienswijze kenbaar te maken voordat hij in een concreet geval een aanwijzing geeft betreffende de uitoefening van de taken en bevoegdheden van het openbaar ministerie.
 
@@ -2763,19 +2789,19 @@ de boppeneamde eed/belofte ôflein.
 
 Lasten en bevelen dat deze in het **staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, kollegien en ambtenaren, aan de naauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 144a
+##### Artikel 144a
 
 1. Alle bevoegdheden die naar Nederlands recht toekomen aan de officier van justitie, de advocaat-generaal en het openbaar ministerie, komen toe aan de gedelegeerd Europees aanklager, bedoeld in artikel 13 van de Verordening EOM, ten behoeve van de uitoefening van de taken van het Europees Openbaar Ministerie als bedoeld in artikel 4 van de Verordening EOM.
 
-#### Artikel 144b
+##### Artikel 144b
 
 Bij toepassing van artikel 28, vierde lid, van de Verordening EOM heeft de Europese aanklager, bedoeld in artikel 12 van de Verordening EOM, dezelfde bevoegdheden als de gedelegeerd Europese aanklager op grond van [artikel 144a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&hoofdstuk=4a&artikel=144a&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 144c
+##### Artikel 144c
 
 De functie van gedelegeerd Europees aanklager wordt vervuld door een rechterlijk ambtenaar die werkzaam is bij het functioneel parket.
 
-#### Artikel 144d
+##### Artikel 144d
 
 1. Het hoofd van het functioneel parket draagt zorg voor de noodzakelijke voorzieningen voor de gedelegeerd Europees aanklager, bedoeld in artikel 13 van de Verordening EOM, ten behoeve van de uitvoering van de taken, bedoeld in artikel 4 van de Verordening EOM.
 
@@ -2787,7 +2813,7 @@ De functie van gedelegeerd Europees aanklager wordt vervuld door een rechterlijk
 
 3. Het hoofd van het functioneel parket houdt bij de verdeling van werkzaamheden rekening met de werkzaamheden die de ambtenaren die de gedelegeerd Europese aanklager ondersteunen moeten verrichten. Deze ambtenaren zijn wat betreft de uitoefening van hun taken op grond van de Verordening EOM uitsluitend verantwoording verschuldigd aan de gedelegeerd Europese aanklager.
 
-#### Artikel 144e
+##### Artikel 144e
 
 Onze Minister doet namens Nederland de voordracht als bedoeld in artikel 16, eerste lid, en artikel 17, eerste lid, van de Verordening EOM, gehoord het College van procureurs-generaal.
 

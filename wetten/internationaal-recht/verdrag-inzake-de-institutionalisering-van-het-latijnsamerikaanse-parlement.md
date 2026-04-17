@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake de institutionalisering van het Latijnsamerikaanse Parlement"
 identifier: "BWBV0002286"
-categorie: "Internationaal recht"
-publicatiedatum: 1990-10-12
-laatste_update: 1990-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002286"
+country: "nl"
+rank: "verdrag"
+publication_date: "1990-10-12"
+last_updated: "1990-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002286"
+soort: "verdrag"
+stam_id: "10002758333"
+version_id: "10002757202"
+internal_id: "C10006980651"
+label_id: "10002746104"
+dtd_version: "2.0"
+original_entry_into_force: "1990-10-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002286/1990-10-12/0"
+intitule_bron: "Trb.1990-79"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-09-13"
+intitule_published: "1990-06-08"
+intitule_in_force: "1990-10-26"
+intitule_status: "goed"
+original_publication: "Trb.1990-79"
+original_signed_date: "1990-09-13"
+original_published_date: "1990-06-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1990-79"
+entry_into_force_date: "1990-10-12"
+jci_1_3: "jci1.3:c:BWBV0002286&z=1990-10-12&g=1990-10-12"
+jci_1_0: "1.0:c:BWBV0002286&g=1990-10-12"
+citeertitel_status: "officieel"
+signed_date: "1990-09-13"
+entry_into_force: "1990-10-12"
 ---
-
 # Verdrag inzake de institutionalisering van het Latijnsamerikaanse Parlement
 
 De aan de Intergouvernementele Conferentie voor de Institutionalisering van het Latijnsamerikaanse Parlement deelnemende Staten, door middel van hun gevolmachtigde, naar behoren geaccrediteerde vertegenwoordigers,
@@ -22,11 +47,11 @@ Overwegende dat er een Latijnsamerikaans Parlement bestaat, ingesteld te Lima op
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Institutionalisering
+##### Artikel 1. Institutionalisering
 
 Door middel van het onderhavige Verdrag komen de Staten die Partij zijn de institutionalisering overeen van het regionale, permanente, uit één kamer bestaande lichaam, dat bekend staat als het Latijnsamerikaanse Parlement en dat voortaan "het Parlement" genoemd wordt.
 
-#### Artikel 2. Grondbeginselen
+##### Artikel 2. Grondbeginselen
 
 Het Parlement heeft de volgende permanente en onveranderlijke grondbeginselen:
 
@@ -48,7 +73,7 @@ Het Parlement heeft de volgende permanente en onveranderlijke grondbeginselen:
 
 - i. De voorrang van de beginselen van het Internationale Recht betreffende de vriendschappelijke betrekkingen en de samenwerking tussen de Staten, zulks in overeenstemming met het Handvest van de Organisatie van de Verenigde Naties.
 
-#### Artikel 3. Doelstellingen
+##### Artikel 3. Doelstellingen
 
 Het Parlement heeft, onder andere, de volgende doelstellingen:
 
@@ -76,11 +101,11 @@ Het Parlement heeft, onder andere, de volgende doelstellingen:
 
 - l. Bekendheid geven aan de legislatieve werkzaamheden van zijn Leden.
 
-#### Artikel 4. De Leden
+##### Artikel 4. De Leden
 
 Leden van het Parlement zijn de daarin door meervoudig samengestelde afvaardigingen vertegenwoordigde op democratische wijze in Latijns-Amerika tot stand gekomen nationale Congressen of Wetgevende Vergaderingen van de Staten die Partij zijn.
 
-#### Artikel 5. Organen
+##### Artikel 5. Organen
 
 De organen van het Parlement zijn de Vergadering, het Bestuur, de Vaste Commissies en het Secretariaat-Generaal.
 
@@ -88,19 +113,19 @@ De Vergadering is het hoogste orgaan van het Parlement en neemt, in overeenstemm
 
 De Vergadering heeft mede de bevoegdheid een Parlement dat Lid is als zodanig te schorsen, wanneer in zijn geval niet voldaan wordt aan de in dit Verdrag gestelde vereisten.
 
-#### Artikel 6. Persoonlijkheid en Prerogatieven
+##### Artikel 6. Persoonlijkheid en Prerogatieven
 
 Overeenkomstig het internationale recht geniet het Parlement eigen rechtspersoonlijkheid en de respectieve voorrechten en immuniteiten.
 
-#### Artikel 7. Kosten
+##### Artikel 7. Kosten
 
 De aan het functioneren van het Parlement verbonden kosten komen ten laste van de Staten die Partij zijn in de door de Vergadering te bepalen verhouding.
 
-#### Artikel 8. Zetel
+##### Artikel 8. Zetel
 
 De Vergadering stelt de zetel van het Parlement vast.
 
-#### Artikel 9. Slotbepalingen
+##### Artikel 9. Slotbepalingen
 
 1. Dit Verdrag staat open ter ondertekening te Lima van 16 november 1987 tot 16 december 1987.
 

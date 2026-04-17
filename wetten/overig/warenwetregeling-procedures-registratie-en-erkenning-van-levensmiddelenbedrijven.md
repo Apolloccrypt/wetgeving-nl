@@ -1,20 +1,46 @@
 ---
-title: "Warenwetregeling procedures registratie en erkenning van levensmiddelenbedrijven"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 17 januari 2006, nr. VGP/VL 2650539, houdende de Warenwetregeling procedures registratie en erkenning van levensmiddelenbedrijven"
 identifier: "BWBR0019442"
-categorie: "Overig"
-publicatiedatum: 2020-12-09
-laatste_update: 2020-12-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019442"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-12-09"
+last_updated: "2020-12-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019442"
+soort: "ministeriele-regeling"
+stam_id: "7920123"
+version_id: "26281792"
+internal_id: "C37352801"
+label_id: "7907784"
+dtd_version: "2.0"
+original_entry_into_force: "2019-11-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019442/2020-12-09/0"
+intitule_bron: "Stcrt.2006-16"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-01-17"
+intitule_published: "2006-01-23"
+intitule_in_force: "2006-01-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-65033"
+original_signed_date: "2019-11-21"
+original_published_date: "2019-11-29"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2019-65033"
+entry_into_force_date: "2019-11-21"
+jci_1_3: "jci1.3:c:BWBR0019442&z=2020-12-09&g=2020-12-09"
+jci_1_0: "1.0:c:BWBR0019442&g=2020-12-09"
+citeertitel_status: "officieel"
+short_title: "Warenwetregeling procedures registratie en erkenning van levensmiddelenbedrijven"
+signed_date: "2019-11-21"
+entry_into_force: "2019-11-21"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 17 januari 2006, nr. VGP/VL 2650539, houdende de Warenwetregeling procedures registratie en erkenning van levensmiddelenbedrijven
 
 Gelet op de [artikelen 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&artikel=3), en [10, van het Warenwetbesluit hygiëne van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&artikel=10);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - j. het COKZ: de stichting Controle Orgaan Kwaliteits Zaken.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De exploitant van een levensmiddelenbedrijf verstrekt aan de NVWA ter uitvoering van artikel 6, tweede lid, eerste volzin, van [verordening (EG) 852/2004](32004R0852), ten aanzien van elke inrichting die onder zijn beheer enigerlei activiteit uitvoert in de stadia van de productie, verwerking en distributie van levensmiddelen, de volgende informatie:
 
@@ -66,7 +92,7 @@ In deze regeling wordt verstaan onder:
 
 3. De NVWA bevestigt aan de desbetreffende exploitant schriftelijk dan wel per e-mail de ontvangst van in dit artikel bedoelde informatie, uiterlijk tien werkdagen nadat de informatie door de NVWA is ontvangen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De exploitant van een levensmiddelenbedrijf heeft voldaan aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2020-12-09&g=2020-12-09) voor zover ten aanzien van een inrichting de in artikel 2 bedoelde informatie bekend is bij:
 
@@ -84,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 2. De NVWA deelt een in het eerste lid bedoelde exploitant schriftelijk of per e-mail mede ten aanzien van welke inrichting of inrichtingen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2020-12-09&g=2020-12-09) bedoelde informatie reeds in het bezit is van de NVWA.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De exploitant van een levensmiddelenbedrijf die wil bewerkstelligen dat een door hem beheerde inrichting erkend wordt op de voet van artikel 6, derde lid, van [verordening (EG) 852/2004](32004R0852), dient een daartoe strekkend verzoek in bij:
 
@@ -98,11 +124,11 @@ In deze regeling wordt verstaan onder:
 
 2. Uiterlijk tien werkdagen na ontvangst van een in het eerste lid bedoeld verzoek, neemt het COKZ onderscheidenlijk de NVWA contact op met de desbetreffende exploitant voor het maken van een afspraak voor een bezoek ter plaatse, bedoeld in artikel 148, tweede lid, van verordening (EU) 2017/625.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Warenwetregeling procedures registratie en erkenning van levensmiddelenbedrijven.
 
@@ -112,7 +138,7 @@ Deze bijlage behoort bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4a
+##### Artikel 4a
 
 Deze regeling berust op [artikel 3, tweede lid, van het Warenwetbesluit hygiëne van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&artikel=3).
 

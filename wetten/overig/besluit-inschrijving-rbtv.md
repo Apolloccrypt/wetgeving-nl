@@ -1,13 +1,38 @@
 ---
 title: "Besluit inschrijving Rbtv"
 identifier: "BWBR0044188"
-categorie: "Overig"
-publicatiedatum: 2025-10-01
-laatste_update: 2025-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044188"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-10-01"
+last_updated: "2025-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044188"
+soort: "zbo"
+stam_id: "15654393"
+version_id: "27064172"
+internal_id: "C38285441"
+label_id: "15594044"
+dtd_version: "2.0"
+original_entry_into_force: "2020-10-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044188/2025-10-01/0"
+intitule_bron: "Stcrt.2020-51580"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-07-01"
+intitule_published: "2020-10-07"
+intitule_in_force: "2020-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-51580"
+original_signed_date: "2020-07-01"
+original_published_date: "2020-10-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-51580"
+entry_into_force_date: "2020-10-08"
+jci_1_3: "jci1.3:c:BWBR0044188&z=2025-10-01&g=2025-10-01"
+jci_1_0: "1.0:c:BWBR0044188&g=2025-10-01"
+citeertitel_status: "officieel"
+signed_date: "2020-07-01"
+entry_into_force: "2020-10-08"
 ---
-
 # Besluit inschrijving Rbtv
 
 Gelet op:
@@ -28,7 +53,7 @@ De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 ### Begrippen en definities
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -78,13 +103,13 @@ In dit besluit wordt verstaan onder:
 
 - y. **Vertaaltechnieken:** het geheel van technieken en strategieën die de vertaler toepast om nauwkeurige en cultureel passende communicatie over taalbarrières heen mogelijk te maken.
 
-#### Artikel 2
+##### Artikel 2
 
 Een tolk of vertaler kan worden ingeschreven in het Rbtv indien hij voldoet aan de formele vereisten die voortvloeien uit de [Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0022704) en het [Besluit btv](https://wetten.overheid.nl/jci1.3:c:BWBR0024896) en zich verklaart te houden aan de ‘Gedragscode voor tolken en vertalers in het kader van de Wbtv’.
 
 ### Tolk
 
-#### Artikel 3
+##### Artikel 3
 
 Indien een **tolk** niet beschikt over een diploma van een tolkopleiding op minimaal bachelorniveau, kan hij worden ingeschreven in het Rbtv op **C1-niveau,** als de tolk aantoont te beschikken over:
 
@@ -106,7 +131,7 @@ Indien een **tolk** niet beschikt over een diploma van een tolkopleiding op mini
 
 - e. tolkvaardigheid en -attitude.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien een **tolk** niet beschikt over een diploma van een tolkopleiding op minimaal bachelorniveau, kan hij worden ingeschreven in het Rbtv op **B2-niveau,** als de tolk aantoont te beschikken over:
 
@@ -130,7 +155,7 @@ Indien een **tolk** niet beschikt over een diploma van een tolkopleiding op mini
 
 ### Vertaler
 
-#### Artikel 5
+##### Artikel 5
 
 Indien een **vertaler** niet beschikt over een diploma van een vertaalopleiding op minimaal bachelorniveau in de betreffende vertaalrichting, kan hij worden ingeschreven in het Rbtv **op C1-niveau**, als de vertaler aantoont te beschikken over:
 
@@ -178,23 +203,23 @@ Of:
 
 ### Commissie btv
 
-#### Artikel 6
+##### Artikel 6
 
 De Raad voor Rechtsbijstand kan in de door haar te bepalen gevallen een verzoek tot inschrijving in het Rbtv ter advisering voorleggen aan de Commissie beëdigde tolken en vertalers (hierna: Commissie btv).
 
 ### Slotbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 Het [Besluit inschrijving Rbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0033581) van 11 juni 2013 (Stcrt. 26 juni 2013, nr. 17544) wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als Besluit inschrijving Rbtv.
 
 Dit besluit treedt in werking op 1 juli 2020.
 
-#### Artikel 7a
+##### Artikel 7a
 
 De inschrijfvoorwaarden voor tolken en vertalers worden elke vijf jaar geëvalueerd.
 

@@ -1,13 +1,37 @@
 ---
 title: "Verdrag inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving tussen de Regering van het Koninkrijk der Nederlanden en de Macedonische Regering"
 identifier: "BWBV0001454"
-categorie: "Sociaal recht"
-publicatiedatum: 2002-05-01
-laatste_update: 2002-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001454"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-05-01"
+last_updated: "2002-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001454"
+soort: "verdrag"
+stam_id: "10000378113"
+version_id: "10000386492"
+internal_id: "C10006991671"
+label_id: "10000378594"
+original_entry_into_force: "2002-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001454/2002-05-01/0"
+intitule_bron: "Trb.2000-56"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-10-30"
+intitule_published: "2000-06-05"
+intitule_in_force: "2004-02-06"
+intitule_status: "goed"
+original_publication: "Trb.2000-56"
+original_signed_date: "2000-10-30"
+original_published_date: "2000-06-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2000-56"
+entry_into_force_date: "2002-05-01"
+jci_1_3: "jci1.3:c:BWBV0001454&z=2002-05-01&g=2002-05-01"
+jci_1_0: "1.0:c:BWBV0001454&g=2002-05-01"
+citeertitel_status: "officieel"
+signed_date: "2000-10-30"
+entry_into_force: "2002-05-01"
 ---
-
 # Verdrag inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving tussen de Regering van het Koninkrijk der Nederlanden en de Macedonische Regering
 
 De Regering van het Koninkrijk der Nederlanden
@@ -36,7 +60,7 @@ zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag:
 
@@ -60,7 +84,7 @@ Voor de toepassing van dit Verdrag:
 
 ### HOOFDSTUK II. Toepassingsgebied van het Verdrag
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Verdragsluitende Partijen verlenen elkaar door tussenkomst van hun douaneadministraties administratieve bijstand onder de in dit Verdrag genoemde voorwaarden ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving, alsmede voor de invordering van douanevorderingen.
 
@@ -74,13 +98,13 @@ Voor de toepassing van dit Verdrag:
 
 ### HOOFDSTUK III. Reikwijdte van de bijstand
 
-#### Artikel 3
+##### Artikel 3
 
 1. De douaneadministraties verstrekken elkaar op verzoek of uit eigen beweging informatie met het oog op de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving, alsmede de invordering van douanevorderingen.
 
 2. Elk van beide douaneadministraties handelt bij het instellen van een onderzoek namens de andere douaneadministratie alsof het onderzoek werd ingesteld ten behoeve van haarzelf of op verzoek van een andere autoriteit van haar eigen Staat.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aangezochte administratie verstrekt, op verzoek, alle informatie over de in die Verdragsluitende Partij toepasselijke douanewetgeving en -regelingen die van belang is voor het onderzoek met betrekking tot een inbreuk op de douanewetgeving.
 
@@ -92,7 +116,7 @@ Voor de toepassing van dit Verdrag:
 
 ### HOOFDSTUK IV. Bijzondere vormen van bijstand
 
-#### Artikel 5
+##### Artikel 5
 
 De aangezochte administratie verstrekt de verzoekende administratie op haar verzoek met name de volgende informatie:
 
@@ -100,7 +124,7 @@ De aangezochte administratie verstrekt de verzoekende administratie op haar verz
 
 - b. of goederen die worden uitgevoerd uit het douanegebied van de verzoekende Verdragsluitende Partij op rechtmatige wijze zijn ingevoerd in het douanegebied van de aangezochte Verdragsluitende Partij en over de douaneregeling waaronder de goederen eventueel zijn gebracht.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aangezochte administratie houdt, op verzoek, bijzonder toezicht op:
 
@@ -112,13 +136,13 @@ De aangezochte administratie verstrekt de verzoekende administratie op haar verz
 
 2. De douaneadministraties kunnen, in overeenstemming met hun nationale wetgeving, met wederzijdse overeenstemming en door middel van een wederzijdse regeling, toestemming verlenen voor de onder hun toezicht verrichte invoer in, uitvoer uit of doorvoer via het douanegebied van hun respectieve staten van goederen die zijn betrokken bij ongeoorloofde handel om deze ongeoorloofde handel tegen te gaan.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De douaneadministraties verstrekken elkaar, op verzoek of uit eigen beweging, informatie over verrichte of voorgenomen transacties die een inbreuk op de douanewetgeving vormen of lijken te vormen.
 
 2. In ernstige gevallen die aanzienlijke schade voor de economie, volksgezondheid, openbare veiligheid of enig ander vitaal belang van de ene Verdragsluitende Partij met zich zouden kunnen brengen, verstrekt de douaneadministratie van de andere Verdragsluitende Partij waar mogelijk onverwijld uit eigen beweging informatie.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De aangezochte administratie verleent op verzoek bijstand met het oog op het innen van douanevorderingen overeenkomstig de respectieve nationale wetgeving of administratieve praktijk van de Verdragsluitende Partijen.
 
@@ -160,7 +184,7 @@ De aangezochte administratie verstrekt de verzoekende administratie op haar verz
 
 ### HOOFDSTUK V. Informatie
 
-#### Artikel 9
+##### Artikel 9
 
 1. Om originele informatie wordt slechts verzocht in gevallen waarin niet met gewaarmerkte of gelegaliseerde afschriften kan worden volstaan, en deze wordt zo spoedig mogelijk teruggezonden; zulks laat rechten van de aangezochte administratie of van derden terzake onverlet.
 
@@ -168,13 +192,13 @@ De aangezochte administratie verstrekt de verzoekende administratie op haar verz
 
 ### HOOFDSTUK VI. Deskundigen en getuigen
 
-#### Artikel 10
+##### Artikel 10
 
 De aangezochte administratie machtigt op verzoek haar ambtenaren om ter zake van een inbreuk op de douanewetgeving als deskundige of getuige te verschijnen voor een rechterlijke instantie in de andere Verdragsluitende Partij.
 
 ### HOOFDSTUK VII. Toezending van verzoeken
 
-#### Artikel 11
+##### Artikel 11
 
 1. Verzoeken om bijstand uit hoofde van dit Verdrag worden, schriftelijk en vergezeld van nuttig geachte documenten, rechtstreeks aan de douaneadministratie van de andere Verdragsluitende Partij gericht. Wanneer de omstandigheden dit vereisen, kunnen ook mondeling verzoeken worden gedaan. Dergelijke verzoeken worden onmiddellijk schriftelijk bevestigd.
 
@@ -194,11 +218,11 @@ De aangezochte administratie machtigt op verzoek haar ambtenaren om ter zake van
 
 ### HOOFDSTUK VIII. Uitvoering van verzoeken
 
-#### Artikel 12
+##### Artikel 12
 
 Indien de aangezochte administratie niet over de gevraagde informatie beschikt, stelt zij een onderzoek in om die informatie te verkrijgen in overeenstemming met haar nationale wettelijke en administratieve bepalingen. Dit onderzoek omvat mede het optekenen van verklaringen van personen van wie informatie wordt verlangd in verband met een inbreuk op de douanewetgeving en van getuigen en deskundigen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Op schriftelijk verzoek kunnen door de verzoekende administratie aangewezen ambtenaren, met instemming van de aangezochte administratie en onder de door laatstgenoemde hieraan verbonden voorwaarden, ten behoeve van de opsporing van een inbreuk op de douanewetgeving:
 
@@ -214,7 +238,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 ### HOOFDSTUK IX. Vertrouwelijk karakter van informatie
 
-#### Artikel 14
+##### Artikel 14
 
 1. Alle uit hoofde van dit Verdrag ontvangen informatie mag slechts voor de doeleinden van dit Verdrag en door de douaneadministraties worden gebruikt, behalve in de gevallen waarin de douaneadministratie die deze informatie heeft verstrekt, uitdrukkelijk haar goedkeuring hecht aan het gebruik daarvan voor andere doeleinden of door andere autoriteiten. In dat geval is dat gebruik onderworpen aan eventuele beperkingen die zijn vastgesteld door de douaneadministratie die de informatie heeft verstrekt. Deze informatie mag, indien de nationale wetgeving van de verstrekkende Verdragsluitende Partij dat voorschrijft, slechts bij strafrechtelijke vervolgingen worden gebruikt nadat het openbaar ministerie of de rechterlijke autoriteiten in de verstrekkende Verdragsluitende Partij met dit gebruik hebben ingestemd.
 
@@ -224,13 +248,13 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 4. Indien informatie moet worden verstrekt aan de Europese Commissie of de douaneadministraties van de lidstaten van de Europese Unie ingevolge de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001454&hoofdstuk=II&artikel=2&z=2002-05-01&g=2002-05-01) van dit Verdrag genoemde verplichtingen van de Nederlandse Verdragsluitende Partij, wordt de douaneadministratie van de Macedonische Verdragsluitende Partij vooraf op de hoogte gesteld.
 
-#### Artikel 15
+##### Artikel 15
 
 Wanneer uit hoofde van dit Verdrag persoonsgegevens worden uitgewisseld, waarborgen de Verdragsluitende Partijen een mate van gegevensbescherming die ten minste gelijk is aan die welke resulteert uit de toepassing van de beginselen opgenomen in de Bijlage bij dit Verdrag, welke een integrerend deel van dit Verdrag uitmaakt.
 
 ### HOOFDSTUK X. Ontheffing
 
-#### Artikel 16
+##### Artikel 16
 
 1. De aangezochte administratie is niet verplicht de in dit Verdrag bedoelde bijstand te verlenen indien deze de openbare orde of enig ander wezenlijk belang van de aangezochte Verdragsluitende Partij zou kunnen schaden of tot een schending van een industrieel of een commercieel geheim, dan wel van een beroepsgeheim zou kunnen leiden.
 
@@ -242,7 +266,7 @@ Wanneer uit hoofde van dit Verdrag persoonsgegevens worden uitgewisseld, waarbor
 
 ### HOOFDSTUK XI. Kosten
 
-#### Artikel 17
+##### Artikel 17
 
 1. De douaneadministraties zien af van alle vorderingen tot vergoeding van ter uitvoering van dit Verdrag gemaakte kosten, met uitzondering van bedragen en vergoedingen betaald aan deskundigen en getuigen alsook de kosten van tolken die niet in dienst zijn van de Regering, welke worden gedragen door de verzoekende administratie.
 
@@ -252,7 +276,7 @@ Wanneer uit hoofde van dit Verdrag persoonsgegevens worden uitgewisseld, waarbor
 
 ### HOOFDSTUK XII. Uitvoering van het Verdrag
 
-#### Artikel 18
+##### Artikel 18
 
 1. De douaneadministraties nemen maatregelen opdat hun met de opsporing of bestrijding van inbreuken op de douanewetgeving belaste ambtenaren persoonlijke en rechtstreekse betrekkingen met elkaar kunnen onderhouden.
 
@@ -264,7 +288,7 @@ Wanneer uit hoofde van dit Verdrag persoonsgegevens worden uitgewisseld, waarbor
 
 ### HOOFDSTUK XIII. Toepassing
 
-#### Artikel 19
+##### Artikel 19
 
 1. Wat de Macedonische Verdragsluitende Partij betreft, is dit Verdrag van toepassing op haar grondgebied.
 
@@ -274,11 +298,11 @@ Wanneer uit hoofde van dit Verdrag persoonsgegevens worden uitgewisseld, waarbor
 
 ### HOOFDSTUK XIV. Inwerkingtreding en beëindiging
 
-#### Artikel 20
+##### Artikel 20
 
 Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat de Verdragsluitende Partijen elkaar langs diplomatieke weg schriftelijk ervan in kennis hebben gesteld dat aan de grondwettelijke of nationale vereisten voor de inwerkingtreding van dit Verdrag is voldaan.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Dit Verdrag wordt in principe voor onbepaalde tijd gesloten, maar elk van beide Verdragsluitende Partijen kan het te allen tijde langs diplomatieke weg opzeggen.
 
@@ -286,11 +310,11 @@ Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat de Verd
 
 3. Tenzij anders overeengekomen, wordt door de beëindiging van dit Verdrag niet tegelijkertijd de toepassing daarvan op de Nederlandse Antillen of Aruba beëindigd, indien het daartoe is uitgebreid overeenkomstig de bepalingen van [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001454&hoofdstuk=XIII&artikel=19&z=2002-05-01&g=2002-05-01).
 
-#### Artikel 22
+##### Artikel 22
 
 De Verdragsluitende Partijen komen bijeen om dit Verdrag te heroverwegen, op verzoek of na het verstrijken van vijf jaar vanaf de inwerkingtreding ervan, tenzij zij elkaar schriftelijk ervan in kennis stellen dat een dergelijke heroverweging niet nodig is.
 
-#### 1
+##### 1
 
 Persoonsgegevens die automatisch worden verwerkt dienen:
 
@@ -304,15 +328,15 @@ Persoonsgegevens die automatisch worden verwerkt dienen:
 
 - e. te worden bewaard in een vorm die identificatie van de personen op wie de gegevens betrekking hebben niet langer mogelijk maakt dan nodig is voor het doel waarvoor deze gegevens zijn opgeslagen.
 
-#### 2
+##### 2
 
 Persoonsgegevens waaruit ras, politieke opvattingen of religieuze of andere overtuigingen blijken, alsmede persoonsgegevens inzake gezondheid of seksualiteit mogen niet automatisch worden verwerkt, tenzij de nationale wetgeving voldoende beveiliging biedt. Hetzelfde geldt voor persoonsgegevens inzake strafrechtelijke veroordelingen.
 
-#### 3
+##### 3
 
 Passende beveiligingsmaatregelen dienen te worden getroffen ter bescherming van in geautomatiseerde gegevensbestanden opgeslagen persoonsgegevens tegen ongeoorloofde vernietiging of onbedoeld verloren gaan, alsmede tegen ongeoorloofde toegang, wijziging of verspreiding.
 
-#### 4
+##### 4
 
 Iedereen dient in staat te worden gesteld om:
 
@@ -324,7 +348,7 @@ Iedereen dient in staat te worden gesteld om:
 
 - d. een rechtsmiddel te kunnen aanwenden indien een verzoek om bevestiging c.q. kennisgeving, verbetering of verwijdering als bedoeld onder b en c van dit beginsel niet wordt ingewilligd.
 
-#### 5
+##### 5
 
 1. Uitzonderingen op het in de [beginselen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001454&hoofdstuk=I&artikel=1&z=2002-05-01&g=2002-05-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBV0001454&hoofdstuk=II&artikel=2&z=2002-05-01&g=2002-05-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001454&artikel=4&z=2002-05-01&g=2002-05-01) van deze Bijlage bepaalde zijn niet toegestaan, tenzij deze binnen de in dit beginsel vastgestelde grenzen vallen.
 
@@ -336,11 +360,11 @@ Iedereen dient in staat te worden gesteld om:
 
 3. De wetgeving kan voorzien in beperkingen in de uitoefening van de in de [onderdelen b, c en d van beginsel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001454&artikel=4&z=2002-05-01&g=2002-05-01) van deze Bijlage genoemde rechten met betrekking tot geautomatiseerde bestanden met persoonsgegevens die worden gebruikt voor de statistiek of wetenschappelijk onderzoek, waarbij duidelijk geen risico bestaat van een inbreuk op de privacy van de personen op wie de gegevens betrekking hebben.
 
-#### 6
+##### 6
 
 Elke Verdragsluitende Partij streeft naar vaststelling van passende sancties en rechtsmiddelen voor schending van bepalingen van nationale wetgeving ter uitvoering van de in deze Bijlage beschreven grondbeginselen.
 
-#### 7
+##### 7
 
 De bepalingen van deze Bijlage mogen niet zodanig worden uitgelegd dat daardoor de mogelijkheid voor een Verdragsluitende Partij om personen op wie de gegevens betrekking hebben een ruimere mate van bescherming toe te kennen dan bepaald in deze Bijlage, wordt beperkt of anderszins wordt aangetast.
 

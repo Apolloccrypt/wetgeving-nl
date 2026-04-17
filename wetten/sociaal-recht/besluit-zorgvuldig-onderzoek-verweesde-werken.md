@@ -1,13 +1,39 @@
 ---
-title: "Besluit zorgvuldig onderzoek verweesde werken"
+title: "Besluit van 16 oktober 2014 houdende nadere regels over het uitvoeren van een zorgvuldig onderzoek in verband met de Richtlijn nr. 2012/28/EU inzake bepaalde toegestane gebruikswijzen van verweesde werken (Besluit zorgvuldig onderzoek verweesde werken)"
 identifier: "BWBR0035690"
-categorie: "Sociaal recht"
-publicatiedatum: 2014-10-29
-laatste_update: 2014-10-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035690"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-10-29"
+last_updated: "2014-10-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035690"
+soort: "AMvB"
+stam_id: "12823573"
+version_id: "21784382"
+internal_id: "C31265071"
+label_id: "12793164"
+dtd_version: "2.0"
+original_entry_into_force: "2014-10-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035690/2014-10-29/0"
+intitule_bron: "Stb.2014-399"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-10-16"
+intitule_published: "2014-10-28"
+intitule_in_force: "2014-10-28"
+intitule_status: "goed"
+original_publication: "Stb.2014-399"
+original_signed_date: "2014-10-16"
+original_published_date: "2014-10-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-399"
+entry_into_force_date: "2014-10-29"
+jci_1_3: "jci1.3:c:BWBR0035690&z=2014-10-29&g=2014-10-29"
+jci_1_0: "1.0:c:BWBR0035690&g=2014-10-29"
+citeertitel_status: "officieel"
+short_title: "Besluit zorgvuldig onderzoek verweesde werken"
+signed_date: "2014-10-16"
+entry_into_force: "2014-10-29"
 ---
-
 # Besluit van 16 oktober 2014 houdende nadere regels over het uitvoeren van een zorgvuldig onderzoek in verband met de Richtlijn nr. 2012/28/EU inzake bepaalde toegestane gebruikswijzen van verweesde werken (Besluit zorgvuldig onderzoek verweesde werken)
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 8 juli 2014 nr. WJZ/652892 (10433), directie Wetgeving en Juridische Zaken;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 2
+##### Artikel 2
 
 Bij een zorgvuldig onderzoek worden voor de volgende categorieën van werken in ieder geval de volgende bronnen geraadpleegd
 
@@ -80,17 +106,17 @@ Bij een zorgvuldig onderzoek worden voor de volgende categorieën van werken in 
 
 - 6°. informatie op de verpakking van het werk waaronder aftitelingslijsten of medewerkerslijsten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Na het uitvoeren van een zorgvuldig onderzoek verstrekt een organisatie aan Onze Minister de gegevens, bedoeld in [artikel 16p, vijfde lid, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=16p).
 
 2. Onze Minister kan nadere regels stellen over de aan te leveren gegevens en over de wijze van aanlevering.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking op de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit zorgvuldig onderzoek verweesde werken.
 

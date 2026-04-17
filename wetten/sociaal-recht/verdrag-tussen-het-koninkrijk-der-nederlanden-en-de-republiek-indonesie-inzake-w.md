@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Indonesië inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving"
 identifier: "BWBV0004044"
-categorie: "Sociaal recht"
-publicatiedatum: 2010-01-01
-laatste_update: 2003-06-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004044"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-01-01"
+last_updated: "2003-06-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004044"
+soort: "verdrag"
+stam_id: "10003860653"
+version_id: "10003931752"
+internal_id: "C10008336441"
+label_id: "10003845634"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004044/2010-01-01/0"
+intitule_bron: "Trb.2003-147"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2003-09-16"
+intitule_in_force: "2009-12-08"
+intitule_status: "goed"
+original_publication: "Trb.2003-147"
+original_published_date: "2003-09-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-147"
+entry_into_force_date: "2010-01-01"
+jci_1_3: "jci1.3:c:BWBV0004044&z=2010-01-01&g=2010-01-01"
+jci_1_0: "1.0:c:BWBV0004044&g=2010-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-01-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Indonesië inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving
 
 Het Koninkrijk der Nederlanden
@@ -38,7 +60,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag:
 
@@ -62,7 +84,7 @@ Voor de toepassing van dit Verdrag:
 
 ### HOOFDSTUK II. REIKWIJDTE VAN HET VERDRAG
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Verdragsluitende Partijen verlenen elkaar door tussenkomst van hun douane-administraties administratieve bijstand onder de in dit Verdrag genoemde voorwaarden ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving, alsmede voor de invordering van douanevorderingen.
 
@@ -76,13 +98,13 @@ Voor de toepassing van dit Verdrag:
 
 ### HOOFDSTUK III. REIKWIJDTE VAN DE BIJSTAND
 
-#### Artikel 3
+##### Artikel 3
 
 1. De douane-administraties verstrekken elkaar, op verzoek of uit eigen beweging, informatie met het oog op de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving, alsmede de invordering van douanevorderingen.
 
 2. Elk van beide douane-administraties handelt bij het instellen van een onderzoek namens de andere douane-administratie alsof het onderzoek werd ingesteld ten behoeve van haarzelf of op verzoek van een andere autoriteit van haar eigen staat.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aangezochte administratie verstrekt, op verzoek, alle informatie over de in die Verdragsluitende Partij toepasselijke douanewetgeving en -regelingen die van belang is voor het onderzoek met betrekking tot een inbreuk op de douanewetgeving.
 
@@ -92,7 +114,7 @@ Voor de toepassing van dit Verdrag:
 
 - b. nieuwe trends, middelen of werkwijzen betreffende het maken van inbreuken op de douanewetgeving.
 
-#### Artikel 5
+##### Artikel 5
 
 De douane-administraties kunnen elkaar technische bijstand verlenen bij onder andere de volgende douanezaken:
 
@@ -108,7 +130,7 @@ De douane-administraties kunnen elkaar technische bijstand verlenen bij onder an
 
 ### HOOFDSTUK IV. BIJZONDERE VORMEN VAN BIJSTAND
 
-#### Artikel 6
+##### Artikel 6
 
 De aangezochte administratie verstrekt, op verzoek, de verzoekende administratie met name de volgende informatie:
 
@@ -116,7 +138,7 @@ De aangezochte administratie verstrekt, op verzoek, de verzoekende administratie
 
 - b. of goederen die worden uitgevoerd uit het douanegebied van de verzoekende Verdragsluitende Partij op rechtmatige wijze zijn ingevoerd in het douanegebied van de aangezochte Verdragsluitende Partij en over de douaneregeling waaronder de goederen eventueel zijn gebracht.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De aangezochte administratie houdt, op verzoek, bijzonder toezicht op:
 
@@ -128,7 +150,7 @@ De aangezochte administratie verstrekt, op verzoek, de verzoekende administratie
 
 2. De douane-administraties kunnen, overeenkomstig hun nationale wetgeving, in wederzijdse overeenstemming en door middel van een wederzijdse regeling, toestemming verlenen voor de onder hun toezicht verrichte invoer in, uitvoer uit of doorvoer via het douanegebied van hun respectieve staten van goederen die betrokken zijn bij ongeoorloofde handel om deze ongeoorloofde handel tegen te gaan.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De douane-administraties verstrekken elkaar, op verzoek of uit eigen beweging, informatie over verrichte of voorgenomen transacties die een inbreuk op de douanewetgeving vormen of lijken te vormen.
 
@@ -136,7 +158,7 @@ De aangezochte administratie verstrekt, op verzoek, de verzoekende administratie
 
 3. De douane-administraties kunnen overeenkomen, op voorwaarden neer te leggen in overeenstemming met artikel 19, tweede lid, van dit Verdrag, elkaar systematisch informatie te verstrekken teneinde bij te dragen aan de vergemakkelijking van de legitieme handel en/of de handhaving van douanewetgeving te bevorderen in geval van ernstig gevaar voor de samenleving.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De douane-administraties verlenen elkaar bijstand met het oog op de invordering van douanevorderingen in overeenstemming met de respectieve nationale wettelijke en administratieve bepalingen voor de invordering van hun eigen vorderingen betreffende rechten en belastingen.
 
@@ -144,7 +166,7 @@ De aangezochte administratie verstrekt, op verzoek, de verzoekende administratie
 
 ### HOOFDSTUK V. INFORMATIE
 
-#### Artikel 10
+##### Artikel 10
 
 1. Om originele informatie wordt slechts verzocht in gevallen waarin niet met gewaarmerkte of gelegaliseerde afschriften kan worden volstaan, en deze wordt zo spoedig mogelijk teruggezonden; zulks laat de rechten van de aangezochte administratie of van derden ter zake onverlet.
 
@@ -152,13 +174,13 @@ De aangezochte administratie verstrekt, op verzoek, de verzoekende administratie
 
 ### HOOFDSTUK VI. DESKUNDIGEN EN GETUIGEN
 
-#### Artikel 11
+##### Artikel 11
 
 De aangezochte administratie kan, op verzoek, haar ambtenaren machtigen om ter zake van een inbreuk op de douanewetgeving als deskundige of getuige te verschijnen voor een rechtscollege van de andere Verdragsluitende Partij.
 
 ### HOOFDSTUK VII. TOEZENDING VAN VERZOEKEN
 
-#### Artikel 12
+##### Artikel 12
 
 1. Verzoeken om bijstand uit hoofde van dit Verdrag worden, schriftelijk en vergezeld van nuttig geachte documenten, rechtstreeks aan de douane-administratie van de andere Verdragsluitende Partij gericht. Wanneer de omstandigheden dit vereisen, kunnen verzoeken ook mondeling worden gedaan. Dergelijke verzoeken worden onmiddellijk schriftelijk bevestigd.
 
@@ -178,11 +200,11 @@ De aangezochte administratie kan, op verzoek, haar ambtenaren machtigen om ter z
 
 ### HOOFDSTUK VIII. UITVOERING VAN VERZOEKEN
 
-#### Artikel 13
+##### Artikel 13
 
 Indien de aangezochte administratie niet over de gevraagde informatie beschikt, stelt zij een onderzoek in om die informatie te verkrijgen in overeenstemming met haar nationale wettelijke en administratieve bepalingen. Dit onderzoek kan mede omvatten het optekenen van verklaringen van personen van wie informatie wordt verlangd in verband met een inbreuk op de douanewetgeving en van getuigen en deskundigen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Door de verzoekende administratie aangewezen ambtenaren kunnen, met instemming van de aangezochte administratie en onder de door laatstgenoemde hieraan verbonden voorwaarden, ten behoeve van onderzoek naar een inbreuk op de douanewetgeving, op schriftelijk verzoek:
 
@@ -198,7 +220,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 ### HOOFDSTUK IX. VERTROUWELIJK KARAKTER VAN INFORMATIE
 
-#### Artikel 15
+##### Artikel 15
 
 1. Alle uit hoofde van dit Verdrag ontvangen informatie mag slechts voor de doeleinden van dit Verdrag en door de douane-administraties worden gebruikt, behalve in gevallen waarin de douane-administratie die deze informatie heeft verstrekt, uitdrukkelijk haar goedkeuring hecht aan het gebruik daarvan voor andere doeleinden of door andere autoriteiten. In dat geval is dergelijk gebruik onderworpen aan eventuele beperkingen die zijn vastgelegd door de douane-administratie die de informatie heeft verstrekt. Deze informatie mag, indien de nationale wetgeving van de verstrekkende Verdragsluitende Partij dat voorschrijft, slechts bij strafrechtelijke vervolgingen worden gebruikt nadat het openbaar ministerie of de rechterlijke autoriteiten in de verstrekkende Verdragsluitende Partij met dit gebruik hebben ingestemd.
 
@@ -208,7 +230,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 4. Indien informatie moet worden verstrekt aan een van de douane-administraties van de lidstaten van de ASEAN ingevolge de in artikel 2, derde lid, van dit Verdrag genoemde verplichtingen van de Republiek Indonesië, wordt de douane-administratie van het Koninkrijk der Nederlanden vooraf op de hoogte gesteld
 
-#### Artikel 16
+##### Artikel 16
 
 1. Uit hoofde van dit Verdrag uitgewisselde persoonsgegevens vallen onder een beschermingsniveau dat gelijk is aan het beschermingsniveau dat door de Verdragsluitende Partij die de gegevens verstrekt, wordt gehanteerd.
 
@@ -218,7 +240,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 ### HOOFDSTUK X. ONTHEFFING
 
-#### Artikel 17
+##### Artikel 17
 
 1. De aangezochte administratie is niet verplicht de in dit Verdrag bedoelde bijstand te verlenen indien deze de openbare orde of enig ander wezenlijk belang van de aangezochte Verdragsluitende Partij zou kunnen schaden of tot een schending van een industrieel of een commercieel geheim, dan wel van een beroepsgeheim zou kunnen leiden.
 
@@ -230,7 +252,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 ### HOOFDSTUK XI. KOSTEN
 
-#### Artikel 18
+##### Artikel 18
 
 1. De douane-administraties zien af van alle vorderingen tot vergoeding van ter uitvoering van dit Verdrag gemaakte kosten, met uitzondering van bedragen en vergoedingen betaald aan deskundigen en getuigen alsook de kosten van vertalers en tolken die niet in dienst zijn van de Regering, welke worden gedragen door de verzoekende administratie.
 
@@ -240,7 +262,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 ### HOOFDSTUK XII. UITVOERING VAN HET VERDRAG
 
-#### Artikel 19
+##### Artikel 19
 
 1. De douane-administraties nemen maatregelen opdat hun met de opsporing of bestrijding van inbreuken op de douanewetgeving belaste ambtenaren persoonlijke en rechtstreekse betrekkingen met elkaar kunnen onderhouden.
 
@@ -252,7 +274,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 ### HOOFDSTUK XIII. TOEPASSING
 
-#### Artikel 20
+##### Artikel 20
 
 1. Wat de Republiek Indonesië betreft, is dit Verdrag van toepassing op het grondgebied van de Republiek Indonesië zoals omschreven in haar wetten en de aangrenzende zeeën waarover de Republiek Indonesië soevereiniteit heeft, soevereine rechten of rechtsmacht uitoefent in overeenstemming met de bepalingen van het Verdrag van de Verenigde Naties inzake het recht van de zee van 1982.
 
@@ -262,7 +284,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 ### HOOFDSTUK XIV. INWERKINGTREDING EN BEËINDIGING
 
-#### Artikel 21
+##### Artikel 21
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat de Verdragsluitende Partijen elkaar langs diplomatieke weg schriftelijk ervan in kennis hebben gesteld dat aan de grondwettelijke vereisten voor de inwerkingtreding van dit Verdrag is voldaan.
 
@@ -272,7 +294,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 4. Tenzij anders overeengekomen, wordt door de beëindiging van dit Verdrag niet tegelijkertijd de toepassing daarvan op de Nederlandse Antillen of op Aruba beëindigd, indien het daartoe is uitgebreid overeenkomstig de bepalingen van artikel 20, tweede lid.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Op verzoek komen de Verdragsluitende Partijen bijeen om het Verdrag te herzien.
 

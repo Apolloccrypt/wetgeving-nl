@@ -1,13 +1,39 @@
 ---
-title: "Regeling windenergie op zee 2015"
+title: "Regeling van de Minister van Economische Zaken van 30 juni 2015, nr. WJZ/15031513, tot aanwijzing van productie-installaties voor het opwekken van hernieuwbare elektriciteit met behulp van windenergie op zee als een subsidiabele categorie in het kader van de stimulering van duurzame energieproductie (Regeling windenergie op zee 2015)"
 identifier: "BWBR0036785"
-categorie: "Overig"
-publicatiedatum: 2015-12-01
-laatste_update: 2015-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036785"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-12-01"
+last_updated: "2015-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036785"
+soort: "ministeriele-regeling"
+stam_id: "13207423"
+version_id: "22537662"
+internal_id: "C32330591"
+label_id: "13175804"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036785/2015-12-01/0"
+intitule_bron: "Stcrt.2015-18526"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-06-30"
+intitule_published: "2015-07-03"
+intitule_in_force: "2015-07-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-18526"
+original_signed_date: "2015-06-30"
+original_published_date: "2015-07-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-18526"
+entry_into_force_date: "2015-12-01"
+jci_1_3: "jci1.3:c:BWBR0036785&z=2015-12-01&g=2015-12-01"
+jci_1_0: "1.0:c:BWBR0036785&g=2015-12-01"
+citeertitel_status: "officieel"
+short_title: "Regeling windenergie op zee 2015"
+signed_date: "2015-06-30"
+entry_into_force: "2015-12-01"
 ---
-
 # Regeling van de Minister van Economische Zaken van 30 juni 2015, nr. WJZ/15031513, tot aanwijzing van productie-installaties voor het opwekken van hernieuwbare elektriciteit met behulp van windenergie op zee als een subsidiabele categorie in het kader van de stimulering van duurzame energieproductie (Regeling windenergie op zee 2015)
 
 Gelet op [artikel 3, eerste en tweede lid, van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3) en de [artikelen 2, tweede tot en met vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=7), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=8), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=19), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=20), [22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), [23, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=23), [56, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56), [60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=60), [61, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=61), en [63, tweede lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=63);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,11 +66,11 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Windenergie op zee
 
-#### Artikel 2
+##### Artikel 2
 
 De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee die is gelegen op kavel I of kavel II.
 
-#### Artikel 3
+##### Artikel 3
 
 Het nominale vermogen van de productie-installatie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036785&paragraaf=2&artikel=2&z=2015-12-01&g=2015-12-01), bedraagt:
 
@@ -52,7 +78,7 @@ Het nominale vermogen van de productie-installatie, bedoeld in [artikel 2](https
 
 - b. ten hoogste 380 MW per kavel.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aanvragen om subsidie worden ontvangen in de periode van de dag na de datum van inwerkingtreding van deze regeling tot 31 maart 2016, 17:00 uur.
 
@@ -62,7 +88,7 @@ Het nominale vermogen van de productie-installatie, bedoeld in [artikel 2](https
 
 4. Per aanvrager kan in de periode, genoemd in het eerste lid, ten hoogste één niet-gebundelde aanvraag per kavel en één gebundelde aanvraag voor beide kavels worden ingediend.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De minister beslist in ieder geval afwijzend op een aanvraag indien:
 
@@ -74,7 +100,7 @@ Het nominale vermogen van de productie-installatie, bedoeld in [artikel 2](https
 
 2. Indien de subsidie-aanvrager een samenwerkingsverband is, is de omvang van het eigen vermogen, bedoeld in het eerste lid, onderdeel a, gelijk aan de omvang van de eigen vermogens van de deelnemers aan het samenwerkingsverband tezamen. Indien de subsidie-aanvrager een dochteronderneming is, is de omvang van het eigen vermogen, bedoeld in het eerste lid, onderdeel a, gelijk aan de omvang van de eigen vermogens van de moederonderneming en de dochteronderneming tezamen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het subsidieplafond bedraagt € 2.500.000.000 per kavel.
 
@@ -94,11 +120,11 @@ Het nominale vermogen van de productie-installatie, bedoeld in [artikel 2](https
 
 9. Indien voor een kavel meerdere aanvragen als hoogst zijn gerangschikt, stelt de minister de onderlinge rangschikking van deze aanvragen vast door middel van loting.
 
-#### Artikel 7
+##### Artikel 7
 
 Het tenderbedrag bedraagt ten hoogste € 0,124 per kWh.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De subsidie wordt verleend onder de opschortende voorwaarde dat binnen twee weken na de datum van de beschikking tot subsidieverlening een uitvoeringsovereenkomst tot stand is gekomen tussen de Staat en de subsidie-ontvanger overeenkomstig de overeenkomst opgenomen in de bijlage.
 
@@ -106,7 +132,7 @@ Het tenderbedrag bedraagt ten hoogste € 0,124 per kWh.
 
 3. Indien niet tijdig aan de voorwaarde, bedoeld in het eerste of tweede lid, is voldaan wordt subsidie voor de desbetreffende kavel verleend voor de eerstvolgende aanvraag in de rangschikking.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De subsidie wordt voor een periode van 15 jaar verstrekt.
 
@@ -114,19 +140,19 @@ Het tenderbedrag bedraagt ten hoogste € 0,124 per kWh.
 
 3. Productie-installaties als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036785&paragraaf=2&artikel=2&z=2015-12-01&g=2015-12-01) worden aangewezen als productie-installaties als bedoeld in [artikel 23, derde en vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=23).
 
-#### Artikel 10
+##### Artikel 10
 
 1. De subsidie-ontvanger neemt de productie-installatie in gebruik binnen 5 jaar na de datum van de beschikking tot subsidieverlening.
 
 2. Indien het desbetreffende kavelbesluit later onherroepelijk wordt dan de datum van de beschikking tot subsidieverlening, neemt de subsidie-ontvanger de productie-installatie in gebruik binnen 5 jaar na de datum waarop dat kavelbesluit onherroepelijk is geworden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De basiselektriciteitsprijs, bedoeld in [artikel 20, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=20) bedraagt voor productie-installaties als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036785&paragraaf=2&artikel=2&z=2015-12-01&g=2015-12-01) € 0,029 per kWh.
 
 2. Het maximale aantal vollasturen, bedoeld in [artikel 23, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=23) voor productie-installaties als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036785&paragraaf=2&artikel=2&z=2015-12-01&g=2015-12-01) is gelijk aan de netto P50-waarde vollasturen die is opgenomen in de aanvraag.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Voor de vaststelling van de correcties ten behoeve van de voorschotverlening voor 2016 wordt voor de elektriciteitsprijs de gemiddelde waarde in de periode 1 mei 2014 tot en met 30 april 2015 gehanteerd.
 
@@ -138,15 +164,15 @@ Het tenderbedrag bedraagt ten hoogste € 0,124 per kWh.
 
 #### § 3. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt de Algemene uitvoeringsregeling stimulering duurzame energieproductie.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling treedt in werking met ingang van 1 december 2015. Indien het kavelbesluit betreffende kavel I of kavel II in werking treedt na 1 december 2015, treedt deze regeling in werking op het tijdstip waarop het kavelbesluit dat als laatste in werking treedt, in werking treedt.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling wordt aangehaald als: Regeling windenergie op zee 2015.
 

@@ -1,13 +1,38 @@
 ---
 title: "Verdrag van de Verenigde Naties ter bestrijding van woestijnvorming in de landen die te kampen hebben met ernstige droogte en/of woestijnvorming, in het bijzonder in Afrika"
 identifier: "BWBV0001192"
-categorie: "Internationaal recht"
-publicatiedatum: 2001-09-06
-laatste_update: 2001-09-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001192"
+country: "nl"
+rank: "verdrag"
+publication_date: "2001-09-06"
+last_updated: "2001-09-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001192"
+soort: "verdrag"
+stam_id: "10001470333"
+version_id: "10001549332"
+internal_id: "C10006986271"
+label_id: "10001471354"
+dtd_version: "2.0"
+original_entry_into_force: "1996-12-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001192/2001-09-06/0"
+intitule_bron: "Trb.1995-41"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-06-27"
+intitule_published: "1995-01-27"
+intitule_in_force: "1997-02-18"
+intitule_status: "goed"
+original_publication: "Trb.1995-41"
+original_signed_date: "1995-06-27"
+original_published_date: "1995-01-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1995-41"
+entry_into_force_date: "1996-12-26"
+jci_1_3: "jci1.3:c:BWBV0001192&z=2001-09-06&g=2001-09-06"
+jci_1_0: "1.0:c:BWBV0001192&g=2001-09-06"
+citeertitel_status: "redactioneel"
+signed_date: "1995-06-27"
+entry_into_force: "1996-12-26"
 ---
-
 # Verdrag van de Verenigde Naties ter bestrijding van woestijnvorming in de landen die te kampen hebben met ernstige droogte en/of woestijnvorming, in het bijzonder in Afrika
 
 De Partijen bij dit Verdrag,
@@ -68,7 +93,7 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I. INLEIDING
 
-#### Artikel 1. Gebruikte termen
+##### Artikel 1. Gebruikte termen
 
 Voor de toepassing van dit Verdrag wordt onder:
 
@@ -106,13 +131,13 @@ Voor de toepassing van dit Verdrag wordt onder:
 
 - k. „Partijen die ontwikkelde landen zijn" verstaan: Partijen die ontwikkelde landen zijn en door ontwikkelde landen opgerichte regionale organisaties voor economische integratie.
 
-#### Artikel 2. Doelstelling
+##### Artikel 2. Doelstelling
 
 1. De doelstelling van dit Verdrag is het bestrijden van woestijnvorming en het inperken van de gevolgen van droogte in landen die te kampen hebben met ernstige droogte en/of woestijnvorming, in het bijzonder in Afrika, door middel van doeltreffend optreden op alle niveaus, ondersteund door regelingen inzake internationale samenwerking en partnerschap, in het kader van een geïntegreerde aanpak die verenigbaar is met Agenda 21, met het oog op het leveren van een bijdrage aan de verwezenlijking van duurzame ontwikkeling in getroffen gebieden.
 
 2. De verwezenlijking van deze doelstelling impliceert geïntegreerde strategieën voor de lange termijn die tegelijkertijd zijn gericht, in de getroffen gebieden, op verbeterde produktiviteit van het land en het herstel, behoud en duurzaam beheer van bodemrijkdommen en watervoorraden, hetgeen zal leiden tot betere levensomstandigheden, met name op gemeenschapsniveau.
 
-#### Artikel 3. Beginselen
+##### Artikel 3. Beginselen
 
 Teneinde de doelstelling van dit Verdrag te verwezenlijken en de bepalingen hiervan uit te voeren, laten de Partijen zich, onder andere, leiden door de volgende beginselen:
 
@@ -126,7 +151,7 @@ Teneinde de doelstelling van dit Verdrag te verwezenlijken en de bepalingen hier
 
 ## DEEL II. ALGEMENE BEPALINGEN
 
-#### Artikel 4. Algemene verplichtingen
+##### Artikel 4. Algemene verplichtingen
 
 1. De Partijen komen, afzonderlijk of gezamenlijk, hun verplichtingen ingevolge dit Verdrag na hetzij via bestaande of toekomstige bilaterale en multilaterale regelingen dan wel een combinatie daarvan, indien van toepassing, daarbij de nadruk leggend op de noodzaak van onderlinge afstemming van de inspanningen en het ontwikkelen van een coherente strategie voor de lange termijn op alle niveaus.
 
@@ -150,7 +175,7 @@ Teneinde de doelstelling van dit Verdrag te verwezenlijken en de bepalingen hier
 
 3. De Partijen die getroffen ontwikkelingslanden zijn, komen in aanmerking voor hulp bij de toepassing van het Verdrag.
 
-#### Artikel 5. Verplichtingen van de Partijen die getroffen landen zijn
+##### Artikel 5. Verplichtingen van de Partijen die getroffen landen zijn
 
 Naast hun verplichtingen ingevolge artikel 4, verplichten de Partijen die getroffen landen zijn zich ertoe:
 
@@ -164,7 +189,7 @@ Naast hun verplichtingen ingevolge artikel 4, verplichten de Partijen die getrof
 
 - e. te zorgen voor een gunstig klimaat door, waar mogelijk, de desbetreffende bestaande wetgeving aan te scherpen en, indien deze ontbreekt, nieuwe wetten uit te vaardigen en beleidslijnen en actieprogramma's voor de lange termijn vast te stellen.
 
-#### Artikel 6. Verplichtingen van de Partijen die ontwikkelde landen zijn
+##### Artikel 6. Verplichtingen van de Partijen die ontwikkelde landen zijn
 
 Naast hun algemene verplichtingen ingevolge artikel 4, verplichten de Partijen die ontwikkelde landen zijn zich ertoe:
 
@@ -178,11 +203,11 @@ Naast hun algemene verplichtingen ingevolge artikel 4, verplichten de Partijen d
 
 - e. de toegang van de Partijen die getroffen landen zijn, met name de Partijen die getroffen ontwikkelingslanden zijn, tot geschikte technologie, kennis en know-how te bevorderen en te vergemakkelijken.
 
-#### Artikel 7. Prioriteit voor Afrika
+##### Artikel 7. Prioriteit voor Afrika
 
 Bij de toepassing van dit Verdrag geven de Partijen prioriteit aan de Partijen die getroffen landen in Afrika zijn, gelet op de bijzondere omstandigheden die in die regio heersen, zulks zonder de Partijen die getroffen ontwikkelingslanden zijn in andere regio's te verwaarlozen.
 
-#### Artikel 8. Verhouding tot andere verdragen
+##### Artikel 8. Verhouding tot andere verdragen
 
 1. De Partijen stimuleren de coördinatie van activiteiten die worden verricht uit hoofde van dit Verdrag en, indien zij daarbij Partij zijn, uit hoofde van andere relevante internationale overeenkomsten, met name het Raamverdrag van de Verenigde Naties inzake klimaatverandering en het Verdrag inzake biologische diversiteit, teneinde zoveel mogelijk profijt te trekken van de activiteiten uit hoofde van elke overeenkomst en het verrichten van dubbel werk te vermijden. De Partijen stimuleren de uitvoering van gezamenlijke programma's, met name op het gebied van onderzoek, opleiding, systematische waarneming en het vergaren en uitwisselen van informatie, voor zover deze activiteiten bijdragen tot de verwezenlijking van de doelstellingen van de desbetreffende overeenkomsten.
 
@@ -192,7 +217,7 @@ Bij de toepassing van dit Verdrag geven de Partijen prioriteit aan de Partijen d
 
 ## TITEL 1. ACTIEPROGRAMMA’S
 
-#### Artikel 9. Uitgangspunt
+##### Artikel 9. Uitgangspunt
 
 1. Ter nakoming van hun verplichtingen ingevolge artikel 5 dienen de Partijen die getroffen ontwikkelingslanden zijn en elke andere Partij die getroffen land is, al dan niet in het kader van haar bijlage inzake regionale uitvoering, die het permanente secretariaat schriftelijk in kennis heeft gesteld van haar voornemen een nationaal actieprogramma op te stellen, waar mogelijk, nationale actieprogramma's op te stellen, openbaar te maken en uit te voeren, daarbij voor zover mogelijk gebruik makend van en voortbouwend op bestaande daarvoor in aanmerking komende geslaagde plannen en programma's en subregionale en regionale actieprogramma's, als hoofdpijler van de strategie voor het bestrijden van woestijnvorming en het inperken van de gevolgen van droogte. Deze programma's dienen te worden bijgewerkt door middel van een constant participatieproces op basis van lering getrokken uit optreden in het veld, alsmede de resultaten van onderzoek. Het opstellen van nationale actieprogramma's dient nauw te zijn verbonden met andere inspanningen ter formulering van het nationale beleid inzake duurzame ontwikkeling.
 
@@ -200,7 +225,7 @@ Bij de toepassing van dit Verdrag geven de Partijen prioriteit aan de Partijen d
 
 3. De Partijen dienen de organen, fondsen en programma's van het stelsel van de Verenigde Naties en andere daarvoor in aanmerking komende intergouvernementele organisaties, academische instellingen, wetenschappelijke kringen en niet-gouvernementele organisaties die in staat zijn mee te werken, in overeenstemming met hun mandaten en mogelijkheden, te stimuleren de totstandkoming, uitvoering en follow-up van actieprogramma's te steunen.
 
-#### Artikel 10. Nationale actieprogramma's
+##### Artikel 10. Nationale actieprogramma's
 
 1. Nationale actieprogramma's hebben tot doel na te gaan welke factoren bijdragen tot woestijnvorming en welke praktische maatregelen noodzakelijk zijn om woestijnvorming te bestrijden en de gevolgen van droogte in te perken.
 
@@ -234,15 +259,15 @@ Bij de toepassing van dit Verdrag geven de Partijen prioriteit aan de Partijen d
 
 4. Rekening houdend met de omstandigheden en behoeften die eigen zijn aan elke Partij die getroffen land is, dienen nationale actieprogramma's waar mogelijk, onder andere, maatregelen te omvatten op alle hierna te noemen prioriteitsterreinen, of enkele daarvan, voor zover deze verband houden met het bestrijden van woestijnvorming en het inperken van de gevolgen van droogte in getroffen gebieden en voor hun bevolking: het stimuleren van alternatieve middelen van bestaan en het verbeteren van het nationale economische klimaat met het oog op consolidering van programma's gericht op armoedebestrijding en het zorgen voor veiligstelling van de voedselvoorziening, bevolkingsdynamiek, duurzaam beheer van natuurlijke rijkdommen, duurzame landbouwmethoden, ontwikkelen en efficiënt gebruik van diverse bronnen van energie, institutionele en wettelijke kaders, verbetering van de mogelijkheden voor oordeelsvorming en systematische waarneming, waaronder hydrologische en meteorologische diensten, en capaciteitsvergroting, educatie en bewustmaking.
 
-#### Artikel 11. Subregionale en regionale actieprogramma's
+##### Artikel 11. Subregionale en regionale actieprogramma's
 
 De Partijen die getroffen landen zijn, plegen overleg en werken samen om, waar mogelijk, in overeenstemming met de desbetreffende bijlagen inzake regionale uitvoering, subregionale en/of regionale actieprogramma's op te stellen ter harmonisering, aanvulling en vergroting van de doelmatigheid van nationale programma's. De bepalingen van artikel 10 zijn van overeenkomstige toepassing op subregionale en regionale programma's. Deze samenwerking kan mede betrekking hebben op overeengekomen gezamenlijke programma's voor duurzaam beheer van grensoverschrijdende natuurlijke rijkdommen, wetenschappelijke en technische samenwerking en de versterking van de desbetreffende instellingen.
 
-#### Artikel 12. Internationale samenwerking
+##### Artikel 12. Internationale samenwerking
 
 De Partijen die getroffen landen zijn, dienen met medewerking van andere Partijen en de internationale gemeenschap samen te werken om te zorgen voor het bevorderen van een gunstig internationaal klimaat bij de toepassing van het Verdrag. Deze samenwerking dient tevens betrekking te hebben op overdracht van technologie, alsmede wetenschappelijk onderzoek & ontwikkeling, het vergaren en verspreiden van informatie en financiële middelen.
 
-#### Artikel 13. Ondersteuning van de totstandbrenging en uitvoering van actieprogramma's
+##### Artikel 13. Ondersteuning van de totstandbrenging en uitvoering van actieprogramma's
 
 1. Maatregelen ter ondersteuning van actieprogramma's ingevolge artikel 9 dienen onder andere te omvatten:
 
@@ -256,19 +281,19 @@ De Partijen die getroffen landen zijn, dienen met medewerking van andere Partije
 
 2. Bij het bieden van deze ondersteuning aan de Partijen die getroffen ontwikkelingslanden zijn, dient prioriteit te worden gegeven aan de Partijen die landen in Afrika zijn en de Partijen die minstontwikkelde landen zijn.
 
-#### Artikel 14. Coördinatie bij de totstandbrenging en uitvoering van actieprogramma's
+##### Artikel 14. Coördinatie bij de totstandbrenging en uitvoering van actieprogramma's
 
 1. De Partijen werken nauw samen, rechtstreeks en via de daarvoor in aanmerking komende intergouvernementele organisaties, bij de totstandbrenging en uitvoering van actieprogramma's.
 
 2. De Partijen ontwikkelen operationele mechanismen, in het bijzonder op nationaal en veldniveau, om te zorgen voor zo volledig mogelijke coördinatie tussen de Partijen die ontwikkelde landen zijn, de Partijen die ontwikkelingslanden zijn en daarvoor in aanmerking komende intergouvernementele en niet-gouvernementele organisaties, teneinde het verrichten van dubbel werk te vermijden, de wijzen van ingrijpen en aanpak te harmoniseren en het effect van de hulp te optimaliseren. In de Partijen die getroffen ontwikkelingslanden zijn, zal prioriteit worden gegeven aan coördinerende activiteiten met betrekking tot internationale samenwerking, teneinde te komen tot een zo efficiënt mogelijk gebruik van de middelen, te zorgen voor op behoeften inspelende hulp en de uitvoering van nationale actieprogramma's en prioriteiten ingevolge dit Verdrag te vergemakkelijken.
 
-#### Artikel 15. Bijlagen inzake regionale uitvoering
+##### Artikel 15. Bijlagen inzake regionale uitvoering
 
 Elementen die in actieprogramma's moeten worden opgenomen, dienen te worden gekozen op grond van en aangepast aan de sociaal-economische, geografische en klimatologische factoren die gelden voor de Partijen die getroffen landen zijn of regio's, alsmede aan hun ontwikkelingsniveau. Richtlijnen voor het opstellen van actieprogramma's en de exacte richtpunten en inhoud daarvan voor afzonderlijke subregio's en regio's zijn uiteengezet in de bijlagen inzake regionale uitvoering.
 
 ## TITEL 2. WETENSCHAPPELIJKE EN TECHNISCHE SAMENWERKING
 
-#### Artikel 16. Vergaren, analyseren en uitwisselen van informatie
+##### Artikel 16. Vergaren, analyseren en uitwisselen van informatie
 
 De Partijen komen overeen, overeenkomstig hun onderscheiden mogelijkheden, het vergaren, analyseren en uitwisselen van relevante gegevens en informatie voor de korte en lange termijn te integreren en coördineren, teneinde te zorgen voor systematische waarneming van de aantasting van het land in getroffen gebieden en om de verdrogings- en woestijnvormingsprocessen en de gevolgen daarvan beter te kunnen begrijpen en beoordelen. Hiermee zou men kunnen komen tot, onder andere, vroegtijdige waarschuwing en voorafgaande planning voor perioden van ongunstige klimaatschommelingen in een vorm die geschikt is voor praktische toepassing door gebruikers op alle niveaus, onder wie met name plaatselijke bevolkingsgroepen. Hiertoe dienen zij, waar mogelijk:
 
@@ -294,7 +319,7 @@ De Partijen komen overeen, overeenkomstig hun onderscheiden mogelijkheden, het v
 
 - g. met inachtneming van hun onderscheiden nationale wetgeving en/of beleid, informatie over plaatselijke en traditionele kennis uit te wisselen, daarbij zorg dragend voor voldoende bescherming van de informatie en een passende vergoeding biedend uit de daaruit verkregen baten, op een billijke grondslag en op onderling overeengekomen voorwaarden, aan de betrokken plaatselijke bevolkingsgroepen.
 
-#### Artikel 17. Onderzoek & ontwikkeling
+##### Artikel 17. Onderzoek & ontwikkeling
 
 1. De Partijen verplichten zich ertoe, overeenkomstig hun onderscheiden mogelijkheden, de technische en wetenschappelijke samenwerking op het gebied van het bestrijden van woestijnvorming en het inperken van de gevolgen van droogte te bevorderen door middel van daarvoor in aanmerking komende nationale, subregionale, regionale en internationale instellingen. Hiertoe steunen zij onderzoeksactiviteiten die:
 
@@ -314,7 +339,7 @@ De Partijen komen overeen, overeenkomstig hun onderscheiden mogelijkheden, het v
 
 2. Er dienen onderzoeksprioriteiten voor afzonderlijke regio's en subregio's, waarin de uiteenlopende plaatselijke omstandigheden tot uitdrukking komen, in actieprogramma's te worden opgenomen. De Conferentie van de Partijen toetst de onderzoeksprioriteiten periodiek op basis van het advies van de Commissie voor Wetenschap en Techniek.
 
-#### Artikel 18. Overdracht, verwerving, aanpassing en ontwikkeling van technologie
+##### Artikel 18. Overdracht, verwerving, aanpassing en ontwikkeling van technologie
 
 1. De Partijen verplichten zich, zoals onderling overeengekomen en in overeenstemming met hun onderscheiden nationale wetgeving en/of beleid, tot het bevorderen, financieren en/of vergemakkelijken van de financiering van de overdracht, verwerving, aanpassing en ontwikkeling van milieuverantwoorde, economisch haalbare en maatschappelijk aanvaardbare technologieën die van belang zijn voor het bestrijden van woestijnvorming en/of het inperken van de gevolgen van droogte, teneinde bij te dragen tot de verwezenlijking van duurzame ontwikkeling in getroffen gebieden. Deze samenwerking dient bilateraal of, waar mogelijk, multilateraal te geschieden, daarbij ten volle gebruik makend van de deskundigheid van intergouvernementele en niet-gouvernementele organisaties. De Partijen dienen in het bijzonder:
 
@@ -340,7 +365,7 @@ De Partijen komen overeen, overeenkomstig hun onderscheiden mogelijkheden, het v
 
 ## TITEL 3. ONDERSTEUNENDE MAATREGELEN
 
-#### Artikel 19. Capaciteitsvergroting, educatie en bewustmaking
+##### Artikel 19. Capaciteitsvergroting, educatie en bewustmaking
 
 1. De Partijen erkennen het belang van capaciteitsvergroting - d.w.z. institutionele ontwikkeling, opleiding en uitbreiding van de daarvoor in aanmerking komende plaatselijke en nationale capaciteiten - bij inspanningen gericht op het bestrijden van woestijnvorming en het inperken van de gevolgen van droogte. Zij dienen, waar mogelijk, capaciteitsvergroting te bevorderen:
 
@@ -384,7 +409,7 @@ De Partijen komen overeen, overeenkomstig hun onderscheiden mogelijkheden, het v
 
 4. De Conferentie van de Partijen zet netwerken van regionale educatie- en opleidingscentra op voor het bestrijden van woestijnvorming en het inperken van de gevolgen van droogte, en/of verbetert die netwerken. Deze netwerken dienen te worden gecoördineerd door een daartoe opgerichte of aangewezen instelling teneinde wetenschappelijk, technisch en leidinggevend personeel op te leiden en de bestaande instellingen die zijn belast met educatie en opleiding in de Partijen die getroffen landen zijn, waar mogelijk, te verbeteren, met het oog op harmonisering van programma's en het organiseren van onderlinge uitwisselingen van ervaringen. Deze netwerken dienen nauw samen te werken met daarvoor in aanmerking komende intergouvernementele en niet-gouvernementele organisaties teneinde het verrichten van dubbel werk te vermijden.
 
-#### Artikel 20. Financiële middelen
+##### Artikel 20. Financiële middelen
 
 1. Gezien het doorslaggevende belang van financiering voor de verwezenlijking van de doelstelling van het Verdrag, stellen de Partijen, rekening houdend met hun mogelijkheden, alles in het werk om ervoor te zorgen dat er voldoende financiële middelen beschikbaar zijn voor programma's gericht op het bestrijden van woestijnvorming en het inperken van de gevolgen van droogte.
 
@@ -414,7 +439,7 @@ De Partijen komen overeen, overeenkomstig hun onderscheiden mogelijkheden, het v
 
 7. De volledige nakoming door de Partijen die getroffen ontwikkelingslanden zijn, in het bijzonder die in Afrika, van hun verplichtingen ingevolge het Verdrag is er in hoge mate bij gebaat dat de Partijen die ontwikkelde landen zijn, voldoen aan hun verplichtingen ingevolge het Verdrag, waaronder in het bijzonder de verplichtingen betreffende financiële middelen en overdracht van technologie. Bij het voldoen aan hun verplichtingen behoren de Partijen die ontwikkelde landen zijn ten volle rekening te houden met het feit dat economische en sociale ontwikkeling en armoedebestrijding de hoogste prioriteiten zijn van de Partijen die getroffen ontwikkelingslanden zijn, in het bijzonder die in Afrika.
 
-#### Artikel 21. Financiële mechanismen
+##### Artikel 21. Financiële mechanismen
 
 1. De Conferentie van de Partijen bevordert de beschikbaarheid van financiële mechanismen en moedigt die mechanismen aan te streven naar maximale beschikbaarheid van financieringsmogelijkheden voor de Partijen die getroffen ontwikkelingslanden zijn, in het bijzonder die in Afrika, om uitvoering te geven aan het Verdrag. Hiertoe bestudeert de Conferentie van de Partijen, met het oog op aanneming, onder andere wijzen van aanpak en beleidslijnen die:
 
@@ -450,7 +475,7 @@ De Partijen komen overeen, overeenkomstig hun onderscheiden mogelijkheden, het v
 
 ## DEEL IV. INSTELLINGEN
 
-#### Artikel 22. Conferentie van de Partijen
+##### Artikel 22. Conferentie van de Partijen
 
 1. Hierbij wordt een Conferentie van de Partijen ingesteld.
 
@@ -488,7 +513,7 @@ De Partijen komen overeen, overeenkomstig hun onderscheiden mogelijkheden, het v
 
 8. De Conferentie van de Partijen kan bevoegde nationale en internationale organisaties die over relevante deskundigheid beschikken, verzoeken informatie te verstrekken die van belang is voor artikel 16, letter g, artikel 17, eerste lid, letter c, en artikel 18, tweede lid, letter b.
 
-#### Artikel 23. Permanent secretariaat
+##### Artikel 23. Permanent secretariaat
 
 1. Hierbij wordt een permanent secretariaat ingesteld.
 
@@ -510,7 +535,7 @@ De Partijen komen overeen, overeenkomstig hun onderscheiden mogelijkheden, het v
 
 3. De Conferentie van de Partijen stelt op haar eerste zitting een permanent secretariaat aan en treft regelingen voor het functioneren daarvan.
 
-#### Artikel 24. Commissie voor Wetenschap en Technologie
+##### Artikel 24. Commissie voor Wetenschap en Technologie
 
 1. Hierbij wordt een Commissie voor Wetenschap en Technologie ingesteld als hulporgaan van de Conferentie van de Partijen, dat haar informatie en advies dient te geven over wetenschappelijke en technologische aangelegenheden die verband houden met het bestrijden van woestijnvorming en het inperken van de gevolgen van droogte. De Commissie komt bijeen ten tijde van de gewone zittingen van de Conferentie van de Partijen, is multidisciplinair en staat open voor participatie van alle Partijen. Zij wordt samengesteld uit regeringsvertegenwoordigers die bekwaam zijn op de desbetreffende vakgebieden. De Conferentie van de Partijen besluit op haar eerste zitting over de taken en bevoegdheden van de Commissie.
 
@@ -518,7 +543,7 @@ De Partijen komen overeen, overeenkomstig hun onderscheiden mogelijkheden, het v
 
 3. De Conferentie van de Partijen kan, indien noodzakelijk, ad hoc werkgroepen instellen, die haar, via de Commissie, informatie en advies geven over specifieke kwesties betreffende de stand van zaken op het gebied van wetenschap en technologie die van belang zijn voor het bestrijden van woestijnvorming en het inperken van de gevolgen van droogte. Deze werkgroepen worden samengesteld uit deskundigen wier namen afkomstig zijn uit de lijst van voordrachten, rekening houdend met de noodzaak van een multidisciplinaire benadering en een brede geografische vertegenwoordiging. Deze deskundigen dienen een wetenschappelijke achtergrond en veldervaring te hebben en worden door de Conferentie van de Partijen benoemd op grond van een aanbeveling van de Commissie. De Conferentie van de Partijen beslist over de taken en bevoegdheden en de wijze van werken van deze werkgroepen.
 
-#### Artikel 25. Vorming van netwerken van instellingen, organisaties en organen
+##### Artikel 25. Vorming van netwerken van instellingen, organisaties en organen
 
 1. De Commissie voor Wetenschap en Technologie gaat, onder toezicht van de Conferentie van de Partijen, over tot het verrichten van een onderzoek naar en een evaluatie van de daarvoor in aanmerking komende bestaande netwerken, instellingen, organisaties en organen die zich bij een netwerk willen aansluiten. Dat netwerk dient de uitvoering van het Verdrag te ondersteunen.
 
@@ -532,7 +557,7 @@ De Partijen komen overeen, overeenkomstig hun onderscheiden mogelijkheden, het v
 
 ## DEEL V. PROCEDURES
 
-#### Artikel 26. Verstrekking van informatie
+##### Artikel 26. Verstrekking van informatie
 
 1. Elke Partij verstrekt de Conferentie van de Partijen, via het permanente secretariaat, ter bestudering op haar gewone zittingen, rapporten betreffende de maatregelen die zij heeft genomen ter uitvoering van het Verdrag. De Conferentie van de Partijen stelt het tijdschema voor de indiening van de rapporten vast en bepaalt in welke vorm zulks dient te geschieden.
 
@@ -548,11 +573,11 @@ De Partijen komen overeen, overeenkomstig hun onderscheiden mogelijkheden, het v
 
 7. De Conferentie van de Partijen vergemakkelijkt het bieden van technische en financiële steun aan getroffen ontwikkelingslanden, in het bijzonder die in Afrika, op hun verzoek, bij het verzamelen en verstrekken van informatie in overeenstemming met dit artikel, alsmede bij het inventariseren van de met actieprogramma's verband houdende technische en financiële behoeften.
 
-#### Artikel 27. Maatregelen om vraagstukken betreffende de uitvoering op te lossen
+##### Artikel 27. Maatregelen om vraagstukken betreffende de uitvoering op te lossen
 
 De Conferentie van de Partijen bestudeert en hecht haar goedkeuring aan procedures en institutionele mechanismen voor het oplossen van vraagstukken die zich eventueel voordoen met betrekking tot de uitvoering van het Verdrag.
 
-#### Artikel 28. Regeling van geschillen
+##### Artikel 28. Regeling van geschillen
 
 1. De Partijen regelen een onderling geschil met betrekking tot de uitlegging of toepassing van het Verdrag door middel van onderhandelingen of op een andere vreedzame wijze van hun keuze.
 
@@ -570,13 +595,13 @@ De Conferentie van de Partijen bestudeert en hecht haar goedkeuring aan procedur
 
 6. Indien de Partijen bij het geschil niet dezelfde of geen enkele procedure ingevolge het tweede lid hebben aanvaard en zij er niet in zijn geslaagd hun geschil te regelen binnen twaalf maanden nadat de ene Partij de andere te kennen heeft gegeven dat tussen hen een geschil bestaat, wordt het geschil op verzoek van een Partij onderworpen aan conciliatie, in overeenstemming met een zo spoedig mogelijk door de Conferentie van de Partijen in een bijlage vast te leggen procedure.
 
-#### Artikel 29. Status van de bijlagen
+##### Artikel 29. Status van de bijlagen
 
 1. De bijlagen vormen een integrerend deel van het Verdrag en een verwijzing naar het Verdrag is tevens een verwijzing naar de bijlagen, tenzij uitdrukkelijk anders is bepaald.
 
 2. De Partijen leggen de bepalingen van de bijlagen uit op een wijze die in overeenstemming is met hun rechten en verplichtingen ingevolge de artikelen van dit Verdrag.
 
-#### Artikel 30. Wijzigingen op het Verdrag
+##### Artikel 30. Wijzigingen op het Verdrag
 
 1. Elke Partij kan wijzigingen op het Verdrag voorstellen.
 
@@ -590,7 +615,7 @@ De Conferentie van de Partijen bestudeert en hecht haar goedkeuring aan procedur
 
 6. Voor de toepassing van dit artikel en artikel 31 wordt onder „aanwezige Partijen die hun stem uitbrengen" verstaan Partijen die aanwezig zijn en voor- of tegenstemmen.
 
-#### Artikel 31. Aanneming en wijziging van bijlagen
+##### Artikel 31. Aanneming en wijziging van bijlagen
 
 1. Elke bijkomende bijlage bij het Verdrag en elke wijziging van een bijlage dient te worden voorgesteld en aangenomen in overeenstemming met de in artikel 30 vervatte procedure voor wijziging van het Verdrag, met dien verstande dat bij aanneming van een bijkomende bijlage inzake regionale uitvoering of een wijziging van een bijlage inzake regionale uitvoering, de in dat artikel genoemde meerderheid een meerderheid van tweederde dient te omvatten van de aanwezige Partijen uit de betrokken regio die hun stem uitbrengen. De aanneming of wijziging van een bijlage wordt door de Depositaris aan alle Partijen medegedeeld.
 
@@ -604,7 +629,7 @@ De Conferentie van de Partijen bestudeert en hecht haar goedkeuring aan procedur
 
 4. Indien de aanneming van een bijlage of een wijziging op een bijlage een wijziging op het Verdrag inhoudt, treedt de bijlage niet in werking dan wel wordt de wijziging op een bijlage niet van kracht voordat de wijziging op het Verdrag van kracht wordt.
 
-#### Artikel 32. Stemrecht
+##### Artikel 32. Stemrecht
 
 1. Behoudens het in het tweede lid bepaalde, heeft elke Partij bij het Verdrag één stem.
 
@@ -612,11 +637,11 @@ De Conferentie van de Partijen bestudeert en hecht haar goedkeuring aan procedur
 
 ## DEEL VI. SLOTBEPALINGEN
 
-#### Artikel 33. Ondertekening
+##### Artikel 33. Ondertekening
 
 Dit Verdrag staat open voor ondertekening te Parijs op 14 en 15 oktober 1994 door Staten die lid zijn van de Verenigde Naties of van één van haar gespecialiseerde organisaties dan wel partij zijn bij het Statuut van het Internationale Gerechtshof, alsmede door regionale organisaties voor economische integratie. Daarna blijft het voor ondertekening openstaan op de zetel van de Verenigde Naties te New York tot 13 oktober 1995.
 
-#### Artikel 34. Bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 34. Bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Het Verdrag behoeft bekrachtiging, aanvaarding, goedkeuring of toetreding door Staten en regionale organisaties voor economische integratie. Het staat open voor toetreding vanaf de dag na de datum waarop het Verdrag is gesloten voor ondertekening. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij de Depositaris.
 
@@ -626,11 +651,11 @@ Dit Verdrag staat open voor ondertekening te Parijs op 14 en 15 oktober 1994 doo
 
 4. In haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding kan een Partij verklaren dat een eventuele bijkomende bijlage inzake regionale uitvoering of een eventuele wijziging in een bijlage inzake regionale uitvoering ten aanzien van haar slechts in werking treedt c.q. van kracht wordt na de nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding met betrekking tot die bijlage of wijziging.
 
-#### Artikel 35. Tijdelijke regelingen
+##### Artikel 35. Tijdelijke regelingen
 
 De in artikel 23 bedoelde secretariaatswerkzaamheden worden tijdelijk verricht door het secretariaat dat door de Algemene Vergadering van de Verenigde Naties is ingesteld bij resolutie 47/188 van 22 december 1992, tot aan het einde van de eerste zitting van de Conferentie van de Partijen.
 
-#### Artikel 36. Inwerkingtreding
+##### Artikel 36. Inwerkingtreding
 
 1. Het Verdrag treedt in werking op de negentigste dag na de datum van nederlegging van de vijftigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -638,29 +663,29 @@ De in artikel 23 bedoelde secretariaatswerkzaamheden worden tijdelijk verricht d
 
 3. Voor de toepassing van het eerste en tweede lid wordt een door een regionale organisatie voor economische integratie nedergelegde akte niet meegeteld naast de door de lidstaten van de organisatie nedergelegde akten.
 
-#### Artikel 37. Voorbehouden
+##### Artikel 37. Voorbehouden
 
 Ten aanzien van dit Verdrag kunnen geen voorbehouden worden gemaakt.
 
-#### Artikel 38. Opzegging
+##### Artikel 38. Opzegging
 
 1. Te allen tijde na drie jaar na de datum waarop het Verdrag voor een Partij in werking is getreden, kan die Partij het Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris.
 
 2. De opzegging wordt van kracht na het verstrijken van een jaar na de datum waarop de Depositaris de kennisgeving van opzegging heeft ontvangen, of op een eventuele latere in de kennisgeving van opzegging genoemde datum.
 
-#### Artikel 39. Depositaris
+##### Artikel 39. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties is Depositaris van het Verdrag.
 
-#### Artikel 40. Authentieke teksten
+##### Artikel 40. Authentieke teksten
 
 Het origineel van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse versies gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 1. Werkingssfeer
+##### Artikel 1. Werkingssfeer
 
 Deze Bijlage is van toepassing op Afrika, met betrekking tot elke Partij en in overeenstemming met het Verdrag, in het bijzonder artikel 7 daarvan, met het oog op het bestrijden van woestijnvorming en/of het inperken van de gevolgen van droogte in aride, semi-aride en droge subhumide gebieden in Afrika.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Deze Bijlage heeft tot doel op nationaal, subregionaal en regionaal niveau in Afrika en gelet op de bijzondere omstandigheden van Afrika:
 
@@ -670,7 +695,7 @@ Deze Bijlage heeft tot doel op nationaal, subregionaal en regionaal niveau in Af
 
 - c. processen en activiteiten te bevorderen met betrekking tot het bestrijden van woestijnvorming en/of het inperken van de gevolgen van droogte in aride, semi-aride en droge subhumide gebieden in Afrika.
 
-#### Artikel 3. Bijzondere omstandigheden van de Afrikaanse regio
+##### Artikel 3. Bijzondere omstandigheden van de Afrikaanse regio
 
 Bij de nakoming van hun verplichtingen ingevolge dit Verdrag nemen de Partijen, ter uitvoering van deze Bijlage, een fundamentele aanpak aan, waarbij de volgende bijzondere omstandigheden van Afrika in aanmerking worden genomen:
 
@@ -690,7 +715,7 @@ Bij de nakoming van hun verplichtingen ingevolge dit Verdrag nemen de Partijen, 
 
 - h. de centrale rol van maatregelen gericht op het bestrijden van woestijnvorming en/of het inperken van de gevolgen van droogte in de nationale ontwikkelingsprioriteiten van getroffen landen in Afrika.
 
-#### Artikel 4. Verplichtingen van de Partijen die landen in Afrika zijn
+##### Artikel 4. Verplichtingen van de Partijen die landen in Afrika zijn
 
 1. Overeenkomstig hun onderscheiden mogelijkheden, verplichten de Partijen die landen in Afrika zijn zich ertoe:
 
@@ -712,7 +737,7 @@ Bij de nakoming van hun verplichtingen ingevolge dit Verdrag nemen de Partijen, 
 
 - c. nieuwe en aanvullende nationale financiële middelen te zoeken en beschikbaar te (doen) stellen en, als prioriteit, bestaande nationale mogelijkheden en faciliteiten om binnenlandse financiële middelen beschikbaar te (doen) stellen uit te breiden.
 
-#### Artikel 5. Verplichtingen van de Partijen die ontwikkelde landen zijn
+##### Artikel 5. Verplichtingen van de Partijen die ontwikkelde landen zijn
 
 1. Bij de nakoming van hun verplichtingen ingevolge de artikelen 4, 6 en 7 van het Verdrag, geven de Partijen die ontwikkelde landen zijn prioriteit aan de Partijen die getroffen landen in Afrika zijn en in dit verband zullen zij:
 
@@ -724,17 +749,17 @@ Bij de nakoming van hun verplichtingen ingevolge dit Verdrag nemen de Partijen, 
 
 2. Andere landen die Partij zijn, kunnen op basis van vrijwilligheid technologie, kennis en know-how met betrekking tot woestijnvorming en/of financiële middelen beschikbaar stellen aan de Partijen die getroffen landen in Afrika zijn. De overdracht van deze kennis, know-how en technieken wordt vergemakkelijkt door internationale samenwerking.
 
-#### Artikel 6. Kader voor strategische planning ten behoeve van duurzame ontwikkeling
+##### Artikel 6. Kader voor strategische planning ten behoeve van duurzame ontwikkeling
 
 1. Nationale actieprogramma's dienen een centraal en integrerend deel uit te maken van een meer omvattend proces ter formulering van nationale beleidslijnen voor de duurzame ontwikkeling van de Partijen die getroffen landen in Afrika zijn.
 
 2. Er dient een op overleg en participatie gebaseerd proces, waarbij overheden op het juiste niveau, plaatselijke bevolkingsgroepen, gemeenschappen en niet-gouvernementele organisaties zijn betrokken, op gang te worden gebracht om te voorzien in sturing voor een strategie met een flexibele planning teneinde voor een zo groot mogelijke participatie van plaatselijke bevolkingsgroepen en gemeenschappen te zorgen. Zo nodig kunnen instellingen voor bilaterale en multilaterale hulp bij dit proces worden betrokken op verzoek van een Partij die een getroffen land in Afrika is.
 
-#### Artikel 7. Tijdschema voor de opstelling van actieprogramma's
+##### Artikel 7. Tijdschema voor de opstelling van actieprogramma's
 
 In afwachting van de inwerkingtreding van dit Verdrag passen de Partijen die landen in Afrika zijn, in samenwerking met andere leden van de internationale gemeenschap, naar gelang het geval, voorlopig de bepalingen van het Verdrag toe, voor zover mogelijk, die betrekking hebben op het opstellen van nationale, subregionale en regionale actieprogramma's.
 
-#### Artikel 8. Inhoud van nationale actieprogramma's
+##### Artikel 8. Inhoud van nationale actieprogramma's
 
 1. Overeenkomstig artikel 10 van het Verdrag dient in de algemene strategie van nationale actieprogramma's de nadruk te worden gelegd op geïntegreerde plaatselijke ontwikkelingsprogramma's voor getroffen gebieden, gebaseerd op participatiemechanismen en op het integreren van strategieën voor armoedebestrijding in inspanningen gericht op het bestrijden van woestijnvorming en het inperken van de gevolgen van droogte. De programma's dienen gericht te zijn op vergroting van de capaciteit van plaatselijke autoriteiten en te zorgen voor actieve betrokkenheid van plaatselijke bevolkingsgroepen, gemeenschappen en groeperingen, waarbij de nadruk ligt op onderwijs en opleiding, inschakeling van niet-gouvernementele organisaties met erkende deskundigheid en het versterken van gedecentraliseerde overheidsstructuren.
 
@@ -818,7 +843,7 @@ In afwachting van de inwerkingtreding van dit Verdrag passen de Partijen die lan
 
 - iii. het meten en evalueren van de aantasting van het milieu om betrouwbare en tijdig beschikbare informatie te kunnen verschaffen over het proces en de dynamiek van de aantasting van hulpbronnen, teneinde betere beleidsvorming en optreden te vergemakkelijken.
 
-#### Artikel 9. Opstelling van nationale actieprogramma's en indicatoren voor de uitvoering en evaluatie
+##### Artikel 9. Opstelling van nationale actieprogramma's en indicatoren voor de uitvoering en evaluatie
 
 Elke Partij die een getroffen land in Afrika is wijst een daarvoor in aanmerking komend nationaal coördinerend lichaam aan dat als katalysator fungeert bij de opstelling, uitvoering en evaluatie van haar nationale actieprogramma. Dit coördinerend lichaam zal in het licht van artikel 3 en waar mogelijk:
 
@@ -832,7 +857,7 @@ Elke Partij die een getroffen land in Afrika is wijst een daarvoor in aanmerking
 
 - e. voortgangsrapporten inzake de uitvoering van de nationale actieprogramma's opstellen.
 
-#### Artikel 10. Organisatorisch kader van subregionale actieprogramma's
+##### Artikel 10. Organisatorisch kader van subregionale actieprogramma's
 
 1. Op grond van artikel 4 van het Verdrag werken de Partijen die landen in Afrika zijn samen bij de opstelling en uitvoering van subregionale actieprogramma's voor Centraal-, Oost-, Noord-, Zuid- en West-Afrika en kunnen zij in verband hiermee de volgende taken delegeren aan de desbetreffende subregionale intergouvernementele organisaties:
 
@@ -846,7 +871,7 @@ Elke Partij die een getroffen land in Afrika is wijst een daarvoor in aanmerking
 
 2. Gespecialiseerde subregionale instellingen kunnen op verzoek zorgen voor ondersteuning en/of worden belast met de coördinatie van de activiteiten op de onder hun onderscheiden bevoegdheden vallende terreinen.
 
-#### Artikel 11. Inhoud en opstelling van subregionale actieprogramma's
+##### Artikel 11. Inhoud en opstelling van subregionale actieprogramma's
 
 Subregionale actieprogramma's dienen te zijn gericht op zaken die beter op subregionaal niveau kunnen worden aangepakt. In die programma's dienen, waar nodig, mechanismen te worden ingesteld voor het beheer van gemeenschappelijke natuurlijke rijkdommen. Deze mechanismen dienen doeltreffende oplossingen te zoeken voor grensoverschrijdende problemen die verband houden met woestijnvorming en/of droogte en te zorgen voor ondersteuning ten behoeve van de harmonieuze uitvoering van nationale actieprogramma's. In subregionale actieprogramma's dient prioriteit te worden gegeven aan, naar gelang het geval:
 
@@ -868,13 +893,13 @@ Subregionale actieprogramma's dienen te zijn gericht op zaken die beter op subre
 
 - i. het uitstippelen van beleidslijnen op terreinen, zoals de handel, die van invloed zijn op getroffen gebieden en bevolkingsgroepen, waaronder beleid inzake de coördinering van regionale afzetregelingen en inzake een gemeenschappelijke infrastructuur.
 
-#### Artikel 12. Organisatorisch kader van het regionale actieprogramma
+##### Artikel 12. Organisatorisch kader van het regionale actieprogramma
 
 1. Op grond van artikel 11 van het Verdrag stellen de Partijen die landen in Afrika zijn gezamenlijk de procedures vast voor het opstellen en uitvoeren van het regionale actieprogramma.
 
 2. De Partijen kunnen de benodigde ondersteuning bieden aan de daarvoor in aanmerking komende Afrikaanse regionale instellingen en organisaties om deze in staat te stellen de Partijen die landen in Afrika zijn te helpen hun verplichtingen ingevolge het Verdrag na te komen.
 
-#### Artikel 13. Inhoud van het regionale actieprogramma
+##### Artikel 13. Inhoud van het regionale actieprogramma
 
 Het regionale actieprogramma omvat maatregelen met betrekking tot het bestrijden van woestijnvorming en/of het inperken van de gevolgen van droogte op de volgende prioriteitsterreinen, naar gelang het geval:
 
@@ -894,7 +919,7 @@ Het regionale actieprogramma omvat maatregelen met betrekking tot het bestrijden
 
 - h. het coördineren en uitbreiden van subregionale en regionale waarschuwingssystemen en droogte-rampenplannen.
 
-#### Artikel 14. Financiële middelen
+##### Artikel 14. Financiële middelen
 
 1. Op grond van artikel 20 van het Verdrag en artikel 4, tweede lid, streven de Partijen die getroffen landen in Afrika zijn ernaar een macro-economisch kader te scheppen dat bevorderlijk is voor het beschikbaar (doen) stellen van financiële middelen, en ontwikkelen zij beleid en stellen zij procedures vast om middelen doelmatiger te doen toekomen aan plaatselijke ontwikkelingsprogramma's, onder meer via niet-gouvernementele organisaties, naar gelang het geval.
 
@@ -902,7 +927,7 @@ Het regionale actieprogramma omvat maatregelen met betrekking tot het bestrijden
 
 3. Overeenkomstig artikel 7 van het Verdrag blijven de Partijen die ontwikkelde landen zijn aanzienlijke middelen en/of meer middelen en andere vormen van hulp toekennen aan de Partijen die getroffen landen in Afrika zijn, zulks op basis van de in artikel 18 bedoelde partnerschapsakkoorden en -regelingen, daarbij, onder andere, de nodige aandacht schenkend aan aangelegenheden verband houdende met schulden, internationale handel en afzetregelingen in overeenstemming met artikel 4, tweede lid, letter b, van het Verdrag.
 
-#### Artikel 15. Financiële mechanismen
+##### Artikel 15. Financiële mechanismen
 
 1. Overeenkomstig artikel 7 van het Verdrag, dat de prioriteit onderstreept voor Partijen die getroffen landen in Afrika zijn, en de in deze regio heersende bijzondere omstandigheden in aanmerking nemend, schenken de Partijen bijzondere aandacht aan de uitvoering in Afrika van de bepalingen van artikel 21, eerste lid, letters d en e, van het Verdrag, met name door:
 
@@ -914,7 +939,7 @@ Het regionale actieprogramma omvat maatregelen met betrekking tot het bestrijden
 
 3. De Partijen stroomlijnen, voor zover mogelijk, de procedures om gelden te doen toekomen aan de Partijen die getroffen landen in Afrika zijn.
 
-#### Artikel 16. Technische bijstand en samenwerking
+##### Artikel 16. Technische bijstand en samenwerking
 
 De Partijen verplichten zich ertoe, in overeenstemming met hun onderscheiden mogelijkheden, de technische bijstand aan en de samenwerking met de Partijen die landen in Afrika zijn te rationaliseren teneinde de doeltreffendheid van projecten en programma's te vergroten, onder andere door:
 
@@ -924,11 +949,11 @@ De Partijen verplichten zich ertoe, in overeenstemming met hun onderscheiden mog
 
 - c. de te verlenen technische bijstand doelmatig te beheren en te coördineren en daarvan efficiënt gebruik te maken.
 
-#### Artikel 17. Overdracht, verwerving en aanpassing van en toegang tot milieuverantwoorde technologie
+##### Artikel 17. Overdracht, verwerving en aanpassing van en toegang tot milieuverantwoorde technologie
 
 Bij de toepassing van artikel 18 van het Verdrag met betrekking tot de overdracht, verwerving, aanpassing en ontwikkeling van technologie verplichten de Partijen zich ertoe prioriteit te geven aan de Partijen die landen in Afrika zijn en, indien nodig, met hen nieuwe modellen voor partnerschap en samenwerking te ontwikkelen teneinde de capaciteitsvergroting op het gebied van wetenschappelijk onderzoek & ontwikkeling en de vergaring en verspreiding van informatie te versterken om hen in staat te stellen uitvoering te geven aan hun strategieën gericht op het bestrijden van woestijnvorming en het inperken van de gevolgen van droogte.
 
-#### Artikel 18. Coördinatie en partnerschapsakkoorden
+##### Artikel 18. Coördinatie en partnerschapsakkoorden
 
 1. De Partijen die landen in Afrika zijn, coördineren de opstelling van, het onderhandelen over en het uitvoeren van nationale, subregionale en regionale actieprogramma's. Zij kunnen, in voorkomend geval, andere Partijen en daarvoor in aanmerking komende intergouvernementele en niet-gouvernementele organisaties daarbij betrekken.
 
@@ -960,7 +985,7 @@ Bij de toepassing van artikel 18 van het Verdrag met betrekking tot de overdrach
 
 7. Overeenkomstig artikel 14 van het Verdrag worden de Partijen die ontwikkelde landen zijn aangemoedigd om op eigen initiatief onderling een informeel proces van overleg en coördinatie tot stand te brengen op nationaal, subregionaal en regionaal niveau en om, op verzoek van een Partij die getroffen land in Afrika is of van een daarvoor in aanmerking komende subregionale of regionale organisatie, deel te nemen aan nationaal, subregionaal of regionaal overleg dat behoeften aan bijstand evalueert en daarin voorziet, teneinde de uitvoering te vergemakkelijken.
 
-#### Artikel 19. Follow-up-regelingen
+##### Artikel 19. Follow-up-regelingen
 
 De follow-up van deze Bijlage wordt uitgevoerd door de Partijen die landen in Afrika zijn, zulks in overeenstemming met het Verdrag en als volgt:
 
@@ -970,11 +995,11 @@ De follow-up van deze Bijlage wordt uitgevoerd door de Partijen die landen in Af
 
 - c. op regionaal niveau, door mechanismen vastgesteld in overeenstemming met de desbetreffende bepalingen van het Verdrag tot oprichting van de Afrikaanse Economische Gemeenschap en een Afrikaanse Wetenschappelijke en Technische Adviescommissie.
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Deze Bijlage heeft tot doel te voorzien in richtlijnen en regelingen voor een doeltreffende uitvoering van het Verdrag in de Partijen die getroffen landen in de Aziatische regio zijn, gelet op de bijzondere omstandigheden van die regio.
 
-#### Artikel 2. Bijzondere omstandigheden van de Aziatische regio
+##### Artikel 2. Bijzondere omstandigheden van de Aziatische regio
 
 Bij de nakoming van hun verplichtingen ingevolge het Verdrag nemen de Partijen, in voorkomend geval, de volgende bijzondere omstandigheden in aanmerking die in uiteenlopende mate van toepassing zijn op de Partijen die getroffen landen in deze regio zijn:
 
@@ -990,13 +1015,13 @@ Bij de nakoming van hun verplichtingen ingevolge het Verdrag nemen de Partijen, 
 
 - f. hun behoefte aan internationale samenwerking om doelstellingen van duurzame ontwikkeling na te streven die verband houden met het bestrijden van woestijnvorming en het inperken van de gevolgen van droogte.
 
-#### Artikel 3. Kader voor nationale actieprogramma's
+##### Artikel 3. Kader voor nationale actieprogramma's
 
 1. Nationale actieprogramma's dienen een integrerend deel uit te maken van een meer omvattend nationaal beleid inzake duurzame ontwikkeling van de Partijen die getroffen landen in de regio zijn.
 
 2. De Partijen die getroffen landen zijn, ontwikkelen, waar nodig, nationale actieprogramma's in overeenstemming met de artikelen 9 tot en met 11 van het Verdrag, daarbij bijzondere aandacht bestedend aan artikel 10, tweede lid, letter f. Zo nodig kunnen instellingen voor bilaterale en multilaterale samenwerking hierbij worden betrokken op verzoek van het betrokken getroffen land dat Partij is.
 
-#### Artikel 4. Nationale actieprogramma's
+##### Artikel 4. Nationale actieprogramma's
 
 1. Bij de opstelling en uitvoering van nationale actieprogramma's kunnen de Partijen die getroffen landen in de regio zijn, overeenkomstig hun onderscheiden omstandigheden en beleid, onder andere, naar gelang het geval:
 
@@ -1020,7 +1045,7 @@ Bij de nakoming van hun verplichtingen ingevolge het Verdrag nemen de Partijen, 
 
 2. Overeenkomstig artikel 10 van het Verdrag dient in de algemene strategie van nationale actieprogramma's de nadruk te worden gelegd op geïntegreerde plaatselijke ontwikkelingsprogramma's voor getroffen gebieden, gebaseerd op participatiemechanismen en op het integreren van strategieën voor armoedebestrijding in inspanningen gericht op het bestrijden van woestijnvorming en het inperken van de gevolgen van droogte. Sectoriële maatregelen in actieprogramma's dienen te worden gebundeld op prioriteitsterreinen die rekening houden met de grote verscheidenheid aan getroffen gebieden in de in artikel 2, letter a, bedoelde regio.
 
-#### Artikel 5. Subregionale en gezamenlijke actieprogramma's
+##### Artikel 5. Subregionale en gezamenlijke actieprogramma's
 
 1. Op grond van artikel 11 van het Verdrag kunnen de Partijen die getroffen landen in Azië zijn onderling overeenkomen, waar mogelijk, overleg te plegen en samen te werken met andere Partijen om subregionale of gezamenlijke actieprogramma's op te stellen en uit te voeren, naar gelang het geval, ter aanvulling van nationale actieprogramma's en ter vergroting van de doelmatigheid van de uitvoering daarvan. In beide gevallen kunnen de betrokken Partijen gezamenlijk besluiten subregionale organisaties, met inbegrip van bilaterale of nationale organisaties, of gespecialiseerde instellingen te belasten met taken die verband houden met de opstelling, coördinatie en uitvoering van programma's. Deze organisaties of instellingen kunnen ook fungeren als steunpunt ter stimulering en coördinering van maatregelen ingevolge de artikelen 16 en 18 van het Verdrag.
 
@@ -1036,7 +1061,7 @@ Bij de nakoming van hun verplichtingen ingevolge het Verdrag nemen de Partijen, 
 
 3. Subregionale of gezamenlijke actieprogramma's kunnen mede omvatten: overeengekomen gezamenlijke programma's voor duurzaam beheer van grensoverschrijdende natuurlijke rijkdommen die verband houden met woestijnvorming, prioriteiten voor coördinatie en andere activiteiten op het gebied van capaciteitsvergroting, wetenschappelijke en technische samenwerking, met name waarschuwingssystemen voor verdroging en uitwisseling van informatie, en middelen om de desbetreffende subregionale en andere organisaties of instellingen te versterken.
 
-#### Artikel 6. Regionale activiteiten
+##### Artikel 6. Regionale activiteiten
 
 Regionale activiteiten om subregionale of gezamenlijke actieprogramma's kracht bij te zetten kunnen, onder andere, omvatten: maatregelen gericht op versterking van instellingen en mechanismen voor coördinatie en samenwerking op nationaal, subregionaal en regionaal niveau, en op het bevorderen van de toepassing van de artikelen 16 tot en met 19 van het Verdrag. Deze activiteiten kunnen tevens behelzen:
 
@@ -1048,7 +1073,7 @@ Regionale activiteiten om subregionale of gezamenlijke actieprogramma's kracht b
 
 - d. het stimuleren van bewustmakingsprogramma's en het bevorderen van capaciteitsvergroting op alle niveaus, het versterken van opleiding, onderzoek & ontwikkeling en het opzetten van systemen voor vorming van arbeidskrachten.
 
-#### Artikel 7. Financiële middelen en mechanismen
+##### Artikel 7. Financiële middelen en mechanismen
 
 1. De Partijen bevorderen, gezien het belang van het bestrijden van woestijnvorming en het inperken van de gevolgen van droogte in de Aziatische regio, het beschikbaar (doen) stellen van aanzienlijke financiële middelen en de beschikbaarheid van financiële mechanismen, zulks overeenkomstig de artikelen 20 en 21 van het Verdrag.
 
@@ -1062,7 +1087,7 @@ Regionale activiteiten om subregionale of gezamenlijke actieprogramma's kracht b
 
 3. De Partijen stroomlijnen, voor zover mogelijk, de procedures om gelden te sluizen naar de Partijen die getroffen landen in de regio zijn.
 
-#### Artikel 8. Mechanismen voor samenwerking en coördinatie
+##### Artikel 8. Mechanismen voor samenwerking en coördinatie
 
 1. Via de ingevolge artikel 4, eerste lid, letter a, aangewezen daarvoor in aanmerking komende lichamen kunnen de Partijen die getroffen landen zijn en andere Partijen in de regio, waar mogelijk, mechanismen opzetten, onder andere voor de volgende doeleinden:
 
@@ -1086,11 +1111,11 @@ Regionale activiteiten om subregionale of gezamenlijke actieprogramma's kracht b
 
 - c. andere informatie te verstrekken die van belang kan zijn bij het tot stand brengen of verbeteren van de coördinatie.
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Deze Bijlage heeft tot doel algemene richtlijnen te geven voor de uitvoering van het Verdrag in de Latijns-Amerikaanse en Caribische regio, gelet op de bijzondere omstandigheden van die regio.
 
-#### Artikel 2. Bijzondere omstandigheden van de Latijns-Amerikaanse en Caribische regio
+##### Artikel 2. Bijzondere omstandigheden van de Latijns-Amerikaanse en Caribische regio
 
 De Partijen nemen, overeenkomstig de bepalingen van het Verdrag, de volgende bijzondere omstandigheden van de regio in aanmerking:
 
@@ -1100,13 +1125,13 @@ De Partijen nemen, overeenkomstig de bepalingen van het Verdrag, de volgende bij
 
 - c. een forse daling van de produktiviteit van ecosystemen, als voornaamste gevolg van woestijnvorming en droogte, in de vorm van een teruglopend rendement van landbouw, veeteelt en bosbouw en een verlies aan biologische diversiteit; vanuit sociaal oogpunt zijn de gevolgen: verpaupering, migratie, binnenlandse bevolkingsbewegingen en verslechtering van de kwaliteit van het leven; de regio zal daarom een geïntegreerde aanpak van de problemen van woestijnvorming en droogte moeten aannemen, door modellen voor duurzame ontwikkeling te bevorderen die inspelen op de ecologische, economische en sociale omstandigheden in ieder land.
 
-#### Artikel 3. Actieprogramma's
+##### Artikel 3. Actieprogramma's
 
 1. In overeenstemming met het Verdrag, in het bijzonder de artikelen 9 tot en met 11 daarvan, en overeenkomstig hun nationale ontwikkelingsbeleid stellen de Partijen die getroffen landen in de regio zijn, waar mogelijk, nationale actieprogramma's op gericht op het bestrijden van woestijnvorming en het inperken van de gevolgen van droogte, en voeren zij deze uit, als integrerend deel van hun nationale beleid inzake duurzame ontwikkeling. Er kunnen subregionale en regionale programma's worden opgesteld en uitgevoerd overeenkomstig de behoeften van de regio.
 
 2. Bij het opstellen van hun nationale actieprogramma's schenken de Partijen die getroffen landen in de regio zijn bijzondere aandacht aan artikel 10, tweede lid, letter f, van het Verdrag.
 
-#### Artikel 4. Inhoud van nationale actieprogramma's
+##### Artikel 4. Inhoud van nationale actieprogramma's
 
 Gelet op hun onderscheiden omstandigheden, kunnen de Partijen die getroffen landen in de regio zijn, onder andere, de volgende thema's in aanmerking nemen bij het ontwikkelen van hun nationale strategieën gericht op het bestrijden van woestijnvorming en/of het inperken van de gevolgen van droogte, zulks overeenkomstig artikel 5 van het Verdrag:
 
@@ -1134,7 +1159,7 @@ Gelet op hun onderscheiden omstandigheden, kunnen de Partijen die getroffen land
 
 - l. vorming of versteviging van institutionele en wettelijke kaders ten behoeve van de toepassing van het Verdrag en gericht op, onder andere, decentralisatie van overheidsstructuren en -taken met betrekking tot woestijnvorming en droogte, met participatie van getroffen gemeenschappen en de samenleving in het algemeen.
 
-#### Artikel 5. Technische, wetenschappelijke en technologische samenwerking
+##### Artikel 5. Technische, wetenschappelijke en technologische samenwerking
 
 In overeenstemming met het Verdrag, in het bijzonder de artikelen 16 tot en met 18 daarvan, en op basis van het in artikel 7 bedoelde coördinerende mechanisme, zullen de Partijen die getroffen landen in de regio zijn, afzonderlijk of gezamenlijk:
 
@@ -1148,7 +1173,7 @@ In overeenstemming met het Verdrag, in het bijzonder de artikelen 16 tot en met 
 
 - e. de ontwikkeling, aanpassing, aanneming en overdracht van daarvoor in aanmerking komende bestaande en nieuwe milieuverantwoorde technologieën bevorderen.
 
-#### Artikel 6. Financiële middelen en mechanismen
+##### Artikel 6. Financiële middelen en mechanismen
 
 In overeenstemming met het Verdrag, in het bijzonder de artikelen 20 en 21 daarvan, op basis van het in artikel 7 bedoelde coördinerende mechanisme en overeenkomstig hun nationale ontwikkelingsbeleid, zullen de Partijen die getroffen landen in de regio zijn, afzonderlijk of gezamenlijk:
 
@@ -1158,7 +1183,7 @@ In overeenstemming met het Verdrag, in het bijzonder de artikelen 20 en 21 daarv
 
 - c. de participatie bevorderen van instellingen voor bilaterale en/of multilaterale financiële samenwerking teneinde zorg te dragen voor de uitvoering van het Verdrag.
 
-#### Artikel 7. Institutioneel kader
+##### Artikel 7. Institutioneel kader
 
 1. Teneinde uitvoering te geven aan deze Bijlage zullen de Partijen die getroffen landen in de regio zijn:
 
@@ -1182,11 +1207,11 @@ In overeenstemming met het Verdrag, in het bijzonder de artikelen 20 en 21 daarv
 
 - c. andere informatie te verstrekken die van belang kan zijn bij het tot stand brengen of verbeteren van de coördinatie.
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Deze Bijlage heeft tot doel te voorzien in richtlijnen en regelingen die noodzakelijk zijn voor een doeltreffende uitvoering van het Verdrag in de Partijen die getroffen landen in het noordelijk Middellandse-Zeegebied zijn, gelet op de bijzondere omstandigheden van die regio.
 
-#### Artikel 2. Bijzondere omstandigheden van het noordelijke Middellandse Zeegebied
+##### Artikel 2. Bijzondere omstandigheden van het noordelijke Middellandse Zeegebied
 
 De in artikel 1 bedoelde bijzondere omstandigheden van het noordelijke Middellandse-Zeegebied omvatten:
 
@@ -1204,17 +1229,17 @@ De in artikel 1 bedoelde bijzondere omstandigheden van het noordelijke Middellan
 
 - g. concentratie van economische bedrijvigheid in kustgebieden ten gevolge van verstedelijking, industriële activiteiten, toerisme en landbouw met bevloeiing.
 
-#### Artikel 3. Kader voor strategische planning ten behoeve van duurzame ontwikkeling
+##### Artikel 3. Kader voor strategische planning ten behoeve van duurzame ontwikkeling
 
 1. Nationale actieprogramma's dienen een centraal en integrerend deel uit te maken van het kader voor strategische planning ten behoeve van duurzame ontwikkeling in de Partijen die getroffen landen in het noordelijke Middellandse-Zeegebied zijn.
 
 2. Er dient een op overleg en participatie gebaseerd proces, waarbij overheden op het juiste niveau, plaatselijke gemeenschappen en niet-gouvernementele organisaties zijn betrokken, op gang te worden gebracht om te voorzien in sturing voor een strategie met een flexibele planning, teneinde voor een zo groot mogelijke plaatselijke participatie te zorgen, overeenkomstig artikel 10, tweede lid, letter f, van het Verdrag.
 
-#### Artikel 4. Verplichting tot het opstellen van nationale actieprogramma's en tijdschema
+##### Artikel 4. Verplichting tot het opstellen van nationale actieprogramma's en tijdschema
 
 De Partijen die getroffen landen in het noordelijke Middellandse-Zeegebied zijn, dienen nationale actieprogramma's en, waar mogelijk, subregionale, regionale of gezamenlijke actieprogramma's op te stellen. De opstelling van deze programma's dient zo spoedig mogelijk te worden gefinaliseerd.
 
-#### Artikel 5. Opstelling en uitvoering van nationale actieprogramma's
+##### Artikel 5. Opstelling en uitvoering van nationale actieprogramma's
 
 Bij de opstelling en uitvoering van nationale actieprogramma's ingevolge de artikelen 9 en 10 van het Verdrag zal elke Partij die getroffen land in de regio is, waar mogelijk:
 
@@ -1230,7 +1255,7 @@ Bij de opstelling en uitvoering van nationale actieprogramma's ingevolge de arti
 
 - f. procedures en referentiepunten ontwikkelen en gebruiken ten behoeve van het toezicht op en de evaluatie van de uitvoering van het programma.
 
-#### Artikel 6. Inhoud van nationale actieprogramma's
+##### Artikel 6. Inhoud van nationale actieprogramma's
 
 De Partijen die getroffen landen in de regio zijn, kunnen in hun nationale actieprogramma's maatregelen opnemen met betrekking tot:
 
@@ -1246,7 +1271,7 @@ De Partijen die getroffen landen in de regio zijn, kunnen in hun nationale actie
 
 - f. onderzoek, opleiding en bewustmaking.
 
-#### Artikel 7. Subregionale, regionale en gezamenlijke actieprogramma's
+##### Artikel 7. Subregionale, regionale en gezamenlijke actieprogramma's
 
 1. De Partijen die getroffen landen in de regio zijn, kunnen in overeenstemming met artikel 11 van het Verdrag subregionale en/of regionale actieprogramma's opstellen en uitvoeren in aanvulling op en ter vergroting van de doelmatigheid van nationale actieprogramma's. Twee of meer Partijen die getroffen landen in de regio zijn, kunnen eveneens overeenkomen onderling een gezamenlijk actieprogramma op te stellen.
 
@@ -1260,15 +1285,15 @@ De Partijen die getroffen landen in de regio zijn, kunnen in hun nationale actie
 
 - c. tussen Partijen in de regio bestaande programma's met betrekking tot woestijnvorming, alsook het verband tussen die programma's en nationale actieprogramma's, beoordelen.
 
-#### Artikel 8. Coördinatie van subregionale, regionale en gezamenlijke actieprogramma's
+##### Artikel 8. Coördinatie van subregionale, regionale en gezamenlijke actieprogramma's
 
 De Partijen die getroffen landen zijn en die een subregionaal, regionaal of gezamenlijk actieprogramma opstellen, kunnen een coördinatiecommissie instellen, bestaande uit vertegenwoordigers van elke Partij die getroffen land is; deze commissie toetst de gemaakte vorderingen bij het bestrijden van woestijnvorming, harmoniseert de nationale actieprogramma's, doet aanbevelingen in de verschillende stadia van de opstelling en uitvoering van de subregionale, regionale of gezamenlijke actieprogramma's en treedt op als steunpunt voor de bevordering en coördinatie van technische samenwerking ingevolge de artikelen 16 tot en met 19 van het Verdrag.
 
-#### Artikel 9. Het niet in aanmerking komen voor financiële hulp
+##### Artikel 9. Het niet in aanmerking komen voor financiële hulp
 
 Bij de uitvoering van nationale, subregionale, regionale of gezamenlijke actieprogramma's komen de Partijen die getroffen ontwikkelde landen in de regio zijn niet in aanmerking van financiële hulp ingevolge dit Verdrag.
 
-#### Artikel 10. Coördinatie met andere subregio's en regio's
+##### Artikel 10. Coördinatie met andere subregio's en regio's
 
 Subregionale, regionale en gezamenlijke actieprogramma's in het noordelijke Middellandse-Zeegebied kunnen worden opgesteld en uitgevoerd in samenwerking met die van andere subregio's en regio's, in het bijzonder met die van de subregio Noord-Afrika.
 

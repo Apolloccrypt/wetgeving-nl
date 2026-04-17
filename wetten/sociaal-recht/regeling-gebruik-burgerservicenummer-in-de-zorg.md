@@ -1,13 +1,39 @@
 ---
-title: "Regeling gebruik burgerservicenummer in de zorg"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 mei 2008, nr. MEVA/ICT-2838255, houdende regels omtrent het gebruik van het burgerservicenummer in de zorg (Regeling gebruik burgerservicenummer in de zorg)"
 identifier: "BWBR0023923"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-11-11
-laatste_update: 2025-11-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023923"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-11"
+last_updated: "2025-11-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023923"
+soort: "ministeriele-regeling"
+stam_id: "9516433"
+version_id: "15380412"
+internal_id: "C20987161"
+label_id: "9493614"
+dtd_version: "2.0"
+original_entry_into_force: "2008-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023923/2025-11-11/0"
+intitule_bron: "Stcrt.2008-105"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-05-26"
+intitule_published: "2008-06-04"
+intitule_in_force: "2008-05-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-105"
+original_signed_date: "2008-05-26"
+original_published_date: "2008-06-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-105-p59-SC85884"
+entry_into_force_date: "2008-06-01"
+jci_1_3: "jci1.3:c:BWBR0023923&z=2025-11-11&g=2025-11-11"
+jci_1_0: "1.0:c:BWBR0023923&g=2025-11-11"
+citeertitel_status: "officieel"
+short_title: "Regeling gebruik burgerservicenummer in de zorg"
+signed_date: "2008-05-26"
+entry_into_force: "2008-06-01"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 mei 2008, nr. MEVA/ICT-2838255, houdende regels omtrent het gebruik van het burgerservicenummer in de zorg (Regeling gebruik burgerservicenummer in de zorg)
 
 Gelet op [artikel 10 van de Wet gebruik burgerservicenummer in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=10), de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=44) en[52, zevende lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=52), de [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=86), [87, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=87), [88, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=88), en [89, zesde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=89) en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=3), [6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=6), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=21), [22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=24) en [30 van het Besluit gebruik burgerservicenummer in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=30);
@@ -16,7 +42,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Wet gebruik burgerservicenummer in de zorg in werking treedt. De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,11 +64,11 @@ In deze regeling wordt verstaan onder:
 
 - i. toegangsmiddel: toegangsmiddel als bedoeld in [artikel 1, onderdeel j, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 De gegevensverwerking, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=8) en [9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=9), in [artikel 9.1.1, vierde lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=9.1.1), in [artikel 86, eerste, vierde en vijfde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=86) en in de [artikelen 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=28), en [29 van het Besluit gebruik burgerservicenummer in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=29) voldoet aan de NEN 7510.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij een aanvraag als bedoeld in [artikel 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=3) verstrekt een zorgverzekeraar de gegevens en bescheiden bedoeld in het CPS-ZOVAR.
 
@@ -50,7 +76,7 @@ De gegevensverwerking, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jc
 
 3. Bij een aanvraag als bedoeld in [artikel 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=3) verstrekt een indicatieorgaan de gegevens en bescheiden bedoeld in het CPS-UZI-register.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aanvraag, de toekenning, het beheer, de beveiliging, het gebruik en de intrekking van een toegangsmiddel ten behoeve van een zorgverzekeraar geschiedt overeenkomstig de wijze zoals beschreven in het CPS-ZOVAR.
 
@@ -58,11 +84,11 @@ De gegevensverwerking, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jc
 
 3. De aanvraag, de toekenning, het beheer, de beveiliging, het gebruik en de intrekking van een toegangsmiddel ten behoeve van een indicatieorgaan geschiedt overeenkomstig de wijze zoals beschreven in het CPS-UZI-register.
 
-#### Artikel 5
+##### Artikel 5
 
 De Minister publiceert op het internet de gegevens die zijn opgenomen in verstrekte toegangsmiddelen als bedoeld in [artikel 18, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=18).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor een toegangsmiddel wordt een vergoeding voor twee jaar in rekening gebracht van:
 
@@ -72,23 +98,23 @@ De Minister publiceert op het internet de gegevens die zijn opgenomen in verstre
 
 2. Restitutie van betaalde vergoedingen, bedoeld in het eerste lid, is niet mogelijk, tenzij naar het oordeel van Onze Minister sprake is van een omstandigheid die niet kan worden toegerekend aan degene ten behoeve van wie de pas of het certificaat is geproduceerd.
 
-#### Artikel 7
+##### Artikel 7
 
 De geldigheid van het toegangsmiddel is twee jaar gerekend vanaf de datum van uitgifte van het toegangsmiddel.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Regeling subsidies AWBZ.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Regeling zorgverzekering.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking op het tijdstip waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023864) in werking treedt.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling gebruik burgerservicenummer in de zorg.
 

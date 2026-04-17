@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel intrekking CV/BV- Besluit en heroverweging Besluit IFZ 1997/204M"
 identifier: "BWBR0042888"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-12-16
-laatste_update: 2019-12-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042888"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2019-12-16"
+last_updated: "2019-12-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042888"
+soort: "beleidsregel"
+stam_id: "15275443"
+version_id: "26315092"
+internal_id: "C37403221"
+label_id: "15221294"
+dtd_version: "2.0"
+original_entry_into_force: "2019-12-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042888/2019-12-16/0"
+intitule_bron: "Stcrt.2019-66196"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-03"
+intitule_published: "2019-12-16"
+intitule_in_force: "2019-12-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-66196"
+original_signed_date: "2019-12-03"
+original_published_date: "2019-12-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-66196"
+entry_into_force_date: "2019-12-16"
+jci_1_3: "jci1.3:c:BWBR0042888&z=2019-12-16&g=2019-12-16"
+jci_1_0: "1.0:c:BWBR0042888&g=2019-12-16"
+citeertitel_status: "redactioneel"
+signed_date: "2019-12-03"
+entry_into_force: "2019-12-16"
 ---
-
 # Beleidsregel intrekking CV/BV- Besluit en heroverweging Besluit IFZ 1997/204M
 
 De Staatssecretaris van Financiën heeft het volgende besloten:

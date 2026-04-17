@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel nadeelcompensatie verleggen kabels en leidingen vanwege rijkswaterstaatswerken, rijkswegen en hoofdspoorwegen 2024"
+title: "Besluit van 20 december 2023, nr. IENW/BSK-2023/377178, tot vaststelling van de Beleidsregel nadeelcompensatie verleggen kabels en leidingen vanwege rijkswaterstaatswerken, rijkswegen en hoofdspoorwegen 2024"
 identifier: "BWBR0049123"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049123"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049123"
+soort: "beleidsregel"
+stam_id: "16977163"
+version_id: "29845412"
+internal_id: "C42781651"
+label_id: "16887674"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049123/2024-01-01/0"
+intitule_bron: "Stcrt.2023-35448"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-20"
+intitule_published: "2023-12-21"
+intitule_in_force: "2023-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-35448"
+original_signed_date: "2023-12-20"
+original_published_date: "2023-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-35448"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0049123&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0049123&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel nadeelcompensatie verleggen kabels en leidingen vanwege rijkswaterstaatswerken, rijkswegen en hoofdspoorwegen 2024"
+signed_date: "2023-12-20"
+entry_into_force: "2024-01-01"
 ---
-
 # Besluit van 20 december 2023, nr. IENW/BSK-2023/377178, tot vaststelling van de Beleidsregel nadeelcompensatie verleggen kabels en leidingen vanwege rijkswaterstaatswerken, rijkswegen en hoofdspoorwegen 2024
 
 Gelet op de [artikelen 4:126](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126) en [4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen en toepassingsbereik
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -56,7 +82,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - **wet:** de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
-#### Artikel 2. Toepassingsbereik
+##### Artikel 2. Toepassingsbereik
 
 1. Deze beleidsregel heeft betrekking op een aanvraag als bedoeld in [artikel 4:126 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126) om vergoeding van schade voor zover de minister ten gevolge van verruiming of wijziging van een rijkswaterstaatswerk, rijksweg of hoofdspoorweg een vergunning intrekt of wijzigt, of een verlegplichtmededeling doet met als gevolg dat een langsleiding of kruisende leiding verlegd of aangepast moet worden.
 
@@ -64,7 +90,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ### Hoofdstuk 2. Procedurebepalingen
 
-#### Artikel 3. Aanvraag
+##### Artikel 3. Aanvraag
 
 1. De aanvrager maakt gebruik van een door de minister vastgesteld formulier.
 
@@ -76,11 +102,11 @@ In deze beleidsregel wordt verstaan onder:
 
 3. De minister bevestigt de ontvangst van de aanvraag.
 
-#### Artikel 4. Omvang van de schade
+##### Artikel 4. Omvang van de schade
 
 De omvang van de schade wordt berekend overeenkomstig de bij deze beleidsregel behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049123&bijlage=1&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 5. Normaal maatschappelijk risico
+##### Artikel 5. Normaal maatschappelijk risico
 
 De vergoeding van de schade als bedoeld in [artikel 4:126, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126) bestaat bij:
 
@@ -94,7 +120,7 @@ De vergoeding van de schade als bedoeld in [artikel 4:126, eerste lid, van de we
 
 - c. een buitenleiding uit de componenten kosten van ontwerp en begeleiding alsmede uitvoeringskosten van de werkelijke verleggingskosten.
 
-#### Artikel 6. Risicoaanvaarding
+##### Artikel 6. Risicoaanvaarding
 
 Van risicoaanvaarding als bedoeld in [artikel 4:126, tweede lid, sub a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126) is in ieder geval sprake indien:
 
@@ -104,19 +130,19 @@ Van risicoaanvaarding als bedoeld in [artikel 4:126, tweede lid, sub a, van de w
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 7. Voorschot
+##### Artikel 7. Voorschot
 
 De minister kan de aanvrager die naar redelijke verwachting in aanmerking komt voor een vergoeding in geld als bedoeld in [artikel 4:126 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126) en wiens belang naar het oordeel van de minister vordert dat aan hem een voorschot op deze vergoeding wordt toegekend, op aanvraag een voorschot toekennen.
 
-#### Artikel 8. Intrekking
+##### Artikel 8. Intrekking
 
 De [Nadeelcompensatieregeling verleggen kabels en leidingen in en buiten rijkswaterstaatswerken en spoorwegwerken 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010461) (NKL 1999) wordt ingetrokken.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2024.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel nadeelcompensatie verleggen kabels en leidingen vanwege rijkswaterstaatswerken, rijkswegen en hoofdspoorwegen 2024.
 

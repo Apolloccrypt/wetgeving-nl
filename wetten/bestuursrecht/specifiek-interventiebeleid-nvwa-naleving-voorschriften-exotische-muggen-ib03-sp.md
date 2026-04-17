@@ -1,13 +1,39 @@
 ---
-title: "Specifiek interventiebeleid NVWA naleving voorschriften exotische muggen (IB03-SPEC 09, versie 03)"
+title: "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 april 2025 tot vaststelling van het Specifiek interventiebeleid NVWA naleving voorschriften exotische muggen (IB03-SPEC 09, versie 03)"
 identifier: "BWBR0051185"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-17
-laatste_update: 2025-07-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051185"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-07-17"
+last_updated: "2025-07-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051185"
+soort: "beleidsregel"
+stam_id: "17461733"
+version_id: "30796942"
+internal_id: "C44141041"
+label_id: "17364284"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051185/2025-07-17/0"
+intitule_bron: "Stcrt.2025-22463"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-04-15"
+intitule_published: "2025-07-03"
+intitule_in_force: "2025-07-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-22463"
+original_signed_date: "2025-04-15"
+original_published_date: "2025-07-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-22463"
+entry_into_force_date: "2025-07-17"
+jci_1_3: "jci1.3:c:BWBR0051185&z=2025-07-17&g=2025-07-17"
+jci_1_0: "1.0:c:BWBR0051185&g=2025-07-17"
+citeertitel_status: "officieel"
+short_title: "Specifiek interventiebeleid NVWA naleving voorschriften exotische muggen (IB03-SPEC 09, versie 03)"
+signed_date: "2025-04-15"
+entry_into_force: "2025-07-17"
 ---
-
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 april 2025 tot vaststelling van het Specifiek interventiebeleid NVWA naleving voorschriften exotische muggen (IB03-SPEC 09, versie 03)
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,

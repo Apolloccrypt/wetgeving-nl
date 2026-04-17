@@ -1,13 +1,37 @@
 ---
 title: "Instelling werkgroep fiscaal-technische herziening loon- en inkomstenbelasting"
 identifier: "BWBR0007153"
-categorie: "Belastingrecht"
-publicatiedatum: 1995-02-01
-laatste_update: 1995-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007153"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1995-02-01"
+last_updated: "1995-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007153"
+soort: "ministeriele-regeling"
+stam_id: "3729553"
+version_id: "5512512"
+internal_id: "C5705601"
+label_id: "3709394"
+dtd_version: "2.0"
+original_entry_into_force: "1995-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007153/1995-02-01/0"
+intitule_bron: "Stcrt.1994-251"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-12-22"
+intitule_published: "1994-12-29"
+intitule_in_force: "1994-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.1994-251"
+original_signed_date: "1994-12-22"
+original_published_date: "1994-12-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-02-01"
+jci_1_3: "jci1.3:c:BWBR0007153&z=1995-02-01&g=1995-02-01"
+jci_1_0: "1.0:c:BWBR0007153&g=1995-02-01"
+citeertitel_status: "officieel"
+signed_date: "1994-12-22"
+entry_into_force: "1995-02-01"
 ---
-
 # Instelling werkgroep fiscaal-technische herziening loon- en inkomstenbelasting
 
 Overwegende dat het wenselijk is de werkgroep fiscaal-technische herziening van de loon- en inkomstenbelasting in te stellen;
@@ -16,11 +40,11 @@ Besluit:
 
 #### § 1. Instelling en taak
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een werkgroep fiscaal-technische herziening van de loon- en inkomstenbelasting.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De werkgroep heeft tot taak om op drie niveaus de loon- en inkomstenbelasting door te lichten.
 
@@ -66,7 +90,7 @@ Het derde niveau behelst de opzet van de loon- en inkomstenbelasting. Aan de wer
 
 #### § 2. Samenstelling en werkwijze
 
-#### Artikel 3
+##### Artikel 3
 
 1. Tot lid, tevens voorzitter van de werkgroep wordt benoemd: mr. D.E. Witteveen
 
@@ -114,33 +138,33 @@ Het derde niveau behelst de opzet van de loon- en inkomstenbelasting. Aan de wer
 
 - prof. dr. J.W. Zwemmer
 
-#### Artikel 4
+##### Artikel 4
 
 Ter uitvoering van haar taak kan de werkgroep zich rechtstreeks tot derden wenden voor het verkrijgen van inlichtingen en hen zo nodig ter vergadering uitnodigen om hun mening nader uiteen te laten zetten.
 
-#### Artikel 5
+##### Artikel 5
 
 De werkgroep kan uit haar midden – en met instemming van de Staatssecretaris van Financiën ook aangevuld met personen die geen zitting hebben in de werkgroep – subwerkgroepen instellen om een of meer deelgebieden te bewerken. Deze subwerkgroepen, waarvan de voorzitter door de Staatssecretaris van Financiën wordt aangewezen, rapporteren aan de werkgroep.
 
-#### Artikel 6
+##### Artikel 6
 
 De werkgroep brengt op verzoek van de Staatssecretaris van Financiën tussentijds verslag uit.
 
-#### Artikel 7
+##### Artikel 7
 
 De werkgroep legt haar laatste voorstellen uiterlijk per 1 april 1996 aan de Staatssecretaris van Financiën over.
 
 #### § 3. Overige bepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 De leden van de werkgroep, voor zover geen ambtenaar, ontvangen vacatiegelden alsmede een vergoeding voor de reis- en verblijfkosten volgens de bestaande rijksregelingen, voor zover niet uit anderen hoofde een vergoeding van deze kosten wordt verleend uit 's-Rijks kas.
 
-#### Artikel 9
+##### Artikel 9
 
 Een ieder die betrokken is bij de werkzaamheden van de werkgroep en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan behoudens voor zover wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot bekendmaking voortvloeit.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Dit besluit wordt bekend gemaakt in de Staatscourant.
 

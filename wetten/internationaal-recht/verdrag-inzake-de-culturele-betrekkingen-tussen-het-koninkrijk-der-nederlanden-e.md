@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake de culturele betrekkingen tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Mexico"
 identifier: "BWBV0004213"
-categorie: "Internationaal recht"
-publicatiedatum: 1966-07-21
-laatste_update: 1966-07-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004213"
+country: "nl"
+rank: "verdrag"
+publication_date: "1966-07-21"
+last_updated: "1966-07-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004213"
+soort: "verdrag"
+stam_id: "10004006273"
+version_id: "10004166792"
+internal_id: "C10008335921"
+label_id: "10003990794"
+dtd_version: "2.0"
+original_entry_into_force: "1966-07-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004213/1966-07-21/0"
+intitule_bron: "Trb.1964-71"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1964-05-22"
+intitule_in_force: "1966-09-15"
+intitule_status: "goed"
+original_publication: "Trb.1964-71"
+original_published_date: "1964-05-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1964-71"
+entry_into_force_date: "1966-07-21"
+jci_1_3: "jci1.3:c:BWBV0004213&z=1966-07-21&g=1966-07-21"
+jci_1_0: "1.0:c:BWBV0004213&g=1966-07-21"
+citeertitel_status: "redactioneel"
+entry_into_force: "1966-07-21"
 ---
-
 # Verdrag inzake de culturele betrekkingen tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Mexico
 
 De Regering van het Koninkrijk der Nederlanden en
@@ -28,7 +50,7 @@ de Heer José Gorostiza, Minister van Buitenlandse Betrekkingen,
 
 Die, na hun in goede vorm bevonden volmachten te hebben overgelegd, het volgende zijn overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 Teneinde in hun respectievelijke landen een betere kennis van de cultuur van het andere land te bevorderen, zullen de Verdragsluitende Partijen elkaar, zoveel als mogelijk is, bijstaan bij:
 
@@ -44,27 +66,27 @@ Teneinde in hun respectievelijke landen een betere kennis van de cultuur van het
 
 - f). het uitwisselen van copieën van in de officiële archieven en bibliotheken van elk der twee landen aanwezige documenten die van belang zijn voor het andere land, mits de wettelijke bepalingen van elk der landen zich niet tegen uitwisseling op dit gebied verzetten.
 
-#### Artikel II
+##### Artikel II
 
 De Verdragsluitende Partijen bevorderen tussen de onderscheiden landen de uitwisseling van professoren, onderzoekers op wetenschappelijk gebied en studenten, alsmede van andere personen die speciale belangstelling hebben voor culturele werkzaamheden.
 
-#### Artikel III
+##### Artikel III
 
 De Verdragsluitende Partijen stimuleren het organiseren en het ontwikkelen van cursussen aan hun universiteiten en andere instellingen van onderwijs en onderzoek die betrekking hebben op de cultuur en op de beschaving van de andere Partij.
 
-#### Artikel IV
+##### Artikel IV
 
 Teneinde onderdanen van elk der Verdragsluitende Partijen in staat te stellen in het andere land te studeren en onderzoekingen te verrichten, onderzoekt elk der Partijen de mogelijkheid om aan de onderdanen van de andere Partij beurzen en andere faciliteiten te verstrekken.
 
-#### Artikel V
+##### Artikel V
 
 De Verdragsluitende Partijen bevorderen de samenwerking tussen wetenschappelijke en andere culturele instellingen in de twee landen.
 
-#### Artikel VI
+##### Artikel VI
 
 Elk der Verdragsluitende Partijen vergemakkelijkt voor de onderdanen van de andere Partij de toegang tot haar musea, bibliotheken en andere voorlichtingscentra.
 
-#### Artikel VII
+##### Artikel VII
 
 In elk land zal een Commissie worden ingesteld, die tot taak zal hebben de Regering voorstellen te doen die betrekking hebben op de uitvoering van dit Verdrag.
 
@@ -76,11 +98,11 @@ De ledenlijst van elk der Commissies wordt langs diplomatieke weg ter goedkeurin
 
 Elke Commissie vergadert steeds wanneer daartoe aanleiding bestaat en ten minste een maal per jaar. De Diplomatieke Vertegenwoordiger van de ene Verdragsluitende Partij kan worden uitgenodigd om deel te nemen aan de beraadslagingen van de Commissie van de andere Verdragsluitende Partij.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op Nederland, Suriname en de Nederlandse Antillen.
 
-#### Artikel IX
+##### Artikel IX
 
 Dit Verdrag dient te worden bekrachtigd en de akten van bekrachtiging zullen zo spoedig mogelijk te 's-Gravenhage worden uitgewisseld.
 

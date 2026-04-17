@@ -1,13 +1,39 @@
 ---
-title: "Besluit voogdijraad BES"
+title: "Besluit van 3 april 2012 betreffende de samenstelling en werkwijze van de voogdijraad BES (Besluit voogdijraad BES)"
 identifier: "BWBR0031445"
-categorie: "Overig"
-publicatiedatum: 2012-04-13
-laatste_update: 2012-04-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031445"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2012-04-13"
+last_updated: "2012-04-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031445"
+soort: "AMvB-BES"
+stam_id: "11706953"
+version_id: "19328392"
+internal_id: "C26991691"
+label_id: "11679764"
+dtd_version: "2.0"
+original_entry_into_force: "2012-04-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031445/2012-04-13/0"
+intitule_bron: "Stb.2012-151"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-04-03"
+intitule_published: "2012-04-12"
+intitule_in_force: "2012-04-12"
+intitule_status: "goed"
+original_publication: "Stb.2012-151"
+original_signed_date: "2012-04-03"
+original_published_date: "2012-04-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-151"
+entry_into_force_date: "2012-04-13"
+jci_1_3: "jci1.3:c:BWBR0031445&z=2012-04-13&g=2012-04-13"
+jci_1_0: "1.0:c:BWBR0031445&g=2012-04-13"
+citeertitel_status: "officieel"
+short_title: "Besluit voogdijraad BES"
+signed_date: "2012-04-03"
+entry_into_force: "2012-04-13"
 ---
-
 # Besluit van 3 april 2012 betreffende de samenstelling en werkwijze van de voogdijraad BES (Besluit voogdijraad BES)
 
 Op de voordracht van de Staatssecretaris van Veiligheid en Justitie van 19 januari 2012, nr. 5722490/12/6, Directie Wetgeving;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Veiligheid en Justitie van 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,11 +56,11 @@ In dit besluit wordt verstaan onder:
 
 - c. **openbaar lichaam:** Bonaire, Sint Eustatius of Saba.
 
-#### Artikel 2
+##### Artikel 2
 
 De voogdijraad heeft een vertegenwoordiging in elk der openbare lichamen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De voogdijraad bestaat uit drie leden, de voorzitter inbegrepen, die elk afkomstig zijn uit een ander openbaar lichaam.
 
@@ -44,7 +70,7 @@ De voogdijraad heeft een vertegenwoordiging in elk der openbare lichamen.
 
 4. De voogdijraad besluit met meerderheid van stemmen. Elk lid heeft één stem. Als de stemmen staken beslist de voorzitter.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De leden en de plaatsvervangende leden worden benoemd, geschorst en ontslagen door Onze Minister.
 
@@ -52,7 +78,7 @@ De voogdijraad heeft een vertegenwoordiging in elk der openbare lichamen.
 
 3. De benoeming van de leden en de plaatsvervangende leden geschiedt op basis van een aanbeveling van de voogdijraad en voor een periode van zes jaar. Een herbenoeming voor een periode van zes jaar is eenmaal mogelijk.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tussentijds ontslag wordt verleend aan een lid of een plaatsvervangend lid:
 
@@ -70,17 +96,17 @@ De voogdijraad heeft een vertegenwoordiging in elk der openbare lichamen.
 
 2. De leden en plaatsvervangende leden van de voogdijraad kunnen door Onze Minister worden geschorst wegens zwaarwegende en in de persoon van betrokkene gelegen redenen die leiden tot ongeschiktheid of onbekwaamheid voor de vervulde functie. Het schorsingsbesluit regelt de gevolgen van de schorsing.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Wanneer een vacature van lid of plaatsvervangend lid openvalt, geeft de voogdijraad onverwijld kennis aan Onze Minister, onder aanbieding van de aanbeveling als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031445&artikel=4&z=2012-04-13&g=2012-04-13).
 
 2. Bij een periodiek aftreden van leden of plaatsvervangende leden geschieden de kennisgeving en de aanbeveling, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031445&artikel=4&z=2012-04-13&g=2012-04-13), uiterlijk drie maanden vóór het tijdstip van aftreden.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij belet, ontstentenis of afwezigheid wordt de voorzitter vervangen door de plaatsvervangende voorzitter en bij belet, ontstentenis of afwezigheid van de plaatsvervangende voorzitter door het in dienstjaren oudste lid. Bij gelijke diensttijd geschiedt de vervanging door het in leeftijd oudste lid.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een lid van de voogdijraad vervult geen nevenfuncties die ongewenst zijn met het oog op een goede vervulling van zijn functie, de handhaving van zijn onafhankelijkheid of van het vertrouwen daarin.
 
@@ -88,13 +114,13 @@ Bij belet, ontstentenis of afwezigheid wordt de voorzitter vervangen door de pla
 
 3. Nevenfuncties van leden en plaatsvervangende leden van de voogdijraad worden door de voogdijraad openbaar gemaakt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Aan de leden en plaatsvervangende leden wordt voor het bijwonen van vergaderingen van de voogdijraad, naast een vergoeding voor reis- en verblijfkosten, per vergadering een vergoeding toegekend van 140 USD. Voor de voorzitter bedraagt deze vergoeding 170 USD.
 
 2. Deze vergoeding kan door Onze Minister jaarlijks per 1 januari worden geïndexeerd op basis van het indexcijfer voor consumentenprijzen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Aan de voogdijraad is een bureau verbonden. De directeur en de medewerkers van het bureau worden door Onze Minister benoemd, geschorst en ontslagen.
 
@@ -106,7 +132,7 @@ Bij belet, ontstentenis of afwezigheid wordt de voorzitter vervangen door de pla
 
 5. Bij belet of ontstentenis van de secretaris wordt deze vervangen door een door Onze Minister aan te wijzen persoon.
 
-#### Artikel 11
+##### Artikel 11
 
 De voogdijraad kan de secretaris machtigen:
 
@@ -116,7 +142,7 @@ De voogdijraad kan de secretaris machtigen:
 
 - c. tot het verstrekken van de inlichtingen of voorlichting, die ter voldoening aan wettelijke voorschriften van de voogdijraad kunnen worden gevraagd.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De voogdijraad stelt een reglement vast, dat de goedkeuring van Onze Minister behoeft en waarin ten minste worden geregeld:
 
@@ -138,25 +164,25 @@ De voogdijraad kan de secretaris machtigen:
 
 3. Het reglement en wijzigingen daarvan worden bekendgemaakt in de Staatscourant.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De kosten van de voogdijraad worden jaarlijks door Onze Minister vergoed, op basis van een uiterlijk op 1 april van het voorafgaande kalenderjaar door de voogdijraad opgestelde en door Onze Minister goedgekeurde begroting.
 
 2. Onze Minister kan de voogdijraad aanwijzingen geven over de inrichting van de begroting.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De voogdijraad voldoet aan de verzoeken van het Openbaar Ministerie, in aangelegenheden minderjarigen betreffende, gedaan.
 
 2. De secretaris is verplicht op rechterlijk verzoek af te geven door hem ondertekende uittreksels uit de notulen van vergaderingen van de voogdijraad.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De voogdijraad brengt jaarlijks voor 1 april verslag uit aan Onze Minister over zijn werkzaamheden, met inbegrip van de taakuitoefening en het gevoerde beleid, in het voorafgaande kalenderjaar. Het jaarverslag wordt tevens in afschrift gezonden aan de Procureur-Generaal, aan het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba alsmede aan de hoofdofficier van het Openbaar Ministerie BES.
 
 2. Tegelijk met het jaarverslag zendt de voogdijraad aan Onze Minister een financieel verslag, houdende opgave van de in het voorafgaande kalenderjaar, ingevolge wettelijk voorschrift als bedoeld in [artikel 12, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0031445&artikel=12&z=2012-04-13&g=2012-04-13), door de voogdijraad ontvangen en betaalde uitkeringen.
 
-#### Artikel 16
+##### Artikel 16
 
 De voogdijraad ziet met betrekking tot de uitoefening van zijn taken en bevoegdheden toe op en legt in het jaarverslag tevens verantwoording af over:
 
@@ -168,19 +194,19 @@ De voogdijraad ziet met betrekking tot de uitoefening van zijn taken en bevoegdh
 
 - d. de zorgvuldige behandeling van klachten die worden ontvangen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De voogdijraad verstrekt desgevraagd aan Onze Minister alle voor de uitoefening van diens taak benodigde inlichtingen. Onze Minister kan inzage vorderen van alle zakelijke gegevens en bescheiden, als dat voor zijn taakvervulling redelijkerwijs nodig is.
 
 2. De voogdijraad geeft bij het verstrekken van de in het eerste lid bedoelde inlichtingen waar nodig aan welke gegevens een vertrouwelijk karakter dragen. Dit vertrouwelijke karakter kan voortvloeien uit de aard van de gegevens dan wel uit het feit dat deze gegevens door derden aan de voogdijraad zijn verstrekt onder het beding dat zij als vertrouwelijk zullen gelden.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Onze Minister kan beleidsregels vaststellen met betrekking tot de taakuitoefening door de voogdijraad.
 
 2. Deze beleidsregels worden in de Staatscourant bekendgemaakt.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Indien de voogdijraad naar het oordeel van Onze Minister zijn taken ernstig verwaarloost, kan Onze Minister de noodzakelijke voorzieningen treffen.
 
@@ -188,25 +214,25 @@ De voogdijraad ziet met betrekking tot de uitoefening van zijn taken en bevoegdh
 
 3. Onze Minister stelt de beide kamers der Staten-Generaal onverwijld in kennis van door hem getroffen voorzieningen als bedoeld in het eerste lid.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Onze Minister kan een besluit van de voogdijraad vernietigen.
 
 2. Van het vernietigingsbesluit wordt mededeling gedaan in de Staatscourant.
 
-#### Artikel 21
+##### Artikel 21
 
 De voorzitter, de leden en de plaatsvervangende leden van de voogdijraad, die als zodanig fungeren op het tijdstip van inwerkingtreding van dit besluit, zijn van rechtswege in de voogdijraad benoemd voor de resterende duur van de termijn van hun aanvankelijke benoeming krachtens het [Besluit voogdijraden 1970 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028430).
 
-#### Artikel 22
+##### Artikel 22
 
 Het [Besluit voogdijraden 1970 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028430) wordt ingetrokken.
 
-#### Artikel 23
+##### Artikel 23
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 24
+##### Artikel 24
 
 Dit besluit wordt aangehaald als: Besluit voogdijraad BES.
 

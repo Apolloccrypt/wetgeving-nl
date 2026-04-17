@@ -1,18 +1,43 @@
 ---
-title: "Beleidsregels voor de uitvoering van artikel 7a van de Woningwet"
+title: "Beleidsregels voor de uitvoering van artikel 7A van de Woningwet"
 identifier: "BWBR0010248"
-categorie: "Bestuursrecht"
-publicatiedatum: 1999-02-10
-laatste_update: 1999-02-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010248"
+country: "nl"
+rank: "circulaire"
+publication_date: "1999-02-10"
+last_updated: "1999-02-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010248"
+soort: "circulaire"
+stam_id: "6408363"
+version_id: "11074732"
+internal_id: "C14984851"
+label_id: "6397164"
+original_entry_into_force: "1999-02-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010248/1999-02-10/0"
+intitule_bron: "Stcrt.1999-26"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-01-29"
+intitule_published: "1999-02-08"
+intitule_in_force: "1999-02-08"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-26"
+original_signed_date: "1999-01-29"
+original_published_date: "1999-02-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1999-26-p8-SC17529"
+entry_into_force_date: "1999-02-10"
+jci_1_3: "jci1.3:c:BWBR0010248&z=1999-02-10&g=1999-02-10"
+jci_1_0: "1.0:c:BWBR0010248&g=1999-02-10"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels voor de uitvoering van artikel 7a van de Woningwet"
+signed_date: "1999-01-29"
+entry_into_force: "1999-02-10"
 ---
-
 # Beleidsregels voor de uitvoering van artikel 7A van de Woningwet
 
 Deze beleidsregels geven uitvoering aan [artikel 7a, eerste lid van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7a).
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -26,11 +51,11 @@ In deze beleidsregels wordt verstaan onder:
 
 **ontheffing,** toestemming van de Minister als bedoeld in [artikel 7a, lid 2 en 3 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7a).
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 In deze beleidsregels wordt onder een project verstaan de op bepaalde percelen nieuw te bouwen bouwwerken of het op een bepaald perceel nieuw te bouwen bouwwerk óf de te verrichten werkzaamheden aan bouwwerken op bepaalde percelen of aan het bouwwerk op een bepaald perceel, waarvoor door burgemeester en wethouders een aanvraag om ontheffing bij de Minister is ingediend.
 
-#### Artikel 3. Inhoudelijke voorwaarden verkrijgen ontheffing
+##### Artikel 3. Inhoudelijke voorwaarden verkrijgen ontheffing
 
 Een ontheffing kan slechts door de Minister worden verleend indien is voldaan aan de volgende inhoudelijke criteria:
 
@@ -46,11 +71,11 @@ Een ontheffing kan slechts door de Minister worden verleend indien is voldaan aa
 
 - d. de resultaten van het project zijn met de toegepaste dubo-voorzieningen bruikbaar voor andere projecten.
 
-#### Artikel 4. Procedurele voorwaarde verkrijgen ontheffing
+##### Artikel 4. Procedurele voorwaarde verkrijgen ontheffing
 
 Een ontheffing kan slechts door de Minister worden verleend indien door burgemeester en wethouders, voordat een aanvraag om ontheffing wordt ingediend, met de voor het project relevante bouw- en milieupartijen overleg is gevoerd om tot vrijwillige uitvoering van het project te komen.
 
-#### Artikel 5. Procedure verlenen ontheffing
+##### Artikel 5. Procedure verlenen ontheffing
 
 1. De beslissing omtrent verlening van ontheffing vindt plaats op basis van een aanvraag die is ingediend door middel van het formulier, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010248&bijlage=1&z=1999-02-10&g=1999-02-10) bij deze beleidsregels.
 
@@ -60,11 +85,11 @@ Een ontheffing kan slechts door de Minister worden verleend indien door burgemee
 
 4. De gemeente draagt direct na het verkrijgen van een ontheffing zorg voor publiekelijke bekendmaking van de nadere voorschriften en/of nieuwe voorschriften die als gevolg van de ontheffing op het project van toepassing zijn.
 
-#### Artikel 6. Aanvraag bouwvergunning
+##### Artikel 6. Aanvraag bouwvergunning
 
 Aan een ontheffing wordt het voorschrift verbonden dat de ontheffing slechts ten uitvoer kan worden gelegd met ingang van 14 maanden na het bekendmaken daarvan.
 
-#### Artikel 7. Verslaglegging
+##### Artikel 7. Verslaglegging
 
 1. Burgemeester en wethouders waaraan ontheffing is verleend, melden direct na de oplevering van het project dat het project gereed is middels het formulier dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010248&bijlage=2&z=1999-02-10&g=1999-02-10) aan deze beleidsregels is toegevoegd.
 
@@ -82,11 +107,11 @@ Aan een ontheffing wordt het voorschrift verbonden dat de ontheffing slechts ten
 
 - e. de uitvoerbaarheid in termen van handhaafbaarheid en (administratieve) lasten.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze beleidsregels treden in werking met ingang van 2 dagen na de dagtekening van de Staatscourant waarin zij worden geplaatst.
 
-#### Artikel 9. Aanhaling
+##### Artikel 9. Aanhaling
 
 Deze beleidsregels worden aangehaald als: Beleidsregels voor de uitvoering van artikel 7a van de Woningwet.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019"
+title: "Besluit van de directeur-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit van 22 februari 2019, nr. 19054182, houdende verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019 (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019)"
 identifier: "BWBR0041998"
-categorie: "Milieu"
-publicatiedatum: 2024-07-02
-laatste_update: 2024-07-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041998"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-07-02"
+last_updated: "2024-07-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041998"
+soort: "ministeriele-regeling"
+stam_id: "15022753"
+version_id: "25737482"
+internal_id: "C36710301"
+label_id: "14972474"
+dtd_version: "2.0"
+original_entry_into_force: "2019-03-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041998/2024-07-02/0"
+intitule_bron: "Stcrt.2019-14283"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-02-22"
+intitule_published: "2019-03-18"
+intitule_in_force: "2019-03-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-14283"
+original_signed_date: "2019-02-22"
+original_published_date: "2019-03-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-14283"
+entry_into_force_date: "2019-03-19"
+jci_1_3: "jci1.3:c:BWBR0041998&z=2024-07-02&g=2024-07-02"
+jci_1_0: "1.0:c:BWBR0041998&g=2024-07-02"
+citeertitel_status: "officieel"
+short_title: "Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019"
+signed_date: "2019-02-22"
+entry_into_force: "2019-03-19"
 ---
-
 # Besluit van de directeur-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit van 22 februari 2019, nr. 19054182, houdende verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019 (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019)
 
 Gelet op [artikel 10 van het Besluit mandaat, volmacht en machtiging LNV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&artikel=10);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Taakverdeling tussen de directeur-generaal en de onder hem ressorterende medewerkers
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen dan een besluit of een privaatrechtelijke rechtshandeling betreffende de volgende aangelegenheden:
 
@@ -46,7 +72,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 - 2°. die door een directeur aan de directeur-generaal ter afhandeling worden voorgelegd, tenzij zij naar het oordeel van de directeur-generaal door een andere directeur moeten worden behandeld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de directeuren wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 2.000.000 per verplichting niet te boven gaat.
 
@@ -62,7 +88,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 - e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de MT-leden wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 100.000 per verplichting niet te boven gaat.
 
@@ -84,15 +110,15 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 - 2°. die door een MT-lid aan de directeur worden voorgelegd, tenzij zij naar het oordeel van de directeur door een ander MT-lid moeten worden behandeld.
 
-#### Artikel 5
+##### Artikel 5
 
 Aan de Chief Veterinary Officer wordt ondermandaat en machtiging verleend voor aangelegenheden op zijn werkterrein.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Aan de programmadirecteur Regieorganisatie GLB wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein.
 
@@ -108,13 +134,13 @@ Vervallen
 
 - e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
 #### § 3. Vervanging
 
-#### Artikel 9
+##### Artikel 9
 
 1. De uit dit besluit voor een directeur, de Chief Veterinary Officer of de programmadirecteur Regieorganisatie GLB voortvloeiende bevoegdheden gaan in geval van afwezigheid over op zijn plaatsvervanger. Bij afwezigheid van zowel de directeur als zijn plaatsvervanger gaan de uit dit besluit voortvloeiende bevoegdheden over op een door de directeur aangewezen MT-lid van die directie.
 
@@ -122,21 +148,21 @@ Vervallen
 
 #### § 4. Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Het [Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal voor Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041602) wordt ingetrokken.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking met ingang van de eerste dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2019.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 Aan de directeur Dierlijke Agroketens en Dierenwelzijn wordt ondermandaat en machtiging verleend voor het vaststellen van ministeriële regelingen als bedoeld in [artikel 5.2 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.2).
 

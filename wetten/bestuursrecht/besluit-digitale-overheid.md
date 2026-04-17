@@ -1,13 +1,39 @@
 ---
-title: "Besluit digitale overheid"
+title: "Besluit van 17 mei 2016, houdende regels betreffende de verwerking van persoonsgegevens in de voorzieningen voor de generieke digitale infrastructuur DigiD, DigiD Machtigen, MijnOverheid en BSN-Koppelregister (Besluit verwerking persoonsgegevens generieke digitale infrastructuur)"
 identifier: "BWBR0037987"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-04-01
-laatste_update: 2024-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037987"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-04-01"
+last_updated: "2024-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037987"
+soort: "AMvB"
+stam_id: "13558663"
+version_id: "29715242"
+internal_id: "C42670961"
+label_id: "13525634"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037987/2024-04-01/0"
+intitule_bron: "Stb.2016-195"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-05-17"
+intitule_published: "2016-05-27"
+intitule_in_force: "2016-05-27"
+intitule_status: "goed"
+original_publication: "Stb.2023-390"
+original_signed_date: "2023-10-30"
+original_published_date: "2023-11-07"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2023-390"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0037987&z=2024-04-01&g=2024-04-01"
+jci_1_0: "1.0:c:BWBR0037987&g=2024-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit digitale overheid"
+signed_date: "2023-10-30"
+entry_into_force: "2024-01-01"
 ---
-
 # Besluit van 17 mei 2016, houdende regels betreffende de verwerking van persoonsgegevens in de voorzieningen voor de generieke digitale infrastructuur DigiD, DigiD Machtigen, MijnOverheid en BSN-Koppelregister (Besluit verwerking persoonsgegevens generieke digitale infrastructuur)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 januari 2016, nr. 2016-0000023784 DCB/CZW/SB;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -104,7 +130,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. De verwerking van persoonsgegevens
 
-#### Artikel 2. Persoonsgegevens DigiD
+##### Artikel 2. Persoonsgegevens DigiD
 
 Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, werking, beveiliging en betrouwbaarheid van DigiD de volgende persoonsgegevens:
 
@@ -156,7 +182,7 @@ Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, 
 
 - d. over afnemers van DigiD: administratieve gegevens noodzakelijk in verband met het gebruik door de afnemer van DigiD, waaronder de naam van de bevoegde bestuurder van de rechtspersoon die gebruik maakt van DigiD en de naam, de functie, het e-mailadres en het telefoonnummer van contactpersonen bij de betreffende afnemer.
 
-#### Artikel 3. Persoonsgegevens DigiD Machtigen
+##### Artikel 3. Persoonsgegevens DigiD Machtigen
 
 Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, werking, beveiliging en betrouwbaarheid van DigiD Machtigen de volgende persoonsgegevens:
 
@@ -178,7 +204,7 @@ Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, 
 
 - c. over afnemers van DigiD Machtigen: administratieve gegevens noodzakelijk in verband met het gebruik door de afnemer van DigiD Machtigen, waaronder de naam van de bevoegde bestuurder van de rechtspersoon die gebruik maakt van DigiD Machtigen en de naam, de functie, het e-mailadres en het telefoonnummer van contactpersonen bij de betreffende afnemer.
 
-#### Artikel 4. Persoonsgegevens MijnOverheid
+##### Artikel 4. Persoonsgegevens MijnOverheid
 
 Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, werking, beveiliging en betrouwbaarheid van MijnOverheid de volgende persoonsgegevens:
 
@@ -216,7 +242,7 @@ Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, 
 
 - d. over afnemers van MijnOverheid: administratieve gegevens noodzakelijk in verband met het gebruik door de afnemer van MijnOverheid, waaronder, indien van toepassing, de naam van de bevoegde bestuurder van de rechtspersoon die gebruik maakt van MijnOverheid en de naam, de functie, het e-mailadres en het telefoonnummer van contactpersonen bij de betreffende afnemer.
 
-#### Artikel 5. Persoonsgegevens BSN-Koppelregister
+##### Artikel 5. Persoonsgegevens BSN-Koppelregister
 
 Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, werking, beveiliging en betrouwbaarheid van het BSN-Koppelregister de volgende persoonsgegevens:
 
@@ -234,7 +260,7 @@ Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, 
 
 ### Hoofdstuk 3. De verstrekking van persoonsgegevens
 
-#### Artikel 6. Verstrekkingen in verband met DigiD
+##### Artikel 6. Verstrekkingen in verband met DigiD
 
 1. Onze Minister verstrekt aan de afnemers van DigiD, aan de eIDAS-voorziening en aan een routeringsvoorziening:
 
@@ -250,7 +276,7 @@ Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, 
 
 - b. het door de gebruiker van DigiD gekozen betrouwbaarheidsniveau en het IP-adres.
 
-#### Artikel 7. Verstrekkingen in verband met DigiD Machtigen
+##### Artikel 7. Verstrekkingen in verband met DigiD Machtigen
 
 Onze Minister verstrekt op verzoek van afnemers van DigiD Machtigen:
 
@@ -258,7 +284,7 @@ Onze Minister verstrekt op verzoek van afnemers van DigiD Machtigen:
 
 - b. een overzicht van alle machtigingsaanvragen en machtigingsregistraties die voor diensten van de betreffende afnemer zijn afgegeven.
 
-#### Artikel 8. Verstrekkingen in verband met MijnOverheid
+##### Artikel 8. Verstrekkingen in verband met MijnOverheid
 
 Onze Minister verstrekt aan een afnemer van MijnOverheid:
 
@@ -272,7 +298,7 @@ Onze Minister verstrekt aan een afnemer van MijnOverheid:
 
 - d. op verzoek van een afnemer, gegevens over het ontvangen door een gebruiker van een notificatie over een bericht waarop het verzoek ziet of het eventueel falen daarvan, de bijbehorende datum en de tijd en het bijbehorende burgerservicenummer.
 
-#### Artikel 9. Verstrekkingen in verband met het BSN-Koppelregister
+##### Artikel 9. Verstrekkingen in verband met het BSN-Koppelregister
 
 Onze Minister verstrekt uit het BSN-koppelregister:
 
@@ -280,7 +306,7 @@ Onze Minister verstrekt uit het BSN-koppelregister:
 
 - b. het uniek identificerend nummer in afgeleide vorm aan de eIDAS-voorziening.
 
-#### Artikel 10. Overige verstrekkingen
+##### Artikel 10. Overige verstrekkingen
 
 Onverminderd het bepaalde in de [artikelen 6 tot en met 9d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=3&artikel=6&z=2024-04-01&g=2024-04-01), verstrekt Onze Minister geen gegevens over een bezoeker of gebruiker van de in de [artikelen 2 tot en met 5d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01) genoemde voorzieningen en middelen of de uit onderzoek voortgekomen gegevens, bedoeld in [artikel 5f, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5f&z=2024-04-01&g=2024-04-01), aan anderen dan de bezoeker of de gebruiker zelf zonder voorafgaande toestemming van de bezoeker of de gebruiker, tenzij:
 
@@ -290,7 +316,7 @@ Onverminderd het bepaalde in de [artikelen 6 tot en met 9d](https://wetten.overh
 
 ### Hoofdstuk 4. De bewaartermijn van persoonsgegevens
 
-#### Artikel 11. Bewaartermijnen in verband met DigiD
+##### Artikel 11. Bewaartermijnen in verband met DigiD
 
 1. De gegevens over bezoekers van DigiD, bedoeld in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01), worden maximaal 18 maanden bewaard.
 
@@ -320,7 +346,7 @@ Onverminderd het bepaalde in de [artikelen 6 tot en met 9d](https://wetten.overh
 
 12. Een reservekopie van alle in dit artikel genoemde gegevens wordt maximaal vier maanden bewaard nadat de bewaartermijnen bedoeld in de andere leden van dit artikel zijn verlopen.
 
-#### Artikel 12. Bewaartermijnen in verband met DigiD Machtigen
+##### Artikel 12. Bewaartermijnen in verband met DigiD Machtigen
 
 1. De gegevens over bezoekers van DigiD Machtigen, bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01), worden maximaal 18 maanden bewaard.
 
@@ -338,7 +364,7 @@ Onverminderd het bepaalde in de [artikelen 6 tot en met 9d](https://wetten.overh
 
 8. Een reservekopie van alle in dit artikel genoemde gegevens wordt maximaal vier maanden bewaard.
 
-#### Artikel 13. Bewaartermijnen in verband met MijnOverheid
+##### Artikel 13. Bewaartermijnen in verband met MijnOverheid
 
 1. De gegevens over bezoekers van MijnOverheid, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), worden maximaal 18 maanden bewaard.
 
@@ -366,7 +392,7 @@ Onverminderd het bepaalde in de [artikelen 6 tot en met 9d](https://wetten.overh
 
 9. Een reservekopie van alle in dit artikel genoemde gegevens wordt maximaal vier maanden bewaard.
 
-#### Artikel 14. Bewaartermijnen in verband met het BSN-Koppelregister
+##### Artikel 14. Bewaartermijnen in verband met het BSN-Koppelregister
 
 De bewaartermijn van de gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5&z=2024-04-01&g=2024-04-01), is als volgt:
 
@@ -376,23 +402,23 @@ De bewaartermijn van de gegevens, bedoeld in [artikel 5](https://wetten.overheid
 
 - c. de gegevens over afnemers van de BSN-Koppelregister, bedoeld in artikel 5, onderdeel b, worden bewaard voor de duur van het gebruik van het BSN-Koppelregister en daarna maximaal vijf jaar.
 
-#### Artikel 15. Vernietiging na afloop bewaartermijn
+##### Artikel 15. Vernietiging na afloop bewaartermijn
 
 Na het verstrijken van de bewaartermijn worden de gegevens zo spoedig mogelijk vernietigd.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 november 2015.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit verwerking persoonsgegevens generieke digitale infrastructuur.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a. Aanvulling grondslag
+##### Artikel 1a. Aanvulling grondslag
 
 De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=1&artikel=1&z=2024-04-01&g=2024-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=4&artikel=13&z=2024-04-01&g=2024-04-01) van dit besluit berusten mede op [artikel 20, derde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=20).
 
@@ -406,7 +432,7 @@ De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=1&art
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 3a. Persoonsgegevens bevoegdheidsverklaringsdienst
+##### Artikel 3a. Persoonsgegevens bevoegdheidsverklaringsdienst
 
 Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, werking, beveiliging en betrouwbaarheid van de bevoegdheidsverklaringsdienst de volgende persoonsgegevens over:
 
@@ -432,7 +458,7 @@ Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, 
 
 - c. afnemers van de bevoegdheidsverklaringsdienst: administratieve gegevens noodzakelijk in verband met het gebruik door de afnemer van de bevoegdheidsverklaringsdienst, waaronder, indien van toepassing, de naam van de bevoegde bestuurder van de rechtspersoon die gebruik maakt van de bevoegdheidsverklaringsdienst en de naam, de functie, het e-mailadres en het telefoonnummer van contactpersonen bij de betreffende afnemer.
 
-#### Artikel 3b. Persoonsgegevens gezagsmodule
+##### Artikel 3b. Persoonsgegevens gezagsmodule
 
 1. Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, werking, beveiliging en betrouwbaarheid van de gezagsmodule, voor het opstellen van een verklaring als bedoeld in [artikel 7b, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=3&artikel=7b&z=2024-04-01&g=2024-04-01), de volgende persoonsgegevens over:
 
@@ -506,7 +532,7 @@ Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, 
 
 ### Hoofdstuk 3. De verstrekking van persoonsgegevens
 
-#### Artikel 7a. Verstrekkingen in verband met de bevoegdheidsverklaringsdienst
+##### Artikel 7a. Verstrekkingen in verband met de bevoegdheidsverklaringsdienst
 
 Onze Minister verstrekt:
 
@@ -518,7 +544,7 @@ Onze Minister verstrekt:
 
 - 2. de dienst en de naam van de dienstaanbieder waar de beoogd vertegenwoordiger gebruik van wil maken.
 
-#### Artikel 7b. Verstrekkingen in verband met de gezagsmodule
+##### Artikel 7b. Verstrekkingen in verband met de gezagsmodule
 
 Onze Minister verstrekt uit de gezagsmodule:
 
@@ -538,7 +564,7 @@ Onze Minister verstrekt uit de gezagsmodule:
 
 ### Hoofdstuk 4. De bewaartermijn van persoonsgegevens
 
-#### Artikel 12a. Bewaartermijnen in verband met de bevoegdheidsverklaringsdienst
+##### Artikel 12a. Bewaartermijnen in verband met de bevoegdheidsverklaringsdienst
 
 1. De gegevens bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3a&z=2024-04-01&g=2024-04-01) worden niet langer bewaard dan de duur van de sessie.
 
@@ -546,7 +572,7 @@ Onze Minister verstrekt uit de gezagsmodule:
 
 3. In afwijking van het eerste lid worden de gegevens over afnemers, bedoeld in [artikel 3a, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3a&z=2024-04-01&g=2024-04-01), bewaard voor de duur van het gebruik door de afnemer, en daarna maximaal vijf jaar.
 
-#### Artikel 12b. Bewaartermijnen in verband met de gezagsmodule
+##### Artikel 12b. Bewaartermijnen in verband met de gezagsmodule
 
 1. De gegevens bedoeld in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3b&z=2024-04-01&g=2024-04-01) worden niet langer bewaard dan de duur van de sessie.
 
@@ -558,7 +584,7 @@ Onze Minister verstrekt uit de gezagsmodule:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 5a. Persoonsgegevens routeringsvoorziening
+##### Artikel 5a. Persoonsgegevens routeringsvoorziening
 
 Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, werking en betrouwbaarheid van de routeringsvoorziening de volgende persoonsgegevens over:
 
@@ -574,15 +600,15 @@ Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, 
 
 - c. afnemers van de routeringsvoorziening: administratieve gegevens noodzakelijk in verband met het gebruik door de afnemer van de routeringsvoorziening, waaronder, indien van toepassing, de naam van de bevoegde bestuurder van de rechtspersoon die gebruik maakt van de routeringsvoorziening en de naam, de functie, het e-mailadres en het telefoonnummer van contactpersonen bij de betreffende afnemer.
 
-#### Artikel 5b. Persoonsgegevens privaat identificatiemiddel en - diensten
+##### Artikel 5b. Persoonsgegevens privaat identificatiemiddel en - diensten
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 5c. Persoonsgegevens bedrijfs- en organisatiemiddel en - diensten
+##### Artikel 5c. Persoonsgegevens bedrijfs- en organisatiemiddel en - diensten
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 5d. Persoonsgegevens eIDAS-voorziening
+##### Artikel 5d. Persoonsgegevens eIDAS-voorziening
 
 1. Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, werking en beveiliging van de eIDAS-voorziening de volgende persoonsgegevens over de gebruiker van een toegelaten of erkend identificatiemiddel die dit middel wil gebruiken in het kader van elektronische dienstverlening:
 
@@ -608,11 +634,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 - d. adres.
 
-#### Artikel 5e. Doelbinding
+##### Artikel 5e. Doelbinding
 
 De gegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01) en [5 tot en met 5d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5&z=2024-04-01&g=2024-04-01) worden niet gebruikt voor andere doeleinden dan de goede werking van identificatiemiddelen en de goede en veilige toegang met die middelen of via machtiging tot elektronische dienstverlening.
 
-#### Artikel 5f. Persoonsgegevens misbruik en oneigenlijk gebruik
+##### Artikel 5f. Persoonsgegevens misbruik en oneigenlijk gebruik
 
 Onze Minister kan de volgende gegevens verwerken, indien dit noodzakelijk is voor het waarborgen van de veilige toegang tot en de werking van de elektronische dienstverlening en het voorkomen van misbruik of oneigenlijk gebruik van de toegang tot elektronische dienstverlening:
 
@@ -624,19 +650,19 @@ Onze Minister kan de volgende gegevens verwerken, indien dit noodzakelijk is voo
 
 ### Hoofdstuk 3. De verstrekking van persoonsgegevens
 
-#### Artikel 9a. Verstrekkingen in verband met de routeringsvoorziening
+##### Artikel 9a. Verstrekkingen in verband met de routeringsvoorziening
 
 Onze Minister verstrekt de voornaam, achternaam, geboortedatum, het burgerservicenummer, een afgeleide vorm van het uniek identificerend nummer in geval van authenticatie buiten Nederland, geboortenaam, geboorteplaats, actueel adres en geslacht en het gebruikte betrouwbaarheidsniveau van de gebruiker van een toegelaten privaat of publiek identificatiemiddel die dit middel gebruikt in het kader van elektronische dienstverlening door bestuursorganen of aangewezen organisaties, en het burgerservicenummer van de vertegenwoordigde zo mogelijk in versleutelde of afgeleide vorm aan de bedoelde bestuursorganen of aangewezen organisaties.
 
-#### Artikel 9b. Verstrekkingen in verband met een privaat identificatiemiddel
+##### Artikel 9b. Verstrekkingen in verband met een privaat identificatiemiddel
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 9c. Verstrekkingen in verband met een bedrijfs- en organisatiemiddel
+##### Artikel 9c. Verstrekkingen in verband met een bedrijfs- en organisatiemiddel
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 9d. Verstrekkingen in verband met de eIDAS-voorziening
+##### Artikel 9d. Verstrekkingen in verband met de eIDAS-voorziening
 
 Onze Minister verstrekt uit de eIDAS-voorziening:
 
@@ -650,7 +676,7 @@ Onze Minister verstrekt uit de eIDAS-voorziening:
 
 ### Hoofdstuk 4. De bewaartermijn van persoonsgegevens
 
-#### Artikel 14a. Bewaartermijnen in verband met de routeringsvoorziening
+##### Artikel 14a. Bewaartermijnen in verband met de routeringsvoorziening
 
 De bewaartermijn van de gegevens, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5a&z=2024-04-01&g=2024-04-01), is als volgt:
 
@@ -662,15 +688,15 @@ De bewaartermijn van de gegevens, bedoeld in [artikel 5a](https://wetten.overhei
 
 - d. de gegevens over afnemers van de routeringsvoorziening, bedoeld in [artikel 5a, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5a&z=2024-04-01&g=2024-04-01), worden bewaard voor de duur van het gebruik ervan door de routeringsvoorziening en daarna maximaal vijf jaar.
 
-#### Artikel 14b. Bewaartermijnen in verband met het privaat identificatiemiddel
+##### Artikel 14b. Bewaartermijnen in verband met het privaat identificatiemiddel
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 14c. Bewaartermijnen in verband met het bedrijfs- en organisatiemiddel
+##### Artikel 14c. Bewaartermijnen in verband met het bedrijfs- en organisatiemiddel
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 14d. Bewaartermijnen in verband met de eIDAS-voorziening
+##### Artikel 14d. Bewaartermijnen in verband met de eIDAS-voorziening
 
 1. De gegevens, bedoeld in [artikel 5d, eerste lid, onderdelen a en b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5d&z=2024-04-01&g=2024-04-01), worden bewaard zolang de gebruiker het identificatiemiddel gebruikt.
 
@@ -678,11 +704,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 3. De gebruiksgegevens, bedoeld in [artikel 5d, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5d&z=2024-04-01&g=2024-04-01), worden maximaal 5 jaar bewaard na het laatste gebruik, met dien verstande dat de sessiegegevens slechts worden bewaard tot het moment van uitloggen door de gebruiker.
 
-#### Artikel 14e. Bewaartermijnen in verband met misbruik en oneigenlijk gebruik generieke digitale infrastructuur
+##### Artikel 14e. Bewaartermijnen in verband met misbruik en oneigenlijk gebruik generieke digitale infrastructuur
 
 De bewaartermijn van de gegevens, bedoeld in [artikel 5f, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5f&z=2024-04-01&g=2024-04-01), is maximaal 5 jaar na afloop van de in de [artikelen 11 tot en met 14d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=4&artikel=11&z=2024-04-01&g=2024-04-01) genoemde bewaartermijnen.
 
-#### Artikel 15a. Beveiliging van persoonsgegevens
+##### Artikel 15a. Beveiliging van persoonsgegevens
 
 Teneinde de te verwerken persoonsgegevens te beveiligen en deze te beschermen tegen ongeoorloofde of onrechtmatige verwerking en opzettelijk verlies, vernietiging of beschadiging, neemt de in de [artikelen 2 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01) bedoelde verwerker passende technische, organisatorische en personele maatregelen, waaronder inzake de juiste en veilige bediening en gebruik van informatiesystemen, de toegang tot en de beschikbaarheid en integriteit van informatiesystemen en het herkennen en herstellen van beveiligingsinbreuken.
 
@@ -690,11 +716,11 @@ Teneinde de te verwerken persoonsgegevens te beveiligen en deze te beschermen te
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 25. Inwerkingtreding
+##### Artikel 25. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 november 2015.
 
-#### Artikel 26. Citeertitel
+##### Artikel 26. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit digitale overheid.
 

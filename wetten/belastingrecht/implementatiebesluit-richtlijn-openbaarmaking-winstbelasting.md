@@ -1,13 +1,39 @@
 ---
-title: "Implementatiebesluit Richtlijn openbaarmaking winstbelasting"
+title: "Besluit van 14 februari 2024, houdende regels ter implementatie van Richtlijn (EU) 2021/2101 van het Europees Parlement en van de Raad van 24 november 2021 tot wijziging van Richtlijn 2013/34/EU wat betreft de openbaarmaking van informatie over de winstbelasting door bepaalde ondernemingen en bijkantoren (PbEU 2021, L 429) (Implementatiebesluit Richtlijn openbaarmaking winstbelasting)"
 identifier: "BWBR0049420"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-06-22
-laatste_update: 2024-06-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049420"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-06-22"
+last_updated: "2024-06-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049420"
+soort: "AMvB"
+stam_id: "17040583"
+version_id: "29984272"
+internal_id: "C43174601"
+label_id: "16950184"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049420/2024-06-22/0"
+intitule_bron: "Stb.2024-43"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-02-14"
+intitule_published: "2024-03-01"
+intitule_in_force: "2024-06-07"
+intitule_status: "goed"
+original_publication: "Stb.2024-43"
+original_signed_date: "2024-02-14"
+original_published_date: "2024-03-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2024-43"
+entry_into_force_date: "2024-06-22"
+jci_1_3: "jci1.3:c:BWBR0049420&z=2024-06-22&g=2024-06-22"
+jci_1_0: "1.0:c:BWBR0049420&g=2024-06-22"
+citeertitel_status: "officieel"
+short_title: "Implementatiebesluit Richtlijn openbaarmaking winstbelasting"
+signed_date: "2024-02-14"
+entry_into_force: "2024-06-22"
 ---
-
 # Besluit van 14 februari 2024, houdende regels ter implementatie van Richtlijn (EU) 2021/2101 van het Europees Parlement en van de Raad van 24 november 2021 tot wijziging van Richtlijn 2013/34/EU wat betreft de openbaarmaking van informatie over de winstbelasting door bepaalde ondernemingen en bijkantoren (PbEU 2021, L 429) (Implementatiebesluit Richtlijn openbaarmaking winstbelasting)
 
 Op de voordracht van Onze Minister voor Rechtsbescherming van 8 november 2023, Directie Wetgeving en Juridische Zaken, nr. 4942864, gedaan in overeenstemming met de Staatssecretaris van Financiën (Fiscaliteit en Belastingdienst);
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 9 februari
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -40,7 +66,7 @@ Hebben goedgevonden en verstaan:
 
 - b. de inkomsten zoals gedefinieerd door of in de zin van het stelsel voor financiële verslaglegging op basis waarvan de jaarrekeningen worden opgesteld, voor andere vennootschappen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een verslag inzake de winstbelasting wordt jaarlijks opgesteld door het bestuur van:
 
@@ -56,11 +82,11 @@ Hebben goedgevonden en verstaan:
 
 3. Het eerste lid is niet van toepassing op een uiteindelijke moedermaatschappij en een op zichzelf staande vennootschap die een bank of beleggingsonderneming is en die, indien van toepassing op geconsolideerde basis, een mededeling openbaar maakt overeenkomstig [artikel 3 van het Besluit uitvoering publicatieverplichtingen richtlijnen kapitaalvereisten en prudentieel toezicht beleggingsondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0035575&artikel=3).
 
-#### Artikel 3
+##### Artikel 3
 
 Het bestuur van een dochtermaatschappij als bedoeld in [artikel 24a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a), die onder zeggenschap staat van een uiteindelijke moedermaatschappij waarvan de totale geconsolideerde inkomsten op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, blijkens haar geconsolideerde jaarrekening meer bedragen dan € 750.000.000 en die niet valt onder het recht van een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, maakt jaarlijks een verslag inzake de winstbelasting betreffende de uiteindelijke moedermaatschappij openbaar en toegankelijk, indien op die dochtermaatschappij [artikel 396, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) niet van toepassing is.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een bijkantoor maakt jaarlijks een verslag inzake de winstbelasting openbaar en toegankelijk indien de volgende voorwaarden van toepassing zijn:
 
@@ -72,7 +98,7 @@ Het bestuur van een dochtermaatschappij als bedoeld in [artikel 24a van Boek 2 v
 
 2. Het verslag inzake de winstbelasting heeft betrekking op de uiteindelijke moedermaatschappij of de op zichzelf staande vennootschap, bedoeld in het eerste lid, onderdeel b.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=3&z=2024-06-22&g=2024-06-22) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=4&z=2024-06-22&g=2024-06-22) zijn niet van toepassing op dochtermaatschappijen en bijkantoren indien de desbetreffende uiteindelijke moedermaatschappij of op zichzelf staande vennootschap, bedoeld in die artikelen, een verslag inzake de winstbelasting heeft opgesteld overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=7&z=2024-06-22&g=2024-06-22) en aan de volgende voorwaarden is voldaan:
 
@@ -84,7 +110,7 @@ Het bestuur van een dochtermaatschappij als bedoeld in [artikel 24a van Boek 2 v
 
 2. Dochtermaatschappijen en bijkantoren die niet onder [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=3&z=2024-06-22&g=2024-06-22) respectievelijk [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=4&z=2024-06-22&g=2024-06-22) vallen en die slechts dienen om de verplichtingen van dit besluit te omzeilen, publiceren het verslag inzake de winstbelasting.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien het verslag, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=3&z=2024-06-22&g=2024-06-22) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=4&z=2024-06-22&g=2024-06-22) niet beschikbaar is, verzoekt de dochtermaatschappij haar uiteindelijke moedermaatschappij en verzoekt of verzoeken de persoon respectievelijk de personen die in het bijkantoor de openbaarmakingsformaliteiten moeten vervullen, de uiteindelijke moedermaatschappij of de op zichzelf staande vennootschap om alle informatie te verstrekken die zij nodig hebben om te voldoen aan artikel 3 respectievelijk artikel 4.
 
@@ -92,7 +118,7 @@ Het bestuur van een dochtermaatschappij als bedoeld in [artikel 24a van Boek 2 v
 
 3. Het bestuur van de dochtermaatschappij als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=3&z=2024-06-22&g=2024-06-22) en de persoon of personen die in het bijkantoor als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=4&z=2024-06-22&g=2024-06-22) de openbaarmakingsformaliteiten moet of moeten vervullen, is respectievelijk zijn verantwoordelijk om er naar hun beste weten en vermogen voor te zorgen dat het verslag inzake de winstbelasting wordt opgesteld op een wijze die, naargelang het geval, strookt met of in overeenstemming is met dit besluit en dat het wordt openbaar gemaakt en toegankelijk gemaakt overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=11&z=2024-06-22&g=2024-06-22).
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het verslag inzake de winstbelasting omvat informatie over alle activiteiten van de op zichzelf staande vennootschap of van de uiteindelijke moedermaatschappij, inclusief de activiteiten van de rechtspersonen en vennootschappen die een groep of groepsdeel vormen en andere rechtspersonen en vennootschappen die in de geconsolideerde jaarrekening van het betrokken boekjaar zijn meegenomen.
 
@@ -132,7 +158,7 @@ Het bestuur van een dochtermaatschappij als bedoeld in [artikel 24a van Boek 2 v
 
 9. Het verslag inzake de winstbelasting vermeldt of het overeenkomstig het tweede lid dan wel het achtste lid is opgesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het verslag inzake de winstbelasting geeft de informatie, bedoeld in [artikel 7, tweede of achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=7&z=2024-06-22&g=2024-06-22), afzonderlijk weer:
 
@@ -148,7 +174,7 @@ Het bestuur van een dochtermaatschappij als bedoeld in [artikel 24a van Boek 2 v
 
 5. Informatie over een bepaalde activiteit wordt niet gelijktijdig aan meer dan één fiscale jurisdictie toegewezen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. In het verslag kunnen een of meer specifieke gegevens uit de informatie die ingevolge [artikel 7, tweede of achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=7&z=2024-06-22&g=2024-06-22), openbaar moeten worden gemaakt, worden weggelaten indien de openbaarmaking ervan bijzonder nadelig zou zijn voor de concurrentiepositie van de vennootschap waarop de gegevens betrekking hebben. Alle weglatingen worden in het verslag duidelijk aangegeven en terdege gemotiveerd.
 
@@ -156,7 +182,7 @@ Het bestuur van een dochtermaatschappij als bedoeld in [artikel 24a van Boek 2 v
 
 3. Het eerste lid is niet van toepassing op gegevens die betrekking hebben op fiscale jurisdicties als bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=8&z=2024-06-22&g=2024-06-22).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het verslag inzake de winstbelasting wordt opgesteld in de munteenheid waarin de geconsolideerde jaarrekening van de uiteindelijke moedermaatschappij of de jaarrekening van de op zichzelf staande vennootschap openbaar wordt gemaakt.
 
@@ -164,7 +190,7 @@ Het bestuur van een dochtermaatschappij als bedoeld in [artikel 24a van Boek 2 v
 
 3. De bedragen, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=3&z=2024-06-22&g=2024-06-22) en [4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=4&z=2024-06-22&g=2024-06-22), worden omgezet in een bedrag van dezelfde waarde in de nationale munteenheid van de betrokken derde landen door toepassing van de wisselkoers op 21 december 2021, afgerond op het dichtstbijzijnde duizendtal.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het bestuur van de vennootschappen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=2&z=2024-06-22&g=2024-06-22), het bestuur van de dochtermaatschappij, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=3&z=2024-06-22&g=2024-06-22), en het bijkantoor, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=4&z=2024-06-22&g=2024-06-22), maken het verslag inzake de winstbelasting en de verklaring, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=6&z=2024-06-22&g=2024-06-22), binnen twaalf maanden na afloop van het boekjaar openbaar door deponering bij het handelsregister als bedoeld in [artikel 394 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=394).
 
@@ -182,25 +208,25 @@ Het bestuur van een dochtermaatschappij als bedoeld in [artikel 24a van Boek 2 v
 
 5. Op de nakoming van de verplichtingen tot openbaarmaking en het toegankelijk maken van het verslag inzake de winstbelasting, als bedoeld in het eerste respectievelijk tweede lid, is [artikel 394, zevende lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=394) van overeenkomstige toepassing.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien de jaarrekening van een rechtspersoon moet worden onderzocht als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), dan vermeldt de accountant in de verklaring, bedoeld in het vijfde lid van dat artikel, of die rechtspersoon, met betrekking tot het boekjaar dat voorafging aan het boekjaar waarover de te onderzoeken jaarrekening is opgesteld, uit hoofde van dit besluit verplicht was een verslag inzake de winstbelasting openbaar te maken en zo ja, of het verslag in overeenstemming met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=11&z=2024-06-22&g=2024-06-22) is openbaar gemaakt.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt Besluit inhoud bestuursverslag.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt het Besluit rapportage van betalingen aan overheden.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. Dit besluit is van toepassing op verslagen inzake de winstbelasting die worden opgesteld over de boekjaren die aanvangen op of na 22 juni 2024.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit wordt aangehaald als: Implementatiebesluit Richtlijn openbaarmaking winstbelasting.
 

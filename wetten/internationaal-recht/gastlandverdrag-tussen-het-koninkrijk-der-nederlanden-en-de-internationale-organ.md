@@ -1,13 +1,35 @@
 ---
 title: "Gastlandverdrag tussen het Koninkrijk der Nederlanden en de Internationale Organisatie voor Ontwikkelingsrecht"
 identifier: "BWBV0006304"
-categorie: "Internationaal recht"
-publicatiedatum: 2015-04-10
-laatste_update: 2015-04-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006304"
+country: "nl"
+rank: "verdrag"
+publication_date: "2015-04-10"
+last_updated: "2015-04-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006304"
+soort: "verdrag"
+stam_id: "10005154633"
+version_id: "10005514672"
+internal_id: "C10008512481"
+label_id: "10005137544"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006304/2015-04-10/0"
+intitule_bron: "Trb.2014-7"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2014-01-16"
+intitule_in_force: "2014-01-16"
+intitule_status: "goed"
+original_publication: "Trb.2014-7"
+original_published_date: "2014-01-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2014-7"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBV0006304&z=2015-04-10&g=2015-04-10"
+jci_1_0: "1.0:c:BWBV0006304&g=2015-04-10"
+citeertitel_status: "redactioneel"
+entry_into_force: "2014-01-01"
 ---
-
 # Gastlandverdrag tussen het Koninkrijk der Nederlanden en de Internationale Organisatie voor Ontwikkelingsrecht
 
 The Kingdom of the Netherlands
@@ -28,7 +50,7 @@ Desiring to lay down conditions concerning the privileges, immunities, facilitie
 
 Have agreed as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 For the purpose of this Agreement,
 
@@ -76,11 +98,11 @@ For the purpose of this Agreement,
 
 - 18. **“Organs of IDLO”** means the Governing Bodies of the Organization, including but not limited to the Assembly of Parties, the Standing Committee, the Board of Advisors, and the Audit and Finance Committee.
 
-#### Article 2. Purpose
+##### Article 2. Purpose
 
 This Agreement shall regulate matters relating to or arising out of the establishment and the proper functioning of IDLO in the Host Country. It shall, **inter alia**, create conditions conducive to the stability and independence of the Organization and facilitate its smooth and efficient functioning.
 
-#### Article 3. Legal status and juridical personality
+##### Article 3. Legal status and juridical personality
 
 The Government recognizes IDLO as an Intergovernmental Organization with legal personality and the capacity to perform legal acts required for the performance of its functions. This shall, in particular, include the capacity:
 
@@ -90,25 +112,25 @@ The Government recognizes IDLO as an Intergovernmental Organization with legal p
 
 - c). to participate in legal proceedings.
 
-#### Article 4. Inviolability of the premises
+##### Article 4. Inviolability of the premises
 
 1. The premises of IDLO shall be inviolable. The competent authorities shall ensure that the Organization is not dispossessed or deprived of all or any part of its premises without its proper consent. Judicial actions and the service and execution of all forms of legal process, including the seizure of private property, cannot be enforced on the premises of IDLO except with the consent and in accordance with conditions approved by the Head of Office.
 
 2. In case of fire, or other emergency of a similar nature requiring prompt protective action or in the event that the competent authorities have reasonable cause to believe that such an emergency has occurred or is about to occur on the premises, the consent by the Head of Office or another Official of the Organization so designated by him or her, to any necessary entry into the premises shall be presumed if neither of them can be contacted in time.
 
-#### Article 5. Protection of the premises
+##### Article 5. Protection of the premises
 
 1. The Host Country shall exercise due diligence to ensure that the security and tranquility of the premises are not impaired by any person or group(s) of persons attempting unauthorized entry into or on to the premises or creating disturbances in the immediate vicinity. As may be required for this purpose, the Host Country shall provide adequate police protection on the boundaries and in the vicinity of the Organization's premises.
 
 2. IDLO shall provide the competent authorities with all information relevant to the security and protection of the premises.
 
-#### Article 6. Public services for the premises
+##### Article 6. Public services for the premises
 
 1. The competent authorities shall secure, upon request of the Head of Office or another Official to whom such tasks are delegated, on fair and equitable conditions the public services required by IDLO, such as, but not limited to, postal, telephone, internet, telegraphic sources, any means of communication, electricity, water, gas, sewage, waste collection, fire protection, and cleaning of public streets.
 
 2. In case of interruption or threatened interruption of any such services, the Organization shall be accorded the priority given to essential agencies and organs of the Government and the competent authorities shall act accordingly to ensure that the work of the Organization is not prejudiced.
 
-#### Article 7. Law and authority on the premises
+##### Article 7. Law and authority on the premises
 
 1. The premises shall be under the control and authority of IDLO as provided for in this Agreement.
 
@@ -118,21 +140,21 @@ The Government recognizes IDLO as an Intergovernmental Organization with legal p
 
 4. IDLO may expel or exclude persons from the premises for violation of its Regulations.
 
-#### Article 8. Facilities and immunities in respect of communications
+##### Article 8. Facilities and immunities in respect of communications
 
 1. The Government shall permit IDLO to communicate freely and without a need for special permission, for all official purposes and shall protect the right of the Organization to do so.
 
 2. No censorship shall be applied to the official communications or correspondence of IDLO, whether in physical or digital form or in any other electronic format.
 
-#### Article 9. Inviolability of archives
+##### Article 9. Inviolability of archives
 
 The archives of the Organization, and all papers and documents in whatever form and materials being sent from or to the Organization, held by the Organization or belonging to it, wherever located and by whomsoever held, shall be inviolable.
 
-#### Article 10. Freedom of financial assets from restrictions
+##### Article 10. Freedom of financial assets from restrictions
 
 The Organization may purchase, receive, convert and hold any kind of funds, currency, cash or securities. It may use or dispose of them freely for any purpose in accordance with its official activities and hold accounts in any currency to the extent required to meet its obligations.
 
-#### Article 11. Funds, assets, and other property
+##### Article 11. Funds, assets, and other property
 
 1. IDLO, its funds, assets, and other property, wherever located and by whomsoever held, shall enjoy immunity from every form of legal process and execution in the Host Country, except insofar as in any particular case the Organization has expressly waived its immunity. It is understood, however, that no waiver of immunity shall extend to any measure of execution.
 
@@ -140,7 +162,7 @@ The Organization may purchase, receive, convert and hold any kind of funds, curr
 
 3. To the extent necessary to carry out the functions of the Organization, funds, assets, and other property of IDLO, wherever located and by whomsoever held, shall be exempt from restrictions, regulations, control, or moratoria of any nature.
 
-#### Article 12. Exemption of the Organization and its property from taxes and duties
+##### Article 12. Exemption of the Organization and its property from taxes and duties
 
 1. Within the scope of its official activities, IDLO, its assets, income, and other property shall be exempt from all direct taxes levied by the competent authorities.
 
@@ -172,7 +194,7 @@ The Organization may purchase, receive, convert and hold any kind of funds, curr
 
 5. No exemption shall be granted in respect of taxes and duties which represent charges for specific public services rendered.
 
-#### Article 13. Entry, stay and departure
+##### Article 13. Entry, stay and departure
 
 1. The Government shall facilitate, if required, the entry, stay, and departure for purposes of official business of the persons listed below and family members forming part of the household:
 
@@ -198,7 +220,7 @@ The Organization may purchase, receive, convert and hold any kind of funds, curr
 
 4. All aforementioned persons entitled to privileges and immunities shall enjoy them from the moment they enter the territory of the Kingdom of the Netherlands to take up their posts or to undertake official IDLO-related duties and shall come to an end within a reasonable period after the expiry or termination of their contracts of employment or completion of their IDLO-related duties.
 
-#### Article 14. Privileges, immunities, and facilities of members of the Assembly of Parties and other organs of IDLO
+##### Article 14. Privileges, immunities, and facilities of members of the Assembly of Parties and other organs of IDLO
 
 1. Representatives of Parties who are members of the IDLO Assembly of Parties shall enjoy, while exercising their functions within the Host Country, the privileges (except for the financial and fiscal privileges), immunities and facilities accorded to heads of diplomatic missions accredited to the Kingdom of The Netherlands in accordance with the [Vienna Convention on Diplomatic Relations of 18 April 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
@@ -212,7 +234,7 @@ The Organization may purchase, receive, convert and hold any kind of funds, curr
 
 3. Persons covered by this Article shall not be subjected by the Host Country to any measure which may affect the free and independent performance of their official functions.
 
-#### Article 15. Privileges, immunities, and facilities of Officials and Experts of IDLO
+##### Article 15. Privileges, immunities, and facilities of Officials and Experts of IDLO
 
 1. Officials of IDLO shall enjoy within the Host Country the following privileges and immunities:
 
@@ -270,7 +292,7 @@ The Organization may purchase, receive, convert and hold any kind of funds, curr
 
 - b). inviolability of all papers, documents, in whatever form, and materials relating to the performance of their functions for IDLO.
 
-#### Article 16. Interns
+##### Article 16. Interns
 
 1. Within 8 business days of an intern’s arrival in the Host Country, IDLO shall request the Government to register them in accordance with paragraph 2 of this Article.
 
@@ -298,19 +320,19 @@ The Organization may purchase, receive, convert and hold any kind of funds, curr
 
 6. IDLO shall notify the Government of the final departure of the intern from IDLO within 8 business days after such departure, and shall at the same time return the intern's identity card.
 
-#### Article 17. Personnel recruited locally and not otherwise covered by this Agreement
+##### Article 17. Personnel recruited locally and not otherwise covered by this Agreement
 
 Personnel recruited locally and assigned to hourly rates by IDLO and not otherwise covered by this Agreement shall be accorded immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity for the Organization. The terms and conditions of employment of such individuals shall be in accordance with the relevant Regulations of the Organization.
 
-#### Article 18. Exceptions to immunities
+##### Article 18. Exceptions to immunities
 
 The immunity granted to persons mentioned in [Article 14, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006304&artikel=14&z=2015-04-10&g=2015-04-10); [Article 15, paragraphs 1 to 4 and paragraph 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006304&artikel=15&z=2015-04-10&g=2015-04-10); [Article 16, paragraph 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006304&artikel=16&z=2015-04-10&g=2015-04-10); and [Article 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006304&artikel=17&z=2015-04-10&g=2015-04-10), shall not extend to any civil action by a third party for damages, including personal injury or death, arising from a traffic accident caused by any such person.
 
-#### Article 19. Protection of personnel
+##### Article 19. Protection of personnel
 
 The Government shall, if so requested by the Head of Office, take all reasonable steps to ensure the necessary safety and protection of the persons mentioned in this Agreement whose security is endangered due to their services to IDLO within the Host Country.
 
-#### Article 20. Notification
+##### Article 20. Notification
 
 1. IDLO shall promptly notify the Government of:
 
@@ -328,21 +350,21 @@ The Government shall, if so requested by the Head of Office, take all reasonable
 
 3. IDLO shall promptly return the Official’s identification card upon termination of his or her employment for IDLO.
 
-#### Article 21. Social security
+##### Article 21. Social security
 
 Officials of the Organization who are assigned to serve in the Netherlands shall be covered by appropriate social security arrangements made by the Organization and shall be exempt from any social security scheme established by the law of the Kingdom of the Netherlands, unless the Officials to whom the aforementioned scheme applies take up gainful activity in the Netherlands.
 
-#### Article 22. Employment
+##### Article 22. Employment
 
 An Official’s family members forming part of the household who are not nationals of a European Union member State shall be granted working permits for the duration of the employment of the Official with IDLO in the Host Country.
 
-#### Article 23. Waiver of immunities
+##### Article 23. Waiver of immunities
 
 1. Privileges and immunities are granted to IDLO Employees in the interest of IDLO and not for the personal benefit of the individuals themselves. The Director-General shall have the right and the duty to waive the immunity of any person mentioned in [Articles 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006304&artikel=15&z=2015-04-10&g=2015-04-10), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0006304&artikel=16&z=2015-04-10&g=2015-04-10), and [17](https://wetten.overheid.nl/jci1.3:c:BWBV0006304&artikel=17&z=2015-04-10&g=2015-04-10) in any case where, in his or her opinion, the immunity would impede the cause of justice and can be waived without prejudice to the Organization. The IDLO Assembly of Parties shall have the right to waive the immunity of the Director-General.
 
 2. Consistent with its privileges and immunities, IDLO shall cooperate at all times with the appropriate authorities of the Host Country to facilitate the proper administration of justice and shall not abuse any of the privileges and immunities granted to it under this Agreement.
 
-#### Article 24. Settlement of disputes
+##### Article 24. Settlement of disputes
 
 1. IDLO shall make provision for appropriate modes of settlement of:
 
@@ -354,21 +376,21 @@ An Official’s family members forming part of the household who are not nationa
 
 3. Unless the Parties decide otherwise, the arbitral tribunal shall determine its own procedure. The arbitral tribunal shall reach its decision by a majority of votes on the basis of the applicable rules of international law. The decision shall be final and binding on the Parties to the dispute, even if rendered in default of one of the Parties to the dispute. The costs of the arbitral tribunal shall be shared equally between IDLO and the Host Country, unless the arbitral tribunal determines otherwise.
 
-#### Article 25. Interpretation of the Agreement
+##### Article 25. Interpretation of the Agreement
 
 This Agreement shall be interpreted in light of its primary purpose of enabling IDLO through opening and maintaining its office in the Host Country to fully and efficiently discharge its responsibilities and fulfill its purposes.
 
-#### Article 26. Termination and amendments of the Agreement
+##### Article 26. Termination and amendments of the Agreement
 
 1. This Agreement shall cease to be in force by mutual consent of the Parties, except for such provisions as may be applicable in connection with the orderly termination of the operations of the Host Country Office and the disposition of its property therein.
 
 2. This Agreement may be amended by mutual written consent by the Parties at any time.
 
-#### Article 27. Application
+##### Article 27. Application
 
 With respect to the Kingdom of the Netherlands, this Agreement shall apply to the part of the Kingdom in Europe only.
 
-#### Article 28. Entry into force
+##### Article 28. Entry into force
 
 This Agreement shall enter into force, with retroactive effect as of 1 September 2013, on the first day of the month after both Parties have notified each other in writing that the legal requirements for the entry into force have been complied with.
 

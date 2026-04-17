@@ -1,20 +1,46 @@
 ---
-title: "Uitvoeringsregeling nadeelcompensatie verbod laagcalorisch gas grootste afnemers"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 30 juni 2020, nr. WJZ/ 20142740 houdende regels voor de uitvoering van de beoordeling van verzoeken om een vergoeding op grond van artikel 10m van de Gaswet"
 identifier: "BWBR0043793"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043793"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043793"
+soort: "ministeriele-regeling"
+stam_id: "15542243"
+version_id: "31243092"
+internal_id: "C44681841"
+label_id: "15484174"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043793/2026-01-01/0"
+intitule_bron: "Stcrt.2020-36363"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-06-30"
+intitule_published: "2020-07-03"
+intitule_in_force: "2020-07-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-43782"
+original_signed_date: "2025-12-14"
+original_published_date: "2025-12-23"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-43782"
+entry_into_force_date: "2025-12-14"
+jci_1_3: "jci1.3:c:BWBR0043793&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0043793&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsregeling nadeelcompensatie verbod laagcalorisch gas grootste afnemers"
+signed_date: "2025-12-14"
+entry_into_force: "2025-12-14"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat van 30 juni 2020, nr. WJZ/ 20142740 houdende regels voor de uitvoering van de beoordeling van verzoeken om een vergoeding op grond van artikel 10m van de Gaswet
 
 Gelet op [artikel 10m van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10m);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **wet:** [Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een aangeslotene dient een aanvraag om vergoeding als bedoeld in [artikel 5.15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.15) in zo spoedig als redelijkerwijs mogelijk is nadat het omschakelen of afsluiten van diens aansluiting, bedoeld in [artikel 2.63, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.63), heeft plaatsgevonden, en geen laagcalorisch gas meer wordt onttrokken.
 
@@ -36,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 3. Indien een aangeslotene de minister schriftelijk verklaart zich het recht voor te behouden om een vergoeding als bedoeld in [artikel 5.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.15) aan te vragen voordat de termijn van vijf jaren, bedoeld in het tweede lid, is verstreken, dan start een nieuwe termijn van vijf jaren na aanvang van de dag, volgende op die waarop de verklaring is gedaan.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Gegevens en bescheiden als bedoeld in [artikel 4:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:2) die in ieder geval nodig zijn voor een beslissing op de aanvraag zijn:
 
@@ -76,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 3. De minister bevestigt de ontvangst van het aanvraag zo spoedig mogelijk, doch tenminste binnen twee weken na de ontvangst ervan, en stelt de aangeslotene in kennis van de te volgen procedure.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De minister beslist binnen acht weken of, indien de minister zich bij de behandeling van de aanvraag laat adviseren door een of meer onafhankelijke deskundigen, binnen zes maanden na de ontvangst van de aanvraag.
 
@@ -86,17 +112,17 @@ In deze regeling wordt verstaan onder:
 
 4. Indien de schade mede is veroorzaakt door een besluit waartegen beroep kan worden ingesteld, kan de minister de beslissing aanhouden totdat het besluit onherroepelijk is geworden.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling nadeelcompensatie verbod laagcalorisch gas grootste afnemers.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking op in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4a
+##### Artikel 4a
 
 Deze regeling berust op [artikel 5.15 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.15).
 

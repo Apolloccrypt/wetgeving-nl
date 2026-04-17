@@ -1,13 +1,36 @@
 ---
-title: "Besluit jaarrekening banken"
+title: "Besluit van 10 mei 1993, houdende bepalingen voor de balans, de winst- en verliesrekening en de toelichtingen daarop van banken"
 identifier: "BWBR0005980"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005980"
+country: "nl"
+rank: "amvb"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005980"
+soort: "AMvB"
+stam_id: "653173"
+version_id: "948962"
+internal_id: "C948961"
+label_id: "633714"
+dtd_version: "2.0"
+original_entry_into_force: "1993-05-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005980/2012-01-01/0"
+intitule_bron: "Stb.1993-259"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-05-10"
+intitule_status: "goed"
+original_publication: "Stb.1993-259"
+original_signed_date: "1993-05-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-05-28"
+entry_into_force_dossier: "22169"
+jci_1_3: "jci1.3:c:BWBR0005980&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBR0005980&g=2012-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit jaarrekening banken"
+signed_date: "1993-05-10"
+entry_into_force: "1993-05-28"
 ---
-
 # Besluit van 10 mei 1993, houdende bepalingen voor de balans, de winst- en verliesrekening en de toelichtingen daarop van banken
 
 Op de voordracht van de Staatssecretaris van Justitie, mede namens Onze Minister van Financiën, van 29 januari 1993, Stafafdeling Wetgeving Privaatrecht, nr. 303967/93/6;
@@ -24,7 +47,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Voorschriften omtrent de balans en de toelichting daarop
 
-#### Artikel 1
+##### Artikel 1
 
 1. Onder de activa worden afzonderlijk opgenomen:
 
@@ -64,7 +87,7 @@ Hebben goedgevonden en verstaan:
 
 3. Buiten de balanstelling worden opgenomen de voorwaardelijke schulden en de onherroepelijke toezeggingen die tot een kredietrisico kunnen leiden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Vermogens die de bank in eigen naam voor rekening van een ander niet afgescheiden van haar eigen activa en passiva beheert, worden onder de desbetreffende balansposten opgenomen.
 
@@ -74,7 +97,7 @@ Hebben goedgevonden en verstaan:
 
 4. Tot zekerheid ontvangen activa worden slechts op de balans opgenomen, indien het gereed geld betreft.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onder de vorderingen worden afzonderlijk opgenomen:
 
@@ -110,7 +133,7 @@ Hebben goedgevonden en verstaan:
 
 - d. langer is dan vijf jaar.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onder de deelnemingen worden afzonderlijk opgenomen:
 
@@ -120,13 +143,13 @@ Hebben goedgevonden en verstaan:
 
 2. Onderscheiden naar de in arikel 1 lid 1, onder **e**, bedoelde groep en naar de in lid 1 bedoelde groepen van deelnemingen worden aangegeven de al dan niet in een prijscourant van een beurs opgenomen waardepapieren. De aandelen en andere niet-vastrentende waardepapieren worden tevens onderscheiden naar gelang zij al dan niet als vaste activa worden aangemerkt, onder vermelding van de maatstaf ter onderscheiding die hiervoor is gebruikt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onder de materiële vaste activa worden afzonderlijk vermeld de terreinen en gebouwen voor eigen gebruik.
 
 2. Tenzij de bestanddelen van de overige activa van ondergeschikte betekenis zijn op het geheel van de activa, worden zij naar aard en omvang toegelicht.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onder schulden worden afzonderlijk opgenomen:
 
@@ -158,7 +181,7 @@ Bij de overige achtergestelde schulden worden globaal de bedongen voorwaarden me
 
 7. De niet onmiddellijk opeisbare schulden aan banken alsmede die aan klanten, de spaargelden en de schulden belichaamd in de overige schuldbewijzen, bedoeld in lid 1, onder **c**, worden gesplitst overeenkomstig [artikel 3 lid 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De buiten de balanstelling op te nemen voorwaardelijke schulden worden onderscheiden naar voorwaardelijke schulden uit hoofde van
 
@@ -172,13 +195,13 @@ Bij de overige achtergestelde schulden worden globaal de bedongen voorwaarden me
 
 3. Tenzij de in de leden 1 en 2 onderscheiden groepen van voorwaardelijke schulden onderscheidenlijk toezeggingen van ondergeschikte betekenis zijn op het geheel van de schulden, worden voor elke van de onderscheiden groepen de aard en de omvang toegelicht.
 
-#### Artikel 8
+##### Artikel 8
 
 Onderscheiden naar de groepen van schulden, bedoeld in [artikel 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=6&z=2012-01-01&g=2012-01-01), en naar de voorwaardelijke schulden, bedoeld in [artikel 7 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005980&paragraaf=1&artikel=7&z=2012-01-01&g=2012-01-01), wordt aangegeven voor welke van deze schulden activa verbonden zijn, welke activa deswege niet meer ter vrije beschikking staan en tot welk bedrag dat is geschied.
 
 #### § 2. Voorschriften omtrent de winst- en verliesrekening en de toelichting daarop
 
-#### Artikel 9
+##### Artikel 9
 
 1. Op de winst- en verliesrekening worden afzonderlijk opgenomen:
 
@@ -220,7 +243,7 @@ Onderscheiden naar de groepen van schulden, bedoeld in [artikel 6 lid 1](https:/
 
 6. Op de buitengewone baten en lasten is artikel 377 lid 7 van toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het resultaat uit financiële transacties omvat:
 
@@ -238,7 +261,7 @@ Onderscheiden naar de groepen van schulden, bedoeld in [artikel 6 lid 1](https:/
 
 #### § 3. Bijzondere voorschriften omtrent de toelichting
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien de werkzaamheden van de bank op het terrein van beheer en bemiddeling voor derden van belang zijn op het geheel van de werkzaamheden, wordt dit vermeld. Indien de bank in eigen naam voor rekening van derden niet afgescheiden van haar eigen activa en passiva vermogens beheert, wordt zowel het totale bedrag van de activa en passiva als een splitsing naar de balansposten waaronder zij zijn opgenomen vermeld. Afgescheiden vermogens die de bank in eigen naam voor rekening van een ander beheert, worden in de toelichting vermeld.
 
@@ -250,17 +273,17 @@ Onderscheiden naar de groepen van schulden, bedoeld in [artikel 6 lid 1](https:/
 
 5. Het bedrag van de waardepapieren die in bruikleen of verbruikleen zijn gegeven, wordt in de toelichting vermeld. Eveneens wordt het bedrag van de in bruikleen of verbruikleen ontvangen waardepapieren vermeld.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Van de op de balansdatum openstaande termijntransacties wordt, onderscheiden naar soort termijntransactie, een overzicht gegeven. Medegedeeld wordt voorts of een belangrijk deel van deze transacties is aangegaan ter afdekking van risico’s en of een belangrijk deel handel betreft.
 
 2. Het totaal van de rentebaten, de opbrengsten uit niet-vastrentende waardepapieren en deelnemingen, de ontvangen provisie, het resultaat uit financiële transacties en de overige bedrijfsopbrengsten wordt gesplitst naar gebieden, voor zover de inrichting van het bankbedrijf naar gebied belangrijke verschillen vertoont.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien het bij Koninklijke boodschap van 27 juni 1991 ingediende voorstel van wet houdende bepalingen voor de jaarrekening van banken tot wet is verheven en in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking. Het is van toepassing op boekjaren die op of na 1 januari 1993 aanvangen.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit kan worden aangehaald als: Besluit jaarrekening banken.
 

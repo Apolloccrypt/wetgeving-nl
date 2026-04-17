@@ -1,13 +1,39 @@
 ---
-title: "Regeling Curaçaose en Sint Maartense tarieven vissersvaartuigen"
+title: "Regeling Nederlands-Antilliaanse tarieven vissersvaartuigen 2009"
 identifier: "BWBR0026405"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026405"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026405"
+soort: "ministeriele-regeling"
+stam_id: "10181203"
+version_id: "16659462"
+internal_id: "C22932051"
+label_id: "10157214"
+dtd_version: "2.0"
+original_entry_into_force: "2009-09-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026405/2010-10-10/0"
+intitule_bron: "Stcrt.2009-13996"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-09-11"
+intitule_published: "2009-09-21"
+intitule_in_force: "2009-09-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-13996"
+original_signed_date: "2009-09-11"
+original_published_date: "2009-09-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-13996"
+entry_into_force_date: "2009-09-15"
+jci_1_3: "jci1.3:c:BWBR0026405&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0026405&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Regeling Curaçaose en Sint Maartense tarieven vissersvaartuigen"
+signed_date: "2009-09-11"
+entry_into_force: "2009-09-15"
 ---
-
 # Regeling Nederlands-Antilliaanse tarieven vissersvaartuigen 2009
 
 Handelende in overeenstemming met de Minister van Verkeer en Vervoer van de Nederlandse Antillen en de Minister van Toerisme en Transport van Aruba;
@@ -18,7 +44,7 @@ Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -36,11 +62,11 @@ In deze regeling wordt verstaan onder:
 
 - g. **eerste onderzoek:** het onderzoek, bedoeld in [artikel 1.12, eerste lid van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=1.12) en in [artikel 12, eerste lid, onder 1°, van het Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=12).
 
-#### Artikel 2
+##### Artikel 2
 
 De in deze regeling genoemde tarieven luiden in het betaalmiddel van Curaçao, onderscheidenlijk Sint Maarten en zijn verschuldigd voor het verrichten van werkzaamheden of diensten door ambtenaren van Curaçao, onderscheidenlijk Sint Maarten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor het onderzoek van vissersvaartuigen en de verdere werkzaamheden nodig voor de eerste afgifte van certificaten, zijn de volgende tarieven verschuldigd:
 
@@ -52,7 +78,7 @@ De in deze regeling genoemde tarieven luiden in het betaalmiddel van Curaçao, o
 
 3. Voor het onderzoek van geklasseerde vaartuigen met een lengte van 24 meter of meer is een tarief verschuldigd van f 19.960,–.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor het onderzoek en de verdere werkzaamheden nodig voor de afgifte van certificaten voor een vissersvaartuig dat reeds eerder onderworpen is geweest aan een eerste onderzoek, is, in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026405&artikel=3&z=2010-10-10&g=2010-10-10), het volgende tarief verschuldigd:
 
@@ -62,7 +88,7 @@ De in deze regeling genoemde tarieven luiden in het betaalmiddel van Curaçao, o
 
 2. Voor het onderzoek van geklasseerde vaartuigen met een lengte van 24 meter of meer is een tarief verschuldigd van f 6.768,–.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor het onderzoek van vissersvaartuigen en de verdere werkzaamheden nodig voor de vernieuwing of handhaving van certificaten, zijn jaarlijks de volgende tarieven verschuldigd:
 
@@ -80,7 +106,7 @@ De in deze regeling genoemde tarieven luiden in het betaalmiddel van Curaçao, o
 
 4. Bij tussentijdse verkoop van het vaartuig vindt geen verrekening van het tarief met de koper of verkoper plaats.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor het onderzoek van vissersvaartuigen en de verdere werkzaamheden nodig voor de afgifte van een vergunning krachtens [artikel 2bis van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=2bis), is het volgende tarief verschuldigd:
 
@@ -90,37 +116,37 @@ De in deze regeling genoemde tarieven luiden in het betaalmiddel van Curaçao, o
 
 2. Het tarief, bedoeld in het eerste lid, is niet verschuldigd indien het een vergunning betreft uitsluitend bestemd voor het maken van een proefvaart dan wel het ondernemen van een reis uit een haven in Nederland, Aruba, Curaçao of Sint Maarten, met de bedoeling het vaartuig gereed te maken voor het verkrijgen van een certificaat van overeenstemming of deugdelijkheid.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor het onderzoek aan boord en de verdere werkzaamheden nodig voor het verstrekken van een certificaat van vrijstelling of een certificaat van ontheffing, voor het verstrekken van een extra exemplaar of een tussentijdse vervanging van een certificaat, alsmede voor de afgifte van een certificaat zonder dat hiervoor een onderzoek aan boord plaatsvindt, is een tarief verschuldigd van f 466,–.
 
 2. Voor de vervanging van de in deze regeling genoemde certificaten die door een scheepsongeval verloren zijn gegaan, is geen vergoeding verschuldigd.
 
-#### Artikel 8
+##### Artikel 8
 
 Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens het [Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342) of het [Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607), die niet op grond van een van de artikelen van deze regeling in rekening worden gebracht, is een tarief verschuldigd van f 234,– per uur per ambtenaar.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien een onderzoek als bedoeld in deze regeling geheel of gedeeltelijk buiten Curaçao, onderscheidenlijk Sint Maarten wordt uitgevoerd en de voor het desbetreffende onderzoek vastgestelde termijn, opgenomen in de bijlage, wordt overschreden, is per termijnoverschrijdende dag een aanvullend tarief verschuldigd van f 1.635,–.
 
 2. De eventuele reis- en verblijfskosten van de ambtenaar ten behoeve van de in deze regeling genoemde onderzoeken buiten Curaçao, onderscheidenlijk Sint Maarten komen voor rekening van de aanvrager van het certificaat. Deze kosten worden afzonderlijk in rekening gebracht.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien de in deze regeling genoemde onderzoeken geheel of gedeeltelijk worden uitgevoerd op werkdagen tussen 18.00 uur en 08.00 uur, op een zaterdag, op een zondag of op een in Curaçao, onderscheidenlijk Sint Maarten daaraan gelijkgestelde dag, is een aanvullend tarief verschuldigd van f 234,– per uur per ambtenaar.
 
 2. Het tarief, genoemd in het eerste lid, is eveneens verschuldigd voor uitgevoerde onderzoeken buiten Curaçao, onderscheidenlijk Sint Maarten buiten de daar ter plaatse geldende werktijden.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Regeling tarieven vissersvaartuigen 1999.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling treedt in werking met ingang van 15 september 2009.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling Curaçaose en Sint Maartense tarieven vissersvaartuigen.
 

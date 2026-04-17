@@ -1,13 +1,35 @@
 ---
 title: "Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten"
 identifier: "BWBR0034652"
-categorie: "Overig"
-publicatiedatum: 2025-12-24
-laatste_update: 2025-12-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034652"
+country: "nl"
+rank: "pbo"
+publication_date: "2025-12-24"
+last_updated: "2025-12-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034652"
+soort: "pbo"
+stam_id: "12550143"
+version_id: "21144442"
+internal_id: "C30341481"
+label_id: "12521534"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034652/2025-12-24/0"
+intitule_bron: "Stcrt.2014-164"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2014-01-07"
+intitule_in_force: "2014-01-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-164"
+original_published_date: "2014-01-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-164"
+entry_into_force_date: "2014-01-08"
+jci_1_3: "jci1.3:c:BWBR0034652&z=2025-12-24&g=2025-12-24"
+jci_1_0: "1.0:c:BWBR0034652&g=2025-12-24"
+citeertitel_status: "officieel"
+entry_into_force: "2014-01-08"
 ---
-
 # Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten
 
 Gelet op [artikel 19, tweede lid, aanhef en onderdeel a, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
@@ -24,7 +46,7 @@ Stelt de volgende verordening vast:
 
 ### Hoofdstuk 1. – Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze verordening en daarop berustende bepalingen wordt, voor zover niet anders is bepaald, verstaan onder:
 
@@ -168,13 +190,13 @@ In deze verordening en daarop berustende bepalingen wordt, voor zover niet ander
 
 #### Paragraaf 2.1. – Reikwijdte
 
-#### Artikel 2
+##### Artikel 2
 
 Deze verordening geldt voor assurance-opdrachten waarop op basis van de gedrags- en beroepsregels van de NBA de Nadere voorschriften controle- en overige standaarden van toepassing zijn.
 
 #### Paragraaf 2.2. – Onafhankelijke uitvoering van een assurance-opdracht
 
-#### Artikel 3
+##### Artikel 3
 
 1. De eindverantwoordelijke accountant waarborgt dat de assurance-opdracht onafhankelijk wordt uitgevoerd.
 
@@ -206,7 +228,7 @@ Deze verordening geldt voor assurance-opdrachten waarop op basis van de gedrags-
 
 8. Onafhankelijkheid bij een assurance-opdracht ten behoeve van een nader bepaalde kring van gebruikers geldt ten opzichte van het assurance-object, de verantwoordelijke persoon en de verantwoordelijke entiteit als niet voldaan wordt aan de voorwaarden in het zevende lid, onderdelen a en b.
 
-#### Artikel 4
+##### Artikel 4
 
 In afwijking van [artikel 3, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2025-12-24&g=2025-12-24), is sprake van een onafhankelijke uitvoering van een assurance-opdracht door een overheidsaccountant als:
 
@@ -218,7 +240,7 @@ In afwijking van [artikel 3, zesde tot en met achtste lid](https://wetten.overhe
 
 #### Paragraaf 2.3. – Toetsingskader
 
-#### Artikel 5
+##### Artikel 5
 
 Bij het naleven van deze verordening:
 
@@ -228,7 +250,7 @@ Bij het naleven van deze verordening:
 
 - c. baseert de accountant zich op hetgeen een objectieve, redelijke en geïnformeerde derde aanvaardbaar en toereikend acht.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De eindverantwoordelijke accountant identificeert en beoordeelt omstandigheden die een bedreiging voor de onafhankelijke uitvoering van de assurance-opdracht kunnen zijn.
 
@@ -242,7 +264,7 @@ Bij het naleven van deze verordening:
 
 4. De eindverantwoordelijke accountant weigert of beëindigt de assurance-opdracht als hij een niet in de [hoofdstukken 3 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=3&z=2025-12-24&g=2025-12-24) benoemde bedreiging heeft geïdentificeerd en beoordeeld, en geen maatregel is of wordt genomen die de onafhankelijke uitvoering waarborgt.
 
-#### Artikel 7
+##### Artikel 7
 
 De eindverantwoordelijke accountant die constateert dat in strijd wordt of is gehandeld met een bepaling in deze verordening beëindigt de assurance-opdracht, tenzij:
 
@@ -256,7 +278,7 @@ De eindverantwoordelijke accountant die constateert dat in strijd wordt of is ge
 
 - 2°. het continueren van de assurance-opdracht.
 
-#### Artikel 8
+##### Artikel 8
 
 Als een assurance-opdracht ten behoeve van een nader bepaalde kring van gebruikers wordt uitgevoerd bij een organisatie van openbaar belang, zijn de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=4&paragraaf=4.3&artikel=21&z=2025-12-24&g=2025-12-24), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=4&paragraaf=4.3&artikel=22&z=2025-12-24&g=2025-12-24), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=7&paragraaf=7.2&artikel=29&z=2025-12-24&g=2025-12-24) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.2&artikel=41&z=2025-12-24&g=2025-12-24) niet van toepassing mits:
 
@@ -274,7 +296,7 @@ Als een assurance-opdracht ten behoeve van een nader bepaalde kring van gebruike
 
 #### Paragraaf 2.4. – Internationale betrekkingen
 
-#### Artikel 9
+##### Artikel 9
 
 De [artikelen 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2025-12-24&g=2025-12-24), [10 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.5&artikel=10&z=2025-12-24&g=2025-12-24) en [17 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2025-12-24&g=2025-12-24) zijn niet van toepassing op betrekkingen tussen een in het buitenland gevestigd onderdeel van het netwerk, een buitenlandse accountantspraktijk of een daaraan verbonden persoon en:
 
@@ -284,7 +306,7 @@ De [artikelen 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&ho
 
 #### Paragraaf 2.5. – Betrekkingen met verbonden derde
 
-#### Artikel 10
+##### Artikel 10
 
 1. De eindverantwoordelijke accountant neemt bij het identificeren en beoordelen van omstandigheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2025-12-24&g=2025-12-24), betrekkingen met een verbonden derde in aanmerking.
 
@@ -302,13 +324,13 @@ De [artikelen 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&ho
 
 #### Paragraaf 2.6. – Relatie met de organisatiestructuur
 
-#### Artikel 11
+##### Artikel 11
 
 De eindverantwoordelijke accountant voert de assurance-opdracht alleen uit, als de organisatiestructuur van de accountantseenheid hem in staat stelt adequate maatregelen te treffen om de onafhankelijke uitvoering van de assurance-opdracht te waarborgen.
 
 #### Paragraaf 2.7. – Vastlegging
 
-#### Artikel 12
+##### Artikel 12
 
 De eindverantwoordelijke accountant is ervoor verantwoordelijk dat in het assurance-dossier is opgenomen hoe hij de onafhankelijke uitvoering van de assurance-opdracht waarborgt. Hiertoe bevat het assurance-dossier ten minste:
 
@@ -326,13 +348,13 @@ De eindverantwoordelijke accountant is ervoor verantwoordelijk dat in het assura
 
 #### Paragraaf 2.8. – Beursgenoteerde ondernemingen niet-OOB
 
-#### Artikel 13
+##### Artikel 13
 
 De artikelen in deze verordening die betrekking hebben op een assurance-opdracht bij een organisatie van openbaar belang zijn, met uitzondering van [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=3&artikel=16&z=2025-12-24&g=2025-12-24) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2025-12-24&g=2025-12-24), van overeenkomstige toepassing op een assurance-opdracht bij een beursgenoteerde onderneming die geen organisatie van openbaar belang is.
 
 #### Paragraaf 2.9. – Fusies en overnames
 
-#### Artikel 14
+##### Artikel 14
 
 1. Als de onafhankelijke uitvoering van de assurance-opdracht door een fusie of overname redelijkerwijs niet per direct kan worden gewaarborgd en de met governance belaste personen verzoeken de assurance-opdracht te continueren, is dit in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2025-12-24&g=2025-12-24) toegestaan mits:
 
@@ -350,7 +372,7 @@ De artikelen in deze verordening die betrekking hebben op een assurance-opdracht
 
 #### Paragraaf 2.10. – Hardheidsclausule
 
-#### Artikel 15
+##### Artikel 15
 
 1. De eindverantwoordelijke accountant die op grond van een zwaarwegend maatschappelijk belang een assurance-opdracht continueert in een situatie waarin hij door een uitzonderlijke omstandigheid niet langer voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2025-12-24&g=2025-12-24), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2025-12-24&g=2025-12-24) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2025-12-24&g=2025-12-24), wordt geacht de onafhankelijke uitvoering van een assurance-opdracht te waarborgen als:
 
@@ -364,7 +386,7 @@ De artikelen in deze verordening die betrekking hebben op een assurance-opdracht
 
 ### Hoofdstuk 3. – Samenloop van dienstverlening bij een OOB waarbij een wettelijke controle wordt uitgevoerd
 
-#### Artikel 16
+##### Artikel 16
 
 1. In aanvulling op artikel 5, eerste lid, van de Europese verordening is het verboden een wettelijke controle uit te voeren bij een organisatie van openbaar belang, als andere diensten dan controlediensten als bedoeld in [artikel 24b, eerste lid, Wta](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=24b) worden verleend door:
 
@@ -392,7 +414,7 @@ De artikelen in deze verordening die betrekking hebben op een assurance-opdracht
 
 #### Paragraaf 4.1. – Algemeen
 
-#### Artikel 17
+##### Artikel 17
 
 Dit hoofdstuk is van toepassing als de accountantseenheid:
 
@@ -402,7 +424,7 @@ Dit hoofdstuk is van toepassing als de accountantseenheid:
 
 - 3. een assurance-opdracht anders dan een wettelijke controle verricht bij een verantwoordelijke entiteit niet zijnde een organisatie van openbaar belang.
 
-#### Artikel 18
+##### Artikel 18
 
 Het is verboden een assurance-opdracht uit te voeren bij een verantwoordelijke entiteit als de eindverantwoordelijke accountant, de accountantseenheid of een ander onderdeel van het netwerk:
 
@@ -414,11 +436,11 @@ Het is verboden een assurance-opdracht uit te voeren bij een verantwoordelijke e
 
 #### Paragraaf 4.2. – Samenloop van dienstverlening bij een niet-OOB
 
-#### Artikel 19
+##### Artikel 19
 
 Een bedreiging die een maatregel vereist doet zich voor, als de accountantseenheid of een ander onderdeel van het netwerk aan de verantwoordelijke entiteit niet zijnde een organisatie van openbaar belang een non-assurancedienst verleent of heeft verleend die van materiële invloed is op het assurance-object.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het is verboden een assurance-opdracht uit te voeren bij een verantwoordelijke entiteit niet zijnde een organisatie van openbaar belang, als de accountantseenheid of een ander onderdeel van het netwerk aan die entiteit een non-assurancedienst verleent of heeft verleend die van materiële invloed is op het assurance-object en:
 
@@ -434,11 +456,11 @@ Een bedreiging die een maatregel vereist doet zich voor, als de accountantseenhe
 
 #### Paragraaf 4.3. – Samenloop van dienstverlening bij een OOB waarbij geen wettelijke controle wordt uitgevoerd
 
-#### Artikel 21
+##### Artikel 21
 
 Het is verboden een assurance-opdracht uit te voeren bij een verantwoordelijke entiteit zijnde een organisatie van openbaar belang als de accountantspraktijk of een ander onderdeel van het netwerk aan die entiteit een non-assurancedienst verleent of heeft verleend die van invloed op het assurance-object is.
 
-#### Artikel 22
+##### Artikel 22
 
 Het is verboden een assurance-opdracht uit te voeren bij een verantwoordelijke entiteit zijnde een organisatie van openbaar belang als de accountantspraktijk of een ander onderdeel van het netwerk aan die entiteit een administratieve dienst verleent of heeft verleend die van invloed is op het assurance-object.
 
@@ -446,7 +468,7 @@ Het is verboden een assurance-opdracht uit te voeren bij een verantwoordelijke e
 
 #### Paragraaf 5.1. – Resultaatafhankelijke vergoedingen
 
-#### Artikel 23
+##### Artikel 23
 
 Het is verboden een assurance-opdracht uit te voeren als:
 
@@ -462,7 +484,7 @@ Het is verboden een assurance-opdracht uit te voeren als:
 
 #### Paragraaf 5.2. – Relatieve omvang van vergoedingen
 
-#### Artikel 24
+##### Artikel 24
 
 Een bedreiging die een maatregel vereist doet zich voor als het totaal van vergoedingen die bij een verantwoordelijke partij in rekening is gebracht van materieel belang is voor:
 
@@ -474,7 +496,7 @@ Een bedreiging die een maatregel vereist doet zich voor als het totaal van vergo
 
 - d. een onderdeel van de accountantspraktijk of het netwerk waarvoor deze vergoedingen een belangrijke prestatiemeter zijn.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Een bedreiging die een specifieke maatregel vereist doet zich voor als het totaal van vergoedingen per verantwoordingsperiode die de accountantspraktijk gedurende twee of meer opeenvolgende verantwoordingsperioden bij een verantwoordelijke partij in rekening heeft gebracht of verwacht te brengen, meer dan vijftien procent van de totale opbrengst van de accountantspraktijk over elk van deze verantwoordingsperioden uitmaakt.
 
@@ -484,7 +506,7 @@ Een bedreiging die een maatregel vereist doet zich voor als het totaal van vergo
 
 #### Paragraaf 5.1. – (Resultaat)afhankelijke vergoedingen
 
-#### Artikel 26
+##### Artikel 26
 
 Een bedreiging die een maatregel vereist doet zich voor bij een aanzienlijke achterstand in de betaling aan de accountantspraktijk door een verantwoordelijke partij van vergoedingen voor assurance-opdrachten en overige dienstverlening.
 
@@ -492,7 +514,7 @@ Een bedreiging die een maatregel vereist doet zich voor bij een aanzienlijke ach
 
 #### Paragraaf 6.1. – Geschenken en persoonlijke uitingen van gastvrijheid
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het is verboden een assurance-opdracht uit te voeren als de accountantseenheid, een ander onderdeel van het netwerk, een bestuurder of interne toezichthouder van de accountantseenheid of van een ander onderdeel van het netwerk, of een lid van het assurance-team een geschenk met een waarde die niet verwaarloosbaar of onbeduidend is:
 
@@ -514,7 +536,7 @@ Een bedreiging die een maatregel vereist doet zich voor bij een aanzienlijke ach
 
 #### Paragraaf 5.3. – Achterstallige vergoedingen
 
-#### Artikel 28
+##### Artikel 28
 
 1. Een bedreiging die een maatregel vereist doet zich voor wanneer een onaanvaardbaar risico van vertrouwdheid of eigenbelang ontstaat doordat een lid van het assurance-team dat inhoudelijke bemoeienis heeft met de uitvoering van een assurance-opdracht langdurig betrokken is bij dienstverlening aan dezelfde verantwoordelijke partij.
 
@@ -528,7 +550,7 @@ Een bedreiging die een maatregel vereist doet zich voor bij een aanzienlijke ach
 
 #### Paragraaf 7.2. – Aanvullende bepaling bij een OOB
 
-#### Artikel 29
+##### Artikel 29
 
 1. Dit artikel is van toepassing op een assurance-opdracht bij een organisatie van openbaar belang anders dan een wettelijke controle.
 
@@ -550,7 +572,7 @@ Een bedreiging die een maatregel vereist doet zich voor bij een aanzienlijke ach
 
 ### Hoofdstuk 8. – Financiële belangen
 
-#### Artikel 30
+##### Artikel 30
 
 1. Dit hoofdstuk is van toepassing voor zover een direct financieel belang dan wel een materieel indirect financieel belang wordt gehouden.
 
@@ -562,7 +584,7 @@ Een bedreiging die een maatregel vereist doet zich voor bij een aanzienlijke ach
 
 3. Een financieel product als bedoeld in het tweede lid wordt geïdentificeerd en beoordeeld aan de hand van [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=9&z=2025-12-24&g=2025-12-24).
 
-#### Artikel 31
+##### Artikel 31
 
 1. Het is verboden een assurance-opdracht uit te voeren als een lid van het assurance-team of een nauwe financiële relatie van een lid van het assurance-team een financieel belang houdt in:
 
@@ -594,11 +616,11 @@ Een bedreiging die een maatregel vereist doet zich voor bij een aanzienlijke ach
 
 5. In afwijking van het tweede lid, onderdelen c, d en e, doet zich een bedreiging voor die een maatregel vereist, als een persoon als bedoeld in het tweede lid, onderdelen c of d, een financieel belang houdt in een verantwoordelijke partij die kwalificeert als beleggingsfonds.
 
-#### Artikel 32
+##### Artikel 32
 
 In afwijking van [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=8&artikel=31&z=2025-12-24&g=2025-12-24), vormt een financieel belang in de verantwoordelijke entiteit dat gehouden wordt door een nauwe financiële relatie van een persoon als bedoeld in dat artikel, tweede lid, onderdelen c en d, geen bedreiging als dit financieel belang uit hoofde van een arbeidsrelatie is verkregen en wordt afgestoten zodra dit redelijkerwijs mogelijk is.
 
-#### Artikel 33
+##### Artikel 33
 
 Een financieel belang als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=8&artikel=31&z=2025-12-24&g=2025-12-24) dat tijdens de uitvoering van een assurance-opdracht is verkregen als gevolg van omstandigheden die in redelijkheid buiten de invloedsfeer van de betrokkene liggen, wordt zo spoedig mogelijk afgestoten.
 
@@ -606,7 +628,7 @@ Een financieel belang als bedoeld in [artikel 31](https://wetten.overheid.nl/jci
 
 #### Paragraaf 9.1. – Gezamenlijke zakelijke belangen
 
-#### Artikel 34
+##### Artikel 34
 
 1. Het is verboden een assurance-opdracht uit te voeren als een lid van het assurance-team, de accountantseenheid of een ander onderdeel van het netwerk een voor ten minste een van de partijen materieel gezamenlijk zakelijk belang heeft met:
 
@@ -628,7 +650,7 @@ Een financieel belang als bedoeld in [artikel 31](https://wetten.overheid.nl/jci
 
 #### Paragraaf 9.1. – Gezamenlijke zakelijke belangen
 
-#### Artikel 35
+##### Artikel 35
 
 1. Het is verboden een assurance-opdracht uit te voeren als goederen of diensten die niet voldoen aan de vereisten, genoemd in het tweede lid, van de verantwoordelijke entiteit worden afgenomen door:
 
@@ -650,7 +672,7 @@ Een financieel belang als bedoeld in [artikel 31](https://wetten.overheid.nl/jci
 
 #### Paragraaf 9.2. – Afname van goederen of diensten
 
-#### Artikel 36
+##### Artikel 36
 
 1. Het is verboden een assurance-opdracht uit te voeren als een lening die niet voldoet aan de vereisten, genoemd in het tweede lid, van de verantwoordelijke partij wordt aanvaard door:
 
@@ -678,7 +700,7 @@ Een financieel belang als bedoeld in [artikel 31](https://wetten.overheid.nl/jci
 
 #### Paragraaf 9.3. – Leningen, garantstelling of andere vormen van zekerheidsstelling
 
-#### Artikel 37
+##### Artikel 37
 
 1. Het is verboden een assurance-opdracht uit te voeren als de accountantseenheid een relatie aangaat met de verantwoordelijke entiteit waarbij de accountantseenheid zich in het kader van reclame of marketing associeert of laat associëren met de verantwoordelijke entiteit.
 
@@ -692,7 +714,7 @@ Een financieel belang als bedoeld in [artikel 31](https://wetten.overheid.nl/jci
 
 #### Paragraaf 10.1.1. – Algemeen
 
-#### Artikel 38
+##### Artikel 38
 
 1. Het is verboden een assurance-opdracht ten behoeve van een niet-nader bepaalde kring van gebruikers of een wettelijke controle uit te voeren binnen een jaar nadat een key assurance-partner zijn betrokkenheid bij deze opdracht heeft beëindigd, hij de accountantseenheid heeft verlaten en hij bij de verantwoordelijke entiteit werkzaam is:
 
@@ -730,7 +752,7 @@ Een financieel belang als bedoeld in [artikel 31](https://wetten.overheid.nl/jci
 
 6. Er bestaan banden van betekenis als bedoeld in het derde lid met de accountantsafdeling, als een voormalig lid van het assurance-team of voormalige werknemer van de accountantsafdeling betrokken is bij bedrijfsmatige of beroepsactiviteiten van de accountantsafdeling of de indruk wekt dit te zijn.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Een bedreiging die een maatregel vereist doet zich voor als een voormalige partner van de accountantspraktijk bij een verantwoordelijke entiteit is gaan werken voordat de accountantspraktijk een assurance-opdracht voor deze entiteit uitvoerde in het geval dat:
 
@@ -746,13 +768,13 @@ Een financieel belang als bedoeld in [artikel 31](https://wetten.overheid.nl/jci
 
 2. Het eerste lid is van overeenkomstige toepassing op een voormalige partner van een ander onderdeel van het netwerk.
 
-#### Artikel 40
+##### Artikel 40
 
 Een bedreiging die een maatregel vereist doet zich voor als een lid van het assurance-team heeft aangegeven bij de verantwoordelijke entiteit te gaan werken.
 
 #### Paragraaf 10.1.2. – Aanvullende bepaling bij een OOB
 
-#### Artikel 41
+##### Artikel 41
 
 In aanvulling op de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=38&z=2025-12-24&g=2025-12-24), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=39&z=2025-12-24&g=2025-12-24) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=40&z=2025-12-24&g=2025-12-24) is het verboden een assurance-opdracht uit te voeren als:
 
@@ -768,7 +790,7 @@ In aanvulling op de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR00346
 
 #### Paragraaf 10.1. – Voormalige collega werkzaam bij de verantwoordelijke entiteit
 
-#### Artikel 42
+##### Artikel 42
 
 Het is verboden een assurance-opdracht uit te voeren als een lid van het assurance-team in de voorgaande twee jaar bij de verantwoordelijke entiteit werkte:
 
@@ -780,7 +802,7 @@ Het is verboden een assurance-opdracht uit te voeren als een lid van het assuran
 
 #### Paragraaf 10.3. – Nevenfuncties
 
-#### Artikel 43
+##### Artikel 43
 
 1. Het is verboden een assurance-opdracht uit te voeren als de eindverantwoordelijke accountant bij de verantwoordelijke entiteit een nevenfunctie heeft:
 
@@ -800,7 +822,7 @@ Het is verboden een assurance-opdracht uit te voeren als een lid van het assuran
 
 ### Hoofdstuk 11. – Nauwe persoonlijke relaties
 
-#### Artikel 44
+##### Artikel 44
 
 1. Het is verboden een assurance-opdracht uit te voeren, als een nauwe persoonlijke relatie van een lid van het assurance-team bij de verantwoordelijke entiteit werkt:
 
@@ -816,7 +838,7 @@ Het is verboden een assurance-opdracht uit te voeren als een lid van het assuran
 
 ### Hoofdstuk 12. – Juridische procedure tegen de verantwoordelijke partij
 
-#### Artikel 45
+##### Artikel 45
 
 1. Een bedreiging die een maatregel vereist doet zich voor in geval van een dreigende of aangespannen juridische procedure tussen de accountantseenheid of een ander onderdeel van het netwerk en de verantwoordelijke partij.
 
@@ -828,7 +850,7 @@ Het is verboden een assurance-opdracht uit te voeren als een lid van het assuran
 
 ### Hoofdstuk 13. – Prestatie-afhankelijke beoordeling en beloning
 
-#### Artikel 46
+##### Artikel 46
 
 1. Het is verboden een assurance-opdracht uit te voeren als een beoordeling of beloning van een lid van het assurance-team voor zijn aan de verantwoordelijke partij gerelateerde commerciële prestaties van niet te verwaarlozen betekenis is.
 
@@ -836,7 +858,7 @@ Het is verboden een assurance-opdracht uit te voeren als een lid van het assuran
 
 ### Hoofdstuk 14. – Intrekking van regelingen
 
-#### Artikel 47
+##### Artikel 47
 
 1. De Nadere voorschriften onafhankelijkheid intern accountant – assurance-opdrachten, vastgesteld door het bestuur van de Nederlandse Orde van Accountants-Administratieconsulenten en de [Nadere voorschriften onafhankelijkheid intern accountant – assurance-opdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0007299), vastgesteld door het bestuur van het Nederlands Instituut van Registeraccountants worden ingetrokken.
 
@@ -846,25 +868,25 @@ Het is verboden een assurance-opdracht uit te voeren als een lid van het assuran
 
 ### Hoofdstuk 11. – Nauwe persoonlijke relaties
 
-#### Artikel 48
+##### Artikel 48
 
 1. De ViO zoals deze luidde tot en met 31 december 2019 blijft van toepassing op een assurance-opdracht die betrekking heeft op een verantwoordingsperiode die aanvangt voor 15 december 2019.
 
 2. Artikel 29, derde lid, zoals dat luidde tot en met 31 december 2019 blijft van toepassing op een assurance-opdracht die betrekking heeft op een verantwoordingsperiode die aanvangt voor 15 december 2020.
 
-#### Artikel 49
+##### Artikel 49
 
 Het bestuur van de Nederlandse beroepsorganisatie van accountants kan, gehoord de leden, met betrekking tot de [artikelen 2 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-12-24&g=2025-12-24) nadere voorschriften vaststellen.
 
-#### Artikel 50
+##### Artikel 50
 
 Deze verordening wordt aangehaald als: Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten, bij afkorting ViO.
 
-#### Artikel 51
+##### Artikel 51
 
 Deze verordening treedt in werking op de eerste dag na publicatie in de Staatscourant en werkt terug tot en met 1 januari 2014.
 
-#### Artikel 25a
+##### Artikel 25a
 
 1. In aanvulling op [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=5&paragraaf=5.2&artikel=25&z=2025-12-24&g=2025-12-24), stemt de eindverantwoordelijke accountant die een wettelijke controle bij een organisatie van openbaar belang uitvoert vanaf de vierde verantwoordingsperiode met het auditcomité of een orgaan met gelijksoortige taken van die organisatie af of de wettelijke controle kan worden gecontinueerd en welke eventuele maatregelen daartoe worden genomen. De wettelijke controle wordt gecontinueerd nadat de eindverantwoordelijke accountant daartoe een schriftelijk akkoord van het auditcomité of een orgaan met gelijksoortige taken heeft verkregen.
 
@@ -882,7 +904,7 @@ Deze verordening treedt in werking op de eerste dag na publicatie in de Staatsco
 
 #### Paragraaf 6.1. – Geschenken en persoonlijke uitingen van gastvrijheid
 
-#### Artikel 29a
+##### Artikel 29a
 
 1. In aanvulling op [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=7&paragraaf=7.1&artikel=28&z=2025-12-24&g=2025-12-24) doet zich in geval van een wettelijke controle bij een organisatie van openbaar belang een bedreiging voor die een specifieke maatregel vereist, als een eindverantwoordelijke accountant gedurende vijf of een andere key assurance-partner gedurende zeven aaneengesloten jaren betrokken is geweest bij een assurance-opdracht voor dezelfde organisatie van openbaar belang.
 
@@ -900,7 +922,7 @@ Deze verordening treedt in werking op de eerste dag na publicatie in de Staatsco
 
 #### Paragraaf 10.1.1. – Algemeen
 
-#### Artikel 38a
+##### Artikel 38a
 
 De volgende personen die betrokken zijn bij de uitvoering van een wettelijke controle en die de accountantsorganisatie verlaten of voornemens zijn te verlaten, aanvaarden na het beëindigen van die betrokkenheid gedurende een periode van ten minste een jaar geen functie als bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=38&z=2025-12-24&g=2025-12-24), bij de betreffende controlecliënt:
 
@@ -926,7 +948,7 @@ De volgende personen die betrokken zijn bij de uitvoering van een wettelijke con
 
 ### Hoofdstuk 12. – Juridische procedure tegen de verantwoordelijke partij
 
-#### Artikel 48a
+##### Artikel 48a
 
 1. De ViO zoals deze luidde tot en met 16 juni 2016 blijft van toepassing op een assurance-opdracht die betrekking heeft op een verantwoordingsperiode die is aangevangen voor 17 juni 2016.
 
@@ -944,7 +966,7 @@ De volgende personen die betrokken zijn bij de uitvoering van een wettelijke con
 
 4. In afwijking van het eerste lid blijft [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=38&z=2025-12-24&g=2025-12-24) zoals dat luidde tot en met 16 juni 2016 van toepassing op een assurance-opdracht anders dan een wettelijke controle die betrekking heeft op een verantwoordingsperiode die is aangevangen of aanvangt voor 16 december 2017.
 
-#### Artikel 48b
+##### Artikel 48b
 
 1. [Artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=7&paragraaf=7.1&artikel=28&z=2025-12-24&g=2025-12-24), is niet van toepassing op een assurance-opdracht die voor 17 december 2013 is aangegaan.
 
@@ -978,7 +1000,7 @@ De volgende personen die betrokken zijn bij de uitvoering van een wettelijke con
 
 zoals deze luidden tot de inwerkingtreding van deze verordening op 1 januari 2014.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Voor een lid van het assurance-team van buiten het netwerk van de groepsaccountant geldt bij de toepassing van de [artikelen 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2025-12-24&g=2025-12-24), [10 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=2&paragraaf=2.5&artikel=10&z=2025-12-24&g=2025-12-24) en [17 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&hoofdstuk=4&paragraaf=4.1&artikel=17&z=2025-12-24&g=2025-12-24) onafhankelijkheid ten opzichte van:
 
@@ -1020,7 +1042,7 @@ zoals deze luidden tot de inwerkingtreding van deze verordening op 1 januari 201
 
 #### Paragraaf 4.1. – Algemeen
 
-#### Artikel 18a
+##### Artikel 18a
 
 Het is verboden een assurance-opdracht uit te voeren bij een verantwoordelijke entiteit, als de accountantseenheid of een ander onderdeel van het netwerk aan die entiteit een fiscale dienst verleent of heeft verleend of een fiscale transactie voorstelt of heeft voorgesteld en:
 
@@ -1030,7 +1052,7 @@ Het is verboden een assurance-opdracht uit te voeren bij een verantwoordelijke e
 
 #### Paragraaf 4.2. – Aanvullende bepalingen voor assuranceopdrachten bij verantwoordelijke entiteiten die geen oob zijn en niet beursgenoteerd zijn
 
-#### Artikel 20a
+##### Artikel 20a
 
 1. Het is verboden een assurance-opdracht uit te voeren bij een verantwoordelijke entiteit niet zijnde een organisatie van openbaar belang, als de accountantseenheid of een ander onderdeel van het netwerk aan die entiteit een non-assurancedienst verleent of heeft verleend die van invloed is op het assurance-object en een verwerkingswijze in het assurance-object tot gevolg heeft waarvan het assurance-team betwijfelt of deze verwerkingswijze passend is.
 
@@ -1042,7 +1064,7 @@ Het is verboden een assurance-opdracht uit te voeren bij een verantwoordelijke e
 
 #### Paragraaf 4.3. – Aanvullende bepalingen bij een oob (waarbij geen wettelijke controle wordt uitgevoerd) en bij een beursgenoteerde onderneming niet-oob (alle assurance-opdrachten)
 
-#### Artikel 22a
+##### Artikel 22a
 
 Het is verboden een assurance-opdracht uit te voeren bij een verantwoordelijke entiteit zijnde een organisatie van openbaar belang als de eindverantwoordelijk accountant, de accountantspraktijk of een ander onderdeel van het netwerk in een procedure voor een rechterlijke instantie of een andere instantie voor juridische conflictbeslechting:
 
@@ -1050,7 +1072,7 @@ Het is verboden een assurance-opdracht uit te voeren bij een verantwoordelijke e
 
 - b. optreedt als partijdeskundige namens de verantwoordelijke partij.
 
-#### Artikel 22b
+##### Artikel 22b
 
 1. De eindverantwoordelijke accountant weigert of beëindigt een wettelijke controle bij een verantwoordelijke entiteit zijnde een beursgenoteerde onderneming die geen organisatie van openbaar belang is waaraan de accountantspraktijk of een ander onderdeel van het netwerk:
 
@@ -1104,7 +1126,7 @@ Het is verboden een assurance-opdracht uit te voeren bij een verantwoordelijke e
 
 ### Hoofdstuk 15. – Overgangs- en slotbepalingen
 
-#### Artikel 48c
+##### Artikel 48c
 
 1. De ViO zoals deze luidde tot de inwerkingtreding van deze verordening blijft van toepassing op een assurance-opdracht die is overeengekomen voor 15 december 2023 en afgerond voor 15 december 2024.
 
@@ -1122,7 +1144,7 @@ Het is verboden een assurance-opdracht uit te voeren bij een verantwoordelijke e
 
 3. Deze verordening is van toepassing op een samenloop van dienstverlening met een non-assurancedienst die is overeengekomen voor meer dan een verantwoordingsperiode indien de werkzaamheden ten aanzien van de in het vorige lid onder b bedoelde verantwoordingsperiode zijn afgerond.
 
-#### Artikel 25b
+##### Artikel 25b
 
 De eindverantwoordelijke accountant beëindigt een assurance-opdracht bij een organisatie van openbaar belang, als het totaal van vergoedingen per verantwoordingsperiode die de accountantspraktijk gedurende vijf opeenvolgende verantwoordingsperioden bij deze organisatie in rekening heeft gebracht, meer dan vijftien procent van de totale opbrengst van de accountantspraktijk over elk van deze verantwoordingsperioden uitmaakt.
 

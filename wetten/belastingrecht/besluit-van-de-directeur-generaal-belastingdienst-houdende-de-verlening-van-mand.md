@@ -1,13 +1,39 @@
 ---
-title: "Besluit van de directeur-generaal Belastingdienst houdende de verlening van mandaat, volmacht en machtiging op grond van de Wet politiegegevens aan de algemeen directeuren van de organisatieonderdelen Grote Ondernemingen, Midden- en Kleinbedrijf en Particulieren"
+title: "Besluit van de directeur-generaal Belastingdienst van 24 mei 2024 (2024-286730) houdende de verlening van mandaat, volmacht en machtiging op grond van de Wet politiegegevens aan de algemeen directeuren van de organisatieonderdelen Grote Ondernemingen, Midden- en Kleinbedrijf en Particulieren (Besluit van de directeur-generaal Belastingdienst houdende de verlening van mandaat, volmacht en machtiging op grond van de Wet politiegegevens aan de algemeen directeuren van de organisatieonderdelen Grote Ondernemingen, Midden- en Kleinbedrijf en Particulieren)"
 identifier: "BWBR0049807"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-06-14
-laatste_update: 2024-06-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049807"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-14"
+last_updated: "2024-06-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049807"
+soort: "ministeriele-regeling"
+stam_id: "17129163"
+version_id: "30146132"
+internal_id: "C43195301"
+label_id: "17037634"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049807/2024-06-14/0"
+intitule_bron: "Stcrt.2024-18568"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-05-24"
+intitule_published: "2024-06-13"
+intitule_in_force: "2024-06-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-18568"
+original_signed_date: "2024-05-24"
+original_published_date: "2024-06-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-18568"
+entry_into_force_date: "2024-06-14"
+jci_1_3: "jci1.3:c:BWBR0049807&z=2024-06-14&g=2024-06-14"
+jci_1_0: "1.0:c:BWBR0049807&g=2024-06-14"
+citeertitel_status: "officieel"
+short_title: "Besluit van de directeur-generaal Belastingdienst houdende de verlening van mandaat, volmacht en machtiging op grond van de Wet politiegegevens aan de algemeen directeuren van de organisatieonderdelen Grote Ondernemingen, Midden- en Kleinbedrijf en Particulieren"
+signed_date: "2024-05-24"
+entry_into_force: "2024-06-14"
 ---
-
 # Besluit van de directeur-generaal Belastingdienst van 24 mei 2024 (2024-286730) houdende de verlening van mandaat, volmacht en machtiging op grond van de Wet politiegegevens aan de algemeen directeuren van de organisatieonderdelen Grote Ondernemingen, Midden- en Kleinbedrijf en Particulieren (Besluit van de directeur-generaal Belastingdienst houdende de verlening van mandaat, volmacht en machtiging op grond van de Wet politiegegevens aan de algemeen directeuren van de organisatieonderdelen Grote Ondernemingen, Midden- en Kleinbedrijf en Particulieren)
 
 Gelet op:
@@ -30,7 +56,7 @@ directeur-generaal Belastingdienst.
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 - f. **het verwerken van politiegegevens:** het verwerken van politiegegevens als bedoeld in [artikel 1, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1), en [artikel 2, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=2).
 
-#### Artikel 2. Mandaat, volmacht en machtiging
+##### Artikel 2. Mandaat, volmacht en machtiging
 
 Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met de verlening van mandaat gelijkgesteld de verlening van:
 
@@ -54,11 +80,11 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - b. machtiging om in naam van de minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
 
-#### Artikel 3. Mandaat
+##### Artikel 3. Mandaat
 
 Aan de algemeen directeur wordt ondermandaat verleend om de aan de directeur-generaal toekomende bevoegdheden uit de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463), het [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086) en het [Besluit politiegegevens buitengewoon opsporingsambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0041971) uit te oefenen.
 
-#### Artikel 4. Verantwoordingsplicht
+##### Artikel 4. Verantwoordingsplicht
 
 De algemeen directeur is gehouden de directeur-generaal te informeren met betrekking tot:
 
@@ -70,7 +96,7 @@ De algemeen directeur is gehouden de directeur-generaal te informeren met betrek
 
 - d. datalekken waarbij sprake is van een maatschappelijk hoog risico.
 
-#### Artikel 5. Voorbehouden aan de algemeen directeur
+##### Artikel 5. Voorbehouden aan de algemeen directeur
 
 Aan de algemeen directeur is voorbehouden:
 
@@ -88,13 +114,13 @@ Aan de algemeen directeur is voorbehouden:
 
 - 7. het benoemen van een privacyfunctionaris, als bedoeld in [artikel 34, eerste lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=34).
 
-#### Artikel 6. Ondermandaat
+##### Artikel 6. Ondermandaat
 
 1. De algemeen directeur kan ondermandaat verlenen aan de onder hem ressorterende functionarissen van Grote Ondernemingen, Midden- en Kleinbedrijf en Particulieren, behoudens de op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049807&artikel=5&z=2024-06-14&g=2024-06-14) van dit besluit aan de algemeen directeur voorbehouden bevoegdheden.
 
 2. In een ondermandaat wordt de omvang ervan aangegeven.
 
-#### Artikel 7. Ondertekening
+##### Artikel 7. Ondertekening
 
 Besluiten die worden genomen op grond van dit mandaatbesluit, worden als volgt ondertekend:
 
@@ -106,15 +132,15 @@ namens deze,
 
 [functie van de (onder)gemandateerde functionaris]
 
-#### Artikel 8. Verslag
+##### Artikel 8. Verslag
 
 Van de krachtens dit besluit genomen besluiten wordt door de algemeen directeur verslag gedaan als onderdeel van het jaarverslag of eerder zodra daartoe aanleiding is.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 oktober 2023.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit van de directeur-generaal Belastingdienst houdende de verlening van mandaat, volmacht en machtiging op grond van de Wet politiegegevens aan de algemeen directeuren van de organisatieonderdelen Grote Ondernemingen, Midden- en Kleinbedrijf en Particulieren.
 

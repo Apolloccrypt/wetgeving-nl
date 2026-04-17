@@ -1,13 +1,38 @@
 ---
 title: "Aanvullend Protocol bij de Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds, in verband met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie"
 identifier: "BWBV0001649"
-categorie: "Internationaal recht"
-publicatiedatum: 2005-02-01
-laatste_update: 2004-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001649"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-02-01"
+last_updated: "2004-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001649"
+soort: "verdrag"
+stam_id: "10001401623"
+version_id: "10001471002"
+internal_id: "C10006995061"
+label_id: "10001401744"
+dtd_version: "2.0"
+original_entry_into_force: "2005-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001649/2005-02-01/0"
+intitule_bron: "Trb.2004-180"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-05-01"
+intitule_published: "2004-07-14"
+intitule_in_force: "2005-04-18"
+intitule_status: "goed"
+original_publication: "Trb.2004-180"
+original_signed_date: "2004-05-01"
+original_published_date: "2004-07-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-180"
+entry_into_force_date: "2005-02-01"
+jci_1_3: "jci1.3:c:BWBV0001649&z=2005-02-01&g=2005-02-01"
+jci_1_0: "1.0:c:BWBV0001649&g=2005-02-01"
+citeertitel_status: "redactioneel"
+signed_date: "2004-05-01"
+entry_into_force: "2005-02-01"
 ---
-
 # Aanvullend Protocol bij de Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds, in verband met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie
 
 Het Koninkrijk België,
@@ -92,23 +117,23 @@ Overwegende dat artikel 5, lid 3, van dit Protocol het mogelijk zal maken dat de
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek worden opgenomen als partijen bij de Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds.
 
-#### Artikel 2
+##### Artikel 2
 
 Binnen zes maanden na de parafering van dit Protocol zal de Europese Gemeenschap de Estse, de Hongaarse, de Letse, de Litouwse, de Maltese, de Poolse, de Sloveense, de Slowaakse en de Tsjechische taalversies van de Overeenkomst aan de lidstaten en Mexico doen toekomen. Onder voorbehoud van de inwerkingtreding van dit Protocol worden de nieuwe taalversies authentiek onder dezelfde voorwaarden als de versies die zijn opgesteld in de huidige talen van de Overeenkomst.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit Protocol maakt integrerend deel uit van de Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit Protocol is opgesteld in twee exemplaren in de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Dit Protocol wordt door de Europese Gemeenschap, door de Raad van de Europese Unie namens de lidstaten en door de Verenigde Mexicaanse Staten volgens hun eigen procedures goedgekeurd.
 

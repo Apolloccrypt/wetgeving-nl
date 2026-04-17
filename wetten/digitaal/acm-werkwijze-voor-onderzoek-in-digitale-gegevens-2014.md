@@ -1,13 +1,38 @@
 ---
 title: "ACM Werkwijze voor onderzoek in digitale gegevens 2014"
 identifier: "BWBR0034802"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2024-08-09
-laatste_update: 2024-08-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034802"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-08-09"
+last_updated: "2024-08-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034802"
+soort: "zbo"
+stam_id: "12576743"
+version_id: "21224302"
+internal_id: "C30473961"
+label_id: "12547264"
+dtd_version: "2.0"
+original_entry_into_force: "2014-02-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034802/2024-08-09/0"
+intitule_bron: "Stcrt.2014-3993"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-02-06"
+intitule_published: "2014-02-11"
+intitule_in_force: "2014-02-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-3993"
+original_signed_date: "2014-02-06"
+original_published_date: "2014-02-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-3993"
+entry_into_force_date: "2014-02-12"
+jci_1_3: "jci1.3:c:BWBR0034802&z=2024-08-09&g=2024-08-09"
+jci_1_0: "1.0:c:BWBR0034802&g=2024-08-09"
+citeertitel_status: "officieel"
+signed_date: "2014-02-06"
+entry_into_force: "2014-02-12"
 ---
-
 # ACM Werkwijze voor onderzoek in digitale gegevens 2014
 
 Gelet op de [artikelen 5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=51) en [89 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=89), [artikel 70, vierde lid, eerste volzin, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=70), [artikel 48, vierde lid, laatste volzin, van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=48), [artikel 11.14a, eerste lid, tweede volzin, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.14a) en [artikel 2.4, tweede lid, van de Wet Handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=2.4);
@@ -16,7 +41,7 @@ Gezien de wens om nadere invulling te geven aan de bevoegdheid inzage te vordere
 
 Besluit:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit besluit wordt verstaan onder:
 
@@ -46,7 +71,7 @@ In dit besluit wordt verstaan onder:
 
 #### Waarborgen bij de inzet van de bevoegdheid inzage te vorderen in gegevens op grond van [artikel 5:17 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17)
 
-#### Artikel 2.1. Waarborgen bij de totstandkoming van de veiliggestelde dataset
+##### Artikel 2.1. Waarborgen bij de totstandkoming van de veiliggestelde dataset
 
 1. Bij het inzage vorderen, veiligstellen en selecteren van gegevens richt de toezichthoudend ambtenaar zich op het doel en voorwerp van het onderzoek;
 
@@ -58,7 +83,7 @@ In dit besluit wordt verstaan onder:
 
 5. De toezichthoudend ambtenaar verstrekt betrokkene een overzicht van de gegevens op de veiliggestelde dataset met de bijbehorende hashwaarden per bestand na het veiligstellen van gegevens.
 
-#### Artikel 2.2. Waarborgen bij de totstandkoming van de binnen-de-reikwijdte dataset
+##### Artikel 2.2. Waarborgen bij de totstandkoming van de binnen-de-reikwijdte dataset
 
 1. Totdat de dataset waarvan de toezichthoudend ambtenaar inzage vordert of de veiliggestelde dataset zodanig is geselecteerd dat zij is aan te merken als binnen-de-reikwijdte dataset, ziet de toezichthoudend ambtenaar de gegevens niet langer in dan noodzakelijk om te beoordelen of de gegevens binnen-de-reikwijdte zijn;
 
@@ -66,21 +91,21 @@ In dit besluit wordt verstaan onder:
 
 3. De toezichthoudend ambtenaar verstrekt betrokkene een overzicht van de gegevens op de binnen-de-reikwijdte dataset, en van de wijze van totstandkoming van de binnen-de-reikwijdte dataset, zo spoedig mogelijk, doch uiterlijk op het moment van ter inzage verlening.
 
-#### Artikel 2.3. Waarborgen bij de totstandkoming van de onderzoeksdataset
+##### Artikel 2.3. Waarborgen bij de totstandkoming van de onderzoeksdataset
 
 1. Indien redelijkerwijs te verwachten is dat de binnen-de-reikwijdte dataset gegevens kan bevatten die als niet-zakelijk zijn aan te merken, stelt de toezichthoudend ambtenaar betrokkene in staat schriftelijk en gemotiveerd aan te geven welke gegevens op de binnen-de-reikwijdte dataset als niet-zakelijke gegevens in de zin van [artikel 5:17, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) kunnen worden aangemerkt;
 
 2. De toezichthoudend ambtenaar beoordeelt deze claim. Voor zover de toezichthoudend ambtenaar deze claim toewijst, worden deze gegevens niet opgenomen in de onderzoeksdataset.
 
-#### Artikel 2.4. Waarborg bij de totstandkoming van de veiliggestelde dataset, de binnen-de-reikwijdte dataset en de onderzoeksdataset
+##### Artikel 2.4. Waarborg bij de totstandkoming van de veiliggestelde dataset, de binnen-de-reikwijdte dataset en de onderzoeksdataset
 
 In de ‘[ACM Werkwijze geheimhoudingsprivilege advocaat 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034801)’ is aangegeven hoe de toezichthoudend ambtenaar omgaat met het recht op geprivilegieerde correspondentie tussen advocaat en betrokkene bij de totstandkoming van de veiliggestelde dataset, de binnen-de-reikwijdte dataset en de onderzoeksdataset.
 
-#### Artikel 2.5. Waarborg bij het opnemen van gegevens in het dossier
+##### Artikel 2.5. Waarborg bij het opnemen van gegevens in het dossier
 
 De toezichthoudend ambtenaar licht toe op grond waarvan hij gegevens uit de onderzoeksdataset ter inzage legt op grond van [artikel 5:49, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:49). Dit gebeurt zo spoedig mogelijk, doch uiterlijk op het moment van ter inzage verlening. Dit gebeurt niet indien de keuze voor ter inzage legging is gebaseerd op een beoordeling van de inhoud van de gegevens.
 
-#### Artikel 2.6. Waarborgen betreffende het hergebruik, de externe verstrekking en het bewaren van gegevens
+##### Artikel 2.6. Waarborgen betreffende het hergebruik, de externe verstrekking en het bewaren van gegevens
 
 1. Gegevens opgenomen in de onderzoeksdataset kunnen worden hergebruikt in een ander onderzoek en extern worden verstrekt;
 
@@ -92,15 +117,15 @@ De toezichthoudend ambtenaar licht toe op grond waarvan hij gegevens uit de onde
 
 5. Gegevens opgenomen in het dossier worden bewaard overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
 
-#### Artikel 3. Slotbepaling
+##### Artikel 3. Slotbepaling
 
 Dit besluit vervangt alle eerdere werkwijzen van de Consumentenautoriteit, de Raad van Bestuur van de Nederlandse Mededingingsautoriteit en het College van de Onafhankelijke Post en Telecommunicatie Autoriteit betreffende onderzoek in gegevens.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: ACM Werkwijze voor onderzoek in digitale gegevens 2014.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van publicatie van de Staatscourant waarin het wordt geplaatst.
 

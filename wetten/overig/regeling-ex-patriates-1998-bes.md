@@ -1,20 +1,45 @@
 ---
 title: "Regeling ex-patriates 1998 BES"
 identifier: "BWBR0029315"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029315"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029315"
+soort: "ministeriele-regeling-BES"
+stam_id: "11179243"
+version_id: "18284862"
+internal_id: "C25451931"
+label_id: "11153584"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029315/2024-01-01/0"
+intitule_bron: "Stcrt.2010-21106"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-23"
+intitule_published: "2010-12-29"
+intitule_in_force: "2010-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-21106"
+original_signed_date: "2010-12-23"
+original_published_date: "2010-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-21106"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0029315&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0029315&g=2024-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-12-23"
+entry_into_force: "2011-01-01"
 ---
-
 # Regeling ex-patriates 1998 BES
 
 Besluit:
 
 Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 05.00 uur in het Europese deel van Nederland.
 
-#### Artikel 1
+##### Artikel 1
 
 - 1. In deze regeling wordt verstaan onder:
 
@@ -24,7 +49,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 05.00 uu
 
 - 2. Deze regeling geeft uitvoering aan [artikel 58 van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=58) en [artikel 22 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=22).
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling is van toepassing op de ex-patriate:
 
@@ -34,11 +59,11 @@ Deze regeling is van toepassing op de ex-patriate:
 
 - c. wiens deskundigheid op de lokale arbeidsmarkt niet of in beperkte mate beschikbaar is.
 
-#### Artikel 3
+##### Artikel 3
 
 [vervallen]
 
-#### Artikel 4
+##### Artikel 4
 
 In afwijking van [artikel 6, eerste lid, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6) wordt niet tot het loon van de ex-patriate gerekend de in verband met zijn dienstbetrekking genoten:
 
@@ -54,11 +79,11 @@ In afwijking van [artikel 6, eerste lid, van de Wet loonbelasting BES](https://w
 
 - f. vergoedingen ter dekking van kosten verbonden met de huur van een vervoermiddel bij aankomst van de werknemer in de openbare lichamen Bonaire, Sint Eustatius of Saba gedurende maximaal 2 maanden met dien verstande dat de vergoedingen niet meer bedragen dan USD 1.509 per maand.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien de werkgever de door de werknemer verschuldigde loon- of inkomstenbelasting voor zijn rekening neemt vindt geen brutering van het loon plaats indien tussen de werknemer en werkgever schriftelijk een netto loon is overeengekomen.
 
-#### Artikel 6
+##### Artikel 6
 
 - 1. De werkgever kan de inspecteur schriftelijk verzoeken de werknemer voor een periode van 5 jaar aan te merken als ex-patriate in de zin van deze regeling. Het verzoek van de werkgever dient mede ondertekend te worden door de werknemer.
 
@@ -66,7 +91,7 @@ Indien de werkgever de door de werknemer verschuldigde loon- of inkomstenbelasti
 
 - 3. De inspecteur beslist bij voor bezwaar vatbare beschikking op de in het eerste en tweede lid bedoelde verzoeken.
 
-#### Artikel 7
+##### Artikel 7
 
 - 1. Het in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=6&z=2024-01-01&g=2024-01-01), bedoelde verzoek wordt ingediend door de werkgever binnen drie maanden na aanvang van de tewerkstelling van de ex-patriate in de openbare lichamen Bonaire, Sint Eustatius of Saba.
 
@@ -88,23 +113,23 @@ Indien de werkgever de door de werknemer verschuldigde loon- of inkomstenbelasti
 
 - 5. De periode van één jaar wordt verlengd tot en met vijf jaar indien vóór het verstrijken van het jaar de werk- en verblijfsvergunning aan de inspecteur wordt overlegd.
 
-#### Artikel 8
+##### Artikel 8
 
 - 1. De beschikkingen, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=6&z=2024-01-01&g=2024-01-01), worden geacht niet langer van toepassing te zijn vanaf het moment waarop de dienstbetrekking met de ex-patriate is beëindigd.
 
 - 2. De werkgever is gehouden binnen een maand na beëindiging van de dienstbetrekking met de ex-patriate dit kenbaar te maken aan de inspecteur.
 
-#### Artikel 9
+##### Artikel 9
 
 - 1. Indien de ex-patriate van werkgever verandert, kan op verzoek van de nieuwe werkgever de werknemer opnieuw als ex-patriate worden aangemerkt voor het nog niet verstreken gedeelte van de in [artikel 6, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=6&z=2024-01-01&g=2024-01-01), bedoelde periode mits de periode tussen de beëindiging van de oorspronkelijke dienstbetrekking en de aanvang van de opvolgende dienstbetrekking niet meer dan drie maanden bedraagt en de opvolgende werkgever kan aantonen dat de regeling op de werknemer van toepassing is geweest alsmede wie de voormalige werkgever van de werknemer is.
 
 - 2. Het in het eerste lid bedoelde verzoek wordt schriftelijk aan de inspecteur gedaan. De inspecteur beslist bij voor bezwaar vatbare beschikking op dat verzoek.
 
-#### Artikel 10
+##### Artikel 10
 
 De werkgever is gehouden duidelijk gespecificeerd de bestanddelen van het volbelast loon aan te geven alsmede de beloningen in natura en die in contanten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=4&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 11
+##### Artikel 11
 
 - 1. Als strafbaar feit, bedoeld in [artikel 8.77, tweede lid, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.77) wordt aangemerkt:
 
@@ -114,22 +139,22 @@ De werkgever is gehouden duidelijk gespecificeerd de bestanddelen van het volbel
 
 - 2. Indien één of meer van de in het eerste lid genoemde feiten zich voordoet worden de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=4&z=2024-01-01&g=2024-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=5&z=2024-01-01&g=2024-01-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=9&z=2024-01-01&g=2024-01-01) geacht nimmer van toepassing te zijn geweest ten aanzien van de desbetreffende werknemer.
 
-#### Artikel 12
+##### Artikel 12
 
 [Artikel 9, eerste tot en met vierde lid, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=9) is, voor zover het betreft de categorie beroepskosten, niet van toepassing op de werknemer die wordt aangemerkt als een ex-patriate.
 
-#### Artikel 13
+##### Artikel 13
 
 [vervallen]
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 [vervallen]
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling ex-patriates 1998 BES.

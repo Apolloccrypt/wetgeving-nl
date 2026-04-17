@@ -1,13 +1,37 @@
 ---
 title: "Eindtermen vuurwapenopleiding politie"
 identifier: "BWBR0008332"
-categorie: "Bestuursrecht"
-publicatiedatum: 1996-11-15
-laatste_update: 1996-11-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008332"
+country: "nl"
+rank: "circulaire"
+publication_date: "1996-11-15"
+last_updated: "1996-11-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008332"
+soort: "circulaire"
+stam_id: "6313483"
+version_id: "10973012"
+internal_id: "C14870851"
+label_id: "6302304"
+original_entry_into_force: "1996-11-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008332/1996-11-15/0"
+intitule_bron: "Stcrt.1996-227"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-11-15"
+intitule_published: "1996-11-22"
+intitule_in_force: "1996-11-22"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-227"
+original_signed_date: "1996-11-15"
+original_published_date: "1996-11-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1996-227-p14-SC7479"
+entry_into_force_date: "1996-11-15"
+jci_1_3: "jci1.3:c:BWBR0008332&z=1996-11-15&g=1996-11-15"
+jci_1_0: "1.0:c:BWBR0008332&g=1996-11-15"
+citeertitel_status: "redactioneel"
+signed_date: "1996-11-15"
+entry_into_force: "1996-11-15"
 ---
-
 # Eindtermen vuurwapenopleiding politie
 
 Circulaire aan korpsbeheerders en beheerder KLPD

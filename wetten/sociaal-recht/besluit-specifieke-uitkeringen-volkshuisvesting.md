@@ -1,13 +1,39 @@
 ---
-title: "Besluit specifieke uitkeringen volkshuisvesting"
+title: "Besluit van 29 oktober 2022, houdende het stellen van regels over het verstrekken van specifieke uitkeringen aan gemeenten of provincies voor activiteiten die passen in het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving"
 identifier: "BWBR0047481"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047481"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047481"
+soort: "AMvB"
+stam_id: "16566753"
+version_id: "30996242"
+internal_id: "C44389931"
+label_id: "16486674"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047481/2026-01-01/0"
+intitule_bron: "Stb.2022-452"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-10-29"
+intitule_published: "2022-11-16"
+intitule_in_force: "2023-02-21"
+intitule_status: "goed"
+original_publication: "Stb.2025-306"
+original_signed_date: "2025-10-08"
+original_published_date: "2025-10-27"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2025-306"
+entry_into_force_date: "2025-10-08"
+jci_1_3: "jci1.3:c:BWBR0047481&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0047481&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit specifieke uitkeringen volkshuisvesting"
+signed_date: "2025-10-08"
+entry_into_force: "2025-10-08"
 ---
-
 # Besluit van 29 oktober 2022, houdende het stellen van regels over het verstrekken van specifieke uitkeringen aan gemeenten of provincies voor activiteiten die passen in het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving
 
 Op de voordracht van Onze Minister voor Volkshuisvesting en Ruimtelijke Ordening van 22 april 2022, nr. 2022-0000203708;
@@ -20,11 +46,11 @@ Gezien het nader rapport van Onze Minister voor Volkshuisvesting en Ruimtelijke 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan onder Onze Minister: Onze Minister voor Volkshuisvesting en Ruimtelijke Ordening.
 
-#### Artikel 2. Activiteiten waarvoor een uitkering kan worden verstrekt
+##### Artikel 2. Activiteiten waarvoor een uitkering kan worden verstrekt
 
 1. Onze Minister kan een specifieke uitkering verstrekken voor activiteiten die gericht zijn op:
 
@@ -62,7 +88,7 @@ Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan 
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld over de toepassing van het eerste lid.
 
-#### Artikel 3. Delegatiegrondslag
+##### Artikel 3. Delegatiegrondslag
 
 Bij ministeriële regeling kunnen voorschriften worden gegeven omtrent het verstrekken van een specifieke uitkering als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), waaronder in ieder geval voorschriften over:
 
@@ -90,7 +116,7 @@ Bij ministeriële regeling kunnen voorschriften worden gegeven omtrent het verst
 
 - l. de wijze van vaststelling van de specifieke uitkering.
 
-#### Artikel 4. Nieuwe grondslagen uitvoeringsregelingen
+##### Artikel 4. Nieuwe grondslagen uitvoeringsregelingen
 
 Na de inwerkingtreding van dit besluit berust:
 
@@ -120,7 +146,7 @@ Na de inwerkingtreding van dit besluit berust:
 
 - m. de [Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten ten behoeve van de verduurzaming van slecht geïsoleerde woningen van eigenaar-bewoners, verenigingen van eigenaars, woonverenigingen en wooncoöperaties in het kader van het Nationaal Isolatieprogramma](https://wetten.overheid.nl/jci1.3:c:BWBR0047844) op [artikel 2, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
@@ -128,7 +154,7 @@ Na de inwerkingtreding van dit besluit berust:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit specifieke uitkeringen volkshuisvesting
 

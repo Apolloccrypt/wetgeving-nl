@@ -1,13 +1,32 @@
 ---
 title: "Overeenkomst tussen zekere Lid-Staten van de Europese Organisatie voor Ruimteonderzoek en de Europese Organisatie voor Ruimteonderzoek inzake de tenuitvoerlegging van een programma betreffende luchtverkeerssatellieten"
 identifier: "BWBV0003676"
-categorie: "Milieu"
-publicatiedatum: 1971-12-09
-laatste_update: 1971-12-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003676"
+country: "nl"
+rank: "verdrag"
+publication_date: "1971-12-09"
+last_updated: "1971-12-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003676"
+soort: "verdrag"
+stam_id: "10003644513"
+version_id: "10003704582"
+internal_id: "C10006983761"
+label_id: "10003629774"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003676/1971-12-09/0"
+intitule_bron: "Trb.1975-26"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1975-03-04"
+intitule_status: "nogniet"
+original_publication: "Trb.1975-26"
+original_published_date: "1975-03-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1975-26"
+jci_1_3: "jci1.3:c:BWBV0003676&z=1971-12-09&g=1971-12-09"
+jci_1_0: "1.0:c:BWBV0003676&g=1971-12-09"
+citeertitel_status: "redactioneel"
+entry_into_force: "1975-03-04"
 ---
-
 # Overeenkomst tussen zekere Lid-Staten van de Europese Organisatie voor Ruimteonderzoek en de Europese Organisatie voor Ruimteonderzoek inzake de tenuitvoerlegging van een programma betreffende luchtverkeerssatellieten
 
 De Regeringen van de Bondsrepubliek Duitsland, het Koninkrijk België, Spanje, de Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, het Koninkrijk Zweden en de Zwitserse Bondsstaat
@@ -36,13 +55,13 @@ Met voldoening nota nemend van het voorstel tot instelling van een Conferentie v
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Deelnemers nemen, in samenwerking met Regeringen en instellingen van Staten die geen lid zijn van de Organisatie en maatschappijen van deze Staten, een programma ter hand dat het ontwerp, de ontwikkeling, de totstandkoming en de exploitatie beoogt van een stelsel van luchtverkeerssatellieten bestemd voor proefneming en evaluatie, ten einde een belangrijke bijdrage te leveren aan de totstandkoming van een zodanig stelsel voor verschillende zones en met name de Atlantische Oceaan en de Stille Zuidzee, en de voor de totstandbrenging van een operationeel stelsel benodigde ervaring te verwerven.
 
 2. Krachtens artikel VIII van het Verdrag verleent de Organisatie hulp en stelt zij haar installaties beschikbaar bij de uitvoering van het in het eerste lid van dit artikel bedoelde programma.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het in het eerste lid van artikel 1 bedoelde programma voor proefneming en evaluatie (hierna te noemen „het Gezamenlijke evaluatieprogramma voor Aerosat”) bestaat uit een satellietcapaciteit en een Gecoördineerd Programma zoals gedefinieerd en beschreven in Bijlage A bij deze Overeenkomst.
 
@@ -50,7 +69,7 @@ Zijn overeengekomen als volgt:
 
 3. De satellietcapaciteit wordt tot stand gebracht krachtens contracten tussen de Organisatie, optredend namens haar Deelnemende Lid-Staten, Canada en een maatschappij uit de Verenigde Staten, waardoor de Organisatie, Canada en een maatschappij uit de Verenigde Staten mede-eigenaar worden van deze capaciteit. De satellietcapaciteit wordt ter beschikking gesteld aan het Gezamenlijke evaluatieprogramma voor Aerosat.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Deelnemers stellen een Programmaraad in die zal bestaan uit hun vertegenwoordigers en die verantwoordelijk is voor alle Europese aangelegenheden van het Gezamenlijke evaluatieprogramma voor Aerosat en alle beslissingen betreffende deze aangelegenheden neemt, onder voorbehoud van de bijzondere bepalingen met betrekking tot het gecoördineerde programma.
 
@@ -76,17 +95,17 @@ Zijn overeengekomen als volgt:
 
 - (i). toe te zien op de samenhang tussen enerzijds de maatregelen die worden uitgevoerd naar aanleiding van bijeenkomsten van de in artikel 4 genoemde Conferentie, en anderzijds de ontwikkeling van het programma als geheel.
 
-#### Artikel 4
+##### Artikel 4
 
 Het gecoördineerde programma wordt gemeenschappelijk vastgesteld door de Organisatie en een Conferentie, die is samengesteld uit de directeuren van luchtverkeersbeveiligingsdiensten van de Deelnemers. De onderscheiden verdeling van de bevoegdheden en de verantwoordelijkheden tussen de Programmaraad en genoemde Conferentie wordt bepaald in een protocol dat wordt opgesteld tussen de Organisatie en deze Conferentie.
 
-#### Artikel 5
+##### Artikel 5
 
 De besluiten van de Programmaraad worden genomen overeenkomstig het Reglement van orde van de Raad, dat **mutatis mutandis** van toepassing is, tenzij in deze Overeenkomst anders is bepaald.
 
 Onder voorbehoud van wederkerigheid wordt een door de in artikel 4 genoemde Conferentie aangewezen vertegenwoordiger uitgenodigd als waarnemer bij de vergaderingen van de Programmaraad en brengt deze aan de Programmaraad verslag uit over de door de Conferentie tot uitdrukking gebrachte standpunten.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De satellietcapaciteit wordt uitgevoerd onder verantwoordelijkheid van de Directeur-Generaal van de Organisatie, overeenkomstig de bepalingen van deze Overeenkomst.
 
@@ -102,7 +121,7 @@ Onder voorbehoud van wederkerigheid wordt een door de in artikel 4 genoemde Conf
 
 - (c). dat rekening wordt gehouden met de standpunten van de in artikel 4 genoemde Conferentie in het kader van de opstelling van de jaarlijkse begroting voor het gecoördineerde programma.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De kosten die voortvloeien uit de uitvoering van het Gezamenlijke evaluatieprogramma voor Aerosat worden gedragen door de Deelnemers, binnen de grenzen van een totale financiële enveloppe ten belope van 101 miljoen rekeneenheden, op het prijspeil van medio 1974, waarin begrepen:
 
@@ -114,7 +133,7 @@ Onder voorbehoud van wederkerigheid wordt een door de in artikel 4 genoemde Conf
 
 3. De Programmaraad keurt de jaarlijkse begroting van het Gezamenlijke evaluatieprogramma voor Aerosat goed met een meerderheid van twee derde van het aantal stemmen.
 
-#### Artikel 8
+##### Artikel 8
 
 Onder voorbehoud van het bepaalde in de in artikel 2, derde lid, bedoelde contracten,
 
@@ -122,11 +141,11 @@ Onder voorbehoud van het bepaalde in de in artikel 2, derde lid, bedoelde contra
 
 - (b). worden de publikatie van en de toegang tot wetenschappelijke gegevens die voortvloeien uit de uitvoering van het Gezamenlijke evaluatieprogramma voor Aerosat beheerst door de desbetreffende regels van de Organisatie.
 
-#### Artikel 9
+##### Artikel 9
 
 De Organisatie treft alle noodzakelijke contractuele regelingen ten einde namens de Deelnemers mede-eigenares te worden van de satellieten die binnen het kader van de satellietcapaciteit worden ontwikkeld, alsmede van de installaties en uitrustingen die voor de uitvoering van het Gezamenlijke evaluatieprogramma voor Aerosat zijn aangeschaft door de Organisatie tot en met inbegrip van de preoperationele fase. Over iedere overdracht van installaties of uitrusting die aan de Organisatie behoren na afloop van het Gezamenlijke evaluatieprogramma voor Aerosat beslissen de Deelnemers in overleg met de Raad van de Organisatie.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Ten einde de mogelijkheid te scheppen de in artikel 7, eerste lid, letters (a) en (b) bedoelde financiële enveloppes te herzien, komen de Deelnemers overeen om, in geval van wijzigingen in het prijspeil, de in de Organisatie van kracht zijnde procedure toe te passen.
 
@@ -138,27 +157,27 @@ De Organisatie treft alle noodzakelijke contractuele regelingen ten einde namens
 
 - (c). indien de totale geraamde kosten van het Gezamenlijke evaluatieprogramma voor Aerosat meer bedragen dan honderdnegentien miljoen rekeneenheden, op het prijspeil van medio 1974, kunnen de Deelnemers die zulks wensen zich terugtrekken uit het Programma, onder voorbehoud van het bepaalde in artikel 16. Zij die de uitvoering van het Programma wensen voort te zetten plegen onderling overleg en bepalen de wijze van voortzetting. Zij stellen hiervan de Raad van de Organisatie op de hoogte, die zonodig alle noodzakelijke besluiten neemt.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Deelnemers vrijwaren de Organisatie ter zake van elke aansprakelijkheid die op haar zou kunnen komen te rusten indien haar verantwoordelijkheid in internationaal verband in het geding zou komen ten gevolge van de uitvoering van het Gezamenlijke evaluatieprogramma voor Aerosat.
 
 2. Elke vergoeding voor geleden schade die de Organisatie ontvangt vanwege dit Programma wordt in de jaarlijkse begroting van het Gezamenlijke evaluatieprogramma voor Aerosat gecrediteerd.
 
-#### Artikel 12
+##### Artikel 12
 
 De Deelnemers trachten te verzekeren dat aan boord van lijnvliegtuigen elektronische boordapparatuur wordt geïnstalleerd, zulks op kosten van de Organisatie, volgens de in bijlage B, tweede paragraaf, letter (b), vermelde minimale verdeling, alsmede aan boord van ten minste één vliegtuig dat bestemd is voor onderzoek en ontwikkeling. Het programma voor ontwikkeling en fabricage van de elektronische boordapparatuur wordt met eenparigheid van stemmen vastgesteld; wordt geen eenparigheid bereikt, dan is iedere Deelnemer gemachtigd de met zijn deelname in dit programma overeenstemmende bedragen te gebruiken op de wijze die hem het meest passend lijkt.
 
-#### Artikel 13
+##### Artikel 13
 
 De Deelnemers nemen goede nota van de bepalingen in het ontwerp van het Memorandum van Overeenstemming en de daaruit voor hen voortvloeiende rechten en plichten en zij gaan ermee akkoord dat de Raad van de Organisatie de Directeur-Generaal machtigt dit Memorandum te ondertekenen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Elk geschil tussen twee of meer Deelnemers of tussen een Deelnemer en de Organisatie betreffende de uitlegging of de toepassing van deze Overeenkomst dat niet in der minne kan worden geschikt, wordt op verzoek van een der partijen bij het geschil voorgelegd aan een enkele scheidsman die wordt benoemd door de President van het Internationale Gerechtshof. Deze scheidsman mag geen onderdaan zijn van een Staat die partij is bij het geschil.
 
 2. De partijen bij deze Overeenkomst die geen partijen zijn bij het geschil hebben het recht zich te voegen in het geding en de beslissing van de scheidsman is bindend voor alle Deelnemers en de Organisatie, ongeacht of zij al dan niet aan het geding hebben deelgenomen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Deze Overeenkomst staat tot 31 december 1971 open voor ondertekening door de Deelnemers.
 
@@ -170,7 +189,7 @@ De Deelnemers nemen goede nota van de bepalingen in het ontwerp van het Memorand
 
 3. Deze Overeenkomst treedt in werking wanneer zij door de Organisatie is ondertekend en wanneer zoveel Staten overeenkomstig het in het tweede lid van dit artikel bepaalde partij bij deze Overeenkomst zijn geworden, dat hun bijdragen volgens de schaal in bijlage B twee derde van alle te betalen bedragen belopen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Elke Deelnemer die zich uit het Gezamenlijke evaluatieprogramma voor Aerosat terugtrekt volgens het tweede lid, letter (c), van artikel 10 van deze Overeenkomst, blijft gehouden bij te dragen in de kosten die voortvloeien uit de verbintenissen omtrent de financiering waarvan reeds een besluit is genomen.
 
@@ -178,21 +197,21 @@ De Deelnemers nemen goede nota van de bepalingen in het ontwerp van het Memorand
 
 3. Een zich terugtrekkende Deelnemer geniet de rechten die de Deelnemers toekomen tot op de datum van de werkelijke terugtrekking. Vanaf die datum ontstaan voor hem geen verdere rechten of verplichtingen voortvloeiend uit het deel van het Programma waaraan hij niet meer deelneemt.
 
-#### Artikel 17
+##### Artikel 17
 
 De bijlagen A en B vormen een integrerend deel van deze Overeenkomst.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Onverminderd de desbetreffende bepalingen van het Memorandum van Overeenstemming kan deze Overeenkomst op verzoek van een of meer Deelnemers worden gewijzigd. De Organisatie geniet eveneens het recht van initiatief ter zake van wijzigingen betreffende bepalingen die voor haar rechten of plichten doen ontstaan. Wijzigingen worden van kracht wanneer alle Partijen hun goedkeuring hebben medegedeeld aan de Depositaris.
 
 2. Onverminderd de desbetreffende bepalingen van het Memorandum van Overeenstemming kunnen de bijlagen bij deze Overeenkomst door de Programmaraad worden herzien overeenkomstig de bijzondere bepalingen in de herzieningsclausules van deze bijlagen.
 
-#### Artikel 19
+##### Artikel 19
 
 Zodra deze Overeenkomst in werking is getreden doet de Regering van Frankrijk deze registreren bij het Secretariaat van de Verenigde Naties overeenkomstig artikel 102 van het Handvest van de Verenigde Naties.
 
-#### Artikel 20
+##### Artikel 20
 
 De Regering van Frankrijk is Depositaris van deze Overeenkomst; zij stelt de Regeringen van de Lid-Staten van de Organisatie in kennis van elke ondertekening, bekrachtiging of toetreding, alsmede van de datum van inwerkingtreding van deze Overeenkomst en van elke wijziging daarvan.
 

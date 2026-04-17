@@ -1,13 +1,39 @@
 ---
-title: "Indicatieprotocol Hoog PKB Valys-vervoer"
+title: "Besluit van de Staatssecretaris Langdurige en Maatschappelijke Zorg, van 12 januari 2026, 4299382-1091493-DMO, houdende de vaststelling van regels betreffende het toekennen van het Valys Hoog Persoonlijk Kilometerbudget"
 identifier: "BWBR0052202"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-23
-laatste_update: 2026-01-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052202"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-01-23"
+last_updated: "2026-01-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052202"
+soort: "beleidsregel"
+stam_id: "17737163"
+version_id: "31340592"
+internal_id: "C44791491"
+label_id: "17635604"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052202/2026-01-23/0"
+intitule_bron: "Stcrt.2026-1502"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-01-12"
+intitule_published: "2026-01-22"
+intitule_in_force: "2026-01-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-1502"
+original_signed_date: "2026-01-12"
+original_published_date: "2026-01-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-1502"
+entry_into_force_date: "2026-01-23"
+jci_1_3: "jci1.3:c:BWBR0052202&z=2026-01-23&g=2026-01-23"
+jci_1_0: "1.0:c:BWBR0052202&g=2026-01-23"
+citeertitel_status: "officieel"
+short_title: "Indicatieprotocol Hoog PKB Valys-vervoer"
+signed_date: "2026-01-12"
+entry_into_force: "2026-01-23"
 ---
-
 # Besluit van de Staatssecretaris Langdurige en Maatschappelijke Zorg, van 12 januari 2026, 4299382-1091493-DMO, houdende de vaststelling van regels betreffende het toekennen van het Valys Hoog Persoonlijk Kilometerbudget
 
 gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 13 van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=13),
@@ -16,7 +42,7 @@ namens de Minister van Volksgezondheid, Welzijn en Sport, en voor de uitvoering 
 
 besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - •. **bovenregionaal:** een reisafstand van minimaal 25 kilometer.
 
-#### Artikel 2. Indienen van de aanvraag
+##### Artikel 2. Indienen van de aanvraag
 
 1. Een Valys-pashouder (of diens gemachtigde) vraagt een Hoog PKB aan door middel van het daartoe beschikbare aanvraagformulier op de website ([www.hoogpkb.nl](http://www.hoogpkb.nl)).
 
@@ -56,7 +82,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - c. het formulier telefonisch opvragen bij Argonaut Advies B.V., waarna een papieren exemplaar kosteloos wordt toegezonden dat handmatig kan worden ingevuld en per post verzonden.
 
-#### Artikel 3. Voorwaarden voor behandeling van de aanvraag
+##### Artikel 3. Voorwaarden voor behandeling van de aanvraag
 
 1. Argonaut Advies B.V. neemt een aanvraag voor een Hoog PKB in behandeling wanneer aan de volgende voorwaarden is voldaan:
 
@@ -78,7 +104,7 @@ In deze beleidsregel wordt verstaan onder:
 
 4. Indien de aanvrager verzuimt de aanvraag binnen de gestelde termijn aan te vullen, wordt de aanvraag **niet in behandeling genomen**. Tegen een besluit om een aanvraag niet in behandeling te nemen kan de aanvrager bezwaar maken overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0052202&artikel=11&z=2026-01-23&g=2026-01-23) van deze beleidsregel.
 
-#### Artikel 4. Criteria voor toekenning van het Hoog PKB
+##### Artikel 4. Criteria voor toekenning van het Hoog PKB
 
 1. Een aanvrager komt in aanmerking voor een Hoog PKB indien de aanvrager:
 
@@ -90,7 +116,7 @@ In deze beleidsregel wordt verstaan onder:
 
 2. Indien door regionale spoorvervoerders geen grenzen zijn bepaald aan gewicht en/of maatvoering als bedoeld onder criterium 2, worden de grenswaarden gehanteerd die door de NS zijn vastgesteld voor haar assistentieverlening.
 
-#### Artikel 5. Uitgangspunten bij de beoordeling
+##### Artikel 5. Uitgangspunten bij de beoordeling
 
 Bij de inhoudelijke beoordeling van de aanvraag voor een Hoog PKB worden de volgende uitgangspunten in acht genomen:
 
@@ -106,7 +132,7 @@ Bij de inhoudelijke beoordeling van de aanvraag voor een Hoog PKB worden de volg
 
 - f. Tot slot wordt er vanuit gegaan dat er gebruik gemaakt wordt van door overheden aangeboden bovenregionale vervoersmodaliteiten in een regio.
 
-#### Artikel 6. Gehandicaptenparkeerkaart (GPK-B)
+##### Artikel 6. Gehandicaptenparkeerkaart (GPK-B)
 
 1. Indien een aanvrager in het bezit is van een gehandicaptenparkeerkaart voor bestuurders (GPK-B), bestaat **geen recht** op een Hoog PKB. Iemand met een GPK-B wordt geacht over voldoende vervoersalternatieven te beschikken om kritische keuzes te kunnen maken voor bovenregionaal reizen met een recreatieve bestemming. In het geval van het bezit van een GPK-B kan Argonaut de aanvraag administratief afwijzen zonder medisch inhoudelijke beoordeling.
 
@@ -114,7 +140,7 @@ Bij de inhoudelijke beoordeling van de aanvraag voor een Hoog PKB worden de volg
 
 3. Argonaut Advies B.V. is bevoegd te controleren of de aanvrager over een GPK-B beschikt. Een dergelijk onderzoek wordt uitgevoerd door Argonaut Advies B.V. in overeenstemming met de bepalingen van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
-#### Artikel 7. Verstrekking van het Hoog PKB
+##### Artikel 7. Verstrekking van het Hoog PKB
 
 1. Om de regeling uitvoerbaar te houden, geldt als uitgangspunt dat maatwerk buiten het maximale aantal kilometers van het Standaard PKB niet mogelijk is. Aanvragers die voldoen aan de criteria komen derhalve uitsluitend in aanmerking voor het **hogere** persoonlijk kilometerbudget (Hoog PKB).
 
@@ -122,7 +148,7 @@ Bij de inhoudelijke beoordeling van de aanvraag voor een Hoog PKB worden de volg
 
 3. Het Hoog PKB wordt, nadat het is toegekend, **voor onbepaalde duur** (voor de rest van het leven) aan de aanvrager verstrekt. De omvang van het Hoog PKB (het aantal kilometers dat jaarlijks wordt toegekend) wordt jaarlijks door het Ministerie van VWS vastgesteld.
 
-#### Artikel 9. Medische gegevens en onderzoek
+##### Artikel 9. Medische gegevens en onderzoek
 
 1. Argonaut Advies B.V. beoordeelt de aanvraag mede op basis van de medische of ergonomische informatie die door de aanvrager bij het aanvraagformulier is gevoegd. Deze gegevens mogen **maximaal zes maanden oud** zijn op het moment van de aanvraag.
 
@@ -130,7 +156,7 @@ Bij de inhoudelijke beoordeling van de aanvraag voor een Hoog PKB worden de volg
 
 3. De plicht om relevante medische gegevens te verstrekken en de aanvraag medisch te onderbouwen rust bij de aanvrager. Indien de medische informatie van de aanvrager – als gevolg van een niet aan de aanvrager te wijten omstandigheid – ontoereikend is voor de beoordeling van de aanvraag, laat Argonaut Advies B.V. een fysiek medisch onderzoek verrichten. Dit onderzoek vindt plaats op een van de hoorlocaties (zie [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052202&bijlage=1&z=2026-01-23&g=2026-01-23)).
 
-#### Artikel 10. Indicatiebesluit
+##### Artikel 10. Indicatiebesluit
 
 1. Een deskundig sociaal-medisch adviseur voert de beoordeling, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052202&artikel=4&z=2026-01-23&g=2026-01-23), uit op grond waarvan Argonaut Advies B.V. een beslissing neemt. De uitkomst van de beoordeling wordt aan de aanvrager medegedeeld in een schriftelijk indicatiebesluit. Het indicatiebesluit geldt als een besluit in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en bevat informatie over de wijze waarop de aanvrager bezwaar kan maken indien hij/zij het niet eens is met het besluit.
 
@@ -138,7 +164,7 @@ Bij de inhoudelijke beoordeling van de aanvraag voor een Hoog PKB worden de volg
 
 3. In het indicatiebesluit wordt verwezen naar het vastgestelde indicatieprotocol (deze beleidsregel). Het indicatieprotocol is te raadplegen via de website [www.Hoogpkb.nl](http://www.Hoogpkb.nl).
 
-#### Artikel 11. Bezwaarprocedure
+##### Artikel 11. Bezwaarprocedure
 
 1. Indien een aanvrager het niet eens is met het indicatiebesluit, kan de aanvrager binnen zes weken na de dagtekening van dat besluit een **bezwaarschrift** indienen bij Argonaut Advies B.V. De indiening van bezwaar kan plaatsvinden door gebruik te maken van het bezwarenformulier dat beschikbaar is op de website ([www.Hoogpkb.nl](http://www.Hoogpkb.nl)).
 
@@ -154,7 +180,7 @@ Bij de inhoudelijke beoordeling van de aanvraag voor een Hoog PKB worden de volg
 
 7. In de beslissing op bezwaar wordt, indien door de aanvrager daarom is verzocht, een standpunt ingenomen over de vergoeding van gemaakte proceskosten in bezwaar. Voorts wordt in de beslissing op bezwaar vermeld op welke wijze de aanvrager tegen die beslissing **beroep** kan instellen bij de bestuursrechter.
 
-#### Artikel 12. Klachten
+##### Artikel 12. Klachten
 
 1. Klachten van de aanvrager over feitelijke gedragingen of bejegening die **geen betrekking hebben op de inhoudelijke beoordeling van de aanvraag**, worden behandeld volgens de klachtenprocedure van Argonaut Advies B.V.
 
@@ -162,11 +188,11 @@ Bij de inhoudelijke beoordeling van de aanvraag voor een Hoog PKB worden de volg
 
 3. Informatie over de klachtenprocedure is te vinden op [www.argonaut.nl](http://www.argonaut.nl/). Ook het klachtenreglement is daar te raadplegen. Deze kan tevens op verzoek worden toegezonden.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na plaatsing in de Staatscourant.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze beleidsregel wordt aangehaald als **‘Indicatieprotocol Hoog PKB Valys-vervoer’**.
 

@@ -1,13 +1,38 @@
 ---
 title: "Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen"
 identifier: "BWBV0001103"
-categorie: "Internationaal recht"
-publicatiedatum: 2024-12-03
-laatste_update: 1993-12-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001103"
+country: "nl"
+rank: "verdrag"
+publication_date: "2024-12-03"
+last_updated: "1993-12-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001103"
+soort: "verdrag"
+stam_id: "10002517783"
+version_id: "10002503952"
+internal_id: "C10006984781"
+label_id: "10002507534"
+dtd_version: "2.0"
+original_entry_into_force: "1993-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001103/2024-12-03/0"
+intitule_bron: "Trb.1989-97"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-09-08"
+intitule_published: "1989-07-14"
+intitule_in_force: "1993-10-13"
+intitule_status: "goed"
+original_publication: "Trb.1989-97"
+original_signed_date: "1993-09-08"
+original_published_date: "1989-07-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1989-97"
+entry_into_force_date: "1993-12-07"
+jci_1_3: "jci1.3:c:BWBV0001103&z=2024-12-03&g=2024-12-03"
+jci_1_0: "1.0:c:BWBV0001103&g=2024-12-03"
+citeertitel_status: "redactioneel"
+signed_date: "1993-09-08"
+entry_into_force: "1993-12-07"
 ---
-
 # Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen
 
 De Partijen bij dit Verdrag,
@@ -44,7 +69,7 @@ Geleid door de wens een allesomvattend en doeltreffend internationaal verdrag te
 
 Komen overeen als volgt:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Behalve voor zover uitdrukkelijk anders is bepaald of waar het zinsverband een andere uitleg vereist, gelden in dit gehele Verdrag de volgende begripsomschrijvingen:
 
@@ -90,7 +115,7 @@ Behalve voor zover uitdrukkelijk anders is bepaald of waar het zinsverband een a
 
 - u. „staat van doorvoer” betekent een Staat over het grondgebied waarvan clandestiene verdovende middelen, psychotrope stoffen en stoffen genoemd in Tabel I en Tabel II worden vervoerd, terwijl deze Staat noch de plaats van herkomst noch de plaats van uiteindelijke bestemming daarvan is.
 
-#### Artikel 2. Reikwijdte van het Verdrag
+##### Artikel 2. Reikwijdte van het Verdrag
 
 1. Het doel van dit Verdrag is de samenwerking tussen de Partijen te bevorderen opdat zij ten aanzien van de verschillende aspecten van de sluikhandel in verdovende middelen en psychotrope stoffen, in het bijzonder de internationale aspecten, doeltreffender kunnen optreden. Bij het nakomen van hun verplichtingen krachtens dit Verdrag nemen de Partijen de benodigde maatregelen, waaronder begrepen wetgevende en bestuurlijke maatregelen, in overeenstemming met de grondbeginselen van hun onderscheiden nationale rechtsstelsels.
 
@@ -98,7 +123,7 @@ Behalve voor zover uitdrukkelijk anders is bepaald of waar het zinsverband een a
 
 3. Een Partij onthoudt zich ervan op het grondgebied van een andere Partij rechtsmacht uit te oefenen of handelingen te verrichten die ingevolge de nationale wetgeving van die andere Partij uitsluitend zijn voorbehouden aan de autoriteiten van die Partij.
 
-#### Artikel 3. Strafbare feiten en straffen
+##### Artikel 3. Strafbare feiten en straffen
 
 1. Elke Partij neemt de maatregelen die nodig zijn om de volgende feiten, indien opzettelijk begaan, strafbaar te stellen krachtens haar nationale wetgeving:
 
@@ -172,7 +197,7 @@ Behalve voor zover uitdrukkelijk anders is bepaald of waar het zinsverband een a
 
 11. Geen enkele bepaling van dit artikel doet afbreuk aan het beginsel dat de omschrijving van de hierin bedoelde strafbare feiten en van desbetreffende rechtsmiddelen is voorbehouden aan het nationale recht van een Partij, en dat deze strafbare feiten in overeenstemming met dat recht worden vervolgd en bestraft.
 
-#### Artikel 4. Rechtsmacht
+##### Artikel 4. Rechtsmacht
 
 1. Elke Partij:
 
@@ -202,7 +227,7 @@ Behalve voor zover uitdrukkelijk anders is bepaald of waar het zinsverband een a
 
 3. Dit Verdrag sluit niet de uitoefening uit van strafrechtelijke rechtsmacht die een Partij heeft gevestigd overeenkomstig haar nationale wetgeving.
 
-#### Artikel 5. Confiscatie
+##### Artikel 5. Confiscatie
 
 1. Elke Partij neemt de maatregelen die nodig zijn om confiscatie mogelijk te maken:
 
@@ -270,7 +295,7 @@ Behalve voor zover uitdrukkelijk anders is bepaald of waar het zinsverband een a
 
 9. Geen enkele bepaling van dit artikel doet afbreuk aan het beginsel dat de hierin bedoelde maatregelen worden omschreven en ten uitvoer gelegd in overeenstemming met en met inachtneming van de bepalingen van het nationale recht van een Partij.
 
-#### Artikel 6. Uitlevering
+##### Artikel 6. Uitlevering
 
 1. Dit artikel is van toepassing op de in overeenstemming met artikel 3, eerste lid, strafbaar gestelde feiten.
 
@@ -300,7 +325,7 @@ Behalve voor zover uitdrukkelijk anders is bepaald of waar het zinsverband een a
 
 12. De Partijen kunnen overwegen bilaterale of multilaterale overeenkomsten te sluiten, waarin hetzij op ad hoc basis, hetzij algemeen geldend, regelingen worden getroffen over de overbrenging naar hun land van personen die zijn veroordeeld tot gevangenisstraf of andere tot vrijheidsbeneming strekkende sancties wegens strafbare feiten waarop dit artikel van toepassing is, met het doel hen aldaar hun straftijd te doen uitzitten.
 
-#### Artikel 7. Wederzijdse rechtshulp
+##### Artikel 7. Wederzijdse rechtshulp
 
 1. De Partijen verlenen elkaar ingevolge dit artikel de ruimste mate van wederzijdse rechtshulp in onderzoeken, vervolgingen en gerechtelijke procedures met betrekking tot feiten die in overeenstemming met artikel 3, eerste lid, strafbaar zijn gesteld.
 
@@ -376,11 +401,11 @@ Behalve voor zover uitdrukkelijk anders is bepaald of waar het zinsverband een a
 
 20. De Partijen overwegen, indien noodzakelijk, de mogelijkheid bilaterale of multilaterale overeenkomsten te sluiten of regelingen te treffen die de doeleinden van de bepalingen in dit artikel dienen, aan deze bepalingen praktische uitvoering geven of de werking ervan verbeteren.
 
-#### Artikel 8. Overdracht van strafvervolging
+##### Artikel 8. Overdracht van strafvervolging
 
 De Partijen overwegen de mogelijkheid de strafvervolging aan elkaar over te dragen van in overeenstemming met artikel 3, eerste lid, strafbaar gestelde feiten in gevallen waarin deze overdracht in het belang van een goede rechtsbedeling wordt geacht.
 
-#### Artikel 9. Andere vormen van samenwerking en opleiding
+##### Artikel 9. Andere vormen van samenwerking en opleiding
 
 1. De Partijen werken nauw met elkaar samen, op een wijze die verenigbaar is met onderscheiden nationale rechts- en bestuursstelsels, teneinde de doeltreffendheid te vergroten van de opsporing en wetshandhaving met het oog op de bestrijding van in overeenstemming met artikel 3, eerste lid, strafbaar gestelde feiten. In het bijzonder zullen zij, op grond van bilaterale of multilaterale overeenkomsten of regelingen:
 
@@ -420,7 +445,7 @@ De Partijen overwegen de mogelijkheid de strafvervolging aan elkaar over te drag
 
 3. De Partijen helpen elkaar bij het ontwerpen en uitvoeren van onderzoeks- en opleidingsprogramma's die tot doel hebben hun deskundigheid op de in het tweede lid van dit artikel bedoelde gebieden te delen, en zij maken hiervoor tevens gebruik, wanneer dat passend wordt geacht, van regionale en internationale conferenties en studiebijeenkomsten voor het bevorderen van de samenwerking en het aanmoedigen van de bespreking van problemen van wederzijds belang, waaronder begrepen de bijzondere problemen en behoeften van Staten van doorvoer.
 
-#### Artikel 10. Internationale samenwerking en hulp aan Staten van doorvoer
+##### Artikel 10. Internationale samenwerking en hulp aan Staten van doorvoer
 
 1. De Partijen werken samen, rechtstreeks of door tussenkomst van bevoegde internationale of regionale organisaties, om waar mogelijk hulp en steun te verlenen aan Staten van doorvoer, en in het bijzonder aan ontwikkelingslanden die behoefte hebben aan dergelijke hulp en steun, door middel van programma's voor technische samenwerking om de illegale invoer en doorvoer te beletten, of andere verwante activiteiten.
 
@@ -428,7 +453,7 @@ De Partijen overwegen de mogelijkheid de strafvervolging aan elkaar over te drag
 
 3. De Partijen kunnen bilaterale of multilaterale overeenkomsten sluiten of regelingen treffen om de doeltreffendheid van de internationale samenwerking ingevolge dit artikel te vergroten en kunnen in dit verband financiële regelingen in overweging nemen.
 
-#### Artikel 11. Gecontroleerde aflevering
+##### Artikel 11. Gecontroleerde aflevering
 
 1. Indien geoorloofd volgens de grondbeginselen van hun onderscheiden nationale rechtsstelsels nemen de Partijen de nodige maatregelen om, binnen hun mogelijkheden, gepast gebruik van gecontroleerde aflevering op internationaal niveau mogelijk te maken, op grond van overeenkomsten of regelingen die wederzijds zijn overeengekomen, teneinde personen te identificeren die zijn betrokken bij in overeenstemming met artikel 3, eerste lid, strafbaar gestelde feiten, en gerechtelijke stappen tegen hen te ondernemen.
 
@@ -436,7 +461,7 @@ De Partijen overwegen de mogelijkheid de strafvervolging aan elkaar over te drag
 
 3. Illegale zendingen waarvoor gecontroleerde aflevering is over eengekomen, kunnen, wanneer de betrokken Partijen hiermee instemmen, worden onderschept en vervolgens worden doorgelaten, waarbij de verdovende middelen of psychotrope stoffen onaangeroerd blijven dan wel geheel of gedeeltelijk worden verwijderd of vervangen.
 
-#### Artikel 12. Stoffen die vaak worden gebruikt bij de illegale vervaardiging van verdovende middelen of psychotrope stoffen
+##### Artikel 12. Stoffen die vaak worden gebruikt bij de illegale vervaardiging van verdovende middelen of psychotrope stoffen
 
 1. De Partijen dienen de door hen passend geachte maatregelen te treffen om te voorkomen dat de in Tabel I en Tabel II genoemde stoffen worden misbruikt voor de illegale vervaardiging van verdovende middelen of psychotrope stoffen, en werken hiertoe met elkaar samen.
 
@@ -510,11 +535,11 @@ De Partijen overwegen de mogelijkheid de strafvervolging aan elkaar over te drag
 
 14. De bepalingen van dit artikel gelden niet voor farmaceutische preparaten, noch voor andere preparaten die stoffen in Tabel I of Tabel II bevatten en die op zodanige wijze zijn samengesteld dat deze stoffen niet gemakkelijk kunnen worden gebruikt of met eenvoudig toe te passen middelen kunnen worden teruggewonnen.
 
-#### Artikel 13. Materialen en apparatuur
+##### Artikel 13. Materialen en apparatuur
 
 De Partijen nemen de door hen passend geachte maatregelen om de handel in en het misbruik van materialen en apparatuur voor de illegale produktie of vervaardiging van verdovende middelen en psychotrope stoffen te voorkomen en werken hiertoe samen.
 
-#### Artikel 14. Maatregelen om de clandestiene teelt van planten die verdovende middelen bevatten, uit te roeien, en de illegale vraag naar verdovende middelen en psychotrope stoffen uit te bannen
+##### Artikel 14. Maatregelen om de clandestiene teelt van planten die verdovende middelen bevatten, uit te roeien, en de illegale vraag naar verdovende middelen en psychotrope stoffen uit te bannen
 
 1. Maatregelen die door Partijen ingevolge dit Verdrag worden genomen, dienen niet minder streng te zijn dan de bepalingen van het Verdrag van 1961, het [Verdrag van 1961 zoals gewijzigd](https://wetten.overheid.nl/jci1.3:c:BWBV0001004) en het [Verdrag van 1971](https://wetten.overheid.nl/jci1.3:c:BWBV0003922) met betrekking tot het uitroeien van de illegale teelt van planten die verdovende en psychotrope stoffen bevatten en het uitbannen van de illegale vraag naar verdovende middelen en psychotrope stoffen.
 
@@ -530,7 +555,7 @@ De Partijen nemen de door hen passend geachte maatregelen om de handel in en het
 
 5. De Partijen kunnen ook de nodige maatregelen nemen voor snelle vernietiging of legaal gebruik van verdovende middelen, psychotrope stoffen en stoffen vermeld in Tabel I en Tabel II die zijn inbeslaggenomen of zijn geconfisqueerd, alsmede voor de toelaatbaarheid als bewijsmiddel van daartoe naar behoren gemerkte benodigde hoeveelheden van deze stoffen.
 
-#### Artikel 15. Beroepsvervoerder
+##### Artikel 15. Beroepsvervoerder
 
 1. De Partijen nemen passende maatregelen om er zorg voor te dragen dat vervoermiddelen die door beroepsvervoerders worden geëxploiteerd, niet worden gebruikt bij het begaan van in overeenstemming met artikel 3, eerste lid, strafbaar gestelde feiten; deze maatregelen kunnen bijzondere regelingen met beroepsvervoerders omvatten.
 
@@ -552,13 +577,13 @@ De Partijen nemen de door hen passend geachte maatregelen om de handel in en het
 
 3. Elke Partij streeft ernaar te bewerkstelligen dat beroepsvervoerders en de desbetreffende autoriteiten samenwerken op punten van binnenkomst en vertrek en in andere gebieden die onder douanetoezicht staan, teneinde ongeoorloofde toegang tot vervoermiddelen en lading te voorkomen en passende veiligheidsmaatregelen te nemen.
 
-#### Artikel 16. Handelsdocumenten en het etiketteren van zendingen voor uitvoer
+##### Artikel 16. Handelsdocumenten en het etiketteren van zendingen voor uitvoer
 
 1. Elke Partij verlangt dat zendingen van verdovende middelen en psychotrope stoffen voor wettige uitvoer behoorlijk zijn voorzien van documenten. Naast de vereisten voor documentatie krachtens artikel 31 van het Verdrag van 1961, [artikel 31 van het Verdrag van 1961 zoals gewijzigd](https://wetten.overheid.nl/jci1.3:c:BWBV0001004&artikel=31) en [artikel 12 van het Verdrag van 1971](https://wetten.overheid.nl/jci1.3:c:BWBV0003922&artikel=12) dienen op handelsdocumenten zoals facturen, vrachtbrieven, douanepapieren en vervoersdocumenten te zijn vermeld de namen van de verdovende middelen en psychotrope stoffen die worden uitgevoerd zoals gegeven in de onderscheiden Lijsten van het Verdrag van 1961, het [Verdrag van 1961 zoals gewijzigd](https://wetten.overheid.nl/jci1.3:c:BWBV0001004) en het [Verdrag van 1971](https://wetten.overheid.nl/jci1.3:c:BWBV0003922), de hoeveelheid die wordt uitgevoerd, alsmede de naam en het adres van de exporteur, van de importeur en, indien beschikbaar, van de geadresseerde.
 
 2. Elke Partij verlangt dat zendingen van verdovende middelen en psychotrope stoffen die worden uitgevoerd niet op onjuiste wijze worden geëtiketteerd.
 
-#### Artikel 17. Sluikhandel over zee
+##### Artikel 17. Sluikhandel over zee
 
 1. De Partijen werken zoveel mogelijk samen om, in overeenstemming met het internationale zeerecht, de sluikhandel over zee tegen te gaan.
 
@@ -588,7 +613,7 @@ De Partijen nemen de door hen passend geachte maatregelen om de handel in en het
 
 11. Bij ieder optreden in overeenstemming met dit artikel wordt, in overeenstemming met het internationale zeerecht, er naar behoren rekening mee gehouden dat geen inbreuk wordt gemaakt op de rechten en verplichtingen en de uitoefening van de rechtsmacht van kuststaten en dat geen aantasting plaatsvindt van deze rechten, verplichtingen of rechtsmacht.
 
-#### Artikel 18. Vrijhandelszones en vrijhavens
+##### Artikel 18. Vrijhandelszones en vrijhavens
 
 1. De Partijen passen ter bestrijding van de sluikhandel in verdovende middelen, psychotrope stoffen en stoffen in Tabel I en II in vrijhandelszones en in vrijhavens maatregelen toe die niet minder streng zijn dan de maatregelen die zij in andere delen van hun grondgebied toepassen.
 
@@ -600,7 +625,7 @@ De Partijen nemen de door hen passend geachte maatregelen om de handel in en het
 
 - c. bewakingssystemen in te stellen en ten uitvoer te leggen in havengebieden, rond dokken en op luchthavens en grenscontroleposten in vrijhandelszones en vrijhavens.
 
-#### Artikel 19. Het gebruik van de post
+##### Artikel 19. Het gebruik van de post
 
 1. In overeenstemming met hun verplichtingen krachtens de verdragen van de Wereld Post Unie, en in overeenstemming met de grondbeginselen van hun nationale rechtsstelsels nemen de Partijen maatregelen ter bestrijding van het gebruik van de post voor sluikhandel, en werken hiertoe met elkaar samen.
 
@@ -612,7 +637,7 @@ De Partijen nemen de door hen passend geachte maatregelen om de handel in en het
 
 - c. wetgevende maatregelen om het gebruik mogelijk te maken van passende middelen voor het vergaren van bewijs ten behoeve van de vervolging.
 
-#### Artikel 20. Door de Partijen te verstrekken gegevens
+##### Artikel 20. Door de Partijen te verstrekken gegevens
 
 1. De Partijen verstrekken aan de Commissie, door tussenkomst van de Secretaris-Generaal, gegevens over de werking van dit Verdrag op hun grondgebieden, en in het bijzonder:
 
@@ -622,7 +647,7 @@ De Partijen nemen de door hen passend geachte maatregelen om de handel in en het
 
 2. De Partijen verstrekken deze gegevens op de wijze en op de tijdstippen vastgesteld door de Commissie.
 
-#### Artikel 21. Taken en bevoegdheden van de Commissie
+##### Artikel 21. Taken en bevoegdheden van de Commissie
 
 De Commissie is bevoegd kennis te nemen van alle vraagstukken die verband houden met de doelstellingen van dit Verdrag, en in het bijzonder:
 
@@ -638,7 +663,7 @@ De Commissie is bevoegd kennis te nemen van alle vraagstukken die verband houden
 
 - f. kan de Commissie de aandacht van niet-Partijen vestigen op besluiten en aanbevelingen die zij krachtens dit Verdrag aanneemt, opdat deze overwegen overeenkomstige maatregelen te nemen.
 
-#### Artikel 22. Taken en bevoegdheden van het Comité
+##### Artikel 22. Taken en bevoegdheden van het Comité
 
 1. Onverminderd de taken en bevoegdheden van de Commissie krachtens artikel 21, en onverminderd de taken en bevoegdheden van het Comité en de Commissie krachtens het Verdrag van 1961, het[Verdrag van 1961 zoals gewijzigd](https://wetten.overheid.nl/jci1.3:c:BWBV0001004) en het [Verdrag van 1971](https://wetten.overheid.nl/jci1.3:c:BWBV0003922):
 
@@ -664,21 +689,21 @@ De Commissie is bevoegd kennis te nemen van alle vraagstukken die verband houden
 
 7. De bepalingen van dit artikel zijn niet van toepassing op geschillen tussen Partijen die vallen onder de bepalingen van artikel 32.
 
-#### Artikel 23. Verslagen van het Comité
+##### Artikel 23. Verslagen van het Comité
 
 1. Het Comité stelt een jaarverslag op over zijn werkzaamheden dat tevens een analyse bevat van de hem ter beschikking staande gegevens, en, in de daarvoor in aanmerking komende gevallen, een uiteenzetting van de eventuele door de Partijen gegeven of van hen gevraagde toelichtingen, alsmede alle opmerkingen die het Comité wenst te maken en aanbevelingen die het wenst te doen. Het Comité kan aanvullende verslagen opstellen wanneer het dit nodig acht. De verslagen worden door tussenkomst van de Commissie aan de Raad overlegd, die er naar eigen goeddunken commentaar op kan geven.
 
 2. De verslagen van het Comité worden aan de Partijen toegezonden en vervolgens door de Secretaris-Generaal bekendgemaakt. De Partijen staan toe dat zij onbeperkt worden verspreid.
 
-#### Artikel 24. Toepassing van strengere maatregelen dan die welke krachtens dit Verdrag vereist zijn
+##### Artikel 24. Toepassing van strengere maatregelen dan die welke krachtens dit Verdrag vereist zijn
 
 Een partij kan strengere maatregelen nemen dan die welke in dit Verdrag zijn voorzien indien dergelijke maatregelen naar haar oordeel gewenst of noodzakelijk zijn ter voorkoming of bestrijding van de sluikhandel.
 
-#### Artikel 25. Niet-aantasting van eerdere verdragsrechten en -verplichtingen
+##### Artikel 25. Niet-aantasting van eerdere verdragsrechten en -verplichtingen
 
 De bepalingen van dit Verdrag doen geen afbreuk aan de rechten die Partijen bij dit Verdrag genieten of verplichtingen die zij zijn aangegaan krachtens het Verdrag van 1961, het [Verdrag van 1961 zoals gewijzigd](https://wetten.overheid.nl/jci1.3:c:BWBV0001004) en het [Verdrag van 1971](https://wetten.overheid.nl/jci1.3:c:BWBV0003922).
 
-#### Artikel 26. Ondertekening
+##### Artikel 26. Ondertekening
 
 Dit Verdrag staat van 20 december 1988 tot 28 februari 1989 op het bureau van de Verenigde Naties te Wenen, en daarna tot 20 december 1989 op de zetel van de Verenigde Naties te New York, open voor ondertekening door:
 
@@ -688,19 +713,19 @@ Dit Verdrag staat van 20 december 1988 tot 28 februari 1989 op het bureau van de
 
 - c. regionale organisaties voor economische integratie die bevoegd zijn tot het onderhandelen over en het sluiten en toepassen van internationale overeenkomsten in aangelegenheden die bij dit Verdrag worden geregeld, waarbij verwijzingen in dit Verdrag naar Partijen, Staten, of nationale diensten binnen de grenzen van hun bevoegdheid op deze organisaties van toepassing zijn.
 
-#### Artikel 27. Bekrachtiging, aanvaarding, goedkeuring of handeling van formele bevestiging
+##### Artikel 27. Bekrachtiging, aanvaarding, goedkeuring of handeling van formele bevestiging
 
 1. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door Staten en door Namibië, vertegenwoordigd door de Raad van de Verenigde Naties voor Namibië, en dient formeel te worden bevestigd door de in artikel 26, letter c, bedoelde regionale organisaties voor economische integratie. De akten van bekrachtiging, aanvaarding of goedkeuring en de akten aangaande handelingen van formele bevestiging worden nedergelegd bij de Secretaris-Generaal.
 
 2. In hun akten van formele bevestiging geven de regionale organisaties voor economische integratie de reikwijdte aan van hun bevoegdheid ten aanzien van de aangelegenheden die bij dit Verdrag worden geregeld. Deze organisaties stellen de Secretaris-Generaal tevens op de hoogte van eventuele wijzigingen in de reikwijdte van hun bevoegdheid ten aanzien van de zaken die bij dit Verdrag worden geregeld.
 
-#### Artikel 28. Toetreding
+##### Artikel 28. Toetreding
 
 1. Dit Verdrag blijft openstaan voor toetreding door elke Staat, door Namibië vertegenwoordigd door de Raad van de Verenigde Naties voor Namibië, en door de in artikel 26, letter (c) bedoelde regionale organisaties voor economische samenwerking. Toetreding geschiedt door nederlegging van een akte van toetreding bij de Secretaris-Generaal.
 
 2. In hun akten van toetreding geven de regionale organisaties voor economische integratie de reikwijdte aan van hun bevoegdheid ten aanzien van de aangelegenheden die bij dit Verdrag worden geregeld. Deze organisaties stellen de Secretaris-Generaal tevens op de hoogte van eventuele wijzigingen in de reikwijdte van hun bevoegdheid ten aanzien van de aangelegenheden die bij dit Verdrag worden geregeld.
 
-#### Artikel 29. Inwerkingtreding
+##### Artikel 29. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de negentigste dag nadat de twintigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door Staten of door Namibië, vertegenwoordigd door de Raad voor Namibië, is nedergelegd bij de Secretaris-Generaal.
 
@@ -708,19 +733,19 @@ Dit Verdrag staat van 20 december 1988 tot 28 februari 1989 op het bureau van de
 
 3. Voor elke in artikel 26, letter (c), bedoelde regionale organisatie voor economische integratie die een akte aangaande een handeling van formele bevestiging of een akte van toetreding nederlegt, treedt dit Verdrag in werking op de negentigste dag na deze nederlegging, of op de datum waarop het Verdrag in werking treedt ingevolge het eerste lid van dit artikel, naar gelang welke datum het laatst valt.
 
-#### Artikel 30. Opzegging
+##### Artikel 30. Opzegging
 
 1. Een Partij kan dit Verdrag te allen tijde opzeggen door middel van een schriftelijke kennisgeving gericht aan de SecretarisGeneraal.
 
 2. Deze opzegging wordt voor de betrokken Partij van kracht een jaar na de datum waarop de Secretaris-Generaal de kennisgeving ontvangt.
 
-#### Artikel 31. Wijzigingen
+##### Artikel 31. Wijzigingen
 
 1. Elke Partij kan een voorstel tot wijziging van dit Verdrag doen. De tekst van een dergelijke wijziging, alsmede de redenen voor de wijziging worden door die Partij meegedeeld aan de Secretaris-Generaal, die deze aan de andere Partijen doet toekomen en hen vraagt of zij de voorgestelde wijziging aanvaarden. Indien een voorgestelde wijziging die op deze wijze is rondgestuurd door geen der Partijen is verworpen binnen vierentwintig maanden nadat zij is rondgestuurd, wordt zij geacht te zijn aanvaard en treedt zij ten aanzien van een Partij in werking negentig dagen nadat die Partij bij de Secretaris-Generaal een akte heeft nedergelegd waaruit blijkt dat zij ermede instemt door die wijziging te worden gebonden.
 
 2. Indien een voorgestelde wijziging door een Partij is verworpen, overlegt de Secretaris-Generaal met de Partijen en, indien een meerderheid hierom verzoekt, legt hij de kwestie, samen met eventueel door de Partijen gegeven commentaren, voor aan de Raad, die kan besluiten een conferentie bijeen te roepen in overeenstemming met artikel 62, vierde lid van het Handvest van de Verenigde Naties. Elke wijziging waarin een dergelijke conferentie resulteert, wordt opgenomen in een Protocol tot Wijziging. Partijen die ermede instemmen door een dergelijk Protocol te worden gebonden, dienen dit uitdrukkelijk mede te delen aan de Secretaris-Generaal.
 
-#### Artikel 32. Beslechting van geschillen
+##### Artikel 32. Beslechting van geschillen
 
 1. Indien tussen twee of meer Partijen een geschil mocht ontstaan met betrekking tot de uitlegging of toepassing van dit Verdrag, plegen deze Partijen met elkaar overleg teneinde het geschil te beslechten door middel van onderhandelingen, onderzoek, bemiddeling, verzoening, arbitrage of een beroep op regionale organisaties, langs gerechtelijke weg of op andere door hen te kiezen vreedzame wijze.
 
@@ -732,11 +757,11 @@ Dit Verdrag staat van 20 december 1988 tot 28 februari 1989 op het bureau van de
 
 5. Een Partij die een verklaring heeft afgelegd in overeenstemming met het vierde lid van dit artikel kan deze verklaring te allen tijde intrekken door middel van een kennisgeving aan de Secretaris-Generaal.
 
-#### Artikel 33. Authentieke teksten
+##### Artikel 33. Authentieke teksten
 
 De Arabische, de Chinese, de Engelse, de Franse, de Russische en Spaanse tekst van dit Verdrag zijn gelijkelijk authentiek.
 
-#### Artikel 34. Depositaris
+##### Artikel 34. Depositaris
 
 De Secretaris-Generaal is de depositaris van dit Verdrag.
 

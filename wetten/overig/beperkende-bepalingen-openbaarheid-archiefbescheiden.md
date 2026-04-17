@@ -1,20 +1,44 @@
 ---
 title: "Beperkende bepalingen openbaarheid archiefbescheiden"
 identifier: "BWBR0011771"
-categorie: "Overig"
-publicatiedatum: 2000-11-23
-laatste_update: 2000-11-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011771"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2000-11-23"
+last_updated: "2000-11-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011771"
+soort: "ministeriele-regeling"
+stam_id: "5001763"
+version_id: "8669542"
+internal_id: "C11221721"
+label_id: "4978234"
+dtd_version: "2.0"
+original_entry_into_force: "2000-11-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011771/2000-11-23/0"
+intitule_bron: "Stcrt.2000-226"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-11-09"
+intitule_published: "2000-11-21"
+intitule_in_force: "2000-11-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-226"
+original_signed_date: "2000-11-09"
+original_published_date: "2000-11-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-11-23"
+jci_1_3: "jci1.3:c:BWBR0011771&z=2000-11-23&g=2000-11-23"
+jci_1_0: "1.0:c:BWBR0011771&g=2000-11-23"
+citeertitel_status: "officieel"
+signed_date: "2000-11-09"
+entry_into_force: "2000-11-23"
 ---
-
 # Beperkende bepalingen openbaarheid archiefbescheiden
 
 Gelet op [artikel 15, eerste lid, onder a van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de bescherming van de persoonlijke levenssfeer wordt aan de openbaarheid van de naar het Algemeen Rijksarchief overgebrachte archiefbescheiden van de archieven van de Centrale Dienst voor Sibbekunde van het Departement van Binnenlandse Zaken 1941-1944, de volgende beperking gesteld:
 
@@ -36,11 +60,11 @@ Met het oog op de bescherming van de persoonlijke levenssfeer wordt aan de openb
 
 - 5. Het formulier, bedoeld in het derde lid, blijft achterwege indien een periode van 75 jaar na afsluiting van het betrokken dossier is verstreken.
 
-#### Artikel 2
+##### Artikel 2
 
 De directeur van het Algemeen Rijksarchief verplicht zich de archiefbescheiden in goede staat te bewaren of te doen bewaren, overeenkomstig het bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) bepaalde.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.
 

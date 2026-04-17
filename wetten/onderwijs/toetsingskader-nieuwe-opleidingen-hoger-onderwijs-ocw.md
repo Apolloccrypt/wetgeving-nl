@@ -1,13 +1,37 @@
 ---
-title: "Toetsingskader nieuwe opleidingen hoger onderwijs (OCW)"
+title: "Toetsingskader nieuwe opleidingen hoger onderwijs"
 identifier: "BWBR0015216"
-categorie: "Onderwijs"
-publicatiedatum: 2003-05-25
-laatste_update: 2003-05-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015216"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-05-25"
+last_updated: "2003-05-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015216"
+soort: "beleidsregel"
+stam_id: "6495173"
+version_id: "11180982"
+internal_id: "C17600201"
+label_id: "6483874"
+original_entry_into_force: "2003-05-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015216/2003-05-25/0"
+intitule_bron: "Uitleg.2003-17"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-06-12"
+intitule_published: "2003-06-25"
+intitule_in_force: "2003-06-25"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-17"
+original_signed_date: "2003-06-12"
+original_published_date: "2003-06-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-05-25"
+jci_1_3: "jci1.3:c:BWBR0015216&z=2003-05-25&g=2003-05-25"
+jci_1_0: "1.0:c:BWBR0015216&g=2003-05-25"
+citeertitel_status: "redactioneel"
+short_title: "Toetsingskader nieuwe opleidingen hoger onderwijs (OCW)"
+signed_date: "2003-06-12"
+entry_into_force: "2003-05-25"
 ---
-
 # Toetsingskader nieuwe opleidingen hoger onderwijs
 
 ### 1. Opbouw toetsingskader

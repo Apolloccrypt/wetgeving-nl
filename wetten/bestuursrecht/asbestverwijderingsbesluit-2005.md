@@ -1,13 +1,39 @@
 ---
-title: "Asbestverwijderingsbesluit 2005"
+title: "Besluit van 16 december 2005, houdende vaststelling van regels voor het inventariseren van asbest en het verwijderen van asbest in het algemeen en uit een bouwwerk in het bijzonder en in verband hiermee een wijziging van het Arbeidsomstandighedenbesluit (Asbestverwijderingsbesluit 2005)"
 identifier: "BWBR0019316"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019316"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019316"
+soort: "AMvB"
+stam_id: "7757273"
+version_id: "25801922"
+internal_id: "C36831291"
+label_id: "7745164"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019316/2026-01-01/0"
+intitule_bron: "Stb.2005-704"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-16"
+intitule_published: "2005-12-27"
+intitule_in_force: "2006-02-23"
+intitule_status: "goed"
+original_publication: "Stb.2019-155"
+original_signed_date: "2019-03-29"
+original_published_date: "2019-04-23"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2019-155"
+entry_into_force_date: "2019-07-01"
+jci_1_3: "jci1.3:c:BWBR0019316&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0019316&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Asbestverwijderingsbesluit 2005"
+signed_date: "2019-03-29"
+entry_into_force: "2019-07-01"
 ---
-
 # Besluit van 16 december 2005, houdende vaststelling van regels voor het inventariseren van asbest en het verwijderen van asbest in het algemeen en uit een bouwwerk in het bijzonder en in verband hiermee een wijziging van het Arbeidsomstandighedenbesluit (Asbestverwijderingsbesluit 2005)
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 6 april 2005, nr. MJZ2005029056, Directie Juridische Zaken, Afdeling Wetgeving, gedaan mede namens de Staatssecretaris van Sociale Zaken en Werkgelegenheid en in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, Onze Minister van Verkeer en Waterstaat en Onze Minister van Economische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsomschrijvingen en toepassingsbereik
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -56,7 +82,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **object:** constructie, installatie, apparaat of transportmiddel, niet zijnde een bouwwerk als bedoeld in de [bijlage bij de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) en niet bedoeld ter ondersteuning van de functie van een zodanig bouwwerk.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit is niet van toepassing op:
 
@@ -66,7 +92,7 @@ Dit besluit is niet van toepassing op:
 
 #### § 2. Asbestinventarisatie
 
-#### Artikel 3
+##### Artikel 3
 
 1. Degene die:
 
@@ -88,7 +114,7 @@ draagt er zorg voor dat voor het object eerst een asbestinventarisatie wordt ver
 
 4. De personen, bedoeld in het eerste tot en met derde lid, beschikken met betrekking tot het object of de locatie waar handelingen worden verricht als in die leden bedoeld, over het asbestinventarisatierapport dat ten behoeve van die handelingen is opgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) is niet van toepassing op:
 
@@ -112,13 +138,13 @@ draagt er zorg voor dat voor het object eerst een asbestinventarisatie wordt ver
 
 3. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) is voorts niet van toepassing op het anders dan in de uitoefening van een beroep of bedrijf in zijn geheel verwijderen van geschroefde, asbesthoudende platen waarin de asbestvezels hechtgebonden zijn, niet zijnde dakleien, of asbesthoudende vloertegels of niet-gelijmde, asbesthoudende vloerbedekking uit een vaartuig, voor zover het vaartuig niet in het kader van de uitoefening van een beroep of bedrijf wordt gebruikt of bedoeld is voor gebruik in dat kader en de oppervlakte van de te verwijderen asbesthoudende platen, vloertegels of vloerbedekking in totaal maximaal vijfendertig vierkante meter bedraagt.
 
-#### Artikel 5
+##### Artikel 5
 
 Degene die een handeling doet verrichten waarop [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) van toepassing is, verstrekt, voordat de handeling wordt verricht, een afschrift van het asbestinventarisatierapport aan degene die de handeling verricht.
 
 #### § 3. Asbestverwijdering
 
-#### Artikel 6
+##### Artikel 6
 
 1. De volgende handelingen, indien de concentratie van asbestvezels is ingedeeld in risicoklasse 2 of 2A als bedoeld in [artikel 4.48](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.48) onderscheidenlijk [artikel 4.53a van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.53a), mogen slechts worden verricht door een bedrijf dat in het bezit is van een certificaat als bedoeld in [artikel 4.54d, eerste lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d):
 
@@ -132,7 +158,7 @@ Degene die een handeling doet verrichten waarop [artikel 3](https://wetten.overh
 
 3. Het is verboden een handeling als bedoeld in het eerste lid te doen verrichten in strijd met het bepaalde in het eerste lid in verbinding met het tweede lid.
 
-#### Artikel 7
+##### Artikel 7
 
 Degene die asbest of een asbesthoudend product verwijdert, draagt er zorg voor dat:
 
@@ -156,13 +182,13 @@ Degene die asbest of een asbesthoudend product verwijdert, draagt er zorg voor d
 
 - j. opgeslagen verwijderd asbest of een opgeslagen verwijderd asbesthoudend product binnen twee weken na het vrijkomen hiervan wordt afgevoerd naar een voor het afgeven van grove huishoudelijke afvalstoffen ingerichte locatie als bedoeld in [artikel 3.170, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.170).
 
-#### Artikel 8
+##### Artikel 8
 
 1. Degene die een handeling als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=3&artikel=7&z=2026-01-01&g=2026-01-01) verricht, doet dat op een zodanige wijze dat gevaren voor mens en milieu die door zodanige handelingen kunnen ontstaan, worden voorkomen.
 
 2. Bij regeling van Onze Minister kunnen met het oog op het voorkomen van gevaren voor mens en milieu regels worden gegeven die ten minste bij het verrichten van zodanige handelingen in acht worden genomen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Degene die in een binnenruimte een handeling doet verrichten als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01), draagt er zorg voor dat direct na het verrichten van die handeling een eindbeoordeling wordt uitgevoerd overeenkomstig het bepaalde bij of krachtens de [artikelen 4.51a, eerste, tweede, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.51a), en [4.53c van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.53c).
 
@@ -176,7 +202,7 @@ Degene die asbest of een asbesthoudend product verwijdert, draagt er zorg voor d
 
 #### § 4. Het LAVS
 
-#### Artikel 10
+##### Artikel 10
 
 1. De LAVS-beheerder draagt er zorg voor dat de gegevens en bescheiden over asbestsaneringsprojecten die in het LAVS zijn ingevoerd, onverwijld ter beschikking worden gesteld van de instanties waarvoor de gegevens en bescheiden op grond van [artikel 13, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=4&artikel=13&z=2026-01-01&g=2026-01-01), toegankelijk zijn.
 
@@ -184,7 +210,7 @@ Degene die asbest of een asbesthoudend product verwijdert, draagt er zorg voor d
 
 #### § 5. Strafbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 1. De LAVS-beheerder draagt er zorg voor dat aan elk asbestsaneringsproject waarover in het LAVS gegevens en bescheiden worden opgenomen, een uniek kenmerk wordt toegekend, waarmee het project kan worden geïdentificeerd.
 
@@ -200,7 +226,7 @@ Degene die asbest of een asbesthoudend product verwijdert, draagt er zorg voor d
 
 #### § 6. Wijzigingen [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
 
-#### Artikel 12
+##### Artikel 12
 
 1. De LAVS-beheerder draagt er zorg voor dat het LAVS zeven dagen per week gedurende 24 uur per dag beschikbaar is, behoudens korte perioden waarin dat onverenigbaar is met aangekondigde werkzaamheden die noodzakelijk zijn voor de goede werking van het systeem.
 
@@ -210,7 +236,7 @@ Degene die asbest of een asbesthoudend product verwijdert, draagt er zorg voor d
 
 #### § 7. Wijzigingen overige regelgeving
 
-#### Artikel 13
+##### Artikel 13
 
 1. De gegevens en bescheiden die in het LAVS zijn opgenomen, zijn toegankelijk voor:
 
@@ -244,7 +270,7 @@ Degene die asbest of een asbesthoudend product verwijdert, draagt er zorg voor d
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de wijze van invoering en raadpleging van gegevens en bescheiden in het LAVS door degenen die toegang tot dat systeem hebben. Daarin kan ook het vereiste betrouwbaarheidsniveau van de eHerkenning worden vastgesteld.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De gegevens en bescheiden die in het LAVS zijn opgenomen, worden bewaard totdat het LAVS is opgeheven.
 
@@ -252,23 +278,23 @@ Degene die asbest of een asbesthoudend product verwijdert, draagt er zorg voor d
 
 #### § 6. Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 1. De LAVS-beheerder draagt ter uitvoering van artikel 32 van de algemene verordening gegevensbescherming zorg voor het nemen van technische en organisatorische maatregelen voor de beveiliging van het LAVS tegen verlies of aantasting van gegevens en bescheiden die in het LAVS zijn opgenomen, en tegen onbevoegde kennisneming, wijziging en verstrekking ervan.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de beveiliging van het LAVS.
 
-#### Artikel 16
+##### Artikel 16
 
 Voor zover het handelingen als bedoeld in [artikel 3, derde lid, en vierde lid in samenhang met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), of [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=3&artikel=9&z=2026-01-01&g=2026-01-01) met betrekking tot bouwwerken betreft, zijn burgemeester en wethouders in plaats van Onze Minister belast met de bestuursrechtelijke handhaving van dit besluit.
 
-#### Artikel 17
+##### Artikel 17
 
 Voor zover dit besluit berust op de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245), berust dit op de [artikelen 9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1), [9.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.2) en [9.2.3.3, vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.3).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 14a
+##### Artikel 14a
 
 Voor zover dit besluit berust op de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245), berust dit op de [artikelen 9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1), [9.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.2) en [9.2.3.3, vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.3).
 
@@ -276,7 +302,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 5. Bestuursrechtelijke handhaving
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit wordt aangehaald als: Asbestverwijderingsbesluit 2005.
 

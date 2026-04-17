@@ -1,13 +1,39 @@
 ---
-title: "Beheersregeling Archiefbeheer AZ 2020"
+title: "Regeling van de Minister-President, Minister van Algemene Zaken van 14 juli 2020, #4100673-v8, houdende regels op het gebied van de informatiehuishouding voor het Ministerie van Algemene Zaken (kortweg: Beheersregeling Archiefbeheer AZ 2020)"
 identifier: "BWBR0044008"
-categorie: "Overig"
-publicatiedatum: 2020-08-19
-laatste_update: 2020-08-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044008"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-08-19"
+last_updated: "2020-08-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044008"
+soort: "ministeriele-regeling"
+stam_id: "15609153"
+version_id: "26983022"
+internal_id: "C38184531"
+label_id: "15550124"
+dtd_version: "2.0"
+original_entry_into_force: "2020-08-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044008/2020-08-19/0"
+intitule_bron: "Stcrt.2020-43249"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-07-14"
+intitule_published: "2020-08-18"
+intitule_in_force: "2020-08-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-43249"
+original_signed_date: "2020-07-14"
+original_published_date: "2020-08-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-43249"
+entry_into_force_date: "2020-08-19"
+jci_1_3: "jci1.3:c:BWBR0044008&z=2020-08-19&g=2020-08-19"
+jci_1_0: "1.0:c:BWBR0044008&g=2020-08-19"
+citeertitel_status: "officieel"
+short_title: "Beheersregeling Archiefbeheer AZ 2020"
+signed_date: "2020-07-14"
+entry_into_force: "2020-08-19"
 ---
-
 # Regeling van de Minister-President, Minister van Algemene Zaken van 14 juli 2020, #4100673-v8, houdende regels op het gebied van de informatiehuishouding voor het Ministerie van Algemene Zaken (kortweg: Beheersregeling Archiefbeheer AZ 2020)
 
 Gelet op [artikel 14 van het **Archiefbesluit 1995**](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begrippenkader
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -92,13 +118,13 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Reikwijdte en verantwoordelijkheden
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Deze regeling is van toepassing op het beheer van alle archiefbescheiden vallend onder de ministeriële verantwoordelijkheid van de Minister-President, ministerie van Algemene Zaken, met uitzondering van die van het Koninklijk huis en die van de personeelsdossiers van ambtenaren werkzaam bij het ministerie van wie de P-dossiers zijn ondergebracht bij de Rijksbrede Centrale Archiefvoorziening voor Personeelsdossiers (CAP) van P-Direkt.
 
 Deze regeling is geldig voor archiefbescheiden van het ministerie. Hieronder vallen tevens de tijdelijke raden, formeel ingestelde commissies en programma- of projectorganisaties die onder de archiefwettelijke zorg van de minister vallen. Deze regeling geldt voor zowel de digitale als voor de papieren archiefbescheiden. Bij het archiveren van nieuwe documenten is het digitale archief leidend: de documentaire informatievoorziening dient hoofdzakelijk digitaal te verlopen, tenzij een bijzondere omstandigheid of de wet noodzaakt om papieren documenten te gebruiken.
 
-#### Artikel 3. Verantwoordelijkheden
+##### Artikel 3. Verantwoordelijkheden
 
 1. **De Minister-President, de Minister**
 
@@ -202,7 +228,7 @@ De Archiefcommissie adviseert, gevraagd en ongevraagd, de departementsleiding ov
 
 ### Hoofdstuk 3. Archiefvorming
 
-#### Artikel 4. Registratie en afdoening archiefbescheiden
+##### Artikel 4. Registratie en afdoening archiefbescheiden
 
 1. De verantwoordelijkheid voor het identificeren en registreren van nieuwe archiefbescheiden berust bij de behandelend medewerker. Direct bij binnenkomst of bij creatie van documenten beoordeelt de behandelend medewerker, op grond van de geldende registratiecriteria, of het archiefbescheiden betreft. Vervolgens registreert hij nieuwe archiefbescheiden in het DMS en slaat het op de juiste plaats op in de ordening.
 
@@ -216,7 +242,7 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 5. Het diensthoofd van een archiefvormend onderdeel is verantwoordelijk voor het afdoen van de archiefbescheiden binnen de vastgestelde termijn.
 
-#### Artikel 5. Archiefordening en dossiervorming
+##### Artikel 5. Archiefordening en dossiervorming
 
 1. De archiefbeheerder stelt de ordeningsstructuur vast voor het lopende archief, gebaseerd op de taken en werkprocessen van het betreffende archiefvormend onderdeel.
 
@@ -230,7 +256,7 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 6. De apparatuur, besturingsprogrammatuur of toepassingsapparatuur waarmee ordening en toegankelijkheid van digitale archiefbescheiden is gerealiseerd, vormt een onverbrekelijke eenheid met de archiefbescheiden waarop ze zijn toegepast.
 
-#### Artikel 6. Afsluiten van een dossier
+##### Artikel 6. Afsluiten van een dossier
 
 1. Het archiefbeherend onderdeel treedt in overleg met het archiefvormend onderdeel over het afsluiten van dossiers.
 
@@ -244,7 +270,7 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 6. Het toevoegen of verwijderen van archiefbescheiden in een afgesloten dossier, is voorbehouden aan het archiefbeherend onderdeel.
 
-#### Artikel 7. Documentmanagementsysteem (DMS)
+##### Artikel 7. Documentmanagementsysteem (DMS)
 
 1. Het ministerie en haar medewerkers maken in principe gebruik van het DMS voor het dagelijks beheer en de opslag van digitale archiefbescheiden. Medewerkers slaan hierin hun archiefbescheiden op.
 
@@ -254,7 +280,7 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 4. Een nieuw DMS moet voldoen aan de richtlijnen uit de Informatiseringstrategie (I-strategie) Rijk.
 
-#### Artikel 8. Metagegevensschema
+##### Artikel 8. Metagegevensschema
 
 1. Voor elk binnen het ministerie gebruikt DMS moet een metagegevensschema beschikbaar zijn, dat duidelijk omschrijft welke metagegevens ten minste aan documenten of dossiers gekoppeld moeten zijn.
 
@@ -264,13 +290,13 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 4. De op grond van een metagegevensschema toegekende metagegevens maken het te allen tijde mogelijk om van digitale archiefbescheiden het gedrag vast te stellen.
 
-#### Artikel 9. Bestandsoverzicht
+##### Artikel 9. Bestandsoverzicht
 
 1. Het diensthoofd van een archiefvormend onderdeel laat een actueel, compleet en logisch samenhangend overzicht aanleggen en bijhouden van archiefbescheiden die onder zijn verantwoordelijkheid vallen. Het overzicht is geordend volgens het voor de betreffende archief geldende ordeningsstructuur.
 
 ### Hoofdstuk 4. Archiefbeheer
 
-#### Artikel 10. Duurzaamheid van archiefbescheiden in het algemeen
+##### Artikel 10. Duurzaamheid van archiefbescheiden in het algemeen
 
 1. Om de archieven in goede, geordende en toegankelijke staat te houden, maakt het ministerie bij het vormen en bewaren van permanent te bewaren archiefbescheiden gebruik van standaarden en procedures die voldoen aan de eisen gesteld in de [Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041).
 
@@ -278,7 +304,7 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 3. De archiefbeheerder voert onder verantwoordelijkheid van de diensthoofden van de archiefvormende onderdelen kwaliteitscontroles uit op de archieven binnen het ministerie, om de duurzame toegankelijkheid van de archieven te garanderen. Hierbij dienen de [Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041) en de **Baseline Informatiehuishouding Rijksoverheid****(BIHR)** als richtlijn voor goed archiefbeheer.
 
-#### Artikel 11. Duurzaamheid van digitale archiefbescheiden
+##### Artikel 11. Duurzaamheid van digitale archiefbescheiden
 
 1. Het archiefbeherend onderdeel draagt zorg voor het technische onderhoud van de digitale archiefbescheiden onder zijn beheer, om de blijvende toegankelijkheid en leesbaarheid te borgen met inachtneming van de authenticiteit en betrouwbaarheid van de archiefbescheiden.
 
@@ -302,13 +328,13 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 7. Van de conversie of migratie van bestanden laat het diensthoofd van het archiefvormend onderdeel in samenspraak met de archiefbeheerder volgens een model een verklaring opmaken, die een specificatie bevat van de betreffende digitale archiefbescheiden en die aangeeft op welke wijze en met welk resultaat getoetst is, of de toegankelijke staat en authenticiteit van de digitale archiefbescheiden zijn gewaarborgd na de overzetting. Het diensthoofd ondertekent de verklaring van conversie of migratie. De archiefbeheerder en het archiefvormend onderdeel bewaren de verklaring van conversie of migratie blijvend in hun archief.
 
-#### Artikel 12. Duurzaamheid van papieren archiefbescheiden
+##### Artikel 12. Duurzaamheid van papieren archiefbescheiden
 
 1. Indien papieren archiefbescheiden door de aard van de gebruikte materialen niet (langer) voldoen aan het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044008&hoofdstuk=4&artikel=10&z=2020-08-19&g=2020-08-19) bepaalde, gaat de archiefbeheerder over tot vervanging van de archiefbescheiden door reproducties, als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044008&hoofdstuk=4&artikel=14&z=2020-08-19&g=2020-08-19), tenzij het archiefbescheiden betreft die zijn uitgesloten van vervanging.
 
 2. De archiefbeheerder kan door middel van een overeenkomst afgesloten papieren archiefbestanden op laten slaan bij derden in speciaal daarvoor bestemde archiefruimten die voldoen aan de voorschriften voor archiefruimten in de [Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041).
 
-#### Artikel 13. Selectielijst
+##### Artikel 13. Selectielijst
 
 1. De archiefbeheerder is verantwoordelijk voor het beschikbaar stellen van een toepasbare vastgestelde selectielijst.
 
@@ -326,7 +352,7 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 5. Het ontwerpen van een nieuwe selectielijst voldoet aan de in [artikelen 2 tot en met 5 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2) opgenomen criteria. De Selectielijst wordt in concept vastgesteld door de Algemeen Rijksarchivaris en CIO van het ministerie in het SIO.
 
-#### Artikel 14. Vervanging
+##### Artikel 14. Vervanging
 
 1. De minister kan besluiten over te gaan tot vervanging van archiefbescheiden door gelijkluidende reproducties, tenzij het archiefbescheiden betreft die zijn uitgesloten van vervanging. Vereist is dat de vervanging geschiedt met de juiste en volledige weergave van de in de te vervangen archiefbestanden voorkomende gegevens. De vernietiging van de vervangen originelen is onverbrekelijk onderdeel van het vervangingsproces.
 
@@ -336,7 +362,7 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 4. Van de vervanging van archiefbescheiden laat het archiefbeherend onderdeel een verklaring opmaken, die ten minste een specificatie van de vervangen archiefbescheiden behelst. Onder verantwoordelijkheid van de archiefbeheerder ondertekent de coördinator van het archiefbeherend onderdeel de verklaring van vervanging. De archiefbeheerder bewaart de verklaring van vervanging blijvend in zijn archief.
 
-#### Artikel 15. Vernietiging
+##### Artikel 15. Vernietiging
 
 1. Vernietiging van archiefbescheiden vindt uitsluitend plaats op grond van een selectielijst als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044008&hoofdstuk=4&artikel=13&z=2020-08-19&g=2020-08-19), of na vervanging van de betreffende archiefbescheiden door reproducties volgens de procedure beschreven in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044008&hoofdstuk=4&artikel=14&z=2020-08-19&g=2020-08-19).
 
@@ -350,7 +376,7 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 6. Indien op grond van [artikel 9 lid 2 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=9) in bijzondere omstandigheden moet worden afgeweken van de voorgeschreven vernietigingsprocedures, draagt het archiefbeherend onderdeel zorg voor de uitvoering van de dan geldende regels voor noodvernietiging.
 
-#### Artikel 16. Overbrenging naar een archiefbewaarplaats
+##### Artikel 16. Overbrenging naar een archiefbewaarplaats
 
 1. De archiefbeheerder is verantwoordelijk voor de overbrenging van de daarvoor in aanmerking komende archiefbescheiden naar een archiefbewaarplaats. De selectielijst, zoals beschreven in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044008&hoofdstuk=4&artikel=13&z=2020-08-19&g=2020-08-19), is in dit proces leidend. De archiefbeheerder brengt de daarvoor in aanmerking komende archiefbescheiden in principe twintig jaar na het afsluiten van het dossier over naar een archiefbewaarplaats.
 
@@ -376,13 +402,13 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 12. De secretaris-generaal kan beslissen dat het wenselijk is om de overbrenging van bepaalde dossiers op te schorten, indien medewerkers van het ministerie die dossiers nog regelmatig gebruiken of raadplegen. In dat geval dient hij een verzoek tot opschorting van overbrenging in te dienen bij de minister van Onderwijs, Cultuur en Wetenschap, waarin hij specificeert om welke archiefbescheiden het gaat en uitlegt waarom de opschorting wenselijk is. Voor de opschorting van overbrenging is namelijk een machtiging van de minister van Onderwijs, Cultuur en Wetenschap vereist.
 
-#### Artikel 17. Overdracht
+##### Artikel 17. Overdracht
 
 1. Indien een directie de verantwoordelijkheid voor archiefbescheiden overdraagt aan een andere directie, stelt het archiefbeherend onderdeel een verklaring op, die een specificatie van de overgedragen archiefbescheiden bevat. Zowel de overdragende als het ontvangende diensthoofd van het archiefvormend onderdeel ondertekenen de Verklaring van Overdracht (VvO). Het archiefbeherend onderdeel bewaart de Verklaring van Overdracht in het archief.
 
 2. De archiefbeheerder draagt er zorg voor dat bij het overdragen van archiefbescheiden een voorziening wordt getroffen betreffende de bestemming en het beheer van de archiefbescheiden met inachtneming van het [Besluit Archiefoverdrachten Rijksadministratie](https://wetten.overheid.nl/jci1.3:c:BWBR0004427).
 
-#### Artikel 18. Vervreemding
+##### Artikel 18. Vervreemding
 
 1. Het diensthoofd van een archiefvormend onderdeel en de archiefbeheerder kunnen besluiten tot vervreemding van archiefbescheiden die onder hun verantwoordelijkheid vallen. Indien de vervreemding niet plaatsvindt ter uitvoering van een in enige wet neergelegd voorschrift, is voor de vervreemding een machtiging vereist van de minister van Onderwijs, Cultuur en Wetenschap.
 
@@ -396,7 +422,7 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 ### Hoofdstuk 5. Informatieverstrekking
 
-#### Artikel 19. Interne beschikbaarstelling van archiefbescheiden
+##### Artikel 19. Interne beschikbaarstelling van archiefbescheiden
 
 1. Archiefbescheiden zijn voor iedere medewerker van het ministerie in te zien, tenzij er beperkende voorschriften van toepassing zijn. Gerubriceerde archiefbescheiden zijn alleen in te zien met toestemming van de directeur van het betreffende archiefvormend onderdeel.
 
@@ -404,11 +430,11 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 3. Het archiefbeherend onderdeel ziet toe op de tijdige terug bezorging van uitgeleende papieren dossiers.
 
-#### Artikel 20. Externe beschikbaarstelling van archiefbescheiden
+##### Artikel 20. Externe beschikbaarstelling van archiefbescheiden
 
 Verzoeken van derden om beschikbaarstelling van archiefbescheiden, behandelt het ministerie in overeenstemming met de van toepassing zijnde artikelen uit de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)**(Awb)**, [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252)**(Wob)**, de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) en de **Algemene Verordening Gegevensbescherming (AVG)**.
 
-#### Artikel 21. Archiefruimten
+##### Artikel 21. Archiefruimten
 
 1. Het archiefbeherend onderdeel zorgt ervoor dat (afgesloten) archiefbestanddelen worden bewaard in speciaal daarvoor bestemde archiefruimten.
 
@@ -422,7 +448,7 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden, behandelt het
 
 ### Hoofdstuk 6. Organisatieveranderingen
 
-#### Artikel 22. Organisatieveranderingen in het algemeen
+##### Artikel 22. Organisatieveranderingen in het algemeen
 
 1. Bij een organisatiewijziging treft de secretaris-generaal een voorziening omtrent het archiefbeheer.
 
@@ -430,7 +456,7 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden, behandelt het
 
 3. De overdracht of vervreemding van archiefbescheiden in het kader van een organisatiewijziging binnen de rijksoverheid, vindt plaats overeenkomstig het [Besluit archiefoverdrachten rijksadministratie](https://wetten.overheid.nl/jci1.3:c:BWBR0004427).
 
-#### Artikel 23. Reorganisatie
+##### Artikel 23. Reorganisatie
 
 1. Bij reorganisatie zorgt de archiefbeheerder voor het afsluiten van het archief van het betreffende archiefvormend onderdeel. Het nieuwe organisatieonderdeel begint met een nieuw archief.
 
@@ -442,7 +468,7 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden, behandelt het
 
 5. In geval van reorganisatie draagt het verantwoordelijke diensthoofd van het archiefvormend onderdeel zorg voor de overdracht aan de archiefbeheerder van de archiefbescheiden betreffende zaken die op het moment van de reorganisatie reeds zijn afgesloten en niet meer noodzakelijk zijn voor de uitvoering van de taken.
 
-#### Artikel 24. Opheffing
+##### Artikel 24. Opheffing
 
 1. In geval van opheffing van een archiefvormend onderdeel, waarbij geen overdracht van taken plaatsvindt, draagt het verantwoordelijke diensthoofd van het betreffende organisatieonderdeel zorg voor de overdracht van de archiefbescheiden aan de archiefbeheerder.
 
@@ -450,7 +476,7 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden, behandelt het
 
 3. In geval van opheffing van een archiefvormend onderdeel, waarbij een ander overheidsorgaan dan het ministerie de taken overneemt van het op te heffen organisatieonderdeel, draagt het verantwoordelijke diensthoofd zorg voor de vervreemding van alle archiefbescheiden betreffende de zaken die op het moment van de opheffing nog niet afgedaan zijn, aan het overheidsorgaan dat deze zaken voortaan zal afdoen. Overige archiefbescheiden draagt hij over aan de archiefbeheerder.
 
-#### Artikel 25. Privatisering
+##### Artikel 25. Privatisering
 
 1. Bij privatisering sluit het verantwoordelijke diensthoofd van het archiefvormend onderdeel het archief van zijn directie af. De private rechtspersoon begint met een nieuw archief.
 
@@ -466,7 +492,7 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden, behandelt het
 
 ### Hoofdstuk 7. Kwaliteitsbewaking en informatiebeveiliging
 
-#### Artikel 26. Kwaliteitsbewaking
+##### Artikel 26. Kwaliteitsbewaking
 
 1. De archiefbeheerder is belast met het dagelijks toezicht op de uitvoering van de werkzaamheden met betrekking tot het archiefbeheer en de naleving van de regels op het gebied van documentaire informatievoorziening.
 
@@ -476,7 +502,7 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden, behandelt het
 
 4. De CIO is belast met het toezicht op de implementatie en naleving van Rijksbrede en interne kaders rondom informatiehuishouding.
 
-#### Artikel 27. Informatiebeveiliging
+##### Artikel 27. Informatiebeveiliging
 
 1. Het [Voorschrift Informatiebeveiliging Rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022141)**(VIR 2007)**, het [Voorschrift Informatiebeveiliging Rijksdienst – Bijzondere Informatie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033507)**(VIR-BI 2013)** en de [Baseline Informatiebeveiliging Overheid](onbekend)**(BIO)**vormen de kaders voor de beveiliging van het informatiebeheer. Deze kaders gelden ook wanneer sprake is van (digitaal) kopiëren of anderszins reproduceren van bijzondere informatie.
 
@@ -500,11 +526,11 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden, behandelt het
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 28. Inwerkingtreding
+##### Artikel 28. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de eerste dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 29. Citeertitel
+##### Artikel 29. Citeertitel
 
 Deze regeling kan worden aangehaald als ‘**Beheersregeling Archiefbeheer AZ 2020**’.
 

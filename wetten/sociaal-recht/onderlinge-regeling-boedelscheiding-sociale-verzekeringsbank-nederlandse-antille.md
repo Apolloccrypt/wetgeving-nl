@@ -1,13 +1,38 @@
 ---
 title: "Onderlinge regeling boedelscheiding Sociale Verzekeringsbank Nederlandse Antillen"
 identifier: "BWBR0028982"
-categorie: "Sociaal recht"
-publicatiedatum: 2010-10-02
-laatste_update: 2010-10-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028982"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-10-02"
+last_updated: "2010-10-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028982"
+soort: "ministeriele-regeling"
+stam_id: "11081213"
+version_id: "18111812"
+internal_id: "C25183321"
+label_id: "11055654"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028982/2010-10-02/0"
+intitule_bron: "Stcrt.2010-14724"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-07"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14724"
+original_signed_date: "2010-09-07"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14724"
+entry_into_force_date: "2010-10-02"
+jci_1_3: "jci1.3:c:BWBR0028982&z=2010-10-02&g=2010-10-02"
+jci_1_0: "1.0:c:BWBR0028982&g=2010-10-02"
+citeertitel_status: "officieel"
+signed_date: "2010-09-07"
+entry_into_force: "2010-10-02"
 ---
-
 # Onderlinge regeling boedelscheiding Sociale Verzekeringsbank Nederlandse Antillen
 
 Hierna gezamenlijk te noemen: ‘Partijen’;
@@ -26,7 +51,7 @@ Komen het volgende overeen:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1. Begripsbepaling regeling
+##### Artikel 1. Begripsbepaling regeling
 
 1. In deze regeling wordt verstaan onder:
 
@@ -60,23 +85,23 @@ Komen het volgende overeen:
 
 #### § 2. Bepalingen in verband met toedeling belanghebbenden
 
-#### Artikel 2. Overgang archiefbescheiden
+##### Artikel 2. Overgang archiefbescheiden
 
 De overnemende landen verkrijgen zo spoedig mogelijk na het tijdstip van transitie de archiefbescheiden ter zake van gerechtigden waarmee de onderscheiden landen gelet op het bepaalde in het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028600) ingaande het tijdstip van transitie een relatie hebben. Hetzelfde geldt voor archiefbescheiden van gewezen gerechtigden naar de woonplaats op het tijdstip van transitie.
 
-#### Artikel 3. Communicatie
+##### Artikel 3. Communicatie
 
 De uitkeringsgerechtigden worden tijdig over de gevolgen van de uit hoofde van het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028600) op het tijdstip van transitie nieuw ingaande situatie geïnformeerd. De informatievoorziening ter zake wordt tussen de vertegenwoordigers van de (toekomstige) landen onderling afgestemd.
 
 #### § 3. Financieel en materieel
 
-#### Artikel 4. Vermogensbepaling Sociale Verzekeringsbank Nederlandse Antillen, Cessantiafonds en Fonds Ziektekosten Overheidsgepensioneerden
+##### Artikel 4. Vermogensbepaling Sociale Verzekeringsbank Nederlandse Antillen, Cessantiafonds en Fonds Ziektekosten Overheidsgepensioneerden
 
 1. De waardering van het vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen, het Cessantiafonds en het Fonds Ziektekosten Overheidsgepensioneerden geschiedt per tijdstip van transitie.
 
 2. Voor de waardering van het vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen, het Cessantiafonds en het Fonds Ziektekosten Overheidsgepensioneerden vormt de vermogensvaststelling zoals opgenomen in de gecontroleerde jaarrekening per het tijdstip van transitie het uitgangspunt, met uitzondering van de waardebepaling van het vastgoed. Het vastgoed wordt tegen de marktwaarde gewaardeerd.
 
-#### Artikel 5. Verdeling en overdracht vermogen Sociale Verzekeringsbank Nederlandse Antillen, Cessantiafonds en Fonds Ziektekosten Overheidsgepensioneerden
+##### Artikel 5. Verdeling en overdracht vermogen Sociale Verzekeringsbank Nederlandse Antillen, Cessantiafonds en Fonds Ziektekosten Overheidsgepensioneerden
 
 1. Het vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen onmiddellijk voorafgaand aan het tijdstip van transitie overeenkomstig de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028982&paragraaf=3&artikel=4&z=2010-10-02&g=2010-10-02) bepaalde vaststelling, wordt zo spoedig mogelijk doch uiterlijk twaalf maanden na het tijdstip van transitie verdeeld tussen de betrokken landen naar rato van de gemiddelde premie-inning ten gunste van het Ouderdomsfonds, het Weduwen- en wezenfonds, het Ziektefonds en het Ongevallenfonds gezamenlijk over de jaren 2006, 2007, 2008, 2009 en 2010 (gedeeltelijk) op de respectievelijke eilandgebieden Curaçao, Sint Maarten en BES.
 
@@ -90,7 +115,7 @@ De uitkeringsgerechtigden worden tijdig over de gevolgen van de uit hoofde van h
 
 6. Indien naar het oordeel van een van de landen gerede twijfel bestaat omtrent de volledigheid of juistheid van de in het vijfde lid genoemde stukken, kan dat land vorderen dat ter verificatie een nader onderzoek wordt ingesteld door een gezamenlijk aan te wijzen accountant, niet zijnde de reguliere accountant bedoeld in het vijfde lid. De kosten van een nader onderzoek als bedoeld in de eerste volzin worden ten laste van het te verdelen vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen gebracht.
 
-#### Artikel 6. Voorschot vermogensverdeling
+##### Artikel 6. Voorschot vermogensverdeling
 
 1. Bij wijze van voorschot op het bepaalde in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028982&paragraaf=3&artikel=5&z=2010-10-02&g=2010-10-02), ontvangen de betrokken landen elk afzonderlijk:
 
@@ -104,35 +129,35 @@ De uitkeringsgerechtigden worden tijdig over de gevolgen van de uit hoofde van h
 
 4. De uitvoering van dit artikel ligt bij de Sociale Verzekeringsbank van de Nederlandse Antillen.
 
-#### Artikel 7. Contracten en systemen
+##### Artikel 7. Contracten en systemen
 
 Onverminderd het bepaalde in het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028600) maken de landen onderling en met de betrokken contractpartij afspraken over de voortzetting dan wel beëindiging, van de op het tijdstip onmiddellijk voorafgaand aan het tijdstip van transitie lopende contracten – en de op basis daarvan in gebruik zijnde systemen – van de Sociale Verzekeringsbank van de Nederlandse Antillen.
 
-#### Artikel 8. Overgang eigendom gebouw Bonaire
+##### Artikel 8. Overgang eigendom gebouw Bonaire
 
 Onverminderd het bepaalde in het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028600) zal de minister van Volksgezondheid en Sociale Ontwikkeling van de Nederlandse Antillen bevorderen dat eigendomsoverdracht, tegen marktwaarde, kan plaatsvinden, indien de Nederlandse overheid het gebouw van de Sociale Verzekeringsbank van de Nederlandse Antillen op Bonaire voor of per het tijdstip van transitie wenst aan te kopen.
 
 #### § 4. Overleg en geschillenregeling
 
-#### Artikel 9. Overleg
+##### Artikel 9. Overleg
 
 Op uitvoerend niveau wordt namens de partijen in vast overleg voorzien met het oog op de uitvoering van deze regeling en het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028600). Na het tijdstip van transitie wordt dit overleg op passende wijze voortgezet, zolang de betrokken overlegpartners dit noodzakelijk achten.
 
-#### Artikel 10. Geschillenregeling
+##### Artikel 10. Geschillenregeling
 
 Indien zich in de uitvoering geschillen voordoen betreffende de toepassing van deze onderlinge regeling en het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028600), dan kunnen deze worden voorgelegd aan de partijen gezamenlijk. Zij kunnen een onafhankelijke bemiddelaar aanwijzen die een voor de partijen bindend advies uitbrengt.
 
 #### § 5. Slotbepalingen
 
-#### Artikel 11. Uitvoering na transitiedatum
+##### Artikel 11. Uitvoering na transitiedatum
 
 Het land Curaçao is belast met de aangelegenheden die verband houden met de afwikkeling en beëindiging van zaken na de splitsing van de Sociale Verzekeringsbank van de Nederlandse Antillen, tenzij anders wordt bepaald.
 
-#### Artikel 12. Nadere overeenkomst
+##### Artikel 12. Nadere overeenkomst
 
 Met het oog op een goede uitvoering van of ter uitwerking van het bepaalde in deze regeling kunnen op directeursniveau namens de betrokken landen of hun uitvoeringsinstanties nadere afspraken worden gemaakt.
 
-#### Artikel 13. Inwerkingtreding en citeertitel
+##### Artikel 13. Inwerkingtreding en citeertitel
 
 1. Deze overeenkomst treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin deze wordt geplaatst.
 

@@ -1,13 +1,38 @@
 ---
 title: "Skal-Tarievenblad 2007"
 identifier: "BWBR0020701"
-categorie: "Overig"
-publicatiedatum: 2007-01-01
-laatste_update: 2007-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020701"
+country: "nl"
+rank: "zbo"
+publication_date: "2007-01-01"
+last_updated: "2007-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020701"
+soort: "zbo"
+stam_id: "8781573"
+version_id: "13914682"
+internal_id: "C18861931"
+label_id: "8761424"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020701/2007-01-01/0"
+intitule_bron: "Stcrt.2006-245"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-11-14"
+intitule_published: "2006-12-15"
+intitule_in_force: "2006-12-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-245"
+original_signed_date: "2006-11-14"
+original_published_date: "2006-12-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-245-p31-SC78315"
+entry_into_force_date: "2007-01-01"
+jci_1_3: "jci1.3:c:BWBR0020701&z=2007-01-01&g=2007-01-01"
+jci_1_0: "1.0:c:BWBR0020701&g=2007-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2006-11-14"
+entry_into_force: "2007-01-01"
 ---
-
 # Skal-Tarievenblad 2007
 
 Dit reglement is door het Bestuur van Stichting Skal vastgesteld op 14 november 2006 en treedt in werking met ingang van 1 januari 2007.

@@ -1,13 +1,38 @@
 ---
 title: "Besluit Hybridemismatches"
 identifier: "BWBR0047425"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-11-04
-laatste_update: 2022-11-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047425"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-11-04"
+last_updated: "2022-11-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047425"
+soort: "beleidsregel"
+stam_id: "16553393"
+version_id: "29016192"
+internal_id: "C41074001"
+label_id: "16474554"
+dtd_version: "2.0"
+original_entry_into_force: "2022-11-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047425/2022-11-04/0"
+intitule_bron: "Stcrt.2022-29035"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-10-31"
+intitule_published: "2022-11-03"
+intitule_in_force: "2022-11-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-29035"
+original_signed_date: "2022-10-31"
+original_published_date: "2022-11-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-29035"
+entry_into_force_date: "2022-11-04"
+jci_1_3: "jci1.3:c:BWBR0047425&z=2022-11-04&g=2022-11-04"
+jci_1_0: "1.0:c:BWBR0047425&g=2022-11-04"
+citeertitel_status: "officieel"
+signed_date: "2022-10-31"
+entry_into_force: "2022-11-04"
 ---
-
 # Besluit Hybridemismatches
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

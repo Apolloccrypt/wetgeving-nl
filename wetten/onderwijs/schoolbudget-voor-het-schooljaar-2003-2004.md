@@ -1,13 +1,36 @@
 ---
 title: "Schoolbudget voor het schooljaar 2003 - 2004"
 identifier: "BWBR0014747"
-categorie: "Onderwijs"
-publicatiedatum: 2003-04-02
-laatste_update: 2003-04-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014747"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-04-02"
+last_updated: "2003-04-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014747"
+soort: "beleidsregel"
+stam_id: "6487113"
+version_id: "11166512"
+internal_id: "C15089941"
+label_id: "6475834"
+original_entry_into_force: "2003-04-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014747/2003-04-02/0"
+intitule_bron: "Uitleg.2003-9"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-02-24"
+intitule_published: "2003-04-02"
+intitule_in_force: "2003-04-02"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-9"
+original_signed_date: "2003-02-24"
+original_published_date: "2003-04-02"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-04-02"
+jci_1_3: "jci1.3:c:BWBR0014747&z=2003-04-02&g=2003-04-02"
+jci_1_0: "1.0:c:BWBR0014747&g=2003-04-02"
+citeertitel_status: "redactioneel"
+signed_date: "2003-02-24"
+entry_into_force: "2003-04-02"
 ---
-
 # Schoolbudget voor het schooljaar 2003 - 2004
 
 ### Inleiding

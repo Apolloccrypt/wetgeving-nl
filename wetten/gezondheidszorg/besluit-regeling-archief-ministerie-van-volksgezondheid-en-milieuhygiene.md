@@ -1,13 +1,35 @@
 ---
-title: "Besluit regeling archief Ministerie van Volksgezondheid en Milieuhygiëne"
+title: "Besluit van 18 april 1983, houdende regeling van de zorg voor het archief van het voormalig ministerie van Volksgezondheid en Milieuhygiëne"
 identifier: "BWBR0003588"
-categorie: "Gezondheidszorg"
-publicatiedatum: 1983-01-01
-laatste_update: 1983-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003588"
+country: "nl"
+rank: "kb"
+publication_date: "1983-01-01"
+last_updated: "1983-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003588"
+soort: "KB"
+stam_id: "915993"
+version_id: "1341122"
+internal_id: "C1341121"
+label_id: "888274"
+dtd_version: "2.0"
+original_entry_into_force: "1983-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003588/1983-01-01/0"
+intitule_bron: "Stb.1983-283"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1983-04-18"
+intitule_status: "goed"
+original_publication: "Stb.1983-283"
+original_signed_date: "1983-04-18"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1983-01-01"
+jci_1_3: "jci1.3:c:BWBR0003588&z=1983-01-01&g=1983-01-01"
+jci_1_0: "1.0:c:BWBR0003588&g=1983-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit regeling archief Ministerie van Volksgezondheid en Milieuhygiëne"
+signed_date: "1983-04-18"
+entry_into_force: "1983-01-01"
 ---
-
 # Besluit van 18 april 1983, houdende regeling van de zorg voor het archief van het voormalig ministerie van Volksgezondheid en Milieuhygiëne
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, van 13 april 1983, nr. 330512 en Onze Minister van Binnenlandse Zaken van 13 april 1983, nr. OA83/1138/4735, Directie Overheidsorganisatie en -Automatisering;
@@ -18,7 +40,7 @@ Gelet op [artikel 44 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Hebben goedgevonden en verstaan:
 
-#### artikel 1
+##### artikel 1
 
 1. De zorg voor de archieven van het opgeheven departement van Volksgezondheid en Milieuhygiëne gaat voor wat betreft:
 

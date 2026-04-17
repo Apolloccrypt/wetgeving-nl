@@ -1,16 +1,43 @@
 ---
 title: "Wet medisch tuchtrecht BES"
 identifier: "BWBR0028542"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028542"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028542"
+soort: "wet-BES"
+stam_id: "10842653"
+version_id: "25186932"
+internal_id: "C36016561"
+label_id: "10817424"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028542/2024-01-01/0"
+intitule_bron: "Stb.2010-642"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-29"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2018-260"
+original_signed_date: "2018-07-11"
+original_published_date: "2018-08-24"
+original_effect: "structuurwijziging"
+original_dossier: "34629"
+original_url_id: "stb-2018-260"
+entry_into_force_date: "2018-07-11"
+entry_into_force_dossier: "34629"
+jci_1_3: "jci1.3:c:BWBR0028542&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0028542&g=2024-01-01"
+citeertitel_status: "officieel"
+signed_date: "2018-07-11"
+entry_into_force: "2018-07-11"
 ---
-
 # Wet medisch tuchtrecht BES
 
-#### Artikel 1
+##### Artikel 1
 
 In de artikelen van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -32,23 +59,23 @@ In de artikelen van deze wet en de daarop berustende bepalingen wordt verstaan o
 
 - i. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 2
+##### Artikel 2
 
 De geneeskundige of tandheelkundige, die zich schuldig maakt aan gedragingen, welke het vertrouwen dat men in een geneeskundige of een tandheelkundige moet kunnen hebben ondermijnen, of aan nalatigheid, waardoor schade ontstaat voor een persoon, te wiens behoeve hem geneeskundige of tandheelkundige raad of bijstand gevraagd wordt of aan wie hij die raad of bijstand verleent, of die in de uitoefening van de geneeskunst of tandheelkunst blijk geeft van niet toelaatbare onkunde, kan, onverminderd zijn aansprakelijkheid ingevolge andere wettelijke voorschriften, worden onderworpen aan een van de maatregelen vermeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=7&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 3
+##### Artikel 3
 
 De verloskundige, die zich schuldig maakt aan gedragingen, welke het vertrouwen dat men in een verloskundige moet kunnen hebben, ondermijnen, of aan nalatigheid, waardoor schade ontstaat voor een zwangere vrouw of kraamvrouw, te wier behoeve haar verloskundige raad of bijstand gevraagd wordt of aan wie zij die raad of bijstand verleent, of voor een met haar bijstand geboren kind, of die in de uitoefening van de verloskunst, voorzover zij daartoe bevoegd is, blijk geeft van niet toelaatbare onkunde, kan, onverminderd haar aansprakelijkheid ingevolge andere wettelijke voorschriften, worden onderworpen aan een van de maatregelen, vermeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=7&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 4
+##### Artikel 4
 
 De apotheker, die zich schuldig maakt aan gedragingen, welke het vertrouwen dat men in een apotheker moet kunnen hebben, ondermijnen, of aan nalatigheid, waardoor schade ontstaat voor een persoon, te wiens behoeve hem wordt gevraagd geneesmiddelen te bereiden of tot geneeskundig doel af te leveren of voor wie hij geneesmiddelen bereidt of tot geneeskundig doel aflevert, of die in de uitoefening van de artsenijbereidkunde blijk geeft van niet toelaatbare onkunde, kan, onverminderd zijn aansprakelijkheid ingevolge andere wettelijke voorschriften, worden onderworpen aan een van de maatregelen, vermeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=7&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 5
+##### Artikel 5
 
 Ten aanzien van een geneeskundige, een tandheelkundige, een verloskundige of een apotheker, die door ziels- of lichaamsziekte of door ouderdoms- of lichaamsgebreken ongeschikt moet worden geacht voor de uitoefening van de praktijk, kunnen de maatregelen, vermeld onder [artikel 7, eerste lid, onder d, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=7&z=2024-01-01&g=2024-01-01), worden toegepast.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Ten aanzien van een geneeskundige, een tandheelkundige, een verloskundige of een apotheker, die de gewoonte maakt van drankmisbruik, misbruik van verdovende middelen als bedoeld in een bij of krachtens algemene maatregel van bestuur vast te stellen regeling, of misbruik van die pharmacologische middelen, waarbij psychische veranderingen kunnen optreden, wordt de maatregel vermeld in [artikel 7, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=7&z=2024-01-01&g=2024-01-01), toegepast.
 
@@ -58,7 +85,7 @@ Ten aanzien van een geneeskundige, een tandheelkundige, een verloskundige of een
 
 4. Met het toezicht op de naleving van de gegeven voorschriften zijn de ambtenaren van de Inspectie gezondheidszorg en jeugd belast.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De maatregelen, bedoeld in de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=2&z=2024-01-01&g=2024-01-01), zijn:
 
@@ -84,13 +111,13 @@ Ten aanzien van een geneeskundige, een tandheelkundige, een verloskundige of een
 
 5. Indien de beroepsbeoefenaar staat ingeschreven in een register als bedoeld in [artikel 8 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8), kan het College in het belang van de individuele gezondheidszorg bij het opleggen van een maatregel als bedoeld in het eerste lid, onder b en c, besluiten tot openbaarmaking in dat register van de opgelegde maatregel, al dan niet met de gronden waarop zij berust.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De toepassing van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=7&z=2024-01-01&g=2024-01-01) vermelde maatregelen geschiedt in eerste aanleg door het Medisch Tuchtcollege.
 
 2. Het College is gevestigd op een van de openbare lichamen en houdt zo nodig mede zitting op de andere openbare lichamen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het College bestaat uit een rechtsgeleerd lid als voorzitter en twee leden-geneeskundigen.
 
@@ -100,7 +127,7 @@ Ten aanzien van een geneeskundige, een tandheelkundige, een verloskundige of een
 
 4. Bij ontstentenis worden de in het eerste tot en met derde lid bedoelde personen vervangen door plaatsvervangers, die aan dezelfde vereisten voor benoembaarheid voldoen als degenen ter vervanging van wie zij optreden. Tenzij anders bepaald, worden in de artikelen van deze wet onder de leden van het College tevens hun plaatsvervangers begrepen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=9&z=2024-01-01&g=2024-01-01) is vereist dat de leden van het College de Nederlandse nationaliteit bezitten. Ambtenaren van de Inspectie gezondheidszorg en jeugd, zijn niet benoembaar. Indien een lid van het College met dit toezicht wordt belast, houdt zijn lidmaatschap van dit College op.
 
@@ -112,7 +139,7 @@ Ten aanzien van een geneeskundige, een tandheelkundige, een verloskundige of een
 
 5. Een lid van het College blijft na het verstrijken van zijn benoemingstermijn of zijn ontslag vanwege het bereiken van de zeventigjarige leeftijd, bevoegd om deel te nemen aan de verdere behandeling van en de beslissing over klachten, aan de behandeling waarvan hij voor het verstrijken van zijn benoemingstermijn of zijn ontslag reeds heeft deelgenomen.
 
-#### Artikel 10a
+##### Artikel 10a
 
 Het in de [artikelen 46c, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46ca, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46ca), [46d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46d), [46f](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46f), [46i, met uitzondering van het eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46j](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46j), [46l, eerste lid, aanhef en onderdelen a en c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l), [46m](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46m), [46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o) en [46p van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p) bepaalde is van overeenkomstige toepassing ten aanzien van de leden en de plaatsvervangende leden van de regionale tuchtcolleges en van het centrale tuchtcollege, met dien verstande dat de in het vijfde lid van artikel 46p bedoelde mededeling te hunnen aanzien eveneens wordt gedaan aan Onze Minister.
 
@@ -122,15 +149,15 @@ De [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=13a),
 
 - b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=13a), te voldoen, indien de verzoeker redelijkerwijs onvoldoende belang heeft bij een onderzoek als bedoeld in datzelfde artikel.
 
-#### Artikel 10b
+##### Artikel 10b
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Aan het College worden een of meer secretarissen toegevoegd. Deze worden door Onze Minister aangewezen. De aanwijzing eindigt met ingang van de datum dat de uitoefening van de functie van secretaris geen onderdeel meer uitmaakt van de werkzaamheden van de betreffende ambtenaar.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een zaak wordt voor het College aanhangig gemaakt door een schriftelijke klacht van:
 
@@ -144,7 +171,7 @@ Aan het College worden een of meer secretarissen toegevoegd. Deze worden door On
 
 3. Intrekken van de klacht nadat zij is ingekomen en het neerleggen van de praktijk door de geneeskundige, de tandheelkundige, de verloskundige of de apotheker die bij de zaak is betrokken, heeft op de verdere behandeling geen invloed wanneer naar het oordeel van het College het algemeen belang vordert, dat de behandeling wordt voortgezet.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Ingeval er ten aanzien van de leden feiten of omstandigheden bestaan, waardoor in het algemeen de rechterlijke onpartijdigheid ernstig schade zou kunnen lijden, kan diens wraking schriftelijk of, ter terechtzitting, mondeling worden voorgedragen door degene over wie geklaagd is en degene die de klacht heeft ingediend.
 
@@ -164,19 +191,19 @@ Aan het College worden een of meer secretarissen toegevoegd. Deze worden door On
 
 - e. waar in de [artikelen 512](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=512) en [513](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=513) wordt gesproken over «het onderzoek op de terechtzitting», daaronder moet worden verstaan: de mondelinge behandeling van de zaak.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien de behandeling van een zaak niet mogelijk blijkt zonder dat degene over wie geklaagd is gehoord wordt, en deze, hoewel krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=12&z=2024-01-01&g=2024-01-01) opgeroepen, niet is verschenen en het College desondanks van oordeel is dat het algemeen belang de afdoening vordert, kan het College beslissen dat hij of zij op een daarbij te bepalen dag moet verschijnen. ledere beslissing houdt de overwegingen in waarop zij steunt.
 
 2. Het bepaalde in de [artikelen 198](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=198) en [463 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=463) geldt mede ten aanzien van de geneeskundige, de tandheelkundige, de verloskundige of de apotheker, bedoeld in het eerste lid.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Ieder die als getuige of deskundige is opgeroepen, is verplicht aan die oproeping gevolg te geven. Hij die als getuige of deskundige is opgeroepen, is verplicht getuigenis af te leggen of zijn diensten als deskundige te verlenen, een en ander behoudens geldige redenen van verschoning op grond van de verplichting tot geheimhouding uit hoofde van stand, beroep of ambt, als in [artikel 252 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=252) bedoeld.
 
 2. [Artikel 251, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=251) is van overeenkomstige toepassing.
 
-#### Artikel 15a
+##### Artikel 15a
 
 Indien tegen een geneeskundige, een tandheelkundige, een verloskundige of een apotheker een klacht is ingediend ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=12&z=2024-01-01&g=2024-01-01)van deze wet en bij de behandeling van deze klacht blijkt, dat in de strafzaak ten aanzien van het feit waarop de klacht betrekking heeft, door de Rechter is gedaan óf blijkt, dat de betrokkene ten aanzien van dat feit een civiele procedure heeft gevoerd, kan op eenvoudig verzoek van de voorzitter van het College door de president van het Gemeenschappelijk Hof worden bepaald, dat het betreffende dossier geheel of ten dele door de griffier van dat Hof voor ten hoogste 14 dagen ter inzage van het college wordt gegeven.
 
@@ -184,7 +211,7 @@ Indien de betreffende zaak nog in behandeling is kan zodanige inzage ook worden 
 
 Bij een met redenen omklede beschikking kan inzage als bedoeld in lid 1 en 2 van dit artikel door de President van het Gemeenschappelijk Hof worden geweigerd.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De leden van het College, zomede de secretaris en de plaatsvervangende secretaris, zijn verplicht tot geheimhouding van de bij het College aanhangige zaken, van de beraadslagingen over en van de beslissingen op een zaak, voorzover niet bij of krachtens algemene maatregel van bestuur als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=19&z=2024-01-01&g=2024-01-01), mededeling aan ambtenaren van politie of justitie wordt vereist.
 
@@ -194,7 +221,7 @@ Bij een met redenen omklede beschikking kan inzage als bedoeld in lid 1 en 2 van
 
 4. Onze Minister ontvangt een afschrift van de beslissing indien een maatregel, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=7&z=2024-01-01&g=2024-01-01), is opgelegd.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Tegen de beslissingen van het College staat hoger beroep open bij het Gemeenschappelijk Hof.
 
@@ -208,7 +235,7 @@ Bij een met redenen omklede beschikking kan inzage als bedoeld in lid 1 en 2 van
 
 4. De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=13&z=2024-01-01&g=2024-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=15&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 18
+##### Artikel 18
 
 Het bepaalde in [artikel 201 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=201) vindt overeenkomstige toepassing ten aanzien van de geneeskundige, tandheelkundige, verloskundige of apotheker, die
 
@@ -216,19 +243,19 @@ Het bepaalde in [artikel 201 van het Wetboek van Strafrecht BES](https://wetten.
 
 - b. hoewel hem of haar bij onherroepelijk geworden uitspraak de bevoegdheid het beroep uit te oefenen is ontzegd, dit niettemin uitoefent.
 
-#### Artikel 19
+##### Artikel 19
 
 Bij of krachtens algemene maatregel van bestuur wordt verder geregeld de wijze van behandeling van klachten, zo in eerste aanleg als in hoger beroep, zomede alles wat voor de uitvoering van deze wet verder voorziening vordert.
 
-#### Artikel 19a
+##### Artikel 19a
 
 Op klachten die aanhangig zijn gemaakt voor de datum van inwerkingtreding van deze wet zijn de bepalingen van de Landsverordening van de 4de maart 1957, houdende regeling van de tuchtrechtspraak over personen die geneeskunst uitoefenen, zomede over apothekers (P.B. 1957, no. 30), zoals deze luidden op het tijdstip van inwerkingtreding van deze wet van toepassing.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze wet wordt aangehaald als: Wet medisch tuchtrecht BES.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. In gevallen waarin een der in [artikel 7, eerste lid, onder f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=7&z=2024-01-01&g=2024-01-01), omschreven maatregelen is opgelegd, kan, zo bijzondere omstandigheden zulks wettigen, bij koninklijk besluit worden bepaald dat de betrokkene in de hem ontzegde bevoegdheid wordt hersteld.
 
@@ -236,6 +263,6 @@ Deze wet wordt aangehaald als: Wet medisch tuchtrecht BES.
 
 3. De voordracht tot een besluit krachtens het eerste of tweede lid, tweede volzin, wordt gedaan door Onze Minister. Alvorens zodanige voordracht wordt gedaan, wint Onze Minister het advies in van het college.
 
-#### Artikel 8b
+##### Artikel 8b
 
 Herziening van een onherroepelijk geworden tuchtrechtelijke eindbeslissing waarbij een in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028542&artikel=7&z=2024-01-01&g=2024-01-01), omschreven maatregel werd opgelegd, is mogelijk, wanneer naderhand omstandigheden zijn gebleken die naar ernstig vermoeden tot een afwijkende beslissing zouden hebben geleid, indien zij tijdig bekend waren geworden. Bij algemene maatregel van bestuur worden hieromtrent nadere regels gesteld. De herziening zal niet kunnen leiden tot een wijziging in hetgeen voorheen was beslist, ten nadele van de betrokkene.

@@ -1,13 +1,38 @@
 ---
 title: "Protocol Accountantsonderzoek CAK Bestuurlijke verantwoording 2019"
 identifier: "BWBR0043348"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-04-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043348"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-04-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043348"
+soort: "zbo"
+stam_id: "15389643"
+version_id: "26601662"
+internal_id: "C37749951"
+label_id: "15334534"
+dtd_version: "2.0"
+original_entry_into_force: "2020-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043348/2020-04-01/0"
+intitule_bron: "Stcrt.2020-18304"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-03-03"
+intitule_published: "2020-03-31"
+intitule_in_force: "2020-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-18304"
+original_signed_date: "2020-03-03"
+original_published_date: "2020-03-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-18304"
+entry_into_force_date: "2020-04-01"
+jci_1_3: "jci1.3:c:BWBR0043348&z=2020-04-01&g=2020-04-01"
+jci_1_0: "1.0:c:BWBR0043348&g=2020-04-01"
+citeertitel_status: "redactioneel"
+signed_date: "2020-03-03"
+entry_into_force: "2020-04-01"
 ---
-
 # Protocol Accountantsonderzoek CAK Bestuurlijke verantwoording 2019
 
 **Bestuurlijke verantwoording 2019**

@@ -1,13 +1,37 @@
 ---
 title: "Overeenkomst betreffende de vaststelling van mondiale technische reglementen voor wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen"
 identifier: "BWBV0001512"
-categorie: "Verkeer"
-publicatiedatum: 2002-03-05
-laatste_update: 2002-03-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001512"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-03-05"
+last_updated: "2002-03-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001512"
+soort: "verdrag"
+stam_id: "10000309593"
+version_id: "10000349462"
+internal_id: "C10007327461"
+label_id: "10000309924"
+original_entry_into_force: "2002-03-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001512/2002-03-05/0"
+intitule_bron: "Trb.2001-78"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-01-04"
+intitule_published: "2001-05-07"
+intitule_in_force: "2002-02-21"
+intitule_status: "goed"
+original_publication: "Trb.2001-78"
+original_signed_date: "2002-01-04"
+original_published_date: "2001-05-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2001-78"
+entry_into_force_date: "2002-03-05"
+jci_1_3: "jci1.3:c:BWBV0001512&z=2002-03-05&g=2002-03-05"
+jci_1_0: "1.0:c:BWBV0001512&g=2002-03-05"
+citeertitel_status: "officieel"
+signed_date: "2002-01-04"
+entry_into_force: "2002-03-05"
 ---
-
 # Overeenkomst betreffende de vaststelling van mondiale technische reglementen voor wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen
 
 Preambule
@@ -46,7 +70,7 @@ Erkennende dat het bijzonder belangrijk is dat er bij de ontwikkeling van mondia
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 1.1. Het doel van deze Overeenkomst is:
 
@@ -66,7 +90,7 @@ Zijn als volgt overeengekomen:
 
 1.2. De uitvoering van deze Overeenkomst moet parallel met die van de Overeenkomst van 1958 verlopen, zonder dat er afbreuk wordt gedaan aan de institutionele autonomie van de Overeenkomsten.
 
-#### Artikel 2. Overeenkomstsluitende partijen en raadgevende status
+##### Artikel 2. Overeenkomstsluitende partijen en raadgevende status
 
 2.1. Landen die lid zijn van de Economische Commissie voor Europa (VN/ECE), organisaties voor regionale economische integratie die zijn opgericht door lidstaten van de ECE en landen die overeenkomstig paragraaf 8 van het mandaat van deze Commissie in een raadgevende hoedanigheid tot de ECE zijn toegelaten, kunnen Partij bij deze Overeenkomst worden.
 
@@ -74,7 +98,7 @@ Zijn als volgt overeengekomen:
 
 2.3. Gespecialiseerde bureaus en alle organisaties, intergouvernementele en niet-gouvernementele organisaties inbegrepen, aan welke door de Economische en Sociale Raad van de Verenigde Naties een raadgevende status is verleend, kunnen in die hoedanigheid deelnemen aan de beraadslagingen van werkgroepen, wanneer er zaken behandeld worden die voor die bureaus of organisaties van bijzonder belang is.
 
-#### Artikel 3. Uitvoerend Comité
+##### Artikel 3. Uitvoerend Comité
 
 3.1. De vertegenwoordigers van de Overeenkomstsluitende Partijen richten het Uitvoerend Comité van deze Overeenkomst op en komen minstens éénmaal per jaar als zodanig bijeen.
 
@@ -92,7 +116,7 @@ Zijn als volgt overeengekomen:
 
 3.5. Het Uitvoerend Comité gebruikt bij de uitoefening van zijn functies informatie uit alle van belang zijnde bronnen, wanneer het Comité dit passend acht.
 
-#### Artikel 4. Criteria voor technische voorschriften
+##### Artikel 4. Criteria voor technische voorschriften
 
 4.1. Om krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001512&artikel=5&z=2002-03-05&g=2002-03-05) te kunnen worden opgenomen of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001512&artikel=6&z=2002-03-05&g=2002-03-05) te worden vastgelegd moet een technisch voorschrift aan de volgende criteria voldoen:
 
@@ -114,7 +138,7 @@ Zijn als volgt overeengekomen:
 
 4.2. In een mondiaal technisch reglement kunnen alternatieve niet-mondiale striktheids- of prestatieniveaus en passende beproevingsprocedures worden opgenomen, indien dit nodig is om de regelgevingsactiviteiten in bepaalde landen, met name in ontwikkelingslanden, te vergemakkelijken.
 
-#### Artikel 5. Compendium van mogelijke mondiale technische voorschriften
+##### Artikel 5. Compendium van mogelijke mondiale technische voorschriften
 
 5.1. Er wordt een Compendium van geen VN/ECE-reglementen zijnde technische voorschriften van Overeenkomstsluitende Partijen, die in aanmerking komen voor harmonisatie of goedkeuring als mondiale technische reglementen (het zogeheten Compendium of Candidates) gecreëerd en bijgehouden.
 
@@ -148,7 +172,7 @@ Een in het Compendium opgenomen technisch voorschrift wordt daaruit verwijderd:
 
 Alle door het Uitvoerend Comité krachtens dit artikel onderzochte documenten zijn algemeen beschikbaar.
 
-#### Artikel 6. Register van mondiale technische reglementen
+##### Artikel 6. Register van mondiale technische reglementen
 
 6.1. Er wordt een register gecreëerd en onderhouden voor de krachtens dit artikel ontwikkelde en vastgelegde mondiale technische reglementen. Dit register wordt het Wereldregister genoemd.
 
@@ -264,7 +288,7 @@ Bij wijziging van een krachtens dit artikel in het Wereldregister vastgelegd mon
 
 Alle documenten die door de werkgroep bij het krachtens dit artikel aanbevelen van mondiale technische reglementen zijn geraadpleegd of geproduceerd zijn algemeen beschikbaar.
 
-#### Artikel 7. Aanname en kennisgeving van toepassing van vastgelegde mondiale technische reglementen
+##### Artikel 7. Aanname en kennisgeving van toepassing van vastgelegde mondiale technische reglementen
 
 7.1. Een Overeenkomstsluitende Partij die stemt voor de vastlegging van een mondiaal technisch reglement krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001512&artikel=6&z=2002-03-05&g=2002-03-05) van deze Overeenkomst is verplicht om dit technisch reglement te onderwerpen aan de procedure die door genoemde Overeenkomstsluitende Partij wordt toegepast bij opname van zo'n technisch reglement in de eigen wetgeving of regelgeving, en tracht spoedig tot een definitief besluit te komen.
 
@@ -282,13 +306,13 @@ Alle documenten die door de werkgroep bij het krachtens dit artikel aanbevelen v
 
 7.6. Een Overeenkomstsluitende Partij die een vastgelegd mondiaal technisch reglement in haar eigen wet- of regelgeving heeft opgenomen, kan ertoe besluiten dit reglement af te schaffen of te wijzigen. Alvorens dat besluit te nemen, stelt de Overeenkomstsluitende Partij de Secretaris-Generaal schriftelijk in kennis van haar voornemen en van de redenen van de voorgenomen maatregel. Deze mededelingsplicht geldt ook voor een Overeenkomstsluitende Partij die krachtens paragraaf 7.5 producten heeft aanvaard, en die voornemens is de aanvaarding van deze producten te staken. De Overeenkomstsluitende Partij stelt de Secretaris-Generaal in kennis van haar besluit om een gewijzigd of nieuw reglement op te nemen binnen 60 dagen na dat besluit. De Overeenkomssluitende Partij verschaft desgevraagd exemplaren van dit gewijzigd of nieuw reglement aan andere Overeenkomstsluitende Partijen.
 
-#### Artikel 8. Regeling van geschillen
+##### Artikel 8. Regeling van geschillen
 
 8.1. Vragen betreffende de bepalingen van een vastgelegd mondiaal technisch reglement worden voor een oplossing verwezen naar het Uitvoerend Comité.
 
 8.2. Geschillen tussen twee of meer Overeenkomstsluitende Partijen betreffende de uitlegging of toepassing van deze Overeenkomst worden, voorzover mogelijk, opgelost door middel van overleg of onderhandelingen. Indien het niet lukt om op deze wijze de geschillen te regelen, kunnen de betrokken Overeenkomstsluitende Partijen overeenkomen het Uitvoerend Comité te verzoeken het geschil overeenkomstig de bepalingen van [paragraaf 7.3 van artikel 7 van bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001512&bijlage=B&artikel=7&z=2002-03-05&g=2002-03-05) te regelen.
 
-#### Artikel 9. Overeenkomstsluitende Partijen worden
+##### Artikel 9. Overeenkomstsluitende Partijen worden
 
 9.1. Landen en organisaties voor regionale economische integratie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001512&artikel=2&z=2002-03-05&g=2002-03-05) kunnen Overeenkomstsluitende Partijen worden door:
 
@@ -310,13 +334,13 @@ Alle documenten die door de werkgroep bij het krachtens dit artikel aanbevelen v
 
 9.4. Regionale organisaties voor economische integratie die Overeenkomstsluitende Partij zijn, houden op Overeenkomstsluitende Partij te zijn, wanneer zij de bevoegdheden verliezen, waarover zij overeenkomstig paragraaf 9.3.2 van dit artikel hebben verklaard te beschikken, en delen dit aan de Secretaris-Generaal mede.
 
-#### Artikel 10. Ondertekening
+##### Artikel 10. Ondertekening
 
 10.1. Deze Overeenkomst staat open voor ondertekening vanaf 25 juni 1998.
 
 10.2. Deze Overeenkomst blijft openstaan voor ondertekening tot aan de inwerkingtreding ervan.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 11.1. Deze Overeenkomst en de bijlagen, die daarvan integrerende delen vormen, treden in werking op de dertigste dag na de datum waarop ten minste vijf landen en/of organisaties voor regionale economische integratie overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001512&artikel=9&z=2002-03-05&g=2002-03-05) Overeenkomstsluitende Partijen zijn geworden. De Europese Gemeenschap, Japan en de Verenigde Staten van Amerika moeten tot dit minimumaantal van vijf behoren.
 
@@ -324,13 +348,13 @@ Alle documenten die door de werkgroep bij het krachtens dit artikel aanbevelen v
 
 11.3. Voor landen of organisaties voor regionale economische integratie, die na de inwerkingtreding van de Overeenkomst Overeenkomstsluitende Partij worden, treedt deze Overeenkomst in werking zestig dagen na de datum waarop dit land of deze organisatie voor regionale economische integratie zijn/haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nederlegt.
 
-#### Artikel 12. Opzegging van de overeenkomst
+##### Artikel 12. Opzegging van de overeenkomst
 
 12.1. Een Overeenkomstsluitende Partij kan deze Overeenkomst opzeggen door middel van schriftelijke mededeling aan de Secretaris-Generaal.
 
 12.2. De opzegging van deze Overeenkomst door een Overeenkomstsluitende Partij wordt van kracht één jaar na de datum waarop de Secretaris-Generaal de mededeling overeenkomstig paragraaf 12.1 van dit artikel heeft ontvangen.
 
-#### Artikel 13. Wijziging van de overeenkomst
+##### Artikel 13. Wijziging van de overeenkomst
 
 13.1. Een Partij kan wijzigingen van deze Overeenkomst en de bijlagen bij deze Overeenkomst voorstellen. De voorgestelde wijzigingen worden bij de Secretaris-Generaal ingediend, die ze doorzendt naar alle Overeenkomstsluitende Partijen.
 
@@ -342,7 +366,7 @@ Alle documenten die door de werkgroep bij het krachtens dit artikel aanbevelen v
 
 13.5. Indien er tegen de voorgestelde wijziging bezwaar is gemaakt, deelt de Secretaris-Generaal dit zo spoedig mogelijk aan alle partijen mede. Indien er bezwaar is gemaakt, wordt de wijziging geacht niet te zijn aanvaard, en wordt zij op geen enkele wijze van kracht.
 
-#### Artikel 14. Depositaris
+##### Artikel 14. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties is depositaris van de Overeenkomst. Naast zijn andere functies als depositaris is het de taak van de Secretaris-Generaal om zo spoedig mogelijk de partijen in kennis te stellen van:
 
@@ -364,13 +388,13 @@ De Secretaris-Generaal van de Verenigde Naties is depositaris van de Overeenkoms
 
 - 14.9. ontvangen mededelingen overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001512&artikel=15&z=2002-03-05&g=2002-03-05) met betrekking tot grondgebieden.
 
-#### Artikel 15. Uitbreiding van de overeenkomst tot grondgebieden
+##### Artikel 15. Uitbreiding van de overeenkomst tot grondgebieden
 
 15.1. Deze Overeenkomst strekt zich uit tot het grondgebied of de grondgebieden van een Overeenkomstsluitende Partij, voor de internationale betrekkingen waarvan genoemde Overeenkomstsluitende Partij verantwoordelijk is, tenzij de Overeenkomstsluitende Partij vóór het van kracht worden van de Overeenkomst voor die Partij anders bepaalt.
 
 15.2. Een Overeenkomstsluitende Partij kan deze Overeenkomst voor ieder van deze grondgebieden afzonderlijk opzeggen overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001512&artikel=12&z=2002-03-05&g=2002-03-05).
 
-#### Artikel 16. Secretariaat
+##### Artikel 16. Secretariaat
 
 Het secretariaat van deze Overeenkomst wordt vervuld door de Uitvoerend Secretaris van de VN/ECE. De Uitvoerend Secretaris verricht de volgende secretariaatswerkzaamheden:
 

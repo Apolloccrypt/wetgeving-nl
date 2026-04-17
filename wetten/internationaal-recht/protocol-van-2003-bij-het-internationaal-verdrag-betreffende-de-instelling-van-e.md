@@ -1,13 +1,35 @@
 ---
 title: "Protocol van 2003 bij het Internationaal Verdrag betreffende de instelling van een internationaal fonds voor vergoeding van schade door verontreiniging door olie, 1992"
 identifier: "BWBV0003272"
-categorie: "Internationaal recht"
-publicatiedatum: 2005-09-16
-laatste_update: 2003-05-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003272"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-09-16"
+last_updated: "2003-05-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003272"
+soort: "verdrag"
+stam_id: "10003455883"
+version_id: "10003503272"
+internal_id: "C10006996131"
+label_id: "10003442194"
+dtd_version: "2.0"
+original_entry_into_force: "2005-09-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003272/2005-09-16/0"
+intitule_bron: "Trb.2004-196"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2004-08-18"
+intitule_in_force: "2005-10-31"
+intitule_status: "goed"
+original_publication: "Trb.2004-196"
+original_published_date: "2004-08-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-196"
+entry_into_force_date: "2005-09-16"
+jci_1_3: "jci1.3:c:BWBV0003272&z=2005-09-16&g=2005-09-16"
+jci_1_0: "1.0:c:BWBV0003272&g=2005-09-16"
+citeertitel_status: "redactioneel"
+entry_into_force: "2005-09-16"
 ---
-
 # Protocol van 2003 bij het Internationaal Verdrag betreffende de instelling van een internationaal fonds voor vergoeding van schade door verontreiniging door olie, 1992
 
 De Verdragsluitende Staten die partij zijn bij dit Protocol,
@@ -30,7 +52,7 @@ Zijn het volgende overeengekomen:
 
 ### ALGEMENE BEPALINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Protocol:
 
@@ -56,13 +78,13 @@ Voor de toepassing van dit Protocol:
 
 - 11. wordt onder „Secretaris-Generaal” verstaan de Secretaris-Generaal van de Organisatie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Hierbij wordt een Internationaal Aanvullend Fonds voor vergoeding van schade door verontreiniging door olie, 2003, (hierna „het Aanvullend Fonds”) opgericht.
 
 2. Het Aanvullend Fonds wordt in elke Verdragsluitende Staat erkend als een rechtspersoon die ingevolge de wetten van die Staat bevoegd is rechten en plichten te aanvaarden en partij te zijn bij gedingen voor de gerechten van die Staat. Elke Verdragsluitende Staat erkent de Directeur van het Aanvullend Fonds als wettelijke vertegenwoordiger van het Aanvullend Fonds.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit Protocol is uitsluitend van toepassing:
 
@@ -76,7 +98,7 @@ Dit Protocol is uitsluitend van toepassing:
 
 ### AANVULLENDE VERGOEDING
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het Aanvullend Fonds betaalt schadevergoeding aan iedere persoon die schade door verontreiniging heeft geleden indien deze persoon niet in staat is geweest volledige en passende vergoeding van een erkende vordering voor dergelijke schade te verkrijgen uit hoofde van de bepalingen van het [Fondsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146), omdat de totale schade de van toepassing zijnde vergoedingsgrens zoals vervat in [artikel 4, vierde lid, van het Fondsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146&artikel=4), ten aanzien van een voorval overtreft, of dreigt te overtreffen.
 
@@ -88,17 +110,17 @@ Dit Protocol is uitsluitend van toepassing:
 
 4. Door het Aanvullend Fonds worden uitsluitend schadevergoedingen betaald betreffende erkende vorderingen zoals omschreven in artikel 1, achtste lid.
 
-#### Artikel 5
+##### Artikel 5
 
 Het Aanvullend Fonds betaalt schadevergoeding wanneer de Algemene Vergadering van het Fonds 1992 van mening is dat het totale bedrag van de erkende vorderingen het totale bedrag dat beschikbaar is voor schadevergoeding ingevolge [artikel 4, vierde lid, van het Fondsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146&artikel=4), zal overschrijden of dreigt te overschrijden, en dat dientengevolge de Algemene Vergadering van het Fonds 1992 het voorlopige of definitieve besluit heeft genomen dat slechts een deel van de erkende vordering zal worden betaald. De Algemene Vergadering van het Aanvullend Fonds besluit in dat geval of en in welke mate het Aanvullend Fonds het gedeelte van de erkende vordering zal betalen dat niet wordt betaald uit hoofde van het [Aansprakelijkheidsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004147), en het [Fondsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Met inachtneming van artikel 15, tweede en derde lid, vervallen rechten op schadevergoeding jegens het Aanvullend Fonds uitsluitend indien zij ook vervallen jegens het Fonds 1992 ingevolge [artikel 6 van het Fondsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146&artikel=6).
 
 2. Een vordering ingesteld tegen het Fonds 1992 wordt beschouwd als een vordering die door dezelfde eiser is ingesteld tegen het Aanvullend Fonds.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bepalingen van [artikel 7, eerste, tweede, vierde, vijfde en zesde lid, van het Fondsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146&artikel=7), zijn van toepassing op vorderingen tot vergoeding van schade ingesteld tegen het Aanvullend Fonds overeenkomstig artikel 4, eerste lid, van dit Protocol.
 
@@ -106,13 +128,13 @@ Het Aanvullend Fonds betaalt schadevergoeding wanneer de Algemene Vergadering va
 
 3. Indien, niettegenstaande het eerste lid, een vordering tot vergoeding van schade door verontreiniging tegen het Fonds 1992, is ingesteld bij de rechter van een Verdragsluitende Staat die partij is bij het [Fondsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146), doch niet bij dit Protocol, moet een samenhangende vordering tegen het Aanvullend Fonds, ter keuze van de schuldeiser, worden ingesteld hetzij bij de rechter van de Staat waar het Aanvullend Fonds zijn zetel heeft, hetzij bij een ingevolge het eerste lid bevoegde rechter van een Verdragsluitende Staat.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Met inachtneming van een besluit omtrent de verdeling bedoeld in artikel 4, derde lid, van dit Protocol, worden uitspraken betreffende het Aanvullend Fonds van een overeenkomstig artikel 7 van dit Protocol bevoegde rechter, wanneer deze voor tenuitvoerlegging vatbaar zijn geworden in de Staat waar zij zijn gedaan en waartegen in die Staat geen gewoon rechtsmiddel meer openstaat, in elke Verdragsluitende Staat erkend en voor tenuitvoerlegging vatbaar op dezelfde voorwaarden als die vervat in [artikel X van het Aansprakelijkheidsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004147&artikel=X).
 
 2. Een Verdragsluitende Staat kan andere regels toepassen voor de erkenning en tenuitvoerlegging van rechterlijke uitspraken, mits deze ertoe strekken te waarborgen dat uitspraken in ten minste dezelfde mate als ingevolge het eerste lid worden erkend of ten uitvoer worden gelegd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het Aanvullend Fonds treedt voor elk bedrag dat het aan vergoeding van schade door verontreiniging op grond van artikel 4, eerste lid, van dit Protocol heeft betaald, bij wege van subrogatie in de rechten die de persoon wiens schade aldus is vergoed, op grond van het [Aansprakelijkheidsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004147), zou kunnen doen gelden ten aanzien van de eigenaar of zijn garant.
 
@@ -124,7 +146,7 @@ Het Aanvullend Fonds betaalt schadevergoeding wanneer de Algemene Vergadering va
 
 ### BIJDRAGEN
 
-#### Artikel 10
+##### Artikel 10
 
 1. Voor elke Verdragsluitende Staat worden aan het Aanvullend Fonds jaarlijks bijdragen betaald door iedere persoon die, in het kalenderjaar bedoeld in artikel 11, tweede lid, onderdeel a of b, bijdragende olie heeft ontvangen in hoeveelheden die in totaal meer dan 150.000 ton bedragen, en wel:
 
@@ -134,7 +156,7 @@ Het Aanvullend Fonds betaalt schadevergoeding wanneer de Algemene Vergadering va
 
 2. Het bepaalde in [artikel 10, tweede lid, van het Fondsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146&artikel=10), is van toepassing ten aanzien van de verplichting bij te dragen aan het Aanvullend Fonds.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Ter bepaling van het bedrag dat eventueel verschuldigd is aan jaarlijkse bijdragen, stelt de Algemene Vergadering, rekening houdend met de noodzaak van het beschikbaar zijn van voldoende liquide middelen, voor elk jaar een voorlopige begroting op van:
 
@@ -164,25 +186,25 @@ Het Aanvullend Fonds betaalt schadevergoeding wanneer de Algemene Vergadering va
 
 5. De Algemene Vergadering kan, op de voorwaarden te bepalen in het financiële reglement van het Aanvullend Fonds, besluiten overschrijvingen te verrichten tussen gelden ontvangen overeenkomstig het tweede lid, onderdeel a, en gelden ontvangen overeenkomstig het tweede lid, onderdeel b.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De bepalingen van [artikel 13 van het Fondsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146&artikel=13), zijn van toepassing op de bijdragen aan het Aanvullend Fonds.
 
 2. Een Verdragsluitende Staat kan zelf de verplichting op zich nemen bijdragen te betalen aan het Aanvullend Fonds overeenkomstig de procedure vervat in [artikel 14 van het Fondsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146&artikel=14).
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Verdragsluitende Staten doen de Directeur van het Aanvullend Fonds mededeling van ontvangsten van olie overeenkomstig [artikel 15 van het Fondsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146&artikel=15), echter met dien verstande dat mededelingen aan de Directeur van het Fondsverdrag, 1992, uit hoofde van artikel 15, tweede lid, van het Fondsverdrag, 1992, geacht worden tevens uit hoofde van dit Protocol te zijn gedaan.
 
 2. Wanneer een Verdragsluitende Staat niet voldoet aan zijn verplichtingen de Directeur de in het eerste lid bedoelde mededeling te doen en zulks leidt tot een financieel verlies voor het Aanvullend Fonds, is die Verdragsluitende Staat verplicht dit verlies aan het Aanvullend Fonds te vergoeden. De Algemene Vergadering besluit, op aanbeveling van de Directeur van het Aanvullend Fonds, of een Verdragsluitende Staat een dergelijke vergoeding dient te betalen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Niettegenstaande artikel 10 wordt elke Verdragsluitende Staat, voor de toepassing van dit Protocol, geacht ten minste 1 miljoen ton bijdragende olie te ontvangen.
 
 2. Wanneer de totale hoeveelheid bijdragende olie die in een Verdragsluitende Staat wordt ontvangen minder bedraagt dan 1 miljoen ton, neemt de Verdragsluitende Staat de verplichtingen op zich die uit hoofde van dit Protocol zouden rusten op iedere persoon die verplicht zou zijn aan het Aanvullend Fonds bij te dragen ten aanzien van olie die op het grondgebied van die Staat is ontvangen, voor zover er geen persoon is die aansprakelijk is voor de totale hoeveelheid ontvangen olie.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Indien er in een Verdragsluitende Staat geen persoon is die voldoet aan de voorwaarden vervat in artikel 10, stelt die Verdragsluitende Staat voor de toepassing van dit Protocol de Directeur van het Aanvullend Fonds hiervan op de hoogte.
 
@@ -196,7 +218,7 @@ De Algemene Vergadering stelt in haar huishoudelijk reglement de omstandigheden 
 
 ### ORGANISATIE EN ADMINISTRATIE
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het Aanvullend Fonds heeft een Algemene Vergadering en een Secretariaat onder leiding van een Directeur.
 
@@ -204,7 +226,7 @@ De Algemene Vergadering stelt in haar huishoudelijk reglement de omstandigheden 
 
 3. [Artikel 34 van het Fondsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146&artikel=34), is van toepassing op het Aanvullend Fonds.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het Secretariaat van het Fonds 1992, en de Directeur die het Fonds 1992 leidt, kunnen tevens fungeren als het Secretariaat en de Directeur van het Aanvullend Fonds.
 
@@ -218,7 +240,7 @@ De Algemene Vergadering stelt in haar huishoudelijk reglement de omstandigheden 
 
 ### OVERGANGSBEPALINGEN
 
-#### Artikel 18
+##### Artikel 18
 
 1. Behoudens het vierde lid, is het totale bedrag van de verschuldigde jaarlijkse bijdragen ten aanzien van bijdragende olie ontvangen in één Verdragsluitende Staat gedurende een kalenderjaar niet hoger dan 20% van het totale bedrag van de jaarlijkse bijdragen ingevolge dit Protocol met betrekking tot dat kalenderjaar.
 
@@ -230,7 +252,7 @@ De Algemene Vergadering stelt in haar huishoudelijk reglement de omstandigheden 
 
 ### SLOTBEPALINGEN
 
-#### Artikel 19. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 19. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Protocol staat open voor ondertekening te Londen van 31 juli 2003 tot en met 30 juli 2004.
 
@@ -246,11 +268,11 @@ De Algemene Vergadering stelt in haar huishoudelijk reglement de omstandigheden 
 
 4. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal.
 
-#### Artikel 20. Informatie omtrent bijdragende olie
+##### Artikel 20. Informatie omtrent bijdragende olie
 
 Alvorens dit Protocol ten aanzien van een Staat in werking treedt, moet die Staat, bij de ondertekening van dit Protocol overeenkomstig artikel 19, tweede lid, onderdeel a, of bij de nederlegging van een akte bedoeld in artikel 19, vierde lid, van dit Protocol, en vervolgens jaarlijks op een door de Secretaris-Generaal vast te stellen tijdstip, deze de naam en het adres mededelen van de personen die voor die Staat op grond van artikel 10 verplicht zouden zijn aan het Aanvullend Fonds bij te dragen, alsmede gegevens betreffende de in aanmerking komende hoeveelheden bijdragende olie die binnen het grondgebied van die Staat gedurende het voorgaande kalenderjaar door die personen zijn ontvangen.
 
-#### Artikel 21. Inwerkingtreding
+##### Artikel 21. Inwerkingtreding
 
 1. Dit Protocol treedt in werking drie maanden na de datum waarop aan de volgende eisen is voldaan:
 
@@ -262,17 +284,17 @@ Alvorens dit Protocol ten aanzien van een Staat in werking treedt, moet die Staa
 
 3. Niettegenstaande het eerste en tweede lid, treedt dit Protocol pas in werking ten aanzien van een Staat wanneer het [Fondsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146), voor die Staat in werking treedt.
 
-#### Artikel 22. Eerste zitting van de Algemene Vergadering
+##### Artikel 22. Eerste zitting van de Algemene Vergadering
 
 De Secretaris-Generaal roept de eerste zitting van de Algemene Vergadering bijeen. Deze zitting vindt plaats zo spoedig mogelijk na de inwerkingtreding van dit Protocol en in elk geval niet later dan dertig dagen na die inwerkingtreding.
 
-#### Artikel 23. Herziening en wijziging
+##### Artikel 23. Herziening en wijziging
 
 1. De Organisatie kan een conferentie tot herziening of wijziging van dit Protocol bijeenroepen.
 
 2. De Organisatie roept een conferentie van de Verdragsluitende Staten bijeen tot herziening of wijziging van dit Protocol op verzoek van ten minste een derde van alle Verdragsluitende Staten.
 
-#### Artikel 24. Wijziging van de vergoedingsgrens
+##### Artikel 24. Wijziging van de vergoedingsgrens
 
 1. Op verzoek van ten minste een vierde van de Verdragsluitende Staten worden voorstellen tot wijziging van de vergoedingsgrens neergelegd in artikel 4, tweede lid, onderdeel a, door de Secretaris-Generaal toegezonden aan alle Leden van de Organisatie en aan alle Verdragsluitende Staten.
 
@@ -298,13 +320,13 @@ De Secretaris-Generaal roept de eerste zitting van de Algemene Vergadering bijee
 
 10. Wanneer een wijziging door de Juridische Commissie is aangenomen, maar het tijdvak van twaalf maanden voor de aanvaarding ervan nog niet is verstreken, is een Staat die gedurende dat tijdvak een Verdragsluitende Staat wordt, door de wijziging gebonden indien deze in werking treedt. Een Staat die na dat tijdvak een Verdragsluitende Staat wordt, is gebonden door een wijziging die overeenkomstig het zevende lid is aanvaard. In de gevallen bedoeld in dit lid wordt een Staat gebonden door een wijziging wanneer deze wijziging in werking treedt, of wanneer dit Protocol voor die Staat in werking treedt, indien deze datum later valt.
 
-#### Artikel 25. Protocollen bij het [Fondsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146)
+##### Artikel 25. Protocollen bij het [Fondsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146)
 
 1. Indien de grenzen vervat in het [Fondsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146), ingevolge een Protocol daarbij zijn verhoogd, mag de grens vervat in artikel 4, tweede lid, onderdeel a, met hetzelfde bedrag worden verhoogd door middel van de in artikel 24 vervatte procedure. De bepalingen van artikel 24, zesde lid, zijn in deze gevallen niet van toepassing.
 
 2. Indien de in het eerste lid genoemde procedure is toegepast, wordt een daaropvolgende wijziging van de in artikel 4, tweede lid, vervatte grens, door toepassing van de procedure in artikel 24, voor de toepassing van artikel 24, zesde lid, onderdeel b en c, berekend op basis van de nieuwe grens zoals ingevolge het eerste lid verhoogd.
 
-#### Artikel 26. Opzegging
+##### Artikel 26. Opzegging
 
 1. Een Verdragsluitende Staat kan dit Protocol, na de datum waarop het voor die Verdragsluitende Staat in werking is getreden, te allen tijde opzeggen.
 
@@ -316,7 +338,7 @@ De Secretaris-Generaal roept de eerste zitting van de Algemene Vergadering bijee
 
 5. Niettegenstaande een opzegging van dit Protocol door een Verdragsluitende Staat ingevolge dit artikel blijven de bepalingen van dit Protocol welke verband houden met de verplichtingen om bij te dragen aan het Aanvullend Fonds van toepassing ten aanzien van een voorval zoals bedoeld in artikel 11, tweede lid, onderdeel b, dat zich heeft voorgedaan voordat de opzegging van kracht wordt.
 
-#### Artikel 27. Buitengewone zittingen van de Algemene Vergadering
+##### Artikel 27. Buitengewone zittingen van de Algemene Vergadering
 
 1. Iedere Verdragsluitende Staat kan binnen negentig dagen na de nederlegging van een akte van opzegging, welke naar zijn mening een belangrijke stijging van de bijdragen voor de overblijvende Verdragsluitende Staten ten gevolge zal hebben, de Directeur van het Aanvullend Fonds verzoeken een buitengewone zitting van de Algemene Vergadering bijeen te roepen. De Directeur van het Aanvullend Fonds roept de Algemene Vergadering uiterlijk zestig dagen na ontvangst van het verzoek bijeen.
 
@@ -324,13 +346,13 @@ De Secretaris-Generaal roept de eerste zitting van de Algemene Vergadering bijee
 
 3. Indien de Algemene Vergadering, in een buitengewone zitting bijeengeroepen overeenkomstig het eerste of het tweede lid, besluit dat de opzegging zal leiden tot een belangrijke stijging van de bijdragen voor de overblijvende Verdragsluitende Staten, kan elk van deze Staten uiterlijk honderdtwintig dagen voor de datum waarop de opzegging van kracht wordt, dit Protocol opzeggen met ingang van dezelfde datum.
 
-#### Artikel 28. Beëindiging
+##### Artikel 28. Beëindiging
 
 1. Dit Protocol houdt op van kracht te zijn op de datum waarop het aantal Verdragsluitende Staten minder wordt dan zeven of waarop de totale hoeveelheid bijdragende olie die in de overgebleven Verdragsluitende Staten wordt ontvangen, met inbegrip van de in artikel 14, eerste lid, bedoelde hoeveelheden, minder wordt dan 350 miljoen ton, al naar gelang hetgeen zich het eerst voordoet.
 
 2. De Staten die door dit Protocol zijn gebonden op de dag voorafgaande aan die waarop dit Protocol ophoudt van kracht te zijn, dienen het Aanvullend Fonds in staat te stellen zijn functies als beschreven in artikel 29 uit te oefenen en blijven slechts voor dit doel door het Protocol gebonden.
 
-#### Artikel 29. Vereffening van het Aanvullend Fonds
+##### Artikel 29. Vereffening van het Aanvullend Fonds
 
 1. Indien dit Protocol ophoudt van kracht te zijn, is het Aanvullend Fonds niettemin:
 
@@ -342,7 +364,7 @@ De Secretaris-Generaal roept de eerste zitting van de Algemene Vergadering bijee
 
 3. Voor de toepassing van dit artikel blijft het Aanvullend Fonds een rechtspersoon.
 
-#### Artikel 30. Depositaris
+##### Artikel 30. Depositaris
 
 1. Dit Protocol en alle ingevolge artikel 24 aanvaarde wijzigingen worden nedergelegd bij de Secretaris-Generaal.
 
@@ -368,7 +390,7 @@ De Secretaris-Generaal roept de eerste zitting van de Algemene Vergadering bijee
 
 3. Zodra dit Protocol in werking treedt, wordt de tekst door de Secretaris-Generaal toegezonden aan het Secretariaat van de Verenigde Naties voor registratie en publicatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 31. Talen
+##### Artikel 31. Talen
 
 Dit Protocol is opgesteld in één oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 

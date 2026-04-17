@@ -1,13 +1,37 @@
 ---
 title: "Selectielijst neerslag handelingen Minister van EZ m.b.t. de SER 1970 - heden"
 identifier: "BWBR0015213"
-categorie: "Overig"
-publicatiedatum: 2003-07-25
-laatste_update: 2003-07-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015213"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2003-07-25"
+last_updated: "2003-07-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015213"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "5088913"
+version_id: "9147422"
+internal_id: "C25310101"
+label_id: "5064564"
+dtd_version: "2.0"
+original_entry_into_force: "2003-07-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015213/2003-07-25/0"
+intitule_bron: "Stcrt.2003-139"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-06-12"
+intitule_published: "2003-07-23"
+intitule_in_force: "2003-07-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-139"
+original_signed_date: "2003-06-12"
+original_published_date: "2003-07-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-07-25"
+jci_1_3: "jci1.3:c:BWBR0015213&z=2003-07-25&g=2003-07-25"
+jci_1_0: "1.0:c:BWBR0015213&g=2003-07-25"
+citeertitel_status: "redactioneel"
+signed_date: "2003-06-12"
+entry_into_force: "2003-07-25"
 ---
-
 # Selectielijst neerslag handelingen Minister van EZ m.b.t. de SER 1970 - heden
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,15 +40,15 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 24 oktober 200
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde 'selectielijst voor de neerslag van de handelingen van de Minister van Economische Zaken en de onder hem ressorterende actoren met betrekking tot de Sociaal-Economische Raad over de periode 1970-heden' en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 De lijst van voor vernietiging in aanmerking komende stukken welke behoren tot het archief van het ministerie van Economische Zaken en de daaronder ressorterende diensten, vastgesteld bij beschikking van de Minister van Economische Zaken en de Minister van Cultuur, Recreatie en Maatschappelijk Werk, nr. OKN 117.173 van 7 september 1965/MH 465/878 van 14 juni 1965; laatstelijk gewijzigd 15 september 1987 (Staatscourant 1987, nr. 214), wordt ingetrokken voorzover het archiefbescheiden betreft die de neerslag vormen van de in deze selectielijst beschreven handelingen.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

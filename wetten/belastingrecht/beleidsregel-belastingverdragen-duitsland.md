@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel Belastingverdragen Duitsland"
 identifier: "BWBR0037416"
-categorie: "Belastingrecht"
-publicatiedatum: 2015-12-24
-laatste_update: 2015-12-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037416"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2015-12-24"
+last_updated: "2015-12-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037416"
+soort: "beleidsregel"
+stam_id: "13359603"
+version_id: "22902312"
+internal_id: "C33124221"
+label_id: "13327414"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037416/2015-12-24/0"
+intitule_bron: "Stcrt.2015-47206"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-15"
+intitule_published: "2015-12-23"
+intitule_in_force: "2015-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-47206"
+original_signed_date: "2015-12-15"
+original_published_date: "2015-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-47206"
+entry_into_force_date: "2015-12-24"
+jci_1_3: "jci1.3:c:BWBR0037416&z=2015-12-24&g=2015-12-24"
+jci_1_0: "1.0:c:BWBR0037416&g=2015-12-24"
+citeertitel_status: "redactioneel"
+signed_date: "2015-12-15"
+entry_into_force: "2015-12-24"
 ---
-
 # Beleidsregel Belastingverdragen Duitsland
 
 **De staatssecretaris van Financiën heeft het volgende besloten.**

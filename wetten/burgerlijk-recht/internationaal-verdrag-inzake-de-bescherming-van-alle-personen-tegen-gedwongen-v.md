@@ -1,13 +1,35 @@
 ---
 title: "Internationaal Verdrag inzake de bescherming van alle personen tegen gedwongen verdwijning"
 identifier: "BWBV0003065"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2011-04-22
-laatste_update: 2011-04-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003065"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-04-22"
+last_updated: "2011-04-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003065"
+soort: "verdrag"
+stam_id: "10003313923"
+version_id: "10003344512"
+internal_id: "C10007129561"
+label_id: "10003300434"
+dtd_version: "2.0"
+original_entry_into_force: "2011-04-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003065/2011-04-22/0"
+intitule_bron: "Trb.2008-173"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2008-09-08"
+intitule_in_force: "2011-05-27"
+intitule_status: "goed"
+original_publication: "Trb.2008-173"
+original_published_date: "2008-09-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2008-173"
+entry_into_force_date: "2011-04-22"
+jci_1_3: "jci1.3:c:BWBV0003065&z=2011-04-22&g=2011-04-22"
+jci_1_0: "1.0:c:BWBV0003065&g=2011-04-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-04-22"
 ---
-
 # Internationaal Verdrag inzake de bescherming van alle personen tegen gedwongen verdwijning
 
 Preambule
@@ -34,29 +56,29 @@ Zijn de volgende artikelen overeengekomen:
 
 ### DEEL I
 
-#### Artikel 1
+##### Artikel 1
 
 1. Niemand wordt blootgesteld aan gedwongen verdwijning.
 
 2. Geen enkele uitzonderlijke omstandigheid, hetzij oorlog of de dreiging van oorlog, binnenlandse politieke instabiliteit of elke andere algemene noodtoestand mag worden gebruikt ter rechtvaardiging van gedwongen verdwijningen.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van dit Verdrag wordt als „gedwongen verdwijning” aangemerkt de arrestatie, gevangenhouding, ontvoering of elke andere vorm van vrijheidsontneming door vertegenwoordigers van de Staat of door personen of groepen personen die optreden met de machtiging of steun van of bewilliging door de Staat, gevolgd door een weigering een dergelijke vrijheidsontneming te erkennen of door verhulling van het feit zelf of van de verblijfplaats van de verdwenen persoon, waardoor deze buiten de bescherming van de wet geplaatst wordt.
 
-#### Artikel 3
+##### Artikel 3
 
 Elke Staat die Partij is neemt passende maatregelen om de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=2&z=2011-04-22&g=2011-04-22) omschreven handelingen van personen of groepen personen die optreden zonder de machtiging of steun van of bewilliging door de Staat te onderzoeken en de verantwoordelijken voor het gerecht te brengen.
 
-#### Artikel 4
+##### Artikel 4
 
 Elke Staat die Partij is neemt de nodige maatregelen om te waarborgen dat gedwongen verdwijning een strafbaar feit vormt krachtens zijn strafrecht.
 
-#### Artikel 5
+##### Artikel 5
 
 De wijdverbreide of systematische praktijk van gedwongen verdwijning vormt een misdrijf tegen de menselijkheid zoals omschreven in het toepasselijke internationale recht en dienen bestraft te worden zoals voorzien in het toepasselijke internationale recht.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Elke Staat die Partij is neemt de noodzakelijke maatregelen om ten minste strafrechtelijk aansprakelijk te stellen:
 
@@ -74,7 +96,7 @@ De wijdverbreide of systematische praktijk van gedwongen verdwijning vormt een m
 
 2. Geen enkel bevel of geen enkele instructie van het openbaar gezag, hetzij burgerlijk, hetzij militair of anderszins, mag worden aangevoerd ter rechtvaardiging van het misdrijf van gedwongen verdwijning.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Elke Staat die Partij is stelt passende straffen op voor het misdrijf van gedwongen verdwijning die rekening houden met de buitengewone ernst van dit misdrijf.
 
@@ -84,7 +106,7 @@ De wijdverbreide of systematische praktijk van gedwongen verdwijning vormt een m
 
 - b. Kan onverminderd andere strafrechtelijke procedures verzwarende omstandigheden vaststellen, waaronder in het bijzonder het overlijden van de verdwenen persoon of de gedwongen verdwijning van zwangere vrouwen, minderjarigen, personen met een handicap of andere bijzonder kwetsbare personen.
 
-#### Artikel 8
+##### Artikel 8
 
 Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=5&z=2011-04-22&g=2011-04-22)
 
@@ -96,7 +118,7 @@ Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&
 
 - 2. Waarborgt elke Staat die Partij is het recht van slachtoffers van gedwongen verdwijning op een doeltreffend rechtsmiddel gedurende de verjaringstermijn.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Elke Staat die Partij is neemt de noodzakelijke maatregelen om zijn bevoegdheid tot het uitoefenen van rechtsmacht te vestigen inzake het misdrijf van gedwongen verdwijning:
 
@@ -110,7 +132,7 @@ Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&
 
 3. Dit Verdrag sluit geen aanvullende rechtsmacht in strafzaken uit die wordt uitgeoefend in overeenstemming met het nationale recht.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Na zich er door bestudering van de hem ter beschikking staande inlichtingen van te hebben vergewist dat de omstandigheden zulks vereisen, neemt de Staat die Partij is op wiens grondgebied een persoon aanwezig is die wordt verdacht van het plegen van het misdrijf van gedwongen verdwijning, hem of haar in hechtenis of treft hij de overige wettelijke maatregelen die noodzakelijk zijn om zijn of haar aanwezigheid te waarborgen. De hechtenis en andere wettelijke maatregelen geschieden zoals voorzien in de wetgeving van die Staat die Partij is, maar mogen niet langer voortduren dan noodzakelijk om de aanwezigheid van de persoon bij de strafrechtelijke, overleverings- of uitleveringsprocedures te waarborgen.
 
@@ -118,7 +140,7 @@ Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&
 
 3. Een persoon die uit hoofde van het eerste lid van dit artikel in hechtenis is genomen mag onverwijld contact opnemen met de dichtstbijzijnde bevoegde vertegenwoordiger van de Staat waarvan hij of zij onderdaan is, of, indien hij of zij staatloos is, met de vertegenwoordiger van de Staat waar hij of zij gewoonlijk verblijft.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Staat die Partij is op het grondgebied waarvan een persoon die wordt verdacht van het plegen van het misdrijf van gedwongen verdwijning wordt aangetroffen, levert deze persoon over aan zijn bevoegde autoriteiten voor strafrechtelijke vervolging, indien hij deze persoon niet uitlevert of overlevert aan een andere Staat in overeenstemming met zijn internationale verplichtingen of hem of haar niet overlevert aan een internationaal straftribunaal waarvan hij de rechtsmacht heeft erkend.
 
@@ -126,7 +148,7 @@ Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&
 
 3. Eenieder tegen wie strafrechtelijke vervolging wordt ingesteld in verband met het misdrijf van gedwongen verdwijning wordt het recht op een eerlijke behandeling in alle fasen van de procedure verzekerd. Eenieder die terechtstaat wegens het misdrijf van gedwongen verdwijning krijgt een eerlijk proces voor een bevoegd, onafhankelijk en onpartijdig gerecht dat bij de wet is ingesteld.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Elke Staat die Partij is waarborgt dat eenieder die meent dat een persoon het slachtoffer is geworden van gedwongen verdwijning, het recht heeft de feiten te melden aan de bevoegde autoriteiten, die de melding onverwijld en onpartijdig bestuderen en waar nodig, onverwijld een grondig en onpartijdig onderzoek instellen. Waar nodig worden passende maatregelen genomen om te waarborgen dat degene die aangifte heeft gedaan, getuigen, familieleden van de verdwenen persoon en hun raadsman, alsmede personen die betrokken zijn bij het onderzoek beschermd worden tegen slechte behandeling of intimidatie naar aanleiding van de aangifte of het verschaffen van bewijs.
 
@@ -140,7 +162,7 @@ Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&
 
 4. Elke Staat die Partij is neemt de noodzakelijke maatregelen om handelingen die de uitvoering van een onderzoek belemmeren te voorkomen en te bestraffen. De Staat die Partij is waarborgt in het bijzonder dat personen die verdacht worden van het plegen van het misdrijf van gedwongen verdwijning niet de gelegenheid krijgen de voortgang van een onderzoek te beïnvloeden door bedreiging of intimidatie van of represailles tegen degene die aangifte heeft gedaan, getuigen, familieleden van de verdwenen persoon of hun raadsman of tegen personen die betrokken zijn bij het onderzoek.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Ten behoeve van uitlevering tussen Staten die Partij zijn wordt het misdrijf van gedwongen verdwijning niet aangemerkt als een politiek delict of als een met een politiek delict samenhangend strafbaar feit of als een strafbaar feit ingegeven door politieke motieven.
 
@@ -158,23 +180,23 @@ Bijgevolg mag een verzoek om uitlevering wegens een dergelijk strafbaar feit nie
 
 7. Niets in dit Verdrag mag zo worden uitgelegd dat het een verplichting tot uitlevering zou inhouden indien de aangezochte Staat die Partij is ernstige redenen heeft om aan te nemen dat het verzoek om uitlevering is gedaan met de bedoeling een persoon te vervolgen of te straffen op grond van zijn geslacht, ras, godsdienst, nationaliteit, etnische afkomst, politieke overtuiging of vanwege het feit dat hij behoort tot een bepaalde sociale groep of dat inwilliging van het verzoek die persoon om een van deze redenen zou kunnen benadelen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Staten die Partij zijn verlenen elkaar de ruimst mogelijke wederzijdse rechtshulp in verband met strafrechtelijke procedures die zijn ingesteld ter zake van het misdrijf van gedwongen verdwijning, met inbegrip van het verschaffen van alle bewijsmateriaal waarover zij beschikken en dat noodzakelijk is voor de procedures.
 
 2. Op deze wederzijdse rechtshulp zijn de voorwaarden van toepassing voorzien in de nationale wetgeving van de aangezochte Staat die Partij is of in de van toepassing zijnde verdragen inzake wederzijdse rechtshulp, met inbegrip van, in het bijzonder, de voorwaarden met betrekking tot de gronden waarop de aangezochte Staat die Partij is kan weigeren wederzijdse rechtshulp te verlenen of er voorwaarden aan kan verbinden.
 
-#### Artikel 15
+##### Artikel 15
 
 De Staten die Partij zijn werken met elkaar samen en verlenen elkaar de ruimst mogelijke wederzijdse bijstand ten behoeve van de ondersteuning van slachtoffers van gedwongen verdwijning en bij het opsporen, lokaliseren en in vrijheid stellen van verdwenen personen en, indien zij overleden zijn, bij het opgraven, identificeren en terugbrengen van hun stoffelijk overschot.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De Staten die Partij zullen geen personen uitzetten of terugzenden („refouler”) naar of overleveren of uitleveren aan een andere Staat, indien er wezenlijke gronden zijn om aan te nemen dat zij het gevaar zouden lopen het slachtoffer te worden van gedwongen verdwijning.
 
 2. Teneinde vast te stellen of er dergelijke gronden zijn, nemen de bevoegde autoriteiten alle relevante overwegingen in aanmerking, met inbegrip, indien van toepassing, van de vraag of er in de betrokken Staat sprake is van een duidelijk patroon van grove, flagrante of massale schendingen van de mensenrechten of van ernstige schendingen van het internationale humanitaire recht.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Niemand mag in geheime detentie worden gehouden.
 
@@ -210,7 +232,7 @@ De Staten die Partij zijn werken met elkaar samen en verlenen elkaar de ruimst m
 
 - h. De datum en het tijdstip van de invrijheidstelling of overbrenging naar een andere detentieininrichting, de bestemming en de voor de overbrenging verantwoordelijke autoriteit.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Onder voorbehoud van het bepaalde in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=19&z=2011-04-22&g=2011-04-22) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=20&z=2011-04-22&g=2011-04-22) garandeert elke Staat die Partij is elke persoon die een rechtmatig belang heeft bij deze informatie, zoals familieleden van de persoon wiens vrijheid is ontnomen, hun vertegenwoordiger of raadsman, toegang tot ten minste de volgende inlichtingen:
 
@@ -230,23 +252,23 @@ De Staten die Partij zijn werken met elkaar samen en verlenen elkaar de ruimst m
 
 2. Waar nodig worden passende maatregelen genomen om de in het eerste lid van dit artikel bedoelde personen, alsmede personen die deelnemen aan het onderzoek te beschermen tegen slechte behandeling, intimidatie of sancties vanwege het zoeken naar inlichtingen over een persoon wiens vrijheid is ontnomen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Persoonsgegevens, met inbegrip van medische en genetische informatie, die worden verzameld en/of doorgegeven in het kader van het zoeken naar een verdwenen persoon mogen niet worden gebruikt of beschikbaar worden gesteld voor andere doeleinden dan het zoeken naar de verdwenen persoon. Dit laat onverlet het gebruik van dergelijke gegevens in strafrechtprocedures die verband houden met het misdrijf van gedwongen verdwijning of het uitoefenen van het recht schadeloosstelling te vorderen.
 
 2. Het verzamelen, verwerken, gebruiken en opslaan van persoonsgegevens, met inbegrip van medische en genetische informatie, mag geen schending vormen van de mensenrechten, fundamentele vrijheden of de menselijke waardigheid van een persoon noch daartoe leiden.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Uitsluitend wanneer een persoon beschermd wordt door de wet en er gerechtelijk toezicht is op de vrijheidsontneming, mag het recht op inlichtingen bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=18&z=2011-04-22&g=2011-04-22) bij uitzondering worden beperkt, wanneer dat strikt noodzakelijk is en voorzien is in de wet, en indien de overdracht van de inlichtingen de privésfeer of veiligheid van de persoon nadelig zou beïnvloeden, een strafrechtelijk onderzoek zou belemmeren, of op vergelijkbare gronden in overeenstemming met het recht, met het toepasselijke internationale recht en met de doelstellingen van dit Verdrag. In geen geval mogen er ten aanzien van het recht op inlichtingen bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=18&z=2011-04-22&g=2011-04-22) beperkingen gelden die gedragingen vormen zoals omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=2&z=2011-04-22&g=2011-04-22) of in strijd zijn met [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=17&z=2011-04-22&g=2011-04-22).
 
 2. Onverminderd de toetsing van de rechtmatigheid van de ontneming van de vrijheid van een persoon, garanderen de Staten die Partij zijn de personen bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=18&z=2011-04-22&g=2011-04-22), het recht op onverwijlde en daadwerkelijke rechtsmiddelen ten behoeve van het verkrijgen van de inlichtingen bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=18&z=2011-04-22&g=2011-04-22). Het recht op een rechtsmiddel mag onder geen enkele voorwaarde worden ingetrokken of beperkt.
 
-#### Artikel 21
+##### Artikel 21
 
 Elke Staat die Partij is neemt de noodzakelijke maatregelen om te waarborgen dat personen wier vrijheid is ontnomen worden vrijgelaten op een wijze die het mogelijk maakt op betrouwbare wijze te verifiëren of zij daadwerkelijk zijn vrijgelaten. Elke Staat die Partij is neemt tevens de noodzakelijke maatregelen om de fysieke integriteit van deze personen te waarborgen alsmede hun vermogen hun rechten ten volle uit te oefenen op het tijdstip van hun invrijheidstelling, onverminderd de eventuele verplichtingen die op deze personen rusten uit hoofde van het nationale recht.
 
-#### Artikel 22
+##### Artikel 22
 
 Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&artikel=6&z=2011-04-22&g=2011-04-22) neemt elke Staat die Partij is de noodzakelijke maatregelen teneinde de volgende gedragingen te voorkomen en er sancties voor op te leggen:
 
@@ -256,7 +278,7 @@ Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&
 
 - c. Het weigeren om inlichtingen te verschaffen inzake de ontneming van de vrijheid van een persoon of het verschaffen van onjuiste inlichtingen, zelfs indien voldaan is aan de wettelijke vereisten voor het verschaffen van deze inlichtingen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Elke Staat die Partij is waarborgt dat de opleiding van met rechtshandhaving belast personeel, burgerlijk of militair, van medisch personeel, overheidsfunctionarissen en andere personen die betrokken kunnen zijn bij de detentie of behandeling van een persoon wiens vrijheid is ontnomen, voorziet in de noodzakelijke voorlichting en informatie over de relevante bepalingen van dit Verdrag teneinde:
 
@@ -270,7 +292,7 @@ Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&
 
 3. Elke Staat die Partij is neemt de nodige maatregelen om te waarborgen dat de in het eerste lid van dit artikel bedoelde personen die reden hebben om aan te nemen dat een gedwongen verdwijning heeft plaatsgevonden of beoogd wordt, de aangelegenheid voorleggen aan hun superieuren en waar nodig aan de desbetreffende autoriteiten of instanties die bevoegd zijn tot onderzoek naar of ongedaanmaking van de verdwijning.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Voor de toepassing van dit Verdrag wordt onder „slachtoffer” verstaan de verdwenen persoon en eenieder die rechtstreeks ten gevolge van een gedwongen verdwijning nadeel ondervonden heeft.
 
@@ -294,7 +316,7 @@ Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&
 
 7. Elke Staat die Partij is waarborgt het recht tot het opzetten van en vrijelijk deelnemen aan organisaties en verenigingen die tot doel hebben om te trachten de omstandigheden van gedwongen verdwijningen en het lot van verdwenen personen vast te stellen en om de slachtoffers van gedwongen verdwijning bij te staan.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Elke Staat die Partij is neemt de nodige maatregelen om de volgende gedragingen te voorkomen en strafbaar te stellen:
 
@@ -312,7 +334,7 @@ Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&
 
 ### DEEL II
 
-#### Artikel 26
+##### Artikel 26
 
 1. Er wordt een Comité voor gedwongen verdwijningen in gesteld (hierna te noemen het „Comité”) teneinde de uit hoofde van dit Verdrag voorziene taken uit te voeren. Het Comité bestaat uit tien deskundigen van onbesproken gedrag, bekend om hun bekwaamheid op het gebied van de mensenrechten, die op persoonlijke titel zitting nemen en onafhankelijk en onpartijdig zijn. De leden van het Comité worden door de Staten die Partij zijn gekozen volgens een billijke geografische spreiding. Het nut van deelname aan de werkzaamheden van het Comité door personen met relevante juridische ervaring alsmede een evenwichtige vertegenwoordiging van de seksen dienen naar behoren in aanmerking te worden genomen.
 
@@ -332,17 +354,17 @@ Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=I&
 
 9. Elke Staat die Partij is werkt samen met het Comité en verleent zijn leden bijstand bij de uitvoering van hun mandaat, voor zover de Staat die Partij is de taken van het Comité heeft aanvaard.
 
-#### Artikel 27
+##### Artikel 27
 
 Niet eerder dan vier jaar en uiterlijk zes jaar na de inwerkingtreding van dit Verdrag vindt een conferentie van de Staten die Partij zijn plaats teneinde het functioneren van het Comité te evalueren en, in overeenstemming met de procedure omschreven in [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=III&artikel=44&z=2011-04-22&g=2011-04-22), te beslissen of het opportuun is de monitoring van dit Verdrag, in overeenstemming met de taken omschreven in de artikelen 28 tot en met 36, over te dragen aan een ander orgaan – zonder mogelijkheden uit te sluiten.
 
-#### Artikel 28
+##### Artikel 28
 
 1. In het kader van de bij dit Verdrag verleende bevoegdheden werkt het Comité samen met alle relevante organen, kantoren en gespecialiseerde organisaties en fondsen van de Verenigde Naties, met de verdragsorganen in het leven geroepen bij internationale instrumenten, met de bijzondere procedures van de Verenigde Naties en met de relevante regionale intergouvernementele organisaties of organen, alsmede met alle relevante instellingen, instanties of kantoren van Staten die zich inzetten voor de bescherming van eenieder tegen gedwongen verdwijning.
 
 2. Bij de uitvoering van zijn mandaat overlegt het Comité met andere verdragsorganen die zijn ingesteld bij betreffende internationale mensenrechteninstrumenten, in het bijzonder het Comité voor de rechten van de mens dat is ingesteld bij het [Internationaal Verdrag inzake burgerrechten en politieke rechten](https://wetten.overheid.nl/jci1.3:c:BWBV0001017), met het oog op het waarborgen van de consistentie van hun observaties en aanbevelingen ter zake.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Elke Staat die Partij is dient binnen twee jaar nadat dit Verdrag voor de desbetreffende Staat die Partij is in werking is getreden, via de Secretaris-Generaal van de Verenigde Naties, een rapport in bij het Comité over de maatregelen die zijn genomen om zijn verplichtingen uit hoofde van dit Verdrag na te komen.
 
@@ -352,7 +374,7 @@ Niet eerder dan vier jaar en uiterlijk zes jaar na de inwerkingtreding van dit V
 
 4. Het Comité kan de Staten die Partij zijn tevens verzoeken aanvullende inlichtingen over de uitvoering van dit Verdrag te verschaffen.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Familieleden van een verdwenen persoon, hun wettelijk vertegenwoordiger, hun raadsman of een door hen aangewezen persoon alsmede elke andere persoon met een rechtmatig belang kunnen bij het Comité, met spoed, een verzoek indienen om opsporing van de verdwenen persoon.
 
@@ -374,7 +396,7 @@ verzoekt het de betrokken Staat die Partij is binnen een door het Comité vastge
 
 4. Het Comité zet zijn pogingen samen te werken met de betrokken Staat die Partij is voort zolang het lot van de gezochte persoon niet opgehelderd is. De persoon die het verzoek heeft ingediend wordt op de hoogte gehouden.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Een Staat die Partij is kan op het tijdstip van de bekrachtiging van dit Verdrag of te allen tijde daarna verklaren dat hij de bevoegdheid van het Comité erkent om mededelingen in ontvangst te nemen en te bestuderen van of namens natuurlijke personen die onder zijn rechtsmacht vallen en stellen het slachtoffer te zijn van een schending van de bepalingen van dit Verdrag door deze Staat die Partij is. Het Comité aanvaardt geen mededelingen ten aanzien van een Staat die Partij is die een dergelijke verklaring niet heeft afgelegd.
 
@@ -394,11 +416,11 @@ verzoekt het de betrokken Staat die Partij is binnen een door het Comité vastge
 
 5. Het Comité vergadert achter gesloten deuren wanneer het mededelingen uit hoofde van dit artikel onderzoekt. Het stelt de opsteller van een mededeling in kennis van de door de betrokken Staat die Partij is verschafte antwoorden. Indien het Comité besluit de procedure af te ronden, doet het zijn opvattingen toekomen aan de Staat die Partij is en aan de opsteller van de mededeling.
 
-#### Artikel 32
+##### Artikel 32
 
 Een Staat die Partij is bij dit Verdrag kan te allen tijde verklaren dat hij de bevoegdheid van het Comité erkent om mededelingen in ontvangst te nemen en te bestuderen waarin een Staat die Partij is stelt dat een andere Staat die Partij is niet voldoet aan zijn verplichtingen uit hoofde van dit Verdrag. Het Comité neemt geen mededelingen in ontvangst betreffende een Staat die Partij is die een dergelijke verklaring niet heeft afgelegd, noch neemt het mededelingen in ontvangst van een Staat die Partij is die een dergelijke verklaring niet heeft afgelegd.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Indien het Comité betrouwbare inlichtingen ontvangt die erop wijzen dat een Staat die Partij is de bepalingen van dit Verdrag ernstig schendt, kan het, na overleg met de betrokken Staat die Partij is, één of meer van zijn leden verzoeken een bezoek te brengen en onverwijld verslag uit te brengen aan het Comité.
 
@@ -410,17 +432,17 @@ Een Staat die Partij is bij dit Verdrag kan te allen tijde verklaren dat hij de 
 
 5. Na zijn bezoek doet het Comité de betrokken Staat die Partij is zijn opmerkingen en aanbevelingen toekomen.
 
-#### Artikel 34
+##### Artikel 34
 
 Indien het Comité inlichtingen ontvangt die zijns inziens gefundeerde aanwijzingen bevatten dat gedwongen verdwijningen wijdverbreid en op systematische wijze plaatsvinden op het grondgebied onder de rechtsmacht van een Staat die Partij is, kan het, na de betrokken Staat die Partij is te hebben verzocht om alle relevante informatie over de situatie, de aangelegenheid, via de Secretaris-Generaal van de Verenigde Naties, met spoed onder de aandacht van de Algemene Vergadering van de Verenigde Naties brengen.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Het Comité is uitsluitend bevoegd ter zake van gedwongen verdwijningen die zijn aangevangen na de inwerkingtreding van dit Verdrag.
 
 2. Indien een Staat Partij wordt bij dit Verdrag na de inwerkingtreding ervan, hebben de verplichtingen van die Staat jegens het Comité uitsluitend betrekking op gedwongen verdwijningen die zijn aangevangen na de inwerkingtreding van dit Verdrag voor de betrokken Staat.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Het Comité dient bij de Staten die Partij zijn en bij de Algemene Vergadering van de Verenigde Naties een jaarverslag in inzake zijn activiteiten uit hoofde van dit Verdrag.
 
@@ -428,7 +450,7 @@ Indien het Comité inlichtingen ontvangt die zijns inziens gefundeerde aanwijzin
 
 ### DEEL III
 
-#### Artikel 37
+##### Artikel 37
 
 Dit Verdrag laat onverlet bepalingen die meer bijdragen aan de bescherming van eenieder tegen gedwongen verdwijning en die vervat kunnen zijn in:
 
@@ -436,7 +458,7 @@ Dit Verdrag laat onverlet bepalingen die meer bijdragen aan de bescherming van e
 
 - b. Het in die Staat geldende internationale recht.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Dit Verdrag staat open voor ondertekening door alle Lidstaten van de Verenigde Naties.
 
@@ -444,13 +466,13 @@ Dit Verdrag laat onverlet bepalingen die meer bijdragen aan de bescherming van e
 
 3. Dit Verdrag staat open voor toetreding door alle Lidstaten van de Verenigde Naties. Toetreding geschiedt door nederlegging van een akte van toetreding bij de Secretaris-Generaal.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Dit Verdrag treedt in werking dertig dagen na de datum van nederlegging van de twintigste akte van bekrachtiging of toetreding bij de Secretaris-Generaal van de Verenigde Naties.
 
 2. Ten aanzien van iedere Staat die dit Verdrag bekrachtigt of ertoe toetreedt na de nederlegging van de twintigste akte van bekrachtiging of toetreding, treedt dit Verdrag in werking dertig dagen na de datum van nederlegging door die Staat van zijn akte van bekrachtiging of toetreding.
 
-#### Artikel 40
+##### Artikel 40
 
 De Secretaris-Generaal van de Verenigde Naties stelt alle Staten die lid zijn van de Verenigde Naties en alle Staten die dit Verdrag hebben ondertekend of ertoe zijn toegetreden in kennis van het volgende:
 
@@ -458,11 +480,11 @@ De Secretaris-Generaal van de Verenigde Naties stelt alle Staten die lid zijn va
 
 - b. De datum van inwerkingtreding van dit Verdrag uit hoofde van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003065&deel=III&artikel=39&z=2011-04-22&g=2011-04-22).
 
-#### Artikel 41
+##### Artikel 41
 
 De bepalingen van dit Verdrag zijn zonder beperking of uitzondering van toepassing op alle delen van federale Staten.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Elk geschil tussen twee of meer Staten die Partij zijn inzake de uitlegging of toepassing van dit Verdrag dat niet binnen een redelijke termijn door onderhandelingen of door de uitdrukkelijk in dit Verdrag voorziene procedures kan worden beslecht, wordt op verzoek van één van hen onderworpen aan arbitrage. Indien de partijen er binnen zes maanden na de datum van het verzoek om arbitrage niet in zijn geslaagd overeenstemming te bereiken over de organisatie van deze arbitrage, kan ieder van deze partijen het geschil voorleggen aan het Internationale Gerechtshof door middel van een verzoek overeenkomstig het Statuut van het Hof.
 
@@ -470,11 +492,11 @@ De bepalingen van dit Verdrag zijn zonder beperking of uitzondering van toepassi
 
 3. Een Staat die een verklaring heeft afgelegd overeenkomstig het tweede lid van dit artikel, kan deze verklaring te allen tijde intrekken door middel van een kennisgeving aan de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 43
+##### Artikel 43
 
 Dit Verdrag laat onverlet de bepalingen van het internationaal humanitair recht, met inbegrip van de verplichtingen van de Hoge Verdragsluitende Partijen bij de vier verdragen van Genève van 12 augustus 1949 en de aanvullende protocollen daarbij van 8 juni 1977, evenals de mogelijkheid waarover elke Staat die Partij is beschikt om het Internationale Rode Kruis te machtigen penitentiaire inrichtingen te bezoeken in situaties waarop het internationale humanitaire recht niet van toepassing is.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Elke Staat die Partij is bij dit Verdrag kan een wijziging voorstellen en deze indienen bij de Secretaris-Generaal van de Verenigde Naties. De Secretaris-Generaal deelt de voorgestelde wijziging vervolgens mede aan de Staten die Partij zijn bij dit Verdrag met het verzoek aan te geven of zij een conferentie van de Staten die Partij zijn verlangen teneinde het voorstel te bestuderen en in stemming te brengen. Indien, binnen vier maanden na de datum van deze mededeling, ten minste een derde van de Staten die Partij zijn een dergelijke conferentie verlangt, roept de Secretaris-Generaal de vergadering onder auspiciën van de Verenigde Naties bijeen.
 
@@ -484,7 +506,7 @@ Dit Verdrag laat onverlet de bepalingen van het internationaal humanitair recht,
 
 4. Wanneer wijzigingen van kracht worden, zijn ze bindend voor die Staten die Partij zijn die de wijzigingen hebben aanvaard; andere Staten die Partij zijn blijven gebonden door de bepalingen van dit Verdrag en eventuele eerdere wijzigingen die zij hebben aanvaard.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 

@@ -1,13 +1,35 @@
 ---
 title: "Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Eastern Africa Standby Brigade Coordination Mechanism (EASBRICOM) betreffende de samenwerking ter ondersteuning van de Eastern Africa Standby Force"
 identifier: "BWBV0005212"
-categorie: "Internationaal recht"
-publicatiedatum: 2012-03-01
-laatste_update: 2012-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005212"
+country: "nl"
+rank: "verdrag"
+publication_date: "2012-03-01"
+last_updated: "2012-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005212"
+soort: "verdrag"
+stam_id: "10004517393"
+version_id: "10004734062"
+internal_id: "C10008335441"
+label_id: "10004501884"
+dtd_version: "2.0"
+original_entry_into_force: "2012-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005212/2012-03-01/0"
+intitule_bron: "Trb.2011-69"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-04-13"
+intitule_in_force: "2012-07-04"
+intitule_status: "goed"
+original_publication: "Trb.2011-69"
+original_published_date: "2011-04-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-69"
+entry_into_force_date: "2012-03-01"
+jci_1_3: "jci1.3:c:BWBV0005212&z=2012-03-01&g=2012-03-01"
+jci_1_0: "1.0:c:BWBV0005212&g=2012-03-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2012-03-01"
 ---
-
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Eastern Africa Standby Brigade Coordination Mechanism (EASBRICOM) betreffende de samenwerking ter ondersteuning van de Eastern Africa Standby Force
 
 AMBASSADE VAN HET KONINKRIJK DER NEDERLANDEN
@@ -36,11 +58,11 @@ Gelet op het Vestigingsverdrag tussen EASBRICOM en de Regering van de Republiek 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 De verdragsluitende partijen blijven de nauwe samenwerking voortzetten teneinde alle vormen van capaciteitsopbouw te versterken en de Eastern Africa Standby Force optimaal voor te bereiden op mogelijke inzetten in alle scenario's voorzien door de Afrikaanse Unie in de context van de African Standby Force.
 
-#### Artikel 2. Nederlandse ondersteuning voor EASBRICOM
+##### Artikel 2. Nederlandse ondersteuning voor EASBRICOM
 
 1. De Minister van Defensie van het Koninkrijk der Nederlanden (hierna te noemen de „zendende partij”) stelt personeel beschikbaar dat bij EASBRICOM zal worden ingedeeld.
 
@@ -54,11 +76,11 @@ De verdragsluitende partijen blijven de nauwe samenwerking voortzetten teneinde 
 
 6. De verdragsluitende partijen komen overeen dat het recht van de Directeur van EASBRICOM tot opheffing van de immuniteiten van het door de zendende partij ter beschikking gestelde personeel, zoals genoemd in artikel VIII, tweede lid, van het Vestigingsverdrag, niet zal worden uitgeoefend zonder voorafgaande schriftelijke instemming van de zendende partij.
 
-#### Artikel 3. Financiële regelingen
+##### Artikel 3. Financiële regelingen
 
 Financiële regelingen binnen het kader van de samenwerking zullen tussen de zendende partij en EASBRICOM worden overeengekomen op de wijze als omschreven in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005212&artikel=4&z=2012-03-01&g=2012-03-01).
 
-#### Artikel 4. Slotbepalingen
+##### Artikel 4. Slotbepalingen
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat de verdragsluitende partijen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de wettelijke vereisten voor de inwerkingtreding van dit Verdrag is voldaan.
 

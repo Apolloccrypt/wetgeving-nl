@@ -1,13 +1,39 @@
 ---
-title: "Regeling conformiteitsbeoordeling vaste biomassa voor energietoepassingen"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat en de Minister van Economische Zaken en Klimaat van 20 december 2017, nr. IENM/BSK-2017/180307, houdende regels voor de conformiteitsbeoordeling van vaste biomassa voor energietoepassingen (Regeling conformiteitsbeoordeling vaste biomassa voor energietoepassingen)"
 identifier: "BWBR0040431"
-categorie: "Overig"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040431"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040431"
+soort: "ministeriele-regeling"
+stam_id: "14461493"
+version_id: "24736412"
+internal_id: "C35391801"
+label_id: "14422004"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040431/2022-01-01/0"
+intitule_bron: "Stcrt.2017-70368"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-12-20"
+intitule_published: "2017-12-21"
+intitule_in_force: "2017-11-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-70368"
+original_signed_date: "2017-12-20"
+original_published_date: "2017-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-70368"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0040431&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0040431&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling conformiteitsbeoordeling vaste biomassa voor energietoepassingen"
+signed_date: "2017-12-20"
+entry_into_force: "2018-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat en de Minister van Economische Zaken en Klimaat van 20 december 2017, nr. IENM/BSK-2017/180307, houdende regels voor de conformiteitsbeoordeling van vaste biomassa voor energietoepassingen (Regeling conformiteitsbeoordeling vaste biomassa voor energietoepassingen)
 
 Gelet op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&artikel=13), [16, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&artikel=16), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&artikel=19) en [20, eerste lid, van het Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&artikel=20);
@@ -16,39 +42,39 @@ Besluiten:
 
 Treedt in werking op het tijdstip waarop het Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen (Stb. 2017/427) in werking treedt.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In deze regeling wordt onder ‘besluit’ verstaan: [Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen](https://wetten.overheid.nl/jci1.3:c:BWBR0040209).
 
 2. [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0040431&bijlage=A&z=2022-01-01&g=2022-01-01) bevat begripsomschrijvingen van begrippen in de [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0040431&bijlage=B&z=2022-01-01&g=2022-01-01), [C](https://wetten.overheid.nl/jci1.3:c:BWBR0040431&bijlage=C&z=2022-01-01&g=2022-01-01) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0040431&bijlage=D&z=2022-01-01&g=2022-01-01).
 
-#### Artikel 2. Duurzaamheidseisen
+##### Artikel 2. Duurzaamheidseisen
 
 De duurzaamheidseisen voor de categorieën vaste biomassa, bedoeld in [artikel 16, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&artikel=16) zijn opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0040431&bijlage=D&z=2022-01-01&g=2022-01-01) in samenhang met [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0040431&bijlage=B&z=2022-01-01&g=2022-01-01).
 
-#### Artikel 3. Beheerseisen
+##### Artikel 3. Beheerseisen
 
 De beheerseisen, bedoeld in [artikel 16, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&artikel=16) zijn opgenomen in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0040431&bijlage=C&z=2022-01-01&g=2022-01-01).
 
-#### Artikel 4. Verificatieprotocol
+##### Artikel 4. Verificatieprotocol
 
 1. Het verificatieprotocol, bedoeld in [artikel 13 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&artikel=13), is het Verificatieprotocol duurzaamheid vaste biomassa voor energietoepassingen.
 
 2. Indien een nieuwe versie van het verificatieprotocol beschikbaar is, wordt die door de Minister van Economische Zaken en Klimaat op de website van Rijksdienst voor Ondernemend Nederland geplaatst.
 
-#### Artikel 5. Inspecteurs
+##### Artikel 5. Inspecteurs
 
 De inspecteurs van de Nederlandse emissieautoriteit worden aangewezen als ambtenaren, belast met het toezicht op de naleving, bedoeld in [artikel 19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&artikel=19).
 
-#### Artikel 6. Redelijke termijn
+##### Artikel 6. Redelijke termijn
 
 De redelijke termijn, bedoeld in [artikel 20, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&artikel=20), bedraagt zes maanden.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop het Besluit van 1 november 2017, houdende regels inzake de conformiteitsbeoordeling van vaste biomassa voor energietoepassingen door erkende conformiteitsbeoordelingsinstanties ([Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen](https://wetten.overheid.nl/jci1.3:c:BWBR0040209)) (Stb. 2017, 427) in werking treedt. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven op of na de datum van inwerkingtreding van dat besluit, treedt deze regeling in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met het tijdstip waarop het genoemde besluit in werking is getreden.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling conformiteitsbeoordeling vaste biomassa voor energietoepassingen.
 

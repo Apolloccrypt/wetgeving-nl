@@ -1,13 +1,37 @@
 ---
 title: "Periodieke uitkeringen, Rietkerk-uitkering"
 identifier: "BWBR0012985"
-categorie: "Sociaal recht"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012985"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012985"
+soort: "beleidsregel"
+stam_id: "8349073"
+version_id: "13220572"
+internal_id: "C18415951"
+label_id: "8329934"
+dtd_version: "2.0"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012985/2002-01-01/0"
+intitule_bron: "Infob.2001-11"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-11-09"
+intitule_published: "2001-01-01"
+intitule_in_force: "2001-01-01"
+intitule_status: "goed"
+original_publication: "Infob.2001-11"
+original_signed_date: "2001-11-09"
+original_published_date: "2001-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-01-01"
+jci_1_3: "jci1.3:c:BWBR0012985&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0012985&g=2002-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2001-11-09"
+entry_into_force: "2002-01-01"
 ---
-
 # Periodieke uitkeringen, Rietkerk-uitkering
 
 De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.

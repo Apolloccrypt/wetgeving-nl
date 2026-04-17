@@ -1,40 +1,66 @@
 ---
-title: "Regeling regio’s en contactgemeenten educatie"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 30 september 2014, nr. MBO/653498, tot vaststelling van regio’s en aanwijzing van contactgemeenten educatie (Regeling regio’s en contactgemeenten educatie)"
 identifier: "BWBR0035618"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-12
-laatste_update: 2025-07-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035618"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-12"
+last_updated: "2025-07-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035618"
+soort: "ministeriele-regeling"
+stam_id: "12811803"
+version_id: "21758982"
+internal_id: "C31233531"
+label_id: "12781524"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035618/2025-07-12/0"
+intitule_bron: "Stcrt.2014-28453"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-09-30"
+intitule_published: "2014-10-10"
+intitule_in_force: "2014-10-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-28453"
+original_signed_date: "2014-09-30"
+original_published_date: "2014-10-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-28453"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035618&z=2025-07-12&g=2025-07-12"
+jci_1_0: "1.0:c:BWBR0035618&g=2025-07-12"
+citeertitel_status: "officieel"
+short_title: "Regeling regio’s en contactgemeenten educatie"
+signed_date: "2014-09-30"
+entry_into_force: "2015-01-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 30 september 2014, nr. MBO/653498, tot vaststelling van regio’s en aanwijzing van contactgemeenten educatie (Regeling regio’s en contactgemeenten educatie)
 
 Gelet op [artikel 2.3.1, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1),
 
 Besluit:
 
-#### Artikel 1. Vaststelling regio’s
+##### Artikel 1. Vaststelling regio’s
 
 De regio’s, bedoeld in [artikel 2.3.1, tweede lid, eerste volzin, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1) worden vastgesteld als aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&bijlage=1&z=2025-07-12&g=2025-07-12) bij deze regeling.
 
-#### Artikel 2. Aanwijzing contactgemeenten
+##### Artikel 2. Aanwijzing contactgemeenten
 
 De contactgemeenten, bedoeld in [artikel 2.3.1, tweede lid, tweede volzin, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1) worden aangewezen als aangegeven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&bijlage=2&z=2025-07-12&g=2025-07-12) bij deze regeling.
 
-#### Artikel 3. [Uitvoeringsregeling WEB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0024795)
+##### Artikel 3. [Uitvoeringsregeling WEB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0024795)
 
 Wijzigt de Uitvoeringsregeling WEB 2007.
 
-#### Artikel 4. Intrekken regeling
+##### Artikel 4. Intrekken regeling
 
 De [Regeling contacturen opleidingen educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0032449) wordt ingetrokken.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling regio’s en contactgemeenten educatie.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2015.
 

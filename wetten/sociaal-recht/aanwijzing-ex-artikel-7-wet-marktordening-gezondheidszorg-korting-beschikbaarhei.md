@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (korting beschikbaarheidbijdrage academische zorg 2015)"
+title: "Aanwijzing van de minister van Volksgezondheid, Welzijn en Sport van 11 december 2014, 696543-13073-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake korting beschikbaarheidbijdrage academische zorg 2015"
 identifier: "BWBR0036146"
-categorie: "Sociaal recht"
-publicatiedatum: 2015-02-01
-laatste_update: 2015-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036146"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-02-01"
+last_updated: "2015-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036146"
+soort: "ministeriele-regeling"
+stam_id: "12945623"
+version_id: "22054552"
+internal_id: "C31620461"
+label_id: "12914754"
+dtd_version: "2.0"
+original_entry_into_force: "2015-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036146/2015-02-01/0"
+intitule_bron: "Stcrt.2014-36909"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-11"
+intitule_published: "2014-12-22"
+intitule_in_force: "2014-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-36909"
+original_signed_date: "2014-12-11"
+original_published_date: "2014-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-36909"
+entry_into_force_date: "2015-02-01"
+jci_1_3: "jci1.3:c:BWBR0036146&z=2015-02-01&g=2015-02-01"
+jci_1_0: "1.0:c:BWBR0036146&g=2015-02-01"
+citeertitel_status: "redactioneel"
+short_title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (korting beschikbaarheidbijdrage academische zorg 2015)"
+signed_date: "2014-12-11"
+entry_into_force: "2015-02-01"
 ---
-
 # Aanwijzing van de minister van Volksgezondheid, Welzijn en Sport van 11 december 2014, 696543-13073-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake korting beschikbaarheidbijdrage academische zorg 2015
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -18,7 +44,7 @@ Gezien de inbreng van de vaste commissie voor Volksgezondheid, Welzijn en Sport 
 
 Besluit:
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -44,21 +70,21 @@ In deze aanwijzing wordt verstaan onder:
 
 - k. **bijzondere kapitaallasten:** lasten voortvloeiend uit de afwikkeling van besluiten van de minister inzake kapitaallasten van aanbieders van academische zorg, genomen tijdens de looptijd van de [Subsidieregeling academische functie](https://wetten.overheid.nl/jci1.3:c:BWBR0023139) en de daaraan voorafgaande periode waarbij de academische functie gefinancierd werd uit het door zorgverzekeraars in 2005 opgerichte fonds, waarin op vrijwillige basis per verzekerde een vaste bijdrage ten behoeve van de academische functie werd gestort door zorgverzekeraars.
 
-#### Artikel 2. werkingssfeer
+##### Artikel 2. werkingssfeer
 
 Deze aanwijzing is van toepassing op academische zorg.
 
-#### Artikel 3. opdracht
+##### Artikel 3. opdracht
 
 De zorgautoriteit stelt ter uitvoering van deze aanwijzing tijdig vóór 1 januari 2015 regels of beleidsregels vast.
 
-#### Artikel 4. academische zorg
+##### Artikel 4. academische zorg
 
 1. De zorgautoriteit verleent een beschikbaarheidbijdrage en stelt deze vast ter compensatie voor het verlenen van een dienst van algemeen belang ter zake van academische zorg.
 
 2. De zorgautoriteit dient voor de hoogte van de beschikbaarheidbijdrage en met betrekking tot de zorgaanbieders die met de dienst van algemeen belang worden belast, uit te gaan van de situatie in 2014, met dien verstande dat zij bij de toekenning van de beschikbaarheidbijdrage rekening houdt met de korting van € 10 miljoen voor academische zorg, zoals opgenomen in de toelichting bij de begroting van het Ministerie van Volksgezondheid, Welzijn en Sport voor 2012 en met de korting van € 70 miljoen voor academische zorg, zoals opgenomen in de toelichting bij de begroting van het Ministerie voor Volksgezondheid, Welzijn en Sport voor 2014.
 
-#### Artikel 5. kapitaallasten academische zorg
+##### Artikel 5. kapitaallasten academische zorg
 
 1. De zorgautoriteit verleent een beschikbaarheidbijdrage en stelt deze vast voor kapitaallasten in verband met academische zorg op basis van het voorstel in het advies, met dien verstande dat zij de beschikbaarheidbijdrage ambtshalve vaststelt, een normatieve benadering hanteert, rekening houdt met de PBA-middelen en de mogelijkheid tot reservering voor het doel waarvoor een beschikbaarheidbijdrage voor kapitaallasten is verleend beperkt tot een periode van maximaal vier jaren.
 

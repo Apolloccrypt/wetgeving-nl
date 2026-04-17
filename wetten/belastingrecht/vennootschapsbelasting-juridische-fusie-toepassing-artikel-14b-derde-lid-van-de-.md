@@ -1,13 +1,39 @@
 ---
-title: "Vennootschapsbelasting, juridische fusie; toepassing artikel 14b, derde lid, van de Wet op de vennootschapsbelasting 1969"
+title: "Vennootschapsbelasting. Juridische fusie; toepassing artikel 14b, derde lid, van de Wet op de vennootschapsbelasting 1969"
 identifier: "BWBR0047079"
-categorie: "Belastingrecht"
-publicatiedatum: 2022-08-31
-laatste_update: 2022-08-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047079"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-08-31"
+last_updated: "2022-08-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047079"
+soort: "beleidsregel"
+stam_id: "16464073"
+version_id: "28846272"
+internal_id: "C40846021"
+label_id: "16387184"
+dtd_version: "2.0"
+original_entry_into_force: "2022-08-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047079/2022-08-31/0"
+intitule_bron: "Stcrt.2022-22286"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-08-12"
+intitule_published: "2022-08-30"
+intitule_in_force: "2022-08-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-22286"
+original_signed_date: "2022-08-12"
+original_published_date: "2022-08-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-22286"
+entry_into_force_date: "2022-08-31"
+jci_1_3: "jci1.3:c:BWBR0047079&z=2022-08-31&g=2022-08-31"
+jci_1_0: "1.0:c:BWBR0047079&g=2022-08-31"
+citeertitel_status: "redactioneel"
+short_title: "Vennootschapsbelasting, juridische fusie; toepassing artikel 14b, derde lid, van de Wet op de vennootschapsbelasting 1969"
+signed_date: "2022-08-12"
+entry_into_force: "2022-08-31"
 ---
-
 # Vennootschapsbelasting. Juridische fusie; toepassing artikel 14b, derde lid, van de Wet op de vennootschapsbelasting 1969
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

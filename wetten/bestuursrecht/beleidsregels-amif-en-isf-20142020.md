@@ -1,22 +1,48 @@
 ---
-title: "Beleidsregels AMIF en ISF 2014–2020"
+title: "Beleidsregels van de Staatssecretaris van Veiligheid en Justitie, de Minister van Veiligheid en Justitie en de Minister van Sociale Zaken en Werkgelegenheid van 18 mei 2015, nummer 644356, tot besteding van de gelden uit het Europese Fonds voor asiel, migratie en integratie en het Fonds voor interne veiligheid (instrument voor financiële steun voor politiële samenwerking, voorkoming en bestrijding van criminaliteit, en crisisbeheersing en instrument voor financiële steun voor de buitengrenzen en visa) (Beleidsregels AMIF en ISF 2014–2020)"
 identifier: "BWBR0036630"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-12-01
-laatste_update: 2020-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036630"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-12-01"
+last_updated: "2020-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036630"
+soort: "beleidsregel"
+stam_id: "13157393"
+version_id: "22425152"
+internal_id: "C32178111"
+label_id: "13126014"
+dtd_version: "2.0"
+original_entry_into_force: "2015-05-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036630/2020-12-01/0"
+intitule_bron: "Stcrt.2015-13878"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-05-18"
+intitule_published: "2015-05-20"
+intitule_in_force: "2015-05-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-13878"
+original_signed_date: "2015-05-18"
+original_published_date: "2015-05-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-13878"
+entry_into_force_date: "2015-05-21"
+jci_1_3: "jci1.3:c:BWBR0036630&z=2020-12-01&g=2020-12-01"
+jci_1_0: "1.0:c:BWBR0036630&g=2020-12-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels AMIF en ISF 2014–2020"
+signed_date: "2015-05-18"
+entry_into_force: "2015-05-21"
 ---
-
 # Beleidsregels van de Staatssecretaris van Veiligheid en Justitie, de Minister van Veiligheid en Justitie en de Minister van Sociale Zaken en Werkgelegenheid van 18 mei 2015, nummer 644356, tot besteding van de gelden uit het Europese Fonds voor asiel, migratie en integratie en het Fonds voor interne veiligheid (instrument voor financiële steun voor politiële samenwerking, voorkoming en bestrijding van criminaliteit, en crisisbeheersing en instrument voor financiële steun voor de buitengrenzen en visa) (Beleidsregels AMIF en ISF 2014–2020)
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze beleidsregels wordt verstaan onder:
 
 - •. **subsidieregeling:** [Subsidieregeling AMIF en ISF 2014–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&wetgeving)
 
-#### Artikel 2. Specifieke uitgaven in verband met doelgroepen
+##### Artikel 2. Specifieke uitgaven in verband met doelgroepen
 
 1. Specifieke uitgaven in verband met doelgroepen bestaan overeenkomstig de in [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=A), [B](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=B), [C](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=C), [Hg](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hg), [Hh](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hh) en [Hi van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hi) omschreven subsidiabele activiteiten in volledige of gedeeltelijke ondersteuning in de vorm van:
 
@@ -32,7 +58,7 @@ In deze beleidsregels wordt verstaan onder:
 
 5. De termijn, bedoeld in het vierde lid, wordt verlengd met de periode dat de bijstandsmaatregelen als gevolg van beperkende voorschriften die gelden in het kader van de COVID-19 pandemie niet of niet volledig kunnen worden uitgevoerd, met een maximum van twaalf maanden.
 
-#### Artikel 3. Reiskosten en verblijfskosten buitenland
+##### Artikel 3. Reiskosten en verblijfskosten buitenland
 
 1. Reiskosten en verblijfkosten buitenland zijn alleen subsidiabel voor personeel en andere personen die deelnemen aan de activiteiten als deze onderdeel uitmaken van de in [bijlagen A tot en met Hk](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=A) van de subsidieregeling opgesomde subsidiabele activiteiten en deel uitmaken van de goedgekeurde begroting van het project.
 
@@ -46,7 +72,7 @@ Voor de specifieke maatregelen genoemd in [bijlage Ha van de subsidieregeling](h
 
 5. Dagvergoedingen hebben betrekking op plaatselijk vervoer (inclusief taxi), accommodatie, maaltijden, plaatselijke telefoongesprekken en diversen. Voor reizen naar Nederland gelden de tarieven van de vigerende United Nations Daily Subsistence Allowance lijst als maximum.
 
-#### Artikel 4. Kosten van materieel
+##### Artikel 4. Kosten van materieel
 
 1. Uitgaven in verband met huur- en leasingverrichtingen komen voor medefinanciering in aanmerking afhankelijk van de overige nationale wetgeving, voorschriften en praktijken en de duur van de huur of de leasing voor het project. Onder leasing wordt in het kader van de [subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487) financial lease verstaan.
 
@@ -66,7 +92,7 @@ Voor de specifieke maatregelen genoemd in [bijlage Ha van de subsidieregeling](h
 
 9. Wanneer materieel wordt gebruikt voor meerdere doeleinden en het dientengevolge niet mogelijk is om de volledige kosten van het materieel ten laste van het project te brengen, moet een percentage van het gebruik worden berekend en worden toegepast op de kosten van het materieel om de kosten die aan het project kunnen worden toegerekend te bepalen. De termijnen, bedoeld in het vorige lid, wijzigen als gevolg hiervan niet.
 
-#### Artikel 5. Kosten van onroerende zaken
+##### Artikel 5. Kosten van onroerende zaken
 
 1. Wanneer de aankoop van onroerende zaken essentieel is voor de uitvoering van activiteiten van een project die onder de reikwijdte van [artikel A5 van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=A) vallen en er een duidelijk verband bestaat met de doelstellingen ervan, komt de aankoop van een onroerende zaak, dat wil zeggen reeds opgetrokken gebouwen of de bouw van een onroerende zaak, in aanmerking voor medefinanciering, en wel onder de hieronder uiteengezette voorwaarden, en zonder dat afbreuk mag worden gedaan aan de toepassing van strengere nationale voorschriften:
 
@@ -92,13 +118,13 @@ Voor de specifieke maatregelen genoemd in [bijlage Ha van de subsidieregeling](h
 
 4. In aanvulling op het derde lid komen uitgaven voor renovatie van onroerende zaken in aanmerking voor medefinanciering op basis van de volledige of gedeeltelijke aankoopkosten, of op grond van afschrijvingen. In het geval van renovatie zijn alleen de voorwaarden, bedoeld in het derde lid, onderdelen c en d, van toepassing.
 
-#### Artikel 6. Overige externe kosten
+##### Artikel 6. Overige externe kosten
 
 1. Uitgaven betreffende de volgende onderaannemingscontracten komen niet in aanmerking voor medefinanciering. Het betreffen onderaannemingscontracten voor taken in verband met het algemene beheer van het project, onderaannemingscontracten waardoor de kosten van het project worden verhoogd zonder dat er een proportionele waarde aan wordt toegevoegd of onderaannemingscontracten met tussenpersonen of consultants waarin het te betalen bedrag is uitgedrukt als een percentage van de totale kostprijs van het project, tenzij de gegrondheid van een dergelijke betalingswijze door de subsidieontvanger wordt bewezen aan de hand van de daadwerkelijke waarde van het verrichte werk of de verleende diensten.
 
 2. De onderaannemers moeten alle audit- en controleorganen voor alle onderaannemingscontracten alle vereiste informatie betreffende de in onderaanneming gegeven activiteiten verschaffen.
 
-#### Artikel 7. Administratievoorschriften
+##### Artikel 7. Administratievoorschriften
 
 1. De subsidieontvanger bewaart tijdens de in [artikel 16, eerste lid, van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=16), bedoelde periode de nodige informatie en bewijsstukken waaruit blijkt dat de betrokken personen behoren tot een doelgroep, en zich bevinden in een situatie, zoals omschreven in [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=A), [B](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=B), [C](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=C), [Hg](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hg), [Hh](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hh) of [Hi, van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hi), en dat zij derhalve voor dergelijke steun in aanmerking komen.
 
@@ -106,11 +132,11 @@ Voor de specifieke maatregelen genoemd in [bijlage Ha van de subsidieregeling](h
 
 3. De subsidieontvanger bewaart tijdens de in [artikel 16, eerste lid, van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=16), bedoelde periode de bewijsstukken van de geleverde bijstand (zoals facturen en ontvangstbewijzen) en voor forfaitaire bedragen dienen bewijsstukken te worden bewaard waaruit blijkt dat de betrokken personen de ondersteuning hebben ontvangen. De opslag en de verwerking van dergelijke gegevens moet gebeuren volgens de nationale wetgeving inzake gegevensbescherming.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels AMIF en ISF 2014–2020.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt verplaatst, en werken terug tot en met 1 april 2015.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit aanpassingen aan het Douanewetboek van de Unie"
+title: "Besluit van 4 mei 2016, houdende regels tot wijziging van enige uitvoeringsbesluiten op het gebied van belastingen en enige andere uitvoeringsbesluiten in verband met het van toepassing worden van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269) (Besluit aanpassingen aan het Douanewetboek van de Unie)"
 identifier: "BWBR0037978"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-05-24
-laatste_update: 2016-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037978"
+country: "nl"
+rank: "amvb"
+publication_date: "2016-05-24"
+last_updated: "2016-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037978"
+soort: "AMvB"
+stam_id: "13556383"
+version_id: "23227172"
+internal_id: "C33535331"
+label_id: "13523284"
+dtd_version: "2.0"
+original_entry_into_force: "2016-05-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037978/2016-05-24/0"
+intitule_bron: "Stb.2016-184"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-05-04"
+intitule_published: "2016-05-23"
+intitule_in_force: "2016-05-23"
+intitule_status: "goed"
+original_publication: "Stb.2016-184"
+original_signed_date: "2016-05-04"
+original_published_date: "2016-05-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2016-184"
+entry_into_force_date: "2016-05-24"
+jci_1_3: "jci1.3:c:BWBR0037978&z=2016-05-24&g=2016-05-24"
+jci_1_0: "1.0:c:BWBR0037978&g=2016-05-24"
+citeertitel_status: "officieel"
+short_title: "Besluit aanpassingen aan het Douanewetboek van de Unie"
+signed_date: "2016-05-04"
+entry_into_force: "2016-05-24"
 ---
-
 # Besluit van 4 mei 2016, houdende regels tot wijziging van enige uitvoeringsbesluiten op het gebied van belastingen en enige andere uitvoeringsbesluiten in verband met het van toepassing worden van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269) (Besluit aanpassingen aan het Douanewetboek van de Unie)
 
 Op de voordracht van de Staatssecretaris van Financiën van 8 april 2016, AFP/2016/330M;
@@ -20,63 +46,63 @@ Gezien het nader rapport van de Staatssecretaris van Financiën van 28 april 201
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit draagbare blustoestellen 1997.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit dierlijke producten.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit inzake het in de handel brengen van dieren en producten en de toepassing van maatregelen met betrekking tot in Nederland gebrachte dieren en producten.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Algemeen douanebesluit.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Uitvoeringsbesluit accijns.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Uitvoeringsbesluit verbruiksbelasting van alcoholvrije dranken.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Besluit bodemkwaliteit.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Besluit bedrijfsvergunning en veiligheidscertificaat hoofdspoorwegen.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Besluit kwik en kwikhoudende producten milieubeheer.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Besluit organisch-halogeengehalte van brandstoffen.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Warenwetbesluit Doorstraalde waren.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Warenwetbesluit retributies levensmiddelen.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 mei 2016.
 
-#### Artikel XV
+##### Artikel XV
 
 Dit besluit wordt aangehaald als: Besluit aanpassingen aan het Douanewetboek van de Unie.
 

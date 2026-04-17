@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel macrodoelmatigheid beroepsonderwijs"
+title: "Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 14 december 2015, nr. 765423 houdende de wijze waarop de bevoegdheid tot het ontnemen van rechten ten aanzien van een beroepsopleiding wordt uitgeoefend indien niet of niet meer wordt voldaan aan de zorgenplichten, omschreven in artikel 6.1.3 van de Wet educatie en beroepsonderwijs"
 identifier: "BWBR0037402"
-categorie: "Onderwijs"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037402"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037402"
+soort: "beleidsregel"
+stam_id: "13357053"
+version_id: "25185652"
+internal_id: "C36015251"
+label_id: "13324854"
+dtd_version: "2.0"
+original_entry_into_force: "2018-08-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037402/2022-08-01/0"
+intitule_bron: "Stcrt.2015-47109"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-14"
+intitule_published: "2015-12-23"
+intitule_in_force: "2015-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-47383"
+original_signed_date: "2018-08-13"
+original_published_date: "2018-08-23"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2018-47383"
+entry_into_force_date: "2018-08-24"
+jci_1_3: "jci1.3:c:BWBR0037402&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0037402&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel macrodoelmatigheid beroepsonderwijs"
+signed_date: "2018-08-13"
+entry_into_force: "2018-08-24"
 ---
-
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 14 december 2015, nr. 765423 houdende de wijze waarop de bevoegdheid tot het ontnemen van rechten ten aanzien van een beroepsopleiding wordt uitgeoefend indien niet of niet meer wordt voldaan aan de zorgenplichten, omschreven in artikel 6.1.3 van de Wet educatie en beroepsonderwijs
 
 Gelet op [artikel 6.1.4a van de Wet beroepsonderwijs en volwasseneneducatie](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4a);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -32,11 +58,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - g. **zorgplicht doelmatigheid:** de zorgplicht bedoeld in [artikel 6.1.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.3).
 
-#### Artikel 2
+##### Artikel 2
 
 Deze beleidsregel heeft betrekking op de wijze waarop de minister de bevoegdheden, bedoeld in de [artikelen 6.1.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.1), en [6.1.4, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4) uitoefent.
 
-#### Artikel 3. Signalen niet-naleving zorgplichten
+##### Artikel 3. Signalen niet-naleving zorgplichten
 
 1. De minister kan een onderzoek naar de naleving van de zorgplicht arbeidsmarktperspectief dan wel de zorgplicht doelmatigheid starten:
 
@@ -66,7 +92,7 @@ Elektronische indiening is mogelijk via het daartoe bestemde formulier op de web
 
 - www.cmmbo.nl
 
-#### Artikel 4. Aanleiding voor een onderzoek door de commissie
+##### Artikel 4. Aanleiding voor een onderzoek door de commissie
 
 1. Er kan in ieder geval aanleiding zijn voor een onderzoek naar de naleving van de zorgplicht arbeidsmarktperspectief bij een beroepsopleiding indien blijkt dat:
 
@@ -84,7 +110,7 @@ Elektronische indiening is mogelijk via het daartoe bestemde formulier op de web
 
 3. Indien de minister aanleiding ziet voor een onderzoek dan vraagt hij advies aan de commissie macrodoelmatigheid mbo. Daartoe stuurt hij het dossier door naar de adviescommissie.
 
-#### Artikel 5. Criteria voor beoordeling naleving zorgplicht arbeidsmarktperspectief
+##### Artikel 5. Criteria voor beoordeling naleving zorgplicht arbeidsmarktperspectief
 
 Aan de hand van in ieder geval de volgende criteria wordt beoordeeld of voldaan is aan de zorgplicht arbeidsmarktperspectief:
 
@@ -104,7 +130,7 @@ Aan de hand van in ieder geval de volgende criteria wordt beoordeeld of voldaan 
 
 - h. borgt het bevoegd gezag de toegankelijkheid van onderwijs voor kansarme groepen in de arbeidsmarktregio met het verzorgen van de betreffende beroepsopleiding.
 
-#### Artikel 6. Criteria voor beoordeling naleving zorgplicht doelmatigheid
+##### Artikel 6. Criteria voor beoordeling naleving zorgplicht doelmatigheid
 
 Aan de hand van in ieder geval de volgende criteria wordt beoordeeld of voldaan wordt aan de zorgplicht doelmatigheid:
 
@@ -124,7 +150,7 @@ Aan de hand van in ieder geval de volgende criteria wordt beoordeeld of voldaan 
 
 - h. heeft het bevoegd gezag bij het starten van een nieuwe beroepsopleiding in voldoende mate rekening gehouden met de aanwezigheid van reeds bestaande (kapitaalintensieve) infrastructuren bij vergelijkbare beroepsopleidingen bij andere instellingen.
 
-#### Artikel 7. Besluitvorming door de minister
+##### Artikel 7. Besluitvorming door de minister
 
 1. Bij het nemen van een besluit als bedoeld in [artikel 6.1.4, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4) dan wel bij het geven van een waarschuwing, als bedoeld in [artikel 6.1.5, lid 2a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5) betrekt de minister in ieder geval de volgende aspecten:
 
@@ -146,7 +172,7 @@ Aan de hand van in ieder geval de volgende criteria wordt beoordeeld of voldaan 
 
 Het advies wordt in bovengenoemde gevallen openbaar gemaakt door het elektronisch beschikbaar te stellen op de website van de adviescommissie macrodoelmatigheid mbo.
 
-#### Artikel 8. Signalen verdwijnen kleinschalige en unieke opleiding
+##### Artikel 8. Signalen verdwijnen kleinschalige en unieke opleiding
 
 1. De minister kan in de volgende gevallen een onderzoek instellen:
 
@@ -168,7 +194,7 @@ Postbus 85498
 
 Elektronische indiening is mogelijk via het daartoe bestemde formulier op de website: www.cmmbo.nl.
 
-#### Artikel 9. Aanleiding voor een onderzoek door de adviescommissie macrodoelmatigheid mbo
+##### Artikel 9. Aanleiding voor een onderzoek door de adviescommissie macrodoelmatigheid mbo
 
 1. Na een signaal, als bedoeld in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037402&paragraaf=3&artikel=8&z=2022-08-01&g=2022-08-01), is er in ieder geval aanleiding voor het vragen van een advies in verband met het behoud van een unieke kleinschalige beroepsopleiding, als bedoeld in [artikel 6.1.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.1) indien blijkt dat het landelijk aantal studenten dat ingeschreven staat op de kwalificatie dan wel indien van toepassing op een cluster samenhangende kwalificaties, gebaseerd op onder andere de koppeltabel van de Samenwerkingsorganisatie Beroepsonderwijs en Bedrijfsleven, minder dan 50 studenten per leerjaar bedraagt en er voldoende arbeidsmarktperspectief lijkt te zijn.
 
@@ -184,7 +210,7 @@ Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Paragraaf 3. Alleenrecht kleinschalige en unieke opleidingen
 
-#### Artikel 10. Criteria kleinschalige en unieke beroepsopleiding
+##### Artikel 10. Criteria kleinschalige en unieke beroepsopleiding
 
 1. De commissie macrodoelmatigheid mbo betrekt in ieder geval de in het tweede lid vermelde criteria en overwegingen bij haar advies of er sprake is van een zodanig kleinschalige unieke beroepsopleiding die van belang blijft voor de arbeidsmarkt en die daadwerkelijk dreigt te verdwijnen.
 
@@ -200,7 +226,7 @@ Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. De adviescommissie macrodoelmatigheid mbo betrekt bij haar advies het totaal aan onderwijsvoorzieningen binnen de sector.
 
-#### Artikel 11. Besluitvorming alleenrecht door de minister
+##### Artikel 11. Besluitvorming alleenrecht door de minister
 
 1. De minister maakt het advies van de adviescommissie macrodoelmatigheid mbo openbaar nadat hij een besluit heeft genomen omtrent de toepassing van [artikel 6.1.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.1).
 
@@ -208,11 +234,11 @@ Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Paragraaf 4. Slotbepalingen
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze beleidsregel treedt in werking de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel macrodoelmatigheid beroepsonderwijs.
 

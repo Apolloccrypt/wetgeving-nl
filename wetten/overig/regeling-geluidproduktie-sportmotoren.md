@@ -1,20 +1,44 @@
 ---
 title: "Regeling geluidproduktie sportmotoren"
 identifier: "BWBR0007977"
-categorie: "Overig"
-publicatiedatum: 1996-05-01
-laatste_update: 1996-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007977"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1996-05-01"
+last_updated: "1996-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007977"
+soort: "ministeriele-regeling"
+stam_id: "3572753"
+version_id: "5355842"
+internal_id: "C5548931"
+label_id: "3552724"
+dtd_version: "2.0"
+original_entry_into_force: "1996-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007977/1996-05-01/0"
+intitule_bron: "Stcrt.1996-78"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-03-28"
+intitule_published: "1996-04-22"
+intitule_in_force: "1996-03-21"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-78"
+original_signed_date: "1996-03-28"
+original_published_date: "1996-04-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-05-01"
+jci_1_3: "jci1.3:c:BWBR0007977&z=1996-05-01&g=1996-05-01"
+jci_1_0: "1.0:c:BWBR0007977&g=1996-05-01"
+citeertitel_status: "officieel"
+signed_date: "1996-03-28"
+entry_into_force: "1996-05-01"
 ---
-
 # Regeling geluidproduktie sportmotoren
 
 Gelet op [artikel 4 van het Besluit geluidproduktie sportmotoren](https://wetten.overheid.nl/jci1.3:c:BWBR0007578&artikel=4);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het geluiddrukniveau van een sportmotor mag bij de meting de grenswaarde die is aangeven in de onderstaande tabel niet overschrijden:
 
@@ -30,11 +54,11 @@ Besluit:
 
 2. Het in het eerste lid bedoelde geluiddrukniveau wordt gemeten overeenkomstig de voorschriften die zijn opgenomen in de bij deze regeling behorende bijlage.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de dag waarop het [Besluit geluidproduktie sportmotoren](https://wetten.overheid.nl/jci1.3:c:BWBR0007578) in werking treedt.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling geluidproduktie sportmotoren.
 

@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregel quota commerciële media-instellingen 2023"
 identifier: "BWBR0047883"
-categorie: "Overig"
-publicatiedatum: 2023-02-18
-laatste_update: 2023-02-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047883"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-02-18"
+last_updated: "2023-02-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047883"
+soort: "zbo"
+stam_id: "16675683"
+version_id: "29248842"
+internal_id: "C41647101"
+label_id: "16593374"
+dtd_version: "2.0"
+original_entry_into_force: "2023-02-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047883/2023-02-18/0"
+intitule_bron: "Stcrt.2023-5500"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-02-17"
+intitule_in_force: "2023-02-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-5500"
+original_published_date: "2023-02-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-5500"
+entry_into_force_date: "2023-02-18"
+jci_1_3: "jci1.3:c:BWBR0047883&z=2023-02-18&g=2023-02-18"
+jci_1_0: "1.0:c:BWBR0047883&g=2023-02-18"
+citeertitel_status: "officieel"
+entry_into_force: "2023-02-18"
 ---
-
 # Beleidsregel quota commerciële media-instellingen 2023
 
 Gelet op de [artikelen 3.20 tot en met 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.20), [artikel 3.29c van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29c) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
@@ -16,7 +38,7 @@ Besluit:
 
 ### I. Begripsbepalingen en reikwijdte
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -44,7 +66,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - l. **recente productie:** een onafhankelijke productie die niet ouder is dan vijf jaar.
 
-#### Artikel 2. Europese producties
+##### Artikel 2. Europese producties
 
 1. Een **producent** als bedoeld in artikel 1, derde en vierde lid, van de Richtlijn wordt geacht in een lidstaat gevestigd te zijn indien zijn onderneming aldaar permanent is gevestigd en over vast personeel beschikt dat zich zowel met productie- als commerciële activiteiten in de Europese Unie bezighoudt.
 
@@ -52,7 +74,7 @@ In deze beleidsregel wordt verstaan onder:
 
 3. Het tweede lid is slechts van toepassing indien de media-instelling die de productie heeft verspreid, naar genoegen van het Commissariaat heeft aangetoond dat zij zich voldoende heeft ingespannen om de relevante gegevens over de producent van de productie te achterhalen.
 
-#### Artikel 3. Onafhankelijke producties
+##### Artikel 3. Onafhankelijke producties
 
 1. In aansluiting op [artikel 3.22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.22) wordt als **onafhankelijke productie** mede aangemerkt:
 
@@ -68,23 +90,23 @@ In deze beleidsregel wordt verstaan onder:
 
 ### II. Europese producties
 
-#### Artikel 4. Berekeningswijze aandeel Europese, onafhankelijke en recente producties in programmakanalen
+##### Artikel 4. Berekeningswijze aandeel Europese, onafhankelijke en recente producties in programmakanalen
 
 1. Voor de vaststelling van het behaalde aandeel Europese, onafhankelijke en recente producties als bedoeld in de [artikelen 3.20 tot en met 3.22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.20), wordt uitgegaan van het totale programma-aanbod per televisieprogrammakanaal per kalenderjaar, daarvan uitgezonderd het media-aanbod als bedoeld in [artikel 3.23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.23).
 
 2. Voor de vaststelling van het behaalde aandeel Europese, onafhankelijke en recente producties, worden herhalingen van programma’s meegeteld.
 
-#### Artikel 5. Berekeningswijze aandeel Europese producties van audiovisueel media-aanbod op commerciële mediadiensten op aanvraag
+##### Artikel 5. Berekeningswijze aandeel Europese producties van audiovisueel media-aanbod op commerciële mediadiensten op aanvraag
 
 1. Voor de vaststelling van het behaalde aandeel Europese producties van een commerciële mediadienst op aanvraag als bedoeld in [artikel 3.29c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29c) wordt uitgegaan van het aantal Europese titels in de desbetreffende catalogus, afgezet tegen het totaal aantal titels in de catalogus.
 
 2. Als titel wordt in ieder geval aangemerkt een speelfilm en een seizoen van een serie. Een aflevering van een serie kan als titel worden aangemerkt indien deze vergelijkbaar is met een speelfilm.
 
-#### Artikel 6. Bereik programma-aanbod
+##### Artikel 6. Bereik programma-aanbod
 
 Voor de toepassing van [artikel 3.23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.23) wordt programma-aanbod aangemerkt als **programma-aanbod dat in slechts één gemeente of een beperkt aantal aan elkaar grenzende gemeenten kan worden ontvangen**, indien het programma-aanbod gericht is op die betreffende gemeente(n) en niet tevens wordt verspreid via een ander deel van het nationale omroepnetwerk of in andere gemeenten via een programmakanaal.
 
-#### Artikel 7. Aandacht Europese producties op commerciële mediadiensten op aanvraag
+##### Artikel 7. Aandacht Europese producties op commerciële mediadiensten op aanvraag
 
 Het onder de aandacht brengen van Europese producties op een commerciële mediadienst op aanvraag als bedoeld in [artikel 3.29c, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29c) kan onder meer worden verzekerd door:
 
@@ -94,7 +116,7 @@ Het onder de aandacht brengen van Europese producties op een commerciële mediad
 
 - c. het gebruik van Europese producties in de campagnes van die dienst of een minimum percentage Europese producties die in de catalogus van die dienst worden aanbevolen, bijvoorbeeld door gebruik van banners of vergelijkbare instrumenten.
 
-#### Artikel 8. Ontheffing aandeel Europese producties lage omzet en klein publiek
+##### Artikel 8. Ontheffing aandeel Europese producties lage omzet en klein publiek
 
 1. De verplichting voor het behalen van het aandeel Europese producties en het onder de aandacht brengen daarvan als bedoeld in [artikel 3.29c, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29c) geldt niet voor aanbieders van commerciële mediadiensten op aanvraag met een **lage omzet** of een **klein publiek**.
 
@@ -104,7 +126,7 @@ Het onder de aandacht brengen van Europese producties op een commerciële mediad
 
 4. Om voor de toepassing van het eerste lid in aanmerking te komen, dient de aanbieder van de commerciële mediadienst op aanvraag een verzoek om een ontheffing in bij het Commissariaat. Bij het verzoek om ontheffing dient alle relevante informatie op grond waarvan een besluit kan worden genomen, te worden gevoegd.
 
-#### Artikel 9. Ontheffing Europese producties programmakanalen
+##### Artikel 9. Ontheffing Europese producties programmakanalen
 
 1. Ontheffingen van het aandeel Europese producties als bedoeld in [artikel 3.20, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.20) kunnen in bijzondere gevallen ten aanzien van een bepaald programmakanaal gedeeltelijk worden verleend, met dien verstande dat het percentage niet lager gesteld kan worden dan tien.
 
@@ -116,7 +138,7 @@ Het onder de aandacht brengen van Europese producties op een commerciële mediad
 
 5. Het verzoek om ontheffing dient, voorzien van een onderbouwing, te worden ingediend bij het Commissariaat.
 
-#### Artikel 10. Ontheffing Europese producties audiovisueel media-aanbod op commerciële mediadiensten op aanvraag
+##### Artikel 10. Ontheffing Europese producties audiovisueel media-aanbod op commerciële mediadiensten op aanvraag
 
 1. Ontheffingen van het aandeel Europese producties voor audiovisueel media-aanbod van commerciële mediadiensten op aanvraag als bedoeld in [artikel 3.29c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29c), kunnen worden verleend indien naar genoegen van het Commissariaat is aangetoond dat naleving gelet op de aard of het onderwerp van deze mediadienst op aanvraag praktisch onhaalbaar of ongerechtvaardigd zou zijn.
 
@@ -130,7 +152,7 @@ Het onder de aandacht brengen van Europese producties op een commerciële mediad
 
 ### III. Nederlands- en friestalige producties
 
-#### Artikel 11. Oorspronkelijk Nederlands- en Friestalige producties
+##### Artikel 11. Oorspronkelijk Nederlands- en Friestalige producties
 
 Als **oorspronkelijk Nederlands- of Friestalige producties** als bedoeld in [artikel 3.24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.24) wordt mede aangemerkt:
 
@@ -138,11 +160,11 @@ Als **oorspronkelijk Nederlands- of Friestalige producties** als bedoeld in [art
 
 - b. programma-aanbod dat onderdelen van niet oorspronkelijk Nederlands- of Friestalige producties bevat, dat voorzien is van een Nederlands- of Friestalige voice-over.
 
-#### Artikel 12. Berekeningswijze aandeel oorspronkelijk Nederlands- en Friestalige producties programmakanalen
+##### Artikel 12. Berekeningswijze aandeel oorspronkelijk Nederlands- en Friestalige producties programmakanalen
 
 Voor de vaststelling van het behaalde aandeel oorspronkelijk Nederlands- en Friestalige producties, bedoeld in [artikel 3.24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.24), wordt uitgegaan van het totale programma-aanbod per programmakanaal per kalenderjaar. Herhalingen van programma’s worden meegeteld.
 
-#### Artikel 13. Ontheffing oorspronkelijk Nederlands- en Friestalige producties programmakanalen
+##### Artikel 13. Ontheffing oorspronkelijk Nederlands- en Friestalige producties programmakanalen
 
 1. Ontheffingen van het aandeel oorspronkelijk Nederlands- of Friestalige producties voor programma-aanbod als bedoeld in [artikel 3.24, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.24) kunnen in bijzondere gevallen ten aanzien van een bepaald programmakanaal geheel of gedeeltelijk worden verleend.
 
@@ -156,7 +178,7 @@ Voor de vaststelling van het behaalde aandeel oorspronkelijk Nederlands- en Frie
 
 6. Het verzoek om ontheffing dient, voorzien van een onderbouwing, te worden ingediend bij het Commissariaat.
 
-#### Artikel 14. Ondertiteling oorspronkelijk Nederlandstalige producties programmakanalen
+##### Artikel 14. Ondertiteling oorspronkelijk Nederlandstalige producties programmakanalen
 
 Als oorspronkelijk Nederlandstalige producties die voorzien zijn van ondertiteling ten behoeve van personen met een auditieve beperking zoals bedoeld in [artikel 17 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&artikel=17) worden aangemerkt oorspronkelijk Nederlandstalige producties:
 
@@ -164,7 +186,7 @@ Als oorspronkelijk Nederlandstalige producties die voorzien zijn van ondertiteli
 
 - b. die onderdelen van niet oorspronkelijk Nederlandstalige producties bevatten die voorzien zijn van een Nederlands- of Friestalige voice-over dan wel Nederlands- of Friestalig zijn ingesproken en die voorzien zijn van een ondertiteling overeenkomstig [artikel 18a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&artikel=18a).
 
-#### Artikel 15. Berekeningswijze percentage ondertiteling programmakanalen
+##### Artikel 15. Berekeningswijze percentage ondertiteling programmakanalen
 
 1. Voor de vaststelling van het percentage ondertiteling als bedoeld in [artikel 17 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&artikel=17), wordt uitgegaan van het totale programma-aanbod per programmakanaal en per kalenderjaar besteed aan producties die kunnen worden aangemerkt als oorspronkelijk Nederlandstalige producties zoals bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0047883&hoofdstuk=III&artikel=14&z=2023-02-18&g=2023-02-18) van deze beleidsregel.
 
@@ -174,7 +196,7 @@ Als oorspronkelijk Nederlandstalige producties die voorzien zijn van ondertiteli
 
 4. Voor de vaststelling van het totale programma-aanbod genoemd in het eerste lid worden afzonderlijke muziekclips buiten beschouwing gelaten.
 
-#### Artikel 16. Ontheffing percentage ondertiteling programmakanalen
+##### Artikel 16. Ontheffing percentage ondertiteling programmakanalen
 
 1. Ontheffingen van het percentage ondertiteling van programma-aanbod als bedoeld in [artikel 3.25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.25) kunnen in bijzondere gevallen ten aanzien van een bepaald programmakanaal geheel of gedeeltelijk worden verleend.
 
@@ -186,13 +208,13 @@ Als oorspronkelijk Nederlandstalige producties die voorzien zijn van ondertiteli
 
 5. Het verzoek om ontheffing dient, voorzien van een onderbouwing, te worden ingediend bij het Commissariaat.
 
-#### Artikel 17. Bereik programmakanalen
+##### Artikel 17. Bereik programmakanalen
 
 Voor de toepassing van [artikel 17 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&artikel=17) meldt de commerciële media-instelling onverwijld aan het Commissariaat zodra zij een technisch bereik heeft van ten minste 75 procent van alle huishoudens in Nederland.
 
 ### IV. Rapportageverplichting en inhoud verslag
 
-#### Artikel 18. Rapportageverplichting quota
+##### Artikel 18. Rapportageverplichting quota
 
 1. De commerciële media-instellingen met programmakanalen met een landelijk marktaandeel gelijk aan of groter dan 0,3% in ten minste één lidstaat brengen eenmaal per twee jaar vóór 1 juni over de twee voorafgaande jaren verslag uit aan het Commissariaat over de naleving van de [artikelen 3.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.20), [3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.21), [3.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.24) en [3.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.25) en [artikel 17 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&artikel=17).
 
@@ -202,7 +224,7 @@ Voor de toepassing van [artikel 17 van het besluit](https://wetten.overheid.nl/j
 
 4. De aanbieders van commerciële mediadiensten op aanvraag rapporteren naast het uitbrengen van het verslag als bedoeld in het derde lid, gelijktijdig over de naleving van de verplichting in [artikel 3.29c, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29c) om op de commerciële mediadienst op aanvraag aandacht te besteden aan Europese producties ([artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047883&hoofdstuk=II&artikel=7&z=2023-02-18&g=2023-02-18) van de beleidsregels).
 
-#### Artikel 19. Verslag programmakanalen
+##### Artikel 19. Verslag programmakanalen
 
 1. De verslagen bedoeld in [artikel 18, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047883&hoofdstuk=IV&artikel=18&z=2023-02-18&g=2023-02-18), van deze beleidsregel bevatten gegevens zowel in absolute zin als procentueel op basis van een steekproef van een week per kwartaal voor elk rapportagejaar.
 
@@ -216,7 +238,7 @@ Voor de toepassing van [artikel 17 van het besluit](https://wetten.overheid.nl/j
 
 6. Het tweede lid is niet van toepassing op commerciële media-instellingen met programmakanalen met een technisch bereik kleiner dan 75% van de Nederlandse huishoudens, voor zover dat betrekking heeft op het onderdeel ondertiteling in het rapportageformulier.
 
-#### Artikel 20. Verslag commerciële mediadiensten op aanvraag
+##### Artikel 20. Verslag commerciële mediadiensten op aanvraag
 
 1. De verslagen als bedoeld in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047883&hoofdstuk=IV&artikel=18&z=2023-02-18&g=2023-02-18), van deze beleidsregel bevatten gegevens op basis van een heel jaar dan wel op basis van de eerste dag van de vier steekproefweken voor elk rapportagejaar als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047883&hoofdstuk=IV&artikel=19&z=2023-02-18&g=2023-02-18).
 
@@ -232,7 +254,7 @@ Voor de toepassing van [artikel 17 van het besluit](https://wetten.overheid.nl/j
 
 ### V. Slotbepaling
 
-#### Artikel 21. Citeertitel en inwerkingtreding
+##### Artikel 21. Citeertitel en inwerkingtreding
 
 1. Deze beleidsregel wordt aangehaald als Beleidsregel quota commerciële media-instellingen 2023.
 

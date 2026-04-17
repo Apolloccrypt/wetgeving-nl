@@ -1,13 +1,39 @@
 ---
-title: "Eindejaarsregeling 2025"
+title: "Regeling van de Staatssecretaris van Financiën van 24 december 2025 tot wijziging van onder meer enige uitvoeringsregelingen op het gebied van belastingen en toeslagen (Eindejaarsregeling 2025)"
 identifier: "BWBR0052073"
-categorie: "Overig"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052073"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052073"
+soort: "ministeriele-regeling"
+stam_id: "17706673"
+version_id: "31251832"
+internal_id: "C44690971"
+label_id: "17605594"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052073/2026-04-01/0"
+intitule_bron: "Stcrt.2025-42873"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-24"
+intitule_published: "2025-12-24"
+intitule_in_force: "2025-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-42873"
+original_signed_date: "2025-12-24"
+original_published_date: "2025-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-42873"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052073&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0052073&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Eindejaarsregeling 2025"
+signed_date: "2025-12-24"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Financiën van 24 december 2025 tot wijziging van onder meer enige uitvoeringsregelingen op het gebied van belastingen en toeslagen (Eindejaarsregeling 2025)
 
 Handelende wat [artikel 13 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13) betreft in overeenstemming met de Minister van Sociale Zaken en Werkgelegenheid;
@@ -16,83 +42,83 @@ Gelet op de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&arti
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Regeling loonbelasting- en premietabellen 1990.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Regeling gegevensuitvraag loonaangifte.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Regeling laagbelastende staten en niet-coöperatieve rechtsgebieden voor belastingdoeleinden.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Uitvoeringsregeling schenk- en erfbelasting.
 
-#### Artikel VII
+##### Artikel VII
 
 Ingeval [artikel 9, eerste lid, onderdeel g, van de Uitvoeringsregeling schenk- en erfbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0027018&artikel=9) toepassing vindt en de omzetting, bedoeld in dat onderdeel, voor 1 januari 2026 plaatsvond, wordt de periode, bedoeld in dat onderdeel, voor de erflater of schenker gesteld op een jaar, onderscheidenlijk vijf jaren.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Uitvoeringsregeling motorrijtuigenbelasting 1994.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto’s en motorrijwielen 1992.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Regeling elektronisch berichtenverkeer Belastingdienst.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Regeling aanwijzing rechtsgebieden Common Reporting Standard.
 
-#### Artikel XX
+##### Artikel XX
 
 - 1. Deze regeling treedt in werking met ingang van 1 januari 2026, met dien verstande dat [artikel I, onderdelen B, onder 1, subonderdeel a, C, eerste zin, en D](https://wetten.overheid.nl/jci1.3:c:BWBR0052073&artikel=I&z=2026-04-01&g=2026-04-01), en [artikel VI, onderdeel D, onder 5, eerste zin, 7, eerste zin, 8, eerste zin, en 9, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0052073&artikel=VI&z=2026-04-01&g=2026-04-01), en [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0052073&artikel=X&z=2026-04-01&g=2026-04-01) terugwerken tot en met 1 januari 2025.
 
@@ -102,6 +128,6 @@ Wijzigt de Regeling aanwijzing rechtsgebieden Common Reporting Standard.
 
 - 4. In afwijking van het eerste lid treedt [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0052073&artikel=XVIII&z=2026-04-01&g=2026-04-01) in werking op het tijdstip waarop het bij koninklijke boodschap van 6 oktober 2023 ingediende voorstel van wet tot wijziging van de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616) en enige andere wetten in verband met de invoering van regels voor het verlenen van toelating voor het ter beschikking stellen van arbeidskrachten ([Wet toelating terbeschikkingstelling van arbeidskrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0051817)) (Kamerstukken 36 446) tot wet is of wordt verheven en die wet in werking treedt.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Deze regeling wordt aangehaald als: Eindejaarsregeling 2025.

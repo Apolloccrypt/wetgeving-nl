@@ -1,52 +1,78 @@
 ---
-title: "Wijzigingsbesluit Besluit algemene regels voor inrichtingen milieubeheer, enz. (agrarische activiteiten in het Besluit algemene regels voor inrichtingen milieubeheer)"
+title: "Besluit van 14 september 2012 tot wijziging van het Besluit algemene regels voor inrichtingen milieubeheer (agrarische activiteiten in het Besluit algemene regels voor inrichtingen milieubeheer)"
 identifier: "BWBR0032049"
-categorie: "Milieu"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032049"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032049"
+soort: "AMvB"
+stam_id: "11861283"
+version_id: "19681012"
+internal_id: "C27916721"
+label_id: "11833454"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032049/2014-01-01/0"
+intitule_bron: "Stb.2012-441"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-09-14"
+intitule_published: "2012-10-01"
+intitule_in_force: "2012-12-18"
+intitule_status: "goed"
+original_publication: "Stb.2012-441"
+original_signed_date: "2012-09-14"
+original_published_date: "2012-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-441"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032049&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0032049&g=2014-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit algemene regels voor inrichtingen milieubeheer, enz. (agrarische activiteiten in het Besluit algemene regels voor inrichtingen milieubeheer)"
+signed_date: "2012-09-14"
+entry_into_force: "2013-01-01"
 ---
-
 # Besluit van 14 september 2012 tot wijziging van het Besluit algemene regels voor inrichtingen milieubeheer (agrarische activiteiten in het Besluit algemene regels voor inrichtingen milieubeheer)
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit algemene regels voor inrichtingen milieubeheer.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit omgevingsrecht.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Uitvoeringsbesluit Meststoffenwet.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit lozen buiten inrichtingen.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Waterbesluit.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit milieueffectrapportage.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit algemene regels milieu mijnbouw, het Besluit beheer autowrakken, het Besluit geluidhinder, het Besluit lozen buiten inrichtingen, het Besluit lozing afvalwater huishoudens, het Besluit omgevingsrecht, het Bouwbesluit 2012, het Invoeringsbesluit Waterwet, het Besluit uitvoering Crisis- en herstelwet, het Besluit OM-afdoening en het Vuurwerkbesluit.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Besluit beheer winningsafvalstoffen, het Besluit vrijstellingen stortverbod buiten inrichtingen en het Stortbesluit bodembescherming.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Besluit landbouw milieubeheer.
 
-#### Artikel X
+##### Artikel X
 
 1. Een omgevingsvergunning op grond van [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), die van kracht en onherroepelijk was onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032049&artikel=II&z=2014-01-01&g=2014-01-01), wordt, voor zover die omgevingsvergunning een activiteit betreft die in artikel II, onderdeel A, is aangewezen, gelijkgesteld met een omgevingsvergunning voor die activiteit op grond van artikel 2.1, eerste lid, aanhef en onder i, van die wet.
 
@@ -58,11 +84,11 @@ Wijzigt het Besluit landbouw milieubeheer.
 
 3. In gevallen als bedoeld in het tweede lid wordt een omgevingsvergunning op grond van [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), gelijkgesteld met een omgevingsvergunning voor de betrokken activiteit op grond van artikel 2.1, eerste lid, aanhef en onder i, van die wet, op het tijdstip waarop de omgevingsvergunning onherroepelijk is geworden. De voorschriften die aan die omgevingsvergunning zijn verbonden, worden overeenkomstig [artikel 6.1, eerste of derde lid, van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=6.1) aangemerkt als maatwerkvoorschriften.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Mijnbouwbesluit.
 
-#### Artikel XII
+##### Artikel XII
 
 1. De volgende besluiten worden ingetrokken:
 
@@ -80,7 +106,7 @@ Wijzigt het Mijnbouwbesluit.
 
 2. Wijzigt het Activiteitenbesluit milieubeheer.
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan en voor verschillende categorieën van inrichtingen verschillend kan worden vastgesteld.
 

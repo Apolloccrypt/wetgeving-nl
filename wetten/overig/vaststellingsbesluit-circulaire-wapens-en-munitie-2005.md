@@ -1,28 +1,53 @@
 ---
-title: "Vaststellingsbesluit Circulaire wapens en munitie 2005"
+title: "Besluit van de Minister van Justitie houdende vaststelling van de Circulaire wapens en munitie 2005"
 identifier: "BWBR0018589"
-categorie: "Overig"
-publicatiedatum: 2005-08-01
-laatste_update: 2005-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018589"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-08-01"
+last_updated: "2005-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018589"
+soort: "ministeriele-regeling"
+stam_id: "7164443"
+version_id: "12079292"
+internal_id: "C16195901"
+label_id: "7152334"
+original_entry_into_force: "2005-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018589/2005-08-01/0"
+intitule_bron: "Stcrt.2005-138"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-07-11"
+intitule_published: "2005-07-20"
+intitule_in_force: "2005-07-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-138"
+original_signed_date: "2005-07-11"
+original_published_date: "2005-07-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-138-p7-SC70786"
+entry_into_force_date: "2005-08-01"
+jci_1_3: "jci1.3:c:BWBR0018589&z=2005-08-01&g=2005-08-01"
+jci_1_0: "1.0:c:BWBR0018589&g=2005-08-01"
+citeertitel_status: "redactioneel"
+short_title: "Vaststellingsbesluit Circulaire wapens en munitie 2005"
+signed_date: "2005-07-11"
+entry_into_force: "2005-08-01"
 ---
-
 # Besluit van de Minister van Justitie houdende vaststelling van de Circulaire wapens en munitie 2005
 
 Gelet op [artikel 38, tweede lid, van de Wet wapens en munitie (Stb. 1997, 292)](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=38), laatstelijk gewijzigd bij de wet van 24 juni 2004 (Stb. 2004, 290);
 
 Besluit :
 
-#### Artikel 1
+##### Artikel 1
 
 Vastgesteld wordt de Circulaire wapens en munitie 2005, overeenkomstig de bij dit besluit gevoegde bijlage.
 
-#### Artikel 2
+##### Artikel 2
 
 De [Circulaire wapens en munitie 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008876), vastgesteld bij beschikking van 20 augustus 1997, nr. 648084/DBZ/97, wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 De vaststelling van de circulaire, alsmede de inhoudsopgave van de circulaire worden in de Staatscourant bekend gemaakt. De circulaire en de daarbij behorende bijlagen liggen ter inzage bij de Dienst Justis van het Ministerie van Justitie en zijn tevens te downloaden van de website van het Ministerie van Justitie.
 

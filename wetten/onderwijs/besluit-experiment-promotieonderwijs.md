@@ -1,13 +1,39 @@
 ---
-title: "Besluit experiment promotieonderwijs"
+title: "Besluit van 23 december 2015, houdende bepalingen voor een experiment met het oog op verbetering van de toegankelijkheid en de doelmatigheid van het hoger onderwijs door invoering van promotieonderwijs (Besluit experiment promotieonderwijs)"
 identifier: "BWBR0037507"
-categorie: "Onderwijs"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037507"
+country: "nl"
+rank: "amvb"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037507"
+soort: "AMvB"
+stam_id: "13384403"
+version_id: "22952972"
+internal_id: "C33181851"
+label_id: "13352214"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037507/2019-01-01/0"
+intitule_bron: "Stb.2016-3"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-23"
+intitule_published: "2016-01-08"
+intitule_in_force: "2016-01-08"
+intitule_status: "goed"
+original_publication: "Stb.2016-3"
+original_signed_date: "2015-12-23"
+original_published_date: "2016-01-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2016-3"
+entry_into_force_date: "2016-01-09"
+jci_1_3: "jci1.3:c:BWBR0037507&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0037507&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit experiment promotieonderwijs"
+signed_date: "2015-12-23"
+entry_into_force: "2016-01-09"
 ---
-
 # Besluit van 23 december 2015, houdende bepalingen voor een experiment met het oog op verbetering van de toegankelijkheid en de doelmatigheid van het hoger onderwijs door invoering van promotieonderwijs (Besluit experiment promotieonderwijs)
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 1 juli 2015, nr. WJZ/ 777029 (10335), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Economische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -44,25 +70,25 @@ In dit besluit wordt verstaan onder:
 
 - i. **onderwijsgebied:** één van de gebieden van onderwijs: onderwijs, landbouw en natuurlijke omgeving, techniek, recht, taal en cultuur, en gezondheidszorg genoemd in [artikel 6.13, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
 
-#### Artikel 2. Doel van het experiment
+##### Artikel 2. Doel van het experiment
 
 Het doel van het experiment is te onderzoeken of met een nieuw promotietraject als derde cyclus in het bachelor-mastersysteem, zoals dat in de Bologna-verklaring wordt beschreven, het aantal gepromoveerden aan universiteiten wordt vergroot, de mogelijkheid voor promovendi om eigen onderzoeksvoorstellen in te dienen en te realiseren toeneemt en de positie van gepromoveerden op de arbeidsmarkt wordt verbeterd en daarmee de kennissamenleving verder kan worden ontwikkeld.
 
-#### Artikel 3. Afwijkingen van de wet
+##### Artikel 3. Afwijkingen van de wet
 
 Met dit besluit wordt afgeweken van de [artikelen 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3), [7.45a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.45a), [7.51](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51), [7.51c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51c), [7.51f](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51f), [7.51g](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51g), [9.38](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.38) en [11.13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=11.13).
 
-#### Artikel 4. Duur van het experiment
+##### Artikel 4. Duur van het experiment
 
 Het experiment duurt van 1 september 2016 tot en met 31 augustus 2024.
 
-#### Artikel 5. Inhoud en omvang van het experiment
+##### Artikel 5. Inhoud en omvang van het experiment
 
 1. Onze Minister kan aan een universiteit op aanvraag toestemming verlenen voor het verzorgen van promotieonderwijs en het financieel ondersteunen van de promotiestudent uit het profileringsfonds.
 
 2. Universiteiten kunnen deelnemen aan het experiment voor zover het totaal aantal promotiestudenten dat onder de werking van dit besluit valt niet meer bedraagt dan 2000.
 
-#### Artikel 6. Aanvraag deelname aan het experiment
+##### Artikel 6. Aanvraag deelname aan het experiment
 
 1. Een instellingsbestuur dient een aanvraag tot deelname aan het experiment uiterlijk 15 maart 2016 in.
 
@@ -84,13 +110,13 @@ Het experiment duurt van 1 september 2016 tot en met 31 augustus 2024.
 
 - b. een verklaring van de medezeggenschaporganen, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037507&hoofdstuk=1&artikel=11&z=2019-01-01&g=2019-01-01), dat zij instemmen met deze regels.
 
-#### Artikel 7. Beslissing op de aanvraag
+##### Artikel 7. Beslissing op de aanvraag
 
 1. Onze Minister besluit binnen zes weken na afloop van de uiterste aanvraagdatum.
 
 2. Onze Minister verleent toestemming voor deelname aan het experiment wanneer de regels voor promotieonderwijs en voor financiële ondersteuning voldoen aan voorwaarden genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037507&hoofdstuk=1&artikel=9&z=2019-01-01&g=2019-01-01).
 
-#### Artikel 8. Rechten en plichten ten aanzien van de in- en uitstroom van promotiestudenten
+##### Artikel 8. Rechten en plichten ten aanzien van de in- en uitstroom van promotiestudenten
 
 1. Bij de beschikking waarbij toestemming voor deelname aan het experiment wordt verleend stelt Onze Minister het aantal promovendi vast dat ten hoogste tot het promotieonderwijs bij de universiteit kan worden toegelaten. Dat aantal kan lager zijn dan het door het instellingsbestuur in het in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037507&hoofdstuk=1&artikel=6&z=2019-01-01&g=2019-01-01), bedoelde aanvraag genoemde aantal.
 
@@ -98,7 +124,7 @@ Het experiment duurt van 1 september 2016 tot en met 31 augustus 2024.
 
 3. De deelnemende universiteit stelt de door hem toegelaten promotiestudent, die op het moment van al dan niet voortijdige beëindiging van het experiment nog geen toegang heeft tot de promotie, in de gelegenheid om het promotietraject af te ronden als werknemer van de universiteit.
 
-#### Artikel 9. Rechten en plichten vormgeving promotieonderwijs en financiële ondersteuning
+##### Artikel 9. Rechten en plichten vormgeving promotieonderwijs en financiële ondersteuning
 
 1. Het instellingsbestuur stelt regels voor promotieonderwijs. Tot die regels behoren in ieder geval:
 
@@ -118,7 +144,7 @@ Het experiment duurt van 1 september 2016 tot en met 31 augustus 2024.
 
 5. De bijzondere omstandigheden, genoemd in [artikel 7.51, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51) zijn van overeenkomstige toepassing op de promotiestudent ingeval zijn promotie vertraging oploopt of naar verwachting zal oplopen.
 
-#### Artikel 10. Rechten promotiestudent
+##### Artikel 10. Rechten promotiestudent
 
 Op de promotiestudent zijn van overeenkomstige toepassing:
 
@@ -128,13 +154,13 @@ Op de promotiestudent zijn van overeenkomstige toepassing:
 
 - c. [de titels 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&titeldeel=2) en [3 van hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&titeldeel=3) en [artikel 11.13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=11.13), voor zover betrekking hebbende op medezeggenschap en voor de toepassing waarvan de promotiestudent wordt beschouwd als een student, ingeschreven voor een opleiding.
 
-#### Artikel 11. Medezeggenschap
+##### Artikel 11. Medezeggenschap
 
 1. Het instellingsbestuur behoeft voorafgaande instemming van de faculteitsraad, bedoeld in [artikel 9.37, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.37), voor elk door hem te nemen besluit tot het vaststellen van de regels, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037507&hoofdstuk=1&artikel=9&z=2019-01-01&g=2019-01-01).
 
 2. Het instellingsbestuur behoeft de voorafgaande instemming van de universiteitsraad dan wel, indien het college van bestuur heeft besloten dat de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) met uitzondering van [hoofdstuk VII B](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&hoofdstuk=VII_B) van toepassing is, de gezamenlijke vergadering van de ondernemingsraad respectievelijk het orgaan, dat op grond van een door het instellingsbestuur vastgestelde medezeggenschapsregeling ten behoeve van de studenten van de Open Universiteit is ingesteld, voor elk door hem te nemen besluit met betrekking tot het vaststellen van de regels, bedoeld in [artikel 9, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037507&hoofdstuk=1&artikel=9&z=2019-01-01&g=2019-01-01).
 
-#### Artikel 12. Overige verplichtingen voor de deelnemende universiteit
+##### Artikel 12. Overige verplichtingen voor de deelnemende universiteit
 
 1. Aan de toestemming, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037507&hoofdstuk=1&artikel=5&z=2019-01-01&g=2019-01-01), zijn voor de universiteit voorts de volgende verplichtingen verbonden:
 
@@ -156,7 +182,7 @@ Op de promotiestudent zijn van overeenkomstige toepassing:
 
 2. Onze Minister kan aan de toestemming andere, op de individuele universiteit afgestemde, voorwaarden verbinden.
 
-#### Artikel 13. Evaluatie
+##### Artikel 13. Evaluatie
 
 1. Onze Minister evalueert eind 2021 het experiment, mede op basis van de jaarverslagen, het eindverslag en de overige informatie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037507&hoofdstuk=1&artikel=12&z=2019-01-01&g=2019-01-01).
 
@@ -184,17 +210,17 @@ Op de promotiestudent zijn van overeenkomstige toepassing:
 
 4. Onze Minister voert twee jaar na inwerkingtreding van dit besluit een tussentijdse evaluatie uit.
 
-#### Artikel 14. Handhaving en beëindiging
+##### Artikel 14. Handhaving en beëindiging
 
 1. Onze Minister kan de toestemming, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037507&hoofdstuk=1&artikel=5&z=2019-01-01&g=2019-01-01), intrekken, indien een universiteit de voorschriften van dit besluit of de beschikking niet naar behoren naleeft.
 
 2. Onze Minister kan besluiten dat het experiment geheel of gedeeltelijk wordt beëindigd, indien het experiment ernstige nadelige effecten op het onderzoeksklimaat bij een of meer universiteiten tot gevolg heeft.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit experiment promotieonderwijs.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt gepubliceerd en vervalt met ingang van 1 september 2024.
 

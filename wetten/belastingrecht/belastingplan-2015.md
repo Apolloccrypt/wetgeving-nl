@@ -1,180 +1,208 @@
 ---
-title: "Belastingplan 2015"
+title: "Wet van 17 december 2014 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2015)"
 identifier: "BWBR0036024"
-categorie: "Belastingrecht"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036024"
+country: "nl"
+rank: "wet"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036024"
+soort: "wet"
+stam_id: "12909743"
+version_id: "22835012"
+internal_id: "C32999971"
+label_id: "12879354"
+dtd_version: "2.0"
+original_entry_into_force: "2015-11-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036024/2018-01-01/0"
+intitule_bron: "Stb.2014-578"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-17"
+intitule_published: "2014-12-29"
+intitule_in_force: "2014-12-29"
+intitule_status: "goed"
+original_publication: "Stb.2015-455"
+original_signed_date: "2015-11-25"
+original_published_date: "2015-12-02"
+original_effect: "structuurwijziging"
+original_dossier: "34220"
+original_url_id: "stb-2015-455"
+entry_into_force_date: "2015-11-25"
+entry_into_force_dossier: "34220"
+jci_1_3: "jci1.3:c:BWBR0036024&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0036024&g=2018-01-01"
+citeertitel_status: "officieel"
+short_title: "Belastingplan 2015"
+signed_date: "2015-11-25"
+entry_into_force: "2015-11-25"
 ---
+# Wet van 17 december 2014 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2015)
 
-# Belastingplan 2015
-
-#### Artikel I
-
-Wijzigt de Wet inkomstenbelasting 2001.
-
-#### Artikel II
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel III
+##### Artikel II
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel IV
+##### Artikel III
+
+Wijzigt de Wet inkomstenbelasting 2001.
+
+##### Artikel IV
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel V
+##### Artikel V
 
 [**Vervallen**]
 
-#### Artikel VI
+##### Artikel VI
 
 Onze Minister van Financiën zendt binnen vier jaar na de inwerkingtreding van [artikel IV, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0036024&artikel=IV&z=2018-01-01&g=2018-01-01), aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van [artikel 31a, tweede lid, onderdeel g, zevende lid en achtste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a).
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel IXa
+##### Artikel IXa
 
 Wijzigt de Wet op de kansspelbelasting.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Successiewet 1956.
 
-#### Artikel Xa
+##### Artikel Xa
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel XI
+##### Artikel XI
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Pensioenwet.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Wet verplichte beroepspensioenregeling.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Verzamelwet pensioenen 2014.
 
-#### Artikel XXIVa
+##### Artikel XXIVa
 
 Wijzigt de Wet beloningsbeleid financiële ondernemingen.
 
-#### Artikel XXIVb
+##### Artikel XXIVb
 
 Wijzigt de Wet beloningsbeleid financiële ondernemingen.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Wet op het kindgebonden budget.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Wet op de rechtsbijstand.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Mijnbouwwet.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Wijzigt het Belastingplan 2010.
 
-#### Artikel XXX
+##### Artikel XXX
 
 Wijzigt het Belastingplan 2011.
 
-#### Artikel XXXa
+##### Artikel XXXa
 
 Wijzigt de Wet uitwerking autobrief.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 Wijzigt de Fiscale verzamelwet 2013.
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 Wijzigt het Belastingplan 2014.
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 Wijzigt de Wet maatregelen woningmarkt 2014 II.
 
-#### Artikel XXXIV
+##### Artikel XXXIV
 
 [Artikel 90 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=90) vindt bij het begin van het kalenderjaar 2015 geen toepassing op de bedragen, genoemd in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), [59, eerste lid, onderdeel a, tweede en derde aandachtsstreepje, en onderdeel c, tweede en derde aandachtsstreepje](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), en [artikel 60, eerste lid, derde aandachtsstreepje, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60).
 
-#### Artikel XXXV
+##### Artikel XXXV
 
 Met betrekking tot beschikkingen als bedoeld in [artikel 28c, eerste lid, van de Invorderingswet 1990](77609) met een dagtekening vóór 1 januari 2015 eindigt de termijn, bedoeld in het derde lid van dat artikel, in afwijking van genoemd derde lid, zes weken na de datum van inwerkingtreding van deze wet.
 
-#### Artikel XXXVI
+##### Artikel XXXVI
 
 Ingeval de samenloop van wetten die in 2014 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in een of meer belastingwetten, niet of niet juist is geregeld, of indien als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, kunnen die wetten op dit punt bij ministeriële regeling worden gewijzigd.
 
-#### Artikel XXXVII
+##### Artikel XXXVII
 
 1. Deze wet treedt in werking met ingang van 1 januari 2015, met dien verstande dat:
 
@@ -218,7 +246,7 @@ Ingeval de samenloop van wetten die in 2014 in het Staatsblad zijn of worden gep
 
 8. In afwijking van het eerste lid treedt [artikel XV, onderdeel F, onder 3, en onderdeel Ic](https://wetten.overheid.nl/jci1.3:c:BWBR0036024&artikel=XV&z=2018-01-01&g=2018-01-01), in werking op 1 januari 2018 en werkt terug tot en met 1 januari 2015.
 
-#### Artikel XXXVIII
+##### Artikel XXXVIII
 
 Deze wet wordt aangehaald als: Belastingplan 2015.
 
@@ -230,7 +258,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel XXXIVa
+##### Artikel XXXIVa
 
 Voor zover een renteperiode waarover ingevolge de [artikelen 30h](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30h) en [30ha van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30ha) met betrekking tot een naheffingsaanslag ter zake van dividendbelasting belastingrente in rekening wordt gebracht, onderscheidenlijk met betrekking tot een teruggaafbeschikking ter zake van dividendbelasting belastingrente wordt vergoed, is gelegen vóór 1 januari 2013, is in afwijking van [artikel 30hb, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30hb) de regeling inzake het rentepercentage van de heffingsrente van [artikel 30f, vijfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30f), zoals dat luidde op 31 december 2012, van toepassing.
 

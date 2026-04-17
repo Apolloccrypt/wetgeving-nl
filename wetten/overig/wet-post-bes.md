@@ -1,18 +1,43 @@
 ---
 title: "Wet post BES"
 identifier: "BWBR0028263"
-categorie: "Overig"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028263"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028263"
+soort: "wet-BES"
+stam_id: "10726823"
+version_id: "17697092"
+internal_id: "C24773871"
+label_id: "10701704"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028263/2019-01-01/0"
+intitule_bron: "Stb.2010-439"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-14"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-439"
+original_signed_date: "2010-09-14"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-439"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028263&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0028263&g=2019-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-14"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet post BES
 
 ### Hoofdstuk I. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,7 +59,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk II. Bepalingen inzake het vervoer van postzendingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Ter waarborging van een goede dienstverlening ter zake van het vervoer van postzendingen op en tussen het grondgebied van de openbare lichamen, van en naar Nederland en van en naar Aruba, Curaçao en Sint Maarten, alsmede van en naar het buitenland wordt aan een door Onze Minister aan te wijzen rechtspersoon met uitsluiting van anderen voor de duur van ten minste 10 jaar concessie verleend voor:
 
@@ -52,7 +77,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De houder van concessies weigert het vervoer van een postzending indien het vervoer strijdig is met enig wettelijk voorschrift of gevaar oplevert voor personen of zaken en kan het vervoer weigeren indien het vervoer strijdig is met de eisen die met het oog op een doelmatig vervoer in algemene voorwaarden worden gesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De houder van de concessie is gehouden bij de uitvoering van de ingevolge deze wet op hem rustende verplichtingen terzake van het internationale vervoer van postzendingen de voor de Nederland bindende verplichtingen na te komen, die voortvloeien uit de akten van de Wereldpostunie dan wel uit andere verdragen of besluiten van volkenrechtelijke organisaties.
 
@@ -64,7 +89,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. het verlenen van de nodige medewerking aan Onze Minister en Onze Minister van Buitenlandse Zaken bij de voorbereiding van verdragen en besluiten als bedoeld in het eerste lid en het in verband daarmee te voeren internationale overleg.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De houder van de concessie kan de uitvoering van de ingevolge deze wet op hem rustende verplichtingen geheel of gedeeltelijk doen geschieden door een rechtspersoon, waarvan de houder van de concessie tenminste 51 ten honderd van het geplaatste kapitaal bezit en waarin de houder van de concessie de bevoegdheid heeft de meerderheid van de bestuurders van de rechtspersoon te benoemen, te schorsen en te ontslaan.
 
@@ -74,7 +99,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij toepassing van het eerste lid geldt het in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=7&z=2019-01-01&g=2019-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=8&z=2019-01-01&g=2019-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=11&z=2019-01-01&g=2019-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2019-01-01&g=2019-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=13&z=2019-01-01&g=2019-01-01) met betrekking tot de houder van de concessie bepaalde mede ten aanzien van de in het eerste lid bedoelde rechtspersoon.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een concessie wordt verleend onder voorwaarden welke de houder van de concessie bij de uitvoering van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2019-01-01&g=2019-01-01), gehouden is op te volgen. In plaats van concessievoorwaarden kan Onze Minister aan de houder van de concessie algemene richtlijnen geven die hij bij de uitvoering van genoemde artikelen gehouden is op te volgen.
 
@@ -98,11 +123,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Een besluit tot vaststelling of wijziging van de concessievoorwaarden of algemene richtlijnen wordt genomen met inachtneming van een bedrijfsmatige en op continuïteit gerichte exploitatie door de houder van de concessie.
 
-#### Artikel 6
+##### Artikel 6
 
 Een besluit tot wijziging van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=5&z=2019-01-01&g=2019-01-01) bedoelde richtlijnen wordt niet eerder van kracht dan een jaar na de vaststelling van dit besluit, tenzij een bij dit besluit aan te geven algemeen belang zulks dringend vordert of de houder van de concessie instemt dat de wijziging eerder van kracht wordt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De houder van de concessie is voor schade als gevolg van verlies, beschadiging of vertraagde aflevering van postzendingen op en tussen het grondgebied van de openbare lichamen slechts aansprakelijk indien door de afzender gebruik wordt gemaakt van een wijze van vervoer waarbij de postzending volgens daartoe in de algemene voorwaarden te stellen regels wordt geregistreerd.
 
@@ -126,7 +151,7 @@ Een besluit tot wijziging van de in [artikel 5](https://wetten.overheid.nl/jci1.
 
 6. Ter zake van het internationale vervoer van postzendingen als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2019-01-01&g=2019-01-01), is de houder van de concessie slechts aansprakelijk overeenkomstig de bepalingen van de akten van de Wereldpostunie dan wel andere voor Nederland bindende verdragen of besluiten van volkenrechtelijke organisaties.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De gezagvoerders van vertrekkende schepen en luchtvaartuigen zijn verplicht zich te belasten met het vervoer – tegen vergoeding – van stukken en pakketten, hetwelk hun door de houder van de concessie wordt opgedragen, voor zover bij andere wettelijke regelingen geen kosteloos vervoer is verplicht gesteld.
 
@@ -144,21 +169,21 @@ Een besluit tot wijziging van de in [artikel 5](https://wetten.overheid.nl/jci1.
 
 8. Overeenkomsten betreffende het postvervoer kunnen worden aangegaan voor een termijn van ten hoogste vijf jaren.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Minister kan ter bevordering van de aflevering aan geadresseerden van voor hen bestemde postzendingen regels vaststellen omtrent plaats, afmetingen en andere hoedanigheden van de voor die aflevering bestemde brievenbussen.
 
 2. Postzendingen die naar hun aard en omvang in aanmerking komen voor aflevering in brievenbussen als bedoeld in het eerste lid, kunnen als onbestelbaar worden aangemerkt indien het opgegeven adres niet beschikt over een brievenbus die aan de krachtens het eerste lid gestelde regels voldoet.
 
-#### Artikel 10
+##### Artikel 10
 
 Onbestelbare gesloten postzendingen die niet aan de afzender kunnen worden teruggegeven kunnen slechts geopend worden op last van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba, zulks uitsluitend ter opsporing van de voor teruggave of aflevering nodige gegevens.
 
-#### Artikel 11
+##### Artikel 11
 
 Beslag op postzendingen welke ten vervoer aan de houder van de concessie zijn toevertrouwd, is slechts toegelaten in de gevallen waarin bij wet een zodanig beslag uitdrukkelijk is geregeld.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het is anders dan krachtens de concessie verboden tegen vergoeding brieven die elk afzonderlijk ten hoogste 2000 gram wegen te vervoeren.
 
@@ -194,7 +219,7 @@ Beslag op postzendingen welke ten vervoer aan de houder van de concessie zijn to
 
 - b. als tegemoetkoming in de kosten die met de registratie zijn gemaakt en het toezicht op de naleving van het bepaalde in het tweede lid, onderdeel a, jaarlijks een door Onze Minister te bepalen vergoeding te betalen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Minister is bevoegd om voor bijzondere omstandigheden, waarin de houder van de concessie niet voorziet in het vervoer van brieven die elk afzonderlijk ten hoogste 2000 gram wegen, aan anderen dan de houder van de concessie van het verbod bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2019-01-01&g=2019-01-01), ontheffing te verlenen onder door Onze Minister daaraan te verbinden voorschriften en beperkingen, welke in verband met de bijzondere omstandigheden redelijkerwijze nodig zijn.
 
@@ -202,7 +227,7 @@ Beslag op postzendingen welke ten vervoer aan de houder van de concessie zijn to
 
 ### Hoofdstuk III. Vergoedingen
 
-#### Artikel 14
+##### Artikel 14
 
 1. De houder van de concessie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2019-01-01&g=2019-01-01), de vervoerder, bedoeld in [artikel 12, tweede lid, onderdeel a, sub 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2019-01-01&g=2019-01-01), en de houder van een ontheffing als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=13&z=2019-01-01&g=2019-01-01), zijn ter dekking van de kosten die verband houden met de werkzaamheden van Onze Minister, of de bestuursorganen of het college genoemd in [artikel 2 van de Wet Onafhankelijke post- en telecommunicatieautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0008807&artikel=2), bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=VII&artikel=27&z=2019-01-01&g=2019-01-01), jaarlijks een vergoeding verschuldigd voor zover deze kosten niet reeds krachtens artikel 13, tweede lid, verschuldigd zijn.
 
@@ -214,7 +239,7 @@ Beslag op postzendingen welke ten vervoer aan de houder van de concessie zijn to
 
 ### Hoofdstuk IV. Handhaving
 
-#### Artikel 15
+##### Artikel 15
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de daartoe door Onze Minister aangewezen personen. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
@@ -232,7 +257,7 @@ Beslag op postzendingen welke ten vervoer aan de houder van de concessie zijn to
 
 8. Het verzet schorst de tenuitvoeringlegging. Op verzoek van Nederland kan de rechter de schorsing van de tenuitvoerlegging opheffen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het is anders dan krachtens de concessie verboden postzegels of postzegelafdrukken te vervaardigen, te verspreiden of ter verspreiding in voorraad te hebben met daarop een afbeelding van de Koning dan wel de vermelding Nederland.
 
@@ -240,7 +265,7 @@ Beslag op postzendingen welke ten vervoer aan de houder van de concessie zijn to
 
 3. Het is verboden zegels, zegelafdrukken, stempelafdrukken of aanduidingen op zodanige wijze te bezigen, dat zij ten onrechte de indruk kunnen wekken, dat de bescheiden of voorwerpen, waarop zij voorkomen, door de houder van de concessie behandeld of van de houder van de concessie afkomstig zijn.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Overtreding van de [artikel 8, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=8&z=2019-01-01&g=2019-01-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2019-01-01&g=2019-01-01) en [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=IV&artikel=16&z=2019-01-01&g=2019-01-01), wordt gestraft met hechtenis van ten hoogste vijf maanden of een geldboete van USD 5.600.
 
@@ -258,7 +283,7 @@ Beslag op postzendingen welke ten vervoer aan de houder van de concessie zijn to
 
 5. De strafbare feiten in deze wet, worden beschouwd als overtredingen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496) bedoelde ambtenaren, belast de daartoe door Onze Minister, in overeenstemming met Onze Minister van Veiligheid en Justitie aangewezen personen. Een zodanige aanwijzing wordt bekend gemaakt in de Staatscourant. Zij zijn bevoegd tot aanhouding en visitatie van vaar- en voertuigen waarmede de overtreding vermoed wordt te zijn begaan.
 
@@ -268,19 +293,19 @@ Beslag op postzendingen welke ten vervoer aan de houder van de concessie zijn to
 
 ### Hoofdstuk V. Overige bepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 In bijzondere omstandigheden in verband met de handhaving van de internationale rechtsorde of met de internationale betrekking is Onze Minister bevoegd om in overeenstemming met Onze Minister van Buitenlandse Zaken aan de houder van de concessie of het openbaar lichaam aanwijzingen te geven met betrekking tot het vervoer van postzending van en naar het buitenland.
 
-#### Artikel 20
+##### Artikel 20
 
 De afbeelding van de Koning op een postzegel of postzegelafdruk behoeft diens goedkeuring.
 
-#### Artikel 21
+##### Artikel 21
 
 Alle bescheiden, welke door de houder van de concessie bij de uitvoering van de postdienst worden gebezigd voor handelingen ten behoeve van de gebruikers van de dienst of hun gemachtigden zijn vrij van zegel mits deze bestemming uit de stukken blijkt.
 
-#### Artikel 22
+##### Artikel 22
 
 Bij de voorbereiding van besluiten als bedoeld in de [artikel 2, tweede lid, aanhef onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2019-01-01&g=2019-01-01), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=3&z=2019-01-01&g=2019-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=5&z=2019-01-01&g=2019-01-01), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=7&z=2019-01-01&g=2019-01-01), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=9&z=2019-01-01&g=2019-01-01), [12, tweede lid, onderdeel a, ten 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2019-01-01&g=2019-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=III&artikel=14&z=2019-01-01&g=2019-01-01), of wijzigingen van die besluiten, voert Onze Minister tijdig overleg met de houder van de concessie.
 
@@ -288,11 +313,11 @@ Bij de voorbereiding van besluiten als bedoeld in de [artikel 2, tweede lid, aan
 
 ### Hoofdstuk VII. Overgangs- en slotbepalingen
 
-#### Artikel 26
+##### Artikel 26
 
 Gerechtelijke procedures die zijn aangevangen vóór het tijdstip van het in werking treden van deze wet en die op dat tijdstip nog niet zijn afgerond, worden afgehandeld met inachtneming van de bepalingen van de Postlandsverordening 1998 en de daarop berustende bepalingen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen over de in deze wet geregelde onderwerpen, in het kader van de goede uitvoering van deze wet, nadere regels worden gesteld. Voorts kunnen bij algemene maatregel van bestuur regels worden gesteld waarbij artikelen van de [Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) geheel of gedeeltelijk van toepassing worden verklaard op een openbaar lichaam, dan wel regels worden gesteld die overeenkomen met de in die wet geregelde onderwerpen.
 
@@ -300,13 +325,13 @@ Gerechtelijke procedures die zijn aangevangen vóór het tijdstip van het in wer
 
 3. Bij algemene maatregel van bestuur kunnen taken worden opgedragen en bevoegdheden worden verleend aan de Autoriteit Consument en Markt of aan een of meer bestuursorganen van een openbaar lichaam.
 
-#### Artikel 27a
+##### Artikel 27a
 
 1. Een concessie die is verleend krachtens artikel 2, eerste lid, van Postlandsverordening 1998, wordt gelijkgesteld met een concessie verleend krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2019-01-01&g=2019-01-01), en heeft een geldigheidsduur tot 31 december 2012. Indien het belang van de continuïteit van de postvoorziening dat vordert kan de concessie eenmaal met een periode van maximaal 3 jaar worden verlengd. Aan de verlenging kunnen voorwaarden worden verbonden.
 
 2. Voor de houder van een concessie als bedoeld in het eerste lid blijft het bepaalde bij of krachtens de artikelen 3 en 5 van Postlandsverordening 1998 van toepassing met dien verstande dat nieuwe concessievoorwaarden kunnen worden gegeven en bestaande voorwaarden kunnen worden gewijzigd.
 
-#### Artikel 27b
+##### Artikel 27b
 
 1. Een registratie die is verleend krachtens artikel 12, tweede lid, onderdeel a, sub 2, van Postlandsverordening 1998, wordt gelijkgesteld met een registratie verleend krachtens [artikel 12, tweede lid, onderdeel a, sub 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2019-01-01&g=2019-01-01).
 
@@ -314,6 +339,6 @@ Gerechtelijke procedures die zijn aangevangen vóór het tijdstip van het in wer
 
 3. Bij algemene maatregel van bestuur kan de termijn worden vastgesteld gedurende welke een registratie of een ontheffing als bedoeld in het eerste lid onderscheidenlijk het tweede lid geldt.
 
-#### Artikel 28
+##### Artikel 28
 
 Deze wet wordt aangehaald als: Wet post BES.

@@ -1,13 +1,38 @@
 ---
 title: "Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers"
 identifier: "BWBR0008406"
-categorie: "Overig"
-publicatiedatum: 2015-06-24
-laatste_update: 2015-06-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008406"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-06-24"
+last_updated: "2015-06-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008406"
+soort: "ministeriele-regeling"
+stam_id: "5688793"
+version_id: "10182722"
+internal_id: "C13751161"
+label_id: "5669284"
+dtd_version: "2.0"
+original_entry_into_force: "1998-12-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008406/2015-06-24/0"
+intitule_bron: "Stcrt.1996-244"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-12-11"
+intitule_published: "1996-12-17"
+intitule_in_force: "1996-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-240"
+original_signed_date: "1998-12-14"
+original_published_date: "1998-12-16"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-1998-241-p8-SC16700"
+entry_into_force_date: "1998-12-05"
+jci_1_3: "jci1.3:c:BWBR0008406&z=2015-06-24&g=2015-06-24"
+jci_1_0: "1.0:c:BWBR0008406&g=2015-06-24"
+citeertitel_status: "officieel"
+signed_date: "1998-12-14"
+entry_into_force: "1998-12-05"
 ---
-
 # Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers
 
 Gelet op [artikel 21 van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223);
@@ -18,7 +43,7 @@ Abusievelijk is een wijzigingsopdracht geformuleerd die niet geheel juist is.
 
 ### Hoofdstuk 1. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +63,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Voorzieningenpakket
 
-#### Artikel 2
+##### Artikel 2
 
 Voorzieningen worden verleend in de vorm van:
 
@@ -72,7 +97,7 @@ Voorzieningen worden verleend in de vorm van:
 
 - d. bijzondere voorzieningen als bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=5&z=2015-06-24&g=2015-06-24).
 
-#### Artikel 3
+##### Artikel 3
 
 Een voorziening als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=2&artikel=2&z=2015-06-24&g=2015-06-24) wordt slechts verleend indien:
 
@@ -90,7 +115,7 @@ Een voorziening als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:B
 
 ### Hoofdstuk 3. Leefvoorzieningen
 
-#### Artikel 4
+##### Artikel 4
 
 Onder leefvoorzieningen die betrekking hebben op verplaatsing per taxi of auto worden verstaan:
 
@@ -142,7 +167,7 @@ Onder leefvoorzieningen die betrekking hebben op verplaatsing per taxi of auto w
 
 - i. de financiële vergoeding van de kosten van het rij-examen; deze vergoeding kan worden toegekend aan de betrokkene of aan diens begeleider in de meerijsituatie.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De in [artikel 4, onderdeel a, , en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2015-06-24&g=2015-06-24), bedoelde voorzieningen worden toegekend tot maximaal 10.000 kilometers.
 
@@ -154,7 +179,7 @@ Onder leefvoorzieningen die betrekking hebben op verplaatsing per taxi of auto w
 
 5. De in [artikel 4 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2015-06-24&g=2015-06-24), bedoelde voorzieningen worden toegekend indien op grond van psychische klachten invaliditeit is aangenomen en het niet toekennen van die voorziening medisch aantoonbaar zou leiden tot mobiliteitsbeperkingen met dreigende psychische decompensatie tot gevolg, dan wel tot een ernstige bestaansverschraling met een verstoring van het psychische evenwicht. Voor toekenning is een medische onderbouwing met medewerking van psychiatrische expertise noodzakelijk.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor de vaststelling van het recht op een voorziening als bedoeld in [artikel 4, onderdeel a tot en met c, en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2015-06-24&g=2015-06-24), is de hoogte van het inkomen van de betrokkene bepalend.
 
@@ -196,7 +221,7 @@ Onder leefvoorzieningen die betrekking hebben op verplaatsing per taxi of auto w
 
 10. In afwijking van het achtste lid kan de tussentijdse verlaging op een vroeger tijdstip ingaan indien de betrokkene zijn informatieplicht, bedoeld in het negende lid niet is nagekomen.
 
-#### Artikel 7
+##### Artikel 7
 
 Onder leefvoorzieningen die betrekking hebben op verplaatsing binnenshuis en buitenshuis per rolstoel worden verstaan:
 
@@ -224,7 +249,7 @@ Onder leefvoorzieningen die betrekking hebben op verplaatsing binnenshuis en bui
 
 - 4. het onderhoud en de reparatie van een sportrolstoel.
 
-#### Artikel 8
+##### Artikel 8
 
 Onder leefvoorzieningen die betrekking hebben op wonen wordt verstaan:
 
@@ -238,7 +263,7 @@ Onder leefvoorzieningen die betrekking hebben op wonen wordt verstaan:
 
 - 2. de herinrichting van de woning.
 
-#### Artikel 9
+##### Artikel 9
 
 Onder leefvoorzieningen die betrekking hebben op de kosten verbonden aan op zich normale huishoudelijke uitgaven worden verstaan:
 
@@ -272,7 +297,7 @@ Onder leefvoorzieningen die betrekking hebben op de kosten verbonden aan op zich
 
 - 5. een verzekering van het WAO-hiaat.
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. Onder leefvoorzieningen die betrekking hebben op ontspanning of ontwikkeling wordt verstaan:
 
@@ -306,7 +331,7 @@ Onder leefvoorzieningen die betrekking hebben op de kosten verbonden aan op zich
 
 ### Hoofdstuk 4. Werkvoorzieningen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onder werkvoorzieningen worden verstaan:
 
@@ -320,7 +345,7 @@ Onder leefvoorzieningen die betrekking hebben op de kosten verbonden aan op zich
 
 ### Hoofdstuk 4a. Voorzieningen ter zake van de kosten van geneeskundige verzorging
 
-#### Artikel 10a
+##### Artikel 10a
 
 Onder voorzieningen ter zake van de kosten van geneeskundige verzorging worden verstaan:
 
@@ -384,35 +409,35 @@ Onder voorzieningen ter zake van de kosten van geneeskundige verzorging worden v
 
 ### Hoofdstuk 5. Bijzondere voorzieningen
 
-#### Artikel 11
+##### Artikel 11
 
 In bijzondere gevallen kan de betrokkene in aanmerking komen voor een voorziening, verband houdende met zijn invaliditeit, indien hierin niet door een andere regeling wordt voorzien. Van een bijzonder geval is sprake indien niet toekenning van de bijzondere voorziening voor de betrokkene tot kosten zou leiden die redelijkerwijs niet ten laste van hem dienen te komen en bovendien zou leiden tot ernstige bestaansverschraling of psychische decompensatie van de betrokkene.
 
 ### Hoofdstuk 6. Aanvullende bepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien in verband met de ernst van de invaliditeit en de persoonlijke situatie van de betrokkene onverwijld een voorziening in de zin van deze regeling geboden is kan vooruitlopend op de uitkomsten van een nader onderzoek aan de betrokkene de gewenste voorziening op voorschotbasis worden toegekend.
 
 2. De voorziening, bedoeld in het eerste lid, kan geheel of gedeeltelijk worden teruggevorderd indien naderhand blijkt dat daarop geen recht bestaat.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien voor het ter beschikking stellen van een voorziening in de zin van deze regeling bepaalde maatregelen dringend gewenst zijn en de ernst van de invaliditeit en de persoonlijke situatie van de betrokkene een onverwijld handelen noodzakelijk maken kan een renteloos voorschot worden verstrekt.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien een in bruikleen verstrekte voorziening wordt beëindigd kan de betrokkene in de gelegenheid worden gesteld die voorziening te kopen voor een prijs die de actuele waarde daarvan in het maatschappelijk verkeer niet te boven gaat.
 
 2. Indien een voorziening als bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2015-06-24&g=2015-06-24), wordt beëindigd kan de eventuele restwaarde van de in dat onderdeel bedoelde auto geheel of gedeeltelijk worden teruggevorderd.
 
-#### Artikel 15
+##### Artikel 15
 
 In individuele gevallen, waarin de regeling niet of niet in redelijkheid voorziet, kan zo nodig in afwijking van het bepaalde in deze regeling een beslissing worden genomen, voor zover het betreft voorzieningen, die ten tijde van het in werking treden van deze regeling nog niet bekend zijn dan wel niet voorzienbaar waren en waarvan toevoeging aan deze regeling opportuun wordt geacht.
 
 ### Hoofdstuk 7. De financiële tegemoetkoming
 
-#### Artikel 16
+##### Artikel 16
 
 1. De in [artikel 4, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2015-06-24&g=2015-06-24), bedoelde financiële tegemoetkoming bedraagt € 2.500,– per zeven jaar.
 
@@ -424,7 +449,7 @@ In individuele gevallen, waarin de regeling niet of niet in redelijkheid voorzie
 
 5. De financiële tegemoetkoming voor de kaartkluis, bedoeld in [artikel 4, onderdeel h, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2015-06-24&g=2015-06-24), bedraagt € 67,–.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Voor elk kalenderjaar bedraagt in geval van leefvervoer de financiële tegemoetkoming in de kosten van:
 
@@ -466,7 +491,7 @@ In individuele gevallen, waarin de regeling niet of niet in redelijkheid voorzie
 
 - c. het gebruik van een auto in bruikleen als bedoeld in [artikel 4, onderdeel f, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=4&z=2015-06-24&g=2015-06-24), bij meer dan 10.000 kilometers het feitelijk aantal kilometers X de kilometervergoeding die is afgestemd op het merk en type auto.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De in [artikel 7, onderdeel c, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=7&z=2015-06-24&g=2015-06-24), bedoelde financiële tegemoetkoming in de kosten van weerbestendige rolstoelkleding bedraagt eenmalig maximaal € 170,–.
 
@@ -476,11 +501,11 @@ In individuele gevallen, waarin de regeling niet of niet in redelijkheid voorzie
 
 4. De in [artikel 7, onderdeel c, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=7&z=2015-06-24&g=2015-06-24), bedoelde financiële tegemoetkoming in de kosten van het onderhoud en de reparatie van een sportrolstoel bedraagt voor een periode van drie jaar maximaal € 606,-.
 
-#### Artikel 19
+##### Artikel 19
 
 De berekening van de in [artikel 8, onderdeel c, onder 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=8&z=2015-06-24&g=2015-06-24) bedoelde tegemoetkoming in de kosten van inrichting van de woning vindt plaats overeenkomstig het Verplaatsingskostenbesluit Defensie.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Bij de vaststelling van het jaarinkomen als bedoeld in [artikel 9, onderdeel a, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9&z=2015-06-24&g=2015-06-24) wordt een pensioen ter zake van invaliditeit in aanmerking genomen, met dien verstande dat de toegekende bijzondere invaliditeitsverhoging ingevolge [artikel 8 van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=8) dan wel [artikel 3 van het Besluit bijzondere militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&artikel=3) buiten beschouwing blijft.
 
@@ -494,7 +519,7 @@ De berekening van de in [artikel 8, onderdeel c, onder 1 en 2](https://wetten.ov
 
 6. De in [artikel 9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9&z=2015-06-24&g=2015-06-24), bedoelde financiële tegemoetkoming betreft het premiedeel dat vanwege de invaliditeit van de betrokkene boven het gebruikelijke tarief in rekening wordt gebracht, tenzij deze verhoging onredelijk is. De financiële tegemoetkoming bedraagt niet meer dan de extra premie.
 
-#### Artikel 20a
+##### Artikel 20a
 
 1. De in [artikel 9a, eerste lid onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=9a&z=2015-06-24&g=2015-06-24), bedoelde financiële tegemoetkoming bedraagt, rekening houdend met de eigen bijdrage, éénmalig maximaal € 2408-. Dit bedrag kan over vijf jaar verspreid worden uitgekeerd. De hoogte van de eigen bijdrage bedraagt:
 
@@ -542,7 +567,7 @@ Bij de vaststelling van het inkomen is het bepaalde in [artikel 6, tweede en der
 
 - c. Indien de zorgcoördinator de begeleiding na 2 jaar alsnog noodzakelijk acht, wordt deze aanvraag in het kader van [art. 11 VZR](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=5&artikel=11&z=2015-06-24&g=2015-06-24) aan de VA/SMO ter beoordeling voorgelegd (er is op dat moment voldoende informatie beschikbaar op grond waarvan de VA zich een beeld kan vormen van de situatie van cliënt (en zijn gezin). De VA dient de duur van de eventuele verlenging aan te geven.
 
-#### Artikel 20b
+##### Artikel 20b
 
 1. De in [artikel 10a, onderdeel b, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4a&artikel=10a&z=2015-06-24&g=2015-06-24), bedoelde financiële tegemoetkoming in de kosten van een hoortoestel bestaat ten hoogste uit de aanschaffingskosten van het hoortoestel minus de vergoeding van de ziektenkostenverzekering dan wel het ziekenfonds, minus de eventuele aanvullende vergoeding, bedoeld in artikel 4.7.4. van de bijlage van de Regeling ziektekostenverzekering militairen (PAV 7315/94029383).
 
@@ -586,7 +611,7 @@ Bij de vaststelling van het inkomen is het bepaalde in [artikel 6, tweede en der
 
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien een voorziening als bedoeld in [artikel 2, onderdeel a, b, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=2&artikel=2&z=2015-06-24&g=2015-06-24) voor de datum van de inwerkingtreding van deze regeling in het kader van de uitvoering van artikel X 5, tweede lid, van de Algemene militaire pensioenwet is verstrekt op basis van de regels zoals die tot 1 januari 1997 golden wordt deze voorziening na 1 januari 1997 gedurende de nog resterende looptijd voortgezet met toepassing van de regels, zoals die daarvoor golden, behoudens het bepaalde in het tweede lid.
 
@@ -598,35 +623,35 @@ Bij de vaststelling van het inkomen is het bepaalde in [artikel 6, tweede en der
 
 3. Ambtshalve wordt zo spoedig mogelijk een beslissing genomen, waarin de voorziening als bedoeld in het tweede lid wordt vastgelegd.
 
-#### Artikel 22
+##### Artikel 22
 
 De vóór 1 januari 1997 ingediende aanvragen voor een voorziening als bedoeld in [artikel 2, onderdeel a, b, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=2&artikel=2&z=2015-06-24&g=2015-06-24) worden afgehandeld op basis van de regels zoals die vóór de datum van de inwerkingtreding van deze regeling luidden, met dien verstande dat de voorziening vanaf 1 januari 1997 wordt toegekend met toepassing van de bepalingen van deze regeling.
 
-#### Artikel 22a
+##### Artikel 22a
 
 1. De betrokkene heeft vanaf 1 januari 1995 tot en met 31 december 1996 aanspraak op een voorziening als bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4a&artikel=10a&z=2015-06-24&g=2015-06-24) met overeenkomstige toepassing van de bepalingen van deze regeling.
 
 2. Aan de in het eerste lid bedoelde betrokkene, aan wie voor 1 januari 1995 een volledige vergoeding van de kosten van orthopedische schoenen alsmede de tengevolge van de orthopedische schoenen noodzakelijke steunzolen is verstrekt, wordt voor de periode genoemd in het eerste lid alsmede vanaf 1 januari 1997 de in [artikel 10a, onderdeel a, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=4a&artikel=10a&z=2015-06-24&g=2015-06-24), bedoelde financiële vergoeding van de kosten van orthopedische schoenen alsmede de tengevolge van de orthopedische schoenen noodzakelijke steunzolen toegekend, ook al is er geen sprake van extra slijtage.
 
-#### Artikel 22b
+##### Artikel 22b
 
 In afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=3&artikel=6&z=2015-06-24&g=2015-06-24), wordt de voorziening die met toepassing van het [Besluit inkomensgrens vervoersvoorzieningen buitenshuis/AAW](onbekend) voor 1 juli 1998 is verstrekt, na 1 juli 1998 gedurende de resterende looptijd van de voorziening ongewijzigd voortgezet.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze regeling treedt in werking op 1 januari 1997. Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 De regeling zal worden geplaatst in de MP-31-serie.
 
-#### Artikel 24
+##### Artikel 24
 
 Deze regeling wordt aangehaald als: Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers.
 
-#### Artikel 22c
+##### Artikel 22c
 
 De in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20&z=2015-06-24&g=2015-06-24), genoemde financiële tegemoetkoming in de kosten van de extra slijtage van kleding en beddengoed wordt éénmalig opgehoogd met een percentage van 14.
 
-#### Artikel 20c
+##### Artikel 20c
 
 De in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=16&z=2015-06-24&g=2015-06-24),, [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=18&z=2015-06-24&g=2015-06-24), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20&z=2015-06-24&g=2015-06-24),, [20a](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20a&z=2015-06-24&g=2015-06-24) en [20b](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20b&z=2015-06-24&g=2015-06-24) genoemde bedragen aan financiële tegemoetkomingen worden per 1 januari van elk kalenderjaar geïndexeerd aan de hand van het consumentenprijsindexcijfer. De geïndexeerde bedragen worden afgerond naar boven op gehele bedragen met uitzondering van de tegemoetkoming voor de veteranen hulphond. De tegemoetkoming veteranen hulphond van [art. 20b lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008406&hoofdstuk=7&artikel=20b&z=2015-06-24&g=2015-06-24) volgt de hoogte van het bedrag zoals dat jaarlijks vanuit SZVK-polis /Reglement Hulpmiddelen kan worden toegekend voor onderhoudskosten van ADL- en blindengeleidehonden.
 

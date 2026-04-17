@@ -1,78 +1,106 @@
 ---
-title: "Fiscale verzamelwet 2023"
+title: "Wet van 21 december 2022, houdende wijziging van enkele belastingwetten en enige andere wetten (Fiscale verzamelwet 2023)"
 identifier: "BWBR0047710"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047710"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047710"
+soort: "wet"
+stam_id: "16615903"
+version_id: "29142082"
+internal_id: "C41411891"
+label_id: "16534614"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047710/2024-01-01/0"
+intitule_bron: "Stb.2022-530"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-12-21"
+intitule_published: "2022-12-27"
+intitule_in_force: "2022-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2022-530"
+original_signed_date: "2022-12-21"
+original_published_date: "2022-12-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "36107"
+original_url_id: "stb-2022-530"
+entry_into_force_date: "2023-01-01"
+entry_into_force_dossier: "36107"
+jci_1_3: "jci1.3:c:BWBR0047710&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0047710&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Fiscale verzamelwet 2023"
+signed_date: "2022-12-21"
+entry_into_force: "2023-01-01"
 ---
+# Wet van 21 december 2022, houdende wijziging van enkele belastingwetten en enige andere wetten (Fiscale verzamelwet 2023)
 
-# Fiscale verzamelwet 2023
-
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet op het BTW-compensatiefonds.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Provinciewet.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Gemeentewet.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Waterschapswet.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet waardering onroerende zaken.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de in [artikel XII, onderdelen B en D](https://wetten.overheid.nl/jci1.3:c:BWBR0047710&artikel=XII&z=2024-01-01&g=2024-01-01), van deze wet opgenomen wijzigingen van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) en [28 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van die wijzigingen in de praktijk.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Belastingwet BES.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Fiscale vereenvoudigingswet 2017.
 
-#### Artikel XVI
+##### Artikel XVI
 
 1. Deze wet treedt in werking met ingang van 1 januari 2023, met dien verstande dat:
 
@@ -94,7 +122,7 @@ Wijzigt de Fiscale vereenvoudigingswet 2017.
 
 2. In afwijking van het eerste lid, treden [artikel X, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0047710&artikel=X&z=2024-01-01&g=2024-01-01), en [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0047710&artikel=XI&z=2024-01-01&g=2024-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Deze wet wordt aangehaald als: Fiscale verzamelwet 2023.
 

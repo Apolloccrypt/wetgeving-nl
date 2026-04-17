@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling onderwijspersoneel opleiding tot leraar"
+title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 26 november 2018, nr. PO/1416144, houdende regels voor subsidieverstrekking als tegemoetkoming in de studiekosten en kosten van studieverlof voor het volgen van de opleiding tot leraar door een onderwijsassistent (Subsidieregeling onderwijsassistenten opleiding tot leraar)"
 identifier: "BWBR0041619"
-categorie: "Onderwijs"
-publicatiedatum: 2026-03-11
-laatste_update: 2026-03-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041619"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-11"
+last_updated: "2026-03-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041619"
+soort: "ministeriele-regeling"
+stam_id: "14890263"
+version_id: "31465112"
+internal_id: "C44940991"
+label_id: "14841634"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041619/2026-03-11/0"
+intitule_bron: "Stcrt.2018-68026"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-11-26"
+intitule_published: "2018-12-04"
+intitule_in_force: "2018-12-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-9273"
+original_signed_date: "2026-02-25"
+original_published_date: "2026-03-10"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2026-9273"
+entry_into_force_date: "2026-03-11"
+jci_1_3: "jci1.3:c:BWBR0041619&z=2026-03-11&g=2026-03-11"
+jci_1_0: "1.0:c:BWBR0041619&g=2026-03-11"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling onderwijspersoneel opleiding tot leraar"
+signed_date: "2026-02-25"
+entry_into_force: "2026-03-11"
 ---
-
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 26 november 2018, nr. PO/1416144, houdende regels voor subsidieverstrekking als tegemoetkoming in de studiekosten en kosten van studieverlof voor het volgen van de opleiding tot leraar door een onderwijsassistent (Subsidieregeling onderwijsassistenten opleiding tot leraar)
 
 Gelet op [artikel 70 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=70);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,13 +74,13 @@ In deze regeling wordt verstaan onder:
 
 **studieverlof:** verlof ten behoeve van het bijwonen van lessen van de opleiding tot leraar en verlof ten behoeve van de uren die de onderwijsassistent, leraarondersteuner of onderwijsondersteunend personeelslid besteedt voor de opleiding tot leraar.
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 1. Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
 2. [Artikel 4.3, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3) is niet van toepassing.
 
-#### Artikel 3. Te subsidiëren activiteiten in het primair onderwijs
+##### Artikel 3. Te subsidiëren activiteiten in het primair onderwijs
 
 1. De minister kan aan een bevoegd gezag of samenwerkingsverband subsidie verstrekken als tegemoetkoming in de studiekosten en kosten van studieverlof in verband met het volgen van een opleiding tot leraar gedurende een periode van ten hoogste vier jaren door een bij het bevoegd gezag of samenwerkingsverband in dienst zijnde onderwijsassistent of leraarondersteuner die in 2019, 2020, 2021, 2022, 2023, 2024, 2025 of 2026 met die opleiding is gestart.
 
@@ -70,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 - e. welke afspraken zijn gemaakt voor het geval dat geen subsidie wordt toegekend.
 
-#### Artikel 4. Subsidieplafond en hoogte subsidie
+##### Artikel 4. Subsidieplafond en hoogte subsidie
 
 1. Voor subsidieverstrekking op grond van deze paragraaf is een bedrag beschikbaar van ten hoogste:
 
@@ -90,7 +116,7 @@ In deze regeling wordt verstaan onder:
 
 4. Voor subsidieontvangers op Bonaire, Sint Eustatius of Saba wordt het in het tweede lid bedoelde subsidiebedrag omgerekend in dollars tegen de vastgestelde wisselkoers.
 
-#### Artikel 5. Wijze van verdeling beschikbare middelen
+##### Artikel 5. Wijze van verdeling beschikbare middelen
 
 1. De minister verdeelt het beschikbare bedrag in de volgorde van binnenkomst van de aanvragen.
 
@@ -106,7 +132,7 @@ In deze regeling wordt verstaan onder:
 
 7. Indien een aanvraag voor subsidieverstrekking in het jaar 2022, 2023, 2024 of 2025 niet kan worden toegewezen omdat het subsidieplafond is bereikt, wordt de aanvraag aangemerkt als aanvraag voor subsidieverstrekking in het daaropvolgende kalenderjaar en behandeld als ware zij ingediend op 1 januari van dat daaropvolgende kalenderjaar.
 
-#### Artikel 6. Verplichtingen subsidie
+##### Artikel 6. Verplichtingen subsidie
 
 Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
@@ -116,7 +142,7 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 - c. indien de onderwijsassistent of leraarondersteuner tussentijds stopt met de opleiding tot leraar meldt het bevoegd dit aan DUS-I. De subsidie kan in dat geval lager worden vastgesteld en het teveel ontvangen bedrag wordt teruggevorderd.
 
-#### Artikel 7. Aanvraag subsidie
+##### Artikel 7. Aanvraag subsidie
 
 1. Het bevoegd gezag of samenwerkingsverband dient de aanvraag in met gebruikmaking van het aanvraagformulier dat op de website www.dus-i.nl beschikbaar is gesteld.
 
@@ -154,7 +180,7 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 - d. de startdatum van de opleiding tot leraar.
 
-#### Artikel 8. Vaststelling en besteding subsidie
+##### Artikel 8. Vaststelling en besteding subsidie
 
 1. Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het niet aangewende deel van de subsidie van het betreffende schooljaar worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt. De subsidie voor daaropvolgende collegejaren kan in dat geval lager worden vastgesteld en het teveel ontvangen bedrag wordt teruggevorderd.
 
@@ -178,33 +204,33 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 - h. in de periode van 1 augustus 2026 tot en met 15 oktober 2026, uiterlijk vóór 18 december 2026 direct vastgesteld.
 
-#### Artikel 9. Betaling
+##### Artikel 9. Betaling
 
 De Minister betaalt het subsidiebedrag ineens.
 
-#### Artikel 10. Overgang bevoegd gezag of samenwerkingsverband
+##### Artikel 10. Overgang bevoegd gezag of samenwerkingsverband
 
 Indien de onderwijsassistent, leraarondersteuner of instructeur het dienstverband met de subsidieontvanger beëindigt en de opleiding tot leraar voortzet in dienst bij een ander bevoegd gezag of samenwerkingsverband, kan de subsidieontvanger de subsidie aanwenden om de onderwijsassistent, leraarondersteuner of instructeur de opleiding tot leraar te laten voortzetten bij dat andere bevoegd gezag of samenwerkingsverband.
 
-#### Artikel 11. Verantwoording
+##### Artikel 11. Verantwoording
 
 1. De verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) met model G, onderdeel 1, zoals bedoeld in richtlijn 660 van de Raad voor de Jaarverslaggeving.
 
 2. De subsidieontvanger toont op verzoek van de minister aan dat de activiteiten waarvoor subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie verbonden zijn.
 
-#### Artikel 12. Inwerkingtreding en vervaldatum
+##### Artikel 12. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2019.
 
 2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft ten aanzien van de subsidies die op grond van deze regeling zijn verstrekt.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling onderwijspersoneel opleiding tot leraar.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 11a. Overgangsrecht aanvraagtermijn
+##### Artikel 11a. Overgangsrecht aanvraagtermijn
 
 [Artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=2&artikel=7&z=2026-03-11&g=2026-03-11), is niet van toepassing ten aanzien van aanvragen die aanvankelijk in 2022 of in een eerder jaar werden ingediend.
 
@@ -216,7 +242,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 3. Bepalingen voor aanvragen in het voortgezet onderwijs
 
-#### Artikel 8a. Te subsidiëren activiteiten in het voortgezet onderwijs
+##### Artikel 8a. Te subsidiëren activiteiten in het voortgezet onderwijs
 
 1. De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in de studiekosten en kosten van studieverlof in verband met het volgen van een opleiding tot leraar gedurende een periode van ten hoogste vier jaren door een bij het bevoegd gezag in dienst zijnde onderwijsondersteunend personeelslid die in 2023, 2024, 2025 of 2026 met die opleiding is gestart.
 
@@ -232,7 +258,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - e. welke afspraken zijn gemaakt voor het geval geen subsidie wordt toegekend.
 
-#### Artikel 8b. Subsidieplafond en hoogte subsidie
+##### Artikel 8b. Subsidieplafond en hoogte subsidie
 
 1. Voor subsidieverstrekking op grond van deze paragraaf is voor de kalenderjaren 2024, 2025 en 2026 jaarlijks een bedrag beschikbaar van ten hoogste € 4.720.000 voor de toegevoegde doelgroep (onderwijsondersteunende personeelsleden in het vo).
 
@@ -242,13 +268,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Voor subsidieontvangers op Bonaire, Sint Eustatius of Saba wordt het in het tweede lid bedoelde subsidiebedrag omgerekend in dollars tegen de vastgestelde wisselkoers.
 
-#### Artikel 8c. Wijze van verdeling beschikbare middelen
+##### Artikel 8c. Wijze van verdeling beschikbare middelen
 
 1. De minister verdeelt het beschikbare bedrag in de volgorde van binnenkomst van aanvragen.
 
 2. Indien een aanvraag voor subsidieverstrekking in het jaar 2023, 2024 of 2025 niet kan worden toegewezen omdat het subsidieplafond is bereikt, wordt zij aangemerkt als aanvraag voor subsidievertrekking en behandeld als ware zij ingediend op 1 januari van dat daaropvolgende kalenderjaar.
 
-#### Artikel 8d. Verplichtingen subsidie
+##### Artikel 8d. Verplichtingen subsidie
 
 Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
@@ -258,7 +284,7 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 - c. indien het onderwijsondersteunend personeelslid tussentijds stopt met de opleiding tot leraar meldt het bevoegd gezag dit aan DUS-I. De subsidie kan in dat geval lager worden vastgesteld en het teveel ontvangen bedrag wordt teruggevorderd.
 
-#### Artikel 8e. Aanvraag subsidie
+##### Artikel 8e. Aanvraag subsidie
 
 1. Het bevoegd gezag dient de aanvraag in met gebruikmaking van het aanvraagformulier dat op de website [www.dus-i.nl](http://www.dus-i.nl) beschikbaar is gesteld.
 
@@ -288,7 +314,7 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 - d. de startdatum van de opleiding tot leraar.
 
-#### Artikel 8f. Vaststelling en besteding subsidie
+##### Artikel 8f. Vaststelling en besteding subsidie
 
 1. Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
@@ -308,13 +334,13 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 #### § 5. Slotbepalingen
 
-#### Artikel 11b. Omhangbepaling
+##### Artikel 11b. Omhangbepaling
 
 Deze regeling berust op de [artikelen 71 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=71), [67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67), [5.11 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.11), [71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71), de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8g. Te subsidiëren activiteiten in het middelbaar beroepsonderwijs
+##### Artikel 8g. Te subsidiëren activiteiten in het middelbaar beroepsonderwijs
 
 1. De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in de studiekosten en kosten van studieverlof in verband met het volgen van een opleiding tot leraar gedurende een periode van ten hoogste vier jaren door een bij het bevoegd gezag in dienst zijnde instructeur die in het kalenderjaar van de aanvraag of het kalenderjaar daaraan voorafgaand met die opleiding is gestart.
 
@@ -332,7 +358,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. De minister verstrekt op grond deze regeling geen subsidie aan een bevoegd gezag indien voor de desbetreffende instructeur al subsidie is verstrekt op grond van de [Subsidieregeling instructeursbeurs mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0042462) of de [Subsidieregeling instructeursbeurs mbo 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050886).
 
-#### Artikel 8h. Subsidieplafond en hoogte subsidie
+##### Artikel 8h. Subsidieplafond en hoogte subsidie
 
 1. Voor subsidieverstrekking op grond van deze paragraaf is voor het kalenderjaar 2026 een bedrag beschikbaar van ten hoogste € 400.000.
 
@@ -340,11 +366,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Indien het voor subsidieverstrekking beschikbare bedrag, bedoeld in het eerste lid niet wordt uitgeput, wordt het resterende bedrag verdeeld over de voor dat kalenderjaar vastgestelde subsidieplafonds voor het primair onderwijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=2&artikel=4&z=2026-03-11&g=2026-03-11), en het voortgezet onderwijs, bedoeld in [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=3&artikel=8b&z=2026-03-11&g=2026-03-11). Het bedrag wordt verdeeld naar rato van de overvraag bij deze subsidieplafonds.
 
-#### Artikel 8i. Wijze van verdeling beschikbare middelen
+##### Artikel 8i. Wijze van verdeling beschikbare middelen
 
 De minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 8j. Verplichtingen subsidie
+##### Artikel 8j. Verplichtingen subsidie
 
 Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
@@ -354,7 +380,7 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 - c. indien de instructeur tussentijds stopt met de opleiding tot leraar meldt het bevoegd gezag dit onverwijld aan DUS-I. De subsidie kan in dat geval lager worden vastgesteld en het teveel ontvangen bedrag wordt teruggevorderd.
 
-#### Artikel 8k. Aanvraag subsidie
+##### Artikel 8k. Aanvraag subsidie
 
 1. Het bevoegd gezag dient de aanvraag in met gebruikmaking van het aanvraagformulier dat daarvoor op de website [www.dus-i.nl](http://www.dus-i.nl/) beschikbaar is gesteld.
 
@@ -376,7 +402,7 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 - d. de startdatum van de opleiding tot leraar.
 
-#### Artikel 8l. Vaststelling en besteding subsidie
+##### Artikel 8l. Vaststelling en besteding subsidie
 
 1. Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 

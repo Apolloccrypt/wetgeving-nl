@@ -1,13 +1,39 @@
 ---
-title: "Specifiek interventiebeleid NVWA experiment gesloten coffeeshopketen (IB03-SPEC 30, versie 04)"
+title: "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Justitie en Veiligheid van 28 juni 2024 tot vaststelling van het Specifiek interventiebeleid NVWA experiment gesloten coffeeshopketen (IB03-SPEC 30, versie 04)"
 identifier: "BWBR0050117"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-09-01
-laatste_update: 2024-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050117"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-09-01"
+last_updated: "2024-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050117"
+soort: "beleidsregel"
+stam_id: "17199233"
+version_id: "30281912"
+internal_id: "C43446681"
+label_id: "17105664"
+dtd_version: "2.0"
+original_entry_into_force: "2024-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050117/2024-09-01/0"
+intitule_bron: "Stcrt.2024-25953"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-28"
+intitule_published: "2024-08-07"
+intitule_in_force: "2024-08-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-25953"
+original_signed_date: "2024-06-28"
+original_published_date: "2024-08-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-25953"
+entry_into_force_date: "2024-09-01"
+jci_1_3: "jci1.3:c:BWBR0050117&z=2024-09-01&g=2024-09-01"
+jci_1_0: "1.0:c:BWBR0050117&g=2024-09-01"
+citeertitel_status: "officieel"
+short_title: "Specifiek interventiebeleid NVWA experiment gesloten coffeeshopketen (IB03-SPEC 30, versie 04)"
+signed_date: "2024-06-28"
+entry_into_force: "2024-09-01"
 ---
-
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Justitie en Veiligheid van 28 juni 2024 tot vaststelling van het Specifiek interventiebeleid NVWA experiment gesloten coffeeshopketen (IB03-SPEC 30, versie 04)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 8 van de Wet experiment gesloten coffeeshopketen](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=8), de [artikelen 10, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=10), en [13a van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=13a) en het [Algemeen interventiebeleid NVWA 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049215);

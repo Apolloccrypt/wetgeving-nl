@@ -1,24 +1,50 @@
 ---
-title: "Warenwetregeling machines"
+title: "Regeling houdende nadere regels ten aanzien van machines"
 identifier: "BWBR0006022"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006022"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006022"
+soort: "ministeriele-regeling"
+stam_id: "4892333"
+version_id: "19802692"
+internal_id: "C27811451"
+label_id: "4870224"
+dtd_version: "2.0"
+original_entry_into_force: "2012-11-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006022/2026-01-01/0"
+intitule_bron: "Stcrt.1993-127"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-06-22"
+intitule_published: "1993-07-08"
+intitule_in_force: "1993-07-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-23022"
+original_signed_date: "2012-11-02"
+original_published_date: "2012-11-29"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2012-23022"
+entry_into_force_date: "2012-11-02"
+jci_1_3: "jci1.3:c:BWBR0006022&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0006022&g=2026-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Warenwetregeling machines"
+signed_date: "2012-11-02"
+entry_into_force: "2012-11-02"
 ---
-
 # Regeling houdende nadere regels ten aanzien van machines
 
 Gelet op de [artikelen 4, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=4&z=2026-01-01&g=2026-01-01), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=5&z=2026-01-01&g=2026-01-01), 12, eerste lid, eerste zin, en 16, tweede lid, van de Wet op de gevaarlijke werktuigen, de artikelen 3 en 12, derde lid, van het Besluit machines, [artikel 25, eerste lid, onderdeel a, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25) en [artikel 1, tweede lid, onderdeel 3°, van het Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=1);
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder Besluit: het [Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als categorie mobiele kranen als bedoeld in [artikel 6d, eerste lid, tweede zin, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=6d) worden aangewezen:
 
@@ -32,39 +58,39 @@ hijskranen voor haakbedrijf op rupsen of banden alsmede torenvormige hijskranen 
 
 torenvormige hijskranen, die vast zijn opgesteld of die verrijdbaar zijn op rails, met een bedrijfslastmoment van ten minste 10 tonmeter.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: Warenwetregeling machines.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 2a. Eisen voor aanwijzing en (blijven) functioneren als aangewezen instelling en aangewezen aangemelde instelling
+##### Artikel 2a. Eisen voor aanwijzing en (blijven) functioneren als aangewezen instelling en aangewezen aangemelde instelling
 
 Vervallen
 
-#### Artikel 2b
+##### Artikel 2b
 
 Vervallen
 
-#### Artikel 2c
+##### Artikel 2c
 
 Vervallen
 

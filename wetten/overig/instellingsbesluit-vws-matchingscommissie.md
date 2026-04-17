@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit VWS-matchingscommissie"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2008, nr. DP&O/PZ-2891439"
 identifier: "BWBR0024994"
-categorie: "Overig"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024994"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024994"
+soort: "ministeriele-regeling"
+stam_id: "9834133"
+version_id: "16001062"
+internal_id: "C21924921"
+label_id: "9810654"
+dtd_version: "2.0"
+original_entry_into_force: "2008-12-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024994/2020-01-01/0"
+intitule_bron: "Stcrt.2008-250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-01"
+intitule_published: "2008-12-24"
+intitule_in_force: "2008-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-250"
+original_signed_date: "2008-12-01"
+original_published_date: "2008-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-2495"
+entry_into_force_date: "2008-12-26"
+jci_1_3: "jci1.3:c:BWBR0024994&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0024994&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit VWS-matchingscommissie"
+signed_date: "2008-12-01"
+entry_into_force: "2008-12-26"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2008, nr. DP&O/PZ-2891439
 
 Met instemming van de betreffende ondernemingsraden;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -26,11 +52,11 @@ In dit besluit wordt verstaan onder:
 
 - d. **dienstonderdelen:** de organisatieonderdelen zoals genoemd in [artikel 2, b tot en met g, van het Organisatiebesluit VWS 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040606&artikel=2).
 
-#### Artikel 2. Taak en samenstelling van de commissie
+##### Artikel 2. Taak en samenstelling van de commissie
 
 De directeur OBP kan besluiten een gevolgde werving- en selectieprocedure ter beoordeling voor te leggen aan de matchingscommissie. De matchingscommissie houdt toezicht op een goede en objectieve werving- en selectie van de VWS-medewerkers. Doel is om de VWS-medewerkers een eerlijke kans te geven op een andere interne werkplek, met name ook in het licht van het 3-5-7 model. De commissie heeft tevens als taak toe te zien op de werking van het systeem van flexibele werktoedeling.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie bestaat uit:
 
@@ -44,7 +70,7 @@ De directeur OBP kan besluiten een gevolgde werving- en selectieprocedure ter be
 
 2. De commissie kan voor specialistische functies bij buitendiensten worden aangevuld met een vertegenwoordiger van het desbetreffende dienstonderdeel.
 
-#### Artikel 4. Werkwijze van de commissie
+##### Artikel 4. Werkwijze van de commissie
 
 1. Ten aanzien van werving en selectie:
 
@@ -62,15 +88,15 @@ De directeur OBP kan besluiten een gevolgde werving- en selectieprocedure ter be
 
 - b. De betreffende DG kan door de matchingscommissie worden gehoord.
 
-#### Artikel 5
+##### Artikel 5
 
 De archiefbescheiden van de matchingscommissie worden na haar opheffing, of, als de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgebracht naar het archief van het Ministerie van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 6. Slotbepalingen
+##### Artikel 6. Slotbepalingen
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als Instellingsbesluit VWS-matchingscommissie.
 

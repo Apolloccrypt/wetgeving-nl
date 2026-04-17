@@ -1,13 +1,35 @@
 ---
 title: "Uitvoeringsovereenkomst betreffende de samenwerking, begeleiding en ondersteuning in het kader van de opdrachten in toepassing van de vreemdelingenwetgevingen op het grondgebied van de Benelux-landen"
 identifier: "BWBV0007042"
-categorie: "Internationaal recht"
-publicatiedatum: 2023-10-01
-laatste_update: 2023-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007042"
+country: "nl"
+rank: "verdrag"
+publication_date: "2023-10-01"
+last_updated: "2023-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007042"
+soort: "verdrag"
+stam_id: "10005655233"
+version_id: "10006229822"
+internal_id: "C10010080041"
+label_id: "10005636704"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007042/2023-10-01/0"
+intitule_bron: "Trb.2024-40"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-03-13"
+intitule_in_force: "2024-03-13"
+intitule_status: "goed"
+original_publication: "Trb.2024-40"
+original_published_date: "2024-03-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2024-40"
+entry_into_force_date: "2023-10-01"
+jci_1_3: "jci1.3:c:BWBV0007042&z=2023-10-01&g=2023-10-01"
+jci_1_0: "1.0:c:BWBV0007042&g=2023-10-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-10-01"
 ---
-
 # Uitvoeringsovereenkomst betreffende de samenwerking, begeleiding en ondersteuning in het kader van de opdrachten in toepassing van de vreemdelingenwetgevingen op het grondgebied van de Benelux-landen
 
 Het Koninkrijk België,
@@ -26,13 +48,13 @@ Overwegende dat de procedures als bedoeld in de Uitvoeringsafspraak betreffende 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 1. Deze Uitvoeringsovereenkomst heeft ten doel de verschillende specifieke modaliteiten van uitvoering met betrekking tot het vervoer en de begeleiding van personen in het kader van de toepassing van de vreemdelingenwetgeving als bedoeld in [artikel 25, vierde lid, van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=25), vast te leggen. Deze uitvoeringsmodaliteiten betreffen de samenwerking tussen de Benelux-landen inzake het vervoer, de begeleiding en de ondersteuning in het kader van de opdrachten in toepassing van de vreemdelingenwetgeving.
 
 2. Deze Uitvoeringsovereenkomst laat onverlet het besluitvormingsproces inzake de overname of repatriëring van de betrokken persoon, alsmede de opportuniteitsbeoordeling om tot een vervoer over te gaan. Deze beslissingen vinden plaats op basis van andere rechtsinstrumenten.
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 Voor de toepassing van deze Uitvoeringsovereenkomst wordt verstaan onder:
 
@@ -64,7 +86,7 @@ Voor de toepassing van deze Uitvoeringsovereenkomst wordt verstaan onder:
 
 - n. „gecontroleerde overdracht”: overdracht waarbij de onderdaan van een Benelux-land door de bevoegde dienst van de staat van oorsprong aan de bevoegde dienst van de staat van bestemming fysiek wordt overgedragen.
 
-#### Artikel 3. Administratieve organisatie
+##### Artikel 3. Administratieve organisatie
 
 1. Informatie-uitwisseling of besluitvorming ter uitvoering van deze Uitvoeringsovereenkomst geschiedt uitsluitend tussen en door de ter zake bevoegde autoriteiten en diensten.
 
@@ -76,7 +98,7 @@ Voor de toepassing van deze Uitvoeringsovereenkomst wordt verstaan onder:
 
 - b. de ondersteuning zoals bedoeld in [artikel 2, onder g)](https://wetten.overheid.nl/jci1.3:c:BWBV0007042&artikel=2&z=2023-10-01&g=2023-10-01), van deze Uitvoeringsovereenkomst.
 
-#### Artikel 4. Procedure voor onderdanen van derde landen
+##### Artikel 4. Procedure voor onderdanen van derde landen
 
 1. In geval van vervoer en begeleiding zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007042&artikel=2&z=2023-10-01&g=2023-10-01), vraagt de bevoegde autoriteit van de staat van oorsprong door middel van het formulier in bijlage A het voorgenomen vervoer en begeleiding bij de staat van bestemming aan. Deze aanvraag geschiedt in beginsel uiterlijk 48 uur voor het voorgenomen vervoer en de bevoegde autoriteit van de staat van bestemming geeft onverwijld en in ieder geval binnen 24 uur hierop haar toestemming. Indien de bevoegde autoriteit van de staat van bestemming de toestemming niet verleent, voert de bevoegde dienst van de staat van bestemming het vervoer en de begeleiding zelf uit vanaf de staat van oorsprong, tenzij zij gegronde redenen heeft om anders te besluiten.
 
@@ -90,7 +112,7 @@ Voor de toepassing van deze Uitvoeringsovereenkomst wordt verstaan onder:
 
 6. In beginsel vinden overdrachten van onderdanen van derde landen in het kader van de uitvoering van de Dublinverordening n° 604/2013 en overdrachten van vreemdelingen op basis van Beschikking M/P (67) 1 van de Ministeriele Werkgroep voor het Personenverkeer van de Benelux Economische Unie betreffende de verwijdering en de overname van personen, plaats op een overheidslocatie binnen een gebied van 20 kilometer van de landsgrens van de gaststaat. De locatie van overdracht wordt bepaald na afstemming tussen de betrokken Benelux-landen, waarbij de definitieve vaststelling voor het aanwijzen van een locatie ligt bij de bevoegde autoriteit van de gaststaat. In voorkomende gevallen kan besloten worden tot overdracht op een andere locatie, waarbij de definitieve vaststelling voor het aanwijzen van een locatie ligt bij de bevoegde diensten van de gaststaat.
 
-#### Artikel 5. Procedure voor onderdanen van een Benelux-land
+##### Artikel 5. Procedure voor onderdanen van een Benelux-land
 
 1. Overeenkomstig de op hun van toepassing zijnde bepalingen, worden onderdanen van een Benelux-land enkel teruggebracht naar het land waarvan zij de nationaliteit bezitten indien een krachtens die bepalingen toegelaten reden een dergelijke verwijdering verantwoordt en er een overeenkomstig die bepalingen uitvoerbare terugkeerbeslissing ten aanzien van deze onderdanen bestaat.
 
@@ -112,7 +134,7 @@ Voor de toepassing van deze Uitvoeringsovereenkomst wordt verstaan onder:
 
 - b. Indien de onderdaan van een Benelux-land de onder a) genoemde toestemming niet geeft, wordt hij door de bevoegde dienst van de staat van oorsprong tot aan de grens tussen de staat van oorsprong en de staat van bestemming gebracht, waarna hij de grens dient over te steken en zelfstandig zijn weg dient te vervolgen.
 
-#### Artikel 6. Bijzondere uitvoeringsvoorwaarden voor vervoer met een verhoogd risico
+##### Artikel 6. Bijzondere uitvoeringsvoorwaarden voor vervoer met een verhoogd risico
 
 1. Bij het vervoer van een onderdaan van een derde land of een gecontroleerde overdracht van een onderdaan van een Benelux-land die mogelijk een verhoogd risico vormen voor de openbare orde, de nationale veiligheid of de volksgezondheid, brengen de bevoegde diensten elkaar zo spoedig mogelijk van dat risico op de hoogte, bij het verzenden van de in bijlage A en B opgenomen formulieren en het antwoord daarop.
 
@@ -120,17 +142,17 @@ Voor de toepassing van deze Uitvoeringsovereenkomst wordt verstaan onder:
 
 3. Onder bovengenoemde voorwaarden wordt eventueel begrepen de ondersteuning van het vervoer door de bevoegde dienst van de gaststaat, verantwoordelijk voor de ondersteuning.
 
-#### Artikel 7. Uiterlijke herkenbaarheid
+##### Artikel 7. Uiterlijke herkenbaarheid
 
 Gelet op [artikel 44, vierde lid, van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=44), kunnen de ambtenaren van de zendstaat in burger optreden en anonieme dienstvoertuigen gebruiken.
 
-#### Artikel 8. Uitrusting, wapens en munitie
+##### Artikel 8. Uitrusting, wapens en munitie
 
 1. De ambtenaren van de zendstaat mogen wapens en munitie dragen in overeenstemming met [artikel 39 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=39), en zij mogen deze gebruiken in overeenstemming met de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=40) en [41 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=41).
 
 2. Daarnaast mogen de ambtenaren van de zendstaat hun gewone uitrusting, inclusief boeimiddelen, dragen, voor zover deze niet als wapens en munitie worden beschouwd overeenkomstig de wet- en regelgeving van de gaststaat. Zij mogen deze uitrusting gebruiken in overeenstemming met de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=40) en [41 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=41).
 
-#### Artikel 9. Verantwoordelijkheid en aansprakelijkheid
+##### Artikel 9. Verantwoordelijkheid en aansprakelijkheid
 
 1. De zendstaat blijft verantwoordelijk voor de onderdaan van het derde land in kwestie en neemt de onderdaan van het derde land onvoorwaardelijk en zonder formaliteiten terug, indien deze zich tijdens de uitvoering van het vervoer aan het toezicht van zijn begeleiders onttrekt en vervolgens op het grondgebied van de gaststaat wordt aangetroffen zonder in het bezit te zijn van de vereiste documenten en zonder dat het bewijs kan worden geleverd dat de betrokkene het grondgebied van de Benelux heeft verlaten.
 
@@ -138,7 +160,7 @@ Gelet op [artikel 44, vierde lid, van het Politieverdrag](https://wetten.overhei
 
 3. Ten aanzien van bescherming en hulpverlening evenals voor de burgerrechtelijke en de strafrechtelijke aansprakelijkheid is het bepaalde in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=47), [48](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=48) en [49 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=49) van toepassing.
 
-#### Artikel 10. Slotbepalingen
+##### Artikel 10. Slotbepalingen
 
 1. De secretaris-generaal van de Benelux Unie is depositaris van deze Uitvoeringsovereenkomst.
 

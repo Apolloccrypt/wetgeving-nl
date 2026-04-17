@@ -1,13 +1,39 @@
 ---
-title: "Besluit kunststofproducten voor eenmalig gebruik"
+title: "Besluit van 17 juni 2021, houdende regels inzake aangewezen kunststofproducten voor eenmalig gebruik, producten van oxo-degradeerbare kunststoffen en kunststofhoudend vistuig en houdende wijziging van het Besluit beheer verpakkingen 2014 (Besluit kunststofproducten voor eenmalig gebruik)"
 identifier: "BWBR0045257"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-12-31
-laatste_update: 2024-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045257"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-12-31"
+last_updated: "2024-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045257"
+soort: "AMvB"
+stam_id: "15990063"
+version_id: "27829832"
+internal_id: "C39252661"
+label_id: "15923864"
+dtd_version: "2.0"
+original_entry_into_force: "2021-07-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045257/2024-12-31/0"
+intitule_bron: "Stb.2021-294"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-06-17"
+intitule_published: "2021-06-23"
+intitule_in_force: "2021-06-23"
+intitule_status: "goed"
+original_publication: "Stb.2021-294"
+original_signed_date: "2021-06-17"
+original_published_date: "2021-06-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2021-294"
+entry_into_force_date: "2021-07-03"
+jci_1_3: "jci1.3:c:BWBR0045257&z=2024-12-31&g=2024-12-31"
+jci_1_0: "1.0:c:BWBR0045257&g=2024-12-31"
+citeertitel_status: "officieel"
+short_title: "Besluit kunststofproducten voor eenmalig gebruik"
+signed_date: "2021-06-17"
+entry_into_force: "2021-07-03"
 ---
-
 # Besluit van 17 juni 2021, houdende regels inzake aangewezen kunststofproducten voor eenmalig gebruik, producten van oxo-degradeerbare kunststoffen en kunststofhoudend vistuig en houdende wijziging van het Besluit beheer verpakkingen 2014 (Besluit kunststofproducten voor eenmalig gebruik)
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Waterstaat van 28 januari 2021, nr. IENW/BSK-2020/251277, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Infrastructuur en Waterstaa
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -64,7 +90,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **wet:** [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
-#### Artikel 2. (handelsverbod)
+##### Artikel 2. (handelsverbod)
 
 1. Het is verboden producten vervaardigd uit oxo-degradeerbare kunststoffen en de volgende kunststofproducten voor eenmalig gebruik in Nederland in de handel te brengen:
 
@@ -82,7 +108,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De verkooppunten van rietjes die een medisch hulpmiddel zijn, kunnen in aantal, type of in de wijze van verkoop worden beperkt.
 
-#### Artikel 3. (markeringsvoorschriften)
+##### Artikel 3. (markeringsvoorschriften)
 
 1. Dit artikel is van toepassing op de producent van de volgende kunststofproducten voor eenmalig gebruik:
 
@@ -98,7 +124,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de aanwezigheid van kunststoffen in het product en de negatieve effecten op het milieu van zwerfafval of andere ongepaste manieren om zich van het product te ontdoen.
 
-#### Artikel 4. (uitgebreide producentenverantwoordelijkheid vochtige doekjes en ballonnen)
+##### Artikel 4. (uitgebreide producentenverantwoordelijkheid vochtige doekjes en ballonnen)
 
 1. Producenten van vochtige doekjes en van ballonnen die kunststof bevatten, niet zijnde ballonnen voor industriële of andere professionele toepassingen, zijn verantwoordelijk voor het bijdragen aan vermindering van het zwerfafval van die producten in het milieu en het dekken van de kosten van ten minste de volgende maatregelen:
 
@@ -114,7 +140,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Een in Nederland gevestigde producent die producten als bedoeld in het eerste lid in een andere lidstaat verkoopt, wijst in die andere lidstaat een gemachtigde vertegenwoordiger aan, die verantwoordelijk is voor het naleven van de verplichtingen van de producent die voortvloeien uit de uitgebreide producentenverantwoordelijkheid ter implementatie van EU-richtlijn kunststofproducten voor eenmalig gebruik in die andere lidstaat.
 
-#### Artikel 5. (uitgebreide producentenverantwoordelijkheid tabaksproducten)
+##### Artikel 5. (uitgebreide producentenverantwoordelijkheid tabaksproducten)
 
 1. Producenten van tabaksproducten met kunststofhoudende filters en kunststofhoudende filters die worden verkocht voor gebruik in combinatie met tabaksproducten zijn met ingang van 5 januari 2023 verantwoordelijk voor het bijdragen aan vermindering van het zwerfafval van die tabaksproducten in het milieu door de kosten te dekken van de overheidsmaatregelen, bedoeld in [artikel 4, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=4&z=2024-12-31&g=2024-12-31), alsmede de kosten voor de openbare inzamelsystemen voor het afval van die producten, het plaatsen en exploiteren daarvan.
 
@@ -122,7 +148,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Een in Nederland gevestigde producent die producten als bedoeld in het eerste lid in een andere lidstaat verkoopt, wijst in die andere lidstaat een gemachtigde vertegenwoordiger aan, die verantwoordelijk is voor het naleven van de verplichtingen van de producent die voortvloeien uit de uitgebreide producentenverantwoordelijkheid ter implementatie van EU-richtlijn kunststofproducten voor eenmalig gebruik in die andere lidstaat.
 
-#### Artikel 6. (minimum inzamelingspercentage voor kunststofhoudend vistuig)
+##### Artikel 6. (minimum inzamelingspercentage voor kunststofhoudend vistuig)
 
 1. Producenten van kunststofhoudend vistuig zijn verantwoordelijk voor de inzameling van een jaarlijks minimumpercentage afval van kunststofhoudend vistuig, dat voor 2022 tenminste 23% bedraagt van door hen in dat jaar in Nederland in de handel gebracht kunststofhoudend vistuig en voor de jaren 2023 tot en met 2027 per jaar 3% hoger ligt.
 
@@ -130,7 +156,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het jaarlijks minimumpercentage afval van kunststofhoudend vistuig, bedoeld in het eerste lid, geldt na inwerkingtreding van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=7&z=2024-12-31&g=2024-12-31) ook als nationaal jaarlijks minimuminzamelingspercentage als bedoeld in artikel 8, achtste lid, van EU-richtlijn kunststofproducten voor eenmalig gebruik.
 
-#### Artikel 7. (uitgebreide producentenverantwoordelijkheid voor kunststofhoudend vistuig)
+##### Artikel 7. (uitgebreide producentenverantwoordelijkheid voor kunststofhoudend vistuig)
 
 1. De producenten van kunststofhoudend vistuig dekken de kosten van de volgende maatregelen:
 
@@ -148,11 +174,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Producenten van kunststofhoudend vistuig leveren met ingang van het daarvoor vastgestelde kalenderjaar in overeenstemming met het daarvoor geldende format aan Onze Minister de gegevens aan over de door hen jaarlijks in Nederland in de handel gebrachte hoeveelheid kunststofhoudend vistuig en ingezameld afval van dat vistuig door havenontvangstvoorzieningen of door gelijkwaardige inzamelsystemen die niet onder de richtlijn havenontvangstvoorzieningen vallen.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Besluit beheer verpakkingen 2014.
 
-#### Artikel 9. (inwerkingtreding)
+##### Artikel 9. (inwerkingtreding)
 
 1. Dit besluit treedt in werking met ingang van 3 juli 2021. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 2 juli 2021, treedt het besluit in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
@@ -162,7 +188,7 @@ Wijzigt het Besluit beheer verpakkingen 2014.
 
 - b. treden de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=4&z=2024-12-31&g=2024-12-31) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=7&z=2024-12-31&g=2024-12-31) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 10. (citeertitel)
+##### Artikel 10. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit kunststofproducten voor eenmalig gebruik.
 

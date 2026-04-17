@@ -1,13 +1,39 @@
 ---
-title: "Besluit stortplaatsen en stortverboden afvalstoffen"
+title: "Besluit van 8 december 1997, houdende een stortverbod binnen inrichtingen voor aangewezen categorieën van afvalstoffen (Besluit stortverbod afvalstoffen)"
 identifier: "BWBR0009094"
-categorie: "Milieu"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009094"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009094"
+soort: "AMvB"
+stam_id: "2039603"
+version_id: "16471282"
+internal_id: "C22646441"
+label_id: "1987804"
+dtd_version: "2.0"
+original_entry_into_force: "2009-06-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009094/2026-01-01/0"
+intitule_bron: "Stb.1997-665"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-12-08"
+intitule_published: "1997-12-18"
+intitule_in_force: "1997-12-18"
+intitule_status: "goed"
+original_publication: "Stb.2009-250"
+original_signed_date: "2009-06-12"
+original_published_date: "2009-06-23"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2009-250"
+entry_into_force_date: "2009-06-12"
+jci_1_3: "jci1.3:c:BWBR0009094&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0009094&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit stortplaatsen en stortverboden afvalstoffen"
+signed_date: "2009-06-12"
+entry_into_force: "2009-06-12"
 ---
-
 # Besluit van 8 december 1997, houdende een stortverbod binnen inrichtingen voor aangewezen categorieën van afvalstoffen (Besluit stortverbod afvalstoffen)
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 4 november 1997, nr. MJZ97566861, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Stortverboden en begripsomschrijving van stortplaats
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het is verboden afvalstoffen te storten op een stortplaats, die behoren tot een of meer van de navolgende categorieën:
 
@@ -95,11 +121,11 @@ Hebben goedgevonden en verstaan:
 
 2. Een wijziging van de bijlage bij beschikking nr. 2000/532/EG of van bijlage III bij de Kaderrichtlijn afvalstoffen gaat voor de toepassing van het eerste lid gelden met ingang van de dag waarop aan die wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 In dit besluit en de daarop berustende regels wordt verstaan onder stortplaats hetgeen daaronder wordt verstaan in de [bijlage bij de Omgevingswet](onbekend).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het is verboden afvalstoffen als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01), anders dan voor het opslaan, op of in de bodem te brengen, anders dan deze te storten op een stortplaats of winningsafvalvoorziening.
 
@@ -131,7 +157,7 @@ In dit besluit en de daarop berustende regels wordt verstaan onder stortplaats h
 
 5. Als categorie van gevallen als bedoeld in [artikel 10.2, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.2), zijn de in het tweede lid onder b tot en met g en de in het vierde lid onder b en c aangegeven gevallen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan een omgevingsvergunning voor een milieubelastende activiteit die betrekking heeft op een stortplaats als bedoeld in [artikel 3.85, eerste lid van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.85), kan het bevoegd gezag het voorschrift verbinden dat voor daarbij aangewezen afvalstoffen het in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01), bedoelde verbod niet geldt indien die afvalstoffen zijn aangewezen krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01), dan wel indien daarvoor een verklaring geldt als bedoeld in [artikel 6.](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01)
 
@@ -139,11 +165,11 @@ In dit besluit en de daarop berustende regels wordt verstaan onder stortplaats h
 
 3. Het eerste lid is niet van toepassing op de categorieën van afvalstoffen, genoemd in [artikel 1, eerste lid, onder 1 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 5
+##### Artikel 5
 
 Bij regeling van Onze Minister kunnen categorieën van afvalstoffen, genoemd in [artikel 1, eerste lid, categorie 15](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01) en volgende, of delen van die categorieën worden aangewezen, waarvoor naar zijn oordeel in Nederland geen andere wijze van afvalbeheer mogelijk is dan storten.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Op verzoek van degene die een stortplaats exploiteert, kunnen gedeputeerde staten verklaren dat er naar hun oordeel in Nederland geen andere wijze van afvalbeheer mogelijk is dan storten voor in [artikel 1, eerste lid, categorie 15](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01) en volgende, genoemde afvalstoffen of voor een deel van een zodanige categorie.
 
@@ -153,29 +179,29 @@ Bij regeling van Onze Minister kunnen categorieën van afvalstoffen, genoemd in 
 
 4. Van een verklaring als bedoeld in het eerste lid, doen gedeputeerde staten zo spoedig mogelijk mededeling aan Onze Minister.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij regeling van Onze Minister worden regels gesteld omtrent de gegevens die worden verstrekt aan gedeputeerde staten bij een verzoek als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), en omtrent de gegevens die moeten worden verstrekt aan Onze Minister na het storten van afvalstoffen overeenkomstig de regeling bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en met een verklaring als bedoeld in artikel 6.
 
-#### Artikel 10
+##### Artikel 10
 
 Voor degene waarvoor een verbod als bedoeld in de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01), of [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=3&z=2026-01-01&g=2026-01-01), gaat gelden en waarin in de periode van drie maanden voorafgaand aan het tijdstip waarop dat verbod gaat gelden, handelingen plegen te worden verricht, waarop dat verbod betrekking heeft, blijft dat verbod met betrekking tot die handelingen buiten toepassing gedurende drie maanden na dat tijdstip.
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt deze wet.
 
-#### Artikel 11
+##### Artikel 11
 
 Voor een inrichting waarvoor een verbod als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2012-01-01&g=2012-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01) gaat gelden en waarin onmiddellijk voorafgaand aan het tijdstip waarop dat verbod gaat gelden, handelingen plegen te worden verricht, als waarop dat verbod betrekking heeft, blijft dat verbod met betrekking tot die handelingen buiten toepassing gedurende 3 maanden na dat tijdstip.
 
 #### Paragraaf 2. Bepalingen met betrekking tot stortplaatsen
 
-#### Artikel 11a
+##### Artikel 11a
 
 In het bepaalde bij of krachtens deze paragraaf wordt verstaan onder:
 
@@ -203,11 +229,11 @@ In het bepaalde bij of krachtens deze paragraaf wordt verstaan onder:
 
 - **stabiele, niet-reactieve gevaarlijke afvalstoffen:** gevaarlijke afvalstoffen waarvan het uitlooggedrag onder normale omstandigheden niet in ongunstige zin verandert.
 
-#### Artikel 11b
+##### Artikel 11b
 
 Vervallen
 
-#### Artikel 11c
+##### Artikel 11c
 
 1. Aan een omgevingsvergunning die betrekking heeft op een stortplaats als bedoeld in [artikel 3.85, eerste lid van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.85) verbindt het bevoegd gezag voorschriften, waarin ten minste is opgenomen:
 
@@ -247,17 +273,17 @@ Vervallen
 
 3. Voorts verbindt het bevoegd gezag aan een zodanige vergunning voorschriften, inhoudende dat ten minste eenmaal per jaar aan het bevoegd gezag verslag wordt uitgebracht over de soorten en hoeveelheden afvalstoffen die op de stortplaats zijn gestort.
 
-#### Artikel 11d
+##### Artikel 11d
 
 Het bevoegd gezag kan aan een omgevingsvergunning als bedoeld in [artikel 11c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11c&z=2026-01-01&g=2026-01-01), voorschriften verbinden die afwijken van de bijlage bij dit besluit, voor zover dit uitdrukkelijk in die bijlage is vermeld.
 
-#### Artikel 11e
+##### Artikel 11e
 
 Vervallen
 
 #### Paragraaf 3. Uitbreiding werkingssfeer
 
-#### Artikel 12
+##### Artikel 12
 
 Na inwerkingtreding van dit besluit:
 
@@ -265,17 +291,17 @@ Na inwerkingtreding van dit besluit:
 
 - b. worden de met toepassing van het Besluit stortverbod afvalstoffen (Stb. 1995, 345) vastgestelde regels en andere besluiten gelijkgesteld met regels onderscheidenlijk besluiten, vastgesteld met toepassing van dit besluit.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 1. Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verstreken sedert de datum van uitgifte van het Staatsblad waarin het wordt geplaatst met uitzondering van [artikel 1, eerste lid, categorieën 11, 13, 17, 18, 23 en 25](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01), [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01); deze artikelen of onderdelen daarvan treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. [Artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), vervalt met ingang van een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit wordt aangehaald als: Besluit stortplaatsen en stortverboden afvalstoffen.
 
@@ -347,7 +373,7 @@ Op een stortplaats voor inerte afvalstoffen mogen slechts worden geaccepteerd:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 11f
+##### Artikel 11f
 
 1. Het is verboden op een stortplaats afvalstoffen te accepteren:
 
@@ -387,7 +413,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 4. Overgangs- en slotbepalingen
 
-#### Artikel 12a
+##### Artikel 12a
 
 Dit besluit berust mede op [artikel 32, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=32), [artikel 5.34, tweede lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.34) en de [artikelen 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.40) en [10.2, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.2).
 
@@ -413,7 +439,7 @@ Op een stortplaats voor gevaarlijke afvalstoffen mogen slechts worden geacceptee
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 11g
+##### Artikel 11g
 
 1. Degene die een stortplaats exploiteert, verricht alvorens afvalstoffen te accepteren, achtereenvolgens de volgende handelingen:
 
@@ -429,7 +455,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. De persoon, bedoeld in het eerste lid, registreert de datum, het tijdstip en de resultaten van de visuele inspectie.
 
-#### Artikel 11h
+##### Artikel 11h
 
 1. Degene die een stortplaats exploiteert, draagt er zorg voor dat ten minste eenmaal per jaar door middel van het nemen en analyseren van monsters wordt gecontroleerd of de regelmatige afvalstoffen die hij accepteert:
 
@@ -451,7 +477,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 8. Dit artikel is niet van toepassing op monolithische afvalstoffen.
 
-#### Artikel 11i
+##### Artikel 11i
 
 1. Degene die een stortplaats exploiteert, registreert de op de stortplaats geaccepteerde afvalstoffen.
 
@@ -459,7 +485,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 3. Uitbreiding werkingssfeer
 
-#### Artikel 11k
+##### Artikel 11k
 
 1. Voor de toepassing van dit artikel wordt onder radioactieve afvalstof, natuurlijke bron, activiteit en activiteitsconcentratie verstaan hetgeen daaronder wordt verstaan in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.2) juncto de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1) en [2 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2).
 
@@ -505,21 +531,21 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 Het is verboden afvalstoffen te verdunnen of te vermengen om te voldoen aan de voorschriften, bedoeld in [artikel 11f, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=2&artikel=11f&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 9
+##### Artikel 9
 
 Bij regeling van Onze Minister worden de gevallen aangewezen, waarin straalgrit niet reinigbaar is.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Onze minister van Infrastructuur en Waterstaat kan op verzoek een verklaring afgeven waaruit blijkt dat grond als bedoeld in [artikel 1, eerste lid, onderdelen 17a, 17b, 30 en 31](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01), van dit besluit niet reinigbaar en niet koud-immobiliseerbaar is.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de beoordeling van de reinigbaarheid van grond en het afgeven van een verklaring van niet reinigbaarheid van grond.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Het bevoegd gezag verbindt aan een omgevingsvergunning voor de opslag van afvalstoffen het voorschrift dat opslag van afvalstoffen is toegestaan voor een termijn van ten hoogste één jaar.
 

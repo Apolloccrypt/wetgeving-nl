@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst inzake Partnerschap en Samenwerking waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Russische Federatie, anderzijds"
 identifier: "BWBV0001261"
-categorie: "Internationaal recht"
-publicatiedatum: 1997-12-01
-laatste_update: 1997-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001261"
+country: "nl"
+rank: "verdrag"
+publication_date: "1997-12-01"
+last_updated: "1997-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001261"
+soort: "verdrag"
+stam_id: "10001629923"
+version_id: "10001710692"
+internal_id: "C10006986401"
+label_id: "10001632734"
+dtd_version: "2.0"
+original_entry_into_force: "1997-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001261/1997-12-01/0"
+intitule_bron: "Trb.1994-268"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-11-20"
+intitule_published: "1994-12-12"
+intitule_in_force: "1998-03-13"
+intitule_status: "goed"
+original_publication: "Trb.1994-268"
+original_signed_date: "1996-11-20"
+original_published_date: "1994-12-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-268"
+entry_into_force_date: "1997-12-01"
+jci_1_3: "jci1.3:c:BWBV0001261&z=1997-12-01&g=1997-12-01"
+jci_1_0: "1.0:c:BWBV0001261&g=1997-12-01"
+citeertitel_status: "redactioneel"
+signed_date: "1996-11-20"
+entry_into_force: "1997-12-01"
 ---
-
 # Overeenkomst inzake Partnerschap en Samenwerking waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Russische Federatie, anderzijds
 
 Het Koninkrijk België,
@@ -86,7 +111,7 @@ Verlangende culturele samenwerking te bevorderen en de doorstroming van informat
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Er wordt een partnerschap tot stand gebracht tussen de Gemeenschap en haar Lid-Staten, enerzijds, en Rusland, anderzijds. Dit partnerschap heeft ten doel:
 
@@ -108,19 +133,19 @@ Er wordt een partnerschap tot stand gebracht tussen de Gemeenschap en haar Lid-S
 
 ## TITEL I. ALGEMENE BEGINSELEN
 
-#### Artikel 2
+##### Artikel 2
 
 De eerbiediging van de democratische beginselen en de mensenrechten, als onder meer vastgelegd in de Slotakte van Helsinki en het Handvest van Parijs voor een Nieuw Europa, vormen de grondslag van het binnenlands en buitenlands beleid van de Partijen en zijn een essentieel onderdeel van het partnerschap en van deze Overeenkomst.
 
-#### Artikel 3
+##### Artikel 3
 
 De Partijen verbinden zich ertoe, voor zover de omstandigheden het toelaten, ontwikkelingen in het kader van de desbetreffende titels van deze Overeenkomst, in het bijzonder [titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=III&z=1997-12-01&g=1997-12-01) en [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=VI&artikel=53&z=1997-12-01&g=1997-12-01), te bekijken met het oog op het tot stand brengen van een onderlinge vrijhandelszone. De Samenwerkingsraad kan de Partijen aanbevelingen met betrekking tot deze ontwikkelingen doen. Aan deze ontwikkelingen wordt slechts uitvoering gegeven in een overeenkomst tussen de Partijen in overeenstemming met hun onderscheiden procedures. De Partijen plegen in 1998 overleg om na te gaan of de omstandigheden van dien aard zijn dat kan worden begonnen met onderhandelingen over de totstandbrenging van een vrijhandelszone.
 
-#### Artikel 4
+##### Artikel 4
 
 De Partijen verbinden zich ertoe samen, in onderlinge overeenstemming, na te gaan welke wijzigingen eventueel in een onderdeel van de Overeenkomst dienen te worden aangebracht in verband met gewijzigde omstandigheden, inzonderheid de situatie als gevolg van de toetreding van Rusland tot de GATT/WTO. Het eerste onderzoek vindt plaats drie jaar na de inwerkingtreding van deze Overeenkomst, of wanneer Rusland tot de GATT/WTO toetreedt, indien dat eerder plaatsvindt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De krachtens deze Overeenkomst door Rusland toegekende meestbegunstigingsbehandeling gedurende een overgangsperiode die vijf jaar na de inwerkingtreding van deze Overeenkomst afloopt, is niet van toepassing op de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=1&z=1997-12-01&g=1997-12-01) vermelde voordelen die Rusland heeft toegekend aan andere landen van de voormalige USSR. Deze periode kan, zo nodig, in onderlinge overeenstemming tussen de Partijen worden verlengd voor bepaalde sectoren.
 
@@ -128,7 +153,7 @@ De Partijen verbinden zich ertoe samen, in onderlinge overeenstemming, na te gaa
 
 ## TITEL II. POLITIEKE DIALOOG
 
-#### Artikel 6
+##### Artikel 6
 
 Er wordt een regelmatige politieke dialoog tot stand gebracht tussen de Partijen, die zal worden ontwikkeld en geïntensiveerd. Deze dialoog begeleidt en consolideert het proces waarbij de Europese Unie en Rusland nader tot elkaar komen, ondersteunt de politieke en economische veranderingen die in Rusland aan de gang zijn en draagt bij tot de totstandkoming van nieuwe vormen van samenwerking. De politieke dialoog strekt ertoe
 
@@ -138,13 +163,13 @@ Er wordt een regelmatige politieke dialoog tot stand gebracht tussen de Partijen
 
 - -. ervoor te zorgen dat de Partijen streven naar samenwerking voor aangelegenheden op het gebied van de eerbiediging van de democratische beginselen en van de mensenrechten, waarbij zo nodig overleg wordt gepleegd over aangelegenheden die verband houden met de juiste toepassing ervan.
 
-#### Artikel 7
+##### Artikel 7
 
 1. In beginsel tweemaal per jaar heeft een bijeenkomst plaats tussen de Voorzitter van de Raad van de Europese Unie en de Voorzitter van de Europese Commissie, enerzijds, en de President van Rusland, anderzijds.
 
 2. Op ministerieel niveau vindt de politieke dialoog plaats in het kader van de bij [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=XI&artikel=90&z=1997-12-01&g=1997-12-01) opgerichte Samenwerkingsraad en bij andere gelegenheden, in onderlinge overeenstemming ook met de Trojka van de Europese Unie.
 
-#### Artikel 8
+##### Artikel 8
 
 De Partijen voorzien in andere procedures en regelingen voor politieke dialoog, met name in de volgende vormen:
 
@@ -154,13 +179,13 @@ De Partijen voorzien in andere procedures en regelingen voor politieke dialoog, 
 
 - -. alle andere middelen, waaronder vergaderingen van deskundigen, die bijdragen tot het consolideren en ontwikkelen van deze dialoog.
 
-#### Artikel 9
+##### Artikel 9
 
 Op parlementair niveau vindt de politieke dialoog plaats in het kader van het bij [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=XI&artikel=95&z=1997-12-01&g=1997-12-01) opgerichte Parlementair Samenwerkingscomité.
 
 ## TITEL III. GOEDERENVERKEER
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Partijen passen ten aanzien van elkaar de algemene meestbegunstigingsregeling toe van [artikel I, lid 1, van de GATT](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&artikel=I).
 
@@ -172,7 +197,7 @@ Op parlementair niveau vindt de politieke dialoog plaats in het kader van het bi
 
 - c. voordelen die aan bepaalde landen worden toegekend overeenkomstig de [GATT](onbekend) en andere internationale regelingen ten gunste van ontwikkelingslanden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De uit het grondgebied van een Partij herkomstige produkten die op het grondgebied van de andere Partij worden ingevoerd, worden direct noch indirect onderworpen aan enige interne belastingen of andere interne heffingen die hoger zijn dan die welke direct of indirect op soortgelijke binnenlandse produkten van toepassing zijn.
 
@@ -180,7 +205,7 @@ Op parlementair niveau vindt de politieke dialoog plaats in het kader van het bi
 
 3. [Artikel III, leden 8, 9 en 10, van de GATT](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&artikel=III) is van overeenkomstige toepassing tussen de Partijen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Partijen zijn het erover eens dat het beginsel van de vrije doorvoer een essentiële voorwaarde is voor het bereiken van de doelstellingen van deze Overeenkomst.
 
@@ -188,7 +213,7 @@ Met het oog hierop waarborgt elke Partij de vrije doorgang over zijn grondgebied
 
 2. De in [artikel V, leden 2,3, 4 en 5, van de GATT](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&artikel=V) vastgestelde regels zijn tussen de Partijen van toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 De hierna volgende artikelen van de [GATT](https://wetten.overheid.nl/jci1.3:c:BWBV0006316) zijn van overeenkomstige toepassing tussen de Partijen:
 
@@ -200,21 +225,21 @@ De hierna volgende artikelen van de [GATT](https://wetten.overheid.nl/jci1.3:c:B
 
 - 4. [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&artikel=X).
 
-#### Artikel 14
+##### Artikel 14
 
 Onverminderd de rechten en verplichtingen die voortvloeien uit de beide Partijen bindende internationale overeenkomsten betreffende de tijdelijke invoer van goederen, verleent elke Partij de andere Partij, in de gevallen en volgens de procedures die zijn vastgesteld in enige andere voor haar bindende internationale overeenkomst op dit gebied en overeenkomstig haar nationale wettelijke regeling ter zake, vrijstelling van invoerrechten en -heffingen op goederen die tijdelijk worden ingevoerd. Deze wettelijke bepalingen worden toegepast met inachtneming van de meestbegunstigingsregeling en, derhalve, onder voorbehoud van de in [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=III&artikel=10&z=1997-12-01&g=1997-12-01), van deze Overeenkomst vermelde uitzonderingen. Hierbij wordt rekening gehouden met de voorwaarden waaronder de uit een dergelijke Overeenkomst voortvloeiende verplichtingen door de betrokken Partij zijn aanvaard.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Onverminderd het bepaalde in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=III&artikel=17&z=1997-12-01&g=1997-12-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=III&artikel=20&z=1997-12-01&g=1997-12-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=III&artikel=21&z=1997-12-01&g=1997-12-01) van deze Overeenkomst en in de [artikelen 77](https://wetten.overheid.nl/jci1.3:c:BWBV0002952&artikel=77), [81](https://wetten.overheid.nl/jci1.3:c:BWBV0002952&artikel=81), [244](https://wetten.overheid.nl/jci1.3:c:BWBV0002952&artikel=244), [249](https://wetten.overheid.nl/jci1.3:c:BWBV0002952&artikel=249) en [280 van de Toetredingsakte van Spanje en Portugal tot de Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0002952&artikel=280) worden bij de invoer in de Gemeenschap van goederen van oorsprong uit Rusland geen kwantitatieve beperkingen toegepast.
 
 2. Onverminderd het bepaalde in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=III&artikel=17&z=1997-12-01&g=1997-12-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=III&artikel=20&z=1997-12-01&g=1997-12-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=III&artikel=21&z=1997-12-01&g=1997-12-01) en in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=2&z=1997-12-01&g=1997-12-01) van deze Overeenkomst worden bij de invoer in Rusland van goederen van oorsprong uit de Gemeenschap geen kwantitatieve beperkingen toegepast.
 
-#### Artikel 16
+##### Artikel 16
 
 In afwachting dat Rusland tot de GATT/WTO toetreedt, plegen de partijen in het Samenwerkingscomité overleg over hun beleid op het gebied van invoerrechten, onder meer over wijzigingen in de tariefbescherming. Meer bepaald wordt dergelijk overleg aangeboden voor een voorgenomen verhoging van de tariefbescherming.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Wanneer een bepaald produkt op het grondgebied van een Partij wordt ingevoerd in dermate toegenomen hoeveelheden en onder voorwaarden die ernstige schade toebrengen of dreigen toe te brengen aan de eigen producenten van soortgelijke of rechtstreeks concurrerende produkten, dan kan de benadeelde Partij - de Gemeenschap dan wel Rusland - passende maatregelen nemen overeenkomstig de hierna volgende procedures en voorwaarden.
 
@@ -232,21 +257,21 @@ Een dergelijke maatregel wordt niet genomen voor deze andere Partij overleg heef
 
 7. Het recht tot het niet nakomen van in lid 6 bedoelde verplichtingen wordt niet uitgeoefend gedurende de eerste drie jaar dat een vrijwaringsmaatregel van toepassing is, mits de vrijwaringsmaatregel werd genomen naar aanleiding van een toename van de invoer in absolute cijfers, voor een periode van ten hoogste vier jaar en overeenkomstig de bepalingen van deze Overeenkomst.
 
-#### Artikel 18
+##### Artikel 18
 
 Niets in deze titel, inzonderheid in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=III&artikel=17&z=1997-12-01&g=1997-12-01) daarvan, staat in de weg aan of heeft gevolgen voor het nemen door een Partij van antidumpingmaatregelen of compenserende maatregelen overeenkomstig [artikel VI van de GATT](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&artikel=VI), de [Overeenkomst inzake de uitlegging en de toepassing van de artikelen VI, XVI en XXIII van de GATT](onbekend) of aanverwante nationale wetgeving.
 
 Elke Partij verklaart zich bereid de door de andere Partij naar voren gebrachte argumenten in verband met antidumping- of antisubsidieprocedures te onderzoeken en de betrokken belanghebbenden in kennis te stellen van de belangrijkste feiten en overwegingen die aan de definitieve beslissing ten grondslag zullen liggen. Voor definitieve antidumpingrechten en compenserende rechten worden ingesteld, doen de Partijen al het mogelijke om het probleem tot een constructieve oplossing te brengen.
 
-#### Artikel 19
+##### Artikel 19
 
 De Overeenkomst vormt geen beletsel voor verboden of beperkingen op de invoer, de uitvoer of de doorvoer van goederen die gerechtvaardigd zijn uit hoofde van de bescherming van de openbare zedelijkheid, de openbare orde en veiligheid, de gezondheid en het leven van personen en dieren of het behoud van planten, de bescherming van natuurlijke hulpbronnen, de bescherming van het nationaal artistiek, historisch of archeologisch erfgoed of uit hoofde van de bescherming van de intellectuele, industriële of commerciële eigendom, noch voor voorschriften betreffende goud en zilver. Deze verboden of beperkingen mogen echter geen middel tot willekeurige discriminatie, noch een verkapte beperking van de handel tussen de Partijen vormen.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze titel laat de Overeenkomst tussen de Europese Economische Gemeenschap en de Russische Federatie betreffende de handel in textielprodukten, die op 12 juni 1993 werd geparafeerd en die met terugwerkende kracht van toepassing is sedert 1 januari 1993, onverlet. Voorts is [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=III&artikel=15&z=1997-12-01&g=1997-12-01) van de onderhavige Overeenkomst niet van toepassing op de handel in textielprodukten van de hoofdstukken 50 tot en met 63 van de Gecombineerde Nomenclatuur.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De handel in produkten die onder het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal vallen, wordt geregeld bij de bepalingen
 
@@ -256,7 +281,7 @@ Deze titel laat de Overeenkomst tussen de Europese Economische Gemeenschap en de
 
 2. Een Contactgroep Kolen en Staal wordt opgericht overeenkomstig Protocol 1 bij deze Overeenkomst.
 
-#### Artikel 22. Handel in kernmaterialen
+##### Artikel 22. Handel in kernmaterialen
 
 1. De handel in kernmaterialen is geregeld bij:
 
@@ -286,13 +311,13 @@ Deze titel laat de Overeenkomst tussen de Europese Economische Gemeenschap en de
 
 ### HOOFDSTUK I. ARBEIDSVOORWAARDEN
 
-#### Artikel 23
+##### Artikel 23
 
 1. Met inachtneming van de in elke Lid-Staat geldende wettelijke regelingen, voorwaarden en procedures zorgen de Gemeenschap en haar Lid-Staten ervoor dat onderdanen van Rusland die wettig tewerkgesteld zijn op het grondgebied van een Lid-Staat, niet op grond van nationaliteit worden gediscrimineerd ten opzichte van de onderdanen van deze Lid-Staat wat werkomstandigheden, beloning en ontslag betreft.
 
 2. Met inachtneming van de in Rusland geldende voorwaarden en bepalingen kent Rusland aan onderdanen van een lid-Staat die wettig tewerkgesteld zijn op zijn grondgebied, de in lid 1 bepaalde behandeling toe.
 
-#### Artikel 24. Coördinatie van de sociale zekerheid
+##### Artikel 24. Coördinatie van de sociale zekerheid
 
 De Partijen verbinden zich ertoe overeenkomsten te sluiten met het doel:
 
@@ -306,21 +331,21 @@ De Partijen verbinden zich ertoe overeenkomsten te sluiten met het doel:
 
 - 2. onverminderd de voorwaarden en bepalingen welke in Rusland van toepassing zijn, de nodige bepalingen vast te stellen opdat werknemers die onderdaan zijn van een Lid-Staat en die wettig tewerkgesteld zijn in Rusland, alsmede hun gezinsleden die er wettig verblijven, een soortgelijke behandeling krijgen als deze bepaald onder het tweede en derde streepje van lid 1.
 
-#### Artikel 25
+##### Artikel 25
 
 De overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=I&artikel=24&z=1997-12-01&g=1997-12-01) van deze Overeenkomst te nemen maatregelen laten de uit bilaterale overeenkomsten tussen de Lid-Staten en Rusland voortvloeiende rechten en verplichtingen onverlet wanneer deze overeenkomsten in een gunstiger behandeling van onderdanen van de Lid-Staten of Rusland voorzien.
 
-#### Artikel 26
+##### Artikel 26
 
 De Samenwerkingsraad gaat na welke verbeteringen kunnen worden aangebracht in de werkomstandigheden van zakenlieden, rekening houdende met de internationale verbintenissen van de Partijen, met inbegrip van die welke in het document van de Conferentie van Bonn van de CVSE zijn neergelegd.
 
-#### Artikel 27
+##### Artikel 27
 
 De Samenwerkingsraad doet aanbevelingen voor de tenuitvoerlegging van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=I&artikel=23&z=1997-12-01&g=1997-12-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=I&artikel=26&z=1997-12-01&g=1997-12-01) van deze Overeenkomst.
 
 ### HOOFDSTUK II. BEPALINGEN INZAKE DE VESTIGING EN DE WERKING VAN VENNOOTSCHAPPEN
 
-#### Artikel 28
+##### Artikel 28
 
 1. De Gemeenschap en haar Lid-Staten, enerzijds, en Rusland, anderzijds, kennen elkaar, wat de voorwaarden voor de vestiging van vennootschappen op hun grondgebied betreft, geen minder gunstige behandeling toe dan die welke zij aan enig derde land toekennen, overeenkomstig hun respectieve wettelijke en bestuursrechtelijke bepalingen.
 
@@ -334,7 +359,7 @@ De Samenwerkingsraad doet aanbevelingen voor de tenuitvoerlegging van de [artike
 
 De in de leden 2 en 3 bedoelde behandeling wordt aan vennootschappen die op de datum van inwerkingtreding van deze Overeenkomst in de Gemeenschap of Rusland gevestigd zijn, toegekend met ingang van de datum van inwerkingtreding van deze Overeenkomst, en aan vennootschappen die zich na deze datum in de Gemeenschap of Rusland vestigen met ingang van de datum van vestiging.
 
-#### Artikel 29
+##### Artikel 29
 
 De bepalingen van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=II&artikel=28&z=1997-12-01&g=1997-12-01) van deze Overeenkomst, junctis de navolgende bepalingen, zijn van toepassing ten aanzien van de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=6&z=1997-12-01&g=1997-12-01) bedoelde bancaire en verzekeringsdiensten.
 
@@ -352,7 +377,7 @@ De Partijen komen overeen dat het zinsdeel „bestaande discriminatie wordt vers
 
 4. Voor de toepassing van deze Overeenkomst met betrekking tot de bankactiviteiten wordt een vennootschap geacht een Russische dochteronderneming van een vennootschap uit de Gemeenschap te zijn, wanneer meer dan vijftig procent (50 %) van het aandelenkapitaal in het bezit is van de vennootschap uit de Gemeenschap.
 
-#### Artikel 30
+##### Artikel 30
 
 Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
@@ -374,11 +399,11 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 - i. Wat de in [bijlage 6, deel B](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=6&z=1997-12-01&g=1997-12-01), bedoelde bancaire diensten betreft, wordt voor de toepassing van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=II&artikel=29&z=1997-12-01&g=1997-12-01) en [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=7&z=1997-12-01&g=1997-12-01) onder „dochteronderneming uit de Gemeenschap” of „Russische dochteronderneming”, als omschreven onder e, verstaan een dochteronderneming die een bank is in de zin van de ter zake geldende wetgeving van een Lid-Staat respectievelijk Rusland. Wat de in [bijlage 6, deel B](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=6&z=1997-12-01&g=1997-12-01), bedoelde bancaire diensten betreft, wordt voor de toepassing van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=II&artikel=29&z=1997-12-01&g=1997-12-01) en [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=7&z=1997-12-01&g=1997-12-01) onder „vennootschap uit de Gemeenschap” of „Russische vennootschap”, als omschreven onder h, verstaan een vennootschap die een bank is in de zin van de ter zake geldende wetgeving van een Lid-Staat respectievelijk Rusland.
 
-#### Artikel 31
+##### Artikel 31
 
 In afwijking van [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=XI&artikel=100&z=1997-12-01&g=1997-12-01) beletten de bepalingen van deze titel een Partij niet de maatregelen te nemen die zij noodzakelijk acht om te voorkomen dat de door haar genomen maatregelen in verband met de toegang van derde landen tot haar markten door middel van deze Overeenkomst worden omzeild.
 
-#### Artikel 32
+##### Artikel 32
 
 1. In afwijking van het bepaalde in [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=7&z=1997-12-01&g=1997-12-01) heeft een op het grondgebied van Rusland respectievelijk de Gemeenschap gevestigde vennootschap uit de Gemeenschap respectievelijk Rusland het recht, met inachtneming van de wetgeving van het gastland van vestiging, op het grondgebied van de Gemeenschap respectievelijk Rusland werknemers die onderdaan zijn van een Lid-Staat respectievelijk Rusland in dienst te nemen of deze door een van haar dochterondernemingen, filialen of joint ventures in dienst te laten nemen, mits deze werknemers een sleutelpositie in de zin van lid 2 van dit artikel bekleden en zij uitsluitend door vennootschappen, dochterondernemingen, filialen of joint ventures tewerkgesteld worden. De verblijfs- en werkvergunningen van deze werknemers dekken slechts de tijd van die tewerkstelling.
 
@@ -396,11 +421,11 @@ In afwijking van [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&t
 
 - c. een „binnen de onderneming overgeplaatste persoon” is een natuurlijke persoon die voor een organisatie op het grondgebied van een Partij werkzaam is en die tijdelijk wordt overgeplaatst in het kader van economische activiteiten op het grondgebied van de andere Partij. De hoofdvestiging van de betrokken organisatie dient op het grondgebied van een Partij te zijn gevestigd en de overplaatsing dient te geschieden naar een vestiging van deze organisatie die op het grondgebied van de andere Partij daadwerkelijk soortgelijke economische activiteiten verricht.
 
-#### Artikel 33
+##### Artikel 33
 
 Wat de vestiging en, voor zover deze overeenkomst hierin niet voorziet, de werking van elkaars vennootschappen op hun grondgebied betreft, erkennen de Partijen dat het belangrijk is elkaar de nationale behandeling toe te kennen en komen zij overeen de mogelijkheid te onderzoeken om op een voor beide Partijen aanvaardbare grondslag en met inachtneming van de aanbevelingen van de Samenwerkingsraad daartoe strekkende maatregelen te nemen.
 
-#### Artikel 34
+##### Artikel 34
 
 1. De Partijen vermijden in zoverre mogelijk het nemen van maatregelen of het ontplooien van activiteiten die de voorwaarden voor de vestiging en de werking van vennootschappen uit de andere Partij restrictiever maken dan op de dag voorafgaande aan de datum van ondertekening van deze Overeenkomst het geval was.
 
@@ -420,7 +445,7 @@ Indien een Partij na een dergelijk onderzoek van mening is dat de andere Partij 
 
 4. De bepalingen van dit artikel laten die van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=IV&artikel=51&z=1997-12-01&g=1997-12-01) onverlet. De omstandigheden waarop [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=IV&artikel=51&z=1997-12-01&g=1997-12-01) van toepassing is, worden uitsluitend beheerst door de bepalingen van dat artikel, met uitsluiting van elk ander artikel.
 
-#### Artikel 35
+##### Artikel 35
 
 1. [Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=II&artikel=28&z=1997-12-01&g=1997-12-01) is niet van toepassing op het vervoer door de lucht, over binnenwateren en over zee.
 
@@ -442,15 +467,15 @@ Indien een Partij na een dergelijk onderzoek van mening is dat de andere Partij 
 
 ### HOOFDSTUK III. GRENSOVERSCHRIJDEND DIENSTENVERKEER
 
-#### Artikel 36
+##### Artikel 36
 
 Voor de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=5&z=1997-12-01&g=1997-12-01) bij deze Overeenkomst vermelde sectoren verlenen de Partijen elkaar een behandeling welke niet minder gunstig is dan die welke zij aan om het even welk derde land toekennen ten aanzien van de voorwaarden voor de grensoverschrijdende dienstverlening door vennootschappen uit de Gemeenschap respectievelijk Russische vennootschappen op het grondgebied van Rusland respectievelijk de Gemeenschap, in overeenstemming met de op het grondgebied van de respectieve Partijen toepasselijke wettelijke en bestuursrechtelijke bepalingen.
 
-#### Artikel 37
+##### Artikel 37
 
 Behoudens het bepaalde in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=IV&artikel=48&z=1997-12-01&g=1997-12-01) van deze Overeenkomst staan de Partijen voor de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=5&z=1997-12-01&g=1997-12-01) bij deze Overeenkomst vermelde sectoren het tijdelijke verkeer toe van natuurlijke personen die een vennootschap uit de Gemeenschap of een Russische vennootschap vertegenwoordigen en om tijdelijke toegang verzoeken voor onderhandelingen over de verkoop van grensoverschrijdende diensten of voor het sluiten van overeenkomsten betreffende de verkoop van grensoverschrijdende diensten voor die vennootschap, onder de voorwaarde dat die vertegenwoordigers niet zelf betrokken zijn bij de rechtstreekse verkoop aan de gewone afnemer of bij het verstrekken van diensten.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Voor de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=5&z=1997-12-01&g=1997-12-01) vermelde sectoren kan elke Partij de voorwaarden vaststellen voor het grensoverschrijdend dienstenverkeer naar haar grondgebied. Voor zover de desbetreffende voorschriften algemeen toepasselijk zijn, worden zij op billijke, objectieve en onpartijdige wijze toegepast.
 
@@ -472,7 +497,7 @@ Indien een Partij naar aanleiding van een dergelijk onderzoek van mening is dat 
 
 5. De bepalingen van dit artikel laten het bepaalde in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=IV&artikel=51&z=1997-12-01&g=1997-12-01) onverlet. Met betrekking tot de in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=IV&artikel=51&z=1997-12-01&g=1997-12-01) bedoelde situaties zijn alleen de bepalingen van dat artikel, met uitsluiting van alle andere, van toepassing.
 
-#### Artikel 39
+##### Artikel 39
 
 1. De Partijen verbinden zich ertoe het beginsel van onbeperkte toegang tot de internationale markt en het internationaal vervoer op commerciële basis daadwerkelijk toe te passen ten aanzien van het zeevervoer.
 
@@ -490,7 +515,7 @@ Indien een Partij naar aanleiding van een dergelijk onderzoek van mening is dat 
 
 3. De partijen komen overeen dat zij, na de inwerkingtreding van deze Overeenkomst en niet later dan 31 december 1996, onderhandelingen zullen voeren over het in opeenvolgende fasen openstellen van hun binnenwateren voor de onderdanen en scheepvaartmaatschappijen van de andere Partij, met het oog op de vrijmaking van de op het internationale zeevervoer aansluitende diensten op de binnenwateren.
 
-#### Artikel 40
+##### Artikel 40
 
 Ten einde gunstige voorwaarden voor het spoorwegvervoer tussen de Partijen tot stand te brengen is tussen de Partijen overeengekomen dat zij in het kader van deze Overeenkomst en via geschikte bilaterale en multilaterale regelingen het volgende zullen bevorderen:
 
@@ -502,45 +527,45 @@ Ten einde gunstige voorwaarden voor het spoorwegvervoer tussen de Partijen tot s
 
 - -. de beveiliging en uitbreiding van het internationaal personenvervoer tussen de Lid-Staten en Rusland.
 
-#### Artikel 41
+##### Artikel 41
 
 In het kader van de samenwerking worden er met betrekking tot lanceringen en transport in de ruimte eerlijke, evenwichtige, op de concurrentie gerichte en op gezonde economische beginselen steunende voorwaarden gehanteerd en worden er met name stappen ondernomen om te komen tot onderhandelingen over en de tenuitvoerlegging van multilaterale regels betreffende de internationale handel in op lanceringen en transport in de ruimte betrekking hebbende diensten.
 
 Tijdens de tot het jaar 2000 lopende overgangsperiode worden voorwaarden overeengekomen voor de op ruimtelanceringen betrekking hebbende dienstverlening.
 
-#### Artikel 42
+##### Artikel 42
 
 De Partijen streven ernaar elkaar alle mogelijke bijstand te verlenen met betrekking tot maatregelen die de grensoverschrijdende handel in mobiele satellietcommunicatiemiddelen op hun respectieve grondgebieden bevorderen, in overeenstemming met de respectieve wetgevingen, procedures en voorwaarden van elke Partij. De Partijen komen in 1996 bijeen ter overweging van de mogelijkheid om elkaar met betrekking tot mobiele satellietdiensten een meestbegunstigingsbehandeling te verlenen.
 
-#### Artikel 43
+##### Artikel 43
 
 Met het oog op een gecoördineerde en aan hun commerciële behoeften aangepaste ontwikkeling van het vervoer tussen de Partijen kunnen deze na de inwerkingtreding van deze Overeenkomst bijzondere overeenkomsten sluiten met betrekking tot de voorwaarden voor de wederzijdse toegang tot elkaars markten en het verlenen van diensten in de vervoerssector, voor zover bedoelde voorwaarden nog niet in deze Overeenkomst zijn vastgelegd. Deze overeenkomsten kunnen op meer dan één of op slechts één enkele vervoertak betrekking hebben.
 
 ### HOOFDSTUK IV. ALGEMENE BEPALINGEN
 
-#### Artikel 44
+##### Artikel 44
 
 Voor de toepassing van de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=8&z=1997-12-01&g=1997-12-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=III&z=1997-12-01&g=1997-12-01) en van [Titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=V&z=1997-12-01&g=1997-12-01) wordt geen rekening gehouden met de behandeling die door de Gemeenschap, haar Lid-Staten of Rusland wordt toegekend op grond van de verbintenissen welke in het kader van overeenkomsten inzake economische integratie zijn aangegaan.
 
-#### Artikel 45
+##### Artikel 45
 
 Vennootschappen waarover de zeggenschap berust bij en die de exclusieve eigendom zijn van vennootschappen uit de Gemeenschap en Russische vennootschappen gezamenlijk, komen eveneens in aanmerking voor de bepalingen van de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=II&z=1997-12-01&g=1997-12-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=III&z=1997-12-01&g=1997-12-01) van deze titel en van [titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=V&z=1997-12-01&g=1997-12-01).
 
-#### Artikel 46
+##### Artikel 46
 
 1. De bepalingen van deze titel worden toegepast behoudens beperkingen die gerechtvaardigd zijn uit hoofde van de openbare orde, de openbare veiligheid en de volksgezondheid.
 
 2. Zij zijn niet van toepassing op de werkzaamheden die op het grondgebied van elke partij, zij het slechts occasioneel, verband houden met de uitoefening van het openbare gezag.
 
-#### Artikel 47
+##### Artikel 47
 
 De Samenwerkingsraad doet aanbevelingen met betrekking tot de verdere liberalisering van het dienstenverkeer, rekening houdende met de ontwikkeling van de dienstensectoren van de Partijen en met de andere door de Partijen aangegane internationale verbintenissen, vooral in het licht van de eindresultaten van de onderhandelingen betreffende de [Algemene Overeenkomst inzake de Handel in Diensten](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1B), hierna de „GATS” te noemen.
 
-#### Artikel 48
+##### Artikel 48
 
 Voor de toepassing van deze titel belet geen enkele bepaling van deze Overeenkomst de Partijen hun wettelijke en bestuursrechtelijke bepalingen betreffende toelating en verblijf, het verrichten van werk, arbeidsvoorwaarden, de vestiging van natuurlijke personen en het verrichten van diensten toe te passen, mits zij dat niet op zodanige wijze doen dat de voor een Partij uit een specifieke bepaling van deze Overeenkomst voortvloeiende voordelen teniet worden gedaan of beperkt. Deze bepaling laat de toepassing van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=IV&artikel=46&z=1997-12-01&g=1997-12-01) onverlet.
 
-#### Artikel 49
+##### Artikel 49
 
 1. De overeenkomstig de bepalingen van deze titel of [titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=V&z=1997-12-01&g=1997-12-01) toegekende meestbegunstigingsbehandeling is niet van toepassing op de belastingvoordelen waarin de Partijen voorzien of in de toekomst zullen voorzien in het kader van overeenkomsten ter voorkoming van dubbele belasting of andere fiscale regelingen.
 
@@ -548,7 +573,7 @@ Voor de toepassing van deze titel belet geen enkele bepaling van deze Overeenkom
 
 3. Niets in deze titel of in [titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=V&z=1997-12-01&g=1997-12-01) kan worden uitgelegd als een beletsel voor de Lid-Staten of Rusland om bij de toepassing van de desbetreffende bepalingen van hun fiscaal recht een onderscheid te maken tussen belastingplichtigen die zich niet in identieke situaties bevinden, inzonderheid met betrekking tot hun woonplaats.
 
-#### Artikel 50
+##### Artikel 50
 
 Onverminderd de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=II&artikel=32&z=1997-12-01&g=1997-12-01) en [37](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=III&artikel=37&z=1997-12-01&g=1997-12-01) kan geen enkele bepaling van de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=V&z=1997-12-01&g=1997-12-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=III&z=1997-12-01&g=1997-12-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=IV&z=1997-12-01&g=1997-12-01) worden uitgelegd als zou zij het recht verlenen:
 
@@ -562,7 +587,7 @@ Onverminderd de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&t
 
 - -. aan vennootschappen uit de Gemeenschap dan wel dochterondernemingen of filialen van vennootschappen uit de Gemeenschap in Rusland tot het voorzien in arbeidskrachten die onderdanen van Lid-Staten zijn en die namens of onder het toezicht van andere personen optreden in het kader van tijdelijke arbeidsovereenkomsten.
 
-#### Artikel 51
+##### Artikel 51
 
 1. De in het kader van deze Overeenkomst door een Partij aan de andere toegekende behandeling is met ingang van de termijn van een maand vóór het in werking treden van de daarop betrekking hebbende voorschriften van de [GATS](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1B), met betrekking tot de sectoren of maatregelen waarop de GATS betrekking heeft, in geen enkel geval gunstiger dan die welke door de eerste Partij in het kader van de GATS en met betrekking tot om het even welke dienstensector, dienstensubsector en wijze van dienstverlening wordt toegekend.
 
@@ -580,7 +605,7 @@ Onverminderd de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&t
 
 ## TITEL V. BETALINGS- EN KAPITAALVERKEER
 
-#### Artikel 52
+##### Artikel 52
 
 1. De Partijen verbinden zich ertoe machtiging te verlenen tot alle betaalverrichtingen op de lopende rekening van de betalingsbalans in vrij convertibele valuta tussen inwoners van de Gemeenschap en van Rusland voor zover deze verrichtingen betrekking hebben op het verkeer van goederen, diensten of personen in overeenstemming met de bepalingen van deze Overeenkomst.
 
@@ -604,7 +629,7 @@ Rusland past deze beperkingen op niet-discriminerende wijze toe. Zij dienen zoda
 
 ## TITEL VI. MEDEDINGING, BESCHERMING VAN INTELLECTUELE, INDUSTRIËLE EN COMMERCIËLE EIGENDOM, SAMENWERKING OP HET GEBIED VAN DE WETGEVING
 
-#### Artikel 53. Mededinging
+##### Artikel 53. Mededinging
 
 1. De Partijen komen overeen, door de toepassing van hun mededingingsvoorschriften of anderszins, te bewerkstelligen dat beperkingen van de mededinging door ondernemingen of ten gevolge van overheidsmaatregelen, voor zover zij de handel tussen de Gemeenschap en Rusland ongunstig kunnen beïnvloeden, ongedaan worden gemaakt of worden opgeheven.
 
@@ -626,7 +651,7 @@ Rusland past deze beperkingen op niet-discriminerende wijze toe. Zij dienen zoda
 
 5. Bovenstaande bepalingen doen op geen enkele wijze afbreuk aan de rechten van een Partij om afdoende maatregelen, en met name die bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=III&artikel=18&z=1997-12-01&g=1997-12-01), te nemen met betrekking tot distorsies van de handel.
 
-#### Artikel 54. Bescherming van intellectuele, industriële en commerciële eigendom
+##### Artikel 54. Bescherming van intellectuele, industriële en commerciële eigendom
 
 1. In overeenstemming met de bepalingen van dit artikel en van [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=10&z=1997-12-01&g=1997-12-01) bevestigen de Partijen het belang dat zij hechten aan een toereikende en doeltreffende bescherming en eerbiediging van de intellectuele, industriële en commerciële eigendomsrechten.
 
@@ -646,7 +671,7 @@ Rusland past deze beperkingen op niet-discriminerende wijze toe. Zij dienen zoda
 
 3. De Partijen bespreken in overeenstemming met [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=XI&artikel=90&z=1997-12-01&g=1997-12-01) geregeld de tenuitvoerlegging van dit artikel en van [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=10&z=1997-12-01&g=1997-12-01). Indien op het gebied van de intellectuele, industriële en commerciële eigendom er zich problemen voordoen welke de handelsvoorwaarden beïnvloeden, wordt op verzoek van om het even welke van de Partijen dringend overleg gepleegd ten einde tot wederzijds bevredigende oplossingen te komen.
 
-#### Artikel 55. Samenwerking op het gebied van wetgeving
+##### Artikel 55. Samenwerking op het gebied van wetgeving
 
 1. De Partijen erkennen dat een voorname voorwaarde voor het versterken van de economische banden tussen Rusland en de Gemeenschap de aanpassing van de wetgeving van Rusland aan die van de Gemeenschap is. Rusland doet het nodige om ervoor te zorgen dat zijn wetgeving geleidelijk in overeenstemming met die van de Gemeenschap wordt gebracht.
 
@@ -654,7 +679,7 @@ Rusland past deze beperkingen op niet-discriminerende wijze toe. Zij dienen zoda
 
 ## TITEL VII. ECONOMISCHE SAMENWERKING
 
-#### Artikel 56
+##### Artikel 56
 
 1. De Gemeenschap en Rusland bestrijken in hun bevordering van de samenwerking op economisch gebied een breed spectrum, ten einde aldus bij te dragen tot de ontwikkeling van hun respectieve economieën, de totstandbrenging van een gunstig internationaal economisch klimaat en de integratie van Rusland en een ruimer Europees samenwerkingsgebied. Deze samenwerking versterkt en ontwikkelt de economische banden ten voordele van beide Partijen.
 
@@ -680,7 +705,7 @@ Speciale aandacht wordt door de Partijen verleend aan maatregelen welke de samen
 
 6. De bepalingen van deze titel laten de handhaving van de mededingingsregels van de Partijen en van de bijzondere mededingingsvoorschriften voor ondernemingen van deze Overeenkomst onverlet.
 
-#### Artikel 57. Industriële samenwerking
+##### Artikel 57. Industriële samenwerking
 
 1. Bij de samenwerking wordt in het bijzonder de bevordering nagestreefd van:
 
@@ -698,7 +723,7 @@ Speciale aandacht wordt door de Partijen verleend aan maatregelen welke de samen
 
 2. Initiatieven op het gebied van de industriële samenwerking worden genomen met inachtneming van de door de Gemeenschap en Rusland vastgestelde prioriteiten. De initiatieven dienen in het bijzonder gericht te zijn op het opzetten van geschikte structuren voor ondernemingen, de verbetering van de know-how op het gebied van de bedrijfsvoering en de bevordering van doorzichtigheid met betrekking zowel tot de markten als tot de voorwaarden voor ondernemingen.
 
-#### Artikel 58. Bevordering en bescherming van investeringen
+##### Artikel 58. Bevordering en bescherming van investeringen
 
 1. Met inachtneming van de respectieve bevoegdheden van de Gemeenschap en de Lid-Staten is de samenwerking gericht op het creëren van een gunstig klimaat voor binnen- en buitenlandse investeringen, met name door betere voorwaarden voor de bescherming van investeringen, en door de mogelijkheid van kapitaalovermakingen en de uitwisseling van informatie over investeringsmogelijkheden.
 
@@ -712,11 +737,11 @@ Speciale aandacht wordt door de Partijen verleend aan maatregelen welke de samen
 
 - -. de uitwisseling van informatie over de wettelijke en bestuursrechtelijke regelingen en de administratieve praktijk op het gebied van investeringen.
 
-#### Artikel 59. Overheidsopdrachten
+##### Artikel 59. Overheidsopdrachten
 
 De Partijen werken samen met het oog op de vaststelling van voorwaarden voor de gunning via openbare en op mededinging gebaseerde procedures van contracten, met name door middel van aanbestedingen.
 
-#### Artikel 60. Normen en overeenstemmingsbeoordeling; consumentenbescherming
+##### Artikel 60. Normen en overeenstemmingsbeoordeling; consumentenbescherming
 
 1. De Partijen treffen binnen de grenzen van hun bevoegdheid en in overeenstemming met hun wetgeving maatregelen om de verschillen die tussen de Partijen bestaan op het gebied van de metrologie, de normalisatie en de certificatie te reduceren door aanmoediging van het gebruik van internationaal erkende instrumenten op die gebieden.
 
@@ -728,7 +753,7 @@ De Partijen stimuleren in het bijzonder de nuttige interactieve contacten tussen
 
 Deze samenwerking is in het bijzonder gericht op de opzet van permanente systemen voor wederzijdse voorlichting betreffende gevaarlijke produkten, de verbetering van de aan de consument verstrekte informatie inzonderheid betreffende de prijzen, de kenmerken van aangeboden produkten en diensten, de ontwikkeling van contacten tussen vertegenwoordigers van de consumentenbelangen, en een toenemende overeenstemming van het beleid inzake consumentenbescherming.
 
-#### Artikel 61. Mijnbouw en grondstoffen
+##### Artikel 61. Mijnbouw en grondstoffen
 
 1. De partijen werken samen met het oog op de ontwikkeling van de sectoren mijnbouw en grondstoffen. Daarbij wordt speciale aandacht besteed aan de samenwerking in de sector non-ferrometalen.
 
@@ -744,7 +769,7 @@ Deze samenwerking is in het bijzonder gericht op de opzet van permanente systeme
 
 4. Dit artikel laat de in het bijzonder op grondstoffen betrekking hebbende artikelen, met name de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=III&artikel=21&z=1997-12-01&g=1997-12-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=VII&artikel=65&z=1997-12-01&g=1997-12-01) en [66](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=VII&artikel=66&z=1997-12-01&g=1997-12-01), onverlet.
 
-#### Artikel 62. Wetenschappen en technologie
+##### Artikel 62. Wetenschappen en technologie
 
 1. De Partijen bevorderen de bilaterale samenwerking op het gebied van civiel wetenschappelijk onderzoek en technologische ontwikkeling (O & TO) op basis van het wederzijdse voordeel daarvan, en met inachtneming van de omvang van de beschikbare middelen, van de nodige toegankelijkheid van hun respectieve programma's en van een passend beschermingsniveau van de intellectuele, industriële en commerciële eigendomsrechten (IER).
 
@@ -762,7 +787,7 @@ Bij de uitvoering van deze samenwerkingsactiviteiten wordt bijzondere aandacht b
 
 3. Deze samenwerking wordt ten uitvoer gelegd via afzonderlijke akkoorden waarvoor de onderhandelingen en de sluiting verlopen overeenkomstig de door elke Partij vastgestelde procedures en waarin onder andere de passende lER-bepalingen worden opgenomen.
 
-#### Artikel 63. Onderwijs en opleiding
+##### Artikel 63. Onderwijs en opleiding
 
 1. De Partijen werken samen voor het optrekken van het peil van het algemene onderwijs en de beroepskwalificaties, zowel in de openbare als in de particuliere sector.
 
@@ -792,11 +817,11 @@ Bij de uitvoering van deze samenwerkingsactiviteiten wordt bijzondere aandacht b
 
 3. De deelneming van een Partij aan de respectieve programma's op onderwijs- en opleidingsgebied van de andere Partij zou kunnen worden overwogen in overeenstemming met hun respectieve procedures, en eventueel kunnen institutionele kaders en samenwerkingsprojecten worden opgezet in aansluiting op de deelneming van Rusland aan het TEMPUS-programma van de Gemeenschap.
 
-#### Artikel 64. Landbouw en de agro-industriële sector
+##### Artikel 64. Landbouw en de agro-industriële sector
 
 De samenwerking op dit terrein is gericht op de modernisering, herstructurering en privatisering van de landbouw en van de agro-industriële sector in Rusland onder voorwaarden welke de bescherming van het milieu waarborgen. Zij heeft met name betrekking op de ontwikkeling van het particuliere landbouwbedrijf en de distributiekanalen, de opslagmethoden, de afzet en de bedrijfsvoering, de modernisering van de plattelandsinfrastructuur en de verbetering van de landinrichting in de landbouw, de verbetering van de produktiviteit, van de kwaliteit en van de doeltreffendheid, en de overdracht van technologie en know-how. De partijen streven ernaar hun respectieve sanitaire en fytosanitaire normen verenigbaar te maken.
 
-#### Artikel 65. Energie
+##### Artikel 65. Energie
 
 1. De samenwerking vindt plaats met inachtneming van de beginselen van de markteconomie en het Europese Energiehandvest tegen de achtergrond van de geleidelijke integratie van de energiemarkten in Europa.
 
@@ -820,21 +845,21 @@ De samenwerking op dit terrein is gericht op de modernisering, herstructurering 
 
 - -. het beheer en de technische opleiding in de energiesector.
 
-#### Artikel 66. Kernenergiesector
+##### Artikel 66. Kernenergiesector
 
 Met inachtneming van de respectieve bevoegdheden van de Gemeenschap en haar Lid-Staten vindt civiele samenwerking in de kernenergiesector onder meer plaats via de tenuitvoerlegging van twee tussen de Partijen te sluiten overeenkomsten betreffende kernversmelting en nucleaire veiligheid.
 
-#### Artikel 67. Ruimte
+##### Artikel 67. Ruimte
 
 Onverminderd [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=IV&hoofdstuk=III&artikel=41&z=1997-12-01&g=1997-12-01) bevorderen de Partijen in voorkomend geval de samenwerking op lange termijn wat betreft onderzoek, ontwikkeling en commerciële toepassingen op het gebied van de civiele ruimte. Zij besteden bijzondere aandacht aan initiatieven die in hun beider voordeel de complementariteit van hun respectieve activiteiten ten volle benutten.
 
-#### Artikel 68. Bouw
+##### Artikel 68. Bouw
 
 Partijen werken samen op het gebied van de bouwnijverheid, met name op de onder de [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=VI&artikel=55&z=1997-12-01&g=1997-12-01), [57](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=VII&artikel=57&z=1997-12-01&g=1997-12-01), [60](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=VII&artikel=60&z=1997-12-01&g=1997-12-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=VII&artikel=62&z=1997-12-01&g=1997-12-01), [63](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=VII&artikel=63&z=1997-12-01&g=1997-12-01) en [77](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=VII&artikel=77&z=1997-12-01&g=1997-12-01) van deze Overeenkomst vallende terreinen.
 
 Deze samenwerking beoogt onder meer de modernisering en herstructurering van de bouwsector in Rusland overeenkomstig de beginselen van een markteconomie en met inachtneming van de met de bouw verband houdende gezondheids-, veiligheids- en milieu-aspecten.
 
-#### Artikel 69. Milieu
+##### Artikel 69. Milieu
 
 1. Met inachtneming van het Europese Energiehandvest en de Verklaring van de Conferentie van Luzern van 1993 ontwikkelen en versterken Partijen hun samenwerking op het gebied van het milieu en de volksgezondheid.
 
@@ -886,7 +911,7 @@ Deze samenwerking beoogt onder meer de modernisering en herstructurering van de 
 
 - -. milieu-effectstudies.
 
-#### Artikel 70. Vervoer
+##### Artikel 70. Vervoer
 
 De Partijen ontwikkelen en versterken hun samenwerking op vervoergebied.
 
@@ -904,7 +929,7 @@ De samenwerking omvat onder meer:
 
 - -. de totstandbrenging van het wettelijk en institutioneel kader voor beleidsontwikkeling en -uitvoering, inclusief privatisering van de vervoersector.
 
-#### Artikel 71. Post en telecommunicatie
+##### Artikel 71. Post en telecommunicatie
 
 1. De Partijen verruimen en versterken hun samenwerking op dit terrein met het oog op de geleidelijke integratie op technisch niveau van hun respectieve telecommunicatie- en postnetwerken. Daartoe zetten zij met name de volgende acties op:
 
@@ -936,7 +961,7 @@ De samenwerking omvat onder meer:
 
 - -. het beheer van de telecommunicatie-, post-, TV- en omroepdiensten in de veranderende economieën van beide Partijen, omvattend onder meer de organisatiestructuren, de strategie en planning, het tariefbeleid en de aankoopbeginselen.
 
-#### Artikel 72. Financiële diensten
+##### Artikel 72. Financiële diensten
 
 De Partijen werken samen met het oog op de totstandbrenging en ontwikkeling van een passend kader voor het bank- en verzekeringswezen en de verdere financiële dienstensector in Rusland dat is aangepast aan de behoeften van een markteconomie.
 
@@ -954,7 +979,7 @@ De samenwerking heeft voornamelijk betrekking op:
 
 - -. de modernisering van de infrastructuur van handels- en particuliere banken.
 
-#### Artikel 73. Regionale ontwikkeling
+##### Artikel 73. Regionale ontwikkeling
 
 De Partijen versterken hun onderlinge samenwerking op het gebied van regionale ontwikkeling en ruimtelijke ordening.
 
@@ -962,7 +987,7 @@ Zij stimuleren tevens de uitwisseling door de nationale, regionale en plaatselij
 
 Zij moedigen tevens directe contacten aan tussen de respectieve regio's en openbare organisaties die verantwoordelijk zijn voor de planning van de regionale ontwikkeling ten einde onder meer methoden en wijzen van stimulering van regionale ontwikkeling uit te wisselen.
 
-#### Artikel 74. Sociale samenwerking
+##### Artikel 74. Sociale samenwerking
 
 1. De Partijen ontwikkelen hun samenwerking op het gebied van de gezondheid en veiligheid met het oog op de verbetering van het beschermings- en veiligheidsniveau van de werknemers.
 
@@ -994,7 +1019,7 @@ Deze hervormingen beogen de ontwikkeling in Rusland van aan markteconomieën inh
 
 De samenwerking omvat eveneens technische bijstand voor de ontwikkeling van sociale verzekeringsinstellingen met het oog op de bevordering van een geleidelijke overgang naar een stelsel dat een combinatie is van niet-premievrije vormen van bescherming en sociale bijstand alsmede respectieve niet-gouvernementele organisaties die sociale diensten verlenen.
 
-#### Artikel 75. Toerisme
+##### Artikel 75. Toerisme
 
 De Partijen versterken en ontwikkelen hun samenwerking met name door de volgende maatregelen:
 
@@ -1008,7 +1033,7 @@ De Partijen versterken en ontwikkelen hun samenwerking met name door de volgende
 
 - -. bestudering van de mogelijkheden voor gezamenlijke acties.
 
-#### Artikel 76. Midden- en kleinbedrijf
+##### Artikel 76. Midden- en kleinbedrijf
 
 1. De Partijen streven ernaar het midden- en kleinbedrijf (KMO's) te ontwikkelen en te versterken en de samenwerking tussen KMO's in de Gemeenschap en Rusland te bevorderen.
 
@@ -1020,7 +1045,7 @@ De Partijen versterken en ontwikkelen hun samenwerking met name door de volgende
 
 - -. het aanknopen van duurzame banden tussen de Gemeenschap en Russische ondernemers ten einde de informatiestroom naar KMO's te verbeteren en grensoverschrijdende samenwerking te bevorderen, onder meer via het verlenen van toegang tot en het doen functioneren van het BC-net, de EG-adviescentra voor ondernemingen, mits aan de voor deze netwerken noodzakelijke voorwaarden wordt voldaan. De Partijen werken nauw samen om te verzekeren dat aan de noodzakelijke voorwaarden voor toegang tot de netwerken wordt voldaan.
 
-#### Artikel 77. Communicatie-, informatica- en informatie-infrastructuur
+##### Artikel 77. Communicatie-, informatica- en informatie-infrastructuur
 
 1. De Partijen steunen de ontwikkeling van moderne methoden van informatiebeheersing, met inbegrip van de media, en doen het nodige om de daadwerkelijke onderlinge uitwisseling van informatie te stimuleren. Er wordt prioriteit verleend aan programma's die het grote publiek basisinformatie over de Gemeenschap verstrekken en beroeps-, met name handelskringen, van gespecialiseerde informatie voorzien.
 
@@ -1034,7 +1059,7 @@ De Partijen versterken en ontwikkelen hun samenwerking met name door de volgende
 
 - -. bevordering van Europese technische normen, certificatiesystemen en regelgevingsaanpak.
 
-#### Artikel 78. Douane
+##### Artikel 78. Douane
 
 1. Het doel van de samenwerking is compatibiliteit tussen de douanesystemen van de Partijen.
 
@@ -1058,7 +1083,7 @@ Waar nodig wordt technische bijstand verleend.
 
 3. Onverminderd de overige in deze Overeenkomst en met name in de [artikelen 82](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=VII&artikel=82&z=1997-12-01&g=1997-12-01) en [84](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=VIII&artikel=84&z=1997-12-01&g=1997-12-01) overeengekomen samenwerking vindt de wederzijdse bijstand tussen de administratieve autoriteiten in douanezaken van Partijen plaats overeenkomstig het bepaalde in Protocol 2.
 
-#### Artikel 79. Statistische samenwerking
+##### Artikel 79. Statistische samenwerking
 
 1. De samenwerking beoogt de verdere ontwikkeling van efficiënte statistische systemen, en informatie- en programma-technologische compatibiliteit van de statistische gegevens om mettertijd betrouwbare statistieken te leveren die nodig zijn om de economische samenwerking tussen de Partijen en het proces van economische hervormingen in Rusland te ondersteunen en te controleren en bij te dragen aan de ontwikkeling van het particulier ondernemerschap in Rusland.
 
@@ -1076,7 +1101,7 @@ Waar nodig wordt technische bijstand verleend.
 
 - -. de uitwisseling van statistische informatie en met het oog daarop het samenstellen en/of een beroep doen op databanken.
 
-#### Artikel 80. Economie
+##### Artikel 80. Economie
 
 1. De Partijen vergemakkelijken het proces van economische hervorming en de coördinatie van hun economisch beleid door hun samenwerking die gericht is op het verkrijgen van een beter inzicht in de grondslagen van hun respectieve economieën en de uitstippeling en tenuitvoerlegging van economisch beleid in markteconomieën.
 
@@ -1088,17 +1113,17 @@ Partijen zullen met oog daarop:
 
 - -. uitgebreide samenwerking tussen economen en hoge ambtenaren aanmoedigen ten einde de overdracht van informatie en know-how voor de uitstippeling van economisch beleid te bespoedigen en te zorgen voor ruime verspreiding van de resultaten van onderzoek dat voor het beleid van belang kan zijn.
 
-#### Artikel 81. Het witwassen van geld
+##### Artikel 81. Het witwassen van geld
 
 1. De Partijen zijn het eens over de noodzaak al het nodige te doen en samen te werken ten einde te voorkomen dat hun financiële systemen worden gebruikt voor het witwassen van inkomsten uit criminele activiteiten in het algemeen en drugsmisdrijven in het bijzonder.
 
 2. De samenwerking op dit gebied omvat administratieve en technische bijstand met het oog op de vaststelling van passende normen ter voorkoming van het witwassen van geld die gelijkwaardig zijn aan de in deze door de Gemeenschap en internationale fora, in het bijzonder de Financial Action Task Force (FATF), gehanteerde.
 
-#### Artikel 82. Verdovende middelen
+##### Artikel 82. Verdovende middelen
 
 De Partijen werken samen voor grotere efficiëntie van het beleid en de maatregelen om de illegale produktie en levering van en de in handel in verdovende middelen en psychotrope stoffen, inclusief voorkoming van het oneigenlijk gebruik van precursoren, tegen te gaan, alsmede voor de bevordering van de preventie en terugdringing van de vraag naar verdovende middelen. De Samenwerking op dit gebied is gebaseerd op onderling overleg en nauwe coördinatie tussen Partijen over de doelstellingen en maatregelen op de verschillende met verdovende middelen verband houdende terreinen en voorziet onder meer in de uitwisseling van opleidingsprogramma's en omvat technische bijstand van de Gemeenschap wanneer deze voorhanden is.
 
-#### Artikel 83. Samenwerking op het gebied van de reglementering van het kapitaalverkeer en betalingen in Rusland
+##### Artikel 83. Samenwerking op het gebied van de reglementering van het kapitaalverkeer en betalingen in Rusland
 
 Onverminderd [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=V&artikel=52&z=1997-12-01&g=1997-12-01) werken de Partijen, die de noodzaak van een stabiele werking en ontwikkeling van de Russische binnenlandse valutamarkt erkennen, samen aan de totstandbrenging van een doeltreffend systeem van reglementering van het kapitaalverkeer en betalingen in Rusland.
 
@@ -1114,7 +1139,7 @@ Ten einde optimale benutting van de beschikbare middelen te verzekeren, zorgen d
 
 ## TITEL VIII. SAMENWERKING OP HET GEBIED VAN VOORKOMING VAN ILLEGALE ACTIVITEITEN
 
-#### Artikel 84
+##### Artikel 84
 
 De Partijen brengen samenwerking tot stand ter voorkoming van illegale activiteiten, zoals:
 
@@ -1142,7 +1167,7 @@ De samenwerking op bovengenoemde terreinen zal zijn gebaseerd op wederzijds over
 
 ## TITEL IX. CULTURELE SAMENWERKING
 
-#### Artikel 85
+##### Artikel 85
 
 1. De Partijen verbinden zich ertoe de culturele samenwerking te bevorderen ten einde de bestaande banden tussen hun volkeren te versterken en de wederzijdse kennis van hun respectieve talen en culturen aan te moedigen onder eerbiediging van creatieve vrijheid en de toegang over en weer tot culturele waarden.
 
@@ -1158,29 +1183,29 @@ De samenwerking op bovengenoemde terreinen zal zijn gebaseerd op wederzijds over
 
 ## TITEL X. FINANCIËLE SAMENWERKING
 
-#### Artikel 86
+##### Artikel 86
 
 Met het oog op de verwezenlijking van de doelstellingen van deze Overeenkomst, met name de [titels VI](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=VI&z=1997-12-01&g=1997-12-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=VII&z=1997-12-01&g=1997-12-01), en in overeenstemming met de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=X&artikel=87&z=1997-12-01&g=1997-12-01), [88](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=X&artikel=88&z=1997-12-01&g=1997-12-01) en [89](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=X&artikel=89&z=1997-12-01&g=1997-12-01) komt Rusland in aanmerking voor tijdelijke financiële steun van de Gemeenschap die de vorm aanneemt van technische bijstand in de vorm van subsidies ten einde de economische hervorming van Rusland te bespoedigen.
 
-#### Artikel 87
+##### Artikel 87
 
 Deze financiële steun wordt geleverd in het kader van het Tacis-programma, zoals in de desbetreffende verordening van de Raad van de Europese Unie bepaald.
 
-#### Artikel 88
+##### Artikel 88
 
 De doelstellingen en terreinen van de financiële steun van de Gemeenschap worden vastgesteld in een indicatief programma dat een afspiegeling vormt van de door de Partijen vast te stellen prioriteiten, waarbij rekening wordt gehouden met de behoeften van Rusland, zijn sectoriële opnemingscapaciteiten en de met de hervorming geboekte voortgang. De Partijen stellen de Samenwerkingsraad van een en ander in kennis.
 
-#### Artikel 89
+##### Artikel 89
 
 Om optimaal profijt te kunnen trekken uit de beschikbare middelen zorgen de Partijen ervoor dat de technische bijstandsbijdragen van de Gemeenschap worden toegekend in nauwe coördinatie met die uit andere financieringsbronnen, zoals de Lid-Staten, andere landen en internationale organisaties, zoals de Internationale Bank voor Herstel en Ontwikkeling en de Europese Bank voor Wederopbouw en Ontwikkeling.
 
 ## TITEL XI. INSTITUTIONELE, ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel 90
+##### Artikel 90
 
 Hierbij wordt een Samenwerkingsraad opgericht, die toeziet op de tenuitvoerlegging van deze Overeenkomst. Deze Samenwerkingsraad komt eens per jaar of telkens wanneer de omstandigheden zulks vereisen op Ministersniveau bijeen. Hij behandelt alle belangrijke vraagstukken die zich in het kader van deze Overeenkomst voordoen, en alle andere, bilaterale of internationale vraagstukken van gemeenschappelijk belang om de doelstellingen van deze Overeenkomst te bereiken. De Samenwerkingsraad kan tevens passende aanbevelingen doen in onderlinge overeenstemming tussen de vertegenwoordigers van de Partijen in de Samenwerkingsraad.
 
-#### Artikel 91
+##### Artikel 91
 
 1. De Samenwerkingsraad bestaat uit de leden van de Raad van de Europese Unie en leden van de Commissie van de Europese Gemeenschappen, enerzijds, en uit leden van de Regering van de Russische Federatie, anderzijds.
 
@@ -1188,7 +1213,7 @@ Hierbij wordt een Samenwerkingsraad opgericht, die toeziet op de tenuitvoerleggi
 
 3. De Samenwerkingsraad wordt beurtelings voorgezeten door een vertegenwoordiger van de Gemeenschap en door een lid van de Regering van de Russische Federatie.
 
-#### Artikel 92
+##### Artikel 92
 
 1. De Samenwerkingsraad wordt bij de vervulling van zijn taken bijgestaan door een Samenwerkingscomité, bestaande uit vertegenwoordigers van de leden van de Raad van de Europese Unie en vertegenwoordigers van de Commissie van de Europese Gemeenschappen, enerzijds, en uit vertegenwoordigers van de Regering van de Russische Federatie, anderzijds. In beginsel zullen dit hogere ambtenaren zijn. Het Samenwerkingscomité wordt beurtelings voorgezeten door een vertegenwoordiger van de Gemeenschap en een vertegenwoordiger van de Regering van de Russische Federatie.
 
@@ -1196,19 +1221,19 @@ De Samenwerkingsraad bepaalt in zijn reglement van orde de taken van het Samenwe
 
 2. De Samenwerkingsraad mag ongeacht welke van zijn bevoegdheden aan het Samenwerkingscomité delegeren, dat voor de continuïteit zal zorgen tussen de vergaderingen van de Samenwerkingsraad.
 
-#### Artikel 93
+##### Artikel 93
 
 De Samenwerkingsraad kan tot de oprichting besluiten van ieder ander speciaal comité of lichaam dat hem bij de uitvoering van zijn taken kan bijstaan en bepaalt de samenstelling en taken van deze comités of lichamen alsmede hun werkwijze.
 
-#### Artikel 94
+##### Artikel 94
 
 Bij het onderzoek van ongeacht welke kwestie die zich voordoet in het kader van deze Overeenkomst met betrekking tot een bepaling betreffende een artikel van de [GATT](onbekend) houdt de Samenwerkingsraad zoveel mogelijk rekening met de algemeen gebruikelijke interpretatie van het artikel van de GATT in kwestie door de overeenkomstsluitende Partijen bij de GATT.
 
-#### Artikel 95
+##### Artikel 95
 
 Er wordt een Parlementair Samenwerkingscomité opgericht. Dit komt met door hem zelf te bepalen tussenpozen bijeen.
 
-#### Artikel 96
+##### Artikel 96
 
 1. Het Parlementair Samenwerkingscomité bestaat uit leden van het Europees Parlement, enerzijds, en uit leden van het Federale Parlement van de Russische Federatie, anderzijds.
 
@@ -1216,7 +1241,7 @@ Er wordt een Parlementair Samenwerkingscomité opgericht. Dit komt met door hem 
 
 3. Het Parlementair Samenwerkingscomité wordt bij toerbeurt door een lid van het Europees Parlement en door een lid van het Federale Parlement van de Russische Federatie voorgezeten, volgens de in zijn reglement van orde op te nemen bepalingen.
 
-#### Artikel 97
+##### Artikel 97
 
 Het Parlementair Samenwerkingscomité kan de Samenwerkingsraad om ter zake doende inlichtingen over de tenuitvoerlegging van deze Overeenkomst verzoeken. De Samenwerkingsraad verstrekt het Samenwerkingscomité de verlangde informatie.
 
@@ -1224,7 +1249,7 @@ Het Parlementair Samenwerkingscomité wordt ingelicht over de aanbevelingen van 
 
 Het Parlementair Samenwerkingscomité kan aanbevelingen doen aan de Samenwerkingsraad.
 
-#### Artikel 98
+##### Artikel 98
 
 1. Binnen het toepassingsgebied van deze Overeenkomst verbindt elk van de Partijen zich ertoe erop toe te zien dat natuurlijke personen en rechtspersonen van de andere Partij, zonder discriminatie ten opzichte van de eigen onderdanen, toegang hebben tot de ter zake bevoegde rechterlijke en administratieve instanties van de Partijen ter bescherming van hun persoonlijkheids- en eigendomsrechten, waaronder ook die betreffende intellectuele, industriële en commerciële eigendom.
 
@@ -1238,7 +1263,7 @@ Het Parlementair Samenwerkingscomité kan aanbevelingen doen aan de Samenwerking
 
 - -. aan te moedigen dat een beroep wordt gedaan op de arbitragevoorschriften die zijn uitgewerkt door de Commissie van de Verenigde Naties inzake Internationaal Handelsrecht (Uncitral) en arbitrage door een instantie van een Staat die het [Verdrag over de erkenning en tenuitvoerlegging van buitenlandse arbitrale uitspraken](https://wetten.overheid.nl/jci1.3:c:BWBV0005176) dat op 10 juni 1958 in New York werd gesloten, heeft ondertekend.
 
-#### Artikel 99
+##### Artikel 99
 
 Niets in deze Overeenkomst belet een Partij maatregelen te nemen:
 
@@ -1254,7 +1279,7 @@ Niets in deze Overeenkomst belet een Partij maatregelen te nemen:
 
 - 2. die zij nodig acht om haar internationale verplichtingen en verbintenissen of autonome maatregelen in overeenstemming met dergelijke algemeen aanvaarde internationale verplichtingen en verbintenissen na te komen met betrekking tot de controle op het tweeledig gebruik van industriële goederen en technologieën.
 
-#### Artikel 100
+##### Artikel 100
 
 1. Op de door deze Overeenkomst bestreken terreinen en onverminderd eventuele bijzondere bepalingen daarvan, zullen
 
@@ -1264,7 +1289,7 @@ Niets in deze Overeenkomst belet een Partij maatregelen te nemen:
 
 2. Het bepaalde in lid 1 doet geen afbreuk aan het recht van de Partijen om de ter zake doende bepalingen van hun belastingwetgeving toe te passen op belastingplichtigen die niet in dezelfde situatie verkeren met name ten aanzien van hun woonplaats.
 
-#### Artikel 101
+##### Artikel 101
 
 1. Elk van de Partijen mag ieder geschil dat verband houdt met de toepassing of de uitlegging van deze Overeenkomst aan de Samenwerkingsraad voorleggen.
 
@@ -1278,29 +1303,29 @@ De aanbevelingen van de bemiddelaars worden met meerderheid van stemmen genomen.
 
 4. De Samenwerkingsraad kan procedureregels voor de regeling van geschillen vaststellen.
 
-#### Artikel 102
+##### Artikel 102
 
 De Partijen komen overeen op verzoek van elk van de Partijen onmiddellijk overleg te plegen via passende kanalen om kwesties met betrekking tot de uitlegging of tenuitvoerlegging van deze Overeenkomst en andere relevante aspecten van de betrekkingen tussen de Partijen te bespreken.
 
 De bepalingen van dit artikel doen geen afbreuk aan en gelden onder voorbehoud van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=III&artikel=17&z=1997-12-01&g=1997-12-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=III&artikel=18&z=1997-12-01&g=1997-12-01), [101](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=XI&artikel=101&z=1997-12-01&g=1997-12-01) en [107](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=XI&artikel=107&z=1997-12-01&g=1997-12-01).
 
-#### Artikel 103
+##### Artikel 103
 
 De bij deze Overeenkomst aan Rusland toegekende behandeling zal niet gunstiger zijn dan die welke de Lid-Staten onderling toepassen.
 
-#### Artikel 104
+##### Artikel 104
 
 In de Overeenkomst wordt onder de term „Partijen” verstaan de Gemeenschap, of de Lid-Staten, of de Gemeenschap en haar Lid-Staten, overeenkomstig hun respectieve bevoegdheden, enerzijds, en Rusland, anderzijds.
 
-#### Artikel 105
+##### Artikel 105
 
 Het [Verdrag inzake het Energiehandvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001155) en de protocollen daarvan zijn vanaf de inwerkingtreding van deze Overeenkomst van toepassing op zaken die ook onder deze Overeenkomst ressorteren in de mate waarin het Verdrag in die toepassing voorziet.
 
-#### Artikel 106
+##### Artikel 106
 
 Deze Overeenkomst wordt gesloten voor een aanvankelijke periode van tien jaar. Zij wordt automatisch telkens met een jaar verlengd tenzij één van beide Partijen de andere Partij ten minste zes maanden voor het verstrijken ervan schriftelijk ervan in kennis stelt dat zij deze Overeenkomst opzegt.
 
-#### Artikel 107
+##### Artikel 107
 
 1. De Partijen treffen alle algemene en bijzondere maatregelen die vereist zijn om aan hun verplichtingen krachtens deze Overeenkomst te voldoen. Zij zullen erop toezien dat de in deze Overeenkomst aangegeven doelstellingen worden bereikt.
 
@@ -1308,23 +1333,23 @@ Deze Overeenkomst wordt gesloten voor een aanvankelijke periode van tien jaar. Z
 
 Bij voorrang moeten die maatregelen worden gekozen die de goede werking van deze Overeenkomst het minst verstoren. Deze maatregelen worden onmiddellijk ter kennis van de Samenwerkingsraad gebracht; op verzoek van de andere Partij wordt daaromtrent in de Samenwerkingsraad overleg gepleegd.
 
-#### Artikel 108
+##### Artikel 108
 
 De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=1&z=1997-12-01&g=1997-12-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=2&z=1997-12-01&g=1997-12-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=3&z=1997-12-01&g=1997-12-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=4&z=1997-12-01&g=1997-12-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=5&z=1997-12-01&g=1997-12-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=6&z=1997-12-01&g=1997-12-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=7&z=1997-12-01&g=1997-12-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=8&z=1997-12-01&g=1997-12-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=9&z=1997-12-01&g=1997-12-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=10&z=1997-12-01&g=1997-12-01) en de Protocollen 1 en 2 vormen een integrerend bestanddeel van deze Overeenkomst.
 
-#### Artikel 109
+##### Artikel 109
 
 Zolang onder deze Overeenkomst geen gelijkwaardige rechten voor personen en ondernemers zijn verwezenlijkt, zal deze Overeenkomst geen afbreuk doen aan de rechten die hun worden verzekerd door bestaande overeenkomsten, welke bindend zijn voor één of meer Lid-Staten, enerzijds, en voor Rusland, anderzijds, met uitzondering van gebieden die tot de bevoegdheid van de Gemeenschap behoren en zonder afbreuk te doen aan de verplichtingen van de Lid-Staten die voortvloeien uit deze Overeenkomst op gebieden die tot hun bevoegdheid behoren.
 
-#### Artikel 110
+##### Artikel 110
 
 Deze Overeenkomst is van toepassing, enerzijds, op de gebieden waar de [Verdragen tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), de Europese Gemeenschap voor Kolen en Staal en de [Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) van toepassing zijn en onder de in die Verdragen neergelegde voorwaarden en, anderzijds, op het grondgebied van Rusland.
 
-#### Artikel 111
+##### Artikel 111
 
 Deze Overeenkomst is opgesteld in twee exemplaren in de Deense, de Duitse, de Engelse, de Franse, de Griekse, de Italiaanse, de Nederlandse, de Portugese, de Spaanse en de Russische taal, zijnde alle teksten gelijkelijk authentiek.
 
-#### Artikel 112
+##### Artikel 112
 
 Deze Overeenkomst wordt door de Partijen volgens hun eigen procedures goedgekeurd.
 
@@ -1332,15 +1357,15 @@ Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand volgend
 
 Bij haar inwerkingtreding vervangt deze Overeenkomst wat de betrekkingen tussen Rusland en de Gemeenschap betreft, onder voorbehoud van [artikel 22, leden 1, 3 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=III&artikel=22&z=1997-12-01&g=1997-12-01), de Overeenkomst tussen de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie en de Unie van Socialistische Sovjetrepublieken inzake handel en commerciële en economische samenwerking, die op 18 december 1989 in Brussel werd ondertekend.
 
-#### 1
+##### 1
 
 Rusland is gemachtigd, in afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=III&artikel=15&z=1997-12-01&g=1997-12-01), uitzonderingsmaatregelen te nemen in de vorm van niet-discriminerende kwantitatieve beperkingen als bedoeld in [artikel XIII van de GATT](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&artikel=XIII). Dergelijke maatregelen mogen uitsluitend worden genomen aan het einde van het eerste kalenderjaar volgende op de ondertekening van de Overeenkomst.
 
-#### 2
+##### 2
 
 De genoemde maatregelen mogen uitsluitend worden genomen in de omstandigheden bedoeld in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&bijlage=9&z=1997-12-01&g=1997-12-01).
 
-#### 3
+##### 3
 
 De totale waarde van de invoer waarop deze maatregelen van toepassing zijn, mag niet meer bedragen dan de hiernavolgende percentages van de totale invoer uit de Gemeenschap:
 
@@ -1354,19 +1379,19 @@ De vorengenoemde percentages worden vastgesteld met inachtneming van de waarde v
 
 Deze bepalingen mogen niet worden ontdoken door een verhoging van de tariefbescherming op de betrokken invoer.
 
-#### 4
+##### 4
 
 Deze maatregelen mogen na de toetreding van Rusland tot de GATT/WTO niet meer worden toegepast, tenzij anders bepaald in het Protocol betreffende de toetreding van Rusland tot de GATT/WTO.
 
-#### 5
+##### 5
 
 Rusland stelt het Samenwerkingscomité in kennis van alle maatregelen die het voornemens is te treffen in het kader van de onderhavige bijlage. Vóór deze maatregelen worden genomen vindt op verzoek van de Gemeenschap overleg plaats in het Samenwerkingscomité, onder meer over de sectoren waarop zij van toepassing zijn.
 
-#### 1
+##### 1
 
 Rusland legt zich verder toe op het verbeteren van de bescherming van de intellectuele, industriële en commerciële eigendomsrechten, ten einde tegen het einde van het vijfde jaar na de vankrachtwording van de Overeenkomst te kunnen voorzien in een mate van bescherming welke overeenstemt met de in de Gemeenschap verleende bescherming, met inbegrip van doeltreffende middelen om de eerbiediging van die rechten af te dwingen.
 
-#### 2
+##### 2
 
 Tegen het einde van het vijfde jaar na de vankrachtwording van de Overeenkomst treedt Rusland toe tot de multilaterale overeenkomsten inzake intellectuele, industriële en commerciële eigendomsrechten waarbij de Lid-Staten partij zijn of welke de facto door de Lid-Staten in overeenstemming met de desbetreffende bepalingen van die overeenkomsten worden toegepast; het gaat daarbij om :
 
@@ -1376,55 +1401,55 @@ Tegen het einde van het vijfde jaar na de vankrachtwording van de Overeenkomst t
 
 - -. het [Internationaal Verdrag tot bescherming van kweekprodukten](https://wetten.overheid.nl/jci1.3:c:BWBV0002685) (UPOV) (Akte van Genève, 1978).
 
-#### 3
+##### 3
 
 De Samenwerkingsraad kan aanbevelen dat punt 2 van deze bijlage wordt toegepast op andere multilaterale overeenkomsten.
 
-#### 4
+##### 4
 
 Met ingang van de datum van de vankrachtwording van deze Overeenkomst kent Rusland aan ondernemingen en onderdanen van de Gemeenschap wat de erkenning en de bescherming van intellectuele, industriële en commerciële eigendom betreft, een behandeling toe die niet minder gunstig is dan die welke dit land uit hoofde van bilaterale overeenkomsten aan om het even welk derde land toekent.
 
-#### 5
+##### 5
 
 Punt 4 is niet van toepassing op de voordelen die Rusland op een daadwerkelijke grondslag van reciprociteit aan om het even welk derde land toekent of op de voordelen welke Rusland aan een ander land van de voormalige USSR toekent.
 
-#### 1
+##### 1
 
 De partijen richten een Contactgroep op, die is samengesteld uit vertegenwoordigers van de Gemeenschap en van Rusland.
 
-#### 2
+##### 2
 
 De Contactgroep wisselt informatie uit over de situatie van de kolen- en staalindustrie op hun grondgebied en over de handel in kolen en staal, in het bijzonder met het doel de problemen te onderkennen die zich mochten voordoen.
 
-#### 3
+##### 3
 
 De Contactgroep onderzoekt tevens de situatie van de kolen- en staalindustrie op wereldniveau, met inbegrip van de ontwikkelingen in de internationale handel.
 
-#### 4
+##### 4
 
 De Contactgroep wisselt alle nuttige informatie uit over de structuur van de betrokken bedrijfstakken, de ontwikkeling van hun produktiecapaciteit, de vooruitgang van wetenschap en onderzoek op de betrokken gebieden en de ontwikkelingen van de werkgelegenheid. De Groep onderzoekt tevens vervuiling en de milieuproblematiek.
 
-#### 5
+##### 5
 
 De Contactgroep onderzoekt tevens de vooruitgang op het gebied van de technische bijstand tussen partijen, waaronder hulp bij de financiële, commerciële en technische bedrijfsvoering.
 
-#### 6
+##### 6
 
 De Contactgroep wisselt alle relevante informatie uit over de standpunten die in internationale organisaties en fora zijn of moeten worden ingenomen.
 
-#### 7
+##### 7
 
 Indien partijen overeenkomen dat de aanwezigheid en/of deelname van vertegenwoordigers van de bedrijfstakken wenselijk is, wordt de Contactgroep met deze vertegenwoordigers uitgebreid.
 
-#### 8
+##### 8
 
 De Contactgroep komt tweemaal per jaar, beurtelings op het grondgebied van de ene en van de andere partij, bijeen.
 
-#### 9
+##### 9
 
 Het voorzitterschap van de Contactgroep wordt beurtelings waargenomen door een vertegenwoordiger van de Commissie van de Europese Gemeenschappen en een vertegenwoordiger van de Regering van de Russische Federatie.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit protocol wordt verstaan onder:
 
@@ -1438,13 +1463,13 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - e. overtreding: elke inbreuk op de douanewetgeving en elke poging daartoe.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 1. De Partijen verlenen elkaar, binnen hun bevoegdheden, bijstand, op de wijze en onder de voorwaarden vastgesteld in dit protocol, met het oog op de correcte toepassing van de douanewetgeving, in het bijzonder wat de preventie, de opsporing en het onderzoek van overtredingen van deze wetgeving betreft.
 
 2. De bijstand in douanezaken waarin dit protocol voorziet, geldt voor elke administratieve autoriteit van de Partijen die bevoegd is voor de toepassing van dit protocol. De bijstand in douanezaken doet geen afbreuk aan de regels betreffende de wederzijdse bijstand in strafzaken en geldt niet voor informatie, met inbegrip van documenten, die is verkregen krachtens bevoegdheden die op verzoek van de rechterlijke autoriteiten worden uitgeoefend, tenzij deze autoriteiten hiermee instemmen.
 
-#### Artikel 3. Bijstand op verzoek
+##### Artikel 3. Bijstand op verzoek
 
 1. Op aanvraag van de verzoekende autoriteit verschaft de aangezochte autoriteit eerstgenoemde alle ter zake dienende informatie die deze nodig heeft voor de correcte toepassing van de douanewetgeving, met inbegrip van informatie betreffende vastgestelde of voorgenomen transacties die op deze wetgeving inbreuk maken, lijken te maken of zouden maken.
 
@@ -1460,7 +1485,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - d. vervoermiddelen ten aanzien waarvan een gegrond vermoeden bestaat dat zij voor het plegen van inbreuken op de douanewetgeving werden gebruikt, worden gebruikt of kunnen worden gebruikt.
 
-#### Artikel 4. Bijstand op eigen initiatief
+##### Artikel 4. Bijstand op eigen initiatief
 
 De Partijen verlenen elkaar bijstand zonder voorafgaande aanvraag en binnen hun bevoegdheid, indien zij dit noodzakelijk achten voor de correcte toepassing van de douanewetgeving, in het bijzonder bij het verkrijgen van informatie omtrent:
 
@@ -1470,7 +1495,7 @@ De Partijen verlenen elkaar bijstand zonder voorafgaande aanvraag en binnen hun 
 
 - -. goederen waarvan bekend is dat zij het voorwerp vormen van een ernstige overtreding van de douanewetgeving inzake invoer, uitvoer, doorvoer of andere douaneprocedures.
 
-#### Artikel 5. Vorm en inhoud van verzoeken om bijstand
+##### Artikel 5. Vorm en inhoud van verzoeken om bijstand
 
 1. Verzoeken in het kader van dit protocol worden schriftelijk gedaan en gaan vergezeld van de bescheiden die voor de behandeling ervan noodzakelijk zijn. In spoedeisende gevallen kunnen verzoeken mondeling worden gedaan, mits zij onmiddellijk schriftelijk worden bevestigd.
 
@@ -1492,7 +1517,7 @@ De Partijen verlenen elkaar bijstand zonder voorafgaande aanvraag en binnen hun 
 
 4. Indien een verzoek niet in de juiste vorm wordt gedaan, kan om correctie of aanvulling worden verzocht. Er kunnen echter reeds conservatoire maatregelen worden genomen.
 
-#### Artikel 6. Behandeling van verzoeken
+##### Artikel 6. Behandeling van verzoeken
 
 1. Verzoeken om bijstand worden behandeld overeenkomstig de wetten, regels en andere rechtsvoorschriften van de aangezochte Partij.
 
@@ -1504,7 +1529,7 @@ De Partijen verlenen elkaar bijstand zonder voorafgaande aanvraag en binnen hun 
 
 5. Ambtenaren van een partij die onder de in dit Protocol voorziene omstandigheden aanwezig zijn bij onderzoek dat op het grondgebied van de andere partij wordt verricht, moeten zich steeds kunnen legitimeren. Zij mogen geen uniform dragen of wapens bij zich hebben.
 
-#### Artikel 7. Vorm waarin de informatie dient te worden verstrekt
+##### Artikel 7. Vorm waarin de informatie dient te worden verstrekt
 
 1. Partijen delen elkaar informatie mede in de vorm van bescheiden, voor echt gewaarmerkte afschriften van bescheiden, rapporten en dergelijke onder de voorwaarden en binnen de grenzen als in dit Protocol omschreven.
 
@@ -1512,7 +1537,7 @@ De Partijen verlenen elkaar bijstand zonder voorafgaande aanvraag en binnen hun 
 
 3. De in lid 1 bedoelde bescheiden kunnen worden vervangen door informatie die, in ongeacht welke vorm, met behulp van systemen voor automatische gegevensverwerking voor hetzelfde doel wordt verstrekt. Alle relevante informatie voor het gebruik van het materiaal wordt op verzoek verstrekt.
 
-#### Artikel 8. Gevallen waarin geen bijstand dient te worden verleend
+##### Artikel 8. Gevallen waarin geen bijstand dient te worden verleend
 
 1. De Partijen kunnen de in dit protocol bedoelde bijstand weigeren, slechts gedeeltelijk verlenen of deze van bepaalde voorwaarden of eisen afhankelijk stellen, wanneer het verlenen van bijstand:
 
@@ -1524,7 +1549,7 @@ De Partijen verlenen elkaar bijstand zonder voorafgaande aanvraag en binnen hun 
 
 3. Indien bijstand wordt geweigerd, dienen het daartoe strekkende besluit en de redenen ervan onverwijld aan de verzoekende autoriteit te worden medegedeeld.
 
-#### Artikel 9. Geheimhoudingsplicht
+##### Artikel 9. Geheimhoudingsplicht
 
 1. Alle informatie, in welke vorm dan ook, die ter uitvoering van dit protocol is verstrekt, heeft een vertrouwelijk karakter en valt onder de geheimhoudingsplicht. Op deze informatie is de wetgeving van toepassing die op soortgelijke informatie van de ontvangende Partij van toepassing is. Tevens zijn de ter zake geldende bepalingen van toepassing waaraan de communautaire autoriteiten zijn onderworpen.
 
@@ -1536,7 +1561,7 @@ De Partijen verlenen elkaar bijstand zonder voorafgaande aanvraag en binnen hun 
 
 5. Tenzij dit strijdig is met het algemeen belang, kan de betrokkene, op zijn verzoek, informatie verkrijgen omtrent opgeslagen gegevens en de redenen voor deze opslag.
 
-#### Artikel 10. Gebruik van informatie
+##### Artikel 10. Gebruik van informatie
 
 1. De verkregen informatie mag uitsluitend worden gebruikt voor de in dit protocol omschreven doeleinden. Een Partij mag deze informatie slechts voor andere doeleinden gebruiken na schriftelijke toestemming van de administratieve autoriteit die ze heeft verstrekt, op de door deze autoriteit vastgestelde voorwaarden.
 
@@ -1544,21 +1569,21 @@ De Partijen verlenen elkaar bijstand zonder voorafgaande aanvraag en binnen hun 
 
 3. De Partijen kunnen de overeenkomstig het bepaalde in dit protocol verkregen informatie en geraadpleegde bescheiden als bewijsmateriaal gebruiken in hun rapporten, getuigenverklaringen en in gerechtelijke procedures.
 
-#### Artikel 11. Deskundigen en getuigen
+##### Artikel 11. Deskundigen en getuigen
 
 Een onder een aangezochte autoriteit ressorterende ambtenaar kan worden gemachtigd, binnen de perken van de hem verleende machtiging, in het rechtsgebied van een andere Partij als getuige of deskundige op te treden in gerechtelijke of administratieve procedures die betrekking hebben op aangelegenheden waarop dit protocol van toepassing is en daarbij de voor deze procedures noodzakelijke voorwerpen, bescheiden of voor echt gewaarmerkte afschriften van bescheiden voor te leggen. In de convocatie dient uitdrukkelijk te worden vermeld over welk onderwerp en in welke functie of hoedanigheid de betrokken ambtenaar zal worden ondervraagd.
 
-#### Artikel 12. Kosten van de bijstand
+##### Artikel 12. Kosten van de bijstand
 
 De Partijen brengen elkaar geen kosten in rekening voor uitgaven die ter uitvoering van dit protocol zijn gemaakt, met uitzondering, in voor komend geval, van de uitgaven voor deskundigen, getuigen, tolken en vertalers die niet in overheidsdienst zijn.
 
-#### Artikel 13. Tenuitvoerlegging
+##### Artikel 13. Tenuitvoerlegging
 
 1. De centrale douane-autoriteiten van Rusland, enerzijds, en de bevoegde diensten van de Commissie van de Europese Gemeenschappen en, in voorkomend geval, de douaneautoriteiten van de Lid-Staten, anderzijds, zijn belast met de uitvoering van dit Protocol. Deze instanties stellen alle praktische maatregelen en regelingen voor de toepassing van dit protocol vast, met inachtneming van de voorschriften op het gebied van de gegevensbescherming. Zij kunnen de Samenwerkingsraad aanbevelingen doen voor wijzigingen die huns inziens in dit protocol dienen te worden aangebracht.
 
 2. De Partijen raadplegen elkaar en stellen elkaar vervolgens in kennis van alle uitvoeringsbepalingen die overeenkomstig dit artikel worden genomen.
 
-#### Artikel 14. Complementariteit
+##### Artikel 14. Complementariteit
 
 1. Dit protocol vormt een aanvulling op en geen beletsel voor de toepassing van alle overeenkomsten inzake wederzijdse bijstand die tussen een of meer Lid-Staten en Rusland gesloten zijn of kunnen worden. Het staat een ruimere wederzijdse bijstand waarin dergelijke gesloten of te sluiten overeenkomsten voorzien, niet in de weg.
 
@@ -1604,11 +1629,11 @@ anderzijds,
 
 bijeengekomen te Korfoe, op de vierentwintigste juni negentienhonderd vierennegentig, voor de ondertekening van de Overeenkomst inzake Partnerschap en Samenwerking, waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Russische Federatie, anderzijds, hierna „Partnerschaps- en samenwerkingsovereenkomst” te noemen, hebben de volgende teksten aangenomen:
 
-#### 1
+##### 1
 
 De Partijen bevestigen dat zij het onderling eens zijn dat „zeggenschap” afhangt van de feitelijke omstandigheden van elk geval.
 
-#### 2
+##### 2
 
 Een vennootschap wordt bijvoorbeeld geacht onder „zeggenschap” van een andere vennootschap te staan, en dus een dochteronderneming van de betrokken vennootschap te zijn, indien:
 
@@ -1616,11 +1641,11 @@ Een vennootschap wordt bijvoorbeeld geacht onder „zeggenschap” van een ander
 
 - -. de andere vennootschap het recht heeft een meerderheid van de leden van het bestuurs, leidinggevend of toezichthoudend orgaan aan te stellen of af te zetten, en terzelfder tijd aandeelhouder of lid van de dochteronderneming is.
 
-#### 3
+##### 3
 
 Beide partijen verklaren dat de in punt 2 vermelde criteria geen limitatieve opsomming vormen.
 
-#### 1
+##### 1
 
 De Partijen stemmen ermee in voor het volgende goederenverkeer onverwijld de nodige maatregelen te nemen om elkaar bij te staan zoals bepaald in dit Protocol:
 
@@ -1632,11 +1657,11 @@ De Partijen stemmen ermee in voor het volgende goederenverkeer onverwijld de nod
 
 - d. verkeer van gevoelige en strategische goederen die onderworpen zijn aan niet-tarifaire beperkingen in overeenstemming met de door de Partijen overeengekomen lijsten.
 
-#### 2
+##### 2
 
 De Partijen stemmen ermee in, indien zulks volgens de beginselen van hun respectieve rechtsstelsels is toegestaan, de nodige maatregelen te nemen om ervoor te zorgen dat een correct gebruik kan worden gemaakt van het systeem van gecontrolleerde levering op basis van door hen in overeenstemming met de procedures van dit Protocol onderling overeengekomen toepassingsbepalingen.
 
-#### 3
+##### 3
 
 De partijen stemmen ermee in om, in overeenstemming met hun respectieve wetgevingen, alle nodige maatregelen te nemen, om alle onder dit Protocol ressorterende
 
@@ -1646,7 +1671,7 @@ De partijen stemmen ermee in om, in overeenstemming met hun respectieve wetgevin
 
 aan geadresseerden die hun woonplaats hebben of gevestigd zijn in hun respectieve grondgebieden, op basis van door hen onderling overeengekomen toepassingsbepalingen die zij hebben vastgesteld in overeenstemming met de procedures van dit Protocol. In dat geval is [artikel 5, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001261&titeldeel=I&artikel=5&z=1997-12-01&g=1997-12-01), van toepassing.
 
-#### 4
+##### 4
 
 De Partijen komen overeen dat een autoriteit bij wie een verzoek is ingediend waaraan deze zelf geen gevolg kan geven, dit verzoek richt aan een administratieve afdeling die onder dezelfde voorwaarden te werk gaat als die welke van toepassing zijn op de autoriteit tot wie het verzoek gericht is.
 

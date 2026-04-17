@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst betreffende uurwerken tussen de Europese Economische Gemeenschap en haar Lid-Staten, enerzijds, en de Zwitserse Bondsstaat, anderzijds"
 identifier: "BWBV0004222"
-categorie: "Internationaal recht"
-publicatiedatum: 1968-01-01
-laatste_update: 1968-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004222"
+country: "nl"
+rank: "verdrag"
+publication_date: "1968-01-01"
+last_updated: "1968-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004222"
+soort: "verdrag"
+stam_id: "10004008463"
+version_id: "10004169662"
+internal_id: "C10008336171"
+label_id: "10003993074"
+dtd_version: "2.0"
+original_entry_into_force: "1968-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004222/1968-01-01/0"
+intitule_bron: "Trb.1968-26"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1968-04-03"
+intitule_in_force: "1968-04-03"
+intitule_status: "goed"
+original_publication: "Trb.1968-26"
+original_published_date: "1968-04-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1968-26"
+entry_into_force_date: "1968-01-01"
+jci_1_3: "jci1.3:c:BWBV0004222&z=1968-01-01&g=1968-01-01"
+jci_1_0: "1.0:c:BWBV0004222&g=1968-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1968-01-01"
 ---
-
 # Overeenkomst betreffende uurwerken tussen de Europese Economische Gemeenschap en haar Lid-Staten, enerzijds, en de Zwitserse Bondsstaat, anderzijds
 
 Le gouvernement de la Confédération suisse (dénommée ci-après la Suisse)
@@ -64,51 +86,51 @@ Sont convenus de ce qui suit:
 
 ## PARTIE PREMIÈRE. Concessions suisses
 
-#### Article premier
+##### Article premier
 
 A partir du 1er janvier 1968, le tarif horloger suisse (positions douanières 9101 à 9111) sera réduit de 30 % en trois tranches annuelles de 10 % chacune.
 
-#### Article 2
+##### Article 2
 
 Dès le 1er janvier 1968, là Suisse introduira un régime d'exportation assurant l'octroi automatique de permis, pour tout produit horloger suisse encore soumis à cette formalité, y compris les outillages, à destination de tout industriel en horlogerie domicilié dans la CEE.
 
 Est entendu par „industriel en horlogerie” tout destinataire qui utilise pour sa propre fabrication les ébauches, les pièces détachées, les outillages, les appareils et les machines horlogères importés de Suisse.
 
-#### Article 3
+##### Article 3
 
 La Suisse confirme qu'elle n'applique aucune restriction de droit public en matière d'importation de produits horlogers et qu'elle n'a pas l'intention d'en introduire à l'avenir.
 
-#### Article 4
+##### Article 4
 
 La Suisse indique que les exportations de machines horlogères ont été totalement libérées à partir du 1er janvier 1967 et qu'elle n'a pas l'intention de réintroduire des restrictions dans ce domaine.
 
 ## PARTIE DEUXIÈME. Concessions de la CEE
 
-#### Article 5
+##### Article 5
 
 Le tarif horloger de la CEE (positions douanières 91.01 à 91.11) sera réduit de 30 %, y inclus le minimum et le maximum de perception. Cette réduction sera effectuée en deux tranches: la première tranche de 20 % devant intervenir le 1er juillet 1968 et la deuxième tranche de 10 % le 1er janvier 1970.
 
-#### Article 6
+##### Article 6
 
 La CEE ainsi que les Etats membres s'abstiendront d'appliquer ou d'introduire des mesures non-tarifaires de nature à affecter les échanges de produits horlogers.
 
 ## PARTIE TROISIÈME. Concessions ultérieures
 
-#### Article 7
+##### Article 7
 
 Les parties contractantes sont d'accord de rechercher une libéralisation plus complète et réciproque des échanges dans le domaine horloger de nature à permettre notamment des réductions tarifaires de 50 % de part et d'autre.
 
-#### Article 8
+##### Article 8
 
 La Commission mixte mentionnée à la quatrième partie recommandera, sur la base d'un examen approfondi devant intervenir au printemps 1970 au plus tard, aux autorités compétentes des parties contractantes la mise en vigueur de telles mesures de libération complémentaires.
 
 ## PARTIE QUATRIÈME. Commission mixte
 
-#### Article 9
+##### Article 9
 
 Une „Commission mixte” est instituée. Elle se compose de représentants des autorités suisses d'une part et des autorités de la CEE et des Etats membres d'autre part.
 
-#### Article 10
+##### Article 10
 
 Cette commission a pour mission
 
@@ -116,17 +138,17 @@ Cette commission a pour mission
 
 - b). de servir de forum de discussion pour tous les problèmes d'un intérêt commun dans le domaine de l'horlogerie et, en particulier, pour la recherche de solutions propres à conduire à une collaboration toujours plus étroite entre les autorités et les industries horlogères de la Suisse et de la CEE (voir aussi ci-dessus lettre C, chiffre 2).
 
-#### Article 11
+##### Article 11
 
 La commission se réunira au moins deux fois par an.
 
 ## PARTIE CINQUIÈME. Dispositions finales
 
-#### Article 12
+##### Article 12
 
 Les dispositions du présent Accord feront partie intégrante des accords conclus au terme des négociations menées entre les parties contractantes dans le cadre de la sixième conférence tarifaire du [GATT](onbekend) (Kennedy-Round).
 
-#### Article 13
+##### Article 13
 
 Le présent Accord entrera en vigueur le 1er janvier 1968.
 

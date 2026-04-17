@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2016"
+title: "Besluit van 26 maart 2019, houdende vaststelling van diverse decentralisatie- en integratie-uitkeringen aan gemeenten en provincies voor het uitkeringsjaar 2016 alsmede wijziging van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015 en het Besluit decentralisatie- en integratie-uitkeringen (Besluit vaststelling decentralisatie- en integratie-uitkeringen 2016)"
 identifier: "BWBR0042151"
-categorie: "Sociaal recht"
-publicatiedatum: 2020-10-20
-laatste_update: 2020-10-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042151"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-10-20"
+last_updated: "2020-10-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042151"
+soort: "AMvB"
+stam_id: "15059703"
+version_id: "25809862"
+internal_id: "C36798201"
+label_id: "15008814"
+dtd_version: "2.0"
+original_entry_into_force: "2019-04-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042151/2020-10-20/0"
+intitule_bron: "Stb.2019-161"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-03-26"
+intitule_published: "2019-04-25"
+intitule_in_force: "2019-04-25"
+intitule_status: "goed"
+original_publication: "Stb.2019-161"
+original_signed_date: "2019-03-26"
+original_published_date: "2019-04-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2019-161"
+entry_into_force_date: "2019-04-26"
+jci_1_3: "jci1.3:c:BWBR0042151&z=2020-10-20&g=2020-10-20"
+jci_1_0: "1.0:c:BWBR0042151&g=2020-10-20"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2016"
+signed_date: "2019-03-26"
+entry_into_force: "2019-04-26"
 ---
-
 # Besluit van 26 maart 2019, houdende vaststelling van diverse decentralisatie- en integratie-uitkeringen aan gemeenten en provincies voor het uitkeringsjaar 2016 alsmede wijziging van het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015 en het Besluit decentralisatie- en integratie-uitkeringen (Besluit vaststelling decentralisatie- en integratie-uitkeringen 2016)
 
 #### § 1. Decentralisatie-uitkeringen aan gemeenten en provincies
@@ -18,7 +44,7 @@ bron: "https://wetten.overheid.nl/BWBR0042151"
 
 #### § 2. Integratie-uitkeringen aan gemeenten
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt het Besluit decentralisatie- en integratie-uitkeringen.
 
@@ -36,7 +62,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015.
 
@@ -48,15 +74,15 @@ Wijzigt het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 1
+##### Artikel 1
 
 In het jaar 2016 ontvangen de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&bijlage=1&z=2020-10-20&g=2020-10-20) genoemde gemeenten de in die bijlage genoemde decentralisatie-uitkeringen.
 
-#### Artikel 2
+##### Artikel 2
 
 In het jaar 2016 ontvangen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&bijlage=2&z=2020-10-20&g=2020-10-20) genoemde provincies de in die bijlage genoemde decentralisatie-uitkeringen.
 
-#### Artikel 3
+##### Artikel 3
 
 In het jaar 2016 ontvangen de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&bijlage=3&z=2020-10-20&g=2020-10-20) genoemde gemeenten de in die bijlage genoemde integratie-uitkeringen.
 
@@ -90,7 +116,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 5. Slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
@@ -100,7 +126,7 @@ Hebben goedgevonden en verstaan:
 
 4. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042151&paragraaf=4&artikel=5&z=2020-10-20&g=2020-10-20) werkt terug tot en met 1 januari 2014.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit vaststelling decentralisatie- en integratie-uitkeringen 2016.
 

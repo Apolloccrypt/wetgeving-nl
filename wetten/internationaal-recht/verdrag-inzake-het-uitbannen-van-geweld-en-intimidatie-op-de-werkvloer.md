@@ -1,13 +1,24 @@
 ---
 title: "Verdrag inzake het uitbannen van geweld en intimidatie op de werkvloer"
 identifier: "BWBV0006855"
-categorie: "Internationaal recht"
-publicatiedatum: 2019-06-21
-laatste_update: 2019-06-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006855"
+country: "nl"
+rank: "verdrag"
+publication_date: "2019-06-21"
+last_updated: "2019-06-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006855"
+soort: "verdrag"
+stam_id: "10005548523"
+version_id: "10006039292"
+internal_id: "C10009686701"
+label_id: "10005531724"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006855/2019-06-21/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0006855&z=2019-06-21&g=2019-06-21"
+jci_1_0: "1.0:c:BWBV0006855&g=2019-06-21"
+citeertitel_status: "redactioneel"
 ---
-
 # Verdrag inzake het uitbannen van geweld en intimidatie op de werkvloer
 
 Preambule
@@ -48,7 +59,7 @@ Neemt heden, de eenentwintigste juni van het jaar tweeduizendnegentien, het volg
 
 ### I. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van dit Verdrag:
 
@@ -60,13 +71,13 @@ Neemt heden, de eenentwintigste juni van het jaar tweeduizendnegentien, het volg
 
 ### II. REIKWIJDTE
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit Verdrag beschermt werknemers en andere personen op de werkvloer, waaronder werknemers zoals omschreven in de nationale wetgeving en de praktijk, alsmede personen die werkzaam zijn ongeacht hun contractuele status, personen in opleiding, waaronder stagiairs en leerlingen, werknemers van wie de arbeidsovereenkomst is beëindigd, vrijwilligers, werkzoekenden en sollicitanten, en natuurlijke personen die de bevoegdheden, taken of verantwoordelijkheden van een werkgever uitoefenen.
 
 2. Dit Verdrag is van toepassing op alle sectoren, hetzij private hetzij publieke, zowel in de formele als in de informele economie, en hetzij in stedelijke gebieden hetzij in rurale gebieden.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit Verdrag is van toepassing op geweld en intimidatie op de werkvloer plaatsvindend tijdens, verband houdend met of voortvloeiend uit werkzaamheden:
 
@@ -84,7 +95,7 @@ Dit Verdrag is van toepassing op geweld en intimidatie op de werkvloer plaatsvin
 
 ### III. KERNBEGINSELEN
 
-#### Artikel 4
+##### Artikel 4
 
 1. Elk Lid dat dit Verdrag bekrachtigt dient het recht van eenieder op een werkvloer die vrij is van geweld en intimidatie te eerbiedigen, te bevorderen en te bewerkstelligen.
 
@@ -108,21 +119,21 @@ Dit Verdrag is van toepassing op geweld en intimidatie op de werkvloer plaatsvin
 
 3. Bij het aannemen en uitvoeren van de in het tweede lid van dit artikel genoemde aanpak, erkent elk Lid de verschillende en complementaire rollen en taken van overheden, en van werkgevers en werknemers en hun respectieve organisaties, rekening houdend met de uiteenlopende aard en omvang van hun respectieve verantwoordelijkheden.
 
-#### Artikel 5
+##### Artikel 5
 
 Met het oog op het voorkomen en uitbannen van geweld en intimidatie op de werkvloer eerbiedigt, bevordert en bewerkstelligt elk Lid de fundamentele beginselen en rechten op de werkvloer, te weten vrijheid van vereniging en de daadwerkelijke erkenning van het recht op collectieve onderhandelingen, de uitbanning van alle vormen van gedwongen of verplichte arbeid, de daadwerkelijke afschaffing van kinderarbeid en de uitbanning van arbeidsmarktdiscriminatie ten aanzien van werving en selectie, alsmede het bevorderen van fatsoenlijk werk.
 
-#### Artikel 6
+##### Artikel 6
 
 Elk Lid neemt wetten, voorschriften en beleid aan om het recht te waarborgen op gelijkheid en non-discriminatie in arbeid en beroep, waaronder voor vrouwelijke werknemers en ook voor werknemers en andere personen die behoren tot een of meer kwetsbare groepen of groepen in kwetsbare situaties die onevenredig getroffen worden door geweld en intimidatie op de werkvloer.
 
 ### IV. BESCHERMING EN PREVENTIE
 
-#### Artikel 7
+##### Artikel 7
 
 Onverminderd en in overeenstemming met [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006855&hoofdstuk=I&artikel=1&z=2019-06-21&g=2019-06-21) neemt elk Lid wetten en voorschriften aan om geweld en intimidatie op de werkvloer te definiëren en te verbieden, met inbegrip van gendergerelateerd geweld en gendergerelateerde intimidatie.
 
-#### Artikel 8
+##### Artikel 8
 
 Elk Lid neemt passende maatregelen ter voorkoming van geweld en intimidatie op de werkvloer, met inbegrip van:
 
@@ -132,7 +143,7 @@ Elk Lid neemt passende maatregelen ter voorkoming van geweld en intimidatie op d
 
 - c. het nemen van maatregelen om dergelijke personen effectief te beschermen.
 
-#### Artikel 9
+##### Artikel 9
 
 Elk Lid neemt wetten en voorschriften aan die van werkgevers verlangen dat zij passende stappen nemen, overeenkomstig hun mate van controle, om geweld en pesterijen op de werkvloer te voorkomen, met inbegrip van gendergerelateerd geweld en gendergerelateerde intimidatie, en in het bijzonder, voor zover redelijk en praktisch uitvoerbaar:
 
@@ -146,7 +157,7 @@ Elk Lid neemt wetten en voorschriften aan die van werkgevers verlangen dat zij p
 
 ### V. HANDHAVING EN RECHTSMIDDELEN
 
-#### Artikel 10
+##### Artikel 10
 
 Elk Lid neemt passende maatregelen om:
 
@@ -178,7 +189,7 @@ Elk Lid neemt passende maatregelen om:
 
 ### VI. RICHTSNOEREN, TRAINING EN VERGROTING BEWUSTWORDING
 
-#### Artikel 11
+##### Artikel 11
 
 Elk Lid streeft er in overleg met de representatieve organisaties van werkgevers en werknemers naar te waarborgen dat:
 
@@ -190,17 +201,17 @@ Elk Lid streeft er in overleg met de representatieve organisaties van werkgevers
 
 ### VII. METHODEN VAN TOEPASSING
 
-#### Artikel 12
+##### Artikel 12
 
 De bepalingen van dit Verdrag dienen te worden toegepast via nationale wetten en voorschriften, alsmede via collectieve overeenkomsten of andere maatregelen in overeenstemming met de nationale praktijk, onder andere door uitbreiding of aanpassing van bestaande maatregelen voor veiligheid en gezondheid op het werk om rekening te houden met geweld en intimidatie en het ontwikkelen van specifieke maatregelen indien nodig.
 
 ### VIII. SLOTBEPALINGEN
 
-#### Artikel 13
+##### Artikel 13
 
 De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau ten behoeve van registratie.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Dit Verdrag is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie die hun bekrachtigingen door de Directeur-Generaal van het Internationaal Arbeidsbureau hebben doen registreren.
 
@@ -208,27 +219,27 @@ De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-G
 
 3. Vervolgens treedt dit Verdrag voor elk Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Een Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaar na de datum waarop het Verdrag voor het eerst in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
 
 2. Elk Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaar bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen binnen het eerste jaar van elke nieuwe termijn van tien jaar op de voorwaarden voorzien in dit artikel.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
 
 2. Bij de kennisgeving aan de Leden van de Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop het Verdrag in werking treedt.
 
-#### Artikel 17
+##### Artikel 17
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die overeenkomstig de bepalingen van de voorgaande artikelen zijn geregistreerd.
 
-#### Artikel 18
+##### Artikel 18
 
 De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer hij dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Indien de Conferentie een nieuw verdrag aanneemt, houdende herziening van dit Verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
 
@@ -238,6 +249,6 @@ De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer 
 
 2. Dit Verdrag blijft in elk geval naar huidige vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe verdrag, houdende herziening, niet hebben bekrachtigd.
 
-#### Artikel 20
+##### Artikel 20
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.

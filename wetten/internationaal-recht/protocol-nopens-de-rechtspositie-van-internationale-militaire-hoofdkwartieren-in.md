@@ -1,13 +1,35 @@
 ---
 title: "Protocol nopens de rechtspositie van internationale militaire hoofdkwartieren, ingesteld uit hoofde van het Noord-Atlantisch Verdrag"
 identifier: "BWBV0005255"
-categorie: "Internationaal recht"
-publicatiedatum: 1954-07-22
-laatste_update: 1954-07-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005255"
+country: "nl"
+rank: "verdrag"
+publication_date: "1954-07-22"
+last_updated: "1954-07-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005255"
+soort: "verdrag"
+stam_id: "10004536933"
+version_id: "10004755792"
+internal_id: "C10007075521"
+label_id: "10004521744"
+dtd_version: "2.0"
+original_entry_into_force: "1954-07-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005255/1954-07-22/0"
+intitule_bron: "Trb.1953-11"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1953-01-27"
+intitule_in_force: "1954-07-08"
+intitule_status: "goed"
+original_publication: "Trb.1953-11"
+original_published_date: "1953-01-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1953-11"
+entry_into_force_date: "1954-07-22"
+jci_1_3: "jci1.3:c:BWBV0005255&z=1954-07-22&g=1954-07-22"
+jci_1_0: "1.0:c:BWBV0005255&g=1954-07-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "1954-07-22"
 ---
-
 # Protocol nopens de rechtspositie van internationale militaire hoofdkwartieren, ingesteld uit hoofde van het Noord-Atlantisch Verdrag
 
 De Staten welke partij zijn bij het op 4 April 1949 te Washington ondertekende [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760),
@@ -18,7 +40,7 @@ Verlangende, de rechtspositie van zodanige hoofdkwartieren en van het personeel 
 
 Hebben overeenstemming bereikt omtrent dit Protocol behorende bij het op 19 Juni 1951 te Londen ondertekende [Verdrag nopens de rechtspositie van hun krijgsmachten](https://wetten.overheid.nl/jci1.3:c:BWBV0004785):
 
-#### Artikel 1
+##### Artikel 1
 
 In dit Protocol wordt verstaan onder:
 
@@ -30,11 +52,11 @@ In dit Protocol wordt verstaan onder:
 
 - (d). „Noord-Atlantische Raad”, de Raad ingesteld krachtens [artikel 9 van het Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760&artikel=9), of één van zijn hulporganen, bevoegd om namens hem te handelen.
 
-#### Artikel 2
+##### Artikel 2
 
 Behoudens de volgende bepalingen van dit Protocol is het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785) van toepassing op de Geallieerde Hoofdkwartieren op het in het gebied van het [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760) gelegen grondgebied van een Staat welke partij is bij dit Protocol, en op het militaire en burgerpersoneel van zodanige hoofdkwartieren en hun gezinsleden, begrepen in de omschrijving in de alinea's (**a**), (**b**) en (**c**) van lid 1 van artikel 3 van dit Protocol, wanneer dit personeel zich bevindt op een zodanig grondgebied voor de uitoefening van de dienst of, indien het de gezinsleden betreft, voor de uitoefening van de dienst van de echtgenoot of ouder.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de toepassing van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785) op een Geallieerd Hoofdkwartier wordt onder de uitdrukkingen „krijgsmacht”, „civiele dienst” en „gezinslid”, waar zij ook in het Verdrag mogen voorkomen, verstaan:
 
@@ -46,7 +68,7 @@ Behoudens de volgende bepalingen van dit Protocol is het [Verdrag](https://wette
 
 2. Voor de toepassing van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBV0004785&artikel=II), [lid 2 van artikel V](https://wetten.overheid.nl/jci1.3:c:BWBV0004785&artikel=V), [lid 10 van artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBV0004785&artikel=VII), de [leden 2, 3, 4, 7 en 8 van artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBV0004785&artikel=IX), en [artikel XIII van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785&artikel=XIII), wordt een Geallieerd Hoofdkwartier beschouwd als een krijgsmacht.
 
-#### Artikel 4
+##### Artikel 4
 
 De rechten en verplichtingen welke het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785) verleent of oplegt aan de Staat van herkomst of aan de autoriteiten van die Staat, met betrekking tot diens krijgsmacht of de daarbij behorende civiele diensten of gezinsleden, zullen ten aanzien van een Geallieerd Hoofdkwartier en zijn personeel met de gezinsleden op wie het Verdrag van toepassing is in overeenstemming met artikel 2 van dit Protocol, toekomen aan en rusten op het desbetreffende Algemene Hoofdkwartier en de daaronder ressorterende verantwoordelijke autoriteiten, met dien verstande, dat
 
@@ -60,11 +82,11 @@ De rechten en verplichtingen welke het [Verdrag](https://wetten.overheid.nl/jci1
 
 Zowel de Staat (zo deze er is) op welke de verplichtingen krachtens dit lid rusten, als het betrokken Geallieerd Hoofdkwartier bezitten de rechten van de Staat van herkomst, ten aanzien van de benoeming van een arbiter krachtens [lid 8 van artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0004785&artikel=VIII).
 
-#### Artikel 5
+##### Artikel 5
 
 Elk lid van een Geallieerd Hoofdkwartier dient in het bezit te zijn van een persoonlijk identiteitsbewijs, afgegeven door het Hoofdkwartier en voorzien van naam en voornamen, datum en plaats van geboorte, nationaliteit, rang of graad (stand), (eventueel) leger- of stamboeknummer, photo en geldigheidsduur. Dit bewijs moet op vordering worden getoond.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De bij [artikel VIII van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785&artikel=VIII) aan de Verdragsluitende Partijen opgelegde verplichtingen om afstand te doen van vorderingen rusten zowel op het betrokken Geallieerd Hoofdkwartier als op iedere betrokken Staat welke partij is bij dit Protocol.
 
@@ -78,13 +100,13 @@ Elk lid van een Geallieerd Hoofdkwartier dient in het bezit te zijn van een pers
 
 3. De vorderingen waarop [lid 5 van artikel VIII van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785&artikel=VIII) van toepassing is, omvatten vorderingen (behoudens vorderingen uit overeenkomst en behoudens die vorderingen waarop de leden 6 en 7 van dat artikel van toepassing zijn) voortvloeiende uit een handelen of nalaten van een werknemer van een Geallieerd Hoofdkwartier, of uit enig ander handelen, nalaten of gebeuren voor hetwelk een Geallieerd Hoofdkwartier wettelijk aansprakelijk is en hetwelk op het grondgebied van een Staat van verblijf schade toebrengt aan derden, niet zijnde één van de Staten welke partij zijn bij dit Protocol.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De vrijstelling van belasting, krachtens [artikel X van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785&artikel=X) verleend aan leden van een krijgsmacht of civiele dienst met betrekking tot hun salarissen en emolumenten is, ten aanzien van personeel van een Geallieerd Hoofdkwartier als omschreven in lid 1 (**a**) en (**b**) (i) van artikel 3 van dit Protocol, van toepassing op salarissen en emolumenten aan dit personeel als zodanig uitbetaald door de strijdkrachten tot welke het behoort of bij welke het in dienst is, met dien verstande, dat de vrijstelling, krachtens dit lid verleend aan zodanige leden of werknemers, niet wordt genoten met betrekking tot belasting geheven door de Staat waarvan zij onderdaan zijn.
 
 2. Werknemers van een Geallieerd Hoofdkwartier behorende tot categorieën vastgesteld door de Noord-Atlantische Raad, worden vrijgesteld van belastingen op de salarissen en emolumenten, aan hen uitbetaald door het Geallieerd Hoofdkwartier, in hun kwaliteit van zodanige werknemers. Elke Staat welke partij is bij dit Protocol kan echter een regeling treffen met het Geallieerd Hoofdkwartier, waarbij die Staat al haar onderdanen die deel uit zullen maken van de staf van het Geallieerd Hoofdkwartier, (behalve, indien die Staat zulks verlangt, alle onderdanen die geen verblijfplaats plegen te hebben op zijn grondgebied) in dienst neemt en toewijst aan het Geallieerd Hoofdkwartier en de salarissen en emolumenten van zodanige personen uit eigen middelen, volgens een door die Staat vastgestelde loonschaal, uitbetaalt. Van op deze wijze uitbetaalde salarissen en emolumenten kan belasting worden geheven door de betrokken Staat maar zij worden vrijgesteld van belastingheffing door de andere partijen. Indien zulk een regeling is aangegaan door een Staat welke partij is bij dit Protocol, en vervolgens gewijzigd of beëindigd wordt, zijn de Staten welke partij zijn bij dit Protocol niet langer, krachtens de eerste volzin van dit lid, verplicht de salarissen en emolumenten uitbetaald aan hun onderdanen vrij te stellen van belasting.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Teneinde de vestiging, de bouw, de instandhouding en de werkzaamheden van Geallieerde Hoofdkwartieren te vergemakkelijken wordt aan deze Hoofdkwartieren zoveel mogelijk vrijstelling verleend van rechten en heffingen welke uitgaven betreffen, door hen gedaan in het belang van de gemeenschappelijke verdediging en uitsluitend ten behoeve van hun officiële werkzaamheden. Elke Staat welke partij is bij dit Protocol zal in onderhandeling treden met elk Geallieerd Hoofdkwartier dat in zijn gebied werkzaam is, met het doel een overeenkomst te sluiten ter uitvoering van deze bepaling.
 
@@ -94,7 +116,7 @@ Elk lid van een Geallieerd Hoofdkwartier dient in het bezit te zijn van een pers
 
 4. De uitdrukking „rechten en heffingen” in dit artikel omvat niet de heffingen terzake van bewezen diensten.
 
-#### Artikel 9
+##### Artikel 9
 
 Behalve voor zover de Noord-Atlantische Raad anders mocht beslissen:
 
@@ -102,37 +124,37 @@ Behalve voor zover de Noord-Atlantische Raad anders mocht beslissen:
 
 - (b). moeten alle terreinen, gebouwen of vaste installaties, door de Staat van verblijf kosteloos (of tegen een nominale prijs) aan een Geallieerd Hoofdkwartier in gebruik gegeven en niet langer benodigd door dit Hoofdkwartier, aan de Staat van verblijf worden teruggegeven, en moet elke uit het gebruik door het Hoofdkwartier voortvloeiende waardevermeerdering of waardevermindering van de eigendommen die door de Staat van verblijf zijn verschaft, na te zijn vastgesteld door de Noord-Atlantische Raad (met inachtneming van de op deze materie van toepassing zijnde wetten van de Staat van verblijf) worden verdeeld onder, of geboekt ten gunste of ten laste van de Staten welke partij zijn bij het [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760) in de verhouding waarin zij hebben bijgedragen in de kapitaalsuitgaven van het Hoofdkwartier.
 
-#### Artikel 10
+##### Artikel 10
 
 Elk Algemeen Hoofdkwartier bezit rechtspersoonlijkheid; het is bevoegd overeenkomsten aan te gaan en eigendommen te verwerven en te vervreemden. De Staat van verblijf kan echter de uitoefening van een zodanige bevoegdheid onderwerpen aan speciale regelingen tussen die Staat en het Algemeen Hoofdkwartier of een ondergeschikt Geallieerd Hoofdkwartier dat handelt in naam van het Algemeen Hoofdkwartier.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Behoudens de bepalingen van [artikel VIII van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785&artikel=VIII) kan een Algemeen Hoofdkwartier als eiser of gedaagde in rechte optreden. De Staat van verblijf en het Algemeen Hoofdkwartier of een ondergeschikt Geallieerd Hoofdkwartier dat daartoe gemachtigd is door het Algemeen Hoofdkwartier, kunnen echter overeenkomen dat de Staat van verblijf namens het Algemeen Hoofdkwartier zal optreden voor de rechtbanken van de Staat van verblijf in elk rechtsgeding waarin dit Hoofdkwartier partij is.
 
 2. Tegen een Geallieerd Hoofdkwartier wordt geen maatregel van tenuitvoerlegging en geen maatregel gericht op de inbeslagneming van of beslaglegging op zijn eigendommen en middelen genomen, behoudens voor de doeleinden omschreven in [lid 6 (a) van artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBV0004785&artikel=VII) en in [artikel XIII van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785&artikel=XIII).
 
-#### Artikel 12
+##### Artikel 12
 
 1. Om het in staat te stellen zijn internationale budget te hanteren, mag een Geallieerd Hoofdkwartier alle soorten valuta's bezitten en in iedere geldsoort rekeningen hebben.
 
 2. De Staten welke partij zijn bij dit Protocol zullen op verzoek van een Geallieerd Hoofdkwartier het overmaken van de middelen van een zodanig Hoofdkwartier van het ene land naar het andere vergemakkelijken evenals het omzetten van elke in het bezit van een Hoofdkwartier zijnde valuta in enige andere valuta, wanneer zulks nodig is om in de behoeften van een Geallieerd Hoofdkwartier te voorzien.
 
-#### Artikel 13
+##### Artikel 13
 
 Het archief en andere officiële documenten van een Geallieerd Hoofdkwartier, welke worden bewaard in percelen welke in gebruik zijn bij deze Hoofdkwartieren of die in het bezit zijn van behoorlijk gemachtigde leden van het Hoofdkwartier, zijn onschendbaar, tenzij het Hoofdkwartier afstand gedaan heeft van deze immuniteit. Op verzoek van de Staat van verblijf en in tegenwoordigheid van een vertegenwoordiger van die Staat zal het Hoofdkwartier de aard van de documenten vaststellen om te bevestigen dat zij recht hebben op de onschendbaarheid ingevolge dit artikel.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Bij besluit van de Noord-Atlantische Raad kunnen dit Protocol en het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785), in hun geheel of voor een deel, worden toegepast op een internationaal militair hoofdkwartier of organisatie (niet begrepen in de leden (**b**) en (**c**) van artikel 1 van dit Protocol), ingesteld uit hoofde van het [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760).
 
 2. Wanneer de Europese Defensie Gemeenschap tot stand komt kan dit Protocol worden toegepast op het aan een Geallieerd Hoofdkwartier verbonden personeel van de Europese Defensiestrijdkrachten en op hun gezinsleden op een zodanig tijdstip en op een zodanige wijze als zal worden bepaald door de Noord-Atlantische Raad.
 
-#### Artikel 15
+##### Artikel 15
 
 Alle geschillen tussen de Staten welke partij zijn bij dit Protocol, of tussen zodanige Staten en een Geallieerd Hoofdkwartier, met betrekking tot de uitlegging of de toepassing van het Protocol worden beslecht door onderhandelingen tussen de partijen in het geschil, zonder beroep op enig rechterlijk orgaan buiten de organisatie van het [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760). Behalve waar in dit Protocol of in het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785) uitdrukkelijk het tegendeel is bepaald worden geschillen, die niet door rechtstreekse onderhandeling kunnen worden beslecht, verwezen naar de Noord-Atlantische Raad.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De [artikelen XV](https://wetten.overheid.nl/jci1.3:c:BWBV0004785&artikel=XV) en [XVII tot XX van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785&artikel=XIX) zijn ten aanzien van dit Protocol van toepassing alsof zij er een integrerend deel van uitmaken, doch op zodanige wijze, dat ten aanzien van het Protocol herziening, opschorting, bekrachtiging, toetreding, opzegging of uitbreiding in overeenstemming met deze bepalingen kan geschieden onafhankelijk van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785).
 

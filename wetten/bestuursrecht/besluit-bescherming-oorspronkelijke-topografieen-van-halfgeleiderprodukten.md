@@ -1,13 +1,35 @@
 ---
-title: "Besluit bescherming oorspronkelijke topografieën van halfgeleiderprodukten"
+title: "Besluit van 23 juli 1987, tot uitvoering van de wet houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten"
 identifier: "BWBR0004199"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004199"
+country: "nl"
+rank: "amvb"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004199"
+soort: "AMvB"
+stam_id: "252663"
+version_id: "357702"
+internal_id: "C357701"
+label_id: "247674"
+dtd_version: "2.0"
+original_entry_into_force: "1987-11-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004199/2002-01-01/0"
+intitule_bron: "Stb.1987-486"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-07-23"
+intitule_status: "goed"
+original_publication: "Stb.1987-486"
+original_signed_date: "1987-07-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1987-11-07"
+jci_1_3: "jci1.3:c:BWBR0004199&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0004199&g=2002-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit bescherming oorspronkelijke topografieën van halfgeleiderprodukten"
+signed_date: "1987-07-23"
+entry_into_force: "1987-11-07"
 ---
-
 # Besluit van 23 juli 1987, tot uitvoering van de wet houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten
 
 Op de voordracht van Onze Minister van Justitie van 1 juni 1987, Stafafdeling Wetgeving Privaatrecht, nr. 212/687, gedaan mede namens Onze Minister van Economische Zaken;
@@ -22,13 +44,13 @@ Hebben goedgevonden en verstaan:
 
 #### Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder de Wet: de Wet houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten.
 
 ### Hoofdstuk I. Het depot
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het depot van een topografie van een halfgeleiderprodukt geschiedt door de indiening in drievoud van een geschrift bij het Bureau.
 
@@ -36,7 +58,7 @@ In dit besluit wordt verstaan onder de Wet: de Wet houdende regelen inzake de be
 
 3. De deposant dient voor het depot een formulier te gebruiken, waarvan het model wordt vastgesteld door het Bureau.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Tekeningen en afbeeldingen van de topografie worden in tweevoud ingediend.
 
@@ -50,7 +72,7 @@ In dit besluit wordt verstaan onder de Wet: de Wet houdende regelen inzake de be
 
 ### Hoofdstuk II. Inschrijving
 
-#### Artikel 4
+##### Artikel 4
 
 Het depot wordt door het Bureau ingeschreven in het door het Bureau te houden register door vermelding van:
 
@@ -68,7 +90,7 @@ Het depot wordt door het Bureau ingeschreven in het door het Bureau te houden re
 
 - g. het kalenderjaar waarin de topografie voor de eerste maal is geëxploiteerd, indien dit reeds heeft plaatsgevonden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Naast het depot worden voorts in het register ingeschreven:
 
@@ -84,7 +106,7 @@ Het depot wordt door het Bureau ingeschreven in het door het Bureau te houden re
 
 2. De inschrijving geschiedt door vermelding van de aard en het onderwerp van het stuk, de datum van de indiening van het stuk, alsmede de naam, het adres en de woonplaats van degene, die het stuk heeft ingediend.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Ieder verzoek tot wijziging of doorhaling van een inschrijving in het register dient in drievoud aan het Bureau te worden gericht en het nummer van de inschrijving, de naam en het adres van de houder van de topografie te vermelden.
 
@@ -92,13 +114,13 @@ Het depot wordt door het Bureau ingeschreven in het door het Bureau te houden re
 
 3. De doorhaling van een inschrijving, ingevolge een rechterlijke beslissing die in kracht van gewijsde is gegaan, wordt ambtshalve of op verzoek van de meest gerede partij verricht.
 
-#### Artikel 7
+##### Artikel 7
 
 Het Bureau zendt de houder en degene die het stuk heeft ingediend, indien hij een ander is dan de houder, onverwijld een bewijs van inschrijving toe.
 
 ### Hoofdstuk III. Administratieve bepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Alle aan het Bureau over te leggen stukken moeten duidelijk leesbaar in het Nederlands zijn gesteld.
 
@@ -108,15 +130,15 @@ Het Bureau zendt de houder en degene die het stuk heeft ingediend, indien hij ee
 
 4. Geen legalisatie van de ondertekening van stukken, waarvan de inschrijving wordt gevraagd, is vereist, tenzij het Bureau dit noodzakelijk oordeelt.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het Bureau bevestigt de ontvangst van elk binnengekomen stuk, dat bestemd is voor inschrijving in het door het Bureau gehouden register.
 
@@ -124,15 +146,15 @@ Vervallen
 
 3. Stukken, die na sluitingstijd van de dienst zijn bezorgd, worden gedagtekend op de eerstvolgende dag, waarop het Bureau is geopend.
 
-#### Artikel 12
+##### Artikel 12
 
 Onvoldoende gefrankeerde stukken worden door het Bureau geweigerd.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien het Bureau gesloten is op de laatste dag van een ingevolge de wet of dit besluit in acht te nemen termijn, wordt die termijn verlengd tot het einde van de eerstvolgende dag, waarop het Bureau geopend is.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het Bureau maakt inschrijvingen in het register bekend in het blad "De Industriële Eigendom", bedoeld in [artikel 38 van het Octrooireglement 1921](onbekend), **Stb.** 1083.
 
@@ -140,13 +162,13 @@ Indien het Bureau gesloten is op de laatste dag van een ingevolge de wet of dit 
 
 ### Hoofdstuk IV. Verstrekken van technische adviezen
 
-#### Artikel 15
+##### Artikel 15
 
 De technische adviezen, bedoeld in artikel 23 van de wet worden verstrekt door een bijzondere afdeling van de Octrooiraad, die daartoe telkens door de centrale afdeling van die raad wordt samengesteld uit de gewone, buitengewone en plaatsvervangende leden van de Octrooiraad. De [artikelen 9](onbekend) tot en met [11 van het Octrooireglement 1921](onbekend), **Stb.** 1083, zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk V. Rechten
 
-#### Artikel 16
+##### Artikel 16
 
 1. Voor de verschillende hierna vermelde handelingen betreffende depots zijn de volgende rechten verschuldigd:
 
@@ -164,7 +186,7 @@ De technische adviezen, bedoeld in artikel 23 van de wet worden verstrekt door e
 
 2. Voor afschriften is een bedrag van € 1 per bladzijde verschuldigd.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Betaling van rechten, verschuldigd ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004199&hoofdstuk=V&artikel=16&z=2002-01-01&g=2002-01-01), voor bij het Bureau verrichte handelingen, kan op één van de hierna volgende manieren plaatsvinden:
 
@@ -190,7 +212,7 @@ De technische adviezen, bedoeld in artikel 23 van de wet worden verstrekt door e
 
 ### Hoofdstuk VI. Inwerkingtreding
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit treedt in werking tegelijk met de Wet houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten.
 

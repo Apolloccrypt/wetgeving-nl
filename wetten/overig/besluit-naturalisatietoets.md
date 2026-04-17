@@ -1,13 +1,39 @@
 ---
-title: "Besluit naturalisatietoets"
+title: "Besluit van 15 april 2002, houdende regels ter uitvoering van artikel 8, eerste lid, aanhef en onder d, van de Rijkswet op het Nederlanderschap (Besluit naturalisatietoets)"
 identifier: "BWBR0013604"
-categorie: "Overig"
-publicatiedatum: 2022-05-26
-laatste_update: 2022-05-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013604"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2022-05-26"
+last_updated: "2022-05-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013604"
+soort: "rijksKB"
+stam_id: "1698893"
+version_id: "2504062"
+internal_id: "C20033211"
+label_id: "1651994"
+dtd_version: "2.0"
+original_entry_into_force: "2003-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013604/2022-05-26/0"
+intitule_bron: "Stb.2002-197"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-04-15"
+intitule_published: "2002-04-25"
+intitule_in_force: "2003-03-25"
+intitule_status: "goed"
+original_publication: "Stb.2002-197"
+original_signed_date: "2002-04-15"
+original_published_date: "2002-04-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2002-197"
+entry_into_force_date: "2003-04-01"
+jci_1_3: "jci1.3:c:BWBR0013604&z=2022-05-26&g=2022-05-26"
+jci_1_0: "1.0:c:BWBR0013604&g=2022-05-26"
+citeertitel_status: "officieel"
+short_title: "Besluit naturalisatietoets"
+signed_date: "2002-04-15"
+entry_into_force: "2003-04-01"
 ---
-
 # Besluit van 15 april 2002, houdende regels ter uitvoering van artikel 8, eerste lid, aanhef en onder d, van de Rijkswet op het Nederlanderschap (Besluit naturalisatietoets)
 
 Op voordracht van de Staatssecretaris van Justitie van 31 januari 2002, Directie Wetgeving, nr. 5140649/01/6;
@@ -24,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking voor Nederland. Treedt op 1 mei 2006 in werking voor Aruba (Stb. 2006/202). Treedt op 1 oktober 2007 in werking voor de Nederlandse Antillen (Stb. 2007/310).
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - d. openbaar lichaam: de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een verzoeker beschikt over voldoende kennis van de taal alsmede van de staatsinrichting en maatschappij als bedoeld in [artikel 8, eerste lid, aanhef en onder d, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8), indien hij beschikt over een zodanige mate van kennis van de taal alsmede van de staatsinrichting en maatschappij, dat hij zelfstandig in de samenleving van Nederland, Aruba, Curaçao, Sint Maarten of van de openbare lichamen Bonaire, Sint Eustatius en Saba kan functioneren.
 
@@ -54,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 4. Onze Minister wijst de ambtenaren, autoriteiten of instellingen aan die de naturalisatietoets afnemen. Indien de plaatselijke omstandigheden daartoe aanleiding geven, kan Onze Minister in overeenstemming met de Minister die het aangaat de beoordeling of de verzoeker beschikt over de mate van kennis van de taal alsmede van de staatsinrichting en maatschappij, bedoeld in het eerste lid, opdragen aan de autoriteit of ambtenaar die het verzoek om verlening van het Nederlanderschap in ontvangst neemt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Van het afleggen van een naturalisatietoets is vrijgesteld de verzoeker die kan aantonen dat:
 
@@ -98,7 +124,7 @@ In dit besluit wordt verstaan onder:
 
 3. Bij ministeriële regeling kan worden voorzien in gedeeltelijke vrijstelling van de naturalisatietoets op grond van andere diploma’s, certificaten of documenten dan genoemd in het eerste en het tweede lid.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het verzoek wordt niet afgewezen om de reden dat de naturalisatietoets niet is behaald, indien ten genoegen van Onze Minister is aangetoond dat:
 
@@ -106,7 +132,7 @@ In dit besluit wordt verstaan onder:
 
 - b. het op grond van door de verzoeker geleverde inspanningen voor hem redelijkerwijs niet mogelijk is de naturalisatietoets te behalen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de verzoeker de naturalisatietoets met goed gevolg heeft afgelegd, wordt hem in het Europese deel van Nederland uitgereikt het diploma, bedoeld in [artikel 8, eerste lid, onderdeel g, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=8), zoals die wet luidde onmiddellijk voorafgaand aan het tijdstip waarop de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) in werking treedt dan wel het inburgeringsdiploma, bedoeld in [artikel 14, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=14) zoals die wet luidde voor de inwerkingtreding van de [wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](https://wetten.overheid.nl/jci1.3:c:BWBR0032031) (Stb. 2012, 430) met daarop de vermelding dat de vaardigheden in de Nederlandse taal op het niveau A2 van het Europees Raamwerk voor Moderne Vreemde Talen zijn verworven, en in een openbaar lichaam, Aruba, Curaçao of Sint Maarten een certificaat. Op het certificaat worden de onderdelen vermeld, die door de verzoeker met goed gevolg zijn afgelegd. Bij ministeriële regeling wordt voor het certificaat een model vastgesteld.
 
@@ -114,19 +140,19 @@ In dit besluit wordt verstaan onder:
 
 3. Het certificaat met de aantekening dat de verzoeker beschikt over de vereiste kennis van de Engelse of Papiamentse taal wordt in het kader van zijn verzoek om naturalisatie alleen erkend op de eilanden waar die taal naast het Nederlands gangbaar is.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij ministeriële regeling kunnen, de Ministers van Justitie van Aruba, Curaçao en Sint Maarten gehoord, ter uitvoering van dit besluit nadere regels worden gesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit is van toepassing op verzoeken om verlening van het Nederlanderschap die op of na de datum van inwerkingtreding van dit besluit zijn ingediend.
 
-#### Artikel 8
+##### Artikel 8
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan en voor elk van de landen van het Koninkrijk verschillend kan worden vastgesteld. Dit besluit treedt niet eerder in werking dan de bij [Rijkswet van 21 december 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012089) (Stb. 618) gewijzigde [artikelen 8, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=8), en [23 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=23).
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit naturalisatietoets.
 

@@ -1,18 +1,40 @@
 ---
 title: "Administratieve Schikking voor de toepassing van het Verdrag betreffende de sociale zekerheid van Rijnvarenden (herzien)"
 identifier: "BWBV0004890"
-categorie: "Sociaal recht"
-publicatiedatum: 2007-02-23
-laatste_update: 1987-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004890"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-02-23"
+last_updated: "1987-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004890"
+soort: "verdrag"
+stam_id: "10004365793"
+version_id: "10004568872"
+internal_id: "C10006981981"
+label_id: "10004352034"
+dtd_version: "2.0"
+original_entry_into_force: "1987-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004890/2007-02-23/0"
+intitule_bron: "Trb.1988-63"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1988-06-07"
+intitule_in_force: "1988-06-07"
+intitule_status: "goed"
+original_publication: "Trb.1988-63"
+original_published_date: "1988-06-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1988-63"
+entry_into_force_date: "1987-12-01"
+jci_1_3: "jci1.3:c:BWBV0004890&z=2007-02-23&g=2007-02-23"
+jci_1_0: "1.0:c:BWBV0004890&g=2007-02-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "1987-12-01"
 ---
-
 # Administratieve Schikking voor de toepassing van het Verdrag betreffende de sociale zekerheid van Rijnvarenden (herzien)
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van deze Administratieve Schikking
 
@@ -22,7 +44,7 @@ Voor de toepassing van deze Administratieve Schikking
 
 - c). hebben de in artikel 1 van het Verdrag omschreven termen de hun in genoemd artikel toegekende betekenis.
 
-#### Artikel 2. Modelformulieren - inlichtingen over de wetgevingen - handleidingen
+##### Artikel 2. Modelformulieren - inlichtingen over de wetgevingen - handleidingen
 
 1. Het model van de formulieren en alle andere documenten welke voor de toepassing van het Verdrag en van deze Schikking nodig zijn worden door het Administratief Centrum vastgesteld in het Duits, het Frans en het Nederlands.
 
@@ -32,7 +54,7 @@ Voor de toepassing van deze Administratieve Schikking
 
 4. Het Administratief Centrum kan handleidingen samenstellen met het doel de belanghebbenden voor te lichten over hun rechten en de administratieve formaliteiten welke zij dienen te vervullen.
 
-#### Artikel 3. Bijlagen
+##### Artikel 3. Bijlagen
 
 1. Bijlage 1 vermeldt de bevoegde autoriteit of de bevoegde autoriteiten van elke Verdragsluitende Partij.
 
@@ -48,7 +70,7 @@ Voor de toepassing van deze Administratieve Schikking
 
 7. Bijlage 7 vermeldt de betalingstijdvakken voor de gezins- en kinderbijslagen.
 
-#### Artikel 4. Internationale bepalingen waarvoor deze schikking in de plaats treedt en internationale overeenkomsten die van kracht blijven
+##### Artikel 4. Internationale bepalingen waarvoor deze schikking in de plaats treedt en internationale overeenkomsten die van kracht blijven
 
 1. Deze Schikking treedt in de plaats van:
 
@@ -62,7 +84,7 @@ Voor de toepassing van deze Administratieve Schikking
 
 #### Toepassing van artikel 8, tweede lid van het Verdrag
 
-#### Artikel 5. Toelating tot de vrijwillige of vrijwillig voortgezette verzekering
+##### Artikel 5. Toelating tot de vrijwillige of vrijwillig voortgezette verzekering
 
 1. Om in aanmerking te komen voor toepassing van artikel 8, tweede lid van het Verdrag, legt de rijnvarende aan het orgaan van de betrokken Verdragsluitende Partij een bewijsstuk over inzake de tijdvakken van verzekering welke krachtens de wetgeving van enige andere Verdragsluitende Partij zijn vervuld. Dit bewijsstuk wordt op verzoek van de rijnvarende of van bedoeld orgaan verstrekt door het orgaan of de organen, waarbij hij de betreffende tijdvakken heeft vervuld.
 
@@ -72,7 +94,7 @@ Voor de toepassing van deze Administratieve Schikking
 
 #### Toepassing van de artikelen 15, 26, 32, 50 en 55 van het Verdrag
 
-#### Artikel 6. Algemene regels betreffende de samentelling van tijdvakken
+##### Artikel 6. Algemene regels betreffende de samentelling van tijdvakken
 
 1. In de gevallen, bedoeld in artikel 15, artikel 26, eerste en tweede lid, artikel 32, eerste en tweede lid, artikel 50 en artikel 55, eerste en tweede lid van het Verdrag, geschiedt de samenstelling van de tijdvakken van verzekering overeenkomstig de volgende regels:
 
@@ -120,7 +142,7 @@ Voor de toepassing van deze Administratieve Schikking
 
 - vi). mag toepassing van bovenstaande regels er niet toe leiden dat voor alle in de loop van een kalenderjaar vervulde tijdvakken een totaal van meer dan tweehonderdvierenzestig dagen of tweeënvijftig weken of twaalf maanden of vierkwartalen wordt verkregen.
 
-#### Artikel 7. Het in aanmerking nemen van premies of bijdragen over tijdvakken van vrijwillige of vrijwillig voortgezette verzekering
+##### Artikel 7. Het in aanmerking nemen van premies of bijdragen over tijdvakken van vrijwillige of vrijwillig voortgezette verzekering
 
 Wanneer krachtens artikel 6, eerste lid, sub b) van deze Schikking ingevolge de wetgeving van een Verdragsluitende Partij vervulde tijdvakken van verzekering op grond van een vrijwillige of vrijwillig voortgezette verzekering bij invaliditeit, ouderdom of overlijden (pensioenen) voor de samentelling niet in aanmerking worden genomen, worden de op deze tijdvakken betrekking hebbende premies of bijdragen geacht bestemd te zijn tot verhoging van de krachtens deze wetgeving verschuldigde uitkeringen.
 
@@ -130,7 +152,7 @@ Wanneer krachtens artikel 6, eerste lid, sub b) van deze Schikking ingevolge de 
 
 #### Toepassing van artikel 15 van het Verdrag
 
-#### Artikel 8. Bewijs betreffende tijdvakken van verzekering
+##### Artikel 8. Bewijs betreffende tijdvakken van verzekering
 
 1. Om in aanmerking te komen voor de toepassing van artikel 15 van het Verdrag, legt de rijnvarende aan het bevoegde orgaan een bewijs over, waarin de tijdvakken van verzekering zijn vermeld welke zijn vervuld krachtens de wetgeving van de Verdragsluitende Partij waaraan hij tevoren en laatstelijk onderworpen is geweest en verstrekt hij alle verdere inlichtingen welke op grond van de door dit orgaan toegepaste wetgeving vereist zijn.
 
@@ -140,7 +162,7 @@ Wanneer krachtens artikel 6, eerste lid, sub b) van deze Schikking ingevolge de 
 
 #### Toepassing van artikel 16 van het Verdrag
 
-#### Artikel 9. Verstrekkingen in geval van verblijf op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde staat - verklaring van de werkgever -
+##### Artikel 9. Verstrekkingen in geval van verblijf op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde staat - verklaring van de werkgever -
 
 1. Om voor zichzelf of voor zijn gezinsleden, die zich met hem aan boord van een in artikel 1, sub m) van het Verdrag bedoeld vaartuig bevinden, verstrekkingen te verkrijgen krachtens artikel 16, eerste lid, sub a)i) van het Verdrag, legt de in loondienst zijnde rijnvarende, die zich voor het vervullen van zijn dienstbetrekking op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat bevindt, aan het orgaan van de verblijfplaats zo spoedig mogelijk een verklaring over welke door de werkgever of diens vertegenwoordiger is afgegeven in de loop van de kalendermaand van voorlegging of in de twee daaraan voorafgaande kalendermaanden. In deze verklaring wordt met name de datum vermeld sedert welke de belanghebbende voor rekening van bedoelde werkgever werkt, alsmede de naam en de plaats van vestiging van het bevoegde orgaan; indien de werkgever evenwel volgens de wetgeving van de bevoegde Staat niet wordt geacht het bevoegde orgaan te kennen, geeft bedoelde rijnvarende de naam en de plaats van vestiging van dit orgaan schriftelijk op wanneer de aanvraag bij het orgaan van de verblijfplaats wordt ingediend. Wanneer hij deze verklaring heeft overgelegd, wordt hij geacht te voldoen aan de voorwaarden voor het ingaan van het recht op verstrekkingen. Indien hij niet in staat is zich voor de medische behandeling tot het orgaan van de verblijfplaats te wenden, ontvangt hij niettemin deze behandeling op vertoon van bedoelde verklaring, alsof hij bij dat orgaan verzekerd was.
 
@@ -156,13 +178,13 @@ Wanneer krachtens artikel 6, eerste lid, sub b) van deze Schikking ingevolge de 
 
 7. Het Administratief Centrum stelt de lijst op van de in het vorige lid bedoelde verstrekkingen.
 
-#### Artikel 10. Verstrekkingen in geval van verblijf op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde staat - bewijs van het bevoegde orgaan -
+##### Artikel 10. Verstrekkingen in geval van verblijf op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde staat - bewijs van het bevoegde orgaan -
 
 1. Om in aanmerking te komen voor verstrekkingen krachtens artikel 16, eerste lid, sub a)i) van het Verdrag, behalve in het geval waarin van de in artikel 9, eerste lid van deze Schikking bedoelde veronderstelling wordt uitgegaan, legt de rijnvarende aan het orgaan van de verblijfplaats een bewijs over waarin wordt verklaard dat hij recht op verstrekkingen heeft. In dit bewijs, dat op verzoek van de belanghebbende door het bevoegde orgaan wordt afgegeven, voordat hij het grondgebied van de Verdragsluitende Partij waarop hij woont verlaat, wordt in voorkomend geval met name de maximumduur vermeld waarover overeenkomstig de wetgeving van de bevoegde Staat verstrekkingen mogen worden verleend. Indien de belanghebbende dit bewijs niet overlegt, verzoekt het orgaan van de verblijfplaats het bevoegde orgaan daarom.
 
 2. Artikel 9, vijfde en zesde lid van deze Schikking is van overeenkomstige toepassing.
 
-#### Artikel 11. Verstrekkingen in geval van overbrenging van de woonplaats naar het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat of van het zich met toestemming begeven naar zodanig grondgebied om er een behandeling te ondergaan
+##### Artikel 11. Verstrekkingen in geval van overbrenging van de woonplaats naar het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat of van het zich met toestemming begeven naar zodanig grondgebied om er een behandeling te ondergaan
 
 1. Om in aanmerking te komen voor verstrekkingen krachtens artikel 16, eerste lid, sub b)i) van het Verdrag, legt de rijnvarende aan het orgaan van de woonplaats een bewijs over waarin wordt verklaard dat hij het recht op deze verstrekkingen mag behouden. In dit bewijs, dat op verzoek van de belanghebbende door het bevoegde orgaan voor zijn vertrek wordt afgegeven, wordt in voorkomend geval met name de maximumduur vermeld waarover volgens de wetgeving van de bevoegde Staat verstrekkingen mogen worden verleend. Het bewijs kan op verzoek van de belanghebbende na diens vertrek worden afgegeven, wanneer het wegens overmacht niet voordien kon worden opgemaakt.
 
@@ -170,11 +192,11 @@ Wanneer krachtens artikel 6, eerste lid, sub b) van deze Schikking ingevolge de 
 
 3. Het eerste lid van dit artikel is van overeenkomstige toepassing in het geval bedoeld in artikel 16, eerste lid, sub c)i) van het Verdrag.
 
-#### Artikel 12. Verstrekkingen aan gezinsleden
+##### Artikel 12. Verstrekkingen aan gezinsleden
 
 De artikelen 10 en 11 van deze Schikking zijn van overeenkomstige toepassing voor het verlenen van verstrekkingen aan de in artikel 16, derde lid van het Verdrag bedoelde gezinsleden.
 
-#### Artikel 13. Uitkeringen in geval van verblijf op het grondgebied van een andere verdragsluitende partij dan de bevoegde staat
+##### Artikel 13. Uitkeringen in geval van verblijf op het grondgebied van een andere verdragsluitende partij dan de bevoegde staat
 
 1. Om in aanmerking te komen voor uitkeringen krachtens artikel 16, eerste lid, sub a)ii) van het Verdrag, wendt de rijnvarende zich binnen drie dagen na riet begin van de arbeidsongeschiktheid tot het orgaan van de verblijfplaats en legt, indien de wetgeving die door het bevoegde orgaan of het orgaan van de verblijfplaats wordt toegepast hierin voorziet, een door de behandelende arts afgegeven bewijs van arbeidsongeschiktheid over. Bovendien deelt hij zijn adres in het land waar hij verblijft mede, alsmede de naam en het adres van het bevoegde orgaan.
 
@@ -196,7 +218,7 @@ De artikelen 10 en 11 van deze Schikking zijn van overeenkomstige toepassing voo
 
 #### Toepassing van artikel 17 van het Verdrag
 
-#### Artikel 14. Verstrekkingen in geval van wonen op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat
+##### Artikel 14. Verstrekkingen in geval van wonen op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat
 
 1. Om in aanmerking te komen voor verstrekkingen krachtens artikel 17, eerste lid, sub a) van het Verdrag, laat de rijnvarende zich inschrijven bij het orgaan van de woonplaats, onder overlegging van een bewijs waarin wordt verklaard dat hij recht op verstrekkingen heeft. Dit bewijs wordt afgegeven door het bevoegde orgaan, eventueel na kennisneming van de door de werkgever verstrekte inlichtingen. Indien dit bewijs door de rijnvarende niet wordt overgelegd, verzoekt het orgaan van de woonplaats het bevoegde orgaan daarom.
 
@@ -210,11 +232,11 @@ De artikelen 10 en 11 van deze Schikking zijn van overeenkomstige toepassing voo
 
 6. De rijnvarende is verplicht het orgaan van de woonplaats in kennis te stellen van iedere verandering in zijn omstandigheden waardoor het recht op verstrekkingen kan worden gewijzigd, in het bijzonder van iedere beëindiging of verandering van dienstbetrekking of beroepswerkzaamheden of iedere overbrenging van de woon- of verblijfplaats. Het bevoegde orgaan en het orgaan van de woonplaats stellen elkaar in kennis van iedere verandering die het recht op verstrekkingen van de rijnvarende kan wijzigen.
 
-#### Artikel 15. Verstrekkingen aan gezinsleden
+##### Artikel 15. Verstrekkingen aan gezinsleden
 
 Artikel 14 van deze Schikking is van overeenkomstige toepassing voor het verlenen van verstrekkingen aan de in artikel 17, tweede lid van het Verdrag bedoelde gezinsleden.
 
-#### Artikel 16. Uitkeringen in geval van wonen op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat
+##### Artikel 16. Uitkeringen in geval van wonen op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat
 
 1. Om in aanmerking te komen voor uitkeringen krachtens artikel 17, eerste lid, sub b) van het Verdrag, wendt de rijnvarende zich binnen drie dagen na het begin van de arbeidsongeschiktheid tot het orgaan van de woonplaats onder overlegging van een kennisgeving van arbeidsonderbreking of, indien de wetgeving die door het bevoegde orgaan of het orgaan van de woonplaats wordt toegepast, hierin voorziet, een door de behandelende arts afgegeven bewijs van arbeidsongeschiktheid. Bovendien is hij verplicht alle andere krachtens de wetgeving van de bevoegde Staat vereiste documenten over te leggen, naar gelang van de aard van de aangevraagde uitkeringen.
 
@@ -226,7 +248,7 @@ Artikel 14 van deze Schikking is van overeenkomstige toepassing voor het verlene
 
 #### Toepassing van artikel 18 van het Verdrag
 
-#### Artikel 17. Verstrekkingen en uitkeringen aan de werkloos geworden rijnvarende en aan zijn gezinsleden die verblijven of wonen op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat
+##### Artikel 17. Verstrekkingen en uitkeringen aan de werkloos geworden rijnvarende en aan zijn gezinsleden die verblijven of wonen op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat
 
 1. De artikelen 10, 11, 12, 14 en 15 van deze Schikkikng zijn van overeenkomstige toepassing voor het verlenen van verstrekkingen aan de werkloos geworden rijnvarende en zijn gezinsleden die op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat verblijven of wonen.
 
@@ -234,7 +256,7 @@ Artikel 14 van deze Schikking is van overeenkomstige toepassing voor het verlene
 
 #### Toepassing van artikel 19, tweede lid, van het Verdrag
 
-#### Artikel 18. Uitkeringen - bewijs betreffende de gezinsleden die in aanmerking moeten worden genomen
+##### Artikel 18. Uitkeringen - bewijs betreffende de gezinsleden die in aanmerking moeten worden genomen
 
 1. Om in aanmerking te komen voor toepassing van artikel 19, tweede lid van het Verdrag legt de belanghebbende aan het bevoegde orgaan een bewijs over met betrekking tot zijn gezinsleden die op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat wonen. Dit bewijs wordt afgegeven door het voor de ziekteverzekering bevoegde orgaan van de woonplaats van deze gezinsleden of door een ander orgaan dat is aangewezen door de bevoegde autoriteiten van de Verdragsluitende Partij op het grondgebied waarvan deze gezinsleden wonen.
 
@@ -242,13 +264,13 @@ Artikel 14 van deze Schikking is van overeenkomstige toepassing voor het verlene
 
 #### Toepassing van artikel 20 van het Verdrag
 
-#### Artikel 19. Verstrekkingen aan de aanvrager van een pensioen of rente en aan zijn gezinsleden, die op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat verblijven of wonen
+##### Artikel 19. Verstrekkingen aan de aanvrager van een pensioen of rente en aan zijn gezinsleden, die op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat verblijven of wonen
 
 De artikelen 10, 11, 12, 14 en 15 van de Schikking zijn van overeenkomstige toepassing voor het verlenen van verstrekkingen aan de aanvrager van een pensioen of een rente en zijn gezinsleden, die op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat verblijven of wonen.
 
 #### Toepassing van artikel 21 van het Verdrag
 
-#### Artikel 20. Verstrekkingen aan rechthebbenden op pensioen of rente en aan hun gezinsleden die hun woonplaats niet hebben op het grondgebied van een Verdragsluitende Partij krachtens de wetgeving waarvan zij een pensioen of rente genieten en recht op prestaties hebben
+##### Artikel 20. Verstrekkingen aan rechthebbenden op pensioen of rente en aan hun gezinsleden die hun woonplaats niet hebben op het grondgebied van een Verdragsluitende Partij krachtens de wetgeving waarvan zij een pensioen of rente genieten en recht op prestaties hebben
 
 1. Om op het grondgebied van de Verdragsluitende Partij waarop hij woont in aanmerking te komen voor verstrekkingen krachtens artikel 21, tweede lid van het Verdrag laat de rechthebbende op een pensioen of rente zich en zijn gezinsleden inschrijven bij het orgaan van de woonplaats, onder overlegging van een bewijs waarin wordt verklaard dat hij krachtens de wetgeving of krachtens een der wetgevingen op grond waarvan een pensioen of rente verschuldigd is, voor zichzelf en zijn gezinsleden recht op verstrekkingen heeft.
 
@@ -260,7 +282,7 @@ De artikelen 10, 11, 12, 14 en 15 van de Schikking zijn van overeenkomstige toep
 
 5. De rechthebbende op een pensioen of rente of zijn gezinsleden zijn verplicht het orgaan van de woonplaats in kennis te stellen van elke wijziging in hun omstandigheden, waardoor het recht op verstrekkingen kan worden gewijzigd, in het bijzonder van elke schorsing of beëindiging van het pensioen of de rente en elke overbrenging van hun woonplaats. De betrokken organen stellen het orgaan van de woonplaats van de rechthebbende op een pensioen of rente eveneens op de hoogte van elke wijziging waarvan zij kennis dragen.
 
-#### Artikel 21. Verstrekkingen aan gezinsleden die hun woonplaats hebben op het grondgebied van een andere Verdragsluitende Partij dan die waar de rechthebbende op pensioen of rente woont
+##### Artikel 21. Verstrekkingen aan gezinsleden die hun woonplaats hebben op het grondgebied van een andere Verdragsluitende Partij dan die waar de rechthebbende op pensioen of rente woont
 
 1. Om op het grondgebied van de Verdragsluitende Partij waarop zij wonen in aanmerking te komen voor verstrekkingen krachtens artikel 21, vierde lid van het Verdrag laten de gezinsleden van een rechthebbende op een pensioen of rente zich inschrijven bij het orgaan van hun woonplaats, onder overlegging van de bewijsstukken welke krachtens de door dit orgaan toegepaste wetgeving gewoonlijk vereist worden voor de toekenning van verstrekkingen aan de gezinsleden van een rechthebbende op een pensioen of rente, alsmede van een soortgelijk bewijs als bedoeld in artikel 20, eerste lid van deze Schikking. Bedoeld orgaan stelt het orgaan in de woonplaats van de rechthebbende op een pensioen of rente in kennis van iedere inschrijving welke het overeenkomstig het bepaalde in dit lid verricht.
 
@@ -270,7 +292,7 @@ De artikelen 10, 11, 12, 14 en 15 van de Schikking zijn van overeenkomstige toep
 
 4. De gezinsleden zijn verplicht het orgaan van hun woonplaats in kennis te stellen van iedere verandering in hun omstandigheden waardoor het recht op verstrekkingen kan worden gewijzigd, in het bijzonder van iedere overbrenging van hun woonplaats.
 
-#### Artikel 22. Verstrekkingen aan de rechthebbende op pensioenen of renten en aan zijn gezinsleden wanneer zij op het grondgebied van een andere Verdragsluitende Partij verblijven dan dat waarop zij wonen
+##### Artikel 22. Verstrekkingen aan de rechthebbende op pensioenen of renten en aan zijn gezinsleden wanneer zij op het grondgebied van een andere Verdragsluitende Partij verblijven dan dat waarop zij wonen
 
 1. Om in aanmerking te komen voor verstrekkingen krachtens artikel 21, zesde lid van het Verdrag, legt de rechthebbende op een pensioen of rente aan het orgaan van de verblijfplaats een bewijs over waarin wordt verklaard dat hij recht op deze verstrekkingen heeft. In dit bewijs, dat het orgaan van de woonplaats van de rechthebbende uitreikt voordat hij het grondgebied van de Verdragsluitende Partij waarop hij woont, verlaat, wordt in voorkomend geval met name de maximumduur vermeld waarover overeenkomstig de wetgeving van deze Partij verstrekkingen mogen worden verleend. Wanneer de rechthebbende genoemd bewijs niet overlegt, verzoekt het orgaan van de verblijfplaats het orgaan van de woonplaats daarom. Wanneer echter, gelet op artikel 78, derde lid van deze Schikking, deze verstrekkingen ten laste komen van het bevoegde orgaan, wordt de in artikel 21, zesde lid, sub b) van het Verdrag bedoelde toestemming door het bevoegde orgaan gegeven.
 
@@ -282,7 +304,7 @@ De artikelen 10, 11, 12, 14 en 15 van de Schikking zijn van overeenkomstige toep
 
 #### Toepassing van de artikelen 16 en 21 van het Verdrag
 
-#### Artikel 23. Vergoeding door het bevoegde orgaan van de gemaakte kosten tijdens een verblijf op het grondgebied van een andere Verdragsluitende Partij
+##### Artikel 23. Vergoeding door het bevoegde orgaan van de gemaakte kosten tijdens een verblijf op het grondgebied van een andere Verdragsluitende Partij
 
 Indien de in artikel 9, eerste lid, artikel 10, eerste lid, artikel 11, eerste lid en artikel 22, eerste lid van deze Schikking voorgeschreven formaliteiten niet gedurende het verblijf van de belanghebbende op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat konden worden vervuld, worden de gemaakte kosten op verzoek van de belanghebbende door het bevoegde orgaan vergoed tegen de tarieven, welke door het orgaan van de verblijfplaats worden toegepast. Het orgaan van de verblijfplaats verstrekt het bevoegde orgaan op verzoek de nodige inlichtingen over deze tarieven.
 
@@ -292,17 +314,17 @@ Indien de in artikel 9, eerste lid, artikel 10, eerste lid, artikel 11, eerste l
 
 ### Afdeling 1. : Invaliditeit
 
-#### Artikel 24. Aanvraag om invaliditeitsuitkeringen ingeval de aanvrager uitsluitend aan de in bijlage VI van het Verdrag vermelde wetgevingen onderworpen is geweest
+##### Artikel 24. Aanvraag om invaliditeitsuitkeringen ingeval de aanvrager uitsluitend aan de in bijlage VI van het Verdrag vermelde wetgevingen onderworpen is geweest
 
 1. Om in aanmerking te komen voor uitkeringen krachtens de artikelen 25 en 27 van het Verdrag, daaronder begrepen in de gevallen bedoeld in artikel 28, tweede lid, artikel 29, eerste lid en artikel 30, tweede lid van het Verdrag, richt de aanvrager een verzoek hetzij tot het orgaan van de Verdragsluitende Partij aan de wetgeving waarvan hij onderworpen was op het tijdstip waarop de arbeidsongeschiktheid met daaropvolgende invaliditeit of de toeneming van deze invaliditeit is ontstaan, hetzij tot het orgaan van de woonplaats, dat de aanvraag dan aan eerstgenoemd orgaan doorzendt onder vermelding van de datum waarop deze werd ingediend. Deze datum wordt beschouwd als de datum waarop de aanvraag bij eerstbedoeld orgaan werd ingediend. Indien evenwel ziekengeld werd toegekend, moet de dag waarop het tijdvak van de toekenning van deze uitkering eindigt, in voorkomend geval worden beschouwd als de datum waarop de aanvraag om uitkeringen werd ingediend.
 
 2. In het in artikel 29, eerste lid, sub b) van het Verdrag bedoelde geval stelt het orgaan waarbij de aanvrager laatstelijk was aangesloten, het orgaan dat deze uitkeringen oorspronkelijk verschuldigd was, in kennis van het bedrag en de datum van ingang van de krachtens de door eerstbedoelde orgaan toegepaste wetgeving verschuldigde uitkeringen.
 
-#### Artikel 25. Bewijs betreffende de gezinsleden die in aanmerking moeten worden genomen
+##### Artikel 25. Bewijs betreffende de gezinsleden die in aanmerking moeten worden genomen
 
 Om in aanmerking te komen voor toepassing van artikel 27, vijfde lid van het Verdrag legt de aanvrager een bewijs over betreffende zijn gezinsleden, die op het grondgebied van een andere Verdragsluitende Partij wonen dan dat waar zich het orgaan bevindt dat de uitkeringen moet vaststellen. Dit bewijs wordt afgegeven door het voor de ziekteverzekering bevoegde orgaan van de woonplaats van deze gezinsleden of door een ander orgaan dat is aangewezen door de bevoegde autoriteit van de Verdragsluitende Partij op het grondgebied waarvan deze gezinsleden wonen. Artikel 18, tweede lid van deze Schikking is van overeenkomstige toepassing.
 
-#### Artikel 26. Behandeling van aanvragen om invaliditeitsuitkeringen wanneer de aanvrager uitsluitend aan de in bijlage VI van het Verdrag vermelde wetgevingen onderworpen is geweest
+##### Artikel 26. Behandeling van aanvragen om invaliditeitsuitkeringen wanneer de aanvrager uitsluitend aan de in bijlage VI van het Verdrag vermelde wetgevingen onderworpen is geweest
 
 1. Indien het orgaan waarbij een aanvraag om invaliditeitsuitkering is ingediend vaststelt dat artikel 25, eerste lid van het Verdrag van toepassing is, wendt het zich, zo nodig, tot het orgaan waarbij de aanvrager laatstelijk aangesloten is geweest, ter verkrijging van een verklaring waarin de door hem krachtens de door dit laatste orgaan toegepaste wetgeving vervulde tijdvakken van verzekering zijn vermeld.
 
@@ -314,23 +336,23 @@ Om in aanmerking te komen voor toepassing van artikel 27, vijfde lid van het Ver
 
 5. Er moet onder dezelfde voorwaarden, eventueel worden teruggegaan tot het voor invaliditeit bevoegde orgaan van de Verdragsluitende Partij aan de wetgeving waarvan de aanvrager het eerst onderworpen was.
 
-#### Artikel 27. Bepaling van de mate van invaliditeit
+##### Artikel 27. Bepaling van de mate van invaliditeit
 
 Het orgaan van een Verdragsluitende Partij houdt voor het bepalen van de mate van invaliditeit rekening met alle inlichtingen van medische en administratieve aard welke door het orgaan van enige andere Verdragsluitende Partij zijn ingewonnen. Elk orgaan behoudt echter de bevoegdheid de aanvrager voor eigen rekening door een arts van eigen keuze te laten onderzoeken.
 
-#### Artikel 28. Geval waarin de aanvrager achtereenvolgens of afwisselend onderworpen is geweest aan wettelijke regelingen waarvan ten minste een niet wordt vermeld in bijlage VI van het Verdrag
+##### Artikel 28. Geval waarin de aanvrager achtereenvolgens of afwisselend onderworpen is geweest aan wettelijke regelingen waarvan ten minste een niet wordt vermeld in bijlage VI van het Verdrag
 
 Voor de toepassing van artikel 28, eerste lid van het Verdrag zijn de artikelen 29 tot en met 38 van deze Schikking van overeenkomstige toepassing.
 
 ### Afdeling 2. : Ouderdom en overlijden (pensioenen)
 
-#### Artikel 29. Indiening van de aanvraag
+##### Artikel 29. Indiening van de aanvraag
 
 1. Om in aanmerking te komen voor uitkeringen krachtens de artikelen 32 tot en met 39 van het Verdrag, richt de aanvrager zijn aanvraag tot het orgaan van de woonplaats, volgens de voorschriften van de door dat orgaan toegepaste wetgeving. Indien de aanvrager of de overledene niet aan deze wetgeving onderworpen is geweest, zendt het orgaan van de woonplaats de aanvraag door aan het orgaan van de Verdragsluitende Partij aan de wetgeving waarvan de aanvrager of de overledene laatstelijk onderworpen is geweest, zulks onder opgave van de datum waarop de aanvraag werd ingediend. Deze datum wordt beschouwd als de datum waarop de aanvraag bij laatstgenoemd orgaan werd ingediend.
 
 2. Wanneer de aanvrager niet woont op het grondgebied van een Verdragsluitende Partij aan de wetgeving waarvan hij of de overledene onderworpen is geweest, kan hij zijn aanvraag richten tot het orgaan van de Verdragsluitende Partij aan de wetgeving waarvan hijzelf of de overledene laatstelijk onderworpen is geweest.
 
-#### Artikel 30. Bij de aanvraag te voegen stukken en aanwijzingen
+##### Artikel 30. Bij de aanvraag te voegen stukken en aanwijzingen
 
 Voor de indiening van de in artikel 29 van deze Schikking bedoelde aanvragen gelden de volgende regels.
 
@@ -344,21 +366,21 @@ Voor de indiening van de in artikel 29 van deze Schikking bedoelde aanvragen gel
 
 - c). voor zover mogelijk moet de aanvrager vermelden, ofwel het orgaan of de organen van de invaliditeits- of ouderdomsverzekering of van de verzekering bij overlijden (pensioenen) van elke Verdragsluitende Partij aan de wetgeving waarvan hijzelf of de overledene onderworpen is geweest, ofwel de werkgever of werkgevers bij wie hijzelf of de overledene werkzaam is geweest, zulks onder overlegging van de bewijzen van verrichte arbeid waarover hij mocht beschikken.
 
-#### Artikel 31. Bewijs betreffende de gezinsleden die in aanmerking moeten worden genomen
+##### Artikel 31. Bewijs betreffende de gezinsleden die in aanmerking moeten worden genomen
 
 Voor de toepassing van artikel 34, derde lid van het Verdrag, is artikel 25 van deze Schikking van overeenkomstige toepassing.
 
-#### Artikel 32. Vaststelling van het behandelend orgaan
+##### Artikel 32. Vaststelling van het behandelend orgaan
 
 1. De aanvragen om uitkering worden behandeld door het orgaan waaraan zij, overeenkomstig artikel 29 van deze Schikking zijn gericht, dan wel doorgezonden. Dit orgaan wordt het „behandelende orgaan” genoemd.
 
 2. Het behandelende orgaan stelt alle betrokken organen onmiddellijk in kennis van de aanvragen om uitkeringen die bij haar zijn ingediend opdat deze aanvragen gelijktijdig en onverwijld door deze organen kunnen worden behandeld.
 
-#### Artikel 33. Bij de behandeling van de aanvragen voor uitkeringen te gebruiken formulieren
+##### Artikel 33. Bij de behandeling van de aanvragen voor uitkeringen te gebruiken formulieren
 
 Voor de behandeling van de aanvragen om uitkeringen maakt het behandelende orgaan gebruik van een formulier waarin met name een opsomming en een samenvatting voorkomen van de door de belanghebbende of de overledene krachtens de wetgevingen van alle betrokken Verdragsluitende Partijen vervulde tijdvakken van verzekering, onder vermelding van de tijdvakken die zijn vervuld in de hoedanigheid van rijnvarende.
 
-#### Artikel 34. Door de betrokken organen te volgen procedure voor de behandeling van de aanvraag
+##### Artikel 34. Door de betrokken organen te volgen procedure voor de behandeling van de aanvraag
 
 1. Het behandelende orgaan vermeldt op het in artikel 33 van deze Schikking bedoelde formulier de tijdvakken van verzekering die krachtens de door dit orgaan toegepaste wetgeving zijn vervuld, en zendt een exemplaar van dit formulier aan het orgaan van de invaliditeits- of ouderdomsverzekering of de verzekering bij overlijden (pensioenen) van iedere Verdragsluitende Partij waarbij de belanghebbende of de overledene aangesloten is geweest, in voorkomend geval onder bijvoeging van de bewijzen van verrichte arbeid die de aanvrager heeft overgelegd.
 
@@ -372,7 +394,7 @@ Voor de behandeling van de aanvragen om uitkeringen maakt het behandelende orgaa
 
 6. Zodra het behandelende orgaan bij ontvangst van de in het tweede of derde lid van dit artikel bedoelde gegevens vaststelt dat artikel 35, tweede of derde lid of artikel 37, eerste lid van het Verdrag moet worden toegepast, stelt het de overige betrokken organen hiervan in kennis.
 
-#### Artikel 35. Voorlopige betaling van uitkeringen en voorschotten van uitkeringen
+##### Artikel 35. Voorlopige betaling van uitkeringen en voorschotten van uitkeringen
 
 1. Indien het behandelende orgaan vaststelt dat de aanvrager krachtens de door dit orgaan toegepaste wetgeving recht heeft op uitkering zonder dat een beroep behoeft te worden gedaan op de tijdvakken van verzekering welke zijn vervuld krachtens de wetgeving van de andere Verdragsluitende Partijen waaraan de belanghebbende of de overledene onderworpen is geweest, betaalt dit orgaan hem deze onmiddellijk als voorlopige uitkering, onverminderd het bepaalde in de volgende leden van dit artikel.
 
@@ -388,21 +410,21 @@ Voor de behandeling van de aanvragen om uitkeringen maakt het behandelende orgaa
 
 7. Bij de definitieve afhandeling van de aanvraag om uitkeringen vereffenen het behandelende orgaan en de andere betrokken organen hun rekeningen betreffende de voorlopige uitkeringen en voorschotten, verleend overeenkomstig het eerste, derde, vierde, vijfde en zesde lid van dit artikel. De door deze organen ter zake teveel betaalde bedragen kunnen worden ingehouden op de termijnbetalingen welke zij aan de belanghebbende moeten doen.
 
-#### Artikel 36. Herberekening van uitkeringen hetzij ambtshalve hetzij op verzoek van de belanghebbenden
+##### Artikel 36. Herberekening van uitkeringen hetzij ambtshalve hetzij op verzoek van de belanghebbenden
 
 Voor de toepassing van artikel 36, tweede en derde lid, van het Verdrag is artikel 34 van deze Schikking van overeenkomstige toepassing.
 
-#### Artikel 37. Kennisgeving aan de aanvrager en aan het behandelend orgaan van definitieve beslissingen
+##### Artikel 37. Kennisgeving aan de aanvrager en aan het behandelend orgaan van definitieve beslissingen
 
 1. Elk der betrokken organen geeft de aanvrager kennis van de genomen beslissing op zijn aanvraag om uitkeringen, zodra deze beslissing, na overleg met het behandelende orgaan, als definitief kan worden beschouwd en licht hierover tegelijkertijd laatstbedoeld orgaan in. Elke beslissing moet er melding van maken dat het gaat om een gedeeltelijke vaststelling van de uitkering en de in de wetgeving van de betrokken Verdragsluitende Partij voorziene rechtsmiddelen en beroepstermijnen aangeven. De beroepstermijnen gaan eerst in op de datum waarop de belanghebbende de beslissing heeft ontvangen.
 
 2. Na de definitieve afhandeling van de aanvraag om uitkeringen zendt het behandelend orgaan de aanvrager alsook elk der andere betrokken organen, bij wijze van eindinformatie een samenvatting van alle naar aanleiding van deze aanvraag genomen beslissingen.
 
-#### Artikel 38. Kennisgeving van beslissingen aan de belanghebbende en aan de organen die de uitkering verschuldigd zijn in geval van herberekening, schorsing of intrekking van de uitkering
+##### Artikel 38. Kennisgeving van beslissingen aan de belanghebbende en aan de organen die de uitkering verschuldigd zijn in geval van herberekening, schorsing of intrekking van de uitkering
 
 Bij herberekening dan wel schorsing of intrekking van de uitkering geeft het betrokken orgaan van zijn beslissing onverwijld kennis aan de belanghebbende en aan elk der andere organen die uitkering verschuldigd zijn, eventueel door tussenkomst van het behandelende orgaan. De beslissing dient de rechtsmiddelen en beroepstermijnen, voorzien in de wetgeving van de betrokken Verdragsluitende Partij te vermelden. De beroepstermijnen gaan eerst in op de datum waarop de belanghebbende de beslissing heeft ontvangen.
 
-#### Artikel 39. Maatregelen ter bespoediging van de vaststelling van de uitkeringen
+##### Artikel 39. Maatregelen ter bespoediging van de vaststelling van de uitkeringen
 
 Ter bespoediging van de vaststelling van de uitkeringen zijn de volgende voorschriften van toepassing:
 
@@ -412,7 +434,7 @@ Ter bespoediging van de vaststelling van de uitkeringen zijn de volgende voorsch
 
 #### Administratieve en medische controle
 
-#### Artikel 40. Controlevoorschriften
+##### Artikel 40. Controlevoorschriften
 
 I. Wanneer een rechthebbende op
 
@@ -430,19 +452,19 @@ I. Wanneer een rechthebbende op
 
 2. Indien uit de in het vorige lid bedoelde controle blijkt dat de rechthebbende werkzaamheden verricht of dat hij inkomsten geniet welke de voorgeschreven grens overschrijden, is het orgaan van de woon- of verblijfplaats verplicht het bevoegde orgaan dat om controle heeft verzocht een rapport toe te zenden. Dit rapport maakt melding van de door het bevoegde orgaan gevraagde inlichtingen.
 
-#### Artikel 41. Uitwisseling van gegevens tussen organen in geval van herkrijging van het recht op uitkeringen
+##### Artikel 41. Uitwisseling van gegevens tussen organen in geval van herkrijging van het recht op uitkeringen
 
 Wanneer de belanghebbende na schorsing van de uitkeringen welke hij genoot, opnieuw recht op uitkeringen verkrijgt, terwijl hij op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat woont, verstrekken de betrokken organen elkaar alle nodige inlichtingen met het oog op de hervatting van bedoelde uitkeringen.
 
 #### Betaling van de uitkeringen
 
-#### Artikel 42. Wijze van betaling
+##### Artikel 42. Wijze van betaling
 
 1. Indien het orgaan van een Verdragsluitende Partij dat uitkeringen verschuldigd is, de verschuldigde uitkeringen niet rechtstreeks betaalt aan de rechthebbenden die op het grondgebied van een andere Verdragsluitende Partij wonen, wordt de betaling van deze uitkeringen op verzoek van het orgaan dat deze verschuldigd is, verricht door het verbindingsorgaan van laatstbedoelde Partij of door het orgaan van de woonplaats, zulks op de tussen door de bevoegde autoriteiten van de betrokken Verdragsluitende Partijen overeengekomen wijze; indien het orgaan dat uitkeringen verschuldigd is, de uitkeringen rechtstreeks aan die rechthebbenden betaalt, stelt dit orgaan het orgaan van de woonplaats van de betaling van de uitkeringen in kennis.
 
 2. De bepalingen van vroegere overeenkomsten, welke betrekking hebben op de betaling van uitkeringen en welke van toepassing zijn op de dag voor de inwerkingtreding van het Verdrag, blijven van toepassing voor zover zij in bijlage 5 zijn vermeld.
 
-#### Artikel 43. Kennisgeving van overbrenging van de woonplaats van de rechthebbende
+##### Artikel 43. Kennisgeving van overbrenging van de woonplaats van de rechthebbende
 
 De rechthebbende op uitkeringen welke krachtens de wetgevingen van een of meer Verdragsluitende Partijen verschuldigd zijn, is verplicht het orgaan of de organen welke deze uitkeringen verschuldigd zijn en, eventueel, het uitbetalende orgaan in kennis te stellen van iedere overbrenging van de woonplaats.
 
@@ -450,7 +472,7 @@ De rechthebbende op uitkeringen welke krachtens de wetgevingen van een of meer V
 
 #### Toepassing van artikel 40 van het Verdrag
 
-#### Artikel 44. Verstrekkingen in geval van verblijf op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat - verklaring van de werkgever -
+##### Artikel 44. Verstrekkingen in geval van verblijf op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat - verklaring van de werkgever -
 
 1. Om in aanmerking te komen voor verstrekkingen krachtens artikel 40, eerste lid, sub a)i) van het Verdrag legt de in loondienst zijnde rijnvarende die zich voor het vervullen van zijn dienstbetrekking op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat bevindt, aan het orgaan van de verblijfplaats zo spoedig mogelijk een verklaring over welke door de werkgever of diens vertegenwoordiger is afgegeven in de loop van de kalendermaand van voorlegging of in de twee daaraan voorafgaande kalendermaanden. In deze verklaring wordt met name de datum vermeld sedert welke de betrokkene voor rekening van bedoelde werkgever werkt, alsmede de naam en de plaats van vestiging van het bevoegde orgaan. Wanneer bedoelde rijnvarende deze verklaring heeft overgelegd, wordt hij geacht te voldoen aan de voorwaarden voor het ingaan van het recht op verstrekkingen. Indien hij niet in staat is zich voor de medische behandeling tot het orgaan van de verblijfplaats te wenden, ontvangt hij niettemin deze behandeling op vertoon van bedoelde verklaring, alsof hij bij dat orgaan verzekerd was.
 
@@ -466,13 +488,13 @@ De rechthebbende op uitkeringen welke krachtens de wetgevingen van een of meer V
 
 7. Het Administratief Centrum stelt de lijst op van de in het vorige lid bedoelde verstrekkingen.
 
-#### Artikel 45. Verstrekkingen in geval van verblijf op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat - bewijs van het bevoegde orgaan -
+##### Artikel 45. Verstrekkingen in geval van verblijf op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat - bewijs van het bevoegde orgaan -
 
 1. Om in aanmerking te komen voor verstrekkingen krachtens artikel 40, eerste lid, sub a)i) van het Verdrag, behalve in het geval waarin van de in artikel 44, eerste lid van deze Schikking bedoelde veronderstelling wordt uitgegaan, legt de rijnvarende aan het orgaan van de verblijfplaats een bewijs over waarin wordt verklaard dat hij recht op verstrekkingen heeft. Dit bewijs wordt op verzoek van de belanghebbende door het bevoegde orgaan afgegeven voordat hij het grondgebied van de Verdragsluitende Partij waarop hij woont, verlaat. Indien de belanghebbende dit bewijs niet overlegt, verzoekt het orgaan van de verblijfplaats het bevoegde orgaan daarom.
 
 2. Artikel 44, vijfde en zesde lid van deze Schikking is van overeenkomstige toepassing.
 
-#### Artikel 46. Verstrekkingen in geval van overbrenging van de woonplaats naar het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat of van het zich met toestemming begeven naar zodanig grondgebied om er een behandeling te ondergaan
+##### Artikel 46. Verstrekkingen in geval van overbrenging van de woonplaats naar het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat of van het zich met toestemming begeven naar zodanig grondgebied om er een behandeling te ondergaan
 
 1. Om in aanmerking te komen voor verstrekkingen krachtens artikel 40, eerste lid, sub b)i) van het Verdrag, legt de rijnvarende aan het orgaan van de woonplaats een bewijs over waarin wordt verklaard dat hij het recht op deze verstrekkingen mag behouden. In dit bewijs, dat op verzoek van de belanghebbende door het bevoegde orgaan voor zijn vertrek wordt afgegeven, wordt in voorkomend geval met name de maximumduur vermeld waarover volgens de wetgeving van de bevoegde staat verstrekkingen mogen worden verleend. Het bewijs kan op verzoek van de belanghebbende na diens vertrek worden afgegeven, wanneer het wegens overmacht niet voordien kon worden opgemaakt.
 
@@ -480,7 +502,7 @@ De rechthebbende op uitkeringen welke krachtens de wetgevingen van een of meer V
 
 3. Het eerste lid van dit artikel is van overeenkomstige toepassing in het geval bedoeld in artikel 40, eerste lid, sub c)i) van het Verdrag.
 
-#### Artikel 47. Andere uitkeringen dan renten in geval van verblijf op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat
+##### Artikel 47. Andere uitkeringen dan renten in geval van verblijf op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat
 
 1. Om krachtens artikel 40, eerste lid, sub a)ii) van het Verdrag in aanmerking te komen voor andere uitkeringen dan renten, wendt de rijnvarende zich binnen drie dagen na het begin van de arbeidsongeschiktheid tot het orgaan van de verblijfplaats en legt, indien de wetgeving die door het bevoegde orgaan of het orgaan van de verblijfplaats wordt toegepast hierin voorziet, een door de behandelende arts afgegeven bewijs van arbeidsongeschiktheid over. Bovendien deelt hij zijn adres in het land waar hij verblijft mede, alsmede de naam en het adres van het bevoegde orgaan.
 
@@ -502,7 +524,7 @@ De rechthebbende op uitkeringen welke krachtens de wetgevingen van een of meer V
 
 #### Toepassing van artikel 41 van het Verdrag
 
-#### Artikel 48. Verstrekkingen in geval van wonen op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat
+##### Artikel 48. Verstrekkingen in geval van wonen op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat
 
 1. Om in aanmerking te komen voor verstrekkingen krachtens artikel 41, eerste lid, sub a) van het Verdrag, legt de rijnvarende aan het orgaan van de woonplaats een bewijs over waarin wordt verklaard dat hij recht op verstrekkingen heeft. Dit bewijs wordt afgegeven door het bevoegde orgaan, eventueel na kennisneming van door de werkgever verstrekte inlichtingen. Indien de wetgeving van de bevoegde Staat daarin voorziet, legt de rijnvarende bovendien aan het orgaan van de woonplaats een bericht van ontvangst van de aangifte van het arbeidsongeval of de beroepsziekte over. Indien hij deze stukken niet overlegt, verzoekt het orgaan van de woonplaats het bevoegde orgaan daarom en verleent hem in afwachting daarvan verstrekkingen van de ziekteverzekering, voor zover hij recht heeft op dergelijke verstrekkingen.
 
@@ -514,7 +536,7 @@ De rechthebbende op uitkeringen welke krachtens de wetgevingen van een of meer V
 
 5. De rijnvarende is verplicht het orgaan van de woonplaats in kennis te stellen van iedere verandering in zijn omstandigheden waardoor het recht op verstrekkingen kan worden gewijzigd, in het bijzonder van iedere beëindiging of verandering van dienstbetrekking of beroepswerkzaamheden of iedere overbrenging van de woon- of verblijfplaats. Het bevoegde orgaan en het orgaan van de woonplaats stellen elkaar in kennis van iedere verandering die het recht op verstrekkingen van de rijnvarende kan wijzigen.
 
-#### Artikel 49. Andere uitkeringen dan renten in geval van wonen op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat
+##### Artikel 49. Andere uitkeringen dan renten in geval van wonen op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat
 
 1. Om in aanmerking te komen voor andere uitkeringen dan renten krachtens artikel 41, eerste lid, sub b) van het Verdrag, wendt de rijnvarende zich binnen drie dagen na het begin van de arbeidsongeschiktheid tot het orgaan van de woonplaats onder overlegging van een kennisgeving van arbeidsonderbreking of, indien de wetgeving die door het bevoegde orgaan of het orgaan van de woonplaats wordt toegepast hierin voorziet, een door de behandelende arts afgegeven bewijs van arbeidsongeschiktheid. Bovendien is hij verplicht alle andere krachtens de wetgeving van de bevoegde Staat vereiste documenten over te leggen, naar gelang van de aard van de aangevraagde uitkeringen.
 
@@ -526,7 +548,7 @@ De rechthebbende op uitkeringen welke krachtens de wetgevingen van een of meer V
 
 #### Toepassing van artikel 42 van het Verdrag
 
-#### Artikel 50. Prestaties aan de werkloos geworden rijnvarende die verblijft of woont op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat
+##### Artikel 50. Prestaties aan de werkloos geworden rijnvarende die verblijft of woont op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat
 
 1. De artikelen 45, 46 en 48 van deze Schikking zijn van overeenkomstige toepassing voor het verlenen van verstrekkingen aan de werkloos geworden rijnvarende die op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat verblijft of woont.
 
@@ -534,7 +556,7 @@ De rechthebbende op uitkeringen welke krachtens de wetgevingen van een of meer V
 
 #### Toepassing van de artikelen 40 tot en met 43 van het Verdrag
 
-#### Artikel 51. Te vervullen formaliteiten wanneer gebeurtenissen zich voordoen op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat
+##### Artikel 51. Te vervullen formaliteiten wanneer gebeurtenissen zich voordoen op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat
 
 1. Wanneer het arbeidsongeval of de beroepsziekte zich heeft voorgedaan op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat, moet de desbetreffende aangifte worden gedaan overeenkomstig de wetgeving van de bevoegde Staat, in voorkomend geval onverminderd alle wettelijke bepalingen welke gelden op het grondgebied van de Verdragsluitende Partij waarop het ongeval of de ziekte zich heeft voorgedaan en die in een dergelijk geval van toepassing moeten blijven. Deze aangifte wordt aan het bevoegde orgaan gericht en aan het orgaan van de woonplaats wordt eventueel een afschrift gezonden.
 
@@ -544,7 +566,7 @@ De rechthebbende op uitkeringen welke krachtens de wetgevingen van een of meer V
 
 4. Het bevoegde orgaan stelt naar gelang van het geval het orgaan van de woonplaats, dan wel het orgaan van de verblijfplaats in kennis van de beslissing waarin de datum van genezing of consolidatie wordt vastgesteld, alsook eventueel van de beslissing betreffende de toekenning van een rente.
 
-#### Artikel 52. Geschillen naar aanleiding van de vraag of het ongeval of de ziekte al dan niet het gevolg is van de uitoefening van een beroep
+##### Artikel 52. Geschillen naar aanleiding van de vraag of het ongeval of de ziekte al dan niet het gevolg is van de uitoefening van een beroep
 
 1. Wanneer het betrokken orgaan betwist dat in het in artikel 40, eerste lid of artikel 41, eerste lid van het Verdrag bedoelde geval, de wetgeving inzake arbeidsongevallen of beroepsziekten van toepassing is, stelt dit orgaan het orgaan van de verblijfplaats of het orgaan van de woonplaats dat de verstrekkingen heeft verleend, hiervan onmiddellijk in kennis; de verstrekkingen worden dan als verstrekkingen van de ziekteverzekering beschouwd en worden verder uit dien hoofde verleend, voorzover de belanghebbende recht heeft op dergelijke verstrekkingen.
 
@@ -552,7 +574,7 @@ De rechthebbende op uitkeringen welke krachtens de wetgevingen van een of meer V
 
 #### Toepassing van artikel 44 van het Verdrag
 
-#### Artikel 53. Procedure bij blootstelling aan het risico van een beroepsziekte op het grondgebied van meer dan een Verdragsluitende Partij
+##### Artikel 53. Procedure bij blootstelling aan het risico van een beroepsziekte op het grondgebied van meer dan een Verdragsluitende Partij
 
 1. In het in artikel 44, eerste lid van het Verdrag bedoelde geval wordt de aangifte van de beroepsziekte gezonden hetzij aan het voor beroepsziekten bevoegde orgaan van de Verdragsluitende Partij onder de wetgeving waarvan de getroffene laatstelijk werkzaamheden heeft verricht waardoor de betreffende beroepsziekte kon ontstaan, hetzij aan het orgaan van de woonplaats, dat de aangifte aan eerstbedoeld orgaan doorzendt.
 
@@ -566,7 +588,7 @@ De rechthebbende op uitkeringen welke krachtens de wetgevingen van een of meer V
 
 4. Eventueel kan volgens dezelfde procedure verder worden teruggegaan tot aan het overeenkomstige orgaan van de Verdragsluitende Partij onder de wetgeving waarvan de getroffene het eerst werkzaamheden heeft verricht waardoor de betreffende beroepsziekte kon ontstaan.
 
-#### Artikel 54. Uitwisseling van inlichtingen tussen organen en beroep tegen een afwijzende beslissing - betaling van voorschotten bij een dergelijk beroep
+##### Artikel 54. Uitwisseling van inlichtingen tussen organen en beroep tegen een afwijzende beslissing - betaling van voorschotten bij een dergelijk beroep
 
 1. Indien beroep wordt ingesteld tegen een afwijzende beslissing van het orgaan van een Verdragsluitende Partij onder de wetgeving waarvan de getroffene werkzaamheden heeft verricht waardoor de betreffende beroepsziekte kon ontstaan, is dit orgaan verplicht het orgaan waaraan de aangifte volgens de procedure van artikel 53, derde lid van deze Schikking werd doorgezonden hiervan in kennis te stellen en het later op de hoogte te stellen van de definitieve beslissing.
 
@@ -574,25 +596,25 @@ De rechthebbende op uitkeringen welke krachtens de wetgevingen van een of meer V
 
 #### Toepassing van artikel 45 van het Verdrag
 
-#### Artikel 55. Verergering van een beroepsziekte
+##### Artikel 55. Verergering van een beroepsziekte
 
 In het in artikel 45 van het Verdrag bedoelde geval is de rijnvarende verplicht aan het orgaan van de Verdragsluitende Partij, waarbij hij aanspraak op uitkeringen maakt, alle inlichtingen te verstrekken omtrent vroeger voor de betreffende beroepsziekte toegekende uitkeringen en door hem sedert het genot van deze uitkeringen verrichte beroepswerkzaamheden. Dit orgaan kan zich, ter verkrijging van de inlichtingen welke het nodig acht, wenden tot elk ander orgaan dat vroeger bevoegd is geweest.
 
 #### Toepassing van artikel 46, tweede lid van het Verdrag
 
-#### Artikel 56. Bewijs betreffende de gezinsleden die in aanmerking moeten worden genomen
+##### Artikel 56. Bewijs betreffende de gezinsleden die in aanmerking moeten worden genomen
 
 Om in aanmerking te komen voor toepassing van artikel 46, tweede lid van het Verdrag legt de belanghebbende aan het bevoegde orgaan een bewijs over met betrekking tot zijn gezinsleden die op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat wonen. Dit bewijs wordt afgegeven door het voor de ziekteverzekering bevoegde orgaan van de woonplaats van deze gezinsleden of door een ander orgaan dat is aangewezen door de bevoegde autoriteit van de Verdragsluitende Partij op het grondgebied waarvan deze gezinsleden wonen. Artikel 18, tweede lid van deze Schikking is van overeenkomstige toepassing.
 
 #### Toepassing van artikel 48, vijfde lid van het Verdrag
 
-#### Artikel 57. Beoordeling van de mate van ongeschiktheid bij een eerder voorgekomen arbeidsongeval of beroepsziekte
+##### Artikel 57. Beoordeling van de mate van ongeschiktheid bij een eerder voorgekomen arbeidsongeval of beroepsziekte
 
 1. Voor de beoordeling van de mate van ongeschiktheid in het in artikel 48, vijfde lid van het Verdrag bedoelde geval, verstrekt de rijnvarende aan het bevoegde orgaan van de Verdragsluitende Partij, aan de wetgeving waarvan hij was onderworpen toen het arbeidsongeval of de beroepsziekte zich heeft voorgedaan, alle inlichtingen omtrent de arbeidsongevallen of beroepsziekten waardoor hij reeds eerder werd getroffen, terwijl hij aan de wetgeving van enige andere Verdragsluitende partij was onderworpen, ongeacht welke mate van ongeschiktheid door deze vroegere arbeidsongevallen of beroepsziekten is ontstaan.
 
 2. Het bevoegde orgaan kan zich, ter verkrijging van de inlichtingen welke het nodig acht, wenden tot elk ander orgaan dat vroeger bevoegd is geweest.
 
-#### Artikel 58. Indiening en behandeling van aanvragen om rente
+##### Artikel 58. Indiening en behandeling van aanvragen om rente
 
 1. Wanneer een rijnvarende of diens nagelaten betrekkingen, die op het grondgebied van een Verdragsluitende Partij wonen, in het genot wensen te komen van een krachtens de wetgeving van een andere Verdragsluitende Partij toe te kennen rente of uitkering ter aanvulling van een rente, richten zij hun aanvraag voorzover een dergelijke aanvraag vereist is, hetzij tot het bevoegde orgaan, hetzij tot het orgaan van de woonplaats, dat deze aan het bevoegde orgaan doorzendt. Voor het indienen van de aanvraag gelden de volgende regels:
 
@@ -602,11 +624,11 @@ Om in aanmerking te komen voor toepassing van artikel 46, tweede lid van het Ver
 
 2. Het bevoegde orgaan geeft de aanvrager rechtstreeks of door bemiddeling van het verbindingsorgaan van de bevoegde Staat kennis van zijn beslissing; het zendt een afschrift van deze kennisgeving aan het verbindingsorgaan van de Verdragsluitende Partij op het grondgebied waarvan de aanvrager woont.
 
-#### Artikel 59. Administratieve en medische controle
+##### Artikel 59. Administratieve en medische controle
 
 Wanneer een rechthebbende op een rente op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat verblijft of woont, worden de administratieve en medische controle, alsmede de medische onderzoeken welke nodig zijn bij herziening van renten, op verzoek van het bevoegde orgaan verricht door het orgaan van de of verblijf- of woonplaats, op de wijze als bepaald in de door laatstbedoeld orgaan toegepaste wetgeving. Het bevoegde orgaan blijft evenwel bevoegd de rechthebbende voor eigen rekening te laten onderzoeken door een arts naar eigen keuze.
 
-#### Artikel 60. Betaling van renten
+##### Artikel 60. Betaling van renten
 
 Met betrekking tot de betaling van de renten welke door het orgaan van een Verdragsluitende Partij verschuldigd zijn aan rechthebbenden die op het grondgebied van een andere Verdragsluitende Partij wonen, zijn de artikelen 42 en 43 van deze Schikking van overeenkomstige toepassing.
 
@@ -614,11 +636,11 @@ Met betrekking tot de betaling van de renten welke door het orgaan van een Verdr
 
 #### Toepassing van de artikelen 50, 51 en 52 van het Verdrag
 
-#### Artikel 61. Indiening van de aanvraag
+##### Artikel 61. Indiening van de aanvraag
 
 Wanneer een persoon die op het grondgebied van een Verdragsluitende Partij woont, in aanmerking wenst te komen voor een uitkering bij overlijden krachtens de wetgeving van een andere Verdragsluitende Partij, richt hij zijn aanvraag ofwel tot het bevoegde orgaan, ofwel tot het orgaan van de woonplaats, vergezeld van de bewijsstukken welke in de door het bevoegde orgaan toegepaste wetgeving vereist worden. De juistheid van de door de aanvrager verstrekte gegevens moet worden aangetoond door bij de aanvraag gevoegde officiële stukken of worden bevestigd door de bevoegde instanties van de Verdragsluitende Partij op het grondgebied waarvan hij woont.
 
-#### Artikel 62. Bewijs betreffende tijdvakken van verzekering
+##### Artikel 62. Bewijs betreffende tijdvakken van verzekering
 
 1. Om in aanmerking te komen voor de toepassing van artikel 50 van het Verdrag, legt de aanvrager aan het bevoegde orgaan een bewijs over waarin de tijdvakken van verzekering zijn vermeld welke zijn vervuld krachtens de wetgeving van de Verdragsluitende Partij waaraan de overleden rijnvarende tevoren en laatstelijk onderworpen is geweest en verstrekt hij alle verdere inlichtingen welke op grond van de door dit orgaan toegepaste wetgeving vereist zijn.
 
@@ -630,7 +652,7 @@ Wanneer een persoon die op het grondgebied van een Verdragsluitende Partij woont
 
 #### Toepassing van artikel 55 van het Verdrag
 
-#### Artikel 63. Bewijs betreffende tijdvakken van verzekering of van dienstbetrekking
+##### Artikel 63. Bewijs betreffende tijdvakken van verzekering of van dienstbetrekking
 
 1. Om in aanmerking te komen voor toepassing van artikel 55, eerste of tweede lid van het Verdrag, legt de werkloos geworden rijnvarende aan het bevoegde orgaan een bewijs over, waarin de tijdvakken van verzekering of dienstbetrekking zijn vermeld, welke zijn vervuld krachtens de wetgeving van de Verdragsluitende Partij waaraan hij tevoren en laatstelijk onderworpen is geweest en verstrekt hij alle verdere inlichtingen welke op grond van de door dit orgaan toegepaste wetgeving vereist zijn.
 
@@ -640,23 +662,23 @@ Wanneer een persoon die op het grondgebied van een Verdragsluitende Partij woont
 
 #### Toepassing van artikel 57 van het Verdrag
 
-#### Artikel 64. Bevoegd orgaan voor de toepassing van artikel 63 van deze schikking
+##### Artikel 64. Bevoegd orgaan voor de toepassing van artikel 63 van deze schikking
 
 In de gevallen bedoeld in artikel 57 van het Verdrag wordt het orgaan van de woonplaats beschouwd als het voor de toepassing van artikel 63 van deze Schikking bevoegde orgaan.
 
 #### Toepassing van artikel 58 van het Verdrag
 
-#### Artikel 65. Bewijs betreffende tijdvakken van verzekering of van dienstbetrekking - vermelding van de duur van reeds verleende uitkeringen -
+##### Artikel 65. Bewijs betreffende tijdvakken van verzekering of van dienstbetrekking - vermelding van de duur van reeds verleende uitkeringen -
 
 Voor de toepassing van artikel 58 van het Verdrag, vermeldt het in artikel 63, tweede lid van deze Schikking bedoelde orgaan, in voorkomend geval, de duur waarover reeds uitkeringen zijn verleend, nadat het recht op uitkeringen voor de laatste maal werd vastgesteld.
 
 #### Toepassing van artikel 59 van het Verdrag
 
-#### Artikel 66. Verklaring voor de berekening van de uitkeringen
+##### Artikel 66. Verklaring voor de berekening van de uitkeringen
 
 Voor de berekening van de uitkeringen welke ten laste komen van een in artikel 59, eerste lid van het Verdrag bedoeld orgaan in de gevallen waarin de belanghebbende zijn laatste werkzaamheden niet gedurende ten minste vier weken heeft uitgeoefend onder de wetgeving van de Verdragsluitende Partij op het grondgebied waarvan dit orgaan is gevestigd, legt hij aan dit orgaan een verklaring over welke de aard vermeldt van de laatstelijk door hem onder de wetgeving van een andere Verdragsluitende Partij gedurende ten minste vier weken verrichte werkzaamheden, alsmede de bedrijfstak waarin deze werkzaamheden werden uitgeoefend. Indien de belanghebbende deze verklaring niet overlegt, verzoekt bedoeld orgaan daarom hetzij aan het voor werkloosheid bevoegde orgaan van laatstbedoelde Partij, hetzij aan een ander door de bevoegde autoriteit van deze Partij aangewezen orgaan. Het bevoegde orgaan kan eveneens een bewijs accepteren dat is afgegeven door de laatste werkgever van de belanghebbende.
 
-#### Artikel 67. Bewijs betreffende de gezinsleden die in aanmerking moeten worden genomen
+##### Artikel 67. Bewijs betreffende de gezinsleden die in aanmerking moeten worden genomen
 
 Om in aanmerking te komen voor de toepassing van artikel 59, tweede lid van het Verdrag legt de belanghebbende aan het bevoegde orgaan een bewijs over met betrekking tot zijn gezinsleden die op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat wonen. Dit bewijs wordt afgegeven door het orgaan dat is aangewezen door de bevoegde autoriteit van de Verdragsluitende Partij op het grondgebied waar deze gezinsleden wonen. Hierin moet worden bevestigd dat de gezinsleden niet reeds in aanmerking zijn genomen voor de berekening van de werkloosheidsuitkeringen die aan een rechthebbende van dezelfde familie krachtens de wetgeving van de genoemde Verdragsluitende Partij verschuldigd zijn. Bovendien is artikel 18, tweede lid van deze Schikking van overeenkomstige toepassing.
 
@@ -664,7 +686,7 @@ Om in aanmerking te komen voor de toepassing van artikel 59, tweede lid van het 
 
 #### Toepassing van artikel 60 van het Verdrag
 
-#### Artikel 68. Bewijs betreffende tijdvakken van dienstbetrekking of beroepsarbeid
+##### Artikel 68. Bewijs betreffende tijdvakken van dienstbetrekking of beroepsarbeid
 
 1. Om in aanmerking te komen voor toepassing van artikel 60 van het Verdrag legt de belanghebbende aan het bevoegde orgaan een bewijs over waarin de tijdvakken van dienstbetrekking of beroepsarbeid zijn vermeld, welke zijn vervuld krachtens de wetgeving van de Verdragsluitende Partij waaraan de rijnvarende laatstelijk onderworpen is geweest en verstrekt hij alle verdere inlichtingen welke op grond van de door dit orgaan toegepaste wetgeving vereist zijn.
 
@@ -674,7 +696,7 @@ Om in aanmerking te komen voor de toepassing van artikel 59, tweede lid van het 
 
 #### Toepassing van artikel 62 van het Verdrag
 
-#### Artikel 69. Toepassing van de wetgeving van een Verdragsluitende Partij, vermeld in bijlage VII(1) van het Verdrag - aanvraag om gezinsbijslagen -
+##### Artikel 69. Toepassing van de wetgeving van een Verdragsluitende Partij, vermeld in bijlage VII(1) van het Verdrag - aanvraag om gezinsbijslagen -
 
 1. Om in aanmerking te komen voor gezinsbijslagen krachtens artikel 62, eerste lid, sub b) van het Verdrag, richt de belanghebbende een aanvraag tot het bevoegde orgaan, dat hem een verklaring afgeeft waarin het recht op deze bijslagen wordt bevestigd en waarin wordt aangegeven vanaf welke datum ze zijn verschuldigd. Bovendien, laten de gezinsleden zich inschrijven bij het orgaan van hun woonplaats, onder overlegging van de bewijsstukken welke krachtens de door dit orgaan toegepaste wetgeving gewoonlijk vereist worden voor de toekenning van gezinsbijslagen, alsmede van genoemd bewijs. Indien de gezinsleden dit bewijs niet overleggen verzoekt het orgaan van de woonplaats het bevoegde orgaan daarom.
 
@@ -686,7 +708,7 @@ Om in aanmerking te komen voor de toepassing van artikel 59, tweede lid van het 
 
 #### Toepassing van artikel 63 van het Verdrag
 
-#### Artikel 70. Aanvraag om gezinsbijslagen door de werkloos geworden rijnvarende
+##### Artikel 70. Aanvraag om gezinsbijslagen door de werkloos geworden rijnvarende
 
 1. Artikel 69 van deze Schikking is van overeenkomstige toepassing op de in artikel 63, eerste lid van het Verdrag bedoelde werkloos geworden rijnvarende.
 
@@ -696,7 +718,7 @@ Om in aanmerking te komen voor de toepassing van artikel 59, tweede lid van het 
 
 #### Toepassing van de artikelen 64 en 65 van het Verdrag
 
-#### Artikel 71. Toepassing van de wetgeving van een Verdragsluitende Partij vermeld in bijlage VII(2) van het Verdrag - aanvraag om kinderbijslagen -
+##### Artikel 71. Toepassing van de wetgeving van een Verdragsluitende Partij vermeld in bijlage VII(2) van het Verdrag - aanvraag om kinderbijslagen -
 
 1. Om in aanmerking te komen voor kinderbijslag krachtens artikel 64 van het Verdrag, richt de rijnvarende eventueel door bemiddeling van zijn werkgever een aanvraag tot het bevoegde orgaan.
 
@@ -710,7 +732,7 @@ Om in aanmerking te komen voor de toepassing van artikel 59, tweede lid van het 
 
 #### Algemene bepalingen
 
-#### Artikel 72. Verlenen van de gezinsbijslagen bij overbrenging van de woonplaats van de gezinsleden
+##### Artikel 72. Verlenen van de gezinsbijslagen bij overbrenging van de woonplaats van de gezinsleden
 
 1. Indien de gezinsleden in de loop van een kalendermaand of kalenderkwartaal hun woonplaats overbrengen van het grondgebied van een Verdragsluitende Partij naar dat van een andere Verdragsluitende Partij, worden de gezinsbijslagen verleend volgens de volgende regels:
 
@@ -722,7 +744,7 @@ Om in aanmerking te komen voor de toepassing van artikel 59, tweede lid van het 
 
 3. Indien het orgaan van een Verdragsluitende Partij de gezinsbijslagen heeft verleend voor een periode, terwijl deze bijslagen voor rekening van het orgaan van een andere Verdragsluitende Partij kwamen, zullen de door het eerste orgaan ten onrechte verleende bijslagen worden vergoed.
 
-#### Artikel 73. Verlenen van de gezinsbijslagen bij wijziging van het bevoegde orgaan
+##### Artikel 73. Verlenen van de gezinsbijslagen bij wijziging van het bevoegde orgaan
 
 1. Indien de rijnvarende in de loop van een kalendermaand of kalenderkwartaal achtereenvolgens onderworpen is geweest aan de wetgeving van twee Verdragsluitende Partijen, wordt de toekenning van gezinsbijslagen waarop hij aanspraak kan maken krachtens de wetgeving van elk van deze Partijen volgens de volgende regels vastgesteld:
 
@@ -734,7 +756,7 @@ Om in aanmerking te komen voor de toepassing van artikel 59, tweede lid van het 
 
 #### Toepassing van de artikelen 66 tot 69 van het Verdrag
 
-#### Artikel 74. Gezins- of kinderbijslagen voor kinderen die ten laste komen van een rechthebbende op een pensioen of rente en voor wezen
+##### Artikel 74. Gezins- of kinderbijslagen voor kinderen die ten laste komen van een rechthebbende op een pensioen of rente en voor wezen
 
 1. Om in aanmerking te komen voor bijslagen krachtens artikel 66, artikel 67 of artikel 68 van het Verdrag richt de belanghebbende een aanvraag tot het bevoegde orgaan. Indien de aanvrager op het grondgebied van een andere Verdragsluitende Partij woont dan die waar het bevoegde orgaan gevestigd is, kan hij zijn aanvraag ook richten tot het orgaan van zijn woonplaats, dat de aanvraag aan het bevoegde orgaan doorzendt onder opgave van de datum waarop de aanvraag werd ingediend. Deze datum wordt beschouwd als de datum waarop de aanvraag bij het bevoegde orgaan werd ingediend.
 
@@ -744,23 +766,23 @@ Om in aanmerking te komen voor de toepassing van artikel 59, tweede lid van het 
 
 4. In de gevallen genoemd in artikel 66, derde lid, sub b) of artikel 67, derde lid, sub b) van het Verdrag, zendt het orgaan van de woonplaats de aanvraag vergezeld van alle noodzakelijke stukken en gegevens onverwijld door aan het orgaan van de Verdragsluitende Partij, aan de wetgeving waarvan de rechthebbende op een pensioen of rente of de overleden rijnvarende het langst onderworpen is geweest. Er moet, onder dezelfde voorwaarden, eventueel worden teruggegaan tot het orgaan van de Verdragsluitende Partij aan de wetgeving waarvan de rechthebbende op een pensioen of rente of overleden rijnvarende het kortst onderworpen is geweest.
 
-#### Artikel 75. Het op verzoek van het bevoegde orgaan verstrekken van gegevens
+##### Artikel 75. Het op verzoek van het bevoegde orgaan verstrekken van gegevens
 
 De belanghebbende verstrekt, eventueel op verzoek van het bevoegde orgaan, gegevens aan de hand waarvan kan worden vastgesteld aan wie de kinderbijslagen kunnen worden uitbetaald op het grondgebied van de Verdragsluitende Partij waarop de kinderen of de wezen wonen.
 
-#### Artikel 76. Betaling van de bijslagen
+##### Artikel 76. Betaling van de bijslagen
 
 1. Voor de betaling van de krachtens de artikelen 66, 67 of 68 van het Verdrag verschuldigde bijslagen is artikel 42 van deze Schikking van overeenkomstige toepassing.
 
 2. Zonodig wijzen de bevoegde autoriteiten van de Verdragsluitende Partijen het voor het betalen van de krachtens de artikelen 66, 67 of 68 van het Verdrag verschuldigde bijslagen bevoegde orgaan aan.
 
-#### Artikel 77. Inlichtingen over wijzigingen die zich in de omstandigheden voordoen
+##### Artikel 77. Inlichtingen over wijzigingen die zich in de omstandigheden voordoen
 
 Een ieder aan wie krachtens de artikelen 66, 67 of 68 van het Verdrag bijslagen worden betaald voor de gezinsleden van een rechthebbende op een pensioen of rente of voor wezen, is verplicht het orgaan dat deze bijslagen verschuldigd is in kennis te stellen van iedere verandering in de omstandigheden van de gezinsleden of de wezen waardoor het recht op bijslagen kan worden gewijzigd.
 
 ## TITEL V. FINANCIËLE BEPALINGEN
 
-#### Artikel 78. Vergoeding van prestaties
+##### Artikel 78. Vergoeding van prestaties
 
 1. Onverminderd het bepaalde in artikel 23, vierde lid, artikel 49, vierde lid en artikel 70, derde lid van het Verdrag worden de vergoedingen bedoeld in artikel 23, derde lid, artikel 49, derde lid en artikel 70, tweede lid van het Verdrag vastgesteld en vinden zij plaats krachtens de volgende bepalingen:
 
@@ -778,7 +800,7 @@ Een ieder aan wie krachtens de artikelen 66, 67 of 68 van het Verdrag bijslagen 
 
 4. Voor de toepassing van artikel 70, eerste lid van het Verdrag worden de gezinsbijslagen, voorzien in de wetgeving van een Verdragsluitende Partij, beschouwd als overeenkomend met de bijslagen die worden voorzien in de wetgeving van een andere Verdragsluitende Partij, wanneer de gezinsbijslagen die worden voorzien door elk der beide wetgevingen hetzij kinderbijslagen zijn, hetzij zwangerschapsuitkeringen, hetzij uitkeringen bij geboorte, hetzij uitkeringen voor gebrekkige of gehandicapte kinderen, hetzij wezenuitkeringen, hetzij andere uitkeringen van dezelfde aard die zouden worden voorzien door de wetgevingen van tenminste twee Verdragsluitende Partijen.
 
-#### Artikel 79. Vergoeding van ten onrechte verleende verstrekkingen
+##### Artikel 79. Vergoeding van ten onrechte verleende verstrekkingen
 
 1. Ingeval het recht op verstrekkingen niet door het als bevoegd aangeduide orgaan wordt erkend, worden, rekening houdend met het bepaalde in artikel 9, tweede en derde lid of artikel 44, tweede en derde lid van deze Schikking, de verstrekkingen welke door het orgaan van de verblijfplaats werden verleend, op grond van de in artikel 9, eerste lid of artikel 44, eerste lid van deze Schikking bedoelde veronderstelling, door eerstbedoeld orgaan of door het orgaan dat door de bevoegde autoriteit van de betrokken Verdragsluitende Partij is aangewezen, vergoed.
 
@@ -786,7 +808,7 @@ Een ieder aan wie krachtens de artikelen 66, 67 of 68 van het Verdrag bijslagen 
 
 3. Het orgaan dat de ten onrechte verleende verstrekkingen heeft vergoed krachtens het eerste of het tweede lid van dit artikel, behoudt op de persoon die verstrekkingen heeft genoten een schuldvordering welke gelijk is aan de waarde van de ten onrechte verleende verstrekkingen.
 
-#### Artikel 80. Regels voor omrekening, toe te passen door de organen van de Lid-Staten van de Europese Gemeenschappen en door de Zwitserse organen
+##### Artikel 80. Regels voor omrekening, toe te passen door de organen van de Lid-Staten van de Europese Gemeenschappen en door de Zwitserse organen
 
 De inkomsten, beloningen en uitkeringen welke voor de toepassing van de artikelen 37, 73 en 74 van het Verdrag, en van artikel 40, tweede lid van deze Schikking alsmede voor de betaling van uitkeringen voorzien in artikel 13, achtste lid en in artikel 47, achtste lid van genoemde Schikking in aanmerking dienen te worden genomen en in de munteenheid van een andere Verdragsluitende Partij luiden, worden als volgt omgerekend:
 
@@ -802,7 +824,7 @@ De inkomsten, beloningen en uitkeringen welke voor de toepassing van de artikele
 
 - ii). wanneer het gaat om de betaling van uitkeringen bedoeld in artikel 13, achtste lid en in artikel 47, achtste lid van deze Schikking, op basis van de officiële wisselkoers welke geldig is op de dag waarop de betreffende uitkeringen worden betaald.
 
-#### Artikel 81. Kosten van administratieve en medische controle
+##### Artikel 81. Kosten van administratieve en medische controle
 
 1. De kosten die voortvloeien uit de administratieve controle en uit medisch onderzoek, observaties, reizen van artsen en allerlei verificaties, nodig voor de toekenning en verlening van de prestaties of voor herziening daarvan, worden door het orgaan voor rekening waarvan zij zijn verricht, vergoed aan het daarmee belaste orgaan op basis van het door dit orgaan toegepaste tarief.
 
@@ -812,33 +834,33 @@ De inkomsten, beloningen en uitkeringen welke voor de toepassing van de artikele
 
 ## TITEL VI. DIVERSE BEPALINGEN
 
-#### Artikel 82. Communicatie tussen de organen onderling en tussen rechthebbenden en organen
+##### Artikel 82. Communicatie tussen de organen onderling en tussen rechthebbenden en organen
 
 Ieder orgaan van een Verdragsluitende Partij, alsmede elke persoon, die op het grondgebied van een Verdragsluitende Partij woont of verblijft, kan zich rechtstreeks of door bemiddeling van de verbindingsorganen tot het orgaan van een andere Verdragsluitende Partij wenden.
 
-#### Artikel 83. Administratieve bijstand bij het terugvorderen van onverschuldigde prestaties
+##### Artikel 83. Administratieve bijstand bij het terugvorderen van onverschuldigde prestaties
 
 Het orgaan van de woonplaats van een persoon die ten onrechte uitkeringen heeft genoten of het orgaan dat is aangewezen door de bevoegde autoriteit van de Verdragsluitende Partij op het grondgebied waarvan deze persoon woont, verleent zijn goede diensten aan het orgaan van elke andere Verdragsluitende Partij dat deze uitkeringen heeft verstrekt, indien laatstbedoeld orgaan verhaal op de betrokken persoon wil nemen.
 
-#### Artikel 84. Terugvordering van hetgeen door de organen onverschuldigd betaald is
+##### Artikel 84. Terugvordering van hetgeen door de organen onverschuldigd betaald is
 
 1. Niettegenstaande het bepaalde in artikel 82 van het Verdrag, kan, indien bij de vaststelling of de herziening van de uitkeringen bij invaliditeit, ouderdom of overlijden (pensioenen) krachtens Titel III, Hoofdstuk 2 van het Verdrag, het orgaan van een Verdragsluitende Partij aan een rechthebbende op uitkeringen een hoger bedrag heeft uitbetaald dan waarop deze recht heeft, dit orgaan aan het orgaan van enige andere Verdragsluitende Partij dat overeenkomstige uitkeringen aan deze rechthebbende verschuldigd is, verzoeken het te veel betaalde bedrag in te houden op de aan bedoelde rechthebbende verschuldigde achterstallige termijnen voor zover de door dit orgaan toegepaste wetgeving zulks mogelijk maakt. Laatstgenoemd orgaan maakt het aldus ingehouden bedrag over aan het orgaan dat de vorderingen heeft.
 
 2. Wanneer het orgaan van een Verdragsluitende Partij een voorschot op uitkeringen heeft uitbetaald voor een periode gedurende welke de rechthebbende recht had op overeenkomstige uitkeringen krachtens de wetgeving van een andere Verdragsluitende Partij, kan dit orgaan het orgaan van de andere Partij verzoeken het bedrag van genoemd voorschot in te houden op de bedragen, welke het orgaan over hetzelfde tijdvak verschuldigd is aan genoemde rechthebbende. Laatstbedoeld orgaan houdt het bedrag in en maakt het aldus ingehouden bedrag over aan het orgaan dat de vorderingen heeft.
 
-#### Artikel 85. Verhaal door sociale bijstandsinstellingen
+##### Artikel 85. Verhaal door sociale bijstandsinstellingen
 
 Wanneer een persoon op het grondgebied van een Verdragsluitende Partij sociale bijstand heeft genoten gedurende een tijdvak waarover hij krachtens de wetgeving van een andere Verdragsluitende Partij recht op uitkeringen had, kan de instelling welke de sociale bijstand heeft verleend, indien deze een wettelijk verhaalsrecht heeft op uitkeringen welke verschuldigd zijn aan personen die sociale bijstand genieten, aan het orgaan van enige andere Verdragsluitende Partij dat uitkeringen aan de betrokken persoon verschuldigd is, verzoeken het bedrag van de over genoemd tijdvak verleende sociale bijstand in te houden op de bedragen welke het aan bedoelde persoon betaalt. Laatstbedoeld orgaan gaat, in voorkomend geval, tot deze inhouding over op de wijze en binnen de grenzen als bepaald bij de wetgeving die door dit orgaan wordt toegepast alsof het door dit orgaan zelf teveel betaalde bedragen betreft en maakt het aldus ingehouden bedrag over aan de instelling welke de vordering heeft.
 
-#### Artikel 86. Voorlopige betaling van uitkeringen bij geschil over de toepasselijke wetgeving of over het orgaan dat de prestaties moet verlenen
+##### Artikel 86. Voorlopige betaling van uitkeringen bij geschil over de toepasselijke wetgeving of over het orgaan dat de prestaties moet verlenen
 
 Ingeval tussen de organen of de bevoegde autoriteiten van twee of meer Verdragsluitende Partijen een geschil bestaat hetzij over de wetgeving welke krachtens Titel II van het Verdrag moet worden toegepast, hetzij over de vaststelling van het orgaan dat prestaties moet verlenen, ontvangt de belanghebbende die aanspraak op prestaties zou kunnen maken indien dit geschil niet bestond, voorlopig de prestaties welke in de door het orgaan van de woonplaats toegepaste wetgeving zijn voorzien of, indien de belanghebbende niet op het grondgebied van een der betrokken Verdragsluitende Partijen woont, de prestaties welke zijn voorzien in de wetgeving van de Verdragsluitende Partij waaraan de belanghebbende laatstelijk onderworpen is geweest. Nadat het geschil is beslecht, komen de prestaties welke voorlopig zijn verleend, voor rekening van het orgaan dat bevoegd is verklaard voor het verlenen van de prestaties.
 
-#### Artikel 87. Voorschriften voor medisch onderzoek dat op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde staat wordt verricht
+##### Artikel 87. Voorschriften voor medisch onderzoek dat op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde staat wordt verricht
 
 Het orgaan van de woon- of verblijfplaats dat krachtens artikel 81 van het Verdrag een medisch onderzoek moet verrichten gaat hiertoe over volgens de voorschriften die zijn gegeven door het bevoegde orgaan of indien geen voorschriften zijn gegeven, volgens de voorschriften die zijn voorzien in de door dit orgaan toegepaste wetgeving.
 
-#### Artikel 88. Overgangsbepalingen betreffende pensioenen en renten
+##### Artikel 88. Overgangsbepalingen betreffende pensioenen en renten
 
 1. Wanneer de datum waarop de verzekerde gebeurtenis heeft plaatsgevonden voor de datum van inwerkingtreding van het Verdrag ligt en er op grond van de aanvraag om pensioen of rente voor die datum nog geen uitkering werd vastgesteld, dan moeten er voor deze aanvraag twee uitkeringen worden vastgesteld, voor zover naar aanleiding van deze verzekerde gebeurtenis uitkeringen moeten worden gedaan voor het aan laatstbedoelde datum voorafgaande tijdvak:
 
@@ -850,11 +872,11 @@ Indien evenwel het bedrag dat is berekend krachtens de sub a) bedoelde bepalinge
 
 2. Indien vanaf de toepassingsdatum van het Verdrag bij een orgaan van een Verdragsluitende Partij een aanvraag om invaliditeitsuitkeringen, ouderdomsuitkeringen of uitkeringen aan nagelaten betrekkingen wordt ingediend, leidt dit, overeenkomstig het bepaalde in het Verdrag ambtshalve tot herziening van de uitkeringen die door het orgaan of de organen van een of meer andere Verdragsluitende Partijen voor deze datum voor hetzelfde geval werden vastgesteld. In geen geval zal een dergelijke herziening mogen leiden tot vermindering van eerdere rechten van belanghebbenden.
 
-#### Artikel 89. Mededeling aan het Administratief Centrum van bilaterale of multilaterale toepassingsovereenkomsten die tussen Verdragsluitende Partijen zijn gesloten
+##### Artikel 89. Mededeling aan het Administratief Centrum van bilaterale of multilaterale toepassingsovereenkomsten die tussen Verdragsluitende Partijen zijn gesloten
 
 Van de overeenkomsten welke worden gesloten krachtens artikel 84, derde lid en artikel 85, tweede lid van het Verdrag, alsmede krachtens artikel 81, tweede lid van deze Schikking wordt binnen drie maanden nadat ze in werking zijn getreden mededeling gedaan aan het Administratief Centrum.
 
-#### Artikel 90. Bijlagen - wijzigingen van de bijlagen
+##### Artikel 90. Bijlagen - wijzigingen van de bijlagen
 
 1. De bijlagen bedoeld in artikel 3 van deze Schikking, zijn daarvan een wezenlijk bestanddeel.
 
@@ -864,19 +886,19 @@ Van de overeenkomsten welke worden gesloten krachtens artikel 84, derde lid en a
 
 ## TITEL VII. SLOTBEPALINGEN
 
-#### Artikel 91. Inwerkingtreding van de Schikking
+##### Artikel 91. Inwerkingtreding van de Schikking
 
 1. Deze Schikking treedt in werking op dezelfde datum als het Verdrag nadat alle Verdragsluitende Partijen het Administratief Centrum ervan in kennis hebben gesteld dat de binnenlandse voorwaarden voor de inwerkingtreding zijn vervuld.
 
 2. Met ingang van de inwerkingtreding van deze Schikking, houdende bepalingen van het Administratief Akkoord van ter uitvoering van het Verdrag van 13 februari 1961 betreffende de sociale zekerheid van Rijnvarenden (herzien) op van kracht te zijn.
 
-#### Artikel 92. Nederlegging van de teksten en verzending van afschriften
+##### Artikel 92. Nederlegging van de teksten en verzending van afschriften
 
 1. De Duitse, Franse en Nederlandse teksten van deze Schikking zijn gelijkelijk authentiek. Zij worden nedergelegd in de archieven van het Internationaal Arbeidsbureau.
 
 2. De Directeur-Generaal van het Internationaal Arbeidsbureau zendt gewaarmerkte afschriften aan elk van de Verdragsluitende Partijen en aan de Centrale Commissie voor de Rijnvaart.
 
-#### I. - Van kracht gebleven internationale overeenkomsten
+##### I. - Van kracht gebleven internationale overeenkomsten
 
 (Artikel 3, vijfde lid van de Schikking)
 
@@ -890,7 +912,7 @@ De bepalingen van het Administratief Akkoord van 3 december 1976 betreffende de 
 
 De bepalingen van het Administratief Akkoord van 29 mei 1970 en van het Aanvullend Administratief Akkoord van 16 januari/9 februari 1987 met betrekking tot de wijze van toepassing van het Verdrag inzake sociale zekerheid van 27 mei 1970 betreffende de invaliditeitsverzekering.
 
-#### II. - Van kracht gebleven vroegere overeenkomsten - regels voor de betaling -
+##### II. - Van kracht gebleven vroegere overeenkomsten - regels voor de betaling -
 
 (artikel 42, tweede lid en artikel 60 van de Schikking)
 

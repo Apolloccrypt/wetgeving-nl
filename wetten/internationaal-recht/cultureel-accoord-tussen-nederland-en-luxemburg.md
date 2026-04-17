@@ -1,13 +1,37 @@
 ---
 title: "Cultureel accoord tussen Nederland en Luxemburg"
 identifier: "BWBV0005512"
-categorie: "Internationaal recht"
-publicatiedatum: 1953-09-22
-laatste_update: 1953-09-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005512"
+country: "nl"
+rank: "verdrag"
+publication_date: "1953-09-22"
+last_updated: "1953-09-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005512"
+soort: "verdrag"
+stam_id: "10004673153"
+version_id: "10004930442"
+internal_id: "C10008341731"
+label_id: "10004657174"
+dtd_version: "2.0"
+original_entry_into_force: "1953-09-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005512/1953-09-22/0"
+intitule_bron: "Stb.1950-K 87"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1950-03-16"
+intitule_published: "1950-04-21"
+intitule_in_force: "1953-11-02"
+intitule_status: "goed"
+original_publication: "Stb.1950-K 87"
+original_signed_date: "1950-03-16"
+original_published_date: "1950-04-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1953-09-22"
+jci_1_3: "jci1.3:c:BWBV0005512&z=1953-09-22&g=1953-09-22"
+jci_1_0: "1.0:c:BWBV0005512&g=1953-09-22"
+citeertitel_status: "redactioneel"
+signed_date: "1950-03-16"
+entry_into_force: "1953-09-22"
 ---
-
 # Cultureel accoord tussen Nederland en Luxemburg
 
 Hare Majesteit de Koningin der Nederlanden ter eenre, en
@@ -28,11 +52,11 @@ Zijne Excellentie de Heer Auguste Collart, Hoogstderzelver Buitengewoon Gezant e
 
 Die, na wederzijdse overlegging van hun respectieve volmachten, dewelke in goede en behoorlijke vorm zijn bevonden, zijn nopens de volgende bepalingen overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Het onderhavige Verdrag heeft ten doel, de samenwerking op het gebied van onderwijs, wetenschap en cultuur tussen beide landen zoveel mogelijk te bevorderen en een geregelde uitwisseling tot stand te brengen van personen, materiaal en documentatie op genoemd gebied.
 
-#### Artikel 2
+##### Artikel 2
 
 Met het oog op de problemen, die de uitvoering van dit Verdrag zal opwerpen, wordt een gemengde Commissie ingesteld. Deze zal bestaan uit zes leden: ieder der Verdragsluitende Partijen wordt door drie leden vertegenwoordigd. De samenstelling en de werkzaamheden van de Commissie worden door de volgende beginselen beheerst:
 
@@ -42,45 +66,45 @@ Met het oog op de problemen, die de uitvoering van dit Verdrag zal opwerpen, wor
 
 - III. Indien vraagstukken van technische aard in behandeling moeten worden genomen, kan de gemengde Commissie ertoe overgaan subcommissies in te stellen, welke zijn samengesteld uit leden, gekozen uit of buiten haar midden, waarin ieder land door een gelijk aantal leden vertegenwoordigd wordt. De plaats van samenkomst en het voorzitterschap van deze subcommissies worden geregeld door dezelfde principes als onder 2 vastgesteld, met dien verstande, dat het voorzitterschap daarvan kan berusten bij een persoon, aan te wijzen door de Minister van het land waar de zitting plaats vindt.
 
-#### Artikel 3
+##### Artikel 3
 
 Na bekrachtiging van dit Verdrag zullen de daaruit voortvloeiende regelingen, zoals deze door de gemengde Commissie zijn vastgesteld, worden bekend gemaakt in een officiële Akte, die als bijlage aan dit Verdrag zal worden toegevoegd. Deze regelingen, alsmede alle veranderingen van en toevoegingen aan deze regelingen komen op voorstel van de gemengde Commissie tot stand na goedkeuring door de Regeringen der beide landen.
 
-#### Artikel 4
+##### Artikel 4
 
 Beide Verdragsluitende Partijen zullen een uitwisseling van leerkrachten van verschillende takken van onderwijs der beide landen bevorderen, evenals die van leden van wetenschappelijke instellingen. De Ministers der beide landen zullen de voorwaarden bepalen waarop deze uitwisseling plaats vindt. Er kan op overeenkomstige voorwaarden worden overgegaan tot een uitwisseling van leerlingen van de verschillende onderwijsinstellingen der beide landen.
 
-#### Artikel 5
+##### Artikel 5
 
 De gemengde Commissie zal de mogelijkheid tot gelijkstelling van getuigschriften en graden van beide landen bestuderen. Echter zal de gelijkstelling van deze getuigschriften en graden geen wijziging ten gevolge hebben van de bij wetten en verordeningen vastgestelde voorwaarden ten aanzien van het uitoefenen van beroepen in beide landen.
 
-#### Artikel 6
+##### Artikel 6
 
 Ieder der Verdragsluitende Partijen verklaart het toekennen van beurzen te willen bevorderen, teneinde studerenden en geleerden in staat te stellen hun studiën of onderzoekingen in het andere Verdragsluitende land voort te zetten.
 
 De gemengde Commissie kan, wat het aantal dezer beurzen en alle verdere regelingen van practische aard betreft, bij de betrokken Regeringen voorstellen indienen.
 
-#### Artikel 7
+##### Artikel 7
 
 Ieder der Verdragsluitende Partijen zal het deelnemen van de onder artikel 4 bedoelde personen aan in het andere land gehouden vacantiecursussen aanmoedigen, evenals de organisatie van groepsreizen van wetenschappelijk en onderwijzend personeel, leerlingen en kunstenaars. Beide landen zullen er zich in het bijzonder op toeleggen jeugdreizen en de samenwerking tussen de jeugdorganisaties der beide landen te bevorderen.
 
-#### Artikel 8
+##### Artikel 8
 
 Beide Verdragsluitende Partijen zullen overgaan tot uitwisseling van inlichtingen en documentatie op intellectueel gebied. Zij zullen het contact en de samenwerking van culturele verenigingen der beide landen bevorderen.
 
-#### Artikel 9
+##### Artikel 9
 
 Eveneens zullen zij een grotere intensiviteit geven aan de culturele en intellectuele uitwisseling tussen beide landen door het organiseren van concerten, toneelvoorstellingen, voordrachten, tentoonstellingen van artistieke en wetenschappelijke aard, door de verspreiding van boeken en tijdschriften, door de film en de radio.
 
-#### Artikel 10
+##### Artikel 10
 
 De Verdragsluitende Partijen zullen overleg plegen omtrent de instandhouding en de uitbreiding van hare gemeenschappelijke culturele belangen in het buitenland.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit Verdrag zal worden bekrachtigd en de akten van bekrachtiging zullen zo spoedig mogelijk worden uitgewisseld te ’s-Gravenhage. Het Verdrag zal in werking treden op de dag der uitwisseling van de akten van bekrachtiging.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit Verdrag zal van kracht blijven gedurende vijf jaren, te rekenen van de dag waarop het in werking treedt.
 

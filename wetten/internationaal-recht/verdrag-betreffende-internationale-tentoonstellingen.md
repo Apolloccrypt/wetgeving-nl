@@ -1,18 +1,42 @@
 ---
 title: "Verdrag betreffende internationale tentoonstellingen"
 identifier: "BWBV0006193"
-categorie: "Internationaal recht"
-publicatiedatum: 1996-07-19
-laatste_update: 1996-07-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006193"
+country: "nl"
+rank: "verdrag"
+publication_date: "1996-07-19"
+last_updated: "1996-07-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006193"
+soort: "verdrag"
+stam_id: "10005089983"
+version_id: "10005429582"
+internal_id: "C10008507571"
+label_id: "10005073834"
+dtd_version: "2.0"
+original_entry_into_force: "1951-02-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006193/1996-07-19/0"
+intitule_bron: "Stb.1950-K 416"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1950-09-28"
+intitule_published: "1950-10-20"
+intitule_in_force: "1952-01-21"
+intitule_status: "goed"
+original_publication: "Stb.1950-K 416"
+original_signed_date: "1950-09-28"
+original_published_date: "1950-10-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1951-02-08"
+jci_1_3: "jci1.3:c:BWBV0006193&z=1996-07-19&g=1996-07-19"
+jci_1_0: "1.0:c:BWBV0006193&g=1996-07-19"
+citeertitel_status: "redactioneel"
+signed_date: "1950-09-28"
+entry_into_force: "1951-02-08"
 ---
-
 # Verdrag betreffende internationale tentoonstellingen
 
 ## HOOFDSTUK I. Omschrijving en doel
 
-#### Artikel 1
+##### Artikel 1
 
 1. Een tentoonstelling is een manifestatie die, onder welke benaming ook, als voornaamste doel heeft het publiek te onderwijzen, door de inventaris op te maken van de middelen die de mens ter beschikking staan om aan de behoeften van de beschaving te voldoen en door in een of meer takken van menselijke activiteit de behaalde vooruitgang of de mogelijkheden voor de toekomst te doen uitkomen.
 
@@ -20,7 +44,7 @@ bron: "https://wetten.overheid.nl/BWBV0006193"
 
 3. De deelnemers aan een internationale tentoonstelling zijn enerzijds de exponenten van officieel vertegenwoordigde Staten, gegroepeerd in nationale afdelingen, en anderzijds de internationale organisaties of de exposanten die onderdaan zijn van niet officieel vertegenwoordigde Staten en ten slotte degenen die volgens de reglementen van de tentoonstelling zijn gemachtigd een andere activiteit te bedrijven, met name de concessionarissen.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit Verdrag is van toepassing op alle internationale tentoonstellingen, met uitzondering van:
 
@@ -34,7 +58,7 @@ Ongeacht de naam die door de organisatoren aan een tentoonstelling wordt gegeven
 
 ## HOOFDSTUK II. Algemene voorwaarden voor het organiseren van internationale tentoonstellingen
 
-#### Artikel 3
+##### Artikel 3
 
 Voor inschrijving door het Internationaal Tentoonstellingsbureau, bedoeld in artikel 25 hieronder, komen in aanmerking de internationale tentoonstellingen die voldoen aan de volgende voorwaarden:
 
@@ -44,7 +68,7 @@ Voor inschrijving door het Internationaal Tentoonstellingsbureau, bedoeld in art
 
 - C). met ingang van 1 januari 1995 is de tijdruimte tussen twee ingeschreven tentoonstellingen ten minste vijf jaar, waarbij de eerste tentoonstelling kan plaatsvinden in 1995. Het Internationaal Tentoonstellingsbureau kan evenwel aanvaarden dat het tijdstip dat voortvloeit uit de voorgaande bepaling, met ten hoogste 1 jaar wordt vervroegd om de viering of herdenking van een bijzondere gebeurtenis van internationaal belang mogelijk te maken, zonder dat daardoor de tijdruimte van vijf jaar, die is vastgesteld door het oorspronkelijke tijdschema, wordt gewijzigd.
 
-#### Artikel 4
+##### Artikel 4
 
 A). Voor erkenning door het Internationaal Tentoonstellingsbureau komen in aanmerking de internationale tentoonstellingen die voldoen aan de volgende voorwaarden:
 
@@ -68,13 +92,13 @@ B). Het Internationaal Tentoonstellingsbureau kan eveneens zijn erkenning verlen
 
 die gehouden worden tussen twee ingeschreven tentoonstellingen in.
 
-#### Artikel 5
+##### Artikel 5
 
 De data van opening en sluiting van een tentoonstelling en haar algemene kenmerken worden vastgesteld bij de inschrijving of de erkenning ervan en mogen slechts met toestemming van het Internationaal Tentoonstellingsbureau worden gewijzigd.
 
 ## HOOFDSTUK III. Inschrijving
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Regering van een Verdragsluitende Partij op wier grondgebied een tentoonstelling is ontworpen (hierna te noemen: de uitnodigende Regering) dient aan het Bureau een verzoek tot inschrijving of erkenning daarvan te richten, daarbij aangevende de wettelijke, reglementaire of financiële maatregelen die zij ter gelegenheid van deze tentoonstelling treft. De Regering van een niet-Verdragsluitende Staat die inschrijving of erkenning van een tentoonstelling wenst, kan evenzo aan het Bureau een verzoek richten, op voorwaarde dat zij zich verbindt tot het ten aanzien van deze tentoonstelling in acht nemen van het bepaalde in de Hoofdstukken I, II, III en IV van dit Verdrag en de ter zake van hun toepassing uitgevaardigde reglementen.
 
@@ -84,17 +108,17 @@ De data van opening en sluiting van een tentoonstelling en haar algemene kenmerk
 
 4. De inschrijving of erkenning wordt slechts toegestaan indien de tentoonstelling voldoet aan de voorwaarden die door dit Verdrag zijn gesteld, alsmede aan de reglementen die door het Bureau zijn uitgevaardigd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Wanneer twee of meer Staten elkaar de inschrijving of erkenning van een tentoonstelling betwisten en niet tot een vergelijk kunnen komen, roepen zij de Algemene Vergadering van het Bureau bijeen, die een beslissing neemt, rekening houdend met de ingediende overwegingen en met name met bijzondere redenen van historische of morele aard, de tijd die is verlopen sedert de laatste tentoonstelling en het aantal reeds door deze Staten georganiseerde manifestaties.
 
 2. Het Bureau geeft, behalve in buitengewone omstandigheden, de voorkeur aan een tentoonstelling die is ontworpen op het grondgebied van een Verdragsluitende Partij.
 
-#### Artikel 8
+##### Artikel 8
 
 Behalve in het geval voorzien in artikel 5, tweede lid, verliest de Staat die inschrijving of erkenning van een tentoonstelling heeft verkregen, de aan deze inschrijving of erkenning verbonden rechten, wanneer hij het tijdstip wijzigt waarop de tentoonstelling volgens zijn verklaring zou worden gehouden. Indien de Staat verkiest de tentoonstelling op een ander tijdstip te houden, dient hij een nieuwe aanvrage in te dienen en zich zo nodig te onderwerpen aan de in artikel 7 vastgestelde procedure ter zake van eventuele concurrentie.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Verdragsluitende Partijen weigeren hun medewerking aan, hun bescherming van, alsook iedere subsidie aan tentoonstellingen die niet zijn ingeschreven of erkend.
 
@@ -104,13 +128,13 @@ Behalve in het geval voorzien in artikel 5, tweede lid, verliest de Staat die in
 
 ## HOOFDSTUK IV. Verplichtingen van de organisatoren van ingeschreven tentoonstellingen en van deelnemende Staten
 
-#### Artikel 10
+##### Artikel 10
 
 1. De uitnodigende Regering dient te waken over de naleving van het bepaalde in dit Verdrag en in de reglementen die ter zake van zijn toepassing zijn uitgevaardigd.
 
 2. Indien deze Regering de tentoonstelling niet zelf organiseert, dient de rechtspersoon die haar organiseert te dezen officieel te zijn erkend door de Regering, die de naleving van de verplichtingen van deze rechtspersoon garandeert.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Alle uitnodigingen tot deelneming aan een tentoonstelling, hetzij gericht aan Verdragsluitende Partijen, hetzij aan Staten die geen lid zijn, dienen uitsluitend door de Regering van de uitnodigende Staat langs diplomatieke weg te worden gericht uitsluitend aan de Regering van de uitgenodigde Staat, uit naam van zichzelf of van andere natuurlijke personen of rechtspersonen die onder haar gezag vallen. De antwoorden dienen langs dezelfde weg te worden gericht aan de uitnodigende Regering, evenals de wensen tot deelneming van niet uitgenodigde natuurlijke personen of rechtspersonen. De uitnodigingen dienen te geschieden met inachtneming van de door het Bureau voorgeschreven termijnen. Uitnodigingen aan organisaties met een internationaal karakter worden rechtstreeks aan deze organisaties gericht.
 
@@ -120,37 +144,37 @@ Behalve in het geval voorzien in artikel 5, tweede lid, verliest de Staat die in
 
 4. ledere Verdragsluitende Partij kan van de organisatoren verlangen dat zij haar alleen de uitnodigingen toestuurt die voor haar bestemd zijn. Zij kan zich er ook van onthouden de uitnodigingen of de wensen tot deelneming afkomstig van natuurlijke personen of rechtspersonen die niet zijn uitgenodigd, verder te geleiden.
 
-#### Artikel 12
+##### Artikel 12
 
 De uitnodigende Regering moet een algemene tentoonstellingscommissaris benoemen indien het een ingeschreven tentoonstelling betreft of een tentoonstellingscommissaris indien het een erkende tentoonstelling betreft die tot taak heeft haar te vertegenwoordigen ter zake van al hetgeen voortvloeit uit dit Verdrag en al hetgeen de tentoonstelling betreft.
 
-#### Artikel 13
+##### Artikel 13
 
 De Regering van iedere Staat die aan een tentoonstelling deelneemt, moet een algemene afdelingscommissaris benoemen indien het een ingeschreven tentoonstelling betreft of een afdelingscommissaris indien het een erkende tentoonstelling betreft die haar vertegenwoordigt bij de uitnodigende Regering. De algemene afdelingscommissaris of de afdelingscommissaris is als enige belast met de organisatie van de nationale inzending. Hij licht de algemene tentoonstellingscommissaris of de tentoonstellingscommissaris in over de samenstelling van de inzending en waakt over de naleving van de rechten en de verplichtingen van de exposanten.
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Het douanereglement voor tentoonstellingen is vastgesteld in een Bijlage bij dit Verdrag, die daarvan een integrerend deel uitmaakt.
 
-#### Artikel 17
+##### Artikel 17
 
 Op een tentoonstelling worden slechts als nationale afdelingen beschouwd en kunnen derhalve slechts onder deze benaming worden aangeduid de afdelingen die onder het gezag van de door de Regeringen van de deelnemende Staten overeenkomstig artikel 13 benoemde algemene commissarissen of commissarissen zijn ingericht. Een nationale afdeling omvat alle exposanten van de desbetreffende Staat, doch niet de concessionarissen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Op een tentoonstelling mag, ten einde een deelnemer of een groep van deelnemers aan te duiden, geen gebruik worden gemaakt van een aardrijkskundige benaming die betrekking heeft op een Verdragsluitende Partij, tenzij met toestemming van de algemene afdelingscommissaris of de afdelingscommissaris die de Regering van de desbetreffende Partij vertegenwoordigt.
 
 2. Indien een Verdragsluitende Partij niet aan een tentoonstelling deelneemt, waakt de algemene tentoonstellingscommissaris of de tentoonstellingscommissaris wat deze Verdragsluitende Partij betreft, over de bescherming waarin het voorgaande lid voorziet.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De in de nationale afdeling van een deelnemende Staat getoonde voortbrengselen dienen een nauwe relatie te hebben met deze Staat (bij voorbeeld objecten van oorsprong van zijn grondgebied of door zijn onderdanen gecreëerde voortbrengselen).
 
@@ -158,7 +182,7 @@ Op een tentoonstelling worden slechts als nationale afdelingen beschouwd en kunn
 
 3. In geval van onenigheid tussen deelnemende Staten in de gevallen voorzien in het eerste en het tweede lid, treedt het college van de algemene afdelingscommissarissen of de commissarissen arbitrerend op en doet uitspraak bij meerderheid van de stemmen van de aanwezige commissarissen. De uitspraak is onherroepelijk.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Tenzij voorschriften in de van kracht zijnde wetgeving van de uitnodigende Staat het tegenovergestelde bepalen, mag geen monopolie van welke aard ook worden toegestaan, anders dan wat de algemene diensten betreft, met op het tijdstip van de inschrijving of erkenning verleende toestemming van het Bureau. In dat geval zijn de organisatoren gehouden aan de volgende verplichtingen:
 
@@ -170,27 +194,27 @@ Op een tentoonstelling worden slechts als nationale afdelingen beschouwd en kunn
 
 2. De algemene tentoonstellingscommissaris of de tentoonstellingscommissaris neemt alle maatregelen opdat de tarieven welke aan de deelnemende Staten worden opgelegd, niet hoger zijn dan die, welke aan de organisatoren van de tentoonstelling worden opgelegd en zeker niet hoger dan de normale tarieven ter plaatse.
 
-#### Artikel 21
+##### Artikel 21
 
 De algemene tentoonstellingscommissaris of de tentoonstellingscommissaris neemt alle binnen zijn bereik liggende maatregelen om een doeltreffend functioneren van de diensten van openbaar nut binnen de tentoonstelling te verzekeren.
 
-#### Artikel 22
+##### Artikel 22
 
 De uitnodigende Regering tracht de organisatie van de deelneming van de Staten en hun onderdanen zoveel mogelijk te vergemakkelijken, met name ter zake van de vervoerstarieven en de toelatingsvoorwaarden van personen en objecten.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het algemene tentoonstellingsreglement moet aangeven, of, onafhankelijk van certificaten van deelneming die kunnen worden verleend, al dan niet aan de deelnemers bekroningen worden toegekend. Ingeval in bekroningen mocht zijn voorzien, kan de toekenning hiervan tot bepaalde categorieën worden beperkt.
 
 2. Voor de opening van de tentoonstelling kan elke deelnemer verklaren niet voor toekenning van bekroningen in aanmerking te willen komen.
 
-#### Artikel 24
+##### Artikel 24
 
 Het Internationale Tentoonstellingsbureau, bedoeld in het volgende Hoofdstuk, kan reglementen vaststellen waarin de algemene voorwaarden worden vastgelegd voor de samenstelling en de werkwijze van de jury's en voor de toekenning van bekroningen.
 
 ## HOOFDSTUK V. Institutionele bepalingen
 
-#### Artikel 25
+##### Artikel 25
 
 1. Er wordt een internationale organisatie ingesteld, Internationaal Tentoonstellingsbureau genaamd, belast met het toezicht op en de voorziening in de toepassing van dit Verdrag. De leden ervan zijn de Regeringen van de Verdragsluitende Partijen. De zetel van het Bureau is te Parijs gevestigd.
 
@@ -200,11 +224,11 @@ Het Internationale Tentoonstellingsbureau, bedoeld in het volgende Hoofdstuk, ka
 
 4. Het Bureau bestaat uit een Algemene Vergadering, een Voorzitter, een Uitvoerende Commissie, bijzondere commissies, evenveel Vice-Voorzitters als commissies, en een Secretariaat, dat onder gezag staat van een Secretaris-Generaal.
 
-#### Artikel 26
+##### Artikel 26
 
 De Algemene Vergadering van het Bureau bestaat uit de afgevaardigen die door de Regeringen van de Verdragsluitende Partijen zijn aangewezen, te weten een tot drie afgevaardigden voor elk van hen.
 
-#### Artikel 27
+##### Artikel 27
 
 De Algemene Vergadering houdt regelmatig zitting en kan eveneens buitengewone zittingen houden. Zij spreekt zich uit over alle vraagstukken waarvoor dit Verdrag de bevoegdheid heeft toegekend aan het Bureau, waarvan zij het hoogste gezagsorgaan is, en in het bijzonder:
 
@@ -222,7 +246,7 @@ De Algemene Vergadering houdt regelmatig zitting en kan eveneens buitengewone zi
 
 - g). benoemt zij de Secretaris-Generaal.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De Regering van iedere Verdragsluitende Partij beschikt, hoe groot het aantal van haar afgevaardigden ook zij, over een stem in de Algemene Vergadering. Haar stemrecht wordt echter geschorst, indien het totaal van de door haar verschuldigde bijdragen ingevolge artikel 32 het totaal te boven gaat van haar bijdragen die betrekking hebben op het lopende jaar en het voorafgaande jaar.
 
@@ -248,7 +272,7 @@ De Algemene Vergadering houdt regelmatig zitting en kan eveneens buitengewone zi
 
 - i). benoeming van de Secretaris-Generaal.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De Voorzitter wordt door de Algemene Vergadering bij geheime stemming voor een tijdvak van twee jaar uit de afgevaardigden van de Regeringen van de Verdragsluitende Partijen gekozen; hij vertegenwoordigt echter gedurende de duur van zijn mandaat niet meer de Staat waarvan hij onderdaan is. Hij is herkiesbaar.
 
@@ -256,7 +280,7 @@ De Algemene Vergadering houdt regelmatig zitting en kan eveneens buitengewone zi
 
 3. De Vice-Voorzitters worden uit de afgevaardigden van de Regeringen van de Verdragsluitende Partijen gekozen door de Algemene Vergadering, die de aard en de duur van hun mandaat vaststelt en met name de commissie aanwijst waarmede zij zijn belast.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De Uitvoerende Commissie bestaat uit afgevaardigden van de Regeringen van twaalf Verdragsluitende Partijen, te weten een afgevaardigde voor elk van hen.
 
@@ -270,7 +294,7 @@ De Algemene Vergadering houdt regelmatig zitting en kan eveneens buitengewone zi
 
 - d). kan het advies van andere commissies vragen.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De Secretaris-Generaal, die wordt benoemd volgens het bepaalde in artikel 28 van dit Verdrag, dient een onderdaan te zijn van een van de Verdragsluitende Partijen.
 
@@ -278,11 +302,11 @@ De Algemene Vergadering houdt regelmatig zitting en kan eveneens buitengewone zi
 
 3. De Algemene Vergadering bepaalt de andere bevoegdheden en plichten van de Secretaris-Generaal, alsmede zijn statuut.
 
-#### Artikel 32
+##### Artikel 32
 
 De jaarlijkse begroting van het Bureau wordt door de Algemene Vergadering vastgesteld volgens de voorwaarden voorzien in het derde lid van artikel 28. Daarbij wordt rekening gehouden met de financiële reserves van het Bureau, de inkomsten van welke aard dan ook, alsmede het debet en het credit met betrekking tot voorgaande boekjaren. De uitgaven van het Bureau worden uit deze middelen en uit de bijdragen van de Verdragsluitende Partijen gedekt volgens het aandeel dat hun ingevolge de besluiten van de Algemene Vergadering toevalt.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Iedere Verdragsluitende Partij kan een voorstel indienen tot wijziging van dit Verdrag. De tekst van het voorstel en de met redenen omklede motieven dienen te worden gericht aan de Secretaris-Generaal die ze op de kortst mogelijke termijn ter kennis brengt van de andere Verdragsluitende Partijen.
 
@@ -294,7 +318,7 @@ De jaarlijkse begroting van het Bureau wordt door de Algemene Vergadering vastge
 
 5. Wanneer de wijziging in werking treedt op de voorwaarden voorzien in het derde lid van dit artikel, kan iedere Verdragsluitende Partij die heeft geweigerd het te aanvaarden, zich desgewenst beroepen op het bepaalde in artikel 37.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Elk geschil tussen twee of meer Verdragsluitende Partijen betreffende de toepassing of de uitlegging van dit Verdrag dat niet kan worden geregeld door de autoriteiten die met beslissende bevoegdheid zijn bekleed ter zake van de toepassing van dit Verdrag, wordt een voorwerp van onderhandelingen tussen de Partijen bij het geschil.
 
@@ -312,11 +336,11 @@ De scheidslieden benoemen op hun beurt een voorzitter van het scheidsgerecht. In
 
 6. Iedere Verdragsluitende Partij die een voorbehoud heeft gemaakt overeenkomstig het bepaalde in het voorgaande lid, kan op elk moment dit voorbehoud intrekken door middel van een daartoe strekkende kennisgeving, gericht aan de depositaris.
 
-#### Artikel 35
+##### Artikel 35
 
 Dit Verdrag staat enerzijds open voor toetreding door elke Staat die hetzij lid is van de Verenigde Naties, hetzij geen lid is van de Verenigde Naties doch partij bij het Statuut van het Internationaal Gerechtshof, of lid van een Gespecialiseerde Organisatie van de Verenigde Naties, of lid van de Internationale Organisatie voor Atoomenergie en anderzijds, voor elke andere Staat waarvan de aanvraag tot toetreding met een meerderheid van twee derde van de stemmen van de Verdragsluitende Partijen met stemrecht in de Algemene Vergadering van het Bureau wordt goedgekeurd. De akte van toetreding dient te worden nedergelegd bij de Regering van de Franse Republiek en wordt van kracht op de datum van nederlegging.
 
-#### Artikel 36
+##### Artikel 36
 
 De Regering van de Franse Republiek brengt ter kennis van de Regeringen van de Staten die partij zijn bij dit Verdrag, alsmede van het Internationaal Tentoonstellingsbureau:
 
@@ -330,7 +354,7 @@ De Regering van de Franse Republiek brengt ter kennis van de Regeringen van de S
 
 - e). de eventuele beëindiging van het Verdrag.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Elke Verdragsluitende Partij kan dit Verdrag opzeggen door hiervan schriftelijk kennis te geven aan de Regering van de Franse Republiek.
 
@@ -340,7 +364,7 @@ De Regering van de Franse Republiek brengt ter kennis van de Regeringen van de S
 
 Onder voorbehoud van elke overeenkomst die tussen de Verdragsluitende Partijen wordt gesloten ter zake van de opheffing van het Bureau, is de Secretaris-Generaal belast met de liquidatie. De activa worden verdeeld tussen de Verdragsluitende Partijen naar evenredigheid van de gestorte bedragen sedert zij partij werden bij dit Verdrag. Indien er een passief bestaat, wordt dit ten laste gebracht van dezelfde Partijen naar evenredigheid van de bijdragen die zijn vastgesteld voor het lopende boekjaar.
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -348,7 +372,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - b). „tijdelijke invoer”: de tijdelijke invoer met vrijdom van invoerrechten en zonder toepassing van invoerverboden en -beperkingen, onder voorwaarde van wederuitvoer.
 
-#### Artikel 2
+##### Artikel 2
 
 Tijdelijke invoer wordt toegestaan voor:
 
@@ -366,7 +390,7 @@ Tijdelijke invoer wordt toegestaan voor:
 
 - c). Het materiaal - waaronder begrepen vertaalinstallaties, apparatuur voor geluidsopnamen en films met een opvoedkundig, wetenschappelijk of cultureel karakter - bestemd voor gebruik tijdens de tentoonstelling.
 
-#### Artikel 3
+##### Artikel 3
 
 De in artikel 2 van deze Bijlage bedoelde faciliteiten worden verleend op voorwaarde dat:
 
@@ -376,11 +400,11 @@ De in artikel 2 van deze Bijlage bedoelde faciliteiten worden verleend op voorwa
 
 - c). de douaneautoriteiten van het land van tijdelijke invoer van mening zijn dat aan de in deze Bijlage gestelde voorwaarden is voldaan.
 
-#### Artikel 4
+##### Artikel 4
 
 Zolang de waren die tijdelijk worden toegelaten de faciliteiten genieten waarin deze Bijlage voorziet, mogen zij niet worden uitgeleend, verhuurd, of tegen betaling worden gebruikt en evenmin buiten de plaats van de tentoonstelling worden gebracht, tenzij zulks krachtens de wetten en regelingen van het land van tijdelijke invoer is toegestaan. Zij dienen op de kortst mogelijke termijn te worden heruitgevoerd, uiterlijk drie maanden na de sluiting van de tentoonstelling. De douaneautoriteiten kunnen, indien geldige redenen daartoe nopen, deze periode verlengen binnen de grenzen, omschreven door de wetten en regelingen van het land van tijdelijke invoer.
 
-#### Artikel 5
+##### Artikel 5
 
 a. Niettegenstaande de verplichting van wederuitvoer, voorzien in artikel 4, is de wederuitvoer van bederfelijke goederen, ernstig beschadigde goederen of goederen van geringe waarde niet vereist, op voorwaarde dat zij volgens de beslissing van de douaneautoriteiten:
 
@@ -394,11 +418,11 @@ De verplichting tot wederuitvoer is echter niet van toepassing op goederen van w
 
 b. De goederen die tijdelijk mogen worden ingevoerd, kunnen een andere bestemming krijgen dan wederuitvoer en in het bijzonder worden bestemd voor binnenlands gebruik, mits wordt voldaan aan de voorwaarden en formaliteiten die krachtens de wetten en regelingen van het land van tijdelijke invoer worden toegepast alsof zij rechtstreeks uit het buitenland waren ingevoerd.
 
-#### Artikel 6
+##### Artikel 6
 
 De bijprodukten die tijdens de tentoonstelling worden verkregen uit tijdelijk geïmporteerde goederen bij het demonstreren van tentoongestelde machines of apparatuur, zijn, op dezelfde wijze als wanneer zij tijdelijk zouden zijn ingevoerd, onderworpen aan het bepaalde in de artikelen 4 en 5 van deze Bijlage, behoudens het bepaalde in artikel 7.
 
-#### Artikel 7
+##### Artikel 7
 
 De invoerrechten worden niet geheven, de invoerverboden of -beperkingen zijn niet van toepassing en, indien tijdelijke invoer is toegestaan, wordt de wederuitvoer niet vereist in de volgende gevallen, mits de totale waarde en de omvang van de goederen naar de mening van de douaneautoriteiten van het land van invoer redelijk zijn, waarbij rekening wordt gehouden met de aard van de tentoonstelling, het aantal bezoekers en het belang van de deelneming van de exposant:
 
@@ -418,7 +442,7 @@ De invoerrechten worden niet geheven, de invoerverboden of -beperkingen zijn nie
 
 - d). van drukwerken, catalogi, prospectussen, prijscouranten, affiches, kalenders (al dan niet verlucht) en niet ingelijste foto's, die klaarblijkelijk zijn bestemd om te worden gebruikt voor reclamedoeleinden voor buitenlandse waren die op de tentoonstelling worden getoond, mits het buitenlandse produkten betreft die om niet worden verstrekt en die uitsluitend dienen voor gratis uitdeling aan het publiek op de tentoonstelling.
 
-#### Artikel 8
+##### Artikel 8
 
 De invoerrechten worden niet geheven, de invoerverboden en -beperkingen zijn niet van toepassing en, indien tijdelijke invoer is toegestaan, wordt de wederuitvoer niet vereist in de volgende gevallen:
 
@@ -428,7 +452,7 @@ De invoerrechten worden niet geheven, de invoerverboden en -beperkingen zijn nie
 
 - c). van kaarten, tekeningen, dossiers, archieven, formulieren en andere documenten die bestemd zijn als zodanig te worden gebruikt bij de tentoonstelling.
 
-#### Artikel 9
+##### Artikel 9
 
 a). Zowel bij binnenkomst als bij vertrek geschieden de verificatie en de aangifte van waren die worden of zijn getoond of gebruikt op een tentoonstelling in alle gevallen waarin zulks mogelijk en ter zake dienende is, op de plaats van de tentoonstelling.
 
@@ -436,7 +460,7 @@ b). Iedere Verdragsluitende Partij streeft er in alle gevallen waarin zij zulks 
 
 c). De wederuitvoer van goederen die tijdelijk waren toegelaten kan in eenmaal of in gedeelten geschieden, en wel via elk douanekantoor dat hiervoor is opengesteld, ook indien het een ander kantoor is dan het kantoor van invoer, behalve indien de importeur zich omwille van een vereenvoudigde procedure heeft verbonden de goederen weder uit te voeren via het kantoor van invoer.
 
-#### Artikel 10
+##### Artikel 10
 
 De voorgaande bepalingen vormen geen belemmering voor de toepassing van:
 
@@ -446,7 +470,7 @@ De voorgaande bepalingen vormen geen belemmering voor de toepassing van:
 
 - c). verboden en beperkingen die voortvloeien uit nationale wetten en regelingen en die gebaseerd zijn op overwegingen van openbare zeden en openbare orde, openbare veiligheid, hygiëne en volksgezondheid of op overwegingen van veeartsenijkundige of fytopathologische aard, of betrekking hebbend op de bescherming van octrooien, fabrieksmerken, auteursrechten en rechten van vermenigvuldiging.
 
-#### Artikel 11
+##### Artikel 11
 
 Voor de toepassing van deze Bijlage worden de grondgebieden van Verdragsluitende landen die een douane-unie of een economische unie vormen, beschouwd als een enkel grondgebied.
 

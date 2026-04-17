@@ -1,13 +1,36 @@
 ---
-title: "Beleidsregel nationale goedkeuring mobiele machines"
+title: "Beleidsregel van de directie van de Dienst Wegverkeer van 1 januari 2025 betreffende de verlening van nationale typegoedkeuring en individuele goedkeuring van mobiele machines (Beleidsregel nationale goedkeuring mobiele machines)"
 identifier: "BWBR0050646"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050646"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050646"
+soort: "zbo"
+stam_id: "17333893"
+version_id: "30545152"
+internal_id: "C43782651"
+label_id: "17238364"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050646/2025-01-01/0"
+intitule_bron: "Stcrt.2024-43011"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-12-31"
+intitule_in_force: "2024-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-43011"
+original_published_date: "2024-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-43011"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050646&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050646&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel nationale goedkeuring mobiele machines"
+entry_into_force: "2025-01-01"
 ---
-
 # Beleidsregel van de directie van de Dienst Wegverkeer van 1 januari 2025 betreffende de verlening van nationale typegoedkeuring en individuele goedkeuring van mobiele machines (Beleidsregel nationale goedkeuring mobiele machines)
 
 Gelet op [artikel 4b, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4b) en [hoofdstuk III van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&hoofdstuk=III) en de [artikelen 3.6.0.](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.6.0), [3.6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.6.1) en [3.6.3, tweede lid van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.6.3);
@@ -16,11 +39,11 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. Begrippen in besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de Europese Unie
+##### Artikel 1. Begrippen in besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de Europese Unie
 
 In deze beleidsregel zijn de begripsbepalingen van [Verordening (EU) nr. 167/2013](32013R0167) van overeenkomstige toepassing. Dit geldt ook voor daarop gebaseerde gedelegeerde verordeningen en van de VN/ECE Reglementen zoals vermeld in de [artikelen 3.6.0](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.6.0), [3.6.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.6.1) en [3.6.3 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.6.3), en de [Wegenverkeerswet 1994](onbekend).
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 In aanvulling op [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050646&hoofdstuk=1&artikel=1&z=2025-01-01&g=2025-01-01) wordt in deze beleidsregel verstaan onder:
 
@@ -52,11 +75,11 @@ In aanvulling op [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050646&hoo
 
 ### Hoofdstuk 2. Algemene bepalingen aanvraag en beoordeling
 
-#### Artikel 3. Aanvraag individuele goedkeuring
+##### Artikel 3. Aanvraag individuele goedkeuring
 
 Een aanvraag voor een individuele goedkeuring wordt bij de RDW ingediend door middel van een door de RDW vastgesteld aanvraagformulier individuele goedkeuring mobiele machine. De actuele versie daarvan is gepubliceerd op de website van de RDW.
 
-#### Artikel 4. Aanvraag typegoedkeuring
+##### Artikel 4. Aanvraag typegoedkeuring
 
 1. Een aanvraag voor een typegoedkeuring mobiele machines wordt bij de RDW ingediend door middel van een door de RDW vastgesteld aanvraagformulier typegoedkeuring. De actuele versie daarvan is gepubliceerd op de website van de RDW.
 
@@ -70,7 +93,7 @@ Een aanvraag voor een individuele goedkeuring wordt bij de RDW ingediend door mi
 
 6. Indien de marktdeelnemer de benodigde tests door de RDW wil laten uitvoeren dient het formulier ‘Product assessment’ te worden ingevuld en ingediend bij RDW. De actuele versie daarvan is gepubliceerd op de website van de RDW.
 
-#### Artikel 5. Behandeling aanvraag typegoedkeuring
+##### Artikel 5. Behandeling aanvraag typegoedkeuring
 
 1. Voor het in behandeling nemen van de aanvraag vraagt de RDW naast een volledig ingevuld aanvraagformulier de volgende documenten:
 
@@ -84,7 +107,7 @@ Een aanvraag voor een individuele goedkeuring wordt bij de RDW ingediend door mi
 
 3. Als de aanvraag niet volledig is verzoekt RDW om de aanvraag aan te vullen binnen een termijn van twee weken. Als die termijn ongebruikt verstrijkt zal de aanvraag niet inhoudelijk worden behandeld.
 
-#### Artikel 6. Eerste beoordeling
+##### Artikel 6. Eerste beoordeling
 
 1. De RDW deelt de rapportage met resultaten van de uitgevoerde administratieve documentbeoordeling met de fabrikant en bevestigt een positieve beoordeling door middel van een e-mailbericht.
 
@@ -102,7 +125,7 @@ Een aanvraag voor een individuele goedkeuring wordt bij de RDW ingediend door mi
 
 8. De eerste beoordeling wordt negatief beoordeeld wanneer de fabrikant corrigerende maatregelen niet binnen drie maanden heeft getroffen of gecommuniceerd naar de RDW, of wanneer de fabrikant na twee pogingen na de eerste aanvraag de afwijkingen niet heeft verholpen.
 
-#### Artikel 7. Uitgangspunten beoordeling mobiele machine
+##### Artikel 7. Uitgangspunten beoordeling mobiele machine
 
 1. Indien een goedkeuringsdocumentatie wordt overgelegd waaruit blijkt dat een bepaald voorschrift op basis van een andere of buitenlandse norm is goedgekeurd, kan de RDW besluiten dat met die goedkeuring deels of geheel aan de gestelde goedkeuringseis is voldaan. De aanvrager van de goedkeuring dient hiertoe inhoudelijke informatie over de gehanteerde eisen van deze norm aan te leveren, op grond waarvan RDW beoordeelt of die norm minimaal gelijkwaardige goedkeuringseisen stelt.
 
@@ -110,11 +133,11 @@ Een aanvraag voor een individuele goedkeuring wordt bij de RDW ingediend door mi
 
 3. Indien een geldig (deel-)certificaat wordt overgelegd, is voldaan aan de goedkeuringseis voor het onderwerp dat wordt afgedekt door dit betreffende (deel-)certificaat. Bij twijfel aan de geldigheid of juistheid van het betreffende (deel-)certificaat, stelt de RDW nader onderzoek in. De aanvrager is gehouden tot volledige medewerking aan dit onderzoek.
 
-#### Artikel 8. Beslissing op de Aanvraag typegoedkeuring
+##### Artikel 8. Beslissing op de Aanvraag typegoedkeuring
 
 Bij verlening van een goedkeuring wordt het goedkeuringscertificaat toegezonden conform de bij de RDW vastgelegde modellen voor typegoedkeuringscertificaten.
 
-#### Artikel 9. Voertaal typegoedkeuring
+##### Artikel 9. Voertaal typegoedkeuring
 
 1. Schriftelijke en mondelinge communicatie tussen de RDW en de marktdeelnemer vindt plaats in de Nederlandse taal.
 
@@ -122,7 +145,7 @@ Bij verlening van een goedkeuring wordt het goedkeuringscertificaat toegezonden 
 
 3. Uitsluitend met schriftelijke instemming van de RDW kan op verzoek van de aanvrager de voertaal Engels zijn. Het bepaalde in het tweede lid van dit artikel is in dat geval van overeenkomstige toepassing.
 
-#### Artikel 10. Kosten aanvraag en toezicht typegoedkeuring
+##### Artikel 10. Kosten aanvraag en toezicht typegoedkeuring
 
 1. De kosten voor de behandeling van de aanvraag en het toezicht worden achteraf in rekening gebracht bij de aanvrager conform de geldende [Regeling tarieven Dienst Wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0050531) en met inachtneming van [artikel 28, tweede lid van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=28).
 
@@ -130,7 +153,7 @@ Bij verlening van een goedkeuring wordt het goedkeuringscertificaat toegezonden 
 
 ### Hoofdstuk 3. Toezicht nationale typegoedkeuring mobiele machine
 
-#### Artikel 11. Wijze en frequentie toezicht
+##### Artikel 11. Wijze en frequentie toezicht
 
 1. De RDW houdt toezicht op de fabrikanten in relatie met door de RDW verleende typegoedkeuring. De RDW doet dit door middel van respectievelijk document beoordeling, audits en zo nodig productbeoordeling.
 
@@ -152,7 +175,7 @@ Bij verlening van een goedkeuring wordt het goedkeuringscertificaat toegezonden 
 
 10. Audits kunnen in opdracht van de RDW worden uitgevoerd door hiervoor door de RDW aangewezen uitbestedingspartners of technische diensten categorie C.
 
-#### Artikel 12. Planning toezicht
+##### Artikel 12. Planning toezicht
 
 1. De RDW stelt de audit datum eenzijdig vast en informeert de fabrikant tijdig hierover per e-mail.
 
@@ -162,13 +185,13 @@ Bij verlening van een goedkeuring wordt het goedkeuringscertificaat toegezonden 
 
 4. Indien een audit niet kan worden uitgevoerd door toedoen van de fabrikant, of wegens een omstandigheid die aan de fabrikant dient te worden toegerekend, worden alle reeds gemaakte kosten in rekening gebracht. Dit geldt niet als de RDW wegens omstandigheden die voor zijn rekening komt de audit annuleert.
 
-#### Artikel 13. Planning toezicht CoP erkende fabrikanten
+##### Artikel 13. Planning toezicht CoP erkende fabrikanten
 
 1. Voorafgaand aan het passeren van de datum einde geldigheid van de ‘Verklaring van overeenstemming’ informeert de RDW of de uitbestedingspartner/technische dienst categorie C de fabrikant die reeds een procedure voor een eerste beoordeling heeft doorlopen en in zoverre door de RDW is erkend, per e-mail tijdig wanneer de audit zal plaatsvinden. De fabrikant dient deze datum binnen 2 weken te bevestigen.
 
 2. Indien een audit niet kan worden uitgevoerd wegens onvoorziene omstandigheden is het bepaalde in [artikel 12, lid 1, 2 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050646&hoofdstuk=3&artikel=12&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing.
 
-#### Artikel 14. Uitvoering audit
+##### Artikel 14. Uitvoering audit
 
 1. Audits worden uitgevoerd door respectievelijk inspecteurs van de RDW, auditeurs van uitbestedingspartners of door auditeurs van technische diensten categorie C.
 
@@ -188,7 +211,7 @@ Bij verlening van een goedkeuring wordt het goedkeuringscertificaat toegezonden 
 
 ### Hoofdstuk 4. Sancties en einde geldigheid typegoedkeuring
 
-#### Artikel 15. Samenloop herstellende en disciplinaire sancties
+##### Artikel 15. Samenloop herstellende en disciplinaire sancties
 
 1. De RDW kan een typegoedkeuring schorsen of intrekken afhankelijk van de ernst en aard van de overtreding.
 
@@ -196,7 +219,7 @@ Bij verlening van een goedkeuring wordt het goedkeuringscertificaat toegezonden 
 
 3. Naast herstelsancties kan RDW een bestraffende sancties opleggen aan de fabrikant in de vorm van een bestuurlijke boete, overeenkomstig [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=25), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=27) en [29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=29) of [artikel 30, derde lid van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=30).
 
-#### Artikel 16. Einde geldigheid typegoedkeuring
+##### Artikel 16. Einde geldigheid typegoedkeuring
 
 1. Een intrekking van de goedkeuring geldt in beginsel voor onbepaalde tijd.
 
@@ -252,7 +275,7 @@ Bij verlening van een goedkeuring wordt het goedkeuringscertificaat toegezonden 
 
 ### Hoofdstuk 5. Wijzigingen aan een nationale typegoedkeuring
 
-#### Artikel 17. Contactpersonen
+##### Artikel 17. Contactpersonen
 
 1. De fabrikant is verantwoordelijk voor het actueel houden van de contactgegevens die hij aan de RDW heeft doorgegeven. Wijzigingen worden onmiddellijk, maar uiterlijk binnen vijf werkdagen, door de fabrikant doorgegeven via het emailadres cop@rdw.nl.
 
@@ -260,17 +283,17 @@ Bij verlening van een goedkeuring wordt het goedkeuringscertificaat toegezonden 
 
 3. De fabrikant stelt daarnaast een contactpersoon aan die binnen zijn organisatie als verantwoordelijke voor alle CoP aspecten wordt aangesproken. Dit mag dezelfde persoon zijn als de CoP-contactpersoon.
 
-#### Artikel 18. Meldings-en aanvraagformulieren voor wijzigingen
+##### Artikel 18. Meldings-en aanvraagformulieren voor wijzigingen
 
 1. Voor het melden van wijzigingen die de fabrikant volgens de toepasselijke wetgeving aan de RDW moet doorgeven, moet gebruik worden gemaakt van het eerdergenoemde CoP-formulier als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050646&hoofdstuk=2&artikel=4&z=2025-01-01&g=2025-01-01).
 
 2. Mocht de wijziging naar het oordeel van de RDW aanleiding geven tot een herziening of uitbreiding van het Typegoedkeuringscertificaat of de daar toebehorende documenten, dan wel het ontstaan van een nieuw type, dan laat RDW dat weten, en dan moet de fabrikant dit aanvragen met het aanvraagformulier te vinden op de website van de RDW.
 
-#### Artikel 19. Verzoek overdracht Typegoedkeuringen
+##### Artikel 19. Verzoek overdracht Typegoedkeuringen
 
 Een Typegoedkeuring is een (vermogens)recht dat niet kan worden overgedragen. Als de fabrikant van naam wijzigt, wijzigt volgens de voertuigregelgeving het type eveneens. De bestaande Typegoedkeuring kan mede daardoor niet meer worden gebruikt voor de productie. In dat geval moet RDW volgens die regelgeving de Typegoedkeuringen intrekken. De RDW willigt verzoeken voor overdracht daarom niet in.
 
-#### Artikel 20. Fusie en andere wijzigingen rechtsvorm fabrikant
+##### Artikel 20. Fusie en andere wijzigingen rechtsvorm fabrikant
 
 1. De RDW kan van de voorwaarden van het in 3.4.3 gestelde afwijken in het geval van een fusie of wijziging in de rechtsvorm van de fabrikant aan wie de Typegoedkeuring is verleend. Deze fabrikant is verplicht zo spoedig mogelijk een aanvraag in te dienen voor de aanpassing van de typegoedkeuring(en).
 
@@ -278,31 +301,31 @@ Een Typegoedkeuring is een (vermogens)recht dat niet kan worden overgedragen. Al
 
 ### Hoofdstuk 6. Beoordeling alternatieve voorschriften
 
-#### Artikel 21. Vrijstelling massa’s en afmetingen
+##### Artikel 21. Vrijstelling massa’s en afmetingen
 
 Vrijstelling van de eisen over afmetingen en massa’s worden enkel verleend op grond van de [Regeling vrijstelling goedkeuring afmetingen en massa’s landbouw- of bosbouwvoertuigen en mobiele machines](https://wetten.overheid.nl/jci1.3:c:BWBR0046249).
 
-#### Artikel 22. Toepassingsgebied wetgeving
+##### Artikel 22. Toepassingsgebied wetgeving
 
 Indien in een alternatief voorschrift is verwezen naar een bepaalde richtlijn, verordening of reglement dan is het toepassingsgebied daaruit van toepassing, tenzij in het alternatieve voorschrift daarvoor een expliciete uitzondering is gemaakt.
 
-#### Artikel 23. Informatie van de fabrikant
+##### Artikel 23. Informatie van de fabrikant
 
 De fabrikant dient de voor het uitvoeren van de testen benodigde informatie aan te leveren. Indien in een eis vanuit een verordening, richtlijn of reglement informatie is vermeld die verstrekt moet worden in het kader van een typegoedkeuring, dan geldt dat niet voor een individuele goedkeuring.
 
-#### Artikel 24. Nieuwe wijziging verordening/reglement
+##### Artikel 24. Nieuwe wijziging verordening/reglement
 
 1. Bij een wijziging van wetgeving van de onder ‘basis’ aangeduide regelgeving in de alternatieve voorschriften na de vermelde versiedatum, kan RDW de mobiele machine toetsen aan de relevante gewijzigde regelgeving.
 
 2. Indien wetgeving in een alternatief voorschrift over een bepaald onderwerp geen eisen bevat met betrekking tot complexe elektronische systemen of geavanceerde bestuurder ondersteunende functies en het voertuig om die reden niet voldoet aan het vereiste niveau van een toepasselijk alternatief voorschrift, dan kan RDW, indien wetgeving op het moment van de aanvraag wel voorziet in eisen voor dergelijke systemen en functies, het onderwerp toetsen aan alle relevante voorschriften uit geldende wetgeving, aangevuld met de relevante artikelen die volgens het betreffende alternatieve voorschrift moeten worden beoordeeld.
 
-#### Artikel 25. Wijziging in de goedkeuring van voertuigen
+##### Artikel 25. Wijziging in de goedkeuring van voertuigen
 
 1. Een seriematig geproduceerd voertuig dat is gewijzigd, wordt voor wat betreft de onderwerpen die door de wijziging zijn geraakt beschouwd als zijnde een niet-seriematig geproduceerd voertuig, met uitzondering van het onderwerp emissies. In het onderwerp emissies is de handelwijze beschreven.
 
 2. De onderwerpen die niet geraakt zijn door de wijziging worden geacht nog te voldoen aan de van toepassing zijnde voorschriften die gelden voor het seriematig geproduceerde voertuig.
 
-#### Artikel 26. Documentatie voertuigfabrikant of buitenlandse toelatingsautoriteit
+##### Artikel 26. Documentatie voertuigfabrikant of buitenlandse toelatingsautoriteit
 
 1. Met documentatie van de voertuigfabrikant of van de buitenlandse toelatingsautoriteit kan worden aangetoond dat is voldaan aan een alternatief voorschrift.
 
@@ -310,17 +333,17 @@ De fabrikant dient de voor het uitvoeren van de testen benodigde informatie aan 
 
 3. De beoordeling van de geschiktheid van de documenten voor het aantonen van het voldoen aan het vereiste is aan de RDW.
 
-#### Artikel 27. Berekening
+##### Artikel 27. Berekening
 
 1. Indien wordt aangegeven dat een berekening is toegestaan, dan dient de aanvrager deze berekening op te stellen en te overleggen. De RDW beoordeelt de berekening en bepaalt of deze berekening acceptabel is.
 
 2. In het geval van sterkteberekeningen wordt gebruikt moet het wiskundige model ten opzichte van de werkelijke testomstandigheden worden gevalideerd, tenzij de optredende spanningen in het model de vloei-/rekgrens van de toegepaste materialen niet overschrijden.
 
-#### Artikel 28. Goedkeuringscertificaat
+##### Artikel 28. Goedkeuringscertificaat
 
 Indien een geldig goedkeuringscertificaat inclusief betreffende informatie en documentatie door de houder van de goedkeuring van toepassing wordt verklaard, is mogelijk voldaan aan het alternatieve voorschrift. De RDW beoordeelt of het goedkeuringscertificaat acceptabel is.
 
-#### Artikel 29. Algemene veiligheid
+##### Artikel 29. Algemene veiligheid
 
 1. De RDW kan de goedkeuring van een voertuig overeenkomstig [artikel 23 Wegeverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=23) weigeren indien naar het oordeel van RDW sprake is van:
 
@@ -334,7 +357,7 @@ Indien een geldig goedkeuringscertificaat inclusief betreffende informatie en do
 
 ### Hoofdstuk 7. Alternatieve voorschriften
 
-#### Artikel 30. Voorschrift Machines
+##### Artikel 30. Voorschrift Machines
 
 Versie 1 januari 2025
 
@@ -382,7 +405,7 @@ Visuele controle, bij twijfel moet een verklaring van de oorspronkelijke fabrika
 
 –
 
-#### Artikel 31. Voorschrift Emissiegrenswaarden voor verontreinigende gassen en deeltjes
+##### Artikel 31. Voorschrift Emissiegrenswaarden voor verontreinigende gassen en deeltjes
 
 Versie 1 januari 2025
 
@@ -440,7 +463,7 @@ In afwijking van bovenstaande wordt voor individuele goedkeuring geacht te zijn 
 
 In bijlage XIII van [Verordening (EU) 2017/654](32017R0654) is de erkenning van gelijkwaardige goedkeuringen voor motoren opgenomen.
 
-#### Artikel 32. Voorschrift Voorgeschreven platen en opschriften
+##### Artikel 32. Voorschrift Voorgeschreven platen en opschriften
 
 Versie 1 januari 2025
 
@@ -534,7 +557,7 @@ Visuele controle, zo nodig meten.
 
 –
 
-#### Artikel 33. Voorschrift Vloeibaar petroleumgas (LPG)
+##### Artikel 33. Voorschrift Vloeibaar petroleumgas (LPG)
 
 Versie 1 januari 2025
 
@@ -588,7 +611,7 @@ Visuele controle en uitvoeren vereiste testen.
 
 –
 
-#### Artikel 34. Voorschrift Elektrische aandrijflijn
+##### Artikel 34. Voorschrift Elektrische aandrijflijn
 
 Versie 1 januari 2025
 
@@ -634,7 +657,7 @@ In het geval het een seriematig geproduceerde mobiele machine betreft wordt deze
 
 –
 
-#### Artikel 35. Voorschrift Gecomprimeerd aardgas (CNG) en/of vloeibaar aardgas (LNG)
+##### Artikel 35. Voorschrift Gecomprimeerd aardgas (CNG) en/of vloeibaar aardgas (LNG)
 
 Versie 1 januari 2025
 
@@ -706,7 +729,7 @@ Visuele controle en uitvoeren vereiste testen.
 
 –
 
-#### Artikel 36. Voorschrift Bevestiging LPG-, CNG- en LNG-tank
+##### Artikel 36. Voorschrift Bevestiging LPG-, CNG- en LNG-tank
 
 Versie 1 januari 2025
 
@@ -738,7 +761,7 @@ Visuele controle en uitvoeren vereiste testen.
 
 –
 
-#### Artikel 37. Voorschrift Gezichtsveld
+##### Artikel 37. Voorschrift Gezichtsveld
 
 Versie 1 januari 2025
 
@@ -878,7 +901,7 @@ De wijze van keuren als vermeld in de [Regeling voertuigen artikel 5.7a.45](http
 
 –
 
-#### Artikel 38. Voorschrift Waterstof
+##### Artikel 38. Voorschrift Waterstof
 
 Versie 1 januari 2025
 
@@ -918,7 +941,7 @@ In afwijking van de vereiste testen is een berekening toegestaan.
 
 –
 
-#### Artikel 39. Voorschrift Signalisatieborden en signalisatiefolie
+##### Artikel 39. Voorschrift Signalisatieborden en signalisatiefolie
 
 Versie 1 januari 2025
 
@@ -968,11 +991,11 @@ Visuele controle en uitvoeren vereiste testen.
 
 ### Slotbepalingen
 
-#### Artikel 40. Inwerkingtreding
+##### Artikel 40. Inwerkingtreding
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel nationale goedkeuring mobiele machines.
 
-#### Artikel 41. Citeertitel
+##### Artikel 41. Citeertitel
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2025.
 

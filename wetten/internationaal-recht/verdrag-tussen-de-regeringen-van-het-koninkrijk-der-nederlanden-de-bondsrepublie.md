@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen de Regeringen van het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake samenwerking op het gebied van ultracentrifugetechnologie"
 identifier: "BWBV0001810"
-categorie: "Internationaal recht"
-publicatiedatum: 2006-07-01
-laatste_update: 2005-07-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001810"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-07-01"
+last_updated: "2005-07-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001810"
+soort: "verdrag"
+stam_id: "10002525633"
+version_id: "10002512682"
+internal_id: "C10006997021"
+label_id: "10002515244"
+dtd_version: "2.0"
+original_entry_into_force: "2006-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001810/2006-07-01/0"
+intitule_bron: "Trb.2005-266"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-06-23"
+intitule_published: "2005-09-12"
+intitule_in_force: "2006-12-21"
+intitule_status: "goed"
+original_publication: "Trb.2005-266"
+original_signed_date: "2006-06-23"
+original_published_date: "2005-09-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2005-266"
+entry_into_force_date: "2006-07-01"
+jci_1_3: "jci1.3:c:BWBV0001810&z=2006-07-01&g=2006-07-01"
+jci_1_0: "1.0:c:BWBV0001810&g=2006-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "2006-06-23"
+entry_into_force: "2006-07-01"
 ---
-
 # Verdrag tussen de Regeringen van het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake samenwerking op het gebied van ultracentrifugetechnologie
 
 De Regering van het Koninkrijk der Nederlanden, de Regering van de Bondsrepubliek Duitsland, de Regering van de Franse Republiek, de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (hierna te noemen „de Vier Regeringen");
@@ -44,7 +69,7 @@ Gezien de doelstelling van de Commissie van de Europese Gemeenschappen zoals ver
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I. Begripsomschrijvingen
+##### Artikel I. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt, tenzij daarin anders wordt bepaald, verstaan onder:
 
@@ -66,7 +91,7 @@ Voor de toepassing van dit Verdrag wordt, tenzij daarin anders wordt bepaald, ve
 
 - i. "Akten", de rechtsbescheiden inzake de oprichting van ETC.
 
-#### Artikel II. Reikwijdte
+##### Artikel II. Reikwijdte
 
 1. De Vier Regeringen houden toezicht op de samenwerking tussen Urenco en Areva binnen ETC overeenkomstig de bepalingen van dit Verdrag met betrekking tot het gebruik en de beveiliging van ultracentrifugetechnologie.
 
@@ -94,7 +119,7 @@ Voor de toepassing van dit Verdrag wordt, tenzij daarin anders wordt bepaald, ve
 
 11. De Bijlagen I en II maken een integrerend deel uit van dit Verdrag.
 
-#### Artikel III. Quadripartiete Commissie
+##### Artikel III. Quadripartiete Commissie
 
 1. Teneinde te voorzien in een doeltreffend toezicht door de Vier Regeringen op de in artikel II beschreven samenwerking tussen Urenco en Areva, wordt een Quadripartiete Commissie ingesteld.
 
@@ -128,13 +153,13 @@ Voor de toepassing van dit Verdrag wordt, tenzij daarin anders wordt bepaald, ve
 
 6. De Quadripartiete Commissie kan te allen tijde aan ETC richtlijnen geven ingevolge door de Commissie krachtens het vijfde lid van dit artikel genomen beslissingen; ETC heeft de plicht deze richtlijnen ten uitvoer te leggen.
 
-#### Artikel IV. Vreedzaam gebruik
+##### Artikel IV. Vreedzaam gebruik
 
 1. De Vier Regeringen verbinden zich gezamenlijk en ieder voor zich te waarborgen, in overeenstemming met het NPV, dat elke ultracentrifugetechnologie, die aan hen ter beschikking zou staan ten behoeve van of als gevolg van de in artikel II beschreven samenwerking, op geen enkele wijze zal worden gebruikt om een niet-kernwapenstaat te helpen, aan te moedigen of ertoe te bewegen kernwapens of andere nucleaire explosiemiddelen te vervaardigen of anderszins te verkrijgen of de beschikkingsmacht over dergelijke kernwapens of nucleaire explosiemiddelen te verkrijgen. Voor de toepassing van dit lid betekent de uitdrukking „niet-kernwapenstaat" een Staat, daaronder begrepen elke door dit Verdrag gebonden Staat, die vóór 1 januari 1967 geen kernwapen of ander nucleair explosiemiddel heeft vervaardigd en tot ontploffing heeft gebracht.
 
 2. De Regering van de Franse Republiek waarborgt dat elke organisatie die op het grondgebied van de Franse Republiek fabrieken bouwt voor de verrijking van uranium en gebruik maakt van ultracentrifugetechnologie, of deze anderszins exploiteert, die eigendom is van, in het bezit is van, afkomstig is van of voortvloeit uit activiteiten van ETC, of die dergelijke fabrieken exploiteert, geen voor de vervaardiging van wapens geschikt uranium ten behoeve van het vervaardigen van kernwapens of andere nucleaire explosiemiddelen produceert.
 
-#### Artikel V. Toepassing van internationale waarborgen
+##### Artikel V. Toepassing van internationale waarborgen
 
 1. Ten behoeve van de verificatie van de nakoming van de in artikel IV neergelegde verbintenissen, worden procedures voor veiligheidscontrole toegepast die verenigbaar zijn met de internationale verplichtingen van de Vier Regeringen.
 
@@ -142,11 +167,11 @@ Voor de toepassing van dit Verdrag wordt, tenzij daarin anders wordt bepaald, ve
 
 3. De Quadripartiete Commissie treft alle voor de tenuitvoerlegging van dit artikel noodzakelijke voorzieningen.
 
-#### Artikel VI. Fysieke beveiliging
+##### Artikel VI. Fysieke beveiliging
 
 Nucleair materiaal dat gebruikt of geproduceerd wordt als gevolg van de in artikel II beschreven samenwerking is te allen tijde onderworpen aan adequate maatregelen voor fysieke beveiliging die ten minste aan de niveaus voldoen zoals vervat in Bijlage C bij de Richtlijnen voor nucleaire overdrachten.
 
-#### Artikel VII. Beveiliging van gerubriceerde gegevens
+##### Artikel VII. Beveiliging van gerubriceerde gegevens
 
 1. De Vier Regeringen nemen alle geëigende maatregelen in overeenstemming met hun internationale verplichtingen en hun nationale wet- en regelgeving ter beveiliging van alle gegevens die eigendom zijn van, in het bezit zijn van, afkomstig zijn van of voortvloeien uit activiteiten van ETC, die vanuit het oogpunt van niet-verspreiding gerubriceerd zijn.
 
@@ -158,7 +183,7 @@ Nucleair materiaal dat gebruikt of geproduceerd wordt als gevolg van de in artik
 
 5. De betrokken Nationale Instantie onderzoekt elk in het vierde lid van dit artikel bedoeld geval en stelt de Quadripartiete Commissie en de andere Nationale Instanties op de hoogte van de uiteindelijke resultaten van het onderzoek en van de corrigerende maatregelen die zijn genomen om herhaling te voorkomen.
 
-#### Artikel VIII. Nationale Instanties
+##### Artikel VIII. Nationale Instanties
 
 1. Elke Regering wijst, in overeenstemming met haar nationale wet- en regelgeving, een Nationale Instantie aan die verantwoordelijk is voor het waarborgen van een doeltreffende uitvoering op haar grondgebied van de in artikel VII genoemde beveiligingsmaatregelen.
 
@@ -168,21 +193,21 @@ Nucleair materiaal dat gebruikt of geproduceerd wordt als gevolg van de in artik
 
 4. Wanneer nodig brengen de Nationale Instanties via de Quadripartiete Commissie gezamenlijk verslag uit aan de Vier Regeringen.
 
-#### Artikel IX. Beveiliging van tot de industriële eigendom behorende gegevens
+##### Artikel IX. Beveiliging van tot de industriële eigendom behorende gegevens
 
 1. De bepalingen van Bijlage I inzake octrooien en andere industriële eigendomsrechten worden door iedere Regering toegepast op de in artikel II, eerste lid, van dit Verdrag beschreven samenwerking.
 
 2. Geen van de Vier Regeringen maakt gebruik van de gegevens die ingevolge dit Verdrag aan hen worden overgedragen, of stelt enige persoon van dergelijke gegevens in kennis, voor enig ander doel dan de in artikel II, eerste lid, beschreven samenwerking, tenzij anderszins wordt overeengekomen.
 
-#### Artikel X. Internationale samenwerking
+##### Artikel X. Internationale samenwerking
 
 De Vier Regeringen kunnen gezamenlijk binnen de reikwijdte van dit Verdrag samenwerkingsovereenkomsten sluiten met Europese of andere Staten, of met internationale organisaties. Elk voorstel tot het sluiten van een dergelijke overeenkomst wordt eerst bestudeerd door de Quadripartiete Commissie in overeenstemming met artikel III, vijfde lid, onderdeel c.
 
-#### Artikel XI. Euratom-Verdrag
+##### Artikel XI. Euratom-Verdrag
 
 De in dit Verdrag vervatte verplichtingen doen geen afbreuk aan de verplichtingen van de Vier Regeringen krachtens het Euratom-Verdrag.
 
-#### Artikel XII. Beslechting van geschillen
+##### Artikel XII. Beslechting van geschillen
 
 1. Ieder geschil dat mocht ontstaan tussen de Vier Regeringen betreffende de uitlegging of toepassing van dit Verdrag of van een beslissing van de Quadripartiete Commissie, dan wel van maatregelen of regelingen die krachtens een zodanige beslissing ten uitvoer zijn gelegd, wordt verwezen naar de Quadripartiete Commissie, die zal trachten tot een minnelijke schikking te komen.
 
@@ -200,11 +225,11 @@ De in dit Verdrag vervatte verplichtingen doen geen afbreuk aan de verplichtinge
 
 8. De beslissing van de Scheidsrechterlijke Commissie is onherroepelijk en hiertegen staat geen rechtsmiddel open. In geval van een geschil betreffende de strekking of reikwijdte van een dergelijke beslissing, rust op de Scheidsrechterlijke Commissie de plicht de beslissing op verzoek van een van de Vier Regeringen toe te lichten.
 
-#### Artikel XIII. Territoriale toepassing van het Verdrag
+##### Artikel XIII. Territoriale toepassing van het Verdrag
 
 Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag alleen van toepassing op het deel van het Koninkrijk in Europa, wat het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreft alleen op Groot-Brittannië en Noord-Ierland, en wat de Franse Republiek betreft alleen op het deel van de Republiek in Europa.
 
-#### Artikel XIV. Inwerkingtreding en duur
+##### Artikel XIV. Inwerkingtreding en duur
 
 1. Dit Verdrag treedt in werking op de eerste dag van de eerste maand na de datum waarop de laatste van de Vier Regeringen haar diplomatieke nota waarin wordt bevestigd dat aan alle wettelijke vereisten voor de inwerkingtreding van dit Verdrag is voldaan, nederlegt bij de Regering van het Koninkrijk der Nederlanden. De Regering van het Koninkrijk der Nederlanden stelt de andere Regeringen in kennis van de datum van inwerkingtreding. Dit Verdrag blijft van kracht gedurende een tijdvak van dertig jaar. Dit tijdvak wordt telkens automatisch verlengd met een tijdvak van tien jaar tenzij een van de Vier Regeringen de andere Regeringen ten minste een jaar voor de datum waarop dit Verdrag automatisch zou worden verlengd, ervan in kennis stelt dat zij het voornemen heeft dit Verdrag op te zeggen.
 
@@ -212,7 +237,7 @@ Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag alleen van toepassing
 
 3. In het geval van opzegging van dit Verdrag door een van de Vier Regeringen overeenkomstig de bepalingen van het eerste lid van dit artikel of in geval van beëindiging van dit Verdrag krachtens het tweede lid van dit artikel, worden geëigende voorzieningen getroffen voor de voortzetting, in verband met het bepaalde in de artikelen IV en V, van verbintenissen en waarborgen en, in verband met het bepaalde in de artikelen VII en VIII en Bijlage II, van maatregelen voor de beveiliging van gerubriceerde gegevens, documenten en apparatuur. Zolang deze voorzieningen nog niet zijn getroffen, blijven de artikelen IV, V, VII, VIII en Bijlage II en alle uit hoofde daarvan tot stand gekomen regelingen of toegepaste procedures van kracht.
 
-#### Artikel XV. Wijzigingen
+##### Artikel XV. Wijzigingen
 
 Iedere Regering kan te allen tijde voorstellen doen tot wijziging van dit Verdrag. Deze voorstellen worden, indien zij door de Quadripartiete Commissie zijn goedgekeurd, door de Commissie aan de Vier Regeringen ter aanvaarding voorgelegd. Elke voor te leggen wijziging moet door iedere Regering schriftelijk worden aanvaard en treedt in werking 30 dagen na ontvangst door het Koninkrijk der Nederlanden van een schriftelijke kennisgeving van aanvaarding van alle Vier Regeringen. De Regering van het Koninkrijk der Nederlanden stelt de andere Regeringen in kennis van de datum van inwerkingtreding van dergelijke wijzigingen.
 

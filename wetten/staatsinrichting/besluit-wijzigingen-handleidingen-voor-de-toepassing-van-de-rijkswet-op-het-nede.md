@@ -1,13 +1,39 @@
 ---
-title: "Besluit wijzigingen Handleidingen voor de toepassing van de Rijkswet op het Nederlanderschap 2003 in verband met de staatkundige hervorming van de Nederlandse Antillen per 10 oktober 2010"
+title: "Besluit van de Minister van Justitie van het Koninkrijk van 8 oktober 2010, nummer 2010/2, houdende diverse wijzigingen met betrekking tot de Handleidingen voor de toepassing van de Rijkswet op het Nederlanderschap 2003 in verband met de staatkundige hervorming van de Nederlandse Antillen per 10 oktober 2010"
 identifier: "BWBR0028843"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028843"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028843"
+soort: "ministeriele-regeling"
+stam_id: "11049743"
+version_id: "18046402"
+internal_id: "C25088141"
+label_id: "11024124"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028843/2010-10-10/0"
+intitule_bron: "Stcrt.2010-16242"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-08"
+intitule_published: "2010-10-14"
+intitule_in_force: "2010-10-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-16242"
+original_signed_date: "2010-10-08"
+original_published_date: "2010-10-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-16242"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028843&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028843&g=2010-10-10"
+citeertitel_status: "redactioneel"
+short_title: "Besluit wijzigingen Handleidingen voor de toepassing van de Rijkswet op het Nederlanderschap 2003 in verband met de staatkundige hervorming van de Nederlandse Antillen per 10 oktober 2010"
+signed_date: "2010-10-08"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit van de Minister van Justitie van het Koninkrijk van 8 oktober 2010, nummer 2010/2, houdende diverse wijzigingen met betrekking tot de Handleidingen voor de toepassing van de Rijkswet op het Nederlanderschap 2003 in verband met de staatkundige hervorming van de Nederlandse Antillen per 10 oktober 2010
 
 Gelet op [artikel 23, eerste lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=23), [artikel 72 Besluit verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013605&artikel=72) en [artikel 2 van de Regeling verkrijging en verlies Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0013506&artikel=2);
@@ -16,7 +42,7 @@ Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel I
+##### Artikel I
 
 A. Wijzigt de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Curaçao en Sint Maarten.
 
@@ -54,7 +80,7 @@ Q. Handleiding Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik 
 
 R. Handleiding Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Aruba.
 
-#### Artikel II
+##### Artikel II
 
 Dit besluit treedt in werking met ingang van 10 oktober 2010.
 

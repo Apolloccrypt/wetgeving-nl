@@ -1,13 +1,35 @@
 ---
-title: "Reglement minimummaten en gesloten tijden 1985"
+title: "Besluit van 5 juni 1985, houdende Reglement minimummaten en gesloten tijden 1985"
 identifier: "BWBR0003805"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-10-01
-laatste_update: 2012-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003805"
+country: "nl"
+rank: "amvb"
+publication_date: "2012-10-01"
+last_updated: "2012-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003805"
+soort: "AMvB"
+stam_id: "832973"
+version_id: "1206492"
+internal_id: "C1206491"
+label_id: "807104"
+dtd_version: "2.0"
+original_entry_into_force: "1985-06-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003805/2012-10-01/0"
+intitule_bron: "Stb.1985-301"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-06-05"
+intitule_status: "goed"
+original_publication: "Stb.1985-301"
+original_signed_date: "1985-06-05"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1985-06-08"
+jci_1_3: "jci1.3:c:BWBR0003805&z=2012-10-01&g=2012-10-01"
+jci_1_0: "1.0:c:BWBR0003805&g=2012-10-01"
+citeertitel_status: "officieel"
+short_title: "Reglement minimummaten en gesloten tijden 1985"
+signed_date: "1985-06-05"
+entry_into_force: "1985-06-08"
 ---
-
 # Besluit van 5 juni 1985, houdende Reglement minimummaten en gesloten tijden 1985
 
 Op de voordracht van de Staatssecretaris van Landbouw en Visserij van 15 april 1985, Directie Juridische en Bedrijfsorganisatorische Zaken, no. J. 2430;
@@ -24,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Landbouw en Visserij van 31
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Bij ministeriële regeling wordt de afmeting, bedoeld in [artikel 2a, eerste lid, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=2a), bepaald.
 
@@ -32,13 +54,13 @@ Hebben goedgevonden en verstaan:
 
 3. Indien bij of krachtens het [Reglement zee- en kustvisserij 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003144) voorschriften zijn gesteld inzake afmetingen of daarnaar wordt verwezen, zijn deze ook van toepassing op vissen die worden gevangen in de wateren, bedoeld in [artikel 1, vierde lid, onderdeel d, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=1), en is het tweede lid van overeenkomstige toepassing.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij ministeriële regeling wordt het in [artikel 2a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=2a) bedoelde tijdvak vastgesteld.
 
 2. Vis van de soorten waarvoor ingevolge het eerste lid een tijdvak is bepaald wordt onmiddellijk nadat deze is opgehaald weer in hetzelfde water teruggezet, indien de vis tijdens dit tijdvak is gevangen.
 
-#### Artikel 3
+##### Artikel 3
 
 Het is verboden vis voorhanden of in voorraad te hebben, aan te voeren, te vervoeren, te koop aan te bieden, te vervreemden, af te leveren, te bewerken of te verwerken indien:
 
@@ -46,19 +68,19 @@ Het is verboden vis voorhanden of in voorraad te hebben, aan te voeren, te vervo
 
 - b. behorende tot de soorten bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=2&z=2012-10-01&g=2012-10-01), in het bij de desbetreffende soort vermelde tijdvak, uitgezonderd de eerste zes dagen daarvan tenzij als tijdvak het gehele jaar is vastgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 Het is verboden gerookte aal, welke, gemeten van de punt van de snuit tot het uiteinde van de staartvin, kleiner is dan 25 cm, voorhanden of in voorraad te hebben, te vervoeren, te koop aan te bieden, te vervreemden, af te leveren, te bewerken of te verwerken.
 
-#### Artikel 5
+##### Artikel 5
 
 Het is verboden op of in de nabijheid van enig water vis behorende tot de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=2012-10-01&g=2012-10-01), bedoelde soorten of in artikel 1, derde lid, bedoelde vissen voorhanden of in voorraad te hebben, indien deze vis in zodanige toestand is gebracht, dat daardoor de vaststelling van de maat wordt bemoeilijkt of onmogelijk gemaakt.
 
-#### Artikel 6
+##### Artikel 6
 
 Degenen die gerechtigd zijn de aaldogger- en aalhoekwantvisserij uit te oefenen, is het in afwijking van het bepaalde bij of krachtens de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=2012-10-01&g=2012-10-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=2&z=2012-10-01&g=2012-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=3&z=2012-10-01&g=2012-10-01), toegestaan baars met een lengte, gemeten van de punt van de snuit tot het uiteinde van de staartvin, kleiner dan 15 cm, in het tijdvak van 1 maart tot en met 31 oktober tot een hoeveelheid van ten hoogste 5 kg te behouden, voorhanden of in voorraad te hebben en te vervoeren, voorzover aannemelijk is dat deze als lokaas zal worden gebruikt.
 
-#### Artikel 7
+##### Artikel 7
 
 Degenen die gerechtigd zijn tot het vissen met de hengel, is het, tenzij het vissen in het IJsselmeer plaatsvindt, in afwijking van het bepaalde bij of krachtens de artikelen [1](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=2012-10-01&g=2012-10-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=2&z=2012-10-01&g=2012-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=3&z=2012-10-01&g=2012-10-01), toegestaan:
 
@@ -66,7 +88,7 @@ Degenen die gerechtigd zijn tot het vissen met de hengel, is het, tenzij het vis
 
 - b. ten hoogste 20 stuks dode baars, kleiner dan de krachtens [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=2012-10-01&g=2012-10-01) voor die vissoort vastgestelde lengte, voorhanden of in voorraad te hebben en te vervoeren, voor zover aannemelijk is dat deze als aasvis zal worden gebruikt.
 
-#### Artikel 8
+##### Artikel 8
 
 In afwijking van het bepaalde in [artikel 3, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=3&z=2012-10-01&g=2012-10-01), is het toegestaan na de zesde dag na de aanvang van de gesloten tijd vis van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=2&z=2012-10-01&g=2012-10-01), bedoelde soorten, welke op die dag opgeslagen is in een vrieshuis dat voldoet aan de eisen van sectie VIII, hoofdstuk III, onderdeel B, van bijlage III van verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PBEG 2004, L 139):
 
@@ -76,7 +98,7 @@ In afwijking van het bepaalde in [artikel 3, aanhef en onderdeel b](https://wett
 
 - c. nadien te vervoeren.
 
-#### Artikel 9
+##### Artikel 9
 
 De artikelen [1](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=2012-10-01&g=2012-10-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=2&z=2012-10-01&g=2012-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=3&z=2012-10-01&g=2012-10-01) zijn niet van toepassing op vis waarvan wordt aangetoond dat deze:
 
@@ -84,35 +106,35 @@ De artikelen [1](https://wetten.overheid.nl/jci1.3:c:BWBR0003805&artikel=1&z=201
 
 - b. is geïmporteerd.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Onze Minister kan vrijstelling of ontheffing verlenen van de bepalingen bij of krachtens dit besluit.
 
-#### Artikel 12
+##### Artikel 12
 
 Aan vrijstellingen en ontheffingen kunnen voorschriften worden verbonden. Zij kunnen onder beperkingen worden verleend. Zij kunnen te allen tijde worden ingetrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Het Reglement minimummaten en gesloten tijden 1970 (**Stb.** 178) wordt ingetrokken.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit kan worden aangehaald als "Reglement minimummaten en gesloten tijden", met vermelding van het jaartal van het **Staatsblad,** waarin het zal worden geplaatst.
 

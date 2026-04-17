@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden en de Portugese Republiek tot oprichting van het Europees Gendarmeriekorps EUROGENDFOR"
 identifier: "BWBV0005856"
-categorie: "Internationaal recht"
-publicatiedatum: 2012-06-01
-laatste_update: 2012-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005856"
+country: "nl"
+rank: "verdrag"
+publication_date: "2012-06-01"
+last_updated: "2012-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005856"
+soort: "verdrag"
+stam_id: "10004897993"
+version_id: "10005210532"
+internal_id: "C10007953501"
+label_id: "10004881824"
+dtd_version: "2.0"
+original_entry_into_force: "2012-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005856/2012-06-01/0"
+intitule_bron: "Trb.2007-227"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2007-12-13"
+intitule_in_force: "2012-07-16"
+intitule_status: "goed"
+original_publication: "Trb.2007-227"
+original_published_date: "2007-12-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2007-227"
+entry_into_force_date: "2012-06-01"
+jci_1_3: "jci1.3:c:BWBV0005856&z=2012-06-01&g=2012-06-01"
+jci_1_0: "1.0:c:BWBV0005856&g=2012-06-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2012-06-01"
 ---
-
 # Verdrag tussen het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden en de Portugese Republiek tot oprichting van het Europees Gendarmeriekorps EUROGENDFOR
 
 Het Koninkrijk Spanje,
@@ -44,17 +66,17 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Doelstelling
+##### Artikel 1. Doelstelling
 
 1. Doelstelling van dit Verdrag is een Europees Gendarmeriekorps op te richten die operationeel, voorbereid, robuust en snel inzetbaar is en uitsluitend bestaat uit elementen van de politiemachten met een militaire status van de Partijen teneinde alle politietaken in het kader van crisisbeheersingsoperaties uit te voeren.
 
 2. In dit Verdrag worden de grondbeginselen omschreven met betrekking tot de doelstellingen, status, wijze van organisatie en het functioneren van het Europees Gendarmeriekorps, hierna te noemen EUROGENDFOR of EGF.
 
-#### Artikel 2. Beginselen
+##### Artikel 2. Beginselen
 
 De bepalingen van dit Verdrag zijn gebaseerd op toepassing van de beginselen van wederkerigheid en het gezamenlijk dragen van kosten.
 
-#### Artikel 3. Begripsomschrijvingen
+##### Artikel 3. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -100,7 +122,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK II. MISSIES, STATIONERING EN INZET
 
-#### Artikel 4. Missies en taken
+##### Artikel 4. Missies en taken
 
 1. In overeenstemming met het mandaat voor elke operatie en zelfstandig of gezamenlijk met andere eenheden optredend, dient EUROGENDFOR het volledige spectrum aan politietaken te kunnen vervullen, door vervanging of versterking uit te brengen, tijdens alle fasen van een crisisbeheersingsoperatie.
 
@@ -122,11 +144,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - g. het trainen van instructeurs, met name door middel van samenwerkingsprogramma’s.
 
-#### Artikel 5. Kader voor de missies
+##### Artikel 5. Kader voor de missies
 
 EUROGENDFOR kan ter beschikking worden gesteld van de Europese Unie (EU), van de Verenigde Naties (VN), de Organisatie voor Veiligheid en Samenwerking in Europa (OVSE), de Noord-Atlantische Verdragsorganisatie (NAVO) en andere internationale organisaties of een ad-hoc coalitie.
 
-#### Artikel 6. Voorwaarden voor inzet en ontplooiing
+##### Artikel 6. Voorwaarden voor inzet en ontplooiing
 
 1. De voorwaarden voor de inzet en ontplooiing van EUROGENDFOR, die per geval worden vastgesteld door de CIMIN, worden voor iedere operatie door een specifiek mandaat gedekt en deze zijn onderworpen aan de daartoe noodzakelijke overeenkomsten tussen de Partijen en de verzoekende organisatie.
 
@@ -136,7 +158,7 @@ EUROGENDFOR kan ter beschikking worden gesteld van de Europese Unie (EU), van de
 
 ### HOOFDSTUK III. INSTITUTIONELE EN JURIDISCHE ASPECTEN
 
-#### Artikel 7. CIMIN
+##### Artikel 7. CIMIN
 
 1. De CIMIN bestaat uit vertegenwoordigers van de ter zake relevante ministeries van elke Partij. De keuze van de vertegenwoordigers behoort tot de nationale verantwoordelijkheid. De specifieke details met betrekking tot het lidmaatschap, de structuur, de organisatie en het functioneren van de CIMIN worden vastgelegd in door de CIMIN aan te nemen regelingen.
 
@@ -190,7 +212,7 @@ EUROGENDFOR kan ter beschikking worden gesteld van de Europese Unie (EU), van de
 
 6. De vergaderingen van de CIMIN vinden plaats in overeenstemming met het door de CIMIN aan te nemen reglement van orde.
 
-#### Artikel 8. EGF-commandant
+##### Artikel 8. EGF-commandant
 
 De EGF-commandant vervult de volgende hoofdtaken:
 
@@ -206,7 +228,7 @@ De EGF-commandant vervult de volgende hoofdtaken:
 
 - f. voeren van het bevel over de EGF-eenheden, indien dit aan de orde is.
 
-#### Artikel 9. Rechtsbevoegdheid
+##### Artikel 9. Rechtsbevoegdheid
 
 1. Teneinde de in dit Verdrag omschreven doelstellingen, missies en taken te verwezenlijken beschikt EUROGENDFOR in elk van de Partijen over de bevoegdheid overeenkomsten aan te gaan. Bijgevolg kan EUROGENDFOR zo nodig in rechte optreden.
 
@@ -216,19 +238,19 @@ De EGF-commandant vervult de volgende hoofdtaken:
 
 ### HOOFDSTUK IV. FACILITEITEN VOOR HET PERMANENTE HOOFDKWARTIER
 
-#### Artikel 10. Door de Gastheerstaat verstrekte faciliteiten
+##### Artikel 10. Door de Gastheerstaat verstrekte faciliteiten
 
 1. De Gastheerstaat verplicht zich het Permanente Hoofdkwartier kosteloos de faciliteiten te verschaffen die EUROGENDFOR nodig heeft voor het vervullen van zijn taken. Deze faciliteiten worden omschreven in een door de CIMIN goedgekeurd specifiek document.
 
 2. De Gastheerstaat neemt alle redelijke maatregelen die nodig zijn om te waarborgen dat het Permanente Hoofdkwartier kan beschikken over de vereiste diensten, in het bijzonder elektriciteit, water, aardgas, postale diensten, telefoon- en telegraafdiensten, de afvoer van afval en brandweerdiensten. Voorwaarden inzake de door de Gastheerstaat te verstrekken ondersteunende diensten worden nader omschreven in regelingen ter implementatie tussen de desbetreffende autoriteiten van de Partijen.
 
-#### Artikel 11. Permissie voor toegang
+##### Artikel 11. Permissie voor toegang
 
 Na ontvangst van een met redenen omkleed verzoek, dient de EGF-commandant vertegenwoordigers van een bevoegde dienst permissie te geven voor toegang voor het uitvoeren van inspecties, reparaties, onderhoudswerkzaamheden, verbouwingen of het verplaatsen van installaties, elektriciteitsnetwerken en leidingen binnen de infrastructuur van het Permanente Hoofdkwartier, mits deze werkzaamheden geen belemmering vormen voor de normale activiteiten en de veiligheid.
 
 ### HOOFDSTUK V. BESCHERMING VAN INLICHTINGEN
 
-#### Artikel 12. Bescherming van inlichtingen
+##### Artikel 12. Bescherming van inlichtingen
 
 1. De grondbeginselen en minimumnormen voor de bescherming van geclassificeerde inlichtingen of geclassificeerd materiaal worden vervat in een veiligheidsovereenkomst tussen de Partijen.
 
@@ -238,31 +260,31 @@ Na ontvangst van een met redenen omkleed verzoek, dient de EGF-commandant verteg
 
 ### HOOFDSTUK VI. BEPALINGEN BETREFFENDE HET PERSONEEL
 
-#### Artikel 13. Eerbiediging van de van kracht zijnde wetgeving
+##### Artikel 13. Eerbiediging van de van kracht zijnde wetgeving
 
 De personeelsleden van EUROGENDFOR en hun gezinsleden dienen de in de Gastheerstaat of Ontvangende Staat van kracht zijnde wetgeving te eerbiedigen. Voorts dienen de personeelsleden van EUROGENDFOR zich tijdens hun verblijf op het grondgebied van de Gastheerstaat of de Ontvangende Staat te onthouden van activiteiten die niet verenigbaar zijn met de geest van dit Verdrag.
 
-#### Artikel 14. Toegang en verblijf
+##### Artikel 14. Toegang en verblijf
 
 Wat betreft de immigratievoorschriften en de wettelijke formaliteiten betreffende toegang en verblijf is op de personeelsleden van het Permanente Hoofdkwartier en hun gezinsleden de in de Gastheerstaat van kracht zijnde regelgeving inzake vreemdelingen niet van toepassing.
 
-#### Artikel 15. Juridische en medische aspecten in geval van overlijden
+##### Artikel 15. Juridische en medische aspecten in geval van overlijden
 
 1. Indien in geval van overlijden van militair- of burgerpersoneel, de autoriteiten van de Gastheerstaat of de Ontvangende Staat verzoeken om een lijkschouwing in het kader van een juridische of administratieve procedure, is een vertegenwoordiger van de Zendstaat bevoegd tijdens de lijkschouwing aanwezig te zijn.
 
 2. De autoriteiten van de Gastheerstaat of de Ontvangende Staat dienen toestemming te geven voor de overbrenging van het stoffelijk overschot naar de Zendstaat in overeenstemming met de op het grondgebied van de Gastheerstaat of de Ontvangende Staat van kracht zijnde regelgeving inzake vervoer die van toepassing is op stoffelijke overschotten.
 
-#### Artikel 16. Uniformen en wapens
+##### Artikel 16. Uniformen en wapens
 
 1. De personeelsleden van EUROGENDFOR dragen hun uniform in overeenstemming met hun onderscheiden nationale voorschriften. De EGF-commandant kan waar nodig specifieke procedures vaststellen.
 
 2. De personeelsleden van EUROGENDFOR mogen wapens, munitie, andere wapensystemen en explosieven bezitten, met zich meevoeren en vervoeren, mits zij daartoe bevoegd zijn op grond van orders en mits dit in overeenstemming is met de wetgeving van de Gastheerstaat en de Ontvangende Staat.
 
-#### Artikel 17. Rijbewijzen
+##### Artikel 17. Rijbewijzen
 
 Door de Partijen afgegeven militaire rijbewijzen zijn op gelijke wijze geldig op het grondgebied van alle Staten die Partij zijn bij dit Verdrag en geven de houders het recht alle voertuigen van EUROGENDFOR van de desbetreffende categorie te besturen bij de uitvoering van hun officiële taken.
 
-#### Artikel 18. Medische bijstand
+##### Artikel 18. Medische bijstand
 
 1. Medische bijstand aan personeelsleden van EUROGENDFOR en hun gezinsleden wordt gewaarborgd onder dezelfde voorwaarden waaronder deze wordt verschaft aan personeelsleden van dezelfde rang of een vergelijkbare categorie van de Gastheerstaat of de Ontvangende Staat.
 
@@ -270,7 +292,7 @@ Door de Partijen afgegeven militaire rijbewijzen zijn op gelijke wijze geldig op
 
 ### HOOFDSTUK VII. VOORRECHTEN EN IMMUNITEITEN
 
-#### Artikel 19. Belastingen en douaneheffingen
+##### Artikel 19. Belastingen en douaneheffingen
 
 1. Voor officiële doeleinden gebruikte vermogensbestanddelen, inkomsten en andere goederen die EUROGENDFOR toebehoren zijn vrijgesteld van alle directe belastingen.
 
@@ -290,7 +312,7 @@ Door de Partijen afgegeven militaire rijbewijzen zijn op gelijke wijze geldig op
 
 9. Geen vrijstelling van belastingen of heffingen, ongeacht van welke aard, mag worden verleend voor de aankoop van militair materieel en uitrusting.
 
-#### Artikel 20. Persoonlijke voorrechten
+##### Artikel 20. Persoonlijke voorrechten
 
 1. Personeelsleden van EUROGENDFOR bedoeld in [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=I&artikel=3&z=2012-06-01&g=2012-06-01), die geen vaste verblijfplaats hebben in of onderdaan zijn van de Gastheerstaat mogen op het tijdstip van hun eerste aankomst teneinde hun functie te gaan vervullen in die Staat, binnen een jaar na hun eerste aankomst en voor ten hoogste twee zendingen uit de laatste Staat van verblijf of uit de Staat waarvan zij onderdaan zijn hun persoonlijke eigendommen en meubilair, met inbegrip van een motorvoertuig, vrij van douaneheffingen en andere indirecte belastingen invoeren of dergelijke goederen vrij van omzetbelasting voor een aanmerkelijk bedrag aanschaffen in de Gastheerstaat.
 
@@ -302,7 +324,7 @@ Door de Partijen afgegeven militaire rijbewijzen zijn op gelijke wijze geldig op
 
 5. De motorvoertuigen bedoeld in het eerste lid en motorvoertuigen die zijn geregistreerd in een andere EU-lidstaat, met een maximum van een voertuig per lid van het bovenbedoelde personeel, zijn vrijgesteld van motorrijtuigenbelastingen gedurende de termijn van aanstelling van die leden in de Gastheerstaat.
 
-#### Artikel 21. Onschendbaarheid van terreinen, gebouwen en archieven
+##### Artikel 21. Onschendbaarheid van terreinen, gebouwen en archieven
 
 1. De terreinen en gebouwen van EUROGENDFOR op het grondgebied van de Partijen zijn onschendbaar.
 
@@ -310,11 +332,11 @@ Door de Partijen afgegeven militaire rijbewijzen zijn op gelijke wijze geldig op
 
 3. De archieven van EUROGENDFOR zijn onschendbaar. De onschendbaarheid van de archieven wordt geacht van toepassing te zijn op alle dossiers, correspondentie, manuscripten, foto’s, films, opnames, documenten, elektronische gegevens, computerbestanden of andere gegevensdragers die behoren aan of in het bezit zijn van EUROGENDFOR, ongeacht waar zij zich bevinden op het grondgebied van de Partijen.
 
-#### Artikel 22. Immuniteit van executie
+##### Artikel 22. Immuniteit van executie
 
 De eigendommen en fondsen van EUROGENDFOR en de goederen die voor diens officiële doeleinden ter beschikking zijn gesteld, ongeacht waar zij zich bevinden en door wie zij worden gehouden, worden gevrijwaard tegen executoriale maatregelen op het grondgebied van de Partijen.
 
-#### Artikel 23. Communicatie
+##### Artikel 23. Communicatie
 
 1. De Partijen nemen alle redelijke maatregelen om het soepele verloop van de officiële communicatie van EUROGENDFOR te waarborgen.
 
@@ -322,13 +344,13 @@ De eigendommen en fondsen van EUROGENDFOR en de goederen die voor diens officië
 
 3. Boodschappen gericht aan of ontvangen door EUROGENDFOR mogen niet onderschept of verstoord worden.
 
-#### Artikel 24. Domicilie voor de belastingheffing
+##### Artikel 24. Domicilie voor de belastingheffing
 
 Wat betreft inkomsten- en vermogensbelastingen worden de personeelsleden van het Permanente Hoofdkwartier die zich uitsluitend vanwege hun functie bij het Permanente Hoofdkwartier in de Gastheerstaat vestigen geacht domicilie voor de belastingheffing te hebben gekozen in de Zendstaat die het salaris betaalt voor hun diensten verricht ten behoeve van het Permanente Hoofdkwartier. Deze voorwaarde is ook van toepassing op gezinsleden die niet betrokken zijn bij professionele of commerciële activiteiten binnen de Gastheerstaat.
 
 ### HOOFDSTUK VIII. VOORWAARDEN TEN AANZIEN VAN RECHTSMACHT EN DISCIPLINE
 
-#### Artikel 25. Strafrechtelijke en disciplinaire rechtsmacht
+##### Artikel 25. Strafrechtelijke en disciplinaire rechtsmacht
 
 1. De autoriteiten van de Zendstaat zijn bevoegd tot het uitoefenen van alle strafrechtelijke en disciplinaire rechtsmacht waarmee zij op grond van de wet van de Zendstaat bekleed zijn jegens militair en burgerpersoneel indien op het burgerpersoneel de wetgeving van toepassing is waaronder alle of een deel van de politiemachten met militaire status van de Zendstaat vallen vanwege hun inzet bij deze politiemachten.
 
@@ -358,7 +380,7 @@ Wat betreft inkomsten- en vermogensbelastingen worden de personeelsleden van het
 
 7. De bepalingen van dit artikel betekenen niet dat de autoriteiten van de Zendstaat bevoegd zijn rechtsmacht uit te oefenen over personen die onderdaan zijn van of gewoonlijk verblijven in de Gastheerstaat of de Ontvangende Staat, tenzij zij deel uitmaken van een eenheid van de Zendstaat.
 
-#### Artikel 26. Wederzijdse rechtshulp
+##### Artikel 26. Wederzijdse rechtshulp
 
 1. De Partijen verlenen elkaar rechtshulp bij de arrestatie van leden van een eenheid, of een civiele component daarvan, of van gezinsleden op het grondgebied van de Gastheerstaat of de Ontvangende Staat en bij hun overlevering aan de autoriteit die in overeenstemming met de voorgaande bepalingen bevoegd is tot het uitoefenen van rechtsmacht.
 
@@ -372,7 +394,7 @@ Wat betreft inkomsten- en vermogensbelastingen worden de personeelsleden van het
 
 6. De autoriteiten van de Gastheerstaat of de Ontvangende Staat nemen verzoeken van de autoriteiten van de Zendstaat om bijstand bij de tenuitvoerlegging van een gevangenisstraf, welke op het grondgebied van de Gastheerstaat of de Ontvangende Staat is opgelegd door de autoriteiten van de Zendstaat, overeenkomstig de bepalingen van dit artikel, in welwillende overweging.
 
-#### Artikel 27. Terugkeer, afwezigheid en verwijdering
+##### Artikel 27. Terugkeer, afwezigheid en verwijdering
 
 1. Indien personeelsleden van EUROGENDFOR niet langer in dienst zijn van hun eenheid en niet zijn teruggekeerd naar hun Zendstaat, stellen de autoriteiten van de Zendstaat de autoriteiten van de Gastheerstaat of de Ontvangende Staat daarvan onverwijld in kennis en verschaffen alle nuttige inlichtingen.
 
@@ -382,7 +404,7 @@ Wat betreft inkomsten- en vermogensbelastingen worden de personeelsleden van het
 
 ### HOOFDSTUK IX. VORDERINGEN
 
-#### Artikel 28. Afstand
+##### Artikel 28. Afstand
 
 1. Elke Partij doet afstand van alle vorderingen tegen een andere Partij wegens schade aan haar eigendommen die worden gebruikt in verband met de voorbereiding voor en uitvoering van de in dit Verdrag bedoelde taken, met inbegrip van oefeningen, indien de schade:
 
@@ -396,7 +418,7 @@ Wat betreft inkomsten- en vermogensbelastingen worden de personeelsleden van het
 
 4. Niettegenstaande de uitzondering bedoeld in het derde lid, doet elke Partij afstand van haar vorderingen in elk geval waarin de schade minder bedraagt dan het door de CIMIN vast te stellen minimumbedrag.
 
-#### Artikel 29. Schade van derden
+##### Artikel 29. Schade van derden
 
 1. In het geval van schade veroorzaakt jegens een derde of aan de eigendommen van een derde door een lid van of eigendommen van een van de Partijen bij de uitvoering van de taken, met inbegrip van oefeningen, bedoeld in dit Verdrag, delen de Partijen de vergoeding van de schade op de wijze omschreven in de uitvoeringsovereenkomsten of -regelingen, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=XI&artikel=45&z=2012-06-01&g=2012-06-01) en in overeenstemming met de volgende bepalingen:
 
@@ -422,21 +444,21 @@ Wat betreft inkomsten- en vermogensbelastingen worden de personeelsleden van het
 
 - d. niets in dit lid tast de bevoegdheid van de rechters van de Gastheerstaat of de Ontvangende Staat aan een vordering tegen personeelsleden van EUROGENDFOR in behandeling te nemen zolang de vordering niet volledig is voldaan.
 
-#### Artikel 30. Onderzoek van de omstandigheden
+##### Artikel 30. Onderzoek van de omstandigheden
 
 Indien er twijfel bestaat of de schade is veroorzaakt bij de uitvoering van een officiële taak, neemt de CIMIN, onverminderd [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=IX&artikel=31&z=2012-06-01&g=2012-06-01), na bestudering van het rapport over de omstandigheden van de EGF-commandant een besluit.
 
-#### Artikel 31. Oefeningen en operaties
+##### Artikel 31. Oefeningen en operaties
 
 Voor oefeningen of operaties op het grondgebied van een derde Staat kan de methode voor de verdeling van herstelmaatregelen tussen de Partijen en, in voorkomende gevallen, Bijdragende Staten worden vastgelegd in een regeling ad hoc voor de oefening of operatie.
 
-#### Artikel 32. Technische of wetenschappelijke deskundigen
+##### Artikel 32. Technische of wetenschappelijke deskundigen
 
 Het bepaalde in de [Hoofdstukken VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=VIII&z=2012-06-01&g=2012-06-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=IX&z=2012-06-01&g=2012-06-01) van dit Verdrag is eveneens van toepassing op onderdanen van een van de Partijen die niet behoren tot het militaire of burgerpersoneel, maar een specifieke taak van technische of wetenschappelijke aard binnen EUROGENDFOR verrichten en zulks uitsluitend gedurende de periode dat deze taak wordt verricht.
 
 ### HOOFDSTUK X. VOORWAARDEN TEN AANZIEN VAN FINANCIËN EN EIGENDOMSRECHTEN
 
-#### Artikel 33. Financiële Raad
+##### Artikel 33. Financiële Raad
 
 1. Er wordt een Financiële Raad bestaande uit een door elke Partij aangewezen financiële deskundige ingesteld.
 
@@ -458,7 +480,7 @@ Het bepaalde in de [Hoofdstukken VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0
 
 3. De procedures van de Financiële Raad en de planning voor het indienen, toetsen en goedkeuren van de ontwerpbegroting van EUROGENDFOR worden vastgelegd in een reeks financiële regels, goed te keuren door de CIMIN.
 
-#### Artikel 34. Kosten
+##### Artikel 34. Kosten
 
 1. Er zijn drie kostencategorieën voor EUROGENDFOR-activiteiten:
 
@@ -470,7 +492,7 @@ Het bepaalde in de [Hoofdstukken VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0
 
 2. De verschillende kostencategorieën en de wijze waarop zij worden gefinancierd worden omschreven in de financiële regels van EUROGENDOR, goed te keuren door de CIMIN.
 
-#### Artikel 35. Begroting
+##### Artikel 35. Begroting
 
 1. De jaarbegroting van EUROGENDFOR voor gemeenschappelijke kosten, berekend in euro, bestaat uit ontvangsten en uitgaven.
 
@@ -480,11 +502,11 @@ Het bepaalde in de [Hoofdstukken VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0
 
 4. Het financiële jaar begint op 1 januari en eindigt op 31 december.
 
-#### Artikel 36. Financiële controle
+##### Artikel 36. Financiële controle
 
 Teneinde hun controlerende functies te vervullen voor hun nationale regeringen en verslag uit te brengen aan hun parlementen zoals bepaald in hun wetgeving, kunnen de nationale financiële controleurs alle inlichtingen verkrijgen en alle documenten bestuderen die in het bezit zijn van personeelsleden van EUROGENDFOR.
 
-#### Artikel 37. Openbare aanbestedingen
+##### Artikel 37. Openbare aanbestedingen
 
 1. EUROGENDFOR kan opdrachten aanbesteden in overeenstemming met de beginselen die van kracht zijn in de Europese Unie.
 
@@ -502,27 +524,27 @@ Teneinde hun controlerende functies te vervullen voor hun nationale regeringen e
 
 ### HOOFDSTUK XI. SLOTBEPALINGEN
 
-#### Artikel 38. Talen
+##### Artikel 38. Talen
 
 De talen van de Partijen zijn de officiële talen van EUROGENDFOR. Er kan een gemeenschappelijke werktaal worden gebruikt.
 
-#### Artikel 39. Beslechting van geschillen
+##### Artikel 39. Beslechting van geschillen
 
 Geschillen tussen de Partijen met betrekking tot de uitlegging of toepassing van dit Verdrag worden door middel van onderhandeling beslecht.
 
-#### Artikel 40. Wijzigingen
+##### Artikel 40. Wijzigingen
 
 1. Dit Verdrag kan op voorstel van een Partij met instemming van alle Partijen te allen tijde worden gewijzigd.
 
 2. Wijzigingen worden van kracht in overeenstemming met de voorwaarden van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=XI&artikel=46&z=2012-06-01&g=2012-06-01).
 
-#### Artikel 41. Opzegging
+##### Artikel 41. Opzegging
 
 1. Iedere Partij kan dit Verdrag te allen tijde opzeggen door middel van een voorafgaande schriftelijke kennisgeving aan de depositaris.
 
 2. Opzeggingen worden van kracht twaalf maanden na de datum van ontvangst door de depositaris van de kennisgeving van de opzegging of op een latere datum te vermelden in de kennisgeving van de opzegging.
 
-#### Artikel 42. Toetreding
+##### Artikel 42. Toetreding
 
 1. Elke EU-lidstaat met een politiemacht met militaire status kan de CIMIN verzoeken om toetreding tot dit Verdrag. Na in overeenstemming met [artikel 7, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&hoofdstuk=III&artikel=7&z=2012-06-01&g=2012-06-01), de goedkeuring van de Partijen te hebben ontvangen, stelt de CIMIN de verzoekende Staat in kennis van de beslissing van de Partijen.
 
@@ -530,27 +552,27 @@ Geschillen tussen de Partijen met betrekking tot de uitlegging of toepassing van
 
 3. Voor elke Staat namens welke een akte van toetreding is nedergelegd treedt dit Verdrag in werking op de eerste dag van de tweede maand na de kennisgeving door de depositaris aan alle Partijen.
 
-#### Artikel 43. Status van waarnemer
+##### Artikel 43. Status van waarnemer
 
 1. Kandidaat-lidstaten voor de EU die een politiemacht met militaire status hebben kunnen verzoeken om de status van waarnemer. EU-lidstaten die een politiemacht met militaire status hebben kunnen ook verzoeken om de status van waarnemer als eerste stap op weg naar toetreding.
 
 2. De status van waarnemer omvat het recht een verbindingsofficier te detacheren bij het Permanente Hoofdkwartier in overeenstemming met de door de CIMIN goedgekeurde regels.
 
-#### Artikel 44. Status van partner
+##### Artikel 44. Status van partner
 
 1. EU-lidstaten en kandidaat-lidstaten van de EU die een eenheid hebben met militaire status en enige politiebevoegdheden kunnen verzoeken om de status van partner.
 
 2. De CIMIN stelt de specifieke rechten en verplichtingen van de partners vast.
 
-#### Artikel 45. Uitvoeringsovereenkomsten of -regelingen
+##### Artikel 45. Uitvoeringsovereenkomsten of -regelingen
 
 Dit Verdrag kan worden aangevuld met een of meer specifieke uitvoeringsovereenkomsten of -regelingen.
 
-#### Artikel 46. Inwerkingtreding
+##### Artikel 46. Inwerkingtreding
 
 Dit Verdrag treedt in werking op de eerste dag van de tweede maand na de kennisgeving door de depositaris aan alle Partijen inzake de laatste akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 47. Depositaris
+##### Artikel 47. Depositaris
 
 De Regering van de Italiaanse Republiek treedt op als depositaris en stelt alle ondertekenende en toetredende Staten in kennis van de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring, toetreding of opzegging.
 

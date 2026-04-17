@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregels toetsing eindtermen praktijkopleiding"
 identifier: "BWBR0039248"
-categorie: "Overig"
-publicatiedatum: 2017-03-01
-laatste_update: 2017-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039248"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-03-01"
+last_updated: "2017-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039248"
+soort: "zbo"
+stam_id: "13925473"
+version_id: "23938622"
+internal_id: "C34421771"
+label_id: "13889524"
+dtd_version: "2.0"
+original_entry_into_force: "2017-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039248/2017-03-01/0"
+intitule_bron: "Stcrt.2017-10711"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-02-15"
+intitule_published: "2017-02-28"
+intitule_in_force: "2017-02-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-10711"
+original_signed_date: "2017-02-15"
+original_published_date: "2017-02-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-10711"
+entry_into_force_date: "2017-03-01"
+jci_1_3: "jci1.3:c:BWBR0039248&z=2017-03-01&g=2017-03-01"
+jci_1_0: "1.0:c:BWBR0039248&g=2017-03-01"
+citeertitel_status: "officieel"
+signed_date: "2017-02-15"
+entry_into_force: "2017-03-01"
 ---
-
 # Beleidsregels toetsing eindtermen praktijkopleiding
 
 Voor inschrijving in het accountantsregister van de Koninklijke Nederlandse Beroepsorganisatie van Accountants (NBA) dienen kandidaten op grond van [artikel 38 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=38) (Wab) een opleiding gevolgd te hebben die voldoet aan de in [artikel 49, tweede lid, onder a Wab](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49) bedoelde eindtermen.
@@ -24,7 +49,7 @@ Deze beleidsregels zien toe op de wijze waarop CEA invulling geeft aan het toezi
 
 ### Regels
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -66,7 +91,7 @@ In deze beleidsregels wordt verstaan onder:
 
 - q. **Wob:** [Wet Openbaarheid van Bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252).
 
-#### Artikel 2. Beleidsregels en toezichtkader
+##### Artikel 2. Beleidsregels en toezichtkader
 
 1. CEA stelt een toezichtkader vast met daarin de criteria, instrumenten en het proces, die CEA hanteert bij de toetsing of de praktijkopleiding aan de eindtermen voldoet.
 
@@ -74,13 +99,13 @@ In deze beleidsregels wordt verstaan onder:
 
 3. De beleidsregels en het toezichtkader voor de praktijkopleiding worden gepubliceerd op de website van CEA en in de Staatscourant. Ze worden voorts op verzoek beschikbaar gesteld.
 
-#### Artikel 3. Toezicht
+##### Artikel 3. Toezicht
 
 1. CEA beoordeelt periodiek of de praktijkopleiding nog voldoet aan de eindtermen en of een gegeven aanwijzing (tijdig) wordt opgevolgd.
 
 2. CEA baseert haar toezicht op risicoanalyse en bevindingen (uit het verleden) en past de aard, inhoud en intensiteit van haar toezichtactiviteiten daarop aan.
 
-#### Artikel 4. Criteria voor toezicht
+##### Artikel 4. Criteria voor toezicht
 
 1. Om te toetsen of de praktijkopleiding aan de eindtermen voldoet en om de aard, omvang en intensiteit van haar toezichtactiviteiten te bepalen, beoordeelt CEA hoe de NBA invulling geeft aan haar wettelijk taak aan de hand van de volgende criteria:
 
@@ -108,7 +133,7 @@ In deze beleidsregels wordt verstaan onder:
 
 - l. het verlenen van medewerking aan het toezicht op de praktijkopleiding, waaronder periodieke toezichtactiviteiten door de CEA en periodieke gesprekken tussen de NBA en CEA en indien gewenst met aanbieders en/of actoren.
 
-#### Artikel 5. Informatievoorziening t.b.v. toezicht
+##### Artikel 5. Informatievoorziening t.b.v. toezicht
 
 1. Ten behoeve van het toezicht van CEA zoals bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039248&artikel=3&z=2017-03-01&g=2017-03-01), wint CEA periodiek en indien nodig gericht schriftelijk en/of mondeling inlichtingen in bij de NBA. De periodieke inlichtingen omvatten in ieder geval een basisset van informatie die door CEA bij de NBA wordt opgevraagd.
 
@@ -136,13 +161,13 @@ In deze beleidsregels wordt verstaan onder:
 
 - b. van alle incidenten en bijzondere gebeurtenissen die van wezenlijke invloed kunnen zijn op de kwaliteit en/of samenstelling van de praktijkopleiding waarbij de melding in ieder geval een aanduiding en datum van de wijziging, het incident of de bijzondere gebeurtenis omvat als ook de maatregel(en) die de NBA heeft getroffen of zal gaan treffen, inclusief het tijdstip van de maatregel(en).
 
-#### Artikel 6. Aanwijzingsbevoegdheid
+##### Artikel 6. Aanwijzingsbevoegdheid
 
 1. CEA kan de NBA een aanwijzing geven ten aanzien van de uitvoering van de praktijkopleiding om een geconstateerde tekortkoming bij de praktijkopleiding te laten herstellen.
 
 2. CEA meldt in beginsel het eventueel niet opvolgen van een aanwijzing bij de Minister van Financiën.
 
-#### Artikel 7. Besluitvorming over een aanwijzing
+##### Artikel 7. Besluitvorming over een aanwijzing
 
 1. CEA geeft een aanwijzing ten aanzien van de uitvoering van de praktijkopleiding, indien CEA van oordeel is dat de praktijkopleiding (op onderdelen) niet of niet meer voldoet aan de eindtermen.
 
@@ -164,21 +189,21 @@ In deze beleidsregels wordt verstaan onder:
 
 5. Tegen een uitspraak op een bezwaarschrift kan overeenkomstig de bepalingen van de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) en [8 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8) beroep worden ingesteld.
 
-#### Artikel 8. Publiciteit over een aanwijzing
+##### Artikel 8. Publiciteit over een aanwijzing
 
 1. Een besluit tot het geven van een aanwijzing ten aanzien van de uitvoering van de praktijkopleiding wordt in beginsel openbaar gemaakt op grond van [artikel 8 Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=8).
 
 ### Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Deze beleidsregels zijn vastgesteld op 15 februari 2017 en zijn van kracht met ingang van de dag na publicatie in de Staatscourant.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze beleidsregels liggen ter inzage bij het secretariaat van CEA en zijn beschikbaar via de website van de CEA: www.ceaweb.nl.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze beleidsregels kunnen worden aangehaald als Beleidsregels toetsing eindtermen praktijkopleiding.
 

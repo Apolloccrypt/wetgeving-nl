@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Adviescommissie Maatwerkafspraken Verduurzaming Industrie"
+title: "Besluit van de Minister van Economische Zaken en Klimaat van 16 februari 2023, nr. WJZ/ 26288340, houdende de instelling van de Adviescommissie Maatwerkafspraken Verduurzaming Industrie"
 identifier: "BWBR0047890"
-categorie: "Overig"
-publicatiedatum: 2025-06-12
-laatste_update: 2025-06-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047890"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-06-12"
+last_updated: "2025-06-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047890"
+soort: "ministeriele-regeling"
+stam_id: "16677643"
+version_id: "30071812"
+internal_id: "C43093191"
+label_id: "16595194"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047890/2025-06-12/0"
+intitule_bron: "Stcrt.2023-5816"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-02-16"
+intitule_published: "2023-02-20"
+intitule_in_force: "2023-02-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-13603"
+original_signed_date: "2024-04-15"
+original_published_date: "2024-04-26"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-13603"
+entry_into_force_date: "2024-04-15"
+jci_1_3: "jci1.3:c:BWBR0047890&z=2025-06-12&g=2025-06-12"
+jci_1_0: "1.0:c:BWBR0047890&g=2025-06-12"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Adviescommissie Maatwerkafspraken Verduurzaming Industrie"
+signed_date: "2024-04-15"
+entry_into_force: "2024-04-15"
 ---
-
 # Besluit van de Minister van Economische Zaken en Klimaat van 16 februari 2023, nr. WJZ/ 26288340, houdende de instelling van de Adviescommissie Maatwerkafspraken Verduurzaming Industrie
 
 Gelet op [artikel 2, eerste en tweede lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In dit besluit wordt verstaan onder:
 
 - c. **Ministerie:** Ministerie van Economische Zaken en Klimaat.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Adviescommissie Maatwerkafspraken Verduurzaming Industrie.
 
@@ -46,13 +72,13 @@ In dit besluit wordt verstaan onder:
 
 - e. de doelmatigheid van de Maatwerkafspraken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Adviescommissie adviseert per Maatwerkafspraak op basis van een concept Joint Letter of Intent.
 
 2. De Adviescommissie adviseert voorts wanneer zij daartoe door de Minister wordt verzocht.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Adviescommissie bestaat uit een voorzitter en ten hoogste vijf andere leden.
 
@@ -64,11 +90,11 @@ In dit besluit wordt verstaan onder:
 
 5. De Adviescommissie stelt een reglement op met betrekking tot de omgang met de persoonlijke belangen van de voorzitter en de andere leden van de commissie en maakt dit openbaar.
 
-#### Artikel 5
+##### Artikel 5
 
 De Adviescommissie kan externe deskundigen op ad hoc basis uitnodigen voor vergaderingen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Adviescommissie stelt haar eigen werkwijze schriftelijk vast.
 
@@ -82,13 +108,13 @@ De Adviescommissie kan externe deskundigen op ad hoc basis uitnodigen voor verga
 
 6. De Adviescommissie verstrekt desgevraagd aan de Minister de voor de uitoefening van haar taak benodigde inlichtingen. De Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van diens taak redelijkerwijs nodig is.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De voorzitter ontvangt een vergoeding per vergadering van € 412.
 
 2. De andere leden en externe deskundigen ontvangen een vergoeding per vergadering van € 317.
 
-#### Artikel 8
+##### Artikel 8
 
 Ter gelegenheid van de instelling van de Adviescommissie worden voor een periode van 1 jaar tot lid van de Adviescommissie benoemd:
 
@@ -102,17 +128,17 @@ Ter gelegenheid van de instelling van de Adviescommissie worden voor een periode
 
 - e. de heer prof.dr.ir. L.J. de Vries, te Delft.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Maatwerkafspraken Verduurzaming Industrie.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
-#### Artikel 8a
+##### Artikel 8a
 
 De leden van de Adviescommissie Maatwerkafspraken Verduurzaming Industrie kunnen twee maal worden herbenoemd voor de termijn van telkens ten hoogste vier jaar.
 

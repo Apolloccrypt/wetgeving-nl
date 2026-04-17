@@ -1,13 +1,39 @@
 ---
-title: "Voorzieningenstelsel Buitenlandtoeslagen Rechterlijke Ambtenaren (VBRA)"
+title: "Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 juni 2012, nr. 2012-200612, houdende instelling van een voorzieningenstelsel buitenlandtoelagen voor rechterlijke ambtenaren die buitengewoon verlof hebben in Nederland om in het Caribische deel van het Koninkrijk der Nederlanden tijdelijk werkzaam te zijn"
 identifier: "BWBR0031747"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031747"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031747"
+soort: "ministeriele-regeling"
+stam_id: "11781403"
+version_id: "19489662"
+internal_id: "C27328031"
+label_id: "11754104"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031747/2019-01-01/0"
+intitule_bron: "Stcrt.2012-13378"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-06-20"
+intitule_published: "2012-07-04"
+intitule_in_force: "2012-07-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-13378"
+original_signed_date: "2012-06-20"
+original_published_date: "2012-07-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-13378"
+entry_into_force_date: "2012-07-06"
+jci_1_3: "jci1.3:c:BWBR0031747&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0031747&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Voorzieningenstelsel Buitenlandtoeslagen Rechterlijke Ambtenaren (VBRA)"
+signed_date: "2012-06-20"
+entry_into_force: "2012-07-06"
 ---
-
 # Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 juni 2012, nr. 2012-200612, houdende instelling van een voorzieningenstelsel buitenlandtoelagen voor rechterlijke ambtenaren die buitengewoon verlof hebben in Nederland om in het Caribische deel van het Koninkrijk der Nederlanden tijdelijk werkzaam te zijn
 
 Gelet op [het Voorzieningenstelsel Uitzendingen Binnenlandse Zaken en Koninkrijksrelaties](https://wetten.overheid.nl/jci1.3:c:BWBR0024265);
@@ -16,7 +42,7 @@ Besluit
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -98,7 +124,7 @@ In deze regeling wordt verstaan onder:
 
 - s. **duurtecorrectie:** de component die aangeeft hoeveel procent het inkomen moet worden gecorrigeerd om het Nederlandse bestedingsniveau in stand te houden in het land van verblijf;
 
-#### Artikel 1.2. Samenloop
+##### Artikel 1.2. Samenloop
 
 1. Indien de belanghebbende reeds uit anderen hoofde aanspraak heeft op voorzieningen – al dan niet in natura – ter zake van zijn verblijf in een gebied buiten Nederland, zal de aanspraak op voorzieningen op grond van deze regeling geheel of gedeeltelijk komen te vervallen.
 
@@ -112,7 +138,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Medische keuring
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 1. Uit een medische verklaring moet blijken dat de belanghebbende en de leden van het gezin die hem vergezellen, medisch geschikt zijn om in een gebied buiten Nederland te verblijven.
 
@@ -120,7 +146,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 3. Buitenlandtoelage
 
-#### Artikel 3.1. Toelagen
+##### Artikel 3.1. Toelagen
 
 1. De belanghebbende heeft gedurende zijn verblijf en met inachtneming van het bepaalde in de overige leden van dit artikel gedurende een termijn van maximaal vijf jaar aanspraak op de volgende toelagen:
 
@@ -166,7 +192,7 @@ De hiervoor genoemde componenten van de buitenlandtoelage worden vastgesteld met
 
 #### Verandering toelagen
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 1. De belanghebbende is verplicht alle mutaties die van belang zijn voor de berekening van de toelagen, bedoeld in dit hoofdstuk, onmiddellijk aan de Minister te melden.
 
@@ -180,7 +206,7 @@ De hiervoor genoemde componenten van de buitenlandtoelage worden vastgesteld met
 
 #### Verhuiskostenvergoeding
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 1. De belanghebbende heeft bij verblijf in een gebied buiten Nederland en bij beëindiging van zijn verblijf in een gebied buiten Nederland, voor een verhuizing van en naar Nederland, voor hem en zijn gezin aanspraak op een verhuiskostenvergoeding.
 
@@ -224,7 +250,7 @@ De hiervoor genoemde componenten van de buitenlandtoelage worden vastgesteld met
 
 12. De belanghebbende heeft aanspraak op 10 werkdagen ontschepingverlof. Het ontschepingverlof wordt aaneengesloten aan belanghebbende verleend direct aansluitend aan de dag dat hij in Nederland is teruggekeerd.
 
-#### Artikel 4.2. Tegemoetkoming reiskosten woon/werk verkeer
+##### Artikel 4.2. Tegemoetkoming reiskosten woon/werk verkeer
 
 1. De betrokkene heeft aanspraak op vergoeding van de gemaakte kosten van het dagelijks reizen per openbaar vervoer tussen de woning en de plaats van tewerkstelling als bedoeld in [artikel 12 van het Verplaatsingskostenbesluit 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004630&artikel=12) en geregeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=11) en [12 van de Verplaatsingskostenregeling 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004633&artikel=12).
 
@@ -234,21 +260,21 @@ De hiervoor genoemde componenten van de buitenlandtoelage worden vastgesteld met
 
 4. De betrokkene die naar het oordeel van het bevoegd gezag de plaats van tewerkstelling met het openbaar vervoer kan bereiken, maar daarvan geen gebruik maakt, heeft aanspraak op een gedeelte van de tegemoetkoming als bedoeld in [artikel 12b van het Verplaatsingskostenbesluit 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004630&artikel=12b).
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 De belanghebbende heeft bij de reis naar het gebied van verblijf en bij terugkeer naar Nederland voor elk lid van zijn gezin tevens aanspraak op vergoeding van bagage tot ten hoogste 10 kg (begeleide) of tot ten hoogste 20 kg vracht als (onbegeleide) bagage. Deze hoeveelheden hebben betrekking op het gewicht dat komt boven op het door de betrokken luchtvaartmaatschappij vastgestelde gewicht aan bagage vrijdom dat bij het vervoer is inbegrepen.
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 De totale kosten voor verzekering van het transport van de inboedel, de extra begeleide en onbegeleide bagage, bedoeld in [artikel 9 van het Verplaatsingskostenbesluit 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004630&artikel=9) hebben betrekking op een verzekerde waarde van ten hoogste € 75.000. Dit bedrag wordt tweejaarlijks bijgesteld aan de hand van de verandering van het consumentenprijsindexcijfer ter zake.
 
-#### Artikel 4.5
+##### Artikel 4.5
 
 Bij de reis naar het gebied van verblijf en bij terugkeer naar Nederland van de belanghebbende worden de kosten van vervoer bedoeld in [artikel 9 van het Verplaatsingskostenbesluit 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004630&artikel=9) voor de belanghebbende en zijn gezin vergoed tot maximaal de kosten van een vliegticket voor een enkele reis via de kortste route van Nederland naar het land van tewerkstelling of omgekeerd op basis van de goedkoopste (economy) klasse van vervoer.
 
 #### Uitrustingskosten en huurauto
 
-#### Artikel 4.6
+##### Artikel 4.6
 
 1. De belanghebbende heeft bij de aanvang van zijn verblijf in een gebied buiten Nederland aanspraak op:
 
@@ -262,7 +288,7 @@ Bij de reis naar het gebied van verblijf en bij terugkeer naar Nederland van de 
 
 #### Tijdelijke huisvesting
 
-#### Artikel 4.7
+##### Artikel 4.7
 
 1. De belanghebbende heeft bij aanvang van zijn verblijf in een gebied buiten Nederland en bij beëindiging daarvan aldaar aanspraak op een tegemoetkoming in de kosten voor tijdelijke huisvesting voor hem en zijn gezin voor de duur dat niet over de eigen inboedel, dan wel een eigen woonruimte kan worden beschikt, maar niet langer dan 6 weken.
 
@@ -298,7 +324,7 @@ Bij de reis naar het gebied van verblijf en bij terugkeer naar Nederland van de 
 
 12. De berekening van de eigen bijdrage over een gedeelte van een maand vindt plaats naar evenredigheid, waarbij het bedrag per dag wordt vastgesteld door het bedrag verschuldigd over een volle maand te delen door dertig.
 
-#### Artikel 4.8
+##### Artikel 4.8
 
 De vergoedingen genoemd in hoofdstuk 4 worden toegekend als aanvulling op de aanspraak die de belanghebbende kan maken op grond van de circulaire van 21 februari 1978, nr. 6942/PZ van het voormalig land de Nederlandse Antillen met betrekking tot de uit- en terugzendingsvoorwaarden geldig voor uitgezonden en gedetacheerde ambtenaren, dan wel het overzicht van het Kabinet van de Gevolmachtigde Minister van Aruba van 14 juni 1989, behorende bij de circulaire van het Bestuurscollege van Aruba van 17 september 1975, no. PZ/5047.
 
@@ -308,7 +334,7 @@ Daarbij wordt geacht dat het totaal van de vergoedingen van de landen en de verg
 
 #### Huisvesting en woonlasten
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 1. De belanghebbende die een huurwoning bewoont, heeft voor de duur van zijn verblijf voor zichzelf en zijn gezin aanspraak op een huurtegemoetkoming.
 
@@ -328,7 +354,7 @@ Daarbij wordt geacht dat het totaal van de vergoedingen van de landen en de verg
 
 #### Onderwijskosten
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 1. In dit artikel wordt verstaan onder:
 
@@ -366,7 +392,7 @@ Daarbij wordt geacht dat het totaal van de vergoedingen van de landen en de verg
 
 ### Hoofdstuk 6. Familiebezoek- en gezinsherenigingsreizen
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 1. De belanghebbende die met zijn gezinsleden verblijft in een gebied buiten Nederland, heeft éénmaal per periode van twaalf maanden van verblijf in een gebied buiten Nederland voor zichzelf en zijn gezinsleden die met hem metterwoon in dat land verblijven, aanspraak op een vergoeding van de kosten van een vliegreis van het land van verblijf naar Nederland en terug ten behoeve van familiebezoek.
 
@@ -392,19 +418,19 @@ Daarbij wordt geacht dat het totaal van de vergoedingen van de landen en de verg
 
 ### Hoofdstuk 7. Ziekte, ongeval en overlijden
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 De belanghebbende is verplicht elk geval van ziekte of ongeval van hemzelf terstond ter kennis van de Minister te brengen, indien de ziekte of het ongeval van zodanige aard is, dat hij naar verwachting langer dan een maand arbeidsongeschikt zal zijn.
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 Indien de Minister in geval van ziekte of ongeval van de belanghebbende na overleg met de autoriteiten van het land waar de belanghebbende tewerk is gesteld en na ter zake advies te hebben ontvangen van de bedrijfsgeneeskundige dienst van het desbetreffende land, van oordeel is dat een langer verblijf van de belanghebbende in het gebied buiten Nederland niet langer verantwoord, raadzaam of van nut is, neemt hij de maatregelen tot terugkeer naar Nederland van de belanghebbende en zijn gezin, indien hij zodanige omstandigheden noodzakelijk acht. De daaruit voortvloeiende kosten, met uitzondering van die waarvan het risico verzekerd is, worden door het Rijk vergoed.
 
-#### Artikel 7.3
+##### Artikel 7.3
 
 Indien de belanghebbende met zijn gezin in het land van plaatsing buiten Nederland verblijft worden bij overlijden van de belanghebbende de toelagen, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=3&artikel=3.2&z=2019-01-01&g=2019-01-01) en [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=5&artikel=5.1&z=2019-01-01&g=2019-01-01), aan de achtergebleven echtgenoot of kinderen doorbetaald tot uiterlijk drie maanden na de datum van overlijden of zoveel eerder dat het gezin naar Nederland is teruggekeerd.
 
-#### Artikel 7.5
+##### Artikel 7.5
 
 1. Bij een ziekte die op korte termijn het overlijden tot gevolg kan hebben of bij het overlijden van de in Nederland achtergebleven kinderen, de partner of de (schoon)ouders van belanghebbende kan aan de belanghebbende een vergoeding van de reiskosten voor hem en zijn gezin worden verleend tot maximaal de kosten voor een retourvlucht op basis van de laagste klasse van vervoer van zijn standplaats naar Nederland en terug.
 
@@ -412,13 +438,13 @@ Indien de belanghebbende met zijn gezin in het land van plaatsing buiten Nederla
 
 3. In dit artikel wordt onder kinderen tevens verstaan het kind ouder dan 21 jaar waarvoor de ouders, volgens Nederlandse wetgeving, niet meer de onderhoudsplicht hebben.
 
-#### Artikel 7.6
+##### Artikel 7.6
 
 Bij repatriëring van de belanghebbende of een van diens gezinsleden wegens ziekte of ongeval wordt de aanspraak op de toelagen, bedoeld in hoofdstuk 3 – rekening houdend met de nog lopende kosten in verband met zijn verblijf in het land van plaatsing – door de Minister nader beoordeeld en vastgesteld.
 
 ### Hoofdstuk 8. Overige rechten en verplichtingen
 
-#### Artikel 8.1
+##### Artikel 8.1
 
 1. Aan de belanghebbende kan bij aanvang van het verblijf éénmalig een renteloos voorschot worden verstrekt voor de aanloopkosten bij aankomst in dat land tot ten hoogste € 12.000. Dit bedrag wordt tweejaarlijks bijgesteld.
 
@@ -426,23 +452,23 @@ Bij repatriëring van de belanghebbende of een van diens gezinsleden wegens ziek
 
 3. Het aanloopkostenvoorschot, bedoeld in het eerste lid, wordt op schriftelijk verzoek van de belanghebbende een maand voor of uiterlijk twee maanden na aanvang van het verblijf in het gebied buiten Nederland verstrekt.
 
-#### Artikel 8.2
+##### Artikel 8.2
 
 Indien de belanghebbende aanspraak maakt op vergoedingen, tegemoetkomingen of gewijzigd loon van een andere dan de Nederlandse overheid die verband houdt met de uitoefening van de functie of de beëindiging van het verblijf, dient hij dit onmiddellijk bij de Minister te melden en de door de Minister betaalde vergoedingen, tegemoetkomingen of loon terug te betalen tot maximaal het bedrag dat hij van die andere dan de Nederlandse overheid heeft ontvangen, voor zover door de Minister met dergelijke aanspraken niet reeds rekening is gehouden.
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen
 
-#### Artikel 9.1
+##### Artikel 9.1
 
 Voor zover in dit Voorzieningenstelsel niet anders is bepaald, vervallen de uit deze regeling voortvloeiende rechten op vergoedingen indien daarop binnen een termijn van één jaar na het eindigen van de plaatsing geen beroep is gedaan.
 
-#### Artikel 9.2
+##### Artikel 9.2
 
 1. In gevallen waarin niet of niet voldoende in deze regeling is voorzien, beslist de Minister naar redelijkheid en, waar mogelijk, in overeenstemming met de strekking van de bepalingen van deze regeling.
 
 2. De Minister kan voor de maximumtermijn van vijf jaar genoemd in [artikel 3.1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=3&artikel=3.1&z=2019-01-01&g=2019-01-01) in uitzonderlijk geval ontheffing verlenen voor de duur van één jaar.
 
-#### Artikel 9.3
+##### Artikel 9.3
 
 1. Dit Voorzieningenstelsel is, met inachtneming van het gestelde in het tweede lid, vanaf de datum van inwerkingtreding van toepassing op iedere belanghebbende in de zin van deze regeling.
 
@@ -450,11 +476,11 @@ Voor zover in dit Voorzieningenstelsel niet anders is bepaald, vervallen de uit 
 
 3. Op verlengingen van de termijn van plaatsing is deze regeling van toepassing, tenzij bij de oorspronkelijke plaatsing in het gebied buiten Nederland anders is overeengekomen.
 
-#### Artikel 9.4
+##### Artikel 9.4
 
 Deze regeling wordt aangehaald als: Voorzieningenstelsel Buitenlandtoeslagen Rechterlijke Ambtenaren (VBRA).
 
-#### Artikel 9.5
+##### Artikel 9.5
 
 Deze regeling treedt in werking met ingang van de tweede dag na publicatie in de Staatscourant en werkt terug tot 1 april 2012.
 

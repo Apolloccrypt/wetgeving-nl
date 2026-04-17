@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Monitoringcomité AMIF, ISF en BMVI"
+title: "Besluit van de Staatssecretaris van Justitie en Veiligheid van 12 december 2022, nummer 4357330, tot instelling van een Monitoringcomité AMIF, ISF en BMVI (Instellingsbesluit Monitoringcomité AMIF, ISF en BMVI)"
 identifier: "BWBR0047664"
-categorie: "Overig"
-publicatiedatum: 2022-12-22
-laatste_update: 2022-12-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047664"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-12-22"
+last_updated: "2022-12-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047664"
+soort: "ministeriele-regeling"
+stam_id: "16604673"
+version_id: "29121632"
+internal_id: "C41389131"
+label_id: "16523274"
+dtd_version: "2.0"
+original_entry_into_force: "2022-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047664/2022-12-22/0"
+intitule_bron: "Stcrt.2022-34197"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-12-12"
+intitule_published: "2022-12-21"
+intitule_in_force: "2022-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-34197"
+original_signed_date: "2022-12-12"
+original_published_date: "2022-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-34197"
+entry_into_force_date: "2022-12-22"
+jci_1_3: "jci1.3:c:BWBR0047664&z=2022-12-22&g=2022-12-22"
+jci_1_0: "1.0:c:BWBR0047664&g=2022-12-22"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Monitoringcomité AMIF, ISF en BMVI"
+signed_date: "2022-12-12"
+entry_into_force: "2022-12-22"
 ---
-
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 12 december 2022, nummer 4357330, tot instelling van een Monitoringcomité AMIF, ISF en BMVI (Instellingsbesluit Monitoringcomité AMIF, ISF en BMVI)
 
 Gelet op de artikelen 38, 39 en 40 van [Verordening (EU) 2021/1060](32960R2021) van het Europees Parlement en de Raad van 24 juni 2021 tot vaststelling van de gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds Plus, het Cohesiefonds, het Fonds voor een rechtvaardige transitie en het Europees Fonds voor maritieme zaken, visserij en aquacultuur en de financiële regels voor die fondsen en voor het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Instrument voor financiële steun voor grensbeheer en visumbeleid (PbEU L 231/159);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -28,11 +54,11 @@ In dit besluit wordt verstaan onder:
 
 - e. **het comité:** het comité, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047664&artikel=2&z=2022-12-22&g=2022-12-22).
 
-#### Artikel 2. Instelling
+##### Artikel 2. Instelling
 
 Er is een Monitoringcomité AMIF, ISF en BMVI.
 
-#### Artikel 3. Samenstelling
+##### Artikel 3. Samenstelling
 
 1. Het comité bestaat uit de volgende leden met stemrecht:
 
@@ -76,15 +102,15 @@ Er is een Monitoringcomité AMIF, ISF en BMVI.
 
 3. Ieder lid kan zich laten vertegenwoordigen door een gemandateerde vervanging.
 
-#### Artikel 4. Vergaderingen
+##### Artikel 4. Vergaderingen
 
 Het comité komt tenminste tweemaal per jaar bijeen.
 
-#### Artikel 5. Besluitvorming
+##### Artikel 5. Besluitvorming
 
 Het comité besluit met meerderheid van ter vergadering aanwezige stemmen.
 
-#### Artikel 6. Taken
+##### Artikel 6. Taken
 
 1. Het comité onderzoekt:
 
@@ -116,29 +142,29 @@ Het comité besluit met meerderheid van ter vergadering aanwezige stemmen.
 
 3. Het comité kan aanbevelingen doen aan de beheerautoriteit, onder meer over maatregelen om de administratieve lasten voor begunstigden te verminderen.
 
-#### Artikel 7. Nadere regeling werkzaamheden
+##### Artikel 7. Nadere regeling werkzaamheden
 
 Het comité kan zijn werkzaamheden nader regelen binnen het kader van de Verordening en de ter uitvoering daarvan genomen ministeriële besluiten.
 
-#### Artikel 8. Secretariaat
+##### Artikel 8. Secretariaat
 
 Het secretariaat van het comité berust bij de beheerautoriteit.
 
-#### Artikel 9. Beheer van de bescheiden
+##### Artikel 9. Beheer van de bescheiden
 
 Het beheer van de bescheiden van het comité geschiedt op overeenkomstige wijze als bij het Ministerie van Justitie en Veiligheid.
 
-#### Artikel 10. Archiefbescheiden
+##### Artikel 10. Archiefbescheiden
 
 Het archief van het comité wordt na afloop van de werkzaamheden overgebracht naar het archief van het Ministerie van Justitie en Veiligheid.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2021.
 
 2. Dit besluit vervalt met ingang van 1 januari 2030.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Monitoringcomité AMIF, ISF en BMVI.
 

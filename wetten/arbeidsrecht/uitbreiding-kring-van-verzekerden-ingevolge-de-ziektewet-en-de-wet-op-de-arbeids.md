@@ -1,20 +1,44 @@
 ---
 title: "Uitbreiding kring van verzekerden ingevolge de Ziektewet en de Wet op de arbeidsongeschiktheidsverzekering"
 identifier: "BWBR0002622"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002622"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002622"
+soort: "ministeriele-regeling"
+stam_id: "5137153"
+version_id: "9212782"
+internal_id: "C12240701"
+label_id: "5112904"
+dtd_version: "2.0"
+original_entry_into_force: "1968-04-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002622/2016-01-01/0"
+intitule_bron: "Stcrt.1968-61"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1968-03-20"
+intitule_published: "1968-03-26"
+intitule_in_force: "1968-03-26"
+intitule_status: "goed"
+original_publication: "Stcrt.1968-61"
+original_signed_date: "1968-03-20"
+original_published_date: "1968-03-26"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1968-04-15"
+jci_1_3: "jci1.3:c:BWBR0002622&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBR0002622&g=2016-01-01"
+citeertitel_status: "officieel"
+signed_date: "1968-03-20"
+entry_into_force: "1968-04-15"
 ---
-
 # Uitbreiding kring van verzekerden ingevolge de Ziektewet en de Wet op de arbeidsongeschiktheidsverzekering
 
 Gelet op de [artikelen 7, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=7), [8, onder b, 11 en 55, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=8) en de [artikelen 7, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=7), [7a, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=7a), en [66, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=66),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt als werknemer beschouwd degene, die wegens ziekte niet werkt, doch aan wie geen ziekengeld ingevolge de verplichte verzekering wordt verleend:
 
@@ -26,7 +50,7 @@ Besluit:
 
 3. Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt in de gevallen, bedoeld in het eerste lid, aangewezen als werkgever het Uitvoeringsinstituut werknemersverzekeringen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt als werknemer beschouwd degene die wegens werkloosheid niet werkt, doch aan wie geen uitkering wordt verleend:
 
@@ -38,10 +62,10 @@ Besluit:
 
 2. Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt in de gevallen, bedoeld in het eerste lid, aangewezen als werkgever het Uitvoeringsinstituut werknemersverzekeringen.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Deze beschikking werkt terug tot 1 juli 1967.

@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake het beheer van het Multilateraal Investeringsfonds II"
 identifier: "BWBV0001824"
-categorie: "Internationaal recht"
-publicatiedatum: 2007-03-13
-laatste_update: 2005-04-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001824"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-03-13"
+last_updated: "2005-04-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001824"
+soort: "verdrag"
+stam_id: "10002532503"
+version_id: "10002520852"
+internal_id: "C10009157761"
+label_id: "10002522024"
+dtd_version: "2.0"
+original_entry_into_force: "2007-03-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001824/2007-03-13/0"
+intitule_bron: "Trb.2006-54"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-11-22"
+intitule_published: "2006-03-23"
+intitule_in_force: "2016-09-28"
+intitule_status: "goed"
+original_publication: "Trb.2006-54"
+original_signed_date: "2006-11-22"
+original_published_date: "2006-03-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2006-54"
+entry_into_force_date: "2007-03-13"
+jci_1_3: "jci1.3:c:BWBV0001824&z=2007-03-13&g=2007-03-13"
+jci_1_0: "1.0:c:BWBV0001824&g=2007-03-13"
+citeertitel_status: "redactioneel"
+signed_date: "2006-11-22"
+entry_into_force: "2007-03-13"
 ---
-
 # Verdrag inzake het beheer van het Multilateraal Investeringsfonds II
 
 Overwegend dat het Multilateraal Investeringsfonds (het „MIF I’’) is opgericht bij het Verdrag tot oprichting van het Multilateraal Investeringsfonds van 11 februari 1992 (het „MIF I-verdrag’’) en wordt beheerd door de Inter-Amerikaanse Ontwikkelingsbank (de „Bank’’) ingevolge het Verdrag inzake het beheer van het Multilateraal Investeringsfonds van dezelfde datum (het „MIF I-beheerverdrag’’);
@@ -26,11 +51,11 @@ Overwegend dat de Bank ter verwezenlijking van haar doelstellingen en hetgeen zi
 
 Komen de Bank en de toekomstige donoren derhalve thans het volgende overeen:
 
-#### Artikel I. Beheer van het Fonds
+##### Artikel I. Beheer van het Fonds
 
 De Bank blijft beheerder van het Fonds. De Bank beheert het Fonds en verricht haar werkzaamheden in overeenstemming met het MIF II-verdrag en verleent diensten als depositaris en andere daarmee verband houdende werkzaamheden. De Bank handhaaft het kantoor van het Multilateraal Investeringsfonds als kantoor binnen de organisatie van de Bank belast met het beheren en verrichten van de werkzaamheden en programma’s van het Fonds zoals bepaald in dit MIF II-beheerverdrag.
 
-#### Artikel II. Werkzaamheden van het Fonds
+##### Artikel II. Werkzaamheden van het Fonds
 
 - a. Bij het beheren van het Fonds en het verrichten van haar werkzaamheden aanvaardt de Bank de volgende taken:
 
@@ -56,13 +81,13 @@ De Bank blijft beheerder van het Fonds. De Bank beheert het Fonds en verricht ha
 
 Afdeling 2. Beperkingen inzake verplichtingen. De Bank beperkt verplichtingen in de door een donor aangegeven mate ingevolge artikel II, afdeling 1, onderdeel d, van het MIF II-verdrag.
 
-#### Artikel III. Taken van de depositaris
+##### Artikel III. Taken van de depositaris
 
 Afdeling 1. Depositaris voor verdragen en documenten. De Bank is depositaris voor dit MIF II-beheerverdrag, het MIF II-verdrag, de akten van aanvaarding en bijdrage (omschreven in artikel II, afdeling 1, onderdeel a, van het MIF II-verdrag) en alle overige aan het Fonds gerelateerde documenten.
 
 Afdeling 2. Openen van rekeningen. De Bank opent als beheerder van het Fonds een rekening of rekeningen van de Bank voor de ontvangst van betalingen van donoren uit hoofde van artikel II, afdeling 2, van het MIF II-verdrag. De Bank beheert deze rekeningen in overeenstemming met dit MIF II-beheerverdrag.
 
-#### Artikel IV. Bevoegdheden van de Bank en andere aangelegenheden
+##### Artikel IV. Bevoegdheden van de Bank en andere aangelegenheden
 
 - a. De Bank verklaart ingevolge artikel VII, afdeling 1, onder v, van de Overeenkomst tot oprichting van de Inter-Amerikaanse Ontwikkelingsbank (het „Handvest’’) bevoegd te zijn tot uitvoering van de bepalingen van dit MIF II-beheerverdrag en dat de uit hoofde van dit Verdrag ondernomen activiteiten zullen bijdragen aan het vervullen van de doelstellingen van de Bank.
 
@@ -80,7 +105,7 @@ Afdeling 4. Samenwerking met nationale en internationale organisaties. Bij het b
 
 Afdeling 5. Evaluatie van projecten. Naast evaluaties waar om verzocht wordt door het Donorencomité, evalueert de Bank de werkzaamheden die zij heeft ondernomen ingevolge dit Verdrag en brengt van deze evaluaties verslag uit aan het Donorencomité zoals bepaald in artikel IV, afdeling 5, van het MIF II-verdrag.
 
-#### Artikel V. Administratieve verantwoording en verslaglegging
+##### Artikel V. Administratieve verantwoording en verslaglegging
 
 Afdeling 1. Afzonderlijke administratie. De Bank houdt een afzonderlijke administratie en dossiers bij van de middelen en werkzaamheden van het Fonds en van het Investeringsfonds voor kleine ondernemingen als bedoeld in artikel III, afdeling 2, onderdeel b, van het MIF II-verdrag („SEIF’’) op zodanige wijze dat de passiva, activa, inkomsten, kosten en uitgaven betreffende het Fonds en het SEIF afzonderlijk en onafhankelijk van alle andere werkzaamheden van de Bank kunnen worden vastgesteld. Met het gebruikte stelsel van administratieve verantwoording dient het tevens mogelijk te zijn de herkomst van de verschillende uit hoofde van dit MIF II-beheerverdrag ontvangen middelen en de daardoor gegenereerde fondsen, alsmede hun toepassing vast te stellen en vast te leggen. De boeken van het Fonds worden bijgehouden in Amerikaanse dollars, voor welk doel de valuta’s worden omgezet tegen de ten tijde van elke transactie geldende en door de Bank gehanteerde wisselkoers.
 
@@ -100,7 +125,7 @@ Afdeling 1. Afzonderlijke administratie. De Bank houdt een afzonderlijke adminis
 
 - e. Van het SEIF wordt afzonderlijk van de andere middelen van het Fonds verslag uitgebracht.
 
-#### Artikel VI. Duur van het MIF II-beheerverdrag
+##### Artikel VI. Duur van het MIF II-beheerverdrag
 
 Afdeling 1. Inwerkingtreding. Dit MIF II-Beheerverdrag treedt in werking op de datum waarop het MIF II-verdrag in werking treedt.
 
@@ -112,7 +137,7 @@ Afdeling 3. Beëindiging door de Bank. De Bank beëindigt dit MIF II-beheerverdr
 
 Afdeling 4. Liquidatie van werkzaamheden van het Fonds. Bij beëindiging van het MIF II-verdrag of het SEIF staakt de Bank alle werkzaamheden ingevolge dit MIF II-beheerverdrag of het SEIF, naar gelang hetgeen van toepassing is, uitgezonderd die welke nodig zijn voor het regelmatig te gelde maken, instandhouden en handhaven van activa en de vereffening van de verplichtingen. Nadat aan alle relevante verplichtingen van het Fonds of het SEIF is voldaan of daarin is voorzien, verricht de Bank zodanige toewijzingen of verdelingen van resterende activa als door het Donorencomité worden aangegeven ingevolge artikel V, afdeling 4, van het MIF II-verdrag.
 
-#### Artikel VII. Algemene bepalingen
+##### Artikel VII. Algemene bepalingen
 
 Afdeling 1. Contracten en documenten van de Bank ten behoeve van het Fonds. In de overeenkomsten die de Bank ondertekent bij het beheren van de middelen van het Fonds en bij het verrichten van haar werkzaamheden en in alle overige aan het Fonds gerelateerde documenten geeft zij duidelijk aan dat zij handelt in de hoedanigheid van beheerder van het Fonds.
 

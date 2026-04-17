@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregels informatieplicht voor aanbieders over internetveiligheid (artikel 11.3 tweede lid van de Telecommunicatiewet)"
 identifier: "BWBR0033401"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2013-04-01
-laatste_update: 2013-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033401"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-04-01"
+last_updated: "2013-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033401"
+soort: "zbo"
+stam_id: "12251383"
+version_id: "20501712"
+internal_id: "C28838561"
+label_id: "12223434"
+dtd_version: "2.0"
+original_entry_into_force: "2009-01-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033401/2013-04-01/0"
+intitule_bron: "Stcrt.2009-8"
+intitule_effect: "nieuw"
+intitule_signed: "2009-01-14"
+intitule_published: "2009-01-14"
+intitule_in_force: "2009-01-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-8"
+original_signed_date: "2009-01-14"
+original_published_date: "2009-01-14"
+original_effect: "nieuw"
+original_url_id: "stcrt-2009-585"
+entry_into_force_date: "2009-01-15"
+jci_1_3: "jci1.3:c:BWBR0033401&z=2013-04-01&g=2013-04-01"
+jci_1_0: "1.0:c:BWBR0033401&g=2013-04-01"
+citeertitel_status: "redactioneel"
+signed_date: "2009-01-14"
+entry_into_force: "2009-01-15"
 ---
-
 # Beleidsregels informatieplicht voor aanbieders over internetveiligheid (artikel 11.3 tweede lid van de Telecommunicatiewet)
 
 ### 1. Inleiding

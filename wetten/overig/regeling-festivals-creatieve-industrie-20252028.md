@@ -1,13 +1,35 @@
 ---
 title: "Regeling Festivals creatieve industrie 2025–2028"
 identifier: "BWBR0051347"
-categorie: "Overig"
-publicatiedatum: 2025-09-01
-laatste_update: 2025-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051347"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-09-01"
+last_updated: "2025-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051347"
+soort: "zbo"
+stam_id: "17497103"
+version_id: "30858042"
+internal_id: "C44215661"
+label_id: "17399674"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051347/2025-09-01/0"
+intitule_bron: "Stcrt.2025-26081"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-08-27"
+intitule_in_force: "2025-08-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-26081"
+original_published_date: "2025-08-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-26081"
+entry_into_force_date: "2025-09-01"
+jci_1_3: "jci1.3:c:BWBR0051347&z=2025-09-01&g=2025-09-01"
+jci_1_0: "1.0:c:BWBR0051347&g=2025-09-01"
+citeertitel_status: "officieel"
+entry_into_force: "2025-09-01"
 ---
-
 # Regeling Festivals creatieve industrie 2025–2028
 
 gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap,
@@ -16,7 +38,7 @@ besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597). Binnen deze regeling wordt verstaan onder:
 
@@ -54,7 +76,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 - 17. **vakgebied vormgeving:** het werkterrein dat wordt gevormd door de (sub)disciplines animatie, bio design, food design, glasvormgeving, grafische vormgeving, illustratie, interieurontwerp, keramiekvormgeving, lichtontwerp, modevormgeving, product-, meubel- en industriële vormgeving, scenografie, sieraadontwerp, strip en graphic novel, tentoonstellingsontwerp, textielontwerp, typografie, inclusief aanverwante activiteiten gericht op experiment, onderzoek, reflectie en debat op deze terreinen.
 
-#### Artikel 2. Taakopvatting Stimuleringsfonds Creatieve Industrie
+##### Artikel 2. Taakopvatting Stimuleringsfonds Creatieve Industrie
 
 1. De taak van het Stimuleringsfonds is om vanuit het culturele perspectief de rijke ontwerptraditie die Nederland heeft te continueren en te vernieuwen door het proces van experimenteren, onderzoeken en maken te stimuleren en goed opdrachtgeverschap te bevorderen.
 
@@ -62,7 +84,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 ### Hoofdstuk 2. Algemene bepalingen
 
-#### Artikel 3. Reikwijdte en doelstelling
+##### Artikel 3. Reikwijdte en doelstelling
 
 1. Deze regeling is van toepassing op aanvragen van culturele instellingen of organisaties gericht op het organiseren van festivals binnen de context van de Nederlandse creatieve industrie, met een belangrijke publieksfunctie.
 
@@ -72,11 +94,11 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 - –. Bevorderen van een gezonde en vernieuwende ontwerpinfrastructuur.
 
-#### Artikel 4. Begrotingsvoorbehoud
+##### Artikel 4. Begrotingsvoorbehoud
 
 Een subsidie wordt altijd verleend onder de voorwaarde dat door het Ministerie van Onderwijs, Cultuur en Wetenschap voldoende gelden aan het Stimuleringsfonds ter beschikking worden gesteld.
 
-#### Artikel 5. Subsidietijdvak en subsidieplafond
+##### Artikel 5. Subsidietijdvak en subsidieplafond
 
 1. Het bestuur maakt via [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl/) en via de Staatscourant bekend binnen welk(e) subsidietijdvak(ken) op grond van deze regeling een subsidieaanvraag kan worden ingediend.
 
@@ -84,7 +106,7 @@ Een subsidie wordt altijd verleend onder de voorwaarde dat door het Ministerie v
 
 3. Het subsidieplafond per subsidietijdvak wordt vooraf bekendgemaakt op [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl/) en in de Staatscourant.
 
-#### Artikel 6. Landsdelen
+##### Artikel 6. Landsdelen
 
 1. Om regionale spreiding van het festivalaanbod binnen het Koninkrijk te stimuleringen wordt binnen deze regeling onderscheid gemaakt tussen vijf landsdelen en het Caribisch deel van het Koninkrijk:
 
@@ -104,7 +126,7 @@ Een subsidie wordt altijd verleend onder de voorwaarde dat door het Ministerie v
 
 3. De aanvrager geeft in de aanvraag aan binnen welk landsdeel of regio subsidie wordt aangevraagd. Dit is het landsdeel of de regio waarbinnen de hoofdactiviteit van het festival plaatsvindt.
 
-#### Artikel 7. Ingangseisen met betrekking tot de aanvrager
+##### Artikel 7. Ingangseisen met betrekking tot de aanvrager
 
 1. De aanvrager is een culturele instelling of -organisatie die zich aantoonbaar positioneert binnen de creatieve industrie.
 
@@ -124,7 +146,7 @@ Een subsidie wordt altijd verleend onder de voorwaarde dat door het Ministerie v
 
 - f. aanvragen gericht op de ontwikkeling van onderwijsprogramma’s en aanverwante activiteiten van onderwijsinstellingen.
 
-#### Artikel 8. Ingangseisen
+##### Artikel 8. Ingangseisen
 
 1. De subsidiebehoefte bedraagt minimaal € 35.000 en maximaal € 85.000.
 
@@ -154,7 +176,7 @@ Een subsidie wordt altijd verleend onder de voorwaarde dat door het Ministerie v
 
 - f. aanvragen waarbij geen sprake is van een redelijke mate van cofinanciering gegeven de opzet, waarbij een ondergrens wordt gehanteerd van 20% van de totale projectkosten.
 
-#### Artikel 9. Algemene voorwaarden
+##### Artikel 9. Algemene voorwaarden
 
 1. Van de werkwijze van de aanvrager kan redelijkerwijs worden verwacht dat de door de aanvrager gestelde doelen zullen worden bereikt.
 
@@ -170,13 +192,13 @@ Een subsidie wordt altijd verleend onder de voorwaarde dat door het Ministerie v
 
 ### Hoofdstuk 3. Subsidieaanvraag
 
-#### Artikel 10. Indienen van de aanvraag
+##### Artikel 10. Indienen van de aanvraag
 
 1. De aanvraag voor subsidie wordt ingediend via de[aanvraagomgeving](https://aanvragen.stimuleringsfonds.nl/)van het Stimuleringsfonds.
 
 2. Aanvragen worden in de Nederlandse of Engelse taal ingediend.
 
-#### Artikel 11. Inhoud van de aanvraag
+##### Artikel 11. Inhoud van de aanvraag
 
 1. Een aanvraag bestaat uit:
 
@@ -206,7 +228,7 @@ Een subsidie wordt altijd verleend onder de voorwaarde dat door het Ministerie v
 
 ### Hoofdstuk 4. Subsidieverlening
 
-#### Artikel 12. Advisering
+##### Artikel 12. Advisering
 
 1. Het Stimuleringsfonds toetst of de aanvraag compleet is, voldoet aan de voorwaarden en aansluit bij de taakopvatting van het Stimuleringsfonds zoals verwoord in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051347&hoofdstuk=1&artikel=2&z=2025-09-01&g=2025-09-01) en past binnen de reikwijdte van deze regeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051347&hoofdstuk=2&artikel=3&z=2025-09-01&g=2025-09-01). Is dat het geval, dan legt het bestuur de aanvraag ter advisering voor aan een door het bestuur ingestelde onafhankelijke adviescommissie.
 
@@ -218,7 +240,7 @@ Een subsidie wordt altijd verleend onder de voorwaarde dat door het Ministerie v
 
 5. De adviescommissie hanteert de [Werkwijze Adviescommissies.](https://cms.stimuleringsfonds.nl/storage/media/SCI_Werkwijze-adviescommissie.pdf) Hierbij geldt de versie zoals gepubliceerd op de website van het Stimuleringsfonds op het moment van indienen.
 
-#### Artikel 13. Beoordelingscriteria
+##### Artikel 13. Beoordelingscriteria
 
 De adviescommissie hanteert bij de beoordeling van een aanvraag de volgende criteria, die in gelijke mate worden gewogen:
 
@@ -230,7 +252,7 @@ De adviescommissie hanteert bij de beoordeling van een aanvraag de volgende crit
 
 - d. **De bedrijfsmatige gezondheid van de organisatie.** De adviescommissie beoordeelt de haalbaarheid van de begroting, inclusief het dekkingsplan en de mate waarin sprake is van een duurzame en solide organisatie. De adviescommissie hanteert hierbij de uitgangspunten van de Fair Practice Code en betrekt in de beoordeling van de aanvraag op dit criterium de analyse op de toepassing van Fair Practice door het Stimuleringsfonds.
 
-#### Artikel 14. Prioritering
+##### Artikel 14. Prioritering
 
 1. Het bestuur beslist gelijktijdig op de ingediende aanvragen.
 
@@ -248,7 +270,7 @@ De adviescommissie hanteert bij de beoordeling van een aanvraag de volgende crit
 
 8. Budget dat na toepassing van dit artikel niet is benut, wordt toegevoegd aan het volgende subsidietijdvak.
 
-#### Artikel 15. Verlening van een subsidie
+##### Artikel 15. Verlening van een subsidie
 
 1. Het bestuur informeert de aanvrager binnen elf weken na de uiterste indiendatum schriftelijk over zijn besluit.
 
@@ -258,7 +280,7 @@ De adviescommissie hanteert bij de beoordeling van een aanvraag de volgende crit
 
 4. Aan het verlenen van een subsidie kunnen door de ontvanger geen rechten worden ontleend met betrekking tot een volgende aanvraag.
 
-#### Artikel 16. Voorschotten
+##### Artikel 16. Voorschotten
 
 1. Het Stimuleringsfonds betaalt in het geval van een toekenning bij wijze van voorschot 80% uit van het toegekende bedrag. Het resterende deel wordt uitbetaald na het besluit tot vaststelling van de subsidie, aan het einde van de subsidieperiode, tenzij de subsidie bij het besluit tot vaststelling lager wordt vastgesteld.
 
@@ -266,7 +288,7 @@ De adviescommissie hanteert bij de beoordeling van een aanvraag de volgende crit
 
 ### Hoofdstuk 5. Verplichtingen van de subsidieontvanger
 
-#### Artikel 17. Administratie
+##### Artikel 17. Administratie
 
 1. De subsidieontvanger voert een zodanig ingerichte projectadministratie dat daaruit te allen tijde de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen evenals de baten en lasten kunnen worden nagegaan.
 
@@ -282,11 +304,11 @@ De adviescommissie hanteert bij de beoordeling van een aanvraag de volgende crit
 
 - c. [Governance Code Cultuur 2019](https://bij.cultuur-ondernemen.nl/governance-code-cultuur/principe/introductie?gclid=EAIaIQobChMI_7e8oOjU7AIVh9KyCh3E2gsSEAAYASAAEgIEw_D_BwE).
 
-#### Artikel 18. Vermelding Stimuleringsfonds Creatieve Industrie
+##### Artikel 18. Vermelding Stimuleringsfonds Creatieve Industrie
 
 In alle publieke uitingen over de gesubsidieerde activiteiten vermeldt de subsidieontvanger het Stimuleringsfonds als subsidieverstrekker. Het logo van het Stimuleringsfonds wordt opgenomen in publicaties en verslagen die betrekking hebben op de gesubsidieerde activiteiten en op uitnodigingen, aankondigingen, websites en audiovisuele producties die hierop betrekking hebben. Als een subsidieontvanger logo’s opneemt van andere partijen, dan wordt in verhouding tot de bijdrage het logo van het Stimuleringsfonds in een vergelijkbare grootte en opmaak weergegeven.
 
-#### Artikel 19. Melding bij het Stimuleringsfonds Creatieve Industrie
+##### Artikel 19. Melding bij het Stimuleringsfonds Creatieve Industrie
 
 Als een van de onderstaande situaties zich voordoet, brengt de subsidieontvanger het bestuur daarvan direct op de hoogte:
 
@@ -300,7 +322,7 @@ Als een van de onderstaande situaties zich voordoet, brengt de subsidieontvanger
 
 ### Hoofdstuk 6. Subsidievaststelling
 
-#### Artikel 20. Vaststelling
+##### Artikel 20. Vaststelling
 
 1. Uiterlijk zestien weken na afloop van de subsidieperiode wordt een aanvraag tot vaststelling ingediend door de subsidieontvanger via de aanvraagomgeving van het Stimuleringsfonds. Hiervoor wordt het verantwoordingsformulier gebruikt.
 
@@ -310,7 +332,7 @@ Als een van de onderstaande situaties zich voordoet, brengt de subsidieontvanger
 
 4. Het bestuur kan de ontvanger nadere aanwijzingen geven over de controle op de naleving van de voorwaarden die zijn verbonden aan de verlening van de subsidie.
 
-#### Artikel 21. Verantwoording bij subsidies van € 25.000 of meer
+##### Artikel 21. Verantwoording bij subsidies van € 25.000 of meer
 
 1. De subsidieontvanger toont aan de hand van het verantwoordingsformulier aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -324,17 +346,17 @@ Als een van de onderstaande situaties zich voordoet, brengt de subsidieontvanger
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 22. Bescherming persoonsgegevens
+##### Artikel 22. Bescherming persoonsgegevens
 
 1. Het Stimuleringsfonds verstrekt geen vertrouwelijke informatie omtrent onder meer bedrijfs- en fabricagegegevens aan derden.
 
 2. Het Stimuleringsfonds gaat zorgvuldig om met de persoonsgegevens als bedoeld in [artikelen 22 tot en met 33 van de Uitvoeringswet Algemene Verordening Gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=22). Het Stimuleringsfonds gebruikt persoonsgegevens voor geen ander doel dan waarvoor deze aan het Stimuleringsfonds zijn verstrekt, tenzij de verstrekking voortvloeit uit een wettelijke verplichting, dan wel kennelijk geen inbreuk maakt op de persoonlijke levenssfeer.
 
-#### Artikel 23. Hardheidsclausule
+##### Artikel 23. Hardheidsclausule
 
 Het bestuur kan in uitzonderlijke gevallen ten gunste van de belanghebbende van bepalingen in deze regeling afwijken, als toepassing daarvan leidt tot onbillijkheid van overwegende aard.
 
-#### Artikel 24. Inwerkingtreding en expiratie
+##### Artikel 24. Inwerkingtreding en expiratie
 
 1. Deze regeling treedt in werking met ingang van 1 september 2025.
 
@@ -346,7 +368,7 @@ Het bestuur kan in uitzonderlijke gevallen ten gunste van de belanghebbende van 
 
 5. Deze regeling vervalt met ingang van 1 januari 2029 met dien verstande dat zij van toepassing blijft op de afwikkeling van de op basis van deze regeling verleende subsidies.
 
-#### Artikel 25. Citeertitel
+##### Artikel 25. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Festivals creatieve industrie 2025–2028.
 

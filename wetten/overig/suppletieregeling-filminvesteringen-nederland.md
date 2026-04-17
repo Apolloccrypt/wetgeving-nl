@@ -1,13 +1,36 @@
 ---
-title: "Suppletieregeling filminvesteringen Nederland"
+title: "Suppletieregeling Filminvesteringen Nederland / Subsidieregeling van de Stichting Nederlands Fonds voor de Film"
 identifier: "BWBR0031813"
-categorie: "Overig"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031813"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031813"
+soort: "zbo"
+stam_id: "11799193"
+version_id: "19540172"
+internal_id: "C27402371"
+label_id: "11771724"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031813/2013-01-01/0"
+intitule_bron: "Stcrt.2012-14886"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2012-07-19"
+intitule_in_force: "2012-07-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-14886"
+original_published_date: "2012-07-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-14886"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0031813&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0031813&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Suppletieregeling filminvesteringen Nederland"
+entry_into_force: "2013-01-01"
 ---
-
 # Suppletieregeling Filminvesteringen Nederland / Subsidieregeling van de Stichting Nederlands Fonds voor de Film
 
 Gelet op de [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904);
@@ -16,7 +39,7 @@ Besluit:
 
 #### § 1. Doelstelling
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze subsidieregeling heeft ten doel het bevorderen van de totstandkoming van bioscoopfilms, die een culturele waarde hebben, omdat zij bijdragen aan de diversiteit van cultuuruitingen in Nederland, én door hun toegankelijkheid in staat zijn grotere groepen van de bevolking te bereiken. Daartoe hanteert deze subsidieregeling als graadmeter voor toegankelijkheid de door marktpartijen in deze bioscoopfilms toegezegde investeringen, voor zover die gelet op het taalgebied waarop deze bioscoopfilms zijn gericht onvoldoende zijn om de met de voortbrenging gemoeide productiekosten vooraf te dekken.
 
@@ -38,7 +61,7 @@ Besluit:
 
 #### § 2. Definities
 
-#### Artikel 2
+##### Artikel 2
 
 In deze regeling en de daarbij behorende bijlage wordt verstaan onder:
 
@@ -74,7 +97,7 @@ In deze regeling en de daarbij behorende bijlage wordt verstaan onder:
 
 #### § 3. Subsidiebedrag en subsidieplafond
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ten behoeve van de voortbrenging van een bioscoopfilm kan op grond van deze regeling aan de aanvrager een subsidie worden verleend die:
 
@@ -98,13 +121,13 @@ In deze regeling en de daarbij behorende bijlage wordt verstaan onder:
 
 3. Indien na de indiening van de aanvraag en het financieringsplan, maar vóór de subsidieverlening, nieuwe financiële bijdragen worden verkregen, dan zal het Fonds die bijdragen in mindering brengen op de aangevraagde subsidie.
 
-#### Artikel 4
+##### Artikel 4
 
 Het subsidieplafond voor het verlenen van subsidies op grond van deze regeling wordt jaarlijks vastgesteld en bedraagt maximaal € 12.000.000,00 euro per kalenderjaar.
 
 #### § 4. Criteria
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het bestuur van het Fonds kan op basis van een daartoe door de aanvrager gedaan verzoek een subsidie ter dekking van de begrote productiekosten van een bioscoopfilm verlenen, wanneer deze bioscoopfilm naar het oordeel van het bestuur voldoet aan de volgende criteria:
 
@@ -116,7 +139,7 @@ Het subsidieplafond voor het verlenen van subsidies op grond van deze regeling w
 
 2. Voor de toepassing van het eerste lid, onder b, zijn de begrote productiekosten, die dienen als grondslag voor de bepaling van de omvang van de door de filmdistributeur toezegde investering gemaximeerd op een bedrag van € 5.000.000,00 euro.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het bestuur van het Fonds beslist in ieder geval afwijzend op een aanvraag tot verlening van subsidie op grond van deze regeling, indien naar het oordeel van het bestuur:
 
@@ -158,7 +181,7 @@ Het subsidieplafond voor het verlenen van subsidies op grond van deze regeling w
 
 #### § 5. Aanvraagprocedure
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een aanvraag om verlening van een subsidie op grond van deze regeling wordt ingediend met gebruikmaking van een formulier, dat wordt vastgesteld door het bestuur.
 
@@ -196,7 +219,7 @@ Het subsidieplafond voor het verlenen van subsidies op grond van deze regeling w
 
 5. Indien de aanvrager er niet in slaagt om binnen de termijn als bedoeld in lid 4 de aanvraag te aan te vullen, wordt een uiterste termijn van 10 werkdagen gesteld, waarbinnen de aanvraag nog kan worden aangevuld. Aanvulling binnen de uiterste termijn leidt er toe dat de dag waarop het verzoek voldoet aan de voorwaarden van deze regeling met betrekking tot de behandeling, als datum van ontvangst geldt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Aanvragen tot subsidieverlening op grond van deze regeling worden niet in behandeling genomen, indien:
 
@@ -218,7 +241,7 @@ Het subsidieplafond voor het verlenen van subsidies op grond van deze regeling w
 
 #### § 6. Subsidieverlening
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een beslissing op een aanvraag om subsidieverlening op grond van deze regeling wordt binnen acht weken na ontvangst van de aanvraag genomen.
 
@@ -230,7 +253,7 @@ Het subsidieplafond voor het verlenen van subsidies op grond van deze regeling w
 
 #### § 7. Verplichtingen van de subsidieontvanger
 
-#### Artikel 10
+##### Artikel 10
 
 1. In geval van subsidieverlening op grond van deze regeling, is de aanvrager verplicht om binnen een termijn van uiterlijk drie maanden na subsidieverlening:
 
@@ -246,7 +269,7 @@ Het subsidieplafond voor het verlenen van subsidies op grond van deze regeling w
 
 4. Van de termijnen, zoals genoemd in het eerste en derde lid, kan niet worden afgeweken. Indien de aanvrager deze termijnen overschrijdt, zal het Fonds het besluit tot subsidieverlening intrekken. De intrekking werkt terug tot en met het tijdstip waarop de subsidie is verleend.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De aanvrager is verplicht er zorg voor te dragen dat de opnamen van de bioscoopfilm waarvoor subsidie is verleend niet eerder starten dan nadat én door het Fonds is bericht dat de aanvrager heeft voldaan aan de verplichtingen, zoals bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031813&paragraaf=7&artikel=10&z=2013-01-01&g=2013-01-01), én – indien van toepassing – de completion guarantor definitieve dekking heeft verleend voor de voortbrenging en voltooiing van de bioscoopfilm waarvoor subsidie is verleend.
 
@@ -264,7 +287,7 @@ Het subsidieplafond voor het verlenen van subsidies op grond van deze regeling w
 
 8. Indien zou blijken dat inkomsten niet zijn ontvangen of besteed op de wijze zoals verwoord in lid 7, en/of er anderszins misbruik is gemaakt van de inkomsten, die in de terugbetalingspositie van de Suppletieregeling zijn binnengekomen dan worden deze door het Fonds teruggevorderd.
 
-#### Artikel 12
+##### Artikel 12
 
 In de tussen de aanvrager en het Fonds na subsidieverlening af te sluiten uitvoeringsovereenkomst worden de aan de subsidie verbonden verplichtingen vastgelegd die naar het oordeel van het bestuur noodzakelijk zijn ter verwezenlijking van het doel van de subsidie. In deze overeenkomst wordt onder meer vastgelegd:
 
@@ -274,7 +297,7 @@ In de tussen de aanvrager en het Fonds na subsidieverlening af te sluiten uitvoe
 
 - c.). de wijze waarop de met exploitatie van de bioscoopfilm te genereren opbrengsten worden verdeeld tussen de rechthebbenden en op welk moment deze opbrengsten dienen te worden aangewend om de op grond van deze regeling verleende subsidie terug te betalen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. In geval de aanvrager toerekenbaar is tekortgeschoten in de uitvoering van, dan wel niet heeft voldaan aan de verplichtingen, die zijn verbonden aan de subsidieverlening, is het Fonds bevoegd de subsidieverlening in trekken of te wijzigen ten nadele van de aanvrager. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verleend, tenzij bij de intrekking of wijziging anders is bepaald.
 
@@ -282,13 +305,13 @@ In de tussen de aanvrager en het Fonds na subsidieverlening af te sluiten uitvoe
 
 #### § 8. Vaststelling van de subsidie
 
-#### Artikel 14
+##### Artikel 14
 
 1. Vaststelling van de verleende subsidie vindt plaats op basis van een daartoe door de aanvrager gedane aanvraag tot vaststelling.
 
 2. De aanvraag tot vaststelling van de subsidie wordt, vergezeld van de daartoe noodzakelijke bescheiden, gedaan binnen uiterlijk 6 maanden na bioscoopuitbreng van de bioscoopfilm waarvoor subsidie is verleend. Indien geen bioscoopuitbreng plaats heeft of indien deze termijn wordt overschreden, is het Fonds bevoegd de verleende subsidie ambtshalve vast te stellen.
 
-#### Artikel 15
+##### Artikel 15
 
 De verleende subsidie wordt lager vastgesteld indien:
 
@@ -302,23 +325,23 @@ De verleende subsidie wordt lager vastgesteld indien:
 
 - e). Uit de bij de aanvraag tot vaststelling van de subsidie verstrekte gegevens blijkt dat de aanvrager, behalve de in het ingediende financieringplan genoemde bijdragen, nog aanvullende financiële bijdragen als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031813&paragraaf=4&artikel=5&z=2013-01-01&g=2013-01-01), heeft verkregen. De aanvullende financiële bijdragen zullen volledig in mindering worden gebracht op de verleende subsidie.
 
-#### Artikel 16
+##### Artikel 16
 
 De hoogte van de subsidievaststelling kan niet hoger zijn dan het bedrag van de subsidieverlening.
 
 #### § 9. Intrekking en wijziging
 
-#### Artikel 17
+##### Artikel 17
 
 Ook in de gevallen waarin deze regeling niet expliciet voorziet is het Fonds, op grond van [afdeling 4.2.6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6), bevoegd tot wijziging of intrekking van de subsidieverlening en de subsidievaststelling.
 
 #### § 10. Betaling en terugvordering
 
-#### Artikel 18
+##### Artikel 18
 
 Het subsidiebedrag wordt betaald binnen 8 weken na de subsidievaststelling, overeenkomstig de subsidievaststelling, onder verrekening van de betaalde voorschotten.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Voorschotten kunnen worden verleend op basis van een daartoe gedaan verzoek door de aanvrager, die bevat de gegevens die daartoe op grond van de uitvoeringsovereenkomst dienen te worden overgelegd aan het Fonds, zoals onder meer een actuele cashflowprognose van met de voortbrenging van de bioscoopfilm waarvoor subsidie is verleend gemoeide inkomsten en uitgaven.
 
@@ -334,13 +357,13 @@ Het subsidiebedrag wordt betaald binnen 8 weken na de subsidievaststelling, over
 
 4. Voorschotten worden binnen vier weken na voorschotverlening betaald, tenzij bij de voorschotverlening anders is bepaald.
 
-#### Artikel 20
+##### Artikel 20
 
 Binnen een termijn van vijf kalenderjaren, te rekenen vanaf de dag van hetzij de subsidievaststelling, hetzij de dag waarop de verleende of vastgestelde subsidie is ingetrokken of ten nadele van de aanvrager is gewijzigd, kan het Fonds onverschuldigd betaalde subsidiebedragen en voorschotten terugvorderen.
 
 #### § 11. Bezwaar
 
-#### Artikel 21
+##### Artikel 21
 
 1. Tegen besluiten van het bestuur op grond van deze regeling kan door een belanghebbende schriftelijk bezwaar worden gemaakt bij het bestuur van het Fonds, binnen een termijn van zes weken nadat het besluit bekend is gemaakt.
 
@@ -356,13 +379,13 @@ Binnen een termijn van vijf kalenderjaren, te rekenen vanaf de dag van hetzij de
 
 #### § 12. Looptijd en tussentijdse wijziging
 
-#### Artikel 22
+##### Artikel 22
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2013.
 
 2. Deze regeling heeft een onbepaalde looptijd. Indien wijzingen van het beoordelingskader voor staatssteun aan de filmsector, zoals dat wordt gehanteerd door de Europese Commissie, daartoe noodzaken, zal deze regeling tussentijds worden aangepast.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Jaarlijks, doch uiterlijk voor 1 november, kan het bestuur, vertegenwoordigers van de filmsector gehoord hebbend, een voorstel doen tot aanpassing van de percentages, zoals bedoeld in [artikel 3, eerste lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031813&paragraaf=3&artikel=3&z=2013-01-01&g=2013-01-01), en in [artikel 5, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031813&paragraaf=4&artikel=5&z=2013-01-01&g=2013-01-01), met dien verstande dat het percentage, zoals bedoeld in artikel 3, eerste lid onder b, niet hoger kan zijn dan 40 procent en het percentage zoals bedoeld in artikel 5, eerste lid onder a, niet lager kan zijn dan 60 procent.
 
@@ -372,7 +395,7 @@ Binnen een termijn van vijf kalenderjaren, te rekenen vanaf de dag van hetzij de
 
 #### § 13. Slotbepalingen
 
-#### Artikel 24
+##### Artikel 24
 
 1. In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.
 
@@ -380,7 +403,7 @@ Binnen een termijn van vijf kalenderjaren, te rekenen vanaf de dag van hetzij de
 
 3. Op deze regeling zijn de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030067&artikel=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0030067&artikel=2), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0030067&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0030067&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0030067&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0030067&artikel=20) en [24 van het Algemeen reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0030067&artikel=24), het Financieel & Productioneel Protocol en het Handboek Financiële Verantwoording van het Fonds van toepassing. Bij strijdigheid tussen bepalingen van deze regeling met en de toepasselijke artikelen uit het Algemeen reglement, prevaleren de bepalingen van deze regeling.
 
-#### Artikel 25
+##### Artikel 25
 
 Deze regeling wordt aangehaald als de Suppletieregeling filminvesteringen Nederland.
 

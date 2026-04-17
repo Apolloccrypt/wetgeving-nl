@@ -1,13 +1,35 @@
 ---
 title: "Aanvullend Protocol bij de Europese Overeenkomst nopens het verstrekken van inlichtingen over buitenlands recht"
 identifier: "BWBV0003809"
-categorie: "Internationaal recht"
-publicatiedatum: 1980-09-04
-laatste_update: 1980-09-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003809"
+country: "nl"
+rank: "verdrag"
+publication_date: "1980-09-04"
+last_updated: "1980-09-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003809"
+soort: "verdrag"
+stam_id: "10003724013"
+version_id: "10003785972"
+internal_id: "C10006981421"
+label_id: "10003709254"
+dtd_version: "2.0"
+original_entry_into_force: "1980-09-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003809/1980-09-04/0"
+intitule_bron: "Trb.1979-165"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1979-11-28"
+intitule_in_force: "1980-06-05"
+intitule_status: "goed"
+original_publication: "Trb.1979-165"
+original_published_date: "1979-11-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1979-165"
+entry_into_force_date: "1980-09-04"
+jci_1_3: "jci1.3:c:BWBV0003809&z=1980-09-04&g=1980-09-04"
+jci_1_0: "1.0:c:BWBV0003809&g=1980-09-04"
+citeertitel_status: "redactioneel"
+entry_into_force: "1980-09-04"
 ---
-
 # Aanvullend Protocol bij de Europese Overeenkomst nopens het verstrekken van inlichtingen over buitenlands recht
 
 De Lid-Staten van de Raad van Europa die dit Protocol hebben ondertekend,
@@ -26,11 +48,11 @@ Zijn als volgt overeengekomen:
 
 ### HOOFDSTUK I
 
-#### Artikel 1
+##### Artikel 1
 
 De Overeenkomstsluitende Partijen nemen de verplichting op zich, elkaar, overeenkomstig de bepalingen van de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004561), inlichtingen te verstrekken over hun materieel strafrecht en hun strafprocesrecht, hun rechterlijke organisatie op het gebied van het strafrecht, met inbegrip van het Openbaar Ministerie, alsmede over het recht betreffende de tenuitvoerlegging van strafrechtelijke sancties. Deze verplichting is van toepassing op iedere procedure die betrekking heeft op strafbare feiten waarvan de rechterlijke autoriteiten van de verzoekende partij op het tijdstip waarop de inlichtingen worden gevraagd bevoegd zijn kennis te nemen.
 
-#### Artikel 2
+##### Artikel 2
 
 Een verzoek om inlichtingen over punten op de in artikel 1 bedoelde gebieden:
 
@@ -40,7 +62,7 @@ Een verzoek om inlichtingen over punten op de in artikel 1 bedoelde gebieden:
 
 ### HOOFDSTUK II
 
-#### Artikel 3
+##### Artikel 3
 
 In het kader van de verplichting voortvloeiend uit [artikel 1, eerste lid, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004561&artikel=1), komen de Overeenkomstsluitende Partijen overeen dat het verzoek om inlichtingen:
 
@@ -48,7 +70,7 @@ In het kader van de verplichting voortvloeiend uit [artikel 1, eerste lid, van d
 
 - b. kan worden gedaan niet alleen naar aanleiding van een reeds aanhangige zaak maar eveneens wanneer wordt overwogen een rechtsvordering in te stellen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Iedere Overeenkomstsluitende Partij die niet overeenkomstig [artikel 2, tweede lid, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004561&artikel=2) een of meer verzendende organen in het leven heeft geroepen of heeft aangewezen, moet zo'n orgaan of zulke organen in het leven roepen of aanwijzen wier taak het zal zijn ieder krachtens artikel 3 van dit Protocol gedaan verzoek om inlichtingen door te zenden aan het bevoegde buitenlandse ontvangende orgaan.
 
@@ -56,7 +78,7 @@ In het kader van de verplichting voortvloeiend uit [artikel 1, eerste lid, van d
 
 ### HOOFDSTUK III
 
-#### Artikel 5
+##### Artikel 5
 
 1. Iedere Staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat hij slechts gebonden zal zijn door het bepaalde in hoofdstuk I of door het bepaalde in hoofdstuk II van dit Protocol.
 
@@ -66,7 +88,7 @@ In het kader van de verplichting voortvloeiend uit [artikel 1, eerste lid, van d
 
 4. Het bepaalde in hoofdstuk I of het bepaalde in hoofdstuk II is slechts van toepassing tussen die Overeenkomstsluitende Partijen die gebonden zijn door het bepaalde in hetzelfde hoofdstuk.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Dit Protocol staat open voor ondertekening door de Lid-Staten van de Raad van Europa die de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004561) hebben ondertekend; zij kunnen bij het Protocol partij worden door:
 
@@ -78,19 +100,19 @@ In het kader van de verplichting voortvloeiend uit [artikel 1, eerste lid, van d
 
 3. Geen enkele Lid-Staat van de Raad van Europa kan dit Protocol ondertekenen zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, of het bekrachtigen, aanvaarden of goedkeuren zonder de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004561) eerder te hebben bekrachtigd of aanvaard of tegelijkertijd te bekrachtigen of te aanvaarden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Dit Protocol treedt in werking drie maanden na de datum waarop drie Lid-Staten van de Raad van Europa partij bij het Protocol zijn geworden overeenkomstig het bepaalde in artikel 6.
 
 2. Ten aanzien van iedere Lid-Staat die het daarna ondertekent zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring of die het bekrachtigt, aanvaardt of goedkeurt, treedt het Protocol in werking drie maanden na de datum van ondertekening of van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Na de inwerkingtreding van dit Protocol kan iedere Staat die is toegetreden tot de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004561) of die hiertoe is uitgenodigd, door het Comité van Ministers worden uitgenodigd tevens toe te treden tot dit Protocol.
 
 2. De toetreding geschiedt door nederlegging bij de Secretaris-Generaal van de Raad van Europa van een akte van toetreding die van kracht wordt drie maanden na de datum van nederlegging.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Iedere Staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het grondgebied of de grondgebieden aangeven waarop dit Protocol van toepassing is.
 
@@ -98,7 +120,7 @@ In het kader van de verplichting voortvloeiend uit [artikel 1, eerste lid, van d
 
 3. Iedere krachtens het vorige lid afgelegde verklaring kan, wat ieder in die verklaring aangegeven grondgebied betreft, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa te richten kennisgeving. De intrekking wordt van kracht zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Iedere Overeenkomstsluitende Partij kan, wat haar betreft, dit Protocol opzeggen door een kennisgeving te richten aan de Secretaris-Generaal van de Raad van Europa.
 
@@ -106,7 +128,7 @@ In het kader van de verplichting voortvloeiend uit [artikel 1, eerste lid, van d
 
 3. De opzegging van de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004561) heeft automatisch de opzegging van dit Protocol ten gevolge.
 
-#### Artikel 11
+##### Artikel 11
 
 De Secretaris-Generaal van de Raad van Europa stelt alle Lid-Staten van de Raad en iedere Staat die tot de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004561) is toegetreden, in kennis van:
 

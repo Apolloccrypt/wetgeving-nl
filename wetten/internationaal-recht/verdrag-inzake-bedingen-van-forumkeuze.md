@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake bedingen van forumkeuze"
 identifier: "BWBV0003114"
-categorie: "Internationaal recht"
-publicatiedatum: 2015-10-01
-laatste_update: 2015-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003114"
+country: "nl"
+rank: "verdrag"
+publication_date: "2015-10-01"
+last_updated: "2015-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003114"
+soort: "verdrag"
+stam_id: "10003336243"
+version_id: "10003366972"
+internal_id: "C10008897201"
+label_id: "10003322594"
+dtd_version: "2.0"
+original_entry_into_force: "2015-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003114/2015-10-01/0"
+intitule_bron: "Trb.2009-31"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-03-04"
+intitule_in_force: "2015-07-08"
+intitule_status: "goed"
+original_publication: "Trb.2009-31"
+original_published_date: "2009-03-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2009-31"
+entry_into_force_date: "2015-10-01"
+jci_1_3: "jci1.3:c:BWBV0003114&z=2015-10-01&g=2015-10-01"
+jci_1_0: "1.0:c:BWBV0003114&g=2015-10-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2015-10-01"
 ---
-
 # Verdrag inzake bedingen van forumkeuze
 
 De Staten die Partij zijn bij dit Verdrag,
@@ -22,7 +44,7 @@ Hebben besloten dit Verdrag te sluiten en zijn de volgende bepalingen overeengek
 
 ### HOOFDSTUK I. TOEPASSINGSGEBIED EN BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 1. Dit Verdrag is in internationale situaties van toepassing op exclusieve forumkeuzebedingen die zijn gemaakt in burgerlijke of handelszaken.
 
@@ -30,7 +52,7 @@ Hebben besloten dit Verdrag te sluiten en zijn de volgende bepalingen overeengek
 
 3. Voor de toepassing van [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=III&z=2015-10-01&g=2015-10-01) is een situatie internationaal wanneer om erkenning en tenuitvoerlegging van een buitenlandse beslissing wordt verzocht.
 
-#### Artikel 2. Uitsluitingen van het toepassingsgebied
+##### Artikel 2. Uitsluitingen van het toepassingsgebied
 
 1. Dit Verdrag is niet van toepassing op exclusieve forumkeuzebedingen:
 
@@ -80,7 +102,7 @@ Hebben besloten dit Verdrag te sluiten en zijn de volgende bepalingen overeengek
 
 6. Dit Verdrag laat onverlet de voorrechten en immuniteiten van Staten of van internationale organisaties, ten aanzien van henzelf of van hun goederen.
 
-#### Artikel 3. Exclusieve forumkeuzebedingen
+##### Artikel 3. Exclusieve forumkeuzebedingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -96,7 +118,7 @@ Voor de toepassing van dit Verdrag:
 
 - d. wordt een exclusief forumkeuzebeding dat deel uitmaakt van een overeenkomst, aangemerkt als een beding dat los staat van de overige bepalingen van de overeenkomst. De geldigheid van het exclusief forumkeuzebeding kan niet worden bestreden op grond van het enkele feit dat de overeenkomst niet geldig is.
 
-#### Artikel 4. Overige begripsomschrijvingen
+##### Artikel 4. Overige begripsomschrijvingen
 
 1. In dit Verdrag wordt onder „beslissing” verstaan een beslissing ten gronde van een gerecht, ongeacht de daaraan gegeven benaming, met inbegrip van een beschikking of een bevel, en een vaststelling van de gerechtskosten door het gerecht (met inbegrip van de griffier van het gerecht), mits de vaststelling betrekking heeft op een beslissing ten gronde die ingevolge dit Verdrag kan worden erkend of ten uitvoer kan worden gelegd. Een voorlopige of bewarende maatregel is geen beslissing.
 
@@ -112,7 +134,7 @@ Voor de toepassing van dit Verdrag:
 
 ### HOOFDSTUK II. RECHTERLIJKE BEVOEGDHEID
 
-#### Artikel 5. Bevoegdheid van het aangewezen gerecht
+##### Artikel 5. Bevoegdheid van het aangewezen gerecht
 
 1. Het gerecht of de gerechten van een Verdragsluitende Staat die in een exclusief forumkeuzebeding zijn aangewezen, zijn bevoegd kennis te nemen van een geschil waarop het beding van toepassing is, tenzij het beding volgens het recht van die Staat nietig is.
 
@@ -124,7 +146,7 @@ Voor de toepassing van dit Verdrag:
 
 - b. inzake de interne verdeling van bevoegdheid tussen de gerechten van een Verdragsluitende Staat. Wanneer het aangewezen gerecht echter de vrijheid heeft een zaak te verwijzen, dient naar behoren rekening te worden gehouden met de keuze van de partijen.
 
-#### Artikel 6. Verplichtingen van een niet aangewezen gerecht
+##### Artikel 6. Verplichtingen van een niet aangewezen gerecht
 
 Elk gerecht van een andere Verdragsluitende Staat dan die van het aangewezen gerecht schorst een procedure of verklaart de vordering niet-ontvankelijk wanneer bij hem een geschil waarop een exclusief forumkeuzebeding van toepassing is, aanhangig wordt gemaakt, tenzij:
 
@@ -138,13 +160,13 @@ Elk gerecht van een andere Verdragsluitende Staat dan die van het aangewezen ger
 
 - e. het aangewezen gerecht heeft beslist geen kennis te nemen van de zaak.
 
-#### Artikel 7. Voorlopige en bewarende maatregelen
+##### Artikel 7. Voorlopige en bewarende maatregelen
 
 Dit Verdrag is niet van toepassing op voorlopige en bewarende maatregelen. Dit Verdrag verlangt niet de toekenning, de afwijzing of de opheffing van voorlopige en bewarende maatregelen door een gerecht van een Verdragsluitende Staat, noch sluit het deze uit. Het laat onverlet de mogelijkheid voor een partij om om zodanige maatregelen te verzoeken en de vrijheid van een gerecht om deze toe te staan, af te wijzen of op te heffen .
 
 ### HOOFDSTUK III. ERKENNING EN TENUITVOERLEGGING
 
-#### Artikel 8. Erkenning en tenuitvoerlegging
+##### Artikel 8. Erkenning en tenuitvoerlegging
 
 1. Een beslissing van een gerecht van een Verdragsluitende Staat dat in een exclusief forumkeuzebeding is aangewezen, wordt in overeenstemming met dit Hoofdstuk in andere Verdragsluitende Staten erkend en ten uitvoer gelegd. De erkenning of de tenuitvoerlegging kan uitsluitend worden geweigerd op de in dit Verdrag vermelde gronden.
 
@@ -156,7 +178,7 @@ Dit Verdrag is niet van toepassing op voorlopige en bewarende maatregelen. Dit V
 
 5. Dit artikel is eveneens van toepassing op een beslissing van een gerecht van een Verdragsluitende Staat na verwijzing van de zaak door het in die Verdragsluitende Staat aangewezen gerecht, als voorzien in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=II&artikel=5&z=2015-10-01&g=2015-10-01). Wanneer het aangewezen gerecht evenwel de vrijheid had om een zaak naar een ander gerecht te verwijzen, kan de erkenning of de tenuitvoerlegging worden geweigerd ten aanzien van een partij die in de Staat waar de beslissing is gegeven tijdig bezwaar heeft gemaakt tegen de verwijzing.
 
-#### Artikel 9. Weigering van erkenning of tenuitvoerlegging
+##### Artikel 9. Weigering van erkenning of tenuitvoerlegging
 
 Erkenning of tenuitvoerlegging kan worden geweigerd indien:
 
@@ -178,7 +200,7 @@ Erkenning of tenuitvoerlegging kan worden geweigerd indien:
 
 - g. de beslissing onverenigbaar is met een eerdere beslissing die in een andere Staat tussen dezelfde partijen is gegeven in een geschil dat hetzelfde onderwerp betreft en op dezelfde oorzaak berust, mits de eerder gegeven beslissing voldoet aan de noodzakelijke voorwaarden voor de erkenning ervan in de aangezochte Staat.
 
-#### Artikel 10. Voorvragen
+##### Artikel 10. Voorvragen
 
 1. Wanneer een aangelegenheid die ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=I&artikel=2&z=2015-10-01&g=2015-10-01), of ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=21&z=2015-10-01&g=2015-10-01) uitgesloten is, als voorvraag aan de orde is gesteld, wordt de uitspraak met betrekking tot die aangelegenheid niet op grond van dit Verdrag erkend of ten uitvoer gelegd.
 
@@ -192,17 +214,17 @@ Erkenning of tenuitvoerlegging kan worden geweigerd indien:
 
 4. De erkenning of de tenuitvoerlegging van een beslissing kan worden geweigerd indien en voor zover de beslissing is gebaseerd op een uitspraak in een aangelegenheid die ingevolge een door de aangezochte Staat krachtens [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=21&z=2015-10-01&g=2015-10-01) afgelegde verklaring uitgesloten is.
 
-#### Artikel 11. Schadevergoeding
+##### Artikel 11. Schadevergoeding
 
 1. De erkenning of de tenuitvoerlegging van een beslissing kan worden geweigerd indien en voor zover in de beslissing schadevergoeding wordt toegekend, met inbegrip van schadevergoeding bij wijze van voorbeeld of bij wijze van sanctie, waarbij een partij niet schadeloos wordt gesteld voor het feitelijk geleden verlies of de feitelijk geleden schade.
 
 2. Het aangezochte gerecht houdt rekening met de vraag of en in welke mate de door het gerecht van herkomst toegekende schadevergoeding dient ter dekking van de proceskosten.
 
-#### Artikel 12. Gerechtelijke schikkingen
+##### Artikel 12. Gerechtelijke schikkingen
 
 Gerechtelijke schikkingen die door een in een exclusief forumkeuzebeding aangewezen gerecht zijn goedgekeurd of die ten overstaan van dat gerecht in de loop van een procedure tot stand zijn gekomen, en die in de Staat waarin de gerechtelijke schikking is goedgekeurd, op dezelfde wijze ten uitvoer kunnen worden gelegd als een beslissing, worden op grond van dit Verdrag op dezelfde wijze ten uitvoer gelegd als een beslissing.
 
-#### Artikel 13. Over te leggen stukken
+##### Artikel 13. Over te leggen stukken
 
 1. De partij die om erkenning of tenuitvoerlegging verzoekt, dient de volgende stukken over te leggen:
 
@@ -222,23 +244,23 @@ Gerechtelijke schikkingen die door een in een exclusief forumkeuzebeding aangewe
 
 4. Indien de in dit artikel bedoelde stukken niet in een officiële taal van de aangezochte Staat zijn gesteld, moeten zij vergezeld gaan van een gewaarmerkte vertaling in een officiële taal, tenzij het recht van de aangezochte Staat anders bepaalt.
 
-#### Artikel 14. Procedure
+##### Artikel 14. Procedure
 
 De procedure voor de erkenning, de uitvoerbaarheid of de registratie voor tenuitvoerlegging, en de tenuitvoerlegging van de beslissing worden beheerst door het recht van de aangezochte Staat behoudens voor zover in dit Verdrag anders is bepaald. Het aangezochte gerecht treedt voortvarend op.
 
-#### Artikel 15. Deelbaarheid
+##### Artikel 15. Deelbaarheid
 
 Erkenning of tenuitvoerlegging van een scheidbaar deel van een beslissing wordt toegestaan wanneer om erkenning of tenuitvoerlegging van dat deel wordt verzocht of wanneer slechts een deel van de beslissing op grond van dit Verdrag kan worden erkend of ten uitvoer gelegd.
 
 ### HOOFDSTUK IV. ALGEMENE BEPALINGEN
 
-#### Artikel 16. Overgangsbepalingen
+##### Artikel 16. Overgangsbepalingen
 
 1. Dit Verdrag is van toepassing op exclusieve forumkeuzebedingen die zijn gemaakt nadat het Verdrag voor de Staat waarvan het gerecht is aangewezen in werking is getreden.
 
 2. Dit Verdrag is niet van toepassing op procedures die aanhangig zijn gemaakt voordat het Verdrag ten aanzien van de Staat waarvan het gerecht waarbij de zaak aanhangig is gemaakt in werking is getreden.
 
-#### Artikel 17. Verzekerings- en herverzekeringsovereenkomsten
+##### Artikel 17. Verzekerings- en herverzekeringsovereenkomsten
 
 1. Procedures uit hoofde van een verzekerings- of herverzekeringsovereenkomst zijn niet van het toepassingsgebied van dit Verdrag uitgesloten op grond van het feit dat de verzekerings- of herverzekeringsovereenkomst betrekking heeft op een aangelegenheid waarop dit Verdrag niet van toepassing is.
 
@@ -248,19 +270,19 @@ Erkenning of tenuitvoerlegging van een scheidbaar deel van een beslissing wordt 
 
 - b. een toekenning van schadevergoeding waarop [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=III&artikel=11&z=2015-10-01&g=2015-10-01) van toepassing zou kunnen zijn.
 
-#### Artikel 18. Geen legalisatie
+##### Artikel 18. Geen legalisatie
 
 Alle ingevolge dit Verdrag verzonden of overgelegde stukken zijn vrijgesteld van legalisatie of enige andere soortgelijke formaliteit, met inbegrip van een Apostille.
 
-#### Artikel 19. Verklaringen ter beperking van de rechterlijke bevoegdheid
+##### Artikel 19. Verklaringen ter beperking van de rechterlijke bevoegdheid
 
 Een Staat kan verklaren dat zijn gerechten kunnen weigeren van geschillen kennis te nemen waarop een exclusief forumkeuzebeding van toepassing is indien er, behoudens de plaats van het aangewezen gerecht, geen band is tussen die Staat en de partijen of het geschil.
 
-#### Artikel 20. Verklaringen ter beperking van de erkenning en de tenuitvoerlegging
+##### Artikel 20. Verklaringen ter beperking van de erkenning en de tenuitvoerlegging
 
 Een Staat kan verklaren dat zijn gerechten kunnen weigeren een door een gerecht van een andere Verdragsluitende Staat gegeven beslissing te erkennen of ten uitvoer te leggen indien de partijen in de aangezochte Staat hun verblijfplaats hadden en de betrekkingen tussen de partijen en alle andere voor het geschil ter zake doende elementen, behoudens de plaats van het aangewezen gerecht, uitsluitend met de aangezochte Staat verbonden waren.
 
-#### Artikel 21. Verklaringen ten aanzien van specifieke aangelegenheden
+##### Artikel 21. Verklaringen ten aanzien van specifieke aangelegenheden
 
 1. Wanneer een Staat er groot belang bij heeft dit Verdrag niet op een bijzondere aangelegenheid toe te passen, kan die Staat verklaren het Verdrag niet op die aangelegenheid toe te zullen passen. De Staat die een dergelijke verklaring aflegt, ziet erop toe dat deze verklaring niet ruimer is dan nodig en dat de bijzondere aangelegenheid die wordt uitgesloten duidelijk en nauwkeurig wordt omschreven.
 
@@ -270,7 +292,7 @@ Een Staat kan verklaren dat zijn gerechten kunnen weigeren een door een gerecht 
 
 - b. in andere Verdragsluitende Staten, wanneer in een exclusief forumkeuzebeding de gerechten, of een of meer bepaalde gerechten van de Staat die de verklaring heeft afgelegd, zijn aangewezen.
 
-#### Artikel 22. Wederzijdse verklaringen inzake niet-exclusieve forumkeuzebedingen
+##### Artikel 22. Wederzijdse verklaringen inzake niet-exclusieve forumkeuzebedingen
 
 1. Een Verdragsluitende Staat kan verklaren dat zijn gerechten beslissingen zullen erkennen en ten uitvoer zullen leggen die zijn gegeven door gerechten van andere Verdragsluitende Staten die zijn aangewezen in een door twee of meer partijen gemaakt exclusief forumkeuzebeding dat voldoet aan de vereisten van [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=I&artikel=3&z=2015-10-01&g=2015-10-01), en waarin, met het oog op de kennisneming van geschillen die in verband met een bepaalde rechtsbetrekking zijn gerezen of zouden kunnen rijzen, een of meer gerechten van een of meer Verdragsluitende Staten zijn aangewezen (een niet-exclusief forumkeuzebeding).
 
@@ -282,11 +304,11 @@ Een Staat kan verklaren dat zijn gerechten kunnen weigeren een door een gerecht 
 
 - c. de zaak het eerst bij het gerecht van herkomst aanhangig is gemaakt.
 
-#### Artikel 23. Uniforme uitlegging
+##### Artikel 23. Uniforme uitlegging
 
 Bij de uitlegging van dit Verdrag dient rekening te worden gehouden met het internationale karakter ervan alsmede met de noodzaak de uniforme toepassing ervan te bevorderen.
 
-#### Artikel 24. Toetsing van de werking van het Verdrag
+##### Artikel 24. Toetsing van de werking van het Verdrag
 
 De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrecht neemt periodiek maatregelen om:
 
@@ -294,7 +316,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 - b. te bezien of wijziging van dit Verdrag wenselijk is.
 
-#### Artikel 25. Niet-geünificeerde rechtsstelsels
+##### Artikel 25. Niet-geünificeerde rechtsstelsels
 
 1. Ten aanzien van een Verdragsluitende Staat die op het gebied van enige bij dit Verdrag geregelde aangelegenheid twee of meer rechtsstelsels heeft die binnen verschillende territoriale eenheden van toepassing zijn:
 
@@ -312,7 +334,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 4. Dit artikel is niet van toepassing op een Regionale Organisatie voor Economische Integratie.
 
-#### Artikel 26. Verhouding tot andere internationale instrumenten
+##### Artikel 26. Verhouding tot andere internationale instrumenten
 
 1. Dit Verdrag dient op zodanige wijze te worden uitgelegd dat het voor zover mogelijk verenigbaar is met andere voor de Verdragsluitende Staten van kracht zijnde verdragen, ongeacht of deze voor of na dit Verdrag zijn gesloten.
 
@@ -332,7 +354,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 ### HOOFDSTUK V. SLOTBEPALINGEN
 
-#### Artikel 27. Ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding
+##### Artikel 27. Ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding
 
 1. Dit Verdrag staat open voor ondertekening door alle Staten.
 
@@ -342,7 +364,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 4. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden, depositaris van het Verdrag.
 
-#### Artikel 28. Verklaringen ten aanzien van niet-geünificeerde rechtsstelsels
+##### Artikel 28. Verklaringen ten aanzien van niet-geünificeerde rechtsstelsels
 
 1. Indien een Staat twee of meer territoriale eenheden heeft waarin verschillende rechtsstelsels van toepassing zijn betreffende in dit Verdrag geregelde aangelegenheden, kan hij op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat dit Verdrag op al deze territoriale eenheden of slechts op een of meer daarvan van toepassing is en kan hij deze verklaring te allen tijde wijzigen door een nieuwe verklaring af te leggen.
 
@@ -352,7 +374,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 4. Dit artikel is niet van toepassing op een Regionale Organisatie voor Economische Integratie.
 
-#### Artikel 29. Regionale Organisaties voor Economische Integratie
+##### Artikel 29. Regionale Organisaties voor Economische Integratie
 
 1. Een Regionale Organisatie voor Economische Integratie die uitsluitend is samengesteld uit soevereine Staten en die bevoegd is ter zake van sommige of alle aangelegenheden die in dit Verdrag worden geregeld, kan dit Verdrag eveneens ondertekenen, aanvaarden, goedkeuren of hiertoe toetreden. De Regionale Organisatie voor Economische Integratie heeft in dat geval de rechten en verplichtingen van een Verdragsluitende Staat voor zover de organisatie bevoegd is ter zake van de aangelegenheden waarop dit Verdrag van toepassing is.
 
@@ -362,13 +384,13 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 4. Alle verwijzingen naar een „Verdragsluitende Staat” of een „Staat” in dit Verdrag zijn in voorkomend geval eveneens van toepassing op een Regionale Organisatie voor Economische Integratie die Partij bij het Verdrag is.
 
-#### Artikel 30. Toetreding door een Regionale Organisatie voor Economische Integratie zonder de lidstaten ervan
+##### Artikel 30. Toetreding door een Regionale Organisatie voor Economische Integratie zonder de lidstaten ervan
 
 1. Op het tijdstip van ondertekening, aanvaarding of goedkeuring van dit Verdrag of van toetreding ertoe kan een Regionale Organisatie voor Economische Integratie verklaren dat zij de bevoegdheid uitoefent ter zake van alle aangelegenheden waarop dit Verdrag van toepassing is en dat haar lidstaten geen Partij bij dit Verdrag zullen zijn, maar gebonden zullen zijn door ondertekening, aanvaarding, goedkeuring of toetreding door de organisatie.
 
 2. In het geval dat een Regionale Organisatie voor Economische Integratie een verklaring in overeenstemming met het eerste lid heeft afgelegd, zijn alle verwijzingen naar een „Verdragsluitende Staat” of „Staat” in dit Verdrag in voorkomend geval eveneens van toepassing op de lidstaten van de organisatie.
 
-#### Artikel 31. Inwerkingtreding
+##### Artikel 31. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de maand volgend op het verstrijken van een termijn van drie maanden na de nederlegging van de tweede akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=27&z=2015-10-01&g=2015-10-01).
 
@@ -378,7 +400,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 - b. voor een territoriale eenheid waartoe dit Verdrag overeenkomstig [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=28&z=2015-10-01&g=2015-10-01), is uitgebreid, op de eerste dag van de maand volgend op het verstrijken van een termijn van drie maanden na de kennisgeving van de verklaring bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=28&z=2015-10-01&g=2015-10-01).
 
-#### Artikel 32. Verklaringen
+##### Artikel 32. Verklaringen
 
 1. De in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=19&z=2015-10-01&g=2015-10-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=20&z=2015-10-01&g=2015-10-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=21&z=2015-10-01&g=2015-10-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=22&z=2015-10-01&g=2015-10-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=26&z=2015-10-01&g=2015-10-01) bedoelde verklaringen kunnen worden afgelegd bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding of op enig tijdstip daarna, en kunnen te allen tijde worden gewijzigd of ingetrokken.
 
@@ -390,13 +412,13 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 5. Een verklaring ingevolge de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=19&z=2015-10-01&g=2015-10-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=20&z=2015-10-01&g=2015-10-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=21&z=2015-10-01&g=2015-10-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=26&z=2015-10-01&g=2015-10-01) is niet van toepassing op exclusieve forumkeuzebedingen die zijn gemaakt voordat de verklaring van kracht wordt.
 
-#### Artikel 33. Opzegging
+##### Artikel 33. Opzegging
 
 1. Dit Verdrag kan worden opgezegd door middel van een schriftelijke kennisgeving aan de depositaris. De opzegging kan worden beperkt tot bepaalde territoriale eenheden van een niet-geünificeerd rechtsstelsel waarop dit Verdrag van toepassing is.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand volgend op het verstrijken van een termijn van twaalf maanden na de datum waarop de kennisgeving door de depositaris is ontvangen. Wanneer in de kennisgeving een langere opzegtermijn is aangegeven, wordt de opzegging van kracht na het verstrijken van deze langere termijn, na de datum waarop de kennisgeving door de depositaris is ontvangen.
 
-#### Artikel 34. Kennisgevingen door de depositaris
+##### Artikel 34. Kennisgevingen door de depositaris
 
 De depositaris geeft de Leden van de Haagse Conferentie voor Internationaal Privaatrecht en andere Staten en Regionale Organisaties voor Economische Integratie die in overeenstemming met de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=27&z=2015-10-01&g=2015-10-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=29&z=2015-10-01&g=2015-10-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=30&z=2015-10-01&g=2015-10-01) zijn overgegaan tot ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding, kennis van het volgende:
 

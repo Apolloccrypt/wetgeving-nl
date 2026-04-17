@@ -1,14 +1,36 @@
 ---
-title: "Consulaire Wet"
+title: "Wet van 25 juli 1871, houdende regeling van de bevoegdheid der consulaire ambtenaren tot het opmaken van burgerlijke akten, en van de consulaire regtsmagt"
 identifier: "BWBR0001847"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001847"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001847"
+soort: "rijkswet"
+stam_id: "1268373"
+version_id: "1882392"
+internal_id: "C1882391"
+label_id: "1228314"
+dtd_version: "2.0"
+original_entry_into_force: "1873-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001847/2020-01-01/0"
+intitule_bron: "Stb.1871-91"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1871-07-25"
+intitule_status: "goed"
+original_publication: "Stb.1871-91"
+original_signed_date: "1871-07-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1873-01-01"
+jci_1_3: "jci1.3:c:BWBR0001847&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0001847&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Consulaire Wet"
+signed_date: "1871-07-25"
+entry_into_force: "1873-01-01"
 ---
-
-# Consulaire Wet
+# Wet van 25 juli 1871, houdende regeling van de bevoegdheid der consulaire ambtenaren tot het opmaken van burgerlijke akten, en van de consulaire regtsmagt
 
 Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
 
@@ -18,7 +40,7 @@ Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten
 
 ### hoofdstuk Eerste. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Aan de consulaire ambtenaren, bij algemene maatregel van rijksbestuur aan te wijzen, wordt toegekend:
 
@@ -38,27 +60,27 @@ Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten
 
 6. De aan het hoofd van consulaire posten gestelde ambtenaren worden bij koninklijk besluit aangewezen voor de duur dat zij in die functie zijn gesteld. De aanwijzing eindigt met ingang van de datum dat de uitoefening van de functie van hoofd van een consulaire post geen onderdeel meer uitmaakt van de werkzaamheden van de betreffende ambtenaar.
 
-#### Artikel 2
+##### Artikel 2
 
 Onder consulaire ambtenaren verstaat deze wet de aan het hoofd van consulaire posten gestelde diplomatieke en consulaire ambtenaren en de verdere leden van het personeel van de buitenlandse dienst, die aan een consulaire post een consulaire betrekking bekleden.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij afwezigheid of verhindering van de, ingevolge [art. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Eerste&artikel=1&z=2020-01-01&g=2020-01-01) aangewezen, consulaire ambtenaar, wordt deze vervangen door de ter plaatse zijner vestiging aanwezige consulaire ambtenaar van mindere rang, en, bij ontstentenis van zodanige ambtenaar, door de persoon, die tot het waarnemen zijner betrekking aangewezen is.
 
-#### Artikel 4
+##### Artikel 4
 
 Ter vervulling van zijn in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Eerste&artikel=1&z=2020-01-01&g=2020-01-01) genoemde bevoegdheden kan een consulaire ambtenaar een tolk benoemen of, bij voorkomende omstandigheden, een persoon tijdelijk met de betrekking van tolk belasten.
 
-#### Artikel 5
+##### Artikel 5
 
 De tolk, krachtens het voorgaande artikel benoemd of aangewezen, legt, alvorens zijn betrekking te aanvaarden, in handen van de consulaire ambtenaar de eed (de belofte) af, dat hij die betrekking getrouw zal waarnemen.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Grossen van overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Tweede&artikel=17&z=2020-01-01&g=2020-01-01) opgemaakte akten voeren aan het hoofd de woorden "In naam des Konings".
 
@@ -66,15 +88,15 @@ Vervallen
 
 3. Na het wijzen van een scheidsrechterlijke uitspraak zendt de consulaire ambtenaar deze uitspraak, met een afschrift van zijn schriftelijke benoeming als scheidsman door de partijen of met een authentiek afschrift daarvan, aan de president van de rechtbank Den Haag die daarop een bevelschrift stelt als bedoeld in [artikel 642 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=642), dan wel een overeenkomstige regeling in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 8
+##### Artikel 8
 
 Voor alle uitspraken en akten, uit kracht van de wet door consulaire ambtenaren opgemaakt of verleden, is het gebruik van elke levende taal geoorloofd, mits de gebezigde taal wordt verstaan door de partijen en door allen die bij het opmaken of verlijden der akten verschijnen ofwel de inhoud aan hen die de gebezigde taal niet verstaan, wordt vertolkt door een volgens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Eerste&artikel=5&z=2020-01-01&g=2020-01-01) beëdigde tolk.
 
-#### Artikel 9
+##### Artikel 9
 
 Bij de uitoefening van rechtspraak en het verrichten van andere handelingen van rechters neemt de consulaire ambtenaar zoveel mogelijk de voorschriften in acht die in de [derde titel van het Eerste Boek van het Nederlandse Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&titeldeel=Derde) aan rechters en griffiers zijn gegeven, dan wel een overeenkomstige regeling in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Door een consulaire ambtenaar als getuige opgeroepen binnen het consulaire ressort aanwezige Nederlanders die geen geldige reden van verschoning hebben, moeten verschijnen en onder ede (belofte) de gehele waarheid en niets dan de waarheid zeggen.
 
@@ -82,7 +104,7 @@ Bij de uitoefening van rechtspraak en het verrichten van andere handelingen van 
 
 3. De consulaire ambtenaar is bevoegd binnen het consulaire ressort aanwezige Nederlanders op te roepen die echtgenoot, bloed- of aanverwant, voogd, toeziende voogd, curator, bijzondere curator of toeziende curator zijn van degene over wiens rechten een zaak behandeld wordt. De opgeroepene die geen geldige reden van verschoning heeft, is verplicht in persoon of, waar de wet zulks toelaat, bij gemachtigde te verschijnen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een consulaire ambtenaar kan worden gewraakt op een of meer der in [artikel 36 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=36) genoemde gronden, dan wel een overeenkomstige regeling in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -90,7 +112,7 @@ Bij de uitoefening van rechtspraak en het verrichten van andere handelingen van 
 
 3. Indien een consulaire ambtenaar zich verschoont of indien zijn wraking gegrond bevonden wordt, voorziet de onmiddellijk boven hem gestelde ambtenaar of bij gebreke daarvan de secretaris-generaal van het Departement van Buitenlandse Zaken in zijn vervanging door een andere consulaire ambtenaar die niet aan de eerstgenoemde ondergeschikt mag zijn.
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. Alle vonnissen en beschikkingen van een consulaire ambtenaar zijn bij voorraad uitvoerbaar, voor zover hij niet anders bepaalt.
 
@@ -98,11 +120,11 @@ Bij de uitoefening van rechtspraak en het verrichten van andere handelingen van 
 
 ### hoofdstuk Tweede. Het opmaken van burgerlijke akten
 
-#### Artikel 11b
+##### Artikel 11b
 
 Alle uitspraken en akten, uit kracht van de wet door consulaire ambtenaren opgemaakt of verleden zijn geldig, ook wanneer de bij de Nederlandse wetten of in voorkomend geval de bij de Nederlandse, Arubaanse, Curaçaose of Sint Maartense wettelijke bepalingen voorgeschreven formaliteiten daarbij niet in acht zijn genomen, mits in dit geval in het stuk de redenen vermeld zijn waarom het verzuim der voorgeschreven formaliteiten onvermijdelijk was.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een consulaire ambtenaar is, voorzover hem de bevoegdheid tot het opmaken van akten van de burgerlijke stand is toegekend, bevoegd tot de verrichtingen, aan de ambtenaren van de burgerlijke stand bij Nederlandse, Arubaanse, Curaçaose of Sint Maartense wettelijke bepalingen opgedragen.
 
@@ -110,11 +132,11 @@ Alle uitspraken en akten, uit kracht van de wet door consulaire ambtenaren opgem
 
 3. De aangiften van geboorte in de consulaire ressorten moeten binnen dertig dagen na de bevalling worden gedaan.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien een aanstaande echtgenoot die Nederlander is, in het tijdvak van zes maanden voorafgaande aan de dag der huwelijksvoltrekking woonplaats binnen het Koninkrijk heeft gehad, verzoekt de consulaire ambtenaar, te wiens overstaan het huwelijk zal worden voltrokken, de ambtenaren van de burgerlijke stand van de plaatsen, waar die aanstaande echtgenoot in dat tijdvak woonplaats binnen het Koninkrijk heeft gehad, zorg te dragen voor de afkondiging van het voorgenomen huwelijk in hun standplaats.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De door de consulaire ambtenaren opgemaakte akten van de burgerlijke stand worden in één of meer registers ingeschreven.
 
@@ -122,35 +144,35 @@ Indien een aanstaande echtgenoot die Nederlander is, in het tijdvak van zes maan
 
 3. Een der dubbelen wordt bewaard in de archieven van het consulaire post; het andere aan Onze voornoemde Minister opgezonden, door wiens tussenkomst het ter griffie van de rechtbank Den Haag wordt overgebracht.
 
-#### Artikel 15
+##### Artikel 15
 
 De volmachten en andere stukken, welke bij de akten van de burgerlijke stand worden gevorderd, blijven aangehecht aan de registers, welke ter griffie van de rechtbank Den Haag moeten worden overgebracht.
 
-#### Artikel 16
+##### Artikel 16
 
 Ten opzichte van de in het vorig artikel bedoelde registers worden aan de griffier van de rechtbank Den Haag dezelfde verplichtingen opgelegd als met betrekking tot de overige ter griffie dier rechtbank zich bevindende registers van de burgerlijke stand op hem rusten.
 
-#### Artikel 16a
+##### Artikel 16a
 
 1. Van de verzoeken tot doorhaling van een akte in of tot aanvulling of verbetering van de registers van de burgerlijke stand die binnen een consulair ressort zijn of hadden moeten worden gehouden, neemt de rechtbank Den Haag kennis, behoudens hoger beroep.
 
 2. [Artikel 29 van boek 1 van het Nederlands Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=29) is van overeenkomstige toepassing.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een consulaire ambtenaar is, voor zover hem de bevoegdheid tot het opmaken van andere burgerlijke akten dan die van de burgerlijke stand is toegekend, bevoegd tot verrichtingen, aan de notaris bij Nederlandse, Arubaanse, Curaçaose of Sint Maartense wettelijke bepalingen opgedragen.
 
 2. De door hem of te zijnen overstaan overeenkomstig die wettelijke bepalingen verleden akten hebben gelijke kracht als waren zij in het Koninkrijk verleden.
 
-#### Artikel 18
+##### Artikel 18
 
 De door Nederlanders binnen het ressort van een in het vorige artikel vermelde ambtenaar overeenkomstig de voorschriften van het Nederlandse, Arubaanse, Curaçaose of Sint Maartense recht opgemaakte olographische en geheime testamenten zijn geldig, na bij die ambtenaar in bewaring te zijn gesteld, mede met inachtneming van hetgeen daarover in het Nederlandse, Nederlands-Antilliaanse of Arubaanse recht is bepaald.
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 19a
+##### Artikel 19a
 
 1. De consulaire ambtenaren, voor zover zij bevoegd zijn tot het opmaken van:
 
@@ -180,7 +202,7 @@ Vervallen
 
 4. Van een in dit artikel bedoelde opgave wordt op de dag, waarop zij is geschied, in het repertorium aantekening gedaan.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze wet kan worden aangehaald onder de titel van Consulaire Wet.
 

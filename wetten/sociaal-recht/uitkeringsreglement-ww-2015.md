@@ -1,13 +1,35 @@
 ---
 title: "Uitkeringsreglement WW 2015"
 identifier: "BWBR0036710"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-10-01
-laatste_update: 2022-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036710"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-10-01"
+last_updated: "2022-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036710"
+soort: "zbo"
+stam_id: "13183613"
+version_id: "22465752"
+internal_id: "C32244911"
+label_id: "13152034"
+dtd_version: "2.0"
+original_entry_into_force: "2015-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036710/2022-10-01/0"
+intitule_bron: "Stcrt.2015-16862"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-06-23"
+intitule_in_force: "2015-06-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-16862"
+original_published_date: "2015-06-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-16862"
+entry_into_force_date: "2015-07-01"
+jci_1_3: "jci1.3:c:BWBR0036710&z=2022-10-01&g=2022-10-01"
+jci_1_0: "1.0:c:BWBR0036710&g=2022-10-01"
+citeertitel_status: "officieel"
+entry_into_force: "2015-07-01"
 ---
-
 # Uitkeringsreglement WW 2015
 
 Gelet op [artikel 101 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=101);
@@ -16,7 +38,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In dit reglement wordt verstaan onder:
 
@@ -36,13 +58,13 @@ In dit reglement wordt verstaan onder:
 
 #### § 2. Controlevoorschriften
 
-#### Artikel 2. Aanvraag werkloosheidsuitkering
+##### Artikel 2. Aanvraag werkloosheidsuitkering
 
 1. De werknemer dient binnen één week na het intreden van de werkloosheid bij het UWV een aanvraag voor een uitkering in op de wijze zoals beschreven in de [Beleidsregel elektronische communicatie UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0031975) en de daarbij behorende [bijlage](onbekend).
 
 2. De aanvraag wordt door de werknemer ondertekend. Indien de aanvraag elektronisch wordt ingediend, vindt ondertekening plaats via DigiD.
 
-#### Artikel 3. Gegevensverstrekking werknemer
+##### Artikel 3. Gegevensverstrekking werknemer
 
 1. De werknemer geeft onverwijld en uit eigen beweging aan het UWV alle feiten en omstandigheden door, waarvan het hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op de uitkering. De werknemer gebruikt hiervoor het door het UWV beschikbaar gestelde wijzigingsformulier en stuurt dit formulier aan het UWV op de wijze zoals beschreven in de [Beleidsregel elektronische communicatie UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0031975) en de daarbij behorende [bijlage](onbekend).
 
@@ -52,7 +74,7 @@ In dit reglement wordt verstaan onder:
 
 4. Ingevulde wijzigingsformulieren en formulieren inkomstenopgave worden door de werknemer ondertekend. Indien een formulier elektronisch aan het UWV wordt gestuurd, vindt ondertekening plaats via DigiD.
 
-#### Artikel 4. Overige controlevoorschriften
+##### Artikel 4. Overige controlevoorschriften
 
 1. De werknemer, die een aanvraag voor een werkloosheidsuitkering heeft gedaan:
 
@@ -78,7 +100,7 @@ In dit reglement wordt verstaan onder:
 
 #### § 3. Vakantievoorschriften
 
-#### Artikel 5. Melding van vakantie
+##### Artikel 5. Melding van vakantie
 
 1. De werknemer, die een aanvraag voor een werkloosheidsuitkering heeft gedaan en die voornemens is tijdens de duur van de uitkering met vakantie te gaan, doet voor de aanvang van die vakantie op het wijzigingsformulier mededeling van de voorgenomen duur van de vakantie en van de periode waarin deze zal plaatsvinden.
 
@@ -86,11 +108,11 @@ In dit reglement wordt verstaan onder:
 
 #### § 4. Betaling van de uitkering door tussenkomst van de werkgever
 
-#### Artikel 6. Bevoegdheid uitkeringsaanvraag door werkgever
+##### Artikel 6. Bevoegdheid uitkeringsaanvraag door werkgever
 
 Indien de werkgever op grond van [artikel 628, negende lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=628) niet verplicht is het loon te betalen, kan het UWV toestaan dat de aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=2&artikel=2&z=2022-10-01&g=2022-10-01), namens de werknemer door de werkgever wordt gedaan en dat de betaling van de uitkering door tussenkomst van de werkgever plaatsvindt.
 
-#### Artikel 7. Verplichtingen werkgever
+##### Artikel 7. Verplichtingen werkgever
 
 1. De werkgever aan wie is toegestaan de aanvraag te doen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=4&artikel=6&z=2022-10-01&g=2022-10-01), houdt een administratie bij van de dagen waarop en de uren gedurende welke de werknemer of werknemers, namens wie hij genoemde aanvraag heeft gedaan, uitsluitend als gevolg van buitengewone omstandigheden niet hebben gewerkt. Deze administratie voldoet aan de door het UWV daaraan gestelde eisen. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=2&artikel=4&z=2022-10-01&g=2022-10-01) is van overeenkomstige toepassing.
 
@@ -98,13 +120,13 @@ Indien de werkgever op grond van [artikel 628, negende lid, van Boek 7 van het B
 
 3. Als het UWV daarom verzoekt, zendt de werkgever aan wie de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=4&artikel=6&z=2022-10-01&g=2022-10-01) bedoelde toestemming is verleend de formulieren inkomstenopgave van ieder van de werknemers, namens wie hij de aanvraag heeft gedaan, overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=2&artikel=4&z=2022-10-01&g=2022-10-01) tegen een door het UWV aan te geven tijdstip aan het UWV.
 
-#### Artikel 8. Sanctie op overtreding verplichtingen werkgever
+##### Artikel 8. Sanctie op overtreding verplichtingen werkgever
 
 Als de werkgever aan wie de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=4&artikel=7&z=2022-10-01&g=2022-10-01) bedoelde toestemming is verleend, één of meer verplichtingen, bedoeld in artikel 7, eerste en derde lid niet naar behoren nakomt, kan het UWV besluiten om de door de werkgever als voorschot op de uitkering aan de werknemer gedane betalingen, geheel of gedeeltelijk niet te vergoeden.
 
 #### § 5. Voorwaarden bij ontvangen van uitkering
 
-#### Artikel 9. Voorwaarden bij betaling van voorschotten
+##### Artikel 9. Voorwaarden bij betaling van voorschotten
 
 1. De werknemer aan wie het UWV een voorschot op de uitkering heeft verleend, maakt op verzoek van het UWV zijn eventuele aanspraak naar burgerlijk recht geldend.
 
@@ -116,13 +138,13 @@ Als de werkgever aan wie de in [artikel 7, eerste lid](https://wetten.overheid.n
 
 5. Het UWV kan aan de betaling van voorschotten andere voorschriften verbinden.
 
-#### Artikel 10. Voorwaarden bij betaling van uitkering
+##### Artikel 10. Voorwaarden bij betaling van uitkering
 
 Het UWV betaalt de uitkering binnen twee weken nadat de werknemer over de betreffende kalendermaand heeft voldaan aan de verplichting, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=2&artikel=3&z=2022-10-01&g=2022-10-01).
 
 #### § 6. Slotbepalingen
 
-#### Artikel 11. Intrekking Uitkeringsreglement WW 2009 en overgangsrecht
+##### Artikel 11. Intrekking Uitkeringsreglement WW 2009 en overgangsrecht
 
 1. Het [uitkeringsreglement WW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025107) wordt ingetrokken.
 
@@ -130,10 +152,10 @@ Het UWV betaalt de uitkering binnen twee weken nadat de werknemer over de betref
 
 3. De toepassing van het tweede lid eindigt op het tijdstip dat het recht op uitkering op grond van [artikel 130z](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130z) of [130aa van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130aa) door het UWV is omgezet in een recht op uitkering op grond van de werkloosheidswet zoals deze luidt na de inwerkingtreding van de [Wet werk en zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking op 1 juli 2015, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 30 juni 2015, treedt het in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt het terug tot en met 1 juli 2015.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Uitkeringsreglement WW 2015.

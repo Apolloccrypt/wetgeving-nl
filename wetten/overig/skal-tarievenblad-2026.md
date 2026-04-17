@@ -1,13 +1,38 @@
 ---
 title: "Skal-Tarievenblad 2026"
 identifier: "BWBR0051972"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051972"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051972"
+soort: "ministeriele-regeling"
+stam_id: "17680743"
+version_id: "31201642"
+internal_id: "C44633241"
+label_id: "17580304"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051972/2026-01-01/0"
+intitule_bron: "Stcrt.2025-42670"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-09"
+intitule_published: "2025-12-16"
+intitule_in_force: "2025-12-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-42670"
+original_signed_date: "2025-12-09"
+original_published_date: "2025-12-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-42670"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051972&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051972&g=2026-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2025-12-09"
+entry_into_force: "2026-01-01"
 ---
-
 # Skal-Tarievenblad 2026
 
 ### Inleidende bepalingen

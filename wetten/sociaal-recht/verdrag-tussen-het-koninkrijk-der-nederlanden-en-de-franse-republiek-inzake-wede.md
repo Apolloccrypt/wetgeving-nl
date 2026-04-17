@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Franse Republiek inzake wederzijdse bijstand en samenwerking tussen hun douaneadministraties ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing, vaststelling en bestrijding van inbreuken op de douanewetgeving in het Caribisch gebied, in het bijzonder op het eiland Sint Maarten / Saint Martin"
 identifier: "BWBV0001561"
-categorie: "Sociaal recht"
-publicatiedatum: 2010-12-01
-laatste_update: 2002-01-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001561"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-12-01"
+last_updated: "2002-01-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001561"
+soort: "verdrag"
+stam_id: "10001912513"
+version_id: "10002001222"
+internal_id: "C10006993891"
+label_id: "10001913254"
+dtd_version: "2.0"
+original_entry_into_force: "2010-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001561/2010-12-01/0"
+intitule_bron: "Trb.2002-58"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-12-05"
+intitule_published: "2002-03-25"
+intitule_in_force: "2010-12-06"
+intitule_status: "goed"
+original_publication: "Trb.2002-58"
+original_signed_date: "2002-12-05"
+original_published_date: "2002-03-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2002-58"
+entry_into_force_date: "2010-12-01"
+jci_1_3: "jci1.3:c:BWBV0001561&z=2010-12-01&g=2010-12-01"
+jci_1_0: "1.0:c:BWBV0001561&g=2010-12-01"
+citeertitel_status: "redactioneel"
+signed_date: "2002-12-05"
+entry_into_force: "2010-12-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Franse Republiek inzake wederzijdse bijstand en samenwerking tussen hun douaneadministraties ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing, vaststelling en bestrijding van inbreuken op de douanewetgeving in het Caribisch gebied, in het bijzonder op het eiland Sint Maarten / Saint Martin
 
 Het Koninkrijk der Nederlanden
@@ -44,7 +69,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag wordt verstaan onder
 
@@ -78,11 +103,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder
 
 ### HOOFDSTUK II. TOEPASSINGSGEBIED VAN HET VERDRAG
 
-#### Artikel 2
+##### Artikel 2
 
 Onverminderd de wederzijdse bijstand en samenwerking in het kader van de Europese Unie, is dit Verdrag van toepassing, in het douanegebied van de Partijen, op de wederzijdse bijstand en samenwerking met betrekking tot het Caribisch gebied en met name op het eiland Sint Maarten/Saint Martin.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Partijen verlenen elkaar door tussenkomst van hun douaneadministraties bijstand en werken samen onder de in dit Verdrag genoemde voorwaarden ten behoeve van de juiste toepassing van de douanewetgeving, van de inning van douanevorderingen en van voorkoming, opsporing, vaststelling en bestrijding van inbreuken.
 
@@ -94,13 +119,13 @@ Onverminderd de wederzijdse bijstand en samenwerking in het kader van de Europes
 
 ### HOOFDSTUK III. REIKWIJDTE VAN DE BIJSTAND EN VAN DE SAMENWERKING
 
-#### Artikel 4
+##### Artikel 4
 
 1. De douaneadministraties verstrekken elkaar op verzoek of uit eigen beweging informatie die kan bijdragen tot de juiste toepassing van de douanewetgeving en de voorkoming, opsporing, vaststelling en bestrijding van inbreuken.
 
 2. Elk van beide douaneadministraties handelt bij het instellen van een onderzoek namens een andere douaneadministratie alsof het onderzoek werd ingesteld ten behoeve van haarzelf of op verzoek van een andere nationale autoriteit.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aangezochte administratie verstrekt, op verzoek, alle informatie over de douanewetgeving en -regelingen van toepassing in het douanegebied van de aangezochte Partij die van belang is respectievelijk zijn voor het onderzoek met betrekking tot een inbreuk.
 
@@ -118,7 +143,7 @@ Onverminderd de wederzijdse bijstand en samenwerking in het kader van de Europes
 
 ### HOOFDSTUK IV. BIJZONDERE VORMEN VAN BIJSTAND EN VAN SAMENWERKING
 
-#### Artikel 6
+##### Artikel 6
 
 De aangezochte administratie verstrekt de verzoekende administratie, op verzoek, met name de volgende informatie:
 
@@ -126,7 +151,7 @@ De aangezochte administratie verstrekt de verzoekende administratie, op verzoek,
 
 - b. of goederen die worden uitgevoerd uit het douanegebied van de verzoekende Partij op rechtmatige wijze zijn ingevoerd in het douanegebied van de aangezochte Partij en over de douaneregeling waaronder de goederen eventueel zijn gebracht.
 
-#### Artikel 7
+##### Artikel 7
 
 De aangezochte administratie houdt op verzoek bijzonder toezicht op:
 
@@ -140,11 +165,11 @@ De aangezochte administratie houdt op verzoek bijzonder toezicht op:
 
 - e. waardepapieren en kostbaarheden zoals geld, deviezen, beleggingscertificaten, aandelen, cheques, edele metalen en diamanten waarvan de verzoekende administratie vermoedt dat deze afkomstig zijn van ongeoorloofde handel in goederen, met inbegrip van de illegale handel in bedreigde dier- en plantensoorten, gevaarlijke goederen, verdovende middelen, psychotrope stoffen en chemische precursoren.
 
-#### Artikel 8
+##### Artikel 8
 
 De douaneadministraties verstrekken elkaar op verzoek of uit eigen beweging informatie over verrichte of voorgenomen transacties die een inbreuk vormen of lijken te vormen.
 
-#### Artikel 9
+##### Artikel 9
 
 De douaneadministraties:
 
@@ -152,13 +177,13 @@ De douaneadministraties:
 
 - b. bepalen de bestemming van tengevolge van de in het kader van dit Verdrag verleende bijstand en samenwerking in beslag genomen of opgeslagen goederen, producten of hulpmiddelen, overeenkomstig de wettelijke en administratieve bepalingen van de Partij die toezicht uitoefent op deze goederen, producten of hulpmiddelen.
 
-#### Artikel 10
+##### Artikel 10
 
 Op verzoek brengt de aangezochte administratie belanghebbenden die woonachtig zijn in het douanegebied van de aangezochte Partij op de hoogte van alle mededelingen, besluiten, bepalingen en andere documenten afkomstig van de verzoekende administratie die betrekking hebben op de toepassing van de douanewetgeving.
 
 ### HOOFDSTUK V. BIJSTAND BIJ DE INVORDERING
 
-#### Artikel 11
+##### Artikel 11
 
 1. De douaneadministraties verlenen elkaar wederzijds bijstand met het oog op de inning van douanevorderingen, in overeenstemming met de onderscheiden nationale wetgeving en de eigen nationale administratieve praktijk van de Partijen.
 
@@ -184,7 +209,7 @@ Op verzoek brengt de aangezochte administratie belanghebbenden die woonachtig zi
 
 ### HOOFDSTUK VI. DOSSIERS EN DOCUMENTEN
 
-#### Artikel 12
+##### Artikel 12
 
 1. Om originele informatie wordt slechts verzocht in gevallen waarin een voor eensluidend gewaarmerkt afschrift onvoldoende wordt geacht; deze informatie wordt zo spoedig mogelijk teruggezonden. Zulks laat de rechten van de aangezochte administratie of van derden onverlet.
 
@@ -192,7 +217,7 @@ Op verzoek brengt de aangezochte administratie belanghebbenden die woonachtig zi
 
 ### HOOFDSTUK VII. DESKUNDIGEN EN GETUIGEN
 
-#### Artikel 13
+##### Artikel 13
 
 1. De aangezochte administratie kan op verzoek haar functionarissen machtigen om ter zake van een inbreuk als deskundige of getuige te verschijnen voor een rechtbank van de andere Partij.
 
@@ -202,7 +227,7 @@ Op verzoek brengt de aangezochte administratie belanghebbenden die woonachtig zi
 
 ### HOOFDSTUK VIII. BIJSTAND EN SAMENWERKING
 
-#### Artikel 14
+##### Artikel 14
 
 1. De bijstand en samenwerking uit hoofde van dit Verdrag worden rechtstreeks tussen de douaneadministraties verleend.
 
@@ -222,11 +247,11 @@ Op verzoek brengt de aangezochte administratie belanghebbenden die woonachtig zi
 
 5. De in dit Verdrag bedoelde informatie wordt medegedeeld aan functionarissen die door elke douaneadministratie hiertoe speciaal zijn aangewezen. Een lijst van aldus aangewezen functionarissen wordt aan de andere douaneadministraties verstrekt in overeenstemming met artikel 32, tweede lid.
 
-#### Artikel 15
+##### Artikel 15
 
 Indien de aangezochte administratie niet over de gevraagde informatie beschikt, stelt zij een onderzoek in om die informatie te verkrijgen in overeenstemming met haar nationale wettelijke en administratieve bepalingen, of zendt zij het verzoek onmiddellijk door naar een andere bevoegde autoriteit. Dit onderzoek kan mede het horen en het optekenen van verklaringen bevatten van personen van wie informatie wordt verlangd in verband met een inbreuk en van getuigen en deskundigen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Op schriftelijk verzoek kunnen de door de verzoekende administratie speciaal hiertoe aangewezen functionarissen, met instemming van de aangezochte administratie en onder door de laatstgenoemde hieraan mogelijk verbonden voorwaarden, ten behoeve van de opsporing van een inbreuk op de douanewetgeving:
 
@@ -242,7 +267,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 ### HOOFDSTUK IX. COÖRDINATIEDIENSTEN
 
-#### Artikel 17
+##### Artikel 17
 
 1. Iedere douaneadministratie wijst een centrale dienst aan als coördinatiedienst. Deze dienst is belast met het verzenden en ontvangen van verzoeken om wederzijdse bijstand en samenwerking ingevolge dit Verdrag en met de coördinatie van de wederzijdse bijstand en samenwerking, onverminderd het bepaalde in het tweede lid. Deze dienst is eveneens belast met de samenwerking met de andere autoriteiten die betrokken zijn bij een bijstandsmaatregel ingevolge dit Verdrag. De coördinatiediensten van de Partijen onderhouden het benodigde rechtstreekse contact tussen hen, in het bijzonder in de in Titel II bedoelde gevallen.
 
@@ -256,7 +281,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 ### HOOFDSTUK I. BEGINSELEN VAN DE GRENSOVERSCHRIJDENDE SAMENWERKING
 
-#### Artikel 18
+##### Artikel 18
 
 1. Tussen de Partijen vindt grensoverschrijdende samenwerking plaats overeenkomstig deze titel. Hun douaneadministraties bieden elkaar de nodige personele en organisatorische bijstand. Verzoeken om samenwerking worden in beginsel gedaan in de vorm van verzoeken om bijstand in de zin van artikel 14. In de specifieke gevallen als bedoeld in deze titel kunnen functionarissen van de verzoekende administratie met toestemming van de aangezochte administratie in het douanegebied van de aangezochte Partij optreden.
 
@@ -288,7 +313,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 ### HOOFDSTUK II. GRENSOVERSCHRIJDENDE ACHTERVOLGING
 
-#### Artikel 19
+##### Artikel 19
 
 1. Functionarissen van de douaneadministratie van een Partij die in hun eigen land een persoon achtervolgen die op heterdaad is betrapt op het plegen of medeplegen van een van de in artikel 18, derde lid, genoemde inbreuken die aanleiding kunnen geven tot uitlevering, zijn bevoegd de achtervolging in het douanegebied van de andere Partij zonder voorafgaande toestemming van laatstgenoemde Partij voort te zetten, wanneer de bevoegde autoriteiten van de andere Partij wegens het spoedeisende karakter van het optreden voorafgaand aan de betreding van het douanegebied niet kunnen worden gewaarschuwd of wanneer deze autoriteiten niet tijdig ter plaatse kunnen zijn om de achtervolging over te nemen.
 
@@ -326,7 +351,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 ### HOOFDSTUK III. GRENSOVERSCHRIJDENDE OBSERVATIE
 
-#### Artikel 20
+##### Artikel 20
 
 1. Functionarissen van de douaneadministratie van een Partij die in hun eigen land een persoon observeren ten aanzien van wie ernstige vermoedens bestaan dat hij betrokken is bij één van de in artikel 18, derde lid, bedoelde inbreuken, zijn bevoegd deze observatie in het douanegebied van de andere Partij voort te zetten, wanneer laatstgenoemde Partij toestemming heeft gegeven voor de grensoverschrijdende observatie op basis van een van te voren ingediend verzoek om bijstand. Aan de toestemming kunnen voorwaarden worden verbonden.
 
@@ -364,7 +389,7 @@ De observatie wordt afgebroken zodra de Partij in het douanegebied waarvan de ob
 
 ### HOOFDSTUK IV. GECONTROLEERDE AFLEVERING
 
-#### Artikel 21
+##### Artikel 21
 
 1. Elke Partij verbindt zich ertoe dat op verzoek van de andere Partij, gecontroleerde afleveringen in het kader van een strafrechtelijk onderzoek naar inbreuken welke voor uitlevering vatbaar zijn, in zijn douanegebied kunnen worden toegestaan.
 
@@ -378,7 +403,7 @@ De observatie wordt afgebroken zodra de Partij in het douanegebied waarvan de ob
 
 ### HOOFDSTUK V. GEMEENSCHAPPELIJKE BIJZONDERE ONDERZOEKS- EN TOEZICHTTEAMS
 
-#### Artikel 22
+##### Artikel 22
 
 1. Met wederzijdse instemming kunnen de autoriteiten van de Partijen een gemeenschappelijk onderzoeksteam oprichten dat gestationeerd is in het douanegebied van één Partij en dat uit in het betrokken gebied gespecialiseerde functionarissen bestaat.
 
@@ -400,7 +425,7 @@ De observatie wordt afgebroken zodra de Partij in het douanegebied waarvan de ob
 
 4. Deelname aan het onderzoeksteam verleent de functionarissen die er deel van uitmaken geen operationele bevoegdheid in het douanegebied van de andere Partij.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Met wederzijdse instemming kunnen de autoriteiten van de Partijen een gemeenschappelijk toezichtteam oprichten dat gestationeerd is in het douanegebied van één Partij en bestaat uit in het betrokken gebied gespecialiseerde functionarissen.
 
@@ -426,7 +451,7 @@ De observatie wordt afgebroken zodra de Partij in het douanegebied waarvan de ob
 
 ### HOOFDSTUK VI. MARITIEME SAMENWERKING
 
-#### Artikel 24
+##### Artikel 24
 
 1. Voor de toepassing van de voorgaande artikelen van deze Titel coördineren de douaneadministraties de inzet van de schepen en de luchtvaartuigen waarover zij beschikken. Deze coördinatie vindt plaats in overeenstemming met de artikelen 17 en 32 van dit Verdrag.
 
@@ -436,7 +461,7 @@ De observatie wordt afgebroken zodra de Partij in het douanegebied waarvan de ob
 
 ### HOOFDSTUK I. TOETSING VAN DE TOEPASSING VAN HET VERDRAG TER INTENSIVERING VAN DE SAMENWERKING
 
-#### Artikel 25
+##### Artikel 25
 
 1. De Partijen roepen een gemengde commissie in het leven die belast is met:
 
@@ -448,17 +473,17 @@ De observatie wordt afgebroken zodra de Partij in het douanegebied waarvan de ob
 
 2. De gemengde commissie is samengesteld uit vertegenwoordigers van de douaneadministraties van de Partijen, indien nodig bijgestaan door deskundigen. De werkgroep komt ten minste eenmaal per jaar in vergadering bijeen, afwisselend op het grondgebied van de ene of de andere Partij. De agenda van deze vergadering wordt in onderling overleg vastgesteld en hierop kunnen alle onderwerpen van gemeenschappelijk belang worden geplaatst.
 
-#### Artikel 26
+##### Artikel 26
 
 Het staat de aangezochte administratie vrij om, wanneer zij daarom wordt verzocht, met het oog op de doeleinden van dit Verdrag, in te stemmen met de deelname van functionarissen van de verzoekende administratie aan stages die specifiek georganiseerd zijn naar aanleiding van het verzoek of aan haar algemene programma's voor de beroepsopleiding gericht op de versterking van de bijstand en de samenwerking tussen de douaneadministraties. De kosten die verband houden met de deelname van deze functionarissen aan deze stages komen ten laste van de verzoekende administratie.
 
 ### HOOFDSTUK II. GEBRUIK, VERTROUWELIJK KARAKTER EN BESCHERMING VAN INFORMATIE
 
-#### Artikel 27
+##### Artikel 27
 
 De in het kader van de administratieve bijstand en samenwerking uit hoofde van dit Verdrag ontvangen informatie mag uitsluitend voor doeleinden van dit Verdrag en door de douaneadministraties worden gebruikt, behalve wanneer de douaneadministratie die deze informatie heeft verstrekt, uitdrukkelijk haar goedkeuring hecht aan het gebruik ervan voor andere doeleinden of door andere autoriteiten.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De uit hoofde van dit Verdrag ontvangen informatie wordt vertrouwelijk behandeld en geniet ten minste gelijkwaardige bescherming als die welke voor soortgelijke informatie geldt krachtens de nationale wetgeving van de Partij die haar ontvangt.
 
@@ -466,7 +491,7 @@ De in het kader van de administratieve bijstand en samenwerking uit hoofde van d
 
 3. De aan deze informatie toe te kennen bewijskracht wordt vastgesteld op grond van de wettelijke en administratieve bepalingen van de Partij waarin deze informatie wordt gebruikt.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Wanneer persoonsgegevens worden verstrekt ingevolge dit Verdrag, kennen de Partijen aan deze gegevens een bescherming toe die ten minste gelijkwaardig is aan die welke voortvloeit uit de uitvoering van de beginselen uiteengezet in de bijlage bij dit Verdrag, die hiervan een integrerend onderdeel vormt.
 
@@ -474,7 +499,7 @@ De in het kader van de administratieve bijstand en samenwerking uit hoofde van d
 
 ### HOOFDSTUK III. UITZONDERINGEN OP DE VERPLICHTINGEN TOT HET VERLENEN VAN BIJSTAND EN SAMENWERKING
 
-#### Artikel 30
+##### Artikel 30
 
 1. De in dit Verdrag bedoelde bijstand en samenwerking kunnen worden geweigerd indien deze de soevereiniteit, veiligheid, openbare orde of enig ander wezenlijk nationaal belang van een van de Partijen zouden kunnen schaden of tot een schending van een industrieel of een commercieel geheim, dan wel van een beroepsgeheim zouden kunnen leiden.
 
@@ -486,7 +511,7 @@ De in het kader van de administratieve bijstand en samenwerking uit hoofde van d
 
 ### HOOFDSTUK IV. KOSTEN
 
-#### Artikel 31
+##### Artikel 31
 
 1. Onverminderd het bepaalde in artikel 18, zesde lid, zien de douaneadministraties af van alle vorderingen tot vergoeding van ter uitvoering van dit Verdrag gemaakte kosten, met uitzondering van bedragen en vergoedingen betaald aan deskundigen en getuigen alsook de kosten van tolken en vertalers die niet in dienst zijn van de Staat, welke worden gedragen door de verzoekende administratie.
 
@@ -496,7 +521,7 @@ De in het kader van de administratieve bijstand en samenwerking uit hoofde van d
 
 ### HOOFDSTUK I. UITVOERING VAN HET VERDRAG
 
-#### Artikel 32
+##### Artikel 32
 
 1. De douaneadministraties nemen maatregelen opdat hun met de opsporing of bestrijding van inbreuken belaste functionarissen persoonlijke en rechtstreekse betrekkingen met elkaar kunnen onderhouden.
 
@@ -506,7 +531,7 @@ De in het kader van de administratieve bijstand en samenwerking uit hoofde van d
 
 4. Conflicten waarvoor geen oplossing wordt gevonden, worden langs diplomatieke weg geregeld.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Het Verdrag kan, met de nodige aanpassingen, worden uitgebreid tot Aruba.
 
@@ -514,11 +539,11 @@ De in het kader van de administratieve bijstand en samenwerking uit hoofde van d
 
 ### HOOFDSTUK II. INWERKINGTREDING, DUUR EN BEËINDIGING
 
-#### Artikel 34
+##### Artikel 34
 
 Elke Partij geeft de andere langs diplomatieke weg kennis van het feit dat is voldaan aan de nationale vereisten voor de inwerkingtreding van dit Verdrag, dat van kracht wordt op de eerste dag van de tweede maand na de datum van ontvangst van de definitieve kennisgeving.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Dit Verdrag wordt voor onbepaalde tijd gesloten.
 
@@ -528,7 +553,7 @@ Elke Partij geeft de andere langs diplomatieke weg kennis van het feit dat is vo
 
 4. Dit Verdrag kan door Partijen bij wederzijdse overeenstemming worden gewijzigd, op bij unanimiteit aangenomen voorstel van de gemengde commissie. De inwerkingtreding van wijzigingen is afhankelijk van de voltooiing van de vereiste nationale procedures.
 
-#### 1
+##### 1
 
 Persoonsgegevens die langs geautomatiseerde weg worden verwerkt, dienen:
 
@@ -542,15 +567,15 @@ Persoonsgegevens die langs geautomatiseerde weg worden verwerkt, dienen:
 
 - e. te worden bewaard in een zodanige vorm dat de betrokkene hierdoor niet langer te identificeren is dan strikt noodzakelijk is voor de procedure waarvoor de gegevens zijn opgeslagen.
 
-#### 2
+##### 2
 
 Persoonsgegevens waaruit ras, politieke gezindheid of godsdienst dan wel andere levensovertuigingen blijken, alsmede die welke betrekking hebben op gezondheid of seksuele geaardheid, mogen niet langs geautomatiseerde weg worden verwerkt, tenzij het nationale recht voorziet in passende waarborgen. Hetzelfde geldt voor persoonsgegevens betreffende strafrechtelijke veroordelingen.
 
-#### 3
+##### 3
 
 Er dienen passende beveiligingsmaatregelen te worden getroffen om in geautomatiseerde gegevensbestanden opgeslagen persoonsgegevens te beschermen tegen ongeoorloofde vernietiging of toevallig verlies en ongeoorloofde toegang, wijziging of verspreiding.
 
-#### 4
+##### 4
 
 Iedere persoon dient in staat te zijn:
 
@@ -562,11 +587,11 @@ Iedere persoon dient in staat te zijn:
 
 - d. over een rechtsmiddel te beschikken, indien geen gevolg wordt gegeven aan een verzoek om kennisgeving of, naargelang het geval, om kennisgeving, verbetering of verwijdering als bedoeld in de letters b en c hierboven.
 
-#### 5.1
+##### 5.1
 
 Op het in de punten 1, 2 en 4 van deze Bijlage bepaalde is geen uitzondering toegestaan, behoudens in de hieronder genoemde gevallen.
 
-#### 5.2
+##### 5.2
 
 Van het in de punten 1, 2 en 4 van deze Bijlage bepaalde kan worden afgeweken, indien de wetgeving van een van de Partijen in een dergelijke afwijking voorziet en het een maatregel betreft die in een democratische samenleving noodzakelijk is ten behoeve van:
 
@@ -574,15 +599,15 @@ Van het in de punten 1, 2 en 4 van deze Bijlage bepaalde kan worden afgeweken, i
 
 - b. de bescherming van de betrokkenen of van de rechten en vrijheden van anderen.
 
-#### 5.3
+##### 5.3
 
 De uitoefening van de in punt 4, letters b, c en d, van deze Bijlage genoemde rechten kan bij wet worden beperkt met betrekking tot geautomatiseerde bestanden met persoonsgegevens die voor statistische doeleinden of voor wetenschappelijk onderzoek worden gebruikt, indien er kennelijk geen risico bestaat dat inbreuk zal worden gemaakt op de persoonlijke levenssfeer van de betrokkenen.
 
-#### 6
+##### 6
 
 Elke Verdragsluitende Partij verbindt zich ertoe passende sancties en rechtsmiddelen in te voeren ter zake van schending van bepalingen van het nationale recht waarmee uitvoering wordt gegeven aan de in deze Bijlage neergelegde grondbeginselen.
 
-#### 7
+##### 7
 
 Het in deze Bijlage bepaalde mag niet zodanig worden uitgelegd dat daaruit een beperking of aantasting voortvloeit van de mogelijkheid van een Partij om aan betrokkenen een ruimere mate van bescherming toe te kennen dan in deze Bijlage is vastgelegd.
 

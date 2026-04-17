@@ -1,13 +1,35 @@
 ---
-title: "Uitvoeringsbesluit verbruiksbelasting van alcoholvrije dranken"
+title: "Besluit van 24 december 1992, tot vaststelling van het Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten"
 identifier: "BWBR0005804"
-categorie: "Belastingrecht"
-publicatiedatum: 2023-02-16
-laatste_update: 2023-02-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005804"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-02-16"
+last_updated: "2023-02-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005804"
+soort: "AMvB"
+stam_id: "1023813"
+version_id: "1505132"
+internal_id: "C1505131"
+label_id: "992534"
+dtd_version: "2.0"
+original_entry_into_force: "1993-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005804/2023-02-16/0"
+intitule_bron: "Stb.1992-685"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-12-24"
+intitule_status: "goed"
+original_publication: "Stb.1992-685"
+original_signed_date: "1992-12-24"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-01-01"
+jci_1_3: "jci1.3:c:BWBR0005804&z=2023-02-16&g=2023-02-16"
+jci_1_0: "1.0:c:BWBR0005804&g=2023-02-16"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit verbruiksbelasting van alcoholvrije dranken"
+signed_date: "1992-12-24"
+entry_into_force: "1993-01-01"
 ---
-
 # Besluit van 24 december 1992, tot vaststelling van het Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten
 
 Op de voordracht van de Staatssecretaris van Financiën van 10 november 1992, nr. WV 92/534, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Verbruiksbelastingen;
@@ -24,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ### Afdeling 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit besluit geeft uitvoering aan de [artikelen 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=3), [4, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=4), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=5), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=14), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29), [30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=30), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=31), [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=32), [33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=33), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=37) en [38 van de Wet op de verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=38) en [artikel 70 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=70).
 
@@ -32,7 +54,7 @@ Hebben goedgevonden en verstaan:
 
 ### Afdeling 2. Overbrengen van alcoholvrije dranken
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het brengen, bedoeld in [artikel 3, vierde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=3), van alcoholvrije dranken vanuit een inrichting naar een andere inrichting die voor dat soort goed als zodanig is aangewezen, dient te kunnen worden aangetoond met een vervoersopdracht.
 
@@ -84,7 +106,7 @@ Hebben goedgevonden en verstaan:
 
 13. Bij toepassing van het zesde lid is [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=IV&afdeling=1&artikel=27&z=2023-02-16&g=2023-02-16) van overeenkomstige toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het brengen, bedoeld in [artikel 3, vierde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=3), van alcoholvrije dranken vanuit een inrichting naar een ondernemer dan wel een publiekrechtelijk lichaam, anders dan als ondernemer, in een andere lidstaat dient te blijken uit boeken en bescheiden.
 
@@ -98,11 +120,11 @@ Hebben goedgevonden en verstaan:
 
 - c. de datum waarop de overbrenging van de goederen is aangevangen.
 
-#### Artikel 4
+##### Artikel 4
 
 Het brengen, bedoeld in [artikel 3, vierde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=3), van alcoholvrije dranken vanuit een inrichting naar een derde land wordt aangetoond met afdrukken van het uitvoergeleidedocument of de aangifte ten uitvoer alsmede van de bevestiging van uitgang, welke documenten zijn vereist op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het vervoer van alcoholvrije dranken, bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=4), naar een inrichting die voor dat soort goed als zodanig is aangewezen, naar een ondernemer of publiekrechtelijk lichaam, anders dan als ondernemer, naar een natuurlijke persoon die de goederen voor andere doeleinden dan voor persoonlijk verbruik betrekt in Nederland, naar een andere lidstaat via Nederland of naar een derde land dient te kunnen worden aangetoond met een bescheid.
 
@@ -118,15 +140,15 @@ Het brengen, bedoeld in [artikel 3, vierde lid, onderdeel c, van de wet](https:/
 
 - e. de datum waarop het vervoer van de goederen is aangevangen.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de toepassing van [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=4), van de wet wordt als het op incidentele basis aanwenden van een beperkte hoeveelheid alcoholvrije dranken aangemerkt die hoeveelheid die een bij ministeriële regeling vastgestelde hoeveelheid niet overschrijdt.
 
-#### Artikel 7
+##### Artikel 7
 
 De in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=4), van de wet bedoelde personen of lichamen moeten hun administratie zodanig doen zijn dat daarin op overzichtelijke wijze alle voor de heffing van alcoholvrije dranken van belang zijnde gegevens zijn opgenomen. De administratie dient in ieder geval te bevatten de regelmatige aantekening van de vorenbedoelde goederen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het brengen, bedoeld in [artikel 5, derde lid, onderdelen a en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=5), van alcoholvrije dranken vanuit een derde land of vanuit een plaats voor tijdelijke opslag naar een inrichting die voor dat soort goederen als zodanig is aangewezen, alsmede het brengen, bedoeld in artikel 5, derde lid, onderdeel c, van de wet, van alcoholvrije dranken die zijn geplaatst onder een EU-douaneregeling naar een inrichting die voor dat soort goederen als zodanig is aangewezen, dient bij het op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1), aangeven van die goederen tot plaatsing onder de douaneregeling «in het vrije verkeer brengen», te worden aangetoond met een vervoersopdracht.
 
@@ -136,11 +158,11 @@ De in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&ar
 
 4. De vervoersopdracht wordt opgemaakt door de vergunninghouder van de inrichting waarnaartoe de goederen worden overgebracht, dan wel in diens opdracht.
 
-#### Artikel 9
+##### Artikel 9
 
 Het brengen, bedoeld in [artikel 5, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=5), van alcoholvrije dranken vanuit een derde land naar een plaats voor tijdelijke opslag, het in Nederland plaatsen onder een EU-douaneregeling van vanuit een derde land binnengebrachte alcoholvrije dranken, bedoeld in artikel 5, derde lid, onderdeel b, van de wet, alsmede het onder ambtelijk toezicht vernietigen van alcoholvrije dranken die onder een EU-douaneregeling zijn geplaatst, bedoeld in artikel 5, derde lid, onderdeel e, van de wet, dient te geschieden met inachtneming van de formaliteiten die op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1), moeten worden vervuld.
 
-#### Artikel 10
+##### Artikel 10
 
 1. In de vervoersopdracht, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=2023-02-16&g=2023-02-16) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=8&z=2023-02-16&g=2023-02-16), worden vermeld:
 
@@ -162,7 +184,7 @@ Het brengen, bedoeld in [artikel 5, derde lid, onderdeel a, van de wet](https://
 
 ### Hoofdstuk II. Inrichting
 
-#### Artikel 11
+##### Artikel 11
 
 1. De vergunninghouder van een inrichting moet:
 
@@ -184,7 +206,7 @@ Het brengen, bedoeld in [artikel 5, derde lid, onderdeel a, van de wet](https://
 
 3. Met betrekking tot een inrichting waar alcoholvrije dranken worden vervaardigd, bevat de administratie, bedoeld in het eerste lid, onderdeel b, tevens de voor de heffing van belang zijnde gegevens omtrent de inkoop van grondstoffen en van halffabricaten, alsmede omtrent de vervaardiging van halffabricaten en van eindproducten.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien degene die om een vergunning voor een inrichting verzoekt naar het oordeel van de inspecteur niet volledig kan voldoen aan het bepaalde in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=II&artikel=11&z=2023-02-16&g=2023-02-16), stelt de inspecteur voorwaarden met betrekking tot de locatie en de inrichting van de inrichting, alsmede met betrekking tot het stelsel van toezicht.
 
@@ -194,11 +216,11 @@ Het brengen, bedoeld in [artikel 5, derde lid, onderdeel a, van de wet](https://
 
 ### Afdeling 1. Vrijstellingen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 1. Vrijstelling van belasting ter zake van de uitslag en de invoer van alcoholvrije dranken die worden gebruikt als grondstof voor het vervaardigen van andere goederen dan alcoholvrije dranken wordt verleend indien degene die de desbetreffende alcoholvrije dranken betrekt in het bezit is van een vergunning van de inspecteur waaruit blijkt dat hij alcoholvrije dranken met vrijstelling mag betrekken met inachtneming van de in het tweede tot en met vierde lid opgenomen voorwaarden.
 
@@ -208,7 +230,7 @@ Vervallen
 
 4. Met betrekking tot het brengen van alcoholvrije dranken vanuit een inrichting, een derde land, een andere lidstaat, een douane-entrepot of een plaats voor tijdelijke opslag naar degene die de goederen met vrijstelling betrekt, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=2023-02-16&g=2023-02-16), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=5&z=2023-02-16&g=2023-02-16), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=8&z=2023-02-16&g=2023-02-16) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=10&z=2023-02-16&g=2023-02-16) van overeenkomstige toepassing, met dien verstande dat het nummer van de vergunning van degene die de alcoholvrije dranken met vrijstelling mag betrekken dient te worden vermeld op de vervoersopdracht of het bescheid, dan wel dient te worden opgenomen in de administratie van de inrichting van waaruit de alcoholvrije dranken worden overgebracht met overeenkomstige toepassing van artikel 2, zesde lid.
 
-#### Artikel 15
+##### Artikel 15
 
 Vrijstelling van belasting ter zake van de uitslag of de invoer van alcoholvrije dranken die worden gebruikt aan boord van schepen in het verkeer van Nederland naar een andere lidstaat, anders dan over de binnenwateren, wordt verleend indien:
 
@@ -220,7 +242,7 @@ Vrijstelling van belasting ter zake van de uitslag of de invoer van alcoholvrije
 
 - d. een exemplaar op overzichtelijke wijze wordt bewaard bij de administratie van de vergunninghouder van de inrichting in geval van uitslag en bij de administratie van degene die de aangifte tot plaatsing onder de douaneregeling brengen in het vrije verkeer doet, in geval van invoer. Het andere exemplaar wordt op overzichtelijke wijze bewaard bij de administratie aan boord van het schip.
 
-#### Artikel 16
+##### Artikel 16
 
 Vrijstelling van belasting ter zake van de uitslag of de invoer van alcoholvrije dranken die worden gebruikt aan boord van luchtvaartuigen in het verkeer van Nederland naar een andere lidstaat wordt verleend indien:
 
@@ -232,7 +254,7 @@ Vrijstelling van belasting ter zake van de uitslag of de invoer van alcoholvrije
 
 - d. een exemplaar op overzichtelijke wijze wordt bewaard bij de administratie van de vergunninghouder van de inrichting in geval van uitslag en bij de administratie van degene die de aangifte tot plaatsing onder de douaneregeling brengen in het vrije verkeer doet, in geval van invoer. Het andere exemplaar wordt op overzichtelijke wijze bewaard bij de administratie van de eigenaar of exploitant van het luchtvaartuig.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Vrijstelling van belasting ter zake van de uitslag en de invoer van alcoholvrije dranken die worden gebruikt voor onderzoek, kwaliteitscontroles en smaaktesten buiten een inrichting wordt verleend indien de vergunninghouder van de inrichting van waaruit de alcoholvrije dranken worden uitgeslagen dan wel degene die de goederen invoert, in het bezit is van een vergunning van de inspecteur waaruit blijkt dat hij de desbetreffende goederen met vrijstelling mag uitslaan dan wel invoeren.
 
@@ -254,11 +276,11 @@ Vrijstelling van belasting ter zake van de uitslag of de invoer van alcoholvrije
 
 ### Afdeling 2. Teruggaven
 
-#### Artikel 18
+##### Artikel 18
 
 Voor de toepassing van de teruggaaf van belasting voor alcoholvrije dranken in gevallen waarin deze goederen op de voet van [artikel 29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29) zouden kunnen worden betrokken met vrijstelling, is [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=1&artikel=14&z=2023-02-16&g=2023-02-16) van overeenkomstige toepassing met uitzondering van het bepaalde in het derde en het vierde lid van dat artikel.
 
-#### Artikel 19
+##### Artikel 19
 
 Teruggaaf van belasting waarvoor op de voet van [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=30) aanspraak op een vrijstelling zou bestaan, wordt verleend indien:
 
@@ -270,7 +292,7 @@ Teruggaaf van belasting waarvoor op de voet van [artikel 30 van de wet](https://
 
 - d. een exemplaar van de verklaring op overzichtelijke wijze wordt bewaard bij de administratie aan boord van het schip of bij de administratie van de eigenaar of exploitant van het luchtvaartuig.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Teruggaaf van belasting voor alcoholvrije dranken die zijn verloren gegaan, wordt verleend indien de goederen tot een bedrijfsvoorraad behoren en de belanghebbende onverwijld nadat is geconstateerd dat de goederen zijn verloren gegaan daarvan melding doet bij de inspecteur.
 
@@ -278,27 +300,27 @@ Teruggaaf van belasting waarvoor op de voet van [artikel 30 van de wet](https://
 
 3. Teruggaaf wordt uitsluitend verleend indien het verloren gaan van de alcoholvrije dranken is te wijten aan overmacht of ongeval.
 
-#### Artikel 21
+##### Artikel 21
 
 Voor de toepassing van teruggaaf van belasting voor onder ambtelijk toezicht vernietigde alcoholvrije dranken is [artikel 20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=2&artikel=20&z=2023-02-16&g=2023-02-16), van overeenkomstige toepassing.
 
-#### Artikel 22
+##### Artikel 22
 
 Teruggaaf van belasting voor alcoholvrije dranken die zijn gebracht naar een derde land of zijn geplaatst onder een EU-douaneregeling met als bestemming een derde land, wordt verleend indien in de administratie van degene die verzoekt om teruggaaf van belasting elektronische of afgedrukte exemplaren zijn opgenomen van het uitvoergeleidedocument of de aangifte ten uitvoer alsmede van de bevestiging van uitgang, welke documenten zijn vereist op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1).
 
-#### Artikel 23
+##### Artikel 23
 
 Teruggaaf van belasting voor alcoholvrije dranken die zijn gebracht binnen een inrichting die voor dat soort goed als zodanig is aangewezen, wordt verleend aan de vergunninghouder van de inrichting waarnaartoe de goederen zijn overgebracht wanneer hij om teruggaaf verzoekt en uit de administratie blijkt dat de goederen in zijn inrichting zijn opgenomen.
 
-#### Artikel 24
+##### Artikel 24
 
 Voor de toepassing van de teruggaaf van belasting voor alcoholvrije dranken die door een ondernemer zijn overgebracht naar een ondernemer dan wel een publiekrechtelijk lichaam, anders dan als ondernemer, in een andere lidstaat, dient belanghebbende aan de hand van boeken en bescheiden aan te tonen dat de goederen hun bestemming hebben bereikt.
 
-#### Artikel 25
+##### Artikel 25
 
 Bij een verzoek om teruggaaf binnen drie maanden na een tariefwijziging van de belasting wordt teruggaaf ingevolge deze afdeling bij een tariefverhoging naar het daarvóór geldende tarief en bij een tariefverlaging naar het dan geldende tarief verleend, tenzij de belanghebbende aantoont dat de belasting waarvan teruggaaf wordt gevraagd, is voldaan naar het na de tariefverhoging geldende onderscheidenlijk vóór de tariefverlaging gegolden hebbende hogere tarief.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Voor een verzoek om teruggaaf van belasting wordt gebruikgemaakt van een van rijkswege beschikbaar gesteld elektronisch formulier dat via elektronische weg wordt ingediend op de op dat formulier aangegeven wijze.
 
@@ -314,7 +336,7 @@ Bij een verzoek om teruggaaf binnen drie maanden na een tariefwijziging van de b
 
 ### Afdeling 1. Controlebepalingen
 
-#### Artikel 27
+##### Artikel 27
 
 1. Van alcoholvrije dranken die worden vervoerd dan wel voorhanden zijn buiten een inrichting of een douane-entrepot, moet aan de hand van bescheiden de herkomst kunnen worden aangetoond.
 
@@ -324,15 +346,15 @@ Bij een verzoek om teruggaaf binnen drie maanden na een tariefwijziging van de b
 
 ### Afdeling 2. Overige bepalingen
 
-#### Artikel 28
+##### Artikel 28
 
 Met betrekking tot het verlenen, het aanpassen en het intrekken van op grond van dit besluit te verlenen vergunningen zijn de [artikelen 45 tot en met 50 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=45) van overeenkomstige toepassing.
 
-#### Artikel 29
+##### Artikel 29
 
 In een publiek douane-entrepot type II als bedoeld in artikel 1, drieëndertigste lid, van de Gedelegeerde Verordening Douanewetboek van de Unie, of een particulier douane-entrepot als bedoeld in artikel 240, tweede lid, van het Douanewetboek van de Unie mogen alcoholvrije dranken met de douanestatus van Uniegoederen als bedoeld in artikel 5, drieëntwintigste lid, van het Douanewetboek van de Unie voorhanden zijn die voor uitvoer zijn vrijgegeven en die in afwachting van het verlaten van de Unie worden opgeslagen in een douane-entrepot, met toepassing van artikel 237, derde lid, van het Douanewetboek van de Unie, in samenhang met artikel 177 van de Gedelegeerde Verordening Douanewetboek van de Unie.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De opslagruimte van een particulier douane-entrepot als bedoeld in artikel 240, tweede lid, van het Douanewetboek van de Unie kan voor de opslag van alcoholvrije dranken als inrichting worden aangewezen.
 
@@ -348,13 +370,13 @@ In een publiek douane-entrepot type II als bedoeld in artikel 1, drieëndertigst
 
 #### Tabaksprodukten
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
 ### Hoofdstuk VI. Strafbepalingen
 
-#### Artikel 32
+##### Artikel 32
 
 Strafbare feiten zijn:
 
@@ -364,11 +386,11 @@ Strafbare feiten zijn:
 
 ### Hoofdstuk VII. Slotbepalingen
 
-#### Artikel 33
+##### Artikel 33
 
 Dit besluit treedt in werking met ingang van 1 januari 1993.
 
-#### Artikel 34
+##### Artikel 34
 
 Dit besluit kan worden aangehaald als Uitvoeringsbesluit verbruiksbelasting van alcoholvrije dranken.
 

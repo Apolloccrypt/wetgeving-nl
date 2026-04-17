@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet van enkele belastingwetten c.a. (belastingplan 1997)"
+title: "Wet van 20 december 1996 tot wijziging van enkele belastingwetten c.a. (belastingplan 1997)"
 identifier: "BWBR0008464"
-categorie: "Belastingrecht"
-publicatiedatum: 1997-07-01
-laatste_update: 1997-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008464"
+country: "nl"
+rank: "wet"
+publication_date: "1997-07-01"
+last_updated: "1997-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008464"
+soort: "wet"
+stam_id: "225503"
+version_id: "312422"
+internal_id: "C312421"
+label_id: "221314"
+dtd_version: "2.0"
+original_entry_into_force: "1997-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008464/1997-07-01/0"
+intitule_bron: "Stb.1996-654"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-12-20"
+intitule_published: "1996-12-23"
+intitule_in_force: "1996-12-23"
+intitule_status: "goed"
+original_publication: "Stb.1996-654"
+original_signed_date: "1996-12-20"
+original_published_date: "1996-12-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "25052"
+original_url_id: "stb-1996-654"
+entry_into_force_date: "1997-01-01"
+entry_into_force_dossier: "25052"
+jci_1_3: "jci1.3:c:BWBR0008464&z=1997-07-01&g=1997-07-01"
+jci_1_0: "1.0:c:BWBR0008464&g=1997-07-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet van enkele belastingwetten c.a. (belastingplan 1997)"
+signed_date: "1996-12-20"
+entry_into_force: "1997-01-01"
 ---
-
-# Wijzigingswet van enkele belastingwetten c.a. (belastingplan 1997)
+# Wet van 20 december 1996 tot wijziging van enkele belastingwetten c.a. (belastingplan 1997)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,43 +46,43 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Artikel XIII, onderdeel A, H, K, onder 2, L, onder 2 en N, werkt terug tot en met 1 januari 1996.
 
-#### ARTIKEL I
+##### ARTIKEL I
 
 Wijzigt de Wet op de inkomstenbelasting 1964.
 
-#### ARTIKEL II
+##### ARTIKEL II
 
 Wijzigt de Wet van 15 december 1995, Stb. 642, houdende wijziging van enige belastingwetten (belastingplan 1996).
 
-#### ARTIKEL III
+##### ARTIKEL III
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### ARTIKEL IV
+##### ARTIKEL IV
 
 Wijzigt de Wet van 15 december 1995, Stb. 642, houdende wijziging van enige belastingwetten (belastingplan 1996).
 
-#### ARTIKEL V
+##### ARTIKEL V
 
 Wijzigt de Successiewet 1956.
 
-#### ARTIKEL VI
+##### ARTIKEL VI
 
 Wijzigt de Wet op de accijns.
 
-#### ARTIKEL VII
+##### ARTIKEL VII
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### ARTIKEL VIII
+##### ARTIKEL VIII
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### ARTIKEL IX
+##### ARTIKEL IX
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
-#### ARTIKEL X
+##### ARTIKEL X
 
 1. De accijns van sigaretten wordt met ingang van 1 februari 1997, met ingang van 1 januari 1998 en met ingang van 1 januari 1999 zodanig verhoogd dat de totale accijns voor de meest gevraagde prijsklasse sigaretten met ingang van:
 
@@ -76,49 +104,49 @@ Indien op vorengenoemde tijdstippen het daarbij vermelde bedrag lager is dan het
 
 3. Bij ministeriële regeling worden telkens met ingang van de in het eerste en tweede lid genoemde tijdstippen de tarieven van de accijns, bedoeld in artikel 35, eerste lid, onderdeel **b**, onderscheidenlijk onderdeel **c**, van de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251), aangepast. De aanpassing geschiedt zodanig, dat voor rooktabak en sigaretten van de meest gevraagde prijsklasse het specifieke gedeelte van de accijns 50 percent bedraagt van de som van de totale accijns en de omzetbelasting. Daarbij dient het bedrag van de totale accijns gelijk te blijven aan het bedrag van de totale accijns dat na de verhoging van de accijns verschuldigd zou zijn zonder de aanpassing. Bij de aanpassing vindt afronding plaats van het specifieke gedeelte van de accijns op een veelvoud van vijf centen en van het procentuele gedeelte van de accijns op honderdsten van een percent.
 
-#### ARTIKEL XI
+##### ARTIKEL XI
 
 Wijzigt de Invoeringswet Wet op de motorrijtuigenbelasting 1994.
 
-#### ARTIKEL XII
+##### ARTIKEL XII
 
 1. In afwijking van [artikel 83 van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=83) vindt de tariefwijziging van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008464&artikel=VIII&z=1997-07-01&g=1997-07-01) toepassing vanaf het tijdstip waarop dat artikel in werking treedt.
 
 2. Bij ministeriële regeling worden regels gesteld ten behoeve van de uitvoering van het eerste lid.
 
-#### ARTIKEL XIII
+##### ARTIKEL XIII
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### ARTIKEL XIV
+##### ARTIKEL XIV
 
 Wijzigt de Algemene Ouderdomswet.
 
-#### ARTIKEL XV
+##### ARTIKEL XV
 
 Wijzigt de Douanewet.
 
-#### ARTIKEL XVI
+##### ARTIKEL XVI
 
 Wijzigt de Wet energiedistributie.
 
-#### ARTIKEL XVII
+##### ARTIKEL XVII
 
 Wijzigt de Wijzigingswet belastingwetten herziening regime ter zake van winst uit aanmerkelijk belang, consumptieve rente en vermogensbelasting, de Wet op de vennootschapsbelasting 1969 en de Wet op de dividendbelasting 1965.
 
-#### ARTIKEL XVIII
+##### ARTIKEL XVIII
 
 Wijzigt de Wijzigingswet Wet op de vennootschapsbelasting 1969 ivm tegengaan uitholling belastinggrondslag en versterken fiscale infrastructuur.
 
-#### ARTIKEL XIX
+##### ARTIKEL XIX
 
 Wijzigt de Aanpassingswet Wet waardering onroerende zaken.
 
-#### ARTIKEL XX
+##### ARTIKEL XX
 
 Wijzigt deze wet.
 
-#### ARTIKEL XXI
+##### ARTIKEL XXI
 
 1. Deze wet treedt in werking met ingang van 1 januari 1997, met uitzondering van de [artikelen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008464&artikel=VI&z=1997-07-01&g=1997-07-01), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008464&artikel=VIII&z=1997-07-01&g=1997-07-01), [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0008464&artikel=IX&z=1997-07-01&g=1997-07-01) en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0008464&artikel=XII&z=1997-07-01&g=1997-07-01), die in werking treden met ingang van 1 juli 1997 en [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008464&artikel=VII&z=1997-07-01&g=1997-07-01) dat in werking treedt op een bij koninklijk besluit vast te stellen tijdstip.
 

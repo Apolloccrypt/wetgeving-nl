@@ -1,18 +1,40 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bulgarije inzake de regeling van financiële vraagstukken"
 identifier: "BWBV0004582"
-categorie: "Internationaal recht"
-publicatiedatum: 1962-07-01
-laatste_update: 1962-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004582"
+country: "nl"
+rank: "verdrag"
+publication_date: "1962-07-01"
+last_updated: "1962-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004582"
+soort: "verdrag"
+stam_id: "10004202283"
+version_id: "10004379582"
+internal_id: "C10006990851"
+label_id: "10004187894"
+dtd_version: "2.0"
+original_entry_into_force: "1962-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004582/1962-07-01/0"
+intitule_bron: "Trb.1961-96"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1961-09-15"
+intitule_in_force: "1962-11-01"
+intitule_status: "goed"
+original_publication: "Trb.1961-96"
+original_published_date: "1961-09-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1961-96"
+entry_into_force_date: "1962-07-01"
+jci_1_3: "jci1.3:c:BWBV0004582&z=1962-07-01&g=1962-07-01"
+jci_1_0: "1.0:c:BWBV0004582&g=1962-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1962-07-01"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bulgarije inzake de regeling van financiële vraagstukken
 
 De Nederlandse Regering en de Bulgaarse Regering, verlangende financiële vraagstukken tussen hun beide landen te regelen, hebben de volgende Overeenkomst gesloten:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Bulgaarse Regering betaalt aan de Nederlandse Regering een bedrag van 1.500.000 gulden, berekend op basis van 1 gulden = 0,245489 gram fijn goud, bij wijze van algehele afdoening:
 
@@ -26,7 +48,7 @@ De Nederlandse Regering en de Bulgaarse Regering, verlangende financiële vraags
 
 2. Indien het hierboven weergegeven goudgehalte van de Nederlandse gulden een wijziging mocht ondergaan, zal het nog niet betaalde gedeelte van het schadevergoedingsbedrag dienovereenkomstig worden aangepast.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De betaling van het in artikel 1 bedoelde bedrag door de Bulgaarse Regering aan de Nederlandse Regering vindt plaats door middel van halfjaarlijkse stortingen, waarbij elke storting gelijk is aan 7 % van de betalingen die in het voorafgaande kalenderhalfjaar zijn verricht door Nederlandse afnemers van goederen van Bulgaarse oorsprong of herkomst.
 
@@ -38,7 +60,7 @@ De Nederlandse Regering en de Bulgaarse Regering, verlangende financiële vraags
 
 5. De laatste storting zal gelijk zijn aan het verschil tussen het gehele krachtens artikel 1 te betalen bedrag en de som van de reeds verrichte stortingen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Na volledige betaling van het in artikel 1 vastgestelde bedrag zal de Nederlandse Regering de in voornoemd artikel bedoelde vorderingen als definitief geregeld beschouwen. Door deze betaling is de Bulgaarse Regering bevrijd van verdere verplichtingen uit dien hoofde jegens de Nederlandse Regering en jegens de belanghebbende Nederlandse natuurlijke en rechtspersonen.
 
@@ -48,29 +70,29 @@ De Nederlandse Regering en de Bulgaarse Regering, verlangende financiële vraags
 
 4. Van het ogenblik van de inwerkingtreding van de onderhavige Overeenkomst af zullen de Nederlandse Regering en de Bulgaarse Regering de door deze Overeenkomst geregelde vorderingen niet meer geldend kunnen maken dan wel daaraan op enigerlei wijze steun kunnen verlenen. Evenzo zal de Nederlandse Regering aan geen enkele eventuele vordering van haar onderdanen die geweigerd hebben gebruik te maken van de uit deze Overeenkomst voortvloeiende voordelen, steun verlenen.
 
-#### Artikel 4
+##### Artikel 4
 
 De Nederlandse vorderingen voortvloeiende uit na de ondertekening van deze Overeenkomst genomen Bulgaarse wettelijke of andere maatregelen zijn niet door de bepalingen van deze Overeenkomst geregeld.
 
-#### Artikel 5
+##### Artikel 5
 
 De Nederlandse Regering zal, voor zover mogelijk, de notariële akten die in het bezit zijn van de belanghebbenden wier vorderingen krachtens artikel 1, lid 1, **a,** zijn geregeld, aan de Bulgaarse Regering ter hand stellen. Desgelijks zal de Nederlandse Regering de waardepapieren en schuldbewijzen van in het buitenland geplaatste Bulgaarse overheidsleningen tezamen met de niet verzilverde coupons, voor zover deze waardepapieren en schuldbewijzen door de houders worden aangeboden voor wederinkoop door de Bulgaarse Regering, aan de Bulgaarse Regering ter hand stellen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De bevoegdheid tot en de verantwoordelijkheid voor de verdeling van het in artikel 1 genoemde bedrag van 1.500.000 gulden onder de Nederlandse belanghebbenden berust volledig bij de Nederlandse Regering.
 
 2. Ter vergemakkelijking van de uitvoering van deze Overeenkomst zal de Bulgaarse Regering aan de Nederlandse Regering op haar verzoek, en voor zover mogelijk, alle inlichtingen verschaffen, welke de Nederlandse autoriteiten behoeven om de aanvragen van Nederlandse belanghebbenden die tot schadevergoeding gerechtigd zijn, te onderzoeken.
 
-#### Artikel 7
+##### Artikel 7
 
 De Nederlandsche Bank en de Nationale Bank van Bulgarije, ieder handelend voor rekening van haar Regering, zullen in gemeenschappelijk overleg de technische voorzieningen voor de toepassing van deze Overeenkomst treffen.
 
-#### Artikel 8
+##### Artikel 8
 
 De toepassing van deze Overeenkomst op Suriname en de Nederlandse Antillen is onderworpen aan de goedkeuring van de Regeringen van die landen, welke zal worden beschouwd als stilzwijgend te zijn verleend, tenzij de Nederlandse Regering de Bulgaarse Regering binnen drie maanden na de inwerkingtreding van deze Overeenkomst van het tegendeel in kennis stelt.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze Overeenkomst treedt in werking op een datum vast te stellen bij een wisseling van nota's, waarin wordt medegedeeld, dat de door de nationale wetgeving van elk der Overeenkomstsluitende Partijen vereiste formaliteiten zijn vervuld.
 

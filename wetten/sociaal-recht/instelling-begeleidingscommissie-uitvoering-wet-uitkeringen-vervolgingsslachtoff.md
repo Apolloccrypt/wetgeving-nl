@@ -1,20 +1,44 @@
 ---
 title: "Instelling Begeleidingscommissie uitvoering Wet uitkeringen vervolgingsslachtoffers"
 identifier: "BWBR0003985"
-categorie: "Sociaal recht"
-publicatiedatum: 1986-07-28
-laatste_update: 1986-07-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003985"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1986-07-28"
+last_updated: "1986-07-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003985"
+soort: "ministeriele-regeling"
+stam_id: "3683703"
+version_id: "5466632"
+internal_id: "C5659721"
+label_id: "3663514"
+dtd_version: "2.0"
+original_entry_into_force: "1986-07-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003985/1986-07-28/0"
+intitule_bron: "Stcrt.1986-128"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1986-06-06"
+intitule_published: "1986-07-08"
+intitule_in_force: "1986-07-08"
+intitule_status: "goed"
+original_publication: "Stcrt.1986-128"
+original_signed_date: "1986-06-06"
+original_published_date: "1986-07-08"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1986-07-28"
+jci_1_3: "jci1.3:c:BWBR0003985&z=1986-07-28&g=1986-07-28"
+jci_1_0: "1.0:c:BWBR0003985&g=1986-07-28"
+citeertitel_status: "officieel"
+signed_date: "1986-06-06"
+entry_into_force: "1986-07-28"
 ---
-
 # Instelling Begeleidingscommissie uitvoering Wet uitkeringen vervolgingsslachtoffers
 
 Overwegende, dat het interim-rapport van de Begeleidingscommissie uitvoering Wet uitkeringen vervolgingsslachtoffers 1940–1945 dd. 17 oktober 1985 aangeeft, dat op korte termijn maatregelen getroffen dienen te worden ter verbetering van de uitvoering van de [WUV](https://wetten.overheid.nl/jci1.3:c:BWBR0002844), en de implementatie van deze maatregelen te laten begeleiden door een commissie bestaande uit vertegenwoordigers van het ministerie van WVC, het Abp, de Uitkeringsraad, de Centrale Accountantsdienst en het ministerie van Buitenlandse Zaken, voor zover er onderwerpen aan de orde zijn, die de uitvoering in het buitenland betreffen;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er is een Begeleidingscommissie uitvoeringsorganisatie [Wet uitkeringn vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844), verder te noemen de commissie.
 
@@ -38,7 +62,7 @@ Besluit:
 
 3. Indien de uitvoering van de [WUV](https://wetten.overheid.nl/jci1.3:c:BWBR0002844) in het buitenland aan de orde is, dan vrzoekt de voorzitter, drs.J.J. Wijenberg, chef centrale afdeling Financieel-Economische Zaken van het ministerie van Buitenlandse Zaken, aan de beraadslagingen van de commissie, als lid deel te nemen.
 
-#### Artikel 2
+##### Artikel 2
 
 De commissie heeft tot taak:
 

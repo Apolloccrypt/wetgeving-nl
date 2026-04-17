@@ -1,13 +1,39 @@
 ---
-title: "Besluit vergoeding bewindvoerder schuldsanering"
+title: "Besluit van 16 juli 2013, houdende regels tot vaststelling van de vergoeding voor bewindvoerders benoemd in de schuldsaneringsregeling natuurlijke personen (Besluit vergoeding bewindvoerder schuldsanering)"
 identifier: "BWBR0033711"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033711"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033711"
+soort: "AMvB"
+stam_id: "12321413"
+version_id: "20661182"
+internal_id: "C29584631"
+label_id: "12292564"
+dtd_version: "2.0"
+original_entry_into_force: "2013-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033711/2026-01-01/0"
+intitule_bron: "Stb.2013-308"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-07-16"
+intitule_published: "2013-07-25"
+intitule_in_force: "2013-07-25"
+intitule_status: "goed"
+original_publication: "Stb.2013-308"
+original_signed_date: "2013-07-16"
+original_published_date: "2013-07-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2013-308"
+entry_into_force_date: "2013-10-01"
+jci_1_3: "jci1.3:c:BWBR0033711&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0033711&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vergoeding bewindvoerder schuldsanering"
+signed_date: "2013-07-16"
+entry_into_force: "2013-10-01"
 ---
-
 # Besluit van 16 juli 2013, houdende regels tot vaststelling van de vergoeding voor bewindvoerders benoemd in de schuldsaneringsregeling natuurlijke personen (Besluit vergoeding bewindvoerder schuldsanering)
 
 Op de voordracht van de Staatssecretaris van Veiligheid en Justitie van 23 april 2013, directie Wetgeving en Juridische Zaken, nr. 377343;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 Artikel II van Stb. 2023/466 bevat overgangsrecht m.b.t. deze wijziging.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 - h. **zaak:** een door de bewindvoerder af te wikkelen schuldsaneringsboedel.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De vergoeding per zaak bestaat uit een looptijdonafhankelijk deel en een looptijdafhankelijk deel.
 
@@ -76,7 +102,7 @@ In dit besluit wordt verstaan onder:
 
 8. Bij wijzigingen op grond van het vijfde lid worden de in het tweede lid genoemde bedragen afgerond op hele euro’s en de bedragen genoemd in het derde en vierde lid op het naastliggende veelvoud van € 0,50.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De rechtbank berekent het bedrag van de vergoeding overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033711&artikel=2&z=2026-01-01&g=2026-01-01).
 
@@ -84,11 +110,11 @@ In dit besluit wordt verstaan onder:
 
 3. De rechtbank stelt het salaris vast op het bedrag van de vergoeding zoals deze overeenkomstig het eerste onderscheidenlijk tweede lid wordt berekend. Wanneer het aanwezig boedelactief betaling van het salaris niet toelaat, stelt de rechtbank het salaris vast op het hoogste bedrag waarvoor de boedel nog toereikend is.
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Minister verstrekt jaarlijks subsidie aan het bestuur van de raad ten behoeve van de uitvoering van dit besluit.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Minister kan van zijn bevoegdheid tot het verstrekken van een bewindvoerderssubsidie mandaat verlenen aan de raad.
 
@@ -98,29 +124,29 @@ Onze Minister verstrekt jaarlijks subsidie aan het bestuur van de raad ten behoe
 
 4. De bewindvoerderssubsidie wordt verstrekt aan de bewindvoerder of aan de werkgever bij wie de bewindvoerder zijn werkzaamheden in dienstbetrekking vervult.
 
-#### Artikel 6
+##### Artikel 6
 
 In iedere zaak wordt aan de bewindvoerder een voorschot op de bewindvoerderssubsidie verstrekt van € 800 tenzij de bewindvoerder aangeeft dat hij geen voorschot wil ontvangen.
 
-#### Artikel 7
+##### Artikel 7
 
 De bedragen, genoemd in dit besluit, zijn inclusief de door de bewindvoerder verschuldigde omzetbelasting.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het [Besluit salaris bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0012227) wordt ingetrokken.
 
 2. Het [Besluit subsidie bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0012226) wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Schuldsaneringsregelingen, waarvan de toepassing is aangevangen voor de inwerkingtreding van dit besluit en de toepassing niet is beëindigd voor de inwerkingtreding van dit besluit, worden afgehandeld overeenkomstig het [Besluit salaris bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0012227) en het [Besluit subsidie bewindvoerder](https://wetten.overheid.nl/jci1.3:c:BWBR0012226), zoals deze luidden voor de inwerkingtreding van dit besluit.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking op 1 oktober 2013.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit vergoeding bewindvoerder schuldsanering.
 

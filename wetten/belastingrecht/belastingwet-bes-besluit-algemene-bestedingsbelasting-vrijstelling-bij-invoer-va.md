@@ -1,13 +1,38 @@
 ---
 title: "Belastingwet BES; Besluit algemene bestedingsbelasting, vrijstelling bij invoer van drinkwater en kookgas"
 identifier: "BWBR0036839"
-categorie: "Belastingrecht"
-publicatiedatum: 2015-07-16
-laatste_update: 2015-07-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036839"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2015-07-16"
+last_updated: "2015-07-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036839"
+soort: "beleidsregel"
+stam_id: "13220103"
+version_id: "22570132"
+internal_id: "C32369211"
+label_id: "13188384"
+dtd_version: "2.0"
+original_entry_into_force: "2015-07-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036839/2015-07-16/0"
+intitule_bron: "Stcrt.2015-20121"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-07-09"
+intitule_published: "2015-07-15"
+intitule_in_force: "2015-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-20121"
+original_signed_date: "2015-07-09"
+original_published_date: "2015-07-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-20121"
+entry_into_force_date: "2015-07-16"
+jci_1_3: "jci1.3:c:BWBR0036839&z=2015-07-16&g=2015-07-16"
+jci_1_0: "1.0:c:BWBR0036839&g=2015-07-16"
+citeertitel_status: "redactioneel"
+signed_date: "2015-07-09"
+entry_into_force: "2015-07-16"
 ---
-
 # Belastingwet BES; Besluit algemene bestedingsbelasting, vrijstelling bij invoer van drinkwater en kookgas
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

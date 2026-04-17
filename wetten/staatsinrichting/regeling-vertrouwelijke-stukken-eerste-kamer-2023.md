@@ -1,18 +1,42 @@
 ---
 title: "Regeling vertrouwelijke stukken Eerste Kamer 2023"
 identifier: "BWBR0048045"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2023-04-05
-laatste_update: 2023-04-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048045"
+country: "nl"
+rank: "reglement"
+publication_date: "2023-04-05"
+last_updated: "2023-04-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048045"
+soort: "reglement"
+stam_id: "16719763"
+version_id: "29328562"
+internal_id: "C41772851"
+label_id: "16636414"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048045/2023-04-05/0"
+intitule_bron: "Kst.2023-CLIII"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-03-28"
+intitule_published: "2023-04-04"
+intitule_in_force: "2023-04-04"
+intitule_status: "goed"
+original_publication: "Kst.2023-CLIII"
+original_signed_date: "2023-03-28"
+original_published_date: "2023-04-04"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2023-04-05"
+jci_1_3: "jci1.3:c:BWBR0048045&z=2023-04-05&g=2023-04-05"
+jci_1_0: "1.0:c:BWBR0048045&g=2023-04-05"
+citeertitel_status: "officieel"
+signed_date: "2023-03-28"
+entry_into_force: "2023-04-05"
 ---
-
 # Regeling vertrouwelijke stukken Eerste Kamer 2023
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 1. Definities en reikwijdte
+##### Artikel 1. Definities en reikwijdte
 
 1. In deze regeling wordt verstaan onder:
 
@@ -38,7 +62,7 @@ bron: "https://wetten.overheid.nl/BWBR0048045"
 
 #### Paragraaf 2. Vertrouwelijke stukken
 
-#### Artikel 2. Registratie van vertrouwelijke stukken
+##### Artikel 2. Registratie van vertrouwelijke stukken
 
 1. De afdeling Postregistratie en archief registreert een vertrouwelijk stuk in het postregistratiesysteem.
 
@@ -56,13 +80,13 @@ bron: "https://wetten.overheid.nl/BWBR0048045"
 
 4. Een bericht waarmee een vertrouwelijk stuk is aangeboden, wordt in het postregistratiesysteem opgenomen, met uitzondering van het bericht of onderdelen daarvan die als vertrouwelijk zijn of moeten worden aangemerkt.
 
-#### Artikel 3. Bewaring van vertrouwelijke stukken
+##### Artikel 3. Bewaring van vertrouwelijke stukken
 
 1. Vertrouwelijke stukken worden niet in het postregistratiesysteem opgenomen of anderszins vermenigvuldigd, tenzij een stuk daarvoor in aanmerking komt.
 
 2. Vertrouwelijke stukken worden bij de afdeling Postregistratie en archief voorzien van een griffienummer en bewaard in een afgesloten ruimte.
 
-#### Artikel 4. Inzage in vertrouwelijke stukken
+##### Artikel 4. Inzage in vertrouwelijke stukken
 
 1. De volgende personen kunnen vragen om inzage in een vertrouwelijk stuk:
 
@@ -94,7 +118,7 @@ bron: "https://wetten.overheid.nl/BWBR0048045"
 
 10. De personen die op grond van het eerste lid om inzage in een vertrouwelijk stuk kunnen verzoeken, kunnen de inhoud van het vertrouwelijke stuk onderling bespreken, ongeacht of zij inzage in het betreffende stuk hebben gehad. Alvorens zij de inhoud van een vertrouwelijk stuk met andere personen bespreken, dienen zij zich ervan te vergewissen dat deze personen recht hebben op inzage van het vertrouwelijke stuk.
 
-#### Artikel 5. Behandeling vertrouwelijkheid
+##### Artikel 5. Behandeling vertrouwelijkheid
 
 1. De brief waarmee een vertrouwelijk stuk is aangeboden, wordt voor behandeling op een procedurevergadering van de behandelende commissie geagendeerd. Hierbij wordt vermeld dat de motivering van de vertrouwelijke behandeling van het stuk en andere voorwaarden daaromtrent ter bespreking zijn.
 
@@ -110,7 +134,7 @@ bron: "https://wetten.overheid.nl/BWBR0048045"
 
 4. De commissie kan met de afzender schriftelijk nadere afspraken maken over de behandeling van vertrouwelijke stukken van de afzender.
 
-#### Artikel 6. Tijdelijk ter inzage leggen van vertrouwelijke stukken
+##### Artikel 6. Tijdelijk ter inzage leggen van vertrouwelijke stukken
 
 1. In uitzonderlijke gevallen kan een vertrouwelijk stuk tijdelijk ter inzage worden gelegd. Bij de brief ter aanbieding van het stuk wordt nadrukkelijk gemotiveerd waarom het stuk slechts tijdelijk ter inzage wordt gelegd en wordt de termijn voor de ter inzagelegging vermeld.
 
@@ -122,7 +146,7 @@ bron: "https://wetten.overheid.nl/BWBR0048045"
 
 #### Paragraaf 3. Staatsgeheime stukken
 
-#### Artikel 7. Staatsgeheime stukken
+##### Artikel 7. Staatsgeheime stukken
 
 1. Bij het aanbieden van een staatsgeheim stuk wordt nadrukkelijk het staatsgeheime karakter van het stuk gemotiveerd en worden ook eventuele voorwaarden toegelicht waaronder het stuk wordt aangeboden. Indien de motivering of onderdelen daarvan staatsgeheim of vertrouwelijk zijn, dan doet de afzender daarvan mededeling in het bericht van aanbieding en voegt de motivering afzonderlijk bij.
 
@@ -140,13 +164,13 @@ bron: "https://wetten.overheid.nl/BWBR0048045"
 
 #### Paragraaf 4. Positie niet-beëdigde personen
 
-#### Artikel 8. Positie niet-beëdigde personen
+##### Artikel 8. Positie niet-beëdigde personen
 
 Personen die niet op grond van een dienstverband werkzaam zijn bij de ambtelijke organisatie van de Eerste Kamer der Staten-Generaal ondertekenen voorafgaand aan de aanvang van de werkzaamheden een verklaring, inhoudende dat zij bekend zijn met de inhoud van deze regeling en dat zij deze in acht zullen nemen.
 
 #### Paragraaf 5. Slotbepalingen
 
-#### Artikel 9. Beveiligingsambtenaar
+##### Artikel 9. Beveiligingsambtenaar
 
 1. De Beveiligingsambtenaar van de Eerste Kamer houdt toezicht op de naleving van de voorschriften in deze regeling.
 
@@ -156,10 +180,10 @@ Personen die niet op grond van een dienstverband werkzaam zijn bij de ambtelijke
 
 4. De Beveiligingsambtenaar informeert de Griffier over de uitoefening van zijn taken en bevoegdheden en brengt de Griffier onmiddellijk op de hoogte van een (gemelde) inbreuk en eventuele maatregelen.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking op de dag na vaststelling door de Kamer.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Regeling vertrouwelijke stukken Eerste Kamer 2023

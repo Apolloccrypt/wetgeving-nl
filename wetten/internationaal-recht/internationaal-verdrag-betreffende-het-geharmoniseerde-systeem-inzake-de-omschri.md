@@ -1,13 +1,38 @@
 ---
 title: "Internationaal Verdrag betreffende het geharmoniseerde systeem inzake de omschrijving en de codering van goederen"
 identifier: "BWBV0002538"
-categorie: "Internationaal recht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002538"
+country: "nl"
+rank: "verdrag"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002538"
+soort: "verdrag"
+stam_id: "10002925223"
+version_id: "10002926762"
+internal_id: "C10006978551"
+label_id: "10002912644"
+dtd_version: "2.0"
+original_entry_into_force: "1988-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002538/2024-01-01/0"
+intitule_bron: "Trb.1985-108"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-09-22"
+intitule_published: "1985-08-02"
+intitule_in_force: "1987-11-16"
+intitule_status: "goed"
+original_publication: "Trb.1985-108"
+original_signed_date: "1987-09-22"
+original_published_date: "1985-08-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1985-108"
+entry_into_force_date: "1988-01-01"
+jci_1_3: "jci1.3:c:BWBV0002538&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBV0002538&g=2024-01-01"
+citeertitel_status: "officieel"
+signed_date: "1987-09-22"
+entry_into_force: "1988-01-01"
 ---
-
 # Internationaal Verdrag betreffende het geharmoniseerde systeem inzake de omschrijving en de codering van goederen
 
 Preambule
@@ -44,7 +69,7 @@ Overwegende dat, hoewel het bovengenoemde Verdrag inzake de nomenclatuur een doe
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -64,11 +89,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - h. de term „bekrachtiging”: bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 2. Bijlage
+##### Artikel 2. Bijlage
 
 De bijlage bij dit Verdrag maakt daarvan onafscheidelijk deel uit en elk verwijzing naar dit Verdrag geldt mede ten aanzien van de bijlage.
 
-#### Artikel 3. Verplichtingen van de Verdragsluitende Partijen
+##### Artikel 3. Verplichtingen van de Verdragsluitende Partijen
 
 1. Behoudens de uitzonderingen, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=4&z=2024-01-01&g=2024-01-01):
 
@@ -88,7 +113,7 @@ De bijlage bij dit Verdrag maakt daarvan onafscheidelijk deel uit en elk verwijz
 
 3. Geen enkele bepaling van dit artikel verbiedt een Verdragsluitende Partij in haar tariefnomenclatuur of haar statistieknomenclaturen nadere specificaties voor de indeling van goederen aan te brengen, mits de toevoeging en codering van de daartoe aangebrachte nadere onderverdelingen in deze nomenclaturen geschiedt op een niveau dat ligt onder dat van de zes-cijfercode van het geharmoniseerde systeem, zoals dat is opgenomen in de bijlage bij dit Verdrag.
 
-#### Artikel 4. Gedeeltelijke toepassing door ontwikkelingslanden
+##### Artikel 4. Gedeeltelijke toepassing door ontwikkelingslanden
 
 1. Elk ontwikkelingsland dat Verdragsluitende Partij is, kan de toepassing van sommige of van alle onderverdelingen van de posten van het geharmoniseerde systeem uitstellen gedurende de periode die, rekening houdend met de structuur van zijn internationale handel of met zijn bestuurlijke mogelijkheden, noodzakelijk is.
 
@@ -102,11 +127,11 @@ De bijlage bij dit Verdrag maakt daarvan onafscheidelijk deel uit en elk verwijz
 
 6. Elk ontwikkelingsland dat Verdragsluitende Partij is en het geharmoniseerde systeem overeenkomstig het bepaalde in dit artikel gedeeltelijk toepast, wordt van zijn verplichtingen die voortvloeien uit [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=3&z=2024-01-01&g=2024-01-01) ontheven met betrekking tot de onderverdelingen die het niet toepast.
 
-#### Artikel 5. Technische bijstand voor ontwikkelingslanden
+##### Artikel 5. Technische bijstand voor ontwikkelingslanden
 
 De ontwikkelde landen die Verdragsluitende Partij zijn, verschaffen ontwikkelingslanden die daarom verzoeken, technische bijstand op onderling overeengekomen voorwaarden met betrekking tot onder meer de opleiding van personeel, de omzetting van hun huidige nomenclaturen op basis van het geharmoniseerde systeem, het geven van advies omtrent het bijhouden van hun aldus omgezette systemen aan de hand van eventuele wijzigingen in het geharmoniseerde systeem, alsmede omtrent de toepassing van de bepalingen van dit Verdrag.
 
-#### Artikel 6. Comité voor het Geharmoniseerde Systeem
+##### Artikel 6. Comité voor het Geharmoniseerde Systeem
 
 1. Ingevolge dit Verdrag wordt een comité ingesteld onder de naam Comité voor het Geharmoniseerde Systeem, samengesteld uit vertegenwoordigers van elk van de Verdragsluitende Partijen.
 
@@ -124,7 +149,7 @@ De ontwikkelde landen die Verdragsluitende Partij zijn, verschaffen ontwikkeling
 
 8. Het Comité stelt naar behoefte subcomités of werkgroepen in en houdt daarbij in het bijzonder rekening met het bepaalde in [artikel 7, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=7&z=2024-01-01&g=2024-01-01), en het stelt het lidmaatschap, het stemrecht en het huishoudelijk reglement van deze subcomités of werkgroepen vast.
 
-#### Artikel 7. Functies van het Comité
+##### Artikel 7. Functies van het Comité
 
 1. Met inachtneming van het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=8&z=2024-01-01&g=2024-01-01) vervult het Comité voor het Geharmoniseerde Systeem de volgende functies:
 
@@ -144,7 +169,7 @@ De ontwikkelde landen die Verdragsluitende Partij zijn, verschaffen ontwikkeling
 
 2. Administratieve beslissingen van het Comité voor het Geharmoniseerde Systeem die gevolgen hebben voor de begroting, zijn aan de goedkeuring van de Raad onderworpen.
 
-#### Artikel 8. Functie van de Raad en procedure voor een nieuw onderzoek
+##### Artikel 8. Functie van de Raad en procedure voor een nieuw onderzoek
 
 1. De Raad onderzoekt de voorstellen tot wijziging van dit Verdrag die door het Comité voor het Geharmoniseerde Systeem worden gedaan, en beveelt deze wijzigingen aan de Verdragsluitende Partijen aan overeenkomstig de procedure van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=16&z=2024-01-01&g=2024-01-01), tenzij een Lid van de Raad dat Partij bij dit Verdrag is, verzoekt de voorstellen of een deel ervan aan het Comité terug te zenden voor een nieuw onderzoek.
 
@@ -158,11 +183,11 @@ De ontwikkelde landen die Verdragsluitende Partij zijn, verschaffen ontwikkeling
 
 6. Krachtens het bepaalde in het tweede lid van dit artikel kan het Comité voor het Geharmoniseerde Systeem een toelichting, indelingsadvies, een ander advies omtrent de interpretatie van het geharmoniseerde systeem of een op het geharmoniseerde systeem betrekking hebbende aanbeveling, ten hoogste twee maal opnieuw onderzoeken nadat het door het Comité voor het Geharmoniseerde Systeem is opgesteld.
 
-#### Artikel 9. Douanerechten
+##### Artikel 9. Douanerechten
 
 De Verdragsluitende Partijen nemen door dit Verdrag geen enkele verplichting op zich met betrekking tot de hoogte van de douanerechten.
 
-#### Artikel 10. Regeling van geschillen
+##### Artikel 10. Regeling van geschillen
 
 1. Elk geschil tussen Verdragsluitende Partijen betreffende de interpretatie of de toepassing van dit Verdrag wordt zoveel mogelijk geregeld door rechtstreekse onderhandelingen tussen deze Partijen.
 
@@ -172,7 +197,7 @@ De Verdragsluitende Partijen nemen door dit Verdrag geen enkele verplichting op 
 
 4. De partijen bij het geschil kunnen van tevoren overeenkomen dat zij de aanbevelingen van het Comité of van de Raad als bindend zullen aanvaarden.
 
-#### Artikel 11. Voorwaarden om Verdragsluitende Partij te worden
+##### Artikel 11. Voorwaarden om Verdragsluitende Partij te worden
 
 Partij bij dit Verdrag kunnen worden:
 
@@ -182,7 +207,7 @@ Partij bij dit Verdrag kunnen worden:
 
 - c. elke andere Staat die in opdracht van de Raad hiertoe wordt uitgenodigd door de Secretaris-Generaal.
 
-#### Artikel 12. Procedure om Verdragsluitende Partij te worden
+##### Artikel 12. Procedure om Verdragsluitende Partij te worden
 
 1. Elke Staat of douane- of economische unie die voldoet aan de gestelde voorwaarden kan Partij bij dit Verdrag worden door:
 
@@ -196,23 +221,23 @@ Partij bij dit Verdrag kunnen worden:
 
 3. De akten van bekrachtiging of toetreding worden nedergelegd bij de Secretaris-Generaal.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerstkomende eerste januari die verschijnt ten minste drie maanden na de datum waarop ten minste zeventien Staten of douane-unies of economische unies, zoals bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=11&z=2024-01-01&g=2024-01-01) hierboven, het hebben ondertekend zonder voorbehoud van bekrachtiging of hun akten van bekrachtiging of toetreding hebben nedergelegd, maar niet vóór 1 januari 1988.
 
 2. Voor elke Staat of douane- of economische unie die dit Verdrag ondertekent zonder voorbehoud van bekrachtiging, het bekrachtigt of ertoe toetreedt nadat het in het eerste lid van dit artikel aangegeven minimumaantal is bereikt, treedt dit Verdrag in werking op de eerste januari die valt in een tijdvak van ten minste twaalf en ten hoogste vierentwintig maanden, volgende op de datum waarop deze Staat of douane- of economische unie het Verdrag heeft ondertekend zonder voorbehoud van bekrachtiging of zijn of haar akte van bekrachtiging of toetreding heeft nedergelegd, tenzij deze een eerdere datum heeft opgegeven. De datum van inwerkingtreding ingevolge het bepaalde in dit lid mag echter niet eerder vallen dan de in het eerste lid van dit artikel bedoelde datum.
 
-#### Artikel 14. Toepassing door afhankelijke gebieden
+##### Artikel 14. Toepassing door afhankelijke gebieden
 
 1. Elke Staat kan, hetzij op het tijdstip dat deze Partij bij dit Verdrag wordt, hetzij later, door middel van een aan de Secretaris-Generaal gerichte kennisgeving verklaren dat dit Verdrag mede van toepassing zal zijn op alle of op bepaalde gebieden voor welker internationale betrekkingen hij verantwoordelijk is en die in zijn kennisgeving zijn genoemd. Deze kennisgeving wordt van kracht op de eerste januari die valt in een tijdvak van ten minste twaalf en ten hoogste vierentwintig maanden, volgende op de datum van ontvangst daarvan door de Secretaris-Generaal, tenzij een eerdere datum in de kennisgeving is opgegeven. Dit Verdrag kan echter niet van toepassing worden op deze gebieden, voordat het voor de betrokken Staat in werking is getreden.
 
 2. Dit Verdrag houdt op van toepassing te zijn op een bepaald gebied op de datum waarop de Verdragsluitende Partij ophoudt verantwoordelijk te zijn voor de internationale betrekkingen van dat gebied, of op een eerdere aan de Secretaris-Generaal overeenkomstig de procedure van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=15&z=2024-01-01&g=2024-01-01) medegedeelde datum.
 
-#### Artikel 15. Opzegging
+##### Artikel 15. Opzegging
 
 Dit Verdrag wordt voor onbepaalde tijd gesloten. Elke Verdragsluitende Partij kan het echter opzeggen en deze opzegging wordt van kracht een jaar na de ontvangst door de Secretaris-Generaal van de akte van opzegging, tenzij daarin een latere datum is opgegeven.
 
-#### Artikel 16. Wijzigingsprocedure
+##### Artikel 16. Wijzigingsprocedure
 
 1. De Raad kan aan de Verdragsluitende Partijen aanbevelingen doen tot wijziging van dit Verdrag.
 
@@ -230,7 +255,7 @@ Dit Verdrag wordt voor onbepaalde tijd gesloten. Elke Verdragsluitende Partij ka
 
 Elke Staat of douane- of economische unie die dit Verdrag ondertekent zonder voorbehoud van bekrachtiging, het bekrachtigt of ertoe toetreedt, wordt geacht de wijzigingen daarop te hebben aanvaard die op de datum waarop die Staat of unie Verdragsluitende Partij wordt, in werking zijn getreden of ingevolge het bepaalde in het derde lid van dit artikel zijn aanvaard.
 
-#### Artikel 17. Rechten van de Verdragsluitende Partijen met betrekking tot het geharmoniseerde systeem
+##### Artikel 17. Rechten van de Verdragsluitende Partijen met betrekking tot het geharmoniseerde systeem
 
 Inzake aangelegenheden betreffende het geharmoniseerde systeem verlenen [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=6&z=2024-01-01&g=2024-01-01), [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=8&z=2024-01-01&g=2024-01-01) en [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=16&z=2024-01-01&g=2024-01-01), rechten aan een Verdragsluitende Partij:
 
@@ -240,11 +265,11 @@ Inzake aangelegenheden betreffende het geharmoniseerde systeem verlenen [artikel
 
 - c. met betrekking tot alle delen van het geharmoniseerde systeem, mits zij zich er formeel toe heeft verbonden het volledige geharmoniseerde systeem met zes-cijfercode toe te passen binnen het in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=4&z=2024-01-01&g=2024-01-01), bedoelde tijdvak van drie jaar, totdat dit tijdvak is verstreken.
 
-#### Artikel 18. Voorbehoud
+##### Artikel 18. Voorbehoud
 
 Ten aanzien van dit Verdrag is geen enkel voorbehoud toegestaan.
 
-#### Artikel 19. Kennisgevingen door de Secretaris-Generaal
+##### Artikel 19. Kennisgevingen door de Secretaris-Generaal
 
 De Secretaris-Generaal stelt de Verdragsluitende Partijen, de overige ondertekenende Staten, de Lid-Staten van de Raad die geen Partij bij dit Verdrag zijn en de Secretaris-Generaal van de Verenigde Naties in kennis van:
 
@@ -264,7 +289,7 @@ De Secretaris-Generaal stelt de Verdragsluitende Partijen, de overige onderteken
 
 - h. wijzigingen aanvaard overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=16&z=2024-01-01&g=2024-01-01), alsmede de datum waarop deze in werking treden.
 
-#### Artikel 20. Registratie bij de Verenigde Naties
+##### Artikel 20. Registratie bij de Verenigde Naties
 
 Dit Verdrag wordt op verzoek van de Secretaris-Generaal van de Raad bij het Secretariaat van de Verenigde Naties geregistreerd overeenkomstig het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 

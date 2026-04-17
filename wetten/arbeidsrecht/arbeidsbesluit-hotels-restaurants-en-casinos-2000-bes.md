@@ -1,16 +1,41 @@
 ---
 title: "Arbeidsbesluit hotels, restaurants en casino’s 2000 BES"
 identifier: "BWBR0028326"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028326"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028326"
+soort: "AMvB-BES"
+stam_id: "10752933"
+version_id: "17727832"
+internal_id: "C24840631"
+label_id: "10727514"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028326/2010-10-10/0"
+intitule_bron: "Stb.2010-613"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-613"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-613"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028326&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028326&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Arbeidsbesluit hotels, restaurants en casino’s 2000 BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -24,7 +49,7 @@ De arbeidsduur voor de werknemer, die werk verricht in de bedrijfstakken respect
 
 3. Bij collectieve arbeidsovereenkomst kan van het eerste lid worden afgeweken.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Ten aanzien van arbeid, verricht in de bedrijfstakken in de bedrijfssectoren hotels en restaurants, geldt in afwijking van de desbetreffende bepalingen van de [Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202), het volgende:
 
@@ -58,10 +83,10 @@ De arbeidsduur voor de werknemer, die werk verricht in de bedrijfstakken respect
 
 2. Niettegenstaande het bepaalde in het eerste lid is Onze Minister bevoegd ten aanzien van een werknemer of een groep van werknemers, die in een bepaalde onderneming arbeid als bedoeld in het eerste lid verrichten, aanvullende voorwaarden te verbinden ten aanzien van de arbeidsduur, de arbeidsduur inclusief overwerk, de werktijden, de pauze en de rusttijden, indien dat met het oog op de gezondheid of het welzijn van die werknemer of groep van werknemers bepaaldelijk noodzakelijk is.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit berust op [artikel 27 van de Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&artikel=27).
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Arbeidsbesluit hotels, restaurants en casino’s 2000 BES.

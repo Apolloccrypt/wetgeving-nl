@@ -1,13 +1,38 @@
 ---
 title: "Wijzigingsregeling enige fiscale uitvoeringsregelingen 2011"
 identifier: "BWBR0031040"
-categorie: "Overig"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031040"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031040"
+soort: "ministeriele-regeling"
+stam_id: "11608233"
+version_id: "19153492"
+internal_id: "C26706941"
+label_id: "11581364"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031040/2012-01-01/0"
+intitule_bron: "Stcrt.2011-22974"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-12-30"
+intitule_published: "2011-12-30"
+intitule_in_force: "2011-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-22974"
+original_signed_date: "2011-12-30"
+original_published_date: "2011-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-22974"
+entry_into_force_date: "2012-01-01"
+jci_1_3: "jci1.3:c:BWBR0031040&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBR0031040&g=2012-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2011-12-30"
+entry_into_force: "2012-01-01"
 ---
-
 # Wijzigingsregeling enige fiscale uitvoeringsregelingen 2011
 
 Handelende wat[3.13, eerste lid, onderdeel g, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13) betreft, na overleg met de Minister van Economische Zaken, Landbouw en Innovatie;
@@ -22,125 +47,125 @@ Gelet op de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&arti
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Meldingsregeling milieu-investeringsaftrek 2001.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Uitvoeringsregeling willekeurige afschrijving 2001.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2001.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Uitvoeringsregeling afdrachtvermindering.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Uitvoeringsregeling fiscale eenheid en voorkoming dubbele belasting 2003.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Uitvoeringsbeschikking dividendbelasting 1965.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Uitvoeringsregeling schenk- en erfbelasting.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Regeling vrijstelling overdrachtsbelasting voor investeringen in stedelijke herstructurering.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Uitvoeringsregeling motorrijtuigenbelasting 1994.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Uitvoeringsregeling Wob Financiën.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Uitvoeringsregeling instructie waardebepaling Wet waardering onroerende zaken.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 De [Uitvoeringsregeling Besluit voorkoming dubbele belasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013995) wordt ingetrokken.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Uitvoeringsregeling Belastingwet BES.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt de Uitvoeringsregeling investeringsaftrek Aruba, Curaçao, Sint Maarten en de BES eilanden 2010.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 1. [Artikel 4c, vierde lid, onderdeel a, van de Uitvoeringsregeling motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007308&artikel=4c), zoals dit artikel op 31 december 2011 luidde, blijft van toepassing, ingeval voor een personenauto, een bestelauto of een motorrijwiel een vermindering van belasting geldt met betrekking tot niet ingegane tijdvakken die vóór 1 januari 2012 zijn betaald op de voet van [artikel 28 van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=28), zoals dit artikel luidde op 31 december 2011.
 
 2. Artikel [4c, vierde lid, onderdeel a, van de Uitvoeringsregeling motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007308&artikel=4c), zoals dit artikel luidde op 31 december 2011, is van overeenkomstige toepassing, ingeval voor een autobus een vermindering van belasting geldt met betrekking tot niet ingegane tijdvakken die vóór 1 januari 2012 zijn betaald op de voet van [artikel 49 van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=49), zoals dit artikel luidde op 31 december 2011.
 
-#### Artikel XXX
+##### Artikel XXX
 
 Deze regeling treedt in werking met ingang van 1 januari 2012, met dien verstande dat:
 

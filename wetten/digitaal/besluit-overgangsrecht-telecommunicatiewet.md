@@ -1,13 +1,39 @@
 ---
-title: "Besluit overgangsrecht Telecommunicatiewet"
+title: "Besluit van 10 november 1998, houdende overgangsrechtelijke bepalingen krachtens hoofdstuk 20 van de Telecommunicatiewet (Besluit overgangsrecht Telecommunicatiewet)"
 identifier: "BWBR0009992"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2013-03-15
-laatste_update: 2013-03-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009992"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-03-15"
+last_updated: "2013-03-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009992"
+soort: "AMvB"
+stam_id: "969873"
+version_id: "1422462"
+internal_id: "C1422461"
+label_id: "940404"
+dtd_version: "2.0"
+original_entry_into_force: "1998-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009992/2013-03-15/0"
+intitule_bron: "Stb.1998-633"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-11-10"
+intitule_published: "1998-11-19"
+intitule_in_force: "1998-12-03"
+intitule_status: "goed"
+original_publication: "Stb.1998-633"
+original_signed_date: "1998-11-10"
+original_published_date: "1998-11-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1998-633"
+entry_into_force_date: "1998-12-15"
+jci_1_3: "jci1.3:c:BWBR0009992&z=2013-03-15&g=2013-03-15"
+jci_1_0: "1.0:c:BWBR0009992&g=2013-03-15"
+citeertitel_status: "officieel"
+short_title: "Besluit overgangsrecht Telecommunicatiewet"
+signed_date: "1998-11-10"
+entry_into_force: "1998-12-15"
 ---
-
 # Besluit van 10 november 1998, houdende overgangsrechtelijke bepalingen krachtens hoofdstuk 20 van de Telecommunicatiewet (Besluit overgangsrecht Telecommunicatiewet)
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 20 mei 1998, nr. HDTP/98/1541/MO, Hoofddirectie Telecommunicatie en Post;
@@ -22,13 +48,13 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder wet: [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
 
 #### § 2. Criteria als bedoeld in [artikel 20.1, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.1)
 
-#### Artikel 2
+##### Artikel 2
 
 1. Criteria als bedoeld in [artikel 20.1, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.1) zijn:
 
@@ -48,15 +74,15 @@ In dit besluit wordt verstaan onder wet: [Telecommunicatiewet](https://wetten.ov
 
 #### § 3. Vergunningen met een in de tijd onbeperkte werking
 
-#### Artikel 3
+##### Artikel 3
 
 Deze paragraaf is van toepassing op vergunningen als bedoeld in [artikel 20.3, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.3) die krachtens de Wet op de telecommunicatievoorzieningen met een in de tijd onbeperkte werking zijn verleend.
 
-#### Artikel 4
+##### Artikel 4
 
 Een vergunning als bedoeld in [artikel 20.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.3) geldt voor een termijn van vijf jaar na de inwerkingtreding van dit besluit, voorzover deze betrekking heeft op de toepassing maritiem (grote handelsvaart).
 
-#### Artikel 5
+##### Artikel 5
 
 Een vergunning als bedoeld in [artikel 20.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.3) geldt voor een termijn van vijf jaar na de inwerkingtreding van dit besluit, voorzover deze betrekking heeft op de toepassing:
 
@@ -96,7 +122,7 @@ Een vergunning als bedoeld in [artikel 20.3, eerste lid, van de wet](https://wet
 
 - r. trunking (TR20).
 
-#### Artikel 6
+##### Artikel 6
 
 Een vergunning als bedoeld in [artikel 20.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.3) geldt voor een termijn van tien jaar na de inwerkingtreding van dit besluit, voorzover deze betrekking heeft op de toepassing:
 
@@ -104,23 +130,23 @@ Een vergunning als bedoeld in [artikel 20.3, eerste lid, van de wet](https://wet
 
 - b. trunking (TR10).
 
-#### Artikel 7
+##### Artikel 7
 
 Een vergunning als bedoeld in [artikel 20.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.3) geldt voor een periode van vijftien jaar na de inwerkingtreding van dit besluit.
 
 #### § 4. Vergunningen met een in de tijd beperkte werking
 
-#### Artikel 8
+##### Artikel 8
 
 Deze paragraaf is van toepassing op vergunningen als bedoeld in [artikel 20.3, eerste, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.3) die krachtens de Wet op de telecommunicatievoorzieningen met een in de tijd beperkte werking zijn verleend.
 
-#### Artikel 9
+##### Artikel 9
 
 Vergunningen behouden hun werkingsduur, zoals deze krachtens de Wet op de telecommunicatievoorzieningen is bepaald.
 
 #### § 5. Regels als bedoeld in [artikel 20.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.18)
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een toekenning van radiofrequenties als bedoeld in [artikel 21 van de Vergunningenwet kabelgebonden telecommunicatie-infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0007973&artikel=21) wordt gelijkgesteld met een vergunning, verleend krachtens [artikel 3.13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.13).
 
@@ -128,11 +154,11 @@ Vergunningen behouden hun werkingsduur, zoals deze krachtens de Wet op de teleco
 
 #### § 6. Slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit overgangsrecht Telecommunicatiewet.
 

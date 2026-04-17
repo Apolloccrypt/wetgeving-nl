@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsregeling Kadasterwet BES"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 23 november 2020, nr. 2020-0000452626, houdende uitvoeringsregels bij de Kadasterwet BES (Uitvoeringsregeling Kadasterwet BES)"
 identifier: "BWBR0044468"
-categorie: "Overig"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044468"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044468"
+soort: "ministeriele-regeling-BES"
+stam_id: "15745143"
+version_id: "27282142"
+internal_id: "C38543271"
+label_id: "15683584"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044468/2021-01-01/0"
+intitule_bron: "Stcrt.2020-61058"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-11-23"
+intitule_published: "2020-12-04"
+intitule_in_force: "2020-12-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-61058"
+original_signed_date: "2020-11-23"
+original_published_date: "2020-12-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-61058"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0044468&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0044468&g=2021-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsregeling Kadasterwet BES"
+signed_date: "2020-11-23"
+entry_into_force: "2021-01-01"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 23 november 2020, nr. 2020-0000452626, houdende uitvoeringsregels bij de Kadasterwet BES (Uitvoeringsregeling Kadasterwet BES)
 
 Gelet op de [artikelen 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=11), [16, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=16), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=25) en [65, vierde lid, van de Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=65),
@@ -18,11 +44,11 @@ Besluit:
 
 #### Paragraaf 1.1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 Deze regeling is van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 2
+##### Artikel 2
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 1.2. Raadplegen van de bestuurscolleges van de openbare lichamen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het bestuur van de Dienst raadpleegt ieder bestuurscollege van de openbare lichamen als bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=11) afzonderlijk, tenzij in overleg met de bestuurscolleges anders bepaald wordt.
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 4. Het raadplegen van de bestuurscolleges van de openbare lichamen is niet openbaar, tenzij in overleg met het bestuur van de Dienst anders wordt bepaald.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het bestuurscollege van het openbare lichaam waar het raadplegen plaatsvindt, zit de vergadering voor. Wanneer het raadplegen niet in een van de openbare lichamen plaatsvindt, wordt in onderling overleg een voorzitter gekozen.
 
@@ -52,13 +78,13 @@ In deze regeling wordt verstaan onder:
 
 3. De secretaris is geen lid van het bestuurscollege van het openbare lichaam waar het raadplegen plaatsvindt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De bestuurscolleges van de openbare lichamen en het bestuur van de Dienst kunnen onderwerpen voorstellen voor op de agenda van het raadplegen.
 
 2. Nadat is vastgesteld waar het raadplegen plaatsvindt stelt de voorzitter een concept-agenda op en stuurt deze met de bijhorende stukken aan de leden van de vergadering.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De secretaris verzorgt het verslag van het raadplegen van de bestuurscolleges van de openbare lichamen. Zo spoedig mogelijk na het raadplegen ontvangen de aanwezigen bij het raadplegen het concept-verslag.
 
@@ -68,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 1.3. Zienswijze van de bestuurscolleges van de openbare lichamen
 
-#### Artikel 7
+##### Artikel 7
 
 1. De zienswijze, bedoeld in [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=11), wordt schriftelijk en elektronisch aan het bestuur van de Dienst verzonden en bevat in ieder geval de zienswijze van ten minste één persoon die gebruiker is van de dienstverlening van de Kadasters.
 
@@ -76,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 3. Als de persoon die als gebruiker van de dienstverlening van de Kadasters niet of niet binnen de gestelde termijn zijn zienswijze kenbaar heeft gemaakt, vermelden de bestuurscolleges dit in hun zienswijze, in afwijking van het eerste lid.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het bestuur van de Dienst betrekt de zienswijze, bedoeld in [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=11), bij de beleidswijzigingen waarop die zienswijze betrekking heeft.
 
@@ -86,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Vereisten met betrekking tot de aanbieding van stukken ter inschrijving in de openbare registers
 
-#### Artikel 9
+##### Artikel 9
 
 1. De verklaring van eensluidendheid, bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=16), wordt gesteld aan de voet van het afschrift van het in papieren vorm ter inschrijving aangeboden stuk en bevat de verklaring dat het afschrift eensluidend is met het ter inschrijving aangeboden stuk. De verklaring bevat voorts de vermelding van de naam, de voornamen en de woonplaats met het adres van degene die de verklaring ondertekent.
 
@@ -112,7 +138,7 @@ In deze regeling wordt verstaan onder:
 
 4. Het eerste tot en met het derde lid zijn van overeenkomstige toepassing op de verklaring van eensluidendheid, bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=16) die wordt opgenomen in het afschrift van een stuk dat deel uitmaakt of deel uit zal gaan maken van een stuk dat ter inschrijving wordt aangeboden, voor zover hiervan niet wordt afgeweken in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044468&hoofdstuk=2&artikel=10&z=2021-01-01&g=2021-01-01).
 
-#### Artikel 10
+##### Artikel 10
 
 Bij de aanbieding ter inschrijving van de volgende stukken in papieren vorm behoeft geen afschrift als bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=16) te worden aangeboden:
 
@@ -136,7 +162,7 @@ Bij de aanbieding ter inschrijving van de volgende stukken in papieren vorm beho
 
 - j. rechterlijke uitspraak.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Tekeningen die deel uitmaken van ter inschrijving aangeboden stukken, voldoen aan de volgende vereisten:
 
@@ -150,7 +176,7 @@ Bij de aanbieding ter inschrijving van de volgende stukken in papieren vorm beho
 
 4. Indien de ruimte aan de voorzijde van een formulier ontoereikend is, wordt de tekst van de verklaring van eensluidendheid aan de achterzijde van het formulier vervolgd en wordt niet op de voorzijde van een ander formulier verder gegaan.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044468&hoofdstuk=2&artikel=11&z=2021-01-01&g=2021-01-01), voldoet de tekening, bedoeld in [artikel 109, tweede lid, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=109), aan de volgende vereisten:
 
@@ -184,13 +210,13 @@ Bij de aanbieding ter inschrijving van de volgende stukken in papieren vorm beho
 
 5. De notaris vermeldt in het verzoek uit hoeveel bladen het afschrift van de tekening bestaat en verklaart dat de overgelegde afschriften van de tekening onderling geheel gelijkluidend zijn.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De tekening die bij het verzoek betreffende de voorgenomen ondersplitsing, als bedoeld in [artikel 106, tweede lid, van Boek 5 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&artikel=106), wordt overgelegd, stemt geheel overeen met de laatste ingeschreven tekening, met dien verstande dat binnen de begrenzing van het gedeelte van de gebouwen en de grond, waarvan het uitsluitend gebruik in het onder te splitsen appartementsrecht begrepen is, de begrenzingen worden aangegeven van de onderscheidene gedeelten die bestemd zijn om na de voorgenomen ondersplitsing als afzonderlijk geheel te worden gebruikt en waarvan volgens de akte van ondersplitsing het uitsluitend gebruik in de onderscheidene nieuwe appartementsrechten zal zijn begrepen.
 
 2. De in het eerste lid bedoelde gedeelten worden op de over te leggen tekening aangeduid met een aanduiding, bestaande uit achtereenvolgens het indexnummer van het onder te splitsen appartementsrecht, de hoofdletter A en een cijfer. De cijfers vormen een doorlopende reeks beginnend met het cijfer 1. Tevens wordt elk van deze gedeelten en die waarvan na de ondersplitsing het uitsluitend gebruik niet zal zijn begrepen in een der nieuwe appartementsrechten, op de over te leggen tekening voorzien van het nummer dat op de laatste ingeschreven tekening voorkomt als kenmerk van het onder te splitsen appartementsrecht. Dit nummer wordt omkringd.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De tekening die bij het verzoek betreffende de voorgenomen wijziging, als bedoeld in [artikel 139 van Boek 5 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028748&artikel=139), wordt overgelegd, geeft de begrenzing aan van de onderscheidene gedeelten van de gebouwen en de grond, die bestemd zijn als afzonderlijk geheel te worden gebruikt en waarvan na inschrijving van de akte van wijziging het uitsluitend gebruik in een appartementsrecht is begrepen.
 
@@ -200,13 +226,13 @@ Bij de aanbieding ter inschrijving van de volgende stukken in papieren vorm beho
 
 - b. voor de overige gedeelten: de nummers volgende op het hoogste nummer, dat als kenmerk van een gedeelte voorkomt op de onder a bedoelde tekening.
 
-#### Artikel 15
+##### Artikel 15
 
 Ingeval een ter inschrijving aangeboden stuk betrekking heeft op een bepaald reeds eerder ingeschreven stuk als bedoeld in [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=25), bevat het een verwijzing naar dit eerdere stuk door de vermelding van het kantoor van de Dienst waar het eerdere stuk is ingeschreven, het soort register waarin inschrijving plaatsvond, alsmede deel en nummer van inschrijving.
 
 ### Hoofdstuk 3. Bijwerking van de registraties
 
-#### Artikel 16
+##### Artikel 16
 
 1. Voor grenstekens, als bedoeld in [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=65), wordt gebruik gemaakt van:
 
@@ -220,11 +246,11 @@ Ingeval een ter inschrijving aangeboden stuk betrekking heeft op een bepaald ree
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling Kadasterwet BES.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling treedt in werking op 1 januari 2021.
 

@@ -1,14 +1,42 @@
 ---
-title: "Overige fiscale maatregelen 2009"
+title: "Wet van 18 december 2008, houdende wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2009)"
 identifier: "BWBR0025024"
-categorie: "Overig"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025024"
+country: "nl"
+rank: "wet"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025024"
+soort: "wet"
+stam_id: "9840353"
+version_id: "16012412"
+internal_id: "C21941541"
+label_id: "9816994"
+dtd_version: "2.0"
+original_entry_into_force: "2008-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025024/2012-01-01/0"
+intitule_bron: "Stb.2008-566"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-18"
+intitule_published: "2008-12-29"
+intitule_in_force: "2008-12-29"
+intitule_status: "goed"
+original_publication: "Stb.2008-566"
+original_signed_date: "2008-12-18"
+original_published_date: "2008-12-29"
+original_effect: "nieuwe-regeling"
+original_dossier: "31705"
+original_url_id: "stb-2008-566"
+entry_into_force_date: "2008-12-31"
+entry_into_force_dossier: "31705"
+jci_1_3: "jci1.3:c:BWBR0025024&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBR0025024&g=2012-01-01"
+citeertitel_status: "officieel"
+short_title: "Overige fiscale maatregelen 2009"
+signed_date: "2008-12-18"
+entry_into_force: "2008-12-31"
 ---
-
-# Overige fiscale maatregelen 2009
+# Wet van 18 december 2008, houdende wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2009)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,73 +44,73 @@ Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale bele
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel IV
+##### Artikel IV
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/640.
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel V
+##### Artikel V
 
 Vervallen
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel VII
+##### Artikel VII
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Belastingplan 2007.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Overige fiscale maatregelen 2008.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet kinderopvang.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet studiefinanciering 2000.
 
-#### Artikel XVI
+##### Artikel XVI
 
 [Paragraaf 4.1.3.2. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.2) vindt voor het eerst toepassing met betrekking tot ingevolge de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) te nemen of genomen beschikkingen met betrekking tot het berekeningsjaar 2013.
 
-#### Artikel XVII
+##### Artikel XVII
 
 1. Deze wet treedt in werking met ingang van 1 januari 2009.
 
@@ -94,7 +122,7 @@ Wijzigt de Wet studiefinanciering 2000.
 
 5. In afwijking van het eerste lid treden [artikel XIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0025024&artikel=XIII&z=2012-01-01&g=2012-01-01), en [artikel XIV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0025024&artikel=XIV&z=2012-01-01&g=2012-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Deze wet wordt aangehaald als: Overige fiscale maatregelen 2009.
 

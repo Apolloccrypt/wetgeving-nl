@@ -1,13 +1,35 @@
 ---
-title: "Besluit vaststelling vormgeving Verzetsherdenkingskruis"
+title: "Besluit van 24 april 1981, houdende vaststelling van de vormgeving van het Verzetsherdenkingskruis"
 identifier: "BWBR0003393"
-categorie: "Overig"
-publicatiedatum: 1981-07-15
-laatste_update: 1981-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003393"
+country: "nl"
+rank: "kb"
+publication_date: "1981-07-15"
+last_updated: "1981-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003393"
+soort: "KB"
+stam_id: "1175163"
+version_id: "1735892"
+internal_id: "C1735891"
+label_id: "1138554"
+dtd_version: "2.0"
+original_entry_into_force: "1981-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003393/1981-07-15/0"
+intitule_bron: "Stb.1981-349"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1981-04-24"
+intitule_status: "goed"
+original_publication: "Stb.1981-349"
+original_signed_date: "1981-04-24"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1981-07-15"
+jci_1_3: "jci1.3:c:BWBR0003393&z=1981-07-15&g=1981-07-15"
+jci_1_0: "1.0:c:BWBR0003393&g=1981-07-15"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling vormgeving Verzetsherdenkingskruis"
+signed_date: "1981-04-24"
+entry_into_force: "1981-07-15"
 ---
-
 # Besluit van 24 april 1981, houdende vaststelling van de vormgeving van het Verzetsherdenkingskruis
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken, Directoraat Generaal Binnenlands Bestuur, Afdeling Kabinetszaken, van 13 april 1981, nr. BK81/U493, mede namens Onze Ministers van Defensie en van Cultuur, Recreatie en Maatschappelijk Werk;
@@ -16,7 +38,7 @@ Gelet op artikel 5 van Ons besluit van 29 december 1980, **Staatsblad** 715, hou
 
 Hebben goedgevonden en verstaan:
 
-#### artikel Enig
+##### artikel Enig
 
 Het in artikel 1 bedoelde versiersel bestaat uit een vierarmig kruis, lang en breed 40 mm, uitgevoerd in gebrand zilver.
 

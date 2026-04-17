@@ -1,18 +1,43 @@
 ---
 title: "Regeling houdende nieuwe voorschriften met betrekking tot de aflevering en het voorschrijven van middelen als bedoeld in de artikelen 3 en 4 van de Opiumwet 1960 BES"
 identifier: "BWBR0028709"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028709"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028709"
+soort: "ministeriele-regeling-BES"
+stam_id: "10938103"
+version_id: "17923712"
+internal_id: "C24848121"
+label_id: "10912694"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028709/2010-10-10/0"
+intitule_bron: "Stcrt.2010-14609"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-28"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14609"
+original_signed_date: "2010-09-28"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14609"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028709&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028709&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-28"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling houdende nieuwe voorschriften met betrekking tot de aflevering en het voorschrijven van middelen als bedoeld in de artikelen 3 en 4 van de Opiumwet 1960 BES
 
 Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +51,7 @@ In deze regeling wordt verstaan onder:
 
 - e. **het verdrag:** het op 30 maart 1961 te New York tot stand gekomen Enkelvoudig Verdrag inzake verdovende middelen (Trb. 1963, 81), zoals gewijzigd bij het op 25 maart 1972 te Genève tot stand gekomen Protocol tot wijziging van dat verdrag (Trb. 1987, 90), dan wel het op 21 februari 1971 te Wenen tot stand gekomen Verdrag inzake psychotrope stoffen (Trb. 1989, 129).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Gevestigde apothekers mogen middelen uitsluitend afleveren op een recept van een geneeskundige, een tandheelkundige of een diergeneeskundige en slechts indien het recept voldoet aan de eisen gesteld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028709&artikel=3&z=2010-10-10&g=2010-10-10) van deze regeling.
 
@@ -36,7 +61,7 @@ De apotheker houdt van deze aflevering een nauwkeurig register bij waarin vermel
 
 3. Apotheekhoudende geneeskundigen mogen middelen ten behoeve van de tot hun geneeskundige praktijk behoren de personen eveneens slechts afleveren op een recept dat voldoet aan de eisen gesteld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028709&artikel=3&z=2010-10-10&g=2010-10-10) van deze beschikking.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het verkopen, afleveren of verstrekken op recept van enig middel, mag slechts geschieden indien op het recept de volgende gegevens worden vermeld:
 
@@ -84,7 +109,7 @@ De apotheker houdt van deze aflevering een nauwkeurig register bij waarin vermel
 
 - 5. de handtekening van degene die voorschrijft.
 
-#### Artikel 4
+##### Artikel 4
 
 De in [artikel 7, lid 2 onder a en b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=7) genoemde personen moeten bij de aflevering van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028709&artikel=1&z=2010-10-10&g=2010-10-10) van deze beschikking bedoelde middelen, de navolgende voorschriften in acht nemen:
 
@@ -92,7 +117,7 @@ De etiketten, waaronder enig middel of preparaat dat een middel bevat, te koop w
 
 Deze etiketten moeten ook de naam aangeven in overeenstemming met de naam, waarmede het middel is aangeduid in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028519) of in een ministeriële regeling op grond van [artikel 3, eerste lid onder f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Gevestigde apothekers zijn verplicht de recepten waarop zij een middel hebben afgeleverd gedurende ten minste zes jaar afzonderlijk in de apotheek te bewaren, gerangschikt achtereenvolgens op naam van degene die het recept heeft voorgeschreven, op naam van het middel en op datum van aflevering; in geval het een bereiding betreft die meer dan één middel bevat, moet ter naleving van de voorgaande volzin, het daartoe benodigde aantal kopieën van het recept worden gemaakt.
 
@@ -102,7 +127,7 @@ Deze etiketten moeten ook de naam aangeven in overeenstemming met de naam, waarm
 
 4. Apotheekhoudende geneeskundigen zijn verplicht van de door hen afgeleverde middelen, met uitzondering van preparaten bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0028709&artikel=5a&z=2010-10-10&g=2010-10-10), een ten genoegen van de Inspecteur ingerichte en bijgehouden administratie te voeren, waaruit blijkt welke middelen zij hebben afgeleverd en aan wie de aflevering heeft plaatsgevonden. De bescheiden, betrekking hebbende op de in de eerste volzin bedoelde administratie en de recepten waarop de in die volzin bedoelde middelen zijn voorgeschreven, moeten door de apotheekhoudende geneeskundigen gedurende ten minste zes jaren afzonderlijk worden bewaard en gedurende die periode ter directe beschikking en inzage van de Inspecteur en de technische ambtenaren van de Inspecteur worden gehouden.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028709&artikel=5&z=2010-10-10&g=2010-10-10), is niet van toepassing ten aanzien van preparaten die geen andere substanties bevatten dan die, bedoeld in de bij deze beschikking behorende bijlage, met uitzondering van de substanties:
 
@@ -164,7 +189,7 @@ Deze etiketten moeten ook de naam aangeven in overeenstemming met de naam, waarm
 
 - h. mengsels van de preparaten, bedoeld onder a tot en met g, met enig materiaal dat geen middel als bedoeld in artikel 3, eerste lid, onder f, van de wet bevat.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Gevestigde apothekers zijn verplicht registers aan te houden van elk der middelen, genoemd in de artikelen 3 en 4 van de wet, afzonderlijk, vermeldende:
 
@@ -174,7 +199,7 @@ Deze etiketten moeten ook de naam aangeven in overeenstemming met de naam, waarm
 
 2. Het bepaalde in het vorige lid onder b is niet van toepassing op bereidingen van middelen genoemd in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0028709&artikel=5a&z=2010-10-10&g=2010-10-10) van deze beschikking.
 
-#### Artikel 7
+##### Artikel 7
 
 Het bestellen zoals bedoeld in artikel 5a van de wet, mag slechts geschieden door overlegging van een geschrift hetwelk vermeldt:
 
@@ -188,7 +213,7 @@ Het bestellen zoals bedoeld in artikel 5a van de wet, mag slechts geschieden doo
 
 - 5°. de naam, woonplaats en ondertekening van de persoon, die namens de onder 4° bedoelde onderneming de bestelling verricht.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Gevestigde apothekers en apotheekhoudende geneeskundigen nemen een hoeveelheid van een middel slechts in ontvangst tegen afgifte van een ontvangstbewijs, waarvan zijzelf een kopie behouden.
 
@@ -212,19 +237,19 @@ In geval het een postzending betreft, moet het bewijs van ontvangst binnen drie 
 
 7. De leden 1 t/m 6 zijn van overeenkomstige toepassing ten aanzien van gevestigde diergeneeskundigen.
 
-#### Artikel 9
+##### Artikel 9
 
 - a. Eveneens dient opgave gedaan te worden van die hoeveelheden middel, preparaat of bereiding die teloor is gegaan, dan wel vernietigd is gedurende het voorgaande kalenderjaar, onder vermelding b. van reden en omstandigheid, Gevestigde apothekers, apotheekhoudende geneeskundigen en gevestigde diergeneeskundigen en houders van een verlof zoals bedoeld in [artikel 6 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=6) en [7 eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=7), zijn verplicht, op een door de Inspecteur vast te stellen wijze, schriftelijk opgave te doen van de bij hen op 31 december van elk kalenderjaar aanwezige voorraad middelen. Tevens dienen zij daarbij afzonderlijk schriftelijk opgaaf te doen van elk middel of elke preparaat dat, een middel, als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3) en [4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4), bevat en wel zodanig dat in de schriftelijke opgave worden vermeld de hoeveelheid inslag en aflevering of verkoop gedurende het voorgaande kalenderjaar.
 
-#### Artikel 10
+##### Artikel 10
 
 [vervallen]
 
-#### Artikel 11
+##### Artikel 11
 
 [vervallen]
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling houdende nieuwe voorschriften met betrekking tot de aflevering en het voorschrijven van middelen als bedoeld in de artikelen 3 en 4 van de Opiumwet 1960 BES.
 

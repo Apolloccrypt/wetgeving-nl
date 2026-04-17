@@ -1,20 +1,42 @@
 ---
 title: "Overeenkomst inzake het personenvervoer door middel van autobusdiensten tussen Nederland en Oostenrijk"
 identifier: "BWBV0005302"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1960-01-01
-laatste_update: 1960-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005302"
+country: "nl"
+rank: "verdrag"
+publication_date: "1960-01-01"
+last_updated: "1960-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005302"
+soort: "verdrag"
+stam_id: "10004553543"
+version_id: "10004779692"
+internal_id: "C10007259671"
+label_id: "10004538054"
+dtd_version: "2.0"
+original_entry_into_force: "1960-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005302/1960-01-01/0"
+intitule_bron: "Trb.1959-73"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1959-06-16"
+intitule_in_force: "1960-01-29"
+intitule_status: "goed"
+original_publication: "Trb.1959-73"
+original_published_date: "1959-06-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1959-73"
+entry_into_force_date: "1960-01-01"
+jci_1_3: "jci1.3:c:BWBV0005302&z=1960-01-01&g=1960-01-01"
+jci_1_0: "1.0:c:BWBV0005302&g=1960-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1960-01-01"
 ---
-
 # Overeenkomst inzake het personenvervoer door middel van autobusdiensten tussen Nederland en Oostenrijk
 
 Het Koninkrijk der Nederlanden en de Republiek Oostenrijk, geleid door de wens het vervoer door middel van autobusdiensten tussen Nederland en Oostenrijk te bevorderen, zijn het volgende overeengekomen:
 
 ### I. Grensoverschrijdend vervoer door middel van autobusdiensten
 
-#### Artikel 1
+##### Artikel 1
 
 a. Het vervoer door middel van autobusdiensten tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk mag alleen worden verricht op grond van vergunningen, verleend door de eigen Staat en door de andere Staat alsmede, waar nodig, door de Staten waardoorheen het vervoer zal worden verricht.
 
@@ -28,7 +50,7 @@ d. De vergunningen staan op naam van een bepaalde onderneming (ondernemer) en ku
 
 ### II. Transito-autobusdiensten
 
-#### Artikel 2
+##### Artikel 2
 
 a. Als transito-autobusdiensten worden beschouwd die autobusdiensten welke op het grondgebied van de ene Staat aanvangen, over het grondgebied van de andere Staat gaan zonder opnemen of afzetten van reizigers en op het grondgebied van een derde Staat eindigen.
 
@@ -36,15 +58,15 @@ b. Voor transito-autobusdiensten is eveneens een vergunning vereist.
 
 ### III. Algemene bepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 De Overeenkomstsluitende Partijen zullen voortdurend rechtstreeks contact met elkaar onderhouden over alle problemen die uit de uitvoering van deze Overeenkomst voortvloeien.
 
-#### Artikel 4
+##### Artikel 4
 
 Wat betreft het Koninkrijk der Nederlanden, geldt deze Overeenkomst alleen voor het Europese gebied van het Koninkrijk.
 
-#### Artikel 5
+##### Artikel 5
 
 a. Deze Overeenkomst treedt in werking op het tijdstip waarop de. Overeenkomstsluitende Partijen elkaar ervan in kennis hebben gesteld, dat de Overeenkomst overeenkomstig de bepalingen van hun nationale recht kan worden toegepast.
 

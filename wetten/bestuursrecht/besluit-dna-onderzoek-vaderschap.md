@@ -1,13 +1,39 @@
 ---
-title: "Besluit DNA-onderzoek vaderschap"
+title: "Besluit van 20 oktober 2008, houdende de vereisten gesteld aan het vaderschapsonderzoek in verband met erkenning bedoeld in artikel 4, vierde lid, Rijkswet op het Nederlanderschap en van artikel II, eerste lid, onder b, van de rijkswet van 27 juni 2008, houdende wijziging van de Rijkswet op het Nederlanderschap ter invoering van een verklaring van verbondenheid, en tot aanpassing van de regeling van de verkrijging van het Nederlanderschap na erkenning (Stb. 270) (Besluit DNA-onderzoek vaderschap)"
 identifier: "BWBR0024634"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-01-06
-laatste_update: 2014-01-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024634"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-01-06"
+last_updated: "2014-01-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024634"
+soort: "AMvB"
+stam_id: "9754023"
+version_id: "15808402"
+internal_id: "C22058811"
+label_id: "9730824"
+dtd_version: "2.0"
+original_entry_into_force: "2009-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024634/2014-01-06/0"
+intitule_bron: "Stb.2008-417"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-10-20"
+intitule_published: "2008-10-30"
+intitule_in_force: "2009-01-13"
+intitule_status: "goed"
+original_publication: "Stb.2008-417"
+original_signed_date: "2008-10-20"
+original_published_date: "2008-10-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2008-417"
+entry_into_force_date: "2009-03-01"
+jci_1_3: "jci1.3:c:BWBR0024634&z=2014-01-06&g=2014-01-06"
+jci_1_0: "1.0:c:BWBR0024634&g=2014-01-06"
+citeertitel_status: "officieel"
+short_title: "Besluit DNA-onderzoek vaderschap"
+signed_date: "2008-10-20"
+entry_into_force: "2009-03-01"
 ---
-
 # Besluit van 20 oktober 2008, houdende de vereisten gesteld aan het vaderschapsonderzoek in verband met erkenning bedoeld in artikel 4, vierde lid, Rijkswet op het Nederlanderschap en van artikel II, eerste lid, onder b, van de rijkswet van 27 juni 2008, houdende wijziging van de Rijkswet op het Nederlanderschap ter invoering van een verklaring van verbondenheid, en tot aanpassing van de regeling van de verkrijging van het Nederlanderschap na erkenning (Stb. 270) (Besluit DNA-onderzoek vaderschap)
 
 Op de voordracht van Onze Minister van Justitie van 29 juli 2008, Directie Wetgeving, nr. 5553785/08/6;
@@ -24,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop de Rijkswet tot wijziging Rijkswet op het Nederlanderschap (invoering verklaring verbondenheid en aanpassing regeling verkrijging Nederlanderschap na erkenning) in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Nederlander die een minderjarige vreemdeling erkent of heeft erkend toont het biologisch vaderschap, bedoeld in [artikel 4, vierde lid, Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=4), aan door middel van DNA-onderzoek.
 
@@ -44,11 +70,11 @@ Treedt in werking op het tijdstip waarop de Rijkswet tot wijziging Rijkswet op h
 
 7. Bij ministeriële regeling kunnen nadere eisen worden gesteld met betrekking tot de in het zesde lid bedoelde laboratoria.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking op de dag waarop de [rijkswet van 27 juni 2008, houdende wijziging van de Rijkswet op het Nederlanderschap ter invoering van een verklaring van verbondenheid, en tot aanpassing van de regeling van de verkrijging van het Nederlanderschap na erkenning](https://wetten.overheid.nl/jci1.3:c:BWBR0024168) (Stb. 270) in werking treedt.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit DNA-onderzoek vaderschap.
 

@@ -1,20 +1,46 @@
 ---
-title: "Regeling commissies regionaal overleg burgerluchthavens van nationale betekenis"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 14 augustus 2012, nr. IENM/BSK-2012/145416, houdende instelling van en vaststelling van nadere regels omtrent de taak, samenstelling en werkwijze van de Commissies regionaal overleg bij burgerluchthavens van nationale betekenis (Regeling commissies regionaal overleg burgerluchthavens van nationale betekenis)"
 identifier: "BWBR0031909"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031909"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031909"
+soort: "ministeriele-regeling"
+stam_id: "11826993"
+version_id: "19605102"
+internal_id: "C27503281"
+label_id: "11799234"
+dtd_version: "2.0"
+original_entry_into_force: "2012-08-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031909/2024-01-01/0"
+intitule_bron: "Stcrt.2012-17024"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-08-14"
+intitule_published: "2012-08-21"
+intitule_in_force: "2012-08-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-17024"
+original_signed_date: "2012-08-14"
+original_published_date: "2012-08-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-17024"
+entry_into_force_date: "2012-08-22"
+jci_1_3: "jci1.3:c:BWBR0031909&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0031909&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling commissies regionaal overleg burgerluchthavens van nationale betekenis"
+signed_date: "2012-08-14"
+entry_into_force: "2012-08-22"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 14 augustus 2012, nr. IENM/BSK-2012/145416, houdende instelling van en vaststelling van nadere regels omtrent de taak, samenstelling en werkwijze van de Commissies regionaal overleg bij burgerluchthavens van nationale betekenis (Regeling commissies regionaal overleg burgerluchthavens van nationale betekenis)
 
 Gelet op [artikel 8.75, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.75), juncto [artikel 8.59, tweede lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.59);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -24,27 +50,27 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
-#### Artikel 2. luchthaven Eelde
+##### Artikel 2. luchthaven Eelde
 
 Er is een Commissie regionaal overleg luchthaven Eelde.
 
-#### Artikel 3. luchthaven Lelystad
+##### Artikel 3. luchthaven Lelystad
 
 Er is een Commissie regionaal overleg luchthaven Lelystad.
 
-#### Artikel 4. luchthaven Maastricht
+##### Artikel 4. luchthaven Maastricht
 
 Er is een Commissie regionaal overleg luchthaven Maastricht.
 
-#### Artikel 5. luchthaven Rotterdam
+##### Artikel 5. luchthaven Rotterdam
 
 Er is een Commissie regionaal overleg luchthaven Rotterdam.
 
-#### Artikel 6. luchthaven Twente
+##### Artikel 6. luchthaven Twente
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 7. Taak
+##### Artikel 7. Taak
 
 1. De commissie heeft naast de in [artikel 8.59, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.59) bedoelde taak, tevens tot taak:
 
@@ -54,7 +80,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. De commissie treedt niet in de rechten en bevoegdheden van betrokkenen.
 
-#### Artikel 8. Samenstelling
+##### Artikel 8. Samenstelling
 
 1. In de commissie worden, naast de onafhankelijke voorzitter, in ieder geval de volgende aantallen leden benoemd:
 
@@ -82,11 +108,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 6. In afwijking van het vijfde lid kan een lid voor de tweede maal worden herbenoemd voor ten hoogste vier jaren indien het orgaan of de organisatie die het lid vertegenwoordigt daartoe om dringende reden een verzoek doet aan de voorzitter.
 
-#### Artikel 9. Jaarplan
+##### Artikel 9. Jaarplan
 
 De commissie stelt jaarlijks vóór 15 oktober een jaarplan op voor het komende kalenderjaar.
 
-#### Artikel 10. Organisatie overleg
+##### Artikel 10. Organisatie overleg
 
 1. Een overleg van de commissie wordt, spoedeisende gevallen uitgezonderd, zoveel mogelijk belegd aan de hand van een door de commissie vastgesteld rooster.
 
@@ -98,13 +124,13 @@ De commissie stelt jaarlijks vóór 15 oktober een jaarplan op voor het komende 
 
 5. De commissie bepaalt of een overlegstuk verstuurd minder dan twee weken voor het overleg in behandeling wordt genomen.
 
-#### Artikel 11. Openbaarheid overleg
+##### Artikel 11. Openbaarheid overleg
 
 1. Een overleg van de commissie is openbaar, tenzij de commissie anders bepaalt.
 
 2. Van het overleg wordt een verslag gemaakt. Het verslag is openbaar, tenzij de commissie anders bepaalt.
 
-#### Artikel 12. Instellen werkgroepen
+##### Artikel 12. Instellen werkgroepen
 
 1. De commissie kan werkgroepen instellen.
 
@@ -112,7 +138,7 @@ De commissie stelt jaarlijks vóór 15 oktober een jaarplan op voor het komende 
 
 3. Een werkgroep kan, na goedkeuring van de commissie, voor de uitoefening van haar taak extern advies inwinnen.
 
-#### Artikel 13. Jaarverslag
+##### Artikel 13. Jaarverslag
 
 1. De commissie stelt jaarlijks vóór 1 april een verslag op over de uitgevoerde werkzaamheden in het voorgaande kalenderjaar. Dit jaarverslag bevat in ieder geval:
 
@@ -126,7 +152,7 @@ De commissie stelt jaarlijks vóór 15 oktober een jaarplan op voor het komende 
 
 2. Het jaarverslag is openbaar en wordt aan de minister gezonden.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst met uitzondering van:
 
@@ -134,7 +160,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 - b. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031909&artikel=6&z=2024-01-01&g=2024-01-01), dat inwerking treedt op het tijdstip dat de regeling, bedoeld in [artikel 8.70, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.70) in werking treedt.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling commissies regionaal overleg burgerluchthavens van nationale betekenis.
 

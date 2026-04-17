@@ -1,13 +1,35 @@
 ---
 title: "Protocol van 1997 tot wijziging van het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het Protocol van 1978 daarbij"
 identifier: "BWBV0003459"
-categorie: "Internationaal recht"
-publicatiedatum: 2026-03-01
-laatste_update: 1997-09-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003459"
+country: "nl"
+rank: "verdrag"
+publication_date: "2026-03-01"
+last_updated: "1997-09-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003459"
+soort: "verdrag"
+stam_id: "10003544423"
+version_id: "10003595552"
+internal_id: "C10006990691"
+label_id: "10003529874"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003459/2026-03-01/0"
+intitule_bron: "Trb.1999-169"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1999-09-13"
+intitule_in_force: "2007-02-19"
+intitule_status: "goed"
+original_publication: "Trb.1999-169"
+original_published_date: "1999-09-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1999-169"
+entry_into_force_date: "2007-01-02"
+jci_1_3: "jci1.3:c:BWBV0003459&z=2026-03-01&g=2026-03-01"
+jci_1_0: "1.0:c:BWBV0003459&g=2026-03-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2007-01-02"
 ---
-
 # Protocol van 1997 tot wijziging van het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het Protocol van 1978 daarbij
 
 De Partijen bij dit Protocol,
@@ -22,27 +44,27 @@ Overwegend dat deze doelstelling het best kan worden verwezenlijkt door het slui
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Te wijzigen verdrag
+##### Artikel 1. Te wijzigen verdrag
 
 Het verdrag dat door dit Protocol wordt gewijzigd is het [Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het Protocol daarbij van 1978](https://wetten.overheid.nl/jci1.3:c:BWBV0003241) (hierna te noemen het „Verdrag”).
 
-#### Artikel 2. Toevoeging van Bijlage VI aan het Verdrag
+##### Artikel 2. Toevoeging van Bijlage VI aan het Verdrag
 
 Bijlage VI getiteld Voorschriften voor de voorkoming van luchtverontreiniging door schepen, waarvan de tekst is opgenomen in de Bijlage bij dit Protocol, wordt toegevoegd.
 
-#### Artikel 3. Algemene verplichtingen
+##### Artikel 3. Algemene verplichtingen
 
 1. Het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003241) en dit Protocol dienen, tussen de Partijen bij dit Protocol, tezamen te worden gelezen en geïnterpreteerd als een enkel verdrag.
 
 2. Elke verwijzing naar dit Protocol houdt tegelijkertijd een verwijzing in naar de Bijlage hierbij.
 
-#### Artikel 4. Wijzigingsprocedure
+##### Artikel 4. Wijzigingsprocedure
 
 Bij toepassing van [artikel 16 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=16) op een wijziging van Bijlage VI en de aanhangsels daarbij, wordt de verwijzing „een Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003241)” geacht een verwijzing te zijn naar een Partij gebonden door die Bijlage.
 
 #### Slotbepalingen
 
-#### Artikel 5. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 5. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Protocol staat open voor ondertekening op de Hoofzetel van de Internationale Maritieme Organisatie (hierna te noemen de „Organisatie”) vanaf 1 januari 1998 tot en met 31 december 1998 en blijft daarna open voor toetreding. Alleen Verdragsluitende Staten die Partij zijn bij het [Protocol van 1978 bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973](https://wetten.overheid.nl/jci1.3:c:BWBV0003287), (hierna te noemen het Protocol van 1978) kunnen Partij worden bij dit Protocol door:
 
@@ -54,7 +76,7 @@ Bij toepassing van [artikel 16 van het Verdrag](https://wetten.overheid.nl/jci1.
 
 2. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal van de Organisatie (hierna te noemen de „Secretaris-Generaal”).
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 1. Dit Protocol treedt in werking twaalf maanden na de datum waarop ten minste vijftien Staten waarvan de koopvaardijvloten tezamen ten minste vijftig procent vormen van de brutotonnage van de wereldkoopvaardijvloot Partij daarbij zijn geworden in overeenstemming met artikel 5 van dit Protocol.
 
@@ -62,7 +84,7 @@ Bij toepassing van [artikel 16 van het Verdrag](https://wetten.overheid.nl/jci1.
 
 3. Na de datum waarop een wijziging van dit Protocol wordt geacht te zijn aanvaard in overeenstemming met [artikel 16 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=16), is iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding van toepassing op dit Protocol zoals gewijzigd.
 
-#### Artikel 7. Opzegging
+##### Artikel 7. Opzegging
 
 1. Dit Protocol kan door elke Partij bij dit Protocol te allen tijde worden opgezegd na afloop van vijf jaar te rekenen vanaf de datum waarop het Protocol voor die Partij in werking trad.
 
@@ -72,7 +94,7 @@ Bij toepassing van [artikel 16 van het Verdrag](https://wetten.overheid.nl/jci1.
 
 4. Opzegging van het [Protocol van 1978](https://wetten.overheid.nl/jci1.3:c:BWBV0003287) in overeenstemming met [artikel VII daarvan](https://wetten.overheid.nl/jci1.3:c:BWBV0003287&artikel=VII) wordt geacht opzegging te omvatten van dit Protocol in overeenstemming met dit artikel. Een dergelijke opzegging wordt van kracht op de datum waarop de opzegging van het Protocol van 1978 van kracht wordt in overeenstemming met artikel VII van dat Protocol.
 
-#### Artikel 8. Depositaris
+##### Artikel 8. Depositaris
 
 1. Dit Protocol wordt nedergelegd bij de Secretaris-Generaal (hierna te noemen de „Depositaris”).
 
@@ -90,7 +112,7 @@ Bij toepassing van [artikel 16 van het Verdrag](https://wetten.overheid.nl/jci1.
 
 3. Zodra dit Protocol in werking treedt, wordt een voor eensluidend gewaarmerkt afschrift ervan door de Depositaris gezonden aan het Secretariaat van de Verenigde Naties voor registratie en publicatie in overeenstemming met [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 9. Talen
+##### Artikel 9. Talen
 
 Dit Protocol is opgesteld in één enkel exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 

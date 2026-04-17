@@ -1,13 +1,39 @@
 ---
-title: "Regeling Informatiebeheer OCW 2013"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 18 maart 2013, nr. FMICT/359419, houdende regels op het gebied van het informatiebeheer voor het Ministerie van Onderwijs, Cultuur en Wetenschap (Regeling Informatiebeheer OCW 2013)"
 identifier: "BWBR0033170"
-categorie: "Overig"
-publicatiedatum: 2013-04-10
-laatste_update: 2013-04-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033170"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-04-10"
+last_updated: "2013-04-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033170"
+soort: "ministeriele-regeling"
+stam_id: "12182363"
+version_id: "20391052"
+internal_id: "C28669481"
+label_id: "12154114"
+dtd_version: "2.0"
+original_entry_into_force: "2013-04-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033170/2013-04-10/0"
+intitule_bron: "Stcrt.2013-9022"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-03-18"
+intitule_published: "2013-04-09"
+intitule_in_force: "2013-04-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-9022"
+original_signed_date: "2013-03-18"
+original_published_date: "2013-04-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-9022"
+entry_into_force_date: "2013-04-10"
+jci_1_3: "jci1.3:c:BWBR0033170&z=2013-04-10&g=2013-04-10"
+jci_1_0: "1.0:c:BWBR0033170&g=2013-04-10"
+citeertitel_status: "officieel"
+short_title: "Regeling Informatiebeheer OCW 2013"
+signed_date: "2013-03-18"
+entry_into_force: "2013-04-10"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 18 maart 2013, nr. FMICT/359419, houdende regels op het gebied van het informatiebeheer voor het Ministerie van Onderwijs, Cultuur en Wetenschap (Regeling Informatiebeheer OCW 2013)
 
 Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -138,13 +164,13 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Reikwijdte
 
-#### Artikel 2. Reikwijdte beheersregels
+##### Artikel 2. Reikwijdte beheersregels
 
 De Regeling informatiebeheer is van toepassing op het beheer van alle informatie van concern OCW.
 
 ### Hoofdstuk 3. Organisatie
 
-#### Artikel 3. Verantwoordelijkheden en bevoegdheden
+##### Artikel 3. Verantwoordelijkheden en bevoegdheden
 
 1. De Secretaris-generaal is namens de minister, gesteld de eisen vanuit vigerende wet en regelgeving en de belangen voor de bedrijfsvoering, verantwoordelijk voor:
 
@@ -154,7 +180,7 @@ De Regeling informatiebeheer is van toepassing op het beheer van alle informatie
 
 2. De Secretaris-generaal mandateert de zorg voor het informatiebeheer aan de informatiebeheerders van het concern OCW als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033170&hoofdstuk=3&artikel=4&z=2013-04-10&g=2013-04-10).
 
-#### Artikel 4. Informatiebeheerders
+##### Artikel 4. Informatiebeheerders
 
 1. Voor het concern OCW worden hierin onderscheiden:
 
@@ -186,7 +212,7 @@ De Regeling informatiebeheer is van toepassing op het beheer van alle informatie
 
 8. De informatiebeheerders leggen jaarlijks op grond van de P&C-cyclus en via het informatiebeherend onderdeel van het bestuursdepartement, in het kader van de aan dit onderdeel opgedragen centrale regieorganisatie taken voor concern OCW, verantwoording af aan de Secretaris-generaal.
 
-#### Artikel 5. Informatiebeherende onderdelen
+##### Artikel 5. Informatiebeherende onderdelen
 
 1. Het informatiebeherend onderdeel van het bestuursdepartement is belast met het verzorgen van het kaderstellend beleid en de centrale regietaken voor concern OCW op het gebied van het informatiebeheer;
 
@@ -200,7 +226,7 @@ De Regeling informatiebeheer is van toepassing op het beheer van alle informatie
 
 6. De informatiebeherende onderdelen leggen over de uitvoering van beheertaken verantwoording af aan hun informatiebeheerder.
 
-#### Artikel 6. Archiefvormende onderdelen
+##### Artikel 6. Archiefvormende onderdelen
 
 1. De archiefvormende onderdelen zijn de binnen concern OCW te onderscheiden organisatieonderdelen;
 
@@ -216,13 +242,13 @@ De Regeling informatiebeheer is van toepassing op het beheer van alle informatie
 
 5. De archiefvormende onderdelen zijn verantwoordelijk voor het laten beheren van hun informatie in overeenstemming met het bepaalde in deze beheersregels en de met hun informatie beherend onderdeel gemaakte afspraken.
 
-#### Artikel 7. Periodieke audit
+##### Artikel 7. Periodieke audit
 
 De Auditdienst Rijk voert jaarlijks een audit uit op het informatiebeheer van concern OCW en brengt hierover een rapportage uit aan de Secretaris-generaal.
 
 ### Hoofdstuk 4. Beheer
 
-#### Artikel 8. Registratie
+##### Artikel 8. Registratie
 
 1. De archiefvormende onderdelen zijn er verantwoordelijk voor dat de (digitaal) inkomende, interne en uitgaande informatie die daarvoor in aanmerking komt, wordt geregistreerd in het in gebruik zijnde informatiesysteem dan wel wordt opgenomen in de daarvoor bedoelde bedrijfstoepassing;
 
@@ -230,7 +256,7 @@ De Auditdienst Rijk voert jaarlijks een audit uit op het informatiebeheer van co
 
 3. Aan de hand van de aan de registratie gekoppelde metadata moeten te allen tijde de aspecten, bedoeld in [het 1e lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033170&hoofdstuk=4&artikel=9&z=2013-04-10&g=2013-04-10), kunnen worden herleid.
 
-#### Artikel 9. Context en authenticiteit van informatie
+##### Artikel 9. Context en authenticiteit van informatie
 
 1. De archiefvormende onderdelen zijn er verantwoordelijk voor dat van de te bewaren informatie te allen tijde kan worden vastgesteld:
 
@@ -246,7 +272,7 @@ De Auditdienst Rijk voert jaarlijks een audit uit op het informatiebeheer van co
 
 2. Op basis van een uit te voeren risicoanalyse kan het bepaalde in lid 1 ook gelden voor op termijn te vernietigen informatie.
 
-#### Artikel 10. Metagegevens bij digitaal gecreëerde informatie
+##### Artikel 10. Metagegevens bij digitaal gecreëerde informatie
 
 1. De archiefvormende onderdelen zijn er verantwoordelijk voor dat van digitaal gecreëerde informatie, naast de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033170&hoofdstuk=4&artikel=8&z=2013-04-10&g=2013-04-10) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0033170&hoofdstuk=4&artikel=9&z=2013-04-10&g=2013-04-10) genoemde registratiekenmerken ten minste de volgende kenmerken worden vastgelegd en bewaard:
 
@@ -266,7 +292,7 @@ De Auditdienst Rijk voert jaarlijks een audit uit op het informatiebeheer van co
 
 - ○. de identificatie van het certificaat van de digitale handtekening.
 
-#### Artikel 11. Voortgang en afdoening
+##### Artikel 11. Voortgang en afdoening
 
 1. De archiefvormende onderdelen zijn er verantwoordelijk voor dat afdoeningtermijnen worden vastgesteld voor de uitvoering van onder hun verantwoordelijkheid vallende bedrijfsprocessen dan wel activiteiten daarin, een en ander met inachtneming van de bepalingen van de vigerende wet- en regelgeving;
 
@@ -274,19 +300,19 @@ De Auditdienst Rijk voert jaarlijks een audit uit op het informatiebeheer van co
 
 3. De afdoeningtermijnen en de voortgang van informatie wordt vastgelegd en bewaakt in het in gebruik zijnde informatiesysteem dan wel bedrijfstoepassingen.
 
-#### Artikel 12. Toegankelijkheid en duurzaamheid
+##### Artikel 12. Toegankelijkheid en duurzaamheid
 
 1. De archiefvormende onderdelen treffen zodanig passende maatregelen, dat de risico's van verlies van toegankelijkheid, betrouwbaarheid en authenticiteit van informatie voor de geldende bewaartermijn wordt beperkt;
 
 2. Het informatiesysteem dan wel een bedrijfstoepassing waarborgt de toegankelijkheid van de informatie zodanig dat informatie, binnen de in bedrijfsprocessen vastgestelde termijn, kan worden gevonden en leesbaar of waarneembaar te maken is.
 
-#### Artikel 13. Conversie, migratie of emulatie
+##### Artikel 13. Conversie, migratie of emulatie
 
 1. De archiefvormende onderdelen zijn verantwoordelijk voor een adequate conversie-, migratie- of emulatiestrategie van informatie;
 
 2. Van conversie of migratie wordt een door het archiefvormend onderdeel ondertekende verklaring opgemaakt, die ten minste een specificatie van de geconverteerde of gemigreerde informatie bevat en die aangeeft op welke wijze en met welk resultaat na de conversie of migratie getoetst is of aan de eisen ten aanzien van de goede, geordende en toegankelijke staat wordt voldaan.
 
-#### Artikel 14. Vorming en ordening
+##### Artikel 14. Vorming en ordening
 
 1. Van alle ingekomen, interne en uitgaande archiefbescheiden wordt tijdens de registratie de relatie met het archiefbestanddeel waarop de informatie betrekking heeft vastgelegd in het in gebruik zijnde informatiesysteem of bedrijfstoepassing;
 
@@ -302,13 +328,13 @@ De Auditdienst Rijk voert jaarlijks een audit uit op het informatiebeheer van co
 
 - •. dat archiefbescheiden, betrekking hebbend op een (keten-)bedrijfsproces, worden samengevoegd in één archiefbestanddeel, tenzij dat niet doelmatig is en als zodanig is gedocumenteerd.
 
-#### Artikel 15. Informatieverstrekking
+##### Artikel 15. Informatieverstrekking
 
 1. De openbaarheid van informatie binnen concern OCW geschiedt met inachtneming van het departementale beleid met betrekking tot openbaarheid;
 
 2. De archiefvormende onderdelen zijn er verantwoordelijk voor dat medewerkers van concern OCW in staat worden gesteld om informatie te raadplegen die benodigd is voor de uitvoering van hun taken, een en ander in overeenstemming met het gestelde in lid 1.
 
-#### Artikel 16. Informatieverstrekking aan derden
+##### Artikel 16. Informatieverstrekking aan derden
 
 1. Informatieverstrekking uit eigen beweging door concern OCW geschiedt met inachtneming van door de Secretaris-generaal vastgestelde richtlijnen;
 
@@ -316,13 +342,13 @@ De Auditdienst Rijk voert jaarlijks een audit uit op het informatiebeheer van co
 
 3. Verzoeken van derden om raadpleging van, verstrekking over, of uit informatie op grond van toezichtstaken, worden behandeld in overeenstemming met de vigerende wet- en regelgeving en door de Secretaris-generaal vastgestelde richtlijnen.
 
-#### Artikel 17. Selectie
+##### Artikel 17. Selectie
 
 1. De informatiebeherende onderdelen zijn er gezamenlijk verantwoordelijk voor dat ten behoeve van concern OCW een relevant, toepasbaar en vastgesteld selectiedocument beschikbaar is en wordt toegepast;
 
 2. Het ontwerpen, vaststellen en onderhouden van het selectiedocument vindt plaats met inachtneming van de bepalingen van de vigerende wet- en regelgeving.
 
-#### Artikel 18. Vernietiging
+##### Artikel 18. Vernietiging
 
 1. Informatie wordt uitsluitend vernietigd op grond van een vastgesteld selectiedocument, op grond van noodvernietiging of na vervanging van de betreffende informatie door reproducties als bedoeld in [art. 20](https://wetten.overheid.nl/jci1.3:c:BWBR0033170&hoofdstuk=4&artikel=20&z=2013-04-10&g=2013-04-10) van deze beheersregels;
 
@@ -330,7 +356,7 @@ De Auditdienst Rijk voert jaarlijks een audit uit op het informatiebeheer van co
 
 3. Van de vernietiging van informatie wordt een door het archiefvormend onderdeel en door het informatiebeherend onderdeel ondertekende verklaring opgemaakt, die ten minste een specificatie van de vernietigde informatie bevat en die aangeeft op grond waarvan, op welke wijze en datum de vernietiging heeft plaatsgevonden.
 
-#### Artikel 19. Overbrenging
+##### Artikel 19. Overbrenging
 
 1. De archiefvormende onderdelen zijn er verantwoordelijk voor dat de voor permanente bewaring in aanmerking komende informatie uit afgesloten archiefbestanddelen, conform de gestelde periode in de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376), wordt overgebracht naar het Nationaal Archief;
 
@@ -342,13 +368,13 @@ De Auditdienst Rijk voert jaarlijks een audit uit op het informatiebeheer van co
 
 5. De overbrenging van informatie uit afgesloten archiefbestanddelen wordt vastgelegd in een door het informatiebeherend onderdeel ondertekende verklaring die ten minste een specificatie van de informatie bevat en die, indien van toepassing, is voorzien van een bijlage bestaande uit het in de Staatscourant geplaatste besluit met betrekking tot de beperkingen aan de openbaarheid.
 
-#### Artikel 20. Vervanging
+##### Artikel 20. Vervanging
 
 1. Bij de vervanging van informatie(dragers) door reproducties wordt voldaan aan het gestelde in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) en [9 van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=9), de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6) en [8 van het Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=8) en [hoofdstuk 3A van de Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=3a);
 
 2. Van de vervanging van informatie wordt een door het archiefbeherend onderdeel ondertekende verklaring opgesteld, die ten minste een specificatie van de vervangen informatie bevat en aangeeft op grond waarvan en op welke wijze de vervanging is geschied.
 
-#### Artikel 21. Opslagformaten
+##### Artikel 21. Opslagformaten
 
 1. De archiefvormende onderdelen zijn er verantwoordelijk voor dat informatie, uiterlijk op het tijdstip van overbrenging aan het Nationaal Archief, is opgeslagen in een valideerbaar en volledig gedocumenteerd bestandsformaat dat voldoet aan de aansluitvoorwaarden van het Nationaal Archief;
 
@@ -356,7 +382,7 @@ De Auditdienst Rijk voert jaarlijks een audit uit op het informatiebeheer van co
 
 3. Gebruikmaking van compressietechniek is slechts toegestaan, voor zover daarbij niet een zodanig verlies van informatie optreedt, dat niet langer aan de gestelde eisen ten aanzien van de goede, geordende en toegankelijke staat van digitale informatie kan worden voldaan.
 
-#### Artikel 22. Vervreemding
+##### Artikel 22. Vervreemding
 
 1. De archiefvormende onderdelen kunnen informatie die niet naar het Nationaal Archief is overgebracht vervreemden;
 
@@ -366,7 +392,7 @@ De Auditdienst Rijk voert jaarlijks een audit uit op het informatiebeheer van co
 
 4. Van de vervreemding wordt een verklaring opgemaakt die een specificatie bevat van de vervreemde informatie en die aangeeft op grond waarvan en op welke wijze en wanneer vervreemding is geschied.
 
-#### Artikel 23. Organisatieverandering
+##### Artikel 23. Organisatieverandering
 
 1. De archiefvormende onderdelen zijn er verantwoordelijk voor dat bij een verandering in de bedrijfsprocessen door reorganisatie, opheffing, samenvoeging, splitsing of door overdracht van taken, voorzieningen worden getroffen met betrekking tot:
 
@@ -382,7 +408,7 @@ De Auditdienst Rijk voert jaarlijks een audit uit op het informatiebeheer van co
 
 5. Het instellend archiefvormend onderdeel is er verantwoordelijk voor dat de informatiebeherende onderdelen, voor vaststelling van het instellingsbesluit, worden geïnformeerd over de instelling van een bijzonder samenwerkingsverband zoals bedoeld in lid 4.
 
-#### Artikel 24. Materieel beheer
+##### Artikel 24. Materieel beheer
 
 1. De archiefvormende onderdelen treffen zodanige voorzieningen ten aanzien van door dat onderdeel opgemaakte informatie, die voor permanente bewaring in aanmerking komt, dat bij het raadplegen van deze informatie na ten minste 100 jaar geen noemenswaardige achteruitgang zal zijn te constateren;
 
@@ -392,7 +418,7 @@ De Auditdienst Rijk voert jaarlijks een audit uit op het informatiebeheer van co
 
 4. Indien informatie door de aard van de oorspronkelijk gebruikte materialen niet (langer) voldoet aan het in het eerste en derde lid bepaalde, wordt overgegaan tot vervanging van de informatie door reproducties op de wijze als in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0033170&hoofdstuk=4&artikel=20&z=2013-04-10&g=2013-04-10) van deze regeling wordt omschreven.
 
-#### Artikel 25. Archiefruimten
+##### Artikel 25. Archiefruimten
 
 1. Afgesloten archiefbestanddelen worden opgeslagen in speciaal daarvoor bestemde archiefruimten;
 
@@ -402,15 +428,15 @@ De Auditdienst Rijk voert jaarlijks een audit uit op het informatiebeheer van co
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 26. Intrekking andere regeling(en)
+##### Artikel 26. Intrekking andere regeling(en)
 
 De [regeling Informatiebeheer OCW](https://wetten.overheid.nl/jci1.3:c:BWBR0025449) van 16 februari 2009, nr. WJZ/98508 (8222) wordt ingetrokken.
 
-#### Artikel 27. Citeertitel
+##### Artikel 27. Citeertitel
 
 Deze regeling wordt aangehaald als Regeling Informatiebeheer OCW 2013.
 
-#### Artikel 28. Inwerkingtreding
+##### Artikel 28. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij is geplaatst.
 

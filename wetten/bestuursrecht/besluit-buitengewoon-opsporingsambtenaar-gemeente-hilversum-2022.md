@@ -1,13 +1,39 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar gemeente Hilversum 2022"
+title: "Besluit van de Minister voor Rechtsbescherming van 18 augustus 2022 nr. BOACAT2022/055, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Hilversum"
 identifier: "BWBR0047067"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-10-15
-laatste_update: 2025-10-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047067"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-15"
+last_updated: "2025-10-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047067"
+soort: "ministeriele-regeling"
+stam_id: "16460243"
+version_id: "28837992"
+internal_id: "C40835381"
+label_id: "16383004"
+dtd_version: "2.0"
+original_entry_into_force: "2022-09-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047067/2025-10-15/0"
+intitule_bron: "Stcrt.2022-22347"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-08-18"
+intitule_published: "2022-08-25"
+intitule_in_force: "2022-08-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-22347"
+original_signed_date: "2022-08-18"
+original_published_date: "2022-08-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-22347"
+entry_into_force_date: "2022-09-05"
+jci_1_3: "jci1.3:c:BWBR0047067&z=2025-10-15&g=2025-10-15"
+jci_1_0: "1.0:c:BWBR0047067&g=2025-10-15"
+citeertitel_status: "officieel"
+short_title: "Besluit buitengewoon opsporingsambtenaar gemeente Hilversum 2022"
+signed_date: "2022-08-18"
+entry_into_force: "2022-09-05"
 ---
-
 # Besluit van de Minister voor Rechtsbescherming van 18 augustus 2022 nr. BOACAT2022/055, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Hilversum
 
 Gelezen het verzoek van de gemeente Hilversum van 28 juli 2022 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Midden Nederland en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
@@ -30,15 +56,15 @@ de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/j
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047067&artikel=2&z=2025-10-15&g=2025-10-15).
 
-#### Artikel 2
+##### Artikel 2
 
 De personen, werkzaam in de functie van Medewerker handhaving I t/m III in dienst van gemeente Hilversum, zijn aangewezen als buitengewoon opsporingsambtenaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
 
@@ -46,21 +72,21 @@ De personen, werkzaam in de functie van Medewerker handhaving I t/m III in diens
 
 3. De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.
 
-#### Artikel 4
+##### Artikel 4
 
 Op grond van dit besluit kunnen maximaal 35 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Midden Nederland.
 
 Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
-#### Artikel 6
+##### Artikel 6
 
 De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierde lid (vervoersfouillering/insluitingsfouillering), van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De gemeente Hilversum brengt jaarlijks, voor 1 april, verslag uit over:
 
@@ -72,19 +98,19 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierd
 
 2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047067&artikel=5&z=2025-10-15&g=2025-10-15) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
-#### Artikel 8
+##### Artikel 8
 
 De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047067&artikel=9&z=2025-10-15&g=2025-10-15) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
-#### Artikel 9
+##### Artikel 9
 
 Het [Besluit buitengewoon opsporingsambtenaar gemeente Hilversum 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039733) van 30 juni 2017 nr. BOACAT2017/043 zal vervallen op 5 september 2022.
 
 Dit besluit treedt in werking met ingang van 5 september 2022 en vervalt met ingang van 5 september 2027.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente Hilversum 2022.
 

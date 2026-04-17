@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering Programma Natuur 2e fase"
+title: "Regeling van de Minister voor Natuur en Stikstof van 24 juni 2024, nr. WJZ/ 59263981, houdende regels voor het verstrekken van eenmalige specifieke uitkeringen in verband met de uitvoering van het Uitvoeringsprogramma Natuur (Regeling specifieke uitkering Programma Natuur 2e fase)"
 identifier: "BWBR0049864"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-06-27
-laatste_update: 2024-06-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049864"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-27"
+last_updated: "2024-06-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049864"
+soort: "ministeriele-regeling"
+stam_id: "17143103"
+version_id: "30171752"
+internal_id: "C43230131"
+label_id: "17051484"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049864/2024-06-27/0"
+intitule_bron: "Stcrt.2024-19784"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-24"
+intitule_published: "2024-06-26"
+intitule_in_force: "2024-06-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-19784"
+original_signed_date: "2024-06-24"
+original_published_date: "2024-06-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-19784"
+entry_into_force_date: "2024-06-27"
+jci_1_3: "jci1.3:c:BWBR0049864&z=2024-06-27&g=2024-06-27"
+jci_1_0: "1.0:c:BWBR0049864&g=2024-06-27"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering Programma Natuur 2e fase"
+signed_date: "2024-06-24"
+entry_into_force: "2024-06-27"
 ---
-
 # Regeling van de Minister voor Natuur en Stikstof van 24 juni 2024, nr. WJZ/ 59263981, houdende regels voor het verstrekken van eenmalige specifieke uitkeringen in verband met de uitvoering van het Uitvoeringsprogramma Natuur (Regeling specifieke uitkering Programma Natuur 2e fase)
 
 Gelet op [artikel 3, eerste lid, van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - **uitvoeringsactiviteiten:** activiteiten van provincies en partners in het kader van het doel, de aanpak of de beoogde resultaten, beschreven in een Provinciaal Uitvoeringsprogramma, waaronder de aanleg van bos in het kader van boscompensatie voor bosgebied dat vanaf 1 januari 2017 is gekapt of dat vóór 2030 nog gekapt gaat worden voor het behalen van de instandhoudingsdoelstellingen in Natura 2000-gebieden, alsmede werkzaamheden in het kader van onderzoek en analyse, administratie en toezicht op die activiteiten.
 
-#### Artikel 2. Specifieke uitkering
+##### Artikel 2. Specifieke uitkering
 
 1. De Minister kan op aanvraag een specifieke uitkering verstrekken aan een provincie voor het realiseren van de condities die nodig zijn voor het bereiken van de instandhoudingsdoelstellingen in stikstofgevoelige Natura 2000-gebieden of van een goede staat van natuurgebieden die buiten Natura 2000-gebieden zijn gelegen.
 
@@ -60,11 +86,11 @@ In deze regeling wordt verstaan onder:
 
 5. De apparaatskosten maken voor ten hoogste 15 procent onderdeel uit van de specifieke uitkering over de periode van 1 januari 2024 tot en met 31 december 2032.
 
-#### Artikel 3. Hoogte van de uitkering
+##### Artikel 3. Hoogte van de uitkering
 
 De specifieke uitkering bedraagt ten hoogste de som van het bedrag voor aanleg van bos in het kader van boscompensatie en het bedrag voor de kosten voor andere uitvoeringsactiviteiten, inclusief de BTW, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049864&bijlage=1&z=2024-06-27&g=2024-06-27) bij deze regeling.
 
-#### Artikel 4. Aanvraag tot verlening
+##### Artikel 4. Aanvraag tot verlening
 
 1. Een aanvraag voor een specifieke uitkering kan worden gedaan gedurende 8 weken na inwerkingtreding van deze regeling.
 
@@ -110,23 +136,23 @@ De specifieke uitkering bedraagt ten hoogste de som van het bedrag voor aanleg v
 
 - c. een kaart in GIS van het gebied, waarop de begrenzing en de oppervlakte in hectare zijn aangegeven van het bos, dat wordt aangelegd in het kader van boscompensatie voor bosgebied dat vanaf 1 januari 2017 is gekapt of dat vóór 2030 nog gekapt gaat worden voor het behalen van de instandhoudingsdoelstellingen in Natura 2000-gebieden.
 
-#### Artikel 5. Uitvoeringsactiviteiten
+##### Artikel 5. Uitvoeringsactiviteiten
 
 1. De uitvoeringsactiviteiten waarvoor de specifieke uitkering wordt verstrekt zijn additioneel aan de uitvoeringsactiviteiten die worden uitgevoerd in het kader van het Natuurpact.
 
 2. De provincies kunnen aanvullende uitvoeringsactiviteiten opnemen in de aanvraag. Deze kunnen in de plaats treden van uitvoeringsactiviteiten die gedurende de looptijd geen doorgang kunnen vinden of pas na de looptijd kunnen worden uitgevoerd, als hiermee de hoogte van de specifieke uitkering niet wordt overschreden.
 
-#### Artikel 6. Maximaal vergoedbare kosten buiten Natura 2000-gebieden
+##### Artikel 6. Maximaal vergoedbare kosten buiten Natura 2000-gebieden
 
 1. De provincies Flevoland en Groningen ontvangen ten hoogste 85% vergoeding van de kosten voor de uitvoeringsactiviteiten, ten behoeve van natuurgebieden die buiten de Natura 2000-gebieden zijn gelegen.
 
 2. De overige provincies ontvangen ten hoogste 10% vergoeding van de kosten voor de uitvoeringsactiviteiten, ten behoeve van natuurgebieden die buiten de Natura 2000-gebieden zijn gelegen.
 
-#### Artikel 7. Beslistermijn
+##### Artikel 7. Beslistermijn
 
 De Minister beslist op de aanvraag om een specifieke uitkering binnen acht weken na ontvangst van de aanvraag.
 
-#### Artikel 8. Verplichtingen
+##### Artikel 8. Verplichtingen
 
 1. De provincie draagt er zorg voor dat de specifieke uitkering uitsluitend wordt besteed ten behoeve van de uitvoeringsactiviteiten waarvoor zij is verstrekt.
 
@@ -146,23 +172,23 @@ De Minister beslist op de aanvraag om een specifieke uitkering binnen acht weken
 
 - c. de gerealiseerde oppervlakte boscompensatie en de oppervlakte boscompensatie onderhanden in hectares.
 
-#### Artikel 9. Voorschot
+##### Artikel 9. Voorschot
 
 De Minister kan bij de verlening ambtshalve of op aanvraag besluiten tot het verstrekken van 100% voorschot voor de specifieke uitkering uit te betalen in meerdere betaaltermijnen.
 
-#### Artikel 10. Verantwoording en terugvordering
+##### Artikel 10. Verantwoording en terugvordering
 
 1. De provincie legt verantwoording af over de besteding van de specifieke uitkering op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. Indien uit de verantwoordingsinformatie blijkt dat de specifieke uitkering niet volledig is besteed aan uitvoeringsactiviteiten waarvoor deze is verstrekt of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de Minister worden teruggevorderd. De Minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan de ontvanger van de specifieke uitkering.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2033, met dien verstande dat deze regeling van toepassing blijft op aanvragen die op grond van deze regeling zijn ingediend en op specifieke uitkeringen die op grond van deze regeling zijn verleend of vastgesteld.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering Programma Natuur 2e fase.
 

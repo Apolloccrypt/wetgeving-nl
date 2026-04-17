@@ -1,13 +1,38 @@
 ---
 title: "Algemene wet inzake rijksbelastingen, voorschrift informatie fiscus/banken"
 identifier: "BWBR0032581"
-categorie: "Belastingrecht"
-publicatiedatum: 2022-06-25
-laatste_update: 2022-06-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032581"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-06-25"
+last_updated: "2022-06-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032581"
+soort: "beleidsregel"
+stam_id: "11992593"
+version_id: "19942062"
+internal_id: "C28016751"
+label_id: "11964534"
+dtd_version: "2.0"
+original_entry_into_force: "2012-12-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032581/2022-06-25/0"
+intitule_bron: "Stcrt.2012-26782"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-13"
+intitule_published: "2012-12-24"
+intitule_in_force: "2012-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-26782"
+original_signed_date: "2012-12-13"
+original_published_date: "2012-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-26782"
+entry_into_force_date: "2012-12-25"
+jci_1_3: "jci1.3:c:BWBR0032581&z=2022-06-25&g=2022-06-25"
+jci_1_0: "1.0:c:BWBR0032581&g=2022-06-25"
+citeertitel_status: "redactioneel"
+signed_date: "2012-12-13"
+entry_into_force: "2012-12-25"
 ---
-
 # Algemene wet inzake rijksbelastingen, voorschrift informatie fiscus/banken
 
 De staatssecretaris van Financiën heeft het volgende besloten.

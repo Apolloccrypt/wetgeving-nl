@@ -1,13 +1,35 @@
 ---
-title: "Besluit ex artikel 5 Wet van 10 juli 1952, Stb. 407"
+title: "Besluit van 8 mei 1959, houdende regelen betreffende de schadeloosstelling, bedoeld in artikel 5 van de Wet van 10 juli 1952 (Stb. 407) ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden"
 identifier: "BWBR0002316"
-categorie: "Bestuursrecht"
-publicatiedatum: 1994-01-01
-laatste_update: 1994-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002316"
+country: "nl"
+rank: "amvb"
+publication_date: "1994-01-01"
+last_updated: "1994-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002316"
+soort: "AMvB"
+stam_id: "419713"
+version_id: "616672"
+internal_id: "C616671"
+label_id: "408644"
+dtd_version: "2.0"
+original_entry_into_force: "1959-08-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002316/1994-01-01/0"
+intitule_bron: "Stb.1959-287"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1959-05-08"
+intitule_status: "goed"
+original_publication: "Stb.1959-287"
+original_signed_date: "1959-05-08"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1959-08-23"
+jci_1_3: "jci1.3:c:BWBR0002316&z=1994-01-01&g=1994-01-01"
+jci_1_0: "1.0:c:BWBR0002316&g=1994-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit ex artikel 5 Wet van 10 juli 1952, Stb. 407"
+signed_date: "1959-05-08"
+entry_into_force: "1959-08-23"
 ---
-
 # Besluit van 8 mei 1959, houdende regelen betreffende de schadeloosstelling, bedoeld in artikel 5 van de Wet van 10 juli 1952 (Stb. 407) ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden
 
 Op de voordracht van Onze Ministers van Economische Zaken, van Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie en van Financiën van 30 augustus 1958, no. 32543 W.J.A.;
@@ -20,7 +42,7 @@ Gezien het nader rapport van Onze voornoemde Ministers van 29 april 1959, no. 87
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit besluit verstaat onder:
 
@@ -30,7 +52,7 @@ motorrijtuig: ieder rij- of voertuig, bestemd om uitsluitend of mede door een me
 
 2. Dit besluit verstaat onder onderneming mede een bedrijf, waarmede niet wordt beoogd het maken van winst.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien een rechthebbende als gevolg van het voldoen aan een bevel, krachtens artikel 2 van de wet gegeven ten aanzien van een tot de handels- of bedrijfsvoorraad van een onderneming behorend goed, in dat goed kapitaal geïnvesteerd moet houden, wordt hij na de intrekking van het bevel schadeloos gesteld door vergoeding van rente over het geïnvesteerde kapitaal en, indien van anderen gelden zijn opgenomen moeten worden, tevens door vergoeding van deswege verschuldigde provisie.
 
@@ -40,7 +62,7 @@ motorrijtuig: ieder rij- of voertuig, bestemd om uitsluitend of mede door een me
 
 4. Voor provisie wordt vergoed de bij het opnemen der gelden gebruikelijke.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien in het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002316&artikel=2&z=1994-01-01&g=1994-01-01), omschreven geval bij verkoop volgens goed koopmansgebruik van het goed na de intrekking van het bevel de verkoopprijs een nadelig verschil vertoont met het geïnvesteerde kapitaal, vermeerderd met het ten tijde van de verkoop bestaande verschil tussen de gemiddelde verkoopprijs en de gemiddelde inkoopprijs - of, zo toen geen inkoop plaats had, de gemiddelde kostprijs - van soortgelijke goederen van de onderneming, wordt de rechthebbende tevens schadeloos gesteld door vergoeding van het nadelige verschil. Indien de verkoopprijs een voordelig verschil vertoont, wordt bij de vaststelling van de schadeloosstelling het bedrag van het voordelige verschil verrekend.
 
@@ -50,7 +72,7 @@ motorrijtuig: ieder rij- of voertuig, bestemd om uitsluitend of mede door een me
 
 4. Indien een der in de voorafgaande leden bedoelde gemiddelde prijzen niet kan worden bepaald, wordt voor de toepassing van het betrokken lid uitgegaan van de ten tijde van de verkoop, van de aanvang van het verbruik of gebruik, dan wel van de onteigening of vordering van het goed algemeen geldende inkoop-, kost- en verkoopprijs van soortgelijke goederen of, kan ook deze niet worden bepaald, van zoveel mogelijk gelijksoortige goederen.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor de toepassing van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002316&artikel=2&z=1994-01-01&g=1994-01-01), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002316&artikel=3&z=1994-01-01&g=1994-01-01) wordt als geïnvesteerd kapitaal aangemerkt:
 
@@ -58,7 +80,7 @@ Voor de toepassing van de [artikelen 2, eerste lid](https://wetten.overheid.nl/j
 
 - b. indien het een goed betreft, dat vóór die tijdsruimte is ingekocht of voortgebracht: het gemiddelde van de prijzen, waartegen dergelijke goederen in de betrokken onderneming in die tijdsruimte zijn ingekocht of voortgebracht, dan wel, indien in de onderneming in die tijdsruimte geen inkoop of voortbrenging van dergelijke goederen heeft plaats gehad, het gemiddelde van de prijzen, waartegen dergelijke goederen in soortgelijke ondernemingen in die tijdsruimte zijn ingekocht, onderscheidenlijk voortgebracht.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Aan de rechthebbende, die als gevolg van het voldoen aan een bevel, krachtens artikel 2 van de wet gegeven ten aanzien van een tot de handels- of bedrijfsvoorraad van een onderneming behorend goed, in dat goed kapitaal geïnvesteerd moet houden, wordt op zijn verzoek door Onze Minister, die het bevel heeft gegeven of doen geven, per kalenderkwartaal een voorschot verleend.
 
@@ -76,7 +98,7 @@ Voor de toepassing van de [artikelen 2, eerste lid](https://wetten.overheid.nl/j
 
 - e. degene, die het bedrag van het voorschot zal uitbetalen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien een rechthebbende als gevolg van het voldoen aan een bevel, krachtens artikel 2 van de wet gegeven ten aanzien van een tot de handels- of bedrijfsvoorraad van een onderneming behorend goed:
 
@@ -90,7 +112,7 @@ wordt hij schadeloos gesteld door vergoeding onderscheidenlijk van de huur, van 
 
 2. De schadeloosstelling wordt mede verleend over de tijdsruimte na de intrekking van het bevel, gedurende welke het voortduren van het gevolg van het voldoen aan het bevel, dat de grond voor de vergoeding vormt, redelijkerwijze niet kon worden beëindigd.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien een rechthebbende als gevolg van het voldoen aan een bevel, krachtens artikel 2 van de wet gegeven ten aanzien van een aan een onderneming behorend goed, een verandering in of aan dat goed, in de toestand waarin of de plaats waar het zich bevindt, of in de wijze waarop het wordt gebruikt heeft moeten aanbrengen dan wel het aanbrengen van een dergelijke verandering heeft moeten gedogen, wordt hij, voor zover hij hierdoor schade lijdt en deze niet wordt vergoed krachtens enig voorgaand artikel, schadeloos gesteld door vergoeding:
 
@@ -100,31 +122,31 @@ Indien een rechthebbende als gevolg van het voldoen aan een bevel, krachtens art
 
 - c. van de overige kosten, gemaakt ter zake van de verandering.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien de bedrijfsuitoefening van een rechthebbende als gevolg van het voldoen aan een bevel, krachtens artikel 2 van de wet gegeven ten aanzien van een aan een onderneming behorend goed, wordt belet of belemmerd, wordt hij, voor zover hij hierdoor schade lijdt en deze niet wordt vergoed krachtens enig voorgaand artikel, schadeloos gesteld door vergoeding van het verschil tussen de ten gevolge van het voldoen aan het bevel gederfde bruto-opbrengst en bespaarde kosten.
 
-#### Artikel 9
+##### Artikel 9
 
 Indien een rechthebbende als gevolg van het voldoen aan een bevel, krachtens artikel 2 van de wet gegeven ten aanzien van een aan een onderneming behorend goed, een schade lijdt, waarmede in de voorgaande artikelen niet is rekening gehouden, wordt hij schadeloos gesteld met overeenkomstige toepassing, voor zover mogelijk, van die artikelen en overigens naar billijkheid.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien een rechthebbende als gevolg van het voldoen aan een bevel, krachtens artikel 2 van de wet gegeven ten aanzien van een aan een onderneming behorend goed, een ander op geld waardeerbaar voordeel dan in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002316&artikel=3&z=1994-01-01&g=1994-01-01) bedoeld geniet of kan genieten, dan wel zodanig voordeel heeft kunnen genieten doch door zijn schuld niet heeft genoten, wordt, zo ter vergoeding van een als gevolg van het voldoen aan dat bevel door de rechthebbende geleden schade nog een schadeloosstelling moet worden vastgesteld, bij die vaststelling het bedrag van dat voordeel verrekend.
 
-#### Artikel 11
+##### Artikel 11
 
 Indien een rechthebbende, aan wie een schadeloosstelling krachtens enig voorgaand artikel toekomt, dan wel een ander, aan wie deze schadeloosstelling uiteindelijk, middellijk of onmiddellijk, geheel of gedeeltelijk, ten goede komt, naar het oordeel van degene, die de schadeloosstelling vaststelt, een mogelijkheid, die hij heeft gehad om de schade te beperken, niet heeft benut, wordt bij de vaststelling van de schadeloosstelling het bedrag, tot hetwelk beperking van de schade mogelijk ware geweest, verrekend.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien een rechthebbende schade lijdt als gevolg van het voldoen aan een bevel, krachtens artikel 2 van de wet gegeven ten aanzien van een goed, dat behoort aan een onderneming, die in economisch opzicht een geheel vormt met een of meer andere ondernemingen, doch deze laatste als rechtstreeks gevolg van het voldoen aan het bevel een voordeel hebben genoten, wordt, zo ter vergoeding van een als gevolg van het voldoen aan dat bevel door de rechthebbende geleden schade nog een schadeloosstelling moet worden vastgesteld, bij die vaststelling het bedrag van dat voordeel verrekend.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien een rechthebbende schade lijdt als gevolg van het voldoen aan een bevel, krachtens artikel 2 van de wet gegeven ten aanzien van een ander dan een aan een onderneming behorend goed, wordt hij schadeloos gesteld met overeenkomstige toepassing, voor zover mogelijk, van de voorgaande artikelen en overigens naar billijkheid.
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. Indien een rechthebbende als gevolg van het voldoen aan een bevel, krachtens artikel 2**a** van de wet gegeven ten aanzien van andere goederen dan in het tweede lid genoemd, schade lijdt, wordt hij schadeloos gesteld door vergoeding van de als rechtstreeks en onvermijdelijk gevolg van het voldoen aan dat bevel gemaakte kosten en geleden bedrijfsschade.
 
@@ -132,7 +154,7 @@ Indien een rechthebbende schade lijdt als gevolg van het voldoen aan een bevel, 
 
 3. Indien tot het voldoen aan een bevel als in het eerste lid bedoeld voor het vervoer van goederen, waarop dat bevel betrekking heeft, gebruik van een motorrijtuig noodzakelijk is, wordt de rechthebbende, voor zover hij door dat gebruik schade lijdt, schadeloos gesteld overeenkomstig het krachtens het tweede lid vastgestelde tarief.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Tot vaststelling van een schadeloosstelling wordt door of namens de rechthebbende, indien het een krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002316&artikel=2&z=1994-01-01&g=1994-01-01) gegeven bevel betreft, binnen zes maanden na de intrekking van het bevel of, in geval van toepassing van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002316&artikel=2&z=1994-01-01&g=1994-01-01), of 6, tweede lid, binnen zes maanden na het einde van de daarin bedoelde tijdsruimte, en indien het een krachtens artikel 2**a** gegeven bevel betreft, binnen drie maanden nadat aan dat bevel is voldaan, een aanvrage ingediend.
 
@@ -142,7 +164,7 @@ Indien een rechthebbende schade lijdt als gevolg van het voldoen aan een bevel, 
 
 4. Aanvragen, welke worden ingediend na het verstrijken van de in het derde lid gestelde termijn, blijven buiten behandeling, tenzij ten genoegen van Onze betrokken Minister en van Onze Minister van Economische Zaken is aangetoond, dat de indiening redelijkerwijs niet binnen die termijn kon plaats vinden.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin het wordt geplaatst.
 

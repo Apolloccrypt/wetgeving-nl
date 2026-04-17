@@ -1,14 +1,36 @@
 ---
-title: "Invoeringswet Wetboek van Strafrecht"
+title: "Wet van 15 april 1886, houdende bepalingen, regelende het in werking treden van het bij de wet van 3 maart 1881 (Staatsblad n°. 35) vastgestelde Wetboek van Strafrecht en den overgang van de oude tot de nieuwe strafwetgeving, alsmede om overeenstemming te brengen tusschen de bestaande wetten en het nieuwe wetboek"
 identifier: "BWBR0001855"
-categorie: "Strafrecht"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001855"
+country: "nl"
+rank: "wet"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001855"
+soort: "wet"
+stam_id: "1523183"
+version_id: "2266682"
+internal_id: "C2266681"
+label_id: "1480294"
+dtd_version: "2.0"
+original_entry_into_force: "1886-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001855/2002-01-01/0"
+intitule_bron: "Stb.1886-64"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1886-04-15"
+intitule_status: "goed"
+original_publication: "Stb.1886-64"
+original_signed_date: "1886-04-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1886-09-01"
+jci_1_3: "jci1.3:c:BWBR0001855&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0001855&g=2002-01-01"
+citeertitel_status: "officieel"
+short_title: "Invoeringswet Wetboek van Strafrecht"
+signed_date: "1886-04-15"
+entry_into_force: "1886-09-01"
 ---
-
-# Invoeringswet Wetboek van Strafrecht
+# Wet van 15 april 1886, houdende bepalingen, regelende het in werking treden van het bij de wet van 3 maart 1881 (Staatsblad n°. 35) vastgestelde Wetboek van Strafrecht en den overgang van de oude tot de nieuwe strafwetgeving, alsmede om overeenstemming te brengen tusschen de bestaande wetten en het nieuwe wetboek
 
 Allen, die deze zullen zien of hooren lezen, saluut! doen te weten:
 
@@ -18,17 +40,17 @@ Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten
 
 #### § I. Algemeene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 De wetten van 10 Juni 1840 (**Staatsblad** n°. 20-26) zijn ingetrokken.
 
-#### Artikel 2
+##### Artikel 2
 
 Het bij de wet van 3 Maart 1881 (**Staatsblad** n°. 35) vastgestelde [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) treedt in werking op den 1sten September 1886.
 
 #### § II. Bepalingen, houdende afschaffing, handhaving of wijziging van wetten die thans inwerking zijn
 
-#### Artikel 3
+##### Artikel 3
 
 Op het in art. 2 vermelde tijdstip zijn afgeschaft:
 
@@ -84,7 +106,7 @@ Op het in art. 2 vermelde tijdstip zijn afgeschaft:
 
 - d. de strafbepalingen alsmede alle bepalingen omtrent onderwerpen in de [acht eerste Titels van het eerste Boek van het Wetboek van Strafrecht](onbekend) behandeld, welke in andere dan de onder **a**, b en **c** genoemde wetten voorkomen, voor zoover die wetten vóór 1 Maart 1886 zijn in werking getreden en de bedoelde bepalingen niet in deze wet worden gehandhaafd. Disciplinaire voorschriften worden niet als bepalingen beschouwd, onder letter **d** bedoeld.
 
-#### Artikel 4
+##### Artikel 4
 
 Op het in [art. 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001855&paragraaf=I&artikel=2&z=2002-01-01&g=2002-01-01) vermelde tijdstip zijn mede afgeschaft:
 
@@ -92,29 +114,29 @@ Op het in [art. 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001855&paragraaf=I&a
 
 - 2°. de wet van 29 Juni 1854 (**Staatsblad** n°. 103), houdende "uitbreiding van de regtsmagt der kantonregters in strafzaken".
 
-#### Artikel 5
+##### Artikel 5
 
 De bepalingen krachtens welke de Regeering vreemdelingen, wegens bedelarij of landlooperij veroordeeld, over de grenzen doet leiden, blijven van kracht.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Blijven van kracht de bepalingen omtrent onderwerpen in de [acht eerste Titels van het eerste Boek van het Wetboek van Strafrecht](onbekend) behandeld alsmede de strafbepalingen, welke voorkomen in verdragen met buitenlandsche Mogendheden.
 
 2. Feiten, bij deze verdragen strafbaar gesteld, worden, voor zoover deze strafbaarstelling niet geschiedt door toepasselijkverklaring van het nationale recht, beschouwd als overtredingen.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 De volgende strafbepalingen en bepalingen omtrent onderwerpen in de [eerste acht Titels van het eerste Boek van het Wetboek van Strafrecht](onbekend) behandeld blijven, behoudens de in deze wet vermelde wijzigingen, van kracht.
 
@@ -212,7 +234,7 @@ De volgende strafbepalingen en bepalingen omtrent onderwerpen in de [eerste acht
 
 - 47°.Vervallen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De feiten in het vorig artikel bedoeld, worden beschouwd als overtredingen. Zij worden als zoodanig berecht voor zoover niet in de bijzondere wet uitdrukkelijk het tegendeel bepaald is.
 
@@ -226,37 +248,37 @@ De volgende strafbepalingen en bepalingen omtrent onderwerpen in de [eerste acht
 
 6. Waar een andere aanvangstijd van den termijn voor de herhaling vastgesteld, is bepaald, wordt de in het vorige lid bedoelde tijd van aanvang daarvoor in de plaats gesteld.
 
-#### Artikel 12
+##### Artikel 12
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 13
+##### Artikel 13
 
 De bij bijzondere wetten en verordeningen verleende bevoegdheid tot het opsporen van strafbare feiten blijft gehandhaafd, ook voorzoover tegen die feiten thans in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) is voorzien.
 
-#### Artikel 14
+##### Artikel 14
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 15
+##### Artikel 15
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 16
+##### Artikel 16
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 17
+##### Artikel 17
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
 #### § III. Bepalingen omtrent overtredingen van Algemeene Maatregelen van inwendig bestuur, van Provinciale verordeningen, reglementen en reglementaire voorschriften, van gemeenteverordeningen en van politieverordeningen of keuren van waterschappen
 
-#### Artikel 19
+##### Artikel 19
 
 1. Blijven van kracht, voor zoover betreft feiten waartegen in eenige andere wet niet is voorzien, de bepalingen omtrent onderwerpen in de [acht eerste Titels van het eerste Boek van het Wetboek van Strafrecht](onbekend) behandeld, alsmede de strafbepalingen, bij eenige bijzondere wet vastgesteld ten opzichte van overtreding van eenigen algemeenen maatregel van inwendig bestuur tot uitvoering dier wet uitgevaardigd.
 
@@ -266,21 +288,21 @@ Vervallen
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 20
+##### Artikel 20
 
 Waar in de thans bestaande wetten het geven van nadere voorschriften aan algemeene maatregelen van inwendig bestuur is overgelaten, zonder bepaling van straf tegen de overtreding van voorschriften bij die algemeene maatregelen van inwendig bestuur gegeven, zal die overtreding gestraft worden met hechtenis van ten hoogste veertien dagen of geldboete van de eerste categorie.
 
-#### Artikel 21
+##### Artikel 21
 
 Hij die het reglement betrekkelijk de ontginning van steenkolenmijnen, behoorende bij Ons besluit van 28 Juni 1877 (**Staatsblad** n°. 155), overtreedt, wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de eerste categorie.
 
-#### Artikel 22
+##### Artikel 22
 
 Onverminderd de bepalingen van de drie voorgaande artikelen blijft art. 1 van de wet van 6 Maart 1818 (**Staatsblad** n°. 12) tot den 1sten September 1893 van kracht
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Art. 74 der wet van 6 Juli 1850 (**Staatsblad** n°. 39), regelende "de zamenstelling en magt van de Provinciale Staten" blijft van kracht.
 
@@ -288,21 +310,21 @@ Bevat wijzigingen in andere regelgeving.
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 24
+##### Artikel 24
 
 Art. 47 van de wet van 29 Juni 1851 (**Staatsblad** n°. 85), regelende "de zamenstelling, inrigting en bevoegdheid der gemeentebesturen", blijft van kracht.
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 1. In de bestaande provinciale, gemeente- of waterschapsverordeningen, reglementen, reglementaire voorschriften of keuren wordt de gevangenisstraf vervangen door hechtenis, het minimum der hechtenis op één dag en dat der geldboete op vijftig cents gesteld.
 
@@ -310,79 +332,79 @@ Vervallen
 
 3. Behoudens het bij dit artikel bepaalde blijft art. 3 van de wet van 25 Mei 1880 (**Staatsblad** n°. 86) van kracht.
 
-#### Artikel 28
+##### Artikel 28
 
 De strafbare feiten, bedoeld in de [artt. 20-27](https://wetten.overheid.nl/jci1.3:c:BWBR0001855&paragraaf=III&artikel=20&z=2002-01-01&g=2002-01-01), worden beschouwd als overtredingen.
 
 #### § IV. Algemeene bepaling omtrent herhaling van strafbare feiten
 
-#### Artikel 29
+##### Artikel 29
 
 De bepalingen van het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) omtrent strafverzwaring, in geval van herhaling van strafbare feiten, worden toegepast ook indien de vroegere veroordeeling wegens soortgelijk feit of de vrijwillige betaling van de boete onder de heerschappij der oude wetgeving plaats had, zelfs wanneer in die wetgeving aan het eerste feit eene andere qualificatie werd gegeven.
 
 #### § V. Bepalingen betreffende strafbare feiten vóór 1 September 1886 gepleegd en op of na dien dag te berechten
 
-#### Artikel 30
+##### Artikel 30
 
 Ter bepaling van de bevoegdheid van den rechter en de wijze van rechtspleging, wordt uitsluitend de wetgeving toegepast in werking op het tijdstip waarop rechtsingang werd verleend of, voor de eerste maal, rauwelijks voor de openbare terechtzitting gedagvaard.
 
-#### Artikel 31
+##### Artikel 31
 
 1. In alle zaken waarin vóór 1 September 1886 reeds, al ware het bij verstek, een eindvonnis gewezen is, worden, ook na verzet of na gebruik van het middel van hooger beroep of van cassatie, uitsluitend de oude strafrechtelijke bepalingen toegepast.
 
 2. Indien daarentegen wegens een feit vóór 1 September 1886 gepleegd, eerst op of na dien dag het eerste eindvonnis gewezen wordt, gelden de bepalingen der vijftien volgende artikelen en van [art. 48](https://wetten.overheid.nl/jci1.3:c:BWBR0001855&paragraaf=V&artikel=48&z=2002-01-01&g=2002-01-01).
 
-#### Artikel 32
+##### Artikel 32
 
 Indien in de oude wetgeving levenslange tuchthuisstraf is gesteld, treedt daarvoor levenslange gevangenisstraf of tijdelijke van ten hoogste twintig jaren in de plaats.
 
-#### Artikel 33
+##### Artikel 33
 
 Indien in de oude wetgeving vijf tot vijf en twintigjarige tuchthuisstraf is gesteld, treedt daarvoor gevangenisstraf van ten hoogste vijftien jaren in de plaats.
 
-#### Artikel 34
+##### Artikel 34
 
 Indien in de oude wetgeving vijf tot twintigjarige tuchthuisstraf is gesteld, treedt daarvoor gevangenisstraf van ten hoogste twaalf jaren in de plaats.
 
-#### Artikel 35
+##### Artikel 35
 
 Indien in de oude wetgeving vijf tot vijftienjarige tuchthuisstraf of deportatie is gesteld, treedt daarvoor gevangenisstraf van ten hoogste negen jaren in de plaats.
 
-#### Artikel 36
+##### Artikel 36
 
 Indien in de oude wetgeving vijf tot tienjarige tuchthuisstraf is gesteld, treedt daarvoor gevangenisstraf van ten hoogste zes jaren in de plaats.
 
-#### Artikel 37
+##### Artikel 37
 
 Indien in de oude wetgeving verbanning is gesteld, treedt daarvoor gevangenisstraf van ten hoogste vier jaren en zes maanden in de plaats.
 
-#### Artikel 38
+##### Artikel 38
 
 In de gevallen in de [artt. 32-37](https://wetten.overheid.nl/jci1.3:c:BWBR0001855&paragraaf=V&artikel=32&z=2002-01-01&g=2002-01-01) bedoeld is de rechter bevoegd, ontzetting uit te spreken van de in [art. 28, n°. 1, 2, 3 en 4 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) vermelde rechten, benevens van voogdij en curateele over eigen kinderen, voor den duur in [artikel 31 van dat Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=31) aangewezen.
 
-#### Artikel 39
+##### Artikel 39
 
 Indien in de oude wetgeving correctioneele gevangenisstraf is gesteld, treedt daarvoor in de plaats gevangenisstraf waarvan het maximum wordt verminderd tot de helft.
 
-#### Artikel 40
+##### Artikel 40
 
 Indien naar de oude wetgeving ontzetting had kunnen worden uitgesproken van al de in art. 8 der wet van 29 Juni 1854 (**Staatsblad** n°. 102) vermelde rechten, treedt daarvoor 's rechters bevoegdheid tot ontzetting van de in [art. 28, n°. 1, 2, 3 en 4 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) vermelde rechten, benevens van voogdij en curateele over eigen kinderen, in de plaats.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Indien naar de oude wetgeving ontzetting had kunnen worden uitgesproken van sommige der in art. 8 der wet van 29 Juni 1854 (**Staatsblad** n°. 102) vermelde rechten, kan die ontzetting slechts plaats hebben in zoover die rechten ook in [art. 28 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) vermeld zijn.
 
 2. Het laatste lid van [art. 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001855&paragraaf=II&artikel=8&z=2002-01-01&g=2002-01-01) blijft buiten toepassing.
 
-#### Artikel 42
+##### Artikel 42
 
 Indien in de oude wetgeving politiegevangenisstraf is gesteld, treedt daarvoor hechtenis van gelijken duur in de plaats.
 
-#### Artikel 43
+##### Artikel 43
 
 Ten aanzien van het minimum der gevangenisstraf, hechtenis en geldboete, gelden de bepalingen der [artt. 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=10), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=18) en [23 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-#### Artikel 44
+##### Artikel 44
 
 1. Indien de strafbepalingen der nieuwe wetgeving voor den schuldige minder ongunstig mochten zijn dan die van de oude wetgeving na de verwisseling in de [artt. 32-37](https://wetten.overheid.nl/jci1.3:c:BWBR0001855&paragraaf=V&artikel=32&z=2002-01-01&g=2002-01-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0001855&paragraaf=V&artikel=39&z=2002-01-01&g=2002-01-01) en [42 dezer wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001855&paragraaf=V&artikel=42&z=2002-01-01&g=2002-01-01)voorgeschreven, worden alleen de bepalingen der nieuwe wetgeving toegepast.
 
@@ -394,13 +416,13 @@ Ten aanzien van het minimum der gevangenisstraf, hechtenis en geldboete, gelden 
 
 5. Voor zooveel geldboeten betreft, wordt alleen het bedrag der boeten, niet de duur der subsidiaire gevangenisstraf of hechtenis in vergelijking gebracht.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Opzending van bedelaars of landloopers naar een bedelaarsgesticht of werkhuis, kan slechts worden gelast voor zoover krachtens de nieuwe wetgeving veroordeeling tot plaatsing in eene Rijkswerkinrichting zou kunnen worden uitgesproken.
 
 2. De opzending is in geen geval verplichtend.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Indien hetzij naar de oude, hetzij naar de nieuwe wetgeving, het feit alleen op klachte vervolgbaar is, wordt de strafvordering niet ontvankelijk verklaard tenzij de klacht is gedaan.
 
@@ -408,23 +430,23 @@ Ten aanzien van het minimum der gevangenisstraf, hechtenis en geldboete, gelden 
 
 3. Ten aanzien van klachten vóór dien dag ingediend vangt op dien dag de termijn aan bedoeld in [art. 67 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=67).
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
-#### Artikel 48
+##### Artikel 48
 
 Alle bepalingen in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) gemaakt, betrekkelijk den ingang, de wijze en de kosten van tenuitvoerlegging van straffen, daaronder begrepen de bepalingen betrekkelijk de bestemming van boete en van verbeurdverklaarde voorwerpen en de straffen die, bij gebreke van voldoening aan de rechterlijke uitspraak, daarvoor in de plaats treden, zijn toepasselijk.
 
 #### § VI. Bepaling omtrent straffen vóór 1 September 1886 opgelegd
 
-#### Artikel 49
+##### Artikel 49
 
 [Art. 35 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=35) is niet van toepassing op straffen, die ten uitvoer worden gelegd krachtens vonnissen vóór 1 September 1886 gewezen.
 
 #### Slotbepaling
 
-#### Artikel 50
+##### Artikel 50
 
 Deze wet treedt in werking op den 1sten September 1886.
 

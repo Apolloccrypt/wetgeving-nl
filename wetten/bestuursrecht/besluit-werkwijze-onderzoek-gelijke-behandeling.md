@@ -1,13 +1,39 @@
 ---
-title: "Besluit werkwijze onderzoek gelijke behandeling"
+title: "Besluit van 31 augustus 2012, houdende nadere regels over de werkwijze van de afdeling, bedoeld in hoofdstuk 2 van de Wet College voor de rechten van de mens (Besluit werkwijze onderzoek gelijke behandeling)"
 identifier: "BWBR0031967"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031967"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031967"
+soort: "AMvB"
+stam_id: "11838083"
+version_id: "19629492"
+internal_id: "C27555851"
+label_id: "11810604"
+dtd_version: "2.0"
+original_entry_into_force: "2012-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031967/2020-01-01/0"
+intitule_bron: "Stb.2012-394"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-08-31"
+intitule_published: "2012-09-07"
+intitule_in_force: "2012-09-20"
+intitule_status: "goed"
+original_publication: "Stb.2012-394"
+original_signed_date: "2012-08-31"
+original_published_date: "2012-09-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-394"
+entry_into_force_date: "2012-10-01"
+jci_1_3: "jci1.3:c:BWBR0031967&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0031967&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit werkwijze onderzoek gelijke behandeling"
+signed_date: "2012-08-31"
+entry_into_force: "2012-10-01"
 ---
-
 # Besluit van 31 augustus 2012, houdende nadere regels over de werkwijze van de afdeling, bedoeld in hoofdstuk 2 van de Wet College voor de rechten van de mens (Besluit werkwijze onderzoek gelijke behandeling)
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 18 mei 2011, nummer 5683452/11/6;
@@ -36,7 +62,7 @@ Treedt in werking op het tijdstip waarop artikel 19 van de Wet College voor de r
 
 ### Hoofdstuk 1. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -74,7 +100,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 1. Algemeen
 
-#### Artikel 2
+##### Artikel 2
 
 1. De afdeling, bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=9), kan uit haar midden kamers vormen.
 
@@ -82,7 +108,7 @@ In dit besluit wordt verstaan onder:
 
 3. Een zaak kan tijdens het onderzoek worden verwezen van een enkelvoudige naar een meervoudige kamer of andersom.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Op verzoek van een partij dan wel van een betrokkene kan elk van de leden die een zaak behandelen, worden gewraakt op grond van feiten of omstandigheden waardoor de onpartijdigheid als lid schade zou kunnen lijden.
 
@@ -90,17 +116,17 @@ In dit besluit wordt verstaan onder:
 
 3. De [artikelen 8:16 tot en met 8:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:16) zijn van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 Het College is bevoegd afwijkingen van de in dit hoofdstuk bedoelde termijnen toe te staan, mits een redelijke termijn van afhandeling van het verzoek verzekerd blijft.
 
-#### Artikel 5
+##### Artikel 5
 
 Zodra het College het onderzoek beëindigt met toepassing van [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=12), vervalt de verplichting tot het verder toepassen van dit besluit.
 
 #### § 2. Het aanhangig maken van zaken
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een verzoekschrift bevat:
 
@@ -114,13 +140,13 @@ Zodra het College het onderzoek beëindigt met toepassing van [artikel 12 van de
 
 3. Het College doet op het verzoekschrift de datum van ontvangst aantekenen en de verzoeker een ontvangstbevestiging toekomen. Deze datum geldt, behoudens tegenbewijs, als datum waarop het verzoek is ingediend.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien niet is voldaan aan [artikel 6, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=2&artikel=6&z=2020-01-01&g=2020-01-01), kan het College besluiten geen onderzoek in te stellen, mits de indiener van het verzoekschrift de gelegenheid heeft gehad het verzuim te herstellen binnen een hem daartoe gestelde termijn.
 
 2. Tenzij het eerste lid of [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=12) toepassing vindt, neemt het College het verzoek in behandeling.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien het verzoekschrift is ingediend door een verzoeker als bedoeld in [artikel 10, tweede lid, onder d of e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10) en het verzoekschrift personen noemt ten nadele van wie zou zijn gehandeld, doet het College aan die personen een afschrift van het verzoekschrift toekomen met de mededeling dat het College het voornemen heeft naar aanleiding van het verzoekschrift een onderzoek in te stellen, dat mede op hen betrekking zal hebben, en met de vraag of zij daartegen bedenkingen hebben.
 
@@ -132,7 +158,7 @@ Zodra het College het onderzoek beëindigt met toepassing van [artikel 12 van de
 
 #### § 3. Het vooronderzoek
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het College stelt de verzoeker zo spoedig mogelijk na ontvangst van het verzoekschrift op de hoogte van het feit dat het verzoek in behandeling wordt genomen.
 
@@ -140,49 +166,49 @@ Zodra het College het onderzoek beëindigt met toepassing van [artikel 12 van de
 
 3. Verzoeker, verweerder en betrokkenen worden ingelicht over het verdere verloop van de procedure alsmede over de samenstelling van de kamer die de zaak behandelt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Binnen vier weken na de datum waarop het verzoekschrift aan hem is verzonden, geeft de verweerder aan het College in een verweerschrift kennis van zijn zienswijze en de gronden waarop deze berust en verstrekt hij de antwoorden op de hem gestelde vragen en de gevraagde bescheiden.
 
 2. De verzoeker ontvangt zo spoedig mogelijk een afschrift van het verweerschrift.
 
-#### Artikel 11
+##### Artikel 11
 
 Het College kan partijen en anderen verzoeken binnen een daarbij te bepalen termijn nadere schriftelijke inlichtingen te geven en onder hen berustende bescheiden in te zenden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het College kan partijen en anderen oproepen om in persoon dan wel in persoon of bij gemachtigde te verschijnen om te worden gehoord, al dan niet voor het geven van inlichtingen. Indien niet alle partijen worden opgeroepen, worden de niet opgeroepen partijen in de gelegenheid gesteld het horen bij te wonen en een uiteenzetting over de zaak te geven.
 
 2. Indien een partij niet voldoet aan een oproep, kan het College daaruit de gevolgtrekkingen maken die het geraden acht. Partijen worden hierop gewezen.
 
-#### Artikel 13
+##### Artikel 13
 
 Het College kan een of meer deskundigen benoemen voor het instellen van een onderzoek en deze verzoeken binnen een daarbij te bepalen termijn rapport uit te brengen.
 
-#### Artikel 14
+##### Artikel 14
 
 Van het horen van personen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=3&artikel=12&z=2020-01-01&g=2020-01-01), en van de bevindingen van het onderzoek ter plaatse, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=7), wordt een rapport opgemaakt.
 
-#### Artikel 15
+##### Artikel 15
 
 Het College zendt de op de zaak betrekking hebbende stukken zo spoedig mogelijk aan partijen.
 
 #### § 4. Het onderzoek ter zitting
 
-#### Artikel 16
+##### Artikel 16
 
 1. Na afloop van het vooronderzoek worden partijen ten minste drie weken tevoren opgeroepen of uitgenodigd om op een daarbij te vermelden plaats en tijdstip op een zitting van het College te verschijnen.
 
 2. Indien een partij niet voldoet aan een oproep, kan het College daaruit de gevolgtrekkingen maken die het geraden acht. Partijen worden hierop gewezen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Voor de zitting worden de op de zaak betrekking hebbende stukken gedurende ten minste een week op het secretariaat van het College ter inzage gelegd voor partijen en betrokkenen.
 
 2. Van de terinzagelegging wordt mededeling gedaan bij de kennisgeving van de zitting.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De zittingen van het College zijn openbaar.
 
@@ -190,7 +216,7 @@ Het College zendt de op de zaak betrekking hebbende stukken zo spoedig mogelijk 
 
 3. Deze redenen worden opgenomen in het verslag van de zitting.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het College is bevoegd zich ter zitting te laten voorlichten door getuigen en deskundigen. Partijen worden van het voornemen hiertoe voor de zitting in kennis gesteld.
 
@@ -202,7 +228,7 @@ Het College zendt de op de zaak betrekking hebbende stukken zo spoedig mogelijk 
 
 5. Het College kan afzien van het horen van een getuige of deskundige als bedoeld in het vierde lid, indien het van oordeel is dat dit redelijkerwijs niet kan bijdragen aan de beoordeling van de zaak.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De zitting wordt door de voorzitter van de kamer geopend, geleid en gesloten.
 
@@ -212,7 +238,7 @@ Het College zendt de op de zaak betrekking hebbende stukken zo spoedig mogelijk 
 
 4. De kamer kan getuigen horen buiten tegenwoordigheid van andere getuigen die nog niet zijn gehoord.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het College kan uit eigen beweging dan wel op verzoek van een der partijen om gewichtige redenen besluiten de partijen buiten elkaars tegenwoordigheid of getuigen buiten aanwezigheid van partijen te horen.
 
@@ -220,33 +246,33 @@ Het College zendt de op de zaak betrekking hebbende stukken zo spoedig mogelijk 
 
 3. De niet aanwezige partij wordt door het College op de hoogte gebracht van hetgeen buiten haar tegenwoordigheid is gesteld en wordt de gelegenheid gegeven hierop te reageren.
 
-#### Artikel 22
+##### Artikel 22
 
 Het College kan het onderzoek ter zitting schorsen. Het College kan daarbij bepalen dat het vooronderzoek, bedoeld in [§ 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=3&z=2020-01-01&g=2020-01-01), of het onderzoek ter plaatse, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=7), wordt hervat.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Van al hetgeen tijdens de zitting met betrekking tot de zaak voorvalt, wordt een verslag gemaakt.
 
 2. Het verslag wordt ondertekend door de voorzitter en de secretaris van de kamer.
 
-#### Artikel 24
+##### Artikel 24
 
 Het College sluit het onderzoek ter zitting wanneer het van oordeel is dat het is voltooid.
 
 #### § 5. De behandeling in de raadkamer
 
-#### Artikel 25
+##### Artikel 25
 
 De beraadslagingen van het College over de zaak zijn niet openbaar.
 
-#### Artikel 26
+##### Artikel 26
 
 Het College kan tot heropening van het onderzoek besluiten. Het stelt partijen zo spoedig mogelijk na de beraadslaging op de hoogte van dat besluit.
 
 #### § 6. Het oordeel
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het College stelt binnen acht weken na de sluiting van het onderzoek een oordeel vast.
 
@@ -256,13 +282,13 @@ Het College kan tot heropening van het onderzoek besluiten. Het stelt partijen z
 
 4. Het oordeel wordt ondertekend door de voorzitter en de secretaris van de kamer.
 
-#### Artikel 28
+##### Artikel 28
 
 Het oordeel van het College, eventueel vergezeld van aanbevelingen, is openbaar. Wanneer naar het oordeel van het College de bescherming van zwaarwegende belangen van partijen, betrokkenen of derden daartoe aanleiding geeft, kan worden volstaan met verstrekking van een geanonimiseerd afschrift van het oordeel.
 
 #### § 7. Spoedprocedure
 
-#### Artikel 29
+##### Artikel 29
 
 1. Het College kan, indien de zaak spoedeisend is, bepalen dat deze met spoed wordt behandeld.
 
@@ -276,7 +302,7 @@ Het oordeel van het College, eventueel vergezeld van aanbevelingen, is openbaar.
 
 #### § 8. Afdoening zonder zitting
 
-#### Artikel 30
+##### Artikel 30
 
 1. Indien op grond van het verzoekschrift of het vooronderzoek het vermoeden bestaat dat kennelijk onderscheid is gemaakt, kan het College besluiten om de zaak af te doen zonder zitting.
 
@@ -284,7 +310,7 @@ Het oordeel van het College, eventueel vergezeld van aanbevelingen, is openbaar.
 
 3. Blijkt aan het College op grond van het verweerschrift dat er reden is om te twijfelen aan de kennelijke aard van het onderscheid, dan bepaalt het dat de zaak op de gewone wijze wordt behandeld.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Indien op grond van het verzoekschrift of het vooronderzoek het vermoeden bestaat dat kennelijk geen onderscheid is gemaakt, kan het College de verzoeker mededelen dat het College het voornemen heeft om de zaak af te doen zonder zitting. Het College stelt de verzoeker in de gelegenheid om binnen een daarbij gestelde termijn op dat voornemen te reageren.
 
@@ -292,17 +318,17 @@ Het oordeel van het College, eventueel vergezeld van aanbevelingen, is openbaar.
 
 #### § 9. Onderzoek uit eigen beweging
 
-#### Artikel 32
+##### Artikel 32
 
 In geval van een onderzoek uit eigen beweging als bedoeld in [artikel 10, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10), zijn de [artikelen 8 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0031967&hoofdstuk=2&paragraaf=2&artikel=8&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 33
+##### Artikel 33
 
 Dit besluit wordt aangehaald als: Besluit werkwijze onderzoek gelijke behandeling.
 
-#### Artikel 34
+##### Artikel 34
 
 Dit besluit treedt in werking op het tijdstip waarop [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=19) in werking treedt.
 

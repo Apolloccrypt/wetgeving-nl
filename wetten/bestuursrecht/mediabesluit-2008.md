@@ -1,13 +1,39 @@
 ---
-title: "Mediabesluit 2008"
+title: "Besluit van 29 december 2008 houdende vaststelling van een nieuw Mediabesluit (Mediabesluit 2008)"
 identifier: "BWBR0025036"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025036"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025036"
+soort: "AMvB"
+stam_id: "9850683"
+version_id: "16985902"
+internal_id: "C23421801"
+label_id: "9827724"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025036/2026-01-01/0"
+intitule_bron: "Stb.2008-584"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-29"
+intitule_published: "2008-12-30"
+intitule_in_force: "2008-12-30"
+intitule_status: "goed"
+original_publication: "Stb.2009-574"
+original_signed_date: "2009-12-14"
+original_published_date: "2009-12-24"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2009-574"
+entry_into_force_date: "2009-12-14"
+jci_1_3: "jci1.3:c:BWBR0025036&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0025036&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Mediabesluit 2008"
+signed_date: "2009-12-14"
+entry_into_force: "2009-12-14"
 ---
-
 # Besluit van 29 december 2008 houdende vaststelling van een nieuw Mediabesluit (Mediabesluit 2008)
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 18 november 2008, nr. WJZ/75071 (8238), directie Wetgeving en Juridische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 1. Experimenten
 
-#### Artikel 2
+##### Artikel 2
 
 De NOS verzorgt in ieder geval het volgende media-aanbod:
 
@@ -60,7 +86,7 @@ De NOS verzorgt in ieder geval het volgende media-aanbod:
 
 #### § 2. Media-aanbod Nederlandse Programma Stichting
 
-#### Artikel 3
+##### Artikel 3
 
 De NTR verzorgt in ieder geval het volgende media-aanbod:
 
@@ -78,7 +104,7 @@ De NTR verzorgt in ieder geval het volgende media-aanbod:
 
 #### § 2. Media-aanbod Nederlandse Omroep Stichting
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het programma-aanbod van de regionale en de lokale publieke mediadienst bedoeld in [artikel 2.70, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.70), bestaat voor ten minste vijftig procent uit aanbod dat door de media-instelling zelf of uitsluitend in haar opdracht is geproduceerd.
 
@@ -88,25 +114,25 @@ De NTR verzorgt in ieder geval het volgende media-aanbod:
 
 #### § 1. Reclame en telewinkelen
 
-#### Artikel 5
+##### Artikel 5
 
 Het aandeel reclame- en telewinkelboodschappen, inclusief omlijsting, in het programma-aanbod van de regionale en lokale publieke mediadiensten bedraagt per programmakanaal niet meer dan tien procent van de totale duur van het programma-aanbod op het programmakanaal per jaar.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop inzicht wordt gegeven in de financiën die betrekking hebben op de verzorging van reclame- en telewinkelboodschappen in het media-aanbod van de regionale en lokale publieke mediadiensten.
 
 #### § 2. Onvermijdbare en vermijdbare uitingen
 
-#### Artikel 7
+##### Artikel 7
 
 In deze paragraaf wordt onder «vermijdbare uitingen» verstaan vermijdbare uitingen anders dan reclame- of telewinkelboodschappen die onmiskenbaar tot gevolg hebben dat de afname van producten of diensten wordt bevorderd.
 
-#### Artikel 8
+##### Artikel 8
 
 Uitingen anders dan reclame- of telewinkelboodschappen zijn onvermijdbaar, als het uitingen betreft die behoren tot het normale straatbeeld en die zonder opzet en zonder nadruk gedurende enkele seconden in het media-aanbod voorkomen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. In media-aanbod van informatieve of educatieve aard zijn vermijdbare uitingen in de vorm van het tonen of vermelden van een product of dienst toegestaan, mits:
 
@@ -120,13 +146,13 @@ Uitingen anders dan reclame- of telewinkelboodschappen zijn onvermijdbaar, als h
 
 2. Het eerste lid is van overeenkomstige toepassing op ander media-aanbod, met uitzondering van media-aanbod dat in het bijzonder bestemd is voor kinderen jonger dan twaalf jaar.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01) mag media-aanbod van informatieve of educatieve aard vermijdbare uitingen in de vorm van het tonen of vermelden van namen of (beeld)merken van bepaalde producten of diensten of van namen van bedrijven of instellingen bevatten. Op deze uitingen is [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
 
 2. In afwijking van [artikel 9, eerste lid, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01), mag media-aanbod van informatieve of educatieve aard vermijdbare uitingen bevatten die bestaan uit het aankondigen en recenseren van boeken, video’s, compact discs en soortgelijke culturele uitingen, alsmede van toneel-, muziek- en filmuitvoeringen, tentoonstellingen en soortgelijke evenementen van kunstzinnige aard.
 
-#### Artikel 11
+##### Artikel 11
 
 In media-aanbod zijn vermijdbare uitingen in de vorm van het tonen of vermelden van de naam van een bedrijf of instelling toegestaan, mits:
 
@@ -136,7 +162,7 @@ In media-aanbod zijn vermijdbare uitingen in de vorm van het tonen of vermelden 
 
 - c. de naamgeving, voor zover het de benaming van een Nederlandse sportvereniging betreft, is erkend door de desbetreffende bij het NOC*NSF aangesloten sportorganisatie.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Media-aanbod dat bestaat uit het verslag of de weergave van een evenement dat in Nederland plaatsvindt of is geproduceerd door of in opdracht van een publieke media-instelling, mag vermijdbare uitingen bevatten als:
 
@@ -150,7 +176,7 @@ In media-aanbod zijn vermijdbare uitingen in de vorm van het tonen of vermelden 
 
 - b. de uitingen niet langer of met meer nadruk in het media-aanbod voorkomen dan nodig is voor een evenwichtige registratie en presentatie.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Media-aanbod dat bestaat uit het verslag of de weergave van een evenement dat niet voornamelijk bestemd is om als media-aanbod te worden verspreid, mag vermijdbare uitingen bevatten die bestaan uit vertoning of vermelding van de namen of (beeld)merken van personen, bedrijven of instellingen, die een belangrijke, schriftelijk overeengekomen bijdrage hebben geleverd aan de totstandkoming van het evenement.
 
@@ -170,7 +196,7 @@ In media-aanbod zijn vermijdbare uitingen in de vorm van het tonen of vermelden 
 
 - b. gebruik maken van namen of (beeld)merken die tevens worden gebruikt door personen, bedrijven of instellingen als bedoeld onder a, of daarmee een zo sterke gelijkenis vertonen dat het publiek redelijkerwijs de indruk krijgt dat het mede de naam of het (beeld)merk van een persoon, bedrijf of instelling als bedoeld onder a betreft.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Media-aanbod dat bestaat uit een film die voor een zaal publiek is of wordt vertoond, of een bewerking daarvan, mag vermijdbare uitingen bevatten die bestaan uit het tonen of vermelden van namen, (beeld-)merken, producten of diensten van personen, bedrijven of instellingen, als die uitingen in het media-aanbod voorkomen in dezelfde vorm en in ten hoogste dezelfde hoeveelheid als in de voor een zaal publiek bestemde versie van de film.
 
@@ -178,7 +204,7 @@ In media-aanbod zijn vermijdbare uitingen in de vorm van het tonen of vermelden 
 
 #### § 1. Reclame en telewinkelen
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het totale televisieprogramma-aanbod van de landelijke publieke mediadienst dat bestaat uit oorspronkelijk Nederlandstalige producties is voor ten minste 95% voorzien van ondertiteling ten behoeve van personen met een auditieve beperking.
 
@@ -192,13 +218,13 @@ In media-aanbod zijn vermijdbare uitingen in de vorm van het tonen of vermelden 
 
 ### Afdeling 4. Nevenactiviteiten
 
-#### Artikel 16
+##### Artikel 16
 
 Inkomsten uit programmabladen van een omroeporganisatie kunnen jaarlijks tot ten hoogste het bedrag dat nodig is om een eventueel verlies van de desbetreffende omroeporganisatie te dekken, worden besteed aan verenigingsactiviteiten als bedoeld in [artikel 2.136 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.136). Bij de bepaling van het resultaat blijven veranderingen in de waarde van materiële vaste activa als gevolg van herwaarderingen buiten beschouwing. De gebruikelijke jaarlijkse afschrijvingen van de materiële vaste activa worden niet als herwaarderingen aangemerkt.
 
 ### Hoofdstuk 3. Commerciële omroep
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het totale programma-aanbod op een televisieprogrammakanaal van een commerciële media-instelling met een bereik van ten minste 75 procent van alle huishoudens in Nederland dat bestaat uit oorspronkelijk Nederlandstalige producties, is voor ten minste 50% voorzien van ondertiteling ten behoeve van personen met een auditieve beperking.
 
@@ -210,13 +236,13 @@ Inkomsten uit programmabladen van een omroeporganisatie kunnen jaarlijks tot ten
 
 ### Hoofdstuk 4. Evenementen van aanzienlijk belang voor de samenleving
 
-#### Artikel 18
+##### Artikel 18
 
 In dit hoofdstuk wordt verstaan onder:
 
 - **lijst:** evenementenlijst die is opgenomen in de bij dit besluit behorende bijlage.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De evenementen, genoemd in onderdeel A van de lijst, die als televisieprogramma worden verspreid, worden in ieder geval verspreid op een open televisieprogrammakanaal door middel van volledige rechtstreekse verslaggeving.
 
@@ -224,13 +250,13 @@ In dit hoofdstuk wordt verstaan onder:
 
 3. In afwijking van het eerste lid behoeven wedstrijden die deel uitmaken van de in dat lid bedoelde evenementen en die gelijktijdig plaatsvinden niet alle door middel van volledige rechtstreekse verslaggeving te worden verspreid, als ten minste een van deze wedstrijden wordt verspreid door middel van volledige rechtstreekse verslaggeving op een open televisiekanaal.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De evenementen, genoemd in onderdeel B van de lijst, die als televisieprogramma worden verspreid, worden in ieder geval verspreid op een open televisieprogrammakanaal door middel van gedeeltelijke rechtstreekse verslaggeving.
 
 2. De verslaggeving van evenementen, bedoeld in het eerste lid, heeft de in onderdeel B van de lijst vermelde minimumduur.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De evenementen, genoemd in onderdeel C van de lijst, die als televisieprogramma worden verspreid, worden in ieder geval verspreid op een open televisieprogrammakanaal door middel van gedeeltelijke uitgestelde verslaggeving.
 
@@ -244,7 +270,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 #### § 1. Gebruik frequentieruimte
 
-#### Artikel 22
+##### Artikel 22
 
 1. Voor de toepassing van [artikel 6.24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.24) worden twee of meer instellingen als één instelling aangemerkt, als:
 
@@ -256,7 +282,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 #### § 3. Europese en onafhankelijke producties en Nederlandstalige producties
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het Commissariaat verleent toestemming voor het verzorgen van een omroepdienst via een omroepzender binnen een gebied van beperkte omvang, welke omroepdienst uitsluitend bestemd is voor in Nederland gelegerde militairen van buitenlandse strijdkrachten en hun gezinnen.
 
@@ -264,11 +290,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 3. Ten aanzien van het gebruik van de toestemming zijn de [artikelen 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.89), [2.90](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.90), [2.106 tot en met 2.109](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.106), [2.114](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.114) voor zover het betreft de [artikelen 2.107](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.107) en [2.108](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.108), [2.124](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.124), [2.141, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.141), [2.142](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.142), [4.1 tot en met 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=4.1), [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.11), [7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.18) en [7.19, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.19) van overeenkomstige toepassing.
 
-#### Artikel 24
+##### Artikel 24
 
 Het Commissariaat kan zonodig de omroepzender of omroepzenders aanwijzen die voor de omroepdienst bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=23&z=2026-01-01&g=2026-01-01), wordt gebruikt.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Een aanvraag voor de toestemming bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=23&z=2026-01-01&g=2026-01-01) wordt ingediend bij Onze Minister van Defensie, die deze voorzien van zijn opmerkingen binnen vier weken doorzendt aan het Commissariaat. Het Commissariaat zendt een afschrift van de aanvraag aan Onze Minister van Economische Zaken.
 
@@ -282,7 +308,7 @@ Het Commissariaat kan zonodig de omroepzender of omroepzenders aanwijzen die voo
 
 - d. een omschrijving van de te gebruiken omroepzender.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het Commissariaat trekt de toestemming in:
 
@@ -294,13 +320,13 @@ Het Commissariaat kan zonodig de omroepzender of omroepzenders aanwijzen die voo
 
 3. Het Commissariaat maakt zijn voornemen tot intrekking van de toestemming kenbaar aan Onze Minister van Defensie en Onze Minister van Economische Zaken.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Een beschikking tot intrekking van een verleende toestemming op grond van [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=26&z=2026-01-01&g=2026-01-01), gaat onmiddellijk in.
 
 2. Een beschikking tot intrekking van een verleende toestemming op grond van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=26&z=2026-01-01&g=2026-01-01), gaat niet eerder in dan nadat de bevoegde militaire autoriteit van het voornemen daartoe en de gronden waarop de beschikking berust in kennis is gesteld en deze in de gelegenheid is gesteld binnen een redelijke termijn schriftelijke en desgewenst mondelinge opmerkingen te maken.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De bevoegde militaire autoriteit gebruikt de aan hem verleende toestemming geheel voor de omroepdienst, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=2&artikel=23&z=2026-01-01&g=2026-01-01).
 
@@ -308,7 +334,7 @@ Het Commissariaat kan zonodig de omroepzender of omroepzenders aanwijzen die voo
 
 ### Hoofdstuk 3. Commerciële mediadiensten
 
-#### Artikel 29
+##### Artikel 29
 
 Bij ministeriële regeling kunnen regels worden gesteld over:
 
@@ -328,7 +354,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 ### Hoofdstuk 4. Evenementen van aanzienlijk belang voor de samenleving
 
-#### Artikel 30
+##### Artikel 30
 
 In afwijking van artikel 15, eerste lid, bedraagt het daarin genoemde percentage voor een algemeen televisieprogrammakanaal of een televisieprogrammakanaal, niet zijnde een algemeen televisieprogrammakanaal:
 
@@ -336,33 +362,33 @@ In afwijking van artikel 15, eerste lid, bedraagt het daarin genoemde percentage
 
 - b. in 2018 ten minste 95% respectievelijk ten minste 85%.
 
-#### Artikel 31
+##### Artikel 31
 
 Het [besluit van 31 oktober 1989, houdende regels over de rechtspositie en de bezoldiging van de voorzitter en de leden van het Commissariaat voor de Media en van zijn personeel alsmede van de voorzitter en de leden van het bestuur van het Bedrijfsfonds voor de Pers en zijn personeel](https://wetten.overheid.nl/jci1.3:c:BWBR0004641) (Stb. 1989, 499) wordt ingetrokken.
 
-#### Artikel 32
+##### Artikel 32
 
 De [regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, van 20 juni 2001, nr. MLB/JZ/2001/25.459](https://wetten.overheid.nl/jci1.3:c:BWBR0012595) (Stcrt. 2001, nr. 119) wordt ingetrokken.
 
-#### Artikel 33
+##### Artikel 33
 
 De [regeling van de Minister van Welzijn, Volksgezondheid en Cultuur van 17 februari 1988, houdende overdracht bevoegdheid tot ontheffing verbod reclame-uitingen binnenlandse omroep aan het Commissariaat voor de Media](https://wetten.overheid.nl/jci1.3:c:BWBR0004296) (Stcrt. 1988, nr. 49) wordt ingetrokken.
 
-#### Artikel 34
+##### Artikel 34
 
 Na inwerkingtreding van dit besluit berust [artikel 8 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=8) op [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=5&paragraaf=1&artikel=22&z=2026-01-01&g=2026-01-01), van dit besluit.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Voor zover ter zake van het besluit en de regeling, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=7&artikel=31&z=2026-01-01&g=2026-01-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=7&artikel=32&z=2026-01-01&g=2026-01-01), nog sprake is van bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig het besluit en de regeling, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=7&artikel=31&z=2026-01-01&g=2026-01-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=7&artikel=32&z=2026-01-01&g=2026-01-01), plaats.
 
 2. Bestaande aanspraken en verplichtingen op grond van het besluit en de regeling, bedoeld in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=7&artikel=31&z=2026-01-01&g=2026-01-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=7&artikel=32&z=2026-01-01&g=2026-01-01), blijven in stand.
 
-#### Artikel 36
+##### Artikel 36
 
 Dit besluit wordt aangehaald als: Mediabesluit 2008.
 
-#### Artikel 37
+##### Artikel 37
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en de verschillende artikelen of onderdelen daarvan kunnen terugwerken tot en met een bij het koninklijk besluit te bepalen tijdstip.
 
@@ -388,7 +414,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 14a
+##### Artikel 14a
 
 Bij regeling van het Commissariaat kan worden bepaald dat in andere gevallen dan die bedoeld in de [artikelen 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01) vermijdbare uitingen in het media-aanbod zijn toegestaan, voor zover het betreft uitingen in het kader van:
 
@@ -422,13 +448,13 @@ De in de eerste volzin bedoelde regeling wordt door Onze Minister goedgekeurd.
 
 ### Hoofdstuk 5. Gebruik frequentieruimte en omroepdiensten voor buitenlandse militairen
 
-#### Artikel 29a
+##### Artikel 29a
 
 1. De voorzitter en de andere leden van het bestuur van de Stichting Radio Nederland Wereldomroep, bedoeld in artikel in [artikel 78 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=78), zoals dat artikel op 31 december 2008 luidde, zijn met ingang van 1 januari 2009 voorzitter onderscheidenlijk lid van de eerste raad van toezicht van de Stichting Radio Nederland Wereldomroep, bedoeld in [artikel 2.74 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.74), voor het resterende gedeelte van hun benoemingstermijn.
 
 2. De leden van de programmaraad van de Stichting Radio Nederland Wereldomroep, bedoeld in [artikel 81 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=81), zoals dat artikel op 31 december 2008 luidde, zijn met ingang van 1 januari 2009 lid van de adviesraad van de Stichting Radio Nederland Wereldomroep, bedoeld in [artikel 2.80 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.80), voor het resterende gedeelte van hun benoemingstermijn.
 
-#### Artikel 29b
+##### Artikel 29b
 
 De eerste benoeming van de leden van de raad van toezicht van de NOS op grond van [artikel 2.34c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.34c), zoals dat artikel luidt met ingang van het tijdstip waarop artikel Ia van de wet van 2 juli 2009 tot wijziging van de Mediawet 2008 in verband met de erkenning en de financiering van de publieke omroep in werking is getreden, geschiedt niet op voordracht van de raad van toezicht van de NOS.
 
@@ -446,7 +472,7 @@ De eerste benoeming van de leden van de raad van toezicht van de NOS op grond va
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. De NPO maakt voorafgaand aan de start van een experiment betreffende een aanbodkanaal als bedoeld in [artikel 2.21a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.21a) de uitvoering van dat experiment bekend.
 
@@ -458,7 +484,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - c. de duur en wijze van financiering van het experiment en de manier waarop het experiment wordt geëvalueerd.
 
-#### Artikel 1b
+##### Artikel 1b
 
 1. In de begroting, bedoeld in [artikel 2.147 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.147), wordt een beschrijving gegeven van:
 
@@ -468,7 +494,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. [Artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=1a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 1c
+##### Artikel 1c
 
 1. Een experiment is in duur beperkt tot een looptijd van maximaal een jaar, gerekend vanaf het tijdstip waarop het desbetreffende aanbodkanaal voor het publiek beschikbaar is.
 
@@ -476,7 +502,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Een experiment heeft een beperkt publieksbereik, tenzij dit niet mogelijk is vanwege technische omstandigheden of tot onevenredig hoge kosten leidt.
 
-#### Artikel 1d
+##### Artikel 1d
 
 1. De totale kosten voor de landelijke publieke mediadienst van experimenten in enig kalenderjaar bedragen niet meer dan 2 procent van het totaal van de budgetten, bedoeld in [artikel 2.149, eerste lid, onderdelen a tot en met d en f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.149).
 
@@ -500,7 +526,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Afdeling 5. Bekostiging publieke mediadiensten
 
-#### Artikel 16a
+##### Artikel 16a
 
 Omroeporganisaties die een erkenning of een voorlopige erkenning als bedoeld in [artikel 2.23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.23) hebben verkregen, kunnen netto inkomsten uit contributies en verenigingsactiviteiten als bedoeld in [artikel 2.136 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.136) tot een bedrag van € 1.500.000 reserveren voor die verenigingsactiviteiten.
 
@@ -538,11 +564,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 4. Evaluatiecriteria
 
-#### Artikel 3a
+##### Artikel 3a
 
 In deze paragraaf worden onder evaluatie en evaluatiecommissie verstaan de evaluatie onderscheidenlijk de evaluatie, bedoeld in [artikel 2.184 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.184), en de evaluatiecommissie, bedoeld in [artikel 2.185 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.185).
 
-#### Artikel 3b
+##### Artikel 3b
 
 1. Bij de evaluatie van elke afzonderlijke landelijke publieke media-instelling betrekt de evaluatiecommissie de wijze waarop deze instelling heeft bijgedragen aan de uitvoering van de publieke mediaopdracht door het aanbieden van media-aanbod dat:
 
@@ -562,7 +588,7 @@ In deze paragraaf worden onder evaluatie en evaluatiecommissie verstaan de evalu
 
 3. Bij de evaluatie, bedoeld in het eerste en tweede lid, betrekt de evaluatiecommissie de wijze waarop deze instelling heeft bijgedragen aan realisering van doelstellingen voor het media-aanbod en het publieksbereik van het concessiebeleidsplan, bedoeld in [artikel 2.20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.20), en van de prestatieovereenkomst, bedoeld in [artikel 2.22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.22).
 
-#### Artikel 3c
+##### Artikel 3c
 
 1. Bij de evaluatie van een afzonderlijke omroeporganisatie die een erkenning als bedoeld in [artikel 2.23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.23) heeft verkregen, betrekt de evaluatiecommissie voorts:
 
@@ -624,7 +650,7 @@ In deze paragraaf worden onder evaluatie en evaluatiecommissie verstaan de evalu
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 14b
+##### Artikel 14b
 
 Het percentage, bedoeld in [artikel 2.116, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.116) is 25.
 
@@ -648,7 +674,7 @@ Het percentage, bedoeld in [artikel 2.116, eerste lid, van de wet](https://wette
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 4a
+##### Artikel 4a
 
 Het totaalbudget, bedoeld in [artikel 2.170, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.170), wordt zodanig over de regionale publieke media-instellingen verdeeld dat aan de hieronder genoemde regionale publieke media-instellingen een bijdrage in de kosten wordt verstrekt waarvan de hoogte maximaal het achter de desbetreffende media-instelling vermelde percentage van het totaalbudget bedraagt:
 
@@ -668,7 +694,7 @@ Het totaalbudget, bedoeld in [artikel 2.170, eerste lid, van de wet](https://wet
 | Stichting Regionale Omroep Brabant | 11,739 |
 | Stichting Omroep Limburg | 7,890 |
 
-#### Artikel 4b
+##### Artikel 4b
 
 Bij ministeriële regeling worden regels gesteld over de inhoud, de inrichting en het tijdstip van indiening van een aanvraag voor een bijdrage als bedoeld in [artikel 2.170, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.170) en over de inhoud en inrichting van de begroting van een regionale publieke media-instelling.
 
@@ -700,7 +726,7 @@ Bij ministeriële regeling worden regels gesteld over de inhoud, de inrichting e
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Het aandeel reclame- en telewinkelboodschappen in het programma-aanbod van de landelijke publieke mediadienst bedraagt:
 
@@ -724,7 +750,7 @@ Het aandeel reclame- en telewinkelboodschappen in het programma-aanbod van de la
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
-#### Artikel 29c
+##### Artikel 29c
 
 Vervallen
 
@@ -736,7 +762,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 17a
+##### Artikel 17a
 
 1. Wanneer een reeds uitgevoerde investering als bedoeld in [artikel 3.29g, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29g) geen doorgang vindt, dient het geïnvesteerde of te investeren bedrag opnieuw te worden geïnvesteerd in Nederlands cultureel audiovisueel product als bedoeld in [artikel 3.29f](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29f), voor zover dit bedrag terugvalt aan de betreffende media-instelling.
 
@@ -744,7 +770,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Een media-instelling informeert het Commissariaat onverwijld over situaties als bedoeld in het eerste lid.
 
-#### Artikel 17b
+##### Artikel 17b
 
 Uit de volgende indicatoren kan worden opgemaakt of een commerciële mediadienst op aanvraag zich geheel of gedeeltelijk richt op publiek in Nederland:
 

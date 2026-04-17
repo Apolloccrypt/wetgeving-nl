@@ -1,13 +1,38 @@
 ---
 title: "Directe belastingen, internationale inlichtingenuitwisseling; Tsjechië"
 identifier: "BWBR0037183"
-categorie: "Belastingrecht"
-publicatiedatum: 2015-10-14
-laatste_update: 2015-10-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037183"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2015-10-14"
+last_updated: "2015-10-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037183"
+soort: "beleidsregel"
+stam_id: "13301583"
+version_id: "22776062"
+internal_id: "C32923471"
+label_id: "13269444"
+dtd_version: "2.0"
+original_entry_into_force: "2015-10-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037183/2015-10-14/0"
+intitule_bron: "Stcrt.2015-40401"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-11-09"
+intitule_published: "2015-11-17"
+intitule_in_force: "2015-11-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-40401"
+original_signed_date: "2015-11-09"
+original_published_date: "2015-11-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-40401"
+entry_into_force_date: "2015-10-14"
+jci_1_3: "jci1.3:c:BWBR0037183&z=2015-10-14&g=2015-10-14"
+jci_1_0: "1.0:c:BWBR0037183&g=2015-10-14"
+citeertitel_status: "redactioneel"
+signed_date: "2015-11-09"
+entry_into_force: "2015-10-14"
 ---
-
 # Directe belastingen, internationale inlichtingenuitwisseling; Tsjechië
 
 De staatssecretaris van Financiën maakt het volgende bekend.
@@ -32,7 +57,7 @@ And both Participants having the desire to improve and intensify mutual assistan
 
 Have agreed the following:
 
-#### Article 1. Competent authorities
+##### Article 1. Competent authorities
 
 1. For the application of this Arrangement the competent authorities are:
 
@@ -62,7 +87,7 @@ The Netherlands
 
 2. The Participants will inform each other by exchange of letters about the names and addresses of the authorized representatives and about any subsequent changes in these representatives.
 
-#### Article 2. Automatic exchange of information
+##### Article 2. Automatic exchange of information
 
 The competent authorities will automatically provide each other with information about:
 
@@ -78,23 +103,23 @@ The competent authorities will automatically provide each other with information
 
 - f. pensions (including public pensions), other similar remuneration, annuities and social security payments (OECD code 18).
 
-#### Article 3. Various provisions
+##### Article 3. Various provisions
 
 If the information provided is found to be incorrect or incomplete, the competent authorities will contact each other about this as soon as possible. The same will apply to technical problems or difficulties in converting the data provided.
 
-#### Article 4
+##### Article 4
 
 The information referred to in article 2 will be provided periodically and at least once per calendar year. Information with regard to a certain calendar year is provided instantly – if possible – and at any rate within six months after the end of the calendar year it relates to.
 
-#### Article 5
+##### Article 5
 
 The information referred to in article 2 will be provided electronically by CCN mail in the standard OECD format (latest version) or format agreed in accordance with the Directive. The information to be exchanged will also include tax identification numbers, names, dates of birth and addresses, if available.
 
-#### Article 6
+##### Article 6
 
 In case one of the competent authorities is not able to provide the information referred to in article 2 in an automatic way, the information may be provided spontaneously as well.
 
-#### Article 7. Simultaneous tax examinations
+##### Article 7. Simultaneous tax examinations
 
 1. To achieve more efficiency in the exchange of information and to deal more effectively with cases of tax avoidance or tax evasion the competent authorities may conduct simultaneous tax examinations of selected taxpayers, or groups of taxpayers, carrying on activities in both the Czech Republic and the Netherlands.
 
@@ -102,7 +127,7 @@ In case one of the competent authorities is not able to provide the information 
 
 2. For the procedures for case selection and examination procedures the EU MLC-guide will be followed.
 
-#### Article 8. Application and title
+##### Article 8. Application and title
 
 1. This Arrangement will take effect from the last date of signature and can be amended at any time after written agreement between the Participants.
 
@@ -110,11 +135,11 @@ In case one of the competent authorities is not able to provide the information 
 
 3. From the date of entry into force of this Arrangement, the Memorandum of Understanding between the Czech Republic and the Netherlands for the streamlining and intensification of mutual assistance in tax matters of 2006 will be repealed.
 
-#### Article 9
+##### Article 9
 
 The signatories decide to meet in order to review this Arrangement at the end of five years from the date of its coming into effect, unless they notify one another in writing that no review is necessary. However, at any time questions concerning revision may be taken up at the request of one of the signatories.
 
-#### Article 10
+##### Article 10
 
 This Arrangement may be referred to as ‘Arrangement between the Czech Republic and the Netherlands on the automatic exchange of information for tax purposes’.
 

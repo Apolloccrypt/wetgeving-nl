@@ -1,13 +1,35 @@
 ---
 title: "Regeling rechten betrokkenen bij de verwerking van persoonsgegevens van het Vervangingsfonds en Participatiefonds"
 identifier: "BWBR0040871"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2018-05-04
-laatste_update: 2018-05-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040871"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-05-04"
+last_updated: "2018-05-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040871"
+soort: "zbo"
+stam_id: "14598663"
+version_id: "24997782"
+internal_id: "C35754191"
+label_id: "14552374"
+dtd_version: "2.0"
+original_entry_into_force: "2018-05-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040871/2018-05-04/0"
+intitule_bron: "Stcrt.2018-24597"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-05-03"
+intitule_in_force: "2018-05-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-24597"
+original_published_date: "2018-05-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-24597"
+entry_into_force_date: "2018-05-04"
+jci_1_3: "jci1.3:c:BWBR0040871&z=2018-05-04&g=2018-05-04"
+jci_1_0: "1.0:c:BWBR0040871&g=2018-05-04"
+citeertitel_status: "officieel"
+entry_into_force: "2018-05-04"
 ---
-
 # Regeling rechten betrokkenen bij de verwerking van persoonsgegevens van het Vervangingsfonds en Participatiefonds
 
 Gelet op Hoofdstuk III, artikel 15 t/m 21 Algemene Verordening Gegevensbescherming;
@@ -16,7 +38,7 @@ Besluiten de volgende regeling vast te stellen:
 
 #### § 1. Definities
 
-#### Artikel 1. Definities en toepassingsbereik
+##### Artikel 1. Definities en toepassingsbereik
 
 1. Deze regeling is van toepassing op verzoeken om inzage in, rectificatie van, wissing van, beperking van, overdracht van en bezwaar tegen verwerking door het Vervangingsfonds en het Participatiefonds van persoonsgegevens in het kader van zijn (wettelijke) taken en alle bezwaren hieromtrent.
 
@@ -64,7 +86,7 @@ Besluiten de volgende regeling vast te stellen:
 
 #### § 2. Indiening en in behandeling neming verzoeken
 
-#### Artikel 2. Indiening van verzoeken
+##### Artikel 2. Indiening van verzoeken
 
 1. De betrokkene heeft het recht vrijelijk en met redelijke tussenpozen een schriftelijk of digitaal verzoek om inzage, rectificatie, wissing, beperking of overdracht van zijn persoonsgegevens in te dienen en/of bezwaar te maken tegen de verwerking van hem betreffende persoonsgegevens.
 
@@ -88,17 +110,17 @@ Besluiten de volgende regeling vast te stellen:
 
 5. Een verzoek als bedoeld in dit artikel wordt ingediend bij het bestuursbureau van het Vervangingsfonds dan wel het bestuursbureau van het Participatiefonds per gewone post of per e-mail.
 
-#### Artikel 3. Kosten van verzoeken
+##### Artikel 3. Kosten van verzoeken
 
 Aan een verzoek om inzage, rectificatie, wissing, beperking of overdracht alsmede aan het indienen van een bezwaar met betrekking tot de verwerking van persoonsgegevens zijn geen kosten verbonden. Wanneer verzoeken kennelijk ongegrond of buitensporig zijn, met name bij veelvuldige herhaling, kan het Vervangingsfonds dan wel het Participatiefonds een redelijke vergoeding vragen of weigeren aan het verzoek gevolg te geven.
 
-#### Artikel 4. Berichtgeving ontvangst en in behandeling neming
+##### Artikel 4. Berichtgeving ontvangst en in behandeling neming
 
 1. Binnen vijf werkdagen na ontvangst van een verzoek verstuurt het Vervangingsfonds dan wel het Participatiefonds een ontvangstbevestiging.
 
 2. De ontvangstbevestiging bevat tenminste de naam van een contactpersoon, een beschrijving van de procedure en de te verwachten behandelingsduur van het verzoek, alsmede – indien van toepassing – de mededeling als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040871&paragraaf=2&artikel=5&z=2018-05-04&g=2018-05-04).
 
-#### Artikel 5. Toets op in behandeling nemen
+##### Artikel 5. Toets op in behandeling nemen
 
 1. Het Vervangingsfonds dan wel het Participatiefonds betrekt bij de behandeling van een verzoek als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040871&paragraaf=2&artikel=2&z=2018-05-04&g=2018-05-04) slechts die verwerkingen waarvoor het is aan te merken als verwerkingsverantwoordelijke. Ingeval het Vervangingsfonds dan wel het Participatiefonds constateert dat het verzoek mede of uitsluitend betrekking heeft op gegevens die bij een ander bestuursorgaan als verwerkingsverantwoordelijke berusten, zendt het Vervangingsfonds dan wel het Participatiefonds het verzoek ter behandeling door naar dat andere bestuursorgaan. Verzoeker krijgt hiervan, onverminderd het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040871&paragraaf=3&artikel=6&z=2018-05-04&g=2018-05-04), bericht.
 
@@ -108,7 +130,7 @@ Aan een verzoek om inzage, rectificatie, wissing, beperking of overdracht alsmed
 
 #### § 3. Procedure uitvoering verzoeken
 
-#### Artikel 6. Behandeling van verzoeken
+##### Artikel 6. Behandeling van verzoeken
 
 1. Namens de verantwoordelijk manager van het organisatieonderdeel waarop het verzoek betrekking heeft wordt zorggedragen voor afhandeling van een verzoek als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040871&paragraaf=2&artikel=2&z=2018-05-04&g=2018-05-04).
 
@@ -116,7 +138,7 @@ Aan een verzoek om inzage, rectificatie, wissing, beperking of overdracht alsmed
 
 3. Indien voor het in behandeling nemen van het verzoek ook andere onderdelen van het Vervangingsfonds dan wel het Participatiefonds moeten worden ingeschakeld, zet de verantwoordelijk manager hiertoe de nodige stappen en coördineert hij de uitvoering van het verzoek.
 
-#### Artikel 7. Verzoek om inzage
+##### Artikel 7. Verzoek om inzage
 
 1. Het Vervangingsfonds dan wel het Participatiefonds deelt verzoeker schriftelijk binnen vier weken na ontvangst van een verzoek dat voldoet aan het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040871&paragraaf=2&artikel=2&z=2018-05-04&g=2018-05-04) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040871&paragraaf=2&artikel=5&z=2018-05-04&g=2018-05-04), mee of het Vervangingsfonds dan wel het Participatiefonds persoonsgegevens over de betrokkene verwerkt en of dan wel in hoeverre het verzoek om inzage wordt ingewilligd.
 
@@ -146,13 +168,13 @@ Aan een verzoek om inzage, rectificatie, wissing, beperking of overdracht alsmed
 
 4. De beslissing tot gehele of gedeeltelijke afwijzing van het verzoek om inzage vermeldt op welke gronden een beperking of afwijzing van de inzage heeft plaatsgevonden.
 
-#### Artikel 8. Verzoek om correctie-/rectificatie
+##### Artikel 8. Verzoek om correctie-/rectificatie
 
 1. Het Vervangingsfonds dan wel het Participatiefonds kan een verzoek om correctie/rectificatie slechts honoreren voor zover de opgenomen gegevens feitelijk onjuist zijn of voor het doel of doeleinden van de verwerking onvolledig of niet ter zake dienend dan wel anderszins in strijd met een wettelijk voorschrift zijn verwerkt. Een verzoek om rectificatie in verband met onvolledigheid van de gegevens kan door het Vervangingsfonds dan wel het Participatiefonds onder meer worden uitgevoerd op basis van een door betrokkene verstrekte aanvullende verklaring.
 
 2. Het Vervangingsfonds dan wel het Participatiefonds deelt betrokkene schriftelijk binnen vier weken na ontvangst van het verzoek mee of dan wel in hoeverre aan het verzoek om correctie wordt voldaan. Een weigering is met redenen omkleed.
 
-#### Artikel 9. Verzoek om wissing
+##### Artikel 9. Verzoek om wissing
 
 1. Het Vervangingsfonds dan wel het Participatiefonds zal een verzoek om gegevenswissing slechts honoreren indien één van de volgende gevallen van toepassing is:
 
@@ -182,7 +204,7 @@ Aan een verzoek om inzage, rectificatie, wissing, beperking of overdracht alsmed
 
 - e. voor de instelling, uitoefening of onderbouwing van een rechtsvordering.
 
-#### Artikel 10. Verzoek om beperking
+##### Artikel 10. Verzoek om beperking
 
 1. Het Vervangingsfonds dan wel het Participatiefonds komt tegemoet aan een verzoek om beperking van de persoonsgegevens indien één van de volgende gevallen van toepassing is:
 
@@ -198,13 +220,13 @@ Aan een verzoek om inzage, rectificatie, wissing, beperking of overdracht alsmed
 
 3. Het Vervangingsfonds dan wel het Participatiefonds brengt de betrokkene op de hoogte wanneer de beperking van de verwerking wordt opgeheven.
 
-#### Artikel 11. Kennisgevingsplicht inzake rectificatie of wissing van persoonsgegevens of verwerkingsbeperking
+##### Artikel 11. Kennisgevingsplicht inzake rectificatie of wissing van persoonsgegevens of verwerkingsbeperking
 
 1. Het Vervangingsfonds dan wel het Participatiefonds stelt iedere ontvanger aan wie persoonsgegevens zijn verstrekt, in kennis van elke rectificatie of wissing van persoonsgegevens of beperking van de verwerking, tenzij dit onmogelijk blijkt of onevenredig veel inspanning vergt.
 
 2. Het Vervangingsfonds dan wel het Participatiefonds verstrekt de betrokkene informatie over deze ontvangers indien de betrokkene hierom verzoekt.
 
-#### Artikel 12. Verzoek om overdraagbaarheid van gegevens (dataportabiliteit)
+##### Artikel 12. Verzoek om overdraagbaarheid van gegevens (dataportabiliteit)
 
 1. De verzoeker heeft het recht de hem betreffende persoonsgegevens die hij aan het Vervangingsfonds dan wel het Participatiefonds heeft verstrekt en geautomatiseerd worden verwerkt, in een gestructureerde, gangbare en machineleesbare vorm te verkrijgen en aan een andere verwerkingsverantwoordelijk over te laten dragen, zonder daarbij te worden gehinderd door het Vervangingsfonds dan wel het Participatiefonds, in de volgende gevallen:
 
@@ -218,7 +240,7 @@ Aan een verzoek om inzage, rectificatie, wissing, beperking of overdracht alsmed
 
 4. Het in het eerste lid bedoelde recht doet geen afbreuk aan de rechten en vrijheden van anderen.
 
-#### Artikel 13. Recht van bezwaar
+##### Artikel 13. Recht van bezwaar
 
 1. De betrokkene heeft te allen tijde het recht om bezwaar te maken tegen de verwerking van zijn persoonsgegevens, met inbegrip van profilering, indien de verwerking is gebaseerd op de vervulling van een taak van algemeen belang of in het kader van de uitoefening van het openbaar gezag, dan wel op grond van de gerechtvaardigde belangen van het Vervangingsfonds dan wel het Participatiefonds.
 
@@ -232,7 +254,7 @@ Aan een verzoek om inzage, rectificatie, wissing, beperking of overdracht alsmed
 
 6. Wanneer persoonsgegevens overeenkomstig artikel 89, eerste lid, van de AVG met het oog op wetenschappelijk of historisch onderzoek of statistische doeleinden worden verwerkt, heeft de betrokkene het recht om bezwaar te maken tegen de verwerking van hem betreffende persoonsgegevens, tenzij de verwerking noodzakelijk is voor de uitvoering van een taak van algemeen belang.
 
-#### Artikel 14. Recht om niet te worden onderworpen aan profilering
+##### Artikel 14. Recht om niet te worden onderworpen aan profilering
 
 1. De betrokkene heeft het recht niet te worden onderworpen aan een uitsluitend op geautomatiseerde verwerking, waaronder profilering, gebaseerd besluit waaraan voor hem rechtsgevolgen zijn verbonden of dat hem anderszins in aanzienlijke mate treft.
 
@@ -250,7 +272,7 @@ Aan een verzoek om inzage, rectificatie, wissing, beperking of overdracht alsmed
 
 #### § 4. Beperkingen
 
-#### Artikel 15. Beperkingen
+##### Artikel 15. Beperkingen
 
 De reikwijdte van de verplichting van het Vervangingsfonds dan wel het Participatiefonds om te voldoen aan een verzoek als bedoeld in de [artikelen 7 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040871&paragraaf=3&artikel=7&z=2018-05-04&g=2018-05-04) kan op grond van artikel 23 van de AVG worden beperkt door middel van Unierechtelijke of lidstaatrechtelijke bepalingen, ter waarborging van bijzondere belangen, waaronder:
 
@@ -276,14 +298,14 @@ De reikwijdte van de verplichting van het Vervangingsfonds dan wel het Participa
 
 #### § 5. Slotbepalingen
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling kan worden aangehaald als ‘Regeling rechten betrokkenen bij de verwerking van persoonsgegevens van het Vervangingsfonds en Participatiefonds’.
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na publicatie daarvan in de Staatscourant.
 
-#### Artikel 18. Intrekken voorgaande regeling
+##### Artikel 18. Intrekken voorgaande regeling
 
 De [Regeling inzage- en correctierecht Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs en Stichting Participatiefonds voor het Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0038886) wordt ingetrokken met ingang van de dag dat deze regeling in werking treedt.

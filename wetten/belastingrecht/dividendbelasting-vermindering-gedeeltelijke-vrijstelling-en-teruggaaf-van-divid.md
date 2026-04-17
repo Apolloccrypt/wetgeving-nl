@@ -1,13 +1,38 @@
 ---
 title: "Dividendbelasting, vermindering, (gedeeltelijke) vrijstelling en teruggaaf van dividendbelasting"
 identifier: "BWBR0040766"
-categorie: "Belastingrecht"
-publicatiedatum: 2023-10-10
-laatste_update: 2023-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040766"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-10-10"
+last_updated: "2023-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040766"
+soort: "beleidsregel"
+stam_id: "14579833"
+version_id: "29659912"
+internal_id: "C42447231"
+label_id: "14533824"
+dtd_version: "2.0"
+original_entry_into_force: "2023-09-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040766/2023-10-10/0"
+intitule_bron: "Stcrt.2018-17300"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-02-22"
+intitule_published: "2018-03-28"
+intitule_in_force: "2018-03-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-26401"
+original_signed_date: "2023-09-18"
+original_published_date: "2023-10-09"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-26401"
+entry_into_force_date: "2023-09-18"
+jci_1_3: "jci1.3:c:BWBR0040766&z=2023-10-10&g=2023-10-10"
+jci_1_0: "1.0:c:BWBR0040766&g=2023-10-10"
+citeertitel_status: "redactioneel"
+signed_date: "2023-09-18"
+entry_into_force: "2023-09-18"
 ---
-
 # Dividendbelasting, vermindering, (gedeeltelijke) vrijstelling en teruggaaf van dividendbelasting
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken"
 identifier: "BWBV0004663"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1998-12-01
-laatste_update: 1998-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004663"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-12-01"
+last_updated: "1998-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004663"
+soort: "verdrag"
+stam_id: "10004248183"
+version_id: "10004436212"
+internal_id: "C10006985941"
+label_id: "10004234014"
+dtd_version: "2.0"
+original_entry_into_force: "1973-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004663/1998-12-01/0"
+intitule_bron: "Trb.1969-101"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1969-07-11"
+intitule_in_force: "1973-01-12"
+intitule_status: "goed"
+original_publication: "Trb.1969-101"
+original_published_date: "1969-07-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1969-101"
+entry_into_force_date: "1973-02-01"
+jci_1_3: "jci1.3:c:BWBV0004663&z=1998-12-01&g=1998-12-01"
+jci_1_0: "1.0:c:BWBV0004663&g=1998-12-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1973-02-01"
 ---
-
 # Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken
 
 **Preambule**
@@ -50,7 +72,7 @@ Die, in het kader van de Raad bijeen, na overlegging van hun in goede en behoorl
 
 ## TITEL I. Toepassingsgebied
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit verdrag wordt toegepast in burgerlijke en handelszaken, ongeacht de aard van het gerecht, waarvoor deze zaken zich afspelen.
 
@@ -70,13 +92,13 @@ Het heeft inzonderheid geen betrekking op fiscale zaken, douanezaken of administ
 
 ### AFDELING 1. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onverminderd de bepalingen van dit verdrag worden zij, die woonplaats hebben op het grondgebied van een verdragsluitende Staat, ongeacht hun nationaliteit, opgeroepen voor de gerechten van die Staat.
 
 2. Voor degenen die niet de nationaliteit bezitten van de Staat, waar zij woonplaats hebben, gelden de regels van rechterlijke bevoegdheid, die op de eigen onderdanen van die Staat van toepassing zijn.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Degenen die op het grondgebied van een verdragsluitende Staat woonplaats hebben, kunnen niet voor de rechter van een andere verdragsluitende Staat worden opgeroepen dan krachtens de in de afdelingen 2 tot en met 6 gegeven regels.
 
@@ -116,7 +138,7 @@ Het heeft inzonderheid geen betrekking op fiscale zaken, douanezaken of administ
 
 - c). het beslag door de eiser gelegd op goederen die zich in het Verenigd Koninkrijk bevinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien de verweerder geen woonplaats heeft op het grondgebied van een verdragsluitende Staat, wordt de bevoegdheid in elke verdragsluitende Staat geregeld door de wetgeving van die Staat, onverminderd de toepassing van het bepaalde in artikel 16.
 
@@ -124,7 +146,7 @@ Tegen deze verweerder kan ieder, ongeacht zijn nationaliteit, die op het grondge
 
 ### AFDELING 2. Bijzondere bevoegdheid
 
-#### Artikel 5
+##### Artikel 5
 
 De verweerder, die zijn woonplaats heeft op het grondgebied van een verdragsluitende Staat, kan in een andere verdragsluitende Staat voor de navolgende gerechten worden opgeroepen:
 
@@ -146,7 +168,7 @@ De verweerder, die zijn woonplaats heeft op het grondgebied van een verdragsluit
 
 - b). daartoe beslag had kunnen worden gelegd, maar borgtocht of andere zekerheid is gesteld;
 
-#### Artikel 6
+##### Artikel 6
 
 Deze verweerder kan ook worden opgeroepen:
 
@@ -158,17 +180,17 @@ Deze verweerder kan ook worden opgeroepen:
 
 - 4. ten aanzien van een verbintenis uit overeenkomst, indien de vordering vergezeld kan gaan van een zakelijke vordering betreffende een onroerend goed tegen dezelfde verweerder: voor de gerechten van de Verdragsluitende Staat waarin het onroerend goed gelegen is.
 
-#### Artikel 6 bis
+##### Artikel 6 bis
 
 Wanneer een gerecht van een verdragsluitende Staat uit hoofde van dit Verdrag bevoegd is kennis te nemen van vorderingen ter zake van aansprakelijkheid voortvloeiend uit het gebruik of de exploitatie van een schip, neemt dit gerecht, of elk ander gerecht dat volgens het nationale recht van deze Staat in zijn plaats treedt, tevens kennis van de vorderingen tot beperking van deze aansprakelijkheid.
 
 ### AFDELING 3. Bevoegdheid in verzekeringszaken
 
-#### Artikel 7
+##### Artikel 7
 
 De bevoegdheid in verzekeringszaken is in deze afdeling geregeld, onverminderd het bepaalde in de artikelen 4 en 5, n° 5.
 
-#### Artikel 8
+##### Artikel 8
 
 De verzekeraar met woonplaats op het grondgebied van een verdragsluitende Staat kan worden opgeroepen:
 
@@ -180,11 +202,11 @@ De verzekeraar met woonplaats op het grondgebied van een verdragsluitende Staat 
 
 Wanneer de verzekeraar geen woonplaats heeft op het grondgebied van een verdragsluitende Staat, maar in een verdragsluitende Staat een filiaal, een agentschap of enige andere vestiging heeft, wordt hij voor de geschillen betreffende de exploitatie daarvan geacht woonplaats te hebben op het grondgebied van die Staat.
 
-#### Artikel 9
+##### Artikel 9
 
 De verzekeraar kan bovendien worden opgeroepen voor het gerecht van de plaats waar het schadebrengende feit zich heeft voorgedaan, indien het geschil een aansprakelijkheidsverzekering of een verzekering welke betrekking heeft op onroerende goederen. Hetzelfde geldt voor het geval dat de verzekering zowel betrekking heeft op onroerende als op roerende goederen welke door een zelfde polis zijn gedekt en door hetzelfde onheil zijn getroffen.
 
-#### Artikel 10
+##### Artikel 10
 
 Ter zake van aansprakelijkheidsverzekering kan de verzekeraar eveneens in vrijwaring worden opgeroepen voor het gerecht waar de rechtsvordering van de getroffene tegen de verzekerde aanhangig is, indien de voor dit gerecht geldende wetgeving het toelaat.
 
@@ -192,13 +214,13 @@ De artikelen 7, 8 en 9 zijn van toepassing op de vordering welke door de getroff
 
 Indien de wettelijke bepalingen betreffende deze rechtstreekse vordering het in het geding roepen van de verzekeringnemer of de verzekerde regelen, is hetzelfde gerecht ook te hunnen opzichte bevoegd.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onverminderd het bepaalde in artikel 10, lid 3, kan de vordering van de verzekeraar slechts worden gebracht voor de gerechten van de Staat, op het grondgebied waarvan de verweerder woonplaats heeft, ongeacht of deze laatste verzekeringnemer, verzekerde of begunstigde is.
 
 2. De bepalingen van deze afdeling laten het recht om een tegeneis in te stellen bij het gerecht, voor hetwelk met inachtneming van deze afdeling de oorspronkelijke eis is gebracht, onverlet.
 
-#### Artikel 12
+##### Artikel 12
 
 Van de bepalingen van deze afdeling kan slechts worden afgeweken door overeenkomsten:
 
@@ -212,7 +234,7 @@ Van de bepalingen van deze afdeling kan slechts worden afgeweken door overeenkom
 
 - 5°. - die betrekking hebben op een verzekeringsovereenkomst, voor zover daarmee een of meer van de risico's bedoeld in artikel 12 bis worden gedekt.
 
-#### Artikel 12 bis
+##### Artikel 12 bis
 
 De in artikel 12, No. 5, bedoelde risico's zijn de volgende:
 
@@ -234,7 +256,7 @@ De in artikel 12, No. 5, bedoelde risico's zijn de volgende:
 
 ### Afdeling 4. Bevoegdheid inzake door consumenten gesloten overeenkomsten
 
-#### Artikel 13
+##### Artikel 13
 
 Ter zake van overeenkomsten gesloten door een persoon voor een gebruik dat als niet bedrijfs- of beroepsmatig kan worden beschouwd, hierna te noemen de consument, wordt de bevoegdheid geregeld door deze afdeling, onverminderd het bepaalde in de artikelen 4 en 5, No. 5,
 
@@ -252,7 +274,7 @@ Wanneer de wederpartij van de consument geen woonplaats heeft op het grondgebied
 
 Deze afdeling is niet van toepassing op de vervoerovereenkomst.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De rechtsvordering die door een consument wordt ingesteld tegen de wederpartij bij de overeenkomst kan worden gebracht hetzij voor de gerechten van de verdragsluitende Staat op het grondgebied waarvan die partij woonplaats heeft, hetzij voor de gerechten van de verdragsluitende Staat op het grondgebied waarvan de consument woonplaats heeft.
 
@@ -260,7 +282,7 @@ Deze afdeling is niet van toepassing op de vervoerovereenkomst.
 
 3. Deze bepalingen laten het recht om een tegeneis in te stellen bij het gerecht, waarvoor met inachtneming van deze afdeling de oorspronkelijke eis is gebracht, onverlet.
 
-#### Artikel 15
+##### Artikel 15
 
 Van de bepalingen van deze afdeling kan slechts worden afgeweken door overeenkomsten:
 
@@ -272,7 +294,7 @@ Van de bepalingen van deze afdeling kan slechts worden afgeweken door overeenkom
 
 ### AFDELING 5. Exclusieve bevoegdheden
 
-#### Artikel 16
+##### Artikel 16
 
 Ongeacht de woonplaats zijn bij uitsluiting bevoegd:
 
@@ -292,7 +314,7 @@ Ongeacht de woonplaats zijn bij uitsluiting bevoegd:
 
 ### AFDELING 6. Door partijen aangewezen bevoegde rechter
 
-#### Artikel 17
+##### Artikel 17
 
 1. Wanneer de partijen, van wie er ten minste één woonplaats heeft op het grondgebied van een Verdragsluitende Staat, een gerecht of de gerechten van een Verdragsluitende Staat hebben aangewezen voor de kennisneming van geschillen welke naar aanleiding van een bepaalde rechtsbetrekking zijn ontstaan of zullen ontstaan, is dit gerecht of zijn de gerechten van die Staat bij uitsluiting bevoegd. Deze overeenkomst tot aanwijzing van een bevoegde rechter dient te worden gesloten:
 
@@ -312,17 +334,17 @@ Wanneer een dergelijke overeenkomst wordt gesloten door partijen die geen van al
 
 5. Ten aanzien van geschillen inzake individuele arbeidsovereenkomsten heeft de overeenkomst tot aanwijzing van een bevoegde rechter alleen gevolg indien deze laatste overeenkomst is gesloten na het ontstaan van het geschil of indien de werknemer zich daarop beroept om andere gerechten aan te zoeken dan dat van de woonplaats van de verweerder of het in artikel 5, punt 1, bedoelde gerecht.
 
-#### Artikel 18
+##### Artikel 18
 
 Buiten de gevallen waarin zijn bevoegdheid voortvloeit uit andere bepalingen van dit verdrag, is de rechter van een verdragsluitende Staat, voor wie de verweerder verschijnt, bevoegd. Dit voorschrift is niet van toepassing indien de verschijning uitsluitend ten doel heeft de bevoegdheid te betwisten, of indien er een ander gerecht bestaat dat krachtens artikel 16 bij uitsluiting bevoegd is.
 
 ### AFDELING 7. Toetsing van de bevoegdheid en de ontvankelijkheid
 
-#### Artikel 19
+##### Artikel 19
 
 De rechter van een verdragsluitende Staat bij wie een geschil aanhangig is gemaakt met als inzet een vordering waarvoor krachtens artikel 16 een gerecht van een andere verdragsluitende Staat bij uitsluiting bevoegd is, verklaart zich ambtshalve onbevoegd.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Wanneer de verweerder met woonplaats op het grondgebied van een verdragsluitende Staat voor een gerecht van een andere verdragsluitende Staat wordt opgeroepen en niet verschijnt, verklaart de rechter zich ambtshalve onbevoegd indien zijn bevoegdheid niet berust op de bepalingen van dit verdrag.
 
@@ -332,13 +354,13 @@ De rechter van een verdragsluitende Staat bij wie een geschil aanhangig is gemaa
 
 ### AFDELING 8. Aanhangigheid en samenhang
 
-#### Artikel 21
+##### Artikel 21
 
 Wanneer voor gerechten van verschillende Verdragsluitende Staten tussen dezelfde partijen vorderingen aanhangig zijn, welke hetzelfde onderwerp betreffen en op dezelfde oorzaak berusten, houdt het gerecht waarbij de zaak het laatst is aangebracht zijn uitspraak ambtshalve aan totdat de bevoegdheid van het gerecht waarbij de zaak het eerst is aangebracht, vaststaat.
 
 Wanneer de bevoegdheid van het gerecht waarbij de zaak het eerst is aangebracht, vaststaat, verklaart het gerecht waarbij de zaak het laatst is aangebracht, zich onbevoegd.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Wanneer samenhangende vorderingen bij gerechten van verschillende verdragsluitende Staten zijn aangebracht en in eerste aanleg aanhangig zijn, kan het gerecht bij hetwelk de zaak het laatst is aangebracht, zijn uitspraak aanhouden.
 
@@ -346,25 +368,25 @@ Wanneer de bevoegdheid van het gerecht waarbij de zaak het eerst is aangebracht,
 
 3. Samenhangend in de zin van dit artikel zijn vorderingen waartussen een zodanig nauwe band bestaat dat een goede rechtsbedeling vraagt om hun gelijktijdige behandeling en berechting, ten einde te vermijden dat bij afzonderlijke berechting van de zaken onverenigbare uitspraken worden gegeven.
 
-#### Artikel 23
+##### Artikel 23
 
 Wanneer ten aanzien van de vorderingen meer dan een gerecht bij uitsluiting bevoegd is, worden partijen verwezen naar het gerecht waarbij de zaak het eerst aanhangig is gemaakt.
 
 ### AFDELING 9. Voorlopige maatregelen en maatregelen tot bewaring van recht
 
-#### Artikel 24
+##### Artikel 24
 
 In de wetgeving van een verdragsluitende Staat voorziene voorlopige of bewarende maatregelen kunnen bij de rechterlijke autoriteiten van die Staat worden aangevraagd, zelfs indien een gerecht van een andere verdragsluitende Staat krachtens dit verdrag bevoegd is van het bodemgeschil kennis te nemen.
 
 ## TITEL III. Erkenning en tenuitvoerlegging
 
-#### Artikel 25
+##### Artikel 25
 
 Onder beslissing in de zin van dit verdrag wordt verstaan, elke door een gerecht van een verdragsluitende Staat gegeven beslissing, ongeacht de daaraan gegeven benaming, zoals arrest, vonnis, beschikking of rechterlijk dwangbevel, alsmede de vaststelling door de griffier van het bedrag der proceskosten.
 
 ### AFDELING 1. Erkenning
 
-#### Artikel 26
+##### Artikel 26
 
 De in een verdragsluitende Staat gegeven beslissingen worden in de overige verdragsluitende Staten erkend zonder vorm van proces.
 
@@ -372,7 +394,7 @@ Indien tegen de erkenning van een beslissing bezwaar wordt gemaakt, kan iedere p
 
 Wordt ten overstaan van een gerecht van een verdragsluitende Staat de erkenning bij wege van tussenvordering gevraagd, dan is dit gerecht bevoegd om van de vordering kennis te nemen.
 
-#### Artikel 27
+##### Artikel 27
 
 Beslissingen worden niet erkend:
 
@@ -386,7 +408,7 @@ Beslissingen worden niet erkend:
 
 - 5. indien de beslissing onverenigbaar is met een beslissing die vroeger in een niet bij het Verdrag partij zijnde Staat tussen dezelfde partijen is gegeven in een geschil dat hetzelfde onderwerp betreft en op dezelfde oorzaak berust, mits deze laatste beslissing voldoet aan de voorwaarden voor erkenning in de aangezochte Staat.
 
-#### Artikel 28
+##### Artikel 28
 
 De beslissingen worden eveneens niet erkend, indien de bepalingen van de afdelingen 3, 4 en 5 van de Tweede Titel zijn geschonden, alsook indien het in artikel 59 bedoelde geval zich voordoet.
 
@@ -394,11 +416,11 @@ Bij de toetsing of de in het vorige lid genoemde bevoegdheidsregels niet zijn ge
 
 Onverminderd het bepaalde in het eerste lid, mag de bevoegdheid van de gerechten van de Staat van herkomst niet worden getoetst; de bevoegdheidsregels betreffen niet de openbare orde als bedoeld in artikel 27, No. 1.
 
-#### Artikel 29
+##### Artikel 29
 
 In geen geval wordt overgegaan tot een onderzoek van de juistheid van de in den vreemde gegeven beslissing.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De rechterlijke autoriteit van een verdragsluitende Staat, bij wie de erkenning van een in een andere verdragsluitende Staat gegeven beslissing wordt ingeroepen, kan zijn uitspraak aanhouden, indien tegen deze beslissing een rechtsmiddel is aangewend.
 
@@ -406,13 +428,13 @@ In geen geval wordt overgegaan tot een onderzoek van de juistheid van de in den 
 
 ### AFDELING 2. Tenuitvoerlegging
 
-#### Artikel 31
+##### Artikel 31
 
 1. De beslissingen die in een Verdragsluitende Staat gegeven zijn en daar uitvoerbaar zijn, kunnen in een andere Verdragsluitende Staat ten uitvoer worden gelegd, nadat zij aldaar, ten verzoeke van iedere belanghebbende partij, uitvoerbaar zijn verklaard.
 
 2. In het Verenigd Koninkrijk worden deze beslissingen in Engeland en Wales, in Schotland of in Noord-Ierland echter eerst ten uitvoer gelegd na ten verzoeke van iedere belanghebbende partij in het betrokken deel van het Verenigd Koninkrijk voor tenuitvoerlegging te zijn geregistreerd.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Het verzoek wordt gericht:
 
@@ -454,7 +476,7 @@ In geen geval wordt overgegaan tot een onderzoek van de juistheid van de in den 
 
 2. Het relatief bevoegde gerecht is dat van de woonplaats van de partij tegen wie de tenuitvoerlegging wordt gevraagd. Indien deze partij geen woonplaats heeft in de aangezochte Staat, wordt de bevoegdheid bepaald door de plaats van tenuitvoerlegging.
 
-#### Artikel 33
+##### Artikel 33
 
 De vereisten waaraan het verzoek moet voldoen, worden vastgesteld door de wet van de aangezochte Staat.
 
@@ -462,7 +484,7 @@ De verzoeker moet, binnen het rechtsgebied van het gerecht dat van het verzoek k
 
 Bij het verzoek worden gevoegd de in de artikelen 46 en 47 genoemde documenten.
 
-#### Artikel 34
+##### Artikel 34
 
 Het gerecht, tot hetwelk het verzoek is gericht, doet onverwijld uitspraak; de partij tegen wie de tenuitvoerlegging wordt gevraagd, wordt in deze stand van de procedure niet gehoord.
 
@@ -470,17 +492,17 @@ Het verzoek kan slechts om een van de in de artikelen 27 en 28 genoemde redenen 
 
 In geen geval wordt overgegaan tot een onderzoek van de juistheid van de in den vreemde gegeven beslissing.
 
-#### Artikel 35
+##### Artikel 35
 
 De op het verzoek gegeven beslissing wordt door bemiddeling van de griffier onverwijld ter kennis van de verzoeker gebracht op de wijze als is bepaald in de wetgeving van de aangezochte Staat.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Indien de tenuitvoerlegging wordt toegestaan kan de partij tegen wie de tenuitvoerlegging wordt gevraagd binnen één maand na de betekening van de beslissing daartegen verzet doen.
 
 2. Indien deze partij woonplaats heeft in een andere verdragsluitende Staat dan die waar de beslissing houdende verlof tot tenuitvoerlegging is gegeven, beloopt de termijn twee maanden en vangt hij aan op de dag dat de beslissing aan de partij in persoon of aan haar woonplaats is betekend. Deze termijn mag niet op grond van de afstand worden verlengd.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Het verzet wordt volgens de regels van de procedure op tegenspraak gebracht:
 
@@ -540,7 +562,7 @@ De op het verzoek gegeven beslissing wordt door bemiddeling van de griffier onve
 
 - -. in het Verenigd Koninkrijk slechts in één hogere instantie het rechtsmiddel van beroep over een rechtsvraag worden aangewend.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Het gerecht dat over het verzet oordeelt kan op verzoek van de partij, die het verzet heeft gedaan, zijn uitspraak aanhouden indien tegen de in den vreemde gegeven beslissing in de Staat van herkomst een gewoon rechtsmiddel is aangewend of indien de termijn daarvoor nog niet is verstreken; in dit laatste geval kan het gerecht een termijn stellen binnen welke het rechtsmiddel moet worden aangewend.
 
@@ -548,13 +570,13 @@ De op het verzoek gegeven beslissing wordt door bemiddeling van de griffier onve
 
 3. Dit gerecht kan het verlof tot tenuitvoerlegging ook geven op voorwaarde dat zekerheid wordt gesteld; de zekerheid wordt door het gerecht omschreven.
 
-#### Artikel 39
+##### Artikel 39
 
 Gedurende de termijn van verzet, bedoeld in artikel 36, en tot het tijdstip dat daarover uitspraak is gedaan, kunnen slechts bewarende maatregelen worden genomen ten aanzien van de goederen van de partij tegen wie de tenuitvoerlegging is gevraagd.
 
 De beslissing waarbij de tenuitvoerlegging wordt toegestaan houdt tevens het verlof in deze maatregelen te treffen.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Indien zijn verzoek is afgewezen kan de verzoeker daartegen beroep instellen:
 
@@ -596,7 +618,7 @@ De beslissing waarbij de tenuitvoerlegging wordt toegestaan houdt tevens het ver
 
 2. De partij tegen wie de tenuitvoerlegging is gevraagd wordt opgeroepen te verschijnen voor het gerecht bij hetwelk het beroep is ingesteld. In geval van verstek zijn de bepalingen van artikel 20, tweede en derde lid, van toepassing, ook wanneer deze partij geen woonplaats heeft op het grondgebied van een der verdragsluitende Staten.
 
-#### Artikel 41
+##### Artikel 41
 
 Tegen de beslissing waarbij over het beroep, bedoeld in artikel 40, uitspraak wordt gedaan, kan
 
@@ -618,29 +640,29 @@ Tegen de beslissing waarbij over het beroep, bedoeld in artikel 40, uitspraak wo
 
 - -. in het Verenigd Koninkrijk slechts in één hogere instantie het rechtsmiddel van beroep over een rechtsvraag worden aangewend.
 
-#### Artikel 42
+##### Artikel 42
 
 Wanneer in de in den vreemde gegeven beslissing uitspraak is gedaan over meer dan een punt van de eis, en de tenuitvoerlegging niet voor het geheel kan worden toegestaan, staat de rechterlijke autoriteit de tenuitvoerlegging toe voor één of meer onderdelen daarvan.
 
 De verzoeker kan vorderen dat het verlof tot tenuitvoerlegging een gedeelte van de uitspraak betreft.
 
-#### Artikel 43
+##### Artikel 43
 
 In den vreemde gegeven beslissingen die een veroordeling tot een dwangsom inhouden, kunnen in de aangezochte Staat slechts ten uitvoer worden gelegd indien het bedrag ervan door de gerechten van de Staat van herkomst is bepaald.
 
-#### Artikel 44
+##### Artikel 44
 
 1. De verzoeker die in de Staat waar de beslissing is gegeven in aanmerking kwam voor gehele of gedeeltelijke kosteloze rechtsbijstand of vrijstelling van kosten en uitgaven, komt in de procedure vermeld in de artikelen 32 tot en met 35 in aanmerking voor de meest gunstige bijstand of voor de meest ruime vrijstelling voorzien in het recht van de aangezochte Staat.
 
 2. De verzoeker die tenuitvoerlegging van een in Denemarken door een administratieve autoriteit gegeven beslissing inzake onderhoudsverplichtingen vraagt, kan in de aangezochte Staat een beroep doen op het in het eerste lid bedoelde voorrecht, indien hij een door het Deense Ministerie van Justitie afgegeven verklaring overlegt ten bewijze van het feit dat hij voldoet aan de economische voorwaarden om hem geheel of gedeeltelijk voor kosteloze rechtsbijstand of vrijstelling van kosten en uitgaven in aanmerking te doen komen.
 
-#### Artikel 45
+##### Artikel 45
 
 Aan de partij die in een verdragsluitende Staat de tenuitvoerlegging vraagt van een in een andere verdragsluitende Staat gegeven beslissing, kan geen enkele zekerheid of depot, onder welke benaming ook, worden opgelegd wegens de hoedanigheid van vreemdeling dan wel wegens het ontbreken van een woonplaats of verblijfplaats in eerstgenoemde Staat.
 
 ### AFDELING 3. Gemeenschappelijke bepalingen
 
-#### Artikel 46
+##### Artikel 46
 
 De partij die de erkenning inroept, of de tenuitvoerlegging verzoekt van een beslissing moet overleggen:
 
@@ -648,7 +670,7 @@ De partij die de erkenning inroept, of de tenuitvoerlegging verzoekt van een bes
 
 - 2. indien de beslissing bij verstek gewezen is, het origineel of een voor eensluidend gewaarmerkt afschrift van het document waaruit blijkt dat het stuk dat het geding heeft ingeleid of een gelijkwaardig stuk aan de niet verschenen partij is betekend of is medegedeeld.
 
-#### Artikel 47
+##### Artikel 47
 
 De partij die de tenuitvoerlegging verzoekt moet bovendien overleggen:
 
@@ -656,19 +678,19 @@ De partij die de tenuitvoerlegging verzoekt moet bovendien overleggen:
 
 - 2. voor zoveel nodig, een document waaruit blijkt dat de verzoeker in de Staat van herkomst vergunning heeft verkregen om kosteloos of tegen verminderd tarief te procederen.
 
-#### Artikel 48
+##### Artikel 48
 
 Bij gebreke van overlegging van de in de artikelen 46, nr. 2 en 47, nr. 2 bedoelde documenten kan de rechterlijke autoriteit voor de overlegging een termijn bepalen of gelijkwaardige documenten aanvaarden, dan wel, indien zij zich voldoende voorgelicht acht, van de overlegging vrijstelling verlenen.
 
 Indien de rechterlijke autoriteit zulks verlangt wordt van de documenten een vertaling overgelegd; de vertaling wordt gewaarmerkt door degene die in een van de verdragsluitende Staten daartoe gemachtigd is.
 
-#### Artikel 49
+##### Artikel 49
 
 Geen enkele legalisatie of soortgelijke formaliteit mag worden geëist met betrekking tot de documenten genoemd in de artikelen 46, 47 en 48, tweede lid, alsook, in voorkomend geval, met betrekking tot de procesvolmacht.
 
 ## TITEL IV. Authentieke akten en gerechtelijke schikkingen
 
-#### Artikel 50
+##### Artikel 50
 
 1. Authentieke akten, verleden en uitvoerbaar in een Verdragsluitende Staat, worden op verzoek, overeenkomstig de in de artikelen 31 en volgende bedoelde procedure, in een andere Verdragsluitende Staat uitvoerbaar verklaard. Het verzoek kan alleen worden afgewezen indien de tenuitvoerlegging van de authentieke akte strijdig is met de openbare orde van de aangezochte Staat.
 
@@ -676,19 +698,19 @@ Geen enkele legalisatie of soortgelijke formaliteit mag worden geëist met betre
 
 3. De bepalingen van de derde afdeling van titel III zijn, voor zover nodig, van toepassing.
 
-#### Artikel 51
+##### Artikel 51
 
 Gerechtelijke schikkingen, welke in de loop van een geding tot stand zijn gekomen, en die uitvoerbaar zijn in de Staat van herkomst, zijn op dezelfde voet als authentieke akten uitvoerbaar in de aangezochte Staat.
 
 ## TITEL V. Algemene bepalingen
 
-#### Artikel 52
+##### Artikel 52
 
 1. Om vast te stellen of een partij woonplaats heeft op het grondgebied van de verdragsluitende Staat, bij een van welks gerechten een zaak aanhangig is, past de rechter zijn interne wet toe.
 
 2. Indien een partij geen woonplaats heeft in de Staat, bij een van welks gerechten een zaak aanhangig is, past de rechter ter vaststelling of zij een woonplaats heeft in een andere verdragsluitende Staat, de wet van die Staat toe.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Voor de toepassing van dit verdrag wordt de plaats van vestiging van vennootschappen en rechtspersonen gelijkgesteld met de woonplaats. Om deze plaats van vestiging vast te stellen, past de rechter evenwel de regels van het voor hem geldende internationale privaatrecht toe.
 
@@ -696,7 +718,7 @@ Gerechtelijke schikkingen, welke in de loop van een geding tot stand zijn gekome
 
 ## TITEL VI. Overgangsbepalingen
 
-#### Artikel 54
+##### Artikel 54
 
 De bepalingen van dit verdrag zijn slechts van toepassing op rechtsvorderingen ingesteld en authentieke akten verleden na de inwerkingtreding van het verdrag in de Staat van herkomst en, indien de erkenning of tenuitvoerlegging van een beslissing of authentieke akte wordt verzocht, na de inwerkingtreding in de aangezochte Staat.
 
@@ -704,7 +726,7 @@ Evenwel worden beslissingen, gegeven na de dag van inwerkingtreding van dit Verd
 
 Indien de partijen in een geschil over een overeenkomst vóór 1 juni 1988 wat Ierland betreft of vóór 1 januari 1987 wat het Verenigd Koninkrijk betreft schriftelijk waren overeengekomen op deze overeenkomst het Ierse recht of het recht van een deel van het Verenigd Koninkrijk toe te passen, blijven de gerechten van Ierland of van dit deel van het Verenigd Koninkrijk bevoegd om van dit geschil kennis te nemen.
 
-#### Artikel 54 bis
+##### Artikel 54 bis
 
 Gedurende drie jaar, te rekenen vanaf 1 november 1986 voor Denemarken en vanaf 1 juni 1988 voor Ierland, wordt in elk van deze Staten de bevoegdheid in zaken van zeerecht niet alleen bepaald overeenkomstig titel II, maar ook overeenkomstig de bepalingen nr. 1 tot en met nr. 6 hierna. Deze bepalingen zijn in elk van deze Staten evenwel niet langer van toepassing zodra het op 10 mei 1952 te Brussel ondertekende Internationale [Verdrag tot eenmaking van enkele bepalingen inzake conservatoir beslag op zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBV0004856) voor die Staat in werking is getreden.
 
@@ -768,7 +790,7 @@ Gedurende drie jaar, te rekenen vanaf 1 november 1986 voor Denemarken en vanaf 1
 
 ## TITEL VII. Verhouding tot andere verdragen
 
-#### Artikel 55
+##### Artikel 55
 
 Onverminderd de bepalingen van de artikelen 54, tweede lid, en 56 vervangt dit verdrag tussen de Staten die daarbij partij zijn, de tussen twee of meer van deze Staten gesloten verdragen en overeenkomsten, te weten:
 
@@ -834,13 +856,13 @@ en voorzover het van kracht is:
 
 - -. het verdrag tussen België, Nederland en Luxemburg betreffende de rechterlijke bevoegdheid, betreffende het faillissement en betreffende het gezag en de tenuitvoerlegging van rechterlijke beslissingen, van scheidsrechterlijke uitspraken en van authentieke akten, gesloten te Brussel op 24 november 1961.
 
-#### Artikel 56
+##### Artikel 56
 
 De in artikel 55 vermelde verdragen en overeenkomsten blijven van kracht ten aanzien van onderwerpen waarop dit verdrag niet van toepassing is.
 
 Zij blijven van kracht met betrekking tot voor de inwerkingtreding van dit verdrag gegeven beslissingen en verleden akten.
 
-#### Artikel 57
+##### Artikel 57
 
 1. Dit Verdrag laat onverlet de verdragen waarbij de Verdragsluitende Staten partij zijn of zullen zijn en die, voor bijzondere onderwerpen, de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen regelen.
 
@@ -854,11 +876,11 @@ Indien een verdrag over een bijzonder onderwerp, waarbij zowel de Staat van herk
 
 3. Dit verdrag laat onverlet de toepassing van de bepalingen die, voor bijzondere onderwerpen, de rechterlijke bevoegdheid, de erkenning of de tenuitvoerlegging van beslissingen regelen en die opgenomen zijn of zullen worden in de besluiten van de Instellingen van de Europese Gemeenschappen of de nationale wetgevingen die ter uitvoering van deze besluiten geharmoniseerd zijn.
 
-#### Artikel 58
+##### Artikel 58
 
 Totdat het [Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken](https://wetten.overheid.nl/jci1.3:c:BWBV0002924), ondertekend te Lugano op 16 september 1988, rechtsgevolgen zal hebben voor Frankrijk en de Zwitserse Bondsstaat, laten de bepalingen van dit Verdrag de rechten onverlet welke aan Zwitserse onderdanen zijn toegekend bij het verdrag tussen Frankrijk en de Zwitserse Bondsstaat betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van vonnissen in burgerlijke zaken, ondertekend te Parijs op 15 juni 1869.
 
-#### Artikel 59
+##### Artikel 59
 
 1. Dit verdrag belet niet, dat een verdragsluitende Staat zich tegenover een derde Staat, bij een verdrag betreffende de erkenning en de tenuitvoerlegging van rechterlijke beslissingen, verbindt om een beslissing niet te erkennen, welke, met name in een andere verdragsluitende Staat, gegeven is tegen een verweerder, die zijn woonplaats of zijn gewone verblijf had in het gebied van die derde Staat, indien in een door artikel 4 voorzien geval de beslissing slechts gegrond kon worden op een bevoegdheid als bedoeld in artikel 3, tweede lid.
 
@@ -870,25 +892,25 @@ Totdat het [Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegg
 
 ## TITEL VIII. Slotbepalingen
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
-#### Artikel 61
+##### Artikel 61
 
 Dit verdrag wordt door de verdragsluitende Staten bekrachtigd. De akten van bekrachtiging worden nedergelegd bij de Secretaris-Generaal van de Raad der Europese Gemeenschappen.
 
-#### Artikel 62
+##### Artikel 62
 
 Dit verdrag treedt in werking op de eerste dag van de derde maand die volgt op het nederleggen van de akte van bekrachtiging door de ondertekenende Staat, die als laatste deze handeling verricht.
 
-#### Artikel 63
+##### Artikel 63
 
 De verdragsluitende Staten erkennen dat elke Staat die lid wordt van de Europese Economische Gemeenschap verplicht zal zijn te aanvaarden dat dit verdrag de grondslag zal vormen bij de onderhandelingen welke noodzakelijk zijn om, in de betrekkingen tussen de verdragsluitende Staten en die Staat de uitvoering van [artikel 220, laatste alinea, van het Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=220) te verzekeren.
 
 Omtrent de noodzakelijke aanpassingen zal een bijzonder verdrag tussen de verdragsluitende Staten enerzijds en die Staat anderzijds kunnen worden gesloten.
 
-#### Artikel 64
+##### Artikel 64
 
 De Secretaris-Generaal van de Raad der Europese Gemeenschappen stelt de ondertekenende Staten in kennis van:
 
@@ -902,25 +924,25 @@ De Secretaris-Generaal van de Raad der Europese Gemeenschappen stelt de ondertek
 
 - e). de ingevolge artikel VI van het Protocol gedane mededelingen.
 
-#### Artikel 65
+##### Artikel 65
 
 Het met instemming van alle verdragsluitende Staten aan dit verdrag toegevoegde Protocol, maakt een wezenlijk onderdeel van het verdrag uit.
 
-#### Artikel 66
+##### Artikel 66
 
 Dit verdrag wordt voor onbeperkte tijd gesloten.
 
-#### Artikel 67
+##### Artikel 67
 
 Elke verdragsluitende Staat kan verzoeken om herziening van dit verdrag. In dat geval roept de Voorzitter van de Raad der Europese Gemeenschappen een conferentie voor de herziening bijeen.
 
-#### Artikel 68
+##### Artikel 68
 
 Dit verdrag, opgesteld in één exemplaar, in de Duitse, de Franse, de Italiaanse en de Nederlandse taal, welke vier teksten gelijkelijk authentiek zijn, zal worden nedergelegd in het archief van het Secretariaat van de Raad der Europese Gemeenschappen. De Secretaris-Generaal zendt een voor eensluidend gewaarmerkt afschrift daarvan toe aan de Regering van elke ondertekenende Staat.
 
 De Hoge Verdragsluitende Partijen hebben over de volgende bepalingen die als bijlage aan het verdrag worden toegevoegd, overeenstemming bereikt:
 
-#### Artikel I
+##### Artikel I
 
 Ieder die in Luxemburg woonplaats heeft en met toepassing van artikel 5, nr. 1, voor een gerecht van een andere verdragsluitende Staat is opgeroepen kan de bevoegdheid van dit gerecht afwijzen.
 
@@ -928,23 +950,23 @@ Dit gerecht verklaart zich ambtshalve onbevoegd indien de verweerder niet versch
 
 Een overeenkomst tot aanwijzing van een bevoegde rechter in de zin van artikel 17 heeft, ten opzichte van een persoon die in Luxemburg woonplaats heeft, slechts rechtsgevolg indien deze de overeenkomst uitdrukkelijk en in het bijzonder heeft aanvaard.
 
-#### Artikel II
+##### Artikel II
 
 1. Degenen die in een verdragsluitende Staat woonplaats hebben en wegens een onopzettelijk gepleegd strafbaar feit vervolgd worden voor de gerechten van een andere verdragsluitende Staat, waarvan zij geen onderdaan zijn, zijn, onverminderd aldaar geldende gunstigere bepalingen, bevoegd zich te doen verdedigen door daartoe bevoegde personen, zelfs indien zij niet persoonlijk verschijnen.
 
 2. Het gerecht dat de zaak berecht kan echter de persoonlijke verschijning bevelen; indien deze niet heeft plaatsgevonden behoeft de beslissing, op de burgerlijke rechtsvordering gewezen zonder dat de betrokkene de gelegenheid heeft gehad zich te doen verdedigen, in de overige verdragsluitende Staten niet te worden erkend, noch ten uitvoer worden gelegd.
 
-#### Artikel III
+##### Artikel III
 
 Ter zake van de procedure tot verlening van het verlof tot tenuitvoerlegging, wordt in de aangezochte Staat geen belasting, recht of heffing, evenredig aan het geldelijke belang der zaak, geheven.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De gerechtelijke en buitengerechtelijke stukken, opgemaakt op het grondgebied van een verdragsluitende Staat, die medegedeeld of betekend moeten worden aan personen die zich op het grondgebied van een andere verdragsluitende Staat bevinden worden toegezonden op de wijze als is bepaald in tussen de verdragsluitende Staten gesloten verdragen of overeenkomsten.
 
 2. Tenzij de Staat van bestemming zich daartegen verzet bij een verklaring gedaan aan de Secretaris-Generaal van de Raad der Europese Gemeenschappen, kunnen deze stukken ook rechtstreeks door de deurwaarder van de Staat, waar de stukken zijn opgesteld, worden toegezonden aan de deurwaarders van de Staat op het grondgebied waarvan degene, voor wie het stuk bestemd is, zich bevindt. In dat geval zendt de deurwaarder van de Staat van herkomst een afschrift van het stuk aan de deurwaarder, die in de aangezochte Staat bevoegd is het stuk uit te reiken aan degene voor wie het bestemd is. Deze uitreiking geschiedt volgens de door de wet van de aangezochte Staat voorgeschreven formaliteiten. De daarvan opgemaakte verklaring wordt rechtstreeks aan de deurwaarder van de Staat van herkomst toegezonden.
 
-#### Artikel V
+##### Artikel V
 
 De rechterlijke bevoegdheid, bepaald in de artikelen 6, punt 2, en 10 ten aanzien van de vordering tot vrijwaring of de vordering tot voeging of tussenkomst kan in de Bondsrepubliek Duitsland en in de Republiek Oostenrijk niet worden ingeroepen. Ieder die woonplaats heeft in een andere Verdragsluitende Staat, kan worden opgeroepen voor de gerechten van:
 
@@ -954,29 +976,29 @@ De rechterlijke bevoegdheid, bepaald in de artikelen 6, punt 2, en 10 ten aanzie
 
 De in de overige Verdragsluitende Staten krachtens de artikelen 6, punt 2, en 10, gegeven beslissingen worden in de Bondsrepubliek Duitsland en in de Republiek Oostenrijk overeenkomstig titel III erkend en ten uitvoer gelegd. De gevolgen voor derden van de beslissingen welke in deze Staten met toepassing van het bepaalde in de voorgaande alinea zijn gegeven, worden eveneens in de overige Verdragsluitende Staten erkend.
 
-#### Artikel VI
+##### Artikel VI
 
 De verdragsluitende Staten zullen aan de Secretaris-Generaal van de Raad der Europese Gemeenschappen mededeling doen van de teksten van hun wettelijke bepalingen, die verandering brengen hetzij in de in het verdrag vermelde artikelen uit hun wetgeving, hetzij in de aanwijzing van de gerechten in titel III, tweede afdeling van het verdrag.
 
-#### Artikel V bis
+##### Artikel V bis
 
 Ten aanzien van onderhoudsverplichtingen worden onder de termen „rechter” en „gerecht” mede begrepen de Deense administratieve autoriteiten.
 
 In Zweden wordt in het kader van de summiere procedures betreffende de **,betalningsföreläggande**’ (aanmaningen tot betaling) en de **,handräckning**’ (bijstandszaken) onder de termen ,rechter’, ,rechtbank’ en ,gerecht’ ook de Zweedse gerechtsdeurwaardersinstantie (**,kronofogdemyndighet’**) verstaan.
 
-#### Artikel V ter
+##### Artikel V ter
 
 Bij geschillen tussen de kapitein en een bemanningslid van een in Denemarken, Griekenland, Ierland of Portugal geregistreerd zeeschip over de beloning of andere arbeidsvoorwaarden moet het gerecht van een Verdragsluitende Staat nagaan of de ten aanzien van het schip bevoegde diplomatieke of consulaire vertegenwoordiger van het geschil in kennis is gesteld. Zolang deze vertegenwoordiger niet van het geschil in kennis is gesteld, moet het gerecht zijn uitspraak aanhouden. Het gerecht moet zich, zelfs ambtshalve, onbevoegd verklaren, indien deze vertegenwoordiger, na naar behoren van het geschil in kennis te zijn gesteld, gebruik heeft gemaakt van de bevoegdheden die hij krachtens een consulaire overeenkomst bezit, dan wel, bij gebreke van een dergelijke overeenkomst, binnen de gestelde termijn bezwaar heeft gemaakt tegen de bevoegdheid.
 
-#### Artikel V quater
+##### Artikel V quater
 
 Wanneer, op grond van artikel 69, lid 5, van het Verdrag betreffende het Europees octrooi voor de gemeenschappelijke markt, ondertekend te Luxemburg op 15 december 1975, de artikelen 52 en 53 van dit Verdrag worden toegepast op de bepalingen inzake de „residence” volgens de Engelse tekst van eerstgenoemd Verdrag, wordt de uitdrukking „residence” die in die tekst wordt gebruikt, geacht dezelfde betekenis te hebben als de uitdrukking „domicile” in de voornoemde artikelen 52 en 53.
 
-#### Artikel V quinquies
+##### Artikel V quinquies
 
 Onverminderd de bevoegdheid van het Europees Octrooibureau volgens het op 5 oktober 1973 te München ondertekende [Europees Octrooiverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819), zijn de gerechten van elke verdragsluitende Staat, zonder acht te slaan op de woonplaats, bij uitsluiting bevoegd ter zake van inschrijving of geldigheid van een Europees octrooi dat voor die Staat is verleend en dat geen Gemeenschapsoctrooi is krachtens artikel 86 van het op 15 december 1975 te Luxemburg ondertekende Verdrag betreffende het Europees octrooi voor de gemeenschappelijke markt.
 
-#### Artikel V sexies
+##### Artikel V sexies
 
 Als authentieke akten in de zin van artikel 50, eerste alinea, van het Verdrag worden eveneens beschouwd de overeenkomsten inzake de onderhoudsverplichting die voor een administratieve overheid zijn gesloten of door haar zijn bekrachtigd.
 

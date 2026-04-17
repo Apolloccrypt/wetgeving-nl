@@ -1,13 +1,37 @@
 ---
-title: "Registratie geïndiceerde leerlingen (2003-2004)"
+title: "Registratie geïndiceerde leerlingen"
 identifier: "BWBR0015231"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-06-25
-laatste_update: 2003-06-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015231"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-06-25"
+last_updated: "2003-06-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015231"
+soort: "beleidsregel"
+stam_id: "6498253"
+version_id: "11184952"
+internal_id: "C17600411"
+label_id: "6487064"
+original_entry_into_force: "2003-06-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015231/2003-06-25/0"
+intitule_bron: "Uitleg.2003-17"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-06-13"
+intitule_published: "2003-06-25"
+intitule_in_force: "2003-06-25"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-17"
+original_signed_date: "2003-06-13"
+original_published_date: "2003-06-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-06-25"
+jci_1_3: "jci1.3:c:BWBR0015231&z=2003-06-25&g=2003-06-25"
+jci_1_0: "1.0:c:BWBR0015231&g=2003-06-25"
+citeertitel_status: "redactioneel"
+short_title: "Registratie geïndiceerde leerlingen (2003-2004)"
+signed_date: "2003-06-13"
+entry_into_force: "2003-06-25"
 ---
-
 # Registratie geïndiceerde leerlingen
 
 ### 1. Inleiding

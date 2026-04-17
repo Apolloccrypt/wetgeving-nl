@@ -1,13 +1,37 @@
 ---
 title: "Vaststellingsbesluit selectielijst beleidsterreinen Primair Onderwijs, Voortgezet Onderwijs, Hoger Beroepsonderwijs, Wetenschappelijk Onderwijs en Beroepsonderwijs en Volwasseneneducatie over de periode 1945–2002: neerslag handelingen Inspectie van het Onderwijs"
 identifier: "BWBR0017994"
-categorie: "Onderwijs"
-publicatiedatum: 2005-06-18
-laatste_update: 2005-06-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017994"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2005-06-18"
+last_updated: "2005-06-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017994"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "7023363"
+version_id: "11904062"
+internal_id: "C25315031"
+label_id: "7011364"
+original_entry_into_force: "2005-06-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017994/2005-06-18/0"
+intitule_bron: "Stcrt.2005-114"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-02-07"
+intitule_published: "2005-06-16"
+intitule_in_force: "2005-06-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-114"
+original_signed_date: "2005-02-07"
+original_published_date: "2005-06-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-114-p17-SC70003"
+entry_into_force_date: "2005-06-18"
+jci_1_3: "jci1.3:c:BWBR0017994&z=2005-06-18&g=2005-06-18"
+jci_1_0: "1.0:c:BWBR0017994&g=2005-06-18"
+citeertitel_status: "redactioneel"
+signed_date: "2005-02-07"
+entry_into_force: "2005-06-18"
 ---
-
 # Vaststellingsbesluit selectielijst beleidsterreinen Primair Onderwijs, Voortgezet Onderwijs, Hoger Beroepsonderwijs, Wetenschappelijk Onderwijs en Beroepsonderwijs en Volwasseneneducatie over de periode 1945–2002: neerslag handelingen Inspectie van het Onderwijs
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +40,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 14 augustus 20
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Inspectie van het Onderwijs en de onder hem ressorterende actoren op de beleidsterreinen Primair Onderwijs, Voortgezet Onderwijs, Hoger Beroepsonderwijs, Wetenschappelijk Onderwijs en Beroepsonderwijs en Volwasseneneducatie over de periode 1945–2002’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

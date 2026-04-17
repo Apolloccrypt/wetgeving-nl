@@ -1,13 +1,39 @@
 ---
-title: "Regeling vaststelling model proces-verbaal in verband met mogelijke toewijzing extra zetels Nederland in Europees Parlement"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 januari 2019, nr. 2019-0000033998, houdende vaststelling van het model proces-verbaal in verband met de mogelijke toewijzing van extra zetels voor Nederland in het Europees Parlement"
 identifier: "BWBR0041903"
-categorie: "Internationaal recht"
-publicatiedatum: 2019-02-19
-laatste_update: 2019-02-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041903"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-02-19"
+last_updated: "2019-02-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041903"
+soort: "ministeriele-regeling"
+stam_id: "14998533"
+version_id: "25689002"
+internal_id: "C36660971"
+label_id: "14948544"
+dtd_version: "2.0"
+original_entry_into_force: "2019-02-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041903/2019-02-19/0"
+intitule_bron: "Stcrt.2019-6534"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-01-29"
+intitule_published: "2019-02-12"
+intitule_in_force: "2019-02-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-6534"
+original_signed_date: "2019-01-29"
+original_published_date: "2019-02-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-6534"
+entry_into_force_date: "2019-02-19"
+jci_1_3: "jci1.3:c:BWBR0041903&z=2019-02-19&g=2019-02-19"
+jci_1_0: "1.0:c:BWBR0041903&g=2019-02-19"
+citeertitel_status: "redactioneel"
+short_title: "Regeling vaststelling model proces-verbaal in verband met mogelijke toewijzing extra zetels Nederland in Europees Parlement"
+signed_date: "2019-01-29"
+entry_into_force: "2019-02-19"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 januari 2019, nr. 2019-0000033998, houdende vaststelling van het model proces-verbaal in verband met de mogelijke toewijzing van extra zetels voor Nederland in het Europees Parlement
 
 Gelet op [artikel 3, eerste lid, van de Wet van 12 december 2018, houdende regeling van de mogelijke toewijzing van extra zetels voor Nederland in het Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0041821&artikel=3) (Stb. 2019, 7);
@@ -16,11 +42,11 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Wet houdende regeling van de mogelijke toewijzing van extra zetels voor Nederland in het Europees Parlement (Stb. 2019, 7) in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 Ten behoeve van de vaststelling aan welke lijst of lijsten en aan welke kandidaten op die lijst of lijsten de extra zetels toevallen, bedoeld in [artikel 3 van de Wet van 12 december 2018, houdende regeling van de mogelijke toewijzing van extra zetels voor Nederland in het Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0041821&artikel=3) (Stb. 2019, 7), wordt het model voor een proces-verbaal vastgesteld dat in de bijlage van deze regeling is opgenomen.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking op het tijdstip waarop de [Wet van 12 december 2018, houdende regeling van de mogelijke toewijzing van extra zetels voor Nederland in het Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0041821) (Stb. 2019, 7) in werking treedt en vervalt met ingang van 1 september 2024.
 

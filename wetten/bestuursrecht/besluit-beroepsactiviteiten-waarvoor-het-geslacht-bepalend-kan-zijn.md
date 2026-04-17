@@ -1,13 +1,35 @@
 ---
-title: "Besluit beroepsactiviteiten waarvoor het geslacht bepalend kan zijn"
+title: "Besluit van 19 mei 1989, houdende vaststelling van een algemene maatregel van bestuur inzake beroepsactiviteiten waarvoor het geslacht bepalend kan zijn"
 identifier: "BWBR0004551"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-11-01
-laatste_update: 2005-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004551"
+country: "nl"
+rank: "amvb"
+publication_date: "2005-11-01"
+last_updated: "2005-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004551"
+soort: "AMvB"
+stam_id: "252113"
+version_id: "356692"
+internal_id: "C356691"
+label_id: "246944"
+dtd_version: "2.0"
+original_entry_into_force: "1989-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004551/2005-11-01/0"
+intitule_bron: "Stb.1989-207"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1989-05-19"
+intitule_status: "goed"
+original_publication: "Stb.1989-207"
+original_signed_date: "1989-05-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1989-07-01"
+jci_1_3: "jci1.3:c:BWBR0004551&z=2005-11-01&g=2005-11-01"
+jci_1_0: "1.0:c:BWBR0004551&g=2005-11-01"
+citeertitel_status: "officieel"
+short_title: "Besluit beroepsactiviteiten waarvoor het geslacht bepalend kan zijn"
+signed_date: "1989-05-19"
+entry_into_force: "1989-07-01"
 ---
-
 # Besluit van 19 mei 1989, houdende vaststelling van een algemene maatregel van bestuur inzake beroepsactiviteiten waarvoor het geslacht bepalend kan zijn
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 2 mei 1986, gedaan mede namens Onze Ministers van Binnenlandse Zaken, Justitie, Defensie en Onderwijs en Wetenschappen;
@@ -22,7 +44,7 @@ Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Als beroepsactiviteiten en hiervoor noodzakelijke opleidingen waarvoor in voorkomend geval vanwege hun aard of de voorwaarden voor de uitoefening ervan het geslacht bepalend kan zijn, worden slechts beschouwd die welke behoren tot respectievelijk opleiden voor een of meer van de volgende categorieën:
 
@@ -46,11 +68,11 @@ Als beroepsactiviteiten en hiervoor noodzakelijke opleidingen waarvoor in voorko
 
 - j. de beroepsactiviteiten bij het Korps Mariniers en bij de Onderzeedienst.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van dezelfde datum als de Wet tot herziening van de wetgeving inzake gelijke behandeling van mannen en vrouwen.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit kan worden aangehaald als: Besluit beroepsactiviteiten waarvoor het geslacht bepalend kan zijn.
 

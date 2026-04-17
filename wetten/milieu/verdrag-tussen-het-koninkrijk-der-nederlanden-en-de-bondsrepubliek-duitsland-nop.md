@@ -1,24 +1,46 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland nopens het verloop van de gemeenschappelijke landgrens, de grenswateren, het grondbezit in de nabijheid van de grens, het grensoverschrijdende verkeer over land en via de binnenwateren en andere met de grens verband houdende vraagstukken, met Bijlagen en Slotprotocol (Grensverdrag)"
 identifier: "BWBV0005042"
-categorie: "Milieu"
-publicatiedatum: 2004-05-01
-laatste_update: 2004-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005042"
+country: "nl"
+rank: "verdrag"
+publication_date: "2004-05-01"
+last_updated: "2004-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005042"
+soort: "verdrag"
+stam_id: "10004445513"
+version_id: "10004654942"
+internal_id: "C10008343401"
+label_id: "10004431944"
+dtd_version: "2.0"
+original_entry_into_force: "1963-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005042/2004-05-01/0"
+intitule_bron: "Trb.1960-68"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1960-07-18"
+intitule_in_force: "1963-07-31"
+intitule_status: "goed"
+original_publication: "Trb.1960-68"
+original_published_date: "1960-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1960-68"
+entry_into_force_date: "1963-08-01"
+jci_1_3: "jci1.3:c:BWBV0005042&z=2004-05-01&g=2004-05-01"
+jci_1_0: "1.0:c:BWBV0005042&g=2004-05-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1963-08-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland nopens het verloop van de gemeenschappelijke landgrens, de grenswateren, het grondbezit in de nabijheid van de grens, het grensoverschrijdende verkeer over land en via de binnenwateren en andere met de grens verband houdende vraagstukken, met Bijlagen en Slotprotocol (Grensverdrag)
 
 Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland hebben overeenstemming bereikt over de volgende bepalingen:
 
 ### HOOFDSTUK 1. Verloop van de grens
 
-#### Artikel 1
+##### Artikel 1
 
 Het verloop van de grens tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland wordt bepaald door de op 26 juni 1816 te Aken en op 7 oktober 1816 te Kleef ondertekende grensverdragen tussen het Koninkrijk Pruisen en het Koninkrijk der Nederlanden, het op 2 juli 1824 te Meppen ondertekende grensverdrag tussen het Koninkrijk Hannover en het Koninkrijk der Nederlanden en de tot uitvoering, wijziging en aanvulling van deze grensverdragen gesloten overeenkomsten, voorzover deze verdragen en overeenkomsten op 31 december 1937 tussen het Koninkrijk der Nederlanden en het Duitse Rijk van kracht waren, en door de hiervan afwijkende regelingen van Bijlage A bij dit Verdrag.
 
-#### Artikel 2
+##### Artikel 2
 
 Nadat de grensbeken
 
@@ -32,7 +54,7 @@ Nadat de grensbeken
 
 zullen zijn genormaliseerd overeenkomstig de bepalingen van de §§ 2 tot en met 5 van Bijlage B bij dit Verdrag, zal de grens tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden verlopen, zoals in die bepalingen is vastgesteld. Elk van deze grenswijzigingen wordt van kracht op het tijdstip dat na de beëindiging der werkzaamheden wordt bepaald door een notawisseling tussen de Regeringen der Verdragsluitende Partijen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor zover de in de artikelen 1 en 2 aangegeven grens afwijkt van de op 31 december 1937 bestaande Nederlands-Duitse grens, wordt haar nauwkeurig verloop ter plaatse vastgesteld door een Grenscommissie, die uit vertegenwoordigers van de Regeringen der Verdragsluitende Partijen bestaat. De kosten voor de afbakening worden door de Verdragsluitende Partijen elk voor de helft gedragen.
 
@@ -40,31 +62,31 @@ zullen zijn genormaliseerd overeenkomstig de bepalingen van de §§ 2 tot en met
 
 ### HOOFDSTUK 2. Vraagstukken die verband houden met de overgang van grensgebieden
 
-#### Artikel 4
+##### Artikel 4
 
 Het Koninkrijk der Nederlanden doet afstand van de aan het Koninkrijk na de tweede wereldoorlog overgedragen rechten met betrekking tot de op 31 december 1937 tot het Duitse Rijk behorende gebieden waarin het Koninkrijk zulke rechten heeft doen gelden en die krachtens artikel 1 tot de Bondsrepubliek Duitsland behoren.
 
-#### Artikel 5
+##### Artikel 5
 
 Het Koninkrijk der Nederlanden doet afstand van zijn rechten met betrekking tot de gebieden die op 31 december 1937 tot het Koninkrijk der Nederlanden behoorden en die krachtens artikel 1 tot de Bondsrepubliek Duitsland behoren.
 
-#### Artikel 6
+##### Artikel 6
 
 De Bondsrepubliek Duitsland doet afstand van haar rechten met betrekking tot de gebieden die op 31 december 1937 tot het Duitse Rijk behoorden en die krachtens artikel 1 tot het Koninkrijk der Nederlanden behoren.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het openbare vermogen met alle rechten, lasten en verplichtingen in de gebieden bedoeld in de artikelen 4 en 5 behoort toe aan de Bondsrepubliek Duitsland of aan de daarvoor in aanmerking komende publiekrechtelijke rechtspersonen in de Bondsrepubliek Duitsland.
 
 2. Het openbare vermogen met alle rechten, lasten en verplichtingen in de gebieden bedoeld in artikel 6 behoort toe aan het Koninkrijk der Nederlanden of aan de daarvoor in aanmerking komende publiekrechtelijke rechtspersonen in het Koninkrijk.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De bevoegde autoriteiten van de Verdragsluitende Partijen regelen, voor zover mogelijk binnen zes maanden na de inwerkingtreding van dit Verdrag, in onderlinge overeenstemming de bestuursvraagstukken die verband houden met de overgang van de in de artikelen 4 tot en met 6 bedoelde gebieden, zoals de overdracht van akten, documenten en archieven.
 
 2. Voor zover de overdracht van registers van de burgerlijke stand, hypotheekregisters, akten van het kadaster of daarbij behorende bescheiden niet mogelijk is, worden gewaarmerkte afschriften verstrekt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Aan Nederlanders die op 30 juni 1959 hun woonplaats of gewone verblijfplaats in de in artikel 4 bedoelde gebieden hadden, wordt kosteloos vergunning verleend voor een verblijf van onbepaalde duur in de Bondsrepubliek Duitsland.
 
@@ -72,7 +94,7 @@ De Bondsrepubliek Duitsland doet afstand van haar rechten met betrekking tot de 
 
 3. Indien de in de leden 1 en 2 bedoelde Nederlanders of Duitsers binnen twee jaar na de inwerkingtreding van dit Verdrag hun woonplaats naar Nederland, onderscheidenlijk naar de Bondsrepubliek Duitsland, verplaatsen, zijn zij gerechtigd hierbij hun roerende vermogensbestanddelen alsmede de opbrengst van vervreemde onroerende vermogensbestanddelen vrij van in- en uitvoerverboden en -beperkingen en vrij van in- en uitvoerrechten en andere heffingen naar Nederland, onderscheidenlijk de Bondsrepubliek Duitsland, over te brengen. Voor zover zij deze onroerende vermogensbestanddelen niet vervreemden, blijven zij gerechtigd de vruchten daarvan, zoals oogsten, pachtsommen en huurpenningen, vrij van in- en uitvoerverboden en -beperkingen naar Nederland, onderscheidenlijk de Bondsrepubliek Duitsland, over te brengen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Nederlanders die op 30 juni 1959 hun woonplaats of gewone verblijfplaats in de in artikel 4 bedoelde gebieden hadden en aldaar op dat tijdstip zelfstandig of onzelfstandig werkzaamheden uitoefenden, welke zij bij de inwerkingtreding van dit Verdrag nog uitoefenen, zijn gerechtigd hun beroeps- of bedrijfsuitoefening in deze gebieden voort te zetten en ontvangen de hiervoor eventueel vereiste vergunningen. Deze beroeps- of bedrijfsuitoefening is onderworpen aan de in de Bondsrepubliek Duitsland geldende wettelijke voorschriften.
 
@@ -82,7 +104,7 @@ De Bondsrepubliek Duitsland doet afstand van haar rechten met betrekking tot de 
 
 4. De in de leden 1 tot en met 3 vervatte regeling vindt overeenkomstige toepassing ten aanzien van vennootschappen die op 30 juni 1959 hun zetel in de bedoelde gebieden hadden, alsmede voor aldaar gevestigde filialen en vaste inrichtingen. Onder vennootschappen worden verstaan maatschappen naar burgerlijk of handelsrecht, de coöperatieve verenigingen of vennootschappen daaronder begrepen, en de overige rechtspersonen naar publiek- of privaatrecht, met uitzondering van vennootschappen welke geen winst beogen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Duitsers die hun woonplaats op 30 juni 1959 in de in artikel 6 bedoelde gebieden hadden en bij de inwerkingtreding van dit Verdrag daar nog hebben, kunnen binnen twee jaar na de inwerkingtreding van dit Verdrag op de voet van lid 2 opteren voor de Nederlandse nationaliteit, mits zij op het tijdstip van de optie tenminste achttien jaar oud zijn en hun woonplaats in het Koninkrijk der Nederlanden hebben.
 
@@ -98,21 +120,21 @@ De Bondsrepubliek Duitsland doet afstand van haar rechten met betrekking tot de 
 
 5. Duitsers die hun woonplaats op 30 juni 1959 in de in artikel 6 bedoelde gebieden hadden en bij de inwerkingtreding van dit Verdrag daar nog hebben, genieten de in artikel 9, lid 2, en artikel 10, lid 2, genoemde rechten. Wanneer zij, zonder de Nederlandse nationaliteit te hebben verkregen, binnen twee jaar na de inwerkingtreding van dit Verdrag hun woonplaats overbrengen naar de Bondsrepubliek Duitsland, worden de bepalingen van artikel 9, lid 3, overeenkomstig toegepast.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Op Nederlanders die op 30 juni 1959 in de in artikel 4 bedoelde gebieden zelfstandig of onzelfstandig werkzaamheden uitoefenden, welke zij bij de inwerkingtreding van dit Verdrag nog uitoefenen, doch die in Nederland gevestigd zijn, zullen de Duitse wettelijke en administratieve voorschriften met betrekking tot de grensoverschrijding, het vreemdelingentoezicht en de zelfstandige of onzelfstandige uitoefening van werkzaamheden zo worden toegepast, dat deze voorschriften hen niet belemmeren in de uitoefening van hun beroep of hun bedrijf, tenzij redenen van volksgezondheid of van openbare veiligheid, orde of zedelijkheid zich daartegen verzetten.
 
 2. Op Duitsers die op 30 juni 1959 in Nederland zelfstandig of onzelfstandig werkzaamheden uitoefenden, welke zij bij de inwerkingtreding van dit Verdrag nog uitoefenen, doch die in de in artikel 4 bedoelde gebieden gevestigd zijn, zullen de Nederlandse wettelijke en administratieve voorschriften met betrekking tot de grensoverschrijding, het vreemdelingentoezicht en de zelfstandige of onzelfstandige uitoefening van werkzaamheden zo worden toegepast, dat deze voorschriften hen niet belemmeren in de uitoefening van hun beroep of hun bedrijf, tenzij redenen van volksgezondheid of van openbare veiligheid, orde of zedelijkheid zich daartegen verzetten.
 
-#### Artikel 13
+##### Artikel 13
 
 De rechten die Nederlanders en Nederlandse vennootschappen met woonplaats, gewone verblijfplaats of zetel in Nederland op 30 juni 1959 in de in artikel 4 bedoelde gebieden met betrekking tot het winnen van klei, zand of grint bezaten, worden niet aangetast. Gewonnen klei, zand en grint mag vrij van uit- en invoerverboden en -beperkingen en vrij van uit- en invoerrechten en andere heffingen naar Nederland worden uitgevoerd. De voor de winning benodigde werktuigen en de middelen van vervoer mogen vrij van in- en uitvoerverboden en -beperkingen en vrij van in- en uitvoerrechten en andere heffingen uit Nederland naar de in artikel 4 bedoelde gebieden worden overgebracht en weer naar Nederland worden uitgevoerd. Voor deze uitvoer van klei, zand, grint, werktuigen en middelen van vervoer verleent de Bondsrepubliek Duitsland geen vergoeding van omzetbelasting wegens uitvoer.
 
-#### Artikel 14
+##### Artikel 14
 
 In Nederland gevestigde ondernemingen tot vervoer van personen, welke op 30 juni 1959 voor de in artikel 4 bedoelde gebieden vergunningen bezaten, ontvangen vergunningen naar Duits recht. Deze worden zo geformuleerd, dat de ondernemingen de op het tijdstip van de inwerkingtreding van dit Verdrag door hen verzorgde lijndiensten en andere vervoersdiensten in die omvang en tenminste voor die duur kunnen voortzetten, als was voorzien in hun vroegere Nederlandse vergunningen. Door Nederlandse autoriteiten aan Duitse ondernemingen opgelegde verboden tot het opnemen of afzetten van personen behoeven in de in artikel 4 bedoelde gebieden niet te worden gehandhaafd.
 
-#### Artikel 15
+##### Artikel 15
 
 1. In Nederland gevestigde verzekeringsondernemingen mogen de verzekeringswerkzaamheden welke zij bij de inwerkingtreding van dit Verdrag uitoefenen in de in artikel 4 bedoelde gebieden met betrekking tot aldaar gevestigde personen en aldaar gelegen risico's, ook verder uitoefenen, met uitzondering van de aansprakelijkheidsverzekering voor motorrijtuigen.
 
@@ -120,17 +142,17 @@ In Nederland gevestigde ondernemingen tot vervoer van personen, welke op 30 juni
 
 3. De verzekeringsondernemingen dienen een verantwoordelijke vertegenwoordiger te benoemen, die in de Bondsrepubliek Duitsland woonachtig is en die mede aansprakelijk is voor de nakoming van de uit lid 2 voortvloeiende verplichtingen.
 
-#### Artikel 16
+##### Artikel 16
 
 Personen die bij de inwerkingtreding van dit Verdrag in de in artikel 4 bedoelde gebieden krachtens arbeidsovereenkomst werkzaam zijn in dienst van de Nederlandse overheid of van de N.V. Nederlandsche Spoorwegen, zullen door de Duitse overheid in dienst worden genomen. Hetzelfde geldt voor ambtenaren die de Duitse nationaliteit bezitten.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Nederlandse natuurlijke en rechtspersonen die op 21 juni 1948 in de in artikel 4 bedoelde gebieden woonachtig of gevestigd waren, zijn met betrekking tot zich buiten de Bondsrepubliek Duitsland met inbegrip van het „Land” Berlijn bevindende vermogensbestanddelen niet onderworpen aan de „Vermögensabgabe” (vermogensheffing), voorzien in het Duitse „Gesetz über den Lastenausgleich” (wet op de evenredige verdeling van lasten) van 14 augustus 1952. De vermogensbestanddelen van deze personen in de in artikel 4 bedoelde gebieden worden eveneens van de „Vermögensabgabe” vrijgesteld. Voorts zijn Nederlandse natuurlijke en rechtspersonen die op 21 juni 1948 beperkt belastingplichtig waren voor genoemde vermogensheffing, met betrekking tot vermogensbestanddelen in de in artikel 4 bedoelde gebieden niet aan de „Vermögensabgabe” onderworpen.
 
 2. De debiteurwinsten van Nederlandse natuurlijke en rechtspersonen met betrekking tot onroerende goederen en bedrijven die gelegen zijn in de in artikel 4 bedoelde gebieden, zijn niet onderworpen aan de „Hypothekengewinnabgabe” (heffing op hypotheekwinst) noch aan de „Kreditgewinnabgabe” (heffing op kredietwinst), voorzien in het Duitse „Gesetz über den Lastenausgleich” (wet op de evenredige verdeling van lasten) van 14 augustus 1952.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Bij de aanslagregeling en de inning van de belastingen, met inbegrip van opcenten, renten en kosten, en bij de invordering van door de belastingautoriteiten in verband met deze belastingen rechtsgeldig vastgestelde geldboeten, ook indien deze in de vorm van verhoging van belasting worden vastgesteld, verlenen de Verdragsluitende Partijen elkaar administratieve hulp en rechtsbijstand voor zover deze belastingen en geldboeten
 
@@ -140,7 +162,7 @@ Personen die bij de inwerkingtreding van dit Verdrag in de in artikel 4 bedoelde
 
 2. Invoerrechten en verbruiksbelastingen worden niet als belastingen in de zin van dit artikel aangemerkt, wel echter de Nederlandse omzetbelasting.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De bevoegde autoriteiten van de Verdragsluitende Partijen verstrekken elkaar de voor de uitvoering van artikel 18 nodige inlichtingen, voor zover zij over de betreffende gegevens beschikken of deze op grond van hun wettelijke voorschriften kunnen verkrijgen. De inhoud van deze mededelingen dient geheim te worden gehouden en mag slechts aan die personen ter kennis worden gebracht, die ingevolge de wettelijke voorschriften met de aanslagregeling en de inning van de belastingen zijn belast.
 
@@ -154,7 +176,7 @@ Personen die bij de inwerkingtreding van dit Verdrag in de in artikel 4 bedoelde
 
 4. Het verstrekken van inlichtingen kan om redenen van algemeen beleid worden geweigerd.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het verzoek om invordering volgens artikel 18 dient vergezeld te gaan van:
 
@@ -170,21 +192,21 @@ Personen die bij de inwerkingtreding van dit Verdrag in de in artikel 4 bedoelde
 
 5. Tussen de Verdragsluitende Partijen vindt geen vergoeding plaats van kosten en uitschotten welke voortvloeien uit de afwikkeling van verzoeken om administratieve hulp en rechtsbijstand.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Voor de overgang van het Nederlandse recht naar het Duitse recht in de in artikel 4 bedoelde gebieden gelden de bepalingen van de artikelen 22 tot en met 31.
 
 2. De toepassing van Nederlands recht op Nederlanders in de gevallen waarin het Duitse internationaal privaatrecht naar de nationale wetgeving der betrokkenen verwijst, blijft onverlet.
 
-#### Artikel 22
+##### Artikel 22
 
 De overgang van het Nederlandse recht naar het Duitse recht in de in artikel 4 bedoelde gebieden heeft, voor zover in de artikelen 23 tot en met 29 niet anders is bepaald, in beginsel geen invloed op de vóór de inwerkingtreding van dit Verdrag verkregen burgerlijke rechten.
 
-#### Artikel 23
+##### Artikel 23
 
 De geldigheid naar de vorm van een rechtshandeling die vóór de inwerkingtreding van dit Verdrag met inachtneming van de Nederlandse vormvoorschriften is verricht, wordt in de Bondsrepubliek Duitsland erkend.
 
-#### Artikel 24
+##### Artikel 24
 
 Op verbintenissen die vóór de inwerkingtreding van dit Verdrag volgens Nederlands recht zijn ontstaan, blijft de Nederlandse wetgeving van toepassing, echter onder voorbehoud van de volgende uitzonderingen en afwijkingen:
 
@@ -194,23 +216,23 @@ Op verbintenissen die vóór de inwerkingtreding van dit Verdrag volgens Nederla
 
 - c). Op andere huurovereenkomsten en op overeenkomsten tot het verrichten van enkele diensten, op verbintenissen tot betaling van een rente en op andere duurzame verbintenissen dient de in de Bondsrepubliek Duitsland geldende wetgeving in zoverre te worden toegepast als uit de overeenkomstige toepassing van de desbetreffende overgangsbepalingen van het Duitse recht, met name die van het „Einführungsgesetz zum Bürgerlichen Gesetzbuch”, volgt.
 
-#### Artikel 25
+##### Artikel 25
 
 Voorrechten die naar Duits recht bestaan terzake van belastingvorderingen worden slechts boven naar Nederlands recht gevestigde hypotheken gerangschikt, indien de vordering strekt tot betaling van grondbelasting.
 
-#### Artikel 26
+##### Artikel 26
 
 Indien door de Nederlandse rechter scheiding van tafel en bed is uitgesproken, wordt de beslissing in de Bondsrepubliek Duitsland erkend.
 
-#### Artikel 27
+##### Artikel 27
 
 Huwelijkse voorwaarden die vóór de inwerkingtreding van dit Verdrag tot stand zijn gekomen en in de daartoe bestemde Nederlandse registers zijn ingeschreven, kunnen tot een jaar na de inwerkingtreding van het Verdrag overeenkomstig het Nederlandse recht tegen derden worden ingeroepen.
 
-#### Artikel 28
+##### Artikel 28
 
 De rechtsbetrekkingen tussen een wettig of onwettig kind en zijn ouders en de wettelijke onderhoudsverplichtingen worden van de inwerkingtreding van dit Verdrag af beoordeeld naar Duits recht.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Op een naamloze vennootschap naar Nederlands recht, die bij de inwerkingtreding van dit Verdrag haar zetel in de in artikel 4 bedoelde gebieden heeft, blijft het Nederlandse vennootschapsrecht na de inwerkingtreding van dit Verdrag van toepassing, totdat de vennootschap haar statuten aan het Duitse vennootschapsrecht heeft aangepast, haar kapitaal in Duitse marken heeft vastgesteld en de daarvoor noodzakelijke wijzigingen der statuten in het handelsregister heeft doen inschrijven. Indien zulk een inschrijving niet binnen twee jaar na de inwerkingtreding van dit Verdrag is geschied, is de vennootschap bij de afloop van deze termijn van rechtswege ontbonden; zij wordt volgens Nederlands vennootschapsrecht vereffend.
 
@@ -220,7 +242,7 @@ De rechtsbetrekkingen tussen een wettig of onwettig kind en zijn ouders en de we
 
 4. De voorgaande bepalingen zijn van overeenkomstige toepassing op andere rechtspersonen.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Beslissingen van Nederlandse gerechten in burgerlijke zaken, die vóór de inwerkingtreding van dit Verdrag zijn gegeven en die voor of na dat tijdstip in kracht van gewijsde zijn gegaan, worden in de Bondsrepubliek Duitsland erkend en na afgifte van een verklaring van uitvoerbaarheid als binnenlandse titels tenuitvoergelegd, wanneer de schuldenaar op het ogenblik waarop het geding tegen hem aanhangig werd gemaakt, zijn woonplaats of gewone verblijfplaats in de in artikel 4 bedoelde gebieden had. Hetzelfde geldt ten aanzien van beslissingen die eerst na de inwerkingtreding van dit Verdrag worden gegeven en in kracht van gewijsde gaan, indien het geding in eerste aanleg reeds vóór de inwerkingtreding van dit Verdrag bij een Nederlands gerecht aanhangig was. Artikel 26 blijft onverlet.
 
@@ -230,7 +252,7 @@ De rechtsbetrekkingen tussen een wettig of onwettig kind en zijn ouders en de we
 
 4. Indien burgerlijke zaken die voor een Nederlands gerecht aanhangig zijn gemaakt en waarin vóór de inwerkingtreding van dit Verdrag geen voor tenuitvoerlegging vatbare titel is verkregen, binnen een jaar na de inwerkingtreding van dit Verdrag bij een Duits gerecht aanhangig worden gemaakt, worden verjaring en vervaltermijnen geacht te zijn geschorst met ingang van het ogenblik waarop de zaak bij het Nederlandse gerecht aanhangig was gemaakt.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Het Duitse strafrecht wordt slechts dan op een strafbaar feit dat vóór de inwerkingtreding van dit Verdrag in de in artikel 4 bedoelde gebieden is gepleegd, toegepast, indien op dat feit zowel door de Duitse als door de Nederlandse wet straf is gesteld. Het maximum van de straf waarmee het feit in de Nederlandse wet wordt bedreigd, mag door de Duitse gerechten niet worden overschreden.
 
@@ -252,11 +274,11 @@ De rechtsbetrekkingen tussen een wettig of onwettig kind en zijn ouders en de we
 
 ### HOOFDSTUK 3. Bijzondere bepalingen voor bepaalde grensgebieden
 
-#### Artikel 32
+##### Artikel 32
 
 Bijzondere bepalingen voor bepaalde grensgebieden zijn vervat in de artikelen 33 tot en met 53 (doorgaand verkeer op de weg Schinveld-Koningsbosch en door Elten, rondweg Herzogenrath), 54 (hoogspannings-, gas-, water- en telefoonleidingen), 55 (mijnbouw) en, voor zover zij rechtstreeks verband houden met de vaststelling van het verloop van bepaalde delen van de grens, in de Bijlagen A en B.
 
-#### Artikel 33
+##### Artikel 33
 
 De Bondsrepubliek Duitsland staat op de voet van de artikelen 34 tot en met 49 het verkeer toe van personen en goederen met of zonder middelen van vervoer van Nederland naar Nederland over de wegen
 
@@ -276,15 +298,15 @@ De Bondsrepubliek Duitsland staat op de voet van de artikelen 34 tot en met 49 h
 
 voor zover deze wegen over het grondgebied van de Bondsrepubliek Duitsland lopen (doorgaand verkeer).
 
-#### Artikel 34
+##### Artikel 34
 
 Het doorgaand verkeer wordt toegestaan ongeacht de nationaliteit van de personen en de plaats van herkomst of bestemming van de goederen en de middelen van vervoer.
 
-#### Artikel 35
+##### Artikel 35
 
 Het is niet geoorloofd tijdens de doortocht af te wijken van de voor het doorgaand verkeer bestemde weggedeelten, stil te staan, personen op te nemen of af te zetten, of goederen te laden, te lossen of over te laden.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De bepalingen van het Duitse wegen verkeersrecht betreffende het zondagsrijverbod gelden niet voor het doorgaand verkeer.
 
@@ -292,7 +314,7 @@ Het is niet geoorloofd tijdens de doortocht af te wijken van de voor het doorgaa
 
 3. Voor bestuurders van in het Koninkrijk der Nederlanden toegelaten motorrijtuigen alsmede van rijwielen met hulpmotor zijn rijbewijzen slechts in zoverre vereist als is voorgeschreven in het Koninkrijk.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Op de in artikel 33 genoemde wegen gelden de Duitse voorschriften inzake de aansprakelijkheidsverzekering voor buitenlandse motorrijtuigen, rijwielen met hulpmotor en aan motorrijtuigen verbonden aanhangwagens niet voor het doorgaand verkeer.
 
@@ -306,33 +328,33 @@ Het is niet geoorloofd tijdens de doortocht af te wijken van de voor het doorgaa
 
 6. Indien bij het schadegeval een voertuig van de Staat der Nederlanden is betrokken, onderwerpt het Koninkrijk zich terzake van de uit dit schadegeval voortvloeiende vorderingen aan de rechtsmacht der Duitse gerechten.
 
-#### Artikel 38
+##### Artikel 38
 
 Nederlandse ambtenaren belast met het politietoezicht, de grensbewaking en het douanetoezicht mogen in de uitoefening van hun functie gebruik maken van de weg Schinveld—Koningsbosch. Zij hebben het recht daarbij hun dienstkleding of een officieel kenteken zichtbaar te dragen en hun dienstwapens, voertuigen, dienstuitrusting en diensthonden mee te nemen. Zij mogen echter geen ambtshandelingen verrichten.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Als grensoverschrijdingsdocument voor het doorgaand verkeer wordt ook een geldige Nederlandse verblijfsvergunning voor vreemdelingen in combinatie met een foto erkend. De houders van deze vergunningen zijn vrijgesteld van de Duitse visumplicht.
 
 2. Op de in artikel 33 onder **b** tot en met **g** genoemde wegen kan aan bestuurders van vrachtauto's en hun bijrijders doortocht worden verleend zonder erkend grensoverschrijdingsdocument, indien zij zich legitimeren met behulp van een officieel document met foto.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Om redenen van openbare veiligheid kunnen bepaalde personen van het doorgaand verkeer worden uitgesloten.
 
 2. Gedetineerden mogen slechts met toestemming van de bevoegde Duitse autoriteiten in het doorgaand verkeer worden vervoerd.
 
-#### Artikel 41
+##### Artikel 41
 
 Het Koninkrijk der Nederlanden neemt alle personen die bij het doorgaand verkeer de Bondsrepubliek Duitsland zijn binnengekomen, binnen een jaar nadat deze personen de grens hebben overschreden zonder formaliteiten over, tenzij hun een verblijfsvergunning voor onbepaalde duur is verstrekt. Indien uit een vervolgens door de Nederlandse autoriteiten ingesteld onderzoek blijkt dat overgenomen personen niet bij het doorgaand verkeer de Bondsrepubliek Duitsland zijn binnengekomen of dat hun een verblijfsvergunning voor onbepaalde duur is verstrekt, worden zij door de Bondsrepubliek Duitsland zonder formaliteiten teruggenomen.
 
-#### Artikel 42
+##### Artikel 42
 
 1. De Bondsrepubliek Duitsland ziet ten aanzien van het doorgaand verkeer af van de inning van in- en uitvoerrechten en andere heffingen terzake van de in- en uitvoer alsmede van de eis tot het stellen van zekerheid, indien de voorgeschreven procedure in acht wordt genomen. Indien deze procedure niet in acht wordt genomen, moeten de verschuldigde rechten en heffingen worden voldaan, indien niet wordt aangetoond dat de goederen of de middelen van vervoer onveranderd naar Nederland zijn teruggebracht.
 
 2. De Bondsrepubliek Duitsland ziet ten aanzien van het doorgaand verkeer af van de inning van de motorrijtuigenbelasting en de „Beförderungssteuer” (vervoersbelasting) alsmede van toekomstige soortgelijke belastingen.
 
-#### Artikel 43
+##### Artikel 43
 
 1. In het doorgaand verkeer geschiedt de douanebehandeling van goederen en middelen van vervoer met behulp van een doorlaatbewijs, dat door de douaneautoriteiten van de Verdragsluitende Partijen gezamenlijk wordt gebruikt.
 
@@ -340,39 +362,39 @@ Het Koninkrijk der Nederlanden neemt alle personen die bij het doorgaand verkeer
 
 3. Bij het onderzoek naar de verblijfplaats van goederen en middelen van vervoer in het doorgaand verkeer, alsmede bij het constateren van overtredingen van artikel 35, zullen de douane- en politieautoriteiten van de Verdragsluitende Partijen elkaar wederkerig bijstand verlenen.
 
-#### Artikel 44
+##### Artikel 44
 
 Een doorlaatbewijs is niet vereist voor goederen die niet onderworpen zijn aan in- en uitvoerrechten en andere heffingen terzake van de in- en uitvoer, met uitzondering van dieren, delen van dieren en dierlijke produkten, voor gebruikte rijwielen en voor voertuigen die zonder douanepapieren over de grens mogen worden gebracht.
 
-#### Artikel 45
+##### Artikel 45
 
 De doortocht kan door de bevoegde douaneautoriteiten worden geweigerd, indien er gegronde verdenking van misbruik bestaat.
 
-#### Artikel 46
+##### Artikel 46
 
 1. In het doorgaand verkeer mag geen vervoer plaatsvinden van dieren die aan besmettelijke ziekten lijden of waarvan het vermoeden bestaat dat zij aan zulke ziekten lijden, noch van delen en produkten die van zulke dieren afkomstig zijn, noch van voorwerpen van enigerlei soort, waarvan blijkens de omstandigheden moet worden aangenomen dat zij met smetstoffen zijn besmet.
 
 2. In het doorgaand verkeer zijn voor planten en plantendelen geen gezondheidscertificaten vereist. Plantenziektenkundige controle aan de grens vindt slechts plaats, indien bijzondere gevaren daartoe aanleiding geven. De bevoegde instanties van de beide Verdragsluitende Partijen stellen elkaar wederkerig op de hoogte van het bestaan van zulke gevaren.
 
-#### Artikel 47
+##### Artikel 47
 
 Ontplofbare stoffen, oorlogswapens en munitie mogen in het doorgaand verkeer slechts met toestemming van de bevoegde Duitse autoriteiten worden vervoerd.
 
-#### Artikel 48
+##### Artikel 48
 
 Vervallen
 
-#### Artikel 49
+##### Artikel 49
 
 1. De bevoegde Duitse autoriteiten zullen alleen in overeenstemming met de Nederlandse Rijkswaterstaat verkeersbeperkingen gelasten op de weg Schinveld-Koningsbosch.
 
 2. Ten behoeve van de uitoefening van het verkeerstoezicht alsmede het politietoezicht en de grensbewaking en het douanetoezicht op deze weg mogen de bevoegde Duitse politie- en douanebeambten zich over Nederlands grondgebied begeven. De tweede en derde volzin van artikel 38 zijn van overeenkomstige toepassing. Dit laat onverlet de artikelen 20 en 21 van de Overeenkomst van 18 december 1997 opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie inzake wederzijdse bijstand en samenwerking tussen de douaneadministraties (Publikatieblad van de Europese Gemeenschappen nummer C 24/2 van 23 januari 1998) en de artikelen 40 en 41 van de Overeenkomst ter uitvoering van het Akkoord van Schengen van 19 juni 1990.
 
-#### Artikel 50
+##### Artikel 50
 
 De in artikel 33, letters a tot en met g, genoemde wegen worden, voorzover zij gelegen zijn op het grondgebied van de Bondsrepubliek Duitsland door de naar Duits recht bevoegde dienst belast met de aanleg, het beheer en het onderhoud van wegen behoorlijk onderhouden en vernieuwd in overeenstemming met de verkeersbehoeften. Op verkeersrechtelijke bijzonderheden op de weg Schinveld–Koningsbosch voor transitverkeer wordt gewezen met behulp van verkeersborden per rijrichting van de verkeersdeelnemers op het Duitse en Nederlandse grondgebied.
 
-#### Artikel 51
+##### Artikel 51
 
 1. De Bondsrepubliek Duitsland heeft het recht binnen tien jaar na de inwerkingtreding van dit Verdrag de ten westen van Herzogenrath geprojecteerde rondweg aan te leggen op dat deel van het Nederlandse gebied, dat begrensd wordt door
 
@@ -390,15 +412,15 @@ De in artikel 33, letters a tot en met g, genoemde wegen worden, voorzover zij g
 
 4. De plannen voor de aanleg van de rondweg en de viaducten worden opgesteld in overeenstemming met de Nederlandse Rijkswaterstaat. De bevoegde Nederlandse autoriteiten zullen de bevoegde Duitse autoriteiten op hun verzoek bijstand verlenen bij het verwerven van grond en bij de aanleg. De kosten van de aanleg komen ten laste van de Bondsrepubliek Duitsland.
 
-#### Artikel 52
+##### Artikel 52
 
 Voor het doorgaand verkeer op de in artikel 51 bedoelde rondweg, voor zover deze over het gebied van het Koninkrijk der Nederlanden voert, geldt mutatis mutandis de regeling die is voorzien voor het doorgaand verkeer op de weg Schinveld—Koningsbosch na aanleg van de in artikel 49, lid 1, bedoelde kunstwerken.
 
-#### Artikel 53
+##### Artikel 53
 
 Bij de uitvoering van dit Verdrag kunnen de Regeringen van de Verdragsluitende Partijen zo nodig overeenkomsten treffen die afwijken van de bepalingen van artikel 49, lid 1, en van artikel 51, leden 2 en 3, voor zover zulks niet in strijd is met de zin en het doel van deze bepalingen.
 
-#### Artikel 54
+##### Artikel 54
 
 1. De Bondsrepubliek Duitsland zal de aanleg en de exploitatie toestaan van een hoogspannings-, een gas-, een water- en een telefoonleiding, die Zuid-Limburg met Midden-Limburg zullen verbinden over het in aanmerking komende in artikel 4 bedoelde gebied. De desbetreffende Duitse wettelijke voorschriften dienen in acht te worden genomen.
 
@@ -410,7 +432,7 @@ Bij de uitvoering van dit Verdrag kunnen de Regeringen van de Verdragsluitende P
 
 5. De Nederlandse autoriteiten en ondernemingen zijn gerechtigd, de werktuigen en materialen welke voor de aanleg alsmede voor het onderhoud en de vernieuwing van de in lid 1 genoemde leidingen nodig zijn, vrij van in- en uitvoerverboden en -beperkingen en vrij van in- en uitvoerrechten en andere heffingen in de Bondsrepubliek Duitsland in te voeren en eventueel weer naar Nederland uit te voeren. De doorleiding van elektriciteit, gas en water door deze leidingen is niet onderworpen aan de omzetbelasting en de „Beförderungssteuer” (vervoersbelasting) of toekomstige soortgelijke belastingen.
 
-#### Artikel 55
+##### Artikel 55
 
 1. De rechten die op grond van tot nu toe verleende mijnbouwconcessies in de in de artikelen 4 tot en met 6 bedoelde gebieden bestaan, blijven onaangetast. De Verdragsluitende Partijen zijn bereid, zo nodig bijzondere regelingen te treffen krachtens welke de in aanmerking komende velden van de Bondsrepubliek Duitsland of van het Koninkrijk der Nederlanden uit kunnen worden ontgonnen.
 
@@ -418,7 +440,7 @@ Bij de uitvoering van dit Verdrag kunnen de Regeringen van de Verdragsluitende P
 
 ### HOOFDSTUK 4. Grenswateren
 
-#### Artikel 56
+##### Artikel 56
 
 1. Grenswateren in de zin van dit hoofdstuk zijn oppervlaktewateren, met inbegrip van de oevers, die de Nederlands-Duitse grens overschrijden of ten dele deze vormen.
 
@@ -426,11 +448,11 @@ Bij de uitvoering van dit Verdrag kunnen de Regeringen van de Verdragsluitende P
 
 3. Openbare lichamen in de zin van dit hoofdstuk zijn de op het gebied van elk der Verdragsluitende Partijen voor de grenswateren plaatselijk bevoegde provinciën, gemeenten en publiekrechtelijke lichamen.
 
-#### Artikel 57
+##### Artikel 57
 
 De Verdragsluitende Partijen zullen regelmatig over alle waterstaatkundige vraagstukken die voor de grenswateren in de nabuurstaat van belang zijn overleg plegen, teneinde deze op een voor beide Partijen bevredigende wijze op te lossen. Dit overleg zal in de in artikel 64 bedoelde Permanente Grenswaterencommissie en haar subcommissies plaatsvinden.
 
-#### Artikel 58
+##### Artikel 58
 
 1. De Verdragsluitende Partijen nemen op zich bij de uitoefening van hun waterstaatkundige taak naar behoren rekening te houden met de belangen welke de nabuurstaat bij de grenswateren heeft. Zij zullen derhalve alle maatregelen nemen of bevorderen, die nodig zijn om een met de belangen van beide Partijen overeenkomende geordende toestand van de binnen hun grondgebied gelegen gedeelten der grenswateren tot stand te brengen en te handhaven en geen maatregelen nemen of toelaten, die de nabuurstaat wezenlijk nadeel berokkenen.
 
@@ -448,7 +470,7 @@ De Verdragsluitende Partijen zullen regelmatig over alle waterstaatkundige vraag
 
 3. Bovendien zullen de Verdragsluitende Partijen, in het kader van hun financiële mogelijkheden, ernaar streven de waterstaatkundige toestand der grenswateren op hun grondgebied in overeenstemming met de wederzijdse belangen te verbeteren en eventueel, indien zulks billijk is, bij te dragen in de kosten van maatregelen met betrekking tot de grenswateren op het grondgebied van de nabuurstaat.
 
-#### Artikel 59
+##### Artikel 59
 
 1. Voor de uitvoering van de bepalingen van dit hoofdstuk zullen de Verdragsluitende Partijen, voor afzonderlijke grenswateren naar behoefte bijzondere overeenkomsten sluiten. Zodanige overeenkomsten kunnen eveneens tussen het Koninkrijk der Nederlanden enerzijds en de „Länder” Nedersaksen en Noordrijnland-Westfalen met toestemming van de Regering van de Bondsrepubliek Duitsland anderzijds worden gesloten.
 
@@ -456,33 +478,33 @@ De Verdragsluitende Partijen zullen regelmatig over alle waterstaatkundige vraag
 
 3. Bestaande overeenkomsten worden, ook indien zij van de bepalingen van dit hoofdstuk afwijken, voor zover zij betrekking hebben op grenswateren, verder toegepast tot zij worden gewijzigd of aangevuld.
 
-#### Artikel 60
+##### Artikel 60
 
 1. Indien wordt beoogd op het grondgebied van een Verdragsluitende Partij nieuwe maatregelen welke de waterstaatkundige toestand op het grondgebied van de andere Partij wezenlijk kunnen beïnvloeden, uit te voeren of de uitvoering hiervan toe te laten, dient de Permanente Grenswaterencommissie hiervan zo spoedig mogelijk in kennis te worden gesteld.
 
 2. Iedere Verdragsluitende Partij deelt de andere Partij mede welke autoriteiten of openbare lichamen harerzijds bevoegd zijn de in lid 1 bedoelde mededelingen te doen.
 
-#### Artikel 61
+##### Artikel 61
 
 Iedere Verdragsluitende Partij kan tegen door de andere Partij voorgenomen of aangevangen maatregelen of tegen het achterwege laten daarvan, waardoor wezenlijke schade dreigt te worden veroorzaakt of reeds veroorzaakt is, binnen een redelijke termijn bij de Permanente Grenswaterencommissie bezwaren indienen, welke moeten worden gemotiveerd met een te verwachten of reeds ontstane schending van aangegane verplichtingen.
 
-#### Artikel 62
+##### Artikel 62
 
 1. Iedere Verdragsluitende Partij is verplicht, de uitvoering van de beoogde maatregelen waartegen de andere Partij bezwaar heeft gemaakt, tot aan de beëindiging der beraadslagingen in de Permanente Grenswaterencommissie, of eventueel tussen de Regeringen, op te schorten, tenzij de andere Verdragsluitende Partij instemt met een andere regeling.
 
 2. Lid 1 is niet van toepassing indien een Verdragsluitende Partij de uitvoering van de gewraakte maatregelen niet kan uitstellen zonder haar eigen belangen ernstig in gevaar te brengen. De rechten van de andere Verdragsluitende Partij blijven evenwel onverlet.
 
-#### Artikel 63
+##### Artikel 63
 
 1. Indien een Verdragsluitende Partij, ondanks overeenkomstig artikel 61 ingediende bezwaren van de andere Partij, haar verplichtingen krachtens dit hoofdstuk of krachtens de overeenkomstig artikel 59 te sluiten bijzondere overeenkomsten schendt en daardoor op het grondgebied van de andere Verdragsluitende Partij schade veroorzaakt, is zij verplicht deze schade te vergoeden.
 
 2. De verplichting tot schadevergoeding bestaat alleen ten aanzien van de schade die na de indiening der bezwaren is ontstaan.
 
-#### Artikel 64
+##### Artikel 64
 
 Ter bevordering van een samenwerking in goede nabuurschap met betrekking tot de grenswateren, stellen de Verdragsluitende Partijen een Permanente Nederlands-Duitse Grenswaterencommissie in.
 
-#### Artikel 65
+##### Artikel 65
 
 1. ledere Regering benoemt drie deskundige leden van de Commissie, onder wie een voorzitter, en hun plaatsvervangers. De eerste benoeming vindt binnen drie maanden na inwerkingtreding van dit Verdrag plaats.
 
@@ -492,7 +514,7 @@ Ter bevordering van een samenwerking in goede nabuurschap met betrekking tot de 
 
 4. Ter regeling van haar werkzaamheden kan de Commissie een reglement van orde vaststellen.
 
-#### Artikel 66
+##### Artikel 66
 
 1. De Commissie heeft tot taak door gemeenschappelijke beraadslagingen over alle zich bij de toepassing van de bepalingen van dit hoofdstuk voordoende vraagstukken, door het wederzijds verstrekken van inlichtingen alsmede door uitwisseling van ervaringen, de uitvoering van de bepalingen van dit hoofdstuk te bevorderen.
 
@@ -510,13 +532,13 @@ Ter bevordering van een samenwerking in goede nabuurschap met betrekking tot de 
 
 8. Zij dient er in het bijzonder naar te streven een aanbeveling te doen indien een Verdragsluitende Partij een bezwaar overeenkomstig artikel 61 heeft ingediend.
 
-#### Artikel 67
+##### Artikel 67
 
 1. Indien in de Commissie in het geval bedoeld in lid 8 van artikel 66 geen overeenstemming wordt bereikt over een aanbeveling, zullen de beide Regeringen er naar streven, overeenstemming te bereiken.
 
 2. Indien dit niet gelukt of indien de Regeringen, ondanks een aanbeveling van de Commissie, geen overeenstemming kunnen bereiken, kan iedere Regering een beroep doen op het Scheidsgerecht.
 
-#### Artikel 68
+##### Artikel 68
 
 1. De Commissie besluit, naar behoefte, voor afzonderlijke grenswateren tot het instellen van subcommissies waarvan de leden op basis van pariteit worden benoemd.
 
@@ -524,11 +546,11 @@ Ter bevordering van een samenwerking in goede nabuurschap met betrekking tot de 
 
 3. De subcommissies hebben in hun gebied dezelfde taak als de Commissie en brengen aan deze over hun werkzaamheden verslag uit. Tot het in ontvangstnemen en behandelen van bezwaren en tot het doen van aanbevelingen is slechts de Commissie bevoegd.
 
-#### Artikel 69
+##### Artikel 69
 
 Voor het beslissen van alle geschillen tussen de Verdragsluitende Partijen betreffende de uitlegging of toepassing van de bepalingen van dit hoofdstuk en de overeenkomstig artikel 59 te sluiten bijzondere overeenkomsten, wordt, met uitsluiting van andere verdragsregelingen inzake de beslechting van geschillen, een Scheidsgerecht ingesteld.
 
-#### Artikel 70
+##### Artikel 70
 
 1. Het Scheidsgerecht bestaat uit een permanente voorzitter en uit twee assessoren die voor elk afzonderlijk geschil zullen worden benoemd. Bij overlijden, aftreden of verhindering van de voorzitter wordt zijn functie door een plaatsvervanger waargenomen.
 
@@ -548,7 +570,7 @@ Voor het beslissen van alle geschillen tussen de Verdragsluitende Partijen betre
 
 9. Het Scheidsgerecht bepaalt zelf de plaats waar het zijn zittingen houdt. Aan het Scheidsgerecht worden twee secretarissen toegevoegd, van wie iedere Regering er een benoemt.
 
-#### Artikel 71
+##### Artikel 71
 
 1. Indien de Regering van een der Verdragsluitende Partijen een geschil ter beslissing wenst voor te leggen aan het Scheidsgerecht, dient zij bij de voorzitter een conclusie van eis in en doet tegelijkertijd de Regering van de andere Verdragsluitende Partij een duplicaat van deze conclusie van eis toekomen.
 
@@ -556,7 +578,7 @@ Voor het beslissen van alle geschillen tussen de Verdragsluitende Partijen betre
 
 3. De voorzitter bespreekt daarna eerst het geschil met beide Regeringen teneinde overeenstemming tot stand te brengen. Indien hij zijn bemoeiingen als mislukt beschouwt, deelt hij dit aan beide Regeringen mede.
 
-#### Artikel 72
+##### Artikel 72
 
 1. Het Scheidsgerecht beslist op grond van de bepalingen van dit hoofdstuk, de overeenkomstig artikel 59 te sluiten bijzondere overeenkomsten, alsmede de algemene regels van het volkenrecht.
 
@@ -564,25 +586,25 @@ Voor het beslissen van alle geschillen tussen de Verdragsluitende Partijen betre
 
 3. Op verzoek van een van beide Regeringen kan de voorzitter in dringende gevallen reeds vóór de benoeming der assessoren voorlopige maatregelen nemen. Op verzoek van een der Regeringen beslist het Scheidsgerecht ten aanzien van de vraag of de door de voorzitter genomen voorlopige maatregel dient te worden opgeheven. Het Scheidsgerecht is bevoegd, de partijen gehoord, voorlopige maatregelen te nemen.
 
-#### Artikel 73
+##### Artikel 73
 
 De kosten voor de voorzitter van het Scheidsgerecht en voor diens plaatsvervanger worden door de Verdragsluitende Partijen ieder voor de helft gedragen. Iedere Verdragsluitende Partij draagt de kosten voor de door haar benoemde assessor, voor de door haar benoemde secretaris, alsmede voor haar vertegenwoordiging bij de procedure voor het Scheidsgerecht. De overige kosten van het Scheidsgerecht worden door de Verdragsluitende Partijen ieder voor de helft gedragen.
 
 ### HOOFDSTUK 5. Grondbezit in de nabijheid van de grens
 
-#### Artikel 74
+##### Artikel 74
 
 In het belang van de vriendschappelijke betrekkingen in het gebied van de Nederlands-Duitse grens wordt de hiernavolgende regeling getroffen.
 
-#### Artikel 75
+##### Artikel 75
 
 Het Koninkrijk der Nederlanden verplicht zich, onder de in de artikelen 76 tot en met 79 aangegeven voorwaarden, de eigendom van de percelen waarvan de bijzonderheden betreffende ligging, grootte en prijs zijn vastgelegd met een totale oppervlakte van 960,26.03 ha met alle daaraan verbonden rechten en lasten over te dragen aan de overeenkomstig artikel 77 door de „Deutsche Bauernsiedlung GmbH” te Düsseldorf aan te wijzen personen.
 
-#### Artikel 76
+##### Artikel 76
 
 De „Deutsche Bauernsiedlung GmbH” zal het Koninkrijk der Nederlanden voor de overeenkomstig artikel 75 over te dragen percelen binnen zes maanden na de inwerkingtreding van dit Verdrag een koopprijs van 2.578.355,96 gulden betalen.
 
-#### Artikel 77
+##### Artikel 77
 
 1. De „Deutsche Bauernsiedlung GmbH” zal binnen een jaar na de inwerkingtreding van dit Verdrag aan het Nederlandse Beheersinstituut, onderscheidenlijk het Staatsbosbeheer, de namen en adressen mededelen van de personen aan wie de percelen moeten worden overgedragen.
 
@@ -590,15 +612,15 @@ De „Deutsche Bauernsiedlung GmbH” zal het Koninkrijk der Nederlanden voor de
 
 3. Voor zover de „Deutsche Bauernsiedlung GmbH” binnen een jaar na de inwerkingtreding van dit Verdrag geen personen aanwijst overeenkomstig lid 1 en lid 2, worden de betreffende percelen aan de „Deutsche Bauernsiedlung GmbH” overgedragen.
 
-#### Artikel 78
+##### Artikel 78
 
 Na betaling van de in artikel 76 genoemde koopprijs en na ontvangst van de in artikel 77 bedoelde mededelingen, zullen de in lid 1 van artikel 77 genoemde Nederlandse instanties de akten van overdracht voor de afzonderlijke percelen zo snel mogelijk doen opmaken en in het kadaster doen inschrijven.
 
-#### Artikel 79
+##### Artikel 79
 
 De bijzonderheden worden rechtstreeks tussen de in lid 1 van artikel 77 genoemde Nederlandse instanties en de „Deutsche Bauernsiedlung GmbH” geregeld, met name indien tengevolge van de feitelijke toestand of een rechterlijke beslissing een herziening van de aan de verkoop ten grondslag liggende documenten en, als gevolg daarvan, een herziening van de in artikel 76 genoemde koopprijs nodig wordt, voor zover die feitelijke toestand of die rechterlijke beslissing bij de opstelling van de aan de verkoop ten grondslag liggende documenten niet in aanmerking is genomen. De in artikel 76 genoemde betalingstermijn blijft onverlet.
 
-#### Artikel 80
+##### Artikel 80
 
 1. De Regering van het Koninkrijk der Nederlanden stemt ermee in
 
@@ -608,7 +630,7 @@ De bijzonderheden worden rechtstreeks tussen de in lid 1 van artikel 77 genoemde
 
 2. De bepalingen van artikel 79 zijn van overeenkomstige toepassing.
 
-#### Artikel 81
+##### Artikel 81
 
 1. De overdracht van percelen overeenkomstig de artikelen 75 tot en met 80 is niet onderworpen aan de in lid 1 van artikel 3 van de wet op de vervreemding van landbouwgronden voorgeschreven goedkeuring van de grondkamer.
 
@@ -620,7 +642,7 @@ De bijzonderheden worden rechtstreeks tussen de in lid 1 van artikel 77 genoemde
 
 5. Voor het overige worden de met de overdracht van percelen overeenkomstig de artikelen 75 tot en met 80 verband houdende kosten door de „Deutsche Bauernsiedlung GmbH” gedragen.
 
-#### Artikel 82
+##### Artikel 82
 
 1. De Regering van het Koninkrijk der Nederlanden heeft kennis genomen van de wens van de Regering van de Bondsrepubliek Duitsland dat voor zover mogelijk ook verkopen uit particulier bezit plaatsvinden van in het gebied van de Nederlands-Duitse grens gelegen percelen die voor de oorlog Duits eigendom waren.
 
@@ -632,11 +654,11 @@ De bijzonderheden worden rechtstreeks tussen de in lid 1 van artikel 77 genoemde
 
 ### HOOFDSTUK 6. Grensoverschrijdend verkeer over land en via de binnenwateren
 
-#### Artikel 83
+##### Artikel 83
 
 De Verdragsluitende Partijen zullen door middel van een nauwe samenwerking tussen de in beide staten bevoegde autoriteiten en instanties zorg dragen voor een verbetering van alle grensoverschrijdende verkeersverbindingen over land en via de binnenwateren, die van wederzijds belang zijn voor het verkeer tussen hun gebieden.
 
-#### Artikel 84
+##### Artikel 84
 
 1. De nog niet opgeloste vraagstukken betreffende het grensoverschrijdende spoorwegverkeer over de Nederlands-Duitse grens dienen zo spoedig mogelijk door de bevoegde Duitse en Nederlandse instanties te worden geregeld. Dit geldt in het bijzonder voor de aanpassing van de vroegere Nederlands-Duitse overeenkomsten en afspraken betreffende de grensoverschrijdende baanvakken aan de huidige omstandigheden.
 
@@ -644,7 +666,7 @@ De Verdragsluitende Partijen zullen door middel van een nauwe samenwerking tusse
 
 3. Het baanvak Emmerik—Zevenaar wordt met ingang van de nieuwe dienstregeling in 1960 weer opengesteld voor het goederenverkeer per spoor. De nadere uitwerking hiervan zal door de bevoegde Duitse en Nederlandse instanties gezamenlijk worden overeengekomen.
 
-#### Artikel 85
+##### Artikel 85
 
 1. De aanleg van de autoweg Arnhem—Oberhausen (E 36) geschiedt door de Verdragsluitende Partijen op de volgende wijze:
 
@@ -670,13 +692,13 @@ De Verdragsluitende Partijen zullen door middel van een nauwe samenwerking tusse
 
 ## ALGEMEEN DEEL
 
-#### § 1. Oude en nieuwe grens
+##### § 1. Oude en nieuwe grens
 
 1. „Oude grens” in de zin van deze Bijlage is de grens die op 31 december 1937 bestond tussen het Koninkrijk der Nederlanden en het Duitse Rijk krachtens de in artikel 1 van dit Verdrag vermelde grensverdragen en andere overeenkomsten.
 
 2. „Nieuwe grens” in de zin van deze Bijlage is de grens tussen liet Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland krachtens artikel 1 van dit Verdrag, voorzover zij afwijkt van de op 31 december 1937 bestaande grens tussen het Koninkrijk der Nederlanden en het Duitse Rijk.
 
-#### § 2. Recht van weggebruik
+##### § 2. Recht van weggebruik
 
 1. Onder recht van weggebruik in de zin van deze Bijlage wordt het recht verstaan, bepaalde wegen te gebruiken, die binnen korte afstand van de grens over het grondgebied van de andere Verdragsluitende Partij voeren. Controle aan de grens blijft hierbij achterwege. Onder voorwaarde van wederuitvoer onderscheidenlijk van wederinvoer behoeven voor meegevoerde voorwerpen geen in- of uitvoerrechten en andere heffingen terzake van de in- of uitvoer te werden voldaan en blijven in-, uit- en doorvoerverboden en -beperkingen buiten toepassing. De bepalingen van artikel 36 van dit Verdrag zijn van overeenkomstige toepassing.
 
@@ -686,31 +708,31 @@ De Verdragsluitende Partijen zullen door middel van een nauwe samenwerking tusse
 
 4. Ambtenaren, belast met de grensbewaking en het douanetoezicht, hebben het recht bij het weggebruik hun dienstkleding of een officieel kenteken zichtbaar te dragen en hun dienstwapens, voertuigen, dienstuitrusting en diensthonden mee te nemen. Zij mogen echter geen ambtshandelingen verrichten. Een verklaring als bedoeld in lid 2 behoeven zij niet te bezitten.
 
-#### § 3. Ambtshandelingen door Duitse ambtenaren, belast met de grensbewaking en het douanetoezicht
+##### § 3. Ambtshandelingen door Duitse ambtenaren, belast met de grensbewaking en het douanetoezicht
 
 1. Onder het recht van Duitse ambtenaren, belast met de grensbewaking en het douanetoezicht, tot het verrichten van bepaalde ambtshandelingen in de zin van deze Bijlage wordt het recht van deze ambtenaren verstaan in het Koninkrijk der Nederlanden grenstoezicht uit te oefenen op dezelfde voet als in de Bondsrepubliek Duitsland. Ambtshandelingen tegenover Nederlanders zijn echter slechts toegestaan inzover dit noodzakelijk is om de identiteit van personen ter plaatse vast te stellen.
 
 2. De ambtenaren, belast met de grensbewaking en het douanetoezicht, zijn verplicht hun dienstkleding of een officieel kenteken zichtbaar te dragen. Zij hebben het recht hun dienstwapens, voertuigen, dienstuitrusting en diensthonden mee te nemen; wapens of honden mogen echter niet tot het verrichten van ambtshandelingen worden gebruikt.
 
-#### § 4. Kaarten
+##### § 4. Kaarten
 
 De bijgevoegde kaarten maken deel uit van deze Bijlage1)De kaarten behorende bij de § § 5 tot en met 47 van Bijlage A en de § § 2 tot en met 5 van Bijlage B, alsmede een overzichtskaart, worden afzonderlijk uitgegegeven..
 
 ## BIJZONDER DEEL
 
-#### § 5. Vaalserquartier/Vaals
+##### § 5. Vaalserquartier/Vaals
 
 Van het snijpunt van de oude grens tussen de grensstenen 196 en 196**a** met de zuidwestzijde van de Vaalser Landstrasse loopt de nieuwe grens, deze straatweg kruisend, naar een punt op de noordoostzijde van de straatweg, dat ongeveer 6,5 m ten oosten van grenssteen 196**a** ligt. Van hier loopt zij in het midden van de 1,5 m brede scheidingsstrook, die tussen de beide rijbanen aldus zal worden aangelegd, dat een 1,5 m breed trottoir en een 6,0 m brede rijbaan op Nederlands gebied liggen, tot ongeveer 65 m ten zuidwesten van het in het midden van de Senserbach gelegen grenspunt 197 en van hier in rechte lijn naar het grenspunt 197 op de oude grens.
 
 De voor het doorgaand verkeer naar Laurensberg ontworpen rijbaan op het Duitse gedeelte van de straatweg zal zo worden aangelegd, dat voertuigen zich niet van de Duitse op de Nederlandse rijbaan kunnen begeven en niet ter hoogte van het Duitse douanekantoor naar Nederlands gebied kunnen afbuigen. Voor het doorgaand verkeer op de Duitse rijbaan zal een stopverbod worden uitgevaardigd.
 
-#### § 6. Herzogenrath (Neustrasse)/Kerkrade (Nieuwstraat)
+##### § 6. Herzogenrath (Neustrasse)/Kerkrade (Nieuwstraat)
 
 Van grenssteen 229 loopt de nieuwe grens loodrecht op de Nieuwstraat ongeveer 6,2 m in oostelijke richting, van hier in noordelijke richting tot een punt 11,0 m ten oosten van de gevel van het huis Nieuwstraat nr. 4; van hier volgt zij in noordelijke richting een lijn die 10,5 m ten oosten van de gevel van het huis Nieuwstraat nr. 106 alsmede 10,0 m ten oosten van de gevel van het huis Nieuwstraat nr. 141 ligt, tot ter hoogte van het huis Nieuwstraat nr. 145. Van hier loopt zij volgens een cirkelboog met een straal van 100 m en in aansluiting daarop volgens een lijn die 11,0 m ten zuidoosten van de gevel van het huis Nieuwstraat nr. 156 en 8,9 m ten zuidoosten van de gevel van het huis Nieuwstraat nr. 181 ligt tot het snijpunt met het verlengde van de westzijde van een weg („Breiter Weg”) ongeveer 7,0 m ten zuiden van grenssteen 232. Van hier loopt zij in noordelijke richting ongeveer 13 m evenwijdig aan de oude grens tussen de grensstenen 232 en 232**a** en van hier naar een punt op de oude grens, dat ongeveer 4 m ten zuiden van grenssteen 232**a** ligt.
 
 Het Koninkrijk der Nederlanden staat een Duitse openbare autobusonderneming toe te rijden door het Nederlandse deel van de Nieuwstraat, dat door een gemeenschappelijk aan te leggen afscheiding van het Duitse deel wordt gescheiden. Voor de autobussen geldt een stopverbod. De inzittenden van de autobussen zijn niet verplicht, een grensoverschrijdingsdocument bij zich te hebben. Controle aan de grens blijft achterwege.
 
-#### § 7. Herzogenrath/ Rolduc
+##### § 7. Herzogenrath/ Rolduc
 
 De nieuwe grens loopt van grenssteen 232**b** in oostelijke richting langs de zuidgrens van het grondeigendom van het klooster Rolduc naar een punt ongeveer 170 m ten oosten van grenssteen 232**b** en van hier in rechte lijn naar een punt dat ongeveer 115 m ten oosten van grenssteen 234 en ongeveer 104 m ten zuiden van de zuidoostelijke grenssteen 234**a** ligt. Van hier loopt zij in rechte lijn naar een punt op de zuidelijke perceelsgrens van het weiland op de Klosterratherberg, welk punt ongeveer 45 m van het snijpunt van het midden van de hoogspanningsleiding met deze perceelsgrens ligt. Van hier volgt zij een cirkelboog met een straal van ongeveer 365 m tot een punt aan de bosrand, dat ongeveer 80 m ten noordoosten van de oostelijke grenssteen 234**b** ligt en ongeveer 65 m ten zuidoosten van de zuidelijke grenssteen 235. Van hier loopt zij langs de bosrand tot een punt aan de Kloosterlinderweg ongeveer 11 m ten westen van de zuidelijke grenssteen 235. Van hier loopt zij via de zuidelijke grenssteen 235 naar de oostelijke grenssteen 236, van hier ongeveer 15 m in noordoostelijke richting, van hier naar een punt op het midden van de verbindingslijn tussen de oostelijke grensstenen 236 en 237, van hier naar een punt 12 m ten noordoosten van de oostelijke grenssteen 237 en van hier in rechte lijn over een afstand van ongeveer 160 m naar een punt dat ongeveer 260 m ten westen van de westelijke grenssteen 238 ligt. Van hier loopt zij in rechte lijn ongeveer 300 m naar een punt dat op een afstand van ongeveer 325 m van de westelijke grenssteen 238 in het midden van de Worm na de norrnalisering van die beek (zie § 8) ligt.
 
@@ -718,13 +740,13 @@ De nieuwe grens loopt van grenssteen 232**b** in oostelijke richting langs de zu
 
 - 2. De Bondsrepubliek Duitsland verplicht zich, de afwatering van de Vrouwenzijp (Rolduc-Bach) naar de Worm in stand te houden.
 
-#### § 8. Rimburg/Eygelshoven
+##### § 8. Rimburg/Eygelshoven
 
 De nieuwe grens loopt tussen het in § 7 genoemde punt dat op een afstand van ongeveer 325 m van de westelijke grenssteen 238 ligt, en grenssteen 239 volgens de in de bijgevoegde kaart aangegeven middellijn van de Worm, zoals deze binnen vijf jaar na de inwerkingtreding van dit Verdrag door de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden volgens een gezamenlijk plan zal worden genormaliseerd.
 
 Tot de normalisering van de Worm brengt de grenswijziging geen verandering in de wederzijdse gebruiksrechten met betrekking tot deze waterloop.
 
-#### § 9. Scherpenseel/Waubach
+##### § 9. Scherpenseel/Waubach
 
 De nieuwe grens loopt van de aan de oostzijde van de Veeweg staande grenssteen 256 in noordwestelijke richting langs de oostzijde van de Veeweg tot de zuidzijde van de na ongeveer 120 m kruisende Landweg. Hier kruist zij de Veeweg loodrecht tot de oude grens.
 
@@ -732,11 +754,11 @@ De nieuwe grens loopt van de aan de oostzijde van de Veeweg staande grenssteen 2
 
 - 2. Voor het weggedeelte langs de nieuwe grens wordt aan de Duitse ambtenaren, belast met de grensbewaking en het douanetoezicht, het recht tot het verrichten van bepaalde ambtshandelingen overeenkomstig § 3 verleend.
 
-#### § 10. Tudderen
+##### § 10. Tudderen
 
 De grens loopt van grenssteen 269 tot grenssteen 324 als de oude grens, voorzover in de §§ 11 tot en met 15 niet iets anders is bepaald.
 
-#### § 11. Genormaliseerde Roode Beek bij Mindergangelt/Schinveld
+##### § 11. Genormaliseerde Roode Beek bij Mindergangelt/Schinveld
 
 Van het snijpunt van het midden van de genormaliseerde Roode Beek met de oude grens tussen de grensstenen 269 en 270 loopt de nieuwe grens in het midden van de genormaliseerde Roode Beek tot ongeveer 320 m ten zuidoosten van grenssteen 274; hier verlaat zij de loop van de beek en loopt ongeveer 10 m in noordelijke richting tot de oude grens tussen de grensstenen 273 en 274.
 
@@ -744,7 +766,7 @@ Van het snijpunt van het midden van de genormaliseerde Roode Beek met de oude gr
 
 - 2. De Nederlandse meetinrichting op de noordelijke oever van de Roode Beek kan gehandhaafd blijven. De personen die daartoe opdracht hebben van de bevoegde Nederlandse autoriteit, hebben te allen tijde toegang tot de inrichting.
 
-#### § 12. Oude Roode Beek bij Tudderen/Sittard
+##### § 12. Oude Roode Beek bij Tudderen/Sittard
 
 Van een punt in het midden van de oude Roode Beek ongeveer 45 m ten zuidoosten van de straatweg van Sittard naar Tudderen, waar de Roode Beek in noordelijke richting afbuigt, loopt de nieuwe grens in noordwestelijke richting in het verlengde van de oude grens tot het snijpunt met de noordwestzijde van de genoemde straatweg. Van hier loopt zij ongeveer 340 m in rechte lijn naar een punt dat gelegen is aan de zuidoostzijde van een van Tudderen naar de weilanden bij de Roode Beek lopende landweg en ongeveer 230 m ten noordoosten van het midden van de genormaliseerde Roode Beek. Van hier loopt zij ongeveer 205 m in rechte lijn naar een punt op de noordelijke oever van de oude Roode Beek, dat ongeveer 90 m van het midden van de genormaliseerde Roode Beek ligt, en van hier naar een punt in het midden van de genormaliseerde Roode Beek ongeveer 570 m ten noordwesten van de kruising van de genormaliseerde Roode Beek met de straatweg van Sittard naar Tudderen. Zij volgt daarna over een afstand van ongeveer 50 m het midden van de genormaliseerde Roode Beek tot het snijpunt met de oude grens in de oude loop van de Roode Beek.
 
@@ -758,25 +780,25 @@ Van een punt in het midden van de oude Roode Beek ongeveer 45 m ten zuidoosten v
 
 - 3. De bovengenoemde bedingen gelden zo lang, totdat voor de afwateringssituatie aan Duitse zijde in het kader van een ruilverkaveling een nieuwe regeling is getroffen, ten hoogste echter gedurende vijf jaar.
 
-#### § 13. Genormaliseerde Roode Beek ten noordwesten van Tudderen
+##### § 13. Genormaliseerde Roode Beek ten noordwesten van Tudderen
 
 Van het in § 12 bedoelde snijpunt van het midden van de genormaliseerde Roode Beek met de oude grens in de oude loop van de Roode Beek, ongeveer 620 m ten noordwesten van de kruising van de genormaliseerde Roode Beek met de straatweg van Sittard naar Tudderen, loopt de nieuwe grens in het midden van de genormaliseerde Roode Beek tot aan het verlengde van de zuidelijke begrenzing van het perceel, behorende bij het huis nr. 11, ten zuiden van grenssteen 310.
 
-#### § 14. Isenbruch/Susteren
+##### § 14. Isenbruch/Susteren
 
 Van het in § 13 bedoelde, ten zuiden van grenssteen 310 gelegen snijpunt van het midden van de genormaliseerde Roode Beek met het verlengde van de zuidelijke begrenzing van het perceel, behorende bij het huis nr. 11, loopt de nieuwe grens in rechte lijn langs deze perceelsgrens op een afstand van ongeveer 5 m evenwijdig aan de buitenkant van de zuidelijke gevelmuur tot de oostzijde van de weg van Susteren naar Isenbruch en van hier langs deze wegzijde tot de oude grens tussen de grensstenen 311 en 312.
 
 Voor het weggedeelte tussen de oude en de nieuwe grens wordt aan de in de Bondsrepubliek Duitsland wonende grensbevolking en aan de Duitse ambtenaren, belast met de grensbewaking en het douanetoezicht, overeenkomstig § 2 een recht van weggebruik verleend.
 
-#### § 15. Saeffelen/Koningsbosch
+##### § 15. Saeffelen/Koningsbosch
 
 Van het snijpunt van de noordwestelijke begrenzing van het perceel behorende bij het huis nr. 143, met de oude grens tussen de grensstenen 323 en 324, ongeveer 40 m ten zuidoosten van grenssteen 323, looρt de nieuwe grens langs deze perceelsgrens ongeveer 20 m in noordoostelijke richting en vervolgens ongeveer 100 m in zuidoostelijke richting tot de westzijde van de straatweg van Saeffelen naar Koningsbosch en kruist hier deze straatweg loodrecht naar de oude grens tussen de grensstenen 324 en 325.
 
-#### § 16. Genormaliseerde Roode Beek bij Vlodrop
+##### § 16. Genormaliseerde Roode Beek bij Vlodrop
 
 De nieuwe grens loopt tussen de grensstenen 373 en 374 in het midden van de genormaliseerde Roode Beek.
 
-#### § 17. Straelen/Arcen
+##### § 17. Straelen/Arcen
 
 - a). Van het snijpunt van de zuidelijke begrenzing van het huidige Nederlandse grondbezit met de oude grens tussen de grensstenen 480 en 481, ongeveer 52 m ten noorden van grenssteen 480, loopt de nieuwe grens langs deze begrenzing van het grondbezit tot de westzijde van de weg (Tegelsbeckers Dyck), van hier łangs deze wegzijde tot een punt ongeveer 40 m ten zuiden van grenssteen 482 op de oude grens.
 
@@ -786,7 +808,7 @@ De nieuwe grens loopt tussen de grensstenen 373 en 374 in het midden van de geno
 
 - 2. Voor de weg tussen de grensstenen 485 en 486 wordt aan de in de Bondsreρubliek Duitsland wonende grensbevolking en aan de Duitse ambtenaren, belast met de grensbewaking en het douanetoezicht, overeenkomstig § 2 een recht van weggebruik verleend.
 
-#### § 18. Walbeck/Arcen
+##### § 18. Walbeck/Arcen
 
 - a). Van grenssteen 488 loopt de nieuwe grens in noordelijke richting naar een punt op de westzijde van de straatweg van Walbeck naar het douanekantoor Lingsfort, welk punt ongeveer 155 m ten noorden van de noordwesthoek van het douanekantoor ligt, van hier langs de buitenzijde van de sloot aan de westzijde van deze straatweg tot de noordwestzijde van de toegangsweg naar het logement „Hollandia” en van hier langs deze wegzijde tot de oude grens tussen de grensstenen 491 en 492.
 
@@ -794,7 +816,7 @@ De nieuwe grens loopt tussen de grensstenen 373 en 374 in het midden van de geno
 
 Voor de weg tussen de grensstenen 496 en 498 wordt aan de in de Bondsrepubliek Duitsland wonende grensbevolking en aan de Duitse ambtenaren, belast met de grensbewaking en het douanetoezicht, overeenkomstig § 2 een recht van weggebruik verleend.
 
-#### § 19. Gaesdonk/Siebengewald
+##### § 19. Gaesdonk/Siebengewald
 
 Van de zuidelijke grenssteen 530 af volgt de nieuwe grens de zijde van de weg ongeveer 475 m in noordoostelijke richting. Daarna loopt zij in rechte lijn ongeveer 11 m voorbij de zuidelijke grenssteen 531 tot de huidige Duitse slagboom. Hier kruist zij de weg langs de zuidwestzijde van de slagboom. Van het noordwestelijke einde van de slagboom loopt zij in rechte lijn naar de westelijke grenssteen 532 (bij de brug) en daaraan voorbij tot de oude grens in het midden van de Kendelbeek.
 
@@ -802,7 +824,7 @@ Van de zuidelijke grenssteen 530 af volgt de nieuwe grens de zijde van de weg on
 
 - 2. De Bondsrepubliek Duitsland zal met ingang van de inwerkingtreding van dit Verdrag aan het Duitse douanekantoor Gaesdonk de bevoegdheden verlenen van een „Zollamt 2”, met uitzondering van de bevoegdheden voor de douanebehandeling van vlees en vleeswaren.
 
-#### § 20. Boeckelt/Bergen
+##### § 20. Boeckelt/Bergen
 
 - a). Van grenssteen 535 loopt de nieuwe grens aan de zuidzijde van de weg, waarbij de zuidelijke grenssteen 536 blijft gehandhaafd, naar de zuidelijke grenssteen 537 en van hier door naar de oude grens op het midden van de weg tussen de grenspunten 537 en 538.
 
@@ -810,7 +832,7 @@ Van de zuidelijke grenssteen 530 af volgt de nieuwe grens de zijde van de weg on
 
 Voor de weg tussen de grensstenen 537 en 538 wordt aan de wederzijdse grensbevolking en aan de wederzijdse ambtenaren, belast met de grensbewaking en het douanetoezicht, overeenkomstig § 2 een recht van weggebruik verleend.
 
-#### § 21. Hommersum/Bergen
+##### § 21. Hommersum/Bergen
 
 - a). Van grenssteen 555 loopt de nieuwe grens in noordwestelijke richting ongeveer 60 m langs de noordoostzijde van de landweg, kruist deze weg loodrecht en loopt van hier in rechte lijn in noordwestelijke richting naar een punt dat op de noordwestelijke wegzijde 40 m ten zuiden van grenssteen 558 ongeveer in het verlengde van de rechte tussen de grensstenen 559 en 558 ligt, en van hier naar grenssteen 558.
 
@@ -820,13 +842,13 @@ Voor de weg tussen de grensstenen 537 en 538 wordt aan de wederzijdse grensbevol
 
 - 2. Voor dezelfde weg wordt aan de Duitse ambtenaren, belast met de grensbewaking en het douanetoezicht, het recht tot het verrichten van bepaalde ambtshandelingen overeenkomstig § 3 verleend.
 
-#### § 22. Grafwegen/Ottersurn
+##### § 22. Grafwegen/Ottersurn
 
 Van de oostelijke grenssteen 589 loopt de nieuwe grens aan de oostzijde van de weg tot grenssteen 595.
 
 Voor de weg tussen de grensstenen 589 en 595 wordt aan het personeel van de Duitse „Forstverwaltung” (Bosbeheer) en andere belanghebbenden overeenkomstig § 2 een recht van weggebruik verleend voor alle werkzaamheden die verband houden met de exploitatie van het ten oosten van deze weg gelegen woud. Bij de uitoefening van het recht van weggebruik dient men ter legitimatie een officieel document met foto bij zich te hebben.
 
-#### § 23. Wyler/Beek
+##### § 23. Wyler/Beek
 
 De grens loopt van grenssteen 626 tot grenssteen 626IX als de oude grens. Van hier loopt de nieuwe grens in rechte lijn naar grenssteen 628. Van hier loopt de grens als de oude grens tot een holle weg ongeveer 100 m ten noordwesten van grenssteen 629bis De nieuwe grens volgt van hier de noordwestzijde van de holle weg in noordoostelijke richting tot de hoek van het bos. Van hier loopt zij langs de bosrand via vijf knikpunten naar een vooruitspringende hoek van het bos, die ongeveer 400 m ten noordwesten van de hoek van het bos bij de holle weg ligt, en van hier in rechte lijn verder langs de noordwestzijde van een pad tot waar dit uitkomt op de weg van Vogelsang naar de voormalige schietbaan. Van hier volgt zij de bosrand eerst in zuidoostelijke, vervolgens in noordoostelijke en dan wederom in zuidoostelijke richting en doorsnijdt in het verlengde van de laatstgenoemde bosrand een vooruitspringend bosgedeelte tot aan een pad. Van hier volgt zij wederom de bosrand in noordoostelijke, vervolgens in zuidoostelijke en dan wederom in noordoostelijke richting tot de beboste helling boven het Wylermeer, ongeveer 250 m ten noordwesten van de hofstede Vogelsang. Deze helling in noordoostelijke richting kruisend loopt zij tot in het Wylermeer; vervolgens loopt zij in het midden van het meer tot de zuidoostelijke voet van de Querdamm. Van hier volgt zij de voet van de dam in noordoostelijke richting tot waar de dam een gaping vertoont, loopt om het eind van de dam in noordwestelijke richting om, steekt vervolgens het Wylermeer over en volgt verder in rechte lijn de noordwestzijde van de Querdamm tot de oude grens tussen de grensstenen 642 en 643.
 
@@ -852,7 +874,7 @@ De grens loopt van grenssteen 626 tot grenssteen 626IX als de oude grens. Van hi
 
 - 8. Het Koninkrijk der Nederlanden staat binnen het kader van de Nederlandse wetgeving het nemen van alle maatregelen toe, die vereist zijn voor het onderhoud en het gebruik van het Wylermeer, voorzover dit op Nederlands grondgebied ligt.
 
-#### § 24. Keeken/Millingen
+##### § 24. Keeken/Millingen
 
 De nieuwe grens loopt van het snijpunt van de oude grens tussen de grensstenen 649 en 650 met de noordwestzijde van de grensweg langs deze wegzijde tot de af takking van de weg naar Keeken ten noordoosten van Homüschemühl en kruist hier de grensweg loodrecht naar het snijpunt van zijn zuidoostzijde met de noordoostzijde van de af takkende weg. Van hier loopt zij langs de zuidoostzijde, vervolgens langs de noordoostzijde van de grensweg naar de oostelijke grenssteen 652 en daaraan voorbij tot op de oude grens tussen de grenspunten 652 en 653.
 
@@ -862,41 +884,41 @@ De nieuwe grens loopt van het snijpunt van de oude grens tussen de grensstenen 6
 
 - 3. Nederlandse boeren die op Nederlands gebied tussen Homüschemühl en grenssteen 651 akkers hebben aan de grensweg die via grenssteen 650 naar grenssteen 652 loopt, ontvangen van de Duitse douane-administratie sleutels voor de ongeveer 100 m ten zuidwesten van Homüschemühl geplaatste slagboom. Teneinde over het Duitse gedeelte van de weg hun op Nederlands gebied liggende akkers te bereiken, mogen zij de slagboom open maken, en wel in de tijd van de voornaamste bewerking van het land en in de oogsttijd zowel overdag als 's nachts, en in de overige tijd van het aanbreken van de dag tot het invallen van de nacht.
 
-#### § 25. Elten
+##### § 25. Elten
 
 De grens loopt van het midden van de Rijn ten zuidoosten van Spijk via de grensstenen 660 tot 702 als de oude grens, voorzover in de § § 26 tot en met 29 niet iets anders is bepaald.
 
-#### § 26. Elten (grenssteen 682)
+##### § 26. Elten (grenssteen 682)
 
 De nieuwe grens loopt van grenssteen 682 in het verlengde van de oude grens tussen de grensstenen 681 en 682 ongeveer 10 m tot de oostzijde van de landweg en volgt van hier deze wegzijde tot grenssteen 683.
 
-#### § 27. Elten (douane-emplacement autoweg)
+##### § 27. Elten (douane-emplacement autoweg)
 
 Van het snijpunt van de oude grens tussen de grensstenen 684 en 685 met een lijn die ten zuidwesten van de ontworpen autoweg op een afstand van 55 m evenwijdig aan de as van de autoweg ligt, loopt de nieuwe grens langs deze lijn ongeveer 580 m in zuidoostelijke richting tot de noordzijde van een van west naar oost lopende weg en volgt van hier deze wegzijde tot de as van de ontworpen autoweg. Van hier loopt zij over de as van de ontworpen autoweg ongeveer 350 m in zuidoostelijke richting tot de westzijde van een naar het noorden lopende weg en volgt van hier deze wegzijde in noordelijke richting tot de oude grens tussen de grensstenen 686 en 687.
 
-#### § 28. Elten (grenssteen 689)
+##### § 28. Elten (grenssteen 689)
 
 De nieuwe grens loopt van grenssteen 688 ongeveer 73 m in ongeveer oostelijke richting naar een punt op de oude grens tussen de grensstenen 689 en 690, dat ongeveer 20 m van grenssteen 689 ligt.
 
-#### § 29. Elten (Hoge Heide en autoweg bij Voorthuisen)
+##### § 29. Elten (Hoge Heide en autoweg bij Voorthuisen)
 
 De nieuwe grens loopt van grenssteen 695 in ongeveer westelijke richting aan de zuidzijde van de weg langs de noordrand van het bos tot het knikpunt van deze wegzijde op een afstand van ongeveer 50 m van de weg Elten-Beek. Van hier volgt zij in ongeveer zuidelijke richting over een afstand van ongeveer 90 m de huidige eigendomsgrens van het grondbezit van de Stichting Van Heek tot het knikpunt van deze eigendomsgrens. Van hier loopt zij ongeveer 180 m in zuidoostelijke richting naar een punt, dat op een afstand van 110 m van de as van de ontworpen autoweg ligt. Van hier loopt zij ongeveer 110 m in zuidelijke richting naar een punt op een lijn die op een afstand van 55 m evenwijdig aan de as van de ontworpen autoweg ligt. Van hier volgt zij deze lijn tot de oude grens tussen de grensstenen 702 en 703 in het grenskanaal.
 
 Voor de weg Stokkum-Elten wordt over de autoweg een viaduct voor personenauto's gebouwd. Voorlopig krijgen alleen voetgangers en berijders van rijwielen met of zonder hulpmotor vergunningen voor het gebruik van deze weg overeenkomstig de Overeenkomst inzake het kleine grensverkeer, welke de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden voornemens zijn te sluiten.
 
-#### § 30. Praest/Gendringen
+##### § 30. Praest/Gendringen
 
 De nieuwe grens loopt langs een lijn die ten noordoosten van de ontworpen autoweg op een afstand van 55 m evenwijdig aan de as van de autoweg ligt, tussen de beide snijpunten van deze lijn met de oude grens langs de „Landwehr” tussen de grensstenen 711 en 712.
 
-#### § 31. Genormaliseerde Oude IJssel
+##### § 31. Genormaliseerde Oude IJssel
 
 De nieuwe grens loopt tussen de grensstenen 718 en 720 in het midden van de genormaliseerde Oude IJssel.
 
-#### § 32. Bocholter Aa
+##### § 32. Bocholter Aa
 
 Van het snijpunt van het midden van de genormaliseerde Aa met de oude grens tussen de grensstenen 728 en 729 loopt de nieuwe grens in het midden van de genormaliseerde Aa tot een punt ongeveer 20 m stroomafwaarts van de westrand van de brug voor de weg van Anholt naar Dinxperlo.
 
-#### § 33. Suderwick/Dinxperlo
+##### § 33. Suderwick/Dinxperlo
 
 - a). Van het in § 32 bedoelde punt in het midden van de Bocholter Aa, ongeveer 20 m stroomafwaarts van de westrand van de brug, loopt de nieuwe grens ongeveer 115 m in noordelijke richting in rechte lijn naar een punt dat ongeveer 24 m ten westen van de as ligt van de huidige rijbaan van de Anholtse Weg, Van hier loopt zij loodrecht op de Anholtse Weg tot het snijpunt met de toekomstige oostzijde van de Anholtse Weg, zoals deze is geprojecteerd in het van Duitse en Nederlandse zijde opgestelde verbeteringsplan. Tot de ontruiming van het tegenwoordig aan de westzijde van de Anholtse Weg gelegen woonwagenkamp, ten hoogste gedurende vijf jaar na de inwerkingtreding van dit Verdrag, loopt de grens van het in § 32 bedoelde, ongeveer 20 m stroomafwaarts van de westrand van de brug gelegen punt voorlopig ongeveer 65 m in noordelijke richting, buigt dan langs de omheining van het woonwagenkamp af naar het oosten en volgt de omheining tot aan de noordoosthoek. Van hier loopt zij loodrecht op de Anholtse Weg tot het snijpunt met de oude grens, volgt deze en komt uit op de in de vorige alinea beschreven grens. De nieuwe grens volgt vervolgens de oost- onderscheidenlijk zuidzijde van de geprojecteerde straatweg en daar waar volgens het verbeteringsplan een trottoir is geprojecteerd, de zuidzijde van de trottoirband tot waar zij uitkomt op de Heelweg. Voorzover de huidige straatweg binnen dit gedeelte op Duits grondgebied zou liggen, loopt de grens tot de voltooiing van de nieuwe straatweg, ten hoogste gedurende vijf jaar na de inwerkingtreding van dit Verdrag, voorlopig langs de zuidzijde van de huidige straatweg. Van de plaats waar zij uitkomt op de Heelweg volgt de nieuwe grens de zuidzijde van de trottoirband aan de zuidzijde van de Heelweg tot het snijpunt met het verlengde in zuidwestelijke richting van het grensgedeelte tussen de grensstenen 117**d** en 734 en loopt van hier in rechte lijn naar grenssteen 734. De Regeringen van de Verdragsluitende Partijen stellen bij notawisseling het tijdstip vast, waarop de in de tweede en de vierde alinea bepaalde voorlopige grens wordt vervangen door de definitieve grens.
 
@@ -914,7 +936,7 @@ Van het snijpunt van het midden van de genormaliseerde Aa met de oude grens tuss
 
 - 6. De door de gemeente Dinxperlo aangelegde riolering in het gebied ten zuidoosten van de Anholtse Weg en de Heelweg blijft aangesloten op de riolering in Dinxperlo. Het riool onder het zuidelijke trottoir van de Heelweg mag niet worden afgesloten. Wijzigingen of nieuwe aansluitingen op de bestaande riolering mogen van Duitse zijde slechts in overeenstemming met de gemeente Dinxperlo worden aangebracht. De riolering wordt door de gemeente Dinxperlo onderhouden. De hiervoor vereiste werkzaamheden kunnen in overleg met de aan Duitse zijde bevoegde instanties op Duits gebied worden verricht. De gemeente Dinxperlo en de „Amtsverwaltung” Liedern-Werth zullen een overeenkomst sluiten over de betalingen welke aan genoemde gemeente voor het gebruik van de riolering moeten worden gedaan.
 
-#### § 34. Zwillbrock/Eibergen
+##### § 34. Zwillbrock/Eibergen
 
 - a). Van de tussengrenssteen 42 tussen de grensstenen 806 en 807 bij het Nederlandse douanekantoor aan de zuidzijde van de straatweg van Vreden naar Groenlo kruist de nieuwe grens deze straatweg en loopt vervolgens langs de oostzijde van de Veengoot tot de oude grens tussen de grensstenen 808/40 en 809/39.
 
@@ -922,7 +944,7 @@ Van het snijpunt van het midden van de genormaliseerde Aa met de oude grens tuss
 
 Het Koninkrijk der Nederlanden verplicht zich, door middel van het Waterschap van de Berkel overeenkomstig het in 1939 ten uitvoer gebrachte normaliseringsplan te zorgen voor het herstel en het onderhoud van de voor het gebied van het Duitse „Wasser- und Bodenverband” Krosewicker Feld noodzakelijke afwatering. Het Waterschap van de Berkel zal bij het opstellen van een nieuw normaliseringsplan, voorzover dit de belangen van het „Wasser- und Bodenverband” Krosewicker Feld raakt, de desbetreffende bepalingen met de „Landkreis” Ahaus overeenkomen.
 
-#### § 35. Ammeloe/Rekken
+##### § 35. Ammeloe/Rekken
 
 De nieuwe grens loopt van grenssteen 830**a** in oostelijke richting ongeveer 12 m langs een sloot, van hier ongeveer 230 m aan de oostzijde van het naar het noorden lopende voetpad tot een sloot ongeveer 32 m ten zuiden van grenssteen 830**e**, van hier ongeveer 23 m naar een punt ongeveer 12 m ten zuidoosten van grenssteen 830**e** van hier via de zuidelijke hoek van het bos bij het voetpad (ongeveer 12 m ten noordoosten van grenssteen 830**e**) en in aansluiting daarop via de het meest oostelijk gelegen hoek van het pad naar een punt ongeveer 58 m ten noordoosten van grenssteen 830**e** en 55 m ten zuiden van grenssteen 830**f**. Van hier loopt zij naar een punt op de oostzijde van het pad ongeveer 2 m ten oosten van grenssteen 830**f**; van hier volgt zij deze zijde van het pad tot een punt ongeveer 8 m ten oosten van grenssteen 830**i**. Hier verlaat zij deze zijde van het pad, komt na ongeveer 75 m in rechte lijn weer op deze zijde uit en volgt deze zijde in ongeveer rechte lijn tot grenssteen 830**k**.
 
@@ -930,25 +952,25 @@ De nieuwe grens loopt van grenssteen 830**a** in oostelijke richting ongeveer 12
 
 - 2. Voor de in lid 1 bedoelde strook wordt aan de Duitse ambtenaren, belast met de grensbewaking en het douanetoezicht, het recht tot het verrichten van bepaalde ambtshandelingen overeenkomstig § 3 verleend.
 
-#### § 36. Bardel/Losser (grenssteen 6)
+##### § 36. Bardel/Losser (grenssteen 6)
 
 De nieuwe grens loopt van grenssteen 6 in rechte lijn naar grenssteen 7.
 
-#### § 37. Bardel/Losser (tussen de grensstenen 7 en 12)
+##### § 37. Bardel/Losser (tussen de grensstenen 7 en 12)
 
 De nieuwe grens loopt van grenssteen 7 in rechte lijn ongeveer 50 m in bijna noordelijke richting tot de hoek van een omheining ongeveer 20 m ten oosten van de oude grens, en van hier ongeveer 60 m langs de omheining tot een hoek daarvan ongeveer 45 m ten oosten van de oude grens. Van hier loopt zij in rechte lijn ongeveer 75 m in noordoostelijke richting naar het knikpunt van een met struikgewas begroeid talud en van hier in rechte lijn ongeveer 105 m in noordoostelijke richting tot de noordwesthoek van een weg die uit het bos in het weiland komt. Van hier loopt zij in rechte lijn ongeveer 150 m in noordelijke richting tot de westhoek van een bosje. Van hier loopt zij in rechte lijn naar een punt op de oude grens ongeveer 70 m ten zuiden van grenssteen 12.
 
-#### § 38. Bardel/Losser (grenssteen 13)
+##### § 38. Bardel/Losser (grenssteen 13)
 
 De nieuwe grens loopt in rechte lijn van grenssteen 12I naar grenssteen 13 en van grenssteen 13 naar grenssteen 13IV.
 
-#### § 39. Streitweg/Vrijdijk
+##### § 39. Streitweg/Vrijdijk
 
 De nieuwe grens loopt van grenssteen 24 ongeveer 10 m in noordoostelijke richting tot de voet van de dijk en volgt van hier de oostzijde van de Vrijdijk tot een punt ongeveer 40 m ten zuidoosten van grenssteen 33. Van hier loopt zij in rechte lijn naar grenssteen 33.
 
 Voor de grensweg (Vrijdijk) wordt aan de in de Bondsrepubliek Duitsland wonende grensbevolking en aan de Duitse ambtenaren, belast met de grensbewaking en het douanetoezicht, overeenkomstig § 2 een recht van weggebruik verleend.
 
-#### § 40. Frensdorf/Denekamp
+##### § 40. Frensdorf/Denekamp
 
 - a). Van het knikpunt van de oude grens ongeveer 20 m ten noorden van grenssteen 35 loopt de nieuwe grens ongeveer 25 m in het verlengde van het grensgedeelte tussen grenssteen 35 en dit knikpunt en vervolgens in rechte lijn naar grenssteen 39.
 
@@ -956,21 +978,21 @@ Voor de grensweg (Vrijdijk) wordt aan de in de Bondsrepubliek Duitsland wonende 
 
 Onder erkenning van een wederzijds waterstaatkundig belang bij de normalisering van de Rammelbeek verplicht het Koninkrijk der Nederlanden zich tot medewerking in de zin van de bepalingen van hoofdstuk 4 van dit Verdrag en zal het in het bijzonder bevorderen, dat spoedig een hierop betrekking hebbende bijzondere overeenkomst tot stand komt als bedoeld in artikel 59.
 
-#### § 41. Radewijker Beek
+##### § 41. Radewijker Beek
 
 De nieuwe grens loopt tussen de grensstenen 113 en 116 in het midden van de genormaliseerde Radewijker Beek.
 
-#### § 42. Laar/Coevorden
+##### § 42. Laar/Coevorden
 
 De nieuwe grens loopt van grenssteen 133 in noordelijke richting tot het snijpunt met een lijn die op het zuidoostelijke talud van de dijk op de gemiddelde hoogte ligt van het terrein aan de zuidoostzijde (voet van het talud). Van hier loopt de nieuwe grens langs de voet van het zuidoostelijke dijktalud tot grenssteen 140.
 
 De Bondsrepubliek Duitsland verplicht zich, op Duits gebied geen maatregelen uit te voeren, die de stabiliteit van de dijk in gevaar brengen.
 
-#### § 43. Grenzaa/Schoonebeekerdiep
+##### § 43. Grenzaa/Schoonebeekerdiep
 
 De nieuwe grens loopt van grenssteen 151XIV langs de kortste weg naar het midden van het genormaliseerde Schoonebeekerdiep en loopt verder in het midden van deze beek tot de grenssloot bij grenssteen 156.
 
-#### § 44. Rhede/Vlagtwedde
+##### § 44. Rhede/Vlagtwedde
 
 De grens loopt tussen de grensstenen 172 en 186 als de oude grens.
 
@@ -978,11 +1000,11 @@ De grens loopt tussen de grensstenen 172 en 186 als de oude grens.
 
 - 2. De Bondsrepubliek Duitsland zal waarborgen, dat bij hoge waterstanden in de Walchumer en de Brualer Schloot de bovengrondse afstroming naar Nederlands gebied wordt verhinderd.
 
-#### § 45. Kloster Dünebroek/Bellingwolde
+##### § 45. Kloster Dünebroek/Bellingwolde
 
 De nieuwe grens loopt van grenssteen 186 ongeveer 25 m in het verlengde van de oude grens tussen de grensstenen 185II en 186 en van hier in rechte lijn naar een punt dat ongeveer 20 m ten noordoosten van grenssteen 187 op de oude grens ligt tussen de grensstenen 187 en 188.
 
-#### § 46. Bunderneuland/Nieuweschans
+##### § 46. Bunderneuland/Nieuweschans
 
 De nieuwe grens loopt van een punt dat 185 m ten zuidwesten van grenssteen 193 op de oude grens ligt, langs een cirkelboog die over een punt 40,65 m ten zuiden van grenssteen 194 leidt en die tangentiaal aansluit bij het verlengde van het lange rechtlijnige grensgedeelte tussen de grensstenen 196 en 195I. Van dit raakpunt loopt zij verder in rechte lijn naar het knikpunt van de oude grens ongeveer 26 m ten zuidoosten van grenssteen 195I.
 
@@ -994,7 +1016,7 @@ De nieuwe grens loopt van een punt dat 185 m ten zuidwesten van grenssteen 193 o
 
 - 4. Na de verlegging van het Wijmeersterdiep zijn de bevoegde Duitse autoriteiten op een 3 m brede strook langs de bovenkant van de noordelijke oever gerechtigd tot het treffen van alle noodzakelijke maatregelen ten behoeve van het onderhoud van het Wijmeersterdiep.
 
-#### § 47. Wijmeersterdiep/Westerwoldsche Aa
+##### § 47. Wijmeersterdiep/Westerwoldsche Aa
 
 - a). De nieuwe grens loopt van een punt op de oude grens, dat ongeveer 180 m ten zuidoosten van grenssteen 197 ligt, in noordoostelijke richting naar een punt dat op een afstand van ongeveer 510 m van grenssteen 197 op de oostelijke oever van de Westerwoldsche Aa ligt, van hier verder langs de oostelijke oever van de Westerwoldsche Aa tot een punt dat ongeveer 45 m ten zuiden van de noordwesthoek van de brug tegenover de boerderij Louisenfeld en ongeveer 40 m ten noordwesten van de kilometersteen 1,5 van de straatweg van Bunderneuland naar Landschaftspolder ligt, van hier verder in rechte lijn in de richting van een punt dat ongeveer 33 m ten westen van de westzijde van de weg en ongeveer 270 m ten noorden van de noordwesthoek van de bemuring van de brug over het Wijmeersterdiep bij de couρure in de dijk ligt, tot een punt dat 100 m ten zuiden van dit richtingpunt ligt, van hier naar een punt dat 100 m ten noorden van het richtingpunt ligt op de rechte verbindingslijn tussen het richtingpunt en een punt op de westzijde van de weg 246 m ten zuiden van het midden van de brug over het Wijmeersterdiep naar Kanalpolder, en van hier langs deze verbindingslijn tot het laatstomschreven punt. Van hier looρt de nieuwe grens in rechte lijn naar grenssteen 202**i**.
 
@@ -1012,29 +1034,29 @@ De nieuwe grens loopt van een punt dat 185 m ten zuidwesten van grenssteen 193 o
 
 - 6. De bevoegde autoriteiten van de Verdragsluitende Partijen zullen elkaar steun verlenen bij de verwerving of pacht van grond of andere noodzakelijke maatregelen op het gebied van de andere Partij.
 
-#### § 1. Kaarten
+##### § 1. Kaarten
 
 De bijgevoegde kaarten maken deel uit van deze Bijlage1)De kaarten behorende bij de § § 5 tot en met 47 van bijlage A en de § § 2 tot en met 5 van Bijlage B, alsmede een overzichtskaart, worden afzonderlijk uitgegeven..
 
-#### § 2. Anselderbeek-Bleyerheiderbeek
+##### § 2. Anselderbeek-Bleyerheiderbeek
 
 Tussen een punt dat ongeveer op het midden van de grens tussen de grensstenen 224 en 225 ligt, en grenssteen 227 worden de Anselderbeek en de Bleyerheiderbeek binnen vier jaar na de inwerkingtreding van dit Verdrag door de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden volgens een gezamenlijk plan genormaliseerd, waardoor de loop van deze beken wordt gewijzigd zoals in de bijgevoegde kaart is aangegeven.
 
 De grens, die thans van grenspunt 224 tot grenspunt 225 in het midden loopt van de Baamstraat (Hammerweg) en van hier af in het algemeen in het midden van de Anselderbeek en de Bleyerheiderbeek, zal na de uitvoering van de hierboven bedoelde normalisering van de zuidelijke grenssteen 224 langs de zuidzijde van de Baamstraat lopen tot het midden van de genormaliseerde Anselderbeek. Van hier tot grenssteen 227 zal de grens dan worden gevormd door het midden van de genormaliseerde Anselderbeek en van de genormaliseerde Bleyerheiderbeek.
 
-#### § 3. Molenbeek (Jonge Worm)
+##### § 3. Molenbeek (Jonge Worm)
 
 Tussen de grensstenen 361 en 362 wordt de Molenbeek binnen drie jaar na de inwerkingtreding van dit Verdrag door de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden volgens een gezamenlijk plan genormaliseerd, waardoor haar loop wordt gewijzigd zoals in de bijgevoegde kaart is aangegeven.
 
 Na de uitvoering van de hierboven bedoelde normalisering zal de grens tussen de grensstenen 361 en 362 lopen in het midden van de genormaliseerde Molenbeek.
 
-#### § 4. Roode Beek bij Vlodrop
+##### § 4. Roode Beek bij Vlodrop
 
 Tussen de grensstenen 374 en 376 wordt de Roode Beek binnen vijf jaar na de inwerkingtreding van dit Verdrag door de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden volgens een gezamenlijk plan genormaliseerd, waardoor haar loop wordt gewijzigd zoals in de bijgevoegde kaart is aangegeven.
 
 Na de uitvoering van de hierboven bedoelde normalisering zal de grens tussen de grensstenen 374 en 376 lopen in het midden van de genormaliseerde Roode Beek.
 
-#### § 5. Rammelbeek
+##### § 5. Rammelbeek
 
 Tussen de grensstenen 41XIV en 48 wordt de Rammelbeek binnen zes jaar na de inwerkingtreding van dit Verdrag door de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden volgens een gezamenlijk plan genormaliseerd, waardoor haar loop wordt gewijzigd zoals in de bijgevoegde kaart is aangegeven.
 
@@ -1044,49 +1066,49 @@ Na de hierboven bedoelde grenswijziging zal het Koninkrijk der Nederlanden de in
 
 Bij de ondertekening van het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland nopens het verloop van de gemeenschappelijke landgrens, de grenswateren, het grondbezit in de nabijheid van de grens, het grensoverschrijdende verkeer over land en via de binnenwateren en andere met de grens verband houdende vraagstukken zijn de gevolmachtigden van beide Partijen over de volgende bepalingen tot overeenstemming gekomen en hebben de volgende verklaringen afgelegd:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Teneinde met het oog op een structurele verbetering van de landbouw een in alle opzichten bevredigende regeling van de agrarische verhoudingen in het grensgebied te bewerkstelligen, verlenen de Verdragsluitende Partijen binnen het kader der gegeven mogelijkheden steun bij de instelling en de werkzaamheden van op plaatselijk en regionaal niveau paritair samengestelde Nederlands-Duitse commissies.
 
 2. De commissies hebben tot taak, bepaalde, bij gelegenheid van haar instelling aan te duiden, agrarische vraagstukken te onderzoeken en de bevoegde instanties in beide staten aanbevelingen te doen.
 
-#### Artikel 2
+##### Artikel 2
 
 Waar bij bebouwde kommen die door de grens worden doorsneden, zoals bijvoorbeeld bij Dinxperlo-Suderwick, de plaatselijke omstandigheden een gemeenschappelijke regeling vereisen van gemeentelijke aangelegenheden zoals die betreffende de bebouwing en de openbare orde, veiligheid en zedelijkheid, zullen de bevoegde Duitse en Nederlandse autoriteiten overleg plegen, teneinde de door hen voorgenomen voorschriften en maatregelen in het kader van hun bevoegdheid zoveel mogelijk op elkaar af te stemmen.
 
-#### Artikel 3
+##### Artikel 3
 
 De Regering van het Koninkrijk der Nederlanden bevestigt, dat alle bestanddelen van het vermogen van de Duitse staat, van de „Länder” en van openbare lichamen, welke in de in artikel 4 van het Verdrag bedoelde gebieden na de tweede wereldoorlog zijn overgegaan in de beschikkingsmacht van het Koninkrijk der Nederlanden, met inbegrip van de in plaats daarvan getreden vermogensdelen, van de inwerkingtreding van het Verdrag af toebehoren aan de Bondsrepubliek Duitsland of aan de daarvoor in aanmerking komende publiekrechtelijke rechtspersonen in de Bondsrepubliek Duitsland.
 
-#### Artikel 4
+##### Artikel 4
 
 De Regering van het Koninkrijk der Nederlanden bevestigt, dat de inwerkingtreding van het Verdrag niet tengevolge kan hebben, dat de bepalingen van het Besluit Vijandelijk Vermogen worden toegepast ten aanzien van de in artikel 37, lid 1, van de Nederlandse Wet van 26 september 1951 (Staatsblad 1951, 434) genoemde personen en hun rechtsopvolgers.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Er bestaat overeenstemming over, dat de bepalingen van de artikelen 5, 6 en 7 van het Verdrag geen betrekking hebben op vermogen van publiekrechtelijke lichamen, dat niet bestemd is voor de openbare dienst.
 
 2. De bepalingen van artikel 7, lid 1, van het Verdrag hebben geen betrekking op de verplichtingen die voortvloeien uit de door de Drostambten Elten en Tudderen met garantie van het Koninkrijk der Nederlanden aangegane leningen. Deze verplichtingen worden overgenomen door het Koninkrijk der Nederlanden.
 
-#### Artikel 6
+##### Artikel 6
 
 Als woonachtig of gevestigd in de in artikel 4 van het Verdrag bedoelde gebieden in de zin van artikel 18 van het Verdrag wordt beschouwd een persoon die daar volgens het recht van de verzoekende Verdragsluitende Partij belastingplichtig is op grond van zijn woonplaats, zijn verblijfplaats, de plaats waar de zakelijke leiding wordt gegeven of een soortgelijk criterium.
 
-#### Artikel 7
+##### Artikel 7
 
 De verplichting om inlichtingen te verstrekken volgens de artikelen 18 en 19 van het Verdrag heeft geen betrekking op feiten die de belastingautoriteiten hebben vernomen van banken of daarmede gelijkgestelde instellingen.
 
-#### Artikel 8
+##### Artikel 8
 
 De bevoegde autoriteit in de zin van de artikelen 19 en 20 van het Verdrag is in het Koninkrijk der Nederlanden de Directeur van 's Rijks belastingen en in de Bondsrepubliek Duitsland de „Oberfinanzdirektion”.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De bevoegde Nederlandse autoriteiten verstrekken aan de bevoegde Duitse autoriteiten alle inlichtingen en bescheiden, in origineel of gewaarmerkt afschrift, die nodig zijn om de soort en hoeveelheid goederen welke zich op het tijdstip van inwerkingtreding van het Verdrag in de in artikel 4 van het Verdrag bedoelde gebieden bevinden en voor welke het Koninkrijk der Nederlanden nog geen invoerrechten, verbruiksbelastingen of soortgelijke belastingen heeft geheven of voor welke het Koninkrijk der Nederlanden teruggaaf van bedoelde belastingen heeft verleend, te kunnen bepalen alsmede de belastingplichtigen te kunnen vaststellen, opdat overeenkomstige belastingen kunnen worden geheven door de Bondsrepubliek Duitsland.
 
 2. De bevoegde autoriteiten van de Verdragsluitende Partijen plegen met elkaar overleg over de vraag, welke inlichtingen en bescheiden ambtshalve zullen worden verstrekt; voor het overige geschiedt de verstrekking op verzoek.
 
-#### Artikel 10
+##### Artikel 10
 
 Alle aangelegenheden waarop de bepalingen van hoofdstuk 4 van het Verdrag betrekking hebben, moeten worden beoordeeld
 
@@ -1094,23 +1116,23 @@ in de Bondsrepubliek Duitsland overeenkomstig de waterstaatswetgeving van de Bon
 
 en in het Koninkrijk der Nederlanden overeenkomstig de waterstaatswetgeving van het Rijk en de provincies, met inbegrip van de reglementen voor de waterschappen.
 
-#### Artikel 11
+##### Artikel 11
 
 De Regeringen van de Verdragsluitende Partijen zullen ernaar streven, dat de in artikel 59, lid 2, van het Verdrag voorziene overeenkomsten binnen een redelijke termijn worden gesloten.
 
-#### Artikel 12
+##### Artikel 12
 
 De Rijn behoort op grond van artikel 56, lid 2, van het Verdrag niet tot de grenswateren ten aanzien waarvan hoofdstuk 4 van het Verdrag bepalingen bevat. De Regeringen van de Verdragsluitende Partijen verklaren echter, dat zij zullen streven naar een spoedige totstandkoming van een regeling tussen de Rijnoeverstaten betreffende de bestrijding van de verontreiniging van de Rijn.
 
-#### Artikel 13. (Bij de hoofdstukken 1 en 5 van het Verdrag)
+##### Artikel 13. (Bij de hoofdstukken 1 en 5 van het Verdrag)
 
 Voor de exploitatie van het grondbezit dat gedeeltelijk aan de ene zijde, gedeeltelijk aan de andere zijde van de in artikel 1 van het Verdrag aangegeven grens is gelegen, gelden de in aanmerking komende bepalingen van de in artikel 1 van het Verdrag genoemde grensverdragen van Aken, Kleef en Meppen.
 
-#### Artikel 14
+##### Artikel 14
 
 Er bestaat overeenstemming over, dat het aan de in aanmerking komende personen vrijstaat om in gevallen die niet kunnen worden geregeld overeenkomstig de bepalingen van hoofdstuk 5 van het Verdrag, andere landerijen te kopen in het gebied van de Nederlands-Duitse grens
 
-#### Artikel 15
+##### Artikel 15
 
 De bepalingen van dit Slotprotocol maken deel uit van het Grensverdrag.
 

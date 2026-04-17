@@ -1,14 +1,41 @@
 ---
-title: "Aanvullingswet bodem Omgevingswet"
+title: "Wet van 19 februari 2020 tot wijziging van de Omgevingswet en enkele andere wetten met het oog op het beschermen van de bodem, met inbegrip van het grondwater, en het duurzaam en doelmatig gebruik van de bodem (Aanvullingswet bodem Omgevingswet)"
 identifier: "BWBR0043277"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043277"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043277"
+soort: "wet"
+stam_id: "15365453"
+version_id: "26562942"
+internal_id: "C42268381"
+label_id: "15310384"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043277/2024-01-01/0"
+intitule_bron: "Stb.2020-87"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-02-19"
+intitule_published: "2020-03-16"
+intitule_in_force: "2023-04-07"
+intitule_status: "goed"
+original_publication: "Stb.2020-87"
+original_signed_date: "2020-02-19"
+original_published_date: "2020-03-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "34864"
+original_url_id: "stb-2020-87"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0043277&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0043277&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanvullingswet bodem Omgevingswet"
+signed_date: "2020-02-19"
+entry_into_force: "2024-01-01"
 ---
-
-# Aanvullingswet bodem Omgevingswet
+# Wet van 19 februari 2020 tot wijziging van de Omgevingswet en enkele andere wetten met het oog op het beschermen van de bodem, met inbegrip van het grondwater, en het duurzaam en doelmatig gebruik van de bodem (Aanvullingswet bodem Omgevingswet)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Wijzigingen in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
 
-#### Artikel 1.1. ([Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885))
+##### Artikel 1.1. ([Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885))
 
 Wijzigt de Omgevingswet.
 
@@ -26,35 +53,35 @@ Wijzigt de Omgevingswet.
 
 #### Paragraaf 2.1. Intrekken van de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994)
 
-#### Artikel 2.1. (intrekken [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994))
+##### Artikel 2.1. (intrekken [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994))
 
 De [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) wordt ingetrokken.
 
 #### Paragraaf 2.2. Wijziging van andere wetten
 
-#### Artikel 2.2. ([Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537))
+##### Artikel 2.2. ([Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537))
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 2.3. ([Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789))
+##### Artikel 2.3. ([Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789))
 
 Wijzigt de Kaderwet subsidies I en M.
 
-#### Artikel 2.4. ([Wet bevordering eigenwoningbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0011919))
+##### Artikel 2.4. ([Wet bevordering eigenwoningbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0011919))
 
 Wijzigt de Wet bevordering eigenwoningbezit.
 
-#### Artikel 2.5. ([Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245))
+##### Artikel 2.5. ([Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245))
 
 Wijzigt de Wet milieubeheer.
 
-#### Artikel 2.6. ([Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063))
+##### Artikel 2.6. ([Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063))
 
 Wijzigt de Wet op de economische delicten.
 
 ### Hoofdstuk 3. Overgangsrecht
 
-#### Artikel 3.1. (eerbiedigend overgangsrecht saneringen)
+##### Artikel 3.1. (eerbiedigend overgangsrecht saneringen)
 
 1. Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet blijft van toepassing op gevallen van ernstige verontreiniging als bedoeld in de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) of saneringen als bedoeld in die wet waarvoor voor dat tijdstip:
 
@@ -66,7 +93,7 @@ Wijzigt de Wet op de economische delicten.
 
 2. Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet blijft van toepassing op saneringen als bedoeld in de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) waarvoor voor dat tijdstip een melding is gedaan als bedoeld in [artikel 39b, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=39b).
 
-#### Artikel 3.2. (eerbiedigend overgangsrecht gebiedsgerichte aanpak en overige)
+##### Artikel 3.2. (eerbiedigend overgangsrecht gebiedsgerichte aanpak en overige)
 
 Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet blijft van toepassing op:
 
@@ -84,19 +111,19 @@ Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet bli
 
 - g. het verhalen van kosten van verontreiniging of aantasting van de bodem, bedoeld in [artikel 75, van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=75), als die verontreiniging of aantasting is ontstaan voor dat tijdstip en een vordering daarvoor is ingesteld.
 
-#### Artikel 3.2a. (bestuursrechtelijke handhaving overtreding zorgplicht [artikel 13 Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=13))
+##### Artikel 3.2a. (bestuursrechtelijke handhaving overtreding zorgplicht [artikel 13 Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=13))
 
 De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=13), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=27), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=88) en [95 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=95) zoals die luidden voor het tijdstip van inwerkingtreding van deze wet blijven van toepassing op voor dat tijdstip veroorzaakte verontreiniging of aantasting als bedoeld in [artikel 13 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=13) ook indien die na dat tijdstip wordt ontdekt.
 
-#### Artikel 3.3. (eerbiedigende werking voor vrijstellingen)
+##### Artikel 3.3. (eerbiedigende werking voor vrijstellingen)
 
 Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet blijft tot en met 31 december 2021 van toepassing op een vrijstelling die op grond van [artikel 64 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=64) voor het gebruik van waterige fracties of reinigingswater is verleend.
 
-#### Artikel 3.4. (eerbiedigende werking vordering tot schadevergoeding)
+##### Artikel 3.4. (eerbiedigende werking vordering tot schadevergoeding)
 
 Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet blijft van toepassing op een vordering tot schadevergoeding als bedoeld in [artikel 73 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=73) die aanhangig is gemaakt voor de inwerkingtreding van deze wet.
 
-#### Artikel 3.5. (gelijkstellingen)
+##### Artikel 3.5. (gelijkstellingen)
 
 1. Een plan als bedoeld in [artikel 3.2, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0043277&hoofdstuk=3&artikel=3.2&z=2024-01-01&g=2024-01-01), geldt met ingang van de dag nadat vier jaar zijn verstreken sinds de datum van inwerkingtreding van deze wet als een programma als bedoeld in [artikel 3.4 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=3.4).
 
@@ -110,17 +137,17 @@ Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet bli
 
 6. Een ontheffing die is verleend op grond van [artikel 51 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=51) wordt aangemerkt als een omgevingsvergunning voor een omgevingsplanactiviteit voor de periode waarop de ontheffing betrekking heeft.
 
-#### Artikel 3.6. (vangnetbepaling)
+##### Artikel 3.6. (vangnetbepaling)
 
 Bij algemene maatregel van bestuur kan overgangsrecht worden geregeld voor een bepaling in de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994), die wordt vervangen door een bepaling in een algemene maatregel van bestuur, voor zover hierin niet is voorzien in het overgangsrecht in deze wet.
 
-#### Artikel 3.7. (voortzetting bestaand overgangsrecht)
+##### Artikel 3.7. (voortzetting bestaand overgangsrecht)
 
 Als in verband met de invoering van deze wet een wet, algemene maatregel van bestuur of ministeriële regeling wordt ingetrokken waarin een overgangsrechtelijke bepaling is opgenomen, blijft die overgangsrechtelijke bepaling van toepassing tot die is uitgewerkt
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 4.1. (internetpublicatie, voorhang en andere totstandkomingsvereisten Aanvullingsbesluit bodem Omgevingswet en Aanvullingsregeling bodem Omgevingsrecht)
+##### Artikel 4.1. (internetpublicatie, voorhang en andere totstandkomingsvereisten Aanvullingsbesluit bodem Omgevingswet en Aanvullingsregeling bodem Omgevingsrecht)
 
 1. Op de voorbereiding van een algemene maatregel van bestuur in verband met de invoering van de Aanvullingswet bodem Omgevingswet zijn de [artikelen 23.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=23.4) en [23.5 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=23.5)van overeenkomstige toepassing. Op de voorbereiding van een ministeriële regeling in verband met de invoering van de Aanvullingswet bodem Omgevingswet is [artikel 23.4 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=23.4) van overeenkomstige toepassing.
 
@@ -140,11 +167,11 @@ Als in verband met de invoering van deze wet een wet, algemene maatregel van bes
 
 3. Het tweede lid, aanhef en onder a, is niet van toepassing op het vragen van advies aan de Afdeling advisering van de Raad van State.
 
-#### Artikel 4.2. (inwerkingtreding)
+##### Artikel 4.2. (inwerkingtreding)
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 4.3. (citeertitel)
+##### Artikel 4.3. (citeertitel)
 
 Deze wet wordt aangehaald als: Aanvullingswet bodem Omgevingswet.
 

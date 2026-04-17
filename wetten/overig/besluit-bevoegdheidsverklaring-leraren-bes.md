@@ -1,16 +1,41 @@
 ---
 title: "Besluit bevoegdheidsverklaring leraren BES"
 identifier: "BWBR0028647"
-categorie: "Overig"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028647"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028647"
+soort: "AMvB-BES"
+stam_id: "10916113"
+version_id: "17899502"
+internal_id: "C24832161"
+label_id: "10890684"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028647/2022-08-01/0"
+intitule_bron: "Stb.2010-587"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-23"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-587"
+original_signed_date: "2010-09-23"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-587"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028647&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0028647&g=2022-08-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-23"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit bevoegdheidsverklaring leraren BES
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -24,7 +49,7 @@ In dit besluit wordt verstaan onder:
 
 - 2°. een bijzondere school: het schoolbestuur.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien voldaan wordt aan de voorwaarden, genoemd in het tweede lid, kan Onze Minister verklaren, dat een leraar geacht wordt in het bezit te zijn van een bewijs van bekwaamheid tot het geven van voortgezet onderwijs in vakken waarvoor geen bewijzen van bekwaamheid zijn aangewezen, en van een bewijs als bedoeld in [artikel 7.24, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.24).
 
@@ -50,10 +75,10 @@ In dit besluit wordt verstaan onder:
 
 6. Bij het totstandbrengen van het overzicht, bedoeld in het tweede lid, onderdeel f, moet gewerkt worden met gegevens van de instanties belast met aangelegenheden betreffende studiefinanciering.
 
-#### Artikel 3
+##### Artikel 3
 
 [vervallen]
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit bevoegdheidsverklaring leraren BES.

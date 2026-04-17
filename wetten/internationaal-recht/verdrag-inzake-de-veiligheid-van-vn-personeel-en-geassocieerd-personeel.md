@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake de veiligheid van VN-personeel en geassocieerd personeel"
 identifier: "BWBV0001519"
-categorie: "Internationaal recht"
-publicatiedatum: 2002-03-09
-laatste_update: 2002-03-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001519"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-03-09"
+last_updated: "2002-03-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001519"
+soort: "verdrag"
+stam_id: "10001542833"
+version_id: "10001631182"
+internal_id: "C10006988831"
+label_id: "10001543164"
+dtd_version: "2.0"
+original_entry_into_force: "2002-03-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001519/2002-03-09/0"
+intitule_bron: "Trb.1996-62"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-02-07"
+intitule_published: "1996-02-13"
+intitule_in_force: "2002-03-25"
+intitule_status: "goed"
+original_publication: "Trb.1996-62"
+original_signed_date: "2002-02-07"
+original_published_date: "1996-02-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1996-62"
+entry_into_force_date: "2002-03-09"
+jci_1_3: "jci1.3:c:BWBV0001519&z=2002-03-09&g=2002-03-09"
+jci_1_0: "1.0:c:BWBV0001519&g=2002-03-09"
+citeertitel_status: "redactioneel"
+signed_date: "2002-02-07"
+entry_into_force: "2002-03-09"
 ---
-
 # Verdrag inzake de veiligheid van VN-personeel en geassocieerd personeel
 
 De Staten die Partij zijn bij dit Verdrag,
@@ -32,7 +57,7 @@ Overtuigd van de dringende noodzaak om passende en doeltreffende maatregelen te 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -60,27 +85,27 @@ Voor de toepassing van dit Verdrag:
 
 - e. wordt onder „Staat van doortocht" verstaan: een Staat, niet zijnde de ontvangende Staat, op het grondgebied waarvan VN-personeel of geassocieerd personeel, alsmede de uitrusting daarvan, op doorreis is of tijdelijk verblijft in verband met een VN-operatie.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 1. Dit Verdrag is van toepassing op VN-personeel en geassocieerd personeel alsook op VN-operaties als omschreven in artikel 1.
 
 2. Dit Verdrag is niet van toepassing op een VN-operatie waarvoor door de Veiligheidsraad machtiging is verleend als dwangactie op grond van [Hoofdstuk VII van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&hoofdstuk=VII), waarbij personeel is betrokken als strijders tegen georganiseerde strijdkrachten en waarop het recht inzake internationale gewapende conflicten van toepassing is.
 
-#### Artikel 3. Identificatie
+##### Artikel 3. Identificatie
 
 1. De militaire en politie-onderdelen van een VN-operatie en hun voertuigen, vaartuigen en luchtvaartuigen voeren duidelijke herkenningstekens. Het overige personeel dat en de overige voertuigen, vaartuigen en luchtvaartuigen die bij een VN-operatie zijn betrokken, zijn op deugdelijke wijze te herkennen, tenzij de Secretaris-Generaal van de Verenigde Naties anders besluit.
 
 2. Alle leden van het VN-personeel en geassocieerd personeel dragen deugdelijke identiteitsbewijzen.
 
-#### Artikel 4. Overeenkomsten inzake de status van de operatie
+##### Artikel 4. Overeenkomsten inzake de status van de operatie
 
 De ontvangende Staat en de Verenigde Naties sluiten zo spoedig mogelijk een overeenkomst inzake de status van de VN-operatie en van alle bij de operatie betrokken personeel, met inbegrip van, onder andere, bepalingen betreffende de voorrechten en immuniteiten voor militaire en politie-onderdelen van de operatie.
 
-#### Artikel 5. Doortocht
+##### Artikel 5. Doortocht
 
 Een Staat van doortocht vergemakkelijkt de vrije doortocht van VN-personeel en geassocieerd personeel, alsmede de uitrusting daarvan, naar en van de ontvangende Staat.
 
-#### Artikel 6. Naleving van wetten en voorschriften
+##### Artikel 6. Naleving van wetten en voorschriften
 
 1. Onverminderd de voorrechten en immuniteiten die zij genieten of de vereisten van hun taken, zullen VN-personeel en geassocieerd personeel:
 
@@ -90,7 +115,7 @@ Een Staat van doortocht vergemakkelijkt de vrije doortocht van VN-personeel en g
 
 2. De Secretaris-Generaal van de Verenigde Naties neemt alle passende maatregelen om de nakoming van deze verplichtingen te waarborgen.
 
-#### Artikel 7. Plicht om de veiligheid en beveiliging van VN-personeel en geassocieerd personeel te waarborgen
+##### Artikel 7. Plicht om de veiligheid en beveiliging van VN-personeel en geassocieerd personeel te waarborgen
 
 1. VN-personeel en geassocieerd personeel, alsmede de uitrusting en gebouwen daarvan, mogen niet het voorwerp worden van een aanslag of gedraging die het belet zijn mandaat te vervullen.
 
@@ -98,11 +123,11 @@ Een Staat van doortocht vergemakkelijkt de vrije doortocht van VN-personeel en g
 
 3. De Staten die Partij zijn bij dit Verdrag werken, waar mogelijk, met de Verenigde Naties en andere Staten die Partij zijn bij dit Verdrag samen ter uitvoering van dit Verdrag, in het bijzonder in alle gevallen waarin de ontvangende Staat zelf niet in staat is de vereiste maatregelen te nemen.
 
-#### Artikel 8. Plicht om vastgehouden of gevangengenomen VN-personeel en geassocieerd personeel vrij te laten of te doen terugkeren
+##### Artikel 8. Plicht om vastgehouden of gevangengenomen VN-personeel en geassocieerd personeel vrij te laten of te doen terugkeren
 
 Behoudens een andersluidende bepaling in een toepasselijke overeenkomst inzake de status van strijdkrachten, mag VN-personeel of geassocieerd personeel, indien dit tijdens de uitoefening van zijn taken wordt vastgehouden of gevangengenomen en is geïdentificeerd, niet worden onderworpen aan ondervraging en dient het terstond te worden vrijgelaten en in de gelegenheid te worden gesteld terug te keren naar de Organisatie der Verenigde Naties of andere daarvoor in aanmerking komende autoriteiten. In afwachting van de vrijlating dient het te worden behandeld in overeenstemming met de universeel erkende normen op het gebied van de rechten van de mens en met de beginselen en de geest van de Verdragen van Genève van 1949.
 
-#### Artikel 9. Strafbare feiten ten aanzien van VN-personeel en geassocieerd personeel
+##### Artikel 9. Strafbare feiten ten aanzien van VN-personeel en geassocieerd personeel
 
 1. Het opzettelijk plegen van
 
@@ -120,7 +145,7 @@ wordt door elke Staat die Partij is bij dit Verdrag strafbaar gesteld krachtens 
 
 2. Elke Staat die Partij is bij dit Verdrag stelt op de in het eerste lid genoemde strafbare feiten passende straffen, waarbij rekening wordt gehouden met de ernst van deze feiten.
 
-#### Artikel 10. Vestiging van rechtsmacht
+##### Artikel 10. Vestiging van rechtsmacht
 
 1. Elke Staat die Partij is bij dit Verdrag neemt de maatregelen die noodzakelijk zijn om zich bevoegd te verklaren kennis te nemen van de in artikel 9 genoemde strafbare feiten in de volgende gevallen:
 
@@ -142,7 +167,7 @@ wordt door elke Staat die Partij is bij dit Verdrag strafbaar gesteld krachtens 
 
 5. Dit Verdrag sluit geen enkele rechtsmacht in strafzaken uit, die wordt uitgeoefend krachtens de nationale wetgeving.
 
-#### Artikel 11. Voorkoming van strafbare feiten ten aanzien van VN-personeel en geassocieerd personeel
+##### Artikel 11. Voorkoming van strafbare feiten ten aanzien van VN-personeel en geassocieerd personeel
 
 De Staten die Partij zijn bij dit Verdrag werken samen ter voorkoming van de in artikel 9 genoemde strafbare feiten, met name door:
 
@@ -150,13 +175,13 @@ De Staten die Partij zijn bij dit Verdrag werken samen ter voorkoming van de in 
 
 - b. informatie uit te wisselen in overeenstemming met hun nationale wetgeving en het coördineren van het nemen van passende bestuursrechtelijke en andere maatregelen, ten einde het plegen van deze strafbare feiten te voorkomen.
 
-#### Artikel 12. Uitwisseling van informatie
+##### Artikel 12. Uitwisseling van informatie
 
 1. Indien de Staat die Partij is bij dit Verdrag op wiens grondgebied een in artikel 9 genoemd strafbaar feit is gepleegd redenen heeft om aan te nemen dat een vermoedelijke dader dit grondgebied is ontvlucht, doet deze Staat, onder de in zijn nationale wetgeving gestelde voorwaarden, aan de Secretaris-Generaal van de Verenigde Naties en, rechtstreeks of door tussenkomst van de Secretaris-Generaal, aan de betrokken Staat of Staten alle relevante feiten met betrekking tot het gepleegde strafbare feit toekomen, alsook alle informatie waarover die Staat beschikt met betrekking tot de identiteit van de vermoedelijke dader.
 
 2. Wanneer een in artikel 9 genoemd strafbaar feit is gepleegd, spant een Staat die Partij is bij dit Verdrag die beschikt over informatie betreffende de identiteit van het slachtoffer en de omstandigheden van het strafbare feit, zich ervoor in om, onder de in zijn nationale wetgeving gestelde voorwaarden, deze informatie volledig en onverwijld toe te zenden aan de Secretaris-Generaal van de Verenigde Naties en de betrokken Staat of Staten.
 
-#### Artikel 13. Maatregelen met het oog op vervolging of uitlevering
+##### Artikel 13. Maatregelen met het oog op vervolging of uitlevering
 
 1. Wanneer de omstandigheden daartoe aanleiding geven, neemt de Staat die Partij is bij dit Verdrag op wiens grondgebied de vermoedelijke dader zich bevindt, de passende maatregelen krachtens zijn nationale wetgeving om diens aanwezigheid met het oog op vervolging of uitlevering te verzekeren.
 
@@ -170,11 +195,11 @@ De Staten die Partij zijn bij dit Verdrag werken samen ter voorkoming van de in 
 
 - d. andere belanghebbende Staten.
 
-#### Artikel 14. Vervolging van vermoedelijke daders
+##### Artikel 14. Vervolging van vermoedelijke daders
 
 Indien de Staat die Partij is bij dit Verdrag op wiens grondgebied de vermoedelijke dader zich bevindt, de betrokkene niet uitlevert, legt deze Staat, zonder enige uitzondering en zonder onnodig uitstel, de zaak voor aan zijn bevoegde autoriteiten met het oog op vervolging, volgens een procedure in overeenstemming met de wetgeving van die Staat. Deze autoriteiten nemen hun beslissing op dezelfde wijze als in het geval van een gewoon strafbaar feit van ernstige aard overeenkomstig de wetgeving van die Staat.
 
-#### Artikel 15. Uitlevering van vermoedelijke daders
+##### Artikel 15. Uitlevering van vermoedelijke daders
 
 1. Voorzover de in artikel 9 genoemde strafbare feiten niet als uitleveringsdelicten zijn vermeld in een uitleveringsverdrag, bestaande tussen de Staten die Partij zijn bij dit Verdrag, worden zij geacht als zodanig daarin te zijn opgenomen. De Staten die Partij zijn bij dit Verdrag verplichten zich ertoe deze strafbare feiten als uitleveringsdelicten op te nemen in elk uitleveringsverdrag dat tussen hen zal worden gesloten.
 
@@ -184,13 +209,13 @@ Indien de Staat die Partij is bij dit Verdrag op wiens grondgebied de vermoedeli
 
 4. Elk van deze strafbare feiten wordt ten behoeve van uitlevering tussen Staten die Partij zijn bij dit Verdrag geacht te zijn begaan, niet alleen op de plaats waar het is begaan, maar ook op het grondgebied van de Staten die Partij zijn bij dit Verdrag, die hun rechtsmacht hebben vastgelegd in overeenstemming met artikel 10, eerste of tweede lid.
 
-#### Artikel 16. Wederzijdse rechtshulp in strafzaken
+##### Artikel 16. Wederzijdse rechtshulp in strafzaken
 
 1. De Staten die Partij zijn bij dit Verdrag verlenen elkaar de ruimst mogelijke rechtshulp in strafzaken wegens de in artikel 9 genoemde strafbare feiten, waaronder hulp ter verkrijging van het hun ter beschikking staande bewijsmateriaal dat nodig is in verband met de vervolging. In alle gevallen is de wetgeving van de aangezochte Staat van toepassing.
 
 2. De bepalingen van het eerste lid laten uit enig ander verdrag voortvloeiende verplichtingen betreffende wederzijdse rechtshulp onverlet.
 
-#### Artikel 17. Behoorlijke behandeling
+##### Artikel 17. Behoorlijke behandeling
 
 1. Een ieder tegen wie een strafvervolging is ingesteld in verband met een van de in artikel 9 genoemde strafbare feiten wordt een behoorlijke behandeling, een eerlijk proces en volledige bescherming van zijn rechten gewaarborgd in elk stadium van het onderzoek of de procedure.
 
@@ -200,15 +225,15 @@ Indien de Staat die Partij is bij dit Verdrag op wiens grondgebied de vermoedeli
 
 - b. bezoek van een vertegenwoordiger van die Staat of die Staten te ontvangen.
 
-#### Artikel 18. Kennisgeving van het resultaat van de procedure
+##### Artikel 18. Kennisgeving van het resultaat van de procedure
 
 De Staat die Partij is bij dit Verdrag waarin een vermoedelijke dader strafrechtelijk wordt vervolgd, brengt het eindresultaat van de procedure ter kennis van de Secretaris-Generaal van de Verenigde Naties, die de informatie doorzendt aan de andere Staten die Partij zijn bij dit Verdrag.
 
-#### Artikel 19. Verspreiding
+##### Artikel 19. Verspreiding
 
 De Staten die Partij zijn bij dit Verdrag verplichten zich ertoe dit Verdrag op zo breed mogelijke schaal te verspreiden en met name de bestudering ervan, alsmede van de relevante bepalingen van het internationale humanitaire recht, op te nemen in hun militaire opleidingsprogramma's.
 
-#### Artikel 20. Vrijwaringsclausules
+##### Artikel 20. Vrijwaringsclausules
 
 De bepalingen van dit Verdrag laten onverlet:
 
@@ -222,11 +247,11 @@ De bepalingen van dit Verdrag laten onverlet:
 
 - e. de aanspraak op een passende schadevergoeding in geval van overlijden, invaliditeit, letsel of ziekte, toe te schrijven aan de uitvoering van vredeshandhavingstaken door personen die vrijwillig door Staten zijn geleverd ten behoeve van een VN-operatie.
 
-#### Artikel 21. Recht op handelen uit zelfverdediging
+##### Artikel 21. Recht op handelen uit zelfverdediging
 
 Geen enkele bepaling van dit Verdrag mag zodanig worden uitgelegd dat deze een beperking inhoudt van het recht om te handelen uit zelfverdediging.
 
-#### Artikel 22. Regeling van geschillen
+##### Artikel 22. Regeling van geschillen
 
 1. Elk geschil tussen twee of meer Staten die Partij zijn bij dit Verdrag inzake de uitleg of toepassing van dit Verdrag dat niet wordt geregeld door middel van onderhandelingen, wordt op verzoek van één van hen onderworpen aan arbitrage. Indien de partijen er binnen zes maanden na de datum van het verzoek om arbitrage niet in zijn geslaagd overeenstemming te bereiken over de organisatie van de arbitrage, kan een van die partijen het geschil voorleggen aan het Internationaal Gerechtshof door middel van een verzoek overeenkomstig het Statuut van het Gerechtshof.
 
@@ -234,35 +259,35 @@ Geen enkele bepaling van dit Verdrag mag zodanig worden uitgelegd dat deze een b
 
 3. Een Staat die Partij is bij dit Verdrag die een voorbehoud heeft gemaakt overeenkomstig het tweede lid, kan dit voorbehoud te allen tijde intrekken door middel van een kennisgeving aan de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 23. Toetsingsbijeenkomsten
+##### Artikel 23. Toetsingsbijeenkomsten
 
 Op verzoek van een of meer Staten die Partij zijn bij dit Verdrag en na goedkeuring door een meerderheid van de Staten die Partij zijn bij dit Verdrag belegt de Secretaris-Generaal van de Verenigde Naties een bijeenkomst van de Staten die Partij zijn bij dit Verdrag om de toepassing van het Verdrag en eventuele daarbij ondervonden problemen te bezien.
 
-#### Artikel 24. Ondertekening
+##### Artikel 24. Ondertekening
 
 Dit Verdrag staat voor alle Staten voor ondertekening open tot en met 31 december 1995 op de zetel van de Verenigde Naties te New York.
 
-#### Artikel 25. Bekrachtiging, aanvaarding of goedkeuring
+##### Artikel 25. Bekrachtiging, aanvaarding of goedkeuring
 
 Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 26. Toetreding
+##### Artikel 26. Toetreding
 
 Dit Verdrag staat voor alle Staten open voor toetreding. De akten van toetreding worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 27. Inwerkingtreding
+##### Artikel 27. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking dertig dagen na de datum waarop tweeëntwintig akten van bekrachtiging, aanvaarding, goedkeuring of toetreding zijn nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
 2. Voor elke Staat die het Verdrag bekrachtigt, aanvaardt of goedkeurt, dan wel hiertoe toetreedt na de nederlegging van de tweeëntwintigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt het Verdrag in werking op de dertigste dag na de datum van nederlegging door die Staat van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel 28. Opzegging
+##### Artikel 28. Opzegging
 
 1. Een Staat die Partij is bij dit Verdrag kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal van de Verenigde Naties.
 
 2. De opzegging wordt van kracht één jaar na de datum waarop deze kennisgeving door de Secretaris-Generaal van de Verenigde Naties is ontvangen.
 
-#### Artikel 29. Authentieke teksten
+##### Artikel 29. Authentieke teksten
 
 Het origineel van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die voor eensluidend gewaarmerkte afschriften daarvan zal toezenden aan alle Staten.
 

@@ -1,13 +1,39 @@
 ---
-title: "Aanbestedingsbesluit op defensie- en veiligheidsgebied"
+title: "Besluit van 5 februari 2013, houdende de regeling van enkele onderwerpen van de Aanbestedingswet op defensie- en veiligheidsgebied (Aanbestedingsbesluit op defensie- en veiligheidsgebied)"
 identifier: "BWBR0032903"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-04-18
-laatste_update: 2019-04-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032903"
+country: "nl"
+rank: "amvb"
+publication_date: "2019-04-18"
+last_updated: "2019-04-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032903"
+soort: "AMvB"
+stam_id: "12109793"
+version_id: "20193052"
+internal_id: "C28389271"
+label_id: "12081374"
+dtd_version: "2.0"
+original_entry_into_force: "2013-02-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032903/2019-04-18/0"
+intitule_bron: "Stb.2013-46"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-02-05"
+intitule_published: "2013-02-15"
+intitule_in_force: "2013-02-15"
+intitule_status: "goed"
+original_publication: "Stb.2013-46"
+original_signed_date: "2013-02-05"
+original_published_date: "2013-02-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2013-46"
+entry_into_force_date: "2013-02-16"
+jci_1_3: "jci1.3:c:BWBR0032903&z=2019-04-18&g=2019-04-18"
+jci_1_0: "1.0:c:BWBR0032903&g=2019-04-18"
+citeertitel_status: "officieel"
+short_title: "Aanbestedingsbesluit op defensie- en veiligheidsgebied"
+signed_date: "2013-02-05"
+entry_into_force: "2013-02-16"
 ---
-
 # Besluit van 5 februari 2013, houdende de regeling van enkele onderwerpen van de Aanbestedingswet op defensie- en veiligheidsgebied (Aanbestedingsbesluit op defensie- en veiligheidsgebied)
 
 Op de voordracht van Onze Minister van Economische Zaken van 9 oktober 2012, nr. WJZ / 12330580, gedaan mede namens Onze Minister van Defensie;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Eigen verklaring
 
-#### Artikel 2
+##### Artikel 2
 
 In de eigen verklaring, bedoeld in [artikel 2.74 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&artikel=2.74), worden ten minste de volgende gegevens opgenomen:
 
@@ -58,7 +84,7 @@ In de eigen verklaring, bedoeld in [artikel 2.74 van de wet](https://wetten.over
 
 ### Hoofdstuk 3. Communicatie
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een aanbestedende dienst of speciale-sectorbedrijf deelt de inschrijvers en gegadigden mede of de mededelingen en uitwisselingen van informatie worden gedaan door middel van de post of de fax, langs elektronische weg overeenkomstig het vijfde lid en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032903&hoofdstuk=3&artikel=5&z=2019-04-18&g=2019-04-18), per telefoon, of door middel van een combinatie van deze middelen, tenzij het een bericht betreft waarvoor in de wet de wijze van verzending is voorgeschreven.
 
@@ -70,13 +96,13 @@ In de eigen verklaring, bedoeld in [artikel 2.74 van de wet](https://wetten.over
 
 5. Een aanbestedende dienst of speciale-sectorbedrijf gebruikt voor mededelingen langs elektronische weg middelen die, evenals de technische kenmerken daarvan, niet-discriminerend zijn en algemeen beschikbaar en welke in combinatie met algemeen gebruikte informatie- en communicatietechnologieproducten kunnen functioneren.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een aanbestedende dienst of speciale-sectorbedrijf waarborgt dat verzoeken tot deelneming aan een procedure voor de gunning van een opdracht schriftelijk of telefonisch gedaan kunnen worden.
 
 2. Wanneer verzoeken tot deelneming telefonisch worden gedaan, zendt de aanbestedende dienst of het speciale-sectorbedrijf vóór het verstrijken van de ontvangsttermijn een schriftelijke bevestiging.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Op de toezending en de middelen voor de elektronische ontvangst van inschrijvingen, en op de middelen voor de elektronische ontvangst van verzoeken tot deelneming zijn het tweede tot en met het vijfde lid van toepassing.
 
@@ -104,7 +130,7 @@ In de eigen verklaring, bedoeld in [artikel 2.74 van de wet](https://wetten.over
 
 - h. de ontvangen en openbaar gemaakte informatie uitsluitend toegankelijk blijft voor de tot inzage gemachtigde personen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aanbestedende diensten en speciale-sectorbedrijven ontvangen en verwerken elektronische facturen die worden opgesteld ter uitvoering van overeenkomsten waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032898) van toepassing is en die voldoen aan de Europese norm voor elektronische facturering en aan syntaxen die zijn opgenomen in de Europese lijst van syntaxen.
 
@@ -116,11 +142,11 @@ In de eigen verklaring, bedoeld in [artikel 2.74 van de wet](https://wetten.over
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Aanbestedingsbesluit op defensie- en veiligheidsgebied.
 

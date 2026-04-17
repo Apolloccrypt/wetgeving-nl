@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van de voorkomens in het Markham-veld en de afname van bitumina daaruit"
 identifier: "BWBV0001074"
-categorie: "Internationaal recht"
-publicatiedatum: 1993-03-03
-laatste_update: 1993-03-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001074"
+country: "nl"
+rank: "verdrag"
+publication_date: "1993-03-03"
+last_updated: "1993-03-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001074"
+soort: "verdrag"
+stam_id: "10002412473"
+version_id: "10002420652"
+internal_id: "C10006976511"
+label_id: "10002402444"
+dtd_version: "2.0"
+original_entry_into_force: "1993-03-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001074/1993-03-03/0"
+intitule_bron: "Trb.1992-99"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-02-12"
+intitule_published: "1992-07-17"
+intitule_in_force: "1993-04-01"
+intitule_status: "goed"
+original_publication: "Trb.1992-99"
+original_signed_date: "1993-02-12"
+original_published_date: "1992-07-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-99"
+entry_into_force_date: "1993-03-03"
+jci_1_3: "jci1.3:c:BWBV0001074&z=1993-03-03&g=1993-03-03"
+jci_1_0: "1.0:c:BWBV0001074&g=1993-03-03"
+citeertitel_status: "redactioneel"
+signed_date: "1993-02-12"
+entry_into_force: "1993-03-03"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van de voorkomens in het Markham-veld en de afname van bitumina daaruit
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
@@ -22,7 +47,7 @@ Zijn als volgt overeengekomen:
 
 ## DEEL I. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 Tenzij het zinsverband anders vereist, wordt voor de toepassing van deze Overeenkomst verstaan onder:
 
@@ -74,13 +99,13 @@ Tenzij het zinsverband anders vereist, wordt voor de toepassing van deze Overeen
 
 ## DEEL II. EXPLOITATIE VAN DE VOORKOMENS IN HET MARKHAM-VELD
 
-#### Artikel 2
+##### Artikel 2
 
 1. De exploitatie van de voorkomens in het Markham-veld dient op geïntegreerde wijze te geschieden in overeenstemming met de bepalingen van deze Overeenkomst.
 
 2. Elke Regering waarborgt dat de in deze Overeenkomst vervatte verplichtingen van de Regeringen, met betrekking tot de naleving van de bepalingen van deze Overeenkomst door de Markham-vergunninghouders, volledig worden nagekomen.
 
-#### Artikel 3. Overeenkomsten
+##### Artikel 3. Overeenkomsten
 
 1. Elke Regering verplicht haar groepen Markham-vergunninghouders, zoals samengesteld op de datum van inwerkingtreding van deze Overeenkomst, ertoe onderling overeenkomsten te sluiten ter regulering van de exploitatie, in overeenstemming met deze Overeenkomst, van de voorkomens in het Markham-veld door middel van het Markham-stelsel.
 
@@ -94,11 +119,11 @@ Tenzij het zinsverband anders vereist, wordt voor de toepassing van deze Overeen
 
 de goedkeuring van de beide Regeringen is vereist voordat aan het voorstel uitvoering kan worden gegeven. Elke Regering bevestigt de ontvangst van de kennisgeving van elk zodanig voorstel en geeft de datum van ontvangst aan. De goedkeuring wordt geacht te zijn gegeven indien de uitvoerder van de werkzaamheden uiterlijk 45 dagen na de laatste van de aangegeven data niet van het tegendeel in kennis is gesteld door één of beide Regeringen.
 
-#### Artikel 4. Uitvoerder van de werkzaamheden
+##### Artikel 4. Uitvoerder van de werkzaamheden
 
 Eén van de Markham-vergunninghouders wordt in onderlinge overeenstemming aangewezen door de groepen Markham-vergunninghouders als hun vertegenwoordiger met betrekking tot de exploitatie van de voorkomens in het Markham-veld overeenkomstig deze Overeenkomst („de uitvoerder van de werkzaamheden"). Voor de benoeming en elke verandering van de uitvoerder van de werkzaamheden is de voorafgaande goedkeuring van beide Regeringen vereist.
 
-#### Artikel 5. Vaststelling en toedeling van Markham-bitumina
+##### Artikel 5. Vaststelling en toedeling van Markham-bitumina
 
 1. De uitvoerder van de werkzaamheden is verplicht ten minste 45 dagen vóór de geplande aanvang van de winning van Markham-bitumina schriftelijke bescheiden, te zamen met tot staving dienende stukken, te doen toekomen aan de Regeringen, waarin hij voorstellen uiteenzet tot vaststelling van:
 
@@ -130,7 +155,7 @@ De winning gaat op deze basis voort tot de eerste dag van de maand volgend op de
 
 7. Ten einde een groep Markham-vergunninghouders in staat te stellen informatie te verkrijgen inzake de in het eerste lid genoemde aangelegenheden, weigert geen der Regeringen, met inachtneming van haar wetgeving, de toestemming tot het zetten van een boring waarom is verzocht namens zo'n groep waaraan door de andere Regering vergunning is verleend.
 
-#### Artikel 6. Herziening van een vaststelling en toedeling van Markham-bitumina
+##### Artikel 6. Herziening van een vaststelling en toedeling van Markham-bitumina
 
 1. Een herziening van een vaststelling door vergunninghouders kan slechts geschieden in overeenstemming met de desbetreffende overeenkomst tussen groepen vergunninghouders; deze overeenkomst dient bepalingen te bevatten om te waarborgen dat beide Regeringen in kennis worden gesteld van de aanvang van de herziening en van het resultaat. De kennisgeving van het resultaat gaat vergezeld van tot staving dienende bescheiden en de Regeringen dienen met elkaar in overleg te treden met betrekking tot het resultaat. Binnen 180 dagen (of in een bepaald geval enige tussen de Regeringen overeen te komen kortere termijn) na de ontvangst van de kennisgeving van het resultaat van een herziening van een vaststelling door vergunninghouders, keurt elke Regering dit hetzij goed, hetzij stelt zij de uitvoerder van de werkzaamheden en de andere Regering ervan in kennis dat zij het niet kan goedkeuren. Ingeval één of beide Regeringen haar goedkeuring niet kan geven, dienen de Regeringen met elkaar en met de uitvoerder van de werkzaamheden in overleg te treden ten einde overeenstemming te bereiken over de vaststelling van de onderwerpelijke aangelegenheid; de uitvoerder van de werkzaamheden kan hiertoe andere voorstellen voorleggen. Indien niet binnen 30 dagen na het einde van de bovenbedoelde termijn overeenstemming tussen de Regeringen is bereikt, wordt een deskundige benoemd om de onderwerpelijke aangelegenheid te beslissen. De bepalingen van artikel 5, derde lid, zijn in deze omstandigheden van toepassing op dezelfde wijze als wanneer een Regering een voorstel tot vaststelling niet kan goedkeuren.
 
@@ -152,7 +177,7 @@ De winning gaat op deze basis voort tot de eerste dag van de maand volgend op de
 
 6. Een deskundige, benoemd ter uitvoering van een herziening van een vaststelling van regeringswege, handelt in overeenstemming met de bepalingen vervat in Bijlage II. De beide Regeringen bevorderen dat de deskundige zijn taak kan uitoefenen, in het bijzonder op de in Bijlage II aangegeven wijzen. De beslissing van de deskundige is bindend voor de beide Regeringen en voor de Markham-vergunninghouders. De beide Regeringen waarborgen dat de uitvoerder van de werkzaamheden terstond door de deskundige van zijn beslissing in kennis wordt gesteld. De beslissing treedt in werking op de eerste dag van de maand volgend op de maand waarin zij aan de uitvoerder van de werkzaamheden is bekendgemaakt en zij wordt in overeenstemming met de desbetreffende overeenkomst tussen groepen vergunninghouders verwerkt alsof de uit de beslissing van de deskundige voortvloeiende gegevens in die overeenkomst waren opgenomen.
 
-#### Artikel 7. Ontwikkelingsplan
+##### Artikel 7. Ontwikkelingsplan
 
 1. De winning vangt eerst aan nadat de beide Regeringen hun goedkeuring hebben gehecht aan een ontwikkelingsplan voor de doelmatige exploitatie van de voorkomens in het Markham-veld, dat is ingediend door de uitvoerder van de werkzaamheden en dat een programma en plannen omvat die zijn overeengekomen in overeenstemming met de overeenkomsten tussen groepen vergunninghouders. De beide Regeringen waarborgen dat de exploitatie van de voorkomens in het Markham-veld geschiedt in overeenstemming met het ontwikkelingsplan.
 
@@ -160,13 +185,13 @@ De winning gaat op deze basis voort tot de eerste dag van de maand volgend op de
 
 3. De Markham-vergunninghouders zijn verplicht de status of functie van enige Markham-installatie op generlei wijze te veranderen, tenzij in overeenstemming met een goedgekeurde wijziging van het ontwikkelingsplan.
 
-#### Artikel 8. Installaties
+##### Artikel 8. Installaties
 
 1. Beide Regeringen worden door de uitvoerder van de werkzaamheden in kennis gesteld van de precieze ligging van elke Markham-installatie en zij waarborgen dat geen Markham-installatie wordt geplaatst binnen 125 meter vanaf de grenslijn, tenzij met toestemming van beide Regeringen.
 
 2. Met het oog op de exploitatie van de voorkomens in het Markham-veld en met inachtneming van de veiligheidseisen belemmert geen van beide Regeringen het vrije verkeer van personen en goederen tussen de Markham-installaties, en de aanleg- en landingsvoorzieningen op deze installaties zijn vrij toegankelijk voor vaartuigen en luchtvaartuigen van beide Staten.
 
-#### Artikel 9. Goedkeuring voor de aanleg van interfield-pijpleidingen
+##### Artikel 9. Goedkeuring voor de aanleg van interfield-pijpleidingen
 
 1. Elke Regering verleent, na overleg met de andere Regering en met inachtneming van haar wetgeving en deze Overeenkomst, de nodige vergunning en geeft de nodige toestemming voor de aanleg en het gebruik van een interfield-pijpleiding of een gedeelte daarvan.
 
@@ -176,7 +201,7 @@ De winning gaat op deze basis voort tot de eerste dag van de maand volgend op de
 
 4. Ingeval een dergelijke vergunning of toestemming vervalt dan wel wordt teruggegeven of ingetrokken, streeft de Regering die de vergunning of toestemming heeft verleend, ernaar te waarborgen dat de exploitatie van de voorkomens in het Markham-veld wordt voortgezet in overeenstemming met de bepalingen van deze Overeenkomst. De betrokken Regering stelt met name alles in het werk om een nieuwe vergunning of toestemming te verlenen ter vervanging van die welke is beëindigd, zulks zonder tussenpoos tussen de geldigheidsduur van de oude vergunning of toestemming en die van de nieuwe, of zij treft andere door beide Regeringen overeen te komen maatregelen ter voortzetting van de exploitatie van de voorkomens in het Markham-veld.
 
-#### Artikel 10. Veiligheid van het Markham-stelsel
+##### Artikel 10. Veiligheid van het Markham-stelsel
 
 1. Elke Regering heeft het recht om in overeenstemming met haar eigen wetgeving de veiligheidsmaatregelen vast te stellen die van toepassing zijn op de delen van het Markham-stelsel die onder haar rechtsmacht, als bepaald in artikel 24, vallen.
 
@@ -184,7 +209,7 @@ De winning gaat op deze basis voort tot de eerste dag van de maand volgend op de
 
 3. De bevoegde autoriteiten van de beide Regeringen plegen van tijd tot tijd met elkaar overleg ter toetsing van de uitvoering van de krachtens dit artikel getroffen regelingen.
 
-#### Artikel 11. Markham-inspecteurs
+##### Artikel 11. Markham-inspecteurs
 
 1. Elke Regering onderneemt stappen om te waarborgen dat de door de ene Regering benoemde veiligheids- of verontreinigingsinspecteurs:
 
@@ -198,7 +223,7 @@ De winning gaat op deze basis voort tot de eerste dag van de maand volgend op de
 
 4. De bevoegde autoriteiten van de beide Regeringen plegen met elkaar overleg ten einde de praktische maatregelen overeen te komen voor de uitvoering van dit artikel.
 
-#### Artikel 12. Winningsvergunningen
+##### Artikel 12. Winningsvergunningen
 
 1. Elke Regering doet de andere Regering terstond schriftelijk kennisgeving van de namen van haar Markham-vergunninghouders op de datum waarop deze Overeenkomst in werking treedt.
 
@@ -208,7 +233,7 @@ De winning gaat op deze basis voort tot de eerste dag van de maand volgend op de
 
 4. Elke Regering verlangt dat geen van haar Markham-vergunninghouders rechten, verleend krachtens een winningsvergunning op grond waarvan de exploitatie van de voorkomens in het Markhamveld plaatsvindt, overdraagt of soortgelijke rechten verleent aan een andere natuurlijke persoon of rechtspersoon zonder de voorafgaande toestemming van de Regering die de vergunning heeft afgegeven. Alvorens haar toestemming te verlenen, pleegt de Regering die de vergunning heeft afgegeven overleg met de andere Regering. Elke Regering stelt de andere Regering terstond schriftelijk in kennis van iedere verandering in de samenstelling van één van haar groepen Markham-vergunninghouders.
 
-#### Artikel 13. Verkoop van Markham-bitumina
+##### Artikel 13. Verkoop van Markham-bitumina
 
 1. De Regeringen erkennen ten opzichte van elkaar het rechtmatige belang dat zij hebben in het waarborgen dat Markham-bitumina kunnen worden geleverd aan kopers aan wie één van haar Markhamvergunninghouders deze heeft verkocht.
 
@@ -216,7 +241,7 @@ De winning gaat op deze basis voort tot de eerste dag van de maand volgend op de
 
 3. Indien uit het ingevolge het tweede lid gepleegde overleg blijkt dat er een wijziging van of een aanvullende overeenkomst bij deze Overeenkomst nodig is om te voorzien in de gewijzigde omstandigheden, onderhandelen de beide Regeringen om die wijziging of overeenkomst tot stand te brengen, na de Markham-vergunninghouders naar hun standpunt te hebben gevraagd. Ten einde die onderhandelingen te vergemakkelijken wisselen de beide Regeringen, met inachtneming van artikel 21, alle ter zake dienende informatie uit.
 
-#### Artikel 14. Gebruik van het Markham-stelsel voor niet met het Markham-stelsel verband houdende activiteiten
+##### Artikel 14. Gebruik van het Markham-stelsel voor niet met het Markham-stelsel verband houdende activiteiten
 
 1. De Regeringen erkennen dat, met inachtneming van het tweede en het derde lid, de exploitatie en de doorvoer van andere bitumina dan Markham-bitumina een rechtmatig gebruik van het Markhamstelsel vormen.
 
@@ -228,11 +253,11 @@ De winning gaat op deze basis voort tot de eerste dag van de maand volgend op de
 
 ## DEEL III. DIVERSE BEPALINGEN
 
-#### Artikel 15. Radioverbindingen
+##### Artikel 15. Radioverbindingen
 
 De tot het uitvaardigen van voorschriften bevoegde instanties van de beide Regeringen plegen met elkaar overleg over de verlening van vergunningen en de frequentiecoördinatie, welke vereist zijn met betrekking tot de aanleg en het gebruik van radio-elektrische inrichtingen die zullen worden gebruikt in verband met de exploitatie van de voorkomens in het Markham-veld, alsmede over het toezicht op die inrichtingen.
 
-#### Artikel 16. Meetapparatuur
+##### Artikel 16. Meetapparatuur
 
 1. De uitvoerder van de werkzaamheden is verplicht vóór de geplande aanvang van de winning van Markham-bitumina voorstellen in te dienen ter goedkeuring door de Regeringen met betrekking tot het ontwerp, de plaatsing en de bediening van apparatuur die nauwkeurig de hoeveelheden gas en vloeistoffen meet die Markham-bitumina bevatten, of worden geacht te bevatten op grond van latere berekeningen, welke worden gebruikt bij de exploitatie van het veld, of worden gereïnjecteerd, afgefakkeld, afgelaten dan wel afgevoerd via de exportpijpleiding.
 
@@ -252,23 +277,23 @@ De tot het uitvaardigen van voorschriften bevoegde instanties van de beide Reger
 
 7. Elke Regering verplicht haar groepen Markham-vergunninghouders ertoe te waarborgen dat de meetapparatuur op een Markham-installatie op de juiste wijze wordt geplaatst, bediend en onderhouden en wordt geijkt zoals overeengekomen in het vierde lid, dan wel vastgesteld door een deskundige overeenkomstig het zesde lid.
 
-#### Artikel 17. Milieubescherming
+##### Artikel 17. Milieubescherming
 
 1. Elke Regering verplicht zich ertoe alles in het werk te stellen om met inachtneming van haar wetgeving zoveel mogelijk te waarborgen dat de exploitatie van de voorkomens in het Markham-veld en het gebruik van het Markham-stelsel geen verontreiniging van het mariene milieu of de kustzone veroorzaken, noch schade veroorzaken aan inrichtingen op het land of in zee, voorzieningen, vaartuigen of vistuig.
 
 2. De bevoegde autoriteiten van beide Regeringen plegen overleg met elkaar over de wijze waarop aan de bepalingen van dit artikel uitvoering wordt gegeven, met inbegrip van de wijze van uitvoering die van toepassing is in een noodsituatie.
 
-#### Artikel 18. Belasting en royalty's
+##### Artikel 18. Belasting en royalty's
 
 1. Winsten, baten en kapitaal verband houdende met de exploitatie van de voorkomens in het Markham-veld worden belast in overeenstemming met de wetgeving van het Koninkrijk der Nederlanden, respectievelijk het Verenigd Koninkrijk, alsmede met de Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting, ondertekend op 7 november 1980, het Protocol van 12 juli 1983, het Protocol tot nadere wijziging van 24 augustus 1989, alsook alle andere eventueel in de toekomst te ondertekenen protocollen bij die overeenkomst, dan wel een eventuele in de toekomst te ondertekenen overeenkomst die daarvoor in de plaats treedt.
 
 2. Elke Regering kan alleen royalty's en soortgelijke rechten, met inbegrip van het aandeel van de Nederlandse Regering in de nettowinst uit de exploitatie van natuurlijke rijkdommen, dat wordt geheven op grond van de Mijnwet Continentaal Plat 1965, heffen over het aandeel van de winning van Markham-bitumina waartoe één van haar Markham-vergunninghouders gerechtigd is ingevolge overeenkomsten tussen groepen vergunninghouders, ongeacht de ligging van de installaties van waaruit de Markham-bitumina worden gewonnen.
 
-#### Artikel 19. Afspraken inzake de veiligheid
+##### Artikel 19. Afspraken inzake de veiligheid
 
 De bevoegde autoriteiten op het gebied van de veiligheid van beide Regeringen plegen overleg met elkaar om de door hen noodzakelijk geachte onderlinge afspraken te maken met betrekking tot de bescherming van het Markham-stelsel.
 
-#### Artikel 20. Ontmanteling
+##### Artikel 20. Ontmanteling
 
 1. De Regeringen waarborgen dat de ontmanteling van een deel of alle delen van het Markham-stelsel geschiedt in overeenstemming met hun onderscheiden wetgeving, waarbij afzonderlijke pijpleidingen of installaties dienen te worden ontmanteld overeenkomstig de wetgeving van de Staat op wiens continentaal plat zij zijn gelegen.
 
@@ -276,7 +301,7 @@ De bevoegde autoriteiten op het gebied van de veiligheid van beide Regeringen pl
 
 3. Elke Regering verplicht haar groepen Markham-vergunninghouders ertoe met de andere groepen Markham-vergunninghouders overeenkomsten aan te gaan betreffende de verdeling van de kosten in verband met de nakoming van de in het eerste lid bedoelde verplichtingen inzake ontmanteling die gelden voor het Markham-stelsel. Op die overeenkomsten is artikel 3 van deze Overeenkomst van toepassing, op dezelfde wijze als op overeenkomsten tussen groepen vergunninghouders.
 
-#### Artikel 21. Verstrekking van informatie
+##### Artikel 21. Verstrekking van informatie
 
 1. Beide Regeringen waarborgen een vrije onderlinge uitwisseling van informatie betreffende de opsporing of de exploitatie van de voorkomens in het Markham-veld door middel van het Markham-stelsel en enig ander gebruik van het Markham-stelsel.
 
@@ -296,11 +321,11 @@ De bevoegde autoriteiten op het gebied van de veiligheid van beide Regeringen pl
 
 zulks op hetzelfde tijdstip als waarop bedoelde verslagen worden verstrekt aan de Markham-vergunninghouders.
 
-#### Artikel 22. Markham-commissie
+##### Artikel 22. Markham-commissie
 
 Ter vergemakkelijking van de uitvoering van deze Overeenkomst wordt een gemengde commissie ingesteld, de Markham-commissie genaamd. De commissie bestaat uit twee gezamenlijke voorzitters en twee gezamenlijke secretarissen, waarbij door elke Regering één voorzitter en één secretaris, voor zover nodig met plaatsvervangers, wordt aangewezen, te zamen met andere personen die naar het oordeel van elk van beide Regeringen bij een vergadering van de commissie aanwezig moeten zijn. De taken van de commissie, waaronder de bestudering van door één van beide of beide Regeringen aan haar voorgelegde aangelegenheden, en haar werkwijzen worden geregeld in nadere, van tijd tot tijd door de beide Regeringen te sluiten overeenkomsten.
 
-#### Artikel 23. Regeling van geschillen
+##### Artikel 23. Regeling van geschillen
 
 1. Geschillen omtrent de uitlegging of toepassing van deze Overeenkomst, met uitzondering van de geschillen waarop de in artikel 5, 6 en 16 bedoelde procedure inzake de deskundige van toepassing is, worden opgelost via de Markham-commissie of, indien deze er niet in slaagt, door middel van onderhandelingen tussen beide Regeringen.
 
@@ -308,23 +333,23 @@ Ter vergemakkelijking van de uitvoering van deze Overeenkomst wordt een gemengde
 
 Elke Regering wijst een scheidsman aan en de twee aldus aangewezen scheidsmannen kiezen een derde tot voorzitter, die geen onderdaan is van of zijn vaste woonplaats heeft in het Koninkrijk der Nederlanden of het Verenigd Koninkrijk. Indien één van beide Regeringen geen scheidsman aanwijst binnen drie maanden na een daartoe strekkend verzoek, kan elk van beide Regeringen de President van het Internationaal Gerechtshof verzoeken een scheidsman te benoemen. Deze procedure is ook van toepassing indien binnen een maand na de aanwijzing of benoeming van de tweede scheidsman niet de derde scheidsman is gekozen. Het scheidsgerecht stelt zijn eigen procedureregels vast, met dien verstande dat alle beslissingen, bij gebreke van unanimiteit, worden genomen met een meerderheid van stemmen van de leden van het scheidsgerecht. De beslissingen van het scheidsgerecht zijn onherroepelijk en bindend voor de beide Regeringen.
 
-#### Artikel 24. Rechtsmacht
+##### Artikel 24. Rechtsmacht
 
 1. Geen enkele bepaling van deze Overeenkomst mag zodanig worden uitgelegd, dat daaruit een aantasting volgt van de rechtsmacht die elke Staat ingevolge het internationale recht heeft over het aan die Staat toebehorende continentale plat. In het bijzonder betekent dit dat een gedeelte van het Markham-stelsel dat is gelegen op het continentale plat dat toebehoort aan het Koninkrijk der Nederlanden, onder de rechtsmacht van het Koninkrijk der Nederlanden valt en dat een gedeelte van het Markham-stelsel dat is gelegen op het continentale plat dat toebehoort aan het Verenigd Koninkrijk, onder de rechtsmacht van het Verenigd Koninkrijk valt.
 
 2. Geen enkele bepaling van deze Overeenkomst mag op zodanige wijze worden uitgelegd, dat daardoor afbreuk wordt gedaan aan of daaruit een beperking volgt voor de toepassing van de wetgeving van één van beide Staten of de uitoefening van de rechtsmacht van hun rechters, in overeenstemming met het internationale recht.
 
-#### Artikel 25. Inwerkingtreding en geldigheidsduur
+##### Artikel 25. Inwerkingtreding en geldigheidsduur
 
 1. Deze Overeenkomst treedt in werking op de datum waarop de beide Regeringen elkaar ervan in kennis hebben gesteld dat aan alle noodzakelijke nationale vereisten is voldaan.
 
 2. De beide Regeringen kunnen deze Overeenkomst te allen tijde wijzigen of beëindigen met wederzijdse instemming.
 
-#### 1
+##### 1
 
 De onderstaande paragrafen 2 tot en met 4 zijn van toepassing in het geval een aangelegenheid dient te worden vastgesteld door een door de Regeringen aangewezen deskundige overeenkomstig de artikelen 5, 6 of 16 van deze Overeenkomst.
 
-#### 2
+##### 2
 
 a. De deskundige wordt met wederzijdse instemming door de beide Regeringen gekozen uit personen die algemeen erkend deskundig zijn en die geen conflicterende belangen hebben. Onmiddellijk voor de aanvaarding van de benoeming dient de deskundige de eerste in het Aanhangsel verwoorde verklaring, dan wel een andere verklaring die naar de Regeringen overeenkomen onder de omstandigheden passend is, af te leggen.
 
@@ -348,7 +373,7 @@ g. De beloning en de kosten van de deskundige worden in eerste instantie betaald
 
 en zij zijn verhaalbaar op de uitvoerder van de werkzaamheden. Deze is verplicht alles in het werk te stellen om ze te vergoeden aan de Regering die in eerste instantie heeft betaald, in het geval van de Regering van het Koninkrijk der Nederlanden binnen hetzelfde kalenderjaar als dat waarin de betaling is geschied, en in het geval van de Regering van het Verenigd Koninkrijk binnen hetzelfde tijdvak van twaalf maanden, beginnende op 1 april, als dat waarin de betaling is geschied.
 
-#### 3
+##### 3
 
 In geval van een vaststelling in verband met de toepassing van de artikelen 5 of 6 van deze Overeenkomst neemt de deskundige geen andere gegevens in aanmerking dan
 
@@ -360,7 +385,7 @@ In geval van een vaststelling in verband met de toepassing van de artikelen 5 of
 
 - ii. het passend is ze in aanmerking te nemen.
 
-#### 4
+##### 4
 
 De deskundige dient de in de desbetreffende overeenkomst tussen groepen vergunninghouders nader aangeduide procedures voor de evaluatie en toepassing van de in de derde paragraaf bedoelde gegevens in acht te nemen, behalve in geval dat
 
@@ -368,13 +393,13 @@ De deskundige dient de in de desbetreffende overeenkomst tussen groepen vergunni
 
 - b. beide Regeringen overeenkomen (op voorstel van de deskundige) dat aan de deskundige moet worden overgelaten welke procedure hij in acht neemt; met dien verstande evenwel dat de deskundige niet gerechtigd is af te wijken van de formule neergelegd in de overeenkomsten tussen groepen vergunninghouders krachtens welke Tract-Deelnemingen definitief worden bepaald.
 
-#### 5
+##### 5
 
 a. De deskundige komt slechts met een Regering bijeen te zamen met de andere Regering. Alle mededelingen tussen de Regeringen en de deskundige buiten bedoelde bijeenkomsten dienen schriftelijk te worden gedaan en daarvan dient tegelijkertijd een afschrift aan de andere Regering te worden gezonden.
 
 b. Een Regering kan worden bijgestaan door elk van haar Markham-vergunninghouders.
 
-#### 6
+##### 6
 
 a. De deskundige dient een voorlopige beslissing te geven binnen een termijn van 90 dagen (of een andere door de Regeringen te bepalen termijn), beginnende op de datum waarop de gekozen deskundige ermede instemt als zodanig op te treden. De voorlopige beslissing dient vergezeld te gaan van ter onderbouwing van de beslissing dienende stukken die de Regeringen nodig hebben om zich daarover een gefundeerd oordeel te vormen. Elke Regering heeft het recht, binnen 90 dagen na ontvangst van de voorlopige beslissing van de deskundige, een toelichting bij die beslissing en de ter onderbouwing van die beslissing dienende stukken te verlangen, de deskundige te verzoeken zijn voorlopige beslissing te herzien en stukken in te dienen bij de deskundige, opdat hij deze in overweging neemt. Ingeval een dergelijk verzoek wordt gedaan en nadere stukken worden ingediend, heeft de andere Regering het recht binnen een termijn van 15 dagen na ontvangst van een kopie van de stukken van de andere Regering eveneens nadere stukken in te dienen. De deskundige dient zijn definitieve beslissing betreffende de onderwerpelijke aangelegenheid uiterlijk 140 dagen nadat hij zijn voorlopige beslissing heeft gegeven, te geven.
 
@@ -382,11 +407,11 @@ b. De deskundige dient alle door Regeringen gedane mededelingen en ingediende st
 
 c. De deskundige dient zijn definitieve beslissing in schriftelijke vorm te geven en zij dient uitvoerig met redenen te zijn omkleed; de beslissing is onherroepelijk en bindend voor beide Regeringen, behalve in geval van bedrog of kennelijke dwaling.
 
-#### 7
+##### 7
 
 Elke Regering verplicht haar groepen Markham-vergunninghouders ertoe volledige medewerking te verlenen bij het verstrekken van de in de derde paragraaf bedoelde informatie en ook overigens de herziening van de vaststelling van regeringswege te bevorderen.
 
-#### 8
+##### 8
 
 De Regeringen verplichten de deskundige en elke door hem aangetrokken onafhankelijke medewerker ertoe een verklaring af te leggen met het oog op de handhaving van het vertrouwelijk karakter van de aan hem verstrekte informatie.
 

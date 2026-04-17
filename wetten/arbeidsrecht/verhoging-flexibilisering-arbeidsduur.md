@@ -1,13 +1,36 @@
 ---
 title: "Verhoging flexibilisering arbeidsduur"
 identifier: "BWBR0011842"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2000-12-13
-laatste_update: 2000-12-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011842"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2000-12-13"
+last_updated: "2000-12-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011842"
+soort: "beleidsregel"
+stam_id: "6526573"
+version_id: "11284112"
+internal_id: "C15217321"
+label_id: "6515344"
+original_entry_into_force: "2000-12-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011842/2000-12-13/0"
+intitule_bron: "Uitleg.2000-9"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-11-27"
+intitule_published: "2000-12-13"
+intitule_in_force: "2000-12-13"
+intitule_status: "goed"
+original_publication: "Uitleg.2000-9"
+original_signed_date: "2000-11-27"
+original_published_date: "2000-12-13"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-12-13"
+jci_1_3: "jci1.3:c:BWBR0011842&z=2000-12-13&g=2000-12-13"
+jci_1_0: "1.0:c:BWBR0011842&g=2000-12-13"
+citeertitel_status: "redactioneel"
+signed_date: "2000-11-27"
+entry_into_force: "2000-12-13"
 ---
-
 # Verhoging flexibilisering arbeidsduur
 
 ### 1. Inleiding

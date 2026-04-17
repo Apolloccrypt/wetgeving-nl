@@ -1,13 +1,39 @@
 ---
-title: "Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen"
+title: "Besluit van 6 februari 2001, houdende vaststelling van de regels rond het recht op militair arbeidsongeschiktheids- of invaliditeitspensioen voor het bereiken van de leeftijd van 65 jaar (Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen)"
 identifier: "BWBR0012223"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012223"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012223"
+soort: "AMvB"
+stam_id: "1566183"
+version_id: "2321552"
+internal_id: "C2321551"
+label_id: "1521854"
+dtd_version: "2.0"
+original_entry_into_force: "2001-03-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012223/2023-01-01/0"
+intitule_bron: "Stb.2001-140"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-02-06"
+intitule_published: "2001-03-29"
+intitule_in_force: "2001-03-29"
+intitule_status: "goed"
+original_publication: "Stb.2001-140"
+original_signed_date: "2001-02-06"
+original_published_date: "2001-03-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2001-140"
+entry_into_force_date: "2001-03-30"
+jci_1_3: "jci1.3:c:BWBR0012223&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0012223&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen"
+signed_date: "2001-02-06"
+entry_into_force: "2001-03-30"
 ---
-
 # Besluit van 6 februari 2001, houdende vaststelling van de regels rond het recht op militair arbeidsongeschiktheids- of invaliditeitspensioen voor het bereiken van de leeftijd van 65 jaar (Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen)
 
 Op de voordracht van de Staatssecretaris van Defensie van 19 februari 1999, nr. P/99000777;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - h. pensioengerechtigde leeftijd: de pensioengerechtigde leeftijd die voor de ambtenaar geldt op grond van [artikel 7a van de Algemene ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a).
 
-#### Artikel 2. Arbeidsongeschiktheid en invaliditeit
+##### Artikel 2. Arbeidsongeschiktheid en invaliditeit
 
 1. Voor de toepassing van dit besluit wordt onder arbeidsongeschiktheid met dienstverband verstaan: een arbeidsongeschiktheid ten gevolge van ziekten of gebreken, die in overwegende mate hun oorzaak vinden in de aard van de aan de militair opgedragen werkzaamheden of in de bijzondere omstandigheden, waaronder zij moesten worden verricht, en niet aan zijn schuld of onvoorzichtigheid zijn te wijten.
 
@@ -96,7 +122,7 @@ een en ander voor zover de gebruikelijke veiligheidsmaatregelen ter bescherming 
 
 #### Paragraaf 2. Aanspraken voor de beroepsmilitair
 
-#### Artikel 3. Het arbeidsongeschiktheidspensioen
+##### Artikel 3. Het arbeidsongeschiktheidspensioen
 
 1. De beroepsmilitair die ter zake van ziekten of gebreken uit zijn militaire betrekking is ontslagen heeft, zolang vanwege die betrekking recht bestaat op een arbeidsongeschiktheidsuitkering, recht op een arbeidsongeschiktheidspensioen.
 
@@ -140,11 +166,11 @@ bij een arbeidsongeschiktheid van:
 
 11. Bij de toepassing van dit artikel wordt uitgegaan van de met inachtneming van [artikel 44 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44) vast te stellen mate van arbeidsongeschiktheid en van het bedrag aan arbeidsongeschiktheidsuitkering waarop recht bestaat voor de mogelijke vermindering daarvan met andere arbeidsongeschiktheidsuitkeringen en voor de eventuele toepassing van een administratieve sanctie.
 
-#### Artikel 4. Het garantiepensioen
+##### Artikel 4. Het garantiepensioen
 
 De som van het arbeidsongeschiktheidspensioen, het invaliditeitspensioen, de suppletie en de arbeidsongeschiktheidsuitkering waarop ingevolge de voorgaande artikelen, [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=7&z=2023-01-01&g=2023-01-01), de [suppletieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008977) en de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) aanspraak bestaat, is over enige betalingstermijn niet lager dan het aan dezelfde militaire betrekking te ontlenen ouderdomspensioen krachtens het pensioenreglement, zonder toepassing van de daarbij te hanteren franchise berekend naar de op het moment van ontslag uit die betrekking aan te wijzen diensttijd. Indien de betreffende som lager is dan dat ouderdomspensioen heeft de belanghebbende bij wijze van garantiepensioen recht op het verschil.
 
-#### Artikel 5. Kortingen en beperkingen met betrekking tot het arbeidsongeschiktheidspensioen
+##### Artikel 5. Kortingen en beperkingen met betrekking tot het arbeidsongeschiktheidspensioen
 
 1. Indien de rechthebbende op een arbeidsongeschiktheidspensioen andere inkomsten uit of in verband met arbeid geniet, anders dan de hem op grond van dezelfde dienstbetrekking toekomende arbeidsongeschiktheidsuitkering of suppletie krachtens de [suppletieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008977), zijn daaraan gekoppelde ontslaguitkering of invaliditeitspensioen, dan wel de op dat invaliditeitspensioen verstrekte bijzondere invaliditeitsverhoging, bedraagt de som van die inkomsten en zijn aan de arbeidsongeschiktheid te relateren rechten, het garantiepensioen daaronder begrepen, niet meer dan de berekeningsgrondslag. Een positief verschil tussen die som en de berekeningsgrondslag wordt voor zoveel mogelijk op zijn arbeidsongeschiktheidspensioen en zijn eventuele garantiepensioen in mindering gebracht. Inkomsten die al voor het intreden van de arbeidsongeschiktheid naast de militaire werden genoten en de eventuele vervangende inkomsten in verband daarmee, blijven daarbij, voor zover zij althans niet voortkomen uit een verhoogde werkzaamheid na het ontslag als militair, buiten beschouwing.
 
@@ -152,13 +178,13 @@ De som van het arbeidsongeschiktheidspensioen, het invaliditeitspensioen, de sup
 
 3. Onze Minister kan een arbeidsongeschiktheidspensioen weigeren of verminderen indien ten aanzien van de arbeidsongeschiktheidsuitkering een sanctie overeenkomstig de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) is toegepast. Hij neemt daarbij het sanctiebeleid dat ten aanzien van die arbeidsongeschiktheidsuitkering is toegepast voor zoveel mogelijk inacht.
 
-#### Artikel 6. Verhoging tot minimumloon
+##### Artikel 6. Verhoging tot minimumloon
 
 1. Indien de som van het krachtens de voorgaande artikelen vastgestelde arbeidsongeschiktheidspensioen en de andere inkomsten uit of in verband met arbeid of bedrijf van de rechthebbende, met uitzondering van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=8&z=2023-01-01&g=2023-01-01) bedoelde bijzondere invaliditeitsverhoging, de aan zijn arbeidsongeschiktheid, invaliditeit met dienstverband of werkloosheid te relateren andere inkomsten daaronder begrepen, minder bedraagt dan het op enig moment geldend en met de daarbij behorende vakantie-uitkering verhoogde wettelijk minimumloon voor een volwassene op jaarbasis, wordt dat pensioen verhoogd met het bedrag dat nodig is om die som tot dat minimumloon te verhogen.
 
 2. De in het eerste lid bedoelde verhoging bedraagt niet meer dan het verschil tussen enerzijds de voor de berekening van het arbeidsongeschiktheidspensioen geldende berekeningsgrondslag en anderzijds de som van dat pensioen en de aan dezelfde militaire betrekking te ontlenen arbeidsongeschiktheidsuitkering en tevens niet meer dan 30 procent van het in het eerste lid bedoelde minimumloon.
 
-#### Artikel 7. Het invaliditeitspensioen
+##### Artikel 7. Het invaliditeitspensioen
 
 1. De beroepsmilitair bij wie een bepaalde mate van invaliditeit met dienstverband is vastgesteld heeft uit hoofde van zijn ontslag uit de militaire betrekking waarin die invaliditeit is ontstaan recht op een invaliditeitspensioen.
 
@@ -170,7 +196,7 @@ De som van het arbeidsongeschiktheidspensioen, het invaliditeitspensioen, de sup
 
 5. Het recht op een invaliditeitspensioen bestaat niet gedurende de periode dat aanspraak bestaat op de Inkomensvoorziening in verband met zorg ingevolge [hoofdstuk 5 van het Veteranenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=5).
 
-#### Artikel 8. De bijzondere invaliditeitsverhoging
+##### Artikel 8. De bijzondere invaliditeitsverhoging
 
 1. De beroepsmilitair met een recht op invaliditeitspensioen wiens ontslag heeft plaatsgevonden vóór 1 juli 2007 heeft recht op een bijzondere invaliditeitsverhoging van:
 
@@ -242,7 +268,7 @@ bedraagt de bijzondere invaliditeitsverhoging niet minder dan 40 procent van de 
 
 6. Dit artikel is van overeenkomstige toepassing op de beroepsmilitair die ondanks ongeschiktheid in militaire dienst wordt gehandhaafd. De bijzondere invaliditeitsverhoging wordt in dat geval, vanaf het moment dat tot handhaving wordt besloten, vastgesteld aan de hand van het pensioengevend inkomen dat over enige betalingstermijn wordt genoten.
 
-#### Artikel 9. De herplaatsingstoelage
+##### Artikel 9. De herplaatsingstoelage
 
 1. Recht op een herplaatsingstoelage heeft de arbeidsongeschikte beroepsmilitair die:
 
@@ -262,7 +288,7 @@ bedraagt de bijzondere invaliditeitsverhoging niet minder dan 40 procent van de 
 
 #### Paragraaf 3. Aanspraken voor de dienstplichtige en reservist
 
-#### Artikel 10. Arbeidsongeschiktheidsverhoging
+##### Artikel 10. Arbeidsongeschiktheidsverhoging
 
 1. De dienstplichtige of reservist bij wie een bepaalde mate van arbeidsongeschiktheid met dienstverband is vastgesteld die is ontstaan in het met een ontslag als zodanig beëindigde tijdvak van zijn werkelijke dienst en die in verband met die beëindiging in het genot is van een uitkering ingevolge de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822) of een daarmee vergelijkbare andere wettelijke arbeidsongeschiktheidsuitkering, heeft recht op een verhoging van die uitkering tot een percentage van zijn berekeningsgrondslag van:
 
@@ -286,7 +312,7 @@ bij een mate van arbeidsongeschiktheid van:
 
 3. De in het eerste lid bedoelde verhoging behoort niet tot de inkomsten die ingevolge de kortingsbepalingen van de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822) of een daarmee vergelijkbare andere wettelijke regeling op een arbeidsongeschiktheidsuitkering kunnen worden gekort.
 
-#### Artikel 11. Invaliditeitspensioen en bijzondere invaliditeitsverhoging
+##### Artikel 11. Invaliditeitspensioen en bijzondere invaliditeitsverhoging
 
 1. De dienstplichtige of reservist bij wie een bepaalde mate van invaliditeit met dienstverband is vastgesteld die is ontstaan in het met een ontslag als zodanig beëindigde tijdvak van zijn werkelijke dienst, heeft recht op een invaliditeitspensioen.
 
@@ -304,7 +330,7 @@ bij een mate van arbeidsongeschiktheid van:
 
 #### Paragraaf 4. Gemeenschappelijke bepalingen
 
-#### Artikel 12. Toeslag
+##### Artikel 12. Toeslag
 
 1. Op het bedrag van het krachtens de voorgaande artikelen te berekenen pensioenen bestaat recht op een toeslag van:
 
@@ -318,7 +344,7 @@ bij een mate van arbeidsongeschiktheid van:
 
 3. Voor de dienstplichtige of reservist wordt het bedrag van de uitkering ingevolge de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822) bij het in het eerste lid bedoelde totaalbedrag betrokken.
 
-#### Artikel 13. Uitkering bij overlijden
+##### Artikel 13. Uitkering bij overlijden
 
 1. Zo spoedig mogelijk na het overlijden van de rechthebbende op een pensioen, een pensioenverhoging of een herplaatsingtoelage wordt aan de partner van wie hij niet duurzaam gescheiden leefde een uitkering toegekend gelijk aan het totaal van de aanspraken op het overlijdensmoment over een tijdvak van twee maanden. Bij de vaststelling van de uitkering wordt [artikel 3, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01), niet toegepast. Een overlijdensuitkering op grond van het genot van de in dat lid bedoelde arbeidsongeschiktheidsuitkering wordt op het gevonden bedrag in mindering gebracht.
 
@@ -330,13 +356,13 @@ bij een mate van arbeidsongeschiktheid van:
 
 5. Het eerste tot en met derde lid zijn van overeenkomstige toepassing in geval van vermissing van een rechthebbende.
 
-#### Artikel 14. Indexering
+##### Artikel 14. Indexering
 
 1. De berekeningsgrondslagen worden overeenkomstig in hoofdstuk 12 van het pensioenreglement aangepast aan de algemene bezoldigingswijzigingen van het overheidspersoneel. De pensioenen, verhogingen en toelagen, de verhoging, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=8&z=2023-01-01&g=2023-01-01), uitgezonderd, worden aan de hand van die aangepaste berekeningsgrondslagen herberekend.
 
 2. Het eerste lid is van overeenkomstige toepassing op de bedragen, genoemd in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=7&z=2023-01-01&g=2023-01-01), [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=3&artikel=11&z=2023-01-01&g=2023-01-01), en [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=12&z=2023-01-01&g=2023-01-01).
 
-#### Artikel 15. Toekenning
+##### Artikel 15. Toekenning
 
 1. De pensioenen, pensioenverhogingen en toelagen worden toegekend op aanvraag van de belanghebbende en worden op een jaarbedrag vastgesteld.
 
@@ -356,7 +382,7 @@ bij een mate van arbeidsongeschiktheid van:
 
 6. Bij de toepassing van dit artikel wordt uitgegaan van bedragen die overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=14&z=2023-01-01&g=2023-01-01) en de daaraan voorafgaande vergelijkbare regels zijn gebracht op het niveau van het moment van toekenning.
 
-#### Artikel 16. Einde
+##### Artikel 16. Einde
 
 1. De pensioenen, verhogingen en toelagen eindigen met het einde van de maand waarin de rechthebbende is overleden en uiterlijk op de dag waarop de rechthebbende de pensioengerechtigde leeftijd bereikt.
 
@@ -366,13 +392,13 @@ bij een mate van arbeidsongeschiktheid van:
 
 4. In afwijking van het eerste lid, eindigen de pensioenen en verhogingen op grond van dit besluit uiterlijk op de dag waarop de rechthebbende de leeftijd van 65 jaar bereikt indien aan de rechthebbende voor 1 januari 2017 ontslag is verleend of indien de rechthebbende een militair is die een aanvraag heeft ingediend als bedoeld in [artikel 39a, eerste tot en met vierde lid van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a).
 
-#### Artikel 17. Betaling
+##### Artikel 17. Betaling
 
 De betaling van de pensioenen, toeslagen, verhogingen en toelagen geschiedt in maandelijkse termijnen.
 
 #### Paragraaf 5. Overgangsbepalingen
 
-#### Artikel 18. Lopende rechten
+##### Artikel 18. Lopende rechten
 
 1. Dit besluit is niet van toepassing op de gewezen militair voor zolang recht op een vergelijkbaar pensioen kan worden ontleend aan de Algemene militaire pensioenwet of een vroegere militaire pensioenwet in de zin van die wet.
 
@@ -384,7 +410,7 @@ De betaling van de pensioenen, toeslagen, verhogingen en toelagen geschiedt in m
 
 - 3e. als berekeningsgrondslag voor het naar diensttijd te berekenen garantiepensioen de pensioengrondslag gehanteerd die terzake onder de werking van de in het eerste lid bedoelde wetten is vastgesteld.
 
-#### Artikel 19. Afwijkende regels
+##### Artikel 19. Afwijkende regels
 
 1. In dit artikel wordt verstaan onder peildatum: de dag voorafgaande aan de dag met ingang waarvan de Algemene militaire pensioenwet is ingetrokken.
 
@@ -410,7 +436,7 @@ De betaling van de pensioenen, toeslagen, verhogingen en toelagen geschiedt in m
 
 - 10e. De toeslag, bedoeld in [artikel 74, vijfde lid, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=74), wordt onder de daar aangegeven voorwaarden voortgezet.
 
-#### Artikel 20. Garantietoeslag
+##### Artikel 20. Garantietoeslag
 
 1. Indien een lopende aanspraak op pensioen ter zake van ziekten of gebreken krachtens een vroegere regeling is omgezet naar een vergelijkbare aanspraak ingevolge dit besluit en die aanspraak een lager bruto totaalbedrag oplevert dan dat waarop voor die omzetting recht bestond, heeft de belanghebbende recht op een toeslag ten bedrage van het verschil. De betreffende toeslag wordt uitgedrukt in een percentage van het na omzetting gevonden totale pensioenbedrag. Dit verhogingspercentage wordt op het pensioen ingevolge dit besluit toegepast zolang de aanspraak daarop ononderbroken voortduurt.
 
@@ -418,27 +444,27 @@ De betaling van de pensioenen, toeslagen, verhogingen en toelagen geschiedt in m
 
 #### Paragraaf 6. Andere voorzieningen in verband met arbeidsongeschiktheid of invaliditeit
 
-#### Artikel 21. Voorzieningen en verstrekkingen
+##### Artikel 21. Voorzieningen en verstrekkingen
 
 In aanvulling op de bij of krachtens de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565), de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) gestelde regels, kan Onze Minister ten behoeve van de beroepsmilitair, de dienstplichtige, de reservist en de militair met een recht of uitzicht op pensioen krachtens dit besluit, die lijdt aan een ziekte of gebrek waarvoor in de zin van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), verband met de uitoefening van de militaire dienst is aangenomen, nadere en zonodig afwijkende regels stellen op grond waarvan genoemde militairen dan wel gewezen militairen in aanmerking kunnen worden gebracht voor, naar het oordeel van Onze Minister, noodzakelijke voorzieningen tot behoud of herstel van de arbeidsgeschiktheid of die de arbeidsgeschiktheid bevorderen, voorzieningen ter verbetering van de levensomstandigheden en geneeskundige verstrekkingen. De door Onze Minister krachtens dit artikel te stellen regels mogen niet afwijken ten nadele van de belanghebbenden.
 
 #### Paragraaf 7. Slotbepalingen
 
-#### Artikel 22. Bijzondere gevallen
+##### Artikel 22. Bijzondere gevallen
 
 Onze Minister is bevoegd om in bijzondere gevallen, waarin de toepassing van dit besluit tot een naar zijn oordeel onredelijke uitkomst leidt, ten gunste van de belanghebbende een beslissing te nemen die met de strekking van dit besluit overeenkomt.
 
-#### Artikel 23. Inwerkingtreding
+##### Artikel 23. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 24. Citeertitel
+##### Artikel 24. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 8a. Volledige schadevergoeding
+##### Artikel 8a. Volledige schadevergoeding
 
 1. De beroepsmilitair die op of na 1 juli 2007 is ontslagen en bij wie een bepaalde mate van invaliditeit met dienstverband is vastgesteld na het bereiken van een medische eindtoestand, heeft recht op een volledige vergoeding van de schade die hij ten gevolge daarvan lijdt. In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), is hiervoor niet een mate van invaliditeit van ten minste 10% vereist.
 
@@ -452,7 +478,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 3. Aanspraken voor de dienstplichtige en reservist
 
-#### Artikel 11a. Volledige schadevergoeding
+##### Artikel 11a. Volledige schadevergoeding
 
 1. De reservist die op of na 1 juli 2007 is ontslagen of de dienstplichtige wiens dienstplicht op of na 1 juli 2007 is geëindigd en bij wie een bepaalde mate van invaliditeit met dienstverband is vastgesteld na het bereiken van een medische eindtoestand, heeft recht op een volledige vergoeding van de schade die hij ten gevolge daarvan lijdt. In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), is hiervoor niet een mate van invaliditeit van ten minste 10% vereist.
 
@@ -472,7 +498,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 21a. Bijzondere uitkering
+##### Artikel 21a. Bijzondere uitkering
 
 1. De gewezen militair die voor 1 juli 2007 is ontslagen en bij wie als gevolg van inzet tijdens oorlogsomstandigheden of een crisisbeheersingsoperatie op een daartoe voor 1 juni 2012 gedane eerste aanvraag, invaliditeit met dienstverband is vastgesteld, heeft aanspraak op een eenmalige bijzondere uitkering.
 

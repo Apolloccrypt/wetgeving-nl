@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkeringen lokale en regionale MIRT-projecten en MIRT-projectpakketten"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 10 maart 2022, nr. IENW/BSK-2022/44209, houdende vaststelling van regels voor het verstrekken van specifieke uitkeringen ten behoeve van lokale en regionale MIRT-projecten en MIRT-projectpakketten (Regeling specifieke uitkeringen lokale en regionale MIRT-projecten en MIRT-projectpakketten)"
 identifier: "BWBR0046418"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-04-01
-laatste_update: 2022-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046418"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-04-01"
+last_updated: "2022-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046418"
+soort: "ministeriele-regeling"
+stam_id: "16296323"
+version_id: "28474452"
+internal_id: "C40175761"
+label_id: "16222084"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046418/2022-04-01/0"
+intitule_bron: "Stcrt.2022-6620"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-03-10"
+intitule_published: "2022-03-11"
+intitule_in_force: "2022-03-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-6620"
+original_signed_date: "2022-03-10"
+original_published_date: "2022-03-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-6620"
+entry_into_force_date: "2022-04-01"
+jci_1_3: "jci1.3:c:BWBR0046418&z=2022-04-01&g=2022-04-01"
+jci_1_0: "1.0:c:BWBR0046418&g=2022-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkeringen lokale en regionale MIRT-projecten en MIRT-projectpakketten"
+signed_date: "2022-03-10"
+entry_into_force: "2022-04-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 10 maart 2022, nr. IENW/BSK-2022/44209, houdende vaststelling van regels voor het verstrekken van specifieke uitkeringen ten behoeve van lokale en regionale MIRT-projecten en MIRT-projectpakketten (Regeling specifieke uitkeringen lokale en regionale MIRT-projecten en MIRT-projectpakketten)
 
 Gelet op [artikel 17, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), juncto [3, eerste lid, onderdelen a en f](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), en [artikel 5, onderdelen a tot en met f en h, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 - **infrastructuur:** onroerende zaken ten behoeve van verkeer of vervoer van personen of goederen met daarbij behorende voorzieningen ten behoeve van de verkeersveiligheid, verkeersmanagement en bescherming van het milieu;
 
@@ -38,7 +64,7 @@ BESLUIT:
 
 - **verkenningsfase:** fase volgend op het opnemen van een project of projectpakket in het MIRT, waarin mogelijke ontwerpen van het project of projectpakket worden afgewogen om te komen tot een voorkeursalternatief.
 
-#### Artikel 2. Activiteiten waarvoor een specifieke uitkering kan worden verstrekt
+##### Artikel 2. Activiteiten waarvoor een specifieke uitkering kan worden verstrekt
 
 De minister kan op aanvraag een specifieke uitkering verstrekken voor de overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046418&artikel=7&z=2022-04-01&g=2022-04-01) geraamde, op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046418&artikel=6&z=2022-04-01&g=2022-04-01) voor een specifieke uitkering in aanmerking komende kosten van een project of projectpakket dat zich bevindt in de verkenningsfase, de planuitwerkingsfase of de realisatiefase, indien:
 
@@ -50,11 +76,11 @@ De minister kan op aanvraag een specifieke uitkering verstrekken voor de overeen
 
 - d. het project of projectpakket is opgenomen in het MIRT als zich bevindend in de verkenningsfase, de planuitwerkingsfase of de realisatiefase.
 
-#### Artikel 3. Aanvrager
+##### Artikel 3. Aanvrager
 
 Een specifieke uitkering kan worden aangevraagd door een gemeente, die niet is gelegen in het gebied van de Vervoerregio Amsterdam of de Metropoolregio Rotterdam Den Haag, een provincie, de Vervoerregio Amsterdam of de Metropoolregio Rotterdam Den Haag.
 
-#### Artikel 4. Uitkeringsplafond en wijze van verdeling
+##### Artikel 4. Uitkeringsplafond en wijze van verdeling
 
 1. Het uitkeringsplafond voor specifieke uitkeringen in een begrotingsjaar wordt vastgesteld door middel van de wet tot vaststelling van de begrotingsstaat van het Mobiliteitsfonds van dat begrotingsjaar.
 
@@ -62,11 +88,11 @@ Een specifieke uitkering kan worden aangevraagd door een gemeente, die niet is g
 
 3. Indien de verlening van een specifieke uitkering is geweigerd op grond van [artikel 4:25, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25), wordt in het eerstvolgende begrotingsjaar zonder hernieuwde indiening van de aanvraag opnieuw een besluit over de aanvraag genomen.
 
-#### Artikel 5. Begrotingsvoorbehoud
+##### Artikel 5. Begrotingsvoorbehoud
 
 Specifieke uitkeringen die worden verleend ten laste van een begroting die nog niet is vastgesteld, worden verleend onder de voorwaarde, bedoeld in [artikel 4:34 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
-#### Artikel 6. Kosten die in aanmerking komen voor een specifieke uitkering
+##### Artikel 6. Kosten die in aanmerking komen voor een specifieke uitkering
 
 1. In de verkenningsfase van een project of projectpakket komen in aanmerking voor een specifieke uitkering de rechtstreeks aan deze fase toe te rekenen kosten van:
 
@@ -120,7 +146,7 @@ Specifieke uitkeringen die worden verleend ten laste van een begroting die nog n
 
 - f. kosten die de ontvanger op andere wijze vergoed kan krijgen.
 
-#### Artikel 7. Kostenraming
+##### Artikel 7. Kostenraming
 
 1. De raming van de kosten, bedoeld in de [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046418&artikel=6&z=2022-04-01&g=2022-04-01), vindt plaats conform Standaardsystematiek voor Kostenramingen 2018, op basis van de meest waarschijnlijke waarde van een deterministische of de gemiddelde waarde van een probabilistische raming.
 
@@ -128,7 +154,7 @@ Specifieke uitkeringen die worden verleend ten laste van een begroting die nog n
 
 3. De raming van de kosten, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046418&artikel=6&z=2022-04-01&g=2022-04-01), vindt plaats conform de Standaardsystematiek voor Kostenramingen 2018 op basis van de gemiddelde waarde van een probabilistische raming.
 
-#### Artikel 8. Hoogte specifieke uitkering
+##### Artikel 8. Hoogte specifieke uitkering
 
 1. Een specifieke uitkering voor de verkenningsfase van een project of projectpakket bedraagt vijftig procent van de overeenkomstig [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046418&artikel=7&z=2022-04-01&g=2022-04-01), geraamde, op grond van [artikel 6, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046418&artikel=6&z=2022-04-01&g=2022-04-01), in aanmerking komende kosten.
 
@@ -146,7 +172,7 @@ Specifieke uitkeringen die worden verleend ten laste van een begroting die nog n
 
 5. In afwijking van het tweede lid, onderdelen b of c, kan de minister voor het bepalen van de hoogte van de uitkering, bedoeld in die onderdelen besluiten een lager drempelbedrag te hanteren indien de aanvrager aantoont dat er sprake is van uitzonderlijke omstandigheden die een onredelijke situatie voor hem tot gevolg hebben.
 
-#### Artikel 9. Aanvraag verlening specifieke uitkering
+##### Artikel 9. Aanvraag verlening specifieke uitkering
 
 1. Een aanvraag van een specifieke uitkering heeft betrekking op een van de fasen van een project of projectpakket, genoemd in het tweede tot en met vierde lid.
 
@@ -230,7 +256,7 @@ Specifieke uitkeringen die worden verleend ten laste van een begroting die nog n
 
 - d. het bedrag waarvoor de specifieke uitkering wordt aangevraagd en een voorstel voor het kasritme op basis van de beschreven mijlpalen.
 
-#### Artikel 10. Verlening specifieke uitkering
+##### Artikel 10. Verlening specifieke uitkering
 
 1. De minister beslist binnen zes maanden na ontvangst over de aanvraag van een specifieke uitkering.
 
@@ -248,7 +274,7 @@ Specifieke uitkeringen die worden verleend ten laste van een begroting die nog n
 
 4. De minister kan in het besluit tot verlening bepalen dat het bedrag van de specifieke uitkering bij de vaststelling of tussentijds wordt geïndexeerd volgens de Index Bruto Overheidsinvesteringen, zoals geraamd in het Centraal Economisch Plan van het Centraal Planbureau.
 
-#### Artikel 11. Voorschotverlening
+##### Artikel 11. Voorschotverlening
 
 1. De minister verleent op aanvraag van de ontvanger een voorschot, indien een mijlpaal in de voortgang van een project of projectpakket is bereikt en het besluit tot verlening, bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046418&artikel=10&z=2022-04-01&g=2022-04-01), in voorschotverlening na het bereiken van een mijlpaal voorziet.
 
@@ -256,7 +282,7 @@ Specifieke uitkeringen die worden verleend ten laste van een begroting die nog n
 
 3. Een aanvraag van een voorschot vermeldt het gevraagde bedrag en gaat vergezeld van een voortgangsrapportage, waaruit blijkt dat de mijlpaal is bereikt.
 
-#### Artikel 12. Verplichtingen van de ontvanger
+##### Artikel 12. Verplichtingen van de ontvanger
 
 1. De minister kan bij het besluit tot verlening, bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046418&artikel=10&z=2022-04-01&g=2022-04-01), de verplichting opleggen om binnen twaalf maanden na de dagtekening van het besluit te beginnen met de uitvoering van de activiteiten waarvoor de specifieke uitkering is verleend.
 
@@ -274,7 +300,7 @@ Specifieke uitkeringen die worden verleend ten laste van een begroting die nog n
 
 8. De minister kan bij het besluit tot verlening, bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046418&artikel=10&z=2022-04-01&g=2022-04-01), ook andere verplichtingen opleggen die strekken tot verwezenlijking van het doel van de specifieke uitkering.
 
-#### Artikel 13. Verantwoording
+##### Artikel 13. Verantwoording
 
 Op de verantwoording over de besteding van een specifieke uitkering:
 
@@ -284,7 +310,7 @@ Op de verantwoording over de besteding van een specifieke uitkering:
 
 - c. zijn de [artikelen 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) en [17b van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17b) van overeenkomstige toepassing, indien een waterschap middelen ontvangt die afkomstig zijn uit de specifieke uitkering.
 
-#### Artikel 14. Vaststelling specifieke uitkering
+##### Artikel 14. Vaststelling specifieke uitkering
 
 1. De minister stelt een specifieke uitkering vast binnen zes maanden nadat de melding, bedoeld in [artikel 12, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046418&artikel=12&z=2022-04-01&g=2022-04-01), en de eindverantwoording overeenkomstig [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) hebben plaatsgevonden.
 
@@ -298,15 +324,15 @@ Op de verantwoording over de besteding van een specifieke uitkering:
 
 - d. wanneer de betaling uiterlijk plaatsvindt.
 
-#### Artikel 15. Hardheidsclausule
+##### Artikel 15. Hardheidsclausule
 
 De minister kan bij het vaststellen van de uitkering afwijken van [artikel 8, eerste lid, of tweede lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0046418&artikel=8&z=2022-04-01&g=2022-04-01), voor zover toepassing gelet op doel of strekking van de bepaling, voor de ontvanger van de uitkering zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 april 2022. Indien de Staatscourant waarin deze regeling wordt gepubliceerd wordt uitgegeven na 31 maart 2022, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkeringen lokale en regionale MIRT-projecten en MIRT-projectpakketten.
 

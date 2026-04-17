@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Activiteitenbesluit milieubeheer, enz. (regels inzake bodemenergiesystemen en enkele technische verbeteringen)"
+title: "Besluit van 25 maart 2013 tot wijziging van een aantal algemene maatregelen van bestuur in verband met regels inzake bodemenergiesystemen en enkele technische verbeteringen"
 identifier: "BWBR0033099"
-categorie: "Milieu"
-publicatiedatum: 2013-07-01
-laatste_update: 2013-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033099"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-07-01"
+last_updated: "2013-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033099"
+soort: "AMvB"
+stam_id: "12166313"
+version_id: "20315162"
+internal_id: "C28579111"
+label_id: "12137874"
+dtd_version: "2.0"
+original_entry_into_force: "2013-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033099/2013-07-01/0"
+intitule_bron: "Stb.2013-112"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-03-25"
+intitule_published: "2013-03-29"
+intitule_in_force: "2013-03-29"
+intitule_status: "goed"
+original_publication: "Stb.2013-112"
+original_signed_date: "2013-03-25"
+original_published_date: "2013-03-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2013-112"
+entry_into_force_date: "2013-07-01"
+jci_1_3: "jci1.3:c:BWBR0033099&z=2013-07-01&g=2013-07-01"
+jci_1_0: "1.0:c:BWBR0033099&g=2013-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Activiteitenbesluit milieubeheer, enz. (regels inzake bodemenergiesystemen en enkele technische verbeteringen)"
+signed_date: "2013-03-25"
+entry_into_force: "2013-07-01"
 ---
-
 # Besluit van 25 maart 2013 tot wijziging van een aantal algemene maatregelen van bestuur in verband met regels inzake bodemenergiesystemen en enkele technische verbeteringen
 
 Op de voordracht van Onze Minister van Infrastructuur en Milieu, van 9 juli 2012, nr. IenM/BSK-2012/132287, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -20,35 +46,35 @@ Gezien het nader rapport van Onze Minister van Infrastructuur en Milieu van 22 m
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Activiteitenbesluit milieubeheer.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit bodemkwaliteit.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit hernieuwbare energie vervoer.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit lozen buiten inrichtingen.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit lozing afvalwater huishoudens.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit omgevingsrecht.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Waterbesluit.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Onze Minister zendt voor 1 juli 2016 aan de Staten-Generaal een verslag over de werking van de in dit besluit opgenomen regels met betrekking tot bodemenergiesystemen in de praktijk.
 
@@ -78,7 +104,7 @@ Wijzigt het Waterbesluit.
 
 - l. het gebruik van de bevoegdheid op een aanvraag om een watervergunning te besluiten volgens de procedure van [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4).
 
-#### Artikel IX
+##### Artikel IX
 
 1. Een omgevingsvergunning op grond van [artikel 2.1, eerste lid, aanhef en onderdeel e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) die van kracht en onherroepelijk was onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel VI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0033099&artikel=VI&z=2013-07-01&g=2013-07-01), wordt, voor zover die omgevingsvergunning een activiteit betreft die in artikel VI, onderdeel B, is aangewezen, gelijkgesteld met een omgevingsvergunning voor die activiteit op grond van artikel 2.1, eerste lid, aanhef en onderdeel i, van die wet.
 
@@ -90,7 +116,7 @@ Wijzigt het Waterbesluit.
 
 3. In gevallen als bedoeld in het tweede lid wordt een omgevingsvergunning op grond van [artikel 2.1, eerste lid, aanhef en onderdeel e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) gelijkgesteld met een omgevingsvergunning voor de betrokken activiteit op grond van artikel 2.1, eerste lid, aanhef en onderdeel i, van die wet op het tijdstip waarop de omgevingsvergunning onherroepelijk is geworden. De voorschriften die aan die omgevingsvergunning zijn verbonden, worden overeenkomstig [artikel 6.1, eerste of vierde lid, van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=6.1) aangemerkt als maatwerkvoorschriften.
 
-#### Artikel X
+##### Artikel X
 
 Dit besluit treedt in werking met ingang van 1 juli 2013.
 

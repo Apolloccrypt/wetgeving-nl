@@ -1,20 +1,46 @@
 ---
-title: "Regeling provinciale gebiedsgerichte beëindiging veehouderijlocaties"
+title: "Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 22 november 2024, nr. WJZ/89410470, houdende specifieke uitkeringen aan provincies ten behoeve van de beëindiging van veehouderijlocaties ter ondersteuning van de gebiedsgerichte aanpak voor natuur, stikstof, water en klimaat (Regeling provinciale gebiedsgerichte beëindiging veehouderijlocaties)"
 identifier: "BWBR0050465"
-categorie: "Overig"
-publicatiedatum: 2024-11-27
-laatste_update: 2024-11-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050465"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-11-27"
+last_updated: "2024-11-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050465"
+soort: "ministeriele-regeling"
+stam_id: "17287313"
+version_id: "30445942"
+internal_id: "C43657141"
+label_id: "17191634"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050465/2024-11-27/0"
+intitule_bron: "Stcrt.2024-36641"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-22"
+intitule_published: "2024-11-26"
+intitule_in_force: "2024-11-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-36641"
+original_signed_date: "2024-11-22"
+original_published_date: "2024-11-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-36641"
+entry_into_force_date: "2024-11-27"
+jci_1_3: "jci1.3:c:BWBR0050465&z=2024-11-27&g=2024-11-27"
+jci_1_0: "1.0:c:BWBR0050465&g=2024-11-27"
+citeertitel_status: "officieel"
+short_title: "Regeling provinciale gebiedsgerichte beëindiging veehouderijlocaties"
+signed_date: "2024-11-22"
+entry_into_force: "2024-11-27"
 ---
-
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 22 november 2024, nr. WJZ/89410470, houdende specifieke uitkeringen aan provincies ten behoeve van de beëindiging van veehouderijlocaties ter ondersteuning van de gebiedsgerichte aanpak voor natuur, stikstof, water en klimaat (Regeling provinciale gebiedsgerichte beëindiging veehouderijlocaties)
 
 Gelet op [artikel 3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -78,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **zandgrond:** zandgrond als bedoeld in [artikel 1, eerste lid, onderdeel o, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=1).
 
-#### Artikel 2. Bepaling stikstofemissie
+##### Artikel 2. Bepaling stikstofemissie
 
 1. De stikstofemissie wordt per diercategorie bepaald op basis van de op grond van [artikel 4.6, eerste en tweede lid, van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=4.6) berekende emissiefactor die van toepassing is op de datum waarop de aanvraag om subsidie op grond van een provinciaal subsidie-instrument wordt ingediend, vermenigvuldigd met het gemiddeld aantal landbouwhuisdieren die behoren tot de betreffende diercategorie, die twee kalenderjaar voorafgaand aan het kalenderjaar waarin de aanvraag om subsidie op grond van een provinciaal subsidie-instrument bij de provincie wordt ingediend, werden gehouden.
 
@@ -98,7 +124,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien de veehouder aannemelijk kan maken dat de situatie in het, in het derde lid, onderdeel a, genoemde kalenderjaar, niet representatief is voor het jaarlijks gemiddeld gehouden aantal landbouwhuisdieren, kan worden uitgegaan van het aantal landbouwhuisdieren dat gemiddeld is gehouden in een kalenderjaar of twee kalenderjaren voorafgaand aan het in het derde lid, onderdeel a, genoemde kalenderjaar.
 
-#### Artikel 3. Geografische gebiedsafbakening
+##### Artikel 3. Geografische gebiedsafbakening
 
 Deze regeling heeft betrekking op gebiedspecifieke maatregelen van provincies die worden genomen ter realisatie van doelen voor natuur, water en klimaat en die betrekking hebben op:
 
@@ -110,7 +136,7 @@ Deze regeling heeft betrekking op gebiedspecifieke maatregelen van provincies di
 
 - d. zandgronden.
 
-#### Artikel 4. Specifieke uitkering
+##### Artikel 4. Specifieke uitkering
 
 1. De minister verstrekt op aanvraag aan een provincie een specifieke uitkering voor een provinciaal subsidie-instrument gericht op het volledig of gedeeltelijk doen beëindigen van veehouderijactiviteiten op een veehouderijlocatie met het oog op:
 
@@ -126,7 +152,7 @@ Deze regeling heeft betrekking op gebiedspecifieke maatregelen van provincies di
 
 - b. kosten waarvoor al uit anderen hoofde een uitkering of subsidie is of wordt verstrekt.
 
-#### Artikel 5. Aanwending specifieke uitkering
+##### Artikel 5. Aanwending specifieke uitkering
 
 1. De specifieke uitkering wordt aangewend voor een provinciaal subsidie-instrument op grond waarvan een provincie een subsidie kan verstrekken aan een veehouderijonderneming voor de onomkeerbare volledige of gedeeltelijke sluiting van een veehouderijlocatie, welke subsidie omvat:
 
@@ -142,7 +168,7 @@ Deze regeling heeft betrekking op gebiedspecifieke maatregelen van provincies di
 
 2. De provincie wendt, indien voor de beëindiging van veehouderijactiviteiten met aanwending van de specifieke uitkering omzetbelasting aan de provincie in rekening wordt gebracht, de specifieke uitkering niet aan voor de financiering daarvan indien de provincie voor compensatie hiervan in aanmerking komt op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
 
-#### Artikel 6. Vereisten volledige sluiting veehouderijlocatie
+##### Artikel 6. Vereisten volledige sluiting veehouderijlocatie
 
 1. Er is sprake van een onomkeerbare volledige sluiting van een veehouderijlocatie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050465&artikel=5&z=2024-11-27&g=2024-11-27), indien:
 
@@ -186,7 +212,7 @@ Deze regeling heeft betrekking op gebiedspecifieke maatregelen van provincies di
 
 2. De provincie kan ontheffing verlenen van het vereiste, bedoeld in het eerste lid, onderdeel i, voor zover de veehouder productiecapaciteit langdurig gaat gebruiken voor andere activiteiten dan voor een veehouderijonderneming, mits het bevoegd gezag op grond van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), op een door de provincie te bepalen uiterste datum, nadat de overeenkomst, bedoeld in het eerste lid, onderdeel h, is gesloten, met dat gebruik heeft ingestemd.
 
-#### Artikel 7. Vereisten gedeeltelijke sluiting veehouderijlocatie
+##### Artikel 7. Vereisten gedeeltelijke sluiting veehouderijlocatie
 
 1. Er is sprake van een onomkeerbare gedeeltelijke sluiting van een veehouderijlocatie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050465&artikel=5&z=2024-11-27&g=2024-11-27), indien:
 
@@ -238,7 +264,7 @@ Deze regeling heeft betrekking op gebiedspecifieke maatregelen van provincies di
 
 - b. voor andere activiteiten dan voor een veehouderijonderneming, mits het bevoegd gezag op grond van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), op een door de provincie te bepalen uiterste datum, nadat de overeenkomst, bedoeld in het tweede lid, onderdeel e, is gesloten, met dat gebruik heeft ingestemd.
 
-#### Artikel 8. Relevante veehouderijlocaties
+##### Artikel 8. Relevante veehouderijlocaties
 
 1. De specifieke uitkering kan door de provincie worden aangewend indien in het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050465&artikel=4&z=2024-11-27&g=2024-11-27), bedoelde provinciale subsidie-instrument de volgende voorwaarden zijn verbonden aan een veehouderijlocatie:
 
@@ -254,11 +280,11 @@ Deze regeling heeft betrekking op gebiedspecifieke maatregelen van provincies di
 
 - b. een veehouder wiens veehouderijonderneming niet voldoet aan de in artikel 2, eerste lid, van bijlage I bij [verordening 2022/2472](32472R2022) vastgestelde criteria komt niet in aanmerking voor steun.
 
-#### Artikel 9. Provinciale gebiedsafbakening
+##### Artikel 9. Provinciale gebiedsafbakening
 
 De provincie kan de geografische gebiedsafbakening, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050465&artikel=3&z=2024-11-27&g=2024-11-27), voor de aanwending van de specifieke uitkering nader geografisch afbakenen, indien deze provinciale gebiedsafbakening nodig is om uitvoering te kunnen geven aan gebiedspecifieke maatregelen voor het realiseren van doelen voor natuur, water en klimaat.
 
-#### Artikel 10. Bijdrage vervallen productierecht
+##### Artikel 10. Bijdrage vervallen productierecht
 
 1. De in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050465&artikel=5&z=2024-11-27&g=2024-11-27), bedoelde bijdrage bedraagt 100% van de waarde van het geheel of gedeeltelijk vervallen productierecht, voor zover dat vervallen productierecht niet meer bedraagt dan het productierecht dat vereist is voor het aantal dieren, dat gemiddeld in het in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050465&artikel=2&z=2024-11-27&g=2024-11-27), genoemde referentiejaar op de veehouderijlocatie is gehouden.
 
@@ -270,7 +296,7 @@ De provincie kan de geografische gebiedsafbakening, bedoeld in [artikel 3, eerst
 
 3. Bij het taxeren van de in het tweede lid, onderdeel a, genoemde marktwaarde wordt uitgegaan van de marktwaarde op de datum van het indienen van de aanvraag om subsidie op grond van een provinciaal subsidie-instrument.
 
-#### Artikel 11. Bijdrage waardeverlies productiecapaciteit
+##### Artikel 11. Bijdrage waardeverlies productiecapaciteit
 
 1. De in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050465&artikel=5&z=2024-11-27&g=2024-11-27), bedoelde bijdrage bedraagt 100% van het waardeverlies van de productiecapaciteit.
 
@@ -278,17 +304,17 @@ De provincie kan de geografische gebiedsafbakening, bedoeld in [artikel 3, eerst
 
 3. Bij het taxeren van de in het tweede lid genoemde marktwaarde wordt uitgegaan van de marktwaarde op de datum van het indienen van de aanvraag om subsidie op grond van een provinciaal subsidie-instrument.
 
-#### Artikel 12. Bijdrage kosten volledig of gedeeltelijk afbreken en verwijderen productiecapaciteit
+##### Artikel 12. Bijdrage kosten volledig of gedeeltelijk afbreken en verwijderen productiecapaciteit
 
 1. De in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050465&artikel=5&z=2024-11-27&g=2024-11-27), bedoelde bijdrage bedraagt 100% van de kosten die zijn gemaakt voor het volledig of gedeeltelijk afbreken en verwijderen van de op de veehouderijlocatie aanwezige productiecapaciteit, mits de opdrachtverlening voor die werkzaamheden heeft plaatsgevonden op marktconforme wijze.
 
 2. Onvoorwaardelijk ontvangen gelden voor bij de sloop vrijgekomen materialen die worden vervreemd, worden verrekend met de subsidie die wordt ontvangen op grond van [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050465&artikel=5&z=2024-11-27&g=2024-11-27).
 
-#### Artikel 13. Bijdrage kosten voor leges voor vergunningen en planologische procedures
+##### Artikel 13. Bijdrage kosten voor leges voor vergunningen en planologische procedures
 
 De in [artikel 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050465&artikel=5&z=2024-11-27&g=2024-11-27), bedoelde bijdrage bedraagt 100% van de werkelijke kosten voor leges voor vergunningen en planologische procedures, die verbonden zijn met de volledige of gedeeltelijke sluiting van een veehouderijlocatie op grond van een provinciaal subsidie-instrument als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050465&artikel=4&z=2024-11-27&g=2024-11-27).
 
-#### Artikel 14. Bijdrage kosten adviesdiensten
+##### Artikel 14. Bijdrage kosten adviesdiensten
 
 1. De in [artikel 5, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0050465&artikel=5&z=2024-11-27&g=2024-11-27), bedoelde bijdrage bedraagt 100% van de subsidiabele kosten, tot een maximum van € 5.000 per veehouderijonderneming die een aanvraag indient voor subsidie op grond van een provinciaal subsidie-instrument.
 
@@ -310,7 +336,7 @@ De in [artikel 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:B
 
 - d. wordt uitgevoerd door een adviseur die is opgenomen in het bedrijfsadviseringssyteem, bedoeld in artikel 15, eerste lid, van [Verordening (EU) 2021/2115](32021R2115) van het Europees Parlement en de Raad van 2 december 2021 tot vaststelling van voorschriften inzake steun voor de strategische plannen die de lidstaten in het kader van het gemeenschappelijk landbouwbeleid opstellen (strategische GLB-plannen) en die uit het Europees Landbouwgarantiefonds (ELGF) en het Europees Landbouwfonds voor plattelandsontwikkeling (Elfpo) worden gefinancierd, en tot intrekking van [Verordeningen (EU) nr. 1305/2013](32013R1305) en [Verordening (EU) nr. 1307/2013](32013R1307) (PbEU 2021, L435).
 
-#### Artikel 15. Afwijzingsgronden
+##### Artikel 15. Afwijzingsgronden
 
 De minister beslist geheel of gedeeltelijk afwijzend op een aanvraag indien gegronde redenen bestaan om aan te nemen dat:
 
@@ -318,7 +344,7 @@ De minister beslist geheel of gedeeltelijk afwijzend op een aanvraag indien gegr
 
 - b. de provincie niet zal voldoen aan de in deze regeling opgenomen voorwaarden.
 
-#### Artikel 16. Verplichtingen
+##### Artikel 16. Verplichtingen
 
 1. In het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050465&artikel=4&z=2024-11-27&g=2024-11-27), bedoelde provinciale subsidie-instrument wordt het volgende opgenomen, gelet op het landbouwsteunkader:
 
@@ -352,7 +378,7 @@ De minister beslist geheel of gedeeltelijk afwijzend op een aanvraag indien gegr
 
 2. Alleen een veehouderijonderneming die voldoet aan de normen van de Europese Unie, komt voor subsidie op grond van het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050465&artikel=4&z=2024-11-27&g=2024-11-27), bedoelde provinciale subsidie-instrument in aanmerking. In aanvulling op het eerste lid, en in overeenstemming met randnummer 426 van het landbouwsteunkader, wordt in het provinciale subsidie-instrument opgenomen dat een aanvraag om subsidie wordt afgewezen indien de subsidieaanvrager niet aan de normen van de Europese Unie voldoet en zijn activiteiten als veehouderijonderneming moet beëindigen.
 
-#### Artikel 17. Overige verplichtingen
+##### Artikel 17. Overige verplichtingen
 
 1. De specifieke uitkering wordt zodanig aangewend dat de subsidie, op basis van het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050465&artikel=4&z=2024-11-27&g=2024-11-27) bedoelde subsidie-instrument, uiterlijk op 31 december 2027 wordt verleend.
 
@@ -374,11 +400,11 @@ De minister beslist geheel of gedeeltelijk afwijzend op een aanvraag indien gegr
 
 4. De provincie draagt er zorg voor dat de gegevens, bedoeld in het derde lid, ten minste tien jaar openbaar beschikbaar blijven.
 
-#### Artikel 18. Cumulatie
+##### Artikel 18. Cumulatie
 
 In het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050465&artikel=4&z=2024-11-27&g=2024-11-27), bedoelde provinciale subsidie-instrument wordt opgenomen dat, indien reeds door een bestuursorgaan of de Europese Commissie subsidie is verstrekt voor de subsidiabele kosten, of een deel daarvan, slechts een zodanig bedrag aan subsidie wordt verstrekt dat het totale bedrag aan subsidies niet meer bedraagt dan het bedrag dat krachtens deze regeling kan worden verstrekt noch meer bedraagt dan toegestaan volgens de toepasselijke Europese steunkaders.
 
-#### Artikel 19. Plafond, verdeling en aanvragen
+##### Artikel 19. Plafond, verdeling en aanvragen
 
 1. Het plafond voor de verstrekking van specifieke uitkeringen op grond van deze
 
@@ -398,7 +424,7 @@ regeling bedraagt in totaal € 140.000.000, exclusief de omzetbelasting waarvoo
 
 6. Voor het gedeelte van de uitkering uit sub-plafond b wordt binnen achttien maanden na inwerkingtreding van de regeling de verdeelsleutel door de minister bepaald evenals de periode waarbinnen de aanvraag kan worden ingediend.
 
-#### Artikel 20. Verlening en voorschot
+##### Artikel 20. Verlening en voorschot
 
 1. De minister geeft binnen zes weken nadat een provincie een aanvraag als bedoeld in [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050465&artikel=19&z=2024-11-27&g=2024-11-27), heeft ingediend een beschikking tot verlening van de uitkering.
 
@@ -406,7 +432,7 @@ regeling bedraagt in totaal € 140.000.000, exclusief de omzetbelasting waarvoo
 
 3. De beschikking vermeldt het bedrag van de uitkering, met uitzondering van de omzetbelasting waarvoor de provincie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) voor compensatie in aanmerking komt.
 
-#### Artikel 21. Informatieverschaffing en evaluatie
+##### Artikel 21. Informatieverschaffing en evaluatie
 
 1. De provincie verschaft de minister ieder kalenderjaar op uiterlijk 15 maart en 15 september door middel van voortgangsrapportages informatie over de voortgang van de activiteiten waarvoor de specifieke uitkering is verstrekt, met inbegrip van de borging dat de volledige of gedeeltelijke beëindiging van veehouderijactiviteiten leidt tot een blijvende vermindering van de stikstofemissie vanaf de desbetreffende veehouderijlocatie.
 
@@ -416,7 +442,7 @@ regeling bedraagt in totaal € 140.000.000, exclusief de omzetbelasting waarvoo
 
 4. De in het tweede lid bedoelde verplichting geldt tot vijf jaar na de datum van de beschikking tot vaststelling van de uitkering.
 
-#### Artikel 22. Verantwoording, vaststelling en terugvordering
+##### Artikel 22. Verantwoording, vaststelling en terugvordering
 
 1. De provincie legt jaarlijks verantwoording af over de besteding van de uitkering op de wijze als bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -424,7 +450,7 @@ regeling bedraagt in totaal € 140.000.000, exclusief de omzetbelasting waarvoo
 
 3. Indien uit de verantwoordingsinformatie blijkt dat de specifieke uitkering niet in de in de beschikking tot verlening opgenomen periode volledig is besteed aan uitvoeringsactiviteiten waarvoor deze is verstrekt, of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan de ontvanger van de specifieke uitkering.
 
-#### Artikel 23. Gegevensverwerking
+##### Artikel 23. Gegevensverwerking
 
 1. In het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050465&artikel=4&z=2024-11-27&g=2024-11-27), bedoelde provinciale subsidie-instrument wordt een grondslag opgenomen voor het verstrekken aan de minister van gegevens die door een veehouderijonderneming aan de provincie zijn verstrekt in het kader van subsidieverstrekking op grond van het provinciale subsidie-instrument, voor zover nodig voor:
 
@@ -448,13 +474,13 @@ regeling bedraagt in totaal € 140.000.000, exclusief de omzetbelasting waarvoo
 
 - e. Gedelegeerde [verordening (EU) 2019/2035](32019R2035) van de Commissie van 28 juni 2019 tot aanvulling van [Verordening (EU) 2016/429](32016R0429) van het Europees Parlement en de Raad wat betreft regels voor inrichtingen waar landdieren worden gehouden en broederijen, alsmede voor de traceerbaarheid van bepaalde gehouden landdieren en broedeieren.
 
-#### Artikel 24. Inwerkingtreding en horizonbepaling
+##### Artikel 24. Inwerkingtreding en horizonbepaling
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt vijf jaren na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat zij van toepassing blijft op aanvragen die op grond van deze regeling zijn ingediend en op uitkeringen die op grond van deze regeling zijn verstrekt.
 
-#### Artikel 25. Citeertitel
+##### Artikel 25. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling provinciale gebiedsgerichte beëindiging veehouderijlocaties.
 

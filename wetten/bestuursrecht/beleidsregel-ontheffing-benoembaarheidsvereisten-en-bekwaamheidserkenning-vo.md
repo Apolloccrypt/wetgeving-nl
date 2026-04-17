@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel ontheffing benoembaarheidsvereisten en bekwaamheidserkenning vo"
+title: "Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 15 september 2016, nr. VO/876872, houdende de beoordeling van buitengewone bekwaamheden in bijzondere gevallen en bekwaamheden bij het ontbreken van een lerarenopleiding in het voortgezet onderwijs (Beleidsregel ontheffing benoembaarheidsvereisten en bekwaamheidserkenning vo)"
 identifier: "BWBR0038570"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038570"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038570"
+soort: "beleidsregel"
+stam_id: "13760183"
+version_id: "23591262"
+internal_id: "C33962351"
+label_id: "13726474"
+dtd_version: "2.0"
+original_entry_into_force: "2016-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038570/2022-08-01/0"
+intitule_bron: "Stcrt.2016-50173"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-09-15"
+intitule_published: "2016-09-30"
+intitule_in_force: "2016-09-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-50173"
+original_signed_date: "2016-09-15"
+original_published_date: "2016-09-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-50173"
+entry_into_force_date: "2016-10-01"
+jci_1_3: "jci1.3:c:BWBR0038570&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0038570&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel ontheffing benoembaarheidsvereisten en bekwaamheidserkenning vo"
+signed_date: "2016-09-15"
+entry_into_force: "2016-10-01"
 ---
-
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 15 september 2016, nr. VO/876872, houdende de beoordeling van buitengewone bekwaamheden in bijzondere gevallen en bekwaamheden bij het ontbreken van een lerarenopleiding in het voortgezet onderwijs (Beleidsregel ontheffing benoembaarheidsvereisten en bekwaamheidserkenning vo)
 
 Gelet op [artikel 33, tweede en zestiende lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=33) en [artikel 80, vijfde en achttiende lid, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=80);

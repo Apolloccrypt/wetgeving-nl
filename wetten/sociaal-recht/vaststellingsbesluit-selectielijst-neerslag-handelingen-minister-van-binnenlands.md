@@ -1,13 +1,37 @@
 ---
 title: "Vaststellingsbesluit selectielijst neerslag handelingen Minister van Binnenlandse Zaken en Koninkrijksrelaties beleidsterrein Brandweerzorg, rampenbestrijding en crisisbeheersing periode vanaf 1945"
 identifier: "BWBR0018066"
-categorie: "Sociaal recht"
-publicatiedatum: 2005-06-16
-laatste_update: 2005-06-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018066"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2005-06-16"
+last_updated: "2005-06-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018066"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "7091543"
+version_id: "11982922"
+internal_id: "C25315161"
+label_id: "7079504"
+original_entry_into_force: "2005-06-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018066/2005-06-16/0"
+intitule_bron: "Stcrt.2005-112"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-03-02"
+intitule_published: "2005-06-14"
+intitule_in_force: "2005-06-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-112"
+original_signed_date: "2005-03-02"
+original_published_date: "2005-06-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-112-p19-SC70213"
+entry_into_force_date: "2005-06-16"
+jci_1_3: "jci1.3:c:BWBR0018066&z=2005-06-16&g=2005-06-16"
+jci_1_0: "1.0:c:BWBR0018066&g=2005-06-16"
+citeertitel_status: "redactioneel"
+signed_date: "2005-03-02"
+entry_into_force: "2005-06-16"
 ---
-
 # Vaststellingsbesluit selectielijst neerslag handelingen Minister van Binnenlandse Zaken en Koninkrijksrelaties beleidsterrein Brandweerzorg, rampenbestrijding en crisisbeheersing periode vanaf 1945
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,15 +40,15 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 4 november 200
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de onder hem ressorterende actoren op het beleidsterrein Brandweerzorg, rampenbestrijding en crisisbeheersing over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 De ‘Lijst van te vernietigen archiefbescheiden van het Directoraat-Generaal Openbare Orde en Veiligheid van het Ministerie van Binnenlandse Zaken’ (vastgesteld bij beschikking van de Minister van Welzijn, Volksgezondheid en Cultuur en de Minister van Binnenlandse Zaken, nr. MMA/Ar 9187 d.d. 26 juli 1984 (gepubliceerd in de Staatscourant nr. 210 d.d. 26 oktober 1984)), hoofdstuk 2 (Brandweer) en hoofdstuk 3 (Organisatie Bescherming Bevolking) en de ‘Selectielijst voor de neerslag van de handelingen van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de onder hem ressorterende actoren op het beleidsterrein Brandweerzorg, rampenbestrijding en crisisbeheersing over de periode vanaf 1945’ (vastgesteld bij beschikking van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen en de Minister van Binnenlandse Zaken en Koninkrijksrelaties, nr. R&B/OSTA/99/846 d.d. 3 augustus 1999 (gepubliceerd in de Staatscourant nr. 216)), voor wat betreft de handelingen 1, 2, 3, 5, 6, 8, 13, 14, 15, 16, 18, 22, 23, 24, 44, 46, 81, 83, 103, 106, 108, 113, 120, 147, 157, 158, 159, 160, 169, 188, 195, 197, 232, 249, 252, 254, 277, 327, 345, 365, 380, 393, 413, 415, 425, 453, 459, 469, 471, 482, 488, 490, 551, 558, 559, 560, 561, 602, 612 en 621 worden ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

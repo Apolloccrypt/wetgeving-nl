@@ -1,13 +1,38 @@
 ---
 title: "Raamverdrag van de Verenigde Naties inzake klimaatverandering"
 identifier: "BWBV0001115"
-categorie: "Milieu"
-publicatiedatum: 2013-01-09
-laatste_update: 2002-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001115"
+country: "nl"
+rank: "verdrag"
+publication_date: "2013-01-09"
+last_updated: "2002-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001115"
+soort: "verdrag"
+stam_id: "10002336733"
+version_id: "10002346812"
+internal_id: "C10006976371"
+label_id: "10002326674"
+dtd_version: "2.0"
+original_entry_into_force: "1994-03-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001115/2013-01-09/0"
+intitule_bron: "Trb.1992-189"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-12-20"
+intitule_published: "1992-12-09"
+intitule_in_force: "1994-03-29"
+intitule_status: "goed"
+original_publication: "Trb.1992-189"
+original_signed_date: "1993-12-20"
+original_published_date: "1992-12-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-189"
+entry_into_force_date: "1994-03-21"
+jci_1_3: "jci1.3:c:BWBV0001115&z=2013-01-09&g=2013-01-09"
+jci_1_0: "1.0:c:BWBV0001115&g=2013-01-09"
+citeertitel_status: "redactioneel"
+signed_date: "1993-12-20"
+entry_into_force: "1994-03-21"
 ---
-
 # Raamverdrag van de Verenigde Naties inzake klimaatverandering
 
 De Partijen bij dit Verdrag,
@@ -58,7 +83,7 @@ Erkennende dat alle landen, met name ontwikkelingslanden, toegang moeten hebben 
 
 Vastbesloten het klimaatsysteem te beschermen ten behoeve van huidige en toekomstige generaties, zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1) [Red: De titels van de artikelen zijn slechts opgenomen voor het gemak van de lezer.]
 
@@ -82,11 +107,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - 9. „bron”: een proces of activiteit waarbij een broeikasgas, een aërosol of een voorloper van een broeikasgas vrijkomt in de atmosfeer.
 
-#### Artikel 2. Doelstelling
+##### Artikel 2. Doelstelling
 
 Het uiteindelijke doel van dit Verdrag en alle daarmee verband houdende rechtskracht hebbende akten die de Conferentie van Partijen aanneemt, is het bewerkstelligen, in overeenstemming met de desbetreffende bepalingen van het Verdrag, van een stabilisering van de concentraties van broeikasgassen in de atmosfeer op een niveau waarop gevaarlijke antropogene verstoring van het klimaatsysteem wordt voorkomen. Dit niveau dient te worden bereikt binnen een tijdsbestek dat toereikend is om ecosystemen in staat te stellen zich op natuurlijke wijze aan te passen aan klimaatverandering, te verzekeren dat de voedselproduktie niet in gevaar komt en de economische ontwikkeling op duurzame wijze te doen voortgaan.
 
-#### Artikel 3. Beginselen
+##### Artikel 3. Beginselen
 
 Bij de stappen ter verwezenlijking van de doelstelling van het Verdrag en ter uitvoering van de bepalingen daarvan, laten de Partijen zich, onder andere, leiden door het volgende:
 
@@ -100,7 +125,7 @@ Bij de stappen ter verwezenlijking van de doelstelling van het Verdrag en ter ui
 
 - 5. De Partijen dienen samen te werken ter bevordering van een ondersteunend en open internationaal economisch stelsel dat leidt tot een duurzame economische groei en ontwikkeling van alle Partijen, met name Partijen die ontwikkelingslanden zijn, hen aldus in staat stellend de aan klimaatverandering verbonden problemen beter tegen te gaan. Maatregelen ter bestrijding van klimaatverandering, waaronder eenzijdige maatregelen, mogen niet een middel van willekeurige of niet te verantwoorden discriminatie of een verkapte beperking van de internationale handel vormen.
 
-#### Artikel 4. Verplichtingen
+##### Artikel 4. Verplichtingen
 
 1. Alle Partijen, hun gezamenlijke, doch verschillende verantwoordelijkheden en hun specifieke nationale en regionale ontwikkelingsprioriteiten, doelstellingen en omstandigheden in aanmerking nemend,
 
@@ -180,7 +205,7 @@ Voorts kan de Conferentie van de Partijen maatregelen nemen, indien van toepassi
 
 10. De Partijen nemen in overeenstemming met artikel 10 bij de nakoming van de verplichtingen ingevolge het Verdrag de situatie van Partijen in aanmerking, met name van Partijen die ontwikkelingslanden zijn, met economieën die kwetsbaar zijn voor de nadelige gevolgen van de toepassing van maatregelen tegen klimaatverandering. Dit geldt met name voor Partijen met economieën die in hoge mate afhankelijk zijn van inkomsten uit de winning, verwerking en uitvoer en/of het verbruik van fossiele brandstoffen en aanverwante energieverslindende produkten en/of het gebruik van fossiele brandstoffen ten aanzien waarvan die Partijen ernstige moeilijkheden hebben om op alternatieven over te schakelen.
 
-#### Artikel 5. Onderzoek en systematische waarneming
+##### Artikel 5. Onderzoek en systematische waarneming
 
 Bij de nakoming van hun verplichtingen ingevolge artikel 4, eerste lid, letter g, dienen de Partijen:
 
@@ -190,7 +215,7 @@ Bij de nakoming van hun verplichtingen ingevolge artikel 4, eerste lid, letter g
 
 - c. rekening te houden met de bijzondere belangen en behoeften van ontwikkelingslanden en samen te werken bij de verbetering van de eigen capaciteiten en mogelijkheden van die landen om deel te nemen aan de in de letters a en b bedoelde inspanningen.
 
-#### Artikel 6. Voorlichting, vorming en bewustmaking
+##### Artikel 6. Voorlichting, vorming en bewustmaking
 
 Bij de nakoming van hun verplichtingen ingevolge artikel 4, eerste lid, letter i, dienen de Partijen:
 
@@ -210,7 +235,7 @@ Bij de nakoming van hun verplichtingen ingevolge artikel 4, eerste lid, letter i
 
 - ii. de ontwikkeling en uitvoering van voorlichtings- en vormingsprogramma's, waaronder de versterking van nationale instellingen en de uitwisseling of detachering van personeel voor de opleiding van deskundigen op dit gebied, met name voor ontwikkelingslanden.
 
-#### Artikel 7. Conferentie van de Partijen
+##### Artikel 7. Conferentie van de Partijen
 
 1. Hierbij wordt een Conferentie van de Partijen ingesteld.
 
@@ -250,7 +275,7 @@ De Conferentie van de Partijen, als hoogste orgaan van dit Verdrag, toetst regel
 
 6. De Verenigde Naties, haar gespecialiseerde organisaties en de Internationale Organisatie voor Atoomenergie, alsmede alle lidstaten daarvan of waarnemers daarbij die geen Partij bij het Verdrag zijn, kunnen op zittingen van de Conferentie van de Partijen worden vertegenwoordigd als waarnemer. Elke instelling of organisatie, hetzij nationaal of internationaal, hetzij gouvernementeel of niet-gouvernementeel, die bevoegd is ter zake van aangelegenheden waarop dit Verdrag betrekking heeft, en die aan het secretariaat haar wens te kennen heeft gegeven op een zitting van de Conferentie van de Partijen te zijn vertegenwoordigd als waarnemer, kan als zodanig worden toegelaten, tenzij ten minste een derde van de Partijen hiertegen bezwaar maakt. De toelating en de deelneming van waarnemers wordt geregeld in het door de Conferentie van de Partijen aangenomen reglement van orde.
 
-#### Artikel 8. Secretariaat
+##### Artikel 8. Secretariaat
 
 1. Hierbij wordt een secretariaat ingesteld.
 
@@ -272,7 +297,7 @@ De Conferentie van de Partijen, als hoogste orgaan van dit Verdrag, toetst regel
 
 3. De Conferentie van de Partijen stelt op haar eerste zitting een permanent secretariaat aan en treft regelingen voor het functioneren daarvan.
 
-#### Artikel 9. Hulporgaan voor wetenschappelijk en technologisch advies
+##### Artikel 9. Hulporgaan voor wetenschappelijk en technologisch advies
 
 1. Hierbij wordt een hulporgaan voor wetenschappelijk en technologisch advies ingesteld dat de Conferentie van de Partijen en, indien van toepassing, haar andere hulporganen ter zake dienende informatie en advies dient te verstrekken omtrent wetenschappelijke en technologische aangelegenheden die verband houden met het Verdrag. Dit orgaan staat open voor deelneming door alle Partijen en is multidisciplinair. Het dient te zijn samengesteld uit regeringsvertegenwoordigers die bevoegd zijn op het desbetreffende vakgebied. Het dient regelmatig verslag uit te brengen aan de Conferentie van de Partijen over alle aspecten van zijn werk.
 
@@ -290,7 +315,7 @@ De Conferentie van de Partijen, als hoogste orgaan van dit Verdrag, toetst regel
 
 3. De taken en bevoegdheden van het orgaan kunnen door de Conferentie van de Partijen verder worden uitgewerkt.
 
-#### Artikel 10. Hulporgaan inzake de uitvoering
+##### Artikel 10. Hulporgaan inzake de uitvoering
 
 1. Hierbij wordt een hulporgaan inzake de uitvoering ingesteld, dat de Conferentie van de Partijen dient bij te staan in de beoordeling en toetsing van de effectieve uitvoering van het Verdrag. Dit orgaan staat open voor deelneming door alle Partijen en dient te zijn samengesteld uit regeringsvertegenwoordigers die deskundig zijn inzake aangelegenheden die verband houden met klimaatverandering. Het dient regelmatig verslag uit te brengen aan de Conferentie van de Partijen over alle aspecten van zijn werk.
 
@@ -302,7 +327,7 @@ De Conferentie van de Partijen, als hoogste orgaan van dit Verdrag, toetst regel
 
 - c. de Conferentie van de Partijen, indien van toepassing, bij te staan bij de voorbereiding en uitvoering van haar beslissingen.
 
-#### Artikel 11. Financieel mechanisme
+##### Artikel 11. Financieel mechanisme
 
 1. Hierbij wordt een mechanisme ingesteld voor de verstrekking van financiële middelen in de vorm van giften of onder gunstige voorwaarden, waaronder die voor de overdracht van technologie. Het functioneert aan de hand van richtlijnen van, en is verantwoording verschuldigd aan de Conferentie van de Partijen, die beslist over de beleidslijnen, de prioriteiten van het programma en de toekenningscriteria verband houdende met het Verdrag. De werking ervan wordt toevertrouwd aan één of meer bestaande internationale instellingen.
 
@@ -322,7 +347,7 @@ De Conferentie van de Partijen, als hoogste orgaan van dit Verdrag, toetst regel
 
 5. Door de Partijen die ontwikkelde landen zijn en aan Partijen die ontwikkelingslanden zijn, kunnen ook met de toepassing van het Verdrag verband houdende middelen ter beschikking worden gesteld langs bilaterale, regionale en andere multilaterale kanalen.
 
-#### Artikel 12. Mededeling van informatie betreffende de uitvoering
+##### Artikel 12. Mededeling van informatie betreffende de uitvoering
 
 1. In overeenstemming met artikel 4, eerste lid, deelt elke Partij via het secretariaat aan de Conferentie van de Partijen de volgende informatie mede:
 
@@ -354,11 +379,11 @@ De Conferentie van de Partijen, als hoogste orgaan van dit Verdrag, toetst regel
 
 10. Behoudens het negende lid hierboven, en onverminderd de mogelijkheid van een Partij haar mededeling te allen tijde openbaar te maken, maakt het secretariaat mededelingen van Partijen uit hoofde van dit artikel openbaar op het tijdstip waarop deze worden voorgelegd aan de Conferentie van de Partijen.
 
-#### Artikel 13. Oplossing van vraagstukken betreffende de uitvoering
+##### Artikel 13. Oplossing van vraagstukken betreffende de uitvoering
 
 De Conferentie van de Partijen bestudeert op haar eerste zitting de instelling van een multilateraal consultatief overleg, dat Partijen op hun verzoek ter beschikking staat, voor het oplossen van vraagstukken betreffende de toepassing van het Verdrag.
 
-#### Artikel 14. Regeling van geschillen
+##### Artikel 14. Regeling van geschillen
 
 1. Ingeval tussen twee of meer Partijen een geschil ontstaat betreffende de uitlegging of toepassing van het Verdrag, trachten de Partijen het geschil te regelen door middel van onderhandelingen of op enige andere vreedzame wijze van hun keuze.
 
@@ -382,7 +407,7 @@ Een Partij die een regionale organisatie voor economische integratie is, kan een
 
 8. De bepalingen van dit artikel zijn van toepassing op elke juridische met het Verdrag verband houdende akte die de Conferentie van de Partijen aanneemt, tenzij in die akte anders is bepaald.
 
-#### Artikel 15. Wijzigingen van het verdrag
+##### Artikel 15. Wijzigingen van het verdrag
 
 1. Elke Partij kan wijzigingen van het Verdrag voorstellen.
 
@@ -396,7 +421,7 @@ Een Partij die een regionale organisatie voor economische integratie is, kan een
 
 6. Voor de toepassing van dit artikel wordt onder „aanwezige Partijen die hun stem uitbrengen" verstaan Partijen die aanwezig zijn en voor- of tegenstemmen.
 
-#### Artikel 16. Aanneming en wijziging van bijlagen bij het Verdrag
+##### Artikel 16. Aanneming en wijziging van bijlagen bij het Verdrag
 
 1. Bijlagen bij het Verdrag maken daarvan een integrerend deel uit en een verwijzing naar het Verdrag vormt tegelijkertijd een verwijzing naar de Bijlagen daarbij, tenzij uitdrukkelijk anders is bepaald. Onverminderd de bepalingen van artikel 14, tweede lid, letter b, en zevende lid, zijn die Bijlagen beperkt tot lijsten, formulieren en andere beschrijvende stukken van wetenschappelijke, technische, procedurele of administratieve aard.
 
@@ -408,7 +433,7 @@ Een Partij die een regionale organisatie voor economische integratie is, kan een
 
 5. Indien de aanneming van een Bijlage of een wijziging van een Bijlage een wijziging op het Verdrag inhoudt, treedt die Bijlage eerst in werking of wordt die wijziging van een Bijlage eerst van kracht wanneer de wijziging van het Verdrag van kracht wordt.
 
-#### Artikel 17. Protocollen
+##### Artikel 17. Protocollen
 
 1. De Conferentie van de Partijen kan Protocollen bij het Verdrag aannemen op een gewone zitting.
 
@@ -420,21 +445,21 @@ Een Partij die een regionale organisatie voor economische integratie is, kan een
 
 5. Beslissingen ingevolge een Protocol worden slechts genomen door Partijen bij het desbetreffende Protocol.
 
-#### Artikel 18. Stemrecht
+##### Artikel 18. Stemrecht
 
 1. Elke Partij bij het Verdrag heeft één stem, behoudens het in het tweede lid bepaalde.
 
 2. Regionale organisaties voor economische integratie beschikken ter zake van binnen hun bevoegdheid vallende aangelegenheden over een aantal stemmen dat gelijk is aan het aantal van hun lidstaten die Partij bij het Verdrag zijn. Bedoelde organisaties oefenen hun stemrecht niet uit indien een van hun lidstaten zijn stemrecht uitoefent, en omgekeerd.
 
-#### Artikel 19. Depositaris
+##### Artikel 19. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties is Depositaris van het Verdrag en de in overeenstemming met artikel 17 aangenomen Protocollen.
 
-#### Artikel 20. Ondertekening
+##### Artikel 20. Ondertekening
 
 Dit Verdrag staat open voor ondertekening door Staten die lid zijn van de Verenigde Naties of van één van haar gespecialiseerde organisaties of die Partij zijn bij het [Statuut van het Internationaal Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), alsmede door regionale organisaties voor economische integratie, te Rio de Janeiro gedurende de Conferentie van de Verenigde Naties inzake Milieu en Ontwikkeling, en daarna op de zetel van de Verenigde Naties te New York van 20 juni 1992 tot en met 19 juni 1993.
 
-#### Artikel 21. Voorlopige regelingen
+##### Artikel 21. Voorlopige regelingen
 
 1. De in artikel 8 bedoelde secretariaatswerkzaamheden worden tijdelijk verricht, tot het einde van de eerste zitting van de Conferentie van de Partijen, door het secretariaat dat is ingesteld door de Algemene Vergadering van de Verenigde Naties bij resolutie 45/212 van 21 december 1990.
 
@@ -442,7 +467,7 @@ Dit Verdrag staat open voor ondertekening door Staten die lid zijn van de Vereni
 
 3. De Global Environment Facility van het Ontwikkelingsprogramma van de Verenigde Naties, het Milieuprogramma van de Verenigde Naties en de Internationale Bank voor Herstel en Ontwikkeling vormen de internationale instelling die tijdelijk belast is met de werking van het financiële mechanisme bedoeld in artikel 11. In dit verband dient de Global Environment Facility op passende wijze te worden geherstructureerd en dient de samenstelling van de leden universeel te worden, opdat kan worden voldaan aan de vereisten van artikel 11.
 
-#### Artikel 22. Bekrachtiging, aanvaarding, goedkeuring of toetreding
+##### Artikel 22. Bekrachtiging, aanvaarding, goedkeuring of toetreding
 
 1. Dit Verdrag behoeft de bekrachtiging, aanvaarding, goedkeuring of toetreding door Staten en regionale organisaties voor economische integratie. Het staat open voor toetreding vanaf de dag na de datum waarop het is gesloten voor ondertekening. Akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij de Depositaris.
 
@@ -450,7 +475,7 @@ Dit Verdrag staat open voor ondertekening door Staten die lid zijn van de Vereni
 
 3. In hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding geven regionale organisaties voor economische integratie de omvang van hun bevoegdheid ter zake van door het Verdrag geregelde aangelegenheden aan. Deze organisaties doen tevens kennisgeving aan de Depositaris, die op zijn beurt de Partijen in kennis stelt, van belangrijke wijzigingen betreffende de omvang van hun bevoegdheid.
 
-#### Artikel 23. Inwerkingtreding
+##### Artikel 23. Inwerkingtreding
 
 1. Het Verdrag treedt in werking op de negentigste dag na de datum van nederlegging van de vijftigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -458,11 +483,11 @@ Dit Verdrag staat open voor ondertekening door Staten die lid zijn van de Vereni
 
 3. Voor de toepassing van het eerste en het tweede lid wordt een door een regionale organisatie voor economische integratie nedergelegde akte niet meegeteld naast de door haar lidstaten nedergelegde akten.
 
-#### Artikel 24. Voorbehouden
+##### Artikel 24. Voorbehouden
 
 Bij dit Verdrag kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 25. Opzegging
+##### Artikel 25. Opzegging
 
 1. Na het verstrijken van een termijn van driejaar te rekenen vanaf de datum waarop het Verdrag voor een Partij in werking is getreden, kan die Partij het Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris.
 
@@ -470,7 +495,7 @@ Bij dit Verdrag kan geen enkel voorbehoud worden gemaakt.
 
 3. Een Partij die het Verdrag heeft opgezegd, wordt geacht ook elk Protocol waarbij zij Partij is te hebben opgezegd.
 
-#### Artikel 26. Authentieke teksten
+##### Artikel 26. Authentieke teksten
 
 Het oorspronkelijke exemplaar van dit Verdrag, waarvan de Arabische, de Chinese, de Franse, de Engelse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 

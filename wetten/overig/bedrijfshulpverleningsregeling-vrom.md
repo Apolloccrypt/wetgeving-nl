@@ -1,13 +1,37 @@
 ---
 title: "Bedrijfshulpverleningsregeling VROM"
 identifier: "BWBR0008679"
-categorie: "Overig"
-publicatiedatum: 2007-01-01
-laatste_update: 2007-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008679"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-01-01"
+last_updated: "2007-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008679"
+soort: "ministeriele-regeling"
+stam_id: "3885823"
+version_id: "5649442"
+internal_id: "C5842441"
+label_id: "3865794"
+dtd_version: "2.0"
+original_entry_into_force: "1997-05-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008679/2007-01-01/0"
+intitule_bron: "Stcrt.1997-97"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-05-13"
+intitule_published: "1997-05-27"
+intitule_in_force: "1997-05-27"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-97"
+original_signed_date: "1997-05-13"
+original_published_date: "1997-05-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-05-29"
+jci_1_3: "jci1.3:c:BWBR0008679&z=2007-01-01&g=2007-01-01"
+jci_1_0: "1.0:c:BWBR0008679&g=2007-01-01"
+citeertitel_status: "officieel"
+signed_date: "1997-05-13"
+entry_into_force: "1997-05-29"
 ---
-
 # Bedrijfshulpverleningsregeling VROM
 
 Gelet op [artikel 58a van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=58a);
@@ -18,7 +42,7 @@ Gehoord de Bijzondere Commissie;
 
 Besluit:
 
-#### Artikel 1. Algemene bepalingen
+##### Artikel 1. Algemene bepalingen
 
 1. In dit besluit wordt verstaan onder:
 
@@ -28,7 +52,7 @@ a. minister: Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
 3. Een bedrijfshulpverlener kan tevens met leidinggevende taken worden belast.
 
-#### Artikel 2. Aanwijzing als bedrijfshulpverlener
+##### Artikel 2. Aanwijzing als bedrijfshulpverlener
 
 - a. Aanwijzing als bedrijfshulpverlener voor onbepaalde tijd wordt schriftelijk door het diensthoofd van de betreffende dienst, waar de bedrijfshulpverlener werkzaam is, na overleg met de ondernemingsraad, verleend;
 
@@ -54,7 +78,7 @@ a. minister: Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
 - bij schorsing of ontslag als ambtenaar in dienst van het ministerie.
 
-#### Artikel 3. Criteria voor BHV-werkzaamheden
+##### Artikel 3. Criteria voor BHV-werkzaamheden
 
 1. De bedrijfshulpverlener voert naast zijn normale werkzaamheden de bedrijfshulpverleningstaken naar behoren uit.
 
@@ -138,7 +162,7 @@ Vervolgens blijkt de voldoende inzetbaarheid jaarlijks uit het regelmatig en in 
 
 5. BHV-cursussen, -herhalingslessen en -oefeningen worden zoveel mogelijk tijdens de normale bedrijfstijd gehouden.
 
-#### Artikel 4. Vergoedingen
+##### Artikel 4. Vergoedingen
 
 1. Indien de bedrijfshulpverlener heeft voldaan aan de voor hem geldende criteria van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008679&artikel=3&z=2007-01-01&g=2007-01-01) en tijdig mutaties in zijn omstandigheden betreffende de BHV doorgeeft ontvangt de bedrijfshulpverlener een toelage. De toelage bestaat voor de ontruimer uit een basisgratificatie en voor de overige bedrijfshulpverleners uit een basisgratificatie en - indien aan de nadere voorwaarden wordt voldaan - een taaktoeslag, een wedstrijdtoeslag, een toeslag wegens langdurige deelname, een BHV-uurvergoeding, een EHBO-toelage en een beschikbaarheidstoeslag. De in dit artikel genoemde bedragen zijn bruto-bedragen.
 
@@ -166,21 +190,21 @@ De toelage van de overige bedrijfshulpverleners wordt per jaar of - met uitzonde
 
 12. Door of namens de Minister kunnen de in dit artikel genoemde bedragen worden verhoogd.
 
-#### Artikel 5. Aansprakelijkheid
+##### Artikel 5. Aansprakelijkheid
 
 1. In afwijking van de bepalingen van het Algemeen Rijksambtenarenregle-ment ten aanzien van een dienstongeval, geldt bij BHV-aktiviteiten dat de schade die de bedrijfshulpverlener of aspirant-bedrijfshulpverlener ondervindt als gevolg van een dienstongeval voor rekening van het ministerie komt, indien de bedrijfshulpverlener zich aan de voorgeschreven veiligheidsvoor-schriften heeft gehouden en de schade niet is te wijten aan zijn grove schuld of onvoorzichtigheid.
 
 2. Indien de bedrijfshulpverlener in het kader van BHV-aktiviteiten ondeskundig of onrechtmatig handelt, is de schade dientengevolge jegens derden voor rekening van het ministerie conform de algemene regels omtrent aansprakelijkheid.
 
-#### Artikel 6. Intrekking
+##### Artikel 6. Intrekking
 
 De circulaire van 9 september 1996, M 85-39, betreffende wijzigingen van de vergoedingen in verband met de bedrijfszelfbescherming, wordt ingetrokken.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1997.
 
-#### Artikel 8. Naamgeving
+##### Artikel 8. Naamgeving
 
 Deze regeling wordt aangehaald als: Bedrijfshulpverleningsregeling VROM.
 

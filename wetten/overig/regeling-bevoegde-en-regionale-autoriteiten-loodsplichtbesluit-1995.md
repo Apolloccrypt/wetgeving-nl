@@ -1,20 +1,44 @@
 ---
 title: "Regeling bevoegde en regionale autoriteiten Loodsplichtbesluit 1995"
 identifier: "BWBR0007558"
-categorie: "Overig"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007558"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007558"
+soort: "ministeriele-regeling"
+stam_id: "4371953"
+version_id: "6138602"
+internal_id: "C6342811"
+label_id: "4350384"
+dtd_version: "2.0"
+original_entry_into_force: "1995-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007558/2014-01-01/0"
+intitule_bron: "Stcrt.1995-188"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-09-14"
+intitule_published: "1995-09-28"
+intitule_in_force: "1995-09-28"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-188"
+original_signed_date: "1995-09-14"
+original_published_date: "1995-09-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-10-01"
+jci_1_3: "jci1.3:c:BWBR0007558&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0007558&g=2014-01-01"
+citeertitel_status: "officieel"
+signed_date: "1995-09-14"
+entry_into_force: "1995-10-01"
 ---
-
 # Regeling bevoegde en regionale autoriteiten Loodsplichtbesluit 1995
 
 Gelet op [artikel 1, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=1), en [artikel 2, derde lid, van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=2), en op [artikel 1, onderdeel a, van het Voorschriftenbesluit registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004394&artikel=1);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bevoegde autoriteit, bedoeld in [artikel 1, eerste lid, onderdeel a, van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=1) is:
 
@@ -60,11 +84,11 @@ De bevoegde autoriteit, bedoeld in [artikel 1, eerste lid, onderdeel a, van het 
 
 - c. voor zover het betreft scheepvaartwegen niet in beheer bij enig openbaar lichaam: de ambtenaar die door het bestuur van de gemeente waarin de scheepvaartweg is gelegen wordt aangewezen voor de zorg voor een veilige en vlotte afwikkeling van het scheepvaartverkeer.
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 De regionale autoriteit, bedoeld in [artikel 1, eerste lid, onderdeel c, van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=1), is:
 
@@ -76,7 +100,7 @@ De regionale autoriteit, bedoeld in [artikel 1, eerste lid, onderdeel c, van het
 
 - d. voor de regio Scheldemonden: de functionaris, bedoeld in [artikel 1, onderdeel a, 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0007558&artikel=1&z=2014-01-01&g=2014-01-01).
 
-#### Artikel 4
+##### Artikel 4
 
 Door de bevoegde autoriteit wordt van de in [artikel 2, tweede lid, van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=2) bedoelde bevoegdheid gebruik gemaakt ten aanzien van vaartuigen gebouwd of ingericht voor het winnen of vervoeren van zand, baggerspecie of grind, indien deze vaartuigen op een scheepvaartweg voor het aangegeven doel worden gebruikt, tenzij, naar het oordeel van de bevoegde autoriteit, wordt voldaan aan de volgende eisen:
 
@@ -98,19 +122,19 @@ Door de bevoegde autoriteit wordt van de in [artikel 2, tweede lid, van het Lood
 
 - 2°. geen structureel benodigde sleepbootassistentie.
 
-#### Artikel 5
+##### Artikel 5
 
 Na inwerkingtreding van deze regeling berusten de mandaat- en sub-mandaat-regelingen van de in artikel 1 van de regeling houdende aanwijzing van de bevoegde autoriteit voor het Loodsplichtbesluit en het [Voorschriftenbesluit registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004394) van 13 april 1994 (Stcrt. 73), nr. DGSM/J 30.561/95, genoemde functionarissen ten aanzien van de bevoegdheden die zij ontlenen aan het Loodsplichtbesluit en het Voorschriftenbesluit registerloodsen, op deze regeling, met dien verstande dat waar ’Loodsplichtbesluit’ is vermeld ’[Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512)’ wordt gelezen.
 
-#### Artikel 6
+##### Artikel 6
 
 De regeling houdende aanwijzing van de bevoegde autoriteit voor het [Loodsplichtbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007512) en het [Voorschriften-besluit registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004394) van 13 april 1994 (Stcrt. 73), nr. DGSM/J 30.561/95, wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van 1 oktober 1995.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling bevoegde en regionale autoriteiten Loodsplichtbesluit 1995.
 

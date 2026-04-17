@@ -1,13 +1,36 @@
 ---
-title: "NL aanvullende accreditatie-eisen certificeringsorganen Autoriteit Persoonsgegevens"
+title: "NL aanvullende accreditatie-eisen certificeringsorganen Autoriteit Persoonsgegevens1De tekst van deze aanvullende eisen in de Engelse taal is authentiek. Bij interpretatieverschillen is de Engelse tekst leidend"
 identifier: "BWBR0045241"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2021-06-16
-laatste_update: 2021-06-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045241"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-06-16"
+last_updated: "2021-06-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045241"
+soort: "zbo"
+stam_id: "15984703"
+version_id: "27821152"
+internal_id: "C39241831"
+label_id: "15919394"
+dtd_version: "2.0"
+original_entry_into_force: "2021-06-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045241/2021-06-16/0"
+intitule_bron: "Stcrt.2021-30081"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2021-06-16"
+intitule_in_force: "2021-06-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-30081"
+original_published_date: "2021-06-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-30081"
+entry_into_force_date: "2021-06-16"
+jci_1_3: "jci1.3:c:BWBR0045241&z=2021-06-16&g=2021-06-16"
+jci_1_0: "1.0:c:BWBR0045241&g=2021-06-16"
+citeertitel_status: "redactioneel"
+short_title: "NL aanvullende accreditatie-eisen certificeringsorganen Autoriteit Persoonsgegevens"
+entry_into_force: "2021-06-16"
 ---
-
 # NL aanvullende accreditatie-eisen certificeringsorganen Autoriteit Persoonsgegevens1De tekst van deze aanvullende eisen in de Engelse taal is authentiek. Bij interpretatieverschillen is de Engelse tekst leidend
 
 De Autoriteit Persoonsgegevens (hierna: AP) heeft op 8 juni 2021 het volgende besluit genomen inzake de aanvullende accreditatie-eisen voor certificeringsorganen met betrekking tot ISO/IEC 17065:2012 (hierna: ISO 17065) en overeenkomstig artikel 43, eerste lid, onder b, en artikel 43, derde lid, van de AVG:

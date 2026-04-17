@@ -1,13 +1,39 @@
 ---
-title: "Besluit houdende beperking openbaarheid archief Koninklijke Onderscheidingen afdeling Kabinetszaken 1958-1996"
+title: "Besluit van de Minister van Justitie en Veiligheid d.d. 15 november 2022, kenmerk 2967416, houdende beperking van de openbaarheid op het archief Koninklijke Onderscheidingen van de afdeling Kabinetszaken 1958-1996 van het Ministerie van Justitie"
 identifier: "BWBR0047501"
-categorie: "Overig"
-publicatiedatum: 2022-11-23
-laatste_update: 2022-11-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047501"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-11-23"
+last_updated: "2022-11-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047501"
+soort: "ministeriele-regeling"
+stam_id: "16571793"
+version_id: "29052892"
+internal_id: "C41299161"
+label_id: "16491374"
+dtd_version: "2.0"
+original_entry_into_force: "2022-11-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047501/2022-11-23/0"
+intitule_bron: "Stcrt.2022-31353"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-11-15"
+intitule_published: "2022-11-22"
+intitule_in_force: "2022-11-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-31353"
+original_signed_date: "2022-11-15"
+original_published_date: "2022-11-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-31353"
+entry_into_force_date: "2022-11-23"
+jci_1_3: "jci1.3:c:BWBR0047501&z=2022-11-23&g=2022-11-23"
+jci_1_0: "1.0:c:BWBR0047501&g=2022-11-23"
+citeertitel_status: "redactioneel"
+short_title: "Besluit houdende beperking openbaarheid archief Koninklijke Onderscheidingen afdeling Kabinetszaken 1958-1996"
+signed_date: "2022-11-15"
+entry_into_force: "2022-11-23"
 ---
-
 # Besluit van de Minister van Justitie en Veiligheid d.d. 15 november 2022, kenmerk 2967416, houdende beperking van de openbaarheid op het archief Koninklijke Onderscheidingen van de afdeling Kabinetszaken 1958-1996 van het Ministerie van Justitie
 
 Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de Algemeen Rijksarchivaris d.d. 14 oktober 2022, met kenmerk 100584.
@@ -16,7 +42,7 @@ Besluit:
 
 Tot de volgende beperkingen aan de openbaarheid van archief Koninklijke Onderscheidingen van de afdeling Kabinetszaken 1958-1996.
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot het jaar, genoemd in de tweede kolom.
 
@@ -91,14 +117,14 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 77 | 2032 | 241 | 2027 |
 | 78 | 2033 |   |   |
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047501&artikel=1&z=2022-11-23&g=2022-11-23), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris. Deze toestemming wordt verleend volgens de bij het Nationaal Archief geldende procedure voor het gebruik van beperkt openbare archieven die bijzondere persoonsgegevens bevatten. Alleen schriftelijke verzoeken tot raadpleging worden in behandeling genomen. De algemene rijksarchivaris kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 3
+##### Artikel 3
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047501&artikel=1&z=2022-11-23&g=2022-11-23), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief Koninklijke Onderscheidingen van de afdeling Kabinetszaken 1958-1996.

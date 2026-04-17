@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregels verwerking persoonsgegevens gezondheid zieke werknemers"
 identifier: "BWBR0037896"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2016-04-29
-laatste_update: 2016-04-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037896"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-04-29"
+last_updated: "2016-04-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037896"
+soort: "zbo"
+stam_id: "13491933"
+version_id: "23152392"
+internal_id: "C33455851"
+label_id: "13459404"
+dtd_version: "2.0"
+original_entry_into_force: "2016-04-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037896/2016-04-29/0"
+intitule_bron: "Stcrt.2016-21703"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-04-29"
+intitule_in_force: "2016-04-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-21703"
+original_published_date: "2016-04-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-21703"
+entry_into_force_date: "2016-04-29"
+jci_1_3: "jci1.3:c:BWBR0037896&z=2016-04-29&g=2016-04-29"
+jci_1_0: "1.0:c:BWBR0037896&g=2016-04-29"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-04-29"
 ---
-
 # Beleidsregels verwerking persoonsgegevens gezondheid zieke werknemers
 
 Voor u liggen de beleidsregels ‘De zieke werknemer’. Naar aanleiding van nieuwe wetgeving, nieuwe jurisprudentie en recente onderzoeksrapporten van de Autoriteit Persoonsgegevens is besloten de publicatie ‘De zieke werknemer en privacy’ van februari 2008 te herzien en te actualiseren. De beleidsregels ‘De zieke werknemer’ vervangen dan ook deze oudere publicatie.

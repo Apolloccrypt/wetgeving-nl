@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregelbesluit ’Van WGGA naar WG’"
 identifier: "BWBR0037496"
-categorie: "Overig"
-publicatiedatum: 2016-01-04
-laatste_update: 2016-01-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037496"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-01-04"
+last_updated: "2016-01-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037496"
+soort: "zbo"
+stam_id: "13382533"
+version_id: "22947052"
+internal_id: "C33174641"
+label_id: "13350334"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037496/2016-01-04/0"
+intitule_bron: "Stcrt.2016-129"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-22"
+intitule_published: "2016-01-04"
+intitule_in_force: "2016-01-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-129"
+original_signed_date: "2015-12-22"
+original_published_date: "2016-01-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-129"
+entry_into_force_date: "2016-01-04"
+jci_1_3: "jci1.3:c:BWBR0037496&z=2016-01-04&g=2016-01-04"
+jci_1_0: "1.0:c:BWBR0037496&g=2016-01-04"
+citeertitel_status: "officieel"
+signed_date: "2015-12-22"
+entry_into_force: "2016-01-04"
 ---
-
 # Beleidsregelbesluit ’Van WGGA naar WG’
 
 Het Ctgb,

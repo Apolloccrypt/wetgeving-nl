@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit voorkoming verontreiniging door schepen (implementatie Ballastwaterverdrag en herziene Bijlage VI MARPOL-verdrag)"
+title: "Besluit van 9 februari 2010 tot wijziging van het Besluit voorkoming verontreiniging door schepen in verband met de implementatie van het Ballastwaterverdrag en de herziene Bijlage VI van het MARPOL-verdrag"
 identifier: "BWBR0027347"
-categorie: "Milieu"
-publicatiedatum: 2017-09-08
-laatste_update: 2017-09-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027347"
+country: "nl"
+rank: "amvb"
+publication_date: "2017-09-08"
+last_updated: "2017-09-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027347"
+soort: "AMvB"
+stam_id: "10452513"
+version_id: "17191432"
+internal_id: "C23716721"
+label_id: "10427614"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027347/2017-09-08/0"
+intitule_bron: "Stb.2010-91"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-02-09"
+intitule_published: "2010-03-09"
+intitule_in_force: "2010-03-09"
+intitule_status: "goed"
+original_publication: "Stb.2010-91"
+original_signed_date: "2010-02-09"
+original_published_date: "2010-03-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-91"
+entry_into_force_date: "2010-07-01"
+jci_1_3: "jci1.3:c:BWBR0027347&z=2017-09-08&g=2017-09-08"
+jci_1_0: "1.0:c:BWBR0027347&g=2017-09-08"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit voorkoming verontreiniging door schepen (implementatie Ballastwaterverdrag en herziene Bijlage VI MARPOL-verdrag)"
+signed_date: "2010-02-09"
+entry_into_force: "2010-07-01"
 ---
-
 # Besluit van 9 februari 2010 tot wijziging van het Besluit voorkoming verontreiniging door schepen in verband met de implementatie van het Ballastwaterverdrag en de herziene Bijlage VI van het MARPOL-verdrag
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat, gedaan mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 27 augustus 2009, nr. CEND/HDJZ-2009/723, Hoofddirectie Juridische Zaken;
@@ -20,19 +46,19 @@ Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat, uitgebrach
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit voorkoming verontreiniging door schepen.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit aanwijzing verdragen Wet havenstaatcontrole.
 
-#### Artikel III
+##### Artikel III
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel IV
+##### Artikel IV
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip met uitzondering van [artikel I, onderdelen F, onder 2, Q, S, T en Y](https://wetten.overheid.nl/jci1.3:c:BWBR0027347&artikel=I&z=2017-09-08&g=2017-09-08), die in werking treden met ingang van 1 juli 2010.
 

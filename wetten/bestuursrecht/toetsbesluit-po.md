@@ -1,13 +1,39 @@
 ---
-title: "Toetsbesluit PO"
+title: "Besluit van 3 juni 2014, houdende regels over de centrale eindtoets of andere eindtoetsen in het primair onderwijs, over een leerling- en onderwijsvolgsysteem in het primair onderwijs en over toelating van leerlingen tot het voortgezet onderwijs (Toetsbesluit PO)"
 identifier: "BWBR0035216"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-08-01
-laatste_update: 2025-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035216"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-08-01"
+last_updated: "2025-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035216"
+soort: "AMvB"
+stam_id: "12694423"
+version_id: "29077432"
+internal_id: "C41334241"
+label_id: "12664684"
+dtd_version: "2.0"
+original_entry_into_force: "2022-11-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035216/2025-08-01/0"
+intitule_bron: "Stb.2014-209"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-06-03"
+intitule_published: "2014-06-19"
+intitule_in_force: "2014-07-03"
+intitule_status: "goed"
+original_publication: "Stb.2022-480"
+original_signed_date: "2022-11-09"
+original_published_date: "2022-11-30"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2022-480"
+entry_into_force_date: "2022-11-09"
+jci_1_3: "jci1.3:c:BWBR0035216&z=2025-08-01&g=2025-08-01"
+jci_1_0: "1.0:c:BWBR0035216&g=2025-08-01"
+citeertitel_status: "officieel"
+short_title: "Toetsbesluit PO"
+signed_date: "2022-11-09"
+entry_into_force: "2022-11-09"
 ---
-
 # Besluit van 3 juni 2014, houdende regels over de centrale eindtoets of andere eindtoetsen in het primair onderwijs, over een leerling- en onderwijsvolgsysteem in het primair onderwijs en over toelating van leerlingen tot het voortgezet onderwijs (Toetsbesluit PO)
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 24 maart 2014, nr. WJZ/607263(2762), directie Wetgeving en Juridische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -44,13 +70,13 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Centrale eindtoets en andere eindtoetsen
 
-#### Artikel 2. Aanmelding doorstroomtoets
+##### Artikel 2. Aanmelding doorstroomtoets
 
 1. Het bevoegd gezag bepaalt welke doorstroomtoets op de school wordt afgenomen.
 
 2. Het bevoegd gezag meldt uiterlijk op 15 november van het schooljaar waarin de doorstroomtoets wordt afgenomen aan de toetsaanbieder het aantal leerlingen dat de doorstroomtoets naar verwachting zal afleggen.
 
-#### Artikel 3. Inhoud doorstroomtoets
+##### Artikel 3. Inhoud doorstroomtoets
 
 1. In het Europese deel van Nederland meet de doorstroomtoets welk eindniveau de leerling heeft behaald ten opzichte van de referentieniveaus, bedoeld in [artikel 2, tweede lid, aanhef en onderdeel a en b, van de Wet referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=2). Daarbij worden ten minste de domeinen als bedoeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&bijlage=1) en [Bijlage 2 van het Besluit referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&bijlage=2), met uitzondering van het domein Mondelinge Taalvaardigheid, Schrijven en het subdomein Begrippenlijst, genoemd in Bijlage 1 van het Besluit referentieniveaus Nederlandse taal en rekenen, getoetst.
 
@@ -60,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 - b. voor het terrein Nederlandse taal: het receptief mondeling en het receptief lezen.
 
-#### Artikel 4. Kenmerken doorstroomtoets
+##### Artikel 4. Kenmerken doorstroomtoets
 
 Onverminderd [artikel 45b, derde en vierde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=45b), [artikel 48c, derde en vierde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=48c) of [artikel 51b, eerste en tweede lid, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=51b) voldoet een doorstroomtoets aan de volgende kenmerken:
 
@@ -84,7 +110,7 @@ Onverminderd [artikel 45b, derde en vierde lid, van de Wet op het primair onderw
 
 - j. de toets kent een verantwoording van de inhoud, waarin informatie over het theoretisch kader is opgenomen, wordt beschreven welke keuzes zijn gemaakt met betrekking tot de te toetsen domeinen, de daarbij passende afnamevorm en uiteen wordt gezet hoe de toets voldoet aan de in onderdeel b gestelde eisen.
 
-#### artikel 5. Afnamevoorschriften
+##### artikel 5. Afnamevoorschriften
 
 1. De directeur neemt de doorstroomtoets af onder verantwoordelijkheid van het bevoegd gezag en draagt zorg voor voldoende toezicht tijdens de afname van de doorstroomtoets. Hij kan zijn taken aan een of meer toetsleiders overdragen.
 
@@ -92,7 +118,7 @@ Onverminderd [artikel 45b, derde en vierde lid, van de Wet op het primair onderw
 
 3. De directeur draagt zorg voor de geheimhouding van de toetsopgaven nadat deze hem door de toetsaanbieder ter beschikking zijn gesteld.
 
-#### artikel 6. Onregelmatigheden en onvoorziene omstandigheden
+##### artikel 6. Onregelmatigheden en onvoorziene omstandigheden
 
 1. Indien bij de afname van de doorstroomtoets een onregelmatigheid wordt geconstateerd, dan kan de directeur maatregelen treffen. De directeur meldt de onregelmatigheid en de getroffen maatregelen aan de inspectie.
 
@@ -100,7 +126,7 @@ Onverminderd [artikel 45b, derde en vierde lid, van de Wet op het primair onderw
 
 3. Indien door onvoorziene omstandigheden de doorstroomtoets aan één of meer scholen niet, of niet op de voorgeschreven wijze, kan worden afgenomen, beslist het bevoegd gezag na overleg met de betreffende toetsaanbieder hoe alsdan moet worden gehandeld.
 
-#### artikel 7. Toetsreglement
+##### artikel 7. Toetsreglement
 
 1. Bij elke doorstroomtoets wordt door de betreffende toetsaanbieder een toetsreglement vastgesteld, waarin de wijze van afnemen wordt geregeld. Daarbij worden ten minste geregeld:
 
@@ -118,7 +144,7 @@ Onverminderd [artikel 45b, derde en vierde lid, van de Wet op het primair onderw
 
 2. Deze bepaling is van overeenkomstige toepassing op de toetsen van het leerling- en onderwijsvolgsysteem.
 
-#### Artikel 8. Resultaten doorstroomtoets en leerlingrapport
+##### Artikel 8. Resultaten doorstroomtoets en leerlingrapport
 
 1. De toetsaanbieder maakt de resultaten van de doorstroomtoetsen uiterlijk op 15 maart van het schooljaar waarin de doorstroomtoets wordt afgenomen bekend aan het bevoegd gezag.
 
@@ -128,7 +154,7 @@ Onverminderd [artikel 45b, derde en vierde lid, van de Wet op het primair onderw
 
 #### § 3. Toelating andere eindtoetsen
 
-#### Artikel 9. Aanvraag erkenning en jaarlijkse vaststelling doorstroomtoets
+##### Artikel 9. Aanvraag erkenning en jaarlijkse vaststelling doorstroomtoets
 
 1. Een toetsaanbieder dient op 31 mei van het schooljaar voorafgaand aan het schooljaar waarin de doorstroomtoets wordt afgenomen een aanvraag in bij het College voor toetsen en examens tot erkenning of vaststelling van een doorstroomtoets als bedoeld in [artikel 3a, eerste lid, onderdelen a en b, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a).
 
@@ -148,7 +174,7 @@ Onverminderd [artikel 45b, derde en vierde lid, van de Wet op het primair onderw
 
 4. Een besluit tot erkenning van een doorstroomtoets door het College voor toetsen en examens als bedoeld in [artikel 3a, derde lid, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a) wordt in de Staatscourant gepubliceerd. De eerste volzin is van overeenkomstige toepassing op de intrekking van de erkenning.
 
-#### Artikel 10. Subsidie erkende doorstroomtoetsen
+##### Artikel 10. Subsidie erkende doorstroomtoetsen
 
 1. Onze Minister verstrekt jaarlijks subsidie aan de toetsaanbieder van een door het College voor toetsen en examens erkende doorstroomtoets. De subsidie bestaat uit een basisbedrag vermeerderd met een bedrag per leerling die de toets heeft afgelegd.
 
@@ -158,7 +184,7 @@ Onverminderd [artikel 45b, derde en vierde lid, van de Wet op het primair onderw
 
 #### § 4. Kwaliteit toetsen leerling- en onderwijsvolgsystemen
 
-#### Artikel 11. Kenmerken toetsen leerling- en onderwijsvolgsysteem
+##### Artikel 11. Kenmerken toetsen leerling- en onderwijsvolgsysteem
 
 1. Onverminderd [artikel 45b, eerste en tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=45b), [artikel 48c, eerste en tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=48c) of, [artikel 51a, eerste en tweede lid, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=51a), heeft de toets de volgende kenmerken:
 
@@ -182,7 +208,7 @@ Onverminderd [artikel 45b, derde en vierde lid, van de Wet op het primair onderw
 
 #### § 5. Wijziging andere besluiten
 
-#### Artikel 12. Aanvraag erkenning toets leerling- en onderwijsvolgsysteem
+##### Artikel 12. Aanvraag erkenning toets leerling- en onderwijsvolgsysteem
 
 In de aanvraag tot erkenning, als bedoeld in [artikel 3, eerste lid, onderdeel c, van de Wet College voor toetsen en examen](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3), toont de toetsaanbieder aan dat een toets voldoet aan de kenmerken genoemd in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=4&artikel=11&z=2025-08-01&g=2025-08-01) en overlegt de toetsaanbieder in ieder geval de volgende gegevens:
 
@@ -194,17 +220,17 @@ In de aanvraag tot erkenning, als bedoeld in [artikel 3, eerste lid, onderdeel c
 
 - d. het toetsreglement.
 
-#### Artikel 13. Wijziging [Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946)
+##### Artikel 13. Wijziging [Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946)
 
 Vervallen
 
-#### Artikel 14. Wijziging Toetsbesluit PO
+##### Artikel 14. Wijziging Toetsbesluit PO
 
 Vervallen
 
 #### § 6. Slot- en overgangsbepalingen
 
-#### Artikel 15. Overgangsbepalingen
+##### Artikel 15. Overgangsbepalingen
 
 1. Tot de datum, bedoeld in [artikel 9b, tiende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) is dit besluit niet van toepassing op leerlingen van een speciale school voor basisonderwijs.
 
@@ -212,17 +238,17 @@ Vervallen
 
 3. In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=2&z=2025-08-01&g=2025-08-01), kan het bevoegd gezag besluiten om in het eerste schooljaar na inwerkingtreding van dit besluit in plaats van een eindtoets als bedoeld in dit besluit een toets als bedoeld in [Bijlage A bij de Regeling leerresultaten PO](https://wetten.overheid.nl/jci1.3:c:BWBR0027960&bijlage=A) zoals die luidde op de dag voor de inwerkingtreding van dit besluit, met uitzondering van de Eindtoets Basisonderwijs, inclusief de Niveautoets van Cito, en de Entreetoets van Cito, bij de leerlingen af te nemen.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Dit besluit wordt aangehaald als: Toetsbesluit PO.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a. Omhangbepaling
+##### Artikel 1a. Omhangbepaling
 
 Dit besluit berust mede op [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=42), en [artikel 45e, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=45e), [artikel 8.6, vijfde en zesde lid, van de Wet op het voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.6), [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=43), en [artikel 48f, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=48f), [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=48) en [artikel 51e, eerste lid, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=51e) en [artikel 3a, tweede lid, onderdeel c, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a).
 

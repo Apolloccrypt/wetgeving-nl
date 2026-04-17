@@ -1,13 +1,38 @@
 ---
 title: "Invordering, tijdelijk uitstelbeleid in verband met een verzoek om BTW-teruggaaf uit een andere EU-lidstaat"
 identifier: "BWBR0029743"
-categorie: "Belastingrecht"
-publicatiedatum: 2011-03-24
-laatste_update: 2011-03-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029743"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2011-03-24"
+last_updated: "2011-03-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029743"
+soort: "beleidsregel"
+stam_id: "11274863"
+version_id: "18465092"
+internal_id: "C25745951"
+label_id: "11249004"
+dtd_version: "2.0"
+original_entry_into_force: "2011-03-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029743/2011-03-24/0"
+intitule_bron: "Stcrt.2011-5025"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-03-15"
+intitule_published: "2011-03-23"
+intitule_in_force: "2011-03-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-5025"
+original_signed_date: "2011-03-15"
+original_published_date: "2011-03-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-5025"
+entry_into_force_date: "2011-03-24"
+jci_1_3: "jci1.3:c:BWBR0029743&z=2011-03-24&g=2011-03-24"
+jci_1_0: "1.0:c:BWBR0029743&g=2011-03-24"
+citeertitel_status: "redactioneel"
+signed_date: "2011-03-15"
+entry_into_force: "2011-03-24"
 ---
-
 # Invordering, tijdelijk uitstelbeleid in verband met een verzoek om BTW-teruggaaf uit een andere EU-lidstaat
 
 De staatssecretaris van Financiën heeft het volgende besloten.

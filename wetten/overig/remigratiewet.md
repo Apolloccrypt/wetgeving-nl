@@ -1,14 +1,41 @@
 ---
-title: "Remigratiewet"
+title: "Wet van 22 april 1999, houdende regels inzake het treffen van voorzieningen ten behoeve van remigratie (Remigratiewet)"
 identifier: "BWBR0010424"
-categorie: "Overig"
-publicatiedatum: 2023-10-01
-laatste_update: 2023-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010424"
+country: "nl"
+rank: "wet"
+publication_date: "2023-10-01"
+last_updated: "2023-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010424"
+soort: "wet"
+stam_id: "1101003"
+version_id: "1621142"
+internal_id: "C1621141"
+label_id: "1067514"
+dtd_version: "2.0"
+original_entry_into_force: "2000-09-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010424/2023-10-01/0"
+intitule_bron: "Stb.1999-232"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-04-22"
+intitule_published: "1999-06-15"
+intitule_in_force: "2000-03-28"
+intitule_status: "goed"
+original_publication: "Stb.1999-426"
+original_signed_date: "1999-09-16"
+original_published_date: "1999-10-14"
+original_effect: "structuurwijziging"
+original_dossier: "26525"
+original_url_id: "stb-1999-426"
+entry_into_force_date: "2000-09-08"
+jci_1_3: "jci1.3:c:BWBR0010424&z=2023-10-01&g=2023-10-01"
+jci_1_0: "1.0:c:BWBR0010424&g=2023-10-01"
+citeertitel_status: "officieel"
+short_title: "Remigratiewet"
+signed_date: "1999-09-16"
+entry_into_force: "2000-09-08"
 ---
-
-# Remigratiewet
+# Wet van 22 april 1999, houdende regels inzake het treffen van voorzieningen ten behoeve van remigratie (Remigratiewet)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -54,7 +81,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. In deze wet wordt in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2023-10-01&g=2023-10-01), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6&z=2023-10-01&g=2023-10-01), [6a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6a&z=2023-10-01&g=2023-10-01), [6c, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6c&z=2023-10-01&g=2023-10-01), [6d, eerste lid, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6d&z=2023-10-01&g=2023-10-01), [6e, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6e&z=2023-10-01&g=2023-10-01), en [6f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6f&z=2023-10-01&g=2023-10-01), alsmede, voor zover dit uitdrukkelijk van toepassing is verklaard, in de op deze wet berustende bepalingen onder kind mede verstaan het bij vertrek van de remigrant uit Nederland in het bestemmingsland verblijvende minderjarige eigen kind, stiefkind of pleegkind.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze wet is van toepassing op:
 
@@ -64,11 +91,11 @@ Deze wet is van toepassing op:
 
 ### Hoofdstuk II. Voorzieningen ten behoeve van remigratie
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan een remigrant die voldoet aan de voorwaarden, bedoeld in [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2b&z=2023-10-01&g=2023-10-01), wordt een periodieke uitkering verstrekt ter voorziening in de noodzakelijke kosten van bestaan in het bestemmingsland.
 
@@ -80,7 +107,7 @@ Vervallen
 
 5. Indien de remigrant en, voor zover van toepassing, zijn partner en hun kinderen niet binnen een termijn van zes maanden na de datum van de beschikking tot toekenning van de voorzieningen, bedoeld in het eerste en tweede lid, zijn geremigreerd, kan de beschikking geheel of gedeeltelijk worden ingetrokken, tenzij de remigrant of zijn partner van de overschrijding van die termijn redelijkerwijs geen verwijt kan worden gemaakt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de remigrant een partner heeft en zij ophouden met elkaar een gezamenlijke huishouding te voeren en, indien zij zijn gehuwd of geregistreerde partners zijn, duurzaam gescheiden gaan leven, verkrijgt ieder der partijen een recht op de remigratievoorzieningen als ware hij een alleenstaande remigrant.
 
@@ -92,7 +119,7 @@ Vervallen
 
 5. Onder kinderen wordt in het derde lid mede verstaan de kinderen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2023-10-01&g=2023-10-01).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het recht op de remigratievoorzieningen van de remigrant eindigt met ingang van de eerste dag van de maand volgend op die waarin de remigrant zijn hoofdverblijf wederom in Nederland heeft.
 
@@ -100,7 +127,7 @@ Vervallen
 
 3. Het recht van het kind op de voorzieningen, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2023-10-01&g=2023-10-01), eindigt met ingang van de eerste dag van de maand volgend op die waarin het kind zijn hoofdverblijf in Nederland heeft.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij of krachtens algemene maatregel van bestuur worden met betrekking tot de remigratievoorzieningen nadere regels gesteld. Deze regels hebben in ieder geval betrekking op:
 
@@ -114,7 +141,7 @@ Vervallen
 
 ### Hoofdstuk III. Terugkeeroptie
 
-#### Artikel 8
+##### Artikel 8
 
 1. Personen die op grond van deze wet zijn geremigreerd kunnen tot uiterlijk één jaar na het tijdstip waarop zij zich in het bestemmingsland hebben gevestigd naar Nederland terugkeren.
 
@@ -122,13 +149,13 @@ Vervallen
 
 ### Hoofdstuk IIIA. Taken en bevoegdheden van de Sociale verzekeringsbank
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. De Sociale verzekeringsbank is belast met de rechtmatige en doelmatige uitvoering van deze wet en de daarop berustende bepalingen, voorzover de uitvoering daarvan niet bij of krachtens deze wet aan Onze Minister is opgedragen.
 
 2. Onze Minister kan regels stellen omtrent de uitvoering door de Sociale verzekeringsbank, bedoeld in het eerste lid.
 
-#### Artikel 8b
+##### Artikel 8b
 
 1. De kosten voor de remigratievoorzieningen en voor de uitvoering van deze wet komen ten laste van het Rijk.
 
@@ -136,19 +163,19 @@ Vervallen
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld over de uitvoering van dit artikel.
 
-#### Artikel 8c
+##### Artikel 8c
 
 Vervallen
 
-#### Artikel 8d
+##### Artikel 8d
 
 Vervallen
 
-#### Artikel 8e
+##### Artikel 8e
 
 Vervallen
 
-#### Artikel 8f
+##### Artikel 8f
 
 1. De Sociale verzekeringsbank voert een zodanig ingerichte afzonderlijke administratie, dat daaruit te allen tijde de voor de vaststelling van de in [artikel 8b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8b&z=2023-10-01&g=2023-10-01), bedoelde kosten van belang zijnde rechten en verplichtingen alsmede de betalingen en ontvangsten kunnen worden nagegaan.
 
@@ -156,7 +183,7 @@ Vervallen
 
 3. Onze Minister kan regels stellen omtrent de inrichting van de administratie, bedoeld in het eerste lid.
 
-#### Artikel 8g
+##### Artikel 8g
 
 1. De Sociale verzekeringsbank is bevoegd controlevoorschriften vast te stellen. Deze voorschriften mogen niet verder gaan dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
 
@@ -164,7 +191,7 @@ Vervallen
 
 3. De controlevoorschriften, bedoeld in het eerste lid, behoeven goedkeuring van Onze Minister.
 
-#### Artikel 8h
+##### Artikel 8h
 
 1. De Sociale verzekeringsbank verstrekt desgevraagd aan Onze Minister kosteloos de voor de uitoefening van zijn taak in verband met deze wet benodigde inlichtingen. Onze Minister kan toegang vorderen tot en inzage vorderen in gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak in verband met deze wet redelijkerwijs nodig is en voor zover deze gegevens en bescheiden niet herleidbaar zijn tot gegevens en bescheiden over individuele personen.
 
@@ -172,7 +199,7 @@ Vervallen
 
 3. Onze Minister is bevoegd de door de Sociale verzekeringsbank verstrekte inlichtingen en de informatie verkregen uit de inzage in gegevens en bescheiden, bedoeld in het eerste lid, te gebruiken, te bewerken en aan derden te verstrekken, voorzover deze niet tot gegevens van en inlichtingen over individuele personen herleidbaar zijn.
 
-#### Artikel 8i
+##### Artikel 8i
 
 1. Onze Minister kan besluiten nemen waarmee voor een periode van ten hoogste zes maanden voorzieningen worden getroffen voor het geval de Sociale verzekeringsbank uit de wet voortvloeiende verplichtingen niet naar behoren nakomt.
 
@@ -180,7 +207,7 @@ Vervallen
 
 3. Bij algemene maatregel van bestuur kunnen tijdelijke voorzieningen worden getroffen voor het geval de Sociale verzekeringsbank uit de wet voortvloeiende verplichtingen niet naar behoren nakomt.
 
-#### Artikel 8j
+##### Artikel 8j
 
 1. [Hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7), alsmede de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=10), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=35), [55, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=55), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=72), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73), [73a](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73a), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=77), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=79), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=84) en [86 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=86) zijn ten aanzien van de uitvoering van deze wet niet van toepassing.
 
@@ -192,11 +219,11 @@ Vervallen
 
 ### Hoofdstuk III. Terugkeeroptie
 
-#### Artikel 9
+##### Artikel 9
 
 Onze Minister zendt binnen vier jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Personen die op de dag voor de inwerkingtreding van deze wet zijn geremigreerd en een uitkering ontvingen op basis van de Remigratieregeling 1985 behoeven geen aanvraag in te dienen voor het verkrijgen van een periodieke uitkering op basis van deze wet. De bedragen van bedoelde uitkering worden van rechtswege aangepast aan het niveau van de bedragen op basis van deze wet.
 
@@ -208,41 +235,41 @@ Onze Minister zendt binnen vier jaar na de inwerkingtreding van deze wet aan de 
 
 5. [Artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2023-10-01&g=2023-10-01), is niet van toepassing op minderjarige kinderen die op de dag voor de inwerkingtreding van deze wet zijn meegeremigreerd en bij inwerkingtreding van deze wet de remigrant en zijn partner met wie de minderjarige kinderen zijn meegeremigreerd, zijn overleden, waarbij onder kinderen mede wordt verstaan de kinderen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2023-10-01&g=2023-10-01), en waarbij onder partner mede wordt verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2023-10-01&g=2023-10-01).
 
-#### Artikel 11
+##### Artikel 11
 
 1. Aan een persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2023-10-01&g=2023-10-01), die voor de dag van inwerkingtreding van deze wet is geremigreerd naar een bestemmingsland en die geen aanspraak heeft op een recht op uitkering op grond van de Remigratieregeling 1985 uitsluitend vanwege het feit, dat hij voorafgaande aan zijn vertrek uit Nederland geen aanvraag daarvoor heeft ingediend, wordt zo nodig in afwijking van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=10&z=2023-10-01&g=2023-10-01), overeenkomstig de bij of krachtens algemene maatregel van bestuur te stellen voorwaarden, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2023-10-01&g=2023-10-01), op aanvraag een periodieke uitkering verstrekt, indien hij op de dag van vertrek recht had op een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), welke uitkering na zijn vertrek uit Nederland op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=36) of [43, eerste tot en met vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43) is verlaagd of ingetrokken.
 
 2. [Artikel 10, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=10&z=2023-10-01&g=2023-10-01), is van overeenkomstige toepassing op een persoon als bedoeld in het eerste lid, zijn partner en zijn minderjarige kinderen die voor de inwerkingtreding van deze wet zijn geremigreerd respectievelijk zijn meegeremigreerd, waarbij onder partner mede wordt verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2023-10-01&g=2023-10-01), en waarbij onder kinderen mede wordt verstaan de kinderen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2023-10-01&g=2023-10-01).
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 De Emigratiewet wordt ingetrokken, met dien verstande dat de op grond van de Basisremigratiesubsidieregeling 1985 en de op grond van de Remigratieregeling 1985 vastgestelde beschikkingen van kracht blijven.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Alle vermogensbestanddelen van het Emigratiebestuur, genoemd in artikel 5, eerste lid, van de Emigratiewet, gaan op het tijdstip waarop deze wet in werking treedt over op de Staat zonder dat daarvoor een akte of betekening nodig is.
 
 2. Wettelijke procedures en rechtsgedingen waarbij het Emigratiebestuur, bedoeld in het eerste lid, betrokken is en die betrekking hebben op de vermogensbestanddelen als bedoeld in het eerste lid, worden met ingang van het tijdstip van overgang voortgezet door de Staat.
 
-#### Artikel 15
+##### Artikel 15
 
 De archiefbescheiden van het Emigratiebestuur, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=14&z=2023-10-01&g=2023-10-01), worden op het tijdstip waarop deze wet in werking treedt overgedragen aan de Staat.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze wet wordt aangehaald als: Remigratiewet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Doelgroep van deze wet zijn:
 
@@ -256,7 +283,7 @@ Doelgroep van deze wet zijn:
 
 - e. vreemdelingen die voor het tijdstip van inwerkingtreding van dit artikel een vergunning tot rechtmatig verblijf in Nederland op grond van [artikel 8, onderdeel c of d, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) hebben ontvangen en personen die zich voor dat tijdstip, in het kader van gezinshereniging met een vreemdeling die in Nederland rechtmatig verblijf heeft op grond van artikel 8, onderdeel c of d, van de Vreemdelingenwet 2000 in Nederland hebben gevestigd.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. De verklaring, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2023-10-01&g=2023-10-01), wordt voor de vertrekdatum schriftelijk ingediend bij de Sociale verzekeringsbank.
 
@@ -268,7 +295,7 @@ Doelgroep van deze wet zijn:
 
 5. Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent het bepaalde in het eerste en derde lid.
 
-#### Artikel 2b
+##### Artikel 2b
 
 1. Om voor de remigratievoorzieningen in aanmerking te komen dient de remigrant:
 
@@ -344,11 +371,11 @@ Doelgroep van deze wet zijn:
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5a
+##### Artikel 5a
 
 De remigrant en, voor zover van toepassing, zijn partner en hun kinderen dan wel hun wettelijke vertegenwoordiger zijn verplicht aan de Sociale verzekeringsbank op haar verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op of de hoogte van de remigratievoorzieningen, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2023-10-01&g=2023-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2023-10-01&g=2023-10-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=11&z=2023-10-01&g=2023-10-01), op het geldend maken van het recht op die voorzieningen of op het te betalen bedrag. Deze verplichting geldt niet indien die feiten en omstandigheden door de Sociale Verzekeringsbank kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens de tweede zin van toepassing is.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Het recht op remigratievoorzieningen eindigt indien de remigrant of, voor zover van toepassing, zijn partner, zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel.
 
@@ -360,7 +387,7 @@ De remigrant en, voor zover van toepassing, zijn partner en hun kinderen dan wel
 
 5. De remigrant of zijn partner die op grond van het tweede lid geen recht op remigratievoorzieningen heeft, heeft met ingang van de eerste dag van de maand nadat hij in vrijheid is gesteld met inachtneming van de bepalingen van deze wet recht op remigratievoorzieningen, in welk geval remigratievoorzieningen als bedoeld in het derde lid, vervallen.
 
-#### Artikel 6aa
+##### Artikel 6aa
 
 1. Het recht op remigratievoorzieningen eindigt indien de remigrant of, voor zover van toepassing, zijn partner of minderjarige kinderen, een uitreiziger is.
 
@@ -368,7 +395,7 @@ De remigrant en, voor zover van toepassing, zijn partner en hun kinderen dan wel
 
 3. De remigrant of zijn partner die op grond van het eerste lid geen recht op remigratievoorzieningen heeft, heeft met ingang van de eerste dag van de maand nadat niet langer het gegronde vermoeden bestaat dat hij zich buiten Nederland bevindt met het doel zich aan te sluiten bij een organisatie als bedoeld in, [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2023-10-01&g=2023-10-01), met inachtneming van de bepalingen van deze wet recht op remigratievoorzieningen, in welk geval remigratievoorzieningen als bedoeld in het tweede lid, vervallen.
 
-#### Artikel 6b
+##### Artikel 6b
 
 1. De Sociale verzekeringsbank legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de remigrant, zijn partner, hun kinderen of hun wettelijke vertegenwoordiger van de verplichting, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2023-10-01&g=2023-10-01). Indien de feiten en omstandigheden, bedoeld in artikel 5a, niet of niet behoorlijk zijn medegedeeld en deze overtreding opzettelijk is begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23). Indien de feiten en omstandigheden, bedoeld in artikel 5a, niet of niet behoorlijk zijn medegedeeld en deze overtreding niet opzettelijk is begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.
 
@@ -392,7 +419,7 @@ De remigrant en, voor zover van toepassing, zijn partner en hun kinderen dan wel
 
 11. Het besluit tot kwijtschelding, bedoeld in het tiende lid, wordt ingetrokken of ten nadele van degene aan wie de bestuurlijke boete is opgelegd herzien indien binnen vijf jaar na het besluit tot kwijtschelding wederom een overtreding wegens eenzelfde gedraging is begaan.
 
-#### Artikel 6c
+##### Artikel 6c
 
 1. Onverminderd het elders bij of krachtens deze wet bepaalde inzake wijziging of intrekking van een besluit tot toekenning van de remigratievoorzieningen, wijzigt de Sociale verzekeringsbank een dergelijk besluit of trekt zij dat in:
 
@@ -410,7 +437,7 @@ De remigrant en, voor zover van toepassing, zijn partner en hun kinderen dan wel
 
 4. Indien de remigrant, zijn partner, een van hun kinderen dan wel hun wettelijke vertegenwoordiger aan alle bij of krachtens deze wet gestelde verplichtingen heeft voldaan, en hij in redelijkheid niet heeft kunnen begrijpen dat de remigratievoorzieningen ten onrechte of op een te hoog bedrag zijn vastgesteld, ziet de Sociale verzekeringsbank met betrekking tot uitkeringstijdvakken in het verleden geheel of gedeeltelijk van wijziging of intrekking af.
 
-#### Artikel 6d
+##### Artikel 6d
 
 1. De Sociale verzekeringsbank besluit de betaling van de remigratievoorzieningen te schorsen, indien zij het gegronde vermoeden heeft dat:
 
@@ -438,7 +465,7 @@ De remigrant en, voor zover van toepassing, zijn partner en hun kinderen dan wel
 
 2. De schorsing duurt maximaal zes maanden.
 
-#### Artikel 6e
+##### Artikel 6e
 
 1. De Sociale verzekeringsbank vordert de bedragen die op grond van deze wet onverschuldigd zijn betaald, terug van de remigrant en, voor zover van toepassing, van zijn partner.
 
@@ -470,7 +497,7 @@ De remigrant en, voor zover van toepassing, zijn partner en hun kinderen dan wel
 
 9. Degene van wie wordt teruggevorderd is verplicht desgevraagd aan de Sociale verzekeringsbank de inlichtingen te verstrekken die voor de terugvordering van belang zijn.
 
-#### Artikel 6f
+##### Artikel 6f
 
 1. De Sociale verzekeringsbank kan bedragen die met toepassing van [artikel 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6e&z=2023-10-01&g=2023-10-01) zijn teruggevorderd en de bestuurlijke boete, bedoeld in [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6b&z=2023-10-01&g=2023-10-01), verrekenen met:
 
@@ -532,7 +559,7 @@ betaalt het orgaan dat deze uitkering verschuldigd is het teruggevorderde bedrag
 
 - b. geldt de beslagvrije voet, bedoeld in de artikelen [475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:116), niet bij de invordering van een bestuurlijke boete bij dwangbevel.
 
-#### Artikel 6g
+##### Artikel 6g
 
 1. Een beschikking op grond van deze wet en de daarop berustende bepalingen wordt gegeven binnen een redelijke termijn na ontvangst van de aanvraag.
 
@@ -552,7 +579,7 @@ betaalt het orgaan dat deze uitkering verschuldigd is het teruggevorderde bedrag
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 6h
+##### Artikel 6h
 
 Een vordering van de Sociale verzekeringsbank als bedoeld in [artikel 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6e&z=2023-10-01&g=2023-10-01) is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288).
 
@@ -562,7 +589,7 @@ Een vordering van de Sociale verzekeringsbank als bedoeld in [artikel 6e](https:
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 6ab
+##### Artikel 6ab
 
 1. De Sociale verzekeringsbank weigert de remigratievoorzieningen geheel of gedeeltelijk, tijdelijk of blijvend, indien de remigrant, zijn partner, hun kinderen of hun wettelijke vertegenwoordiger een verplichting als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2023-10-01&g=2023-10-01) of [8g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8g&z=2023-10-01&g=2023-10-01), niet of niet behoorlijk is nagekomen, dan wel de verplichting, bedoeld in artikel 5a, niet binnen de door de Sociale verzekeringsbank daarvoor vastgestelde termijn is nagekomen.
 

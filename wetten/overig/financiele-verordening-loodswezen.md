@@ -1,13 +1,38 @@
 ---
 title: "Financiële verordening Loodswezen"
 identifier: "BWBR0007548"
-categorie: "Overig"
-publicatiedatum: 2024-10-17
-laatste_update: 2024-10-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007548"
+country: "nl"
+rank: "pbo"
+publication_date: "2024-10-17"
+last_updated: "2024-10-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007548"
+soort: "pbo"
+stam_id: "6639533"
+version_id: "15373292"
+internal_id: "C20962741"
+label_id: "6628044"
+dtd_version: "2.0"
+original_entry_into_force: "2008-05-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007548/2024-10-17/0"
+intitule_bron: "Stcrt.1995-185"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-09-12"
+intitule_published: "1995-09-25"
+intitule_in_force: "1995-09-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-101"
+original_signed_date: "2008-05-20"
+original_published_date: "2008-05-29"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2008-101-p15-SC85847"
+entry_into_force_date: "2008-05-20"
+jci_1_3: "jci1.3:c:BWBR0007548&z=2024-10-17&g=2024-10-17"
+jci_1_0: "1.0:c:BWBR0007548&g=2024-10-17"
+citeertitel_status: "officieel"
+signed_date: "2008-05-20"
+entry_into_force: "2008-05-20"
 ---
-
 # Financiële verordening Loodswezen
 
 Gelet op [artikel 26, derde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=26);
@@ -18,7 +43,7 @@ De verordening als bedoeld in [artikel 26, eerste lid, van de Loodsenwet](https:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze verordening wordt verstaan onder:
 
@@ -52,13 +77,13 @@ In deze verordening wordt verstaan onder:
 
 #### Paragraaf 1. Ten behoeve van registerloodsen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de onderscheiden direct productieve en indirect productieve loodstaken gelden de vergoedingen zoals opgenomen in de tot deze verordening behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&bijlage=II&z=2024-10-17&g=2024-10-17).
 
 2. De vergoedingen bedoeld in het eerste lid zijn op basis van de gevalideerde administraties en vastgestelde jaarrekeningen alsmede de gemeenschappelijke exploitatie van de samenwerkingsverbanden over 2023 berekend volgens het model als opgenomen in de tot deze verordening behorende [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&bijlage=III&z=2024-10-17&g=2024-10-17).
 
-#### Artikel 3
+##### Artikel 3
 
 Een samenwerkingsverband is verplicht de krachtens [artikel 3, zesde lid, van het Financieel besluit Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007549&artikel=3) ontvangen bedragen als volgt te vergoeden:
 
@@ -66,11 +91,11 @@ Een samenwerkingsverband is verplicht de krachtens [artikel 3, zesde lid, van he
 
 - b. aan een niet aangesloten registerloods de vergoeding als bedoeld in de tot deze verordening behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&bijlage=II&z=2024-10-17&g=2024-10-17) voor de desbetreffende verrichte direct productieve loodstaak en indirect productieve loodstaak.
 
-#### Artikel 4
+##### Artikel 4
 
 De vergoedingen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=2&z=2024-10-17&g=2024-10-17), worden geïndexeerd overeenkomstig [artikel 3.1 van het Besluit markttoezicht registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=3.1).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De vergoedingen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&hoofdstuk=II&paragraaf=1&artikel=2&z=2024-10-17&g=2024-10-17), worden jaarlijks door de algemene raad nader vastgesteld aan de hand van de daarvoor relevante en door de door de ledenvergadering van de Nederlandse Loodsencorporatie aangewezen accountant gevalideerde gegevens in de administraties en jaarrekeningen van de samenwerkingsverbanden alsmede van de gemeenschappelijke exploitatie van de samenwerkingsverbanden. Deze jaarlijkse nadere vaststelling bestaat uit een voorlopige vaststelling en een definitieve vaststelling.
 
@@ -88,7 +113,7 @@ De vergoedingen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.n
 
 #### Paragraaf 2. Direct productieve loodstaken
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het aantal te vergoeden verrichtingen wordt bepaald door het aantal registerloodsen waarvan op grond van een wettelijke verplichting of op verzoek van de kapitein dan wel van de verkeersdeelnemer gebruik is gemaakt.
 
@@ -96,7 +121,7 @@ De vergoedingen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.n
 
 #### Paragraaf 3. Aan de bij verordening aangewezen rechtspersoon
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bruto-vergoeding uit hoofde van functioneel leeftijdspensioen van een registerloods bedraagt voor de eerste zestig maanden € 58.544,91 op jaarbasis en daarna € 52.103,04 op jaarbasis.
 
@@ -110,11 +135,11 @@ De vergoedingen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.n
 
 #### Paragraaf 4. Financiering ondersteunende taken
 
-#### Artikel 8
+##### Artikel 8
 
 De vaststelling van de bedragen, de verschuldigdheid daarvan en de maatstaven voor de vaststelling en de betaling met betrekking tot de taken van de ten behoeve van de registerloodsen te verlenen diensten geschiedt volgens de regels met betrekking tot de samenwerkingsverbanden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het door de organisatie te betalen bedrag uit hoofde van functioneel leeftijdsontslag van personeel wordt berekend op basis van de voor dat personeel bij of krachtens de collectieve arbeidsovereenkomst geldende uitkeringsregeling wegens functioneel leeftijdsontslag.
 
@@ -124,15 +149,15 @@ De vaststelling van de bedragen, de verschuldigdheid daarvan en de maatstaven vo
 
 #### Paragraaf 5. Aan de met het beheer van het bufferfonds belaste rechtspersoon
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Deze verordening wordt geplaatst in de Staatscourant en treedt in werking met ingang van 1 oktober 1995.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze verordening wordt geplaatst in de Staatscourant en treedt in werking met ingang van 1 oktober 1995.
 
@@ -148,35 +173,35 @@ Het loodsgebied, bedoeld in [artikel 1, onderdeel i, van de Financiële verorden
 
 **Vastgesteld door de algemene raad van de Nederlandse loodsencorporatie op 12 september 1995.**
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Als vaststelling voor de tijdsduur van het loodsen vanaf de wal geldt het door de registerloods ingevulde en ondertekende loodsjournaal, zoals dit is vastgesteld krachtens [artikel 2.5, eerste lid, van het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&artikel=2.5).
 
 2. Voor het loodsen vanaf de wal geldt de uurvergoeding als bedoeld in de tot deze verordening behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&bijlage=II&z=2024-10-17&g=2024-10-17) maal de werkelijke tijdsduur van het loodsen vanaf de wal.
 
-#### Artikel 6b
+##### Artikel 6b
 
 Als vaststelling van een afbestelling geldt de registratie daarvan in het inzet- en planningssysteem.
 
-#### Artikel 6c
+##### Artikel 6c
 
 De vergoeding voor een in [artikel 4.6 van het Besluit markttoezicht registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=4.6) genoemde bijzondere loodsreis is gelijk aan het voor de betreffende bijzondere loodsreis vastgestelde tarief.
 
 #### Paragraaf 4. Financiering ondersteunende taken
 
-#### Artikel 6d
+##### Artikel 6d
 
 1. De loodsdienstleider wordt overeenkomstig de regels van het samenwerkingsbestand aangewezen.
 
 2. Indien de functie van loodsdienstleider wordt vervuld door een bestuurder van de regionale loodsencorporatie binnen de tijd dat hij als bestuurder is vrijgesteld, geldt geen vergoeding voor loodsdienstleider.
 
-#### Artikel 6e
+##### Artikel 6e
 
 1. De vergoeding voor het verzorgen van de opleiding tot MMP, alsmede bijscholing ten behoeve van het beroep aan registerloodsen door de daarvoor aangewezen registerloodsen wordt, bij minder dan acht effectieve lesuren per dag, naar evenredigheid verlaagd.
 
 2. Het aantal te vergoeden opleidingsdagen voor het verzorgen van opleidingen wordt door de algemene raad bepaald op basis van goedgekeurde opleidingsplannen, waaronder begrepen bijscholingsplannen aangaande of in het belang van het beroep van registerloods, van het betreffende jaar of op basis van een door de algemene raad vast te stellen forfaitaire basis.
 
-#### Artikel 6f
+##### Artikel 6f
 
 1. De vergoeding voor deelname aan de door de algemene raad vastgestelde taken wordt, bij minder dan acht effectieve uren per dag, naar evenredigheid verlaagd.
 
@@ -184,7 +209,7 @@ De vergoeding voor een in [artikel 4.6 van het Besluit markttoezicht registerloo
 
 #### Paragraaf 5. Aan de met het beheer van het bufferfonds belaste rechtspersoon
 
-#### Artikel 6g
+##### Artikel 6g
 
 De vergoedingen voor de kosten, bedoeld in [artikel 3, tweede lid, onderdeel b, van het Financieel besluit Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007549&artikel=3) op grond van een door de algemene raad vastgestelde begroting, geschieden door tussenkomst van de aangewezen organisatie, met uitzondering van de kosten met betrekking tot de te verzorgen taak, zoals bedoeld in [artikel 13, eerste lid, onderdeel b, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=13).
 
@@ -220,11 +245,11 @@ Ligt vanaf 22 mei 2008 ter inzage bij de Nederlandse Loodsencorporatie, te Perni
 
 **Vastgesteld door de algemene raad van de Nederlandse loodsencorporatie op 12 september 1995.**
 
-#### Artikel 7a
+##### Artikel 7a
 
 De reserveringen met betrekking tot het functioneel leeftijdspensioen van registerloodsen die moeten plaatsvinden vanuit de jaarlijks werkelijke in rekening gebrachte som van loodsgelden worden door de rechtspersoon die belast is met de uitkering van het leeftijdspensioen aan registerloodsen gestort in een daarvoor bestemd volledig separaat fonds of andere overeenkomstige voorziening.
 
-#### Artikel 8a
+##### Artikel 8a
 
 De reserveringen met betrekking tot het functioneel leeftijdsontslag die moeten plaatsvinden vanuit de jaarlijks werkelijke in rekening gebrachte som van loodsgelden worden door de organisatie gestort in een daarvoor bestemd volledig separaat fonds of andere overeenkomstige voorziening.
 
@@ -260,7 +285,7 @@ Ligt vanaf 22 mei 2008 ter inzage bij de Nederlandse Loodsencorporatie, te Perni
 
 #### Paragraaf 5. Aan de met het beheer van het bufferfonds belaste rechtspersoon
 
-#### Artikel 10
+##### Artikel 10
 
 1. De algemene raad draagt zorg voor het bestaan van een rechtspersoon tot beheer van een bufferfonds voor financiering van risico’s met betrekking tot het loodsen en de bedrijfsvoering.
 
@@ -276,7 +301,7 @@ Ligt vanaf 22 mei 2008 ter inzage bij de Nederlandse Loodsencorporatie, te Perni
 
 6. Eveneens in afwijking van het vierde lid vindt er gedurende een jaar geen dotatie plaats indien bij het bereikt hebben van de maximale omvang van het bufferfonds de maximale omvang volgens de jaarrekening uitsluitend is verminderd als gevolg van de waardedaling van het vermogen van het bufferfonds.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze verordening kan worden aangehaald als Financiële verordening Loodswezen.
 

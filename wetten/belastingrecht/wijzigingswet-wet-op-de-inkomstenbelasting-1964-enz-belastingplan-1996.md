@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (belastingplan 1996)"
+title: "Wet van 15 december 1995 houdende wijziging van enkele belastingwetten (belastingplan 1996)"
 identifier: "BWBR0007747"
-categorie: "Belastingrecht"
-publicatiedatum: 1997-01-01
-laatste_update: 1997-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007747"
+country: "nl"
+rank: "wet"
+publication_date: "1997-01-01"
+last_updated: "1997-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007747"
+soort: "wet"
+stam_id: "534883"
+version_id: "784682"
+internal_id: "C784681"
+label_id: "519394"
+dtd_version: "2.0"
+original_entry_into_force: "1996-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007747/1997-01-01/0"
+intitule_bron: "Stb.1995-642"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-15"
+intitule_published: "1995-12-28"
+intitule_in_force: "1995-12-28"
+intitule_status: "goed"
+original_publication: "Stb.1995-642"
+original_signed_date: "1995-12-15"
+original_published_date: "1995-12-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "24463"
+original_url_id: "stb-1995-642"
+entry_into_force_date: "1996-01-01"
+entry_into_force_dossier: "24463"
+jci_1_3: "jci1.3:c:BWBR0007747&z=1997-01-01&g=1997-01-01"
+jci_1_0: "1.0:c:BWBR0007747&g=1997-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (belastingplan 1996)"
+signed_date: "1995-12-15"
+entry_into_force: "1996-01-01"
 ---
-
-# Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (belastingplan 1996)
+# Wet van 15 december 1995 houdende wijziging van enkele belastingwetten (belastingplan 1996)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,63 +44,63 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is in het kader van het
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 In artikel 53**a**, eerste lid, van de Wet op de inkomstenbelasting 1964 wordt met ingang van 1 januari 1997 in de tarieftabel het in kolom IV eerstvermelde percentage vervangen door: 6,2. Voorts wordt met ingang van dat jaar het in kolom III eerstvermelde bedrag vervangen door het bedrag dat wordt berekend door 6,2% te nemen van het in kolom II eerstvermelde bedrag en de uitkomst van die berekening naar beneden af te ronden op hele guldens. Ten slotte wordt met ingang van dat jaar het in kolom III als tweede vermelde bedrag vervangen door het bedrag dat wordt berekend door 50% te nemen van het verschil van het in kolom I eerstvermelde bedrag en het in kolom II als tweede vermelde bedrag, en de uitkomst van deze berekening naar beneden af te ronden op hele guldens en te verhogen met het op basis van de vorige volzin berekende in kolom III eerstvermelde bedrag.
 
-#### Artikel IV
+##### Artikel IV
 
 In artikel 53**a**, eerste lid, van de Wet op de inkomstenbelasting 1964 wordt met ingang van 1 januari 1998 in de tarieftabel het in kolom IV eerstvermelde percentage vervangen door: 4,9. Voorts wordt met ingang van dat jaar het in kolom III eerstvermelde bedrag vervangen door het bedrag dat wordt berekend door 4,9% te nemen van het in kolom II eerstvermelde bedrag en de uitkomst van die berekening naar beneden af te ronden op hele guldens. Ten slotte wordt met ingang van dat jaar het in kolom III als tweede vermelde bedrag vervangen door het bedrag dat wordt berekend door 50% te nemen van het verschil van het in kolom I eerstvermelde bedrag en het in kolom II als tweede vermelde bedrag, en de uitkomst van deze berekening naar beneden af te ronden op hele guldens en te verhogen met het op basis van de vorige volzin berekende in kolom III eerstvermelde bedrag.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VI
+##### Artikel VI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VII
+##### Artikel VII
 
 In [artikel 20**a**, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a) wordt met ingang van 1 januari 1997 in de tarieftabel het in kolom IV eerstvermelde percentage vervangen door: 6,2. Voorts wordt met ingang van dat jaar het in kolom III eerstvermelde bedrag vervangen door het bedrag dat wordt berekend door 6,2% te nemen van het in kolom II eerstvermelde bedrag en de uitkomst van die berekening naar beneden af te ronden op hele guldens. Ten slotte wordt met ingang van dat jaar het in kolom III als tweede vermelde bedrag vervangen door het bedrag dat wordt berekend door 50% te nemen van het verschil van het in kolom I eerstvermelde bedrag en het in kolom II als tweede vermelde bedrag, en de uitkomst van deze berekening naar beneden af te ronden op hele guldens en te verhogen met het op basis van de vorige volzin berekende in kolom III eerstvermelde bedrag.
 
-#### Artikel VIII
+##### Artikel VIII
 
 In [artikel 20**a**, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a) wordt met ingang van 1 januari 1998 in de tarieftabel het in kolom IV eerstvermelde percentage vervangen door: 4,9. Voorts wordt met ingang van dat jaar het in kolom III eerstvermelde bedrag vervangen door het bedrag dat wordt berekend door 4,9% te nemen van het in kolom II eerstvermelde bedrag en de uitkomst van die berekening naar beneden af te ronden op hele guldens. Ten slotte wordt met ingang van dat jaar het in kolom III als tweede vermelde bedrag vervangen door het bedrag dat wordt berekend door 50% te nemen van het verschil van het in kolom I eerstvermelde bedrag en het in kolom II als tweede vermelde bedrag, en de uitkomst van deze berekening naar beneden af te ronden op hele guldens en te verhogen met het op basis van de vorige volzin berekende in kolom III eerstvermelde bedrag.
 
-#### Artikel IX
+##### Artikel IX
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel X
+##### Artikel X
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XI
+##### Artikel XI
 
 Bij algemene maatregel van bestuur zal worden bepaald dat in bijlage B bij het [Uitvoeringsbesluit omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002633), met ingang van 1 januari 1996, onderdeel **b**, nummer 17 vervalt.
 
-#### Artikel XII
+##### Artikel XII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XV
+##### Artikel XV
 
 Deze wet treedt in werking met ingang van 1 januari 1996 met dien verstande dat:
 

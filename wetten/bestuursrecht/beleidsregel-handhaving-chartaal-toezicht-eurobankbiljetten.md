@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel handhaving chartaal toezicht eurobankbiljetten"
 identifier: "BWBR0035112"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-05-15
-laatste_update: 2014-05-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035112"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-05-15"
+last_updated: "2014-05-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035112"
+soort: "zbo"
+stam_id: "12670823"
+version_id: "21407582"
+internal_id: "C30735881"
+label_id: "12641134"
+dtd_version: "2.0"
+original_entry_into_force: "2014-05-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035112/2014-05-15/0"
+intitule_bron: "Stcrt.2014-13582"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-05-07"
+intitule_published: "2014-05-15"
+intitule_in_force: "2014-05-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-13582"
+original_signed_date: "2014-05-07"
+original_published_date: "2014-05-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-13582"
+entry_into_force_date: "2014-05-15"
+jci_1_3: "jci1.3:c:BWBR0035112&z=2014-05-15&g=2014-05-15"
+jci_1_0: "1.0:c:BWBR0035112&g=2014-05-15"
+citeertitel_status: "officieel"
+signed_date: "2014-05-07"
+entry_into_force: "2014-05-15"
 ---
-
 # Beleidsregel handhaving chartaal toezicht eurobankbiljetten
 
 ### 1. Inleiding

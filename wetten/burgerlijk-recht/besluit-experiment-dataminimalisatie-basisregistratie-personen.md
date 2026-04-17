@@ -1,13 +1,39 @@
 ---
-title: "Besluit experiment dataminimalisatie basisregistratie personen"
+title: "Besluit van 11 april 2024, houdende regels waarmee tijdelijk wordt afgeweken van de Wet basisregistratie personen in het kader van een experiment met beperking van de verstrekking van gegevens uit de basisregistratie personen (Besluit experiment dataminimalisatie basisregistratie personen)"
 identifier: "BWBR0049596"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2024-04-22
-laatste_update: 2024-04-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049596"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-04-22"
+last_updated: "2024-04-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049596"
+soort: "AMvB"
+stam_id: "17079483"
+version_id: "30058242"
+internal_id: "C43077751"
+label_id: "16988394"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049596/2024-04-22/0"
+intitule_bron: "Stb.2024-96"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-04-11"
+intitule_published: "2024-04-19"
+intitule_in_force: "2024-04-19"
+intitule_status: "goed"
+original_publication: "Stb.2024-96"
+original_signed_date: "2024-04-11"
+original_published_date: "2024-04-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2024-96"
+entry_into_force_date: "2024-04-22"
+jci_1_3: "jci1.3:c:BWBR0049596&z=2024-04-22&g=2024-04-22"
+jci_1_0: "1.0:c:BWBR0049596&g=2024-04-22"
+citeertitel_status: "officieel"
+short_title: "Besluit experiment dataminimalisatie basisregistratie personen"
+signed_date: "2024-04-11"
+entry_into_force: "2024-04-22"
 ---
-
 # Besluit van 11 april 2024, houdende regels waarmee tijdelijk wordt afgeweken van de Wet basisregistratie personen in het kader van een experiment met beperking van de verstrekking van gegevens uit de basisregistratie personen (Besluit experiment dataminimalisatie basisregistratie personen)
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 13 oktober 2023, nr. 2023-0000614128;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -42,17 +68,17 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Experiment
 
-#### Artikel 2.1. Doel en duur
+##### Artikel 2.1. Doel en duur
 
 Met het oogmerk om de verstrekking van gegevens uit de basisregistratie te beperken, vindt voor de periode van vier jaar een experiment als bedoeld in [artikel 4.16a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=4.16a) plaats.
 
-#### Artikel 2.2. Afwijken van de wet
+##### Artikel 2.2. Afwijken van de wet
 
 1. Onverminderd het tweede lid, vindt het experiment plaats overeenkomstig hetgeen bij en krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715) is bepaald.
 
 2. In het kader van het experiment wordt afgeweken van de [artikelen 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.14), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.2), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.3), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.5), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.8) en [3.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.14).
 
-#### Artikel 2.3. Reikwijdte: bewerking gegevens tot informatie
+##### Artikel 2.3. Reikwijdte: bewerking gegevens tot informatie
 
 1. Onze Minister is bevoegd om de algemene en administratieve gegevens te bewerken overeenkomstig de systeembeschrijving, op de volgende, met elkaar te combineren, wijzen:
 
@@ -112,7 +138,7 @@ Met het oogmerk om de verstrekking van gegevens uit de basisregistratie te beper
 
 - u. de geldigheid van het reisdocument van de ingeschrevene.
 
-#### Artikel 2.4. Reikwijdte: verstrekking van informatie aan overheidsorgaan
+##### Artikel 2.4. Reikwijdte: verstrekking van informatie aan overheidsorgaan
 
 1. Onze Minister verstrekt desgevraagd informatie aan een overheidsorgaan.
 
@@ -124,7 +150,7 @@ Met het oogmerk om de verstrekking van gegevens uit de basisregistratie te beper
 
 - c. de verstrekking van informatie noodzakelijk is voor de goede vervulling van de taak die is of de taken die zijn bepaald in het autorisatiebesluit, bedoeld in onderdeel a.
 
-#### Artikel 2.5. Reikwijdte: verstrekking van informatie aan derde
+##### Artikel 2.5. Reikwijdte: verstrekking van informatie aan derde
 
 1. Onze Minister verstrekt desgevraagd informatie aan een derde.
 
@@ -136,7 +162,7 @@ Met het oogmerk om de verstrekking van gegevens uit de basisregistratie te beper
 
 - c. de verstrekking van informatie noodzakelijk is voor de goede vervulling van de taak die is of de taken die zijn bepaald in het autorisatiebesluit, bedoeld in onderdeel a.
 
-#### Artikel 2.6. Reikwijdte: verstrekking van informatie niet dan na convenant
+##### Artikel 2.6. Reikwijdte: verstrekking van informatie niet dan na convenant
 
 1. Onze Minister verstrekt geen informatie dan nadat het overheidsorgaan of de derde met hem een convenant als bedoeld in [artikel 2.8, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.8&z=2024-04-22&g=2024-04-22), heeft gesloten.
 
@@ -146,7 +172,7 @@ Met het oogmerk om de verstrekking van gegevens uit de basisregistratie te beper
 
 4. [Artikel 3.8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.8) is van overeenkomstige toepassing op een verstrekking als bedoeld in het tweede lid.
 
-#### Artikel 2.7. Terugmelding
+##### Artikel 2.7. Terugmelding
 
 1. [Artikel 2.34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.34) is van overeenkomstige toepassing, met dien verstande dat het overheidsorgaan dat gerede twijfel heeft over de juistheid van een authentiek gegeven dat aan de informatie ten grondslag ligt hiervan mededeling doet aan het college van burgemeester en wethouders van de bijhoudingsgemeente.
 
@@ -158,7 +184,7 @@ Met het oogmerk om de verstrekking van gegevens uit de basisregistratie te beper
 
 5. Indien Onze Minister besluit nader onderzoek in te stellen naar de juistheid van de informatie, stelt Onze Minister het college van burgemeester en wethouders dat daaromtrent een mededeling als bedoeld in het tweede lid heeft gedaan en het overheidsorgaan dat een mededeling als bedoeld in het eerste lid heeft gedaan, na afloop van het nader onderzoek ervan in kennis of naar aanleiding van de mededeling informatie is verbeterd.
 
-#### Artikel 2.8. Inhoud convenanten
+##### Artikel 2.8. Inhoud convenanten
 
 1. Onze Minister sluit een convenant:
 
@@ -170,23 +196,23 @@ Met het oogmerk om de verstrekking van gegevens uit de basisregistratie te beper
 
 3. Een convenant als bedoeld in het eerste lid, aanhef en onderdeel b, heeft tot doel om afspraken vast te leggen over periodieke overleggen, de beheereisen, technische aansluitvoorwaarden en dienstverleningsafspraken, financiële verplichtingen, de periodiciteit van de monitoring en evaluatie en de wijze waarop het convenant kan worden gewijzigd, opgezegd of beëindigd.
 
-#### Artikel 2.9. Maximum aantal autorisatiebesluiten
+##### Artikel 2.9. Maximum aantal autorisatiebesluiten
 
 Onze Minister neemt ten hoogste 75 autorisatiebesluiten als bedoeld in [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.4&z=2024-04-22&g=2024-04-22), en [2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.5&z=2024-04-22&g=2024-04-22).
 
-#### Artikel 2.10. Inrichting, werking en beveiliging
+##### Artikel 2.10. Inrichting, werking en beveiliging
 
 1. De voorziening voor de bewerking van gegevens, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.3&z=2024-04-22&g=2024-04-22), is een centrale voorziening.
 
 2. De verstrekking van informatie, bedoeld in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.4&z=2024-04-22&g=2024-04-22), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.5&z=2024-04-22&g=2024-04-22), is onderdeel van de systeembeschrijving.
 
-#### Artikel 2.11. Rechten van de burger
+##### Artikel 2.11. Rechten van de burger
 
 1. De [artikelen 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.10), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.11) en [3.22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.22) zijn van overeenkomstige toepassing op de verstrekking van informatie, bedoeld in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.4&z=2024-04-22&g=2024-04-22), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.5&z=2024-04-22&g=2024-04-22) en [2.6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.6&z=2024-04-22&g=2024-04-22).
 
 2. Artikel 18 van de verordening is met betrekking tot de bewerking van gegevens, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.3&z=2024-04-22&g=2024-04-22), en de verstrekking van informatie, bedoeld in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.4&z=2024-04-22&g=2024-04-22), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.5&z=2024-04-22&g=2024-04-22) en [2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.6&z=2024-04-22&g=2024-04-22), niet van toepassing.
 
-#### Artikel 2.12. Kosten
+##### Artikel 2.12. Kosten
 
 Met betrekking tot de verstrekking van informatie op grond van [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.4&z=2024-04-22&g=2024-04-22) en [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.5&z=2024-04-22&g=2024-04-22), is hetgeen bij of krachtens [artikel 1.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.14) is bepaald van overeenkomstige toepassing, met dien verstande dat:
 
@@ -196,7 +222,7 @@ Met betrekking tot de verstrekking van informatie op grond van [artikel 2.4](htt
 
 ### Hoofdstuk 3. Monitoring en evaluatie
 
-#### Artikel 3.1. Wijze
+##### Artikel 3.1. Wijze
 
 1. Het experiment wordt na aanvang gemonitord en voor de afloop ervan geëvalueerd door een onafhankelijke instelling.
 
@@ -204,7 +230,7 @@ Met betrekking tot de verstrekking van informatie op grond van [artikel 2.4](htt
 
 3. De colleges van burgemeester en wetshouders die informatie verstrekken, verstrekken Onze Minister desgevraagd en uit eigen beweging de gegevens en inlichtingen die voor monitoring en evaluatie noodzakelijk zijn.
 
-#### Artikel 3.2. Criteria
+##### Artikel 3.2. Criteria
 
 Criteria aan de hand waarvan in het kader van monitoring en evaluatie als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=3&artikel=3.1&z=2024-04-22&g=2024-04-22) de doeltreffendheid en de effecten van het experiment worden bepaald, zijn:
 
@@ -246,11 +272,11 @@ Criteria aan de hand waarvan in het kader van monitoring en evaluatie als bedoel
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 4.1. Inwerkingtreding en verval
+##### Artikel 4.1. Inwerkingtreding en verval
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip en vervalt vier jaar na het tijdstip van inwerkingtreding of zoveel eerder als bij koninklijk besluit wordt bepaald, tenzij voor het einde van die termijn een voordracht plaatsvindt van een voorstel van wet waarmee in een onderwerp van dit besluit wordt voorzien en Onze Minister de werkingsduur van dit besluit voor zover het dat onderwerp betreft verlengt tot het tijdstip waarop het voorstel tot wet is verheven en die wet in werking treedt, dan wel het voorstel is verworpen of ingetrokken.
 
-#### Artikel 4.2. Citeertitel
+##### Artikel 4.2. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit experiment dataminimalisatie basisregistratie personen.
 

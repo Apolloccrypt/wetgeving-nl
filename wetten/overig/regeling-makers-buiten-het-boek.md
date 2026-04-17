@@ -1,13 +1,35 @@
 ---
 title: "Regeling Makers buiten het boek"
 identifier: "BWBR0049964"
-categorie: "Overig"
-publicatiedatum: 2025-11-26
-laatste_update: 2025-11-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049964"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-11-26"
+last_updated: "2025-11-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049964"
+soort: "zbo"
+stam_id: "17166483"
+version_id: "30217332"
+internal_id: "C43287191"
+label_id: "17074634"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049964/2025-11-26/0"
+intitule_bron: "Stcrt.2024-21297"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-07-15"
+intitule_in_force: "2024-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-21297"
+original_published_date: "2024-07-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-21297"
+entry_into_force_date: "2024-07-16"
+jci_1_3: "jci1.3:c:BWBR0049964&z=2025-11-26&g=2025-11-26"
+jci_1_0: "1.0:c:BWBR0049964&g=2025-11-26"
+citeertitel_status: "officieel"
+entry_into_force: "2024-07-16"
 ---
-
 # Regeling Makers buiten het boek
 
 gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
@@ -18,7 +40,7 @@ gelet op het [Algemeen reglement Nederlands Letterenfonds](https://wetten.overhe
 
 besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -44,11 +66,11 @@ In deze regeling wordt verstaan onder:
 
 - **professionele producent:** een rechtspersoon gevestigd in het Koninkrijk met volledige rechtsbevoegdheid die op continue basis bedrijfsactiviteiten ontplooit ten behoeve van het publiek beschikbaar stellen van een werk.
 
-#### Artikel 2. Activiteiten waarvoor subsidie kan worden verleend
+##### Artikel 2. Activiteiten waarvoor subsidie kan worden verleend
 
 Deze regeling is van toepassing op projecten van makers die leiden tot literaire creaties anders dan een boek of tijdschriftpublicatie, waarvoor geen subsidie is of wordt verleend door Literatuur Vlaanderen, het Fonds Podiumkunsten, Stimuleringsfonds Creatieve Industrie, Mondriaanfonds, Filmfonds of het Fonds Cultuurparticipatie en die ten tijde van de subsidieverlening nog niet zijn gerealiseerd. Daarnaast kan een deel van de subsidie worden besteed aan artistieke ontwikkeldoelen die de maker noodzakelijk acht om het project te kunnen realiseren.
 
-#### Artikel 3. Vereisten aanvrager
+##### Artikel 3. Vereisten aanvrager
 
 1. De aanvrager is een natuurlijk persoon.
 
@@ -64,7 +86,7 @@ en die in het jaar waarvoor het subsidiebedrag wordt verleend een belastbaar ver
 
 3. Geen aanvraag kan worden ingediend door deelnemers aan de talentontwikkelingsprogramma’s van het Letterenfonds, door schrijvers van theaterteksten of door een aanvrager die werkzaam is bij of voor een betrokken presentatiepartner.
 
-#### Artikel 4. Vereisten aanvragen
+##### Artikel 4. Vereisten aanvragen
 
 1. De subsidie wordt uitsluitend aangevraagd met gebruikmaking van het aanvraagformulier dat op de website van het Letterenfonds beschikbaar wordt gesteld.
 
@@ -82,7 +104,7 @@ en die in het jaar waarvoor het subsidiebedrag wordt verleend een belastbaar ver
 
 8. Aanvragen kunnen na een afwijzend besluit op grond van de toets aan de beoordelingscriteria, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049964&artikel=6&z=2025-11-26&g=2025-11-26), niet meer opnieuw worden ingediend.
 
-#### Artikel 5. Advies inwinnen
+##### Artikel 5. Advies inwinnen
 
 1. Over aanvragen die voldoen aan de vereisten, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049964&artikel=3&z=2025-11-26&g=2025-11-26) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049964&artikel=4&z=2025-11-26&g=2025-11-26), en waarop geen van de weigeringsgronden van toepassing is, wordt door het bestuur advies gevraagd bij ten minste twee externe adviseurs.
 
@@ -90,7 +112,7 @@ en die in het jaar waarvoor het subsidiebedrag wordt verleend een belastbaar ver
 
 3. Het bestuur betrekt deze adviezen bij zijn besluit. Subsidie wordt slechts toegekend als de aanvraag op alle beoordelingscriteria positief is beoordeeld.
 
-#### Artikel 6. Beoordelingscriteria
+##### Artikel 6. Beoordelingscriteria
 
 1. Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
@@ -104,13 +126,13 @@ en die in het jaar waarvoor het subsidiebedrag wordt verleend een belastbaar ver
 
 2. Voor toekenning van de aanvraag dient het oordeel over alle in lid 1 genoemde criteria positief te zijn.
 
-#### Artikel 7. Hoogte van de subsidie
+##### Artikel 7. Hoogte van de subsidie
 
 1. Per aanvraag kan een bedrag van € 7.500 of € 15.000 worden aangevraagd.
 
 2. Het bestuur besluit over de hoogte van de subsidie.
 
-#### Artikel 8. Aanvraagperiode, verdelingssysteem en subsidieplafond
+##### Artikel 8. Aanvraagperiode, verdelingssysteem en subsidieplafond
 
 1. Jaarlijks is er één periode waarin de aanvragen worden ingediend. De start- en einddatum van die periode worden bekendgemaakt op de website van het Nederlands Letterenfonds.
 
@@ -120,7 +142,7 @@ en die in het jaar waarvoor het subsidiebedrag wordt verleend een belastbaar ver
 
 4. Het subsidieplafond wordt bekendgemaakt op de website van het Letterenfonds.
 
-#### Artikel 9. Verplichtingen subsidieontvanger
+##### Artikel 9. Verplichtingen subsidieontvanger
 
 1. De subsidie wordt door de subsidieontvanger besteed aan de uitvoering van het project.
 
@@ -136,17 +158,17 @@ en die in het jaar waarvoor het subsidiebedrag wordt verleend een belastbaar ver
 
 7. De subsidieontvanger werkt mee aan door of namens het Letterenfonds ingesteld onderzoek dat erop is gericht het Letterenfonds inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.
 
-#### Artikel 10. Verlening en vaststelling
+##### Artikel 10. Verlening en vaststelling
 
 1. Bij het verlenen van de subsidie geeft het bestuur direct een beschikking tot subsidievaststelling;
 
 2. In de beschikking wordt de wijze van betaling van de subsidie bepaald.
 
-#### Artikel 11. Termijnen
+##### Artikel 11. Termijnen
 
 De beslistermijn bedraagt dertien weken na ontvangst van de aanvraag.
 
-#### Artikel 12. Intrekkings- en wijzigingsgronden subsidievaststelling
+##### Artikel 12. Intrekkings- en wijzigingsgronden subsidievaststelling
 
 1. Het bestuur kan de subsidievaststelling intrekken of wijzigen als de ontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -156,11 +178,11 @@ De beslistermijn bedraagt dertien weken na ontvangst van de aanvraag.
 
 4. Het bedrag waarmee de subsidie eventueel wordt verlaagd, wordt verrekend met eventueel nog te betalen gedeelten van de subsidie of teruggevorderd.
 
-#### Artikel 13. Hardheidsclausule
+##### Artikel 13. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 14. Slot en overgangsbepalingen
+##### Artikel 14. Slot en overgangsbepalingen
 
 1. In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.
 
@@ -170,11 +192,11 @@ Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een
 
 4. In afwijking van het derde lid blijft de **Pilotregeling Makers buiten het boek** van toepassing op voor het tijdstip van inwerkingtreding van deze regeling tijdig ingestelde bezwaar- en beroepschriften.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2029. In afwijking van de eerste volzin blijft deze regeling zoals hij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als Regeling Makers buiten het boek.
 

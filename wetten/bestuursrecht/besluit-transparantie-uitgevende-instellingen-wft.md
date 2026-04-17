@@ -1,13 +1,39 @@
 ---
-title: "Besluit transparantie uitgevende instellingen Wft"
+title: "Besluit van 16 december 2008, houdende bepalingen tot implementatie van richtlijn nr. 2007/14/EG van de Commissie van de Europese Gemeenschappen van 8 maart 2007 tot vaststelling van concrete uitvoeringsvoorschriften van een aantal bepalingen van richtlijn 2004/109/EG betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten (PbEU L 69) (Besluit uitvoeringsrichtlijn transparantie uitgevende instellingen Wft)"
 identifier: "BWBR0024950"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-07-21
-laatste_update: 2019-07-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024950"
+country: "nl"
+rank: "amvb"
+publication_date: "2019-07-21"
+last_updated: "2019-07-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024950"
+soort: "AMvB"
+stam_id: "9823393"
+version_id: "15978792"
+internal_id: "C21907641"
+label_id: "9800124"
+dtd_version: "2.0"
+original_entry_into_force: "2009-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024950/2019-07-21/0"
+intitule_bron: "Stb.2008-578"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-16"
+intitule_published: "2008-12-24"
+intitule_in_force: "2008-12-24"
+intitule_status: "goed"
+original_publication: "Stb.2008-578"
+original_signed_date: "2008-12-16"
+original_published_date: "2008-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2008-578"
+entry_into_force_date: "2009-01-01"
+jci_1_3: "jci1.3:c:BWBR0024950&z=2019-07-21&g=2019-07-21"
+jci_1_0: "1.0:c:BWBR0024950&g=2019-07-21"
+citeertitel_status: "officieel"
+short_title: "Besluit transparantie uitgevende instellingen Wft"
+signed_date: "2008-12-16"
+entry_into_force: "2009-01-01"
 ---
-
 # Besluit van 16 december 2008, houdende bepalingen tot implementatie van richtlijn nr. 2007/14/EG van de Commissie van de Europese Gemeenschappen van 8 maart 2007 tot vaststelling van concrete uitvoeringsvoorschriften van een aantal bepalingen van richtlijn 2004/109/EG betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten (PbEU L 69) (Besluit uitvoeringsrichtlijn transparantie uitgevende instellingen Wft)
 
 Op de voordracht van Onze Minister van Financiën van 21 november 2008, Generale Thesaurie, Directie Financiële Markten, Afdeling Marktgedrag/Effectenverkeer, nr. FM 2008-2941 M;
@@ -32,23 +58,23 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk III. Bepalingen over uitstel algemeenverkrijgbaarstelling koersgevoelige informatie
 
-#### Artikel 13
+##### Artikel 13
 
 Het prospectus, bedoeld in [artikel 5:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:3), bevat ten minste de gegevens, bedoeld in artikel 23, eerste en tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.
 
-#### Artikel 14
+##### Artikel 14
 
 De jaarlijkse financiële verslaggeving, bedoeld in [artikel 5:25c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c), bevat ten minste de gegevens bedoeld in artikel 22, tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
@@ -56,11 +82,11 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder wet: [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De halfjaarrekening van een uitgevende instelling die niet verplicht is een geconsolideerde jaarrekening op te maken, bevat in de verkorte balans en de verkorte winst- en verliesrekening dezelfde posten, opschriften en subtotalen als die in de laatste algemeen verkrijgbaar gestelde jaarrekening zijn opgenomen.
 
@@ -78,7 +104,7 @@ In dit besluit wordt verstaan onder wet: [Wet op het financieel toezicht](https:
 
 - b. voldoende informatie en uitleg om een goed inzicht te kunnen verschaffen in materiële veranderingen van bedragen en in de gebeurtenissen in de eerste zes maanden van het boekjaar die van invloed zijn in de balans en de winst- en verliesrekening.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het halfjaarlijks bestuursverslag van een uitgevende instelling, bedoeld in [artikel 5:25d, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25d), die verplicht is een geconsolideerde jaarrekening op te maken, bevat:
 
@@ -88,13 +114,13 @@ In dit besluit wordt verstaan onder wet: [Wet op het financieel toezicht](https:
 
 2. Indien de uitgevende instelling, bedoeld in [artikel 5:25d, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25d) niet verplicht is een geconsolideerde jaarrekening op te maken, vermeldt het halfjaarlijks bestuursverslag ten minste de van betekenis zijnde transacties door de rechtspersoon niet onder normale marktvoorwaarden met een verbonden een partij zijn aangegaan, de omvang van die transacties, de aard van de betrekking met de verbonden partij, alsmede andere informatie over die transacties die nodig is voor het verschaffen van inzicht in de financiële positie van de rechtspersoon. Informatie over individuele transacties kan overeenkomstig de aard ervan worden samengevoegd, tenzij gescheiden informatie nodig is om inzicht te verschaffen in de gevolgen van transacties met verbonden partijen voor de financiële positie van de rechtspersoon. Vermelding van transacties tussen twee of meer leden van een groep kan achterwege blijven, mits dochtermaatschappijen die partij zijn bij de transactie geheel in eigendom zijn van een of meer leden van de groep.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 ### Hoofdstuk IV. Bepalingen over algemeenverkrijgbaarstelling en opslag gereglementeerde informatie
 
-#### Artikel 5
+##### Artikel 5
 
 1. De veiligheid van een op grond van [artikel 5:25m van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25m) uit te brengen persbericht wordt door de uitgevende instelling gewaarborgd zodanig dat het risico op gegevenswijziging en ongeoorloofde toegang zo veel mogelijk is uitgesloten en zekerheid bestaat over de bron van de gereglementeerde informatie.
 
@@ -118,7 +144,7 @@ Vervallen
 
 6. Indien de gereglementeerde informatie betrekking heeft op door een uitgevende instelling uitgegeven effecten ten aanzien waarvan door een persoon zonder toestemming van die uitgevende instelling om toelating tot de handel op een gereglementeerde markt van door de uitgevende instelling uitgegeven effecten is verzocht, rusten de in het eerste tot en met vijfde lid en de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024950&hoofdstuk=IV&artikel=6&z=2019-07-21&g=2019-07-21) bedoelde verplichtingen op die persoon.
 
-#### Artikel 6
+##### Artikel 6
 
 Desgevraagd verstrekt de uitgevende instelling de volgende informatie aan de Autoriteit Financiële Markten:
 
@@ -132,7 +158,7 @@ Desgevraagd verstrekt de uitgevende instelling de volgende informatie aan de Aut
 
 - e. de bijzonderheden over een eventueel embargo dat de uitgevende instelling voorafgaand aan de algemeen verkrijgbaarstelling op de gereglementeerde informatie heeft gelegd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Als instantie die belast is met de opslag van gereglementeerde informatie als bedoeld in [artikel 5:25m, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25m) wordt de Autoriteit Financiële Markten aangewezen.
 
@@ -146,7 +172,7 @@ Desgevraagd verstrekt de uitgevende instelling de volgende informatie aan de Aut
 
 - d. de centrale opslag van gereglementeerde informatie op zodanig wijze wordt ingericht dat samenwerking met andere instanties die belast zijn met de centrale opslag van gereglementeerde informatie op eenvoudige wijze kan plaatsvinden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het bestuursverslag van een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is, die ingevolge [artikel 5:25v van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25v) haar jaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften dient ten minste te bevatten:
 
@@ -158,7 +184,7 @@ Desgevraagd verstrekt de uitgevende instelling de volgende informatie aan de Aut
 
 2. De in het eerste lid, onderdeel a, bedoelde analyse bevat de essentiële voor de specifieke uitgevende instelling en haar groep relevante financiële en, voor zover van toepassing, niet-financiële prestatie-indicatoren die nodig zijn om inzicht te krijgen in de ontwikkeling, resultaten en positie van de uitgevende instelling.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het halfjaarlijks bestuursverslag van een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is, die ingevolge [artikel 5:25v van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25v) haar halfjaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften dient ten minste te bevatten:
 
@@ -168,7 +194,7 @@ Desgevraagd verstrekt de uitgevende instelling de volgende informatie aan de Aut
 
 2. Indien het een uitgevende instelling als bedoeld in het eerste lid betreft waarvan aandelen zijn toegelaten tot de handel op een gereglementeerde markt, vermeldt het halfjaarlijks bestuursverslag eveneens de belangrijkste transacties met verbonden partijen voor zover deze niet al doorlopend worden bekendgemaakt.
 
-#### Artikel 10
+##### Artikel 10
 
 Een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is, die ingevolge [artikel 5:25v van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25v) haar halfjaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften neemt in haar halfjaarlijkse en jaarlijkse financiële verslaggeving verklaringen op van de personen die krachtens de wetgeving van die staat verantwoordelijk zijn voor de jaarlijkse en halfjaarlijkse financiële verslaggeving ten aanzien van in elk geval:
 
@@ -176,7 +202,7 @@ Een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan
 
 - b. de getrouwheid van het overzicht in het bestuursverslag.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een consolidatieplichtige uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is en die ingevolge [artikel 5:25v van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25v) haar jaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften en die op grond van de op haar toepasselijke wetgeving niet verplicht is haar enkelvoudige jaarrekening algemeen verkrijgbaar te stellen, neemt in haar geconsolideerde jaarrekening ten minste de volgende informatie op:
 
@@ -186,7 +212,7 @@ Een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan
 
 2. De uitgevende instelling, bedoeld in het eerste lid, verstrekt op verzoek van de Autoriteit Financiële Markten aanvullende gecontroleerde informatie over haar enkelvoudige jaarrekening indien dit voor het begrip van de in het eerste lid, onderdelen a en b, bedoelde informatie van belang zijn. Deze informatie kan worden opgesteld volgens de standaarden voor de jaarrekeningen van het land waar de uitgevende instelling haar zetel heeft.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een niet-consolidatieplichtige uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is en die ingevolge [artikel 5:25v van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25v) haar jaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften, stelt haar enkelvoudige jaarrekening op overeenkomstig artikel 3 van de IAS-verordening goedgekeurde voorschriften tenzij de in de desbetreffende staat geldende of toegelaten verslaggevingsvoorschriften daaraan gelijkwaardig zijn, in welk geval de uitgevende instelling opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften.
 
@@ -198,19 +224,19 @@ Een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan
 
 ### Hoofdstuk VII. Inwerkingtreding- en slotbepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 1. De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024950&hoofdstuk=VI&artikel=16&z=2019-07-21&g=2019-07-21) werkt terug tot en met 1 januari 2008.
 
-#### Artikel 19
+##### Artikel 19
 
 Dit besluit wordt aangehaald als: Besluit transparantie uitgevende instellingen Wft.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust mede op de [artikelen 5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:3) en [5:25c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c).
 

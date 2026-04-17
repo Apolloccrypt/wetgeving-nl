@@ -1,13 +1,38 @@
 ---
 title: "Regeling luchtvaartmeteorologische inlichtingen BES 2010"
 identifier: "BWBR0028494"
-categorie: "Milieu"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028494"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028494"
+soort: "ministeriele-regeling-BES"
+stam_id: "10816273"
+version_id: "17794792"
+internal_id: "C24753231"
+label_id: "10791034"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028494/2020-01-01/0"
+intitule_bron: "Stcrt.2010-14537"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14537"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14537"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028494&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0028494&g=2020-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling luchtvaartmeteorologische inlichtingen BES 2010
 
 Handelende in overeenstemming met de minister van Defensie;
@@ -20,7 +45,7 @@ Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet 
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -76,7 +101,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Luchtvaartmeteorologische inlichtingen ten behoeve van de burgerluchtvaart
 
-#### Artikel 2
+##### Artikel 2
 
 1. De in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie verstrekt ten behoeve van de taakuitvoering van de navolgende gebruikers, luchtvaartmeteorologische inlichtingen aan:
 
@@ -132,7 +157,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Luchtvaartmeteorologische inlichtingen ten behoeve van de burgerluchtvaart
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de taakuitvoering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers in het BES luchtruim stelt de in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie de volgende luchtvaartmeteorologische inlichtingen beschikbaar:
 
@@ -168,7 +193,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Luchtvaartmeteorologische inlichtingen beschikbaar voor de delen van het BES luchtruim
 
-#### Artikel 4
+##### Artikel 4
 
 1. De in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie stelt tijdens de reguliere openstellinguren van BES luchtvaartterreinen in gebruik of aangewezen als uitwijkluchthaven voor internationaal geregeld luchtvervoer, de volgende luchtvaartmeteorologische inlichtingen beschikbaar:
 
@@ -204,7 +229,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 4. Luchtvaartmeteorologische inlichtingen beschikbaar op BES luchtvaartterreinen in gebruik of aangewezen als uitwijkluchthaven voor internationaal geregeld luchtvervoer
 
-#### Artikel 5
+##### Artikel 5
 
 De exploitant stelt tijdens de reguliere openstellinguren van BES luchtvaartterreinen in gebruik voor internationaal, privé- en zakenluchtverkeer de volgende luchtvaartmeteorologische inlichtingen beschikbaar voor de taakuitvoering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers:
 
@@ -220,13 +245,13 @@ De exploitant stelt tijdens de reguliere openstellinguren van BES luchtvaartterr
 
 #### § 5. Luchtvaartmeteorologische inlichtingen beschikbaar op BES luchtvaartterreinen in gebruik voor internationaal, privé- en zakenluchtverkeer
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de voorbereiding van een vlucht door de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers verstrekt de in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie de luchtvaartmeteorologische inlichtingen, bedoeld in artikel 2, tweede lid, door middel van mondelinge briefing, telefonische briefing of internetbriefing en consultatie.
 
 #### § 6. Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van de voorbereiding van een vlucht
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ten behoeve van de taakuitvoering van de in [artikel 2, eerste lid, onderdelen b, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers verstrekt de in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie luchtvaartmeteorologische inlichtingen door direct toegang te verlenen tot de meteorologische informatie, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=4&artikel=4&z=2020-01-01&g=2020-01-01), via een voor deze gebruikers toegankelijk systeem.
 
@@ -234,33 +259,33 @@ Voor de voorbereiding van een vlucht door de in [artikel 2, eerste lid](https://
 
 #### § 7. Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van vluchtuitvoering, luchtvaarttereinoperaties en het verlenen van luchtverkeersdiensten
 
-#### Artikel 8
+##### Artikel 8
 
 Voor de taakuitvoering van de in [artikel 2, eerste lid, onderdelen f tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), genoemde gebruikers verstrekt de in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie op verzoek luchtvaartmeteorologische inlichtingen door middel van rapporten met als doel een meteorologische reconstructie mogelijk te maken.
 
 #### § 8. Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van het onderzoek van ongevallen en incidenten
 
-#### Artikel 9
+##### Artikel 9
 
 De in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=1&artikel=1b&z=2020-01-01&g=2020-01-01) aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie stelt in overeenstemming met de normen van ICAO en bilaterale overeenkomsten luchtvaartmeteorologische inlichtingen als genoemd in [artikel 3, eerste lid, onderdelen a, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=3&artikel=3&z=2020-01-01&g=2020-01-01), [artikel 4, eerste lid, onderdeel a, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028494&paragraaf=4&artikel=4&z=2020-01-01&g=2020-01-01), beschikbaar aan buitenlandse organisaties.
 
 #### § 9. Luchtvaartmeteorologische inlichtingen aan buitenlandse organisaties
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling luchtvaartmeteorologische inlichtingen BES 2010.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust op de [artikelen 5.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.13a) en [5.14b, vierde lid, onderdeel a, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.14b).
 
-#### Artikel 1b
+##### Artikel 1b
 
 Het Koninklijk Nederlands Meteorologisch Instituut wordt op exclusieve basis aangewezen als verlener van meteorologische diensten voor de luchtvaartnavigatie in het gehele luchtruim dat onder de verantwoordelijkheid van de Minister van Infrastructuur en Milieu valt.
 

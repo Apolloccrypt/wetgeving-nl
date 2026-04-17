@@ -1,20 +1,45 @@
 ---
 title: "Besluit digitale vervanging aangiftes inkomensheffing Belastingdienst"
 identifier: "BWBR0032210"
-categorie: "Belastingrecht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032210"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032210"
+soort: "ministeriele-regeling"
+stam_id: "11904083"
+version_id: "19770852"
+internal_id: "C27766331"
+label_id: "11876034"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032210/2013-01-01/0"
+intitule_bron: "Stcrt.2012-23014"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-10-25"
+intitule_published: "2012-11-13"
+intitule_in_force: "2012-11-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-23014"
+original_signed_date: "2012-10-25"
+original_published_date: "2012-11-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-23014"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032210&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032210&g=2013-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2012-10-25"
+entry_into_force: "2013-01-01"
 ---
-
 # Besluit digitale vervanging aangiftes inkomensheffing Belastingdienst
 
 Gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -22,7 +47,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **handboek** Het handboek digitale vervanging aangiftes inkomensheffing Belastingdienst (2012).
 
-#### Artikel 2
+##### Artikel 2
 
 Vanaf het verwerkingsjaar 2012 over te gaan tot digitale vervanging van de ontvangen papieren aangiftes inkomensheffing.
 
@@ -30,11 +55,11 @@ Bij de overweging om tot vervanging over te gaan is rekening gehouden met het fe
 
 Bij de overweging om tot vervanging over te gaan is rekening gehouden met het belang van de in de archiefbescheiden voorkomende gegevens voor overheidsorganen, voor recht- of bewijszoekenden en voor historisch onderzoek.
 
-#### Artikel 3
+##### Artikel 3
 
 De vervanging vindt plaats door middel van een digitale kopie. De originele papieren archiefbescheiden zullen aansluitend worden vernietigd. De digitaal opgeslagen archiefbescheiden zullen gedurende de vastgestelde bewaartermijn in goede, geordende en toegankelijke staat worden bewaard en na het verstrijken van de vernietigingstermijn worden vernietigd op grond van handeling nummer 14 uit de [selectielijst](onbekend).
 
-#### Artikel 4
+##### Artikel 4
 
 De wijze waarop de vervanging geschiedt is vastgelegd in het handboek.
 

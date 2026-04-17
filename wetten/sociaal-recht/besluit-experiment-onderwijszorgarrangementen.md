@@ -1,13 +1,39 @@
 ---
-title: "Besluit experiment onderwijszorgarrangementen"
+title: "Besluit van 8 november 2022, houdende voorschriften voor een experiment op het terrein van onderwijszorgarrangementen, met het oog op verbetering van de toegankelijkheid van het onderwijs (Besluit experiment onderwijszorgarrangementen)"
 identifier: "BWBR0047473"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047473"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047473"
+soort: "AMvB"
+stam_id: "16565403"
+version_id: "29039882"
+internal_id: "C41140251"
+label_id: "16485434"
+dtd_version: "2.0"
+original_entry_into_force: "2022-11-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047473/2023-01-01/0"
+intitule_bron: "Stb.2022-449"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-11-08"
+intitule_published: "2022-11-14"
+intitule_in_force: "2022-11-14"
+intitule_status: "goed"
+original_publication: "Stb.2022-449"
+original_signed_date: "2022-11-08"
+original_published_date: "2022-11-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2022-449"
+entry_into_force_date: "2022-11-15"
+jci_1_3: "jci1.3:c:BWBR0047473&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0047473&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit experiment onderwijszorgarrangementen"
+signed_date: "2022-11-08"
+entry_into_force: "2022-11-15"
 ---
-
 # Besluit van 8 november 2022, houdende voorschriften voor een experiment op het terrein van onderwijszorgarrangementen, met het oog op verbetering van de toegankelijkheid van het onderwijs (Besluit experiment onderwijszorgarrangementen)
 
 Op de voordracht van Onze Minister voor Primair en Voortgezet Onderwijs, gedaan in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, van 27 juni 2022, nr. WJZ/33128811 (ID12955), directie Wetgeving en Juridische Zaken;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister voor Primair en Voortgezet Onderwijs,
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en in de op dit besluit berustende bepalingen wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In dit besluit en in de op dit besluit berustende bepalingen wordt verstaan onde
 
 - **zorgaanbieder:** zorgaanbieder als bedoeld in de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173) of aanbieder als bedoeld in de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362).
 
-#### Artikel 2. Doel experiment
+##### Artikel 2. Doel experiment
 
 Het doel van het experiment is te onderzoeken:
 
@@ -52,7 +78,7 @@ Het doel van het experiment is te onderzoeken:
 
 - b. welk effect het experiment heeft op leerlingen die dreigen gedurende een langere tijd te verzuimen, leerlingen die langdurig verzuimen naar school te gaan, leerplichtige jongeren die niet staan ingeschreven op een school en jongeren van wie de ouders op grond van [artikel 5, onder a, van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=5) zijn vrijgesteld van de inschrijfplicht.
 
-#### Artikel 3. Afwijkingen van de wet door bevoegd gezag
+##### Artikel 3. Afwijkingen van de wet door bevoegd gezag
 
 1. Het bevoegd gezag kan voor leerlingen met een complexe ondersteuningsbehoefte met toestemming van Onze Minister, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=8&z=2023-01-01&g=2023-01-01), afwijken van:
 
@@ -64,7 +90,7 @@ Het doel van het experiment is te onderzoeken:
 
 2. Voor zover het betreft jongeren van wie de ouders op grond van [artikel 5, onder a, van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=5) zijn vrijgesteld van de inschrijfplicht, zijn de voorschriften omtrent de zorgplicht van scholen, bedoeld in [artikel 40, vijfde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=40), [artikel 40, vierde en elfde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40) of [artikel 8.9, tweede lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.9) niet van toepassing.
 
-#### Artikel 4. Afwijkingen van de wet door samenwerkingsverband
+##### Artikel 4. Afwijkingen van de wet door samenwerkingsverband
 
 1. Een samenwerkingsverband kan in overeenstemming met een bevoegd gezag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=3&z=2023-01-01&g=2023-01-01) voor leerlingen met een complexe ondersteuningsbehoefte afwijken van de bekostigingsvoorschriften, bedoeld in:
 
@@ -74,7 +100,7 @@ Het doel van het experiment is te onderzoeken:
 
 2. Een samenwerkingsverband kan ten hoogste twee en een half procent van de bekostiging, bedoeld in de [artikelen 122](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=122) en [124 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=124) of de [artikelen 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.13) en [5.15 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.15), aanwenden voor de financiering van kosten in een onderwijszorgarrangement die direct of indirect nodig zijn voor de uitvoering van het onderwijs of de bevordering van deelname aan het onderwijs voor leerlingen met een complexe ondersteuningsbehoefte.
 
-#### Artikel 5. Samenwerkingsovereenkomst
+##### Artikel 5. Samenwerkingsovereenkomst
 
 1. Voor het inrichten van een onderwijszorgarrangement sluit het bevoegd gezag onderscheidenlijk het samenwerkingsverband een samenwerkingsovereenkomst met het samenwerkingsverband onderscheidenlijk het bevoegd gezag, de gemeente, het zorgkantoor of de zorgverzekeraar en de jeugdhulp- of zorgaanbieder en stelt met hen een projectplan op.
 
@@ -84,7 +110,7 @@ Het doel van het experiment is te onderzoeken:
 
 - b. de taken en verantwoordelijkheden van de betrokkenen bij het onderwijszorgarrangement.
 
-#### Artikel 6. Projectplan
+##### Artikel 6. Projectplan
 
 Het projectplan, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=5&z=2023-01-01&g=2023-01-01), bevat ten minste:
 
@@ -108,7 +134,7 @@ Het projectplan, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/j
 
 - 5°. de wijze waarop uitvoering wordt gegeven aan het ontwikkelingsperspectief, bedoeld in de [artikelen 41a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41a), [40a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40a) of [2.44 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.44), het jeugdhulpverleningsplan of het zorgplan van de jongeren en hoe de samenhang tussen de twee plannen wordt geborgd.
 
-#### Artikel 7. Ontwikkelingsperspectief
+##### Artikel 7. Ontwikkelingsperspectief
 
 1. Onverminderd de [artikelen 41a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41a), [40a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40a) of [2.44 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.44) wordt in het ontwikkelingsperspectief opgenomen:
 
@@ -122,7 +148,7 @@ Het projectplan, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/j
 
 3. Het ontwikkelingsperspectief wordt in ieder geval bij aanvang en na afloop van de deelname aan het onderwijszorgarrangement geëvalueerd met de ouders en de leerling.
 
-#### Artikel 8. Toestemming deelname aan het experiment
+##### Artikel 8. Toestemming deelname aan het experiment
 
 1. Onze Minister kan op aanvraag van het bevoegd gezag of het samenwerkingsverband toestemming verlenen om deel te nemen aan het experiment.
 
@@ -136,7 +162,7 @@ Het projectplan, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/j
 
 3. Ingeval het bevoegd gezag van een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 8, eerste lid, tweede of derde volzin, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8) een aanvraag indient, is het bepaalde over het samenwerkingsverband in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=5&z=2023-01-01&g=2023-01-01), [6, onder e, subonderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=6&z=2023-01-01&g=2023-01-01), en [8, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=8&z=2023-01-01&g=2023-01-01), niet van toepassing.
 
-#### Artikel 9. Selectie
+##### Artikel 9. Selectie
 
 1. Onze Minister geeft ten hoogste 80 onderwijszorgarrangementen toestemming om deel te nemen aan het experiment.
 
@@ -156,7 +182,7 @@ Het projectplan, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/j
 
 5. Dit artikel is slechts van toepassing bij de aanvang van het experiment.
 
-#### Artikel 10. Duur van het experiment
+##### Artikel 10. Duur van het experiment
 
 1. Het experiment vangt aan met ingang van 1 januari 2023 en eindigt met ingang van 1 januari 2028.
 
@@ -164,7 +190,7 @@ Het projectplan, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/j
 
 3. Het bevoegd gezag overlegt met de leerling en de ouders over het vervolg op het experiment.
 
-#### Artikel 11. Monitoring en evaluatie
+##### Artikel 11. Monitoring en evaluatie
 
 1. Onze Minister monitort de onderwijszorgarrangementen van 1 januari 2023 tot 1 januari 2026.
 
@@ -182,13 +208,13 @@ Het projectplan, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/j
 
 5. Indien Onze Minister besluit het experiment niet om te zetten in een structurele wettelijke regeling, worden geen nieuwe leerlingen toegelaten tot het experiment.
 
-#### Artikel 12. Verwerking van persoonsgegevens
+##### Artikel 12. Verwerking van persoonsgegevens
 
 1. Voor zover noodzakelijk kunnen ten behoeve van de monitoring en evaluatie van het experiment persoonsgegevens worden verwerkt, waaronder persoonsgegevens over de gezondheid als bedoeld in artikel 9 van de Algemene verordening gegevensbescherming.
 
 2. Bij de ministeriële regeling, bedoeld in de [artikelen 172, derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=172), [180, derde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=180) en [9.1, derde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.1), worden regels gesteld over de verwerking van persoonsgegevens. Daarbij wordt geregeld onder welke voorwaarden de persoonsgegevens kunnen worden verwerkt.
 
-#### Artikel 13. Beëindiging deelname aan het experiment
+##### Artikel 13. Beëindiging deelname aan het experiment
 
 Onze Minister kan de toestemming voor deelname aan het experiment geheel of gedeeltelijk intrekken, indien:
 
@@ -196,17 +222,17 @@ Onze Minister kan de toestemming voor deelname aan het experiment geheel of gede
 
 - b. het onderwijszorgarrangement naar het oordeel van Onze Minister te weinig bijdrage levert aan de kwaliteit, de toegankelijkheid of de doeltreffendheid van het onderwijs.
 
-#### Artikel 14. Wijziging [Besluit register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042639)
+##### Artikel 14. Wijziging [Besluit register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042639)
 
 Wijzigt het Besluit register onderwijsdeelnemers.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van 15 november 2022, met uitzondering van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=14&z=2023-01-01&g=2023-01-01), dat in werking treedt met ingang van 1 januari 2023.
 
 2. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 15 november, treedt het besluit, met uitzondering van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=14&z=2023-01-01&g=2023-01-01), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 15 november.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit experiment onderwijszorgarrangementen.
 

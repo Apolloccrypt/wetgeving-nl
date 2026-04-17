@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke regeling specifieke uitkering gebiedsbudget"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 november 2023, nr. 2023– 2023-0000600837, houdende regels met betrekking tot het verlenen van een specifieke uitkering ten behoeve van het realiseren van gebiedsmaatregelen (Tijdelijke regeling specifieke uitkering gebiedsbudget)"
 identifier: "BWBR0048897"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-11-28
-laatste_update: 2025-11-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048897"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-28"
+last_updated: "2025-11-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048897"
+soort: "ministeriele-regeling"
+stam_id: "16916803"
+version_id: "29731872"
+internal_id: "C42613651"
+label_id: "16828304"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048897/2025-11-28/0"
+intitule_bron: "Stcrt.2023-31102"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-14"
+intitule_published: "2023-11-16"
+intitule_in_force: "2023-11-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-31102"
+original_signed_date: "2023-11-14"
+original_published_date: "2023-11-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-31102"
+entry_into_force_date: "2023-11-17"
+jci_1_3: "jci1.3:c:BWBR0048897&z=2025-11-28&g=2025-11-28"
+jci_1_0: "1.0:c:BWBR0048897&g=2025-11-28"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke regeling specifieke uitkering gebiedsbudget"
+signed_date: "2023-11-14"
+entry_into_force: "2023-11-17"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 november 2023, nr. 2023– 2023-0000600837, houdende regels met betrekking tot het verlenen van een specifieke uitkering ten behoeve van het realiseren van gebiedsmaatregelen (Tijdelijke regeling specifieke uitkering gebiedsbudget)
 
 Gelet op [artikel 2, eerste lid, onderdeel c, van het Besluit van 29 oktober 2022, houdende het stellen van regels over het verlenen van specifieke uitkeringen aan gemeenten of provincies voor activiteiten die passen in het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2) (Stb. 2022, 452);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -76,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 - **woningbouwlocatie:** grootschalig woningbouwgebied of grootschalige woningbouwlocatie in Alkmaars Kanaal, Amersfoort Spoor- en A1-zone, Apeldoorn Binnenstad, Spoor- en Kanaalzone, Arnhem Spoorzone Oost, Brabantse Stedenrij, Cortelande, Den Haag CID Binckhorst, Eindhoven Internationale Knoop XL, Groningen Stadshavens, Groningen Suikerzijde, Haven-Stad, Helmond Centrum+, MRA Oost, Nijmegen Kanaalzone, Nijmegen Stationsgebied, Oude Lijn, Regio Foodvalley, Rotterdam Oostflank, Spoorzone Hengelo-Enschede, Utrecht Groot Merwede & Rijnenburg, en Zwolle Spoorzone.
 
-#### Artikel 2. Doel van regeling
+##### Artikel 2. Doel van regeling
 
 1. Deze regeling heeft tot doel om gemeenten en openbare lichamen een specifieke uitkering te verlenen waarmee zij in staat worden gesteld gebiedsmaatregelen te realiseren die als randvoorwaarden noodzakelijk zijn om op een woningbouwlocatie woningbouw plaats te laten vinden.
 
@@ -96,7 +122,7 @@ In deze regeling wordt verstaan onder:
 
 - c. een grootschalige integrale woningbouwopgave in combinatie met andere ruimtelijke vraagstukken.
 
-#### Artikel 3. Specifieke uitkering
+##### Artikel 3. Specifieke uitkering
 
 1. De minister kan een gemeente of een openbaar lichaam een specifieke uitkering verlenen voor de realisatie van gebiedsmaatregelen bij een woningbouwlocatie.
 
@@ -114,7 +140,7 @@ In deze regeling wordt verstaan onder:
 
 - e. andere kosten dan de kosten genoemd in het tweede lid.
 
-#### Artikel 4. Verlening
+##### Artikel 4. Verlening
 
 1. De minister besluit uiterlijk 1 juni 2026 over het verlenen van een specifieke uitkering.
 
@@ -138,11 +164,11 @@ In deze regeling wordt verstaan onder:
 
 3. De bedragen, bedoeld in het tweede lid, onderdeel b, zijn de bedragen inclusief omzetbelasting.
 
-#### Artikel 5. Uitkeringsplafond en maximale bedragen
+##### Artikel 5. Uitkeringsplafond en maximale bedragen
 
 Het uitkeringsplafond bedraagt € 1.017.500.000, inclusief omzetbelasting.
 
-#### Artikel 6. Verplichtingen ontvanger
+##### Artikel 6. Verplichtingen ontvanger
 
 1. De ontvanger realiseert de gebiedsmaatregelen waarvoor de specifieke uitkering is verleend.
 
@@ -168,13 +194,13 @@ Het uitkeringsplafond bedraagt € 1.017.500.000, inclusief omzetbelasting.
 
 8. De minister kan nadere voorschriften aan de specifieke uitkering verbinden, waarbij in bijzondere omstandigheden kan worden afgeweken van het vijfde lid.
 
-#### Artikel 7. Bevoorschotting en wijze van uitkering
+##### Artikel 7. Bevoorschotting en wijze van uitkering
 
 1. De minister verstrekt bij een besluit tot verlening van een specifieke uitkering een voorschot ter hoogte van het totaalbedrag van de specifieke uitkering, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=3&z=2025-11-28&g=2025-11-28), exclusief omzetbelasting.
 
 2. Het voorschot wordt, met ingang van het jaar dat het besluit tot verlening van de specifieke uitkering is genomen, in één keer uitgekeerd.
 
-#### Artikel 8. Wijziging specifieke uitkering op aanvraag
+##### Artikel 8. Wijziging specifieke uitkering op aanvraag
 
 1. De minister kan het besluit tot verlening van de specifieke uitkering op aanvraag van de ontvanger wijzigen.
 
@@ -224,11 +250,11 @@ Het uitkeringsplafond bedraagt € 1.017.500.000, inclusief omzetbelasting.
 
 9. De minister besluit binnen dertien weken na ontvangst van de aanvraag, bedoeld in het eerste lid, over de wijziging van de verleende specifieke uitkering.
 
-#### Artikel 9. Verantwoording
+##### Artikel 9. Verantwoording
 
 De verantwoording van de ontvanger over de besteding van de specifieke uitkering vindt plaats op de wijze die is bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-#### Artikel 10. Vaststelling
+##### Artikel 10. Vaststelling
 
 1. De minister stelt de specifieke uitkering ambtshalve vast uiterlijk 31 december van het jaar waarop de laatste verantwoording overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=9&z=2025-11-28&g=2025-11-28) heeft plaatsgevonden.
 
@@ -246,29 +272,29 @@ De verantwoording van de ontvanger over de besteding van de specifieke uitkering
 
 6. Indien uit de verantwoording blijkt dat het daadwerkelijke resterend financiële tekort per woningbouwlocatie lager is dan het voorziene resterend financiële tekort, bedoeld in[artikel 4, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=4&z=2025-11-28&g=2025-11-28), dan wordt het bedrag van de specifieke uitkering niet hoger vastgesteld dan het percentage, bedoeld in artikel 4 tweede lid, onderdeel g, van het resterend financiële tekort.
 
-#### Artikel 11. Terugvordering
+##### Artikel 11. Terugvordering
 
 1. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=4&z=2025-11-28&g=2025-11-28), niet volledig of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd.
 
 2. De minister kan het verschil tussen de bedragen, bedoeld in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=10&z=2025-11-28&g=2025-11-28), terugvorderen.
 
-#### Artikel 12. Hardheidsclausule
+##### Artikel 12. Hardheidsclausule
 
 De minister kan een bepaling van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing, gelet op het belang van het verlening van een uitkering voor de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048897&artikel=3&z=2025-11-28&g=2025-11-28), zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 13. Evaluatie
+##### Artikel 13. Evaluatie
 
 1. De minister publiceert uiterlijk op 1 september 2035 en op 30 september 2040 een verslag over de doeltreffendheid en de effecten van de uitkering.
 
 2. De ontvanger verleent op verzoek van de minister alle gevraagde medewerking aan een evaluatieonderzoek.
 
-#### Artikel 14. Inwerkingtreding en vervaldatum
+##### Artikel 14. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 30 september 2040, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die voor die datum zijn verleend.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling specifieke uitkering gebiedsbudget.
 

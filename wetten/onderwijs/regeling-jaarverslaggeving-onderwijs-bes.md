@@ -1,20 +1,46 @@
 ---
-title: "Regeling jaarverslaggeving onderwijs BES"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2012, nr. WJZ/390448(10167), houdende nadere voorschriften voor de inrichting van de jaarverslaggeving van de bekostigde onderwijsinstellingen in Caribisch Nederland (Regeling jaarverslaggeving onderwijs BES)"
 identifier: "BWBR0031801"
-categorie: "Onderwijs"
-publicatiedatum: 2023-03-16
-laatste_update: 2023-03-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031801"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2023-03-16"
+last_updated: "2023-03-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031801"
+soort: "ministeriele-regeling-BES"
+stam_id: "11796983"
+version_id: "28483292"
+internal_id: "C40189751"
+label_id: "11769274"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031801/2023-03-16/0"
+intitule_bron: "Stcrt.2012-14793"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-07-03"
+intitule_published: "2012-07-18"
+intitule_in_force: "2012-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-993"
+original_signed_date: "2021-12-07"
+original_published_date: "2022-02-09"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-993"
+entry_into_force_date: "2021-12-07"
+jci_1_3: "jci1.3:c:BWBR0031801&z=2023-03-16&g=2023-03-16"
+jci_1_0: "1.0:c:BWBR0031801&g=2023-03-16"
+citeertitel_status: "officieel"
+short_title: "Regeling jaarverslaggeving onderwijs BES"
+signed_date: "2021-12-07"
+entry_into_force: "2021-12-07"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2012, nr. WJZ/390448(10167), houdende nadere voorschriften voor de inrichting van de jaarverslaggeving van de bekostigde onderwijsinstellingen in Caribisch Nederland (Regeling jaarverslaggeving onderwijs BES)
 
 Gelet op [artikel 2, eerste en vierde lid van het Besluit informatievoorziening WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=2), [artikel 17, vijfde lid, van het Bekostigingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029598&artikel=17) en de [artikelen 2.3.1, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=2.3.1) en [2.3.2, tweede lid, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=2.3.2);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -28,11 +54,11 @@ In deze regeling wordt verstaan onder:
 
 - **jaarverslaggeving**: het geheel van verslaggevingsdocumenten bestaande uit de jaarrekening, het jaarverslag en de overige gegevens, waarvan is aangegeven dat zij deel uitmaken van de jaarverslaggeving.
 
-#### Artikel 2. Voorschriften voor de inrichting van het jaarverslag door de onderwijsinstellingen, inclusief de jaarrekening
+##### Artikel 2. Voorschriften voor de inrichting van het jaarverslag door de onderwijsinstellingen, inclusief de jaarrekening
 
 De jaarverslaggeving, inclusief de jaarrekening, wordt ingericht en ingediend overeenkomstig de wettelijke bepalingen en de modellen en nadere aanwijzingen van deze regeling. Als basis voor de inrichting van de posten uit de jaarrekening gelden de inrichtingsvoorschriften zoals bedoeld in boek 2, titel 9 van het Burgerlijk Wetboek BES en de richtlijnen zoals gepubliceerd door de Raad voor de Jaarverslaggeving. Onvermijdelijke afwijkingen of voor het geven van het inzicht noodzakelijke afwijkingen ten opzichte van de voorschriften in deze regeling worden in het jaarverslag aangegeven.
 
-#### Artikel 3. Specifieke inrichtingsvoorschriften
+##### Artikel 3. Specifieke inrichtingsvoorschriften
 
 1. De jaarverslaggeving wordt gepubliceerd in de Nederlandse taal en wordt daarnaast bij voorkeur tevens gepubliceerd in de voertaal van het desbetreffende eiland.
 
@@ -50,7 +76,7 @@ De jaarverslaggeving, inclusief de jaarrekening, wordt ingericht en ingediend ov
 
 8. Aan het jaarverslag wordt een onderdeel toegevoegd waarin het bevoegd gezag met gebruikmaking van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031801&bijlage=2&z=2023-03-16&g=2023-03-16) bij deze regeling opgenomen set gegevens en de daarbij behorende toelichting de resultaten van het financiële beleid over het verslagjaar aangeeft. Daarnaast rapporteert het bevoegd gezag in dit onderdeel in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar. Deze rapportage omvat ook het risicomanagement en het interne toezicht.
 
-#### Artikel 4. Bestuursverslag
+##### Artikel 4. Bestuursverslag
 
 1. Het bestuursverslag bevat in ieder geval de volgende onderdelen:
 
@@ -68,7 +94,7 @@ De jaarverslaggeving, inclusief de jaarrekening, wordt ingericht en ingediend ov
 
 2. De financiële kengetallen kunnen, in afwijking van het eerste lid, onder f, worden opgenomen in de jaarrekening.
 
-#### Artikel 5. Jaarrekening
+##### Artikel 5. Jaarrekening
 
 1. De jaarrekening bevat in ieder geval de navolgende onderdelen:
 
@@ -88,19 +114,19 @@ De jaarverslaggeving, inclusief de jaarrekening, wordt ingericht en ingediend ov
 
 3. In de jaarrekening worden de cijfers vergeleken met de overeenkomstige cijfers van het voorafgaande jaar (jaar t-1).
 
-#### Artikel 6. Aanleveren gegevens
+##### Artikel 6. Aanleveren gegevens
 
 Het bevoegd gezag levert het jaarverslag uiterlijk 1 juli van het jaar volgend op het verslagjaar in schriftelijke vorm aan bij de Dienst Uitvoering Onderwijs.
 
-#### Artikel 7. Afwijkingsmogelijkheid
+##### Artikel 7. Afwijkingsmogelijkheid
 
 Indien het voor het bevoegd gezag onmogelijk is om deze regeling volledig na te leven, geeft het bevoegd gezag in het jaarverslag uitdrukkelijk en gemotiveerd aan in hoeverre het de in deze regeling opgenomen inrichtingsvoorschriften niet heeft nageleefd met daarbij de aanduiding op welke termijn wel volledig aan de inrichtingsvoorschriften kan worden voldaan.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling jaarverslaggeving onderwijs BES.
 
@@ -164,7 +190,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7a. Omhang
+##### Artikel 7a. Omhang
 
 Deze regeling is mede gebaseerd op [artikel 6.19, zesde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.19).
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit verplichte meldcode huiselijk geweld en kindermishandeling"
+title: "Besluit van 16 juli 2013, houdende vaststelling van de minimumeisen voor de verplichte meldcode huiselijk geweld en kindermishandeling (Besluit verplichte meldcode huiselijk geweld en kindermishandeling)"
 identifier: "BWBR0033723"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-10-01
-laatste_update: 2020-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033723"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-10-01"
+last_updated: "2020-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033723"
+soort: "AMvB"
+stam_id: "12328323"
+version_id: "20675382"
+internal_id: "C29600381"
+label_id: "12299404"
+dtd_version: "2.0"
+original_entry_into_force: "2013-07-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033723/2020-10-01/0"
+intitule_bron: "Stb.2013-324"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-07-16"
+intitule_published: "2013-07-30"
+intitule_in_force: "2013-07-30"
+intitule_status: "goed"
+original_publication: "Stb.2013-324"
+original_signed_date: "2013-07-16"
+original_published_date: "2013-07-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2013-324"
+entry_into_force_date: "2013-07-31"
+jci_1_3: "jci1.3:c:BWBR0033723&z=2020-10-01&g=2020-10-01"
+jci_1_0: "1.0:c:BWBR0033723&g=2020-10-01"
+citeertitel_status: "officieel"
+short_title: "Besluit verplichte meldcode huiselijk geweld en kindermishandeling"
+signed_date: "2013-07-16"
+entry_into_force: "2013-07-31"
 ---
-
 # Besluit van 16 juli 2013, houdende vaststelling van de minimumeisen voor de verplichte meldcode huiselijk geweld en kindermishandeling (Besluit verplichte meldcode huiselijk geweld en kindermishandeling)
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 mei 2013, kenmerk 118705-104010-WJZ, in overeenstemming met de Staatssecretaris van Veiligheid en Justitie, Onze Minister van Onderwijs, Cultuur en Wetenschap en Onze Minister van Sociale Zaken en Werkgelegenheid;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - g. **Veilig Thuis:** Veilig Thuis-organisatie als bedoeld in [artikel 4.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een meldcode bevat ten minste de volgende elementen:
 
@@ -72,23 +98,23 @@ In dit besluit wordt verstaan onder:
 
 - 2°. het inzetten van de noodzakelijke hulp.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt het Besluit kwaliteit kinderopvang en peuterspeelzalen.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Reclasseringsregeling 1995.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit verplichte meldcode huiselijk geweld en kindermishandeling.
 

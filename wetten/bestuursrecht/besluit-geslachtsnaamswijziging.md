@@ -1,13 +1,39 @@
 ---
-title: "Besluit geslachtsnaamswijziging"
+title: "Besluit van 6 oktober 1997, houdende regels voor geslachtsnaamswijziging"
 identifier: "BWBR0008951"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-10-01
-laatste_update: 2024-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008951"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-10-01"
+last_updated: "2024-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008951"
+soort: "AMvB"
+stam_id: "627793"
+version_id: "5077512"
+internal_id: "C5256401"
+label_id: "609094"
+dtd_version: "2.0"
+original_entry_into_force: "2001-02-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008951/2024-10-01/0"
+intitule_bron: "Stb.1997-463"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-10-06"
+intitule_published: "1997-10-28"
+intitule_in_force: "1997-10-28"
+intitule_status: "goed"
+original_publication: "Stb.2001-42"
+original_signed_date: "2001-01-20"
+original_published_date: "2001-01-30"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2001-42"
+entry_into_force_date: "2001-02-15"
+jci_1_3: "jci1.3:c:BWBR0008951&z=2024-10-01&g=2024-10-01"
+jci_1_0: "1.0:c:BWBR0008951&g=2024-10-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit geslachtsnaamswijziging"
+signed_date: "2001-01-20"
+entry_into_force: "2001-02-15"
 ---
-
 # Besluit van 6 oktober 1997, houdende regels voor geslachtsnaamswijziging
 
 Op de voordracht van de Staatssecretaris van Justitie van 26 juni 1997, Directie Wetgeving, nr. 635454/97/6;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### Gronden voor wijziging van geslachtsnamen, algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. De geslachtsnaam van een persoon wordt op zijn verzoek of op verzoek van zijn wettelijke vertegenwoordiger gewijzigd, indien
 
@@ -48,7 +74,7 @@ Hebben goedgevonden en verstaan:
 
 #### Toevoeging van een naam
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan de geslachtsnaam van een meerderjarige wordt op zijn verzoek een andere geslachtsnaam toegevoegd, indien
 
@@ -68,7 +94,7 @@ Hebben goedgevonden en verstaan:
 
 #### Wijziging van de geslachtsnaam van een minderjarige
 
-#### Artikel 3
+##### Artikel 3
 
 1. Op eensluidend verzoek van de wettelijke vertegenwoordiger en van degene wiens geslachtsnaam ten behoeve van de minderjarige wordt verzocht, of, indien de naam van een overleden ouder wordt verzocht, op verzoek van de wettelijke vertegenwoordiger, wordt de geslachtsnaam van een minderjarige van twaalf jaren of ouder gewijzigd:
 
@@ -100,7 +126,7 @@ Hebben goedgevonden en verstaan:
 
 - 2°. verzoekers aantonen dat de ouder aan wie de minderjarige de geslachtsnaam waarvan wijziging wordt verzocht, ontleent of mede ontleent, en het kind niet meer dan gedurende een vierde deel van de periode voorafgaande aan de termijn van verzorging en opvoeding, bedoeld in het derde lid, in gezinsverband hebben samengeleefd.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Op verzoek van de wettelijk vertegenwoordiger wordt de geslachtsnaam van een minderjarig kind gewijzigd:
 
@@ -114,7 +140,7 @@ Hebben goedgevonden en verstaan:
 
 #### Wijziging van de geslachtsnaam van een meerderjarige in die van zijn verzorger, van zijn ouder of in zijn oorspronkelijke geslachtsnaam
 
-#### Artikel 4
+##### Artikel 4
 
 1. Op verzoek van een meerderjarige wordt zijn geslachtsnaam gewijzigd:
 
@@ -128,7 +154,7 @@ Hebben goedgevonden en verstaan:
 
 3. De geslachtsnaam kan op grond van dit artikel slechts eenmaal worden gewijzigd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Op verzoek van een meerderjarige wordt zijn geslachtsnaam gewijzigd:
 
@@ -144,7 +170,7 @@ Hebben goedgevonden en verstaan:
 
 #### Overige bepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 Een verzoek tot geslachtsnaamswijziging wordt ingewilligd, indien:
 
@@ -152,13 +178,13 @@ Een verzoek tot geslachtsnaamswijziging wordt ingewilligd, indien:
 
 - b. de verzoeker, bij gebreke van een dergelijke onherroepelijke veroordeling, verklaart slachtoffer te zijn van een in het vorige lid bedoeld misdrijf gepleegd door de ouder, aan wie verzoeker zijn geslachtsnaam ontleent, en door overlegging van een verklaring van een deskundige aannemelijk maakt dat het achterwege blijven van een geslachtsnaamswijziging zijn lichamelijke of geestelijke gezondheid in ernstige mate zou schaden.
 
-#### Artikel 7
+##### Artikel 7
 
 Een verzoek tot geslachtsnaamswijziging dat niet op een van de voorgaande artikelen kan worden gebaseerd, kan worden ingewilligd, indien de verzoeker aantoont dat het achterwege blijven van de geslachtsnaamswijziging de lichamelijke of geestelijke gezondheid van de betrokkene in ernstige mate zou schaden.
 
 #### Overgangsbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Ter zake van een verzoek tot wijziging van de geslachtsnaam van een minderjarige als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=3&z=2024-10-01&g=2024-10-01) worden gehoord, althans worden daartoe behoorlijk opgeroepen:
 
@@ -180,7 +206,7 @@ Een verzoek tot geslachtsnaamswijziging dat niet op een van de voorgaande artike
 
 #### Overgangsbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Richtlijnen voor geslachtsnaamswijziging 1989 (**Stcr**. 1989, 1) worden ingetrokken.
 
@@ -188,25 +214,25 @@ Een verzoek tot geslachtsnaamswijziging dat niet op een van de voorgaande artike
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van 1 januari 1998.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 Voor de toepassing van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=6&z=2024-10-01&g=2024-10-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=7&z=2024-10-01&g=2024-10-01) wordt de geslachtsnaam gewijzigd op de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008951&artikel=1&z=2024-10-01&g=2024-10-01), bepaalde wijze of in een andere naam, mits door overlegging van een verklaring van een deskundige aannemelijk wordt gemaakt dat het niet krijgen van de gewenste naam de lichamelijke of geestelijke gezondheid van de verzoeker ernstig zal schaden.
 
 #### Slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit geslachtsnaamswijziging.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. De geslachtsnaam van een persoon wordt op zijn verzoek gewijzigd, indien hij verklaart een nazaat te zijn van een tot slaaf gemaakte aan wie de geslachtsnaam wordt ontleend.
 

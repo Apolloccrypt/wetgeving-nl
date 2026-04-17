@@ -1,13 +1,39 @@
 ---
-title: "Besluit recht op kinderopvangtoeslag bij gastouderopvang in 2010"
+title: "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 5 november 2010, nr. KO/10/21474 tot het recht op kinderopvangtoeslag bij gastouderopvang in 2010"
 identifier: "BWBR0028943"
-categorie: "Overig"
-publicatiedatum: 2010-11-16
-laatste_update: 2010-11-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028943"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-11-16"
+last_updated: "2010-11-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028943"
+soort: "ministeriele-regeling"
+stam_id: "11074413"
+version_id: "18098092"
+internal_id: "C25162441"
+label_id: "11048784"
+dtd_version: "2.0"
+original_entry_into_force: "2010-11-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028943/2010-11-16/0"
+intitule_bron: "Stcrt.2010-17774"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-11-05"
+intitule_published: "2010-11-15"
+intitule_in_force: "2010-11-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-17774"
+original_signed_date: "2010-11-05"
+original_published_date: "2010-11-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-17774"
+entry_into_force_date: "2010-11-16"
+jci_1_3: "jci1.3:c:BWBR0028943&z=2010-11-16&g=2010-11-16"
+jci_1_0: "1.0:c:BWBR0028943&g=2010-11-16"
+citeertitel_status: "redactioneel"
+short_title: "Besluit recht op kinderopvangtoeslag bij gastouderopvang in 2010"
+signed_date: "2010-11-05"
+entry_into_force: "2010-11-16"
 ---
-
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 5 november 2010, nr. KO/10/21474 tot het recht op kinderopvangtoeslag bij gastouderopvang in 2010
 
 Gelet op [artikel 1.57a van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.57a);

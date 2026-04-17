@@ -1,14 +1,41 @@
 ---
-title: "Wet regels integriteit en vervolgfuncties bewindspersonen"
+title: "Wet van 1 oktober 2025, houdende invoering van regels met betrekking tot de integriteit en het loopbaanvervolg van bewindspersonen, alsmede een tweetal wijzigingen van de Wet adviescollege rechtspositie politieke ambtsdragers (Wet regels integriteit en vervolgfuncties bewindspersonen)"
 identifier: "BWBR0051611"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2026-02-20
-laatste_update: 2026-02-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051611"
+country: "nl"
+rank: "wet"
+publication_date: "2026-02-20"
+last_updated: "2026-02-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051611"
+soort: "wet"
+stam_id: "17551393"
+version_id: "30970212"
+internal_id: "C44843391"
+label_id: "17452654"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051611/2026-02-20/0"
+intitule_bron: "Stb.2025-269"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-01"
+intitule_published: "2025-10-13"
+intitule_in_force: "2026-02-17"
+intitule_status: "goed"
+original_publication: "Stb.2025-269"
+original_signed_date: "2025-10-01"
+original_published_date: "2025-10-13"
+original_effect: "nieuwe-regeling"
+original_dossier: "36549"
+original_url_id: "stb-2025-269"
+entry_into_force_date: "2026-02-20"
+jci_1_3: "jci1.3:c:BWBR0051611&z=2026-02-20&g=2026-02-20"
+jci_1_0: "1.0:c:BWBR0051611&g=2026-02-20"
+citeertitel_status: "officieel"
+short_title: "Wet regels integriteit en vervolgfuncties bewindspersonen"
+signed_date: "2025-10-01"
+entry_into_force: "2026-02-20"
 ---
-
-# Wet regels integriteit en vervolgfuncties bewindspersonen
+# Wet van 1 oktober 2025, houdende invoering van regels met betrekking tot de integriteit en het loopbaanvervolg van bewindspersonen, alsmede een tweetal wijzigingen van de Wet adviescollege rechtspositie politieke ambtsdragers (Wet regels integriteit en vervolgfuncties bewindspersonen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +43,7 @@ Alzo Wij in overweging genomen hebben dat het wenselijk is een wettelijke gronds
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze wet wordt verstaan onder:
 
@@ -32,11 +59,11 @@ Voor de toepassing van deze wet wordt verstaan onder:
 
 - –. **voormalig ministerie:** het ministerie of de ministeries waarvoor de gewezen bewindspersoon binnen de periode van twee jaar voor zijn ontslag werkzaamheden heeft verricht.
 
-#### Artikel 1a
+##### Artikel 1a
 
 De Minister-President stelt, in overeenstemming met het gevoelen van de ministerraad, een gedragscode voor bewindspersonen vast.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een bewindspersoon of een gewezen bewindspersoon in de periode van twee jaar nadat hem door Ons ontslag is verleend, verzoekt het adviescollege gemotiveerd advies uit te brengen over de aanvaardbaarheid van het aangaan van een dienstverband.
 
@@ -110,7 +137,7 @@ De Minister-President stelt, in overeenstemming met het gevoelen van de minister
 
 14. Bij algemene maatregel van bestuur worden met betrekking tot de bewaartermijn van de in het kader van een advies als bedoeld in het eerste lid aangeleverde gegevens regels gesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een gewezen bewindspersoon gaat binnen twee jaar na zijn ontslag geen dienstverband aan bij zijn voormalig ministerie, noch bij een ander ministerie voor zover hij bij beleidsterreinen van dat andere ministerie intensief en meer dan incidenteel betrokken is geweest.
 
@@ -120,7 +147,7 @@ De Minister-President stelt, in overeenstemming met het gevoelen van de minister
 
 4. Ten aanzien van de adviezen als bedoeld in het derde lid is [artikel 2, elfde tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051611&artikel=2&z=2026-02-20&g=2026-02-20), van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een gewezen bewindspersoon heeft binnen twee jaar na zijn ontslag geen zakelijk contact met de ambtenaren die onder zijn voormalig ministerie ressorteren, noch met ambtenaren die onder andere ministeries ressorteren over de beleidsterreinen waarover de gewezen bewindspersoon voor zijn ontslag intensief en meer dan incidenteel contact had.
 
@@ -132,27 +159,27 @@ De Minister-President stelt, in overeenstemming met het gevoelen van de minister
 
 5. Ten aanzien van de adviezen als bedoeld in het vierde lid is [artikel 2, elfde tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051611&artikel=2&z=2026-02-20&g=2026-02-20), van overeenkomstige toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Algemene pensioen- en uitkeringswet politieke ambtsdragers.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Wet adviescollege rechtspositie politieke ambtsdragers.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Wet open overheid.
 
-#### Artikel 8
+##### Artikel 8
 
 Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze wet wordt aangehaald als: Wet regels integriteit en vervolgfuncties bewindspersonen.
 

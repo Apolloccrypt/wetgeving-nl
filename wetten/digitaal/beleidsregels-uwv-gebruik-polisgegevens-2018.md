@@ -1,18 +1,43 @@
 ---
 title: "Beleidsregels UWV gebruik polisgegevens 2018"
 identifier: "BWBR0041201"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2018-07-28
-laatste_update: 2018-07-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041201"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-07-28"
+last_updated: "2018-07-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041201"
+soort: "zbo"
+stam_id: "14689203"
+version_id: "25163812"
+internal_id: "C35977901"
+label_id: "14641604"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041201/2018-07-28/0"
+intitule_bron: "Stcrt.2018-42236"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-06-26"
+intitule_published: "2018-07-26"
+intitule_in_force: "2018-07-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-42236"
+original_signed_date: "2018-06-26"
+original_published_date: "2018-07-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-42236"
+entry_into_force_date: "2018-07-28"
+jci_1_3: "jci1.3:c:BWBR0041201&z=2018-07-28&g=2018-07-28"
+jci_1_0: "1.0:c:BWBR0041201&g=2018-07-28"
+citeertitel_status: "officieel"
+signed_date: "2018-06-26"
+entry_into_force: "2018-07-28"
 ---
-
 # Beleidsregels UWV gebruik polisgegevens 2018
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 IIIn dit besluit wordt verstaan onder:
 
@@ -36,7 +61,7 @@ IIIn dit besluit wordt verstaan onder:
 
 - j. **polisadministratie:** de polisadministratie, bedoeld in [artikel 33 Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33).
 
-#### Artikel 2. Gebruik maken van de polisadministratie
+##### Artikel 2. Gebruik maken van de polisadministratie
 
 1. Behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041201&artikel=3&z=2018-07-28&g=2018-07-28), gebruikt UWV voor besluiten over de vaststelling van het dagloon, het gemiddeld aantal arbeidsuren, het arbeidsverleden, de wekeneis, het verrekenen van inkomsten, het maatmaninkomen, voor besluiten over de toetsing aan de inkomenseis, alsmede voor de vaststelling of iemand werknemer is voor de werknemersverzekeringen, de gegevens die aanwezig zijn in de polisadministratie.
 
@@ -44,19 +69,19 @@ IIIn dit besluit wordt verstaan onder:
 
 3. UWV gebruikt gegevens die aanwezig zijn in de polisadministratie om de uitkering te herzien dan wel te beëindigen ingevolge [artikel 3:48 Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:48), [artikel 44 WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44) en [artikel 58 WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58).
 
-#### Artikel 3. Uitzonderingen
+##### Artikel 3. Uitzonderingen
 
 Indien UWV vaststelt dat de gegevens in de polisadministratie niet kunnen worden gebruikt, gebruikt UWV gegevens uit een andere bron.
 
-#### Artikel 4
+##### Artikel 4
 
 De [Beleidsregels UWV gebruik polisgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0026139) worden ingetrokken.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregels UWV gebruik polisgegevens 2018.
 

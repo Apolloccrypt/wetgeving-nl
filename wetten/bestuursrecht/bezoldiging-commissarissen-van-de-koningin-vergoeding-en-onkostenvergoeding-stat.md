@@ -1,13 +1,37 @@
 ---
 title: "Bezoldiging commissarissen van de Koningin, vergoeding en onkostenvergoeding statenleden, vergoeding commissieleden en onkostenvergoeding leden gedeputeerde staten"
 identifier: "BWBR0017591"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-01-01
-laatste_update: 2005-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017591"
+country: "nl"
+rank: "circulaire"
+publication_date: "2005-01-01"
+last_updated: "2005-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017591"
+soort: "circulaire"
+stam_id: "6704253"
+version_id: "11542902"
+internal_id: "C15563751"
+label_id: "6692744"
+original_entry_into_force: "2005-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017591/2005-01-01/0"
+intitule_bron: "Stcrt.2004-234"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-11-30"
+intitule_published: "2004-12-03"
+intitule_in_force: "2004-12-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-234"
+original_signed_date: "2004-11-30"
+original_published_date: "2004-12-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-234-p9-SC67693"
+entry_into_force_date: "2005-01-01"
+jci_1_3: "jci1.3:c:BWBR0017591&z=2005-01-01&g=2005-01-01"
+jci_1_0: "1.0:c:BWBR0017591&g=2005-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2004-11-30"
+entry_into_force: "2005-01-01"
 ---
-
 # Bezoldiging commissarissen van de Koningin, vergoeding en onkostenvergoeding statenleden, vergoeding commissieleden en onkostenvergoeding leden gedeputeerde staten
 
 Aan: De provinciebesturen

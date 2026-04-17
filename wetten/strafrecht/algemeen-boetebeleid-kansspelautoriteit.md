@@ -1,13 +1,38 @@
 ---
 title: "Algemeen boetebeleid Kansspelautoriteit"
 identifier: "BWBR0050653"
-categorie: "Strafrecht"
-publicatiedatum: 2025-01-03
-laatste_update: 2025-01-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050653"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-03"
+last_updated: "2025-01-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050653"
+soort: "zbo"
+stam_id: "17335833"
+version_id: "30549602"
+internal_id: "C43789911"
+label_id: "17239944"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050653/2025-01-03/0"
+intitule_bron: "Stcrt.2025-1121"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-17"
+intitule_published: "2025-01-02"
+intitule_in_force: "2025-01-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-1121"
+original_signed_date: "2024-12-17"
+original_published_date: "2025-01-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-1121"
+entry_into_force_date: "2025-01-03"
+jci_1_3: "jci1.3:c:BWBR0050653&z=2025-01-03&g=2025-01-03"
+jci_1_0: "1.0:c:BWBR0050653&g=2025-01-03"
+citeertitel_status: "officieel"
+signed_date: "2024-12-17"
+entry_into_force: "2025-01-03"
 ---
-
 # Algemeen boetebeleid Kansspelautoriteit
 
 gelet op [artikelen 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=35a) en [35b van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=35b) en [artikel 30 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=30) in samenhang met [artikel 13 van het Besluit bestuurlijke boetes financiële sector](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&artikel=13) en [artikelen 4:81](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [5:46, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:46),
@@ -16,7 +41,7 @@ heeft besloten de volgende beleidsregel vast te stellen met betrekking tot het b
 
 #### Paragraaf 1. Definities en toepassing
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In het kader van dit beleid wordt verstaan onder:
 
@@ -54,11 +79,11 @@ In het kader van dit beleid wordt verstaan onder:
 
 - q. **Wwft:** [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282).
 
-#### Artikel 2. Toepassing
+##### Artikel 2. Toepassing
 
 Voor zover de Kansspelautoriteit voor bepaalde overtredingen specifiek boetebeleid heeft vastgesteld, past de Kansspelautoriteit dat specifieke boetebeleid toe bij het bepalen van de hoogte van de boete voor die overtredingen.
 
-#### Artikel 3. Boeteregime
+##### Artikel 3. Boeteregime
 
 De Kansspelautoriteit hanteert bij het opleggen van een boete op basis van deze beleidsregel één van de volgende drie boeteregimes:
 
@@ -70,7 +95,7 @@ De Kansspelautoriteit hanteert bij het opleggen van een boete op basis van deze 
 
 #### Paragraaf 2. Standaardboete
 
-#### Artikel 4. Categorieën
+##### Artikel 4. Categorieën
 
 De Kansspelautoriteit heeft in de bijlage van deze beleidsregel de wettelijke bepalingen waar de Kansspelautoriteit toezicht op houdt gerangschikt in categorie I, II, III, IV of V. Daarbij wordt de volgende indeling gebruikt:
 
@@ -82,7 +107,7 @@ De Kansspelautoriteit heeft in de bijlage van deze beleidsregel de wettelijke be
 | Categorie IV | € 0 t/m € 1.000.000 | € 500.000 |
 | Categorie V | € 0 t/m € 4.000.000 | € 2.000.000 |
 
-#### Artikel 5. Stappen
+##### Artikel 5. Stappen
 
 1. In het kader van dit boeteregime hanteert de Kansspelautoriteit een stappenplan voor het vaststellen van een boete wegens een overtreding van een wettelijke bepaling die is ingedeeld in een categorie als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050653&paragraaf=2&artikel=4&z=2025-01-03&g=2025-01-03).
 
@@ -191,7 +216,7 @@ Indien het verkregen voordeel hoger is dan het na stap 7 berekende boetebedrag, 
 
 #### Paragraaf 3. Boeteregime op basis van een omzetgerelateerde boete
 
-#### Artikel 6. Omzetgerelateerde boete
+##### Artikel 6. Omzetgerelateerde boete
 
 1. De Kansspelautoriteit kan voor overtredingen van bepalingen die zijn ingedeeld in categorie IV een omzetgerelateerde boete opleggen als de wet hiervoor een grondslag biedt en een standaardboete geen passende bestraffing oplevert.
 
@@ -205,7 +230,7 @@ De Kansspelautoriteit stelt het basisbedrag van de boete vast op 3% van de bruto
 
 #### Paragraaf 4. Boeteregime op basis van een voordeelgerelateerde boete
 
-#### Artikel 7. Voordeelgerelateerde boete
+##### Artikel 7. Voordeelgerelateerde boete
 
 1. De Kansspelautoriteit kan voor overtredingen van bepalingen die zijn ingedeeld in categorie IV en V een voordeelgerelateerde boete opleggen als [artikel 32a van de Wwft](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=32a) hiervoor een grondslag biedt en een standaardboete geen passende bestraffing oplevert.
 
@@ -221,7 +246,7 @@ De Kansspelautoriteit verhoogt het na stap 7 berekende boetebedrag met het verkr
 
 #### Paragraaf 5. Slotbepalingen
 
-#### Artikel 8. Afronding boetebedragen
+##### Artikel 8. Afronding boetebedragen
 
 Op grond van dit beleid vastgestelde boetes worden als volgt naar beneden afgerond:
 
@@ -231,7 +256,7 @@ Op grond van dit beleid vastgestelde boetes worden als volgt naar beneden afgero
 
 - iii. boetes vanaf € 5.000.000 op een veelvoud van € 50.000.
 
-#### Artikel 9. Citeertitel en inwerkingtreding
+##### Artikel 9. Citeertitel en inwerkingtreding
 
 Dit beleid wordt aangehaald als: Algemeen boetebeleid Kansspelautoriteit en treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

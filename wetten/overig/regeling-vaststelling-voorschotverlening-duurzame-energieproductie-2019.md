@@ -1,13 +1,39 @@
 ---
-title: "Regeling vaststelling voorschotverlening duurzame energieproductie 2019"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 30 oktober 2018, nr. WJZ/ 18264901, tot vaststelling van de correcties voor de voorschotverlening duurzame energieproductie 2019 (Regeling vaststelling voorschotverlening duurzame energieproductie 2019)"
 identifier: "BWBR0041499"
-categorie: "Overig"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041499"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041499"
+soort: "ministeriele-regeling"
+stam_id: "14845703"
+version_id: "25380002"
+internal_id: "C36242911"
+label_id: "14797374"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041499/2019-01-01/0"
+intitule_bron: "Stcrt.2018-60455"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-10-30"
+intitule_published: "2018-10-31"
+intitule_in_force: "2018-10-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-60455"
+original_signed_date: "2018-10-30"
+original_published_date: "2018-10-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-60455"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041499&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0041499&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling voorschotverlening duurzame energieproductie 2019"
+signed_date: "2018-10-30"
+entry_into_force: "2019-01-01"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat van 30 oktober 2018, nr. WJZ/ 18264901, tot vaststelling van de correcties voor de voorschotverlening duurzame energieproductie 2019 (Regeling vaststelling voorschotverlening duurzame energieproductie 2019)
 
 Gelet op [artikelen 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), [22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), [31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), [39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=39), [47, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47), en [54, vijfde lid, van het Besluit stimulering duurzame energie productie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=54);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Correctiebedragen hernieuwbare elektriciteit
 
-#### Artikel 2
+##### Artikel 2
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2019 als volgt vastgesteld: voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -285,7 +311,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie, b
 | Artikel 14, onderdeel b (netlevering) | Fotovoltaïsche zonnepanelen (Zon PV), ≥ 1 MWp | € 0,041 per kWh | € 0 per kWh |
 | Artikel 14, onderdeel b (niet-netlevering) | Fotovoltaïsche zonnepanelen (Zon PV), ≥ 1 MWp | € 0,060 per kWh | € 0 per kWh |
 
-#### Artikel 3
+##### Artikel 3
 
 De correcties op het tenderbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2019 als volgt vastgesteld: voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 22, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 22, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -311,7 +337,7 @@ De correcties op het tenderbedrag voor subsidie voor een productie-installatie, 
 
 #### § 3. Correctiebedragen hernieuwbaar gas
 
-#### Artikel 4
+##### Artikel 4
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2019 als volgt vastgesteld: voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -434,7 +460,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie, b
 | [Artikel 18, eerste alinea](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&artikel=18) | Verbeterde slibgisting bij rioolwaterzuiveringsinstallaties | € 0,019 per kWh | € 0 per kWh |
 | [Artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&artikel=20) | Biomassavergassing (≥95% biogeen) | € 0,019 per kWh | € 0 per kWh |
 
-#### Artikel 5
+##### Artikel 5
 
 De correcties op het tenderbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2019 als volgt vastgesteld: voor wat betreft de gasprijs, bedoeld in [artikel 39, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=39), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 39, eerste lid, onderdeel b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -445,7 +471,7 @@ De correcties op het tenderbedrag voor subsidie voor een productie-installatie, 
 
 #### § 4. Correctiebedragen hernieuwbare warmte en gecombineerde opwekking van hernieuwbare elektriciteit en hernieuwbare warmte
 
-#### Artikel 6
+##### Artikel 6
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2019 als volgt vastgesteld: voor wat betreft de elektriciteits- of energieprijs, bedoeld in [artikel 14, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), of [47, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47) het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, of artikel 47, eerste lid, onderdelen b en c, het in de vierde kolom genoemde bedrag.
 
@@ -681,7 +707,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie, b
 | [Artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&artikel=36) | Ketel industriële stoom uit houtpellets voor warmte en gecombineerde opwekking | € 0,019 per kWh | € 0 per kWh |
 | [Artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&artikel=38) | Brander op houtpellets voor warmte en gecombineerde opwekking | € 0,021 per kWh | € 0 per kWh |
 
-#### Artikel 7
+##### Artikel 7
 
 De correcties op het tenderbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2019 als volgt vastgesteld: voor wat betreft de elektriciteits- of energieprijs, bedoeld in [artikel 54, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=54) het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 54, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -692,11 +718,11 @@ De correcties op het tenderbedrag voor subsidie voor een productie-installatie, 
 
 #### § 5. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van 1 januari 2019.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling vaststelling voorschotverlening duurzame energieproductie 2019.
 

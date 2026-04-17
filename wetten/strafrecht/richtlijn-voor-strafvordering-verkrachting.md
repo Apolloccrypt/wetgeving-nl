@@ -1,13 +1,35 @@
 ---
 title: "Richtlijn voor strafvordering verkrachting"
 identifier: "BWBR0049863"
-categorie: "Strafrecht"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049863"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049863"
+soort: "beleidsregel"
+stam_id: "17142773"
+version_id: "30171082"
+internal_id: "C43228961"
+label_id: "17051034"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049863/2024-07-01/0"
+intitule_bron: "Stcrt.2024-19865"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-06-24"
+intitule_in_force: "2024-06-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-19865"
+original_published_date: "2024-06-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-19865"
+entry_into_force_date: "2024-07-01"
+jci_1_3: "jci1.3:c:BWBR0049863&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0049863&g=2024-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2024-07-01"
 ---
-
 # Richtlijn voor strafvordering verkrachting
 
 ### Beschrijving

@@ -1,13 +1,36 @@
 ---
-title: "Vrijstelling Maxforce Quantum Mediterraan draaigatje 2022"
+title: "Vrijstelling op grond van artikel 46, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden inzake de biocide Maxforce Quantum (Vrijstelling Maxforce Quantum Mediterraan draaigatje 2022)"
 identifier: "BWBR0046431"
-categorie: "Overig"
-publicatiedatum: 2022-03-16
-laatste_update: 2022-03-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046431"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-03-16"
+last_updated: "2022-03-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046431"
+soort: "ministeriele-regeling"
+stam_id: "16299273"
+version_id: "28488162"
+internal_id: "C40197481"
+label_id: "16224904"
+dtd_version: "2.0"
+original_entry_into_force: "2022-03-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046431/2022-03-16/0"
+intitule_bron: "Stcrt.2022-7632"
+intitule_effect: "wijziging"
+intitule_published: "2022-03-16"
+intitule_in_force: "2022-03-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-7632"
+original_published_date: "2022-03-16"
+original_effect: "wijziging"
+original_url_id: "stcrt-2022-7632"
+entry_into_force_date: "2022-03-16"
+jci_1_3: "jci1.3:c:BWBR0046431&z=2022-03-16&g=2022-03-16"
+jci_1_0: "1.0:c:BWBR0046431&g=2022-03-16"
+citeertitel_status: "officieel"
+short_title: "Vrijstelling Maxforce Quantum Mediterraan draaigatje 2022"
+entry_into_force: "2022-03-16"
 ---
-
 # Vrijstelling op grond van artikel 46, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden inzake de biocide Maxforce Quantum (Vrijstelling Maxforce Quantum Mediterraan draaigatje 2022)
 
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -16,19 +39,19 @@ Gelet op [artikel 46, eerste lid, van de Wet gewasbeschermingsmiddelen en biocid
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Vrijstelling als bedoeld in [artikel 46 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=46) wordt verleend voor het professioneel gebruik van de biocide Maxforce Quantum voor de beheersing van kolonies van het Mediterraan draaigatje (**Tapinoma nigerrimum**).
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de vrijstelling zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
 
-#### Artikel 3
+##### Artikel 3
 
 De vrijstelling wordt verleend van 20 maart 2022 tot en met 15 september 2022.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Vrijstelling Maxforce Quantum Mediterraan draaigatje 2022.
 

@@ -1,18 +1,43 @@
 ---
 title: "Besluit toevoeging in strafzaken BES"
 identifier: "BWBR0028374"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028374"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028374"
+soort: "AMvB-BES"
+stam_id: "10763603"
+version_id: "17739152"
+internal_id: "C24824151"
+label_id: "10738414"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028374/2010-10-10/0"
+intitule_bron: "Stb.2010-556"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-556"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-556"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028374&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028374&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit toevoeging in strafzaken BES
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -32,7 +57,7 @@ bron: "https://wetten.overheid.nl/BWBR0028374"
 
 #### § 2. De Commissie toevoeging in strafzaken
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Commissie toevoeging in strafzaken.
 
@@ -52,7 +77,7 @@ bron: "https://wetten.overheid.nl/BWBR0028374"
 
 - g. de beëindiging van een toevoeging.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De leden van de Commissie worden door Onze Minister benoemd, geschorst en ontslagen. Een benoeming geldt voor twee jaar, welke termijn telkens met twee jaar kan worden verlengd.
 
@@ -64,7 +89,7 @@ bron: "https://wetten.overheid.nl/BWBR0028374"
 
 5. Aan de leden van de Commissie kan door Onze Minister een vergoeding worden toegekend voor de verrichte werkzaamheden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Commissie bepaalt haar eigen werkwijze.
 
@@ -72,7 +97,7 @@ bron: "https://wetten.overheid.nl/BWBR0028374"
 
 #### § 3. De overeenkomst kosteloze rechtskundige bijstand in strafzaken
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Commissie gaat namens Onze Minister voor bepaalde tijd en tot wederopzegging een overeenkomst aan met een of meer advocaten, waarbij deze zich verbinden tegen een vergoeding, overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028374&paragraaf=4&artikel=18&z=2010-10-10&g=2010-10-10), aan on- of minvermogenden, alsmede aan inverzekeringgestelde personen rechtskundige bijstand in strafzaken te verlenen.
 
@@ -86,15 +111,15 @@ bron: "https://wetten.overheid.nl/BWBR0028374"
 
 #### § 4. De toevoeging
 
-#### Artikel 6
+##### Artikel 6
 
 Een toevoeging geschiedt zoveel mogelijk in overeenstemming met de voorkeur van de verdachte.
 
-#### Artikel 7
+##### Artikel 7
 
 Van een door een rechter verleende toevoeging geeft de griffier kennis aan de Commissie.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Zodra tegen de verdachte een bevel tot inverzekeringstelling is verleend, worden de secretaris van de Commissie en de dienstdoende advocaat onverwijld ingelicht door de autoriteit die de verdachte in verzekering heeft gesteld.
 
@@ -104,7 +129,7 @@ Van een door een rechter verleende toevoeging geeft de griffier kennis aan de Co
 
 4. Door of namens de secretaris van de Commissie wordt zo spoedig mogelijk een verklaring van on- of minvermogendheid voor de verdachte aangevraagd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De dienstdoende advocaat draagt er zorg voor dat de melding hem te allen tijde kan bereiken.
 
@@ -116,21 +141,21 @@ Van een door een rechter verleende toevoeging geeft de griffier kennis aan de Co
 
 5. De advocaat wordt uiterlijk ten tijde van het bezoek aan de verdachte in het bezit gesteld van een afschrift van het bevel tot inverzekeringstelling.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien geen dienstdoende advocaat of plaatsvervanger beschikbaar is voor het verlenen van rechtskundige bijstand aan de inverzekeringgestelde, brengt de officier van justitie of de hulpofficier dit ter kennis van de Commissie.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien de verdachte bezwaar maakt tegen de toegevoegde advocaat, draagt de Commissie de taak van de advocaat over aan een andere advocaat die een overeenkomst heeft gesloten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028374&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10).
 
 2. Indien de verdachte te kennen geeft bijstand te verlangen van een gekozen advocaat, wordt zulks doorgegeven aan de hulpofficier van justitie. Deze zal de gekozen raadsman inlichten onder mededeling daarvan aan de piketadvocaat.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien de secretaris van de Commissie de op grond van [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028374&paragraaf=4&artikel=8&z=2010-10-10&g=2010-10-10), aangevraagde verklaring niet verkrijgt, deelt hij de inverzekeringgestelde en de advocaat mee dat de toevoeging krachtens [artikel 62, tweede lid, van het wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=62), na beëindiging van de inverzekeringstelling is vervallen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien [artikel 63 van het wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=63) van toepassing is, wordt de verdachte op de hoogte gesteld van zijn bevoegdheid tot het doen van een verzoek om een toevoeging:
 
@@ -148,23 +173,23 @@ Indien de secretaris van de Commissie de op grond van [artikel 8, vierde lid](ht
 
 3. Het verzoek om een toevoeging, bedoeld in het tweede lid, moet worden gericht tot de Commissie en dient vergezeld te gaan van een kaart als bedoeld in [artikel 2 van de Wet kosteloze rechtskundige bijstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028200&artikel=2), die is verstrekt uiterlijk drie maanden voor de indiening van het verzoek.
 
-#### Artikel 14
+##### Artikel 14
 
 De [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028374&paragraaf=4&artikel=8&z=2010-10-10&g=2010-10-10), en [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028374&paragraaf=4&artikel=11&z=2010-10-10&g=2010-10-10), zijn op de toevoeging krachtens [artikel 63 van het wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=63) van overeenkomstige toepassing.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De toevoeging, met uitzondering van de toevoeging ingevolge [artikel 62 van het wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=62), wordt beëindigd, indien de kaart, bedoeld in [artikel 2, eerste lid, van de Wet kosteloze rechtskundige bijstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028200&artikel=2), wordt ingetrokken.
 
 2. De beëindiging geschiedt door schriftelijke mededeling daarvan aan de betrokkene onder opgave van redenen. Gelijke mededeling geschiedt aan de advocaat.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Van een wijziging in of beëindiging van de toevoeging doet de Commissie schriftelijk mededeling aan de verdachte en de toegevoegde advocaat; een afschrift van de wijziging wordt toegezonden aan de officier van justitie, in geval van een gerechtelijk vooronderzoek of voorlopige hechtenis aan de rechter-commissaris, alsmede, indien de verdachte in het huis van bewaring of de gevangenis verblijft, aan de directeur van die inrichting.
 
 2. De kennisgevingen geschieden door middel van hetzij uitreiking, hetzij verzending over de gewone post.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Indien een advocaat naar het oordeel van de Commissie handelt in strijd met het bij of krachtens dit besluit bepaalde, of de overeenkomst, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028374&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10), kan de Commissie bij beschikking bepalen dat de advocaat, al dan niet voor een bepaalde periode, wordt uitgesloten van toevoegingen.
 
@@ -174,7 +199,7 @@ De [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028374&para
 
 4. Van de beschikking, bedoeld in het eerste lid, wordt een afschrift gezonden aan de betreffende deken van de Orde van Advocaten.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Voor de verleende rechtskundige bijstand ingevolge de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=62) en [63 van het wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=63) wordt een vergoeding toegekend op de volgende grondslag:
 
@@ -202,7 +227,7 @@ De [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028374&para
 
 4. Op rechtskundige bijstand in het kader van een toevoeging, anders dan ingevolge de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=62) en [63 van het wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=63) verleend, zijn het eerste, tweede en derde lid zoveel mogelijk van overeenkomstige toepassing. In gevallen, waarin dit artikel niet voorziet, is de Commissie bevoegd een vergoeding vast te stellen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De advocaat vult ten behoeve van de declaratie van de door hem verrichte werkzaamheden in het kader van de verleende rechtskundige bijstand het formulier «Bericht van het optreden als raadsman» in en zendt dit naar de Commissie.
 
@@ -214,7 +239,7 @@ De [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028374&para
 
 #### § 5. Inlichtingen en kennisgevingen ex [artikel 63, zesde lid, van het wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=63)
 
-#### Artikel 20
+##### Artikel 20
 
 1. De in [artikel 63, zesde lid, van het wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=63) bedoelde inlichtingen en kennisgevingen worden schriftelijk aan de verdachte uitgereikt.
 
@@ -222,6 +247,6 @@ De [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028374&para
 
 #### § 6. Slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit wordt aangehaald als: Besluit toevoeging in strafzaken BES.

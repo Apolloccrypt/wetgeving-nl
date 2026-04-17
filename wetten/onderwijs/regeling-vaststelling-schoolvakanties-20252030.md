@@ -1,20 +1,46 @@
 ---
-title: "Regeling vaststelling schoolvakanties 2025–2030"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 7 juni 2024, nr. 46071358, houdende regels voor de vaststelling van de kerstvakantie 2025, 2026, 2027, 2028, en 2029, de meivakantie in 2026, 2027, 2028, 2029 en 2030 en de spreiding en vaststelling van de zomervakantie 2026, 2027, 2028, 2029 en 2030 (Regeling vaststelling schoolvakanties 2025–2030)"
 identifier: "BWBR0049811"
-categorie: "Onderwijs"
-publicatiedatum: 2025-08-01
-laatste_update: 2025-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049811"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-08-01"
+last_updated: "2025-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049811"
+soort: "ministeriele-regeling"
+stam_id: "17129793"
+version_id: "30147662"
+internal_id: "C43199561"
+label_id: "17038274"
+dtd_version: "2.0"
+original_entry_into_force: "2025-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049811/2025-08-01/0"
+intitule_bron: "Stcrt.2024-19237"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-07"
+intitule_published: "2024-06-17"
+intitule_in_force: "2024-06-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-19237"
+original_signed_date: "2024-06-07"
+original_published_date: "2024-06-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-19237"
+entry_into_force_date: "2025-08-01"
+jci_1_3: "jci1.3:c:BWBR0049811&z=2025-08-01&g=2025-08-01"
+jci_1_0: "1.0:c:BWBR0049811&g=2025-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling schoolvakanties 2025–2030"
+signed_date: "2024-06-07"
+entry_into_force: "2025-08-01"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 7 juni 2024, nr. 46071358, houdende regels voor de vaststelling van de kerstvakantie 2025, 2026, 2027, 2028, en 2029, de meivakantie in 2026, 2027, 2028, 2029 en 2030 en de spreiding en vaststelling van de zomervakantie 2026, 2027, 2028, 2029 en 2030 (Regeling vaststelling schoolvakanties 2025–2030)
 
 Gelet op [artikel 15, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=15), [artikel 20, tweede lid van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=20), [artikel 26, tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=26), de [artikelen 1.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.3), en [2.39, vierde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.39);
 
 Besluit:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,11 +60,11 @@ In deze regeling wordt verstaan onder:
 
 - **regio:** een regio als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049811&artikel=3&z=2025-08-01&g=2025-08-01).
 
-#### Artikel 2. Regio's en perioden voor de zomervakantie en voor de grote vakantie
+##### Artikel 2. Regio's en perioden voor de zomervakantie en voor de grote vakantie
 
 Voor de vaststelling van de perioden van de zomervakantie of van de grote vakantie, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049811&artikel=6&z=2025-08-01&g=2025-08-01), behoort een school tot één van de regio's. De plaats van vestiging is bepalend voor de regio waartoe een school behoort. Indien een school vestigingen heeft in meer dan één regio, behoort elke vestiging tot de regio waarin ze is gelegen.
 
-#### Artikel 3. Regio-indeling
+##### Artikel 3. Regio-indeling
 
 De regio's zijn:
 
@@ -90,11 +116,11 @@ De regio's zijn:
 
 - 3°. Saba.
 
-#### Artikel 4. Samenvoeging gemeenten
+##### Artikel 4. Samenvoeging gemeenten
 
 Bij samenvoeging van gemeenten na publicatie van deze regeling behoort de nieuw te vormen gemeente tot dezelfde regio als die waartoe de samengevoegde gemeenten behoorden. Als de samen te voegen gemeenten tot verschillende regio’s behoorden, beslist de Minister tot welke regio de nieuwe gemeente gaat behoren. Voordat de Minister definitief beslist, wordt het college van burgemeester en wethouders van de nieuwe gemeente gehoord.
 
-#### Artikel 5. De kerst- en meivakanties 2025 tot en met 2030
+##### Artikel 5. De kerst- en meivakanties 2025 tot en met 2030
 
 De perioden voor de kerst- en meivakanties worden voor de jaren 2025 tot en met 2030 voor alle scholen als volgt vastgesteld, met uitzondering van de scholen in de regio Caribisch Nederland.
 
@@ -123,7 +149,7 @@ De perioden voor de kerst- en meivakanties worden voor de jaren 2025 tot en met 
 | Kerst | 22 december 2029 t/m 6 januari 2030 |
 | Mei | 27 april t/m 5 mei 2030 |
 
-#### Artikel 6. De zomervakanties en de grote vakanties 2026, 2027, 2028, 2029 en 2030
+##### Artikel 6. De zomervakanties en de grote vakanties 2026, 2027, 2028, 2029 en 2030
 
 De perioden voor de zomervakanties, respectievelijk voor de grote vakanties in Caribisch Nederland, worden voor de jaren 2026, 2027, 2028, 2029 en 2030 voor alle scholen als volgt vastgesteld:
 
@@ -152,7 +178,7 @@ De perioden voor de zomervakanties, respectievelijk voor de grote vakanties in C
 | Regio Midden | 13 juli t/m 25 augustus 2030 |
 | Regio Zuid Regio Caribisch Nederland | 6 juli t/m 18 augustus 2030 6 juli t/m 18 augustus 2030 |
 
-#### Artikel 7. Mogelijkheden om af te wijken van de regio’s, de zomervakantie en de grote vakantie
+##### Artikel 7. Mogelijkheden om af te wijken van de regio’s, de zomervakantie en de grote vakantie
 
 1. Het bevoegd gezag van een school voor basisonderwijs en een school voor speciaal onderwijs kan de periode van de zomervakantie of van de grote vakantie, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049811&artikel=6&z=2025-08-01&g=2025-08-01), verlengen met ten hoogste twee dagen voorafgaand aan die periode en met ten hoogste twee dagen na die periode.
 
@@ -166,19 +192,19 @@ De perioden voor de zomervakanties, respectievelijk voor de grote vakanties in C
 
 6. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049811&artikel=6&z=2025-08-01&g=2025-08-01) hebben in de gemeenten Vlieland, Terschelling, Ameland en Schiermonnikoog de zomervakanties op de scholen voor basisonderwijs en de scholen voor voortgezet onderwijs een duur van vijf weken. Deze gemeenten volgen de startdatum van de vakanties van regio Noord.
 
-#### Artikel 8. Afwijkingen op verzoek
+##### Artikel 8. Afwijkingen op verzoek
 
 De Minister kan op aanvraag van het bevoegd gezag van een school in bijzondere omstandigheden afwijking toestaan van de perioden, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049811&artikel=5&z=2025-08-01&g=2025-08-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0049811&artikel=6&z=2025-08-01&g=2025-08-01).
 
-#### Artikel 9. Korter schooljaar in verband met spreiding zomervakanties
+##### Artikel 9. Korter schooljaar in verband met spreiding zomervakanties
 
 In afwijking van [2.39, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.39), wordt op scholen voor voortgezet onderwijs in de regio waar een schooljaar vanwege de spreiding van de zomervakanties op grond van deze regeling korter duurt dan in de andere regio’s, in dat schooljaar op ten minste 184 dagen onderwijs verzorgd.
 
-#### Artikel 10. Inwerkingtreding en horizonbepaling
+##### Artikel 10. Inwerkingtreding en horizonbepaling
 
 Deze regeling treedt in werking met ingang van 1 augustus 2025 en vervalt met ingang van 1 oktober 2030.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vaststelling schoolvakanties 2025–2030.
 

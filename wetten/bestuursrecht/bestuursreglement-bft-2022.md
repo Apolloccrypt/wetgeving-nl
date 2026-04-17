@@ -1,13 +1,39 @@
 ---
-title: "Bestuursreglement BFT 2022"
+title: "Bestuursreglement Bureau Financieel Toezicht"
 identifier: "BWBR0048846"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-11-10
-laatste_update: 2023-11-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048846"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-11-10"
+last_updated: "2023-11-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048846"
+soort: "zbo"
+stam_id: "16906073"
+version_id: "29711142"
+internal_id: "C42571621"
+label_id: "16817654"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048846/2023-11-10/0"
+intitule_bron: "Stcrt.2023-29952"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-05-24"
+intitule_published: "2023-11-09"
+intitule_in_force: "2023-11-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-29952"
+original_signed_date: "2022-05-24"
+original_published_date: "2023-11-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-29952"
+entry_into_force_date: "2023-11-10"
+jci_1_3: "jci1.3:c:BWBR0048846&z=2023-11-10&g=2023-11-10"
+jci_1_0: "1.0:c:BWBR0048846&g=2023-11-10"
+citeertitel_status: "officieel"
+short_title: "Bestuursreglement BFT 2022"
+signed_date: "2022-05-24"
+entry_into_force: "2023-11-10"
 ---
-
 # Bestuursreglement Bureau Financieel Toezicht
 
 Gelet op [110, zevende en negende lid, van de Wet op het Notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=110) en [artikel 11, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11),
@@ -18,7 +44,7 @@ Gelet op de goedkeuring van de Minister voor Rechtsbescherming d.d. 12 juni 2023
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit bestuursreglement wordt verstaan onder:
 
@@ -40,13 +66,13 @@ In dit bestuursreglement wordt verstaan onder:
 
 - i. **Minister:** de Minister van Rechtsbescherming.
 
-#### Artikel 2. Taken en werkzaamheden BFT
+##### Artikel 2. Taken en werkzaamheden BFT
 
 1. Het BFT vervult de taken die het BFT bij de [Wna](https://wetten.overheid.nl/jci1.3:c:BWBR0010388), de [Gdw](https://wetten.overheid.nl/jci1.3:c:BWBR0012197) en de [Wwft](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) zijn opgedragen dan wel andere taken die wettelijk of bij algemene maatregel van bestuur aan het BFT worden toebedeeld.
 
 2. Het BFT verricht de werkzaamheden die noodzakelijk zijn om de in het eerste lid bedoelde taken naar behoren te kunnen vervullen.
 
-#### Artikel 3. Samenstelling en inrichting van het bestuur
+##### Artikel 3. Samenstelling en inrichting van het bestuur
 
 1. Het bestuur van het BFT bestaat uit een voorzitter en twee andere bestuursleden.
 
@@ -64,7 +90,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 8. Een bestuurslid meldt het voornemen tot het aanvaarden van een nevenfunctie anders dan uit hoofde van zijn functie aan de minister. De lijst van nevenfuncties van de voorzitter en de bestuursleden is gepubliceerd op de website van het BFT: [www.bureauft.nl](onbekend).
 
-#### Artikel 4. Werkwijze en procedure van het bestuur
+##### Artikel 4. Werkwijze en procedure van het bestuur
 
 1. Het bestuur van het BFT vergadert zo vaak als nodig is voor een goede afwikkeling van zijn werkzaamheden, doch ten minste zes maal per jaar.
 
@@ -90,7 +116,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 12. Het tiende lid is van overeenkomstige toepassing op de directeur, de bestuurssecretaris en op degene die de vergadering geheel dan wel gedeeltelijk zullen bijwonen.
 
-#### Artikel 5. Besluitvorming door het bestuur
+##### Artikel 5. Besluitvorming door het bestuur
 
 1. Ieder bestuurslid heeft één stem.
 
@@ -104,13 +130,13 @@ In dit bestuursreglement wordt verstaan onder:
 
 6. De besluitvorming, als bedoeld in het vijfde lid, wordt met de genomen beslissing in het verslag van de daaropvolgende bestuursvergadering vastgelegd.
 
-#### Artikel 6. Mandaat
+##### Artikel 6. Mandaat
 
 1. Het bestuur stelt een mandaatbesluit vast dat wordt gepubliceerd.
 
 2. Het bestuur kan een mandaatinstructie vaststellen, waarin staat welke besluiten aan het bestuur moeten worden voorgelegd.
 
-#### Artikel 7. Directeur
+##### Artikel 7. Directeur
 
 1. Het bestuur wordt bijgestaan door een directeur.
 
@@ -122,25 +148,25 @@ In dit bestuursreglement wordt verstaan onder:
 
 5. De directeur ziet toe op een juiste uitvoering van de actiepunten en de besluiten van de bestuursvergadering.
 
-#### Artikel 8. Beleidsplan
+##### Artikel 8. Beleidsplan
 
 1. Het bestuur stelt in samenwerking met de directeur een meerjarig beleidsplan op en stelt deze vast.
 
 2. Het beleidsplan omvat de beoogde activiteiten en de strategische keuzes voor de daarop volgende jaren.
 
-#### Artikel 9. Jaarplan en Begroting
+##### Artikel 9. Jaarplan en Begroting
 
 1. Het bestuur keurt jaarlijks het door de directeur opgestelde jaarplan en de daarbij behorende begroting goed.
 
 2. De begroting wordt ter goedkeuring aan de minister gezonden.
 
-#### Artikel 10. Jaarverslag en jaarrekening
+##### Artikel 10. Jaarverslag en jaarrekening
 
 1. Het jaarverslag wordt voor 15 maart opgesteld en daarna aan de minister toegezonden.
 
 2. Tevens wordt het jaarverslag toegezonden aan de Minister van Financiën en aan beide Kamers der Staten-Generaal.
 
-#### Artikel 11. Ondernemingsraad
+##### Artikel 11. Ondernemingsraad
 
 1. Het BFT heeft een Ondernemingsraad. De directeur treedt op als bestuurder namens het BFT.
 
@@ -148,7 +174,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 3. Ten minste één keer per jaar vindt er overleg plaats tussen bestuur en de Ondernemingsraad.
 
-#### Artikel 12. Slotbepalingen
+##### Artikel 12. Slotbepalingen
 
 1. Dit reglement wordt aangehaald als het Bestuursreglement BFT 2022.
 

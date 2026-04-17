@@ -1,13 +1,35 @@
 ---
-title: "Reglement op de Rijkskweekschool voor Vroedvrouwen te Rotterdam"
+title: "Besluit van 9 augustus 1958 tot vaststelling van een nieuw Reglement voor de Rijkskweekschool voor Vroedvrouwen te Rotterdam"
 identifier: "BWBR0002291"
-categorie: "Onderwijs"
-publicatiedatum: 1994-01-01
-laatste_update: 1994-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002291"
+country: "nl"
+rank: "amvb"
+publication_date: "1994-01-01"
+last_updated: "1994-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002291"
+soort: "AMvB"
+stam_id: "834773"
+version_id: "1210012"
+internal_id: "C1210011"
+label_id: "808904"
+dtd_version: "2.0"
+original_entry_into_force: "1958-09-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002291/1994-01-01/0"
+intitule_bron: "Stb.1958-409"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1958-08-09"
+intitule_status: "goed"
+original_publication: "Stb.1958-409"
+original_signed_date: "1958-08-09"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1958-09-25"
+jci_1_3: "jci1.3:c:BWBR0002291&z=1994-01-01&g=1994-01-01"
+jci_1_0: "1.0:c:BWBR0002291&g=1994-01-01"
+citeertitel_status: "officieel"
+short_title: "Reglement op de Rijkskweekschool voor Vroedvrouwen te Rotterdam"
+signed_date: "1958-08-09"
+entry_into_force: "1958-09-25"
 ---
-
 # Besluit van 9 augustus 1958 tot vaststelling van een nieuw Reglement voor de Rijkskweekschool voor Vroedvrouwen te Rotterdam
 
 Op de voordracht van Onze Minister van Sociale Zaken en Volksgezondheid, d.d. 17 juni 1958, no. 7631, Directie Volksgezondheid, afd. Medische Beroepen en Ziektenbestrijding;
@@ -18,7 +40,7 @@ Gelet op het nader rapport van Onze Minister van Sociale Zaken en Volksgezondhei
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -28,13 +50,13 @@ In dit besluit wordt verstaan onder:
 
 - c. "de Rijkskweekschool": de Rijkskweekschool voor Vroedvrouwen te Rotterdam.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Rijkskweekschool voor Vroedvrouwen te Rotterdam, aan welke inrichting een opleiding kan worden gevolgd voor het examen als vroedvrouw, bedoeld in artikel 12 van het Koninklijk besluit van 12 februari 1879 (**Stb.** 36).
 
 2. Ten behoeve van het praktisch onderwijs is aan de Rijkskweekschool een kraamafdeling verbonden, waarin opname van patiënten plaats vindt overeenkomstig de voorschriften van het door Onze Minister vast te stellen Huishoudelijk Reglement.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De opleiding, bedoeld in het eerste lid van het vorige artikel, duurt drie jaren en omvat:
 
@@ -50,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 2. De jaarlijkse cursus vangt aan op de eerste werkdag in september, geen zaterdag zijnde, en eindigt op de laatste dag van augustus van het daaropvolgende jaar.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de Rijkskweekschool wordt tevens met inachtneming van hetgeen door Onze Minister is bepaald krachtens het Koninklijk besluit van 21 december 1928, **Stcrt.** 253, onder door de Commissie te stellen voorwaarden, gelegenheid gegeven tot het volgen van de opleiding en het afleggen van het examen in de kraamverpleging.
 
@@ -58,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 3. Aan de Rijkskweekschool kan bovendien, onder door de Commissie te stellen voorwaarden, een aantal bij een kraamcentrum in opleiding zijnde kraamverzorgsters te werk worden gesteld voor het volgen van een praktische opleiding.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ten einde tot de opleiding, bedoeld in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002291&artikel=2&z=1994-01-01&g=1994-01-01), te kunnen worden toegelaten, dient de kandidaat een vergelijkend examen af te leggen, waartoe jaarlijks, op de plaatsen en de tijden door Onze Minister te bepalen, volgens een door deze vast te stellen programma gelegenheid wordt gegeven.
 
@@ -68,7 +90,7 @@ In dit besluit wordt verstaan onder:
 
 4. Het examen is niet openbaar.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Tot het in het vorige artikel bedoelde examen wordt niemand toegelaten, tenzij aan de examencommissie blijkt:
 
@@ -86,7 +108,7 @@ In dit besluit wordt verstaan onder:
 
 3. Personen, die het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002291&artikel=5&z=1994-01-01&g=1994-01-01) bedoelde examen met gunstig gevolg hebben afgelegd, doch niet voor plaatsing op de Rijkskweekschool in aanmerking komen, zijn bij eerste herhaling van het examen vrijgesteld van betaling van het onder 5°. van het eerste lid bedoelde examengeld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het examen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002291&artikel=5&z=1994-01-01&g=1994-01-01), wordt afgenomen door een Commissie waarvan de Voorzitter, de plaatsvervangend Voorzitter, de leden, de plaatsvervangende leden en de secretaris telkenjare door Onze Minister worden benoemd.
 
@@ -96,7 +118,7 @@ In dit besluit wordt verstaan onder:
 
 4. De secretaris ontvangt een beloning voor het verrichten van administratieve arbeid, waarvan het bedrag door Onze Minister wordt vastgesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij ontstentenis van de Voorzitter der examencommissie wordt deze vervangen door een plaatsvervangend Voorzitter.
 
@@ -106,19 +128,19 @@ In dit besluit wordt verstaan onder:
 
 4. De beslissingen der examencommissie worden genomen bij meerderheid van stemmen; bij staking van stemmen beslist de Voorzitter.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Alvorens aan het mondeling examen te kunnen deelnemen, worden de kandidaten, die het schriftelijk examen met goed gevolg hebben afgelegd, door de Geneesheer-Directeur, of op diens last door een aan de Rijkskweekschool verbonden arts, aan een geneeskundig onderzoek onderworpen en op een consultatiebureau voor tuberculosebestrijding op tuberculose van de ademhalingsorganen onderzocht.
 
 2. Na afloop van het mondeling examen brengt de examencommissie aan Onze Minister verslag uit van haar bevindingen, onder opgave van de geëxamineerden die voor plaatsing als leerling op de Rijkskweekschool in aanmerking komen, in de volgorde waarin deze naar haar oordeel daarop aanspraak hebben.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onze Minister beslist, met inachtneming van het door hem, de Commissie gehoord, jaarlijks vast te stellen aantal plaatsen, over de toelating tot de Rijkskweekschool, en doet hiervan aan belanghebbenden mededeling.
 
 2. De Commissie beslist, wie der toegelaten leerlingen uitwonend kunnen zijn.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De kosten van voeding, bewassing en huisvesting der inwonende leerlingen, benevens de kosten, verbonden aan het onderwijs en de leermiddelen, komen, behoudens het bepaalde in het tweede lid van dit artikel, ten laste van 's Rijks Schatkist.
 
@@ -128,7 +150,7 @@ In dit besluit wordt verstaan onder:
 
 4. De Commissie is bevoegd, bij tussentijdse beëindiging van de opleiding het schoolgeld gedeeltelijk kwijt te schelden of te restitueren.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het onderwijs aan de Rijkskweekschool wordt gegeven door de Geneesheer-Directeur, alsmede onder diens verantwoordelijkheid door een of meer artsen, meesteressen-vroedvrouw, verpleegsters, onderwijzers of onderwijzeressen.
 
@@ -140,13 +162,13 @@ In dit besluit wordt verstaan onder:
 
 5. Gedurende dit tijdvak kunnen inwonende leerlingen desgewenst in de Rijkskweekschool verblijf houden.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Commissie kan een leerling-vroedvrouw, die na het eerste of tweede cursusjaar blijk heeft gegeven van onvoldoende vorderingen, toestaan het onderwijs in dat cursusjaar nog éénmaal te volgen.
 
 2. Indien een leerling het in artikel 16 van de wet van 25 december 1878 (Stb. 222) bedoelde theoretische gedeelte van het examen als vroedvrouw wenst af te leggen, zonder dat zij twee, dan wel bij toepassing van het vorige lid drie of vier volle, achtereenvolgende jaren de opleiding aan de Rijkskweekschool heeft gevolgd, kan de Commissie, indien daartegen harerzijds geen bedenkingen bestaan, op verzoek van belanghebbende een desbetreffende verklaring afgeven.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De leerlingen mogen zonder toestemming van de Geneesheer-Directeur geen gedeelte van het onderwijs verzuimen, en zijn gehouden gedurende het tijdperk, in het [vierde lid van artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002291&artikel=12&z=1994-01-01&g=1994-01-01) bedoeld, in de inrichting aanwezig te zijn op verbeurte van een som van f 200, welke in 's Rijks Schatkist dient te worden gestort.
 
@@ -154,11 +176,11 @@ In dit besluit wordt verstaan onder:
 
 3. Belanghebbende kan tegen een besluit als bedoeld in het eerste lid, beroep instellen bij Onze Minister.
 
-#### Artikel 15
+##### Artikel 15
 
 De leerlingen zijn terzake van haar uitrusting in de Rijkskweekschool onderworpen aan de voorschriften daaromtrent door de Geneesheer-Directeur te geven.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het toezicht op het beheer over de Rijkskweekschool voor Vroedvrouwen is opgedragen aan een Commissie van toezicht en beheer, bestaande uit tenminste drie leden, die door Ons op voordracht van Onze Minister voor de tijd van zes jaren worden benoemd en die onmiddellijk kunnen worden herbenoemd.
 
@@ -172,35 +194,35 @@ De leerlingen zijn terzake van haar uitrusting in de Rijkskweekschool onderworpe
 
 6. De Commissie is terzake van de uitoefening van haar taak verantwoording verschuldigd aan Onze Minister.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De dagelijkse leiding van de Rijkskweekschool is onder verantwoordelijkheid van de Commissie opgedragen aan de Geneesheer-Directeur, voor wie Onze Minister, de Commissie gehoord, een instructie vaststelt en die verplicht is de aanwijzingen van de Commissie op te volgen.
 
 2. Het financieel beheer van de Rijkskweekschool is onder toezicht van de Commissie opgedragen aan een Administrateur, die onverminderd zijn rekenplichtigheid aan de Algemene Rekenkamer volgens [artikel 39 van de Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003075&artikel=39) (**Stb.** 1927, 259) van het door hem gevoerde beheer verantwoording verschudigd is aan Onze Minister, de Commissie en de Geneesheer-Directeur en die bij de uitoefening van de hem opgedragen taken de aanwijzingen opvolgt van de Commissie en de Geneesheer-Directeur.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Geneesheer-Directeur, de artsen, de meesteressen-vroedvrouw, de verpleegsters, de onderwijzeressen en onderwijzers benevens het andere personeel van de Rijkskweekschool worden op voordracht van de Commissie door Onze Minister benoemd, geschorst en ontslagen.
 
 2. De vervanging van de Directeur-Geneesheer tijdens diens afwezigheid, de werkzaamheden en verplichtingen van het personeel, de leerlingen en de in opleiding zijnde kraamverzorgsters, de schooltucht en leefwijze der leerlingen wordt geregeld in het in het [tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002291&artikel=2&z=1994-01-01&g=1994-01-01) bedoelde Huishoudelijk Reglement.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Jaarlijks voor 15 december stelt de Commissie een begroting van uitgaven en middelen samen ten behoeve van de Rijkskweekschool voor het jaar, volgend op het komend dienstjaar en onderwerpt deze aan de goedkeuring van Onze Minister.
 
 2. Na het einde van elke cursus dient zij een uitvoerig verslag omtrent de toestand van de Rijkskweekschool aan Onze Minister in.
 
-#### Artikel 20
+##### Artikel 20
 
 Dit besluit kan worden aangehaald als Reglement op de Rijkskweekschool voor Vroedvrouwen te Rotterdam.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Bij het in werking treden van dit Besluit blijven de op dat tijdstip in functie zijnde Geneesheer-Directeur en het personeel van de Rijkskweekschool als zodanig gehandhaafd.
 
 2. De leden van de Commissie, die op dat tijdstip zitting hebben, zullen volgens een door hen bij loting op te maken rooster successievelijk aftreden op 1 januari 1959 en vervolgens op 1 januari van ieder volgend jaar.
 
-#### Artikel 22
+##### Artikel 22
 
 Het Koninklijk besluit van 9 januari 1933 (**Stb.** 7) tot vaststelling van een Reglement voor de Rijkskweekschool voor Vroedvrouwen te Rotterdam wordt ingetrokken.
 

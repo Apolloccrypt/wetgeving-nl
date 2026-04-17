@@ -1,20 +1,45 @@
 ---
 title: "Besluit tot verlening van mandaat en machtiging met betrekking tot het Binnenvaartpolitiereglement Rijkswaterstaat Midden-Nederland 2015"
 identifier: "BWBR0036429"
-categorie: "Milieu"
-publicatiedatum: 2015-03-25
-laatste_update: 2015-03-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036429"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-03-25"
+last_updated: "2015-03-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036429"
+soort: "ministeriele-regeling"
+stam_id: "13081583"
+version_id: "22312182"
+internal_id: "C31958961"
+label_id: "13050344"
+dtd_version: "2.0"
+original_entry_into_force: "2015-03-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036429/2015-03-25/0"
+intitule_bron: "Stcrt.2015-7950"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-03-09"
+intitule_published: "2015-03-24"
+intitule_in_force: "2015-03-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-7950"
+original_signed_date: "2015-03-09"
+original_published_date: "2015-03-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-7950"
+entry_into_force_date: "2015-03-25"
+jci_1_3: "jci1.3:c:BWBR0036429&z=2015-03-25&g=2015-03-25"
+jci_1_0: "1.0:c:BWBR0036429&g=2015-03-25"
+citeertitel_status: "officieel"
+signed_date: "2015-03-09"
+entry_into_force: "2015-03-25"
 ---
-
 # Besluit tot verlening van mandaat en machtiging met betrekking tot het Binnenvaartpolitiereglement Rijkswaterstaat Midden-Nederland 2015
 
 Gelet op [artikel 1, onderdeel b, van de Beschikking aanwijzing bevoegde autoriteiten Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0017541&artikel=1);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Ten aanzien van de in het tweede lid genoemde artikelen van het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628) wordt mandaat en machtiging verleend aan de volgende functionarissen werkzaam bij Rijkswaterstaat Midden-Nederland:
 
@@ -80,11 +105,11 @@ Besluit:
 
 3. Het mandaat verleend aan de directeur Netwerkontwikkeling omvat mede de bevoegdheid tot het beslissen op bezwaar, mits het besluit waartegen bezwaar is gemaakt niet door hem in mandaat is genomen. Het mandaat verleend aan het hoofd van de afdeling Vergunningen heeft geen betrekking op de bevoegdheid tot het beslissen op bezwaar.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2013.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit tot verlening van mandaat en machtiging met betrekking tot het Binnenvaartpolitiereglement Rijkswaterstaat Midden-Nederland 2015.
 

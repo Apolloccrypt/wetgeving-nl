@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid archiefbescheiden van de Inspecteur van de Waarborg, 1804–1984"
+title: "Besluit van de Minister van Financiën van 19 september 2005, nr. BenC 2005-976M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Inspecteur van de Waarborg, 1804–1984"
 identifier: "BWBR0018785"
-categorie: "Overig"
-publicatiedatum: 2005-09-29
-laatste_update: 2005-09-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018785"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-09-29"
+last_updated: "2005-09-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018785"
+soort: "ministeriele-regeling"
+stam_id: "7358933"
+version_id: "12316492"
+internal_id: "C16567001"
+label_id: "7346704"
+dtd_version: "2.0"
+original_entry_into_force: "2005-09-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018785/2005-09-29/0"
+intitule_bron: "Stcrt.2005-187"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-09-19"
+intitule_published: "2005-09-27"
+intitule_in_force: "2005-09-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-187"
+original_signed_date: "2005-09-19"
+original_published_date: "2005-09-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-187-p11-SC71712"
+entry_into_force_date: "2005-09-29"
+jci_1_3: "jci1.3:c:BWBR0018785&z=2005-09-29&g=2005-09-29"
+jci_1_0: "1.0:c:BWBR0018785&g=2005-09-29"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archiefbescheiden van de Inspecteur van de Waarborg, 1804–1984"
+signed_date: "2005-09-19"
+entry_into_force: "2005-09-29"
 ---
-
 # Besluit van de Minister van Financiën van 19 september 2005, nr. BenC 2005-976M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Inspecteur van de Waarborg, 1804–1984
 
 Gelet op [artikel 15, eerste lid, onder a en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);

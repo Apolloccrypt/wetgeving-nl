@@ -1,13 +1,38 @@
 ---
 title: "Procuratieregeling Stichting Autoriteit Financiële Markten"
 identifier: "BWBR0032645"
-categorie: "Overig"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032645"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032645"
+soort: "zbo"
+stam_id: "12015203"
+version_id: "19993032"
+internal_id: "C28090741"
+label_id: "11986904"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032645/2013-01-01/0"
+intitule_bron: "Stcrt.2012-27059"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-17"
+intitule_published: "2012-12-27"
+intitule_in_force: "2012-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-27059"
+original_signed_date: "2012-12-17"
+original_published_date: "2012-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-27059"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032645&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032645&g=2013-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2012-12-17"
+entry_into_force: "2013-01-01"
 ---
-
 # Procuratieregeling Stichting Autoriteit Financiële Markten
 
 De procuratieregeling van de AFM houdt in dat aangewezen personen volmacht hebben tot het aangaan van een verplichting namens de AFM (daaronder wordt ook begrepen het voldoen aan een verplichting en het verlengen van een verplichting). Dit met inachtneming van in deze regeling genoemde voorwaarden.

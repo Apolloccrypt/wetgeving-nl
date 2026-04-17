@@ -1,24 +1,48 @@
 ---
 title: "Aanwijzing resterende projecten uitkeringsregeling bestrijding verontreiniging rijkswateren"
 identifier: "BWBR0005451"
-categorie: "Sociaal recht"
-publicatiedatum: 1992-04-16
-laatste_update: 1992-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005451"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1992-04-16"
+last_updated: "1992-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005451"
+soort: "ministeriele-regeling"
+stam_id: "3694083"
+version_id: "5477002"
+internal_id: "C5670091"
+label_id: "3673884"
+dtd_version: "2.0"
+original_entry_into_force: "1992-04-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005451/1992-04-16/0"
+intitule_bron: "Stcrt.1992-76"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-03-18"
+intitule_published: "1992-04-16"
+intitule_in_force: "1992-04-16"
+intitule_status: "goed"
+original_publication: "Stcrt.1992-76"
+original_signed_date: "1992-03-18"
+original_published_date: "1992-04-16"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-04-16"
+jci_1_3: "jci1.3:c:BWBR0005451&z=1992-04-16&g=1992-04-16"
+jci_1_0: "1.0:c:BWBR0005451&g=1992-04-16"
+citeertitel_status: "officieel"
+signed_date: "1992-03-18"
+entry_into_force: "1992-04-16"
 ---
-
 # Aanwijzing resterende projecten uitkeringsregeling bestrijding verontreiniging rijkswateren
 
 Overwegende dat de Minister van Verkeer en Waterstaat bij besluit van 29 juli 1991, nr. R 99443A, Stcrt. 147, de Uitkeringsregeling bestrijding verontreiniging rijkswateren (UKR) heeft gewijzigd in verband met het beëindigen van deze regeling per 31 december 1995 en dat de resterende nog ingevolge artikel 4 van de UKR voor een uitkering in aanmerking komende projecten definitief moeten worden vastgesteld:
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De op bijgevoegde lijsten A en B vermelde projecten komen nog in aanmerking voor een uitkering op grond van artikel 4 van de uitkeringsregeling bestrijding verontreiniging rijkswateren (UKR).
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van heden.
 

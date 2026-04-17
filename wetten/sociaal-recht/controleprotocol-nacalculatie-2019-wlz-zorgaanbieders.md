@@ -1,13 +1,35 @@
 ---
 title: "Controleprotocol nacalculatie 2019 Wlz-zorgaanbieders"
 identifier: "BWBR0043061"
-categorie: "Sociaal recht"
-publicatiedatum: 2020-01-09
-laatste_update: 2020-01-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043061"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-01-09"
+last_updated: "2020-01-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043061"
+soort: "zbo"
+stam_id: "15318963"
+version_id: "26409232"
+internal_id: "C37523711"
+label_id: "15264714"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043061/2020-01-09/0"
+intitule_bron: "Stcrt.2020-1664"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-01-09"
+intitule_in_force: "2020-01-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-1664"
+original_published_date: "2020-01-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-1664"
+entry_into_force_date: "2020-01-09"
+jci_1_3: "jci1.3:c:BWBR0043061&z=2020-01-09&g=2020-01-09"
+jci_1_0: "1.0:c:BWBR0043061&g=2020-01-09"
+citeertitel_status: "redactioneel"
+entry_into_force: "2020-01-09"
 ---
-
 # Controleprotocol nacalculatie 2019 Wlz-zorgaanbieders
 
 ### 1. Inleiding

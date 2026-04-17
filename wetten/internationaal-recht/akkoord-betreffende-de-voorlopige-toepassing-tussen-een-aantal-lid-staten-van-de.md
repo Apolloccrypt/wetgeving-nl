@@ -1,13 +1,34 @@
 ---
 title: "Akkoord betreffende de voorlopige toepassing tussen een aantal Lid-Staten van de Europese Unie van de op basis van artikel K.3 van het Verdrag betreffende de Europese Unie opgestelde Overeenkomst inzake het gebruik van informatica op douanegebied"
 identifier: "BWBV0001459"
-categorie: "Internationaal recht"
-publicatiedatum: 2005-12-25
-laatste_update: 2005-12-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001459"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-12-25"
+last_updated: "2005-12-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001459"
+soort: "verdrag"
+stam_id: "10000426153"
+version_id: "10002443072"
+internal_id: "C10006988061"
+label_id: "10000426264"
+original_entry_into_force: "2005-12-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001459/2005-12-25/0"
+intitule_bron: "Trb.2006-39"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2006-02-24"
+intitule_in_force: "2006-02-24"
+intitule_status: "vervallen"
+original_publication: "Trb.2006-39"
+original_published_date: "2006-02-24"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2006-39"
+entry_into_force_date: "2005-12-25"
+jci_1_3: "jci1.3:c:BWBV0001459&z=2005-12-25&g=2005-12-25"
+jci_1_0: "1.0:c:BWBV0001459&g=2005-12-25"
+citeertitel_status: "officieel"
+entry_into_force: "2005-12-25"
 ---
-
 # Akkoord betreffende de voorlopige toepassing tussen een aantal Lid-Staten van de Europese Unie van de op basis van artikel K.3 van het Verdrag betreffende de Europese Unie opgestelde Overeenkomst inzake het gebruik van informatica op douanegebied
 
 Het Koninkrijk België,
@@ -50,27 +71,27 @@ Overwegende dat een eventuele voorlopige toepassing tussen bepaalde Lid-Staten v
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 

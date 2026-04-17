@@ -1,13 +1,39 @@
 ---
-title: "Speelautomatenbesluit 2000"
+title: "Besluit van 23 mei 2000, houdende regels ter uitvoering van titel VA van de Wet op de kansspelen (Speelautomatenbesluit 2000)"
 identifier: "BWBR0011373"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011373"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011373"
+soort: "AMvB"
+stam_id: "1229703"
+version_id: "1811632"
+internal_id: "C21517181"
+label_id: "1190814"
+dtd_version: "2.0"
+original_entry_into_force: "2000-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011373/2024-07-01/0"
+intitule_bron: "Stb.2000-223"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-05-23"
+intitule_published: "2000-05-30"
+intitule_in_force: "2000-05-30"
+intitule_status: "goed"
+original_publication: "Stb.2000-223"
+original_signed_date: "2000-05-23"
+original_published_date: "2000-05-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2000-223"
+entry_into_force_date: "2000-06-01"
+jci_1_3: "jci1.3:c:BWBR0011373&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0011373&g=2024-07-01"
+citeertitel_status: "officieel"
+short_title: "Speelautomatenbesluit 2000"
+signed_date: "2000-05-23"
+entry_into_force: "2000-06-01"
 ---
-
 # Besluit van 23 mei 2000, houdende regels ter uitvoering van titel VA van de Wet op de kansspelen (Speelautomatenbesluit 2000)
 
 Op de voordracht van Onze Minister van Economische Zaken van 4 november 1999, nr. WJZ/W 99062493;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -64,11 +90,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Aanwezigheidsvergunning
 
-#### Artikel 2
+##### Artikel 2
 
 Als laagdrempelige inrichtingen worden aangemerkt inrichtingen waar meer dan drie biljarttafels aanwezig zijn en waarvoor ingevolge [artikel 3, eerste lid, van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) vergunning is verleend en deze nog van kracht is, of waarvan de ondernemer inschrijfplichtig en ingeschreven is bij het Bedrijfschap Horeca.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij de indiening van de aanvraag van een aanwezigheidsvergunning die geldt voor een tijdvak van 12 maanden, is de aanvrager een vergoeding als bedoeld in artikel 30d, derde lid, van de wet verschuldigd ten bedrage van:
 
@@ -80,7 +106,7 @@ Als laagdrempelige inrichtingen worden aangemerkt inrichtingen waar meer dan dri
 
 3. Het eerste lid is van overeenkomstige toepassing, indien de vergunning geldt voor een tijdvak van meer dan vier jaar of voor onbepaalde tijd, met dien verstande dat voor de toepassing van onderdeel a in plaats van € 56,50 een bedrag van € 226,50 en voor de toepassing van onderdeel b in plaats van € 22,50 een bedrag van € 90,50 en in plaats van € 34 een bedrag van € 136 geldt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een aanwezigheidsvergunning voor een hoogdrempelige inrichting of een speelautomatenhal wordt niet verleend aan degene die:
 
@@ -126,23 +152,23 @@ en binnen vijf jaar na deze veroordeling opnieuw wordt veroordeeld tot een straf
 
 8. De eisen van het eerste tot en met het zevende lid zijn van overeenkomstige toepassing op bedrijfsleiders en beheerders van een hoogdrempelige inrichting of een speelautomatenhal.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
 #### § 3. Exploitatievergunning
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aanvrager van een exploitatievergunning verstrekt bij de aanvraag gegevens betreffende zijn onderneming en de personen die met de dagelijkse leiding van de onderneming zijn belast, alsmede over de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=3&artikel=8&z=2024-07-01&g=2024-07-01) bedoelde faciliteiten.
 
 2. Bij de indiening van de aanvraag van een exploitatievergunning is de aanvrager een vergoeding voor de kosten verbonden aan de behandeling van de aanvraag en de afgifte van de vergunning verschuldigd van € 1 815,12.
 
-#### Artikel 7
+##### Artikel 7
 
 [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=2&artikel=4&z=2024-07-01&g=2024-07-01) is van overeenkomstige toepassing op de aanvrager van een exploitatievergunning en de bedrijfsleiders en beheerders van een exploitatie.
 
-#### Artikel 8
+##### Artikel 8
 
 De houder van een exploitatievergunning heeft de beschikking over een werkplaats met een oppervlakte van ten minste 35 m2 en over testapparatuur en overige gereedschappen, nodig voor onderhoud en reparatie van speelautomaten, dan wel heeft permanent de mogelijkheid een derde in te schakelen die over dergelijke faciliteiten beschikt.
 
@@ -150,13 +176,13 @@ De houder van een exploitatievergunning heeft de beschikking over een werkplaats
 
 #### § 4.1. Speelautomaten algemeen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Op het model van een speelautomaat wordt op een voor de speler zichtbare plaats en op een voor hem duidelijke wijze informatie gegeven met betrekking tot de wijze waarop het spel gespeeld wordt, het spelverloop en de mogelijke spelresultaten.
 
 2. Tekens, voorstellingen of opschriften op het model van een speelautomaat, die winstmogelijkheden aangeven, zijn niet misleidend en geven niet anderszins aanleiding tot misvatting.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het model van een speelautomaat is zo sterk en duurzaam dat het bij blootstelling aan storingen of beïnvloeding van buitenaf blijft voldoen aan de voorschriften, bij of krachtens dit besluit gegeven.
 
@@ -170,13 +196,13 @@ De houder van een exploitatievergunning heeft de beschikking over een werkplaats
 
 #### § 4.2. Speelautomaten bestemd voor opstelling in speelcasino's
 
-#### Artikel 11
+##### Artikel 11
 
 In de vergunning tot het aanwezig hebben van een of meer speelautomaten in een speelcasino worden voorschriften gegeven, welke gelden als voorwaarden tot toelating van het model van de kansspelautomaten, bestemd voor de opstelling in speelcasino's. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=4&sub-paragraaf=4.1&artikel=9&z=2024-07-01&g=2024-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=4&sub-paragraaf=4.1&artikel=10&z=2024-07-01&g=2024-07-01) zijn van toepassing.
 
 #### § 4.3. Kansspelautomaten niet bestemd voor opstelling in speelautomatenhallen of speelcasino's
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het model van een kansspelautomaat niet bestemd voor opstelling in een speelautomatenhal of een speelcasino, is zodanig geconstrueerd dat:
 
@@ -276,7 +302,7 @@ In de vergunning tot het aanwezig hebben van een of meer speelautomaten in een s
 
 #### § 4.4. Kansspelautomaten bestemd voor opstelling in speelautomatenhallen
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het model van een kansspelautomaat bestemd voor opstelling in een speelautomatenhal, is zodanig geconstrueerd dat:
 
@@ -366,7 +392,7 @@ In de vergunning tot het aanwezig hebben van een of meer speelautomaten in een s
 
 6. Onze Minister kan nadere regels stellen over de in het eerste tot en met vijfde lid genoemde onderwerpen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De raad kan aan de houder van een aanwezigheidsvergunning voor speelautomaten in een speelautomatenhal ontheffing verlenen van het vereiste van [artikel 13, eerste lid, onder u](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=4&sub-paragraaf=4.4&artikel=13&z=2024-07-01&g=2024-07-01), dat de teller zich in de automaat moet bevinden, indien deze ten genoegen van de raad aantoont dat de door hem in de speelautomatenhal gehanteerde tellers voldoen aan de overige vereisten van dat artikelonderdeel.
 
@@ -384,13 +410,13 @@ In de vergunning tot het aanwezig hebben van een of meer speelautomaten in een s
 
 4. De mechanische, elektrische en elektronische processen die gepaard gaan met een centraal inworp- en uitbetalingsmechanisme zijn onderworpen aan een voorafgaande goedkeuring en periodiek controle door een door de raad aan te wijzen onafhankelijke deskundige of keuringsinstelling.
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
 #### § 4.5. Behendigheidsautomaten
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het model van een behendigheidsautomaat is zodanig geconstrueerd dat:
 
@@ -404,7 +430,7 @@ Vervallen
 
 #### § 4.6. Procedures
 
-#### Artikel 17
+##### Artikel 17
 
 1. De aanvraag om toelating van een model van een speelautomaat gaat vergezeld van een keuringsrapport van een keuringsinstelling.
 
@@ -412,7 +438,7 @@ Vervallen
 
 3. De vergoeding die verschuldigd is voor de keuring wordt verminderd, indien de aard en de omvang van de werkzaamheden, verbonden aan het onderzoek van het model, daartoe naar het oordeel van de keuringsinstelling aanleiding geven.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De aanvrager van de keuring van het model van een speelautomaat doet de keuringsinstelling op haar verzoek het model van de speelautomaat toekomen.
 
@@ -422,11 +448,11 @@ Vervallen
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt het Besluit inlichtingen justitiële documentatie.
 
-#### Artikel 20
+##### Artikel 20
 
 1. In afwijking van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=3&artikel=6&z=2024-07-01&g=2024-07-01), is degene die gedurende de overgangstermijn van [artikel IV, tweede lid, van de wet van 24 december 1998 tot wijziging van de Wet op de kansspelen (speelautomaten) (Stb. 1999, 9)](https://wetten.overheid.nl/jci1.3:c:BWBR0010183&artikel=IV) een exploitatievergunning aanvraagt ter vervanging van een aan het einde van de overgangstermijn ingevolge dat artikellid nog geldende exploitatievergunning, voor die aanvraag geen vergoeding verschuldigd voor de kosten verbonden aan de behandeling van de aanvraag en de afgifte van de vergunning.
 
@@ -436,15 +462,15 @@ Wijzigt het Besluit inlichtingen justitiële documentatie.
 
 4. [Artikel 4, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=2&artikel=4&z=2024-07-01&g=2024-07-01), en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=3&artikel=7&z=2024-07-01&g=2024-07-01) juncto [artikel 4, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=2&artikel=4&z=2024-07-01&g=2024-07-01), gelden ten aanzien van hen, die op het tijdstip van inwerkingtreding van dit besluit houder waren van een aanwezigheidsvergunning respectievelijk een exploitatievergunning, dan wel werkzaam waren als bedrijfsleider of beheerder van een inrichting waarvoor een dergelijke vergunning wordt aangevraagd of is verleend, niet met betrekking tot feiten als in [artikel 4, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=2&artikel=4&z=2024-07-01&g=2024-07-01), bedoeld die een grond zijn een vergunning te weigeren, die zich voorgedaan hebben vóór de inwerkingtreding van dit besluit.
 
-#### Artikel 21
+##### Artikel 21
 
 Het Speelautomatenbesluit wordt ingetrokken.
 
-#### Artikel 22
+##### Artikel 22
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 23
+##### Artikel 23
 
 Dit besluit wordt aangehaald als: Speelautomatenbesluit 2000.
 

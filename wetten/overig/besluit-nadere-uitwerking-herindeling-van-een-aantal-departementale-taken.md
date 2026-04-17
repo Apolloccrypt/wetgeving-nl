@@ -1,13 +1,35 @@
 ---
-title: "Besluit nadere uitwerking herindeling van een aantal departementale taken"
+title: "Besluit van 15 november 1982, houdende nadere uitwerking herindeling van een aantal departementale taken"
 identifier: "BWBR0003537"
-categorie: "Overig"
-publicatiedatum: 1982-12-22
-laatste_update: 1982-12-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003537"
+country: "nl"
+rank: "kb"
+publication_date: "1982-12-22"
+last_updated: "1982-12-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003537"
+soort: "KB"
+stam_id: "723303"
+version_id: "1053902"
+internal_id: "C1053901"
+label_id: "700754"
+dtd_version: "2.0"
+original_entry_into_force: "1982-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003537/1982-12-22/0"
+intitule_bron: "Stb.1982-641"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1982-11-15"
+intitule_status: "goed"
+original_publication: "Stb.1982-641"
+original_signed_date: "1982-11-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1982-12-22"
+jci_1_3: "jci1.3:c:BWBR0003537&z=1982-12-22&g=1982-12-22"
+jci_1_0: "1.0:c:BWBR0003537&g=1982-12-22"
+citeertitel_status: "officieel"
+short_title: "Besluit nadere uitwerking herindeling van een aantal departementale taken"
+signed_date: "1982-11-15"
+entry_into_force: "1982-12-22"
 ---
-
 # Besluit van 15 november 1982, houdende nadere uitwerking herindeling van een aantal departementale taken
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, dd. 12 november 1982, nr. 325626 en Onze Minister van Binnenlandse Zaken, dd. 12 november 1982, nr. SG82/U175;
@@ -18,7 +40,7 @@ Gelet op artikel 86 van de Grondwet;
 
 Hebben goedgevonden en verstaan:
 
-#### artikel 1
+##### artikel 1
 
 1. De verplichtingen, voor het voormalige departement van Volksgezondheid en Milieuhygiëne, voortvloeiende uit het dienstverband met zijn personeel, alsmede de zorg voor de overige beheersaangelegenheden van dat departement zijn met ingang van 4 november 1982 overgegaan op het departement van Welzijn, Volksgezondheid en Cultuur.
 

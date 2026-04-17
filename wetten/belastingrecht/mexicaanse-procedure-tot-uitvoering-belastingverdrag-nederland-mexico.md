@@ -1,18 +1,42 @@
 ---
 title: "Mexicaanse procedure tot uitvoering belastingverdrag Nederland-Mexico"
 identifier: "BWBR0008596"
-categorie: "Belastingrecht"
-publicatiedatum: 1997-03-23
-laatste_update: 1997-03-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008596"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-03-23"
+last_updated: "1997-03-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008596"
+soort: "ministeriele-regeling"
+stam_id: "4326323"
+version_id: "6090592"
+internal_id: "C6294101"
+label_id: "4304884"
+dtd_version: "2.0"
+original_entry_into_force: "1997-03-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008596/1997-03-23/0"
+intitule_bron: "Stcrt.1997-57"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-03-14"
+intitule_published: "1997-02-21"
+intitule_in_force: "1997-02-21"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-57"
+original_signed_date: "1997-03-14"
+original_published_date: "1997-02-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-03-23"
+jci_1_3: "jci1.3:c:BWBR0008596&z=1997-03-23&g=1997-03-23"
+jci_1_0: "1.0:c:BWBR0008596&g=1997-03-23"
+citeertitel_status: "officieel"
+signed_date: "1997-03-14"
+entry_into_force: "1997-03-23"
 ---
-
 # Mexicaanse procedure tot uitvoering belastingverdrag Nederland-Mexico
 
 Besluit:
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan het op 27 september 1993 tussen Nederland en Mexico gesloten Verdrag tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (Trb. 1993, nr. 160), kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van het Verdrag en onderdelen van het Protocol:
 
@@ -68,7 +92,7 @@ De in de onderdelen a, b, e, f, g, h en i vermelde verminderingen zijn te bereke
 
 De in de onderdelen a, b, e, f, g, h en i vermelde verminderingen zijn niet van toepassing indien de uiteindelijk gerechtigde tot de dividenden, de interest of de royalty’s in Mexico een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, of in Mexico zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest wordt betaald, of het recht of de zaak uit hoofde waarvan de royalty’s worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort (artikel 10, vijfde lid respectievelijk artikel 11, vijfde lid, en artikel 12, vierde lid).
 
-#### Artikel 2. Mexicaanse regeling
+##### Artikel 2. Mexicaanse regeling
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008596&artikel=1&z=1997-03-23&g=1997-03-23) is van Mexicaanse zijde de volgende regeling getroffen:
 
@@ -92,7 +116,7 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008596&a
 
 - 5. Woonplaatsverklaring Blijkens het bepaalde in de onderdelen 2 en 3 van dit artikel dient de in Nederland wonende genieter van de interest en royalty’s zowel bij het verkrijgen van gehele of gedeeltelijke vrijstelling van Mexicaanse belasting aan de bron als bij het verkrijgen van gehele of gedeetelijke teruggaaf van Mexicaanse belasting een woonplaats-verklaring over te leggen. Voor het verkrijgen van deze verklaring kan de desbetreffende inwoner van Nederland zich wenden tot de inspecteur van de eenheid van de Belastingdienst binnen wiens ambtsgebied hij woont of gevestigd is. Verklaard dient te worden dat belanghebbende inwoner van Nederland is/was in de zin van artikel 4, van het Verdrag tussen Nederland en Mexico ter voorkoming van dubbele belasting. In de Engelse taal zal de tekst van deze verklaring kunnen luiden als volgt: The undersigned, Inspector of the Tax Unit at ..................... certifies that ................... ................... (name and address of the applicant) on the payable date(s) of the interest/royalties is/was a resident of the Netherlands within the meaning of Article 4 of the Convention between the Netherlands and Mexico for the avoidance of double taxation. De gedateerde en ondertekende verklaring, welke geen legalisatie behoeft, zal voorzien zijn van het officiële stempel van de desbetreffende eenheid van de Belastingdienst. In voorkomend geval kan op verzoek van de Mexicaanse belastingautoriteiten van de betrokken inwoner van Nederland worden gevraagd een officiële vertaling van de woonplaatsverklaring over te leggen.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Mexicaanse procedure tot uitvoering belastingverdrag Nederland-Mexico.
 

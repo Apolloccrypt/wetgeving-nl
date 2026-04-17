@@ -1,28 +1,54 @@
 ---
-title: "Controleprotocol WNT 2017"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 november 2017, nr. 2017-0000564880, houdende vaststelling van het Controleprotocol WNT 2017 (Controleprotocol WNT 2017)"
 identifier: "BWBR0040203"
-categorie: "Overig"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040203"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040203"
+soort: "ministeriele-regeling"
+stam_id: "14416923"
+version_id: "24651842"
+internal_id: "C35269531"
+label_id: "14377474"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040203/2018-01-01/0"
+intitule_bron: "Stcrt.2017-65489"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-11-10"
+intitule_published: "2017-11-15"
+intitule_in_force: "2017-11-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-65489"
+original_signed_date: "2017-11-10"
+original_published_date: "2017-11-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-65489"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0040203&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0040203&g=2018-01-01"
+citeertitel_status: "officieel"
+short_title: "Controleprotocol WNT 2017"
+signed_date: "2017-11-10"
+entry_into_force: "2018-01-01"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 november 2017, nr. 2017-0000564880, houdende vaststelling van het Controleprotocol WNT 2017 (Controleprotocol WNT 2017)
 
 Gelet op [artikel 1.9, aanhef en onderdeel d, van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.9);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het protocol voor controle door de accountant over het jaar 2017 op de naleving van de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) (WNT) en de daarop rustende bepalingen wordt vastgesteld overeenkomstig de bijlage bij deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van 1 januari 2018.
 
-#### Artikel 3. Citeertitel
+##### Artikel 3. Citeertitel
 
 Deze regeling wordt aangehaald als: Controleprotocol WNT 2017.
 

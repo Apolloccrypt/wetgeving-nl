@@ -1,13 +1,39 @@
 ---
-title: "Besluit toelichting fiscale gevolgen terugtrekkingsakkoord Brexit"
+title: "Fiscale gevolgen van het akkoord inzake de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie met ingang van 1 februari 2020 (Besluit toelichting fiscale gevolgen terugtrekkingsakkoord Brexit)"
 identifier: "BWBR0043114"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-02-01
-laatste_update: 2020-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043114"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-02-01"
+last_updated: "2020-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043114"
+soort: "beleidsregel"
+stam_id: "15328033"
+version_id: "26484422"
+internal_id: "C37605261"
+label_id: "15273344"
+dtd_version: "2.0"
+original_entry_into_force: "2020-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043114/2020-02-01/0"
+intitule_bron: "Stcrt.2020-6891"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-01-29"
+intitule_published: "2020-01-30"
+intitule_in_force: "2020-01-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-6891"
+original_signed_date: "2020-01-29"
+original_published_date: "2020-01-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-6891"
+entry_into_force_date: "2020-02-01"
+jci_1_3: "jci1.3:c:BWBR0043114&z=2020-02-01&g=2020-02-01"
+jci_1_0: "1.0:c:BWBR0043114&g=2020-02-01"
+citeertitel_status: "officieel"
+short_title: "Besluit toelichting fiscale gevolgen terugtrekkingsakkoord Brexit"
+signed_date: "2020-01-29"
+entry_into_force: "2020-02-01"
 ---
-
 # Fiscale gevolgen van het akkoord inzake de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie met ingang van 1 februari 2020 (Besluit toelichting fiscale gevolgen terugtrekkingsakkoord Brexit)
 
 **De Staatssecretaris van Financiën - Fiscaliteit en Belastingdienst, geeft de volgende toelichting.**

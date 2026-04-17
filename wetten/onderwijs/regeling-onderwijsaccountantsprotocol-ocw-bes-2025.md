@@ -1,30 +1,56 @@
 ---
-title: "Regeling onderwijsaccountantsprotocol OCW BES 2025"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 februari 2026, nr. 50239766, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO en MBO in Caribisch Nederland (Regeling onderwijsaccountantsprotocol OCW BES 2025)"
 identifier: "BWBR0052455"
-categorie: "Onderwijs"
-publicatiedatum: 2026-03-26
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052455"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2026-03-26"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052455"
+soort: "ministeriele-regeling-BES"
+stam_id: "17819943"
+version_id: "31497982"
+internal_id: "C44980771"
+label_id: "17717094"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052455/2026-03-26/0"
+intitule_bron: "Stcrt.2026-7481"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-03"
+intitule_published: "2026-03-25"
+intitule_in_force: "2026-03-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-7481"
+original_signed_date: "2026-02-03"
+original_published_date: "2026-03-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-7481"
+entry_into_force_date: "2026-03-26"
+jci_1_3: "jci1.3:c:BWBR0052455&z=2026-03-26&g=2026-03-26"
+jci_1_0: "1.0:c:BWBR0052455&g=2026-03-26"
+citeertitel_status: "officieel"
+short_title: "Regeling onderwijsaccountantsprotocol OCW BES 2025"
+signed_date: "2026-02-03"
+entry_into_force: "2026-03-26"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 februari 2026, nr. 50239766, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO en MBO in Caribisch Nederland (Regeling onderwijsaccountantsprotocol OCW BES 2025)
 
 Gelet op [artikel 125, vierde lid, tweede volzin, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=125), de [artikelen 6.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.12), en [6.19, zevende lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.19) en [artikel 5, eerste lid, van het Uitvoeringsbesluit WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029696&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Vaststelling onderwijsaccountantsprotocol OCW BES 2025
+##### Artikel 1. Vaststelling onderwijsaccountantsprotocol OCW BES 2025
 
 Het protocol voor de controle en het onderzoek door de accountant over het jaar 2025 wordt vastgesteld overeenkomstig de bijlage bij deze regeling.
 
-#### Artikel 2. Inwerkingtreding
+##### Artikel 2. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2025.
 
 2. Deze regeling heeft betrekking op het jaar 2025 en vervalt met ingang van 1 januari 2032.
 
-#### Artikel 3. Citeertitel
+##### Artikel 3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling onderwijsaccountantsprotocol OCW BES 2025.
 

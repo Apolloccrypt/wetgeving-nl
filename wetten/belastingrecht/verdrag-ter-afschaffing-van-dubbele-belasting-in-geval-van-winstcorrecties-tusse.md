@@ -1,13 +1,38 @@
 ---
 title: "Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen"
 identifier: "BWBV0002893"
-categorie: "Belastingrecht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002893"
+country: "nl"
+rank: "verdrag"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002893"
+soort: "verdrag"
+stam_id: "10003214933"
+version_id: "10003229802"
+internal_id: "C10006987071"
+label_id: "10003201104"
+dtd_version: "2.0"
+original_entry_into_force: "1995-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002893/2015-01-01/0"
+intitule_bron: "Trb.1990-173"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-01-12"
+intitule_published: "1990-12-17"
+intitule_in_force: "1997-09-25"
+intitule_status: "goed"
+original_publication: "Trb.1990-173"
+original_signed_date: "1994-01-12"
+original_published_date: "1990-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1990-173"
+entry_into_force_date: "1995-01-01"
+jci_1_3: "jci1.3:c:BWBV0002893&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBV0002893&g=2015-01-01"
+citeertitel_status: "officieel"
+signed_date: "1994-01-12"
+entry_into_force: "1995-01-01"
 ---
-
 # Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen
 
 De Hoge Verdragsluitende Partijen bij het [Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506),
@@ -102,7 +127,7 @@ Overeenstemming hebben bereikt omtrent de volgende bepalingen:
 
 ### HOOFDSTUK I. TOEPASSINGSGEBIED VAN HET VERDRAG
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit Verdrag is van toepassing indien om fiscale redenen winst die is opgenomen in de winst van een onderneming van een verdragsluitende Staat, ook wordt of vermoedelijk zal worden opgenomen in de winst van een onderneming van een andere Verdragsluitende Staat op grond van het feit dat de beginselen van artikel 4, die, hetzij rechtstreeks, hetzij in de overeenkomstige bepalingen van de wetgeving van de betrokken Staat, worden toegepast, niet in acht zijn genomen.
 
@@ -110,7 +135,7 @@ Overeenstemming hebben bereikt omtrent de volgende bepalingen:
 
 3. Lid 1 is ook van toepassing, indien een der betrokken ondernemingen verliezen heeft geleden en geen winst heeft gemaakt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit Verdrag is van toepassing op belastingen naar het inkomen.
 
@@ -320,7 +345,7 @@ Overeenstemming hebben bereikt omtrent de volgende bepalingen:
 
 ## DEEL 1. BEGRIPSBEPALINGEN
 
-#### Artikel 3
+##### Artikel 3
 
 1. In dit Verdrag betekent de uitdrukking „bevoegde autoriteit”:
 
@@ -392,7 +417,7 @@ Overeenstemming hebben bereikt omtrent de volgende bepalingen:
 
 ## DEEL 2. BEGINSELEN DIE VAN TOEPASSING ZIJN OP DE WINSTCORRECTIES TUSSEN VERBONDEN ONDERNEMINGEN EN OP DE TOEREKENING VAN WINST AAN EEN VASTE INRICHTING
 
-#### Artikel 4
+##### Artikel 4
 
 De volgende beginselen dienen in acht te worden genomen bij de toepassing van dit Verdrag:
 
@@ -404,7 +429,7 @@ De volgende beginselen dienen in acht te worden genomen bij de toepassing van di
 
 - 2. Indien een onderneming van een Verdragsluitende Staat in een andere Verdragsluitende Staat haar bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, wordt in elk van de Staten aan die vaste inrichting de winst toegerekend die zij geacht zou kunnen worden te behalen, indien zij een zelfstandige onderneming zou zijn die dezelfde of soortgelijke werkzaamheden zou uitoefenen onder dezelfde of soortgelijke omstandigheden en die geheel onafhankelijk transacties zou aangaan met de onderneming waarvan zij een vaste inrichting is.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien een Verdragsluitende Staat het voornemen heeft de winst van een onderneming te corrigeren conform de beginselen van artikel 4, stelt hij de onderneming tijdig in kennis van zijn voornemen en geeft hij haar de gelegenheid de andere onderneming in te lichten, zodat deze de andere Verdragsluitende Staat op haar beurt kan inlichten.
 
@@ -414,7 +439,7 @@ Indien beide ondernemingen en de andere Verdragsluitende Staat na die kennisgevi
 
 ## DEEL 3. REGELING VOOR ONDERLING OVERLEG EN ARBITRAGEPROCEDURE
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien een onderneming van oordeel is dat in een zaak waarop dit Verdrag van toepassing is, de beginselen van artikel 4 niet in acht zijn genomen, kan zij, onverminderd de in de wetgeving van de betrokken Verdragsluitende Staten geldende rechtsmiddelen, haar zaak voorleggen aan de bevoegde autoriteit van de Verdragsluitende Staat waarvan zij inwoner is of waarin haar vaste inrichting is gelegen. De zaak moet worden voorgelegd binnen 3 jaar na de eerste kennisgeving van de maatregel waarvan dubbele belasting in de zin van artikel 1 het gevolg is of kan zijn.
 
@@ -422,7 +447,7 @@ De onderneming licht terzelfder tijd de bevoegde autoriteit in van de andere Ver
 
 2. De bevoegde autoriteit tracht, indien het bezwaar haar gegrond voorkomt en indien zij niet zelf in staat is tot een bevredigende oplossing te komen, de aangelegenheid in onderlinge overeenstemming met de bevoegde autoriteit van iedere andere betrokken Verdragsluitende Staat te regelen, ten einde dubbele belasting te voorkomen op basis van de in artikel 4 vermelde beginselen. De overeengekomen regeling wordt uitgevoerd ongeacht de termijnen in de nationale wetgeving van de betrokken Verdragsluitende Staten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien de betrokken bevoegde autoriteiten er binnen twee jaar gerekend vanaf de vroegste datum waarop de zaak aan een der bevoegde autoriteiten is voorgelegd overeenkomstig artikel 6, lid 1, niet in slagen tot een regeling te komen waardoor een einde wordt gemaakt aan dubbele belasting, richten zij een raadgevende commissie op die advies moet uitbrengen over de wijze waarop de dubbele belasting in kwestie moet worden afgeschaft.
 
@@ -436,13 +461,13 @@ De ondernemingen kunnen de nationale rechtsmiddelen van de betrokken Verdragslui
 
 5. Indien en voor zover de leden 1 tot en met 4 niet worden toegepast, blijven de rechten van elk der verbonden ondernemingen, als bedoeld in artikel 6, onverlet.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De bevoegde autoriteit van een Verdragsluitende Staat is niet verplicht gebruik te maken van de regeling voor onderling overleg of de in artikel 7, lid 1, genoemde commissie op te richten wanneer in een gerechtelijke of administratieve procedure definitief wordt uitgesproken dat een van de betrokken ondernemingen, wegens handelingen die aanleiding geven tot winstcorrectie uit hoofde van artikel 4 ernstig strafbaar is.
 
 2. Wanneer tegelijk met een van de in de artikelen 6 en 7 bedoelde procedures een gerechtelijke of administratieve procedure aanhangig is over de vraag of een van de betrokken ondernemingen, wegens handelingen die aanleiding geven tot winstcorrectie uit hoofde van artikel 4, ernstig strafbaar is, kunnen de bevoegde autoriteiten de afwikkeling van eerstgenoemde procedures schorsen totdat de gerechtelijke of administratieve procedure is voltooid.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De in artikel 7, lid 1, genoemde raadgevende commissie bestaat behalve de Voorzitter uit:
 
@@ -474,7 +499,7 @@ De Voorzitter moet voldoen aan de vereisten om in zijn land de hoogste rechterli
 
 7. De Verdragsluitende Staten doen het nodige opdat de raadgevende commissie, nadat de zaak haar is voorgelegd, onverwijld kan bijeenkomen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Ten behoeve van de in artikel 7 bedoelde procedure kunnen de betrokken verbonden ondernemingen aan de raadgevende commissie alle inlichtingen, bewijsmiddelen en stukken verschaffen die naar hun mening dienstig kunnen zijn om tot een beslissing te komen. De ondernemingen en de bevoegde autoriteiten van de betrokken Verdragsluitende Staten dienen te voldoen aan elk verzoek van de commissie om inlichtingen, bewijsmiddelen of stukken. Dit legt de bevoegde autoriteiten van de Verdragsluitende Staat evenwel geen verplichting op om:
 
@@ -486,7 +511,7 @@ De Voorzitter moet voldoen aan de vereisten om in zijn land de hoogste rechterli
 
 2. Elk van de verbonden ondernemingen kan op eigen verzoek door de raadgevende commissie worden gehoord of zich daar laten vertegenwoordigen. Indien de commissie zulks verlangt, is elk der verbonden ondernemingen gehouden voor haar te verschijnen of zich er te laten vertegenwoordigen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De in artikel 7 bedoelde raadgevende commissie brengt binnen zes maanden nadat zij hierom werd verzocht, advies uit.
 
@@ -496,7 +521,7 @@ De commissie dient haar advies te baseren op de bepalingen van artikel 4.
 
 3. De kosten van de commissieprocedure worden, voor zover het niet de door de verbonden ondernemingen gemaakte kosten betreft, gelijkelijk over de betrokken Verdragsluitende Staten verdeeld.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De bij de in artikel 7 bedoelde procedure betrokken bevoegde autoriteiten nemen in onderlinge overeenstemming en op basis van de bepalingen van artikel 4, een besluit tot afschaffing van de dubbele belasting binnen een termijn van zes maanden vanaf de datum waarop de commissie haar advies heeft uitgebracht.
 
@@ -504,11 +529,11 @@ De bevoegde autoriteiten kunnen een van het advies van de commissie afwijkend be
 
 2. De bevoegde autoriteiten kunnen overeenkomen het in lid 1 bedoelde besluit te publiceren indien de betrokken ondernemingen hiermee instemmen.
 
-#### Artikel 13
+##### Artikel 13
 
 Het definitieve karakter van de beslissingen die de betrokken Verdragsluitende Staten nemen met betrekking tot de belastingheffing van winsten die voortvloeien uit een transactie tussen verbonden ondernemingen, vormt geen beletsel om de in de artikelen 6 en 7 bedoelde procedure toe te passen.
 
-#### Artikel 14
+##### Artikel 14
 
 Voor de toepassing van dit Verdrag wordt dubbele belastingheffing op winst geacht te zijn afgeschaft, indien ofwel:
 
@@ -518,11 +543,11 @@ Voor de toepassing van dit Verdrag wordt dubbele belastingheffing op winst geach
 
 ### HOOFDSTUK III. SLOTBEPALINGEN
 
-#### Artikel 15
+##### Artikel 15
 
 Dit Verdrag laat onverlet verdergaande verplichtingen met betrekking tot het afschaffen van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen, voortvloeiend uit andere verdragen waarbij de Verdragsluitende Staten partij zijn of zullen zijn of uit de nationale wetgeving van die Staten.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het territoriale toepassingsgebied van dit Verdrag is dat van [artikel 227, lid 1, van het Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=227), onverminderd lid 2 van het onderhavige artikel.
 
@@ -532,15 +557,15 @@ Dit Verdrag laat onverlet verdergaande verplichtingen met betrekking tot het afs
 
 - -. de Faeröer-eilanden en Groenland.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit Verdrag wordt door de Verdragsluitende Staten bekrachtigd. De akten van bekrachtiging worden nedergelegd bij de Secretaris-Generaal van de Raad der Europese Gemeenschappen.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit Verdrag treedt in werking op de eerste dag van de derde maand die volgt op het nederleggen van de akte van bekrachtiging door de ondertekenende Staat die deze handeling als laatste verricht. Het Verdrag is van toepassing op de procedures bedoeld in artikel 6, lid 1, die na de inwerkingtreding zijn ingeleid.
 
-#### Artikel 19
+##### Artikel 19
 
 De Secretaris-Generaal van de Raad der Europese Gemeenschappen stelt de ondertekenende Staten in kennis van:
 
@@ -550,15 +575,15 @@ De Secretaris-Generaal van de Raad der Europese Gemeenschappen stelt de ondertek
 
 - c. de in artikel 9, lid 4, bedoelde lijst van door de Verdragsluitende Staten aangewezen onafhankelijke personen, alsmede de wijzigingen daarin.
 
-#### Artikel 20
+##### Artikel 20
 
 Dit Verdrag wordt voor vijf jaar gesloten. Het wordt met telkens vijf jaar verlengd, mits geen van de verdragsluitende staten uiterlijk zes maanden voor het verstrijken van de lopende periode daartegen schriftelijk bezwaar maakt bij de secretaris-generaal van de Raad van de Europese Unie.
 
-#### Artikel 21
+##### Artikel 21
 
 Iedere Verdragsluitende Staat kan te allen tijde verzoeken om herziening van dit Verdrag. In dat geval roept de Voorzitter van de Raad der Europese Gemeenschappen een conferentie voor de herziening bijeen.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit Verdrag, opgesteld in één exemplaar in de Deense, de Duitse, de Engelse, de Franse, de Griekse, de Ierse, de Italiaanse, de Nederlandse, de Portugese en de Spaanse taal, zijnde de tien teksten gelijkelijk authentiek, wordt nedergelegd in het archief van het Secretariaat-Generaal van de Raad der Europese Gemeenschappen. De Secretaris-Generaal zendt een voor eensluidend gewaarmerkt afschrift daarvan toe aan de Regering van elke ondertekenende Staat.
 

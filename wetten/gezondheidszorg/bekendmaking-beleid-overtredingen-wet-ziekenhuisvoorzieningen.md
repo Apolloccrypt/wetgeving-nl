@@ -1,13 +1,37 @@
 ---
 title: "Bekendmaking beleid overtredingen Wet ziekenhuisvoorzieningen"
 identifier: "BWBR0007329"
-categorie: "Gezondheidszorg"
-publicatiedatum: 1995-09-22
-laatste_update: 1995-09-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007329"
+country: "nl"
+rank: "circulaire"
+publication_date: "1995-09-22"
+last_updated: "1995-09-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007329"
+soort: "circulaire"
+stam_id: "6413693"
+version_id: "11080802"
+internal_id: "C14992681"
+label_id: "6402604"
+original_entry_into_force: "1995-09-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007329/1995-09-22/0"
+intitule_bron: "Stcrt.1995-184"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-04-10"
+intitule_published: "1995-09-22"
+intitule_in_force: "1995-09-22"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-184"
+original_signed_date: "1995-04-10"
+original_published_date: "1995-09-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1995-184-p12-SC3717"
+entry_into_force_date: "1995-09-22"
+jci_1_3: "jci1.3:c:BWBR0007329&z=1995-09-22&g=1995-09-22"
+jci_1_0: "1.0:c:BWBR0007329&g=1995-09-22"
+citeertitel_status: "redactioneel"
+signed_date: "1995-04-10"
+entry_into_force: "1995-09-22"
 ---
-
 # Bekendmaking beleid overtredingen Wet ziekenhuisvoorzieningen
 
 Circulaire aan alle besturen van instellingen van gezondheidszorg

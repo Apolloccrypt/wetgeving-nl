@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel bestuurlijke boete Nederlandse Emissieautoriteit 2024"
+title: "Beleidsregel van het bestuur van de Nederlandse Emissieautoriteit van 23 mei 2024 tot de vaststelling van regels voor de hoogte van een bestuurlijke boete"
 identifier: "BWBR0049874"
-categorie: "Strafrecht"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049874"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049874"
+soort: "zbo"
+stam_id: "17144723"
+version_id: "30175162"
+internal_id: "C43235621"
+label_id: "17053114"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049874/2024-07-01/0"
+intitule_bron: "Stcrt.2024-19843"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-05-23"
+intitule_published: "2024-07-01"
+intitule_in_force: "2024-07-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-19843"
+original_signed_date: "2024-05-23"
+original_published_date: "2024-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-19843"
+entry_into_force_date: "2024-07-01"
+jci_1_3: "jci1.3:c:BWBR0049874&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0049874&g=2024-07-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel bestuurlijke boete Nederlandse Emissieautoriteit 2024"
+signed_date: "2024-05-23"
+entry_into_force: "2024-07-01"
 ---
-
 # Beleidsregel van het bestuur van de Nederlandse Emissieautoriteit van 23 mei 2024 tot de vaststelling van regels voor de hoogte van een bestuurlijke boete
 
 Gelet op de [artikelen 18.16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.16a), [18.16b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.16b), [18.16c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.16c) en [18.16s van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.16s) en [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1. – Definities
+##### Artikel 1. – Definities
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - –. **Wm:** de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
-#### Artikel 2. – Toepasselijkheid beleidsregel
+##### Artikel 2. – Toepasselijkheid beleidsregel
 
 Deze beleidsregel is van toepassing op bestuurlijke boetes, die door het bestuur worden opgelegd op grond van de [artikelen 18.16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.16a), [18.16b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.16b), [artikel 18.16c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.16c) en [artikel 18.16s van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.16s). Deze beleidsregel is niet van toepassing op door het bestuur op te leggen bestuurlijke boetes waarvan de hoogte dwingend voortvloeit uit of gereguleerd is in Europese regelgeving. Dit zijn de bestuurlijke boetes die worden opgelegd op de volgende grondslagen:
 
@@ -36,27 +62,27 @@ Deze beleidsregel is van toepassing op bestuurlijke boetes, die door het bestuur
 
 - –. artikel 35, vijfde lid, van de Verordening tot instelling van een mechanisme voor koolstofgrenscorrectie aan de grens, nader uitgewerkt in artikel 16 van de [Uitvoeringsverordening (EU) 2023/1773](32023R1773) van de Commissie van 17 augustus 2023 tot vaststelling van de uitvoeringsbepalingen voor [Verordening (EU) 2023/956](32023R0956) van het Europees Parlement en de Raad wat betreft rapportageverplichtingen voor de toepassing van het mechanisme voor koolstofgrenscorrectie tijdens de overgangsperiode. Deze bepalingen bieden de grondslag voor het opleggen van een boete als niet het nodige gedaan om een CBAM-rapport in te dienen of deze te corrigeren.
 
-#### Artikel 3. – Berekening boetehoogte
+##### Artikel 3. – Berekening boetehoogte
 
 De hoogte van de bestuurlijke boete waar deze beleidsregel gelet op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049874&artikel=2&z=2024-07-01&g=2024-07-01) op van toepassing is, wordt berekend door middel van de boeteformule vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049874&bijlage=1&z=2024-07-01&g=2024-07-01). Daarbij wordt gebruik gemaakt van de indeling van overtredingen per beleidsterrein in categorieën in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049874&bijlage=2&z=2024-07-01&g=2024-07-01).
 
-#### Artikel 4. – Datum inwerkingtreding
+##### Artikel 4. – Datum inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 juli 2024
 
-#### Artikel 5. – Gedeeltelijke intrekking beleidsregel
+##### Artikel 5. – Gedeeltelijke intrekking beleidsregel
 
 [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&artikel=3) en [bijlage III van de Beleidsregel van het bestuur van de Nederlandse Emissieautoriteit van 17 december 2020, nr. NEA-2020/21858, houdende regels met betrekking tot de handhaving van regels ter uitvoering van het Europese emissiehandelssysteem 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=III) (Beleidsregel Nederlandse Emissieautoriteit ETS 2021) worden hierbij ingetrokken.
 
 De Boetesystematiek Energie voor Vervoer, versie 21 januari 2020 wordt hierbij in zijn geheel ingetrokken.
 
-#### Artikel 6. – Overgangsrecht
+##### Artikel 6. – Overgangsrecht
 
 Op overtredingen op grondslag van [artikel 18.16a, eerste lid, van de Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.16a), gepleegd vóór 1 juli 2024, zal de boetesystematiek van de [Beleidsregel Nederlandse Emissieautoriteit ETS 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044649) van toepassing blijven. Indien een overtreding is aangevangen vóór 1 juli 2024 en is doorgelopen na deze datum, wordt de Beleidsregel Nederlandse Emissieautoriteit ETS 2021 toegepast op de periode tot 1 juli 2024.
 
 Op overtredingen op grondslag van [artikel 18.16s, eerste lid, van de Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.16s), gepleegd vóór 1 juli 2024, zal de Boetesystematiek Energie voor Vervoer, versie 21 januari 2020 van toepassing blijven. Indien een overtreding is begaan vóór 1 juli 2024 en is doorgelopen na deze datum, wordt de Boetesystematiek Energie voor Vervoer, versie 21 januari 2020 toegepast op de periode tot 1 juli 2024.
 
-#### Artikel 7. – Citeertitel
+##### Artikel 7. – Citeertitel
 
 Deze beleidsregel wordt aangehaald als Beleidsregel bestuurlijke boete Nederlandse Emissieautoriteit 2024. Deze beleidsregel zal in de Staatscourant worden geplaatst.
 

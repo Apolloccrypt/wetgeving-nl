@@ -1,14 +1,40 @@
 ---
-title: "Wet op de internationale bijstandsverlening bij de heffing van belastingen"
+title: "Wet van 24 april 1986, op de internationale bijstandsverlening bij de heffing van belastingen"
 identifier: "BWBR0003954"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-04-11
-laatste_update: 2026-04-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003954"
+country: "nl"
+rank: "wet"
+publication_date: "2026-04-11"
+last_updated: "2026-04-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003954"
+soort: "wet"
+stam_id: "1264633"
+version_id: "23753692"
+internal_id: "C34184491"
+label_id: "1224634"
+dtd_version: "2.0"
+original_entry_into_force: "2016-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003954/2026-04-11/0"
+intitule_bron: "Stb.1986-249"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1986-04-24"
+intitule_status: "goed"
+original_publication: "Stb.2016-545"
+original_signed_date: "2016-12-21"
+original_published_date: "2016-12-29"
+original_effect: "structuurwijziging"
+original_dossier: "34553"
+original_url_id: "stb-2016-545"
+entry_into_force_date: "2016-12-21"
+entry_into_force_dossier: "34553"
+jci_1_3: "jci1.3:c:BWBR0003954&z=2026-04-11&g=2026-04-11"
+jci_1_0: "1.0:c:BWBR0003954&g=2026-04-11"
+citeertitel_status: "officieel"
+short_title: "Wet op de internationale bijstandsverlening bij de heffing van belastingen"
+signed_date: "2016-12-21"
+entry_into_force: "2016-12-21"
 ---
-
-# Wet op de internationale bijstandsverlening bij de heffing van belastingen
+# Wet van 24 april 1986, op de internationale bijstandsverlening bij de heffing van belastingen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +44,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. De bepalingen van deze wet strekken tot uitvoering van richtlijnen van de Raad van de Europese Unie en andere regelingen van internationaal en interregionaal recht tot het verlenen van wederzijdse bijstand bij de heffing van belastingen, alsmede renten daarover en bestuursrechtelijke sancties en boeten die daarmee verband houden.
 
@@ -34,7 +60,7 @@ Bij toepassing van die verordeningen zijn de [artikelen 8, derde lid](https://we
 
 4. Deze wet is niet van toepassing bij het verlenen van wederzijdse bijstand op het gebied van rechten bij invoer en rechten bij uitvoer met inbegrip van de belasting bij invoer, genoemd in [artikel 22 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=22), en van accijns bij invoer, genoemd in [artikel 62 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=22).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze wet en de daarop berustende bepalingen verstaan onder:
 
@@ -94,11 +120,11 @@ Bij toepassing van die verordeningen zijn de [artikelen 8, derde lid](https://we
 
 2. Wijzigingen van [Richtlijn 2011/16](32011L0016)/EU of Richtlijn (EU) 2015/849 gaan voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-#### Artikel 3
+##### Artikel 3
 
 Onze Minister wordt voor Nederland aangewezen als bevoegde autoriteit en centraal verbindingsbureau. Onze Minister is tevens verantwoordelijk voor de contacten met de Europese Commissie.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
@@ -106,19 +132,19 @@ Vervallen
 
 ### Afdeling 1. Algemeen
 
-#### Artikel 5
+##### Artikel 5
 
 Op verzoek van de bevoegde autoriteit van een verzoekende staat deelt Onze Minister alle inlichtingen die hij in zijn bezit heeft of naar aanleiding van een administratief onderzoek verkrijgt en die naar verwachting van belang zijn voor de administratie en handhaving van de nationale wetgeving van de verzoekende staat met betrekking tot de heffing van belastingen die vallen onder de reikwijdte van de wederzijdse bijstand, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=1&z=2026-04-11&g=2026-04-11), aan die bevoegde autoriteit mee.
 
 ### Afdeling 1. Algemeen
 
-#### Artikel 6
+##### Artikel 6
 
 Onze Minister kan in overleg met een bevoegde autoriteit gevallen of groepen van gevallen aanwijzen in welke hij zonder voorafgaand verzoek inlichtingen zal verstrekken, alsmede de voorwaarden bepalen waaronder de verstrekking zal geschieden.
 
 ### Afdeling 1. Algemeen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister verstrekt de bevoegde autoriteit van een andere lidstaat spontaan inlichtingen in de gevallen waarin:
 
@@ -142,7 +168,7 @@ Onze Minister kan in overleg met een bevoegde autoriteit gevallen of groepen van
 
 ### Afdeling 1. Algemeen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister laat door een ambtenaar van de rijksbelastingdienst zo nodig een onderzoek instellen ten behoeve van het verstrekken van inlichtingen, bedoeld in de[artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=1&artikel=5&z=2026-04-11&g=2026-04-11), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6&z=2026-04-11&g=2026-04-11), [6f](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6f&z=2026-04-11&g=2026-04-11), [6g](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6g&z=2026-04-11&g=2026-04-11), [6h](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6h&z=2026-04-11&g=2026-04-11) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=3&artikel=7&z=2026-04-11&g=2026-04-11).
 
@@ -156,7 +182,7 @@ Onze Minister kan in overleg met een bevoegde autoriteit gevallen of groepen van
 
 6. Geen beroep kan worden ingesteld tegen de aankondiging van een onderzoek als bedoeld in het eerste lid, alsmede tegen het onderzoek zelve.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Onze Minister kan door de bevoegde autoriteit van een verzoekende staat worden verzocht, ter uitwisseling van inlichtingen in het kader van de wederzijdse bijstand, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=1&z=2026-04-11&g=2026-04-11), dat door de bevoegde autoriteit van die verzoekende staat gemachtigde ambtenaren overeenkomstig de door Nederland vastgestelde procedurele regelingen:
 
@@ -174,11 +200,11 @@ Indien de verlangde inlichtingen vermeld staan in bescheiden waartoe de ambtenar
 
 4. Ambtenaren uit de verzoekende staat die in Nederland aanwezig zijn, dienen te allen tijde een schriftelijke opdracht te kunnen overleggen waaruit hun identiteit en hun officiële hoedanigheid blijkt.
 
-#### Artikel 10
+##### Artikel 10
 
 Degene bij wie een onderzoek als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2026-04-11&g=2026-04-11) wordt ingesteld, is verplicht de ambtenaar van de rijksbelastingdienst alsmede de ambtenaar die ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=9&z=2026-04-11&g=2026-04-11) bij dit onderzoek aanwezig is, ten behoeve van dit onderzoek toegang te verlenen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien het aan opzet of grove schuld van de belastingplichtige, de administratieplichtige, de rapporterende financiële instelling of degene die de toegang, bedoeld in [artikel 10g](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4aa&artikel=10g&z=2026-04-11&g=2026-04-11), moet verlenen, is te wijten dat de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2026-04-11&g=2026-04-11) en [afdeling 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4a&z=2026-04-11&g=2026-04-11) en de op dat artikel en die afdeling berustende bepalingen en artikel 10g, niet, niet tijdig, niet volledig of niet juist zijn of worden nagekomen, vormt dit een vergrijp ter zake waarvan Onze Minister hem, onderscheidenlijk haar, een bestuurlijke boete van ten hoogste het bedrag van de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), kan opleggen.
 
@@ -194,7 +220,7 @@ Degene bij wie een onderzoek als bedoeld in [artikel 8](https://wetten.overheid.
 
 7. [Hoofdstuk IX van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=IX), met uitzondering van het in [artikel 69 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69) genoemde vereiste dat het feit ertoe strekt dat te weinig belasting wordt geheven, is van overeenkomstige toepassing ten aanzien van degene die niet voldoet aan de verplichtingen, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2026-04-11&g=2026-04-11), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=10&z=2026-04-11&g=2026-04-11) en [10g](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4aa&artikel=10g&z=2026-04-11&g=2026-04-11) en [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&z=2026-04-11&g=2026-04-11), [afdelingen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4a&z=2026-04-11&g=2026-04-11), [4ab](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ab&z=2026-04-11&g=2026-04-11), [4ac](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ac&z=2026-04-11&g=2026-04-11) en [4aca](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4aca&z=2026-04-11&g=2026-04-11), en de op die artikelen en die afdelingen berustende bepalingen, met dien verstande dat voor de derde categorie en de vierde categorie de zesde categorie moet worden gelezen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Op verzoek van de bevoegde autoriteit van een staat gaat Onze Minister over tot betekening van stukken.
 
@@ -204,13 +230,13 @@ Degene bij wie een onderzoek als bedoeld in [artikel 8](https://wetten.overheid.
 
 ### Hoofdstuk III. Begrenzing van door Nederland te verlenen bijstand; wederkerigheid
 
-#### Artikel 13
+##### Artikel 13
 
 De colleges van gedeputeerde staten, de colleges van burgemeester en wethouders en de dagelijkse besturen van waterschappen verlenen desgevraagd hun medewerking aan de uitvoering van een verzoek om bijstand bij de heffing van belastingen.
 
 ### Hoofdstuk IV. Geheimhouding; gebruik van inlichtingen
 
-#### Artikel 14
+##### Artikel 14
 
 1. Onze Minister verstrekt geen inlichtingen indien de verstrekking daarvan niet strekt tot uitvoering van richtlijnen van de Raad van de Europese Unie of van andere regelingen van internationaal en interregionaal recht tot het verlenen van wederzijdse bijstand bij de heffing van belastingen, alsmede renten daarover en bestuursrechtelijke sancties en boeten die daarmee verband houden.
 
@@ -238,13 +264,13 @@ De colleges van gedeputeerde staten, de colleges van burgemeester en wethouders 
 
 5. Dit artikel vindt geen toepassing ten aanzien van de inlichtingen, bedoeld in de [artikelen 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6b&z=2026-04-11&g=2026-04-11), [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6c&z=2026-04-11&g=2026-04-11), [6d](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6d&z=2026-04-11&g=2026-04-11), [6e](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6e&z=2026-04-11&g=2026-04-11), [6f](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6f&z=2026-04-11&g=2026-04-11), [6g](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6g&z=2026-04-11&g=2026-04-11) en [6h](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6h&z=2026-04-11&g=2026-04-11).
 
-#### Artikel 15
+##### Artikel 15
 
 Indien Onze Minister overeenkomstig de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=1&artikel=5&z=2026-04-11&g=2026-04-11) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=3&artikel=7&z=2026-04-11&g=2026-04-11) inlichtingen verstrekt, kan hij de bevoegde autoriteit van de ontvangende staat om terugmelding betreffende de ontvangen inlichtingen verzoeken.
 
 ### Hoofdstuk V. Slotbepaling
 
-#### Artikel 16
+##### Artikel 16
 
 Onze Minister verstrekt geen inlichtingen aan een bevoegde autoriteit indien de wetgeving van de staat van die autoriteit geen verplichting tot geheimhouding oplegt aan ambtenaren van de belastingadministratie van die staat met betrekking tot hetgeen hun wordt medegedeeld of blijkt bij de uitvoering van de belastingwetten van die staat.
 
@@ -258,71 +284,71 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### Paragraaf 1. Begripsbepalingen
 
-#### Artikel 4a. Definities
+##### Artikel 4a. Definities
 
 Vervallen
 
-#### Artikel 4b. Uitbreiding definitie rentebetaling
+##### Artikel 4b. Uitbreiding definitie rentebetaling
 
 Vervallen
 
-#### Artikel 4c. Tijdelijk uitgezonderde schuldvorderingen
+##### Artikel 4c. Tijdelijk uitgezonderde schuldvorderingen
 
 Vervallen
 
-#### Artikel 4d. Uitbreiding definitie uitbetalende instantie
+##### Artikel 4d. Uitbreiding definitie uitbetalende instantie
 
 Vervallen
 
-#### Artikel 4e. Icbe na keuze
+##### Artikel 4e. Icbe na keuze
 
 Vervallen
 
-#### Artikel 4f. Inperking definitie uiteindelijk gerechtigde
+##### Artikel 4f. Inperking definitie uiteindelijk gerechtigde
 
 Vervallen
 
-#### Artikel 4g. Identificatie door Nederlandse uitbetalende instantie
+##### Artikel 4g. Identificatie door Nederlandse uitbetalende instantie
 
 Vervallen
 
-#### Artikel 4h. Vaststelling woonplaats door Nederlandse uitbetalende instantie
-
-Vervallen
-
-#### Paragraaf 2. Renseignering
-
-#### Artikel 4i. Werkingssfeer
-
-Vervallen
-
-#### Artikel 4j. Renseignering door uitbetalende instantie
-
-Vervallen
-
-#### Artikel 4k. Renseignering door marktdeelnemer
+##### Artikel 4h. Vaststelling woonplaats door Nederlandse uitbetalende instantie
 
 Vervallen
 
 #### Paragraaf 2. Renseignering
 
-#### Artikel 4l. Woonplaatsverklaring ter voorkoming van inhouding van bronbelasting
+##### Artikel 4i. Werkingssfeer
 
 Vervallen
 
-#### Artikel 4m. Verplichtingen ten dienste van de renseignering
+##### Artikel 4j. Renseignering door uitbetalende instantie
 
 Vervallen
 
-#### Artikel 4n. Bezwaar en beroep
+##### Artikel 4k. Renseignering door marktdeelnemer
 
 Vervallen
 
-#### Artikel 4o. Bestuurlijke boete
+#### Paragraaf 2. Renseignering
+
+##### Artikel 4l. Woonplaatsverklaring ter voorkoming van inhouding van bronbelasting
 
 Vervallen
 
-#### Artikel 4p. Strafrechtelijke bepaling
+##### Artikel 4m. Verplichtingen ten dienste van de renseignering
+
+Vervallen
+
+##### Artikel 4n. Bezwaar en beroep
+
+Vervallen
+
+##### Artikel 4o. Bestuurlijke boete
+
+Vervallen
+
+##### Artikel 4p. Strafrechtelijke bepaling
 
 Vervallen
 
@@ -332,7 +358,7 @@ Vervallen
 
 ### Afdeling 2. Automatisch verstrekken van inlichtingen
 
-#### Artikel 6a
+##### Artikel 6a
 
 Vervallen
 
@@ -348,13 +374,13 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 7a
+##### Artikel 7a
 
 Onze Minister verstrekt de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=3&artikel=7&z=2026-04-11&g=2026-04-11), bedoelde inlichtingen zo snel mogelijk, doch uiterlijk binnen één maand nadat hij de inlichtingen beschikbaar krijgt, aan de autoriteit van de andere betrokken lidstaat.
 
 ### Afdeling 2. Automatisch verstrekken van inlichtingen
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Onze Minister kan met de bevoegde autoriteit van één of meer andere staten overeenkomen om gelijktijdig, elk op het eigen grondgebied, bij één of meer personen ten aanzien van wie zij een gezamenlijk of complementair belang hebben, controles te verrichten en de aldus verkregen inlichtingen uit te wisselen.
 
@@ -370,7 +396,7 @@ Onze Minister verstrekt de in [artikel 7, eerste lid](https://wetten.overheid.nl
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Bij een verzoek om inlichtingen van de bevoegde autoriteit van een lidstaat verstrekt Onze Minister de inlichtingen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=1&artikel=5&z=2026-04-11&g=2026-04-11), zo spoedig mogelijk, doch uiterlijk drie maanden na de datum van ontvangst van het verzoek. Indien Onze Minister niet binnen die termijn van drie maanden aan het verzoek kan voldoen, deelt hij de redenen hiervoor onmiddellijk, en in elk geval uiterlijk drie maanden na ontvangst van het verzoek, mee aan de bevoegde autoriteit van een verzoekende lidstaat met vermelding van de datum waarop hij denkt aan het verzoek te kunnen voldoen, waarbij geldt dat aan het verzoek uiterlijk zes maanden na de datum van ontvangst van het verzoek dient te worden voldaan. In afwijking van de eerste en tweede zin verstrekt Onze Minister inlichtingen die reeds in zijn bezit zijn binnen twee maanden na de datum van ontvangst van het verzoek.
 
@@ -384,7 +410,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Afdeling 1. Op verzoek verstrekken van inlichtingen
 
-#### Artikel 6b
+##### Artikel 6b
 
 1. Onze Minister verstrekt op grond van Richtlijn 2011/16/EU de bevoegde autoriteit van elke lidstaat automatisch alle inlichtingen waarover hij ten aanzien van ingezetenen van die andere lidstaat beschikt inzake de volgende specifieke inkomsten- en vermogenscategorieën:
 
@@ -414,7 +440,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Afdeling 6. Algemene bepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Inlichtingen die Onze Minister aan de bevoegde autoriteit van een andere lidstaat verstrekt ter uitvoering van Richtlijn 2011/16/EU kunnen door die andere lidstaat tevens worden gebruikt:
 
@@ -440,11 +466,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 7. Onze Minister kan op een daartoe strekkend verzoek een bevoegde autoriteit van een staat toestemming verlenen de van hem ontvangen inlichtingen aan een bevoegde autoriteit van een andere staat te verstrekken.
 
-#### Artikel 18
+##### Artikel 18
 
 Indien Onze Minister een wederzijdse samenwerking aangaat met de bevoegde autoriteit van een staat die verder reikt dan de samenwerking die mogelijk is op grond van Richtlijn 2011/16/EU, gaat hij deze verder reikende samenwerking ook aan met een lidstaat die om deze samenwerking verzoekt.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het meedelen van de gevraagde inlichtingen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=1&artikel=5&z=2026-04-11&g=2026-04-11), de ontvangstbevestiging, bedoeld in [artikel 5a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=1&artikel=5a&z=2026-04-11&g=2026-04-11), het verzoek om aanvullende achtergrondinformatie, bedoeld in artikel 5a, vierde lid, de mededeling dat niet of niet tijdig aan het verzoek kan of zal worden voldaan, bedoeld in artikel 5a, eerste en vijfde lid, en de beantwoording van een verzoek om een administratief onderzoek als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2026-04-11&g=2026-04-11), worden voor zover mogelijk langs elektronische weg en door middel van een standaardformulier, dat voldoet aan de in of krachtens Richtlijn 2011/16/EU gestelde voorwaarden, gedaan.
 
@@ -454,19 +480,19 @@ Indien Onze Minister een wederzijdse samenwerking aangaat met de bevoegde autori
 
 4. Het standaardformulier, bedoeld in het eerste tot en met derde lid, kan vergezeld gaan van verslagen, verklaringen en andere bescheiden, of van voor eensluidend gewaarmerkte afschriften of uittreksels daarvan.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Onze Minister ziet af van iedere eis tot terugbetaling van kosten die uit de uitvoering van Richtlijn 2011/16/EU voortvloeien, behalve in voorkomend geval van de kosten van aan deskundigen betaalde vergoedingen.
 
 2. Onze Minister en de verzoekende autoriteit van een staat kunnen afspraken maken over de vergoeding van kosten die samenhangen met het verlenen van wederzijdse bijstand bij de heffing van belastingen die vallen onder de reikwijdte van de wederzijdse bijstand, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=1&z=2026-04-11&g=2026-04-11).
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een verzoek om wederzijdse bijstand, waaronder een verzoek tot betekening als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4b&artikel=12&z=2026-04-11&g=2026-04-11), en de bijgevoegde bescheiden kunnen in elke door Onze Minister en de bevoegde autoriteit van de verzoekende staat overeengekomen taal zijn gesteld.
 
 2. Onze Minister kan in bijzondere gevallen een met redenen omkleed verzoek doen aan de bevoegde autoriteit van de verzoekende staat om diens verzoek om bijstand vergezeld te laten gaan van een vertaling in het Nederlands.
 
-#### Artikel 22
+##### Artikel 22
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van dit hoofdstuk.
 
@@ -474,7 +500,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering va
 
 ### Afdeling 4bis. Gezamenlijke audits
 
-#### Artikel 23
+##### Artikel 23
 
 1. Onze Minister kan een verzoek om inlichtingen doen aan de bevoegde autoriteit van een andere staat wanneer de gevraagde inlichtingen naar verwachting van belang zijn voor de heffing van belastingen die vallen onder de reikwijdte van de wederzijdse bijstand, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=1&z=2026-04-11&g=2026-04-11).
 
@@ -502,7 +528,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering va
 
 7. Onze Minister kan met de bevoegde autoriteit van de aangezochte staat termijnen overeenkomen waarbinnen de gevraagde inlichtingen verstrekt worden.
 
-#### Artikel 24
+##### Artikel 24
 
 1. In de gevallen waarin dat naar verwachting van belang is voor de heffing van belastingen die vallen onder de reikwijdte van de wederzijdse bijstand, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=1&z=2026-04-11&g=2026-04-11), kan Onze Minister zich, behalve uit eigen beweging, ook op verzoek van een college van gedeputeerde staten, een college van burgemeester en wethouders of een dagelijks bestuur van een waterschap tot de bevoegde autoriteit van een andere staat wenden met een verzoek om bijstand bij de heffing van belastingen of met een verzoek tot een administratief onderzoek.
 
@@ -512,17 +538,17 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering va
 
 ### Afdeling 4a. Verplichtingen ten behoeve van de automatische verstrekking van inlichtingen volgens de Common Reporting Standard
 
-#### Artikel 25
+##### Artikel 25
 
 Ingeval een richtlijn of een andere regeling van internationaal of interregionaal recht voorziet in het automatisch verstrekken van inlichtingen kan Onze Minister aan de bevoegde autoriteit van een staat meedelen dat hij geen automatische inlichtingen inzake bepaalde inkomsten- en vermogenscategorieën of inzake inkomsten en vermogens onder een minimumbedrag wenst te ontvangen.
 
-#### Artikel 26
+##### Artikel 26
 
 De ontvangst van spontaan verkregen inlichtingen wordt door Onze Minister onmiddellijk, doch in elk geval binnen zeven werkdagen na ontvangst aan de bevoegde autoriteit van de verstrekkende lidstaat bevestigd.
 
 ### Afdeling 3. Onderzoek in het kader van verzoeken om bijstand
 
-#### Artikel 27
+##### Artikel 27
 
 1. Onze Minister kan de bevoegde autoriteit van een aangezochte staat verzoeken ter uitwisseling van inlichtingen in het kader van de wederzijdse bijstand, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=1&z=2026-04-11&g=2026-04-11), dat ambtenaren van de rijksbelastingdienst, dan wel andere ambtenaren die belast zijn met de heffing van belastingen, overeenkomstig de door de bevoegde autoriteit van de aangezochte staat vastgestelde procedurele regelingen:
 
@@ -538,17 +564,17 @@ De ontvangst van spontaan verkregen inlichtingen wordt door Onze Minister onmidd
 
 ### Afdeling 5. Medewerking in het kader van te verlenen bijstand
 
-#### Artikel 28
+##### Artikel 28
 
 Op inlichtingen die door Onze Minister in het kader van wederzijdse bijstand van een bevoegde autoriteit van een andere staat zijn verkregen, alsmede op inlichtingen die op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2026-04-11&g=2026-04-11), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4a&artikel=10b&z=2026-04-11&g=2026-04-11), [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4a&artikel=10c&z=2026-04-11&g=2026-04-11), [10g](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4aa&artikel=10g&z=2026-04-11&g=2026-04-11), [10h](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ab&artikel=10h&z=2026-04-11&g=2026-04-11), [10j](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ac&artikel=10j&z=2026-04-11&g=2026-04-11), [10l](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ac&artikel=10l&z=2026-04-11&g=2026-04-11), [10ob](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4aca&artikel=10ob&z=2026-04-11&g=2026-04-11) en [10od](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4aca&artikel=10od&z=2026-04-11&g=2026-04-11) zijn verkregen, is de verplichting tot geheimhouding, bedoeld in [artikel 67 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67), van overeenkomstige toepassing.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien de bevoegde autoriteit van de staat die de inlichtingen heeft verstrekt hierom verzoekt, doet Onze Minister met inachtneming van [artikel 67 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67), zo snel mogelijk, doch uiterlijk drie maanden nadat het resultaat van het gebruik van gevraagde of spontaan verkregen inlichtingen bekend is, een terugmelding naar de bevoegde autoriteit van de staat die de inlichtingen heeft verstrekt.
 
 2. Onze Minister doet eenmaal per jaar, overeenkomstig bilateraal overeengekomen praktische afspraken, een terugmelding over de automatische uitwisseling van inlichtingen naar de betrokken lidstaten.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Tenzij een bevoegde autoriteit van een andere staat anders bepaalt, kunnen de door haar aan Onze Minister verstrekte inlichtingen uitsluitend worden gebruikt voor de heffing van belastingen die vallen onder de reikwijdte van de wederzijdse bijstand, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=1&z=2026-04-11&g=2026-04-11), alsmede voor de vaststelling, tenuitvoerlegging en handhaving van de Nederlandse wetgeving met betrekking tot de omzetbelasting, andere indirecte belastingen, douanerechten en de bestrijding van witwassen van geld en financiering van terrorisme.
 
@@ -572,7 +598,7 @@ Op inlichtingen die door Onze Minister in het kader van wederzijdse bijstand van
 
 7. Inlichtingen, verslagen, verklaringen en andere bescheiden, alsook voor eensluidend gewaarmerkte afschriften of uittreksels daarvan, die zijn verkregen ter uitvoering van Richtlijn 2011/16/EU kunnen in Nederland op dezelfde voet als bewijs worden aangevoerd als soortgelijke inlichtingen, verslagen, verklaringen en andere bescheiden, alsook voor eensluidend gewaarmerkte afschriften of uittreksels daarvan, die zijn verkregen in Nederland zelf.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Indien Onze Minister van een staat inlichtingen ontvangt die naar verwachting van belang zijn voor de administratie en de handhaving van de Nederlandse wetgeving betreffende de heffing van belastingen die vallen onder de reikwijdte van de wederzijdse bijstand, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=1&z=2026-04-11&g=2026-04-11), kan hij deze inlichtingen verstrekken aan de bevoegde autoriteiten van de lidstaten voor wie die inlichtingen van nut kunnen zijn, en aan elke verzoekende autoriteit van een lidstaat, mits dat krachtens een overeenkomst met de staat waar de inlichtingen vandaan komen, is toegestaan.
 
@@ -582,29 +608,29 @@ Op inlichtingen die door Onze Minister in het kader van wederzijdse bijstand van
 
 - b. die staat zich ertoe heeft verbonden de medewerking te verlenen die nodig is om bewijsmateriaal bijeen te brengen omtrent het ongeoorloofde of onwettige karakter van verrichtingen die in strijd blijken te zijn met of een misbruik blijken te vormen van de belastingwetgeving.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Een verzoek om inlichtingen als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=III&afdeling=1&artikel=23&z=2026-04-11&g=2026-04-11), en een verzoek om een administratief onderzoek als bedoeld in artikel 23, tweede lid, worden voor zover mogelijk gedaan met gebruikmaking van een standaardformulier dat voldoet aan de in of krachtens Richtlijn 2011/16/EU gestelde voorwaarden en langs elektronische weg.
 
 2. De ontvangstbevestiging van spontaan verkregen inlichtingen, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=III&afdeling=2&artikel=26&z=2026-04-11&g=2026-04-11), en de terugmelding, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=III&afdeling=4&artikel=28&z=2026-04-11&g=2026-04-11), wordt met gebruikmaking van een standaardformulier dat voldoet aan de in of krachtens Richtlijn 2011/16/EU gestelde voorwaarden gedaan. Het formulier wordt voor zover mogelijk langs elektronische weg verzonden.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Een verzoek om inlichtingen als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=III&afdeling=1&artikel=23&z=2026-04-11&g=2026-04-11) en de bijgevoegde bescheiden kunnen in elke door Onze Minister en de bevoegde autoriteit van de aangezochte staat overeengekomen taal zijn gesteld.
 
 2. Onze Minister laat in bijzondere gevallen, op een met redenen omkleed verzoek van de bevoegde autoriteit van de aangezochte staat, het in het eerste lid bedoelde verzoek vergezeld gaan van een vertaling in de officiële taal of één van de officiële talen van de aangezochte staat.
 
-#### Artikel 34
+##### Artikel 34
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van dit hoofdstuk.
 
 ### Hoofdstuk IV. Slotbepaling
 
-#### Artikel 35
+##### Artikel 35
 
 Verwijzingen naar Richtlijn 77/799/EEG van de Raad van 19 december 1977 betreffende de wederzijdse bijstand van de bevoegde autoriteiten van de Lid-Staten op het gebied van de directe belastingen (PbEG 1977, L 336) gelden als verwijzing naar Richtlijn 2011/16/EU.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
@@ -612,7 +638,7 @@ Verwijzingen naar Richtlijn 77/799/EEG van de Raad van 19 december 1977 betreffe
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Voor de toepassing van dit artikel, [artikel 2d](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=2d&z=2026-04-11&g=2026-04-11), [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2026-04-11&g=2026-04-11), [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&z=2026-04-11&g=2026-04-11), [afdelingen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4a&z=2026-04-11&g=2026-04-11) en [4ab](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ab&z=2026-04-11&g=2026-04-11), en de daarop berustende bepalingen en artikel 10g wordt verstaan onder:
 
@@ -726,7 +752,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Afdeling 1. Op verzoek verstrekken van inlichtingen
 
-#### Artikel 6c
+##### Artikel 6c
 
 1. Onze Minister verstrekt op grond van [Richtlijn 2011/16](32011L0016)/EU en met inachtneming van de identificatie- en rapportagevoorschriften, bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4a&artikel=10a&z=2026-04-11&g=2026-04-11), de bevoegde autoriteit van elke lidstaat automatisch de gegevens en inlichtingen, bedoeld in de [artikelen 10b tot en met 10f](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4a&artikel=10b&z=2026-04-11&g=2026-04-11), die betrekking hebben op ingezetenen van die andere lidstaat.
 
@@ -734,11 +760,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Afdeling 3. Spontaan verstrekken van inlichtingen
 
-#### Artikel 10a
+##### Artikel 10a
 
 Bij of krachtens algemene maatregel van bestuur worden voorschriften voor rapporterende financiële instellingen gegeven met het oog op het door die instellingen verstrekken van gegevens en inlichtingen als bedoeld in de [artikelen 10b tot en met 10f](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4a&artikel=10b&z=2026-04-11&g=2026-04-11) en de identificatie van de te rapporteren rekeningen en te rapporteren personen en met het oog op de door Onze Minister te verstrekken informatie, bedoeld in de [artikelen 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4a&artikel=10b&z=2026-04-11&g=2026-04-11) en [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4a&artikel=10c&z=2026-04-11&g=2026-04-11), aan rechtsgebieden ten aanzien waarvan het land Nederland een verplichting heeft om die informatie te verstrekken.
 
-#### Artikel 10b
+##### Artikel 10b
 
 1. Een rapporterende financiële instelling verstrekt jaarlijks ter zake van elke bij haar aangehouden te rapporteren rekening aan Onze Minister de volgende gegevens en inlichtingen:
 
@@ -768,7 +794,7 @@ Bij of krachtens algemene maatregel van bestuur worden voorschriften voor rappor
 
 3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het uiterste tijdstip en de wijze waarop de gegevens en inlichtingen, bedoeld in het eerste lid, aan Onze Minister worden verstrekt.
 
-#### Artikel 10c
+##### Artikel 10c
 
 1. Een rapporterende financiële instelling verstrekt jaarlijks ter zake van elke bij haar aangehouden te rapporteren rekening aan Onze Minister, naast de gegevens en inlichtingen, bedoeld in [artikel 10b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4a&artikel=10b&z=2026-04-11&g=2026-04-11), de volgende gegevens en inlichtingen:
 
@@ -788,17 +814,17 @@ Bij of krachtens algemene maatregel van bestuur worden voorschriften voor rappor
 
 3. In afwijking van het eerste lid, onderdeel a, onder 2°, hoeft een rapporterende financiële instelling de bruto-opbrengsten niet te rapporteren voor zover zij die opbrengsten met toepassing van de bepalingen van [hoofdstuk II, afdeling 4aca](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4aca&z=2026-04-11&g=2026-04-11), rapporteert, tenzij zij voor een bepaalde groep te rapporteren rekeningen anders besluit.
 
-#### Artikel 10d
+##### Artikel 10d
 
 1. In afwijking van [artikel 10b, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4a&artikel=10b&z=2026-04-11&g=2026-04-11), is een rapporterende financiële instelling ter zake van een bestaande rekening niet verplicht het fiscale identificatienummer of de geboortedatum van de te rapporteren persoon of de rekeninghouder te verstrekken indien dat fiscale identificatienummer, onderscheidenlijk die geboortedatum, niet in het dossier van de rapporterende financiële instelling voorhanden is en de rapporterende financiële instelling niet uit hoofde van andere wetgeving of enig rechtsinstrument van de Europese Unie verplicht is dat gegeven te verzamelen.
 
 2. Een rapporterende financiële instelling verricht redelijke inspanningen om aan het einde van het tweede kalenderjaar volgend op het jaar waarin een bestaande rekening als te rapporteren rekening is aangemerkt en telkens wanneer de informatie betreffende die rekening op grond van het bij of krachtens de [Wet ter voorkoming van witwassen en financiering van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) gestelde moet worden bijgewerkt het fiscale identificatienummer, bedoeld in het eerste lid, en de geboortedatum, bedoeld in het eerste lid, te verkrijgen.
 
-#### Artikel 10e
+##### Artikel 10e
 
 In afwijking van [artikel 10b, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4a&artikel=10b&z=2026-04-11&g=2026-04-11), is een rapporterende financiële instelling niet verplicht het fiscale identificatienummer van een te rapporteren persoon of een rekeninghouder te verstrekken indien de fiscale woonstaat van die te rapporteren persoon, onderscheidenlijk van die rekeninghouder, hem geen fiscaal identificatienummer heeft verstrekt.
 
-#### Artikel 10f
+##### Artikel 10f
 
 In afwijking van [artikel 10b, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4a&artikel=10b&z=2026-04-11&g=2026-04-11), is een rapporterende financiële instelling niet verplicht de geboorteplaats van een te rapporteren persoon te verstrekken, tenzij:
 
@@ -826,7 +852,7 @@ In afwijking van [artikel 10b, eerste lid, onderdeel b](https://wetten.overheid.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 34a
+##### Artikel 34a
 
 1. De [artikelen 2, eerste lid, onderdelen e en g](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=2&z=2026-04-11&g=2026-04-11), [4a tot en met 4k](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=1&artikel=4a&z=2026-04-11&g=2026-04-11), [4m tot en met 4p](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=IA&afdeling=2&paragraaf=3&artikel=4m&z=2026-04-11&g=2026-04-11), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6a&z=2026-04-11&g=2026-04-11) en [14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=6&artikel=14&z=2026-04-11&g=2026-04-11), en de daarop gebaseerde bepalingen, zoals deze op 31 december 2015 luidden, zijn van overeenkomstige toepassing ter zake van rentebetalingen die vóór 1 januari 2016 hebben plaatsgevonden.
 
@@ -836,7 +862,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2b
+##### Artikel 2b
 
 1. Voor de toepassing van dit artikel en van [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6d&z=2026-04-11&g=2026-04-11) wordt verstaan onder een voorafgaande grensoverschrijdende ruling: een uitlating door of namens de inspecteur, dan wel Onze Minister, ongeacht of er effectief gebruik van wordt gemaakt, die:
 
@@ -864,7 +890,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - d. een transactie of reeks van transacties die een grensoverschrijdend effect heeft, onderscheidenlijk hebben.
 
-#### Artikel 2c
+##### Artikel 2c
 
 1. Voor de toepassing van dit artikel en van [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6d&z=2026-04-11&g=2026-04-11) wordt verstaan onder een voorafgaande verrekenprijsafspraak: een uitlating door of namens de inspecteur, dan wel Onze Minister, ongeacht of er effectief gebruik van wordt gemaakt, die:
 
@@ -894,7 +920,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Afdeling 2. Automatisch verstrekken van inlichtingen
 
-#### Artikel 6d
+##### Artikel 6d
 
 1. Onze Minister verstrekt op grond van Richtlijn 2011/16/EU de bevoegde autoriteit van elke lidstaat en de Europese Commissie automatisch de volgende inlichtingen over voorafgaande grensoverschrijdende rulings of voorafgaande verrekenprijsafspraken:
 
@@ -962,7 +988,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 6e
+##### Artikel 6e
 
 1. Onze Minister verstrekt op grond van [Richtlijn 2011/16](32011L0016)/EU automatisch het door een rapporterende entiteit die fiscaal inwoner is van Nederland aan de inspecteur verstrekte landenrapport, bedoeld in [artikel 29e van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29e), aan de bevoegde autoriteit van elke lidstaat waarvan, blijkens de informatie in het landenrapport, een of meer groepsentiteiten van de multinationale groep van de rapporterende entiteit fiscaal inwoner zijn of waarin deze aan belasting zijn onderworpen met betrekking tot de activiteiten die via een vaste inrichting worden uitgeoefend.
 
@@ -998,7 +1024,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10g
+##### Artikel 10g
 
 1. Onze Minister verkrijgt met het oog op de tenuitvoerlegging en handhaving van de tot uitvoering van [Richtlijn 2011/16](32011L0016)/EU strekkende bepalingen van deze wet en de daarop berustende bepalingen en teneinde te waarborgen dat de administratieve samenwerking waarin [Richtlijn 2011/16](32011L0016)/EU voorziet, functioneert, desgevraagd binnen een door hem te stellen termijn en op een door hem te bepalen wijze toegang tot de mechanismen, procedures, documenten en overige inlichtingen, bedoeld in de artikelen 13, 30, 31, 32 bis en 40 van Richtlijn (EU) 2015/849, voor zover deze artikelen zijn geïmplementeerd in de Nederlandse wetgeving.
 
@@ -1014,7 +1040,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2d
+##### Artikel 2d
 
 1. Voor de toepassing van dit artikel, [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2026-04-11&g=2026-04-11), [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&z=2026-04-11&g=2026-04-11), [afdeling 4ab](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ab&z=2026-04-11&g=2026-04-11), en de daarop berustende bepalingen en [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4b&artikel=11&z=2026-04-11&g=2026-04-11) wordt verstaan onder:
 
@@ -1050,7 +1076,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk II. Vormen van door Nederland te verlenen bijstand
 
-#### Artikel 6f
+##### Artikel 6f
 
 1. Onze Minister verstrekt op grond van [Richtlijn 2011/16](32011L0016)/EU de bevoegde autoriteit van elke lidstaat automatisch de gegevens en inlichtingen, bedoeld in [artikel 10h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ab&artikel=10h&z=2026-04-11&g=2026-04-11).
 
@@ -1060,7 +1086,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Afdeling 4a. Verplichtingen ten behoeve van de automatische verstrekking van inlichtingen volgens de Common Reporting Standard
 
-#### Artikel 10h
+##### Artikel 10h
 
 1. Een intermediair verstrekt aan Onze Minister over een meldingsplichtige grensoverschrijdende constructie de gegevens en inlichtingen, bedoeld in het tweede lid, waarvan hij kennis of bezit of waarover hij controle heeft, indien hij:
 
@@ -1138,7 +1164,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10fa
+##### Artikel 10fa
 
 Als sprake is van een overeenkomst of praktijk waarvan het primaire doel naar redelijkerwijs moet worden aangenomen is het omzeilen van een verplichting als bedoeld in deze afdeling of de daarop berustende bepalingen, geldt die verplichting alsof die overeenkomst, onderscheidenlijk die praktijk, er niet is.
 
@@ -1154,7 +1180,7 @@ Als sprake is van een overeenkomst of praktijk waarvan het primaire doel naar re
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2e
+##### Artikel 2e
 
 Voor de toepassing van dit artikel, [artikel 6g](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6g&z=2026-04-11&g=2026-04-11), [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2026-04-11&g=2026-04-11), [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&z=2026-04-11&g=2026-04-11), [afdeling 4ac](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ac&z=2026-04-11&g=2026-04-11), en de daarop berustende bepalingen en [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4b&artikel=11&z=2026-04-11&g=2026-04-11) wordt verstaan onder:
 
@@ -1218,7 +1244,7 @@ Voor de toepassing van dit artikel, [artikel 6g](https://wetten.overheid.nl/jci1
 
 ### Hoofdstuk II. Vormen van door Nederland te verlenen bijstand
 
-#### Artikel 5bis
+##### Artikel 5bis
 
 1. Voor een verzoek als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=1&artikel=5&z=2026-04-11&g=2026-04-11) zijn de verzochte inlichtingen naar verwachting van belang indien de bevoegde autoriteit van een verzoekende staat op het moment van het verzoek van oordeel is dat er overeenkomstig haar nationale wetgeving een redelijke mogelijkheid bestaat dat de verzochte inlichtingen van belang zullen zijn voor de belastingaangelegenheden van een of meerdere belastingplichtigen, bij naam geïdentificeerd of anderszins, en het verzoek gerechtvaardigd is voor de doeleinden van het onderzoek.
 
@@ -1238,7 +1264,7 @@ Voor de toepassing van dit artikel, [artikel 6g](https://wetten.overheid.nl/jci1
 
 - d. in voorkomend geval, feiten en omstandigheden die verband houden met de betrokkenheid van een derde die actief heeft bijgedragen aan de mogelijke niet-naleving van de van toepassing zijnde wetgeving door de belastingplichtigen in de groep.
 
-#### Artikel 6g
+##### Artikel 6g
 
 1. Onze Minister verstrekt op grond van [Richtlijn 2011/16](32011L0016)/EU de bevoegde autoriteit van de lidstaat waarvan de te rapporteren verkoper een ingezetene is als bedoeld in bijlage V, deel II, onderdeel D, van [Richtlijn 2011/16](32011L0016)/EU en, indien de te rapporteren verkoper onroerende zaken verhuurt, in ieder geval aan de bevoegde autoriteit van de lidstaat waarin de onroerende zaak is gelegen, automatisch de gegevens en inlichtingen, bedoeld in de [artikelen 10j, tweede, derde, vijfde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ac&artikel=10j&z=2026-04-11&g=2026-04-11), en [10l, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ac&artikel=10l&z=2026-04-11&g=2026-04-11).
 
@@ -1246,11 +1272,11 @@ Voor de toepassing van dit artikel, [artikel 6g](https://wetten.overheid.nl/jci1
 
 ### Afdeling 4bis. Gezamenlijke audits
 
-#### Artikel 10i
+##### Artikel 10i
 
 Bij of krachtens algemene maatregel van bestuur worden verzamel- en verificatievereisten gesteld aan rapporterende platformexploitanten als bedoeld in de [artikelen 10j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ac&artikel=10j&z=2026-04-11&g=2026-04-11), en [10l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ac&artikel=10l&z=2026-04-11&g=2026-04-11), met het oog op het door die platformexploitanten rapporteren van gegevens en inlichtingen als bedoeld in de [artikelen 10j tot en met 10l](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ac&artikel=10j&z=2026-04-11&g=2026-04-11), alsmede regels met betrekking tot de wijze waarop die gegevens en inlichtingen aan Onze Minister worden verstrekt.
 
-#### Artikel 10j
+##### Artikel 10j
 
 1. Een rapporterende platformexploitant die niet kiest voor rapportage in een andere lidstaat als bedoeld in [artikel 10k](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ac&artikel=10k&z=2026-04-11&g=2026-04-11) rapporteert aan Onze Minister de gegevens en inlichtingen, bedoeld in het tweede, derde, vierde, vijfde en zesde lid, met betrekking tot de rapportageperiode uiterlijk op 31 januari van het jaar dat volgt op het kalenderjaar waarin een verkoper als te rapporteren verkoper is aangemerkt, ingeval die rapporterende platformexploitant fiscaal ingezetene is van Nederland of, indien dat niet het geval is en die rapporterende platformexploitant ook geen fiscaal ingezetene is van een lidstaat, voldoet aan de voorwaarde dat:
 
@@ -1340,13 +1366,13 @@ Bij of krachtens algemene maatregel van bestuur worden verzamel- en verificatiev
 
 9. In afwijking van het derde lid, onderdeel a, en het vijfde lid, onderdeel a, rapporteert de rapporterende platformexploitant de naam van de te rapporteren verkoper, de identificatiecode of identificatiecodes van de identificatiedienst voor rapporterende platformexploitanten en de lidstaat of lidstaten van afgifte indien de rapporterende platformexploitant gebruik heeft gemaakt van een identificatiedienst voor rapporterende platformexploitanten om de identiteit en alle fiscale woonplaatsen van de te rapporteren verkoper vast te stellen.
 
-#### Artikel 10k
+##### Artikel 10k
 
 1. Een rapporterende platformexploitant die zowel in Nederland als in een of meer andere lidstaten voldoet aan een met bijlage V, deel I, onderdeel A, onder 4, subonderdeel a, van [Richtlijn 2011/16](32011L0016)/EU overeenkomende wettelijke bepaling kiest in welke van die lidstaten hij de gegevens en inlichtingen, bedoeld in [artikel 10j, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ac&artikel=10j&z=2026-04-11&g=2026-04-11), rapporteert.
 
 2. De rapporterende platformexploitant, bedoeld in het eerste lid, stelt alle bevoegde autoriteiten van de lidstaten ten aanzien waarvan hij voldoet aan een met bijlage V, deel I, onderdeel A, onder 4, subonderdeel a, van [Richtlijn 2011/16](32011L0016)/EU overeenkomende wettelijke bepaling in kennis van zijn keuze als bedoeld in het eerste lid.
 
-#### Artikel 10l
+##### Artikel 10l
 
 1. Een rapporterende platformexploitant als bedoeld in bijlage V, deel I, onderdeel A, punt 4, subonderdeel b, van [Richtlijn 2011/16](32011L0016)/EU registreert zich bij de aanvang van zijn activiteit als rapporterende platformexploitant of op het moment waarop hij als rapporterende platformexploitant kwalificeert bij de bevoegde autoriteit van een lidstaat.
 
@@ -1376,7 +1402,7 @@ Bij of krachtens algemene maatregel van bestuur worden verzamel- en verificatiev
 
 8. [Artikel 10j, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ac&artikel=10j&z=2026-04-11&g=2026-04-11), is van overeenkomstige toepassing ten aanzien van de rapporterende platformexploitant, bedoeld in het tweede lid.
 
-#### Artikel 10m
+##### Artikel 10m
 
 1. Onze Minister verwijdert een rapporterende platformexploitant uit het centraal register indien:
 
@@ -1394,15 +1420,15 @@ Bij of krachtens algemene maatregel van bestuur worden verzamel- en verificatiev
 
 4. Een rapporterende platformexploitant als bedoeld in bijlage V, deel I, onderdeel A, onder 4, subonderdeel b, van [Richtlijn 2011/16](32011L0016)/EU ten aanzien van wie de registratie is ingetrokken op grond van een met artikel 8 bis quater, vierde lid, van [Richtlijn 2011/16](32011L0016)/EU overeenkomende wettelijke bepaling, kan zich enkel in Nederland registreren indien hij aan Onze Minister passende waarborgen verstrekt inzake zijn vaste voornemen om te voldoen aan de rapportageverplichtingen, bedoeld in [artikel 10l, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ac&artikel=10l&z=2026-04-11&g=2026-04-11).
 
-#### Artikel 10n
+##### Artikel 10n
 
 Indien Onze Minister vaststelt dat een platformexploitant een uitgesloten platformexploitant is, stelt hij de bevoegde autoriteiten van de andere lidstaten daarvan, alsmede van eventuele latere wijzigingen, in kennis.
 
-#### Artikel 10o
+##### Artikel 10o
 
 Onverminderd [artikel 10p](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ad&artikel=10p&z=2026-04-11&g=2026-04-11), verstrekt een rapporterende platformexploitant als bedoeld in de [artikelen 10j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ad&artikel=10p&z=2026-04-11&g=2026-04-11), en [10l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ac&artikel=10l&z=2026-04-11&g=2026-04-11), de gegevens en inlichtingen, bedoeld in artikel 10j, derde, vierde, vijfde en zesde lid, uiterlijk op 31 januari van het jaar dat volgt op het kalenderjaar waarin de verkoper is aangemerkt als een te rapporteren verkoper tevens aan de te rapporteren verkoper waarop die gegevens en inlichtingen betrekking hebben.
 
-#### Artikel 10p
+##### Artikel 10p
 
 Elke rapporterende financiële instelling als bedoeld in [artikel 2a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=I&artikel=2a&z=2026-04-11&g=2026-04-11), intermediair als bedoeld in [artikel 10h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ab&artikel=10h&z=2026-04-11&g=2026-04-11), rapporterende platformexploitant als bedoeld in de [artikelen 10j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ac&artikel=10j&z=2026-04-11&g=2026-04-11), of [10l, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ac&artikel=10l&z=2026-04-11&g=2026-04-11), of rapporterende aanbieder van cryptoactivadiensten als bedoeld in de [artikelen 10ob, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4aca&artikel=10ob&z=2026-04-11&g=2026-04-11), of [10od, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4aca&artikel=10od&z=2026-04-11&g=2026-04-11), is gehouden:
 
@@ -1410,7 +1436,7 @@ Elke rapporterende financiële instelling als bedoeld in [artikel 2a, eerste lid
 
 - b. elke betrokken natuurlijke persoon tijdig en, in elk geval, voordat de gegevens en inlichtingen worden gerapporteerd, alle gegevens en inlichtingen te verstrekken waarop hij op grond van [Verordening (EU) 2016/679](32579R2016) van de rapporterende financiële instelling, intermediair, rapporterende platformexploitant of rapporterende aanbieder van cryptoactivadiensten recht heeft, zodat die natuurlijke persoon zijn rechten inzake gegevensbescherming kan uitoefenen.
 
-#### Artikel 10q
+##### Artikel 10q
 
 1. Indien een gegevensinbreuk in Nederland plaatsvindt, meldt Onze Minister die inbreuk en alle daaropvolgende corrigerende maatregelen onverwijld aan de Europese Commissie.
 
@@ -1438,7 +1464,7 @@ Elke rapporterende financiële instelling als bedoeld in [artikel 2a, eerste lid
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10bis
+##### Artikel 10bis
 
 1. Onze Minister kan door de bevoegde autoriteit van een of meer verzoekende lidstaten worden verzocht een gezamenlijke audit uit te voeren.
 
@@ -1458,7 +1484,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 6. De rechten en plichten van door de bevoegde autoriteit van een of meer verzoekende lidstaten gemachtigde ambtenaren die deelnemen aan een gezamenlijke audit in Nederland worden, in geval van hun aanwezigheid bij die activiteiten, vastgesteld overeenkomstig de Nederlandse wetgeving. De ambtenaren zijn gehouden aan de Nederlandse wetgeving en oefenen in ieder geval geen bevoegdheden uit die verder gaan dan de bevoegdheden die aan hen krachtens de wetgeving van hun lidstaat zijn verleend.
 
-#### Artikel 10ter
+##### Artikel 10ter
 
 1. Indien wordt overgegaan tot een gezamenlijke audit als bedoeld in [artikel 10bis, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4bis&artikel=10bis&z=2026-04-11&g=2026-04-11), streeft Onze Minister ernaar met de bevoegde autoriteit van een of meer verzoekende lidstaten overeenstemming te bereiken over:
 
@@ -1482,7 +1508,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Afdeling 3a. Gezamenlijke audits
 
-#### Artikel 27a
+##### Artikel 27a
 
 Onze Minister kan de bevoegde autoriteit van een lidstaat verzoeken een gezamenlijke audit uit te voeren.
 
@@ -1494,7 +1520,7 @@ Onze Minister kan de bevoegde autoriteit van een lidstaat verzoeken een gezamenl
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2f
+##### Artikel 2f
 
 Voor de toepassing van dit artikel, [artikel 6h](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6h&z=2026-04-11&g=2026-04-11), [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2026-04-11&g=2026-04-11), [hoofdstuk II, afdeling 4aca](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4aca&z=2026-04-11&g=2026-04-11), en de daarop berustende bepalingen, [artikel 10r](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4ad&artikel=10r&z=2026-04-11&g=2026-04-11) en [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4b&artikel=11&z=2026-04-11&g=2026-04-11) wordt verstaan onder:
 
@@ -1560,7 +1586,7 @@ Voor de toepassing van dit artikel, [artikel 6h](https://wetten.overheid.nl/jci1
 
 - **Verordening (EU) 2023/1114:** [Verordening (EU) 2023/1114](32023R1114) van het Europees Parlement en de Raad van 31 mei 2023 betreffende cryptoactivamarkten en tot wijziging van [Verordeningen (EU) nr. 1093/2010](32010R1093) en [(EU) nr. 1095/2010](32010R1095) en [Richtlijnen 2013/36/EU](32013L0036) en [(EU) 2019/1937](32019L1937).
 
-#### Artikel 2g
+##### Artikel 2g
 
 Voor de toepassing van dit artikel, [artikel 6i](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=2&artikel=6i&z=2026-04-11&g=2026-04-11), [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4&artikel=8&z=2026-04-11&g=2026-04-11) en [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=5&artikel=13a&z=2026-04-11&g=2026-04-11) wordt verstaan onder:
 
@@ -1592,13 +1618,13 @@ Voor de toepassing van dit artikel, [artikel 6i](https://wetten.overheid.nl/jci1
 
 ### Afdeling 2. Automatisch verstrekken van inlichtingen
 
-#### Artikel 6h
+##### Artikel 6h
 
 1. Onze Minister verstrekt op grond van [Richtlijn 2011/16/EU](32011L0016) met betrekking tot een persoon van een lidstaat aan de bevoegde autoriteit van de betreffende lidstaat automatisch de gegevens en inlichtingen, bedoeld in de [artikelen 10ob, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4aca&artikel=10ob&z=2026-04-11&g=2026-04-11), en [10od, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4aca&artikel=10od&z=2026-04-11&g=2026-04-11).
 
 2. Onze Minister verstrekt de gegevens en inlichtingen jaarlijks binnen negen maanden na het einde van het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben.
 
-#### Artikel 6i
+##### Artikel 6i
 
 1. Onze Minister verstrekt op grond van [Richtlijn 2011/16/EU](32011L0016) automatisch uit de bij de inspecteur ingediende bijheffing-informatieaangifte:
 
@@ -1632,11 +1658,11 @@ Voor de toepassing van dit artikel, [artikel 6i](https://wetten.overheid.nl/jci1
 
 ### Afdeling 4ac. Verplichtingen ten behoeve van de verzameling en verificatie van inlichtingen over verkopers door rapporterende platformexploitanten en de rapportage daarvan
 
-#### Artikel 10oa
+##### Artikel 10oa
 
 Bij of krachtens algemene maatregel van bestuur worden verzamel- en verificatievereisten gesteld aan rapporterende aanbieders van cryptoactivadiensten als bedoeld in de artikelen 10ob, eerste en tweede lid, en 10od, vierde lid, met het oog op het door die aanbieders van cryptoactivadiensten rapporteren van gegevens en inlichtingen als bedoeld in de artikelen 10ob en 10od. Ook worden bij of krachtens algemene maatregel van bestuur regels gesteld met betrekking tot de wijze waarop die gegevens en inlichtingen aan Onze Minister worden verstrekt.
 
-#### Artikel 10ob
+##### Artikel 10ob
 
 1. Een rapporterende aanbieder van cryptoactivadiensten rapporteert aan Onze Minister de gegevens en inlichtingen, bedoeld in het derde tot en met het vijfde lid, indien hij
 
@@ -1700,7 +1726,7 @@ Bij of krachtens algemene maatregel van bestuur worden verzamel- en verificatiev
 
 12. De rapporterende aanbieder van cryptoactivadiensten rapporteert de gegevens en inlichtingen, bedoeld in het derde tot en met elfde lid, jaarlijks uiterlijk op 31 januari van het kalenderjaar volgend op het jaar waarop de gegevens en inlichtingen betrekking hebben aan Onze Minister.
 
-#### Artikel 10oc
+##### Artikel 10oc
 
 1. In afwijking van [artikel 10ob, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4aca&artikel=10ob&z=2026-04-11&g=2026-04-11), is een rapporterende aanbieder van cryptoactivadiensten niet verplicht aan Onze Minister te rapporteren, indien hij:
 
@@ -1722,7 +1748,7 @@ Bij of krachtens algemene maatregel van bestuur worden verzamel- en verificatiev
 
 3. In afwijking van [artikel 10ob, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4aca&artikel=10ob&z=2026-04-11&g=2026-04-11), is een rapporterende aanbieder van cryptoactivadiensten niet verplicht aan Onze Minister te rapporteren met betrekking tot een te rapporteren gebruiker van cryptoactiva en uiteindelijk belanghebbenden die te rapporteren personen zijn die ingezetenen van Nederland zijn, indien de rapporterende aanbieder van cryptoactivadiensten de rapportageplicht met betrekking tot die te rapporteren gebruiker of uiteindelijk belanghebbenden die te rapporteren personen zijn vervult in een niet-Unierechtsgebied dat een van kracht zijnde adequate overeenkomst met Nederland heeft die voorziet in de wederkerige uitwisseling van gelijkwaardige inlichtingen tussen Nederland en die staat.
 
-#### Artikel 10od
+##### Artikel 10od
 
 1. Een exploitant van cryptoactiva die een rapporterende aanbieder van cryptoactivadiensten is en die op grond van het bepaalde in artikel 10ob een rapportageplicht in Nederland heeft en een exploitant van cryptoactiva die in meer dan één lidstaat voldoet aan één van dezelfde voorwaarden van [artikel 10ob, eerste lid, aanhef en onderdelen b, c, d of e, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4aca&artikel=10ob&z=2026-04-11&g=2026-04-11), en die kiest voor registratie in Nederland registreert zich uiterlijk op de datum, bedoeld in artikel 10ob, twaalfde lid, bij Onze Minister.
 
@@ -1746,7 +1772,7 @@ Bij of krachtens algemene maatregel van bestuur worden verzamel- en verificatiev
 
 5. De exploitant van cryptoactiva die zich in Nederland heeft geregistreerd stelt Onze Minister in kennis van iedere wijziging die zich voordoet ten aanzien van de gegevens en inlichtingen, bedoeld in het vierde lid.
 
-#### Artikel 10oe
+##### Artikel 10oe
 
 1. Onze Minister verwijdert de registratie van een exploitant van cryptoactiva, bedoeld in artikel 10od, eerste lid, uit het centraal register van exploitanten van cryptoactiva indien:
 
@@ -1766,7 +1792,7 @@ Bij of krachtens algemene maatregel van bestuur worden verzamel- en verificatiev
 
 5. Een exploitant van cryptoactiva die een rapporterende aanbieder van cryptoactivadiensten is ten aanzien van wie de registratie is ingetrokken op grond van een met artikel 8 bis quinquies, zevende lid, van [Richtlijn 2011/16/EU](32011L0016) overeenkomende wettelijke bepaling, kan zich enkel in Nederland registreren indien hij aan Onze Minister passende waarborgen verstrekt inzake zijn verbintenis om te voldoen aan de rapportageverplichtingen, bedoeld in[artikel 10ob, derde, vierde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&hoofdstuk=II&afdeling=4aca&artikel=10ob&z=2026-04-11&g=2026-04-11), inclusief de rapportageverplichtingen die hij alsnog moet nakomen.
 
-#### Artikel 10of
+##### Artikel 10of
 
 1. De Autoriteit Financiële Markten zendt Onze Minister jaarlijks op 30 december een lijst waarop staat vermeld aan wie en op welke datum in het afgelopen kalenderjaar een vergunning op grond van [Verordening (EU) 2023/1114](32023R1114) voor het aanbieden van cryptoactivadiensten is verleend.
 
@@ -1774,7 +1800,7 @@ Bij of krachtens algemene maatregel van bestuur worden verzamel- en verificatiev
 
 ### Afdeling 4ad. Gegevensbescherming
 
-#### Artikel 10r
+##### Artikel 10r
 
 Met betrekking tot de gegevens en inlichtingen die andere lidstaten ingevolge artikel 8 bis quinquies van [Richtlijn 2011/16/EU](32011L0016) hebben verstrekt, heeft Onze Minister slechts recht op gebruik van de in het gegevensbestand, bedoeld in artikel 21, vijfde lid, van [Richtlijn 2011/16/EU](32011L0016) opgeslagen informatie met betrekking tot te rapporteren gebruikers en te rapporteren personen die in Nederland verblijven.
 
@@ -1782,7 +1808,7 @@ Met betrekking tot de gegevens en inlichtingen die andere lidstaten ingevolge ar
 
 ### Afdeling 5. Medewerking in het kader van te verlenen bijstand
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. Indien Onze Minister vermoedt dat de aan hem door de bevoegde autoriteit van een andere lidstaat verstrekte gegevens en inlichtingen uit de bij die autoriteit ingediende bijheffing-informatieaangifte kennelijke fouten bevatten die moeten worden gecorrigeerd, stelt hij die autoriteit daarvan onverwijld in kennis.
 

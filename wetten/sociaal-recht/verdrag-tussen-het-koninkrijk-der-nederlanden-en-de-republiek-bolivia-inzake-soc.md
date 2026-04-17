@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Bolivia inzake sociale zekerheid"
 identifier: "BWBV0001785"
-categorie: "Sociaal recht"
-publicatiedatum: 2005-12-21
-laatste_update: 2005-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001785"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-12-21"
+last_updated: "2005-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001785"
+soort: "verdrag"
+stam_id: "10002153293"
+version_id: "10002251562"
+internal_id: "C10006995441"
+label_id: "10002143594"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001785/2005-12-21/0"
+intitule_bron: "Trb.2006-22"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-02-01"
+intitule_published: "2006-02-06"
+intitule_status: "nogniet"
+original_publication: "Trb.2006-22"
+original_signed_date: "2006-02-01"
+original_published_date: "2006-02-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2006-22"
+jci_1_3: "jci1.3:c:BWBV0001785&z=2005-12-21&g=2005-12-21"
+jci_1_0: "1.0:c:BWBV0001785&g=2005-12-21"
+citeertitel_status: "redactioneel"
+signed_date: "2006-02-01"
+entry_into_force: "2006-02-06"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Bolivia inzake sociale zekerheid
 
 Het Koninkrijk der Nederlanden
@@ -24,7 +46,7 @@ Hebben besloten hiertoe een Verdrag te sluiten, en zijn het volgende overeengeko
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -50,7 +72,7 @@ Hebben besloten hiertoe een Verdrag te sluiten, en zijn het volgende overeengeko
 
 2. Andere in dit Verdrag gebruikte termen hebben de betekenis die daaraan in de toegepaste wetgeving wordt gegeven.
 
-#### Artikel 2. Materiële werkingssfeer
+##### Artikel 2. Materiële werkingssfeer
 
 Dit Verdrag is van toepassing:
 
@@ -88,11 +110,11 @@ Dit Verdrag is van toepassing:
 
 - h. begrafeniskostenuitkering.
 
-#### Artikel 3. Personele werkingssfeer
+##### Artikel 3. Personele werkingssfeer
 
 Tenzij in dit Verdrag anders is bepaald, is dit Verdrag van toepassing op personen op wie de wetgeving van een van de Verdragsluitende Partijen van toepassing is of is geweest en die zich bevinden op het grondgebied van de andere Verdragsluitende Partij, alsmede op hun gezinsleden en nabestaanden voor zover zij rechten ontlenen aan deze personen.
 
-#### Artikel 4. Export van uitkeringen
+##### Artikel 4. Export van uitkeringen
 
 1. Tenzij in dit Verdrag anders is bepaald, is een bepaling van de wetgeving van een Verdragsluitende Partij die de betaling van een uitkering beperkt uitsluitend omdat een uitkeringsgerechtigde of een lid van zijn gezin buiten het grondgebied van die Verdragsluitende Partij woont of verblijft, niet van toepassing ten aanzien van een uitkeringsgerechtigde of een lid van zijn gezin die respectievelijk dat op het grondgebied van de andere Verdragsluitende Partij woont of verblijft.
 
@@ -102,19 +124,19 @@ Tenzij in dit Verdrag anders is bepaald, is dit Verdrag van toepassing op person
 
 ### HOOFDSTUK II. TOEPASSELIJKE WETGEVING
 
-#### Artikel 5. Algemene regel
+##### Artikel 5. Algemene regel
 
 Een werknemer die werkzaam is op het grondgebied van een Verdragsluitende Partij, is voor die werkzaamheden alleen aan de wetgeving van die Verdragsluitende Partij onderworpen.
 
-#### Artikel 6. Detachering
+##### Artikel 6. Detachering
 
 Een werknemer waarop de wetgeving van een Verdragsluitende Partij van toepassing is en die wordt gedetacheerd om voor zijn of haar werkgever werkzaamheden te verrichten op het grondgebied van de andere Verdragsluitende Partij, is voor die werkzaamheden alleen onderworpen aan de wetgeving van de eerstgenoemde Verdragsluitende Partij als zouden die werkzaamheden worden verricht op haar grondgebied en mits deze detachering niet langer duurt dan 60 maanden en de betrokkene niet tevens tewerk wordt gesteld op het grondgebied van de andere Verdragsluitende Partij door een andere werkgever die zich op dat grondgebied bevindt. In het laatste geval is de wetgeving van de Ontvangende Staat van toepassing.
 
-#### Artikel 7. Uitzonderingen
+##### Artikel 7. Uitzonderingen
 
 De bevoegde autoriteiten van beide Verdragsluitende Partijen of de door de bevoegde autoriteiten aangewezen lichamen kunnen in onderlinge overeenstemming uitzonderingen op de bepalingen van artikelen 5 en 6 overeenkomen ten aanzien van personen of categorieën personen.
 
-#### Artikel 8. Regels inzake de dekking
+##### Artikel 8. Regels inzake de dekking
 
 1. Voor de toepassing van dit artikel wordt verstaan onder „orgaan’’:
 
@@ -134,13 +156,13 @@ De bevoegde autoriteiten van beide Verdragsluitende Partijen of de door de bevoe
 
 ### HOOFDSTUK III. HANDHAVING
 
-#### Artikel 9. Identificatie
+##### Artikel 9. Identificatie
 
 1. Teneinde het recht op een uitkering of op de betaling van een uitkering ingevolge de Boliviaanse of Nederlandse wetgeving vast te stellen, is een uitkeringsgerechtigde of een lid van zijn of haar gezin verplicht zich te identificeren door overlegging van een officieel identiteitsbewijs aan het bevoegde orgaan op het grondgebied waarvan de betrokken persoon woont of verblijft. Een officieel identiteitsbewijs is een paspoort of enig ander geldig identiteitsbewijs dat is afgegeven door de bevoegde instantie op het grondgebied waar de betrokken persoon woont of verblijft.
 
 2. Het betrokken bevoegde orgaan identificeert de uitkeringsgerechtigde of het lid van zijn gezin aan de hand van het officiële identiteitsbewijs. Het betrokken bevoegde orgaan stelt het bevoegde orgaan van de andere Verdragsluitende Partij door toezending van een gewaarmerkt afschrift van het officiële identiteitsbewijs ervan in kennis dat de identiteit van de uitkeringsgerechtigde of van het gezinslid is geverifieerd.
 
-#### Artikel 10. Verificatie van aanvragen en betalingen
+##### Artikel 10. Verificatie van aanvragen en betalingen
 
 1. Voor de toepassing van dit artikel wordt verstaan onder „inlichtingen’’: gegevens betreffende identiteit, adres, gezinssituatie, werk, scholing, inkomen, vermogensbestanddelen, gezondheidstoestand, overlijden en hechtenis, of alle andere gegevens die relevant zijn voor de uitvoering van dit Verdrag.
 
@@ -154,7 +176,7 @@ De bevoegde autoriteiten van beide Verdragsluitende Partijen of de door de bevoe
 
 6. Bij de uitvoering van dit Verdrag zijn de instanties elkaar behulpzaam en handelen zij als betrof het de uitvoering van hun eigen wetgeving.
 
-#### Artikel 11. Geneeskundig onderzoek
+##### Artikel 11. Geneeskundig onderzoek
 
 1. Op verzoek van het bevoegde orgaan van een Verdragsluitende Partij wordt het geneeskundig onderzoek ten aanzien van een uitkeringsgerechtigde of een lid van zijn gezin die respectievelijk dat woont of verblijft op het grondgebied van de andere Verdragsluitende Partij, verricht door het bevoegde orgaan van de laatstgenoemde Verdragsluitende Partij.
 
@@ -164,7 +186,7 @@ De bevoegde autoriteiten van beide Verdragsluitende Partijen of de door de bevoe
 
 4. De kosten van het onderzoek en, naar gelang van het geval, de uitgaven voor reis en verblijf worden voldaan door het bevoegde orgaan op verzoek waarvan het onderzoek wordt verricht.
 
-#### Artikel 12. Erkenning van beslissingen en uitspraken
+##### Artikel 12. Erkenning van beslissingen en uitspraken
 
 1. Iedere beslissing inzake de terugvordering van onverschuldigde betalingen of de inning van socialeverzekeringspremies en administratieve boeten uit hoofde van de toepasselijke wetgeving genomen door een bevoegd orgaan in de ene Verdragsluitende Partij waartegen geen rechtsmiddelen meer openstaan en iedere rechterlijke uitspraak gedaan met betrekking tot een dergelijke beslissing waartegen geen rechtsmiddelen meer openstaan, wordt door de andere Verdragsluitende Partij erkend.
 
@@ -172,11 +194,11 @@ De bevoegde autoriteiten van beide Verdragsluitende Partijen of de door de bevoe
 
 3. Voor tenuitvoerlegging vatbare beslissingen en uitspraken die ingevolge het eerste en tweede lid zijn erkend, worden door de andere Verdragsluitende Partij ten uitvoer gelegd in overeenstemming met de op het grondgebied van die staat van kracht zijnde wettelijke bepalingen die van toepassing zijn op de tenuitvoerlegging van soortgelijke beslissingen en uitspraken. De uitvoerbaarverklaring dient te worden vermeld op het gewaarmerkte afschrift van die uitspraak of beslissing. De andere Verdragsluitende Partij wordt in kennis gesteld van de bevestiging dat de beslissing ten uitvoer is gelegd.
 
-#### Artikel 13. Terugvordering van onverschuldigde betalingen en administratieve boetes
+##### Artikel 13. Terugvordering van onverschuldigde betalingen en administratieve boetes
 
 Indien een bevoegd orgaan een voor tenuitvoerlegging vatbare beslissing heeft genomen in de zin van artikel 12 en de desbetreffende uitkeringsgerechtigde een uitkering ontvangt van een bevoegd orgaan van de andere Verdragsluitende Partij, kan het eerstbedoelde orgaan verzoeken dat de desbetreffende betaling of de administratieve boete wordt verrekend met in die Verdragsluitende Partij achterstallige bedragen of bedragen die nog verschuldigd zijn aan de uitkeringsgerechtigde. Het laatstgenoemde bevoegde orgaan brengt het bedrag in mindering binnen de grenzen van de door dat bevoegde orgaan toegepaste wet inzake de uitvoering van overeenkomstige beslissingen en maakt het bedrag over aan het eerstgenoemde bevoegde orgaan dat recht heeft op teruggave.
 
-#### Artikel 14. Bescherming van persoonsgegevens
+##### Artikel 14. Bescherming van persoonsgegevens
 
 1. Wanneer, krachtens dit Verdrag, de bevoegde autoriteiten, bevoegde organen of uitvoeringsorganen van een Verdragsluitende Partij persoonsgegevens mededelen aan de bevoegde autoriteiten of bevoegde organen van de andere Verdragsluitende Partij, is die mededeling onderworpen aan de door de Verdragsluitende Partij die de gegevens verstrekt vastgestelde wettelijke bepalingen inzake de bescherming van gegevens. Elke daaropvolgende overdracht dan wel opslag, wijziging of vernietiging van de gegevens is onderworpen aan de bepalingen van de wetgeving inzake bescherming van gegevens van de ontvangende Verdragsluitende Partij.
 
@@ -184,23 +206,23 @@ Indien een bevoegd orgaan een voor tenuitvoerlegging vatbare beslissing heeft ge
 
 ### HOOFDSTUK IV. OVERIGE BEPALINGEN
 
-#### Artikel 15. Uitvoering van het Verdrag
+##### Artikel 15. Uitvoering van het Verdrag
 
 De bevoegde organen van beide Verdragsluitende Partijen kunnen door middel van aanvullende regelingen maatregelen vaststellen voor de uitvoering van dit Verdrag.
 
-#### Artikel 16. Taal
+##### Artikel 16. Taal
 
 1. Voor de toepassing van dit Verdrag kunnen de bevoegde autoriteiten, bevoegde organen en instanties van de Verdragsluitende Partijen rechtstreeks met elkaar communiceren in de Spaanse en de Engelse taal.
 
 2. Geen enkel document wordt geweigerd op grond van het enkele feit dat het is opgesteld in de officiële taal van een van de Verdragsluitende Partijen, mits het document vergezeld gaat van een bij wijze van gunst ter beschikking gestelde niet-officiële vertaling in het Engels of in de officiële taal van de andere partij.
 
-#### Artikel 17. Beslechting van geschillen
+##### Artikel 17. Beslechting van geschillen
 
 De bevoegde autoriteiten van beide Verdragsluitende Partijen verrichten alle redelijke inspanningen om geschillen die voortvloeien uit de uitlegging of toepassing van dit Verdrag met wederzijdse instemming op te lossen.
 
 ### HOOFDSTUK V. OVERGANGS- EN SLOTBEPALINGEN
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 1. De Verdragsluitende Partijen stellen elkaar schriftelijk in kennis van de voltooiing van hun onderscheiden wettelijke of grondwettelijke procedures die vereist zijn voor de inwerkingtreding van dit Verdrag.
 
@@ -208,17 +230,17 @@ De bevoegde autoriteiten van beide Verdragsluitende Partijen verrichten alle red
 
 3. Het Koninkrijk der Nederlanden past artikel 4 voorlopig toe vanaf de eerste dag van de tweede maand volgend op de datum van ondertekening.
 
-#### Artikel 19. Territoriale toepassing
+##### Artikel 19. Territoriale toepassing
 
 Met betrekking tot het Koninkrijk der Nederlanden is dit Verdrag slechts van toepassing op het grondgebied van het Koninkrijk in Europa.
 
 Met betrekking tot de Republiek Bolivia is dit Verdrag van toepassing op het gehele nationale grondgebied.
 
-#### Artikel 20. Aanvulling
+##### Artikel 20. Aanvulling
 
 De Verdragsluitende Partijen zullen in overweging nemen om dit Verdrag aan te vullen als zich de situatie voordoet dat de inwoners van één van de Verdragsluitende Partijen bij het aanvragen van uitkeringen erop aandringen dat de premies die zij afgedragen hebben in de andere Verdragsluitende Partij worden erkend. Eventuele rechten op uitkering in verband met de genoemde aanvragen kunnen slechts aan een aanvullend verdrag worden ontleend.
 
-#### Artikel 21. Beëindiging
+##### Artikel 21. Beëindiging
 
 Dit Verdrag kan te allen tijde worden beëindigd bij schriftelijke kennisgeving aan de andere Verdragsluitende Partij. In het geval van beëindiging blijft dit Verdrag van kracht tot het einde van het kalenderjaar volgend op het jaar waarin de kennisgeving van beëindiging door de andere Verdragsluitende Partij is ontvangen.
 

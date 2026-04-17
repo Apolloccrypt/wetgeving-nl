@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen de Regering van Canada, de Regeringen van de Lidstaten van het Europees Ruimte-Agentschap, de Regering van Japan, de Regering van de Russische Federatie en de Regering van de Verenigde Staten van Amerika inzake samenwerking op het gebied van het civiele internationale ruimtestation"
 identifier: "BWBV0001325"
-categorie: "Internationaal recht"
-publicatiedatum: 2005-06-28
-laatste_update: 1998-01-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001325"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-06-28"
+last_updated: "1998-01-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001325"
+soort: "verdrag"
+stam_id: "10001612193"
+version_id: "10001690712"
+internal_id: "C10006990441"
+label_id: "10001612744"
+dtd_version: "2.0"
+original_entry_into_force: "2005-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001325/2005-06-28/0"
+intitule_bron: "Trb.1998-97"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-01-29"
+intitule_published: "1998-04-24"
+intitule_in_force: "2002-02-11"
+intitule_status: "goed"
+original_publication: "Trb.1998-97"
+original_signed_date: "1998-01-29"
+original_published_date: "1998-04-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-97"
+entry_into_force_date: "2005-06-28"
+jci_1_3: "jci1.3:c:BWBV0001325&z=2005-06-28&g=2005-06-28"
+jci_1_0: "1.0:c:BWBV0001325&g=2005-06-28"
+citeertitel_status: "redactioneel"
+signed_date: "1998-01-29"
+entry_into_force: "2005-06-28"
 ---
-
 # Verdrag tussen de Regering van Canada, de Regeringen van de Lidstaten van het Europees Ruimte-Agentschap, de Regering van Japan, de Regering van de Russische Federatie en de Regering van de Verenigde Staten van Amerika inzake samenwerking op het gebied van het civiele internationale ruimtestation
 
 De Regering van Canada (hierna ook te noemen „Canada”),
@@ -62,7 +87,7 @@ Inwerkingtreding voorheen door Trb. 2002/29 gesteld op 27 maart 2001.
 
 Inwerkingtreding voorheen door Trb. 2002/29 gesteld op 27 maart 2001.
 
-#### Artikel 1. Doel en werkingssfeer
+##### Artikel 1. Doel en werkingssfeer
 
 1. Het doel van dit Verdrag is de totstandkoming van een duurzaam internationaal samenwerkingsverband tussen de Deelnemers, als ware partners, met het oog op het gedetailleerde ontwerp, de ontwikkeling, de exploitatie en het gebruik van een permanent bewoond civiel internationaal ruimtestation voor vreedzame doeleinden, in overeenstemming met het internationale recht. Dit civiele internationale ruimtestation zal het wetenschappelijk, technologisch en commercieel gebruik van de kosmische ruimte doen toenemen. Dit Verdrag omschrijft met name het civiele internationale ruimtestationprogramma en de aard van de samenwerking, met inbegrip van de respectieve rechten en verplichtingen van de Deelnemers. Dit Verdrag voorziet voorts in procedures en regelingen die moeten waarborgen dat haar doel wordt verwezenlijkt.
 
@@ -72,7 +97,7 @@ Inwerkingtreding voorheen door Trb. 2002/29 gesteld op 27 maart 2001.
 
 4. Het ruimtestation is bedoeld als voorziening geschikt voor verdere ontwikkeling. De rechten en verplichtingen van de Deelnemende Staten met betrekking tot de verdere ontwikkeling zijn onderworpen aan de bepalingen ter zake overeenkomstig artikel 14.
 
-#### Artikel 2. Internationale rechten en verplichtingen
+##### Artikel 2. Internationale rechten en verplichtingen
 
 1. Het ruimtestation wordt ontwikkeld, beheerd en gebruikt in overeenstemming met het internationale recht, met inbegrip van het [Ruimteverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004403), de [Astronautenovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004569), de [Aansprakelijkheidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003725) en de [Registratieovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003900).
 
@@ -84,7 +109,7 @@ Inwerkingtreding voorheen door Trb. 2002/29 gesteld op 27 maart 2001.
 
 - c. daaraan aanspraken worden ontleend met betrekking tot nationale toe-eigening van de kosmische ruimte of een gedeelte daarvan.
 
-#### Artikel 3. Begripsomschrijvingen
+##### Artikel 3. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -94,7 +119,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - c. „Deelnemende Staat": iedere Overeenkomstsluitende Staat ten aanzien waarvan dit Verdrag overeenkomstig artikel 25 in werking is getreden.
 
-#### Artikel 4. Samenwerkende Organen
+##### Artikel 4. Samenwerkende Organen
 
 1. De Deelnemers komen overeen dat het Canadese Ruimte-Agentschap (hierna te noemen „CSA") voor de Regering van Canada, het Europees Ruimte-Agentschap (hierna te noemen „ESA") voor de Europese Regeringen, het Russische Ruimte-Agentschap (hierna te noemen „RSA") voor Rusland en de Nationale Dienst voor Lucht- en Ruimtevaart (hierna te noemen „NASA") voor de Verenigde Staten de Samenwerkende Organen zullen zijn die zijn belast met de uitvoering van de samenwerking aangaande het ruimtestation. De aanwijzing door de Regering van Japan van het Samenwerkende Orgaan dat de samenwerking aangaande het ruimtestation zal uitvoeren, zal geschieden in het in het tweede lid van dit artikel vermelde Memorandum van Overeenstemming tussen de NASA en de Regering van Japan.
 
@@ -102,13 +127,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Indien een bepaling van een Memorandum van Overeenstemming rechten of verplichtingen schept die zijn aanvaard door een Samenwerkend Orgaan (of, in het geval van Japan, de Regering van Japan) dat geen partij is bij het desbetreffende Memorandum van Overeenstemming, mag deze bepaling niet worden gewijzigd zonder de schriftelijke toestemming van het betrokken Samenwerkend Orgaan (of, in het geval van Japan, de Regering van Japan).
 
-#### Artikel 5. Registratie; rechtsmacht en zeggenschap
+##### Artikel 5. Registratie; rechtsmacht en zeggenschap
 
 1. Elke Deelnemer registreert de in de Bijlage genoemde vluchtelementen die hij levert als ruimtevoorwerp overeenkomstig [artikel II van de Registratieovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003900&artikel=II). De Europese Deelnemer heeft deze verantwoordelijkheid overgedragen aan het ESA, dat voor en namens hem optreedt.
 
 2. Krachtens [artikel VIII van het Ruimteverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004403&artikel=VIII) en [artikel II van de Registratieovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003900&artikel=II) behoudt elke Deelnemer rechtsmacht en zeggenschap over de elementen die hij registreert overeenkomstig het eerste lid van dit artikel, alsmede over de personeelsleden in of op het ruimtestation die zijn onderdanen zijn. De uitoefening van bedoelde rechtsmacht en zeggenschap is onderworpen aan alle ter zake dienende bepalingen van dit Verdrag, de Memoranda van Overeenstemming en de uitvoeringsregelingen, met inbegrip van de desbetreffende procedures die daarin zijn vastgelegd.
 
-#### Artikel 6. Eigendom van de elementen en het materieel
+##### Artikel 6. Eigendom van de elementen en het materieel
 
 1. Via hun respectieve Samenwerkende Organen zijn Canada, de Europese Deelnemer, Rusland en de Verenigde Staten, onderscheidenlijk een lichaam dat door Japan zal worden aangewezen op het tijdstip van nederlegging van zijn akte overeenkomstig artikel 25, tweede lid, van dit Verdrag, eigenaar van de in de Bijlage genoemde elementen die zij leveren, voor zover in dit Verdrag niet anders is bepaald. De Deelnemers doen elkander via hun Samenwerkende Organen kennisgevingen toekomen met betrekking tot de eigendom van enigerlei materieel in of op het ruimtestation.
 
@@ -124,7 +149,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 7. De uitoefening van eigendomsrechten ter zake van elementen en materieel is onderworpen aan alle ter zake dienende bepalingen van dit Verdrag, de Memoranda van Overeenstemming en de uitvoeringsregelingen, met inbegrip van de desbetreffende procedures die daarin zijn vastgelegd.
 
-#### Artikel 7. Management
+##### Artikel 7. Management
 
 1. Het management van het ruimtestation geschiedt op multilaterale basis en de Deelnemers, die optreden via hun Samenwerkende Organen, nemen deel in en kwijten zich van verantwoordelijkheden met betrekking tot de managementlichamen opgericht in overeenstemming met de hieronder vermelde Memoranda van Overeenstemming en de uitvoeringsregelingen. Deze management-lichamen plannen en coördineren de activiteiten die betrekking hebben op het ontwerp en de ontwikkeling van het ruimtestation en het veilige, efficiënte en doelmatige beheer en het overeenkomstige feitelijke gebruik hiervan, in overeenstemming met dit Verdrag en de Memoranda van Overeenstemming. In deze managementlichamen wordt gestreefd naar besluitvorming bij consensus. Indien geen consensus kan worden bereikt, wordt teruggevallen op de besluitvormingsprocedures zoals vastgelegd in de Memoranda van Overeenstemming. De met de besluitvorming samenhangende verantwoordelijkheden die de Deelnemers en hun Samenwerkende Organen hebben met betrekking tot de elementen die zij leveren, worden aangegeven in dit Verdrag en in de Memoranda van Overeenstemming.
 
@@ -134,11 +159,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 4. Voor zover een aangelegenheid uitsluitend het ontwerp en de ontwikkeling betreft van elementen van een ruimtestation die worden geleverd door Canada, de Europese Deelnemer, Japan of Rusland, en deze aangelegenheid niet wordt geregeld in de in de Memoranda van Overeenstemming bedoelde gezamenlijk overeengekomen programmabescheiden, kan de betrokken Deelnemer, vertegenwoordigd door zijn Samenwerkend Orgaan, zelf beslissen ten aanzien van dat element.
 
-#### Artikel 8. Gedetailleerd ontwerp en ontwikkeling
+##### Artikel 8. Gedetailleerd ontwerp en ontwikkeling
 
 Elke Deelnemer, vertegenwoordigd door zijn Samenwerkend Orgaan, ontwerpt en ontwikkelt de elementen die hij levert, met inbegrip van de uitsluitend voor het ruimtestation bestemde grondelementen die geschikt zijn om het ononderbroken beheer en het feitelijk internationaal gebruik van de vluchtelementen te ondersteunen, in overeenstemming met artikel 7 en andere ter zake dienende bepalingen van dit Verdrag, en in overeenstemming met de Memoranda van Overeenstemming en de uitvoeringsregelingen, en hij werkt samen met de andere Deelnemers, vertegenwoordigd door hun Samenwerkende Organen, teneinde tot oplossingen te komen met betrekking tot het ontwerp en de ontwikkeling van hun respectieve elementen.
 
-#### Artikel 9. Gebruik
+##### Artikel 9. Gebruik
 
 1. Gebruiksrechten worden afgeleid van de levering door een Deelnemer van gebruikselementen, van infrastructurele elementen, of van beide. Elke Deelnemer die gebruikselementen voor het ruimtestation levert, behoudt het gebruik van deze elementen, voor zover niet anders is bepaald in dit lid. Deelnemers die hulpmiddelen – die verband houden met hun infrastructurele elementen voor het ruimtestation – leveren voor de exploitatie en het gebruik van het ruimtestation, ontvangen in ruil een vast aandeel in het gebruik van bepaalde gebruikselementen. De specifieke beschikbaarstelling door de Deelnemers van gebruikselementen voor het ruimtestation en van hulpmiddelen die verband houden met de infrastructuur van het ruimtestation worden in de Memoranda van Overeenstemming en de uitvoeringsregelingen omschreven.
 
@@ -156,17 +181,17 @@ Elke Deelnemer, vertegenwoordigd door zijn Samenwerkend Orgaan, ontwerpt en ontw
 
 6. Voor de toepassing van dit artikel wordt onder „niet-Deelnemer" niet verstaan een lidstaat van het ESA.
 
-#### Artikel 10. Exploitatie
+##### Artikel 10. Exploitatie
 
 De Deelnemers, vertegenwoordigd door hun Samenwerkende Organen, hebben verantwoordelijkheden met betrekking tot de exploitatie van de elementen die zij respectievelijk leveren, in overeenstemming met artikel 7 en andere ter zake dienende bepalingen van dit Verdrag, en in overeenstemming met de Memoranda van Overeenstemming en de uitvoeringsregelingen. De Deelnemers, vertegenwoordigd door hun Samenwerkende Organen, ontwikkelen procedures en voeren deze uit, opdat het ruimtestation wordt geëxploiteerd op een wijze die veilig, efficiënt en doelmatig is voor gebruikers en exploitanten van het ruimtestation, in overeenstemming met de Memoranda van Overeenstemming en de uitvoeringsregelingen. Voorts is elke Deelnemer, vertegenwoordigd door zijn Samenwerkend Orgaan, belast met de instandhouding van de werking van de elementen die hij levert.
 
-#### Artikel 11. Bemanning
+##### Artikel 11. Bemanning
 
 1. Elke Deelnemer kan ter zake kundig personeel leveren dat op basis van een billijke verdeling deel zal uitmaken van de bemanning van het ruimtestation. De selectie en de beslissingen met betrekking tot de toewijzing van vluchten aan bemanningsleden van een Deelnemer geschieden in overeenstemming met de procedures zoals vastgelegd in de Memoranda van Overeenstemming en de uitvoeringsregelingen.
 
 2. De Gedragscode voor de bemanning van het ruimtestation zal door alle Deelnemers worden ontwikkeld en goedgekeurd, in overeenstemming met de interne procedures van elke Deelnemer, en in overeenstemming met de Memoranda van Overeenstemming. Een Deelnemer dient de Gedragscode te hebben goedgekeurd alvorens bemanningsleden voor het ruimtestation te leveren. Elke Deelnemer die zijn recht uitoefent om bemanningsleden te leveren, ziet erop toe dat zijn bemanningsleden de Gedragscode naleven.
 
-#### Artikel 12. Transport
+##### Artikel 12. Transport
 
 1. Elk der Deelnemers heeft het recht op toegang tot het ruimtestation met gebruikmaking van transportsystemen van respectievelijk de overheid of de particuliere sector, indien deze compatibel zijn met het ruimtestation. De Verenigde Staten, Rusland, de Europese Deelnemer en Japan stellen, via hun respectieve Samenwerkende Organen, diensten met betrekking tot de lancering en de terugkeer naar de aarde beschikbaar ten behoeve van het ruimtestation (met gebruikmaking van ruimtetransportsystemen als het Amerikaanse ruimteveer, de Russische Proton en Soyuz, de Europese Ariane-5 en de Japanse H-11). Aanvankelijk worden de Amerikaanse en Russische ruimtetransportsystemen gebruikt voor de lancerings- en terugkeertransporten ten behoeve van het ruimtestation en, vervolgens, worden de andere ruimtetransportsystemen gebruikt wanneer deze ter beschikking komen. De toegankelijkheid en de diensten met betrekking tot de lancering en de terugkeer naar de aarde dienen in overeenstemming te zijn met de bepalingen van de desbetreffende Memoranda van Overeenstemming en de uitvoeringsregelingen.
 
@@ -176,7 +201,7 @@ De Deelnemers, vertegenwoordigd door hun Samenwerkende Organen, hebben verantwoo
 
 4. Elke Deelnemer eerbiedigt de eigendomsrechten met betrekking tot en het vertrouwelijk karakter van als zodanig gekenmerkte gegevens en goederen die met zijn ruimtetransportsysteem worden vervoerd.
 
-#### Artikel 13. Communicatiesystemen
+##### Artikel 13. Communicatiesystemen
 
 1. De Verenigde Staten en Rusland, vertegenwoordigd door hun Samenwerkende Organen, leveren de twee primaire communicatienetwerken voor de overdracht van gegevens met betrekking tot de grond- en ruimtesatellietcommunicatiesystemen (DRSS) ten behoeve van de leiding, de besturing en de exploitatie van elementen van het ruimtestation en de nuttige ladingen, en andere communicatiedoeleinden met betrekking tot het ruimtestation. Andere Deelnemers kunnen DRSS grond- en ruimtesatellietcommunicatiesystemen leveren, indien deze compatibel zijn met het ruimtestation en met het gebruik door het ruimtestation van de twee primaire netwerken. De levering van communicatiemiddelen ten behoeve van het ruimtestation geschiedt in overeenstemming met de bepalingen van de desbetreffende Memoranda van Overeenstemming en de uitvoeringsregelingen.
 
@@ -186,7 +211,7 @@ De Deelnemers, vertegenwoordigd door hun Samenwerkende Organen, hebben verantwoo
 
 4. Ter handhaving van het vertrouwelijk karakter van de gegevens die worden doorgegeven via het informatiesysteem van het ruimtestation en andere communicatiesystemen die in combinatie met het ruimtestation worden gebruikt, kunnen maatregelen worden genomen zoals vastgelegd in de Memoranda van Overeenstemming. Wanneer een Deelnemer een andere Deelnemer communicatiediensten levert, eerbiedigt hij de eigendomsrechten met betrekking tot en het vertrouwelijk karakter van gegevens die worden doorgegeven via zijn communicatiesystemen, met inbegrip van zijn grondnetwerk en de communicatiesystemen van zijn leveranciers.
 
-#### Artikel 14. Verdere ontwikkeling
+##### Artikel 14. Verdere ontwikkeling
 
 1. De Deelnemers beogen het ruimtestation verder te ontwikkelen door de toevoeging van extra mogelijkheden en streven ernaar deze ontwikkeling in zo groot mogelijke mate te verwezenlijken door middel van bijdragen van alle Deelnemers. Daartoe stelt elke Deelnemer zich ten doel de andere Deelnemers, waar dit passend is, de gelegenheid te bieden mede te werken aan zijn voorstellen betreffende de toevoeging van extra mogelijkheden. Het ruimtestation blijft ook met de toevoegingen van extra mogelijkheden een civiel ruimtestation en het zal worden geëxploiteerd en gebruikt voor vreedzame doeleinden, in overeenstemming met het internationale recht.
 
@@ -202,7 +227,7 @@ De Deelnemers, vertegenwoordigd door hun Samenwerkende Organen, hebben verantwoo
 
 7. De toevoeging van extra mogelijkheden houdt in geen geval een wijziging in van de rechten of verplichtingen van een Deelnemende Staat uit hoofde van dit Verdrag of de Memoranda van Overeenstemming met betrekking tot de in de Bijlage genoemde elementen, tenzij de betrokken Deelnemende Staat anders overeenkomt.
 
-#### Artikel 15. Financiering
+##### Artikel 15. Financiering
 
 1. Elke Deelnemer draagt de kosten die verband houden met zijn respectieve verantwoordelijkheden uit hoofde van dit Verdrag, met inbegrip van een billijke omslag van de overeengekomen gezamenlijke kosten van de exploitatie van het systeem of de activiteiten vallend onder het algemene beheer van het ruimtestation als geheel, zoals vastgelegd in de Memoranda van Overeenstemming en de uitvoeringsregelingen.
 
@@ -214,7 +239,7 @@ De Deelnemers, vertegenwoordigd door hun Samenwerkende Organen, hebben verantwoo
 
 5. De Deelnemers trachten bij de uitvoering van de samenwerking aangaande het ruimtestation onderlinge betalingen tot een minimum te beperken, onder andere, door de verrichting van specifieke exploitatie-activiteiten zoals bepaald in de Memoranda van Overeenstemming en de uitvoeringsregelingen of, indien de betrokken Deelnemers daarmee instemmen, door middel van ruil.
 
-#### Artikel 16. Wederzijdse uitsluiting van aansprakelijkheid
+##### Artikel 16. Wederzijdse uitsluiting van aansprakelijkheid
 
 1. Dit artikel heeft ten doel de wederzijdse uitsluiting van aansprakelijkheid van Deelnemende Staten en met hen verbonden lichamen tot stand te brengen in het belang van de bevordering van de deelneming aan de exploratie, de exploitatie en het gebruik van de kosmische ruimte door middel van het ruimtestation. Om dit doel te bereiken dient deze wederzijdse uitsluiting van aansprakelijkheid ruim te worden uitgelegd.
 
@@ -282,7 +307,7 @@ De Deelnemers, vertegenwoordigd door hun Samenwerkende Organen, hebben verantwoo
 
 - f. Niets van het bepaalde in dit artikel mag zo worden uitgelegd dat daarmee de grond ontstaat voor een vordering of een geding die anders niet zou hebben bestaan.
 
-#### Artikel 17. Aansprakelijkheidsovereenkomst
+##### Artikel 17. Aansprakelijkheidsovereenkomst
 
 1. Voor zover niet anders bepaald in artikel 16, blijven de Deelnemende Staten en het ESA aansprakelijk overeenkomstig de [Aansprakelijkheidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003725).
 
@@ -290,7 +315,7 @@ De Deelnemers, vertegenwoordigd door hun Samenwerkende Organen, hebben verantwoo
 
 3. Ter zake van de levering van diensten met betrekking tot de lancering en de terugkeer naar de aarde, zoals bedoeld in artikel 12, tweede lid, van dit Verdrag, kunnen de betrokken Deelnemers (en, indien toepasselijk, het ESA) afzonderlijke overeenkomsten sluiten betreffende de verdeling van een eventuele hoofdelijke aansprakelijkheid op grond van de [Aansprakelijkheidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003725).
 
-#### Artikel 18. Douane en in- en uitreis
+##### Artikel 18. Douane en in- en uitreis
 
 1. Elke Deelnemende Staat vergemakkelijkt, rekening houdend met zijn wetten en voorschriften, de binnenkomst in en het vertrek uit zijn grondgebied van personen en goederen die nodig zijn ter uitvoering van dit Verdrag.
 
@@ -298,7 +323,7 @@ De Deelnemers, vertegenwoordigd door hun Samenwerkende Organen, hebben verantwoo
 
 3. Elke Deelnemende Staat geeft toestemming voor de belastingvrije invoer en uitvoer naar en van zijn grondgebied van goederen en programmatuur die nodig zijn ter uitvoering van dit Verdrag en draagt zorg voor de vrijstelling hiervan van andere door de douane-autoriteiten geïnde rechten en heffingen. Het in dit lid bepaalde wordt uitgevoerd ongeacht het land van oorsprong van deze noodzakelijke goederen en programmatuur.
 
-#### Artikel 19. Uitwisseling van gegevens en goederen
+##### Artikel 19. Uitwisseling van gegevens en goederen
 
 1. Voor zover niet anders bepaald in dit lid, draagt elke Deelnemer, vertegenwoordigd door zijn Samenwerkend Orgaan, alle technische gegevens en goederen over die (door beide bij de overdracht betrokken partijen) noodzakelijk worden geacht ter nakoming van de verplichtingen van het Samenwerkend Orgaan van die Deelnemer uit hoofde van de desbetreffende Memoranda van Overeenstemming en de uitvoeringsregelingen. Elke Deelnemer verbindt zich ertoe een verzoek om technische gegevens en goederen dat door het Samenwerkend Orgaan van een andere Deelnemer wordt gedaan ten behoeve van de samenwerking aangaande het ruimtestation, onverwijld te behandelen. Een Deelnemende Staat kan op grond van dit artikel niet worden verplicht tot de overdracht van technische gegevens en goederen in strijd met zijn nationale wetten of voorschriften.
 
@@ -322,11 +347,11 @@ De Deelnemers, vertegenwoordigd door hun Samenwerkende Organen, hebben verantwoo
 
 8. De Deelnemers, vertegenwoordigd door hun Samenwerkende Organen, stellen richtlijnen op voor de beveiliging van informatie.
 
-#### Artikel 20. Doorvoer van gegevens en goederen
+##### Artikel 20. Doorvoer van gegevens en goederen
 
 Het belang van de ononderbroken exploitatie en het internationaal gebruik van het ruimtestation erkennende, staat elke Deelnemende Staat, voor zover zijn van toepassing zijnde wetten en voorschriften zulks toelaten, de onverwijlde doorvoer van gegevens en goederen van de andere Deelnemers, hun Samenwerkende Organen en hun gebruikers toe. Dit artikel is slechts van toepassing op gegevens en goederen die bestemd zijn voor of afkomstig zijn van het ruimtestation, met inbegrip van, doch niet beperkt tot de doorvoer tussen de landsgrens en een lanceer- of landingsterrein op het eigen grondgebied en tussen een lanceer- of landingsterrein en het ruimtestation.
 
-#### Artikel 21. Intellectuele eigendom
+##### Artikel 21. Intellectuele eigendom
 
 1. Voor de toepassing van dit Verdrag heeft „intellectuele eigendom” dezelfde betekenis als in [artikel 2 van het Verdrag tot oprichting van de Wereldorganisatie voor de Intellectuele Eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004328&artikel=2), ondertekend te Stockholm op 14 juli 1967.
 
@@ -340,7 +365,7 @@ Het belang van de ononderbroken exploitatie en het internationaal gebruik van he
 
 6. De tijdelijke aanwezigheid op het grondgebied van een Deelnemende Staat van voorwerpen, met inbegrip van de samenstellende delen van een vluchtelement, die worden vervoerd tussen een plaats op aarde en een vluchtelement van het ruimtestation dat door een andere Deelnemende Staat of het ESA is geregistreerd, kan op zichzelf geen aanleiding zijn voor een rechtsgeding in de eerste Deelnemende Staat wegens inbreuk op een octrooi.
 
-#### Artikel 22. Rechtsmacht op strafrechtelijk gebied
+##### Artikel 22. Rechtsmacht op strafrechtelijk gebied
 
 Gezien het feit dat een dergelijke internationale samenwerking in de ruimte niet eerder is voorgekomen en uniek van aard is, gelden de volgende bepalingen:
 
@@ -358,7 +383,7 @@ Gezien het feit dat een dergelijke internationale samenwerking in de ruimte niet
 
 5. Dit artikel heeft niet ten doel een beperking te vormen voor de bevoegdheden en procedures voor de handhaving van de orde en de gedragingen van de bemanning bij werkzaamheden in of op het ruimtestation, die ingevolge artikel 11 zullen worden vastgelegd in de Gedragscode, en de Gedragscode heeft niet ten doel de toepassing van dit artikel te beperken.
 
-#### Artikel 23. Overleg
+##### Artikel 23. Overleg
 
 1. De Deelnemers, vertegenwoordigd door hun Samenwerkende Organen, kunnen onderling overleg plegen over elk vraagstuk dat voortvloeit uit de samenwerking aangaande het ruimtestation. De Deelnemers stellen alles in het werk om voor dergelijke vraagstukken een oplossing te vinden door middel van overleg tussen twee of meerdere Samenwerkende Organen in overeenstemming met de in de Memoranda van Overeenstemming vastgelegde procedures.
 
@@ -368,11 +393,11 @@ Gezien het feit dat een dergelijke internationale samenwerking in de ruimte niet
 
 4. Indien een vraagstuk dat door overleg niet is opgelost nog steeds oplossing vereist, kunnen de betrokken Deelnemers het vraagstuk onderwerpen aan een overeengekomen vorm van geschillenbeslechting, zoals conciliatie, bemiddeling of arbitrage.
 
-#### Artikel 24. Evaluatie van de samenwerking aangaande het ruimtestation
+##### Artikel 24. Evaluatie van de samenwerking aangaande het ruimtestation
 
 Met het oog op de lange duur, de veelomvattendheid en de verdere ontwikkeling van hun samenwerking uit hoofde van dit Verdrag, houden de Deelnemers elkander op de hoogte van de ontwikkelingen die van invloed kunnen zijn op deze samenwerking. Voor het eerst in 1999, en daarna om de drie jaar komen de Deelnemers bijeen om de vraagstukken die verband houden met hun samenwerking te behandelen en om de samenwerking aangaande het ruimtestation te evalueren en te bevorderen.
 
-#### Artikel 25. Inwerkingtreding
+##### Artikel 25. Inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening voor de in de preambule tot dit Verdrag genoemde Staten.
 
@@ -388,15 +413,15 @@ Met het oog op de lange duur, de veelomvattendheid en de verdere ontwikkeling va
 
 5. Indien dit Verdrag voor een Deelnemer niet binnen twee jaar na de ondertekening in werking is getreden, kunnen de Verenigde Staten een bijeenkomst beleggen van de ondertekenaars van dit Verdrag, teneinde te bestuderen welke maatregelen, waaronder wijzigingen van dit Verdrag, nodig zijn om met deze omstandigheden rekening te houden.
 
-#### Artikel 26. Werking tussen bepaalde Partijen
+##### Artikel 26. Werking tussen bepaalde Partijen
 
 Onverminderd het bepaalde in artikel 25, derde lid, letter a, treedt dit Verdrag ten aanzien van de Verenigde Staten en Rusland in werking op de dag dat zij hebben aangegeven ermee in te stemmen te worden gebonden door de nederlegging van hun akten van bekrachtiging, aanvaarding of goedkeuring. De Depositaris stelt alle ondertekenende Staten in kennis van de inwerkingtreding van dit Verdrag ten aanzien van de Verenigde Staten en Rusland ingevolge dit artikel.
 
-#### Artikel 27. Wijzigingen
+##### Artikel 27. Wijzigingen
 
 Dit Verdrag, met inbegrip van de Bijlage daarbij, kan worden gewijzigd door een schriftelijke overeenkomst van de Regeringen van de Deelnemende Staten ten aanzien waarvan dit Verdrag in werking is getreden. Wijzigingen van dit Verdrag, behalve die welke uitsluitend betrekking hebben op de Bijlage, behoeven de bekrachtiging, aanvaarding, goedkeuring of toetreding door deze Staten in overeenstemming met hun respectieve constitutionele procedures. Voor wijzigingen die uitsluitend betrekking hebben op de Bijlage volstaat een schriftelijke overeenkomst van de Regeringen van de Deelnemende Staten voor welke dit Verdrag in werking is getreden.
 
-#### Artikel 28. Opzegging
+##### Artikel 28. Opzegging
 
 1. Elke Deelnemende Staat kan dit Verdrag te allen tijde opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris, met inachtneming van een termijn van ten minste één jaar. Opzegging door een Europese Deelnemende Staat laat de rechten en verplichtingen van de Europese Deelnemer uit hoofde van dit Verdrag onverlet.
 
@@ -410,31 +435,31 @@ Dit Verdrag, met inbegrip van de Bijlage daarbij, kan worden gewijzigd door een 
 
 5. Opzegging door een Deelnemende Staat laat de rechten en verplichtingen van de betrokken Deelnemende Staat uit hoofde van de artikelen 16, 17 en 19 onverlet, voor zover niet anders is bepaald in een opzeggingsovereenkomst overeenkomstig het tweede of het derde lid hierboven.
 
-#### 1
+##### 1
 
 De Partijen bij dit Akkoord zijn alle ondertekenaar van de Overeenkomst tussen de Regering van Canada, de Regeringen van de lidstaten van het Europees Ruimte-Agentschap, de Regering van Japan, de Regering van de Russische Federatie en de Regering van de Verenigde Staten van Amerika inzake samenwerking aangaande het civiele internationale ruimtestation (hierna te noemen „de Intergouvernementele Overeenkomst") ondertekend te Washington op 29 januari 1998.
 
-#### 2
+##### 2
 
 Overeenkomstig haar bepalingen, treedt de Intergouvernementele Overeenkomst in werking op de datum waarop de laatste akte van bekrachtiging, aanvaarding of goedkeuring van Japan, Rusland en de Verenigde Staten van Amerika nedergelegd zijn. Daarna, treedt de Intergouvernementele Overeenkomst ten aanzien van een Deelnemer in werking na de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding. De Europese Deelnemer wordt geacht zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding te hebben nedergelegd wanneer de Depositaris akten van bekrachtiging, aanvaarding, goedkeuring of toetreding heeft ontvangen van tenminste vier Europese Staten die hebben ondertekend of zijn toegetreden en bovendien een formele notificatie van de Voorzitter van de Raad van het Europees Ruimte-Agentschap.
 
-#### 3
+##### 3
 
 In afwachting van de voltooiing door ieder van hen van alle handelingen die op nationaal niveau zijn vereist voor de bekrachtiging, de aanvaarding of de goedkeuring van, of de toetreding tot de Intergouvernementele Overeenkomst, wensen de Partijen bij dit Akkoord de samenwerking, zoals geregeld in de Intergouvernementele Overeenkomst, in zo ruim mogelijke mate te verwezenlijken.
 
-#### 4
+##### 4
 
 De Partijen bij dit Akkoord verbinden zich derhalve ertoe, in de ruimste mate waarin zulks verenigbaar is met hun nationale wetten en voorschriften, de bepalingen van de Intergouvernementele Overeenkomst na te leven totdat deze ten aanzien van elk van hen in werking treedt of van kracht wordt.
 
-#### 5
+##### 5
 
 Een Partij kan dit Akkoord opzeggen door middel van een schriftelijke kennisgeving aan de andere Partijen, met inachtneming van een termijn van honderdentwintig dagen.
 
-#### 6
+##### 6
 
 Dit Akkoord treedt in werking op het tijdstip van ondertekening. Daarna kan een ondertekenaar bij de Intergouvernementele Overeenkomst tot dit Akkoord toetreden door ondertekening of het nederleggen van een akte van toetreding bij de Depositaris.
 
-#### 7
+##### 7
 
 Dit Akkoord vervangt en doet het op 29 september 1988 te Washington tot stand gekomen Akkoord betreffende de toepassing van de Intergouvernementele Overeenkomst inzake het ruimtestation in afwachting van haar inwerkingtreding, beëindigen.
 

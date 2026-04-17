@@ -1,13 +1,39 @@
 ---
-title: "Regeling meldingen en communicatie scheepvaart"
+title: "Regeling van de Minister van Infrastructuur en Milieu, van 27 april 2012, nr. IENM/BSK-2012/60134, houdende vaststelling van nadere regels voor de scheepvaart en organisaties en personen die niet aan het scheepvaartverkeer deelnemen betreffende meldingen en communicatie (Regeling meldingen en communicatie scheepvaart)"
 identifier: "BWBR0031567"
-categorie: "Verkeer"
-publicatiedatum: 2026-03-27
-laatste_update: 2026-03-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031567"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-27"
+last_updated: "2026-03-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031567"
+soort: "ministeriele-regeling"
+stam_id: "11734993"
+version_id: "19387172"
+internal_id: "C27124511"
+label_id: "11707834"
+dtd_version: "2.0"
+original_entry_into_force: "2012-05-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031567/2026-03-27/0"
+intitule_bron: "Stcrt.2012-9794"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-04-27"
+intitule_published: "2012-05-16"
+intitule_in_force: "2012-05-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-9794"
+original_signed_date: "2012-04-27"
+original_published_date: "2012-05-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-9794"
+entry_into_force_date: "2012-05-19"
+jci_1_3: "jci1.3:c:BWBR0031567&z=2026-03-27&g=2026-03-27"
+jci_1_0: "1.0:c:BWBR0031567&g=2026-03-27"
+citeertitel_status: "officieel"
+short_title: "Regeling meldingen en communicatie scheepvaart"
+signed_date: "2012-04-27"
+entry_into_force: "2012-05-19"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu, van 27 april 2012, nr. IENM/BSK-2012/60134, houdende vaststelling van nadere regels voor de scheepvaart en organisaties en personen die niet aan het scheepvaartverkeer deelnemen betreffende meldingen en communicatie (Regeling meldingen en communicatie scheepvaart)
 
 Gelet op [Richtlijn nr. 2010/65](32010L0065)/EU van het Europees Parlement en de Raad van 20 oktober 2010 betreffende meldingsformaliteiten voor schepen die aankomen in en/of vertrekken uit havens van de lidstaten en tot intrekking van [Richtlijn 2002/6/EG](32002L0006) (PbEU L 283), Hoofdstuk V, Voorschrift 19-1, van het op 1 november 1974 te Londen tot stand gekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157), en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen (SOLAS-verdrag), [Richtlijn nr. 2000/59/EG](32000L0059) van het Europees Parlement en de Raad van 27 november 2000 betreffende havenontvangstvoorzieningen voor scheepsafval en ladingresiduen (PbEG L 332), [Richtlijn nr. 2002/59/EG](32002L0059) van het Europees Parlement en de Raad van 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot het intrekken van [Richtlijn 93/75/EEG](31993L0075) van de Raad (PbEG L 131), [verordening (EG) nr. 725/2004](32004R0725) van het Europees Parlement en de Raad van 31 maart 2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten (PbEU L 129), [richtlijn nr. 2005/44/EG](32005L0044) van het Europees Parlement en de Raad van 7 september 2005 betreffende geharmoniseerde River Information Services (RIS) op de binnenwateren in de Gemeenschap (PbEU L 255), [richtlijn nr. 2009/16/EG](32009L0016) van het Europees Parlement en de Raad van 23 april 2009 betreffende havenstaatcontrole (Herschikking) (PbEU L 131), en de [artikelen 4 van de Wet bestrijding ongevallen Noordzee](https://wetten.overheid.nl/jci1.3:c:BWBR0005444&artikel=4), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=29) en [30 van de Wet havenstaatcontrole](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=30), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=12) en [12a van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=12a), [1](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=4), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=12), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=16), [21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=21), en [22 van het Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=22), [9.07 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.07), [9 van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=9), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=21), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=29) en [38, van het Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=38), [5 van het Scheepvaartreglement territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=5), [2, tweede lid, onderdeel a, onder 1°, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0007749&artikel=2), [51 van het Scheepvaartreglement Westerschelde](https://wetten.overheid.nl/jci1.3:c:BWBR0005393&artikel=51), [5 van het Vaststellingsbesluit binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=5);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert:** elk vrachtschip, iedere olie-, chemicaliën- of gastanker, of een passagiersschip, waarmee een gevaarlijke stof als bedoeld in artikel 3, onderdeel g, of een schadelijke stof als bedoeld in artikel 3, onderdeel h, van de richtlijn monitoring- en informatiesysteem zeescheepvaart wordt vervoerd.
 
-#### Artikel 2. Bevoegde autoriteiten en plaatselijk bevoegde autoriteiten
+##### Artikel 2. Bevoegde autoriteiten en plaatselijk bevoegde autoriteiten
 
 1. In de bijlage behorend bij artikel 2 zijn de bevoegde autoriteiten of de plaatselijk bevoegde autoriteiten als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=3) en [4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=4) aangewezen.
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Meldingsformaliteiten zeescheepvaart
 
-#### Artikel 3. Aankomst- en vertrekmeldingen
+##### Artikel 3. Aankomst- en vertrekmeldingen
 
 1. Van een zeeschip worden ter voldoening aan de meldingsformaliteiten, bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=2), aan de bevoegde autoriteit van de locatie:
 
@@ -58,19 +84,19 @@ In deze regeling wordt verstaan onder:
 
 2. Het eerste lid, is niet van toepassing op een schip als bedoeld in artikel 2, tweede lid, in samenhang met artikel 6 bis van de richtlijn monitoring- en informatiesysteem zeescheepvaart.
 
-#### Artikel 4. Beveiligingsmelding
+##### Artikel 4. Beveiligingsmelding
 
 Van een schip als bedoeld in bijlage 1, voorschrift 2, eerste lid, van de verordening scheeps- en havenbeveiliging worden ter voldoening aan de meldingsformaliteit, bedoeld in [artikel 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=3), aan de bevoegde autoriteit van de haven waarnaar het schip onderweg is, de gegevens gemeld die worden genoemd in het aanhangsel bij de richtlijn meldingsformaliteiten.
 
-#### Artikel 5. Melding ten behoeve van havenstaatcontrole
+##### Artikel 5. Melding ten behoeve van havenstaatcontrole
 
 Vervallen
 
-#### Artikel 6. Afvalvooraanmelding
+##### Artikel 6. Afvalvooraanmelding
 
 Een schip als bedoeld in [artikel 12a, eerste lid, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=12a) dat onderweg is naar een in de bijlage behorende bij artikel 2 vermelde haven, meldt aan de bevoegde autoriteit van de haven waarnaar het onderweg is, de gegevens die worden genoemd in bijlage 2 van de richtlijn havenontvangstvoorzieningen.
 
-#### Artikel 7. Ontheffing van meldingsformaliteiten aan bevoegde autoriteiten
+##### Artikel 7. Ontheffing van meldingsformaliteiten aan bevoegde autoriteiten
 
 Een bevoegde autoriteit kan:
 
@@ -80,7 +106,7 @@ Een bevoegde autoriteit kan:
 
 - c. voor een zeeschip dat in lijndienst vaart namens de minister ontheffing verlenen van de meldingsformaliteit, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=6&z=2026-03-27&g=2026-03-27), indien en voor zolang wordt voldaan aan [artikel 9c van het Besluit havenontvangstvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0017136&artikel=9c). Als een ontheffing namens de Minister wordt verleend, handelt de bevoegde autoriteit overeenkomstig artikel 9c, derde lid, van het Besluit havenontvangstvoorzieningen.
 
-#### Artikel 8. Tijdstip melding
+##### Artikel 8. Tijdstip melding
 
 1. De meldingen, bedoeld in de [artikelen 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=3&z=2026-03-27&g=2026-03-27), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=4&z=2026-03-27&g=2026-03-27) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=6&z=2026-03-27&g=2026-03-27) geschieden:
 
@@ -102,11 +128,11 @@ Een bevoegde autoriteit kan:
 
 5. De melding bedoeld in [artikel 6b, tweede lid, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6b), geschiedt uiterlijk voor vertrek van het schip of zodra het afvalontvangstbewijs is ontvangen.
 
-#### Artikel 9. Doorgeven van wijzigingen in de gemelde gegevens
+##### Artikel 9. Doorgeven van wijzigingen in de gemelde gegevens
 
 Wijzigingen in de op grond van de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=3&z=2026-03-27&g=2026-03-27) gemelde gegevens en wijzigingen van meer dan 30 minuten in de eerder gemelde aankomst- of vertrektijd worden onmiddellijk doorgegeven.
 
-#### Artikel 10. Wijze van melding
+##### Artikel 10. Wijze van melding
 
 1. De meldingen, bedoeld in de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=3&z=2026-03-27&g=2026-03-27) worden aan de desbetreffende bevoegde autoriteit elektronisch gedaan via een elektronisch portaal waardoor door een gestandaardiseerde aanlevering van informatie van het bedrijfsleven aan de overheid en het meervoudige gebruik van die informatie door die overheid beoogd wordt de gegevensstromen tussen het bedrijfsleven en de overheid efficiënter te organiseren en de administratieve en toezichtlasten te reduceren. Via hetzelfde elektronisch portaal wordt ook de melding op grond van [artikel 6b, eerste lid, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6b) gedaan.
 
@@ -122,7 +148,7 @@ Wijzigingen in de op grond van de [artikelen 3 tot en met 6](https://wetten.over
 
 #### Paragraaf 1. Meldingen ten behoeve van beloodsing
 
-#### Artikel 11. Melding ten behoeven van beloodsing
+##### Artikel 11. Melding ten behoeven van beloodsing
 
 Bij de melding, bedoeld in [artikel 19, tweede lid, onderdeel a, van het Loodsplichtbesluit 2021](onbekend), verstrekt de kapitein van een schip de volgende gegevens:
 
@@ -134,7 +160,7 @@ Bij de melding, bedoeld in [artikel 19, tweede lid, onderdeel a, van het Loodspl
 
 - d. alle overige voor de beloodsing van het betreffende schip relevante gegevens over het schip en de reis.
 
-#### Artikel 12. Tijdstip en wijze melding ten behoeve van beloodsing
+##### Artikel 12. Tijdstip en wijze melding ten behoeve van beloodsing
 
 1. De melding, bedoeld in [artikel 19, tweede lid, onderdeel a, van het Loodsplichtbesluit 2021](onbekend), ten behoeve van een schip dat komende van zee een haven wil binnenvaren, geschiedt:
 
@@ -150,17 +176,17 @@ Bij de melding, bedoeld in [artikel 19, tweede lid, onderdeel a, van het Loodspl
 
 4. De meldingen, bedoeld in dit artikel, geschieden zo mogelijk elektronisch of op een alternatieve wijze die door of namens de betreffende Regionale loodsencorporatie wordt bekend gemaakt.
 
-#### Artikel 13. Loodsmeldingen op de Westerschelde
+##### Artikel 13. Loodsmeldingen op de Westerschelde
 
 In afwijking van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=3&paragraaf=1&artikel=11&z=2026-03-27&g=2026-03-27) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=3&paragraaf=1&artikel=12&z=2026-03-27&g=2026-03-27), geschiedt de melding, bedoeld in [artikel 19, tweede lid, onderdeel a, van het Loodsplichtbesluit 2021](onbekend), voor schepen die loodsplichtig zijn tijdens de vaart op de scheepvaartwegen die worden bedoeld in [hoofdstuk 5 van de Loodsplichtregeling 2021](onbekend) overeenkomstig artikel 13 respectievelijk 14 van het Scheldereglement en de daarop berustende bepalingen.
 
-#### Artikel 14. Doorgeven van wijzigingen in de gemelde gegevens
+##### Artikel 14. Doorgeven van wijzigingen in de gemelde gegevens
 
 Wijzigingen in de op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=3&paragraaf=1&artikel=11&z=2026-03-27&g=2026-03-27) verstrekte gegevens en wijzigingen van meer dan 30 minuten in de eerder gemelde aankomst- of vertrektijd worden onmiddellijk doorgegeven.
 
 #### Paragraaf 1. Meldingen ten behoeve van beloodsing
 
-#### Artikel 15. Melding ongevallen aan de Kustwacht Nederland
+##### Artikel 15. Melding ongevallen aan de Kustwacht Nederland
 
 1. Een melding als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=5), of [17, eerste lid, van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=17) en [artikel 12, eerste en tweede lid, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=12), wordt gedaan aan de Directeur van de Kustwacht Nederland.
 
@@ -170,11 +196,11 @@ Wijzigingen in de op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:
 
 ### Hoofdstuk 4. Internationale uitwisseling van scheepvaartgegevens
 
-#### Artikel 16. Aanwijzing NCA-SafeSeaNet en RIS-autoriteit
+##### Artikel 16. Aanwijzing NCA-SafeSeaNet en RIS-autoriteit
 
 De directeur-generaal Rijkswaterstaat wordt aangewezen als NCA-SafeSeaNet en tevens als RIS-autoriteit, bedoeld in [artikel 10, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=10).
 
-#### Artikel 17. Wijze van doorzenden naar SSN
+##### Artikel 17. Wijze van doorzenden naar SSN
 
 1. De in [artikel 6b, tweede lid, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6b) en [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=11) bedoelde gegevens worden overeenkomstig de daaraan in het IFCD gestelde eisen aan SafeSeaNet doorgegeven.
 
@@ -182,7 +208,7 @@ De directeur-generaal Rijkswaterstaat wordt aangewezen als NCA-SafeSeaNet en tev
 
 ### Hoofdstuk 5. Bepalingen in verband met de richtlijn river information services
 
-#### Artikel 18. RIS-diensten waarvoor [11.5a Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.5a) niet geldt
+##### Artikel 18. RIS-diensten waarvoor [11.5a Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.5a) niet geldt
 
 Voor de toepassing van [artikel 21, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=21), worden, in afwijking van [artikel 11.5a van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.5a) de volgende RIS-diensten aangeboden:
 
@@ -192,7 +218,7 @@ Voor de toepassing van [artikel 21, derde lid, van het besluit](https://wetten.o
 
 ### Hoofdstuk 4. Internationale uitwisseling van scheepvaartgegevens
 
-#### Artikel 19. Aanwijzingen ten behoeve van LRIT
+##### Artikel 19. Aanwijzingen ten behoeve van LRIT
 
 Voor de toepassing van [hoofdstuk 6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&hoofdstuk=6) wordt aangewezen als:
 
@@ -208,7 +234,7 @@ Voor de toepassing van [hoofdstuk 6 van het besluit](https://wetten.overheid.nl/
 
 ### Hoofdstuk 6. Bepalingen in verband met lrit
 
-#### Artikel 20. Communicatie in het kader van verkeersdeelneming
+##### Artikel 20. Communicatie in het kader van verkeersdeelneming
 
 1. Uitluisteren, communicatie door en met verkeersdeelnemers met betrekking tot nautisch- of veiligheidsverkeer en het maken van afspraken tussen verkeersdeelnemers onderling, vindt uitsluitend plaats op de door de desbetreffende bevoegde autoriteit aan de scheepvaart bekend gemaakte marifoonkanalen.
 
@@ -216,31 +242,31 @@ Voor de toepassing van [hoofdstuk 6 van het besluit](https://wetten.overheid.nl/
 
 ### Hoofdstuk 5. Bepalingen in verband met de richtlijn river information services
 
-#### Artikel 21. Wijziging [aanwijzing bevoegde autoriteiten Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0017541)
+##### Artikel 21. Wijziging [aanwijzing bevoegde autoriteiten Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0017541)
 
 Wijzigt de Beschikking aanwijzing bevoegde autoriteiten Binnenvaartpolitiereglement.
 
-#### Artikel 22. Wijziging [aanwijzing bevoegde autoriteit Scheepvaartreglement Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005954)
+##### Artikel 22. Wijziging [aanwijzing bevoegde autoriteit Scheepvaartreglement Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005954)
 
 Wijzigt de Aanwijzing bevoegde autoriteit Scheepvaartreglement Kanaal van Gent naar Terneuzen.
 
-#### Artikel 23. Wijziging [aanwijzingsbesluit territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0008644)
+##### Artikel 23. Wijziging [aanwijzingsbesluit territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0008644)
 
 Wijzigt de Regeling aanwijzing bevoegde autoriteiten Scheepvaartreglement territoriale zee.
 
-#### Artikel 24. Wijziging [Regeling havenstaatcontrole 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029373)
+##### Artikel 24. Wijziging [Regeling havenstaatcontrole 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029373)
 
 Wijzigt de Regeling havenstaatcontrole 2011.
 
-#### Artikel 25. Wijziging [Regeling communicatie rijksbinnenwateren](https://wetten.overheid.nl/jci1.3:c:BWBR0010360)
+##### Artikel 25. Wijziging [Regeling communicatie rijksbinnenwateren](https://wetten.overheid.nl/jci1.3:c:BWBR0010360)
 
 Wijzigt de Regeling communicatie rijksbinnenwateren.
 
-#### Artikel 26. Overgangsbepaling
+##### Artikel 26. Overgangsbepaling
 
 Vervallen
 
-#### Artikel 27. Intrekken regelingen
+##### Artikel 27. Intrekken regelingen
 
 De volgende regelingen worden ingetrokken:
 
@@ -254,15 +280,15 @@ De volgende regelingen worden ingetrokken:
 
 - e. het besluit van de Minister van Infrastructuur en Milieu van 11 maart 2011, nr. IENM/BSK-2011/20583, houdende aanwijzing DG RWS als nationaal bevoegde autoriteit SSN en bevoegde instantie RIS.
 
-#### Artikel 28. Omhangbepaling ten behoeve van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=4&artikel=17&z=2026-03-27&g=2026-03-27)
+##### Artikel 28. Omhangbepaling ten behoeve van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=4&artikel=17&z=2026-03-27&g=2026-03-27)
 
 Na inwerkingtreding van deze regeling berust de op grond van [artikel 3, tweede lid, van de Regeling verstrekking gegevens scheepvaart 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022579&artikel=3) of de op grond van [artikel 2, tweede lid, van de Regeling verstrekking gegevens scheepvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0017890&artikel=2), door de Minister van Infrastructuur en Waterstaat en de desbetreffende autoriteit, overeengekomen wijze van melden, op [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=4&artikel=17&z=2026-03-27&g=2026-03-27), van deze regeling.
 
-#### Artikel 29. Citeertitel
+##### Artikel 29. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling meldingen en communicatie scheepvaart.
 
-#### Artikel 30. Inwerkingtreding
+##### Artikel 30. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 19 mei 2012, met uitzondering van de [artikelen 7, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=7&z=2026-03-27&g=2026-03-27), en [10, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&hoofdstuk=2&artikel=10&z=2026-03-27&g=2026-03-27), die met ingang van 1 juni 2015 in werking treden.
 
@@ -374,7 +400,7 @@ Bevoegde autoriteiten als bedoeld in [artikel 2, eerste lid](https://wetten.over
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 15a. Melding overige incidenten aan de Kustwacht Nederland
+##### Artikel 15a. Melding overige incidenten aan de Kustwacht Nederland
 
 De melding van het verlies of de lozing van vistuig, bedoeld in voorschrift 10.6 van Bijlage V bij het op 2 november 1973 te Londen tot stand gekomen Internationaal Verdrag ter voorkoming van verontreiniging door schepen met Protocollen en Bijlagen met Aanhangsels (Trb. 1975, 147), en met het op 17 februari 1978 te Londen tot stand gekomen Protocol bij dat Verdrag met Bijlage en Aanhangsels (Trb. 1978, 188), wordt gedaan aan de Directeur van de Kustwacht Nederland.
 
@@ -442,7 +468,7 @@ Bevoegde autoriteiten als bedoeld in [artikel 2, eerste lid](https://wetten.over
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. omhangbepaling
+##### Artikel 1a. omhangbepaling
 
 Deze regeling is mede gebaseerd op de [artikelen 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=5), en [17, eerste en derde lid, van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=17), [artikel 3a van het Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=3a), [artikel 35 van het Besluit voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=35) en [artikel 65 van het Schepenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=65).
 
@@ -482,11 +508,11 @@ Plaatselijk bevoegde autoriteit als bedoeld in [artikel 2](https://wetten.overhe
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4a. Melding opvarenden voor in een Nederlandse haven aankomend passagiersschip
+##### Artikel 4a. Melding opvarenden voor in een Nederlandse haven aankomend passagiersschip
 
 Vervallen
 
-#### Artikel 4b. Melding aantal opvarenden
+##### Artikel 4b. Melding aantal opvarenden
 
 Van een zeeschip als bedoeld in artikel 3 van de richtlijn registratie opvarenden van passagiersschepen wordt ter voldoening aan de meldingsformaliteit bedoeld in [artikel 3a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=3a) het aantal opvarenden bedoeld in artikel 4, eerste lid, en artikel 6, eerste en tweede lid, van de richtlijn registratie opvarenden van passagiersschepen gemeld aan de bevoegde autoriteit als:
 
@@ -494,7 +520,7 @@ Van een zeeschip als bedoeld in artikel 3 van de richtlijn registratie opvarende
 
 - 2. het schip uit een buiten de lidstaten van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte gelegen haven vertrekt met als bestemming een in Nederland gelegen haven.
 
-#### Artikel 4c. Melding gegevens opvarenden
+##### Artikel 4c. Melding gegevens opvarenden
 
 Van een zeeschip als bedoeld in artikel 3 van de richtlijn registratie opvarenden van passagiersschepen worden ter voldoening aan de meldingsformaliteit, bedoeld in [artikel 3a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031560&artikel=3a) de gegevens bedoeld in artikel 5, eerste lid, en artikel 6, eerste en tweede lid, van die richtlijn, met uitzondering van het op eigen initiatief verstrekte contactnummer voor noodsituaties, gemeld aan de bevoegde autoriteit als:
 
@@ -526,7 +552,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 20a. Communicatie tussen de kapitein en registerloods bij loodsen op afstand
+##### Artikel 20a. Communicatie tussen de kapitein en registerloods bij loodsen op afstand
 
 1. Gedurende loodsen op afstand gebruikt de kapitein de Engelse taal, dan wel op aangeven van de loods de voorgeschreven of gebruikelijke voertaal van het betreffende gebied.
 
@@ -550,7 +576,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 9a. Werkelijke aankomst- en vertrektijd
+##### Artikel 9a. Werkelijke aankomst- en vertrektijd
 
 De in de bijlage behorende bij artikel 2 aangewezen bevoegde autoriteit of plaatselijk bevoegde autoriteit, verstrekt onverwijld aan SafeSeaNet, de werkelijke aankomsttijd in de haven en de werkelijke vertrektijd uit de haven van elk schip dat valt onder het toepassingsgebied van de richtlijn monitoring- en informatiesysteem zeescheepvaart, alsook een identificatiecode van de betreffende haven.
 

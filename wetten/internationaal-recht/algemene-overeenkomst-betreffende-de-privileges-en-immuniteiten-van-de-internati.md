@@ -1,13 +1,33 @@
 ---
-title: "Algemene Overeenkomst betreffende de privileges en immuniteiten van de Internationale Politie Organisatie - INTERPOL"
+title: "Algemene Overeenkomst betreffende de privileges en immuniteiten van de Internationale Politie Organisatie – INTERPOL"
 identifier: "BWBV0007138"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-11-24
-laatste_update: 2025-11-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007138"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-11-24"
+last_updated: "2025-11-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007138"
+soort: "verdrag"
+stam_id: "10005724153"
+version_id: "10006325452"
+internal_id: "C10010239121"
+label_id: "10005705764"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007138/2025-11-24/0"
+intitule_bron: "Trb.2026-34"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2026-04-07"
+intitule_status: "nogniet"
+original_publication: "Trb.2026-34"
+original_published_date: "2026-04-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2026-34"
+jci_1_3: "jci1.3:c:BWBV0007138&z=2025-11-24&g=2025-11-24"
+jci_1_0: "1.0:c:BWBV0007138&g=2025-11-24"
+citeertitel_status: "redactioneel"
+short_title: "Algemene Overeenkomst betreffende de privileges en immuniteiten van de Internationale Politie Organisatie - INTERPOL"
+entry_into_force: "2026-04-07"
 ---
-
 # Algemene Overeenkomst betreffende de privileges en immuniteiten van de Internationale Politie Organisatie – INTERPOL
 
 The States Parties to this General Agreement:
@@ -34,7 +54,7 @@ The States Parties to this General Agreement:
 
 **Have agreed** as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 1. For the purposes of this General Agreement:
 
@@ -78,11 +98,11 @@ The States Parties to this General Agreement:
 
 - g). Secretary General.
 
-#### Article 2. Object and purpose
+##### Article 2. Object and purpose
 
 This Agreement aims to grant the ICPO-INTERPOL privileges and immunities in order to carry out the missions outlined in its Constitution, specifically to support international police cooperation and the operations of the bodies mentioned in Article 5 of the Constitution. Each State Party shall grant to the ICPO-INTERPOL, its Officials, and other persons mentioned in [Articles 8](https://wetten.overheid.nl/jci1.3:c:BWBV0007138&artikel=8&z=2025-11-24&g=2025-11-24), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0007138&artikel=9&z=2025-11-24&g=2025-11-24), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0007138&artikel=10&z=2025-11-24&g=2025-11-24) and [11](https://wetten.overheid.nl/jci1.3:c:BWBV0007138&artikel=11&z=2025-11-24&g=2025-11-24) privileges and immunities defined in this Agreement in order to enable the unhindered, independent, and responsible discharge of their functions in the interests of the ICPO-INTERPOL.
 
-#### Article 3. Legal personality
+##### Article 3. Legal personality
 
 1. The ICPO-INTERPOL shall possess international legal personality.
 
@@ -94,7 +114,7 @@ This Agreement aims to grant the ICPO-INTERPOL privileges and immunities in orde
 
 - c). to institute legal proceedings.
 
-#### Article 4. Immunity from legal process and other actions
+##### Article 4. Immunity from legal process and other actions
 
 1. The ICPO-INTERPOL, its property, funds, and assets, wherever located and by whomsoever held, shall enjoy immunity from judicial and other forms of legal process, except:
 
@@ -106,7 +126,7 @@ This Agreement aims to grant the ICPO-INTERPOL privileges and immunities in orde
 
 2. The Premises, property, funds, and assets of the ICPO-INTERPOL shall be inviolable. The ICPO-INTERPOL’s Premises, property, funds, and assets, wherever located and by whomsoever held, shall enjoy immunity from any form of search, seizure, confiscation, requisition, expropriation, and any other form of interference, whether by execution, administrative, judicial, or legislative action.
 
-#### Article 5. Inviolability of archives and official correspondence
+##### Article 5. Inviolability of archives and official correspondence
 
 1. The Archives of the ICPO-INTERPOL shall, at any and all times, be inviolable, wherever located and by whomsoever held.
 
@@ -114,7 +134,7 @@ This Agreement aims to grant the ICPO-INTERPOL privileges and immunities in orde
 
 3. With regard to its official communications, the ICPO-INTERPOL shall benefit from treatment equal to that granted to diplomatic missions in respect of any exemptions from duties and taxes payable on communications networks.
 
-#### Article 6. Financial facilities
+##### Article 6. Financial facilities
 
 The ICPO-INTERPOL may, without being restricted by any financial controls, regulations or moratoria:
 
@@ -122,7 +142,7 @@ The ICPO-INTERPOL may, without being restricted by any financial controls, regul
 
 - b). Freely transfer its funds or currency within any country, or from one country to another, and convert any currency held by it into any other currency, according to the procedures established by the applicable national legislation.
 
-#### Article 7. Tax exemptions for official use
+##### Article 7. Tax exemptions for official use
 
 1. The ICPO-INTERPOL, its income, assets, and other property shall be exempt from all forms of direct taxation. It is understood, however, that the ICPO-INTERPOL will not claim exemption from duties, taxes or other charges of any kind which only constitute remuneration for services rendered.
 
@@ -134,7 +154,7 @@ The ICPO-INTERPOL may, without being restricted by any financial controls, regul
 
 5. The ICPO-INTERPOL will not, as a general rule, claim exemption from excise duties and from taxes, such as VAT, on the purchase of any goods or services which form part of the price to be paid. Nevertheless, when the ICPO-INTERPOL is making purchases of a substantial value for its official use, States Parties to this Agreement will, whenever possible, make appropriate administrative arrangements for the remission or return of the amount of excise duty or tax. Goods for which an excise duty or VAT return (or remission) has been granted cannot be sold, transferred, or otherwise disposed of, including free of charge, unless under conditions agreed upon with the Government of the granting State Party.
 
-#### Article 8. Travel for statutory meetings
+##### Article 8. Travel for statutory meetings
 
 1. The competent authorities of any State Party shall take all necessary measures to facilitate the entry into and exit from their territory for the purpose of attending a Statutory Meeting:
 
@@ -154,7 +174,7 @@ The ICPO-INTERPOL may, without being restricted by any financial controls, regul
 
 2. Any applications for visas or entry or exit permits required for persons referred to in paragraph (1) of this Article shall be dealt with free of charge and as quickly as possible in accordance with applicable legislation. The ICPO-INTERPOL will ensure that the persons concerned submit their visa applications sufficiently in advance.
 
-#### Article 9. Members of certain of the ICPO-INTERPOL’s bodies
+##### Article 9. Members of certain of the ICPO-INTERPOL’s bodies
 
 Members of Certain of the ICPO-INTERPOL’s bodies shall be granted within and with respect to the States Parties to this Agreement the following privileges and immunities while carrying out Official Activities and throughout their journey to or from the designated location where a meeting is held by the ICPO-INTERPOL:
 
@@ -168,7 +188,7 @@ Members of Certain of the ICPO-INTERPOL’s bodies shall be granted within and w
 
 - e). Inviolability of all papers, documents and data, whether in hard-copy or electronic format.
 
-#### Article 10. Representatives of Member Countries
+##### Article 10. Representatives of Member Countries
 
 1. Representatives of Member Countries who have been notified to the appropriate authorities of the States Parties to this Agreement shall be granted within and with respect to those States Parties the following privileges and immunities while participating in Official Activities and throughout their journey to or from the designated location where a meeting is held by the ICPO-INTERPOL:
 
@@ -184,7 +204,7 @@ Members of Certain of the ICPO-INTERPOL’s bodies shall be granted within and w
 
 2. The provisions of this article are not applicable in relation to the authorities of a State Party of which the person is a national or permanent resident, or of which he or she has been a representative.
 
-#### Article 11. Officials of the ICPO-INTERPOL
+##### Article 11. Officials of the ICPO-INTERPOL
 
 1. Officials of the ICPO-INTERPOL shall be granted the following privileges and immunities:
 
@@ -216,11 +236,11 @@ Members of Certain of the ICPO-INTERPOL’s bodies shall be granted within and w
 
 7. States Parties shall only be obliged to grant to their own nationals and permanent residents the immunities described in paragraph (1)(a) of this Article, without prejudice to their ability to extend further privileges and immunities described in paragraph (1) of this Article to their own nationals and permanent residents in accordance with their national legislation, and subject to their sole discretion.
 
-#### Article 12. Right of sojourn
+##### Article 12. Right of sojourn
 
 No person enjoying privileges and immunities under this agreement shall be required by the Government of a State Party to this Agreement to leave its territory, during the performance of official duties, unless the State Party determines that there has been an abuse of the privileges and immunities granted under this Agreement.
 
-#### Article 13. Security
+##### Article 13. Security
 
 1. At the Secretary General’s request, the competent governmental authorities of the States Parties to this Agreement shall take all measures necessary to ensure the security of the ICPO-INTERPOL, Representatives of Member Countries, Members of Certain of the ICPO-INTERPOL’s Bodies, and Officials of the ICPO-INTERPOL during Statutory Meetings, as well as during other meetings and conferences organized by the ICPO-INTERPOL on their territory.
 
@@ -228,7 +248,7 @@ No person enjoying privileges and immunities under this agreement shall be requi
 
 3. Within their respective territories, the States Parties to this Agreement shall take all reasonable measures for the protection of the Premises of the ICPO-INTERPOL from any intrusion, threat, or damage and to ensure that the tranquillity of the Premises of the ICPO-INTERPOL and the dignity of the ICPO-INTERPOL and its Officials are not jeopardized.
 
-#### Article 14. Waiver of privileges and immunities
+##### Article 14. Waiver of privileges and immunities
 
 1. Privileges and immunities are granted under this Agreement in the interests of the ICPO-INTERPOL and not for the personal benefit of the individuals themselves. The Secretary General shall have the right and duty to waive the immunity of any Official of the ICPO-INTERPOL in any case where the immunity would impede the course of justice and can be waived without prejudice to the interests of the ICPO-INTERPOL. In case of a waiver of the immunity of the Secretary General, such waiver will be effected by the General Assembly of the ICPO-INTERPOL.
 
@@ -240,7 +260,7 @@ No person enjoying privileges and immunities under this agreement shall be requi
 
 5. The ICPO-INTERPOL shall cooperate at all times with the appropriate authorities of the States Parties to this Agreement to facilitate the proper administration of justice, secure the observance of police regulations and prevent the occurrence of any abuse in connection with the privileges, immunities and facilities mentioned in this Agreement.
 
-#### Article 15. Settlement of disputes with third parties
+##### Article 15. Settlement of disputes with third parties
 
 The ICPO-INTERPOL shall take appropriate measures to ensure the satisfactory settlement of disputes:
 
@@ -250,7 +270,7 @@ The ICPO-INTERPOL shall take appropriate measures to ensure the satisfactory set
 
 - c). between the ICPO-INTERPOL and its Officials which may be submitted to the Administrative Tribunal of the International Labour Organization.
 
-#### Article 16. Settlement of disputes with States Parties
+##### Article 16. Settlement of disputes with States Parties
 
 1. Any dispute between two or more States Parties, or between the ICPO-INTERPOL and one or more States Parties, (individually, “party to the dispute”, or together, the “parties to the dispute”) arising out of the interpretation or application of the present Agreement shall be settled by negotiation, consultation or any other agreed mode of settlement.
 
@@ -260,7 +280,7 @@ The ICPO-INTERPOL shall take appropriate measures to ensure the satisfactory set
 
 4. The existence and content of the arbitral proceedings, including but not limited to all submissions, decisions, and awards, shall be kept confidential by the parties to the dispute and the arbitral tribunal, except where such information must be disclosed pursuant to a statutory or other legal obligation placed upon one or more of the parties to the dispute. In such case, the party to the dispute required to disclose the information shall consult the other party or parties to the dispute prior to disclosure.
 
-#### Article 17. Amendments
+##### Article 17. Amendments
 
 1. Any State Party may propose an amendment to this Agreement by sending a request to the Secretary General of the ICPO-INTERPOL at least 120 days before the opening of the next General Assembly session.
 
@@ -280,7 +300,7 @@ The ICPO-INTERPOL shall take appropriate measures to ensure the satisfactory set
 
 - b). Be considered a Party to the unamended Agreement in relation to any State Party not bound by the amendment.
 
-#### Article 18. Interpretation
+##### Article 18. Interpretation
 
 1. This Agreement shall not in itself operate so as to abrogate or derogate from any provisions of the Constitution, its General Regulations and appendices.
 
@@ -288,7 +308,7 @@ The ICPO-INTERPOL shall take appropriate measures to ensure the satisfactory set
 
 3. The provisions of this Agreement shall not limit or prejudice the provisions of international agreements concluded between the ICPO-INTERPOL and a State Party by reason of the location in the territory of that State Party of the ICPO-INTERPOL’s Headquarters, Regional Bureaus, or other Premises of the ICPO-INTERPOL. In case of conflict between the provisions of this Agreement and those in aforementioned agreements, the provisions of the latter shall take precedence.
 
-#### Article 19. Signature, Ratification, Acceptance, Approval, and Accession
+##### Article 19. Signature, Ratification, Acceptance, Approval, and Accession
 
 1. This Agreement shall be open for signature by the Member Countries of the ICPO-INTERPOL from the date on which it is adopted by the General Assembly until two years thereafter.
 
@@ -296,19 +316,19 @@ The ICPO-INTERPOL shall take appropriate measures to ensure the satisfactory set
 
 3. This Agreement shall remain open for accession. The instruments of accession shall be deposited with the Secretary General of the ICPO-INTERPOL.
 
-#### Article 20. Entry into force
+##### Article 20. Entry into force
 
 1. This Agreement shall enter into force thirty days after the date on which the fifth instrument of ratification, acceptance, approval, or accession is deposited.
 
 2. For each State ratifying, accepting, approving, or acceding to this Agreement after its entry into force, this Agreement shall enter into force on the thirtieth day following the deposit with the Secretary General of the ICPO-INTERPOL of its instrument of ratification, acceptance, approval, or accession.
 
-#### Article 21. Final provisions
+##### Article 21. Final provisions
 
 1. It shall be permissible for a State Party to make reservations to this Agreement, provided that such reservation is compatible with the object and purpose of this Agreement. Reservations may be made only at the time of the deposit of the instrument of ratification, acceptance, approval, or accession and shall immediately be communicated by the Secretary General to all Member Countries of the ICPO-INTERPOL.
 
 2. This Agreement shall continue in force as between the ICPO-INTERPOL and every State which has deposited an instrument of acceptance, approval, ratification, or accession, provided that if a State Party files a notification of denunciation with the Secretary General of the ICPO-INTERPOL, this Agreement shall cease to be in force with respect to such State Party six months after the receipt of such notification by the Secretary General.
 
-#### Article 22. Depositary
+##### Article 22. Depositary
 
 The Secretary General of the ICPO-INTERPOL shall be the depositary of this Agreement.
 

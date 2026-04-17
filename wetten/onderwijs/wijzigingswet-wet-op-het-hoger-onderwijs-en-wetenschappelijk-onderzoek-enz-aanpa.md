@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz., (aanpassing collegegeldbepalingen)"
+title: "Wet van 28 maart 1996, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet op de studiefinanciering, houdende aanpassing van de collegegeldbepalingen en de afschaffing van verblijfsduurbeperkingen"
 identifier: "BWBR0007971"
-categorie: "Onderwijs"
-publicatiedatum: 2005-08-03
-laatste_update: 2005-08-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007971"
+country: "nl"
+rank: "wet"
+publication_date: "2005-08-03"
+last_updated: "2005-08-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007971"
+soort: "wet"
+stam_id: "43373"
+version_id: "53212"
+internal_id: "C53211"
+label_id: "43094"
+dtd_version: "2.0"
+original_entry_into_force: "1996-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007971/2005-08-03/0"
+intitule_bron: "Stb.1996-226"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-03-28"
+intitule_published: "1996-04-23"
+intitule_in_force: "1996-04-23"
+intitule_status: "goed"
+original_publication: "Stb.1996-226"
+original_signed_date: "1996-03-28"
+original_published_date: "1996-04-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "24025"
+original_url_id: "stb-1996-226"
+entry_into_force_date: "1996-09-01"
+entry_into_force_dossier: "24025"
+jci_1_3: "jci1.3:c:BWBR0007971&z=2005-08-03&g=2005-08-03"
+jci_1_0: "1.0:c:BWBR0007971&g=2005-08-03"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz., (aanpassing collegegeldbepalingen)"
+signed_date: "1996-03-28"
+entry_into_force: "1996-09-01"
 ---
-
-# Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz., (aanpassing collegegeldbepalingen)
+# Wet van 28 maart 1996, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet op de studiefinanciering, houdende aanpassing van de collegegeldbepalingen en de afschaffing van verblijfsduurbeperkingen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,39 +48,39 @@ dat in verband daarmee wijziging van de [Wet op het hoger onderwijs en wetenscha
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de studiefinanciering.
 
-#### Artikel III
+##### Artikel III
 
 De Wet van 7 juli 1988 (**Stb**. 334) wordt ingetrokken.
 
-#### Artikel IV
+##### Artikel IV
 
 Vervallen
 
-#### Artikel V
+##### Artikel V
 
 Vervallen
 
-#### ARTIKEL VI
+##### ARTIKEL VI
 
 Vervallen
 
-#### ARTIKEL VIA
+##### ARTIKEL VIA
 
 Vervallen
 
-#### Artikel VII
+##### Artikel VII
 
 Vervallen
 
-#### ARTIKEL VIII
+##### ARTIKEL VIII
 
 Deze wet treedt in werking met ingang van 1 september 1996.
 

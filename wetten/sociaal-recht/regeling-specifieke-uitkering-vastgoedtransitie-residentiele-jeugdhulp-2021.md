@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering vastgoedtransitie residentiële jeugdhulp 2021"
+title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 4 oktober 2021, kenmerk 3259137-1007923-J, houdende regels met betrekking tot het verstrekken van een specifieke uitkering voor activiteiten ten behoeve van de vastgoedtransitie van de gesloten jeugdhulp, de ombouw van separeerruimten in de gesloten jeugdhulp en vastgoedtransitie van open driemilieusvoorzieningen (Regeling specifieke uitkering vastgoedtransitie residentiële jeugdhulp 2021)"
 identifier: "BWBR0045673"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045673"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045673"
+soort: "ministeriele-regeling"
+stam_id: "16094463"
+version_id: "28072602"
+internal_id: "C39593381"
+label_id: "16025674"
+dtd_version: "2.0"
+original_entry_into_force: "2021-10-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045673/2023-07-01/0"
+intitule_bron: "Stcrt.2021-43111"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-10-04"
+intitule_published: "2021-10-08"
+intitule_in_force: "2021-10-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-43111"
+original_signed_date: "2021-10-04"
+original_published_date: "2021-10-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-43111"
+entry_into_force_date: "2021-10-09"
+jci_1_3: "jci1.3:c:BWBR0045673&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0045673&g=2023-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering vastgoedtransitie residentiële jeugdhulp 2021"
+signed_date: "2021-10-04"
+entry_into_force: "2021-10-09"
 ---
-
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 4 oktober 2021, kenmerk 3259137-1007923-J, houdende regels met betrekking tot het verstrekken van een specifieke uitkering voor activiteiten ten behoeve van de vastgoedtransitie van de gesloten jeugdhulp, de ombouw van separeerruimten in de gesloten jeugdhulp en vastgoedtransitie van open driemilieusvoorzieningen (Regeling specifieke uitkering vastgoedtransitie residentiële jeugdhulp 2021)
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 - **accommodaties open driemilieusvoorzieningen:** accommodaties van open driemilieusvoorziening, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=3&z=2023-07-01&g=2023-07-01), die vermeld staan in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=2&z=2023-07-01&g=2023-07-01);
 
@@ -66,13 +92,13 @@ Besluit:
 
 - **zorgboerderij:** een agrarisch bedrijf waar jeugdigen en volwassenen met een zorg- of hulpvraag meewerken en een passende dagbesteding vinden, waarbij ook sprake kan zijn van arbeidstraining of een langdurig verblijf.
 
-#### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) en [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) en [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
 1. Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
 2. Op deze regeling zijn de [artikelen 4:35](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), [4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:48 tot en met 4:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) van overeenkomstige toepassing.
 
-#### Artikel 3. Open driemilieusvoorzieningen
+##### Artikel 3. Open driemilieusvoorzieningen
 
 1. In deze regeling wordt onder een open driemilieusvoorziening verstaan een jeugdhulpaanbieder, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1):
 
@@ -98,7 +124,7 @@ Besluit:
 
 - d. leefgroepen gericht op zelfstandigheidstraining of kamertraining.
 
-#### Artikel 4. Activiteiten waarvoor een uitkering kan worden verstrekt
+##### Artikel 4. Activiteiten waarvoor een uitkering kan worden verstrekt
 
 1. De minister kan op aanvraag een uitkering verstrekken aan een coördinerende gemeente voor activiteiten die:
 
@@ -122,7 +148,7 @@ Besluit:
 
 - f. vervangende nieuwbouw als gevolg van vastgoedtransitie.
 
-#### Artikel 5. Hoogte van de uitkering
+##### Artikel 5. Hoogte van de uitkering
 
 1. Een uitkering op grond van deze regeling bestaat uit de werkelijke kosten van de verschillende categorieën van activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), tot ten hoogste het volgende bedrag:
 
@@ -147,7 +173,7 @@ Besluit:
 
 3. De kosten gemoeid met de activiteiten die omvatten of ondersteunend zijn aan activiteiten, bedoeld in [artikel 4, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), bedragen ten hoogste € 15.000 voor een open driemilieusvoorziening met één accommodatie, te vermeerderen met ten hoogste € 5.000 voor elke extra accommodatie open driemilieusvoorziening die de desbetreffende instelling in exploitatie heeft.
 
-#### Artikel 6. Uitkeringsplafond
+##### Artikel 6. Uitkeringsplafond
 
 1. Het uitkeringsplafond voor activiteiten bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01) bedraagt € 33.500.000.
 
@@ -155,7 +181,7 @@ Besluit:
 
 3. Het uitkeringsplafond voor activiteiten bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01) bedraagt € 50.000.000.
 
-#### Artikel 7. Aanvraag tot verlening
+##### Artikel 7. Aanvraag tot verlening
 
 1. De aanvraag tot verlening van een uitkering voor de activiteiten, bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), kan uiterlijk worden ingediend op 15 oktober 2020.
 
@@ -173,7 +199,7 @@ Besluit:
 
 5. De aanvraag voor een uitkering voor de activiteiten, bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), gaat vergezeld van een instemmingsverklaring van het bestuur van de instelling gesloten jeugdhulp waarvoor de gemeente de coördinerende rol vervult.
 
-#### Artikel 8. Verlening en bevoorschotting
+##### Artikel 8. Verlening en bevoorschotting
 
 1. De minister beslist binnen 9 weken na de datum, bedoeld in [artikel 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=7&z=2023-07-01&g=2023-07-01).
 
@@ -181,13 +207,13 @@ Besluit:
 
 3. De minister verleent bij het besluit tot verlening een voorschot van 100% dat in één keer wordt betaald.
 
-#### Artikel 9. Verplichtingen algemeen
+##### Artikel 9. Verplichtingen algemeen
 
 1. De coördinerende gemeente informeert de minister op verzoek over de voortgang van de vastgoedtransitie gesloten jeugdhulp, de vastgoedtransitie open driemilieusvoorzieningen, of de ombouw separeerruimten of relationele beveiliging en de activiteiten die hiervoor ondernomen worden.
 
 2. De coördinerende gemeente meldt onverwijld schriftelijk aan de minister indien aannemelijk is dat het te realiseren resultaat van de uitkering, de vastgoedtransitie gesloten jeugdhulp, de vastgoedtransitie open driemilieusvoorzieningen, of de ombouw separeerruimten of relationele beveiliging, niet, niet tijdig of niet geheel wordt verricht.
 
-#### Artikel 10. Verplichtingen vastgoedtransitie gesloten jeugdhulp
+##### Artikel 10. Verplichtingen vastgoedtransitie gesloten jeugdhulp
 
 1. De coördinerende gemeente die een uitkering ontvangt voor activiteiten bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), draagt er zorg voor dat uiterlijk op 1 april 2021 een plan van aanpak vastgesteld is ten aanzien van de jeugdregio’s en de accommodaties gesloten jeugdhulp waarvoor de desbetreffende gemeente coördinerende gemeente is, zoals volgt uit [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=1&z=2023-07-01&g=2023-07-01), met in ieder geval de volgende elementen:
 
@@ -213,7 +239,7 @@ Besluit:
 
 3. De coördinerende gemeente die een uitkering ontvangt voor activiteiten bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), draagt er zorg voor dat uiterlijk op de in het plan van aanpak genoemde datum, bedoeld in het eerste lid, een bovenregionaal plan is vastgesteld.
 
-#### Artikel 11. Verplichtingen vastgoedtransitie open driemilieusvoorzieningen
+##### Artikel 11. Verplichtingen vastgoedtransitie open driemilieusvoorzieningen
 
 1. De coördinerende gemeente die een uitkering ontvangt voor activiteiten bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), draagt er zorg voor dat deze voor 1 juni 2022 beschikt over een bovenregionaal plan dat betrekking heeft op de accommodaties open driemilieusvoorzieningen waarvoor de desbetreffende gemeente coördinerende gemeente is, zoals vermeld in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=2&z=2023-07-01&g=2023-07-01).
 
@@ -223,7 +249,7 @@ Besluit:
 
 4. Op het moment dat het niet haalbaar is voor de coördinerende gemeente die een uitkering heeft ontvangen voor activiteiten bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), voor 1 december 2022 te beschikken over strategisch vastgoedplan als bedoeld in het derde lid, dient de coördinerende gemeente uitstel aan te vragen vergezeld van een nieuwe datum waarop de coördinerende gemeente beschikt over het strategisch vastgoedplan.
 
-#### Artikel 12. Verantwoording
+##### Artikel 12. Verantwoording
 
 1. De coördinerende gemeente legt verantwoording af over de besteding van de uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -231,7 +257,7 @@ Besluit:
 
 3. Daar waar sprake is van overdracht van middelen van een medeoverheid naar een andere medeoverheid is SiSa tussen medeoverheden van toepassing, conform [artikel 17a, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-#### Artikel 13. Vaststelling en terugvordering
+##### Artikel 13. Vaststelling en terugvordering
 
 1. De minister besluit uiterlijk 37 weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=12&z=2023-07-01&g=2023-07-01), over de vaststelling van de uitkering.
 
@@ -243,23 +269,23 @@ Besluit:
 
 3. Indien de verantwoordingsinformatie te laat, niet of niet volledig wordt verstrekt, stelt de minister de uitkering op een lager bedrag vast, aan de hand van de gegevens die tot het besluit tot vaststelling beschikbaar zijn gesteld.
 
-#### Artikel 14. Hardheidsclausule
+##### Artikel 14. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 15. Intrekking [specifieke uitkering vastgoedtransitie gesloten jeugdhulp 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044113)
+##### Artikel 15. Intrekking [specifieke uitkering vastgoedtransitie gesloten jeugdhulp 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044113)
 
 De [Regeling specifieke uitkering vastgoedtransitie gesloten jeugdhulp 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044113) wordt ingetrokken.
 
-#### Artikel 16. Overgangsbepaling
+##### Artikel 16. Overgangsbepaling
 
 De [Regeling specifieke uitkering vastgoedtransitie gesloten jeugdhulp 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044113) blijft voor zover niet anders is bepaald van toepassing op uitkeringen die voor inwerkingtreding van deze regeling zijn verleend op grond van de Regeling specifieke uitkering vastgoedtransitie gesloten jeugdhulp 2020.
 
-#### Artikel 17. Inwerkingtreding en vervaldatum
+##### Artikel 17. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 september 2028 met dien verstande dat deze regeling van toepassing blijft op de uitkeringen die op grond van deze regeling zijn verstrekt.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering vastgoedtransitie residentiële jeugdhulp 2021.
 

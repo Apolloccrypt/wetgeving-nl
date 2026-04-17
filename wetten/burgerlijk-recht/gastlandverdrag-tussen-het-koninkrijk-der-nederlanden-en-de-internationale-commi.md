@@ -1,13 +1,35 @@
 ---
 title: "Gastlandverdrag tussen het Koninkrijk der Nederlanden en de Internationale Commissie voor Vermiste Personen"
 identifier: "BWBV0006549"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2017-04-12
-laatste_update: 2017-04-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006549"
+country: "nl"
+rank: "verdrag"
+publication_date: "2017-04-12"
+last_updated: "2017-04-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006549"
+soort: "verdrag"
+stam_id: "10005329793"
+version_id: "10005737862"
+internal_id: "C10008999001"
+label_id: "10005312764"
+dtd_version: "2.0"
+original_entry_into_force: "2015-10-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006549/2017-04-12/0"
+intitule_bron: "Trb.2015-169"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-10-06"
+intitule_in_force: "2015-10-06"
+intitule_status: "goed"
+original_publication: "Trb.2015-169"
+original_published_date: "2015-10-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2015-169"
+entry_into_force_date: "2015-10-05"
+jci_1_3: "jci1.3:c:BWBV0006549&z=2017-04-12&g=2017-04-12"
+jci_1_0: "1.0:c:BWBV0006549&g=2017-04-12"
+citeertitel_status: "redactioneel"
+entry_into_force: "2015-10-05"
 ---
-
 # Gastlandverdrag tussen het Koninkrijk der Nederlanden en de Internationale Commissie voor Vermiste Personen
 
 The Kingdom of the Netherlands
@@ -26,7 +48,7 @@ Desiring to lay down conditions concerning the privileges, immunities, facilitie
 
 Have agreed as follows:
 
-#### Article 1. Use of terms
+##### Article 1. Use of terms
 
 For the purpose of this Agreement:
 
@@ -62,11 +84,11 @@ For the purpose of this Agreement:
 
 - p). “Competent authorities” means national, provincial, municipal and other competent authorities under the laws, regulations and customs of the host State;
 
-#### Article 2. Purpose
+##### Article 2. Purpose
 
 This Agreement shall regulate matters relating to or arising out of the establishment and the proper functioning of the ICMP in the host State. It shall, **inter alia**, create conditions conducive to the stability and independence of the ICMP and facilitate its smooth and efficient functioning.
 
-#### Article 3. Legal status and juridical personality
+##### Article 3. Legal status and juridical personality
 
 The host State recognizes ICMP as an Intergovernmental Organization with legal personality and the capacity to perform legal acts required for the performance of its functions. This shall, in particular, include the capacity:
 
@@ -80,7 +102,7 @@ The host State recognizes ICMP as an Intergovernmental Organization with legal p
 
 - e). to take other lawful action necessary to accomplish the purposes of the ICMP.
 
-#### Article 4. Inviolability of the premises
+##### Article 4. Inviolability of the premises
 
 1. The premises shall be inviolable. The competent authorities shall ensure that the ICMP is not dispossessed and/or deprived of all or any part of its premises without its express consent.
 
@@ -92,13 +114,13 @@ The host State recognizes ICMP as an Intergovernmental Organization with legal p
 
 5. The ICMP shall prevent its premises from being used as a refuge by persons who are avoiding arrest or the proper administration of justice under any law of the host State.
 
-#### Article 5. Protection of the premises and their vicinity
+##### Article 5. Protection of the premises and their vicinity
 
 1. The host State shall exercise due diligence to ensure that the security and tranquility of the premises are not impaired by any person or group(s) of persons attempting unauthorized entry into or onto the premises or creating disturbances in the immediate vicinity. As may be required for this purpose, the host State shall provide adequate police protection on the boundaries and in the vicinity of the ICMP’s premises.
 
 2. The ICMP shall provide the competent authorities with all information relevant to the security and protection of the premises.
 
-#### Article 6. Law and authority on the premises
+##### Article 6. Law and authority on the premises
 
 1. The premises shall be under the control and authority of the ICMP as provided for in this Agreement.
 
@@ -108,7 +130,7 @@ The host State recognizes ICMP as an Intergovernmental Organization with legal p
 
 4. The ICMP may expel or exclude persons from the premises for violation of its regulations.
 
-#### Article 7. Public services for the premises
+##### Article 7. Public services for the premises
 
 1. The competent authorities shall secure, upon the request of the Director-General, or an official designated by him or her, on fair and equitable conditions, the public services needed by the ICMP such as, but not limited to, postal, telephone, telegraphic services, any means of communication, electricity, water, gas, sewage, collection of waste, fire protection, local transportation and cleaning of public streets, including snow removal.
 
@@ -120,23 +142,23 @@ The host State recognizes ICMP as an Intergovernmental Organization with legal p
 
 5. Underground constructions may be undertaken by the competent authorities on the premises only after consultation with the Director-General, or an official designated by him or her, and under conditions which shall not disturb the carrying out of the functions of the ICMP.
 
-#### Article 8. Facilities and immunities in respect of communications
+##### Article 8. Facilities and immunities in respect of communications
 
 1. The host State shall permit the ICMP to communicate freely and without a need for special permission, for all official purposes and shall protect the right of the ICMP to do so.
 
 2. No censorship shall be applied to the official communications or correspondence of the ICMP, whether in physical or digital form or in any other electronic format.
 
-#### Article 9. Inviolability of archives, documents, equipment, materials and biological sample material for human identification purposes
+##### Article 9. Inviolability of archives, documents, equipment, materials and biological sample material for human identification purposes
 
 1. The archives of the ICMP, all papers and documents in whatever form, materials, including databases, data processing systems and data contained therein, and biological sample material for human identification purposes being sent from or to the ICMP, held by the ICMP or belonging to it, wherever located and by whomsoever held, shall be inviolable.
 
 2. The equipment necessary for ICMP’s activities shall be inviolable at any time.
 
-#### Article 10. Freedom of financial assets from restrictions
+##### Article 10. Freedom of financial assets from restrictions
 
 The ICMP may purchase, receive, convert and hold any kind of funds, currency, cash or securities. It may use or dispose of them freely for any purpose in accordance with its official activities and hold accounts in any currency to the extent required to meet its obligations.
 
-#### Article 11. Funds, assets, and other property
+##### Article 11. Funds, assets, and other property
 
 1. The ICMP, its funds, assets and other property, wherever located and by whomsoever held, shall enjoy immunity from every form of legal process in the host State.
 
@@ -146,7 +168,7 @@ The ICMP may purchase, receive, convert and hold any kind of funds, currency, ca
 
 4. To the extent necessary to carry out the functions of the ICMP, funds, assets and other property of the ICMP, wherever located and by whomsoever held, shall be exempt from restrictions, regulations, control or moratoria of any nature.
 
-#### Article 12. Exemption of the ICMP and its property from taxes and duties
+##### Article 12. Exemption of the ICMP and its property from taxes and duties
 
 1. Within the scope of its official activities, the ICMP, its assets, income and other property shall be exempt from all direct taxes, whether levied by national, provincial or local authorities.
 
@@ -178,11 +200,11 @@ The ICMP may purchase, receive, convert and hold any kind of funds, currency, ca
 
 5. The ICMP shall not claim exemption from taxes which are, in fact, no more than charges for public utility services provided at a fixed rate according to the amount of services rendered and which can be specifically identified, described and itemized.
 
-#### Article 13. Exemption from import and export restrictions
+##### Article 13. Exemption from import and export restrictions
 
 The ICMP shall be exempt from all restrictions on imports and exports in respect of articles imported or exported by the ICMP for its official use, including biological sample material for human identification purposes and required chemical supplies, and in respect of its publications.
 
-#### Article 14. Entry, stay and departure
+##### Article 14. Entry, stay and departure
 
 1. The host State shall facilitate, if required, the entry, stay, and departure for purposes of official business of the persons listed below and family members forming part of the household of:
 
@@ -206,13 +228,13 @@ The ICMP shall be exempt from all restrictions on imports and exports in respect
 
 4. All the aforementioned persons who are entitled to privileges and immunities shall enjoy them from the moment they enter the territory of the Kingdom of the Netherlands to take up their posts or to undertake official ICMP-related duties and shall come to an end within a reasonable period after the expiry or termination of their contracts of employment or completion of their ICMP-related duties.
 
-#### Article 15. Privileges, immunities, and facilities of members of the Conference of State Parties and other organs of ICMP
+##### Article 15. Privileges, immunities, and facilities of members of the Conference of State Parties and other organs of ICMP
 
 1. Representatives of Parties who are members of the ICMP Conference of State Parties or its Financial Committee and members of the Board of Commissioners shall enjoy, while exercising their functions within the host State, the privileges (except for the financial and fiscal privileges), immunities and facilities accorded to heads of diplomatic missions accredited to the Kingdom of the Netherlands in accordance with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
 2. Persons covered by this Article shall not be subjected by the host State to any measure which may affect the free and independent performance of their official functions.
 
-#### Article 16. Privileges, immunities, and facilities of officials
+##### Article 16. Privileges, immunities, and facilities of officials
 
 1. Officials shall enjoy within the host State the following privileges and immunities:
 
@@ -252,7 +274,7 @@ The ICMP shall be exempt from all restrictions on imports and exports in respect
 
 - d). inviolability of all papers, documents, in whatever form, and materials relating to the performance of their functions for the ICMP.
 
-#### Article 17. Experts
+##### Article 17. Experts
 
 1. Experts performing functions for the ICMP shall be accorded the following privileges, immunities and facilities to the extent necessary for the independent performance of their functions, subject to production of the document referred to in paragraph 2 of this Article:
 
@@ -294,7 +316,7 @@ The ICMP shall be exempt from all restrictions on imports and exports in respect
 
 5. Experts shall not be subjected by the host State to any measure which may affect the independent performance of their functions for the ICMP.
 
-#### Article 18. Interns
+##### Article 18. Interns
 
 1. Without prejudice to the applicable rules of the European Union in regard of citizens of a member state of the European Union, the Ministry of Foreign Affairs shall register interns for a maximum period of six (6) months, provided that the ICMP supplies the Ministry of Foreign Affairs with a declaration signed by them, accompanied by adequate proof, to the effect that:
 
@@ -318,19 +340,19 @@ The ICMP shall be exempt from all restrictions on imports and exports in respect
 
 - b). inviolability of all papers, documents in whatever form and materials relating to the performance of their functions for the ICMP.
 
-#### Article 19. Personnel recruited locally and not otherwise covered by this Agreement, including such personnel assigned to hourly rates
+##### Article 19. Personnel recruited locally and not otherwise covered by this Agreement, including such personnel assigned to hourly rates
 
 Personnel recruited locally and assigned to hourly rates by ICMP and not otherwise covered by this Agreement shall be accorded immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity for the ICMP. The terms and conditions of employment of such individuals shall be in accordance with the relevant Regulations of the ICMP.
 
-#### Article 20. Exceptions to immunities
+##### Article 20. Exceptions to immunities
 
 The immunity granted to persons mentioned in [Article 15, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=15&z=2017-04-12&g=2017-04-12); [Article 16, paragraphs 1 to 3 and paragraph 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=16&z=2017-04-12&g=2017-04-12); [Article 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=17&z=2017-04-12&g=2017-04-12); [Article 18, paragraph 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=18&z=2017-04-12&g=2017-04-12); and [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=19&z=2017-04-12&g=2017-04-12), shall not extend to any civil action by a third party for damages, including personal injury or death, arising from a traffic accident caused by any such person.
 
-#### Article 21. Protection of personnel
+##### Article 21. Protection of personnel
 
 The host State shall, if so requested by the Director-General, take all reasonable steps to ensure the necessary safety and protection of the persons mentioned in this Agreement whose security is endangered due to their services to the ICMP within the host State.
 
-#### Article 22. Notification and Identification Cards
+##### Article 22. Notification and Identification Cards
 
 1. ICMP shall promptly, and no later than eight (8) days after their first arrival, notify the host State of:
 
@@ -364,11 +386,11 @@ The host State shall, if so requested by the Director-General, take all reasonab
 
 3. At the final departure of the persons referred to in paragraph 2 of this Article or when these persons have ceased to perform their functions for the ICMP, the identity card referred to in paragraph 2 of this Article shall be promptly, and not later than within fifteen (15) days, returned by the ICMP to the Ministry of Foreign Affairs. In case persons who have ceased to perform their functions are not able to return the identity card referred to in paragraph 2 of this Article within the time period specified in this paragraph, the Ministry of Foreign Affairs shall be consulted.
 
-#### Article 23. Social security
+##### Article 23. Social security
 
 The social security system of the ICMP offers coverage comparable to the coverage under the legislation of the host State. Accordingly, the ICMP and its officials as well as family members forming part of their household to whom the aforementioned scheme applies shall be exempt from social security provisions of the host State. Consequently, they shall not be covered against the risks described in the social security provisions of the host State. This exemption applies to them, unless they take up gainful activity in the host State.
 
-#### Article 24. Employment of family members of officials of ICMP
+##### Article 24. Employment of family members of officials of ICMP
 
 1. Members of the family forming part of the household of an official of ICMP shall be authorized to engage in gainful employment in the host State for the duration of the term of office of the official concerned.
 
@@ -378,7 +400,7 @@ The social security system of the ICMP offers coverage comparable to the coverag
 
 4. The employment referred to in paragraph 1 of this Article shall be in accordance with the legislation of the host State, including fiscal and social security legislation.
 
-#### Article 25. Waiver of immunities
+##### Article 25. Waiver of immunities
 
 1. The privileges, immunities and facilities provided for in [Articles 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=15&z=2017-04-12&g=2017-04-12), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=16&z=2017-04-12&g=2017-04-12), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=17&z=2017-04-12&g=2017-04-12), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=18&z=2017-04-12&g=2017-04-12) and [19](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=19&z=2017-04-12&g=2017-04-12) of this Agreement are granted in the interests of the ICMP and not for the personal benefit of the persons themselves. The Director-General shall have the right and the duty to waive the immunity of any person mentioned in Articles 16, 17, 18 and 19 in any case where, in his or her opinion, the immunity would impede the cause of justice and can be waived without prejudice to the ICMP. The Board of Commissioners shall have the right to waive the immunity of the Director-General.
 
@@ -386,7 +408,7 @@ The social security system of the ICMP offers coverage comparable to the coverag
 
 3. Consistent with its privileges and immunities, the ICMP shall cooperate at all times with the appropriate authorities of the host State to facilitate the proper administration of justice and shall not abuse any of the privileges and immunities granted to it under this Agreement.
 
-#### Article 26. Settlement of disputes
+##### Article 26. Settlement of disputes
 
 1. The ICMP shall make provision for appropriate modes of settlement of:
 
@@ -398,19 +420,19 @@ The social security system of the ICMP offers coverage comparable to the coverag
 
 3. If the dispute is not settled in accordance with paragraph 2 of this Article within three (3) months following a written request by one of the Parties to the difference, it shall, at the request of either Party, be referred to a Tribunal of three arbitrators. Each Party shall appoint one arbitrator, and the two arbitrators so appointed shall appoint a third, who shall be the chairperson of the Tribunal. If, within thirty (30) days of the request for arbitration, a Party has not appointed an arbitrator, or if, within fifteen (15) days of the appointment of two arbitrators, the third arbitrator has not been appointed, either Party may request the President of the International Court of Justice to appoint the arbitrator referred to. The Tribunal shall determine its own procedures, provided that any two arbitrators shall constitute a quorum for all purposes, and all decisions shall require the agreement of any two arbitrators. The expenses of the Tribunal shall be borne by the Parties as assessed by the Tribunal. The arbitral award shall contain a statement of the reasons on which it is based and shall be final and binding on the Parties.
 
-#### Article 27. Interpretation of the Agreement
+##### Article 27. Interpretation of the Agreement
 
 This Agreement shall be interpreted in light of its primary purpose of enabling the ICMP through opening and maintaining its office in the host State to fully and efficiently discharge its responsibilities and fulfill its purposes.
 
-#### Article 28. Amendments
+##### Article 28. Amendments
 
 This Agreement may be amended by mutual written consent by the Parties.
 
-#### Article 29. Application
+##### Article 29. Application
 
 With respect to the Kingdom of the Netherlands, this Agreement shall apply to the part of the Kingdom in Europe only.
 
-#### Article 30. Entry into force and termination
+##### Article 30. Entry into force and termination
 
 1. This Agreement shall enter into force on the day of its signature.
 

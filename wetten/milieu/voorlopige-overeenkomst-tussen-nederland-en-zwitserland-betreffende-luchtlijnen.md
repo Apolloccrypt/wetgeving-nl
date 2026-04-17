@@ -1,13 +1,37 @@
 ---
 title: "Voorlopige Overeenkomst tussen Nederland en Zwitserland betreffende luchtlijnen"
 identifier: "BWBV0005830"
-categorie: "Milieu"
-publicatiedatum: 1962-11-01
-laatste_update: 1962-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005830"
+country: "nl"
+rank: "verdrag"
+publication_date: "1962-11-01"
+last_updated: "1962-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005830"
+soort: "verdrag"
+stam_id: "10004889353"
+version_id: "10005194922"
+internal_id: "C10007900521"
+label_id: "10004872934"
+dtd_version: "2.0"
+original_entry_into_force: "1949-03-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005830/1962-11-01/0"
+intitule_bron: "Stb.1949-J 293"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1949-06-27"
+intitule_published: "1949-07-26"
+intitule_in_force: "1954-12-30"
+intitule_status: "goed"
+original_publication: "Stb.1949-J 293"
+original_signed_date: "1949-06-27"
+original_published_date: "1949-07-26"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1949-03-07"
+jci_1_3: "jci1.3:c:BWBV0005830&z=1962-11-01&g=1962-11-01"
+jci_1_0: "1.0:c:BWBV0005830&g=1962-11-01"
+citeertitel_status: "redactioneel"
+signed_date: "1949-06-27"
+entry_into_force: "1949-03-07"
 ---
-
 # Voorlopige Overeenkomst tussen Nederland en Zwitserland betreffende luchtlijnen
 
 De Nederlandse Regering en de Zwitserse Bondsraad, overwegende dat de mogelijkheden van de commerciële luchtvaart, als middel van vervoer, aanmerkelijk zijn toegenomen;
@@ -18,19 +42,19 @@ dat het bijgevolg nodig is, tussen Nederland en Zwitserland een overeenkomst te 
 
 hebben tot dat doel vertegenwoordigers aangewezen die, behoorlijk gemachtigd zijnde, de volgende bepalingen zijn overeengekomen.
 
-#### Artikel 1
+##### Artikel 1
 
 a. De overeenkomstsluitende partijen verlenen elkaar in vredestijd de rechten omschreven in de hierbij gevoegde bijlage, met het doel de daarin omschreven internationale luchtlijnen, via of tussen haar onderscheidenlijke grondgebieden in te stellen.
 
 b. Elke overeenkomstsluitende partij zal een of meer luchttransportondernemingen aanwijzen om de overeengekomen lijnen te exploiteren en zal de openingsdatum van die lijnen bepalen.
 
-#### Artikel 2
+##### Artikel 2
 
 a. Elke overeenkomstsluitende partij zal, onder voorbehoud van artikel 8 hierna volgend, aan de onderneming of aan de ondernemingen, welke door de andere overeenkomstsluitende partij zijn aangewezen, onverwijld de benodigde exploitatievergunning verstrekken.
 
 b. Van deze ondernemingen kan evenwel verlangd worden dat zij, alvorens vergunning te ontvangen om de overeengekomen lijnen te openen, haar bekwaamheid bewijzen, overeenkomstig de wetten en voorschriften, welke gewoonlijk worden toegepast door de luchtvaartautoriteiten, die de exploitatievergunning uitreiken.
 
-#### Artikel 3
+##### Artikel 3
 
 De overeenkomstsluitende partijen komen overeen, dat
 
@@ -48,7 +72,7 @@ De overeenkomstsluitende partijen komen overeen, dat
 
 - 3°. aan de vraag naar verkeer welke bestaat in de gebieden waarover de luchtlijn voert, daarbij rekening houdende met de locale en regionale lijnen.
 
-#### Artikel 4
+##### Artikel 4
 
 De tarieven zullen door de aangewezen ondernemingen gemeenschappelijk worden vastgesteld op een redelijk peil, daarbij rekening houdende met de exploitatiekosten, een redelijke winst en de hoedanigheden van elke dienst.
 
@@ -56,7 +80,7 @@ Bij het vaststellen van die tarieven zal ook rekening gehouden dienen te worden 
 
 Bij gebreke van dergelijke aanbevelingen zullen de Nederlandse en Zwitserse ondernemingen overleg plegen met de luchtvervoersondernemingen van derde landen die dezelfde trajecten vliegen. De tarieven zullen onderworpen worden aan de goedkeuring van de bevoegde luchtvaartautoriteiten van de overeenkomstsluitende partijen. Indien de ondernemingen niet tot overeenstemming hebben kunnen komen of indien een van de luchtvaartautoriteiten die tarieven niet goedkeurt, zullen de autoriteiten een oplossing trachten te vinden, in laatste instantie zou een beroep gedaan kunnen worden op de procedure voorzien in artikel 9 van deze overeenkomst.
 
-#### Artikel 5
+##### Artikel 5
 
 a. De overeenkomstsluitende partijen komen overeen dat de rechten welke geheven worden voor het gebruik van de luchthavens en andere faciliteiten door een of meer luchtvervoersondernemingen van elk der beide landen, niet hoger zullen zijn dan die, welke betaald zouden worden voor het gebruik van genoemde luchthavens en faciliteiten door zijn nationale luchtvaartuigen, welke gebruikt worden op soortgelijke internationale lijnen.
 
@@ -66,11 +90,11 @@ c. De luchtvaartuigen, welke door een of meer door een overeenkomstsluitende par
 
 d. De in paragraaf **c**. van dit artikel genoemde voorraden, welke de hierboven omschreven vrijstelling genieten, kunnen slechts met goedkeuring van de douaneautoriteiten van de andere overeenkomstsluitende partij worden gelost. Zij zullen tot hun eventuele wederuitvoer onder toezicht van de douane van de andere overeenkomstsluitende partij blijven.
 
-#### Artikel 6
+##### Artikel 6
 
 De bewijzen van luchtwaardigheid, de bewijzen van geschiktheid en de vergunningen, uitgereikt of geldig verklaard door een overeenkomstsluitende partij, en welke nog van kracht zijn, zullen voor de exploitatie van de overeengekomen lijnen door de andere overeenkomstsluitende partij erkend worden. Elke overeenkomstsluitende partij behoudt zich evenwel het recht voor, voor vluchten boven haar eigen grondgebied bewijzen van geschiktheid en vergunningen door een andere Staat aan haar eigen onderdanen toegekend, niet te erkennen.
 
-#### Artikel 7
+##### Artikel 7
 
 a. De wetten en voorschriften, welke op het grondgebied van een overeenkomstsluitende partij het binnenkomen en het vertrek van de in de internationale luchtvaart gebruikte luchtvaartuigen of het vliegen met deze luchtvaartuigen boven genoemd gebied regelen, zullen op de luchtvaartuigen van de onderneming of ondernemingen van de andere overeenkomstsluitende partij van toepassing zijn.
 
@@ -78,11 +102,11 @@ b. De wetten en voorschriften, welke op het grondgebied van een overeenkomstslui
 
 c. De passagiers, die op doorreis het grondgebied van een overeenkomstsluitende partij passeren, zullen aan een vereenvoudigde contrôle worden onderworpen. Bagage en goederen in transitoverkeer zullen zijn vrijgesteld van douanerechten, inspectiekosten en dergelijke tarieven.
 
-#### Artikel 8
+##### Artikel 8
 
 Elke overeenkomstsluitende partij behoudt zich het recht voor aan een onderneming, aangewezen door de andere overeenkomstsluitende partij, een exploitatievergunning te weigeren of deze te herroepen wanneer zij niet het bewijs heeft dat een belangrijk deel van het eigendom en het daadwerkelijk toezicht van die onderneming berusten bij onderdanen van een der beide overeenkomstsluitende partijen dan wel ingeval de onderneming de wetten en voorschriften, genoemd in artikel 7 niet in acht neemt of niet voldoet aan de verplichtingen, welke voortvloeien uit deze overeenkomst.
 
-#### Artikel 9
+##### Artikel 9
 
 a. De overeenkomstsluitende partijen komen overeen alle geschillen betreffende de uitlegging en de toepassing van deze overeenkomst of zijn Bijlage, welke niet door middel van rechtstreekse onderhandelingen geregeld kunnen worden, aan een scheidsrechterlijke uitspraak te onderwerpen.
 
@@ -92,11 +116,11 @@ c. De overeenkomstsluitende partijen kunnen echter het geschil in onderling over
 
 d. De overeenkomstsluitende partijen verbinden zich zich aan de gedane uitspraak te houden.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze overeenkomst en alle daarop betrekking hebbende contracten zullen ingeschreven worden bij de internationale burgerlijke luchtvaart organisatie in het leven geroepen door het Verdrag inzake de internationale burgerlijke luchtvaart, dat op 7 December 1944 te Chicago werd ondertekend.
 
-#### Artikel 11
+##### Artikel 11
 
 a. Deze overeenkomst zal in werking treden op de datum van haar ondertekening.
 

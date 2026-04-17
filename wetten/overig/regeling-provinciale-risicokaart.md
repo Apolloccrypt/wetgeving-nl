@@ -1,20 +1,45 @@
 ---
 title: "Regeling provinciale risicokaart"
 identifier: "BWBR0021728"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021728"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021728"
+soort: "ministeriele-regeling"
+stam_id: "9046633"
+version_id: "16935682"
+internal_id: "C23352601"
+label_id: "9025734"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021728/2024-01-01/0"
+intitule_bron: "Stcrt.2007-75"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-04-05"
+intitule_published: "2007-04-18"
+intitule_in_force: "2007-04-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-19652"
+original_signed_date: "2009-12-15"
+original_published_date: "2009-12-18"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2009-19652"
+entry_into_force_date: "2009-12-22"
+jci_1_3: "jci1.3:c:BWBR0021728&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0021728&g=2024-01-01"
+citeertitel_status: "officieel"
+signed_date: "2009-12-15"
+entry_into_force: "2009-12-22"
 ---
-
 # Regeling provinciale risicokaart
 
 Gelet op [artikel 6a, derde lid, van de Wet rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=6a);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -22,7 +47,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **risicokaart:** de via internet toegankelijke provinciale risicokaart, bedoeld in [artikel 45 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=45).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Op de risicokaart worden met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=3&z=2024-01-01&g=2024-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=4&z=2024-01-01&g=2024-01-01) de in de provincie aanwezige plaatsgebonden en geografisch te onderscheiden risico’s vermeld met betrekking tot de volgende categorieën rampen:
 
@@ -54,33 +79,33 @@ In deze regeling wordt verstaan onder:
 
 2. Op de risicokaart worden tevens de in het eerste lid genoemde risico’s in de aangrenzende provincie vermeld binnen een afstand van ten minste15 kilometer van de provinciegrens.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Op de risicokaart worden risico’s in verband met de in [artikel 2, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=2&z=2024-01-01&g=2024-01-01), genoemde ongevallen met stoffen vermeld indien de hoeveelheid van de bedoelde stoffen de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&bijlage=I&z=2024-01-01&g=2024-01-01) genoemde drempelwaarde overschrijdt.
 
 2. Op de risicokaart worden risicolocaties in verband met de in [artikel 2, eerste lid, onderdelen d tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=2&z=2024-01-01&g=2024-01-01), genoemde categorieën rampen vermeld indien zij voldoen aan de in bijlage II vermelde voorwaarden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Op de risicokaart worden de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&bijlage=III&z=2024-01-01&g=2024-01-01) genoemde gebouwen en objecten vermeld die voldoen aan de daarbij vermelde voorwaarden.
 
 2. Op de risicokaart worden in ieder geval de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&bijlage=IV&z=2024-01-01&g=2024-01-01) genoemde onderdelen vermeld in verband met overstroming als bedoeld in [artikel 2, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=2&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 5
+##### Artikel 5
 
 De colleges van burgemeester en wethouders maken voor levering van de gegevens aan gedeputeerde staten gebruik van het systeem van elektronische invoer dat ook wordt gebruikt voor de levering van de gegevens aan het Rijksinstituut voor volksgezondheid en milieu ten behoeve van het landelijk register, bedoeld in [artikel 20.11, onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.11).
 
-#### Artikel 6
+##### Artikel 6
 
 Gedeputeerde staten vermelden de door het college van burgemeester en wethouders, het bestuur van een waterschap of de Minister van Verkeer en Waterstaat geleverde gegevens op de risicokaart, nadat het college, het bestuur respectievelijk de minister heeft bevestigd dat de geleverde gegevens op de juiste wijze zijn verwerkt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien op de risicokaart vermelde gegevens die afkomstig zijn van de gemeente niet langer juist zijn, levert het college van burgemeester en wethouders binnen vier weken na het tijdstip waarop de gegevens zijn gewijzigd, de nieuwe gegevens aan gedeputeerde staten.
 
 2. Indien in het overleg, bedoeld in [artikel 15, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=15), blijkt dat de inventarisatie van risico’s die ten grondslag ligt aan het risicoprofiel van de veiligheidsregio afwijkt van de door de colleges van burgemeester en wethouders geleverde gegevens die op de risicokaart worden weergegeven, levert het college van burgemeester en wethouders van de gemeente van wie de gegevens afkomstig zijn, gedeputeerde staten binnen vier weken aangepaste gegevens.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Gedeputeerde staten produceren de risicokaart overeenkomstig het door de Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgestelde functioneel ontwerp, waarin de uitgangspunten en de specificaties voor het informatiesysteem voor het landelijk model van de risicokaart zijn beschreven.
 
@@ -88,19 +113,19 @@ Gedeputeerde staten vermelden de door het college van burgemeester en wethouders
 
 3. Gedeputeerde staten dragen er zorg voor dat op de risicokaart niet de afstanden worden getoond, waarbinnen doden en/of gewonden kunnen vallen, in het geval zich een ongeval voordoet met de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=3&z=2024-01-01&g=2024-01-01), bedoelde stoffen.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling provinciale risicokaart.
 
@@ -229,7 +254,7 @@ Deze regeling wordt aangehaald als: Regeling provinciale risicokaart.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 11a
+##### Artikel 11a
 
 Deze regeling berust op [artikel 45, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=45) en op [artikel 20.16, derde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.16) en de [artikelen 10.9, aanhef en onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.9), [10.33 tot en met 10.33b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.33) en [10.52 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.52).
 

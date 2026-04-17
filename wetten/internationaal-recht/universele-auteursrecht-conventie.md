@@ -1,13 +1,35 @@
 ---
 title: "Universele Auteursrecht-Conventie"
 identifier: "BWBV0005162"
-categorie: "Internationaal recht"
-publicatiedatum: 1967-03-22
-laatste_update: 1967-03-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005162"
+country: "nl"
+rank: "verdrag"
+publication_date: "1967-03-22"
+last_updated: "1967-03-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005162"
+soort: "verdrag"
+stam_id: "10004491393"
+version_id: "10004706152"
+internal_id: "C10007210621"
+label_id: "10004476354"
+dtd_version: "2.0"
+original_entry_into_force: "1967-03-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005162/1967-03-22/0"
+intitule_bron: "Trb.1955-46"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1955-04-26"
+intitule_in_force: "1967-12-28"
+intitule_status: "goed"
+original_publication: "Trb.1955-46"
+original_published_date: "1955-04-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1955-46"
+entry_into_force_date: "1967-03-22"
+jci_1_3: "jci1.3:c:BWBV0005162&z=1967-03-22&g=1967-03-22"
+jci_1_0: "1.0:c:BWBV0005162&g=1967-03-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "1967-03-22"
 ---
-
 # Universele Auteursrecht-Conventie
 
 De Verdragsluitende Staten,
@@ -20,11 +42,11 @@ In de overtuiging, dat zulk een universeel stelsel van bescherming van de rechte
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I
+##### Artikel I
 
 Iedere Verdragsluitende Staat verbindt zich, alle voorzieningen te treffen, welke nodig zijn om een voldoende en doeltreffende bescherming te verzekeren van de rechten van auteurs en van alle andere houders van die rechten op werken van letterkunde, wetenschap en kunst, zoals geschriften, muziekwerken, toneelwerken, cinematografische werken, schilderwerken, gravures en beeldhouwwerken.
 
-#### Artikel II
+##### Artikel II
 
 1. Openbaar gemaakte werken van onderdanen van een Verdragsluitende Staat, alsook voor het eerst in het gebied van een zodanige Staat openbaar gemaakte werken, gemeten in elke andere Verdragsluitende Staat de bescherming, welke deze andere Staat toekent aan voor het eerst in zijn eigen gebied openbaar gemaakte werken van zijn onderdanen.
 
@@ -32,7 +54,7 @@ Iedere Verdragsluitende Staat verbindt zich, alle voorzieningen te treffen, welk
 
 3. Voor de toepassing van deze Conventie mag elke Verdragsluitende Staat door bepalingen van zijn nationale wetgeving personen, die in zijn gebied woonplaats hebben, met zijn eigen onderdanen gelijkstellen.
 
-#### Artikel III
+##### Artikel III
 
 1. Iedere Verdragsluitende Staat die, ingevolge zijn nationale wetgeving, als voorwaarde voor de bescherming van de rechten der auteurs de vervulling eist van formaliteiten als nederlegging, inschrijving, vermelding, notariële verklaringen, betaling van rechten, vervaardiging of openbaarmaking in het eigen gebied, moet deze vereisten als vervuld beschouwen voor elk in overeenstemming met de bepalingen van deze Conventie beschermd werk, dat voor het eerst is openbaar gemaakt buiten het gebied van die Staat en waarvan de auteur niet tot zijn onderdanen behoort, indien, van de eerste openbaarmaking af, alle exemplaren van het werk, openbaar gemaakt met machtiging van de auteur of van enige andere rechthebbende op het auteursrecht, het teken © dragen, vergezeld van de naam van de rechthebbende op het auteursrecht en van de aanduiding van het jaar der eerste openbaarmaking; het teken, de naam en het jaar moeten op zodanige wijze en plaats zijn aangebracht, dat het voorbehoud van het auteursrecht duidelijk blijkt.
 
@@ -44,7 +66,7 @@ Iedere Verdragsluitende Staat verbindt zich, alle voorzieningen te treffen, welk
 
 5. Indien een Verdragsluitende Staat voor meer dan één tijdvak bescherming toekent en indien het eerste tijdvak van langere duur is dan een van de minimumtijdvakken, vermeld in artikel IV van deze Conventie, is die Staat bevoegd het eerste lid van dit artikel III niet toe te passen voor wat betreft het tweede en de eventuele volgende tijdvakken van bescherming.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De duur van de bescherming van een werk wordt geregeld, overeenkomstig het bepaalde in artikel II en het onderhavige artikel, door de wet van de Verdragsluitende Staat waar de bescherming wordt gevorderd.
 
@@ -66,7 +88,7 @@ Voor de toepassing van de vorige bepaling wordt, indien de wetgeving van een Ver
 
 6. Voor de toepassing van lid 4 van dit artikel wordt, in geval van gelijktijdige openbaarmaking in twee of meer Verdragsluitende Staten, het werk geacht voor het eerst te zijn openbaar gemaakt in de Staat die de kortste bescherming toekent. Elk werk, dat in twee of meer Verdragsluitende Staten is verschenen binnen dertig dagen na zijn eerste openbaarmaking, wordt geacht gelijktijdig te zijn openbaar gemaakt in bedoelde Verdragsluitende Staten.
 
-#### Artikel V
+##### Artikel V
 
 1. Het auteursrecht omvat het uitsluitend recht, een vertaling der uit hoofde van deze Conventie beschermde werken te vervaardigen en openbaar te maken en daartoe machtiging te verlenen.
 
@@ -82,15 +104,15 @@ De titel van het oorspronkelijke werk en de naam van de auteur moeten op alle ex
 
 De licentie mag niet worden verleend, wanneer de auteur alle exemplaren van het werk uit het verkeer heeft genomen.
 
-#### Artikel VI
+##### Artikel VI
 
 Onder „openbaarmaking” in de zin van deze Conventie wordt verstaan de weergave in stoffelijke vorm en de beschikbaarstelling voor het publiek van exemplaren van het werk, waardoor men het kan lezen of het op andere wijze door aanschouwing kan waarnemen.
 
-#### Artikel VII
+##### Artikel VII
 
 Deze Conventie is niet van toepassing op werken of rechten op werken, welke bij het in werking treden van de Conventie in de Verdragsluitende Staat waar bescherming wordt gevorderd in die Staat voorgoed niet meer beschermd worden of daar nooit beschermd zijn geweest.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Deze Conventie, die gedagtekend zal zijn 6 September 1952, zal bij de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur worden neder gelegd en ter ondertekening door alle Staten opengesteld blijven gedurende een tijdvak van 120 dagen na die datum. Zij zal door de ondertekenende Staten moeten worden bekrachtigd of aanvaard.
 
@@ -98,19 +120,19 @@ Deze Conventie is niet van toepassing op werken of rechten op werken, welke bij 
 
 3. Bekrachtiging, aanvaarding of toetreding zal geschieden door nederlegging van een daartoe strekkende akte bij de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Deze Conventie zal in werking treden drie maanden na de nederlegging van twaalf akten van bekrachtiging, aanvaarding of toetreding, waaronder die van vier Staten, welke niet behoren tot het Internationaal Verbond voor de bescherming van werken van letterkunde en kunst.
 
 2. Nadien zal de Conventie voor iedere Staat in werking treden drie maanden na de nederlegging door die Staat van zijn akte van bekrachtiging, aanvaarding of toetreding.
 
-#### Artikel X
+##### Artikel X
 
 1. Iedere Staat die partij is bij deze Conventie, verplicht zich, in overeenstemming met zijn Grondwet die maatregelen te nemen, welke nodig zijn om de toepassing van deze Conventie te verzekeren.
 
 2. Echter moet iedere Staat op het tijdstip van nederlegging van zijn akte van bekrachtiging, aanvaarding of toetreding in staat zijn, uit hoofde van zijn nationale wetgeving, de bepalingen van deze Conventie toe te passen.
 
-#### Artikel XI
+##### Artikel XI
 
 1. Er wordt een Intergouvernementele Commissie in het leven geroepen, welke de volgende taken heeft:
 
@@ -126,25 +148,25 @@ Deze Conventie is niet van toepassing op werken of rechten op werken, welke bij 
 
 De Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, de Directeur van het Bureau van het Internationaal Verbond voor de bescherming van werken van letterkunde en kunst en de Secretaris-Generaal van de Organisatie van Amerikaanse Staten, of hun vertegenwoordigers, kunnen de vergaderingen van de Commissie bijwonen met adviserende stem.
 
-#### Artikel XII
+##### Artikel XII
 
 De Intergouvernementele Commissie zal conferenties tot herziening van deze Conventie bijeenroepen telkens wanneer zij dit nodig acht, of wanneer bijeenroeping verzocht wordt door ten minste tien Verdragsluitende Staten dan wel, zolang het aantal der Verdragsluitende Staten kleiner dan twintig blijft, door de meerderheid.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Iedere Verdragsluitende Staat kan, op het ogenblik der nederlegging van de akte van bekrachtiging, aanvaarding of toetreding, of nadien, door middel van een kennisgeving, gericht aan de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, verklaren, dat deze Conventie toepasselijk is op alle of enkele van de landen of gebieden, voor welker buitenlandse betrekkingen hij verantwoordelijk is; deze Conventie zal dan op de in de kennisgeving vermelde landen of gebieden toepasselijk zijn na het verstrijken van het tijdvak van drie maanden, bedoeld in artikel IX. Bij gebreke van zulk een kennisgeving zal deze Conventie op die landen of gebieden niet toepasselijk zijn.
 
-#### Artikel XIV
+##### Artikel XIV
 
 1. Iedere Verdragsluitende Staat is bevoegd deze Conventie op te zeggen voor zichzelf of voor alle of enkele van de landen of gebieden met betrekking tot welke een kennisgeving als bedoeld in artikel XIII is gedaan. De opzegging moet geschieden door een kennisgeving, gericht aan de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 
 2. Deze opzegging geldt slechts ten aanzien van de Staat, het land of het gebied, waarvoor zij is geschied en treedt eerst twaalf maanden na de dag van ontvangst der kennisgeving in werking.
 
-#### Artikel XV
+##### Artikel XV
 
 Elk geschil tussen twee of meer Verdragsluitende Staten betreffende de uitlegging of de toepassing van deze Conventie, dat niet door onderhandeling is bijgelegd, zal ter beslissing worden voorgelegd aan het Internationaal Gerechtshof, tenzij de betrokken Staten een andere wijze van beslechting overeenkomen.
 
-#### Artikel XVI
+##### Artikel XVI
 
 1. Deze Conventie wordt opgesteld in het Frans, het Engels en het Spaans. De drie teksten zullen ondertekend worden en gelijkelijk authentiek zijn.
 
@@ -154,25 +176,25 @@ Iedere Verdragsluitende Staat of groep van Verdragsluitende Staten zal door de D
 
 Deze teksten zullen alle bij de ondertekende tekst van de Conventie worden gevoegd.
 
-#### Artikel XVII
+##### Artikel XVII
 
 1. Deze Conventie laat de bepalingen van de Berner Conventie voor de bescherming van werken van letterkunde en kunst en het lidmaatschap van het door laatstgenoemde Conventie gevormde Verbond in elk opzicht onverlet.
 
 2. Met het oog op de toepassing van het vorige lid is bij dit artikel een Verklaring gevoegd. Deze Verklaring vormt een integrerend deel van deze Conventie voor de Staten welke op 1 Januari 1951 door de Berner Conventie gebonden waren, of die op een later tijdstip daardoor gebonden zijn of zullen zijn. De ondertekening van de onderhavige Conventie door bovengenoemde Staten geldt tevens als ondertekening van de Verklaring; iedere bekrachtiging of aanvaarding van, of toetreding tot de Conventie door die Staten omvat tevens bekrachtiging of aanvaarding van, of toetreding tot de Verklaring.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Deze Conventie doet geen afbreuk aan de multilaterale of bilaterale auteursrechtconventies of -overeenkomsten, welke uitsluitend tussen twee of meer Amerikaanse Republieken van kracht zijn of van kracht kunnen worden. In geval van verschil, hetzij tussen de bepalingen van een van deze bestaande conventies of overeenkomsten enerzijds en de bepalingen van deze Conventie anderzijds, hetzij tussen de bepalingen van deze Conventie en die van enige nieuwe conventie of overeenkomst, tussen twee of meer Amerikaanse Republieken na de inwerkingtreding van deze Conventie gesloten, heeft tussen de partijen de jongste conventie of overeenkomst voorrang. Rechten, welke ten aanzien van een werk krachtens bestaande conventies of overeenkomsten in een van de Verdragsluitende Staten zijn verkregen vóór de dag waarop deze Conventie voor die Staat in werking is getreden, blijven onverlet.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Deze Conventie doet geen afbreuk aan de multilaterale of bilaterale auteursrechtconventies of -overeenkomsten, welke tussen twee of meer Verdragsluitende Staten van kracht zijn. In geval van verschil tussen de bepalingen van een dezer conventies of overeenkomsten en de bepalingen van deze Conventie hebben de bepalingen van deze Conventie voorrang. Rechten, welke ten aanzien van een werk in een Verdragsluitende Staat krachtens bestaande conventies of overeenkomsten zijn verkregen vóór de dag waarop deze Conventie voor die Staat in werking is getreden, blijven onverlet. Dit artikel laat het in de artikelen XVII en XVIII van deze Conventie bepaalde onverlet.
 
-#### Artikel XX
+##### Artikel XX
 
 Ten aanzien van deze Conventie wordt geen enkel voorbehoud toegelaten.
 
-#### Artikel XXI
+##### Artikel XXI
 
 De Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur zal behoorlijk gewaarmerkte afschriften van deze Conventie zenden aan de betrokken Staten en aan de Zwitserse Bondsraad, alsmede aan de Secretaris-Generaal van de Verenigde Naties ter registratie door laatstgenoemde.
 

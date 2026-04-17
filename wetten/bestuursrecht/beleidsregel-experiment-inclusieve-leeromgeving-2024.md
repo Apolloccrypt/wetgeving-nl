@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel experiment inclusieve leeromgeving 2024"
+title: "Beleidsregel van de Minister voor Primair en Voortgezet Onderwijs van 12 juni 2024 nr. KO/ 44700691, houdende regels voor een experiment gericht op de inclusie van leerlingen middels integratie van het gespecialiseerd onderwijs in het regulier onderwijs (Beleidsregel experiment inclusieve leeromgeving 2024)"
 identifier: "BWBR0049848"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-06-22
-laatste_update: 2024-06-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049848"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-06-22"
+last_updated: "2024-06-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049848"
+soort: "beleidsregel"
+stam_id: "17140283"
+version_id: "30166142"
+internal_id: "C43223361"
+label_id: "17048664"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049848/2024-06-22/0"
+intitule_bron: "Stcrt.2024-19951"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-12"
+intitule_published: "2024-06-21"
+intitule_in_force: "2024-06-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-19951"
+original_signed_date: "2024-06-12"
+original_published_date: "2024-06-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-19951"
+entry_into_force_date: "2024-06-22"
+jci_1_3: "jci1.3:c:BWBR0049848&z=2024-06-22&g=2024-06-22"
+jci_1_0: "1.0:c:BWBR0049848&g=2024-06-22"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel experiment inclusieve leeromgeving 2024"
+signed_date: "2024-06-12"
+entry_into_force: "2024-06-22"
 ---
-
 # Beleidsregel van de Minister voor Primair en Voortgezet Onderwijs van 12 juni 2024 nr. KO/ 44700691, houdende regels voor een experiment gericht op de inclusie van leerlingen middels integratie van het gespecialiseerd onderwijs in het regulier onderwijs (Beleidsregel experiment inclusieve leeromgeving 2024)
 
 Gelet op [artikel 2 van de Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -52,7 +78,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Doel experiment
+##### Artikel 2. Doel experiment
 
 Het experiment is gericht op de sociale en onderwijskundige inclusie van leerlingen vanuit het gespecialiseerd onderwijs in het regulier onderwijs middels het zo veel mogelijk integreren van het speciaal onderwijs of speciaal basisonderwijs in het regulier basisonderwijs, van het speciaal onderwijs in het speciaal basisonderwijs en van het voortgezet speciaal onderwijs in het voortgezet onderwijs. Het doel van het experiment is te onderzoeken:
 
@@ -66,7 +92,7 @@ Het experiment is gericht op de sociale en onderwijskundige inclusie van leerlin
 
 - e. welke knelpunten worden ervaren.
 
-#### Artikel 3. Afwijkingen van de wet door bevoegd gezag
+##### Artikel 3. Afwijkingen van de wet door bevoegd gezag
 
 1. In afwijking van [artikel 24 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=24) kan het volledige schoolplan van een school of instelling voor speciaal onderwijs of voortgezet speciaal onderwijs worden uitgevoerd door een basisschool, een speciale school voor basisonderwijs of een school voor voortgezet onderwijs.
 
@@ -74,7 +100,7 @@ Het experiment is gericht op de sociale en onderwijskundige inclusie van leerlin
 
 3. [Artikel 12 van het Onderwijskundig besluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&artikel=12) en [artikel 4.1 van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=4.1) zijn niet van toepassing op scholen die deelnemen aan dit experiment.
 
-#### Artikel 4. Voorwaarden deelname aan experiment
+##### Artikel 4. Voorwaarden deelname aan experiment
 
 Het bevoegd gezag kan deelnemen aan het experiment, indien sprake is van een samenwerking tussen:
 
@@ -86,7 +112,7 @@ Het bevoegd gezag kan deelnemen aan het experiment, indien sprake is van een sam
 
 - d. het bevoegd gezag van een basisschool of school voor voortgezet onderwijs en het bevoegd gezag van een school of instelling voor speciaal en voortgezet speciaal onderwijs.
 
-#### Artikel 5. Aanvraag voor deelname aan experiment
+##### Artikel 5. Aanvraag voor deelname aan experiment
 
 1. De penvoerder dient een aanvraag voor deelname aan het experiment met ingang van 1 augustus van het volgende schooljaar in bij de minister op uiterlijk 1 mei van het daaraan voorafgaande schooljaar.
 
@@ -122,7 +148,7 @@ Het bevoegd gezag kan deelnemen aan het experiment, indien sprake is van een sam
 
 - 12°. hoe de beschreven activiteiten worden uitgevoerd.
 
-#### Artikel 6. Selectie en beslistermijn
+##### Artikel 6. Selectie en beslistermijn
 
 1. De minister besluit binnen acht weken na afloop van de uiterste aanvraagdatum, bedoeld in [artikel 5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049848&artikel=5&z=2024-06-22&g=2024-06-22), op aanvragen tot deelname aan het experiment.
 
@@ -132,13 +158,13 @@ Het bevoegd gezag kan deelnemen aan het experiment, indien sprake is van een sam
 
 4. De minister wijst een aanvraag die is ingediend na 1 mei 2030 af.
 
-#### Artikel 7. Looptijd van het experiment
+##### Artikel 7. Looptijd van het experiment
 
 1. Het experiment vangt aan met ingang van 1 januari 2025 en eindigt met ingang van 1 augustus 2034.
 
 2. De minister verleent toestemming tot deelname aan het experiment voor de gehele duur van het experiment.
 
-#### Artikel 8. Beëindiging deelname aan het experiment
+##### Artikel 8. Beëindiging deelname aan het experiment
 
 De minister kan de toestemming tot deelname aan het experiment intrekken:
 
@@ -148,7 +174,7 @@ De minister kan de toestemming tot deelname aan het experiment intrekken:
 
 - c. indien de voortzetting van het experiment op de scholen van de samenwerkende bevoegde gezagsorganen naar het oordeel van de minister niet in het belang van de leerlingen zou zijn.
 
-#### Artikel 9. Onderzoek en evaluatie
+##### Artikel 9. Onderzoek en evaluatie
 
 1. De minister evalueert deze beleidsregel voor 1 januari 2034.
 
@@ -156,14 +182,14 @@ De minister kan de toestemming tot deelname aan het experiment intrekken:
 
 3. De samenwerkende bevoegde gezagsorganen werken mee aan het verschaffen van inlichtingen ten behoeve van namens de minister ingestelde onderzoeken in het kader van de evaluatie en ontwikkeling van beleid.
 
-#### Artikel 10. Intrekking beleidsregel en overgangsrecht
+##### Artikel 10. Intrekking beleidsregel en overgangsrecht
 
 De [Beleidsregel experimenten samenwerking regulier en speciaal onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043773) wordt ingetrokken, met dien verstande dat de rechten en verplichtingen die op grond van die beleidsregel, zoals die luidde onmiddellijk voorafgaand aan het tijdstip waarop deze beleidsregel in werking treedt, tot stand zijn gekomen in stand blijven.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel experiment inclusieve leeromgeving 2024.

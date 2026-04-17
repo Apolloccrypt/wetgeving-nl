@@ -1,36 +1,62 @@
 ---
-title: "Besluit vaststelling beleidskader subsidiëring sportevenementen 2019–2020"
+title: "Besluit van de Minister voor Medische Zorg van 26 november 2018, kenmerk 1449924-184386-S, houdende vaststelling van beleidsregels voor het subsidiëren van sportevenementen 2019–2020 (Besluit vaststelling beleidskader sportevenementen 2019–2020)"
 identifier: "BWBR0041625"
-categorie: "Overig"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041625"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041625"
+soort: "ministeriele-regeling"
+stam_id: "14891333"
+version_id: "25470192"
+internal_id: "C36346181"
+label_id: "14842624"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041625/2019-01-01/0"
+intitule_bron: "Stcrt.2018-67961"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-11-26"
+intitule_published: "2018-12-04"
+intitule_in_force: "2018-12-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-67961"
+original_signed_date: "2018-11-26"
+original_published_date: "2018-12-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-67961"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041625&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0041625&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling beleidskader subsidiëring sportevenementen 2019–2020"
+signed_date: "2018-11-26"
+entry_into_force: "2019-01-01"
 ---
-
 # Besluit van de Minister voor Medische Zorg van 26 november 2018, kenmerk 1449924-184386-S, houdende vaststelling van beleidsregels voor het subsidiëren van sportevenementen 2019–2020 (Besluit vaststelling beleidskader sportevenementen 2019–2020)
 
 Gelet op [artikel 1.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De beleidsregels voor het subsidiëren van sportevenementen voor 2019–2020 worden vastgesteld overeenkomstig de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 januari 2019 en vervalt met ingang van 1 januari 2021.
 
-#### Artikel 3
+##### Artikel 3
 
 Het beleidskader sportevenementen vastgesteld op 19 november 2013 en laatstelijk gewijzigd op 18 maart 2015, wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Kaderregeling subsidies OCW, SZW en VWS.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit vaststelling beleidskader subsidiëring sportevenementen 2019–2020.
 

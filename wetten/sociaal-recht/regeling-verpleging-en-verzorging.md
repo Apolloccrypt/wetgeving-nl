@@ -1,18 +1,43 @@
 ---
 title: "Regeling verpleging en verzorging"
 identifier: "BWBR0051200"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051200"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051200"
+soort: "zbo"
+stam_id: "17464683"
+version_id: "30801772"
+internal_id: "C44146641"
+label_id: "17366984"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051200/2026-01-01/0"
+intitule_bron: "Stcrt.2025-23033"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-17"
+intitule_published: "2025-07-08"
+intitule_in_force: "2025-07-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-23033"
+original_signed_date: "2025-06-17"
+original_published_date: "2025-07-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-23033"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051200&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051200&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-06-17"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling verpleging en verzorging
 
 Gelet op [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38),[58](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58) en [62, eerste lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van verpleging en verzorging.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
@@ -42,15 +67,15 @@ In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
 - **zorgaanbieder:** de natuurlijke persoon of rechtspersoon als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Deze regeling beoogt voorschriften te stellen voor verpleging en verzorging over de administratie en declaratie van geleverde zorg.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op zorgaanbieders die verpleging en verzorging leveren als omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051200&artikel=1&z=2026-01-01&g=2026-01-01) van deze regeling en de prestatiebeschrijvingen genoemd in de Beleidsregel verpleging en verzorging en de Beleidsregel experiment integrale prestaties verpleging en verzorging declareren.
 
-#### Artikel 4. Administratieverplichtingen
+##### Artikel 4. Administratieverplichtingen
 
 1. De registratie van de prestaties en tarieven in de administratie van de zorgaanbieder is volledig, juist en actueel. Aan zorgaanbieders die registreren en declareren volgens het principe van 'zorgplan = planning = realisatie, tenzij' kan voor deze verplichting worden aangesloten bij de (gecorrigeerde) planning. Tijdregistratie per cliënt tijdens de zorgverlening is in dat geval niet noodzakelijk.
 
@@ -70,7 +95,7 @@ De NZa en de zorgverzekeraar moeten te allen tijde de mogelijkheid hebben om de 
 
 Aan zorgaanbieders die registreren en declareren volgens het principe van ‘zorgplan = planning = realisatie, tenzij’ wordt geen verantwoording gevraagd in het zorgplan, de voortgangsrapportage of op welke wijze dan ook, met feitelijk geleverde minuteninzet, buiten de (gecorrigeerde) planning, zie artikel 4.1.
 
-#### Artikel 5. Declaratiebepalingen
+##### Artikel 5. Declaratiebepalingen
 
 1. De prestaties verpleging en verzorging als bedoeld in de Beleidsregel verpleging en verzorging en de prestaties in de Beleidsregel experiment integrale prestaties verpleging en verzorging worden niet eerder in rekening gebracht dan nadat de zorg geleverd is.
 
@@ -114,11 +139,11 @@ Dit betekent bijvoorbeeld dat voor dertien minuten geleverde zorg vijftien minut
 
 Voor zover de prestatie advies, instructie en voorlichting (AIV) niet individueel aan een cliënt wordt geleverd, maar aan een groep, wordt de werkelijke behandeltijd naar evenredigheid toegerekend aan de cliënten die deel uitmaken van de groep.
 
-#### Artikel 6. Intrekking oude regeling
+##### Artikel 6. Intrekking oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling verpleging en verzorging](https://wetten.overheid.nl/jci1.3:c:BWBR0050090), met kenmerk NR/REG-2510, ingetrokken.
 
-#### Artikel 7. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 7. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
 
 De [Regeling verpleging en verzorging](https://wetten.overheid.nl/jci1.3:c:BWBR0050090), met kenmerk NR/REG-2510, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 

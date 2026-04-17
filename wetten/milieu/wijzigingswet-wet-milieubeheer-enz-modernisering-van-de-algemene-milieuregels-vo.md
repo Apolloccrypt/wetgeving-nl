@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Wet milieubeheer, enz. (modernisering van de algemene milieuregels voor inrichtingen)"
+title: "Wet van 22 november 2006, houdende wijziging van de Wet milieubeheer en enige andere daarmee verband houdende wetten (modernisering van de algemene milieuregels voor inrichtingen)"
 identifier: "BWBR0020563"
-categorie: "Milieu"
-publicatiedatum: 2008-01-01
-laatste_update: 2008-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020563"
+country: "nl"
+rank: "wet"
+publication_date: "2008-01-01"
+last_updated: "2008-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020563"
+soort: "wet"
+stam_id: "8749843"
+version_id: "13812872"
+internal_id: "C20313301"
+label_id: "8729774"
+dtd_version: "2.0"
+original_entry_into_force: "2008-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020563/2008-01-01/0"
+intitule_bron: "Stb.2006-606"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-11-22"
+intitule_published: "2006-12-05"
+intitule_in_force: "2007-12-04"
+intitule_status: "goed"
+original_publication: "Stb.2006-606"
+original_signed_date: "2006-11-22"
+original_published_date: "2006-12-05"
+original_effect: "nieuwe-regeling"
+original_dossier: "30483"
+original_url_id: "stb-2006-606"
+entry_into_force_date: "2008-01-01"
+jci_1_3: "jci1.3:c:BWBR0020563&z=2008-01-01&g=2008-01-01"
+jci_1_0: "1.0:c:BWBR0020563&g=2008-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Wet milieubeheer, enz. (modernisering van de algemene milieuregels voor inrichtingen)"
+signed_date: "2006-11-22"
+entry_into_force: "2008-01-01"
 ---
-
-# Wijzigingswet Wet milieubeheer, enz. (modernisering van de algemene milieuregels voor inrichtingen)
+# Wet van 22 november 2006, houdende wijziging van de Wet milieubeheer en enige andere daarmee verband houdende wetten (modernisering van de algemene milieuregels voor inrichtingen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,35 +43,35 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is enige bepalingen van
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet milieubeheer.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Kernenergiewet.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Mijnbouwwet.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet ammoniak en veehouderij.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel VI
+##### Artikel VI
 
 Vervallen
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet verontreiniging oppervlaktewateren.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Na de inwerkingtreding van deze wet berusten de volgende algemene maatregelen van bestuur en regelingen, voor zover zij vóór de inwerkingtreding van deze wet berustten op [artikel 8.44 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.44), op de [artikelen 8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.40), [8.41](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.41), [8.42](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.42), en [8.42a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.42a):
 
@@ -96,31 +123,31 @@ Na de inwerkingtreding van deze wet berusten de volgende algemene maatregelen va
 
 - –. [Besluit ammoniakemissie huisvesting veehouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0019211)
 
-#### Artikel VIIIa
+##### Artikel VIIIa
 
 Wijzigt deze wet.
 
-#### Artikel VIIIb
+##### Artikel VIIIb
 
 Wijzigt deze wet.
 
-#### Artikel VIIIc
+##### Artikel VIIIc
 
 Wijzigt deze wet.
 
-#### Artikel VIIId
+##### Artikel VIIId
 
 Wijzigt de Wet milieubeheer.
 
-#### Artikel VIIIe
+##### Artikel VIIIe
 
 Wijzigt deze wet.
 
-#### Artikel VIIIf
+##### Artikel VIIIf
 
 Wijzigt deze wet.
 
-#### Artikel IX
+##### Artikel IX
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

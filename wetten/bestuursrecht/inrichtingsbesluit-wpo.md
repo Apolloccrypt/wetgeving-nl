@@ -1,13 +1,40 @@
 ---
-title: "Inrichtingsbesluit WPO"
+title: "Besluit van 18 februari 2022, houdende onder meer nadere regels over de inrichting van het onderwijs aan scholen in het primair onderwijs (Inrichtingsbesluit WPO)"
 identifier: "BWBR0046350"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-10-11
-laatste_update: 2023-10-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046350"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-10-11"
+last_updated: "2023-10-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046350"
+soort: "AMvB"
+stam_id: "16276463"
+version_id: "29665722"
+internal_id: "C42455281"
+label_id: "16202634"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046350/2023-10-11/0"
+intitule_bron: "Stb.2022-93"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-02-18"
+intitule_published: "2022-02-28"
+intitule_in_force: "2022-02-28"
+intitule_status: "goed"
+original_publication: "Stb.2023-331"
+original_signed_date: "2023-10-06"
+original_published_date: "2023-10-10"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2023-331"
+entry_into_force_date: "2023-10-11"
+entry_into_force_dossier: "36373"
+jci_1_3: "jci1.3:c:BWBR0046350&z=2023-10-11&g=2023-10-11"
+jci_1_0: "1.0:c:BWBR0046350&g=2023-10-11"
+citeertitel_status: "officieel"
+short_title: "Inrichtingsbesluit WPO"
+signed_date: "2023-10-06"
+entry_into_force: "2023-10-11"
 ---
-
 # Besluit van 18 februari 2022, houdende onder meer nadere regels over de inrichting van het onderwijs aan scholen in het primair onderwijs (Inrichtingsbesluit WPO)
 
 Op de voordracht van Onze Minister voor Basis- en Voortgezet Onderwijs en Media, van 2 december 2021, nr. WJZ/30567133 (12549) directie Wetgeving en Juridische Zaken;
@@ -22,7 +49,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -66,11 +93,11 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Leerresultaten en monitor veiligheid
 
-#### Artikel 2.1. Uitgangspunten bij meting leerresultaten
+##### Artikel 2.1. Uitgangspunten bij meting leerresultaten
 
 Bij de beoordeling van de leerresultaten, bedoeld in [artikel 10a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a), hanteert de inspectie objectieve, relatieve normen. De grenzen die de inspectie als norm voor het oordeel voldoende dan wel onvoldoende resultaat hanteert, zijn gecorrigeerd voor schoolkenmerken en individuele kenmerken van leerlingen.
 
-#### Artikel 2.2. Ministeriële regeling leerresultaten
+##### Artikel 2.2. Ministeriële regeling leerresultaten
 
 Bij ministeriële regeling worden geregeld:
 
@@ -82,7 +109,7 @@ Bij ministeriële regeling worden geregeld:
 
 - d. de normering waarop de inspectie het oordeel voldoende dan wel onvoldoende leerresultaat baseert.
 
-#### Artikel 2.3. Procedure wijziging systematiek beoordeling leerresultaten
+##### Artikel 2.3. Procedure wijziging systematiek beoordeling leerresultaten
 
 1. De systematiek van de beoordeling van leerresultaten als bedoeld in [artikel 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a), wordt vastgesteld dan wel gewijzigd met inachtneming van de volgende procedure:
 
@@ -96,7 +123,7 @@ Bij ministeriële regeling worden geregeld:
 
 2. Wijzigingen in de vaststelling, en correctie van meting en in de normering als gevolg van actualisatie van toetsgegevens, stelt Onze Minister op voorstel van de inspecteur-generaal van het onderwijs vast.
 
-#### Artikel 2.4. Aanvullend onderzoek inspectie
+##### Artikel 2.4. Aanvullend onderzoek inspectie
 
 Indien er geen of onvoldoende gegevens zijn voor een betrouwbaar oordeel over de meting van de leerresultaten, verricht de inspectie een aanvullend onderzoek, volgens bij ministeriële regeling te geven voorschriften. Het aanvullend onderzoek kan onder meer omvatten:
 
@@ -104,7 +131,7 @@ Indien er geen of onvoldoende gegevens zijn voor een betrouwbaar oordeel over de
 
 - b. onderzoek en verificatie ter plekke.
 
-#### Artikel 2.5. Monitor veiligheid op school
+##### Artikel 2.5. Monitor veiligheid op school
 
 Het instrument ter monitoring van de veiligheid van leerlingen, bedoeld in [artikel 4c, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=4c):
 
@@ -116,13 +143,13 @@ Het instrument ter monitoring van de veiligheid van leerlingen, bedoeld in [arti
 
 ### Hoofdstuk 3. Ontwikkelingsperspectief, deskundigen, geschillencommissie en orthopedagogisch-didactische centra
 
-#### Artikel 3.1. Ontwikkelingsperspectief
+##### Artikel 3.1. Ontwikkelingsperspectief
 
 1. Het ontwikkelingsperspectief, bedoeld in [artikel 40a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40a), bevat ten minste informatie over naar welke onderwijssoort in het voortgezet onderwijs dan wel welk uitstroomprofiel van het voortgezet speciaal onderwijs, bedoeld in [artikel 14, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14), uitstroom van de leerling wordt verwacht, en de onderbouwing daarvan.
 
 2. De onderbouwing bevat ten minste een weergave van de belemmerende en bevorderende factoren die van invloed zijn op het onderwijs aan de leerling.
 
-#### Artikel 3.2. Deskundigen samenwerkingsverband
+##### Artikel 3.2. Deskundigen samenwerkingsverband
 
 De deskundigen, bedoeld in [artikel 18a, elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a), zijn:
 
@@ -130,7 +157,7 @@ De deskundigen, bedoeld in [artikel 18a, elfde lid, van de wet](https://wetten.o
 
 - b. afhankelijk van de leerling over wiens toelaatbaarheid wordt geadviseerd, ten minste een tweede deskundige, te weten een kinder- of jeugdpsycholoog, een pedagoog, een kinderpsychiater, een maatschappelijk werker of een arts.
 
-#### Artikel 3.3. Tijdelijke landelijke geschillencommissie toelating en verwijdering
+##### Artikel 3.3. Tijdelijke landelijke geschillencommissie toelating en verwijdering
 
 1. De geschillencommissie, bedoeld in [artikel 43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=43), bestaat uit ten minste zeven leden met verschillende deskundigheden. De leden worden benoemd op gezamenlijke bindende voordracht van de landelijke ouderorganisaties, de landelijke patiënten- en gehandicaptenorganisaties en de sectororganisaties.
 
@@ -148,7 +175,7 @@ De deskundigen, bedoeld in [artikel 18a, elfde lid, van de wet](https://wetten.o
 
 8. Het bevoegd gezag van de school die het oordeel van de commissie heeft ontvangen, deelt schriftelijk aan de ouders en aan de commissie mee wat er met het oordeel wordt gedaan. Indien de beslissing van het bevoegd gezag van de school afwijkt van het oordeel van de commissie, wordt in de beslissing de reden voor die afwijking vermeld.
 
-#### Artikel 3.4. Voorwaarden inrichting orthopedagogisch-didactische centra
+##### Artikel 3.4. Voorwaarden inrichting orthopedagogisch-didactische centra
 
 1. Indien het samenwerkingsverband, bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), een of meer orthopedagogisch-didactisch centra omvat, wordt dat vermeld in het ondersteuningsplan.
 
@@ -158,7 +185,7 @@ De deskundigen, bedoeld in [artikel 18a, elfde lid, van de wet](https://wetten.o
 
 ### Hoofdstuk 4. Onderwijstijd op andere school en vaststelling percentage onderwijstijd in vreemde taal
 
-#### Artikel 4.1. Meetellen onderwijstijd op andere school of instelling
+##### Artikel 4.1. Meetellen onderwijstijd op andere school of instelling
 
 1. Voor de toepassing van [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=15), is vereist dat tussen het bevoegd gezag van een school en het bevoegd gezag van een andere school, een school voor speciaal onderwijs, een school voor speciaal en voortgezet speciaal onderwijs, dan wel een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), een schriftelijke overeenkomst over de uitvoering wordt gesloten.
 
@@ -184,13 +211,13 @@ De deskundigen, bedoeld in [artikel 18a, elfde lid, van de wet](https://wetten.o
 
 5. Indien voor de toepassing van [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=15), scholen of instellingen binnen hetzelfde bevoegd gezag zijn betrokken, maakt dit bevoegd gezag afspraken met deze betrokken scholen of instellingen over de onderdelen, genoemd in het tweede of derde lid.
 
-#### Artikel 4.2. Percentage onderwijstijd in de Engelse, Duitse of Franse taal
+##### Artikel 4.2. Percentage onderwijstijd in de Engelse, Duitse of Franse taal
 
 Het percentage, bedoeld in [artikel 9, lid 13a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), waarin een deel van het onderwijs kan worden gegeven in de Engelse, Duitse of Franse taal, is ten hoogste 15% per schooljaar.
 
 ### Hoofdstuk 5. Tijdelijke nieuwkomersvoorzieningen
 
-#### Artikel 5.1. Begripsbepalingen
+##### Artikel 5.1. Begripsbepalingen
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -200,7 +227,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **vestigingscode:** nummer dat bestaat uit de instellingscode, aangevuld met de twee cijfers die de vestiging aanduiden.
 
-#### Artikel 5.2. De melding en het inrichtingsplan van een tijdelijke nieuwkomersvoorziening
+##### Artikel 5.2. De melding en het inrichtingsplan van een tijdelijke nieuwkomersvoorziening
 
 1. De melding van het bevoegd gezag over de inrichting van een tijdelijke nieuwkomersvoorziening, bedoeld in [artikel 193h, eerste lid, van de wet](onbekend), gaat vergezeld van de volgende gegevens:
 
@@ -230,7 +257,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 3. Het bevoegd gezag stelt het inrichtingsplan beschikbaar aan de ouders van de leerlingen van een tijdelijke nieuwkomersvoorziening.
 
-#### Artikel 5.3. Doorstroomperspectief
+##### Artikel 5.3. Doorstroomperspectief
 
 1. Het bevoegd gezag stelt voor elke leerling in een tijdelijke nieuwkomersvoorziening binnen zes weken na de inschrijving van de leerling een doorstroomperspectief vast.
 
@@ -240,7 +267,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 5.4. Onderwijsprogramma en de inrichting van onderwijstijd
+##### Artikel 5.4. Onderwijsprogramma en de inrichting van onderwijstijd
 
 Indien een vacature voor het geven van onderwijs in een tijdelijke nieuwkomersvoorziening niet kan worden vervuld door een bevoegde leraar of door onderwijspersoneel als bedoeld in [artikel 193j van de wet](onbekend), dan kan het bevoegd gezag in afwijking van de [artikelen 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=8), en [9, eerste, tweede en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9) het aantal uren onderwijs in de tijdelijke nieuwkomersvoorziening tijdelijk beperken, met dien verstande dat:
 
@@ -250,11 +277,11 @@ Indien een vacature voor het geven van onderwijs in een tijdelijke nieuwkomersvo
 
 - c. leerlingen ten minste 10 uren per week onderwijs ontvangen in de Nederlandse taal.
 
-#### Artikel 5.5. Schoolplan en schoolgids
+##### Artikel 5.5. Schoolplan en schoolgids
 
 Bij vaststelling van het schoolplan en de schoolgids, bedoeld in de [artikelen 12 tot en met 13a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=12), wordt de tijdelijke nieuwkomersvoorziening niet betrokken.
 
-#### Artikel 5.6. Opheffing tijdelijke nieuwkomersvoorziening door het bevoegd gezag
+##### Artikel 5.6. Opheffing tijdelijke nieuwkomersvoorziening door het bevoegd gezag
 
 1. Het bevoegd gezag meldt het voornemen tot opheffing van een tijdelijke nieuwkomersvoorziening aan Onze Minister.
 
@@ -268,7 +295,7 @@ Bij vaststelling van het schoolplan en de schoolgids, bedoeld in de [artikelen 1
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld over het uitfaseringsplan.
 
-#### Artikel 5.7. Opheffing tijdelijke nieuwkomersvoorziening na verstrijken van de wettelijke termijn
+##### Artikel 5.7. Opheffing tijdelijke nieuwkomersvoorziening na verstrijken van de wettelijke termijn
 
 1. Een tijdelijke nieuwkomersvoorziening moet zijn opgeheven indien de termijn bedoeld in [artikel 193d, vierde lid, van de wet](onbekend) is verstreken.
 
@@ -276,21 +303,21 @@ Bij vaststelling van het schoolplan en de schoolgids, bedoeld in de [artikelen 1
 
 3. Het bevoegd gezag zendt twee maanden voor het verstrijken van de termijn de gegevens bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&hoofdstuk=5&artikel=5.2&z=2023-10-11&g=2023-10-11), en het uitfaseringsplan, bedoeld in [artikel 5.6, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&hoofdstuk=5&artikel=5.6&z=2023-10-11&g=2023-10-11), aan Onze Minister.
 
-#### Artikel 5.8. Horizonbepaling
+##### Artikel 5.8. Horizonbepaling
 
 Hoofdstuk 5 vervalt op het tijdstip waarop [hoofdstuk 2, afdeling 2 van de wet](onbekend) vervalt.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 6.1. Dubbelwijziging [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&hoofdstuk=2&artikel=2.4&z=2023-10-11&g=2023-10-11).
+##### Artikel 6.1. Dubbelwijziging [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&hoofdstuk=2&artikel=2.4&z=2023-10-11&g=2023-10-11).
 
 Wijzigt dit Besluit.
 
-#### Artikel 6.2. Citeertitel
+##### Artikel 6.2. Citeertitel
 
 Dit besluit wordt aangehaald als: Inrichtingsbesluit WPO.
 
-#### Artikel 6.3. Inwerkingtreding
+##### Artikel 6.3. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 april 2022.
 

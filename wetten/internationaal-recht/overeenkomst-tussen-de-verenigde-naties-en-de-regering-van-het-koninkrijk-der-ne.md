@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen de Verenigde Naties en de Regering van het Koninkrijk der Nederlanden inzake operationele hulp aan Suriname en de Nederlandse Antillen"
 identifier: "BWBV0004317"
-categorie: "Internationaal recht"
-publicatiedatum: 1970-03-05
-laatste_update: 1970-03-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004317"
+country: "nl"
+rank: "verdrag"
+publication_date: "1970-03-05"
+last_updated: "1970-03-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004317"
+soort: "verdrag"
+stam_id: "10004053783"
+version_id: "10004221922"
+internal_id: "C10008335641"
+label_id: "10004038264"
+dtd_version: "2.0"
+original_entry_into_force: "1970-03-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004317/1970-03-05/0"
+intitule_bron: "Trb.1969-216"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1969-11-10"
+intitule_in_force: "1970-03-17"
+intitule_status: "goed"
+original_publication: "Trb.1969-216"
+original_published_date: "1969-11-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1969-216"
+entry_into_force_date: "1970-03-05"
+jci_1_3: "jci1.3:c:BWBV0004317&z=1970-03-05&g=1970-03-05"
+jci_1_0: "1.0:c:BWBV0004317&g=1970-03-05"
+citeertitel_status: "redactioneel"
+entry_into_force: "1970-03-05"
 ---
-
 # Overeenkomst tussen de Verenigde Naties en de Regering van het Koninkrijk der Nederlanden inzake operationele hulp aan Suriname en de Nederlandse Antillen
 
 De Verenigde Naties, waaronder begrepen de V.N.-Organisatie voor Industriële Ontwikkeling en de V.N.-Conferentie voor Handel en Ontwikkeling, de Internationale Arbeidsorganisatie, de Voedsel- en Landbouworganisatie van de Verenigde Naties, de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, de Internationale Burgerluchtvaart Organisatie, de Wereldgezondheidsorganisatie, de Internationale Vereniging voor Verreberichtgeving, de Wereld Meteorologische Organisatie, de Internationale Organisatie voor Atoomenergie, de Wereldpostvereniging en de Intergouvernementele Maritieme Consultatieve Organisatie (hierna te noemen „de Organisaties”), en de Regering van het Koninkrijk der Nederlanden (hierna te noemen „de Regering van het Koninkrijk”);
@@ -18,7 +40,7 @@ Overwegende dat het dienstig is, samen te werken bij de bevordering van de ontwi
 
 Zijn deze Overeenkomst aangegaan in een geest van vriendschappelijke samenwerking.
 
-#### Artikel I. Werkingssfeer van de Overeenkomst
+##### Artikel I. Werkingssfeer van de Overeenkomst
 
 1. In deze Overeenkomst zijn de voorwaarden neergelegd waarop de Organisaties de Regering van Suriname of van de Nederlandse Antillen de diensten van functionarissen ter beschikking zullen stellen voor het vervullen van functies van operationele, uitvoerende en administratieve aard als overheidsambtenaren of ander daarmede vergelijkbaar personeel van deze Regeringen (hierna te noemen „de functionarissen”). Deze Overeenkomst bevat ook de basis-voorwaarden die de verhouding tussen de betrokken Regering en de functionarissen regelen. De Regering van Suriname of van de Nederlandse Antillen en de functionarissen sluiten hetzij onderlinge contracten, hetzij zodanige andere overeenkomsten als met betrekking tot hun onderlinge verhouding terzake dienende zijn, overeenkomstig de gebruiken van de betrokken Regering ten aanzien van haar eigen ambtenaren of ander daarmede vergelijkbaar personeel. Zodanige contracten of overeenkomsten zijn evenwel onderworpen aan de bepalingen van deze Overeenkomst en dienen ter kennis van de betrokken Organisaties te worden gebracht.
 
@@ -26,7 +48,7 @@ De Regering van het Koninkrijk neemt de internationale verantwoordelijkheid op z
 
 2. De verhouding tussen elke Organisatie en de door haar ter beschikking gestelde functionarissen wordt omschreven in contracten die de betrokken Organisatie sluit met zodanige functionarissen. De Organisaties verbinden zich, de Regering van Suriname of van de Nederlandse Antillen binnen een maand nadat het is gesloten een afschrift van elk zodanig contract te verstrekken.
 
-#### Artikel II. Taken van de functionarissen
+##### Artikel II. Taken van de functionarissen
 
 1. De ingevolge deze Overeenkomst ter beschikking te stellen functionarissen zijn beschikbaar voor de vervulling van operationele, uitvoerende, administratieve en leidende functies, ook in het onderwijs, voor de Regering van Suriname of van de Nederlandse Antillen of, indien zulks is overeengekomen tussen de betrokken Regering en de betrokken Organisatie, bij andere overheidsorganen of -rechtspersonen of Organisaties dan wel bij organisaties die geen deel uitmaken van de overheidsdiensten.
 
@@ -36,7 +58,7 @@ De Regering van het Koninkrijk neemt de internationale verantwoordelijkheid op z
 
 4. De Regering van Suriname of van de Nederlandse Antillen stemt erin toe dat onderdanen van het land ter beschikking zullen worden gesteld als de nationale pendanten van de functionarissen en door deze laatstgenoemden zullen worden opgeleid om zo spoedig mogelijk de verantwoordelijkheden op zich te nemen die krachtens deze Overeenkomst tijdelijk zijn opgedragen aan de functionarissen. De betrokken Regering voorziet in passende faciliteiten voor de opleiding van deze pendanten.
 
-#### Artikel III. Verplichtingen van de Organisaties
+##### Artikel III. Verplichtingen van de Organisaties
 
 1. Gevolg gevend aan verzoeken van de Regering van Suriname of van de Nederlandse Antillen nemen de Organisaties op zich bekwame functionarissen ter beschikking te stellen voor de vervulling van de in artikel II hierboven beschreven taken. De functionarissen worden in overleg met de betrokken Regering gekozen door de Organisaties.
 
@@ -48,7 +70,7 @@ De Regering van het Koninkrijk neemt de internationale verantwoordelijkheid op z
 
 5. De Organisaties nemen op zich, hun goede diensten te verlenen bij het aanbrengen van de nodige wijzigingen in de arbeidsvoorwaarden van de functionarissen, met inbegrip van beëindiging van zodanige diensten, indien en wanneer zulks noodzakelijk wordt.
 
-#### Artikel IV. Verplichting van de Regering van Suriname of van de Nederlandse Antillen
+##### Artikel IV. Verplichting van de Regering van Suriname of van de Nederlandse Antillen
 
 1. De Regering van Suriname of van de Nederlandse Antillen draagt bij in de kosten voor de uitvoering van deze Overeenkomst door uitbetaling aan de functionarissen van het salaris, de toelagen en andere daarmede samenhangende emolumenten, die zouden moeten worden betaald aan een nationale overheidsambtenaar of een ander daarmede vergelijkbaar personeelslid in dezelfde rang als die waarmede de functionarissen worden gelijkgesteld, met dien verstande dat, indien de totale emolumenten die de Regeringsbijdrage ten aanzien van een functionaris vormen, minder bedragen dan twaalf en een half procent van de totale kosten voor de terbeschikkingstelling van deze functionaris of minder dan een ander percentage van deze door de bevoegde organen van de Organisaties van tijd tot tijd vast te stellen totale kosten, de betrokken Regering een bijkomende betaling verricht aan het Ontwikkelingsprogramma der Verenigde Naties of, al naar het geval aan de betrokken Organisatie, tot een bedrag dat de totale bijdrage van die Regering voor elke functionaris brengt op twaalf en een half procent of een ander passend percentage van de totale kosten voor de terbeschikkingstelling van de functionarissen; deze betaling dient jaarlijks vooraf te geschieden.
 
@@ -72,7 +94,7 @@ De Regering van het Koninkrijk neemt de internationale verantwoordelijkheid op z
 
 11. Indien de diensten van een functionaris op initiatief van de Regering van Suriname of van de Nederlandse Antillen worden beëindigd onder omstandigheden die van de zijde van de Organisatie een verplichting doen ontstaan om hem krachtens haar contract met de functionaris een schadeloosstelling te betalen, dan draagt de betrokken Regering in de kosten daarvan bij het bedrag van de vergoeding bij beëindiging van dienstverband dat zou moeten worden betaald aan een nationale overheidsambtenaar of een ander daarmede vergelijkbaar personeelslid van een soortgelijke rang ingeval van beëindiging van zijn werkzaamheden onder dezelfde omstandigheden.
 
-#### Artikel V. Regeling van geschillen
+##### Artikel V. Regeling van geschillen
 
 1. Ieder geschil tussen de Regering van Suriname of van de Nederlandse Antillen en een functionaris dat voortvloeit uit of in verband staat met zijn arbeidsvoorwaarden kan door de betrokken Regering of de daarbij betrokken functionaris worden verwezen naar de Organisatie die de functionaris ter beschikking stelt en de betrokken Organisatie verleent haar goede diensten om hen bij te staan in het treffen van een regeling. Indien een geschil niet kan worden geregeld overeenkomstig de voorgaande zin, wordt de aangelegenheid op verzoek van een der partijen bij het geschil onderworpen aan arbitrage krachtens het derde lid van dit artikel.
 
@@ -80,7 +102,7 @@ De Regering van het Koninkrijk neemt de internationale verantwoordelijkheid op z
 
 3. Ieder geschil dat aan arbitrage wordt onderworpen, wordt verwezen naar drie scheidsmannen die bij meerderheid van stemmen beslissen. Iedere partij bij het geschil benoemt een scheidsman en de twee aldus benoemde scheidsmannen benoemen de derde, die de voorzitter is. Indien binnen zestig dagen na het verzoek om arbitrage een der partijen nog geen scheidsman heeft benoemd of binnen dertig dagen na de benoeming van de twee scheidsmannen de derde scheidsman nog niet is benoemd, kan zowel de ene als de andere partij de Secretaris-Generaal van het Permanente Hof van Arbitrage verzoeken een scheidsman te benoemen. De arbitrageprocedure wordt door de scheidsmannen vastgesteld en de kosten van de arbitrage worden gedragen door de partijen zoals vastgesteld door de scheidsmannen. De scheidsrechterlijke uitspraak wordt met redenen omkleed en wordt door de partijen bij het geschil aanvaard als de definitieve uitspraak in het geschil.
 
-#### Artikel VI. Algemene bepalingen
+##### Artikel VI. Algemene bepalingen
 
 1. a. Nadat de in het Koninkrijk der Nederlanden grondwettelijk vereiste goedkeuring is verkregen, treedt deze Overeenkomst in werking op de datum waarop de Verenigde Naties van de Regering van het Koninkrijk een desbetreffende kennisgeving ontvangen.
 

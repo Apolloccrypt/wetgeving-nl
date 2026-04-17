@@ -1,13 +1,38 @@
 ---
-title: "Wijzigingsbesluit Warenwetbesluit Etikettering levensmiddelen (verordening (EG) 608/2004 en richtlijn 2004/77/EG) enz."
+title: "Besluit van 31 december 2004, houdende wijziging van het Warenwetbesluit Etikettering van levensmiddelen in verband met verordening (EG) 608/2004 en met de vermelding van zoethout (richtlijn 2004/77/EG), en van het Warenwetbesluit bestuurlijke boeten"
 identifier: "BWBR0017858"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-01-21
-laatste_update: 2005-01-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017858"
+country: "nl"
+rank: "amvb"
+publication_date: "2005-01-21"
+last_updated: "2005-01-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017858"
+soort: "AMvB"
+stam_id: "6646493"
+version_id: "11481702"
+internal_id: "C15507301"
+label_id: "6634854"
+original_entry_into_force: "2005-01-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017858/2005-01-21/0"
+intitule_bron: "Stb.2005-22"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-31"
+intitule_published: "2005-01-20"
+intitule_in_force: "2005-01-20"
+intitule_status: "goed"
+original_publication: "Stb.2005-22"
+original_signed_date: "2004-12-31"
+original_published_date: "2005-01-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2005-22"
+entry_into_force_date: "2005-01-21"
+jci_1_3: "jci1.3:c:BWBR0017858&z=2005-01-21&g=2005-01-21"
+jci_1_0: "1.0:c:BWBR0017858&g=2005-01-21"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Warenwetbesluit Etikettering levensmiddelen (verordening (EG) 608/2004 en richtlijn 2004/77/EG) enz."
+signed_date: "2004-12-31"
+entry_into_force: "2005-01-21"
 ---
-
 # Besluit van 31 december 2004, houdende wijziging van het Warenwetbesluit Etikettering van levensmiddelen in verband met verordening (EG) 608/2004 en met de vermelding van zoethout (richtlijn 2004/77/EG), en van het Warenwetbesluit bestuurlijke boeten
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 9 november 2004, VGP/VL 2530191, gedaan in overeenstemming met Onze Ministers van Landbouw, Natuur en Voedselkwaliteit, van Economische Zaken, en van Justitie;
@@ -26,19 +51,19 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
-#### Artikel III
+##### Artikel III
 
 In [artikel 22c van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=22c) bedoelde eet- en drinkwaren die vóór 20 mei 2006 zijn geëtiketteerd en die voldoen aan het [Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310) zoals dat onmiddellijk voor de inwerkingtreding van dit besluit luidde, mogen worden verhandeld zolang de voorraad strekt.
 
-#### Artikel IV
+##### Artikel IV
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

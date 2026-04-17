@@ -1,13 +1,37 @@
 ---
 title: "Mogelijkheden financiële bijdrage voor kunstprojecten in de zorg"
 identifier: "BWBR0012313"
-categorie: "Sociaal recht"
-publicatiedatum: 2001-03-15
-laatste_update: 2001-03-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012313"
+country: "nl"
+rank: "circulaire"
+publication_date: "2001-03-15"
+last_updated: "2001-03-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012313"
+soort: "circulaire"
+stam_id: "6262193"
+version_id: "10944202"
+internal_id: "C14839351"
+label_id: "6251094"
+original_entry_into_force: "2001-03-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012313/2001-03-15/0"
+intitule_bron: "Stcrt.2001-53"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-03-12"
+intitule_published: "2001-03-15"
+intitule_in_force: "2001-03-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-53"
+original_signed_date: "2001-03-12"
+original_published_date: "2001-03-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2001-53-p10-SC28339"
+entry_into_force_date: "2001-03-15"
+jci_1_3: "jci1.3:c:BWBR0012313&z=2001-03-15&g=2001-03-15"
+jci_1_0: "1.0:c:BWBR0012313&g=2001-03-15"
+citeertitel_status: "redactioneel"
+signed_date: "2001-03-12"
+entry_into_force: "2001-03-15"
 ---
-
 # Mogelijkheden financiële bijdrage voor kunstprojecten in de zorg
 
 Circulaire aan de instellingen in de intramurale gezondheidszorg die onder de [WZV](onbekend) vallen, exclusief de academische ziekenhuizen

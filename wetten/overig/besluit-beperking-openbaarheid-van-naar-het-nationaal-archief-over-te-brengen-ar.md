@@ -1,13 +1,38 @@
 ---
 title: "Besluit beperking openbaarheid van naar het Nationaal Archief over te brengen archief Schadefonds geweldmisdrijven, (1973)1976–2004(2014)"
 identifier: "BWBR0037988"
-categorie: "Overig"
-publicatiedatum: 2016-05-31
-laatste_update: 2016-05-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037988"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-05-31"
+last_updated: "2016-05-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037988"
+soort: "zbo"
+stam_id: "13558953"
+version_id: "23232222"
+internal_id: "C33543871"
+label_id: "13525744"
+dtd_version: "2.0"
+original_entry_into_force: "2016-05-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037988/2016-05-31/0"
+intitule_bron: "Stcrt.2016-27079"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-05-19"
+intitule_published: "2016-05-30"
+intitule_in_force: "2016-05-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-27079"
+original_signed_date: "2016-05-19"
+original_published_date: "2016-05-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-27079"
+entry_into_force_date: "2016-05-31"
+jci_1_3: "jci1.3:c:BWBR0037988&z=2016-05-31&g=2016-05-31"
+jci_1_0: "1.0:c:BWBR0037988&g=2016-05-31"
+citeertitel_status: "redactioneel"
+signed_date: "2016-05-19"
+entry_into_force: "2016-05-31"
 ---
-
 # Besluit beperking openbaarheid van naar het Nationaal Archief over te brengen archief Schadefonds geweldmisdrijven, (1973)1976–2004(2014)
 
 gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10)
@@ -18,7 +43,7 @@ Besluit:
 
 Tot de volgende beperkingen aan de openbaarheid van het archief van het Schadefonds Geweldsmisdrijven:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot de eerste januari van het jaar, genoemd in de tweede kolom.
 
@@ -173,14 +198,14 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 172 | 2073 |
 | 173 | 2078 |
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging of gebruik van de archiefbescheiden genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037988&artikel=1&z=2016-05-31&g=2016-05-31), is binnen de termijn waarvoor de beperkingen zijn gesteld, uitsluitend mogelijk na voorafgaande schriftelijk verkregen toestemming van de algemene Rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden. Een verzoek tot inzage zal worden behandeld volgens de daarvoor bij het Nationaal Archief geldende procedure voor inzage in archieven met bijzondere persoonsgegevens.
 
-#### Artikel 3
+##### Artikel 3
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037988&artikel=1&z=2016-05-31&g=2016-05-31), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke verkregen toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van het Schadefonds Geweldsmisdrijven, (1973)1976–2004(2014)’.

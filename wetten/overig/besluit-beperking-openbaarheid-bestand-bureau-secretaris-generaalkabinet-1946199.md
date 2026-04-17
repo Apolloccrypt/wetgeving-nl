@@ -1,13 +1,38 @@
 ---
 title: "Besluit beperking openbaarheid bestand Bureau Secretaris-Generaal/Kabinet 1946–1999"
 identifier: "BWBR0042508"
-categorie: "Overig"
-publicatiedatum: 2019-08-30
-laatste_update: 2019-08-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042508"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2019-08-30"
+last_updated: "2019-08-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042508"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "15153163"
+version_id: "25979792"
+internal_id: "C36998161"
+label_id: "15100824"
+dtd_version: "2.0"
+original_entry_into_force: "2019-08-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042508/2019-08-30/0"
+intitule_bron: "Stcrt.2019-48276"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-08-15"
+intitule_published: "2019-08-29"
+intitule_in_force: "2019-08-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-48276"
+original_signed_date: "2019-08-15"
+original_published_date: "2019-08-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-48276"
+entry_into_force_date: "2019-08-30"
+jci_1_3: "jci1.3:c:BWBR0042508&z=2019-08-30&g=2019-08-30"
+jci_1_0: "1.0:c:BWBR0042508&g=2019-08-30"
+citeertitel_status: "redactioneel"
+signed_date: "2019-08-15"
+entry_into_force: "2019-08-30"
 ---
-
 # Besluit beperking openbaarheid bestand Bureau Secretaris-Generaal/Kabinet 1946–1999
 
 Gelet op [artikel 15, lid 1, onder a en b Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 12 juli 2018, met kenmerk 1263879.
@@ -16,7 +41,7 @@ Besluit:
 
 Tot de volgende beperkingen aan de openbaarheid van het bestand Bureau Secretaris-Generaal/Kabinet 1946-1999.
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -56,7 +81,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 2027 | 2059 |
 | 2044 | 2030 |
 
-#### Artikel 2
+##### Artikel 2
 
 Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -137,20 +162,20 @@ Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnum
 | 1083 | 2058 |
 | 1728 | 2066 |
 
-#### Artikel 3
+##### Artikel 3
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042508&artikel=1&z=2019-08-30&g=2019-08-30), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042508&artikel=2&z=2019-08-30&g=2019-08-30), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van het hieronder vermelde overheidsorgaan.
 
-#### Artikel 4
+##### Artikel 4
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042508&artikel=1&z=2019-08-30&g=2019-08-30), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de verklaring van overbrenging van het bestand Bureau Secretaris-Generaal/Kabinet 1946–1999.
 
-#### Artikel 6
+##### Artikel 6
 
 Met de inwerkingtreding van dit besluit vervalt het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033480), genummerd 14501, zoals gepubliceerd in de Staatscourant van 4 juni 2013.

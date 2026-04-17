@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet belastingwetten herziening regime ter zake van winst uit aanmerkelijk belang, consumptieve rente en vermogensbelasting"
+title: "Wet van 13 december 1996 tot wijziging van enige belastingwetten (herziening regime ter zake van winst uit aanmerkelijk belang, consumptieve rente en vermogensbelasting)"
 identifier: "BWBR0008426"
-categorie: "Belastingrecht"
-publicatiedatum: 1998-01-01
-laatste_update: 1998-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008426"
+country: "nl"
+rank: "wet"
+publication_date: "1998-01-01"
+last_updated: "1998-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008426"
+soort: "wet"
+stam_id: "222153"
+version_id: "308112"
+internal_id: "C308111"
+label_id: "218034"
+dtd_version: "2.0"
+original_entry_into_force: "1997-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008426/1998-01-01/0"
+intitule_bron: "Stb.1996-652"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-12-13"
+intitule_published: "1996-12-23"
+intitule_in_force: "1996-12-23"
+intitule_status: "goed"
+original_publication: "Stb.1996-652"
+original_signed_date: "1996-12-13"
+original_published_date: "1996-12-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "24761"
+original_url_id: "stb-1996-652"
+entry_into_force_date: "1997-01-01"
+entry_into_force_dossier: "24761"
+jci_1_3: "jci1.3:c:BWBR0008426&z=1998-01-01&g=1998-01-01"
+jci_1_0: "1.0:c:BWBR0008426&g=1998-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet belastingwetten herziening regime ter zake van winst uit aanmerkelijk belang, consumptieve rente en vermogensbelasting"
+signed_date: "1996-12-13"
+entry_into_force: "1997-01-01"
 ---
-
-# Wijzigingswet belastingwetten herziening regime ter zake van winst uit aanmerkelijk belang, consumptieve rente en vermogensbelasting
+# Wet van 13 december 1996 tot wijziging van enige belastingwetten (herziening regime ter zake van winst uit aanmerkelijk belang, consumptieve rente en vermogensbelasting)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,43 +44,43 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is het regime voor de i
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### ARTIKEL I
+##### ARTIKEL I
 
 Wijzigt de Wet op de inkomstenbelasting 1969.
 
-#### ARTIKEL II
+##### ARTIKEL II
 
 Wijzigt de Wet op de vermogensbelasting 1964.
 
-#### ARTIKEL III
+##### ARTIKEL III
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### ARTIKEL IV
+##### ARTIKEL IV
 
 Wijzigt de Invorderingswet 1990.
 
-#### ARTIKEL V
+##### ARTIKEL V
 
 Wijzigt de Successiewet 1956.
 
-#### ARTIKEL VI
+##### ARTIKEL VI
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### ARTIKEL VII
+##### ARTIKEL VII
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### ARTIKEL VIII
+##### ARTIKEL VIII
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### ARTIKEL IX
+##### ARTIKEL IX
 
 Wijzigt de Wijzigingswet van 24 december 1993 van belastingwetten (verhoging van de ondernemingsvrijstelling, wijziging teruggaafregeling inzake beperking van de gezamenlijke druk van inkomstenbelasting en vermogensbelasting, verhoging van de belastingvrije sommen en vrijstelling van natuurschoonwetlandgoederen in de vermogensbelasting, wijziging loon- en inkomstenbelasting ivm uitstel van loon, alsmede wijziging van de fictief-rendementsregeling in de inkomstenbelasting (Stb. 733).
 
-#### ARTIKEL X
+##### ARTIKEL X
 
 Voor de kalenderjaren 1997 en 1998 worden de in artikel 45, vierde lid, van de Wet op de inkomstenbelasting 1964 genoemde bedragen van f 5 000 en f 10 000, onderscheidenlijk de bedragen die per 1 januari 1998 daarvoor in de plaats komen na de bijstelling op de voet van artikel 66**b** van die wet, verhoogd tot onderscheidenlijk:
 
@@ -60,17 +88,17 @@ f 10 000 en f 20 000 voor het kalenderjaar 1997;
 
 f 7500 en f 15 000 voor het kalenderjaar 1998.
 
-#### ARTIKEL XI
+##### ARTIKEL XI
 
 Voor het kalenderjaar 1997 wordt in [artikel 12**a** van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=12a) «het in [artikel 71, tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=71) bedoelde bedrag aan premie-inkomen dat ten hoogste in aanmerking wordt genomen» vervangen door: f 78 000.
 
-#### ARTIKEL XII
+##### ARTIKEL XII
 
 1. Ten aanzien van een lichaam dat met ingang van de datum van inwerkingtreding van deze wet niet langer als een beleggingsinstelling wenst te worden aangemerkt, blijft [artikel 28 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) op verzoek van het lichaam buiten toepassing en bedraagt de belasting, voor zover in het belastbare bedrag van het jaar is begrepen de herbeleggingsreserve en de afrondingsreserve welke ingevolge [artikel 10, derde lid, tweede volzin, van het Besluit beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=10) in de winst van dat jaar zijn opgenomen, in afwijking in zoverre van [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), 15 percent.
 
 2. Ten aanzien van een lichaam dat op de voet van het eerste lid niet langer als een beleggingsinstelling in de zin van [artikel 28 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) wordt aangemerkt en bij het einde van de statusperiode nog verliezen heeft die niet zijn verrekend, blijft met betrekking tot die verliezen voor wat betreft de voorwaartse verrekening buiten toepassing het in artikel 20, derde lid, van die wet opgenomen voorschrift dat verliezen geleden in de statusperiode niet verrekenbaar zijn met belastbare winsten genoten buiten die periode.
 
-#### ARTIKEL XIII
+##### ARTIKEL XIII
 
 1. De bepalingen welke ingevolge [artikel I, onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0008426&artikel=I&z=1998-01-01&g=1998-01-01) vervallen, blijven van toepassing ten aanzien van de belastingplichtige met betrekking tot de door hem op 31 december 1996 bezeten aandelen welke een aanmerkelijk belang vormen in de zin van artikel 39 van de Wet op de inkomstenbelasting 1964 zoals dat luidde op die datum en welke aandelen na de inwerkingtreding van deze wet op grond van het bepaalde in artikel 20**a** van de Wet op de inkomstenbelasting 1964 geen aanmerkelijk belang meer vormen. De desbetreffende winst uit aanmerkelijk belang wordt belast op de voet van artikel 57**b** van de Wet op de inkomstenbelasting 1964.
 
@@ -80,11 +108,11 @@ Voor het kalenderjaar 1997 wordt in [artikel 12**a** van de Wet op de loonbelast
 
 4. De bepalingen welke ingevolge [artikel IV, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0008426&artikel=IV&z=1998-01-01&g=1998-01-01), worden gewijzigd, blijven van toepassing met betrekking tot belastingaanslagen bij de vaststelling waarvan artikel 40**b** van de Wet op de inkomstenbelasting 1964 of artikel 48, vierde lid, laatste volzin, van die wet, zoals die luidden op 31 december 1996, toepassing heeft gevonden.
 
-#### ARTIKEL XIV
+##### ARTIKEL XIV
 
 Onze Minister van Financiën zal de Staten-Generaal zo spoedig mogelijk, doch in ieder geval vóór 1 juli 1997 en vervolgens vóór 1 juli 1998, alsmede vóór 1 juli 1999, op de hoogte brengen van meeropbrengsten van structurele aard indien deze zich bij de dividendbelasting of de inkomstenbelasting voordoen als gevolg van de invoering van het gewijzigde regime voor winst uit aanmerkelijk belang.
 
-#### ARTIKEL XV
+##### ARTIKEL XV
 
 1. Deze wet treedt in werking met ingang van 1 januari 1997.
 

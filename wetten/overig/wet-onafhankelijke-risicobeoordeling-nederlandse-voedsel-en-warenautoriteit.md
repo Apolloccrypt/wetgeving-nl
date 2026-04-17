@@ -1,14 +1,42 @@
 ---
-title: "Wet onafhankelijke risicobeoordeling Nederlandse Voedsel- en Warenautoriteit"
+title: "Wet van 26 april 2006 tot regeling van een onafhankelijke uitoefening van risicobeoordeling door de Voedsel en Waren Autoriteit (Wet onafhankelijke risicobeoordeling Voedsel en Waren Autoriteit)"
 identifier: "BWBR0019795"
-categorie: "Overig"
-publicatiedatum: 2021-07-01
-laatste_update: 2021-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019795"
+country: "nl"
+rank: "wet"
+publication_date: "2021-07-01"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019795"
+soort: "wet"
+stam_id: "8294363"
+version_id: "13156052"
+internal_id: "C17719531"
+label_id: "8275544"
+dtd_version: "2.0"
+original_entry_into_force: "2006-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019795/2021-07-01/0"
+intitule_bron: "Stb.2006-247"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-04-26"
+intitule_published: "2006-05-23"
+intitule_in_force: "2006-05-23"
+intitule_status: "goed"
+original_publication: "Stb.2006-247"
+original_signed_date: "2006-04-26"
+original_published_date: "2006-05-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "29863"
+original_url_id: "stb-2006-247"
+entry_into_force_date: "2006-08-01"
+entry_into_force_dossier: "29863"
+jci_1_3: "jci1.3:c:BWBR0019795&z=2021-07-01&g=2021-07-01"
+jci_1_0: "1.0:c:BWBR0019795&g=2021-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet onafhankelijke risicobeoordeling Nederlandse Voedsel- en Warenautoriteit"
+signed_date: "2006-04-26"
+entry_into_force: "2006-08-01"
 ---
-
-# Wet onafhankelijke risicobeoordeling Nederlandse Voedsel- en Warenautoriteit
+# Wet van 26 april 2006 tot regeling van een onafhankelijke uitoefening van risicobeoordeling door de Voedsel en Waren Autoriteit (Wet onafhankelijke risicobeoordeling Voedsel en Waren Autoriteit)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -32,7 +60,7 @@ In deze wet wordt verstaan onder:
 
 ### Hoofdstuk 2. Waarborgen voor onafhankelijke uitoefening van risicobeoordeling en onderzoek
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze wet heeft uitsluitend betrekking op de navolgende aan de autoriteit opgedragen taken:
 
@@ -44,11 +72,11 @@ In deze wet wordt verstaan onder:
 
 2. De uitvoering van de in het eerste lid bedoelde taken geschiedt door de beoordelingseenheid.
 
-#### Artikel 3
+##### Artikel 3
 
 Ambtenaren van de autoriteit die zijn belast met de uitoefening van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019795&hoofdstuk=2&artikel=2&z=2021-07-01&g=2021-07-01) bedoelde taken, vervullen geen taken in het kader van de uitvoering, het toezicht op de naleving, de oplegging van bestuurlijke boeten of de opsporing op het beleidsterrein van Onze Minister of dat van Onze Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De vaststelling van risicobeoordelingen alsmede van de naar aanleiding daarvan opgestelde adviezen geschiedt door de directeur van de beoordelingseenheid.
 
@@ -58,7 +86,7 @@ Ambtenaren van de autoriteit die zijn belast met de uitoefening van de in [artik
 
 4. Indien risicobeoordelingen en de daarmee verbonden advisering onderdeel uitmaken van een breder advies van de autoriteit, draagt de inspecteur-generaal er zorg voor dat het door de directeur vastgestelde gedeelte integraal en als zodanig herkenbaar in het advies wordt opgenomen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Minister legt algemene aanwijzingen aan de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019795&hoofdstuk=2&artikel=4&z=2021-07-01&g=2021-07-01), bedoelde directeur met betrekking tot de uitoefening van de hem in deze wet toegekende taken vast in beleidsregels.
 
@@ -68,7 +96,7 @@ Ambtenaren van de autoriteit die zijn belast met de uitoefening van de in [artik
 
 ### Hoofdstuk 3. Raad van advies
 
-#### Artikel 6
+##### Artikel 6
 
 1. Er is een Raad van advies, die tot taak heeft:
 
@@ -78,7 +106,7 @@ Ambtenaren van de autoriteit die zijn belast met de uitoefening van de in [artik
 
 2. De inspecteur-generaal en de directeur verstrekken aan de Raad van advies desgevraagd alle gegevens en inlichtingen die deze voor de uitoefening van zijn taak nodig heeft.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Raad van advies bestaat uit vijf leden van wie drie leden, waaronder de voorzitter, uit de kringen van de wetenschap en twee leden met deskundigheid op het terrein van voeding en voedsel en op het terrein van andere consumentenproducten.
 
@@ -88,7 +116,7 @@ Ambtenaren van de autoriteit die zijn belast met de uitoefening van de in [artik
 
 4. Schorsing en ontslag vinden slechts plaats vanwege ongeschiktheid of onbekwaamheid voor de vervulde functie, wegens het niet naleven van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019795&hoofdstuk=3&artikel=8&z=2021-07-01&g=2021-07-01), dan wel wegens andere zwaarwegende redenen dan die gelegen zijn in de persoon van de betrokkene of verband houden daarmee. Ontslag vindt voorts plaats op eigen verzoek.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De leden van de Raad van advies vervullen geen nevenbetrekkingen die ongewenst zijn met het oog op een goede vervulling van hun functie of de handhaving van hun onafhankelijkheid of van het vertrouwen in een goede en onafhankelijke functievervulling.
 
@@ -96,7 +124,7 @@ Ambtenaren van de autoriteit die zijn belast met de uitoefening van de in [artik
 
 3. Nevenfuncties van leden van de Raad van advies worden openbaar gemaakt door het ter inzage leggen van een opgave van deze nevenfuncties bij Onze Minister alsmede door een publicatie daarvan in de Staatscourant.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Raad van advies zendt jaarlijks voor 1 juni aan Onze Minister en Onze Minister van Volksgezondheid, Welzijn en Sport een rapportage over het afgelopen kalenderjaar, met een afschrift aan de inspecteur-generaal.
 
@@ -104,25 +132,25 @@ Ambtenaren van de autoriteit die zijn belast met de uitoefening van de in [artik
 
 ### Hoofdstuk 4. Wijziging andere wetten
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Gezondheidswet.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Warenwet.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze wet wordt aangehaald als: Wet onafhankelijke risicobeoordeling Nederlandse Voedsel- en Warenautoriteit.
 

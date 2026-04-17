@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2014-2016"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 17 oktober 2013, kenmerk 132010-106827-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage medische vervolgopleidingen 2014-2016"
 identifier: "BWBR0034146"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034146"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034146"
+soort: "ministeriele-regeling"
+stam_id: "12422623"
+version_id: "20851492"
+internal_id: "C29939531"
+label_id: "12393644"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034146/2014-01-01/0"
+intitule_bron: "Stcrt.2013-30705"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-10-17"
+intitule_published: "2013-11-05"
+intitule_in_force: "2013-11-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-30705"
+original_signed_date: "2013-10-17"
+original_published_date: "2013-11-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-30705"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034146&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0034146&g=2014-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2014-2016"
+signed_date: "2013-10-17"
+entry_into_force: "2014-01-01"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 17 oktober 2013, kenmerk 132010-106827-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage medische vervolgopleidingen 2014-2016
 
 De Minister van Volksgezondheid, Welzijn en Sport,

@@ -1,26 +1,50 @@
 ---
 title: "Instellingsbesluit Centrale Directie Juridische Zaken Verkeer en Waterstaat"
 identifier: "BWBR0009629"
-categorie: "Milieu"
-publicatiedatum: 1998-06-10
-laatste_update: 1998-06-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009629"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1998-06-10"
+last_updated: "1998-06-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009629"
+soort: "ministeriele-regeling"
+stam_id: "3957883"
+version_id: "5731032"
+internal_id: "C5933761"
+label_id: "3937944"
+dtd_version: "2.0"
+original_entry_into_force: "1998-06-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009629/1998-06-10/0"
+intitule_bron: "Stcrt.1998-104"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-05-19"
+intitule_published: "1998-06-08"
+intitule_in_force: "1998-06-08"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-104"
+original_signed_date: "1998-05-19"
+original_published_date: "1998-06-08"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-06-10"
+jci_1_3: "jci1.3:c:BWBR0009629&z=1998-06-10&g=1998-06-10"
+jci_1_0: "1.0:c:BWBR0009629&g=1998-06-10"
+citeertitel_status: "officieel"
+signed_date: "1998-05-19"
+entry_into_force: "1998-06-10"
 ---
-
 # Instellingsbesluit Centrale Directie Juridische Zaken Verkeer en Waterstaat
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Ingesteld wordt de Centrale Directie Juridische Zaken.
 
-#### Artikel 2
+##### Artikel 2
 
 De Centrale Directie Juridische Zaken staat onder leiding van de directeur Juridische Zaken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Centrale Directie Juridische Zaken adviseert minister en secretaris-generaal, met inbegrip van diens plaatsvervanger, de centrale diensten en het KNMI, inzake bestuurlijke en juridische aangelegenheden, en draagt zorg voor de totstandkoming van de nodige juridische producten.
 
@@ -30,7 +54,7 @@ De Centrale Directie Juridische Zaken staat onder leiding van de directeur Jurid
 
 4. Desgevraagd kan de Centrale Directie Juridische Zaken taken als bedoeld in dit artikel ook voor andere diensthoofden vervullen.
 
-#### Artikel 4
+##### Artikel 4
 
 De Centrale Directie Juridische Zaken is verantwoordelijk voor departementaal kwaliteitsbeleid ten aanzien van bestuurlijke en juridische aangelegenheden.
 
@@ -58,19 +82,19 @@ Daartoe verricht zij onder meer de volgende activiteiten:
 
 - e. het tot stand brengen en beheren van een departementaal wetgevingsprogramma waarin is opgenomen een (capaciteits-)planning en een prioriteitstelling.
 
-#### Artikel 5
+##### Artikel 5
 
 De Centrale Directie Juridische Zaken is verantwoordelijk voor beleid gericht op de bevordering van de juridische professionaliteit. Daartoe ontwikkelt zij een departementaal wervings-, selectie- en loopbaanbeleid.
 
-#### Artikel 6
+##### Artikel 6
 
 De Centrale Directie Juridische Zaken voert op verzoek van de minister of de secretaris-generaal bijzondere opdrachten uit.
 
-#### Artikel 7
+##### Artikel 7
 
 De Centrale Directie Juridische Zaken vertegenwoordigt het departement in externe coördinatie-organen voor algemeen juridische onderwerpen.
 
-#### Artikel 8
+##### Artikel 8
 
 Opgeheven worden:
 
@@ -80,11 +104,11 @@ Opgeheven worden:
 
 - c. de afdeling Wetgeving en Beleidsjuridische Advisering van de stafafdeling Bestuurlijke en Juridische Zaken van het Directoraat-Generaal Rijkswaterstaat.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 12 mei 1998.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Centrale Directie Juridische Zaken Verkeer en Waterstaat.
 

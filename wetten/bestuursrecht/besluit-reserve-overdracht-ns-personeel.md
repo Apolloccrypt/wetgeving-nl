@@ -1,13 +1,35 @@
 ---
-title: "Besluit reserve-overdracht N.S.-personeel"
+title: "Besluit van 24 februari 1988, houdende de wijze van vaststelling van de wiskundige reserve bedoeld in artikel N 6 en van de tijd bedoeld in artikel N 9 van de Spoorwegpensioenwet"
 identifier: "BWBR0004300"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004300"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004300"
+soort: "AMvB"
+stam_id: "940173"
+version_id: "1374182"
+internal_id: "C1374181"
+label_id: "911724"
+dtd_version: "2.0"
+original_entry_into_force: "1987-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004300/2013-01-01/0"
+intitule_bron: "Stb.1988-153"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-02-24"
+intitule_status: "goed"
+original_publication: "Stb.1988-153"
+original_signed_date: "1988-02-24"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1987-12-01"
+jci_1_3: "jci1.3:c:BWBR0004300&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0004300&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit reserve-overdracht N.S.-personeel"
+signed_date: "1988-02-24"
+entry_into_force: "1987-12-01"
 ---
-
 # Besluit van 24 februari 1988, houdende de wijze van vaststelling van de wiskundige reserve bedoeld in artikel N 6 en van de tijd bedoeld in artikel N 9 van de Spoorwegpensioenwet
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 22 september 1987, nr. AW87/U791, Directoraat-Generaal Management en Personeelsbeleid, Directie Arbeidsvoorwaarden, Hoofdafdeling Pensioenen en Wachtgelden;
@@ -24,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan onder:
 
@@ -40,7 +62,7 @@ Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan 
 
 - f. rentestandskorting: korting op de contante waarde ter verrekening van overrente boven de rekenrente die in aanmerking is genomen bij de bepaling van de contante-waardefactor.
 
-#### Artikel 2. Pensioenaanspraken
+##### Artikel 2. Pensioenaanspraken
 
 1. De wiskundige reserve heeft uitsluitend betrekking op uitzicht op ouderdomspensioen, weduwenpensioen en bijzonder weduwenpensioen. Onder weduwenpensioen wordt niet begrepen weduwnaarspensioen als bedoeld in artikel G 3 van de wet.
 
@@ -56,7 +78,7 @@ Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan 
 
 3. Voor de toepassing van dit artikel wordt uitgegaan van de bedragen die gelden op de datum waarop het verzoek tot overname of overdracht van de wiskundige reserve door het fonds is ontvangen. Wanneer het verzoek is ontvangen voor de datum waarop betrokkene deelgenoot is geworden, dan wel waarop zijn deelgenootschap is geëindigd, treedt die datum in de plaats van de datum bedoeld in de eerste volzin.
 
-#### Artikel 3. Contante-waardefactoren
+##### Artikel 3. Contante-waardefactoren
 
 1. Voor de toepassing van dit besluit worden de contante-waardefactoren gebruikt die Onze Minister vaststelt ter berekening van de contante waarden van:
 
@@ -78,7 +100,7 @@ Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan 
 
 4. De tabellen van contante-waardefactoren, vastgesteld voor oplopende leeftijden in gehele jaren, worden gepubliceerd in de **Nederlandse Staatscourant** en treden in werking met ingang van de eerste kalendermaand na de datum van uitgifte van de **Staatscourant** waarin zij worden geplaatst.
 
-#### Artikel 4. Leeftijd
+##### Artikel 4. Leeftijd
 
 1. De contante-waardefactoren voor leeftijden in gebroken jaren worden verkregen door lineaire interpolatie in de tabellen bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01).
 
@@ -88,13 +110,13 @@ Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan 
 
 4. Tenzij uit de desbetreffende bepalingen het tegendeel blijkt, wordt ten aanzien van de echtgenoot of gescheiden echtgenoot van de deelgenoot of gewezen deelgenoot aangenomen dat de vrouw drie jaar jonger is dan de man.
 
-#### Artikel 5. Burgerlijke staat
+##### Artikel 5. Burgerlijke staat
 
 Voor de toepassing van dit besluit wordt de burgerlijke staat van betrokkene bepaald naar zijn staat op de datum waarop hij deelgenoot is geworden, dan wel waarop zijn deelgenootschap is geëindigd.
 
 #### § 2. Overdracht van wiskundige reserve
 
-#### Artikel 6. Ouderdomspensioen ongehuwde vrouw
+##### Artikel 6. Ouderdomspensioen ongehuwde vrouw
 
 De wiskundige reserve van het ouderdomspensioen bedraagt voor een y-jarige vrouwelijke gewezen deelgenoot die ongehuwd is:
 
@@ -104,7 +126,7 @@ OP = het bedrag van het ouderdomspensioen waarop uitzicht bestaat;
 
 = de contante-waardefactor per een gulden uitgesteld ouderdomspensioen op het leven van een y-jarige vrouw, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a).
 
-#### Artikel 7. Ouderdomspensioen gehuwde vrouw
+##### Artikel 7. Ouderdomspensioen gehuwde vrouw
 
 De wiskundige reserve van het ouderdomspensioen bedraagt voor een y-jarige vrouwelijke gewezen deelgenoot die gehuwd is:
 
@@ -118,7 +140,7 @@ GA = het bedrag van de gehuwdenaftrek verkregen door vermenigvuldiging van de di
 
 = de contante-waardefactor per een gulden gehuwdenaftrek op het leven van een y-jarige vrouw en haar x-jarige echtgenoot, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), van de vrouw.
 
-#### Artikel 8. Ouderdomspensioen ongehuwde man
+##### Artikel 8. Ouderdomspensioen ongehuwde man
 
 Behoudens [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=2&artikel=11&z=2013-01-01&g=2013-01-01), bedraagt de wiskundige reserve van het ouderdomspensioen voor een x-jarige mannelijke gewezen deelgenoot die ongehuwd is:
 
@@ -128,7 +150,7 @@ OP = het bedrag van het ouderdomspensioen waarop uitzicht bestaat;
 
 = de contante-waardefactor per een gulden uitgesteld ouderdomspensioen op het leven van een x-jarige man, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a).
 
-#### Artikel 9. Ouderdomspensioen gehuwde man
+##### Artikel 9. Ouderdomspensioen gehuwde man
 
 De wiskundige reserve van het ouderdomspensioen bedraagt voor een x-jarige mannelijke gewezen deelgenoot die gehuwd is:
 
@@ -142,7 +164,7 @@ GA = het bedrag van de gehuwdenaftrek verkregen door vermenigvuldiging van de di
 
 = de contante-waardefactor per een gulden gehuwdenaftrek op het leven van een x-jarige man en zijn y-jarige echtgenote, ingaande bij het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), van de man.
 
-#### Artikel 10. Weduwenpensioen
+##### Artikel 10. Weduwenpensioen
 
 1. De wiskundige reserve van het weduwenpensioen, niet zijnde een bijzonder weduwenpensioen, bedraagt voor een x-jarige mannelijke gewezen deelgenoot die gehuwd is:
 
@@ -156,7 +178,7 @@ WP = het bedrag van het weduwenpensioen waarop recht zou bestaan, indien de gewe
 
 2. Indien recht zou bestaan op zowel weduwenpensioen als bijzonder weduwenpensioen, wordt de wiskundige reserve van het bijzonder weduwenpensioen in mindering gebracht op de wiskundige reserve van het weduwenpensioen overeenkomstig het eerste lid.
 
-#### Artikel 11. Bijzonder weduwenpensioen
+##### Artikel 11. Bijzonder weduwenpensioen
 
 1. De wiskundige reserve van het bijzonder weduwenpensioen bedraagt voor een x-jarige mannelijke gewezen deelgenoot:
 
@@ -170,7 +192,7 @@ WP = het bedrag van het bijzonder weduwenpensioen waarop recht zou bestaan, indi
 
 #### § 3. Overname van wiskundige reserve
 
-#### Artikel 12
+##### Artikel 12
 
 1. De tijd bedoeld in artikel N 9, vierde lid, van de wet is gelijk aan:
 
@@ -184,7 +206,7 @@ CWP = de contante waarde van het ouderdomspensioen per dienstjaar, vastgesteld m
 
 #### § 4. Rentestandskorting
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien de pensioeninstantie bedoeld in artikel N 6, derde lid, van de wet bij overname van een wiskundige reserve van het fonds een rentestandskorting toepast, wordt de over te dragen wiskundige reserve vermenigvuldigd met de factor (100 - X) : 100.
 
@@ -221,7 +243,7 @@ Onder aflossingskoers wordt verstaan de koers waartegen algehele aflossing kan g
 
 #### § 5. Bijzondere gevallen
 
-#### Artikel 14
+##### Artikel 14
 
 1. Voor groepen van gevallen waarin toepassing van dit besluit tot een naar het oordeel van de directie onredelijke uitkomst leidt, is de directie bevoegd, na goedkeuring van de Raad van toezicht, ten gunste van belanghebbenden een regeling te treffen die met de strekking van dit besluit overeenkomt.
 
@@ -229,19 +251,19 @@ Onder aflossingskoers wordt verstaan de koers waartegen algehele aflossing kan g
 
 #### § 6. Overgangs- en slotbepalingen
 
-#### Artikel 15. Overgangsbepalingen
+##### Artikel 15. Overgangsbepalingen
 
 De tabellen bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01), die voor de eerste maal na de inwerkingtreding van dit besluit worden vastgesteld, werken terug tot en met het tijdstip genoemd in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=6&artikel=17&z=2013-01-01&g=2013-01-01).
 
-#### Artikel 16
+##### Artikel 16
 
 Wanneer [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=3&artikel=12&z=2013-01-01&g=2013-01-01) toepassing vindt ten aanzien van een deelgenoot wiens deelgenootschap is aangevangen voor 1 januari 1986 wordt de middelsom bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&paragraaf=3&artikel=12&z=2013-01-01&g=2013-01-01), berekend met toepassing van artikel F 5, vierde en vijfde lid, van de wet.
 
-#### Artikel 17. Slotbepalingen
+##### Artikel 17. Slotbepalingen
 
 Dit besluit treedt in werking met ingang van de twintigste dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot en met 1 december 1987.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit kan worden aangehaald als Besluit reserve-overdracht N.S.-personeel.
 

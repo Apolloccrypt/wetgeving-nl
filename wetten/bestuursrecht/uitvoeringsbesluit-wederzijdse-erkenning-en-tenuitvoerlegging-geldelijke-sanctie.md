@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie"
+title: "Besluit van 30 oktober 2007, houdende regels ter uitvoering van de Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties (Uitvoeringsbesluit wederzijdse erkenning en tenuitvoerlegging geldelijke sancties)"
 identifier: "BWBR0022793"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022793"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022793"
+soort: "AMvB"
+stam_id: "9269953"
+version_id: "14873392"
+internal_id: "C20240651"
+label_id: "9248514"
+dtd_version: "2.0"
+original_entry_into_force: "2007-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022793/2020-01-01/0"
+intitule_bron: "Stb.2007-433"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-10-30"
+intitule_published: "2007-11-08"
+intitule_in_force: "2007-11-08"
+intitule_status: "goed"
+original_publication: "Stb.2007-433"
+original_signed_date: "2007-10-30"
+original_published_date: "2007-11-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2007-433"
+entry_into_force_date: "2007-12-01"
+jci_1_3: "jci1.3:c:BWBR0022793&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0022793&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie"
+signed_date: "2007-10-30"
+entry_into_force: "2007-12-01"
 ---
-
 # Besluit van 30 oktober 2007, houdende regels ter uitvoering van de Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties (Uitvoeringsbesluit wederzijdse erkenning en tenuitvoerlegging geldelijke sancties)
 
 Op de voordracht van Onze Minister van Justitie van 23 februari 2007; nr. 5470921/07/6;
@@ -22,11 +48,11 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop de Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 Onze Minister voor Rechtsbescherming draagt zorg voor de ondersteuning van de officier van justitie bij zijn taken met betrekking tot de [Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie](https://wetten.overheid.nl/jci1.3:c:BWBR0022604).
 
-#### Artikel 2
+##### Artikel 2
 
 Het model van het certificaat, bedoeld in de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&artikel=7), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&artikel=17), en [31, eerste lid, van de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&artikel=31), wordt als volgt vastgesteld:
 
@@ -80,13 +106,13 @@ Het model van het certificaat, bedoeld in de [artikelen 7, eerste lid](https://w
 
 - 4. Gelieve voor het in punt 3.1b, 3.2 of 3.3 aangekruiste vakje te vermelden op welke wijze aan de desbetreffende voorwaarde is voldaan: .......................................................................................................................... .......................................................................................................................... ..............................................................................................
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een certificaat dat is afgegeven door de bevoegde autoriteit van een andere lidstaat en wordt meegezonden met de beslissing waarbij een geldelijke sanctie is opgelegd of met een beslissing tot confiscatie welke in Nederland moet worden erkend en ten uitvoer gelegd, is gesteld in de Nederlandse taal of, indien Nederland zulks heeft meegedeeld in een bij het secretariaat-generaal van de Raad van de Europese Unie neergelegde verklaring, in een van de in die verklaring genoemde talen.
 
 2. Een certificaat dat is afgegeven door de officier van justitie en wordt meegezonden met een beslissing waarbij een geldelijke sanctie is opgelegd of met een beslissing tot confiscatie, is gesteld in de officiële taal of een van de officiële talen van de lidstaat waaraan de beslissing met het oog op de tenuitvoerlegging aldaar wordt gezonden dan wel, indien die lidstaat zulks heeft meegedeeld in een bij het secretariaat-generaal van de Raad van de Europese Unie neergelegde verklaring, in een van de in die verklaring genoemde talen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De lijst, bedoeld in [artikel 13, tweede lid, van de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&artikel=13), luidt als volgt:
 
@@ -170,15 +196,15 @@ Het model van het certificaat, bedoeld in de [artikelen 7, eerste lid](https://w
 
 2. De lijst, bedoeld in [artikel 24, tweede lid, van de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&artikel=24), bestaat uit de feiten en soorten van feiten, genoemd in de onderdelen 1 tot en met 32 van het eerste lid.
 
-#### Artikel 5
+##### Artikel 5
 
 De opbrengst van de geconfisqueerde voorwerpen wordt overeenkomstig [artikel 28 van de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&artikel=28) verdeeld. Bij ministeriële regeling worden voorschriften gegeven met betrekking tot de wijze waarop deze verdeling plaatsvindt.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 

@@ -1,20 +1,46 @@
 ---
-title: "Warenwetregeling drukapparatuur 2016"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 11 juli 2016, 2016-0000163111, houdende vaststelling van de Warenwetregeling drukapparatuur 2016, wijziging van de Warenwetregeling informatie- en rapportagebepalingen SZW-besluiten en wijziging van de Warenwetregeling machines (Warenwetregeling drukapparatuur 2016)"
 identifier: "BWBR0038317"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038317"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038317"
+soort: "ministeriele-regeling"
+stam_id: "13705233"
+version_id: "23478422"
+internal_id: "C33817621"
+label_id: "13671784"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038317/2026-01-01/0"
+intitule_bron: "Stcrt.2016-37419"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-07-11"
+intitule_published: "2016-07-18"
+intitule_in_force: "2016-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-37419"
+original_signed_date: "2016-07-11"
+original_published_date: "2016-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-37419"
+entry_into_force_date: "2016-07-19"
+jci_1_3: "jci1.3:c:BWBR0038317&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0038317&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetregeling drukapparatuur 2016"
+signed_date: "2016-07-11"
+entry_into_force: "2016-07-19"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 11 juli 2016, 2016-0000163111, houdende vaststelling van de Warenwetregeling drukapparatuur 2016, wijziging van de Warenwetregeling informatie- en rapportagebepalingen SZW-besluiten en wijziging van de Warenwetregeling machines (Warenwetregeling drukapparatuur 2016)
 
 Gelet op de [artikelen 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=16), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=19), [21, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=21), [22, eerste, zevende en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=22), [23, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=23), [26, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=26), [27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=27), [28, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=28), [31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=31), [33, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=33), en [35, tweede lid, van het Warenwetbesluit drukapparatuur 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=35);
 
 Besluit:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - j. **termijn:** de toegestane tijdsduur tussen de eerste keuring voor ingebruikneming onderscheidenlijk intredekeuring en de eerste herkeuring dan wel de toegestane tijdsduur tussen twee opeenvolgende herkeuringen.
 
-#### Artikel 2. Drukapparatuur aangewezen voor keuring voor ingebruikneming en herkeuring
+##### Artikel 2. Drukapparatuur aangewezen voor keuring voor ingebruikneming en herkeuring
 
 Drukvaten en installatieleidingen, alsmede de bijbehorende veiligheidsappendages waardoor zij worden beveiligd, en bijbehorende onder druk staande appendages zijn aangewezen voor en worden onderworpen aan de keuring voor ingebruikneming, bedoeld in [artikel 21, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=21), en de herkeuring, bedoeld in [artikel 22, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=22), voor zover het betreft:
 
@@ -84,7 +110,7 @@ Drukvaten en installatieleidingen, alsmede de bijbehorende veiligheidsappendages
 
 - b. categorie I voor installatieleidingen met een vloeistof ingedeeld in groep 2, bedoeld in artikel 13 van de richtlijn, die gevaarlijk is voor het aquatisch milieu: acuut toxisch categorie 1 en chronisch toxisch categorie 1 en 2.
 
-#### Artikel 3. Beperkingen en uitzonderingen bij de keuring voor ingebruikneming en herkeuring
+##### Artikel 3. Beperkingen en uitzonderingen bij de keuring voor ingebruikneming en herkeuring
 
 1. De keuring voor ingebruikneming, bedoeld in [artikel 21, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=21) kan, behalve door een NL-conformiteitsbeoordelingsinstantie, ook worden uitgevoerd door:
 
@@ -106,7 +132,7 @@ Drukvaten en installatieleidingen, alsmede de bijbehorende veiligheidsappendages
 
 4. Van de herkeuring, bedoeld in [artikel 22, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=22), zijn uitgezonderd drukvaten met lucht met een volume tot en met 2.500 liter en een maximaal toelaatbare druk PS tot maximaal 30 bar.
 
-#### Artikel 4. Verklaringen
+##### Artikel 4. Verklaringen
 
 1. In de verklaring van ingebruikneming, bedoeld in [artikel 21, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=21), worden de volgende gegevens opgenomen:
 
@@ -188,7 +214,7 @@ Drukvaten en installatieleidingen, alsmede de bijbehorende veiligheidsappendages
 
 - k. de ondertekening en de datum.
 
-#### Artikel 5. Termijn van herkeuring
+##### Artikel 5. Termijn van herkeuring
 
 1. De vaste termijn voor herkeuring van drukapparatuur, bedoeld in [artikel 22, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=22) is:
 
@@ -212,7 +238,7 @@ Drukvaten en installatieleidingen, alsmede de bijbehorende veiligheidsappendages
 
 5. De NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers kunnen voor drukvaten met een maximaal volume (V) van 40.000 liter en bestemd voor niet-industriële toepassing van propaan, butaan of een mengsel van beide een vaste termijn van 12 jaar voor het inwendige onderzoek, bedoeld in [artikel 22, zesde lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=22), vaststellen.
 
-#### Artikel 6. Jaar van herkeuring
+##### Artikel 6. Jaar van herkeuring
 
 1. Bij de bepaling van het jaar waarin de eerste herkeuring moet plaatsvinden, wordt uitgegaan van de datum waarop de verklaring van ingebruikneming of verklaring van intredekeuring en ingebruikneming is afgegeven.
 
@@ -222,7 +248,7 @@ Drukvaten en installatieleidingen, alsmede de bijbehorende veiligheidsappendages
 
 4. Indien een verklaring als bedoeld in het eerste lid, niet is vereist, wordt voor de bepaling van het jaar waarin de eerste herkeuring moet plaatsvinden de datum van afgifte van de EG-verklaring van overeenstemming of EU-conformiteitsverklaring, bedoeld in [artikel 25, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=25), als uitgangsdatum genomen.
 
-#### Artikel 7. Termijnverlenging en uitvoering
+##### Artikel 7. Termijnverlenging en uitvoering
 
 1. Termijnverlenging kan worden verleend voor drukapparatuur, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=5&z=2026-01-01&g=2026-01-01), met uitzondering van de in artikel 5, eerste lid, onderdeel f, genoemde flessen voor ademhalingstoestellen en de in artikel 5, tweede lid, genoemde veiligheidsappendages, met een vaste termijn langer dan 2 jaar.
 
@@ -250,7 +276,7 @@ Drukvaten en installatieleidingen, alsmede de bijbehorende veiligheidsappendages
 
 10. De NL-conformiteitsbeoordelingsinstantie, bedoeld in het zesde lid, houdt toezicht op de uitvoering van de overeengekomen inspecties tijdens de verlengde termijn.
 
-#### Artikel 8. Termijnflexibilisering en uitvoering
+##### Artikel 8. Termijnflexibilisering en uitvoering
 
 1. Termijnflexibilisering kan worden verleend voor de drukapparatuur, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=7&z=2026-01-01&g=2026-01-01).
 
@@ -282,11 +308,11 @@ Drukvaten en installatieleidingen, alsmede de bijbehorende veiligheidsappendages
 
 9. In afwijking van het eerste lid kan voor afblazende, mechanische veiligheids-appendages termijnflexibilisering worden verleend met een maximumtermijn van 10 jaar.
 
-#### Artikel 9. Overschrijding termijn van herkeuring
+##### Artikel 9. Overschrijding termijn van herkeuring
 
 De NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers kunnen, indien dat om bijzondere redenen noodzakelijk is, toestaan dat na afloop van een termijn het jaar van herkeuring met maximaal 6 maanden wordt overschreden. Voor de vaststelling van het eerstvolgende jaar van herkeuring wordt geen rekening gehouden met de toegestane maximale overschrijding van 6 maanden.
 
-#### Artikel 10. Verkorting termijn van herkeuring
+##### Artikel 10. Verkorting termijn van herkeuring
 
 De NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers kunnen een kortere termijn vaststellen dan de vaste termijnen, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038317&artikel=5&z=2026-01-01&g=2026-01-01), of het tijdstip nader aanduiden waarop de herkeuring in het betreffende jaar plaatsvindt. Bepalend daarvoor kunnen zijn:
 
@@ -298,15 +324,15 @@ De NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers kun
 
 - d. de constructieve uitvoering van de drukapparatuur.
 
-#### Artikel 11. Merktekens
+##### Artikel 11. Merktekens
 
 Op flessen voor ademhalingstoestellen worden de datum van herkeuring en het identificatiemerk van de NL-conformiteitsbeoordelingsinstantie of de NL-keuringsdienst van gebruikers goed leesbaar en onuitwisbaar aangebracht.
 
-#### Artikel 12. Intredekeuring
+##### Artikel 12. Intredekeuring
 
 De NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers hanteren bij de beoordelingen en onderzoeken, bedoeld in [artikel 23, zesde lid, onderdeel a en b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=23), als basis de actuele versie van de oorspronkelijk toegepaste normen.
 
-#### Artikel 13. Wijzigingen en reparaties
+##### Artikel 13. Wijzigingen en reparaties
 
 1. Bij de uitvoering van wijzigingen en reparaties aan drukapparatuur, bedoeld in [artikel 26, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=26), beoordelen de NL-conformiteits-beoordelingsinstantie en NL-keuringsdienst van gebruikers het ontwerp en houden toezicht op de fabricage en eindcontrole van de wijzigingen en reparaties.
 
@@ -314,13 +340,13 @@ De NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers han
 
 3. Indien de drukapparatuur, bedoeld in het eerste lid, niet overeenkomstig bijlage II bij de richtlijn wordt ingedeeld, wordt bij de toepassing van de essentiële veiligheidseisen, bedoeld in bijlage I bij de richtlijn, categorie IV gehanteerd.
 
-#### Artikel 14. Inspectieafdeling van de gebruiker
+##### Artikel 14. Inspectieafdeling van de gebruiker
 
 1. De inspectieafdeling van de gebruiker beschikt over een overeenkomst met een NL-conformiteitsbeoordelingsinstantie voor de beoordeling van het gecertificeerde kwaliteitsmanagementsysteem en de uitoefening van het toezicht door de NL-conformiteitsbeoordelingsinstantie, bedoeld in het vierde en vijfde lid, van [artikel 36 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=36).
 
 2. De inspectieafdeling van de gebruiker beschikt over voldoende vaste personeelsleden met voldoende vakbekwaamheid voor het uitoefenen van haar taken.
 
-#### Artikel 15. Aanwijzingskavels voor een NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers
+##### Artikel 15. Aanwijzingskavels voor een NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers
 
 1. Bij de aanwijzing, bedoeld in [artikel 33 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=33), voor keuringen bij de ingebruikneming en in de gebruiksfase wordt de volgende indeling gehanteerd:
 
@@ -364,23 +390,23 @@ De NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers han
 
 6. Een NL-keuringsdienst van gebruikers kan desgevraagd voor de Aanwijzingskavel A, B, C, D of E, bedoeld in het derde lid, of combinaties daarvan worden aangewezen.
 
-#### Artikel 16. Wijziging [Warenwetregeling informatie- en rapportagebepalingen SZW-besluiten](https://wetten.overheid.nl/jci1.3:c:BWBR0038031)
+##### Artikel 16. Wijziging [Warenwetregeling informatie- en rapportagebepalingen SZW-besluiten](https://wetten.overheid.nl/jci1.3:c:BWBR0038031)
 
 Wijzigt de Warenwetregeling informatie- en rapportagebepalingen SZW-besluiten.
 
-#### Artikel 17. Wijziging [Warenwetregeling machines](https://wetten.overheid.nl/jci1.3:c:BWBR0006022)
+##### Artikel 17. Wijziging [Warenwetregeling machines](https://wetten.overheid.nl/jci1.3:c:BWBR0006022)
 
 Wijzigt de Warenwetregeling machines.
 
-#### Artikel 18. Intrekking
+##### Artikel 18. Intrekking
 
 De [Warenwetregeling drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010889) wordt ingetrokken.
 
-#### Artikel 19. Inwerkingtreding
+##### Artikel 19. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 19 juli 2016.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Warenwetregeling drukapparatuur 2016.
 

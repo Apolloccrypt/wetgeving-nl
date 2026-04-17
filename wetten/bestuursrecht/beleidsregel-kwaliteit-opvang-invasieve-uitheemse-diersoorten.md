@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel kwaliteit opvang invasieve uitheemse diersoorten"
+title: "Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 mei 2018, nr. WJZ/18020186, inzake de kwaliteit van de opvang van invasieve uitheemse diersoorten (Beleidsregel kwaliteit opvang invasieve uitheemse diersoorten)"
 identifier: "BWBR0040911"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-05-17
-laatste_update: 2018-05-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040911"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2018-05-17"
+last_updated: "2018-05-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040911"
+soort: "beleidsregel"
+stam_id: "14611573"
+version_id: "25017852"
+internal_id: "C35781731"
+label_id: "14565144"
+dtd_version: "2.0"
+original_entry_into_force: "2018-05-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040911/2018-05-17/0"
+intitule_bron: "Stcrt.2018-28120"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-05-14"
+intitule_published: "2018-05-16"
+intitule_in_force: "2018-05-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-28120"
+original_signed_date: "2018-05-14"
+original_published_date: "2018-05-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-28120"
+entry_into_force_date: "2018-05-17"
+jci_1_3: "jci1.3:c:BWBR0040911&z=2018-05-17&g=2018-05-17"
+jci_1_0: "1.0:c:BWBR0040911&g=2018-05-17"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel kwaliteit opvang invasieve uitheemse diersoorten"
+signed_date: "2018-05-14"
+entry_into_force: "2018-05-17"
 ---
-
 # Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 mei 2018, nr. WJZ/18020186, inzake de kwaliteit van de opvang van invasieve uitheemse diersoorten (Beleidsregel kwaliteit opvang invasieve uitheemse diersoorten)
 
 Gelet op de artikelen 7, 17, 19 en 20 van de Verordening (EU) nr. 1143/2014 van het Europees Parlement en de Raad van 22 oktober 2014 betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten (PbEU 2014 L 317);
@@ -16,7 +42,7 @@ Gelet op de [artikelen 3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&art
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - –. **Verordening invasieve uitheemse soorten:** Verordening (EU) nr. 1143/2014 van het Europees Parlement en de Raad van de Europese Unie van 22 oktober 2014 betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten (PbEU 2014 L 317).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze beleidsregel geldt voor de verlening van een ontheffing van [artikel 3.37 van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.37), in samenhang met [artikel 3.29 van de Regeling natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0038668&artikel=3.29), op grond van [artikel 3.40 van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.40), aan opvangcentra die dieren behorende tot soorten die worden genoemd op de Unielijst opvangen of gaan opvangen.
 
@@ -32,7 +58,7 @@ In deze beleidsregel wordt verstaan onder:
 
 3. Een ontheffing heeft geen betrekking op de verbodsbepalingen van artikel 7, eerste lid, aanhef in samenhang met onderdeel a, c, e, f, g of h, van de Verordening invasieve uitheemse soorten.
 
-#### Artikel 3
+##### Artikel 3
 
 Een ontheffing als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040911&artikel=2&z=2018-05-17&g=2018-05-17) wordt slechts verleend indien:
 
@@ -46,15 +72,15 @@ Een ontheffing als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BW
 
 - c. het opvangcentrum een register voert overeenkomstig [artikel 4.9 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.9).
 
-#### Artikel 4
+##### Artikel 4
 
 Aan een ontheffing als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040911&artikel=1&z=2018-05-17&g=2018-05-17) wordt het handelen overeenkomstig het protocol dat is opgenomen in de bijlage bij deze beleidsregel als voorschrift verbonden.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel kwaliteit opvang invasieve uitheemse diersoorten.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 

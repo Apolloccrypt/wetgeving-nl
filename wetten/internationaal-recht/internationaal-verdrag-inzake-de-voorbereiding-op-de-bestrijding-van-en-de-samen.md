@@ -1,13 +1,38 @@
 ---
 title: "Internationaal Verdrag inzake de voorbereiding op, de bestrijding van en de samenwerking bij olieverontreiniging"
 identifier: "BWBV0002364"
-categorie: "Internationaal recht"
-publicatiedatum: 1995-05-13
-laatste_update: 1995-05-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002364"
+country: "nl"
+rank: "verdrag"
+publication_date: "1995-05-13"
+last_updated: "1995-05-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002364"
+soort: "verdrag"
+stam_id: "10002846633"
+version_id: "10002846942"
+internal_id: "C10006986921"
+label_id: "10002834614"
+dtd_version: "2.0"
+original_entry_into_force: "1995-05-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002364/1995-05-13/0"
+intitule_bron: "Trb.1992-1"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-12-01"
+intitule_published: "1992-01-03"
+intitule_in_force: "1995-01-27"
+intitule_status: "goed"
+original_publication: "Trb.1992-1"
+original_signed_date: "1994-12-01"
+original_published_date: "1992-01-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-1"
+entry_into_force_date: "1995-05-13"
+jci_1_3: "jci1.3:c:BWBV0002364&z=1995-05-13&g=1995-05-13"
+jci_1_0: "1.0:c:BWBV0002364&g=1995-05-13"
+citeertitel_status: "officieel"
+signed_date: "1994-12-01"
+entry_into_force: "1995-05-13"
 ---
-
 # Internationaal Verdrag inzake de voorbereiding op, de bestrijding van en de samenwerking bij olieverontreiniging
 
 De Partijen bij dit Verdrag,
@@ -38,7 +63,7 @@ Overwegende dat deze doelstellingen het best kunnen worden verwezenlijkt door mi
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Algemene bepalingen
+##### Artikel 1. Algemene bepalingen
 
 1. De Partijen verplichten zich ertoe, afzonderlijk of gezamenlijk, alle passende maatregelen te nemen, in overeenstemming met de bepalingen van dit Verdrag en de Bijlage daarbij, ter voorbereiding op en ter bestrijding van een voorval van olieverontreiniging.
 
@@ -46,7 +71,7 @@ Zijn het volgende overeengekomen:
 
 3. Dit Verdrag is niet van toepassing op oorlogsschepen, schepen in gebruik als marine-hulpschepen of andere schepen in eigendom van of in beheer bij een Staat, die tijdelijk uitsluitend worden ingezet voor niet-commerciële overheidsdienst. Elke Partij waarborgt evenwel, door het nemen van passende maatregelen die de werkzaamheden of de operationele kwaliteiten van dergelijke schepen in haar eigendom of beheer niet aantasten, dat dergelijke schepen, voor zover redelijk en uitvoerbaar, opereren in overeenstemming met dit Verdrag.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -64,7 +89,7 @@ Voor de toepassing van dit Verdrag:
 
 - 7. wordt onder „Secretaris-Generaal” verstaan: de Secretaris-Generaal van de Organisatie.
 
-#### Artikel 3. Rampenplannen voor olieverontreiniging
+##### Artikel 3. Rampenplannen voor olieverontreiniging
 
 - a. Elke Partij verlangt dat schepen die gerechtigd zijn om onder haar vlag te varen, een rampenplan voor olieverontreiniging aan boord hebben, zoals voorgeschreven door en in overeenstemming met de bepalingen die de Organisatie daartoe heeft aangenomen.
 
@@ -74,7 +99,7 @@ Voor de toepassing van dit Verdrag:
 
 3. Elke Partij verlangt dat de autoriteiten of exploitanten die verantwoordelijk zijn voor onder haar rechtsmacht vallende zeehavens en inrichtingen voor de overslag van olie waarvan zij meent dat deze daarvoor in aanmerking komen, beschikken over rampenplannen voor olieverontreiniging of soortgelijke regelingen die zijn afgestemd op het in overeenstemming met artikel 6 ingestelde nationale systeem en goedgekeurd in overeenstemming met door de bevoegde nationale autoriteit vastgestelde procedures.
 
-#### Artikel 4. Meldingsprocedures in geval van olieverontreiniging
+##### Artikel 4. Meldingsprocedures in geval van olieverontreiniging
 
 1. Elke Partij:
 
@@ -98,7 +123,7 @@ Voor de toepassing van dit Verdrag:
 
 2. Meldingen ingevolge het eerste lid, letter a, punt i, geschieden in overeenstemming met de door de Organisatie opgestelde voorschriften en op grond van de door de Organisatie aangenomen richtlijnen en algemene beginselen. Meldingen ingevolge het eerste lid, letter a, punt ii, en ingevolge het eerste lid, letters b, c en d, geschieden in overeenstemming met de door de Organisatie aangenomen richtlijnen en algemene beginselen, voor zover van toepassing.
 
-#### Artikel 5. Te nemen maatregelen na ontvangst van een melding van olieverontreiniging
+##### Artikel 5. Te nemen maatregelen na ontvangst van een melding van olieverontreiniging
 
 1. Telkens wanneer een Partij een in artikel 4 bedoelde melding of inlichtingen uit andere bronnen over verontreiniging ontvangt:
 
@@ -118,7 +143,7 @@ Voor de toepassing van dit Verdrag:
 
 4. De Partijen dienen, voor zover mogelijk, gebruik te maken van het door de Organisaties ontwikkelde meldsysteem in geval van olieverontreiniging wanneer zij informatie uitwisselen en zich in verbinding stellen met andere Staten en met de Organisatie.
 
-#### Artikel 6. Nationale en regionale systemen voor voorbereiding en bestrijding
+##### Artikel 6. Nationale en regionale systemen voor voorbereiding en bestrijding
 
 1. Elke Partij zet een nationaal systeem op om voorvallen van olieverontreiniging onmiddellijk en doeltreffend te kunnen bestrijden. Dit systeem omvat ten minste:
 
@@ -150,7 +175,7 @@ Voor de toepassing van dit Verdrag:
 
 - c. haar nationale rampenplan.
 
-#### Artikel 7. Internationale samenwerking bij de bestrijding van verontreiniging
+##### Artikel 7. Internationale samenwerking bij de bestrijding van verontreiniging
 
 1. De Partijen komen overeen dat zij, voor zover zulks in hun vermogen ligt en de desbetreffende middelen beschikbaar zijn, op verzoek van een Partij die is of waarschijnlijk zal worden getroffen, samenwerken, advies geven, technische bijstand verlenen en materieel leveren ten behoeve van het bestrijden van een voorval van olieverontreiniging, wanneer de ernst van het voorval zulks rechtvaardigt. De financiering van de kosten die met die bijstand zijn gemoeid geschiedt op grond van de bepalingen vervat in de Bijlage bij dit Verdrag.
 
@@ -162,7 +187,7 @@ Voor de toepassing van dit Verdrag:
 
 - b. de vlotte verplaatsing naar, via en vanuit haar grondgebied van personeel, vrachten, materiaal en apparatuur bedoeld onder letter a.
 
-#### Artikel 8. Onderzoek en ontwikkeling
+##### Artikel 8. Onderzoek en ontwikkeling
 
 1. De Partijen komen overeen, rechtstreeks of, indien van toepassing, via de Organisatie of de desbetreffende regionale organisaties of regelingen, samen te werken bij de bevordering van onderzoeks- en ontwikkelingsprogramma's en de uitwisseling van de resultaten daarvan, met betrekking tot de verbetering van de stand der techniek op het gebied van de voorbereiding op en de bestrijding van olieverontreiniging, met inbegrip van technologieën en technieken op het gebied van toezicht, indamming, terugwinning, verspreiding, opruiming en het anderszins beperken of verzachten van de gevolgen van olieverontreiniging, alsmede op het gebied van herstel.
 
@@ -172,7 +197,7 @@ Voor de toepassing van dit Verdrag:
 
 4. De Partijen komen overeen om via de Organisatie of andere bevoegde internationale organisaties het opstellen van normen voor onderling verenigbare oliebestrijdingstechnieken en -apparatuur te stimuleren.
 
-#### Artikel 9. Technische samenwerking
+##### Artikel 9. Technische samenwerking
 
 1. De Partijen verplichten zich ertoe om rechtstreeks of, indien van toepassing, via de Organisatie en andere internationale organen, wat de voorbereiding op en de bestrijding van olieverontreiniging betreft steun te verlenen aan Partijen die verzoeken om technische bijstand:
 
@@ -186,15 +211,15 @@ Voor de toepassing van dit Verdrag:
 
 2. De Partijen verplichten zich ertoe actief samen te werken, met inachtneming van hun nationale wetten, voorschriften en beleidslijnen, bij de overdracht van technologie op het gebied van de voorbereiding op en de bestrijding van olieverontreiniging.
 
-#### Artikel 10. Bevordering van bilaterale en multilaterale samenwerking bij de voorbereiding en bestrijding
+##### Artikel 10. Bevordering van bilaterale en multilaterale samenwerking bij de voorbereiding en bestrijding
 
 De Partijen streven ernaar bilaterale en multilaterale overeenkomsten te sluiten voor de voorbereiding op en de bestrijding van olieverontreiniging. Afschriften van dergelijke overeenkomsten worden toegezonden aan de Organisatie, die deze op verzoek aan de Partijen ter beschikking stelt.
 
-#### Artikel 11. Verhouding tot andere verdragen en internationale overeenkomsten
+##### Artikel 11. Verhouding tot andere verdragen en internationale overeenkomsten
 
 Geen enkele bepaling van dit Verdrag mag zodanig worden geïnterpreteerd dat daardoor de rechten of verplichtingen van een Partij uit hoofde van enig ander verdrag of enige andere internationale overeenkomst worden gewijzigd.
 
-#### Artikel 12. Institutionele regelingen
+##### Artikel 12. Institutionele regelingen
 
 1. De Partijen dragen de Organisatie op, behoudens haar instemming en de beschikbaarheid van voldoende middelen om dit te doen, om de volgende taken en werkzaamheden te verrichten:
 
@@ -228,11 +253,11 @@ Geen enkele bepaling van dit Verdrag mag zodanig worden geïnterpreteerd dat daa
 
 3. De bepalingen van dit artikel worden toegepast in overeenstemming met een door de Organisatie op te stellen en te toetsen programma.
 
-#### Artikel 13. Evaluatie van het Verdrag
+##### Artikel 13. Evaluatie van het Verdrag
 
 De Partijen evalueren binnen de Organisatie de doeltreffendheid van het Verdrag in het licht van de doelstellingen ervan, in het bijzonder met betrekking tot de beginselen die ten grondslag liggen aan de samenwerking en de bijstand
 
-#### Artikel 14. Wijzigingen
+##### Artikel 14. Wijzigingen
 
 1. Dit Verdrag kan worden gewijzigd door middel van een der in de volgende leden genoemde procedures.
 
@@ -278,7 +303,7 @@ De Partijen evalueren binnen de Organisatie de doeltreffendheid van het Verdrag 
 
 8. Een aanhangsel bij het Verdrag bevat alleen bepalingen van technische aard.
 
-#### Artikel 15. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 15. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Verdrag staat van 30 november 1990 tot en met 29 november 1991 open voor ondertekening op de zetel van de Organisatie en blijft daarna openstaan voor toetreding. Elke Staat kan Partij worden bij dit Verdrag door:
 
@@ -290,7 +315,7 @@ De Partijen evalueren binnen de Organisatie de doeltreffendheid van het Verdrag 
 
 2. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking twaalf maanden na de datum waarop ten minste vijftien Staten het zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring hebben ondertekend of de vereiste akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd in overeenstemming met artikel 15.
 
@@ -300,7 +325,7 @@ De Partijen evalueren binnen de Organisatie de doeltreffendheid van het Verdrag 
 
 4. Na de datum waarop een wijziging van dit Verdrag wordt geacht te zijn aanvaard ingevolge artikel 14, heeft elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding betrekking op het Verdrag zoals gewijzigd.
 
-#### Artikel 17. Opzegging
+##### Artikel 17. Opzegging
 
 1. Dit Verdrag kan te allen tijde door elke Partij worden opgezegd na het verstrijken van vijfjaar na de datum waarop dit Verdrag voor die Partij in werking treedt.
 
@@ -308,7 +333,7 @@ De Partijen evalueren binnen de Organisatie de doeltreffendheid van het Verdrag 
 
 3. Een opzegging wordt van kracht twaalf maanden na ontvangst van de kennisgeving van opzegging door de Secretaris-Generaal of na het verstrijken van een eventueel in de kennisgeving aangegeven langer tijdvak.
 
-#### Artikel 18. Depositaris
+##### Artikel 18. Depositaris
 
 1. Dit Verdrag wordt nedergelegd bij de Secretaris-Generaal.
 
@@ -326,7 +351,7 @@ De Partijen evalueren binnen de Organisatie de doeltreffendheid van het Verdrag 
 
 3. Zodra dit Verdrag in werking treedt, wordt een voor eensluidend gewaarmerkt afschrift daarvan door de Depositaris toegezonden aan de Secretaris-Generaal van de Verenigde Naties ter registratie en publicatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 19. Talen
+##### Artikel 19. Talen
 
 Dit Verdrag is opgesteld in een enkel exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 

@@ -1,13 +1,36 @@
 ---
 title: "Landelijk experimenteerkader Regionale Expertisecentra in oprichting"
 identifier: "BWBR0012240"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-02-21
-laatste_update: 2001-02-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012240"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2001-02-21"
+last_updated: "2001-02-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012240"
+soort: "beleidsregel"
+stam_id: "6460383"
+version_id: "11135662"
+internal_id: "C15053121"
+label_id: "6449084"
+original_entry_into_force: "2001-02-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012240/2001-02-21/0"
+intitule_bron: "Uitleg.2001-5/6"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-02-09"
+intitule_published: "2001-02-21"
+intitule_in_force: "2001-02-21"
+intitule_status: "goed"
+original_publication: "Uitleg.2001-5/6"
+original_signed_date: "2001-02-09"
+original_published_date: "2001-02-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-02-21"
+jci_1_3: "jci1.3:c:BWBR0012240&z=2001-02-21&g=2001-02-21"
+jci_1_0: "1.0:c:BWBR0012240&g=2001-02-21"
+citeertitel_status: "redactioneel"
+signed_date: "2001-02-09"
+entry_into_force: "2001-02-21"
 ---
-
 # Landelijk experimenteerkader Regionale Expertisecentra in oprichting
 
 ### 1. Inleiding

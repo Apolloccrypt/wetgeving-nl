@@ -1,13 +1,37 @@
 ---
 title: "Speelautomatenregeling 2000"
 identifier: "BWBR0011382"
-categorie: "Overig"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011382"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011382"
+soort: "ministeriele-regeling"
+stam_id: "4797023"
+version_id: "6603752"
+internal_id: "C7060991"
+label_id: "4775424"
+dtd_version: "2.0"
+original_entry_into_force: "2000-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011382/2014-01-01/0"
+intitule_bron: "Stcrt.2000-105"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-05-25"
+intitule_published: "2000-05-31"
+intitule_in_force: "2000-05-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-105"
+original_signed_date: "2000-05-25"
+original_published_date: "2000-05-31"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-06-01"
+jci_1_3: "jci1.3:c:BWBR0011382&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0011382&g=2014-01-01"
+citeertitel_status: "officieel"
+signed_date: "2000-05-25"
+entry_into_force: "2000-06-01"
 ---
-
 # Speelautomatenregeling 2000
 
 Gelet op de [artikelen 30a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30a), [30j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30j), [30o, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30o), [30q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30q), [30r, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30r) en [30x van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30x) en de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=6), [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=10), [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=12), [13, eerste lid, onder w, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=13), en [17, eerste lid, van het Speelautomatenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=17);
@@ -16,23 +40,23 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
 #### § 2. Kermisautomaten
 
-#### Artikel 2
+##### Artikel 2
 
 Als typen van speelautomaten als bedoeld in artikel 30a, tweede lid, van de wet worden aangewezen de automaten omschreven in bijlage I bij deze regeling.
 
 #### § 3. Exploitatievergunningen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 1. De in artikel 30j, eerste lid, van de wet bedoelde aan een vergunning verbonden voorschriften en beperkingen kunnen voor iedere afzonderlijke vergunning verschillend zijn, mits de omstandigheden van het geval hiertoe aanleiding geven.
 
@@ -52,13 +76,13 @@ Vervallen
 
 #### § 4.1. Formulieren
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
 #### § 4.2. Keuringsinstellingen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Als keuringsinstellingen als bedoeld in [artikel 30o, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30o) worden aangewezen onafhankelijke instellingen, gevestigd in een lidstaat van de Europese Unie dan wel in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, die voldoen aan de kwaliteitsnorm voor testlaboratoria ISO 17025 voor het testen van speelautomaten en die daartoe zijn geaccrediteerd door de Raad van Accreditatie of een gelijkwaardige buitenlandse accreditatie-instelling.
 
@@ -66,7 +90,7 @@ Vervallen
 
 #### § 4.3. Eisen toelating kansspelautomaten
 
-#### Artikel 7
+##### Artikel 7
 
 Het model van een kansspelautomaat voldoet aan de volgende eisen:
 
@@ -88,7 +112,7 @@ Het model van een kansspelautomaat voldoet aan de volgende eisen:
 
 - i. een teller als bedoeld in de [artikelen 12, eerste lid, onder](https://wetten.overheid.nl/jci1.3:c:BWBR0011382&paragraaf=6&artikel=12&z=2014-01-01&g=2014-01-01) hh, en 13, eerste lid, onder u, van het besluit, kan ten minste 99 999 spellen registreren.
 
-#### Artikel 8
+##### Artikel 8
 
 Het model van een kansspelautomaat niet bestemd voor opstelling in een speelautomatenhal of een speelcasino, voldoet aan de volgende eisen:
 
@@ -148,7 +172,7 @@ Het model van een kansspelautomaat niet bestemd voor opstelling in een speelauto
 
 - •. de tekst ‘Voorkom gokverslaving – speel met mate’.
 
-#### Artikel 9
+##### Artikel 9
 
 Het model van een kansspelautomaat bestemd voor opstelling in een speelautomatenhal, voldoet aan de volgende eisen:
 
@@ -168,7 +192,7 @@ Het model van een kansspelautomaat bestemd voor opstelling in een speelautomaten
 
 #### § 4.4. Merktekens
 
-#### Artikel 10
+##### Artikel 10
 
 1. Op verzoek van een houder van een toelating van een model speelautomaat verstrekt de raad van bestuur merktekens voor het betreffende model, tegen een vergoeding per merkteken van € 131 voor een kansspelautomaat en € 11 voor een behendigheidsautomaat.
 
@@ -180,25 +204,25 @@ Het model van een kansspelautomaat bestemd voor opstelling in een speelautomaten
 
 #### § 5. Afkeuringsmerk
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
 #### § 5. Afkeuringsmerk
 
-#### Artikel 12
+##### Artikel 12
 
 De regeling van de Staatssecretaris van Economische Zaken van 25 april 1989 (Stcrt. 82), houdende aanwijzing van de instelling belast met het onderzoek met het oog op de toelating van het model van een speelautomaat, wordt ingetrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 De Speelautomatenregeling wordt ingetrokken.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling treedt in werking met ingang van het tijdstip waarop het [Speelautomatenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011373) in werking treedt.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling wordt aangehaald als: Speelautomatenregeling 2000.
 
@@ -206,7 +230,7 @@ Deze regeling wordt aangehaald als: Speelautomatenregeling 2000.
 
 **Bijlage I. Typen speelautomaten, bestemd om op kermissen te worden gebruikt, als bedoeld in artikel 30a, tweede lid, van de Wet op de kansspelen**
 
-#### a. Naam: grijpkranen en hiervan afgeleide varianten
+##### a. Naam: grijpkranen en hiervan afgeleide varianten
 
 Omschrijving: In een bak bevinden zich een aantal voorwerpen. Na inworp kan de speler een in de lengte- en in de breedterichting beweegbare grijpinstallatie in beweging brengen, die zich boven de bak bevindt. De speler moet trachten door goede positionering van de installatie met de grijper een voorwerp uit de bak te lichten. Dit voorwerp is dan gewonnen.
 
@@ -216,29 +240,29 @@ De voorwerpen bewegen zich in een carrousel. Een speler kan een voorwerp winnen 
 
 De voorwerpen bevinden zich op een roterende schijf of bevinden zich op een verticaal vlak en kunnen met een door een speler in beweging gezette (mechanische) arm of een ander daarvan afgeleid mechaniek gewonnen worden.
 
-#### b. Naam: schuifspel, pusher en hiervan afgeleide varianten
+##### b. Naam: schuifspel, pusher en hiervan afgeleide varianten
 
 Omschrijving: In een kast bevindt zich een vlakke plaat, die is bedekt met speelpenningen. Een zijde van de plaat wordt begrensd door een opening die in verbinding staat met een retourbak (bak waar de speler speelpenningen en gewonnen prijzen uit kan halen), terwijl zich aan de tegenoverliggende zijde van de opening een schuif bevindt, die zich als een bulldozer over een deel van de plaat heen en weer beweegt in de richting van de opening. Via een of meer inworpgleuven, kunnen penningen op de plaat geworpen worden. Opzet van het spel is het verkrijgen van penningen in de retourbak door het inwerpen van penningen in een inworpgleuf. Prijzen worden verkregen door tussen de penningen op de plaat prijzen dan wel hardplastic waardebonnen te leggen, welke samen met de penningen in de retourbak kunnen vallen. Bij sommige typen is in de plaat zelf of in de opening aan het eind van de plat een vergaarbakje opgenomen
 
-#### d. Naam: oefenspel (Engels: redemption)
+##### d. Naam: oefenspel (Engels: redemption)
 
 Omschrijving: Behendigheidsspel waarbij het resultaat leidt tot de directe uitkering van een prijs, die geen geldprijs is, of tot de indirecte uitkering van een prijs in de vorm van (voor een prijs inwisselbare) waardebonnen of penningen. Het spelresultaat kan de som van de met het oefenspel behaalde punten zijn.
 
 De volgende categorieën oefenspelen zijn mogelijk:
 
-#### e. Naam: apollo, jackpot, dominospel, fruitautomaat, star-steps, big wheel
+##### e. Naam: apollo, jackpot, dominospel, fruitautomaat, star-steps, big wheel
 
 Omschrijving: In een kast bevinden zich drie of vier roterende rollen met daarop (fruit)symbolen. Na inworp worden via een hendel aan de zijkant van de kast de rollen in beweging gezet. Na een aantal omwentelingen worden de rollen (automatisch) één voor één tot stilstand gebracht. Op de ruit waarachter zich de rollen bevinden is een winlijn aangegeven. De symboolcombinatie op de winlijn geeft volgens een eveneens op de winlijn aangebracht winplan recht op uitkering van waardepenningen, die door de machine worden uitbetaald. Op sommige automaten bestaat de mogelijkheid bij een volgend spel door middel van druktoetsen rollen vast te zetten om de kans op een winnende combinatie te vergroten.
 
-#### f. Naam: circus arena
+##### f. Naam: circus arena
 
 Omschrijving: In een rechtop staande speelautomaat bevinden zich acht draaiende speelborden, waarop prijzen staan aangegeven. Stopt, na een druk op de knop door de speler, de rode lamp naast een van de draaiende prijzencarrousels dan rolt de prijs naar buiten en is deze gewonnen.
 
-#### g. Naam: kleurenspel
+##### g. Naam: kleurenspel
 
 Omschrijving: Op een verticaal geplaatst bord bevinden zich in een cirkel geplaatste lampjes met daarnaast cijfers. De deelnemer koopt een serie cijfers (een plankje) en de in een cirkel draaiende lampjes stoppen willekeurig. Komt het nummer waarbij gestopt is overeen met datgene van de speler, dan is de prijs gewonnen.
 
-#### h. Naam: rotalet, roebelroulette, lucky colors, roulette, vensterspel, cijferspel, colorama
+##### h. Naam: rotalet, roebelroulette, lucky colors, roulette, vensterspel, cijferspel, colorama
 
 Omschrijving: In het midden van een ronde speeltafel bevindt zich een roulettecilinder met vakjes waarin de afbeeldingen staan. Elke positie aan de speeltafel representeert een van de afbeeldingen. Door middel van inworp kiest de speler voor een bepaald beeld en zet daar in feite op in. Na inworp wordt het roulettespel in werking gezet. De speler op wiens beeld de bal valt is winnaar.
 
@@ -248,7 +272,7 @@ Omschrijving: In het midden van een ronde speeltafel bevindt zich een rouletteci
 
 Model van het formulier tot aanvraag van een exploitatievergunning als bedoeld in [artikel 6, eerste lid, van het Speelautomatenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=6)
 
-#### Aanvraagformulier
+##### Aanvraagformulier
 
 voor een exploitatievergunning als bedoeld in [artikel 30h van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30h).
 
@@ -456,7 +480,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 4.5. Centraal elektronisch inworp- en uitbetalingssysteem
 
-#### Artikel 10bis
+##### Artikel 10bis
 
 - a. De wachttijd, bedoeld in [artikel 14, derde lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=14), bedraagt 0,3 seconden per 2 euro of deel daarvan, voor zover deze inworp boven 2 euro uitkomt.
 

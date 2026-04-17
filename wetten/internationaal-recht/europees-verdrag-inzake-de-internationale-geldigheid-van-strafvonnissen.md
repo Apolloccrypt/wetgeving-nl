@@ -1,13 +1,38 @@
 ---
 title: "Europees Verdrag inzake de internationale geldigheid van strafvonnissen"
 identifier: "BWBV0001038"
-categorie: "Internationaal recht"
-publicatiedatum: 1993-09-06
-laatste_update: 1993-09-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001038"
+country: "nl"
+rank: "verdrag"
+publication_date: "1993-09-06"
+last_updated: "1993-09-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001038"
+soort: "verdrag"
+stam_id: "10002498813"
+version_id: "10002493052"
+internal_id: "C10006983471"
+label_id: "10002489104"
+dtd_version: "2.0"
+original_entry_into_force: "1988-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001038/1993-09-06/0"
+intitule_bron: "Trb.1971-137"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-09-30"
+intitule_published: "1971-08-11"
+intitule_in_force: "1987-10-28"
+intitule_status: "goed"
+original_publication: "Trb.1971-137"
+original_signed_date: "1987-09-30"
+original_published_date: "1971-08-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1971-137"
+entry_into_force_date: "1988-01-01"
+jci_1_3: "jci1.3:c:BWBV0001038&z=1993-09-06&g=1993-09-06"
+jci_1_0: "1.0:c:BWBV0001038&g=1993-09-06"
+citeertitel_status: "redactioneel"
+signed_date: "1987-09-30"
+entry_into_force: "1988-01-01"
 ---
-
 # Europees Verdrag inzake de internationale geldigheid van strafvonnissen
 
 Preambule
@@ -26,7 +51,7 @@ Zijn als volgt overeengekomen:
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -50,7 +75,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 #### (a). Algemene voorwaarden voor tenuitvoerlegging
 
-#### Artikel 2
+##### Artikel 2
 
 Dit hoofdstuk is van toepassing op:
 
@@ -60,19 +85,19 @@ Dit hoofdstuk is van toepassing op:
 
 - (c). ontzettingen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In de gevallen en onder de omstandigheden bedoeld in dit Verdrag is een Verdragsluitende Staat bevoegd tot tenuitvoerlegging van een sanctie, die in een van de andere Verdragsluitende Staten is opgelegd en aldaar uitvoerbaar is.
 
 2. Deze bevoegdheid kan slechts worden uitgeoefend na een verzoek om tenuitvoerlegging, afkomstig van de andere Verdragsluitende Staat.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een sanctie kan slechts door een andere Verdragsluitende Staat ten uitvoer worden gelegd indien het feit waarvoor de sanctie is opgelegd, ware het op het grondgebied van die Staat begaan, krachtens de wet van die Staat een strafbaar feit zou hebben opgeleverd en de dader aldaar strafbaar zou zijn geweest.
 
 2. Indien de veroordeling betrekking heeft op verscheidene strafbare feiten, waarvan enkele niet voldoen aan de in het eerste lid gestelde voorwaarden, geeft de Staat van veroordeling aan, welk gedeelte van de sanctie is opgelegd wegens de straf bare feiten die wel aan deze voorwaarden voldoen.
 
-#### Artikel 5
+##### Artikel 5
 
 De Staat van veroordeling kan de tenuitvoerlegging van een sanctie door een andere Verdragsluitende Staat slechts verzoeken, indien aan een of meer van de volgende voorwaarden is voldaan:
 
@@ -86,7 +111,7 @@ De Staat van veroordeling kan de tenuitvoerlegging van een sanctie door een ande
 
 - (e). de Staat van veroordeling meent dat hij zelf niet de sanctie ten uitvoer kan leggen, ook niet met behulp van uitlevering, en dat de andere Staat dat wel kan.
 
-#### Artikel 6
+##### Artikel 6
 
 De tenuitvoerlegging, verzocht onder de in de voorafgaande bepalingen gestelde voorwaarden, kan alleen, hetzij geheel hetzij gedeeltelijk, in één van de volgende gevallen worden geweigerd:
 
@@ -116,17 +141,17 @@ De tenuitvoerlegging, verzocht onder de in de voorafgaande bepalingen gestelde v
 
 - (m). voor zover bij het vonnis een ontzetting is uitgesproken.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan een verzoek om tenuitvoerlegging wordt geen gevolg gegeven, indien de tenuitvoerlegging zou indruisen tegen de beginselen welke zijn erkend in de bepalingen van de Eerste Afdeling van Hoofdstuk III van dit Verdrag.
 
 #### (b). Gevolgen van de overdracht van de tenuitvoerlegging
 
-#### Artikel 8
+##### Artikel 8
 
 Voor de toepassing van artikel 6, letter **(l),** en van het voorbehoud vermeld in letter **(c)** in Bijlage I van dit Verdrag worden de door de autoriteiten van de Staat van veroordeling rechtsgeldig verrichte handelingen die de verjaring stuiten of schorsen geacht dezelfde rechtskracht te hebben in de aangezochte Staat voor de vaststelling van de verjaring, volgens het recht van die Staat.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De veroordeelde die zich in de verzoekende Staat in hechtenis bevond en die is overgeleverd aan de aangezochte Staat met het oog op tenuitvoerlegging, wordt niet vervolgd, berecht of in hechtenis gehouden met het oog op tenuitvoerlegging van een straf of een maatregel, noch onderworpen aan enige andere beperking van zijn persoonlijke vrijheid, wegens enig vóór de overlevering begaan feit dat niet ten grondslag lag aan de ten uitvoer te leggen veroordeling, behalve in de volgende gevallen:
 
@@ -136,7 +161,7 @@ Voor de toepassing van artikel 6, letter **(l),** en van het voorbehoud vermeld 
 
 2. De Staat aan welke om tenuitvoerlegging is verzocht kan echter de maatregelen treffen, die nodig zijn met het oog op een eventuele verwijdering van zijn grondgebied, dan wel een stuiting van de verjaring overeenkomstig zijn wetgeving, met inbegrip van de instelling van een verstekprocedure.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De tenuitvoerlegging wordt beheerst door de wet van de aangezochte Staat, die bij uitsluiting bevoegd is alle ter zake dienende beslissingen te nemen, met name wat de voorwaardelijke invrijheidstelling betreft.
 
@@ -144,7 +169,7 @@ Voor de toepassing van artikel 6, letter **(l),** en van het voorbehoud vermeld 
 
 3. Elk van beide Staten kan het recht van amnestie of gratie uitoefenen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Zodra de Staat van veroordeling het verzoek om tenuitvoerlegging heeft gedaan, mag hij niet meer overgaan tot tenuitvoerlegging van de sanctie waarop het verzoek betrekking heeft. De Staat van veroordeling mag echter overgaan tot tenuitvoerlegging van een sanctie, die vrijheidsbeneming medebrengt, indien de veroordeelde zich reeds ten tijde van het verzoek in hechtenis bevindt op het grondgebied van die Staat.
 
@@ -156,7 +181,7 @@ Voor de toepassing van artikel 6, letter **(l),** en van het voorbehoud vermeld 
 
 - (c). de aangezochte Staat uitdrukkelijk van zijn recht tot tenuitvoerlegging afstand doet. Deze afstand kan slechts plaatsvinden als de beide belanghebbende Staten hiermee instemmen of als de tenuitvoerlegging in de aangezochte Staat niet langer mogelijk is. In het laatste geval is de afstand verplicht, indien de verzoekende Staat daarom vraagt.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De bevoegde autoriteiten van de aangezochte Staat beëindigen de tenuitvoerlegging zodra zij kennis dragen van gratie, amnestie, een aanvrage tot herziening of van elke andere beslissing die de sanctie niet langer uitvoerbaar maakt. Hetzelfde geldt voor de tenuitvoerlegging van een geldboete, wanneer de veroordeelde deze aan de bevoegde autoriteiten van de verzoekende Staat heeft betaald.
 
@@ -164,7 +189,7 @@ Voor de toepassing van artikel 6, letter **(l),** en van het voorbehoud vermeld 
 
 #### (c). Bepalingen van onderscheiden aard
 
-#### Artikel 13
+##### Artikel 13
 
 1. De doortocht door het grondgebied van een Verdragsluitende Staat van een persoon, die van zijn vrijheid is beroofd en krachtens dit Verdrag naar een derde Verdragsluitende Staat moet worden overgebracht, wordt toegestaan op verzoek van de Staat waarin hij zich in hechtenis bevindt. De Staat waar de doortocht moet plaatsvinden kan, alvorens een beslissing te nemen op het verzoek, overlegging verlangen van alle terzake dienende documenten. De overgebrachte persoon blijft in hechtenis op het grondgebied van de Staat waar de doortocht plaatsvindt, tenzij de Staat van waaruit hij wordt overgebracht om zijn invrijheidstelling verzoekt.
 
@@ -180,13 +205,13 @@ Voor de toepassing van artikel 6, letter **(l),** en van het voorbehoud vermeld 
 
 - (b). Wanneer een landing is voorzien, dient een gewoon verzoek om doortocht te worden gedaan.
 
-#### Artikel 14
+##### Artikel 14
 
 De Verdragsluitende Staten zien over en weer af van de terugvordering van kosten die voortvloeien uit de toepassing van dit Verdrag.
 
 ### AFDELING 2. Verzoeken om tenuitvoerlegging
 
-#### Artikel 15
+##### Artikel 15
 
 1. De verzoeken bedoeld in dit Verdrag worden schriftelijk gedaan. Zij worden, evenals alle voor de toepassing van dit Verdrag benodigde gegevens, toegezonden hetzij door het Ministerie van Justitie van de verzoekende Staat aan het Ministerie van Justitie van de aangezochte Staat, hetzij, krachtens een overeenkomst tussen de betrokken Verdragsluitende Staten, door de autoriteiten van de verzoekende Staat rechtstreeks gericht aan die van de aangezochte Staat, en op dezelfde wijze teruggezonden.
 
@@ -194,21 +219,21 @@ De Verdragsluitende Staten zien over en weer af van de terugvordering van kosten
 
 3. Een Verdragsluitende Staat kan door middel van een verklaring, gericht aan de Secretaris-Generaal van de Raad van Europa, te kennen geven dat hij wenst af te wijken van het bepaalde in het eerste lid van dit artikel.
 
-#### Artikel 16
+##### Artikel 16
 
 Het verzoek om tenuitvoerlegging gaat vergezeld van het origineel of een authentiek afschrift van de beslissing waarvan de tenuitvoerlegging wordt gevraagd, alsook van alle ter zake doende stukken. Het origineel of een authentiek afschrift van het geheel of een deel van het strafdossier wordt op verzoek van de aangezochte Staat overgelegd. De bevoegde autoriteit van de verzoekende Staat verklaart dat de sanctie uitvoerbaar is.
 
-#### Artikel 17
+##### Artikel 17
 
 Als naar het oordeel van de aangezochte Staat de door de verzoekende Staat verschafte inlichtingen onvoldoende zijn om hem in staat te stellen dit Verdrag toe te passen, vraagt hij de nodige aanvulling van gegevens. Hij kan een termijn stellen waarbinnen deze gegevens ontvangen moeten zijn.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De autoriteiten van de aangezochte Staat lichten de autoriteiten van de verzoekende Staat onverwijld in omtrent het gevolg dat aan het verzoek om tenuitvoerlegging is gegeven.
 
 2. In het voorkomende geval doen de autoriteiten van de aangezochte Staat aan de autoriteiten van de verzoekende Staat een stuk toekomen, waarin wordt verklaard dat de sanctie ten uitvoer is gelegd.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Behoudens de bepalingen van het tweede lid van dit artikel wordt geen vertaling van verzoeken en bijlagen geëist.
 
@@ -216,13 +241,13 @@ Als naar het oordeel van de aangezochte Staat de door de verzoekende Staat versc
 
 3. Dit artikel laat onverlet de bepalingen met betrekking tot de vertaling van verzoeken en bijlagen, vervat in thans van kracht zijnde of alsnog te sluiten overeenkomsten of regelingen tussen twee of meer Verdragsluitende Staten.
 
-#### Artikel 20
+##### Artikel 20
 
 De stukken en documenten, die op grond van dit Verdrag worden overgelegd, zijn vrijgesteld van alle formaliteiten van legalisatie.
 
 ### AFDELING 3. Verstekvonnissen en strafbeschikkingen
 
-#### Artikel 21
+##### Artikel 21
 
 1. Tenzij in dit Verdrag anders is bepaald zijn voor de tenuitvoerlegging van verstekvonnissen en van strafbeschikkingen dezelfde regels van toepassing als voor de tenuitvoerlegging van andere vonnissen.
 
@@ -234,11 +259,11 @@ De stukken en documenten, die op grond van dit Verdrag worden overgelegd, zijn v
 
 - (b). een in hoger beroep gewezen verstekvonnis mits het beroep tegen het vonnis in eerste aanleg was ingesteld door de veroordeelde.
 
-#### Artikel 22
+##### Artikel 22
 
 Verstekvonnissen en strafbeschikkingen waartegen nog geen verzet of ander rechtsmiddel is aangewend, kunnen, zodra zij zijn gewezen, aan de aangezochte Staat worden toegezonden ter betekening en eventuele tenuitvoerlegging.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Indien de aangezochte Staat aanleiding ziet om gevolg te geven aan het verzoek om tenuitvoerlegging van een verstekvonnis of een strafbeschikking, laat hij de, in de verzoekende Staat genomen beslissing aan de veroordeelde in persoon betekenen.
 
@@ -254,13 +279,13 @@ Verstekvonnissen en strafbeschikkingen waartegen nog geen verzet of ander rechts
 
 3. Een afschrift van de akte van betekening wordt onverwijld gezonden aan de autoriteit die de tenuitvoerlegging heeft verzocht.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Zodra de beslissing is betekend overeenkomstig artikel 23, is verzet het enige rechtsmiddel dat tegen de veroordeling kan worden aangewend. Dit verzet wordt, naar keuze van de veroordeelde, behandeld door hetzij de bevoegde rechter van de verzoekende Staat, hetzij die van de aangezochte Staat. Als de veroordeelde geen voorkeur kenbaar maakt, wordt het verzet behandeld door de bevoegde rechter van de aangezochte Staat.
 
 2. In de beide gevallen, voorzien in het vorige lid, is het verzet ontvankelijk indien het is gedaan door middel van een verklaring, gericht tot de bevoegde autoriteit van de aangezochte Staat binnen een termijn van 30 dagen te rekenen van de dag van de betekening. De termijn wordt berekend overeenkomstig de toepasselijke wettelijke regels van de aangezochte Staat. De bevoegde autoriteit van die Staat licht de autoriteit die het verzoek om tenuitvoerlegging heeft gedaan onverwijld in.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Indien het verzet in de verzoekende Staat wordt behandeld, wordt de veroordeelde gedagvaard in die Staat te verschijnen ter terechtzitting, welke is vastgesteld voor een nieuwe behandeling van de zaak. Deze dagvaarding wordt hem ten minste 21 dagen vóór die nieuwe behandeling in persoon betekend. Deze termijn kan met toestemming van de veroordeelde,worden bekort. De nieuwe behandeling vindt plaats voor de bevoegde rechter van de verzoekende Staat en volgens de in die Staat geldende procedure.
 
@@ -268,7 +293,7 @@ Verstekvonnissen en strafbeschikkingen waartegen nog geen verzet of ander rechts
 
 3. Indien de veroordeelde in persoon verschijnt of zich doet vertegenwoordigen overeenkomstig de wet van de verzoekende Staat en het verzet ontvankelijk wordt verklaard, wordt het verzoek om tenuitvoerlegging als niet gedaan beschouwd.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Indien het verzet in de aangezochte Staat wordt behandeld, wordt de veroordeelde gedagvaard in die Staat te verschijnen ter terechtzitting die is vastgesteld voor een nieuwe behandeling van de zaak. Deze dagvaarding wordt hem ten minste 21 dagen vóór die nieuwe behandeling in persoon betekend. Deze termijn kan met toestemming van de veroordeelde worden bekort. De nieuwe behandeling vindt plaats voor de bevoegde rechter van de aangezochte Staat en volgens de in die Staat geldende procedure.
 
@@ -278,29 +303,29 @@ Verstekvonnissen en strafbeschikkingen waartegen nog geen verzet of ander rechts
 
 4. De in de Staat van veroordeling overeenkomstig de aldaar geldende wetten en voorschriften met het oog op de vervolging of het onderzoek verrichte handelingen hebben in de aangezochte Staat dezelfde rechtskracht als waren zij door de autoriteiten van die Staat verricht, zonder dat deze gelijkstelling ten gevolge kan hebben dat aan die handelingen een grotere bewijskracht wordt toegekend dan daaraan, in de verzoekende Staat is verbonden.
 
-#### Artikel 27
+##### Artikel 27
 
 Voor het doen van verzet en de procedure die daarop volgt heeft de bij verstek of strafbeschikking veroordeelde in de gevallen en op de voorwaarden voorzien in de wet van de aangezochte Staat of in voorkomend geval van de verzoekende Staat, recht op ambtshalve toevoeging van een raadsman.
 
-#### Artikel 28
+##### Artikel 28
 
 De rechterlijke beslissingen, gegeven krachtens het derde lid van artikel 26, en hun tenuitvoerlegging worden uitsluitend beheerst door de wetgeving van de aangezochte Staat.
 
-#### Artikel 29
+##### Artikel 29
 
 Indien een bij verstek of strafbeschikking veroordeelde geen verzet aantekent, wordt de beslissing voor de gehele toepassing van dit Verdrag geacht een veroordeling op tegenspraak te zijn.
 
-#### Artikel 30
+##### Artikel 30
 
 De bepalingen van de nationale wetgevingen met betrekking tot herstel in de oorspronkelijke toestand zijn van toepassing indien de veroordeelde, om redenen onafhankelijk van zijn wil, heeft nagelaten de termijnen bedoeld in de artikelen 24, 25 en 26 in acht te nemen of te verschijnen ter terechtzitting die is vastgesteld voor een nieuwe behandeling van de zaak.
 
 ### AFDELING 4. Voorlopige maatregelen
 
-#### Artikel 31
+##### Artikel 31
 
 Indien de veroordeelde zich bevindt in de verzoekende Staat, nadat de kennisgeving is ontvangen dat het verzoek van die Staat tot tenuitvoerlegging van een vonnis, waarbij een vrijheidsbeneming is opgelegd, wordt aanvaard, kan die Staat, indien hij zulks ter verzekering van de tenuitvoerlegging nodig acht, hem aanhouden ten einde hem over te brengen overeenkomstig het bepaalde in artikel 43.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Heeft de verzoekende Staat om tenuitvoerlegging verzocht dan kan de aangezochte Staat overgaan tot aanhouding van de veroordeelde indien:
 
@@ -310,7 +335,7 @@ Indien de veroordeelde zich bevindt in de verzoekende Staat, nadat de kennisgevi
 
 2. Indien de verzoekende Staat zijn voornemen om de tenuitvoerlegging te vragen kenbaar maakt, kan de aangezochte Staat op aanvraag van de verzoekende Staat overgaan tot aanhouding van de veroordeelde, mits aan de voorwaarden, genoemd in het vorige lid onder de letters **(a)** en **(b),** is voldaan. Deze aanvraag moet vermelden: het strafbare feit dat tot de veroordeling heeft geleid, de tijd en de plaats waar het feit is begaan alsmede een zo nauwkeurig mogelijk signalement van de veroordeelde. Het moet eveneens een beknopte uiteenzetting bevatten van de feiten en omstandigheden waarop het vonnis berust.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Op de hechtenis is de wet van de aangezochte Staat van toepassing, die tevens de voorwaarden regelt waaronder de aangehouden persoon in vrijheid kan worden gesteld.
 
@@ -320,19 +345,19 @@ Indien de veroordeelde zich bevindt in de verzoekende Staat, nadat de kennisgevi
 
 - (b). de aanhouding is geschied met toepassing van artikel 32, tweede lid, en de aangezochte Staat niet binnen 18 dagen na de datum van de aanhouding het verzoek, vergezeld van de stukken bedoeld in artikel 16, heeft ontvangen.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Hij die in de aangezochte Staat in hechtenis wordt gehouden krachtens artikel 32 en, naar aanleiding van een door hem gedaan verzet, overeenkomstig artikel 25 is gedagvaard om te verschijnen ter terechtzitting van het bevoegde gerecht in de verzoekende Staat, wordt daartoe overgebracht naar het grondgebied van die Staat.
 
 2. Na de overbrenging wordt de betrokkene door de verzoekende Staat niet langer in hechtenis gehouden indien het geval bedoeld in artikel 33, tweede lid, letter **(a),** zich voordoet of indien de verzoekende Staat de tenuitvoerlegging van de nieuwe veroordeling niet verzoekt. De overgebrachte persoon wordt zo snel mogelijk teruggezonden naar de aangezochte Staat, tenzij hij in vrijheid is gesteld.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Hij die naar aanleiding van een door hem gedaan verzet is gedagvaard voor een bevoegd gerecht van de verzoekende Staat, wordt niet vervolgd, berecht of gevangen gehouden met het oog op de tenuitvoerlegging van een straf of maatregel, noch onderworpen aan enige andere beperking van zijn persoonlijke vrijheid voor enig in de dagvaarding niet vermeld feit, gepleegd vóór zijn vertrek uit het grondgebied van de aangezochte Staat, tenzij hij daarmede uitdrukkelijk schriftelijk instemt. In het geval bedoeld in artikel 34, eerste lid, wordt een afschrift van de verklaring van instemming gezonden aan de Staat van waaruit de betrokkene is overgebracht.
 
 2. Het bepaalde in het vorige lid is niet langer van toepassing wanneer de gedagvaarde persoon, hoewel hij daartoe de mogelijkheid heeft gehad, het grondgebied van de verzoekende Staat niet heeft verlaten binnen 15 dagen na de datum van de uitspraak die is gevolgd op de zitting waar hij is verschenen, of indien hij, na dat grondgebied te hebben verlaten, daarin is teruggekeerd zonder te zijn gedagvaard.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Indien de verzoekende Staat de tenuitvoerlegging van een verbeurdverklaring heeft verzocht, kan de aangezochte Staat overgaan tot voorlopige inbeslagneming, mits zijn wet inbeslagneming voor soortgelijke feiten toelaat.
 
@@ -342,21 +367,21 @@ Indien de veroordeelde zich bevindt in de verzoekende Staat, nadat de kennisgevi
 
 #### (a). Algemene bepalingen
 
-#### Artikel 37
+##### Artikel 37
 
 De tenuitvoerlegging van een sanctie die is opgelegd in de verzoekende Staat kan in de aangezochte Staat slechts plaatsvinden krachtens een beslissing van de rechter van die Staat. Een Verdragsluitende Staat kan echter andere autoriteiten met zodanige beslissingen belasten, indien het uitsluitend de tenuitvoerlegging van een geldboete of een verbeurdverklaring betreft en beroep op de rechter tegen die beslissingen openstaat.
 
-#### Artikel 38
+##### Artikel 38
 
 Indien de aangezochte Staat aanleiding ziet gevolg te geven aan het verzoek om tenuitvoerlegging wordt de zaak voorgelegd aan de rechter of de autoriteit die krachtens artikel 37 is aangewezen.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Alvorens te beslissen op het verzoek om tenuitvoerlegging stelt de rechter de veroordeelde in de gelegenheid zijn gezichtspunten naar voren te brengen. Indien de veroordeelde daarom vraagt wordt hij, hetzij bij wege van rogatoire commissie, hetzij in persoon, door de rechter gehoord. Indien de veroordeelde daarom uitdrukkelijk verzoekt, wordt een verhoor in persoon gelast.
 
 2. Niettegenstaande een verzoek van de veroordeelde om in persoon te worden gehoord, kan de rechter in afwezigheid van de veroordeelde over de aanvaarding van het verzoek om tenuitvoerlegging beslissen, indien deze zich in de verzoekende Staat in hechtenis bevindt. In dat geval wordt de beslissing betreffende de vervanging van de sanctie, bedoeld in artikel 44, aangehouden totdat de veroordeelde na zijn overbrenging naar de aangezochte Staat in de gelegenheid is gesteld voor de rechter te verschijnen.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De met de zaak belaste rechter of, in de gevallen voorzien in artikel 37, de volgens dat artikel aangewezen autoriteit, dient er zich van te verzekeren dat:
 
@@ -372,21 +397,21 @@ Indien de aangezochte Staat aanleiding ziet gevolg te geven aan het verzoek om t
 
 2. Een Verdragsluitende Staat is vrij de rechter of de krachtens artikel 37 aangewezen autoriteit te belasten met het onderzoek naar het vervuld zijn van andere voorwaarden voor de tenuitvoerlegging waarin dit Verdrag voorziet.
 
-#### Artikel 41
+##### Artikel 41
 
 Tegen rechterlijke beslissingen, die krachtens deze Afdeling met het oog op de gevraagde tenuitvoerlegging of in beroep tegen een beslissing van een bestuurlijke autoriteit aangewezen krachtens artikel 37 zijn genomen, dient een rechtsmiddel te kunnen worden aangewend.
 
-#### Artikel 42
+##### Artikel 42
 
 De aangezochte Staat is gebonden aan de vaststelling van de feiten en omstandigheden voor zover deze zijn uiteengezet in de beslissing of voor zover deze beslissing daarop impliciet berust.
 
 #### (b). Bepalingen die in het bijzonder betrekking hebben op de tenuitvoerlegging van sancties welke vrijheidsbeneming meebrengen
 
-#### Artikel 43
+##### Artikel 43
 
 Indien de veroordeelde zich in hechtenis bevindt in de verzoekende Staat wordt hij, tenzij de wet van die Staat anders bepaalt, overgebracht naar de aangezochte Staat, zodra de verzoekende Staat in kennis is gesteld van de aanvaarding van het verzoek om tenuitvoerlegging.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Indien het verzoek om tenuitvoerlegging is aanvaard, vervangt de rechter de in de verzoekende Staat opgelegde sanctie welke vrijheidsbeneming meebrengt door een sanctie die voor hetzelfde feit is voorzien in zijn eigen wet. Die sanctie kan, binnen de in het tweede lid aangegeven grenzen, van een andere aard en duur zijn dan de in de verzoekende Staat opgelegde sanctie. Indien deze laatste sanctie beneden het minimum blijft dat krachtens de wet van de aangezochte Staat mag worden opgelegd, is de rechter niet gebonden aan dat minimum en legt hij een sanctie op die overeenkomt met de sanctie die was opgelegd in de verzoekende Staat.
 
@@ -398,7 +423,7 @@ Indien de veroordeelde zich in hechtenis bevindt in de verzoekende Staat wordt h
 
 #### (c). Bepalingen die in het bijzonder betrekking hebben op de tenuitvoerlegging van geldboeten of verbeurdverklaringen
 
-#### Artikel 45
+##### Artikel 45
 
 1. Indien het verzoek om tenuitvoerlegging van een geldboete of van een verbeurdverklaring van een som gelds is aanvaard, drukt de rechter of de krachtens artikel 37 aangewezen autoriteit het bedrag uit in de valuta van de aangezochte Staat met toepassing van de op het ogenblik waarop de beslissing is genomen geldende wisselkoers.
 
@@ -410,19 +435,19 @@ Hetzelfde geldt indien de sanctie die is opgelegd in de verzoekende Staat het ma
 
 3. Alle faciliteiten met betrekking tot het tijdstip van betaling of betalingen in termijnen welke zijn toegestaan in de verzoekende Staat worden in acht genomen in de aangezochte Staat.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Indien het verzoek om tenuitvoerlegging de verbeurdverklaring van een bepaald voorwerp betreft, kan de rechter of de krachtens artikel 37 aangewezen autoriteit de verbeurdverklaring van dat voorwerp slechts bevelen, indien zulks volgens de wet van de aangezochte Staat voor hetzelfde feit mogelijk is.
 
 2. Het staat de rechter of de krachtens artikel 37 aangewezen autoriteit echter vrij de verbeurdverklaring die is opgelegd in de verzoekende Staat te handhaven, indien die sanctie voor hetzelfde feit niet is voorzien in de wet van de aangezochte Staat, maar die wet wel zwaardere sancties toelaat.
 
-#### Artikel 47
+##### Artikel 47
 
 1. De opbrengst van geldboeten en verbeurdverklaringen vervalt aan de aangezochte Staat onverminderd de rechten van derden.
 
 2. Verbeurdverklaarde voorwerpen die een bijzondere waarde vertegenwoordigen, kunnen op aanvrage worden teruggegeven aan de verzoekende Staat.
 
-#### Artikel 48
+##### Artikel 48
 
 Indien de tenuitvoerlegging van een geldboete onmogelijk blijkt, kan de rechter van de aangezochte Staat een vervangende hechtenis opleggen mits de wet van beide Staten daarin voor een dergelijk geval voorziet, tenzij de verzoekende Staat uitdrukkelijk zijn verzoek beperkt heeft tot de tenuitvoerlegging van de geldboete alleen.
 
@@ -434,23 +459,23 @@ Als de rechter besluit een vervangende hechtenis op te leggen zijn de volgende r
 
 #### (d). Bepalingen die in het bijzonder betrekking hebben op de tenuitvoerlegging van een ontzetting
 
-#### Artikel 49
+##### Artikel 49
 
 1. Indien een verzoek tot tenuitvoerlegging van een ontzetting is gedaan, kan daaraan slechts gevolg worden gegeven als de wet van de aangezochte Staat het opleggen van een ontzetting voor een dergelijk strafbaar feit toelaat.
 
 2. De met de zaak belaste rechter beoordeelt de opportuniteit van de tenuitvoerlegging van de ontzetting op het grondgebied van zijn land.
 
-#### Artikel 50
+##### Artikel 50
 
 1. Indien de rechter de tenuitvoerlegging van de ontzetting beveelt, stelt hij de duur daarvan vast binnen de grenzen, voorgeschreven in zijn eigen wetgeving, zonder evenwel de grenzen die zijn vastgesteld in het strafvonnis dat in de verzoekende Staat is gewezen, te mogen overschrijden.
 
 2. De rechter kan de ontzetting beperken tot een deel van de rechten waarvan het verlies of de opschorting is opgelegd.
 
-#### Artikel 51
+##### Artikel 51
 
 Artikel 11 is niet van toepassing op een ontzetting.
 
-#### Artikel 52
+##### Artikel 52
 
 De aangezochte Staat heeft het recht de veroordeelde te herstellen in de rechten, waaruit hij is ontzet op grond van een beslissing, genomen door toepassing van deze Afdeling.
 
@@ -458,7 +483,7 @@ De aangezochte Staat heeft het recht de veroordeelde te herstellen in de rechten
 
 ### AFDELING I. Ne bis in idem
 
-#### Artikel 53
+##### Artikel 53
 
 1. Hij die bij een Europees strafvonnis is veroordeeld kan niet voor hetzelfde feit worden vervolgd, berecht of onderworpen aan de tenuitvoerlegging van een sanctie in een andere Verdragsluitende Staat indien:
 
@@ -478,27 +503,27 @@ De aangezochte Staat heeft het recht de veroordeelde te herstellen in de rechten
 
 3. Bovendien is de Verdragsluitende Staat waar het feit is begaan, dan wel volgens de wet van die Staat wordt geacht te zijn begaan, niet verplicht de gevolgen van het „ne bis in idem" te erkennen, tenzij hij zelf om de vervolging heeft gevraagd.
 
-#### Artikel 54
+##### Artikel 54
 
 Indien een nieuwe vervolging wordt ingesteld tegen een persoon die voor hetzelfde feit reeds in een andere Staat is veroordeeld, wordt iedere periode van vrijheidsbeneming, ondergaan bij de tenuitvoerlegging van het vonnis, in mindering gebracht op de eventueel op te leggen sanctie.
 
-#### Artikel 55
+##### Artikel 55
 
 Deze Afdeling vormt geen beletsel voor de toepassing van ruimere nationale bepalingen waardoor aan buitenlandse rechterlijke beslissingen „ne bis in idem" - werking wordt toegekend.
 
 ### AFDELING 2. Overige gevolgen
 
-#### Artikel 56
+##### Artikel 56
 
 De Verdragsluitende Staten nemen de wettelijke maatregelen, die zij nodig achten om hun gerechten in staat te stellen bij het wijzen van een vonnis rekening te houden met een Europees strafvonnis, dat terzake van een ander straf baar feit tevoren op tegenspraak is gewezen, zodat daaraan geheel of gedeeltelijk dezelfde gevolgen worden verbonden als die, welke zijn voorzien in hun wet voor op hun grondgebied gewezen vonnissen. Zij stellen de voorwaarden vast waaronder met een zodanig vonnis rekening wordt gehouden.
 
-#### Artikel 57
+##### Artikel 57
 
 De Verdragsluitende Staten nemen de wettelijke maatregelen die zij nodig achten om te bereiken dat met een Europees strafvonnis, dat op tegenspraak is gewezen, in dier voege rekening wordt gehouden dat een ontzetting die hun wetten verbinden aan op hun grondgebied gewezen vonnissen geheel of gedeeltelijk toepasselijk wordt. Zij stellen de voorwaarden vast waaronder met een zodanig vonnis rekening wordt gehouden.
 
 ### HOOFDSTUK IV. SLOTBEPALINGEN
 
-#### Artikel 58
+##### Artikel 58
 
 1. Dit Verdrag staat open voor ondertekening door de Lid-Staten vertegenwoordigd in het Comité van Ministers van de Raad van Europa. Het dient te worden bekrachtigd of aanvaard. De akten van bekrachtiging of aanvaarding worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -506,13 +531,13 @@ De Verdragsluitende Staten nemen de wettelijke maatregelen die zij nodig achten 
 
 3. Voor elke ondertekenende Staat die het daarna bekrachtigt of aanvaardt treedt het Verdrag in werking drie maanden na de datum van de nederlegging van zijn akte van bekrachtiging of aanvaarding.
 
-#### Artikel 59
+##### Artikel 59
 
 1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa iedere Staat die geen lid is van de Raad uitnodigen toe te treden tot dit Verdrag, mits de resolutie tot deze uitnodiging eenstemmig is goedgekeurd door de Leden van de Raad die het Verdrag hebben bekrachtigd.
 
 2. Toetreding geschiedt door nederlegging bij de Secretaris-Generaal van de Raad van Europa van een akte van toetreding die van kracht wordt drie maanden na de datum van nederlegging.
 
-#### Artikel 60
+##### Artikel 60
 
 1. Een Verdragsluitende Staat kan op het ogenblik van ondertekening of op het ogenblik van nederlegging van zijn akte van bekrachtiging, aanvaarding of toetreding het grondgebied of de grondgebieden aanwijzen, waarop dit Verdrag van toepassing is.
 
@@ -520,7 +545,7 @@ De Verdragsluitende Staten nemen de wettelijke maatregelen die zij nodig achten 
 
 3. Verklaringen, afgelegd krachtens het voorgaande lid, kunnen, wat een grondgebied dat is aangewezen in deze verklaring betreft, onder de voorwaarden genoemd in artikel 66 van dit Verdrag, worden ingetrokken.
 
-#### Artikel 61
+##### Artikel 61
 
 1. Een Verdragsluitende Staat kan op het ogenblik van ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding of toetreding verklaren gebruik te maken van een of meer voorbehouden vermeld in Bijlage I van dit Verdrag.
 
@@ -528,7 +553,7 @@ De Verdragsluitende Staten nemen de wettelijke maatregelen die zij nodig achten 
 
 3. De Verdragsluitende Staat die een voorbehoud heeft gemaakt met betrekking tot een bepaling van dit Verdrag mag de naleving van deze bepaling door een andere Staat niet eisen; hij kan echter, als zijn voorbehoud beperkt of voorwaardelijk is, de naleving van de bepaling eisen voor zover hij zich daaraan gebonden heeft.
 
-#### Artikel 62
+##### Artikel 62
 
 1. Een Verdragsluitende Staat kan op ieder ogenblik door middel van een verklaring, gericht aan de Secretaris-Generaal van de Raad van Europa, de wettelijke bepalingen aanwijzen die opgenomen moeten worden in de Bijlagen II en III van dit Verdrag.
 
@@ -536,13 +561,13 @@ De Verdragsluitende Staten nemen de wettelijke maatregelen die zij nodig achten 
 
 3. Wijzigingen die met toepassing van de voorafgaande leden zijn aangebracht in de Bijlagen II of III worden voor iedere Verdragsluitende Staat een maand na de datum van kennisgeving aan de Secretaris-Generaal van de Raad van Europa van kracht.
 
-#### Artikel 63
+##### Artikel 63
 
 1. Met het oog op de toepassing van dit Verdrag verschaft een Verdragsluitende Staat op het ogenblik van de nederlegging van zijn akte van bekrachtiging, aanvaarding of toetreding aan de Secretaris-Generaal van de Raad van Europa alle noodzakelijke inlichtingen betreffende de in die Staat toepasselijke sancties en hun tenuitvoerlegging.
 
 2. Latere wijzigingen die de inlichtingen, verschaft krachtens het vorige lid, onjuist maken worden eveneens medegedeeld aan de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 64
+##### Artikel 64
 
 1. Dit Verdrag laat onverlet de rechten en verplichtingen die voortvloeien uit uitleveringsverdragen en multilaterale internationale overeenkomsten betreffende bijzondere onderwerpen, of bepalingen betreffende aangelegenheden die het onderwerp vormen van dit Verdrag en zijn vervat in andere overeenkomsten tussen de Verdragsluitende Staten.
 
@@ -552,11 +577,11 @@ De Verdragsluitende Staten nemen de wettelijke maatregelen die zij nodig achten 
 
 4. De Verdragsluitende Staten, die ertoe zouden overgaan in hun onderlinge betrekkingen de toepassing van dit Verdrag uit te sluiten overeenkomstig het bepaalde in het vorige lid richten te dien einde een mededeling aan de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 65
+##### Artikel 65
 
 De Europese Commissie voor Strafrechtelijke Vraagstukken van de Raad van Europa houdt zich op de hoogte van de tenuitvoerlegging van dit Verdrag en bevordert zonodig een oplossing in der minne van elke moeilijkheid waartoe de tenuitvoerlegging van het Verdrag aanleiding, zou kunnen geven.
 
-#### Artikel 66
+##### Artikel 66
 
 1. Dit Verdrag blijft voor onbepaalde tijd van kracht.
 
@@ -564,7 +589,7 @@ De Europese Commissie voor Strafrechtelijke Vraagstukken van de Raad van Europa 
 
 3. De opzegging wordt van kracht zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 67
+##### Artikel 67
 
 De Secretaris-Generaal van de Raad van Europa geeft aan de Lidstaten, vertegenwoordigd in het Comité van Ministers, en aan iedere Staat die is toegetreden tot dit Verdrag kennis van:
 
@@ -590,7 +615,7 @@ De Secretaris-Generaal van de Raad van Europa geeft aan de Lidstaten, vertegenwo
 
 - (k). kennisgevingen ontvangen krachtens het bepaalde in artikel 66 en de datum waarop de opzegging van kracht wordt.
 
-#### Artikel 68
+##### Artikel 68
 
 Het Verdrag en de verklaringen en kennisgevingen waartoe het machtigt zijn slechts van toepassing op de tenuitvoerlegging van vonnissen gewezen na de inwerkingtreding van dit Verdrag tussen de Verdragsluitende Staten.
 

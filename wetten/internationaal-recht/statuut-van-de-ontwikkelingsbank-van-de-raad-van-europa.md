@@ -1,22 +1,47 @@
 ---
 title: "Statuut van de Ontwikkelingsbank van de Raad van Europa"
 identifier: "BWBV0001234"
-categorie: "Internationaal recht"
-publicatiedatum: 1997-03-18
-laatste_update: 1997-03-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001234"
+country: "nl"
+rank: "verdrag"
+publication_date: "1997-03-18"
+last_updated: "1997-03-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001234"
+soort: "verdrag"
+stam_id: "10002317203"
+version_id: "10002326702"
+internal_id: "C10006977991"
+label_id: "10002307054"
+dtd_version: "2.0"
+original_entry_into_force: "1997-03-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001234/1997-03-18/0"
+intitule_bron: "Trb.2000-93"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-07-09"
+intitule_published: "2000-09-08"
+intitule_in_force: "1997-05-14"
+intitule_status: "goed"
+original_publication: "Trb.2000-93"
+original_signed_date: "1996-07-09"
+original_published_date: "2000-09-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2000-93"
+entry_into_force_date: "1997-03-18"
+jci_1_3: "jci1.3:c:BWBV0001234&z=1997-03-18&g=1997-03-18"
+jci_1_0: "1.0:c:BWBV0001234&g=1997-03-18"
+citeertitel_status: "redactioneel"
+signed_date: "1996-07-09"
+entry_into_force: "1997-03-18"
 ---
-
 # Statuut van de Ontwikkelingsbank van de Raad van Europa
 
-#### Artikel I. Oprichting van de Bank
+##### Artikel I. Oprichting van de Bank
 
 Er wordt een Ontwikkelingsbank van de Raad van Europa opgericht (hierna te noemen „de Bank").
 
 De Bank valt onder de Raad van Europa en is onderworpen aan zijn hoogste gezag.
 
-#### Artikel II. Doel1)De tekst van dit artikel is aangenomen door het Comitié van Ministers in de 496ste vergadering van de afgevaardigden van de Ministers bij Resolutie 93 (22), welke Resolutie als Bijlage is aangehecht.
+##### Artikel II. Doel1)De tekst van dit artikel is aangenomen door het Comitié van Ministers in de 496ste vergadering van de afgevaardigden van de Ministers bij Resolutie 93 (22), welke Resolutie als Bijlage is aangehecht.
 
 a. Het voornaamste doel van de Bank is hulp te bieden bij het oplossen van de sociale problemen waarmee Europese landen worden of kunnen worden geconfronteerd als gevolg van de aanwezigheid van vluchtelingen, ontheemden of migranten ten gevolge van verplaatsingen van vluchtelingen of andere gedwongen verplaatsingen van bevolkingsgroepen, en als gevolg van de aanwezigheid van slachtoffers van natuur- of milieurampen.
 
@@ -24,7 +49,7 @@ De investeringsprojecten waaraan de Bank bijdraagt, kunnen bedoeld zijn om deze 
 
 b. De Bank kan ook bijdragen aan de verwezenlijking van door een lid van de Bank goedgekeurde investeringsprojecten die het mogelijk maken werkgelegenheid te scheppen in achtergebleven gebieden, mensen in de lage-inkomensgroepen te huisvesten of een sociale infrastructuur op te bouwen.
 
-#### Artikel III. Lidmaatschap van de Bank
+##### Artikel III. Lidmaatschap van de Bank
 
 a. Elke lidstaat van de Raad van Europa kan lid van de Bank worden door een verklaring te richten aan de Secretaris-Generaal. Deze verklaring dient de aanvaarding van dit Statuut door de Regering van de betrokken Staat te omvatten, alsmede de intekening door die Regering op het in overeenstemming met de Raad van Bestuur vastgestelde aantal deelnemingsbewijzen, overeenkomstig artikel IX, sectie 3, onder 1, letter a, van het Statuut.
 
@@ -42,7 +67,7 @@ d. Elke Staat die lid van de Bank wordt, bevestigt in zijn verklaring of zijn ak
 
 - ii. in afwachting van die toetreding, het uit het Protocol voortvloeiende rechtsregime toe te passen op de goederen, activa en transacties van de Bank, en de organen en het personeel van de Bank de uit dit Protocol voortvloeiende rechtspositie toe te kennen.
 
-#### Artikel IV. Verplichtingen van de leden
+##### Artikel IV. Verplichtingen van de leden
 
 De Bank geeft deelnemingsbewijzen, uitgedrukt in ECU's1)Op 1 januari 1999 is de ECU vervangen door de euro. De verwijzing naar de ECU moet worden begrepen als een verwijzing naar de euro., uit waarop zijn leden kunnen intekenen. Elk bewijs heeft dezelfde nominale waarde van 1000 ECU. De leden voldoen hun intekeningen in ECU's.
 
@@ -56,17 +81,17 @@ d. Wanneer het kapitaal van de Bank wordt verhoogd, bepaalt de Raad van Bestuur,
 
 Een lid is jegens derden niet aansprakelijk voor enige verplichting van de Bank.
 
-#### Artikel V. Leningen en bijdragen
+##### Artikel V. Leningen en bijdragen
 
 De Bank kan leningen aangaan voor bestemmingen in overeenstemming met het doel van de Bank. De Bank kan ook andere financiële transacties uitvoeren die dienstig zijn voor de verwezenlijking van zijn doel, zulks onder de door de Administratieve Raad vastgestelde voorwaarden.
 
 De Bank is bevoegd bijdragen in ontvangst te nemen die worden geschonken voor specifieke doeleinden, die stroken met de doelstellingen van de Bank.
 
-#### Artikel VI. Beleggingen
+##### Artikel VI. Beleggingen
 
 De liquide middelen, het kapitaal en de reserves van de Bank kunnen onder de door de Administratieve Raad vastgestelde voorwaarden worden belegd overeenkomstig de beginselen van gezond financieel beheer.
 
-#### Artikel VII. Werkwijzen van de Bank
+##### Artikel VII. Werkwijzen van de Bank
 
 De Bank kan leningen verstrekken in één van de volgende vormen:
 
@@ -88,7 +113,7 @@ De Administratieve Raad stelt de algemene voorwaarden vast voor de verstrekking 
 
 De transacties van de Bank ten gunste van een lid of van een in de eerste sectie bedoelde rechtspersoon worden opgeschort indien de leningnemer, of indien deze ontbreekt, de garant de betalingsverplichtingen, voortvloeiende uit hem door de Bank verstrekte leningen of geboden waarborgen, niet nakomt.
 
-#### Artikel VIII. Organisatie en bestuur van en toezicht op de Bank
+##### Artikel VIII. Organisatie en bestuur van en toezicht op de Bank
 
 De organisatie en het bestuur van, alsmede het toezicht op de Bank, zijn over de volgende organen verdeeld:
 
@@ -102,7 +127,7 @@ De organisatie en het bestuur van, alsmede het toezicht op de Bank, zijn over de
 
 als bepaald in de hierna volgende artikelen.
 
-#### Artikel IX. De Raad van Bestuur
+##### Artikel IX. De Raad van Bestuur
 
 De Raad van Bestuur bestaat uit een voorzitter en een vertegenwoordiger van elk lid. Elk lid kan een plaatsvervanger benoemen. De Secretaris-Generaal van de Raad van Europa kan aan de vergaderingen deelnemen of zich daar doen vertegenwoordigen.
 
@@ -180,7 +205,7 @@ De Voorzitter draagt zorg voor de politieke betrekkingen met functionarissen van
 
 De Voorzitter houdt het Comité van Ministers en de Parlementaire Vergadering regelmatig op de hoogte van de werkzaamheden van de Bank; hij doet, onder andere, het verslag van de Gouverneur toekomen aan het Comité van Ministers en onderhoudt alle andere noodzakelijke contacten met de Raad van Europa.
 
-#### Artikel X. De Administratieve Raad
+##### Artikel X. De Administratieve Raad
 
 De Administratieve Raad heeft alle bevoegdheden die ingevolge artikel IX door de Raad van Bestuur aan hem zijn gedelegeerd.
 
@@ -236,7 +261,7 @@ d. Het Uitvoerend Comité komt zo vaak als nodig is bijeen, maar ten minste acht
 
 e. Binnen de door de Administratieve Raad vastgestelde richtlijnen en grenzen neemt het Uitvoerend Comité zijn beslissingen met een meerderheid van zeven van zijn leden. Indien deze meerderheid niet wordt bereikt, wordt de besproken aangelegenheid terugverwezen naar de Administratieve Raad.
 
-#### Artikel XI. De Gouverneur
+##### Artikel XI. De Gouverneur
 
 a. De Gouverneur is de wettelijk vertegenwoordiger van de Bank. Hij is het hoofd van de uitvoerende diensten van de Bank en behandelt de lopende zaken volgens de instructies van de Administratieve Raad. Overeenkomstig de artikelen V en VII gaat hij geen enkele financiële verplichting aan zonder machtiging van de Administratieve Raad. Onder algemeen toezicht van de Administratieve Raad is hij verantwoordelijk voor de organisatie van de uitvoerende diensten en voor de benoeming en het ontslag van het personeel van de Bank, in het kader van door de Administratieve Raad aangenomen voorschriften.
 
@@ -254,7 +279,7 @@ De Gouverneur stelt een volledig jaarverslag op over alle gedurende dat jaar ver
 
 De Gouverneur en de Vice-Gouverneurs worden elk benoemd voor een termijn van vijf jaar, welke termijn kan worden verlengd. Het bedrag van hun salaris wordt vastgesteld door de Administratieve Raad.
 
-#### Artikel XII. De Controlecommissie
+##### Artikel XII. De Controlecommissie
 
 De Controlecommissie bestaat uit drie leden, benoemd ingevolge artikel IX, sectie 3, letter m, wegens hun bekwaamheid in economische en financiële aangelegenheden. Zij handelen volledig onafhankelijk.
 
@@ -264,7 +289,7 @@ In haar jaarverslag verklaart de Controlecommissie dat de balans en de jaarreken
 
 De Controlecommissie ontvangt alle stukken die van nut zijn voor haar werkzaamheden, zoals externe en interne accountantsrapporten. Op verzoek van de organen van de Bank verricht de Controlecommissie elke andere taak die verband houdt met het toezicht op de financiële activiteiten van de Bank.
 
-#### Artikel XIII. Raad van Europa
+##### Artikel XIII. Raad van Europa
 
 a. Ter wille van de betrekkingen met de Raad van Europa worden het Comité van Ministers en de Parlementaire Vergadering van de Raad van Europa regelmatig op de hoogte gebracht van de activiteiten van de Bank. De Raad van Bestuur spreekt zich uit over aanbevelingen en adviezen van het Comité van Ministers en de Parlementaire Vergadering die hem worden toegezonden.
 
@@ -276,11 +301,11 @@ Hij kan alle andere taken verrichten die hem door de organen van de Bank worden 
 
 c. Verzoeken om leningen en waarborgen worden ingediend bij de Administratieve Raad na ontvangst van het advies van de Secretaris-Generaal inzake de ontvankelijkheid op grond van de vraag of het project strookt met de politieke en sociale doelstellingen van de Raad van Europa.
 
-#### Artikel XIV. Zetel
+##### Artikel XIV. Zetel
 
 De Bank is gevestigd te Straatsburg, Frankrijk. De zetel van de uitvoerende diensten is gevestigd te Parijs en kan slechts worden gewijzigd bij besluit van de Raad van Bestuur en een gelijkluidend besluit van de Administratieve Raad.
 
-#### Artikel XV. Opschorting van de werkzaamheden en liquidatie van de Bank
+##### Artikel XV. Opschorting van de werkzaamheden en liquidatie van de Bank
 
 Elk lid kan uit de Bank treden onder de door de Raad van Bestuur vastgestelde voorwaarden na hiervan zes maanden voor het einde van het lopende kalenderjaar kennisgeving te hebben gedaan.
 
@@ -296,11 +321,11 @@ Nadat aan alle verplichtingen van de Bank is voldaan, met inbegrip van de uitoef
 
 - c. Indien er netto passiva zijn, worden deze over de leden van de Bank omgeslagen naar evenredigheid van het aantal deelnemingsbewijzen dat elk lid bezit. Van elk lid wordt verlangd dat het zijn aandeel aan de Bank betaalt, verminderd met de volgestorte deelnemingsbewijzen, en tot het maximum van de deelnemingsbewijzen waarop is ingeschreven.
 
-#### Artikel XVI. Uitlegging van dit Statuut
+##### Artikel XVI. Uitlegging van dit Statuut
 
 Elk besluit van de Administratieve Raad dat de uitlegging van dit Statuut met zich meebrengt, kan op verzoek van een lid worden voorgelegd aan de Raad van Bestuur. Totdat de Raad van Bestuur daarover een beslissing heeft genomen, kan de Bank, voor zover het zulks noodzakelijk acht, handelen op grond van het besluit van de Raad van Bestuur.
 
-#### Artikel XVII. Kennisgevingen
+##### Artikel XVII. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van Europa stelt de leden van de Bank en de Gouverneur in kennis van:
 

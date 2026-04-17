@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten"
 identifier: "BWBV0004785"
-categorie: "Internationaal recht"
-publicatiedatum: 1953-12-18
-laatste_update: 1953-12-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004785"
+country: "nl"
+rank: "verdrag"
+publication_date: "1953-12-18"
+last_updated: "1953-12-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004785"
+soort: "verdrag"
+stam_id: "10004316433"
+version_id: "10004516142"
+internal_id: "C10007081921"
+label_id: "10004301814"
+dtd_version: "2.0"
+original_entry_into_force: "1953-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004785/1953-12-18/0"
+intitule_bron: "Trb.1951-114"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1951-09-13"
+intitule_in_force: "1954-07-08"
+intitule_status: "goed"
+original_publication: "Trb.1951-114"
+original_published_date: "1951-09-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1951-114"
+entry_into_force_date: "1953-12-18"
+jci_1_3: "jci1.3:c:BWBV0004785&z=1953-12-18&g=1953-12-18"
+jci_1_0: "1.0:c:BWBV0004785&g=1953-12-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "1953-12-18"
 ---
-
 # Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten
 
 De Staten die partij zijn bij het [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760), ondertekend te Washington op 4 April 1949;
@@ -20,7 +42,7 @@ Verlangende echter de rechtspositie van die strijdkrachten te bepalen, wanneer d
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I
+##### Artikel I
 
 1. In dit Verdrag wordt verstaan onder de uitdrukking:
 
@@ -40,11 +62,11 @@ Zijn overeengekomen als volgt:
 
 2. Dit Verdrag is op gelijke wijze van toepassing op de autoriteiten van staatkundige onderdelen van de Verdragsluitende Partijen, binnen derzelver grondgebied waarop het Verdrag van toepassing is of waartoe dit in overeenstemming met Artikel XX wordt uitgebreid, als het van toepassing is op de centrale autoriteiten van die Verdragsluitende Partijen, met dien verstande evenwel, dat eigendommen van staatkundige onderdelen niet zullen worden beschouwd eigendom te zijn van een Verdragsluitende Partij in de zin van Artikel VIII.
 
-#### Artikel II
+##### Artikel II
 
 Een krijgsmacht, haar civiele dienst, de leden daarvan, alsmede hun gezinsleden zijn gehouden de wetten van de Staat van verblijf te eerbiedigen en zich te onthouden van elk optreden in strijd met de geest van dit Verdrag en in het bijzonder van elke politieke activiteit in de Staat van verblijf. De Staat van herkomst is mede gehouden de hiertoe noodzakelijke maatregelen te nemen.
 
-#### Artikel III
+##### Artikel III
 
 1. Leden van een krijgsmacht zijn, onverminderd de voorwaarden, neergelegd in lid 2 van dit Artikel en op voorwaarde van nakoming van de formaliteiten, welke door de Staat van verblijf met betrekking tot in- en uitreis van een krijgsmacht of de leden daarvan worden vastgesteld, niet onderworpen aan voorschriften met betrekking tot paspoorten en visa en aan inspectie door immigratiediensten bij het binnenkomen of verlaten van het grondgebied van de Staat van verblijf. Zij zijn evenmin onderworpen aan de voorschriften van de Staat van verblijf terzake van registratie en controle van vreemdelingen, doch worden niet geacht enig recht op voortdurend verblijf of op woonplaats te verwerven in de gebieden van de Staat van verblijf.
 
@@ -62,7 +84,7 @@ De autoriteiten van de Staat van herkomst doen op gelijke wijze mededeling aan d
 
 5. Indien de Staat van verblijf verzocht heeft een lid van een krijgsmacht of van een civiele dienst van zijn grondgebied te verwijderen of een bevel tot uitwijzing heeft uitgevaardigd tegen een voormalig lid van een krijgsmacht of van een civiele dienst of tegen een gezinslid van een lid of voormalig lid, zijn de autoriteiten van de Staat van herkomst verplicht de betrokken persoon op hun eigen grondgebied toe te laten dan wel in ieder geval hem het grondgebied van de Staat van verblijf te doen verlaten. Dit lid is slechts van toepassing op personen, die geen onderdaan zijn van de Staat van verblijf en die deze Staat zijn binnengekomen als leden van een krijgsmacht of van een civiele dienst of met het doel dit te worden, alsmede op de gezinsleden van zodanige personen.
 
-#### Artikel IV
+##### Artikel IV
 
 De Staat van verblijf zal:
 
@@ -70,7 +92,7 @@ De Staat van verblijf zal:
 
 - b. hetzij, zonder onderzoek, het eigen rijbewijs afgeven aan elk lid van een krijgsmacht of van een civiele dienst, dat houder is van een burgerlijk of militair rijbewijs, afgegeven door de Staat van herkomst of een van zijn samenstellende delen.
 
-#### Artikel V
+##### Artikel V
 
 1. Leden van een krijgsmacht dragen in de regel uniform. Behalve wanneer tussen de autoriteiten van de Staat van herkomst en de Staat van verblijf het tegendeel mocht zijn overeengekomen, wordt burgerkleding gedragen onder dezelfde voorwaarden, als gelden voor de leden van de strijdkrachten van de Staat van verblijf.
 
@@ -78,11 +100,11 @@ Geregelde eenheden of formaties van een krijgsmacht dragen uniform bij het overs
 
 2. Dienstvoertuigen van een krijgsmacht of van een civiele dienst voeren naast hun registratienummer een kenteken ter aanduiding van hun nationaliteit.
 
-#### Artikel VI
+##### Artikel VI
 
 Leden van een krijgsmacht mogen wapens in hun bezit hebben en dragen, mits de op hen toepasselijke voorschriften zulks toestaan. De autoriteiten van de Staat van herkomst nemen verzoeken van de Staat van verblijf te dezer zake in welwillende overweging.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Behoudens de bepalingen van dit artikel hebben
 
@@ -152,7 +174,7 @@ Leden van een krijgsmacht mogen wapens in hun bezit hebben en dragen, mits de op
 
 11. Iedere Verdragsluitende Partij zal er naar streven die wettelijke maatregelen tot stand te brengen, welke zij noodzakelijk acht teneinde een behoorlijke beveiliging en bescherming binnen haar grondgebied van de installaties, het materieel, de eigendommen, archieven en officiële documenten van andere Verdragsluitende Partijen, alsmede de bestraffing van inbreuken op deze wetgeving, te verzekeren.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Iedere Verdragsluitende Partij doet afstand van al haar vorderingen tegen een andere Verdragsluitende Partij terzake van schade aan haar eigendommen, in gebruik bij haar land-, zee- of luchtstrijdkrachten, indien deze schade
 
@@ -246,7 +268,7 @@ Van vorderingen ter zake van berging, welke een Verdragsluitende Partij tegen ee
 
 10. De autoriteiten van de Staat van herkomst en van de Staat van verblijf zullen samenwerken bij het verzamelen van bewijsmateriaal voor een behoorlijk onderzoek van en beschikken op vorderingen waarbij de Verdragsluitende Partijen zijn betrokken.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Leden van een krijgsmacht of van een civiele dienst en hun gezinsleden mogen op dezelfde voorwaarden als de onderdanen van de Staat van verblijf ter plaatse goederen kopen, nodig voor eigen gebruik, en aldaar gebruik maken van diensten, waaraan zij behoefte hebben.
 
@@ -268,7 +290,7 @@ Deze faciliteiten en reducties zullen het onderwerp uitmaken van door de betrokk
 
 8. Een krijgsmacht, een civiele dienst, leden daarvan of hun gezinsleden ontlenen aan dit artikel geen aanspraak op enige vrijstelling van belastingen of andere heffingen, welke krachtens de belastingvoorschriften van de Staat van verblijf terzake van koop en verkoop van goederen en het verrichten van diensten worden geheven.
 
-#### Artikel X
+##### Artikel X
 
 1. Indien het onderworpen zijn aan enige vorm van belasting in de Staat van verblijf afhankelijk is van verblijf, van woonplaats of van ingezetenschap, worden voor de heffing van zodanige belasting de tijdvakken, gedurende welke een lid van een krijgsmacht of van een civiele dienst aanwezig is op het grondgebied van deze Staat uitsluitend uit hoofde van zijn hoedanigheid van lid van een zodanige krijgsmacht of civiele dienst, niet beschouwd als tijdvakken van verblijf of van woonplaats aldaar, noch beschouwd verandering van verblijf, van woonplaats of van ingezetenschap te weeg te brengen.
 
@@ -280,7 +302,7 @@ Leden van een krijgsmacht of van een civiele dienst zijn in de Staat van verblij
 
 4. Voor de toepassing van dit artikel is onder de uitdrukking „lid van een krijgsmacht” niet begrepen een persoon, die de nationaliteit bezit van de Staat van verblijf.
 
-#### Artikel XI
+##### Artikel XI
 
 1. Behoudens voor zover in dit Verdrag uitdrukkelijk anders is bepaald, zijn leden van een krijgsmacht en van een civiele dienst evenals hun gezinsleden onderworpen aan de wetten en voorschriften, welke worden toegepast door de douane-administratie van de Staat van verblijf. De douane-ambtenaren van de Staat van verblijf hebben in het bijzonder het recht, met inachtneming van de algemene voorwaarden door de wetten en voorschriften van de Staat van verblijf vastgesteld, leden van een krijgsmacht of van een civiele dienst en hun gezinsleden aan den lijve te onderzoeken en hun bagage en voertuigen te visiteren. Zij hebben eveneens het recht overeenkomstig vorenbedoelde wetten en voorschriften goederen in beslag te nemen.
 
@@ -320,13 +342,13 @@ Voor de bedoelde vrije invoer geldt als voorwaarde, dat tezamen met de douanedoc
 
 In laatstbedoeld geval omvat de uitdrukking „Staat van verblijf” in dit artikel iedere Verdragsluitende Partij over welks grondgebied de goederen worden doorgevoerd.
 
-#### Artikel XII
+##### Artikel XII
 
 1. Elke vrijstelling of faciliteit van douanetechnische of van fiscale aard op grond van dit Verdrag verleend, is afhankelijk van de naleving van de bepalingen, welke de douane- of belastingautoriteiten van de Staat van verblijf ter voorkoming van misbruik noodzakelijk mochten achten.
 
 2. Dezelfde autoriteiten kunnen beslissen, dat in dit Verdrag voorziene vrijstellingen niet worden genoten bij de invoer van producten, welke zijn geoogst, voortgebracht of vervaardigd in de Staat van verblijf en van te voren zijn uitgevoerd met vrijstelling of met terugbetaling van de rechten en andere heffingen, welke verschuldigd zouden zijn geweest, indien die producten niet zouden zijn uitgevoerd. Deze bepaling is mede van toepassing op goederen, welke zijn uitgeslagen uit een entrepot, indien de opslag in dat entrepot als uitvoer is beschouwd.
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. Ter voorkoming van inbreuk op de wetten en voorschriften van douanetechnische of van fiscale aard, verlenen de autoriteiten van de Staat van verblijf en van de Staat van herkomst elkaar hun medewerking bij het instellen van onderzoeken en het verzamelen van bewijsmateriaal.
 
@@ -336,13 +358,13 @@ In laatstbedoeld geval omvat de uitdrukking „Staat van verblijf” in dit arti
 
 4. Goederen en geregistreerde dienstvoertuigen, welke toebehoren aan een krijgsmacht of aan haar civiele dienst en niet aan een lid van zodanige krijgsmacht of civiele dienst, en welke door de autoriteiten van de Staat van verblijf terzake van een douane- of belastingovertreding in beslag zijn genomen, worden aan de bevoegde autoriteiten van die krijgsmacht overgedragen.
 
-#### Artikel XIV
+##### Artikel XIV
 
 1. Een krijgsmacht en een civiele dienst, de leden daarvan, alsmede hun gezinsleden, blijven onderworpen aan de deviezenbepalingen van de Staat van herkomst en zijn tevens onderworpen aan de desbetreffende bepalingen van de Staat van verblijf.
 
 2. De met de controle op het deviezenverkeer belaste autoriteiten van de Staat van herkomst en van de Staat van verblijf kunnen ten aanzien van een krijgsmacht en van haar civiele dienst of van de leden daarvan, alsmede van hun gezinsleden, bijzondere bepalingen vaststellen.
 
-#### Artikel XV
+##### Artikel XV
 
 1. Onverminderd het bepaalde in lid 2 van dit artikel blijft dit Verdrag van kracht bij het uitbreken van vijandelijkheden waarop het [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760) van toepassing is. In dat geval zijn de bepalingen inzake de regeling van vorderingen in de leden 2 en 5 van artikel VIII niet van toepassing op oorlogsschade en worden de bepalingen van dit Verdrag en in het bijzonder van de artikelen III en VII terstond opnieuw in beschouwing genomen door de betrokken Verdragsluitende Partijen, die zodanige wijziging kunnen overeenkomen als zij met betrekking tot de wederzijdse toepassing van het Verdrag wenselijk achten.
 
@@ -350,17 +372,17 @@ In laatstbedoeld geval omvat de uitdrukking „Staat van verblijf” in dit arti
 
 Indien dit recht wordt uitgeoefend zullen de Verdragsluitende Partijen elkander terstond raadplegen, teneinde overeenstemming te bereiken over passende bepalingen ter vervanging van de geschorste bepalingen.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Alle geschillen tussen de Verdragsluitende Partijen met betrekking tot de uitlegging of toepassing van dit Verdrag worden door onderhandelingen tussen hen geregeld zonder beroep op enig rechterlijk orgaan buiten de organisatie van het [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760). Behoudens voor zover in dit Verdrag uitdrukkelijk het tegendeel wordt bepaald, worden geschillen, die niet door rechtstreekse onderhandelingen kunnen worden opgelost, verwezen naar de Noord-Atlantische Raad.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Elke Verdragsluitende Partij kan te allen tijde de herziening van enig artikel van dit Verdrag verlangen.
 
 Een verzoek daartoe wordt gericht aan de Noord-Atlantische Raad.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 1. Dit Verdrag zal worden bekrachtigd en de bekrachtigingsoorkonden zullen zo spoedig mogelijk worden nedergelegd bij de Regering van de Verenigde Staten van Amerika, welke iedere ondertekenende Staat mededeling zal doen van de datum van nederlegging.
 
@@ -370,7 +392,7 @@ Een verzoek daartoe wordt gericht aan de Noord-Atlantische Raad.
 
 Met betrekking tot elke Staat, namens welke een akte van toetreding is nedergelegd, treedt dit Verdrag in werking dertig dagen na de datum van nederlegging van deze akte.
 
-#### Artikel XIX
+##### Artikel XIX
 
 1. Dit Verdrag kan door iedere Verdragsluitende Partij worden opgezegd na verloop van een periode van vier jaren na de datum, waarop het Verdrag in werking treedt.
 
@@ -378,7 +400,7 @@ Met betrekking tot elke Staat, namens welke een akte van toetreding is nedergele
 
 3. De opzegging wordt van kracht één jaar na ontvangst van de mededeling door de Regering van de Verenigde Staten van Amerika. Na verloop van deze periode van een jaar houdt het Verdrag op van kracht te zijn met betrekking tot de Verdragsluitende Partij, die het opzegt, maar het blijft van kracht voor de overige Verdragsluitende Partijen.
 
-#### Artikel XX
+##### Artikel XX
 
 1. Behoudens het bepaalde in de leden 2 en 3 van dit artikel, is dit Verdrag slechts van toepassing op het grondgebied van het moederland van een Verdragsluitende Partij.
 

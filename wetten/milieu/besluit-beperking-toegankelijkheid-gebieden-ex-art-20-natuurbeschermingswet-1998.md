@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking toegankelijkheid gebieden ex art. 20 Natuurbeschermingswet 1998, gelegen binnen het Natura 2000-gebied ‘Westerschelde & Saeftinghe‘"
+title: "Besluit van de Staatssecretaris van Economische Zaken, van 11 november 2016, kenmerk: 16170128, tot beperking van de toegankelijkheid van gebieden ex artikel 20 Natuurbeschermingswet 1998, gelegen binnen het Natura 2000-gebied ‘Westerschelde & Saeftinghe’"
 identifier: "BWBR0038737"
-categorie: "Milieu"
-publicatiedatum: 2016-11-19
-laatste_update: 2016-11-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038737"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-11-19"
+last_updated: "2016-11-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038737"
+soort: "ministeriele-regeling"
+stam_id: "13795703"
+version_id: "23662392"
+internal_id: "C34060511"
+label_id: "13761944"
+dtd_version: "2.0"
+original_entry_into_force: "2016-11-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038737/2016-11-19/0"
+intitule_bron: "Stcrt.2016-62032"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-11-11"
+intitule_published: "2016-11-18"
+intitule_in_force: "2016-11-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-62032"
+original_signed_date: "2016-11-11"
+original_published_date: "2016-11-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-62032"
+entry_into_force_date: "2016-11-19"
+jci_1_3: "jci1.3:c:BWBR0038737&z=2016-11-19&g=2016-11-19"
+jci_1_0: "1.0:c:BWBR0038737&g=2016-11-19"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking toegankelijkheid gebieden ex art. 20 Natuurbeschermingswet 1998, gelegen binnen het Natura 2000-gebied ‘Westerschelde & Saeftinghe‘"
+signed_date: "2016-11-11"
+entry_into_force: "2016-11-19"
 ---
-
 # Besluit van de Staatssecretaris van Economische Zaken, van 11 november 2016, kenmerk: 16170128, tot beperking van de toegankelijkheid van gebieden ex artikel 20 Natuurbeschermingswet 1998, gelegen binnen het Natura 2000-gebied ‘Westerschelde & Saeftinghe’
 
 Handelende in overeenstemming met de Minister van Infrastructuur en Milieu;
@@ -16,7 +42,7 @@ Gelet op [artikel 20, eerste en tweede lid, van de Natuurbeschermingswet 1998](h
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor het gehele Natura 2000-gebied ‘Westerschelde & Saeftinghe’, zowel buitendijks als binnendijks, is de toegang gedurende het gehele jaar verboden voor:
 
@@ -26,11 +52,11 @@ Besluit:
 
 2. Het is verboden op een zodanige wijze modelvliegtuigen/modelluchtvaartuigen (drones (UAS of RPAS) inbegrepen) te besturen dat deze zich bevinden in of boven het Natura 2000-gebied Westerschelde & Saeftinghe.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de binnen het Natura 2000-gebied ‘Westerschelde & Saeftinghe’ gelegen schorgebieden ‘Zuidgors’, ‘Schor van Waarde’, ‘Schorren bij Bath’, ‘Schor van de Appelzak’, ‘Verdronken Land van Saeftinghe’, ‘Hellegatschor’ en ‘Paulinaschor’ is de toegang gedurende het gehele jaar verboden. Voor het ‘Verdronken Land van Saeftinghe’ geldt dat het zuidwestelijke deel van het gebied, inclusief de geul het ‘Speelmansgat’, uitgezonderd is van dit verbod.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de binnen het Natura 2000-gebied ‘Westerschelde & Saeftinghe’ gelegen gebieden ‘Hooge Platen-complex’, ‘Rug van Baarland’, ‘Platen van Valkenisse’ en ‘De Bol’, een hoger gelegen zandig deel van het ‘Hooge Platen-complex’, gelden de volgende toegangsbeperkingen:
 
@@ -42,17 +68,17 @@ Voor de binnen het Natura 2000-gebied ‘Westerschelde & Saeftinghe’ gelegen g
 
 Voor het op de kaart aangegeven deel van de ‘Rug van Baarland’ en de op de kaart aangegeven delen van de ‘Platen van Valkenisse’, inclusief de Geul Zimmerman en het ten noorden van de geul gelegen slik, geldt dat de toegang tot deze gebieden het gehele jaar is verboden.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor het binnen het Natura 2000-gebied ‘Westerschelde & Saeftinghe’ gelegen gebied ‘Verdronken Zwarte Polder’ is de toegang van het noordwestelijk deel (buitendijks) van 15 april t/m 15 juli verboden.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor het binnen het Natura 2000-gebied ‘Westerschelde & Saeftinghe’ gelegen gebied ‘Plaat van Baarland’ is de toegang het gehele jaar verboden.
 
 De toegang tot de ‘Plaat van Baarland’ is verboden, met uitzondering van activiteiten, zoals zwemmen, varen, ankeren en/of beroeps- en sportvisserij die in dit gebied plaatsvinden in de periode dat het niet drooggevallen is en er water staat.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor het binnen het Natura 2000-gebied ‘Westerschelde & Saeftinghe’ gelegen gebied ‘Schor en slik Ossenisse’ is de toegang tussen de Noord- en Zuidnol het gehele jaar verboden voor recreatie.
 
@@ -60,31 +86,31 @@ Van dit verbod is het gebruik van het ‘Puttenstrandje’ voor strandrecreatie 
 
 Daarnaast zijn de Noordnol en de Kop van de Zuidnol jaarlijks in de periode van 16 september t/m 14 mei afgesloten voor publiek.
 
-#### Artikel 7
+##### Artikel 7
 
 Voor de binnen het Natura 2000-gebied ‘Westerschelde & Saeftinghe’ gelegen gebied ‘Hoofdplaat Nummer Een’ is de toegang van 15 april t/m 15 juli verboden. Het recreatief gebruik van het buitendijkse fietspad (fietsen, wandelen) en het wandelpad halverwege het gebied richting de zeedijk en de dijkovergang, is uitgezonderd van het toegangsverbod. Honden zijn, voor zover niet aangelijnd, jaarrond niet toegestaan.
 
-#### Artikel 8
+##### Artikel 8
 
 De hiervoor in [artikel 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038737&artikel=1&z=2016-11-19&g=2016-11-19) omschreven toegangsbeperking geldt op grond van [artikel 20, lid 4, van de Nb-wet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=20) niet voor de volgende activiteiten:
 
 Aanwezigheid gedurende het gehele jaar voor de uitvoering van beroepsmatig uitgevoerde activiteiten en overheidstaken (beheer en onderhoud, beroepsvisserij, faunabeheer, markeren, inspectie-, toezicht-, opsporings-, reddings- en defensietaken, calamiteitenbeheer van overheidswege of in opdracht van de overheid, door of in opdracht van een terreinbeherende natuurbeschermingsorganisatie georganiseerde activiteiten, onderzoek en monitoring daaronder begrepen), waarvoor het gesloten gebied moet worden betreden dan wel bevaren, binnen het gebied moet worden drooggevallen en het gebruik van drones, of vliegen beneden 1000 voet (300 meter) kunnen, voor zover deze activiteiten noodzakelijkerwijs binnen of deels binnen deze gebieden moeten worden uitgevoerd, worden toegestaan.
 
-#### Artikel 9
+##### Artikel 9
 
 Georganiseerde excursies en rondleidingen waarvoor het gesloten gebied moet worden betreden dan wel bevaren, kunnen, voor zover deze activiteiten noodzakelijkerwijs binnen of deels binnen deze gebieden moeten worden uitgevoerd, worden toegestaan, echter voor zover hiervoor een vergunning als bedoeld in[artikel 19d van de Nb-wet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=19d) is verleend, dan wel deze activiteit is geregeld in een beheerplan in de zin van de [Nb-wet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641).
 
-#### Artikel 10
+##### Artikel 10
 
 Naast de in voorkomende gevallen op grond van de toegankelijkheidsregeling noodzakelijke vergunning, dan wel vrijstelling via het beheerplan, volgens de [Nb-wet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641), is voor het zich bevinden op private gronden van particulieren toestemming van de rechthebbende van deze gronden nodig.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De gebieden waarvan de toegankelijkheid middels dit besluit wordt beperkt zijn aangegeven op de bij dit besluit behorende kaart ‘Toegangbeperking Natura 2000-gebied Westerschelde & Saeftinghe’.
 
 2. In het veld is de begrenzing van de gebieden waarvan de toegankelijkheid wordt beperkt vanaf de landzijde herkenbaar middels aangebrachte bebording. Aan de waterzijde wordt de grens gevormd door de scheepvaartbetonning of, waar deze niet aanwezig is, door de NAP -5 meter dieptelijn.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Dit besluit wordt bekendgemaakt in de Staatscourant. Bij dit besluit gaat een toelichting en een kaart die integraal onderdeel uitmaken van dit besluit.
 

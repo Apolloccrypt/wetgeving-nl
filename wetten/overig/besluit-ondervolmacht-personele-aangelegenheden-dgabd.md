@@ -1,13 +1,35 @@
 ---
 title: "Besluit ondervolmacht personele aangelegenheden DGABD"
 identifier: "BWBR0048863"
-categorie: "Overig"
-publicatiedatum: 2023-11-10
-laatste_update: 2023-11-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048863"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-11-10"
+last_updated: "2023-11-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048863"
+soort: "ministeriele-regeling"
+stam_id: "16909793"
+version_id: "29718982"
+internal_id: "C42592701"
+label_id: "16821174"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048863/2023-11-10/0"
+intitule_bron: "Stcrt.2023-30434"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-11-09"
+intitule_in_force: "2023-11-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-30434"
+original_published_date: "2023-11-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-30434"
+entry_into_force_date: "2023-11-10"
+jci_1_3: "jci1.3:c:BWBR0048863&z=2023-11-10&g=2023-11-10"
+jci_1_0: "1.0:c:BWBR0048863&g=2023-11-10"
+citeertitel_status: "officieel"
+entry_into_force: "2023-11-10"
 ---
-
 # Besluit ondervolmacht personele aangelegenheden DGABD
 
 gelet op [artikel 5.1 van het Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=5.1),

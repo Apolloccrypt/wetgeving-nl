@@ -1,18 +1,43 @@
 ---
 title: "Regeling geneeskundige zorg voor specifieke patiëntgroepen"
 identifier: "BWBR0051787"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051787"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051787"
+soort: "zbo"
+stam_id: "17605583"
+version_id: "31083922"
+internal_id: "C44503141"
+label_id: "17505984"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051787/2026-01-01/0"
+intitule_bron: "Stcrt.2025-39453"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-11"
+intitule_published: "2025-11-20"
+intitule_in_force: "2025-11-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-39453"
+original_signed_date: "2025-11-11"
+original_published_date: "2025-11-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-39453"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051787&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051787&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-11-11"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling geneeskundige zorg voor specifieke patiëntgroepen
 
 Gelet op [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) en [38 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van geneeskundige zorg voor specifieke patiëntgroepen.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
@@ -38,7 +63,7 @@ In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
 - 2°. natuurlijk persoon of rechtspersoon voor zover deze tarieven in rekening brengt namens, ten behoeve van of in verband met het verlenen van zorg door een zorgaanbieder als bedoeld onder 1°.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling beoogt voorschriften te stellen die een zorgaanbieder in acht moet nemen bij het leveren van prestaties van geneeskundige zorg voor specifieke patiëntgroepen. De voorschriften hebben betrekking op:
 
@@ -48,15 +73,15 @@ Deze regeling beoogt voorschriften te stellen die een zorgaanbieder in acht moet
 
 - •. transparantie.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op zorgaanbieders die geneeskundige zorg voor specifieke patiëntgroepen leveren zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051787&artikel=1&z=2026-01-01&g=2026-01-01) van deze regeling.
 
-#### Artikel 4. Administratievoorschriften
+##### Artikel 4. Administratievoorschriften
 
 De administratieve organisatie is zodanig ingericht dat een audit-trail mogelijk is. De NZa en de zorgverzekeraar moeten te allen tijde de mogelijkheid hebben om vastlegging van de uitgevoerde behandeltrajecten op volledigheid, juistheid en actualiteit te controleren.
 
-#### Artikel 5. Declaratievoorschriften
+##### Artikel 5. Declaratievoorschriften
 
 1. De zorgaanbieder neemt op de declaratie aan de patiënt en/of zorgverzekeraar de volgende gegevens op:
 
@@ -102,11 +127,11 @@ De tijd dat zorg is geleverd wordt afgerond op het dichtstbijzijnde veelvoud van
 
 - –. De prestatie Zorgtraject kwetsbare patiënten startfase dient voorafgaand aan de prestatie Zorgtraject kwetsbare patiënten vervolgfase gedeclareerd te worden. De prestatie zorgtraject kwetsbare patiënten startfase mag in principe maximaal één keer per jaar gedeclareerd worden. Een uitzondering op de maximering van de prestatie Zorgtraject kwetsbare patiënten startfase is als de regiebehandelaar het gemotiveerd kan aantonen dat de zorgsituatie dusdanig is gewijzigd dat een nieuwe uitgebreide diagnostische fase noodzakelijk is om tot een passend behandelplan te komen.
 
-#### Artikel 6. Transparantievoorschriften
+##### Artikel 6. Transparantievoorschriften
 
 De zorgaanbieder informeert de consument tijdig en zorgvuldig over de tarieven die zij voor de prestaties in rekening brengt.
 
-#### Artikel 7. Verantwoordelijkheid
+##### Artikel 7. Verantwoordelijkheid
 
 1. De zorgaanbieder is verantwoordelijk voor de goede opvolging van de in deze nadere regel genoemde bepalingen.
 
@@ -114,11 +139,11 @@ De zorgaanbieder informeert de consument tijdig en zorgvuldig over de tarieven d
 
 3. Bij onderlinge dienstverlening draagt de opdrachtgevende zorgaanbieder zorg voor de uitvoering van de in deze regeling genoemde bepalingen.
 
-#### Artikel 8. Intrekken oude regeling
+##### Artikel 8. Intrekken oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt [Regeling geneeskundige zorg voor specifieke patiëntgroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050036), met kenmerk NR/REG-2520, ingetrokken.
 
-#### Artikel 9. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 9. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
 
 De [Regeling geneeskundige zorg voor specifieke patiëntgroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050036), met kenmerk NR/REG-2520, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 

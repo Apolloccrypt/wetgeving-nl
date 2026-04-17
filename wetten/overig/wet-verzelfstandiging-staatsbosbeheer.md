@@ -1,14 +1,41 @@
 ---
-title: "Wet verzelfstandiging Staatsbosbeheer"
+title: "Wet van 11 september 1997 tot verzelfstandiging van Staatsbosbeheer (Wet verzelfstandiging Staatsbosbeheer)"
 identifier: "BWBR0008904"
-categorie: "Overig"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008904"
+country: "nl"
+rank: "wet"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008904"
+soort: "wet"
+stam_id: "2647523"
+version_id: "4005962"
+internal_id: "C4005961"
+label_id: "2592524"
+dtd_version: "2.0"
+original_entry_into_force: "1998-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008904/2020-01-01/0"
+intitule_bron: "Stb.1997-514"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-09-11"
+intitule_published: "1997-11-13"
+intitule_in_force: "1997-12-23"
+intitule_status: "goed"
+original_publication: "Stb.1997-514"
+original_signed_date: "1997-09-11"
+original_published_date: "1997-11-13"
+original_effect: "nieuwe-regeling"
+original_dossier: "24622"
+original_url_id: "stb-1997-514"
+entry_into_force_date: "1998-01-01"
+jci_1_3: "jci1.3:c:BWBR0008904&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0008904&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet verzelfstandiging Staatsbosbeheer"
+signed_date: "1997-09-11"
+entry_into_force: "1998-01-01"
 ---
-
-# Wet verzelfstandiging Staatsbosbeheer
+# Wet van 11 september 1997 tot verzelfstandiging van Staatsbosbeheer (Wet verzelfstandiging Staatsbosbeheer)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### HOOFDSTUK I. ALGEMEEN
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -32,7 +59,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. object: terrein, gebouw, complex van gebouwen, of water, dan wel een combinatie van één of meer terreinen, gebouwen, complexen van gebouwen of één of meer waters, met bestaande dan wel potentieel aanwezige natuurwetenschappelijke, bosbouwkundige, landschappelijke, recreatieve, archeologische, aardkundige of cultuurhistorische waarden, dan wel met die waarden verband houdende bestaande of potentieel aanwezige educatieve waarden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Staatsbosbeheer, gevestigd te Driebergen-Rijsenburg in de gemeente Utrechtse Heuvelrug.
 
@@ -42,7 +69,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### HOOFDSTUK II. TAKEN EN DOELSTELLING VAN STAATSBOSBEHEER
 
-#### Artikel 3
+##### Artikel 3
 
 1. Staatsbosbeheer is belast met het beheer van de bij deze dienst krachtens eigendom of enig ander zakelijk dan wel enig persoonlijk recht berustende objecten en het verkrijgen van objecten, met als doelstelling bestaande, onderscheidenlijk potentiële, natuurwetenschappelijke, bosbouwkundige, landschappelijke, recreatieve, archeologische, aardkundige of cultuurhistorische waarden, dan wel de met die waarden verband houdende bestaande of potentieel aanwezige educatieve waarden, in het algemeen belang duurzaam in stand te houden, onderscheidenlijk met het oog daarop te ontwikkelen, een en ander in overeenstemming met het ten aanzien van de instandhouding en ontwikkeling van de voornoemde waarden door Onze Minister geformuleerd beleid. Onder beheer wordt mede verstaan de bevoegdheid tot vervreemding.
 
@@ -66,7 +93,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 1. De raad van toezicht
 
-#### Artikel 4
+##### Artikel 4
 
 1. Staatsbosbeheer heeft een raad van toezicht.
 
@@ -74,7 +101,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij de vervulling van zijn taak richt de raad van toezicht zich naar het belang van de behoorlijke vervulling van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De raad van toezicht bestaat uit een voorzitter en ten minste twee en ten hoogste vier andere leden.
 
@@ -82,7 +109,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De leden hebben op persoonlijke titel zitting in de raad van toezicht en oefenen hun functie uit zonder last of ruggespraak.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De voorzitter en de overige leden van de raad van toezicht worden op voordracht van Onze Minister bij koninklijk besluit benoemd, geschorst en ontslagen.
 
@@ -100,11 +127,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 8. Degene die wordt benoemd in de plaats van een lid wiens zittingsperiode van vier jaren nog niet is verstreken, wordt benoemd tot het einde van die periode.
 
-#### Artikel 7
+##### Artikel 7
 
 Onze Minister kan aan de leden van de raad van toezicht, ten laste van Staatsbosbeheer, een vergoeding toekennen volgens door hem vast te stellen regelen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De raad van toezicht stelt een reglement vast betreffende zijn werkwijze, de werkwijze van de raad van advies en de taakverdeling tussen de raad van toezicht en de directeur. Daarin wordt tevens bepaald welke besluiten van de directeur de goedkeuring van de raad van toezicht behoeven en in welke gevallen de directeur in ieder geval advies vraagt aan de raad van advies.
 
@@ -128,13 +155,13 @@ Onze Minister kan aan de leden van de raad van toezicht, ten laste van Staatsbos
 
 #### Paragraaf 2. De raad van advies
 
-#### Artikel 9
+##### Artikel 9
 
 1. Staatsbosbeheer heeft een raad van advies.
 
 2. De raad van advies adviseert de directeur desgevraagd of uit eigen beweging teneinde de taakuitvoering door Staatsbosbeheer, binnen de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01) gestelde grenzen, aan te doen sluiten bij de wensen en inzichten van de gebruikers van door Staatsbosbeheer beheerde objecten ten aanzien van het te voeren beheer.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De raad van advies bestaat uit een voorzitter en een zodanig aantal andere leden dat:
 
@@ -144,7 +171,7 @@ Onze Minister kan aan de leden van de raad van toezicht, ten laste van Staatsbos
 
 2. De leden van de raad van advies wijzen uit hun midden een plaatsvervangend voorzitter aan.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De voorzitter en andere leden van de raad van advies worden door de raad van toezicht benoemd, geschorst en ontslagen.
 
@@ -152,13 +179,13 @@ Onze Minister kan aan de leden van de raad van toezicht, ten laste van Staatsbos
 
 3. [Artikel 6, zesde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=1&artikel=6&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing.
 
-#### Artikel 12
+##### Artikel 12
 
 De raad van toezicht kan aan de leden van de raad van advies, ten laste van Staatsbosbeheer, een vergoeding toekennen volgens door hem vast te stellen regelen.
 
 #### Paragraaf 3. De directeur
 
-#### Artikel 13
+##### Artikel 13
 
 1. Staatsbosbeheer heeft een directeur.
 
@@ -168,19 +195,19 @@ De raad van toezicht kan aan de leden van de raad van advies, ten laste van Staa
 
 4. De directeur stelt een medezeggenschapsorgaan dat de bevoegdheden uitoefent, daaraan in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=1&artikel=6&z=2020-01-01&g=2020-01-01) toegekend, in.
 
-#### Artikel 14
+##### Artikel 14
 
 De directeur wordt op voordracht van de raad van toezicht benoemd, geschorst of ontslagen door Onze Minister.
 
 ### HOOFDSTUK IV. INRICHTING
 
-#### Artikel 15
+##### Artikel 15
 
 De directeur stelt bij reglement de inrichting van Staatsbosbeheer vast.
 
 ### HOOFDSTUK V. PERSONEEL VAN DE ORGANISATIE
 
-#### Artikel 16
+##### Artikel 16
 
 1. Onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=3&artikel=14&z=2020-01-01&g=2020-01-01) gelden voor de directeur en de overige personeelsleden van Staatsbosbeheer de arbeidsvoorwaarden die zijn opgenomen in de collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het ministerie, waaronder Staatsbosbeheer ressorteert.
 
@@ -188,7 +215,7 @@ De directeur stelt bij reglement de inrichting van Staatsbosbeheer vast.
 
 ### HOOFDSTUK VI. PRESTATIE-AFSPRAKEN
 
-#### Artikel 17
+##### Artikel 17
 
 1. Onze Minister en Staatsbosbeheer voeren tenminste jaarlijks overleg omtrent de door Staatsbosbeheer, ter uitvoering van zijn in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01) bedoelde taakopdracht, te bereiken resultaten en de daarvoor door Onze Minister, ten laste van de begroting van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, jaarlijks ter beschikking te stellen geldmiddelen.
 
@@ -200,7 +227,7 @@ De directeur stelt bij reglement de inrichting van Staatsbosbeheer vast.
 
 ### HOOFDSTUK VII. FINANCIERING
 
-#### Artikel 18
+##### Artikel 18
 
 1. Onze Minister stelt jaarlijks aan Staatsbosbeheer ten laste van de begroting van het Ministerie van Landbouw, Natuur en Voedselkwaliteit geldmiddelen ter beschikking. Hij baseert zich hierbij op het in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=VI&artikel=17&z=2020-01-01&g=2020-01-01) bedoelde overleg.
 
@@ -214,13 +241,13 @@ De directeur stelt bij reglement de inrichting van Staatsbosbeheer vast.
 
 ### HOOFDSTUK VIII. PLANNING EN VERSLAGLEGGING
 
-#### Artikel 19
+##### Artikel 19
 
 1. De directeur stelt eenmaal in de vier jaar voor een door de raad van toezicht vast te stellen tijdstip een ondernemingsplan op. Het ondernemingsplan wordt, Onze Minister gehoord, vastgesteld door de raad van toezicht.
 
 2. Het ondernemingsplan bevat een meerjarige visie op de bedrijfsontwikkelling van Staatsbosbeheer.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De directeur stelt tijdig voor afloop van een kalenderjaar een jaarplan en een begroting voor het volgende kalenderjaar vast.
 
@@ -228,7 +255,7 @@ De directeur stelt bij reglement de inrichting van Staatsbosbeheer vast.
 
 3. De directeur legt het jaarplan en de begroting uiterlijk voor een door Onze Minister vast te stellen datum ter kennisname over aan Onze Minister.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De directeur stelt jaarlijks voor een door Onze Minister vast te stellen datum een verslag op van de werkzaamheden van Staatsbosbeheer, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkwijze in het bijzonder in het afgelopen kalenderjaar, alsmede een financieel verslag.
 
@@ -242,7 +269,7 @@ De directeur stelt bij reglement de inrichting van Staatsbosbeheer vast.
 
 6. Onze Minister kan regels stellen over het te voeren financieel beheer en de verantwoording daarover. Zo nodig kan hij goedkeuring verlangen van de begroting van Staatsbosbeheer.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het financieel verslag gaat vergezeld van een verklaring omtrent de getrouwheid en een beoordeling van de rechtmatigheid, afgegeven door een door Onze Minister aangewezen accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek.
 
@@ -256,7 +283,7 @@ De directeur stelt bij reglement de inrichting van Staatsbosbeheer vast.
 
 ### HOOFDSTUK IX. INLICHTINGEN
 
-#### Artikel 23
+##### Artikel 23
 
 1. Staatsbosbeheer verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
@@ -264,33 +291,33 @@ De directeur stelt bij reglement de inrichting van Staatsbosbeheer vast.
 
 ### HOOFDSTUK X. VOORZIENING BIJ NALATIGHEID
 
-#### Artikel 24
+##### Artikel 24
 
 Indien Staatsbosbeheer zijn taken, voortvloeiend uit [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=II&artikel=3&z=2020-01-01&g=2020-01-01), naar het oordeel van Onze Minister verwaarloost, kan deze al die maatregelen nemen die hij met het oog op de continuïteit van de werkzaamheden of beperking van de schade noodzakelijk acht. Onze Minister doet hiervan terstond mededeling aan de Staten-Generaal.
 
 ### HOOFDSTUK XI. WIJZIGING VAN ANDERE WETTEN
 
-#### Artikel 25
+##### Artikel 25
 
 Wijzigt de Boswet.
 
-#### Artikel 26
+##### Artikel 26
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
 ### HOOFDSTUK XII. OVERGANGS- EN SLOTBEPALINGEN
 
-#### Artikel 27
+##### Artikel 27
 
 In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&hoofdstuk=III&paragraaf=3&artikel=14&z=2020-01-01&g=2020-01-01) geschiedt de eerste benoeming van de directeur door Onze Minister, zonder dat de raad van toezicht een voordracht daartoe doet.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De ambtenaren die op het tijdstip van inwerkingtreding van deze wet behoren tot het personeel van het dienstonderdeel Staatsbosbeheer van het Ministerie van Landbouw, Natuurbeheer en Visserij zijn met ingang van dat tijdstip van rechtswege ontslagen en aangesteld als ambtenaar in dienst van Staatsbosbeheer in dezelfde functie welke zij bekleedden bij voornoemd dienstonderdeel.
 
 2. De aanspraken die een ambtenaar op wie het eerste lid van toepassing is, toekomen krachtens artikel 24 van het Algemeen Rijksambtenaren Reglement vervallen op het tijdstip van inwerkingtreding van deze wet.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De archiefbescheiden van het dienstonderdeel Staatsbosbeheer van het Ministerie van Landbouw, Natuurbeheer en Visserij gaan met ingang van het tijdstip van inwerkingtreding van deze wet over naar Staatsbosbeheer, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een rijksarchiefbewaarplaats.
 
@@ -298,7 +325,7 @@ In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&ho
 
 3. Van de overgang, bedoeld in het eerste lid, maken degene onder wie de archiefbescheiden tot de overgang hebben berust en de directeur een verklaring op, die tenminste inhoudt een specificatie van deze archiefbescheiden. Zij bewaren elk een door beiden ondertekend exemplaar van deze verklaring.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Onze Minister bepaalt in overeenstemming met Onze Minister van Financiën welke vermogensbestanddelen van de Staat die aan het dienstonderdeel Staatsbosbeheer van het Ministerie van Landbouw, Natuurbeheer en Visserij worden toegerekend, worden toebedeeld aan Staatsbosbeheer.
 
@@ -310,21 +337,21 @@ In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008904&ho
 
 5. Indien deze wet wordt ingetrokken, gaan op het tijdstip van intrekking van deze wet de vermogensbestanddelen van Staatsbosbeheer onder algemene titel om niet over op de Staat.
 
-#### Artikel 31
+##### Artikel 31
 
 1. In wettelijke procedures en rechtsgedingen, waarbij het dienstonderdeel Staatsbosbeheer van het Ministerie van Landbouw, Natuurbeheer en Visserij is betrokken, treedt met ingang van het tijdstip van inwerkingtreding van deze wet Staatsbosbeheer in de plaats van de Staat, onderscheidenlijk Onze Minister.
 
 2. In zaken waarin voor het tijdstip van inwerkingtreding van deze wet op grond van [artikel 12 van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=12) aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=15) van die wet een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan het dienstonderdeel Staatsbosbeheer van het Ministerie van Landbouw, Natuurbeheer en Visserij, treedt Staatsbosbeheer op dat tijdstip als bestuursorgaan in de zin van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) in de plaats van Onze Minister.
 
-#### Artikel 32
+##### Artikel 32
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en doelmatigheid van het functioneren van Staatsbosbeheer.
 
-#### Artikel 33
+##### Artikel 33
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 34
+##### Artikel 34
 
 Deze wet wordt aangehaald als: Wet verzelfstandiging Staatsbosbeheer.
 

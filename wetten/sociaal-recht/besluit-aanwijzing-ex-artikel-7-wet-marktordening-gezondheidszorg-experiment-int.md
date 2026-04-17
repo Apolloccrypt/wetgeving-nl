@@ -1,13 +1,39 @@
 ---
-title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (experiment integrale geboortezorg)"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 11 juli 2016, kenmerk 989379-153044-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het experiment integrale geboortezorg"
 identifier: "BWBR0038364"
-categorie: "Sociaal recht"
-publicatiedatum: 2016-09-01
-laatste_update: 2016-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038364"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-09-01"
+last_updated: "2016-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038364"
+soort: "ministeriele-regeling"
+stam_id: "13717523"
+version_id: "23504132"
+internal_id: "C33845631"
+label_id: "13683924"
+dtd_version: "2.0"
+original_entry_into_force: "2016-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038364/2016-09-01/0"
+intitule_bron: "Stcrt.2016-39028"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-07-11"
+intitule_published: "2016-07-26"
+intitule_in_force: "2016-07-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-39028"
+original_signed_date: "2016-07-11"
+original_published_date: "2016-07-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-39028"
+entry_into_force_date: "2016-09-01"
+jci_1_3: "jci1.3:c:BWBR0038364&z=2016-09-01&g=2016-09-01"
+jci_1_0: "1.0:c:BWBR0038364&g=2016-09-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (experiment integrale geboortezorg)"
+signed_date: "2016-07-11"
+entry_into_force: "2016-09-01"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 11 juli 2016, kenmerk 989379-153044-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het experiment integrale geboortezorg
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -20,7 +46,7 @@ Gelet op het algemeen overleg ‘Zwangerschap en geboorte’ van 23 juni 2016.
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze aanwijzing wordt verstaan onder:
 
 - b. **de zorgautoriteit:** de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Deze aanwijzing is van toepassing op geboortezorg, dit omvat:
 
@@ -42,11 +68,11 @@ Deze aanwijzing is van toepassing op geboortezorg, dit omvat:
 
 - b. Kraamzorg zoals geregeld bij of krachtens [artikel 2.11 Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.11).
 
-#### Artikel 3. Opdracht
+##### Artikel 3. Opdracht
 
 De zorgautoriteit voorziet per 2017 in een experiment integrale geboortezorg op grond van [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58).
 
-#### Artikel 4. Uitgangspunten experiment
+##### Artikel 4. Uitgangspunten experiment
 
 De zorgautoriteit neemt bij de vaststelling van de regelgeving voor het experiment als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038364&artikel=3&z=2016-09-01&g=2016-09-01) de volgende uitgangspunten in acht:
 
@@ -56,7 +82,7 @@ De zorgautoriteit neemt bij de vaststelling van de regelgeving voor het experime
 
 - c. De tarieven voor de in sub b genoemde prestaties zijn vrij zoals bedoeld in [artikel 50 lid 1 sub a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
-#### Artikel 5. Evaluatie experiment
+##### Artikel 5. Evaluatie experiment
 
 De zorgautoriteit evalueert de effecten van het experiment op de keuzevrijheid van de patiënt.
 

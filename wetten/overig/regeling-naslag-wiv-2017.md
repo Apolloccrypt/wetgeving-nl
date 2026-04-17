@@ -1,20 +1,46 @@
 ---
-title: "Regeling naslag Wiv 2017"
+title: "Regeling van de Minister-President, Minister van Algemene Zaken, de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie van 20 april 2018, nr. 2018-0000241495, houdende vaststelling van regels omtrent het aanwijzen van personen of instanties die een verzoek om mededeling kunnen doen omtrent door de diensten verwerkte gegevens omtrent personen of instanties (Regeling naslag Wiv 2017)"
 identifier: "BWBR0040855"
-categorie: "Overig"
-publicatiedatum: 2023-09-01
-laatste_update: 2023-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040855"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-09-01"
+last_updated: "2023-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040855"
+soort: "ministeriele-regeling"
+stam_id: "14596623"
+version_id: "24994502"
+internal_id: "C35745161"
+label_id: "14550144"
+dtd_version: "2.0"
+original_entry_into_force: "2018-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040855/2023-09-01/0"
+intitule_bron: "Stcrt.2018-23324"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-04-20"
+intitule_published: "2018-04-26"
+intitule_in_force: "2018-04-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-23324"
+original_signed_date: "2018-04-20"
+original_published_date: "2018-04-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-23324"
+entry_into_force_date: "2018-05-01"
+jci_1_3: "jci1.3:c:BWBR0040855&z=2023-09-01&g=2023-09-01"
+jci_1_0: "1.0:c:BWBR0040855&g=2023-09-01"
+citeertitel_status: "officieel"
+short_title: "Regeling naslag Wiv 2017"
+signed_date: "2018-04-20"
+entry_into_force: "2018-05-01"
 ---
-
 # Regeling van de Minister-President, Minister van Algemene Zaken, de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie van 20 april 2018, nr. 2018-0000241495, houdende vaststelling van regels omtrent het aanwijzen van personen of instanties die een verzoek om mededeling kunnen doen omtrent door de diensten verwerkte gegevens omtrent personen of instanties (Regeling naslag Wiv 2017)
 
 Gelet op [artikel 8, tweede lid, onder f,](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=8)[artikel 10, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=10) en [artikel 63 van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=63);
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **mededeling:** het verstrekken van de bevindingen van een naslag aan een externe partij die daarom heeft verzocht als bedoeld in [artikel 63 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=63).
 
-#### Artikel 2
+##### Artikel 2
 
 In de navolgende gevallen kunnen de daarbij aangewezen personen en instanties een schriftelijk verzoek richten aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties voor het doen van naslag:
 
@@ -54,11 +80,11 @@ In de navolgende gevallen kunnen de daarbij aangewezen personen en instanties ee
 
 - m. met betrekking tot erkend referenten als bedoeld in [hoofdstuk 1, afdeling 3 Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&afdeling=3): de Minister van Justitie en Veiligheid dan wel de Staatssecretaris van Justitie en Veiligheid, of namens deze de Immigratie- en Naturalisatiedienst.
 
-#### Artikel 3
+##### Artikel 3
 
 De mededeling met betrekking tot de gevallen, bedoeld in [artikel 2, onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0040855&artikel=2&z=2023-09-01&g=2023-09-01), wordt gedaan aan de verzoeker door de Minister van Binnenlandse Zaken en Koninkrijksrelaties. In de overige gevallen kan de mededeling aan de verzoeker ook namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties door het hoofd van de dienst worden gedaan.
 
-#### Artikel 4
+##### Artikel 4
 
 In de navolgende gevallen kunnen de daarbij aangewezen personen en instanties een schriftelijk verzoek richten aan de Minister van Defensie voor het doen van naslag:
 
@@ -78,15 +104,15 @@ In de navolgende gevallen kunnen de daarbij aangewezen personen en instanties ee
 
 - h. met betrekking tot erkend referenten als bedoeld in [hoofdstuk 1, afdeling 3 Vreemdelingenbesluit 2000:](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&afdeling=3)de Minister van Justitie en Veiligheid of namens deze de Immigratie- en Naturalisatiedienst.
 
-#### Artikel 5
+##### Artikel 5
 
 De mededeling met betrekking tot de gevallen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040855&artikel=4&z=2023-09-01&g=2023-09-01) wordt gedaan aan de verzoeker door de Minister van Defensie dan wel namens deze door het hoofd van de dienst.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van 1 mei 2018.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Regeling naslag Wiv 2017.
 

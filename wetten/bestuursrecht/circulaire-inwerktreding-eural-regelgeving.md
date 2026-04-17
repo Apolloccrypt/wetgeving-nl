@@ -1,13 +1,37 @@
 ---
 title: "Circulaire inwerktreding Eural-regelgeving"
 identifier: "BWBR0013286"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-12-28
-laatste_update: 2001-12-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013286"
+country: "nl"
+rank: "circulaire"
+publication_date: "2001-12-28"
+last_updated: "2001-12-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013286"
+soort: "circulaire"
+stam_id: "6371413"
+version_id: "11034132"
+internal_id: "C14932481"
+label_id: "6360284"
+original_entry_into_force: "2001-12-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013286/2001-12-28/0"
+intitule_bron: "Stcrt.2001-250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-12-21"
+intitule_published: "2001-12-28"
+intitule_in_force: "2001-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-250"
+original_signed_date: "2001-12-21"
+original_published_date: "2001-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2001-250-p70-SC32562"
+entry_into_force_date: "2001-12-28"
+jci_1_3: "jci1.3:c:BWBR0013286&z=2001-12-28&g=2001-12-28"
+jci_1_0: "1.0:c:BWBR0013286&g=2001-12-28"
+citeertitel_status: "redactioneel"
+signed_date: "2001-12-21"
+entry_into_force: "2001-12-28"
 ---
-
 # Circulaire inwerktreding Eural-regelgeving
 
 Aan de Colleges van gedeputeerde staten van de provincies en de Colleges van burgemeester en wethouders van de gemeenten

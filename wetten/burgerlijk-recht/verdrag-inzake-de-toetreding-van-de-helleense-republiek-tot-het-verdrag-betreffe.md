@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake de toetreding van de Helleense Republiek tot het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, alsmede tot het Protocol betreffende de uitlegging daarvan door het Hof van Justitie, zoals deze zijn gewijzigd bij het Verdrag inzake de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland"
 identifier: "BWBV0004557"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1989-04-01
-laatste_update: 1989-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004557"
+country: "nl"
+rank: "verdrag"
+publication_date: "1989-04-01"
+last_updated: "1989-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004557"
+soort: "verdrag"
+stam_id: "10004189333"
+version_id: "10004364922"
+internal_id: "C10006980431"
+label_id: "10004174394"
+dtd_version: "2.0"
+original_entry_into_force: "1989-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004557/1989-04-01/0"
+intitule_bron: "Trb.1983-24"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1983-02-10"
+intitule_in_force: "1989-03-17"
+intitule_status: "goed"
+original_publication: "Trb.1983-24"
+original_published_date: "1983-02-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1983-24"
+entry_into_force_date: "1989-04-01"
+jci_1_3: "jci1.3:c:BWBV0004557&z=1989-04-01&g=1989-04-01"
+jci_1_0: "1.0:c:BWBV0004557&g=1989-04-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1989-04-01"
 ---
-
 # Verdrag inzake de toetreding van de Helleense Republiek tot het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, alsmede tot het Protocol betreffende de uitlegging daarvan door het Hof van Justitie, zoals deze zijn gewijzigd bij het Verdrag inzake de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
 
 Preambule
@@ -96,61 +118,61 @@ Omtrent de volgende bepalingen overeenstemming hebben bereikt:
 
 ## TITEL I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Helleense Republiek treedt toe tot het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, ondertekend te Brussel op 27 september 1968, hierna te noemen „het Verdrag van 1968”, en tot het Protocol betreffende de uitlegging daarvan door het Hof van Justitie, ondertekend te Luxemburg op 3 juni 1971, hierna te noemen „het Protocol van 1971”, zoals deze zijn gewijzigd bij het Verdrag inzake de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, alsmede tot het Protocol betreffende de uitlegging daarvan door het Hof van Justitie, ondertekend te Luxemburg op 9 oktober 1978, hierna te noemen „het Verdrag van 1978”.
 
 2. De toetreding van de Helleense Republiek heeft inzonderheid betrekking op artikel 25, lid 2, en de artikelen 35 en 36 van het Verdrag van 1978.
 
-#### Artikel 2
+##### Artikel 2
 
 De aanpassingen die ingevolge het onderhavige Verdrag worden aangebracht in het Verdrag van 1968 en het Protocol van 1971, zoals deze zijn gewijzigd bij het Verdrag van 1978, zijn opgenomen in de titels II tot en met IV.
 
 ## TITEL II. Aanpassingen van het Verdrag van 1968
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
 
 ## TITEL III. Aanpassing van het Protocol bij het Verdrag van 1968
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
 
 ## TITEL IV. Aanpassingen van het Protocol van 1971
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt het Protocol betreffende de uitlegging door het Hof van Justitie van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Luxemburg, 3 juni 1971.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Protocol betreffende de uitlegging door het Hof van Justitie van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Luxemburg, 3 juni 1971.
 
 ## TITEL V. Overgangsbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het Verdrag van 1968 en het Protocol van 1971, als gewijzigd bij het Verdrag van 1978 en bij dit Verdrag, zijn slechts van toepassing op rechtsvorderingen ingesteld en op authentieke akten verleden na de inwerkingtreding van dit Verdrag in de Staat van herkomst en, wanneer wordt verzocht om erkenning of tenuitvoerlegging van een beslissing of een authentieke akte, in de aangezochte Staat.
 
@@ -158,23 +180,23 @@ Wijzigt het Protocol betreffende de uitlegging door het Hof van Justitie van het
 
 ## TITEL VI. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 De Secretaris-Generaal van de Raad der Europese Gemeenschappen zendt aan de Regering van de Helleense Republiek een voor eensluidend gewaarmerkt afschrift in de Deense, de Duitse, de Engelse, de Franse, de Ierse, de Italiaanse en de Nederlandse taal toe van het Verdrag van 1968, van het Protocol van 1971 en van het Verdrag van 1978.
 
 De teksten van het Verdrag van 1968, van het Protocol van 1971 en van het Verdrag van 1978 die zijn opgesteld in de Griekse taal, worden aan dit Verdrag gehecht. De teksten die zijn opgesteld in de Griekse taal, zijn op gelijke wijze authentiek als de overige teksten van het Verdrag van 1968, het Protocol van 1971 en het Verdrag van 1978.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit Verdrag wordt door de ondertekenende Staten bekrachtigd. De akten van bekrachtiging worden nedergelegd bij de Secretaris-Generaal van de Raad der Europese Gemeenschappen.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit Verdrag treedt tussen de Staten die het hebben bekrachtigd, in werking op de eerste dag van de derde maand volgende op het nederleggen van de laatste akte van bekrachtiging door de Helleense Republiek en die Staten die het Verdrag van 1978 overeenkomstig artikel 39 daarvan in werking hebben doen treden.
 
 Voor elke Lid-Staat die het Verdrag later bekrachtigt, treedt het in werking op de eerste dag van de derde maand volgende op het nederleggen van zijn akte van bekrachtiging.
 
-#### Artikel 16
+##### Artikel 16
 
 De Secretaris-Generaal van de Raad der Europese Gemeenschappen stelt de ondertekenende Staat in kennis van:
 
@@ -182,7 +204,7 @@ De Secretaris-Generaal van de Raad der Europese Gemeenschappen stelt de ondertek
 
 - b). de data van inwerkingtreding van dit Verdrag voor de Verdragsluitende Staten.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit Verdrag, opgesteld in één exemplaar, in de Deense, de Duitse, de Engelse, de Franse, de Griekse, de Ierse, de Italiaanse en de Nederlandse taal, welke acht teksten gelijkelijk authentiek zijn, zal worden nedergelegd in het archief van het Secretariaat van de Raad der Europese Gemeenschappen. De Secretaris-Generaal zendt een voor eensluidend gewaarmerkt afschrift daarvan toe aan de Regering van elke ondertekenende Staat.
 

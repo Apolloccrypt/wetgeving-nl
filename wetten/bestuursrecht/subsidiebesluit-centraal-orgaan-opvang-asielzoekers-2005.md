@@ -1,13 +1,38 @@
 ---
-title: "Subsidiebesluit Centraal Orgaan opvang asielzoekers 2005"
+title: "Besluit van 27 juli 2005, houdende nieuwe regels met betrekking tot het verstrekken van een subsidie ten behoeve van uitvoering van de wettelijke taak door het Centraal Orgaan opvang asielzoekers (Subsidiebesluit Centraal Orgaan opvang asielzoekers 2005)"
 identifier: "BWBR0018633"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018633"
+country: "nl"
+rank: "amvb"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018633"
+soort: "AMvB"
+stam_id: "7196093"
+version_id: "12115862"
+internal_id: "C29465471"
+label_id: "7184134"
+original_entry_into_force: "2005-08-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018633/2011-01-01/0"
+intitule_bron: "Stb.2005-399"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-07-27"
+intitule_published: "2005-08-04"
+intitule_in_force: "2005-08-04"
+intitule_status: "goed"
+original_publication: "Stb.2005-399"
+original_signed_date: "2005-07-27"
+original_published_date: "2005-08-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2005-399"
+entry_into_force_date: "2005-08-05"
+jci_1_3: "jci1.3:c:BWBR0018633&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0018633&g=2011-01-01"
+citeertitel_status: "officieel"
+short_title: "Subsidiebesluit Centraal Orgaan opvang asielzoekers 2005"
+signed_date: "2005-07-27"
+entry_into_force: "2005-08-05"
 ---
-
 # Besluit van 27 juli 2005, houdende nieuwe regels met betrekking tot het verstrekken van een subsidie ten behoeve van uitvoering van de wettelijke taak door het Centraal Orgaan opvang asielzoekers (Subsidiebesluit Centraal Orgaan opvang asielzoekers 2005)
 
 Op de voordracht van Onze Minister voor Vreemdelingenzaken en Integratie van 30 mei 2005, Directie Wetgeving, nr. 5354121/05/6;
@@ -22,7 +47,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,7 +65,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk II. Raming
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister doet vóór 1 juni van het jaar voorafgaand aan het kalenderjaar aan het COA een raming voor het desbetreffende kalenderjaar toekomen van de bezetting en behoefte aan producten en projecten. Indien deze raming bijstelling behoeft meldt Onze Minister dit schriftelijk aan het COA.
 
@@ -48,23 +73,23 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk III. Subsidieverlening
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister beslist vóór 1 november voorafgaand aan het kalenderjaar omtrent de aanvraag van de subsidie en doet het COA een beschikking tot subsidieverlening toekomen.
 
 2. In de beschikking tot subsidieverlening wordt in ieder geval opgenomen het aantal af te nemen eenheden per product, de hoogte van het voorschot en de wijze waarop zal worden bevoorschot.
 
-#### Artikel 4
+##### Artikel 4
 
 De aan het COA toe te kennen subsidie bestaat uit een bedrag voor de door het COA in het betreffende boekjaar te leveren producten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De subsidie voor de producten wordt bepaald op basis van het bedrag dat ontstaat door vermenigvuldiging van het aantal af te nemen producten met de voor het desbetreffende product vastgestelde kostprijs.
 
 2. De prijs van een product wordt vastgesteld aan de hand van de door Onze Minister na overleg met het COA vastgestelde kostprijssystematiek.
 
-#### Artikel 6
+##### Artikel 6
 
 Onze Minister kan, naast de subsidie bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=4&z=2011-01-01&g=2011-01-01), het COA een subsidie verstrekken en kan, in aanvulling op de verplichtingen genoemd in [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=VI&z=2011-01-01&g=2011-01-01), in verband daarmee verplichtingen opleggen:
 
@@ -82,7 +107,7 @@ Onze Minister kan, naast de subsidie bedoeld in [artikel 4](https://wetten.overh
 
 ### Hoofdstuk IV. Tussentijdse subsidieverlening
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien de beschikking, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=3&z=2011-01-01&g=2011-01-01), bijstelling behoeft meldt Onze Minister dit schriftelijk aan het COA.
 
@@ -94,39 +119,39 @@ Onze Minister kan, naast de subsidie bedoeld in [artikel 4](https://wetten.overh
 
 ### Hoofdstuk V. Subsidievaststelling
 
-#### Artikel 8
+##### Artikel 8
 
 Onze Minister beslist binnen dertien weken na ontvangst van de bescheiden, bedoeld in de [artikelen 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=15), en [19, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=19) en [34 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) op de aanvraag tot subsidievaststelling.
 
-#### Artikel 9
+##### Artikel 9
 
 De vaststelling van de subsidie geschiedt overeenkomstig de door Onze Minister na overleg met het COA vastgestelde afrekensystematiek.
 
-#### Artikel 10
+##### Artikel 10
 
 Eenmaal in de drie jaar worden de in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=5&z=2011-01-01&g=2011-01-01), [6, onderdelen b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=III&artikel=6&z=2011-01-01&g=2011-01-01), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=IV&artikel=7&z=2011-01-01&g=2011-01-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=V&artikel=9&z=2011-01-01&g=2011-01-01) genoemde systematieken geëvalueerd door Onze Minister in overleg met het COA.
 
 ### Hoofdstuk VI. Aan de subsidie verbonden verplichtingen
 
-#### Artikel 11
+##### Artikel 11
 
 Het vermogen, met inbegrip van de inkomsten daaruit, wordt slechts aangewend voor de taken die het COA ingevolge [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3) zijn opgedragen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het COA doet zo spoedig mogelijk schriftelijk mededeling aan Onze Minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekken of vaststelling van de subsidie. Daarbij worden de relevante stukken overgelegd.
 
 2. Op door Onze Minister te bepalen tijdstippen verstrekt het COA aan Onze Minister een exploitatieoverzicht.
 
-#### Artikel 13
+##### Artikel 13
 
 Het COA kan uitsluitend lenen bij Onze Minister van Financiën.
 
-#### Artikel 14
+##### Artikel 14
 
 De minimale en maximale omvang van de egalisatiereserve wordt voorafgaand aan het boekjaar door Onze Minister vastgesteld door toepassing van de door Onze Minister na overleg met het COA overeengekomen vermogenssystematiek.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De aanvulling van de egalisatiereserve, bedoeld in [artikel 33, tweede lid, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=33), geschiedt tot het niveau van de ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018633&hoofdstuk=VI&artikel=14&z=2011-01-01&g=2011-01-01) vastgestelde minimale omvang.
 
@@ -136,23 +161,23 @@ De minimale en maximale omvang van de egalisatiereserve wordt voorafgaand aan he
 
 ### Hoofdstuk VII. Algemene-, overgangs- en slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Onze Minister kan op verzoek van het COA bepalingen van dit besluit buiten toepassing laten of daarvan afwijken voorzover strikte toepassing leidt tot onbillijkheid van overwegende aard.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit treedt in werking met ingang van de dag na plaatsing in het Staatsblad en werkt terug tot en met 1 mei 2004.
 
-#### Artikel 19
+##### Artikel 19
 
 Dit besluit berust op [artikel 18 van de Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=18).
 
-#### Artikel 20
+##### Artikel 20
 
 Dit besluit wordt aangehaald als: Subsidiebesluit Centraal Orgaan opvang asielzoekers 2005.
 

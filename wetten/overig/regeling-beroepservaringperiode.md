@@ -1,13 +1,38 @@
 ---
 title: "Regeling Beroepservaringperiode"
 identifier: "BWBR0032509"
-categorie: "Overig"
-publicatiedatum: 2012-12-21
-laatste_update: 2012-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032509"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-12-21"
+last_updated: "2012-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032509"
+soort: "zbo"
+stam_id: "11972173"
+version_id: "19902162"
+internal_id: "C27954051"
+label_id: "11944454"
+dtd_version: "2.0"
+original_entry_into_force: "2012-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032509/2012-12-21/0"
+intitule_bron: "Stcrt.2012-26178"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-10"
+intitule_published: "2012-12-19"
+intitule_in_force: "2012-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-26178"
+original_signed_date: "2012-12-10"
+original_published_date: "2012-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-26178"
+entry_into_force_date: "2012-12-21"
+jci_1_3: "jci1.3:c:BWBR0032509&z=2012-12-21&g=2012-12-21"
+jci_1_0: "1.0:c:BWBR0032509&g=2012-12-21"
+citeertitel_status: "officieel"
+signed_date: "2012-12-10"
+entry_into_force: "2012-12-21"
 ---
-
 # Regeling Beroepservaringperiode
 
 Gelet op de [artikelen 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=8), en [12e, tweede lid, van de Wet op de architectentitel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=12e);
@@ -18,7 +43,7 @@ Besluit:
 
 ### Hoofdstuk I. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -42,7 +67,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk II. Doel en inhoud van de beroepservaringperiode
 
-#### Artikel 2
+##### Artikel 2
 
 1. De beroepservaringperiode moet er toe leiden dat de kandidaat aan het einde van deze periode beschikt over de kennis, het inzicht en de vaardigheden die staan beschreven in de eindtermen voor de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur en interieurarchitectuur in de bijlage bij deze regeling.
 
@@ -50,7 +75,7 @@ In deze regeling wordt verstaan onder:
 
 3. De kandidaat doet in het individueel traject beroepsmatig ervaring op in een aantal te onderscheiden fases in het ontwerp- en realisatieproces, welke fases staan genoemd in de bijlage bij deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De kandidaat die met goed gevolg een door het bureau architectenregister erkend geïntegreerd beroepservaringprogramma heeft doorlopen, wordt geacht te beschikken over de kennis, het inzicht en de vaardigheden die staan beschreven in de eindtermen voor de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur en interieurarchitectuur in de bijlage bij deze regeling.
 
@@ -58,7 +83,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk III. Commissie beroepservaringperiode
 
-#### Artikel 4
+##### Artikel 4
 
 1. Er is een commissie beroepservaringperiode voor elk van de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur en interieurarchitectuur, die bestaat uit ten minste drie personen.
 
@@ -72,17 +97,17 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk IV. Begin van de beroepservaringperiode
 
-#### Artikel 5
+##### Artikel 5
 
 1. De beroepservaringperiode vangt aan op de dag waarop de kandidaat begint met de uitoefening van het beroep van architect onder begeleiding van de mentor.
 
 2. De kandidaat is zelf verantwoordelijk voor het vinden van een mentor.
 
-#### Artikel 6
+##### Artikel 6
 
 De kandidaat werkt gedurende de beroepservaringperiode op het bureau waar de mentor werkzaam is of met een mentor die elders werkzaam is.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ten minste vier weken vóór de beoogde aanvang van de beroepservaringperiode dienen de kandidaat en de beoogde mentor gezamenlijk bij het bureau architectenregister een aanmelding in.
 
@@ -98,17 +123,17 @@ De kandidaat werkt gedurende de beroepservaringperiode op het bureau waar de men
 
 - –. een verklaring van de beoogde mentor dat deze gedurende zijn begeleiding van de kandidaat zal voldoen aan zijn verplichtingen uit hoofde van deze regeling.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=IV&artikel=7&z=2012-12-21&g=2012-12-21) bedoelde aanmelding dient de kandidaat een door hem opgesteld persoonlijk ontwikkelingsplan in, waarin staat beschreven hoe hij zijn beroepservaringperiode zal inrichten om te bewerkstelligen dat hij aan het einde van de beroepservaringperiode beschikt over de kennis, het inzicht en de vaardigheden die staan beschreven in de eindtermen voor de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur en interieurarchitectuur in de bijlage bij deze regeling.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=IV&artikel=7&z=2012-12-21&g=2012-12-21) bedoelde aanmelding wordt door het bureau architectenregister geweigerd indien de kandidaat minder dan 20 uur per week als architect werkzaam zal zijn.
 
 2. Indien de kandidaat minder dan 32 uur per week wil werken, verlengt het bureau architectenregister de beroepservaringperiode naar evenredigheid.
 
-#### Artikel 10
+##### Artikel 10
 
 Voor de aanvang van de beroepservaringperiode vindt een startgesprek plaats tussen de kandidaat en de commissie beroepservaringperiode waarin het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=IV&artikel=8&z=2012-12-21&g=2012-12-21) bedoelde persoonlijk ontwikkelingsplan van de kandidaat wordt besproken en, indien dit naar het oordeel van de commissie noodzakelijk is, wordt aangepast.
 
@@ -116,11 +141,11 @@ Voor de aanvang van de beroepservaringperiode vindt een startgesprek plaats tuss
 
 #### § 1. Logboek en evaluaties
 
-#### Artikel 11
+##### Artikel 11
 
 De kandidaat houdt tijdens de beroepservaringperiode een logboek bij, waarin hij zijn ontwikkelingen van de kennis, het inzicht en de vaardigheden die staan beschreven in de eindtermen voor de disciplines architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur in de bijlage bij deze regeling, beschrijft.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De mentor brengt halverwege de beroepservaringperiode door middel van een door het bureau architectenregister verstrekt evaluatieformulier aan het bureau architectenregister schriftelijk verslag uit van het verloop van de beroepservaringperiode en de vorderingen van de kandidaat.
 
@@ -130,7 +155,7 @@ De kandidaat houdt tijdens de beroepservaringperiode een logboek bij, waarin hij
 
 #### § 2. Tussentijds einde en opschorting
 
-#### Artikel 13
+##### Artikel 13
 
 1. De beroepservaringperiode eindigt tussentijds:
 
@@ -144,7 +169,7 @@ indien niet binnen drie maanden na de opzegging, bedoeld onder a of b, of de be�
 
 2. Een beëindiging van de samenwerking met een mentor wordt door de kandidaat en de mentor onverwijld schriftelijk doorgegeven aan het bureau architectenregister.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het bureau architectenregister kan de beroepservaringperiode opschorten gedurende de tijd dat de kandidaat geen mentor heeft.
 
@@ -152,7 +177,7 @@ indien niet binnen drie maanden na de opzegging, bedoeld onder a of b, of de be�
 
 #### § 3. Verplichtingen mentor en kandidaat
 
-#### Artikel 15
+##### Artikel 15
 
 1. De mentor staat de kandidaat gedurende de gehele beroepservaringperiode bij met voorlichting en raad met betrekking tot de beroepsuitoefening in de breedste zin van het woord.
 
@@ -162,7 +187,7 @@ indien niet binnen drie maanden na de opzegging, bedoeld onder a of b, of de be�
 
 4. De mentor dient tijdig en zorgvuldig de door hem in te vullen evaluaties van de kandidaat in bij het bureau architectenregister.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De kandidaat dient zich gedurende de beroepservaringperiode zodanig te ontwikkelen dat hij aan het einde van de beroepservaringperiode beschikt over de kennis, het inzicht en de vaardigheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=II&artikel=2&z=2012-12-21&g=2012-12-21).
 
@@ -174,13 +199,13 @@ indien niet binnen drie maanden na de opzegging, bedoeld onder a of b, of de be�
 
 #### § 4. Geschillen tussen mentor en kandidaat
 
-#### Artikel 17
+##### Artikel 17
 
 Het bureau architectenregister, althans een door hem aan te wijzen persoon of in te stellen geschillencommissie, bemiddelt of adviseert op verzoek daartoe van de meest gerede partij in geschillen tussen de mentor en de kandidaat.
 
 #### § 5. Aanvullend traject
 
-#### Artikel 18
+##### Artikel 18
 
 1. De kandidaat volgt, naast het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=II&artikel=2&z=2012-12-21&g=2012-12-21), genoemde individueel traject, een aanvullend traject met beroepservaringmodules, voor zover hij daarvan geen vrijstelling als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=V&paragraaf=6&artikel=21&z=2012-12-21&g=2012-12-21) heeft verkregen.
 
@@ -192,17 +217,17 @@ Het bureau architectenregister, althans een door hem aan te wijzen persoon of in
 
 5. De kandidaat is vrij in de keuze van de volgorde waarin hij de beroepservaringmodules doorloopt, doch dient zich ervan te vergewissen dat deze zoveel mogelijk aansluit bij zijn ontwikkelingen in het individueel traject.
 
-#### Artikel 19
+##### Artikel 19
 
 De kandidaat dient de door hem te volgen beroepservaringmodules te hebben afgerond vóór het in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=VI&artikel=24&z=2012-12-21&g=2012-12-21), bedoelde eindgesprek.
 
-#### Artikel 20
+##### Artikel 20
 
 Certificaten van deelname aan beroepservaringmodules zijn tot zes jaar na afgifte geldig.
 
 #### § 6. Vrijstellingen
 
-#### Artikel 21
+##### Artikel 21
 
 1. Van de verplichting om deel te nemen aan (een deel van) het individueel traject of (een deel van) het aanvullend traject kan door het bureau architectenregister, nadat deze de commissie beroepservaringperiode heeft gehoord, vrijstelling worden verleend.
 
@@ -210,19 +235,19 @@ Certificaten van deelname aan beroepservaringmodules zijn tot zes jaar na afgift
 
 3. De kandidaat die deelneemt aan een geïntegreerd beroepservaringprogramma vraagt een vrijstelling als bedoeld in het eerste lid, aan bij de aanbieder van dat programma.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een verzoek om vrijstelling dient door de kandidaat schriftelijk te worden ingediend bij de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=IV&artikel=7&z=2012-12-21&g=2012-12-21) bedoelde aanmelding.
 
 2. Het bureau architectenregister kan aan een vrijstelling voorwaarden verbinden.
 
-#### Artikel 23
+##### Artikel 23
 
 Een verzoek om vrijstelling wordt slechts gehonoreerd, indien de kandidaat naar het oordeel van het bureau architectenregister heeft aangetoond op grond van opleiding of opgedane beroepservaring voor aanvang van de beroepservaringperiode reeds te beschikken over (een deel van) de kennis, het inzicht en de vaardigheden die staan beschreven in de eindtermen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=II&artikel=2&z=2012-12-21&g=2012-12-21).
 
 ### Hoofdstuk VI. Einde van de beroepservaringperiode
 
-#### Artikel 24
+##### Artikel 24
 
 1. Vier weken vóór het einde van de beroepservaringperiode brengt de mentor door middel van een door het bureau architectenregister verstrekt formulier aan het bureau architectenregister schriftelijk verslag uit van het verloop van de beroepservaringperiode en de vorderingen van de kandidaat.
 
@@ -230,17 +255,17 @@ Een verzoek om vrijstelling wordt slechts gehonoreerd, indien de kandidaat naar 
 
 3. De commissie stelt tijdens het in het tweede lid bedoelde eindgesprek, mede aan de hand van de evaluatieformulieren, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=V&paragraaf=1&artikel=12&z=2012-12-21&g=2012-12-21), en in het eerste lid van dit artikel, het ingevulde logboek, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=V&paragraaf=1&artikel=11&z=2012-12-21&g=2012-12-21), en certificaten van deelname aan de door de kandidaat gevolgde beroepservaringmodules, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=V&paragraaf=5&artikel=18&z=2012-12-21&g=2012-12-21), vast of de beroepservaringperiode dusdanig is doorlopen dat de kandidaat geacht kan worden te beschikken over de kennis, het inzicht en de vaardigheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=II&artikel=2&z=2012-12-21&g=2012-12-21).
 
-#### Artikel 25
+##### Artikel 25
 
 1. De kandidaat levert uiterlijk twee weken voor het in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=VI&artikel=24&z=2012-12-21&g=2012-12-21), bedoelde eindgesprek het ingevulde logboek en geldige certificaten van alle door hem gevolgde beroepservaringmodules in bij het bureau architectenregister.
 
 2. Het niet (tijdig) indienen van het ingevulde logboek en de certificaten leidt ertoe dat de kandidaat niet wordt toegelaten tot het eindgesprek.
 
-#### Artikel 26
+##### Artikel 26
 
 Het eindgesprek, bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=VI&artikel=24&z=2012-12-21&g=2012-12-21), vindt in beginsel plaats binnen twee jaar, doch uiterlijk binnen zes jaar na aanvang van de beroepservaringperiode.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De beroepservaringperiode eindigt, buiten de gevallen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=V&paragraaf=2&artikel=13&z=2012-12-21&g=2012-12-21), zodra het bureau architectenregister aan de kandidaat een certificaat afgeeft waaruit blijkt dat het bureau architectenregister, op basis van het advies van de commissie beroepservaringperiode, vaststelt dat de kandidaat voldoet aan de eisen die in deze regeling aan hem zijn gesteld.
 
@@ -252,17 +277,17 @@ Het eindgesprek, bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/
 
 ### Hoofdstuk VII. Erkenning van aanbieders en beroepservaring-modules
 
-#### Artikel 28
+##### Artikel 28
 
 De erkenning van een aanbieder van beroepservaringmodules of van een geïntegreerd beroepservaringprogramma en de erkenning van beroepservaringmodules of van een geïntegreerd beroepservaringprogramma door het bureau architectenregister vindt plaats op verzoek van de aanbieder van de desbetreffende beroepservaringmodules of het desbetreffende beroepservaringprogramma.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Het bureau architectenregister kan aan een erkenning voorwaarden verbinden.
 
 2. Een erkenning kan door het bureau architectenregister te allen tijde worden ingetrokken.
 
-#### Artikel 30
+##### Artikel 30
 
 Het bureau architectenregister stelt regels vast met betrekking tot de erkenning, die in elk geval betrekking hebben op
 
@@ -272,7 +297,7 @@ Het bureau architectenregister stelt regels vast met betrekking tot de erkenning
 
 - c. de voorwaarden, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=VII&artikel=29&z=2012-12-21&g=2012-12-21).
 
-#### Artikel 31
+##### Artikel 31
 
 1. Een erkende aanbieder van beroepservaringmodules of van een geïntegreerd beroepservaringprogramma heeft het recht in eigen publicaties te vermelden dat hij door het bureau architectenregister als zodanig is erkend.
 
@@ -280,19 +305,19 @@ Het bureau architectenregister stelt regels vast met betrekking tot de erkenning
 
 ### Hoofdstuk VIII. Slotbepalingen
 
-#### Artikel 32
+##### Artikel 32
 
 Het bureau architectenregister is bevoegd de bijlage bij deze regeling te wijzigen en doet van een wijziging mededeling aan de ministers, bedoeld in [artikel 4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=4).
 
-#### Artikel 33
+##### Artikel 33
 
 Het bureau architectenregister stelt de tarieven vast voor een vergoeding van de kosten ter zake van de uitvoering van de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=II&z=2012-12-21&g=2012-12-21) en [IV tot en met VI](https://wetten.overheid.nl/jci1.3:c:BWBR0032509&hoofdstuk=IV&z=2012-12-21&g=2012-12-21) van deze regeling.
 
-#### Artikel 34
+##### Artikel 34
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 35
+##### Artikel 35
 
 Deze regeling kan worden aangehaald als: Regeling Beroepservaringperiode.
 

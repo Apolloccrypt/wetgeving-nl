@@ -1,13 +1,35 @@
 ---
 title: "Circulaire toepassen Baseline Informatiebeveiliging Overheid 2 in het digitale verkeer met het Rijk"
 identifier: "BWBR0052376"
-categorie: "Verkeer"
-publicatiedatum: 2026-03-02
-laatste_update: 2026-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052376"
+country: "nl"
+rank: "circulaire"
+publication_date: "2026-03-02"
+last_updated: "2026-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052376"
+soort: "circulaire"
+stam_id: "17788233"
+version_id: "31458982"
+internal_id: "C44932641"
+label_id: "17686574"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052376/2026-03-02/0"
+intitule_bron: "Stcrt.2026-7416-n1"
+intitule_effect: "wijziging"
+intitule_published: "2026-03-02"
+intitule_in_force: "2026-03-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-7416-n1"
+original_published_date: "2026-03-02"
+original_effect: "wijziging"
+original_url_id: "stcrt-2026-7416-n1"
+entry_into_force_date: "2026-03-02"
+jci_1_3: "jci1.3:c:BWBR0052376&z=2026-03-02&g=2026-03-02"
+jci_1_0: "1.0:c:BWBR0052376&g=2026-03-02"
+citeertitel_status: "redactioneel"
+entry_into_force: "2026-03-02"
 ---
-
 # Circulaire toepassen Baseline Informatiebeveiliging Overheid 2 in het digitale verkeer met het Rijk
 
 Met deze circulaire informeer ik u over de nieuwe versie van het normenkader inzake informatiebeveiliging; de Baseline Informatiebeveiliging Overheid 2 (BIO2), de opvolger van de BIO 1.04. De BIO2 versie 1.3 is opgenomen in deze circulaire.

@@ -1,20 +1,46 @@
 ---
-title: "Besluit bekendmaking veiling restruimte DAB+ laag 4"
+title: "Besluit van de Minister van Economische Zaken van 23 juni 2017, nr. WJZ/17097614, handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap inzake de keuze voor het instrument veiling van vergunningen voor digitale radio-omroep DAB+ in laag 4, en de vaststelling van de ontwerp-vergunningen"
 identifier: "BWBR0039703"
-categorie: "Overig"
-publicatiedatum: 2017-06-30
-laatste_update: 2017-06-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039703"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-06-30"
+last_updated: "2017-06-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039703"
+soort: "ministeriele-regeling"
+stam_id: "14030983"
+version_id: "24164932"
+internal_id: "C34725591"
+label_id: "13992294"
+dtd_version: "2.0"
+original_entry_into_force: "2017-06-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039703/2017-06-30/0"
+intitule_bron: "Stcrt.2017-35939"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-06-23"
+intitule_published: "2017-06-29"
+intitule_in_force: "2017-06-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-35939"
+original_signed_date: "2017-06-23"
+original_published_date: "2017-06-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-35939"
+entry_into_force_date: "2017-06-30"
+jci_1_3: "jci1.3:c:BWBR0039703&z=2017-06-30&g=2017-06-30"
+jci_1_0: "1.0:c:BWBR0039703&g=2017-06-30"
+citeertitel_status: "officieel"
+short_title: "Besluit bekendmaking veiling restruimte DAB+ laag 4"
+signed_date: "2017-06-23"
+entry_into_force: "2017-06-30"
 ---
-
 # Besluit van de Minister van Economische Zaken van 23 juni 2017, nr. WJZ/17097614, handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap inzake de keuze voor het instrument veiling van vergunningen voor digitale radio-omroep DAB+ in laag 4, en de vaststelling van de ontwerp-vergunningen
 
 Gelet op [artikel 3.10, derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) en [artikel 17 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De vergunningen voor digitale radio-omroep genoemd in tabel 1, met de daaraan, voor zover nu reeds mogelijk, te verbinden voorschriften en beperkingen, worden verleend met toepassing van een veiling, bedoeld in [artikel 3.10, eerste lid, aanhef en onderdeel f, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10).
 
@@ -24,15 +50,15 @@ De vergunningen voor digitale radio-omroep genoemd in tabel 1, met de daaraan, v
 | **9D-N** | acht | 2 |
 | **9D-Z** | veertien | 3 |
 
-#### Artikel 2
+##### Artikel 2
 
 De procedure van de veiling vangt aan op 3 juli 2017.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit bekendmaking veiling restruimte DAB+ laag 4.
 

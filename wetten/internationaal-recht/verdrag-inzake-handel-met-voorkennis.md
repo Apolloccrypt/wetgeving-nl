@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake handel met voorkennis"
 identifier: "BWBV0002781"
-categorie: "Internationaal recht"
-publicatiedatum: 1994-11-01
-laatste_update: 1994-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002781"
+country: "nl"
+rank: "verdrag"
+publication_date: "1994-11-01"
+last_updated: "1994-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002781"
+soort: "verdrag"
+stam_id: "10003110823"
+version_id: "10003115392"
+internal_id: "C10006985211"
+label_id: "10003097414"
+dtd_version: "2.0"
+original_entry_into_force: "1994-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002781/1994-11-01/0"
+intitule_bron: "Trb.1993-111"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-07-04"
+intitule_published: "1993-08-27"
+intitule_in_force: "1994-08-05"
+intitule_status: "goed"
+original_publication: "Trb.1993-111"
+original_signed_date: "1994-07-04"
+original_published_date: "1993-08-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-111"
+entry_into_force_date: "1994-11-01"
+jci_1_3: "jci1.3:c:BWBV0002781&z=1994-11-01&g=1994-11-01"
+jci_1_0: "1.0:c:BWBV0002781&g=1994-11-01"
+citeertitel_status: "officieel"
+signed_date: "1994-07-04"
+entry_into_force: "1994-11-01"
 ---
-
 # Verdrag inzake handel met voorkennis
 
 De Lidstaten van de Raad van Europa die dit Verdrag hebben ondertekend,
@@ -26,7 +51,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit Verdrag wordt onder een ongeoorloofde handeling met voorkennis verstaan een ongeoorloofde handeling verricht door een persoon:
 
@@ -46,15 +71,15 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK II. UITWISSELING VAN GEGEVENS
 
-#### Artikel 2
+##### Artikel 2
 
 De Partijen verbinden zich ertoe, in overeenstemming met de bepalingen van dit hoofdstuk, elkaar de grootst mogelijke mate van wederzijdse bijstand te verlenen bij het uitwisselen van gegevens die verband houden met feiten die duidelijk maken of het vermoeden doen rijzen dat ongeoorloofde handelingen met voorkennis zijn verricht.
 
-#### Artikel 3
+##### Artikel 3
 
 Elke Partij kan zich er, door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring, toe verbinden andere Partijen, onder de voorwaarde van wederkerigheid, de grootst mogelijke mate van wederzijdse bijstand te verlenen bij de uitwisseling van gegevens die noodzakelijk zijn voor het uitoefenen van toezicht op handelingen die zijn verricht op de gereglementeerde effectenbeurzen die afbreuk zouden kunnen doen aan de gelijkheid van toegang tot gegevens voor alle gebruikers van de effectenmarkt of aan de kwaliteit van de gegevens die aan investeerders worden verstrekt, ten einde te verzekeren dat op eerlijke wijze wordt gehandeld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Elke Partij wijst één of meer autoriteiten aan als feitelijk verantwoordelijk voor het indienen van verzoeken om bijstand, en voor het ontvangen van en uitvoering geven aan verzoeken om bijstand van de door elke Partij aangewezen overeenkomstige autoriteiten.
 
@@ -62,7 +87,7 @@ Elke Partij kan zich er, door middel van een aan de Secretaris-Generaal van de R
 
 3. De Secretaris-Generaal doet van deze verklaringen mededeling aan de andere Partijen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ieder verzoek om bijstand dient met redenen te zijn omkleed.
 
@@ -82,7 +107,7 @@ Elke Partij kan zich er, door middel van een aan de Secretaris-Generaal van de R
 
 - d. de termijn waarop een antwoord wordt gewenst en, in geval van spoed, de redenen daarvoor.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Verzoeken om bijstand worden door de aangezochte autoriteit uitgevoerd in overeenstemming met de voorschriften en procedures voorzien in de wet van de Partij waaronder die autoriteit valt.
 
@@ -100,7 +125,7 @@ Elke Partij kan zich er, door middel van een aan de Secretaris-Generaal van de R
 
 - -. hetzij, mits de verzoekende autoriteit hiervan in kennis is gesteld, het onderzoek naar schendingen van de wet van de aangezochte Partij en het toezicht op de naleving van die wet.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De verzoekende autoriteit mag de aan haar verstrekte gegevens niet voor andere dan in haar verzoek genoemde doeleinden gebruiken.
 
@@ -118,7 +143,7 @@ Elke Partij kan zich er, door middel van een aan de Secretaris-Generaal van de R
 
 5. Geen enkele autoriteit van de verzoekende Partij mag deze gegevens gebruiken of doorgeven voor belasting- of douanedoeleinden of ten behoeve van toezicht op de naleving van deviezenwetten tenzij anderszins is bepaald in een verklaring van de aangezochte Partij.
 
-#### Artikel 8
+##### Artikel 8
 
 De aangezochte Partij kan weigeren om gehoor te geven aan het verzoek om bijstand of om de door haar verzamelde gegevens te verstrekken, indien:
 
@@ -134,11 +159,11 @@ De aangezochte Partij kan weigeren om gehoor te geven aan het verzoek om bijstan
 
 - f. de autoriteiten van de aangezochte Partij hebben besloten met betrekking tot dezelfde feiten geen procedures aan te spannen danwel deze te beëindigen.
 
-#### Artikel 9
+##### Artikel 9
 
 Voor zover dit in haar vermogen ligt verstrekt de aangezochte autoriteit de door de verzoekende autoriteit gevraagde gegevens, in de door die autoriteit gewenste vorm of in de vorm die in hun onderlinge betrekkingen gebruikelijk is.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Elke Partij die zich ervan heeft vergewist dat de verzoekende Partij de vertrouwelijkheid van de verstrekte gegevens ernstig heeft geschonden, kan de toepassing van Hoofdstuk II van dit Verdrag opschorten ten aanzien van de Partij die haar verplichting niet is nagekomen. Eerstbedoelde Partij stelt de Secretaris-Generaal van de Raad van Europa in kennis van die beslissing. Zij kan de opschorting te allen tijde opheffen. Van de opheffing stelt zij de Secretaris-Generaal in kennis.
 
@@ -146,13 +171,13 @@ Voor zover dit in haar vermogen ligt verstrekt de aangezochte autoriteit de door
 
 3. De Secretaris-Generaal van de Raad van Europa stelt de Lidstaten en de Partijen bij dit Verdrag in kennis van ieder geval van gebruikmaking van de in het eerste lid voorziene procedure.
 
-#### Artikel 11
+##### Artikel 11
 
 De Partijen kunnen overeenkomen dat, in afwijking van het bepaalde in het vierde lid van artikel 5, verzoeken om bijstand en antwoorden daarop mogen worden gesteld in de taal van hun keuze en kunnen worden gedaan volgens vereenvoudigde procedures of met behulp van andere dan schriftelijke communicatiemiddelen.
 
 ### HOOFDSTUK III. WEDERZIJDSE RECHTSHULP IN STRAFZAKEN
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Partijen verbinden zich ertoe elkaar in zo ruim mogelijke mate wederzijds rechtshulp te verlenen in strafzaken betreffende strafbare feiten die verband houden met handel met voorkennis.
 
@@ -160,23 +185,23 @@ De Partijen kunnen overeenkomen dat, in afwijking van het bepaalde in het vierde
 
 ### HOOFDSTUK IV. SLOTBEPALINGEN
 
-#### Artikel 13
+##### Artikel 13
 
 Dit Verdrag staat open voor ondertekening door de Lidstaten van de Raad van Europa. Het dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop drie Lidstaten van de Raad van Europa in overeenstemming met de bepalingen van artikel 13 hun instemming zich gebonden te achten door dit Verdrag tot uitdrukking hebben gebracht.
 
 2. Ten aanzien van iedere Lidstaat die later zijn instemming zich gebonden te achten door dit Verdrag tot uitdrukking brengt, treedt het in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa iedere Staat die geen lid van de Raad van Europa is en iedere internationale intergouvernementele organisatie uitnodigen toe te treden tot dit Verdrag door een besluit daartoe bij de meerderheid van stemmen, zoals voorzien in [artikel 20, letter d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20), en bij unanimiteit van de vertegenwoordigers van de Verdragsluitende Staten gerechtigd zitting te hebben in het Comité.
 
 2. Ten aanzien van iedere toetredende Staat of internationale intergouvernementele organisatie treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Elke Staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het gebied of de gebieden aanwijzen waarop dit Verdrag van toepassing is.
 
@@ -184,31 +209,31 @@ Dit Verdrag staat open voor ondertekening door de Lidstaten van de Raad van Euro
 
 3. Elke verklaring, gedaan krachtens beide vorige leden, kan ten aanzien van ieder in die verklaring aangewezen gebied, worden ingetrokken door middel van een aan de Secretaris-Generaal gerichte kennisgeving. Deze intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 16 bis
+##### Artikel 16 bis
 
 In hun wederzijdse betrekkingen passen Partijen die lid zijn van de Europese Economische Gemeenschap de voorschriften van de Gemeenschap toe; zij passen derhalve niet de voorschriften toe die voortvloeien uit dit Verdrag behalve voor zover er geen voorschrift van de Gemeenschap bestaat waarbij het desbetreffende onderwerp wordt geregeld.
 
-#### Artikel 17
+##### Artikel 17
 
 Ten aanzien van dit Verdrag kan geen enkel voorbehoud worden gemaakt, zulks onverminderd de toepassing van artikel 6.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Na de inwerkingtreding van het Verdrag wordt een groep van deskundigen die de Partijen bij het Verdrag vertegenwoordigen alsmede de Lidstaten van de Raad van Europa die geen Partij bij het Verdrag zijn, bijeengeroepen op verzoek van ten minste twee Partijen of op initiatief van de Secretaris-Generaal van de Raad van Europa.
 
 2. Deze groep heeft tot taak een evaluatie van de toepassing van het Verdrag op te stellen en passende voorstellen te doen.
 
-#### Artikel 19
+##### Artikel 19
 
 Kwesties ten aanzien van de interpretatie en de toepassing van dit Verdrag worden opgelost in rechtstreeks overleg tussen de bevoegde bestuurlijke autoriteiten en, indien noodzakelijk, langs diplomatieke weg.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Elke Partij kan te allen tijde dit Verdrag opzeggen door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving.
 
 2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal; de opzegging laat ten tijde van de opzegging reeds lopende verzoeken onverlet.
 
-#### Artikel 21
+##### Artikel 21
 
 De Secretaris-Generaal van de Raad van Europa stelt de Lidstaten van de Raad van Europa en iedere Partij bij dit Verdrag in kennis van:
 

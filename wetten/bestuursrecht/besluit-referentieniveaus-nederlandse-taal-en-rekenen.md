@@ -1,13 +1,39 @@
 ---
-title: "Besluit referentieniveaus Nederlandse taal en rekenen"
+title: "Besluit van 17 juni 2010, houdende vaststelling van referentieniveaus Nederlandse taal en referentieniveaus rekenen (Besluit referentieniveaus Nederlandse taal en rekenen)"
 identifier: "BWBR0027879"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027879"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027879"
+soort: "AMvB"
+stam_id: "10604003"
+version_id: "28399952"
+internal_id: "C40054771"
+label_id: "10578934"
+dtd_version: "2.0"
+original_entry_into_force: "2022-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027879/2022-08-01/0"
+intitule_bron: "Stb.2010-265"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-06-17"
+intitule_published: "2010-07-08"
+intitule_in_force: "2010-07-22"
+intitule_status: "goed"
+original_publication: "Stb.2022-62"
+original_signed_date: "2022-02-01"
+original_published_date: "2022-02-09"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2022-62"
+entry_into_force_date: "2022-02-01"
+jci_1_3: "jci1.3:c:BWBR0027879&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0027879&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Besluit referentieniveaus Nederlandse taal en rekenen"
+signed_date: "2022-02-01"
+entry_into_force: "2022-02-01"
 ---
-
 # Besluit van 17 juni 2010, houdende vaststelling van referentieniveaus Nederlandse taal en referentieniveaus rekenen (Besluit referentieniveaus Nederlandse taal en rekenen)
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 8 april 2010, nr. WJZ/199346 (2702), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Onderwijs, Cultuur en Wetenschap en Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop artikel 2 van de Wet referentieniveaus Nederlandse taal en rekenen in werking treedt.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - **WEB:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
-#### Artikel 2. Referentieniveaus Nederlandse taal
+##### Artikel 2. Referentieniveaus Nederlandse taal
 
 Voor de hierna genoemde onderwijssoorten worden de volgende referentieniveaus Nederlandse taal, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&bijlage=1&z=2022-08-01&g=2022-08-01) van dit besluit, vastgesteld:
 
@@ -68,7 +94,7 @@ Voor de hierna genoemde onderwijssoorten worden de volgende referentieniveaus Ne
 
 - n. het arbeidsmarktgerichte uitstroomprofiel, bedoeld in [artikel 14, eerste lid, onderdeel b, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14): het referentieniveau 1F.
 
-#### Artikel 3. Referentieniveaus rekenen
+##### Artikel 3. Referentieniveaus rekenen
 
 Voor de hierna genoemde onderwijssoorten worden de volgende referentieniveaus rekenen, zoals opgenomen in [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&bijlage=2&z=2022-08-01&g=2022-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&bijlage=3&z=2022-08-01&g=2022-08-01) van dit besluit, vastgesteld:
 
@@ -100,11 +126,11 @@ Voor de hierna genoemde onderwijssoorten worden de volgende referentieniveaus re
 
 - n. het arbeidsmarktgerichte uitstroomprofiel, bedoeld in [artikel 14, eerste lid, onderdeel b, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14): het referentieniveau 1F.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Dit besluit treedt in werking op het tijdstip waarop [artikel 2 van de Wet referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=2) in werking treedt.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit referentieniveaus Nederlandse taal en rekenen.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit Vervanging Archiefbescheiden Justid 2024"
+title: "Besluit van de Directeur Informatiehuishouding van de Justitiële Informatiedienst van het Ministerie van Justitie en Veiligheid van 13 maart 2024, met DigiJust-kenmerk 5281792 inzake de digitale vervanging van papieren archiefbescheiden zoals aangeduid in bijlage 1 bij dit besluit (Besluit Vervanging Archiefbescheiden Justid 2024)"
 identifier: "BWBR0049533"
-categorie: "Overig"
-publicatiedatum: 2024-04-04
-laatste_update: 2024-04-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049533"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-04-04"
+last_updated: "2024-04-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049533"
+soort: "ministeriele-regeling"
+stam_id: "17065373"
+version_id: "30032132"
+internal_id: "C43046041"
+label_id: "16974094"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049533/2024-04-04/0"
+intitule_bron: "Stcrt.2024-10756"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-03-13"
+intitule_published: "2024-04-03"
+intitule_in_force: "2024-04-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-10756"
+original_signed_date: "2024-03-13"
+original_published_date: "2024-04-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-10756"
+entry_into_force_date: "2024-04-04"
+jci_1_3: "jci1.3:c:BWBR0049533&z=2024-04-04&g=2024-04-04"
+jci_1_0: "1.0:c:BWBR0049533&g=2024-04-04"
+citeertitel_status: "officieel"
+short_title: "Besluit Vervanging Archiefbescheiden Justid 2024"
+signed_date: "2024-03-13"
+entry_into_force: "2024-04-04"
 ---
-
 # Besluit van de Directeur Informatiehuishouding van de Justitiële Informatiedienst van het Ministerie van Justitie en Veiligheid van 13 maart 2024, met DigiJust-kenmerk 5281792 inzake de digitale vervanging van papieren archiefbescheiden zoals aangeduid in bijlage 1 bij dit besluit (Besluit Vervanging Archiefbescheiden Justid 2024)
 
 Gelet op:
@@ -24,7 +50,7 @@ Gelet op:
 
 [artikel 1 (g) van het Mandaatbesluit Justid 2022 met ondermandaat van de portefeuille informatiehuishouding aan de Directeur Informatiehuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0046430&artikel=1).
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 Besluit om over te gaan tot routinematige of retrospectieve digitale vervanging van archiefbescheiden van de Justitiële Informatiedienst, die:
 
@@ -32,15 +58,15 @@ Besluit om over te gaan tot routinematige of retrospectieve digitale vervanging 
 
 - 2. volgens de geldende selectielijst voor vernietiging of bewaring in aanmerking komen.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 De digitale vervanging heeft betrekking op papieren archiefbescheiden die zijn ontvangen of opgemaakt voorafgaand aan de inwerkingtreding van dit besluit en die worden ontvangen of opgemaakt na inwerkingtreding van dit besluit.
 
-#### Artikel 3. Waarde archiefbescheiden
+##### Artikel 3. Waarde archiefbescheiden
 
 Besluit dat bij de overweging om tot vervanging over te gaan, rekening is gehouden met de waarde van de archiefbescheiden, zoals aangegeven in [artikel 2, lid 1 aanhef en onder c en d van het Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2).
 
-#### Artikel 4. Vervangen en vernietigen van de archiefbescheiden
+##### Artikel 4. Vervangen en vernietigen van de archiefbescheiden
 
 1. De digitale vervanging geschiedt op de wijze en volgens de specificaties zoals omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049533&bijlage=1&z=2024-04-04&g=2024-04-04) bij dit besluit.
 
@@ -48,11 +74,11 @@ Besluit dat bij de overweging om tot vervanging over te gaan, rekening is gehoud
 
 3. Vernietiging van de vervangen archiefbescheiden vindt plaats na een steekproefcontrole.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt gepubliceerd.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Dit besluit wordt aangehaald als Besluit Vervanging Archiefbescheiden Justid 2024.
 

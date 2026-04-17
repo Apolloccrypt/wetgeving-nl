@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, eigenwoningregeling"
 identifier: "BWBR0026751"
-categorie: "Belastingrecht"
-publicatiedatum: 2022-11-09
-laatste_update: 2022-11-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026751"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-11-09"
+last_updated: "2022-11-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026751"
+soort: "beleidsregel"
+stam_id: "10295523"
+version_id: "16871662"
+internal_id: "C23233721"
+label_id: "10271954"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026751/2022-11-09/0"
+intitule_bron: "Stcrt.2009-18386"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-11-24"
+intitule_published: "2009-12-02"
+intitule_in_force: "2009-12-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-18386"
+original_signed_date: "2009-11-24"
+original_published_date: "2009-12-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-18386"
+entry_into_force_date: "2009-12-03"
+jci_1_3: "jci1.3:c:BWBR0026751&z=2022-11-09&g=2022-11-09"
+jci_1_0: "1.0:c:BWBR0026751&g=2022-11-09"
+citeertitel_status: "redactioneel"
+signed_date: "2009-11-24"
+entry_into_force: "2009-12-03"
 ---
-
 # Inkomstenbelasting, eigenwoningregeling
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

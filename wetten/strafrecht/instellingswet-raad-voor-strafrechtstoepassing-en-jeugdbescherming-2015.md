@@ -1,14 +1,41 @@
 ---
-title: "Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015"
+title: "Wet van 1 april 2015 tot vaststelling van een nieuwe Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming (Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015)"
 identifier: "BWBR0036510"
-categorie: "Strafrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036510"
+country: "nl"
+rank: "wet"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036510"
+soort: "wet"
+stam_id: "13133843"
+version_id: "22379412"
+internal_id: "C32156911"
+label_id: "13102974"
+dtd_version: "2.0"
+original_entry_into_force: "2015-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036510/2020-01-01/0"
+intitule_bron: "Stb.2015-140"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-04-01"
+intitule_published: "2015-04-10"
+intitule_in_force: "2015-05-07"
+intitule_status: "goed"
+original_publication: "Stb.2015-140"
+original_signed_date: "2015-04-01"
+original_published_date: "2015-04-10"
+original_effect: "nieuwe-regeling"
+original_dossier: "33970"
+original_url_id: "stb-2015-140"
+entry_into_force_date: "2015-07-01"
+jci_1_3: "jci1.3:c:BWBR0036510&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0036510&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015"
+signed_date: "2015-04-01"
+entry_into_force: "2015-07-01"
 ---
-
-# Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015
+# Wet van 1 april 2015 tot vaststelling van een nieuwe Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming (Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,17 +65,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1. Instelling, taak en samenstelling
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Raad voor strafrechtstoepassing en jeugdbescherming.
 
 2. De Raad is gevestigd te ’s-Gravenhage.
 
-#### Artikel 3
+##### Artikel 3
 
 De Raad is belast met de taken die hem bij of krachtens de wet zijn opgedragen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Raad wordt gevormd door een voorzitter en ten hoogste vijftien andere leden. De Raad kan uit de andere leden ondervoorzitters aanwijzen.
 
@@ -56,7 +83,7 @@ De Raad is belast met de taken die hem bij of krachtens de wet zijn opgedragen.
 
 3. Voor de toepassing van deze wet wordt onder leden mede begrepen buitengewone leden, voor zover niet uit enige bepaling anders volgt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De voorzitter wordt, de Raad gehoord, op voordracht van Onze Minister bij koninklijk besluit benoemd. Voor de benoeming van de andere leden doet de Raad een aanbeveling. De aanbeveling wordt gedaan gehoord de afdeling van de Raad waarvan het te benoemen lid deel zal uitmaken.
 
@@ -66,7 +93,7 @@ De Raad is belast met de taken die hem bij of krachtens de wet zijn opgedragen.
 
 4. Onze Minister draagt zorg voor openbaarmaking van een vacature in de Raad.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De leden van de Raad worden benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=3&z=2020-01-01&g=2020-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=3&artikel=24&z=2020-01-01&g=2020-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=4&artikel=28&z=2020-01-01&g=2020-01-01) genoemde taken alsmede op grond van maatschappelijke kennis en ervaring.
 
@@ -102,7 +129,7 @@ De Raad is belast met de taken die hem bij of krachtens de wet zijn opgedragen.
 
 5. Bij de samenstelling van de Raad wordt gestreefd naar evenredige deelneming van vrouwen en personen behorende tot etnische of culturele minderheidsgroepen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De leden van de Raad worden op eigen aanvraag bij koninklijk besluit ontslagen.
 
@@ -128,11 +155,11 @@ De Raad is belast met de taken die hem bij of krachtens de wet zijn opgedragen.
 
 - –. in plaats van «Hoge Raad»: Raad.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij of krachtens algemene maatregel van bestuur worden de vergoeding van reis- en verblijfkosten en verdere vergoedingen aan leden van de Raad vastgesteld.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De leden onthouden zich van deelname aan activiteiten van de Raad die, gelet op andere functies die zij vervullen, kan leiden tot een verstrengeling van belangen of verantwoordelijkheden of tot een verlies van onafhankelijkheid of onpartijdigheid van de Raad.
 
@@ -142,7 +169,7 @@ Bij of krachtens algemene maatregel van bestuur worden de vergoeding van reis- e
 
 #### § 2. Ondersteuning van de Raad
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Raad heeft een secretaris.
 
@@ -152,7 +179,7 @@ Bij of krachtens algemene maatregel van bestuur worden de vergoeding van reis- e
 
 4. De secretaris is geen lid van de Raad.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Aan de secretaris kunnen medewerkers worden toegevoegd.
 
@@ -160,33 +187,33 @@ Bij of krachtens algemene maatregel van bestuur worden de vergoeding van reis- e
 
 3. Medewerkers zijn geen lid van de Raad.
 
-#### Artikel 12
+##### Artikel 12
 
 Onze Minister draagt, na overleg met de Raad, zorg voor de nodige voorzieningen ten behoeve van de werkzaamheden van de Raad.
 
 #### § 3. Bevoegdheden van de Raad
 
-#### Artikel 13
+##### Artikel 13
 
 De Raad wordt vertegenwoordigd door de voorzitter en de secretaris.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Raad stelt een bestuursreglement vast. Dit bevat in ieder geval regels over werkwijzen en procedures met het oog op een goede en zorgvuldige uitoefening van de verschillende taken. Daarbij kan worden voorzien in nadere waarborgen tegen vermenging van de adviserende en rechtsprekende taak van de Raad.
 
 2. Het reglement alsmede elke wijziging daarvan wordt zo spoedig mogelijk gezonden aan Onze Minister en behoeft diens goedkeuring.
 
-#### Artikel 15
+##### Artikel 15
 
 De Raad kan zich voor het inwinnen van inlichtingen wenden tot daartoe door Onze Minister aangewezen ambtenaren.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De Raad kan zich doen bijstaan door andere dan de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=3&artikel=15&z=2020-01-01&g=2020-01-01) bedoelde personen, voor zover dat voor de vervulling van zijn taken nodig is.
 
 2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=8&z=2020-01-01&g=2020-01-01) is van overeenkomstige toepassing.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De leden van de Raad hebben te allen tijde toegang tot alle plaatsen in de inrichtingen en instellingen die onder verantwoordelijkheid van Onze Minister een taak uitoefenen in het kader van de tenuitvoerlegging van vrijheidsstraffen, vrijheidsbeperkende straffen, vrijheidsbenemende maatregelen en vrijheidsbeperkende maatregelen.
 
@@ -196,31 +223,31 @@ De Raad kan zich voor het inwinnen van inlichtingen wenden tot daartoe door Onze
 
 #### § 4. Overige bepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 De Raad zendt jaarlijks voor 1 april aan Onze Minister een ontwerp voor de begroting voor het daaropvolgende kalenderjaar van de aan zijn taakvervulling verbonden uitgaven.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De Raad zendt Onze Minister jaarlijks voor 15 november een werkprogramma voor het komende kalenderjaar toe.
 
 2. Onze Minister verstrekt de Raad tijdig een overzicht van de voornemens om advies te vragen.
 
-#### Artikel 20
+##### Artikel 20
 
 De Raad houdt bij het vervullen van zijn taken zo veel mogelijk rekening met het werkprogramma. Onverminderd de Comptabiliteitswet 2001 vervult hij zijn taak met de middelen die ingevolge de desbetreffende begrotingswet ter beschikking zijn gesteld.
 
-#### Artikel 21
+##### Artikel 21
 
 De Raad stelt jaarlijks voor 1 april een verslag op van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en de doeltreffendheid van zijn werkzaamheden en werkwijze in het bijzonder in het afgelopen kalenderjaar. Het verslag wordt aan Onze Minister toegezonden en algemeen verkrijgbaar gesteld.
 
-#### Artikel 22
+##### Artikel 22
 
 De Raad verstrekt desgevraagd aan Onze Minister de voor de uitoefening van diens taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
 ### Hoofdstuk 3. De Afdeling advisering
 
-#### Artikel 23
+##### Artikel 23
 
 1. De Raad kent een Afdeling advisering.
 
@@ -232,23 +259,23 @@ De Raad verstrekt desgevraagd aan Onze Minister de voor de uitoefening van diens
 
 3. De voorzitter van de Raad is tevens voorzitter van de Afdeling advisering.
 
-#### Artikel 24
+##### Artikel 24
 
 De Afdeling advisering adviseert Onze Minister desgevraagd of uit eigen beweging over de toepassing en uitvoering van beleid en regelgeving op het terrein van de strafrechtstoepassing en omtrent jeugdigen, mede in het licht van de overige werkzaamheden hem bij of krachtens de wet opgedragen.
 
-#### Artikel 25
+##### Artikel 25
 
 De Afdeling advisering kan zich verdelen in secties en kan de uitoefening van bepaalde taken opdragen aan commissies uit zijn midden.
 
 ### Hoofdstuk 4. De Afdeling rechtspraak
 
-#### Artikel 26
+##### Artikel 26
 
 1. De Raad kent een Afdeling rechtspraak.
 
 2. De Afdeling rechtspraak bestaat uit de leden en buitengewone leden die in de Afdeling rechtspraak zijn benoemd.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Bij koninklijk besluit wordt, op voordracht van Onze Minister, uit de leden van de Afdeling rechtspraak een voorzitter van de Afdeling rechtspraak benoemd. Voor de benoeming doet de Raad een aanbeveling, de Afdeling rechtspraak gehoord.
 
@@ -256,11 +283,11 @@ De Afdeling advisering kan zich verdelen in secties en kan de uitoefening van be
 
 3. De voorzitter regelt de werkzaamheden van de Afdeling rechtspraak.
 
-#### Artikel 28
+##### Artikel 28
 
 De Afdeling rechtspraak is belast met rechtspraak die hem bij de wet is opgedragen.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De Afdeling rechtspraak vormt en bezet op voorstel van de voorzitter beroepscommissies.
 
@@ -268,7 +295,7 @@ De Afdeling rechtspraak is belast met rechtspraak die hem bij de wet is opgedrag
 
 3. Een lid van de Afdeling rechtspraak dat betrokken is geweest bij de totstandkoming van een advies van de Raad, neemt geen deel aan de behandeling van een geschil over een rechtsvraag waarop dat advies betrekking had.
 
-#### Artikel 30
+##### Artikel 30
 
 Het is de leden van de Afdeling rechtspraak en de ten behoeve van deze afdeling werkzame medewerkers verboden:
 
@@ -278,7 +305,7 @@ Het is de leden van de Afdeling rechtspraak en de ten behoeve van deze afdeling 
 
 - c. over een voor hen aanhangige zaak of over een zaak die naar zij weten of redelijkerwijs kunnen vermoeden, voor hen aanhangig zal worden, op enigerlei bijzondere wijze in contact te treden met partijen, gemachtigden of degene die een partij bijstaat.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Op verzoek van een der partijen kan elk van de leden van de beroepscommissie die de betreffende beroepszaak behandelen dan wel de voorzitter die een schorsingsverzoek behandelt, worden gewraakt op grond van feiten en omstandigheden waardoor de onpartijdigheid schade zou kunnen leiden.
 
@@ -298,7 +325,7 @@ Het is de leden van de Afdeling rechtspraak en de ten behoeve van deze afdeling 
 
 9. Tegen de beslissing staat geen rechtsmiddel open.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De Afdeling rechtspraak stelt een regeling vast voor de behandeling van klachten.
 
@@ -308,7 +335,7 @@ Het is de leden van de Afdeling rechtspraak en de ten behoeve van deze afdeling 
 
 ### Hoofdstuk 5. Cassatie in het belang der wet
 
-#### Artikel 33
+##### Artikel 33
 
 1. De procureur-generaal bij de Hoge Raad kan cassatie in het belang der wet instellen tegen de uitspraken van de Afdeling rechtspraak. Hij handelt in dat geval overeenkomstig [artikel 456, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=456), met dien verstande dat hij zich de stukken van het geding doet opzenden door de Raad. De [artikelen 443](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=443), [444](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=444) en 456, derde lid, van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.
 
@@ -316,29 +343,29 @@ Het is de leden van de Afdeling rechtspraak en de ten behoeve van deze afdeling 
 
 ### Hoofdstuk 6. Wijziging van andere wetten
 
-#### Artikel 34
+##### Artikel 34
 
 Wijzigt de Penitentiaire beginselenwet.
 
-#### Artikel 35
+##### Artikel 35
 
 Wijzigt de Beginselenwet verpleging ter beschikking gestelden.
 
-#### Artikel 36
+##### Artikel 36
 
 Wijzigt de Beginselenwet justitiële jeugdinrichtingen.
 
-#### Artikel 37
+##### Artikel 37
 
 Wijzigt de Wet op de rechterlijke organisatie.
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
-#### Artikel 38
+##### Artikel 38
 
 Wijzigt deze wet.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Zij die op het tijdstip van inwerkingtreding van deze wet lid zijn van de Raad, blijven lid van de Raad gedurende de resterende termijn van hun benoeming. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=4&z=2020-01-01&g=2020-01-01) blijft zo nodig buiten toepassing. Zij zijn lid van de Afdeling advisering en de Afdeling rechtspraak, tenzij bij koninklijk besluit anders wordt bepaald, onverminderd de tweede volzin van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=5&z=2020-01-01&g=2020-01-01).
 
@@ -346,15 +373,15 @@ Wijzigt deze wet.
 
 3. Plaatsvervangende leden die zijn benoemd voor het tijdstip van inwerkingtreding van deze wet, zijn als buitengewoon lid belast met de taak of taken waarmee zij op de dag voor de datum van inwerkingtreding van deze wet waren belast, tenzij bij koninklijk besluit anders wordt bepaald, onverminderd de tweede volzin van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&hoofdstuk=2&paragraaf=1&artikel=5&z=2020-01-01&g=2020-01-01).
 
-#### Artikel 40
+##### Artikel 40
 
 De [Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0011940) wordt ingetrokken.
 
-#### Artikel 41
+##### Artikel 41
 
 Deze wet wordt aangehaald als: Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming, met vermelding van het jaartal van het Staatsblad waarin zij wordt geplaatst.
 
-#### Artikel 42
+##### Artikel 42
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende hoofdstukken, artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

@@ -1,13 +1,39 @@
 ---
-title: "Nadere regeling inrichting opleidingen architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect"
+title: "Regeling van de Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, M. van der Laan, van 14 april 2006, nr. DJZ2006249520, Directie Juridische Zaken, Afdeling Wetgeving, houdende nadere regels over de te geven inrichting aan de opleidingen tot architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect (Nadere regeling inrichting opleidingen architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect)"
 identifier: "BWBR0019763"
-categorie: "Overig"
-publicatiedatum: 2016-09-02
-laatste_update: 2016-09-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019763"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-09-02"
+last_updated: "2016-09-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019763"
+soort: "ministeriele-regeling"
+stam_id: "8258723"
+version_id: "13097112"
+internal_id: "C29235491"
+label_id: "8240014"
+dtd_version: "2.0"
+original_entry_into_force: "2006-05-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019763/2016-09-02/0"
+intitule_bron: "Stcrt.2006-87"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-04-14"
+intitule_published: "2006-05-04"
+intitule_in_force: "2006-05-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-87"
+original_signed_date: "2006-04-14"
+original_published_date: "2006-05-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-87-p17-SC74896"
+entry_into_force_date: "2006-05-06"
+jci_1_3: "jci1.3:c:BWBR0019763&z=2016-09-02&g=2016-09-02"
+jci_1_0: "1.0:c:BWBR0019763&g=2016-09-02"
+citeertitel_status: "officieel"
+short_title: "Nadere regeling inrichting opleidingen architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect"
+signed_date: "2006-04-14"
+entry_into_force: "2006-05-06"
 ---
-
 # Regeling van de Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, M. van der Laan, van 14 april 2006, nr. DJZ2006249520, Directie Juridische Zaken, Afdeling Wetgeving, houdende nadere regels over de te geven inrichting aan de opleidingen tot architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect (Nadere regeling inrichting opleidingen architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect)
 
 Gelet op de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=9), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=10), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=11), en [12, tweede lid, van de Wet op de architectentitel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=12);
@@ -16,7 +42,7 @@ Besluiten:
 
 ### Hoofdstuk I. Begripsbepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk II. Voorschriften omtrent de inrichting welke degene die inschrijving in het register als architect wenst te verkrijgen, aan zijn of haar opleiding moet hebben gegeven
 
-#### Artikel 2. Voorschriften inrichting opleiding architect
+##### Artikel 2. Voorschriften inrichting opleiding architect
 
 1. Degene die voldoet aan een van de eisen, genoemd in [artikel 9, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=9), komt slechts voor inschrijving in het register als architect in aanmerking, indien zijn of haar opleiding ten minste de verwerving waarborgt van het vermogen tot architectonische vormgeving die zowel aan esthetische als aan technische en functionele eisen voldoet.
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - l. passende kennis van en inzicht in procedures en processen van besluitvorming.
 
-#### Artikel 3. Opleidingen die aan voorschriften inrichting voldoen
+##### Artikel 3. Opleidingen die aan voorschriften inrichting voldoen
 
 Aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=II&artikel=2&z=2016-09-02&g=2016-09-02) wordt in elk geval voldaan door degene die in het bezit is van:
 
@@ -76,7 +102,7 @@ Aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=II&art
 
 - h. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Architectuur aan de Hogeschool Zuyd, afgegeven door de examencommissie van de Academie van Bouwkunst Maastricht.
 
-#### Artikel 4. Oude opleidingen die aan voorschriften inrichting voldoen
+##### Artikel 4. Oude opleidingen die aan voorschriften inrichting voldoen
 
 Voor inschrijving in het register komt eveneens in aanmerking degene die in het bezit is van:
 
@@ -118,7 +144,7 @@ Voor inschrijving in het register komt eveneens in aanmerking degene die in het 
 
 ### Hoofdstuk III. Voorschriften omtrent de inrichting welke degene die inschrijving in het register als stedenbouwkundige wenst te verkrijgen, aan zijn of haar opleiding moet hebben gegeven
 
-#### Artikel 5. Voorschriften inrichting opleiding stedenbouwkundige
+##### Artikel 5. Voorschriften inrichting opleiding stedenbouwkundige
 
 1. Degene die voldoet aan een van de eisen, genoemd in [artikel 10, eerste lid, onderdelen a tot en met c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=10), komt slechts voor inschrijving in het register als stedenbouwkundige in aanmerking, indien zijn of haar opleiding ten minste de verwerving waarborgt van het vermogen om op verschillende schaalniveaus ruimtelijke concepten en stedenbouwkundige ontwerpen te vervaardigen die zowel aan esthetische als aan technische en functionele eisen voldoen.
 
@@ -152,7 +178,7 @@ Voor inschrijving in het register komt eveneens in aanmerking degene die in het 
 
 - n. passende kennis van en inzicht in procedures en processen van besluitvorming.
 
-#### Artikel 6. Opleidingen die aan voorschriften inrichting voldoen
+##### Artikel 6. Opleidingen die aan voorschriften inrichting voldoen
 
 Aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=III&artikel=5&z=2016-09-02&g=2016-09-02) wordt in elk geval voldaan door degene die in het bezit is van:
 
@@ -166,7 +192,7 @@ Aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=III&ar
 
 - e. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de Masteropleiding Stedenbouw aan de Fontys Hogescholen Tilburg, afgegeven door de examencommissie van de Academie voor Architectuur en Stedenbouw te Tilburg.
 
-#### Artikel 7. Oude opleidingen die aan voorschriften inrichting voldoen
+##### Artikel 7. Oude opleidingen die aan voorschriften inrichting voldoen
 
 Voor inschrijving in het register komt eveneens in aanmerking degene die in het bezit is van:
 
@@ -202,7 +228,7 @@ Voor inschrijving in het register komt eveneens in aanmerking degene die in het 
 
 ### Hoofdstuk IV. Voorschriften omtrent de inrichting welke degene die inschrijving in het register als tuin- en landschapsarchitect wenst te verkrijgen, aan zijn of haar opleiding moet hebben gegeven
 
-#### Artikel 8. Voorschriften inrichting opleiding tuin- en landschapsarchitect
+##### Artikel 8. Voorschriften inrichting opleiding tuin- en landschapsarchitect
 
 1. Degene die voldoet aan een van de eisen, genoemd in [artikel 11, eerste lid, onderdelen a tot en met c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=11), komt slechts voor inschrijving in het register als tuin- en landschapsarchitect in aanmerking, indien zijn of haar opleiding ten minste de verwerving waarborgt van het vermogen om op verschillende schaalniveaus ruimtelijke plannen en concepten te ontwerpen voor de ontwikkeling en inrichting van de buitenruimte, die zowel aan esthetische als aan technische en functionele eisen voldoen.
 
@@ -228,7 +254,7 @@ Voor inschrijving in het register komt eveneens in aanmerking degene die in het 
 
 - j. passende kennis van en inzicht in de technieken om plannen te doen concretiseren.
 
-#### Artikel 9. Opleidingen die aan voorschriften inrichting voldoen
+##### Artikel 9. Opleidingen die aan voorschriften inrichting voldoen
 
 Aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=IV&artikel=8&z=2016-09-02&g=2016-09-02) wordt in elk geval voldaan door degene die in het bezit is van:
 
@@ -238,7 +264,7 @@ Aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=IV&art
 
 - c. het getuigschrift van het met goed gevolg afgelegd afsluitend examen van de variant Landschapsarchitectuur van de Masteropleiding Architecture, Urbanism and Building Sciences aan de Technische Universiteit Delft verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van de bouwkunde die sinds het studiejaar 2013–2014 wordt aangeboden door de Technische Universiteit Delft leidend tot de graad van Bachelor of Science aan de Technische Universiteit Delft, dan wel van een opleiding waarin kennis, inzichten en vaardigheden zijn verworven die overeenkomen met die verworven bij het met goed gevolg doorlopen van de genoemde bacheloropleiding.
 
-#### Artikel 10. Oude opleidingen die aan voorschriften inrichting voldoen
+##### Artikel 10. Oude opleidingen die aan voorschriften inrichting voldoen
 
 Voor inschrijving in het register komt eveneens in aanmerking degene die in het bezit is van:
 
@@ -256,7 +282,7 @@ Voor inschrijving in het register komt eveneens in aanmerking degene die in het 
 
 ### Hoofdstuk V. Voorschriften omtrent de inrichting welke degene die inschrijving in het register als interieurarchitect wenst te verkrijgen, aan zijn of haar opleiding moet hebben gegeven
 
-#### Artikel 11. Voorschriften inrichting opleiding interieurarchitect
+##### Artikel 11. Voorschriften inrichting opleiding interieurarchitect
 
 1. Degene die voldoet aan een van de eisen, genoemd in [artikel 12, eerste lid, onderdelen a tot en met c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=12), komt slechts voor inschrijving in het register als interieurarchitect in aanmerking, indien zijn of haar opleiding ten minste de verwerving waarborgt van het vermogen tot het ontwerpen van interieurs die aan esthetische, functionele en technische eisen voldoen.
 
@@ -288,7 +314,7 @@ Voor inschrijving in het register komt eveneens in aanmerking degene die in het 
 
 - m. passende kennis van en inzicht in procedures en processen van besluitvorming.
 
-#### Artikel 12. Opleidingen die aan voorschriften inrichting voldoen
+##### Artikel 12. Opleidingen die aan voorschriften inrichting voldoen
 
 1. Aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=V&artikel=11&z=2016-09-02&g=2016-09-02) wordt in elk geval voldaan door degene die in het bezit is van een getuigschrift van het met goed gevolg afgelegd examen, verbonden aan de masteropleiding:
 
@@ -306,7 +332,7 @@ Voor inschrijving in het register komt eveneens in aanmerking degene die in het 
 
 - g. Interior Architecture & Retail Design, met in de bijlage van het getuigschrift de vermelding dat is voldaan aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019763&hoofdstuk=V&artikel=11&z=2016-09-02&g=2016-09-02) van deze regeling, afgegeven door de Hogeschool Rotterdam, verworven na het met goed gevolg doorlopen van de bacheloropleiding op het gebied van interieurontwerp, dan wel van een opleiding waarin kwaliteiten op het gebied van kennis, inzicht en vaardigheden zijn verworven die overeenkomen met die verworven na het met goed gevolg doorlopen van genoemde bacheloropleiding.
 
-#### Artikel 13. Oude opleidingen die aan voorschriften inrichting voldoen
+##### Artikel 13. Oude opleidingen die aan voorschriften inrichting voldoen
 
 Voor de inschrijving in het register komt eveneens in aanmerking degene die in het bezit is van:
 
@@ -354,15 +380,15 @@ Voor de inschrijving in het register komt eveneens in aanmerking degene die in h
 
 ### Hoofdstuk VI. Slotbepalingen
 
-#### Artikel 14. Intrekking
+##### Artikel 14. Intrekking
 
 De [Nadere regeling inrichting opleidingen architect, stedebouwkundige en interieurarchitect](https://wetten.overheid.nl/jci1.3:c:BWBR0004397) en de [Nadere regeling inrichting opleidingen tuin- en landschapsarchitecten](https://wetten.overheid.nl/jci1.3:c:BWBR0004407) worden ingetrokken.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop de wet van 9 maart 2006 tot wijziging van de Wet op de architectentitel in verband met de invoering van de bachelor-masterstructuur in het hoger onderwijs in werking treedt en werkt terug tot en met 1 september 2002. Indien de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst samenvalt met of een latere datum is dan de datum van uitgifte van het Staatsblad waarin de in de eerste zin bedoelde wijzigingswet wordt geplaatst, treedt deze regeling in werking met ingang van de tweede dag na die dagtekening en werkt zij terug tot en met 1 september 2002.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Nadere regeling inrichting opleidingen architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect.
 

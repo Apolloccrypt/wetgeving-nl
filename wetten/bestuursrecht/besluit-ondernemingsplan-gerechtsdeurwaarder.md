@@ -1,13 +1,39 @@
 ---
-title: "Besluit ondernemingsplan gerechtsdeurwaarder"
+title: "Besluit van 4 juli 2001, houdende nadere regels inzake het ondernemingsplan in verband met de vestiging van een gerechtsdeurwaarder en de advisering daarover door de Commissie van deskundigen (Besluit ondernemingsplan gerechtsdeurwaarder)"
 identifier: "BWBR0012636"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-07-15
-laatste_update: 2001-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012636"
+country: "nl"
+rank: "amvb"
+publication_date: "2001-07-15"
+last_updated: "2001-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012636"
+soort: "AMvB"
+stam_id: "1583823"
+version_id: "2346072"
+internal_id: "C2346071"
+label_id: "1538754"
+dtd_version: "2.0"
+original_entry_into_force: "2001-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012636/2001-07-15/0"
+intitule_bron: "Stb.2001-323"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-07-04"
+intitule_published: "2001-07-10"
+intitule_in_force: "2001-07-10"
+intitule_status: "goed"
+original_publication: "Stb.2001-323"
+original_signed_date: "2001-07-04"
+original_published_date: "2001-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2001-323"
+entry_into_force_date: "2001-07-15"
+jci_1_3: "jci1.3:c:BWBR0012636&z=2001-07-15&g=2001-07-15"
+jci_1_0: "1.0:c:BWBR0012636&g=2001-07-15"
+citeertitel_status: "officieel"
+short_title: "Besluit ondernemingsplan gerechtsdeurwaarder"
+signed_date: "2001-07-04"
+entry_into_force: "2001-07-15"
 ---
-
 # Besluit van 4 juli 2001, houdende nadere regels inzake het ondernemingsplan in verband met de vestiging van een gerechtsdeurwaarder en de advisering daarover door de Commissie van deskundigen (Besluit ondernemingsplan gerechtsdeurwaarder)
 
 Op de voordracht van Onze Staatssecretaris van Justitie van 23 mei 2001, Directie Wetgeving nr. 5099672/01/6;
@@ -24,7 +50,7 @@ Treedt in werking als artikel 6 van de Gerechtsdeurwaarderswet in werking treedt
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2. Het ondernemingsplan
 
-#### Artikel 2
+##### Artikel 2
 
 Het ondernemingsplan brengt tot uitdrukking of het voornemen tot vestiging betreft:
 
@@ -54,7 +80,7 @@ Het ondernemingsplan brengt tot uitdrukking of het voornemen tot vestiging betre
 
 - f. wijziging van de plaats van vestiging.
 
-#### Artikel 3
+##### Artikel 3
 
 Het ondernemingsplan bevat in ieder geval een uitwerking van de volgende onderdelen:
 
@@ -66,7 +92,7 @@ Het ondernemingsplan bevat in ieder geval een uitwerking van de volgende onderde
 
 - d. financieringsplan.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De indiener van het ondernemingsplan verstrekt gegevens en bescheiden waaruit blijkt dat hij voldoet of binnen drie maanden zal voldoen aan de voorwaarden, bedoeld in [artikel 5, eerste lid, onderdelen b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=5).
 
@@ -76,7 +102,7 @@ Het ondernemingsplan bevat in ieder geval een uitwerking van de volgende onderde
 
 #### Paragraaf 3. De Commissie
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Commissie bestaat uit een voorzitter en twee leden.
 
@@ -88,17 +114,17 @@ Het ondernemingsplan bevat in ieder geval een uitwerking van de volgende onderde
 
 5. De Commissie stelt nadere regels vast omtrent haar eigen werkwijze.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van het ondernemingsplan of de voorbereiding van het advies, stelt de Commissie alvorens het plan in behandeling te nemen de indiener ervan in de gelegenheid binnen een door de Commissie gestelde termijn het ondernemingsplan aan te vullen.
 
 2. Het eerste lid is van overeenkomstige toepassing, indien de verzoeker de hem in rekening gebrachte kosten voor de advisering over het ondernemingsplan niet heeft voldaan.
 
-#### Artikel 7
+##### Artikel 7
 
 De Commissie adviseert over ondernemingsplannen in volgorde van ontvangst, met dien verstande dat wanneer de indiener krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012636&paragraaf=3&artikel=6&z=2001-07-15&g=2001-07-15) de gelegenheid heeft gehad het ondernemingsplan aan te vullen, de dag waarop het ondernemingsplan is aangevuld of de daarvoor gestelde termijn ongebruikt is verstreken, voor de toepassing van deze bepaling en van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012636&paragraaf=3&artikel=8&z=2001-07-15&g=2001-07-15), als datum van ontvangst geldt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Commissie adviseert binnen drie maanden na datum van ontvangst van het ondernemingsplan.
 
@@ -106,7 +132,7 @@ De Commissie adviseert over ondernemingsplannen in volgorde van ontvangst, met d
 
 3. De Commissie kan de indiener van het ondernemingsplan in de gelegenheid stellen het plan ter vergadering toe te lichten.
 
-#### Artikel 9
+##### Artikel 9
 
 De Commissie geeft een negatief advies indien:
 
@@ -116,7 +142,7 @@ De Commissie geeft een negatief advies indien:
 
 - c. de indiener van het plan onjuiste gegevens heeft verstrekt en de verstrekking van deze gegevens tot een onjuist advies over het plan zou hebben geleid.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien de Commissie een positief advies uitbrengt, kan de Commissie de indiener van het ondernemingsplan in kennis stellen van een eerder uitgebracht advies dat op dezelfde plaats van vestiging betrekking heeft.
 
@@ -124,13 +150,13 @@ De Commissie geeft een negatief advies indien:
 
 3. De indiener van het ondernemingsplan aan wie de kennisgeving wordt gedaan is tot geheimhouding daarvan verplicht.
 
-#### Artikel 11
+##### Artikel 11
 
 De Commissie brengt jaarlijks voor 1 april aan Onze Minister van Justitie een verslag van werkzaamheden uit over het afgelopen kalenderjaar.
 
 #### Paragraaf 4. De kosten van de advisering
 
-#### Artikel 12
+##### Artikel 12
 
 1. De kosten van de advisering door de Commissie worden op basis van de integrale kostprijs berekend. Bij de berekening worden bedrijfseconomisch aanvaarde uitgangspunten in acht genomen. De kosten worden door het secretariaat van de Commissie in rekening gebracht.
 
@@ -138,11 +164,11 @@ De Commissie brengt jaarlijks voor 1 april aan Onze Minister van Justitie een ve
 
 #### Paragraaf 5. Slot- en overgangsbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit treedt in werking op het tijdstip waarop [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=6) in werking treedt.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit ondernemingsplan gerechtsdeurwaarder.
 

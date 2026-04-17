@@ -1,18 +1,43 @@
 ---
 title: "Besluit extra beslaglegging dienstplichtigen BES"
 identifier: "BWBR0028405"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028405"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028405"
+soort: "AMvB-BES"
+stam_id: "10776253"
+version_id: "17752892"
+internal_id: "C24779901"
+label_id: "10750994"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028405/2010-10-10/0"
+intitule_bron: "Stb.2010-430"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-16"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-430"
+original_signed_date: "2010-09-16"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-430"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028405&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028405&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-16"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit extra beslaglegging dienstplichtigen BES
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -32,7 +57,7 @@ In dit besluit wordt verstaan onder:
 
 - h. **feest- of gedenkdag:** Nieuwjaarsdag, eerste en tweede Paasdag, 5 mei, Hemelvaartsdag, eerste en tweede Pinksterdag, de beide Kerstdagen en de dag waarop de verjaardag van de Koningin wordt gevierd, door Onze Minister aan te wijzen andere feest- en gedenkdagen alsmede iedere andere dag als zodanig genoemd in de regelingen voor landsdienaren.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Overwerk is mogelijk als gevolg van de navolgende activiteiten:
 
@@ -52,7 +77,7 @@ In dit besluit wordt verstaan onder:
 
 - b. een daartoe door of namens de commandant gegeven opdracht in de overige gevallen.
 
-#### Artikel 3
+##### Artikel 3
 
 De dienstplichtige en de vrijwillig nadienende dienstplichtige komen niet in aanmerking voor een vergoeding in tijd of een toelage op grond van deze regeling gedurende de tijd dat deze:
 
@@ -68,7 +93,7 @@ De dienstplichtige en de vrijwillig nadienende dienstplichtige komen niet in aan
 
 ### Hoofdstuk 2. Vergoeding voor overwerk voor de dienstplichtige
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor de dienstplichtige wordt een aanspraak op een vergoeding in tijd zoveel mogelijk verwerkt in het rooster in de meetperiode waarin de aanspraak is ontstaan dan wel in de daarop volgende maand. De tijd die aan het einde van die maand niet in het rooster is verwerkt, vervalt.
 
@@ -76,13 +101,13 @@ De dienstplichtige en de vrijwillig nadienende dienstplichtige komen niet in aan
 
 3. De dienstplichtige die aanspraak heeft op een vergoeding in tijd voor overwerk als gevolg van één van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028405&hoofdstuk=1&artikel=2&z=2010-10-10&g=2010-10-10), genoemde activiteiten heeft nimmer tegelijkertijd aanspraak op een vergoeding voor overwerk als gevolg van één der overige in dat lid genoemde activiteiten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De dienstplichtige heeft aanspraak op een vergoeding in tijd voor overwerk terzake van overschrijding van de maximale arbeidsduur in de meetperiode als het gevolg van het verrichten van werkzaamheden.
 
 2. De vergoeding in tijd, bedoeld in het eerste lid, is gelijk aan de tijd waarmee de maximale arbeidsduur wordt overschreden, met dien verstande dat overschrijding van de arbeidsduur van minder dan vijftien minuten aansluitend op de normale werktijd niet als overwerk wordt aangemerkt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De dienstplichtige heeft aanspraak op een vergoeding in tijd voor overwerk terzake van oefenen dat langer dan een etmaal duurt indien het oefenen plaatsvindt op een zon-, feest- of gedenkdag.
 
@@ -90,7 +115,7 @@ De dienstplichtige en de vrijwillig nadienende dienstplichtige komen niet in aan
 
 3. Daarnaast heeft de dienstplichtige aanspraak op een toelage voor overwerk terzake van oefenen dat langer dan een etmaal duurt. Deze toelage bedraagt USD 10 per etmaal.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Aanspraak op een vergoeding in tijd ter zake van (wacht)diensten heeft de dienstplichtige die in verband met het verrichten van die (wacht)diensten aanwezig moet zijn op een door de commandant aan te wijzen plaats niet zijnde de woning van de dienstplichtige, waaronder mede begrepen de plaats waar hij gewoonlijk de nacht doorbrengt.
 
@@ -102,7 +127,7 @@ De dienstplichtige en de vrijwillig nadienende dienstplichtige komen niet in aan
 
 3. Voor de toepassing van het eerste en tweede lid wordt een gedeelte van een etmaal berekend per half etmaal, waarbij een tijdvak van minder dan twaalf uren geldt als half etmaal.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De dienstplichtige aan wie met het oog op eventuele dienstverrichting de verplichting wordt opgelegd zich op een zon-, feest- of gedenkdag op een bepaalde plaats beschikbaar of bereikbaar te houden dan wel binnen een bepaald gebied te verblijven of zich op bepaalde tijdstippen te melden, heeft aanspraak op een vergoeding in tijd.
 
@@ -112,7 +137,7 @@ De dienstplichtige en de vrijwillig nadienende dienstplichtige komen niet in aan
 
 4. De plaats, bedoeld in het eerste lid, is een eenheid der zeemacht, het gebouw waar de dienstplichtige is tewerkgesteld of elke andere in dit verband door de regionaal bevelhebber aan te wijzen plaats niet zijnde de woning van de dienstplichtige, daaronder begrepen de plaats waar hij tijdens zon-, feest- of gedenkdagen gewoonlijk de nacht doorbrengt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voor het verrichten van continu of ploegendiensten op een zon-, feest- of gedenkdag heeft de dienstplichtige aanspraak op een vergoeding in tijd.
 
@@ -120,7 +145,7 @@ De dienstplichtige en de vrijwillig nadienende dienstplichtige komen niet in aan
 
 ### Hoofdstuk 4. Vergoeding voor overwerk voor vrijwillig nadienende dienstplichtigen
 
-#### Artikel 10
+##### Artikel 10
 
 1. De vrijwillig nadienende dienstplichtige die aanspraak heeft op een vergoeding voor overwerk als gevolg van één van de in [artikel twee, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028405&hoofdstuk=1&artikel=2&z=2010-10-10&g=2010-10-10), genoemde activiteiten heeft nimmer tegelijkertijd aanspraak op een vergoeding voor overwerk als gevolg van één der overige in dat lid genoemde activiteiten.
 
@@ -128,13 +153,13 @@ De dienstplichtige en de vrijwillig nadienende dienstplichtige komen niet in aan
 
 3. Indien de vrijwillig nadienende dienstplichtige wordt verplaatst dan wel met groot verlof of ontslag wordt gezonden, vervalt de aanspraak op een vergoeding in tijd met ingang van de datum van verplaatsing dan wel de datum waarop het groot verlof of ontslag ingaat.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De vrijwillig nadienende dienstplichtige heeft aanspraak op een vergoeding voor overwerk ter zake van overschrijding in de meetperiode van de maximale arbeidsduur als gevolg van het verrichten van werkzaamheden, overeenkomstig [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028405&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10).
 
 2. Voor de uren overwerk waarmee de maximale arbeidsduur in de meetperiode wordt overschreden en die niet kunnen worden verwerkt in het rooster wegens de taakuitvoering van de eenheid, wordt een toelage toegekend als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028405&hoofdstuk=4&artikel=10&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 12
+##### Artikel 12
 
 1. De vrijwillig nadienende dienstplichtige heeft voor overwerk terzake van oefenen aanspraak op een vergoeding in tijd overeenkomstig [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028405&hoofdstuk=2&artikel=6&z=2010-10-10&g=2010-10-10).
 
@@ -148,19 +173,19 @@ De dienstplichtige en de vrijwillig nadienende dienstplichtige komen niet in aan
 
 6. Voor de toepassing van dit artikel wordt een gedeelte van een etmaal berekend per half etmaal, waarbij een tijdvak van minder dan twaalf uren geldt als een half etmaal.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De vrijwillig nadienende dienstplichtige heeft aanspraak op een vergoeding in tijd voor overwerk ter zake van (wacht)diensten overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028405&hoofdstuk=2&artikel=7&z=2010-10-10&g=2010-10-10).
 
 2. Indien de vergoeding in tijd, bedoeld in het eerste lid, voor zover het betreft het verrichten van wachtdiensten op een zon-, feest- of gedenkdag, wegens de taakuitvoering van de eenheid niet kan worden verwerkt in het rooster, wordt voor ten hoogste de helft van de vergoeding een toelage als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028405&hoofdstuk=4&artikel=10&z=2010-10-10&g=2010-10-10), toegekend.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De vrijwillig nadienende dienstplichtige aan wie de verplichting is opgelegd zich op een zon-, feest- of gedenkdag op een bepaalde beschikbaar of bereikbaar te houden dan wel binnen een bepaald gebied te verblijven of zich op bepaalde tijdstippen te melden, heeft aanspraak op een vergoeding in tijd overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028405&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10).
 
 2. Indien de vergoeding in tijd, bedoeld in het eerste lid, wegens de taakuitvoering van de eenheid niet kan worden verwerkt in het rooster, wordt voor ten hoogste de helft van de vergoeding een toelage als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028405&hoofdstuk=4&artikel=10&z=2010-10-10&g=2010-10-10), toegekend.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Voor het verrichten van continu- of ploegendiensten op een zon-, feest- of gedenkdag heeft de vrijwillig nadienende dienstplichtige aanspraak op een vergoeding in tijd overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028405&hoofdstuk=2&artikel=9&z=2010-10-10&g=2010-10-10).
 
@@ -168,14 +193,14 @@ De dienstplichtige en de vrijwillig nadienende dienstplichtige komen niet in aan
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Het Landsbesluit extra beslaglegging dienstplichtigen Nederlandse Antillen (P.B. 1994, no. 113) wordt ingetrokken.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit Landsbesluit treedt in werking met ingang van de dag na de datum van uitgifte van het Publicatieblad waarin het is geplaatst.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit wordt aangehaald als: Besluit extra beslaglegging dienstplichtigen BES.

@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit inburgering, enz. (wijzigingen inburgeringsplicht en verdeelsleutel participatiebudget)"
+title: "Besluit van 31 augustus 2010 tot wijziging van het Besluit inburgering, het Besluit participatiebudget en enkele andere besluiten (wijzigingen inburgeringsplicht en verdeelsleutel participatiebudget)"
 identifier: "BWBR0028171"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-09-07
-laatste_update: 2010-09-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028171"
+country: "nl"
+rank: "amvb"
+publication_date: "2010-09-07"
+last_updated: "2010-09-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028171"
+soort: "AMvB"
+stam_id: "10687623"
+version_id: "17648622"
+internal_id: "C24411571"
+label_id: "10662234"
+dtd_version: "2.0"
+original_entry_into_force: "2010-09-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028171/2010-09-07/0"
+intitule_bron: "Stb.2010-331"
+intitule_effect: "nieuw"
+intitule_signed: "2010-08-31"
+intitule_published: "2010-09-06"
+intitule_in_force: "2010-09-06"
+intitule_status: "goed"
+original_publication: "Stb.2010-331"
+original_signed_date: "2010-08-31"
+original_published_date: "2010-09-06"
+original_effect: "nieuw"
+original_url_id: "stb-2010-331"
+entry_into_force_date: "2010-09-07"
+jci_1_3: "jci1.3:c:BWBR0028171&z=2010-09-07&g=2010-09-07"
+jci_1_0: "1.0:c:BWBR0028171&g=2010-09-07"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit inburgering, enz. (wijzigingen inburgeringsplicht en verdeelsleutel participatiebudget)"
+signed_date: "2010-08-31"
+entry_into_force: "2010-09-07"
 ---
-
 # Besluit van 31 augustus 2010 tot wijziging van het Besluit inburgering, het Besluit participatiebudget en enkele andere besluiten (wijzigingen inburgeringsplicht en verdeelsleutel participatiebudget)
 
 Op de voordracht van Onze Minister voor Wonen, Wijken en Integratie van 2 juni 2010, gedaan mede namens Onze Minister van Sociale Zaken en Werkgelegenheid, de Staatssecretaris van Onderwijs, Cultuur en Wetenschap en Onze Minister van Justitie, nr. BJZ2010014471, Directie Bestuurlijke en Juridische Zaken;
@@ -20,29 +46,29 @@ Gezien het nader rapport van Onze Minister voor Wonen, Wijken en Integratie van 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit inburgering.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit participatiebudget.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit brede doeluitkering sociaal, integratie en veiligheid.
 
-#### Artikel IV
+##### Artikel IV
 
 Het in het tijdvak dat loopt van 1 januari 2009 tot en met de dag waarop [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0028171&artikel=I&z=2010-09-07&g=2010-09-07) van dit besluit in werking treedt, in afwijking van [artikel 4.21 van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=4.21), niet ontvangen hebben van een vergoeding als bedoeld in [artikel 4.17, tweede lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=4.17) staat gelijk aan het geen recht hebben op die vergoeding in dat tijdvak.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Vreemdelingenbesluit 2000.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel VI
+##### Artikel VI
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0028171&artikel=V&z=2010-09-07&g=2010-09-07) treedt, in het geval dat het in de aanhef van dat artikel bedoelde besluit, voor zover het [artikel 1.16 van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=1.16) betreft, na die dag in werking treedt, onmiddellijk na die inwerkingtreding in werking.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling vaststelling voorschotverlening duurzame energieproductie 2018"
+title: "Regeling van de Minister van Economische Zaken van 24 oktober 2017, nr. WJZ/17158349, tot vaststelling van de regeling voorschotverlening duurzame energieproductie 2018"
 identifier: "BWBR0040116"
-categorie: "Overig"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040116"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040116"
+soort: "ministeriele-regeling"
+stam_id: "14323863"
+version_id: "24541432"
+internal_id: "C35151331"
+label_id: "14284324"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040116/2018-01-01/0"
+intitule_bron: "Stcrt.2017-61390"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-10-24"
+intitule_published: "2017-10-25"
+intitule_in_force: "2017-10-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-61390"
+original_signed_date: "2017-10-24"
+original_published_date: "2017-10-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-61390"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0040116&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0040116&g=2018-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling voorschotverlening duurzame energieproductie 2018"
+signed_date: "2017-10-24"
+entry_into_force: "2018-01-01"
 ---
-
 # Regeling van de Minister van Economische Zaken van 24 oktober 2017, nr. WJZ/17158349, tot vaststelling van de regeling voorschotverlening duurzame energieproductie 2018
 
 Gelet op [artikelen 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), [22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), [31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), [39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=39), [47, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47), en [54, vijfde lid, van het Besluit stimulering duurzame energie productie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=54);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -52,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Correctiebedragen hernieuwbare elektriciteit
 
-#### Artikel 2
+##### Artikel 2
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2018 als volgt vastgesteld: voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -216,7 +242,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie, b
 | [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0039768&artikel=16) | Osmose | € 0,038 per kWh | € 0 per kWh |
 | [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0039768&artikel=18) | Vrije stromingsenergie, valhoogte < 50 cm | € 0,038 per kWh | € 0 per kWh |
 
-#### Artikel 3
+##### Artikel 3
 
 De correcties op het tenderbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2018 als volgt vastgesteld: voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 22, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 22, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -237,7 +263,7 @@ De correcties op het tenderbedrag voor subsidie voor een productie-installatie, 
 
 #### § 3. Correctiebedragen hernieuwbaar gas
 
-#### Artikel 4
+##### Artikel 4
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2018 als volgt vastgesteld: voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, onderdeel b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -330,7 +356,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie, b
 | [Artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039768&artikel=24) | Verlengde levensduur allesvergisting (hernieuwbaar gas) en verlengde levensduur vergisting en covergisting van dierlijke mest (hernieuwbaar gas) | € 0,017 per kWh | € 0 per kWh |
 | [Artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039768&artikel=26) | Biomassavergassing (≥95% biogeen) | € 0,017 per kWh | € 0 per kWh |
 
-#### Artikel 5
+##### Artikel 5
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2018 als volgt vastgesteld: voor wat betreft de gasprijs, bedoeld in [artikel 39, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=39), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 39, eerste lid, onderdeel b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -341,7 +367,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie, b
 
 #### § 4. Correctiebedragen hernieuwbare warmte en gecombineerde opwekking van hernieuwbare elektriciteit en hernieuwbare warmte
 
-#### Artikel 6
+##### Artikel 6
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2018 als volgt vastgesteld: voor wat betreft de elektriciteits- of energieprijs, bedoeld in [artikel 14, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), of [47, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47) het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, of artikel 47, eerste lid, onderdelen b en c, het in de vierde kolom genoemde bedrag.
 
@@ -517,7 +543,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie, b
 | Artikel 46, onderdeel f | Warmte vergisting van meer dan 95% dierlijke mest ≤ 400 kW | € 0,024 per kWh | € 0 per kWh |
 | [Artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0039768&artikel=48) | Rioolwaterzuiveringsinstallatie (Thermofiele gisting van secundair slib) | € 0,028 per kWh | € 0 per kWh |
 
-#### Artikel 7
+##### Artikel 7
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2018 als volgt vastgesteld: voor wat betreft de elektriciteits- of energieprijs, bedoeld in [artikel 54, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=54) het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 54, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -528,11 +554,11 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie, b
 
 #### § 5. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van 1 januari 2018.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling vaststelling voorschotverlening duurzame energieproductie 2018.
 

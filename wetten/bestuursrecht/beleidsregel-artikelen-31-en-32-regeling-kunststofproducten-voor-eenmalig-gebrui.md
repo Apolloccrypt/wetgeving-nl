@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel artikelen 3.1 en 3.2 Regeling kunststofproducten voor eenmalig gebruik"
+title: "Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat van 6 juni 2025, nr. IENW/BSK-2025/124351, tot vaststelling van de kostenaandelen zwerfafval per kunststofproductsoort, de bijdragen per eenheid kunststofproduct, de wegingsfactoren per overheidsorganisatie en de kosten per gebiedskenmerk als bedoeld in de artikelen 3.1 en 3.2 van de Regeling kunststofproducten voor eenmalig gebruik (Beleidsregel artikelen 3.1 en 3.2 Regeling kunststofproducten voor eenmalig gebruik)"
 identifier: "BWBR0051106"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-06-14
-laatste_update: 2025-06-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051106"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-06-14"
+last_updated: "2025-06-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051106"
+soort: "beleidsregel"
+stam_id: "17446113"
+version_id: "30764132"
+internal_id: "C44098551"
+label_id: "17348994"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051106/2025-06-14/0"
+intitule_bron: "Stcrt.2025-18866"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-06"
+intitule_published: "2025-06-13"
+intitule_in_force: "2025-06-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-18866"
+original_signed_date: "2025-06-06"
+original_published_date: "2025-06-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-18866"
+entry_into_force_date: "2025-06-14"
+jci_1_3: "jci1.3:c:BWBR0051106&z=2025-06-14&g=2025-06-14"
+jci_1_0: "1.0:c:BWBR0051106&g=2025-06-14"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel artikelen 3.1 en 3.2 Regeling kunststofproducten voor eenmalig gebruik"
+signed_date: "2025-06-06"
+entry_into_force: "2025-06-14"
 ---
-
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat van 6 juni 2025, nr. IENW/BSK-2025/124351, tot vaststelling van de kostenaandelen zwerfafval per kunststofproductsoort, de bijdragen per eenheid kunststofproduct, de wegingsfactoren per overheidsorganisatie en de kosten per gebiedskenmerk als bedoeld in de artikelen 3.1 en 3.2 van de Regeling kunststofproducten voor eenmalig gebruik (Beleidsregel artikelen 3.1 en 3.2 Regeling kunststofproducten voor eenmalig gebruik)
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) gelezen in samenhang met de [artikelen 3.1, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&artikel=3.1), en [3.2, derde, vierde en zesde lid, van de Regeling kunststofproducten voor eenmalig gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&artikel=3.2);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - **kunststofhoudende tabaksfilters:** tabaksproducten met kunststofhoudende filters en kunststofhoudende filters die worden verkocht voor gebruik in combinatie met tabaksproducten als bedoeld in [artikel 5 van het Besluit kunststofproducten voor eenmalig gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=5).
 
-#### Artikel 2. Kostenaandeel per productsoort
+##### Artikel 2. Kostenaandeel per productsoort
 
 Het kostenaandeel zwerfafval per kunststofproductsoort als bedoeld in [artikel 3.1, derde lid, van de Regeling kunststofproducten voor eenmalig gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&artikel=3.1) over 2023 onderscheidenlijk 2024 bedraagt voor:
 
@@ -44,11 +70,11 @@ Het kostenaandeel zwerfafval per kunststofproductsoort als bedoeld in [artikel 3
 | h. kunststofhoudende tabaksfilters | € 36.818.178,57 | € 35.763.465,06 |
 | i. bewustmakingsmaatregelen | € 1.413.547,20 | € 1.629.451,84 |
 
-#### Artikel 3. Totale bijdrage per productsoort over 2023
+##### Artikel 3. Totale bijdrage per productsoort over 2023
 
 In verband met de datum van ingang van de verplichting voor producenten van kunststofproducten voor eenmalig gebruik om de kosten van overheidsorganisaties te vergoeden, te weten 5 januari 2023 voor kunststofverpakkingen en kunststofhoudende tabaksfilters en 5 april 2023 voor vochtige doekjes en ballonnen, worden de totale bijdragen per productsoort over 2023 bepaald door de bedragen vermeld in [artikel 2, onderdelen a tot en met e, h en i, eerste kolom](https://wetten.overheid.nl/jci1.3:c:BWBR0051106&artikel=2&z=2025-06-14&g=2025-06-14), te vermenigvuldigen met een factor 361/365 en de bedragen vermeld in [artikel 2, onderdelen f en g, eerste kolom](https://wetten.overheid.nl/jci1.3:c:BWBR0051106&artikel=2&z=2025-06-14&g=2025-06-14), te vermenigvuldigen met een factor 271/365.
 
-#### Artikel 4. Bijdrage per eenheid product
+##### Artikel 4. Bijdrage per eenheid product
 
 De afgeronde bijdrage per eenheid kunststofproduct als bedoeld in [artikel 3.1, tweede lid, van de Regeling kunststofproducten voor eenmalig gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&artikel=3.1) bedraagt voor 2023 onderscheidenlijk 2024:
 
@@ -58,13 +84,13 @@ De afgeronde bijdrage per eenheid kunststofproduct als bedoeld in [artikel 3.1, 
 | b. ballonnen | € 0,50 / kg | € 0,42 / kg |
 | c. kunststofhoudende tabaksfilters | € 3,79 / 1.000 stuks | € 4,87 / 1.000 stuks |
 
-#### Artikel 5. Bijdrage per producent
+##### Artikel 5. Bijdrage per producent
 
 1. De bijdrage per producent bedraagt de niet afgeronde waarde van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051106&artikel=4&z=2025-06-14&g=2025-06-14) vermelde bijdrage per eenheid kunststofproduct vermenigvuldigd met het aantal of de hoeveelheid in 2023 onderscheidenlijk 2024 door de betreffende producent in de handel gebrachte producten en ten aanzien van 2023 vermenigvuldigd met een factor 361/365 voor kunststofverpakkingen en kunststofhoudende tabaksfilters en een factor 271/365 voor vochtige doekjes en ballonnen.
 
 2. Het aandeel gerapporteerde op de markt gebrachte vochtige doekjes bedraagt 25.247.664 kg in 2023 en 25.369.786 kg in 2024. Het aandeel gerapporteerde op de markt gebrachte ballonnen bedraagt 392.163 kg in 2023 en 345.620 kg in 2024. Het aantal gerapporteerde op de markt gebrachte kunststofhoudende tabaksfilters bedraagt 9.863.431.200 in 2023 en 7.671.703.554 in 2024.
 
-#### Artikel 6. Wegingsfactoren per overheidsorganisatie
+##### Artikel 6. Wegingsfactoren per overheidsorganisatie
 
 De wegingsfactor per type overheidsorganisatie bedraagt voor de vergoeding van de kosten voor het opruimen, het vervoer en de verwerking van zwerfafval in zowel 2023 als 2024 het percentage in de eerste kolom en voor de vergoeding van de kosten van bewustmakingsmaatregelen in 2023 het percentage in de tweede kolom en in 2024 het percentage in de derde kolom:
 
@@ -80,7 +106,7 @@ De wegingsfactor per type overheidsorganisatie bedraagt voor de vergoeding van d
 | h. ProRail | 2,10% | 0,08% | 0,08% |
 | i. Staatsbosbeheer | 0% | 0% | 0% |
 
-#### Artikel 7. Kosten per gebiedskenmerk
+##### Artikel 7. Kosten per gebiedskenmerk
 
 De afgeronde gemiddelde kosten per gebiedskenmerk als bedoeld in [artikel 3.2, derde lid, aanhef en onder a, van de Regeling kunststofproducten voor eenmalig gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&artikel=3.2) bedragen voor 2023 onderscheidenlijk 2024:
 
@@ -93,7 +119,7 @@ De afgeronde gemiddelde kosten per gebiedskenmerk als bedoeld in [artikel 3.2, d
 | e. provincies | € 12,16 / km2 oppervlakte | € 12,10 / km2 oppervlakte |
 | f. waterschappen | € 6,20 / km waterweg | € 6,19 / km waterweg |
 
-#### Artikel 8. Vergoeding per overheidsorganisatie
+##### Artikel 8. Vergoeding per overheidsorganisatie
 
 1. De hoogte van de vergoeding als bedoeld in [artikel 3.2, tweede lid, van de Regeling kunststofproducten](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&artikel=3.2) voor eenmalig gebruik wordt als volgt bepaald:
 
@@ -111,11 +137,11 @@ De afgeronde gemiddelde kosten per gebiedskenmerk als bedoeld in [artikel 3.2, d
 
 4. Nadien binnengekomen bijdragen worden overeenkomstig [artikel 3.2, vijfde lid, tweede volzin, van de Regeling kunststofproducten voor eenmalig gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&artikel=3.2) aangehouden en naar rato uitbetaald op een later moment.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel artikelen 3.1 en 3.2 Regeling kunststofproducten voor eenmalig gebruik.
 

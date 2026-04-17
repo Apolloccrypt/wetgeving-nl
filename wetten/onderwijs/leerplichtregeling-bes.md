@@ -1,13 +1,39 @@
 ---
-title: "Leerplichtregeling BES"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 februari 2011, nr. WJZ/275527 (3853), houdende regels ter uitvoering van de Leerplichtwet voor de openbare lichamen Bonaire, Sint Eustatius en Saba (Leerplichtregeling BES)"
 identifier: "BWBR0029689"
-categorie: "Onderwijs"
-publicatiedatum: 2013-04-30
-laatste_update: 2013-04-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029689"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2013-04-30"
+last_updated: "2013-04-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029689"
+soort: "ministeriele-regeling-BES"
+stam_id: "11263093"
+version_id: "18445562"
+internal_id: "C25709031"
+label_id: "11237304"
+dtd_version: "2.0"
+original_entry_into_force: "2011-03-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029689/2013-04-30/0"
+intitule_bron: "Stcrt.2011-3830"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-02-24"
+intitule_published: "2011-03-07"
+intitule_in_force: "2011-03-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-3830"
+original_signed_date: "2011-02-24"
+original_published_date: "2011-03-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-3830"
+entry_into_force_date: "2011-03-08"
+jci_1_3: "jci1.3:c:BWBR0029689&z=2013-04-30&g=2013-04-30"
+jci_1_0: "1.0:c:BWBR0029689&g=2013-04-30"
+citeertitel_status: "officieel"
+short_title: "Leerplichtregeling BES"
+signed_date: "2011-02-24"
+entry_into_force: "2011-03-08"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 februari 2011, nr. WJZ/275527 (3853), houdende regels ter uitvoering van de Leerplichtwet voor de openbare lichamen Bonaire, Sint Eustatius en Saba (Leerplichtregeling BES)
 
 Gelet op de [artikelen 28, tweede lid](onbekend), en [41, eerste lid, van de Leerplichtwet BES](onbekend);
@@ -16,7 +42,7 @@ Besluit:
 
 Treedt in werking in Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 Deze regeling verstaat onder:
 
@@ -30,15 +56,15 @@ Deze regeling verstaat onder:
 
 - e. **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba.
 
-#### Artikel 2. Verantwoordelijkheid hoofd
+##### Artikel 2. Verantwoordelijkheid hoofd
 
 Het hoofd draagt zorg voor een administratie van de ingeschreven leerlingen.
 
-#### Artikel 3. Verantwoordelijkheid bestuurscollege
+##### Artikel 3. Verantwoordelijkheid bestuurscollege
 
 Het bestuurscollege van een openbaar lichaam draagt zorg voor een administratie van de leerlingen die als ingezetenen in de basisadministratie persoonsgegevens zijn ingeschreven.
 
-#### Artikel 4. Kennisgevingen
+##### Artikel 4. Kennisgevingen
 
 1. De kennisgevingen, bedoeld in de [artikelen 31, eerste lid](onbekend), en [33 van de wet](onbekend), geschieden ten aanzien van de leerlingen.
 
@@ -46,15 +72,15 @@ Het bestuurscollege van een openbaar lichaam draagt zorg voor een administratie 
 
 3. Bij de kennisgeving van de inschrijving, bedoeld in [artikel 31 van de wet](onbekend), vermeldt het hoofd hoeveel dagen per week en op welke dagen van de week de kwalificatieplichtige leerling het onderwijs zal volgen.
 
-#### Artikel 5. Jaarlijkse opgave bestuurscollege
+##### Artikel 5. Jaarlijkse opgave bestuurscollege
 
 De opgave, bedoeld in [artikel 37, tweede lid, van de wet](onbekend), brengt het bestuurscollege van een openbaar lichaam uit over het laatstverlopen school- of cursusjaar op het formulier, waarvan een model is opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029689&bijlage=1&z=2013-04-30&g=2013-04-30).
 
-#### Artikel 6. Jaarlijkse opgave hoofd
+##### Artikel 6. Jaarlijkse opgave hoofd
 
 De opgave, bedoeld in [artikel 37, derde lid, van de wet](onbekend), brengt het hoofd uit over het laatstverlopen school- of cursusjaar op het formulier, waarvan een model is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029689&bijlage=2&z=2013-04-30&g=2013-04-30).
 
-#### Artikel 7. Wijze van kennisgeving
+##### Artikel 7. Wijze van kennisgeving
 
 1. De kennisgeving van beroep op vrijstelling, bedoeld in [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=15), geschiedt door middel van een formulier, waarvan een model is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029689&bijlage=3&z=2013-04-30&g=2013-04-30).
 
@@ -62,7 +88,7 @@ De opgave, bedoeld in [artikel 37, derde lid, van de wet](onbekend), brengt het 
 
 3. De kennisgeving van relatief verzuim, bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=33), geschiedt door middel van een formulier, waarvan een model is opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029689&bijlage=5&z=2013-04-30&g=2013-04-30).
 
-#### Artikel 8. Ambtseed
+##### Artikel 8. Ambtseed
 
 Alvorens zijn ambt te aanvaarden, legt de ambtenaar, bedoeld in [artikel 28 van de wet](onbekend), de volgende eed (verklaring en belofte) van zuivering af:
 
@@ -72,11 +98,11 @@ Daarna wordt door de ambtenaar de volgende eed of belofte afgelegd:
 
 ‘Ik zweer/beloof trouw aan de Koning, aan de Grondwet en aan de wetten des Rijks. Ik zweer/beloof, dat ik krachtens de wet uitgevaardigde voorschriften en de verordeningen zal nakomen en handhaven, dat ik de mij verstrekte opdrachten zal volbrengen en de zaken, waarvan ik door mijn ambt kennis draag en die mij als geheim zijn toevertrouwd of waarvan ik het vertrouwelijk karakter moet begrijpen, niet zal openbaren aan anderen dan aan hen, aan wie ik volgens de wet of ambtshalve tot mededeling verplicht ben, en dat ik mij als een nauwgezet en ijverig ambtenaar zal gedragen. Zo waarlijk helpe mij God almachtig! (Dat beloof ik!)’.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag in Bonaire, Sint Eustatius en Saba na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 De regeling wordt aangehaald als: Leerplichtregeling BES.
 

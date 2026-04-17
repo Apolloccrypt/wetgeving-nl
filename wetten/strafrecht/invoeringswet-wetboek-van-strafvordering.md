@@ -1,14 +1,36 @@
 ---
-title: "Invoeringswet Wetboek van Strafvordering"
+title: "Wet van 29 juni 1925, tot invoering van het nieuwe Wetboek van Strafvordering"
 identifier: "BWBR0001926"
-categorie: "Strafrecht"
-publicatiedatum: 2002-03-01
-laatste_update: 2002-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001926"
+country: "nl"
+rank: "wet"
+publication_date: "2002-03-01"
+last_updated: "2002-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001926"
+soort: "wet"
+stam_id: "1524943"
+version_id: "2270632"
+internal_id: "C14807421"
+label_id: "1483704"
+dtd_version: "2.0"
+original_entry_into_force: "1925-07-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001926/2002-03-01/0"
+intitule_bron: "Stb.1925-308"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1925-06-29"
+intitule_status: "goed"
+original_publication: "Stb.1925-308"
+original_signed_date: "1925-06-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1925-07-30"
+jci_1_3: "jci1.3:c:BWBR0001926&z=2002-03-01&g=2002-03-01"
+jci_1_0: "1.0:c:BWBR0001926&g=2002-03-01"
+citeertitel_status: "officieel"
+short_title: "Invoeringswet Wetboek van Strafvordering"
+signed_date: "1925-06-29"
+entry_into_force: "1925-07-30"
 ---
-
-# Invoeringswet Wetboek van Strafvordering
+# Wet van 29 juni 1925, tot invoering van het nieuwe Wetboek van Strafvordering
 
 Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
 
@@ -18,13 +40,13 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ## Titel I. Algemeene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Het nieuwe [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) treedt in werking op een door Ons te bepalen tijdstip.
 
 Wij behouden Ons echter voor de inwerkingtreding der [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=48), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=49) en [275 van het Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=275) te bepalen op een later tijdstip dan dat bedoeld in [het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001926&titeldeel=I&artikel=1&z=2002-03-01&g=2002-03-01).
 
-#### Artikel 2
+##### Artikel 2
 
 Op Onzen last wordt het nieuwe [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) met de daarin gebrachte wijzigingen en aanvullingen in een doorloopend genummerde reeks van boeken, titels, afdeelingen, paragrafen en artikelen samengevat en wordt de aanhaling daarvan, zoo in dit Wetboek als in andere wetten en wettelijke voorschriften, in verband daarmede voor zoover noodig gewijzigd.
 
@@ -32,461 +54,461 @@ De gewijzigde tekst van het nieuwe [Wetboek van Strafvordering](https://wetten.o
 
 ## Titel II. Wijzigingen, aan te brengen in het nieuwe [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903)
 
-#### Artikel 3
+##### Artikel 3
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 4
+##### Artikel 4
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 5
+##### Artikel 5
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 6
+##### Artikel 6
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 7
+##### Artikel 7
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 8
+##### Artikel 8
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 9
+##### Artikel 9
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 10
+##### Artikel 10
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 11
+##### Artikel 11
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 12
+##### Artikel 12
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 13
+##### Artikel 13
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 14
+##### Artikel 14
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 15
+##### Artikel 15
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 16
+##### Artikel 16
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 17
+##### Artikel 17
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 18
+##### Artikel 18
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 19
+##### Artikel 19
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 20
+##### Artikel 20
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 21
+##### Artikel 21
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 22
+##### Artikel 22
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 23
+##### Artikel 23
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 24
+##### Artikel 24
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 25
+##### Artikel 25
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 26
+##### Artikel 26
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 27
+##### Artikel 27
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 28
+##### Artikel 28
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 29
+##### Artikel 29
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 30
+##### Artikel 30
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 31
+##### Artikel 31
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 32
+##### Artikel 32
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 33
+##### Artikel 33
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 34
+##### Artikel 34
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 35
+##### Artikel 35
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 36
+##### Artikel 36
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 37
+##### Artikel 37
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 38
+##### Artikel 38
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 39
+##### Artikel 39
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 40
+##### Artikel 40
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 41
+##### Artikel 41
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 42
+##### Artikel 42
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 43
+##### Artikel 43
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 44
+##### Artikel 44
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 45
+##### Artikel 45
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 46
+##### Artikel 46
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 47
+##### Artikel 47
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 48
+##### Artikel 48
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 49
+##### Artikel 49
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 50
+##### Artikel 50
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 51
+##### Artikel 51
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 52
+##### Artikel 52
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 53
+##### Artikel 53
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 54
+##### Artikel 54
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 55
+##### Artikel 55
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 56
+##### Artikel 56
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 57
+##### Artikel 57
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 58
+##### Artikel 58
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 59
+##### Artikel 59
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 60
+##### Artikel 60
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 61
+##### Artikel 61
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 62
+##### Artikel 62
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 63
+##### Artikel 63
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 64
+##### Artikel 64
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 65
+##### Artikel 65
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 66
+##### Artikel 66
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 67
+##### Artikel 67
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 68
+##### Artikel 68
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 69
+##### Artikel 69
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 70
+##### Artikel 70
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 71
+##### Artikel 71
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 72
+##### Artikel 72
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 73
+##### Artikel 73
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 74
+##### Artikel 74
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 75
+##### Artikel 75
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 76
+##### Artikel 76
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 77
+##### Artikel 77
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 78
+##### Artikel 78
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 79
+##### Artikel 79
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 80
+##### Artikel 80
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 81
+##### Artikel 81
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 82
+##### Artikel 82
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 83
+##### Artikel 83
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 84
+##### Artikel 84
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 85
+##### Artikel 85
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 86
+##### Artikel 86
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 87
+##### Artikel 87
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 88
+##### Artikel 88
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 89
+##### Artikel 89
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 90
+##### Artikel 90
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 91
+##### Artikel 91
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 92
+##### Artikel 92
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 93
+##### Artikel 93
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 94
+##### Artikel 94
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 95
+##### Artikel 95
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 96
+##### Artikel 96
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 97
+##### Artikel 97
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 98
+##### Artikel 98
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 99
+##### Artikel 99
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 100
+##### Artikel 100
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 101
+##### Artikel 101
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 102
+##### Artikel 102
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 103
+##### Artikel 103
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 104
+##### Artikel 104
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 105
+##### Artikel 105
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 106
+##### Artikel 106
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 107
+##### Artikel 107
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 108
+##### Artikel 108
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 109
+##### Artikel 109
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 110
+##### Artikel 110
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 111
+##### Artikel 111
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 112
+##### Artikel 112
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 113
+##### Artikel 113
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 114
+##### Artikel 114
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 115
+##### Artikel 115
 
 Bevat wijzigingen in andere regelgeving.
 
 ## Titel III. Afschaffing of wijziging van bestaande wetten
 
-#### Artikel 116
+##### Artikel 116
 
 Worden afgeschaft:
 
@@ -504,455 +526,455 @@ Worden afgeschaft:
 
 - 7°. Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 117
+##### Artikel 117
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 118
+##### Artikel 118
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 119
+##### Artikel 119
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 120
+##### Artikel 120
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 121
+##### Artikel 121
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 122
+##### Artikel 122
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 123
+##### Artikel 123
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 124
+##### Artikel 124
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 125
+##### Artikel 125
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 126
+##### Artikel 126
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 127
+##### Artikel 127
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 128
+##### Artikel 128
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 129
+##### Artikel 129
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 130
+##### Artikel 130
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 131
+##### Artikel 131
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 132
+##### Artikel 132
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 133
+##### Artikel 133
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 134
+##### Artikel 134
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 135
+##### Artikel 135
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 136
+##### Artikel 136
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 137
+##### Artikel 137
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 138
+##### Artikel 138
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 139
+##### Artikel 139
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 140
+##### Artikel 140
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 141
+##### Artikel 141
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 142
+##### Artikel 142
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 143
+##### Artikel 143
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 144
+##### Artikel 144
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 145
+##### Artikel 145
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 146
+##### Artikel 146
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 147
+##### Artikel 147
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 148
+##### Artikel 148
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 149
+##### Artikel 149
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 150
+##### Artikel 150
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 151
+##### Artikel 151
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 152
+##### Artikel 152
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 153
+##### Artikel 153
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 154
+##### Artikel 154
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 155
+##### Artikel 155
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 156
+##### Artikel 156
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 157
+##### Artikel 157
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 158
+##### Artikel 158
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 159
+##### Artikel 159
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 160
+##### Artikel 160
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 161
+##### Artikel 161
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 162
+##### Artikel 162
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 163
+##### Artikel 163
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 164
+##### Artikel 164
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 165
+##### Artikel 165
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 166
+##### Artikel 166
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 167
+##### Artikel 167
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 168
+##### Artikel 168
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 169
+##### Artikel 169
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 170
+##### Artikel 170
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 171
+##### Artikel 171
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 172
+##### Artikel 172
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 173
+##### Artikel 173
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 174
+##### Artikel 174
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 175
+##### Artikel 175
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 176
+##### Artikel 176
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 177
+##### Artikel 177
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 178
+##### Artikel 178
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 179
+##### Artikel 179
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 180
+##### Artikel 180
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 181
+##### Artikel 181
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 182
+##### Artikel 182
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 183
+##### Artikel 183
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 184
+##### Artikel 184
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 185
+##### Artikel 185
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 186
+##### Artikel 186
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 187
+##### Artikel 187
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 188
+##### Artikel 188
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 189
+##### Artikel 189
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 190
+##### Artikel 190
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 191
+##### Artikel 191
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 192
+##### Artikel 192
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 193
+##### Artikel 193
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 194
+##### Artikel 194
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 195
+##### Artikel 195
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 196
+##### Artikel 196
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 197
+##### Artikel 197
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 198
+##### Artikel 198
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 199
+##### Artikel 199
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 200
+##### Artikel 200
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 201
+##### Artikel 201
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 202
+##### Artikel 202
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 203
+##### Artikel 203
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 204
+##### Artikel 204
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 205
+##### Artikel 205
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 206
+##### Artikel 206
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 207
+##### Artikel 207
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 208
+##### Artikel 208
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 209
+##### Artikel 209
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 210
+##### Artikel 210
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 211
+##### Artikel 211
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 212
+##### Artikel 212
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 213
+##### Artikel 213
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 214
+##### Artikel 214
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 215
+##### Artikel 215
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 216
+##### Artikel 216
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 217
+##### Artikel 217
 
 Bevat wijzigingen in andere regelgeving.
 
 ## Titel IV. Beginselen, als bedoeld bij de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=62) en [76 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=76) met betrekking tot de behandeling der in verzekering of in voorloopige hechtenis gestelde personen, de eischen, waaraan de voor inverzekeringstelling of voorloopige hechtenis bestemde plaatsen moeten voldoen, en de maatregelen, welke in het belang van het onderzoek kunnen worden bevolen
 
-#### Artikel 217bis
+##### Artikel 217bis
 
 Vervallen
 
 #### § 1. Inverzekeringstelling
 
-#### Artikel 218
+##### Artikel 218
 
 In verzekeringgestelde mannen en vrouwen worden zoveel mogelijk van elkander gescheiden.
 
-#### Artikel 219
+##### Artikel 219
 
 In verzekering gestelde personen, die in gemeenschap geplaatst zijn, worden zooveel mogelijk gedurende den nacht onderling afgezonderd.
 
-#### Artikel 220
+##### Artikel 220
 
 De inrichting der plaatsen, voor de inverzekeringstelling bestemd, beantwoordt aan de eischen van een eenvoudig, doch voldoende dag- en nachtverblijf.
 
-#### Artikel 221
+##### Artikel 221
 
 Met betrekking tot het ondergaan van inverzekeringstelling overeenkomstig artikel 491, eerste lid, van het Wetboek van Strafvordering, blijven de [artikelen 218-220](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=218) buiten toepassing, doch worden, voor zoover noodig, in het bevel voorzieningen getroffen.
 
-#### Artikel 222
+##### Artikel 222
 
 Vervallen
 
 #### § 2. Voorloopige hechtenis
 
-#### Artikel 223
+##### Artikel 223
 
 Vervallen
 
-#### Artikel 224
+##### Artikel 224
 
 Met betrekking tot het ondergaan van voorloopige hechtenis overeenkomstig [artikel 491, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=491), worden, voor zoover noodig, in het bevel voorzieningen getroffen.
 
-#### Artikel 225
+##### Artikel 225
 
 Vervallen
 
 ## Titel V. Overgangs- en slotbepalingen
 
-#### Artikel 226
+##### Artikel 226
 
 Ter bepaling van de bevoegdheid van den rechter en de wijze van rechtspleging wordt uitsluitend de oude wetgeving toegepast, indien vóór het tijdstip der inwerkingtreding van deze wet:
 
@@ -960,7 +982,7 @@ Ter bepaling van de bevoegdheid van den rechter en de wijze van rechtspleging wo
 
 - b. voor zooveel betreft andere zaken, hetzij het inwinnen van voorloopige informatiën, hetzij het verleenen van rechtsingang is gevorderd, hetzij voor de eerste maal rauwelijks voor de openbare terechtzitting is gedagvaard.
 
-#### Artikel 227
+##### Artikel 227
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip, met uitzondering echter van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001926&titeldeel=I&artikel=2&z=2002-03-01&g=2002-03-01), hetwelk in werking treedt met ingang van den dag volgende op dien der afkondiging van deze wet.
 

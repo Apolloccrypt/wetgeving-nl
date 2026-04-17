@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart"
 identifier: "BWBV0003604"
-categorie: "Milieu"
-publicatiedatum: 1995-08-10
-laatste_update: 1995-08-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003604"
+country: "nl"
+rank: "verdrag"
+publication_date: "1995-08-10"
+last_updated: "1995-08-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003604"
+soort: "verdrag"
+stam_id: "10003602213"
+version_id: "10003662522"
+internal_id: "C10006983721"
+label_id: "10003587744"
+dtd_version: "2.0"
+original_entry_into_force: "1973-09-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003604/1995-08-10/0"
+intitule_bron: "Trb.1971-218"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1971-12-24"
+intitule_in_force: "1973-11-08"
+intitule_status: "goed"
+original_publication: "Trb.1971-218"
+original_published_date: "1971-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1971-218"
+entry_into_force_date: "1973-09-26"
+jci_1_3: "jci1.3:c:BWBV0003604&z=1995-08-10&g=1995-08-10"
+jci_1_0: "1.0:c:BWBV0003604&g=1995-08-10"
+citeertitel_status: "redactioneel"
+entry_into_force: "1973-09-26"
 ---
-
 # Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart
 
 De Staten die Partij zijn bij dit Verdrag,
@@ -20,7 +42,7 @@ Overwegende dat, ten einde zodanige gedragingen te voorkomen, er dringende behoe
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Aan een strafbaar feit maakt zich schuldig hij die wederrechtelijk en opzettelijk:
 
@@ -48,7 +70,7 @@ indien een zodanige daad de veiligheid op die luchthaven in gevaar brengt of kan
 
 - b. medeplichtige is van een persoon die een zodanig feit pleegt of poogt te plegen.
 
-#### Artikel 2
+##### Artikel 2
 
 In dit Verdrag:
 
@@ -56,11 +78,11 @@ In dit Verdrag:
 
 - b. wordt een luchtvaartuig geacht in gebruik te zijn van het begin van het aan de vlucht voorafgaande gereedmaken van het luchtvaartuig door grondpersoneel of door de bemanning voor een bepaalde vlucht tot vierentwintig uur na een landing; de periode van gebruik strekt zich in elk geval uit tot de gehele periode tijdens welke het luchtvaartuig in vlucht is zoals omschreven onder letter **a** van dit artikel.
 
-#### Artikel 3
+##### Artikel 3
 
 Elke Verdragsluitende Staat verbindt zich ertoe zware straffen te stellen op de in artikel 1 genoemde strafbare feiten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Dit Verdrag is niet van toepassing op luchtvaartuigen gebruikt door de strijdkrachten, de douane of de politie.
 
@@ -78,7 +100,7 @@ Elke Verdragsluitende Staat verbindt zich ertoe zware straffen te stellen op de 
 
 6. Het bepaalde in het tweede, derde, vierde en vijfde lid van dit artikel is eveneens van toepassing in de gevallen bedoeld in het tweede lid van artikel 1.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Elke Verdragsluitende Staat neemt de maatregelen die nodig zijn om zijn bevoegdheid vast te leggen tot kennisneming van de strafbare feiten in de volgende gevallen:
 
@@ -96,7 +118,7 @@ Elke Verdragsluitende Staat verbindt zich ertoe zware straffen te stellen op de 
 
 3. Dit Verdrag sluit geen enkele bevoegdheid in strafzaken uit, die wordt uitgeoefend krachtens de nationale wet.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een Verdragsluitende Staat op het grondgebied waarvan de dader of de vermoedelijke dader zich bevindt neemt deze, indien hij ervan overtuigd is dat de omstandigheden zulks wettigen, in hechtenis of neemt andere maatregelen ter verzekering van diens aanwezigheid. De inhechtenisneming en andere maatregelen dienen in overeenstemming te zijn met de wet van de betrokken Staat, doch mogen niet langer duren dan noodzakelijk is voor het instellen van een strafvervolging of uitleveringsprocedure.
 
@@ -106,11 +128,11 @@ Elke Verdragsluitende Staat verbindt zich ertoe zware straffen te stellen op de 
 
 4. Wanneer een Staat krachtens het bepaalde in dit artikel een persoon in hechtenis heeft genomen, verwittigt hij onmiddellijk de Staten bedoeld in artikel 5, eerste lid, de Staat waarvan de in hechtenis genomen persoon onderdaan is en, indien hij dit nodig oordeelt, iedere andere belanghebbende Staat van het feit dat de betrokken persoon in hechtenis is genomen en van de omstandigheden die zijn hechtenis rechtvaardigen. De Staat die het voorlopig onderzoek bedoeld in het tweede lid van dit artikel instelt, deelt zijn bevindingen onverwijld mede aan genoemde Staten en geeft tevens aan of hij voornemens is zijn rechtsmacht uit te oefenen.
 
-#### Artikel 7
+##### Artikel 7
 
 De Verdragsluitende Staat op het grondgebied waarvan de vermoedelijke dader wordt aangetroffen is, indien hij hem niet uitlevert, ongeacht of het strafbare feit gepleegd is op zijn grondgebied, in alle gevallen verplicht de zaak voor vervolging aan zijn bevoegde autoriteiten over te dragen. Deze autoriteiten nemen hun beslissing op dezelfde wijze als in geval van een gewoon strafbaar feit van ernstige aard krachtens de wet van die Staat.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De strafbare feiten worden geacht in elk tussen de Verdragsluitende Staten bestaand uitleveringsverdrag te zijn begrepen als uitleveringsdelicten. De Verdragsluitende Staten verplichten zich ertoe de strafbare feiten op te nemen als uitleveringsdelicten in ieder uitleveringsverdrag dat tussen hen wordt gesloten.
 
@@ -120,27 +142,27 @@ De Verdragsluitende Staat op het grondgebied waarvan de vermoedelijke dader word
 
 4. Voor uitlevering tussen Verdragsluitende Staten wordt elk van de strafbare feiten beschouwd als niet alleen begaan op de plaats waar het is gepleegd, maar ook op het grondgebied van de Staten die overeenkomstig het eerste lid, letters **b, c** en **d,** van artikel 5 rechtsmacht dienen uit te oefenen.
 
-#### Artikel 9
+##### Artikel 9
 
 De Verdragsluitende Staten die voor het luchtvervoer gemeenschappelijke exploitatie-organisaties of internationale exploitatie-organisaties oprichten, die gebruik maken van luchtvaartuigen die onderworpen zijn aan gemeenschappelijke of internationale inschrijving, wijzen op passende wijze voor elk luchtvaartuig een Staat uit hun midden aan die rechtsmacht bezit en voor de toepassing van dit Verdrag de bevoegdheden heeft van de Staat waar dat luchtvaartuig staat ingeschreven. Zij doen daarvan mededeling aan de Internationale Burgerluchtvaartorganisatie, die alle Staten die Partij zijn bij dit Verdrag kennis geeft van deze mededeling.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Verdragsluitende Staten streven er naar, overeenkomstig het internationale en het nationale recht alle redelijke maatregelen te nemen om de in artikel 1 genoemde strafbare feiten te voorkomen.
 
 2. Wanneer ten gevolge van het plegen van een van de strafbare feiten genoemd in artikel 1 een vlucht is vertraagd of onderbroken stelt iedere Verdragsluitende Staat op het grondgebied waarvan het luchtvaartuig, de passagiers of bemanning zich bevinden, alles in het werk om de passagiers en de bemanning hun reis zo spoedig mogelijk te kunnen laten voortzetten. Hij geeft onverwijld het luchtvaartuig en zijn lading terug aan de rechthebbenden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Verdragsluitende Staten verlenen elkander de ruimst mogelijke rechtshulp in elke strafzaak wegens de strafbare feiten. In alle gevallen is op de uitvoering van het verzoek om rechtshulp de wet van de aangezochte Staat van toepassing.
 
 2. Het bepaalde in het eerste lid van dit artikel laat verplichtingen uit hoofde van een ander bilateraal of multilateraal verdrag, dat, geheel of gedeeltelijk, hulp in strafzaken regelt of zal regelen, onverlet.
 
-#### Artikel 12
+##### Artikel 12
 
 Een Verdragsluitende Staat die reden heeft te veronderstellen dat een van de strafbare feiten genoemd in artikel 1 zal worden gepleegd, brengt, overeenkomstig zijn nationale wet, alle desbetreffende in zijn bezit zijnde gegevens ter kennis van die Staten die naar hij meent de in artikel 5, eerste lid, genoemde Staten zijn.
 
-#### Artikel 13
+##### Artikel 13
 
 Elke Verdragsluitende Staat doet overeenkomstig zijn nationale wetgeving de Raad van de Internationale Burgerlucht vaartorganisatie zo spoedig mogelijk mededeling van elke ter zake doende informatie betreffende:
 
@@ -150,7 +172,7 @@ Elke Verdragsluitende Staat doet overeenkomstig zijn nationale wetgeving de Raad
 
 - c. de maatregelen genomen ten aanzien van de dader of de vermoedelijke dader, en in het bijzonder de resultaten van elke uitleveringsprocedure of elke andere gerechtelijke procedure.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Elk geschil tussen Verdragsluitende Staten inzake de uitleg of toepassing van dit Verdrag dat niet door onderhandelingen kan worden beslecht, wordt op verzoek van een der Partijen onderworpen aan arbitrage. Indien Partijen er binnen zes maanden na het verzoek om arbitrage niet in zijn geslaagd overeenstemming te bereiken over de vorm van deze arbitrage, kan ieder der betrokken Partijen het geschil voorleggen aan het Internationale Gerechtshof, door middel van een verzoek overeenkomstig het [Statuut van het Hof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509).
 
@@ -158,7 +180,7 @@ Elke Verdragsluitende Staat doet overeenkomstig zijn nationale wetgeving de Raad
 
 3. Een Verdragsluitende Staat die een voorbehoud heeft gemaakt als bedoeld in het voorgaande lid, kan dit voorbehoud te allen tijde intrekken door daarvan mededeling te doen aan de Depotregeringen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Dit Verdrag staat open voor ondertekening te Montreal op 23 september 1971 door Staten die hebben deelgenomen aan de Internationale Conferentie inzake het Luchtrecht, gehouden te Montreal van 8 tot 23 september 1971 (hierna te noemen de Conferentie van Montreal). Na 10 oktober 1971 staat het Verdrag open voor ondertekening door alle Staten te Londen, Moskou en Washington. Elke Staat die dit Verdrag niet voor de datum van inwerkingtreding overeenkomstig het derde lid van dit artikel ondertekent, kan te allen tijde tot het Verdrag toetreden.
 
@@ -172,7 +194,7 @@ Elke Verdragsluitende Staat doet overeenkomstig zijn nationale wetgeving de Raad
 
 6. Terstond nadat dit Verdrag in werking is getreden, wordt het geregistreerd door de Depotregeringen ingevolge [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) en ingevolge [artikel 83 van het Verdrag inzake de Burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=83) (Chicago, 1944).
 
-#### Artikel 16
+##### Artikel 16
 
 1. Elke Verdragsluitende Staat kan dit Verdrag opzeggen door middel van een aan de Depotregeringen gerichte schriftelijke kennisgeving.
 

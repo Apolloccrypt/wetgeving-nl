@@ -1,13 +1,39 @@
 ---
-title: "Besluit processtukken in strafzaken"
+title: "Besluit van 15 december 2011, houdende regels inzake het procesdossier en de kennisneming en de verstrekking van afschriften van processtukken gedurende het voorbereidende onderzoek (Besluit processtukken in strafzaken)"
 identifier: "BWBR0030886"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-12-01
-laatste_update: 2016-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030886"
+country: "nl"
+rank: "amvb"
+publication_date: "2016-12-01"
+last_updated: "2016-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030886"
+soort: "AMvB"
+stam_id: "11563923"
+version_id: "19058362"
+internal_id: "C34063411"
+label_id: "11537194"
+dtd_version: "2.0"
+original_entry_into_force: "2016-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030886/2016-12-01/0"
+intitule_bron: "Stb.2011-602"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-12-15"
+intitule_published: "2011-12-22"
+intitule_in_force: "2016-11-25"
+intitule_status: "goed"
+original_publication: "Stb.2011-602"
+original_signed_date: "2011-12-15"
+original_published_date: "2011-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2011-602"
+entry_into_force_date: "2016-12-01"
+jci_1_3: "jci1.3:c:BWBR0030886&z=2016-12-01&g=2016-12-01"
+jci_1_0: "1.0:c:BWBR0030886&g=2016-12-01"
+citeertitel_status: "officieel"
+short_title: "Besluit processtukken in strafzaken"
+signed_date: "2011-12-15"
+entry_into_force: "2016-12-01"
 ---
-
 # Besluit van 15 december 2011, houdende regels inzake het procesdossier en de kennisneming en de verstrekking van afschriften van processtukken gedurende het voorbereidende onderzoek (Besluit processtukken in strafzaken)
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 21 september 2011, nr. 5710255/11/6;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Definitiebepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 2. Procesdossier tijdens het opsporingsonderzoek
 
-#### Artikel 2
+##### Artikel 2
 
 1. Tijdens het opsporingsonderzoek draagt het openbaar ministerie zorg voor een, naar de stand van het onderzoek, zo volledig mogelijk procesdossier.
 
@@ -42,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 3. Elk procesdossier bevat een inhoudsopgave, tenzij het dossier, gelet op de aard van de zaak, bestaat uit slechts enkele stukken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien het procesdossier een strafzaak betreft van een misdrijf dat met zes jaar gevangenisstraf of meer is bedreigd, draagt het openbaar ministerie ervoor zorg dat uiterlijk op het tijdstip waarop de dagvaarding ter terechtzitting in eerste aanleg is betekend, een proces-verbaal houdende een verslag betreffende verrichte opsporingshandelingen in die strafzaak aan de processtukken wordt toegevoegd.
 
@@ -50,17 +76,17 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3. Kennisneming van stukken
 
-#### Artikel 4
+##### Artikel 4
 
 Indien tijdens het voorbereidende onderzoek een verdachte of zijn raadsman op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) bevoegd is kennis te nemen van de processtukken dan wel van de stukken, bedoeld in [artikel 34, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=34), wordt hem daartoe de gelegenheid geboden hetzij op het parket, hetzij, indien de verdachte rechtens van zijn vrijheid is beroofd, daar waar hij zich bevindt hetzij elders. Kennisneming kan voorts geschieden met behulp van een elektronische voorziening als bedoeld in [artikel 1, eerste lid, onderdeel c, van het Besluit digitale stukken Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0038616&artikel=1).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de gevallen waarin de processtukken zich op het parket bevinden, bepaalt het openbaar ministerie de tijden waarop inzage in de processtukken kan worden verkregen door de verdachte en zijn raadsman en door het slachtoffer en zijn advocaat of gemachtigde.
 
 2. Het openbaar ministerie bepaalt voorts de tijden waarop inzage in stukken kan worden verkregen door de verdachte en zijn raadsman na inwilliging van een verzoek als bedoeld in [artikel 34, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=34).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien de officier van justitie dit noodzakelijk acht, wordt de kennisneming van de stukken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030886&paragraaf=3&artikel=5&z=2016-12-01&g=2016-12-01), onder toezicht gehouden, tenzij uitsluitend de raadsman kennis neemt van de stukken.
 
@@ -74,7 +100,7 @@ Indien tijdens het voorbereidende onderzoek een verdachte of zijn raadsman op gr
 
 #### Paragraaf 4. Afschriften van processtukken
 
-#### Artikel 7
+##### Artikel 7
 
 1. Aan de raadsman van de verdachte worden tijdens het voorbereidende onderzoek zo spoedig mogelijk afschriften verstrekt van processtukken waarvan de kennisneming is toegestaan.
 
@@ -86,23 +112,23 @@ Indien tijdens het voorbereidende onderzoek een verdachte of zijn raadsman op gr
 
 #### Paragraaf 5. Overige bepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Besluit orde van dienst gerechten.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt het Besluit Buitengewone Rechtspleging.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt het Besluit OM-afdoening.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit processtukken in strafzaken.
 

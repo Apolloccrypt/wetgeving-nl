@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregel toezichtkader zorgplicht zorgverzekeraars Zvw"
 identifier: "BWBR0040215"
-categorie: "Sociaal recht"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040215"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040215"
+soort: "zbo"
+stam_id: "14419843"
+version_id: "24656232"
+internal_id: "C35274031"
+label_id: "14380794"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040215/2018-01-01/0"
+intitule_bron: "Stcrt.2017-66048"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-11-20"
+intitule_in_force: "2017-11-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-66048"
+original_published_date: "2017-11-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-66048"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0040215&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0040215&g=2018-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2018-01-01"
 ---
-
 # Beleidsregel toezichtkader zorgplicht zorgverzekeraars Zvw
 
 ### Grondslag

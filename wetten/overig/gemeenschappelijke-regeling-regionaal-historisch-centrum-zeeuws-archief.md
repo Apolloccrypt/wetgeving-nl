@@ -1,13 +1,38 @@
 ---
 title: "Gemeenschappelijke regeling Regionaal Historisch Centrum ‘Zeeuws archief’"
 identifier: "BWBR0042016"
-categorie: "Overig"
-publicatiedatum: 2019-08-01
-laatste_update: 2019-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042016"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-08-01"
+last_updated: "2019-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042016"
+soort: "ministeriele-regeling"
+stam_id: "15028833"
+version_id: "25749422"
+internal_id: "C36723241"
+label_id: "14978774"
+dtd_version: "2.0"
+original_entry_into_force: "2019-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042016/2019-08-01/0"
+intitule_bron: "Stcrt.2016-34016"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-05-24"
+intitule_published: "2016-07-04"
+intitule_in_force: "2016-07-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-34016"
+original_signed_date: "2016-05-24"
+original_published_date: "2016-07-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-34016"
+entry_into_force_date: "2019-08-01"
+jci_1_3: "jci1.3:c:BWBR0042016&z=2019-08-01&g=2019-08-01"
+jci_1_0: "1.0:c:BWBR0042016&g=2019-08-01"
+citeertitel_status: "officieel"
+signed_date: "2016-05-24"
+entry_into_force: "2019-08-01"
 ---
-
 # Gemeenschappelijke regeling Regionaal Historisch Centrum ‘Zeeuws archief’
 
 Gelet op [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII) en [I van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I)
@@ -16,7 +41,7 @@ Besluiten:
 
 tot het treffen van de navolgende gemeenschappelijke regeling tot de instelling van een openbaar lichaam dat de archiefbescheiden en collecties beheert die berusten in de gemeentelijke archiefbewaarplaatsen van de gemeenten Middelburg en Veere en in de rijksarchiefbewaarplaats in de provincie Zeeland;
 
-#### Artikel 1
+##### Artikel 1
 
 In deze gemeenschappelijke regeling wordt verstaan onder:
 
@@ -32,7 +57,7 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 - f. **provincie:** de provincie Zeeland.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De regeling wordt getroffen met het doel de belangen van de Minister en de colleges bij alle aangelegenheden betreffende de archiefbescheiden, collecties, individuele documenten en dergelijke die berusten in de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaatsen van de gemeenten, in gezamenlijkheid te behartigen.
 
@@ -40,13 +65,13 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 3. De Minister en de gemeenten kunnen gezamenlijk algemene aanwijzingen geven omtrent de wijze waarop het Zeeuws Archief de belangen, bedoeld in het eerste lid, behartigt.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Er is een openbaar lichaam genaamd Zeeuws archief.
 
 2. Het Zeeuws archief is gevestigd te Middelburg.
 
-#### Artikel 2b
+##### Artikel 2b
 
 Aan het bestuur van het Zeeuws archief zijn de navolgende werkzaamheden, taken en bevoegdheden van de colleges en de Minister overgedragen:
 
@@ -60,11 +85,11 @@ Aan het bestuur van het Zeeuws archief zijn de navolgende werkzaamheden, taken e
 
 - e. het verrichten van door de Minister of de colleges opgedragen andere taken die verband houden met de behartiging van de belangen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042016&artikel=2&z=2019-08-01&g=2019-08-01).
 
-#### Artikel 3
+##### Artikel 3
 
 Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=19), vast bij unanimiteit en volgt daarbij zoveel mogelijk de regels die de Minister op grond van artikel 19 Archiefwet 1995 heeft vastgesteld voor het Nationaal Archief.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het algemeen bestuur bestaat uit 6 leden.
 
@@ -84,7 +109,7 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 9. Een lid van het algemeen bestuur dat zijn lidmaatschap ter beschikking heeft gesteld, blijft in functie totdat een nieuw lid is aangewezen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ieder lid van het algemeen bestuur heeft één stem.
 
@@ -104,7 +129,7 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 7. Bij een schriftelijke stemming wordt onder het uitbrengen van een stem verstaan het inleveren van een behoorlijk ingevuld stembriefje.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan het algemeen bestuur behoren ter uitvoering van de aan het Zeeuws archief toegekende taak alle bevoegdheden die niet aan een ander orgaan zijn opgedragen.
 
@@ -114,11 +139,11 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 4. Het algemeen bestuur besluit slechts tot oprichting van en de deelneming in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen, indien dat in het bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen belang. Het besluit wordt niet genomen dan raden van de gemeenten en de Minister in de gelegenheid zijn gesteld hun wensen en bedenkingen ter kennis van het algemeen bestuur te brengen. Het besluit wordt genomen bij unanimiteit.
 
-#### Artikel 7
+##### Artikel 7
 
 Het algemeen bestuur verstrekt zo spoedig mogelijk schriftelijk aan de Minister, de raden van de gemeenten en de colleges de door hen gevraagde inlichtingen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een lid van het algemeen bestuur dat door de Minister is aangewezen verstrekt aan de Minister zo spoedig mogelijk doch in ieder geval binnen 45 dagen de door de Minister gevraagde inlichtingen.
 
@@ -126,11 +151,11 @@ Het algemeen bestuur verstrekt zo spoedig mogelijk schriftelijk aan de Minister,
 
 3. De colleges en de Minister kunnen een lid van het algemeen bestuur dat zij hebben aangewezen, nadat de inlichtingen in een vergadering of schriftelijk zijn verstrekt of dienden te zijn verstrekt, ter verantwoording roepen voor het door hem in het algemeen bestuur gevoerde beleid.
 
-#### Artikel 9
+##### Artikel 9
 
 De Minister en de colleges kunnen een door hen aangewezen lid van het algemeen bestuur, dat hun vertrouwen niet meer geniet, ontslag verlenen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het dagelijks bestuur bestaat uit de voorzitter en twee andere door het algemeen bestuur uit zijn midden aan te wijzen leden.
 
@@ -146,15 +171,15 @@ De Minister en de colleges kunnen een door hen aangewezen lid van het algemeen b
 
 7. Indien het vereiste aantal leden niet tegenwoordig is, belegt de voorzitter, onder verwijzing naar dit artikel, opnieuw een vergadering.
 
-#### Artikel 11
+##### Artikel 11
 
 Het dagelijks bestuur vergadert zo dikwijls als één of meer leden van het dagelijks bestuur dit nodig oordelen.
 
-#### Artikel 12
+##### Artikel 12
 
 Het dagelijks bestuur stelt regels voor zijn vergaderingen vast.
 
-#### Artikel 13
+##### Artikel 13
 
 Het dagelijks bestuur is in ieder geval belast met:
 
@@ -176,7 +201,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 - i. de zorg, voor zover deze van het dagelijks bestuur afhangt, voor de controle op het geldelijk beheer en de boekhouding van het Zeeuws archief.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De voorzitter wordt door en uit het algemeen bestuur aangewezen uit de leden die door de Minister zijn aangewezen.
 
@@ -188,7 +213,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 5. De voorzitter vertegenwoordigt het Zeeuws archief in en buiten rechte. De vertegenwoordiging kan hij opdragen aan een door hem aan te wijzen gevolmachtigde.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het algemeen bestuur kan besluiten dat de leden van het algemeen of dagelijks bestuur, voor zover zij niet de functie vervullen van burgemeester of wethouder van de gemeente, of als ambtenaar in rijks- of gemeentedienst werkzaam zijn, een vergoeding ontvangen voor hun werkzaamheden ten behoeve van Zeeuws archief.
 
@@ -196,7 +221,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 3. De in de voorgaande leden bedoelde vergoeding en tegemoetkoming worden door het algemeen bestuur vastgesteld en opgenomen in de jaarlijkse begroting.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De voor de uitvoering van deze regeling ter beschikking te stellen middelen worden verschaft door de Minister en de gemeenten, door het verstrekken van jaarlijkse bijdragen, op basis van de begroting.
 
@@ -214,7 +239,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 8. Indien de Minister of de gemeenten een bijzondere taak opdraagt als bedoeld in [artikel 2b, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0042016&artikel=2b&z=2019-08-01&g=2019-08-01), waarvan de kosten niet zijn op te vangen in de begroting, wordt daarvoor door de Minister of de gemeente opdrachtgever in aanvulling op de jaarlijkse bijdrage een tevoren overeengekomen vergoeding betaald.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het dagelijks bestuur stelt eenmaal per vier jaar een vierjarig beleidsplan en een meerjarenbegroting op.
 
@@ -224,7 +249,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 4. De Minister en de colleges maken, binnen twee maanden na ontvangst van de in het derde lid genoemde stukken, gezamenlijk afspraken met het Zeeuws archief over te behalen resultaten voor de komende vier jaren.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het dagelijks bestuur zendt uiterlijk 15 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders aan de raden van de gemeenten en de Minister.
 
@@ -238,7 +263,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 6. De raden van de gemeenten en de Minister kunnen bij het dagelijks bestuur hun zienswijze over de ontwerpbegroting naar voren brengen. Het dagelijks bestuur voegt de commentaren waarin deze zienswijze is vervat bij de ontwerpbegroting, zoals deze aan het algemeen bestuur wordt aangeboden.
 
-#### Artikel 18a
+##### Artikel 18a
 
 1. Het algemeen bestuur stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient. De begroting wordt vastgesteld bij unanimiteit.
 
@@ -246,19 +271,19 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 3. Het dagelijks bestuur zendt de begroting binnen twee weken na de vaststelling, doch in ieder geval vóór 1 augustus van het jaar voorafgaande aan dat waarvoor de begroting dient, aan gedeputeerde staten van de provincie.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Besluiten tot wijziging van de begroting kunnen tot uiterlijk het eind van het desbetreffende begrotingsjaar worden genomen.
 
 2. De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0042016&artikel=18&z=2019-08-01&g=2019-08-01) en [18a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042016&artikel=18a&z=2019-08-01&g=2019-08-01), zijn van overeenkomstige toepassing, met uitzondering van die wijzigingen, waarbij geen verandering wordt gebracht in de bijdragen, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042016&artikel=16&z=2019-08-01&g=2019-08-01). Het dagelijks bestuur zendt de begrotingswijziging binnen vier weken na de vaststelling aan gedeputeerde staten van de provincie.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De gemeenten en de Minister voldoen de verschuldigde bijdrage bij wijze van voorschot in twaalf maandelijkse termijnen.
 
 2. In afwijking van het eerste lid kunnen de gemeenten en de Minister de bijdragen bij wijze van voorschot voldoen in door hen nader te bepalen termijnen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het algemeen bestuur stelt de jaarrekening vast in het jaar volgende op het jaar waarop deze betrekking heeft.
 
@@ -272,17 +297,17 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 6. Het dagelijks bestuur stelt de in het eerste en derde lid bedoelde stukken algemeen verkrijgbaar.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een batig saldo kan worden bestemd voor vorming van of toevoeging aan de reserve, of kan worden uitbetaald. De hoogte van deze reserve wordt bepaald door het algemeen bestuur, gehoord de Minister en de raden van de gemeenten. Voor zover een batig saldo niet wordt aangewend voor de reserve wordt het saldo naar rato van de jaarlijkse bijdrage uitgekeerd aan de Minister en de gemeenten.
 
 2. De reserve in enig jaar bedraagt niet meer dan tien procent van de gezamenlijke bijdragen van de Minister en de gemeenten van dat jaar.
 
-#### Artikel 23
+##### Artikel 23
 
 Bij het jaarverslag stelt het algemeen bestuur de definitieve bijdragen van de Minister en de gemeenten vast.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Het algemeen bestuur stelt regels vast met betrekking tot de organisatie van de financiële administratie en van het kasbeheer en de boekhouding van het Zeeuws archief. Bij deze regels wordt bepaald welke ambtenaren van het Zeeuws archief met het doen van ontvangsten en betalingen worden belast.
 
@@ -290,59 +315,59 @@ Bij het jaarverslag stelt het algemeen bestuur de definitieve bijdragen van de M
 
 3. Het algemeen bestuur neemt de besluiten, bedoeld in het eerste en tweede lid, met een meerderheid van twee derde van de uitgebrachte stemmen.
 
-#### Artikel 25
+##### Artikel 25
 
 De Minister en de gemeenten kunnen, binnen het kader van de onderhavige regeling, gezamenlijk nadere regels stellen over het financieel en materieel beheer, over de inrichting van de begroting, het financieel verslag, jaarverslag en aandachtspunten voor de accountantscontrole.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Overeenkomstig door het algemeen bestuur met inachtneming van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) vast te stellen regels, die aan gedeputeerde staten van de provincie worden medegedeeld, draagt het dagelijks bestuur zorg voor de archiefbescheiden van het Zeeuws archief.
 
 2. De archiefbescheiden van het Zeeuws archief die op grond van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) moeten worden overgebracht, komen te berusten in de rijksarchiefbewaarplaats in de provincie.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De colleges, de Minister en het Zeeuws archief verstrekken elkaar desgevraagd inlichtingen en gegevens welke zij nodig achten voor de uitoefening van hun taak. De Minister en de colleges kunnen inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
 2. Het Zeeuws archief stelt de Minister en de colleges te allen tijde in de gelegenheid toezicht te houden op het bepaalde bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) ten aanzien van de archiefbescheiden die berusten in de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaatsen van de gemeenten.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De colleges en de Minister doen het dagelijks bestuur mededeling van de bij hen in voorbereiding zijnde maatregelen en plannen die voor de behartiging van de belangen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042016&artikel=2&z=2019-08-01&g=2019-08-01), voor het Zeeuws archief van belang zijn.
 
 2. De colleges en de Minister kunnen, bij de in het eerste lid bedoelde mededeling, het gevoelen vragen van het dagelijks bestuur. Ook ongevraagd kan het dagelijks bestuur zijn zienswijze daaromtrent aan de gemeenten of Minister kenbaar maken.
 
-#### Artikel 29
+##### Artikel 29
 
 Het dagelijks bestuur beslist omtrent benoeming, schorsing en ontslag van de directeur van het Zeeuws archief.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Het dagelijks bestuur stelt voor de directeur een instructie vast.
 
 2. Het dagelijks bestuur regelt de vervanging van de directeur.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De directeur staat het algemeen bestuur, het dagelijks bestuur en de voorzitter bij de uitoefening van hun taak terzijde. Hij is in de vergaderingen van het algemeen en dagelijks bestuur aanwezig en heeft daarin een adviserende stem.
 
 2. Met inachtneming van [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042016&artikel=14&z=2019-08-01&g=2019-08-01), worden alle stukken, die van het algemeen of het dagelijks bestuur uitgaan door de directeur mede ondertekend.
 
-#### Artikel 32
+##### Artikel 32
 
 Het overige personeel wordt in dienst genomen, geschorst of ontslagen door het dagelijks bestuur.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Het dagelijks bestuur stelt de rechtspositie- en arbeidsvoorwaardenregeling vast.
 
 2. Het dagelijks bestuur volgt bij de vaststelling van de regelingen, bedoeld in het eerste lid, zoveel mogelijk de rechtspositieregeling van de gemeente Middelburg.
 
-#### Artikel 34
+##### Artikel 34
 
 Toetreding tot de regeling kan geschieden bij daartoe strekkende besluiten van de Minister, het college, na verkregen toestemming van de raad van de gemeente, alsmede de toe te treden bestuursorganen of rechtspersonen.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Uittreding uit de regeling kan geschieden door toezending van een daartoe strekkend besluit van de Minister en de colleges. De colleges overleggen daarbij ook het besluit tot toestemming van de raad van de gemeente.
 
@@ -350,27 +375,27 @@ Toetreding tot de regeling kan geschieden bij daartoe strekkende besluiten van d
 
 3. De kosten van uittreding komen voor rekening van het uittredend college van burgemeester van wethouders van een gemeente of, in geval van uittreding van de Minister, voor rekening van de Minister.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Deze regeling kan worden gewijzigd bij besluit van de Minister en van de colleges.
 
 2. De colleges hebben voor het besluit tot wijziging van de regeling de toestemming van de raden van hun gemeenten nodig.
 
-#### Artikel 37
+##### Artikel 37
 
 Deze regeling kan worden opgeheven bij besluit van de Minister en van de colleges. Het algemeen bestuur stelt een liquidatieplan op dat voorziet in de verplichting van de Minister en van de gemeenten om alle rechten en plichten van het openbaar lichaam over de Minister en de gemeenten te verdelen op een in het plan te bepalen wijze.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Deze regeling treedt in werking met ingang van de eerste dag van de kalendermaand, volgend op de bekendmaking in de Staatscourant door de Minister.
 
 2. Het college van burgemeester en wethouders van Middelburg zendt de regeling in aan gedeputeerde staten van de provincie.
 
-#### Artikel 39
+##### Artikel 39
 
 Deze regeling kan worden aangehaald als: Gemeenschappelijke regeling Regionaal Historisch Centrum ‘Zeeuws archief’.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De gemeenschappelijke regeling Regionaal Historisch Centrum ‘Zeeuws archief’, gepubliceerd als [bijlage bij het Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap](onbekend) van 13 april 2000, nr. DCE/OO/4459 (Stcrt. 2000, 87), wordt ingetrokken.
 

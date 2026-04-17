@@ -1,13 +1,37 @@
 ---
 title: "Verdrag nopens de voorrechten en immuniteiten van de Verenigde Naties"
 identifier: "BWBV0005561"
-categorie: "Internationaal recht"
-publicatiedatum: 1948-04-19
-laatste_update: 1948-04-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005561"
+country: "nl"
+rank: "verdrag"
+publication_date: "1948-04-19"
+last_updated: "1948-04-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005561"
+soort: "verdrag"
+stam_id: "10004710863"
+version_id: "10004974592"
+internal_id: "C10008341811"
+label_id: "10004694804"
+dtd_version: "2.0"
+original_entry_into_force: "1948-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005561/1948-04-19/0"
+intitule_bron: "Stb.1948-I 224"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1948-05-31"
+intitule_published: "1948-06-25"
+intitule_in_force: "1948-06-25"
+intitule_status: "goed"
+original_publication: "Stb.1948-I 224"
+original_signed_date: "1948-05-31"
+original_published_date: "1948-06-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1948-04-19"
+jci_1_3: "jci1.3:c:BWBV0005561&z=1948-04-19&g=1948-04-19"
+jci_1_0: "1.0:c:BWBV0005561&g=1948-04-19"
+citeertitel_status: "officieel"
+signed_date: "1948-05-31"
+entry_into_force: "1948-04-19"
 ---
-
 # Verdrag nopens de voorrechten en immuniteiten van de Verenigde Naties
 
 Aangezien [art. 104 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=104) bepaalt, dat de Organisatie op het gebied van ieder van haar Leden zodanige rechtsbevoegdheid zal bezitten, als nodig zal zijn voor de uitoefening van haar functies en het verwezenlijken van haar doeleinden, en
@@ -16,7 +40,7 @@ Aangezien [art. 105 van het Handvest van de Verenigde Naties](https://wetten.ove
 
 Heeft derhalve de Algemene Vergadering in een resolutie, aangenomen op 13 Februari 1946, het volgende Verdrag goedgekeurd en stelt zij voor, dat ieder Lid van de Verenigde Naties hiertoe zal toetreden.
 
-#### Artikel I. Rechtspersoonlijkheid.
+##### Artikel I. Rechtspersoonlijkheid.
 
 § 1. De Verenigde Naties zullen rechtspersoonlijkheid bezitten. Zij zullen de bevoegdheid hebben:
 
@@ -26,7 +50,7 @@ Heeft derhalve de Algemene Vergadering in een resolutie, aangenomen op 13 Februa
 
 - (**c**) In rechte te verschijnen.
 
-#### Artikel II. Eigendommen, fondsen en bezittingen.
+##### Artikel II. Eigendommen, fondsen en bezittingen.
 
 § 2. De Verenigde Naties, haar eigendommen en bezittingen, waar deze ook gelegen zijn, en wie deze ook onder zich heeft, zullen vrijgesteld zijn van rechtsvervolging, behoudens wanneer de Verenigde Naties in een bijzonder geval uitdrukkelijk afstand zullen hebben gedaan van haar immuniteit. Het is echter wel verstaan, dat afstand van immuniteit zich niet uitstrekt tot enige maatregel van tenuitvoerlegging.
 
@@ -52,13 +76,13 @@ Heeft derhalve de Algemene Vergadering in een resolutie, aangenomen op 13 Februa
 
 § 8. Terwijl de Verenigde Naties in principe geen vrijstelling zullen opeisen van accijnzen en van belastingen op de verkoop van roerend en onroerend goed, welke een deel vormen van de te betalen prijs, zullen desniettemin, wanneer de Verenigde Naties voor officieel gebruik belangrijke inkopen doen van goederen, waarop zodanige rechten en belastingen gelegd zijn of gelegd kunnen worden, de Leden, telkens wanneer dit mogelijk is, de nodige administratieve regelingen treffen voor de kwijtschelding of teruggave van het bedrag van zodanige rechten of belastingen.
 
-#### Artikel III. Faciliteiten met betrekking tot communicatiemiddelen.
+##### Artikel III. Faciliteiten met betrekking tot communicatiemiddelen.
 
 § 9. De Verenigde Naties zullen op het grondgebied van ieder Lid voor haar officiële mededelingen een behandeling genieten, die niet minder gunstig zal zijn dan die, welke door de Regering van dat Lid wordt toegestaan aan enige andere Regering met inbegrip van haar diplomatieke missie, wat betreft prioriteiten, tarieven en belastingen op post, kabeltelegrammen, telegrammen, radiogrammen, telefoto's, telefoon en andere communicatiemiddelen, alsmede perstarieven voor mededelingen aan pers of radio. Op de officiële correspondentie en andere officiële mededelingen van de Verenigde Naties zal geen censuur worden toegepast.
 
 § 10. De Verenigde Naties zullen het recht hebben codes te gebruiken en haar correspondentie te verzenden en te ontvangen per koerier of in zakken, welke dezelfde immuniteiten en voorrechten zullen hebben als diplomatieke koeriers en zakken.
 
-#### Artikel IV. Vertegenwoordigers van Leden.
+##### Artikel IV. Vertegenwoordigers van Leden.
 
 § 11. De vertegenwoordigers van Leden in de voornaamste en hulporganen van de Verenigde Naties en op conferenties, die door de Verenigde Naties zijn bijeengeroepen, zullen gedurende de uitoefening van hun functies en gedurende hun reis naar en van de plaats van samenkomst de volgende voorrechten en immuniteiten genieten:
 
@@ -86,7 +110,7 @@ Heeft derhalve de Algemene Vergadering in een resolutie, aangenomen op 13 Februa
 
 § 16. In dit artikel wordt de uitdrukking „vertegenwoordigers” geacht te omvatten alle gedelegeerden, plaatsvervangende gedelegeerden, adviseurs, technische deskundigen en secretarissen van delegaties.
 
-#### Artikel V. Functionarissen.
+##### Artikel V. Functionarissen.
 
 § 17. De Secretaris-Generaal zal aangeven, op welke categoriën van functionarissen de bepalingen van dit artikel en art. VII van toepassing zullen zijn. Hij zal deze categoriën voorleggen aan de Algemene Vergadering. Daarna zullen deze categoriën aan de Regeringen van alle Leden worden medegedeeld. De namen van de functionarissen, die in deze categoriën begrepen zijn, zullen van tijd tot tijd ter kennis van de Regeringen van de Leden worden gebracht.
 
@@ -112,7 +136,7 @@ Heeft derhalve de Algemene Vergadering in een resolutie, aangenomen op 13 Februa
 
 § 21. De verenigde Naties zullen te allen tijde met de daarvoor aangewezen autoriteiten van de Leden samenwerken om de juiste rechtsbedeling te bevorderen, het nakomen van politievoorschriften te verzekeren en te voorkomen dat misbruik optreedt in verband met de voorrechten, immuniteiten en faciliteiten, bedoeld in dit artikel.
 
-#### Artikel VI. Deskundigen met zendingen voor de Verenigde Naties.
+##### Artikel VI. Deskundigen met zendingen voor de Verenigde Naties.
 
 § 22. Aan deskundigen (andere dan de functionarissen, die binnen het kader van art. V vallen), die zendingen voor de Verenigde Naties verrichten, zullen zodanige voorechten en immuniteiten worden verleend als noodzakelijk zal zijn voor de onafhankelijke uitoefening van hun functies gedurende de periode van hun zendingen, met inbegrip van de tijd gebruikt voor reizen in verband met hun zendingen. In het bijzonder zullen hun worden verleend:
 
@@ -130,7 +154,7 @@ Heeft derhalve de Algemene Vergadering in een resolutie, aangenomen op 13 Februa
 
 § 23. Voorrechten en immuniteiten worden aan de deskundigen verleend in het belang van de Verenigde Naties en niet voor het persoonlijke voordeel van de individuele deskundigen. De Secretaris-Generaal zal het recht en de plicht hebben afstand te doen van de immuniteit van een deskundige, telkens wanneer naar zijn oordeel de immuniteit aan de loop van de gerechtigheid in de weg zou staan en van de immuniteit afstand kan worden gedaan zonder dat inbreuk wordt gemaakt op de belangen van de Verenigde Naties.
 
-#### Artikel VII. Laissez-passer van de Verenigde Naties.
+##### Artikel VII. Laissez-passer van de Verenigde Naties.
 
 § 24. De Verenigde Naties kunnen aan haar functionarissen laissez-passer uitgeven. Deze laissez-passer zullen door de autoriteiten van de Leden erkend en aanvaard worden als geldige reispapieren met inachtneming van de bepalingen van § 25.
 
@@ -142,7 +166,7 @@ Heeft derhalve de Algemene Vergadering in een resolutie, aangenomen op 13 Februa
 
 § 28. De bepalingen van dit artikel kunnen worden toegepast op vergelijkbare functionarissen van gespecialiseerde organisaties, indien de overeenkomsten, waarbij deze organisaties krachtens [art. 63 van het Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=63) met de Verenigde Naties in verband worden gebracht dit voorzien.
 
-#### Artikel VIII. Beslechting van geschillen.
+##### Artikel VIII. Beslechting van geschillen.
 
 § 29. De Verenigde Naties zullen regelingen treffen voor passende wijzen van beslechting van:
 
@@ -152,7 +176,7 @@ Heeft derhalve de Algemene Vergadering in een resolutie, aangenomen op 13 Februa
 
 § 30. Alle geschillen, die voortvloeien uit de uitlegging of de toepassing van dit Verdrag, zullen gebracht worden voor het Internationale Gerechtshof, tenzij in een bepaald geval tussen de partijen is overeengekomen, dat zij zullen overgaan tot een andere wijze van beslechting. Indien een geschil ontstaat tussen de Verenigde Naties enerzijds en een Lid anderzijds, zal overeenkomstig [art. 96 van het Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=96) en [art. 65 van het Statuut van het Hof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509&artikel=65) een advies worden verzocht omtrent de hierbij betrokken rechtsquaesties. Het door het Hof gegeven advies zal door de partijen als beslissend worden aanvaard.
 
-#### Slotartikel
+##### Slotartikel
 
 § 31. Dit Verdrag wordt aan alle Leden van de Verenigde Naties voor toetreding voorgelegd.
 

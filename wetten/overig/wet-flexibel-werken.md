@@ -1,14 +1,42 @@
 ---
-title: "Wet flexibel werken"
+title: "Wet van 19 februari 2000, houdende regels inzake het recht op aanpassing van de arbeidsduur (Wet aanpassing arbeidsduur)"
 identifier: "BWBR0011173"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011173"
+country: "nl"
+rank: "wet"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011173"
+soort: "wet"
+stam_id: "1919163"
+version_id: "22735452"
+internal_id: "C32871241"
+label_id: "1869144"
+dtd_version: "2.0"
+original_entry_into_force: "2015-09-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011173/2025-01-01/0"
+intitule_bron: "Stb.2000-114"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-02-19"
+intitule_published: "2000-03-21"
+intitule_in_force: "2000-03-21"
+intitule_status: "goed"
+original_publication: "Stb.2015-376"
+original_signed_date: "2015-09-30"
+original_published_date: "2015-10-20"
+original_effect: "structuurwijziging"
+original_dossier: "34073"
+original_url_id: "stb-2015-376"
+entry_into_force_date: "2015-09-30"
+entry_into_force_dossier: "34073"
+jci_1_3: "jci1.3:c:BWBR0011173&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0011173&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet flexibel werken"
+signed_date: "2015-09-30"
+entry_into_force: "2015-09-30"
 ---
-
-# Wet flexibel werken
+# Wet van 19 februari 2000, houdende regels inzake het recht op aanpassing van de arbeidsduur (Wet aanpassing arbeidsduur)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,7 +62,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Beperking toepassingsbereik
 
-#### Artikel 2
+##### Artikel 2
 
 1. De werknemer kan de werkgever verzoeken om aanpassing voor al dan niet wisselende perioden en met al dan niet verschillende omvang van de uit zijn arbeidsovereenkomst of publiekrechtelijke aanstelling voortvloeiende arbeidsduur, arbeidsplaats of werktijd, indien de werknemer ten minste 26 weken voorafgaand aan het beoogde tijdstip van ingang van die aanpassing in dienst is bij die werkgever, behoudens onvoorziene omstandigheden. Voor de berekening van de termijn van 26 weken worden perioden waarin arbeid wordt verricht, die elkaar opvolgen met een onderbreking van niet meer dan zes maanden, samengeteld. De vorige volzin is van overeenkomstige toepassing op perioden waarin voor verschillende werkgevers arbeid wordt verricht die ten aanzien van de verrichte arbeid redelijkerwijs geacht moeten worden elkanders opvolger te zijn.
 
@@ -102,31 +130,31 @@ De werknemer kan, behoudens onvoorziene omstandigheden, een jaar nadat de werkge
 
 #### Recht op aanpassing van de arbeidsduur, arbeidsplaats en werktijd
 
-#### Artikel 3
+##### Artikel 3
 
 De werkgever kan de arbeidsverhouding van een werknemer niet beëindigen wegens de omstandigheid dat de werknemer in of buiten rechte om aanpassing van de arbeidsduur, arbeidsplaats of werktijd heeft verzocht.
 
 #### Beëindiging arbeidsverhouding
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Minister van Sociale Zaken en Werkgelegenheid zendt, in overeenstemming met Onze Minister van Justitie en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, elke vijf jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 #### Beëindiging arbeidsverhouding
 
-#### Artikel 5
+##### Artikel 5
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 #### Inwerkingtreding
 
-#### Artikel 6
+##### Artikel 6
 
 Deze wet wordt aangehaald als: Wet flexibel werken.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze wet is niet van toepassing ten aanzien van de aanpassing van de arbeidsduur van de werknemer die de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt.
 
@@ -134,7 +162,7 @@ Deze wet is niet van toepassing ten aanzien van de aanpassing van de arbeidsduur
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2a. Werknemer met een kind in de leeftijd tot acht jaar of mantelzorger
+##### Artikel 2a. Werknemer met een kind in de leeftijd tot acht jaar of mantelzorger
 
 1. De [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&artikel=1a&z=2025-01-01&g=2025-01-01) en [2, derde lid, laatste zin, en zeventiende tot en met negentiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&artikel=2&z=2025-01-01&g=2025-01-01), zijn niet van toepassing op een verzoek om aanpassing van de arbeidsduur, de arbeidsplaats of de werktijd van een werknemer:
 
@@ -146,7 +174,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. De werkgever kan van de werknemer verlangen dat hij aannemelijk maakt dat een omstandigheden als bedoeld in het eerste lid zich voordoet.
 
-#### Artikel 2b. Overgang naar een andere vorm van arbeid met meer voorspelbare en zekere arbeidsvoorwaarden
+##### Artikel 2b. Overgang naar een andere vorm van arbeid met meer voorspelbare en zekere arbeidsvoorwaarden
 
 1. De werknemer kan de werkgever verzoeken om een vorm van arbeid met meer voorspelbare en zekere arbeidsvoorwaarden, indien de werknemer ten minste 26 weken voorafgaand aan het beoogde tijdstip van ingang van die aanpassing in dienst is bij die werkgever. Het verzoek wordt door de werknemer schriftelijk bij de werkgever ingediend. De tweede en derde zin van het eerste lid van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&artikel=2&z=2025-01-01&g=2025-01-01) zijn van overeenkomstige toepassing.
 
@@ -164,13 +192,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 6. De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte de in dit artikel aan hem toegekende rechten geldend maakt, ter zake bijstand heeft verleend of een klacht hierover heeft ingediend.
 
-#### Artikel 3a. Bescherming tegen nadelige behandeling of gevolgen
+##### Artikel 3a. Bescherming tegen nadelige behandeling of gevolgen
 
 De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte het recht op aanpassing van de arbeidsduur, de arbeidsplaats of de werktijd geldend maakt, ter zake bijstand heeft verleend, of hieromtrent een klacht binnen de onderneming heeft ingediend.
 
 #### Evaluatiebepaling
 
-#### Artikel 4a. Onderzoek College voor de rechten van de mens
+##### Artikel 4a. Onderzoek College voor de rechten van de mens
 
 Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=1), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&artikel=3a&z=2025-01-01&g=2025-01-01). De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=13), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=22) en [23 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=23) zijn van overeenkomstige toepassing.
 

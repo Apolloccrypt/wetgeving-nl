@@ -1,13 +1,39 @@
 ---
-title: "Besluit betrouwbaarheid en geschiktheid toezichthouders en bestuurders collectieve beheersorganisaties"
+title: "Besluit van 12 april 2022, houdende regels met betrekking tot de vaststelling door het College van Toezicht van de betrouwbaarheid en geschiktheid van een persoon die is of wordt belast met de taken van het orgaan dat de toezichtfunctie uitoefent of de dagelijkse leiding heeft in een collectieve beheersorganisatie en tot wijziging van het Besluit doorberekening kosten College van Toezicht (Stb. 2021, 164) in verband met een aanpassing van overwegend technische aard (Besluit betrouwbaarheid en geschiktheid toezichthouders en bestuurders collectieve beheersorganisaties)"
 identifier: "BWBR0046567"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-07-01
-laatste_update: 2022-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046567"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-07-01"
+last_updated: "2022-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046567"
+soort: "AMvB"
+stam_id: "16329903"
+version_id: "28551972"
+internal_id: "C40290871"
+label_id: "16254614"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046567/2022-07-01/0"
+intitule_bron: "Stb.2022-149"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-04-12"
+intitule_published: "2022-04-19"
+intitule_in_force: "2022-04-19"
+intitule_status: "goed"
+original_publication: "Stb.2022-149"
+original_signed_date: "2022-04-12"
+original_published_date: "2022-04-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2022-149"
+entry_into_force_date: "2022-07-01"
+jci_1_3: "jci1.3:c:BWBR0046567&z=2022-07-01&g=2022-07-01"
+jci_1_0: "1.0:c:BWBR0046567&g=2022-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit betrouwbaarheid en geschiktheid toezichthouders en bestuurders collectieve beheersorganisaties"
+signed_date: "2022-04-12"
+entry_into_force: "2022-07-01"
 ---
-
 # Besluit van 12 april 2022, houdende regels met betrekking tot de vaststelling door het College van Toezicht van de betrouwbaarheid en geschiktheid van een persoon die is of wordt belast met de taken van het orgaan dat de toezichtfunctie uitoefent of de dagelijkse leiding heeft in een collectieve beheersorganisatie en tot wijziging van het Besluit doorberekening kosten College van Toezicht (Stb. 2021, 164) in verband met een aanpassing van overwegend technische aard (Besluit betrouwbaarheid en geschiktheid toezichthouders en bestuurders collectieve beheersorganisaties)
 
 Op de voordracht van Onze Minister voor Rechtsbescherming van 10 februari 2022, directie Wetgeving en Juridische Zaken, nr. 3838455;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 6 april 20
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - c. **persoon:** een persoon die bij een grote collectieve beheersorganisatie is of wordt belast met taken als bedoeld in de [artikelen 2e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2e), of [2f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2f).
 
-#### Artikel 2. Toetsing voor een benoeming of herbenoeming
+##### Artikel 2. Toetsing voor een benoeming of herbenoeming
 
 1. De grote collectieve beheersorganisatie meldt het College van Toezicht een voorgenomen benoeming of herbenoeming van een persoon, voorafgaand aan die benoeming of herbenoeming.
 
@@ -58,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 6. Indien de grote collectieve beheersorganisatie verzuimt de bij de melding behorende informatie over te leggen, kan het College van Toezicht besluiten niet over te gaan tot een beoordeling van de betrouwbaarheid en geschiktheid van die persoon. De betrouwbaarheid en geschiktheid van een persoon wordt in dat geval geacht niet buiten twijfel te staan.
 
-#### Artikel 3. Hertoetsing
+##### Artikel 3. Hertoetsing
 
 1. De betrouwbaarheid en geschiktheid van een persoon staat buiten twijfel zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling. De grote collectieve beheersorganisatie meldt het College van Toezicht onverwijld feiten of omstandigheden die een redelijke aanleiding kunnen geven tot een nieuwe beoordeling van de betrouwbaarheid en geschiktheid van die persoon.
 
@@ -66,15 +92,15 @@ In dit besluit wordt verstaan onder:
 
 3. Op verzoek van het College van Toezicht overlegt de grote collectieve beheersorganisatie aan het College van Toezicht opnieuw de informatie, genoemd in [artikel 2, tweede lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0046567&artikel=2&z=2022-07-01&g=2022-07-01).
 
-#### Artikel 4. Gesprek met de persoon
+##### Artikel 4. Gesprek met de persoon
 
 Op verzoek van het College van Toezicht wordt door het College van Toezicht een gesprek met de persoon gevoerd. De in het gesprek door de persoon gegeven informatie kan door het College van Toezicht worden betrokken bij de vaststelling of de betrouwbaarheid en geschiktheid van die persoon buiten twijfel staat.
 
-#### Artikel 5. Onderzoek
+##### Artikel 5. Onderzoek
 
 Het College van Toezicht kan de betrouwbaarheid en geschiktheid van de persoon vaststellen door middel van een onderzoek. Het College van Toezicht kan dit onderzoek zelf uitvoeren of doen uitvoeren door een door het College van Toezicht te bepalen derde.
 
-#### Artikel 6. Vaststelling van de betrouwbaarheid en geschiktheid
+##### Artikel 6. Vaststelling van de betrouwbaarheid en geschiktheid
 
 1. Het College van Toezicht stelt vast of de betrouwbaarheid van een persoon buiten twijfel staat op basis van diens voornemens, handelingen en antecedenten. Deze vaststelling heeft in elk geval betrekking op de antecedenten, genoemd in de bijlage bij dit besluit.
 
@@ -100,15 +126,15 @@ Het College van Toezicht kan de betrouwbaarheid en geschiktheid van de persoon v
 
 - d. de overige belangen van de grote collectieve beheersorganisatie, de persoon, rechthebbenden en organisaties die rechthebbenden vertegenwoordigen.
 
-#### Artikel 7. Wijziging [Besluit doorberekening kosten College van Toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0044995)
+##### Artikel 7. Wijziging [Besluit doorberekening kosten College van Toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0044995)
 
 Wijzigt het Besluit doorberekening kosten College van Toezicht.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 juli 2022.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit betrouwbaarheid en geschiktheid toezichthouders en bestuurders collectieve beheersorganisaties.
 

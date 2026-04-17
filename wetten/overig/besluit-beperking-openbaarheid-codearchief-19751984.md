@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid Codearchief 1975–1984"
+title: "Besluit van de Minister van Buitenlandse Zaken van 31 mei 2018, houdende beperking van de openbaarheid van een aantal inventarissen van het Codearchief 1975–1984 (Besluit Beperking Openbaarheid Codearchief 1975–1984)"
 identifier: "BWBR0040999"
-categorie: "Overig"
-publicatiedatum: 2018-06-09
-laatste_update: 2018-06-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040999"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-06-09"
+last_updated: "2018-06-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040999"
+soort: "ministeriele-regeling"
+stam_id: "14631783"
+version_id: "25054902"
+internal_id: "C35831361"
+label_id: "14584714"
+dtd_version: "2.0"
+original_entry_into_force: "2018-06-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040999/2018-06-09/0"
+intitule_bron: "Stcrt.2018-31601"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-05-31"
+intitule_published: "2018-06-08"
+intitule_in_force: "2018-06-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-31601"
+original_signed_date: "2018-05-31"
+original_published_date: "2018-06-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-31601"
+entry_into_force_date: "2018-06-09"
+jci_1_3: "jci1.3:c:BWBR0040999&z=2018-06-09&g=2018-06-09"
+jci_1_0: "1.0:c:BWBR0040999&g=2018-06-09"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid Codearchief 1975–1984"
+signed_date: "2018-05-31"
+entry_into_force: "2018-06-09"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 31 mei 2018, houdende beperking van de openbaarheid van een aantal inventarissen van het Codearchief 1975–1984 (Besluit Beperking Openbaarheid Codearchief 1975–1984)
 
 Overwegende dat een aantal dossiers in het archief beperkingen aan de openbaarheid behoeft;
@@ -16,7 +42,7 @@ Gelet op [artikel 15, eerste lid, onder a, b en c, van de Archiefwet 1995](https
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -1076,7 +1102,7 @@ Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventaris
 | 30341 | 2060 |
 | 30353 | 2060 |
 
-#### Artikel 2
+##### Artikel 2
 
 Met het oog op de bescherming van de persoonlijke levenssfeer in verband met bijzondere persoonsgegevens zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -1335,7 +1361,7 @@ Met het oog op de bescherming van de persoonlijke levenssfeer in verband met bij
 | 24331 | 2060 |
 | 24332 | 2039 |
 
-#### Artikel 3
+##### Artikel 3
 
 Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -1629,7 +1655,7 @@ Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnum
 | 26653 | 2059 |
 | 25331 | 2059 |
 
-#### Artikel 4
+##### Artikel 4
 
 Met het oog op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen dan wel van derden zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -1743,21 +1769,21 @@ Met het oog op het anderszins voorkomen van onevenredige bevoordeling of benadel
 | 25473 | 2059 |
 | 24298 | 2033 |
 
-#### Artikel 5
+##### Artikel 5
 
 1. Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040999&artikel=1&z=2018-06-09&g=2018-06-09), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040999&artikel=2&z=2018-06-09&g=2018-06-09) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040999&artikel=4&z=2018-06-09&g=2018-06-09), is, tot openbaarwording uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De rijksarchivaris van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.
 
 2. Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040999&artikel=3&z=2018-06-09&g=2018-06-09), is, tot openbaarwording uitsluitend mogelijk na voorafgaande schriftelijke toestemming van het hieronder vermelde overheidsorgaan.
 
-#### Artikel 6
+##### Artikel 6
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040999&artikel=1&z=2018-06-09&g=2018-06-09), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040999&artikel=2&z=2018-06-09&g=2018-06-09) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040999&artikel=4&z=2018-06-09&g=2018-06-09), is, tot openbaarwording uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 7
+##### Artikel 7
 
 Het[Besluit van de Minister van Buitenlandse Zaken van 18 april 2018, houdende beperking van de openbaarheid van een aantal inventarissen van het Codearchief 1975–1984 (Besluit Beperking Openbaarheid Codearchief 1975–1984)](https://wetten.overheid.nl/jci1.3:c:BWBR0040859)1Stcrt. 2018, 23568 wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

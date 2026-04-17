@@ -1,13 +1,32 @@
 ---
 title: "Protocol Nr. 3 bij de Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten betreffende Euroregionale samenwerkingsverbanden (ESVs)"
 identifier: "BWBV0004026"
-categorie: "Internationaal recht"
-publicatiedatum: 2009-11-16
-laatste_update: 2009-11-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004026"
+country: "nl"
+rank: "verdrag"
+publication_date: "2009-11-16"
+last_updated: "2009-11-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004026"
+soort: "verdrag"
+stam_id: "10003829883"
+version_id: "10003899032"
+internal_id: "C10006998551"
+label_id: "10003814764"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004026/2009-11-16/0"
+intitule_bron: "Trb.2010-21"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-01-25"
+intitule_status: "nogniet"
+original_publication: "Trb.2010-21"
+original_published_date: "2010-01-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2010-21"
+jci_1_3: "jci1.3:c:BWBV0004026&z=2009-11-16&g=2009-11-16"
+jci_1_0: "1.0:c:BWBV0004026&g=2009-11-16"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-01-25"
 ---
-
 # Protocol Nr. 3 bij de Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten betreffende Euroregionale samenwerkingsverbanden (ESVs)
 
 Preambule
@@ -32,13 +51,13 @@ Zijn het volgende overeengekomen:
 
 ## Deel I
 
-#### Artikel 1. Euroregionale samenwerkingsverbanden (ESV's)
+##### Artikel 1. Euroregionale samenwerkingsverbanden (ESV's)
 
 1. Territoriale gemeenschappen of autoriteiten en andere lichamen bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004026&deel=I&artikel=3&z=2009-11-16&g=2009-11-16), kunnen op het grondgebied van een lidstaat van de Raad van Europa die partij is bij dit Protocol, onder door deze lidstaat gestelde voorwaarden een lichaam voor grensoverschrijdende samenwerking in de vorm van een Euroregionaal samenwerkingsverband (ESV) in het leven roepen.
 
 2. Doel van het ESV is de grensoverschrijdende en interterritoriale samenwerking tussen zijn leden ten behoeve van de bevolking te bevorderen, ondersteunen en ontwikkelen op hun gemeenschappelijke competentiegebieden en in overeenstemming met de krachtens het nationale recht van de betrokken staten vastgestelde bevoegdheden.
 
-#### Artikel 2. Rechtspersoonlijkheid, handelingsbekwaamheid en toepasselijk recht
+##### Artikel 2. Rechtspersoonlijkheid, handelingsbekwaamheid en toepasselijk recht
 
 1. Het ESV is een rechtspersoon waarop het recht van toepassing is van de partij die lidstaat is van de Raad van Europa, waar het zijn zetel heeft.
 
@@ -50,7 +69,7 @@ Zijn het volgende overeengekomen:
 
 5. Het ESV kan overeenkomsten aangaan, personeel aanstellen, roerende en onroerende goederen verwerven en in rechte optreden.
 
-#### Artikel 3. Lidmaatschap
+##### Artikel 3. Lidmaatschap
 
 1. Leden van het ESV zijn territoriale gemeenschappen of autoriteiten van een partij en kunnen tevens de lidstaten van de Raad van Europa omvatten waaruit de desbetreffende territoriale gemeenschappen of autoriteiten voortkomen.
 
@@ -68,7 +87,7 @@ Natuurlijke personen kunnen geen lid zijn van een ESV.
 
 3. Territoriale gemeenschappen of autoriteiten van de partijen hebben de meerderheid van het aantal stemmen in het ESV.
 
-#### Artikel 4. Oprichting van een ESV
+##### Artikel 4. Oprichting van een ESV
 
 1. Het ESV wordt opgericht bij een schriftelijke overeenkomst tussen de oprichtende leden.
 
@@ -88,7 +107,7 @@ Natuurlijke personen kunnen geen lid zijn van een ESV.
 
 9. De overeenkomst wordt opgesteld in de taal/talen van de staat waar het ESV zijn zetel heeft alsmede in de talen van de leden. Alle versies zijn gelijkelijk authentiek.
 
-#### Artikel 5. Statuten
+##### Artikel 5. Statuten
 
 1. De statuten van het ESV maken een integrerend onderdeel uit van de oprichtingsovereenkomst.
 
@@ -96,11 +115,11 @@ Natuurlijke personen kunnen geen lid zijn van een ESV.
 
 3. Onverminderd de bepalingen van dit Protocol en in overeenstemming met het toepasselijke recht, bevatten de statuten in aanvulling op de bindende bepalingen van de overeenkomst regels omtrent lidmaatschap, opzegging en opheffing van het ESV, met inbegrip van de rechtsgevolgen die dat met zich meebrengt, alsmede omtrent de werking van het ESV, zijn organen en hun taken, personeel, begroting en financiering, aansprakelijkheid, verplichting tot rapportage en transparantie van het ESV.
 
-#### Artikel 6. Wijziging van de overeenkomst en de statuten
+##### Artikel 6. Wijziging van de overeenkomst en de statuten
 
 Elke wijziging van de overeenkomst bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004026&deel=I&artikel=4&z=2009-11-16&g=2009-11-16) en elke wezenlijke wijziging van de statuten bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004026&deel=I&artikel=5&z=2009-11-16&g=2009-11-16) verloopt overeenkomstig dezelfde procedure en in dezelfde vorm als respectievelijk omschreven in die artikelen. Wezenlijke wijzigingen van de statuten zijn wijzigingen die direct of indirect een wijziging van de overeenkomst met zich meebrengen. In de statuten wordt de vereiste meerderheid bepaald voor de aanneming van elke zodanige wijziging.
 
-#### Artikel 7. Taken en reikwijdte van de werkzaamheden
+##### Artikel 7. Taken en reikwijdte van de werkzaamheden
 
 1. Het ESV voert de taken uit die zijn leden hem toevertrouwen. Deze taken stroken met de bevoegdheden van de leden uit hoofde van hun onderscheiden nationale recht en worden omschreven in de overeenkomst en in de statuten.
 
@@ -110,13 +129,13 @@ Elke wijziging van de overeenkomst bedoeld in [artikel 4](https://wetten.overhei
 
 4. Het ESV oefent geen bevoegdheden uit die territoriale gemeenschappen of autoriteiten uitoefenen als vertegenwoordigers van de staat waartoe zij behoren, tenzij zij daartoe naar behoren gemachtigd zijn. Het kan de bevoegdheden uitoefenen die staten, lid van het ESV, hem opdragen.
 
-#### Artikel 8. Duur
+##### Artikel 8. Duur
 
 1. Het ESV wordt voor bepaalde of onbepaalde tijd opgericht, hetgeen wordt omschreven in de overeenkomst en de statuten.
 
 2. Het ESV wordt automatisch opgeheven zodra het tijdvak waarvoor het was opgericht verstrijkt of zodra de territoriale gemeenschappen of autoriteiten niet langer de meerderheid van het aantal stemmen uitoefenen. Het kan ook worden opgeheven bij een beslissing met eenparigheid van stemmen van zijn leden.
 
-#### Artikel 9. Aansprakelijkheid
+##### Artikel 9. Aansprakelijkheid
 
 1. Het ESV is jegens derden aansprakelijk voor zijn handelingen, met inbegrip van zijn schulden van welke aard dan ook, zelfs wanneer deze handelingen niet tot zijn taken behoren. Indien de activa van het ESV ontoereikend zijn, zijn zijn leden gezamenlijk aansprakelijk jegens derden.
 
@@ -128,7 +147,7 @@ Elke wijziging van de overeenkomst bedoeld in [artikel 4](https://wetten.overhei
 
 5. Een staat op het grondgebied waarvan beoogd wordt de zetel van een ESV te vestigen kan de registratie of publicatie van een kennisgeving tot oprichting van een ESV verbieden, indien een of meer van zijn kandidaat-leden beperkt aansprakelijk is of zijn.
 
-#### Artikel 10. Geschillenregeling
+##### Artikel 10. Geschillenregeling
 
 1. Voor geschillen tussen het ESV en zijn leden zijn de rechtbanken bevoegd van de staat waarin het ESV zijn zetel heeft.
 
@@ -140,7 +159,7 @@ Elke wijziging van de overeenkomst bedoeld in [artikel 4](https://wetten.overhei
 
 5. De rechten van natuurlijke personen en rechtspersonen omvatten in elk geval het recht beroep in te stellen bij alle bevoegde organen en rechtbanken, het recht op toegang tot diensten in hun eigen taal alsmede het recht op toegang tot informatie.
 
-#### Artikel 11. Toezicht, bestuursrechtelijke en rechterlijke toetsing
+##### Artikel 11. Toezicht, bestuursrechtelijke en rechterlijke toetsing
 
 1. De beslissingen en handelingen van het ESV worden op dezelfde wijze onderworpen aan toezicht op, en bestuursrechtelijke en rechterlijke toetsing van rechtmatigheid van handelingen van territoriale gemeenschappen en autoriteiten als in de staat waar het ESV zijn zetel heeft.
 
@@ -152,7 +171,7 @@ Elke wijziging van de overeenkomst bedoeld in [artikel 4](https://wetten.overhei
 
 5. Onverminderd de regels inzake ontbinding van het ESV ingevolge dit Protocol en de statuten, kan de bevoegde rechtbank of de bevoegde autoriteit van een partij waar het ESV zijn zetel heeft, op verzoek van een bevoegde autoriteit met een rechtmatig belang, de ontbinding van het ESV gelasten wanneer zij constateert dat het ESV buiten de taken die aan hem zijn toevertrouwd, handelt. De bevoegde rechtbank of de bevoegde autoriteit kan het ESV een termijn toekennen om de situatie recht te zetten. Indien het ESV nalaat dit binnen de gestelde termijn recht te zetten, kan het ontbonden verklaard worden.
 
-#### Artikel 12. Financiële audit
+##### Artikel 12. Financiële audit
 
 1. Het beheer en de uitvoering van de begroting van het ESV worden in overeenstemming met het nationale recht van de partij waar het zijn zetel heeft, onderworpen aan een financiële audit. Deze staat stelt de andere staten wier territoriale gemeenschappen of autoriteiten lid zijn van het ESV onverwijld in kennis van de uitkomsten van de audit en van de ter zake van het ESV genomen maatregelen.
 
@@ -160,7 +179,7 @@ Elke wijziging van de overeenkomst bedoeld in [artikel 4](https://wetten.overhei
 
 ## Deel II
 
-#### Artikel 13. Uitvoering van het Protocol
+##### Artikel 13. Uitvoering van het Protocol
 
 1. De partijen nemen de passende wetgevende, bestuurlijke of andere maatregelen om te waarborgen dat de bepalingen van [Deel I](https://wetten.overheid.nl/jci1.3:c:BWBV0004026&deel=I&z=2009-11-16&g=2009-11-16) worden uitgevoerd.
 
@@ -174,7 +193,7 @@ Elke wijziging van de overeenkomst bedoeld in [artikel 4](https://wetten.overhei
 
 6. De bepalingen van het aanhangsel worden opgesteld door de Raad van Europa en na goedkeuring door het Comité van Ministers gehecht aan dit Protocol.
 
-#### Artikel 14. Informatie
+##### Artikel 14. Informatie
 
 1. De partijen stellen hun territoriale gemeenschappen of autoriteiten in kennis van de ter uitvoering van dit Protocol getroffen maatregelen.
 
@@ -182,11 +201,11 @@ Elke wijziging van de overeenkomst bedoeld in [artikel 4](https://wetten.overhei
 
 3. De partijen doen de Secretaris-Generaal van de Raad van Europa alle relevante informatie betreffende ingevolge dit Protocol opgerichte ESV’s toekomen.
 
-#### Artikel 15. Toepasselijkheid van andere verdragen
+##### Artikel 15. Toepasselijkheid van andere verdragen
 
 Dit Protocol laat de toepasselijkheid van tussen de partijen bestaande verdragen ter zake van grensoverschrijdende of interterritoriale samenwerking of de mogelijkheid van de partijen ter zake daarvan desgewenst nieuwe verdragen te sluiten onverlet.
 
-#### Artikel 16. Reikwijdte van de toepassing
+##### Artikel 16. Reikwijdte van de toepassing
 
 1. Elke staat wijst in een bij de Secretaris-Generaal van de Raad van Europa op het tijdstip van de bekrachtiging, aanvaarding, goedkeuring of toetreding neergelegde verklaring de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004026&deel=I&artikel=3&z=2009-11-16&g=2009-11-16), genoemde categorieën territoriale gemeenschappen of autoriteiten en rechtspersonen aan die hij uitsluit van de reikwijdte van dit Protocol.
 
@@ -194,17 +213,17 @@ Dit Protocol laat de toepasselijkheid van tussen de partijen bestaande verdragen
 
 3. Elke verklaring afgelegd ingevolge het eerste lid kan worden gewijzigd bij een kennisgeving gericht aan de Secretaris-Generaal. Een dergelijke kennisgeving wordt van kracht op de datum van ontvangst.
 
-#### Artikel 17. Voorbehouden
+##### Artikel 17. Voorbehouden
 
 Ten aanzien van dit Protocol zijn geen voorbehouden toegestaan.
 
-#### Artikel 18. Termen en begripsomschrijvingen
+##### Artikel 18. Termen en begripsomschrijvingen
 
 De in dit Protocol gebezigde termen en begripsomschrijvingen hebben dezelfde betekenis en dezelfde doelstelling als de termen en begripsomschrijvingen vervat in de [Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten](https://wetten.overheid.nl/jci1.3:c:BWBV0004011), het [aanvullende Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001289) en het [tweede Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001410) daarbij.
 
 ## Deel III
 
-#### Artikel 19. Ondertekening en inwerkingtreding van het Protocol
+##### Artikel 19. Ondertekening en inwerkingtreding van het Protocol
 
 1. Dit Protocol staat open voor ondertekening door de staten die de [Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten](https://wetten.overheid.nl/jci1.3:c:BWBV0004011) hebben ondertekend. Het dient te worden bekrachtigd, aanvaard of goedgekeurd. Een ondertekenaar van dit Protocol kan het uitsluitend bekrachtigen, aanvaarden of goedkeuren na of tegelijkertijd met de bekrachtiging, aanvaarding of goedkeuring van de Europese Kaderovereenkomst. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -212,19 +231,19 @@ De in dit Protocol gebezigde termen en begripsomschrijvingen hebben dezelfde bet
 
 3. Met betrekking tot iedere ondertekenende staat die later zijn instemming door het Protocol te worden gebonden tot uitdrukking brengt, treedt het Protocol in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 20. Toetreding
+##### Artikel 20. Toetreding
 
 1. Na de inwerkingtreding van dit Protocol kan iedere staat die is toegetreden tot de [Europese Kaderovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004011) tevens toetreden tot dit Protocol.
 
 2. Toetreding geschiedt door middel van nederlegging van een akte van toetreding bij de Secretaris-Generaal van de Raad van Europa en wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging daarvan.
 
-#### Artikel 21. Opzegging
+##### Artikel 21. Opzegging
 
 1. Elke partij kan dit Protocol te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
 2. Opzegging van dit Protocol laat de rechtspersoonlijkheid en bevoegdheden van de voorafgaand aan de opzegging opgerichte ESV's onverlet.
 
-#### Artikel 22. Kennisgevingen
+##### Artikel 22. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa en iedere andere staat die tot dit Protocol is toegetreden, in kennis van:
 

@@ -1,38 +1,63 @@
 ---
 title: "Regeling aanvullende regels veiligheid wegtunnels"
 identifier: "BWBR0019806"
-categorie: "Overig"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019806"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019806"
+soort: "ministeriele-regeling"
+stam_id: "8294153"
+version_id: "20605162"
+internal_id: "C29480951"
+label_id: "8275294"
+dtd_version: "2.0"
+original_entry_into_force: "2013-06-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019806/2025-07-01/0"
+intitule_bron: "Stcrt.2006-100"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-04-28"
+intitule_published: "2006-05-23"
+intitule_in_force: "2006-05-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-16853"
+original_signed_date: "2013-06-20"
+original_published_date: "2013-06-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2013-16853"
+entry_into_force_date: "2013-06-20"
+jci_1_3: "jci1.3:c:BWBR0019806&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0019806&g=2025-07-01"
+citeertitel_status: "officieel"
+signed_date: "2013-06-20"
+entry_into_force: "2013-06-20"
 ---
-
 # Regeling aanvullende regels veiligheid wegtunnels
 
 Gelet op de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=3), [5, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=5), [6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=7), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=10) en [12 van de Wet aanvullende regels veiligheid wegtunnels](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=12), de [artikelen 2, zesde lid, van het Besluit aanvullende regels veiligheid wegtunnels](https://wetten.overheid.nl/jci1.3:c:BWBR0019857&artikel=2), de [artikelen 120](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=120) en [120a van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=120a) en [artikel 14 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=14);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder tunnelveiligheidsdossier: het dossier, bedoeld in [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=10).
 
 2. Het begrip voorval omvat mede ongeluk of incident.
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 De risicoanalyse, bedoeld in [artikel 6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=6), wordt uitgevoerd overeenkomstig het in bijlage 1 bij deze regeling opgenomen model QRA-tunnels.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het tunnelveiligheidsplan, bedoeld in [artikel 6c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=6c), wordt opgesteld en uitgevoerd overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=2&z=2025-07-01&g=2025-07-01), onderdeel B1, bij deze regeling.
 
@@ -48,7 +73,7 @@ De risicoanalyse, bedoeld in [artikel 6, derde lid, van de wet](https://wetten.o
 
 - e. een globale beschrijving van de organisatie van het beheer van de tunnel en de calamiteitenbestrijding.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het veiligheidsbeheerplan, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=7), wordt opgesteld en uitgevoerd overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=2&z=2025-07-01&g=2025-07-01), onderdeel B3, bij deze regeling.
 
@@ -92,11 +117,11 @@ De risicoanalyse, bedoeld in [artikel 6, derde lid, van de wet](https://wetten.o
 
 - e. een bommelding.
 
-#### Artikel 7
+##### Artikel 7
 
 De veiligheidsbeambte werkt mee aan de afstemming tussen het calamiteitenbestrijdingsplan, bedoeld in [artikel 6, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6&z=2025-07-01&g=2025-07-01), en de aanvalsplannen van de binnen een veiligheidsregio, als bedoeld in de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466), samenwerkende hulpverleningsdiensten. Hij neemt kennis van de rampenbestrijdingsplannen van de desbetreffende veiligheidsregio’s, voor zover de tunnel betreffende.
 
-#### Artikel 8
+##### Artikel 8
 
 1. In of bij de aanvraag voor de in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=8) bedoelde vergunning worden de volgende gegevens verstrekt:
 
@@ -118,11 +143,11 @@ De veiligheidsbeambte werkt mee aan de afstemming tussen het calamiteitenbestrij
 
 3. Op verzoek van het bevoegde college van burgemeester en wethouders verstrekt de aanvrager tevens nadere gegevens en bescheiden voor zover die voor de beslissing op de aanvraag nodig zijn.
 
-#### Artikel 9
+##### Artikel 9
 
 De veiligheidsbeambte controleert regelmatig of de tunnelconstructies en -voorzieningen worden onderhouden en waar nodig hersteld.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Van elk significant voorval in een tunnel stelt de tunnelbeheerder een toelichtend verslag op en zendt dat binnen vier weken aan de veiligheidsbeambte, het bevoegd college van burgemeester en wethouders en de hulpverleningsdiensten.
 
@@ -138,7 +163,7 @@ De veiligheidsbeambte controleert regelmatig of de tunnelconstructies en -voorzi
 
 7. De veiligheidsbeambte rapporteert jaarlijks aan de tunnelbeheerder en het bevoegd college van burgemeester en wethouders op hoofdlijnen over het incidentregistratie- en evaluatieproces en hoe wordt omgegaan met het realiseren van geactiveerde verbetermaatregelen uit de evaluaties.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De veiligheidsbeambte gaat na of het bedieningspersoneel en de hulpverleningsdiensten geoefend zijn en werkt mee aan de organisatie van de regelmatig te houden oefeningen.
 
@@ -148,7 +173,7 @@ De veiligheidsbeambte controleert regelmatig of de tunnelconstructies en -voorzi
 
 4. De veiligheidsbeambte, de hulpverleningsdiensten en de tunnelbeheerder evalueren gezamenlijk de oefeningen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het tunnelveiligheidsdossier bevat alle voor de veiligheid betreffende de tunnel van belang zijnde gegevens en oorspronkelijke bescheiden, alsmede de desbetreffende digitale documenten, waartoe in elk geval behoren de documenten, bedoeld in de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=4&z=2025-07-01&g=2025-07-01), en de documenten betreffende het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=11&z=2025-07-01&g=2025-07-01), met inbegrip van latere wijzigingen daarvan, alsmede:
 
@@ -164,7 +189,7 @@ De veiligheidsbeambte controleert regelmatig of de tunnelconstructies en -voorzi
 
 4. De betrokken overheidsinstanties kunnen het tunnelveiligheidsdossier te allen tijde inzien. Op hun verzoek verstrekt de tunnelbeheerder hen kopieën van de bescheiden.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De gestandaardiseerde uitrusting, bedoeld in [artikel 6a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=6a) bestaat voor een tunnel langer dan 500 meter uit:
 
@@ -260,13 +285,13 @@ De veiligheidsbeambte controleert regelmatig of de tunnelconstructies en -voorzi
 
 5. Een tunnel langer dan 500 meter wordt uitgerust met de in het eerste lid en in het tweede, derde of vierde lid bedoelde onderdelen overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=4&z=2025-07-01&g=2025-07-01) bij deze regeling.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling treedt in werking met ingang van de tweede dag nadat zij in de Staatscourant is geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. De instructies, bedoeld in [artikel 6, tweede lid, onderdeel f, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6&z=2025-07-01&g=2025-07-01), bevatten een beschrijving van de handelswijze bij incidenten en calamiteiten overeenkomstig de volgende processtappen:
 
@@ -286,11 +311,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Voor tunnels langer dan 500 meter die zijn uitgerust met een gestandaardiseerde uitrusting overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2025-07-01&g=2025-07-01) bevatten de instructies een nadere uitwerking van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=3&z=2025-07-01&g=2025-07-01) opgenomen uitgangspunten.
 
-#### Artikel 6b
+##### Artikel 6b
 
 De analyse van scenario’s van ongevallen als bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=7) en in [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=6&z=2025-07-01&g=2025-07-01), van deze regeling, wordt uitgevoerd overeenkomstig de in [bijlage 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=2a&z=2025-07-01&g=2025-07-01) bij deze regeling opgenomen Scenarioanalyse Ongevallen in Tunnels.
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. De gestandaardiseerde uitrusting als bedoeld in [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&artikel=6) bestaat voor een tunnel langer dan 250 meter en ten hoogste 500 meter uit:
 
@@ -332,11 +357,11 @@ De analyse van scenario’s van ongevallen als bedoeld in [artikel 7, eerste lid
 
 3. Een tunnel langer dan 250 meter en ten hoogste 500 meter wordt uitgerust met de in het eerste lid bedoelde onderdelen overeenkomstig de voorschriften van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=4&z=2025-07-01&g=2025-07-01), paragrafen 1 tot en met 4, 16, 17, 19 tot en met 24, 29, 30, 32, 34 en 35 bij deze regeling.
 
-#### Artikel 13b
+##### Artikel 13b
 
 Indien het een tunnel onder een waterweg betreft, beschikt de tunnel in aanvulling op de gestandaardiseerde uitrusting genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2025-07-01&g=2025-07-01) of [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13a&z=2025-07-01&g=2025-07-01) over hittewerende bekleding die de constructie twee uur bescherming biedt tegen brand conform de RWS-brandkromme als bedoeld in NEN-EN 1991-1-2.
 
-#### Artikel 13c
+##### Artikel 13c
 
 Indien de doorrijhoogte van een tunnel langer dan 500 meter lager is dan 4,7 meter beschikt de tunnel in aanvulling op de gestandaardiseerde uitrusting genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2025-07-01&g=2025-07-01) over de volgende uitrusting:
 
@@ -344,7 +369,7 @@ Indien de doorrijhoogte van een tunnel langer dan 500 meter lager is dan 4,7 met
 
 - b. Closed circuit television waarmee de situatie bij de hoogtedetectoren in beeld wordt gebracht.
 
-#### Artikel 13d
+##### Artikel 13d
 
 1. Indien het in een tunnel langer dan 500 meter mogelijk is om de verkeersrichting in een tunnelbuis om te keren beschikt elke betreffende tunnelbuis in aanvulling op de gestandaardiseerde uitrusting genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2025-07-01&g=2025-07-01) over de volgende uitrusting:
 
@@ -372,11 +397,11 @@ Indien de doorrijhoogte van een tunnel langer dan 500 meter lager is dan 4,7 met
 
 - b. beweegbare barrier overeenkomstig [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=6&z=2025-07-01&g=2025-07-01), paragraaf 2, bij deze regeling.
 
-#### Artikel 13e
+##### Artikel 13e
 
 Met de onderdelen van de gestandaardiseerde uitrusting als bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13&z=2025-07-01&g=2025-07-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13a&z=2025-07-01&g=2025-07-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13b&z=2025-07-01&g=2025-07-01), [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13c&z=2025-07-01&g=2025-07-01), [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&artikel=13d&z=2025-07-01&g=2025-07-01) en in de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=4&z=2025-07-01&g=2025-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=5&z=2025-07-01&g=2025-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019806&bijlage=6&z=2025-07-01&g=2025-07-01) bij deze regeling worden gelijkgesteld die goederen die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie die partij is bij een tot een douane-uniestrekkende verdrag, dan wel rechtmatig zijn vervaardigd in een staat die partij is bij een tot de vrijhandelszone strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de onderdelen van de gestandaardiseerde uitrusting wordt nagestreefd.
 
-#### Artikel 13f
+##### Artikel 13f
 
 Deze regeling wordt aangehaald als: Regeling aanvullende regels veiligheid wegtunnels.
 

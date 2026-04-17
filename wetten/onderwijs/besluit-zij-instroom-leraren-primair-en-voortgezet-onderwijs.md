@@ -1,13 +1,39 @@
 ---
-title: "Besluit zij-instroom leraren primair en voortgezet onderwijs"
+title: "Besluit van 5 juli 2008 houdende regels over de zij-instroom van leraren in het primair en voortgezet onderwijs (Besluit zij-instroom leraren primair en voortgezet onderwijs)"
 identifier: "BWBR0024390"
-categorie: "Onderwijs"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024390"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024390"
+soort: "AMvB"
+stam_id: "9701453"
+version_id: "15679862"
+internal_id: "C22168851"
+label_id: "9678574"
+dtd_version: "2.0"
+original_entry_into_force: "2009-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024390/2022-08-01/0"
+intitule_bron: "Stb.2008-336"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-07-05"
+intitule_published: "2008-08-26"
+intitule_in_force: "2009-02-26"
+intitule_status: "goed"
+original_publication: "Stb.2008-336"
+original_signed_date: "2008-07-05"
+original_published_date: "2008-08-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2008-336"
+entry_into_force_date: "2009-03-01"
+jci_1_3: "jci1.3:c:BWBR0024390&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0024390&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Besluit zij-instroom leraren primair en voortgezet onderwijs"
+signed_date: "2008-07-05"
+entry_into_force: "2009-03-01"
 ---
-
 # Besluit van 5 juli 2008 houdende regels over de zij-instroom van leraren in het primair en voortgezet onderwijs (Besluit zij-instroom leraren primair en voortgezet onderwijs)
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap van 29 april 2008, nr. WJZ/11507 (2646), directie Wetgeving en Juridische Zaken, mede namens Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - ****instellingsbestuur:**** instellingsbestuur dat op grond van [artikel 174 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=174), [artikel 154 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=154) of [artikel 7.29 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.29) bevoegd is om een geschiktheidsverklaring af te geven dan wel een instellingsbestuur als bedoeld in [artikel 170, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=170), [artikel 150, onderdeel b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=150) en [artikel 7.26 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.26) dat bevoegd is een bekwaamheidsonderzoek af te nemen.
 
-#### Artikel 2. Aanwijzing onderwijs in beroepsgerichte vakken
+##### Artikel 2. Aanwijzing onderwijs in beroepsgerichte vakken
 
 De beroepsgerichte vakken, bedoeld in de artikelen [artikelen 152, derde lid, onderdeel b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152) en [7.27, derde lid, onderdeel b, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.27), zijn de volgende van de in [artikel 2.21, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.21) genoemde vakken:
 
@@ -52,13 +78,13 @@ De beroepsgerichte vakken, bedoeld in de artikelen [artikelen 152, derde lid, on
 
 #### Paragraaf 2. Geschiktheidsonderzoek
 
-#### Artikel 3. Aanvraag geschiktheidsonderzoek en vaststelling geschiktheidsoordeel
+##### Artikel 3. Aanvraag geschiktheidsonderzoek en vaststelling geschiktheidsoordeel
 
 1. Aanvragen voor het geschiktheidsonderzoek worden gericht aan het instellingsbestuur. De aanvraag wordt gedaan door de betrokkene of het bevoegd gezag van de school die voornemens is de betrokkene in dienst te nemen. Tenzij het instellingsbestuur en de aanvrager anders overeenkomen, vangt het geschiktheidsonderzoek aan binnen twee maanden na ontvangst van de aanvraag en vindt het assessment plaats binnen drie maanden na ontvangst van de aanvraag. Het geschiktheidsoordeel wordt gegeven en de geschiktheidsverklaring wordt afgegeven binnen twee weken na het afsluiten van het assessment.
 
 2. Het instellingsbestuur stelt degenen die bij een geschiktheidsonderzoek zijn betrokken, tijdig op de hoogte van de inhoudelijke criteria van het geschiktheidsonderzoek en van de gang van zaken bij dat onderzoek.
 
-#### Artikel 4. Beoordeling opleiding en maatschappelijke of beroepservaring
+##### Artikel 4. Beoordeling opleiding en maatschappelijke of beroepservaring
 
 1. De beoordeling of de gevolgde opleiding en de maatschappelijke of beroepservaring in onderlinge samenhang bezien van voldoende belang zijn in verhouding tot de door de betrokkene beoogde werkzaamheden aan een school, geschiedt:
 
@@ -70,7 +96,7 @@ De beroepsgerichte vakken, bedoeld in de artikelen [artikelen 152, derde lid, on
 
 3. Indien de betrokkene werkzaamheden in het voortgezet onderwijs beoogt, blijkt uit de aanvraag dat de betrokkene over kennis, inzicht en vaardigheden beschikt in een vak dat relevant is in relatie tot die werkzaamheden.
 
-#### Artikel 5. Criteria assessment
+##### Artikel 5. Criteria assessment
 
 1. De vaststelling van de geschiktheid van de betrokkene vindt plaats door beoordeling van kennis, inzicht en vaardigheden op het terrein van:
 
@@ -104,11 +130,11 @@ De beroepsgerichte vakken, bedoeld in de artikelen [artikelen 152, derde lid, on
 
 7. De vaststelling, bedoeld in het derde, vierde en zesde lid, omvat tevens vaststelling van de terreinen waarop scholing en begeleiding als bedoeld in [artikel 172, tweede lid, onderdeel c, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=172), [artikel 152, tweede lid, onderdeel c, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152) of [artikel 7.27, vierde lid, onderdeel c, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.27) moeten zijn gericht, alsmede van de mate van scholing en begeleiding.
 
-#### Artikel 6. Wijze van uitvoering assessment
+##### Artikel 6. Wijze van uitvoering assessment
 
 Het assessment berust op bevindingen uit praktijkopdrachten, waaronder opdrachten waaruit het gedrag blijkt in authentieke situaties, zoals in feitelijke klassituaties en op één of meer gestructureerde gesprekken met de betrokkene, waaronder ten minste een gesprek over de bevindingen.
 
-#### Artikel 7. Kwaliteitswaarborging geschiktheidsonderzoek
+##### Artikel 7. Kwaliteitswaarborging geschiktheidsonderzoek
 
 1. Ter waarborging van de kwaliteit van het geschiktheidsonderzoek stelt het instellingsbestuur de inrichting van het geschiktheidsonderzoek vast en draagt zorg voor een:
 
@@ -126,7 +152,7 @@ Het assessment berust op bevindingen uit praktijkopdrachten, waaronder opdrachte
 
 #### Paragaraaf 3. Scholing en begeleiding
 
-#### Artikel 8. Waarborgen kwaliteit scholing en begeleiding
+##### Artikel 8. Waarborgen kwaliteit scholing en begeleiding
 
 1. De noodzakelijk geoordeelde scholing, bedoeld in [artikel 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&paragraaf=2&artikel=5&z=2022-08-01&g=2022-08-01), geschiedt uitsluitend door of onder verantwoordelijkheid van personen die bevoegd zijn tot het verzorgen van onderwijs aan initiële lerarenopleidingen in het hoger onderwijs. Bij het verzorgen van de scholing wordt deze inhoudelijk steeds afgestemd op de vorderingen bij de werkzaamheden van de betrokkene aan de school.
 
@@ -134,7 +160,7 @@ Het assessment berust op bevindingen uit praktijkopdrachten, waaronder opdrachte
 
 #### Paragraaf 4. Bekwaamheidsonderzoek
 
-#### Artikel 9. Inrichting van bekwaamheidsonderzoek
+##### Artikel 9. Inrichting van bekwaamheidsonderzoek
 
 1. Degene die zich wil onderwerpen aan een bekwaamheidsonderzoek, dient daartoe een aanvraag in bij het instellingsbestuur.
 
@@ -144,7 +170,7 @@ Het assessment berust op bevindingen uit praktijkopdrachten, waaronder opdrachte
 
 4. De periode van scholing en begeleiding wordt zodanig ingericht dat daarin voor de betrokkene in elk geval tweemaal de gelegenheid bestaat het bekwaamheidsonderzoek te ondergaan.
 
-#### Artikel 10. Waarborgen kwaliteit bekwaamheidsonderzoek
+##### Artikel 10. Waarborgen kwaliteit bekwaamheidsonderzoek
 
 Ter waarborging van de kwaliteit van het bekwaamheidsonderzoek:
 
@@ -158,27 +184,27 @@ Ter waarborging van de kwaliteit van het bekwaamheidsonderzoek:
 
 - e. ziet het instellingsbestuur toe op een zodanige verslaglegging over dat onderzoek dat daaruit in elk geval een deugdelijke motivering van het oordeel over de onderzoeksresultaten blijkt.
 
-#### Artikel 11. Procedure afgifte getuigschrift
+##### Artikel 11. Procedure afgifte getuigschrift
 
 Aan degene die met goed gevolg het bekwaamheidsonderzoek heeft afgesloten, verstrekt het instellingsbestuur binnen twee weken nadat het onderzoek is afgesloten het getuigschrift, bedoeld in [artikel 7a.3, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7a.3).
 
 #### Paragraaf 5. Overige bepalingen
 
-#### Artikel 12. Werkzaamheden bij twee of meer bevoegde gezagsorganen
+##### Artikel 12. Werkzaamheden bij twee of meer bevoegde gezagsorganen
 
 Voor zover de betrokkene de werkzaamheden ten aanzien waarvan hem een geschiktheidsverklaring is verstrekt, gelijktijdig verricht bij twee of meer bevoegde gezagsorganen, dragen deze bevoegde gezagsorganen er zorg voor dat de overeenkomsten, bedoeld in de [artikelen 38a, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38a), [38a, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38a) of [7.30 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.30), waarbij zij ten aanzien van de betrokkene partij zijn, op elkaar worden afgestemd. Zonodig wordt een al gesloten overeenkomst daartoe gewijzigd.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit zij-instroom leraren primair en voortgezet onderwijs.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 12a. Omhangbepaling
+##### Artikel 12a. Omhangbepaling
 
 Dit besluit berust mede op de [artikelen 7.27, derde lid, onderdeel b, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.27), en [7.30, vierde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.30).
 

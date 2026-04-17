@@ -1,13 +1,38 @@
 ---
 title: "Selectieverstrekking Sociale Verzekeringsbank"
 identifier: "BWBR0041873"
-categorie: "Sociaal recht"
-publicatiedatum: 2019-02-01
-laatste_update: 2019-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041873"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-02-01"
+last_updated: "2019-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041873"
+soort: "ministeriele-regeling"
+stam_id: "14989013"
+version_id: "25666172"
+internal_id: "C36623511"
+label_id: "14939234"
+dtd_version: "2.0"
+original_entry_into_force: "2019-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041873/2019-02-01/0"
+intitule_bron: "Stcrt.2019-5260"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-01-25"
+intitule_published: "2019-02-04"
+intitule_in_force: "2019-02-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-5260"
+original_signed_date: "2019-01-25"
+original_published_date: "2019-02-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-5260"
+entry_into_force_date: "2019-02-01"
+jci_1_3: "jci1.3:c:BWBR0041873&z=2019-02-01&g=2019-02-01"
+jci_1_0: "1.0:c:BWBR0041873&g=2019-02-01"
+citeertitel_status: "redactioneel"
+signed_date: "2019-01-25"
+entry_into_force: "2019-02-01"
 ---
-
 # Selectieverstrekking Sociale Verzekeringsbank
 
 In het verzoek van 13 december 2018, 2019-0000016343, heeft het bestuur van de Sociale Verzekeringsbank verzocht om de selectieverstrekking van gegevens als bedoeld in [artikel 37, eerste lid, onder b, van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=37) in verband met de uitvoering van de taak waarvoor genoemd bestuur bij besluit van 31 mei 2017, 2017-0000261347, geautoriseerd is voor systematische gegevensverstrekking uit de basisregistratie personen.
@@ -18,7 +43,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### Paragraaf 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -46,7 +71,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 2. De selectieverstrekking van gegevens aan de SVB
 
-#### Artikel 2
+##### Artikel 2
 
 1. Op de selectiedatum worden eenmalig de persoonslijsten van ingeschrevenen geselecteerd voor zover de afnemersindicatie als actuele aanduiding bij de persoonslijsten is opgenomen.
 
@@ -56,7 +81,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3. Overige verstrekkingen aan de SVB
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien de gegevensverstrekking die op grond van dit besluit aan de SVB dient plaats te vinden niet of op onjuiste wijze is geschied, wordt dit overeenkomstig hetgeen hierover is geregeld in de systeembeschrijving hersteld.
 
@@ -66,13 +91,13 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 4. De verzending en de ontvangst van berichten
 
-#### Artikel 4
+##### Artikel 4
 
 Nadat schriftelijke overeenstemming is bereikt met de Rijksdienst voor Identiteitsgegevens kan de SVB gebruik maken van een alternatief medium als bedoeld in de systeembeschrijving bij verstrekking van gegevens als bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041873&paragraaf=2&z=2019-02-01&g=2019-02-01).
 
 #### Paragraaf 5. Slotbepalingen
 
-#### Artikel 5
+##### Artikel 5
 
 1. De SVB verstrekt aan de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties onverwijld alle nieuw gebleken informatie die betrekking heeft op hetgeen geregeld is in dit besluit.
 
@@ -84,7 +109,7 @@ Nadat schriftelijke overeenstemming is bereikt met de Rijksdienst voor Identitei
 
 - c. de gegevens uit de basisregistratie personen die noodzakelijk zijn voor de uitvoering van de taak van de SVB.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van 1 februari 2019.
 

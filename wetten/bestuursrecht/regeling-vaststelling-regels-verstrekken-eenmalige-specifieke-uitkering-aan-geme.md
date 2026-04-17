@@ -1,20 +1,46 @@
 ---
-title: "Regeling vaststelling regels verstrekken eenmalige specifieke uitkering aan gemeenten huisvesting kwetsbare doelgroepen"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 november 2020, nr. 2020-0000602571, houdende vaststelling van regels voor het verstrekken van een eenmalige specifieke uitkering aan gemeenten ten behoeve van de huisvesting van kwetsbare doelgroepen"
 identifier: "BWBR0044318"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-12-08
-laatste_update: 2021-12-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044318"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-12-08"
+last_updated: "2021-12-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044318"
+soort: "ministeriele-regeling"
+stam_id: "15693033"
+version_id: "27188972"
+internal_id: "C38419561"
+label_id: "15632084"
+dtd_version: "2.0"
+original_entry_into_force: "2020-11-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044318/2021-12-08/0"
+intitule_bron: "Stcrt.2020-58877"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-11-06"
+intitule_published: "2020-11-09"
+intitule_in_force: "2020-11-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-58877"
+original_signed_date: "2020-11-06"
+original_published_date: "2020-11-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-58877"
+entry_into_force_date: "2020-11-10"
+jci_1_3: "jci1.3:c:BWBR0044318&z=2021-12-08&g=2021-12-08"
+jci_1_0: "1.0:c:BWBR0044318&g=2021-12-08"
+citeertitel_status: "redactioneel"
+short_title: "Regeling vaststelling regels verstrekken eenmalige specifieke uitkering aan gemeenten huisvesting kwetsbare doelgroepen"
+signed_date: "2020-11-06"
+entry_into_force: "2020-11-10"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 november 2020, nr. 2020-0000602571, houdende vaststelling van regels voor het verstrekken van een eenmalige specifieke uitkering aan gemeenten ten behoeve van de huisvesting van kwetsbare doelgroepen
 
 Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - d. **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 2. Specifieke uitkering
+##### Artikel 2. Specifieke uitkering
 
 1. De minister verstrekt een specifieke uitkering aan de gemeenten voor het versneld realiseren van projecten die in de huisvesting van kwetsbare doelgroepen voorzien.
 
@@ -40,13 +66,13 @@ In deze regeling wordt verstaan onder:
 
 6. De minister kan op verzoek van het college toestaan dat de specifieke uitkering wordt besteed aan het versneld realiseren van andere projecten dan de projecten genoemd in de bijlage bij artikel 2, voor zover die projecten tevens voorzien in het versneld realiseren van huisvesting van kwetsbare doelgroepen.
 
-#### Artikel 3. Verplichtingen
+##### Artikel 3. Verplichtingen
 
 1. De gemeente besteedt de specifieke uitkering volledig uiterlijk op 31 december 2022 aan de projecten waarvoor deze is verstrekt.
 
 2. Indien de volledige besteding van de specifieke uitkering voor de datum, genoemd in het eerste lid, niet mogelijk is, kan de minister die termijn op schriftelijk en gemotiveerd verzoek van het college eenmaal met ten hoogste een jaar verlengen.
 
-#### Artikel 4. Verantwoording, vaststelling en terugvordering
+##### Artikel 4. Verantwoording, vaststelling en terugvordering
 
 1. Het college legt verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -54,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 3. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044318&artikel=2&z=2021-12-08&g=2021-12-08), niet volledig of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan het college.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

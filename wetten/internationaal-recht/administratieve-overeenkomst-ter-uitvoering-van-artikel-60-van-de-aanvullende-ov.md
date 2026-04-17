@@ -1,13 +1,38 @@
 ---
 title: "Administratieve Overeenkomst ter uitvoering van artikel 60 van de Aanvullende Overeenkomst van 3 augustus 1959, bij het Verdrag tussen de Staten die Partij zijn bij het Noordatlantisch Verdrag nopens de rechtspositie der krijgsmachten, betreffende de in de Bondsrepubliek Duitsland gestationeerde buitenlandse krijgsmachten, zoals gewijzigd bij de Overeenkomsten van 21 oktober 1971, 18 mei 1981 en 18 maart 1993"
 identifier: "BWBV0001080"
-categorie: "Internationaal recht"
-publicatiedatum: 1998-03-29
-laatste_update: 1998-03-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001080"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-03-29"
+last_updated: "1998-03-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001080"
+soort: "verdrag"
+stam_id: "10002113503"
+version_id: "10002211612"
+internal_id: "C10006977711"
+label_id: "10002103644"
+dtd_version: "2.0"
+original_entry_into_force: "1998-03-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001080/1998-03-29/0"
+intitule_bron: "Trb.1994-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-03-18"
+intitule_published: "1994-01-12"
+intitule_in_force: "1998-06-08"
+intitule_status: "goed"
+original_publication: "Trb.1994-18"
+original_signed_date: "1993-03-18"
+original_published_date: "1994-01-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-18"
+entry_into_force_date: "1998-03-29"
+jci_1_3: "jci1.3:c:BWBV0001080&z=1998-03-29&g=1998-03-29"
+jci_1_0: "1.0:c:BWBV0001080&g=1998-03-29"
+citeertitel_status: "redactioneel"
+signed_date: "1993-03-18"
+entry_into_force: "1998-03-29"
 ---
-
 # Administratieve Overeenkomst ter uitvoering van artikel 60 van de Aanvullende Overeenkomst van 3 augustus 1959, bij het Verdrag tussen de Staten die Partij zijn bij het Noordatlantisch Verdrag nopens de rechtspositie der krijgsmachten, betreffende de in de Bondsrepubliek Duitsland gestationeerde buitenlandse krijgsmachten, zoals gewijzigd bij de Overeenkomsten van 21 oktober 1971, 18 mei 1981 en 18 maart 1993
 
 Ter uitvoering van artikel 60 van de Aanvullende Overeenkomst van 3 augustus 1959, zoals gewijzigd bij de Overeenkomsten van 21 oktober 1971, 18 mei 1981 en 18 maart 1993, bij het Verdrag tussen de Staten die Partij zijn bij het Noordatlantisch Verdrag nopens de rechtspositie der krijgsmachten, betreffende de in de Bondsrepubliek Duitsland gestationeerde buitenlandse krijgsmachten (hierna te noemen de „Aanvullende Overeenkomst"), en in aanmerking nemende dat de opdracht van de krijgsmachten op een aantal gebieden van de telecommunicatie een behandeling vergt die afwijkt van de algemeen geldende voorwaarden van de Duitse telecommunicatie-instelling,
@@ -16,11 +41,11 @@ zijn de Regeringen van het Koninkrijk België, Canada, de Bondsrepubliek Duitsla
 
 het volgende overeengekomen:
 
-#### Artikel 1. Wijzigingen van voorschriften
+##### Artikel 1. Wijzigingen van voorschriften
 
 De krijgsmacht wordt zo vroeg mogelijk ingelicht indien de Duitse telecommunicatie-instelling voornemens is de in artikel 60, eerste lid, tweede volzin, van de Aanvullende Overeenkomst bedoelde voorschriften inzake het gebruik van voorzieningen voor telecommunicatie te wijzigen of nieuwe voorschriften inzake dat gebruik in te voeren, en deze een krijgsmacht aangaan. Deze inlichtingen dienen in elk geval uiterlijk twee maanden voor de inwerkingtreding van de desbetreffende voorschriften te worden verstrekt, opdat eventueel noodzakelijk overleg kan plaatsvinden. De krijgsmacht dient voldoende tijd te krijgen om op grond daarvan de vereiste veranderingen in de voorzieningen voor telecommunicatie of de administratieve procedures aan te brengen.
 
-#### Artikel 2. Verzoeken om diensten
+##### Artikel 2. Verzoeken om diensten
 
 1. Verzoeken om telecommunicatiediensten dienen door de daartoe aangewezen autoriteiten van een krijgsmacht, waar nodig, te worden gericht tot de bevoegde instanties van de Duitse telecommunicatie-instelling.
 
@@ -30,17 +55,17 @@ De krijgsmacht wordt zo vroeg mogelijk ingelicht indien de Duitse telecommunicat
 
 3. Waar nodig kunnen verzoeken om beschikbaarstelling van transmissiekanalen worden gedaan overeenkomstig de NATO Long Lines-procedures. Afwijkingen van deze procedures kunnen worden overeengekomen tussen een krijgsmacht en de Bondsminister voor Post en Telecommunicatie. **NATO Long Lines-**procedures. Afwijkingen van deze procedures kunnen worden overeengekomen tussen een krijgsmacht en de Bondsminister voor Post en Telecommunicatie.
 
-#### Artikel 3. Beschikbaarstelling van diensten
+##### Artikel 3. Beschikbaarstelling van diensten
 
 1. In geval van dringende noodzaak kunnen de speciaal hiertoe aangewezen instanties van een krijgsmacht verzoeken met voorrang telecommunicatiekanalen en aansluitingen op de openbare netten beschikbaar te willen stellen. De Duitse telecommunicatie-instelling geeft in de regel binnen achtenveertig uur gevolg aan dergelijke verzoeken.
 
 2. In geval van dringende noodzaak kunnen de speciaal hiertoe aangewezen instanties van een krijgsmacht verzoeken met voorrang telecommunicatiediensten en eindapparatuur te willen herstellen. De voorwaarden zijn in overeenstemming met de desbetreffende door de NAVO goedgekeurde procedures of, indien zulke procedures ontbreken, met de desbetreffende algemene voorwaarden van de Duitse telecommunicatie-instelling (Allgemeine Geschäftsbedingungen der deutschen Fernmeldeverwaltung (AGB)).
 
-#### Artikel 4. Minimum-huurtijd
+##### Artikel 4. Minimum-huurtijd
 
 In overleg met de Duitse telecommunicatie-instelling kunnen in geval van manoeuvres, oefeningen en andere soortgelijke gelegenheden voor korte tijd standaard-telefoontoestellen (Standard-Telefone) worden gehuurd.
 
-#### Artikel 5. Afrekeningsprocedures
+##### Artikel 5. Afrekeningsprocedures
 
 1. Voor de aan de krijgsmacht verleende telecommunicatiediensten gelden de volgende, van de gebruikelijke Duitse afrekeningsprocedures afwijkende, regels:
 
@@ -60,7 +85,7 @@ In overleg met de Duitse telecommunicatie-instelling kunnen in geval van manoeuv
 
 2. Andere afwijkingen van afrekeningsprocedures die slechts één krijgsmacht betreffen, kunnen het onderwerp zijn van overeenkomsten tussen de autoriteiten van de krijgsmachten en de Bondsminister voor Post en Telecommunicatie, die de Duitse telecommunicatie-instelling zal raadplegen.
 
-#### Artikel 6. Tariefbepalingen
+##### Artikel 6. Tariefbepalingen
 
 1. De vergoedingen voor transmissiewegen worden berekend op basis van de geldende tarieven van de AGB. In de eerste drie jaar na de inwerkingtreding van deze Overeenkomst gelden voor de in letter a tot en met f genoemde transmissiewegen echter de volgende maximumtarieven:
 
@@ -92,17 +117,17 @@ De aanpassing van de tarieven voor elke transmissieweg geschiedt voor een tijdva
 
 van het verschil tussen het maandtarief ingevolge de van kracht zijnde AGB en het maandtarief op grond van het eerste lid, letter a tot en met f. Na het verstrijken van deze tweede overgangstermijn worden de tarieven berekend op basis van de geldende tarieven van de AGB.
 
-#### Artikel 7. Aansluiting van apparatuur
+##### Artikel 7. Aansluiting van apparatuur
 
 Onder verwijzing naar artikel 60, zevende lid, letter b, van de Aanvullende Overeenkomst kan een krijgsmacht telecommunicatie-apparatuur aansluiten op het openbare telecommunicatienet van de Bondsrepubliek Duitsland, indien deze apparatuur technisch compatibel is met zodanige systemen en voldoet aan de desbetreffende voorwaarden voor goedkeuring (§29 van de Telekommunikationsverordnung (TKV), in de herziene versie van 05-10-1992 [Bundesgesetzblatt I blz. 1717] of latere regelingen die zijn gebaseerd op de voorschriften van de Europese Gemeenschappen).
 
-#### Artikel 8. Toepasselijkheid van Richtlijn FTZ 1 TR 59
+##### Artikel 8. Toepasselijkheid van Richtlijn FTZ 1 TR 59
 
 1. De bepalingen van Richtlijn FTZ 1 TR 59 of enige daarvoor in de plaats tredende richtlijn worden door de krijgsmachten toepasselijk geacht voor zover deze in overeenstemming zijn met de bepalingen van artikel 60 van de Aanvullende Overeenkomst en andere hierop betrekking hebbende overeenkomsten.
 
 2. Aansprakelijkheidskwesties tussen de krijgsmacht en de Duitse telecommunicatie-instelling, haar medewerkers en derden in geval van schade worden geregeld in overeenstemming met de bepalingen van bestaande overeenkomsten.
 
-#### Artikel 9. Bepalingen inzake onderling overleg
+##### Artikel 9. Bepalingen inzake onderling overleg
 
 1. Met inachtneming van artikel 60, tiende lid, van de Aanvullende Overeenkomst komt de Bondsminister voor Post en Telecommunicatie:
 
@@ -124,7 +149,7 @@ Onder verwijzing naar artikel 60, zevende lid, letter b, van de Aanvullende Over
 
 3. De Bondsminister voor Post en Telecommunicatie betrekt de Duitse telecommunicatie-instelling en, indien noodzakelijk, andere hiervoor in aanmerking komende leveranciers van telecommunicatiediensten bij dit overleg.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 1. Deze Overeenkomst treedt in werking op de datum waarop de Overeenkomst van 18 maart 1993 tot wijziging van de Aanvullende Overeenkomst van 3 augustus 1959, zoals gewijzigd bij de Overeenkomsten van 21 oktober 1971 en 18 mei 1981, bij het Verdrag tussen de Staten die partij zijn bij het Noordatlantisch Verdrag nopens de rechtspositie van hun krijgsmachten, met betrekking tot de in de Bondsrepubliek Duitsland gestationeerde buitenlandse krijgsmachten, in werking treedt.
 

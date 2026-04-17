@@ -1,13 +1,35 @@
 ---
 title: "Constitutie van de Postunie van de Staten van het Amerikaanse Werelddeel, Spanje en Portugal"
 identifier: "BWBV0006309"
-categorie: "Internationaal recht"
-publicatiedatum: 2014-01-01
-laatste_update: 2011-06-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006309"
+country: "nl"
+rank: "verdrag"
+publication_date: "2014-01-01"
+last_updated: "2011-06-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006309"
+soort: "verdrag"
+stam_id: "10005156963"
+version_id: "10005520232"
+internal_id: "C10008587301"
+label_id: "10005140414"
+dtd_version: "2.0"
+original_entry_into_force: "1993-01-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006309/2014-01-01/0"
+intitule_bron: "Trb.1992-119"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1992-08-13"
+intitule_in_force: "1995-08-10"
+intitule_status: "goed"
+original_publication: "Trb.1992-119"
+original_published_date: "1992-08-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-119"
+entry_into_force_date: "1993-01-18"
+jci_1_3: "jci1.3:c:BWBV0006309&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBV0006309&g=2014-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1993-01-18"
 ---
-
 # Constitutie van de Postunie van de Staten van het Amerikaanse Werelddeel, Spanje en Portugal
 
 Preamble
@@ -26,11 +48,11 @@ adopt this Constitution, subject to ratification.
 
 ### CHAPTER I. GENERAL PROVISIONS
 
-#### Article 1. Mission of the Union
+##### Article 1. Mission of the Union
 
 The mission of the Union shall be to strengthen by means of international cooperation the regional integration of the postal sector, and to ensure high-quality postal services for all persons, and the reform and modernization of the sector, in a manner that promotes sustainable development.
 
-#### Article 2. Aims of the Union
+##### Article 2. Aims of the Union
 
 The Union shall have the following aims:
 
@@ -44,13 +66,13 @@ The Union shall have the following aims:
 
 - e). To guarantee the integration of its actions and strategies within the framework of the World Postal Strategy adopted by the Universal Postal Union (“UPU”), favouring interaction, coordination and communication with that organization, other Restricted Unions, other international organizations and other parties associated with the postal sector.
 
-#### Article 3. Relations with the Universal Postal Union and Other International Organizations
+##### Article 3. Relations with the Universal Postal Union and Other International Organizations
 
 1. The Union is independent of all other organizations and maintains relations with the [Universal Postal Union](https://wetten.overheid.nl/jci1.3:c:BWBV0004459) and other Restricted Postal Unions under conditions of reciprocity. It may also maintain relations with other international organizations as necessitated by common interests.
 
 2. It operates within the framework of Universal Postal Union directives, to which effect it maintains the status of a Restricted Union under [Article 8 of the Universal Postal Union Constitution](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=8).
 
-#### Article 4. Members of the Union
+##### Article 4. Members of the Union
 
 Union members consist of:
 
@@ -58,7 +80,7 @@ Union members consist of:
 
 - b). countries or territories acquiring membership status under Article 10 below.
 
-#### Article 5. Jurisdiction of the Union
+##### Article 5. Jurisdiction of the Union
 
 The Union's jurisdiction encompasses:
 
@@ -66,19 +88,19 @@ The Union's jurisdiction encompasses:
 
 - b). other areas which, while not Union members per se, are dependent on member countries or territories from a postal standpoint.
 
-#### Article 6. Union Headquarters
+##### Article 6. Union Headquarters
 
 The headquarters of the Union and its permanent bodies are located in Montevideo, capital of the Eastern Republic of Uruguay.
 
-#### Article 7. Official Language of the Union
+##### Article 7. Official Language of the Union
 
 The official language of the Union is Spanish.
 
-#### Article 8. Legal Capacity
+##### Article 8. Legal Capacity
 
 All member countries or territories shall grant the Union the legal capacity to properly discharge its functions and attain its purposes in accordance with their domestic legislation.
 
-#### Article 9. Privileges and Immunities
+##### Article 9. Privileges and Immunities
 
 1. The Union will enjoy all necessary privileges and immunities for the accomplishment of its mission within the territorial area of each member country or territory.
 
@@ -88,7 +110,7 @@ All member countries or territories shall grant the Union the legal capacity to 
 
 ### CHAPTER II. ACCESSION OR ADMISSION TO AND WITHDRAWAL FROM THE UNION
 
-#### Article 10. Privileges and Immunities
+##### Article 10. Privileges and Immunities
 
 1. The Union shall enjoy, in the territory of each of its member countries or territories, the privileges and immunities necessary for the fulfilment of its mission.
 
@@ -96,13 +118,13 @@ All member countries or territories shall grant the Union the legal capacity to 
 
 3. The staff of the General Secretariat of the Union shall also enjoy these prerogatives while they are engaged in official business.
 
-#### Article 11. Withdrawal from the Union
+##### Article 11. Withdrawal from the Union
 
 Any country or territory may withdraw from the Union by renouncing its membership status.
 
 ### CHAPTER III. ORGANIZATION OF THE UNION
 
-#### Article 12. Union Bodies
+##### Article 12. Union Bodies
 
 1. The Union is composed of the following bodies:
 
@@ -116,7 +138,7 @@ Any country or territory may withdraw from the Union by renouncing its membershi
 
 2. The Consultative and Executive Council and its Management Committee and the General Secretariat are permanent Union bodies.
 
-#### Article 13. Union Bodies
+##### Article 13. Union Bodies
 
 1. The Union shall be composed of the following bodies:
 
@@ -128,11 +150,11 @@ Any country or territory may withdraw from the Union by renouncing its membershi
 
 2. The permanent bodies of the Union are the Council and its Management Committee and the General Secretariat.
 
-#### Article 14. Extraordinary Congresses
+##### Article 14. Extraordinary Congresses
 
 Extraordinary Congresses may be held at the request of a minimum of three member countries or territories, with the concurrence of two thirds of Union members with voting rights.
 
-#### Article 15. Conference
+##### Article 15. Conference
 
 The Conference of representatives of member countries or territories will meet as often as necessary on the occasion of Universal Postal Union Congresses to:
 
@@ -140,13 +162,13 @@ The Conference of representatives of member countries or territories will meet a
 
 - b). where applicable, determine the forms of joint action to be taken at the Congress in furtherance of the objectives of the Union per se and its member countries or territories.
 
-#### Article 16. Consultative and Executive Council
+##### Article 16. Consultative and Executive Council
 
 1. The Council shall ensure the continuity of Union work during the intervals between Congresses by applying the General Secretariat’s annual action plan and giving priority to the courses of action it lays down, in accordance with the strategy adopted by the Congress, and shall conduct studies and issue opinions on matters of interest to or connected with postal service. It shall also supervise and monitor General Secretariat activities.
 
 2. Members of the Council shall discharge their functions in the name and interests of the Union.
 
-#### Article 17. General Secretariat
+##### Article 17. General Secretariat
 
 1. The General Secretariat, under the control of the Council, is the permanent body for the work of the Union in implementing its strategic plan, as well as liaison between its members. It shall serve as the Secretary of the Congress, the Council and its Management Committee, and of the working groups, which it shall assist in discharging its functions.
 
@@ -154,7 +176,7 @@ The Conference of representatives of member countries or territories will meet a
 
 ### CHAPTER IV. UNION ACTS, RESOLUTIONS, RECOMMENDATIONS AND OTHER OFFICIAL REGULATIONS
 
-#### Article 18. Union Acts
+##### Article 18. Union Acts
 
 1. The Constitution shall be the Union’s fundamental Act, defining its mission and containing its organic rules.
 
@@ -164,7 +186,7 @@ The Conference of representatives of member countries or territories will meet a
 
 4. The Technical Cooperation Regulations contain binding rules governing the subject matter and scope of the Union.
 
-#### Article 19. Resolutions and Recommendations of the Congress
+##### Article 19. Resolutions and Recommendations of the Congress
 
 Resolutions
 
@@ -184,7 +206,7 @@ The Recommendations shall be appended to the Union Acts.
 
 ### CHAPTER V. FINANCE
 
-#### Article 20. Decisions by the Council
+##### Article 20. Decisions by the Council
 
 1. Decisions shall express the will of the Council on any matter within its jurisdiction about which it makes a formal statement.
 
@@ -192,7 +214,7 @@ The Recommendations shall be appended to the Union Acts.
 
 ### CHAPTER VI. ACCEPTANCE OF UNION ACTS AND RESOLUTIONS
 
-#### Article 21. The Expenditures of the Union
+##### Article 21. The Expenditures of the Union
 
 1. Each Congress shall set the maximum amount of:
 
@@ -204,11 +226,11 @@ The Recommendations shall be appended to the Union Acts.
 
 3. In case of accession to the Union, the Government of the country or territory concerned shall choose the contribution category in which it wishes to be included for the purposes of dividing the costs of the Union.
 
-#### Article 22. Notices of Ratification and of Other Forms of Approval of Union Acts and Resolutions
+##### Article 22. Notices of Ratification and of Other Forms of Approval of Union Acts and Resolutions
 
 Instruments ratifying the Constitution and, where applicable, approving other Union Acts and Resolutions are to be deposited with the PUASP General Secretariat as quickly as possible, which will notify the other member countries or territories as to their deposit.
 
-#### Article 23. Accession to Union Acts and Resolutions
+##### Article 23. Accession to Union Acts and Resolutions
 
 1. Any member countries or territories which have not signed the Union Acts and other binding provisions adopted by the Congress must accede to them as quickly as possible.
 
@@ -216,7 +238,7 @@ Instruments ratifying the Constitution and, where applicable, approving other Un
 
 ### CHAPTER VII. AMENDMENT OF UNION ACTS, RESOLUTIONS AND RECOMMENDATIONS
 
-#### Article 24. Submission of Proposals
+##### Article 24. Submission of Proposals
 
 1. Proposals amending Union Acts, Resolutions and Recommendations may be submitted:
 
@@ -226,7 +248,7 @@ Instruments ratifying the Constitution and, where applicable, approving other Un
 
 2. The proposals referred to in paragraph 1 above are to be submitted to the Congress.
 
-#### Article 25. Submission of Proposals
+##### Article 25. Submission of Proposals
 
 1. Proposals amending Union Acts, Resolutions and Recommendations may be submitted:
 
@@ -236,7 +258,7 @@ Instruments ratifying the Constitution and, where applicable, approving other Un
 
 2. The proposals referred to in the preceding paragraph must be submitted to the Congress.
 
-#### Article 26. Amendment of the Constitution. Ratification
+##### Article 26. Amendment of the Constitution. Ratification
 
 1. The adoption of proposals submitted to the Congress in regard to this Constitution is subject to their approval by a minimum of two thirds of Union member countries or territories entitled to vote.
 
@@ -246,7 +268,7 @@ Instruments ratifying the Constitution and, where applicable, approving other Un
 
 ### CHAPTER VIII. SUBSIDIARY LEGISLATION AND REGULATIONS
 
-#### Article 27. Amendment of the General Regulations and of Resolutions and Recommendations
+##### Article 27. Amendment of the General Regulations and of Resolutions and Recommendations
 
 The General Regulations, Resolutions and Recommendations may be amended by the Congress in accordance with the provisions of the General Regulations.
 
@@ -254,13 +276,13 @@ This Additional Protocol shall enter into force on January 1, 2008, and shall re
 
 ### CHAPTER IX. SETTLEMENT OF DISPUTES
 
-#### Article 28. Arbitration
+##### Article 28. Arbitration
 
 Disputes arising between postal administrations of member countries or territories over the interpretation or enforcement of Union Acts and Resolutions will be settled by arbitration as prescribed by the General Regulations of the Universal Postal Union.
 
 ### CHAPTER X. FINAL PROVISIONS
 
-#### Article 29. Effective Date and Duration of the Constitution
+##### Article 29. Effective Date and Duration of the Constitution
 
 The Constitution shall enter into force on July 1, 1972 and shall remain in effect indefinitely.
 
@@ -270,7 +292,7 @@ The undersigned plenipotentiary representatives of the governments of the member
 
 ### CHAPTER I. GENERAL PROVISIONS
 
-#### Article 101. Accession or admission to the Union. Procedure
+##### Article 101. Accession or admission to the Union. Procedure
 
 1. Governments of interested countries or territories shall send notices of accession or applications for admission to the General Secretariat, which shall notify the other member countries or territories of their receipt.
 
@@ -282,7 +304,7 @@ The undersigned plenipotentiary representatives of the governments of the member
 
 5. The applicant country or territory shall be notified of the decision taken on its application and, if admitted, of the effective date of its admission and other information related to its acceptance.
 
-#### Article 102. Withdrawal from the Union. Procedure
+##### Article 102. Withdrawal from the Union. Procedure
 
 1. Any member country or territory may withdraw from the Union by denouncing the Constitution in a written notice to the General Secretariat, conveyed by the latter to the governments of the other member countries or territories.
 
@@ -292,7 +314,7 @@ The undersigned plenipotentiary representatives of the governments of the member
 
 ### CHAPTER II. ORGANIZATION AND OPERATION OF UNION BODIES
 
-#### Article 103. Organization and Operation of Congresses
+##### Article 103. Organization and Operation of Congresses
 
 1. Representatives of the member countries and territories shall meet at Congresses approximately every four years.
 
@@ -328,7 +350,7 @@ The undersigned plenipotentiary representatives of the governments of the member
 
 14. The government of the member country or territory hosting the Congress shall notify the governments of member countries or territories of the Acts, Resolutions and Recommendations adopted by the Congress.
 
-#### Article 104. Functions of the Congress Chairman and Vice-Chairmen
+##### Article 104. Functions of the Congress Chairman and Vice-Chairmen
 
 1. The Chairman shall open meetings, lead debates, recognize speakers in the order they ask to speak, put matters which cannot be decided by unanimous consent to a vote, rule on procedural questions arising in the course of the debates and close the Congress.
 
@@ -338,7 +360,7 @@ The undersigned plenipotentiary representatives of the governments of the member
 
 4. In his absence, the Chairman shall be replaced by the First Vice-Chairman from the country that chaired the previous Congress, and the latter, if necessary, by the Second Vice-Chairman.
 
-#### Article 105. Delegations
+##### Article 105. Delegations
 
 1. A delegation is defined as the person or group of persons designated by a member country or territory to represent it at the Congress. If the delegation is composed of several delegates, a head of delegation and, if appropriate, a deputy head shall be designated.
 
@@ -346,7 +368,7 @@ The undersigned plenipotentiary representatives of the governments of the member
 
 3. Countries or territories unable to attend a Congress may arrange to be represented by another delegation. Likewise, countries present at the Congress but unable to attend a particular session may arrange to be represented by another delegation. The Chairman shall be advised of the decisions made in either of these circumstances, bearing in mind that no member country or territory may represent more than one other country or territory.
 
-#### Article 106. Delegate Credentials
+##### Article 106. Delegate Credentials
 
 1. All delegates must bear credentials signed by the Head of State, Head of Government or Minister of Foreign Affairs of the member countries or territories in question.
 
@@ -368,7 +390,7 @@ Delegates whose credentials fail to meet the criteria of subparagraphs (a), (b) 
 
 5. Only original, duly conferred credentials and proxies shall be admissible. However, telegrams or messages sent via any other written telecommunications medium in response to requests for information on delegate credentials shall be accepted.
 
-#### Article 107. Observers
+##### Article 107. Observers
 
 1. The following may take part in Congress debates as observers, and may speak if authorized to do so by the Chairman of the Congress, but without voting rights:
 
@@ -382,7 +404,7 @@ Delegates whose credentials fail to meet the criteria of subparagraphs (a), (b) 
 
 3. The General Secretariat shall, in consultation with the Chairman of the Council and the Management Committee, issue the invitations referred to in paragraphs 1 and 2.
 
-#### Article 108. Submission and Consideration of Proposals
+##### Article 108. Submission and Consideration of Proposals
 
 1. Proposals submitted in accordance with Article 125 of these Regulations shall serve as the basis for Congress debates.
 
@@ -404,7 +426,7 @@ Delegates whose credentials fail to meet the criteria of subparagraphs (a), (b) 
 
 10. Any proposal that could entail substantial expenditures by the Union must be accompanied by an estimate of its financial consequences, prepared in consultation with the General Secretariat by the member country or territory that has drafted it, for the purpose of determining the financial resources needed for its implementation.
 
-#### Article 109. Debates
+##### Article 109. Debates
 
 1. Speakers must confine themselves to the pending issue, limiting their speeches to a maximum of five minutes, except as otherwise agreed by a simple majority of the members present and voting. The Chairman shall be authorized to interrupt any speakers exceeding their allotted time.
 
@@ -416,7 +438,7 @@ Delegates whose credentials fail to meet the criteria of subparagraphs (a), (b) 
 
 - c). declare the list of speakers closed after reading it aloud, subject to the right of the delegation presenting the proposal to respond to speeches by other delegations.
 
-#### Article 110. Motions on Points of Order and Procedural Motions
+##### Article 110. Motions on Points of Order and Procedural Motions
 
 1. During the discussion of any question and even, where appropriate, after the closure of the debate, a delegation may submit a motion on a point of order, for the purposes of requesting:
 
@@ -450,7 +472,7 @@ Procedural motions shall take precedence, in the order set out above, over all o
 
 6. A delegation which submits a motion on a point of order or a procedural motion may not, in its submission, deal with the substance of the question under discussion. The proposer of a procedural motion may withdraw it before it has been put to the vote, and any motion of this kind, whether amended or not, that is withdrawn may be reintroduced by another delegation.
 
-#### Article 111. Voting
+##### Article 111. Voting
 
 1. Issues on which there is no general agreement will be put to a vote which, to be valid, shall require the presence or representation of two thirds of all member countries or territories entitled to vote.
 
@@ -466,7 +488,7 @@ Procedural motions shall take precedence, in the order set out above, over all o
 
 7. Each member country or territory shall be entitled to cast a single vote, and may also vote on behalf of another member country or territory by proxy or delegation.
 
-#### Article 112. Reports of Meetings
+##### Article 112. Reports of Meetings
 
 1. Reports of all meetings shall be drawn up in Spanish in the form of a summary record of the general course of each meeting and the proposals presented, and a summary of the debates conducted and their outcomes.
 
@@ -476,7 +498,7 @@ Procedural motions shall take precedence, in the order set out above, over all o
 
 4. If, in the course of the Congress, a delegation wishes to refer to a particular speech, it shall request from the General Secretariat the reports containing that speech, based on the recordings of the debates.
 
-#### Article 113. Organization and Operation of Extraordinary Congresses
+##### Article 113. Organization and Operation of Extraordinary Congresses
 
 1. Extraordinary Congresses of member countries and territories shall be held to deal with important matters urgently requiring action before the next regular Congress.
 
@@ -488,7 +510,7 @@ Procedural motions shall take precedence, in the order set out above, over all o
 
 5. Any member country or territory may formulate reservations to any Resolutions adopted by Extraordinary Congresses regarding postal operations.
 
-#### Article 114. Consultative and Executive Council
+##### Article 114. Consultative and Executive Council
 
 1. The Council shall be composed of all member countries or territories of the Union. The host country of the Congress shall serve as Chairman of the Council, which position shall be held by experts in the management of collegiate bodies with a thorough knowledge of Union rules.
 
@@ -590,7 +612,7 @@ The submission and consideration of proposals and/or matters shall be governed b
 
 15. The Council shall present a comprehensive report on its activities during the interval between Congresses at least two months in advance of the next Congress.
 
-#### Article 115. Council Instruments and Working Methods
+##### Article 115. Council Instruments and Working Methods
 
 1. The Council shall conduct its work on the basis of the approved strategic plan and mandates set by the Congress. It may prioritize the Union’s objectives where necessary as a result of changes to postal operations.
 
@@ -598,7 +620,7 @@ The submission and consideration of proposals and/or matters shall be governed b
 
 3. The Council shall express its will through Decisions, in accordance with Article 20 of the Constitution and other rules adopted by the Council itself on this subject.
 
-#### Article 116. Management Committee
+##### Article 116. Management Committee
 
 Duties
 
@@ -646,7 +668,7 @@ Operation
 
 - f). At its first meeting, the Management Committee may assign specific duties, from among its own duties, to certain members in order to ensure the efficient operation of the Committee.
 
-#### Article 117. Working Groups
+##### Article 117. Working Groups
 
 1. The Congress or the Council shall form Working Groups for the ensuing period and shall determine their scope and duties.
 
@@ -656,7 +678,7 @@ Operation
 
 ### CHAPTER III. GENERAL SECRETARIAT OF THE UNION
 
-#### Article 118. Functions
+##### Article 118. Functions
 
 In the service of the member countries or territories, the General Secretariat shall have the following general functions:
 
@@ -730,7 +752,7 @@ In the service of the member countries or territories, the General Secretariat s
 
 - c). taking action to establish alliances with other Restricted Unions, so as to exchange support and/or develop strategies that will promote the interests and objectives established by the majority of member countries or territories, within the framework of the permanent bodies and the Universal Postal Congress.
 
-#### Article 119. Secretary General and Counsellor of the Union
+##### Article 119. Secretary General and Counsellor of the Union
 
 1. The General Secretariat of the Union shall be directed and managed by a Secretary General, assisted by a Counsellor. Both officials shall be elected by the Congress by secret ballot from among the candidates nominated. The Secretary General and Counsellor shall be elected for a single term and may be reelected for an additional term. For purposes of this paragraph, “term” means the interval between two consecutive Regular Congresses.
 
@@ -788,7 +810,7 @@ In the service of the member countries or territories, the General Secretariat s
 
 11. Carry out the functions indicated in the Regulations of the General Secretariat.
 
-#### Article 120. General Secretariat Staff
+##### Article 120. General Secretariat Staff
 
 1. General Secretariat staff members shall be classified in one of the following two categories:
 
@@ -798,19 +820,19 @@ In the service of the member countries or territories, the General Secretariat s
 
 2. The Congress or Council shall pass a Resolution establishing both professional and general services personnel on a motion by the Secretary General.
 
-#### Article 121. General Secretariat Staff Retirement and Pensions
+##### Article 121. General Secretariat Staff Retirement and Pensions
 
 1. Effective as of April 1, 1992 and thereafter, present and future PUASP General Secretariat personnel, elected or hired, resident or non-resident, shall not have the right to retire at Union expense. However, upon their separation from service, they or their successors or assigns shall be entitled to severance pay in an amount equal to the sum of all contributions made by the employee and the Union, plus compound interest at the real market rate earned by such funds locally.
 
 2. The retirement benefits of General Secretariat staff recognized through March 31, 1992 and all corresponding present and future pension benefits payable under this heading shall continue to be paid until such time as they may lapse under a special annual budget program of the Union. In the event of inadequate program funding, these pensions shall be paid from the Working Capital Fund.
 
-#### Article 122. Collaboration with the Union General Secretariat
+##### Article 122. Collaboration with the Union General Secretariat
 
 Member countries or territories may assign experts to the General Secretariat at its request to assist with special tasks for the strictly necessary period of time under clearly warranted circumstances.
 
 ### CHAPTER IV. SUPERVISORY AUTHORITY
 
-#### Article 123. Duties of the Government of the Headquarters Country
+##### Article 123. Duties of the Government of the Headquarters Country
 
 To facilitate the operations of the General Secretariat and other Union bodies, the government of the Eastern Republic of Uruguay shall:
 
@@ -820,7 +842,7 @@ To facilitate the operations of the General Secretariat and other Union bodies, 
 
 - c). take any and all other necessary measures to enable the General Secretariat to discharge its responsibilities.
 
-#### Article 124. Functions of the Supervisory Authority
+##### Article 124. Functions of the Supervisory Authority
 
 As Supervisory Authority for the General Secretariat, the Eastern Republic of Uruguay shall be responsible for:
 
@@ -832,7 +854,7 @@ As Supervisory Authority for the General Secretariat, the Eastern Republic of Ur
 
 ### CHAPTER V. AMENDMENT OF UNION ACTS, RESOLUTIONS AND RECOMMENDATIONS
 
-#### Article 125. Proposals for the Amendment of Union Acts, Resolutions and Recommendations by the Congress. Procedure
+##### Article 125. Proposals for the Amendment of Union Acts, Resolutions and Recommendations by the Congress. Procedure
 
 1. Proposals must be sent to the General Secretariat four months prior to the opening of the Congress.
 
@@ -840,7 +862,7 @@ As Supervisory Authority for the General Secretariat, the Eastern Republic of Ur
 
 3. Proposals presented after the deadline indicated in paragraph 1 above shall be considered if they are submitted at least three weeks prior to the opening of the Congress and are supported by at least two member countries or territories, with the exception of proposals containing amendments as referred to in Article 108 of these Regulations and of drafting proposals. These latter proposals must display a capital letter “R” as part of their heading, and shall be referred directly to the Drafting Committee.
 
-#### Article 126. Conditions for the Approval of Proposals Pertaining to the General Regulations, Technical Cooperation Regulations, Resolutions and Recommendations
+##### Article 126. Conditions for the Approval of Proposals Pertaining to the General Regulations, Technical Cooperation Regulations, Resolutions and Recommendations
 
 1. The adoption of proposals submitted to the Congress in regard to the General Regulations, Technical Cooperation Regulations, Resolutions and Recommendations is subject to their approval by a simple majority of member countries or territories present or represented and entitled to vote. At least two thirds of Union member countries or territories must be present or represented during the voting process.
 
@@ -848,7 +870,7 @@ As Supervisory Authority for the General Secretariat, the Eastern Republic of Ur
 
 ### CHAPTER VI. UNION FINANCES
 
-#### Article 127. Union Budget
+##### Article 127. Union Budget
 
 1. Each Congress shall pass a Resolution setting the budget ceiling for each year of the ensuing four-year period based on the strategic directions adopted by the Congress, expressed in United States dollars. Approved budgets shall remain in effect from January 1 through December 31 of each year.
 
@@ -856,7 +878,7 @@ As Supervisory Authority for the General Secretariat, the Eastern Republic of Ur
 
 3. The General Secretariat shall present the Management Committee and Council with an itemized budget for the following year, along with a statement of expenditures for the previous year together with the corresponding supporting documentation for examination and approval if appropriate.
 
-#### Article 128. Working Capital Fund
+##### Article 128. Working Capital Fund
 
 1. The purpose of the Working Capital Fund is to cover unbudgeted expenses, so that the General Secretariat can satisfy unforeseen obligations.
 
@@ -866,7 +888,7 @@ As Supervisory Authority for the General Secretariat, the Eastern Republic of Ur
 
 4. In principle, this fund shall not be increased, but its development shall be monitored so that the Union can satisfy its obligations.
 
-#### Article 129. Contributions by Member Countries or Territories
+##### Article 129. Contributions by Member Countries or Territories
 
 1. Member countries or territories shall contribute to the defrayal of Union expenses according to their respective contribution category. The following contribution categories are hereby established:
 
@@ -920,15 +942,15 @@ As Supervisory Authority for the General Secretariat, the Eastern Republic of Ur
 
 10. There are no restrictions on transfers to higher contribution categories.
 
-#### Article 130. Audits and Advances
+##### Article 130. Audits and Advances
 
 The Government of the country in which the Union has its headquarters shall audit General Secretariat expenses and make necessary advances.
 
-#### Article 131. Preparation of Accounts
+##### Article 131. Preparation of Accounts
 
 The General Secretariat shall annually prepare a statement of accounts for the Union Budget, a balance sheet and a statement of performance at fiscal year end, which shall be audited by the Supervisory Authority and by external auditors. In addition, the Congress, the Council and the Management Committee may request the General Secretariat to render an accounting with respect to matters other than the budget or ask it to provide preliminary reports.
 
-#### Article 132. External Audit
+##### Article 132. External Audit
 
 1. Upon the conclusion of the fiscal year, an external audit shall be conducted of the Union's financial statements, in accordance with generally accepted accounting/auditing principles.
 
@@ -940,13 +962,13 @@ The General Secretariat shall annually prepare a statement of accounts for the U
 
 5. The Management Committee and Council may request the external auditors to conduct certain specific reviews and to submit separate reports on the results.
 
-#### Article 133. Payment of Contributions
+##### Article 133. Payment of Contributions
 
 1. Member countries or territories shall be promptly notified of the budget approved by the Council for purposes of the payment of their respective contributions under this budget. The invoice for these contributions shall be sent before December 31 of the year prior to the year of the budget, accompanied by a copy of the approved budget. Payment shall be made before June 30 of the year to which the budget applies.
 
 2. Any and all payments in arrears after the date indicated in paragraph 1 above shall accrue interest at the rate of 3% per annum, starting from June 30.
 
-#### Article 134. Automatic Penalties
+##### Article 134. Automatic Penalties
 
 1. Any member countries or territories that are in debt to the Union for:
 
@@ -980,7 +1002,7 @@ shall be subject to the application of the automatic penalty system.
 
 ### CHAPTER VII. LANGUAGES ACCEPTED IN THE UNION
 
-#### Article 135. Languages
+##### Article 135. Languages
 
 1. Union documents shall be furnished to the member countries and territories and their designated postal enterprises in Spanish. However, official correspondence from non-Spanish speaking member countries and territories and their designated postal enterprises may be drafted in their native language. From time to time, the Council may authorize French, English and Portuguese translations of publications of special interest for the operation of postal services.
 
@@ -992,7 +1014,7 @@ shall be subject to the application of the automatic penalty system.
 
 ### CHAPTER VIII. FINAL PROVISIONS
 
-#### Article 136. Effective Date and Duration of the General Regulations
+##### Article 136. Effective Date and Duration of the General Regulations
 
 These General Regulations shall enter into force on January 1, 2010, and shall remain in force until the effective date of the Acts of the next Congress.
 

@@ -1,20 +1,46 @@
 ---
-title: "Regeling gegevensverstrekking ACM 2019"
+title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 13 september 2019, nr. WJZ/ 18250526, houdende regels omtrent het verstrekken van gegevens en inlichtingen door de Autoriteit Consument en Markt en het intrekken van de Regeling gegevensverstrekking ACM (Regeling gegevensverstrekking ACM 2019)"
 identifier: "BWBR0042559"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042559"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042559"
+soort: "ministeriele-regeling"
+stam_id: "15166373"
+version_id: "26003082"
+internal_id: "C37033271"
+label_id: "15113794"
+dtd_version: "2.0"
+original_entry_into_force: "2019-09-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042559/2023-01-01/0"
+intitule_bron: "Stcrt.2019-51924"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-09-13"
+intitule_published: "2019-09-20"
+intitule_in_force: "2019-09-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-51924"
+original_signed_date: "2019-09-13"
+original_published_date: "2019-09-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-51924"
+entry_into_force_date: "2019-09-21"
+jci_1_3: "jci1.3:c:BWBR0042559&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0042559&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling gegevensverstrekking ACM 2019"
+signed_date: "2019-09-13"
+entry_into_force: "2019-09-21"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 13 september 2019, nr. WJZ/ 18250526, houdende regels omtrent het verstrekken van gegevens en inlichtingen door de Autoriteit Consument en Markt en het intrekken van de Regeling gegevensverstrekking ACM (Regeling gegevensverstrekking ACM 2019)
 
 Gelet op [artikel 7, derde lid, onderdeel a, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=7);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Autoriteit Consument en Markt is bevoegd om aan de volgende bestuursorganen, diensten en toezichthouders gegevens en inlichtingen te verstrekken voor zover dat noodzakelijk is voor de goede vervulling van hun taak:
 
@@ -64,15 +90,15 @@ Besluit:
 
 2. De Autoriteit Consument en Markt is bevoegd om aan personen of colleges, werkzaam onder de verantwoordelijkheid van de Minister van Economische Zaken en Klimaat of de Minister van Infrastructuur en Waterstaat, gegevens en inlichtingen te verstrekken voor zover dat noodzakelijk is voor de goede uitoefening van de aan hen bij wettelijk voorschrift toegedeelde bevoegdheid tot het nemen van besluiten of tot het verrichten van andere handelingen dan besluiten.
 
-#### Artikel 2
+##### Artikel 2
 
 De [Regeling gegevensverstrekking ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0033082) wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling gegevensverstrekking ACM 2019.
 

@@ -1,74 +1,100 @@
 ---
-title: "Wijzigingsregeling enige fiscale uitvoeringsregelingen en invoering regeling toepassing art. 122ca Wet financiering sociale verzekeringen"
+title: "Wijziging van enige fiscale uitvoeringsregelingen alsmede invoering van een regeling voor de toepassing van artikel 122ca van de Wet financiering sociale verzekeringen"
 identifier: "BWBR0035232"
-categorie: "Sociaal recht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035232"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035232"
+soort: "ministeriele-regeling"
+stam_id: "12699763"
+version_id: "21473242"
+internal_id: "C30836491"
+label_id: "12669824"
+dtd_version: "2.0"
+original_entry_into_force: "2014-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035232/2015-01-01/0"
+intitule_bron: "Stcrt.2014-17396"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-06-17"
+intitule_published: "2014-06-24"
+intitule_in_force: "2014-06-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-17396"
+original_signed_date: "2014-06-17"
+original_published_date: "2014-06-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-17396"
+entry_into_force_date: "2014-07-01"
+jci_1_3: "jci1.3:c:BWBR0035232&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0035232&g=2015-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling enige fiscale uitvoeringsregelingen en invoering regeling toepassing art. 122ca Wet financiering sociale verzekeringen"
+signed_date: "2014-06-17"
+entry_into_force: "2014-07-01"
 ---
-
 # Wijziging van enige fiscale uitvoeringsregelingen alsmede invoering van een regeling voor de toepassing van artikel 122ca van de Wet financiering sociale verzekeringen
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Regeling gegevensuitvraag loonaangifte.
 
-#### Artikel V
+##### Artikel V
 
 Voor de toepassing van [artikel 122ca, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=122ca) wordt niet in aanmerking genomen de door het Uitvoeringsinstituut werknemersverzekeringen aangegeven basispremie, bedoeld in [artikel 34, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=34), die het Uitvoeringsinstituut werknemersverzekeringen is verschuldigd over op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008), de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) verstrekte uitkeringen.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Uitvoeringsregeling motorrijtuigenbelasting 1994.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Uitvoeringsregeling energie-investeringsaftrek 2001.
 
-#### Artikel XV
+##### Artikel XV
 
 1. Deze regeling treedt in werking met ingang van 1 juli 2014.
 

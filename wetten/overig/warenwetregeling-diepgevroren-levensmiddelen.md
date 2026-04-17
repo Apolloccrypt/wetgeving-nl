@@ -1,13 +1,37 @@
 ---
 title: "Warenwetregeling Diepgevroren levensmiddelen"
 identifier: "BWBR0005825"
-categorie: "Overig"
-publicatiedatum: 2020-07-01
-laatste_update: 2020-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005825"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-07-01"
+last_updated: "2020-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005825"
+soort: "ministeriele-regeling"
+stam_id: "4969923"
+version_id: "8630842"
+internal_id: "C11174511"
+label_id: "4946914"
+dtd_version: "2.0"
+original_entry_into_force: "1993-01-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005825/2020-07-01/0"
+intitule_bron: "Stcrt.1993-2"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-01-04"
+intitule_published: "1993-01-05"
+intitule_in_force: "1993-01-05"
+intitule_status: "goed"
+original_publication: "Stcrt.1993-2"
+original_signed_date: "1993-01-04"
+original_published_date: "1993-01-05"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-01-10"
+jci_1_3: "jci1.3:c:BWBR0005825&z=2020-07-01&g=2020-07-01"
+jci_1_0: "1.0:c:BWBR0005825&g=2020-07-01"
+citeertitel_status: "officieel"
+signed_date: "1993-01-04"
+entry_into_force: "1993-01-10"
 ---
-
 # Warenwetregeling Diepgevroren levensmiddelen
 
 handelende in overeenstemming met de Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
@@ -18,7 +42,7 @@ Gezien de adviezen van de Adviescommissie [Warenwet](https://wetten.overheid.nl/
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,17 +56,17 @@ In deze regeling wordt verstaan onder:
 
 - e. **verordening (EU) 1169/2011:** Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van [Verordeningen (EG) nr. 1924/2006](32006R1924) en [(EG) nr. 1925/2006](32006R1925) van het Europees Parlement en de Raad en tot intrekking van [Richtlijn 87/250/EEG](31987L0250) van de Commissie, [Richtlijn 90/496/EEG](31990L0496) van de Raad, [Richtlijn 1999/10/EG](31999L0010) van de Commissie, [Richtlijn 2000/13/EG](32000L0013) van het Europees Parlement en de Raad, [Richtlijnen 2002/67/EG](32002L0067) en [2008/5/EG](32008L0005) van de Commissie, en [Verordening (EG) nr. 608/2004](32004R0608) van de Commissie (PbEU 2011, L 304).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Grondstoffen, welke voor de bereiding van diepgevroren levensmiddelen worden gebruikt, zijn van een gezonde handelskwaliteit en voldoende vers.
 
 2. De bereiding van diep te vriezen eet- of drinkwaren en het diepvriezen geschieden zonder uitstel met behulp van een passende technische uitrusting zodat chemische, biochemische en microbiologische veranderingen zoveel mogelijk worden beperkt.
 
-#### Artikel 3
+##### Artikel 3
 
 Als koelmiddelen die rechtstreeks in contact komen met diepgevroren levensmiddelen, mogen uitsluitend worden gebruikt: lucht, stikstof en koolzuur.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De temperatuur van diepgevroren levensmiddelen wordt tijdens de verhandeling overal in het produkt op ten hoogste –18 °C gehandhaafd. Zij blijft tevens stabiel.
 
@@ -52,11 +76,11 @@ Als koelmiddelen die rechtstreeks in contact komen met diepgevroren levensmiddel
 
 - b. is een tolerantie van ten hoogste 3°C toegestaan met betrekking tot de temperatuur van diepgevroren levensmiddelen tijdens de plaatselijke distributie en in winkelmeubelen voor de verkoop aan de eindverbruiker, bij behoorlijke bewarings- en distributiepraktijken.
 
-#### Artikel 5
+##### Artikel 5
 
 Diepgevroren levensmiddelen, bestemd voor aflevering aan de eindverbruiker, worden door de fabrikant of verpakker op zodanige wijze verpakt dat de waar beschermd wordt tegen uitdroging en besmetting.
 
-#### Artikel 6
+##### Artikel 6
 
 Onverminderd verordening (EU) 1169/2011 worden bij de verhandeling van diepgevroren levensmiddelen aan de eindverbruiker of aan instellingen gebezigd:
 
@@ -66,7 +90,7 @@ Onverminderd verordening (EU) 1169/2011 worden bij de verhandeling van diepgevro
 
 - c. de vermelding ‘na ontdooiing niet opnieuw invriezen’.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien diepgevroren levensmiddelen als zodanig niet zijn bestemd voor de eindverbruiker of instellingen, worden bij de verhandeling gebezigd:
 
@@ -76,21 +100,21 @@ Onverminderd verordening (EU) 1169/2011 worden bij de verhandeling van diepgevro
 
 2. De in het eerste lid bedoelde benaming en vermeldingen worden aangebracht op de verpakking of het omhulsel waarin de waar wordt aangeboden, of op een hierop aangebracht etiket.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 1. De voor de officiële controle van de temperatuur van diepgevroren levensmiddelen benodigde analysemethode wordt uitgevoerd in overeenstemming met de bijlage.
 
 2. De in het eerste lid bedoelde analysemethode mag uitsluitend worden gebruikt wanneer na inspectie het vermoeden bestaat dat de drempelwaarden voor de temperatuur, zoals deze zijn vastgelegd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2020-07-01&g=2020-07-01), worden overschreden.
 
-#### Artikel 10
+##### Artikel 10
 
 Onverminderd [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=9&z=2020-07-01&g=2020-07-01), mogen voor de daar bedoelde controle ook andere wetenschappelijk-adequate methoden worden gebruikt, onder de voorwaarde dat het vrije verkeer van diepgevroren levensmiddelen, waarvan aan de hand van de in de bijlage van deze regeling beschreven methode is aangetoond dat zij aan de desbetreffende voorschriften voldoen, hierdoor niet wordt belemmerd. Wanneer de resultaten verschillen, geven de resultaten die met behulp van de in de bijlage bedoelde analysemethode zijn verkregen, de doorslag.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Deze regeling treedt in werking met ingang van 10 januari 1993.
 
@@ -98,7 +122,7 @@ Onverminderd [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 3. [Artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2020-07-01&g=2020-07-01), vervalt met ingang van 10 januari 1997.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Warenwetregeling Diepgevroren levensmiddelen.
 
@@ -106,23 +130,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage. Analysemethode voor meting van de temperatuur van diepgevroren levensmiddelen
 
-#### 1. Toepassingsgebied
+##### 1. Toepassingsgebied
 
 De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2020-07-01&g=2020-07-01) voorgeschreven temperaturen van diepgevroren levensmiddelen.
 
-#### 2. Principe
+##### 2. Principe
 
 Meting van de temperatuur van diepgevroren levensmiddelen bestaat uit een registratie van de temperatuur van een in overeenstemming met de [Warenwetregeling Monsterneming](https://wetten.overheid.nl/jci1.3:c:BWBR0004529) genomen monster met behulp van adequate apparatuur.
 
-#### 3. Definitie van temperatuur
+##### 3. Definitie van temperatuur
 
 Onder ‘temperatuur’ wordt verstaan de temperatuur die wordt gemeten op de plaats van het temperatuurgevoelige onderdeel van het meetinstrument of de meetapparatuur.
 
-#### 4. Apparatuur
+##### 4. Apparatuur
 
 Er wordt gebruik gemaakt van een gepunt metalen instrument, zoals een ijspriem, een handboor of een fretboor, dat gemakkelijk is schoon te maken.
 
-#### 5. Algemene specificatie voor de instrumenten voor temperatuurmeting
+##### 5. Algemene specificatie voor de instrumenten voor temperatuurmeting
 
 De meetinstrumenten voldoen aan de volgende specificaties:
 
@@ -144,7 +168,7 @@ De meetinstrumenten voldoen aan de volgende specificaties:
 
 - i). de elektrische apparatuur wordt beschermd tegen ongewenste effecten ten gevolge van de condensatie van vocht.
 
-#### 6. Werkwijze
+##### 6. Werkwijze
 
 Alvorens de temperatuur van het produkt te meten, worden het warmtegevoelige element en het instrument om een holte in het produkt te maken voorgekoeld.
 

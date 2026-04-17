@@ -1,13 +1,36 @@
 ---
-title: "Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens"
+title: "Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens (met Bijlage)"
 identifier: "BWBV0007038"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2025-03-01
-laatste_update: 2025-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007038"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-03-01"
+last_updated: "2025-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007038"
+soort: "verdrag"
+stam_id: "10005652213"
+version_id: "10006226792"
+internal_id: "C10010183171"
+label_id: "10005634364"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007038/2025-03-01/0"
+intitule_bron: "Trb.2024-30"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-02-29"
+intitule_in_force: "2025-02-28"
+intitule_status: "goed"
+original_publication: "Trb.2024-30"
+original_published_date: "2024-02-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2024-30"
+entry_into_force_date: "2025-03-01"
+jci_1_3: "jci1.3:c:BWBV0007038&z=2025-03-01&g=2025-03-01"
+jci_1_0: "1.0:c:BWBV0007038&g=2025-03-01"
+citeertitel_status: "redactioneel"
+short_title: "Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens"
+entry_into_force: "2025-03-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens (met Bijlage)
 
 Het Koninkrijk der Nederlanden
@@ -22,13 +45,13 @@ Geleid door de wens de wederzijdse beveiliging van gerubriceerde gegevens te waa
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doel en reikwijdte
+##### Artikel 1. Doel en reikwijdte
 
 1. Dit Verdrag heeft ten doel de beveiliging te waarborgen van gerubriceerde gegevens die worden uitgewisseld tussen de partijen of tussen rechtspersonen of natuurlijke personen onder hun rechtsmacht, of die worden gegenereerd in het kader van een bilateraal programma uit hoofde van dit Verdrag. In het Verdrag worden de beveiligingsprocedures en regelingen voor deze beveiliging vastgelegd.
 
 2. Dit Verdrag vormt geen basis om de partijen ertoe te verplichten gerubriceerde gegevens te verstrekken of uit te wisselen.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -58,13 +81,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - m. „Derde”, elke internationale organisatie of staat, met inbegrip van rechtspersonen of natuurlijke personen onder zijn rechtsmacht, die geen partij is bij dit Verdrag.
 
-#### Artikel 3. Bevoegde beveiligingsautoriteiten
+##### Artikel 3. Bevoegde beveiligingsautoriteiten
 
 1. De bevoegde beveiligingsautoriteiten van de partijen staan vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0007038&bijlage=I&z=2025-03-01&g=2025-03-01) bij dit Verdrag.
 
 2. De bevoegde beveiligingsautoriteiten voorzien elkaar van de officiële contactgegevens.
 
-#### Artikel 4. Rubriceringsmarkeringen
+##### Artikel 4. Rubriceringsmarkeringen
 
 1. De volgende rubriceringsmarkeringen van de partijen komen overeen en corresponderen met de rubriceringsniveaus die in hun nationale wetgeving staan vermeld. Het Engelse equivalent is een niet-officiële vertaling, die geen deel uitmaakt van de nationale wet- en regelgeving van de partijen en niet gebruikt dient te worden om gerubriceerde gegevens aan te duiden.
 
@@ -79,11 +102,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. De ontvangende partij mag de rubriceringsmarkering van uit hoofde van dit Verdrag ontvangen gerubriceerde gegevens uitsluitend veranderen of schrappen na schriftelijke goedkeuring van de verstrekkende partij.
 
-#### Artikel 5. Toegang tot gerubriceerde gegevens
+##### Artikel 5. Toegang tot gerubriceerde gegevens
 
 Toegang tot gerubriceerde gegevens wordt uitsluitend verleend aan de natuurlijke personen die van de gegevens op de hoogte moeten zijn (need to know) en die gemachtigd zijn toegang te hebben tot dergelijke gegevens op grond van de wetgeving van de staat van de ontvangende partij.
 
-#### Artikel 6. Beveiligingsmaatregelen
+##### Artikel 6. Beveiligingsmaatregelen
 
 1. De partijen nemen alle passende maatregelen die krachtens hun nationale wet- en regelgeving van toepassing zijn op de uit hoofde van dit Verdrag verstrekte gerubriceerde gegevens.
 
@@ -107,7 +130,7 @@ Toegang tot gerubriceerde gegevens wordt uitsluitend verleend aan de natuurlijke
 
 - e. gerubriceerde gegevens uitsluitend worden gebruikt voor het doel waarvoor zij zijn vrijgegeven en in overeenstemming met de eisen voor gebruik van de partij van herkomst.
 
-#### Artikel 7. Beveiligingssamenwerking
+##### Artikel 7. Beveiligingssamenwerking
 
 1. Teneinde vergelijkbare beveiligingsnormen te handhaven, verstrekken de bevoegde beveiligingsautoriteiten elkaar op verzoek informatie over hun beveiligingsvoorschriften, -beleid en -praktijken met betrekking tot de beveiliging van gerubriceerde gegevens.
 
@@ -119,7 +142,7 @@ Toegang tot gerubriceerde gegevens wordt uitsluitend verleend aan de natuurlijke
 
 5. De communicatie in verband met samenwerking uit hoofde van dit Verdrag vindt plaats in de Engelse taal.
 
-#### Artikel 8. Gerubriceerde contracten
+##### Artikel 8. Gerubriceerde contracten
 
 1. Indien een partij of een opdrachtnemer onder haar rechtsmacht voorstelt een gerubriceerd contract met een veiligheidsmarkering die overeenkomt met „CONFIDENTIAL” en/of „SECRET”, zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007038&artikel=4&z=2025-03-01&g=2025-03-01) van dit Verdrag, te sluiten met een (onder)opdrachtnemer onder de rechtsmacht van de andere partij, dient zij eerst de schriftelijke bevestiging te verkrijgen van de andere partij dat aan deze opdrachtnemer een veiligheidsmachtiging bedrijfslocatie en/of veiligheidsmachtiging(en) personeel is/zijn toegekend op het juiste rubriceringsniveau. Voor gerubriceerde contracten met het rubriceringsniveau dat overeenkomt met „RESTRICTED” zoals vermeld in artikel 4 van dit Verdrag, kan een veiligheidsmachtiging bedrijfslocatie vereist zijn indien dit verplicht wordt gesteld in de nationale wet- en regelgeving van de opdrachtnemer.
 
@@ -155,13 +178,13 @@ Toegang tot gerubriceerde gegevens wordt uitsluitend verleend aan de natuurlijke
 
 6. De procedure voor de goedkeuring van bezoeken die samenhangen met activiteiten onder een gerubriceerd contract door personeel van de ene partij aan de andere partij, dient in overeenstemming met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0007038&artikel=11&z=2025-03-01&g=2025-03-01) van dit Verdrag te zijn.
 
-#### Artikel 9. Overbrenging van gerubriceerde gegevens
+##### Artikel 9. Overbrenging van gerubriceerde gegevens
 
 1. Gerubriceerde gegevens worden overgebracht in overeenstemming met de nationale wet- en regelgeving van de verstrekkende partij of zoals anderszins overeengekomen tussen de bevoegde beveiligingsautoriteiten.
 
 2. De partijen kunnen gerubriceerde gegevens die door encryptie beveiligd zijn langs elektronische weg overbrengen in overeenstemming met procedures die door de bevoegde beveiligingsautoriteiten wederzijds dienen te worden goedgekeurd.
 
-#### Artikel 10. Reproductie, vertaling en vernietiging van gerubriceerde gegevens
+##### Artikel 10. Reproductie, vertaling en vernietiging van gerubriceerde gegevens
 
 1. Reproducties en vertalingen van gerubriceerde gegevens krijgen dezelfde rubriceringsmarkering en beveiliging als de oorspronkelijke gerubriceerde gegevens.
 
@@ -177,7 +200,7 @@ Toegang tot gerubriceerde gegevens wordt uitsluitend verleend aan de natuurlijke
 
 7. Indien een crisissituatie het onmogelijk maakt de beveiliging van uit hoofde van dit Verdrag verstrekte gegevens te waarborgen, dienen de gerubriceerde gegevens onmiddellijk op zodanige wijze vernietigd te worden dat deze gerubriceerde gegevens niet langer toegankelijk zijn. De ontvangende partij stelt de bevoegde beveiligingsautoriteit van de verstrekkende partij onverwijld in kennis van de vernietiging van deze gerubriceerde gegevens.
 
-#### Artikel 11. Bezoeken
+##### Artikel 11. Bezoeken
 
 1. Bezoeken waarbij toegang tot gerubriceerde gegevens vereist is, dienen vooraf schriftelijk te worden goedgekeurd door de respectieve bevoegde beveiligingsautoriteit, tenzij anderszins overeengekomen door de bevoegde beveiligingsautoriteiten.
 
@@ -203,7 +226,7 @@ Toegang tot gerubriceerde gegevens wordt uitsluitend verleend aan de natuurlijke
 
 5. Gerubriceerde gegevens die aan een bezoeker worden verstrekt of door deze worden verkregen, worden behandeld in overeenstemming met de bepalingen van dit Verdrag.
 
-#### Artikel 12. Inbreuk op de beveiliging
+##### Artikel 12. Inbreuk op de beveiliging
 
 1. De bevoegde beveiligingsautoriteiten stellen elkaar onverwijld schriftelijk in kennis van feitelijke of vermoedelijke inbreuken op de veiligheid waarbij gerubriceerde informatie van de andere partij betrokken is.
 
@@ -211,23 +234,23 @@ Toegang tot gerubriceerde gegevens wordt uitsluitend verleend aan de natuurlijke
 
 3. De bevoegde beveiligingsautoriteiten nemen passende maatregelen in overeenstemming met hun nationale wet- en regelgeving, met inbegrip van maatregelen om de gevolgen van het incident te beperken en herhaling van de inbreuk op de veiligheid te voorkomen. De bevoegde beveiligingsautoriteit van de verstrekkende partij wordt in kennis gesteld van de uitkomsten van het onderzoek en de getroffen maatregelen.
 
-#### Artikel 13. Kosten
+##### Artikel 13. Kosten
 
 Elke partij draagt haar eigen kosten die ontstaan in verband met de uitvoering van haar verplichtingen ingevolge dit Verdrag.
 
-#### Artikel 14. Oplossing van geschillen
+##### Artikel 14. Oplossing van geschillen
 
 Elk geschil omtrent de interpretatie of toepassing van dit Verdrag wordt uitsluitend opgelost door middel van onderhandelingen tussen de partijen.
 
-#### Artikel 15. Relatie met andere verdragen
+##### Artikel 15. Relatie met andere verdragen
 
 Dit Verdrag heeft geen voorrang boven elk internationaal verdrag dat reeds is gesloten of nog kan worden gesloten en dat specifiek betrekking heeft op een verrichting waarop dit Verdrag anderszins van toepassing is.
 
-#### Artikel 16. Uitvoeringsregelingen
+##### Artikel 16. Uitvoeringsregelingen
 
 De bevoegde beveiligingsautoriteiten kunnen uitvoeringsregelingen sluiten ingevolge dit Verdrag.
 
-#### Artikel 17. Slotbepalingen
+##### Artikel 17. Slotbepalingen
 
 1. Dit Verdrag wordt gesloten voor onbepaalde tijd. Elke partij stelt de andere partij langs diplomatieke weg in kennis van de voltooiing van de nationale maatregelen die nodig zijn voor de inwerkingtreding van dit Verdrag. Dit Verdrag treedt in werking op de eerste dag van de tweede maand die volgt op de ontvangst van de laatste kennisgeving.
 

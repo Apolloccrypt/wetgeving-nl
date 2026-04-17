@@ -1,13 +1,38 @@
 ---
 title: "Overdrachtsbelasting, vrijstelling, diverse onderwerpen"
 identifier: "BWBR0033636"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-08-29
-laatste_update: 2024-08-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033636"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-08-29"
+last_updated: "2024-08-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033636"
+soort: "beleidsregel"
+stam_id: "12306943"
+version_id: "20625612"
+internal_id: "C29520091"
+label_id: "12278384"
+dtd_version: "2.0"
+original_entry_into_force: "2013-07-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033636/2024-08-29/0"
+intitule_bron: "Stcrt.2013-17978"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-06-21"
+intitule_published: "2013-07-03"
+intitule_in_force: "2013-07-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-17978"
+original_signed_date: "2013-06-21"
+original_published_date: "2013-07-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-17978"
+entry_into_force_date: "2013-07-04"
+jci_1_3: "jci1.3:c:BWBR0033636&z=2024-08-29&g=2024-08-29"
+jci_1_0: "1.0:c:BWBR0033636&g=2024-08-29"
+citeertitel_status: "redactioneel"
+signed_date: "2013-06-21"
+entry_into_force: "2013-07-04"
 ---
-
 # Overdrachtsbelasting, vrijstelling, diverse onderwerpen
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

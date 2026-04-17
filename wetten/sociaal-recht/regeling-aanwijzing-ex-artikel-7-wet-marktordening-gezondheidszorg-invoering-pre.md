@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (invoering prestatiebekostiging geneeskundige geestelijke gezondheidszorg)"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 11 juli 2012, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering prestatiebekostiging geneeskundige geestelijke gezondheidszorg"
 identifier: "BWBR0031811"
-categorie: "Sociaal recht"
-publicatiedatum: 2012-09-01
-laatste_update: 2012-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031811"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-09-01"
+last_updated: "2012-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031811"
+soort: "ministeriele-regeling"
+stam_id: "11798823"
+version_id: "19539492"
+internal_id: "C27460991"
+label_id: "11771114"
+dtd_version: "2.0"
+original_entry_into_force: "2012-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031811/2012-09-01/0"
+intitule_bron: "Stcrt.2012-14824"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-07-11"
+intitule_published: "2012-07-19"
+intitule_in_force: "2012-07-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-14824"
+original_signed_date: "2012-07-11"
+original_published_date: "2012-07-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-14824"
+entry_into_force_date: "2012-09-01"
+jci_1_3: "jci1.3:c:BWBR0031811&z=2012-09-01&g=2012-09-01"
+jci_1_0: "1.0:c:BWBR0031811&g=2012-09-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (invoering prestatiebekostiging geneeskundige geestelijke gezondheidszorg)"
+signed_date: "2012-07-11"
+entry_into_force: "2012-09-01"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 11 juli 2012, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering prestatiebekostiging geneeskundige geestelijke gezondheidszorg
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -26,7 +52,7 @@ Regeling ook gepubliceerd in Stcrt. 2012/15569.
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -50,29 +76,29 @@ In deze aanwijzing wordt verstaan onder:
 
 - j. **zorg:** zorg als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031811&hoofdstuk=I&artikel=2&z=2012-09-01&g=2012-09-01).
 
-#### Artikel 2. werkingssfeer
+##### Artikel 2. werkingssfeer
 
 Deze aanwijzing is van toepassing op de geneeskundige geestelijke gezondheidszorg. Van deze aanwijzing is uitgezonderd zorg waarvoor vrije tarieven gelden als bedoeld in [artikel 50, eerste lid, aanhef en onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
-#### Artikel 3. uitvoering van de aanwijzing
+##### Artikel 3. uitvoering van de aanwijzing
 
 Ter uitvoering van deze aanwijzing stelt de zorgautoriteit tijdig vóór 1 januari 2013 regels en beleidsregels vast.
 
 ### Hoofdstuk II. Prestatiebekostiging
 
-#### Artikel 4. tarieven en prestaties
+##### Artikel 4. tarieven en prestaties
 
 1. De zorgautoriteit stelt met ingang van 1 januari 2013 voor zorg maximumtarieven als bedoeld in [artikel 50, eerste lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) vast, waarbij zij de maximumtarieven voor het geval van een overeenkomst tussen een zorgaanbieder en zorgverzekeraar 10% hoger vaststelt dan zonder dergelijke overeenkomst.
 
 2. De zorgautoriteit stelt met ingang van 1 januari 2013 voor dbc’s van 18.000 minuten en langer hogere tarieven vast dan die gelden voor dbc’s met dezelfde diagnose van 12.000 tot en met 17.999 minuten.
 
-#### Artikel 5. overgang geopende dbc’s
+##### Artikel 5. overgang geopende dbc’s
 
 Voor prestaties die zijn omschreven als diagnose behandeling combinaties en die zijn geopend vóór aanvang van het jaar 2013 blijven de prestatiebeschrijvingen en tarieven van toepassing zoals die luidden op het moment van openen van de dbc.
 
 ### Hoofdstuk III. Transitiemodel
 
-#### Artikel 6. grens
+##### Artikel 6. grens
 
 1. De zorgautoriteit stelt voor gebudgetteerde instellingen voor het jaar 2013 ambtshalve een vaste grens als bedoeld in [artikel 50, tweede lid, aanhef en onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) vast voor de som van de tarieven voor zorg.
 
@@ -82,7 +108,7 @@ Voor prestaties die zijn omschreven als diagnose behandeling combinaties en die 
 
 - b. het verrekenbedrag.
 
-#### Artikel 7. transitiebedrag
+##### Artikel 7. transitiebedrag
 
 1. De zorgautoriteit stelt voor de overgang van budgettering naar prestatiebekostiging eenmalig een transitiebedrag vast per gebudgetteerde instelling op basis van de productieafspraken 2013 die vóór 1 januari 2013 bij de zorgautoriteit zijn ingediend dan wel op een nader door de zorgautoriteit te bepalen tijdstip.
 
@@ -92,7 +118,7 @@ Voor prestaties die zijn omschreven als diagnose behandeling combinaties en die 
 
 - b. de som van de dbc-tarieven die met betrekking tot die zorg voor het jaar 2013 zijn overeengekomen tussen gebudgetteerde instelling en zorgverzekeraars met toepassing van de beleidsregels die gelden in het jaar 2013.
 
-#### Artikel 8. verrekenbedrag
+##### Artikel 8. verrekenbedrag
 
 1. De zorgautoriteit stelt per gebudgetteerde instelling voor het jaar 2013 een verrekenbedrag vast.
 
@@ -100,7 +126,7 @@ Voor prestaties die zijn omschreven als diagnose behandeling combinaties en die 
 
 3. De verrekenfactor voor het jaar 2013 is vastgesteld op 0,7, met dien verstande dat de verrekenfactor voor gespecialiseerde instellingen is vastgesteld op 0,95.
 
-#### Artikel 9. afwikkeling transitie via beschikbaarheidbijdrage en afdracht aan het Zorgverzekeringsfonds
+##### Artikel 9. afwikkeling transitie via beschikbaarheidbijdrage en afdracht aan het Zorgverzekeringsfonds
 
 1. In geval de vaststelling van het verrekenbedrag als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031811&hoofdstuk=III&artikel=8&z=2012-09-01&g=2012-09-01) door de zorgautoriteit leidt tot een positief bedrag voor de desbetreffende instelling kent de zorgautoriteit een beschikbaarheidbijdrage toe.
 
@@ -108,7 +134,7 @@ Voor prestaties die zijn omschreven als diagnose behandeling combinaties en die 
 
 ### Hoofdstuk IV. Beschikbaarheidbijdrage
 
-#### Artikel 10. beschikbaarheidbijdrage transitie
+##### Artikel 10. beschikbaarheidbijdrage transitie
 
 1. Voor zorg die is aangewezen in onderdeel B, nummer 12, van de bijlage behorende bij de artikelen 2 en 4 van het Besluit beschikbaarheidbijdrage WMG, kent de zorgautoriteit een beschikbaarheidbijdrage toe in de vorm van compensatie voor diensten van algemeen economisch belang.
 
@@ -118,7 +144,7 @@ Voor prestaties die zijn omschreven als diagnose behandeling combinaties en die 
 
 4. De verlening van de beschikbaarheidbijdrage geschiedt op aanvraag van een zorgaanbieder. De zorgautoriteit voorziet daarbij in de verlening van voorschotten vanaf het moment van de aanvraag, met dien verstande dat de bevoorschotting is gemaximeerd op 15% van het budget 2012.
 
-#### Artikel 11. beschikbaarheidbijdrage gespecialiseerde psychotraumazorg aan specifieke doelgroepen en zorg aan Joodse oorlogsslachtoffers
+##### Artikel 11. beschikbaarheidbijdrage gespecialiseerde psychotraumazorg aan specifieke doelgroepen en zorg aan Joodse oorlogsslachtoffers
 
 1. Voor zorg die is aangewezen in onderdeel B, nummers 10 en 11, van de bijlage behorende bij de artikelen 2 en 4 van het Besluit beschikbaarheidbijdrage WMG, kent de zorgautoriteit een beschikbaarheidbijdrage toe in de vorm van compensatie voor diensten van algemeen economisch belang.
 

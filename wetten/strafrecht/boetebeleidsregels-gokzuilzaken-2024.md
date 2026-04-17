@@ -1,13 +1,38 @@
 ---
 title: "Boetebeleidsregels gokzuilzaken 2024"
 identifier: "BWBR0049894"
-categorie: "Strafrecht"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049894"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049894"
+soort: "zbo"
+stam_id: "17150233"
+version_id: "30185992"
+internal_id: "C43248001"
+label_id: "17058424"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049894/2024-07-01/0"
+intitule_bron: "Stcrt.2024-20743"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-18"
+intitule_published: "2024-06-28"
+intitule_in_force: "2024-06-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-20743"
+original_signed_date: "2024-06-18"
+original_published_date: "2024-06-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-20743"
+entry_into_force_date: "2024-07-01"
+jci_1_3: "jci1.3:c:BWBR0049894&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0049894&g=2024-07-01"
+citeertitel_status: "officieel"
+signed_date: "2024-06-18"
+entry_into_force: "2024-07-01"
 ---
-
 # Boetebeleidsregels gokzuilzaken 2024
 
 ### 1. Inleiding

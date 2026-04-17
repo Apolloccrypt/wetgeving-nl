@@ -1,20 +1,46 @@
 ---
-title: "Besluit UWV Onderzoekssubsidie ’Niet-uitkeringsgerechtigden met een arbeidsbeperking’"
+title: "Besluit UWV Onderzoekssubsidie ‘Niet-uitkeringsgerechtigden met een arbeidsbeperking’"
 identifier: "BWBR0048581"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2023-08-31
-laatste_update: 2023-08-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048581"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-08-31"
+last_updated: "2023-08-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048581"
+soort: "zbo"
+stam_id: "16845153"
+version_id: "29595942"
+internal_id: "C42333501"
+label_id: "16757534"
+dtd_version: "2.0"
+original_entry_into_force: "2023-08-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048581/2023-08-31/0"
+intitule_bron: "Stcrt.2023-23750"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-07-18"
+intitule_published: "2023-08-30"
+intitule_in_force: "2023-08-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-23750"
+original_signed_date: "2023-07-18"
+original_published_date: "2023-08-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-23750"
+entry_into_force_date: "2023-08-31"
+jci_1_3: "jci1.3:c:BWBR0048581&z=2023-08-31&g=2023-08-31"
+jci_1_0: "1.0:c:BWBR0048581&g=2023-08-31"
+citeertitel_status: "officieel"
+short_title: "Besluit UWV Onderzoekssubsidie ’Niet-uitkeringsgerechtigden met een arbeidsbeperking’"
+signed_date: "2023-07-18"
+entry_into_force: "2023-08-31"
 ---
-
 # Besluit UWV Onderzoekssubsidie ‘Niet-uitkeringsgerechtigden met een arbeidsbeperking’
 
 Gelet op de [Beleidsregels UWV Onderzoekssubsidies 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0047125);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen (UWV) stelt als subsidiethema vast: ‘Niet-uitkeringsgerechtigden met een arbeidsbeperking’, zoals nader uitgewerkt in de bijlage bij dit besluit.
 
@@ -24,19 +50,19 @@ Besluit:
 
 4. Verleende subsidie zal ten laste komen van het Arbeidsongeschiktheidsfonds of het Arbeidsondersteuningsfonds Jonggehandicapten.
 
-#### Artikel 2
+##### Artikel 2
 
 Beknopte subsidieaanvragen kunnen van 31 augustus 2023 tot uiterlijk 6 oktober 2023 12.00 uur worden ingediend. Aangevulde aanvragen kunnen van 26 oktober 2023 tot uiterlijk 20 november 2023 12.00 uur worden ingediend.
 
-#### Artikel 3
+##### Artikel 3
 
 De eisen die UWV stelt aan de subsidieaanvragen en de wijze waarop UWV de subsidieaanvragen beoordeelt zijn beschreven in de ‘[Beleidsregels UWV Onderzoekssubsidies 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0047125)’ (Stct 2022 – nr. 23757, 09-09-2022) en in de startnotitie die beschikbaar wordt gesteld via UWV Markplaats.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit UWV Onderzoekssubsidie ’Niet-uitkeringsgerechtigden met een arbeidsbeperking’.
 

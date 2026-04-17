@@ -1,13 +1,39 @@
 ---
-title: "Besluit toepassingsbereik sensitieve technologie"
+title: "Besluit van 4 mei 2023 tot het nader bepalen van het toepassingsbereik van de Wet veiligheidstoets investeringen, fusies en overnames op het gebied van sensitieve technologie (Besluit toepassingsbereik sensitieve technologie)"
 identifier: "BWBR0048201"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-06-01
-laatste_update: 2023-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048201"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-06-01"
+last_updated: "2023-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048201"
+soort: "AMvB"
+stam_id: "16754473"
+version_id: "29424182"
+internal_id: "C42076511"
+label_id: "16670474"
+dtd_version: "2.0"
+original_entry_into_force: "2023-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048201/2023-06-01/0"
+intitule_bron: "Stb.2023-172"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-05-04"
+intitule_published: "2023-05-31"
+intitule_in_force: "2023-05-31"
+intitule_status: "goed"
+original_publication: "Stb.2023-172"
+original_signed_date: "2023-05-04"
+original_published_date: "2023-05-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2023-172"
+entry_into_force_date: "2023-06-01"
+jci_1_3: "jci1.3:c:BWBR0048201&z=2023-06-01&g=2023-06-01"
+jci_1_0: "1.0:c:BWBR0048201&g=2023-06-01"
+citeertitel_status: "officieel"
+short_title: "Besluit toepassingsbereik sensitieve technologie"
+signed_date: "2023-05-04"
+entry_into_force: "2023-06-01"
 ---
-
 # Besluit van 4 mei 2023 tot het nader bepalen van het toepassingsbereik van de Wet veiligheidstoets investeringen, fusies en overnames op het gebied van sensitieve technologie (Besluit toepassingsbereik sensitieve technologie)
 
 Op de voordracht van Onze Minister van Economische Zaken en Klimaat van 28 december 2022, nr. WJZ/ 22886674, gedaan mede namens Onze Minister van Justitie en Veiligheid;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -48,17 +74,17 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Uitgezonderde en toegevoegde sensitieve technologieën
 
-#### Artikel 2
+##### Artikel 2
 
 Van de producten voor tweeërlei gebruik zijn als sensitieve technologie uitgezonderd de producten voor tweeërlei gebruik waarnaar in de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048201&bijlage=1&z=2023-06-01&g=2023-06-01), van dit besluit wordt verwezen door middel van verwijzingscodes.
 
-#### Artikel 3
+##### Artikel 3
 
 In aanvulling op de producten voor tweeërlei gebruik die niet krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048201&paragraaf=2&artikel=2&z=2023-06-01&g=2023-06-01) als sensitieve technologie zijn uitgezonderd en de militaire goederen, zijn de in de tabel in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048201&bijlage=2&z=2023-06-01&g=2023-06-01) omschreven technologieën sensitieve technologieën.
 
 #### § 3. Sensitieve technologieën en significante invloed
 
-#### Artikel 4
+##### Artikel 4
 
 1. Als doelondernemingen in de zin van [artikel 4, derde lid, van de Wet Veiligheidstoets investeringen, fusies en overnames](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=4), worden aangewezen ondernemingen die gelet op de aard van hun activiteiten actief zijn op het gebied van een zeer sensitieve technologie. In die ondernemingen wordt significante invloed verkregen of vergroot, in de gevallen, bedoeld in [artikel 4, eerste lid, onderdelen a tot en met e, van de Wet veiligheidstoets investeringen, fusies en overnames](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=4).
 
@@ -66,15 +92,15 @@ In aanvulling op de producten voor tweeërlei gebruik die niet krachtens [artike
 
 #### § 4. Slotbepalingen
 
-#### Artikel 5
+##### Artikel 5
 
 Onze Minister zendt vijf jaar na de inwerkingtreding van dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit toepassingsbereik sensitieve technologie.
 

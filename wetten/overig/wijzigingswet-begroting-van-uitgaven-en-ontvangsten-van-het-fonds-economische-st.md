@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet begroting van uitgaven en ontvangsten van het Fonds economische structuurversterking voor het jaar 2001 (wijziging samenhangende met de Voorjaarsnota)"
+title: "Wet van 27 september 2001 tot wijziging van de begroting van de uitgaven en de ontvangsten van het Fonds economische structuurversterking voor het jaar 2001 (wijziging samenhangende met de Voorjaarsnota)"
 identifier: "BWBR0012858"
-categorie: "Overig"
-publicatiedatum: 2001-10-24
-laatste_update: 2001-10-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012858"
+country: "nl"
+rank: "wet"
+publication_date: "2001-10-24"
+last_updated: "2001-10-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012858"
+soort: "wet"
+stam_id: "2926763"
+version_id: "4512902"
+internal_id: "C4512901"
+label_id: "2876164"
+dtd_version: "2.0"
+original_entry_into_force: "2001-10-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012858/2001-10-24/0"
+intitule_bron: "Stb.2001-473"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-09-27"
+intitule_published: "2001-10-23"
+intitule_in_force: "2001-10-23"
+intitule_status: "goed"
+original_publication: "Stb.2001-473"
+original_signed_date: "2001-09-27"
+original_published_date: "2001-10-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "27767"
+original_url_id: "stb-2001-473"
+entry_into_force_date: "2001-10-24"
+entry_into_force_dossier: "27767"
+jci_1_3: "jci1.3:c:BWBR0012858&z=2001-10-24&g=2001-10-24"
+jci_1_0: "1.0:c:BWBR0012858&g=2001-10-24"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet begroting van uitgaven en ontvangsten van het Fonds economische structuurversterking voor het jaar 2001 (wijziging samenhangende met de Voorjaarsnota)"
+signed_date: "2001-09-27"
+entry_into_force: "2001-10-24"
 ---
-
-# Wijzigingswet begroting van uitgaven en ontvangsten van het Fonds economische structuurversterking voor het jaar 2001 (wijziging samenhangende met de Voorjaarsnota)
+# Wet van 27 september 2001 tot wijziging van de begroting van de uitgaven en de ontvangsten van het Fonds economische structuurversterking voor het jaar 2001 (wijziging samenhangende met de Voorjaarsnota)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,19 +46,19 @@ Zo is het, dat Wij met gemeen overleg der Staten-Generaal, hebben goedgevonden e
 
 Werkt terug tot en met 1 juni 2001.
 
-#### Artikel 1
+##### Artikel 1
 
 De begroting van de uitgaven van het Fonds economische structuurversterking voor het jaar 2001 wordt gewijzigd, zoals blijkt uit kolom 2 van de bij deze wet behorende begrotingsstaat, onderdeel uitgaven.
 
-#### Artikel 2
+##### Artikel 2
 
 De begroting van de ontvangsten van het Fonds economische structuurversterking voor het jaar 2001 wordt gewijzigd, zoals blijkt uit kolom 2 van de bij deze wet behorende begrotingsstaat, onderdeel ontvangsten.
 
-#### Artikel 3
+##### Artikel 3
 
 In afwijking van het bepaalde in [artikel 2, eerste lid, aanhef en onder b, juncto tweede lid, aanhef en onder c, van de Wet Fonds economische structuurversterking](https://wetten.overheid.nl/jci1.3:c:BWBR0007788&artikel=2), laatstelijk gewijzigd bij de wet van 30 november 2000 (Stb. 2000, 552), worden de opbrengsten van de veiling van UMTS-frequenties in 2000 met ingang van 1 januari 2001 ten gunste van het Fes gebracht via een annuïteit met een looptijd van 15 jaar.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze wet treedt in werking met ingang van 1 juni van het onderhavige begrotingsjaar. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven op of na de datum van 1 juni, dan treedt zij in werking met ingang van de dag na de datum van uitgifte van dat Staatsblad en werkt zij terug tot en met 1 juni van het onderhavige begrotingsjaar.
 

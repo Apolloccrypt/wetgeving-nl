@@ -1,20 +1,46 @@
 ---
-title: "Regeling erkenning EU-beroepskwalificaties cultuurberoepen"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 11 juli 2008, nr. WJZ/32760 (4850), houdende regels in verband met de erkenning van EG-beroepskwalificaties voor cultuurberoepen (Regeling erkenning EG-beroepskwalificaties cultuurberoepen)"
 identifier: "BWBR0024253"
-categorie: "Overig"
-publicatiedatum: 2016-09-09
-laatste_update: 2016-09-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024253"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-09-09"
+last_updated: "2016-09-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024253"
+soort: "ministeriele-regeling"
+stam_id: "9664873"
+version_id: "15598762"
+internal_id: "C21296851"
+label_id: "9641974"
+dtd_version: "2.0"
+original_entry_into_force: "2008-07-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024253/2016-09-09/0"
+intitule_bron: "Stcrt.2008-142"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-07-11"
+intitule_published: "2008-07-25"
+intitule_in_force: "2008-07-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-142"
+original_signed_date: "2008-07-11"
+original_published_date: "2008-07-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-142-p10-SC86805"
+entry_into_force_date: "2008-07-27"
+jci_1_3: "jci1.3:c:BWBR0024253&z=2016-09-09&g=2016-09-09"
+jci_1_0: "1.0:c:BWBR0024253&g=2016-09-09"
+citeertitel_status: "officieel"
+short_title: "Regeling erkenning EU-beroepskwalificaties cultuurberoepen"
+signed_date: "2008-07-11"
+entry_into_force: "2008-07-27"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 11 juli 2008, nr. WJZ/32760 (4850), houdende regels in verband met de erkenning van EG-beroepskwalificaties voor cultuurberoepen (Regeling erkenning EG-beroepskwalificaties cultuurberoepen)
 
 Gelet op de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33) en [36 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=36);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - d. dienstverrichter: dienstverrichter als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21).
 
-#### Artikel 2. Gereglementeerde beroepen in de cultuursector
+##### Artikel 2. Gereglementeerde beroepen in de cultuursector
 
 Deze regeling is van toepassing op:
 
@@ -34,11 +60,11 @@ Deze regeling is van toepassing op:
 
 - b. de verklaring vooraf, bedoeld in [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), van een dienstverrichter die een gereglementeerd beroep als bedoeld onder a wenst uit te oefenen.
 
-#### Artikel 3. Uitvoeringsinstantie
+##### Artikel 3. Uitvoeringsinstantie
 
 Vervallen
 
-#### Artikel 4. Aanvraag erkenning beroepskwalificaties
+##### Artikel 4. Aanvraag erkenning beroepskwalificaties
 
 1. De aanvrager verstrekt aan de Minister bij de aanvraag de volgende documenten, bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13):
 
@@ -58,7 +84,7 @@ Vervallen
 
 2. Bij toepassing van [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) verstrekt de aanvrager de Minister bij de aanvraag een bewijs van kennis, vaardigheden en competenties in het kader van een leven lang leren als bedoeld in artikel 11, derde lid, van de wet.
 
-#### Artikel 5. Proeve van bekwaamheid
+##### Artikel 5. Proeve van bekwaamheid
 
 1. Indien de aanvrager op grond van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) een proeve van bekwaamheid moet afleggen, draagt de Minister ervoor zorg dat:
 
@@ -74,7 +100,7 @@ Vervallen
 
 2. De aanvrager voldoet de kosten van de proeve van bekwaamheid.
 
-#### Artikel 6. Aanpassingsstage
+##### Artikel 6. Aanpassingsstage
 
 1. Indien de aanvrager op grond van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) een aanpassingsstage moet doorlopen, deelt de Minister de aanvrager schriftelijk mede:
 
@@ -94,11 +120,11 @@ Vervallen
 
 6. De leiding van de betrokken organisatie deelt het resultaat van de aanpassingsstage zo spoedig mogelijk en in elk geval binnen een maand na het doorlopen van de aanpassingsstage mee aan de aanvrager en de Minister.
 
-#### Artikel 7. Herkansing
+##### Artikel 7. Herkansing
 
 Indien het resultaat van de proeve van bekwaamheid of de aanpassingsstage onvoldoende is, heeft de aanvrager het recht nogmaals een proeve van bekwaamheid af te leggen of een aanpassingsstage te volbrengen.
 
-#### Artikel 8. Verklaring vooraf
+##### Artikel 8. Verklaring vooraf
 
 Een dienstverrichter verstrekt aan de Minister de volgende documenten, bedoeld in [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23):
 
@@ -112,11 +138,11 @@ Een dienstverrichter verstrekt aan de Minister de volgende documenten, bedoeld i
 
 - e. voor gevallen als bedoeld in [artikel 22, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=22) een bewijs van de daar omschreven beroepservaring.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties cultuurberoepen.
 

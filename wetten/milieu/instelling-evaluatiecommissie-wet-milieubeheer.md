@@ -1,24 +1,48 @@
 ---
 title: "Instelling Evaluatiecommissie Wet milieubeheer"
 identifier: "BWBR0010937"
-categorie: "Milieu"
-publicatiedatum: 2000-02-01
-laatste_update: 2000-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010937"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2000-02-01"
+last_updated: "2000-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010937"
+soort: "ministeriele-regeling"
+stam_id: "3540063"
+version_id: "5323202"
+internal_id: "C5516291"
+label_id: "3520074"
+dtd_version: "2.0"
+original_entry_into_force: "2000-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010937/2000-02-01/0"
+intitule_bron: "Stcrt.1999-245"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-12-06"
+intitule_published: "1999-12-20"
+intitule_in_force: "1999-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-245"
+original_signed_date: "1999-12-06"
+original_published_date: "1999-12-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-02-01"
+jci_1_3: "jci1.3:c:BWBR0010937&z=2000-02-01&g=2000-02-01"
+jci_1_0: "1.0:c:BWBR0010937&g=2000-02-01"
+citeertitel_status: "officieel"
+signed_date: "1999-12-06"
+entry_into_force: "2000-02-01"
 ---
-
 # Instelling Evaluatiecommissie Wet milieubeheer
 
 Overwegende dat het met het oog op een verantwoorde onderbouwing van de in [artikel 21.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.2) bedoelde verslaglegging over de werking van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) gewenst is de Evaluatiecommissie [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) hernieuwd in te stellen.
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de duur van vier jaren wordt per 1 januari 2000 ingesteld de Evaluatiecommissie [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) (ECWM), verder te noemen: de commissie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De commissie heeft tot taak de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer - verder te noemen: de Minister - te adviseren met betrekking tot de inhoud van het ingevolge [artikel 21.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.2) aan de Staten-Generaal uit te brengen verslag over de wijze waarop de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) ‐ verder te noemen: de wet - is toegepast, door onderzoek te doen naar de effectiviteit, de efficiëntie, de uitvoerbaarheid en de handhaafbaarheid van de wet.
 
@@ -32,7 +56,7 @@ Voor de duur van vier jaren wordt per 1 januari 2000 ingesteld de Evaluatiecommi
 
 6. De commissie kan te allen tijde, met instemming van de Minister, besluiten een werkplan te wijzigen, indien hiervoor gegronde redenen bestaan.
 
-#### Artikel 3
+##### Artikel 3
 
 De commissie bestaat uit de volgende leden:
 
@@ -52,11 +76,11 @@ De commissie bestaat uit de volgende leden:
 
 - prof.mr. J.M. Verschuuren, hoogleraar Europees en internationaal milieurecht aan de Katholieke Universiteit Brabant, lid, tevens secretaris.
 
-#### Artikel 4
+##### Artikel 4
 
 Namens de Minister zal de directeur Bestuurszaken als vaste vertegenwoordiger de vergaderingen van de commissie bijwonen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De commissie kan haar werkwijze naar eigen inzicht regelen.
 
@@ -64,11 +88,11 @@ Namens de Minister zal de directeur Bestuurszaken als vaste vertegenwoordiger de
 
 3. Voorts draagt de commissie er zorg voor, dat bij de uitvoering van de milieuregelgeving betrokken bestuursorganen, instellingen en belangenorganisaties in de gelegenheid worden gesteld opmerkingen te maken over door de commissie uit te brengen adviezen.
 
-#### Artikel 6
+##### Artikel 6
 
 De voor een goede taakvervulling van de commissie noodzakelijk geachte kosten komen ten laste van de begroting van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. Voor het gebruik maken van de diensten van derden alsmede de apparaatskosten krijgt de commissie een budget ter beschikking gesteld, dat jaarlijks in overleg met de directeur Bestuurszaken worden vastgesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 

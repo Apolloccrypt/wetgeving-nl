@@ -1,20 +1,46 @@
 ---
-title: "Regeling heroïnebehandeling"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 22 november 2006, nr. VGP/ADT 2728896, houdende een specifieke uitkering voor heroïnebehandeling (Regeling heroïnebehandeling)"
 identifier: "BWBR0020561"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020561"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020561"
+soort: "ministeriele-regeling"
+stam_id: "8741823"
+version_id: "27102582"
+internal_id: "C38328441"
+label_id: "8721814"
+dtd_version: "2.0"
+original_entry_into_force: "2020-10-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020561/2025-01-01/0"
+intitule_bron: "Stcrt.2006-232"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-11-22"
+intitule_published: "2006-11-28"
+intitule_in_force: "2006-11-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-54742"
+original_signed_date: "2020-10-15"
+original_published_date: "2020-10-23"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2020-54742"
+entry_into_force_date: "2020-10-15"
+jci_1_3: "jci1.3:c:BWBR0020561&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0020561&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling heroïnebehandeling"
+signed_date: "2020-10-15"
+entry_into_force: "2020-10-15"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 22 november 2006, nr. VGP/ADT 2728896, houdende een specifieke uitkering voor heroïnebehandeling (Regeling heroïnebehandeling)
 
 Gelet op [artikel 3 van de Kaderwet volksgezondheidssubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - d. behandeleenheid: inrichting voor heroïnebehandeling.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Minister kan ten behoeve van het jaar 2025 aan de volgende gemeenten een specifieke uitkering verstrekken voor de kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden, van ten hoogste het bij de desbetreffende gemeente genoemde bedrag, met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:
 
@@ -52,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 3. Een behandeleenheid bestaat uit ten minste 20 behandelplaatsen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De uitkering wordt slechts verstrekt voor zover:
 
@@ -82,7 +108,7 @@ In deze regeling wordt verstaan onder:
 
 2. De Minister kan ontheffing verlenen van de in het eerste lid, onder b, vervatte voorwaarde voor de duur van maximaal één jaar en mits de gemeente hiervan gelijktijdig melding doet aan de Inspectie Gezondheidszorg en Jeugd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Minister geeft uiterlijk vóór de aanvang van het desbetreffende kalenderjaar een beschikking tot verlening van de uitkering.
 
@@ -94,11 +120,11 @@ In deze regeling wordt verstaan onder:
 
 5. Een uitkering ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Minister kan het bedrag van de uitkering bijstellen, rekening houdend met de ontwikkeling van het prijspeil of de ontwikkeling van de arbeidsvoorwaarden.
 
@@ -106,11 +132,11 @@ Vervallen
 
 3. Indien de uitkering met toepassing van het eerste lid wordt bijgesteld, kan de bevoorschotting overeenkomstig worden gewijzigd.
 
-#### Artikel 7
+##### Artikel 7
 
 Het college van burgemeester en wethouders doet zo spoedig mogelijk schriftelijk mededeling aan de Minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de uitkering. Daarbij worden de relevante stukken overgelegd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het college van burgemeester en wethouders werkt mee aan door of namens de Minister ingestelde onderzoekingen die erop zijn gericht de Minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.
 
@@ -126,11 +152,11 @@ Het college van burgemeester en wethouders doet zo spoedig mogelijk schriftelijk
 
 4. Het college van burgemeester en wethouders verstrekt de overzichten, bedoeld in het tweede en derde lid, conform een door de Minister vastgesteld model.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Het college van burgemeester en wethouders neemt de volgende verantwoordingsinformatie op in de bijlage van de jaarrekening over het jaar waarvoor de uitkering wordt verstrekt:
 
@@ -138,7 +164,7 @@ Het college van burgemeester en wethouders neemt de volgende verantwoordingsinfo
 
 - b. de feitelijke bezetting van de behandelplaatsen in de behandeleenheid.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2025-01-01&g=2025-01-01), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
 
@@ -150,23 +176,23 @@ Het college van burgemeester en wethouders neemt de volgende verantwoordingsinfo
 
 3. Bij een daling van minimaal 20% in de feitelijke bezetting van het aantal behandelplaatsen ten opzichte van het voorgaande kalenderjaar, stelt de Minister in afwijking van het tweede lid ambtshalve de specifieke uitkering vast op het bedrag van de werkelijke kosten van het exploiteren van de behandeleenheid, maar op ten hoogste het bedrag en aantal behandelplaatsen genoemd in de verleningsbeschikking van het kalenderjaar voorafgaand aan het kalenderjaar waarvoor wordt vastgesteld. Als de feitelijke bezetting minder dan 20 behandelplaatsen is dan tellen de behandelplaatsen onder de 20 als 20 voor het berekenen van dalingspercentage.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2006.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling heroïnebehandeling.
 
 Deze regeling zal met de toelichting in Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
 Deze regeling zal met de toelichting in Staatscourant worden geplaatst.
 
-#### Artikel 11a
+##### Artikel 11a
 
 De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 

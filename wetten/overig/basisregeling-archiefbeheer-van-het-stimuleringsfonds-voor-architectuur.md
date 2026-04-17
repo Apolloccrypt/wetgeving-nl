@@ -1,13 +1,39 @@
 ---
-title: "Basisregeling Archiefbeheer van het Stimuleringsfonds voor Architectuur"
+title: "Basisregeling Archiefbeheer van de stichting Stimuleringsfonds voor Architectuur"
 identifier: "BWBR0018352"
-categorie: "Overig"
-publicatiedatum: 2005-09-10
-laatste_update: 2005-09-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018352"
+country: "nl"
+rank: "zbo"
+publication_date: "2005-09-10"
+last_updated: "2005-09-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018352"
+soort: "zbo"
+stam_id: "7335243"
+version_id: "12275052"
+internal_id: "C16511981"
+label_id: "7323054"
+dtd_version: "2.0"
+original_entry_into_force: "2005-09-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018352/2005-09-10/0"
+intitule_bron: "Stcrt.2005-175"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-05-23"
+intitule_published: "2005-09-09"
+intitule_in_force: "2005-09-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-175"
+original_signed_date: "2005-05-23"
+original_published_date: "2005-09-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-175-p22-SC71475"
+entry_into_force_date: "2005-09-10"
+jci_1_3: "jci1.3:c:BWBR0018352&z=2005-09-10&g=2005-09-10"
+jci_1_0: "1.0:c:BWBR0018352&g=2005-09-10"
+citeertitel_status: "officieel"
+short_title: "Basisregeling Archiefbeheer van het Stimuleringsfonds voor Architectuur"
+signed_date: "2005-05-23"
+entry_into_force: "2005-09-10"
 ---
-
 # Basisregeling Archiefbeheer van de stichting Stimuleringsfonds voor Architectuur
 
 Overwegende dat het op grond van de wet vereist is een regeling te treffen m.b.t. het beheer van de archiefbescheiden van het SfA, voor zover deze betrekking hebben op de uitoefening van de openbare taken van het SfA en deze niet zijn overgebracht naar een archiefbewaarplaats in de zin van de wet;
@@ -16,7 +42,7 @@ Gelet op [artikel 41, lid 1a van de Archiefwet 1995](https://wetten.overheid.nl/
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -40,11 +66,11 @@ In deze regeling wordt verstaan onder:
 
 - Vervreemding: het overgaan van de zorgplicht naar een andere organisatie;
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Deze regeling is van toepassing op alle organisatieonderdelen van het SfA en op de daar berustende archiefbescheiden, voor zover deze voortvloeien uit de openbare taak van het SfA. De regeling is van toepassing op analoge en digitale archiefbescheiden.
 
-#### Artikel 3. Zorg en verantwoordelijkheid
+##### Artikel 3. Zorg en verantwoordelijkheid
 
 1. Het bestuur draagt zorg voor een adequate regeling van het archiefbeheer en stelt waarnodig uitvoeringsregelingen c.q. nadere regelingen en plannen op.
 
@@ -58,16 +84,16 @@ Deze regeling is van toepassing op alle organisatieonderdelen van het SfA en op 
 
 - c. overbrenging archiefbescheiden naar de archiefbewaarplaats.
 
-#### Artikel 4. Informatiesystemen
+##### Artikel 4. Informatiesystemen
 
 1. Het bestuur verzoekt de directeur om een ICT-functionaris aan te wijzen die belast is met het juist laten functioneren en beheren van platforms en servers met bijbehorende besturingsprogrammatuur en tevens belast wordt met het juist laten functioneren en beheren van applicaties c.q. toepassingsprogrammatuur.
 
 2. De ICT-functionaris is verantwoordelijk voor het zekerstellen vanhard- en software met bijbehorende documentatie in voorkomende gevallen zodat ook in een digitale omgeving kan worden voldaan aan de wettelijke eisen van een geordende en toegankelijke staat.
 
-#### Artikel 5. Citeertitel en bekendmaking
+##### Artikel 5. Citeertitel en bekendmaking
 
 Deze regeling kan worden aangehaald als: Basisregeling Archiefbeheer van het Stimuleringsfonds voor Architectuur en wordt gepubliceerd in de Staatscourant.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking één dag na de datum van publicatie in de Staatscourant.

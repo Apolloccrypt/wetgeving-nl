@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk België, de Bondsrepubliek Duitsland, het Koninkrijk Spanje, de Republiek Frankrijk, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de intensivering van de grensoverschrijdende samenwerking, in het bijzonder ter bestrijding van het terrorisme, de grensoverschrijdende criminaliteit en de illegale migratie"
 identifier: "BWBV0002898"
-categorie: "Internationaal recht"
-publicatiedatum: 2008-05-20
-laatste_update: 2005-05-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002898"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-05-20"
+last_updated: "2005-05-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002898"
+soort: "verdrag"
+stam_id: "10003218503"
+version_id: "10003234772"
+internal_id: "C10006997441"
+label_id: "10003205044"
+dtd_version: "2.0"
+original_entry_into_force: "2008-05-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002898/2008-05-20/0"
+intitule_bron: "Trb.2005-197"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-02-20"
+intitule_published: "2005-08-31"
+intitule_in_force: "2008-04-15"
+intitule_status: "goed"
+original_publication: "Trb.2005-197"
+original_signed_date: "2008-02-20"
+original_published_date: "2005-08-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2005-197"
+entry_into_force_date: "2008-05-20"
+jci_1_3: "jci1.3:c:BWBV0002898&z=2008-05-20&g=2008-05-20"
+jci_1_0: "1.0:c:BWBV0002898&g=2008-05-20"
+citeertitel_status: "redactioneel"
+signed_date: "2008-02-20"
+entry_into_force: "2008-05-20"
 ---
-
 # Verdrag tussen het Koninkrijk België, de Bondsrepubliek Duitsland, het Koninkrijk Spanje, de Republiek Frankrijk, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de intensivering van de grensoverschrijdende samenwerking, in het bijzonder ter bestrijding van het terrorisme, de grensoverschrijdende criminaliteit en de illegale migratie
 
 De hoge Verdragsluitende Partijen bij dit Verdrag, zijnde lidstaten van de Europese Unie,
@@ -28,7 +53,7 @@ Zijn als volgt overeengekomen:
 
 ### HOOFDSTUK 1. ALGEMEEN DEEL
 
-#### Artikel 1. Grondbeginselen van het Verdrag
+##### Artikel 1. Grondbeginselen van het Verdrag
 
 1. De Verdragsluitende Partijen beogen met dit Verdrag de grensoverschrijdende samenwerking, in het bijzonder de onderlinge gegevensuitwisseling, te intensiveren.
 
@@ -42,7 +67,7 @@ Zijn als volgt overeengekomen:
 
 ### HOOFDSTUK 2. DNA-PROFIELEN, DACTYLOSCOPISCHE EN OVERIGE GEGEVENS
 
-#### Artikel 2. Aanleggen van nationale DNA-analysebestanden
+##### Artikel 2. Aanleggen van nationale DNA-analysebestanden
 
 1. De Verdragsluitende Partijen verplichten zich ter opsporing van strafbare feiten, nationale DNA-analysebestanden aan te leggen en te beheren. De verwerking van de in deze bestanden opgeslagen gegevens op grond van dit Verdrag geschiedt behoudens de overige bepalingen van dit Verdrag met inachtneming van het voor de verwerkingsprocedure geldende nationale recht.
 
@@ -50,29 +75,29 @@ Zijn als volgt overeengekomen:
 
 3. Bij neerlegging van de akten van bekrachtiging, aanvaarding, goedkeuring of toetreding benoemt elke Verdragsluitende Partij de nationale DNA-analysebestanden, waarop de artikelen 2 tot en met 6 van toepassing zijn, alsmede de voorwaarden voor de geautomatiseerde bevraging, bedoeld in artikel 3, eerste lid.
 
-#### Artikel 3. Geautomatiseerde bevraging van DNA-profielen
+##### Artikel 3. Geautomatiseerde bevraging van DNA-profielen
 
 1. Ter opsporing van strafbare feiten verlenen de Verdragsluitende Partijen aan de nationale contactpunten van de andere Verdragsluitende Partijen, bedoeld in artikel 6, toegang tot de linkgegevens van hun DNA-analysebestanden, met het recht deze geautomatiseerd te bevragen door middel van een vergelijking van de DNA-profielen. De bevoegdheid tot bevraging mag uitsluitend in individuele gevallen en met inachtneming van het nationale recht van de bevragende Verdragsluitende Partij worden uitgeoefend.
 
 2. Indien bij een geautomatiseerde bevraging wordt vastgesteld dat een verstrekt DNA-profiel met een in het bestand van de ontvangende Partij opgeslagen DNA-profiel overeenkomt, ontvangt het bevragende contactbureau geautomatiseerd de informatie over de aanwezigheid van een hit en het kenmerk. Indien geen overeenkomst kan worden vastgesteld, wordt zulks geautomatiseerd meegedeeld.
 
-#### Artikel 4. Geautomatiseerde vergelijking van DNA-profielen
+##### Artikel 4. Geautomatiseerde vergelijking van DNA-profielen
 
 1. Ter opsporing van strafbare feiten vergelijken de Verdragsluitende Partijen met wederzijds goedvinden via hun nationale contactpunten de DNA-profielen van hun open sporen met alle DNA-profielen uit linkgegevens van de andere nationale DNA-analysebestanden. De verstrekking en vergelijking geschieden geautomatiseerd. De verstrekking ter vergelijking van de DNA-profielen van de open sporen geschiedt uitsluitend in die gevallen waarin het nationale recht van de verzoekende Verdragsluitende Partij hierin voorziet.
 
 2. Indien een Verdragsluitende Partij bij de vergelijking, bedoeld in het eerste lid, vaststelt dat verstrekte DNA-profielen met die in haar DNA-analysebestand overeenkomen, verstrekt zij onverwijld aan het nationale contactpunt van de andere Verdragsluitende Partij de linkgegevens waarmee een overeenkomst is vastgesteld.
 
-#### Artikel 5. Verstrekking van nadere persoonsgegevens en overige informatie
+##### Artikel 5. Verstrekking van nadere persoonsgegevens en overige informatie
 
 Indien in het kader van de procedure, bedoeld in de artikelen 3 en 4, wordt vastgesteld dat DNA-profielen overeenkomen, is het nationale recht, met inbegrip van de rechtshulpvoorschriften, van de aangezochte Verdragsluitende Partij bepalend voor de verstrekking van nadere, met betrekking tot de linkgegevens aanwezige persoonsgegevens en overige informatie.
 
-#### Artikel 6. Nationaal contactpunt en uitvoeringsafspraak
+##### Artikel 6. Nationaal contactpunt en uitvoeringsafspraak
 
 1. Ter uitvoering van de gegevensverstrekking, bedoeld in de artikelen 3 en 4, benoemt elke Verdragsluitende Partij een nationaal contactpunt. Bepalend voor de bevoegdheden van het contactpunt is het van toepassing zijnde nationale recht.
 
 2. De bijzonderheden met betrekking tot de technische invulling van de in de artikelen 3 en 4 beschreven procedures worden door middel van een uitvoeringsafspraak als bedoeld in artikel 44 geregeld.
 
-#### Artikel 7. Afname van celmateriaal en verstrekking van DNA-profielen
+##### Artikel 7. Afname van celmateriaal en verstrekking van DNA-profielen
 
 Indien in het kader van een lopend opsporingsonderzoek of strafrechtelijke procedure geen DNA-profiel beschikbaar is van een bepaalde persoon die zich op het grondgebied van een aangezochte Verdragsluitende Partij bevindt, verleent de aangezochte Verdragsluitende Partij rechtshulp door het afnemen en onderzoeken van celmateriaal van deze persoon evenals door verstrekking van het verkregen DNA-profiel, indien:
 
@@ -82,27 +107,27 @@ Indien in het kader van een lopend opsporingsonderzoek of strafrechtelijke proce
 
 - 3. naar het recht van de aangezochte Verdragsluitende Partij aan de voorwaarden voor het afnemen en onderzoeken van celmateriaal alsmede aan de voorwaarden voor de verstrekking van het verkregen DNA-profiel, is voldaan.
 
-#### Artikel 8. Dactyloscopische gegevens
+##### Artikel 8. Dactyloscopische gegevens
 
 Ter uitvoering van dit Verdrag waarborgen de Verdragsluitende Partijen dat linkgegevens voor het bestand van de ter voorkoming en opsporing van strafbare feiten opgezette nationale geautomatiseerde dactyloscopische identificatiesystemen voorhanden zijn. Linkgegevens omvatten uitsluitend dactyloscopische gegevens en een kenmerk. De linkgegevens mogen geen gegevens bevatten op basis waarvan de betrokkene rechtstreeks kan worden geïdentificeerd. Linkgegevens die niet aan een persoon kunnen worden gekoppeld – open sporen –, dienen als zodanig herkenbaar te zijn.
 
-#### Artikel 9. Geautomatiseerde bevraging van dactyloscopische gegevens
+##### Artikel 9. Geautomatiseerde bevraging van dactyloscopische gegevens
 
 1. Ter voorkoming en opsporing van strafbare feiten verlenen de Verdragsluitende Partijen aan de nationale contactpunten van de andere Verdragsluitende Partijen, bedoeld in artikel 11, toegang tot de linkgegevens van de geautomatiseerde dactyloscopische identificatiesystemen die zij te dien einde hebben opgezet, zulks met het recht deze geautomatiseerd te bevragen door middel van een vergelijking van de dactyloscopische gegevens. De bevoegdheid tot bevraging mag uitsluitend in individuele gevallen en met inachtneming van het nationale recht van de bevragende Verdragsluitende Partij worden uitgeoefend.
 
 2. De definitieve koppeling van een dactyloscopisch gegeven aan een linkgegeven van de met het bestandsbeheer belaste Verdragsluitende Partij geschiedt door het bevragende nationale contactpunt aan de hand van de geautomatiseerd verstrekte linkgegevens, die voor de eenduidige koppeling noodzakelijk zijn.
 
-#### Artikel 10. Verstrekking van nadere persoonsgegevens en overige informatie
+##### Artikel 10. Verstrekking van nadere persoonsgegevens en overige informatie
 
 Indien in het kader van de procedure, als bedoeld in artikel 9, wordt vastgesteld dat dactyloscopische gegevens overeenkomen, is het nationale recht, met inbegrip van de rechtshulpvoorschriften, van de aangezochte Verdragsluitende Partij bepalend voor de verstrekking van nadere, met betrekking tot de linkgegevens aanwezige persoonsgegevens en overige informatie.
 
-#### Artikel 11. Nationaal contactpunt en uitvoeringsafspraak
+##### Artikel 11. Nationaal contactpunt en uitvoeringsafspraak
 
 1. Ter uitvoering van de gegevensverstrekking, als bedoeld in artikel 9, benoemt elke Verdragsluitende Partij een nationaal contactpunt. Bepalend voor de bevoegdheden van het contactpunt is het hiervoor van toepassing zijnde nationale recht.
 
 2. De bijzonderheden met betrekking tot de technische invulling van de in artikel 9 beschreven procedures worden door middel van een uitvoeringsafspraak als bedoeld in artikel 44 geregeld.
 
-#### Artikel 12. Geautomatiseerde bevraging van gegevens uit de kentekenregisters
+##### Artikel 12. Geautomatiseerde bevraging van gegevens uit de kentekenregisters
 
 1. Ter voorkoming en opsporing van strafbare feiten alsmede ter afhandeling van overtredingen die in de bevragende staat tot de bevoegdheid van de rechtbanken of het Openbaar Ministerie behoren, en ter handhaving van de openbare orde en veiligheid, verlenen de Verdragsluitende Partijen aan de nationale contactpunten van de andere Verdragsluitende Partijen, bedoeld in het tweede lid, toegang tot de volgende gegevens uit de nationale kentekenregisters, zulks met het recht deze in individuele gevallen geautomatiseerd te bevragen:
 
@@ -114,23 +139,23 @@ De bevraging mag uitsluitend met gebruikmaking van een volledig chassisnummer of
 
 2. Ter uitvoering van de gegevensuitwisseling, bedoeld in het eerste lid, benoemt elke Verdragsluitende Partij een nationaal contactpunt voor inkomende verzoeken. Bepalend voor de bevoegdheden van het contactpunt is het van toepassing zijnde nationale recht. De bijzonderheden met betrekking tot de technische invulling van de procedure worden door middel van een uitvoeringsafspraak als bedoeld in artikel 44 geregeld.
 
-#### Artikel 13. Verstrekking van niet persoonsgebonden gegevens
+##### Artikel 13. Verstrekking van niet persoonsgebonden gegevens
 
 Ter voorkoming van strafbare feiten en ter handhaving van de openbare orde en veiligheid in samenhang met grootschalige evenementen met een grensoverschrijdende dimensie, in het bijzonder op het gebied van sport of bijeenkomsten van de Europese Raad, verstrekken de Verdragsluitende Partijen elkaar zowel op verzoek als op eigen initiatief, met inachtneming van het nationale recht van de verstrekkende Verdragsluitende Partij, nietpersoonsgebonden gegevens die hiertoe noodzakelijk kunnen zijn.
 
-#### Artikel 14. Verstrekking van persoonsgegevens
+##### Artikel 14. Verstrekking van persoonsgegevens
 
 1. Ter voorkoming van strafbare feiten en ter handhaving van de openbare orde en veiligheid in samenhang met grootschalige evenementen met een grensoverschrijdende dimensie, in het bijzonder op het gebied van sport of bijeenkomsten van de Europese Raad, verstrekken de Verdragsluitende Partijen elkaar zowel op verzoek als op eigen initiatief persoonsgegevens, indien onherroepelijke veroordelingen of andere feiten het vermoeden rechtvaardigen dat de desbetreffende personen tijdens het evenement strafbare feiten zullen begaan of dat zij een gevaar voor de openbare orde en veiligheid vormen, voor zover de verstrekking van deze gegevens overeenkomstig het nationale recht van de verstrekkende Verdragsluitende Partij is toegestaan.
 
 2. De persoonsgegevens mogen uitsluitend worden verwerkt voor de in het eerste lid omschreven doeleinden en in het kader van het nauwkeurig omschreven evenement waarvoor deze werden meegedeeld. De verstrekte gegevens dienen onverwijld te worden gewist, voor zover de doeleinden, bedoeld in het eerste lid, zijn verwezenlijkt of niet meer verwezenlijkt kunnen worden. De verstrekte gegevens dienen in elk geval uiterlijk na een jaar te worden gewist.
 
-#### Artikel 15. Nationaal contactpunt
+##### Artikel 15. Nationaal contactpunt
 
 Ter uitvoering van de gegevensverstrekking, bedoeld in de artikelen 13 en 14 , benoemt elke Verdragsluitende Partij een nationaal contactpunt. Bepalend voor de bevoegdheden van het nationale contactpunt is het van toepassing zijnde nationale recht.
 
 ### HOOFDSTUK 3. MAATREGELEN TER VOORKOMING VAN TERRORISTISCHE STRAFBARE FEITEN
 
-#### Artikel 16. Verstrekking van informatie ter voorkoming van terroristische strafbare feiten
+##### Artikel 16. Verstrekking van informatie ter voorkoming van terroristische strafbare feiten
 
 1. Ter voorkoming van terroristische strafbare feiten kunnen de Verdragsluitende Partijen aan de nationale contactpunten van de andere Verdragsluitende Partijen, bedoeld in het derde lid, met inachtneming van het nationale recht, in individuele gevallen, ook zonder verzoek de in het tweede lid genoemde persoonsgegevens en informatie verstrekken, voor zover zulks noodzakelijk is omdat bepaalde feiten het vermoeden rechtvaardigen dat de betrokkenen strafbare feiten als bedoeld in de artikelen 1 tot en met 3 van het Kaderbesluit 2002/475/JBZ van de Raad van de Europese Unie van 13 juni 2002 inzake terrorismebestrijding zullen begaan.
 
@@ -140,7 +165,7 @@ Ter uitvoering van de gegevensverstrekking, bedoeld in de artikelen 13 en 14 , b
 
 4. De verstrekkende autoriteit kan, met inachtneming van het nationale recht, voorwaarden verbinden aan het gebruik van deze gegevens en informatie door de ontvangende autoriteit. De ontvangende autoriteit is aan deze voorwaarden gebonden.
 
-#### Artikel 17. Vluchtbegeleiders
+##### Artikel 17. Vluchtbegeleiders
 
 1. Elke Verdragsluitende Partij beslist zelfstandig op grond van haar nationale beleid met betrekking tot de beveiliging van de luchtvaart, over de inzet van vluchtbegeleiders in de luchtvaartuigen die bij deze Verdragsluitende Partij zijn geregistreerd. De inzet van deze vluchtbegeleiders geschiedt in overeenstemming met het [Verdrag van Chicago](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) van 7 december 1944 betreffende de internationale burgerlijke luchtvaart met bijlagen, in het bijzonder [bijlage 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&bijlage=17), en de documenten die hieraan uitvoering geven, en met inachtneming van de bevoegdheden van de gezagvoerder uit hoofde van het[Verdrag van Tokio](https://wetten.overheid.nl/jci1.3:c:BWBV0004659) van 14 september 1963 inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen, alsmede met overige daarop van toepassing zijnde volkenrechtelijke regelingen voorzover ze voor de betrokken Verdragsluitende Partijen bindend zijn.
 
@@ -152,7 +177,7 @@ Ter uitvoering van de gegevensverstrekking, bedoeld in de artikelen 13 en 14 , b
 
 5. De schriftelijke aanmelding, bevat de in Bijlage 1 van het Verdrag genoemde informatie en wordt door de Verdragsluitende Partijen vertrouwelijk behandeld. De Verdragsluitende Partijen kunnen door middel van een afzonderlijke afspraak een wijziging van Bijlage 1 overeenkomen.
 
-#### Artikel 18. Meevoeren van bewapening, munitie en uitrusting
+##### Artikel 18. Meevoeren van bewapening, munitie en uitrusting
 
 1. De Verdragsluitende Partijen verlenen aan de door de andere Verdragsluitende Partijen ingezette vluchtbegeleiders op verzoek algemene toestemming bewapening, munitie en uitrusting mee te voeren op vluchten van of naar de luchthavens van de Verdragsluitende Partijen. Deze toestemming omvat het meevoeren van bewapening en munitie aan boord van luchtvaartuigen alsmede, met inachtneming van het tweede lid, in de niet algemeen toegankelijke veiligheidszones van een luchthaven van de desbetreffende Verdragsluitende Partij.
 
@@ -162,13 +187,13 @@ Ter uitvoering van de gegevensverstrekking, bedoeld in de artikelen 13 en 14 , b
 
 - 2. Meegevoerde bewapening en munitie worden onverwijld na het verlaten van het luchtvaartuig onder begeleiding veilig en onder toezicht bewaard op een door de bevoegde nationale autoriteit aan te wijzen afgiftepunt.
 
-#### Artikel 19. Nationale contact- en coördinatiepunten
+##### Artikel 19. Nationale contact- en coördinatiepunten
 
 Ter uitvoering van de taken uit hoofde van de artikelen 17 en 18 benoemt elke Verdragsluitende Partij een nationaal contact- en coördinatiepunt.
 
 ### HOOFDSTUK 4. MAATREGELEN TER BESTRIJDING VAN DE ILLEGALE MIGRATIE
 
-#### Artikel 20. Documentadviseurs
+##### Artikel 20. Documentadviseurs
 
 1. De Verdragsluitende Partijen maken op basis van gezamenlijke situatiebeoordelingen en met in achtneming van de relevante bepalingen van [Verordening (EG) Nr. 377/2004](32004R0377) van de Raad van de Europese Unie van 19 februari 2004 betreffende de oprichting van een netwerk van immigratieverbindingsfunctionarissen, afspraken over de uitzending van documentadviseurs naar staten, die als land van herkomst of transitland van illegale migratie worden aangemerkt.
 
@@ -176,7 +201,7 @@ Ter uitvoering van de taken uit hoofde van de artikelen 17 en 18 benoemt elke Ve
 
 3. Bij uitzending van documentadviseurs kunnen de Verdragsluitende Partijen een Verdragsluitende Partij met de coördinatie van concrete maatregelen belasten. Deze coördinatie kan tijdelijk zijn.
 
-#### Artikel 21. Taken van de documentadviseurs
+##### Artikel 21. Taken van de documentadviseurs
 
 De door de Verdragsluitende Partijen uitgezonden documentadviseurs oefenen met name de volgende taken uit:
 
@@ -188,11 +213,11 @@ De door de Verdragsluitende Partijen uitgezonden documentadviseurs oefenen met n
 
 De bevoegdheden van de buitenlandse vertegenwoordigingen en de met grenscontrole belaste autoriteiten van de Verdragsluitende Partijen blijven onverlet.
 
-#### Artikel 22. Nationale contact- en coördinatiepunten
+##### Artikel 22. Nationale contact- en coördinatiepunten
 
 De Verdragsluitende Partijen benoemen nationale contact- en coördinatiepunten die als aanspreekpunt dienen voor de coördinatie bij de uitzending van documentadviseurs alsmede voor de voorbereiding, uitvoering, begeleiding en evaluatie van advies- en opleidingsmaatregelen.
 
-#### Artikel 23. Ondersteuning bij repatriëringsmaatregelen
+##### Artikel 23. Ondersteuning bij repatriëringsmaatregelen
 
 1. De Verdragsluitende Partijen ondersteunen elkaar bij repatriëringsmaatregelen met in achtneming van de beschikking 2004/573/EG van de Raad van de Europese Unie van 29 april 2004 inzake het organiseren van gezamenlijke vluchten voor de verwijdering van onderdanen van derde landen tegen wie individuele verwijderingsmaatregelen zijn genomen van het grondgebied van twee of meer lidstaten en [Richtlijn 2003/110/EG](32003L0110) van de Raad van de Europese Unie van 25 november 2003 betreffende de ondersteuning bij doorgeleiding in het kader van maatregelen tot verwijderingen door de lucht. Zij informeren elkaar vroegtijdig over geplande repatriëringsmaatregelen en stellen de andere Verdragsluitende Partijen, voor zover mogelijk, in de gelegenheid hieraan deel te nemen. Bij gezamenlijke repatriëringsmaatregelen stemmen de Verdragsluitende Partijen over de begeleiding van de te repatriëren personen en de veiligheidsmaatregelen met elkaar af.
 
@@ -206,7 +231,7 @@ De Verdragsluitende Partijen benoemen nationale contact- en coördinatiepunten d
 
 ### HOOFDSTUK 5. OVERIGE VORMEN VAN SAMENWERKING
 
-#### Artikel 24. Gezamenlijke vormen van optreden
+##### Artikel 24. Gezamenlijke vormen van optreden
 
 1. Ter intensivering van de politiële samenwerking kunnen de door de Verdragsluitende Partijen benoemde bevoegde autoriteiten gezamenlijke patrouilles en andere vormen van gezamenlijk optreden ter handhaving van de openbare orde en veiligheid en ter voorkoming van strafbare feiten instellen, waarbij de door de Verdragsluitende Partijen benoemde ambtenaren of ander overheidspersoneel (hierna: ambtenaren), van andere Verdragsluitende Partijen aan optredens op het grondgebied van een Verdragsluitende Partij meewerken.
 
@@ -216,7 +241,7 @@ De Verdragsluitende Partijen benoemen nationale contact- en coördinatiepunten d
 
 4. De praktische aspecten van de samenwerking worden door middel van uitvoeringsafspraken zoals bedoeld in artikel 44 geregeld.
 
-#### Artikel 25. Maatregelen bij acuut gevaar
+##### Artikel 25. Maatregelen bij acuut gevaar
 
 1. Ambtenaren van een Verdragsluitende Partij mogen in spoedeisende situaties zonder voorafgaande toestemming van de andere Verdragsluitende Partij de gemeenschappelijke grens overschrijden teneinde in het nabij de grens gelegen gebied op het grondgebied van de andere Verdragsluitende Partij met inachtneming van het nationale recht van de gaststaat voorlopige maatregelen te treffen die ter afwending van een acuut gevaar voor de lichamelijke integriteit van personen noodzakelijk zijn.
 
@@ -228,7 +253,7 @@ De Verdragsluitende Partijen benoemen nationale contact- en coördinatiepunten d
 
 5. De gaststaat is verantwoordelijk voor de door de grensoverschrijdende ambtenaren getroffen maatregelen.
 
-#### Artikel 26. Bijstandsverlening bij grootschalige evenementen, rampen en zware ongevallen
+##### Artikel 26. Bijstandsverlening bij grootschalige evenementen, rampen en zware ongevallen
 
 De bevoegde autoriteiten van de Verdragsluitende Partijen verlenen elkaar met inachtneming van het nationale recht wederzijds bijstand bij massabijeenkomsten en soortgelijke grootschalige evenementen, rampen en zware ongevallen door:
 
@@ -240,7 +265,7 @@ De bevoegde autoriteiten van de Verdragsluitende Partijen verlenen elkaar met in
 
 Internationale verdragen van de Verdragsluitende Partijen inzake de wederzijdse bijstandsverlening bij rampen en zware ongevallen, blijven onverlet.
 
-#### Artikel 27. Samenwerking op verzoek
+##### Artikel 27. Samenwerking op verzoek
 
 1. De bevoegde autoriteiten van de Verdragsluitende Partijen verlenen elkaar in het kader van hun bevoegdheden en met inachtneming van hun nationale recht op verzoek bijstand.
 
@@ -272,7 +297,7 @@ Internationale verdragen van de Verdragsluitende Partijen inzake de wederzijdse 
 
 ### HOOFDSTUK 6. ALGEMENE BEPALINGEN
 
-#### Artikel 28. Gebruik van bewapening, munitie en uitrusting
+##### Artikel 28. Gebruik van bewapening, munitie en uitrusting
 
 1. Ambtenaren van een Verdragsluitende Partij die zich in het kader van een gezamenlijk optreden op het grondgebied van een andere Verdragsluitende Partij bevinden, kunnen ter plaatse hun nationale dienstkleding dragen. Zij kunnen hun naar het nationale recht van de zendstaat toegestane bewapening, munitie en uitrusting meevoeren. Elke Verdragsluitende Partij kan het meevoeren van bepaalde bewapening, munitie en uitrusting door ambtenaren van de zendstaat verbieden.
 
@@ -286,25 +311,25 @@ Internationale verdragen van de Verdragsluitende Partijen inzake de wederzijdse 
 
 6. Artikel 18 blijft onverlet.
 
-#### Artikel 29. Bescherming en hulpverlening
+##### Artikel 29. Bescherming en hulpverlening
 
 De Verdragsluitende Partijen zijn jegens de grensoverschrijdende ambtenaren van de andere Verdragsluitende Partijen tijdens de dienstuitoefening tot dezelfde bescherming en hulpverlening verplicht als jegens de eigen ambtenaren.
 
-#### Artikel 30. Algemene aansprakelijkheidsregeling
+##### Artikel 30. Algemene aansprakelijkheidsregeling
 
 Voor de aansprakelijkheid in het kader van dit Verdrag geldt artikel 43 van de Overeenkomst van 19 juni 1990 ter uitvoering van het op 14 juni 1985 te Schengen gesloten Akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen. De eerste volzin is niet van toepassing op de artikelen 17 en 18.
 
-#### Artikel 31. Strafrechtelijke aansprakelijkheid
+##### Artikel 31. Strafrechtelijke aansprakelijkheid
 
 De ambtenaren die uit hoofde van dit Verdrag op het grondgebied van een andere Verdragsluitende Partij optreden, worden gelijkgesteld met de ambtenaren van de andere Verdragsluitende Partij wat betreft strafbare feiten die door of tegen hen mochten worden begaan, tenzij in een ander voor de Verdragsluitende Partijen geldend verdrag anders is overeengekomen.
 
-#### Artikel 32. Dienstbetrekking
+##### Artikel 32. Dienstbetrekking
 
 De ambtenaren die uit hoofde van dit Verdrag op het grondgebied van een andere Verdragsluitende Partij optreden, blijven arbeidsrechtelijk, in het bijzonder tuchtrechtelijk onderworpen aan de in hun staat geldende voorschriften.
 
 ### HOOFDSTUK 7. ALGEMENE BEPALINGEN BETREFFENDE GEGEVENSBESCHERMING
 
-#### Artikel 33. Definities, werkingssfeer
+##### Artikel 33. Definities, werkingssfeer
 
 1. In dit Verdrag wordt verstaan onder:
 
@@ -318,13 +343,13 @@ De ambtenaren die uit hoofde van dit Verdrag op het grondgebied van een andere V
 
 2. Voor gegevens, die uit hoofde van dit Verdrag worden of zijn verstrekt, gelden de volgende bepalingen, voorzover in de voorafgaande hoofdstukken niet anders is bepaald.
 
-#### Artikel 34. Niveau van gegevensbescherming
+##### Artikel 34. Niveau van gegevensbescherming
 
 1. Elke Verdragsluitende Partij waarborgt met betrekking tot de verwerking van persoonsgegevens, die uit hoofde van dit Verdrag worden of zijn verstrekt, in het nationale recht een gegevensbeschermingsniveau dat tenminste overeenstemt met datgene dat voortvloeit uit het [Verdrag van de Raad van Europa van 28 januari 1981 tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBV0002783) en het daarbij behorende [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0002948) van 8 november 2001, en houdt daarbij rekening met de aanbeveling nummer R (87) 15 van het Comité van ministers van de Raad van Europa aan de lidstaten over het gebruik van persoonsgegevens op politieel gebied van 17 september 1987 en wel ook voorzover, als de gegevens niet geautomatiseerd worden verwerkt.
 
 2. Met de in dit Verdrag voorziene verstrekking van persoonsgegevens mag niet worden overgegaan dan nadat op het grondgebied van de bij de verstrekking betrokken Verdragsluitende Partijen de bepalingen van dit hoofdstuk in het nationale recht in werking zijn getreden. Het comité van ministers besluit overeenkomstig artikel 43 of aan de voorwaarden is voldaan.
 
-#### Artikel 35. Doelbinding
+##### Artikel 35. Doelbinding
 
 1. De ontvangende Verdragsluitende Partij mag de persoonsgegevens uitsluitend verwerken voor de doeleinden waarvoor deze op grond van dit Verdrag zijn verstrekt; een verwerking voor andere doeleinden is alleen toegestaan na voorafgaande toestemming van de Verdragsluitende Partij, die het bestand beheert, en alleen met inachtneming van het nationale recht van de ontvangende Verdragsluitende Partij. De toestemming mag worden verleend voor zover op grond van het nationale recht van de Verdragsluitende Partij, die het bestand beheert, deze verwerking voor zulke andere doeleinden is toegestaan.
 
@@ -340,11 +365,11 @@ De Verdragsluitende Partij die het dossier beheert mag de haar op grond van de a
 
 3. Uit hoofde van artikel 12 verstrekte gegevens mogen door de Verdragsluitende Partij die het dossier beheert uitsluitend worden gebruikt voorzover dit voor het geautomatiseerd beantwoorden van de bevraging of het protocolleren als bedoeld in artikel 39 noodzakelijk is. Na de geautomatiseerde beantwoording van de bevraging worden de verstrekte gegevens onverwijld gewist, tenzij de verdere verwerking noodzakelijk is voor het protocolleren op grond van artikel 39. De bevragende Verdragsluitende Partij mag de in het kader van de beantwoording verkregen gegevens uitsluitend gebruiken voor de procedure op grond waarvan de bevraging is geschiedt.
 
-#### Artikel 36. Bevoegde autoriteiten
+##### Artikel 36. Bevoegde autoriteiten
 
 De verstrekte persoonsgegevens mogen uitsluitend door de autoriteiten, instanties en rechtbanken worden verwerkt die bevoegd zijn voor een taak in het kader van de doeleinden op grond van artikel 35. In het bijzonder vindt de doorzending van de verstrekte gegevens aan andere instanties niet plaats dan na voorafgaande toestemming van de verstrekkende Verdragsluitende Partij en met inachtneming van het recht van de ontvangende Verdragsluitende Partij.
 
-#### Artikel 37. Juistheid, actualiteit en opslagduur van de gegevens
+##### Artikel 37. Juistheid, actualiteit en opslagduur van de gegevens
 
 1. De Verdragsluitende Partijen zijn verplicht op de juistheid en actualiteit van de persoonsgegevens te letten. Als blijkt, ambtshalve of op basis van een mededeling van de betrokkene, dat onjuiste gegevens of gegevens, die niet hadden mogen worden verstrekt, zijn verstrekt dan moet dit onverwijld aan de ontvangende Verdragsluitende Partij of de ontvangende Verdragsluitende Partijen worden meegedeeld. Die zijn verplicht om de gegevens te corrigeren of te wissen. Voor het overige moeten verstrekte persoonsgegevens worden gecorrigeerd, als blijkt dat ze onjuist zijn. Als de ontvangende instantie reden heeft om aan te nemen dat de verstrekte gegevens onjuist zijn of gewist zouden moeten worden dan informeert deze de verstrekkende autoriteit daarover onverwijld.
 
@@ -358,7 +383,7 @@ De verstrekte persoonsgegevens mogen uitsluitend door de autoriteiten, instantie
 
 In plaats van het wissen komt een afscherming met inachtneming van het nationale recht, als er reden bestaat om aan te nemen dat door het wissen beschermenswaardige belangen van de betrokkene worden geschaad. Afgeschermde gegevens mogen alleen worden verstrekt of gebruikt voor het doel, waarvoor het wissen achterwege is gebleven.
 
-#### Artikel 38. Technische en organisatorische maatregelen ter gegevensbescherming en beveiliging van gegevens
+##### Artikel 38. Technische en organisatorische maatregelen ter gegevensbescherming en beveiliging van gegevens
 
 1. De verstrekkende en de ontvangende instantie zijn verplicht om persoonsgegevens effectief te beschermen tegen toevallige of onbevoegde vernietiging, toevallig verlies, onbevoegde toegang, onbevoegde of toevallige verandering en onbevoegde bekendmaking.
 
@@ -370,7 +395,7 @@ In plaats van het wissen komt een afscherming met inachtneming van het nationale
 
 - 3. dat de toelaatbaarheid van de bevragingen in overeenstemming met artikel 39, tweede, vierde en vijfde lid, kan worden gecontroleerd.
 
-#### Artikel 39. Vastleggen en protocolleren; bijzondere voorschriften met betrekking tot de geautomatiseerde en niet-geautomatiseerde verstrekking
+##### Artikel 39. Vastleggen en protocolleren; bijzondere voorschriften met betrekking tot de geautomatiseerde en niet-geautomatiseerde verstrekking
 
 1. Elke Verdragsluitende Partij waarborgt dat iedere niet-geautomatiseerde verstrekking en iedere niet-geautomatiseerde ontvangst van persoonsgegevens door de instantie die het bestand beheert en de bevragende instantie ter controle van de toelaatbaarheid van de verstrekking wordt vastgelegd. De vastlegging omvat de volgende gegevens:
 
@@ -404,19 +429,19 @@ In plaats van het wissen komt een afscherming met inachtneming van het nationale
 
 5. De juridische controle van de verstrekking of de ontvangst van persoonsgegevens is in handen van de voor de controle op de gegevensbescherming bevoegde onafhankelijke instanties van de respectievelijke Verdragsluitende Partijen. Met inachtneming van het nationale recht kan iedereen deze instanties verzoeken om de rechtmatigheid van de verwerking van gegevens met betrekking tot zijn persoon te controleren. Deze instanties alsmede de voor de protocollering bevoegde instanties moeten ook onafhankelijk van zulke verzoeken bij wijze van steekproef controles uitvoeren ten aanzien van de rechtmatigheid van de verstrekkingen, en wel aan de hand van de hieraan ten grondslag liggende dossiers. De resultaten van deze controleactiviteit moeten ter controle door de voor de gegevensbescherming bevoegde onafhankelijke instanties 18 maanden worden bewaard. Na afloop van deze termijn moeten ze onverwijld worden gewist. Elke voor de gegevensbescherming bevoegde instantie kan door de onafhankelijke tot de gegevensbescherming bevoegde instantie van een andere Verdragsluitende Partij in overeenstemming met het nationale recht om de uitoefening van haar bevoegdheden worden verzocht. De voor de controle van de gegevensbescherming bevoegde onafhankelijke autoriteiten van de Verdragsluitende Partijen dragen zorg voor de ter vervulling van hun controletaken noodzakelijke wederzijdse samenwerking, in het bijzonder door het uitwisselen van doelgerichte informatie.
 
-#### Artikel 40. Rechten van de betrokkenen en schadevergoeding
+##### Artikel 40. Rechten van de betrokkenen en schadevergoeding
 
 1. Aan de betrokkene dient met inachtneming van het nationale recht onder het overleggen van bewijs van zijn identiteit, op verzoek van de op grond van het nationaal recht bevoegde instantie, zonder onredelijke kosten, in algemeen begrijpelijke vorm en zonder onaanvaardbare vertraging informatie te worden verstrekt over de met betrekking tot zijn persoon verwerkte gegevens alsmede over de herkomst daarvan, de ontvanger of ontvangercategorieën, het beoogde doel van de verwerking en de rechtsgrond voor de verwerking. Bovendien heeft de betrokkene het recht op correctie van onjuiste gegevens en op het wissen van onrechtmatig verwerkte gegevens. De Verdragsluitende Partijen waarborgen bovendien dat de betrokkene zich in geval van inbreuk op zijn rechten met betrekking tot gegevensbescherming met een effectieve klacht tot een onafhankelijke rechtbank of een tribunaal in de zin van artikel 6, eerste lid, van het Europese Verdrag van de rechten van de mens alsmede een onafhankelijke controle-instantie in de zin van artikel 28 van [Richtlijn 95/46/EG](31995L0046) van de Raad van de Europese Unie van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens, kan wenden en dat hem de mogelijkheid wordt geboden om een aanspraak op schadevergoeding of een andere vorm van genoegdoening in rechte geldend te maken. De nadere bijzonderheden met betrekking tot de procedure ter realisering van deze rechten en de redenen voor het beperken van het recht op kennisneming richten zich naar de desbetreffende nationale wettelijke voorschriften van de staat, waarin hij zijn rechten geldend maakt.
 
 2. Als een instantie van de ene Verdragsluitende Partij persoonsgegevens heeft verstrekt uit hoofde van dit Verdrag, kan de ontvangende instantie van de andere Verdragsluitende Partij zich er in het kader van haar aansprakelijkheid met inachtneming van het nationale recht jegens de benadeelde niet op beroepen dat de verstrekte gegevens onjuist zijn geweest. Verstrekt de ontvangende instantie schadevergoeding wegens een schade, die door het gebruik van onjuist verstrekte gegevens is veroorzaakt, dan vergoedt de verstrekkende instantie de ontvangende instantie het totale bedrag van de toegekende schadevergoeding.
 
-#### Artikel 41. Informatie op verzoek van de Verdragsluitende Partijen
+##### Artikel 41. Informatie op verzoek van de Verdragsluitende Partijen
 
 De ontvangende Verdragsluitende Partij informeert de verstrekkende Verdragsluitende Partij over de verwerking van de verstrekte gegevens en het daardoor behaalde resultaat.
 
 ### HOOFDSTUK 8. UITVOERINGS- EN SLOTBEPALINGEN
 
-#### Artikel 42. Verklaringen
+##### Artikel 42. Verklaringen
 
 1. Bij overhandiging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding wijst elke Verdragsluitende Partij door middel van een verklaring aan de als depositaris optredende staat de voor de toepassing van dit Verdrag bevoegde autoriteiten aan.
 
@@ -442,35 +467,35 @@ Het betreft de aanwijzing van:
 
 2. De overhandigde verklaringen kunnen te allen tijde geheel of gedeeltelijk worden gewijzigd overeenkomstig de procedure, bedoeld in het eerste lid.
 
-#### Artikel 43. Comité van Ministers
+##### Artikel 43. Comité van Ministers
 
 1. De Verdragsluitende Partijen stellen een comité in bestaande uit ministers van de Verdragsluitende Partijen. Het Comité van Ministers neemt de noodzakelijke beslissingen over de uitvoering en toepassing van dit Verdrag. Beslissingen van het Comité van Ministers worden door alle Verdragssluitende Partijen met eenparigheid van stemmen genomen.
 
 2. Ter ondersteuning van het Comité van Ministers toetst een gemeenschappelijke werkgroep bestaande uit vertegenwoordigers van de Verdragsluitende Partijen de uitvoering en interpretatie van dit Verdrag en stelt vast of de noodzaak bestaat tot aanvulling of verdere ontwikkeling ervan. De gemeenschappelijke werkgroep komt op verzoek van een Verdragsluitende Partij bijeen.
 
-#### Artikel 44. Uitvoeringsafspraken
+##### Artikel 44. Uitvoeringsafspraken
 
 De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen op basis van en in het kader van dit Verdrag afspraken maken die de administratieve uitvoering van dit Verdrag ten doel hebben.
 
-#### Artikel 45. Territoriale werkingssfeer
+##### Artikel 45. Territoriale werkingssfeer
 
 De bepalingen van dit Verdrag gelden voor het grondgebied van de Verdragsluitende Partijen. Voor het Koninkrijk der Nederlanden geldt dit Verdrag uitsluitend voor het in Europa gelegen deel van het Koninkrijk. Voor de Franse Republiek geldt dit Verdrag uitsluitend voor het in Europa gelegen deel van de Republiek.
 
-#### Artikel 46. Kosten
+##### Artikel 46. Kosten
 
 Elke Verdragsluitende Partij draagt de kosten die voor haar instanties uit de toepassing van dit Verdrag voortvloeien. In bijzondere gevallen kunnen de desbetreffende Verdragsluitende Partijen een afwijkende regeling overeenkomen.
 
-#### Artikel 47. Verhouding tot andere bi- of multilaterale verdragen
+##### Artikel 47. Verhouding tot andere bi- of multilaterale verdragen
 
 1. De bepalingen van dit Verdrag zijn slechts van toepassing, voor zover zij met het recht van de Europese Unie verenigbaar zijn. Indien door de Europese Unie in de toekomst regelingen worden ingevoerd die op de werkingssfeer van dit Verdrag zien, geldt bij de toepassing van de desbetreffende bepalingen van dit Verdrag het recht van de Europese Unie bij voorrang. De Verdragsluitende Partijen kunnen de bepalingen van dit Verdrag gelet op de desbetreffende nieuwe regelingen voortvloeiend uit het recht van de Europese Unie wijzigen of vervangen.
 
 2. Dit Verdrag laat de in bestaande bi- of multilaterale verdragen tussen de Verdragsluitende Partijen vastgelegde rechten of verplichtingen onverlet. De Verdragsluitende Partijen staat het vrij om de bestaande bi- of multilaterale verdragen tussen de Verdragspartijen toe te passen in hun wederzijdse betrekkingen. Bij tegenstrijdigheid met rechten of verplichtingen uit hoofde van dergelijke verdragen geldt de bepaling uit onderhavig verdrag.
 
-#### Artikel 48. Bekrachtiging, aanvaarding, goedkeuring
+##### Artikel 48. Bekrachtiging, aanvaarding, goedkeuring
 
 Dit Verdrag dient te worden bekrachtigd, te worden aanvaard of te worden goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden bij de depositaris neergelegd. Naar aanleiding van de neerlegging van de akten van bekrachtiging, aanvaarding of goedkeuring kan een verklaring betreffende de territoriale werkingssfeer worden overhandigd.
 
-#### Artikel 49. Depositaris
+##### Artikel 49. Depositaris
 
 1. Depositaris van dit Verdrag is de regering van de Bondsrepubliek Duitsland.
 
@@ -478,13 +503,13 @@ Dit Verdrag dient te worden bekrachtigd, te worden aanvaard of te worden goedgek
 
 3. De depositaris draagt zorg voor de registratie van het Verdrag bij het Secretariaat-Generaal van de Verenigde Naties overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 50. Inwerkingtreding
+##### Artikel 50. Inwerkingtreding
 
 1. Dit Verdrag treedt negentig dagen na de neerlegging van de tweede akte van bekrachtiging, aanvaarding of goedkeuring in werking tussen de Verdragsluitende Partijen die het Verdrag hebben bekrachtigd. Voor de overige Verdragsluitende Partijen treedt het Verdrag negentig dagen na de neerlegging van hun akten van bekrachtiging in werking.
 
 2. De depositaris stelt alle Verdragsluitende Partijen in kennis van de datum van inwerkingtreding.
 
-#### Artikel 51. Toetreding
+##### Artikel 51. Toetreding
 
 1. Dit Verdrag staat open voor toetreding voor alle lidstaten van de Europese Unie. Met de toetreding worden ook alle tot dan toe op basis van artikel 44 gemaakte uitvoeringsafspraken en de overige afspraken bij dit Verdrag voor de toetredende staten bindend.
 
@@ -492,7 +517,7 @@ Dit Verdrag dient te worden bekrachtigd, te worden aanvaard of te worden goedgek
 
 3. Dit Verdrag treedt voor elke toetredende staat negentig dagen na de neerlegging van zijn akte van toetreding in werking, op zijn vroegst op de datum van inwerkingtreding van dit verdrag volgens artikel 50.
 
-#### Artikel 52. Opzegging
+##### Artikel 52. Opzegging
 
 1. Dit Verdrag wordt voor onbepaalde tijd gesloten.
 

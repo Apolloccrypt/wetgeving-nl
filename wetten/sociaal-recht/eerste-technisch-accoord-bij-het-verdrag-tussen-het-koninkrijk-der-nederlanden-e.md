@@ -1,26 +1,48 @@
 ---
 title: "Eerste Technisch Accoord bij het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake sociale verzekering"
 identifier: "BWBV0005128"
-categorie: "Sociaal recht"
-publicatiedatum: 2010-01-01
-laatste_update: 2010-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005128"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-01-01"
+last_updated: "2010-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005128"
+soort: "verdrag"
+stam_id: "10004479853"
+version_id: "10004777072"
+internal_id: "C10007217481"
+label_id: "10004464754"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005128/2010-01-01/0"
+intitule_bron: "Trb.2010-100"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2010-03-29"
+intitule_in_force: "2010-03-29"
+intitule_status: "vervallen"
+original_publication: "Trb.2010-100"
+original_published_date: "2010-03-29"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2010-100"
+entry_into_force_date: "2010-01-01"
+jci_1_3: "jci1.3:c:BWBV0005128&z=2010-01-01&g=2010-01-01"
+jci_1_0: "1.0:c:BWBV0005128&g=2010-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-01-01"
 ---
-
 # Eerste Technisch Accoord bij het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake sociale verzekering
 
 ## TITEL I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
@@ -28,53 +50,53 @@ Vervallen
 
 ### HOOFDSTUK 1. ZIEKTEVERZEKERING
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
 ### HOOFDSTUK 2. ONGEVALLENVERZEKERING
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
 ### I. Uitkeringen in geld
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
 ### II. Verstrekkingen in natura
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
@@ -82,66 +104,66 @@ Vervallen
 
 ### A. Vaststelling der uitkeringen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
 ### B. Betaling der uitkeringen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
 ## TITEL III. Diverse bepalingen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen

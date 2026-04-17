@@ -1,20 +1,46 @@
 ---
-title: "Besluit bekendmaking veiling kavels B05 en B36"
+title: "Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 19 februari 2018, nr. TM/180 252 32, handelende in overeenstemming met de Minister voor Basis- en Voortgezet Onderwijs en Media, inzake de keuze voor het instrument veiling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B05 en B36, de vaststelling van die vergunningen en de vaststelling van de daaraan te koppelen vergunningen voor digitale radio-omroep"
 identifier: "BWBR0040646"
-categorie: "Overig"
-publicatiedatum: 2018-02-21
-laatste_update: 2018-02-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040646"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-02-21"
+last_updated: "2018-02-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040646"
+soort: "ministeriele-regeling"
+stam_id: "14554893"
+version_id: "24910622"
+internal_id: "C35631111"
+label_id: "14508854"
+dtd_version: "2.0"
+original_entry_into_force: "2018-02-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040646/2018-02-21/0"
+intitule_bron: "Stcrt.2018-9364"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-02-19"
+intitule_published: "2018-02-20"
+intitule_in_force: "2018-02-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-9364"
+original_signed_date: "2018-02-19"
+original_published_date: "2018-02-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-9364"
+entry_into_force_date: "2018-02-21"
+jci_1_3: "jci1.3:c:BWBR0040646&z=2018-02-21&g=2018-02-21"
+jci_1_0: "1.0:c:BWBR0040646&g=2018-02-21"
+citeertitel_status: "officieel"
+short_title: "Besluit bekendmaking veiling kavels B05 en B36"
+signed_date: "2018-02-19"
+entry_into_force: "2018-02-21"
 ---
-
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 19 februari 2018, nr. TM/180 252 32, handelende in overeenstemming met de Minister voor Basis- en Voortgezet Onderwijs en Media, inzake de keuze voor het instrument veiling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B05 en B36, de vaststelling van die vergunningen en de vaststelling van de daaraan te koppelen vergunningen voor digitale radio-omroep
 
 Gelet op [artikel 3.10, derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) en [artikel 17 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De vergunningen voor niet-landelijke commerciële radio in de FM-band met de daaraan, voor zover nu reeds mogelijk, te verbinden voorschriften en beperkingen, genoemd in tabel 1, worden verleend met toepassing van een veiling, bedoeld in [artikel 3.10, eerste lid, aanhef en onderdeel f, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10).
 
@@ -23,23 +49,23 @@ De vergunningen voor niet-landelijke commerciële radio in de FM-band met de daa
 | **B05** | [1](https://wetten.overheid.nl/jci1.3:c:BWBR0040646&bijlage=1&z=2018-02-21&g=2018-02-21) |
 | **B36** | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040646&bijlage=2&z=2018-02-21&g=2018-02-21) |
 
-#### Artikel 2
+##### Artikel 2
 
 De procedure van de veiling vangt aan op 28 februari 2018.
 
-#### Artikel 3
+##### Artikel 3
 
 De vergunningen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040646&artikel=1&z=2018-02-21&g=2018-02-21), zijn nader bestemd voor niet-landelijke commerciële radio-omroep.
 
-#### Artikel 4
+##### Artikel 4
 
 De voorschriften en beperkingen behorende bij de aan de vergunningen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040646&artikel=1&z=2018-02-21&g=2018-02-21), te koppelen vergunningen voor digitale radio-omroep worden, voor zover dat reeds mogelijk is, vastgesteld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040646&bijlage=3&z=2018-02-21&g=2018-02-21).
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit bekendmaking veiling kavels B05 en B36.
 

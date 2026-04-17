@@ -1,13 +1,38 @@
 ---
 title: "Country by country reporting; uitstel eerste notificatie"
 identifier: "BWBR0038739"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-11-21
-laatste_update: 2016-11-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038739"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2016-11-21"
+last_updated: "2016-11-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038739"
+soort: "beleidsregel"
+stam_id: "13796013"
+version_id: "23662672"
+internal_id: "C34060791"
+label_id: "13762224"
+dtd_version: "2.0"
+original_entry_into_force: "2016-11-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038739/2016-11-21/0"
+intitule_bron: "Stcrt.2016-63121"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-11-15"
+intitule_published: "2016-11-21"
+intitule_in_force: "2016-11-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-63121"
+original_signed_date: "2016-11-15"
+original_published_date: "2016-11-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-63121"
+entry_into_force_date: "2016-11-21"
+jci_1_3: "jci1.3:c:BWBR0038739&z=2016-11-21&g=2016-11-21"
+jci_1_0: "1.0:c:BWBR0038739&g=2016-11-21"
+citeertitel_status: "redactioneel"
+signed_date: "2016-11-15"
+entry_into_force: "2016-11-21"
 ---
-
 # Country by country reporting; uitstel eerste notificatie
 
 **Dit besluit bevat de goedkeuring om de notificatie op grond van artikel 29d van de Wet op de vennootschapsbelasting 1969 voor de eerste keer uiterlijk op 1 september 2017 te doen.**

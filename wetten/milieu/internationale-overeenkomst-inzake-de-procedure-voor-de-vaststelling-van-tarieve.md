@@ -1,13 +1,35 @@
 ---
 title: "Internationale Overeenkomst inzake de procedure voor de vaststelling van tarieven voor geregelde luchtdiensten"
 identifier: "BWBV0004645"
-categorie: "Milieu"
-publicatiedatum: 1968-12-21
-laatste_update: 1968-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004645"
+country: "nl"
+rank: "verdrag"
+publication_date: "1968-12-21"
+last_updated: "1968-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004645"
+soort: "verdrag"
+stam_id: "10004234853"
+version_id: "10004422052"
+internal_id: "C10006985931"
+label_id: "10004219954"
+dtd_version: "2.0"
+original_entry_into_force: "1968-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004645/1968-12-21/0"
+intitule_bron: "Trb.1968-79"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1968-07-05"
+intitule_in_force: "1969-03-20"
+intitule_status: "goed"
+original_publication: "Trb.1968-79"
+original_published_date: "1968-07-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1968-79"
+entry_into_force_date: "1968-12-21"
+jci_1_3: "jci1.3:c:BWBV0004645&z=1968-12-21&g=1968-12-21"
+jci_1_0: "1.0:c:BWBV0004645&g=1968-12-21"
+citeertitel_status: "redactioneel"
+entry_into_force: "1968-12-21"
 ---
-
 # Internationale Overeenkomst inzake de procedure voor de vaststelling van tarieven voor geregelde luchtdiensten
 
 De ondertekenende Regeringen,
@@ -18,7 +40,7 @@ Verlangende dat er eenvormigheid wordt gebracht in de beginselen en procedures v
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Deze Overeenkomst:
 
@@ -30,7 +52,7 @@ Deze Overeenkomst:
 
 - b). treedt in de plaats van de tariefbepalingen van een eventueel reeds eerder tussen twee Staten die partij zijn bij deze Overeenkomst gesloten bilaterale overeenkomst, zolang laatstbedoelde overeenkomst ten aanzien van deze twee Staten van kracht blijft.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In de volgende leden wordt onder de uitdrukking „tarief” verstaan de prijzen die moeten worden betaald voor het vervoer van passagiers, bagage en vracht en de voorwaarden waaronder deze prijzen gelden, daarbij inbegrepen de prijzen en voorwaarden voor bemiddeling en andere bijkomende diensten, doch niet betalingen of voorwaarden voor het vervoer van post.
 
@@ -48,7 +70,7 @@ Deze Overeenkomst:
 
 8. Een overeenkomstig de bepalingen van dit artikel vastgesteld tarief blijft van kracht totdat een nieuw tarief is vastgesteld. De geldigheid van een tarief mag evenwel uit hoofde van dit lid met niet meer dan 12 maanden, te rekenen van de datum waarop deze zou zijn geëindigd, worden verlengd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien er geen bilaterale luchtvaartovereenkomst tussen de twee partijen bestaat, of indien er wel een bilaterale overeenkomst bestaat, doch deze geen bepalingen voor de regeling van geschillen bevat, en er zich een geschil zoals bedoeld in lid 7 van artikel 2 voordoet, kunnen de partijen overeenkomen het geschil ter beslissing voor te leggen aan een bepaalde persoon of instantie; zij kunnen ook overeenkomen het geschil op verzoek van een van hen ter beslissing voor te leggen aan een scheidsgerecht van drie scheidsrechters.
 
@@ -58,43 +80,43 @@ Deze Overeenkomst:
 
 4. Tenzij de partijen anders zijn overeengekomen, stelt het scheidsgerecht zijn eigen procedure vast. Alle beslissingen van het scheidsgerecht dienen met meerderheid van stemmen te worden genomen en zijn definitief.
 
-#### Artikel 4
+##### Artikel 4
 
 Onverminderd het bepaalde in lid 7 van artikel 2 en in artikel 3, wordt elk geschil tussen twee of meer partijen betreffende de uitlegging of toepassing van deze Overeenkomst dat niet door middel van onderhandelingen kan worden geregeld, op verzoek van een van hen aan arbitrage onderworpen. Indien binnen zes maanden, te rekenen van het tijdstip waarop om arbitrage werd verzocht, de partijen niet in staat blijken overeenstemming te bereiken omtrent de wijze van arbitrage, kan een van hen, door middel van een verzoek gedaan overeenkomstig de bepalingen van het [Statuut van het Internationale Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), het geschil aan dit Hof voorleggen.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze Overeenkomst staat voor ondertekening open door elke Staat die lid is van de Europese Burgerluchtvaartconferentie.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Deze Overeenkomst dient door de ondertekenende Staten te worden bekrachtigd of goedgekeurd.
 
 2. De akten van bekrachtiging en de kennisgevingen van goedkeuring worden bij de Internationale Burgerluchtvaartorganisatie nedergelegd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Deze Overeenkomst treedt in werking op de dertigste dag nadat vijf Staten die lid zijn van de Europese Burgerluchtvaartconferentie hetzij hun akten van bekrachtiging hebben nedergelegd hetzij kennis hebben gegeven van hun goedkeuring.
 
 2. Zij treedt voor iedere Staat die haar nadien bekrachtigt of goedkeurt in werking op de dertigste dag na de nederlegging van zijn akte van bekrachtiging of kennisgeving van goedkeuring,
 
-#### Artikel 8
+##### Artikel 8
 
 1. Deze Overeenkomst staat, nadat zij in werking is getreden, open voor toetreding door iedere Staat die lid is van de Verenigde Naties of van een der gespecialiseerde organisaties.
 
 2. Toetreding geschiedt door middel van nederlegging door de toetredende Staat van een akte van toetreding bij de Internationale Burgerluchtvaartorganisatie en wordt van kracht op de dertigste dag na de datum van nederlegging.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze Overeenkomst kan door iedere partij worden opgezegd door middel van een aan de Internationale Burgerluchtvaartorganisatie gerichte kennisgeving. Deze opzegging wordt van kracht een jaar na de datum van ontvangst van deze kennisgeving.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Iedere partij kan ten tijde van de ondertekening, bekrachtiging of goedkeuring van deze Overeenkomst of van de toetreding daartoe, verklaren dat zij zich niet gebonden acht door artikel 4. De andere partijen zijn niet gebonden door dat artikel met betrekking tot iedere partij die zulk een voorbehoud heeft gemaakt.
 
 2. Iedere partij die een voorbehoud heeft gemaakt overeenkomstig het voorgaande lid kan dit te allen tijde intrekken door middel van een aan de Internationale Burgerluchtvaartorganisatie gerichte kennisgeving.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Zodra deze Overeenkomst in werking treedt wordt zij door de Internationale Burgerluchtvaartorganisatie bij de Secretaris-Generaal van de Verenigde Naties geregistreerd.
 

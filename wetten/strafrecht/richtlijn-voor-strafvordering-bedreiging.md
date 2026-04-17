@@ -1,13 +1,35 @@
 ---
 title: "Richtlijn voor strafvordering bedreiging"
 identifier: "BWBR0046488"
-categorie: "Strafrecht"
-publicatiedatum: 2022-04-01
-laatste_update: 2022-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046488"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-04-01"
+last_updated: "2022-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046488"
+soort: "beleidsregel"
+stam_id: "16311323"
+version_id: "28509722"
+internal_id: "C40225581"
+label_id: "16236454"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046488/2022-04-01/0"
+intitule_bron: "Stcrt.2022-8261"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2022-03-31"
+intitule_in_force: "2022-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-8261"
+original_published_date: "2022-03-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-8261"
+entry_into_force_date: "2022-04-01"
+jci_1_3: "jci1.3:c:BWBR0046488&z=2022-04-01&g=2022-04-01"
+jci_1_0: "1.0:c:BWBR0046488&g=2022-04-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2022-04-01"
 ---
-
 # Richtlijn voor strafvordering bedreiging
 
 Deze richtlijn heeft betrekking op diverse vormen van bedreiging.

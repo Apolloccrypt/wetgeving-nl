@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling versterking aansluiting beroepsonderwijskolom"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs van 12 juni 2023, nr. 38118126 houdende regels voor de subsidieverstrekking voor het versterken van de aansluiting in de beroepsonderwijskolom (Subsidieregeling versterking aansluiting beroepsonderwijskolom)"
 identifier: "BWBR0048295"
-categorie: "Onderwijs"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048295"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048295"
+soort: "ministeriele-regeling"
+stam_id: "16776913"
+version_id: "29464792"
+internal_id: "C42135931"
+label_id: "16692184"
+dtd_version: "2.0"
+original_entry_into_force: "2023-06-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048295/2026-01-01/0"
+intitule_bron: "Stcrt.2023-17079"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-12"
+intitule_published: "2023-06-19"
+intitule_in_force: "2023-06-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-17079"
+original_signed_date: "2023-06-12"
+original_published_date: "2023-06-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-17079"
+entry_into_force_date: "2023-06-20"
+jci_1_3: "jci1.3:c:BWBR0048295&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0048295&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling versterking aansluiting beroepsonderwijskolom"
+signed_date: "2023-06-12"
+entry_into_force: "2023-06-20"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs van 12 juni 2023, nr. 38118126 houdende regels voor de subsidieverstrekking voor het versterken van de aansluiting in de beroepsonderwijskolom (Subsidieregeling versterking aansluiting beroepsonderwijskolom)
 
 Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -82,11 +108,11 @@ In deze regeling wordt verstaan onder:
 
 - **vso-opleiding:** voortgezet speciaal onderwijs in het uitstroomprofiel vervolgonderwijs als bedoeld in [artikel 14a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14a), gericht op het behalen van een diploma havo, mavo of vbo als bedoeld in de [artikelen 2.5 tot en met 2.7 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Te subsidiëren activiteiten
+##### Artikel 3. Te subsidiëren activiteiten
 
 1. De minister kan aan de penvoerder van een samenwerkingsverband subsidie verstrekken voor het ontwikkelen en duurzaam uitvoeren van een aansluitende opleidingsroute voor leerlingen en studenten.
 
@@ -138,7 +164,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - b. van de prognose, bedoeld in het zesde lid, onderdeel a, onder 2°: op de bij de minister bekende gegevens op 1 oktober van het jaar voorafgaand aan de aanvraag, die zijn te raadplegen op [https://duo.nl/open_onderwijsdata/middelbaar-beroepsonderwijs/aantal-studenten/studenten-mbo-tellingen-prognoses.jsp](https://duo.nl/open_onderwijsdata/middelbaar-beroepsonderwijs/aantal-studenten/studenten-mbo-tellingen-prognoses.jsp).
 
-#### Artikel 4. Aanvraag subsidie
+##### Artikel 4. Aanvraag subsidie
 
 1. De aanvraag kan worden ingediend:
 
@@ -176,7 +202,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 5. De aanvraag wordt elektronisch ingediend met behulp van een aanvraagformulier dat beschikbaar wordt gesteld op de website [www.dus-i.nl](http://www.dus-i.nl).
 
-#### Artikel 5. Subsidieplafond, wijze van verdeling beschikbare middelen en subsidiebedrag
+##### Artikel 5. Subsidieplafond, wijze van verdeling beschikbare middelen en subsidiebedrag
 
 1. Voor subsidieverstrekking is:
 
@@ -202,7 +228,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 8. Het zevende lid staat er niet aan in de weg dat een mbo-instelling aan wie als penvoerder in een aanvraagtijdvak subsidie is verstrekt, in het kader van een andere aanvraag in datzelfde tijdvak deel uitmaakt van een samenwerkingsverband met een andere penvoerder, mits die andere penvoerder een andere aansluitende opleidingsroute verzorgt.
 
-#### Artikel 6. Subsidieverplichtingen
+##### Artikel 6. Subsidieverplichtingen
 
 1. De penvoerder informeert de minister binnen twee maanden na de vaststelling van de subsidie over wie de coördinator is, bedoeld in [artikel 3, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2026-01-01&g=2026-01-01).
 
@@ -242,11 +268,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 7. De penvoerder is verantwoordelijk voor alle aan de subsidie verbonden verplichtingen, ongeacht welke van de onderwijsinstellingen binnen het samenwerkingsverband feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
 
-#### Artikel 7. Besteding subsidie
+##### Artikel 7. Besteding subsidie
 
 Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het eventueel niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
-#### Artikel 8. Vaststelling en betaling
+##### Artikel 8. Vaststelling en betaling
 
 1. De subsidie wordt direct vastgesteld binnen 13 weken na het sluiten van de desbetreffende aanvraagtermijn.
 
@@ -262,21 +288,21 @@ Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het
 
 - e. voor de aanvragen van 2025 en 2026 in december, indien de aanvraag is gedaan in het tweede aanvraagtijdvak.
 
-#### Artikel 9. Financiële verantwoording
+##### Artikel 9. Financiële verantwoording
 
 De verantwoording van de subsidie geschiedt in de jaarverslaggeving van de penvoerder overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) met [model G, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=4), zoals bedoeld in richtlijn 660 van de Raad voor de Jaarverslaggeving.
 
-#### Artikel 10. Hardheidsclausule
+##### Artikel 10. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing verklaren of daarvan afwijken, voor zover toepassing, gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 11. Inwerkingtreding en vervaldatum
+##### Artikel 11. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling versterking aansluiting beroepsonderwijskolom.
 

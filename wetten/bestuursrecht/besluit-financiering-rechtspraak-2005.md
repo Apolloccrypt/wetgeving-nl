@@ -1,13 +1,38 @@
 ---
-title: "Besluit financiering rechtspraak 2005"
+title: "Besluit van 28 januari 2005, houdende nieuwe regels inzake de financiering van de rechtspraak in verband met het invoeren van een baten-lastenstelsel en het verrekenen van productieverschillen (Besluit financiering rechtspraak 2005)"
 identifier: "BWBR0017975"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-02-11
-laatste_update: 2005-02-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017975"
+country: "nl"
+rank: "amvb"
+publication_date: "2005-02-11"
+last_updated: "2005-02-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017975"
+soort: "AMvB"
+stam_id: "6746103"
+version_id: "11594542"
+internal_id: "C29463031"
+label_id: "6734984"
+original_entry_into_force: "2005-02-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017975/2005-02-11/0"
+intitule_bron: "Stb.2005-55"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-01-28"
+intitule_published: "2005-02-10"
+intitule_in_force: "2005-02-10"
+intitule_status: "goed"
+original_publication: "Stb.2005-55"
+original_signed_date: "2005-01-28"
+original_published_date: "2005-02-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2005-55"
+entry_into_force_date: "2005-02-11"
+jci_1_3: "jci1.3:c:BWBR0017975&z=2005-02-11&g=2005-02-11"
+jci_1_0: "1.0:c:BWBR0017975&g=2005-02-11"
+citeertitel_status: "officieel"
+short_title: "Besluit financiering rechtspraak 2005"
+signed_date: "2005-01-28"
+entry_into_force: "2005-02-11"
 ---
-
 # Besluit van 28 januari 2005, houdende nieuwe regels inzake de financiering van de rechtspraak in verband met het invoeren van een baten-lastenstelsel en het verrekenen van productieverschillen (Besluit financiering rechtspraak 2005)
 
 Op de voordracht van Onze Minister van Justitie van 7 december 2004, Directie Wetgeving, nr. 5323045/04/06;
@@ -22,7 +47,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -52,7 +77,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Ondersteunende systemen en modellen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een systeem van productiemeting voor de rechtspraak. Dit systeem houdt in het meten van het aantal behandelde of afgedane zaken per gerechtscategorie en daarbinnen per afzonderlijk gerecht.
 
@@ -62,7 +87,7 @@ In dit besluit wordt verstaan onder:
 
 4. Belangrijke wijzigingen in de indeling in productgroepen en zaakscategorieën, alsmede de onderliggende definities en modellen behoeven de instemming van Onze Minister.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Er is een systeem van prijsmeting voor de rechtspraak. Dit systeem houdt in het toerekenen van kosten aan aantallen behandelde of afgedane zaken voor alle gerechten gezamenlijk en daaruit eenduidig afgeleid de gerechten afzonderlijk.
 
@@ -72,7 +97,7 @@ In dit besluit wordt verstaan onder:
 
 4. Belangrijke wijzigingen in de definities en modellen behoeven de instemming van Onze Minister.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Er is een werklastmetingssysteem voor de rechtspraak. Dit systeem houdt in het meten van de werklast van het personeel bij de gerechten gemoeid met de productie door middel van periodieke tijdschrijfonderzoeken.
 
@@ -82,13 +107,13 @@ In dit besluit wordt verstaan onder:
 
 4. De Raad doet de opzet van de tijdschrijfonderzoeken alsmede de wijze waarop de onderzoeken worden uitgevoerd toetsen door een externe, onafhankelijke deskundige.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Raad houdt aanvullend op de tijdschrijfonderzoeken in het kader van de werklastmeting periodiek vergelijkende onderzoeken naar gerealiseerde prijsverschillen tussen gerechten.
 
 2. Op verzoek van Onze Minister dan wel eigener beweging houdt de Raad gerichte diepteonderzoeken naar specifieke elementen van de gerealiseerde prijs per zaak.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Raad stelt een commissie in die de Raad adviseert over wijzigingen in de productie-, prijs- en werklastmetingssystemen alsmede de opzet van de vergelijkende en diepteonderzoeken, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=2&z=2005-02-11&g=2005-02-11).
 
@@ -96,13 +121,13 @@ In dit besluit wordt verstaan onder:
 
 3. Een vertegenwoordiger van het Ministerie van Justitie neemt als waarnemer deel aan de overleggen van de commissie.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Raad en de gerechten ontwikkelen en beheren een kwaliteitssysteem. Aan de hand van het systeem wordt de kwaliteit van de rechterlijke organisatie en meer in het bijzonder het rechterlijke functioneren gemeten.
 
 2. De Raad doet de opzet van het kwaliteitssysteem toetsen door een externe, onafhankelijke deskundige.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister ontwikkelt en beheert een prognosemodel voor de instroom van zaken. Het model heeft als doel tot objectief gefundeerde uitspraken te komen over de te verwachten instroom van zaken bij de gerechten.
 
@@ -114,11 +139,11 @@ In dit besluit wordt verstaan onder:
 
 ### Afdeling 1. Algemeen
 
-#### Artikel 9
+##### Artikel 9
 
 De jaarlijks aan de Raad toe te kennen bijdrage ten behoeve van de activiteiten van de Raad en de gerechten gezamenlijk is gelijk aan het bedrag dat ten behoeve van de Raad is opgenomen in de voor het desbetreffende begrotingsjaar vastgestelde begroting van het Ministerie van Justitie.
 
-#### Artikel 10
+##### Artikel 10
 
 De aan de Raad toe te kennen bijdrage bestaat uit de volgende onderdelen:
 
@@ -130,11 +155,11 @@ De aan de Raad toe te kennen bijdrage bestaat uit de volgende onderdelen:
 
 ### Afdeling 2. De aan de Raad toe te kennen bijdrage
 
-#### Artikel 11
+##### Artikel 11
 
 De productiegerelateerde bijdrage wordt bepaald door de voor het desbetreffende jaar geldende landelijke prijzen te vermenigvuldigen met het aantal in de begroting van het Ministerie van Justitie opgenomen zaken per productgroep.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De landelijke prijzen worden voor drie opeenvolgende jaren vastgesteld en opgenomen in de begroting van het Ministerie van Justitie.
 
@@ -152,7 +177,7 @@ De productiegerelateerde bijdrage wordt bepaald door de voor het desbetreffende 
 
 3. Jaarlijks worden de prijzen aangepast in verband met algemene loon- en prijsontwikkelingen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Raad baseert in zijn begrotingsvoorstel voor het uitvoeringsjaar en de vier daaropvolgende jaren de raming van het aantal zaken per productgroep op de verwachte instroom van zaken in het begrotingsjaar, de werkvoorraad aan het begin van het uitvoeringsjaar en de gewenste werkvoorraad aan het eind van het jaar.
 
@@ -160,7 +185,7 @@ De productiegerelateerde bijdrage wordt bepaald door de voor het desbetreffende 
 
 3. De Raad corrigeert, in voorkomend geval, de raming van de verwachte instroom voor de effecten van wijzigingen in het systeem van de rechtspraak.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De bijdrage voor gerechtskosten wordt bepaald door de gerechtskosten per zaak te vermenigvuldigen met het aantal in de begroting van het Ministerie van Justitie opgenomen civiele en bestuursrechtelijke zaken.
 
@@ -168,7 +193,7 @@ De productiegerelateerde bijdrage wordt bepaald door de voor het desbetreffende 
 
 3. Indien het in het eerste lid bedoelde bedrag niet toereikend is, stelt Onze Minister aanvullende financiële middelen ter beschikking van de Raad teneinde de met de gerechtskosten gemoeide uitgaven van de gerechten te bekostigen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De bijdrage voor overige uitgaven is gelijk aan het bedrag dat hiervoor is opgenomen in de begroting van het Ministerie van Justitie.
 
@@ -178,7 +203,7 @@ De productiegerelateerde bijdrage wordt bepaald door de voor het desbetreffende 
 
 ### Afdeling 3. Aan de bijdragetoekenning te verbinden voorschriften
 
-#### Artikel 16
+##### Artikel 16
 
 De door Onze Minister aan de jaarlijkse bijdragetoekenning te verbinden voorschriften kunnen slechts betrekking hebben op:
 
@@ -190,7 +215,7 @@ De door Onze Minister aan de jaarlijkse bijdragetoekenning te verbinden voorschr
 
 ### Afdeling 4. Vermogen en verrekening van productieverschillen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het eigen vermogen van de rechtspraak wordt bepaald door de som te nemen van de eigen vermogens van de gerechten en onder de Raad ressorterende diensten, bedoeld in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=5&artikel=36&z=2005-02-11&g=2005-02-11) en [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=5&artikel=39&z=2005-02-11&g=2005-02-11), en het eigen vermogen van de Raad zelf, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=18&z=2005-02-11&g=2005-02-11).
 
@@ -212,7 +237,7 @@ De door Onze Minister aan de jaarlijkse bijdragetoekenning te verbinden voorschr
 
 7. Voor het tegen een financiële vergoeding verrichten van activiteiten die niet in een wettelijke regeling aan de rechtspraak zijn opgedragen voor anderen dan Onze Minister, behoeft de Raad de instemming van Onze Minister.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Raad heeft een eigen vermogen bestaande uit een exploitatiereserve, een verplichte reserve en het onverdeeld resultaat.
 
@@ -222,7 +247,7 @@ De door Onze Minister aan de jaarlijkse bijdragetoekenning te verbinden voorschr
 
 4. Het is de Raad niet toegestaan bijdragen in de vorm van een lening te aanvaarden van anderen dan Onze Minister van Financiën. Bijdragen van anderen worden toegevoegd aan de exploitatiereserve van de Raad.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De Raad beheert een egalisatierekening voor de rechtspraak.
 
@@ -234,7 +259,7 @@ De door Onze Minister aan de jaarlijkse bijdragetoekenning te verbinden voorschr
 
 5. Een positieve verrekening ten laste van de egalisatierekening kan niet meer zijn dan het totaal beschikbare bedrag op de rekening
 
-#### Artikel 20
+##### Artikel 20
 
 1. De aan de Raad ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=11&z=2005-02-11&g=2005-02-11) toegekende productiegerelateerde bijdrage wordt verhoogd dan wel verlaagd indien de gerechten meer dan wel minder zaken per productgroep hebben afgedaan dan in de begroting van het Ministerie van Justitie was opgenomen.
 
@@ -244,13 +269,13 @@ De door Onze Minister aan de jaarlijkse bijdragetoekenning te verbinden voorschr
 
 4. Een in het eerste lid bedoelde verlaging van de productiegerelateerde bijdrage wordt als last opgenomen in de staat van baten en lasten van de Raad en de gerechten en komt ten goede aan de egalisatierekening van de rechtspraak.
 
-#### Artikel 21
+##### Artikel 21
 
 Bij een dreigend exploitatieverlies dat leidt tot een negatief vermogen van de rechtspraak, een exploitatiewinst die uitkomt komen boven de in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=17&z=2005-02-11&g=2005-02-11), bedoelde grens dan wel een ingrijpende wijziging van omstandigheden met aantoonbare gevolgen voor de productie, overleggen Onze Minister en de Raad over te nemen maatregelen en passen zo nodig, onverminderd [artikel 17, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=17&z=2005-02-11&g=2005-02-11), de productieaantallen van de rechtspraak en de landelijke prijzen aan.
 
 ### Afdeling 5. Informatievoorziening
 
-#### Artikel 22
+##### Artikel 22
 
 1. De Raad verstrekt Onze Minister de voor de uitoefening van zijn taak met betrekking tot de financiering van de rechtspraak benodigde informatie. Daartoe behoren in elk geval:
 
@@ -268,7 +293,7 @@ Bij een dreigend exploitatieverlies dat leidt tot een negatief vermogen van de r
 
 ### Afdeling 1. Splitsing bijdrage minister in delen centraal en gerechten
 
-#### Artikel 23
+##### Artikel 23
 
 De Raad splitst de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=11&z=2005-02-11&g=2005-02-11) bedoelde productiegerelateerde bijdrage van Onze Minister in de volgende delen:
 
@@ -280,7 +305,7 @@ De Raad splitst de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR00179
 
 - d. centraal door de Raad te beheren uitgaven.
 
-#### Artikel 24
+##### Artikel 24
 
 De Raad splitst de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=2&artikel=15&z=2005-02-11&g=2005-02-11) bedoelde bijdrage van Onze Minister voor overige uitgaven in de volgende delen:
 
@@ -290,7 +315,7 @@ De Raad splitst de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR00179
 
 ### Afdeling 2. De aan het gerercht toe te kennen bijdrage
 
-#### Artikel 25
+##### Artikel 25
 
 De door de Raad aan het gerecht toe te kennen bijdrage bestaat uit de volgende onderdelen:
 
@@ -304,13 +329,13 @@ De door de Raad aan het gerecht toe te kennen bijdrage bestaat uit de volgende o
 
 - e. een bijdrage voor overige uitgaven.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De Raad bepaalt de productiegerelateerde bijdrage aan het gerecht door de voor het desbetreffende jaar geldende lokale prijzen te vermenigvuldigen met de met het gerecht overeengekomen aantal zaken per productgroep.
 
 2. Onder het in het eerste lid bedoelde overeengekomen aantal zaken wordt verstaan het aantal af te handelen zaken van het gerecht zelf vermeerderd met het aantal af te handelen zaken als nevenzittingsplaats voor een ander gerecht, verminderd met het aantal af te handelen zaken die in een nevenzittingsplaats buiten het eigen rechtsgebied worden afgehandeld.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De Raad stelt de lokale prijzen vast.
 
@@ -318,17 +343,17 @@ De door de Raad aan het gerecht toe te kennen bijdrage bestaat uit de volgende o
 
 3. De in het tweede lid bedoelde differentiatie in de prijzen kan alleen betrekking hebben op factoren die de gerechten niet kunnen beïnvloeden.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De Raad verdeelt het bedrag van de in [artikel 10, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=1&artikel=10&z=2005-02-11&g=2005-02-11), bedoelde component gerechtskosten over de gerechten overeenkomstig het aantal civiele en bestuursrechtelijke zaken dat in het begrotingsjaar zal worden afgehandeld.
 
 2. Op verzoek van het bestuur van een gerecht stelt de Raad aanvullende financiële middelen ter beschikking teneinde de met de gerechtskosten in civiele en bestuursrechterlijke zaken gemoeide uitgaven van het desbetreffende gerecht te bekostigen.
 
-#### Artikel 29
+##### Artikel 29
 
 De Raad verdeelt het bedrag van de in [artikel 23, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=1&artikel=23&z=2005-02-11&g=2005-02-11), bedoelde component huisvesting over de gerechten op grond van ramingen van de gerechten ter zake.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Het bestuur van een gerecht kan de Raad verzoeken om toekenning van aanvullende financiële middelen ten behoeve van specifiek omschreven activiteiten die zijn gericht op de verbetering van de organisatie of de werkwijze van het gerecht, of op bevordering van de juridische kwaliteit.
 
@@ -340,13 +365,13 @@ De Raad verdeelt het bedrag van de in [artikel 23, onder b](https://wetten.overh
 
 3. Door de Raad toegekende verzoeken komen ten laste van de in [artikel 23, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=1&artikel=23&z=2005-02-11&g=2005-02-11), bedoelde component specifieke uitgaven.
 
-#### Artikel 31
+##### Artikel 31
 
 De Raad verdeelt het bedrag van de in [artikel 24, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=1&artikel=24&z=2005-02-11&g=2005-02-11), bedoelde component overige uitgaven over de gerechten op grond van ramingen van de gerechten ter zake.
 
 ### Afdeling 3. Aan de bijdragetoekenning te verbinden voorschriften
 
-#### Artikel 32
+##### Artikel 32
 
 De aan de toekenning van de jaarlijkse bijdrage door de Raad te verbinden voorschriften kunnen slechts betrekking hebben op de in het desbetreffende jaar:
 
@@ -358,15 +383,15 @@ De aan de toekenning van de jaarlijkse bijdrage door de Raad te verbinden voorsc
 
 ### Afdeling 4. Overige voorschriften
 
-#### Artikel 33
+##### Artikel 33
 
 Het bestuur van het gerecht is verplicht medewerking te verlenen aan de metingen en onderzoeken, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=2&z=2005-02-11&g=2005-02-11) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=2&artikel=7&z=2005-02-11&g=2005-02-11).
 
-#### Artikel 34
+##### Artikel 34
 
 Het bestuur van het gerecht kan de ingevolge [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=2&artikel=28&z=2005-02-11&g=2005-02-11) aan het gerecht toegekende bijdrage voor gerechtskosten in civiele en bestuursrechtelijke zaken uitsluitend voor deze kosten aanwenden.
 
-#### Artikel 35
+##### Artikel 35
 
 Het bestuur van het gerecht verstrekt aan de Raad:
 
@@ -378,7 +403,7 @@ Het bestuur van het gerecht verstrekt aan de Raad:
 
 ### Afdeling 5. Vermogen en verrekening productieverschillen
 
-#### Artikel 36
+##### Artikel 36
 
 1. Het gerecht heeft een eigen vermogen bestaande uit een exploitatiereserve, een verplichte reserve en het onverdeeld resultaat.
 
@@ -398,7 +423,7 @@ Het bestuur van het gerecht verstrekt aan de Raad:
 
 9. Voor het tegen een financiële vergoeding verrichten van activiteiten die niet in een wettelijke regeling aan het gerecht zijn opgedragen voor anderen dan de rechtspraak zelf of Onze Minister, behoeft het bestuur van het gerecht de instemming van de Raad.
 
-#### Artikel 37
+##### Artikel 37
 
 1. De aan het gerecht ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=2&artikel=26&z=2005-02-11&g=2005-02-11) toegekende productiegerelateerde bijdrage wordt verhoogd dan wel verlaagd, indien het gerecht meer dan wel minder zaken per productgroep heeft afgedaan dan met de Raad voor dat jaar is overeengekomen.
 
@@ -408,13 +433,13 @@ Het bestuur van het gerecht verstrekt aan de Raad:
 
 4. Een in het tweede lid bedoelde verlaging van de productiegerelateerde bijdrage wordt als last opgenomen in de staat van baten en lasten van het gerecht en komt ten goede aan de egalisatierekening van de rechtspraak.
 
-#### Artikel 38
+##### Artikel 38
 
 Bij een dreigend exploitatieverlies dat leidt tot een negatief vermogen voor een gerecht, een exploitatiewinst die uitkomt boven de in [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=5&artikel=36&z=2005-02-11&g=2005-02-11), bedoelde grens dan wel bij een ingrijpende wijziging van omstandigheden met aantoonbare gevolgen voor de productie, overlegt de Raad met het betreffende gerecht over te nemen maatregelen en passen zij zonodig, onverminderd [artikel 36, zevende lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=5&artikel=36&z=2005-02-11&g=2005-02-11), de gemaakte afspraken over productieaantallen en de lokale prijzen aan.
 
 ### Hoofdstuk 5. Overige bepalingen
 
-#### Artikel 39
+##### Artikel 39
 
 1. Het met ingang van het jaar 2005 door de Raad, de gerechten en onder de Raad ressorterende diensten toe te passen begrotingsstelsel is het baten-lastenstelsel.
 
@@ -424,15 +449,15 @@ Bij een dreigend exploitatieverlies dat leidt tot een negatief vermogen voor een
 
 - b. de Regeling leen- en depositofaciliteiten agentschappen 2003, met dien verstande dat de Raad mede ten behoeve van de gerechten en de onder de Raad ressorterende diensten aanvragen doet.
 
-#### Artikel 40
+##### Artikel 40
 
 Voor onder de Raad ressorterende diensten is [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=5&artikel=36&z=2005-02-11&g=2005-02-11) van overeenkomstige toepassing.
 
-#### Artikel 41
+##### Artikel 41
 
 De door de gerechten te maken gerechtskosten in strafzaken komen ten laste van het College van procureurs-generaal.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Onze Minister geeft jaarlijks aan de Raad aan welke andere regels in acht moeten worden genomen bij de voorbereiding en de inrichting van het begrotingsvoorstel van de Raad.
 
@@ -440,19 +465,19 @@ De door de gerechten te maken gerechtskosten in strafzaken komen ten laste van h
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-#### Artikel 43
+##### Artikel 43
 
 Het [Besluit financiering rechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0013886) wordt ingetrokken.
 
-#### Artikel 44
+##### Artikel 44
 
 Wijzigt het Besluit opleiding rechterlijke ambtenaren.
 
-#### Artikel 45
+##### Artikel 45
 
 Wijzigt het Besluit uitoefening rechtspositionele bevoegdheden gerechtsambtenaren en ambtenaren bureau Raad voor de rechtspraak.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 februari 2004.
 
@@ -462,7 +487,7 @@ Wijzigt het Besluit uitoefening rechtspositionele bevoegdheden gerechtsambtenare
 
 4. De in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=3&afdeling=4&artikel=17&z=2005-02-11&g=2005-02-11), en [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017975&hoofdstuk=4&afdeling=5&artikel=36&z=2005-02-11&g=2005-02-11), bedoelde grens van 5% wordt voor het jaar 2006 berekend aan de hand van de baten 2005. Voor het jaar 2007 aan de hand van de gemiddelde jaarlijkse baten van 2005 en 2006.
 
-#### Artikel 47
+##### Artikel 47
 
 Dit besluit wordt aangehaald als: Besluit financiering rechtspraak 2005.
 

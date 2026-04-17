@@ -1,13 +1,39 @@
 ---
-title: "Besluit Toelichting Tabel II"
+title: "Besluit van de Staatssecretaris van Financiën van 8 februari 2026, nr. 2026-1395 over Tabel II bij de Wet op de omzetbelasting 1968 (Besluit Toelichting Tabel II)"
 identifier: "BWBR0052380"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-28
-laatste_update: 2026-02-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052380"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-02-28"
+last_updated: "2026-02-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052380"
+soort: "beleidsregel"
+stam_id: "17790673"
+version_id: "31455652"
+internal_id: "C44926891"
+label_id: "17689024"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052380/2026-02-28/0"
+intitule_bron: "Stcrt.2026-6674"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-08"
+intitule_published: "2026-02-27"
+intitule_in_force: "2026-02-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-6674"
+original_signed_date: "2026-02-08"
+original_published_date: "2026-02-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-6674"
+entry_into_force_date: "2026-02-28"
+jci_1_3: "jci1.3:c:BWBR0052380&z=2026-02-28&g=2026-02-28"
+jci_1_0: "1.0:c:BWBR0052380&g=2026-02-28"
+citeertitel_status: "officieel"
+short_title: "Besluit Toelichting Tabel II"
+signed_date: "2026-02-08"
+entry_into_force: "2026-02-28"
 ---
-
 # Besluit van de Staatssecretaris van Financiën van 8 februari 2026, nr. 2026-1395 over Tabel II bij de Wet op de omzetbelasting 1968 (Besluit Toelichting Tabel II)
 
 **De Staatssecretaris van Financiën,**

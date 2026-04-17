@@ -1,14 +1,37 @@
 ---
-title: "Wet op de naburige rechten"
+title: "Wet van 18 maart 1993, houdende regelen inzake de bescherming van uitvoerende kunstenaars, producenten van fonogrammen of van eerste vastleggingen van films en omroeporganisaties en wijziging van de Auteurswet 1912"
 identifier: "BWBR0005921"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005921"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005921"
+soort: "wet"
+stam_id: "2898983"
+version_id: "4466332"
+internal_id: "C4466331"
+label_id: "2847554"
+dtd_version: "2.0"
+original_entry_into_force: "1993-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005921/2026-01-01/0"
+intitule_bron: "Stb.1993-178"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-03-18"
+intitule_status: "goed"
+original_publication: "Stb.1993-178"
+original_signed_date: "1993-03-18"
+original_effect: "nieuwe-regeling"
+original_dossier: "21244"
+entry_into_force_date: "1993-07-01"
+jci_1_3: "jci1.3:c:BWBR0005921&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0005921&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet op de naburige rechten"
+signed_date: "1993-03-18"
+entry_into_force: "1993-07-01"
 ---
-
-# Wet op de naburige rechten
+# Wet van 18 maart 1993, houdende regelen inzake de bescherming van uitvoerende kunstenaars, producenten van fonogrammen of van eerste vastleggingen van films en omroeporganisaties en wijziging van de Auteurswet 1912
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +41,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
@@ -78,7 +101,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ### Hoofdstuk 2. Inhoud van de naburige rechten
 
-#### Artikel 2
+##### Artikel 2
 
 1. De uitvoerende kunstenaar heeft het uitsluitend recht om toestemming te verlenen voor een of meer van de volgende handelingen:
 
@@ -106,21 +129,21 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 9. Als afzonderlijke openbaarmaking wordt niet beschouwd de gelijktijdige uitzending van een in een radio- of televisieprogramma opgenomen uitvoering of opname van een uitvoering of reproductie daarvan door hetzelfde organisme dat dat programma oorspronkelijk uitzendt.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Indien een uitvoerende kunstenaar het verhuurrecht, bedoeld in [artikel 2, eerste lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), met betrekking tot een op een fonogram opgenomen uitvoering heeft overgedragen aan de producent daarvan, is de producent de uitvoerende kunstenaar een billijke vergoeding verschuldigd voor de verhuur.
 
 2. Van het in het eerste lid bedoelde recht op een billijke vergoeding kan geen afstand worden gedaan.
 
-#### Artikel 3
+##### Artikel 3
 
 De werkgever is bevoegd de rechten van de uitvoerende kunstenaar, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), te exploiteren, voor zover dit tussen partijen is overeengekomen dan wel voortvloeit uit de aard van de tussen hen gesloten arbeidsovereenkomst, de gewoonte of de eisen van redelijkheid en billijkheid. Tenzij anders is overeengekomen of uit de aard van de overeenkomst, de gewoonte of de eisen van redelijkheid en billijkheid anders voortvloeit, is de werkgever aan de uitvoerende kunstenaar of zijn rechtverkrijgende een billijke vergoeding verschuldigd voor iedere vorm van exploitatie van diens rechten. De werkgever eerbiedigt de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=5&z=2026-01-01&g=2026-01-01) bedoelde rechten van de uitvoerende kunstenaar.
 
-#### Artikel 4
+##### Artikel 4
 
 Op de uitvoering van een uitvoerende kunstenaar, die bestemd is als bijdrage voor de totstandkoming van een filmwerk als bedoeld in [artikel 45a van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=45a), zijn de [artikelen 45a tot en met 45ga](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=45a) van voornoemde wet van overeenkomstige toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De uitvoerende kunstenaar heeft, zelfs nadat hij zijn in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01) bedoelde recht heeft overgedragen:
 
@@ -136,7 +159,7 @@ Op de uitvoering van een uitvoerende kunstenaar, die bestemd is als bijdrage voo
 
 3. Van de in het eerste lid onder **a**-**c** genoemde rechten kan schriftelijk afstand worden gedaan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De producent van fonogrammen heeft het uitsluitend recht om toestemming te verlenen voor
 
@@ -156,7 +179,7 @@ Op de uitvoering van een uitvoerende kunstenaar, die bestemd is als bijdrage voo
 
 6. De in het derde lid bedoelde vergoeding is niet verschuldigd indien de betalingsplichtige kan aantonen dat de houder van het uitsluitend recht afstand heeft gedaan van het recht op een billijke vergoeding. De houder van het uitsluitend recht dient de afstand schriftelijk mee te delen aan de in de [artikelen 15**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=3&artikel=15a&z=2026-01-01&g=2026-01-01) en [15**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=3&artikel=15b&z=2026-01-01&g=2026-01-01) bedoelde rechtspersonen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een voor commerciële doeleinden uitgebracht fonogram of een reproduktie daarvan kan zonder toestemming van de producent van het fonogram en de uitvoerende kunstenaar of hun rechtverkrijgenden worden uitgezonden, openbaar maken door middel van doorgeven via de kabel of langs andere weg, dan wel op een andere wijze openbaar gemaakt, mits daarvoor een billijke vergoeding wordt betaald. Het in het eerste volzin bepaalde is niet van toepassing op het beschikbaar stellen voor het publiek van een dergelijk fonogram.
 
@@ -166,7 +189,7 @@ Op de uitvoering van een uitvoerende kunstenaar, die bestemd is als bijdrage voo
 
 4. De vergoeding komt toe aan zowel de uitvoerende kunstenaar als de producent of hun rechtverkrijgenden en wordt tussen hen gelijkelijk verdeeld.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. De producent van de eerste vastleggingen van films heeft het uitsluitend recht om toestemming te verlenen voor:
 
@@ -186,7 +209,7 @@ Op de uitvoering van een uitvoerende kunstenaar, die bestemd is als bijdrage voo
 
 6. De in het derde lid bedoelde vergoeding is niet verschuldigd indien de betalingsplichtige kan aantonen dat de houder van het uitsluitend recht afstand heeft gedaan van het recht op een billijke vergoeding. De houder van het uitsluitend recht dient de afstand schriftelijk mee te delen aan de in de [artikelen 15**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=3&artikel=15a&z=2026-01-01&g=2026-01-01) en [15**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=3&artikel=15b&z=2026-01-01&g=2026-01-01) bedoelde rechtspersonen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een omroeporganisatie heeft het uitsluitend recht om toestemming te verlenen voor een of meer van de volgende handelingen:
 
@@ -210,7 +233,7 @@ Op de uitvoering van een uitvoerende kunstenaar, die bestemd is als bijdrage voo
 
 6. De in het derde lid bedoelde vergoeding is niet verschuldigd indien de betalingsplichtige kan aantonen dat de houder van het uitsluitend recht afstand heeft gedaan van het recht op een billijke vergoeding. De houder van het uitsluitend recht dient de afstand schriftelijk mee te delen aan de in de [artikelen 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=3&artikel=15a&z=2026-01-01&g=2026-01-01) en [15b](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=3&artikel=15b&z=2026-01-01&g=2026-01-01) bedoelde rechtspersonen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De rechten die deze wet verleent gaan over bij erfopvolging. Deze rechten zijn vatbaar voor gehele of gedeeltelijke overdracht. Voor het verrichten van handelingen als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7b&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01) kan voor het geheel of een gedeelte van het uitsluitend recht een licentie worden verleend.
 
@@ -218,7 +241,7 @@ Op de uitvoering van een uitvoerende kunstenaar, die bestemd is als bijdrage voo
 
 3. De overdracht of de verlening van een exclusieve licentie door de uitvoerend kunstenaar of door een natuurlijke persoon die de rechten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01) als erfgenaam of legataris van de uitvoerend kunstenaar heeft verkregen, omvat alleen die bevoegdheden die uitdrukkelijk in de overeenkomst staan vermeld of die uit de aard en de strekking ervan noodzakelijkerwijs voortvloeien. De levering vereist voor overdracht geschiedt ingevolge [artikel 95 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=95) bij een daartoe bestemde akte.
 
-#### Artikel 10
+##### Artikel 10
 
 Als inbreuk op de rechten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7b&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01), wordt niet beschouwd:
 
@@ -270,11 +293,11 @@ Als inbreuk op de rechten, bedoeld in de [artikelen 2](https://wetten.overheid.n
 
 - 4°. de naam van de rechthebbende wordt vermeld, tenzij dit niet mogelijk blijkt;
 
-#### Artikel 11
+##### Artikel 11
 
 Als inbreuk op de rechten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01), wordt niet beschouwd het reproduceren van een opname van een uitvoering, fonogram, eerste vastlegging van een film, of opname van een programma, of een reproductie daarvan, mits het reproduceren geschiedt zonder direct of indirect commercieel oogmerk en uitsluitend dient tot eigen oefening, studie of gebruik van een natuurlijke persoon die de reproductie vervaardigt; de [artikelen 16c, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=16c), [16d tot en met 16ga](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=16d), [17d](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=17d) en [35c van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=35c) zijn van overeenkomstige toepassing.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De rechten van uitvoerende kunstenaars vervallen door verloop van 50 jaren te rekenen van de 1e januari van het jaar, volgend op dat waarin de uitvoering heeft plaatsgehad.
 
@@ -292,31 +315,31 @@ Als inbreuk op de rechten, bedoeld in de [artikelen 2](https://wetten.overheid.n
 
 ### Hoofdstuk 3. De uitoefening en de handhaving van de naburige rechten
 
-#### Artikel 13
+##### Artikel 13
 
 De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01) bedoelde rechten kunnen, ingeval het een gezamenlijke uitvoering door zes of meer personen betreft, uitsluitend worden uitgeoefend door een door de aan die uitvoering deelnemende uitvoerende kunstenaars bij meerderheid gekozen vertegenwoordiger. Het bepaalde in de eerste zin van dit artikel is niet van toepassing op de aan de gezamenlijke uitvoering meewerkende solist, regisseur en dirigent. De handhaving van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01) bedoelde rechten kan, ingeval het een gezamenlijke uitvoering betreft, door een ieder van de aan die uitvoering deelnemende uitvoerende kunstenaars geschieden, tenzij anders is overeengekomen.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien aan twee of meer producenten van fonogrammen of van eerste vastleggingen van films of omroeporganisaties een gemeenschappelijk recht ten aanzien van eenzelfde fonogram, eerste vastlegging van een film of programma toekomt, kan de handhaving van dit recht door ieder van hen geschieden, tenzij anders is overeengekomen.
 
-#### Artikel 14a
+##### Artikel 14a
 
 Op het recht toestemming te verlenen voor het openbaar maken door middel van het doorgeven van op grond van deze wet beschermd materiaal via de kabel of langs andere weg, zijn de [artikelen 26a tot en met 26c van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=26a) van overeenkomstige toepassing.
 
-#### Artikel 14b
+##### Artikel 14b
 
 Wanneer een omroeporganisatie de programmadragende signalen rechtstreeks aanlevert bij degene die de uitzending van op grond van deze wet beschermd materiaal via de kabel of langs andere weg verzorgt zonder dat de omroeporganisatie de signalen zelf gelijktijdig uitzendt, is er sprake van een enkele mededeling aan het publiek van in een radio of televisieprogramma opgenomen op grond van deze wet beschermd materiaal waarvoor de omroeporganisatie en degene die de programmadragende signalen uitzendt ieder voor zijn eigen bijdrage aan die mededeling aan het publiek verantwoordelijk is.
 
-#### Artikel 14c
+##### Artikel 14c
 
 Vervallen
 
-#### Artikel 14d
+##### Artikel 14d
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 1. De betaling van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7&z=2026-01-01&g=2026-01-01) bedoelde billijke vergoeding dient te geschieden aan een door Onze Minister van Justitie en Veiligheid aan te wijzen representatieve rechtspersoon die met uitsluiting van anderen met de inning en verdeling van deze vergoeding is belast. Ten aanzien van de vaststelling van de hoogte van de vergoeding en de inning daarvan alsmede de uitoefening van het uitsluitend recht vertegenwoordigt de in de vorige zin bedoelde rechtspersoon de rechthebbenden in en buiten rechte.
 
@@ -324,7 +347,7 @@ Vervallen
 
 3. De verdeling van de geïnde vergoedingen geschiedt overeenkomstig een reglement dat is opgesteld door de rechtspersoon, bedoeld in het eerste lid, en dat is goedgekeurd door het College van Toezicht, bedoeld in de [Wet toezicht collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779).
 
-#### Artikel 15a
+##### Artikel 15a
 
 1. De betaling van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01) bedoelde vergoeding dient te geschieden aan een door Onze Minister van Justitie en Veiligheid in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap aan te wijzen naar hun oordeel representatieve rechtspersoon, die met uitsluiting van anderen belast is met de inning en de verdeling van deze vergoeding. In aangelegenheden betreffende de vaststelling van de hoogte van de vergoeding en de inning daarvan alsmede de uitoefening van het uitsluitende recht vertegenwoordigt de in de vorige zin bedoelde rechtspersoon de rechthebbenden in en buiten rechte.
 
@@ -332,19 +355,19 @@ Vervallen
 
 3. De verdeling van de geïnde vergoedingen geschiedt overeenkomstig een reglement, dat is opgesteld door de rechtspersoon, bedoeld in het eerste lid, en dat is goedgekeurd door het College van Toezicht, bedoeld in de [Wet toezicht collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779).
 
-#### Artikel 15b
+##### Artikel 15b
 
 De hoogte van de in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7**a**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01), en [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01), bedoelde vergoeding wordt vastgesteld door een door Onze Minister van Justitie en Veiligheid in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap aan te wijzen stichting waarvan het bestuur zodanig is samengesteld dat de belangen van rechthebbenden en de ingevolge voornoemde artikelen betalingsplichtigen op evenwichtige wijze worden behartigd. De voorzitter van het bestuur van deze stichting wordt benoemd door Onze Minister van Justitie en Veiligheid in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap. Het aantal bestuursleden van deze stichting dient oneven te zijn.
 
-#### Artikel 15c
+##### Artikel 15c
 
 Geschillen met betrekking tot de in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7**a**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01), en [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01), bedoelde vergoeding worden in eerste aanleg bij uitsluiting beslist door de rechtbank Den Haag.
 
-#### Artikel 15d
+##### Artikel 15d
 
 Degene die tot betaling van de in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7**a**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01), en [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01), bedoelde vergoeding verplicht is, is gehouden, voor zover geen ander tijdstip is overeengekomen, vóór 1 april van ieder kalenderjaar aan de in [artikel 15**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=3&artikel=15a&z=2026-01-01&g=2026-01-01), bedoelde rechtspersoon opgave te doen van het aantal rechtshandelingen, bedoeld in eerstgenoemde artikelen. Hij is voorts gehouden desgevraagd aan deze rechtspersoon onverwijld de bescheiden of andere informatiedragers ter inzage te geven, waarvan kennisneming noodzakelijk is voor de vaststelling van de verschuldigdheid en de hoogte van de vergoeding.
 
-#### Artikel 16
+##### Artikel 16
 
 1. In passende gevallen kan de rechter de schadevergoeding vaststellen als een forfaitair bedrag.
 
@@ -352,7 +375,7 @@ Degene die tot betaling van de in de [artikelen 2, derde lid](https://wetten.ove
 
 3. De rechthebbende kan de in het tweede lid bedoelde vorderingen of een van deze ook namens of mede namens een licentienemer instellen, onverminderd de bevoegdheid van deze laatste in een al of niet namens hem of mede namens hem door de rechthebbende ingesteld geding tussen te komen om rechtstreeks de door hem geleden schade vergoed te krijgen of om zich een evenredig deel van de door de verweerder af te dragen winst te doen toewijzen. De in het tweede lid bedoelde vorderingen of een van deze kan een licentienemer slechts instellen als hij de bevoegdheid daartoe heeft bedongen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De rechten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7b&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01), geven de bevoegdheid om opnamen of reproducties daarvan die in strijd met die rechten in het verkeer zijn gebracht alsmede niet geoorloofde opnamen of reproducties, als zijn eigendom op te eisen dan wel onttrekking aan het handelsverkeer, vernietiging of onbruikbaarmaking daarvan te vorderen. Gelijke bevoegdheid bestaat ten aanzien van roerende zaken die geen registergoederen zijn en die rechtstreeks hebben gediend tot de vervaardiging van de in de eerste zin bedoelde opnamen of reproducties. Bevoegdheid tot opeising bestaat tevens ten aanzien van gelden waarvan aannemelijk is dat zij zijn verkregen door of als gevolg van inbreuk op een van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7b&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01) bedoelde rechten. Teneinde tot vernietiging of onbruikbaarmaking over te gaan, kan de gerechtigde de afgifte van deze zaken vorderen.
 
@@ -368,15 +391,15 @@ Degene die tot betaling van de in de [artikelen 2, derde lid](https://wetten.ove
 
 7. Bij de beoordeling van de maatregelen die de rechthebbende, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7b&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01), of diens licentienemer kan vorderen ingevolge de bevoegdheden, genoemd in het eerste en vierde lid, houdt de rechter rekening met de noodzakelijke evenredigheid tussen de ernst van de inbreuk en de gevorderde maatregelen en met de belangen van derden.
 
-#### Artikel 18
+##### Artikel 18
 
 De in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=3&artikel=17&z=2026-01-01&g=2026-01-01), bedoelde bevoegdheid kan niet worden uitgeoefend ten aanzien van opnamen of reprodukties daarvan, die onder personen berusten, die niet in soortgelijke zaken handel drijven en deze uitsluitend voor eigen gebruik hebben verkregen, tenzij zij zelf inbreuk op het desbetreffende recht hebben gemaakt.
 
-#### Artikel 33
+##### Artikel 33
 
 Ten aanzien van uitvoeringen, fonogrammen of programma's, die voor het tijdstip van in werking treden van deze wet hebben plaatsgevonden, zijn vervaardigd onderscheidenlijk zijn uitgezonden, zijn de door deze wet verleende rechten van toepassing voor zover het gedragingen betreft die plaatsvinden na het tijdstip van in werking treden van deze wet.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Op verzoek van een of meer naar het oordeel van Onze Minister van Justitie en Veiligheid representatieve organisaties van bedrijfs- of beroepsgenoten, die rechtspersonen met volledige rechtsbevoegdheid zijn en die ten doel hebben de behartiging van de belangen van personen die beroeps- of bedrijfsmatig opnamen of reprodukties daarvan, verkopen, verhuren, uitlenen, afleveren of anderszins in het verkeer brengen dan wel voor die doeleinden invoeren, aanbieden of in voorraad hebben, kan voornoemde minister bepalen dat door hem aangewezen beroeps- of bedrijfsgenoten verplicht zijn hun administratie te voeren op een nader door hem aan te geven wijze.
 
@@ -384,11 +407,11 @@ Ten aanzien van uitvoeringen, fonogrammen of programma's, die voor het tijdstip 
 
 ### Hoofdstuk 4. Bepalingen van strafrecht
 
-#### Artikel 21
+##### Artikel 21
 
 Hij die opzettelijk inbreuk maakt op de rechten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01) van deze wet, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de vierde categorie.
 
-#### Artikel 22
+##### Artikel 22
 
 Hij, die opzettelijk een voorwerp waarin met inbreuk op de rechten als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01) van deze wet een opname van een uitvoering, fonogram, eerste vastlegging van een film of een opname van een programma, of een reproductie daarvan, is vervat,
 
@@ -402,11 +425,11 @@ Hij, die opzettelijk een voorwerp waarin met inbreuk op de rechten als bedoeld i
 
 wordt gestraft met gevangenisstraf van ten hoogste één jaar of geldboete van de vijfde categorie.
 
-#### Artikel 23
+##### Artikel 23
 
 Hij, die van het plegen van de misdrijven als bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=4&artikel=21&z=2026-01-01&g=2026-01-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=4&artikel=22&z=2026-01-01&g=2026-01-01), zijn beroep maakt of het plegen van deze misdrijven als bedrijf uitoefent, wordt gestraft met gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie.
 
-#### Artikel 24
+##### Artikel 24
 
 Hij, die een voorwerp waarvan hij redelijkerwijs kan vermoeden dat daarin met inbreuk op de rechten als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01) van deze wet een opname van een uitvoering, fonogram, eerste vastlegging van een film of een opname van een programma, of een reproductie daarvan, is vervat,
 
@@ -420,43 +443,43 @@ Hij, die een voorwerp waarvan hij redelijkerwijs kan vermoeden dat daarin met in
 
 wordt gestraft met geldboete van de derde categorie.
 
-#### Artikel 25
+##### Artikel 25
 
 Hij die opzettelijk in een uitvoering, in de benaming daarvan of in de aanduiding van de uitvoerende kunstenaar wederrechtelijk enige wijziging aanbrengt, of wel een zodanige uitvoering op enige andere wijze, welke nadeel zou kunnen toebrengen aan de eer of de naam van de uitvoerende kunstenaar of aan zijn waarde in deze hoedanigheid, aantast, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de vierde categorie.
 
-#### Artikel 26
+##### Artikel 26
 
 De feiten strafbaar gesteld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=4&artikel=21&z=2026-01-01&g=2026-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=4&artikel=22&z=2026-01-01&g=2026-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=4&artikel=23&z=2026-01-01&g=2026-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=4&artikel=24&z=2026-01-01&g=2026-01-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=4&artikel=25&z=2026-01-01&g=2026-01-01) zijn misdrijven.
 
-#### Artikel 27
+##### Artikel 27
 
 Hij die in een schriftelijke aanvrage of opgave aan de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=3&artikel=15&z=2026-01-01&g=2026-01-01), bedoelde rechtspersoon, dienende voor de vaststelling van het op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7&z=2026-01-01&g=2026-01-01) van deze wet verschuldigde, opzettelijk een onjuiste of onvolledige mededeling doet, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie. Het feit wordt beschouwd als een overtreding.
 
-#### Artikel 27a
+##### Artikel 27a
 
 Degene die een opgave, bedoeld in [artikel 15**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=3&artikel=15d&z=2026-01-01&g=2026-01-01), opzettelijk nalaat dan wel in een dergelijke opgave opzettelijk een onjuiste of onvolledige mededeling doet, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie. Het feit wordt beschouwd als een overtreding.
 
-#### Artikel 28
+##### Artikel 28
 
 De opsporingsambtenaren zijn bevoegd, tot het opsporen van de bij deze wet strafbaar gestelde feiten en ter inbeslagneming van hetgeen daarvoor vatbaar is, elke plaats te betreden. Indien hun de toegang wordt geweigerd, verschaffen zij zich die desnoods met inroeping van de sterke arm. In woningen treden zij tegen de wil van de bewoner niet binnen dan op vertoon van een schriftelijke bijzondere last van of in tegenwoordigheid van een officier van justitie of een hulpofficier van justitie. Van dit binnentreden wordt door hen binnen vierentwintig uren procesverbaal opgemaakt.
 
-#### Artikel 29
+##### Artikel 29
 
 De opsporingsambtenaren kunnen te allen tijde tot het opsporen van bij deze wet strafbaar gestelde feiten inzage vorderen van alle bescheiden of andere gegevensdragers, waarvan inzage voor de vervulling van hun taak redelijkerwijze nodig is, bij hen die in de uitoefening van hun beroep of bedrijf opnamen of reprodukties daarvan, waarop de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01) bedoelde rechten betrekking hebben, reproduceren, verkopen, afleveren of anderszins in het verkeer brengen dan wel voor die doeleinden invoeren, doorvoeren, uitvoeren aanbieden of in voorraad hebben of openbaar maken.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De door de strafrechter verbeurd verklaarde opnamen en reprodukties worden vernietigd; echter kan de rechter bij het vonnis bepalen, dat zij aan de rechthebbende zullen worden afgegeven, indien deze zich daartoe ter griffie aanmeldt binnen een maand nadat de uitspraak in kracht van gewijsde is gegaan.
 
 2. Door de afgifte gaat de eigendom van de opnamen en reprodukties op de rechthebbende over. De rechter zal kunnen gelasten, dat die afgifte niet zal geschieden dan tegen een bepaalde door de rechthebbende te betalen vergoeding, welke ten bate komt van de Staat.
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
 ### Hoofdstuk 4. Bepalingen van strafrecht
 
-#### Artikel 32
+##### Artikel 32
 
 1. De voorgaande artikelen zijn op de uitvoerende kunstenaar van toepassing ingeval:
 
@@ -502,7 +525,7 @@ Het derde lid is van overeenkomstige toepassing.
 
 9. De voorgaande artikelen zijn op de uitgever van een perspublicatie van toepassing ingeval hij onderdaan is van of rechtspersoon is opgericht naar het recht van een van de lidstaten van de Europese Unie of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992 dan wel in Nederland zijn zetel of gewone verblijfplaats heeft.
 
-#### Artikel 32a
+##### Artikel 32a
 
 1. De voorgaande artikelen zijn van toepassing op het uitzenden van een uitvoering, fonogram, of programma of een reproduktie daarvan door middel van een satelliet, indien in Nederland onder controle en verantwoordelijkheid van een omroeporganisatie de programmadragende signalen voor ontvangst door het publiek zijn ingevoerd in een ononderbroken mededelingenketen die naar de satelliet en terug naar de aarde loopt. Indien de programmadragende signalen in gecodeerde vorm worden uitgezonden, is er sprake van een uitzending, bedoeld in de eerste zin, indien de middelen voor het decoderen van de uitzending door of met toestemming van de omroeporganisatie ter beschikking van het publiek worden gesteld.
 
@@ -514,11 +537,11 @@ Het derde lid is van overeenkomstige toepassing.
 
 - c. hetzij de programmadragende signalen naar de satelliet worden doorgezonden vanuit een grondstation in Nederland, hetzij een omroeporganisatie die in Nederland haar hoofdvestiging heeft, opdracht heeft gegeven tot de uitzending en geen gebruik wordt gemaakt van een grondstation in een lid-staat van de Europese Unie of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992.
 
-#### Artikel 33
+##### Artikel 33
 
 Ten aanzien van uitvoeringen, fonogrammen of programma's, die voor het tijdstip van in werking treden van deze wet hebben plaatsgevonden, zijn vervaardigd onderscheidenlijk zijn uitgezonden, zijn de door deze wet verleende rechten van toepassing voor zover het gedragingen betreft die plaatsvinden na het tijdstip van in werking treden van deze wet.
 
-#### Artikel 33a
+##### Artikel 33a
 
 1. Uitvoerende kunstenaars die onderdaan zijn van een staat, niet zijnde een lid-staat van de Europese Unie of een staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992, die geen partij is bij het Verdrag van Rome inzake de bescherming van uitvoerende kunstenaars, producenten van fonogrammen en omroeporganisaties, en omroeporganisaties, waarvan het hoofdkantoor is gevestigd in een staat als hiervoor bedoeld, kunnen geen beroep doen op de door deze wet verleende rechten, indien de duur daarvan ingevolge de nationale wetgeving reeds is verstreken.
 
@@ -528,13 +551,13 @@ Ten aanzien van uitvoeringen, fonogrammen of programma's, die voor het tijdstip 
 
 - b. producenten van eerste vastlegging van films die onderdaan zijn van een staat, niet zijnde een lid-staat van de Europese Unie of een staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992, waarvan de nationale wetgeving in een kortere beschermingstermijn voorziet dan die bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=12&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 34
+##### Artikel 34
 
 De voorgaande artikelen van deze wet laten een beroep op [artikel 162 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=162) onverlet.
 
 ### Hoofdstuk 5. Toepassingscriteria
 
-#### Artikel 35
+##### Artikel 35
 
 1. De in deze wet voorziene beschermingstermijnen zijn met ingang van het tijdstip van inwerkingtreding van dit artikel van toepassing op uitvoeringen, fonogrammen, eerste vastleggingen van films of programma's, die op 1 juli 1995 in ten minste één lid-staat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992 beschermd worden door de nationale wetgeving op het gebied van de naburige rechten of die op die datum voldoen aan de beschermingscriteria van de Richtlijn van de Raad van de Europese Gemeenschappen van 19 november 1992, **PbEG** 1992, L 346/61, betreffende het verhuurrecht, het uitleenrecht en bepaalde naburige rechten op het gebied van intellectuele eigendom.
 
@@ -546,17 +569,17 @@ De voorgaande artikelen van deze wet laten een beroep op [artikel 162 van Boek 6
 
 ### Hoofdstuk 6. Overgangsbepaling
 
-#### Artikel 36
+##### Artikel 36
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 37
+##### Artikel 37
 
 Deze wet kan worden aangehaald als de Wet op de naburige rechten.
 
 Lasten en bevelen dat deze wet in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Degene, die doeltreffende technische voorzieningen omzeilt en dat weet of redelijkerwijs behoort te weten, handelt onrechtmatig.
 
@@ -574,7 +597,7 @@ handelt onrechtmatig.
 
 4. Bij algemene maatregel van bestuur kunnen regels worden vastgesteld die de uitvoerende kunstenaar, producent van fonogrammen, producent van films en omroeporganisatie, of hun rechtverkrijgenden, er toe verplichten aan de gebruiker van een uitvoering, opname van een uitvoering, fonogram, eerste vastlegging van een film, programma en opname van een programma, of een reproductie daarvan, voor het gebruik als omschreven in [artikel 10, onderdelen e, f, m, n, p en q](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=10&z=2026-01-01&g=2026-01-01), de nodige middelen te verschaffen om van deze beperkingen te profiteren, mits de gebruiker rechtmatig toegang heeft tot door de technische voorziening beschermde uitvoering, opname van een uitvoering, fonogram, eerste vastlegging van een film, programma of opname van een programma, of reproductie daarvan. [Artikel 17d van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=17d) is van overeenkomstige toepassing.
 
-#### Artikel 19a
+##### Artikel 19a
 
 Degene die opzettelijk en zonder daartoe gerechtigd te zijn elektronische informatie betreffende het beheer van rechten verwijdert of wijzigt, of van opnamen van uitvoeringen, fonogrammen, films, perspublicaties of programma's, of reproducties daarvan, op ongeoorloofde wijze dergelijke informatie is verwijderd of waarin op ongeoorloofde wijze dergelijke informatie is gewijzigd, verspreidt, ter verspreiding invoert, uitzendt of anderszins openbaar maakt, en weet of redelijkerwijs behoort te weten dat hij zodoende aanzet tot inbreuk op de rechten als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7b&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01) dan wel een dergelijke inbreuk mogelijk maakt, vergemakkelijkt of verbergt, handelt onrechtmatig.
 
@@ -588,7 +611,7 @@ Degene die opzettelijk en zonder daartoe gerechtigd te zijn elektronische inform
 
 Lasten en bevelen dat deze wet in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9a
+##### Artikel 9a
 
 De in [artikel 25e, derde lid van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=25e) genoemde termijn bedraagt te allen tijde ten minste één jaar indien:
 
@@ -606,7 +629,7 @@ De in [artikel 25e, derde lid van de Auteurswet](https://wetten.overheid.nl/jci1
 
 Lasten en bevelen dat deze wet in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Behoudens bewijs van het tegendeel wordt voor de houder van een naburig recht gehouden degene die op of in het op grond van deze wet beschermde materiaal als zodanig is aangeduid, of bij gebreke van een dergelijke aanduiding, degene die bij de openbaarmaking of het in het verkeer brengen van dit materiaal als uitvoerende kunstenaar, producent van fonogrammen, producent van eerste vastleggingen van films, uitgever van een perspublicatie of omroeporganisatie, daarvan is bekend gemaakt door degene die het materiaal openbaar maakt of in het verkeer brengt.
 
@@ -614,15 +637,15 @@ Behoudens bewijs van het tegendeel wordt voor de houder van een naburig recht ge
 
 ### Hoofdstuk 3. De uitoefening en de handhaving van de naburige rechten
 
-#### Artikel 15e
+##### Artikel 15e
 
 De rechter kan op vordering van de rechthebbende, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7b&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01), tussenpersonen wier diensten door derden worden gebruikt om inbreuk op zijn naburig recht te maken, bevelen de diensten die worden gebruikt om die inbreuk te maken, te staken.
 
-#### Artikel 15f
+##### Artikel 15f
 
 De voorzieningenrechter kan op vordering van de rechthebbende, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7b&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01), tijdelijke voortzetting van de vermeende inbreuk toestaan onder de voorwaarde dat zekerheid wordt gesteld voor vergoeding van de door de rechthebbende geleden schade. Onder dezelfde voorwaarden kan de rechter voortzetting van de dienstverlening door de tussenpersoon als bedoeld in [artikel 15e](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=3&artikel=15e&z=2026-01-01&g=2026-01-01) toestaan.
 
-#### Artikel 18a
+##### Artikel 18a
 
 De rechter kan op vordering van de rechthebbende, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7b&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01), gelasten dat op kosten van degene die inbreuk op diens recht heeft gemaakt passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.
 
@@ -634,7 +657,7 @@ De rechter kan op vordering van de rechthebbende, bedoeld in de [artikelen 2](ht
 
 Lasten en bevelen dat deze wet in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9b
+##### Artikel 9b
 
 1. Indien de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=9&z=2026-01-01&g=2026-01-01) bedoelde overdracht behelst de overdracht van de rechten van zijn uitvoering aan de producent van een fonogram, en bij die overdracht een niet-periodieke vergoeding is overeengekomen, heeft de uitvoerende kunstenaar, of in het geval van meerdere uitvoerende kunstenaars, de uitvoerende kunstenaars gezamenlijk het recht om van die producent een jaarlijkse aanvullende vergoeding te ontvangen voor ieder volledig jaar volgend op het 50ste jaar nadat dat fonogram voor het eerst op rechtmatige wijze in het verkeer is gebracht, of indien dit eerder valt, is openbaar gemaakt.
 
@@ -644,13 +667,13 @@ Lasten en bevelen dat deze wet in het **Staatsblad** zal worden geplaatst en dat
 
 4. Van de in de leden 1 tot en met 3 genoemde rechten kan de uitvoerende kunstenaar geen afstand doen.
 
-#### Artikel 9c
+##### Artikel 9c
 
 De rechten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7a&z=2026-01-01&g=2026-01-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=7b&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01), zijn niet van toepassing op een door of vanwege de openbare macht in het verkeer gebrachte opname van een uitvoering, fonogram, eerste vastlegging van een film, perspublicatie, opnamen van een programma, en een reproductie daarvan en openbaar gemaakte uitvoering, opname van een uitvoering, fonogram, eerste vastlegging van een film, perspublicatie, programma, opname van een programma, en een reproductie daarvan, waarvan de openbare macht de rechthebbende is, tenzij de rechten hetzij in het algemeen bij de wet, besluit of verordening, hetzij in een bepaald geval blijkens mededeling op of in het op grond van deze wet beschermde materiaal zelf dan wel bij het in het verkeer brengen of openbaar maken daarvan uitdrukkelijk zijn voorbehouden.
 
 ### Hoofdstuk 3. De uitoefening en de handhaving van de naburige rechten
 
-#### Artikel 15g
+##### Artikel 15g
 
 1. De betaling van de in [artikel 9b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005921&hoofdstuk=2&artikel=9b&z=2026-01-01&g=2026-01-01) bedoelde vergoeding geschiedt aan een door Onze Minister van Justitie en Veiligheid, in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap aan te wijzen rechtspersoon. Deze rechtspersoon is met uitsluiting van anderen belast met de inning en verdeling van de vergoeding.
 
@@ -668,7 +691,7 @@ De rechten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 Lasten en bevelen dat deze wet in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2b
+##### Artikel 2b
 
 [Hoofdstuk 1a van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=Ia) is van overeenkomstige toepassing op de uitvoerende kunstenaar.
 
@@ -682,7 +705,7 @@ Lasten en bevelen dat deze wet in het **Staatsblad** zal worden geplaatst en dat
 
 Lasten en bevelen dat deze wet in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 7b
+##### Artikel 7b
 
 1. De uitgever van een perspublicatie heeft het uitsluitende recht om toestemming te verlenen voor een of meer van de volgende handelingen:
 
@@ -708,11 +731,11 @@ Lasten en bevelen dat deze wet in het **Staatsblad** zal worden geplaatst en dat
 
 ### Hoofdstuk 3. De uitoefening en de handhaving van de naburige rechten
 
-#### Artikel 19b
+##### Artikel 19b
 
 Een aanbieder van een onlinedienst voor het delen van inhoud stelt de door de gebruikers van zijn dienst aangeboden opnames van uitvoeringen, fonogrammen, eerste vastleggingen van films, opnames van programma’s, of reproducties daarvan, beschikbaar voor het publiek of maakt die op grond van deze wet beschermde prestaties anderszins openbaar. De [artikelen 17d](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=17d), [29c, eerste tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=29c), [29d](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=29d) en [29e van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=29e) zijn van overeenkomstige toepassing.
 
-#### Artikel 19c
+##### Artikel 19c
 
 1. Op een collectieve beheersorganisatie als bedoeld in [artikel 1, onderdeel d, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=1) die een niet-exclusieve licentie voor niet-commerciële doeleinden verleent aan een cultureel erfgoedinstelling voor het reproduceren, in het verkeer brengen, beschikbaar stellen voor het publiek of anderszins openbaar maken van een opname van een uitvoering, fonogram, eerste vastlegging van een film, perspublicatie of opname van een programma, of een reproductie daarvan, die permanent deel uitmaken van de collectie van die erfgoedinstelling en de op grond van deze wet beschermde prestaties niet in de handel verkrijgbaar zijn, zijn [artikel 17d](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=17d) en de [eerste paragraaf van hoofdstuk IVa van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=IVa) van overeenkomstige toepassing.
 
@@ -720,7 +743,7 @@ Een aanbieder van een onlinedienst voor het delen van inhoud stelt de door de ge
 
 ### Hoofdstuk 5. Toepassingscriteria
 
-#### Artikel 32b
+##### Artikel 32b
 
 1. Iedere mededeling aan het publiek en beschikbaarstelling voor het publiek van op grond van deze wet beschermd materiaal in:
 

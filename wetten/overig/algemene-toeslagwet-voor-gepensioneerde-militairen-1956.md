@@ -1,14 +1,36 @@
 ---
-title: "Algemene toeslagwet voor gepensioneerde militairen 1956"
+title: "Wet van 20 december 1956, houdende verhoging van militaire pensioenen met een algemene toeslag"
 identifier: "BWBR0002240"
-categorie: "Overig"
-publicatiedatum: 1963-06-01
-laatste_update: 1963-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002240"
+country: "nl"
+rank: "wet"
+publication_date: "1963-06-01"
+last_updated: "1963-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002240"
+soort: "wet"
+stam_id: "848413"
+version_id: "1233822"
+internal_id: "C1233821"
+label_id: "822784"
+dtd_version: "2.0"
+original_entry_into_force: "1957-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002240/1963-06-01/0"
+intitule_bron: "Stb.1956-619"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1956-12-20"
+intitule_status: "goed"
+original_publication: "Stb.1956-619"
+original_signed_date: "1956-12-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1957-01-01"
+jci_1_3: "jci1.3:c:BWBR0002240&z=1963-06-01&g=1963-06-01"
+jci_1_0: "1.0:c:BWBR0002240&g=1963-06-01"
+citeertitel_status: "officieel"
+short_title: "Algemene toeslagwet voor gepensioneerde militairen 1956"
+signed_date: "1956-12-20"
+entry_into_force: "1957-01-01"
 ---
-
-# Algemene toeslagwet voor gepensioneerde militairen 1956
+# Wet van 20 december 1956, houdende verhoging van militaire pensioenen met een algemene toeslag
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +38,7 @@ Alzo Wij in overweging genomen hebben, dat de beperking van overheidspensioenen 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze wet verstaat onder **pensioen:** het nominale bedrag, zoals dit laatstelijk is of wordt vastgesteld, van een pensioen ten laste van het Rijk of van het Algemeen Burgerlijk Pensioenfonds, toegekend krachtens of op de voet van de Pensioenwet voor de zeemacht 1922 (**Stb.** 65), de Pensioenwet voor de landmacht 1922 (**Stb.** 66), de Pensioenwet voor het personeel der Koninklijke marine-reserve 1923 (**Stb** 355), de Pensioenwet voor het reserve-personeel der landmacht 1923 (**Stb.** 356) - met uitzondering van een pensioen toegekend krachtens de artikelen 20 van genoemde wetten -, de Pensioenwet voor de vrijwilligers bij de landstorm 1925 (**Stb.** 278), onderscheidenlijk krachtens of op de voet van de Militaire Weduwenwet 1922 (**Stb.** 337), dan wel een der aan genoemde wetten voorafgaande regelingen of wetten betreffende pensioenaanspraken, welke daarna in eerstbedoelde wetten zijn geregeld of geacht worden te zijn geregeld.
 
@@ -38,19 +60,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. de pensioensverhogingen, gegrond op de artikelen 22 van de Pensioenwet voor de zeemacht 1922 en de Pensioenwet voor de landmacht 1922 of op de artikelen 25 en 28 van de Militaire Weduwenwet 1922.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor zover het recht op pensioen op het tijdstip van het in werking treden van deze wet niet is vervallen, worden de pensioenen met ingang van dat tijdstip of van het later tijdstip, waarop zij zullen ingaan, met inachtneming van de volgende bepalingen, ambtshalve verhoogd met een toeslag, verder te noemen algemene toeslag.
 
 2. Op het tijdstip, met ingang waarvan een pensioen is verhoogd met een algemene toeslag of met een overgangstoeslag, als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=15&z=1963-06-01&g=1963-06-01), vervallen de toeslagen en de extra bijslag, welke, krachtens de in [artikel 1, tweede lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=1&z=1963-06-01&g=1963-06-01) genoemde wetten, op een pensioen zijn verleend.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De algemene toeslag wordt uitgedrukt in een percentage van het pensioen, verder te noemen verhogingspercentage.
 
 2. De berekening van het verhogingspercentage geschiedt met behulp van grondgetallen. Elk grondgetal heeft betrekking op het daarbij in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=4&z=1963-06-01&g=1963-06-01) aangegeven tijdvak.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor de berekening van het verhogingspercentage voor pensioenen, welke krachtens of op de voet van een der wetten, genaamd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=1&z=1963-06-01&g=1963-06-01), aan militairen der zeemacht en aan nabestaanden man militairen of gepensioneerde militairen der zeemacht zijn of worden toegekend - met uitzondering van die, genoemd in het derde lid - hebben de in onderstaande kolommen vermelde grondgetallen betrekking op de daarnaast vermelde tijdvakken en de daarboven vermelde rangen en stand of de door Ons of door Onze Minister van Marine daarmede gelijkgestelde rangen en stand:
 
@@ -271,7 +293,7 @@ hebben de in onderstaande kolommen vermelde grondgetallen betrekking op de daarn
 | 1 januari | 1956 | „ „ „ 31 december 1956 | 4,8 |
 | 1 januari | 1957 |   | 0 |
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de periode, welke bepalend is voor de pensioensgrondslag, waarnaar het pensioen is berekend, geheel valt binnen een der in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=4&z=1963-06-01&g=1963-06-01) bedoelde tijdvakken en rangen of stand en klassen, dan wel samenvalt met een zodanig tijdvak, is het verhogingspercentage gelijk aan het grondgetal, dat betrekking heeft op bedoeld tijdvak en bedoelde rang of stand of klasse.
 
@@ -285,7 +307,7 @@ hebben de in onderstaande kolommen vermelde grondgetallen betrekking op de daarn
 
 4. De verhogingspercentages, welke geen geheel getal bedragen, worden op het naastliggende gehele getal afgerond, met dien verstande, dat ½ naar boven wordt afgerond.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het verhogingspercentage voor pensioenen, welke krachtens de wet van 28 augustus 1851 (**Stb.** 127), de Pensioenwet voor de zeemacht 1902 of de wet van 12 juli 1895 (**Stb.** 104) zijn toegekend, bedraagt 481.
 
@@ -299,7 +321,7 @@ hebben de in onderstaande kolommen vermelde grondgetallen betrekking op de daarn
 
 6. Het verhogingspercentage voor pensioenen, welke zijn berekend naar een minimum pensioensgrondslag van onderscheidenlijk f 700, f 1500 en f 2850 bedraagt onderscheidenlijk 376, 122 en 17.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien toepassing van deze wet tot gevolg zou hebben, dat het pensioen, zonder de verhoging, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=19&z=1963-06-01&g=1963-06-01) der Pensioenwetten voor de zee- en landmacht 1922 en der Pensioenwetten voor het personeel der Koninklijke marine-reserve en het reserve-personeel der landmacht 1923 , vermeerderd met de bij dat pensioen behorende algemene toeslag, zou overschrijden het pensioensbedrag, dat bereikbaar is bij verhoging van de pensioensgrondslag met het verhogingspercentage van het pensioen en met inachtneming van de gunstigste pensioenberekening, wordt de algemene toeslag zoveel verminderd als nodig is om die overschrijding te voorkomen.
 
@@ -307,15 +329,15 @@ hebben de in onderstaande kolommen vermelde grondgetallen betrekking op de daarn
 
 3. Door de verminderingen, bedoeld in het eerste en tweede lid, mag het totaal van het pensioen en de algemene toeslag niet dalen beneden het in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=15&z=1963-06-01&g=1963-06-01), bedoelde totaal van pensioen, toeslagen en extra bijslag, waarop op de dag voorafgaande aan het tijdstip van het in werking treden van deze wet aanspraak bestond.
 
-#### Artikel 8
+##### Artikel 8
 
 De algemene toeslag wordt naar boven afgerond tot volle guldens.
 
-#### Artikel 9
+##### Artikel 9
 
 Pensioen en algemene toeslag worden als een eenheid beschouwd, waarop de op het betreffende pensioen betrekking hebbende wettelijke bepalingen van overeenkomstige toepassing zijn.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De algemene toeslag wordt slechts genoten over tijdvakken, waarover het pensioen wordt genoten.
 
@@ -325,25 +347,25 @@ Pensioen en algemene toeslag worden als een eenheid beschouwd, waarop de op het 
 
 4. De uitbetaling van de algemene toeslag geschiedt door het orgaan, dat met de uitbetaling van het pensioen is belast.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De kosten van de algemene toeslag op de pensioenen ten laste van het Rijk komen ten laste van Hoofdstuk VIII A of VIII B der Rijksbegroting, naar gelang de betrokken militair behoord heeft tot de Koninklijke land- of luchtmacht of de zeemacht.
 
 2. De kosten van de algemene toeslag op de pensioenen ten laste van het Algemeen Burgerlijk Pensioenfonds komen ten laste van Hoofdstuk V der Rijksbegroting.
 
-#### Artikel 12
+##### Artikel 12
 
 De Algemene Rekenkamer toetst bij haar onderzoek naar de juistheid der betaalde bedragen aan algemene toeslag, deze uitsluitend aan de beslissingen krachtens deze wet genomen.
 
-#### Artikel 13
+##### Artikel 13
 
 De Raad van State gehoord, kunnen Wij deze wet of bepaalde artikelen daarvan van toepassing verklaren op andere pensioenen.
 
-#### Artikel 14
+##### Artikel 14
 
 De wetten, genoemd in [artikel 1, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=1&z=1963-06-01&g=1963-06-01), vinden met ingang van het tijdstip van het in werking treden van deze wet geen toepassing meer op de pensioenen, in dier voege, dat op die pensioenen geen toeslagen en extra bijslag krachtens evenbedoelde wetten meer worden verleend.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Zolang het totaal van het pensioen en de algemene toeslag lager is dan het totaal van het pensioen, de toeslagen en de extra bijslag, bedoeld in [artikel 1, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=1&z=1963-06-01&g=1963-06-01), waarop aanspraak bestond op de dag voorafgaande aan het tijdstip van het in werking treden van deze wet, wordt boven de algemene toeslag een overgangstoeslag verleend ten bedrage van het verschil tussen de bedragen van de oude en nieuwe aanspraak.
 
@@ -351,19 +373,19 @@ De wetten, genoemd in [artikel 1, tweede lid, onder a](https://wetten.overheid.n
 
 3. De [artikelen 8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002240&artikel=8&z=1963-06-01&g=1963-06-01) zijn op de overgangstoeslag van overeenkomstig toepassing.
 
-#### Artikel 16
+##### Artikel 16
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 17
+##### Artikel 17
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze wet kan worden aangehaald onder de titel: Algemene toeslagwet voor gepensioneerde militairen 1956.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 

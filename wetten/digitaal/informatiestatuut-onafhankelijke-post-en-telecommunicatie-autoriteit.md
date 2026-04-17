@@ -1,13 +1,38 @@
 ---
-title: "Informatiestatuut Onafhankelijke Post en Telecommunicatie Autoriteit"
+title: "Regeling van de Minister van Verkeer en Waterstaat, houdende een Informatiestatuut, alsmede regels inzake inrichting van de begroting en het financieel verslag van de Onafhankelijke Post en Telecommunicatieautoriteit"
 identifier: "BWBR0008852"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2004-05-19
-laatste_update: 2004-05-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008852"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2004-05-19"
+last_updated: "2004-05-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008852"
+soort: "ministeriele-regeling"
+stam_id: "4484103"
+version_id: "6290652"
+internal_id: "C6494861"
+label_id: "4462734"
+dtd_version: "2.0"
+original_entry_into_force: "1997-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008852/2004-05-19/0"
+intitule_bron: "Stcrt.1997-142"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-07-23"
+intitule_published: "1997-07-29"
+intitule_in_force: "1997-07-29"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-142"
+original_signed_date: "1997-07-23"
+original_published_date: "1997-07-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-08-01"
+jci_1_3: "jci1.3:c:BWBR0008852&z=2004-05-19&g=2004-05-19"
+jci_1_0: "1.0:c:BWBR0008852&g=2004-05-19"
+citeertitel_status: "officieel"
+short_title: "Informatiestatuut Onafhankelijke Post en Telecommunicatie Autoriteit"
+signed_date: "1997-07-23"
+entry_into_force: "1997-08-01"
 ---
-
 # Regeling van de Minister van Verkeer en Waterstaat, houdende een Informatiestatuut, alsmede regels inzake inrichting van de begroting en het financieel verslag van de Onafhankelijke Post en Telecommunicatieautoriteit
 
 Gelet op de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008807&artikel=18) en [21 van de Wet Onafhankelijke post- en telecommunicatieautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0008807&artikel=21);
@@ -16,21 +41,21 @@ Besluit:
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2. Wijze van informatie-uitwisseling
+##### Artikel 2. Wijze van informatie-uitwisseling
 
 De in deze regeling genoemde informatie die tussen de minister en het college wordt uitgewisseld, wordt in ieder geval op een toegankelijke wijze aangeleverd, waar mogelijk gebruikmakend van informatietechnologie.
 
-#### Artikel 3. Reactie minister op verzoeken van het college tot initiëring of wijziging van regelgeving
+##### Artikel 3. Reactie minister op verzoeken van het college tot initiëring of wijziging van regelgeving
 
 De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek van het college tot initiëring of wijziging van de regelgeving op het gebied van elektronische communicatie en post.
 
 ### Hoofdstuk II. Informatie wederzijds te verstrekken ten behoeve van de taakuitoefening van beide partijen
 
-#### Artikel 4. Informatie aan college over beleid en regelgeving
+##### Artikel 4. Informatie aan college over beleid en regelgeving
 
 1. De minister informeert het college tijdig over voornemens tot formulering of aanpassing van beleid danwel regelgeving op het gebied van, danwel relevant voor, de taakuitoefening van het college. Het college kan, indien het dat gewenst acht een advies uitbrengen aan de minister.
 
@@ -48,7 +73,7 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 - f. concept-vergunningen en vergunningvoorschriften;
 
-#### Artikel 5. Uitvoeringstoets
+##### Artikel 5. Uitvoeringstoets
 
 1. De minister verzoekt het college om voorgenomen wet- en regelgeving en overige beleidsvoornemens, welke na invoering van invloed zijn of kunnen zijn op het functioneren van het college te toetsen op:
 
@@ -68,7 +93,7 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 6. Indien de aan het college voorgelegde beleidsvoornemens of voorgenomen wet- en regelgeving tussentijds wijzigen, legt de minister de wijzigingen ten behoeve van een finale uitvoeringstoets voor aan het college. Het tweede tot en met het vijfde lid zijn van overeenkomstige toepassing.
 
-#### Artikel 6. Uitvoeringsevaluatie
+##### Artikel 6. Uitvoeringsevaluatie
 
 1. Het college evalueert op verzoek van de minister of uit eigen beweging de uitvoering van nieuw of bijgesteld beleid dan wel nieuwe of bijgestelde wet- en regelgeving.
 
@@ -78,7 +103,7 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 4. Het college verstrekt een overzicht van de uitgevoerde evaluaties en de daaruit voortvloeiende rapportages op het moment van indiening van het jaarverslag in een separaat document.
 
-#### Artikel 7. Feitelijke gegevens
+##### Artikel 7. Feitelijke gegevens
 
 1. Het college levert op een door de minister gedaan verzoek of uit eigen beweging bepaalde feitelijke gegevens, die noodzakelijk worden geacht ten behoeve van de ontwikkeling en uitvoering van beleid en wet- en regelgeving, politieke besluitvorming en de beantwoording van door de Eerste en Tweede Kamer der Staten-Generaal gestelde vragen.
 
@@ -96,7 +121,7 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 3. Indien het leveren van gegevens, voor zover dit geschiedt op een door de minister gedaan verzoek, buitengewone inspanning of kosten vergt of zou leiden tot tariefsverhoging, informeert het college de minister hierover per omgaande. Hierbij verstrekt het college een overzicht van de te maken kosten of de benodigde inspanningen, met redenen omkleed. De minister beslist vervolgens of hij de informatie wil ontvangen, en zal indien dit het geval is aangeven dat de kosten hieraan verbonden door hem zullen worden voldaan, danwel de tariefsverhoging in de toekomst zal worden toegestaan.
 
-#### Artikel 8. Informatie ter kennisneming door de minister te verstrekken
+##### Artikel 8. Informatie ter kennisneming door de minister te verstrekken
 
 1. Ter kennisneming biedt de minister het college zo spoedig mogelijk na het beschikbaar komen daarvan, voor zover op het gebied van dan wel relevant voor de taakuitoefening door het college, de volgende informatie aan:
 
@@ -114,7 +139,7 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 ### Hoofdstuk III. Informatie van het college aan de Minister ten behoeve van toezicht op de taakuitoefening van het college
 
-#### Artikel 9. Kengetallen
+##### Artikel 9. Kengetallen
 
 1. Het college hanteert de in het tweede lid genoemde kengetallen bij de onderbouwing van de begroting en de meerjarenraming, het jaarverslag en de halfjaarrapportages.
 
@@ -166,7 +191,7 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 - g. Aantal ingediende bezwaar- en beroepschriften, aantal geschillen, aantal klachten op grond van de [Wet Nationale Ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) alsmede het aantal beroep- en bezwaarschriften op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) en de resultaten daarvan.
 
-#### Artikel 10. De begroting en meerjarenraming
+##### Artikel 10. De begroting en meerjarenraming
 
 1. Jaarlijks wordt voor 1 november ter goedkeuring aan de minister voorgelegd een document waarin de begroting, de meerjarenraming en een hierop gebaseerd tarievenstelsel zijn geïntegreerd.
 
@@ -208,7 +233,7 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 6. De inrichting van de exploitatiebegroting en de balans is in beginsel in overeenstemming met de inrichting van de jaarrekening.
 
-#### Artikel 11. Tarievenvoorstel
+##### Artikel 11. Tarievenvoorstel
 
 1. Het college doet jaarlijks bij het indienen van de begroting en de meerjarenraming of zonodig bij de halfjaarrapportage een voorstel voor tarieven en tariefwijzigingen aan de minister, vergezeld van een toelichting.
 
@@ -234,7 +259,7 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 5. Het college informeert de minister bij voorgestelde tariefwijzigingen inzake de mogelijk aan het voorstel gekoppelde gevoeligheden.
 
-#### Artikel 12. De Jaarstukken
+##### Artikel 12. De Jaarstukken
 
 1. Het jaarverslag bedoeld in [artikel 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008807&artikel=17), geeft een getrouw beeld omtrent de toestand op 31 december van het jaar waarover gerapporteerd wordt en de gang van zaken gedurende dat jaar.
 
@@ -258,13 +283,13 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 11. In [artikel 367, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=367), en in [artikel 370, eerste lid, onderdeel e, van Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=370), dient voor ’leden of houders van aandelen op naam’ gelezen te worden : ’de Staat.’
 
-#### Artikel 13. Halfjaarreportage
+##### Artikel 13. Halfjaarreportage
 
 1. Het college dient binnen drie weken na 1 juli van het uitvoeringsjaar bij de minister een rapportage in waarin worden opgenomen de kengetallen genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008852&hoofdstuk=III&artikel=9&z=2004-05-19&g=2004-05-19) die gevolgen hebben voor de begroting, voorzover er sprake is van significante afwijkingen van de begroting, alsmede een eventueel aangepaste prognose.
 
 2. Van een significante afwijking als bedoeld in het eerste lid is sprake bij een afwijking vanaf 10% per kengetal, als bedoeld in [artikel 9, tweede lid, onder 1°, 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0008852&hoofdstuk=III&artikel=9&z=2004-05-19&g=2004-05-19), en bij een afwijking vanaf 25 %, als bedoeld in [artikel 9, eerste lid, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0008852&hoofdstuk=III&artikel=9&z=2004-05-19&g=2004-05-19). Indien afwijkingen genoemd in dit lid geldelijke bedragen betreffen, geldt tevens als minimum een afwijking van € 50.000 in ontvangsten of uitgaven per marktcategorie.
 
-#### Artikel 14. Vierjaarlijkse Evaluatie
+##### Artikel 14. Vierjaarlijkse Evaluatie
 
 1. Voorafgaand aan de evaluatie ten behoeve van het aan de Sta ten-Generaal te zenden verslag over de doelmatigheid en doeltreffendheid van het functioneren van het college en de wenselijkheid van voortzetting van de Onafhankelijke Post en Telecommunicatie Autoriteit, vindt er tussen de minister en het college overleg plaats en worden er afspraken gemaakt over de inhoud, de te verstrekken gegevens en de aanpak van de evaluatie.
 
@@ -272,21 +297,21 @@ De minister beslist zo mogelijk binnen een termijn van zes weken op een verzoek 
 
 3. De minister reageert op de visie van het college ten aanzien van het verslag en geeft daarbij in ieder geval aan in hoeverre de visie van het college is betrokken bij de finale beoordeling.
 
-#### Artikel 15. Onderzoek door derden ten behoeve van toezicht
+##### Artikel 15. Onderzoek door derden ten behoeve van toezicht
 
 Indien de minister een derde aanwijst om in het kader van het toezicht op het functioneren van het college onderzoek te doen naar een door de minister te bepalen taak van het college of van de taakuitoefening als geheel, verstrekt het college aan deze derde, op de door de derde te bepalen redelijke wijze, de ter zake van het onderzoek relevante informatie.
 
 ### Hoofdstuk IV. Overige informatie
 
-#### Artikel 16. Toepassing en uitvoering van internationale wet- en regelgeving
+##### Artikel 16. Toepassing en uitvoering van internationale wet- en regelgeving
 
 Het college informeert de minister tenminste éénmaal per jaar over de wijze waarop het college van toepassing zijnde of wordende internationale wet- en regelgeving toepast en uitvoert respectievelijk gaat toepassen en uitvoeren.
 
-#### Artikel 17. Wederzijdse informatieverstrekking uitvoering besluiten volkenrechtelijke organisaties en notificaties
+##### Artikel 17. Wederzijdse informatieverstrekking uitvoering besluiten volkenrechtelijke organisaties en notificaties
 
 De minister en het college informeren elkaar over de uitvoering van besluiten van organen van de Europese Unie of van een andere volkenrechtelijke organisatie betreffende notificaties op het terrein van post en elektronische communicatie.
 
-#### Artikel 18. Review van de accountantscontrole door de Auditdienst
+##### Artikel 18. Review van de accountantscontrole door de Auditdienst
 
 1. De minister informeert het college tijdig over zijn besluit een review van de accountantscontrole te laten uitvoeren door de Auditdienst van het departement of door een andere accountant.
 
@@ -294,15 +319,15 @@ De minister en het college informeren elkaar over de uitvoering van besluiten va
 
 ### Hoofdstuk V. Slotbepalingen
 
-#### Artikel 19. Wijzigen van het informatiestatuut
+##### Artikel 19. Wijzigen van het informatiestatuut
 
 Indien de minister het voornemen heeft om deze regeling te wijzigen, legt de minister een voorstel daartoe tijdig aan het college voor. Het college kan een verzoek tot wijziging van dit besluit bij de minister indienen.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 augustus 1997.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Informatiestatuut Onafhankelijke Post en Telecommunicatie Autoriteit.
 

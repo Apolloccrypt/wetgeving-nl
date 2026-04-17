@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel integrale bekostiging geboortezorg"
+title: "Beleidsregel integrale bekostiging geboortezorg BR/REG-23130, Nederlandse Zorgautoriteit"
 identifier: "BWBR0046888"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046888"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046888"
+soort: "zbo"
+stam_id: "16415123"
+version_id: "28749202"
+internal_id: "C40680921"
+label_id: "16339214"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046888/2023-01-01/0"
+intitule_bron: "Stcrt.2022-17437"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-06-21"
+intitule_published: "2022-07-05"
+intitule_in_force: "2022-07-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-17437"
+original_signed_date: "2022-06-21"
+original_published_date: "2022-07-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-17437"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0046888&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0046888&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel integrale bekostiging geboortezorg"
+signed_date: "2022-06-21"
+entry_into_force: "2023-01-01"
 ---
-
 # Beleidsregel integrale bekostiging geboortezorg BR/REG-23130, Nederlandse Zorgautoriteit
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om prestatiebeschrijvingen vast te stellen.
 
 Gelet op [artikel 59, aanhef en onder a, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister van Volksgezondheid, Welzijn en Sport met brief van 13 juni 2022, met kenmerk 1030460-3378059-PZo, ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7), aan de NZa gegeven. Deze aanwijzing is gepubliceerd in de Staatscourant onder nummer 2022, 16848.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -72,15 +98,15 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - •. overlijden van de patiënt op dag van of de dag na opname.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen op het gebied van integrale geboortezorg.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op integrale geboortezorg zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046888&artikel=1&z=2023-01-01&g=2023-01-01) van deze beleidsregel.
 
-#### Artikel 4. Prestaties integrale geboortezorg
+##### Artikel 4. Prestaties integrale geboortezorg
 
 In het kader van deze beleidsregel worden de prestatiebeschrijvingen onderstreept omschreven. Daaronder staan de specifieke bepalingen bij de prestatiebeschrijvingen.
 
@@ -104,11 +130,11 @@ De prestatie kraamzorg postnataal per uur is zorg zoals kraamverzorgenden die pl
 
 De levering van (onderdelen van) de prestaties integrale geboortezorg door een zorgaanbieder in opdracht van een andere zorgaanbieder. De eerstgenoemde zorgaanbieder wordt in dit kader aangeduid als de ‘uitvoerende zorgaanbieder’. De laatstgenoemde zorgaanbieder wordt in dit kader aangeduid als de ‘opdrachtgevende zorgaanbieder’. De uitvoerende zorgaanbieder heeft de mogelijkheid om (onderdelen van) de prestaties integrale geboortezorg in opdracht van de opdrachtgevende zorgaanbieder via onderlinge dienstverlening in rekening te brengen aan de opdrachtgevende zorgaanbieder.
 
-#### Artikel 5. Tariefsoort
+##### Artikel 5. Tariefsoort
 
 Voor de prestaties integrale geboortezorg gelden vrije tarieven als bedoeld in [artikel 50, eerste lid, onder a, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
-#### Artikel 6. Nadere bepalingen
+##### Artikel 6. Nadere bepalingen
 
 Een zorgaanbieder mag dezelfde zorg voor dezelfde cliënt niet dubbel declareren. Dat betekent dat zorg die gedeclareerd wordt door middel van een prestatiebeschrijving binnen deze beleidsregel niet ook nog mag worden gedeclareerd door middel van monodisciplinaire prestatiebeschrijvingen zoals benoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046888&artikel=1&z=2023-01-01&g=2023-01-01) van deze beleidsregel en vice versa.
 
@@ -116,11 +142,11 @@ Tot slot mag een zorgaanbieder per fase van de zwangerschap slechts één integr
 
 De tarieven van de prestaties genoemd in de [artikelen 4.1 tot en met 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046888&artikel=4&z=2023-01-01&g=2023-01-01) mogen alleen in rekening worden gebracht indien de zorgaanbieder en de zorgverzekeraar van de cliënt ten aanzien van deze prestaties voorafgaand een schriftelijke overeenkomst zijn aangegaan met elkaar.
 
-#### Artikel 7. Vervallen oude beleidsregel
+##### Artikel 7. Vervallen oude beleidsregel
 
 De Beleidsregel integrale geboortezorg met kenmerk BR/REG-22100, die een geldigheidsduur had tot en met 31 december 2022, is met ingang van de dag na laatstgenoemde datum van rechtswege komen te vervallen.
 
-#### Artikel 8. Toepasselijkheid voorafgaande beleidsregel, inwerkingtreding / bekendmaking en citeertitel
+##### Artikel 8. Toepasselijkheid voorafgaande beleidsregel, inwerkingtreding / bekendmaking en citeertitel
 
 De Beleidsregel integrale geboortezorg met kenmerk BR/REG-22100, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

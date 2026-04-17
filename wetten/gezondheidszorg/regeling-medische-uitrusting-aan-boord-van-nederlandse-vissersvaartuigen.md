@@ -1,20 +1,45 @@
 ---
 title: "Regeling medische uitrusting aan boord van Nederlandse vissersvaartuigen"
 identifier: "BWBR0027842"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027842"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027842"
+soort: "ministeriele-regeling"
+stam_id: "10593373"
+version_id: "17494462"
+internal_id: "C24198071"
+label_id: "10568324"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027842/2025-07-01/0"
+intitule_bron: "Stcrt.2010-10262"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-06-25"
+intitule_published: "2010-07-01"
+intitule_in_force: "2010-07-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-10262"
+original_signed_date: "2010-06-25"
+original_published_date: "2010-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-10262"
+entry_into_force_date: "2010-07-02"
+jci_1_3: "jci1.3:c:BWBR0027842&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0027842&g=2025-07-01"
+citeertitel_status: "officieel"
+signed_date: "2010-06-25"
+entry_into_force: "2010-07-02"
 ---
-
 # Regeling medische uitrusting aan boord van Nederlandse vissersvaartuigen
 
 Gelet op [richtlijn nr. 92/29/EEG](31992L0029) van de Raad van de Europese Gemeenschappen van 31 maart 1992 betreffende de minimumvoorschriften inzake veiligheid en gezondheid ter bevordering van een betere medische hulpverlening aan boord van schepen (PbEG L 113) en de [artikelen 218, dertiende lid, onderdeel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=218), [221, tweeënveertigste lid, onderdeel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=221), [223, elfde lid, onderdeel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=223), [231, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=231), [237](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=237), en [317, derde lid, van het Vissersvaartuigenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004607&artikel=317);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -24,11 +49,11 @@ In deze regeling wordt verstaan onder:
 
 - –. **vaartuig:** een vissersvaartuig als bedoeld in [artikel 1, eerste lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=1).
 
-#### Artikel 2. Toepassingsbereik
+##### Artikel 2. Toepassingsbereik
 
 Deze regeling is van toepassing op vaartuigen met een lengte van minder dan 24 meter die op grond van voor Nederland geldende rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren.
 
-#### Artikel 3. Benodigde medische uitrusting
+##### Artikel 3. Benodigde medische uitrusting
 
 1. Aan boord van een vaartuig zijn de in de tabellen 1 en 2 van de bijlage voorgeschreven geneesmiddelen, antidota, verpleeg- en verbandmiddelen, handboeken en overige benodigdheden aanwezig. De eigenaar van een schip draagt voor eigen rekening zorg voor de levering en de vernieuwing van de medische uitrusting.
 
@@ -36,7 +61,7 @@ Deze regeling is van toepassing op vaartuigen met een lengte van minder dan 24 m
 
 3. In afwijking van het tweede lid behoeven bij een bemanningssterkte van 15 tot en met 24 personen de in de tabellen 1 en 2 genoemde hoeveelheden slechts met vijftig procent te worden vermeerderd. Indien de in de tabellen genoemde hoeveelheid van een middel één bedraagt, behoeft deze hoeveelheid bij een bemanningssterkte van 15 tot en met 24 personen niet te worden vermeerderd.
 
-#### Artikel 4. Medische uitrusting bij het vervoer van gevaarlijke stoffen
+##### Artikel 4. Medische uitrusting bij het vervoer van gevaarlijke stoffen
 
 1. Voor vaartuigen waarmee gevaarlijke stoffen als bedoeld in hoofdstuk VII, deel A, van het SOLAS-verdrag worden vervoerd, kunnen afwijkende hoeveelheden geneesmiddelen, antidota, verpleeg- en verbandmiddelen en overige benodigdheden gelden. Deze afwijkende hoeveelheden staan in de tabellen 1 en 2 van de bijlage tussen haakjes vermeld.
 
@@ -44,13 +69,13 @@ Deze regeling is van toepassing op vaartuigen met een lengte van minder dan 24 m
 
 3. Aan boord van vaartuigen waarop de in voorschrift V/14.3 van het SOLAS-verdrag bedoelde werktaal niet het Nederlands is, is in plaats van een Nederlandstalige uitgave een Engelstalige uitgave van de in het tweede lid bedoelde Gids aanwezig.
 
-#### Artikel 5. Inhoud medicijnkisten aan boord van reddingboten e.d.
+##### Artikel 5. Inhoud medicijnkisten aan boord van reddingboten e.d.
 
 1. De tot de uitrusting van reddingboten, reddingvlotten en hulpverleningsboten behorende medicijnkisten, bevatten de in kolom R van de tabellen 1 en 2 van de bijlage voorgeschreven middelen.
 
 2. De in kolom R genoemde hoeveelheden gelden per 50 personen, met uitzondering van het middel tegen zeeziekte, waarvoor de per persoon benodigde hoeveelheden zijn vermeld.
 
-#### Artikel 6. Jaarlijkse inspectie medische uitrusting
+##### Artikel 6. Jaarlijkse inspectie medische uitrusting
 
 1. De schipper inspecteert jaarlijks, met inachtneming van hetgeen in dit artikel is bepaald, de aan boord van het vaartuig aanwezige medische uitrusting.
 
@@ -60,11 +85,11 @@ Deze regeling is van toepassing op vaartuigen met een lengte van minder dan 24 m
 
 4. Indien de inspectie uitwijst dat de medische uitrusting van het vaartuig in overeenstemming is met de bijlage, ondertekent de schipper de controlelijst en biedt hij deze aan de Scheepvaartinspectie of, indien het onderzoek door een krachtens [artikel 6, tweede lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=6) aangewezen natuurlijke persoon of rechtspersoon wordt verricht, aan die natuurlijke persoon of rechtspersoon ter visering aan.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling medische uitrusting aan boord van Nederlandse vissersvaartuigen.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

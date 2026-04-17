@@ -1,13 +1,37 @@
 ---
 title: "Circulaire Aanpassingen WZV na modernisering AWBZ"
 identifier: "BWBR0014921"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-04-15
-laatste_update: 2003-04-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014921"
+country: "nl"
+rank: "circulaire"
+publication_date: "2003-04-15"
+last_updated: "2003-04-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014921"
+soort: "circulaire"
+stam_id: "6267253"
+version_id: "10951282"
+internal_id: "C14848791"
+label_id: "6256544"
+original_entry_into_force: "2003-04-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014921/2003-04-15/0"
+intitule_bron: "Stcrt.2003-74"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-04-05"
+intitule_published: "2003-04-15"
+intitule_in_force: "2003-04-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-74"
+original_signed_date: "2003-04-05"
+original_published_date: "2003-04-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2003-074-p13-SC39524"
+entry_into_force_date: "2003-04-15"
+jci_1_3: "jci1.3:c:BWBR0014921&z=2003-04-15&g=2003-04-15"
+jci_1_0: "1.0:c:BWBR0014921&g=2003-04-15"
+citeertitel_status: "redactioneel"
+signed_date: "2003-04-05"
+entry_into_force: "2003-04-15"
 ---
-
 # Circulaire Aanpassingen WZV na modernisering AWBZ
 
 Aan besturen van ziekenhuisvoorzieningen ex [WZV](onbekend)

@@ -1,13 +1,39 @@
 ---
-title: "Instellingsbesluit GI-beraad"
+title: "Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 juni 2006, nr. POI2006267349, tot instelling van het beraad voor Geo-Informatie (Instellingsbesluit GI-beraad)"
 identifier: "BWBR0019936"
-categorie: "Overig"
-publicatiedatum: 2006-06-15
-laatste_update: 2006-06-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019936"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-06-15"
+last_updated: "2006-06-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019936"
+soort: "ministeriele-regeling"
+stam_id: "8346253"
+version_id: "13217632"
+internal_id: "C17788291"
+label_id: "8327174"
+dtd_version: "2.0"
+original_entry_into_force: "2006-06-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019936/2006-06-15/0"
+intitule_bron: "Stcrt.2006-112"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-06-02"
+intitule_published: "2006-06-13"
+intitule_in_force: "2006-06-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-112"
+original_signed_date: "2006-06-02"
+original_published_date: "2006-06-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-112-p20-SC75499"
+entry_into_force_date: "2006-06-15"
+jci_1_3: "jci1.3:c:BWBR0019936&z=2006-06-15&g=2006-06-15"
+jci_1_0: "1.0:c:BWBR0019936&g=2006-06-15"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit GI-beraad"
+signed_date: "2006-06-02"
+entry_into_force: "2006-06-15"
 ---
-
 # Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 juni 2006, nr. POI2006267349, tot instelling van het beraad voor Geo-Informatie (Instellingsbesluit GI-beraad)
 
 Overwegende dat:
@@ -24,7 +50,7 @@ Gelet op het [besluit Informatievoorziening Rijksoverheid](https://wetten.overhe
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,11 +60,11 @@ In dit besluit wordt verstaan onder:
 
 - c. geo-informatie: geografische informatie, informatie met een ruimtelijke component.
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een GI-beraad.
 
-#### Artikel 3
+##### Artikel 3
 
 Het GI-beraad heeft tot taak:
 
@@ -58,17 +84,17 @@ Het GI-beraad heeft tot taak:
 
 - d. Het inrichten en laten uitvoeren van programma’s en projecten om de geo-informatie in Nederland te verbeteren.
 
-#### Artikel 4
+##### Artikel 4
 
 Jaarlijks brengt het GI-beraad een advies uit aan de minister over de strategische onderwerpen, die de komende jaren aan de orde zullen komen op het gebied van de geo-informatie in Nederland in de vorm van een strategische agenda. Tevens geeft het GI-beraad opdracht deze agenda uit te voeren.
 
-#### Artikel 5
+##### Artikel 5
 
 Het GI-beraad brengt jaarlijks aan de minister verslag uit van zijn werkzaamheden over het afgelopen jaar.
 
 Uiterlijk 31 december 2008 brengt het GI-beraad verslag uit aan de minister over de doeltreffendheid en de effecten van de werkzaamheden van het beraad en de uitvoering van de strategische agenda.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het GI-beraad bestaat uit een voorzitter en leden, waarvan in elk geval:
 
@@ -104,29 +130,29 @@ Uiterlijk 31 december 2008 brengt het GI-beraad verslag uit aan de minister over
 
 5. Het GI-beraad bestaat voor meer dan de helft uit ambtenaren die werkzaam zijn bij een ministerie of een daaronder resorterende instelling, dienst of bedrijf en die in verband met hun werkzaamheden in het GI-beraad zitting hebben.
 
-#### Artikel 7
+##### Artikel 7
 
 Het GI-beraad kan zich laten ondersteunen en adviseren door vertegenwoordigers uit bedrijfsleven, wetenschap en andere organisaties op gebied van de geo-informatie.
 
-#### Artikel 8
+##### Artikel 8
 
 Het GI-beraad stelt een nader reglement vast over de werkwijze, de wijze waarop adviezen worden opgesteld en hoe vertegenwoordigers van andere partijen erbij betrokken worden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het GI-beraad wordt bijgestaan door een secretariaat.
 
 2. In de personele bezetting van het secretariaat wordt voorzien door de minister.
 
-#### Artikel 10
+##### Artikel 10
 
 Het beheer van de bescheiden betreffende de werkzaamheden van het GI-beraad geschiedt op overeenkomstige wijze als bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. De bescheiden worden na beëindiging van de werkzaamheden van het GI-beraad opgeslagen in het archief van dat ministerie.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Instellingsbesluit GI-beraad.
 

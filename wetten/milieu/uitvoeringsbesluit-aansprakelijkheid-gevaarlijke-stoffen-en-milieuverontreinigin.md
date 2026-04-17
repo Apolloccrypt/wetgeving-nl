@@ -1,13 +1,35 @@
 ---
-title: "Uitvoeringsbesluit aansprakelijkheid gevaarlijke stoffen en milieuverontreiniging"
+title: "Besluit van 15 december 1994, tot vaststelling van een algemene maatregel van bestuur ter uitvoering van de artikelen 175, zesde lid, van Boek 6, en 620, onderdeel a, 1030, onderdeel a, 1210, onderdeel a, 1218, 1670, onderdeel a, en 1678 van Boek 8 van het Burgerlijk Wetboek, alsmede tot wijziging van het Besluit van 19 februari 1990 ter uitvoering van artikel 951f van het Wetboek van Koophandel"
 identifier: "BWBR0007122"
-categorie: "Milieu"
-publicatiedatum: 2019-07-01
-laatste_update: 2019-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007122"
+country: "nl"
+rank: "amvb"
+publication_date: "2019-07-01"
+last_updated: "2019-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007122"
+soort: "AMvB"
+stam_id: "973013"
+version_id: "1427442"
+internal_id: "C1427441"
+label_id: "943214"
+dtd_version: "2.0"
+original_entry_into_force: "1995-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007122/2019-07-01/0"
+intitule_bron: "Stb.1994-888"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-12-15"
+intitule_status: "goed"
+original_publication: "Stb.1994-888"
+original_signed_date: "1994-12-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-02-01"
+jci_1_3: "jci1.3:c:BWBR0007122&z=2019-07-01&g=2019-07-01"
+jci_1_0: "1.0:c:BWBR0007122&g=2019-07-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit aansprakelijkheid gevaarlijke stoffen en milieuverontreiniging"
+signed_date: "1994-12-15"
+entry_into_force: "1995-02-01"
 ---
-
 # Besluit van 15 december 1994, tot vaststelling van een algemene maatregel van bestuur ter uitvoering van de artikelen 175, zesde lid, van Boek 6, en 620, onderdeel a, 1030, onderdeel a, 1210, onderdeel a, 1218, 1670, onderdeel a, en 1678 van Boek 8 van het Burgerlijk Wetboek, alsmede tot wijziging van het Besluit van 19 februari 1990 ter uitvoering van artikel 951f van het Wetboek van Koophandel
 
 Op de voordracht van Onze Minister van Justitie van 25 maart 1994, Stafafdeling Wetgeving Privaatrecht, nr. 431900/94/6;
@@ -22,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Aanwijzing gevaarlijke stoffen
 
-#### Artikel 1
+##### Artikel 1
 
 Als stoffen die worden geacht aan de omschrijving van [artikel 175, eerste lid, eerste zin, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=175) te voldoen worden aangewezen:
 
@@ -30,7 +52,7 @@ Als stoffen die worden geacht aan de omschrijving van [artikel 175, eerste lid, 
 
 - b. de gevaarlijke afvalstoffen aangewezen ingevolge [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), voor zover zij niet reeds onder de in onderdeel **a** bedoelde stoffen vallen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als gevaarlijke stof als bedoeld in artikel 620, onderdeel **a**, van Boek 8 van het Burgerlijk Wetboek wordt aangewezen een stof die behoort tot een van de volgende categorieën:
 
@@ -50,21 +72,21 @@ Als stoffen die worden geacht aan de omschrijving van [artikel 175, eerste lid, 
 
 2. Als gevaarlijke stof als bedoeld in artikel 620, onderdeel **a**, van Boek 8 van het Burgerlijk Wetboek wordt tevens aangewezen het residu van een stof in bulk met een vlampunt van niet meer dan 60°C (gemeten met de gesloten kroes methode).
 
-#### Artikel 3
+##### Artikel 3
 
 Een gevaarlijke stof als bedoeld in [artikel 1030, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1030), en [artikel 1060, zesde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1060) is een stof of voorwerp als bedoeld in hoofdstuk 3.2. van het Reglement behorend bij het Europees Verdrag inzake het internationale vervoer van gevaarlijke goederen over de binnenwateren (ADN) (Trb. 2001, 67), daaronder begrepen de latere wijzigingen daarvan.
 
-#### Artikel 4
+##### Artikel 4
 
 Een gevaarlijke stof als bedoeld in artikel 1210, onderdeel **a**, van Boek 8 van het Burgerlijk Wetboek is een stof of voorwerp waarvan de bijlagen A en B van de Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen langs de weg (**Trb.** 1959, 171), daaronder begrepen de latere wijzigingen daarvan, het internationale vervoer over de weg verbieden of slechts onder bepaalde voorwaarden toelaten, met uitzondering van die stoffen of voorwerpen welke overeenkomstig de voorwaarden van randnummer 10 010 worden vervoerd dan wel waarvan de hoeveelheden tijdens het vervoer die van randnummer 10 011 niet overschrijden.
 
-#### Artikel 5
+##### Artikel 5
 
 Een gevaarlijke stof als bedoeld in artikel 1670, onderdeel **a**, van Boek 8 van het Burgerlijk Wetboek is een stof of voorwerp waarvan de bijlagen A en B van de Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen langs de weg (**Trb.** 1959, 171), daaronder begrepen de latere wijzigingen daarvan, het internationale vervoer over de weg verbieden of slechts onder bepaalde voorwaarden toelaten, met uitzondering van die stoffen of voorwerpen welke overeenkomstig de voorwaarden van randnummer 10 010 worden vervoerd dan wel waarvan de hoeveelheden tijdens het vervoer die van randnummer 10 011 niet overschrijden.
 
 #### § 2. Vaststelling bedragen beperking aansprakelijkheid
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het bedrag bedoeld in artikel 1218 van Boek 8 van het Burgerlijk Wetboek tot welke de exploitant van een voertuig zijn aansprakelijkheid kan beperken wordt vastgesteld:
 
@@ -78,7 +100,7 @@ Een gevaarlijke stof als bedoeld in artikel 1670, onderdeel **a**, van Boek 8 va
 
 - b. wanneer het enige andere vordering betreft op 12 miljoen rekeneenheden per gebeurtenis.
 
-#### Artikel 7
+##### Artikel 7
 
 Het bedrag bedoeld in artikel 1678 van Boek 8 van het Burgerlijk Wetboek tot welke de exploitant van een spoorweg zijn aansprakelijkheid kan beperken wordt vastgesteld:
 
@@ -86,21 +108,21 @@ Het bedrag bedoeld in artikel 1678 van Boek 8 van het Burgerlijk Wetboek tot wel
 
 - b. wanneer het enige andere vordering betreft op 12 miljoen rekeneenheden per gebeurtenis.
 
-#### Artikel 8
+##### Artikel 8
 
 De rekeneenheid, genoemd in de artikelen 6 en 7 is het bijzondere trekkingsrecht, zoals dat is omschreven door het Internationale Monetaire Fonds. De bedragen genoemd in de artikelen 6 en 7 worden omgerekend in Nederlands geld naar de koers van de dag waarop de schuldenaar voldoet aan een ingevolge [artikel 642c van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=642c) gegeven bevel tot storting of andere zekerheidsstelling. De waarde van het Nederlandse geld, uitgedrukt in bijzondere trekkingsrechten, wordt berekend volgens de waarderingsmethode die door het Internationale Monetaire Fonds op de dag van omrekening wordt toegepast voor zijn eigen verrichtingen en transacties.
 
-#### Artikel 9
+##### Artikel 9
 
 Bevat wijzigingen in andere regelgeving.
 
 #### § 3. Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit aansprakelijkheid gevaarlijke stoffen en milieuverontreiniging
 

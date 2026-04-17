@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregels ontgrondingen in rijkswateren 2022"
 identifier: "BWBR0046536"
-categorie: "Milieu"
-publicatiedatum: 2022-04-09
-laatste_update: 2022-04-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046536"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-04-09"
+last_updated: "2022-04-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046536"
+soort: "beleidsregel"
+stam_id: "16323453"
+version_id: "28536342"
+internal_id: "C40264821"
+label_id: "16248554"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046536/2022-04-09/0"
+intitule_bron: "Stcrt.2022-9290"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2022-04-08"
+intitule_in_force: "2022-04-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-9290"
+original_published_date: "2022-04-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-9290"
+entry_into_force_date: "2022-04-09"
+jci_1_3: "jci1.3:c:BWBR0046536&z=2022-04-09&g=2022-04-09"
+jci_1_0: "1.0:c:BWBR0046536&g=2022-04-09"
+citeertitel_status: "officieel"
+entry_into_force: "2022-04-09"
 ---
-
 # Beleidsregels ontgrondingen in rijkswateren 2022
 
 Gelet op [artikel 8, eerste lid, van de Ontgrondingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002505&artikel=8) en [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -16,11 +38,11 @@ BESLUIT:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. (toepassingsbereik)
+##### Artikel 1. (toepassingsbereik)
 
 Deze beleidsregels zijn van toepassing op de verlening van een vergunning voor een ontgronding in een rijkswater.
 
-#### Artikel 2. (afstandsbepalingen)
+##### Artikel 2. (afstandsbepalingen)
 
 Bij de ontgronding worden de in de tabel genoemde afstanden in acht genomen.
 
@@ -38,7 +60,7 @@ Bij de ontgronding worden de in de tabel genoemde afstanden in acht genomen.
 
 #### § 2. Schelpenwinning
 
-#### Artikel 3. (ontgrondingsvergunning voor schelpenwinning)
+##### Artikel 3. (ontgrondingsvergunning voor schelpenwinning)
 
 1. Een ontgrondingsvergunning voor schelpenwinning kan alleen worden verleend voor winning die plaatsvindt dieper dan vijf meter beneden NAP:
 
@@ -56,11 +78,11 @@ Bij de ontgronding worden de in de tabel genoemde afstanden in acht genomen.
 
 #### § 3. Overige ontgrondingen
 
-#### Artikel 4. (Waddenzee)
+##### Artikel 4. (Waddenzee)
 
 In de Waddenzee wordt geen vergunning verleend voor andere ontgrondingen dan voor die voor schelpenwinning.
 
-#### Artikel 5. (Noordzee)
+##### Artikel 5. (Noordzee)
 
 1. Zeewaarts van de doorgaande NAP -20 meter dieptelijn in de Noordzee kan een ontgrondingsvergunning worden verleend, met dien verstande dat:
 
@@ -86,7 +108,7 @@ uitsluitend een vergunning kan worden verleend indien de ontgronding ten minste 
 
 4. Aan een vergunning als bedoeld in het tweede lid kunnen voorschriften worden verbonden ter behoud van de hoeveelheid van het ter plaatse verwijderde zand in het in de aanhef van dat lid bedoelde gebied.
 
-#### Artikel 6. (IJsselmeergebied)
+##### Artikel 6. (IJsselmeergebied)
 
 1. Voor de ontgrondingen in het IJsselmeergebied geldt multifunctionaliteit.
 
@@ -98,7 +120,7 @@ uitsluitend een vergunning kan worden verleend indien de ontgronding ten minste 
 
 3. Aan de vergunning kunnen voorschriften worden verbonden die betrekking hebben op onder meer bodemtaluds, bodembreedtes, windieptes of opleverdieptes.
 
-#### Artikel 7. (kanalen en rivieren)
+##### Artikel 7. (kanalen en rivieren)
 
 Voor ontgrondingen in kanalen en in het zomerbedgedeelte van rivieren in beheer bij het Rijk, alsmede in de daarmee in open verbinding staande havens onder beheer van het Rijk kan een ontgrondingsvergunning worden verleend, waarbij de ontgronding in ieder geval:
 
@@ -112,7 +134,7 @@ Voor ontgrondingen in kanalen en in het zomerbedgedeelte van rivieren in beheer 
 
 - e). niet leidt tot ongewenste grondwaterstandveranderingen.
 
-#### Artikel 8. (Zeeuwse en Zuid-Hollandse wateren)
+##### Artikel 8. (Zeeuwse en Zuid-Hollandse wateren)
 
 1. Voor ontgrondingen in de Zeeuwse en Zuid-Hollandse wateren in beheer bij het Rijk en in de hiermee in open verbinding staande havens geldt multifunctionaliteit.
 
@@ -128,15 +150,15 @@ Voor ontgrondingen in kanalen en in het zomerbedgedeelte van rivieren in beheer 
 
 #### § 4. Overgangs- en slotbepalingen
 
-#### Artikel 9. (intrekking)
+##### Artikel 9. (intrekking)
 
 De [Beleidsregels ontgrondingen in rijkswateren](https://wetten.overheid.nl/jci1.3:c:BWBR0028498) worden ingetrokken.
 
-#### Artikel 10. (citeertitel)
+##### Artikel 10. (citeertitel)
 
 Deze beleidsregels worden aangehaald als: Beleidsregels ontgrondingen in rijkswateren 2022.
 
-#### Artikel 11. (inwerkingtreding)
+##### Artikel 11. (inwerkingtreding)
 
 Deze beleidsregels treden in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij worden geplaatst.
 

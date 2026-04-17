@@ -1,13 +1,35 @@
 ---
 title: "Internationaal Verdrag voor de bescherming van planten"
 identifier: "BWBV0003652"
-categorie: "Internationaal recht"
-publicatiedatum: 2005-10-02
-laatste_update: 2005-10-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003652"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-10-02"
+last_updated: "2005-10-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003652"
+soort: "verdrag"
+stam_id: "10003623613"
+version_id: "10003683832"
+internal_id: "C10007359981"
+label_id: "10003609054"
+dtd_version: "2.0"
+original_entry_into_force: "1991-04-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003652/2005-10-02/0"
+intitule_bron: "Trb.1981-27"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1981-02-04"
+intitule_in_force: "1991-08-05"
+intitule_status: "goed"
+original_publication: "Trb.1981-27"
+original_published_date: "1981-02-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1981-27"
+entry_into_force_date: "1991-04-04"
+jci_1_3: "jci1.3:c:BWBV0003652&z=2005-10-02&g=2005-10-02"
+jci_1_0: "1.0:c:BWBV0003652&g=2005-10-02"
+citeertitel_status: "redactioneel"
+entry_into_force: "1991-04-04"
 ---
-
 # Internationaal Verdrag voor de bescherming van planten
 
 Preambule
@@ -28,7 +50,7 @@ Zich bewust van de overeenkomsten gesloten naar aanleiding van de Uruguay Ronde 
 
 zijn het volgende overeengekomen:
 
-#### Artikel I. Doelstelling en verantwoordelijkheid
+##### Artikel I. Doelstelling en verantwoordelijkheid
 
 1. Met het doel te komen tot een gemeenschappelijk en doeltreffend optreden ter voorkoming van het verspreiden en binnendringen van ziekten en plagen van planten en plantaardige producten en ter bevordering van het nemen van passende maatregelen ter bestrijding daarvan, verbinden de Verdragsluitende Partijen zich ertoe de wettelijke, technische en administratieve maatregelen te treffen die in dit Verdrag en in aanvullende overeenkomsten ingevolge het bepaalde in artikel XVI zijn neergelegd.
 
@@ -38,7 +60,7 @@ zijn het volgende overeengekomen:
 
 4. Zover van toepassing, kunnen de bepalingen van dit Verdrag door de Verdragsluitende Partijen worden geacht, naast op planten en plantaardige producten, eveneens betrekking te hebben op opslagplaatsen, verpakkingen, transportmiddelen, containers, grond en elk ander organisme, voorwerp of materiaal waarin zich ziekten en plagen van planten kunnen bevinden of die deze kunnen verspreiden, vooral in het internationale vervoer.
 
-#### Artikel II. Gebruik van termen
+##### Artikel II. Gebruik van termen
 
 1. Voor de toepassing van dit Verdrag wordt aan de onderstaande termen de volgende betekenis gegeven:
 
@@ -82,11 +104,11 @@ zijn het volgende overeengekomen:
 
 2. De begripsomschrijvingen in dit artikel worden, daar zij beperkt zijn tot de toepassing van dit Verdrag, geacht de ingevolge de nationale wetten of voorschriften van de Verdragsluitende Partijen vastgestelde begripsomschrijvingen onverlet te laten.
 
-#### Artikel III. Verhouding tot andere internationale overeenkomsten
+##### Artikel III. Verhouding tot andere internationale overeenkomsten
 
 Niets in dit Verdrag doet afbreuk aan de rechten en verplichtingen van de Verdragsluitende Partijen ingevolge relevante internationale overeenkomsten.
 
-#### Artikel IV. Algemene bepalingen betreffende de organisatorische regelingen voor de nationale bescherming van planten
+##### Artikel IV. Algemene bepalingen betreffende de organisatorische regelingen voor de nationale bescherming van planten
 
 1. Elke Verdragsluitende Partij treft zo goed mogelijk voorzieningen voor het instellen van een officiële nationale organisatie ter bescherming van planten met de in dit artikel genoemde voornaamste verantwoordelijkheden.
 
@@ -120,7 +142,7 @@ Niets in dit Verdrag doet afbreuk aan de rechten en verplichtingen van de Verdra
 
 2. Iedere Verdragsluitende Partij zal aan de Secretaris een beschrijving geven van haar officiële nationale organisatie voor de bescherming van planten en van eventuele veranderingen in deze organisatie. Op verzoek daartoe doet een Verdragsluitende Partij een beschrijving van haar organisatorische regelingen voor de bescherming van planten toekomen aan een andere Verdragsluitende Partij.
 
-#### Artikel V. Fytosanitaire certificering
+##### Artikel V. Fytosanitaire certificering
 
 1. Iedere Verdragsluitende Partij treft regelingen voor fytosanitaire certificering, teneinde te waarborgen dat geëxporteerde planten, plantaardige producten en andere gereguleerde artikelen en zendingen daarvan in overeenstemming zijn met de certificeringsverklaring die ingevolge het tweede lid, onder b, van dit artikel, dient te worden afgegeven.
 
@@ -134,7 +156,7 @@ Niets in dit Verdrag doet afbreuk aan de rechten en verplichtingen van de Verdra
 
 3. Elke Verdragsluitende Partij verbindt zich om ten aanzien van zendingen planten of plantaardige producten of andere gereguleerde artikelen niet te zullen eisen dat deze zendingen bij invoer in haar grondgebied vergezeld moeten zijn van gezondheidscertificaten die niet overeenstemmen met de modellen die zijn opgenomen in de Bijlage van dit Verdrag. Eisen met betrekking tot aanvullende verklaringen dienen te worden beperkt tot die welke technisch gerechtvaardigd zijn.
 
-#### Artikel VI. Gereguleerde ziekten en plagen
+##### Artikel VI. Gereguleerde ziekten en plagen
 
 1. De Verdragsluitende Partijen kunnen ten aanzien van quarantaineziekten en gereguleerde niet-quarantaineziekten fytosanitaire maatregelen eisen, mits deze maatregelen:
 
@@ -144,7 +166,7 @@ Niets in dit Verdrag doet afbreuk aan de rechten en verplichtingen van de Verdra
 
 2. De Verdragsluitende Partijen eisen geen fytosanitaire maatregelen ten aanzien van niet-gereguleerde ziekten en plagen.
 
-#### Artikel VII. Vereisten met betrekking tot invoer
+##### Artikel VII. Vereisten met betrekking tot invoer
 
 1. Met het doel het binnendringen en/of de verspreiding van gereguleerde ziekten binnen hun grondgebieden te voorkomen, hebben de Verdragsluitende Partijen het soevereine recht het binnenlaten van planten, plantaardige producten en andere gereguleerde artikelen, in overeenstemming met de van toepassing zijnde internationale overeenkomsten, aan bepaalde regelingen te onderwerpen en mogen derhalve:
 
@@ -186,7 +208,7 @@ Niets in dit Verdrag doet afbreuk aan de rechten en verplichtingen van de Verdra
 
 6. Niets in dit artikel weerhoudt een Verdragsluitende Partij ervan de passende noodmaatregelen te nemen naar aanleiding van het ontdekken van een ziekte of plaag die een potentiële bedreiging voor haar grondgebied betekent, of de melding van een dergelijke ontdekking. Deze maatregelen worden zo snel mogelijk geëvalueerd teneinde ervoor zorg te dragen dat de voortzetting hiervan wordt gerechtvaardigd. De genomen maatregelen worden onmiddellijk gemeld aan de betrokken Verdragsluitende Partijen, aan de Secretaris en aan alle regionale organisaties voor de bescherming van planten waarvan de Verdragsluitende Partij lid is.
 
-#### Artikel VIII. Internationale samenwerking
+##### Artikel VIII. Internationale samenwerking
 
 1. De Verdragsluitende Partijen werken zo veel als praktisch uitvoerbaar is samen om de doeleinden van dit Verdrag te bereiken, in het bijzonder door:
 
@@ -198,7 +220,7 @@ Niets in dit Verdrag doet afbreuk aan de rechten en verplichtingen van de Verdra
 
 2. Elke Verdragsluitende Partij wijst een contactpunt aan voor de uitwisseling van informatie die verband houdt met de uitvoering van dit Verdrag.
 
-#### Artikel IX. Regionale organisaties ter bescherming van planten
+##### Artikel IX. Regionale organisaties ter bescherming van planten
 
 1. De Verdragsluitende Partijen verbinden zich ertoe samen te werken bij de oprichting van regionale organisaties ter bescherming van planten in daarvoor in aanmerking komende gebieden.
 
@@ -212,7 +234,7 @@ Niets in dit Verdrag doet afbreuk aan de rechten en verplichtingen van de Verdra
 
 - b). interregionale samenwerking te bevorderen door het aanmoedigen van geharmoniseerde fytosanitaire maatregelen voor de bestrijding van ziekten en plagen en ter voorkoming van de verspreiding en/of het binnendringen hiervan.
 
-#### Artikel X. Standaarden
+##### Artikel X. Standaarden
 
 1. De Verdragsluitende Partijen komen overeen samen te werken bij de ontwikkeling van internationale standaarden, in overeenstemming met de door de Commissie aangenomen procedures.
 
@@ -222,7 +244,7 @@ Niets in dit Verdrag doet afbreuk aan de rechten en verplichtingen van de Verdra
 
 4. De Verdragsluitende Partijen dienen bij het ondernemen van activiteiten die verband houden met dit Verdrag, naar gelang van het geval rekening te houden met de internationale standaarden.
 
-#### Artikel XI. De Commissie inzake fytosanitaire maatregelen
+##### Artikel XI. De Commissie inzake fytosanitaire maatregelen
 
 1. De Verdragsluitende Partijen komen overeen de Commissie inzake fytosanitaire maatregelen in te stellen binnen het kader van de Voedsel- en Landbouworganisatie van de Verenigde Naties (FAO).
 
@@ -260,7 +282,7 @@ Niets in dit Verdrag doet afbreuk aan de rechten en verplichtingen van de Verdra
 
 10. De Commissie kiest haar Voorzitter en ten hoogste twee Vice-Voorzitters, die elk gedurende een termijn van twee jaar hun taak verrichten.
 
-#### Artikel XII. Het Secretariaat
+##### Artikel XII. Het Secretariaat
 
 1. De Secretaris van de Commissie wordt benoemd door de Directeur-Generaal van de FAO.
 
@@ -282,7 +304,7 @@ Niets in dit Verdrag doet afbreuk aan de rechten en verplichtingen van de Verdra
 
 6. De Secretaris werkt samen met de regionale organisaties voor de bescherming van planten bij het realiseren van de streefdoelen van het Verdrag.
 
-#### Artikel XIII. Beslechting van geschillen
+##### Artikel XIII. Beslechting van geschillen
 
 1. Indien er een geschil bestaat betreffende de uitlegging of toepassing van dit Verdrag, of indien een Verdragsluitende Partij van mening is dat een handeling van een andere Verdragsluitende Partij in strijd is met de verplichtingen van die Partij krachtens de artikelen V en VII van dit Verdrag, vooral met betrekking tot de gronden voor het verbieden of beperken van de invoer van planten, plantaardige producten of andere gereguleerde artikelen die uit haar grondgebieden komen, treden de betrokken Verdragsluitende Partijen zo snel mogelijk in onderling overleg teneinde tot een oplossing voor het geschil te komen.
 
@@ -296,11 +318,11 @@ Niets in dit Verdrag doet afbreuk aan de rechten en verplichtingen van de Verdra
 
 6. De bepalingen van dit artikel vormen een aanvulling op en doen geen afbreuk aan procedures voor de beslechting van geschillen vastgelegd in andere internationale overeenkomsten waarin handelskwesties worden geregeld.
 
-#### Artikel XIV. Vervanging van vroegere overeenkomsten
+##### Artikel XIV. Vervanging van vroegere overeenkomsten
 
 Dit Verdrag beëindigt en vervangt tussen de Verdragsluitende Partijen de Internationale Overeenkomst tot wering van de druifluis (Phylloxera) van 3 november 1881, de aanvullende Conventie ondertekend te Bern op 15 april 1889 en het Internationale Verdrag tot bescherming van planten ondertekend te Rome op 16 april 1929.
 
-#### Artikel XV. Territoriale toepassing
+##### Artikel XV. Territoriale toepassing
 
 1. Iedere Verdragsluitende Partij kan ten tijde van de bekrachtiging of de toetreding of op ieder tijdstip daarna, aan de Directeur-Generaal van de FAO een verklaring doen toekomen dat dit Verdrag mede van toepassing is op alle of bepaalde gebieden voor de internationale betrekkingen waarvan deze Verdragsluitende Partij verantwoordelijk is. Dit Verdrag is op alle in deze verklaring genoemde gebieden van toepassing met ingang van de dertigste dag na ontvangst van de verklaring door de Directeur-Generaal.
 
@@ -308,7 +330,7 @@ Dit Verdrag beëindigt en vervangt tussen de Verdragsluitende Partijen de Intern
 
 3. De Directeur-Generaal van de FAO doet aan alle Verdragsluitende Partijen mededeling van alle krachtens dit artikel ontvangen verklaringen.
 
-#### Artikel XVI. Aanvullende overeenkomsten
+##### Artikel XVI. Aanvullende overeenkomsten
 
 1. De Verdragsluitende Partijen kunnen, voor het behandelen van bijzondere problemen op het gebied van de bescherming van planten die speciale aandacht of optreden vereisen, aanvullende overeenkomsten sluiten. Deze overeenkomsten kunnen van toepassing zijn op specifieke regio’s, specifieke ziekten, specifieke planten en plantaardige producten, specifieke wijzen van internationaal vervoer van planten en plantaardige producten, of anderszins een aanvulling vormen op de bepalingen van dit Verdrag.
 
@@ -316,7 +338,7 @@ Dit Verdrag beëindigt en vervangt tussen de Verdragsluitende Partijen de Intern
 
 3. De aanvullende overeenkomsten ondersteunen de intentie van dit Verdrag en dienen in overeenstemming te zijn met de beginselen en de bepalingen van dit Verdrag, alsmede met de beginselen van doorzichtigheid, non-discriminatie en het vermijden van verkapte beperkingen, met name ten aanzien van de internationale handel.
 
-#### Artikel XVII. Bekrachtiging en toetreding
+##### Artikel XVII. Bekrachtiging en toetreding
 
 1. Dit Verdrag staat tot 1 mei 1952 ter ondertekening open voor alle Staten en dient zo spoedig mogelijk te worden bekrachtigd. De akten van bekrachtiging dienen te worden nedergelegd bij de Directeur-Generaal van de FAO, die de datum van nederlegging mededeelt aan elk van de ondertekenende Staten.
 
@@ -324,11 +346,11 @@ Dit Verdrag beëindigt en vervangt tussen de Verdragsluitende Partijen de Intern
 
 3. Wanneer een Lidorganisatie van de FAO een Partij bij dit Verdrag wordt, doet de Lidorganisatie overeenkomstig het bepaalde in [artikel II, zevende lid, van het Statuut van de FAO](https://wetten.overheid.nl/jci1.3:c:BWBV0003179&artikel=II), indien nodig, ten tijde van haar toetreding, mededeling van die wijzigingen of ophelderingen ten aanzien van haar bevoegdheidsverklaring die is ingediend op grond van artikel II, vijfde lid, van het Statuut van de FAO die nodig zijn voor haar aanvaarding van dit Verdrag. Iedere Partij bij dit Verdrag kan, te allen tijde, een Lidorganisatie van de FAO die een Partij bij dit Verdrag is verzoeken om informatie teneinde te achterhalen wie, de Lidorganisatie of de lidstaten daarvan, verantwoordelijk is voor de uitvoering van specifieke aangelegenheden waarop dit Verdrag van toepassing is. De Lidorganisatie verstrekt deze informatie binnen een redelijke termijn.
 
-#### Artikel XVIII. Niet-Verdragsluitende Partijen
+##### Artikel XVIII. Niet-Verdragsluitende Partijen
 
 De Verdragsluitende Partijen moedigen iedere staat of Lidorganisatie van de FAO die geen partij is bij dit Verdrag, aan dit Verdrag te aanvaarden, en moedigen iedere niet-verdragsluitende partij aan fytosanitaire maatregelen toe te passen die in overeenstemming zijn met de bepalingen van dit Verdrag en met alle ingevolge dit Verdrag aangenomen internationale standaarden.
 
-#### Artikel XIX. Talen
+##### Artikel XIX. Talen
 
 1. De authentieke talen van dit Verdrag zijn alle officiële talen van de FAO.
 
@@ -348,11 +370,11 @@ De Verdragsluitende Partijen moedigen iedere staat of Lidorganisatie van de FAO 
 
 - f). alle documenten die door de Verdragsluitende Partijen ter beschikking worden gesteld ten behoeve van vergaderingen van de Commissie.
 
-#### Artikel XX. Technische bijstand
+##### Artikel XX. Technische bijstand
 
 De Verdragsluitende Partijen komen overeen de verlening van technische bijstand aan de Verdragsluitende Partijen te bevorderen, met name aan de in ontwikkeling zijnde Verdragsluitende Partijen, hetzij op bilaterale basis of door tussenkomst van de desbetreffende internationale organisaties, teneinde de uitvoering van dit Verdrag te vergemakkelijken.
 
-#### Artikel XXI. Wijziging
+##### Artikel XXI. Wijziging
 
 1. Elk voorstel van een Verdragsluitende Partij tot wijziging van dit Verdrag moet bij de Directeur-Generaal van de FAO worden ingediend.
 
@@ -368,11 +390,11 @@ De Verdragsluitende Partijen komen overeen de verlening van technische bijstand 
 
 7. Gedurende een periode van ten hoogste twaalf maanden gerekend vanaf het moment van wijziging van de in de Bijlage van dit Verdrag opgenomen fytosanitaire certificaten tot het moment waarop dit Verdrag van kracht wordt, heeft de voorgaande versie van de certificaten voor de toepassing van dit Verdrag eveneens juridische geldigheid.
 
-#### Artikel XXII. Inwerkingtreding
+##### Artikel XXII. Inwerkingtreding
 
 Zodra dit Verdrag door drie ondertekenende Staten is bekrachtigd, zal het tussen hen in werking treden. Het treedt ten aanzien van elke daarna bekrachtigende of toetredende Staat of Lidorganisatie van de FAO in werking met ingang van de datum van nederlegging van zijn c.q. haar akte van bekrachtiging of toetreding.
 
-#### Artikel XXIII. Opzegging
+##### Artikel XXIII. Opzegging
 
 1. Elke Verdragsluitende Partij kan te allen tijde bericht van opzegging van dit Verdrag zenden, welk bericht gericht moet zijn aan de Directeur-Generaal van de FAO. De Directeur-Generaal doet hiervan onmiddellijk mededeling aan alle Verdragsluitende Partijen.
 

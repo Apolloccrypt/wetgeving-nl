@@ -1,13 +1,38 @@
 ---
 title: "Algemeen Reglement van de Stichting Nederlands Fonds voor de Film"
 identifier: "BWBR0050596"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050596"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050596"
+soort: "zbo"
+stam_id: "17318193"
+version_id: "30510232"
+internal_id: "C43741191"
+label_id: "17222484"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050596/2025-01-01/0"
+intitule_bron: "Stcrt.2024-42677"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-04"
+intitule_published: "2024-12-30"
+intitule_in_force: "2024-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-42677"
+original_signed_date: "2024-11-04"
+original_published_date: "2024-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-42677"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050596&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050596&g=2025-01-01"
+citeertitel_status: "officieel"
+signed_date: "2024-11-04"
+entry_into_force: "2025-01-01"
 ---
-
 # Algemeen Reglement van de Stichting Nederlands Fonds voor de Film
 
 gelet op het bepaalde in de [Algemene wet bestuursrech](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)t (Awb),
@@ -18,7 +43,7 @@ met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van **4 nov
 
 besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit reglement wordt verstaan onder:
 
@@ -108,11 +133,11 @@ In dit reglement wordt verstaan onder:
 
 - **uitvoeringsovereenkomst:** de overeenkomst tussen het Fonds en de ontvanger van een subsidie als bedoeld in [artikel 4:36 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:36) ter uitvoering van het besluit tot verlening van die subsidie.
 
-#### Artikel 2. Toepasselijkheid
+##### Artikel 2. Toepasselijkheid
 
 Het Algemeen Reglement is van toepassing naast en in aanvulling op de deelreglementen Ontwikkeling, Realisering, Distributie en Filmactiviteiten tenzij in de betreffende deelreglementen anders is bepaald.
 
-#### Artikel 3. Subsidieverlening
+##### Artikel 3. Subsidieverlening
 
 1. Het bestuur verstrekt, ter bevordering van de kwaliteit en de diversiteit van filmproducties in Nederland en voor een voor de filmkunst ontvankelijk klimaat in Nederland, subsidies ten behoeve van professionele filmproducties en filmactiviteiten.
 
@@ -138,7 +163,7 @@ Het Algemeen Reglement is van toepassing naast en in aanvulling op de deelreglem
 
 4. De rechten en verplichtingen die uit de subsidieverlening voortvloeien zijn niet overdraagbaar, te bezwaren, tot zekerheid te stellen of te cederen aan derde partijen.
 
-#### Artikel 4. Culturele criteria en staatssteunpercentages filmproducties
+##### Artikel 4. Culturele criteria en staatssteunpercentages filmproducties
 
 1. Om in aanmerking te komen voor subsidie in de zin van dit reglement dient een filmproductie, onverminderd het bepaalde in Europese staatsteun regelgeving, in het geval van speelfilms ten minste aan drie en, in het geval van de overige categorieën en minoritaire coproducties, aan twee van de hierna volgende kenmerken te voldoen:
 
@@ -166,7 +191,7 @@ Het Algemeen Reglement is van toepassing naast en in aanvulling op de deelreglem
 
 - (ii). een opvallende artistieke verrijking of een innovatieve aanvulling betekent op het reguliere filmaanbod in Nederland.
 
-#### Artikel 5. Beoordelingscriteria
+##### Artikel 5. Beoordelingscriteria
 
 1. Bij de beoordeling van een subsidieaanvraag hanteert het bestuur de volgende criteria ter beoordeling van de **kwaliteit** van de filmproductie of filmactiviteit. De filmproductie of filmactiviteit dient:
 
@@ -186,7 +211,7 @@ Het Algemeen Reglement is van toepassing naast en in aanvulling op de deelreglem
 
 5. Het bestuur kan in de deelreglementen nadere beoordelingscriteria opnemen.
 
-#### Artikel 6. Subsidievormen
+##### Artikel 6. Subsidievormen
 
 1. Het bestuur verstrekt projectsubsidies, meerjarige activiteitensubsidies dan wel subsidies in de vorm van **slate funding**.
 
@@ -194,7 +219,7 @@ Het Algemeen Reglement is van toepassing naast en in aanvulling op de deelreglem
 
 3. Het bestuur kan een subsidie in de vorm van een garantstelling verstrekken.
 
-#### Artikel 7. Subsidieplafond en begrotingsvoorbehoud
+##### Artikel 7. Subsidieplafond en begrotingsvoorbehoud
 
 1. Het bestuur kan per kalenderjaar een subsidieplafond vaststellen en bepalen hoe het beschikbare bedrag wordt verdeeld.
 
@@ -206,13 +231,13 @@ Het Algemeen Reglement is van toepassing naast en in aanvulling op de deelreglem
 
 5. Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende middelen door de Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 8. Hoogte van het subsidiebedrag
+##### Artikel 8. Hoogte van het subsidiebedrag
 
 1. De hoogte van een subsidie kan door het bestuur per geval worden bepaald aan de hand van maximale bijdragen, eventueel vermeerderd met eventuele aanvullende subsidies die worden gepubliceerd in het Financieel & Productioneel Protocol.
 
 2. Het bestuur kan de in het vorige lid bedoelde subsidies vaststellen per categorie, per programma, voor internationale coproducties en voor filmproducties waarbij het Fonds samenwerkt met andere (subsidie verlenende) instellingen.
 
-#### Artikel 9. Aanvrager
+##### Artikel 9. Aanvrager
 
 1. Een subsidie op aanvraag wordt slechts verstrekt aan een filmprofessional of een rechtspersoon die tenminste gedurende minimaal twee jaar voorafgaand aan de aanvraag in het Koninkrijk der Nederlanden, een lidstaat van de Europese Unie, of in een staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland woonachtig respectievelijk gevestigd is, en wiens beroep respectievelijk hoofdactiviteit is het schrijven voor, het ontwikkelen, produceren, exploiteren/distribueren van filmproducties of het organiseren of uitvoeren van een filmactiviteit ter bevordering van de kwaliteit en de diversiteit van de filmproductie in Nederland en een voor de filmkunst ontvankelijk (productie)klimaat in Nederland.
 
@@ -226,7 +251,7 @@ Het Algemeen Reglement is van toepassing naast en in aanvulling op de deelreglem
 
 - –. zij die nog een (beroeps)opleiding volgen.
 
-#### Artikel 10. Vereisten
+##### Artikel 10. Vereisten
 
 Een subsidie kan slechts worden verstrekt, indien naar het oordeel van het bestuur:
 
@@ -248,7 +273,7 @@ Een subsidie kan slechts worden verstrekt, indien naar het oordeel van het bestu
 
 - i. aannemelijk is dat de aanvrager aan de in dit reglement vermelde subsidieverplichtingen kan voldoen.
 
-#### Artikel 11. Aanvraag
+##### Artikel 11. Aanvraag
 
 1. Een subsidieaanvraag wordt uitsluitend ingediend met gebruikmaking van een door het Fonds ter beschikking gesteld aanvraagformulier.
 
@@ -266,19 +291,19 @@ Een subsidie kan slechts worden verstrekt, indien naar het oordeel van het bestu
 
 8. Verschillende aanvragen voor dezelfde filmproductie of filmactiviteit kunnen niet gelijktijdig bij het Fonds worden ingediend, tenzij het bestuur hier schriftelijk toestemming voor heeft gegeven.
 
-#### Artikel 12. Inleverdata
+##### Artikel 12. Inleverdata
 
 1. Het bestuur behandelt aanvragen in subsidierondes, vanaf de daarvoor bestemde sluitingsdata, tenzij door het bestuur anders is bepaald.
 
 2. Het Fonds publiceert de sluitingsdata van de subsidierondes op zijn website: [www.filmfonds.nl](http://www.filmfonds.nl)
 
-#### Artikel 13. Wijze van beoordeling en beslissing op de aanvraag
+##### Artikel 13. Wijze van beoordeling en beslissing op de aanvraag
 
 1. Een aanvraag is gericht aan het bestuur. Het bestuur kan een aanvraag ter advisering voorleggen aan een filmconsulent(en) of (ad hoc)adviseur(s) of hoofd(en), zoals bedoeld in het Huishoudelijk reglement.
 
 2. Het bestuur besluit op de aanvraag uiterlijk binnen 13 weken na ontvangst van de aanvraag. Indien de aanvraag ter advisering aan een filmconsulent of (ad hoc) adviseur(s) is voorgelegd bedraagt deze termijn uiterlijk 22 weken.
 
-#### Artikel 14. Weigeringsgronden
+##### Artikel 14. Weigeringsgronden
 
 1. Onverminderd het bepaalde in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), wordt een aanvraag voor een subsidie afgewezen, indien naar het oordeel van het bestuur niet wordt voldaan aan het bepaalde in het Algemeen Reglement, waaronder, maar niet beperkt tot, [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0050596&artikel=10&z=2025-01-01&g=2025-01-01) van het Algemeen Reglement of het van toepassing zijnde deelreglement van het Fonds.
 
@@ -288,7 +313,7 @@ Een subsidie kan slechts worden verstrekt, indien naar het oordeel van het bestu
 
 4. Een aanvraag voor een filmactiviteit of fase van een filmproductie die tweemaal eerder door het bestuur is afgewezen, wordt niet meer in behandeling genomen.
 
-#### Artikel 15. Voorwaarden en uitvoeringsovereenkomst
+##### Artikel 15. Voorwaarden en uitvoeringsovereenkomst
 
 1. Het bestuur verbindt in het geval van een subsidie in de vorm van een lening, aan het besluit tot subsidieverlening de opschortende voorwaarde dat de uitvoeringsovereenkomst tot stand komt tenzij in de beschikking tot subsidieverlening anders is bepaald.
 
@@ -296,7 +321,7 @@ Een subsidie kan slechts worden verstrekt, indien naar het oordeel van het bestu
 
 3. Het bestuur kan in het besluit tot subsidieverlening bepalen dat de aanvrager van een subsidie á fonds perdu verplicht is mee te werken aan de totstandkoming van een uitvoeringsovereenkomst.
 
-#### Artikel 16. Algemene verplichtingen
+##### Artikel 16. Algemene verplichtingen
 
 1. Het bestuur legt aan de subsidieontvanger de verplichting op dat:
 
@@ -338,7 +363,7 @@ Een subsidie kan slechts worden verstrekt, indien naar het oordeel van het bestu
 
 5. Het Fonds gaat ervan uit dat aanvragers en de bij een aanvraag betrokken filmprofessionals en ondernemingen de kaders van de eigen beroepsverenigingen respecteren, de op de sector van toepassing zijnde gedragscodes (waaronder de fair practice code, de code diversiteit & inclusie en de governance code cultuur) toepassen en als opdrachtgevers en opdrachtnemers transparant, integer en professioneel handelen.
 
-#### Artikel 17. Bijzondere verplichtingen
+##### Artikel 17. Bijzondere verplichtingen
 
 De subsidieontvanger:
 
@@ -352,13 +377,13 @@ De subsidieontvanger:
 
 - e. verplicht zich om ‘om niet’ toestemming te verlenen voor niet commercieel educatief gebruik dan wel eenmalige of bijzondere openbaarmakingen van de filmproductie die in het kader van de bevordering van het filmklimaat in Nederland en van nationaal belang zijn, en deze daartoe te verveelvoudigen, tenzij in redelijkheid gesteld kan worden dat deze openbaarmaking de belangen van de aanvrager of diens rechtverkrijgenden onevenredig kan schaden.
 
-#### Artikel 18. Voorschotten
+##### Artikel 18. Voorschotten
 
 1. Het bestuur kan voorschotten verstrekken. In het besluit tot subsidieverlening en in de uitvoeringsovereenkomst worden het bevoorschottingsritme en de hoogte van het voorschot bepaald.
 
 2. Indien subsidie is verleend aan een rechtspersoon als aanvrager waarvan de hoofdvestiging of vestigingsplaats niet in het Koninkrijk der Nederlanden is gelegen, dan is de aanvrager verplicht ten genoegen van het bestuur aan te tonen dat de aanvrager op het moment van voorschotverlening beschikt over een nevenvestiging in Nederland met ten minste één werknemer in vaste dienst.
 
-#### Artikel 19. Verantwoording
+##### Artikel 19. Verantwoording
 
 1. De subsidieontvanger is verplicht onverminderd het bepaalde in [artikel 4:45 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:45) desgevraagd de volgende bescheiden in te dienen:
 
@@ -378,7 +403,7 @@ De subsidieontvanger:
 
 7. Het Fonds kan ongelimiteerd steekproeven houden om te controleren of aan de aan de subsidie verbonden verplichtingen is voldaan.
 
-#### Artikel 20. Subsidievaststelling
+##### Artikel 20. Subsidievaststelling
 
 1. Binnen vier maanden na eerste openbaarmaking van de filmproductie of voltooiing van de filmactiviteit dient de subsidieontvanger een aanvraag tot vaststelling in, tenzij een andere termijn is vastgelegd in de uitvoeringsovereenkomst of de subsidie bij verlening al is vastgesteld. Indien deze termijn wordt overschreden, is het bestuur bevoegd de verleende subsidie ambtshalve vast te stellen.
 
@@ -392,13 +417,13 @@ De subsidieontvanger:
 
 6. In afwijking van dit artikel kan het bestuur in bepaalde gevallen een beschikking tot subsidieverlening geven, met vermelding van de datum waarop de activiteiten uiterlijk moeten zijn verricht en van de datum waarop de subsidie uiterlijk door het fonds wordt vastgesteld.
 
-#### Artikel 21. Betaling
+##### Artikel 21. Betaling
 
 1. Binnen acht weken na dagtekening van de beschikking tot vaststelling van de subsidie wordt het subsidiebedrag betaald of verrekend met betaalde voorschotten.
 
 2. De ontvanger van de subsidie stort teveel ontvangen voorschotten terstond terug.
 
-#### Artikel 22. Wijziging, intrekking en terugvordering subsidie
+##### Artikel 22. Wijziging, intrekking en terugvordering subsidie
 
 1. Het bestuur kan de subsidieverlening intrekken of ten nadele van de subsidieontvanger wijzigen als deze niet heeft voldaan aan de aan de subsidie verbonden verplichtingen, waaronder maar niet beperkt tot, de meldingsplicht zoals bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0050596&artikel=16&z=2025-01-01&g=2025-01-01) dan wel tekort is geschoten in de nakoming van de verplichtingen voortvloeiend uit de uitvoeringsovereenkomst waarna de middelen toevallen aan de betreffende categorie.
 
@@ -410,15 +435,15 @@ De subsidieontvanger:
 
 5. Het bedrag waarmee de subsidie eventueel wordt verlaagd wordt in eerste instantie verrekend met de nog te verlenen voorschotten. Mocht dat niet toereikend zijn dan worden reeds uitbetaalde voorschotten teruggevorderd.
 
-#### Artikel 23. Overig
+##### Artikel 23. Overig
 
 In voorkomende gevallen kan het bestuur met inachtneming van de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050596&artikel=3&z=2025-01-01&g=2025-01-01) van dit reglement, buiten het toepassingsgebied van de deelreglementen, een subsidie verstrekken.
 
-#### Artikel 24. Conservering en exploitatie
+##### Artikel 24. Conservering en exploitatie
 
 Ter behoud van het cultureel erfgoed is het Fonds of diens rechtsopvolger gerechtigd om alle stukken, documenten en eventueel opgeleverde filmkopieën of ander beeldmateriaal, die het met betrekking tot een aanvraag voor een subsidie in zijn bezit heeft, na afronding van de aanvraag te bewaren dan wel in bewaring te geven c.q. te schenken aan het EYE Filminstituut Nederland of de Rijksarchiefdienst. Zonder voorafgaande schriftelijke toestemming van het bestuur en, waar nodig, van de rechthebbende(n) zullen deze stukken en documenten noch door het Fonds of diens rechtsopvolger, noch door het EYE Filminstituut Nederland of de Rijksarchiefdienst aan derden ter inzage worden gegeven. Het bestuur zal deze toestemming niet verlenen indien het redelijkerwijs kan vermoeden dat het verlenen van inzage in de stukken of documenten, het belang van de aanvrager, of andere bij de aanvraag betrokken personen, kan schaden.
 
-#### Artikel 25. Overgangs- en slotbepalingen
+##### Artikel 25. Overgangs- en slotbepalingen
 
 1. In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 

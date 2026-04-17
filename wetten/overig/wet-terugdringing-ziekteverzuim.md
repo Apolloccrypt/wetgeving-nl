@@ -1,14 +1,37 @@
 ---
-title: "Wet terugdringing ziekteverzuim"
+title: "Wet van 22 december 1993, tot wijziging van de Ziektewet, het Burgerlijk Wetboek en enkele andere wetten, alsmede het treffen van een regeling voor het overheidspersoneel, in verband met terugdringing van het ziekteverzuim"
 identifier: "BWBR0006355"
-categorie: "Overig"
-publicatiedatum: 2005-12-29
-laatste_update: 2005-12-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006355"
+country: "nl"
+rank: "wet"
+publication_date: "2005-12-29"
+last_updated: "2005-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006355"
+soort: "wet"
+stam_id: "184063"
+version_id: "251592"
+internal_id: "C251591"
+label_id: "182044"
+dtd_version: "2.0"
+original_entry_into_force: "1994-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006355/2005-12-29/0"
+intitule_bron: "Stb.1993-750"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-12-22"
+intitule_status: "goed"
+original_publication: "Stb.1993-750"
+original_signed_date: "1993-12-22"
+original_effect: "nieuwe-regeling"
+original_dossier: "22899"
+entry_into_force_date: "1994-01-01"
+jci_1_3: "jci1.3:c:BWBR0006355&z=2005-12-29&g=2005-12-29"
+jci_1_0: "1.0:c:BWBR0006355&g=2005-12-29"
+citeertitel_status: "officieel"
+short_title: "Wet terugdringing ziekteverzuim"
+signed_date: "1993-12-22"
+entry_into_force: "1994-01-01"
 ---
-
-# Wet terugdringing ziekteverzuim
+# Wet van 22 december 1993, tot wijziging van de Ziektewet, het Burgerlijk Wetboek en enkele andere wetten, alsmede het treffen van een regeling voor het overheidspersoneel, in verband met terugdringing van het ziekteverzuim
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,73 +41,73 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Wetten op het terrein van de sociale zekerheid
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VI
+##### Artikel VI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VII
+##### Artikel VII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IX
+##### Artikel IX
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel X
+##### Artikel X
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XI
+##### Artikel XI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XII
+##### Artikel XII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Bevat wijzigingen in andere regelgeving.
 
 ### Hoofdstuk II. Burgerlijk Wetboek
 
-#### Artikel XIV
+##### Artikel XIV
 
 Bevat wijzigingen in andere regelgeving.
 
 ### Hoofdstuk III. Regeling voor het overheidspersoneel
 
-#### Artikel XV
+##### Artikel XV
 
 Vervallen
 
 ### Hoofdstuk IV. Overgangs- en slotbepalingen
 
-#### Artikel XVI
+##### Artikel XVI
 
 1. De inwerkingtreding van deze wet heeft geen gevolgen voor het recht op ziekengeld van de verzekerde:
 
@@ -94,7 +117,7 @@ Vervallen
 
 2. Voor de toepassing van het eerste lid wordt de ongeschiktheid tot het werken wegens ziekte geacht niet te zijn onderbroken wanneer perioden van ongeschiktheid elkaar met een onderbreking van minder dan vier weken opvolgen.
 
-#### Artikel XVII
+##### Artikel XVII
 
 1. [Artikel 57 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=57) blijft voor door de bedrijfsvereniging op grond van dat artikel getroffen en door de Minister van Sociale Zaken en Werkgelegenheid goedgekeurde besluiten van kracht tot 1 juli 1994.
 
@@ -102,7 +125,7 @@ Vervallen
 
 3. In de gevallen waarin het eerste lid toepassing vindt blijven de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=1), 7**a** en [57 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=57), de artikelen 1 en 48 van de Algemene Arbeidsongeschiktheidswet, [artikel 3**a**, tweede lid van de Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=3a) en [artikel 3 van de Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&artikel=3), zoals deze luidden vóór het tijdstip van inwerkingtreding van deze wet, van kracht.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 1. Degene die op grond van [artikel XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=IV&artikel=XVII&z=2005-12-29&g=2005-12-29) aanspraken heeft verkregen die voortvloeien uit [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=57) of [artikel 54 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=54) behoudt deze aanspraken, indien:
 
@@ -112,7 +135,7 @@ Vervallen
 
 2. Artikel XVI, tweede lid, en, voor zoveel nodig, artikel XVII, derde lid, zijn van toepassing.
 
-#### Artikel XIX
+##### Artikel XIX
 
 1. De bepaling van [artikel XIV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=II&artikel=XIV&z=2005-12-29&g=2005-12-29) is niet van toepassing op de arbeidsverhoudingen van personen:
 
@@ -122,21 +145,21 @@ Vervallen
 
 2. Voor de toepassing van het eerste lid wordt de ongeschiktheid tot het verrichten van arbeid wegens ziekte geacht niet te zijn onderbroken wanneer perioden van ongeschiktheid elkaar met een onderbreking van minder dan vier weken opvolgen.
 
-#### Artikel XX
+##### Artikel XX
 
 Vervallen
 
-#### Artikel XXI
+##### Artikel XXI
 
 De tekst van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) wordt door de Minister van Justitie in het **Staatsblad** geplaatst.
 
-#### Artikel XXII
+##### Artikel XXII
 
 1. De artikelen van deze wet, met uitzondering van [artikel III, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=I&artikel=III&z=2005-12-29&g=2005-12-29), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. [Artikel III, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&hoofdstuk=I&artikel=III&z=2005-12-29&g=2005-12-29), treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst en werkt terug tot en met 1 maart 1992.
 
-#### ARTIKEL XXIII
+##### ARTIKEL XXIII
 
 1. Het Landelijk instituut sociale verzekeringen is bevoegd tegen kostprijs werkzaamheden te verrichten in opdracht of ten behoeve van een dienst als bedoeld in artikel 17, eerste lid, onderdelen **a** en **c**, van de Arbeidsomstandighedenwet.
 
@@ -144,7 +167,7 @@ De tekst van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) wor
 
 3. De bevoegdheid als bedoeld in het eerste lid vervalt met ingang van 1 januari 1998.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Deze wet wordt aangehaald als "Wet terugdringing ziekteverzuim".
 

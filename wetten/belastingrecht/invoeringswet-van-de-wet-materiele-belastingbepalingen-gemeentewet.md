@@ -1,14 +1,38 @@
 ---
-title: "Invoeringswet van de wet materiële belastingbepalingen Gemeentewet"
+title: "Wet van 27 april 1994, houdende invoering en wijziging van de wet tot wijziging van de Gemeentewet met betrekking tot de materiële belastingbepalingen, van de Gemeentewet en van een aantal andere wetten met het oog op de wijziging van de Gemeentewet met betrekking tot de materiële belastingbepalingen"
 identifier: "BWBR0006638"
-categorie: "Belastingrecht"
-publicatiedatum: 1995-05-17
-laatste_update: 1995-05-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006638"
+country: "nl"
+rank: "wet"
+publication_date: "1995-05-17"
+last_updated: "1995-05-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006638"
+soort: "wet"
+stam_id: "1511273"
+version_id: "2253102"
+internal_id: "C2253091"
+label_id: "1467824"
+dtd_version: "2.0"
+original_entry_into_force: "1995-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006638/1995-05-17/0"
+intitule_bron: "Stb.1994-420"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-04-27"
+intitule_status: "goed"
+original_publication: "Stb.1994-420"
+original_signed_date: "1994-04-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "23217"
+entry_into_force_date: "1995-01-01"
+entry_into_force_dossier: "23217"
+jci_1_3: "jci1.3:c:BWBR0006638&z=1995-05-17&g=1995-05-17"
+jci_1_0: "1.0:c:BWBR0006638&g=1995-05-17"
+citeertitel_status: "officieel"
+short_title: "Invoeringswet van de wet materiële belastingbepalingen Gemeentewet"
+signed_date: "1994-04-27"
+entry_into_force: "1995-01-01"
 ---
-
-# Invoeringswet van de wet materiële belastingbepalingen Gemeentewet
+# Wet van 27 april 1994, houdende invoering en wijziging van de wet tot wijziging van de Gemeentewet met betrekking tot de materiële belastingbepalingen, van de Gemeentewet en van een aantal andere wetten met het oog op de wijziging van de Gemeentewet met betrekking tot de materiële belastingbepalingen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,63 +40,63 @@ Alzo Wij in overweging genomen hebben, dat het met het oog op de wijziging van d
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VI
+##### Artikel VI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VII
+##### Artikel VII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IX
+##### Artikel IX
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel X
+##### Artikel X
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XI
+##### Artikel XI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XII
+##### Artikel XII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XV. Overgangsrecht
+##### Artikel XV. Overgangsrecht
 
 1. De besluiten inzake gemeentelijke belastingverordeningen als bedoeld in artikel 216, die algemeen verbindende voorschriften bevatten waarvan de inhoud in strijd is met deze wet, moeten uiterlijk twee jaren na de datum van inwerkingtreding van deze wet daarmee in overeenstemming zijn gebracht of ingetrokken. De besluiten, of onderdelen daarvan, die op het in de eerste volzin genoemde tijdstip niet met deze wet in overeenstemming zijn gebracht of zijn ingetrokken, zijn van rechtswege vervallen.
 
@@ -84,7 +108,7 @@ Bevat wijzigingen in andere regelgeving.
 
 5. In afwijking van het eerste lid vervallen de besluiten inzake gemeentelijke belastingverordeningen als bedoeld in [artikel 280 van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=280), zoals dit luidde voor de inwerkingtreding van de wet van 24 december 1970 tot wijziging van de bepalingen inzake gemeentelijke en provinciale belastingen, waarvan de heffing tot een bepaalde termijn is beperkt en waarvoor de mogelijkheid tot afkoop is gegeven, bij het verstrijken van de termijn die daarvoor in de desbetreffende belastingverordening is gesteld.
 
-#### Artikel XVI
+##### Artikel XVI
 
 1. Vervallen.
 
@@ -92,19 +116,19 @@ Bevat wijzigingen in andere regelgeving.
 
 3. De vervallen besluiten, of onderdelen daarvan, als bedoeld in [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBR0006638&artikel=XV&z=1995-05-17&g=1995-05-17) blijven van toepassing op de heffing ter zake van belastbare feiten die zich hebben voorgedaan vóór het tijdstip waarop de voorschriften zijn vervallen.
 
-#### Artikel XVII
+##### Artikel XVII
 
 1. Als besluit inzake de baatbelasting als bedoeld in artikel 222, tweede lid, kan worden aangemerkt een besluit dat in verband met het treffen van dezelfde voorziening is genomen op grond van [artikel 273**a**](onbekend), vierde lid, en [artikel 274, vierde lid, van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=274), dan wel [artikel 221](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=221), vierde lid, en [artikel 222, vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=222).
 
 2. Besluiten die zijn genomen op grond van [artikel 221](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=221), vierde lid, en [artikel 222, vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=222), zoals deze luidden voor inwerkingtreding van deze wet, en die niet overeenkomstig [artikel 139 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=139) zijn bekendgemaakt, dienen na inwerkingtreding van de [onderdelen C en D van artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0006638&artikel=III&z=1995-05-17&g=1995-05-17) van deze wet alsnog te worden bekendgemaakt overeenkomstig [artikel 139 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=139).
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 1. Met betrekking tot de besluiten, bedoeld in [artikel XV, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006638&artikel=XV&z=1995-05-17&g=1995-05-17), blijft Hoofdstuk XV van de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), zoals dit luidde voor de inwerkingtreding van deze wet, alsmede de op dat hoofdstuk berustende uitvoeringsvoorschriften van kracht gedurende de in die artikelleden bedoelde termijnen.
 
 2. Met betrekking tot de besluiten, bedoeld in [artikel XV, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006638&artikel=XV&z=1995-05-17&g=1995-05-17), blijven titel VI van de tweede afdeling, eerste en tweede hoofdstuk, van de [gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), alsmede de op die hoofdstukken berustende uitvoeringsvoorschriften van kracht gedurende de in dat artikellid bedoelde termijn.
 
-#### Artikel XIX
+##### Artikel XIX
 
 1. Indien en zolang op 1 januari van enig kalenderjaar dat valt in het in [artikel XV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006638&artikel=XV&z=1995-05-17&g=1995-05-17), bedoelde tijdvak van twee jaren in een geheel of gedeeltelijk in het gebied van het waterschap gelegen gemeente een verordening op de onroerende-zaakbelastingen van toepassing is, waarvan een of meer bepalingen niet in overeenstemming zijn met de voorschriften van de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), zoals deze luidt na de inwerkingtreding van deze wet, blijft [artikel V, onderdelen A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0006638&artikel=V&z=1995-05-17&g=1995-05-17), buiten toepassing en blijven de [artikelen 117](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=117), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=118) en [120 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=120), zoals die luidden vóór de inwerkingtreding van deze wet, gelden met inachtneming van het bepaalde in de volgende leden.
 
@@ -112,19 +136,19 @@ Bevat wijzigingen in andere regelgeving.
 
 3. Het eerste en het tweede lid vinden van rechtswege toepassing, ook in het geval waarin een verordening op een waterschapsomslag niet of niet geheel in overeenstemming is met de bepalingen van de [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108), zoals die gelden met inachtneming van het bepaalde in die leden.
 
-#### Artikel XX
+##### Artikel XX
 
 Voor de plaatsing van deze wet in het **Staatsblad** worden de in deze wet voorkomende verwijzingen naar de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) in andere wetten door Onze Minister van Binnenlandse Zaken in overeenstemming gebracht met de ingevolge artikel XXI vastgestelde nieuwe nummering van de artikelen van de paragrafen 1 tot en met 3 van hoofdstuk XV van de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416).
 
-#### Artikel XXI
+##### Artikel XXI
 
 Voorafgaand aan de inwerkingtreding van deze wet wordt de tekst van de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) in het **Staatsblad** geplaatst. Voor die plaatsing in het **Staatsblad** stelt Onze Minister van Binnenlandse Zaken de nummering van de artikelen van de paragrafen 1 tot en met 3 van hoofdstuk XV van de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) opnieuw vast en brengt hij de in die wet voorkomende aanhalingen van die artikelen met de nieuwe nummering in overeenstemming.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Indien het bij koninklijke boodschap van 8 juni 1990 ingediende voorstel van wet tot wijziging van de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) met betrekking tot de materiële belastingbepalingen (kamerstukken II, 1989/90, 21 591) tot wet wordt verheven, treedt die wet in werking op hetzelfde tijdstip als waarop deze wet in werking treedt.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 1. Deze wet treedt in werking op 1 januari van het jaar volgend op de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
@@ -134,7 +158,7 @@ Indien het bij koninklijke boodschap van 8 juni 1990 ingediende voorstel van wet
 
 4. Indien deze wet op hetzelfde tijdstip in werking treedt als de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), treden [artikel III, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0006638&artikel=III&z=1995-05-17&g=1995-05-17), [artikel XV, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006638&artikel=XV&z=1995-05-17&g=1995-05-17), [artikel XVII, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006638&artikel=XVII&z=1995-05-17&g=1995-05-17), en [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0006638&artikel=XVIII&z=1995-05-17&g=1995-05-17), van deze wet niet in werking. Indien deze wet niet op hetzelfde tijdstip in werking treedt als de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), treedt [artikel III, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0006638&artikel=III&z=1995-05-17&g=1995-05-17), en [artikel XVI, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006638&artikel=XVI&z=1995-05-17&g=1995-05-17), van deze wet niet in werking.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Deze wet wordt aangehaald als: Invoeringswet van de wet materiële belastingbepalingen Gemeentewet.
 

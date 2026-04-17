@@ -1,14 +1,38 @@
 ---
-title: "Wet souvereiniteitsoverdracht Indonesië"
+title: "Wet van 21 December 1949, houdende een voorziening in de zin van artikel 211 der Grondwet"
 identifier: "BWBR0002055"
-categorie: "Overig"
-publicatiedatum: 1949-12-22
-laatste_update: 1949-12-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002055"
+country: "nl"
+rank: "wet"
+publication_date: "1949-12-22"
+last_updated: "1949-12-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002055"
+soort: "wet"
+stam_id: "129523"
+version_id: "177842"
+internal_id: "C177841"
+label_id: "128984"
+dtd_version: "2.0"
+original_entry_into_force: "1949-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002055/1949-12-22/0"
+intitule_bron: "Stb.1949-J 570"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1949-12-21"
+intitule_status: "goed"
+original_publication: "Stb.1949-J 570"
+original_signed_date: "1949-12-21"
+original_effect: "nieuwe-regeling"
+original_dossier: "1478"
+entry_into_force_date: "1949-12-22"
+entry_into_force_dossier: "1478"
+jci_1_3: "jci1.3:c:BWBR0002055&z=1949-12-22&g=1949-12-22"
+jci_1_0: "1.0:c:BWBR0002055&g=1949-12-22"
+citeertitel_status: "officieel"
+short_title: "Wet souvereiniteitsoverdracht Indonesië"
+signed_date: "1949-12-21"
+entry_into_force: "1949-12-22"
 ---
-
-# Wet souvereiniteitsoverdracht Indonesië
+# Wet van 21 December 1949, houdende een voorziening in de zin van artikel 211 der Grondwet
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,15 +40,15 @@ Alzo Wij in overweging genomen hebben, dat voor de aanvaarding van de resultaten
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 De Mantelresolutie met ontwerp-overeenkomsten en briefwisseling betreffende de wijze om werkelijke, volledige en onvoorwaardelijke souvereiniteit over te dragen aan de Republiek der Verenigde Staten van Indonesië overeenkomstig de Renville-beginselen, welke Mantelresolutie met ontwerp-overeenkomsten en briefwisseling door de Algemene Vergadering van de Ronde Tafel Conferentie te 's-Gravenhage op 2 November 1949 is aangenomen en in afdruk in Nederlandse en in Indonesische tekst en in Engelse vertaling nevens deze wet is gevoegd, wordt door het Koninkrijk der Nederlanden aanvaard.
 
-#### Artikel 2
+##### Artikel 2
 
 Wij dragen zorg, dat, echter niet zonder voorafgaand overleg met de Regering van de Republiek der Verenigde Staten van Indonesië, hetzij bij de Commissie der Verenigde Naties voor Indonesië, hetzij bij een ander orgaan der Verenigde Naties, die stappen worden gedaan, welke naar Ons inzicht bevorderlijk kunnen zijn aan een volledig tot zijn recht komen van het zelfbeschikkingsrecht, gelijk dit is bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002055&artikel=2&z=1949-12-22&g=1949-12-22) der Overgangsovereenkomst, behorende bij de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002055&artikel=1&z=1949-12-22&g=1949-12-22) dezer wet vermelde Mantelresolutie.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze wet, welke kan worden aangehaald als "Wet Souvereiniteitsoverdracht Indonesië", treedt in werking met ingang van de dag na die van haar afkondiging.
 

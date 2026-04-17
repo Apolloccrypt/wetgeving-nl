@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland, het Land Nedersaksen en het Land Noordrijn-Westfalen inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten"
 identifier: "BWBV0002367"
-categorie: "Internationaal recht"
-publicatiedatum: 1993-01-01
-laatste_update: 1993-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002367"
+country: "nl"
+rank: "verdrag"
+publication_date: "1993-01-01"
+last_updated: "1993-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002367"
+soort: "verdrag"
+stam_id: "10002847863"
+version_id: "10002847712"
+internal_id: "C10006976691"
+label_id: "10002835384"
+dtd_version: "2.0"
+original_entry_into_force: "1993-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002367/1993-01-01/0"
+intitule_bron: "Trb.1991-102"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-10-22"
+intitule_published: "1991-07-10"
+intitule_in_force: "1992-12-30"
+intitule_status: "goed"
+original_publication: "Trb.1991-102"
+original_signed_date: "1992-10-22"
+original_published_date: "1991-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1991-102"
+entry_into_force_date: "1993-01-01"
+jci_1_3: "jci1.3:c:BWBV0002367&z=1993-01-01&g=1993-01-01"
+jci_1_0: "1.0:c:BWBV0002367&g=1993-01-01"
+citeertitel_status: "officieel"
+signed_date: "1992-10-22"
+entry_into_force: "1993-01-01"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland, het Land Nedersaksen en het Land Noordrijn-Westfalen inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten
 
 Het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland, het Land Nedersaksen en het Land Noordrijn-Westfalen,
@@ -18,7 +43,7 @@ geleid door de wens voor deze gemeenschappen of autoriteiten de mogelijkheid te 
 
 zijn overeengekomen als volgt:
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 1. Deze Overeenkomst is van toepassing
 
@@ -38,7 +63,7 @@ zijn overeengekomen als volgt:
 
 6. Territoriale gemeenschappen of autoriteiten in de zin van deze Overeenkomst zijn de in het eerste, tweede en derde lid genoemde, alsmede de in het vierde lid bedoelde rechtspersonen.
 
-#### Artikel 2. Doel en vormen van de samenwerking
+##### Artikel 2. Doel en vormen van de samenwerking
 
 1. Territoriale gemeenschappen of autoriteiten kunnen in het kader van de bevoegdheden die zij volgens het interne recht van hun Staat hebben, op basis van deze Overeenkomst samenwerken, om een efficiënte en doelmatige behartiging van hun taken door middel van grensoverschrijdende samenwerking te bevorderen.
 
@@ -50,7 +75,7 @@ zijn overeengekomen als volgt:
 
 - 3. het treffen van een gemeenschappelijke regeling waarbij een gemeenschappelijk orgaan wordt ingesteld.
 
-#### Artikel 3. Openbaar lichaam
+##### Artikel 3. Openbaar lichaam
 
 1. Territoriale gemeenschappen of autoriteiten kunnen ter gemeenschappelijke vervulling van taken die volgens het voor elk van hen geldende interne recht door een publiekrechtelijk lichaam kunnen worden behartigd, een gemeenschappelijke regeling treffen waarbij een openbaar lichaam wordt ingesteld.
 
@@ -58,7 +83,7 @@ zijn overeengekomen als volgt:
 
 3. Voor zover deze Overeenkomst geen andere bepalingen bevat, geldt voor het openbaar lichaam het recht van de Overeenkomstsluitende Staat waar de zetel van het openbaar lichaam is gevestigd.
 
-#### Artikel 4. Regeling en interne structuur van het openbaar lichaam
+##### Artikel 4. Regeling en interne structuur van het openbaar lichaam
 
 1. De deelnemende territoriale gemeenschappen of autoriteiten stellen het openbaar lichaam bij regeling in.
 
@@ -102,13 +127,13 @@ zijn overeengekomen als volgt:
 
 5. De afvaardiging van vertegenwoordigers van de deelnemende territoriale gemeenschappen of autoriteiten naar het algemeen bestuur richt zich naar het interne recht van de betrokken Staat. Hetzelfde geldt voor de rechten en verplichtingen van deze vertegenwoordigers jegens de afvaardigende instellingen, voor zover deze Overeenkomst niet anders bepaalt.
 
-#### Artikel 5. Bevoegdheden van het openbaar lichaam tegenover derden
+##### Artikel 5. Bevoegdheden van het openbaar lichaam tegenover derden
 
 1. Het openbaar lichaam is niet bevoegd bij verordening algemeen verbindende voorschriften vast te stellen of bij beschikking verplichtingen op te leggen.
 
 2. De deelnemers aan de regeling waarbij het openbaar lichaam is ingesteld zijn jegens het openbaar lichaam verplicht, binnen de grenzen van de hun krachtens het interne recht van hun Staat toekomende bevoegdheden, de maatregelen te treffen die voor de vervulling van zijn taken noodzakelijk zijn.
 
-#### Artikel 6. Gemeenschappelijke regeling waarbij geen openbaar lichaam of gemeenschappelijk orgaan wordt ingesteld
+##### Artikel 6. Gemeenschappelijke regeling waarbij geen openbaar lichaam of gemeenschappelijk orgaan wordt ingesteld
 
 1. Territoriale gemeenschappen of autoriteiten kunnen een gemeenschappelijke regeling treffen waarbij geen openbaar lichaam of gemeenschappelijk orgaan wordt ingesteld, voor zover dit volgens het recht van de Staat van de deelnemende territoriale gemeenschappen of autoriteiten is toegestaan. De gemeenschappelijke regeling dient schriftelijk te worden vastgelegd.
 
@@ -120,7 +145,7 @@ zijn overeengekomen als volgt:
 
 5. Voor zover in deze Overeenkomst geen andere bepalingen zijn opgenomen, is het recht van toepassing van de Overeenkomstsluitende Staat op het grondgebied waarvan de desbetreffende verplichting uit de gemeenschappelijke regeling moet worden vervuld.
 
-#### Artikel 7. Gemeenschappelijk orgaan
+##### Artikel 7. Gemeenschappelijk orgaan
 
 1. Territoriale gemeenschappen of autoriteiten kunnen een gemeenschappelijke regeling treffen waarbij een gemeenschappelijk orgaan wordt ingesteld. Dit gemeenschappelijk orgaan beraadslaagt met inachtneming van het bepaalde in de gemeenschappelijke regeling over aangelegenheden die de deelnemers gezamenlijk aangaan.
 
@@ -136,7 +161,7 @@ zijn overeengekomen als volgt:
 
 4. Voor zover deze Overeenkomst geen andere bepalingen bevat, geldt voor het gemeenschappelijk orgaan het recht van de Overeenkomstsluitende Staat waar de zetel van het gemeenschappelijk orgaan is gevestigd.
 
-#### Artikel 8. Geldigheidsvereisten voor maatregelen van grensoverschrijdende samenwerking
+##### Artikel 8. Geldigheidsvereisten voor maatregelen van grensoverschrijdende samenwerking
 
 1. De in artikel 2, tweede lid, voorziene vormen van samenwerking kunnnen slechts rechtsgeldig worden overeengekomen en gewijzigd, indien de bepalingen van het recht van de Staat van de deelnemende territoriale gemeenschappen of autoriteiten over
 
@@ -150,7 +175,7 @@ zijn overeengekomen als volgt:
 
 2. Territoriale gemeenschappen of autoriteiten als bedoeld in artikel 1 wijzen de territoriale gemeenschappen of autoriteiten die in andere Overeenkomstsluitende Staten zijn gevestigd op de vereisten die het eerste lid stelt.
 
-#### Artikel 9. Toezicht
+##### Artikel 9. Toezicht
 
 1. Indien het interne recht van hun Staat zulks vereist, geven de betrokken territoriale gemeenschappen of autoriteiten aan de autoriteiten aan het toezicht waarvan zij onderworpen zijn, informatie over de oprichting, wijziging en opheffing van vormen van samenwerking ingevolge artikel 2, tweede lid, waaraan zij deelnemen.
 
@@ -162,7 +187,7 @@ zijn overeengekomen als volgt:
 
 5. Voordat een toezichthoudende autoriteit van een Overeenkomstsluitende Staat maatregelen treft die betrekking hebben op de samenwerking ingevolge artikel 6, informeert zij de bevoegde toezichthoudende instantie van de andere Overeenkomstsluitende Staat om tot onderlinge afstemming te komen, tenzij de maatregel geen uitstel duldt.
 
-#### Artikel 10. Rechtsgang en aanspraken van derden
+##### Artikel 10. Rechtsgang en aanspraken van derden
 
 1. Derden behouden jegens een territoriale gemeenschap of autoriteit ten behoeve waarvan of in naam waarvan een openbaar lichaam of een andere territoriale gemeenschap of autoriteit taken behartigen, alle rechtsvorderingen die hun zouden toekomen indien deze taken niet via grensoverschrijdende samenwerking zouden zijn vervuld. De rechtsgang richt zich naar het recht van de Overeenkomstsluitende Staat van de territoriale gemeenschap of autoriteit wier taak is vervuld.
 
@@ -170,21 +195,21 @@ zijn overeengekomen als volgt:
 
 3. Indien een rechtsvordering overeenkomstig het eerste lid wordt ingesteld tegen een territoriale gemeenschap of autoriteit namens welke een openbaar lichaam heeft gehandeld, dan is het openbaar lichaam tegenover de territoriale gemeenschap of autoriteit verplicht deze te vrijwaren van aansprakelijkheid jegens derden. Indien de rechtsvordering gericht is tegen een territoriale gemeenschap of autoriteit die op basis van een gemeenschappelijke regeling ingevolge artikel 6 heeft gehandeld, geldt voor de onderlinge aansprakelijkheid tussen de twee betrokken territoriale gemeenschappen of autoriteiten het daaromtrent in de gemeenschappelijke regeling bepaalde ingevolge artikel 6, derde lid.
 
-#### Artikel 11. Rechtsgang bij geschillen tussen territoriale gemeenschappen of autoriteiten
+##### Artikel 11. Rechtsgang bij geschillen tussen territoriale gemeenschappen of autoriteiten
 
 1. Bij publiekrechtelijke geschillen tussen territoriale gemeenschappen of autoriteiten, openbare lichamen of gemeenschappelijke organen die naar aanleiding van grensoverschrijdende samenwerking zijn gerezen, wordt de rechtsgang bepaald volgens de regels van de Overeenkomstsluitende Staat waar de zetel van de gedaagde is gevestigd.
 
 2. De betrokken territoriale gemeenschappen of autoriteiten kunnen overeenkomen geschillen voor te leggen aan een scheidsgerecht.
 
-#### Artikel 12. Territoriale reikwijdte
+##### Artikel 12. Territoriale reikwijdte
 
 Wat het Koninkrijk der Nederlanden betreft geldt deze Overeenkomst slechts voor het Rijk in Europa.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 De Overeenkomst treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop de laatste Overeenkomstsluitende Staat de andere Overeenkomstsluitende Staten mededeling doet dat aan de interne vereisten voor inwerkingtreding is voldaan.
 
-#### Artikel 14. Werkingsduur en opzegging
+##### Artikel 14. Werkingsduur en opzegging
 
 1. Deze Overeenkomst wordt aangegegaan voor onbepaalde tijd.
 

@@ -1,34 +1,60 @@
 ---
-title: "Regeling onderwijsaccountantsprotocol OCW BES 2022"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 22 december 2022, nr. 34119112, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO en MBO in Caribisch Nederland (Regeling onderwijsaccountantsprotocol OCW BES 2022)"
 identifier: "BWBR0047842"
-categorie: "Onderwijs"
-publicatiedatum: 2023-02-02
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047842"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2023-02-02"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047842"
+soort: "ministeriele-regeling-BES"
+stam_id: "16664393"
+version_id: "29228292"
+internal_id: "C41526051"
+label_id: "16582244"
+dtd_version: "2.0"
+original_entry_into_force: "2023-02-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047842/2023-02-02/0"
+intitule_bron: "Stcrt.2023-2618"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-12-22"
+intitule_published: "2023-02-01"
+intitule_in_force: "2023-02-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-2618"
+original_signed_date: "2022-12-22"
+original_published_date: "2023-02-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-2618"
+entry_into_force_date: "2023-02-02"
+jci_1_3: "jci1.3:c:BWBR0047842&z=2023-02-02&g=2023-02-02"
+jci_1_0: "1.0:c:BWBR0047842&g=2023-02-02"
+citeertitel_status: "officieel"
+short_title: "Regeling onderwijsaccountantsprotocol OCW BES 2022"
+signed_date: "2022-12-22"
+entry_into_force: "2023-02-02"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 22 december 2022, nr. 34119112, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO en MBO in Caribisch Nederland (Regeling onderwijsaccountantsprotocol OCW BES 2022)
 
 Gelet op [artikel 125, vierde lid, tweede volzin, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=125), de [artikelen 6.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.12), en [6.19, zevende lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.19) en [artikel 5, eerste lid, van het Uitvoeringsbesluit WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029696&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Vaststelling onderwijsaccountantsprotocol OCW BES
+##### Artikel 1. Vaststelling onderwijsaccountantsprotocol OCW BES
 
 Het protocol voor de controle en onderzoek door de accountant over het jaar 2022 wordt vastgesteld overeenkomstig de bijlage bij deze regeling.
 
-#### Artikel 2. Intrekking [Regeling onderwijsaccountantsprotocol BES 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039402)
+##### Artikel 2. Intrekking [Regeling onderwijsaccountantsprotocol BES 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039402)
 
 De [Regeling onderwijsaccountantsprotocol BES 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039402) wordt ingetrokken.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2022.
 
 2. Deze regeling heeft betrekking op het jaar 2022 en vervalt met ingang van 1 januari 2029.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling onderwijsaccountantsprotocol OCW BES 2022.
 

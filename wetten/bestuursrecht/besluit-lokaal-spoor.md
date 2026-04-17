@@ -1,13 +1,39 @@
 ---
-title: "Besluit lokaal spoor"
+title: "Besluit van 23 mei 2014 tot het vaststellen van regels over de aanleg, het beheer, het gebruik en de veiligheid van lokale spoorwegen (Besluit lokaal spoor)"
 identifier: "BWBR0035198"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-11-09
-laatste_update: 2022-11-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035198"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-11-09"
+last_updated: "2022-11-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035198"
+soort: "AMvB"
+stam_id: "12690393"
+version_id: "29024012"
+internal_id: "C41084211"
+label_id: "12660694"
+dtd_version: "2.0"
+original_entry_into_force: "2022-10-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035198/2022-11-09/0"
+intitule_bron: "Stb.2014-204"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-05-23"
+intitule_published: "2014-06-13"
+intitule_in_force: "2013-12-13"
+intitule_status: "goed"
+original_publication: "Stb.2022-439"
+original_signed_date: "2022-10-19"
+original_published_date: "2022-11-08"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2022-439"
+entry_into_force_date: "2022-10-19"
+jci_1_3: "jci1.3:c:BWBR0035198&z=2022-11-09&g=2022-11-09"
+jci_1_0: "1.0:c:BWBR0035198&g=2022-11-09"
+citeertitel_status: "officieel"
+short_title: "Besluit lokaal spoor"
+signed_date: "2022-10-19"
+entry_into_force: "2022-10-19"
 ---
-
 # Besluit van 23 mei 2014 tot het vaststellen van regels over de aanleg, het beheer, het gebruik en de veiligheid van lokale spoorwegen (Besluit lokaal spoor)
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu van 9 december 2013, nr. IenM/BSK-2013/268587, Hoofddirectie Bestuurlijke en Juridische Zaken, gedaan mede namens Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Veiligheid en Justitie;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop de hoofdstukken 2 tot en met 10 van de 
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In dit besluit en daarop berustende bepalingen wordt verstaan onder:
 
 - **wet:** [Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363).
 
-#### Artikel 2
+##### Artikel 2
 
 Elementen die tot lokale spoorweginfrastructuur behoren zijn de bij de lokale spoorweg behorende:
 
@@ -76,7 +102,7 @@ Elementen die tot lokale spoorweginfrastructuur behoren zijn de bij de lokale sp
 
 ### Hoofdstuk 2. Toegankelijkheid
 
-#### Artikel 3
+##### Artikel 3
 
 1. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&artikel=5), [6 eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&artikel=6), en [9 van het Besluit toegankelijkheid van het openbaar vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&artikel=9) zijn van overeenkomstige toepassing op gebouwen of werken als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=14).
 
@@ -96,7 +122,7 @@ Elementen die tot lokale spoorweginfrastructuur behoren zijn de bij de lokale sp
 
 ### Hoofdstuk 3. Verkeersmaatregelen, -regels en -tekens
 
-#### Artikel 4
+##### Artikel 4
 
 De verkeersleiding, bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=24), heeft als taak:
 
@@ -104,7 +130,7 @@ De verkeersleiding, bedoeld in [artikel 24 van de wet](https://wetten.overheid.n
 
 - b. het treffen van verkeersmaatregelen, waaronder het geven van aanwijzingen met betrekking tot een veilig en ongestoord gebruik van de lokale spoorweg bij storingen, calamiteiten en bij werkzaamheden aan, in of nabij de lokale spoorweginfrastructuur.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur plaatsen, de beheerder en de vervoerder gehoord, seinen ten behoeve van het spoorverkeer over de lokale spoorweg indien dit noodzakelijk is om de verkeersveiligheid op de lokale spoorweg te borgen.
 
@@ -134,7 +160,7 @@ De verkeersleiding, bedoeld in [artikel 24 van de wet](https://wetten.overheid.n
 
 - b. ter plaatse bestuurders van lokale spoorvoertuigen vanuit een rijstrook een richting mogen volgen die aan het overige verkeer in die rijstrook niet is toegestaan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onverminderd de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=22) en [23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=23) stellen gedeputeerde staten onderscheidenlijk het dagelijks bestuur per baanvak de toegestane maximumsnelheid vast:
 
@@ -146,11 +172,11 @@ De verkeersleiding, bedoeld in [artikel 24 van de wet](https://wetten.overheid.n
 
 2. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur maken de maximumsnelheid, bedoeld in het eerste lid, bekend aan in ieder geval de betrokken vervoerders, beheerders, verkeersleiding, toezichthouder van de lokale spoorweg en wegbeheerders.
 
-#### Artikel 7
+##### Artikel 7
 
 Gedeputeerde staten onderscheidenlijk het dagelijks bestuur stellen, na het horen van de beheerder en de vervoerder, de voorrangsregels vast die gelden tussen spoorvoertuigen op lokale spoorwegen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur bepalen:
 
@@ -170,7 +196,7 @@ Gedeputeerde staten onderscheidenlijk het dagelijks bestuur stellen, na het hore
 
 4. Indien in een vaarweg ter plaatse van een beweegbare brug de scheepvaart is gestremd, kan in afwijking van hetgeen in of krachtens de vorige leden is bepaald, de beweegbare brug gesloten blijven.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur dragen er zorg voor, dat bij de beweegbare bruggen tekens worden getoond overeenkomstig het bepaalde in de [artikelen 6.25](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.25) en [6.26, vierde en vijfde lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.26), met dien verstande dat het teken, bedoeld in artikel 6.26, onderdeel f, van het Binnenvaartpolitiereglement, alleen wordt gebruikt indien gedeputeerde staten onderscheidenlijk het dagelijks bestuur dat bepalen of goedkeuren.
 
@@ -178,19 +204,19 @@ Gedeputeerde staten onderscheidenlijk het dagelijks bestuur stellen, na het hore
 
 3. [Artikel 6.26 van het Binnenvaartreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.26) is van overeenkomstige toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 Gedeputeerde staten onderscheidenlijk het dagelijks bestuur stellen, na advies van de beheerder en de wegbeheerder, vast bij welke spoorwegovergangen gelegen in voor het openbaar verkeer openstaande wegen, aan beide zijden van de spoorwegovergang aan de rechterzijde van de weg een Andreaskruis volgens model J12 of J13 van [bijlage 1, van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1) wordt geplaatst.
 
 ### Hoofdstuk 4. Personeel
 
-#### Artikel 11
+##### Artikel 11
 
 Als veiligheidsfunctie als bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=36) wordt aangewezen de functie van een beheerder of een vervoerder voor zover die belast is met de verkeersleiding.
 
 ### Hoofdstuk 4a. Specifieke regels met betrekking tot de Hoekse lijn
 
-#### Artikel 12
+##### Artikel 12
 
 1. De jaarlijkse kosten voor het toezicht op de naleving van het bij of krachtens de wet bepaalde dat de toezichthouder uit eigen beweging verricht, bestaan uit een bij ministeriële regeling vastgesteld basistarief, vermeerderd met de kosten die worden berekend op basis van het product van de lengte van de lokale spoorweg in kilometers en het bij ministeriële regeling vastgestelde tarief per kilometer.
 
@@ -200,35 +226,35 @@ Als veiligheidsfunctie als bedoeld in [artikel 36, eerste lid, van de wet](https
 
 #### § 1. Aanpassing en intrekking van andere besluiten
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt het Arbeidstijdenbesluit.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt het Besluit alcoholonderzoeken.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt het Besluit ex artikel 110 van Boek 8 van het Burgerlijk Wetboek.
 
-#### Artikel 16
+##### Artikel 16
 
 Het [Metroreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003454) wordt ingetrokken.
 
 #### § 2. Slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit treedt in werking op het tijdstip waarop de [hoofdstukken 2 tot en met 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2) in werking treden.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit wordt aangehaald als: Besluit lokaal spoor.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 11a
+##### Artikel 11a
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -236,11 +262,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **spoorwegonderneming:** spoorwegonderneming als bedoeld in artikel 3, onderdeel 1, van [richtlijn 2012/34](32012L0034)/EU.
 
-#### Artikel 11b
+##### Artikel 11b
 
 Dit hoofdstuk is uitsluitend van toepassing op de lokale spoorweg die een verbinding vormt tussen de hoofdspoorweg vanaf de RDM-coördinaat, genoemd in onderdeel b van het tiende onderdeel van [bijlage 1, behorende bij het Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=1), en de spooraansluiting Vulcaanhaven te Vlaardingen.
 
-#### Artikel 11c
+##### Artikel 11c
 
 1. Onverminderd [artikel 26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=26) heeft een spoorwegonderneming op niet-discriminerende grondslag recht op toegang tot de lokale spoorweginfrastructuur voor zover dit het gebruik van spoorvoertuigen betreft en met het oog op het minimumtoegangspakket, bedoeld in bijlage II, punt 1, bij [richtlijn 2012/34](32012L0034)/EU.
 
@@ -248,7 +274,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de lokale spoorweg die een verbin
 
 3. De spoorwegonderneming die voornemens is capaciteit aan te vragen met het oog op het exploiteren van een passagiersvervoerdienst maakt daarvan uiterlijk achttien maanden voor aanvang van de geldigheidsperiode van de dienstregeling melding aan de Autoriteit Consument en Markt en de beheerder. De [artikelen 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=19a), [19b](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=19b) en [19c van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=19c) zijn van overeenkomstige toepassing op de toegang tot de lokale spoorweginfrastructuur met het oog op de exploitatie van passagiersvervoer per trein.
 
-#### Artikel 11d
+##### Artikel 11d
 
 1. In afwijking van [artikel 12, aanhef en onderdeel a, van het Besluit implementatie richtlijn 2012/34/EU tot instelling van één Europese spoorwegruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&artikel=12) zijn de [artikelen 13 tot en met 17 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037315&artikel=13) van toepassing op de lokale spoorweg.
 
@@ -256,7 +282,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de lokale spoorweg die een verbin
 
 3. Een spoorwegonderneming kan bij de Autoriteit Consument en Markt schriftelijk een aanvraag indienen om te onderzoeken of door een beheerder of exploitant van een dienstvoorziening jegens die onderneming sprake is van onterechte weigering van toegang tot een dienstvoorziening. [Artikel 71, tweede tot en met vierde lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=71) is van overeenkomstige toepassing.
 
-#### Artikel 11e
+##### Artikel 11e
 
 1. In afwijking van [artikel 42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=42) is de Autoriteit Consument en Markt belast met het toezicht op de naleving van de [artikelen 11c](https://wetten.overheid.nl/jci1.3:c:BWBR0035198&hoofdstuk=4a&artikel=11c&z=2022-11-09&g=2022-11-09) en [11d](https://wetten.overheid.nl/jci1.3:c:BWBR0035198&hoofdstuk=4a&artikel=11d&z=2022-11-09&g=2022-11-09).
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit gegevensverwerking door samenwerkingsverbanden"
+title: "Besluit van 29 november 2024 tot uitvoering van de Wet gegevensverwerking door samenwerkingsverbanden (Besluit gegevensverwerking door samenwerkingsverbanden) en tot vaststelling van het tijdstip van inwerkingtreding van die wet en van de Wet van 26 juni 2024 tot wijziging van de Wet gegevensverwerking door samenwerkingsverbanden in verband met het waarborgen van de parlementaire betrokkenheid bij de aanwijzing van andere samenwerkingsverbanden (Stb. 2024, 254)"
 identifier: "BWBR0050665"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2025-03-01
-laatste_update: 2025-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050665"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-03-01"
+last_updated: "2025-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050665"
+soort: "AMvB"
+stam_id: "17338263"
+version_id: "30554942"
+internal_id: "C43805771"
+label_id: "17242734"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050665/2025-03-01/0"
+intitule_bron: "Stb.2024-380"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-29"
+intitule_published: "2024-12-04"
+intitule_in_force: "2024-12-04"
+intitule_status: "goed"
+original_publication: "Stb.2024-380"
+original_signed_date: "2024-11-29"
+original_published_date: "2024-12-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2024-380"
+entry_into_force_date: "2025-03-01"
+jci_1_3: "jci1.3:c:BWBR0050665&z=2025-03-01&g=2025-03-01"
+jci_1_0: "1.0:c:BWBR0050665&g=2025-03-01"
+citeertitel_status: "officieel"
+short_title: "Besluit gegevensverwerking door samenwerkingsverbanden"
+signed_date: "2024-11-29"
+entry_into_force: "2025-03-01"
 ---
-
 # Besluit van 29 november 2024 tot uitvoering van de Wet gegevensverwerking door samenwerkingsverbanden (Besluit gegevensverwerking door samenwerkingsverbanden) en tot vaststelling van het tijdstip van inwerkingtreding van die wet en van de Wet van 26 juni 2024 tot wijziging van de Wet gegevensverwerking door samenwerkingsverbanden in verband met het waarborgen van de parlementaire betrokkenheid bij de aanwijzing van andere samenwerkingsverbanden (Stb. 2024, 254)
 
 Op de voordracht van Onze Minister van Justitie en Veiligheid van 13 juni 2024, directie Wetgeving en Juridische Zaken, nr. 5546793;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Aanwijzing contactpunt
+##### Artikel 1.1. Aanwijzing contactpunt
 
 1. De betrokkene richt een verzoek tot uitoefening van diens rechten op grond van hoofdstuk III van de Algemene verordening gegevensbescherming aan het contactpunt, voor zover dat verzoek betrekking heeft op persoonsgegevens die door het samenwerkingsverband worden verwerkt. Een verzoek aan het contactpunt geldt als een verzoek aan alle gezamenlijke verwerkingsverantwoordelijken in het samenwerkingsverband.
 
@@ -40,7 +66,7 @@ Hebben goedgevonden en verstaan:
 
 4. In dit besluit wordt onder «wet» verstaan: [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962).
 
-#### Artikel 1.2. Verantwoordelijkheid voor nakoming verzoeken AVG
+##### Artikel 1.2. Verantwoordelijkheid voor nakoming verzoeken AVG
 
 1. Het contactpunt besluit namens de deelnemers aan het samenwerkingsverband op een verzoek van een betrokkene tot uitoefening van diens rechten op grond van hoofdstuk III van de Algemene verordening gegevensbescherming voor zover dat verzoek betrekking heeft op persoonsgegevens die door het samenwerkingsverband worden verwerkt.
 
@@ -50,7 +76,7 @@ Hebben goedgevonden en verstaan:
 
 4. Een andere deelnemende overheidsinstantie of ander deelnemend overheidsorgaan kan met het contactpunt overeenkomen om het besluit te nemen indien die andere deelnemer daartoe beter in staat is. In dat geval informeert het contactpunt de betrokkene hierover. Het eerste tot en met het derde lid zijn van overeenkomstige toepassing op de andere deelnemer die het besluit neemt.
 
-#### Artikel 1.3. Verantwoordelijkheid voor nakoming informatieplicht
+##### Artikel 1.3. Verantwoordelijkheid voor nakoming informatieplicht
 
 1. Het contactpunt draagt namens de deelnemers aan het samenwerkingsverband zorg voor de nakoming van de verplichting om de informatie te verstrekken, bedoeld in artikel 14 van de Algemene verordening gegevensbescherming, inzake de verwerking van persoonsgegevens door het samenwerkingsverband.
 
@@ -58,39 +84,39 @@ Hebben goedgevonden en verstaan:
 
 3. Zodra de uitzonderingsgrond naar het oordeel van de betreffende deelnemer niet langer van toepassing is, meldt de deelnemer dit zo spoedig mogelijk aan het contactpunt.
 
-#### Artikel 1.4. Verantwoordelijkheid voor nakoming meldplicht datalekken
+##### Artikel 1.4. Verantwoordelijkheid voor nakoming meldplicht datalekken
 
 1. Het contactpunt draagt namens de deelnemers aan het samenwerkingsverband zorg voor de nakoming van de artikelen 33 en 34 van de Algemene verordening gegevensbescherming met betrekking tot de verwerking van persoonsgegevens door het samenwerkingsverband, mits de deelnemers aan het contactpunt zo spoedig mogelijk de informatie verstrekken die het contactpunt nodig heeft voor de uitvoering van de voornoemde artikelen.
 
 2. Het contactpunt overlegt met de deelnemers die betrokken waren of zijn bij de verwerking van de persoonsgegevens en laat de uitvoering van artikel 34 van de Algemene verordening gegevensbescherming achterwege indien naar het oordeel van één of meer van die deelnemers een uitzonderingsgrond van toepassing is op grond van [artikel 41 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=41).
 
-#### Artikel 1.5. Rechtmatig verwerkte gegevens
+##### Artikel 1.5. Rechtmatig verwerkte gegevens
 
 De deelnemers verstrekken uitsluitend gegevens die zij rechtmatig verwerken aan het samenwerkingsverband.
 
-#### Artikel 1.6. Kwaliteit van een aangemeld signaal, verzoek of casus
+##### Artikel 1.6. Kwaliteit van een aangemeld signaal, verzoek of casus
 
 1. Een deelnemer mag uitsluitend een signaal, verzoek of casus aanmelden bij het samenwerkingsverband na, voor zover mogelijk, de feitelijke juistheid en de kwaliteit van de daarbij te verstrekken gegevens te hebben getoetst.
 
 2. De deelnemer die een signaal, verzoek of casus heeft aangemeld bij het samenwerkingsverband blijft verantwoordelijk voor de feitelijke juistheid van de daarbij verstrekte gegevens.
 
-#### Artikel 1.7. Correctie van onjuistheden tijdens gezamenlijke gegevensverwerking
+##### Artikel 1.7. Correctie van onjuistheden tijdens gezamenlijke gegevensverwerking
 
 1. Mocht tijdens de verwerking van gegevens door het samenwerkingsverband blijken dat gegevens onjuist zijn, dan wordt de deelnemer die deze aan het samenwerkingsverband heeft verstrekt daarop gewezen en draagt deze deelnemer zorg dat alle redelijke maatregelen worden genomen om de gegevens onverwijld te vernietigen of rectificeren.
 
 2. De deelnemer die de onjuiste gegevens heeft verstrekt aan het samenwerkingsverband doet, indien van toepassing, een melding aan de organisatie waarvan de gegevens afkomstig zijn, opdat ook in de gegevensbestanden van die organisatie kan worden gecontroleerd of de gegevens juist zijn geregistreerd en deze na validatie kunnen worden gecorrigeerd.
 
-#### Artikel 1.8. Kwaliteit van de resultaten
+##### Artikel 1.8. Kwaliteit van de resultaten
 
 1. Een samenwerkingsverband verstrekt uitsluitend het resultaat van de gezamenlijke gegevensverwerking aan een deelnemer of derde overeenkomstig [artikel 1.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=1.7), na, voor zover mogelijk, de feitelijke juistheid en de kwaliteit van de daarbij te verstrekken gegevens te hebben getoetst.
 
 2. Voor zover mogelijk vermeldt het samenwerkingsverband bij de verstrekking van een resultaat dat bestaat uit sturingsinformatie of een interventieadvies, op basis van welke informatie het resultaat tot stand is gekomen, tenzij het resultaat is gebaseerd op een casusoverleg of signalenoverleg.
 
-#### Artikel 1.9. Nationaliteit
+##### Artikel 1.9. Nationaliteit
 
 De samenwerkingsverbanden verwerken geen persoonsgegevens inzake nationaliteit, tenzij de verwerking geschiedt met het oog op de identificatie van de betrokkene, en slechts voor zover de verwerking voor dat doel onvermijdelijk is.
 
-#### Artikel 1.10. Nadere inkadering van gegevensuitwisseling tussen samenwerkingsverbanden
+##### Artikel 1.10. Nadere inkadering van gegevensuitwisseling tussen samenwerkingsverbanden
 
 1. De bevoegdheid tot verstrekking van de resultaten aan een ander samenwerkingsverband, bedoeld in [artikel 1.7, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=1.7), kan uitsluitend op de navolgende wijzen worden toegepast:
 
@@ -116,7 +142,7 @@ De samenwerkingsverbanden verwerken geen persoonsgegevens inzake nationaliteit, 
 
 3. Bij de toepassing van het eerste lid worden geen gegevens van de rijksbelastingdienst, met uitzondering van de Fiscale Inlichtingen- en Opsporingsdienst, verstrekt aan een private deelnemer van een samenwerkingsverband voor de behartiging van diens gerechtvaardigde belangen.
 
-#### Artikel 1.11. Betrouwbaarheid geautoriseerde personen
+##### Artikel 1.11. Betrouwbaarheid geautoriseerde personen
 
 1. Personen die zijn aangewezen ten behoeve van de inzet in het samenwerkingsverband worden uitsluitend geautoriseerd voor de toegang tot de systemen waarin de deelnemers gezamenlijk persoonsgegevens verwerken overeenkomstig [artikel 1.8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=1.8), indien zij ten minste:
 
@@ -126,11 +152,11 @@ De samenwerkingsverbanden verwerken geen persoonsgegevens inzake nationaliteit, 
 
 2. In afwijking van het eerste lid worden personen die zijn aangewezen ten behoeve van de inzet in de Infobox Crimineel en Onverklaarbaar Vermogen uitsluitend geautoriseerd indien zij zijn gescreend op basis van de eisen die gelden voor het hoogste rubriceringsniveau dat van toepassing is op de gegevens die de deelnemers verwerken.
 
-#### Artikel 1.12. Logging
+##### Artikel 1.12. Logging
 
 De vastlegging langs elektronische weg (logging) van verwerkingen van persoonsgegevens in de systemen van het samenwerkingsverband, bedoeld in [artikel 1.8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=1.8), geschiedt overeenkomstig de door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgestelde richtlijnen voor informatiebeveiliging.
 
-#### Artikel 1.13. Werkwijze van de rechtmatigheidsadviescommissie
+##### Artikel 1.13. Werkwijze van de rechtmatigheidsadviescommissie
 
 1. De rechtmatigheidsadviescommissie van een samenwerkingsverband kan ter uitoefening van haar taak, bedoeld in [artikel 1.8, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=1.8), adviseren op verzoek van de deelnemers of op eigen initiatief. De deelnemers zorgen ervoor dat de rechtmatigheidsadviescommissie daartoe naar behoren vooraf wordt betrokken bij in ieder geval nieuwe verwerkingswijzen en wijzigingen daarvan.
 
@@ -144,7 +170,7 @@ De vastlegging langs elektronische weg (logging) van verwerkingen van persoonsge
 
 6. Afwijking van een advies van de rechtmatigheidsadviescommissie door de bestuurders, bedoeld in het tweede lid, kan uitsluitend beargumenteerd plaatsvinden. De afwijking wordt door de deelnemers gedocumenteerd en gerapporteerd aan de rechtmatigheidsadviescommissie en de coördinerend functionaris voor gegevensbescherming voor het samenwerkingsverband, bedoeld in [artikel 1.4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=1.4).
 
-#### Artikel 1.14. Samenstelling van de rechtmatigheidsadviescommissie
+##### Artikel 1.14. Samenstelling van de rechtmatigheidsadviescommissie
 
 1. Elke deelnemer benoemt een of enkele personen als lid van de rechtmatigheidsadviescommissie, op basis van deskundigheid en ervaring op het gebied van de toepasselijke wetgeving inzake gegevensverwerking en de werking van het samenwerkingsverband.
 
@@ -156,13 +182,13 @@ De vastlegging langs elektronische weg (logging) van verwerkingen van persoonsge
 
 5. De rechtmatigheidsadviescommissie kiest uit haar midden een voorzitter en een plaatsvervangend voorzitter.
 
-#### Artikel 1.15. Rechtmatigheidsadviescommissie voor cluster van samenwerkingsverbanden
+##### Artikel 1.15. Rechtmatigheidsadviescommissie voor cluster van samenwerkingsverbanden
 
 1. Zowel de Regionale Informatie- en Expertisecentra als de Zorg- en Veiligheidshuizen beschikken over één gezamenlijke rechtmatigheidsadviescommissie, die optreedt ten behoeve van het betreffende cluster van samenwerkingsverbanden.
 
 2. De lokale en regionale deelnemers worden vertegenwoordigd door personen uit koepelorganisaties of brancheverenigingen, die deelnemen als lid van de gezamenlijke rechtmatigheidsadviescommissie, op basis van de deskundigheid en ervaring, bedoeld in [artikel 1.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050665&hoofdstuk=1&artikel=1.14&z=2025-03-01&g=2025-03-01).
 
-#### Artikel 1.16. Precisering maximale bewaartermijn
+##### Artikel 1.16. Precisering maximale bewaartermijn
 
 1. Onverminderd [artikel 1.8, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=1.8) dragen de deelnemers zorg voor de vernietiging of anonimisering van persoonsgegevens die door het samenwerkingsverband gezamenlijk worden verwerkt in het geval dat:
 
@@ -178,7 +204,7 @@ De vastlegging langs elektronische weg (logging) van verwerkingen van persoonsge
 
 3. Bij toepassing van het tweede lid is de bewaartermijn voor gegevens die ter beschikking zijn gesteld voor hernieuwde verwerking maximaal twee jaar gerekend vanaf de hernieuwde beschikbaarstelling. Indien daarna nog steeds sprake is van een bijzonder geval als bedoeld in het tweede lid, onderdeel a of b, kan het tweede lid opnieuw toepassing vinden.
 
-#### Artikel 1.17. Opleiding en training ten aanzien van gegevensverwerking
+##### Artikel 1.17. Opleiding en training ten aanzien van gegevensverwerking
 
 De deelnemers aan een samenwerkingsverband dragen er zorg voor dat de medewerkers die zij hebben aangewezen voor de inzet in het samenwerkingsverband, voor zover relevant voor hun functie, en de leden van de rechtmatigheidsadviescommissie passende opleidingen en trainingen krijgen ter bevordering van hun kennis en vaardigheden op het gebied van:
 
@@ -194,7 +220,7 @@ De deelnemers aan een samenwerkingsverband dragen er zorg voor dat de medewerker
 
 - f. data-ethiek.
 
-#### Artikel 1.18. Uitwerking auditbepaling
+##### Artikel 1.18. Uitwerking auditbepaling
 
 1. Twee jaren na inwerkingtreding van de artikelen in de wet en dit besluit inzake het betreffende samenwerkingsverband, en vervolgens eenmaal in de vier jaren, laat het samenwerkingsverband de naleving van de wettelijke regels, bedoeld in [artikel 1.10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=1.10), controleren door middel van een audit overeenkomstig artikel 1.10 van de wet.
 
@@ -210,7 +236,7 @@ De deelnemers aan een samenwerkingsverband dragen er zorg voor dat de medewerker
 
 #### Paragraaf 2.1. Financieel Expertisecentrum (FEC)
 
-#### Artikel 2.1. Aanvullende deelnemers Programma Terrorismefinanciering
+##### Artikel 2.1. Aanvullende deelnemers Programma Terrorismefinanciering
 
 Voor zover in het Financieel Expertisecentrum als onderdeel van zijn doelstelling gezamenlijk gegevens worden verwerkt ten behoeve van het programma voor het tegengaan en bestrijden van terrorismefinanciering worden, in aanvulling op [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.3), als deelnemers van het Financieel Expertisecentrum aangewezen:
 
@@ -228,7 +254,7 @@ Voor zover in het Financieel Expertisecentrum als onderdeel van zijn doelstellin
 
 - g. de Algemene Inlichtingen- en Veiligheidsdienst, voor de uitvoering van de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896), met dien verstande dat uitsluitend gegevens aan het Financieel Expertisecentrum worden verstrekt voor zover dat noodzakelijk is voor het duiden van bepaalde financieringsstromen en het verstrekken van gegevens over een bredere internationale context.
 
-#### Artikel 2.2. Deelnemers aan publiek-private samenwerking
+##### Artikel 2.2. Deelnemers aan publiek-private samenwerking
 
 Voor zover in het Financieel Expertisecentrum gezamenlijk gegevens worden verwerkt in publiek-private taskforces ten behoeve van het voorkomen en bestrijden van het gebruik van het financiële stelsel voor terrorismefinanciering, financieel-economische criminaliteit en andere ernstige vormen van criminaliteit, nemen uitsluitend deel:
 
@@ -236,13 +262,13 @@ Voor zover in het Financieel Expertisecentrum gezamenlijk gegevens worden verwer
 
 - b. ABN Amro Bank, Aegon, ING Bank, KNAB, Rabobank, Triodos en Volksbank, voor de uitvoering van hun verplichtingen op grond van de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) en voor de voornoemde doeleinden van de publiek-private taskforces.
 
-#### Artikel 2.3. Beperking gegevensverwerking over kring van personen
+##### Artikel 2.3. Beperking gegevensverwerking over kring van personen
 
 1. Voor zover in het Financieel Expertisecentrum gezamenlijk gegevens worden verwerkt voor het programma ter bestrijding van terrorismefinanciering of in publiek-private taskforces ten behoeve van het voorkomen en bestrijden van het gebruik van het financiële stelsel voor terrorismefinanciering, financieel-economische criminaliteit en andere ernstige vormen van criminaliteit, verwerken de deelnemers in het kader van dat programma of die taskforces, gegevens over een relatie of een contact als bedoeld in [artikel 2.4, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.4), tot maximaal drie directe lijnen vanaf de betrokken rechtspersoon of natuurlijke persoon.
 
 2. Tot een ruimere verwerking van gegevens over relaties of contacten kan worden overgegaan, voor zover sprake is van een keten van vermogensverschaffers, leidinggevenden, zeggenschaphebbenden of van personen die in een zakelijk samenwerkingsverband staan tot de betrokken rechtspersoon of natuurlijke persoon, en wordt gemotiveerd waarom de gegevens noodzakelijk zijn voor het doel, bedoeld in [artikel 2.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.2).
 
-#### Artikel 2.4. Criteria voor behandeling van een signaal of verzoek
+##### Artikel 2.4. Criteria voor behandeling van een signaal of verzoek
 
 1. Een signaal of verzoek van een deelnemer kan in het Financieel Expertisecentrum uitsluitend aanleiding vormen tot het signalenoverleg, bedoeld in [artikel 2.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.6), onderscheidenlijk een gegevensanalyse, bedoeld in [artikel 2.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.7), indien:
 
@@ -268,7 +294,7 @@ Voor zover in het Financieel Expertisecentrum gezamenlijk gegevens worden verwer
 
 3. Voor de toepassing van het eerste lid, onderdeel a, onder 2°, wordt onder «andere ernstige vormen van criminaliteit» dan financieel-economische criminaliteit en terrorismefinanciering verstaan: misdrijven die een ernstige inbreuk op de rechtsorde opleveren als bedoeld in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903), voor zover die tevens de integriteit van het financiële stelsel raken.
 
-#### Artikel 2.5. Nadere waarborgen signalenoverleg en gegevensanalyse
+##### Artikel 2.5. Nadere waarborgen signalenoverleg en gegevensanalyse
 
 Bij het signalenoverleg, bedoeld in [artikel 2.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.6), en de gegevensanalyse op grond van [artikel 2.7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.7), gelden de volgende aanvullende waarborgen:
 
@@ -282,7 +308,7 @@ Bij het signalenoverleg, bedoeld in [artikel 2.6, eerste lid, van de wet](https:
 
 #### Paragraaf 2.2. Infobox Crimineel en Onverklaarbaar Vermogen (iCOV)
 
-#### Artikel 2.6. Aanvullende deelnemers
+##### Artikel 2.6. Aanvullende deelnemers
 
 In aanvulling op [artikel 2.11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.11) worden als deelnemers aan de Infobox Crimineel en Onverklaarbaar Vermogen aangewezen:
 
@@ -290,13 +316,13 @@ In aanvulling op [artikel 2.11, eerste lid, van de wet](https://wetten.overheid.
 
 - b. de Koninklijke marechaussee, voor de uitoefening van de wettelijke taken en bevoegdheden bij of krachtens [artikel 4 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4).
 
-#### Artikel 2.7. Beperking gegevensverwerking over kring van personen
+##### Artikel 2.7. Beperking gegevensverwerking over kring van personen
 
 1. Ten behoeve van de rapportage over de financieel-zakelijke relaties rondom natuurlijke of rechtspersonen (iRR), bedoeld in [artikel 2.13, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.13), verwerken de deelnemers gegevens over relaties of contacten als bedoeld in [artikel 2.12, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.12), in een rapportage tot drie directe lijnen vanaf de natuurlijke persoon of rechtspersoon waarop het verzoek betrekking heeft.
 
 2. Tot een ruimere verwerking van gegevens over relaties of contacten kan worden overgegaan, voor zover sprake is van een keten van vermogensverschaffers, leidinggevenden, zeggenschaphebbenden of van personen die in een zakelijk samenwerkingsverband staan tot de betrokken natuurlijke persoon of rechtspersoon, en wordt gemotiveerd waarom de gegevens noodzakelijk zijn voor het doel, bedoeld in [artikel 2.10, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.10).
 
-#### Artikel 2.8. Criteria voor een rapportage over vermogen en inkomsten of financieel-zakelijke relaties
+##### Artikel 2.8. Criteria voor een rapportage over vermogen en inkomsten of financieel-zakelijke relaties
 
 1. Een verzoek van een deelnemer om een rapportage over vermogen en inkomsten of over financieel-zakelijke relaties, bedoeld in [artikel 2.13, onder a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.13), wordt uitsluitend in behandeling genomen indien:
 
@@ -324,7 +350,7 @@ In aanvulling op [artikel 2.11, eerste lid, van de wet](https://wetten.overheid.
 
 2. De deelnemer die het verzoek aanmeldt, draagt er zorg voor dat daarin is toegelicht in hoeverre is voldaan aan de criteria, bedoeld in het eerste lid. De deelnemers registreren een verzoek om een rapportage in het systeem waarin zij gezamenlijk gegevens verwerken, met daarbij de vermelding of is voldaan aan de criteria voor het in behandeling nemen van dat verzoek.
 
-#### Artikel 2.9. Vaststelling van thema voor een themarapportage
+##### Artikel 2.9. Vaststelling van thema voor een themarapportage
 
 1. Een themarapportage, bedoeld in [artikel 2.13, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.13) wordt uitsluitend verstrekt over een thema dat door de deelnemers is vastgesteld, is gepubliceerd op de website van het samenwerkingsverband en betrekking heeft op het blootleggen van het op onrechtmatige wijze behalen van financieel gewin door middel van een misdrijf of overtreding als bedoeld in [artikel 2.8, eerste lid, onder a, onderdelen 1° tot en met 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0050665&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2025-03-01&g=2025-03-01), bestaande uit:
 
@@ -344,7 +370,7 @@ In aanvulling op [artikel 2.11, eerste lid, van de wet](https://wetten.overheid.
 
 - d. de voorwaarden waaronder de resultaten worden opgenomen in de rapportage en waarbij sprake is van een verhoogd risico als bedoeld in [artikel 1.9, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=1.9).
 
-#### Artikel 2.10. Vaststelling van indicatoren voor een themarapportage
+##### Artikel 2.10. Vaststelling van indicatoren voor een themarapportage
 
 Bij het opstellen van een themarapportage, bedoeld in [artikel 2.13, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.13) hanteren de deelnemers uitsluitend door hen vooraf vastgestelde indicatoren voor het betreffende thema, die:
 
@@ -354,7 +380,7 @@ Bij het opstellen van een themarapportage, bedoeld in [artikel 2.13, onder c, va
 
 - c. objectief en nauwkeurig zijn en zijn gecontroleerd op geldigheid en juistheid, rekening houdend met vertekening, navolgbaarheid, betrouwbaarheid en representativiteit van de gegevens.
 
-#### Artikel 2.11. Criteria voor behandeling van een verzoek om een themarapportage
+##### Artikel 2.11. Criteria voor behandeling van een verzoek om een themarapportage
 
 1. Een verzoek van een deelnemer of meerdere deelnemers om een themarapportage, bedoeld in [artikel 2.13, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.13), wordt uitsluitend in behandeling genomen indien het verzoek de volgende informatie bevat:
 
@@ -370,7 +396,7 @@ Bij het opstellen van een themarapportage, bedoeld in [artikel 2.13, onder c, va
 
 3. De deelnemers registreren een verzoek om een rapportage in het systeem waarin zij gezamenlijk gegevens verwerken, met daarbij de vermelding of is voldaan aan de criteria voor het in behandeling nemen van dat verzoek.
 
-#### Artikel 2.12. Uitvoering van de gegevensanalyse voor een themarapportage
+##### Artikel 2.12. Uitvoering van de gegevensanalyse voor een themarapportage
 
 1. De themarapportage (iRT NN), bedoeld in [artikel 2.13, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.13), wordt opgesteld op basis van een geautomatiseerde gegevensanalyse waarbij door de deelnemers verstrekte gegevens worden geanalyseerd aan de hand van de vooraf vastgestelde gevalideerde indicatoren, bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0050665&hoofdstuk=2&paragraaf=2.2&artikel=2.10&z=2025-03-01&g=2025-03-01). Hiertoe kunnen de gegevens worden samengevoegd, opgeteld en gegroepeerd.
 
@@ -392,15 +418,15 @@ Bij het opstellen van een themarapportage, bedoeld in [artikel 2.13, onder c, va
 
 #### Paragraaf 2.3. Regionale Informatie- en Expertisecentra (RIEC’s)
 
-#### Artikel 2.13. Territoriale werkgebieden
+##### Artikel 2.13. Territoriale werkgebieden
 
 De Regionale Informatie- en Expertisecentra dragen er zorg voor dat hun territoriale werkgebieden worden bekendgemaakt door plaatsing op internet.
 
-#### Artikel 2.14. Nadere regels over wettelijke taken en bevoegdheden van deelnemers
+##### Artikel 2.14. Nadere regels over wettelijke taken en bevoegdheden van deelnemers
 
 De Nederlandse Voedsel- en Warenautoriteit neemt in aanvulling op de wettelijke taken, genoemd in [artikel 2.19, eerste lid, onder l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.19), tevens deel voor de uitvoering van de wettelijke taken en bevoegdheden waar haar toezicht en bestuursrechtelijke handhaving zich bij of krachtens de wet over uitstrekt, alsmede voor de opsporing van strafbare feiten krachtens [artikel 142 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) voor zover buitengewoon opsporingsambtenaren van deze autoriteit hiermee belast zijn.
 
-#### Artikel 2.15. Concretisering van te verstrekken gegevens
+##### Artikel 2.15. Concretisering van te verstrekken gegevens
 
 De op grond van [artikel 2.22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.22) te verstrekken categorieën gegevens, genoemd in de eerste kolom, hebben uitsluitend betrekking op de gegevens, genoemd in de tweede kolom, mits de gegevens met het oog op het doel van het Regionale Informatie- en Expertisecentrum toereikend, ter zake dienend en niet bovenmatig zijn.
 
@@ -426,7 +452,7 @@ De op grond van [artikel 2.22, eerste lid, van de wet](https://wetten.overheid.n
 | **Tijdens de derde fase van gegevensverwerking, bedoeld in artikel 2.23, zesde lid, onder c, van de wet** | **Tijdens de derde fase van gegevensverwerking, bedoeld in artikel 2.23, zesde lid, onder c, van de wet** |
 | politiegegevens in de zin van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9) en [10, eerste lid, onderdelen a en c, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) | politiegegevens in de zin van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9) en [10, eerste lid, onderdelen a en c, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) |
 
-#### Artikel 2.16. Criteria voor behandeling van een signaal
+##### Artikel 2.16. Criteria voor behandeling van een signaal
 
 1. Onverminderd de criteria, bedoeld in [artikel 2.23, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.23), kan een signaal van een deelnemer uitsluitend aanleiding vormen tot gezamenlijke gegevensverwerking in het Regionaal Informatie- en Expertisecentrum indien:
 
@@ -456,21 +482,21 @@ De op grond van [artikel 2.22, eerste lid, van de wet](https://wetten.overheid.n
 
 #### Paragraaf 2.4. Zorg- en Veiligheidshuizen (ZVH)
 
-#### Artikel 2.17. Definitiebepaling
+##### Artikel 2.17. Definitiebepaling
 
 In deze paragraaf wordt verstaan onder:
 
 plan van aanpak: plan dat invulling geeft aan de gezamenlijke strategie, bedoeld in [artikel 2.26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.26), voor de uitoefening van de wettelijke taken en bevoegdheden waarmee de deelnemers zijn belast alsmede daaraan gerelateerde noodzakelijke werkzaamheden die worden verricht door de deelnemers.
 
-#### Artikel 2.18. Territoriale werkgebieden
+##### Artikel 2.18. Territoriale werkgebieden
 
 De Zorg- en Veiligheidshuizen dragen er zorg voor dat hun territoriale werkgebieden worden bekendgemaakt door plaatsing op internet.
 
-#### Artikel 2.19. Beperking gegevensverstrekking over kring van personen
+##### Artikel 2.19. Beperking gegevensverstrekking over kring van personen
 
 Op grond van [artikel 2.30, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.30) worden uitsluitend gegevens verstrekt over personen die een gezinslid of ander direct sociaal contact zijn van een betrokkene die is aangemeld op grond van [artikel 2.31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.31).
 
-#### Artikel 2.20. Criteria voor behandeling van een casus
+##### Artikel 2.20. Criteria voor behandeling van een casus
 
 1. Een casus die wordt aangemeld op grond van [artikel 2.31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.31) is in overeenstemming met het doel, bedoeld in [artikel 2.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.25), indien er sprake is van problemen:
 
@@ -492,7 +518,7 @@ Op grond van [artikel 2.30, eerste lid, onder b, van de wet](https://wetten.over
 
 3. De deelnemer die de casus aanmeldt, draagt er zorg voor dat uit de aanmelding blijkt in hoeverre is voldaan aan de criteria, bedoeld in het eerste lid. De deelnemers registreren in het systeem waarin zij gezamenlijk gegevens verwerken of naar hun oordeel is voldaan aan de criteria voor het in behandeling nemen van een casus.
 
-#### Artikel 2.21. Nadere criteria voor incidentele deelname aan Zorg- en Veiligheidshuis
+##### Artikel 2.21. Nadere criteria voor incidentele deelname aan Zorg- en Veiligheidshuis
 
 1. De deelnemers, bedoeld in [artikel 2.27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.27), kunnen op grond van [artikel 2.31, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.31), derden op incidentele basis laten deelnemen aan het casusoverleg van een Zorg- en Veiligheidshuis indien zij over deskundigheid beschikken die noodzakelijk is bij de aanpak van een specifieke casus en zij gelet op hun onderscheidenlijke wettelijke of publieke taken en bevoegdheden een rol kunnen vervullen bij het opstellen, uitvoeren of evalueren van het plan van aanpak.
 
@@ -500,7 +526,7 @@ Op grond van [artikel 2.30, eerste lid, onder b, van de wet](https://wetten.over
 
 3. Een derde wordt niet geautoriseerd voor de toegang tot de systemen waarin de deelnemers gezamenlijk persoonsgegevens verwerken. De deelnemers, bedoeld in [artikel 2.27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.27) kunnen aan de derde persoonsgegevens verstrekken voor zover dat naar hun oordeel noodzakelijk is om de derde in staat te stellen om zijn rol te vervullen.
 
-#### Artikel 2.22. Objectieve criteria voor plaatsing op een lijst van geprioriteerde casussen
+##### Artikel 2.22. Objectieve criteria voor plaatsing op een lijst van geprioriteerde casussen
 
 Plaatsing van een betrokkene op de lijst met geprioriteerde casussen, bedoeld in [artikel 2.32, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.32), is slechts mogelijk indien:
 
@@ -512,13 +538,13 @@ Plaatsing van een betrokkene op de lijst met geprioriteerde casussen, bedoeld in
 
 ### Hoofdstuk 3. Wijziging van andere besluiten
 
-#### Artikel 3.1. Wijziging Besluit politiegegevens
+##### Artikel 3.1. Wijziging Besluit politiegegevens
 
 Wijzigt het Besluit politiegegevens.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 4.1. Inwerkingtreding
+##### Artikel 4.1. Inwerkingtreding
 
 Met ingang van 1 maart 2025 treden in werking:
 
@@ -528,7 +554,7 @@ Met ingang van 1 maart 2025 treden in werking:
 
 - c. De Wet van 26 juni 2024 tot wijziging van de [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962) in verband met het waarborgen van de parlementaire betrokkenheid bij de aanwijzing van andere samenwerkingsverbanden (Stb. 2024, 254).
 
-#### Artikel 4.2. Citeertitel
+##### Artikel 4.2. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit gegevensverwerking door samenwerkingsverbanden.
 

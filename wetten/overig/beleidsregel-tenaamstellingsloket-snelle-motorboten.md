@@ -1,20 +1,42 @@
 ---
 title: "Beleidsregel tenaamstellingsloket snelle motorboten"
 identifier: "BWBR0040998"
-categorie: "Overig"
-publicatiedatum: 2018-06-10
-laatste_update: 2018-06-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040998"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-06-10"
+last_updated: "2018-06-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040998"
+soort: "zbo"
+stam_id: "14631613"
+version_id: "25054752"
+internal_id: "C35831211"
+label_id: "14584564"
+dtd_version: "2.0"
+original_entry_into_force: "2018-06-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040998/2018-06-10/0"
+intitule_bron: "Stcrt.2018-31389"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-06-08"
+intitule_in_force: "2018-06-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-31389"
+original_published_date: "2018-06-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-31389"
+entry_into_force_date: "2018-06-10"
+jci_1_3: "jci1.3:c:BWBR0040998&z=2018-06-10&g=2018-06-10"
+jci_1_0: "1.0:c:BWBR0040998&g=2018-06-10"
+citeertitel_status: "officieel"
+entry_into_force: "2018-06-10"
 ---
-
 # Beleidsregel tenaamstellingsloket snelle motorboten
 
 Gelet op [artikel 8.01, eerste lid, Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.01) en de [Regeling registratie snelle motorboten 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008666), alsmede [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De begripsbepalingen van het [Binnenvaartpolitiereglement](onbekend) zijn onverkort van toepassing.
 
@@ -26,7 +48,7 @@ Voorts wordt verstaan onder:
 
 - **verzoeker:** de rechtspersoon die in het kader van deze beleidsregel toestemming vraagt zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040998&artikel=2&z=2018-06-10&g=2018-06-10).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Dienst Wegverkeer kan aan een rechtspersoon toestemming verlenen om, tegen betaling namens de aanvrager van een door deze dienst vast te stellen tarief, snelle motorboten te naam te stellen in het door deze dienst gehouden register.
 
@@ -38,7 +60,7 @@ Voorts wordt verstaan onder:
 
 5. De toestemming wordt schriftelijk verleend door de Dienst Wegverkeer.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Met het toezicht op de naleving van de uit de toestemming voortvloeiende verplichtingen zijn belast de bij besluit van de Dienst Wegverkeer aangewezen ambtenaren. Een zodanig besluit wordt bekend gemaakt door plaatsing in de Staatscourant.
 
@@ -48,7 +70,7 @@ Voorts wordt verstaan onder:
 
 4. Bij door de Dienst Wegverkeer vast te stellen beleid worden nadere regels vastgesteld betreffende de wijze waarop het toezicht wordt gehouden en de verplichting tot medewerking daaraan van degene aan wie toestemming is verleend. Dit beleid kan inhouden dat een verscherpt toezicht wordt gehouden indien blijkt dat wordt gehandeld in strijd met een of meer uit de voortvloeiende verplichtingen van de verleende toestemming.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Dienst Wegverkeer trekt de toestemming in, indien degene aan wie de toestemming is verleend, daarom verzoekt.
 
@@ -68,7 +90,7 @@ Voorts wordt verstaan onder:
 
 6. Bij door de Dienst Wegverkeer vast te stellen beleid kunnen nadere regels worden vastgesteld met betrekking tot het intrekken, wijzigen en schorsen van de toestemming.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de verzoeker reeds beschikt over de Erkenning zoals gesteld in de [Regeling erkenning tenaamstelling](https://wetten.overheid.nl/jci1.3:c:BWBR0034353), voldoet verzoeker aan de gestelde van dit besluit en zal de RDW op basis hiervan toestemming verlenen.
 
@@ -80,7 +102,7 @@ Voorts wordt verstaan onder:
 
 - c. bij de aanvraag een door de Dienst Wegverkeer goedgekeurd kwaliteitshandboek overleggen waarin een beschrijving is opgenomen van de met de tenaamstelling samenhangende procedures, de instructies, controlemaatregelen, de technische handelingen alsmede de administratieve handelingen, de verantwoordelijkheden, bevoegdheden en kennis van het daarbij betrokken personeel alsmede de maatregelen die genomen zijn om te voorkomen dat de aanvraaggegevens worden vastgelegd buiten de registratie van de Dienst Wegverkeer.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De toestemminghouder meldt wijzigingen in de bedrijfsactiviteit alsmede wijzigingen in de bedrijfsgegevens, voor zover deze van belang kunnen zijn voor de verleende toestemming, onverwijld aan de Dienst Wegverkeer.
 
@@ -98,7 +120,7 @@ Voorts wordt verstaan onder:
 
 5. De toestemminghouder handelt overeenkomstig het kwaliteitshandboek, bedoeld in [artikel 5, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0040998&artikel=5&z=2018-06-10&g=2018-06-10).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De toestemminghouder beschikt over richtlijnen voor medewerkers met betrekking tot het veilig gebruik van applicaties, wachtwoorden, de herkenning en melding van veiligheidsincidenten en de vernietiging van documenten met gevoelige informatie na het afronden van processen.
 
@@ -114,16 +136,16 @@ Voorts wordt verstaan onder:
 
 - c. Bij iedere tenaamstelling stuurt de toestemminghouder informatie aan de Dienst Wegverkeer waaruit de vestiging blijkt waar en door wie de tenaamstellingtransactie is uitgevoerd (locatieiD + locatieNAAM + medewerkeriD).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De toestemminghouder neemt kennis van het toezichtbeleid dat door de Dienst Wegverkeer wordt vastgesteld.
 
 2. De toestemminghouder legt jaarlijks en op verzoek van de Dienst Wegverkeer een EDP auditverklaring over waaruit blijkt dat het voldoet aan de eisen van de [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040998&artikel=2&z=2018-06-10&g=2018-06-10).
 
-#### Artikel 9
+##### Artikel 9
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na dagtekening in de Staatscourant.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regel wordt aangehaald als: Beleidsregel tenaamstellingsloket snelle motorboten. Deze regel zal met de toelichting in de Staatscourant worden geplaatst.

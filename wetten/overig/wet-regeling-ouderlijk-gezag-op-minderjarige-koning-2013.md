@@ -1,14 +1,42 @@
 ---
-title: "Wet regeling ouderlijk gezag op minderjarige Koning 2013"
+title: "Wet van 4 december 2013, houdende regeling van het ouderlijk gezag over de minderjarige Koning en het toezicht daarop"
 identifier: "BWBR0034369"
-categorie: "Overig"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034369"
+country: "nl"
+rank: "wet"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034369"
+soort: "wet"
+stam_id: "12477833"
+version_id: "20982962"
+internal_id: "C30139191"
+label_id: "12448594"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034369/2015-01-01/0"
+intitule_bron: "Stb.2013-534"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-04"
+intitule_published: "2013-12-17"
+intitule_in_force: "2013-12-17"
+intitule_status: "goed"
+original_publication: "Stb.2013-534"
+original_signed_date: "2013-12-04"
+original_published_date: "2013-12-17"
+original_effect: "nieuwe-regeling"
+original_dossier: "00012"
+original_url_id: "stb-2013-534"
+entry_into_force_date: "2013-12-18"
+entry_into_force_dossier: "00012"
+jci_1_3: "jci1.3:c:BWBR0034369&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0034369&g=2015-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet regeling ouderlijk gezag op minderjarige Koning 2013"
+signed_date: "2013-12-04"
+entry_into_force: "2013-12-18"
 ---
-
-# Wet regeling ouderlijk gezag op minderjarige Koning 2013
+# Wet van 4 december 2013, houdende regeling van het ouderlijk gezag over de minderjarige Koning en het toezicht daarop
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +44,7 @@ Alzo Wij in overweging genomen hebben, dat ter voldoening aan het bepaalde in [a
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In het tijdvak dat de uit Ons huwelijk met Hare Majesteit Koningin Máxima, Prinses der Nederlanden, Prinses van Oranje-Nassau, geboren wettige nakomeling, krachtens erfopvolging Koning geworden, minderjarig is, oefent Onze voornoemde echtgenote, het ouderlijk gezag uit.
 
@@ -26,13 +54,13 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 4. Indien degene die de in dit artikel bedoelde minderjarigen goederen schenkt of vermaakt, bij de gift, onderscheidenlijk bij de uiterste wilsbeschikking, heeft bepaald dat een derde het bewind over die goederen zal voeren, blijft die bepaling buiten toepassing.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De bepalingen van het burgerlijk recht zijn op het ouderlijk gezag van toepassing, voor zover niet uit deze wet het tegendeel volgt.
 
 2. Niet van toepassing zijn de [artikelen 235](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=235), [241 tot en met 242](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=241), [253ha](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253ha), [253l](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253l), [253s](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253s), [253t](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253t), [253z](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253z), [255](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=255), [257](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=257), [266](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=266), [268](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=268), [342, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=242), [344](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=344), [349](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=349) en [370 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=370).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij de uitoefening van het ouderlijk gezag, zoals bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034369&artikel=1&z=2015-01-01&g=2015-01-01), wordt Onze voornoemde echtgenote bijgestaan door een College van Toezicht, dat aanstonds na het in werking treden van deze wet wordt samengesteld.
 
@@ -40,7 +68,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 3. Zo spoedig mogelijk nadat de minderjarige opvolger Koning is geworden en de leden de bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034369&artikel=6&z=2015-01-01&g=2015-01-01) voorgeschreven eed of belofte hebben afgelegd, roept de vicepresident van de Raad van State, die als voorzitter van het College fungeert, het College bijeen teneinde een secretaris te doen benoemen en de orde der werkzaamheden en de bijeenkomsten te doen regelen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De bij koninklijk besluit aangewezen leden van het College kunnen, zolang de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034369&artikel=1&z=2015-01-01&g=2015-01-01), bedoelde situatie zich niet voordoet, bij koninklijk besluit, de Raad van State gehoord, worden ontslagen en vervangen.
 
@@ -48,19 +76,19 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 3. De door Ons aangewezen leden, die ontslag hebben verzocht, vervullen de plichten, die uit hoofde van deze betrekking op hen rusten, totdat het ontslag is verleend.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Besluiten van het College kunnen slechts genomen worden bij meerderheid van stemmen van het werkelijk aantal leden.
 
 2. Bij het staken der stemmen geeft de stem van de voorzitter de doorslag.
 
-#### Artikel 6
+##### Artikel 6
 
 Alvorens het lidmaatschap te aanvaarden legt elk lid van het College in handen van de voorzitter van de verenigde vergadering van de Staten-Generaal de volgende eed of belofte af:
 
 «Ik zweer (beloof) trouw aan de Koning; ik zweer (beloof) al de plichten, welke op mij als lid van het College van Toezicht rusten, met de meeste toewijding te zullen vervullen. Zo waarlijk helpe mij God almachtig! («Dat beloof ik!»).»
 
-#### Artikel 7
+##### Artikel 7
 
 1. De in de [artikelen 345](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=345), [346](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=346), [348](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=348) en [350 tot en met 357 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=350) omschreven taken en bevoegdheden van de rechter worden uitgevoerd en uitgeoefend door het College.
 
@@ -70,7 +98,7 @@ Alvorens het lidmaatschap te aanvaarden legt elk lid van het College in handen v
 
 4. Bij verhindering of ontstentenis van Onze voornoemde echtgenote vervult het College haar taak totdat de verhindering of de ontstentenis is geëindigd, dan wel totdat bij wet in de voogdij over de uit Ons huwelijk geboren minderjarige kinderen is voorzien.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Zo spoedig mogelijk nadat de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034369&artikel=1&z=2015-01-01&g=2015-01-01) bedoelde situatie zich voordoet, gaat Onze voornoemde echtgenote, in tegenwoordigheid van drie leden van het College, daartoe door het College aangewezen, over tot inventarisering van het vermogen van elk van de minderjarigen.
 
@@ -78,25 +106,25 @@ Alvorens het lidmaatschap te aanvaarden legt elk lid van het College in handen v
 
 3. De twee voorgaande leden zijn van overeenkomstige toepassing indien de uit Ons huwelijk geboren minderjarige kinderen, of een hunner, door schenking, erfopvolging of making vermogen verkrijgen.
 
-#### Artikel 9
+##### Artikel 9
 
 De begroting van de uitgaven ten behoeve van de minderjarige Koning en de andere uit Ons huwelijk geboren kinderen en van de kosten, welke op het beheer van het vermogen mogen vallen, wordt door het College, op voordracht van Onze voornoemde echtgenote, vóór de aanvang van ieder kalenderjaar vastgesteld.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Binnen de eerste zes maanden van ieder kalenderjaar wordt een staat van de ontvangsten en de uitgaven ten behoeve van de minderjarigen gedurende het afgelopen jaar door Onze voornoemde echtgenote aan het College overgelegd en door het College vastgesteld.
 
 2. Het batig overschot van de ontvangsten boven de uitgaven, voorkomende op de in het eerste lid bedoelde staat, alsmede de in de loop van het jaar ontvangen kooppenningen van verkochte goederen, aflossingssommen van effecten en andere afgeloste kapitalen worden zo spoedig mogelijk, en zulks met goedkeuring van het College belegd.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt deze wet.
 
-#### Artikel 12
+##### Artikel 12
 
 De [Wet van 10 juni 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003413) (Stb. 381), houdende benoeming van een voogd en een regeling van de voogdij over de minderjarige Koning wordt ingetrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 

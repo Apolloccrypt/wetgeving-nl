@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing wijziging Aanwijzing taakstelling meerjarig contracteren sector gehandicaptenzorg en langdurige ggz Hoofdlijnenakkoord Ouderenzorg en terugdraaien voor 2026"
+title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 juli 2025, kenmerk 4153676-1085457-PZO, op grond van artikel 7 van de Wet marktordening gezondheidzorg, inzake wijziging van de aanwijzing inzake taakstelling meerjarig contracteren sector gehandicaptenzorg en langdurige ggz in verband met Hoofdlijnenakkoord Ouderenzorg en terugdraaien voor het jaar 2026"
 identifier: "BWBR0051277"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051277"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051277"
+soort: "ministeriele-regeling"
+stam_id: "17477793"
+version_id: "30824472"
+internal_id: "C44174771"
+label_id: "17380094"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051277/2026-01-01/0"
+intitule_bron: "Stcrt.2025-24416"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-10"
+intitule_published: "2025-07-18"
+intitule_in_force: "2025-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-24416"
+original_signed_date: "2025-07-10"
+original_published_date: "2025-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-24416"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051277&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051277&g=2026-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Aanwijzing wijziging Aanwijzing taakstelling meerjarig contracteren sector gehandicaptenzorg en langdurige ggz Hoofdlijnenakkoord Ouderenzorg en terugdraaien voor 2026"
+signed_date: "2025-07-10"
+entry_into_force: "2026-01-01"
 ---
-
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 juli 2025, kenmerk 4153676-1085457-PZO, op grond van artikel 7 van de Wet marktordening gezondheidzorg, inzake wijziging van de aanwijzing inzake taakstelling meerjarig contracteren sector gehandicaptenzorg en langdurige ggz in verband met Hoofdlijnenakkoord Ouderenzorg en terugdraaien voor het jaar 2026
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7):
@@ -18,7 +44,7 @@ Gezien de procedurevergadering van de vaste commissie voor Volksgezondheid, Welz
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -38,15 +64,15 @@ In deze aanwijzing wordt verstaan onder:
 
 - –. **zzp:** prestatiebeschrijving zorgzwaartepakket.
 
-#### Artikel 2. Opdracht
+##### Artikel 2. Opdracht
 
 Wijzigt de Aanwijzing verwerking taakstellingen coalitieakkoord voor 2024 en verder voor bepaalde vormen van zorg zoals vergoed vanuit de Wlz.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze aanwijzing treedt per 1 januari 2026 in werking.
 
-#### Artikel 4. Geen uitvoering 2026
+##### Artikel 4. Geen uitvoering 2026
 
 De zorgautoriteit geeft voor het jaar 2026 geen uitvoering aan het eerste lid van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051277&artikel=2&z=2026-01-01&g=2026-01-01) van deze aanwijzing.
 

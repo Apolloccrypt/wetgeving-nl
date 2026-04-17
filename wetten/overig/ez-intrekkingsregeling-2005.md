@@ -1,13 +1,38 @@
 ---
-title: "EZ-intrekkingsregeling 2005"
+title: "Regeling van de Minister van Economische Zaken van 1 juni 2005, nr. WJZ 5028518, houdende intrekking van diverse regelingen op het terrein van het Ministerie van Economische Zaken (EZ-intrekkingsregeling 2005)"
 identifier: "BWBR0018377"
-categorie: "Overig"
-publicatiedatum: 2005-06-26
-laatste_update: 2005-06-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018377"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-06-26"
+last_updated: "2005-06-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018377"
+soort: "ministeriele-regeling"
+stam_id: "7087663"
+version_id: "12010252"
+internal_id: "C16103211"
+label_id: "7076084"
+original_entry_into_force: "2005-06-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018377/2005-06-26/0"
+intitule_bron: "Stcrt.2005-120"
+intitule_effect: "wijziging"
+intitule_signed: "2005-06-01"
+intitule_published: "2005-06-24"
+intitule_in_force: "2005-06-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-120"
+original_signed_date: "2005-06-01"
+original_published_date: "2005-06-24"
+original_effect: "wijziging"
+original_url_id: "stcrt-2005-120-p11-SC70406"
+entry_into_force_date: "2005-06-26"
+jci_1_3: "jci1.3:c:BWBR0018377&z=2005-06-26&g=2005-06-26"
+jci_1_0: "1.0:c:BWBR0018377&g=2005-06-26"
+citeertitel_status: "officieel"
+short_title: "EZ-intrekkingsregeling 2005"
+signed_date: "2005-06-01"
+entry_into_force: "2005-06-26"
 ---
-
 # Regeling van de Minister van Economische Zaken van 1 juni 2005, nr. WJZ 5028518, houdende intrekking van diverse regelingen op het terrein van het Ministerie van Economische Zaken (EZ-intrekkingsregeling 2005)
 
 Handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor zover het betreft [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0018377&paragraaf=1&artikel=XVIII&z=2005-06-26&g=2005-06-26);
@@ -16,11 +41,11 @@ Gelet op de [artikelen 49q](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&arti
 
 Besluit:
 
-#### Artikel I. Bedrijfsgericht technologisch onderzoek
+##### Artikel I. Bedrijfsgericht technologisch onderzoek
 
 De Regeling van de Minister van Economische Zaken van 30 januari 1995, nr. 94096150, houdende wijziging Subsidieregeling bedrijfsgericht technologisch onderzoek door collectiviteiten 1994 en vaststelling van het voor 1995 beschikbare budget (Stcrt. 23) wordt ingetrokken.
 
-#### Artikel II. Bedrijfsgerichte technologiestimulering internationale programma’s
+##### Artikel II. Bedrijfsgerichte technologiestimulering internationale programma’s
 
 De volgende regelingen worden ingetrokken:
 
@@ -28,7 +53,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. Regeling van de Minister van Economische Zaken van 29 januari 1996, nr. WJA/JZ 95085312, houdende vaststelling van het beschikbare budget voor het doen van subsidietoezeggingen op in 1996 ontvangen aanvragen op grond van het Besluit subsidies bedrijfsgerichte technologiestimulering internationale programma’s (Stcrt. 21).
 
-#### Artikel III. [Besluit subsidies energieprogramma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0006515)
+##### Artikel III. [Besluit subsidies energieprogramma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0006515)
 
 De volgende regelingen worden ingetrokken:
 
@@ -116,7 +141,7 @@ De volgende regelingen worden ingetrokken:
 
 - pp. Regeling van de Minister van Economische Zaken van 20 november 2003, nr. WJZ 3062795, houdende wijziging van de BSE-formulieren in verband met gewijzigde interpretatie van het Milieusteunkader (Stcrt. 226).
 
-#### Artikel IV. Borgstelling MKB-kredieten
+##### Artikel IV. Borgstelling MKB-kredieten
 
 De volgende regelingen worden ingetrokken:
 
@@ -130,11 +155,11 @@ De volgende regelingen worden ingetrokken:
 
 - e. Regeling van de Staatssecretaris van Economische Zaken van 14 december 2003, nr. WJZ 3071559, houdende vaststelling van het subsidieplafond voor 2004 op grond van het Besluit borgstelling MKB-kredieten 1997 (Stcrt. 249).
 
-#### Artikel V. Branchegewijze informaticastimulering
+##### Artikel V. Branchegewijze informaticastimulering
 
 De Subsidieregeling branchegewijze informaticastimulering wordt ingetrokken.
 
-#### Artikel VI. Civiele vliegtuigontwikkeling
+##### Artikel VI. Civiele vliegtuigontwikkeling
 
 De volgende regelingen worden ingetrokken:
 
@@ -144,19 +169,19 @@ De volgende regelingen worden ingetrokken:
 
 - c. Regeling van de Minister van Economische Zaken van 5 december 2003, nr. WJZ 3071123, tot wijziging van het subsidieplafond voor 2003 en vaststelling van het subsidieplafond voor 2004 op grond van het Besluit subsidies civiele vliegtuigontwikkeling (Stcrt. 243).
 
-#### Artikel VII. Co2-reductieplan
+##### Artikel VII. Co2-reductieplan
 
 De Regeling van de Minister van Economische Zaken van 8 oktober 2002, nr. WJZ 02047464, houdende wijziging van de Uitvoeringsregeling subsidies CO2-reductieplan 2001 en het uitschrijven van een nieuwe tender (Stcrt. 194) wordt ingetrokken.
 
-#### Artikel VIII. Energie-efficiënte combinaties met w/k systemen
+##### Artikel VIII. Energie-efficiënte combinaties met w/k systemen
 
 De Subsidieregeling nieuwe energie-efficiënte combinaties met w/k-systemen 1998 wordt ingetrokken.
 
-#### Artikel IX. Erkenningsregelingen
+##### Artikel IX. Erkenningsregelingen
 
 De Regeling van de Minister van Economische Zaken van 18 oktober 1994, nr. 94067303, houdende beschikbaar bedrag Subsidieregeling erkenningsregelingen (Stcrt. 201) wordt ingetrokken.
 
-#### Artikel X. Exportfinanciering
+##### Artikel X. Exportfinanciering
 
 De volgende regelingen worden ingetrokken:
 
@@ -178,11 +203,11 @@ De volgende regelingen worden ingetrokken:
 
 - i. Regeling van de Staatssecretaris van Economische Zaken van 10 december 2003, WJZ 3071774, houdende intrekking van de Regeling exportfinancieringsarrangement rente-overbruggingsfaciliteit 2002 en vaststelling van het subsidieplafond voor 2004 van de Regeling exportfinancieringsarrangement zware matching (Stcrt. 245).
 
-#### Artikel XI. Exportmedewerkers midden- en kleinbedrijf
+##### Artikel XI. Exportmedewerkers midden- en kleinbedrijf
 
 De Regeling van de Staatssecretaris van Economische Zaken van 4 december 1998, nr. WJA/JZ 98074589, houdende wijziging Subsidieregeling exportmedewerkers midden- en kleinbedrijf en uitvoering van artikel 4, eerste lid, (Stcrt. 240) wordt ingetrokken.
 
-#### Artikel XII. Innovatiegerichte onderzoekprogramma’s
+##### Artikel XII. Innovatiegerichte onderzoekprogramma’s
 
 De volgende regelingen worden ingetrokken:
 
@@ -200,15 +225,15 @@ De volgende regelingen worden ingetrokken:
 
 - g. Regeling van de Minister van Economische Zaken van 9 juli 2004, nr. WJZ 4045932, houdende vaststelling van perioden voor het aanvragen van een IOP-preadvies (Stcrt. 138).
 
-#### Artikel XIII. Innovatiestimulering
+##### Artikel XIII. Innovatiestimulering
 
 De Regeling van de Minister van Economische Zaken van 2 juli 1991, nr. WJA/JZ 91056241, houdende wijziging Subsidieregeling innovatiestimulering 1989 (Stcrt. 126) wordt ingetrokken.
 
-#### Artikel XIV. [Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919)
+##### Artikel XIV. [Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919)
 
 De Regeling van de Minister van Economische Zaken van 10 december 2002, nr. WJZ 02061353, houdende vaststelling van een aantal subsidieplafonds voor 2003 (Stcrt. 244) wordt ingetrokken.
 
-#### Artikel XV. Kennisoverdracht ondernemers MKB
+##### Artikel XV. Kennisoverdracht ondernemers MKB
 
 De volgende regelingen worden ingetrokken:
 
@@ -218,7 +243,7 @@ De volgende regelingen worden ingetrokken:
 
 - c. Regeling van de Minister van Economische Zaken van 8 december 2003, nr. WJZ 3071802, houdende vaststelling van het subsidieplafond voor 2004 op grond van de Subsidieregeling kennisoverdracht ondernemers MKB (Stcrt. 242).
 
-#### Artikel XVI. Kennisoverdracht brancheorganisaties MKB
+##### Artikel XVI. Kennisoverdracht brancheorganisaties MKB
 
 De volgende regelingen worden ingetrokken:
 
@@ -228,7 +253,7 @@ De volgende regelingen worden ingetrokken:
 
 - c. Regeling van de Minister van Economische Zaken van 8 december 2003, nr. WJZ 3071789, houdende vaststelling van het subsidieplafond voor 2004 op grond van de Subsidieregeling kennisoverdracht brancheorganisaties MKB (Stcrt. 242).
 
-#### Artikel XVII. Managementcursussen Midden- en Oost-Europa 1998
+##### Artikel XVII. Managementcursussen Midden- en Oost-Europa 1998
 
 De volgende regelingen worden ingetrokken:
 
@@ -236,7 +261,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. Regeling van de Staatssecretaris van Economische Zaken van 17 december 1998, nr. WJZ/JZ 98083299, houdende subsidieplafond 1999 Subsidieregeling managementcursussen Midden- en Oost-Europa 1998 (Stcrt. 243).
 
-#### Artikel XVIII. Milieugerichte productontwikkeling
+##### Artikel XVIII. Milieugerichte productontwikkeling
 
 De volgende regelingen worden ingetrokken:
 
@@ -246,7 +271,7 @@ De volgende regelingen worden ingetrokken:
 
 - c. Regeling van de Minister van Economische Zaken van 27 november 2000, nr. WJZ 00070219, houdende vaststelling subsidieplafond MPO 2001 (Stcrt. 234).
 
-#### Artikel XIX. Ondernemerschap en onderwijs
+##### Artikel XIX. Ondernemerschap en onderwijs
 
 De volgende regelingen worden ingetrokken:
 
@@ -256,11 +281,11 @@ De volgende regelingen worden ingetrokken:
 
 - c. Uitvoeringsregeling ondernemerschap en onderwijs 2002.
 
-#### Artikel XX. Referentieprojecten milieutechnologie
+##### Artikel XX. Referentieprojecten milieutechnologie
 
 De Regeling van de Minister van Economische Zaken van 26 november 1997, nr. WJA/JZ 97067700, houdende tweede wijziging Subsidieregeling referentieprojecten milieutechnologie (Stcrt. 230) wordt ingetrokken.
 
-#### Artikel XXI. Regionale investeringsprojecten
+##### Artikel XXI. Regionale investeringsprojecten
 
 De volgende regelingen worden ingetrokken:
 
@@ -272,7 +297,7 @@ De volgende regelingen worden ingetrokken:
 
 - d. Regeling van de Staatssecretaris van Economische Zaken van 12 december 2003, nr. WJZ 3063370, houdende uitvoering van artikel 7 van het Besluit subsidies regionale investeringsprojecten 2000 (Stcrt. 248).
 
-#### Artikel XXII. Regioprogramma’s Zuid-Limburg
+##### Artikel XXII. Regioprogramma’s Zuid-Limburg
 
 De volgende regelingen worden ingetrokken:
 
@@ -280,7 +305,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. Regeling van de Staatssecretaris van Economische Zaken van 16 mei 1994, nr. ES/RBM/RSB/RP/94024662.b05, houdende vaststelling subsidiebedrag Besluit uitkeringen regioprogramma Zuid-Limburg 1993/1994 (Stcrt. 96).
 
-#### Artikel XXIII. Samenwerkingsprojecten opkomende markten
+##### Artikel XXIII. Samenwerkingsprojecten opkomende markten
 
 De volgende regelingen worden ingetrokken:
 
@@ -288,7 +313,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. Regeling van de Minister van Economische Zaken van 19 november 2004, nr. WJZ 4073267, houdende vaststelling van een subsidieplafond krachtens de Regeling innovatiesubsidie samenwerkingsprojecten opkomende markten (2004-III) (Stcrt. 227).
 
-#### Artikel XXIV. Scholingsimpuls
+##### Artikel XXIV. Scholingsimpuls
 
 De volgende regelingen worden ingetrokken:
 
@@ -296,7 +321,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. Regeling van de Minister van Economische Zaken van 16 december 2002, nr. WJZ 02063760, houdende wijziging Subsidieregeling scholingsimpuls en vaststelling tenderperiodes en subsidieplafonds (Stcrt. 244).
 
-#### Artikel XXV. Stimulering ruimte voor economische activiteit
+##### Artikel XXV. Stimulering ruimte voor economische activiteit
 
 De volgende regelingen worden ingetrokken:
 
@@ -308,15 +333,15 @@ De volgende regelingen worden ingetrokken:
 
 - d. Uitvoeringsregeling StiREA 1999.
 
-#### Artikel XXVI. Technische ontwikkelingskredieten
+##### Artikel XXVI. Technische ontwikkelingskredieten
 
 De Regeling van de Minister van Economische Zaken van 31 januari 1994, nr. WJA/JZ 94007281, houdende wijziging Regeling technische ontwikkelingskredieten (Stcrt. 43) wordt ingetrokken.
 
-#### Artikel XXVII. Toeleveren en uitbesteden
+##### Artikel XXVII. Toeleveren en uitbesteden
 
 De Regeling van de Minister van Economische Zaken van 30 januari 1995, nr. WJA/JZ 94096479, houdende wijziging Uitvoeringsregeling T&U en vaststelling van het voor 1995 beschikbare budget (Stcrt. 24) wordt ingetrokken.
 
-#### Artikel XXVIII. Uitkeringen Interreg
+##### Artikel XXVIII. Uitkeringen Interreg
 
 De volgende regelingen worden ingetrokken:
 
@@ -324,11 +349,11 @@ De volgende regelingen worden ingetrokken:
 
 - b. Regeling van de Staatssecretaris van Economische Zaken van 16 mei 1994, nr. ES/RBM/RSB/RP 94024663.b05, houdende vaststelling subsidiebedrag Besluit uitkeringen Interreg 1993/94 (Stcrt. 95).
 
-#### Artikel XXIX. Warmtekrachtkoppeling
+##### Artikel XXIX. Warmtekrachtkoppeling
 
 Het Besluit van de Minister van Economische Zaken van 2 maart 2004, nr. WJZ 4013860, tot vaststelling van de tabel ter bepaling van de kooldioxide-index van WKK-installaties met als krachtbron uitsluitend een of meerdere gasmotoren ten behoeve van het kalenderjaar 2004 (Stcrt. 45) wordt ingetrokken.
 
-#### Artikel XXX. Waterschade
+##### Artikel XXX. Waterschade
 
 De volgende regelingen worden ingetrokken:
 
@@ -336,7 +361,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. Regeling van de Minister van Economische Zaken van 16 augustus 1995, nr. 95057280 WJA/JZ , houdende verlenging Regeling borgstelling waterschadekredieten 1995 (Stcrt. 157).
 
-#### Artikel XXXI. Zaaiprojecten life sciences
+##### Artikel XXXI. Zaaiprojecten life sciences
 
 De volgende regelingen worden ingetrokken:
 
@@ -346,7 +371,7 @@ De volgende regelingen worden ingetrokken:
 
 - c. Regeling van de Staatssecretaris van Economische Zaken van 10 december 2003, nr. WJZ 3072764, houdende vaststelling van het subsidieplafond, bedoeld in de Subsidieregeling zaaiprojecten life sciences, voor het jaar 2004 (Stcrt. 245).
 
-#### Artikel XXXII. Zeescheepsnieuwbouw
+##### Artikel XXXII. Zeescheepsnieuwbouw
 
 De volgende regelingen worden ingetrokken:
 
@@ -364,11 +389,11 @@ De volgende regelingen worden ingetrokken:
 
 - g. Uitvoeringsregeling BSZ 2001.
 
-#### Artikel XXXIII. Cbs
+##### Artikel XXXIII. Cbs
 
 De Regeling bevordering vrijwillige uittreding medewerkers CBS wordt ingetrokken.
 
-#### Artikel XXXIV. [Distributiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001997)
+##### Artikel XXXIV. [Distributiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001997)
 
 De volgende regelingen worden ingetrokken:
 
@@ -376,7 +401,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. Beschikking van de Minister van Economische Zaken van 7 november 1973, nr. 673/584, houdende buitentoepassingverklaring artikel 17 Distributiewet 1939 (Stcrt. 217).
 
-#### Artikel XXXV. [Elektriciteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009755)
+##### Artikel XXXV. [Elektriciteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009755)
 
 De volgende regelingen worden ingetrokken:
 
@@ -386,7 +411,7 @@ De volgende regelingen worden ingetrokken:
 
 - c. Regeling van de Minister van Economische Zaken van 6 juni 2003, nr. WJZ 3019600, houdende derde wijziging van de Regeling groencertificaten Elektriciteitswet 1998 in verband met de wet van 5 juni 2003 tot wijziging van de Elektriciteitswet 1998 ten behoeve van de stimulering van de milieukwaliteit van de elektriciteitsproductie (Stb. 235) (Stcrt. 116).
 
-#### Artikel XXXVI. [In- en uitvoerwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002376)
+##### Artikel XXXVI. [In- en uitvoerwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002376)
 
 De volgende regelingen worden ingetrokken:
 
@@ -394,23 +419,23 @@ De volgende regelingen worden ingetrokken:
 
 - b. Beschikking van de Staatssecretaris van Economische Zaken van 19 augustus 1993, nr. 93061463, houdende intrekking invoervergunning aluminiumprodukten uit ex-Sowjetstaten (Stcrt. 158).
 
-#### Artikel XXXVII. Kamers van Koophandel
+##### Artikel XXXVII. Kamers van Koophandel
 
 De Regeling van de Staatssecretaris van Economische Zaken van 17 december 1997, nr. 97080093 WJA/W, houdende uitvoering van de artikelen 4, 7 en 8, tweede lid, van het Besluit instelling, gebiedsindeling en bestuursgrootte kamers van koophandel en fabrieken (Stcrt. 249) wordt ingetrokken.
 
-#### Artikel XXXVIII. Opheffing
+##### Artikel XXXVIII. Opheffing
 
 Het besluit van de Minister van Economische Zaken van 2 juni 1997, nr. WJA/JZ 97030278, houdende opheffing Rijks Geologische Dienst en programma-adviescommissie Rijks Geologische Dienst (Stcrt. 103) wordt ingetrokken.
 
-#### Artikel XXXIX. Schadeloosstelling
+##### Artikel XXXIX. Schadeloosstelling
 
 De Regeling van de Staatssecretaris van Economische Zaken van 1 maart 1963, nr. 663/313, houdende Uitvoering van artikel 13a, tweede lid, van het Koninklijk besluit van 8 mei 1959 (Stb. 287), houdende regelen betreffende de schadeloosstelling, bedoeld in artikel 5 van de wet van 10 juli 1952 (Stb. 407) (Stcrt. 45) wordt ingetrokken.
 
-#### Artikel XL. Speur- en ontwikkelingswerk
+##### Artikel XL. Speur- en ontwikkelingswerk
 
 De Regeling van de Minister van Economische Zaken van 16 december 2003, nr. WJZ 3073713, tot wijziging van de Afbakeningsregeling speur- en ontwikkelingswerk 1997 met het oogmerk binnen het begrip speur- en ontwikkelingswerk eerdere inperkingen ten dele op te heffen (Stcrt. 250) wordt ingetrokken.
 
-#### Artikel XLI. Taakomschrijving staatssecretaris
+##### Artikel XLI. Taakomschrijving staatssecretaris
 
 De volgende regelingen worden ingetrokken:
 
@@ -420,25 +445,25 @@ De volgende regelingen worden ingetrokken:
 
 - c. Regeling van de Minister van Economische Zaken van 25 oktober 2002, nr. WJZ 02053078, houdende taakomschrijving Staatssecretaris van Economische Zaken (Stcrt. 208).
 
-#### Artikel XLII. [Vestigingswet Bedrijven 1954](https://wetten.overheid.nl/jci1.3:c:BWBR0002130)
+##### Artikel XLII. [Vestigingswet Bedrijven 1954](https://wetten.overheid.nl/jci1.3:c:BWBR0002130)
 
 De Regeling van de Minister van Economische Zaken van 17 september 1990, nr. 90084704 DMO/DMKB/VO, houdende intrekking aanwijzing Belgische getuigschriften (ex artikel 4 Vestigingswet Bedrijven 1954) (Stcrt. 184) wordt ingetrokken.
 
-#### Artikel XLIII. Willekeurige afschrijving
+##### Artikel XLIII. Willekeurige afschrijving
 
 De Regeling van de Minister van Economische Zaken van 20 november 1998, nr. 98076040 WJA/JZ, houdende vaststelling aanvraagformulier ten behoeve van willekeurige afschrijving voortbrengingskosten filmproducties (Stcrt. 239) wordt ingetrokken.
 
-#### Artikel XLIV. Overgangsbepaling
+##### Artikel XLIV. Overgangsbepaling
 
 1. Voor zover nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, bedoeld in de [artikelen I tot en met XLIII](https://wetten.overheid.nl/jci1.3:c:BWBR0018377&paragraaf=1&artikel=I&z=2005-06-26&g=2005-06-26), plaats.
 
 2. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de [artikelen I tot en met XLIII](https://wetten.overheid.nl/jci1.3:c:BWBR0018377&paragraaf=1&artikel=I&z=2005-06-26&g=2005-06-26), blijven in stand.
 
-#### Artikel XLV. Inwerkingtreding
+##### Artikel XLV. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel XLVI. Citeertitel
+##### Artikel XLVI. Citeertitel
 
 Deze regeling wordt aangehaald als: EZ-intrekkingsregeling 2005.
 

@@ -1,14 +1,42 @@
 ---
-title: "Waterwet"
+title: "Wet van 29 januari 2009, houdende regels met betrekking tot het beheer en gebruik van watersystemen (Waterwet)"
 identifier: "BWBR0025458"
-categorie: "Milieu"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025458"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025458"
+soort: "wet"
+stam_id: "9936443"
+version_id: "23662932"
+internal_id: "C34061061"
+label_id: "9914434"
+dtd_version: "2.0"
+original_entry_into_force: "2016-11-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025458/2026-01-01/0"
+intitule_bron: "Stb.2009-107"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-01-29"
+intitule_published: "2009-03-12"
+intitule_in_force: "2009-12-18"
+intitule_status: "goed"
+original_publication: "Stb.2016-431"
+original_signed_date: "2016-11-02"
+original_published_date: "2016-11-23"
+original_effect: "structuurwijziging"
+original_dossier: "34436"
+original_url_id: "stb-2016-431"
+entry_into_force_date: "2016-11-02"
+entry_into_force_dossier: "34436"
+jci_1_3: "jci1.3:c:BWBR0025458&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0025458&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Waterwet"
+signed_date: "2016-11-02"
+entry_into_force: "2016-11-02"
 ---
-
-# Waterwet
+# Wet van 29 januari 2009, houdende regels met betrekking tot het beheer en gebruik van watersystemen (Waterwet)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +48,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In deze wet en de daarop berustende bepalingen wordt, tenzij anders bepaald, verstaan onder:
 
@@ -38,15 +66,15 @@ In deze wet en de daarop berustende bepalingen wordt, tenzij anders bepaald, ver
 
 #### § 2. Geografische bepalingen
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 Vervallen
 
-#### Artikel 1.3
+##### Artikel 1.3
 
 Vervallen
 
-#### Artikel 1.4
+##### Artikel 1.4
 
 Vervallen
 
@@ -54,65 +82,65 @@ Vervallen
 
 #### § 1. Doelstellingen
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 Vervallen
 
 #### § 2. Normen waterkering
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 Vervallen
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 Vervallen
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 Vervallen
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 Vervallen
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 Vervallen
 
-#### Artikel 2.7
+##### Artikel 2.7
 
 Vervallen
 
 #### § 3. Normen waterkwantiteit, waterkwaliteit en functievervulling
 
-#### Artikel 2.8
+##### Artikel 2.8
 
 Vervallen
 
-#### Artikel 2.9
+##### Artikel 2.9
 
 Vervallen
 
-#### Artikel 2.10
+##### Artikel 2.10
 
 Vervallen
 
-#### Artikel 2.11
+##### Artikel 2.11
 
 Vervallen
 
 #### § 4. Meten en beoordelen
 
-#### Artikel 2.12
+##### Artikel 2.12
 
 Vervallen
 
-#### Artikel 2.13
+##### Artikel 2.13
 
 Vervallen
 
-#### Artikel 2.14
+##### Artikel 2.14
 
 Vervallen
 
@@ -120,59 +148,59 @@ Vervallen
 
 #### § 1. Toedeling beheer en zorgplichten
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Vervallen
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 Vervallen
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 Vervallen
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 Vervallen
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 Vervallen
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 Vervallen
 
 #### § 2. Interbestuurlijke samenwerking
 
-#### Artikel 3.7
+##### Artikel 3.7
 
 Vervallen
 
-#### Artikel 3.8
+##### Artikel 3.8
 
 Vervallen
 
 #### § 3. Toezicht door hoger gezag
 
-#### Artikel 3.9
+##### Artikel 3.9
 
 Vervallen
 
-#### Artikel 3.10
+##### Artikel 3.10
 
 Vervallen
 
-#### Artikel 3.11
+##### Artikel 3.11
 
 Vervallen
 
-#### Artikel 3.12
+##### Artikel 3.12
 
 Vervallen
 
-#### Artikel 3.13
+##### Artikel 3.13
 
 Vervallen
 
@@ -180,41 +208,41 @@ Vervallen
 
 #### § 3. Toezicht door hoger gezag
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 Vervallen
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Vervallen
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 Vervallen
 
 #### § 2. Regionale waterplannen
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 Vervallen
 
-#### Artikel 4.5
+##### Artikel 4.5
 
 Vervallen
 
 #### § 3. Beheerplannen
 
-#### Artikel 4.6
+##### Artikel 4.6
 
 Vervallen
 
-#### Artikel 4.7
+##### Artikel 4.7
 
 Vervallen
 
 #### § 4. Periodieke herziening van plannen
 
-#### Artikel 4.8
+##### Artikel 4.8
 
 Vervallen
 
@@ -222,135 +250,135 @@ Vervallen
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 Vervallen
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 Vervallen
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 Vervallen
 
-#### Artikel 5.4
+##### Artikel 5.4
 
 Vervallen
 
 #### § 4. Periodieke herziening van plannen
 
-#### Artikel 5.5
+##### Artikel 5.5
 
 Vervallen
 
-#### Artikel 5.6
+##### Artikel 5.6
 
 Vervallen
 
-#### Artikel 5.7
+##### Artikel 5.7
 
 Vervallen
 
-#### Artikel 5.8
+##### Artikel 5.8
 
 Vervallen
 
-#### Artikel 5.9
+##### Artikel 5.9
 
 Vervallen
 
-#### Artikel 5.10
+##### Artikel 5.10
 
 Vervallen
 
-#### Artikel 5.11
+##### Artikel 5.11
 
 Vervallen
 
-#### Artikel 5.12
+##### Artikel 5.12
 
 Vervallen
 
-#### Artikel 5.13
+##### Artikel 5.13
 
 Vervallen
 
-#### Artikel 5.14
+##### Artikel 5.14
 
 Vervallen
 
 #### § 2. Projectprocedure voor waterstaatswerken
 
-#### Artikel 5.15
+##### Artikel 5.15
 
 Vervallen
 
-#### Artikel 5.16
+##### Artikel 5.16
 
 Vervallen
 
-#### Artikel 5.17
+##### Artikel 5.17
 
 Vervallen
 
-#### Artikel 5.18
+##### Artikel 5.18
 
 Vervallen
 
-#### Artikel 5.19
+##### Artikel 5.19
 
 Vervallen
 
 #### § 4. Gedoogplichten en bijzondere bevoegdheden
 
-#### Artikel 5.20
+##### Artikel 5.20
 
 Vervallen
 
-#### Artikel 5.21
+##### Artikel 5.21
 
 Vervallen
 
-#### Artikel 5.22
+##### Artikel 5.22
 
 Vervallen
 
-#### Artikel 5.23
+##### Artikel 5.23
 
 Vervallen
 
-#### Artikel 5.24
+##### Artikel 5.24
 
 Vervallen
 
-#### Artikel 5.25
+##### Artikel 5.25
 
 Vervallen
 
-#### Artikel 5.26
+##### Artikel 5.26
 
 Vervallen
 
-#### Artikel 5.27
+##### Artikel 5.27
 
 Vervallen
 
 #### § 5. Gevaar voor waterstaatswerken
 
-#### Artikel 5.28
+##### Artikel 5.28
 
 Vervallen
 
-#### Artikel 5.29
+##### Artikel 5.29
 
 Vervallen
 
-#### Artikel 5.30
+##### Artikel 5.30
 
 Vervallen
 
-#### Artikel 5.31
+##### Artikel 5.31
 
 Vervallen
 
@@ -358,131 +386,131 @@ Vervallen
 
 #### § 1. Watervergunning en algemene regels
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 Vervallen
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 Vervallen
 
-#### Artikel 6.3
+##### Artikel 6.3
 
 Vervallen
 
-#### Artikel 6.4
+##### Artikel 6.4
 
 Vervallen
 
-#### Artikel 6.5
+##### Artikel 6.5
 
 Vervallen
 
-#### Artikel 6.6
+##### Artikel 6.6
 
 Vervallen
 
-#### Artikel 6.7
+##### Artikel 6.7
 
 Vervallen
 
-#### Artikel 6.8
+##### Artikel 6.8
 
 Vervallen
 
-#### Artikel 6.9
+##### Artikel 6.9
 
 Vervallen
 
-#### Artikel 6.10
+##### Artikel 6.10
 
 Vervallen
 
-#### Artikel 6.11
+##### Artikel 6.11
 
 Vervallen
 
-#### Artikel 6.12
-
-Vervallen
-
-#### § 2. Nadere bepalingen omtrent de watervergunning
-
-#### Artikel 6.13
-
-Vervallen
-
-#### Artikel 6.14
-
-Vervallen
-
-#### Artikel 6.15
-
-Vervallen
-
-#### Artikel 6.16
-
-Vervallen
-
-#### Artikel 6.17
-
-Vervallen
-
-#### Artikel 6.18
-
-Vervallen
-
-#### Artikel 6.19
-
-Vervallen
-
-#### Artikel 6.20
-
-Vervallen
-
-#### Artikel 6.21
-
-Vervallen
-
-#### Artikel 6.22
-
-Vervallen
-
-#### Artikel 6.23
-
-Vervallen
-
-#### Artikel 6.24
+##### Artikel 6.12
 
 Vervallen
 
 #### § 2. Nadere bepalingen omtrent de watervergunning
 
-#### Artikel 6.25
+##### Artikel 6.13
 
 Vervallen
 
-#### Artikel 6.26
+##### Artikel 6.14
+
+Vervallen
+
+##### Artikel 6.15
+
+Vervallen
+
+##### Artikel 6.16
+
+Vervallen
+
+##### Artikel 6.17
+
+Vervallen
+
+##### Artikel 6.18
+
+Vervallen
+
+##### Artikel 6.19
+
+Vervallen
+
+##### Artikel 6.20
+
+Vervallen
+
+##### Artikel 6.21
+
+Vervallen
+
+##### Artikel 6.22
+
+Vervallen
+
+##### Artikel 6.23
+
+Vervallen
+
+##### Artikel 6.24
+
+Vervallen
+
+#### § 2. Nadere bepalingen omtrent de watervergunning
+
+##### Artikel 6.25
+
+Vervallen
+
+##### Artikel 6.26
 
 Vervallen
 
 #### § 4. Coördinatie met [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) of [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402)
 
-#### Artikel 6.27
+##### Artikel 6.27
 
 Vervallen
 
-#### Artikel 6.28
+##### Artikel 6.28
 
 Vervallen
 
-#### Artikel 6.29
+##### Artikel 6.29
 
 Vervallen
 
 #### § 5. Landelijke voorziening voor elektronische aanvraag
 
-#### Artikel 6.30
+##### Artikel 6.30
 
 Vervallen
 
@@ -490,7 +518,7 @@ Vervallen
 
 #### § 1. Heffingen
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 1. In dit hoofdstuk en de daarop berustende bepalingen wordt, tenzij anders bepaald, verstaan onder:
 
@@ -510,7 +538,7 @@ Vervallen
 
 2. Voor de toepassing van de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=1&z=2026-01-01&g=2026-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=2&z=2026-01-01&g=2026-01-01) wordt de exclusieve economische zone niet tot enig oppervlaktewaterlichaam gerekend.
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 1. Onder de naam verontreinigingsheffing vindt een heffing plaats ter zake van lozen op een oppervlaktewaterlichaam in beheer bij het Rijk.
 
@@ -534,7 +562,7 @@ Vervallen
 
 5. De opbrengst van de verontreinigingsheffing komt ten goede aan de bekostiging van het beheer van het watersysteem van de beheerder.
 
-#### Artikel 7.3
+##### Artikel 7.3
 
 1. Voor de verontreinigingsheffing geldt als grondslag de hoeveelheid en hoedanigheid van de stoffen die in een kalenderjaar worden geloosd. Als heffingsmaatstaf geldt de vervuilingswaarde van de stoffen die in een kalenderjaar worden geloosd, uitgedrukt in vervuilingseenheden.
 
@@ -542,11 +570,11 @@ Vervallen
 
 het zuurstofverbruik: het jaarlijks verbruik van 54,8 kilogram zuurstof.
 
-#### Artikel 7.4
+##### Artikel 7.4
 
 Vervallen
 
-#### Artikel 7.5
+##### Artikel 7.5
 
 1. Het aantal vervuilingseenheden wordt berekend met behulp van gegevens verkregen door middel van door de heffingplichtige, gedurende elk etmaal van het kalenderjaar ondernomen meting, bemonstering en analyse, overeenkomstig bij ministeriële regeling, onderscheidenlijk belastingverordening te stellen regels.
 
@@ -560,7 +588,7 @@ Vervallen
 
 6. De [artikelen 122h, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122h), [122i tot en met 122k](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122i) en [166 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=166) zijn van overeenkomstige toepassing. [Artikel 122i, eerste lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122i) is eveneens van overeenkomstige toepassing op lozingen vanuit een zuiveringtechnisch werk.
 
-#### Artikel 7.6
+##### Artikel 7.6
 
 1. Het tarief van de heffing ter zake van lozingen op een oppervlaktewaterlichaam in beheer bij het Rijk bedraagt € 37,28 per vervuilingseenheid.
 
@@ -570,11 +598,11 @@ Vervallen
 
 4. In afwijking van het eerste lid is van heffing vrijgesteld de in het tweede lid bedoelde lozing indien deze plaatsvindt anders dan door de beheerder, mits de hoeveelheid afvalstoffen, verontreinigende of schadelijke stoffen niet is toegenomen.
 
-#### Artikel 7.7
+##### Artikel 7.7
 
 Vervallen
 
-#### Artikel 7.8
+##### Artikel 7.8
 
 1. Van verontreinigingsheffing zijn vrijgesteld:
 
@@ -586,13 +614,13 @@ Vervallen
 
 2. Voorts kunnen bij of krachtens algemene maatregel van bestuur onderscheidenlijk bij belastingverordening nadere regels worden gesteld met betrekking tot de verontreinigingsheffing.
 
-#### Artikel 7.9
+##### Artikel 7.9
 
 Vervallen
 
 #### § 5. Landelijke voorziening voor elektronische aanvraag
 
-#### Artikel 7.10
+##### Artikel 7.10
 
 1. De verontreinigingsheffing ter zake van lozen op een oppervlaktewaterlichaam in beheer bij het Rijk wordt door Onze Minister bij wege van aanslag geheven. De heffing wordt geheven over het kalenderjaar.
 
@@ -604,13 +632,13 @@ Vervallen
 
 5. Van een besluit als bedoeld in het vierde lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 7.11
+##### Artikel 7.11
 
 1. Indien een bedrijfs- of woonruimte of een zuiveringtechnisch werk bij meer dan één persoon in gebruik of beheer is, kan de heffingsambtenaar een belastingaanslag inzake de in [artikel 7.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=2&artikel=7.10&z=2026-01-01&g=2026-01-01), bedoelde heffing ter zake van die ruimte of van dat zuiveringtechnisch werk ten name van één van die personen stellen.
 
 2. De heffingsambtenaar is bevoegd voor een zelfde in [artikel 7.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=1&artikel=7.2&z=2026-01-01&g=2026-01-01), bedoelde heffingplichtige, bestemde belastingaanslagen van dezelfde soort op één aanslagbiljet te verenigen.
 
-#### Artikel 7.12
+##### Artikel 7.12
 
 De door Onze Minister aangewezen ambtenaren die voor de toepassing van de [Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) in de plaats treden van de ambtenaren van de rijksbelastingdienst, zijn, voor zover dit voor het heffen van de in [artikel 7.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=2&artikel=7.10&z=2026-01-01&g=2026-01-01), bedoelde heffing redelijkerwijs nodig is, bevoegd:
 
@@ -618,7 +646,7 @@ De door Onze Minister aangewezen ambtenaren die voor de toepassing van de [Algem
 
 - b. monsters te nemen ter zake van lozingen op oppervlaktewaterlichamen in beheer bij het Rijk.
 
-#### Artikel 7.13
+##### Artikel 7.13
 
 1. De heffing ter zake van lozen op een oppervlaktewaterlichaam in beheer bij het Rijk wordt ingevorderd met toepassing van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) en de [Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645) als was deze heffing een rijksbelasting in de zin van [artikel 2, eerste lid, onderdeel a, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2) en geschiedt door de zorg van de ontvanger, bedoeld in artikel 2, eerste lid, onderdeel i, van die wet, alsmede door de overige in die wet genoemde functionarissen.
 
@@ -628,47 +656,47 @@ De door Onze Minister aangewezen ambtenaren die voor de toepassing van de [Algem
 
 #### § 3. Schadevergoeding
 
-#### Artikel 7.14
+##### Artikel 7.14
 
 Vervallen
 
-#### Artikel 7.15
+##### Artikel 7.15
 
 Vervallen
 
-#### Artikel 7.16
+##### Artikel 7.16
 
 Vervallen
 
-#### Artikel 7.17
+##### Artikel 7.17
 
 Vervallen
 
-#### Artikel 7.18
+##### Artikel 7.18
 
 Vervallen
 
-#### Artikel 7.19
+##### Artikel 7.19
 
 Vervallen
 
-#### Artikel 7.20
+##### Artikel 7.20
 
 Vervallen
 
 #### § 2. Verontreinigingsheffing door het Rijk
 
-#### Artikel 7.21
+##### Artikel 7.21
 
 Vervallen
 
-#### Artikel 7.22
+##### Artikel 7.22
 
 Vervallen
 
 #### § 5. Subsidie voor maatregelen primaire waterkeringen
 
-#### Artikel 7.23
+##### Artikel 7.23
 
 1. Onze Minister verleent aan de beheerder op aanvraag een subsidie voor het treffen van maatregelen, indien:
 
@@ -694,93 +722,93 @@ Vervallen
 
 ### Hoofdstuk 8. Handhaving
 
-#### Artikel 8.1
+##### Artikel 8.1
 
 Vervallen
 
-#### Artikel 8.2
+##### Artikel 8.2
 
 Vervallen
 
-#### Artikel 8.3
+##### Artikel 8.3
 
 Vervallen
 
-#### Artikel 8.4
+##### Artikel 8.4
 
 Vervallen
 
-#### Artikel 8.5
+##### Artikel 8.5
 
 Vervallen
 
-#### Artikel 8.6
+##### Artikel 8.6
 
 Vervallen
 
-#### Artikel 8.7
+##### Artikel 8.7
 
 Vervallen
 
-#### Artikel 8.8
+##### Artikel 8.8
 
 Vervallen
 
-#### Artikel 8.9
+##### Artikel 8.9
 
 Vervallen
 
-#### Artikel 8.10
+##### Artikel 8.10
 
 Vervallen
 
 ### Hoofdstuk 9. Rechtsbescherming
 
-#### Artikel 9.1
+##### Artikel 9.1
 
 Vervallen
 
-#### Artikel 9.2
+##### Artikel 9.2
 
 Vervallen
 
-#### Artikel 9.3
+##### Artikel 9.3
 
 Vervallen
 
-#### Artikel 9.4
+##### Artikel 9.4
 
 Vervallen
 
-#### Artikel 9.5
+##### Artikel 9.5
 
 Vervallen
 
 ### Hoofdstuk 10. Slotbepalingen
 
-#### Artikel 10.1
+##### Artikel 10.1
 
 Vervallen
 
-#### Artikel 10.2
+##### Artikel 10.2
 
 Vervallen
 
-#### Artikel 10.3
+##### Artikel 10.3
 
 Indien voorafgaand aan de inwerkingtreding van de wet van 14 maart 2018 tot wijziging van de Waterwet en van de Wet maritiem beheer BES in verband met de uitvoering van de wijziging van het Protocol van 1996 bij het Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen van 1972 (mariene geo-engineering) (Stb. 98) voor een activiteit als bedoeld in [artikel 6.3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2026-01-01&g=2026-01-01), een watervergunning is verleend, berust deze op artikel 6.3, eerste lid, aanhef en onderdeel d, mits de activiteit in bijlage 4 bij het op 7 november 1996 te Londen tot stand gekomen Protocol bij het Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen van 1972 (Trb. 1998, 134) is aangemerkt als een activiteit waarvoor een vergunning kan worden verleend.
 
-#### Artikel 10.4
+##### Artikel 10.4
 
 1. Onze Minister zendt binnen vijf jaar na de volledige inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet.
 
 2. Onverminderd het eerste lid zendt Onze Minister vóór 1 januari 2025 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de [artikelen 7.23 tot en met 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=5&artikel=7.23&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 10.5
+##### Artikel 10.5
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 10.6
+##### Artikel 10.6
 
 Deze wet wordt aangehaald als: Waterwet.
 
@@ -796,7 +824,7 @@ Deze wet wordt aangehaald als: Waterwet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5.32
+##### Artikel 5.32
 
 Vervallen
 
@@ -836,7 +864,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 3.2a
+##### Artikel 3.2a
 
 Vervallen
 
@@ -890,7 +918,7 @@ Vervallen
 
 #### § 3. Schadevergoeding
 
-#### Artikel 7.24
+##### Artikel 7.24
 
 1. Een waterschap is een jaarlijkse bijdrage aan Onze Minister verschuldigd ter bestrijding van de kosten verbonden aan de verstrekking van subsidies voor maatregelen die nodig zijn vanwege:
 
@@ -930,7 +958,7 @@ WGT voorstelt: de som van de op basis van [hoofdstuk IV van de Wet waardering on
 
 - c. eenmalige subsidies voor maatregelen die nodig zijn om bij algemene maatregel van bestuur aan te wijzen andere dan primaire waterkeringen in overeenstemming te brengen met de omgevingswaarden, bedoeld in [artikel 2.13, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.13).
 
-#### Artikel 7.25
+##### Artikel 7.25
 
 Ten behoeve van de vaststelling van de hoogte van de bijdrage, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=5&artikel=7.24&z=2026-01-01&g=2026-01-01), verschaft het dagelijks bestuur van een waterschap Onze Minister voor 1 maart van het kalenderjaar dat volgt op het kalenderjaar waarin de peildatum valt, de volgende gegevens:
 
@@ -938,7 +966,7 @@ Ten behoeve van de vaststelling van de hoogte van de bijdrage, bedoeld in [artik
 
 - b. de som van de op basis van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) vastgestelde waarden van de gebouwde onroerende zaken in het gebied van het waterschap op de peildatum.
 
-#### Artikel 7.26
+##### Artikel 7.26
 
 1. Onze Minister stelt de verplichting tot betaling van de bijdrage, bedoeld in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=7&paragraaf=5&artikel=7.24&z=2026-01-01&g=2026-01-01), jaarlijks voor 1 mei vast.
 
@@ -968,7 +996,7 @@ Ten behoeve van de vaststelling van de hoogte van de bijdrage, bedoeld in [artik
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 3.6a
+##### Artikel 3.6a
 
 1. Er is een rechtstreeks onder Onze Minister ressorterende regeringscommissaris voor het deltaprogramma. Deze draagt de titel «deltacommissaris».
 
@@ -976,7 +1004,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. De deltacommissaris wordt aangewezen voor een periode van ten hoogste zeven jaren en kan nog een maal aangewezen worden voor een periode van ten hoogste zeven jaren. De aanwijzing eindigt van rechtswege met ingang van de datum dat de uitoefening van de functie van deltacommissaris geen onderdeel meer uitmaakt van de werkzaamheden van de betreffende ambtenaar.
 
-#### Artikel 3.6b
+##### Artikel 3.6b
 
 De deltacommissaris bevordert de totstandkoming en uitvoering van het deltaprogramma. Daartoe:
 
@@ -986,11 +1014,11 @@ De deltacommissaris bevordert de totstandkoming en uitvoering van het deltaprogr
 
 - –. bewaakt hij de voortgang van de uitvoering van het deltaprogramma en rapporteert en adviseert daarover aan Onze Ministers.
 
-#### Artikel 3.6c
+##### Artikel 3.6c
 
 De deltacommissaris verkrijgt ten behoeve van de totstandkoming en de uitvoering van het deltaprogramma desgevraagd van Onze Ministers de gegevens die aan hen bij of krachtens de wet dienen te worden verschaft.
 
-#### Artikel 3.6d
+##### Artikel 3.6d
 
 1. Ter uitvoering van [artikel 3.6b](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=3&paragraaf=1a&artikel=3.6b&z=2026-01-01&g=2026-01-01) voert de deltacommissaris regelmatig overleg met betrokken bestuursorganen van provincies, waterschappen en gemeenten.
 
@@ -998,13 +1026,13 @@ De deltacommissaris verkrijgt ten behoeve van de totstandkoming en de uitvoering
 
 3. In het overleg worden in ieder geval besproken de voortgang van de uitvoering van het deltaprogramma en voorstellen voor maatregelen en voorzieningen in het kader van het deltaprogramma.
 
-#### Artikel 3.6e
+##### Artikel 3.6e
 
 De deltacommissaris is op het terrein van waterbeheer, natuur, milieu of ruimtelijke kwaliteit niet werkzaam in een andere publiek-bestuurlijke of ambtelijke functie of in de private sector.
 
 #### § 2. Interbestuurlijke samenwerking
 
-#### Artikel 3.14
+##### Artikel 3.14
 
 Vervallen
 
@@ -1016,7 +1044,7 @@ Vervallen
 
 ### Hoofdstuk 4a. Deltaprogramma
 
-#### Artikel 4.9
+##### Artikel 4.9
 
 1. Er is een deltaprogramma.
 
@@ -1044,7 +1072,7 @@ Tevens geeft het indicatief aan welke maatregelen of soorten van maatregelen in 
 
 7. In het deltaprogramma wordt aangegeven op welke wijze rekening is gehouden met het voorstel en de adviezen, bedoeld in [artikel 3.6b](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&hoofdstuk=3&paragraaf=1a&artikel=3.6b&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 4.10
+##### Artikel 4.10
 
 1. Onze Minister biedt jaarlijks, gelijktijdig met de begroting van het deltafonds voor het nieuwe jaar het deltaprogramma aan de Staten-Generaal aan.
 
@@ -1080,7 +1108,7 @@ Tevens geeft het indicatief aan welke maatregelen of soorten van maatregelen in 
 
 #### § 4a. Het deltafonds
 
-#### Artikel 7.22a
+##### Artikel 7.22a
 
 1. Er is een deltafonds.
 
@@ -1092,13 +1120,13 @@ Tevens geeft het indicatief aan welke maatregelen of soorten van maatregelen in 
 
 - c. het inwinnen, bewerken en verspreiden van met de onderdelen a en b samenhangende gegevens en het verrichten van met de onderdelen a en b samenhangende onderzoeken.
 
-#### Artikel 7.22b
+##### Artikel 7.22b
 
 1. Het deltafonds is een begrotingsfonds als bedoeld in [artikel 2.11, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.11).
 
 2. Onze Minister beheert het deltafonds.
 
-#### Artikel 7.22c
+##### Artikel 7.22c
 
 De ontvangsten van het deltafonds zijn:
 
@@ -1110,7 +1138,7 @@ De ontvangsten van het deltafonds zijn:
 
 - d. andere ontvangsten in het kader van het bereiken van de doelen van het deltafonds.
 
-#### Artikel 7.22d
+##### Artikel 7.22d
 
 1. Ten laste van het deltafonds komen de uitgaven ten behoeve van:
 
@@ -1160,7 +1188,7 @@ De ontvangsten van het deltafonds zijn:
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 6.5a
+##### Artikel 6.5a
 
 Vervallen
 
@@ -1673,7 +1701,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 | 227 |   | 1:3000 |
 | 228 | 1:3000 |   |
 
-#### Artikel 10.2a
+##### Artikel 10.2a
 
 Vervallen
 

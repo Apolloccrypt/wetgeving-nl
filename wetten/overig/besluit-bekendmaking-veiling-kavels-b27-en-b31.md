@@ -1,20 +1,46 @@
 ---
-title: "Besluit bekendmaking veiling kavels B27 en B31"
+title: "Besluit van de Minister van Economische Zaken van 6 september 2016, nr. WJZ/16132642, handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap inzake de keuze voor het instrument veiling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B27 en B31, de vaststelling van die ontwerp-vergunningen, en de vaststelling van de daaraan te koppelen ontwerp-vergunningen voor digitale radio-omroep"
 identifier: "BWBR0038505"
-categorie: "Overig"
-publicatiedatum: 2016-09-13
-laatste_update: 2016-09-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038505"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-09-13"
+last_updated: "2016-09-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038505"
+soort: "ministeriele-regeling"
+stam_id: "13749033"
+version_id: "23569372"
+internal_id: "C33929091"
+label_id: "13715394"
+dtd_version: "2.0"
+original_entry_into_force: "2016-09-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038505/2016-09-13/0"
+intitule_bron: "Stcrt.2016-47763"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-09-06"
+intitule_published: "2016-09-12"
+intitule_in_force: "2016-09-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-47763"
+original_signed_date: "2016-09-06"
+original_published_date: "2016-09-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-47763"
+entry_into_force_date: "2016-09-13"
+jci_1_3: "jci1.3:c:BWBR0038505&z=2016-09-13&g=2016-09-13"
+jci_1_0: "1.0:c:BWBR0038505&g=2016-09-13"
+citeertitel_status: "officieel"
+short_title: "Besluit bekendmaking veiling kavels B27 en B31"
+signed_date: "2016-09-06"
+entry_into_force: "2016-09-13"
 ---
-
 # Besluit van de Minister van Economische Zaken van 6 september 2016, nr. WJZ/16132642, handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap inzake de keuze voor het instrument veiling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B27 en B31, de vaststelling van die ontwerp-vergunningen, en de vaststelling van de daaraan te koppelen ontwerp-vergunningen voor digitale radio-omroep
 
 Gelet op [artikel 3.10, derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) en [artikel 17 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De vergunningen voor de niet-landelijke commerciële radio in de FM-band met de daaraan, voor zover nu reeds mogelijk, te verbinden voorschriften en beperkingen, genoemd in tabel 1, worden verleend met toepassing van een veiling, bedoeld in [artikel 3.10, eerste lid, aanhef en onderdeel f, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10).
 
@@ -23,23 +49,23 @@ De vergunningen voor de niet-landelijke commerciële radio in de FM-band met de 
 | **B27** | [1](https://wetten.overheid.nl/jci1.3:c:BWBR0038505&bijlage=1&z=2016-09-13&g=2016-09-13) |
 | **B31** | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0038505&bijlage=2&z=2016-09-13&g=2016-09-13) |
 
-#### Artikel 2
+##### Artikel 2
 
 De procedure van de veiling vangt aan op 15 september 2016.
 
-#### Artikel 3
+##### Artikel 3
 
 De vergunningen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038505&artikel=1&z=2016-09-13&g=2016-09-13), zijn nader bestemd voor niet-landelijke commerciële radio-omroep.
 
-#### Artikel 4
+##### Artikel 4
 
 De voorschriften en beperkingen behorende bij de aan de vergunningen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038505&artikel=1&z=2016-09-13&g=2016-09-13), te koppelen vergunningen voor digitale radio-omroep worden, voor zover dat nu reeds mogelijk is, vastgesteld in de [bijlagen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038505&bijlage=3&z=2016-09-13&g=2016-09-13) respectievelijk [4](https://wetten.overheid.nl/jci1.3:c:BWBR0038505&bijlage=5&z=2016-09-13&g=2016-09-13).
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit bekendmaking veiling kavels B27 en B31.
 

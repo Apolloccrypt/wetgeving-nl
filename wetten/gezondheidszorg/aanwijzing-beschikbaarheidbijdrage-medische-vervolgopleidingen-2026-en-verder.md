@@ -1,20 +1,46 @@
 ---
-title: "Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2026 en verder"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 10 december 2025, kenmerk 4315913-1091949-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen voor de jaren 2026 en verder"
 identifier: "BWBR0052165"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2025-12-17
-laatste_update: 2025-12-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052165"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-17"
+last_updated: "2025-12-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052165"
+soort: "ministeriele-regeling"
+stam_id: "17730443"
+version_id: "31289632"
+internal_id: "C44735781"
+label_id: "17628994"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052165/2025-12-17/0"
+intitule_bron: "Stcrt.2025-44257"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-10"
+intitule_published: "2025-12-17"
+intitule_in_force: "2025-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-44257"
+original_signed_date: "2025-12-10"
+original_published_date: "2025-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-44257"
+entry_into_force_date: "2025-12-17"
+jci_1_3: "jci1.3:c:BWBR0052165&z=2025-12-17&g=2025-12-17"
+jci_1_0: "1.0:c:BWBR0052165&g=2025-12-17"
+citeertitel_status: "redactioneel"
+short_title: "Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2026 en verder"
+signed_date: "2025-12-10"
+entry_into_force: "2025-12-17"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 10 december 2025, kenmerk 4315913-1091949-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de verstrekking van de beschikbaarheidbijdrage (medische) vervolgopleidingen voor de jaren 2026 en verder
 
 Gelet op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) en [artikel 57, eerste lid, sub e, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -38,19 +64,19 @@ In deze aanwijzing wordt verstaan onder:
 
 - h). **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3).
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Deze aanwijzing is van toepassing op activiteiten verricht in het kader van de opleidingen als bedoeld in [onderdeel B, aanhef, onder 1, sub a en b van de Bijlage](onbekend).
 
-#### Artikel 3. Verstrekken beschikbaarheidbijdrage
+##### Artikel 3. Verstrekken beschikbaarheidbijdrage
 
 De zorgautoriteit verstrekt jaarlijks een beschikbaarheidbijdrage voor activiteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052165&artikel=2&z=2025-12-17&g=2025-12-17) aan zorgaanbieders die een aanvraag indienen.
 
-#### Artikel 4. Verdeling instroomplaatsen
+##### Artikel 4. Verdeling instroomplaatsen
 
 De zorgautoriteit verdeelt de instroomplaatsen over zorgaanbieders rekening houdend met de maximale aantallen per opleiding, zoals opgenomen in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0052165&bijlage=A&z=2025-12-17&g=2025-12-17) bij deze aanwijzing.
 
-#### Artikel 5. Criteria verdeling instroomplaatsen
+##### Artikel 5. Criteria verdeling instroomplaatsen
 
 1. De zorgautoriteit houdt bij het verdelen van de medisch-specialistische instroomplaatsen1Onder B van de Bijlage behorende bij de artikelen 2 en 4 van het Besluit beschikbaarheidbijdrage WMG, onder 1.a, 1, 2 en 3. over de OOR’s een verdeling aan op basis van het criterium 100% adherentie alle instellingen (de basisverdeling). Dit houdt in dat bij de verdeling van de medisch-specialistische instroomplaatsen over de OOR’s wordt gekeken naar de omvang van de zorgvraag van de bevolking in het verzorgingsgebied voor alle instellingen binnen de OOR's. Om grote schommelingen in de instroomverdeling per OOR per jaar te voorkomen houdt de zorgautoriteit bij invulling van het criterium 100% adherentie alle instellingen rekening met:
 
@@ -72,11 +98,11 @@ Het criterium 100% adherentie alle instellingen met de aandachtspunten hierbij, 
 
 3. Bij het verdelen van instroomplaatsen betrekt de zorgautoriteit een inhoudelijk deskundig adviesorgaan.
 
-#### Artikel 6. Opdracht
+##### Artikel 6. Opdracht
 
 De zorgautoriteit stelt met ingang van 1 januari 2026 ter uitvoering van deze aanwijzing beleidsregels vast. Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.
 
-#### Artikel 7
+##### Artikel 7
 
 [Artikel 3 van de aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051197&artikel=3) (Stcrt. 2025, 23045) vervalt.
 

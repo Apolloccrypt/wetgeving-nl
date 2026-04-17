@@ -1,14 +1,42 @@
 ---
-title: "Wet fiscale arbitrage"
+title: "Wet van 10 juli 2019, houdende Invoering van een wettelijk mechanisme ten behoeve van de beslechting van belastinggeschillen tussen lidstaten van de Europese Unie (Wet fiscale arbitrage)"
 identifier: "BWBR0042409"
-categorie: "Overig"
-publicatiedatum: 2019-07-16
-laatste_update: 2019-07-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042409"
+country: "nl"
+rank: "wet"
+publication_date: "2019-07-16"
+last_updated: "2019-07-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042409"
+soort: "wet"
+stam_id: "15121893"
+version_id: "25925682"
+internal_id: "C36938801"
+label_id: "15070254"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042409/2019-07-16/0"
+intitule_bron: "Stb.2019-261"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-07-10"
+intitule_published: "2019-07-15"
+intitule_in_force: "2019-07-15"
+intitule_status: "goed"
+original_publication: "Stb.2019-261"
+original_signed_date: "2019-07-10"
+original_published_date: "2019-07-15"
+original_effect: "nieuwe-regeling"
+original_dossier: "35110"
+original_url_id: "stb-2019-261"
+entry_into_force_date: "2019-07-16"
+entry_into_force_dossier: "35110"
+jci_1_3: "jci1.3:c:BWBR0042409&z=2019-07-16&g=2019-07-16"
+jci_1_0: "1.0:c:BWBR0042409&g=2019-07-16"
+citeertitel_status: "officieel"
+short_title: "Wet fiscale arbitrage"
+signed_date: "2019-07-10"
+entry_into_force: "2019-07-16"
 ---
-
-# Wet fiscale arbitrage
+# Wet van 10 juli 2019, houdende Invoering van een wettelijk mechanisme ten behoeve van de beslechting van belastinggeschillen tussen lidstaten van de Europese Unie (Wet fiscale arbitrage)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 1. In deze wet en de daarop berustende bepalingen wordt, voor zover nodig in afwijking van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), verstaan onder:
 
@@ -58,7 +86,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 3. Op deze wet is de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) niet van toepassing.
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 1. De Nederlandse bevoegde autoriteit is Onze Minister.
 
@@ -68,7 +96,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 2. Klachtprocedure
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 1. Het indienen van een klacht en de daarbij te verstrekken gegevens en inlichtingen geschiedt tegelijkertijd bij Onze Minister en de andere bevoegde autoriteit.
 
@@ -80,7 +108,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 5. Bij de bevestiging van ontvangst van de klacht stelt Onze Minister de andere bevoegde autoriteit in kennis van de taal of talen waarin hij wil communiceren.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 De klacht wordt alleen aanvaard indien de belanghebbende de volgende gegevens en inlichtingen verstrekt:
 
@@ -114,17 +142,17 @@ De klacht wordt alleen aanvaard indien de belanghebbende de volgende gegevens en
 
 - i. alle door Onze Minister en de andere bevoegde autoriteit gevraagde specifieke aanvullende gegevens en inlichtingen die noodzakelijk worden geacht voor een grondig onderzoek van de zaak in kwestie.
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 1. Bij toepassing van [artikel 2.2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0042409&hoofdstuk=2&artikel=2.2&z=2019-07-16&g=2019-07-16), kan Onze Minister binnen drie maanden na ontvangst van de klacht de belanghebbende verzoeken om specifieke aanvullende gegevens en inlichtingen die noodzakelijk worden geacht voor een grondig onderzoek van de zaak in kwestie.
 
 2. De belanghebbende verstrekt binnen drie maanden na ontvangst van het verzoek alle gevraagde gegevens en inlichtingen aan Onze Minister. De belanghebbende zendt tegelijkertijd een afschrift van deze gegevens en inlichtingen toe aan de andere bevoegde autoriteit.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 De bij Onze Minister ingediende klacht en de daarbij behorende gegevens en inlichtingen, bedoeld in de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0042409&hoofdstuk=2&artikel=2.2&z=2019-07-16&g=2019-07-16) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0042409&hoofdstuk=2&artikel=2.3&z=2019-07-16&g=2019-07-16), worden in de Nederlandse of Engelse taal gesteld.
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 1. Onze Minister neemt binnen zes maanden een besluit over aanvaarding of afwijzing van de klacht. Deze termijn vangt aan met ingang van de dag van ontvangst van de klacht door Onze Minister of, bij toepassing van [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0042409&hoofdstuk=2&artikel=2.3&z=2019-07-16&g=2019-07-16), binnen zes maanden na de dag van ontvangst van de verzochte gegevens en inlichtingen. De belanghebbende en de andere bevoegde autoriteit worden onverwijld schriftelijk in kennis gesteld van het besluit van Onze Minister. Geen beroep kan worden ingesteld tegen een besluit over aanvaarding of afwijzing van de klacht.
 
@@ -140,7 +168,7 @@ De bij Onze Minister ingediende klacht en de daarbij behorende gegevens en inlic
 
 7. Indien de belanghebbende bezwaar of beroep heeft ingesteld tegen een ingevolge de belastingwet genomen besluit als bedoeld in [artikel 26, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26) dat betrekking heeft op het geschilpunt of een rechtsmiddel heeft ingesteld tegen een besluit van gelijke strekking in de lidstaat van de andere bevoegde autoriteit, vangt de termijn, bedoeld in het eerste lid, aan met ingang van de dag waarop de beslissing in die procedure onherroepelijk is geworden of die procedurehandelingen anderszins definitief zijn gesloten dan wel zijn opgeschort.
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 1. In afwijking van [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042409&hoofdstuk=2&artikel=2.5&z=2019-07-16&g=2019-07-16), is de afwijzing van de klacht door Onze Minister een voor bezwaar vatbare beschikking als bedoeld in [artikel 26 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26) waarop [hoofdstuk V, afdeling 2, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=2) van overeenkomstige toepassing is, indien de klacht door Onze Minister en door de andere bevoegde autoriteit is afgewezen.
 
@@ -150,7 +178,7 @@ De bij Onze Minister ingediende klacht en de daarbij behorende gegevens en inlic
 
 4. Bij toepassing van [artikel 4.1, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042409&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2019-07-16&g=2019-07-16), vervangt het eindoordeel in de procedure, bedoeld in het eerste lid, het door Onze Minister genomen besluit tot afwijzing van de klacht.
 
-#### Artikel 2.7
+##### Artikel 2.7
 
 1. In afwijking van [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042409&hoofdstuk=2&artikel=2.1&z=2019-07-16&g=2019-07-16), kan de belanghebbende de klacht, de gegevens en inlichtingen, intrekkingen en andere verzoeken uitsluitend indienen bij Onze Minister indien hij:
 
@@ -162,13 +190,13 @@ De bij Onze Minister ingediende klacht en de daarbij behorende gegevens en inlic
 
 3. Indien gegevens en inlichtingen worden ontvangen uit hoofde van de [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0042409&hoofdstuk=2&artikel=2.3&z=2019-07-16&g=2019-07-16) en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0042409&hoofdstuk=3&artikel=3.3&z=2019-07-16&g=2019-07-16), zendt Onze Minister een afschrift daarvan toe aan de andere bevoegde autoriteit. Zodra dit afschrift is toegezonden, worden de aanvullende gegevens en inlichtingen geacht door alle bevoegde autoriteiten te zijn ontvangen op de dag waarop de ontvangst door Onze Minister heeft plaatsgevonden.
 
-#### Artikel 2.8
+##### Artikel 2.8
 
 Het indienen van een klacht maakt een einde aan andere aanhangige procedures voor onderling overleg of geschilbeslechtingsprocedures uit hoofde van een overeenkomst die of een verdrag dat wordt uitgelegd of toegepast in verband met het betreffende geschilpunt. Deze aanhangige procedures worden beëindigd met ingang van de dag van de eerste ontvangst van de klacht door Onze Minister of de andere bevoegde autoriteit.
 
 ### Hoofdstuk 3. Procedure voor onderling overleg
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 1. Indien Onze Minister en de andere bevoegde autoriteit de klacht aanvaarden, spannen zij zich in om binnen een termijn van twee jaar het geschilpunt in onderling overleg te beslechten.
 
@@ -182,13 +210,13 @@ Het indienen van een klacht maakt een einde aan andere aanhangige procedures voo
 
 6. Indien de belanghebbende bezwaar of beroep heeft ingesteld tegen een ingevolge de belastingwet genomen besluit als bedoeld in [artikel 26, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26) dat betrekking heeft op het geschilpunt of een rechtsmiddel heeft ingesteld tegen een besluit van gelijke strekking in de lidstaat van de andere bevoegde autoriteit, vangt de termijn voor het beslechten van het geschilpunt in onderling overleg aan op de dag waarop de beslissing in die procedure onherroepelijk is geworden of die procedurehandelingen anderszins definitief zijn gesloten dan wel zijn opgeschort.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 1. Bij de kennisgeving, bedoeld in [artikel 3.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042409&hoofdstuk=3&artikel=3.1&z=2019-07-16&g=2019-07-16), verstrekt Onze Minister aan de belanghebbende een vaststellingsovereenkomst als bedoeld in [artikel 900 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=900) die bindende en afdwingbare voorwaarden over de definitieve beslechting van het geschilpunt bevat. Deze vaststellingsovereenkomst kan in overleg met de belanghebbende worden gewijzigd.
 
 2. De vaststellingsovereenkomst omvat in ieder geval een verklaring van de belanghebbende dat hij de overeenstemming over de beslechting van het geschilpunt, bedoeld in [artikel 3.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042409&hoofdstuk=3&artikel=3.1&z=2019-07-16&g=2019-07-16), aanvaardt en dat hij afziet van Nederlandse rechtsmiddelen met betrekking tot het geschilpunt of onderdelen daarvan. Indien er reeds procedurehandelingen met betrekking tot Nederlandse rechtsmiddelen waren begonnen, omvat de vaststellingsovereenkomst de ontbindende voorwaarde dat de belanghebbende uiterlijk binnen zestig dagen na het sluiten van de vaststellingsovereenkomst aan Onze Minister gegevens en inlichtingen verstrekt die aannemelijk maken dat de procedurehandelingen worden beëindigd.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 1. Tijdens de procedure voor onderling overleg kan Onze Minister de belanghebbende verzoeken om gegevens en inlichtingen te verstrekken die voor de beslechting van het geschilpunt van belang kunnen zijn. De belanghebbende zendt tegelijkertijd een afschrift van deze gegevens en inlichtingen toe aan de andere bevoegde autoriteit.
 
@@ -198,7 +226,7 @@ Het indienen van een klacht maakt een einde aan andere aanhangige procedures voo
 
 #### Paragraaf 4.1. Instelling en vorming van de arbitragecommissie
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 1. Op schriftelijk verzoek van de belanghebbende aan Onze Minister en de andere bevoegde autoriteit wordt een arbitragecommissie ingesteld indien:
 
@@ -220,7 +248,7 @@ Het indienen van een klacht maakt een einde aan andere aanhangige procedures voo
 
 5. De arbitragecommissie wordt uiterlijk binnen 120 dagen na de dag van ontvangst van het verzoek, bedoeld in het eerste lid, ingesteld. De voorzitter van de arbitragecommissie stelt de belanghebbende onverwijld schriftelijk in kennis van de instelling van de arbitragecommissie.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 1. Een belanghebbende kan zich in Nederland wenden tot de voorzieningenrechter van de rechtbank ingeval de arbitragecommissie niet is ingesteld binnen de termijn, bedoeld in [artikel 4.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042409&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2019-07-16&g=2019-07-16). De voorzieningenrechter van de rechtbank is bevoegd om de arbitragecommissie in te stellen.
 
@@ -238,7 +266,7 @@ Het indienen van een klacht maakt een einde aan andere aanhangige procedures voo
 
 8. De bevoegde voorzieningenrechter van de rechtbank stelt Onze Minister in kennis van de benoemde onafhankelijke personen.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 1. De arbitragecommissie bestaat uit:
 
@@ -276,7 +304,7 @@ Het indienen van een klacht maakt een einde aan andere aanhangige procedures voo
 
 10. De arbitragecommissie voor alternatieve geschilbeslechting kan met betrekking tot de vorm en de samenstelling verschillen van de raadgevende commissie. De eerste zin geldt niet voor hetgeen bepaald is in het vijfde, zesde en zevende lid inzake de onafhankelijkheid van de leden van de arbitragecommissie.
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 1. De lijst van vooraanstaande onafhankelijke personen bestaat uit alle door de lidstaten benoemde vooraanstaande onafhankelijke personen. Onze Minister benoemt daartoe ten minste drie personen die zowel bekwaam en onafhankelijk zijn als in staat zijn onpartijdig en integer te handelen.
 
@@ -290,7 +318,7 @@ Het indienen van een klacht maakt een einde aan andere aanhangige procedures voo
 
 #### Paragraaf 4.2. Werkingsregels en informatieplicht
 
-#### Artikel 4.5
+##### Artikel 4.5
 
 1. Onze Minister en de andere bevoegde autoriteit komen de werkingsregels van de arbitragecommissie overeen.
 
@@ -326,7 +354,7 @@ Het indienen van een klacht maakt een einde aan andere aanhangige procedures voo
 
 7. Ingeval de vooraanstaande onafhankelijke personen en de voorzitter van de arbitragecommissie geen overeenstemming hebben bereikt over de werkingsregels of de belanghebbende daarvan niet in kennis hebben gesteld, kan de belanghebbende zich in Nederland wenden tot de voorzieningenrechter van de rechtbank of een gerechtelijke procedure instellen in de andere betrokken lidstaat om de werkingsregels te verkrijgen.
 
-#### Artikel 4.6
+##### Artikel 4.6
 
 1. Onze Minister en de andere bevoegde autoriteit kunnen overeenkomen dat de belanghebbende aan de arbitragecommissie alle inlichtingen, bewijsmiddelen en stukken verschaft die van dienst kunnen zijn om tot een besluit of advies te komen.
 
@@ -348,7 +376,7 @@ Het indienen van een klacht maakt een einde aan andere aanhangige procedures voo
 
 #### Paragraaf 4.3. Advies van de arbitragecommissie en eindbesluiten
 
-#### Artikel 4.7
+##### Artikel 4.7
 
 1. Indien de arbitragecommissie op grond van [artikel 4.1, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042409&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2019-07-16&g=2019-07-16), is ingesteld, neemt zij binnen zes maanden na de dag van instelling een besluit met betrekking tot de aanvaarding van de klacht. Geen beroep kan worden ingesteld tegen dit besluit over aanvaarding van de klacht.
 
@@ -360,7 +388,7 @@ Het indienen van een klacht maakt een einde aan andere aanhangige procedures voo
 
 5. Indien Onze Minister of de andere bevoegde autoriteit niet binnen een termijn van zestig dagen na de dagtekening van het besluit van de arbitragecommissie dat de klacht wordt aanvaard, heeft verzocht om de procedure voor onderling overleg te starten, brengt de arbitragecommissie op de voet van [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0042409&hoofdstuk=4&paragraaf=4.3&artikel=4.8&z=2019-07-16&g=2019-07-16) advies uit over de beslechting van het geschilpunt. In dat geval wordt voor de toepassing van artikel 4.8 de arbitragecommissie geacht te zijn ingesteld met ingang van de dag waarop de termijn van zestig dagen verstrijkt.
 
-#### Artikel 4.8
+##### Artikel 4.8
 
 1. Indien de arbitragecommissie op grond van [artikel 4.1, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042409&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2019-07-16&g=2019-07-16), is ingesteld, brengt zij uiterlijk zes maanden na de dag waarop zij is ingesteld schriftelijke advies uit aan Onze Minister en de andere bevoegde autoriteit over de beslechting van het geschilpunt.
 
@@ -372,7 +400,7 @@ Het indienen van een klacht maakt een einde aan andere aanhangige procedures voo
 
 5. Een arbitragecommissie voor alternatieve geschilbeslechting kan, waar passend, elke door Onze Minister en de andere bevoegde autoriteit overeengekomen geschilbeslechtingsprocedure of geschilbeslechtingstechniek toepassen om het geschilpunt op bindende wijze op te lossen.
 
-#### Artikel 4.9
+##### Artikel 4.9
 
 1. Binnen een termijn van zes maanden na de dag van ontvangst van het advies van de arbitragecommissie bereiken Onze Minister en de andere bevoegde autoriteiten overeenstemming over de beslechting van het geschilpunt.
 
@@ -392,7 +420,7 @@ Het indienen van een klacht maakt een einde aan andere aanhangige procedures voo
 
 #### Paragraaf 4.4. Kosten van de arbitragecommissie
 
-#### Artikel 4.10
+##### Artikel 4.10
 
 1. De kosten van een arbitragecommissie worden gelijkelijk over de lidstaten verdeeld.
 
@@ -414,19 +442,19 @@ Het indienen van een klacht maakt een einde aan andere aanhangige procedures voo
 
 ### Hoofdstuk 5. Wisselwerking met andere procedures
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 1. Het onherroepelijk vaststaan van een ingevolge de belastingwet genomen besluit als bedoeld in [artikel 26, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26) dat betrekking heeft op het geschilpunt belet de belanghebbende niet gebruik te maken van de procedures waarin deze wet voorziet.
 
 2. Het feit dat het geschilpunt voorwerp is van onderling overleg of heeft geleid tot het instellen van een arbitragecommissie op grond van deze wet belet overheidsorganisaties niet om met betrekking tot hetzelfde geschilpunt gerechtelijke procedures of procedures met het oog op de toepassing van bestuurlijke en strafrechtelijke sancties in te stellen of voort te zetten.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 1. Onze Minister kan toegang tot de arbitragecommissie weigeren indien een straf op grond van strafbare feiten als bedoeld in de [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=68) en [69 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69) met betrekking tot door de inspecteur gecorrigeerde belastbare inkomsten onherroepelijk is geworden en deze straf in direct verband staat met het geschilpunt. Geen beroep kan worden ingesteld tegen het besluit om toegang tot de arbitragecommissie te weigeren.
 
 2. Onze Minister kan de procedures, bedoeld in deze wet, schorsen met ingang van de dag van aanvaarding van de klacht tot de dag van het uiteindelijke vonnis van de procedure die aanleiding kan geven tot een straf als bedoeld in het eerste lid, die gelijktijdig met een van de procedures, bedoeld in deze wet, wordt gevoerd. Geen beroep kan worden ingesteld tegen het besluit om procedures, bedoeld in deze wet, te schorsen.
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 Indien een gerechtelijke instantie in de lidstaat van de andere bevoegde autoriteit een beslissing over een geschilpunt heeft genomen en het nationale recht van die lidstaat niet toestaat af te wijken van deze beslissing, kan deze lidstaat bepalen dat:
 
@@ -438,7 +466,7 @@ Indien een gerechtelijke instantie in de lidstaat van de andere bevoegde autorit
 
 ### Hoofdstuk 6. Wijziging belastingheffing
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 1. Indien de vaststellingsovereenkomst, bedoeld in de [artikelen 2.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042409&hoofdstuk=2&artikel=2.5&z=2019-07-16&g=2019-07-16), [3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042409&hoofdstuk=3&artikel=3.2&z=2019-07-16&g=2019-07-16), en [4.9, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042409&hoofdstuk=4&paragraaf=4.3&artikel=4.9&z=2019-07-16&g=2019-07-16), verplicht tot verhoging of vermindering van belastingheffing, stelt de inspecteur de belastingschuld vast met toepassing van de voor de uitvoering van de betreffende belastingwet geldende regels. Bepalingen van de belastingwet en de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) ter zake van verjaringstermijnen en bijbehorende voorwaarden zijn niet van toepassing.
 
@@ -446,11 +474,11 @@ Indien een gerechtelijke instantie in de lidstaat van de andere bevoegde autorit
 
 ### Hoofdstuk 7. Geheimhouding en openbaarmaking
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 Op gegevens en inlichtingen die door Onze Minister of diens bevoegde vertegenwoordigers in het kader van de uitvoering van deze wet zijn verkregen is de verplichting tot geheimhouding, bedoeld in [artikel 67 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67), van overeenkomstige toepassing.
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 1. Onze Minister sluit met de voorzitter en de vooraanstaande onafhankelijke personen van de arbitragecommissie een overeenkomst met betrekking tot de plicht tot geheimhouding. Deze overeenkomst bevat een bepaling inzake een sanctie bij overtreding van de plicht tot geheimhouding.
 
@@ -462,7 +490,7 @@ Op gegevens en inlichtingen die door Onze Minister of diens bevoegde vertegenwoo
 
 5. Bij de instelling van een arbitragecommissie voor alternatieve geschilbeslechting kan in de werkingsregels van dit artikel worden afgeweken.
 
-#### Artikel 7.3
+##### Artikel 7.3
 
 1. De arbitragecommissie brengt haar adviezen schriftelijk uit aan Onze Minister en de andere bevoegde autoriteit.
 
@@ -476,7 +504,7 @@ Op gegevens en inlichtingen die door Onze Minister of diens bevoegde vertegenwoo
 
 ### Hoofdstuk 8. Overgangsrecht
 
-#### Artikel 8.1
+##### Artikel 8.1
 
 1. Deze wet is van toepassing op elke klacht die wordt ingediend vanaf 1 juli 2019 inzake geschilpunten die betrekking hebben op inkomsten of vermogen verkregen in een belastingjaar dat begint op of na 1 januari 2018.
 
@@ -484,11 +512,11 @@ Op gegevens en inlichtingen die door Onze Minister of diens bevoegde vertegenwoo
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 9.1
+##### Artikel 9.1
 
 Deze wet treedt in werking met ingang van 30 juni 2019. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 29 juni 2019, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-#### Artikel 9.2
+##### Artikel 9.2
 
 Deze wet wordt aangehaald als: Wet fiscale arbitrage.
 

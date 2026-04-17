@@ -1,13 +1,39 @@
 ---
-title: "Regeling toepasselijkheid beleid onder de Mediawet 2008"
+title: "Tijdelijke regeling van het Commissariaat voor de Media van 13 januari 2009 houdende beleidsregels omtrent toepasselijkheid van de beleidsregels van het Commissariaat voor de Media in verband met de inwerkingtreding van de Mediawet 2008 (Regeling toepasselijkheid beleid onder de Mediawet 2008)"
 identifier: "BWBR0025205"
-categorie: "Overig"
-publicatiedatum: 2009-01-21
-laatste_update: 2009-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025205"
+country: "nl"
+rank: "zbo"
+publication_date: "2009-01-21"
+last_updated: "2009-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025205"
+soort: "zbo"
+stam_id: "9884883"
+version_id: "16100802"
+internal_id: "C22091991"
+label_id: "9861304"
+dtd_version: "2.0"
+original_entry_into_force: "2009-01-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025205/2009-01-21/0"
+intitule_bron: "Stcrt.2009-13"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-01-13"
+intitule_published: "2009-01-21"
+intitule_in_force: "2009-01-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-13"
+original_signed_date: "2009-01-13"
+original_published_date: "2009-01-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-935"
+entry_into_force_date: "2009-01-21"
+jci_1_3: "jci1.3:c:BWBR0025205&z=2009-01-21&g=2009-01-21"
+jci_1_0: "1.0:c:BWBR0025205&g=2009-01-21"
+citeertitel_status: "officieel"
+short_title: "Regeling toepasselijkheid beleid onder de Mediawet 2008"
+signed_date: "2009-01-13"
+entry_into_force: "2009-01-21"
 ---
-
 # Tijdelijke regeling van het Commissariaat voor de Media van 13 januari 2009 houdende beleidsregels omtrent toepasselijkheid van de beleidsregels van het Commissariaat voor de Media in verband met de inwerkingtreding van de Mediawet 2008 (Regeling toepasselijkheid beleid onder de Mediawet 2008)
 
 Gelet op de [artikelen 7:11](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.11) en [7:12 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.12);
@@ -30,11 +56,11 @@ dat het om die reden noodzakelijk is een tijdelijke maatregel te treffen om de h
 
 Besluit vast te stellen:
 
-#### Artikel 1. Strekking van de regeling
+##### Artikel 1. Strekking van de regeling
 
 Deze regeling strekt ertoe alle bestaande regelingen en schriftelijk vastgelegd beleid, voor zover relevant, toepasselijk te verklaren onder het regime van de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028) en het [Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036).
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -44,13 +70,13 @@ In deze regeling wordt verstaan onder:
 
 - c. **het Commissariaat:** het Commissariaat voor de Media.
 
-#### Artikel 3. Toepasselijkheid regelingen Commissariaat
+##### Artikel 3. Toepasselijkheid regelingen Commissariaat
 
 1. Na inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028) en het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025036) berusten alle in de bijlage opgenomen regelingen op de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028), respectievelijk het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025036), onverminderd het bepaalde in [titel 9.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&titeldeel=9.1).
 
 2. Na inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028) en het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025036) berust het overige beleid, waaronder beleidsbrieven, voor zover relevant op de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028), respectievelijk het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025036), onverminderd het bepaalde in [titel 9.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&titeldeel=9.1).
 
-#### Artikel 4. Wetsconforme interpretatie
+##### Artikel 4. Wetsconforme interpretatie
 
 1. De bepalingen van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028) en het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025036) treden in de plaats van de in de regelingen of beleidsbrieven genoemde bepalingen van de [Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149), respectievelijk van het [Mediabesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004237) voor zover mogelijk en relevant overeenkomstig de transponeringstabellen zoals deze zijn opgenomen in de Memorie van Toelichting (Kamerstukken II 2007/08, 31 356, nr. 3) en het Gewijzigd voorstel van wet (Kamerstukken I, 2007/08, 31 356, A), alsmede in het [Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036) (Staatsblad 2008, 584).
 
@@ -62,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 5. Indien een regeling of beleidsbrief of een deel daarvan in strijd is met de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028), worden die regeling, beleidsbrief respectievelijk het betreffende deel in overeenstemming met de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028) toegepast en blijven zij voor het overige buiten toepassing.
 
-#### Artikel 5. Slotbepaling
+##### Artikel 5. Slotbepaling
 
 1. Deze regeling treedt met terugwerkende kracht in werking met ingang van 1 januari 2009.
 

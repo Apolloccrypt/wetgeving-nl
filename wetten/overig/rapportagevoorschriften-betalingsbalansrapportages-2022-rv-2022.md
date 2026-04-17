@@ -1,13 +1,38 @@
 ---
 title: "Rapportagevoorschriften betalingsbalansrapportages 2022 (RV 2022)"
 identifier: "BWBR0045658"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045658"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045658"
+soort: "zbo"
+stam_id: "16089403"
+version_id: "28048682"
+internal_id: "C39560501"
+label_id: "16020724"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045658/2026-01-01/0"
+intitule_bron: "Stcrt.2021-42097"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-09-21"
+intitule_published: "2021-09-30"
+intitule_in_force: "2021-09-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-42097"
+original_signed_date: "2021-09-21"
+original_published_date: "2021-09-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-42097"
+entry_into_force_date: "2022-01-01"
+jci_1_3: "jci1.3:c:BWBR0045658&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0045658&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2021-09-21"
+entry_into_force: "2022-01-01"
 ---
-
 # Rapportagevoorschriften betalingsbalansrapportages 2022 (RV 2022)
 
 Gelet op [artikel 7 van de Wet financiële betrekkingen buitenland 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006547&artikel=7) (Stb. 1994, 258);
@@ -16,7 +41,7 @@ Besluit:
 
 #### Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -70,7 +95,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Aanwijzing rapporteurs
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Bank wijst de ingezetenen aan die voor de samenstelling van de betalingsbalans van Nederland aan de Bank dienen te rapporteren.
 
@@ -78,7 +103,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Rapportageprofielen en inhoud van de rapportageverplichtingen
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Bank bepaalt volgens welk(e) profiel(en), aangewezen rapporteurs rapporteren. Rapporteurs kunnen hierbij een verschillend profiel, dan wel verschillende profielen, voor MESRAP, MER en de CFI-benchmark toegewezen krijgen. Voor wat betreft de inhoud van de profielen wordt verwezen naar de rapportageformulieren en toelichtingen die de Bank aan de rapporteur ter beschikking stelt.
 
@@ -129,7 +154,7 @@ TURN = Turnover licenses and goods
 
 #### Verstrekking van inlichtingen en gegevens aan de Bank
 
-#### Artikel 4
+##### Artikel 4
 
 1. Ingezetenen die zijn aangewezen als rapporteur zijn verplicht binnen een door de Bank te stellen termijn de volgende inlichtingen en gegevens aan de Bank te verstrekken:
 
@@ -151,7 +176,7 @@ TURN = Turnover licenses and goods
 
 #### Meldingsplicht Bijzondere Financiële Instellingen, Beleggingsfondsen en FVC’s
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bijzondere Financiële Instellingen melden zich niet later dan drie weken na oprichting van de vennootschap schriftelijk bij de Bank, opdat de Bank kan beoordelen of de Bijzondere Financiële Instellingen als rapporteur worden aangewezen.
 
@@ -169,7 +194,7 @@ TURN = Turnover licenses and goods
 
 #### Frequenties en termijnen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Rapporteurs dienen rapportages met het MER-profiel en het MESRAP-profiel IFM op maandbasis in bij de Bank.
 
@@ -189,13 +214,13 @@ TURN = Turnover licenses and goods
 
 #### Bewaringstermijnen rapportages
 
-#### Artikel 7
+##### Artikel 7
 
 1. Rapporteurs dienen de rapportages over het lopende kalenderjaar en minimaal drie 3 jaar daarvoor te bewaren, tenzij zij gebruik maken van de mogelijkheid om rapportages voor de genoemde duur op te slaan binnen het portal van DNB.
 
 #### Gecentraliseerde rapportage
 
-#### Artikel 8
+##### Artikel 8
 
 1. Op aanwijzing van de Bank zal een rapporteur namens meerdere rapporteurs een gecentraliseerde rapportage opstellen en bij de Bank aanleveren.
 
@@ -213,7 +238,7 @@ TURN = Turnover licenses and goods
 
 #### Het aanstellen van een vertegenwoordiger
 
-#### Artikel 9
+##### Artikel 9
 
 1. Rapporteurs kunnen een vertegenwoordiger aanstellen via eHerkenning, die namens hen de gehele, al dan niet gecentraliseerde, rapportage opstelt en aan de Bank verstrekt.
 
@@ -221,25 +246,25 @@ TURN = Turnover licenses and goods
 
 #### Rapportageverplichtingen voor kredietinstellingen
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Bank kan aan kredietinstellingen op maandelijkse en jaarlijkse basis aanvullende inlichtingen en gegevens vragen over buitenlandse activa en passiva. De kredietinstellingen houden zich bij het verstrekken van de aanvullende inlichtingen en gegevens aan de door de Bank te stellen termijnen.
 
 #### Verstrekking van nadere inlichtingen aan de Bank
 
-#### Artikel 11
+##### Artikel 11
 
 Rapporteurs verstrekken op verzoek van de Bank onverwijld of binnen door de Bank te stellen termijnen nadere inlichtingen en gegevens.
 
 #### Afwijkende rapportagevoorschriften
 
-#### Artikel 12
+##### Artikel 12
 
 In afwijking van deze regeling kan de Bank met rapporteurs een andere wijze van rapporteren overeenkomen.
 
 #### Wijze van indiening van de rapportages
 
-#### Artikel 13
+##### Artikel 13
 
 1. Rapporteurs zijn verplicht rapportages via een door de Bank aangewezen portal aan te leveren bij de Bank.
 
@@ -255,21 +280,21 @@ E-mailadres CFI-benchmark: benchmark@dnb.nl
 
 #### Overgangsregeling
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
 #### Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 De Rapportagevoorschriften buitenlands betalingsverkeer 2003 (RV 2003) zijn per 1 januari 2022 ingetrokken.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze rapportagevoorschriften treden in werking met ingang van 1 januari 2022.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangehaald als: Rapportagevoorschriften betalingsbalansrapportages 2022 (RV 2022).
 

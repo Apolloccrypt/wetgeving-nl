@@ -1,24 +1,48 @@
 ---
 title: "Regeling specifieke uitkering Incodelta Zuid-Nederland"
 identifier: "BWBR0013068"
-categorie: "Sociaal recht"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013068"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013068"
+soort: "ministeriele-regeling"
+stam_id: "4176723"
+version_id: "5929562"
+internal_id: "C6132401"
+label_id: "4155604"
+dtd_version: "2.0"
+original_entry_into_force: "2001-12-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013068/2002-01-01/0"
+intitule_bron: "Stcrt.2001-239"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-12-03"
+intitule_published: "2001-12-10"
+intitule_in_force: "2001-12-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-239"
+original_signed_date: "2001-12-03"
+original_published_date: "2001-12-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-12-12"
+jci_1_3: "jci1.3:c:BWBR0013068&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0013068&g=2002-01-01"
+citeertitel_status: "officieel"
+signed_date: "2001-12-03"
+entry_into_force: "2001-12-12"
 ---
-
 # Regeling specifieke uitkering Incodelta Zuid-Nederland
 
 Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan de zuidelijke provincies wordt een specifieke uitkering verstrekt voor de uitvoering van Incodelta Zuid-Nederland, de communicatie hierover en de instandhouding van de projectorganisatie.
 
@@ -52,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 - c. het bedrijfsleven.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De uitkering ten behoeve van Incodelta Zuid-Nederland door de minister bedraagt maximaal € 673.110,40.
 
@@ -64,13 +88,13 @@ In deze regeling wordt verstaan onder:
 
 5. Alleen uitgaven die zijn verricht na publicatie van deze regeling in de Staatscourant komen in aanmerking voor een vergoeding krachtens deze regeling.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Binnen vier weken na de bekendmaking van deze regeling wordt op grond van aantoonbare kasbehoefte een maximumvoorschot betaald ter grootte van f 1.188.000,-.
 
 2. De betaling van het voorschot vindt plaats aan de provincie Limburg en wordt overgemaakt aan deze provincie.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De provincie Limburg legt aan de minister over:
 
@@ -94,7 +118,7 @@ In deze regeling wordt verstaan onder:
 
 6. De [artikelen 4:46, met uitzondering van het tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), en [4:49 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) zijn van overeenkomstige toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De uitkering wordt overeenkomstig de vaststelling betaald, onder verrekening van het betaalde voorschot.
 
@@ -102,23 +126,23 @@ In deze regeling wordt verstaan onder:
 
 3. De betaling vindt plaats aan de provincie Limburg en wordt overgemaakt aan deze provincie.
 
-#### Artikel 7
+##### Artikel 7
 
 1. [Artikel 4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) is van overeenkomstige toepassing.
 
 2. In geval van terugvordering als bedoeld in [artikel 4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) wordt het onverschuldigde bedrag dan wel voorschot binnen 8 weken na de vaststelling van de uitkering, wijziging of intrekking daarvan terugbetaald.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het in artikel 3, eerste lid, genoemde bedrag van ‘f 1.483.340,-' wordt met ingang van 1 januari 2002 vervangen door: € 673.110,40.
 
 2. Het in artikel 3, tweede lid, genoemde bedrag van ‘f 1.850.000,-' wordt met ingang van 1 januari 2002 vervangen door: € 839.493,40.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering Incodelta Zuid-Nederland.
 

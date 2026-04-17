@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling Innovatieprogramma Onderwijshuisvesting"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 13 december 2024, nr. OVO/49358107, houdende regels voor de subsidieverstrekking ten behoeve van het uitvoeren van het Innovatieprogramma Onderwijshuisvesting (Subsidieregeling Innovatieprogramma Onderwijshuisvesting)"
 identifier: "BWBR0050569"
-categorie: "Onderwijs"
-publicatiedatum: 2025-11-26
-laatste_update: 2025-11-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050569"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-26"
+last_updated: "2025-11-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050569"
+soort: "ministeriele-regeling"
+stam_id: "17311523"
+version_id: "30701712"
+internal_id: "C44008841"
+label_id: "17215594"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050569/2025-11-26/0"
+intitule_bron: "Stcrt.2024-42099"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-13"
+intitule_published: "2024-12-19"
+intitule_in_force: "2024-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-14155"
+original_signed_date: "2025-04-14"
+original_published_date: "2025-04-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-14155"
+entry_into_force_date: "2025-04-14"
+jci_1_3: "jci1.3:c:BWBR0050569&z=2025-11-26&g=2025-11-26"
+jci_1_0: "1.0:c:BWBR0050569&g=2025-11-26"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Innovatieprogramma Onderwijshuisvesting"
+signed_date: "2025-04-14"
+entry_into_force: "2025-04-14"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 13 december 2024, nr. OVO/49358107, houdende regels voor de subsidieverstrekking ten behoeve van het uitvoeren van het Innovatieprogramma Onderwijshuisvesting (Subsidieregeling Innovatieprogramma Onderwijshuisvesting)
 
 Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1),
 
 Besluit:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
@@ -94,15 +120,15 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doelstelling van de regeling
+##### Artikel 3. Doelstelling van de regeling
 
 Deze regeling is onderdeel van het Innovatieprogramma Onderwijshuisvesting waarin vanuit thematische leerlabs op basis van een lerende, monitorende en onderzoekende opzet binnen bouwprojecten kennis wordt ontwikkeld over innovatievraagstukken met als doel het sneller en kostenefficiënter realiseren van toekomstbestendige schoolgebouwen die hoog presteren op het gebied van duurzaamheid, gezond binnenklimaat, adaptiviteit en inclusie. Met deze regeling wordt door middel van subsidieverstrekking bijgedragen aan deze doelstelling.
 
-#### Artikel 4. In aanmerking komende kosten
+##### Artikel 4. In aanmerking komende kosten
 
 1. De minister kan op aanvraag van een bevoegd gezag subsidie verstrekken voor de deelname aan een leerlab, voor activiteiten die kunnen bijdragen aan de realisatie van de doelstelling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=3&z=2025-11-26&g=2025-11-26). Daarbij komen de volgende kosten voor subsidie in aanmerking:
 
@@ -126,7 +152,7 @@ Deze regeling is onderdeel van het Innovatieprogramma Onderwijshuisvesting waari
 
 - d. voor reguliere kosten voor voorzieningen in de onderwijshuisvesting als bedoeld [artikel 92 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=92), [artikel 6.2 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=6.2) of [artikel 90 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=90).
 
-#### Artikel 5. Aanvraag van de subsidie
+##### Artikel 5. Aanvraag van de subsidie
 
 1. Een aanvraag voor een subsidie heeft betrekking op één bouwproject.
 
@@ -182,7 +208,7 @@ Deze regeling is onderdeel van het Innovatieprogramma Onderwijshuisvesting waari
 
 10. Aanvragen die buiten het aanvraagtijdvak worden ingediend, worden afgewezen.
 
-#### Artikel 6. Voorwaarden
+##### Artikel 6. Voorwaarden
 
 1. Het bevoegd gezag voert voorafgaand aan de subsidieaanvraag een verkennend gesprek met het programmabureau, met als doel de ontwikkelvraag van het bouwproject te concretiseren en te verkennen bij welk leerlab het bouwproject het beste zou kunnen aansluiten.
 
@@ -198,7 +224,7 @@ Deze regeling is onderdeel van het Innovatieprogramma Onderwijshuisvesting waari
 
 7. Een bouwproject dat gericht is op nieuwbouw of renovatie ten behoeve van een nieuw te stichten school is uitgesloten van deelname.
 
-#### Artikel 7. Specifieke voorwaarden
+##### Artikel 7. Specifieke voorwaarden
 
 1. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=6&z=2025-11-26&g=2025-11-26) komen aanvragen voor deelname aan leerlab 1 en 2 uitsluitend in aanmerking voor subsidie indien het bouwproject waarvoor de subsidie wordt aangevraagd onderdeel vormt van een bundel. Voor leerlab 2 geldt dat de bundel bestaat uit bouwprojecten die ofwel gericht zijn op renovatie van scholenbouw binnen het basisonderwijs, speciaal basisonderwijs, speciaal onderwijs, voortgezet speciaal onderwijs of praktijkonderwijs ofwel gericht zijn op renovatie van scholenbouw binnen het voorbereidend beroepsonderwijs, mavo, havo of vwo.
 
@@ -208,7 +234,7 @@ Deze regeling is onderdeel van het Innovatieprogramma Onderwijshuisvesting waari
 
 4. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=6&z=2025-11-26&g=2025-11-26) geldt als voorwaarde voor deelname aan leerlab 2 en 3 dat het te renoveren schoolgebouw initieel gebouwd is in de periode van 1946 tot 1992. Een schoolgebouw dat als monument staat geregistreerd is uitgesloten van deelname.
 
-#### Artikel 8. Weigeringsgronden
+##### Artikel 8. Weigeringsgronden
 
 1. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wijst de minister een aanvraag voor een subsidie af, indien:
 
@@ -218,7 +244,7 @@ Deze regeling is onderdeel van het Innovatieprogramma Onderwijshuisvesting waari
 
 2. Indien één aanvraag binnen een bundel wordt afgewezen worden de overige aanvragen binnen de desbetreffende bundel ook afgewezen.
 
-#### Artikel 9. Subsidieplafond
+##### Artikel 9. Subsidieplafond
 
 1. Voor subsidieverstrekking op grond van deze regeling is een totaalbedrag van € 96.544.604 beschikbaar. Dit subsidieplafond is verdeeld over zeven plafonds, waarvan:
 
@@ -250,7 +276,7 @@ Deze regeling is onderdeel van het Innovatieprogramma Onderwijshuisvesting waari
 
 4. Indien het beschikbare bedrag als bedoeld in het eerste lid, niet volledig wordt benut, worden de resterende bedragen van de afzonderlijke deelplafonds in zijn geheel beschikbaar gesteld voor een nog open te stellen opvolgende subsidieronde.
 
-#### Artikel 10. Subsidiebedrag
+##### Artikel 10. Subsidiebedrag
 
 1. Het subsidiebedrag bestaat uit een vast bedrag en een variabel bedrag.
 
@@ -286,13 +312,13 @@ Deze regeling is onderdeel van het Innovatieprogramma Onderwijshuisvesting waari
 
 - h. voor renovatie ten behoeve van het voortgezet onderwijs voor vwo, havo, vmbo of praktijkonderwijs € 9.890,– per leerling.
 
-#### Artikel 11. Wijze van verdeling
+##### Artikel 11. Wijze van verdeling
 
 De minister verdeelt het beschikbare bedrag binnen het deelplafond op grond van loting. Een bundel krijgt één lotnummer. De bundel valt hierdoor in zijn geheel binnen of buiten de loting.
 
 Aanvragen voor deelname aan leerlab 2, als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=9&z=2025-11-26&g=2025-11-26), waarbij de desbetreffende bundel voldoet aan de voorwaarde, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=7&z=2025-11-26&g=2025-11-26), krijgen voorrang op aanvragen voor deelname aan leerlab 2, als bedoeld in artikel 9, eerste lid, onderdeel c, waarbij de desbetreffende bundel niet voldoet aan de voorwaarde, bedoeld in artikel 7, tweede lid.
 
-#### Artikel 12. Algemene verplichtingen
+##### Artikel 12. Algemene verplichtingen
 
 1. De subsidieontvanger treft maatregelen om te komen tot een duurzaam en gezond schoolgebouw, zijnde respectievelijk ENG en Programma van Eisen Frisse Scholen 2021 klasse B voor de aspecten lucht en temperatuur, alsmede om te komen tot een inclusief en adaptief schoolgebouw.
 
@@ -316,7 +342,7 @@ Aanvragen voor deelname aan leerlab 2, als bedoeld in [artikel 9, eerste lid, on
 
 8. Indien de gemeente als bouwheer optreedt draagt de subsidieontvanger er zorg voor dat deze gemeente als bouwheer zich inspant om te voldoen aan de subsidieverplichtingen, bedoeld in het eerste, tweede en zesde lid, en voor zover van toepassing [artikel 13, eerste lid, onderdelen a, b, c,d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=13&z=2025-11-26&g=2025-11-26), [artikel 14, eerste lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=14&z=2025-11-26&g=2025-11-26) en [artikel 15, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=15&z=2025-11-26&g=2025-11-26).
 
-#### Artikel 13. Specifieke verplichtingen leerlab 1
+##### Artikel 13. Specifieke verplichtingen leerlab 1
 
 1. Aan de verlening van een subsidie zijn, onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=12&z=2025-11-26&g=2025-11-26), ten aanzien van leerlab 1 de volgende aanvullende verplichtingen verbonden:
 
@@ -334,7 +360,7 @@ Aanvragen voor deelname aan leerlab 2, als bedoeld in [artikel 9, eerste lid, on
 
 3. De minister kan op een gemotiveerd verzoek van de subsidieontvanger de in het eerste lid, onderdeel d, genoemde uiterlijke startdatum en de termijn waarin het bouwproject moet zijn afgerond verleggen respectievelijk verlengen.
 
-#### Artikel 14. Specifieke verplichtingen leerlab 2
+##### Artikel 14. Specifieke verplichtingen leerlab 2
 
 1. Aan de verlening van een subsidie zijn, onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=12&z=2025-11-26&g=2025-11-26), ten aanzien van leerlab 2 de volgende aanvullende verplichtingen verbonden:
 
@@ -350,7 +376,7 @@ Aanvragen voor deelname aan leerlab 2, als bedoeld in [artikel 9, eerste lid, on
 
 3. De minister kan op een gemotiveerd verzoek van de subsidieontvanger de in het eerste lid, onderdeel d, genoemde uiterlijke startdatum en de termijn waarin het bouwproject moet zijn afgerond verleggen respectievelijk verlengen.
 
-#### Artikel 15. Specifieke verplichtingen leerlab 3
+##### Artikel 15. Specifieke verplichtingen leerlab 3
 
 1. Aan de verlening van een subsidie zijn, onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=12&z=2025-11-26&g=2025-11-26), ten aanzien van leerlab 3 de volgende aanvullende verplichtingen verbonden:
 
@@ -360,7 +386,7 @@ Aanvragen voor deelname aan leerlab 2, als bedoeld in [artikel 9, eerste lid, on
 
 2. De minister kan op een gemotiveerd verzoek van de subsidieontvanger de in het eerste lid, onderdeel b, genoemde startdatum en de termijn waarin het bouwproject moet zijn afgerond verleggen respectievelijk verlengen.
 
-#### Artikel 16. Verlening en voorschot
+##### Artikel 16. Verlening en voorschot
 
 1. In afwijking van [artikel 9.1, vierde lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1), wordt de subsidie verleend binnen dertien weken na sluiting van de aanvraagtermijn, bedoeld in [artikel 5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=5&z=2025-11-26&g=2025-11-26).
 
@@ -374,7 +400,7 @@ Aanvragen voor deelname aan leerlab 2, als bedoeld in [artikel 9, eerste lid, on
 
 - d. 34% van het in het besluit tot verlening van de subsidie opgenomen maximum subsidiebedrag wordt in één keer in 2028 uitbetaald.
 
-#### Artikel 17. Verantwoording en vaststellingsbeschikking
+##### Artikel 17. Verantwoording en vaststellingsbeschikking
 
 1. De verantwoording van de subsidie geschiedt in de jaarverslaggeving met gebruikmaking van Model G, onderdeel1, als bedoeld in [bijlage 4 van de Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=4).
 
@@ -382,17 +408,17 @@ Aanvragen voor deelname aan leerlab 2, als bedoeld in [artikel 9, eerste lid, on
 
 3. De vaststelling vindt plaats binnen een jaar na de indiening van het jaarverslag over laatste jaar van de uitvoering van de bouwactiviteiten, bedoeld in [artikel 13, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=13&z=2025-11-26&g=2025-11-26), [artikel 14, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=14&z=2025-11-26&g=2025-11-26), onderscheidenlijk [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050569&artikel=15&z=2025-11-26&g=2025-11-26).
 
-#### Artikel 18. Hardheidsclausule
+##### Artikel 18. Hardheidsclausule
 
 De minister kan, gelet op het belang dat deze regeling beoogt te beschermen, artikelen buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 19. Inwerkingtreding en vervaldatum
+##### Artikel 19. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2029, met dien verstande dat zij van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Innovatieprogramma Onderwijshuisvesting.
 

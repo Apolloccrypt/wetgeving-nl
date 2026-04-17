@@ -1,13 +1,39 @@
 ---
-title: "Regeling risicoverevening 2024"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 april 2025, kenmerk 4083501-1081010-Z, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2024 (Regeling risicoverevening 2024)"
 identifier: "BWBR0050989"
-categorie: "Overig"
-publicatiedatum: 2025-04-29
-laatste_update: 2025-04-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050989"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-29"
+last_updated: "2025-04-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050989"
+soort: "ministeriele-regeling"
+stam_id: "17416883"
+version_id: "30708952"
+internal_id: "C44016631"
+label_id: "17320294"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050989/2025-04-29/0"
+intitule_bron: "Stcrt.2025-14589"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-04-08"
+intitule_published: "2025-04-28"
+intitule_in_force: "2025-04-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-14589"
+original_signed_date: "2025-04-08"
+original_published_date: "2025-04-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-14589"
+entry_into_force_date: "2025-04-29"
+jci_1_3: "jci1.3:c:BWBR0050989&z=2025-04-29&g=2025-04-29"
+jci_1_0: "1.0:c:BWBR0050989&g=2025-04-29"
+citeertitel_status: "officieel"
+short_title: "Regeling risicoverevening 2024"
+signed_date: "2025-04-08"
+entry_into_force: "2025-04-29"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 april 2025, kenmerk 4083501-1081010-Z, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2024 (Regeling risicoverevening 2024)
 
 Gelet op [artikel 32, vierde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en de [artikelen 1, onderdelen i, j, aa en ii](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1), [3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.1), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.2), [3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.4), [3.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.6), [3.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.8), [3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.10), [3.11, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.11), [3.12a, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.12a), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.13), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.14), [3.15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.15), [3.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), en [3.22, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.22);
@@ -16,13 +42,13 @@ Besluit:
 
 ### Hoofdstuk 1. Definities en algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
 - **verstrekking van een duur intramuraal geneesmiddel:** verstrekking van een intramuraal geneesmiddel die krachtens [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.4), of [artikel 2.4a, eerste lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.4a) is uitgezonderd van de zorg, bedoeld in artikel 2.4, eerste lid, van dat besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het macro-prestatiebedrag voor het jaar 2024 bedraagt € 60.663,9 miljoen.
 
@@ -34,19 +60,19 @@ In deze regeling wordt verstaan onder:
 
 - c. het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg ter grootte van € 5.295,8 miljoen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De opbrengst van de nominale rekenpremie wordt voor het jaar 2024 geraamd op € 24.837,7 miljoen.
 
 2. De opbrengst van het verplicht eigen risico wordt voor het jaar 2024 geraamd op € 3.418,0 miljoen.
 
-#### Artikel 4
+##### Artikel 4
 
 De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraars, bedoeld in [artikel 32, vierde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), omvatten voor het jaar 2024, naast de middelen, bedoeld in [§ 1.5 van hoofdstuk 3 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&sub-paragraaf=1.5), een bedrag van € 32.408,1 miljoen.
 
 ### Hoofdstuk 2. Regels ten behoeve van de toekenning van de vereveningsbijdrage (ex ante) aan een zorgverzekeraar
 
-#### Artikel 5
+##### Artikel 5
 
 1. De klassen en gewichten, bedoeld in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.4) en [3.6 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.6), zijn vermeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&bijlage=1&z=2025-04-29&g=2025-04-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&bijlage=3&z=2025-04-29&g=2025-04-29).
 
@@ -54,7 +80,7 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 3. Bij de indeling van verzekerden in de klassen van het vereveningscriterium GGZ-MHK laat het Zorginstituut de kosten van het tweede en derde jaar intramurale geestelijke gezondheidszorg buiten beschouwing, voor zover dat een ander jaar dan 2022 of 2023 betreft.
 
-#### Artikel 6
+##### Artikel 6
 
 1. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&hoofdstuk=2&artikel=5&z=2025-04-29&g=2025-04-29) en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&bijlage=1&z=2025-04-29&g=2025-04-29), tabellen 1.2, 1.3, 1.4 en 1.10, en [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&bijlage=3&z=2025-04-29&g=2025-04-29), tabellen 3.2 en 3.3, wordt een verzekerde die in het buitenland woont ingedeeld in de klassen ‘Geen FKG’, ‘Geen DKG’, ‘Geen HKG’, ’Geen FDG’, ‘Geen FKG psychische aandoeningen’ en ‘Geen DKG psychische aandoeningen’, waarbij voor hem het gewicht van die klassen door het Zorginstituut wordt vastgesteld op een percentage van de gewichten van de desbetreffende klassen zoals deze op grond van de genoemde tabellen voor in Nederland wonende verzekerden gelden.
 
@@ -62,7 +88,7 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 3. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&hoofdstuk=2&artikel=5&z=2025-04-29&g=2025-04-29) en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&bijlage=1&z=2025-04-29&g=2025-04-29), tabel 1.14, en [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&bijlage=3&z=2025-04-29&g=2025-04-29), tabel 3.9, wordt een verzekerde die in Nederland woont, niet ingedeeld bij het vereveningscriterium SEI.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De nominale rekenpremie per jaar bedraagt € 1.708 per zorgverzekering waarvoor premie moet worden betaald.
 
@@ -70,7 +96,7 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 3. Het Zorginstituut raamt het aantal zorgverzekeringen waarvoor premie moet worden betaald door het geraamde aantal zorgverzekeringen van verzekerden van 18 jaar of ouder bij een zorgverzekeraar, te verminderen met het geraamde aantal zorgverzekeringen van verzekerden als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24).
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het Zorginstituut raamt de opbrengst van het verplicht eigen risico per zorgverzekeraar, bedoeld in [artikel 3.10, eerste lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.10), door per verzekerde van 18 jaar of ouder, met uitzondering van verzekerden als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24), de geraamde opbrengst van het verplicht eigen risico te bepalen en vervolgens de geraamde opbrengsten per zorgverzekeraar te sommeren.
 
@@ -86,7 +112,7 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 - c. voor overige verzekerden: € 357,81.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het Zorginstituut wijst bij samenloop van klassen van een vereveningscriterium alleen de hoogste klasse van dat criterium die voor de betreffende verzekerde van toepassing is toe.
 
@@ -146,13 +172,13 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 ### Hoofdstuk 3. Regels ten behoeve van de vaststelling van de vereveningsbijdrage (ex post) ten behoeve van een zorgverzekeraar
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een verzekerde die slechts gedurende een deel van het vereveningsjaar bij een zorgverzekeraar verzekerd was, telt voor het vaststellen van de vereveningsbijdrage voor die zorgverzekeraar mee in een mate die bepaald wordt door het aantal dagen dat hij in dat jaar bij die zorgverzekeraar verzekerd was te delen door het aantal dagen in dat jaar.
 
 2. Indien een verzekerde gedurende een aantal dagen van het vereveningsjaar bij meer dan één zorgverzekeraar verzekerd was, telt hij voor het vaststellen van de vereveningsbijdrage over die periode mee in een mate die bepaald wordt door het getal 1 te delen door het aantal zorgverzekeraars waarbij hij in die periode verzekerd was.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Nadat het Zorginstituut de gerealiseerde kosten op de in de [artikelen 12 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&hoofdstuk=3&artikel=12&z=2025-04-29&g=2025-04-29) beschreven wijze heeft toegedeeld, herberekent het Zorginstituut voor de clusters ‘variabele zorgkosten’ en ‘kosten van geneeskundige geestelijke gezondheidszorg’ de relevante deelbedragen met gebruik van de referentiebestanden, bedoeld in [artikel 9, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&hoofdstuk=2&artikel=9&z=2025-04-29&g=2025-04-29).
 
@@ -200,7 +226,7 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 5. Het Zorginstituut rondt de op grond van het vierde lid herberekende gewichten af op twee decimalen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het Zorginstituut merkt kosten als bedoeld in [artikel 3.13 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.13), voor prestaties van grensoverschrijdende zorg:
 
@@ -210,13 +236,13 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 2. Het Zorginstituut merkt kosten voor prestaties van grensoverschrijdende zorg die gemaakt zijn met toepassing van internationale regelingen inzake sociale zekerheid, aan als kosten van het cluster ‘variabele zorgkosten’.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Met uitzondering van betalingen uit hoofde van een verplicht of vrijwillig eigen risico, deelt het Zorginstituut zorgkosten die voor rekening komen van de verzekerden niet toe aan een cluster van prestaties.
 
 2. Het Zorginstituut deelt renteheffingskosten niet toe aan een cluster van prestaties.
 
-#### Artikel 14
+##### Artikel 14
 
 Het Zorginstituut merkt de kosten van bij een experiment als bedoeld in [artikel 58 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58) betrokken prestaties:
 
@@ -224,7 +250,7 @@ Het Zorginstituut merkt de kosten van bij een experiment als bedoeld in [artikel
 
 - b. waarvan de specificatie niet voldoet aan onderdeel a voor een door hem per instelling vast te stellen percentage aan als kosten van het cluster ‘variabele zorgkosten’.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het Zorginstituut merkt de kosten van bij een experiment als bedoeld in [artikel 58 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58) betrokken prestaties voor 100 procent minus het op basis van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&hoofdstuk=3&artikel=14&z=2025-04-29&g=2025-04-29) resulterende percentage, aan als kosten van het cluster ‘vaste zorgkosten’.
 
@@ -234,7 +260,7 @@ Het Zorginstituut merkt de kosten van bij een experiment als bedoeld in [artikel
 
 4. Het Zorginstituut calculeert 100 procent na op het verschil tussen de kosten van het cluster ‘vaste zorgkosten’, vastgesteld ingevolge het eerste en tweede lid enerzijds, en het herberekende deelbedrag ‘vaste zorgkosten’ na toepassing van [artikel 3.15, tweede lid van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.15) anderzijds.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het Zorginstituut past als volgt hogekostencompensatie toe op het herberekende deelbedrag variabele zorgkosten, bedoeld in [artikel 3.12, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.12):
 
@@ -250,7 +276,7 @@ Het Zorginstituut merkt de kosten van bij een experiment als bedoeld in [artikel
 
 2. Het Zorginstituut kan bij een voorlopige vaststelling als bedoeld in [artikel 3.20, eerste lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.20), de toepassing van hogekostencompensatie achterwege laten. Het Zorginstituut past dan in afwijking van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&hoofdstuk=3&artikel=11&z=2025-04-29&g=2025-04-29), voor de herberekening van de vereveningsbijdrage voor het cluster ‘variabele kosten’ de gewichten in de tabellen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&bijlage=1&z=2025-04-29&g=2025-04-29) toe.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het Zorginstituut past als volgt hogekostencompensatie toe op het herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg, bedoeld in [artikel 3.12, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.12):
 
@@ -266,35 +292,35 @@ Het Zorginstituut merkt de kosten van bij een experiment als bedoeld in [artikel
 
 2. Het Zorginstituut kan bij een voorlopige vaststelling als bedoeld in [artikel 3.20, eerste lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.20), de toepassing van hogekostencompensatie achterwege laten. Het Zorginstituut past dan in afwijking van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&hoofdstuk=3&artikel=11&z=2025-04-29&g=2025-04-29), voor de herberekening van de vereveningsbijdrage voor het cluster ‘kosten van geneeskundige geestelijke gezondheidszorg’ de gewichten in de tabellen van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&bijlage=3&z=2025-04-29&g=2025-04-29) toe.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De opbrengst van de nominale rekenpremie, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&hoofdstuk=2&artikel=7&z=2025-04-29&g=2025-04-29), met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal zorgverzekeringen waarvoor premie moest worden betaald.
 
 2. De opbrengst van het verplicht eigen risico, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&hoofdstuk=2&artikel=8&z=2025-04-29&g=2025-04-29), met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal verzekerden van 18 jaar of ouder verminderd met het gerealiseerde aantal verzekerden als bedoeld in [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24).
 
-#### Artikel 19
+##### Artikel 19
 
 De [artikelen 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&hoofdstuk=2&artikel=5&z=2025-04-29&g=2025-04-29), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&hoofdstuk=2&artikel=6&z=2025-04-29&g=2025-04-29) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&hoofdstuk=2&artikel=9&z=2025-04-29&g=2025-04-29) zijn van overeenkomstige toepassing bij de vaststelling van de vereveningsbijdrage ten behoeve van een zorgverzekeraar met dien verstande dat bij toepassing van hogekostencompensatie een verzekerde die in het buitenland woont, in afwijking van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&bijlage=2&z=2025-04-29&g=2025-04-29), tabellen 2.2, 2.3, 2.4, 2.10 en 2.12, en [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050989&bijlage=4&z=2025-04-29&g=2025-04-29), tabellen 4.2 en 4.3, wordt ingedeeld in de klassen ‘Geen FKG’, ‘Geen DKG’, ‘Geen HKG’, ‘Geen FDG’, ‘Geen HSM’, ‘Geen FKG psychische aandoeningen’ en ‘Geen DKG psychische aandoeningen’, en een verzekerde die in Nederland woont, in afwijking van bijlage 2, tabel 2.14, en bijlage 4, tabel 4.9, niet wordt ingedeeld bij het vereveningscriterium SEI.
 
 ### Hoofdstuk 4. Aanvullingen op de vereveningsbijdrage aan een zorgverzekeraar
 
-#### Artikel 20
+##### Artikel 20
 
 Het in [artikel 3.22, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.22) bedoelde bedrag per verzekerde bedraagt € 41.
 
 ### Hoofdstuk 5. Betaling van de vereveningsbijdrage aan een zorgverzekeraar door het Zorginstituut
 
-#### Artikel 21
+##### Artikel 21
 
 De betaling van de bijdrage geschiedt overeenkomstig door het Zorginstituut te stellen beleidsregels, waarin een betaalschema is opgenomen dat rekening houdt met declaratiepatronen van zorgaanbieders.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 22
+##### Artikel 22
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 30 september 2023.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze regeling wordt aangehaald als: Regeling risicoverevening 2024.
 

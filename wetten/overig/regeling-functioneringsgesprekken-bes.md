@@ -1,20 +1,45 @@
 ---
 title: "Regeling functioneringsgesprekken BES"
 identifier: "BWBR0028784"
-categorie: "Overig"
-publicatiedatum: 2011-10-09
-laatste_update: 2011-10-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028784"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2011-10-09"
+last_updated: "2011-10-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028784"
+soort: "ministeriele-regeling-BES"
+stam_id: "11024273"
+version_id: "18012332"
+internal_id: "C25040281"
+label_id: "10998744"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028784/2011-10-09/0"
+intitule_bron: "Stcrt.2010-15066"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-24"
+intitule_published: "2010-10-08"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-15066"
+original_signed_date: "2010-09-24"
+original_published_date: "2010-10-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-15066"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028784&z=2011-10-09&g=2011-10-09"
+jci_1_0: "1.0:c:BWBR0028784&g=2011-10-09"
+citeertitel_status: "redactioneel"
+signed_date: "2010-09-24"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling functioneringsgesprekken BES
 
-#### Artikel 1
+##### Artikel 1
 
 Het functioneringsgesprek is een formeel gesprek tussen de leidinggevende en de functionaris waarin, naast de samenwerking en de werkrelatie, enerzijds het functioneren van de functionaris in de voorgaande periode, maar tot maximaal een jaar terug, wordt besproken en anderzijds voor de voorliggende periode afspraken worden gemaakt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In deze regeling wordt verstaan onder:
 
@@ -26,7 +51,7 @@ Het functioneringsgesprek is een formeel gesprek tussen de leidinggevende en de 
 
 2. Waarin deze regeling de mannelijke woordvorm wordt gebruikt, wordt daarbij eveneens de vrouwelijke woordvorm begrepen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Iedere leidinggevende is verplicht om tenminste eenmaal per kalenderjaar met de onder hem vallende functionaris(sen) een functioneringsgesprek te voeren.
 
@@ -36,13 +61,13 @@ Het functioneringsgesprek is een formeel gesprek tussen de leidinggevende en de 
 
 4. De leidinggevende houdt een functioneringsgesprek, anders dan het gesprek, bedoeld in het derde lid van dit artikel, uiterlijk drie maanden voordat de beoordeling van een functionaris wordt gemaakt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het als bijlage aan deze regeling gevoegde formulier is het door de staat goedgekeurde formulier om het functioneringsgesprek vast te leggen.
 
 2. De leidinggevende is gehouden de daartoe benodigde persoonlijke en functionele gegevens op het formulier te vermelden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Uiterlijk vijf werkdagen voor het functioneringsgesprek maakt de leidinggevende met de functionaris een afspraak over de datum, tijd en plaats van het te voeren functioneringsgesprek.
 
@@ -52,13 +77,13 @@ Het functioneringsgesprek is een formeel gesprek tussen de leidinggevende en de 
 
 4. De leidinggevende informeert de functionaris over het bestaan van de informatiefolder ‘functioneDe leidinggevende verzoekt de functionaris zich mede aan de hand van het formulier voor te bereiden op het functioneringsgesprek.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De leidinggevende en de functionaris zijn gehouden – behoudens onvoorziene omstandigheden – de afspraak voor het functioneringsgesprek na te komen. Daarvoor wordt voldoende tijd, tot maximaal anderhalf uur, gereserveerd. Indien er dringende redenen zijn om het gesprek uit te stellen, maken de partijen een nieuwe afspraak welke niet verder dan 10 werkdagen van de eerder gemaakte afspraak ligt.
 
 2. De leidinggevende treft zodanige voorzieningen dat het gesprek ongestoord gevoerd kan worden.
 
-#### Artikel 7
+##### Artikel 7
 
 In het functioneringsgesprek worden de volgende onderwerpen besproken:
 
@@ -76,7 +101,7 @@ In het functioneringsgesprek worden de volgende onderwerpen besproken:
 
 - g. de loopbaan perspectieven.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De leidinggevende vult het formulier in.
 
@@ -88,7 +113,7 @@ In het functioneringsgesprek worden de volgende onderwerpen besproken:
 
 5. De functionaris ontvangt dezelfde werkdag een kopie van het ondertekende formulier.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het originele formulier wordt door de leidinggevende bewaard.
 
@@ -108,11 +133,11 @@ Vernietiging vindt na die periode plaats indien een formulier, naar aanleiding v
 
 8. Indien er geen enkele relatie is tussen oude en nieuwe taken zal, bij overplaatsing naar een andere afdeling van de dienst waar betrokkene werkzaam is, het formulier vernietigd worden.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling berust op [artikel 15, tweede lid, van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=15).
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling functioneringsgesprekken BES.
 

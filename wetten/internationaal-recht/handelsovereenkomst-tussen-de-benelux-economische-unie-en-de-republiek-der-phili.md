@@ -1,13 +1,35 @@
 ---
 title: "Handelsovereenkomst tussen de Benelux Economische Unie en de Republiek der Philippijnen"
 identifier: "BWBV0004348"
-categorie: "Internationaal recht"
-publicatiedatum: 1972-10-12
-laatste_update: 1972-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004348"
+country: "nl"
+rank: "verdrag"
+publication_date: "1972-10-12"
+last_updated: "1972-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004348"
+soort: "verdrag"
+stam_id: "10004076133"
+version_id: "10004244172"
+internal_id: "C10006985741"
+label_id: "10004060584"
+dtd_version: "2.0"
+original_entry_into_force: "1972-10-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004348/1972-10-12/0"
+intitule_bron: "Trb.1967-49"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1967-04-14"
+intitule_in_force: "1972-11-21"
+intitule_status: "goed"
+original_publication: "Trb.1967-49"
+original_published_date: "1967-04-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1967-49"
+entry_into_force_date: "1972-10-12"
+jci_1_3: "jci1.3:c:BWBV0004348&z=1972-10-12&g=1972-10-12"
+jci_1_0: "1.0:c:BWBV0004348&g=1972-10-12"
+citeertitel_status: "redactioneel"
+entry_into_force: "1972-10-12"
 ---
-
 # Handelsovereenkomst tussen de Benelux Economische Unie en de Republiek der Philippijnen
 
 Het Koninkrijk der Nederlanden, en
@@ -22,11 +44,11 @@ Bezield door de wens hun traditionele vriendschapsbanden te versterken en hun we
 
 Zijn de volgende bepalingen overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 Beide Overeenkomstsluitende Partijen zullen, in overeenstemming met hun nationale wetgevingen, de wederzijdse uitwisseling van goederen en diensten bevorderen en vergemakkelijken teneinde deze tot het hoogste peil dat voordelig is voor beide Overeenkomstsluitende Partijen op te voeren.
 
-#### Artikel II
+##### Artikel II
 
 (a). Alle gunsten, voorrechten, tegemoetkomingen of vrijstellingen die een der Overeenkomstsluitende Partijen verleent of zal verlenen aan produkten van oorsprong uit of bestemd voor enig derde land, zullen onmiddellijk en onvoorwaardelijk worden verleend aan gelijksoortige produkten van oorsprong uit of bestemd voor de andere Overeenkomstsluitende Partij. Deze bepaling heeft betrekking op douanerechten en -belastingen van iedere aard die drukken of zullen drukken op de invoer, de uitvoer, de doorvoer en de opslag onder douaneverband van goederen evenals op de toepassing van douaneverplichtingen en -formaliteiten.
 
@@ -34,13 +56,13 @@ Beide Overeenkomstsluitende Partijen zullen, in overeenstemming met hun national
 
 (c). De produkten van oorsprong uit een der Overeenkomstsluitende Partijen die worden uitgevoerd naar het gebied van de andere Overeenkomstsluitende Partij, zullen in het land van uitvoer niet worden onderworpen aan hogere rechten en belastingen van enige aard, noch aan bezwarender douaneverplichtingen of -formaliteiten, dan die waaraan gelijksoortige produkten bestemd voor enig derde land zijn of zullen worden onderworpen.
 
-#### Artikel III
+##### Artikel III
 
 (a). De produkten van oorsprong uit een der Overeenkomstsluitende Partijen die zullen worden ingevoerd in het gebied van de andere Overeenkomstsluitende Partij, zullen in het land van invoer niet worden onderworpen aan de betaling van hogere interne rechten of belastingen van enige aard, noch aan bezwarender formaliteiten, dan die welke van toepassing zijn op gelijksoortige produkten van oorsprong uit enig derde land en ingevoerd onder gelijkwaardige voorwaarden.
 
 (b). Omgekeerd zullen de produkten van oorsprong uit een der Overeenkomstsluitende Partijen die worden uitgevoerd naar het gebied van de andere Overeenkomstsluitende Partij, in het land van uitvoer niet worden onderworpen aan de betaling van hogere interne rechten of belastingen van enige aard, noch aan bezwarender formaliteiten, dan die welke van toepassing zijn bij de uitvoer naar enig derde land.
 
-#### Artikel IV
+##### Artikel IV
 
 Het bepaalde in de artikelen II en III van deze Overeenkomst zal niet van toepassing zijn op:
 
@@ -50,15 +72,15 @@ Het bepaalde in de artikelen II en III van deze Overeenkomst zal niet van toepas
 
 - (c). de gunsten, voorrechten, tegemoetkomingen of vrijstellingen die enige Regering van de Beneluxlanden thans verleent of in de toekomst zal verlenen aan aangrenzende landen voor het grensverkeer.
 
-#### Artikel V
+##### Artikel V
 
 Geen enkele bepaling van deze Overeenkomst zal zo worden uitgelegd, dat zij tekort doet aan de maatregelen die enige Regering der Overeenkomstsluitende Partijen kan nemen uit hoofde van overwegingen van morele of humanitaire aard of om redenen van volksgezondheid en openbare veiligheid, op het gebied van handel in wapens, munitie en oorlogsmateriaal, de bescherming van dieren en planten tegen ziekten en epidemieën, het behoud van het nationale erfdeel op kunst-, historisch of archeologisch gebied en inzake de in- en uitvoer van goud en zilver.
 
-#### Artikel VI
+##### Artikel VI
 
 De Regeringen der Overeenkomstsluitende Partijen komen overeen op hun grondgebieden en in het kader van hun nationale wetgevingen de organisatie van tentoonstellingen en manifestaties op het gebied van de economie en de handel te vergemakkelijken indien de andere Overeenkomstsluitende Partij zulks verzoekt.
 
-#### Artikel VII
+##### Artikel VII
 
 (a). Beide Overeenkomstsluitende Partijen zullen met elkaar overleg plegen indien een hunner zulks verzoekt, teneinde maatregelen te overwegen ter uitbreiding van hun wederzijdse handel of ter vergemakkelijking van de tenuitvoerlegging dezer Overeenkomst.
 
@@ -66,23 +88,23 @@ De Regeringen der Overeenkomstsluitende Partijen komen overeen op hun grondgebie
 
 (c). Wanneer de verplichtingen voortvloeiende uit enige regionale regeling welke door de Republiek der Philippijnen thans is aangegaan of in de toekomst zal worden aangegaan en betrekking hebbende op de invoering van een gemeenschappelijke handelspolitiek wijzigingen van de Overeenkomst noodzakelijk maken, zullen op de kortst mogelijke termijn onderhandelingen worden geopend.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Beide Overeenkomstsluitende Partijen zullen zich zoveel mogelijk beijveren, elkaar alle inlichtingen die voor hun handel van belang zijn te verstrekken.
 
-#### Artikel IX
+##### Artikel IX
 
 Ieder geschil tussen de Regering van de Republiek der Philippijnen en enige Regering van de Beneluxlanden met betrekking tot de uitlegging of de toepassing van deze Overeenkomst, waarvoor langs diplomatieke weg geen bevredigende oplossing kan worden gevonden, zal, op verzoek van een der partijen bij het geschil, ter beoordeling worden voorgelegd aan het Internationaal Gerechtshof, tenzij de betrokken Regeringen overeenkomen het geschil op een andere vreedzame wijze op te lossen.
 
-#### Artikel X
+##### Artikel X
 
 Deze Overeenkomst zal worden bekrachtigd en de akten van bekrachtiging zullen zo spoedig mogelijk worden nedergelegd bij de Regering van de Republiek der Philippijnen.
 
-#### Artikel XI
+##### Artikel XI
 
 Wat het Koninkrijk der Nederlanden betreft, zal deze Overeenkomst van toepassing zijn op het in Europa gelegen grondgebied van het Koninkrijk, op Suriname en op de Nederlandse Antillen, tenzij de akte van bekrachtiging van het Koninkrijk der Nederlanden anders bepaalt.
 
-#### Artikel XII
+##### Artikel XII
 
 (a). De onderhavige Overeenkomst treedt in werking op de dag waarop de Overeenkomstsluitende Partijen hun onderscheiden akten van bekrachtiging hebben nedergelegd.
 

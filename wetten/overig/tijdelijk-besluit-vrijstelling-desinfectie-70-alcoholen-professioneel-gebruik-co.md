@@ -1,13 +1,36 @@
 ---
-title: "Tijdelijk besluit vrijstelling desinfectie 70% alcoholen professioneel gebruik Covid-19 2020"
+title: "Tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden inzake desinfectiemiddelen aangaande 70% alcoholen in verband met de uitbraak COVID-19 (Tijdelijk besluit vrijstelling desinfectie 70% alcoholen professioneel gebruik Covid-19 2020)"
 identifier: "BWBR0043642"
-categorie: "Overig"
-publicatiedatum: 2020-06-16
-laatste_update: 2020-06-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043642"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-06-16"
+last_updated: "2020-06-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043642"
+soort: "ministeriele-regeling"
+stam_id: "15488983"
+version_id: "26766392"
+internal_id: "C37932581"
+label_id: "15431504"
+dtd_version: "2.0"
+original_entry_into_force: "2020-06-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043642/2020-06-16/0"
+intitule_bron: "Stcrt.2020-31389"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-06-15"
+intitule_in_force: "2020-06-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-31389"
+original_published_date: "2020-06-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-31389"
+entry_into_force_date: "2020-06-16"
+jci_1_3: "jci1.3:c:BWBR0043642&z=2020-06-16&g=2020-06-16"
+jci_1_0: "1.0:c:BWBR0043642&g=2020-06-16"
+citeertitel_status: "officieel"
+short_title: "Tijdelijk besluit vrijstelling desinfectie 70% alcoholen professioneel gebruik Covid-19 2020"
+entry_into_force: "2020-06-16"
 ---
-
 # Tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden inzake desinfectiemiddelen aangaande 70% alcoholen in verband met de uitbraak COVID-19 (Tijdelijk besluit vrijstelling desinfectie 70% alcoholen professioneel gebruik Covid-19 2020)
 
 Handelende in overeenstemming met de minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -16,7 +39,7 @@ Gezien de toegenomen vraag naar desinfectiemiddelen door de uitbraak van COVID-1
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het coronavirus SARS-CoV-2 en in verband met de bij deze bestrijding dreigende tekorten van handdesinfectiemiddelen die werkzaamheden in een bedrijfs- of beroepsmatige omgeving compromitteren ten tijde van deze uitbraak, wordt op grond van:
 
@@ -24,7 +47,7 @@ Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het c
 
 - b). artikel 55 van Verordening (EU) nr. 528/2012 toegestaan dat de in onderdeel a bedoelde middelen onder de daarin bedoelde voorwaarden op de markt worden aangeboden en gebruikt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De vrijstelling, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043642&artikel=1&z=2020-06-16&g=2020-06-16), en de daaraan verbonden beperkingen en voorschriften als bedoeld in derde lid, zijn niet van toepassing op het op de markt aanbieden en door professionele zorgaanbieders gebruiken van handdesinfectiemiddelen als bedoeld in de [Tijdelijke vrijstelling handdesinfectie WHO-formuleringen COVID-19 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043285)1Stcrt. 2020, nr. 17248, zoals gewijzigd bij Wijzigingsbesluit vrijstellingen desinfectie farmaceutische industrie COVID 192Stcrt. 2020, nr. 21876 en [Tijdelijke vrijstelling en wijzigingsbesluit professioneel gebruik desinfectiemiddelen COVID-19](https://wetten.overheid.nl/jci1.3:c:BWBR0043630)3Stcrt. 2020, nr. 31387.
 
@@ -32,15 +55,15 @@ Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het c
 
 3. Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0043642&artikel=1&z=2020-06-16&g=2020-06-16), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
 
-#### Artikel 3
+##### Artikel 3
 
 De vrijstelling en toestemming, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043642&artikel=1&z=2020-06-16&g=2020-06-16), wordt verleend tot en met 9 september 2020.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Tijdelijk besluit vrijstelling desinfectie 70% alcoholen professioneel gebruik Covid-19 2020.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking op de dag na de datum van plaatsing in de Staatscourant waarin het wordt gepubliceerd.
 

@@ -1,20 +1,42 @@
 ---
 title: "Compensatieregeling Coronacrisis Musea meer dan 100.000 bezoekers"
 identifier: "BWBR0043678"
-categorie: "Overig"
-publicatiedatum: 2020-06-20
-laatste_update: 2020-06-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043678"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-06-20"
+last_updated: "2020-06-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043678"
+soort: "zbo"
+stam_id: "15500913"
+version_id: "26787162"
+internal_id: "C37960981"
+label_id: "15443584"
+dtd_version: "2.0"
+original_entry_into_force: "2020-06-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043678/2020-06-20/0"
+intitule_bron: "Stcrt.2020-32234"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-06-19"
+intitule_in_force: "2020-06-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-32234"
+original_published_date: "2020-06-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-32234"
+entry_into_force_date: "2020-06-20"
+jci_1_3: "jci1.3:c:BWBR0043678&z=2020-06-20&g=2020-06-20"
+jci_1_0: "1.0:c:BWBR0043678&g=2020-06-20"
+citeertitel_status: "officieel"
+entry_into_force: "2020-06-20"
 ---
-
 # Compensatieregeling Coronacrisis Musea meer dan 100.000 bezoekers
 
 Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en op [paragraaf 3 van de Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 juni 2020 nr. 24686911, houdende voorschriften over aanvullende ondersteuning van de culturele en creatieve sector in verband met gederfde inkomsten in die sectoren als gevolg van de uitbraak van COVID-19 en de maatregelen ter bestrijding ervan (Regeling aanvullende ondersteuning culturele en creatieve sector COVID-19)](https://wetten.overheid.nl/jci1.3:c:BWBR0043634&paragraaf=3),
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In de regeling wordt verstaan onder:
 
@@ -56,11 +78,11 @@ In de regeling wordt verstaan onder:
 
 - c. het bestemmingsfonds OCW;
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het fonds kan subsidie verstrekken in de vorm van een bijdrage aan musea die van belang zijn voor de regio en een landelijke uitstraling hebben en die acute liquiditeitsproblemen hebben, ter aanvulling van aan die instellingen in het kader van de COVID-19-crisis door gemeenten of provincies verstrekte of te verstrekken additionele financiële bijdragen, als een gedeeltelijke tegemoetkoming in gederfde inkomsten.
 
-#### Artikel 3. Doelgroep
+##### Artikel 3. Doelgroep
 
 1. De bijdrage kan worden aangevraagd door een instelling die
 
@@ -78,7 +100,7 @@ Het fonds kan subsidie verstrekken in de vorm van een bijdrage aan musea die van
 
 2. In afwijking van het eerste lid komen tevens voor subsidie in aanmerking musea als bedoeld in het eerste lid aanhef onderdeel a en b, die niet voldoen aan tenminste één van de kenmerken, bedoeld in het eerste lid onderdeel c, voor zover deze hun standplaats hebben in een provincie waar geen instelling is gevestigd als bedoeld in het eerste lid.
 
-#### Artikel 4. Weigeringsgronden
+##### Artikel 4. Weigeringsgronden
 
 Geen subsidie wordt verstrekt aan instellingen
 
@@ -88,7 +110,7 @@ Geen subsidie wordt verstrekt aan instellingen
 
 - c. aan wie reeds eerder een bijdrage is toegekend door de minister van OCW op basis van de [Regeling aanvullende ondersteuning culturele en creatieve sector COVID-19](https://wetten.overheid.nl/jci1.3:c:BWBR0043634).
 
-#### Artikel 5. Voorwaarden
+##### Artikel 5. Voorwaarden
 
 1. Voor subsidie komen uitsluitend musea in aanmerking die:
 
@@ -104,7 +126,7 @@ Geen subsidie wordt verstrekt aan instellingen
 
 4. Het bestuur kan bij het vaststellen van het percentage eigen inkomsten bepaalde eigen inkomsten buiten beschouwing laten, indien deze door de instelling in de jaarrekening zijn verantwoord op een wijze die tot oneigenlijk gebruik van deze regeling zou leiden.
 
-#### Artikel 6. De aanvraag
+##### Artikel 6. De aanvraag
 
 1. Een aanvraag wordt ingediend met behulp van een door het bestuur opgesteld aanvraagformulier.
 
@@ -134,7 +156,7 @@ Geen subsidie wordt verstrekt aan instellingen
 
 6. De aanvraag wordt digitaal ingediend.
 
-#### Artikel 7. Hoogte subsidiebedrag
+##### Artikel 7. Hoogte subsidiebedrag
 
 1. De subsidie bedraagt 22,5 procent van de gemiddeld over de jaren 2017 en 2018 verworven eigen inkomsten van de instelling, blijkend uit de jaarrekeningen die betrekking hebben op die jaren, onder aftrek van een bedrag dat gelijk is aan 12,5 procent van de reserve van de instelling per ultimo 2018.
 
@@ -150,7 +172,7 @@ Geen subsidie wordt verstrekt aan instellingen
 
 5. Indien het subsidieplafond door toepassing van het bepaalde in lid 1 zou worden overschreden, worden de te verlenen subsidiebedragen naar rato verlaagd tot het niveau waarbinnen het totaal beschikbare bedrag volledig kan worden benut.
 
-#### Artikel 8. Besluit
+##### Artikel 8. Besluit
 
 1. Het bestuur besluit gelijktijdig op alle aanvragen.
 
@@ -160,19 +182,19 @@ Geen subsidie wordt verstrekt aan instellingen
 
 4. Indien de subsidie wordt verleend aan een aanvrager die aannemelijk heeft kunnen maken dat aan hem een additionele financiële bijdrage als bedoeld in [artikel 4 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0043678&artikel=4&z=2020-06-20&g=2020-06-20) zal worden verstrekt, geschiedt de verlening onder de ontbindende voorwaarde van verstrekking van de additionele financiële bijdrage.
 
-#### Artikel 9. Subsidieplafond
+##### Artikel 9. Subsidieplafond
 
 Het subsidieplafond bedraagt 16.000.000 euro.
 
-#### Artikel 10. Begrotingsvoorbehoud
+##### Artikel 10. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende middelen door de Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 11. Overig
+##### Artikel 11. Overig
 
 In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur
 
-#### Artikel 12. Verantwoording
+##### Artikel 12. Verantwoording
 
 1. De subsidieontvanger stuurt voor 1 april 2021 een inhoudelijke verantwoording met betrekking tot de besteding van de middelen.
 
@@ -180,17 +202,17 @@ In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur
 
 3. Het bestuur kan nadere voorwaarden stellen aan de inrichting van de verantwoording.
 
-#### Artikel 13. Hardheidsclausule
+##### Artikel 13. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, artikelen of onderdelen daarvan buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 20 juni 2020, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 20 juni 2020.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Compensatieregeling Coronacrisis Musea meer dan 100.000 bezoekers.
 

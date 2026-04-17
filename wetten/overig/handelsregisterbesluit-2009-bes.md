@@ -1,18 +1,43 @@
 ---
 title: "Handelsregisterbesluit 2009 BES"
 identifier: "BWBR0028479"
-categorie: "Overig"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028479"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028479"
+soort: "AMvB-BES"
+stam_id: "10802573"
+version_id: "27525632"
+internal_id: "C38841551"
+label_id: "10777534"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028479/2022-01-01/0"
+intitule_bron: "Stb.2010-447"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-15"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2021-69"
+original_signed_date: "2021-01-15"
+original_published_date: "2021-02-16"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2021-69"
+entry_into_force_date: "2021-01-15"
+jci_1_3: "jci1.3:c:BWBR0028479&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0028479&g=2022-01-01"
+citeertitel_status: "officieel"
+signed_date: "2021-01-15"
+entry_into_force: "2021-01-15"
 ---
-
 # Handelsregisterbesluit 2009 BES
 
 #### § 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +47,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. De opgave ter inschrijving
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor het doen van de voorgeschreven opgaven ter inschrijving in het handelsregister wordt gebruik gemaakt van door de Kamer vastgestelde formulieren die kosteloos verkrijgbaar zijn.
 
@@ -30,7 +55,7 @@ In dit besluit wordt verstaan onder:
 
 3. De Secretaris verstrekt de belanghebbende op verzoek een bevestiging van de opgave, met vermelding van de dag waarop deze is gedaan.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien de Secretaris er niet van overtuigd is dat de opgave afkomstig is van hem of haar die tot het doen van de opgave verplicht is, kan hij weigeren de opgave in behandeling te nemen. Hij kan om nadere bewijsstukken van de bevoegdheid vragen.
 
@@ -38,13 +63,13 @@ In dit besluit wordt verstaan onder:
 
 3. Indien naar zijn oordeel de verstrekte bewijsstukken onvoldoende zijn voor de beoordeling van de verplichting tot het doen van opgave door hem of haar van wie de opgave afkomstig is, is de Secretaris bevoegd de opgave te weigeren.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Nadat de opgave in behandeling is genomen, onderzoekt de Secretaris summierlijk of deze juist is. De Secretaris kan daarbij om nadere bewijsstukken van de vermelde gegevens vragen.
 
 2. Indien de Secretaris van oordeel is dat de opgave niet juist is, geeft hij de belanghebbende in overweging de opgave te wijzigen of in te trekken. Daartoe stelt hij de opgave onverwijld weer ter beschikking van de belanghebbende en geeft hij de aanwijzingen die hij in het belang van het handelsregister dienstig oordeelt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de Secretaris van oordeel is dat de opgave juist is, gaat hij over tot inschrijving.
 
@@ -52,27 +77,27 @@ In dit besluit wordt verstaan onder:
 
 3. Indien de Kamer zich op grond van het eerste lid van [artikel 18 van de Handelsregisterwet 2009 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=18) tot de rechter heeft gewend met het verzoek de doorhaling, aanvulling of wijziging van het ingeschrevene of de inschrijving van de onderneming, rechtspersoon of nevenvestiging te gelasten, doet de Secretaris, zolang niet een rechterlijke beschikking ten uitvoer is gelegd of een afwijzende beschikking onherroepelijk is geworden, aan degenen die inzage van het ingeschrevene aangaande de onderneming, rechtspersoon of nevenvestiging, dan wel een afschrift of een uittreksel daarvan verlangen, mededeling van het door hem gedane verzoek.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
 #### § 3. Verwerking van opgaven
 
-#### Artikel 7
+##### Artikel 7
 
 Nadat de opgave van de datumaanduiding is voorzien, wordt zij zo spoedig mogelijk ingeschreven op de wijze als in de [artikelen 8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028479&paragraaf=3&artikel=8&z=2022-01-01&g=2022-01-01) bepaald is.
 
-#### Artikel 8
+##### Artikel 8
 
 De gegevens in het register worden elektronisch opgeslagen. Aan de onderneming, rechtspersoon of nevenvestiging die wordt ingeschreven, wordt een nummer toegekend.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien de Kamer een rechterlijke beschikking heeft ontvangen, waarbij de doorhaling, aanvulling of wijziging van het in het handelsregister ingeschrevene wordt gelast, zal de Secretaris zodra de voorlopige tenuitvoerlegging is bevolen of de beschikking kracht van gewijsde heeft, tot de doorhaling, aanvulling of wijziging overgaan, door een authentiek afschrift van de rechterlijke beschikking in het dossier te plaatsen bij de opgaven, waarop de beschikking betrekking heeft.
 
 2. Ieder, die een rechterlijke beschikking als bedoeld in het eerste lid heeft ontvangen, kan, onder overlegging van een authentiek afschrift, de Secretaris verzoeken tot de doorhaling, aanvulling of wijziging over te gaan. De Secretaris geeft aan dit verzoek gevolg op de wijze bij het eerste lid bepaald, indien hem blijkt, dat de beschikking kracht van gewijsde heeft, dan wel de voorlopige tenuitvoerlegging is bevolen.
 
-#### Artikel 10
+##### Artikel 10
 
 [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028479&paragraaf=3&artikel=9&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing bij rechterlijke uitspraken inhoudende:
 
@@ -88,13 +113,13 @@ De gegevens in het register worden elektronisch opgeslagen. Aan de onderneming, 
 
 - f. vernietiging van een uitspraak als bedoeld onder a tot en met e.
 
-#### Artikel 11
+##### Artikel 11
 
 Wanneer in het dossier een nieuwe opgave of een rechterlijke uitspraak wordt opgenomen, als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028479&paragraaf=3&artikel=9&z=2022-01-01&g=2022-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028479&paragraaf=3&artikel=10&z=2022-01-01&g=2022-01-01), wordt in de oorspronkelijke opgave verwezen naar de nieuwe opgave, of de rechterlijke beschikking.
 
 #### § 4. In het handelsregister in te schrijven gegevens
 
-#### Artikel 12
+##### Artikel 12
 
 1. Van iedere onderneming, hoofdvestiging en op het openbaar lichaam gelegen nevenvestiging wordt opgegeven:
 
@@ -112,7 +137,7 @@ Wanneer in het dossier een nieuwe opgave of een rechterlijke uitspraak wordt opg
 
 3. Indien de onderneming op het openbaar lichaam alleen door één of meer gevolmachtigde handelsagenten wordt vertegenwoordigd, wordt het adres van de daartoe aangewezen handelsagent aangemerkt als het adres van de hoofdnederzetting.
 
-#### Artikel 13
+##### Artikel 13
 
 Van een rechtspersoon wordt opgegeven:
 
@@ -122,13 +147,13 @@ Van een rechtspersoon wordt opgegeven:
 
 - c. een korte omschrijving van de uitgeoefende activiteiten.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien een onderneming toebehoort aan een natuurlijke persoon, worden diens persoonlijke gegevens opgegeven.
 
 #### § 4. Gegevens afhankelijk van de rechtsvorm
 
-#### Artikel 15
+##### Artikel 15
 
 Van een vennootschap onder firma worden opgegeven:
 
@@ -140,7 +165,7 @@ Van een vennootschap onder firma worden opgegeven:
 
 - d. al hetgeen de overeenkomst, voor zover van toepassing, bevat ter bepaling van de rechten van derden.
 
-#### Artikel 16
+##### Artikel 16
 
 Van een commanditaire vennootschap worden opgegeven:
 
@@ -158,7 +183,7 @@ Van een commanditaire vennootschap worden opgegeven:
 
 - g. ingeval van een commanditaire vennootschap op aandelen aan toonder, wordt in plaats van het onder f bepaalde opgegeven het bedrag van het commanditair kapitaal, het aantal en het bedrag van de aandelen, waarin het verdeeld is, en het bedrag van het geplaatste kapitaal, terwijl bij een commanditaire vennootschap op aandelen op naam tevens het bepaalde onder f toepasselijk blijft. Het bedrag van het geplaatste kapitaal wordt eenmaal per jaar opgegeven, totdat blijkens opgave het kapitaal geheel is geplaatst.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Van een naamloze vennootschap en een besloten vennootschap worden opgegeven:
 
@@ -176,7 +201,7 @@ Van een commanditaire vennootschap worden opgegeven:
 
 2. Bij het handelsregister wordt gedeponeerd een authentiek afschrift van de oprichtingsakte van de vennootschap en van de statuten, indien deze in een afzonderlijke akte zijn opgenomen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Van een aandeelhouder-bestuurde vennootschap worden opgegeven:
 
@@ -192,7 +217,7 @@ Van een commanditaire vennootschap worden opgegeven:
 
 2. Bij het handelsregister wordt gedeponeerd een authentiek afschrift van de oprichtingsakte van de vennootschap en van de statuten, indien deze in een afzonderlijke akte zijn opgenomen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Van een vereniging met volledige rechtsbevoegdheid, coöperatie of onderlinge waarborgmaatschappij worden opgegeven:
 
@@ -210,7 +235,7 @@ Van een commanditaire vennootschap worden opgegeven:
 
 4. Van een vereniging zonder volledige rechtsbevoegdheid kunnen worden opgegeven de in het eerste lid, onder a tot en met d, bedoelde gegevens en vindt daarbij het derde lid overeenkomstige toepassing.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Van een stichting en een stichting particulier fonds worden opgegeven:
 
@@ -228,7 +253,7 @@ Van een commanditaire vennootschap worden opgegeven:
 
 3. Indien de stichting of stichting particulier fonds niet is opgericht naar het recht van het openbaar lichaam, dan worden opgegeven de in het eerste lid, onder a tot en met e, bedoelde gegevens, en vinden het tweede lid van dit artikel en [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028479&paragraaf=4&artikel=21&z=2022-01-01&g=2022-01-01), overeenkomstige toepassing.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien een op het openbaar lichaam gevestigde onderneming of een op het openbaar lichaam gelegen nevenvestiging van een buiten het openbaar lichaam gevestigde onderneming toebehoort aan een buitenlandse rechtspersoon, niet zijnde een stichting of stichting particulier fonds, dan worden opgegeven:
 
@@ -252,7 +277,7 @@ Van een commanditaire vennootschap worden opgegeven:
 
 #### § 5. Bijzondere gegevens
 
-#### Artikel 22
+##### Artikel 22
 
 1. Heeft een onderneming, rechtspersoon of nevenvestiging één of meer procuratiehouders of andere gevolmachtigden, dan worden ook deze ter inschrijving opgegeven. Van deze procuratiehouders en gevolmachtigden worden opgegeven hun persoonlijke gegevens en of zij beperkte of onbeperkte volmacht hebben om de onderneming, de rechtspersoon of de nevenvestiging te vertegenwoordigen.
 
@@ -262,7 +287,7 @@ Van een commanditaire vennootschap worden opgegeven:
 
 - b. het nummer waaronder en het register waarin de rechtspersoon is ingeschreven.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Bij het handelsregister wordt, indien het betreft een naamloze vennootschap die voldoet aan elk van de criteria gesteld in [artikel 119, tweede lid, van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=119), de mededeling gedeponeerd dat haar jaarrekening ter hare kantore ter inzage is gelegd. Indien daartoe de verplichting bestaat wordt daarbij tevens vermeld, dat de jaarrekening niet betreft een goedgekeurde jaarrekening, en voorts of een belanghebbende die inzage wil, zich moet laten vertegenwoordigen door een deskundige zoals bedoeld in [artikel 121, zesde lid, van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=121).
 
@@ -270,7 +295,7 @@ Van een commanditaire vennootschap worden opgegeven:
 
 3. Bij het handelsregister wordt, indien het betreft een vennootschap die voldoet aan het in [artikel 123 van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=123) bepaalde, de onder c van dat artikel bedoelde verklaring gedeponeerd.
 
-#### Artikel 24
+##### Artikel 24
 
 In het handelsregister wordt in geval van omzetting, fusie of splitsing gedeponeerd:
 
@@ -280,7 +305,7 @@ In het handelsregister wordt in geval van omzetting, fusie of splitsing gedepone
 
 - c. indien het betreft de splitsing van een rechtspersoon, de in [artikel 342 van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=342) voorgeschreven bescheiden.
 
-#### Artikel 25
+##### Artikel 25
 
 In het handelsregister wordt opgegeven:
 
@@ -288,11 +313,11 @@ In het handelsregister wordt opgegeven:
 
 - b. de opgave van de opheffing van de onderneming en tot uitschrijving van de rechtspersoon.
 
-#### Artikel 26
+##### Artikel 26
 
 Indien een minderjarige, aan wie een onderneming toebehoort of die vennoot onder firma is, handlichting heeft verkregen, worden het tijdstip waarop de handlichting is verleend en de bevoegdheden die de minderjarige daarbij zijn toegekend, opgegeven. Bij de opgave ter inschrijving wordt overgelegd het blad waarin van overheidswege de officiële berichten worden geplaatst en waarin de rechterlijke beschikking inzake de handlichting is openbaar gemaakt, of een authentiek afschrift van de beschikking met vermelding van de dagtekening van dat blad.
 
-#### Artikel 27
+##### Artikel 27
 
 In geval van onderbewindstelling, ook die als bedoeld in [titel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&titeldeel=18) of [titel 19 van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&titeldeel=19), van een onderneming of een aandeel in een vennootschap, worden door de bewindvoerder ter inschrijving in het handelsregister opgegeven:
 
@@ -302,7 +327,7 @@ In geval van onderbewindstelling, ook die als bedoeld in [titel 18](https://wett
 
 - c. de aanvang en het einde van het bewind.
 
-#### Artikel 28
+##### Artikel 28
 
 In geval van curatele van degene die als eigenaar van een onderneming, als vennoot onder firma, of als beherend vennoot in een commanditaire vennootschap, die in het handelsregister is ingeschreven, wordt opgegeven:
 
@@ -314,7 +339,7 @@ In geval van curatele van degene die als eigenaar van een onderneming, als venno
 
 - d. alle aantekeningen die krachtens [artikel 391, Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=391), in de registers ter griffie van het Gerecht in eerste aanleg worden gehouden, door de curator of door hem die met het houden van die aantekeningen belast is.
 
-#### Artikel 29
+##### Artikel 29
 
 1. In geval van faillissement of surseance van betaling wordt opgegeven:
 
@@ -328,7 +353,7 @@ In geval van curatele van degene die als eigenaar van een onderneming, als venno
 
 2. Indien het een uitspraak van een buitenlandse rechter betreft inzake een vennootschap of rechtspersoon als bedoeld in de [artikelen 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028479&paragraaf=4&artikel=20&z=2022-01-01&g=2022-01-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028479&paragraaf=4&artikel=21&z=2022-01-01&g=2022-01-01), wordt de opgave gedaan door degene die op grond van de [Handelsregisterwet 2009 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028503) verplicht is opgave te doen.
 
-#### Artikel 30
+##### Artikel 30
 
 1. In geval van ontbinding van een rechtspersoon wordt opgegeven:
 
@@ -344,13 +369,13 @@ In geval van curatele van degene die als eigenaar van een onderneming, als venno
 
 4. Tot het doen van de opgave van de ontbinding als gevolg van een faillissement is mede de curator verplicht. In alle andere gevallen van ontbinding is tot het doen van de opgave van de ontbinding mede de vereffenaar verplicht.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Ingeval van opheffing van een onderneming zijn zowel degenen die op grond van de [Handelsregisterwet 2009 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028503) verplicht zijn om opgaaf te doen als de vereffenaar gehouden binnen een week daarvan opgave te doen.
 
 2. Heeft een onderneming langer dan een week opgehouden te bestaan, zonder dat de opheffing voor inschrijving is opgegeven, dan kan de Secretaris na ingesteld onderzoek handelen als ware opgave gedaan van de opheffing.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De Secretaris is ambtshalve bevoegd tot het inschrijven van een wijziging, na onderzoek of na op andere wijze kennis gekregen te hebben, in de volgende gegevens van een ingeschreven onderneming, hoofdvestiging, nevenvestiging of rechtspersoon:
 
@@ -372,23 +397,23 @@ In geval van curatele van degene die als eigenaar van een onderneming, als venno
 
 #### § 5a. Bijdrage eerste inschrijving en jaarlijkse bijdrage onderneming, rechtspersoon of nevenvestiging
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Dit besluit berust op [artikel 20 van de Handelsregisterwet 2009 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=20).
 
-#### Artikel 35
+##### Artikel 35
 
 Dit besluit treedt in werking op het tijdstip waarop de [Handelsregisterwet 2009 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028503) in werking treedt.
 
-#### Artikel 36
+##### Artikel 36
 
 Dit besluit wordt aangehaald als: Handelsregisterbesluit 2009 BES.
 
-#### Artikel 32a
+##### Artikel 32a
 
 1. Bij ministeriële regeling wordt het bedrag van de bijdrage bij de eerste inschrijving van een onderneming, rechtspersoon of nevenvestiging en van de jaarlijkse bijdrage als bedoeld in [artikel 14, eerste lid, van de Handelsregisterwet 2009 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=14), vastgesteld.
 

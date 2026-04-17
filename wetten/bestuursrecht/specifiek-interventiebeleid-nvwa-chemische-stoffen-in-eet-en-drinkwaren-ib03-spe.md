@@ -1,13 +1,39 @@
 ---
-title: "Specifiek interventiebeleid NVWA chemische stoffen in eet- en drinkwaren (IB03-SPEC 43, versie 06)"
+title: "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport van 25 oktober 2024 tot vaststelling van het Specifiek interventiebeleid NVWA chemische stoffen in eet- en drinkwaren (IB03-SPEC 43, versie 06)"
 identifier: "BWBR0050505"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-12-12
-laatste_update: 2024-12-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050505"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-12-12"
+last_updated: "2024-12-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050505"
+soort: "beleidsregel"
+stam_id: "17293983"
+version_id: "30457442"
+internal_id: "C43670611"
+label_id: "17198094"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050505/2024-12-12/0"
+intitule_bron: "Stcrt.2024-37495"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-10-25"
+intitule_published: "2024-12-11"
+intitule_in_force: "2024-12-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-37495"
+original_signed_date: "2024-10-25"
+original_published_date: "2024-12-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-37495"
+entry_into_force_date: "2024-12-12"
+jci_1_3: "jci1.3:c:BWBR0050505&z=2024-12-12&g=2024-12-12"
+jci_1_0: "1.0:c:BWBR0050505&g=2024-12-12"
+citeertitel_status: "officieel"
+short_title: "Specifiek interventiebeleid NVWA chemische stoffen in eet- en drinkwaren (IB03-SPEC 43, versie 06)"
+signed_date: "2024-10-25"
+entry_into_force: "2024-12-12"
 ---
-
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport van 25 oktober 2024 tot vaststelling van het Specifiek interventiebeleid NVWA chemische stoffen in eet- en drinkwaren (IB03-SPEC 43, versie 06)
 
 De Minister van Volksgezondheid, Welzijn en Sport,

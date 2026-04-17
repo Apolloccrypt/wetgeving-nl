@@ -1,13 +1,38 @@
 ---
-title: "Uitvoeringsbesluit pensioenaspecten Sociaal Akkoord 2004"
+title: "Besluit van 16 juli 2005, houdende regels op het gebied van pensioen ter uitvoering van een aantal onderwerpen uit de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling (Uitvoeringsbesluit pensioenaspecten Sociaal Akkoord 2004)"
 identifier: "BWBR0018605"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-12-25
-laatste_update: 2018-12-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018605"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-12-25"
+last_updated: "2018-12-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018605"
+soort: "AMvB"
+stam_id: "7168513"
+version_id: "12084872"
+internal_id: "C16988211"
+label_id: "7156514"
+original_entry_into_force: "2006-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018605/2018-12-25/0"
+intitule_bron: "Stb.2005-391"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-07-16"
+intitule_published: "2005-07-28"
+intitule_in_force: "2005-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2005-391"
+original_signed_date: "2005-07-16"
+original_published_date: "2005-07-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2005-391"
+entry_into_force_date: "2006-01-01"
+jci_1_3: "jci1.3:c:BWBR0018605&z=2018-12-25&g=2018-12-25"
+jci_1_0: "1.0:c:BWBR0018605&g=2018-12-25"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit pensioenaspecten Sociaal Akkoord 2004"
+signed_date: "2005-07-16"
+entry_into_force: "2006-01-01"
 ---
-
 # Besluit van 16 juli 2005, houdende regels op het gebied van pensioen ter uitvoering van een aantal onderwerpen uit de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling (Uitvoeringsbesluit pensioenaspecten Sociaal Akkoord 2004)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 30 mei 2005, Directie Arbeidsverhoudingen, nr. AV/PB/05/35584;
@@ -22,7 +47,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +59,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Nadere regels 40-deelnemingsjarenpensioen
 
-#### Artikel 2. Informatie over deelnemingsjaren
+##### Artikel 2. Informatie over deelnemingsjaren
 
 1. Een pensioenuitvoerder verstrekt binnen drie maanden na ontvangst van een daartoe strekkend verzoek van een deelnemer of gewezen deelnemer een opgave van de geadministreerde deelnemingsjaren en alle schriftelijke bescheiden die de perioden, voorafgaand aan een voor 1 januari 2005 gedane waardeoverdracht naar de pensioenuitvoerder, kunnen staven die als deelnemingsjaren kunnen worden aangemerkt.
 
@@ -46,7 +71,7 @@ In dit besluit wordt verstaan onder:
 
 3. De pensioenuitvoerder kan een vergoeding vragen voor de aan de verstrekking van de opgave verbonden kosten.
 
-#### Artikel 3. Deelnemingsjaren en waardeoverdracht
+##### Artikel 3. Deelnemingsjaren en waardeoverdracht
 
 1. In geval van waardeoverdracht verstrekt de overdragende pensioenuitvoerder aan de overnemende pensioenuitvoerder bij de opgave, bedoeld in [artikel 18 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=3), een opgave van de geadministreerde deelnemingsjaren als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=2&artikel=2&z=2018-12-25&g=2018-12-25). Tevens verstrekt de pensioenuitvoerder alle schriftelijke bescheiden die de als deelnemingsjaren aan te merken perioden, voorafgaand aan een voor 1 januari 2005 gedane waardeoverdracht naar de overdragende pensioenuitvoerder, kunnen staven.
 
@@ -54,7 +79,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 3. Uitstel financiering van over het verleden in te kopen pensioenruimte
 
-#### Artikel 4. Uitstel financiering van over het verleden in te kopen pensioenruimte
+##### Artikel 4. Uitstel financiering van over het verleden in te kopen pensioenruimte
 
 1. Aanspraken die worden toegezegd op de wijze, bedoeld in dit artikel, en die zullen worden verkregen door middel van inkoop over perioden in het verleden waarin minder pensioenaanspraken zijn opgebouwd dan op basis van [hoofdstuk IIB van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIB) is toegestaan, hoeven niet evenredig in de tijd te worden opgebouwd en gefinancierd.
 
@@ -74,13 +99,13 @@ In dit besluit wordt verstaan onder:
 
 6. Bij aanspraken op grond van een beroepspensioenregeling is het tweede lid van overeenkomstige toepassing.
 
-#### Artikel 5. Jaarlijkse opgave van door financiering ontstane pensioenaanspraken
+##### Artikel 5. Jaarlijkse opgave van door financiering ontstane pensioenaanspraken
 
 Bij toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=3&artikel=4&z=2018-12-25&g=2018-12-25) verstrekt een pensioenuitvoerder gedurende de periode dat de toegezegde aanspraken nog niet of niet volledig zijn gefinancierd jaarlijks aan de betrokken deelnemer informatie over de in totaal toegezegde aanspraken en de reeds gefinancierde pensioenaanspraken.
 
 #### § 4. Opgave en berekening premievrije waarde prepensioenaanspraken
 
-#### Artikel 6. Opgave op basis van premievrije waarde prepensioenaanspraken
+##### Artikel 6. Opgave op basis van premievrije waarde prepensioenaanspraken
 
 1. De pensioenuitvoerder heeft de opgave, bedoeld in [artikel 17, zesde lid, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=17), binnen een jaar na het tijdstip van inwerkingtreding van dit besluit verstrekt.
 
@@ -92,7 +117,7 @@ Bij toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&p
 
 - c. de aanspraken op een of meerdere pensioenuitkeringen voorafgaand aan de datum waarop de deelnemer of gewezen deelnemer de leeftijd van 65 jaren bereikt.
 
-#### Artikel 7. Rekenregels premievrije waarde
+##### Artikel 7. Rekenregels premievrije waarde
 
 1. Pensioenuitvoerders berekenen:
 
@@ -112,21 +137,21 @@ Bij toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&p
 
 - b. de actuariële methoden die een verzekeraar hanteert voor de vaststelling van de technische voorzieningen.
 
-#### Artikel 8. Binnen twee maanden verzoek tot afkoop ten behoeve van levensloopregeling
+##### Artikel 8. Binnen twee maanden verzoek tot afkoop ten behoeve van levensloopregeling
 
 Indien de deelnemer of gewezen deelnemer in de gelegenheid wordt gesteld zijn aanspraken, opgebouwd ten behoeve van een pensioenuitkering voorafgaand aan de datum waarop de deelnemer of gewezen deelnemer de leeftijd van 65 jaren bereikt, aan te wenden ten behoeve van een voor de deelnemer of gewezen deelnemer bestemde levensloopregeling als bedoeld in [artikel 19g van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19g) en de deelnemer of gewezen deelnemer daarvan gebruik wil maken, dient de deelnemer of gewezen deelnemer binnen twee maanden na ontvangst van de opgave, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=4&artikel=6&z=2018-12-25&g=2018-12-25), een daartoe strekkend verzoek bij de pensioenuitvoerder in.
 
-#### Artikel 9. Afkoop ten behoeve van levensloopregeling binnen een maand
+##### Artikel 9. Afkoop ten behoeve van levensloopregeling binnen een maand
 
 De overdragende pensioenuitvoerder betaalt de afkoopsom binnen een maand na ontvangst van het daartoe strekkende verzoek, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&paragraaf=4&artikel=8&z=2018-12-25&g=2018-12-25), aan de uitvoerder van de levensloopregeling, bedoeld in artikel [19g, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19g).
 
 #### § 5. Inwerkingtreding en citeertitel
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit pensioenaspecten Sociaal Akkoord 2004.
 

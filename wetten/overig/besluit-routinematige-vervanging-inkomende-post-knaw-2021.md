@@ -1,13 +1,38 @@
 ---
 title: "Besluit routinematige vervanging inkomende post KNAW 2021"
 identifier: "BWBR0045992"
-categorie: "Overig"
-publicatiedatum: 2021-12-09
-laatste_update: 2020-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045992"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-12-09"
+last_updated: "2020-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045992"
+soort: "zbo"
+stam_id: "16171883"
+version_id: "28218062"
+internal_id: "C39780671"
+label_id: "16100214"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045992/2021-12-09/0"
+intitule_bron: "Stcrt.2021-48036"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-11-24"
+intitule_published: "2021-12-08"
+intitule_in_force: "2021-12-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-48036"
+original_signed_date: "2021-11-24"
+original_published_date: "2021-12-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-48036"
+entry_into_force_date: "2021-12-09"
+jci_1_3: "jci1.3:c:BWBR0045992&z=2021-12-09&g=2021-12-09"
+jci_1_0: "1.0:c:BWBR0045992&g=2021-12-09"
+citeertitel_status: "officieel"
+signed_date: "2021-11-24"
+entry_into_force: "2021-12-09"
 ---
-
 # Besluit routinematige vervanging inkomende post KNAW 2021
 
 Gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7), [artikel 6 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6) en [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26a) en [26b van de Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b), artikel 3.2.8, onder b, van de Mandatenregeling KNAW en artikel 12 van de Regeling Archiefbeheer KNAW,
@@ -16,7 +41,7 @@ BESLUIT,
 
 vast te stellen onder kenmerk ARCHIEF/JME/1419,
 
-#### Artikel 1. Routinematige vervanging
+##### Artikel 1. Routinematige vervanging
 
 - a. Over te gaan tot routinematige vervanging door digitale reproducties van ontvangen analoge archiefbescheiden die op grond van de actuele selectielijst van de KNAW voor bewaring of vernietiging in aanmerking komen, waarna de analoge archiefbescheiden worden vernietigd. Dit houdt in dat papieren archiefbescheiden, ontstaan in het kader van werkprocessen van de KNAW, worden vervangen door digitale reproducties, welke na vernietiging van de papieren stukken als originele archiefbescheiden zullen worden aangemerkt;
 
@@ -24,13 +49,13 @@ vast te stellen onder kenmerk ARCHIEF/JME/1419,
 
 - c. Dit besluit is niet van toepassing op documenten die, overeenkomstig paragraaf 3.4 van het in onderdeel b genoemde handboek, van vervanging worden uitgesloten.
 
-#### Artikel 2. Inwerkingtreding
+##### Artikel 2. Inwerkingtreding
 
 - a. Dit besluit vervangt het Besluit tot vervanging van de personeelsdossiers van de Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) van 4 juli 2018 voor zover het de routinematige vervanging door digitale reproducties van de analoge archiefbescheiden in de personeelsdossiers betreft. Dat besluit van 2018 blijft wel van toepassing op de retrospectieve vervanging (vervanging met terugwerkende kracht) van de personeelsdossiers;
 
 - b. Dit besluit treedt in werking met ingang van de eerste dag na de dag van bekendmaking van dit besluit in de Staatscourant. De vervanging geschiedt met terugwerkende kracht vanaf 1 november 2020.
 
-#### Artikel 3. Citeertitel
+##### Artikel 3. Citeertitel
 
 Dit besluit kan worden aangehaald als: Besluit routinematige vervanging inkomende post KNAW 2021.
 

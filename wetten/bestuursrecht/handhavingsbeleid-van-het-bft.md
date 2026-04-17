@@ -1,13 +1,38 @@
 ---
 title: "Handhavingsbeleid van het BFT"
 identifier: "BWBR0051291"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-18
-laatste_update: 2025-07-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051291"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-07-18"
+last_updated: "2025-07-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051291"
+soort: "zbo"
+stam_id: "17479693"
+version_id: "30827352"
+internal_id: "C44177631"
+label_id: "17382034"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051291/2025-07-18/0"
+intitule_bron: "Stcrt.2025-24509"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-27"
+intitule_published: "2025-07-18"
+intitule_in_force: "2025-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-24509"
+original_signed_date: "2025-06-27"
+original_published_date: "2025-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-24509"
+entry_into_force_date: "2025-07-18"
+jci_1_3: "jci1.3:c:BWBR0051291&z=2025-07-18&g=2025-07-18"
+jci_1_0: "1.0:c:BWBR0051291&g=2025-07-18"
+citeertitel_status: "redactioneel"
+signed_date: "2025-06-27"
+entry_into_force: "2025-07-18"
 ---
-
 # Handhavingsbeleid van het BFT
 
 Gelet op [artikel 4:81 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) kan het BFT beleidsregels vaststellen met betrekking tot een aan het BFT toekomende of onder zijn verantwoordelijkheid uitgeoefende, dan wel door hem gedelegeerde bevoegdheid. Het handhavingsbeleid is geactualiseerd met het oog op bij de huidige toezichtpraktijk.

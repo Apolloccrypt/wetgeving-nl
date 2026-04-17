@@ -1,13 +1,39 @@
 ---
-title: "Besluit implementatie richtlijn gegevensbescherming opsporing en vervolging"
+title: "Besluit van 6 december 2018 tot wijziging van het Besluit politiegegevens, het Besluit justitiële en strafvorderlijke gegevens en het Besluit politiegegevens bijzondere opsporingsdiensten ter implementatie van Europese regelgeving over de verwerking van persoonsgegevens met het oog op de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen (Besluit implementatie richtlijn gegevensbescherming opsporing en vervolging)"
 identifier: "BWBR0041734"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041734"
+country: "nl"
+rank: "amvb"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041734"
+soort: "AMvB"
+stam_id: "14918693"
+version_id: "25527532"
+internal_id: "C36444791"
+label_id: "14870034"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041734/2019-01-01/0"
+intitule_bron: "Stb.2018-496"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-12-06"
+intitule_published: "2018-12-24"
+intitule_in_force: "2018-12-24"
+intitule_status: "goed"
+original_publication: "Stb.2018-496"
+original_signed_date: "2018-12-06"
+original_published_date: "2018-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2018-496"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041734&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0041734&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit implementatie richtlijn gegevensbescherming opsporing en vervolging"
+signed_date: "2018-12-06"
+entry_into_force: "2019-01-01"
 ---
-
 # Besluit van 6 december 2018 tot wijziging van het Besluit politiegegevens, het Besluit justitiële en strafvorderlijke gegevens en het Besluit politiegegevens bijzondere opsporingsdiensten ter implementatie van Europese regelgeving over de verwerking van persoonsgegevens met het oog op de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen (Besluit implementatie richtlijn gegevensbescherming opsporing en vervolging)
 
 Op de voordracht van Onze Minister voor Rechtsbescherming, gedaan mede namens Onze Minister van Defensie, van 6 juli 2018, nr.2309389, directie Wetgeving en Juridische Zaken;
@@ -20,23 +46,23 @@ Gezien het nader rapport van Onze Minister voor Rechtsbescherming, mede namens O
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit politiegegevens.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit justitiële en strafvorderlijke gegevens.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit politiegegevens bijzondere opsporingsdiensten.
 
-#### Artikel IV
+##### Artikel IV
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel V
+##### Artikel V
 
 Dit besluit wordt aangehaald als: Besluit implementatie richtlijn gegevensbescherming opsporing en vervolging.
 

@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Commissie Wet wapens en munitie"
+title: "Besluit van de Minister van Justitie en Veiligheid van 19 januari 2022, nr. 3576949, houdende instelling van de Commissie Wet wapens en munitie (Instellingsbesluit Commissie Wet wapens en munitie)"
 identifier: "BWBR0046248"
-categorie: "Overig"
-publicatiedatum: 2022-10-07
-laatste_update: 2022-10-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046248"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-10-07"
+last_updated: "2022-10-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046248"
+soort: "ministeriele-regeling"
+stam_id: "16248603"
+version_id: "28374822"
+internal_id: "C40018351"
+label_id: "16175994"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046248/2022-10-07/0"
+intitule_bron: "Stcrt.2022-3320"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-01-19"
+intitule_published: "2022-01-28"
+intitule_in_force: "2022-01-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-3320"
+original_signed_date: "2022-01-19"
+original_published_date: "2022-01-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-3320"
+entry_into_force_date: "2022-01-29"
+jci_1_3: "jci1.3:c:BWBR0046248&z=2022-10-07&g=2022-10-07"
+jci_1_0: "1.0:c:BWBR0046248&g=2022-10-07"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Commissie Wet wapens en munitie"
+signed_date: "2022-01-19"
+entry_into_force: "2022-01-29"
 ---
-
 # Besluit van de Minister van Justitie en Veiligheid van 19 januari 2022, nr. 3576949, houdende instelling van de Commissie Wet wapens en munitie (Instellingsbesluit Commissie Wet wapens en munitie)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **commissie:** commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046248&artikel=2&z=2022-10-07&g=2022-10-07).
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een Commissie Wet wapens en munitie.
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 5. De mogelijkheden dienen zo veel als mogelijk aan te sluiten bij de door het kabinet vastgestelde normen zoals opgenomen in het Integraal afwegingskader voor beleid en regelgeving (IAK).
 
-#### Artikel 3. Samenstelling, benoeming, ontslag
+##### Artikel 3. Samenstelling, benoeming, ontslag
 
 1. De commissie bestaat uit een voorzitter en veertien andere leden.
 
@@ -48,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 4. De voorzitter en overige leden kunnen op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst en ontslagen door de minister.
 
-#### Artikel 4. Instellingsduur en eindrapport
+##### Artikel 4. Instellingsduur en eindrapport
 
 1. De commissie wordt ingesteld voor de duur van elf maanden, te rekenen vanaf de datum van inwerkingtreding van dit besluit, en zij brengt voor het einde van de instellingsduur haar eindrapport uit.
 
@@ -56,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 3. De minister beslist, op verzoek van de voorzitter van de commissie, over de eventuele verlenging van de termijn bedoeld in het eerste lid en brengt de commissie daarvan schriftelijk op de hoogte.
 
-#### Artikel 5. Leden
+##### Artikel 5. Leden
 
 Met ingang van 7 februari 2022 worden tot lid van de commissie benoemd:
 
@@ -90,7 +116,7 @@ Met ingang van 7 februari 2022 worden tot lid van de commissie benoemd:
 
 - o. de heer mr. drs. E.C. Virginia (Ministerie van Landbouw, Natuur en Voedselkwaliteit).
 
-#### Artikel 6. Secretariaat
+##### Artikel 6. Secretariaat
 
 1. De minister voorziet in het secretariaat van de commissie.
 
@@ -100,7 +126,7 @@ Met ingang van 7 februari 2022 worden tot lid van de commissie benoemd:
 
 4. De minister draagt, op verzoek van de voorzitter, zorg voor de nodige voorzieningen ten behoeve van de werkzaamheden van de commissie.
 
-#### Artikel 7. Werkwijze en beraadslaging
+##### Artikel 7. Werkwijze en beraadslaging
 
 1. De commissie stelt haar eigen werkwijze vast.
 
@@ -120,7 +146,7 @@ Met ingang van 7 februari 2022 worden tot lid van de commissie benoemd:
 
 6. De commissie kan slechts besluiten nemen of rapporten vaststellen indien ten minste de helft van de leden aanwezig is.
 
-#### Artikel 8. Vergoeding
+##### Artikel 8. Vergoeding
 
 1. Aan de voorzitter van de commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16, trede 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) (BBRA) en de arbeidsduurfactor op 8/36.
 
@@ -128,7 +154,7 @@ Met ingang van 7 februari 2022 worden tot lid van de commissie benoemd:
 
 3. Het lid van de commissie de heer ing. J. van Driel ontvangt een vergoeding per vergadering van € 200,00.
 
-#### Artikel 9. Kosten van de commissie
+##### Artikel 9. Kosten van de commissie
 
 1. De kosten van de commissie komen, voor zover op basis van een goedgekeurde raming, voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
 
@@ -140,17 +166,17 @@ Met ingang van 7 februari 2022 worden tot lid van de commissie benoemd:
 
 2. De commissie voert een eigen financiële administratie en levert een financieel overzicht op.
 
-#### Artikel 10. Archiefbescheiden
+##### Artikel 10. Archiefbescheiden
 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de
 
 omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Rechtshandhaving en Criminaliteitsbestrijding van het ministerie van Justitie en Veiligheid.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Wet wapens en munitie.
 

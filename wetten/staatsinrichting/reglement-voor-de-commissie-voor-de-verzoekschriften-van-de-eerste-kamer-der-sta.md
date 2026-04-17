@@ -1,16 +1,40 @@
 ---
 title: "Reglement voor de Commissie voor de Verzoekschriften van de Eerste Kamer der Staten-Generaal"
 identifier: "BWBR0024421"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2023-06-13
-laatste_update: 2023-06-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024421"
+country: "nl"
+rank: "reglement"
+publication_date: "2023-06-13"
+last_updated: "2023-06-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024421"
+soort: "reglement"
+stam_id: "9708003"
+version_id: "29458712"
+internal_id: "C42128141"
+label_id: "9684934"
+dtd_version: "2.0"
+original_entry_into_force: "2023-06-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024421/2023-06-13/0"
+intitule_bron: "Kst.1995-160a"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-28"
+intitule_published: "1995-12-28"
+intitule_in_force: "1995-12-28"
+intitule_status: "goed"
+original_publication: "Kst.2023-CLVI"
+original_signed_date: "2023-03-28"
+original_published_date: "2023-05-16"
+original_effect: "structuurwijziging"
+entry_into_force_date: "2023-06-13"
+jci_1_3: "jci1.3:c:BWBR0024421&z=2023-06-13&g=2023-06-13"
+jci_1_0: "1.0:c:BWBR0024421&g=2023-06-13"
+citeertitel_status: "redactioneel"
+signed_date: "2023-03-28"
+entry_into_force: "2023-06-13"
 ---
-
 # Reglement voor de Commissie voor de Verzoekschriften van de Eerste Kamer der Staten-Generaal
 
-#### Artikel 1
+##### Artikel 1
 
 In dit reglement wordt verstaan onder:
 
@@ -20,7 +44,7 @@ In dit reglement wordt verstaan onder:
 
 - c. overheid, organen van de centrale overheid, waaronder begrepen diensten en bedrijven, die, hetzij direct, hetzij indirect geheel of gedeeltelijk worden geëxploiteerd voor rekening van het Rijk.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De commissie kan een onderzoek instellen naar aanleiding van aangelegenheden, aan de orde gesteld in verzoekschriften, betreffende de wijze waarop de overheid haar taak vervult of betreffende de vraag of de overheid al dan niet een taak zal moeten gaan vervullen.
 
@@ -38,7 +62,7 @@ In dit reglement wordt verstaan onder:
 
 - f. andere personen of leden van colleges, met rechtspraak of arbitrage belast, in hun functie als zodanig.
 
-#### Artikel 3
+##### Artikel 3
 
 Een verzoekschrift dient te bevatten:
 
@@ -46,7 +70,7 @@ Een verzoekschrift dient te bevatten:
 
 - b. een uiteenzetting van de redenen en het belang welke tot de indiening van het verzoekschrift hebben geleid.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie brengt ten aanzien van een verzoekschrift aan de Kamer verslag uit, tenzij zij geen onderzoek heeft ingesteld op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024421&artikel=2&z=2023-06-13&g=2023-06-13) of [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024421&artikel=5&z=2023-06-13&g=2023-06-13), van dit reglement.
 
@@ -56,7 +80,7 @@ Een verzoekschrift dient te bevatten:
 
 4. Elk verslag van de commissie wordt openbaar gemaakt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De commissie stelt geen onderzoek in naar een in een verzoekschrift aan de orde gestelde aangelegenheid indien haar blijkt dat:
 
@@ -76,16 +100,16 @@ Een verzoekschrift dient te bevatten:
 
 2. De commissie kan in afwijking van het in het vorige lid bepaalde de Kamer voorstellen om wel te treden in een aangelegenheid indien uitzonderlijke omstandigheden dan wel aan het algemeen belang ontleende overwegingen haar daartoe aanleiding geven.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De commissie kan ten aanzien van een verzoekschrift één of meer van haar leden benoemen tot rapporteur.
 
 2. Een verzoekschrift wordt, tenzij de commissie dit niet nodig acht, gezonden naar de verantwoordelijke minister of staatssecretaris met het verzoek daaromtrent inlichtingen te verschaffen.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit reglement treedt in werking met ingang van de dag na die waarop het door de Kamer is vastgesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit reglement treedt in werking met ingang van de dag na die waarop het door de Kamer is vastgesteld.

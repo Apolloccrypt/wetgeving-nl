@@ -1,24 +1,46 @@
 ---
 title: "Deelregeling Publicaties 2017"
 identifier: "BWBR0038794"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038794"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038794"
+soort: "zbo"
+stam_id: "13807683"
+version_id: "23686342"
+internal_id: "C34099091"
+label_id: "13773704"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038794/2025-01-01/0"
+intitule_bron: "Stcrt.2016-65525"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-12-05"
+intitule_in_force: "2016-12-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-65525"
+original_published_date: "2016-12-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-65525"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0038794&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0038794&g=2025-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2017-01-01"
 ---
-
 # Deelregeling Publicaties 2017
 
 Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
 
 Besluit:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Het bevorderen van de kennis over en verspreiding van Nederlandse hedendaagse beeldende kunst onder een (inter)nationaal publiek, waardoor de talentontwikkeling van kunstenaars wordt gestimuleerd. Dit gebeurt in de vorm van bijdragen voor het realiseren van publicaties van werk van levende beeldend kunstenaars uit Nederland, die door inhoud en/of vorm bijdragen aan de discussie over of aan het inzicht in de hedendaagse beeldende kunsten.
 
-#### Artikel 2. Toepasselijkheid
+##### Artikel 2. Toepasselijkheid
 
 1. Een bijdrage publicatiesubsidie kan worden verstrekt aan:
 
@@ -50,7 +72,7 @@ Het bevorderen van de kennis over en verspreiding van Nederlandse hedendaagse be
 
 7. Indien de publicatie in eigen beheer wordt uitgegeven, kan de bijdrage een tegemoetkoming in de kosten voor tijdsinvestering omvatten.
 
-#### Artikel 3. Aanvraag
+##### Artikel 3. Aanvraag
 
 Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0038798), het aanvraagformulier en in de toelichting daarop, dient de aanvraag vergezeld te gaan van:
 
@@ -66,7 +88,7 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 - •. een distributieplan, een promotieplan, de verkoopprijs, een begroting en offertes.
 
-#### Artikel 4. Beoordeling
+##### Artikel 4. Beoordeling
 
 1. Het bestuur stelt selectierondes voor aanvragen voor publicaties vast conform [artikel 4, eerste lid van het Algemeen Reglement van het Mondriaan Fonds](https://wetten.overheid.nl/jci1.3:c:BWBR0032717&artikel=4).
 
@@ -94,15 +116,15 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 7. Het bestuur kan het bevoegd adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in lid 4 van dit artikel. Daarbij kan een afweging tussen de verschillende soorten publicaties, zoals bedoeld in [artikel 2 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038794&artikel=2&z=2025-01-01&g=2025-01-01) een rol spelen.
 
-#### Artikel 5. Overgangsbepaling
+##### Artikel 5. Overgangsbepaling
 
 De [Deelregeling Publicaties](https://wetten.overheid.nl/jci1.3:c:BWBR0036400) vervalt op 1 januari 2017. Op aanvragen die op grond van de Deelregeling Publicaties voor 1 januari 2017 zijn ingediend blijven deze regeling en het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0032717) van overeenkomstige toepassing.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2017. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2016, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2017.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Publicaties 2017.
 

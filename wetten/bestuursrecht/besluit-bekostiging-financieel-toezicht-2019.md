@@ -1,13 +1,39 @@
 ---
-title: "Besluit bekostiging financieel toezicht 2019"
+title: "Besluit van 2 april 2019, houdende regels met betrekking tot de begroting en verantwoording van de kosten van het toezicht van de Stichting Autoriteit Financiële Markten en De Nederlandsche Bank N.V. en de financiering van de toezichtkosten (Besluit bekostiging financieel toezicht 2019)"
 identifier: "BWBR0042148"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042148"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042148"
+soort: "AMvB"
+stam_id: "15059153"
+version_id: "25809052"
+internal_id: "C36797361"
+label_id: "15008344"
+dtd_version: "2.0"
+original_entry_into_force: "2019-04-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042148/2026-01-01/0"
+intitule_bron: "Stb.2019-156"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-04-02"
+intitule_published: "2019-04-25"
+intitule_in_force: "2019-04-25"
+intitule_status: "goed"
+original_publication: "Stb.2019-156"
+original_signed_date: "2019-04-02"
+original_published_date: "2019-04-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2019-156"
+entry_into_force_date: "2019-04-26"
+jci_1_3: "jci1.3:c:BWBR0042148&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0042148&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit bekostiging financieel toezicht 2019"
+signed_date: "2019-04-02"
+entry_into_force: "2019-04-26"
 ---
-
 # Besluit van 2 april 2019, houdende regels met betrekking tot de begroting en verantwoording van de kosten van het toezicht van de Stichting Autoriteit Financiële Markten en De Nederlandsche Bank N.V. en de financiering van de toezichtkosten (Besluit bekostiging financieel toezicht 2019)
 
 Op de voordracht van Onze Minister van Financiën, gedaan mede namens Onze Minister van Sociale Zaken en Werkgelegenheid, van 22 oktober 2018, 2018-0000176217, directie Financiële Markten;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,27 +64,27 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.1. Begroting
 
-#### Artikel 2. Berekeningswijze doorlopend toezicht
+##### Artikel 2. Berekeningswijze doorlopend toezicht
 
 In de begroting neemt de toezichthouder een overzicht op waaruit de berekeningswijze van de kosten van het doorlopend toezicht, bedoeld in [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&artikel=15), in het desbetreffende jaar blijkt.
 
-#### Artikel 3. Begroting DNB
+##### Artikel 3. Begroting DNB
 
 1. De Nederlandsche Bank neemt in haar begroting afzonderlijke posten op voor de toezichtcategorieën, genoemd in [bijlage 2, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&bijlage=2&z=2026-01-01&g=2026-01-01).
 
 2. Per toezichtcategorie neemt de Nederlandsche Bank in de begroting een bedrag op voor de verwachte opbrengsten van eenmalige handelingen. De kosten van het doorlopend toezicht per toezichtcategorie bedragen het totaal van kosten voor die categorie met aftrek van de verwachte opbrengsten van eenmalige handelingen.
 
-#### Artikel 4. Nadere regels
+##### Artikel 4. Nadere regels
 
 Bij regeling van Onze Ministers kunnen nadere regels met betrekking tot de inrichting van de begroting worden gesteld.
 
 #### § 2.2. Verantwoording
 
-#### Artikel 5. Verantwoording DNB
+##### Artikel 5. Verantwoording DNB
 
 In de verantwoording geeft de Nederlandsche Bank per toezichtcategorie het verschil tussen de gerealiseerde baten en lasten aan. In dit verschil worden de verkregen opbrengsten uit verbeurde dwangsommen en boetes niet meegenomen.
 
-#### Artikel 6. Toerekenen exploitatiesaldo
+##### Artikel 6. Toerekenen exploitatiesaldo
 
 1. De Autoriteit Financiële Markten rekent in enig jaar het exploitatiesaldo van het daaraan voorafgaande jaar overeenkomstig de procentuele verdeling, bedoeld in [bijlage 1, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&bijlage=1&z=2026-01-01&g=2026-01-01), zoals die in dat voorafgaande jaar van toepassing was, aan de desbetreffende toezichtcategorieën toe.
 
@@ -68,7 +94,7 @@ In de verantwoording geeft de Nederlandsche Bank per toezichtcategorie het versc
 
 ### Hoofdstuk 3. Vergoeding van de kosten van het doorlopend toezicht
 
-#### Artikel 7. Vergoeding kosten AFM
+##### Artikel 7. Vergoeding kosten AFM
 
 1. De Autoriteit Financiële Markten rekent de kosten van haar doorlopend toezicht toe aan de toezichtcategorieën, genoemd in [bijlage 1, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&bijlage=1&z=2026-01-01&g=2026-01-01), overeenkomstig de in dat onderdeel opgenomen procentuele verdeling.
 
@@ -76,19 +102,19 @@ In de verantwoording geeft de Nederlandsche Bank per toezichtcategorie het versc
 
 3. De hoogte van het jaarlijks aan een persoon in rekening te brengen bedrag voor het doorlopend toezicht wordt bepaald aan de hand van de maatstaven, zoals voor die persoon vastgesteld in [bijlage 1, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&bijlage=1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 8. Vergoeding kosten DNB
+##### Artikel 8. Vergoeding kosten DNB
 
 1. De Nederlandsche Bank brengt de kosten van het doorlopend toezicht die zij voor een toezichtcategorie maakt, in rekening bij de personen die op grond van [bijlage 2, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&bijlage=2&z=2026-01-01&g=2026-01-01), tot die categorie behoren.
 
 2. De hoogte van het jaarlijks aan een persoon in rekening te brengen bedrag voor het doorlopend toezicht wordt bepaald aan de hand van de maatstaven, zoals vastgesteld in [bijlage 2, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&bijlage=2&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 9. Vaststelling jaarlijkse tarieven
+##### Artikel 9. Vaststelling jaarlijkse tarieven
 
 1. Uiterlijk per 1 juni van ieder jaar worden, op voorstel van de toezichthouder, bij regeling van Onze Ministers, ieder voor diens beleidsverantwoordelijkheid, voor iedere te onderscheiden toezichtcategorie de bandbreedtes en tarieven vastgesteld.
 
 2. Bij de vaststelling van de bandbreedtes en de tarieven wordt rekening gehouden met het bedrag dat op grond van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2026-01-01&g=2026-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&hoofdstuk=3&artikel=7&z=2026-01-01&g=2026-01-01) voor het desbetreffende jaar aan de toezichtcategorie is toegerekend.
 
-#### Artikel 10. Te gebruiken gegevens
+##### Artikel 10. Te gebruiken gegevens
 
 1. De toezichthouder baseert het jaarlijks aan een persoon in rekening te brengen bedrag op de bij de toezichthouder laatst bekende gegevens van de desbetreffende persoon. De gegevens gaan niet verder terug dan twee jaar voor het jaar waarin de vergoeding in rekening wordt gebracht.
 
@@ -102,7 +128,7 @@ In de verantwoording geeft de Nederlandsche Bank per toezichtcategorie het versc
 
 6. Indien een persoon als bedoeld in het vijfde lid niet binnen de door de toezichthouder gestelde termijn een opgave heeft gedaan of een kennelijk onjuiste of onvolledige opgave heeft gedaan, maakt de toezichthouder een schatting van zijn gegevens.
 
-#### Artikel 11. Verhoudingsgewijze vergoeding
+##### Artikel 11. Verhoudingsgewijze vergoeding
 
 1. Het bedrag voor het doorlopend toezicht dat aan een persoon in rekening wordt gebracht, is evenredig aan de tijdsduur dat die persoon in het desbetreffende jaar over een door de toezichthouder, de Europese Centrale Bank of Onze Minister van Financiën afgegeven vergunning of verklaring van ondertoezichtstelling beschikt dan wel dat die persoon op grond van een wettelijke verplichting bij de toezichthouder is geregistreerd.
 
@@ -114,7 +140,7 @@ In de verantwoording geeft de Nederlandsche Bank per toezichtcategorie het versc
 
 5. Indien de toezichthouder overeenkomstig dit artikel een persoon een bedrag van minder dan € 15 is verschuldigd, laat de toezichthouder betaling achterwege.
 
-#### Artikel 12. Fusie
+##### Artikel 12. Fusie
 
 1. Indien de toezichthouder een bedrag voor het doorlopend toezicht niet langer in rekening kan brengen aan een persoon vanwege een fusie van die persoon als bedoeld in [artikel 309 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=309), brengt de toezichthouder het bedrag in rekening bij de persoon die bij die fusie het vermogen van eerstgenoemde persoon heeft verkregen.
 
@@ -124,15 +150,15 @@ In de verantwoording geeft de Nederlandsche Bank per toezichtcategorie het versc
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 13. Overgangsbepaling exploitatiesaldo 2018
+##### Artikel 13. Overgangsbepaling exploitatiesaldo 2018
 
 In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2026-01-01&g=2026-01-01) wordt het exploitatiesaldo, met inbegrip van de opbrengsten uit boetes en verbeurde dwangsommen tot € 2,5 miljoen, over het jaar 2018 door de Autoriteit Financiële Markten en de Nederlandsche Bank in 2019 aan de toezichtcategorieën toegerekend overeenkomstig de procentuele verdeling in de [bijlagen II tot en met V van de Wet bekostiging financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0031659&bijlage=II), zoals die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031659) luidde op 31 december 2018.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2019.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit bekostiging financieel toezicht 2019.
 
@@ -182,7 +208,7 @@ Pw BES: [Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 6a. Maximale hoogte reserve en inzet reserve
+##### Artikel 6a. Maximale hoogte reserve en inzet reserve
 
 1. De maximale hoogte van de reserve, bedoeld in [artikel 8a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&artikel=8a), bedraagt € 5 miljoen.
 
@@ -214,13 +240,13 @@ Wft: [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 12a. Geconsolideerde situatie
+##### Artikel 12a. Geconsolideerde situatie
 
 Voor personen in de categorieën «Banken en clearinginstellingen», «Banken en kredietunies», «Depositogarantiestelsel: banken» en «Resolutie: Banken en beleggingsondernemingen» stelt de toezichthouder de maatstaf in voorkomend geval vast op basis van de geconsolideerde situatie, bedoeld in [Verordening (EU) nr. 575/2013](32013R0575) (CRR).
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 13a. Overgangsbepaling verrekening virtuele valuta 2024
+##### Artikel 13a. Overgangsbepaling verrekening virtuele valuta 2024
 
 1. In afwijking van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2026-01-01&g=2026-01-01), verrekent de Nederlandsche Bank het verschil van de toezichtcategorie «Aanbieders van diensten met betrekking tot virtuele valuta» over 2024 verhoudingsgewijs met de begrote kosten voor alle toezichtcategorieën in 2025.
 

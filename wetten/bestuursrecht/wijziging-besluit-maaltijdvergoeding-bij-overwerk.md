@@ -1,13 +1,37 @@
 ---
 title: "Wijziging Besluit maaltijdvergoeding bij overwerk"
 identifier: "BWBR0011345"
-categorie: "Bestuursrecht"
-publicatiedatum: 2000-07-01
-laatste_update: 2000-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011345"
+country: "nl"
+rank: "circulaire"
+publication_date: "2000-07-01"
+last_updated: "2000-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011345"
+soort: "circulaire"
+stam_id: "6257203"
+version_id: "10939282"
+internal_id: "C14832701"
+label_id: "6245994"
+original_entry_into_force: "2000-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011345/2000-07-01/0"
+intitule_bron: "Stcrt.2000-103"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-05-03"
+intitule_published: "2000-05-29"
+intitule_in_force: "2000-05-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-103"
+original_signed_date: "2000-05-03"
+original_published_date: "2000-05-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2000-103-p8-SC24182"
+entry_into_force_date: "2000-07-01"
+jci_1_3: "jci1.3:c:BWBR0011345&z=2000-07-01&g=2000-07-01"
+jci_1_0: "1.0:c:BWBR0011345&g=2000-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "2000-05-03"
+entry_into_force: "2000-07-01"
 ---
-
 # Wijziging Besluit maaltijdvergoeding bij overwerk
 
 In de [circulaire](onbekend) van 26 maart 1993, nr. AD93/U318 (Stcrt. 63), van de Minister van Binnenlandse Zaken inzake Arbeidsvoorwaardenmaatregelen sector rijkspersoneel, is er indertijd op gewezen dat de normvergoeding voor het gebruik van een maaltijd bij overwerk (toen f 24,50, thans f 30,50) onafhankelijk is van de werkelijke uitgaven. Met nadruk is er toen opgewezen dat ‘het niet de bedoeling is dat ambtenaren de maaltijd gebruiken voor een lager bedrag dan circa f 30 (normvergoeding van f 24,50 plus besparing). Mocht dat in de praktijk stelselmatig wel gebeuren, dan zal dit in de toekomst consequenties hebben voor de hoogte van de normvergoeding. De Belastingdienst heeft in dit verband aangekondigd te controleren of de normvergoeding gelet op de werkelijke uitgaven wel het adequate niveau heeft.’

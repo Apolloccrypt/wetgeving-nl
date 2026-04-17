@@ -1,13 +1,35 @@
 ---
-title: "Besluit verstrekking financiële informatie aan ondernemingsraden 1985"
+title: "Besluit van 7 maart 1985, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 31a, vijfde lid, van de Wet op de ondernemingsraden 1985"
 identifier: "BWBR0003773"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003773"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003773"
+soort: "AMvB"
+stam_id: "1200643"
+version_id: "1770942"
+internal_id: "C1770941"
+label_id: "1162864"
+dtd_version: "2.0"
+original_entry_into_force: "1985-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003773/2022-01-01/0"
+intitule_bron: "Stb.1985-151"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-03-07"
+intitule_status: "goed"
+original_publication: "Stb.1985-151"
+original_signed_date: "1985-03-07"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1985-01-01"
+jci_1_3: "jci1.3:c:BWBR0003773&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0003773&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit verstrekking financiële informatie aan ondernemingsraden 1985"
+signed_date: "1985-03-07"
+entry_into_force: "1985-01-01"
 ---
-
 # Besluit van 7 maart 1985, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 31a, vijfde lid, van de Wet op de ondernemingsraden 1985
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 30 november 1984, Directoraat-Generaal voor Algemene Beleidsaangelegenheden, Directie Bijzondere Vraagstukken van Arbeidsverhoudingen, nr. BVA/84/4963/M&O;, gedaan mede namens Onze Minister van Justitie;
@@ -22,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -32,11 +54,11 @@ In dit besluit wordt verstaan onder:
 
 - c. jaarstukken: de balans en de staat van baten en lasten, beide met toelichting.
 
-#### Artikel 2
+##### Artikel 2
 
 De ondernemer die een natuurlijk persoon is, verstrekt jaarlijks binnen zes maanden na afloop van het boekjaar ter bespreking aan de ondernemingsraad jaarstukken betreffende de werkzaamheden die hij verricht door middel van de onderneming waarvoor de ondernemingsraad is ingesteld. De ondernemer verstrekt daarbij tevens de gegevens en mededelingen als bedoeld in de [artikelen 31**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31a), [eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0003773&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01), [zesde](https://wetten.overheid.nl/jci1.3:c:BWBR0003773&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01) en [zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003773&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01), en [31**b** van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31b).
 
-#### Artikel 3
+##### Artikel 3
 
 1. De ondernemer die een rechtspersoon is, verstrekt jaarlijks binnen zes maanden na afloop van het boekjaar ter bespreking aan de ondernemingsraad jaarstukken betreffende die rechtspersoon.
 
@@ -44,13 +66,13 @@ De ondernemer die een natuurlijk persoon is, verstrekt jaarlijks binnen zes maan
 
 3. De ondernemer verstrekt daarbij tevens de gegevens en mededelingen als bedoeld in de [artikelen 31**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31a), eerste, zesde en zevende lid, en [31**b** van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31b).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien twee of meer personen te zamen werkzaamheden verrichten in de vorm van een maatschap of een niet rechtspersoonlijkheid bezittende vennootschap, draagt ieder van hen zorg dat jaarlijks binnen zes maanden na afloop van het boekjaar ter bespreking aan de ondernemingsraad jaarstukken worden verstrekt betreffende die maatschap of vennootschap. Daarbij worden tevens de gegevens en mededelingen als bedoeld in de [artikelen 31**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31a), eerste, zesde en zevende lid, en [31**b** van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=31b), verstrekt.
 
 2. Indien de maatschap of de niet rechtspersoonlijkheid bezittende vennootschap een bestuur heeft, dan rusten de in dit besluit vermelde verplichtingen op het bestuur.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De jaarstukken geven volgens normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd een zodanig inzicht, dat de ondernemingsraad zich een verantwoord oordeel kan vormen omtrent het vermogen en het resultaat alsmede, voor zover de aard van jaarstukken dat toelaat, omtrent de solvabiliteit en de liquiditeit van de betrokken ondernemer, maatschap of niet rechtspersoonlijkheid bezittende vennootschap. De jaarstukken zijn in de Nederlandse taal gesteld.
 
@@ -60,21 +82,21 @@ De ondernemer die een natuurlijk persoon is, verstrekt jaarlijks binnen zes maan
 
 4. De jaarstukken dienen voorts te voldoen aan de overige in dit besluit gestelde eisen, tenzij dit zou leiden tot afzonderlijke vermelding van posten die in het geheel van de jaarstukken van te verwaarlozen betekenis zijn.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien de jaarstukken zijn onderzocht door een accountant, die daaromtrent een verklaring heeft afgelegd, wordt deze verklaring eveneens aan de ondernemingsraad verstrekt.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien de ondernemer deel uitmaakt van in een groep verbonden ondernemers, verstrekt hij ter bespreking aan de ondernemingsraad tevens schriftelijke gegevens waaruit de ondernemingsraad zich een verantwoord oordeel kan vormen omtrent het gemeenschappelijk vermogen en het gezamenlijke resultaat van de ondernemingen van die groep ondernemers. Indien deze gegevens zijn opgenomen in een groepsjaarrekening als bedoeld in [artikel 379, zesde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=379), dan verstrekt de ondernemer deze groepsjaarrekening met het groepsjaarverslag en de daarbij te voegen overige gegevens, bedoeld in [artikel 392 van dat boek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392), ter bespreking aan de ondernemingsraad.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien de jaarstukken betrekking hebben op meer dan één onderneming, verstrekt de ondernemer ter bespreking aan de ondernemingsraad tevens schriftelijke gegevens waaruit deze zich een verantwoord oordeel kan vormen omtrent de mate waarin de onderneming waarvoor hij is ingesteld tot het gezamenlijke resultaat van die ondernemingen heeft bijgedragen.
 
 ### Hoofdstuk 2. Voorschriften omtrent de balans en de toelichting
 
-#### Artikel 9
+##### Artikel 9
 
 1. De balans bevat tenminste, voor zover van toepassing, de volgende gegevens:
 
@@ -88,7 +110,7 @@ Indien de jaarstukken betrekking hebben op meer dan één onderneming, verstrekt
 
 3. Zoveel mogelijk wordt bij iedere in het eerste lid genoemde post het vergelijkbare bedrag van het voorafgaande boekjaar vermeld.
 
-#### Artikel 10
+##### Artikel 10
 
 1. In de toelichting op de balans worden, voor zover de balans deze gegevens niet vermeldt, de materiële vaste activa tenminste onderscheiden in:
 
@@ -110,7 +132,7 @@ Indien de jaarstukken betrekking hebben op meer dan één onderneming, verstrekt
 
 ### Hoofdstuk 3. Voorschriften omtrent de staat van baten en lasten en de toelichting
 
-#### Artikel 11
+##### Artikel 11
 
 1. De staat van baten en lasten bevat tenminste, voor zover van toepassing, de volgende gegevens:
 
@@ -134,7 +156,7 @@ Indien de jaarstukken betrekking hebben op meer dan één onderneming, verstrekt
 
 3. Zoveel mogelijk wordt bij iedere in het eerste en in het tweede lid genoemde post het vergelijkbare bedrag van het voorafgaande boekjaar vermeld en tevens, indien voor het betrokken boekjaar een raming of een begroting van baten en lasten was opgesteld, het bedrag dat in die raming of begroting was vermeld.
 
-#### Artikel 12
+##### Artikel 12
 
 1. In de toelichting op de staat van baten en lasten worden, voor zover de staat deze gegevens niet vermeldt, ten aanzien van de baten, tenminste afzonderlijk vermeld:
 
@@ -160,7 +182,7 @@ Indien de jaarstukken betrekking hebben op meer dan één onderneming, verstrekt
 
 ### Hoofdstuk 4. Bepalingen omtrent ondernemingen van onderscheiden aard
 
-#### Artikel 13
+##### Artikel 13
 
 1. De ondernemer die een ziekenhuis beheert dat beschikt over een toelatingsvergunning als bedoeld in [artikel 1, eerste lid, van de Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=1) en die krachtens [artikel 40b van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) een financiële verantwoording openbaar moet maken, verstrekt die financiële verantwoording ter bespreking aan de ondernemingsraad in plaats van de jaarstukken die zijn ingericht volgens de voorschriften van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003773&hoofdstuk=2&z=2022-01-01&g=2022-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003773&hoofdstuk=3&z=2022-01-01&g=2022-01-01).
 
@@ -172,17 +194,17 @@ Indien de jaarstukken betrekking hebben op meer dan één onderneming, verstrekt
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 Het besluit verstrekking financiële informatie aan ondernemingsraden van 22 april 1980 (**Stb.** 1980, 226) wordt ingetrokken.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot en met 1 januari 1985.
 
 2. Het vindt ten aanzien van iedere betrokken ondernemer voor het eerst toepassing ten aanzien van het boekjaar dat in 1984 is aangevangen.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit kan worden aangehaald als: Besluit verstrekking financiële informatie aan ondernemingsraden 1985.
 

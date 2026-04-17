@@ -1,13 +1,40 @@
 ---
-title: "Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba"
+title: "Rijkswet van 7 juli 2010 tot regeling van de inrichting, de organisatie en het beheer van de openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba en de samenwerking daartussen (Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba)"
 identifier: "BWBR0028072"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028072"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028072"
+soort: "rijkswet"
+stam_id: "10645473"
+version_id: "17586522"
+internal_id: "C24666531"
+label_id: "10620794"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028072/2010-10-10/0"
+intitule_bron: "Stb.2010-336"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-07-07"
+intitule_published: "2010-09-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stb.2010-336"
+original_signed_date: "2010-07-07"
+original_published_date: "2010-09-01"
+original_effect: "nieuwe-regeling"
+original_dossier: "32018"
+original_url_id: "stb-2010-336"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028072&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028072&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba"
+signed_date: "2010-07-07"
+entry_into_force: "2010-10-10"
 ---
-
 # Rijkswet van 7 juli 2010 tot regeling van de inrichting, de organisatie en het beheer van de openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba en de samenwerking daartussen (Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -20,7 +47,7 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -44,7 +71,7 @@ In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het openbaar ministerie van elk van de landen bestaat uit:
 
@@ -56,7 +83,7 @@ In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Het parket van de procureur-generaal
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het parket van de procureur-generaal is gevestigd in Curaçao. De procureur-generaal houdt in elk land kantoor.
 
@@ -72,7 +99,7 @@ In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. het toezicht op een behoorlijke opsporing en vervolging van strafbare feiten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De procureur-generaal staat aan het hoofd van het parket van de procureur-generaal.
 
@@ -80,7 +107,7 @@ In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij het parket van de procureur-generaal kunnen andere ambtenaren werkzaam zijn, die geen lid zijn van het openbaar ministerie.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het openbaar ministerie bij het Hof wordt ten behoeve van de landen uitgeoefend door of namens de procureur-generaal.
 
@@ -90,7 +117,7 @@ In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De procureur-generaal kan algemene en bijzondere aanwijzingen geven betreffende de uitoefening van de taken en bevoegdheden van het openbaar ministerie.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De procureur-generaal is bevoegd tot het instellen van hoger beroep in strafzaken die door een Gerecht in eerste aanleg zijn berecht, onverminderd de bevoegdheid van de officier van justitie op grond van landsverordening of wet hoger beroep in te stellen.
 
@@ -102,7 +129,7 @@ In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Het parket in eerste aanleg
 
-#### Artikel 7
+##### Artikel 7
 
 1. Aan het hoofd van het openbaar ministerie bij het Gerecht in eerste aanleg staat een hoofdofficier van justitie, die als hoofd van het parket in eerste aanleg wordt benoemd. De hoofdofficieren van justitie zijn in hun ambtsbetrekking ondergeschikt aan de procureur-generaal.
 
@@ -114,7 +141,7 @@ In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. De inrichting en organisatie van het parket in eerste aanleg kan overigens bij landsverordening of wet worden geregeld.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Officieren van justitie zijn bevoegd en inzetbaar in elk van de landen. Onze Ministers maken hierover nadere afspraken.
 
@@ -130,7 +157,7 @@ In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 3. Enige taken en bevoegdheden
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het openbaar ministerie is belast met de strafrechtelijke handhaving van de rechtsorde en met andere bij landsverordening of wet vastgestelde taken.
 
@@ -144,33 +171,33 @@ In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. het toezicht op de naleving van de rechterlijke beslissingen in tuchtzaken.
 
-#### Artikel 10
+##### Artikel 10
 
 De taken en bevoegdheden van het openbaar ministerie worden, op de wijze bij of krachtens landsverordening of wet bepaald, uitgeoefend door de leden van het openbaar ministerie.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De procureur-generaal is belast met de zorg voor de justitiële politie. Hij is bevoegd aan de ambtenaren die met de politie belast zijn zodanige instructies te geven tot voorkoming, opsporing, en nasporing van strafbare feiten als hij in het belang van een goede justitie nodig oordeelt.
 
 2. De procureur-generaal waakt voor de richtige uitoefening van de taak van de politie. Hij is bevoegd daarover aan Onze Minister de voorstellen te doen die hem dienstig voorkomen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Wanneer het aan het Hof voorkomt dat de vervolging van een strafbaar feit in een van de landen behoort te worden ingesteld of voortgezet, is de procureur-generaal verplicht te voldoen aan een bevel van het Hof om de gevraagde informatie te verstrekken.
 
 2. De procureur-generaal is, behoudens de bepalingen van strafvordering van het desbetreffende land, verplicht om op bevel van het Hof te vervolgen of te doen vervolgen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Onze Minister kan de procureur-generaal algemene aanwijzingen geven betreffende de opsporing en vervolging van strafbare feiten in zijn land. Een aanwijzing wordt schriftelijk en gemotiveerd gegeven.
 
 2. Indien Onze Minister voornemens is de procureur-generaal een bijzondere aanwijzing te geven betreffende de opsporing en vervolging van strafbare feiten in zijn land, dan legt hij de voorgenomen aanwijzing voor aan het Hof ter toetsing aan het recht. Het Hof beslist binnen een week op het verzoek van Onze Minister. Indien het Hof van oordeel is dat de voorgenomen aanwijzing in overeenstemming is met het recht, dan kan Onze Minister de aanwijzing geven.
 
-#### Artikel 14
+##### Artikel 14
 
 De openbare ministeries van de landen en van Nederland zijn onderling verplicht gevolg te geven aan verzoeken om rechtshulp. Onze Ministers kunnen hierover nadere afspraken maken.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het openbaar ministerie is verplicht bericht en advies te geven, wanneer dit door of vanwege de regering van het betrokken land wordt gevraagd. Een verzoek om bericht of advies wordt gedaan aan de procureur-generaal.
 
@@ -180,7 +207,7 @@ De openbare ministeries van de landen en van Nederland zijn onderling verplicht 
 
 ### Hoofdstuk 4. Rechtspositionele aspecten
 
-#### Artikel 16
+##### Artikel 16
 
 1. De procureur-generaal en de advocaat-generaal worden benoemd, geschorst en ontslagen bij koninklijk besluit.
 
@@ -192,7 +219,7 @@ De openbare ministeries van de landen en van Nederland zijn onderling verplicht 
 
 5. De procureur-generaal kan leden van en andere ambtenaren werkzaam bij het openbaar ministerie van elk van de landen aanwijzen om bij het parket van de procureur-generaal werkzaam te zijn.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De hoofdofficier van justitie wordt benoemd, geschorst en ontslagen bij koninklijk besluit. De voordracht geschiedt op voorstel van Onze Minister.
 
@@ -204,7 +231,7 @@ De openbare ministeries van de landen en van Nederland zijn onderling verplicht 
 
 5. Bij of krachtens landsverordening of wet kunnen nadere regels worden gesteld met betrekking tot de benoemingsprocedure van de overige leden van het openbaar ministerie werkzaam bij het parket in eerste aanleg.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Tot lid van het openbaar ministerie kan worden benoemd degene:
 
@@ -252,17 +279,17 @@ De openbare ministeries van de landen en van Nederland zijn onderling verplicht 
 
 7. De procureur-generaal houdt een register bij waarin de in het zesde lid bedoelde betrekkingen zijn opgenomen. Het register ligt ter inzage bij het parket van de procureur-generaal en het parket in eerste aanleg waar betrokkene werkzaam is.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De leden van het openbaar ministerie leggen voorafgaand aan de datum van indiensttreding de eed of belofte af volgens het formulier zoals vastgesteld in de bijlage bij deze rijkswet.
 
 2. De leden van het openbaar ministerie leggen de eed af ten overstaan van de Gouverneur van Curaçao, de Gouverneur van Sint Maarten of de Rijksvertegenwoordiger van Bonaire, Sint Eustatius en Saba of ten overstaan van een door de Gouverneur of de Rijksvertegenwoordiger aangewezen ambtenaar.
 
-#### Artikel 19a
+##### Artikel 19a
 
 Een lid van het openbaar ministerie is verplicht tot geheimhouding van de gegevens waarover hij bij de uitoefening van zijn taak de beschikking krijgt en waarvan hij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden, behoudens zover enig wettelijk voorschrift tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.
 
-#### Artikel 19b
+##### Artikel 19b
 
 1. Echtgenoten, bloedverwanten of aanverwanten tot in de derde graad mogen niet tegelijkertijd lid van het openbaar ministerie zijn.
 
@@ -276,7 +303,7 @@ Een lid van het openbaar ministerie is verplicht tot geheimhouding van de gegeve
 
 6. De procureur-generaal draagt er zorg voor dat aanverwanten aan wie ontheffing is verleend als bedoeld in het derde lid, niet worden belast met de behandeling van dezelfde zaak.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een lid van het openbaar ministerie wordt geschorst indien:
 
@@ -296,7 +323,7 @@ Een lid van het openbaar ministerie is verplicht tot geheimhouding van de gegeve
 
 4. De schorsing wordt beëindigd zodra de grond voor deze maatregel is vervallen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een lid van het openbaar ministerie wordt ontslagen:
 
@@ -314,7 +341,7 @@ Een lid van het openbaar ministerie is verplicht tot geheimhouding van de gegeve
 
 3. In het geval bedoeld in het eerste lid, onder c, kan het ontslag eervol worden verleend.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een lid van het openbaar ministerie kan voorts worden ontslagen:
 
@@ -328,15 +355,15 @@ Een lid van het openbaar ministerie is verplicht tot geheimhouding van de gegeve
 
 2. In het geval bedoeld in het eerste lid, onder c, wordt het ontslag eervol verleend.
 
-#### Artikel 23
+##### Artikel 23
 
 Alvorens een besluit op grond van de [artikelen 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&hoofdstuk=4&artikel=20&z=2010-10-10&g=2010-10-10), [21, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&hoofdstuk=4&artikel=21&z=2010-10-10&g=2010-10-10), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&hoofdstuk=4&artikel=22&z=2010-10-10&g=2010-10-10) wordt genomen wordt betrokkene in de gelegenheid gesteld zijn zienswijze mondeling of schriftelijk naar voren te brengen.
 
-#### Artikel 24
+##### Artikel 24
 
 Indien Onze Minister oordeelt dat een reden tot ontslag van de procureur-generaal is gelegen in gebleken ongeschiktheid voor zijn functie anders dan uit hoofde van ziekte of gebreken, dan kan hij een voorstel tot schorsing of ontslag met inachtneming van de toepasselijke procedureregels aanmelden voor agendering in de raad van ministers van het Koninkrijk.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Tegen een rechtspositionele beschikking of handeling waarbij een lid van het openbaar ministerie als zodanig, zijn nagelaten betrekkingen of zijn rechtverkrijgenden belanghebbende zijn, kan een belanghebbende beroep instellen bij het Gerecht in eerste aanleg van het land waar belanghebbende woont. Indien belanghebbende niet woont in één van de landen, is het Gerecht in eerste aanleg van Curaçao bevoegd.
 
@@ -348,17 +375,17 @@ Indien Onze Minister oordeelt dat een reden tot ontslag van de procureur-generaa
 
 5. Met een beschikking of handeling bedoeld in dit artikel wordt een weigering te beschikken of te handelen gelijkgesteld.
 
-#### Artikel 26
+##### Artikel 26
 
 De rechtspositie van de leden van het openbaar ministerie wordt overigens geregeld bij of krachtens algemene maatregel van rijksbestuur. Daarbij kunnen nadere regels worden gesteld over schorsing en ontslag.
 
-#### Artikel 27
+##### Artikel 27
 
 Andere ambtenaren bij het parket van de procureur-generaal als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&hoofdstuk=2&paragraaf=2&artikel=4&z=2010-10-10&g=2010-10-10), worden benoemd door Onze Minister van het land waar de ambtenaar voornamelijk werkzaam zal zijn op voorstel van de procureur-generaal. Op hun rechtspositie zijn de in dat land geldende ambtenarenregelingen van toepassing.
 
 ### Hoofdstuk 5. Beheer en bekostiging
 
-#### Artikel 28
+##### Artikel 28
 
 De procureur-generaal is belast met het beheer van de openbare ministeries van de landen. In het bijzonder draagt de procureur-generaal zorg voor:
 
@@ -372,7 +399,7 @@ De procureur-generaal is belast met het beheer van de openbare ministeries van d
 
 - e. de automatisering, de bestuurlijke informatievoorziening, de huisvesting, de beveiliging, de personele en materiële voorzieningen bij de openbare ministeries.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Onze Ministers voeren jaarlijks voor 15 april overleg over het totaal van de in het daaropvolgende jaar door de landen beschikbaar te stellen middelen voor het parket van de procureur-generaal.
 
@@ -382,7 +409,7 @@ De procureur-generaal is belast met het beheer van de openbare ministeries van d
 
 4. De kosten van het parket van de procureur-generaal worden op grond van een bij of krachtens algemene maatregel van rijksbestuur vast te stellen verdeelsleutel aan de landen toebedeeld.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De procureur-generaal stelt jaarlijks voor 1 april in overeenstemming met de betrokken hoofdofficier van justitie een jaarplan op met een daarbij behorende ontwerp-begroting voor het parket in eerste aanleg. De ontwerpbegroting gaat vergezeld van een meerjarenraming voor tenminste vier op het begrotingsjaar volgende jaren. Het jaarplan bevat een omschrijving van de voorgenomen activiteiten, de doelstellingen en de prestatieafspraken van het parket voor het komende jaar.
 
@@ -392,7 +419,7 @@ De procureur-generaal is belast met het beheer van de openbare ministeries van d
 
 4. Elk van de landen draagt de kosten van zijn parket in eerste aanleg.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De procureur-generaal dient jaarlijks voor 1 april bij Onze Minister een jaarverslag in over het parket van de procureur-generaal. Het jaarverslag bevat een verantwoording over de activiteiten, de doelstellingen en de prestatieafspraken. Het jaarverslag bevat tevens de jaarrekening met bijbehorende begroting en overige financiële gegevens.
 
@@ -402,13 +429,13 @@ De procureur-generaal is belast met het beheer van de openbare ministeries van d
 
 4. Bij de aanwijzing van de accountant bedingt de procureur-generaal dat aan Onze Minister desgevraagd inzicht wordt geboden in de controlewerkzaamheden van de accountant.
 
-#### Artikel 32
+##### Artikel 32
 
 Privaatrechtelijke rechtshandelingen die voortvloeien uit het beheer van de begroting van het parket van de procureur-generaal en van de begrotingen van de parketten in eerste aanleg, worden verricht door of namens de procureur-generaal.
 
 ### Hoofdstuk 6. Samenwerking
 
-#### Artikel 33
+##### Artikel 33
 
 1. Onze Ministers voeren overleg over de opsporing en vervolging van grensoverschrijdende criminaliteit en maken afspraken over in ieder geval de personele en materiële inzet voor het beleid ter bestrijding van de grensoverschrijdende criminaliteit.
 
@@ -416,7 +443,7 @@ Privaatrechtelijke rechtshandelingen die voortvloeien uit het beheer van de begr
 
 3. De afspraken, bedoeld in het eerste lid, worden na overeenstemming tussen Onze Ministers vastgesteld door de raad van ministers van het Koninkrijk.
 
-#### Artikel 34
+##### Artikel 34
 
 1. De procureur-generaal doet in opdracht van Onze Ministers vierjaarlijks een voorstel voor een beleidsprogramma voor de bestrijding van grensoverschrijdende criminaliteit.
 
@@ -428,7 +455,7 @@ Privaatrechtelijke rechtshandelingen die voortvloeien uit het beheer van de begr
 
 5. De procureur-generaal is bevoegd officieren van justitie aan te wijzen die zijn belast met de opsporing en vervolging van grensoverschrijdende criminaliteit.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Op verzoek van de procureur-generaal kunnen ambtenaren van de rijksrecherche ondersteuning verlenen ten behoeve van onderzoek naar integriteitschendingen en de opsporing van ambtsdelicten.
 
@@ -440,13 +467,13 @@ Privaatrechtelijke rechtshandelingen die voortvloeien uit het beheer van de begr
 
 5. Onder onderzoek naar integriteitschendingen wordt verstaan opsporingsonderzoek naar strafbare feiten die de integriteit van de overheid kunnen aantasten en zijn begaan door natuurlijke personen of rechtspersonen belast met een publieke taak, of betrokken bij de uitvoering daarvan.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Onze Ministers en de procureur-generaal voeren ten minste één keer per jaar overleg waarin ze afspraken maken over het opsporings- en vervolgingsbeleid van de landen.
 
 2. Onze Ministers stemmen in overleg met de procureur-generaal jaarlijks het beleid af voor de opsporing en vervolging in de landen van misdrijven die gezien de aard en de frequentie of het georganiseerd verband waarin ze worden gepleegd een ernstige inbreuk op de rechtsorde vormen. De resultaten van de afstemming worden schriftelijk vastgelegd.
 
-#### Artikel 36a
+##### Artikel 36a
 
 1. De procureur-generaal voert ten minste tweemaal per jaar met een daartoe door het College van procureurs-generaal in Nederland aangewezen lid van dat College overleg over opsporing en vervolging van grensoverschrijdende criminaliteit en andere aangelegenheden die van gemeenschappelijk belang zijn voor de strafrechtelijke rechtshandhaving in de landen en in het Europese deel van Nederland.
 
@@ -454,13 +481,13 @@ Privaatrechtelijke rechtshandelingen die voortvloeien uit het beheer van de begr
 
 3. Voor het overleg wordt de procureur-generaal van Aruba uitgenodigd.
 
-#### Artikel 37
+##### Artikel 37
 
 De procureur-generaal kan een aanwijzing als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&hoofdstuk=3&artikel=13&z=2010-10-10&g=2010-10-10), binnen twee weken nadat zij is gegeven voorleggen aan Onze Ministers indien de aanwijzing naar zijn oordeel het gezamenlijk beleid van de landen betreft.
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
-#### Artikel 38
+##### Artikel 38
 
 1. De benoeming van degene die op de dag voorafgaand aan inwerkingtreding van deze rijkswet procureur-generaal van de Nederlandse Antillen is, wordt van rechtswege gewijzigd in een benoeming tot procureur-generaal van de landen.
 
@@ -468,25 +495,25 @@ De procureur-generaal kan een aanwijzing als bedoeld in [artikel 13, eerste lid]
 
 3. Officieren van justitie, plaatsvervangend officieren van justitie en substituut-officieren van justitie die op de dag voorafgaand aan inwerkingtreding van deze wet in dienst zijn van de Nederlandse Antillen zijn met ingang van de datum van inwerkingtreding van deze wet in dezelfde rang benoemd bij het openbaar ministerie van het land waarin de plaats is gelegen die op de dag voorafgaand aan inwerkingtreding van deze wet standplaats van betrokkene was.
 
-#### Artikel 39
+##### Artikel 39
 
 Zaken die voorafgaand aan inwerkingtreding van deze rijkswet in behandeling zijn bij het openbaar ministerie van de Nederlandse Antillen alsmede wettelijke procedures en rechtsgedingen waarbij het openbaar ministerie is betrokken worden voortgezet door het openbaar ministerie van Curaçao, het openbaar ministerie van Sint Maarten of het openbaar ministerie van Bonaire, Sint Eustatius of Saba. Zo nodig beslist de procureur-generaal welk van deze drie openbare ministeries de behandeling of procedure voortzet.
 
-#### Artikel 40
+##### Artikel 40
 
 Onze Ministers zenden binnen vijf jaar na de inwerkingtreding van deze rijkswet aan de vertegenwoordigende lichamen van Sint Maarten en Curaçao en de Staten-Generaal een evaluatieverslag over de doeltreffendheid en de effecten van deze rijkswet in de praktijk. Voorafgaande aan de evaluatie zullen de landen gezamenlijk de criteria, de thema’s alsmede de samenstelling van de evaluatiecommissie vaststellen.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Deze rijkswet kan in onderling overleg worden gewijzigd bij rijkswet op grond van [artikel 38, tweede lid, van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38).
 
 2. Naar aanleiding van de evaluatie, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&hoofdstuk=7&artikel=40&z=2010-10-10&g=2010-10-10), kan deze rijkswet in onderlinge overeenstemming worden beëindigd.
 
-#### Artikel 42
+##### Artikel 42
 
 Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 43
+##### Artikel 43
 
 Deze rijkswet wordt aangehaald als: Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 

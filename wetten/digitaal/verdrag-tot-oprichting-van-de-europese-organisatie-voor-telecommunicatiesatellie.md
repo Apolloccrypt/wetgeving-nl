@@ -1,13 +1,38 @@
 ---
-title: "Verdrag tot oprichting van de Europese Organisatie voor Telecommunicatiesatellieten "EUTELSAT", zoals gewijzigd op 20 mei 1999"
+title: "Verdrag tot oprichting van de Europese Organisatie voor Telecommunicatiesatellieten \"EUTELSAT\", zoals gewijzigd op 20 mei 1999"
 identifier: "BWBV0002146"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2002-11-28
-laatste_update: 2002-11-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002146"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-11-28"
+last_updated: "2002-11-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002146"
+soort: "verdrag"
+stam_id: "10002678383"
+version_id: "10002678102"
+internal_id: "C10006979151"
+label_id: "10002667784"
+dtd_version: "2.0"
+original_entry_into_force: "1985-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002146/2002-11-28/0"
+intitule_bron: "Trb.1983-96"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-04-29"
+intitule_published: "1983-06-02"
+intitule_in_force: "1985-08-14"
+intitule_status: "goed"
+original_publication: "Trb.1983-96"
+original_signed_date: "1985-04-29"
+original_published_date: "1983-06-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1983-96"
+entry_into_force_date: "1985-09-01"
+jci_1_3: "jci1.3:c:BWBV0002146&z=2002-11-28&g=2002-11-28"
+jci_1_0: "1.0:c:BWBV0002146&g=2002-11-28"
+citeertitel_status: "officieel"
+signed_date: "1985-04-29"
+entry_into_force: "1985-09-01"
 ---
-
 # Verdrag tot oprichting van de Europese Organisatie voor Telecommunicatiesatellieten "EUTELSAT", zoals gewijzigd op 20 mei 1999
 
 Preambule
@@ -26,7 +51,7 @@ Erkennend de noodzaak de technische, economische, reglementaire en politieke ont
 
 Zijn als volgt overeengekomen:
 
-#### Artikel I. Begripsomschrijvingen
+##### Artikel I. Begripsomschrijvingen
 
 In dit Verdrag wordt verstaan onder:
 
@@ -54,7 +79,7 @@ In dit Verdrag wordt verstaan onder:
 
 - l). „De Regeling”: de Regeling tussen EUTELSAT en de Vennootschap Eutelsat S.A., waarin de relatie tussen EUTELSAT en de Vennootschap Eutelsat S.A. en hun respectieve verplichtingen worden vastgelegd, en die met name het kader vormt dat EUTELSAT in staat stelt de naleving van de Grondbeginselen door de Vennootschap Eutelsat S.A. te waarborgen, alsmede hierop toezicht te houden.
 
-#### Artikel II. Oprichting van EUTELSAT en van de Vennootschap Eutelsat S.A.
+##### Artikel II. Oprichting van EUTELSAT en van de Vennootschap Eutelsat S.A.
 
 - a). De Partijen richten hierbij de Europese Organisatie voor Telecommunicatiesatellieten op, hierna te noemen: „EUTELSAT”.
 
@@ -70,7 +95,7 @@ In dit Verdrag wordt verstaan onder:
 
 - d). De desbetreffende bepalingen in Bijlage A bij het Verdrag zijn van toepassing ten behoeve van de continuïteit tussen de werkzaamheden van EUTELSAT en die van de Vennootschap Eutelsat S.A.
 
-#### Artikel III. Doel van EUTELSAT
+##### Artikel III. Doel van EUTELSAT
 
 - a). Het hoofddoel van EUTELSAT is te waarborgen dat de in dit artikel genoemde Grondbeginselen door de Vennootschap Eutelsat S.A. worden nageleefd, te weten:
 
@@ -84,7 +109,7 @@ In dit Verdrag wordt verstaan onder:
 
 - b). EUTELSAT heeft eveneens ten doel de continuïteit te waarborgen met betrekking tot de rechten en verplichtingen krachtens het internationale recht die voortvloeien uit de exploitatie van de aan de Vennootschap Eutelsat S.A. overgedragen EUTELSAT-ruimtesector, met name die welke voortvloeien uit het Radioreglement ten aanzien van het gebruik van frequenties.
 
-#### Artikel IV. Rechtspersoonlijkheid
+##### Artikel IV. Rechtspersoonlijkheid
 
 - a). EUTELSAT bezit rechtspersoonlijkheid.
 
@@ -98,13 +123,13 @@ In dit Verdrag wordt verstaan onder:
 
 - iv). overeenkomsten sluiten met Staten of internationale organisaties.
 
-#### Artikel V. Kosten
+##### Artikel V. Kosten
 
 - a). Tussen EUTELSAT en de Vennootschap Eutelsat S.A. worden regelingen getroffen ter dekking van de kosten en uitgaven van EUTELSAT, overeenkomstig de Regeling.
 
 - b). De kosten gemoeid met de oprichting en het functioneren van het Secretariaat, met inbegrip van, maar niet beperkt tot, de huur en bijkomende kosten voor de instandhouding van kantoorruimte, de salarissen en emolumenten van het personeel, kosten van het organiseren en houden van vergaderingen van de Assemblee van Partijen, kosten van overleg tussen EUTELSAT en de Partijen en andere organisaties en kosten die samenhangen met de toepassing van de door EUTELSAT krachtens artikel III getroffen maatregelen om te waarborgen dat de Grondbeginselen door de Vennootschap Eutelsat S.A. worden nageleefd, worden in overeenstemming met het bepaalde onder a van artikel V gedragen door de Vennootschap Eutelsat S.A., binnen de in de Regeling vastgestelde limieten.
 
-#### Artikel VI. Structurele opzet van EUTELSAT
+##### Artikel VI. Structurele opzet van EUTELSAT
 
 - a). EUTELSAT heeft de volgende organen:
 
@@ -114,7 +139,7 @@ In dit Verdrag wordt verstaan onder:
 
 - b). Elk orgaan dient te handelen binnen de grenzen van de bevoegdheden die het door het Verdrag zijn verleend.
 
-#### Artikel VII. Assemblee van Partijen: samenstelling en vergaderingen
+##### Artikel VII. Assemblee van Partijen: samenstelling en vergaderingen
 
 - a). De Assemblee van Partijen is samengesteld uit alle Partijen.
 
@@ -126,7 +151,7 @@ In dit Verdrag wordt verstaan onder:
 
 - e). Elke Partij draagt zelf de kosten van vertegenwoordiging op de vergaderingen van de Assemblee van Partijen.
 
-#### Artikel VIII. Assemblee van Partijen: procedure
+##### Artikel VIII. Assemblee van Partijen: procedure
 
 - a). Elke Partij brengt één stem uit in de Assemblee van Partijen. De Partijen die zich van stemming onthouden, worden geacht niet aan de stemming te hebben deelgenomen.
 
@@ -146,7 +171,7 @@ In dit Verdrag wordt verstaan onder:
 
 - iv). de stemprocedures.
 
-#### Artikel IX. Assemblee van Partijen: functies
+##### Artikel IX. Assemblee van Partijen: functies
 
 De Assemblee van Partijen heeft de volgende functies:
 
@@ -178,7 +203,7 @@ De Assemblee van Partijen heeft de volgende functies:
 
 - n). zij hecht, in overeenstemming met de Regeling, haar goedkeuring aan wijzigingen van de vestigingsplaats van de Vennootschap Eutelsat S.A.
 
-#### Artikel X. Het Secretariaat
+##### Artikel X. Het Secretariaat
 
 - a). Het Secretariaat wordt geleid door de Algemeen Secretaris die door de Assemblee van Partijen wordt benoemd.
 
@@ -194,7 +219,7 @@ De Assemblee van Partijen heeft de volgende functies:
 
 - g). De Algemeen Secretaris en het personeel van het Secretariaat onthouden zich van alle handelingen die onverenigbaar zijn met hun verantwoordelijkheden jegens EUTELSAT.
 
-#### Artikel XI. Rechten en verplichtingen
+##### Artikel XI. Rechten en verplichtingen
 
 - a). De Partijen oefenen hun recht uit en voldoen aan hun verplichtingen krachtens het Verdrag op een wijze die geheel verenigbaar is met en ter bevordering dient van de beginselen en de bepalingen van het Verdrag.
 
@@ -202,7 +227,7 @@ De Assemblee van Partijen heeft de volgende functies:
 
 - c). Voordat een dergelijke conferentie of vergadering wordt gehouden buiten het land waar de zetel van EUTELSAT zich bevindt, zorgt de Algemeen Secretaris ervoor dat de regelingen met de Partij die als gastvrouw voor deze conferentie of vergadering optreedt, een voorziening inhouden voor de toelating tot en het verblijf in het land van ontvangst voor de duur van deze conferentie of vergadering, van de vertegenwoordigers van alle Partijen die het recht tot bijwoning hebben.
 
-#### Artikel XII. Zetel van EUTELSAT, voorrechten, vrijstellingen, immuniteiten
+##### Artikel XII. Zetel van EUTELSAT, voorrechten, vrijstellingen, immuniteiten
 
 - a). De zetel van EUTELSAT bevindt zich in Frankrijk;
 
@@ -210,7 +235,7 @@ De Assemblee van Partijen heeft de volgende functies:
 
 - c). Elke Partij verleent in overeenstemming met het in dit lid bedoelde Protocol de passende voorrechten, vrijstellingen en immuniteiten aan EUTELSAT, aan haar functionarissen en aan die categorieën van haar werknemers welke in dit Protocol zijn genoemd aan Partijen en vertegenwoordigers van Partijen, alsmede aan personen die deelnemen aan scheidsrechterlijke procedures. In het bijzonder verleent elke Partij aan deze personen vrijwaring van wettelijke maatregelen in verband met verrichte handelingen of mondelinge of schriftelijke uitingen bij de uitoefening van hun functie en binnen de grenzen van hun verplichtingen, voor zover als is bepaald, en in de gevallen als zijn voorzien, in het in dit lid bedoelde Protocol. De Partij op wier grondgebied de zetel van EUTELSAT zich bevindt, sluit of hersluit zo spoedig mogelijk een Zetelovereenkomst met EUTELSAT waarin de voorrechten, de vrijstellingen en de immuniteiten worden geregeld. De andere Partijen sluiten eveneens zo spoedig mogelijk een Protocol ter regeling van de voorrechten, de vrijstellingen en de immuniteiten. De Zetelovereenkomst en het Protocol zijn onafhankelijk van het Verdrag en in elk ervan dienen de voorwaarden voor beëindiging te worden vastgesteld.
 
-#### Artikel XIII. Terugtrekking
+##### Artikel XIII. Terugtrekking
 
 - a). Een Partij kan zich op elk tijdstip vrijwillig uit EUTELSAT terugtrekken door middel van een schriftelijke kennisgeving aan de in artikel XXI bedoelde Depositaris. De terugtrekking wordt van kracht drie maanden na de datum waarop de Depositaris de kennisgeving daarvan heeft ontvangen.
 
@@ -220,7 +245,7 @@ De Assemblee van Partijen heeft de volgende functies:
 
 - d). Elke kennisgeving van terugtrekking en elk besluit waarin een terugtrekking wordt geacht van kracht te zijn geworden, worden onverwijld door de Depositaris medegedeeld aan alle Partijen.
 
-#### Artikel XIV. Wijzigingen en Beëindiging
+##### Artikel XIV. Wijzigingen en Beëindiging
 
 - a). Elke Partij mag wijzigingen in het Verdrag voorstellen en deze voorstellen dienen aan de Algemeen Secretaris te worden toegezonden, die de voorgestelde wijzigingen onverwijld aan alle Partijen doet toekomen. De Assemblee van Partijen neemt de voorgestelde wijziging niet eerder in overweging dan zes maanden na verzending daarvan en houdt daarbij naar behoren rekening met alle door de Vennootschap Eutelsat S.A. gedane aanbevelingen, om wier zienswijze wordt verzocht indien de voorgestelde wijziging van het Verdrag van invloed zou kunnen zijn op de uitvoering van haar werkzaamheden. De Assemblee kan in bijzondere gevallen deze termijn verkorten door middel van een besluit, genomen in overeenstemming met de procedure voor materiële zaken.
 
@@ -232,13 +257,13 @@ De Assemblee van Partijen heeft de volgende functies:
 
 - e). Tenzij met de Vennootschap Eutelsat S.A. anders wordt overeengekomen, wordt geen besluit inzake ontbinding van EUTELSAT ingevolge c van dit artikel genomen zolang de onder b van artikel III bedoelde internationale rechten en verplichtingen niet volledig zijn vervallen.
 
-#### Artikel XV. Beslechting van geschillen
+##### Artikel XV. Beslechting van geschillen
 
 - a). Alle geschillen die tussen Partijen of tussen EUTELSAT en een Partij of Partijen rijzen met betrekking tot de uitlegging of de toepassing van het bepaalde in het Verdrag, worden aan arbitrage onderworpen overeenkomstig het bepaalde in Bijlage B bij het Verdrag, indien niet op andere wijze overeenstemming is bereikt binnen een jaar na het tijdstip waarop een partij bij het geschil de andere partij in kennis heeft gesteld van haar voornemen dit geschil bij minnelijke schikking te regelen.
 
 - b). Alle geschillen die met betrekking tot de uitleg en de toepassing van het bepaalde in het Verdrag rijzen tussen een Partij en een Staat die niet langer Partij is, of tussen EUTELSAT en een Staat die niet langer Partij is, en die rijzen nadat deze Staat heeft opgehouden Partij te zijn, worden aan arbitrage onderworpen overeenkomstig het bepaalde in Bijlage B bij het Verdrag, indien niet op andere wijze overeenstemming is bereikt binnen een jaar na het tijdstip waarop een partij bij het geschil de andere partij in kennis heeft gesteld van haar voornemen dit geschil bij minnelijke schikking te regelen, mits de Staat die heeft opgehouden Partij te zijn, daarmee instemt. Indien een Staat ophoudt Partij te zijn nadat een geschil waarbij deze Staat partij is, is onderworpen aan arbitrage ingevolge het bepaalde onder a van dit artikel, wordt de arbitrage voortgezet tot een uitspraak is verkregen.
 
-#### Artikel XVI. Ondertekening; voorbehoud
+##### Artikel XVI. Ondertekening; voorbehoud
 
 - a). Elke Staat waarvan de administratie of het erkende particuliere telecommunicatiebedrijf Ondertekenende Partij is, of gerechtigd is Ondertekenende Partij te worden, bij de Voorlopige Overeenkomst, kan Partij bij het Verdrag worden door:
 
@@ -252,7 +277,7 @@ De Assemblee van Partijen heeft de volgende functies:
 
 - c). Ten aanzien van het Verdrag kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel XVII. Inwerkingtreding
+##### Artikel XVII. Inwerkingtreding
 
 - a). Het Verdrag treedt in werking zestig dagen na de datum waarop het overeenkomstig het bepaalde in i onder a van artikel XVI van het Verdrag is ondertekend, of is bekrachtigd, aanvaard of goedgekeurd, door tweederde van de Staten die op het tijdstip waarop het Verdrag wordt opengesteld voor ondertekening, de rechtsmacht bezitten over de Ondertekenende Partijen bij de Voorlopige Overeenkomst, mits deze Ondertekenende Partijen, of de door hen aangewezen Ondertekenaars van de ECS-Overeenkomst, beschikken over tweederde van de financiële aandelen krachtens de ECS-Overeenkomst.
 
@@ -270,7 +295,7 @@ De Assemblee van Partijen heeft de volgende functies:
 
 - e). Na inwerkingtreding vervangt het Verdrag de Voorlopige Overeenkomst en stelt deze buiten werking. Niets van het bepaalde in het Verdrag doet echter afbreuk aan een recht of verplichting van een Partij, verkregen of aangegaan in haar of zijn vroegere hoedanigheid van Ondertekenende Partij bij de Voorlopige Overeenkomst.
 
-#### Artikel XVIII. Toetreding
+##### Artikel XVIII. Toetreding
 
 - a). Elke Staat waarvan de administratie of het erkende particuliere telecommunicatiebedrijf Ondertekenende Partij was, of gerechtigd was Ondertekenende Partij te worden, bij de Voorlopige Overeenkomst op de datum waarop het Verdrag wordt opengesteld voor ondertekening, kan tot het Verdrag toetreden vanaf de datum waarop het Verdrag niet langer openstaat voor ondertekening, tot twee jaar na de inwerkingtreding daarvan.
 
@@ -288,11 +313,11 @@ De Assemblee van Partijen heeft de volgende functies:
 
 - f). De Algemeen Secretaris stelt de Verzoekende Staat in kennis van de door de Assemblee van Partijen vastgestelde voorwaarden voor toetreding, die worden vastgelegd in een protocol dat als bijlage wordt toegevoegd aan de akte van toetreding die door bedoelde Staat bij de Depositaris wordt nedergelegd.
 
-#### Artikel XIX. Aansprakelijkheid
+##### Artikel XIX. Aansprakelijkheid
 
 Een Partij is niet hoofdelijk aansprakelijk voor de handelingen en verplichtingen van EUTELSAT, behalve in gevallen waarin deze aansprakelijkheid voortvloeit uit een Verdrag waarbij deze Partij en een Staat die schadevergoeding vordert, Partij zijn. ln dat geval stelt EUTELSAT de betrokken Partij schadeloos met betrekking tot elke zodanige aansprakelijkheid, tenzij de laatstgenoemde uitdrukkelijk op zich heeft genomen deze aansprakelijkheid alleen te dragen.
 
-#### Artikel XX. Diverse bepalingen
+##### Artikel XX. Diverse bepalingen
 
 - a). De officiële talen en de werktalen van EUTELSAT zijn het Engels en het Frans.
 
@@ -300,7 +325,7 @@ Een Partij is niet hoofdelijk aansprakelijk voor de handelingen en verplichtinge
 
 - c). Teneinde te voldoen aan het bepaalde in Resolutie 1721 (XVI) van de Algemene Vergadering van de Verenigde Naties, zendt EUTELSAT een jaarverslag over haar werkzaamheden aan de Secretaris-Generaal van de Verenigde Naties en aan de betrokken gespecialiseerde organisaties te hunner informatie. Het jaarverslag wordt eveneens gezonden aan de Vennootschap Eutelsat S.A.
 
-#### Artikel XXI. Depositaris
+##### Artikel XXI. Depositaris
 
 - a). De Regering van de Franse Republiek is voor het Verdrag de Depositaris bij wie de akten van bekrachtiging, aanvaarding, goedkeuring of toetreding, de verzoeken tot voorlopige toepassing en kennisgevingen van bekrachtiging, aanvaarding of goedkeuring van wijzigingen, alsmede van de besluiten tot terugtrekking uit EUTELSAT of tot beëindiging van de voorlopige toepassing van het Verdrag worden nedergelegd.
 
@@ -330,23 +355,23 @@ Een Partij is niet hoofdelijk aansprakelijk voor de handelingen en verplichtinge
 
 - d). Op het tijdstip van inwerkingtreding van het Verdrag zendt de Depositaris een gewaarmerkt afschrift van het Verdrag aan het Secretariaat van de Verenigde Naties voor registratie en publicatie overeenkomstig het bepaalde in [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel XXII. Inwerkingtreding
+##### Artikel XXII. Inwerkingtreding
 
 Vervallen
 
-#### Artikel XXIII. Toetreding
+##### Artikel XXIII. Toetreding
 
 Vervallen
 
-#### Artikel XXIV. Aansprakelijkheid
+##### Artikel XXIV. Aansprakelijkheid
 
 Vervallen
 
-#### Artikel XXV. Diverse bepalingen
+##### Artikel XXV. Diverse bepalingen
 
 Vervallen
 
-#### Artikel XXVI. Depositaris
+##### Artikel XXVI. Depositaris
 
 Vervallen
 

@@ -1,24 +1,50 @@
 ---
-title: "Regeling vaststelling kwalificaties en opleidingsdomeinen BES"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 oktober 2013, kenmerk BVE-548927 houdende vaststelling van de kwalificaties uit de kwalificatiedossiers en van de opleidingsdomeinen BES (Regeling vaststelling kwalificaties en opleidingsdomeinen BES)"
 identifier: "BWBR0034068"
-categorie: "Overig"
-publicatiedatum: 2025-03-01
-laatste_update: 2025-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034068"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2025-03-01"
+last_updated: "2025-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034068"
+soort: "ministeriele-regeling-BES"
+stam_id: "12406283"
+version_id: "30634192"
+internal_id: "C43914111"
+label_id: "12377204"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034068/2025-03-01/0"
+intitule_bron: "Stcrt.2013-28947"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-10-08"
+intitule_published: "2013-10-25"
+intitule_in_force: "2013-10-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-7300"
+original_signed_date: "2025-02-18"
+original_published_date: "2025-02-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-7300"
+entry_into_force_date: "2025-02-18"
+jci_1_3: "jci1.3:c:BWBR0034068&z=2025-03-01&g=2025-03-01"
+jci_1_0: "1.0:c:BWBR0034068&g=2025-03-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling kwalificaties en opleidingsdomeinen BES"
+signed_date: "2025-02-18"
+entry_into_force: "2025-02-18"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 oktober 2013, kenmerk BVE-548927 houdende vaststelling van de kwalificaties uit de kwalificatiedossiers en van de opleidingsdomeinen BES (Regeling vaststelling kwalificaties en opleidingsdomeinen BES)
 
 Gelet op de [artikelen 7.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.4) en [11.6b van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=11.6b);
 
 Besluit:
 
-#### Artikel 1. Vaststelling kwalificaties
+##### Artikel 1. Vaststelling kwalificaties
 
 De kwalificaties uit de kwalificatiedossiers, bedoeld in [artikel 7.2.4, tweede lid, onder a, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4), die zijn opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0034068&bijlage=I&z=2025-03-01&g=2025-03-01), worden bij deze regeling vastgesteld.
 
-#### Artikel 2. Vaststelling opleidingsdomeinen BES
+##### Artikel 2. Vaststelling opleidingsdomeinen BES
 
 De volgende opleidingsdomeinen BES, bedoeld in [artikel 7.2.4, tweede lid van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.4), worden vastgesteld:
 
@@ -46,11 +72,11 @@ De volgende opleidingsdomeinen BES, bedoeld in [artikel 7.2.4, tweede lid van de
 
 - l. Zorg en welzijn.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vaststelling kwalificaties en opleidingsdomeinen BES.
 
@@ -114,7 +140,7 @@ Deze regeling wordt aangehaald als: Regeling vaststelling kwalificaties en oplei
 
 Deze regeling zal met de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034068&bijlage=I&z=2021-08-01&g=2021-08-01) en de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a. Vervallen kwalificaties
+##### Artikel 2a. Vervallen kwalificaties
 
 De kwalificaties die zijn vervallen zijn opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0034068&bijlage=II&z=2025-03-01&g=2025-03-01).
 

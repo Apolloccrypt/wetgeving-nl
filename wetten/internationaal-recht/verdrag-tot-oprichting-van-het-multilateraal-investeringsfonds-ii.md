@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tot oprichting van het Multilateraal Investeringsfonds II"
 identifier: "BWBV0001828"
-categorie: "Internationaal recht"
-publicatiedatum: 2007-03-13
-laatste_update: 2005-04-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001828"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-03-13"
+last_updated: "2005-04-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001828"
+soort: "verdrag"
+stam_id: "10002533223"
+version_id: "10002521462"
+internal_id: "C10009158111"
+label_id: "10002522634"
+dtd_version: "2.0"
+original_entry_into_force: "2007-03-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001828/2007-03-13/0"
+intitule_bron: "Trb.2006-53"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-11-22"
+intitule_published: "2006-03-23"
+intitule_in_force: "2016-09-28"
+intitule_status: "goed"
+original_publication: "Trb.2006-53"
+original_signed_date: "2006-11-22"
+original_published_date: "2006-03-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2006-53"
+entry_into_force_date: "2007-03-13"
+jci_1_3: "jci1.3:c:BWBV0001828&z=2007-03-13&g=2007-03-13"
+jci_1_0: "1.0:c:BWBV0001828&g=2007-03-13"
+citeertitel_status: "redactioneel"
+signed_date: "2006-11-22"
+entry_into_force: "2007-03-13"
 ---
-
 # Verdrag tot oprichting van het Multilateraal Investeringsfonds II
 
 Overwegend dat het Multilateraal Investeringsfonds („het MIF I’’) is opgericht bij het Verdrag tot oprichting van het Multilateraal Investeringsfonds van 11 februari 1992 („MIF I-verdrag’’);
@@ -20,7 +45,7 @@ Overwegend dat de toekomstige donoren beogen dat het MIF II de werkzaamheden van
 
 Komen de toekomstige donoren derhalve thans het volgende overeen:
 
-#### Artikel I. Algemeen doel en taken
+##### Artikel I. Algemeen doel en taken
 
 Afdeling 1. Algemeen doel. Het algemene doel van het MIF II is het ondersteunen van de economische groei en van het terugdringen van de armoede in de regionale ontwikkelingslanden die lid zijn van de Bank en de ontwikkelingslanden die lid zijn van de Caraïbische Ontwikkelingsbank (de „CDB’’) door grotere private investeringen aan te moedigen en de ontwikkeling van de private sector te bevorderen.
 
@@ -46,7 +71,7 @@ Afdeling 2. Taken. Teneinde zijn doel te verwezenlijken heeft het MIF II de volg
 
 - j. bevorderen van milieuvriendelijke en duurzame economische ontwikkeling en van de gelijkheid van de seksen bij al zijn werkzaamheden.
 
-#### Artikel II. Bijdragen aan het fonds
+##### Artikel II. Bijdragen aan het fonds
 
 - a. Zo spoedig als redelijkerwijs mogelijk is na nederlegging van de akte waaruit blijkt dat hij dit MIF II-verdrag heeft bekrachtigd, aanvaard of goedgekeurd („akte van aanvaarding’’) maar niet later dan 60 dagen daarna legt elke toekomstige donor bij de Bank een akte neder waarin hij instemt met het betalen aan het Fonds van het in Schema A achter zijn naam opgenomen bedrag („akte van bijdrage’’), waarna een toekomstige donor „donor’’ wordt overeenkomstig dit MIF II-verdrag.
 
@@ -66,7 +91,7 @@ Afdeling 2. Taken. Teneinde zijn doel te verwezenlijken heeft het MIF II de volg
 
 - c. Om de verschuldigde bedragen vast te stellen voor elke donor die betaalt in een omwisselbare valuta anders dan de Amerikaanse dollar, wordt het bedrag in Amerikaanse dollars achter zijn naam in Schema A omgerekend in de valuta van betaling tegen de representatieve wisselkoers van het IMF voor die valuta, berekend door koersmiddeling op dagbasis gedurende het tijdvak van zes maanden eindigend op 31 december 2004.
 
-#### Artikel III. Werkzaamheden van het fonds
+##### Artikel III. Werkzaamheden van het fonds
 
 Afdeling 1. Algemeen. Het Fonds speelt een eigen rol binnen de samenwerking met de Bank en de IIC en kan hun activiteiten aanvullen of ondersteunen, al naar gelang hetgeen het Donorencomité bepaalt. Teneinde zijn doelstellingen te verwezenlijken met betrekking tot het ondersteunen van economische groei en het terugdringen van armoede door grotere private investeringen aan te moedigen en de ontwikkeling van de private sector te bevorderen, maakt het Fonds waar mogelijk gebruik van de strategieën en het beleid van de Bank en de programma’s voor de private sector in het desbetreffende land en het overige beleid van de Bank en de IIC.
 
@@ -106,7 +131,7 @@ Afdeling 1. Algemeen. Het Fonds speelt een eigen rol binnen de samenwerking met 
 
 - i. De werkzaamheden van het Fonds worden zodanig opgezet en uitgevoerd dat de efficiency en ontwikkelingsimpact worden geoptimaliseerd, met bijzondere nadruk op risicoanalyse vooraf en versterking van de uitvoerende instellingen. Het Donorencomité kan partnerschappen met lokale entiteiten voor de voorbereiding en uitvoering van projecten goedkeuren.
 
-#### Artikel IV. Het donorencomité
+##### Artikel IV. Het donorencomité
 
 Afdeling 1. Samenstelling. Elke donor kan deelnemen aan en een vertegenwoordiger benoemen voor de vergaderingen van het Donorencomité.
 
@@ -120,7 +145,7 @@ Afdeling 3. Vergaderingen. Het Donorencomité komt zo vaak bijeen op het hoofdka
 
 Afdeling 5. Verslaglegging en evaluatie. Na goedkeuring door het Donorencomité wordt het ingevolge artikel V, afdeling 2, onderdeel a, van het MIF II-beheerverdrag ingediende jaarlijkse informatieve rapport toegezonden aan de Raad van Bewindvoerders van de Bank. Op enig tijdstip na een jaar na de datum van inwerkingtreding van het MIF II-verdrag en ten minste eenmaal per vijf jaar daarna, verzoekt het Donorencomité de afdeling Evaluation and Oversight van de Bank een onafhankelijke evaluatie uit te voeren, te betalen uit de middelen van het Fonds, teneinde de resultaten van het Fonds tegen het licht van de doelstelling en taken uit hoofde van dit MIF II-verdrag te beoordelen; deze evaluatie blijft mede een beoordeling van de resultaten van projectgroepen behelzen, gebaseerd op benchmarks en indicatoren betreffende aspecten als relevantie, doeltreffendheid, efficiency, innovatie, duurzaamheid, additionaliteit en vooruitgang met betrekking tot de uitvoering van door het Donorcomité goedgekeurde aanbevelingen. De donoren komen uiterlijk ten tijde van de volgende jaarvergadering van de Raad van Bestuur bijeen teneinde de onafhankelijke evaluatie te bespreken.
 
-#### Artikel V. Duur van het MIF II-verdrag
+##### Artikel V. Duur van het MIF II-verdrag
 
 Afdeling 1. Inwerkingtreding. Dit MIF II-verdrag treedt in werking op een datum voor dan wel op 31 december 2007 zodra de toekomstige donoren die ten minste 60% van het totaalbedrag van het Fonds vermeld in Schema A vertegenwoordigen hun akten van bijdrage hebben nedergelegd, waarna het MIF I-verdrag beëindigd wordt en alle activa en passiva van het MIF I door het MIF II worden overgenomen.
 
@@ -130,7 +155,7 @@ Afdeling 3. Beëindiging door de Bank of het Donorencomité. Dit MIF II-verdrag 
 
 Afdeling 4. Verdeling van de activa van het Fonds. Bij beëindiging van dit MIF II-verdrag draagt het Donorencomité de Bank op over te gaan tot verdeling van de activa onder de donoren nadat alle verplichtingen van het Fonds zijn voldaan of daarin is voorzien. Deze verdeling van de resterende activa geschiedt in evenredigheid met de proportionele stemmen van de Donoren ingevolge artikel IV, afdeling 4. Resterende saldi van bedoelde promessen of vergelijkbare schuldpapieren vervallen, indien uit hoofde daarvan geen betaling vereist is teneinde aan de verplichtingen van het Fonds te voldoen.
 
-#### Artikel VI. Algemene bepalingen
+##### Artikel VI. Algemene bepalingen
 
 Afdeling 1. Toetreding tot dit MIF II-verdrag. Dit MIF II-verdrag kan worden ondertekend door elk lid van de Bank dat niet vermeld is in Schema A. Een dergelijke ondertekenaar kan tot dit MIF II-verdrag toetreden en donor worden door nederlegging van een akte van aanvaarding en een akte van bijdrage tot een bedrag en op data en onder voorwaarden als goedgekeurd door het Donorencomité dat een besluit neemt door middel van een stemming door ten minste twee derde van de donoren die ten minste drie vierde van het totale aantal stemmen van de donoren vertegenwoordigen.
 

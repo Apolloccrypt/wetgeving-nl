@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (beschikbaarheidbijdrage continuïteit van zorg)"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 13 november 2012, MC-U-3140782, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage continuïteit van zorg"
 identifier: "BWBR0032233"
-categorie: "Sociaal recht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032233"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032233"
+soort: "ministeriele-regeling"
+stam_id: "11911063"
+version_id: "19792292"
+internal_id: "C27796131"
+label_id: "11883034"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032233/2013-01-01/0"
+intitule_bron: "Stcrt.2012-23766"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-11-13"
+intitule_published: "2012-11-21"
+intitule_in_force: "2012-11-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-23766"
+original_signed_date: "2012-11-13"
+original_published_date: "2012-11-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-23766"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032233&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032233&g=2013-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (beschikbaarheidbijdrage continuïteit van zorg)"
+signed_date: "2012-11-13"
+entry_into_force: "2013-01-01"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 13 november 2012, MC-U-3140782, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage continuïteit van zorg
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -18,7 +44,7 @@ Gezien het verslag van 29 juni 2012 van een schriftelijk overleg met de vaste co
 
 Besluit:
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -32,19 +58,19 @@ In deze aanwijzing wordt verstaan onder:
 
 - **vangnetaanbieder:** zorgaanbieder die door de minister is opgericht of mede is opgericht ten behoeve van de continuïteit van zorg.
 
-#### Artikel 2. werkingssfeer
+##### Artikel 2. werkingssfeer
 
 Deze aanwijzing is van toepassing op zorg als bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2), juncto [onderdeel A, onder 2, sub a tot en met e, van de bijlage bij het besluit](onbekend).
 
-#### Artikel 3. opdracht
+##### Artikel 3. opdracht
 
 De zorgautoriteit stelt ter uitvoering van deze aanwijzing tijdig vóór 1 januari 2013 regels of beleidsregels vast.
 
-#### Artikel 4. voorwaarde aan het toekennen van een beschikbaarheidbijdrage
+##### Artikel 4. voorwaarde aan het toekennen van een beschikbaarheidbijdrage
 
 De zorgautoriteit kent de beschikbaarheidbijdrage voor zorg als bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2), juncto [onderdeel A, onder 2, sub b en c van de bijlage bij het besluit](onbekend) toe onder de voorwaarde dat er geen verslechtering in bereikbaarheid optreedt ten opzichte van de thans bestaande landelijke situatie, uitgaande van de bereikbaarheidsnorm als genoemd in onderdeel A, onder 2, sub b en c van de bijlage bij het besluit.
 
-#### Artikel 5. toekennen beschikbaarheidbijdrage
+##### Artikel 5. toekennen beschikbaarheidbijdrage
 
 1. De zorgautoriteit verleent en stelt een beschikbaarheidbijdrage voor zorg als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032233&artikel=2&z=2013-01-01&g=2013-01-01) uitsluitend vast nadat de minister een verklaring van geen bezwaar heeft afgegeven.
 
@@ -54,7 +80,7 @@ De zorgautoriteit kent de beschikbaarheidbijdrage voor zorg als bedoeld in [arti
 
 4. De zorgautoriteit verleent en stelt een beschikbaarheidbijdrage op aanvraag van een vangnetaanbieder vast.
 
-#### Artikel 6. berekenen beschikbaarheidbijdrage
+##### Artikel 6. berekenen beschikbaarheidbijdrage
 
 1. De zorgautoriteit berekent de hoogte van de beschikbaarheidbijdrage op basis van door haar vast te stellen normbedragen voor juridische kosten, adviseringskosten en administratieve kosten die rechtstreeks met de oprichting van de vangnetaanbieder verband houden.
 
@@ -62,7 +88,7 @@ De zorgautoriteit kent de beschikbaarheidbijdrage voor zorg als bedoeld in [arti
 
 3. De zorgautoriteit zorgt ervoor dat er geen sprake is van dubbele bekostiging.
 
-#### Artikel 7. financieringsbron
+##### Artikel 7. financieringsbron
 
 1. Ten laste van het Zorgverzekeringsfonds komen de beschikbaarheidbijdragen voor zorg als bedoeld in [onderdeel A, onder 2, sub a tot en met d van het besluit](onbekend).
 

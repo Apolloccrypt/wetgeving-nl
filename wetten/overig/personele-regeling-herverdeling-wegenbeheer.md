@@ -1,13 +1,37 @@
 ---
 title: "Personele regeling herverdeling wegenbeheer"
 identifier: "BWBR0005731"
-categorie: "Overig"
-publicatiedatum: 1993-02-01
-laatste_update: 1993-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005731"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1993-02-01"
+last_updated: "1993-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005731"
+soort: "ministeriele-regeling"
+stam_id: "3973783"
+version_id: "5746882"
+internal_id: "C5949611"
+label_id: "3953794"
+dtd_version: "2.0"
+original_entry_into_force: "1993-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005731/1993-02-01/0"
+intitule_bron: "Stcrt.1992-240"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-11-18"
+intitule_published: "1992-12-10"
+intitule_in_force: "1992-12-10"
+intitule_status: "goed"
+original_publication: "Stcrt.1992-240"
+original_signed_date: "1992-11-18"
+original_published_date: "1992-12-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-02-01"
+jci_1_3: "jci1.3:c:BWBR0005731&z=1993-02-01&g=1993-02-01"
+jci_1_0: "1.0:c:BWBR0005731&g=1993-02-01"
+citeertitel_status: "officieel"
+signed_date: "1992-11-18"
+entry_into_force: "1993-02-01"
 ---
-
 # Personele regeling herverdeling wegenbeheer
 
 Gelet op [artikel 21, eerste lid, van de Wet herverdeling wegenbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0005697&artikel=21) (Stb. 1992, 563);
@@ -16,11 +40,11 @@ Besluit:
 
 De volgende regels betreffende het overgaan van personeel vast te stellen:
 
-#### Artikel 1
+##### Artikel 1
 
 Onderhavige regeling heeft het karakter van een basisregeling volgens welke tenminste moet worden gehandeld: indien wegbeheerders regelingen overeenkomen die qua voorzieningen en garanties uitgaan boven de personele regeling herverdeling wegenbeheer, zijn laatst genoemde regelingen van toepassing.
 
-#### Artikel 2. Begripsbepaling
+##### Artikel 2. Begripsbepaling
 
 1. In deze regeling wordt verstaan onder:
 
@@ -44,7 +68,7 @@ Onderhavige regeling heeft het karakter van een basisregeling volgens welke tenm
 
 2. Onder manlijke naamgeving wordt in deze regeling tevens vrouwelijke naamgeving begrepen.
 
-#### Artikel 3.0. Algemeen
+##### Artikel 3.0. Algemeen
 
 Bij reorganisaties, fusies en overnemingen is het gebruikelijk dat de oplossing van de daarmee samenhangende personele problematiek primair in eigen kring plaatsvindt.
 
@@ -120,7 +144,7 @@ Beslissingen ten aanzien van het individuele personeelslid worden niet eerder ge
 
 Bij het nemen van beslissingen ten aanzien van het individuele personeelslid wordt zoveel mogelijk rekening gehouden met zijn wensen, persoonlijkheid, omstandigheden alsmede de voor hem bestaande vooruitzichten.
 
-#### Artikel 4. De regeling
+##### Artikel 4. De regeling
 
 **4.1**
 
@@ -370,7 +394,7 @@ Ingeval de bezwaren niet-ontvankelijk of ongegrond worden verklaard, wordt de be
 
 Tegen beslissingen, handelingen of weigeringen om te beslissen of te handelen voortvloeiend uit dit statuut, waardoor een personeelslid rechtstreeks in zijn belang wordt getroffen, staat binnen 30 dagen beroep open bij de Rechtbank.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit kan worden aangehaald als: Personele regeling herverdeling wegenbeheer.
 

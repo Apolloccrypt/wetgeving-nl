@@ -1,13 +1,36 @@
 ---
-title: "Richtsnoeren Identificatie en verificatie van persoonsgegevens"
+title: "Richtsnoeren Identificatie en verificatie van persoonsgegevens (Gebruik van ‘kopietje paspoort’ in de private sector)"
 identifier: "BWBR0033181"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2012-07-12
-laatste_update: 2012-07-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033181"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-07-12"
+last_updated: "2012-07-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033181"
+soort: "zbo"
+stam_id: "12191013"
+version_id: "20400642"
+internal_id: "C28679321"
+label_id: "12162644"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033181/2012-07-12/0"
+intitule_bron: "Stcrt.2012-14741"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2012-07-12"
+intitule_in_force: "2012-07-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-14741"
+original_published_date: "2012-07-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-14741"
+entry_into_force_date: "2012-07-12"
+jci_1_3: "jci1.3:c:BWBR0033181&z=2012-07-12&g=2012-07-12"
+jci_1_0: "1.0:c:BWBR0033181&g=2012-07-12"
+citeertitel_status: "redactioneel"
+short_title: "Richtsnoeren Identificatie en verificatie van persoonsgegevens"
+entry_into_force: "2012-07-12"
 ---
-
 # Richtsnoeren Identificatie en verificatie van persoonsgegevens (Gebruik van ‘kopietje paspoort’ in de private sector)
 
 ### Inleiding

@@ -1,13 +1,38 @@
 ---
 title: "Besluit administratieve verplichtingen omzetbelasting"
 identifier: "BWBR0051015"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-05-09
-laatste_update: 2025-05-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051015"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-05-09"
+last_updated: "2025-05-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051015"
+soort: "beleidsregel"
+stam_id: "17423223"
+version_id: "30721132"
+internal_id: "C44042331"
+label_id: "17327204"
+dtd_version: "2.0"
+original_entry_into_force: "2025-05-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051015/2025-05-09/0"
+intitule_bron: "Stcrt.2025-15981"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-05-01"
+intitule_published: "2025-05-08"
+intitule_in_force: "2025-05-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-15981"
+original_signed_date: "2025-05-01"
+original_published_date: "2025-05-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-15981"
+entry_into_force_date: "2025-05-09"
+jci_1_3: "jci1.3:c:BWBR0051015&z=2025-05-09&g=2025-05-09"
+jci_1_0: "1.0:c:BWBR0051015&g=2025-05-09"
+citeertitel_status: "officieel"
+signed_date: "2025-05-01"
+entry_into_force: "2025-05-09"
 ---
-
 # Besluit administratieve verplichtingen omzetbelasting
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

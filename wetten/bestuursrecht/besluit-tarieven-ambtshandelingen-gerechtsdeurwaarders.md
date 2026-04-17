@@ -1,13 +1,39 @@
 ---
-title: "Besluit tarieven ambtshandelingen gerechtsdeurwaarders"
+title: "Besluit van 4 juli 2001, houdende nadere regels inzake de ambtshandelingen van gerechtsdeurwaarders en de tarieven (Besluit tarieven ambtshandelingen gerechtsdeurwaarders)"
 identifier: "BWBR0012638"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012638"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012638"
+soort: "AMvB"
+stam_id: "1583353"
+version_id: "2345462"
+internal_id: "C2345461"
+label_id: "1538334"
+dtd_version: "2.0"
+original_entry_into_force: "2001-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012638/2026-01-01/0"
+intitule_bron: "Stb.2001-325"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-07-04"
+intitule_published: "2001-07-10"
+intitule_in_force: "2001-07-10"
+intitule_status: "goed"
+original_publication: "Stb.2001-325"
+original_signed_date: "2001-07-04"
+original_published_date: "2001-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2001-325"
+entry_into_force_date: "2001-07-15"
+jci_1_3: "jci1.3:c:BWBR0012638&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0012638&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit tarieven ambtshandelingen gerechtsdeurwaarders"
+signed_date: "2001-07-04"
+entry_into_force: "2001-07-15"
 ---
-
 # Besluit van 4 juli 2001, houdende nadere regels inzake de ambtshandelingen van gerechtsdeurwaarders en de tarieven (Besluit tarieven ambtshandelingen gerechtsdeurwaarders)
 
 Op de voordracht van de Staatssecretaris van Justitie van 23 mei 2001, nr. 5099743/01/6;
@@ -24,11 +50,11 @@ Dit besluit treedt in werking op het tijdstip waarop de artikelen 2, 21 en 89 va
 
 #### § 1. Vaste schuldenaarstarieven
 
-#### Artikel 1
+##### Artikel 1
 
 De schuldenaarstarieven, vastgesteld bij of krachtens dit besluit dienen mede tot dekking van de rechtstreeks met de ambtshandeling samenhangende voorbereidende, uitvoerende en afrondende werkzaamheden die voor een goede verrichting van die ambtshandeling noodzakelijk zijn.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onverminderd de [artikelen 5 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=3&artikel=14&z=2026-01-01&g=2026-01-01), bedragen de kosten, bedoeld in de [artikelen 240](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=240) en [434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), voor het exploot van:
 
@@ -84,7 +110,7 @@ De schuldenaarstarieven, vastgesteld bij of krachtens dit besluit dienen mede to
 
 2. Het eerste lid, onderdelen d en i, is van overeenkomstige toepassing op de vergoeding voor de tenuitvoerlegging van een Europees bevel tot conservatoir beslag, bedoeld in [artikel 11 van de Uitvoeringswet verordening Europees bevel tot conservatoir beslag op bankrekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0038749&artikel=11).
 
-#### Artikel 3
+##### Artikel 3
 
 Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=11&z=2026-01-01&g=2026-01-01), bedragen de kosten, bedoeld in [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), van inning, verdere tenuitvoerlegging en verdeling van de opbrengst van beslag op vorderingen tot periodieke betalingen, per maand waarin de gerechtsdeurwaarder een betaling van de derde int:
 
@@ -94,7 +120,7 @@ Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&pa
 
 - c. voor ieder daarop volgend samenlopend derdenbeslag: € 9,36 per beslag.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=11&z=2026-01-01&g=2026-01-01), bedragen de kosten, bedoeld in [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), voor de ambtshandeling, bedoeld in [artikel 2, onder b, d tot en met o, q tot en met w, en onder y](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01) die geen doorgang vindt, de helft van het bedrag, vastgesteld bij of krachtens het desbetreffende onderdeel van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), indien:
 
@@ -104,11 +130,11 @@ Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&pa
 
 2. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing, met dien verstande dat de kosten worden verhoogd met de helft van het desbetreffende bedrag.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien de gerechtsdeurwaarder met betrekking tot dezelfde roerende zaken de ambtshandelingen, bedoeld in [artikel 2, onder m en n](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), verricht, worden de kosten van de ambtshandeling, vastgesteld in artikel 2, onder m, verminderd met € 30,28.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien de gerechtsdeurwaarder zich op grond van een wettelijk voorschrift voor de goede verrichting van de ambtshandeling laat bijstaan door een of meer getuigen, worden de kosten van de ambtshandeling:
 
@@ -116,7 +142,7 @@ Indien de gerechtsdeurwaarder zich op grond van een wettelijk voorschrift voor d
 
 - b. bedoeld in [artikel 2, onder m, o, q, v en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), verhoogd met € 107,97.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien uit het exploot blijkt dat de uitvoering ter plaatse van de ambtshandeling:
 
@@ -124,7 +150,7 @@ Indien uit het exploot blijkt dat de uitvoering ter plaatse van de ambtshandelin
 
 - b. bedoeld in [artikel 2, onder m, q, r, t, v en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), langer dan drie uur heeft geduurd, worden de kosten verhoogd met € 30,28 voor iedere 15 minuten dat de uitvoering ter plaatse van de ambtshandeling langer dan anderhalf uur, respectievelijk drie uur heeft geduurd, en worden de kosten, vastgesteld bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), verhoogd met € 17,93 voor iedere 15 minuten dat de bijstand door de getuige daarbij langer dan anderhalf uur, respectievelijk drie uur heeft geduurd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voor de toepassing van [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), worden de kosten verhoogd met € 38,19 indien:
 
@@ -140,7 +166,7 @@ Indien uit het exploot blijkt dat de uitvoering ter plaatse van de ambtshandelin
 
 - c. in het exploot de feiten, bedoeld in de onderdelen a en b, heeft gerelateerd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De kosten worden verhoogd met de door de gerechtsdeurwaarder gedane verschotten, voor zover:
 
@@ -154,11 +180,11 @@ Indien uit het exploot blijkt dat de uitvoering ter plaatse van de ambtshandelin
 
 3. De gerechtsdeurwaarder hecht een afschrift van de factuur van de verschotten aan het exploot. Indien de factuur later wordt ontvangen, wordt deze uiterlijk op de vijftiende dag na de maand waarin de desbetreffende levering of de dienst is verricht in afschrift aan het exploot gehecht en aan de schuldenaar toegezonden. De gerechtsdeurwaarder maakt van de toezending aantekening aan de voet van het exploot en voorziet de aantekening van een dag- en handtekening.
 
-#### Artikel 10
+##### Artikel 10
 
 De kosten worden verhoogd met een percentage dat overeenkomt met het percentage, bedoeld in [artikel 9, eerste lid, van de Wet op de Omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=9), indien de opdrachtgever de hem in rekening gebrachte omzetbelasting niet op grond van genoemde wet kan verrekenen en zulks nadrukkelijk verklaart, en de gerechtsdeurwaarder aan de voet van het exploot verklaart dat de kosten in verband daarmee zijn verhoogd.
 
-#### Artikel 11
+##### Artikel 11
 
 [Deze paragraaf](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&z=2026-01-01&g=2026-01-01) blijft buiten toepassing ten aanzien van:
 
@@ -170,19 +196,19 @@ De kosten worden verhoogd met een percentage dat overeenkomt met het percentage,
 
 #### § 2. Voorschotten
 
-#### Artikel 12
+##### Artikel 12
 
 1. De gerechtsdeurwaarder vraagt de opdrachtgever bij wijze van voorschot geen hoger bedrag dan het bedrag dat op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&z=2026-01-01&g=2026-01-01), met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=4&z=2026-01-01&g=2026-01-01) en [11, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=11&z=2026-01-01&g=2026-01-01), wordt vastgesteld. De verhogingen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01), worden gebaseerd op de kosten die naar zijn oordeel voor de goede verrichting van de ambtshandeling noodzakelijk zullen zijn.
 
 2. Voor andere ambtshandelingen dan die bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=3&z=2026-01-01&g=2026-01-01) kan de gerechtsdeurwaarder bij wijze van voorschot een redelijk bedrag vragen.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien aan de opdrachtgever een toevoeging als bedoeld in [artikel 24 van de Wet op de Rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=24) is verleend, vraagt de gerechtsdeurwaarder de opdrachtgever bij wijze van voorschot geen bedrag dat hoger is dan het bedrag dat op grond van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01) wordt vastgesteld. Het bedrag, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01), wordt gebaseerd op de kosten die naar zijn oordeel voor de goede verrichting van de ambtshandeling noodzakelijk zullen zijn.
 
 #### § 3. Slot- en overgangsbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 1. De bedragen, vastgesteld in de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), gelden tot en met 31 december 2002 en worden jaarlijks met ingang van 1 januari door Onze Minister gewijzigd met een percentage dat overeenkomt met 0,6 x (A – B) + (0,4 x C), waarbij:
 
@@ -196,23 +222,23 @@ Indien aan de opdrachtgever een toevoeging als bedoeld in [artikel 24 van de Wet
 
 2. De tarieven die golden voor 1 januari van ieder jaar, blijven van toepassing met betrekking tot de vergoeding van ambtshandelingen die voor 1 januari van dat jaar zijn verricht.
 
-#### Artikel 15
+##### Artikel 15
 
 Het Deurwaardersreglement wordt ingetrokken.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt het Besluit tarieven in strafzaken.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit berust op de [artikelen 240](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=240)en [434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827), en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=2) en [21 van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=21).
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit, treedt in werking op het tijdstip waarop de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=2), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=21) en [89 van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=89) in werking treden, met uitzondering van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=3&artikel=14&z=2026-01-01&g=2026-01-01), dat in werking treedt met ingang van het tijdstip waarop artikel 31, onderdeel L, van hoofdstuk 5 van het bij koninklijke boodschap van 20 juni 2001 ingediende voorstel van wet tot aanpassing van de wetgeving aan de herziening van het procesrecht voor burgerlijke zaken, in het bijzonder de wijze van procederen in eerste aanleg (Kamerstukken II 2000/2001, 27 824, nrs. 1–3), nadat het tot wet is verheven, in werking treedt.
 
-#### Artikel 19
+##### Artikel 19
 
 Dit besluit wordt aangehaald als: Besluit tarieven ambtshandelingen gerechtsdeurwaarders.
 

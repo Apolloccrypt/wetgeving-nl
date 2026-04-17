@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Vlaamse Gewest betreffende de aanleg van de nieuwe sluis Terneuzen"
 identifier: "BWBV0006449"
-categorie: "Internationaal recht"
-publicatiedatum: 2023-12-19
-laatste_update: 2023-12-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006449"
+country: "nl"
+rank: "verdrag"
+publication_date: "2023-12-19"
+last_updated: "2023-12-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006449"
+soort: "verdrag"
+stam_id: "10005267703"
+version_id: "10005661002"
+internal_id: "C10009046821"
+label_id: "10005251194"
+dtd_version: "2.0"
+original_entry_into_force: "2016-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006449/2023-12-19/0"
+intitule_bron: "Trb.2015-35"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-03-04"
+intitule_in_force: "2016-03-02"
+intitule_status: "goed"
+original_publication: "Trb.2015-35"
+original_published_date: "2015-03-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2015-35"
+entry_into_force_date: "2016-03-01"
+jci_1_3: "jci1.3:c:BWBV0006449&z=2023-12-19&g=2023-12-19"
+jci_1_0: "1.0:c:BWBV0006449&g=2023-12-19"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-03-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Vlaamse Gewest betreffende de aanleg van de nieuwe sluis Terneuzen
 
 Het Koninkrijk der Nederlanden, enerzijds,
@@ -44,7 +66,7 @@ Komen het volgende overeen:
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit Verdrag wordt verstaan onder:
 
@@ -82,7 +104,7 @@ In dit Verdrag wordt verstaan onder:
 
 - o. SSK-methodiek: de Standaardsystematiek voor Kostenramingen.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Dit Verdrag heeft tot doel de tenuitvoerlegging en de bekostiging te verzekeren van:
 
@@ -92,7 +114,7 @@ Dit Verdrag heeft tot doel de tenuitvoerlegging en de bekostiging te verzekeren 
 
 ### HOOFDSTUK 2. AANLEG EN INFRASTRUCTUREEL BEHEER EN ONDERHOUD VAN DE NIEUWE SLUIS TERNEUZEN
 
-#### Artikel 3. Uitgangspunten
+##### Artikel 3. Uitgangspunten
 
 1. Uitgangspunt voor de ontwerpeisen van de nieuwe sluis zijn de afmetingen 427m x 55m x 16,44m (l*b*d).
 
@@ -110,7 +132,7 @@ Dit Verdrag heeft tot doel de tenuitvoerlegging en de bekostiging te verzekeren 
 
 8. De VNSC bepaalt het moment van de ingebruikname en oplevering van de nieuwe sluis.
 
-#### Artikel 4. Financiering en bekostiging
+##### Artikel 4. Financiering en bekostiging
 
 1. De budgettaire randvoorwaarde geldt als maximale kostprijs voor de uitvoering van het project nieuwe sluis.
 
@@ -122,7 +144,7 @@ Dit Verdrag heeft tot doel de tenuitvoerlegging en de bekostiging te verzekeren 
 
 5. Vlaanderen neemt het initiatief tot een verzoek aan de instellingen van de Europese Unie om een bijdrage in de financiering of bekostiging van de nieuwe sluis. Nederland ondersteunt dit verzoek.
 
-#### Artikel 5. Kostenverdeling en kostenverhouding
+##### Artikel 5. Kostenverdeling en kostenverhouding
 
 1. Vlaanderen draagt de werkelijke kosten van de aanleg. Vlaanderen draagt ook de kosten van het infrastructureel beheer en onderhoud van de nieuwe sluis, geraamd volgens een gezamenlijk overeengekomen methodiek, gedurende de periode van dertig jaar, vermeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=2&artikel=3&z=2023-12-19&g=2023-12-19). Ongeacht de effectieve hoogte van alle vermelde kosten levert Nederland een bijdrage van 155,381 miljoen euro.
 
@@ -138,7 +160,7 @@ Dit Verdrag heeft tot doel de tenuitvoerlegging en de bekostiging te verzekeren 
 
 - b. de definitieve kostenverhouding wordt bij de ingebruikname van de nieuwe sluis vastgesteld of, bij fasering van de werken, uiterlijk tien jaar na het definitief worden van het Tracébesluit.
 
-#### Artikel 6. lnfrastructureel beheer en onderhoud
+##### Artikel 6. lnfrastructureel beheer en onderhoud
 
 1. Het infrastructureel beheer en onderhoud betreft het functiebehoud van de nieuwe sluis, waaronder wordt verstaan het blijvend laten voldoen aan de functionele eisen waarmee de nieuwe sluis is ontworpen en gebouwd.
 
@@ -152,7 +174,7 @@ Dit Verdrag heeft tot doel de tenuitvoerlegging en de bekostiging te verzekeren 
 
 ### HOOFDSTUK 3. KANAALAANPASSINGEN
 
-#### Artikel 7. Besluitvorming en uitvoering kanaalaanpassingen
+##### Artikel 7. Besluitvorming en uitvoering kanaalaanpassingen
 
 1. Elke Verdragsluitende Partij kan een voorstel tot een kanaalaanpassing doen ter beraadslaging en besluitvorming binnen de VNSC. De VNSC bepaalt een redelijke periode van beraadslaging en besluitvorming.
 
@@ -162,11 +184,11 @@ Dit Verdrag heeft tot doel de tenuitvoerlegging en de bekostiging te verzekeren 
 
 4. De Verdragsluitende Partijen treffen geen eenzijdige maatregelen in de infrastructuur waarvan in alle redelijkheid kan worden verwacht dat zij een toekomstige kanaalaanpassing onmogelijk of significant duurder maken.
 
-#### Artikel 8. Berekening meerkosten kanaalaanpassingen
+##### Artikel 8. Berekening meerkosten kanaalaanpassingen
 
 De meerkosten van kanaalaanpassingen worden berekend door op de werkelijke kosten van de aanleg en het infrastructureel beheer en onderhoud van de betrokken kanaalaanpassing in de situatie met de nieuwe sluis de verhouding toe te passen van de tussen Nederland en Vlaanderen overeengekomen raming van de aanleg en het infrastructureel beheer en onderhoud van de betrokken kanaalaanpassing in een situatie waarin de nieuwe sluis is aangelegd en in een situatie waarin de nieuwe sluis niet is aangelegd toe te passen.
 
-#### Artikel 9. Kosten, kostenverdeling en betalingsregeling
+##### Artikel 9. Kosten, kostenverdeling en betalingsregeling
 
 1. Bij de beraadslaging en besluitvorming, vermeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=3&artikel=7&z=2023-12-19&g=2023-12-19), raamt de VNSC rekening houdend met de Nederlandse systematiek de kosten van de aanleg, alsmede van het infrastructureel beheer en onderhoud voor een periode van dertig jaar van een kanaalaanpassing op Nederlands grondgebied. Zij berekent daarbij tevens de meerkosten op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=3&artikel=8&z=2023-12-19&g=2023-12-19).
 
@@ -184,17 +206,17 @@ De meerkosten van kanaalaanpassingen worden berekend door op de werkelijke koste
 
 - b. bepaalt de VNSC het moment van betaling van de meerkosten van het infrastructureel beheer en onderhoud van een kanaalaanpassing van Vlaanderen aan Nederland, welk moment in ieder geval ligt voordat Nederland de daadwerkelijke betalingen moet doen.
 
-#### Artikel 10. Nadere regeling
+##### Artikel 10. Nadere regeling
 
 De Verdragsluitende Partijen kunnen besluiten de afspraken over een kanaalaanpassing, waaronder de verdeling van de meerkosten van aanleg en onderhoud, vast te leggen in een nadere regeling ter uitvoering van dit Verdrag.
 
 ### HOOFDSTUK 4. TOEPASSELIJK RECHT EN OPDRACHTGEVERSCHAP
 
-#### Artikel 11. Toepasselijk recht
+##### Artikel 11. Toepasselijk recht
 
 Op de uitvoering van dit Verdrag op Nederlands grondgebied is het Nederlandse recht van toepassing, zulks met uitsluiting van de conflictregels inzake internationaal privaatrecht.
 
-#### Artikel 12. Opdrachtgeverschap en bestendige bestuurlijke monitoring
+##### Artikel 12. Opdrachtgeverschap en bestendige bestuurlijke monitoring
 
 1. Tenzij anders wordt overeengekomen is Nederland juridisch opdrachtgever die bevoegd is de overeenkomst ter uitvoering van het project nieuwe sluis op Nederlands grondgebied te sluiten.
 
@@ -208,13 +230,13 @@ Op de uitvoering van dit Verdrag op Nederlands grondgebied is het Nederlandse re
 
 ### HOOFDSTUK 5. OVERLEG EN GESCHILLENBESLECHTING
 
-#### Artikel 13. Overleg bij onvoorziene omstandigheden
+##### Artikel 13. Overleg bij onvoorziene omstandigheden
 
 1. De bewindslieden treden met elkaar in overleg als zich onvoorziene omstandigheden voordoen, waaronder begrepen wijzigingen in relevante internationale en Europese regelgeving en daarop betrekking hebbende jurisprudentie welke van dien aard zijn dat naar de maatstaven van redelijkheid en billijkheid ongewijzigde instandhouding van dit Verdrag niet mag worden verwacht.
 
 2. Een nadere regeling met betrekking tot de afwijkingen van de overeenkomsten is opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=E&z=2023-12-19&g=2023-12-19).
 
-#### Artikel 14. Geschillenbeslechting
+##### Artikel 14. Geschillenbeslechting
 
 1. Als er tussen de Verdragsluitende Partijen een geschil, meningsverschil of vordering ontstaat met betrekking tot dit Verdrag of met betrekking tot het bestaan, de uitlegging, de uitvoering, de schending, de beëindiging of de geldigheid van dit Verdrag, regelen de Verdragsluitende Partijen deze geschillen in de eerste plaats door middel van onderhandelingen.
 
@@ -224,21 +246,21 @@ Op de uitvoering van dit Verdrag op Nederlands grondgebied is het Nederlandse re
 
 ### HOOFDSTUK 6. SLOTBEPALINGEN
 
-#### Artikel 15. Wijziging van het Verdrag
+##### Artikel 15. Wijziging van het Verdrag
 
 1. Door de Verdragsluitende Partijen schriftelijk overeengekomen wijzigingen van dit Verdrag, de [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=G&z=2023-12-19&g=2023-12-19) daarbij inbegrepen, treden in werking op de dag waarop de Verdragsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de constitutionele vereisten is voldaan.
 
 2. Wijzigingen van de bijlagen A tot en met F worden schriftelijk overeengekomen tussen de bewindslieden en treden in werking op een door hen te bepalen datum.
 
-#### Artikel 16. Bijlagen
+##### Artikel 16. Bijlagen
 
 De bijlagen bij dit Verdrag vormen daarvan een onlosmakelijk onderdeel.
 
-#### Artikel 17. Territoriaal toepassingsgebied
+##### Artikel 17. Territoriaal toepassingsgebied
 
 Wat het Koninkrijk der Nederlanden betreft, geldt dit Verdrag alleen voor het grondgebied gelegen in Europa.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Dit Verdrag treedt in werking met ingang van de eerste dag van de tweede maand, volgend op de datum waarop de Verdragsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de constitutionele vereisten is voldaan.
 
@@ -248,17 +270,17 @@ Dit Verdrag treedt in werking met ingang van de eerste dag van de tweede maand, 
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 De begripsbepalingen uit dit artikel behoeven geen verdere toelichting.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Dit Verdrag heeft tot doel de tenuitvoerlegging en de bekostiging te verzekeren van het project zoals omschreven in het Verdrag. De noodzakelijke werken in de voorhaven maken integraal onderdeel uit van dit project. De Partijen kunnen besluiten tot het gefaseerd uitvoeren van de werken in de voorhaven. In het hele Verdrag wordt gesproken van infrastructureel beheer en onderhoud, om de nadruk te leggen op de infrastructurele kant zonder de bemensing en zonder de kosten van exploitatie.
 
 ### HOOFDSTUK 2. AANLEG EN INFRASTRUCTUREEL BEHEER EN ONDERHOUD VAN DE NIEUWE SLUIS
 
-#### Artikel 3. Uitgangspunten
+##### Artikel 3. Uitgangspunten
 
 Dit artikel bevat een aantal uitgangspunten voor de aanleg en het infrastructureel beheer en onderhoud van de nieuwe sluis. Daarbij geven de volgende punten aanleiding tot nadere toelichting:
 
@@ -272,7 +294,7 @@ Dit artikel bevat een aantal uitgangspunten voor de aanleg en het infrastructure
 
 Hoewel Nederland juridisch opdrachtgever is ([artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=4&artikel=12&z=2023-12-19&g=2023-12-19)), is er uitdrukkelijk voor gekozen om de VNSC een rol te geven bij de besluitvorming, o.m. door het uitbrengen van een positief advies over de gunning, het opmaken en ondertekenen van de gunningsverslagen en het bepalen van het moment van ingebruikname en oplevering. Hiermee wordt het gezamenlijke karakter van dit project benadrukt. Dit sluit tevens aan bij de doelstellingen van het [Verdrag van 21 december 2005 inzake de samenwerking op het gebied van het beleid en het beheer in het Schelde-estuarium](https://wetten.overheid.nl/jci1.3:c:BWBV0003047).
 
-#### Artikel 4. Financiering en bekostiging
+##### Artikel 4. Financiering en bekostiging
 
 Het tweede lid betreft „wijzigingen in de reikwijdte van het project”. Met de reikwijdte van het project worden de bepalingen bedoeld zoals gezamenlijk vastgesteld in het programma van eisen. Bij een verzoek van één der partijen om hiervan af te wijken waardoor meerkosten van aanleg ontstaan, dient de verzoekende partij deze meerkosten te betalen. Dit betreft zowel de situatie bij aanleg als bij (groot) onderhoud. Eventueel resulterende meerkosten voor infrastructureel beheer en onderhoud vallen hier tevens onder.
 
@@ -280,25 +302,25 @@ Het vierde lid bepaalt dat de Partijen uiterlijk achtentwintig jaar na ingebruik
 
 Partijen zijn voornemens om gezamenlijk een beroep te doen op de Europese subsidiemogelijkheden, zoals de Trans-Europese Netwerken voor Transport (TENT).
 
-#### Artikel 5. Kostenverdeling
+##### Artikel 5. Kostenverdeling
 
 Op 24 december 2014 werd een voorlopige regeling getroffen in het besluit van het Politiek College van de Vlaams-Nederlandse Scheldecommissie op grond van [artikel 4, eerste lid, onder a van het op 21 december 2005 tot stand gekomen Verdrag inzake de samenwerking op het gebied van het beleid en het beheer in het Schelde-estuarium tussen de Vlaamse Gemeenschap en het Vlaams Gewest, enerzijds, en het Koninkrijk der Nederlanden, anderzijds](https://wetten.overheid.nl/jci1.3:c:BWBV0003047&artikel=4), onder meer voor de kosten gemoeid met de voorbereiding van de realisatie en gemaakt tijdens de overbruggingsfase. Die overbruggingsfase loopt vanaf de ondertekening van dat besluit en het afronden van het Ontwerptracébesluit tot de inwerkingtreding van het Verdrag. In deze fase kunnen kosten worden gemaakt voor het functievrij maken van de gebieden, (het voorbereiden van) het noodzakelijk verleggen van kabels en leidingen, het opstellen van offertes door opdrachtnemers en onteigeningen die nodig zijn voor de aanleg. Aangezien het gaat om kosten van het project, vallen zij na inwerkingtreding van dit Verdrag onder de afspraken van de kostenverdeling uit dit artikel. Personeelskosten van de Verdragsluitende Partijen zijn hierbij uitgesloten.
 
 Het begrip „kostenverhouding” wordt in dit artikel geïntroduceerd om begripsverwarring te voorkomen met het begrip „kostenverdeling”. Aangezien de Nederlandse bijdrage vaststaat en de Vlaamse bijdrage afhangt van de werkelijke kosten, inclusief meevallers en tegenvallers bij de aanbesteding tot en met de oplevering, kan deze verhouding pas bij de eindafrekening van het project worden bepaald. Deze kostenverhouding werkt vervolgens door in de verdeling van de eventuele bijdrage van de Europese Unie.
 
-#### Artikel 6. lnfrastructureel beheer en onderhoud
+##### Artikel 6. lnfrastructureel beheer en onderhoud
 
 Functiebehoud als vermeld onder het eerste lid kan onder meer bevatten: het vervangen en repareren van onderdelen vanwege slijtage of veroudering, conserverend onderhoud om te voorkomen dat ingeteerd wordt op de levensduur van het project, het vervangen van (onderdelen van) installaties vanwege nietbeschikbaarheid van onderdelen, en het dagelijkse onderhoud dat zorg draagt voor het dagelijks operationeel zijn van het object. De nieuwe sluis kent de functies schutten, waterkeren, spuien en kruisen.
 
 ### HOOFDSTUK 3. KANAALAANPASSINGEN
 
-#### Artikel 7. Besluitvorming en uitvoering kanaalaanpassingen
+##### Artikel 7. Besluitvorming en uitvoering kanaalaanpassingen
 
 Dit artikel ziet voornamelijk op de kanaalaanpassingen op Nederlands grondgebied, aangezien er in dat geval een Vlaamse financiële bijdrage aan de orde kan zijn. Er wordt vanuit gegaan dat elke afzonderlijke kanaalaanpassing wordt besproken.
 
 Over elke afzonderlijke kanaalaanpassing neemt de VNSC binnen een redelijke termijn een besluit. De VNSC bepaalt zelf het niveau van besluitvorming (Politiek College dan wel Ambtelijk College).
 
-#### Artikel 8. Berekening meerkosten kanaalaanpassingen
+##### Artikel 8. Berekening meerkosten kanaalaanpassingen
 
 Dit artikel betreft de berekeningswijze voor de meerkosten van kanaalaanpassingen.
 
@@ -308,23 +330,23 @@ De meerkosten van kanaalaanpassingen betreffen bijvoorbeeld een situatie waarin 
 
 Deze meerkosten worden berekend door de verhouding van de overeengekomen raming van beide situaties (vervanging, aanpassingen en infrastructureel beheer en onderhoud in een situatie met en in een situatie zonder een nieuwe sluis) toe te passen op de werkelijke kosten van de kanaalaanpassingen en infrastructureel beheer en onderhoud in de situatie met de nieuwe sluis.
 
-#### Artikel 9. Kosten, kostenverdeling en betalingsregeling
+##### Artikel 9. Kosten, kostenverdeling en betalingsregeling
 
 In het eerste lid wordt verwezen naar een kostenberekening overeenkomstig de Nederlandse systematiek. Dit betreft de Standaardsystematiek voor Kostenramingen (SSK), die goed aansluit bij projectmatig werken, zowel bij nieuwbouw, als bij infrastructureel beheer en onderhoud of sloop. In essentie biedt de SSK de samengepakte „best practices” van een groot aantal partijen in de Nederlandse en Belgische grond-, weg- en waterbouw-markt. Bij dit model is een eenduidig begrippenkader ontwikkeld en er zijn checklists voor de verschillende kostencategorieën en kostengroepen gegeven. De methodiek biedt houvast voor het omgaan met risico’s en onzekerheden in de raming en het vertalen daarvan in geld.
 
 Het vierde lid bepaalt dat de Partijen uiterlijk achtentwintig jaar na ingebruikname van een kanaalaanpassing een afspraak moeten hebben gemaakt over de meerkosten van infrastructureel beheer en onderhoud over de volgende zeventig jaar. Er dient binnen de VNSC overeenstemming te zijn over de meerkosten.
 
-#### Artikel 10. Nadere regeling
+##### Artikel 10. Nadere regeling
 
 De Partijen hebben de vrijheid om te bepalen welke juridische vorm de toekomstige afspraken over kanaalaanpassingen zullen aannemen.
 
 ### HOOFDSTUK 4. TOEPASSELIJK RECHT EN OPDRACHTGEVERSCHAP
 
-#### Artikel 11. Toepasselijk recht
+##### Artikel 11. Toepasselijk recht
 
 Aangezien de werken op Nederlands grondgebied plaatsvinden, is het Nederlandse recht van toepassing. De uitsluiting van de conflictregels inzake het internationaal privaatrecht is opgenomen om uit te sluiten dat, via Boek 10 van het Nederlands Burgerlijk Wetboek, het internationaal privaatrecht van toepassing zou kunnen worden verklaard op de uitvoering van dit Verdrag.
 
-#### Artikel 12. Opdrachtgeverschap en bestendige bestuurlijke monitoring
+##### Artikel 12. Opdrachtgeverschap en bestendige bestuurlijke monitoring
 
 Uit het feit dat de werken op Nederlands grondgebied plaatsvinden, vloeit tevens voort dat Nederland, tenzij anders bepaald, juridisch opdrachtgever is.
 
@@ -334,11 +356,11 @@ Zij zorgt voor een adequate uitvoeringsstructuur die aan de hand van plannen van
 
 ### HOOFDSTUK 5. OVERLEG EN GESCHILLENBESLECHTING
 
-#### Artikel 13. Overleg bij onvoorziene omstandigheden
+##### Artikel 13. Overleg bij onvoorziene omstandigheden
 
 Bij onvoorziene omstandigheden zullen de Partijen overleg plegen. Onvoorziene omstandigheden omvatten geen wijzigingen van de nationale regelgeving van de Verdragsluitende Partijen. Indien er door nieuwe internationale en EU-regelgeving of daarop betrekking hebbende jurisprudentie extra eisen worden gesteld, valt dit wel onder onvoorziene omstandigheden die besproken dienen te worden door de bewindspersonen.
 
-#### Artikel 14. Geschillenbeslechting
+##### Artikel 14. Geschillenbeslechting
 
 Dit artikel regelt de beslechting van alle mogelijke geschillen over het Verdrag. Deze bepaling alsmede de regels omtrent de samenstelling en de procedure van het scheidsgerecht opgenomen in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=G&z=2023-12-19&g=2023-12-19) bij het Verdrag, betreffen een standaardregeling die veel wordt gebruikt in bilaterale verdragen. Het Permanente Hof van Arbitrage te Den Haag heeft arbitrageregels opgesteld, die gehanteerd worden om een vlotte en efficiënte doorloop te kunnen garanderen.
 
@@ -346,11 +368,11 @@ Bij een eventuele geschillenbeslechting wordt het Engels of Nederlands gehanteer
 
 ### HOOFDSTUK 6. SLOTBEPALINGEN
 
-#### Artikel 15. Wijziging van het Verdrag
+##### Artikel 15. Wijziging van het Verdrag
 
 Het Verdrag voorziet in twee wijzigingsprocedures. Voor het Verdrag zelf en [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=G&z=2023-12-19&g=2023-12-19) geldt de normale procedure voor wijziging van verdragen, overeenkomstig de constitutionele vereisten van beide Partijen. Voor de andere bijlagen geldt een vereenvoudigde procedure. Het wijzigen van deze bijlagen kan geschieden via de schriftelijke overeenstemming tussen de Bewindslieden. Dit biedt de mogelijkheid om flexibel te handelen. Een formele verdragswijziging kent immers normalerwijs een lange doorlooptijd.
 
-#### Artikel 16. Bijlagen
+##### Artikel 16. Bijlagen
 
 Dit artikel bepaalt dat de bijlagen een onlosmakelijk deel van het Verdrag vormen, wat betekent dat ze op dezelfde manier verbindend zijn. Het betreft de volgende bijlagen, waarvan [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=F&z=2023-12-19&g=2023-12-19) een nadere uitleg behoeft, die na de artikelsgewijze toelichting is opgenomen:
 
@@ -368,15 +390,15 @@ Dit artikel bepaalt dat de bijlagen een onlosmakelijk deel van het Verdrag vorme
 
 - –. [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=G&z=2023-12-19&g=2023-12-19): samenstelling en procedure van het scheidsgerecht.
 
-#### Artikel 17. Territoriaal toepassingsgebied
+##### Artikel 17. Territoriaal toepassingsgebied
 
 Dit artikel vloeit voort uit de aard van het Verdrag.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Dit artikel behoeft geen verdere toelichting.
 
-#### 1. Algemeen
+##### 1. Algemeen
 
 In het traject om tot de realisatie te komen van een Nieuwe Sluis in Terneuzen werd in 2012 een politiek akkoord gesloten tussen Nederland en Vlaanderen.
 
@@ -388,7 +410,7 @@ Eind 2013 werd vanuit de stuurgroep de vraag geformuleerd om op basis van „gel
 
 Begin september 2014 werden de cijferwaarden door beide partijen verduidelijkt.
 
-#### 2. Kostenopgave nota januari 2014 (exclusief BTW)
+##### 2. Kostenopgave nota januari 2014 (exclusief BTW)
 
 Voor Nederland:
 
@@ -407,7 +429,7 @@ Voor Nederland:
 
 1) Decreetskosten zijn de jaarlijkse operationele kosten voor het onderhoud en de exploitatie van een sluis.
 
-#### 3. Evaluatie vanuit Vlaanderen
+##### 3. Evaluatie vanuit Vlaanderen
 
 Hierbij wordt verwezen naar Risico Inventarisatie Natte Kunstwerken (RINK 2011) die een kosteninschatting doet over 20 jaar, inbegrepen BTW (19% in 2011). De methodiek van het ramen van kosten is voor RINK dezelfde als voor de Nieuwe Sluis (SSK201O), waarbij voor de Nieuwe Sluis LCC als uitgangspunt wordt gehanteerd.
 
@@ -435,7 +457,7 @@ In de voorafgaande besprekingen is echter gesteld dat verbetermaatregelen niet t
 
 Na controle door Nederland wordt dit bedrag herleid naar 21,6 miljoen € (exclusief BTW).
 
-#### 4. Samenvatting
+##### 4. Samenvatting
 
 Op basis van het bovenstaande nazicht krijgt men de volgende bedragen exclusief BTW:
 
@@ -467,7 +489,7 @@ Daarnaast is een aantal factoren van invloed op het verschil in kosten:
 
 Deze evaluatie geeft een indicatie van onderhoudskosten van een zeesluis. De verwachte omvang van de onderhoudskosten van de nieuwe zeesluis komen voort uit de raming door het project van de Nieuwe Sluis.
 
-#### 5. Risico-inschatting van de kostprijzen
+##### 5. Risico-inschatting van de kostprijzen
 
 De opgave van de decreetskosten zijn gebaseerd op het effectieve cijfermateriaal van 2004 en 2005. Hierop is derhalve geen risico overschot bij te tellen. Voor het groot onderhoud worden er kostprijzen vooropgesteld die zijn gebaseerd op uitvoeringen van gelijkaardige werken. De risicocomponent is hier ook te verwaarlozen.
 

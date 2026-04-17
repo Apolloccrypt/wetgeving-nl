@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake de Internationale Organisatie voor Maritieme Navigatie Ondersteunende Dienstverlening"
 identifier: "BWBV0006901"
-categorie: "Internationaal recht"
-publicatiedatum: 2024-08-22
-laatste_update: 2024-08-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006901"
+country: "nl"
+rank: "verdrag"
+publication_date: "2024-08-22"
+last_updated: "2024-08-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006901"
+soort: "verdrag"
+stam_id: "10005580903"
+version_id: "10006106202"
+internal_id: "C10010112951"
+label_id: "10005563854"
+dtd_version: "2.0"
+original_entry_into_force: "2024-08-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006901/2024-08-22/0"
+intitule_bron: "Trb.2021-38"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2021-03-26"
+intitule_in_force: "2024-07-25"
+intitule_status: "goed"
+original_publication: "Trb.2021-38"
+original_published_date: "2021-03-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2021-38"
+entry_into_force_date: "2024-08-22"
+jci_1_3: "jci1.3:c:BWBV0006901&z=2024-08-22&g=2024-08-22"
+jci_1_0: "1.0:c:BWBV0006901&g=2024-08-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "2024-08-22"
 ---
-
 # Verdrag inzake de Internationale Organisatie voor Maritieme Navigatie Ondersteunende Dienstverlening
 
 Preambule
@@ -24,7 +46,7 @@ Voorts overwegend dat het ontwikkelen, verbeteren en harmoniseren van maritieme 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Oprichting
+##### Artikel 1. Oprichting
 
 1. De Internationale Organisatie voor Maritieme Navigatie Ondersteunende Dienstverlening (hierna de „Organisatie”) wordt hierbij opgericht als intergouvernementele organisatie naar internationaal recht.
 
@@ -34,7 +56,7 @@ Zijn het volgende overeengekomen:
 
 4. Het functioneren van de Organisatie wordt nader vastgelegd in het Algemeen Reglement, waarop de bepalingen van dit Verdrag van toepassing zijn maar dat er geen integrerend deel van uitmaakt. In geval van verschillen tussen dit Verdrag en het Algemeen Reglement of andere basisdocumenten inzake het bestuur van de Organisatie, is dit Verdrag doorslaggevend.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -46,7 +68,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - 4. Geaffilieerd Lid een producent of distributeur van apparatuur op het gebied van maritieme navigatie ondersteunende dienstverlening die gekocht kan worden, of een organisatie die op contractbasis diensten of technische adviezen levert op het gebied van maritieme navigatie ondersteunende dienstverlening en elke andere organisatie of wetenschappelijke instantie die zich bezighoudt met maritieme navigatie ondersteunende dienstverlening die lidmaatschap heeft aangevraagd, en dat door de Raad is goedgekeurd.
 
-#### Artikel 3. Doel en doelstellingen
+##### Artikel 3. Doel en doelstellingen
 
 Het doel van de Organisatie is het bijeenbrengen van overheden en organisaties die betrokken zijn bij de regelgeving, de levering, het onderhoud of de exploitatie van maritieme navigatie ondersteunende dienstverlening teneinde de volgende doelstellingen te bevorderen:
 
@@ -58,7 +80,7 @@ Het doel van de Organisatie is het bijeenbrengen van overheden en organisaties d
 
 - d. Voorzien in de uitwisseling van informatie betreffende aangelegenheden waarover de Organisatie zich buigt.
 
-#### Artikel 4. Taken
+##### Artikel 4. Taken
 
 Teneinde het doel en de doelstellingen die in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=3&z=2024-08-22&g=2024-08-22) zijn vervat te verwezenlijken, heeft de Organisatie de volgende taken:
 
@@ -76,7 +98,7 @@ Teneinde het doel en de doelstellingen die in [artikel 3](https://wetten.overhei
 
 - g. Contacten onderhouden en samenwerken met relevante internationale en andere organisaties, en, waar nodig, bieden van specialistisch advies.
 
-#### Artikel 5. Lidmaatschap
+##### Artikel 5. Lidmaatschap
 
 1. De Organisatie bestaat uit Lidstaten, Geassocieerde Leden en Geaffilieerde Leden.
 
@@ -84,7 +106,7 @@ Teneinde het doel en de doelstellingen die in [artikel 3](https://wetten.overhei
 
 3. De Raad kan verlangen of een Lidstaat kan verzoeken dat aspecten van een aanvraag tot geaffilieerd lidmaatschap worden beoordeeld door de Lidstaat of Lidstaten waar de aanvrager zijn activiteiten uitoefent of zijn voornaamste plaats van bedrijfsuitoefening of zetel is gevestigd. De Raad houdt rekening met de opvattingen van de aanvragende en beoordelende Lidstaten wanneer zij beslist over een geaffilieerd lidmaatschap.
 
-#### Artikel 6. Organen
+##### Artikel 6. Organen
 
 1. De Organisatie heeft de volgende organen:
 
@@ -100,7 +122,7 @@ Teneinde het doel en de doelstellingen die in [artikel 3](https://wetten.overhei
 
 3. In het Algemeen Reglement en het Financieel Reglement wordt het reglement van orde vastgelegd dat op elk orgaan van toepassing is en dat leidend is in het dagelijks bestuur van de Organisatie.
 
-#### Artikel 7. De Algemene Vergadering
+##### Artikel 7. De Algemene Vergadering
 
 1. De Algemene Vergadering is het belangrijkste besluitvormende orgaan van de Organisatie en beschikt over alle bevoegdheden van de Organisatie, tenzij anders is bepaald in dit Verdrag.
 
@@ -144,7 +166,7 @@ Teneinde het doel en de doelstellingen die in [artikel 3](https://wetten.overhei
 
 - n. Beslist over andere aangelegenheden die binnen het doel en de doelstellingen van de Organisatie vallen.
 
-#### Artikel 8. De Raad
+##### Artikel 8. De Raad
 
 1. De Raad is het uitvoerend orgaan van de Organisatie en is verantwoordelijk voor het leiden van de activiteiten van de Organisatie.
 
@@ -190,7 +212,7 @@ Teneinde het doel en de doelstellingen die in [artikel 3](https://wetten.overhei
 
 9. Leden van de Raad mogen, na de voorzitter en Secretaris-Generaal hiervan op de hoogte te hebben gesteld, Geaffilieerde Leden uitnodigen als technisch adviseur deel te nemen aan vergaderingen van de Raad om advies en ondersteuning te geven bij operationele en technische aangelegenheden.
 
-#### Artikel 9. Commissies en subsidiaire organen
+##### Artikel 9. Commissies en subsidiaire organen
 
 1. Commissies en subsidiaire organen ondersteunen het doel en de doelstellingen van de Organisatie.
 
@@ -204,7 +226,7 @@ Teneinde het doel en de doelstellingen die in [artikel 3](https://wetten.overhei
 
 - d. Voeren alle andere taken uit die door de Raad worden besloten.
 
-#### Artikel 10. Het Secretariaat
+##### Artikel 10. Het Secretariaat
 
 1. Het permanente Secretariaat van de Organisatie bestaat uit de Secretaris-Generaal en het personeel dat nodig is voor het werk van de Organisatie binnen het goedgekeurde begrotingskader.
 
@@ -236,7 +258,7 @@ Teneinde het doel en de doelstellingen die in [artikel 3](https://wetten.overhei
 
 7. Bij de vervulling van hun taken mogen de Secretaris-Generaal en het personeel geen instructies vragen of ontvangen van enige overheid of van enige andere bron buiten de Organisatie. Zij dienen zich te onthouden van elke handeling die hun status van internationale functionaris die alleen aan de Organisatie verantwoording verschuldigd is zou kunnen schaden. Elke Lidstaat verbindt zich er op zijn beurt toe het zuiver internationale karakter van de verantwoordelijkheden van de Secretaris-Generaal en het personeel te eerbiedigen en zal niet trachten hen te beïnvloeden bij uitoefening van hun verantwoordelijkheden.
 
-#### Artikel 11. Stemmen
+##### Artikel 11. Stemmen
 
 1. Al het mogelijke wordt in het werk gesteld om de Algemene Vergadering en de Raad besluiten bij consensus te laten aannemen door de Lidstaten.
 
@@ -248,11 +270,11 @@ Teneinde het doel en de doelstellingen die in [artikel 3](https://wetten.overhei
 
 5. De verkiezing van de Raad geschiedt met het hoogste aantal stemmen van de Lidstaten die aanwezig zijn en hun stem uitbrengen in een geheime stemming, in overeenstemming met het Algemeen Reglement.
 
-#### Artikel 12. Talen
+##### Artikel 12. Talen
 
 De officiële talen van de Organisatie zijn het Arabisch, het Chinees, het Engels, het Frans, het Russisch en het Spaans.
 
-#### Artikel 13. Financiering
+##### Artikel 13. Financiering
 
 1. De uitgaven in verband met het functioneren van de Organisatie worden betaald uit de financiële middelen die beschikbaar komen door:
 
@@ -270,7 +292,7 @@ De officiële talen van de Organisatie zijn het Arabisch, het Chinees, het Engel
 
 5. Na goedkeuring door de Raad van de door de accountant gecontroleerde jaarrekening van de Organisatie, wordt deze verspreid onder alle Lidstaten, Geassocieerde Leden en Geaffilieerde Leden in het jaarverslag.
 
-#### Artikel 14. Rechtspersoonlijkheid, voorrechten en immuniteiten
+##### Artikel 14. Rechtspersoonlijkheid, voorrechten en immuniteiten
 
 1. De Organisatie bezit internationale rechtspersoonlijkheid en heeft de bevoegdheid om:
 
@@ -284,7 +306,7 @@ De officiële talen van de Organisatie zijn het Arabisch, het Chinees, het Engel
 
 3. Geen Lidstaat, Geassocieerd Lid of Geaffilieerd Lid is op grond van zijn rechtspositie of deelname in de Organisatie aansprakelijk voor het handelen, het nalaten te handelen of de verplichtingen van de Organisatie.
 
-#### Artikel 15. Wijzigingen
+##### Artikel 15. Wijzigingen
 
 1. Elke Lidstaat kan aan de Secretaris-Generaal schriftelijk voorstellen doen tot wijziging van dit Verdrag.
 
@@ -300,15 +322,15 @@ De officiële talen van de Organisatie zijn het Arabisch, het Chinees, het Engel
 
 7. De Depositaris stelt de Lidstaten en de Secretaris-Generaal in kennis van de inwerkingtreding van de wijziging, onder vermelding van de datum van de inwerkingtreding ervan.
 
-#### Artikel 16. Voorbehouden
+##### Artikel 16. Voorbehouden
 
 Ten aanzien van dit Verdrag kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 17. Uitlegging en geschillen
+##### Artikel 17. Uitlegging en geschillen
 
 Lidstaten verrichten alle mogelijke inspanningen om geschillen over de uitlegging of toepassing van dit Verdrag te voorkomen en stellen alles in het werk om geschillen langs vreedzame weg te regelen waaronder mogelijk door middel van overleg en onderlinge onderhandelingen en op iedere andere wijze die de partijen bij het geschil overeenkomen.
 
-#### Artikel 18. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 18. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Verdrag staat open voor ondertekening door elke Staat die lid is van de Verenigde Naties te Parijs vanaf 27 januari 2021 en blijft openstaan voor ondertekening tot 26 januari 2022.
 
@@ -318,11 +340,11 @@ Lidstaten verrichten alle mogelijke inspanningen om geschillen over de uitleggin
 
 4. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij de Depositaris, die alle Staten die dergelijke akten hebben nedergelegd bij de Depositaris en de Secretaris-Generaal daarvan in kennis stelt.
 
-#### Artikel 19. De Depositaris
+##### Artikel 19. De Depositaris
 
 De Franse Republiek treedt op als Depositaris voor dit Verdrag. Dit Verdrag wordt geregistreerd in overeenstemming met de bepalingen van [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de negentigste dag na de datum van de nederlegging van de dertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -330,7 +352,7 @@ De Franse Republiek treedt op als Depositaris voor dit Verdrag. Dit Verdrag word
 
 3. De overgangsregeling die van toepassing is na inwerkingtreding van dit Verdrag is vervat in de Bijlage.
 
-#### Artikel 21. Opzegging
+##### Artikel 21. Opzegging
 
 1. Elke Lidstaat kan dit Verdrag opzeggen door middel van een kennisgeving aan de Depositaris, met inachtneming van een opzegtermijn van ten minste twaalf maanden, die alle Lidstaten en de Secretaris-Generaal onverwijld op de hoogte stelt van deze kennisgeving.
 
@@ -338,7 +360,7 @@ De Franse Republiek treedt op als Depositaris voor dit Verdrag. Dit Verdrag word
 
 3. De terugtrekking wordt van kracht op 31 december van het jaar volgend op dat waarin de kennisgeving van opzegging is nedergelegd.
 
-#### Artikel 22. Beëindiging
+##### Artikel 22. Beëindiging
 
 1. Dit Verdrag kan worden beëindigd door een stemming door de Algemene Vergadering, waarbij deze stemming ten minste zes maanden van tevoren wordt aangekondigd.
 

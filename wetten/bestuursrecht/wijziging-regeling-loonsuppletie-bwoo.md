@@ -1,13 +1,36 @@
 ---
 title: "Wijziging Regeling loonsuppletie BWOO"
 identifier: "BWBR0012233"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-01-01
-laatste_update: 2001-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012233"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2001-01-01"
+last_updated: "2001-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012233"
+soort: "beleidsregel"
+stam_id: "6525023"
+version_id: "11256392"
+internal_id: "C15188681"
+label_id: "6513554"
+original_entry_into_force: "2001-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012233/2001-01-01/0"
+intitule_bron: "Uitleg.2001-5/6"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-02-07"
+intitule_published: "2001-02-21"
+intitule_in_force: "2001-02-21"
+intitule_status: "goed"
+original_publication: "Uitleg.2001-5/6"
+original_signed_date: "2001-02-07"
+original_published_date: "2001-02-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-01-01"
+jci_1_3: "jci1.3:c:BWBR0012233&z=2001-01-01&g=2001-01-01"
+jci_1_0: "1.0:c:BWBR0012233&g=2001-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2001-02-07"
+entry_into_force: "2001-01-01"
 ---
-
 # Wijziging Regeling loonsuppletie BWOO
 
 ### Pensioenbijdrage over loonsuppletie met ingang van 1 januari 2001

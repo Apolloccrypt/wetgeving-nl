@@ -1,28 +1,53 @@
 ---
 title: "Investeringsimpuls LNG-vulpunten binnenvaart"
 identifier: "BWBR0029670"
-categorie: "Overig"
-publicatiedatum: 2011-04-01
-laatste_update: 2011-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029670"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-04-01"
+last_updated: "2011-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029670"
+soort: "ministeriele-regeling"
+stam_id: "11259123"
+version_id: "18436752"
+internal_id: "C25698931"
+label_id: "11233224"
+dtd_version: "2.0"
+original_entry_into_force: "2011-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029670/2011-04-01/0"
+intitule_bron: "Stcrt.2011-3770"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-02-24"
+intitule_published: "2011-03-03"
+intitule_in_force: "2011-03-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-3770"
+original_signed_date: "2011-02-24"
+original_published_date: "2011-03-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-3770"
+entry_into_force_date: "2011-04-01"
+jci_1_3: "jci1.3:c:BWBR0029670&z=2011-04-01&g=2011-04-01"
+jci_1_0: "1.0:c:BWBR0029670&g=2011-04-01"
+citeertitel_status: "officieel"
+signed_date: "2011-02-24"
+entry_into_force: "2011-04-01"
 ---
-
 # Investeringsimpuls LNG-vulpunten binnenvaart
 
 Gelet op [artikel 2, eerste lid, onderdeel a, van de Kaderregeling subsidies duurzaamheid verkeer en waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0026095&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Als programma als bedoeld in [artikel 2, eerste lid, onderdeel a, van de Kaderregeling subsidies duurzaamheid verkeer en waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0026095&artikel=2), wordt vastgesteld de Investeringsimpuls LNG-vulpunten binnenvaart, die is opgenomen in de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 april 2011.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als Investeringsimpuls LNG-vulpunten binnenvaart.
 

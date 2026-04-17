@@ -1,13 +1,38 @@
 ---
-title: "Besluit opleidingseisen en deskundigheidsgebied klinisch fysicus"
+title: "Besluit van 25 april 2005, houdende regels inzake de opleiding tot en de deskundigheid van de klinisch fysicus (Besluit opleidingseisen en deskundigheidsgebied klinisch fysicus)"
 identifier: "BWBR0018235"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-10-14
-laatste_update: 2009-10-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018235"
+country: "nl"
+rank: "amvb"
+publication_date: "2009-10-14"
+last_updated: "2009-10-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018235"
+soort: "AMvB"
+stam_id: "7024793"
+version_id: "11906842"
+internal_id: "C22995021"
+label_id: "7013014"
+original_entry_into_force: "2009-10-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018235/2009-10-14/0"
+intitule_bron: "Stb.2005-265"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-04-25"
+intitule_published: "2005-05-31"
+intitule_in_force: "2009-10-13"
+intitule_status: "goed"
+original_publication: "Stb.2005-265"
+original_signed_date: "2005-04-25"
+original_published_date: "2005-05-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2005-265"
+entry_into_force_date: "2009-10-14"
+jci_1_3: "jci1.3:c:BWBR0018235&z=2009-10-14&g=2009-10-14"
+jci_1_0: "1.0:c:BWBR0018235&g=2009-10-14"
+citeertitel_status: "officieel"
+short_title: "Besluit opleidingseisen en deskundigheidsgebied klinisch fysicus"
+signed_date: "2005-04-25"
+entry_into_force: "2009-10-14"
 ---
-
 # Besluit van 25 april 2005, houdende regels inzake de opleiding tot en de deskundigheid van de klinisch fysicus (Besluit opleidingseisen en deskundigheidsgebied klinisch fysicus)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 23 december 2004, IBE/BO-2543982;
@@ -26,7 +51,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -40,7 +65,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Titel
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het recht tot het voeren van de titel van klinisch fysicus is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding tot klinisch fysicus die is gegeven door een door Onze Minister aangewezen opleidingsinstelling.
 
@@ -48,7 +73,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 3. Aanwijzing opleidingsinstellingen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister kan desgevraagd een opleidingsinstelling aanwijzen die een opleiding tot klinisch fysicus verzorgt die naar zijn oordeel voldoet aan het in [§ 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018235&paragraaf=4&z=2009-10-14&g=2009-10-14) gestelde.
 
@@ -62,13 +87,13 @@ In dit besluit wordt verstaan onder:
 
 4. Van een aanwijzing of een intrekking van een aanwijzing wordt kennis gegeven in de Staatscourant.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De opleidingsinstelling stelt jaarlijks een opleidingsraamplan vast waarin de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018235&paragraaf=4&artikel=7&z=2009-10-14&g=2009-10-14) omschreven onderdelen nader zijn uitgewerkt.
 
 2. De opleidingsinstelling draagt ervoor zorg dat de klinisch fysici in opleiding en andere belanghebbenden van het opleidingsraamplan tijdig kennis kunnen nemen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De opleidingsinstelling draagt ervoor zorg dat het afsluitende examen van de opleiding tot klinisch fysicus wordt afgenomen door een door haar ingestelde examencommissie en overeenkomstig een door haar vastgesteld examenreglement.
 
@@ -90,13 +115,13 @@ In dit besluit wordt verstaan onder:
 
 #### § 4. Opleiding
 
-#### Artikel 6
+##### Artikel 6
 
 1. Tot de opleiding tot klinisch fysicus wordt toegelaten degene die in het bezit is van een getuigschrift waaruit blijkt dat hij het doctoraalexamen fysica met goed gevolg heeft afgelegd.
 
 2. Tot de opleiding tot klinisch fysicus kan voorts worden toegelaten degene die aantoont over een bekwaamheid te beschikken die geacht kan worden gelijkwaardig te zijn aan de bekwaamheid die mag worden afgeleid uit het voldoen aan de in het eerste lid gestelde eis.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De opleiding tot klinisch fysicus bestaat uit een basispakket met een studielast van twee jaren en een aanvullend pakket met eveneens een studielast van twee jaren waarin op een der vijf in de [artikelen 11 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018235&paragraaf=4&artikel=11&z=2009-10-14&g=2009-10-14) genoemde werkterreinen van de klinische fysica zowel algemene als werkterrein-specifieke kennis en vaardigheden worden verworven.
 
@@ -112,7 +137,7 @@ In dit besluit wordt verstaan onder:
 
 - c. kennisgebieden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De in [artikel 7, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018235&paragraaf=4&artikel=7&z=2009-10-14&g=2009-10-14), bedoelde attitudevorming omvat het ontwikkelen van een attitude waardoor de klinisch fysicus in opleiding leert:
 
@@ -154,7 +179,7 @@ In dit besluit wordt verstaan onder:
 
 - j. organisatie en wetgeving gezondheidszorg.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het in [artikel 8, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018235&paragraaf=4&artikel=8&z=2009-10-14&g=2009-10-14), bedoelde onderdeel therapie, functie-ondersteuning en bewaking omvat kennis met betrekking tot basisprincipes van toepassing van ioniserende en elektromagnetische straling in de therapie, audiologie, videologie, infusoren, medische lasers, electrochirurgie, pacemakers, beademing, patiënt-bewakingssystemen alsmede de betekenis van bewaking van ECG, bloeddruk en zuurstofsaturatie.
 
@@ -176,7 +201,7 @@ In dit besluit wordt verstaan onder:
 
 10. Het in [artikel 8, derde lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0018235&paragraaf=4&artikel=8&z=2009-10-14&g=2009-10-14), bedoelde onderdeel organisatie en wetgeving gezondheidszorg omvat kennis met betrekking tot de organisatie van de gezondheidszorg in Nederland, budgettering en budgetparameters in de gezondheidszorg alsmede kennis van voor de uitoefening van het beroep van klinisch fysicus relevante wetgeving.
 
-#### Artikel 10
+##### Artikel 10
 
 Aan het einde van de opleiding beschikt de klinisch fysicus, naast de voor zijn werkterrein vereiste specifieke kundigheden, over kennis en vaardigheden inzake:
 
@@ -192,7 +217,7 @@ Aan het einde van de opleiding beschikt de klinisch fysicus, naast de voor zijn 
 
 - f. het omgaan met patiënten.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018235&paragraaf=4&artikel=7&z=2009-10-14&g=2009-10-14), bedoelde aanvullende pakket omvat voor het werkterrein algemene klinische fysica:
 
@@ -222,7 +247,7 @@ Aan het einde van de opleiding beschikt de klinisch fysicus, naast de voor zijn 
 
 - c. stralingshygiënische deskundigheid niveau 3 als bedoeld in de Richtlijnen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018235&paragraaf=4&artikel=7&z=2009-10-14&g=2009-10-14), bedoelde aanvullende pakket omvat voor het werkterrein audiologie naast kennis van het normale en pathologische gehoor- en evenwichtsorgaan alle klinisch fysische aspecten van bestaande en in ontwikkeling zijnde technieken op het gebied van de diagnostiek en de revalidatie van gehoorstoornissen en daaraan gerelateerde ontwikkelingsstoornissen.
 
@@ -238,7 +263,7 @@ Aan het einde van de opleiding beschikt de klinisch fysicus, naast de voor zijn 
 
 - e. het brede terrein van de klinische audiologie.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018235&paragraaf=4&artikel=7&z=2009-10-14&g=2009-10-14), bedoelde aanvullende pakket omvat voor het werkterrein nucleaire geneeskunde alle klinisch fysische aspecten van bestaande en in ontwikkeling zijnde nucleaire geneeskundige technieken en methoden alsmede kennis van de overige beeldvormende diagnostische methoden.
 
@@ -252,7 +277,7 @@ Aan het einde van de opleiding beschikt de klinisch fysicus, naast de voor zijn 
 
 - d. stralingshygiënische deskundigheid niveau 3 als bedoeld in de Richtlijnen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018235&paragraaf=4&artikel=7&z=2009-10-14&g=2009-10-14), bedoelde aanvullende pakket omvat voor het werkterrein radiologie alle klinisch fysische aspecten van bestaande en in ontwikkeling zijnde beeldvormende diagnostische technieken en methoden, zoals toegepast in de diverse medische disciplines met name chirurgie, neurochirurgie, traumatologie, orthopedie, neurologie en oncologie.
 
@@ -264,7 +289,7 @@ Aan het einde van de opleiding beschikt de klinisch fysicus, naast de voor zijn 
 
 - c. stralingshygiënische deskundigheid niveau 3 als bedoeld in de Richtlijnen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018235&paragraaf=4&artikel=7&z=2009-10-14&g=2009-10-14), bedoelde aanvullende pakket omvat voor het werkterrein radiotherapie alle klinisch fysische aspecten van bestaande en in ontwikkeling zijnde technieken op het gebied van patiëntenbestraling, bestralingsapparatuur en -hulpmiddelen, dosimetrie alsmede het berekenen van dosis en dosisverdelingen en het optimaliseren daarvan.
 
@@ -284,7 +309,7 @@ Aan het einde van de opleiding beschikt de klinisch fysicus, naast de voor zijn 
 
 - g. stralingshygiënische deskundigheid niveau 3 als bedoeld in de Richtlijnen.
 
-#### Artikel 16
+##### Artikel 16
 
 Tot het afsluitende examen voor klinisch fysicus wordt toegelaten degene die:
 
@@ -296,7 +321,7 @@ Tot het afsluitende examen voor klinisch fysicus wordt toegelaten degene die:
 
 #### § 5. Gebied van deskundigheid
 
-#### Artikel 17
+##### Artikel 17
 
 Tot het gebied van deskundigheid van de klinisch fysicus wordt gerekend:
 
@@ -308,11 +333,11 @@ Tot het gebied van deskundigheid van de klinisch fysicus wordt gerekend:
 
 #### § 6. Slotbepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 19
+##### Artikel 19
 
 Dit besluit kan worden aangehaald als: Besluit opleidingseisen en deskundigheidsgebied klinisch fysicus.
 

@@ -1,13 +1,39 @@
 ---
-title: "Instellingsbesluit Adviescommissie ethische verzoeken CABR"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 juli 2025, nr. NA/52572144, houdende instelling van de Adviescommissie ethische verzoeken CABR inzake beschikbaarstelling van het gedigitaliseerde CABR (Instellingsbesluit Adviescommissie ethische verzoeken CABR)"
 identifier: "BWBR0051302"
-categorie: "Overig"
-publicatiedatum: 2025-07-23
-laatste_update: 2025-07-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051302"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-23"
+last_updated: "2025-07-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051302"
+soort: "ministeriele-regeling"
+stam_id: "17481333"
+version_id: "30830492"
+internal_id: "C44182141"
+label_id: "17383734"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051302/2025-07-23/0"
+intitule_bron: "Stcrt.2025-24779"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-10"
+intitule_published: "2025-07-22"
+intitule_in_force: "2025-07-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-24779"
+original_signed_date: "2025-07-10"
+original_published_date: "2025-07-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-24779"
+entry_into_force_date: "2025-07-23"
+jci_1_3: "jci1.3:c:BWBR0051302&z=2025-07-23&g=2025-07-23"
+jci_1_0: "1.0:c:BWBR0051302&g=2025-07-23"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Adviescommissie ethische verzoeken CABR"
+signed_date: "2025-07-10"
+entry_into_force: "2025-07-23"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 juli 2025, nr. NA/52572144, houdende instelling van de Adviescommissie ethische verzoeken CABR inzake beschikbaarstelling van het gedigitaliseerde CABR (Instellingsbesluit Adviescommissie ethische verzoeken CABR)
 
 Gelet op [artikel 15, derde lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
@@ -16,7 +42,7 @@ Gelet op [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](h
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -30,11 +56,11 @@ In dit besluit wordt verstaan onder:
 
 - •. **tijdelijke voorziening:** de voorziening die is ingericht op de studiezaal van een rijksarchiefbewaarplaats, waarbij het gedigitaliseerde CABR onder voorwaarden via daarvoor bestemde terminals kan worden ingezien.
 
-#### Artikel 2. Instelling en taak Adviescommissie ethische verzoeken CABR
+##### Artikel 2. Instelling en taak Adviescommissie ethische verzoeken CABR
 
 Er is een Adviescommissie ethische verzoeken CABR, die tot taak heeft de algemene rijksarchivaris te adviseren over een door hem te nemen beslissing op een verzoek tot het niet beschikbaar stellen van bepaalde scans uit het gedigitaliseerde CABR via de tijdelijke voorziening en via internet indien dit verzoek geheel of gedeeltelijk is gebaseerd op ethische gronden.
 
-#### Artikel 3. Samenstelling Adviescommissie ethische verzoeken CABR, benoeming en ontslag
+##### Artikel 3. Samenstelling Adviescommissie ethische verzoeken CABR, benoeming en ontslag
 
 1. De Adviescommissie ethische verzoeken CABR bestaat uit vijf leden, onder wie een voorzitter.
 
@@ -52,7 +78,7 @@ Er is een Adviescommissie ethische verzoeken CABR, die tot taak heeft de algemen
 
 8. Bij tussentijds vertrek van een lid kan de algemene rijksarchivaris een ander lid benoemen.
 
-#### Artikel 4. Leden
+##### Artikel 4. Leden
 
 De Adviescommissie ethische verzoeken CABR bestaat uit:
 
@@ -66,11 +92,11 @@ De Adviescommissie ethische verzoeken CABR bestaat uit:
 
 - e. Prof. dr. H. Piersma.
 
-#### Artikel 5. Instellingsduur
+##### Artikel 5. Instellingsduur
 
 De Adviescommissie ethische verzoeken CABR wordt ingesteld voor de duur van twee jaar, te rekenen vanaf de datum van inwerkingtreding van dit besluit, met de mogelijkheid tot verlenging.
 
-#### Artikel 6. Behandeling verzoeken door Adviescommissie ethische verzoeken CABR
+##### Artikel 6. Behandeling verzoeken door Adviescommissie ethische verzoeken CABR
 
 1. De Adviescommissie ethische verzoeken CABR behandelt een verzoek als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051302&artikel=2&z=2025-07-23&g=2025-07-23):
 
@@ -90,31 +116,31 @@ De Adviescommissie ethische verzoeken CABR wordt ingesteld voor de duur van twee
 
 7. De Adviescommissie ethische verzoeken CABR kan een reglement over haar werkwijze vaststellen.
 
-#### Artikel 7. Buiten toepassing laten openbaarheidsbeperkingen
+##### Artikel 7. Buiten toepassing laten openbaarheidsbeperkingen
 
 Indien de Adviescommissie ethische verzoeken CABR ten behoeve van de uitvoering van de taak, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051302&artikel=2&z=2025-07-23&g=2025-07-23), inzage behoeft in het (gedigitaliseerde) CABR, blijven de eventueel op die archiefbescheiden rustende openbaarheidsbeperkingen, bedoeld in [artikel 15, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), jegens hen buiten toepassing.
 
-#### Artikel 8. Geheimhouding
+##### Artikel 8. Geheimhouding
 
 De informatie die aan de Adviescommissie ethische verzoeken CABR wordt verstrekt wordt door de Adviescommissie ethische verzoeken CABR vertrouwelijk behandeld en wordt uitsluitend gebruikt voor de taak genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051302&artikel=2&z=2025-07-23&g=2025-07-23).
 
-#### Artikel 9. Archiefbescheiden Adviescommissie ethische verzoeken CABR
+##### Artikel 9. Archiefbescheiden Adviescommissie ethische verzoeken CABR
 
 De secretaris van de Adviescommissie ethische verzoeken CABR archiveert de documenten van de Adviescommissie ethische verzoeken CABR.
 
-#### Artikel 10. Vergoeding
+##### Artikel 10. Vergoeding
 
 De leden van de Adviescommissie ethische verzoeken CABR ontvangen een vergoeding per vergadering ter hoogte van de maximaal toegestane vergoeding als bedoeld in [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2).
 
-#### Artikel 11. Openbaarmaking
+##### Artikel 11. Openbaarmaking
 
 De adviezen van de Adviescommissie ethische verzoeken CABR worden niet door de Adviescommissie ethische verzoeken CABR of haar leden zelf openbaar gemaakt en worden uitsluitend door de secretaris van de Adviescommissie ethische verzoeken CABR aan de algemene rijksarchivaris uitgebracht.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie ethische verzoeken CABR.
 

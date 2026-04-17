@@ -1,13 +1,37 @@
 ---
 title: "Regeling identiteitsbewijs geprivilegieerden"
 identifier: "BWBR0008859"
-categorie: "Overig"
-publicatiedatum: 2022-10-20
-laatste_update: 2022-10-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008859"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-10-20"
+last_updated: "2022-10-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008859"
+soort: "ministeriele-regeling"
+stam_id: "4794323"
+version_id: "6600872"
+internal_id: "C7058111"
+label_id: "4772544"
+dtd_version: "2.0"
+original_entry_into_force: "1997-08-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008859/2022-10-20/0"
+intitule_bron: "Stcrt.1997-150"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-08-07"
+intitule_published: "1997-08-08"
+intitule_in_force: "1997-08-08"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-150"
+original_signed_date: "1997-08-07"
+original_published_date: "1997-08-08"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-08-11"
+jci_1_3: "jci1.3:c:BWBR0008859&z=2022-10-20&g=2022-10-20"
+jci_1_0: "1.0:c:BWBR0008859&g=2022-10-20"
+citeertitel_status: "officieel"
+signed_date: "1997-08-07"
+entry_into_force: "1997-08-11"
 ---
-
 # Regeling identiteitsbewijs geprivilegieerden
 
 Gelet op het op 18 april 1961 te Wenen tot stand gekomen Verdrag van Wenen inzake diplomatiek verkeer, met twee protocollen (Trb. 1962, 159);
@@ -20,7 +44,7 @@ Gelet op overige in Nederland gevestigde internationale organisaties zonder zete
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Minister van Buitenlandse Zaken verstrekt identiteitsbewijzen aan geprivilegieerden, welke groep omvat de personeels- en gezinsleden van het Corps Diplomatique en het Corps Consulaire, de personeels- en gezinsleden van de in Nederland gevestigde Internationale Organisaties die ingevolge een zetelovereenkomst aanspraak maken op een dergelijke status, de personeels- en gezinsleden van de in Nederland gevestigde organisaties, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2022-10-20&g=2022-10-20) bij deze regeling, en personen in de openbare dienst van een vreemde staat die aanspraak maken op een geprivilegieerde status op grond van een verdrag, genoemd in die bijlage, alsmede hun gezinsleden voor zover die eveneens aanspraak kunnen maken op een geprivilegieerde status op grond van datzelfde verdrag.
 
@@ -30,27 +54,27 @@ Besluit:
 
 4. Het identiteitsbewijs geprivilegieerden kan tevens gebruikt worden als legitimatiebewijs in die gevallen dat geprivilegieerden zich dienen te legitimeren.
 
-#### Artikel 2
+##### Artikel 2
 
 Het identiteitsbewijs geprivilegieerden blijft na uitgifte eigendom van de Staat der Nederlanden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het identiteitsbewijs geprivilegieerden voldoet aan specifieke kenmerken, zoals vermeld in bijlage 2 van deze regeling. Deze bijlage bevat eveneens het model van dit bewijs.
 
 2. Het model van het identiteitsbewijs geprivilegieerden is tevens opgenomen in de Vreemdelingencirculaire.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Legitimatiebewijzen voor personeel van ambassades en consulaten, hun gezinsleden en hun personeelsleden die voor inwerkingtreding van deze regeling door de Minister van Buitenlandse Zaken zijn uitgegeven, verliezen hun geldigheid met ingang van 1 januari 1999.
 
 2. Legitimatiebewijzen van personeel van internationale organisaties, hun gezinsleden en hun personeelsleden, die door de Minister van Buitenlandse Zaken zijn gewaarmerkt, blijven geldig totdat aan betrokkenen een identiteitsbewijs op grond van deze regeling is uitgereikt, doch uiterlijk tot en met 30 juni 2002.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking op 11 augustus 1997.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als [Regeling identiteitsbewijs geprivilegieerden](https://wetten.overheid.nl/jci1.3:c:BWBR0008858).
 
@@ -70,7 +94,7 @@ Personen in de openbare dienst van een vreemde staat:
 
 - –. De ambtenaren van de UK Border Force als bedoeld in bijlage B bij de op 10 juli 2020 te ’s-Gravenhage tot stand gekomen Overeenkomst tussen de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Regering van het Koninkrijk der Nederlanden met betrekking tot grenscontroles op het treinverkeer tussen Nederland en het Verenigd Koninkrijk via de vaste kanaalverbinding (Trb. 2020, 69).
 
-#### I. Internationale organisaties met zetelovereenkomsten
+##### I. Internationale organisaties met zetelovereenkomsten
 
 Statuut van het International Gerechtshof, San Francisco, 26 juni 1945. In werking getreden op 24-10-1945.
 
@@ -284,7 +308,7 @@ Verdrag tussen het Koninkrijk der Nederlanden en de Organisatie voor het Verbod 
 
 Trb.1997, 144 (Ne).
 
-#### II. Internationale organisaties zonder zetelovereenkomst
+##### II. Internationale organisaties zonder zetelovereenkomst
 
 Het Bureau van de Hoge Commisssaris van de VN voor vluchtelingen, UNHCR, opgericht bij resolutie 428 (V) van de Algemene Vergadering van de Ver-enigde Naties van 14 december 1950.
 
@@ -296,7 +320,7 @@ Iran-United States Claims Tribunal, ingesteld bij art. 11 van de Verklaring van 
 
 ## Bijlage 2. Regeling identiteitsbewijs geprivilegieerden
 
-#### 1. Beschrijving van kenmerken
+##### 1. Beschrijving van kenmerken
 
 De bewijzen komen in afmeting overeen met ISO 7810 (formaat ID 1, 54 x 85,6 mm), voor de dikte wordt het bovenste gebied in de tolerantie aangehouden.
 
@@ -346,7 +370,7 @@ functie
 
 Het bewijs zal worden voorzien van een elektronisch overgebrachte handtekening en kleurenfoto van de houder. Het geheel zal aan beide zijden worden voorzien van een kinegrafisch folie dat de volgende kenmerken bezit:
 
-#### 2. Coderingen
+##### 2. Coderingen
 
 Ter onderscheiding van de status van de houder wordt een van de volgende coderingen op het bewijs aangebracht:
 
@@ -388,7 +412,7 @@ TO Lid van de huishouding van Personeel van de Internationale Organisatie
 
 Nederlanders in dienst van genoemde instellingen worden onderscheiden door achter de bovengenoemde codering de aanduiding /NL te plaatsen, duurzaam in Nederland verblijvende vreemdelingen krijgen als toevoeging /DV. Experts op Bijzondere Missie, in dienst van bepaalde internationale organisaties, krijgen de toevoeging /EM.
 
-#### 3. Het model van het identiteitsbewijs geprivilegieerden
+##### 3. Het model van het identiteitsbewijs geprivilegieerden
 
 Het model van het identiteitsbewijs geprivilegieerden ziet er als volgt uit:
 

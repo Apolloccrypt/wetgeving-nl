@@ -1,20 +1,46 @@
 ---
-title: "Vakantieregeling WW en IOW"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 4 december 2003, Directie Sociale Verzekeringen, nr. SV/F&W/2003/90418A, houdende vaststelling van het begrip vakantie en de perioden van vakantie met behoud van recht op uitkering op grond van de Werkloosheidswet (Vakantieregeling WW)"
 identifier: "BWBR0016004"
-categorie: "Sociaal recht"
-publicatiedatum: 2017-10-27
-laatste_update: 2017-10-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016004"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-10-27"
+last_updated: "2017-10-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016004"
+soort: "ministeriele-regeling"
+stam_id: "5538033"
+version_id: "16861802"
+internal_id: "C23213921"
+label_id: "5510144"
+dtd_version: "2.0"
+original_entry_into_force: "2009-11-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016004/2017-10-27/0"
+intitule_bron: "Stcrt.2003-242"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-12-04"
+intitule_published: "2003-12-15"
+intitule_in_force: "2003-12-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-18184"
+original_signed_date: "2009-11-23"
+original_published_date: "2009-11-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2009-18184"
+entry_into_force_date: "2009-11-23"
+jci_1_3: "jci1.3:c:BWBR0016004&z=2017-10-27&g=2017-10-27"
+jci_1_0: "1.0:c:BWBR0016004&g=2017-10-27"
+citeertitel_status: "officieel"
+short_title: "Vakantieregeling WW en IOW"
+signed_date: "2009-11-23"
+entry_into_force: "2009-11-23"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 4 december 2003, Directie Sociale Verzekeringen, nr. SV/F&W/2003/90418A, houdende vaststelling van het begrip vakantie en de perioden van vakantie met behoud van recht op uitkering op grond van de Werkloosheidswet (Vakantieregeling WW)
 
 Gelet op [artikel 19, vijfde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. Van vakantie genieten als bedoeld in [artikel 19, eerste lid, onderdeel k, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19) en [artikel 6, eerste lid, onderdeel e, van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=6) is sprake gedurende de periode waarover de werknemer of de uitkeringsgerechtigde:
 
@@ -24,7 +50,7 @@ Besluit:
 
 2. In deze regeling wordt verstaan onder dagen: maandag tot en met vrijdag danwel dinsdag tot en met zaterdag.
 
-#### Artikel 2. Vakantie met behoud van uitkering
+##### Artikel 2. Vakantie met behoud van uitkering
 
 1. De werknemer kan per kalenderjaar gedurende 20 dagen vakantie genieten met behoud van zijn recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
 
@@ -34,7 +60,7 @@ Besluit:
 
 4. In afwijking van het tweede lid geldt een termijn van 65 dagen voor de IOW-gerechtigde, bedoeld in [artikel 7 van de Regeling vrijstelling verplichtingen sociale zekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0019305&artikel=7).
 
-#### Artikel 3. In mindering brengen
+##### Artikel 3. In mindering brengen
 
 1. Op het aantal dagen, bedoeld in [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2017-10-27&g=2017-10-27), wordt in mindering gebracht:
 
@@ -48,29 +74,29 @@ Besluit:
 
 - b. het aantal dagen waarop de werknemer in het desbetreffende kalenderjaar vakantie heeft genoten met behoud van zijn recht op uitkering op grond van de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), met uitzondering van vakantiedagen die tevens nationale of christelijke feestdagen zijn.
 
-#### Artikel 4. Afronding
+##### Artikel 4. Afronding
 
 Het aantal dagen, berekend volgens de voorgaande artikelen, wordt rekenkundig op hele dagen afgerond.
 
-#### Artikel 5. Overgangsbepaling
+##### Artikel 5. Overgangsbepaling
 
 Vervallen
 
-#### Artikel 6. Intrekking
+##### Artikel 6. Intrekking
 
 De regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 januari 1992, nr. 92342 (Stcrt. 19), wordt ingetrokken.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2004.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Vakantieregeling WW en IOW.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Aanvulling wettelijke grondslag
+##### Artikel 1a. Aanvulling wettelijke grondslag
 
 Deze regeling berust mede op de [artikelen 19, negende lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19) en [6, zesde lid, van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=6).
 

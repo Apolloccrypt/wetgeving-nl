@@ -1,20 +1,45 @@
 ---
 title: "Regeling vaststelling definitieve correcties duurzame energieproductie 2015"
 identifier: "BWBR0037791"
-categorie: "Overig"
-publicatiedatum: 2016-04-06
-laatste_update: 2016-04-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037791"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-04-06"
+last_updated: "2016-04-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037791"
+soort: "ministeriele-regeling"
+stam_id: "13451233"
+version_id: "23091982"
+internal_id: "C33368791"
+label_id: "13418334"
+dtd_version: "2.0"
+original_entry_into_force: "2016-04-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037791/2016-04-06/0"
+intitule_bron: "Stcrt.2016-17860"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-04-01"
+intitule_published: "2016-04-05"
+intitule_in_force: "2016-04-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-17860"
+original_signed_date: "2016-04-01"
+original_published_date: "2016-04-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-17860"
+entry_into_force_date: "2016-04-06"
+jci_1_3: "jci1.3:c:BWBR0037791&z=2016-04-06&g=2016-04-06"
+jci_1_0: "1.0:c:BWBR0037791&g=2016-04-06"
+citeertitel_status: "officieel"
+signed_date: "2016-04-01"
+entry_into_force: "2016-04-06"
 ---
-
 # Regeling vaststelling definitieve correcties duurzame energieproductie 2015
 
 Gelet op [artikelen 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), [22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), [31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31) en [47, vierde lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,7 +65,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **tenderbedrag:** het tenderbedrag, bedoeld in [artikel 19, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=19).
 
-#### Artikel 2
+##### Artikel 2
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2015 vastgesteld voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -145,7 +170,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 | [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0036245&artikel=20) | Vrije stromingsenergie | € 0,040 per kWh | € 0 per kWh |
 | [Artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036245&artikel=62) | Wind op land, overgangsregeling | € 0,041 per kWh | € 0 per kWh |
 
-#### Artikel 3
+##### Artikel 3
 
 De correcties op het tenderbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2015 vastgesteld voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 22, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 22, eerste lid, onderdelen b en c van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -154,7 +179,7 @@ De correcties op het tenderbedrag voor subsidie voor een productie-installatie a
 | Artikel [Regeling windenergie op zee 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026690) | Omschrijving categorie | Correctiebedrag [artikel 22, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22) | Correctiebedrag artikel 22, eerste lid, onderdelen b en c van het besluit |
 | [Artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026690&artikel=2) | Wind op zee | € 0,051150 per kWh | € 0 per kWh |
 
-#### Artikel 4
+##### Artikel 4
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2015 vastgesteld voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, onderdeel b, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -215,7 +240,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 | [Artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036245&artikel=26), | Verlengde levensduur bestaande installaties allesvergisting en vergisting en co-vergisting van dierlijke mest | € 0,024 per kWh | € 0 per kWh |
 | [Artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036245&artikel=28) | Biomassavergassing | € 0,024 per kWh | € 0 per kWh |
 
-#### Artikel 5
+##### Artikel 5
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2015 vastgesteld voor wat betreft de energieprijs, bedoeld in [artikel 47, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47) het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 47, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -301,11 +326,11 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 | Artikel 54, onderdeel e | Monovergisting (Elektriciteit) | € 0,040 per kWh | € 0 per kWh |
 | [Artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0036245&artikel=56) | Thermiele vergisting van secundair slib (RWZI) | € 0,032 per kWh | € 0 per kWh |
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling vaststelling definitieve correcties duurzame energieproductie 2015.
 

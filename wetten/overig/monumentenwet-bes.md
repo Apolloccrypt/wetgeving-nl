@@ -1,16 +1,41 @@
 ---
 title: "Monumentenwet BES"
 identifier: "BWBR0028429"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028429"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028429"
+soort: "wet-BES"
+stam_id: "10781733"
+version_id: "17758762"
+internal_id: "C24812781"
+label_id: "10756394"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028429/2010-10-10/0"
+intitule_bron: "Stb.2010-580"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-580"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-580"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028429&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028429&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Monumentenwet BES
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze wet wordt verstaan onder:
 
@@ -26,11 +51,11 @@ Voor de toepassing van deze wet wordt verstaan onder:
 
 - f. **archeologisch erfgoed:** bouwwerken, voorwerpen of resten die zelfstandig of gezamenlijk, en al dan niet in de context van de vindplaats, duiden op menselijke activiteiten die in het verleden hebben plaatsgevonden, doch in elk geval langer dan vijftig jaar geleden.
 
-#### Artikel 2
+##### Artikel 2
 
 De eilandsraden stellen voor het openbaar lichaam Bonaire, Sint Eustatius, onderscheidenlijk Saba een monumenteneilandsverordening vast, waarin voorzieningen worden getroffen tot het behoud van monumenten en stads- en dorpsgezichten.
 
-#### Artikel 3
+##### Artikel 3
 
 De monumenteneilandsverordening regelt in ieder geval:
 
@@ -42,11 +67,11 @@ De monumenteneilandsverordening regelt in ieder geval:
 
 - d. de wijze waarop de aanwijzing tot beschermd monument of beschermd stads- en dorpsgezichten ter kennis wordt gebracht aan degenen, die bekend zijn als eigenaar en beperkt gerechtigde daarvan en eveneens aan de bewaarder der openbare registers bedoeld in [titel 1, afdeling 2, van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&titeldeel=1) ingeval het een onroerende zaak betreft.
 
-#### Artikel 4
+##### Artikel 4
 
 De bewaarder der openbare registers bedoeld in [titel 1, afdeling 2, van boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&titeldeel=1) geeft van wijziging in de kadastrale tenaamstelling of kadastrale aanduiding van een beschermd onroerend monument binnen veertien dagen kennis aan de bewaarder van het betreffende register voor beschermde monumenten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het is verboden zonder vergunning van het bestuurscollege of in strijd met bij zodanige vergunning vastgestelde voorwaarden een beschermd monument geheel of ten dele:
 
@@ -66,7 +91,7 @@ De bewaarder der openbare registers bedoeld in [titel 1, afdeling 2, van boek 3 
 
 Deze toepassing eindigt, zodra vaststaat, dat deze monumenten niet worden ingeschreven in het bij de monumenteneilandsverordening vastgestelde register, dan wel vanaf het tijdstip waarop een schriftelijk verzoek tot aanwijzing van een monument als beschermd monument door het bestuurscollege is ontvangen. De ontvangst van dit verzoek wordt onverwijld schriftelijk ter kennis gebracht van de eigenaren en zakelijk gerechtigden daarvan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onverminderd het bepaalde in het vorige artikel zijn de eigenaren, beperkt gerechtigden of degenen, die ingevolge het Burgerlijk Wetboek BES tot onderhoud en herstel gehouden zijn, verplicht de werkzaamheden tot onderhoud en herstel van het beschermde monument naar goed beheer te verrichten of te doen verrichten.
 
@@ -74,7 +99,7 @@ Deze toepassing eindigt, zodra vaststaat, dat deze monumenten niet worden ingesc
 
 3. Bij de monumenteneilandsverordening worden regelen gegeven over de wijze waarop en de gevallen waarin aan betrokkenen een tegemoetkoming in de kosten van onderhoud en herstel kunnen worden toegekend.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het is verboden zonder vergunning van het bestuurscollege of in strijd met bij zodanige vergunning te stellen voorwaarden graafwerk te verrichten of te laten verrichten ter opsporing of ter onderzoeking van monumenten.
 
@@ -82,7 +107,7 @@ Deze toepassing eindigt, zodra vaststaat, dat deze monumenten niet worden ingesc
 
 3. Van vondsten bij opgravingen en graafwerk zijnde roerende monumenten, althans voorwerpen waarvan de vinder redelijkerwijze moet vermoeden dat zij als zodanig dienen te worden beschouwd, zal hetzij door de vinder hetzij door de uitvoerder der graafwerkzaamheden of diens plaatsvervanger binnen drie dagen kennis worden gegeven aan het bestuurscollege.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Roerende monumenten kunnen tijdelijk op aanwijzing van het bestuurscollege en zo nodig met behulp van de sterke arm naar een voor bewaring geschikte plaats worden overgebracht.
 
@@ -90,17 +115,17 @@ Deze toepassing eindigt, zodra vaststaat, dat deze monumenten niet worden ingesc
 
 3. Bij de monumenteneilandsverordening worden regelen gegeven over de schadevergoeding die kan worden toegekend indien een beschermd roerend monument in bruikleen aan het openbaar lichaam Bonaire, Sint Eustatius, onderscheidenlijk Saba is overgedragen.
 
-#### Artikel 9
+##### Artikel 9
 
 Indien een beschermd monument eigendom is van een kerkgenootschap of van een godsdienstige gemeenschap en uitsluitend of voor een overwegend deel wordt gebruikt voor de uitoefening van de eredienst neemt het bestuurscollege geen beslissing op grond van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028429&artikel=5&z=2010-10-10&g=2010-10-10), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028429&artikel=7&z=2010-10-10&g=2010-10-10) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028429&artikel=8&z=2010-10-10&g=2010-10-10) dan in overeenstemming met de eigenaar, indien en zover het betreft een beslissing waarbij de wezenlijke belangen van de godsdienstoefening in het geding zijn.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het bestuurscollege kan, zo nodig met behulp van de sterke arm, doen beletten, dat wordt gehandeld in strijd met een verbod of een voorwaarde, als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028429&artikel=5&z=2010-10-10&g=2010-10-10) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028429&artikel=7&z=2010-10-10&g=2010-10-10). Hij kan op kosten van de overtreder ongedaan maken, hetgeen in strijd hiermede is verricht, en het beschermde monument voor zover nodig in zijn vroegere toestand doen terugbrengen. Spoedeisende gevallen uitgezonderd geschiedt dit niet dan nadat de overtreder door of namens het bestuurscollege schriftelijk is gewaarschuwd.
 
 2. De gerechtigden tot een beschermd monument zijn verplicht de uitvoering van de werken te gedogen, welke het bestuurscollege daaraan of daarin nodig of wenselijk acht of waartoe het bestuurscollege ingevolge [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028429&artikel=6&z=2010-10-10&g=2010-10-10), of het eerste lid van dit artikel opdracht heeft gegeven. De uitvoering van de werken wordt zo nodig mogelijk gemaakt met behulp van de sterke arm.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het bestuurscollege kan bij dwangbevel de ingevolge deze wet voor rekening van een ander door het openbaar lichaam Bonaire, Sint Eustatius, onderscheidenlijk Saba gedane uitgaven invorderen.
 
@@ -108,13 +133,13 @@ Indien een beschermd monument eigendom is van een kerkgenootschap of van een god
 
 3. Binnen dertig dagen na de betekening staat verzet tegen het dwangbevel open door dagvaarding van het openbaar lichaam Bonaire, Sint Eustatius, onderscheidenlijk Saba. Het verzet schorst de tenuitvoerlegging.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Hij die een bepaling van deze wet overtreedt of handelt zonder of in strijd met een vergunning, een voorschrift of een voorwaarde als in deze wet bedoeld, wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de tweede categorie.
 
 2. De feiten bij deze wet strafbaar gesteld worden beschouwd als overtredingen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de daartoe door het bestuurscollege aangewezen personen. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
@@ -136,10 +161,10 @@ Indien een beschermd monument eigendom is van een kerkgenootschap of van een god
 
 De vorenbedoelde personen zijn bevoegd zich van bepaalde door hen aan te wijzen personen te doen vergezellen. In dit geval wordt hiervan in het procesverbaal melding gemaakt.
 
-#### Artikel 14
+##### Artikel 14
 
 [vervallen]
 
-#### Artikel 15
+##### Artikel 15
 
 Deze wet wordt aangehaald als: Monumentenwet BES.

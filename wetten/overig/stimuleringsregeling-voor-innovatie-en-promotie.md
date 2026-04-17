@@ -1,13 +1,35 @@
 ---
 title: "Stimuleringsregeling voor innovatie en promotie"
 identifier: "BWBR0034135"
-categorie: "Overig"
-publicatiedatum: 2013-11-03
-laatste_update: 2013-11-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034135"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-11-03"
+last_updated: "2013-11-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034135"
+soort: "zbo"
+stam_id: "12420413"
+version_id: "20847632"
+internal_id: "C29935591"
+label_id: "12391494"
+dtd_version: "2.0"
+original_entry_into_force: "2013-11-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034135/2013-11-03/0"
+intitule_bron: "Stcrt.2013-29348"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-11-01"
+intitule_in_force: "2013-11-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-29348"
+original_published_date: "2013-11-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-29348"
+entry_into_force_date: "2013-11-03"
+jci_1_3: "jci1.3:c:BWBR0034135&z=2013-11-03&g=2013-11-03"
+jci_1_0: "1.0:c:BWBR0034135&g=2013-11-03"
+citeertitel_status: "officieel"
+entry_into_force: "2013-11-03"
 ---
-
 # Stimuleringsregeling voor innovatie en promotie
 
 De Stimuleringsregeling voor innovatie en promotie door het Mondriaan Fonds is het kader van de derde Weg van het Fonds: Communicatie, Innovatie en Overdracht. Er zijn structurele regelingen en tijdelijke bijzondere projecten. De structurele bijzondere projecten, zoals de bijdrage kunstbeurzen, de Prix de Rome, berusten op een eigen regeling, zij maken deel uit van het reguliere beleid van het Mondriaan Fonds.
@@ -22,7 +44,7 @@ Deze regeling is de grondslag voor de ondersteuning van tijdelijke bijzondere pr
 
 ### Hoofdstuk I. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -36,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk II. Doel
 
-#### Artikel 2
+##### Artikel 2
 
 Ingevolge de doelstelling van het Mondriaan Fonds, volgens de bepalingen, vastgesteld in dit reglement, kan het bestuur projecten initiëren om activiteiten te bevorderen die van belang zijn voor de kwaliteit en de betekenis van de beeldende kunst en cultureel erfgoed in Nederland dan wel de totstandkoming van dergelijke projecten stimuleren. Het gaat hierbij om bijzondere projecten die het subsidie-instrumentarium van Weg 1 kortlopende projecten en Weg 2 langlopende projecten van het Mondriaan Fonds aanvullen cq versterken.
 
@@ -48,19 +70,19 @@ Het bestuur kan hiertoe onder meer:
 
 ### Hoofdstuk III. Bijzondere projecten
 
-#### Artikel 3. Pilotprojecten
+##### Artikel 3. Pilotprojecten
 
 1. Ingevolge de doelstelling van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034135&hoofdstuk=II&artikel=2&z=2013-11-03&g=2013-11-03) kan het bestuur incidentele bijdragen bij wijze van pilotprojecten verstrekken.
 
 2. In de beschikking waarmee de pilot verstrekt wordt, worden in ieder geval het doel van het pilotproject, de hoogte en de wijze van subsidiëring en de afrekening van de subsidie vastgesteld.
 
-#### Artikel 4. Stimuleren aandachtsgebieden
+##### Artikel 4. Stimuleren aandachtsgebieden
 
 1. Ingevolge de doelstelling van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034135&hoofdstuk=II&artikel=2&z=2013-11-03&g=2013-11-03) kan het bestuur een specifieke discipline of een aandachtsgebied aanwijzen om het beleid op dat gebied tijdelijk te intensiveren gedurende een periode van ten hoogste drie jaar.
 
 2. Het bestuur kan hiertoe een of meer intendanten aanstellen of een tijdelijke regeling vaststellen, al dan niet in samenwerking met derden, die als deelregeling van onderhavige regeling geldt.
 
-#### Artikel 5. Intendant
+##### Artikel 5. Intendant
 
 1. De intendant werkt aan de hand van een programmadocument dat door het bestuur is goedgekeurd.
 
@@ -70,13 +92,13 @@ Het bestuur kan hiertoe onder meer:
 
 4. De intendant valt onder de verantwoordelijkheid van het bestuur.
 
-#### Artikel 6. Tijdelijke regeling
+##### Artikel 6. Tijdelijke regeling
 
 Ingevolge de doelstelling van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034135&hoofdstuk=II&artikel=2&z=2013-11-03&g=2013-11-03) kan het bestuur een tijdelijke regeling vaststellen als deelregeling van onderhavige regeling. Daarin kunnen maatregelen worden opgenomen voor het stimuleren van een bepaalde discipline of aandachtsgebied, al dan niet in samenwerking met derden.
 
 ### Hoofdstuk IV. Adviescommissie bijzondere projecten
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor de advisering in het kader van deze regeling benoemt het bestuur een adviescommissie bijzondere projecten.
 
@@ -84,7 +106,7 @@ Ingevolge de doelstelling van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BW
 
 3. Het bestuur brengt in de adviescommissie verslag uit over het verloop van de tijdelijke bijzondere projecten.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De adviescommissie bestaat uit minimaal drie en maximaal vijf leden.
 
@@ -96,7 +118,7 @@ Ingevolge de doelstelling van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BW
 
 5. Het Mondriaan Fonds voegt uit het personeel van het fondsbureau een secretaris toe aan de adviescommissie. De secretaris roept op tot vergaderingen. Hij maakt van het ter vergadering verhandelde notulen op, die door hem en de voorzitter worden getekend.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De adviescommissie brengt eenmaal per jaar verslag uit aan het bestuur.
 
@@ -106,7 +128,7 @@ Ingevolge de doelstelling van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BW
 
 4. Al hetgeen de leden van de adviescommissie uit hoofde van deze functie ter kennis komt, is strikt vertrouwelijk.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien in een adviescommissievergadering kwesties aan de orde komen waarbij een adviseur middellijk of onmiddellijk een eigen belang heeft, of kan hebben of wanneer het gaat om belangen van rechtspersonen waarbij hij als lid van het bestuur, adviseur of commissaris of functionaris is betrokken, dan woont hij de beraadslaging en besluitvorming over het desbetreffende onderwerp niet bij. Het is de plicht van de adviseur om dit onverwijld aan de secretaris mede te delen. Het is de taak van de secretaris om dit gedurende het beoordelingsproces strikt te bewaken.
 
@@ -114,36 +136,36 @@ Ingevolge de doelstelling van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### Hoofdstuk V. Algemene bepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Indien gebruik wordt gemaakt van een subsidie van het Mondriaan Fonds kunnen geen financiële middelen op basis van deze regeling worden verstrekt, die, naar het oordeel van het bestuur, in dezelfde dekking van kosten voorzien.
 
-#### Artikel 12
+##### Artikel 12
 
 Geen financiële middelen kunnen worden verstrekt aan leden van de raad van toezicht noch aan leden van de adviescommissie.
 
-#### Artikel 13
+##### Artikel 13
 
 Financiële middelen op grond van deze regeling kunnen slechts worden verstrekt voorzover de daartoe bestemde middelen toereikend zijn.
 
-#### Artikel 14
+##### Artikel 14
 
 Aan de verstrekking van financiële middelen op grond van deze regeling kunnen geen rechten worden ontleend met betrekking toekomstige verstrekking van financiële middelen uit deze of enig andere regeling van het Mondriaan Fonds.
 
 ### Hoofdstuk VI. Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 In gevallen waarin de wet, de statuten of dit reglement niet voorziet, beslist het bestuur.
 
-#### Artikel 16
+##### Artikel 16
 
 Het bestuur kan wegens zwaarwichtige redenen van dit reglement afwijken.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling treedt in werking op de tweede dag na publicatie in de Staatscourant.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling wordt aangehaald als ‘Stimuleringsregeling voor innovatie en promotie’.

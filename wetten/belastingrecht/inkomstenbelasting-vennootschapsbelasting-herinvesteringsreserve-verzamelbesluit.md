@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, vennootschapsbelasting, herinvesteringsreserve; Verzamelbesluit"
 identifier: "BWBR0046937"
-categorie: "Belastingrecht"
-publicatiedatum: 2022-07-19
-laatste_update: 2022-07-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046937"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-07-19"
+last_updated: "2022-07-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046937"
+soort: "beleidsregel"
+stam_id: "16425913"
+version_id: "28772122"
+internal_id: "C40730021"
+label_id: "16350854"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046937/2022-07-19/0"
+intitule_bron: "Stcrt.2022-19071"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-07-13"
+intitule_published: "2022-07-18"
+intitule_in_force: "2022-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-19071"
+original_signed_date: "2022-07-13"
+original_published_date: "2022-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-19071"
+entry_into_force_date: "2022-07-19"
+jci_1_3: "jci1.3:c:BWBR0046937&z=2022-07-19&g=2022-07-19"
+jci_1_0: "1.0:c:BWBR0046937&g=2022-07-19"
+citeertitel_status: "redactioneel"
+signed_date: "2022-07-13"
+entry_into_force: "2022-07-19"
 ---
-
 # Inkomstenbelasting, vennootschapsbelasting, herinvesteringsreserve; Verzamelbesluit
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

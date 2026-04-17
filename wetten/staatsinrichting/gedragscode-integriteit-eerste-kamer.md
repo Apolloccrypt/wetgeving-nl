@@ -1,16 +1,40 @@
 ---
 title: "Gedragscode integriteit Eerste Kamer"
 identifier: "BWBR0042225"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2019-06-11
-laatste_update: 2019-06-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042225"
+country: "nl"
+rank: "reglement"
+publication_date: "2019-06-11"
+last_updated: "2019-06-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042225"
+soort: "reglement"
+stam_id: "15077643"
+version_id: "25842842"
+internal_id: "C36838561"
+label_id: "15026334"
+dtd_version: "2.0"
+original_entry_into_force: "2019-06-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042225/2019-06-11/0"
+intitule_bron: "Kst.2019-CXXXIV"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-05-10"
+intitule_published: "2019-05-10"
+intitule_in_force: "2019-05-10"
+intitule_status: "goed"
+original_publication: "Kst.2019-CXXXIV"
+original_signed_date: "2019-05-10"
+original_published_date: "2019-05-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2019-06-11"
+jci_1_3: "jci1.3:c:BWBR0042225&z=2019-06-11&g=2019-06-11"
+jci_1_0: "1.0:c:BWBR0042225&g=2019-06-11"
+citeertitel_status: "redactioneel"
+signed_date: "2019-05-10"
+entry_into_force: "2019-06-11"
 ---
-
 # Gedragscode integriteit Eerste Kamer
 
-#### Artikel 1. Algemene bepaling
+##### Artikel 1. Algemene bepaling
 
 Ieder lid handelt bij de naleving van de door hem afgelegde eed of belofte in overeenstemming met beginselen van integriteit en betrouwbaarheid. De invulling daarvan en de verantwoording daarover vinden plaats in overeenstemming met deze gedragscode.
 
@@ -26,7 +50,7 @@ De vraag kan wel gesteld worden of er bepaalde «materiële incompatibiliteiten�
 
 Een geval apart vormt de situatie dat leden advieswerk ten behoeve van de regering verrichten. Hierbij kan het gaan om advieswerk voor een Minister, maar ook om advieswerk voor direct onder diens verantwoordelijkheid werkzame departementale ambtenaren. Een Eerste Kamerlid dat zelf tevens ambtenaar bij een ministerie is, wordt in die laatste functie van rechtswege op non-activiteit gesteld ([artikel 3 Wet Incompatibiliteiten Staten-Generaal en Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=3)). Het is immers ongewenst als iemand in de ene functie ondergeschikt is aan de Minister en in de andere functie diezelfde Minister moet controleren. Dit geeft aan dat er spanning kan bestaan tussen advieswerk voor de regering en het Kamerlidmaatschap, ook als er van een formele incompatibiliteit geen sprake is. Cruciaal is dat het lid door het advieswerk zijn onafhankelijkheid als controleur van de regering niet op het spel zet. Dat zal doorgaans niet het geval zijn als een Minister een lid van de Kamer informeel consulteert. Als die Minister of diens ministerie echter formeel opdrachtgever van een adviestaak is, kan redelijkerwijs al snel de schijn van niet langer onafhankelijk zijn worden gewekt. Dat kan het geval zijn als het advies moet leiden tot wetsvoorstellen die het adviserende lid in zijn hoedanigheid van lid van de Eerste Kamer weer moet beoordelen. In het licht van het voorgaande wordt het leden die gevraagd worden, persoonlijk of als lid van een adviescommissie, advieswerk voor de regering te verrichten, ontraden dit werk aan te nemen.
 
-#### Artikel 2. Omgaan met belangen
+##### Artikel 2. Omgaan met belangen
 
 1. Ieder lid geeft zich rekenschap van de belangen die hij anders dan als lid van de Kamer heeft en waakt ervoor dat deze belangen niet leiden tot het op oneigenlijke wijze uitoefenen van zijn functie. Een lid onthoudt zich ook van handelingen en activiteiten die de schijn van belangenverstrengeling oproepen.
 
@@ -46,7 +70,7 @@ Het tweede lid van artikel 2 gaat over het kenbaar maken van specifieke belangen
 
 Met het kenbaar maken van belangen die in de context van de behandeling van het geagendeerde onderwerp redelijkerwijs van belang kunnen zijn wordt geenszins een soort «bekentenis» over belangenverstrengeling afgelegd. Integendeel, met de verklaring kan juist worden aangegeven hoe de belangen liggen en hoe zij elkaar in dit geval níet raken. In dit verband kan nog worden opgemerkt dat het kenbaar maken van relevante belangen zeker voor kleine fracties van belang is. Zij kunnen immers bij (de schijn van) conflicterende belangen vaak geen andere woordvoerder met de behandeling van een bepaald dossier belasten.
 
-#### Artikel 3. Omgaan met derden
+##### Artikel 3. Omgaan met derden
 
 Bij hun contacten met derden waken leden voor oneigenlijke beïnvloeding. Zij betrachten ten aanzien van deze contacten transparantie.
 
@@ -54,7 +78,7 @@ Contacten met derden (inclusief lobbyisten) horen bij het werk van leden van de 
 
 Van leden van de Eerste Kamer mag verder verwacht worden dat zij transparantie betrachten over hun contacten met derden. Dat betekent niet dat al deze contacten geregistreerd en openbaar gemaakt moeten worden. Zo’n «lobby-register» (actieve openbaarheid) zou gelet op de zeer vele contacten met derden die leden onderhouden ook niet uitvoerbaar zijn. Het betekent wel dat leden desgevraagd openheid van zaken geven over welke contacten met derden zij met betrekking tot bepaalde dossiers hebben gehad (passieve openbaarheid).
 
-#### Artikel 4. Geschenken
+##### Artikel 4. Geschenken
 
 Ter griffie wordt een register bijgehouden waarin de leden de door hen in hun hoedanigheid als lid van de Kamer ontvangen geschenken met een hogere waarde dan 50 euro vermelden, uiterlijk één week na ontvangst van het geschenk. Dit register ligt voor een ieder ter inzage.
 
@@ -64,7 +88,7 @@ Het begrip «geschenk» dient ruim te worden uitgelegd. Hieronder vallen niet al
 
 Het geschenkenregister is op de website van de Eerste Kamer te raadplegen. Ontvangen geschenken worden ook bij de individuele biografieën van de leden getoond.
 
-#### Artikel 5. Buitenlandse reizen
+##### Artikel 5. Buitenlandse reizen
 
 Ter griffie wordt een register bijgehouden waarin de leden hun in hun hoedanigheid als lid van de Kamer gemaakte buitenlandse reizen op uitnodiging en voor rekening van derden vermelden, uiterlijk één week na terugkeer in Nederland. Dit register ligt voor een ieder ter inzage. Indien dit gelet op het belang van de veiligheid van het betrokken lid is aangewezen, wordt de gemaakte buitenlandse reis wel ter griffie gemeld, maar niet in het openbare register opgenomen.
 
@@ -72,7 +96,7 @@ Bij deze bepaling gaat het alleen om reizen op uitnodiging en voor rekening van 
 
 Het reizenregister is op de website van de Eerste Kamer te raadplegen. Gemaakte reizen worden ook bij de individuele biografieën van de leden getoond. In uitzonderlijke gevallen kan uit veiligheidsoverwegingen worden afgezien van het tonen van een bepaalde reis in het reizenregister. Deze reis moet dan wel ter griffie worden gemeld. Het verdient aanbeveling over een dergelijke kwestie de vertrouwenspersoon als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0042225&artikel=12&z=2019-06-11&g=2019-06-11) te raadplegen.
 
-#### Artikel 6. Openbaarmaking functies naast het lidmaatschap van de Kamer en relevante belangen
+##### Artikel 6. Openbaarmaking functies naast het lidmaatschap van de Kamer en relevante belangen
 
 1. Ieder lid maakt conform de [Wet vergoedingen leden Eerste Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0007402) zijn functies naast het lidmaatschap van de Kamer openbaar door terinzagelegging van een opgave van deze functies bij de griffie. Deze opgave bevat tevens een korte beschrijving van de werkzaamheden die het lid verricht en van de organisatie waarvoor het lid werkzaam is.
 
@@ -92,7 +116,7 @@ Het vierde lid is een restbepaling voor belangen die redelijkerwijs als relevant
 
 Redelijkerwijs relevante belangen worden in principe op dezelfde wijze als functies openbaar gemaakt. Ze worden dus op de website van de Eerste Kamer gepubliceerd. Een uitzondering wordt gemaakt als de veiligheid of persoonlijke levenssfeer van de betrokkenen in het geding zijn. Vaak zal het dan gaan om de veiligheid of persoonlijke levenssfeer van ándere betrokkenen dan het lid zelf, bijvoorbeeld partners of familieleden. Net als bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042225&artikel=5&z=2019-06-11&g=2019-06-11) zal wel sprake moeten zijn van objectieve omstandigheden. Is dat het geval, dan wordt het relevante belang wel gemeld bij de griffie, maar niet openbaar gemaakt. Het verdient aanbeveling over een dergelijke kwestie de vertrouwenspersoon als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0042225&artikel=12&z=2019-06-11&g=2019-06-11) te raadplegen.
 
-#### Artikel 7. Geheimhouding in een plenaire vergadering met gesloten deuren
+##### Artikel 7. Geheimhouding in een plenaire vergadering met gesloten deuren
 
 1. Ten aanzien van de gedachtewisseling in een plenaire vergadering met gesloten deuren wordt geheimhouding in acht genomen.
 
@@ -100,7 +124,7 @@ Redelijkerwijs relevante belangen worden in principe op dezelfde wijze als funct
 
 3. De geheimhouding kan door de Kamer, met gesloten deuren vergaderend, worden opgeheven.
 
-#### Artikel 8. Geheimhouding besloten commissievergadering
+##### Artikel 8. Geheimhouding besloten commissievergadering
 
 1. Ten aanzien van de gedachtewisseling in een besloten commissievergadering wordt geheimhouding in acht genomen, met uitzondering van hetgeen de commissie in haar verslag vermeldt.
 
@@ -108,13 +132,13 @@ Redelijkerwijs relevante belangen worden in principe op dezelfde wijze als funct
 
 3. De geheimhouding kan door de commissie in een besloten commissievergadering worden opgeheven.
 
-#### Artikel 9. Vertrouwelijke stukken
+##### Artikel 9. Vertrouwelijke stukken
 
 1. De vertrouwelijkheid ten aanzien van de inhoud van een stuk ten aanzien waarvan de Kamer heeft bepaald, of waarvan uit zijn aard volgt, dat het vertrouwelijk is, wordt door een ieder in acht genomen.
 
 2. Ter griffie wordt een register bijgehouden van bij de Kamer dan wel bij de commissies ingekomen vertrouwelijke stukken.
 
-#### Artikel 10. Naleving van de Gedragscode
+##### Artikel 10. Naleving van de Gedragscode
 
 1. De Huishoudelijke Commissie houdt toezicht op de naleving van deze Gedragscode en geeft oordelen over de interpretatie ervan.
 
@@ -140,7 +164,7 @@ Op het moment dat er negatieve publiciteit ontstaat over het handelen van een li
 
 Het zesde lid bevat een voorziening voor het geval de beoordeling van de naleving van deze Gedragscode een lid van de Huishoudelijke Commissie zelf betreft. Dit lid kan dan niet deelnemen aan de beoordeling en zal moeten worden vervangen. Vervanging geschiedt op basis van anciënniteit en daarna eventueel op basis van senioriteit.
 
-#### Artikel 11. Schending van de geheimhouding
+##### Artikel 11. Schending van de geheimhouding
 
 1. De Huishoudelijke Commissie kan de Kamer voorstellen om een lid, dat de geheimhouding of de vertrouwelijkheid, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042225&artikel=7&z=2019-06-11&g=2019-06-11), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0042225&artikel=8&z=2019-06-11&g=2019-06-11) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0042225&artikel=9&z=2019-06-11&g=2019-06-11), niet in acht neemt, voor ten hoogste één maand uit te sluiten van alle vergaderingen van één of meer commissies.
 
@@ -152,7 +176,7 @@ Het zesde lid bevat een voorziening voor het geval de beoordeling van de nalevin
 
 5. Een besluit van de Kamer ingevolge dit artikel wordt door de Voorzitter onverwijld ter kennis gebracht van het betrokken lid.
 
-#### Artikel 12. Vertrouwenspersoon
+##### Artikel 12. Vertrouwenspersoon
 
 1. De Kamer benoemt op voorstel van de Huishoudelijke Commissie een onafhankelijke vertrouwenspersoon om leden en fracties van advies te dienen over de interpretatie van deze Gedragscode en over het gewenste handelen in concrete situaties. De benoeming geldt voor de duur van vier jaar, waarna de vertrouwenspersoon terstond herbenoembaar is.
 

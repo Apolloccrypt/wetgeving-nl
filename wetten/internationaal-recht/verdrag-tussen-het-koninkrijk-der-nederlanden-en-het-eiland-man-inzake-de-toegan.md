@@ -1,13 +1,39 @@
 ---
-title: "Verdrag tussen het Koninkrijk der Nederlanden en het Eiland Man inzake de toegang tot onderlinge overlegprocedures in verband met winstcorrecties tussen verbonden ondernemingen en de toepassing van de Nederlandse deelnemingsvrijstelling"
+title: "Verdrag tussen het Koninkrijk der Nederlanden en het Eiland Man inzake de toegang tot onderlinge overlegprocedures in verband met winstcorrecties van verbonden ondernemingen en de toepassing van de Nederlandse deelnemingsvrijstelling"
 identifier: "BWBV0001815"
-categorie: "Internationaal recht"
-publicatiedatum: 2006-07-24
-laatste_update: 2005-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001815"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-07-24"
+last_updated: "2005-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001815"
+soort: "verdrag"
+stam_id: "10002508913"
+version_id: "10002503022"
+internal_id: "C10006996941"
+label_id: "10002498414"
+dtd_version: "2.0"
+original_entry_into_force: "2006-07-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001815/2006-07-24/0"
+intitule_bron: "Trb.2005-291"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-07-24"
+intitule_published: "2005-11-21"
+intitule_in_force: "2006-09-26"
+intitule_status: "goed"
+original_publication: "Trb.2005-291"
+original_signed_date: "2006-07-24"
+original_published_date: "2005-11-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2005-291"
+entry_into_force_date: "2006-07-24"
+jci_1_3: "jci1.3:c:BWBV0001815&z=2006-07-24&g=2006-07-24"
+jci_1_0: "1.0:c:BWBV0001815&g=2006-07-24"
+citeertitel_status: "redactioneel"
+short_title: "Verdrag tussen het Koninkrijk der Nederlanden en het Eiland Man inzake de toegang tot onderlinge overlegprocedures in verband met winstcorrecties tussen verbonden ondernemingen en de toepassing van de Nederlandse deelnemingsvrijstelling"
+signed_date: "2006-07-24"
+entry_into_force: "2006-07-24"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Eiland Man inzake de toegang tot onderlinge overlegprocedures in verband met winstcorrecties van verbonden ondernemingen en de toepassing van de Nederlandse deelnemingsvrijstelling
 
 De Regering van het Koninkrijk der Nederlanden
@@ -20,11 +46,11 @@ Geleid door de wens hun economische betrekkingen te versterken en de internation
 
 ### Hoofdstuk I. Belastingen waarop het verdrag van toepassing is en Begripsomschrijvingen
 
-#### Artikel 1. Belastingen waarop het Verdrag van toepassing is
+##### Artikel 1. Belastingen waarop het Verdrag van toepassing is
 
 Dit Verdrag is van toepassing op belastingen naar het inkomen en op winstbelastingen.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag, tenzij anders is bepaald:
 
@@ -44,13 +70,13 @@ Dit Verdrag is van toepassing op belastingen naar het inkomen en op winstbelasti
 
 ### Hoofdstuk II. Winstcorrecties tussen verbonden ondernemingen
 
-#### Artikel 3. Reikwijdte van Hoofdstuk II
+##### Artikel 3. Reikwijdte van Hoofdstuk II
 
 1. Hoofdstuk II van dit Verdrag is van toepassing indien, ten behoeve van de belastingheffing, winsten die zijn begrepen in de winst van een onderneming van een Partij, tevens zijn begrepen of waarschijnlijk zullen worden begrepen in de winst van een onderneming van de andere Partij vanwege het feit dat de grondbeginselen vervat in artikel 4, en hetzij rechtstreeks toegepast, hetzij via vergelijkbare wettelijke bepalingen van de desbetreffende Partij, niet in acht zijn genomen.
 
 2. Het eerste lid is eveneens van toepassing, indien een van de betrokken ondernemingen geen winst heeft gemaakt maar verlies heeft geleden.
 
-#### Artikel 4. Toepasselijke grondbeginselen voor winstcorrecties tussen verbonden ondernemingen
+##### Artikel 4. Toepasselijke grondbeginselen voor winstcorrecties tussen verbonden ondernemingen
 
 Indien:
 
@@ -58,11 +84,11 @@ Indien:
 
 - b. dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een Partij en een onderneming van de andere Partij, en in het ene of in het andere geval tussen de beide ondernemingen in hun handelsbetrekkingen of financiële betrekkingen voorwaarden worden overeengekomen of opgelegd, die afwijken van die welke zouden worden overeengekomen tussen onafhankelijke ondernemingen, mogen alle voordelen die een van de ondernemingen zonder deze voorwaarden zou hebben behaald, maar ten gevolge van die voorwaarden niet heeft behaald, worden begrepen in de voordelen van die onderneming en dienovereenkomstig worden belast.
 
-#### Artikel 5. Algemene bepaling
+##### Artikel 5. Algemene bepaling
 
 Indien een Partij voornemens is de winsten van een onderneming in overeenstemming met de grondbeginselen van artikel 4 te corrigeren, stelt zij de desbetreffende onderneming daarvan tijdig op de hoogte en stelt zij de onderneming in de gelegenheid de andere onderneming op de hoogte te stellen, teneinde die andere onderneming op haar beurt in de gelegenheid te stellen de andere Partij op de hoogte te stellen. Dit belet de Partij die dergelijke informatie verstrekt, evenwel niet de voorgestelde correctie te verrichten.
 
-#### Artikel 6. Procedures voor onderling overleg
+##### Artikel 6. Procedures voor onderling overleg
 
 1. Indien een onderneming van oordeel is dat de grondbeginselen ver-vat in artikel 4 in gevallen waarop dit Verdrag van toepassing is niet zijn geëerbiedigd, kan zij, onverminderd de in het nationale recht van de betrokken Partij voorziene rechtsmiddelen, haar zaak voorleggen aan de bevoegde autoriteit van de Partij waarvan zij een onderneming is. De zaak dient binnen drie jaar na de eerste kennisgeving van de maatregel die in strijd is of mogelijk in strijd is met de beginselen vervat in artikel 4 te worden voorgelegd.
 
@@ -80,19 +106,19 @@ De bevoegde autoriteit stelt vervolgens de bevoegde autoriteit van de andere Par
 
 ### Hoofdstuk III. De toepassing van de Nederlandse Deelnemingsvrijstelling
 
-#### Artikel 7. Specifieke regels voor de toepassing van de Nederlandse deelnemingsvrijstelling
+##### Artikel 7. Specifieke regels voor de toepassing van de Nederlandse deelnemingsvrijstelling
 
 De bevoegde autoriteiten van de Partijen kunnen de voorwaarden overeenkomen voor de toepassing van de deelnemingsvrijstelling van Nederland ten aanzien van deelnemingen op het Eiland Man met het oog op het vermijden van dubbele belasting.
 
 ### Hoofdstuk IV. Slotbepalingen
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking nadat beide Partijen elkaar ervan in kennis hebben gesteld dat de vereiste nationale procedures voor de inwerkingtreding ervan zijn afgerond. Het Verdrag is van toepassing op de procedures bedoeld in artikel 6, eerste lid, die ingesteld zijn na de inwerkingtreding ervan.
 
 2. Onverminderd het eerste lid van dit artikel, treedt het Verdrag uitsluitend in werking indien het Verdrag tussen het Eiland Man en het Koninkrijk der Nederlanden inzake de uitwisseling van informatie betreffende belastingzaken van kracht is voor zowel strafrechtelijke als civiele belastingzaken.
 
-#### Artikel 9. Beëindiging
+##### Artikel 9. Beëindiging
 
 1. Dit Verdrag wordt gesloten voor een tijdvak van vijf jaar. Zes maanden voor het einde van dat tijdvak, komen de Partijen bijeen teneinde te beslissen over verlenging van dit Verdrag en andere relevante maatregelen.
 

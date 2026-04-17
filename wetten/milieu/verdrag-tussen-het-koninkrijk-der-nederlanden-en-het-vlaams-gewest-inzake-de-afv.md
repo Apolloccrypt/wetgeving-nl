@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake de afvoer van het water van de Maas"
 identifier: "BWBV0001232"
-categorie: "Milieu"
-publicatiedatum: 1996-07-01
-laatste_update: 1996-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001232"
+country: "nl"
+rank: "verdrag"
+publication_date: "1996-07-01"
+last_updated: "1996-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001232"
+soort: "verdrag"
+stam_id: "10000606483"
+version_id: "10000624702"
+internal_id: "C10006986231"
+label_id: "10000606814"
+original_entry_into_force: "1996-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001232/1996-07-01/0"
+intitule_bron: "Trb.1995-50"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-06-28"
+intitule_published: "1995-02-15"
+intitule_in_force: "1996-09-13"
+intitule_status: "goed"
+original_publication: "Trb.1995-50"
+original_signed_date: "1996-06-28"
+original_published_date: "1995-02-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1995-50"
+entry_into_force_date: "1996-07-01"
+jci_1_3: "jci1.3:c:BWBV0001232&z=1996-07-01&g=1996-07-01"
+jci_1_0: "1.0:c:BWBV0001232&g=1996-07-01"
+citeertitel_status: "officieel"
+signed_date: "1996-06-28"
+entry_into_force: "1996-07-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake de afvoer van het water van de Maas
 
 Het Koninkrijk der Nederlanden
@@ -34,7 +58,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit Verdrag wordt verstaan onder:
 
@@ -52,7 +76,7 @@ In dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK II. DE AFVOER VAN HET WATER VAN DE MAAS
 
-#### Artikel 2. Wateraftappingen uit de Maas
+##### Artikel 2. Wateraftappingen uit de Maas
 
 1. Ten behoeve van het Vlaams Gewest leidt het Koninkrijk der Nederlanden een hoeveelheid Maaswater over zijn grondgebied naar het Vlaams Gewest. Deze hoeveelheid bedraagt ten minste 8 m3/s. Dit water wordt door het Koninkrijk der Nederlanden te Maastricht op de Zuid-Willemsvaart gebracht en dient om de Kempense kanalen van water te voorzien.
 
@@ -62,7 +86,7 @@ In dit Verdrag wordt verstaan onder:
 
 4. Het Vlaams Gewest zal de duikers bij sluis 18 te Bocholt en sluis 17 te Lozen in beginsel vóór 1 januari 1996, in overleg met en voor rekening van het Koninkrijk der Nederlanden, geschikt maken om de in het tweede lid bedoelde hoeveelheid te kunnen doorvoeren. Het Vlaams Gewest verbindt zich ertoe de aldus verbeterde of vernieuwde duikers voor zijn rekening te handhaven en te onderhouden.
 
-#### Artikel 3. Vermindering van de waterverliezen van de Maas
+##### Artikel 3. Vermindering van de waterverliezen van de Maas
 
 1. Partijen beperken zoveel mogelijk de waterverliezen van de hoofdstroom van de Maas, speciaal in geval van lage afvoeren. Uitgangspunt bij lage afvoeren is een gelijke verdeling tussen het Nederlandse en het Vlaamse gebruik en een gemeenschappelijke verantwoordelijkheid voor het debiet van de Gemeenschappelijke Maas. Partijen volgen daarbij het in bijlage A opgenomen besparingsscenario.
 
@@ -70,7 +94,7 @@ In dit Verdrag wordt verstaan onder:
 
 3. Ten behoeve van de afvoerregulering in tijden van lage Maasafvoeren onderhouden Partijen het in bijlage B opgenomen meetprogramma.
 
-#### Artikel 4. Onderzoek en ontwikkeling van de Gemeenschappelijke Maas
+##### Artikel 4. Onderzoek en ontwikkeling van de Gemeenschappelijke Maas
 
 1. Partijen werken samen bij het rivierkundig en hydrologisch onderzoek van, en bij de hoogwatervoorspelling voor, de Gemeenschappelijke Maas.
 
@@ -78,7 +102,7 @@ In dit Verdrag wordt verstaan onder:
 
 3. Partijen zullen slechts met wederzijdse instemming het stroomvoerende of waterbergende bed van de Gemeenschappelijke Maas zodanig verruimen of vernauwen dat daardoor op het grondgebied van de andere Partij de waterstanden wezenlijk verhoogd of verlaagd worden. Zonodig zal het effect van deze werken in of aan de rivier door maatregelen elders worden gecompenseerd.
 
-#### Artikel 5. Werkgroep Afvoerregulering Maas
+##### Artikel 5. Werkgroep Afvoerregulering Maas
 
 1. Partijen stellen ten behoeve van de uitvoering van de bepalingen van de artikelen 2 en 3 een Nederlands–Vlaamse Werkgroep Afvoerregulering Maas in.
 
@@ -86,7 +110,7 @@ In dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK III. BESLECHTING VAN GESCHILLEN
 
-#### Artikel 6. Beslechting van geschillen
+##### Artikel 6. Beslechting van geschillen
 
 1. Indien er tussen de Partijen een geschil ontstaat met betrekking tot de uitlegging of de toepassing van dit Verdrag, zullen de Partijen dit in de eerste plaats regelen door middel van onderhandeling.
 
@@ -96,59 +120,59 @@ In dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK IV. SLOTBEPALINGEN
 
-#### Artikel 7. Buitenwerkingtreding van de eerdere regeling van de wateraftappingen uit de Maas
+##### Artikel 7. Buitenwerkingtreding van de eerdere regeling van de wateraftappingen uit de Maas
 
 Voor de geldigheidsduur van dit Verdrag wordt de werking opgeschort van de artikelen 3, 4 en 5 van het Tractaat van 12 mei 1863 tot regeling der wateraftappingen uit de Maas, alsmede van de Verklaring, gehecht aan de Overeenkomst van 11 januari 1873 tot wijziging van dit Tractaat.
 
-#### Artikel 8. Compensatie van de zoetwaterverliezen van de Kreekraksluizen
+##### Artikel 8. Compensatie van de zoetwaterverliezen van de Kreekraksluizen
 
 Voor de geldigheidsduur van dit Verdrag worden de bepalingen vervat in het tweede, derde en vierde lid van artikel 16 van het Verdrag van 13 mei 1963 betreffende de verbinding tussen de Schelde en de Rijn geacht te zijn vervangen door de in hoofdstuk II van dit Verdrag overeengekomen regelingen.
 
-#### Artikel 9. Status van de bijlagen
+##### Artikel 9. Status van de bijlagen
 
 De bijlagen vormen een geïntegreerd onderdeel van dit Verdrag.
 
-#### Artikel 10. Wijziging
+##### Artikel 10. Wijziging
 
 Door Partijen schriftelijk overeengekomen wijzigingen van dit Verdrag treden in werking op de dag waarop Partijen elkaar schriftelijk hebben meegedeeld dat aan de onderscheiden constitutionele vereisten is voldaan.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit Verdrag treedt in werking op de eerste dag van de maand volgend op de dag waarop Partijen elkaar schriftelijk hebben meegedeeld dat aan de onderscheiden constitutionele vereisten is voldaan.
 
-#### 1
+##### 1
 
 Bij een Maasafvoer tussen 100 m3/s en 60 m3/s (aanloopfase) is het Nederlandse en het Vlaamse gebruik elk ten hoogste 25 m3/s.
 
-#### 2
+##### 2
 
 Bij een Maasafvoer tussen 60 m3/s en 30 m3/s (alarmfase) verzekeren Partijen een minimale afvoer van 10 m3/s over de stuw te Borgharen. Partijen voeren in deze fase gelijkopgaande besparingen door op het in punt 1 bedoelde Nederlandse en Vlaamse gebruik.
 
-#### 3
+##### 3
 
 Bij een Maasafvoer beneden 30 m3/s (crisisfase) verdelen Partijen deze afvoer door verdergaande gelijkopgaande besparingen op het Nederlandse en het Vlaamse gebruik gelijkelijk over het Nederlandse gebruik, het Vlaamse gebruik en de Gemeenschappelijke Maas. Ingeval op het grondgebied van één der Partijen een noodsituatie met betrekking tot de watervoorziening van of uit de Maas dreigt te ontstaan, vindt in de in artikel 5 bedoelde Werkgroep onverwijld overleg plaats over operationele maatregelen om de situatie te verbeteren.
 
-#### 4
+##### 4
 
 Partijen brengen elkaar binnen één jaar na het inwerkingtreden van dit Verdrag hun draaiboek met de besparingsmaatregelen voor de alarmfase en de crisisfase ter kennis. Deze besparingsmaatregelen kunnen onder meer bestaan uit zuinig schutten, het afdichten van lekken in kunstwerken, het terugpompen van schutwater bij sluizen en het verminderen van de watertoevoer naar de land-, tuin- en bosbouw, naar de industrie en naar de waterleidingbedrijven door vermeerderd gebruik van spaarbekkens. Partijen brengen elkaar wijzigingen in het draaiboek zo spoedig mogelijk ter kennis.
 
-#### 1
+##### 1
 
 Het in artikel 6 van dit Verdrag genoemde gerecht bestaat uit drie scheidsmannen, van wie elke Partij er één benoemt. De twee aldus gekozen scheidsmannen bereiken overeenstemming over de derde scheidsman. Deze derde scheidsman mag geen onderdaan zijn van, niet in dienst zijn van en niet zijn gewone verblijfplaats hebben in het Koninkrijk der Nederlanden of het Koninkrijk België. Elk van de Partijen wijst een scheidsman aan binnen een termijn van dertig dagen vanaf de datum waarop één der Partijen van de andere Partij een diplomatieke nota heeft ontvangen waarin om een scheidsrechterlijke beslissing wordt verzocht. Over de derde scheidsman wordt binnen een volgende termijn van dertig dagen overeenstemming bereikt. Indien één der Partijen haar eigen scheidsman niet aanwijst binnen de termijn van dertig dagen of indien over de derde scheidsman niet binnen de genoemde termijn overeenstemming is bereikt, kan de President van het Internationale Gerechtshof door één der Partijen worden verzocht een scheidsman of scheidsmannen te benoemen.
 
-#### 2
+##### 2
 
 Het gerecht regelt zijn eigen werkwijze.
 
-#### 3
+##### 3
 
 Het gerecht beslist bij meerderheid van stemmen.
 
-#### 4
+##### 4
 
 De kosten van het gerecht worden door beide Partijen, elk voor de helft, gedragen. Elke Partij draagt de kosten van zijn vertegenwoordiging in het geding.
 
-#### 5
+##### 5
 
 Het gerecht kan in elke stand van het geding, na Partijen te hebben gehoord, de conservatoire maatregelen voorschrijven die het noodzakelijk acht, of reeds voorgeschreven conservatoire maatregelen intrekken. Zodanige maatregelen lopen niet vooruit op beslissingen in het geding zelf.
 

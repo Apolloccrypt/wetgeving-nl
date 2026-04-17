@@ -1,13 +1,39 @@
 ---
-title: "Regeling Urinecontrole gestichten BES"
+title: "Regeling van de Minister van Justitie van 27 september 2010, nr. 5668722, houdende het stellen van regels omtrent de wijze van uitvoering van het urineonderzoek in de gestichten in de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling Urinecontrole gestichten BES)"
 identifier: "BWBR0028808"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028808"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028808"
+soort: "ministeriele-regeling-BES"
+stam_id: "11031193"
+version_id: "18023852"
+internal_id: "C25049551"
+label_id: "11005654"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028808/2010-10-10/0"
+intitule_bron: "Stcrt.2010-15696"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-27"
+intitule_published: "2010-10-08"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-15696"
+original_signed_date: "2010-09-27"
+original_published_date: "2010-10-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-15696"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028808&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028808&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Regeling Urinecontrole gestichten BES"
+signed_date: "2010-09-27"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling van de Minister van Justitie van 27 september 2010, nr. 5668722, houdende het stellen van regels omtrent de wijze van uitvoering van het urineonderzoek in de gestichten in de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling Urinecontrole gestichten BES)
 
 Gelet op [artikel 37e, tweede lid, van de Wet beginselen gevangeniswezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&artikel=37e);
@@ -16,11 +42,11 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt onder wet verstaan: de [Wet beginselen gevangeniswezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028596).
 
-#### Artikel 2. Algemeen
+##### Artikel 2. Algemeen
 
 1. Het anders dan door de aan het gesticht verbonden arts voorgeschreven gebruik van gedragsbeïnvloedende middelen is tijdens de detentie niet toegestaan.
 
@@ -28,7 +54,7 @@ In deze regeling wordt onder wet verstaan: de [Wet beginselen gevangeniswezen BE
 
 3. Gedurende de eerste twee weken van het verblijf in het gesticht wordt de gedetineerde geïnformeerd over de wijze waarop het gesticht uitvoering geeft aan het drugsontmoedigingsbeleid.
 
-#### Artikel 3. Afname van urinemonsters
+##### Artikel 3. Afname van urinemonsters
 
 1. De afname van urine gebeurt bij voorkeur ’s ochtends vroeg. De ambtenaar of gestichtsmedewerker controleert of het aanvraagformulier en de benodigde materialen aanwezig zijn.
 
@@ -48,7 +74,7 @@ Het aanvraagformulier dient in ieder geval een opgave van de volledige naam en v
 
 8. Eén buis wordt met het aanvraagformulier zo spoedig mogelijk, doch uiterlijk de eerstvolgende werkdag, naar een laboratorium verstuurd dan wel binnen drie werkdagen bij het laboratorium afgegeven. Een kopie van het formulier wordt in het gesticht bewaard. De andere buis wordt, gedurende ten hoogste twee weken na afname, ten behoeve van een eventueel herhalingsonderzoek in een voor onbevoegden niet toegankelijke diepvries of koelkast bewaard.
 
-#### Artikel 4. Laboratorium
+##### Artikel 4. Laboratorium
 
 1. De analyse wordt verricht door een laboratorium dat voldoet aan de internationale GLP-norm (Good Laboratory Practice).
 
@@ -58,13 +84,13 @@ Het aanvraagformulier dient in ieder geval een opgave van de volledige naam en v
 
 4. Het gesticht en het laboratorium maken nadere afspraken omtrent de wijze van verzending van de urinemonsters.
 
-#### Artikel 5. Uitslag
+##### Artikel 5. Uitslag
 
 1. Indien er vragen bestaan omtrent de uitslag van het onderzoek of de interpretatie daarvan, vindt overleg plaats tussen het laboratorium en het gesticht omtrent mogelijke factoren die de uitslag hebben kunnen beïnvloeden en de interpretatie van de uitslag.
 
 2. Indien het gebruik van gedragsbeïnvloedende middelen is geconstateerd of wanneer de gedetineerde daarom verzoekt wordt de uitslag van het onderzoek aan de gedetineerde bekend gemaakt. Hierbij wordt de gedetineerde gewezen op het recht op een herhalingsonderzoek. Indien de mededeling mondeling wordt gedaan legt het personeelslid dat de mededeling heeft gedaan, schriftelijk vast dat en wanneer de mededeling is gedaan.
 
-#### Artikel 6. Herhalingsonderzoek
+##### Artikel 6. Herhalingsonderzoek
 
 1. De gedetineerde heeft het recht op een herhalingsonderzoek. Het herhalingsonderzoek wordt verricht op een ander vergelijkbaar dan wel gelijkwaardig apparaat dan waarop de eerste controle heeft plaatsgevonden.
 
@@ -74,7 +100,7 @@ Het aanvraagformulier dient in ieder geval een opgave van de volledige naam en v
 
 4. De uitslag van het herhalingsonderzoek wordt aan de gedetineerde medegedeeld. Hierbij wordt de gedetineerde gewezen op het recht op een bevestigingsonderzoek. Indien de mededeling mondeling wordt gedaan legt het personeelslid dat de mededeling heeft gedaan, schriftelijk vast dat en wanneer de mededeling is gedaan.
 
-#### Artikel 7. Bevestigingsonderzoek
+##### Artikel 7. Bevestigingsonderzoek
 
 1. De gedetineerde heeft het recht een bevestigingsonderzoek te laten plaatsvinden.
 
@@ -84,7 +110,7 @@ Het aanvraagformulier dient in ieder geval een opgave van de volledige naam en v
 
 4. De uitslag van het bevestigingsonderzoek wordt aan de gedetineerde medegedeeld. Indien de mededeling mondeling wordt gedaan legt het personeelslid dat de mededeling heeft gedaan, schriftelijk vast dat en wanneer de mededeling is gedaan.
 
-#### Artikel 8. Sancties en maatregelen
+##### Artikel 8. Sancties en maatregelen
 
 1. Indien gebruik van gedragsbeïnvloedende middelen is vastgesteld, de gedetineerde weigert aan de urinecontrole mee te werken dan wel is gebleken dat de gedetineerde met het urinemonster heeft gefraudeerd, kan de gedetineerde een disciplinaire straf worden opgelegd.
 
@@ -98,11 +124,11 @@ Het aanvraagformulier dient in ieder geval een opgave van de volledige naam en v
 
 - c. kan de effectuering van het verlof of strafonderbreking worden opgeschort.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Urinecontrole gestichten BES.
 

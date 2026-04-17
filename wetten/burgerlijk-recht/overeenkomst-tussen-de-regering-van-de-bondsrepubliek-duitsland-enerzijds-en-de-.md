@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen de Regering van de Bondsrepubliek Duitsland enerzijds en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden anderzijds, inzake het overnemen van personen aan de grens"
 identifier: "BWBV0004479"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1966-07-01
-laatste_update: 1966-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004479"
+country: "nl"
+rank: "verdrag"
+publication_date: "1966-07-01"
+last_updated: "1966-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004479"
+soort: "verdrag"
+stam_id: "10004158683"
+version_id: "10004328432"
+internal_id: "C10006999481"
+label_id: "10004143794"
+dtd_version: "2.0"
+original_entry_into_force: "1966-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004479/1966-07-01/0"
+intitule_bron: "Trb.1966-166"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1966-07-05"
+intitule_in_force: "1966-07-05"
+intitule_status: "goed"
+original_publication: "Trb.1966-166"
+original_published_date: "1966-07-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1966-166"
+entry_into_force_date: "1966-07-01"
+jci_1_3: "jci1.3:c:BWBV0004479&z=1966-07-01&g=1966-07-01"
+jci_1_0: "1.0:c:BWBV0004479&g=1966-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1966-07-01"
 ---
-
 # Overeenkomst tussen de Regering van de Bondsrepubliek Duitsland enerzijds en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden anderzijds, inzake het overnemen van personen aan de grens
 
 De Regering van de Bondsrepubliek Duitsland enerzijds, en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, gezamenlijk optredend op grond van de tussen hen gesloten [Overeenkomst van 11 april 1960, inzake de verlegging van de personencontrole naar de buitengrenzen van het Beneluxgebied](https://wetten.overheid.nl/jci1.3:c:BWBV0005246), anderzijds,
@@ -16,15 +38,15 @@ Verlangend het overnemen van personen aan de gemeenschappelijke grens te vergema
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Het in de bepalingen van deze Overeenkomst gebezigde begrip „Beneluxlanden” omvat het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden. Het begrip „Beneluxgebied” omvat het grondgebied van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden in Europa.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor zover volgens de bepalingen van deze Overeenkomst het bezit van de Duitse nationaliteit voorwaarde is voor het overnemen van een persoon, strekt zich de verplichting tot overname uit tot alle personen die Duits onderdaan zijn in de zin van artikel 116 van de Grondwet voor de Bondsrepubliek Duitsland.
 
-#### Artikel 3
+##### Artikel 3
 
 (1). De Regering van de Bondsrepubliek Duitsland neemt Duitse onderdanen die de autoriteiten van een der Beneluxlanden voornemens zijn uit het Beneluxgebied te verwijderen, zonder formaliteiten en zonder tussenkomst van haar diplomatieke vertegenwoordigingen over, voor zover kan worden aangetoond of aannemelijk gemaakt dat deze personen de Duitse nationaliteit bezitten.
 
@@ -36,7 +58,7 @@ Voor zover volgens de bepalingen van deze Overeenkomst het bezit van de Duitse n
 
 (5). Indien het in lid 2 genoemde bewijs niet kan worden geleverd of de verstrekte gegevens onvoldoende zijn om het bezit van de Duitse nationaliteit aannemelijk te maken, is het overnemen afhankelijk van een overnameverklaring.
 
-#### Artikel 4
+##### Artikel 4
 
 (1). De Regering van de Bondsrepubliek Duitsland zal op verzoek van de autoriteiten van een van de Beneluxlanden personen overnemen die geen onderdaan zijn van de Staten die Partij zijn bij deze Overeenkomst, indien deze personen uit het gebied van de Bondsrepubliek Duitsland over de gemeenschappelijke grens op onwettige wijze het grondgebied van de Benelux zijn binnengekomen.
 
@@ -46,7 +68,7 @@ Voor zover volgens de bepalingen van deze Overeenkomst het bezit van de Duitse n
 
 (4). De verplichting tot overname bestaat niet ten aanzien van personen die onderdaan zijn van een Staat, waarmede een van de Beneluxlanden een gemeenschappelijke grens heeft, en die aan deze Staat kunnen worden overgegeven.
 
-#### Artikel 5
+##### Artikel 5
 
 (1). Personen die, komende uit het grondgebied van de Bondsrepubliek Duitsland, het Beneluxgebied over de gemeenschappelijke grens op onwettige wijze zijn binnengekomen, kunnen binnen een maand na de grensoverschrijding aan de grensautoriteiten van de Bondsrepubliek Duitsland worden overgegeven en moeten door hen zonder formaliteiten worden overgenomen, indien de grensautoriteiten van een der Beneluxlanden gegevens verstrekken aan de hand waarvan de grensautoriteiten van de Bondsrepubliek Duitsland kunnen vaststellen dat aan de voorwaarden tot overgave is voldaan. De overgave kan ook plaatsvinden na het verstrijken van de termijn van een maand, indien de autoriteiten van een der Beneluxlanden de autoriteiten van de Bondsrepubliek Duitsland binnen deze termijn in kennis hebben gesteld van hun voornemen tot overgave.
 
@@ -54,7 +76,7 @@ Voor zover volgens de bepalingen van deze Overeenkomst het bezit van de Duitse n
 
 (3). De Regering van elk der Beneluxlanden neemt door haar overgegeven personen terug, indien uit een onmiddellijk door de autoriteiten van de Bondsrepubliek Duitsland ingesteld nader onderzoek blijkt dat aan de voorwaarden tot overgave niet is voldaan.
 
-#### Artikel 6
+##### Artikel 6
 
 (1). De Regering van de Bondsrepubliek Duitsland verklaart zich bereid gevolg te geven aan verzoeken van de autoriteiten van een der Beneluxlanden om door tussenkomst van de autoriteiten van de Bondsrepubliek Duitsland doortocht te verlenen aan personen die geen onderdaan zijn van Staten die bij deze Overeenkomst Partij zijn, indien het overnemen door het land van bestemming en, voor zover noodzakelijk, de doortocht door andere landen verzekerd is.
 
@@ -68,7 +90,7 @@ Voor zover volgens de bepalingen van deze Overeenkomst het bezit van de Duitse n
 
 (4). Ondanks de verleende vergunning kunnen de met het oog op doortocht overgenomen personen weer aan de autoriteiten van het verzoekende Beneluxland worden overgegeven, indien zich later feiten voordoen of aan het licht komen, die zich tegen deze doortocht verzetten, dan wel indien een ander land de doortocht of het land van bestemming het overnemen van de met het oog op doortocht overgenomen personen weigert.
 
-#### Artikel 7
+##### Artikel 7
 
 (1). De Regering van elk der Beneluxlanden zal personen die onderdaan zijn van een van deze landen, die de autoriteiten van de Bondsrepubliek Duitsland voornemens zijn over te geven, zonder formaliteiten en zonder tussenkomst van haar diplomatieke vertegenwoordiging overnemen, voor zover kan worden aangetoond of aannemelijk gemaakt dat bedoelde personen onderdaan zijn van een der Beneluxlanden.
 
@@ -82,7 +104,7 @@ Bedoelde nationaliteit kan eveneens op andere wijze aannemelijk worden gemaakt.
 
 (5). Indien het in lid 2 genoemde bewijs niet kan worden geleverd of de gegevens onvoldoende zijn voor het aannemelijk maken van de nationaliteit, is het overnemen afhankelijk van een overnameverklaring.
 
-#### Artikel 8
+##### Artikel 8
 
 (1). De Regering van elk der Beneluxlanden zal op verzoek van de autoriteiten van de Bondsrepubliek Duitsland personen overnemen die geen onderdaan zijn van een der Staten, die Partij zijn bij deze Overeenkomst, indien deze personen, komende uit het Beneluxgebied het grondgebied van de Bondsrepubliek Duitsland over de gemeenschappelijke grens op onwettige wijze zijn binnengekomen.
 
@@ -92,7 +114,7 @@ Bedoelde nationaliteit kan eveneens op andere wijze aannemelijk worden gemaakt.
 
 (4). De verplichting tot overname bestaat niet ten aanzien van personen die onderdaan zijn van een Staat, waarmede de Bondsrepubliek Duitsland een gemeenschappelijke grens heeft en die aan deze Staat kunnen worden overgegeven.
 
-#### Artikel 9
+##### Artikel 9
 
 (1). Personen die uit het Beneluxgebied via de gemeenschappelijke grens op onwettige wijze het grondgebied van de Bondsrepubliek Duitsland zijn binnengekomen, kunnen binnen een maand na de grensoverschrijding aan de grensautoriteiten van een der Beneluxlanden worden overgegeven en moeten door deze zonder formaliteiten worden overgenomen, indien de grensautoriteiten van de Bondsrepubliek Duitsland gegevens verstrekken aan de hand waarvan de grensautoriteiten van het Beneluxland kunnen vaststellen dat aan de voorwaarden tot overgave is voldaan. De overgave kan ook plaatsvinden na het verstrijken van de termijn van een maand, indien de autoriteiten van de Bondsrepubliek Duitsland de autoriteiten van een der Beneluxlanden binnen deze termijn in kennis hebben gesteld van hun voornemen tot overgave.
 
@@ -100,7 +122,7 @@ Bedoelde nationaliteit kan eveneens op andere wijze aannemelijk worden gemaakt.
 
 (3). De Regering van de Bondsrepubliek Duitsland neemt personen terug, indien uit een onmiddellijk na de overgave door de autoriteiten van een der Beneluxlanden ingesteld nader onderzoek blijkt dat aan de voorwaarden tot overgave niet is voldaan.
 
-#### Artikel 10
+##### Artikel 10
 
 (1). De Regering van elk der Beneluxlanden verklaart zich bereid gevolg te geven aan verzoeken van de autoriteiten van de Bondsrepubliek Duitsland om door tussenkomst van de autoriteiten van de Beneluxlanden doortocht te verlenen aan personen die geen onderdaan zijn van een der Staten, die Partij zijn bij deze Overeenkomst, indien het overnemen door het land van bestemming en, voor zover noodzakelijk, de doortocht door andere landen verzekerd is.
 
@@ -114,31 +136,31 @@ Bedoelde nationaliteit kan eveneens op andere wijze aannemelijk worden gemaakt.
 
 (4). Ondanks verleende vergunning kunnen de met het oog op de doortocht overgenomen personen weer aan de autoriteiten van de Bondsrepubliek Duitsland worden overgegeven, indien zich later feiten voordoen of aan het licht komen, die zich tegen deze doortocht verzetten, dan wel indien een ander land de doortocht, of het land van bestemming de overname van de met het oog op doortocht overgenomen personen weigert.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze Overeenkomst laat de uit andere internationale overeenkomsten voortvloeiende verplichtingen tot overname onverlet.
 
-#### Artikel 12
+##### Artikel 12
 
 (1). Voor zover voor de toepassing van deze Overeenkomst gebruikmaking van de diplomatieke of consulaire vertegenwoordigingen niet aangewezen lijkt, stellen het Bondsministerie van Binnenlandse Zaken van de Bondsrepubliek Duitsland en de Ministeries van Justitie van de Beneluxlanden zich rechtstreeks met elkaar in verbinding.
 
 (2). Iedere overname dient door de bevoegde grensautoriteiten schriftelijk te worden vastgelegd.
 
-#### Artikel 13
+##### Artikel 13
 
 De grensposten waar overgave van personen kan geschieden, worden in onderling overleg tussen de „Grenzschutzdirektion” van de Bondsrepubliek Duitsland en de bevoegde dienst van het Ministerie van Justitie van het desbetreffende Beneluxland aangewezen.
 
-#### Artikel 14
+##### Artikel 14
 
 (1). De kosten verbonden aan het overbrengen van de te verwijderen personen tot aan de grenspost worden gedragen door de Staat waarvan de autoriteiten de verwijdering hebben gelast.
 
 (2). De kosten verbonden aan de doortocht tot aan de grens van het land van bestemming, alsmede eventueel uit de terugreis voortvloeiende kosten, komen ten laste van het verzoekende land.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze Overeenkomst geldt ook voor het „Land” Berlijn, voor zover de Regering van de Bondsrepubliek Duitsland tegenover de Regeringen van de Beneluxlanden niet binnen een termijn van drie maanden na de inwerkingtreding van de Overeenkomst een verklaring heeft afgelegd, waaruit het tegendeel blijkt.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze Overeenkomst stelt buiten werking en vervangt:
 
@@ -148,13 +170,13 @@ Deze Overeenkomst stelt buiten werking en vervangt:
 
 - c). de Overeenkomst tussen de Regering van de Bondsrepubliek Duitsland en de Regering van het Koninkrijk der Nederlanden inzake de vergemakkelijking van het overnemen van personen aan de grens, gesloten bij notawisseling van 19 september/10 oktober 1958.
 
-#### Artikel 17
+##### Artikel 17
 
 (1). Ten aanzien van het Koninkrijk der Nederlanden is deze Overeenkomst uitsluitend van toepassing op het Europese grondgebied van deze Staat.
 
 (2). De toepassing van deze Overeenkomst kan bij notawisseling tussen de Regering van de Bondsrepubliek Duitsland en de Regering van het Koninkrijk der Nederlanden na onderling overleg tot elk der buiten Europa gelegen Rijksdelen worden uitgebreid. In deze notawisseling wordt het tijdstip van inwerkingtreding van de uitbreiding vastgelegd; de andere bij deze Overeenkomst Partij zijnde landen zullen hiervan in kennis worden gesteld.
 
-#### Artikel 18
+##### Artikel 18
 
 (1). Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand volgende op de datum van ondertekening. De Overeenkomst heeft een geldigheidsduur van een jaar; indien zij niet een maand vóór het verstrijken van deze periode wordt opgezegd, geldt zij voor onbepaalde tijd.
 

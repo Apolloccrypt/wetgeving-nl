@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, staking gehele onderneming; verrekening niet gerealiseerde zelfstandigenaftrek (art. 3.76 Wet IB 2001)"
 identifier: "BWBR0037558"
-categorie: "Belastingrecht"
-publicatiedatum: 2016-01-22
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037558"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2016-01-22"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037558"
+soort: "beleidsregel"
+stam_id: "13400293"
+version_id: "22991392"
+internal_id: "C33236741"
+label_id: "13367984"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037558/2016-01-22/0"
+intitule_bron: "Stcrt.2016-2495"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-01-14"
+intitule_published: "2016-01-21"
+intitule_in_force: "2016-01-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-2495"
+original_signed_date: "2016-01-14"
+original_published_date: "2016-01-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-2495"
+entry_into_force_date: "2016-01-22"
+jci_1_3: "jci1.3:c:BWBR0037558&z=2016-01-22&g=2016-01-22"
+jci_1_0: "1.0:c:BWBR0037558&g=2016-01-22"
+citeertitel_status: "redactioneel"
+signed_date: "2016-01-14"
+entry_into_force: "2016-01-22"
 ---
-
 # Inkomstenbelasting, staking gehele onderneming; verrekening niet gerealiseerde zelfstandigenaftrek (art. 3.76 Wet IB 2001)
 
 **Dit besluit bevat een goedkeuring waardoor de niet gerealiseerde zelfstandigenaftrek kan worden verrekend met de stakingswinst ingeval de ondernemer in het jaar van zijn overlijden niet voldoet aan het urencriterium.**

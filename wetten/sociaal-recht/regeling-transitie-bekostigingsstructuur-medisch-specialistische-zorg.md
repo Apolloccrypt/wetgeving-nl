@@ -1,18 +1,43 @@
 ---
 title: "Regeling transitie bekostigingsstructuur medisch specialistische zorg"
 identifier: "BWBR0035464"
-categorie: "Sociaal recht"
-publicatiedatum: 2014-08-21
-laatste_update: 2014-08-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035464"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-08-21"
+last_updated: "2014-08-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035464"
+soort: "zbo"
+stam_id: "12761683"
+version_id: "21617612"
+internal_id: "C31047541"
+label_id: "12731424"
+dtd_version: "2.0"
+original_entry_into_force: "2014-08-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035464/2014-08-21/0"
+intitule_bron: "Stcrt.2014-23477"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-08-12"
+intitule_published: "2014-08-20"
+intitule_in_force: "2014-08-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-23477"
+original_signed_date: "2014-08-12"
+original_published_date: "2014-08-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-23477"
+entry_into_force_date: "2014-08-21"
+jci_1_3: "jci1.3:c:BWBR0035464&z=2014-08-21&g=2014-08-21"
+jci_1_0: "1.0:c:BWBR0035464&g=2014-08-21"
+citeertitel_status: "officieel"
+signed_date: "2014-08-12"
+entry_into_force: "2014-08-21"
 ---
-
 # Regeling transitie bekostigingsstructuur medisch specialistische zorg
 
 Gelet op [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36) en de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) jo. [68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg), heeft de Nederlandse Zorgautoriteit de volgende regeling vastgesteld.
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 Deze regeling is van toepassing op de navolgende instellingen voor medisch specialistische zorg:
 
@@ -34,11 +59,11 @@ Deze regeling is eveneens van toepassing op instellingen die zijn toegelaten als
 
 - 8. Centrum voor erfelijkheidsadvisering.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Deze regeling heeft tot doel het waarborgen van een effectieve procedure op het gebied van de administratie en aanlevering van omzetgegevens gedurende de tweejarige transitieperiode waarin instellingen, op de wijze als beschreven in de beleidsregel, de overstap maken van budgetfinanciering naar prestatiebekostiging. Het belang van deze administratie en aanlevering ligt in het door de NZa correct kunnen vaststellen van het transitiebedrag en het verrekenbedrag 2012 en 2013. Met het oog hierop zijn in deze regeling voorschriften opgenomen op het gebied van de hiervoor genoemde administratie en aanlevering van omzetgegevens.
 
-#### Artikel 3. Begripsbepalingen
+##### Artikel 3. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -64,7 +89,7 @@ In deze regeling wordt verstaan onder:
 
 - k. **onderhanden werk:** openstaande zorgproducten waarvoor nog geen tarief in rekening is gebracht.
 
-#### Artikel 4. Administratievoorschriften
+##### Artikel 4. Administratievoorschriften
 
 1. Instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 1, 2, 3, 4, 7 en 8 richten hun administratie, met inachtneming van de regeling ‘[Medisch specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035447)’, op een zodanige wijze in, dat hieruit kunnen worden afgeleid:
 
@@ -94,7 +119,7 @@ In deze regeling wordt verstaan onder:
 
 5. Instellingen dragen er zorg voor dat de bedragen die worden vastgelegd op grond van de leden 1 tot en met 4 in overeenstemming zijn met de bedragen die zij hiertoe in de jaarrekening opnemen of hebben opgenomen.
 
-#### Artikel 5. Voorschriften met betrekking tot de aanlevering van gegevens
+##### Artikel 5. Voorschriften met betrekking tot de aanlevering van gegevens
 
 1. Instellingen, met uitzondering van de instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 5 en 6, zijn verplicht:
 
@@ -118,7 +143,7 @@ In deze regeling wordt verstaan onder:
 
 6. Voor de instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 5 (zelfstandige longrevalidatie-instellingen) en 6 (zelfstandige epilepsiecentra), geldt dat de leden 1 tot en met 5 van overeenkomstige toepassing zijn, met dien verstande dat bij de in die leden genoemde jaartallen telkens één jaar moet worden opgeteld. Uitzondering hierop vormt [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-08-21), onder 1b: Instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 5 en 6, zijn verplicht uiterlijk 1 juni 2015 een **definitieve** opgave bij de NZa in te dienen van de gerealiseerde omzet uit prestatiebekostiging over 2013 en van het schaduwbudget over 2013.
 
-#### Artikel 6. Aanvullende voorschriften met betrekking tot de aanlevering van gegevens door zelfstandige revalidatiecentra en zelfstandige audiologische centra
+##### Artikel 6. Aanvullende voorschriften met betrekking tot de aanlevering van gegevens door zelfstandige revalidatiecentra en zelfstandige audiologische centra
 
 1. De instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 4 (zelfstandige revalidatiecentra), zijn verplicht – in aanvulling op de voorschriften en verplichtingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-08-21) – uiterlijk 1 juni 2015 eenmalig een (definitieve) opgave bij de NZa in te dienen van de omzet uit prestatiebekostiging over 2013 en het schaduwbudget over 2013.
 
@@ -138,19 +163,19 @@ In deze regeling wordt verstaan onder:
 
 - –. de bijbehorende accountantsverklaring (zie ook [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=7&z=2014-08-21&g=2014-08-21)).
 
-#### Artikel 7. Accountantcontrole gegevensverstrekking
+##### Artikel 7. Accountantcontrole gegevensverstrekking
 
 De instelling draagt er zorg voor dat een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) de juistheid van de te verstrekken gegevens en inlichtingen als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-08-21) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=6&z=2014-08-21&g=2014-08-21), bevestigt, overeenkomstig de wijze als beschreven in een met het oog hierop door de NZa beschikbaar te stellen Controleprotocol.
 
-#### Artikel 8. Wijze van gegevensverstrekking
+##### Artikel 8. Wijze van gegevensverstrekking
 
 De in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-08-21) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=6&z=2014-08-21&g=2014-08-21) bedoelde formulieren en het desbetreffende controleprotocol worden beschikbaar gesteld op de website van de NZa (www.nza.nl)1Zie: www.nza.nl → Wet- en regelgeving → Formulieren (Ziekenhuiszorg).. De in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-08-21) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=6&z=2014-08-21&g=2014-08-21) bedoelde opgaven moeten worden verzonden naar: formulierencure@nza.nl.
 
-#### Artikel 9. Intrekking oude regeling(en)
+##### Artikel 9. Intrekking oude regeling(en)
 
 Met de inwerkingtreding van deze regeling wordt de [Regeling Transitie bekostigingsstructuur medisch specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0033911), kenmerk NR/CU-236, ingetrokken.
 
-#### Artikel 10. Inwerkingtreding en citeertitel
+##### Artikel 10. Inwerkingtreding en citeertitel
 
 Deze regeling treedt in werking op 1 juni 2014.
 

@@ -1,14 +1,41 @@
 ---
-title: "Wet collectieve warmte"
+title: "Wet van 10 december 2025, houdende regels omtrent productie, transport en levering van warmte (Wet collectieve warmte)"
 identifier: "BWBR0052212"
-categorie: "Overig"
-publicatiedatum: 2026-02-14
-laatste_update: 2026-02-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052212"
+country: "nl"
+rank: "wet"
+publication_date: "2026-02-14"
+last_updated: "2026-02-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052212"
+soort: "wet"
+stam_id: "17738793"
+version_id: "31346292"
+internal_id: "C44838741"
+label_id: "17640054"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052212/2026-02-14/0"
+intitule_bron: "Stb.2026-10"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-10"
+intitule_published: "2026-01-22"
+intitule_in_force: "2026-02-13"
+intitule_status: "goed"
+original_publication: "Stb.2026-10"
+original_signed_date: "2025-12-10"
+original_published_date: "2026-01-22"
+original_effect: "nieuwe-regeling"
+original_dossier: "36576"
+original_url_id: "stb-2026-10"
+entry_into_force_date: "2026-02-14"
+jci_1_3: "jci1.3:c:BWBR0052212&z=2026-02-14&g=2026-02-14"
+jci_1_0: "1.0:c:BWBR0052212&g=2026-02-14"
+citeertitel_status: "officieel"
+short_title: "Wet collectieve warmte"
+signed_date: "2025-12-10"
+entry_into_force: "2026-02-14"
 ---
-
-# Wet collectieve warmte
+# Wet van 10 december 2025, houdende regels omtrent productie, transport en levering van warmte (Wet collectieve warmte)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. begripsbepalingen
+##### Artikel 1.1. begripsbepalingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -232,7 +259,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **zelfstandige last:** last tot het verrichten van bepaalde handelingen als bedoeld in artikel 5:2, tweede lid, van de Algemene wet bestuursrecht.
 
-#### Artikel 1.2. verbod op transport of levering van warmte
+##### Artikel 1.2. verbod op transport of levering van warmte
 
 1. Het is verboden zonder aanwijzing van een warmtebedrijf warmte te transporteren en te leveren of zonder aanwijzing van een warmtetransportbeheerder warmte te transporteren met uitzondering van:
 
@@ -268,7 +295,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.1. Warmtekavel
 
-#### Artikel 2.1. vaststelling warmtekavel
+##### Artikel 2.1. vaststelling warmtekavel
 
 1. Het college kan een warmtekavel vaststellen waarvan:
 
@@ -306,7 +333,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.2.1. Aanwijzing van een warmtebedrijf met een publiek meerderheidsbelang of een warmtegemeenschap
 
-#### Artikel 2.2. aanvraag
+##### Artikel 2.2. aanvraag
 
 1. Een aanvraag om aangewezen te worden op grond van artikel 2.5, eerste lid, kan uitsluitend worden ingediend door:
 
@@ -324,7 +351,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Onder indirect berusten wordt verstaan dat meer dan 50% van de aandelen in een warmtebedrijf met een publiek meerderheidsbelang of warmtenetbedrijf berusten bij één of meer rechtspersonen waarvan meer dan 50% van de aandelen van elke rechtspersoon worden gehouden door de Staat der Nederlanden, een provincie, gemeente of ander openbaar lichaam. De aandelen, bedoeld in de eerste volzin, kunnen worden gehouden door één of meerdere tussengelegen rechtspersonen, mits in elke schakel in de keten telkens meer dan 50% van de aandelen berusten bij één of meer rechtspersonen waarvan meer dan 50% van de aandelen worden gehouden door de Staat der Nederlanden, een provincie, gemeente of ander openbaar lichaam. Artikel 2.3, eerste lid, is van overeenkomstige toepassing.
 
-#### Artikel 2.3. voorwaarden aan een warmtebedrijf publiek meerderheidsbelang en warmtegemeenschap
+##### Artikel 2.3. voorwaarden aan een warmtebedrijf publiek meerderheidsbelang en warmtegemeenschap
 
 1. Een warmtebedrijf met een publiek meerderheidsbelang treft geen statutaire afspraken en de leden, vennoten of aandeelhouders maken geen contractuele afspraken die ervoor zorgen dat de Staat der Nederlanden, een provincie, gemeente of ander openbaar lichaam die afzonderlijk of gezamenlijk direct of indirect meer dan 50% van de aandelen houden of doorslaggevende zeggenschap in een aangewezen warmtebedrijf hebben, feitelijk geen doorslaggevende zeggenschap over het warmtebedrijf heeft, indien het een warmtebedrijf met een publiek meerderheidsbelang betreft:
 
@@ -378,7 +405,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de wijze waarop een warmtegemeenschap het vierde lid, onderdeel d, borgt.
 
-#### Artikel 2.4. inventarisatie voornemen warmtebedrijf met een publiek meerderheidsbelang of warmtegemeenschap
+##### Artikel 2.4. inventarisatie voornemen warmtebedrijf met een publiek meerderheidsbelang of warmtegemeenschap
 
 1. Indien het college een warmtebedrijf met een publiek meerderheidsbelang of een warmtegemeenschap de gelegenheid wil geven een aanvraag in te dienen om aangewezen te worden op grond van artikel 2.5, eerste lid, doet het college mededeling in de Staatscourant en op een andere geschikte wijze van de bij ministeriële regeling te bepalen termijn waarbinnen het warmtebedrijf of de warmtegemeenschap het voornemen kenbaar kan maken een aanvraag als bedoeld in artikel 2.5, eerste lid, in te dienen.
 
@@ -392,7 +419,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. een aanvraag als bedoeld in artikel 2.5, eerste lid, van een warmtebedrijf met een publiek meerderheidsbelang of warmtegemeenschap is afgewezen.
 
-#### Artikel 2.5. aanwijzingsprocedure warmtebedrijf met een publiek meerderheidsbelang of warmtegemeenschap
+##### Artikel 2.5. aanwijzingsprocedure warmtebedrijf met een publiek meerderheidsbelang of warmtegemeenschap
 
 1. Het college kan op aanvraag van een warmtebedrijf met een publiek meerderheidsbelang of een warmtegemeenschap voor minimaal 20 en maximaal 30 jaar een warmtebedrijf met een publiek meerderheidsaandeel of warmtegemeenschap aanwijzen dat de exclusieve bevoegdheid heeft binnen een warmtekavel de taken, bedoeld in artikel 2.13, uit te voeren.
 
@@ -472,7 +499,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.2.2. Aanwijzing van een ander warmtebedrijf dan een warmtebedrijf met een publiek meerderheidsbelang of warmtegemeenschap tijdens de ingroeiperiode
 
-#### Artikel 2.6. mededeling start aanwijzingsprocedure tijdens de ingroeiperiode
+##### Artikel 2.6. mededeling start aanwijzingsprocedure tijdens de ingroeiperiode
 
 1. Het college kan tot tien jaar na inwerkingtreding van dit artikel ook een ander warmtebedrijf dan een warmtebedrijf met een publiek meerderheidsbelang of een warmtegemeenschap de mogelijkheid geven een aanvraag in te dienen om aangewezen te worden op grond van artikel 2.7, eerste lid, indien:
 
@@ -484,7 +511,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Indien het college gebruik maakt van de bevoegdheid op grond van het eerste lid, doet het college mededeling in de Staatscourant en op een andere geschikte wijze van de mogelijkheid voor een ander warmtebedrijf dan een warmtebedrijf met een publiek meerderheidsbelang of warmtegemeenschap om binnen een door het college te bepalen termijn een aanvraag in te dienen om aangewezen te worden op grond van artikel 2.7, eerste lid.
 
-#### Artikel 2.7. aanwijzingsprocedure warmtebedrijf tijdens de ingroeiperiode
+##### Artikel 2.7. aanwijzingsprocedure warmtebedrijf tijdens de ingroeiperiode
 
 1. Het college kan op aanvraag van een ander warmtebedrijf dan een warmtebedrijf met een publiek meerderheidsbelang of warmtegemeenschap voor minimaal 20 en maximaal 30 jaar een ander warmtebedrijf aanwijzen dat de exclusieve bevoegdheid heeft binnen een warmtekavel de taken, bedoeld in artikel 2.13, uit te voeren.
 
@@ -562,7 +589,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.3. Wijziging, intrekking en overdragen van een aanwijzing
 
-#### Artikel 2.8. wijziging aanwijzing
+##### Artikel 2.8. wijziging aanwijzing
 
 1. Het college kan een aanwijzing uitsluitend ambtshalve wijzigen waardoor de aanwijzing geldt voor een groter warmtekavel indien:
 
@@ -628,7 +655,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de toepassing van het zevende en negende lid.
 
-#### Artikel 2.9. intrekken aanwijzing
+##### Artikel 2.9. intrekken aanwijzing
 
 1. De Autoriteit Consument en Markt kan aan het college melden dat een besluit als bedoeld in artikel 2.14, zevende lid, of 2.21, vijfde lid, is genomen waarin de Autoriteit Consument en Markt heeft vastgesteld dat er grond is de aanwijzing in te trekken omdat het aangewezen warmtebedrijf:
 
@@ -676,7 +703,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de inhoud van het plan, bedoeld in het zesde lid, en de termijn waarbinnen het college het plan moet hebben opgesteld.
 
-#### Artikel 2.10. overdragen aanwijzing
+##### Artikel 2.10. overdragen aanwijzing
 
 1. Het college kan op aanvraag van een aangewezen warmtebedrijf instemmen met de overdracht van een aanwijzing aan een ander warmtebedrijf.
 
@@ -714,7 +741,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de afwijzingsgronden, genoemd in het zevende lid.
 
-#### Artikel 2.11. overdracht doorslaggevende zeggenschap
+##### Artikel 2.11. overdracht doorslaggevende zeggenschap
 
 1. Een wijziging van de doorslaggevende zeggenschap in een aangewezen warmtebedrijf behoeft instemming van Onze Minister.
 
@@ -752,7 +779,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de afwijzingsgrond, genoemd in het zevende lid.
 
-#### Artikel 2.12. toezending aan de Autoriteit Consument en Markt
+##### Artikel 2.12. toezending aan de Autoriteit Consument en Markt
 
 1. Het college zendt aan de Autoriteit Consument en Markt een afschrift van de aanwijzing, het globaal kavelplan, bedoeld in artikel 2.5, vijfde lid, onderdeel b, en 2.7, vijfde lid, onderdeel b, de wijziging van de aanwijzing, bedoeld in artikel 2.8, eerste, vijfde en zesde lid, de intrekking van de aanwijzing, bedoeld in artikel 2.9, tweede en derde lid, het plan, bedoeld in artikel 2.9, zesde lid, en de instemming met de overdracht van de aanwijzing, bedoeld in artikel 2.10, eerste lid.
 
@@ -760,7 +787,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.4. Taken van een aangewezen warmtebedrijf
 
-#### Artikel 2.13. taken
+##### Artikel 2.13. taken
 
 1. Het aangewezen warmtebedrijf heeft uitsluitend tot taak om binnen een gebied binnen de warmtekavel waarvoor een uitgewerkt kavelplan is opgesteld waarmee het college op grond van artikel 2.16, derde lid, heeft ingestemd:
 
@@ -838,7 +865,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.5.1. Niet uit kunnen voeren van een taak
 
-#### Artikel 2.14. meldplicht bij niet nakomen taak
+##### Artikel 2.14. meldplicht bij niet nakomen taak
 
 1. Een aangewezen warmtebedrijf meldt de Autoriteit Consument en Markt en het college dat het warmtebedrijf een aanwijzing heeft verleend, onmiddellijk als redelijkerwijs te voorzien is dat het aangewezen warmtebedrijf een taak als bedoeld in artikel 2.13 niet langer kan uitvoeren.
 
@@ -870,7 +897,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de bij de hoogte van de vergoeding in aanmerking te nemen omstandigheden.
 
-#### Artikel 2.15. financiële monitoring
+##### Artikel 2.15. financiële monitoring
 
 1. Een aangewezen warmtebedrijf zendt elk jaar binnen een bij ministeriële regeling te bepalen termijn per warmtekavel aan de Autoriteit Consument en Markt informatie over:
 
@@ -902,7 +929,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.5.2. Uitgewerkt kavelplan en investeringsplan
 
-#### Artikel 2.16. uitgewerkt kavelplan
+##### Artikel 2.16. uitgewerkt kavelplan
 
 1. Een aangewezen warmtebedrijf zendt op verzoek van het college een uitgewerkt kavelplan of wijziging van een uitgewerkt kavelplan aan het college dat betrekking heeft op de warmtekavel of een deel daarvan.
 
@@ -964,7 +991,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 11. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de inhoud van een uitgewerkt kavelplan.
 
-#### Artikel 2.17. investeringsplan
+##### Artikel 2.17. investeringsplan
 
 1. Een aangewezen warmtebedrijf stelt periodiek binnen een bij ministeriële regeling te bepalen termijn een investeringsplan op voor een warmtekavel waarvoor het een aanwijzing heeft verkregen.
 
@@ -1014,7 +1041,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.5.3. Leveringszekerheid
 
-#### Artikel 2.18. leveringszekerheidsrapportage
+##### Artikel 2.18. leveringszekerheidsrapportage
 
 1. Een aangewezen warmtebedrijf dient voor een warmtekavel elk jaar binnen een bij ministeriële regeling te bepalen termijn een leveringszekerheidsrapportage in bij het college waarvan het een aanwijzing heeft verkregen en de Autoriteit Consument en Markt met in ieder geval een beschrijving van:
 
@@ -1046,7 +1073,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.5.4. Onderbreking van de levering van warmte aan verbruikers
 
-#### Artikel 2.19. onderbreking van de levering van warmte
+##### Artikel 2.19. onderbreking van de levering van warmte
 
 1. Het aangewezen warmtebedrijf doet al hetgeen redelijkerwijs in zijn vermogen ligt om een onderbreking van de levering van warmte aan verbruikers te voorkomen en indien een onderbreking zich toch voordoet, deze zo snel mogelijk te beëindigen.
 
@@ -1060,7 +1087,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de wijze waarop en de frequentie waarmee de storing voor verbruikers bekend wordt gemaakt.
 
-#### Artikel 2.20. storingscompensatie
+##### Artikel 2.20. storingscompensatie
 
 1. Een aangewezen warmtebedrijf keert aan een verbruiker een compensatie uit bij een ernstige storing in de levering van warmte aan verbruikers waarvan de oorzaak gelegen is in:
 
@@ -1084,7 +1111,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.5.5. De uitstoot van broeikasgassen
 
-#### Artikel 2.21. normen uitstoot broeikasgassen
+##### Artikel 2.21. normen uitstoot broeikasgassen
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gegeven over:
 
@@ -1102,7 +1129,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. De Autoriteit Consument en Markt kan bij besluit vaststellen dat het aangewezen warmtebedrijf vijf jaar na de eerste overschrijding van een norm, bepaald bij of krachtens het eerste lid, nog steeds meer broeikasgassen uitstoot dan deze norm.
 
-#### Artikel 2.22. ontheffing normen uitstoot broeikasgassen
+##### Artikel 2.22. ontheffing normen uitstoot broeikasgassen
 
 1. De Autoriteit Consument en Markt kan op aanvraag van een aangewezen warmtebedrijf voor een door de Autoriteit Consument en Markt te bepalen periode ontheffing verlenen van de bij of krachtens artikel 2.21, eerste lid, bepaalde normen indien aannemelijk is dat het aangewezen warmtebedrijf niet kan voldoen aan deze normen doordat de realisatie van een nieuwe duurzame warmtebron niet uitvoerbaar is.
 
@@ -1128,7 +1155,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de voorschriften en beperkingen die aan een ontheffing kunnen worden verbonden.
 
-#### Artikel 2.23. informatie over de uitstoot van broeikasgassen op de factuur
+##### Artikel 2.23. informatie over de uitstoot van broeikasgassen op de factuur
 
 1. Een aangewezen warmtebedrijf verstrekt een verbruiker informatie over de uitstoot van broeikasgassen ten gevolge van de levering van warmte op de gespecificeerde factuur, bedoeld in artikel 2.37, eerste lid.
 
@@ -1138,7 +1165,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de wijze waarop een aangewezen warmtebedrijf de informatie aan verbruikers verstrekt.
 
-#### Artikel 2.24. openbare informatie over de uitstoot van broeikasgassen
+##### Artikel 2.24. openbare informatie over de uitstoot van broeikasgassen
 
 1. Het aangewezen warmtebedrijf maakt elk jaar binnen een bij ministeriële regeling te bepalen termijn betrouwbare informatie over de uitstoot van broeikasgassen ten gevolge van de levering van warmte aan verbruikers op inzichtelijke wijze openbaar.
 
@@ -1148,7 +1175,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.5.6. Aansluiten op of afsluiten van een collectieve warmtevoorziening
 
-#### Artikel 2.25. informatie bij aanbod aansluitovereenkomst op collectieve warmtevoorziening
+##### Artikel 2.25. informatie bij aanbod aansluitovereenkomst op collectieve warmtevoorziening
 
 1. Bij een aanbod aan een gebouweigenaar om te worden aangesloten op een collectieve warmtevoorziening verstrekt het aangewezen warmtebedrijf de gebouweigenaar op duidelijke en begrijpelijke wijze de volgende informatie:
 
@@ -1182,7 +1209,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. de procedure volgens welke het aangewezen warmtebedrijf de informatie, bedoeld in onderdeel b, en het eerste lid, ter beschikking stelt aan een gebouweigenaar.
 
-#### Artikel 2.26. aanbod aansluitovereenkomst bij aanleg of uitbreiding collectieve warmtevoorziening in geval van verplicht beëindigen van gebruik fossiele brandstoffen
+##### Artikel 2.26. aanbod aansluitovereenkomst bij aanleg of uitbreiding collectieve warmtevoorziening in geval van verplicht beëindigen van gebruik fossiele brandstoffen
 
 1. Een aangewezen warmtebedrijf doet uiterlijk op een door het college vast te stellen tijdstip voor de aanleg of uitbreiding van een collectieve warmtevoorziening een gebouweigenaar een aanbod aangesloten te worden op deze collectieve warmtevoorziening indien deze gebouweigenaar eigenaar is van een gebouw dat zich bevindt binnen een warmtekavel en waarvoor in een omgevingsplan regels zijn gesteld die in een gebied het gebruik van gas uitsluiten als warmtevoorziening van gebouwen, en voor zover van toepassing, voor de energievoorziening van milieubelastende activiteiten, als bedoeld in artikel 62a Gaswet, en waarvoor verwarming door een collectief warmtesysteem is aangewezen.
 
@@ -1192,13 +1219,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. In aanvulling op de gegevens, bedoeld in artikel 2.25, eerste lid, verstrekt het aangewezen warmtebedrijf een gebouweigenaar als bedoeld in het eerste lid, informatie over de gevolgen voor de gebouweigenaar indien deze niet binnen de termijn, bedoeld in het tweede lid, te kennen geeft het aanbod niet te aanvaarden en niet aangesloten te willen worden op de nog aan te leggen of uit te breiden collectieve warmtevoorziening.
 
-#### Artikel 2.27. nieuw aanbod aansluitovereenkomst bij niet aanvaarden in geval van situatie artikel 2.26
+##### Artikel 2.27. nieuw aanbod aansluitovereenkomst bij niet aanvaarden in geval van situatie artikel 2.26
 
 1. Het aangewezen warmtebedrijf doet op verzoek van een gebouweigenaar opnieuw een aanbod om aangesloten te worden als bedoeld in artikel 2.26, eerste lid, indien de gebouweigenaar naar aanleiding van het verzoek, bedoeld in artikel 2.26, tweede lid, heeft aangegeven niet aangesloten te willen worden op een nog aan te leggen of uit te breiden collectieve warmtevoorziening, alsnog verzoekt om een aansluiting op een nog aan te leggen of uit te breiden collectieve warmtevoorziening.
 
 2. Het eerste lid is niet van toepassing indien zich de situatie, genoemd in artikel 2.13, eerste lid, onderdeel i of j, onder 1° of 2°, voordoet.
 
-#### Artikel 2.28. algemene aansluitverplichting van drie jaar in geval van situatie artikel 2.26
+##### Artikel 2.28. algemene aansluitverplichting van drie jaar in geval van situatie artikel 2.26
 
 1. Een gebouweigenaar die het aanbod om aangesloten te worden als bedoeld in artikel 2.26, eerste lid, heeft aanvaard of stilzwijgend heeft aanvaard, kan de overeenkomst door middel van opzegging niet beëindigen tot drie jaar na aanvang van de levering van warmte van de collectieve warmtevoorziening.
 
@@ -1208,13 +1235,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. het gebouw waarop de overeenkomst betrekking heeft gesloopt wordt.
 
-#### Artikel 2.29. oprichten nieuw gebouw in geval van situatie artikel 2.26
+##### Artikel 2.29. oprichten nieuw gebouw in geval van situatie artikel 2.26
 
 1. De artikelen 2.26 tot en met 2.28 zijn van overeenkomstige toepassing op de situatie dat een natuurlijk persoon of rechtspersoon voornemens is na de termijn, bedoeld in artikel 2.26, tweede lid, een gebouw op te richten dat zich bevindt in het gebied binnen een warmtekavel waarvoor in een omgevingsplan regels zijn gesteld die in een gebied het gebruik van gas uitsluiten als warmtevoorziening van gebouwen, en voor zover van toepassing, voor de energievoorziening van milieubelastende activiteiten, als bedoeld in artikel 62a Gaswet, en waarvoor verwarming door een collectief warmtesysteem is aangewezen.
 
 2. Het eerste lid is niet van toepassing indien zich de situatie, genoemd in artikel 2.13, eerste lid, onderdeel i of j, onder 1° of 2°, voordoet.
 
-#### Artikel 2.30. kosten van afsluiten kleinverbruikers en grootverbruikers
+##### Artikel 2.30. kosten van afsluiten kleinverbruikers en grootverbruikers
 
 1. Indien de gebouweigenaar van een gebouw met een individuele leveringsaansluiting van maximaal 100 kilowatt nadat het gebouw is aangesloten op de collectieve warmtevoorziening een aangewezen warmtebedrijf verzoekt om afgesloten te worden van de collectieve warmtevoorziening, kan een aangewezen warmtebedrijf voor de afsluiting een tarief in rekening brengen dat niet meer bedraagt dan het door de Autoriteit Consument en Markt vastgestelde maximale tarief voor het afsluiten van een collectieve warmtevoorziening. De tarieven voor volledige en voor tijdelijke afsluiting zijn gelijk. Indien mogelijk beperkt afsluiting zich tot het verwijderen van de afleverset voor warmte en het afsluiten van de leidingen.
 
@@ -1232,7 +1259,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.5.7. De levering van warmte aan verbruikers
 
-#### Artikel 2.31. leveringsovereenkomst
+##### Artikel 2.31. leveringsovereenkomst
 
 1. Een in Nederland gevestigd aangewezen warmtebedrijf verstrekt een verbruiker voorafgaand aan het sluiten van een overeenkomst tot levering van warmte op duidelijke en begrijpelijke wijze de volgende informatie:
 
@@ -1268,7 +1295,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de informatie die het aangewezen warmtebedrijf al dan niet voorafgaand aan het sluiten van een leveringsovereenkomst aan verbruikers verstrekt.
 
-#### Artikel 2.32. wijzigen en opzeggen van een leveringsovereenkomst
+##### Artikel 2.32. wijzigen en opzeggen van een leveringsovereenkomst
 
 1. Een aangewezen warmtebedrijf stelt een verbruiker op toereikende wijze in kennis van een voornemen tot wijziging van de:
 
@@ -1278,11 +1305,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over het wijzigen en opzeggen van een leveringsovereenkomst tussen een aangewezen warmtebedrijf en verbruiker.
 
-#### Artikel 2.33. vernietigbaarheid leveringsovereenkomst
+##### Artikel 2.33. vernietigbaarheid leveringsovereenkomst
 
 Een leveringsovereenkomst met een kleinverbruiker die niet voldoet aan het bepaalde bij of krachtens de artikelen 2.31 en 2.32 is vernietigbaar.
 
-#### Artikel 2.34. gevolgen van een opzegging van een leveringsovereenkomst
+##### Artikel 2.34. gevolgen van een opzegging van een leveringsovereenkomst
 
 1. Een aangewezen warmtebedrijf reageert schriftelijk op een opzegging en motiveert daarin in voorkomend geval waarom de beëindiging niet kan plaatsvinden.
 
@@ -1298,7 +1325,7 @@ Een leveringsovereenkomst met een kleinverbruiker die niet voldoet aan het bepaa
 
 - b. wanneer er sprake is van een aanzienlijk blijvend nadeel.
 
-#### Artikel 2.35. opzeggen leveringsovereenkomst in geval van situatie artikel 2.26
+##### Artikel 2.35. opzeggen leveringsovereenkomst in geval van situatie artikel 2.26
 
 1. Een verbruiker kan een leveringsovereenkomst met betrekking tot een gebouw waarvan de gebouweigenaar het aanbod om aangesloten te worden, bedoeld in artikel 2.26, eerste lid, heeft aanvaard of stilzwijgend heeft aanvaard, door middel van opzegging niet beëindigen tot drie jaar na aanvang van de levering van warmte nadat het gebouw op een collectieve warmtevoorziening is aangesloten.
 
@@ -1308,13 +1335,13 @@ Een leveringsovereenkomst met een kleinverbruiker die niet voldoet aan het bepaa
 
 - b. de gebouweigenaar wordt afgesloten van de collectieve warmtevoorziening.
 
-#### Artikel 2.36. opzegvergoeding
+##### Artikel 2.36. opzegvergoeding
 
 1. Een aangewezen warmtebedrijf kan een kleinverbruiker voor de opzegging van een leveringsovereenkomst alleen een opzegvergoeding in rekening brengen, indien het een tussentijdse opzegging betreft van een overeenkomst voor bepaalde duur en een vooraf of tijdens de overeenkomst vast overeengekomen prijs of vast overeengekomen kosten, en de opzegvergoeding in de overeenkomst is opgenomen.
 
 2. Bij ministeriële regeling worden nadere regels gesteld over de voorwaarden en de hoogte van de opzegvergoeding.
 
-#### Artikel 2.37. factuur
+##### Artikel 2.37. factuur
 
 1. Een aangewezen warmtebedrijf verstrekt een verbruiker periodiek en kosteloos facturen en factureringsinformatie, waarin de gegevens inzake de geleverde warmte op transparante en begrijpelijke wijze is weergegeven.
 
@@ -1330,7 +1357,7 @@ Een leveringsovereenkomst met een kleinverbruiker die niet voldoet aan het bepaa
 
 - e. de omstandigheden waarin en termijnen waarbinnen een aangewezen warmtebedrijf de facturen en factureringsinformatie verstrekt.
 
-#### Artikel 2.38. betalingswijzen
+##### Artikel 2.38. betalingswijzen
 
 1. Een aangewezen warmtebedrijf biedt een verbruiker een ruime keuze uit betalingswijzen.
 
@@ -1340,7 +1367,7 @@ Een leveringsovereenkomst met een kleinverbruiker die niet voldoet aan het bepaa
 
 4. Een aangewezen warmtebedrijf gebruikt de aan hem verstrekte gegevens over een verbruiker uitsluitend voor het uitvoeren van de taken, bedoeld in artikel 2.13, en het nakomen van de verplichtingen op grond van dit hoofdstuk.
 
-#### Artikel 2.39. klachtenprocedure
+##### Artikel 2.39. klachtenprocedure
 
 1. Een aangewezen warmtebedrijf voorziet in een transparante, kosteloze en eenvoudige interne procedure voor de behandeling van klachten van zijn verbruikers.
 
@@ -1350,7 +1377,7 @@ Een leveringsovereenkomst met een kleinverbruiker die niet voldoet aan het bepaa
 
 - b. de termijnen die gelden voor de klachtenprocedure.
 
-#### Artikel 2.40. voorkomen beëindiging levering
+##### Artikel 2.40. voorkomen beëindiging levering
 
 1. Een aangewezen warmtebedrijf neemt preventieve maatregelen om het beëindigen van levering van warmte aan een kleinverbruiker wegens wanbetaling zoveel mogelijk te voorkomen.
 
@@ -1368,7 +1395,7 @@ Een leveringsovereenkomst met een kleinverbruiker die niet voldoet aan het bepaa
 
 #### § 2.5.8. Meten van het verbruik van warmte
 
-#### Artikel 2.41. kosten gebaseerd op het gemeten verbruik
+##### Artikel 2.41. kosten gebaseerd op het gemeten verbruik
 
 1. Een aangewezen warmtebedrijf baseert de aan de verbruiker in rekening te brengen kosten voor de levering van warmte op het gemeten verbruik met:
 
@@ -1384,7 +1411,7 @@ Een leveringsovereenkomst met een kleinverbruiker die niet voldoet aan het bepaa
 
 - b. de redelijke kosten voor de uitvoering van de verbruiksonafhankelijke warmtekostenverdeelsystematiek indien dit door een ander dan het aangewezen warmtebedrijf geschiedt.
 
-#### Artikel 2.42. warmtemeter, warmtekostenverdeler en verbruiksonafhankelijke warmtekostenverdeelsystematiek
+##### Artikel 2.42. warmtemeter, warmtekostenverdeler en verbruiksonafhankelijke warmtekostenverdeelsystematiek
 
 1. Een aangewezen warmtebedrijf installeert een warmtemeter bij een leveringsaansluiting waar dat technisch haalbaar en kostenefficiënt is.
 
@@ -1422,7 +1449,7 @@ Een leveringsovereenkomst met een kleinverbruiker die niet voldoet aan het bepaa
 
 10. Een aangewezen warmtebedrijf geeft een afzonderlijke verbruiker of diens gemachtigde inzicht in de meetgegevens, de correctiefactor en de berekening van het aandeel van de afzonderlijke verbruiker in het totale verbruik, zoals vastgesteld op grond van het vijfde tot en met zevende lid en van de toerekening van de kosten op grond van artikel 2.41, tweede lid.
 
-#### Artikel 2.43. eisen aan een warmtemeter, warmtekostenverdeler en verbruiksonafhankelijke warmtekostenverdeelsystematiek
+##### Artikel 2.43. eisen aan een warmtemeter, warmtekostenverdeler en verbruiksonafhankelijke warmtekostenverdeelsystematiek
 
 1. Indien een aangewezen warmtebedrijf een warmtemeter of een warmtekostenverdeler installeert, is deze op afstand uitleesbaar.
 
@@ -1452,7 +1479,7 @@ Een leveringsovereenkomst met een kleinverbruiker die niet voldoet aan het bepaa
 
 #### § 2.5.9. Toegang van warmtebronnen
 
-#### Artikel 2.44. toegang van warmtebronnen
+##### Artikel 2.44. toegang van warmtebronnen
 
 1. Een aangewezen warmtebedrijf treedt op verzoek van een producent of producent van restwarmte in overleg over het gebruik door het warmtebedrijf van de warmtebron van de producent of producent van restwarmte.
 
@@ -1478,7 +1505,7 @@ Een leveringsovereenkomst met een kleinverbruiker die niet voldoet aan het bepaa
 
 #### § 2.5.10. Overige verplichtingen
 
-#### Artikel 2.45. eigendom warmtenet
+##### Artikel 2.45. eigendom warmtenet
 
 1. Een aangewezen warmtebedrijf beschikt over de eigendom van het warmtenet van de collectieve warmtevoorziening waarop de taken, bedoeld in artikel 2.13, van het warmtebedrijf betrekking hebben. Het is verboden de economische eigendom van het warmtenet geheel of deels over te dragen aan een derde of het warmtenet geheel of deels te bezwaren met een zekerheidsrecht ten gunste van een directe of indirecte aandeelhouder of certificaathouder van het warmtebedrijf waardoor de feitelijke zeggenschap over het warmtenet direct of op termijn niet langer bij het warmtebedrijf rust.
 
@@ -1508,11 +1535,11 @@ Een leveringsovereenkomst met een kleinverbruiker die niet voldoet aan het bepaa
 
 6. Het vierde en vijfde lid zijn van overeenkomstige toepassing indien de doorslaggevende zeggenschap in een aangewezen warmtebedrijf wordt gewijzigd op grond van artikel 2.11, eerste lid.
 
-#### Artikel 2.46. levering na overdracht van een aanwijzing
+##### Artikel 2.46. levering na overdracht van een aanwijzing
 
 Indien een aanwijzing na instemming van het college op grond van artikel 2.10, eerste lid, wordt overgedragen aan een ander warmtebedrijf neemt dit warmtebedrijf alle leveringsovereenkomsten over die het aangewezen warmtebedrijf dat de aanwijzing overdraagt met verbruikers heeft gesloten. In afwijking van het eerste lid van artikel 159 van boek 6 van het Burgerlijk Wetboek is medewerking van de verbruiker niet vereist.
 
-#### Artikel 2.47. publicatie jaarrekening en bestuursverslag
+##### Artikel 2.47. publicatie jaarrekening en bestuursverslag
 
 1. Het aangewezen warmtebedrijf publiceert een jaarrekening en een bestuursverslag overeenkomstig titel 9 van Boek 2 van het Burgerlijk Wetboek met uitzondering van de artikelen 395a, 396, 397 en 403 van deze titel.
 
@@ -1526,7 +1553,7 @@ Indien een aanwijzing na instemming van het college op grond van artikel 2.10, e
 
 #### § 2.6. Verplichtingen gebouweigenaar
 
-#### Artikel 2.48. verplichting gebouweigenaar
+##### Artikel 2.48. verplichting gebouweigenaar
 
 Voor zover een warmtenet is gelegen in een gebouw verleent een gebouweigenaar medewerking aan het verzoek van een aangewezen warmtebedrijf:
 
@@ -1540,11 +1567,11 @@ Voor zover een warmtenet is gelegen in een gebouw verleent een gebouweigenaar me
 
 #### § 2.7. Overige bepalingen
 
-#### Artikel 2.49. exclusieve taak aangewezen warmtebedrijven warmtemeters en afleversets
+##### Artikel 2.49. exclusieve taak aangewezen warmtebedrijven warmtemeters en afleversets
 
 Het is ieder ander dan het aangewezen warmtebedrijf verboden de taken, bedoeld in artikel 2.13, eerste lid, onderdelen m en o, voor zover het betreft het ter beschikking stellen van een warmtemeter door middel van verhuur, uit te voeren, tenzij het werkzaamheden betreft verricht door een derde als bedoeld in artikel 2.13, vijfde lid.
 
-#### Artikel 2.50. verbod handelen in strijd met voorschriften en beperkingen
+##### Artikel 2.50. verbod handelen in strijd met voorschriften en beperkingen
 
 Het is verboden te handelen in strijd met een voorschrift of beperking:
 
@@ -1556,7 +1583,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 #### § 3.1. Vrijstelling
 
-#### Artikel 3.1. meldplicht en vrijstelling
+##### Artikel 3.1. meldplicht en vrijstelling
 
 1. Het warmtebedrijf meldt het college en de Autoriteit Consument en Markt het voornemen om warmte te leveren door middel van een klein collectief warmtesysteem in een gebied dat buiten een warmtekavel ligt.
 
@@ -1608,7 +1635,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 #### § 3.2. Ontheffing
 
-#### Artikel 3.2. ontheffing
+##### Artikel 3.2. ontheffing
 
 1. Het college kan op aanvraag van een warmtebedrijf voor een klein collectief warmtesysteem buiten een warmtekavel voor minimaal 20 en maximaal 30 jaar een ontheffing verlenen van artikel 1.2, eerste lid. In de ontheffing wordt het gebied aangegeven waarvoor de ontheffing geldt.
 
@@ -1670,7 +1697,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 #### § 3.3. Wijziging, intrekking en overdragen van een vrijstelling en ontheffing
 
-#### Artikel 3.3. wijziging vrijstelling en ontheffing
+##### Artikel 3.3. wijziging vrijstelling en ontheffing
 
 1. Het college kan een ontheffing, bedoeld in artikel 3.2, eerste lid, wijzigen.
 
@@ -1678,7 +1705,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 3. Een vrijstelling op grond van artikel 3.1, vierde lid, kan gewijzigd worden. Artikel 3.1 is van overeenkomstige toepassing.
 
-#### Artikel 3.4. intrekken vrijstelling en ontheffing
+##### Artikel 3.4. intrekken vrijstelling en ontheffing
 
 1. De Autoriteit Consument en Markt kan aan het college melden dat een besluit als bedoeld in artikel 2.14, zevende lid, of 2.21, vijfde lid, gelezen in samenhang met artikel 3.8, is genomen waarin de Autoriteit Consument en Markt heeft vastgesteld dat er grond is de vrijstelling op grond van artikel 3.1, vierde lid, niet langer geldig te laten zijn, of een ontheffing als bedoeld in artikel 3.2, eerste lid, in te trekken omdat het warmtebedrijf:
 
@@ -1726,7 +1753,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 - b. de inhoud van het plan, bedoeld in het vijfde lid, en de termijn waarbinnen een ander warmtebedrijf een vrijstelling verkrijgt en het college het plan moet hebben opgesteld.
 
-#### Artikel 3.5. overdragen vrijstelling en ontheffing
+##### Artikel 3.5. overdragen vrijstelling en ontheffing
 
 1. Het college kan op aanvraag van een warmtebedrijf instemmen met de overdracht van een vrijstelling als bedoeld in artikel 3.1, vierde lid, of een ontheffing als bedoeld in artikel 3.2, eerste lid, aan een ander warmtebedrijf.
 
@@ -1772,13 +1799,13 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 - b. de afwijzingsgronden, genoemd in het zesde lid.
 
-#### Artikel 3.6. toezending aan de Autoriteit Consument en Markt
+##### Artikel 3.6. toezending aan de Autoriteit Consument en Markt
 
 Het college zendt aan de Autoriteit Consument en Markt een afschrift van de ontheffing, bedoeld in artikel 3.2, eerste lid, de wijziging van de ontheffing, bedoeld in artikel 3.3, eerste lid, de intrekking van de ontheffing, bedoeld in artikel 3.4, tweede en derde lid, het plan, bedoeld in artikel 3.4, vijfde lid, en de instemming met de overdracht van een ontheffing, bedoeld in artikel 3.5, eerste lid.
 
 #### § 3.4. Taken van een warmtebedrijf
 
-#### Artikel 3.7. taken
+##### Artikel 3.7. taken
 
 1. Het warmtebedrijf waarvoor een vrijstelling op grond van artikel 3.1, vierde lid, geldt, of waaraan een ontheffing als bedoeld in artikel 3.2, eerste lid, is verleend heeft uitsluitend tot taak om in het gebied waarvoor de vrijstelling of ontheffing geldt:
 
@@ -1844,7 +1871,7 @@ Het college zendt aan de Autoriteit Consument en Markt een afschrift van de onth
 
 #### § 3.5. Verplichtingen warmtebedrijf
 
-#### Artikel 3.8. artikelen hoofdstuk 2 van overeenkomstige toepassing
+##### Artikel 3.8. artikelen hoofdstuk 2 van overeenkomstige toepassing
 
 De artikelen 2.14, 2.19 tot en met 2.21, 2.23 tot en met 2.43, 2.46 tot en met 2.50 zijn van overeenkomstige toepassing indien voor een warmtebedrijf een vrijstelling geldt op grond van artikel 3.1, vierde lid, of aan een warmtebedrijf een ontheffing als bedoeld in artikel 3.2, eerste lid, is verleend met dien verstande dat telkens:
 
@@ -1854,7 +1881,7 @@ De artikelen 2.14, 2.19 tot en met 2.21, 2.23 tot en met 2.43, 2.46 tot en met 2
 
 - c. voor «artikel 2.13» wordt gelezen «artikel 3.7».
 
-#### Artikel 3.9. financiële monitoring
+##### Artikel 3.9. financiële monitoring
 
 1. Een warmtebedrijf waarvoor een vrijstelling op grond van artikel 3.1, vierde lid, geldt of waaraan een ontheffing als bedoeld in artikel 3.2, eerste lid, is verleend stelt elke drie jaar binnen een bij ministeriële regeling te bepalen termijn een plan op met een beschrijving van:
 
@@ -1886,7 +1913,7 @@ De artikelen 2.14, 2.19 tot en met 2.21, 2.23 tot en met 2.43, 2.46 tot en met 2
 
 - d. de omstandigheden waarin sprake is van een significante verslechtering van de financiële situatie als bedoeld in het derde lid.
 
-#### Artikel 3.10. plan leveringszekerheid en duurzaamheid
+##### Artikel 3.10. plan leveringszekerheid en duurzaamheid
 
 1. Het warmtebedrijf waarvoor een vrijstelling op grond van artikel 3.1, vierde lid, geldt, of waaraan een ontheffing als bedoeld in artikel 3.2, eerste lid, is verleend stelt elke drie jaar binnen een bij ministeriële regeling te bepalen termijn voor het gebied waarop de vrijstelling of ontheffing betrekking heeft een plan op met in ieder geval een beschrijving van:
 
@@ -1912,7 +1939,7 @@ De artikelen 2.14, 2.19 tot en met 2.21, 2.23 tot en met 2.43, 2.46 tot en met 2
 
 6. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de inhoud van het plan.
 
-#### Artikel 3.11. ontheffing normen uitstoot broeikasgassen
+##### Artikel 3.11. ontheffing normen uitstoot broeikasgassen
 
 1. De Autoriteit Consument en Markt kan op aanvraag van een warmtebedrijf voor een door de Autoriteit Consument en Markt te bepalen periode ontheffing verlenen van de normen bepaald bij of krachtens artikel 2.21, eerste lid, gelezen in samenhang met artikel 3.8, voor een klein collectief warmtesysteem als bedoeld in artikel 13.12, eerste lid, indien:
 
@@ -1936,7 +1963,7 @@ De artikelen 2.14, 2.19 tot en met 2.21, 2.23 tot en met 2.43, 2.46 tot en met 2
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de voorschriften en beperkingen die aan een ontheffing kunnen worden verbonden.
 
-#### Artikel 3.12. eigendom warmtenet van een klein collectief warmtesysteem
+##### Artikel 3.12. eigendom warmtenet van een klein collectief warmtesysteem
 
 1. Een warmtebedrijf waarvoor een vrijstelling op grond van artikel 3.1, vierde lid, geldt, of waaraan een ontheffing als bedoeld in artikel 3.2, eerste lid, is verleend, beschikt over de eigendom van het warmtenet van een klein collectief warmtesysteem waarop de taken, bedoeld in artikel 3.7, van het warmtebedrijf betrekking hebben. Het is verboden de economische eigendom van het warmtenet geheel of deels over te dragen aan een derde of het warmtenet geheel of deels te bezwaren met een zekerheidsrecht ten gunste van een directe of indirecte aandeelhouder of certificaathouder van het warmtebedrijf waardoor de feitelijke zeggenschap over het warmtenet direct of op termijn niet langer bij het warmtebedrijf rust.
 
@@ -1956,7 +1983,7 @@ De artikelen 2.14, 2.19 tot en met 2.21, 2.23 tot en met 2.43, 2.46 tot en met 2
 
 #### § 3.6. Overige bepalingen
 
-#### Artikel 3.13. verbod handelen in strijd met voorschriften en beperkingen
+##### Artikel 3.13. verbod handelen in strijd met voorschriften en beperkingen
 
 Het is verboden te handelen in strijd met een voorschrift of beperking:
 
@@ -1968,7 +1995,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 #### § 4.1. Meldplicht, vrijstelling en ontheffing
 
-#### Artikel 4.1. meldplicht
+##### Artikel 4.1. meldplicht
 
 1. Een verhuurder of een vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm meldt aan het college de voorgenomen levering en het voorgenomen transport van warmte in een bepaald gebied aan zijn huurder of de leden van de vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm tenzij:
 
@@ -1992,7 +2019,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 6. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over wanneer er sprake is van voorgenomen levering en voorgenomen transport van warmte aan zijn huurder of de leden van de vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm.
 
-#### Artikel 4.2. ontheffing
+##### Artikel 4.2. ontheffing
 
 1. Het college kan op aanvraag van een verhuurder of een vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm voor de levering en het transport van warmte, bedoeld in artikel 4.1, derde lid, voor minimaal 20 en maximaal 30 jaar een ontheffing verlenen van artikel 1.2, eerste lid. In de ontheffing wordt het gebied aangegeven waarvoor de ontheffing geldt.
 
@@ -2016,7 +2043,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 #### § 4.2. Wijziging, intrekking en overdragen van een vrijstelling en ontheffing
 
-#### Artikel 4.3. melden significante wijziging en wijziging vrijstelling en ontheffing
+##### Artikel 4.3. melden significante wijziging en wijziging vrijstelling en ontheffing
 
 1. De verhuurder of een vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm meldt aan het college een significante wijziging van de levering en het transport van warmte, bedoeld in artikel 4.1, eerste lid.
 
@@ -2034,7 +2061,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 6. Artikel 4.2, tweede tot en met vijfde lid, is van overeenkomstig toepassing op de wijziging van de ontheffing.
 
-#### Artikel 4.4. intrekken vrijstelling en ontheffing
+##### Artikel 4.4. intrekken vrijstelling en ontheffing
 
 1. De vrijstelling op grond van artikel 4.1, tweede lid, en 4.3, tweede lid, geldt niet langer of het college kan een ontheffing als bedoeld in artikel 4.2, eerste lid, intrekken indien de verhuurder, vereniging van eigenaars of daarmee vergelijkbare rechtsvorm:
 
@@ -2052,7 +2079,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 - c. een warmtebedrijf een aanwijzing heeft verkregen voor het gebied waarop de ingetrokken vrijstelling of ontheffing betrekking heeft.
 
-#### Artikel 4.5. overdragen vrijstelling of ontheffing
+##### Artikel 4.5. overdragen vrijstelling of ontheffing
 
 1. Een vrijstelling op grond van artikel 4.1, tweede lid, en een ontheffing als bedoeld in artikel 4.2, eerste lid, kan alleen worden overgedragen aan een andere verhuurder, vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm indien deze na de overdracht de warmte gaat leveren en transporteren als bedoeld in artikel 4.1, eerste lid.
 
@@ -2060,13 +2087,13 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 #### § 4.3. Verplichtingen
 
-#### Artikel 4.6. artikelen hoofdstuk 2 van overeenkomstige toepassing
+##### Artikel 4.6. artikelen hoofdstuk 2 van overeenkomstige toepassing
 
 De artikelen 2.37 en 2.41 tot en met 2.43 zijn van overeenkomstige toepassing op de levering en het transport van warmte, bedoeld in artikel 4.1, eerste lid.
 
 #### § 4.4. Overige bepalingen
 
-#### Artikel 4.7. verbod handelen in strijd met voorschriften en beperkingen
+##### Artikel 4.7. verbod handelen in strijd met voorschriften en beperkingen
 
 Het is verboden te handelen in strijd met een voorschrift of beperking als bedoeld in artikel 4.2, vierde lid.
 
@@ -2074,7 +2101,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking als bedoe
 
 #### § 5.1. Aanwijzing van een warmtetransportbeheerder
 
-#### Artikel 5.1. aanwijzing warmtetransportbeheerder
+##### Artikel 5.1. aanwijzing warmtetransportbeheerder
 
 1. Onze Minister kan op aanvraag van een warmtetransportonderneming voor minimaal 20 en maximaal 30 jaar deze onderneming aanwijzen die de exclusieve bevoegdheid heeft binnen een in de aanwijzing aangeduid gebied, de taken, bedoeld in artikel 5.6, eerste lid, uit te voeren.
 
@@ -2116,13 +2143,13 @@ Het is verboden te handelen in strijd met een voorschrift of beperking als bedoe
 
 9. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels gesteld worden over de voorschriften en beperkingen, bedoeld in het derde en zevende lid.
 
-#### Artikel 5.2. wijziging aanwijzing van een warmtetransportbeheerder
+##### Artikel 5.2. wijziging aanwijzing van een warmtetransportbeheerder
 
 1. Onze Minister kan een aanwijzing van een warmtetransportbeheerder wijzigen.
 
 2. Artikel 5.1, vijfde tot en met negende lid, is van overeenkomstige toepassing op deze wijziging waarbij geldt dat het vijfde lid alleen van toepassing is indien de wijziging van de aanwijzing ziet op een wijziging van het gebied, bedoeld in artikel 5.1, eerste lid.
 
-#### Artikel 5.3. intrekking aanwijzing van een warmtetransportbeheerder
+##### Artikel 5.3. intrekking aanwijzing van een warmtetransportbeheerder
 
 1. De Autoriteit Consument en Markt kan aan Onze Minister melden dat een besluit als bedoeld in artikel 5.7, zesde lid, is genomen waarin de Autoriteit Consument en Markt heeft vastgesteld dat er grond is de aanwijzing van een warmtetransportbeheerder in te trekken omdat de warmtetransportbeheerder:
 
@@ -2150,7 +2177,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking als bedoe
 
 - b. de procedure en de termijn waarbinnen Onze Minister een andere warmtetransportonderneming aanwijst.
 
-#### Artikel 5.4. overdragen aanwijzing van een warmtetransportbeheerder
+##### Artikel 5.4. overdragen aanwijzing van een warmtetransportbeheerder
 
 1. Onze Minister kan op aanvraag van een warmtetransportbeheerder instemmen met de overdracht van een aanwijzing van een warmtetransportbeheerder aan een andere warmtetransportonderneming.
 
@@ -2180,13 +2207,13 @@ Het is verboden te handelen in strijd met een voorschrift of beperking als bedoe
 
 - d. de voorschriften en beperkingen, bedoeld in het derde lid.
 
-#### Artikel 5.5. toezending aan de Autoriteit Consument en Markt
+##### Artikel 5.5. toezending aan de Autoriteit Consument en Markt
 
 Onze Minister zendt aan de Autoriteit Consument en Markt een afschrift van de aanwijzing van een warmtetransportbeheerder, de wijziging van de aanwijzing van een warmtetransportbeheerder, bedoeld in artikel 5.2, eerste lid, de intrekking van de aanwijzing van een warmtetransportbeheerder, bedoeld in artikel 5.3, tweede en derde lid, en de instemming met de overdracht van de aanwijzing van een warmtetransportbeheerder, bedoeld in artikel 5.4, eerste lid.
 
 #### § 5.2. Taken van een warmtetransportbeheerder
 
-#### Artikel 5.6. taken
+##### Artikel 5.6. taken
 
 1. De warmtetransportbeheerder heeft uitsluitend tot taak om in het gebied waarvoor de aanwijzing geldt:
 
@@ -2228,7 +2255,7 @@ Onze Minister zendt aan de Autoriteit Consument en Markt een afschrift van de aa
 
 #### § 5.3.1. Niet uit kunnen voeren van een taak
 
-#### Artikel 5.7. meldplicht bij niet nakomen taken
+##### Artikel 5.7. meldplicht bij niet nakomen taken
 
 1. Een warmtetransportbeheerder meldt Onze Minister en de Autoriteit Consument en Markt onmiddellijk als redelijkerwijs te voorzien is dat de warmtetransportbeheerder een taak als bedoeld in artikel 5.6, eerste lid, niet langer kan uitvoeren.
 
@@ -2250,7 +2277,7 @@ Onze Minister zendt aan de Autoriteit Consument en Markt een afschrift van de aa
 
 - b. in strijd handelt met het vierde lid.
 
-#### Artikel 5.8. financiële monitoring
+##### Artikel 5.8. financiële monitoring
 
 1. Een warmtetransportbeheerder zendt elk jaar binnen een bij ministeriële regeling te bepalen termijn aan de Autoriteit Consument en Markt informatie over:
 
@@ -2282,7 +2309,7 @@ Onze Minister zendt aan de Autoriteit Consument en Markt een afschrift van de aa
 
 #### § 5.3.2. Warmtetransportinvesteringsplan
 
-#### Artikel 5.9. warmtetransportinvesteringsplan
+##### Artikel 5.9. warmtetransportinvesteringsplan
 
 1. Een warmtetransportbeheerder stelt periodiek binnen een bij ministeriële regeling te bepalen termijn een warmtetransportinvesteringsplan op.
 
@@ -2330,7 +2357,7 @@ Onze Minister zendt aan de Autoriteit Consument en Markt een afschrift van de aa
 
 - c. de wijze waarop de noodzakelijkheid van de investeringen wordt aangetoond.
 
-#### Artikel 5.10. exploitatieplan
+##### Artikel 5.10. exploitatieplan
 
 1. Een warmtetransportbeheerder stelt periodiek binnen een bij ministeriële regeling te bepalen termijn een exploitatieplan op.
 
@@ -2364,11 +2391,11 @@ Onze Minister zendt aan de Autoriteit Consument en Markt een afschrift van de aa
 
 #### § 5.3.3. Waarborgen onafhankelijkheid warmtetransportbeheerder
 
-#### Artikel 5.11. waarborgen voor onafhankelijkheid
+##### Artikel 5.11. waarborgen voor onafhankelijkheid
 
 Het is een warmtetransportbeheerder verboden in het gebied waarvoor deze op grond van artikel 5.1, eerste lid, is aangewezen warmte te produceren, te leveren of daarin te handelen.
 
-#### Artikel 5.12. toegestane activiteiten
+##### Artikel 5.12. toegestane activiteiten
 
 1. Een warmtetransportbeheerder en een met een warmtetransportbeheerder verbonden groepsmaatschappij als bedoeld in artikel 24b van Boek 2 van het Burgerlijk wetboek beperkt zich naast de in artikel 5.6, eerste lid, toegekende taken in Nederland tot handelingen en activiteiten die gerelateerd zijn aan de aanleg en het beheer van energie-infrastructuur.
 
@@ -2384,7 +2411,7 @@ Het is een warmtetransportbeheerder verboden in het gebied waarvoor deze op gron
 
 #### § 5.3.4. Informatieverplichtingen
 
-#### Artikel 5.13. verstrekken informatie
+##### Artikel 5.13. verstrekken informatie
 
 1. De warmtetransportbeheerder verstrekt op verzoek van de partijen, bedoeld in artikel 5.9, vierde lid, onderdeel a, of het college of gedeputeerde staten, bedoeld in artikel 5.9, vierde lid, onderdeel b:
 
@@ -2402,13 +2429,13 @@ Het is een warmtetransportbeheerder verboden in het gebied waarvoor deze op gron
 
 #### § 5.3.5. Overige verplichtingen
 
-#### Artikel 5.14. aandelen warmtetransportbeheerder in handen van een openbaar lichaam
+##### Artikel 5.14. aandelen warmtetransportbeheerder in handen van een openbaar lichaam
 
 1. De aandelen in een warmtetransportbeheerder berusten direct of indirect bij de Staat der Nederlanden, een provincie, gemeente of ander openbaar lichaam, onverminderd het bepaalde in artikel 3.15 van de Energiewet.
 
 2. Onder indirect berusten wordt verstaan dat de aandelen in een warmtetransportbeheerder berusten bij één of meer rechtspersonen waarvan alle aandelen van elke rechtspersoon worden gehouden door de Staat der Nederlanden, een provincie, gemeente of ander openbaar lichaam. De aandelen, bedoeld in de eerste volzin, kunnen worden gehouden door één of meerdere tussengelegen rechtspersonen, mits in elke schakel in de keten telkens alle aandelen berusten bij één of meer rechtspersonen waarvan de aandelen worden gehouden door de Staat der Nederlanden, een provincie, gemeente of ander openbaar lichaam.
 
-#### Artikel 5.15. eigendom warmtetransportnet
+##### Artikel 5.15. eigendom warmtetransportnet
 
 1. De warmtetransportbeheerder beschikt over de eigendom van het door hem beheerde warmtetransportnet. Het is verboden de economische eigendom van het warmtetransportnet geheel of deels over te dragen aan een derde of het warmtetransportnet geheel of deels te bezwaren met een zekerheidsrecht ten gunste van een directe of indirecte aandeelhouder of certificaathouder van de warmtetransportbeheerder waardoor de feitelijke zeggenschap over het warmtetransportnet direct of op termijn niet langer bij de warmtetransportbeheerder rust.
 
@@ -2428,7 +2455,7 @@ Het is een warmtetransportbeheerder verboden in het gebied waarvoor deze op gron
 
 #### § 5.4. Verplichtingen derden
 
-#### Artikel 5.16. warmtetransportprogramma
+##### Artikel 5.16. warmtetransportprogramma
 
 1. Degene die een warmtetransportaansluiting heeft is verantwoordelijk voor het opstellen van een warmtetransportprogramma waarin is opgenomen:
 
@@ -2450,7 +2477,7 @@ Het is een warmtetransportbeheerder verboden in het gebied waarvoor deze op gron
 
 - c. de overdracht van de verantwoordelijkheid, bedoeld in het tweede lid.
 
-#### Artikel 5.17. verbod overdragen warmtetransportcapaciteit
+##### Artikel 5.17. verbod overdragen warmtetransportcapaciteit
 
 1. Het is een partij die warmtetransportcapaciteit afneemt van de warmtetransportbeheerder verboden warmtetransportcapaciteit van de warmtetransportbeheerder af te nemen anders dan voor eigen gebruik.
 
@@ -2466,7 +2493,7 @@ Het is een warmtetransportbeheerder verboden in het gebied waarvoor deze op gron
 
 #### § 5.5. Overige bepalingen
 
-#### Artikel 5.18. verbod handelen in strijd met voorschriften en beperkingen
+##### Artikel 5.18. verbod handelen in strijd met voorschriften en beperkingen
 
 Het is verboden te handelen in strijd met een voorschrift of beperking als bedoeld in de artikelen 5.1, derde en zevende lid, 5.4, derde lid, 5.7, vijfde lid, 5.8, vijfde lid, en 5.10, vijfde lid.
 
@@ -2474,7 +2501,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking als bedoe
 
 #### § 6.1. Restwarmte
 
-#### Artikel 6.1. informatieverplichting producent van restwarmte
+##### Artikel 6.1. informatieverplichting producent van restwarmte
 
 1. Een producent van restwarmte die deze warmte ongebruikt terecht laat komen in lucht of water geeft een warmtebedrijf op verzoek van dat warmtebedrijf informatie over:
 
@@ -2492,7 +2519,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking als bedoe
 
 - c. de termijn waarbinnen de informatie wordt verstrekt.
 
-#### Artikel 6.2. ter beschikking stellen restwarmte
+##### Artikel 6.2. ter beschikking stellen restwarmte
 
 1. Een producent van restwarmte die deze warmte ongebruikt terecht laat komen in lucht of water stelt deze ter beschikking aan een warmtebedrijf op een warmte overdrachtsstation waar de restwarmte wordt overgedragen op de collectieve warmtevoorziening of het klein collectief warmtesysteem van het warmtebedrijf of een warmtetransportnet van een warmtetransportbeheerder voor zover dit warmtebedrijf daarom heeft verzocht en indien de afname en het transport van de restwarmte vanaf dat warmte overdrachtsstation mogelijk is gemaakt door het warmtebedrijf.
 
@@ -2524,7 +2551,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking als bedoe
 
 #### § 6.2. Garanties van oorsprong
 
-#### Artikel 6.3. begripsbepalingen
+##### Artikel 6.3. begripsbepalingen
 
 In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -2554,7 +2581,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **warmteleveringsbedrijf van thermische energie:** onderneming die zich bezighoudt met de levering van thermische energie uit hernieuwbare bronnen.
 
-#### Artikel 6.4. taken Minister
+##### Artikel 6.4. taken Minister
 
 1. Onze Minister is belast met het uitgeven, overdragen en innemen via een elektronisch systeem van garanties van oorsprong voor thermische energie uit hernieuwbare bronnen.
 
@@ -2574,7 +2601,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Onze Minister kan de taken, bedoeld in het eerste tot en met derde lid, mandateren aan een niet-ondergeschikte die onafhankelijk is van producenten van thermische energie, warmteleveringsbedrijven van thermische energie en handelaren.
 
-#### Artikel 6.5. vaststelling hernieuwbare bron
+##### Artikel 6.5. vaststelling hernieuwbare bron
 
 1. Een meetbedrijf stelt op verzoek van een producent van thermische energie vast of:
 
@@ -2592,21 +2619,21 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld over de verplichtingen op grond van het eerste lid.
 
-#### Artikel 6.6. aantonen productie uit hernieuwbare bronnen
+##### Artikel 6.6. aantonen productie uit hernieuwbare bronnen
 
 Een garantie van oorsprong voor thermische energie uit hernieuwbare bronnen toont bij uitsluiting aan dat een producent van thermische energie de daarop aangegeven hoeveelheid thermische energie heeft geproduceerd uit hernieuwbare bronnen of met energie uit hernieuwbare bronnen.
 
-#### Artikel 6.7. afboeken garanties van oorsprong
+##### Artikel 6.7. afboeken garanties van oorsprong
 
 Een warmteleveringsbedrijf van thermische energie zorgt ervoor dat als bewijs van levering van thermische energie uit hernieuwbare bronnen aan een in Nederland gevestigde verbruiker van thermische energie, binnen één maand na de levering een corresponderende hoeveelheid garanties van oorsprong voor thermische energie uit hernieuwbare bronnen van een Nederlandse rekening voor garanties van oorsprong wordt afgeboekt.
 
-#### Artikel 6.8. garanties van oorsprong binnen Europese Unie
+##### Artikel 6.8. garanties van oorsprong binnen Europese Unie
 
 1. Garanties van oorsprong voor thermische energie uit hernieuwbare bronnen uitgegeven door een onafhankelijke instantie in een andere lidstaat van de Europese Unie, die naar aard en strekking overeenkomen met in Nederland uitgegeven garanties van oorsprong, worden daarmee gelijkgesteld.
 
 2. Garanties van oorsprong voor thermische energie uit hernieuwbare bronnen uitgegeven door een onafhankelijke instantie in een derde land, die naar aard en strekking overeenkomen met in Nederland uitgegeven garanties van oorsprong, worden niet erkend, behalve indien de Europese Unie daarvoor een overeenkomst heeft afgesloten met het derde land en de energie rechtstreeks uit dat land wordt ingevoerd of uitgevoerd.
 
-#### Artikel 6.9. delegatiegrondslag garanties van oorsprong
+##### Artikel 6.9. delegatiegrondslag garanties van oorsprong
 
 1. Bij ministeriële regeling worden de tarieven vastgesteld ter dekking van de kosten die worden gemaakt met betrekking tot de activiteiten, bedoeld in artikel 6.4.
 
@@ -2624,7 +2651,7 @@ Een warmteleveringsbedrijf van thermische energie zorgt ervoor dat als bewijs va
 
 - f. het meten van de hoeveelheid, bedoeld in artikel 6.4, derde lid.
 
-#### Artikel 6.10. erkenning meetbedrijf
+##### Artikel 6.10. erkenning meetbedrijf
 
 1. Het is verboden zonder een erkenning als bedoeld in het derde lid, bij een producent van thermische energie werkzaamheden als bedoeld in artikel 6.5, eerste lid, te verrichten.
 
@@ -2648,7 +2675,7 @@ Een warmteleveringsbedrijf van thermische energie zorgt ervoor dat als bewijs va
 
 - c. de informatie die een meetbedrijf na het verlenen van de erkenning al dan niet periodiek moet verstrekken.
 
-#### Artikel 6.11. wijziging en intrekken erkenning
+##### Artikel 6.11. wijziging en intrekken erkenning
 
 1. De Autoriteit Consument en Markt kan een erkenning als bedoeld in artikel 6.10, derde lid, wijzigen of intrekken indien:
 
@@ -2664,13 +2691,13 @@ Een warmteleveringsbedrijf van thermische energie zorgt ervoor dat als bewijs va
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de tijdelijke voorzieningen en de procedure bij intrekking van de erkenning.
 
-#### Artikel 6.12. rapportageverplichting
+##### Artikel 6.12. rapportageverplichting
 
 1. Een meetbedrijf rapporteert aan de Autoriteit Consument en Markt over de uitvoering van het bepaalde bij of krachtens artikel 6.5, eerste en derde lid.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de frequentie waarmee gerapporteerd wordt en de eisen waaraan een rapportage moet voldoen.
 
-#### Artikel 6.13. overdragen erkenning
+##### Artikel 6.13. overdragen erkenning
 
 1. Een erkenning als bedoeld in artikel 6.10, derde lid, kan slechts worden overgedragen met toestemming van de Autoriteit Consument en Markt.
 
@@ -2678,7 +2705,7 @@ Een warmteleveringsbedrijf van thermische energie zorgt ervoor dat als bewijs va
 
 #### § 6.3. Wijziging in zeggenschap
 
-#### Artikel 6.14. wijziging in zeggenschap
+##### Artikel 6.14. wijziging in zeggenschap
 
 1. Een wijziging met betrekking tot zeggenschap in een installatie van een producent met een vermogen van meer dan 20 megawatt, wordt voorafgaand aan de wijziging door één van de bij deze wijziging betrokken partijen binnen een bij ministeriële regeling te bepalen termijn gemeld aan Onze Minister.
 
@@ -2694,13 +2721,13 @@ Een warmteleveringsbedrijf van thermische energie zorgt ervoor dat als bewijs va
 
 #### § 6.4. Overige bepalingen
 
-#### Artikel 6.15. prijzen en voorwaarden productie van warmte
+##### Artikel 6.15. prijzen en voorwaarden productie van warmte
 
 1. Een producent die warmte levert aan een warmtebedrijf levert deze warmte tegen redelijk prijzen en voorwaarden.
 
 2. Een prijs is in ieder geval niet redelijk indien die prijs onevenredig hoog is gezien de kosten van de producent of niet marktconform is.
 
-#### Artikel 6.16. verbod handelen in strijd met voorschriften en beperkingen
+##### Artikel 6.16. verbod handelen in strijd met voorschriften en beperkingen
 
 Het is verboden te handelen in strijd met een voorschrift of beperking:
 
@@ -2714,7 +2741,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 #### § 7.1.1. Door het aangewezen warmtebedrijf in rekening te brengen maximale tarieven
 
-#### Artikel 7.1. door een aangewezen warmtebedrijf in rekening te brengen maximale tarieven
+##### Artikel 7.1. door een aangewezen warmtebedrijf in rekening te brengen maximale tarieven
 
 1. Een aangewezen warmtebedrijf brengt ten behoeve van het uitvoeren van de taken, bedoeld in artikel 2.13, bij een kleinverbruiker voor het leveren van goederen en diensten ten hoogste de tarieven in rekening die zijn vastgesteld op grond van artikel 7.2, eerste lid, waarbij geldt dat het aangewezen warmtebedrijf bij een kleinverbruiker voor de eerste drie jaar na aanvang van de levering van warmte door middel van de aansluiting van het gebouw op het collectief warmtesysteem niet een hoger tarief in rekening kan brengen dan het maximale tarief, bedoeld in artikel 2.25, tweede lid, indien een verzoek is gedaan als bedoeld in artikel 2.26, eerste lid.
 
@@ -2754,7 +2781,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 #### § 7.1.2. Vaststelling maximale tarieven voor kleinverbruikers door de Autoriteit Consument en Markt (fase 1)
 
-#### Artikel 7.2. vaststelling maximale tarieven fase 1
+##### Artikel 7.2. vaststelling maximale tarieven fase 1
 
 1. De Autoriteit Consument en Markt stelt jaarlijks de maximale tarieven vast die een aangewezen warmtebedrijf voor de goederen en diensten, bedoeld in artikel 7.1, tweede lid, in rekening kan brengen bij een kleinverbruiker.
 
@@ -2780,7 +2807,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 #### § 7.1.3. Vaststelling maximale tarieven en tariefformules voor kleinverbruikers door de Autoriteit Consument en Markt (fase 2)
 
-#### Artikel 7.3. vaststelling berekeningsmethode maximale tarieven en tariefformules in methodebesluit
+##### Artikel 7.3. vaststelling berekeningsmethode maximale tarieven en tariefformules in methodebesluit
 
 1. De Autoriteit Consument en Markt stelt voor een periode van minimaal drie en maximaal vijf jaar een methodebesluit vast.
 
@@ -2816,7 +2843,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 - g. de wijze waarop onderscheid wordt gemaakt tussen een vast, variabel, eenmalig of periodiek tarief.
 
-#### Artikel 7.4. tariefbesluit
+##### Artikel 7.4. tariefbesluit
 
 1. De Autoriteit Consument en Markt stelt jaarlijks een tariefbesluit vast voor de goederen en diensten waarvoor de tarieven worden berekend op grond van het artikel 7.3, tweede lid, onderdeel a.
 
@@ -2824,7 +2851,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de termijn waarbinnen het tariefbesluit wordt vastgesteld.
 
-#### Artikel 7.5. tariefformulebesluit
+##### Artikel 7.5. tariefformulebesluit
 
 1. De Autoriteit Consument en Markt stelt jaarlijks bij besluit de tariefformules vast voor de goederen en diensten waarvoor de tarieven worden berekend op grond van het artikel 7.3, tweede lid, onderdeel b.
 
@@ -2840,7 +2867,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 - b. de toepassing van de tariefformules door het aangewezen warmtebedrijf.
 
-#### Artikel 7.6. vaststelling tarieflimieten
+##### Artikel 7.6. vaststelling tarieflimieten
 
 1. Onze Minister stelt in overleg met Onze Minister van Financiën met het oog op het voorkomen van onevenredig hoge leveringstarieven ten opzichte van het gemiddelde van alle maximum leveringstarieven, voor kleinverbruikers jaarlijks bij besluit tarieflimieten vast die een aangewezen warmtebedrijf voor de goederen en diensten, bedoeld in artikel 7.1, tweede lid, onderdelen a en b, maximaal in rekening kan brengen bij een kleinverbruiker.
 
@@ -2860,7 +2887,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 #### § 7.1.4. Vaststelling maximale tarieven voor verbruikers door de Autoriteit Consument en Markt (fase 3)
 
-#### Artikel 7.7. methodebesluit beoogde of toegestane inkomsten
+##### Artikel 7.7. methodebesluit beoogde of toegestane inkomsten
 
 1. De Autoriteit Consument en Markt stelt voor een reguleringsperiode van minimaal drie en maximaal vijf jaar een methodebesluit vast, waarin de methode is opgenomen voor het berekenen van de beoogde of toegestane inkomsten ten behoeve van het uitvoeren van de taken, bedoeld in artikel 2.13.
 
@@ -2884,7 +2911,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 - e. de procedure om te komen tot de vaststelling van de beoogde of toegestane inkomsten.
 
-#### Artikel 7.8. vaststelling maximale tarieven door Autoriteit Consument en Markt op basis van tariefvoorstel
+##### Artikel 7.8. vaststelling maximale tarieven door Autoriteit Consument en Markt op basis van tariefvoorstel
 
 1. Een aangewezen warmtebedrijf zendt jaarlijks op een bij ministeriële regeling te bepalen moment de Autoriteit Consument en Markt een tariefvoorstel.
 
@@ -2924,7 +2951,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 - d. de wijze waarop het tariefvoorstel, een gewijzigd tariefvoorstel of een verzoek als bedoeld in het zevende lid wordt ingediend en de bij het tariefvoorstel of het verzoek te verstrekken gegevens en bescheiden.
 
-#### Artikel 7.9. vaststelling tarieflimieten
+##### Artikel 7.9. vaststelling tarieflimieten
 
 1. Onze Minister stelt in overleg met Onze Minister van Financiën met het oog op het voorkomen van onevenredig hoge leveringstarieven ten opzichte van het gemiddelde van alle maximum leveringstarieven, voor kleinverbruikers jaarlijks bij besluit tarieflimieten vast die een aangewezen warmtebedrijf voor de goederen en diensten, bedoeld in artikel 7.1, tweede lid, onderdelen a en b, maximaal in rekening kan brengen bij een kleinverbruiker.
 
@@ -2944,7 +2971,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 #### § 7.1.5. Overige bepalingen
 
-#### Artikel 7.10. regulatorische accountingregels
+##### Artikel 7.10. regulatorische accountingregels
 
 1. De Autoriteit Consument en Markt stelt regulatorische accountingregels vast gericht op de van een warmtebedrijf of de groep waartoe het behoort te verkrijgen noodzakelijke gegevens voor de uitvoering van de bij of krachtens dit hoofdstuk gegeven bevoegdheden.
 
@@ -2952,7 +2979,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 3. De informatie, bedoeld in het tweede lid, is gecontroleerd door een registeraccountant indien de Autoriteit Consument en Markt daarom heeft verzocht.
 
-#### Artikel 7.11. vaststelling gestandaardiseerde activawaarde
+##### Artikel 7.11. vaststelling gestandaardiseerde activawaarde
 
 1. De Autoriteit Consument en Markt stelt bij besluit de methode vast op basis waarvan de gestandaardiseerde activawaarde van het warmtenet en de overige activa van een aangewezen warmtebedrijf, zoals die waarde was op het tijdstip van inwerkingtreding van dit artikel, zal worden berekend.
 
@@ -2960,13 +2987,13 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 3. Dit lid is nog niet in werking getreden.
 
-#### Artikel 7.12. afzonderlijke boekhouding
+##### Artikel 7.12. afzonderlijke boekhouding
 
 1. Een aangewezen warmtebedrijf voert een afzonderlijke boekhouding voor de uitvoering van de taken, bedoeld in artikel 2.13.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de afzonderlijke boekhouding.
 
-#### Artikel 7.13. transparantie
+##### Artikel 7.13. transparantie
 
 1. Het aangewezen warmtebedrijf maakt jaarlijks de berekening van de tarieven voor de goederen en diensten, bedoeld in artikel 7.1, tweede lid, openbaar met uitzondering van bedrijfsvertrouwelijke gegevens.
 
@@ -2982,11 +3009,11 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 - b. de Autoriteit Consument en Markt de gegevens, bedoeld in het derde lid, openbaar maakt.
 
-#### Artikel 7.14. inwerkingtreding tarieven en tariefformules
+##### Artikel 7.14. inwerkingtreding tarieven en tariefformules
 
 De tarieven en tariefformules, bedoeld in artikel 7.3, tweede lid, gelden vanaf een door de Autoriteit Consument en Markt te bepalen tijdstip tot 1 januari van het jaar volgend op de datum van inwerkingtreding van het besluit tot vaststelling van de tarieven en de tariefformules. Indien op 1 januari de tarieven of tariefformules voor dat jaar nog niet zijn vastgesteld, gelden de laatst vastgestelde tarieven of tariefformules tot de datum van inwerkingtreding van het besluit tot vaststelling van de tarieven of tariefformules voor het volgende jaar. Daarbij verdisconteert de Autoriteit Consument en Markt de te late vaststelling van de tarieven of tariefformules in de tarieven voor het eerstvolgende jaar.
 
-#### Artikel 7.15. rendementsmonitor en rendementstoets
+##### Artikel 7.15. rendementsmonitor en rendementstoets
 
 1. De Autoriteit Consument en Markt verzamelt, analyseert en bewerkt inlichtingen en gegevens met betrekking tot de ontwikkeling van de rendementen behaald door de aangewezen warmtebedrijven en de kosten en opbrengsten per type collectieve warmtevoorziening. De Autoriteit Consument en Markt brengt tweejaarlijks verslag uit van de monitoring aan Onze Minister.
 
@@ -3008,7 +3035,7 @@ De tarieven en tariefformules, bedoeld in artikel 7.3, tweede lid, gelden vanaf 
 
 - b. de inlichtingen en gegevens met betrekking tot de ontwikkeling van de rendementen van warmtebedrijven die door de Autoriteit Consument en Markt worden verzameld, geanalyseerd en bewerkt.
 
-#### Artikel 7.16. correctie van de tarieven door de Autoriteit Consument en Markt
+##### Artikel 7.16. correctie van de tarieven door de Autoriteit Consument en Markt
 
 De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar corrigeren, indien de tarieven die gelden in dat jaar of de jaren voorafgaand aan dat jaar:
 
@@ -3018,7 +3045,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 - c. zijn berekend met gebruikmaking van geschatte gegevens en de feitelijke gegevens daarvan afwijken.
 
-#### Artikel 7.17. Vereveningsfonds
+##### Artikel 7.17. Vereveningsfonds
 
 1. Er is een Vereveningsfonds dat tot taak heeft het beheer van financiële middelen ten behoeve van de vergoedingen, bedoeld in het zesde en zevende lid.
 
@@ -3042,7 +3069,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 9. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat uit de middelen, bedoeld in het vijfde lid, eveneens de uitvoeringslasten van het Vereveningsfonds worden vergoed.
 
-#### Artikel 7.18. vereveningstoeslag
+##### Artikel 7.18. vereveningstoeslag
 
 1. De Autoriteit Consument en Markt stelt voorafgaand aan het jaar waarvoor de tarieflimieten, bedoeld in artikel 7.6, eerste lid, gelden, voor een bij ministeriële regeling te bepalen termijn, jaarlijks bij besluit een vereveningstoeslag vast.
 
@@ -3062,7 +3089,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 - d. de door een aangewezen warmtebedrijf aan het Vereveningsfonds te verstrekken noodzakelijke gegevens ten behoeve van de controle van de rechtmatigheid van betaalde vereveningstoeslagen.
 
-#### Artikel 7.19. vereveningsbijdrage
+##### Artikel 7.19. vereveningsbijdrage
 
 1. Onze Minister kent op aanvraag van een aangewezen warmtebedrijf dat voldaan heeft aan zijn verplichting, bedoeld in artikel 7.18, derde lid, een vereveningsbijdrage toe:
 
@@ -3080,7 +3107,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 - c. de bij de aanvraag te verstrekken gegevens en bescheiden en de termijn waarbinnen het besluit, bedoeld in het eerste lid, wordt genomen.
 
-#### Artikel 7.20. bijdrage ten behoeve van de financiële aantrekkelijkheid
+##### Artikel 7.20. bijdrage ten behoeve van de financiële aantrekkelijkheid
 
 1. Onze Minister kent op aanvraag van een aangewezen warmtebedrijf een bijdrage toe indien de tarieflimieten, bedoeld in artikel 7.6, eerste lid, overeenkomstig artikel 7.6, tweede lid, op een lager bedrag zijn vastgesteld, voor zover de tarieven die zijn vastgesteld of berekend op grond van artikel 7.4, eerste lid, of berekend op grond van artikel 7.5, eerste lid, voor de levering van deze goederen en diensten, als gevolg daarvan zijn verlaagd.
 
@@ -3094,7 +3121,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 #### 7.1.6. Tariefregulering levering van warmte door een aangewezen warmtebedrijf aan grootverbruikers
 
-#### Artikel 7.21. vaststelling tarieven voor grootverbruikers
+##### Artikel 7.21. vaststelling tarieven voor grootverbruikers
 
 1. De Autoriteit Consument en Markt stelt overeenkomstig de artikelen 7.3, 7.4 en 7.5 de tarieven of tariefformules vast voor het transport en de levering van warmte, bedoeld in artikel 7.1, tweede lid, onder a, voor een periode als bedoeld in artikel 7.3, eerste lid, die een aangewezen warmtebedrijf ten behoeve van het uitvoeren van de taken, bedoeld in artikel 2.13, in rekening kan brengen bij een grootverbruiker.
 
@@ -3108,7 +3135,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 #### § 7.2.1. Door een warmtebedrijf in rekening te brengen maximale tarieven
 
-#### Artikel 7.22. door een warmtebedrijf in rekening te brengen maximale tarieven
+##### Artikel 7.22. door een warmtebedrijf in rekening te brengen maximale tarieven
 
 1. Een warmtebedrijf brengt ten behoeve van het uitvoeren van de taken, bedoeld in artikel 3.7, bij een kleinverbruiker die een leveringsaansluiting heeft op een klein collectief warmtesysteem voor het leveren van goederen en diensten ten hoogste tarieven in rekening die door de Autoriteit Consument en Markt zijn vastgesteld op grond van artikel 7.23, eerste lid, waarbij geldt dat het warmtebedrijf bij degene die een leveringsaansluiting heeft op een klein collectief warmtesysteem voor de eerste drie jaar na aanvang van de levering van warmte door middel van de aansluiting van het gebouw op het collectief warmtesysteem niet een hoger tarief in rekening kan brengen dan het maximale tarief, bedoeld in artikel 2.25, tweede lid voor zover een verzoek als bedoeld in artikel 2.26, eerste lid, is gedaan.
 
@@ -3154,7 +3181,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 #### § 7.2.2. Vaststelling maximale tarieven voor kleinverbruikers door de Autoriteit Consument en Markt (fase 1)
 
-#### Artikel 7.23. vaststelling maximale tarieven fase 1
+##### Artikel 7.23. vaststelling maximale tarieven fase 1
 
 1. De Autoriteit Consument en Markt stelt jaarlijks de maximale tarieven vast die een warmtebedrijf voor de goederen en diensten, bedoeld in artikel 7.22, tweede lid, in rekening kan brengen bij een kleinverbruiker die een leveringsaansluiting heeft op een klein collectief warmtesysteem.
 
@@ -3182,7 +3209,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 #### § 7.2.3. Vaststelling maximale tarieven en tariefformules voor kleinverbruikers door de Autoriteit Consument en Markt (fase 2)
 
-#### Artikel 7.24. vaststelling berekeningsmethode maximale tarieven en tariefformules in methodebesluit
+##### Artikel 7.24. vaststelling berekeningsmethode maximale tarieven en tariefformules in methodebesluit
 
 1. De Autoriteit Consument en Markt stelt voor een periode van minimaal drie en maximaal vijf jaar een methodebesluit vast.
 
@@ -3214,7 +3241,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 - e. de wijze waarop onderscheid wordt gemaakt tussen een vast, variabel, eenmalig of periodiek tarief.
 
-#### Artikel 7.25. tariefbesluit
+##### Artikel 7.25. tariefbesluit
 
 1. De Autoriteit Consument en Markt stelt, voor de goederen en diensten waarvoor de tarieven worden berekend op grond van het artikel 7.24, tweede lid, onderdeel a, jaarlijks een tariefbesluit vast.
 
@@ -3222,7 +3249,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de termijn waarbinnen het tariefbesluit wordt vastgesteld.
 
-#### Artikel 7.26. tariefformulebesluit
+##### Artikel 7.26. tariefformulebesluit
 
 1. De Autoriteit Consument en Markt stelt, voor de goederen en diensten waarvoor de tarieven worden berekend op grond van het artikel 7.24, tweede lid, onderdeel b, jaarlijks de tariefformules vast.
 
@@ -3238,7 +3265,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 - b. de toepassing van de tariefformules door het warmtebedrijf.
 
-#### Artikel 7.27. vaststelling tarieflimieten
+##### Artikel 7.27. vaststelling tarieflimieten
 
 1. Onze Minister stelt in overleg met Onze Minister van Financiën met het oog op het voorkomen van onevenredig hoge leveringstarieven ten opzichte van het gemiddelde van alle maximum leveringstarieven, voor kleinverbruikers die een leveringsaansluiting hebben op een klein collectief warmtesysteem jaarlijks bij besluit tarieflimieten vast die een warmtebedrijf voor de goederen en diensten, bedoeld in artikel 7.22, tweede lid, onderdelen a en b, maximaal in rekening kan brengen bij een kleinverbruiker.
 
@@ -3258,7 +3285,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 #### § 7.2.4. Tariefregulering levering van warmte door een warmtebedrijf aan grootverbruikers
 
-#### Artikel 7.28. vaststelling tarieven voor grootverbruikers bij kleine collectieve warmtesystemen
+##### Artikel 7.28. vaststelling tarieven voor grootverbruikers bij kleine collectieve warmtesystemen
 
 1. De Autoriteit Consument en Markt stelt overeenkomstig de artikelen 7.24, 7.25 en 7.26 de tarieven of tariefformules vast voor het transport en de levering van warmte, bedoeld in artikel 7.22, tweede lid, onder a, voor een periode als bedoeld in artikel 7.24, eerste lid, die een warmtebedrijf ten behoeve van het uitvoeren van de taken, bedoeld in artikel 3.7, in rekening kan brengen bij een grootverbruiker.
 
@@ -3268,7 +3295,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 #### § 7.2.5. Overige bepalingen
 
-#### Artikel 7.29. rendementsmonitor en rendementstoets
+##### Artikel 7.29. rendementsmonitor en rendementstoets
 
 1. De Autoriteit Consument en Markt verzamelt, analyseert en bewerkt inlichtingen en gegevens met betrekking tot de ontwikkeling van de rendementen behaald door de warmtebedrijven en de kosten en opbrengsten per type collectieve warmtevoorziening. De Autoriteit Consument en Markt brengt tweejaarlijks aan Onze Minister verslag uit van de monitoring.
 
@@ -3290,7 +3317,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 - b. de inlichtingen en gegevens met betrekking tot de ontwikkeling van de rendementen van warmtebedrijven die door de Autoriteit Consument en Markt worden verzameld, geanalyseerd en bewerkt.
 
-#### Artikel 7.30. Vereveningsfonds
+##### Artikel 7.30. Vereveningsfonds
 
 1. Ten gunste van het Vereveningsfonds, bedoeld in artikel 7.17, eerste lid:
 
@@ -3302,7 +3329,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 3. Uit de middelen, bedoeld in het eerste lid, onderdeel b, worden jaarlijks de op grond van artikel 7.33, eerste lid, toegekende bijdragen vergoed.
 
-#### Artikel 7.31. vereveningstoeslag
+##### Artikel 7.31. vereveningstoeslag
 
 1. De Autoriteit Consument en Markt stelt voorafgaand aan het jaar waarvoor de tarieflimieten, bedoeld in artikel 7.27, eerste lid, gelden, voor een bij ministeriële regeling te bepalen termijn, jaarlijks bij besluit een vereveningstoeslag vast.
 
@@ -3322,7 +3349,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 - d. de door een warmtebedrijf aan het Vereveningsfonds te verstrekken noodzakelijke gegevens ten behoeve van de controle van de rechtmatigheid van betaalde vereveningstoeslagen.
 
-#### Artikel 7.32. vereveningsbijdrage
+##### Artikel 7.32. vereveningsbijdrage
 
 1. Onze Minister kent op aanvraag van een warmtebedrijf dat voldaan heeft aan zijn verplichting, bedoeld in artikel 7.31, derde lid, een vereveningsbijdrage toe:
 
@@ -3340,7 +3367,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 - c. de bij de aanvraag te verstrekken gegevens en bescheiden en de termijn waarbinnen het besluit, bedoeld in het eerste lid, wordt genomen.
 
-#### Artikel 7.33. bijdrage ten behoeve van de financiële aantrekkelijkheid
+##### Artikel 7.33. bijdrage ten behoeve van de financiële aantrekkelijkheid
 
 1. Onze Minister kent op aanvraag van een warmtebedrijf een bijdrage toe indien de tarieflimieten, bedoeld in artikel 7.27, eerste lid, overeenkomstig artikel 7.27, tweede lid, op een lager bedrag zijn vastgesteld, voor zover de tarieven die zijn vastgesteld of berekend op grond van artikel 7.25, eerste lid, of berekend op grond van artikel 7.26, eerste lid, voor de levering van deze goederen en diensten, als gevolg daarvan zijn verlaagd.
 
@@ -3354,7 +3381,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 #### § 7.3. Tariefregulering levering van warmte aan ten hoogste 10 kleinverbruikers
 
-#### Artikel 7.34. vaststelling tarieven door warmtebedrijf
+##### Artikel 7.34. vaststelling tarieven door warmtebedrijf
 
 1. Een warmtebedrijf dat warmte levert aan kleinverbruikers als bedoeld in artikel 1.2, eerste lid, onderdeel c, brengt voor de levering van warmte tarieven in rekening die zijn vastgesteld met inachtneming van een vooraf door hem opgestelde berekeningsmethode.
 
@@ -3376,7 +3403,7 @@ De Autoriteit Consument en Markt kan de tarieven die gelden in een bepaald jaar 
 
 #### § 7.4. Tariefregulering verhuurders en vereniging van eigenaars die warmte doorleveren aan hun huurders en leden
 
-#### Artikel 7.35. doorlevering van warmte
+##### Artikel 7.35. doorlevering van warmte
 
 De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot en met 7.32 zijn van overeenkomstige toepassing op het transport en de levering van warmte aan grootverbruikers die zorgdragen voor de doorlevering van warmte.
 
@@ -3384,7 +3411,7 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 #### § 7.5.1. In rekening te brengen maximale tarieven
 
-#### Artikel 7.36. maximale tarieven warmtetransportbeheerder
+##### Artikel 7.36. maximale tarieven warmtetransportbeheerder
 
 1. Een warmtetransportbeheerder brengt voor het uitvoeren van de taken, bedoeld in artikel 5.6, eerste lid, ten hoogste de tarieven in rekening voor het transport van warmte die op grond van artikel 7.38, vierde lid, door de Autoriteit Consument en Markt zijn vastgesteld.
 
@@ -3394,7 +3421,7 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 #### § 7.5.2. Procedure tot vaststelling van de maximale tarieven door de Autoriteit Consument en Markt
 
-#### Artikel 7.37. methodebesluit en vaststelling toegestane warmtetransportinkomsten
+##### Artikel 7.37. methodebesluit en vaststelling toegestane warmtetransportinkomsten
 
 1. De Autoriteit Consument en Markt stelt voor een transportreguleringsperiode van minimaal een jaar en maximaal vijf jaar op basis van een door haar in een methodebesluit bepaalde methode de toegestane warmtetransportinkomsten van een warmtetransportbeheerder vast.
 
@@ -3416,7 +3443,7 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 - d. de procedure om te komen tot de vaststelling van de toegestane warmtetransportinkomsten.
 
-#### Artikel 7.38. procedure transporttariefvoorstel en vaststelling maximale tarieven door de Autoriteit Consument en Markt
+##### Artikel 7.38. procedure transporttariefvoorstel en vaststelling maximale tarieven door de Autoriteit Consument en Markt
 
 1. Een warmtetransportbeheerder zendt de Autoriteit Consument en Markt maximaal een keer per jaar en minimaal een keer in de vijf jaar voor een bij ministeriële regeling te bepalen moment een transporttariefvoorstel.
 
@@ -3460,7 +3487,7 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 11. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de verschillende categorieën op een warmtetransportnet aangesloten partijen.
 
-#### Artikel 7.39. transporttarieven op basis van werkelijke kosten
+##### Artikel 7.39. transporttarieven op basis van werkelijke kosten
 
 1. In afwijking van artikel 7.37, eerste lid, en artikel 7.38 brengt een warmtetransportbeheerder voor bij of krachtens algemene maatregel van bestuur te bepalen goederen en diensten ten hoogste de tarieven in rekening die gebaseerd zijn op de werkelijke kosten van deze goederen en diensten.
 
@@ -3474,7 +3501,7 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 #### § 7.5.3. Overige bepalingen
 
-#### Artikel 7.40. opvragen informatie door de Autoriteit Consument en Markt
+##### Artikel 7.40. opvragen informatie door de Autoriteit Consument en Markt
 
 1. De Autoriteit Consument en Markt kan regulatorische accountingregels vaststellen voor de transportreguleringsperiode, bedoeld in artikel 7.36, eerste lid, waardoor inzicht verkregen kan worden in de daadwerkelijke kosten gemaakt door de warmtetransportbeheerder.
 
@@ -3482,7 +3509,7 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 3. De informatie, bedoeld in het tweede lid, is gecontroleerd door een registeraccountant indien de Autoriteit Consument en Markt daarom heeft verzocht.
 
-#### Artikel 7.41. overige verplichtingen warmtetransportbeheerder
+##### Artikel 7.41. overige verplichtingen warmtetransportbeheerder
 
 1. Een warmtetransportbeheerder voert een afzonderlijke boekhouding voor de uitvoering van de taken, bedoeld in artikel 5.6, eerste lid.
 
@@ -3490,7 +3517,7 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 ### Hoofdstuk 8. Besluit vereniging van eigenaars tot aansluiting op warmte
 
-#### Artikel 8.1. besluit vereniging van eigenaars tot aanvaarding aanbod warmtebedrijf in geval van artikel 2.26
+##### Artikel 8.1. besluit vereniging van eigenaars tot aanvaarding aanbod warmtebedrijf in geval van artikel 2.26
 
 1. Een vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm stelt haar leden gedurende twee maanden na het aanbod van een aangewezen warmtebedrijf, bedoeld in artikel 2.26, in de gelegenheid bij de vereniging en het aangewezen warmtebedrijf kenbaar te maken geen aansluitovereenkomst met het aangewezen warmtebedrijf te willen aangaan.
 
@@ -3500,7 +3527,7 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 4. De overeenkomst, bedoeld in het tweede lid, geldt uitsluitend ten aanzien van de appartementseigenaars die rechthebbende zijn van een appartementsrecht, dat de bevoegdheid omvat tot het uitsluitend gebruik van bepaalde gedeelten van het gebouw die blijkens hun inrichting bestemd zijn of worden om als afzonderlijk geheel te worden gebruikt en voor verblijf van personen bestemd zijn.
 
-#### Artikel 8.2. bezwaar leden vereniging van eigenaars tegen aansluiting op een collectieve warmtevoorziening
+##### Artikel 8.2. bezwaar leden vereniging van eigenaars tegen aansluiting op een collectieve warmtevoorziening
 
 1. Het aangewezen warmtebedrijf adviseert binnen twee maanden na de melding van een lid van een vereniging als bedoeld in artikel 8.1, eerste lid, dit lid en deze vereniging of aan de voorwaarden van dat artikel wordt voldaan.
 
@@ -3512,7 +3539,7 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 - b. indien een klacht bij het aangewezen warmtebedrijf tegen het advies overeenkomstig het tweede lid is ingediend, na de afhandeling van deze klacht door het aangewezen warmtebedrijf.
 
-#### Artikel 8.3. kostenverdeling vereniging van eigenaars bij aansluiting op een collectieve warmtevoorziening
+##### Artikel 8.3. kostenverdeling vereniging van eigenaars bij aansluiting op een collectieve warmtevoorziening
 
 1. De kosten en schulden die voortvloeien uit de overeenkomst, bedoeld in artikel 8.1, tweede lid, en de financiering van die overeenkomst, komen in afwijking van artikel 113, tweede lid, van Boek 5 van het Burgerlijk Wetboek voor rekening van de gezamenlijke appartementseigenaars namens wie de overeenkomst is aangegaan.
 
@@ -3524,7 +3551,7 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 5. In de overeenkomst, bedoeld in artikel 8.1, tweede lid, kan worden bepaald dat het aangewezen warmtebedrijf, in afwijking van het tweede en derde lid, zonder tussenkomst van de vereniging van eigenaars de kosten en schulden in rekening brengt bij de appartementseigenaars namens wie de overeenkomst is aangegaan, onverminderd hetgeen in het tweede, derde en vierde lid, is bepaald ten aanzien van de verdeling van de kosten.
 
-#### Artikel 8.4. verplichtingen leden vereniging van eigenaars bij aansluiting op een collectieve warmtevoorziening
+##### Artikel 8.4. verplichtingen leden vereniging van eigenaars bij aansluiting op een collectieve warmtevoorziening
 
 1. Indien het bestuur van een vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm een aansluitovereenkomst met het aangewezen warmtebedrijf als bedoeld in artikel 8.1, tweede lid, aangaat, is een lid van deze vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm verplicht medewerking te verlenen aan de uitvoering van de werkzaamheden die redelijkerwijs noodzakelijk zijn ten behoeve van de aanleg, instandhouding en verwijdering van de collectieve warmtevoorziening in de betreffende gedeelten van het gebouw, met inbegrip van de gedeelten die bestemd zijn om als afzonderlijk geheel door hem te worden gebruikt.
 
@@ -3542,13 +3569,13 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 8. Dit artikel is niet van toepassing op een lid van een vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm, ten aanzien waarvan de bevoegdheid, bedoeld in artikel 8.1, tweede lid, niet geldt krachtens het derde en vierde lid van dat artikel.
 
-#### Artikel 8.5. besluit vereniging van eigenaars tot aansluiting op een klein collectief warmtesysteem
+##### Artikel 8.5. besluit vereniging van eigenaars tot aansluiting op een klein collectief warmtesysteem
 
 1. De artikelen 8.1, eerste lid, en 8.2 zijn van overeenkomstige toepassing op het besluit van een vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm om een aanbod van een warmtebedrijf om het gebouw aan te sluiten op een klein collectief warmtesysteem als bedoeld in artikel 2.26, gelezen in samenhang met artikel 3.8, al dan niet stilzwijgend te aanvaarden.
 
 2. Indien een vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm besluit om een aanbod van het warmtebedrijf als bedoeld in het eerste lid al dan niet stilzwijgend te aanvaarden, zijn de artikelen 8.1, tweede tot en met vierde lid, 8.3 en 8.4 van overeenkomstige toepassing.
 
-#### Artikel 8.6. besluit vereniging van eigenaars tot aansluiting op een collectieve warmtevoorziening of een klein collectief warmtesysteem in geval van levering van warmte aan ten hoogste 10 natuurlijke personen of rechtspersonen en in geval van doorlevering van warmte
+##### Artikel 8.6. besluit vereniging van eigenaars tot aansluiting op een collectieve warmtevoorziening of een klein collectief warmtesysteem in geval van levering van warmte aan ten hoogste 10 natuurlijke personen of rechtspersonen en in geval van doorlevering van warmte
 
 1. De artikelen 8.1, eerste lid, en 8.2 zijn van overeenkomstige toepassing op het besluit van een vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm, om al dan niet een aanbod van een warmtebedrijf om het gebouw aan te sluiten op een collectieve warmtevoorziening of klein collectief warmtesysteem als bedoeld in artikel 2.26 al dan niet stilzwijgend te aanvaarden waardoor:
 
@@ -3558,7 +3585,7 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 2. Indien een vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm besluit om een aanbod van een warmtebedrijf als bedoeld in het eerste lid al dan niet stilzwijgend te aanvaarden, zijn de artikelen 8.1, tweede tot en met vierde lid, 8.3 en 8.4 van overeenkomstige toepassing.
 
-#### Artikel 8.7. besluit vereniging van eigenaars om aan zijn eigen leden warmte te leveren
+##### Artikel 8.7. besluit vereniging van eigenaars om aan zijn eigen leden warmte te leveren
 
 1. In het geval een vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm eigenaar is van een gebouw dat zich bevindt binnen een warmtekavel en waarvoor in een omgevingsplan regels zijn gesteld die in een gebied het gebruik van gas uitsluiten als warmtevoorziening van gebouwen, en voor zover van toepassing, voor de energievoorziening van milieubelastende activiteiten, als bedoeld in artikel 62a Gaswet, en waarvoor verwarming door een collectief warmtesysteem is aangewezen, zijn op het besluit van deze vereniging, om aan zijn leden warmte te leveren waarvoor op grond van artikel 4.1, eerste lid, een verplichting geldt dit te melden aan het college, de artikelen 8.1, eerste lid, en 8.2 van overeenkomstige toepassing.
 
@@ -3566,7 +3593,7 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 ### Hoofdstuk 9. Informatieverstrekking en verwerking persoonsgegevens
 
-#### Artikel 9.1. informatieverstrekking
+##### Artikel 9.1. informatieverstrekking
 
 1. Onze Minister en het college kunnen van eenieder gegevens of inlichtingen verlangen die redelijkerwijs nodig zijn voor de uitoefening van aan hen bij of krachtens deze wet gegeven bevoegdheden.
 
@@ -3580,7 +3607,7 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 4. Onze Minister en het college gebruiken gegevens of inlichtingen welke zij hebben verkregen in verband met enige werkzaamheid ten behoeve van de uitvoering van een bevoegdheid op grond van deze wet uitsluitend voor de uitoefening van die bevoegdheid.
 
-#### Artikel 9.2. verwerking van persoonsgegevens
+##### Artikel 9.2. verwerking van persoonsgegevens
 
 1. Onze Minister, de Autoriteit Consument en Markt en het college verwerken slechts persoonsgegevens voor zover dit noodzakelijk is voor de uitoefening van aan hen bij of krachtens deze wet gegeven bevoegdheden.
 
@@ -3592,7 +3619,7 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 #### § 10.1. Toezicht
 
-#### Artikel 10.1. toezicht college en Autoriteit Consument en Markt
+##### Artikel 10.1. toezicht college en Autoriteit Consument en Markt
 
 1. Met het toezicht op de naleving van het bij of krachtens de artikelen 1.2, tweede tot en met vierde lid, 2.3, 2.11, 2.13, 2.14, 2.15, 2.17 tot en met 2.21, 2.23 tot en met 2.32, 2.34, eerste en derde lid, 2.36 tot en met 2.44, 2.46, 2.47, 2.49, 2.50, onderdeel b, 3.7 tot en met 3.10, 3.13, onderdeel b, 4.6, 5.6, 5.7 tot en met 5.18, 6.1 tot en met 6.2, 6.5, 6.7, 6.10 tot en met 6.13, 6.15, 6.16, onderdeel a, 7.1, 7.8, 7.10, tweede en derde lid, 7.12 tot en met 7.14, 7.16, 7.18, derde tot en met vijfde lid, 7.21, tweede lid, 7.22, 7.28, tweede lid, 7.31, derde tot en met vijfde lid, 7.34, 7.35, 7.36, 7.38, 10.2, eerste lid, 10.5 tot en met 10.9, 11, 13.7, 13.9, 13.10, tweede tot en met vijfde lid, 12.14, tweede lid, 13.17 en 13.19, onderdeel b, bepaalde zijn belast de daartoe bij besluit van de Autoriteit Consument en Markt aangewezen personen.
 
@@ -3606,13 +3633,13 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 #### § 10.2. Handhaving
 
-#### Artikel 10.2. bindende gedragslijn
+##### Artikel 10.2. bindende gedragslijn
 
 1. De Autoriteit Consument en Markt kan ter verzekering van de naleving een bindende gedragslijn opleggen met betrekking tot de artikelen waarvoor haar het toezicht op de naleving is opgedragen.
 
 2. Het college kan ter verzekering van de naleving een bindende gedragslijn opleggen met betrekking tot de artikelen waarvoor aan het college het toezicht op de naleving is opgedragen.
 
-#### Artikel 10.3. last onder dwangsom
+##### Artikel 10.3. last onder dwangsom
 
 1. De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens de artikelen waarvoor haar op grond van artikel 10.1, eerste lid, het toezicht op de naleving is opgedragen de overtreder een last onder dwangsom opleggen.
 
@@ -3622,7 +3649,7 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 4. Onze Minister kan in geval van overtreding van de artikelen 6.14, eerste en vierde lid, en 6.16, onderdeel b, de overtreder een last onder dwangsom opleggen.
 
-#### Artikel 10.4. bestuurlijke boete
+##### Artikel 10.4. bestuurlijke boete
 
 1. De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens de artikelen 1.2, derde en vierde lid, 2.3, 2.13, eerste tot en met derde lid, en achtste lid, 2.14, eerste, tweede en vierde lid, 2.15, eerste, tweede, vierde en zesde lid, 2.16, tweede en elfde lid, 2.17, eerste, tweede, zesde tot en met elfde lid, 2.18, eerste, vijfde en zesde lid, 2.19, 2.20, eerste en derde lid, 2.23, 2.24, eerste en derde lid, 2.25, eerste, tweede en vijfde lid, 2.26, eerste, derde en vierde lid, 2.27, eerste lid, 2.29, eerste lid, 2.30, 2.31, 2.32, 2.34, eerste lid, 2.36 tot en met 2.44, 2.46, 2.47, 3.7, eerste, tweede, derde en zesde lid, 3.8, 3.9, eerste tot en met derde lid, vijfde en zevende lid, 3.9, eerste, tweede, vijfde en zesde lid, 4.6, 5.6, eerste lid, onderdelen b tot en met i, derde lid, 5.7, eerste, tweede en vierde lid, 5.8, eerste, tweede, vierde en zesde lid, 5.9, eerste, tweede, zesde tot en met tiende lid, 5.10, eerste, tweede, derde, zesde tot en met achtste lid, 5.11, 5.12, eerste en vierde lid, 5.13, eerste en derde lid, 5.14, eerste lid, 5.15, eerste, tweede en vierde lid, 5.16, eerste, derde en vijfde lid, 5.17, 5.18, 6.1, 6.2, eerste tot en met vierde lid, zesde lid, 6.7, 6.10, eerste, tweede, vijfde en zesde lid, 6.12, 6.13, 6.15, eerste lid, 7.1, eerste tot en met vierde lid, zevende lid, 7.8, eerste, tweede, zesde, tiende en elfde lid, 7.10, tweede en derde lid, 7.12, eerste lid, 7.13, eerste en tweede lid, 7.18, derde tot en met vijfde lid, 7.22, eerste tot en met vierde lid, achtste lid, 7.31, derde tot en met vijfde lid, 7.34, eerste en tweede lid, 7.36, 7.38, eerste, tweede en vijfde lid, 7.40, tweede en derde lid, 7.41, 10.5, derde lid, 10.6, vijfde lid, 10.7, vierde lid, 10.8, tweede lid, 13.5, tweede, derde en vijfde lid, en 13.9, eerste lid, vijfde lid, onderdeel a, zesde lid, onderdeel a, en 13.10, tweede tot en met vierde lid, de overtreder een bestuurlijke boete opleggen van ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, of, indien dat meer is, van ten hoogste 1% van de omzet van de overtreder.
 
@@ -3640,7 +3667,7 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 #### § 10.3. Interventiebevoegdheden Autoriteit Consument en Markt
 
-#### Artikel 10.5. opdragen maatregelen aan een derde
+##### Artikel 10.5. opdragen maatregelen aan een derde
 
 1. De Autoriteit Consument en Markt kan eenieder ander dan het warmtebedrijf opdragen maatregelen te treffen indien:
 
@@ -3678,7 +3705,7 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 - d. de procedure en de vereisten die gelden in geval op grond van het vijfde lid een noodwarmtebedrijf wordt opgedragen de levering van warmte over te nemen of op grond van het zesde lid een noodwarmtetransportbeheerder wordt opgedragen het transport van warmte over te nemen.
 
-#### Artikel 10.6. stille bewindvoerder
+##### Artikel 10.6. stille bewindvoerder
 
 1. De Autoriteit Consument en Markt kan een persoon aanwijzen die voor een bepaalde termijn opdrachten kan verstrekken aan een warmtebedrijf indien door de bedrijfsvoering van het warmtebedrijf de leveringszekerheid onvoldoende verzekerd wordt en direct ingrijpen noodzakelijk is om de leveringszekerheid te verzekeren.
 
@@ -3700,7 +3727,7 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 10. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over welke opdrachten een aangewezen persoon kan geven.
 
-#### Artikel 10.7. vervanging van het bestuur
+##### Artikel 10.7. vervanging van het bestuur
 
 1. De Autoriteit Consument en Markt kan een of meer personen aanwijzen die het bestuur of de leiding van een warmtebedrijf, vervangt dan wel vervangen, indien:
 
@@ -3726,19 +3753,19 @@ De artikelen 7.1, 7.2, 7.6, 7.17 tot en met 7.19, 7.22, 7.23, 7.27 en 7.30 tot e
 
 #### § 10.4. Overige bepalingen
 
-#### Artikel 10.8. metingen door de Autoriteit Consument en Markt
+##### Artikel 10.8. metingen door de Autoriteit Consument en Markt
 
 1. De Autoriteit Consument en Markt kan bij een producent, warmtebedrijf, warmtetransportbeheerder of verbruiker metingen verrichten of doen verrichten.
 
 2. De producent, warmtebedrijf, warmtetransportbeheerder of verbruiker verleent medewerking aan de metingen die in zijn leidingen, installaties of hulpmiddelen worden verricht.
 
-#### Artikel 10.9. verbod handelen in strijd met voorschriften en beperkingen
+##### Artikel 10.9. verbod handelen in strijd met voorschriften en beperkingen
 
 Het is verboden te handelen in strijd met een voorschrift of beperking als bedoeld in de artikelen 10.5, vierde lid, 10.6, vierde lid, en 10.7, derde lid.
 
 ### Hoofdstuk 11. Geschilbeslechting
 
-#### Artikel 11. geschilbeslechting
+##### Artikel 11. geschilbeslechting
 
 1. Een warmtebedrijf stelt een onafhankelijke geschillencommissie in waaraan een verbruiker of gebouweigenaar een geschil met een warmtebedrijf kan voorleggen over:
 
@@ -3752,11 +3779,11 @@ Het is verboden te handelen in strijd met een voorschrift of beperking als bedoe
 
 ### Hoofdstuk 12. Overige bepalingen
 
-#### Artikel 12.1. verbod stellen regels
+##### Artikel 12.1. verbod stellen regels
 
 Gedeputeerde staten, provinciale staten, het college en de gemeenteraad zijn niet bevoegd regels te stellen ten aanzien van het leveren, transporteren, produceren en inkopen van warmte, het beschikbaar stellen van restwarmte en de tarieven die daarvoor in rekening kunnen worden gebracht in het belang van een betrouwbare, betaalbare en broeikasgassen-vrije warmtevoorziening.
 
-#### Artikel 12.2. vergoeding kosten verlening beschikkingen
+##### Artikel 12.2. vergoeding kosten verlening beschikkingen
 
 1. Aan het college is een door het college vast te stellen vergoeding verschuldigd voor het nemen van een besluit op grond van de artikelen 2.5, eerste lid, 2.7, eerste lid, 2.10, eerste lid, 3.2, eerste lid, 3.3, eerste lid, 3.5, eerste lid, 4.2, eerste lid, en 4.3, vijfde lid, voor ten hoogste de kosten die gemoeid zijn met het geven van die beschikkingen.
 
@@ -3768,11 +3795,11 @@ Gedeputeerde staten, provinciale staten, het college en de gemeenteraad zijn nie
 
 5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de vaststelling van de vergoeding.
 
-#### Artikel 12.3. representatieve organisatie belanghebbende
+##### Artikel 12.3. representatieve organisatie belanghebbende
 
 Een representatieve organisatie wordt geacht belanghebbende te zijn bij besluiten, niet zijnde beschikkingen, genomen op grond hoofdstuk 7 van deze wet.
 
-#### Artikel 12.4. inbreukprocedure bij het College van Beroep voor het bedrijfsleven
+##### Artikel 12.4. inbreukprocedure bij het College van Beroep voor het bedrijfsleven
 
 1. Op verzoek van een representatieve organisatie kan het College van Beroep voor het bedrijfsleven bevelen dat een warmtebedrijf een handelen of nalaten van een warmtebedrijf staakt dat:
 
@@ -3788,7 +3815,7 @@ Een representatieve organisatie wordt geacht belanghebbende te zijn bij besluite
 
 3. Geschillen terzake de tenuitvoerlegging van de in het eerste en tweede lid bedoelde veroordelingen worden bij uitsluiting door het College van Beroep voor het bedrijfsleven beslist.
 
-#### Artikel 12.5. rechtsbescherming
+##### Artikel 12.5. rechtsbescherming
 
 Voor de mogelijkheid van bezwaar en beroep en de behandeling van en de uitspraak op bezwaar en beroep wordt:
 
@@ -3796,13 +3823,13 @@ Voor de mogelijkheid van bezwaar en beroep en de behandeling van en de uitspraak
 
 - b. het besluit tot wijziging van een warmtekavel en wijziging van een aanwijzing op grond van artikel 2.8, eerste, vijfde en zesde lid, als één besluit aangemerkt.
 
-#### Artikel 12.6. bevorderen ontwikkeling warmtegemeenschappen
+##### Artikel 12.6. bevorderen ontwikkeling warmtegemeenschappen
 
 1. Onze Minister stelt na overleg met de representatieve organisaties van warmtegemeenschappen een faciliterend kader vast gericht op de bevordering van de ontwikkeling van warmtegemeenschappen.
 
 2. Het faciliterend kader, bedoeld in het eerste lid, wordt driejaarlijks geactualiseerd op basis van een knelpuntenanalyse waarbij de zienswijze van representatieve organisaties van warmtegemeenschappen wordt betrokken.
 
-#### Artikel 12.7. deelneming
+##### Artikel 12.7. deelneming
 
 1. In het belang van het stimuleren van de warmtetransitie kan Onze Minister besluiten een naamloze of een besloten vennootschap met beperkte aansprakelijkheid aan te wijzen, waarvan alle aandelen middellijk of onmiddellijk aan de Staat der Nederlanden behoren, die tot taak heeft:
 
@@ -3822,13 +3849,13 @@ Voor de mogelijkheid van bezwaar en beroep en de behandeling van en de uitspraak
 
 - b. het regionaal warmtebedrijf en de termijn, bedoeld in het tweede lid.
 
-#### Artikel 12.8. relatieve betaalbaarheid collectieve warmte
+##### Artikel 12.8. relatieve betaalbaarheid collectieve warmte
 
 1. Onze Minister verzekert bij de inwerkingtreding van de artikelen 7.3 tot en met 7.5 dat de relatieve betaalbaarheid van collectieve warmte voor kleinverbruikers dan wel grootverbruikers die zorgdragen voor de doorlevering van warmte, na inwerkingtreding van de artikelen 7.3 tot en met 7.5, 7.7 en 7.8 is geborgd.
 
 2. Onze Minister verzekert bij de inwerkingtreding van de artikelen 7.24 tot en met 7.26 dat de relatieve betaalbaarheid van collectieve warmte voor kleinverbruikers dan wel grootverbruikers die zorgdragen voor de doorlevering van warmte, na inwerkingtreding van de artikelen 7.24 tot en met 7.26 is geborgd.
 
-#### Artikel 12.9. parlementaire betrokkenheid
+##### Artikel 12.9. parlementaire betrokkenheid
 
 1. Het koninklijk besluit waarmee de in artikel 13.32, derde tot en met negende lid, genoemde artikelen in werking treden, treedt niet eerder in werking dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
@@ -3838,7 +3865,7 @@ Voor de mogelijkheid van bezwaar en beroep en de behandeling van en de uitspraak
 
 4. De voordracht voor een krachtens de artikelen 7.1, zesde lid en zevende lid, onderdeel c, 7.2, derde en vijfde lid, 7.3, vijfde en achtste lid, 7.6, zesde lid, 7.7, zesde lid, 7.9, zesde lid, 7.13, vijfde lid, 7.15, zesde lid, 7.18, vijfde lid, 7.19, derde lid, 7.22, achtste en negende lid, onderdeel b, 7.23, derde en zesde lid, 7.24, vijfde en achtste lid, 7.27, zesde lid, 7.29, zesde lid, 7.31, vijfde lid, 7.32, derde lid, en 7.34, vijfde lid, vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 12.10. lex silencio positivo
+##### Artikel 12.10. lex silencio positivo
 
 Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op besluiten genomen bij of krachtens hoofdstukken 2, 3, 4, 5, 6 en 12.
 
@@ -3846,7 +3873,7 @@ Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet 
 
 #### § 13.1. Evaluatie
 
-#### Artikel 13.1. evaluatie
+##### Artikel 13.1. evaluatie
 
 Onze Minister zendt binnen zeven jaar na de inwerkingtreding van dit artikel aan de Staten-Generaal een verslag over de doeltreffendheid, de uitvoerbaarheid en de effecten van deze wet in de praktijk. Hierbij wordt ten minste aandacht besteed aan de mate waarin de publieke belangen van betaalbaarheid, leveringszekerheid en duurzaamheid voldoende zijn gewaarborgd, en aan de mate waarin deze wet heeft bijgedragen aan de groei van het aantal collectieve warmtevoorzieningen, kleine collectieve warmtesystemen en leveringsaansluitingen in de gebouwde omgeving.
 
@@ -3854,7 +3881,7 @@ Onze Minister zendt binnen zeven jaar na de inwerkingtreding van dit artikel aan
 
 #### § 13.2.1. Bestaande collectieve warmtevoorzieningen
 
-#### Artikel 13.2. aanwijzing bestaande warmtebedrijven voor een warmtekavel
+##### Artikel 13.2. aanwijzing bestaande warmtebedrijven voor een warmtekavel
 
 1. Indien op het tijdstip van inwerkingtreding van dit artikel een overeenkomst geldt waarin een gemeente een warmtebedrijf voor een gebied het recht heeft gegeven of de verplichting heeft opgelegd warmte te transporteren en te leveren aan verbruikers, een collectieve warmtevoorziening te exploiteren of verbruikers aan te sluiten op een collectieve warmtevoorziening, verleent het college binnen een jaar na inwerkingtreding van dit artikel een aanwijzing voor dit gebied.
 
@@ -3888,7 +3915,7 @@ Onze Minister zendt binnen zeven jaar na de inwerkingtreding van dit artikel aan
 
 11. Dit artikel is niet van toepassing op de levering van warmte door een warmtebedrijf met een klein collectief warmtesysteem, bedoeld in artikel 13.12, eerste lid.
 
-#### Artikel 13.3. verplichting samenvoegen van gebieden bij één collectief warmtesysteem
+##### Artikel 13.3. verplichting samenvoegen van gebieden bij één collectief warmtesysteem
 
 1. In afwijking van artikel 13.2 wijst het college maar één warmtebedrijf aan voor de gebieden, bedoeld in artikel 13.2, eerste, tweede, derde, vierde of vijfde lid, indien:
 
@@ -3902,7 +3929,7 @@ Onze Minister zendt binnen zeven jaar na de inwerkingtreding van dit artikel aan
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de omstandigheden waarin er sprake is van afhankelijkheid van de toegang, bedoeld in het eerste lid, onderdeel a.
 
-#### Artikel 13.4. voorschriften en beperkingen aanwijzing
+##### Artikel 13.4. voorschriften en beperkingen aanwijzing
 
 1. De voorwaarden die aan een overeenkomst als bedoeld in artikel 13.2, eerste lid, zijn verbonden, gaan gelden als aan de aanwijzing verbonden beperkingen en voorschriften, voor zover deze voorwaarden niet in strijd zijn met het bepaalde bij of krachtens deze wet met uitzondering van de in artikel 2.5, eerste lid, en 2.7, eerste lid, genoemde duur van de aanwijzing. Het college stelt bij het besluit, bedoeld in artikel 13.2, eerste lid, de beperkingen en voorschriften vast.
 
@@ -3932,7 +3959,7 @@ Onze Minister zendt binnen zeven jaar na de inwerkingtreding van dit artikel aan
 
 8. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de toepassing van het tweede lid en zevende lid.
 
-#### Artikel 13.5. tijdelijke aanwijzing van een niet integraal warmtebedrijf
+##### Artikel 13.5. tijdelijke aanwijzing van een niet integraal warmtebedrijf
 
 1. Indien op het tijdstip van inwerkingtreding van dit artikel in een warmtekavel niet een onderneming aanwezig is die zich bezig houdt met het transport en de levering van warmte en de productie of inkoop van warmte ten behoeve daarvan maar alleen een warmtenetbedrijf en een warmteleveringsbedrijf, verleent het college het warmteleveringsbedrijf de aanwijzing op grond van artikel 13.2, eerste, tweede, derde, vierde of vijfde lid, of 13.3.
 
@@ -3948,15 +3975,15 @@ Onze Minister zendt binnen zeven jaar na de inwerkingtreding van dit artikel aan
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de overeenkomst, bedoeld in het derde lid.
 
-#### Artikel 13.6. toezending aan de Autoriteit Consument en Markt
+##### Artikel 13.6. toezending aan de Autoriteit Consument en Markt
 
 Het college zendt aan de Autoriteit Consument en Markt een afschrift van de aanwijzing, bedoeld in artikel 13.2, eerste tot en met vijfde lid, 13.3, eerste lid, en 13.5, vierde lid, onderdeel a.
 
-#### Artikel 13.7. taken
+##### Artikel 13.7. taken
 
 Op een op grond van artikel 13.2 of 13.3 aangewezen warmtebedrijf rusten vanaf het tijdstip waarop het college op grond van artikel 13.8, tweede lid, heeft ingestemd met het uitgewerkt kavelplan, de taken, bedoeld in artikel 2.13.
 
-#### Artikel 13.8. uitgewerkt kavelplan
+##### Artikel 13.8. uitgewerkt kavelplan
 
 1. Een op grond van artikel 13.2 of 13.3 aangewezen warmtebedrijf stelt binnen een bij ministeriële regeling te bepalen termijn een uitgewerkt kavelplan op voor de warmtekavel waarvoor het is aangewezen met dien verstande dat in het uitgewerkt kavelplan de kenmerken van de collectieve warmtevoorziening waarop de aanwijzing betrekking heeft zijn weergegeven.
 
@@ -3976,7 +4003,7 @@ Op een op grond van artikel 13.2 of 13.3 aangewezen warmtebedrijf rusten vanaf h
 
 4. Het college kan voorschriften en beperkingen aan een instemming verbinden.
 
-#### Artikel 13.9. derdentoegang tot een bestaande collectieve warmtevoorziening
+##### Artikel 13.9. derdentoegang tot een bestaande collectieve warmtevoorziening
 
 1. Een op grond van artikel 13.2 of 13.3 aangewezen warmtebedrijf verleent een ander warmtebedrijf dat aangewezen wil worden voor een warmtekavel toegang tot zijn collectieve warmtevoorziening tegen redelijke voorwaarden en tarieven.
 
@@ -4000,7 +4027,7 @@ Op een op grond van artikel 13.2 of 13.3 aangewezen warmtebedrijf rusten vanaf h
 
 - c. de voorschriften en beperkingen die aan een ontheffing kunnen worden verbonden.
 
-#### Artikel 13.10. economische en juridische eigendom van een bestaand warmtenet
+##### Artikel 13.10. economische en juridische eigendom van een bestaand warmtenet
 
 1. Indien op het tijdstip van inwerkingtreding van dit artikel een openbaar lichaam beschikt over de juridische eigendom van een warmtenet van een aangewezen warmtebedrijf kan in afwijking van artikel 2.45, eerste lid, dit openbaar lichaam juridisch eigenaar blijven van dit warmtenet met dien verstande dat het aangewezen warmtebedrijf beschikt over de economische eigendom van dit warmtenet.
 
@@ -4012,7 +4039,7 @@ Op een op grond van artikel 13.2 of 13.3 aangewezen warmtebedrijf rusten vanaf h
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de overeenkomst, bedoeld in het tweede en derde lid.
 
-#### Artikel 13.11. overgangsrecht overeenkomsten uitbesteden taken artikel 2.13
+##### Artikel 13.11. overgangsrecht overeenkomsten uitbesteden taken artikel 2.13
 
 1. Artikel 2.13, vijfde lid, onderdelen a en b, is niet van toepassing op warmtebedrijven die op grond van artikel 13.2 of 13.3 zijn aangewezen.
 
@@ -4020,7 +4047,7 @@ Op een op grond van artikel 13.2 of 13.3 aangewezen warmtebedrijf rusten vanaf h
 
 #### § 13.2.2. Bestaande kleine collectieve warmtesystemen
 
-#### Artikel 13.12. ontheffing bestaande klein collectief warmtesysteem
+##### Artikel 13.12. ontheffing bestaande klein collectief warmtesysteem
 
 1. Het college kan op aanvraag van een warmtebedrijf dat op het tijdstip van inwerkingtreding van dit artikel warmte levert en transporteert met een klein collectief warmtesysteem een ontheffing verlenen van artikel 1.2, eerste lid. Het warmtebedrijf dient binnen een half jaar na het tijdstip van inwerkingtreding van dit artikel een aanvraag in. De ontheffing geldt voor de gebieden, bedoeld in artikel 13.2, eerste tot en met vijfde lid, voor zover deze betrekking hebben op het klein collectief warmtesysteem. Artikel 13.2, zesde en achtste lid, is van overeenkomstige toepassing. In de ontheffing wordt het gebied aangegeven waarvoor de ontheffing geldt.
 
@@ -4042,7 +4069,7 @@ Op een op grond van artikel 13.2 of 13.3 aangewezen warmtebedrijf rusten vanaf h
 
 #### § 13.2.3. Bestaande verhuurders en verenigingen van eigenaars
 
-#### Artikel 13.13. ontheffing bestaande verhuurders en verenigingen van eigenaars
+##### Artikel 13.13. ontheffing bestaande verhuurders en verenigingen van eigenaars
 
 1. Een verhuurder of een vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm meldt binnen een half jaar na inwerkingtreding van dit artikel aan het college de levering en transport van warmte op het tijdstip van inwerkingtreding van dit artikel in een bepaald gebied aan zijn huurder of de leden van de vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm tenzij:
 
@@ -4056,7 +4083,7 @@ Op een op grond van artikel 13.2 of 13.3 aangewezen warmtebedrijf rusten vanaf h
 
 #### § 13.2.4. Bestaande warmtetransportnetten
 
-#### Artikel 13.14. aanwijzing warmtetransportbeheerder
+##### Artikel 13.14. aanwijzing warmtetransportbeheerder
 
 1. Indien op het tijdstip van inwerkingtreding van dit artikel een warmtetransportonderneming een warmtetransportnet in een gebied in ontwikkeling en aangelegd heeft, verleent Onze Minister binnen een half jaar na inwerkingtreding van dit artikel de onderneming een aanwijzing voor dit gebied voor minimaal 20 en maximaal 30 jaar indien de onderneming voldoet aan de voorwaarden gesteld in de artikelen 5.11, 5.12 en 5.14. Op de beoordeling van de aanvraag is artikel 5.1, zesde lid, van overeenkomstige toepassing.
 
@@ -4076,27 +4103,27 @@ Op een op grond van artikel 13.2 of 13.3 aangewezen warmtebedrijf rusten vanaf h
 
 #### § 13.2.5. Bestaande warmteproductie
 
-#### Artikel 13.15. restwarmte
+##### Artikel 13.15. restwarmte
 
 Artikel 6.2 is niet van toepassing op het ter beschikking stellen van restwarmte die deze warmte ongebruikt terecht laat komen in lucht en water op basis van een overeenkomst tussen een producent van restwarmte en een warmtebedrijf die geldt op het moment van inwerkingtreding van dit artikel, met uitzondering van een wijziging van deze overeenkomst.
 
-#### Artikel 13.16. garanties van oorsprong
+##### Artikel 13.16. garanties van oorsprong
 
 1. Een rekening die is geopend op grond van artikel 25, eerste lid, van de Warmtewet zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 6.4, tweede lid, wordt aangemerkt als rekening geopend op grond van artikel 6.4, tweede lid.
 
 2. Een garantie van oorsprong voor thermische energie uit hernieuwbare bronnen die is uitgegeven op grond van artikel 25 van de Warmtewet zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 6.4, eerste lid, wordt aangemerkt als garantie van oorsprong voor thermische energie uit hernieuwbare bronnen als bedoeld in artikel 6.4, eerste lid.
 
-#### Artikel 13.17. erkenning meetverantwoordelijk partij
+##### Artikel 13.17. erkenning meetverantwoordelijk partij
 
 Een onderneming die op het tijdstip van inwerkingtreding van dit artikel activiteiten verricht als bedoeld in artikel 6.5, eerste lid, vraagt binnen twee jaar na dit tijdstip een erkenning als bedoeld in artikel 6.10, derde lid, aan bij de Autoriteit Consument en Markt.
 
-#### Artikel 13.18. hernieuwbare bron
+##### Artikel 13.18. hernieuwbare bron
 
 Ten aanzien van een warmtebedrijf dat op grond van artikel 13.2 of 13.3 is aangewezen of dat op grond van artikel 13.12, eerste lid, een ontheffing heeft verkregen, geldt in afwijking van de definitie van hernieuwbare bron in artikel 1.1, en de definitie van hernieuwbare bronnen in artikel 6.3, niet de eis dat houtige biomassa niet is toegestaan als hernieuwbare bron.
 
 #### § 13.3. Overige bepalingen
 
-#### Artikel 13.19. verbod handelen in strijd met voorschriften en beperkingen
+##### Artikel 13.19. verbod handelen in strijd met voorschriften en beperkingen
 
 Het is verboden te handelen in strijd met een voorschrift of beperking:
 
@@ -4104,7 +4131,7 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 - b. als bedoeld in de artikelen 13.9, vierde lid, en 13.14, tweede lid.
 
-#### Artikel 13.20. kenmerken binneninstallatie en warmtebehoefte in een leveringsovereenkomst
+##### Artikel 13.20. kenmerken binneninstallatie en warmtebehoefte in een leveringsovereenkomst
 
 1. De kenmerken van de binneninstallatie en de warmtebehoefte van het gebouw zoals die op het tijdstip van inwerkingtreding van de artikelen 2.16 en 2.31 in een leveringsovereenkomst tussen een op grond van artikel 13.2 of 13.3 aangewezen warmtebedrijf of een warmtebedrijf waaraan op grond van artikel 13.12, eerste lid, een ontheffing is verleend dan wel een warmtebedrijf waaraan een ontheffing als bedoeld in artikel 3.2, eerste lid, is verleend, en een verbruiker staan, worden beschouwd als te voldoen aan de vereisten van de kenmerken van de binneninstallatie en de warmtebehoefte van het gebouw als bedoeld in artikel 2.31, eerste lid, onderdelen d en f, en de kenmerken van de binneninstallatie en de warmtebehoefte van het gebouw als bedoeld in artikel 2.16, tweede lid, onderdelen c en d.
 
@@ -4112,13 +4139,13 @@ Het is verboden te handelen in strijd met een voorschrift of beperking:
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over wanneer sprake is van gebrekkig onderhoud of het verkeerd ingeregeld zijn van de binneninstallatie als bedoeld in het tweede lid.
 
-#### Artikel 13.21. overgangsrecht aanhangige procedures op grond van de Warmtewet
+##### Artikel 13.21. overgangsrecht aanhangige procedures op grond van de Warmtewet
 
 1. De op het tijdstip van inwerkingtreding van dit artikel aanhangige aanvragen tot en verzoeken om het nemen van besluiten op grond van de Warmtewet en bezwaren tegen besluiten op grond van de Warmtewet worden afgehandeld overeenkomstig de Warmtewet, zoals de Warmtewet luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit artikel.
 
 2. Overtredingen van het bepaalde bij of krachtens de Warmtewet worden afgehandeld overeenkomstig de Warmtewet zoals de Warmtewet luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van afdeling 10.2.
 
-#### Artikel 13.22. overgangsrecht vergunningen Warmtewet
+##### Artikel 13.22. overgangsrecht vergunningen Warmtewet
 
 Verleende vergunningen op grond van artikel 9, eerste lid, van de Warmtewet vervallen uiterlijk binnen een jaar na inwerkingtreding van artikel 13.2, 13.3 en 13.12 van deze wet, of zo eerder, indien het college:
 
@@ -4126,7 +4153,7 @@ Verleende vergunningen op grond van artikel 9, eerste lid, van de Warmtewet verv
 
 - b. op grond van artikel 13.12, eerste lid, een warmtebedrijf een ontheffing heeft verleend.
 
-#### Artikel 13.23. Warmtewet tijdelijk van toepassing op bestaande warmtebedrijven en nieuw aangewezen warmtebedrijven die warmte leveren aan meer dan 1500 verbruikers
+##### Artikel 13.23. Warmtewet tijdelijk van toepassing op bestaande warmtebedrijven en nieuw aangewezen warmtebedrijven die warmte leveren aan meer dan 1500 verbruikers
 
 1. Tot het tijdstip waarop het college op grond van artikel 13.2, eerste, tweede, derde, vierde of vijfde lid, of 13.3, eerste lid, een warmtebedrijf heeft aangewezen voor een warmtekavel en tot ten hoogste een jaar na inwerkingtreding van dit artikel, blijven op een leverancier als bedoeld in artikel 1 van de Warmtewet die warmte levert aan meer dan 1500 verbruikers, de artikelen 1, 2, eerste, derde en achtste lid, 4a, eerste, tweede en vierde lid, 5, 5a, 6, 7, artikel 8, eerste lid, vijfde lid, zesde lid, onderdelen b en c, zevende lid, achtste lid, 9, 10, 11, 12a, 12b, 12c, 12d, 13, 15, 17, 18, 20, 23 en 24 van de Warmtewet en de daarop berustende bepalingen zoals deze luidden onmiddellijk voor inwerkingtreding van dit artikel van toepassing.
 
@@ -4152,7 +4179,7 @@ Verleende vergunningen op grond van artikel 9, eerste lid, van de Warmtewet verv
 
 - b. op het toezicht op en de naleving van het bij of krachtens de artikelen, bedoeld in onderdeel a, bepaalde, de artikelen 13, 15, 17 en 18 van de Warmtewet van overeenkomstige toepassing.
 
-#### Artikel 13.24. Warmtewet tijdelijk van toepassing op bestaande en nieuwe warmtebedrijven die warmte leveren met een klein collectief warmtesysteem
+##### Artikel 13.24. Warmtewet tijdelijk van toepassing op bestaande en nieuwe warmtebedrijven die warmte leveren met een klein collectief warmtesysteem
 
 1. Tot het tijdstip waarop het college een ontheffing heeft verleend op grond van artikel 13.12, eerste lid, en tot ten hoogste een jaar na inwerkingtreding van dit artikel blijven op een leverancier als bedoeld in artikel 1 van de Warmtewet die warmte levert aan maximaal 1500 verbruikers, huurders of leden van een vereniging van eigenaars of een vergelijkbare rechtsvorm, de artikelen 1, 2, eerste, derde en achtste lid, 4a, eerste, tweede en vierde lid, 5, 5a, 6, 7, artikel 8, eerste lid, vijfde lid, zesde lid, onderdelen b en c, zevende lid, achtste lid, 9, 10, 11, 12a, 12b, 12c, 12d, 13, 15, 17, 18, 20, 23 en 24 van de Warmtewet en de daarop berustende bepalingen zoals deze luidden onmiddellijk voor inwerkingtreding van dit artikel van toepassing.
 
@@ -4178,7 +4205,7 @@ Verleende vergunningen op grond van artikel 9, eerste lid, van de Warmtewet verv
 
 - b. op het toezicht op en de naleving van het bij of krachtens de artikelen, bedoeld in onderdeel a, bepaalde, de artikelen 13, 15, 17 en 18 van de Warmtewet van overeenkomstige toepassing.
 
-#### Artikel 13.25. Warmtewet tijdelijk van toepassing op bestaande verhuurders en verenigingen van eigenaars
+##### Artikel 13.25. Warmtewet tijdelijk van toepassing op bestaande verhuurders en verenigingen van eigenaars
 
 Tot het tijdstip waarop een verhuurder, vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm een melding heeft gedaan op grond van artikel 13.13, eerste lid, en tot ten hoogste een half jaar na inwerkingtreding van dit artikel:
 
@@ -4190,33 +4217,33 @@ Tot het tijdstip waarop een verhuurder, vereniging van eigenaars of een daarmee 
 
 #### § 13.4. Wijziging andere wetten
 
-#### Artikel 13.26. Wijziging [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) en [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108)
+##### Artikel 13.26. Wijziging [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) en [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108)
 
 Wijzigt de Gemeentewet, de Provinciewet en de Waterschapswet.
 
-#### Artikel 13.27. Wijziging [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
+##### Artikel 13.27. Wijziging [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
 
 Wijzigt de Omgevingswet.
 
-#### Artikel 13.28. Wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 13.28. Wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 13.29. Wijziging [Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672)
+##### Artikel 13.29. Wijziging [Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672)
 
 Wijzigt de Wet uitvoering EU-handelingen energie-efficiëntie.
 
-#### Artikel 13.30. Wijziging [Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714)
+##### Artikel 13.30. Wijziging [Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714)
 
 Wijzigt de Energiewet.
 
 #### § 13.5. Slotbepalingen
 
-#### Artikel 13.31. intrekken Warmtewet
+##### Artikel 13.31. intrekken Warmtewet
 
 De Warmtewet wordt ingetrokken.
 
-#### Artikel 13.32. inwerkingtreding
+##### Artikel 13.32. inwerkingtreding
 
 - 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
@@ -4236,7 +4263,7 @@ De Warmtewet wordt ingetrokken.
 
 - 9. Wijzigt deze wet.
 
-#### Artikel 13.33. citeertitel
+##### Artikel 13.33. citeertitel
 
 Deze wet wordt aangehaald als: Wet collectieve warmte.
 

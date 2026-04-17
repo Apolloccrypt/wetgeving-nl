@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel flexibel beroepsgericht programma"
+title: "Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 4 december 2025, houdende nadere regels voor het aanbieden van een flexibel beroepsgericht programma in de beroepsgerichte profielen in de basisberoepsgerichte, de kaderberoepsgerichte en de gemengde leerweg vmbo (Beleidsregel flexibel beroepsgericht programma)"
 identifier: "BWBR0052166"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-01
-laatste_update: 2026-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052166"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-02-01"
+last_updated: "2026-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052166"
+soort: "beleidsregel"
+stam_id: "17730593"
+version_id: "31289792"
+internal_id: "C44735941"
+label_id: "17629154"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052166/2026-02-01/0"
+intitule_bron: "Stcrt.2025-44397"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-04"
+intitule_published: "2025-12-24"
+intitule_in_force: "2025-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-44397"
+original_signed_date: "2025-12-04"
+original_published_date: "2025-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-44397"
+entry_into_force_date: "2026-02-01"
+jci_1_3: "jci1.3:c:BWBR0052166&z=2026-02-01&g=2026-02-01"
+jci_1_0: "1.0:c:BWBR0052166&g=2026-02-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel flexibel beroepsgericht programma"
+signed_date: "2025-12-04"
+entry_into_force: "2026-02-01"
 ---
-
 # Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 4 december 2025, houdende nadere regels voor het aanbieden van een flexibel beroepsgericht programma in de beroepsgerichte profielen in de basisberoepsgerichte, de kaderberoepsgerichte en de gemengde leerweg vmbo (Beleidsregel flexibel beroepsgericht programma)
 
 Gelet op [artikel 9.3 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -34,11 +60,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - **zeer zwakke school:** zeer zwakke school als bedoeld in [artikel 2.94 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.94).
 
-#### Artikel 2. Doel en inhoud van de beleidsregel
+##### Artikel 2. Doel en inhoud van de beleidsregel
 
 Het doel van deze beleidsregel is om bevoegde gezagen meer ruimte te bieden in de opbouw van het beroepsgerichte programma in de basisberoepsgerichte, de kaderberoepsgerichte en de gemengde leerweg van het vmbo, zodat een meer flexibel beroepsgericht programma mogelijk wordt gemaakt om eigentijds en organiseerbaar onderwijs aan te bieden.
 
-#### Artikel 3. Vormgeving combinatieprofiel
+##### Artikel 3. Vormgeving combinatieprofiel
 
 1. Op grond van deze beleidsregel is het mogelijk om, indien de school in het bezit is van bijbehorende profiellicenties, de volgende profielen te combineren:
 
@@ -102,13 +128,13 @@ Module 4 Office & Support
 
 12. Scholen nemen samen deel aan een leernetwerk dat extern wordt begeleid.
 
-#### Artikel 4. Examen en uitslagbepaling
+##### Artikel 4. Examen en uitslagbepaling
 
 1. De leerlingen sluiten het flexibele beroepsgericht programma af met een schoolexamen. Het flexibele beroepsgerichte programma wordt opgenomen in het programma voor toetsten en afsluiting als bedoeld in [artikel 2.60a van WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.60). De toetsen worden opgenomen in het programma van toetsing en afsluiting. Het eindcijfer telt mee in het rekenkundig gemiddelde, bedoeld in [artikel 3.35, eerste lid, onderdeel a, Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.35).
 
 2. Het eindcijfer, bedoeld in het eerste lid, is het rekenkundig gemiddelde van de twee gevolgde profielmodules.
 
-#### Artikel 5. Voorwaarden voor deelname
+##### Artikel 5. Voorwaarden voor deelname
 
 1. Deze beleidsregel geldt voor scholen met een basisberoepsgerichte, kaderberoepsgerichte of gemengde leerweg voor de schooljaren 2026–2027 tot en met 2029–2030.
 
@@ -146,7 +172,7 @@ Module 4 Office & Support
 
 10. Een bevoegd gezag van een school waaraan toestemming wordt verleend om deel te nemen aan het flexibele beroepsgerichte programma is verplicht om desgewenst gegevens over uitvoering, leerlingtevredenheid, doorstroom en leerresultaten aan te leveren bij de minister ten behoeve van evaluatieonderzoek.
 
-#### Artikel 6. Procedure voor aanvraag en goedkeuring
+##### Artikel 6. Procedure voor aanvraag en goedkeuring
 
 1. Een bevoegd gezag dient een verzoek tot deelname aan flexibel beroepsgericht programma in bij de minister, in de periode van 2 februari tot en met 2 maart 2026. Aanvragen die worden ingediend na 2 maart 2026 worden afgewezen.
 
@@ -158,15 +184,15 @@ Module 4 Office & Support
 
 5. De aanvraag wordt ondertekend door het bevoegd gezag.
 
-#### Artikel 7. Evaluatie
+##### Artikel 7. Evaluatie
 
 De Minister evalueert de beleidsregel voor 2031.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 februari 2026.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel flexibel beroepsgericht programma.
 

@@ -1,13 +1,35 @@
 ---
 title: "Douaneovereenkomst inzake de tijdelijke invoer van wetenschappelijk materiaal"
 identifier: "BWBV0004255"
-categorie: "Internationaal recht"
-publicatiedatum: 1971-01-20
-laatste_update: 1971-01-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004255"
+country: "nl"
+rank: "verdrag"
+publication_date: "1971-01-20"
+last_updated: "1971-01-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004255"
+soort: "verdrag"
+stam_id: "10004026863"
+version_id: "10004192222"
+internal_id: "C10008344381"
+label_id: "10004011914"
+dtd_version: "2.0"
+original_entry_into_force: "1971-01-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004255/1971-01-20/0"
+intitule_bron: "Trb.1969-130"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1969-08-19"
+intitule_in_force: "1970-10-26"
+intitule_status: "goed"
+original_publication: "Trb.1969-130"
+original_published_date: "1969-08-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1969-130"
+entry_into_force_date: "1971-01-20"
+jci_1_3: "jci1.3:c:BWBV0004255&z=1971-01-20&g=1971-01-20"
+jci_1_0: "1.0:c:BWBV0004255&g=1971-01-20"
+citeertitel_status: "redactioneel"
+entry_into_force: "1971-01-20"
 ---
-
 # Douaneovereenkomst inzake de tijdelijke invoer van wetenschappelijk materiaal
 
 Preambule
@@ -22,7 +44,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze Overeenkomst wordt verstaan onder:
 
@@ -40,7 +62,7 @@ In deze Overeenkomst wordt verstaan onder:
 
 ### HOOFDSTUK II. Werkingssfeer
 
-#### Artikel 2
+##### Artikel 2
 
 Iedere Overeenkomstsluitende Partij verbindt zich tijdelijke invoer te verlenen voor:
 
@@ -50,7 +72,7 @@ Iedere Overeenkomstsluitende Partij verbindt zich tijdelijke invoer te verlenen 
 
 - (c). gereedschappen, speciaal ontworpen ten behoeve van het onderhoud, de controle, het kalibreren of het herstellen van wetenschappelijk materiaal dat op zijn grondgebied uitsluitend wordt gebruikt voor wetenschappelijk onderzoek of onderwijs.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij de tijdelijke invoer van wetenschappelijk materiaal, reservedelen en gereedschappen kan als voorwaarde worden gesteld dat de goederen:
 
@@ -64,17 +86,17 @@ Bij de tijdelijke invoer van wetenschappelijk materiaal, reservedelen en gereeds
 
 - (e). gedurende het verblijf in het land van invoer het eigendom blijven van een natuurlijk of rechtspersoon wonende of gevestigd in het buitenland.
 
-#### Artikel 4
+##### Artikel 4
 
 Elke Overeenkomstsluitende Partij kan geheel of gedeeltelijk de verplichtingen die zij krachtens deze Overeenkomst heeft aangegaan, opschorten, indien goederen van gelijke wetenschappelijke waarde als het wetenschappelijk materiaal of de reservedelen waarvoor tijdelijke invoer wordt gevraagd, worden voortgebracht of voorhanden zijn in het land van invoer.
 
 ### HOOFDSTUK III. Bijzondere bepalingen
 
-#### Artikel 5
+##### Artikel 5
 
 Iedere Overeenkomstsluitende Partij verbindt zich in alle gevallen waarin zij dit mogelijk acht, geen zekerheid te eisen voor het bedrag van de rechten en heffingen bij invoer en genoegen te nemen met een schriftelijke verbintenis. Een zodanige verbintenis kan hetzij bij iedere invoer worden geëist hetzij algemeen voor een bepaald tijdvak, of indien mogelijk, voor de duur van de erkenning van de instelling.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Wetenschappelijk materiaal waarvoor tijdelijke invoer is toegestaan moet binnen zes maanden na de datum van invoer weder worden uitgevoerd. De douaneautoriteiten van het land van tijdelijke invoer kunnen echter verlangen dat het materiaal weder wordt uitgevoerd binnen een kortere termijn, indien deze laatste voldoende wordt geacht om het doel van de tijdelijke invoer te verwezenlijken.
 
@@ -82,15 +104,15 @@ Iedere Overeenkomstsluitende Partij verbindt zich in alle gevallen waarin zij di
 
 3. Indien wetenschappelijk materiaal waarvoor tijdelijke invoer is toegestaan - hetzij geheel hetzij gedeeltelijk - niet weder kan worden uitgevoerd als gevolg van een inbeslagneming of beslaglegging anders dan op vordering van particulieren, wordt de verplichting tot wederuitvoer opgeschort voor de duur van het beslag.
 
-#### Artikel 7
+##### Artikel 7
 
 Wetenschappelijk materiaal waarvoor tijdelijke invoer is toegestaan mag weder worden uitgevoerd in één of meer zendingen langs elk douanekantoor dat daartoe is opengesteld ook als dit kantoor een ander is dan het kantoor van invoer.
 
-#### Artikel 8
+##### Artikel 8
 
 Aan wetenschappelijk materiaal waarvoor tijdelijke invoer is toegestaan mag een andere bestemming worden gegeven dan wederuitvoer, met name invoer tot verbruik binnenslands, mits wordt voldaan aan de voorwaarden en bepalingen die worden voorgeschreven door de wetgeving en voorschriften van het land van tijdelijke invoer.
 
-#### Artikel 9
+##### Artikel 9
 
 De in deze Overeenkomst neergelegde verplichting tot wederuitvoer geldt niet voor materiaal dat ernstig is beschadigd tengevolge van een deugdelijk vastgesteld ongeval mits, al naar gelang de douaneautoriteiten zulks vorderen, het materiaal:
 
@@ -100,41 +122,41 @@ De in deze Overeenkomst neergelegde verplichting tot wederuitvoer geldt niet voo
 
 - (c). hetzij onder ambtelijk toezicht wordt vernietigd zonder kosten voor de schatkist van het land van tijdelijke invoer.
 
-#### Artikel 10
+##### Artikel 10
 
 De bepalingen van artikel 9 zijn eveneens van toepassing op delen die zijn vervangen als gevolg van een herstelling van het wetenschappelijk materiaal of van wijzigingen welke dit materiaal heeft ondergaan tijdens het verblijf in het land van tijdelijke invoer.
 
-#### Artikel 11
+##### Artikel 11
 
 De bepalingen van de artikelen 6 tot en met 9 zijn eveneens van toepassing op de reservedelen en gereedschappen als bedoeld in artikel 2.
 
 ### HOOFDSTUK IV. Algemene bepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Elke Overeenkomstsluitende Partij zal de douaneformaliteiten verbonden aan de faciliteiten voorzien in deze Overeenkomst tot een minimum beperken. Alle voorschriften betreffende deze formaliteiten zullen terstond bekend worden gemaakt.
 
 2. De douanecontrole op en in- en uitklaring van wetenschappelijk materiaal zullen indien dit mogelijk is en gelegen komt, worden uitgevoerd op de plaats waar het materiaal wordt aangewend.
 
-#### Artikel 13
+##### Artikel 13
 
 De bepalingen van deze Overeenkomst bevatten minimumfaciliteiten. Zij beletten niet de toepassing van ruimere faciliteiten die bepaalde Overeenkomstsluitende Partijen toestaan of in de toekomst eventueel zullen toestaan hetzij unilateraal, hetzij krachtens bilaterale of multilaterale overeenkomsten.
 
-#### Artikel 14
+##### Artikel 14
 
 Voor de toepassing van deze Overeenkomst kunnen de gebieden van de Overeenkomstsluitende Partijen die een douane-unie of een economische unie vormen, worden beschouwd als één gebied.
 
-#### Artikel 15
+##### Artikel 15
 
 De bepalingen van deze Overeenkomst beletten niet dat uit hoofde van de nationale wetgeving en op grond van overwegingen van openbare zedelijkheid, openbare veiligheid, hygiëne of volksgezondheid of wel om redenen van bescherming van octrooien en fabrieks- en handelsmerken beperkingen worden opgelegd en toezicht wordt uitgeoefend.
 
-#### Artikel 16
+##### Artikel 16
 
 Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse verklaring of handeling, die tot gevolg heeft dat een natuurlijk- of rechtspersoon of het materiaal ten onrechte de voordelen geniet van de in deze Overeenkomst neergelegde regelen stelt de overtreder in het land waar het delict is begaan bloot aan de straffen voorzien in de wetgeving van dat land en aan de betaling van de verschuldigde rechten en belastingen bij invoer.
 
 ### HOOFDSTUK V. Slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 1. De Overeenkomstsluitende Partijen komen, indien nodig, in vergadering bijeen ten einde de uitvoering van deze Overeenkomst na te gaan en met name te overwegen welke maatregelen moeten worden ondernomen ter verzekering van een eenvormige uitlegging en toepassing van deze Overeenkomst.
 
@@ -144,7 +166,7 @@ Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse ve
 
 4. De Overeenkomstsluitende Partijen nemen geen besluiten tenzij meer dan de helft van hen aanwezig is.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Elk geschil tussen de Overeenkomstsluitende Partijen betreffende de uitlegging of de toepassing van deze Overeenkomst wordt zoveel mogelijk bijgelegd door middel van rechtstreekse onderhandelingen tussen de desbetreffende Partijen.
 
@@ -152,7 +174,7 @@ Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse ve
 
 3. De Overeenkomstsluitende Partijen tussen wie het geschil is gerezen, kunnen van te voren overeenkomen dat zij de aanbevelingen van de Overeenkomstsluitende Partijen als bindend zullen aanvaarden.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Elke Staat die Lid is van de Raad en elke Staat die Lid is van de Verenigde Naties of van gespecialiseerde organisaties daarvan kan Partij bij deze Overeenkomst worden dóór:
 
@@ -168,13 +190,13 @@ Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse ve
 
 4. De akten van bekrachtiging of toetreding worden nedergelegd bij de Secretaris-Generaal van de Raad.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Deze Overeenkomst treedt in werking drie maanden nadat vijf van de in het eerste lid van artikel 19 van deze Overeenkomst bedoelde Staten haar hebben ondertekend zonder voorbehoud van bekrachtiging of hun akten van bekrachtiging of toetreding hebben nedergelegd.
 
 2. Voor elke Staat die deze Overeenkomst ondertekent zonder voorbehoud van bekrachtiging, die haar bekrachtigt of ertoe toetreedt nadat vijf Staten haar hebben ondertekend zonder voorbehoud van bekrachtiging of hun akten van bekrachtiging of toetreding hebben nedergelegd, treedt deze Overeenkomst in werking drie maanden nadat deze Staat heeft ondertekend zonder voorbehoud van bekrachtiging of zijn akte van bekrachtiging of toetreding heeft nedergelegd.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Deze Overeenkomst wordt voor onbepaalde tijd gesloten, doch kan door elke Overeenkomstsluitende Partij worden opgezegd, op elk willekeurig tijdstip na de datum van haar inwerkingtreding als vastgesteld in artikel 20 van deze Overeenkomst.
 
@@ -182,7 +204,7 @@ Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse ve
 
 3. De opzegging wordt van kracht zes maanden na de datum waarop de Secretaris-Generaal van de Raad de akte van opzegging heeft ontvangen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De Overeenkomstsluitende Partijen, in vergadering bijeen overeenkomstig artikel 17 van deze Overeenkomst, kunnen wijzigingen van deze Overeenkomst aanbevelen.
 
@@ -214,17 +236,17 @@ Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse ve
 
 9. Elke Staat die deze Overeenkomst bekrachtigt of ertoe toetreedt, wordt geacht de wijzigingen te hebben aanvaard, die van kracht zijn op het tijdstip van de nederlegging van zijn akte van bekrachtiging of toetreding.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Elke Staat kan, hetzij ten tijde van de ondertekening zonder voorbehoud van bekrachtiging, of van de nederlegging van zijn akte van bekrachtiging of toetreding, hetzij daarna, door middel van een aan de Secretaris-Generaal van de Raad gerichte kennisgeving verklaren dat deze Overeenkomst mede van toepassing zal zijn op alle of op bepaalde gebieden voor welker buitenlandse betrekkingen hij verantwoordelijk is. Deze kennisgeving wordt van kracht drie maanden na de datum waarop de Secretaris-Generaal van de Raad haar ontvangt. De Overeenkomst kan echter niet worden toegepast in de gebieden genoemd in de kennisgeving, voordat de Overeenkomst van kracht wordt ten aanzien van de desbetreffende Staat.
 
 2. Elke Staat die met toepassing van het eerste lid van dit artikel heeft medegedeeld, dat deze Overeenkomst mede wordt toegepast in een gebied voor welks buitenlandse betrekkingen hij verantwoordelijk is of waarvoor hij internationaal verantwoordelijk is, kan overeenkomstig de bepalingen van artikel 21 van deze Overeenkomst aan de Secretaris-Generaal van de Raad mededelen dat dit gebied de Overeenkomst niet langer zal toepassen.
 
-#### Artikel 24
+##### Artikel 24
 
 Ten aanzien van deze Overeenkomst is geen voorbehoud toegelaten.
 
-#### Artikel 25
+##### Artikel 25
 
 De Secretaris-Generaal van de Raad doet aan alle Overeenkomstsluitende Partijen, aan de andere Staten die deze Overeenkomst hebben ondertekend, aan de Secretaris-Generaal van de Verenigde Naties en aan de Directeur-Generaal van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur (UNESCO) mededeling van:
 
@@ -238,7 +260,7 @@ De Secretaris-Generaal van de Raad doet aan alle Overeenkomstsluitende Partijen,
 
 - (e). kennisgevingen ontvangen overeenkomstig artikel 23.
 
-#### Artikel 26
+##### Artikel 26
 
 Overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) wordt deze Overeenkomst op verzoek van de Secretaris-Generaal van de Raad geregistreerd bij het Secretariaat van de Verenigde Naties.
 

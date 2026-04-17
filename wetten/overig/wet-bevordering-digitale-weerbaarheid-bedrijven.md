@@ -1,14 +1,41 @@
 ---
-title: "Wet bevordering digitale weerbaarheid bedrijven"
+title: "Wet van 17 juli 2024, houdende regels ter bevordering van de digitale weerbaarheid van bedrijven (Wet bevordering digitale weerbaarheid bedrijven)"
 identifier: "BWBR0050130"
-categorie: "Overig"
-publicatiedatum: 2024-10-01
-laatste_update: 2024-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050130"
+country: "nl"
+rank: "wet"
+publication_date: "2024-10-01"
+last_updated: "2024-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050130"
+soort: "wet"
+stam_id: "17202983"
+version_id: "30292072"
+internal_id: "C43496921"
+label_id: "17108824"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050130/2024-10-01/0"
+intitule_bron: "Stb.2024-236"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-07-17"
+intitule_published: "2024-08-13"
+intitule_in_force: "2024-09-12"
+intitule_status: "goed"
+original_publication: "Stb.2024-236"
+original_signed_date: "2024-07-17"
+original_published_date: "2024-08-13"
+original_effect: "nieuwe-regeling"
+original_dossier: "36270"
+original_url_id: "stb-2024-236"
+entry_into_force_date: "2024-10-01"
+jci_1_3: "jci1.3:c:BWBR0050130&z=2024-10-01&g=2024-10-01"
+jci_1_0: "1.0:c:BWBR0050130&g=2024-10-01"
+citeertitel_status: "officieel"
+short_title: "Wet bevordering digitale weerbaarheid bedrijven"
+signed_date: "2024-07-17"
+entry_into_force: "2024-10-01"
 ---
-
-# Wet bevordering digitale weerbaarheid bedrijven
+# Wet van 17 juli 2024, houdende regels ter bevordering van de digitale weerbaarheid van bedrijven (Wet bevordering digitale weerbaarheid bedrijven)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +43,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de weerbaarheid van 
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,7 +61,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **Onze Minister:** Onze Minister van Economische Zaken en Klimaat.
 
-#### Artikel 2. Taken van Onze Minister
+##### Artikel 2. Taken van Onze Minister
 
 1. Onze Minister heeft, ter versterking van de digitale weerbaarheid van bedrijven, de volgende taken:
 
@@ -54,13 +81,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. het verstrekken van ingevolge het eerste lid, onder a, verkregen gegevens over dreigingen en incidenten aan het CSIRT voor digitale diensten, ten behoeve van de uitvoering van diens taken, bedoeld in [artikel 4, vierde lid, van de Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=4).
 
-#### Artikel 3. Verstrekking gegevens aan Onze Minister
+##### Artikel 3. Verstrekking gegevens aan Onze Minister
 
 1. Onze Minister kan een rechtspersoon of een orgaan daarvan verzoeken om gegevens te verstrekken die noodzakelijk zijn voor de vervulling van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050130&artikel=2&z=2024-10-01&g=2024-10-01), genoemde taken.
 
 2. De rechtspersoon of het orgaan kan op grond van het eerste lid gevraagde persoonsgegevens ook aan Onze Minister verstrekken als die verstrekking onverenigbaar is met de doeleinden waarvoor de persoonsgegevens zijn verzameld.
 
-#### Artikel 4. Verstrekking van vertrouwelijke gegevens door Onze Minister
+##### Artikel 4. Verstrekking van vertrouwelijke gegevens door Onze Minister
 
 1. Ter uitvoering van de in [artikel 2, eerste en tweede lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0050130&artikel=2&z=2024-10-01&g=2024-10-01), genoemde taak verstrekt Onze Minister geen vertrouwelijke gegevens met betrekking tot een bedrijf die hij ingevolge deze wet verkrijgt, als:
 
@@ -74,23 +101,23 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) is niet van toepassing op gegevens als bedoeld in het eerste tot en met derde lid, die herleid kunnen worden tot een bedrijf of een in het tweede of derde lid bedoelde aanbieder onderscheidenlijk digitaledienstverlener, behalve voor zover die gegevens milieu-informatie inhouden als bedoeld in [artikel 19.1a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.1a). De eerste volzin geldt ook als de gegevens bij een ander overheidsorgaan berusten na verstrekking op grond van dit artikel.
 
-#### Artikel 5. (wijziging [Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515))
+##### Artikel 5. (wijziging [Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515))
 
 Wijzigt de Wet beveiliging netwerk- en informatiesystemen.
 
-#### Artikel 6. (wijziging [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754))
+##### Artikel 6. (wijziging [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754))
 
 Wijzigt de Wet open overheid.
 
-#### Artikel 7. (toepasselijkheid in Caribisch Nederland)
+##### Artikel 7. (toepasselijkheid in Caribisch Nederland)
 
 Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 8. (inwerkingtreding)
+##### Artikel 8. (inwerkingtreding)
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 9. (citeertitel)
+##### Artikel 9. (citeertitel)
 
 Deze wet wordt aangehaald als: Wet bevordering digitale weerbaarheid bedrijven.
 

@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België, houdende vaststelling van een ontginningsgrens voor de aan beide zijden van de grens langs de Maas gelegen steenkolenmijnen"
 identifier: "BWBV0005822"
-categorie: "Internationaal recht"
-publicatiedatum: 1952-07-11
-laatste_update: 1952-07-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005822"
+country: "nl"
+rank: "verdrag"
+publication_date: "1952-07-11"
+last_updated: "1952-07-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005822"
+soort: "verdrag"
+stam_id: "10004886043"
+version_id: "10005191012"
+internal_id: "C10007907861"
+label_id: "10004869434"
+dtd_version: "2.0"
+original_entry_into_force: "1952-07-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005822/1952-07-11/0"
+intitule_bron: "Stb.1951-486"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1951-11-14"
+intitule_published: "1951-12-18"
+intitule_in_force: "1952-07-23"
+intitule_status: "goed"
+original_publication: "Stb.1951-486"
+original_signed_date: "1951-11-14"
+original_published_date: "1951-12-18"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1952-07-11"
+jci_1_3: "jci1.3:c:BWBV0005822&z=1952-07-11&g=1952-07-11"
+jci_1_0: "1.0:c:BWBV0005822&g=1952-07-11"
+citeertitel_status: "redactioneel"
+signed_date: "1951-11-14"
+entry_into_force: "1952-07-11"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België, houdende vaststelling van een ontginningsgrens voor de aan beide zijden van de grens langs de Maas gelegen steenkolenmijnen
 
 Hare majesteit de Koningin der Nederlanden, enerzijds,
@@ -28,13 +52,13 @@ De Heer Paul van Zeeland, Minister van Buitenlandse Zaken,
 
 Die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Ten behoeve van de steenkolenmijnen van de „Société Anonyme des Charbonnages de Limbourg-Meuse” in België en van de Staatsmijn Maurits in Nederland, welke zich onder de Maas tussen de Punten 64**a** en 152 volgens de bij dit verdrag gevoegde kaart (bijlage) uitstrekken tot de Rijksgrens ter plaatse, wordt, onafhankelijk van genoemde Rijksgrens, voor het ondergronds bedrijf een ontginningsgrens overeengekomen. Zij is op de kaart door een gebroken rode lijn aangeduid.
 
 2. De coördinaten van de knikpunten in deze lijn zijn in de bijlage aangegeven zowel in het stelsel van het Belgische Rijksdriehoeksnet als in dat van het Nederlandse Rijksdriehoeksnet.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Ter begrenzing van het gebied, waarbinnen slechts in gemeen overleg werken mogen worden uitgevoerd, als bedoeld in artikel 12 van het verdrag van 12 Mei 1863, zullen in afwijking van de in dat artikel vastgestelde lijnen op 150 el afstand uit de thalweg voor het riviervak, dat zich uitstrekt van km.raai 30 tot km.raai 50, door de Waterstaatsdiensten van beide Staten binnen één jaar na dagtekening dezes door metingen twee lijnen worden vastgesteld op een onderlinge afstand van 300 m, zodanig, dat deze lijnen zich ten minste 20 m uit de holle oevers en ten minste 90 m uit de bolle oevers van het ten tijde der metingen bestaande zomerbed bevinden en overigens een verloop hebben als door beide Waterstaatsdiensten voor de waterafvoer doelmatig wordt geoordeeld in verband met de hoogte der gronden en de aanwezigheid van bebouwingen.
 
@@ -44,7 +68,7 @@ Die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben 
 
 4. De kosten van de in het vorig lid bedoelde bovengrondse werken zullen door de beide mijnen gezamenlijk ieder voor de helft worden gedragen. De kosten echter van de in het tweede lid bedoelde werken en de kosten van mijnschadevergoeding aan particuliere eigendommen en van onteigening binnen de in het eerste lid bedoelde lijnen worden door iedere mijn gedragen voor het gebied van de Staat, waarin zij is gelegen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De ontginningsgrens vervangt de ter plaatse tot dusver bestaande begrenzing der beide mijnvelden. De door de ontginningsgrens afgescheiden gedeelten worden met het aan dezelfde zijde der ontginningsgrens liggende mijnveld verenigd.
 
@@ -56,7 +80,7 @@ Die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben 
 
 5. Het Toezicht op de Mijnen van beide Staten doet gezamenlijk nieuwe mijnplannen maken, welke gehecht worden aan de bestaande akten. Voor zover grondboeken bestaan, zal inschrijving daarin geschieden op verzoek van het Toezicht op de Mijnen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In de mijnen moet aan iedere zijde van de nieuwe ontginningsgrens een tien meter dikke grensmuur, rechthoekig op die grens gemeten, onontgonnen blijven
 
@@ -64,7 +88,7 @@ Die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben 
 
 3. De bestaande grensmuren mogen worden afgebroken in zoverre zij niet met de in het eerste lid voorgeschreven grensmuur samenvallen.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor de tussen de Rijksgrens en de ontginningsgrens liggende gedeelten geldt het navolgende:
 
@@ -82,13 +106,13 @@ Voor de tussen de Rijksgrens en de ontginningsgrens liggende gedeelten geldt het
 
 - g. Voor bovengrondse werken is de toestemming vereist van de Staat, waarin zij zullen worden aangelegd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Jaarlijks zullen uiterlijk 1 April via het Toezicht op de Mijnen van beide Staten tot op 1 Januari bijgewerkte mijnplannen worden uitgewisseld. Deze mijnplannen zullen de stand der ontginnings- en voorbereidingswerken bevatten, gelegen binnen een afstand van 500 meter van de ontginningsgrens.
 
 2. Te allen tijde is het Toezicht op de Mijnen der beide Staten bevoegd inzage te nemen van de stand der ontginningswerkzaamheden tot op bovengenoemde afstand en van deze stand kopieën te maken.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Dit verdrag zal bekrachtigd worden. De uitwisseling der bekrachtigingsoorkonden zal zo spoedig mogelijk te 's-Gravenhage plaats vinden.
 

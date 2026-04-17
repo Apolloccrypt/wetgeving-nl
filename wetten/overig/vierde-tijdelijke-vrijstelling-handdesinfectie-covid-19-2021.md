@@ -1,13 +1,36 @@
 ---
-title: "Vierde tijdelijke vrijstelling handdesinfectie COVID-19 2021"
+title: "Vierde tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van de biociden in verband met de uitbraak COVID-19 (Vierde tijdelijke vrijstelling handdesinfectie COVID-19 2021)"
 identifier: "BWBR0045497"
-categorie: "Overig"
-publicatiedatum: 2021-09-01
-laatste_update: 2021-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045497"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-09-01"
+last_updated: "2021-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045497"
+soort: "ministeriele-regeling"
+stam_id: "16043483"
+version_id: "27941042"
+internal_id: "C39421661"
+label_id: "15976054"
+dtd_version: "2.0"
+original_entry_into_force: "2021-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045497/2021-09-01/0"
+intitule_bron: "Stcrt.2021-37670"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2021-08-09"
+intitule_in_force: "2021-08-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-37670"
+original_published_date: "2021-08-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-37670"
+entry_into_force_date: "2021-09-01"
+jci_1_3: "jci1.3:c:BWBR0045497&z=2021-09-01&g=2021-09-01"
+jci_1_0: "1.0:c:BWBR0045497&g=2021-09-01"
+citeertitel_status: "officieel"
+short_title: "Vierde tijdelijke vrijstelling handdesinfectie COVID-19 2021"
+entry_into_force: "2021-09-01"
 ---
-
 # Vierde tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van de biociden in verband met de uitbraak COVID-19 (Vierde tijdelijke vrijstelling handdesinfectie COVID-19 2021)
 
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -18,7 +41,7 @@ Gelet op [artikel 46, eerste lid, van de Wet gewasbeschermingsmiddelen en biocid
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het coronavirus SARS-CoV-2 en in verband met de bij deze bestrijding dreigende tekorten van handdesinfectiemiddelen die de werkzaamheden in een bedrijfs- of beroepsmatige omgeving compromitteren ten tijde van deze uitbraak, wordt op grond van:
 
@@ -26,15 +49,15 @@ Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het c
 
 - b). artikel 55 van [Verordening (EU) nr. 528/2012](32012R0528) toegestaan dat de in de bijlage genoemde middelen onder de daarin genoemde voorwaarden op de markt worden aangeboden en gebruikt.
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0045497&artikel=1&z=2021-09-01&g=2021-09-01), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
 
-#### Artikel 3
+##### Artikel 3
 
 De vrijstelling annex toestemming wordt verleend van 1 september 2021 tot en met 28 februari 2022.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Vierde tijdelijke vrijstelling handdesinfectie COVID-19 2021.
 

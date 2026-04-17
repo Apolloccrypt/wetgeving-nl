@@ -1,20 +1,45 @@
 ---
 title: "Besluit vaststelling bestuursreglement Referendumcommissie"
 identifier: "BWBR0037713"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-09-21
-laatste_update: 2016-09-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037713"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-09-21"
+last_updated: "2016-09-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037713"
+soort: "zbo"
+stam_id: "13438223"
+version_id: "23065782"
+internal_id: "C33334041"
+label_id: "13405534"
+dtd_version: "2.0"
+original_entry_into_force: "2016-03-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037713/2016-09-21/0"
+intitule_bron: "Stcrt.2016-12447"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-02-26"
+intitule_published: "2016-03-10"
+intitule_in_force: "2016-03-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-12447"
+original_signed_date: "2016-02-26"
+original_published_date: "2016-03-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-12447"
+entry_into_force_date: "2016-03-11"
+jci_1_3: "jci1.3:c:BWBR0037713&z=2016-09-21&g=2016-09-21"
+jci_1_0: "1.0:c:BWBR0037713&g=2016-09-21"
+citeertitel_status: "redactioneel"
+signed_date: "2016-02-26"
+entry_into_force: "2016-03-11"
 ---
-
 # Besluit vaststelling bestuursreglement Referendumcommissie
 
 Heeft besloten het volgende bestuursreglement vast te stellen:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit reglement wordt verstaan onder:
 
@@ -38,19 +63,19 @@ In dit reglement wordt verstaan onder:
 
 ### Hoofdstuk 2. Inrichting en besluitvorming
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Commissie vervult de taken die haar bij [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036443) zijn toegekend.
 
 2. De Commissie verricht de werkzaamheden die noodzakelijk zijn om de in het eerste lid bedoelde taken naar behoren te kunnen vervullen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De voorzitter geeft leiding aan de vergaderingen en de andere werkzaamheden van de Commissie en bevordert daarbij een goede afstemming.
 
 2. De Commissie wordt vertegenwoordigd door de voorzitter tenzij de Commissie anders besluit.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Commissie vergadert zo vaak als nodig is voor een goede afwikkeling van haar werkzaamheden, doch tenminste twee keer per jaar.
 
@@ -66,23 +91,23 @@ In dit reglement wordt verstaan onder:
 
 7. De secretaris onderhoudt de contacten met de uitvoeringsorganisatie. In voorkomende gevallen overlegt de Commissie rechtstreeks met deze organisatie.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De voorzitter bepaalt de tijd van een vergadering en de wijze van vergaderen. De agenda van een vergadering wordt op voorstel van de voorzitter ter vergadering vastgesteld door de Commissie.
 
 2. De secretaris ziet toe op een juiste uitvoering van de besluiten van de Commissie.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een lid dat is verhinderd aan een vergadering deel te nemen, doet hiervan zo spoedig mogelijk mededeling aan de voorzitter.
 
 2. Als de voorzitter verhinderd is, doet hij hiervan zo spoedig mogelijk mededeling aan de plaatsvervangers.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien een lid met het oog op de onafhankelijke taakvervulling van de Commissie niet aan de beraadslaging en besluitvorming over een onderwerp kan deelnemen, informeert hij of zij hier de overige leden zo spoedig mogelijk over.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Besluitvorming geschiedt bij meerderheid.
 
@@ -92,7 +117,7 @@ Indien een lid met het oog op de onafhankelijke taakvervulling van de Commissie 
 
 4. In het geval de stemmen staken, geeft de stem van de voorzitter, respectievelijk eerste plaatsvervangend voorzitter of de tweede plaatsvervangend voorzitter de doorslag.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De voorzitter en de andere leden onthouden zich van alles wat een goede taakvervulling van de Commissie kan schaden.
 
@@ -102,7 +127,7 @@ Indien een lid met het oog op de onafhankelijke taakvervulling van de Commissie 
 
 4. De nevenfuncties van de voorzitter en de andere leden worden op de website van de Commissie bekend gemaakt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Commissie stelt een mandaatregeling vast die in ieder geval voorziet in:
 
@@ -112,7 +137,7 @@ Indien een lid met het oog op de onafhankelijke taakvervulling van de Commissie 
 
 2. Het mandaatbesluit wordt in de Staatscourant gepubliceerd.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Commissie kan nadere voorzieningen treffen met betrekking tot haar werking, indien een goede afwikkeling van de werkzaamheden dat nodig maakt.
 
@@ -122,21 +147,21 @@ Indien een lid met het oog op de onafhankelijke taakvervulling van de Commissie 
 
 ### Hoofdstuk 3. Werkwijzen en procedures
 
-#### Artikel 12
+##### Artikel 12
 
 Het jaarverslag wordt voor een ieder beschikbaar gesteld op de website van de Commissie.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Dit reglement wordt bekendgemaakt in de Staatscourant.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit reglement treedt in werking op de dag na zijn bekendmaking en werkt terug tot 5 oktober 2015.
 
-#### Artikel 8a
+##### Artikel 8a
 
 In afwijking van het [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037713&hoofdstuk=2&artikel=8&z=2016-09-21&g=2016-09-21) kan de voorzitter, respectievelijk eerste plaatsvervangend voorzitter of de tweede plaatsvervangend voorzitter, besluiten nemen en stukken ondertekenen met betrekking tot:
 

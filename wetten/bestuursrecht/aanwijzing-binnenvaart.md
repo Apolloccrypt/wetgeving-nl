@@ -1,13 +1,35 @@
 ---
 title: "Aanwijzing binnenvaart"
 identifier: "BWBR0040955"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-06-01
-laatste_update: 2018-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040955"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2018-06-01"
+last_updated: "2018-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040955"
+soort: "beleidsregel"
+stam_id: "14620393"
+version_id: "25036572"
+internal_id: "C35802861"
+label_id: "14574404"
+dtd_version: "2.0"
+original_entry_into_force: "2018-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040955/2018-06-01/0"
+intitule_bron: "Stcrt.2018-28169"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-05-29"
+intitule_in_force: "2018-05-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-28169"
+original_published_date: "2018-05-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-28169"
+entry_into_force_date: "2018-06-01"
+jci_1_3: "jci1.3:c:BWBR0040955&z=2018-06-01&g=2018-06-01"
+jci_1_0: "1.0:c:BWBR0040955&g=2018-06-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-06-01"
 ---
-
 # Aanwijzing binnenvaart
 
 ### Samenvatting

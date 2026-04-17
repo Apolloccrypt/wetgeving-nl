@@ -1,20 +1,46 @@
 ---
-title: "Regeling uitvoering bestuursovereenkomst nitraat"
+title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 17 november 2023, nr. WJZ/ 40870666, houdende regels voor het verstrekken van specifieke uitkeringen voor de uitvoering bestuursovereenkomst nitraat in grondwaterbeschermingsgebieden (Regeling uitvoering bestuursovereenkomst nitraat)"
 identifier: "BWBR0048959"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-11-07
-laatste_update: 2024-11-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048959"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-11-07"
+last_updated: "2024-11-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048959"
+soort: "ministeriele-regeling"
+stam_id: "16936133"
+version_id: "29764922"
+internal_id: "C42656591"
+label_id: "16847554"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048959/2024-11-07/0"
+intitule_bron: "Stcrt.2023-32265"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-17"
+intitule_published: "2023-11-27"
+intitule_in_force: "2023-11-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-32265"
+original_signed_date: "2023-11-17"
+original_published_date: "2023-11-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-32265"
+entry_into_force_date: "2023-11-28"
+jci_1_3: "jci1.3:c:BWBR0048959&z=2024-11-07&g=2024-11-07"
+jci_1_0: "1.0:c:BWBR0048959&g=2024-11-07"
+citeertitel_status: "officieel"
+short_title: "Regeling uitvoering bestuursovereenkomst nitraat"
+signed_date: "2023-11-17"
+entry_into_force: "2023-11-28"
 ---
-
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 17 november 2023, nr. WJZ/ 40870666, houdende regels voor het verstrekken van specifieke uitkeringen voor de uitvoering bestuursovereenkomst nitraat in grondwaterbeschermingsgebieden (Regeling uitvoering bestuursovereenkomst nitraat)
 
 Gelet op [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=2a), en [3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
 
 Besluit:
 
-#### Artikel 1. begripsbepalingen
+##### Artikel 1. begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **Nationaal Programma Landelijk Gebied:** programma waarin gebiedsgerichte opgaven en maatregelen voor natuur, stikstof, water en klimaat zijn opgenomen, zoals beschreven in de startnotitie van 10 juni 2022 (bijlage bij Kamerstukken II 2021/22, 34 682, nr. 96).
 
-#### Artikel 2. specifieke uitkering
+##### Artikel 2. specifieke uitkering
 
 1. De minister verstrekt een specifieke uitkering aan de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048959&artikel=3&z=2024-11-07&g=2024-11-07), genoemde provincies voor het uitvoering geven aan de bestuursovereenkomst nitraat zolang deze nog niet in het Nationaal Programma Landelijk Gebied is ingebed.
 
@@ -36,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - b. die reeds uit anderen hoofde zijn of worden gesubsidieerd.
 
-#### Artikel 3. hoogte van de uitkering
+##### Artikel 3. hoogte van de uitkering
 
 1. De specifieke uitkering bedraagt voor de provincie:
 
@@ -62,27 +88,27 @@ In deze regeling wordt verstaan onder:
 
 - e. Limburg € 0.
 
-#### Artikel 4. verplichting
+##### Artikel 4. verplichting
 
 De provincie neemt het Unierecht met betrekking tot mededinging, aanbesteding en staatssteun in acht bij de besteding van de specifieke uitkering.
 
-#### Artikel 5. voorschot
+##### Artikel 5. voorschot
 
 De minister verleent de provincie een voorschot van 100% van het uitkeringsbedrag.
 
-#### Artikel 6. verantwoording en vaststelling
+##### Artikel 6. verantwoording en vaststelling
 
 1. De provincie legt verantwoording af over de besteding van de specifieke uitkering op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. De minister stelt de uitkering ambtshalve vast binnen 22 weken nadat hij de relevante verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), van de Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft ontvangen.
 
-#### Artikel 7. inwerkingtreding
+##### Artikel 7. inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 28 november 2028, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die voor die datum zijn aangevraagd, verleend of vastgesteld.
 
-#### Artikel 8. citeertitel
+##### Artikel 8. citeertitel
 
 Deze regeling wordt aangehaald als: Regeling uitvoering bestuursovereenkomst nitraat.
 

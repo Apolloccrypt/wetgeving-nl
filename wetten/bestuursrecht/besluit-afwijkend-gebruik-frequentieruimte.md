@@ -1,13 +1,39 @@
 ---
-title: "Besluit afwijkend gebruik frequentieruimte"
+title: "Besluit van 22 april 2025, houdende vaststelling van regels over afwijkend gebruik van frequentieruimte (Besluit afwijkend gebruik frequentieruimte)"
 identifier: "BWBR0050986"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-04-29
-laatste_update: 2025-04-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050986"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-04-29"
+last_updated: "2025-04-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050986"
+soort: "AMvB"
+stam_id: "17416053"
+version_id: "30706892"
+internal_id: "C44014521"
+label_id: "17319224"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050986/2025-04-29/0"
+intitule_bron: "Stb.2025-106"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-04-22"
+intitule_published: "2025-04-28"
+intitule_in_force: "2025-04-28"
+intitule_status: "goed"
+original_publication: "Stb.2025-106"
+original_signed_date: "2025-04-22"
+original_published_date: "2025-04-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2025-106"
+entry_into_force_date: "2025-04-29"
+jci_1_3: "jci1.3:c:BWBR0050986&z=2025-04-29&g=2025-04-29"
+jci_1_0: "1.0:c:BWBR0050986&g=2025-04-29"
+citeertitel_status: "officieel"
+short_title: "Besluit afwijkend gebruik frequentieruimte"
+signed_date: "2025-04-22"
+entry_into_force: "2025-04-29"
 ---
-
 # Besluit van 22 april 2025, houdende vaststelling van regels over afwijkend gebruik van frequentieruimte (Besluit afwijkend gebruik frequentieruimte)
 
 Op de voordracht van Onze Minister van Economische Zaken en Klimaat van 30 november 2022, nr. WJZ / 22518489;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -44,7 +70,7 @@ Hebben goedgevonden en verstaan:
 
 - **wet:** [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
 
-#### Artikel 1.2. Reikwijdte
+##### Artikel 1.2. Reikwijdte
 
 Afwijkend gebruik van frequentieruimte ter bestrijding van onbemande mobiele objecten is toegestaan:
 
@@ -52,7 +78,7 @@ Afwijkend gebruik van frequentieruimte ter bestrijding van onbemande mobiele obj
 
 - b. in de gevallen, bedoeld in [artikel 3.22, derde lid, onderdelen a en e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.22).
 
-#### Artikel 1.3. Eisen aan apparatuur
+##### Artikel 1.3. Eisen aan apparatuur
 
 1. Bij regeling van Onze Minister, handelende in overeenstemming met Onze Minister die het aangaat, worden nadere regels gesteld aan de apparatuur waarmee afwijkend gebruik mag worden gemaakt van frequentieruimte.
 
@@ -66,7 +92,7 @@ Afwijkend gebruik van frequentieruimte ter bestrijding van onbemande mobiele obj
 
 - d. eisen aan de opslag van de apparatuur.
 
-#### Artikel 1.4. Bevoegdheid tot gebruik apparatuur
+##### Artikel 1.4. Bevoegdheid tot gebruik apparatuur
 
 1. Bevoegd tot het gebruik van de apparatuur, bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050986&hoofdstuk=1&artikel=1.3&z=2025-04-29&g=2025-04-29), zijn:
 
@@ -78,7 +104,7 @@ Afwijkend gebruik van frequentieruimte ter bestrijding van onbemande mobiele obj
 
 ### Hoofdstuk 2. Eisen aan afwijkend gebruik ter bestrijding van onbemande mobiele objecten
 
-#### Artikel 2.1. Voorwaarden voor bestrijding door afwijkend gebruik
+##### Artikel 2.1. Voorwaarden voor bestrijding door afwijkend gebruik
 
 Afwijkend gebruik van frequentieruimte in een bepaalde frequentieband ter bestrijding van onbemande mobiele objecten geschiedt uitsluitend:
 
@@ -88,13 +114,13 @@ Afwijkend gebruik van frequentieruimte in een bepaalde frequentieband ter bestri
 
 - c. indien er geen andere, minder ingrijpende toereikende middelen zijn om de dreiging te stoppen.
 
-#### Artikel 2.2. Doelmatig afwijkend gebruik van frequentieruimte
+##### Artikel 2.2. Doelmatig afwijkend gebruik van frequentieruimte
 
 1. Het afwijkend gebruik van frequentieruimte dat wordt aangewend vindt niet langer plaats dan strikt noodzakelijk voor het beoogde operationele doel.
 
 2. Het gebruikte effectieve uitgestraalde zendvermogen van de apparatuur alsmede de bandbreedte zijn niet groter dan strikt noodzakelijk voor het beoogde operationele doel.
 
-#### Artikel 2.3. Bevoegdheid tot inzet en impactanalyse
+##### Artikel 2.3. Bevoegdheid tot inzet en impactanalyse
 
 1. De verantwoordelijke is bevoegd tot inzet van apparatuur in het kader van een taak die bij wettelijk voorschrift aan de verantwoordelijke, of aan het openbaar lichaam waarvan de verantwoordelijke een bestuursorgaan is, is opgedragen.
 
@@ -102,11 +128,11 @@ Afwijkend gebruik van frequentieruimte in een bepaalde frequentieband ter bestri
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 3.1. Citeertitel
+##### Artikel 3.1. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit afwijkend gebruik frequentieruimte.
 
-#### Artikel 3.2. Inwerkingtreding
+##### Artikel 3.2. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

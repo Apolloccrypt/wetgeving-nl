@@ -1,13 +1,35 @@
 ---
 title: "Protocol Accountantsonderzoek CAK bestuurlijke verantwoording 2024"
 identifier: "BWBR0050533"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-12-09
-laatste_update: 2024-12-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050533"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-12-09"
+last_updated: "2024-12-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050533"
+soort: "zbo"
+stam_id: "17300123"
+version_id: "30469412"
+internal_id: "C43686511"
+label_id: "17204364"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050533/2024-12-09/0"
+intitule_bron: "Stcrt.2024-40290"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-12-09"
+intitule_in_force: "2024-12-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-40290"
+original_published_date: "2024-12-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-40290"
+entry_into_force_date: "2024-12-09"
+jci_1_3: "jci1.3:c:BWBR0050533&z=2024-12-09&g=2024-12-09"
+jci_1_0: "1.0:c:BWBR0050533&g=2024-12-09"
+citeertitel_status: "redactioneel"
+entry_into_force: "2024-12-09"
 ---
-
 # Protocol Accountantsonderzoek CAK bestuurlijke verantwoording 2024
 
 ### 1. Inleiding

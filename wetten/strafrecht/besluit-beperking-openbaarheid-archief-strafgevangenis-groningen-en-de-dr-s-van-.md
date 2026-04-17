@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid archief Strafgevangenis Groningen en de dr. S. van Mesdagkliniek te Groningen (1943) 1951−1993"
+title: "Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief van de Strafgevangenis Groningen en de dr. S. van Mesdagkliniek te Groningen (1943) 1951−1993"
 identifier: "BWBR0028187"
-categorie: "Strafrecht"
-publicatiedatum: 2010-11-01
-laatste_update: 2010-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028187"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-11-01"
+last_updated: "2010-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028187"
+soort: "ministeriele-regeling"
+stam_id: "10691363"
+version_id: "17653382"
+internal_id: "C24416791"
+label_id: "10665914"
+dtd_version: "2.0"
+original_entry_into_force: "2010-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028187/2010-11-01/0"
+intitule_bron: "Stcrt.2010-13870"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-17"
+intitule_published: "2010-09-07"
+intitule_in_force: "2010-09-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-13870"
+original_signed_date: "2010-08-17"
+original_published_date: "2010-09-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-13870"
+entry_into_force_date: "2010-11-01"
+jci_1_3: "jci1.3:c:BWBR0028187&z=2010-11-01&g=2010-11-01"
+jci_1_0: "1.0:c:BWBR0028187&g=2010-11-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archief Strafgevangenis Groningen en de dr. S. van Mesdagkliniek te Groningen (1943) 1951−1993"
+signed_date: "2010-08-17"
+entry_into_force: "2010-11-01"
 ---
-
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief van de Strafgevangenis Groningen en de dr. S. van Mesdagkliniek te Groningen (1943) 1951−1993
 
 Als bedoeld in [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);

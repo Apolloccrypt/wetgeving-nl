@@ -1,78 +1,104 @@
 ---
-title: "Wijzigingsbesluit Uitvoeringsbesluit inkomstenbelasting 2001, enz. (belastingen)"
+title: "Besluit van 19 december 2018 tot wijziging van enige uitvoeringsbesluiten op het gebied van de belastingen"
 identifier: "BWBR0041765"
-categorie: "Belastingrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041765"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041765"
+soort: "AMvB"
+stam_id: "14930103"
+version_id: "25559972"
+internal_id: "C36485661"
+label_id: "14881144"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041765/2020-01-01/0"
+intitule_bron: "Stb.2018-514"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-12-19"
+intitule_published: "2018-12-28"
+intitule_in_force: "2018-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2018-514"
+original_signed_date: "2018-12-19"
+original_published_date: "2018-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2018-514"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041765&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0041765&g=2020-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Uitvoeringsbesluit inkomstenbelasting 2001, enz. (belastingen)"
+signed_date: "2018-12-19"
+entry_into_force: "2019-01-01"
 ---
-
 # Besluit van 19 december 2018 tot wijziging van enige uitvoeringsbesluiten op het gebied van de belastingen
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
 
-#### Artikel III
+##### Artikel III
 
 Voor de werknemer die uiterlijk op 31 december 2018 een vergoeding genoot waarop [artikel 31a, tweede lid, onderdeel e, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a) zoals dat op 31 december 2018 luidde of [artikel 39e van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39e) zoals dat op 31 december 2018 luidde van toepassing was, blijft bij de toepassing van [artikel 10ec van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=10ec) de ingevolge die bepalingen geldende termijn van maximaal acht jaar, onderscheidenlijk maximaal tien jaar, van toepassing tot en met uiterlijk 31 december 2020.
 
-#### Artikel IV
+##### Artikel IV
 
 wijzigt het Besluit beleggingsinstellingen.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit fiscale eenheid 2003.
 
-#### Artikel VI
+##### Artikel VI
 
 Het [Besluit aftrekbeperking bovenmatige deelnemingsrente](https://wetten.overheid.nl/jci1.3:c:BWBR0032818) wordt ingetrokken.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Algemeen douanebesluit.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Uitvoeringsbesluit accijns.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Uitvoeringsbesluit Invorderingswet 1990.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Belastingregeling voor het land Nederland.
 
-#### Artikel XVI
+##### Artikel XVI
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2019, met dien verstande dat:
 

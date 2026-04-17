@@ -1,20 +1,46 @@
 ---
-title: "Regeling gebruik van frequentieruimte zonder vergunning en zonder meldingsplicht 2015"
+title: "Regeling van de Minister van Economische Zaken van 26 februari 2015, nr. WJZ/15030700, houdende regels inzake het gebruik van frequentieruimte zonder vergunning en zonder meldingsplicht en intrekking van de Regeling gebruik van frequentieruimte zonder vergunning 2008 (Regeling gebruik van frequentieruimte zonder vergunning en zonder meldingsplicht 2015)"
 identifier: "BWBR0036378"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036378"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036378"
+soort: "ministeriele-regeling"
+stam_id: "13002733"
+version_id: "29760482"
+internal_id: "C42651851"
+label_id: "12971534"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036378/2025-07-01/0"
+intitule_bron: "Stcrt.2015-3750"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-02-26"
+intitule_published: "2015-03-04"
+intitule_in_force: "2015-03-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-31710"
+original_signed_date: "2023-10-20"
+original_published_date: "2023-11-22"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-31710"
+entry_into_force_date: "2023-10-20"
+jci_1_3: "jci1.3:c:BWBR0036378&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0036378&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling gebruik van frequentieruimte zonder vergunning en zonder meldingsplicht 2015"
+signed_date: "2023-10-20"
+entry_into_force: "2023-10-20"
 ---
-
 # Regeling van de Minister van Economische Zaken van 26 februari 2015, nr. WJZ/15030700, houdende regels inzake het gebruik van frequentieruimte zonder vergunning en zonder meldingsplicht en intrekking van de Regeling gebruik van frequentieruimte zonder vergunning 2008 (Regeling gebruik van frequentieruimte zonder vergunning en zonder meldingsplicht 2015)
 
 Gelet op [artikel 3.9, onderdelen a tot en met c, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.9), alsmede [artikel 2, eerste en derde lid, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -70,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 - z. **telematica-apparatuur voor vervoer en verkeer:** radioapparatuur die wordt gebruikt op het gebied van vervoer, verkeersbeheer, navigatie, mobiliteitsbeheer en in intelligente vervoerssystemen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Geen vergunning is vereist voor gebruik van frequentieruimte als bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=2) indien daarbij gebruik wordt gemaakt van de in het tweede lid aangewezen categorieën van radioapparaten.
 
@@ -114,7 +140,7 @@ In deze regeling wordt verstaan onder:
 
 3. De aanwijzing, bedoeld in het eerste lid, heeft slechts betrekking op radioapparaten die voldoen aan het bij of krachtens het [Besluit radioapparaten 2016](onbekend) bepaalde.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij gebruik van frequentieruimte wordt voldaan aan de volgende voorschriften:
 
@@ -124,15 +150,15 @@ Bij gebruik van frequentieruimte wordt voldaan aan de volgende voorschriften:
 
 - c. er worden geen ontoelaatbare storingen of belemmeringen veroorzaakt in andere uitrusting of radioapparaten en in het frequentiegebruik door anderen.
 
-#### Artikel 4
+##### Artikel 4
 
 De [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553) wordt ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling gebruik van frequentieruimte zonder vergunning en zonder meldingsplicht 2015.
 
@@ -356,7 +382,7 @@ De duty-cycle is gedefinieerd als de verhouding, uitgedrukt in een percentage, t
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Voor het gebruik van radioapparaten aan boord van andere dan schepen die op grond van voor Nederland geldende rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren, als bedoeld in [artikel 10.15, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=10.15), met uitzondering van maritiem mobiele communicatie vanaf het land, zijn de [artikelen 7, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7), [8, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=8), en [9 van de Regeling gebruik van frequentieruimte met meldingsplicht 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=9) van overeenkomstige toepassing.
 

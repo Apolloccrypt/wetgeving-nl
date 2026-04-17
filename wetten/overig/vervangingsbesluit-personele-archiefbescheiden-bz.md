@@ -1,36 +1,62 @@
 ---
-title: "Vervangingsbesluit personele archiefbescheiden BZ"
+title: "Besluit van de Minister van Buitenlandse Zaken van 9 oktober 2017, nr. MinBuZa.2017.1075087 met betrekking tot digitale vervanging van personele archiefbescheiden (Vervangingsbesluit personele archiefbescheiden BZ)"
 identifier: "BWBR0040091"
-categorie: "Overig"
-publicatiedatum: 2017-10-24
-laatste_update: 2017-10-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040091"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-10-24"
+last_updated: "2017-10-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040091"
+soort: "ministeriele-regeling"
+stam_id: "14316693"
+version_id: "24532012"
+internal_id: "C35137971"
+label_id: "14277074"
+dtd_version: "2.0"
+original_entry_into_force: "2017-10-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040091/2017-10-24/0"
+intitule_bron: "Stcrt.2017-59887"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-10-09"
+intitule_published: "2017-10-23"
+intitule_in_force: "2017-10-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-59887"
+original_signed_date: "2017-10-09"
+original_published_date: "2017-10-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-59887"
+entry_into_force_date: "2017-10-24"
+jci_1_3: "jci1.3:c:BWBR0040091&z=2017-10-24&g=2017-10-24"
+jci_1_0: "1.0:c:BWBR0040091&g=2017-10-24"
+citeertitel_status: "officieel"
+short_title: "Vervangingsbesluit personele archiefbescheiden BZ"
+signed_date: "2017-10-09"
+entry_into_force: "2017-10-24"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 9 oktober 2017, nr. MinBuZa.2017.1075087 met betrekking tot digitale vervanging van personele archiefbescheiden (Vervangingsbesluit personele archiefbescheiden BZ)
 
 Gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7), [artikel 6, eerste lid, van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6), [artikel 26b van de Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b) en [artikel 2, derde lid, onder a en onder c van het Besluit van de Minister van Buitenlandse Zaken van 12 december 2013, HDPO/AR-464/13 tot het verlenen van machtiging aan P-Direkt](https://wetten.overheid.nl/jci1.3:c:BWBR0034505&artikel=2) (Stcrt. 2013, 36300);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Dit besluit heeft betrekking op routinematige vervanging door digitale reproducties van de analoge archiefbescheiden die op grond van het **BSD ‘Mens en Werk’** voor bewaring of vernietiging in aanmerking komen, waarna deze analoge archiefbescheiden worden vernietigd.
 
-#### Artikel 2
+##### Artikel 2
 
 De digitale vervanging geschiedt ten minste overeenkomstig de specificaties en instellingen zoals deze zijn opgenomen in de bijlage bij dit besluit en op de wijze zoals beschreven in het Handboek Digitale Vervanging Personeelsdossiers onderhouden en beheerd door P-Direkt van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 3
+##### Artikel 3
 
 De digitale reproductie wordt uitgevoerd door P-Direkt.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Vervangingsbesluit personele archiefbescheiden BZ.
 

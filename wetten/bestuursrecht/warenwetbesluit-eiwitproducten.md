@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit Eiwitproducten"
+title: "Besluit van 23 januari 1998, houdende het Warenwetbesluit Eiwitproducten"
 identifier: "BWBR0009349"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-02-19
-laatste_update: 2016-02-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009349"
+country: "nl"
+rank: "amvb"
+publication_date: "2016-02-19"
+last_updated: "2016-02-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009349"
+soort: "AMvB"
+stam_id: "743533"
+version_id: "1085652"
+internal_id: "C1085651"
+label_id: "720204"
+dtd_version: "2.0"
+original_entry_into_force: "1998-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009349/2016-02-19/0"
+intitule_bron: "Stb.1998-93"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-01-23"
+intitule_published: "1998-02-24"
+intitule_in_force: "1998-02-24"
+intitule_status: "goed"
+original_publication: "Stb.1998-93"
+original_signed_date: "1998-01-23"
+original_published_date: "1998-02-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1998-93"
+entry_into_force_date: "1998-04-01"
+jci_1_3: "jci1.3:c:BWBR0009349&z=2016-02-19&g=2016-02-19"
+jci_1_0: "1.0:c:BWBR0009349&g=2016-02-19"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit Eiwitproducten"
+signed_date: "1998-01-23"
+entry_into_force: "1998-04-01"
 ---
-
 # Besluit van 23 januari 1998, houdende het Warenwetbesluit Eiwitproducten
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 juli 1997, GZB/VVB/973728, gedaan in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -32,11 +58,11 @@ In dit besluit wordt verstaan onder:
 
 - d. P.E.R.: de voedingswaarde van het eiwit ten opzichte van caseïne («Protein Efficiency Ratio»).
 
-#### Artikel 2
+##### Artikel 2
 
 Het is verboden soja-, tarwe- of schimmeleiwitproducten te bereiden of te verhandelen, die niet voldoen aan de eisen, bij dit besluit gesteld, met betrekking tot hun samenstelling of eigenschappen.
 
-#### Artikel 3
+##### Artikel 3
 
 Soja-eiwitproducten voldoen aan de volgende eisen:
 
@@ -46,7 +72,7 @@ Soja-eiwitproducten voldoen aan de volgende eisen:
 
 - c. het gehalte aan vrij lysino-alanine bedraagt ten hoogste 10 mg/kg eiwit.
 
-#### Artikel 4
+##### Artikel 4
 
 Tarwe-eiwitproducten voldoen aan de volgende eisen:
 
@@ -56,7 +82,7 @@ Tarwe-eiwitproducten voldoen aan de volgende eisen:
 
 - c. het gehalte aan vrij lysino-alanine bedraagt ten hoogste 10 mg/kg eiwit.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Schimmeleiwitproducten zijn uitsluitend bereid uit schimmel van de soort Fusarium graminearum (Schwabe), ATCC 2033.
 
@@ -66,11 +92,11 @@ Tarwe-eiwitproducten voldoen aan de volgende eisen:
 
 - b. het ribonucleïnezuurgehalte bedraagt ten hoogste 2 massaprocenten.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van 1 april 1998.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Eiwitproducten.
 

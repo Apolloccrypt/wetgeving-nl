@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Internationale Organisatie voor Migratie inzake de juridische status, de privileges en immuniteiten van de Organisatie en haar medewerkers in Nederland"
 identifier: "BWBV0005699"
-categorie: "Internationaal recht"
-publicatiedatum: 2012-06-01
-laatste_update: 2012-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005699"
+country: "nl"
+rank: "verdrag"
+publication_date: "2012-06-01"
+last_updated: "2012-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005699"
+soort: "verdrag"
+stam_id: "10004817673"
+version_id: "10005122322"
+internal_id: "C10007924581"
+label_id: "10004801564"
+dtd_version: "2.0"
+original_entry_into_force: "2012-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005699/2012-06-01/0"
+intitule_bron: "Trb.2012-73"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2012-04-19"
+intitule_in_force: "2012-06-21"
+intitule_status: "goed"
+original_publication: "Trb.2012-73"
+original_published_date: "2012-04-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2012-73"
+entry_into_force_date: "2012-06-01"
+jci_1_3: "jci1.3:c:BWBV0005699&z=2012-06-01&g=2012-06-01"
+jci_1_0: "1.0:c:BWBV0005699&g=2012-06-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2012-06-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Internationale Organisatie voor Migratie inzake de juridische status, de privileges en immuniteiten van de Organisatie en haar medewerkers in Nederland
 
 The Kingdom of the Netherlands,
@@ -26,7 +48,7 @@ Considering that the purpose and functions of the Organization and the activitie
 
 Have agreed as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 In this Agreement:
 
@@ -54,11 +76,11 @@ In this Agreement:
 
 - l). „The Vienna Convention” means the [Vienna Convention on Diplomatic Relations of 18 April 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
-#### Article 2. Legal personality
+##### Article 2. Legal personality
 
 The Organization shall possess full international legal personality in the Netherlands pursuant to [Article 27 of the Constitution](https://wetten.overheid.nl/jci1.3:c:BWBV0004992&artikel=27).
 
-#### Article 3. Funds, assets and other property
+##### Article 3. Funds, assets and other property
 
 a). The Organization, its funds, assets and other property, wherever located and by whomever held, shall enjoy immunity from every form of legal process, except in so far as in any particular case the Organization has expressly waived its immunity. It is, however, understood that no waiver of immunity shall extend to any measure of execution.
 
@@ -66,7 +88,7 @@ b). Funds, assets and other property of the Organization, wherever located and b
 
 c). To the extent necessary to carry out the functions of the Organization, funds, assets and other property of the Organization, wherever located and by whomsoever held, shall be exempt from restrictions, regulations, control or moratoria of any nature.
 
-#### Article 4. Inviolability of the premises
+##### Article 4. Inviolability of the premises
 
 1. The premises of the Office of the Organization shall be inviolable. The competent authorities shall ensure that the Office of the Organization is not dispossessed and/or deprived of all or any part of its premises without its express consent.
 
@@ -78,19 +100,19 @@ c). To the extent necessary to carry out the functions of the Organization, fund
 
 5. The Office of the Organization shall prevent its premises from being used as a refuge by persons who are avoiding arrest or the proper administration of justice under any law of the host State.
 
-#### Article 5. Inviolability of the Archives and official equipment
+##### Article 5. Inviolability of the Archives and official equipment
 
 1. The archives of the Organization, wherever located and by whomsoever held, shall be inviolable at any time.
 
 2. The official equipment and other official material, necessary for the Organization’s official activities shall be inviolable at any time.
 
-#### Article 6. Law and authority in the Office of the Organization
+##### Article 6. Law and authority in the Office of the Organization
 
 1. The premises of the Office of the Organization shall be under the control and authority of the Organization, as provided under this Agreement.
 
 2. Except as otherwise provided in this Agreement, the laws and regulations of the host State shall apply on the premises of the Office of the Organization.
 
-#### Article 7. Facilities and immunities in respect of communications and publications
+##### Article 7. Facilities and immunities in respect of communications and publications
 
 1. The Government shall permit the Organization to communicate, freely and without a need for special permission, for all official purposes, and shall protect the right of the Organization to do so.
 
@@ -100,7 +122,7 @@ c). To the extent necessary to carry out the functions of the Organization, fund
 
 4. Nothing in paragraphs 2 and 3 in this Article shall be construed to preclude the adoption of appropriate security precautions determined by agreement between the host State and the Organization.
 
-#### Article 8. Exemption of the Organization and its property from taxes and duties
+##### Article 8. Exemption of the Organization and its property from taxes and duties
 
 1. Within the scope of its official activities, the Organization, its assets, income and other property shall be exempt from all direct taxes, whether levied by national, provincial or local authorities.
 
@@ -136,11 +158,11 @@ c). To the extent necessary to carry out the functions of the Organization, fund
 
 9. This Article shall not apply to taxes and duties that are no more than charges for public utility services.
 
-#### Article 9. Freedom of financial assets from restrictions
+##### Article 9. Freedom of financial assets from restrictions
 
 The Organization may receive and hold any kind of funds, currency, cash or securities. It may dispose of them freely for any purpose in accordance with its official activities and hold accounts in any currency to the extent required to meet its obligations.
 
-#### Article 10. Privileges and immunities of the Chief of Mission and other staff members of the Organization
+##### Article 10. Privileges and immunities of the Chief of Mission and other staff members of the Organization
 
 1. The staff members of the Organization shall enjoy such privileges, immunities and facilities as are necessary for the independent performance of their functions.They shall be accorded:
 
@@ -192,7 +214,7 @@ The Organization may receive and hold any kind of funds, currency, cash or secur
 
 7. The privileges and immunities accorded in this Agreement to the staff members of the Organization are provided solely to ensure in all circumstances the unimpeded functioning of the Organization and the complete independence of the persons to whom they are accorded and not for the personal benefit of the individuals themselves.
 
-#### Article 11. Family members forming part of the household of a staff member of the Organization
+##### Article 11. Family members forming part of the household of a staff member of the Organization
 
 The following persons shall be considered members of the family forming part of the household of a staff member of the Organization:
 
@@ -206,7 +228,7 @@ The following persons shall be considered members of the family forming part of 
 
 - e). any other persons who, in exceptional cases or for humanitarian reasons, the Organization and the host State agree to treat as members of the family forming part of the household.
 
-#### Article 12. Employment of family members forming part of the household
+##### Article 12. Employment of family members forming part of the household
 
 1. Members of the family forming part of the household of any staff member of the Organization shall be authorised to engage in gainful employment in the host State for the duration of the term of office of the staff member concerned.
 
@@ -216,7 +238,7 @@ The following persons shall be considered members of the family forming part of 
 
 4. The employment referred to in paragraph 1 shall be in accordance with the legislation of the host State, including fiscal and social security legislation.
 
-#### Article 13. Notification
+##### Article 13. Notification
 
 1. The Organization shall promptly notify the Government of:
 
@@ -230,17 +252,17 @@ The following persons shall be considered members of the family forming part of 
 
 3. At the final departure of the persons referred to in paragraph 2 of this Article or when these persons have ceased to perform their functions, the identity card referred to in paragraph 2 of this Article shall be promptly returned by the Organization to the Ministry of Foreign Affairs.
 
-#### Article 14. Social security
+##### Article 14. Social security
 
 1. The social security system of the Organization offers coverage comparable to the coverage under the legislation of the host State. The Organization and the staff members of the Organization to whom the above-mentioned scheme applies shall be exempt from social security provisions of the host State. Consequently, they shall not be covered against the risks described in the social security provisions of the host State. This exemption applies to them, unless they take up gainful activity in the host State.
 
 2. Any provident fund established by or conducted under the authority of the Organization shall enjoy legal capacity in the Kingdom of the Netherlands if the Organization so requests and shall enjoy the same exemptions, privileges and immunities as the Organization itself.
 
-#### Article 15. Waiver of privileges and immunities
+##### Article 15. Waiver of privileges and immunities
 
 The Director General has the right and the duty to waive the immunities accorded in this Agreement in any particular case where, in his or her opinion, they would impede the course of justice and can be waived without prejudice to the purpose for which they are accorded.
 
-#### Article 16. Cooperation with the competent authorities
+##### Article 16. Cooperation with the competent authorities
 
 1. The Organization shall cooperate with the competent authorities to facilitate the enforcement of the laws of the host State, to secure the observance of police regulations and to prevent the occurrence of any abuse in connection with the privileges, immunities and facilities accorded under this Agreement.
 
@@ -254,7 +276,7 @@ The Director General has the right and the duty to waive the immunities accorded
 
 6. The right of the Government to take all precautionary measures in the interests of its security shall not be prejudiced by any provision in this Agreement.
 
-#### Article 17. Dispute settlement
+##### Article 17. Dispute settlement
 
 The Organization shall submit to an international arbitration tribunal any dispute (other than a dispute concerning the interpretation or application of the [Constitution](https://wetten.overheid.nl/jci1.3:c:BWBV0004992) or any succeeding Constitution):
 
@@ -264,7 +286,7 @@ The Organization shall submit to an international arbitration tribunal any dispu
 
 - 3. disputes of a private-law character to which the Organization is a party.
 
-#### Article 18. Disputes arising out of this Agreement
+##### Article 18. Disputes arising out of this Agreement
 
 1. All differences arising out of the interpretation or application of this Agreement or supplementary arrangements or agreements between the Organization and the host State shall be settled by consultation, negotiation or other agreed mode of settlement.
 
@@ -276,7 +298,7 @@ The Organization shall submit to an international arbitration tribunal any dispu
 
 5. The arbitral tribunal, which shall decide by a majority of votes, shall reach a decision on the difference on the basis of the provisions of this Agreement and subsequent arrangements or agreements and the applicable rules of international law. The decision of the arbitral tribunal shall be final and binding on the Parties.
 
-#### Article 19. Entry into force, Termination, Amendments and others
+##### Article 19. Entry into force, Termination, Amendments and others
 
 1. This Agreement shall enter into force on the day after both Parties have notified each other in writing that the legal requirements for entry into force have been complied with, and its provisions shall have effect on that same day.
 

@@ -1,13 +1,37 @@
 ---
 title: "Verdrag van Tampere inzake de levering van telecommunicatievoorzieningen voor rampenmitigatie en noodhulpoperaties"
 identifier: "BWBV0001487"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2005-01-08
-laatste_update: 2005-01-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001487"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-01-08"
+last_updated: "2005-01-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001487"
+soort: "verdrag"
+stam_id: "10000308253"
+version_id: "10000317192"
+internal_id: "C10006989531"
+label_id: "10000308484"
+original_entry_into_force: "2005-01-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001487/2005-01-08/0"
+intitule_bron: "Trb.2001-12"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-07-06"
+intitule_published: "2001-01-12"
+intitule_in_force: "2005-07-08"
+intitule_status: "goed"
+original_publication: "Trb.2001-12"
+original_signed_date: "2001-07-06"
+original_published_date: "2001-01-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2001-12"
+entry_into_force_date: "2005-01-08"
+jci_1_3: "jci1.3:c:BWBV0001487&z=2005-01-08&g=2005-01-08"
+jci_1_0: "1.0:c:BWBV0001487&g=2005-01-08"
+citeertitel_status: "officieel"
+signed_date: "2001-07-06"
+entry_into_force: "2005-01-08"
 ---
-
 # Verdrag van Tampere inzake de levering van telecommunicatievoorzieningen voor rampenmitigatie en noodhulpoperaties
 
 De Staten die Partij zijn bij dit Verdrag,
@@ -56,7 +80,7 @@ Voorts geleid door de wens internationale samenwerking te vergemakkelijken tenei
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 Voor de toepassing van dit Verdrag hebben onderstaande termen, tenzij uit de context waarin zij worden gebruikt anderszins blijkt, de volgende betekenis:
 
@@ -90,7 +114,7 @@ Voor de toepassing van dit Verdrag hebben onderstaande termen, tenzij uit de con
 
 - 15. „Telecommunicatie": elke overbrenging, uitzending of ontvangst van tekens, signalen, schrift, beelden, geluiden of informatie van welke aard ook door middel van kabel- of radiostelsels, glasvezel- of andere elektromagnetische systemen.
 
-#### Artikel 2. Coördinatie
+##### Artikel 2. Coördinatie
 
 1. De Coördinator van de Verenigde Naties voor Rampenhulp is de uitvoerende coördinator voor dit Verdrag en kwijt zich van de verantwoordelijkheden van de uitvoerende coördinator als omschreven in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=3&z=2005-01-08&g=2005-01-08), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=4&z=2005-01-08&g=2005-01-08), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=6&z=2005-01-08&g=2005-01-08), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=7&z=2005-01-08&g=2005-01-08), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=8&z=2005-01-08&g=2005-01-08) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0001487&artikel=9&z=2005-01-08&g=2005-01-08).
 
@@ -98,7 +122,7 @@ Voor de toepassing van dit Verdrag hebben onderstaande termen, tenzij uit de con
 
 3. De verantwoordelijkheden van de uitvoerende coördinator ingevolge dit Verdrag beperken zich tot coördinerende activiteiten met een internationaal karakter.
 
-#### Artikel 3. Algemene bepalingen
+##### Artikel 3. Algemene bepalingen
 
 1. De Staten die Partij zijn werken, in overeenstemming met het bepaalde in dit Verdrag, onderling en met organen anders dan Staten en intergouvernementele organisaties samen, teneinde het gebruik van telecommunicatievoorzieningen voor rampenmitigatie en noodhulp te vergemakkelijken.
 
@@ -126,7 +150,7 @@ Voor de toepassing van dit Verdrag hebben onderstaande termen, tenzij uit de con
 
 5. De Staten die Partij zijn werken onderling samen teneinde de mogelijkheden van gouvernementele organisaties, organen anders dan Staten en intergouvernementele organisaties te vergroten, opdat deze opleidingsstelsels kunnen opzetten voor de behandeling en de bediening van apparatuur, alsmede cursussen voor het ontwikkelen, ontwerpen en bouwen van noodtelecommunicatiefaciliteiten voor het voorkomen, volgen en mitigeren van rampen.
 
-#### Artikel 4. Het verlenen van bijstand op het gebied van telecommunicatie
+##### Artikel 4. Het verlenen van bijstand op het gebied van telecommunicatie
 
 1. Een Staat die Partij is die bijstand op het gebied van telecommunicatie voor rampenmitigatie en noodhulp behoeft, kan elk van de Staten die Partij zijn daarom verzoeken, hetzij rechtstreeks hetzij door tussenkomst van de uitvoerende coördinator. Indien het verzoek wordt gedaan door tussenkomst van de uitvoerende coördinator, verspreidt de uitvoerende coördinator deze informatie onmiddellijk onder alle andere betrokken Staten die Partij zijn. Indien het verzoek rechtstreeks aan een andere Staat die Partij is wordt gedaan, stelt de verzoekende Staat die Partij is de uitvoerende coördinator zo spoedig mogelijk hiervan in kennis.
 
@@ -144,7 +168,7 @@ Voor de toepassing van dit Verdrag hebben onderstaande termen, tenzij uit de con
 
 8. Niets in dit Verdrag doet afbreuk aan het recht van een Staat die Partij is overeenkomstig zijn nationale wetgeving toezicht te houden op de overeenkomstig dit Verdrag op zijn grondgebied verleende bijstand op het gebied van telecommunicatie en deze te leiden, te controleren en te coördineren.
 
-#### Artikel 5. Voorrechten, immuniteiten en faciliteiten
+##### Artikel 5. Voorrechten, immuniteiten en faciliteiten
 
 1. De verzoekende Staat die Partij is kent, voor zover zijn nationale wetgeving dat toestaat, aan personen die geen onderdaan van de desbetreffende Staat zijn, en aan organisaties, anders dan die welke hun zetel of hun vestiging op zijn grondgebied hebben, die handelen ingevolge dit Verdrag teneinde bijstand op het gebied van telecommunicatie te verlenen en waarvan mededeling is gedaan aan en die zijn aanvaard door de verzoekende Staat die Partij is, de voorrechten, immuniteiten en faciliteiten toe welke nodig zijn voor de uitvoering van hun taken, met inbegrip van, doch niet beperkt tot:
 
@@ -168,7 +192,7 @@ Voor de toepassing van dit Verdrag hebben onderstaande termen, tenzij uit de con
 
 8. Niets in dit artikel doet afbreuk aan de rechten en verplichtingen ten aanzien van voorrechten en immuniteiten die zijn toegekend aan personen en organisaties die onmiddellijk of middellijk deelnemen aan bijstand op het gebied van telecommunicatie ingevolge andere internationale verdragen (daaronder begrepen het [Verdrag nopens de voorrechten en immuniteiten van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0005561), aangenomen door de Algemene Vergadering op 13 februari 1946, en het [Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties](https://wetten.overheid.nl/jci1.3:c:BWBV0005536), aangenomen door de Algemene Vergadering op 21 november 1947) of het internationale recht.
 
-#### Artikel 6. Beëindiging van de bijstandsverlening
+##### Artikel 6. Beëindiging van de bijstandsverlening
 
 1. De verzoekende Staat die Partij is of de Staat die Partij is en bijstand verleent, kan te allen tijde de bijstand op het gebied van telecommunicatie die ingevolge artikel 4 wordt ontvangen of verleend door middel van een schriftelijke kennisgeving beëindigen. Na ontvangst van de kennisgeving plegen de betrokken Staten die Partij zijn overleg teneinde de bijstand op passende en snelle wijze te beëindigen, waarbij zij rekening houden met de gevolgen die de beëindiging zal hebben voor het gevaar voor mensenlevens en lopende noodhulpoperaties.
 
@@ -176,7 +200,7 @@ Voor de toepassing van dit Verdrag hebben onderstaande termen, tenzij uit de con
 
 3. Elke Staat die Partij is die om beëindiging van de bijstand op het gebied van telecommunicatie verzoekt, stelt de uitvoerende coördinator van dit verzoek in kennis. De uitvoerende coördinator verleent de bijstand waarom is verzocht en die noodzakelijk is om de beëindiging van de bijstand op het gebied van telecommunicatie te vergemakkelijken.
 
-#### Artikel 7. Betaling of vergoeding van kosten of honoraria
+##### Artikel 7. Betaling of vergoeding van kosten of honoraria
 
 1. De Staten die Partij zijn kunnen de verlening van bijstand op het gebied van telecommunicatie voor rampenmitigatie en noodhulp onderwerpen aan de voorwaarde van instemming met betaling of vergoeding van gespecificeerde kosten of honoraria, te allen tijde indachtig het bepaalde van het negende lid van dit artikel.
 
@@ -224,7 +248,7 @@ Voor de toepassing van dit Verdrag hebben onderstaande termen, tenzij uit de con
 
 - c. de toepassing van dit artikel niet onverenigbaar is met enige andere overeenkomst inzake de betrekkingen tussen de verzoekende Staat die Partij is en het orgaan anders dan een Staat of de intergouvernementele organisatie die de bijstand op het gebied van telecommunicatie verleent.
 
-#### Artikel 8. Inventarisatie van de informatie ter zake van bijstand op het gebied van telecommunicatie
+##### Artikel 8. Inventarisatie van de informatie ter zake van bijstand op het gebied van telecommunicatie
 
 1. Elke Staat die Partij is informeert de uitvoerende coördinator over zijn autoriteit of autoriteiten:
 
@@ -242,7 +266,7 @@ Voor de toepassing van dit Verdrag hebben onderstaande termen, tenzij uit de con
 
 6. De uitvoerende coördinator behandelt de door organen, anders dan Staten en intergouvernementele organisaties, nedergelegde informatie op dezelfde wijze als door Staten die Partij zijn nedergelegde informatie.
 
-#### Artikel 9. Belemmeringen van regelgevende aard
+##### Artikel 9. Belemmeringen van regelgevende aard
 
 1. De Staten die Partij zijn beperken of nemen, voor zover mogelijk en met inachtneming van hun nationale wetgeving, belemmeringen van regelgevende aard weg voor het gebruik van telecommunicatievoorzieningen voor rampenmitigatie en noodhulp, met inbegrip van het verlenen van bijstand op het gebied van telecommunicatie.
 
@@ -286,11 +310,11 @@ Voor de toepassing van dit Verdrag hebben onderstaande termen, tenzij uit de con
 
 7. Niets in dit artikel staat overtreding of herroeping van verplichtingen en verantwoordelijkheden toe welke worden opgelegd door de nationale wetgeving, internationaal recht of multilaterale of bilaterale verdragen, met inbegrip van verplichtingen en verantwoordelijkheden ten aanzien van douane-inspecties en uitvoercontroles.
 
-#### Artikel 10. Relatie tot andere internationale verdragen
+##### Artikel 10. Relatie tot andere internationale verdragen
 
 Dit Verdrag is niet van invloed op de rechten en verplichtingen van Staten die Partij zijn welke voortvloeien uit andere internationale verdragen of internationaal recht.
 
-#### Artikel 11. Beslechting van geschillen
+##### Artikel 11. Beslechting van geschillen
 
 1. In geval van een geschil tussen de Staten die Partij zijn betreffende de uitleg of de toepassing van dit Verdrag, plegen de Staten die Partij zijn die partij zijn bij het geschil onderling overleg teneinde het geschil te beslechten. Dit overleg begint onmiddellijk na de schriftelijke verklaring van een Staat die Partij is aan een andere Staat die Partij is inzake het bestaan van een geschil ingevolge dit Verdrag. De Staat die Partij is die de schriftelijke verklaring betreffende het bestaan van een geschil opstelt, doet onverwijld een afschrift van de verklaring toekomen aan de depositaris.
 
@@ -308,7 +332,7 @@ Dit Verdrag is niet van invloed op de rechten en verplichtingen van Staten die P
 
 6. Op het tijdstip van ondertekening, bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot, dit Verdrag kan een Staat verklaren zich niet gebonden te achten aan één of beide procedures voor beslechting van geschillen, als bedoeld in het derde lid. De andere Staten die Partij zijn zijn niet gebonden aan een procedure voor beslechting van geschillen, als bedoeld in het derde lid, ten opzichte van een Staat die Partij is waarvoor een dergelijke verklaring geldt.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening voor alle Staten die lid zijn van de Verenigde Naties of van de Internationale Telecommunicatie Unie tijdens de Intergouvernementele Conferentie inzake telecommunicatie in noodsituaties in Tampere op 18 juni 1998, en nadien op het hoofdkwartier van de Verenigde Naties, New York, van 22 juni 1998 tot en met 21 juni 2003.
 
@@ -324,7 +348,7 @@ Dit Verdrag is niet van invloed op de rechten en verplichtingen van Staten die P
 
 4. Voor elke Staat die definitief ondertekent of een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nederlegt nadat aan de voorwaarde als bedoeld in het derde lid van dit artikel is voldaan, treedt dit Verdrag in werking dertig (30) dagen na de datum van de definitieve ondertekening of de instemming te worden gebonden.
 
-#### Artikel 13. Wijzigingen
+##### Artikel 13. Wijzigingen
 
 1. Een Staat die Partij is kan wijzigingen in dit Verdrag voorstellen door de wijzigingen in te dienen bij de depositaris, die deze ter goedkeuring doet toekomen aan de andere Staten die Partij zijn.
 
@@ -334,13 +358,13 @@ Dit Verdrag is niet van invloed op de rechten en verplichtingen van Staten die P
 
 4. Het protocol treedt op dezelfde wijze in werking als dit Verdrag. Voor elke Staat die het protocol definitief ondertekent of een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nederlegt nadat aan de voorwaarden voor inwerkingtreding van het protocol is voldaan, treedt het protocol voor die Staat in werking dertig (30) dagen na de datum van de definitieve ondertekening of de instemming te worden gebonden.
 
-#### Artikel 14. Voorbehouden
+##### Artikel 14. Voorbehouden
 
 1. Op het tijdstip van de definitieve ondertekening of bekrachtiging van, of toetreding tot, dit Verdrag of enige wijziging hiervan, kan een Staat die Partij is voorbehouden maken.
 
 2. Een Staat die Partij is kan zijn eerder gemaakte voorbehoud te allen tijde opheffen door middel van een schriftelijke kennisgeving aan de depositaris. De opheffing van een voorbehoud wordt onmiddellijk na kennisgeving aan de depositaris van kracht.
 
-#### Artikel 15. Opzegging
+##### Artikel 15. Opzegging
 
 1. Een Staat die Partij is kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de depositaris.
 
@@ -348,11 +372,11 @@ Dit Verdrag is niet van invloed op de rechten en verplichtingen van Staten die P
 
 3. Op verzoek van de Staat die Partij is die opzegt, worden alle afschriften van lijsten met autoriteiten en met aangenomen maatregelen en beschikbare procedures voor beperking van belemmeringen van regelgevende aard welke zijn verschaft door een Staat die Partij is die dit Verdrag opzegt, buiten werking gesteld met ingang van de datum waarop de opzegging van kracht wordt.
 
-#### Artikel 16. Depositaris
+##### Artikel 16. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties is de depositaris van dit Verdrag.
 
-#### Artikel 17. Authentieke teksten
+##### Artikel 17. Authentieke teksten
 
 Het origineel van dit Verdrag, waarvan de Arabische, Chinese, Engelse, Franse, Russische en Spaanse teksten gelijkelijk authentiek zijn, wordt nedergelegd bij de depositaris. Slechts de Engelse, Franse en Spaanse authentieke teksten worden beschikbaar gesteld voor ondertekening in Tampere op 18 juni 1998. De depositaris stelt zo spoedig mogelijk daarna de authentieke teksten in de Arabische, Chinese en Russische taal op.
 

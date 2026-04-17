@@ -1,14 +1,41 @@
 ---
-title: "Wet kinderopvang BES"
+title: "Wet van 22 mei 2024, houdende regels ten behoeve van de kinderopvang op Bonaire, Sint Eustatius en Saba (Wet kinderopvang BES)"
 identifier: "BWBR0049771"
-categorie: "Overig"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049771"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049771"
+soort: "wet-BES"
+stam_id: "17119803"
+version_id: "30130862"
+internal_id: "C44619201"
+label_id: "17029034"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049771/2026-04-01/0"
+intitule_bron: "Stb.2024-140"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-05-22"
+intitule_published: "2024-06-04"
+intitule_in_force: "2025-12-11"
+intitule_status: "goed"
+original_publication: "Stb.2024-140"
+original_signed_date: "2024-05-22"
+original_published_date: "2024-06-04"
+original_effect: "nieuwe-regeling"
+original_dossier: "36306"
+original_url_id: "stb-2024-140"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0049771&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0049771&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Wet kinderopvang BES"
+signed_date: "2024-05-22"
+entry_into_force: "2026-01-01"
 ---
-
-# Wet kinderopvang BES
+# Wet van 22 mei 2024, houdende regels ten behoeve van de kinderopvang op Bonaire, Sint Eustatius en Saba (Wet kinderopvang BES)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -72,7 +99,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **programma voor voorschoolse educatie:** programma dat gericht is op het verbeteren van de voorwaarden voor het met succes instromen in het basisonderwijs voor kinderen die nog niet tot het onderwijs kunnen worden toegelaten.
 
-#### Artikel 1.2. Reikwijdte
+##### Artikel 1.2. Reikwijdte
 
 Deze wet is van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -80,7 +107,7 @@ Deze wet is van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Sa
 
 #### § 1. Vergunningplicht
 
-#### Artikel 2.1. Exploitatievergunning
+##### Artikel 2.1. Exploitatievergunning
 
 1. Het is verboden zonder vergunning van het bestuurscollege:
 
@@ -110,7 +137,7 @@ Deze wet is van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Sa
 
 #### § 2. Kwaliteitseisen kinderopvang
 
-#### Artikel 2.2. Kinderopvangovereenkomst
+##### Artikel 2.2. Kinderopvangovereenkomst
 
 1. Opvang door een houder van een kindercentrum of een gastouder geschiedt op basis van een kinderopvangovereenkomst.
 
@@ -120,7 +147,7 @@ Deze wet is van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Sa
 
 4. Bij ministeriële regeling worden regels gesteld met betrekking tot de inhoud van de kinderopvangovereenkomst.
 
-#### Artikel 2.3. Verantwoorde kinderopvang
+##### Artikel 2.3. Verantwoorde kinderopvang
 
 1. Een houder van een kindercentrum of gastouder biedt verantwoorde kinderopvang, waaronder wordt verstaan:
 
@@ -140,7 +167,7 @@ Deze wet is van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Sa
 
 5. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de onderwerpen en taken waarover het bestuurscollege voor begeleiding en ondersteuning aan de houder van een kindercentrum of gastouder of pedagogische ondersteuning en advies zorgdraagt, waarbij onderscheid kan worden gemaakt tussen de openbare lichamen.
 
-#### Artikel 2.4. Kwaliteit kinderopvang kindercentrum
+##### Artikel 2.4. Kwaliteit kinderopvang kindercentrum
 
 1. Een houder van een kindercentrum:
 
@@ -210,7 +237,7 @@ dat een en ander redelijkerwijs leidt tot verantwoorde kinderopvang.
 
 - d. lokale partners met wie de houder van een kindercentrum afspraken maakt ten behoeve van de optimale ontwikkeling van kinderen.
 
-#### Artikel 2.5. Beperkingen gastouderopvang
+##### Artikel 2.5. Beperkingen gastouderopvang
 
 Gastouderopvang wordt niet geboden door degene:
 
@@ -218,7 +245,7 @@ Gastouderopvang wordt niet geboden door degene:
 
 - b. die ten behoeve van de opvang van kinderen in enigerlei vorm personeel in dienst heeft.
 
-#### Artikel 2.6. Kwaliteit kinderopvang gastouder
+##### Artikel 2.6. Kwaliteit kinderopvang gastouder
 
 1. Een gastouder:
 
@@ -272,7 +299,7 @@ dat een en ander redelijkerwijs leidt tot verantwoorde kinderopvang.
 
 - g. het dagritme.
 
-#### Artikel 2.7. Voertaal
+##### Artikel 2.7. Voertaal
 
 1. Bij kinderopvang in een kindercentrum of gastouderopvang wordt als voertaal gebruikt:
 
@@ -282,7 +309,7 @@ dat een en ander redelijkerwijs leidt tot verantwoorde kinderopvang.
 
 2. In afwijking van het eerste lid kan mede een andere taal als voertaal worden gebruikt, indien de herkomst van de kinderen in specifieke omstandigheden daartoe noodzaakt.
 
-#### Artikel 2.8. Verklaring omtrent gedrag
+##### Artikel 2.8. Verklaring omtrent gedrag
 
 1. In het bezit van een verklaring omtrent het gedrag zijn:
 
@@ -306,7 +333,7 @@ dat een en ander redelijkerwijs leidt tot verantwoorde kinderopvang.
 
 5. Een houder van een kindercentrum of gastouder bewaart de verklaringen omtrent gedrag gedurende drie jaar.
 
-#### Artikel 2.9. Klachtenprocedure
+##### Artikel 2.9. Klachtenprocedure
 
 1. De houder van een kindercentrum stelt een klachtenprocedure voor ouders in.
 
@@ -318,7 +345,7 @@ dat een en ander redelijkerwijs leidt tot verantwoorde kinderopvang.
 
 - b. de organisatie en de uitoefening van de taken, bedoeld in het tweede lid.
 
-#### Artikel 2.10. Oudercommissie
+##### Artikel 2.10. Oudercommissie
 
 1. Een houder van een kindercentrum stelt een oudercommissie in die tot taak heeft hem te adviseren.
 
@@ -330,7 +357,7 @@ dat een en ander redelijkerwijs leidt tot verantwoorde kinderopvang.
 
 3. Bij of krachtens eilandsverordening worden nadere regels gesteld met betrekking tot het instellen van een oudercommissie van een kindercentrum.
 
-#### Artikel 2.10a
+##### Artikel 2.10a
 
 1. Onze Minister wijst een of meer natuurlijke personen of rechtspersonen aan als deskundige ten behoeve van de volgende personen die geconfronteerd worden of op enigerlei wijze bekend worden met een vermoeden van een misdrijf tegen de zeden als bedoeld in [Titel XIV van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&titeldeel=XIV) of mishandeling als bedoeld in [Titel XX van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&titeldeel=XX), gepleegd door een houder van een kindercentrum, een gastouder, een persoon die bij een kindercentrum of gastouder werkzaam is of een persoon die structureel aanwezig is op een locatie waar gastouderopvang plaatsvindt:
 
@@ -368,7 +395,7 @@ dat een en ander redelijkerwijs leidt tot verantwoorde kinderopvang.
 
 8. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de deskundige, waaronder de onafhankelijkheid en deskundigheid van de deskundige en voorschriften die aan de aanwijzing als deskundige worden verbonden.
 
-#### Artikel 2.11. Werkwijze houder bij strafbare feiten in kindercentrum
+##### Artikel 2.11. Werkwijze houder bij strafbare feiten in kindercentrum
 
 1. Indien de houder van een kindercentrum op enigerlei wijze bekend is geworden dat een bij zijn rechtspersoon werkzaam persoon zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf tegen de zeden als bedoeld in [Titel XIV van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&titeldeel=XIV) of mishandeling als bedoeld in [Titel XX van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&titeldeel=XX) jegens een kind van een ouder die gebruik maakt van de door hem geboden kinderopvang, treedt de houder onverwijld in overleg met een deskundige als bedoeld in [artikel 2.10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=2&artikel=2.10a&z=2026-04-01&g=2026-04-01).
 
@@ -380,7 +407,7 @@ dat een en ander redelijkerwijs leidt tot verantwoorde kinderopvang.
 
 5. De houder van een kindercentrum bevordert de kennis en het gebruik van de handelwijze, bedoeld in dit artikel.
 
-#### Artikel 2.12. Werkwijze bij strafbare feiten door houder kindercentrum
+##### Artikel 2.12. Werkwijze bij strafbare feiten door houder kindercentrum
 
 1. Indien een bij de rechtspersoon van de houder van een kindercentrum werkzame persoon op enigerlei wijze bekend is geworden dat de natuurlijke persoon die tevens houder is van een kindercentrum zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf tegen de zeden als bedoeld in [Titel XIV van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=XIV) of mishandeling als bedoeld in [Titel XX van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=XX) jegens een kind van een ouder die gebruik maakt van de door die houder geboden kinderopvang kan degene in overleg treden met een deskundige als bedoeld in [artikel 2.10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=2&artikel=2.10a&z=2026-04-01&g=2026-04-01).
 
@@ -388,11 +415,11 @@ dat een en ander redelijkerwijs leidt tot verantwoorde kinderopvang.
 
 3. De houder van een kindercentrum bevordert de kennis en het gebruik van de handelwijze, bedoeld in dit artikel.
 
-#### Artikel 2.13. Werkwijze bij strafbare feiten gastouderopvang
+##### Artikel 2.13. Werkwijze bij strafbare feiten gastouderopvang
 
 Indien een gastouder op enigerlei wijze bekend is geworden dat een persoon van 18 jaar of ouder die structureel aanwezig is op een locatie waar gastouderopvang plaatsvindt zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf tegen de zeden als bedoeld in [Titel XIV van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=XIV) of mishandeling als bedoeld in [Titel XX van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=XX), treedt de gastouder onverwijld in overleg met een deskundige als bedoeld in [artikel 2.10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=2&artikel=2.10a&z=2026-04-01&g=2026-04-01).
 
-#### Artikel 2.14. Informatieverstrekking aan ouders en personeel
+##### Artikel 2.14. Informatieverstrekking aan ouders en personeel
 
 1. Een houder van een kindercentrum of een gastouder informeert de ouders wier kinderen in het kindercentrum worden opgevangen en eenieder die daarom verzoekt over het te voeren beleid als bedoeld in deze paragraaf.
 
@@ -410,7 +437,7 @@ Indien een gastouder op enigerlei wijze bekend is geworden dat een persoon van 1
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de informatie die de houder van een kindercentrum of gastouder beschikbaar stelt aan een ouder.
 
-#### Artikel 2.15. Doorstroom naar basisonderwijs
+##### Artikel 2.15. Doorstroom naar basisonderwijs
 
 1. Met als doel de bevordering van een goede doorstroom van kinderen naar het basisonderwijs, verwerken een houder van een kindercentrum en een gastouder persoonsgegevens over het ontwikkelproces van het kind.
 
@@ -430,7 +457,7 @@ Indien een gastouder op enigerlei wijze bekend is geworden dat een persoon van 1
 
 - e. de eisen die aan de gegevensverwerking worden gesteld.
 
-#### Artikel 2.16. Tweemaal jaarlijks overleg
+##### Artikel 2.16. Tweemaal jaarlijks overleg
 
 1. Het bestuurscollege draagt er zorg voor dat ten minste tweemaal jaarlijks overleg plaatsvindt en draagt zorg voor het maken van afspraken:
 
@@ -444,7 +471,7 @@ Indien een gastouder op enigerlei wijze bekend is geworden dat een persoon van 1
 
 #### § 3. Opvang voor kinderen met extra ondersteuningsbehoefte
 
-#### Artikel 2.17. Voorwaarden voor aanbieden plusopvang
+##### Artikel 2.17. Voorwaarden voor aanbieden plusopvang
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent voorwaarden voor het aanbieden van plusopvang door een houder van een kindercentrum of een gastouder, waarbij onderscheid kan worden gemaakt tussen dagopvang, buitenschoolse opvang en flexibele opvang en tussen de openbare lichamen, die betrekking kunnen hebben op:
 
@@ -462,7 +489,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent vo
 
 - g. de beschikbare ruimte voor kinderen.
 
-#### Artikel 2.18. Expertisecentrum onderwijszorg
+##### Artikel 2.18. Expertisecentrum onderwijszorg
 
 1. Het expertisecentrum onderwijszorg draagt zorg voor deskundige ondersteuning bij de opvang van kinderen met mogelijk een extra ondersteuningsbehoefte, waaronder in elk geval de volgende taken worden verstaan:
 
@@ -482,7 +509,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent vo
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de taken, bedoeld in het eerste lid.
 
-#### Artikel 2.19. Verwerking van persoonsgegevens betreffende iemands gezondheid
+##### Artikel 2.19. Verwerking van persoonsgegevens betreffende iemands gezondheid
 
 1. Gelet op [artikel 21, eerste lid, onderdeel a, van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=21) is het verbod om persoonsgegevens betreffende iemands gezondheid te verwerken niet van toepassing op de verwerking door:
 
@@ -518,13 +545,13 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent vo
 
 #### § 1. Algemeen
 
-#### Artikel 3.1. Aanspraak
+##### Artikel 3.1. Aanspraak
 
 De ouder en diens partner die tevens ouder is, hebben voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen een gezamenlijke aanspraak.
 
 #### § 2. Kinderopvangvergoeding
 
-#### Artikel 3.2. Verstrekken kinderopvangvergoeding
+##### Artikel 3.2. Verstrekken kinderopvangvergoeding
 
 1. Onze Minister verstrekt op aanvraag een kinderopvangvergoeding aan een houder van een kindercentrum of een gastouder voor de kosten van dagopvang, buitenschoolse opvang van een kind in dat kindercentrum of die voorziening voor gastouderopvang, indien:
 
@@ -554,7 +581,7 @@ De ouder en diens partner die tevens ouder is, hebben voor de toepassing van dit
 
 5. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de onderwerpen, bedoeld in het eerste lid.
 
-#### Artikel 3.3. Start- en einddatum kinderopvangvergoeding
+##### Artikel 3.3. Start- en einddatum kinderopvangvergoeding
 
 1. De kinderopvangvergoeding wordt verstrekt met ingang van de dag waarop de kinderopvang start.
 
@@ -568,7 +595,7 @@ De ouder en diens partner die tevens ouder is, hebben voor de toepassing van dit
 
 - c. de ouderbijdrage gedurende drie aaneengesloten maanden niet is betaald.
 
-#### Artikel 3.4. Maximering kinderopvangvergoeding
+##### Artikel 3.4. Maximering kinderopvangvergoeding
 
 1. De kinderopvangvergoeding wordt verstrekt per dagdeel dat een kind op grond van de kinderopvangovereenkomst aanwezig is, tot een maximum van:
 
@@ -582,7 +609,7 @@ De ouder en diens partner die tevens ouder is, hebben voor de toepassing van dit
 
 3. Dit lid is nog niet in werking getreden.
 
-#### Artikel 3.5. Nadere regels kinderopvangvergoeding
+##### Artikel 3.5. Nadere regels kinderopvangvergoeding
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de kinderopvangvergoeding, die betrekking kunnen hebben op:
 
@@ -598,7 +625,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de ki
 
 - b. indexering van de kinderopvangvergoeding.
 
-#### Artikel 3.6. Aanvraag kinderopvangvergoeding
+##### Artikel 3.6. Aanvraag kinderopvangvergoeding
 
 1. Bij ministeriële regeling wordt bepaald welke gegevens door de houder van een kindercentrum of gastouder bij een aanvraag als bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2026-04-01&g=2026-04-01), worden verstrekt.
 
@@ -606,7 +633,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de ki
 
 3. Indien Onze Minister voor de beoordeling van een aanvraag nadere informatie nodig acht, kan de termijn, bedoeld in het tweede lid, met acht weken worden verlengd. Onze Minister stelt de aanvrager van de verlenging in kennis.
 
-#### Artikel 3.7. Voorschot
+##### Artikel 3.7. Voorschot
 
 1. Onze Minister kan op verzoek van een houder van een kindercentrum of gastouder een voorschot op de kinderopvangvergoeding verstrekken.
 
@@ -614,7 +641,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de ki
 
 3. Bij ministeriële regeling wordt bepaald welke gegevens door de houder van een kindercentrum of gastouder bij een verzoek als bedoeld in het eerste lid worden verstrekt.
 
-#### Artikel 3.8. Wijzigen of intrekken kinderopvangvergoeding
+##### Artikel 3.8. Wijzigen of intrekken kinderopvangvergoeding
 
 1. Onze Minister kan een beschikking omtrent een kinderopvangvergoeding wijzigen of intrekken:
 
@@ -630,13 +657,13 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de ki
 
 4. Indien een kinderopvangvergoeding als gevolg van een wijziging of intrekking geheel of gedeeltelijk onverschuldigd is betaald, kan de kinderopvangvergoeding worden teruggevorderd voor zover die onverschuldigd is betaald.
 
-#### Artikel 3.9. Opschorten
+##### Artikel 3.9. Opschorten
 
 1. Onze Minister kan de uitbetaling van de kinderopvangvergoeding geheel of gedeeltelijk opschorten voor een periode van acht weken, indien redelijkerwijs wordt vermoed dat de kinderopvangvergoeding ten onrechte of tot een te hoog bedrag wordt verstrekt.
 
 2. De belanghebbenden worden van de opschorting in kennis gesteld.
 
-#### Artikel 3.10. Verrekenen
+##### Artikel 3.10. Verrekenen
 
 1. Onze Minister kan een door een houder van het kindercentrum of een gastouder verschuldigd bedrag verrekenen met de kinderopvangvergoeding of het voorschot daarop voor een volgende periode die op grond van deze wet aan die houder of gastouder wordt verstrekt.
 
@@ -652,13 +679,13 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de ki
 
 #### § 3. Ouderbijdrage
 
-#### Artikel 3.11. Berekeningswijze en hoogte ouderbijdrage
+##### Artikel 3.11. Berekeningswijze en hoogte ouderbijdrage
 
 1. Voor de kosten van kinderopvang waarvoor een kinderopvangvergoeding wordt verstrekt betaalt de ouder een ouderbijdrage.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de berekeningswijze en de hoogte van de ouderbijdrage per dagdeel, waarbij rekening wordt gehouden met de soort kinderopvang.
 
-#### Artikel 3.12. In rekening brengen en betaling ouderbijdrage
+##### Artikel 3.12. In rekening brengen en betaling ouderbijdrage
 
 1. De houder van het kindercentrum of de gastouder brengt de maandelijkse ouderbijdrage in rekening aan de ouder, waarbij rekening wordt gehouden met:
 
@@ -670,7 +697,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de ki
 
 3. De houder van het kindercentrum of de gastouder spant zich jegens de ouder in de in rekening gebrachte ouderbijdrage daadwerkelijk te innen.
 
-#### Artikel 3.13. Betaling ouderbijdrage door het bestuurscollege
+##### Artikel 3.13. Betaling ouderbijdrage door het bestuurscollege
 
 1. In afwijking van [artikel 3.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2026-04-01&g=2026-04-01), kan het bestuurscollege de ouderbijdrage voldoen aan de houder van het kindercentrum of de gastouder, indien de ouder de ouderbijdrage niet kan betalen.
 
@@ -678,15 +705,15 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de ki
 
 #### § 4. Overige bepalingen
 
-#### Artikel 3.14. Financiële dekking
+##### Artikel 3.14. Financiële dekking
 
 De financiële middelen tot dekking van de uitgaven van de ingevolge deze wet uit te keren kinderopvangvergoeding zijn de middelen die Onze Minister daarvoor op de begroting heeft opgenomen en de middelen die de openbare lichamen daarvoor ter beschikking stellen.
 
-#### Artikel 3.15. Kosten opvang zonder kinderopvangvergoeding
+##### Artikel 3.15. Kosten opvang zonder kinderopvangvergoeding
 
 Indien een houder van een kindercentrum of voorziening voor gastouderopvang een kind opvangt waarvoor geen kinderopvangvergoeding wordt verstrekt en wel voor andere kinderen kinderopvangvergoeding ontvangt, brengt die houder bij degene die de kinderopvangovereenkomst is aangegaan kosten in rekening die ten minste gelijk zijn aan de kinderopvangvergoeding die Onze Minister per maand voor de opvang van dat kind zou hebben verstrekt.
 
-#### Artikel 3.16. Aanvullende tegemoetkoming voor plusopvang
+##### Artikel 3.16. Aanvullende tegemoetkoming voor plusopvang
 
 1. Onze Minister kan op aanvraag een aanvullende tegemoetkoming verstrekken aan een houder van een kindercentrum of een gastouder voor de extra kosten van plusopvang, indien die kosten:
 
@@ -724,7 +751,7 @@ Indien een houder van een kindercentrum of voorziening voor gastouderopvang een 
 
 6. Bij ministeriële regeling wordt bepaald welke gegevens bij een aanvraag als bedoeld in het eerste lid worden verstrekt.
 
-#### Artikel 3.17. Kosten expertisecentrum onderwijszorg
+##### Artikel 3.17. Kosten expertisecentrum onderwijszorg
 
 1. Onze Minister voor Primair en Voortgezet Onderwijs verleent het expertisecentrum onderwijszorg subsidie voor de uitvoering van de taken, bedoeld in [artikel 2.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=3&artikel=2.18&z=2026-04-01&g=2026-04-01).
 
@@ -734,11 +761,11 @@ Indien een houder van een kindercentrum of voorziening voor gastouderopvang een 
 
 ### Hoofdstuk 4. Inlichtingen, administratie en gegevensverkeer
 
-#### Artikel 4.1. Administratie
+##### Artikel 4.1. Administratie
 
 Bij ministeriële regeling worden regels gesteld over de administratie van gegevens door een houder van een kindercentrum of voorziening voor gastouderopvang en de bewaartermijn van die gegevens.
 
-#### Artikel 4.2. Gegevensverstrekking houder kindercentrum of gastouder
+##### Artikel 4.2. Gegevensverstrekking houder kindercentrum of gastouder
 
 1. Een houder van een kindercentrum of gastouder verstrekt uit eigen beweging of op verzoek van Onze Minister onverwijld alle gegevens en inlichtingen die noodzakelijk zijn voor de vaststelling of de betaling van de kinderopvangvergoeding, of die tot wijzigingen leiden in de hoogte daarvan, waaronder in ieder geval:
 
@@ -750,7 +777,7 @@ Bij ministeriële regeling worden regels gesteld over de administratie van gegev
 
 3. Indien de gegevens of inlichtingen niet op tijd zijn verstrekt, maant Onze Minister de houder van het kindercentrum of de gastouder aan onder het stellen van een nadere termijn om alsnog de gevraagde gegevens en inlichtingen te verstrekken.
 
-#### Artikel 4.3. Gegevensverstrekking ouder
+##### Artikel 4.3. Gegevensverstrekking ouder
 
 1. De ouder en de partner van de ouder verstrekken uit eigen beweging of op verzoek van Onze Minister onverwijld alle gegevens en inlichtingen, waaronder persoonsgegevens van de ouder, de partner en het kind, die:
 
@@ -764,7 +791,7 @@ Bij ministeriële regeling worden regels gesteld over de administratie van gegev
 
 3. Indien de gegevens of inlichtingen niet op tijd zijn verstrekt, maant Onze Minister de ouder en de partner van de ouder aan onder het stellen van een nadere termijn om alsnog de gevraagde gegevens en inlichtingen te verstrekken.
 
-#### Artikel 4.4. Gegevensverstrekking voor kinderopvangvergoeding en ouderbijdrage
+##### Artikel 4.4. Gegevensverstrekking voor kinderopvangvergoeding en ouderbijdrage
 
 1. Onze Minister verwerkt de gegevens, bedoeld in dit artikel, met het oog op het besluiten over het verstrekken van een kinderopvangvergoeding, de betaling van een kinderopvangvergoeding.
 
@@ -776,7 +803,7 @@ Bij ministeriële regeling worden regels gesteld over de administratie van gegev
 
 - c. andere, bij algemene maatregel van bestuur aan te wijzen instanties die gehouden zijn gegevens aan Onze Minister te verstrekken waarvan de kennisneming noodzakelijk is voor de in het eerste lid genoemde doelen.
 
-#### Artikel 4.5. Gegevensverstrekking voor toezicht
+##### Artikel 4.5. Gegevensverstrekking voor toezicht
 
 1. Onze Minister, het bestuurscollege en andere, bij algemene maatregel van bestuur aan te wijzen instanties, zijn bevoegd uit eigen beweging en verplicht desgevraagd aan Onze Minister en op grond van de [artikelen 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-04-01&g=2026-04-01), of [184 van het Wetboek van strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) aangewezen ambtenaren kosteloos alle gegevens en inlichtingen te verstrekken die noodzakelijk zijn voor:
 
@@ -788,13 +815,13 @@ Bij ministeriële regeling worden regels gesteld over de administratie van gegev
 
 3. Onze Minister, het bestuurscollege, op grond van [artikel 4.4, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=4&artikel=4.4&z=2026-04-01&g=2026-04-01), aangewezen instanties en op grond van de [artikelen 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-04-01&g=2026-04-01), of [184 van het Wetboek van strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) aangewezen ambtenaren kunnen bij het verwerken van persoonsgegevens gebruik maken van een administratienummer of ID-nummer.
 
-#### Artikel 4.6. Gegevensverstrekking aan bestuurscollege
+##### Artikel 4.6. Gegevensverstrekking aan bestuurscollege
 
 1. Onze Minister is bevoegd gegevens en inlichtingen te verstrekken aan het bestuurscollege, voor zover die gegevens en inlichtingen noodzakelijk zijn voor de uitvoering van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&z=2026-04-01&g=2026-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=3&z=2026-04-01&g=2026-04-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=5&z=2026-04-01&g=2026-04-01).
 
 2. Ambtenaren aangewezen op grond van de [artikelen 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-04-01&g=2026-04-01), of [184 van het Wetboek van strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) zijn bevoegd de gegevens en inlichtingen die zij verkrijgen van Onze Minister te verstrekken aan het bestuurscollege, indien dat noodzakelijk is voor de uitvoering van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&z=2026-04-01&g=2026-04-01).
 
-#### Artikel 4.7. Nadere regels
+##### Artikel 4.7. Nadere regels
 
 Bij algemene maatregel van bestuur worden nadere regels gesteld over gegevensverstrekking als bedoeld in dit hoofdstuk, die betrekking kunnen hebben op:
 
@@ -808,7 +835,7 @@ Bij algemene maatregel van bestuur worden nadere regels gesteld over gegevensver
 
 - e. de eisen die aan de gegevensverstrekking worden gesteld.
 
-#### Artikel 4.8. Informeren bestuurscollege bij ernstige overtreding
+##### Artikel 4.8. Informeren bestuurscollege bij ernstige overtreding
 
 Onze Minister informeert het bestuurscollege, indien Onze Minister een houder van een kindercentrum of een gastouder een bestuurlijke maatregel oplegt die van dien aard is dat de continuïteit van de kinderopvang in het geding kan zijn.
 
@@ -816,19 +843,19 @@ Onze Minister informeert het bestuurscollege, indien Onze Minister een houder va
 
 #### § 1. Toezichthouders
 
-#### Artikel 5.1. Aanwijzing toezichthouders
+##### Artikel 5.1. Aanwijzing toezichthouders
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 5.2. Bevoegdheden toezichthouders
+##### Artikel 5.2. Bevoegdheden toezichthouders
 
 1. [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van toepassing, met uitzondering van de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19), met dien verstande dat voor de in [artikel 5:16a van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16a) opgenomen verwijzing naar [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) gelezen moet worden: [artikel 2 van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2).
 
 2. Voor zover een kindercentrum of een gastouderopvang in een woning is gevestigd, is een op grond van [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-04-01&g=2026-04-01), aangewezen ambtenaar bevoegd zonder toestemming van de bewoner in die woning binnen te treden.
 
-#### Artikel 5.3. Overzicht exploitatievergunningen
+##### Artikel 5.3. Overzicht exploitatievergunningen
 
 1. Het bestuurscollege verstrekt op verzoek van een op grond van [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-04-01&g=2026-04-01), aangewezen ambtenaar een overzicht van alle houders van kindercentra en gastouders waaraan een exploitatievergunning is verleend.
 
@@ -842,7 +869,7 @@ Onze Minister informeert het bestuurscollege, indien Onze Minister een houder va
 
 4. Indien tijdens een onderzoek tekortkomingen zijn geconstateerd kunnen nadien een of meer nadere onderzoeken worden verricht.
 
-#### Artikel 5.4. Inspectierapport
+##### Artikel 5.4. Inspectierapport
 
 1. Een op grond van [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-04-01&g=2026-04-01), aangewezen ambtenaar legt het oordeel en bevindingen naar aanleiding van een onderzoek als bedoeld in [artikel 5.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=5&paragraaf=1&artikel=5.3&z=2026-04-01&g=2026-04-01), vast in een inspectierapport.
 
@@ -860,7 +887,7 @@ Onze Minister informeert het bestuurscollege, indien Onze Minister een houder va
 
 #### § 2. Verhouding bestuursrecht en strafrecht
 
-#### Artikel 5.5. Samenloop met strafrecht
+##### Artikel 5.5. Samenloop met strafrecht
 
 1. Indien de ernst van de overtreding of de omstandigheden waaronder zij is begaan daartoe aanleiding geven, wordt zij aan het openbaar ministerie voorgelegd.
 
@@ -868,11 +895,11 @@ Onze Minister informeert het bestuurscollege, indien Onze Minister een houder va
 
 #### § 3. Bestuurlijke maatregelen
 
-#### Artikel 5.6. Last onder dwangsom
+##### Artikel 5.6. Last onder dwangsom
 
 Onze Minister kan in geval van overtreding van het bepaalde bij of krachtens deze wet de overtreder een last onder dwangsom opleggen, die ertoe strekt de overtreding ongedaan te maken of verdere overtreding te voorkomen.
 
-#### Artikel 5.7. Bestuurlijke boete
+##### Artikel 5.7. Bestuurlijke boete
 
 1. Onze Minister kan een overtreder van het bepaalde bij of krachtens [artikel 2.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=2&artikel=2.16&z=2026-04-01&g=2026-04-01), een bestuurlijke boete opleggen van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 27, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=27).
 
@@ -894,7 +921,7 @@ Onze Minister kan in geval van overtreding van het bepaalde bij of krachtens dez
 
 6. [Artikel 27, zevende en achtste lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27) is van overeenkomstige toepassing.
 
-#### Artikel 5.8. Overeenkomstige toepassing [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 5.8. Overeenkomstige toepassing [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
 1. [Titel 5.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.1) is van overeenkomstige toepassing op de oplegging van een last onder dwangsom of een bestuurlijke boete als bedoeld [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2026-04-01&g=2026-04-01) respectievelijk [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=5&paragraaf=3&artikel=5.7&z=2026-04-01&g=2026-04-01), met dien verstande dat voor de in [artikel 5:1, derde lid, tweede volzin, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:1) opgenomen verwijzing naar [artikel 51, tweede en derde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=51) gelezen moet worden: [artikel 53, tweede en derde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=53).
 
@@ -908,7 +935,7 @@ Onze Minister kan in geval van overtreding van het bepaalde bij of krachtens dez
 
 - c. voor de in [artikel 5:48 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) opgenomen verwijzing naar [artikel 152 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=152) gelezen moet worden: [artikel 186 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=186).
 
-#### Artikel 5.9. Aanmaning en invordering
+##### Artikel 5.9. Aanmaning en invordering
 
 De [artikelen 4:89 tot en met 4:102](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:100), [4:104 tot en met 4:108](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:104), [4:110 tot en met 4:117](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:110), [4:119](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:119), [4:120, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:120), en [4:121 tot en met 4:125 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:121) zijn van overeenkomstige toepassing op de aanmaning en invordering van een last onder dwangsom of bestuurlijke boete als bedoeld in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=5&paragraaf=3&artikel=5.6&z=2026-04-01&g=2026-04-01) respectievelijk [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=5&paragraaf=3&artikel=5.7&z=2026-04-01&g=2026-04-01), met dien verstande dat moet worden gelezen voor:
 
@@ -926,13 +953,13 @@ De [artikelen 4:89 tot en met 4:102](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 - g. de in [artikel 4:123, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:123), opgenomen verwijzing naar de [artikelen 438](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=438) en [438a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=438a): de [artikelen 438](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=438) en [438a van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=438a).
 
-#### Artikel 5.10. Tijdelijke sluiting
+##### Artikel 5.10. Tijdelijke sluiting
 
 1. Onze Minister kan een kindercentrum of gastouderopvang onmiddellijk geheel of gedeeltelijk sluiten gedurende een door Onze Minister te bepalen periode, indien en zolang uit een onderzoek als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=5&paragraaf=1&artikel=5.3&z=2026-04-01&g=2026-04-01) blijkt dat de houder van het kindercentrum of de gastouder niet aan de bij of krachtens deze wet gegeven voorschriften voldoet en daardoor sprake is van een direct en ernstig gevaar voor de fysieke of sociale veiligheid of de gezondheid van personen.
 
 2. Bij toepassing van het eerste lid informeert Onze Minister het bestuurscollege.
 
-#### Artikel 5.11. Schorsen of intrekken vergunning
+##### Artikel 5.11. Schorsen of intrekken vergunning
 
 1. Het bestuurscollege kan de vergunning schorsen of intrekken, indien sprake is van herhaaldelijke overtreding van bij of krachtens deze wet gestelde regels, waardoor de kwaliteit van de kinderopvang of de veiligheid of de gezondheid van de kinderen of het personeel zodanig in het geding is dat geen sprake is van verantwoorde kinderopvang als bedoeld in de [artikelen 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2026-04-01&g=2026-04-01), of [2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2026-04-01&g=2026-04-01).
 
@@ -944,7 +971,7 @@ De [artikelen 4:89 tot en met 4:102](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 #### § 4. Opsporing
 
-#### Artikel 5.12. Strafbare feiten
+##### Artikel 5.12. Strafbare feiten
 
 1. Degene die opzettelijk de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2026-04-01&g=2026-04-01), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=2&artikel=2.3&z=2026-04-01&g=2026-04-01), [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2026-04-01&g=2026-04-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2026-04-01&g=2026-04-01), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2026-04-01&g=2026-04-01), [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2026-04-01&g=2026-04-01), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2026-04-01&g=2026-04-01), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2026-04-01&g=2026-04-01), [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=2&artikel=2.13&z=2026-04-01&g=2026-04-01), [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=3&artikel=2.17&z=2026-04-01&g=2026-04-01), [3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=3&paragraaf=4&artikel=3.15&z=2026-04-01&g=2026-04-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=4&artikel=4.2&z=2026-04-01&g=2026-04-01) of [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=4&artikel=4.3&z=2026-04-01&g=2026-04-01) overtreedt, wordt gestraft met een gevangenisstraf van ten hoogste twee jaren, een geldboete van de vierde categorie, bedoeld in [artikel 27, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27), of met beide straffen.
 
@@ -956,7 +983,7 @@ De [artikelen 4:89 tot en met 4:102](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 #### § 5. Mandaat en machtiging
 
-#### Artikel 5.13. Mandaat en machtiging
+##### Artikel 5.13. Mandaat en machtiging
 
 1. Onze Minister kan mandaat verlenen van de bevoegdheid tot:
 
@@ -970,17 +997,17 @@ De [artikelen 4:89 tot en met 4:102](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 ### Hoofdstuk 6. Overige en slotbepalingen
 
-#### Artikel 6.1. Overleg
+##### Artikel 6.1. Overleg
 
 1. Onze Minister voert in elk geval eenmaal per jaar overleg met de bestuurscolleges van de openbare lichamen en de op grond van [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2026-04-01&g=2026-04-01), aangewezen ambtenaren over het functioneren van het kinderopvangstelsel.
 
 2. Alle partijen werken mee aan de totstandkoming en naleving van de afspraken.
 
-#### Artikel 6.2. Vrijstelling en ontheffing
+##### Artikel 6.2. Vrijstelling en ontheffing
 
 Onze Minister kan, voor zover het belang van de veiligheid of de gezondheid van de kinderen of personeel zich daartegen niet verzet, van het bepaalde bij of krachtens de [artikelen 2.4, vierde lid, onderdelen b, c, d, e, h, i en k](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2026-04-01&g=2026-04-01), [2.6, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2026-04-01&g=2026-04-01), [2.17, onderdelen a, b, c, d, e en g](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=3&artikel=2.17&z=2026-04-01&g=2026-04-01), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=3&paragraaf=2&artikel=3.3&z=2026-04-01&g=2026-04-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2026-04-01&g=2026-04-01) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2026-04-01&g=2026-04-01) vrijstelling of ontheffing verlenen, indien als gevolg van een calamiteit niet aan die voorschriften kan worden voldaan.
 
-#### Artikel 6.3. Experimenten
+##### Artikel 6.3. Experimenten
 
 1. Bij algemene maatregel van bestuur kunnen voor een periode van ten hoogste vier jaar kindercentra of gastouders worden aangewezen waarbij experimenten kunnen worden uitgevoerd, die ten doel hebben:
 
@@ -1018,15 +1045,15 @@ Onze Minister kan, voor zover het belang van de veiligheid of de gezondheid van 
 
 8. Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven over welke gegevens, bedoeld in het zevende lid, worden verstrekt en over de wijze van verstrekking van deze gegevens.
 
-#### Artikel 6.4
+##### Artikel 6.4
 
 Wijzigt de Wet primair onderwijs BES.
 
-#### 6.4a. Evaluatie
+##### 6.4a. Evaluatie
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 6.5. Overgangsrecht
+##### Artikel 6.5. Overgangsrecht
 
 1. Exploitatievergunningen die zijn verleend, verlengd of gewijzigd op grond van de Eilandsverordening Kinderopvang Bonaire 2020, de Basis Eilandsverordening Kinderopvang St. Eustatius (AB 2019, nr. 19) of de Basis Eilandsverordening Kinderopvang (AB 2020, nr. 2) berusten na de inwerkingtreding van deze wet op [artikel 2.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2026-04-01&g=2026-04-01).
 
@@ -1036,11 +1063,11 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 
 4. De op het tijdstip van inwerkingtreding van deze wet aanhangige zaken bij het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba of het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba die betrekking hebben op het nemen van een besluit als bedoeld in het eerste lid, zijn aanhangig in de staat waarin zij zich op dat moment bevinden en worden overeenkomstig de bepalingen van de verordeningen, bedoeld in het eerste lid, behandeld en beslist.
 
-#### Artikel 6.6
+##### Artikel 6.6
 
 Deze wet wordt aangehaald als: Wet kinderopvang BES.
 
-#### Artikel 6.7
+##### Artikel 6.7
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

@@ -1,13 +1,39 @@
 ---
-title: "Bijdragebeschikking Stichting Arbeids- en Opleidingsfonds Rijk"
+title: "Bijdragebeschikking Stichting A+O Fonds Rijk"
 identifier: "BWBR0023075"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2008-02-01
-laatste_update: 2008-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023075"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-02-01"
+last_updated: "2008-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023075"
+soort: "ministeriele-regeling"
+stam_id: "9331223"
+version_id: "14992262"
+internal_id: "C20403191"
+label_id: "9309644"
+dtd_version: "2.0"
+original_entry_into_force: "2008-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023075/2008-02-01/0"
+intitule_bron: "Stcrt.2007-250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-12-05"
+intitule_published: "2007-12-27"
+intitule_in_force: "2007-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-250"
+original_signed_date: "2007-12-05"
+original_published_date: "2007-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-250-p10-SC83445"
+entry_into_force_date: "2008-02-01"
+jci_1_3: "jci1.3:c:BWBR0023075&z=2008-02-01&g=2008-02-01"
+jci_1_0: "1.0:c:BWBR0023075&g=2008-02-01"
+citeertitel_status: "redactioneel"
+short_title: "Bijdragebeschikking Stichting Arbeids- en Opleidingsfonds Rijk"
+signed_date: "2007-12-05"
+entry_into_force: "2008-02-01"
 ---
-
 # Bijdragebeschikking Stichting A+O Fonds Rijk
 
 Overwegende dat:
@@ -20,7 +46,7 @@ Overwegende dat:
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Op basis van de in de meerjarenraming van de begroting van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties opgenomen bedragen kent de Minister jaarlijks een bijdrage toe aan de Stichting Arbeidsmarkt- en Opleidingsfonds Rijk – verder te noemen de stichting – ten behoeve van het stimuleren van de arbeidsmarkt-, werkgelegenheids- en opleidingsactiviteiten. Jaarlijks zal in de begroting de bijdrage voor het betreffende jaar en in de meerjarencijfers een raming voor drie jaar worden opgenomen. De stichting zal door middel van een besluit op de hoogte worden gesteld van de raming van de bijdrage voor het betreffende jaar en de jaren daarop. De bijdrage is prijsgevoelig. Dat betekent dat er jaarlijks een prijsbijstelling boven op de definitieve bijdrage kan worden uitgekeerd aan de stichting als dit nodig blijkt te zijn.
 
@@ -28,7 +54,7 @@ Besluit:
 
 3. Indien de Minister in overeenstemming met de Centrales van Overheidspersoneel besluit de bijdrage genoemd in het eerste lid, niet meer te verstrekken, dient de Minister een opzegtermijn van drie jaar in acht te nemen.
 
-#### Artikel 2
+##### Artikel 2
 
 De toekenning van de bijdrage(n) geschiedt onder de volgende voorwaarden:
 
@@ -54,7 +80,7 @@ De toekenning van de bijdrage(n) geschiedt onder de volgende voorwaarden:
 
 - 6. De stichting zorgt voor een accountantsverklaring, conform de voorwaarden die door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties zijn gesteld, in die zin dat deze verklaring ook een uitspraak doet over de rechtmatigheid van de aangegane verplichtingen, de uitgaven en ontvangsten van de stichting en de naleving van deze beschikking.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Jaarlijks voor 15 oktober voorafgaand aan het boekjaar biedt de stichting een beleidsplan aan met de daarin opgenomen begroting aan de Minister. Hierbij dient de stichting uit te gaan van het totaal van beschikbare middelen.
 
@@ -70,7 +96,7 @@ Het niet verplichte saldo van de definitieve bijdrage zal jaarlijks door het Min
 
 6. De in [artikel 3, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023075&artikel=3&z=2008-02-01&g=2008-02-01) bedoelde voorschotten, worden verstrekt onder de voorwaarde dat terugbetaling dient te geschieden indien de goedgekeurde accountantsverklaring als bedoeld in [artikel 3, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023075&artikel=3&z=2008-02-01&g=2008-02-01), achterwege blijft.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De stichting bewaart op het adres van de administratie, bewijsstukken van alle inkomsten en uitgaven.
 
@@ -80,7 +106,7 @@ Het niet verplichte saldo van de definitieve bijdrage zal jaarlijks door het Min
 
 4. De stichting zal tenminste eens in de vijf jaar de interne organisatie, de door haar geleverde producten en het door haar gevoerde beleid doorlichten op doelmatigheid en doeltreffendheid en de resultaten van haar bevindingen meedelen aan het Sectoroverleg Rijkspersoneel.
 
-#### Artikel 5
+##### Artikel 5
 
 1. In bijzondere gevallen kan de Minister in overeenstemming met de Centrales van Overheidspersoneel na het bestuur van de stichting gehoord te hebben, afwijken van het bepaalde in deze schikking.
 

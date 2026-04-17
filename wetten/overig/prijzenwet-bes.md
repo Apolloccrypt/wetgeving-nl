@@ -1,16 +1,41 @@
 ---
 title: "Prijzenwet BES"
 identifier: "BWBR0028250"
-categorie: "Overig"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028250"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028250"
+soort: "wet-BES"
+stam_id: "10721413"
+version_id: "17689542"
+internal_id: "C24772631"
+label_id: "10696084"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028250/2019-01-01/0"
+intitule_bron: "Stb.2010-440"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-14"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-440"
+original_signed_date: "2010-09-14"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-440"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028250&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0028250&g=2019-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-14"
+entry_into_force: "2010-10-10"
 ---
-
 # Prijzenwet BES
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
@@ -18,7 +43,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 - **diensten:** de verrichtingen, welke het voorwerp zijn van overeenkomsten tot het verrichten van enkele diensten of van aanneming van werk, als bedoeld in [artikel 1613 van boek 7A van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613) of van verzekerings- of garantieovereenkomsten.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien goederen of diensten worden aangeboden tegen zodanige prijzen, dat het vragen daarvan naar oordeel van het Bestuurscollege in strijd is met of dreigt te geschieden in strijd met het algemeen belang, kan het voor het betreffende openbaar lichaam Bonaire, Sint Eustatius of Saba:
 
@@ -36,7 +61,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 6. Een krachtens het eerste lid onder b of krachtens het derde lid vastgestelde beschikking wordt evenals de beschikking tot haar wijziging of intrekking in het Afkondigingsblad bekend gemaakt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het Bestuurscollege kan van het krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=2&z=2019-01-01&g=2019-01-01) bepaalde op daartoe strekkend verzoek ontheffing verlenen.
 
@@ -46,11 +71,11 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 Verleende ontheffingen worden met redenen omkleed bekend gemaakt in het blad waarin van Eilandswege de officiële berichten geplaatst worden.
 
-#### Artikel 4
+##### Artikel 4
 
 Het Bestuurscollege kan van een ieder de inlichtingen verlangen, die het nodig acht om te kunnen oordelen of aanleiding bestaat tot toepassing van [artikel 2, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=2&z=2019-01-01&g=2019-01-01).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het Bestuurscollege kan, indien er aanwijsbare omstandigheden zijn, op grond waarvan het kan vermoeden, dat er aanleiding bestaat tot toepassing van [artikel 2, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=2&z=2019-01-01&g=2019-01-01), van de naar het oordeel van het Bestuurscollege daarbij betrokken raadpleging van alle boeken, bescheiden en andere gegevensdragers, waarvan het raadpleging nodig acht om zich van het al of niet gegrond zijn van die vermoedens te overtuigen.
 
@@ -62,7 +87,7 @@ Het Bestuurscollege kan van een ieder de inlichtingen verlangen, die het nodig a
 
 5. In woningen treden zij tegen de wil van de bewoner niet binnen dan krachtens een bijzondere last van het Bestuurscollege en vergezeld van een Ambtenaar van het Openbaar Ministerie. Van het binnentreden wordt binnen tweemaal vierentwintig uur proces-verbaal opgemaakt, waarin van het tijdstip van binnentreden en van het daarmee beoogde doel melding wordt gemaakt. Een afschrift van het proces-verbaal wordt onverwijld aan de bewoner uitgereikt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een ieder is verplicht de van hem op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=4&z=2019-01-01&g=2019-01-01) verlangde inlichtingen volledig en naar waarheid te verstrekken op de wijze en binnen de termijn, door het Bestuurscollege te bepalen.
 
@@ -70,11 +95,11 @@ Het Bestuurscollege kan van een ieder de inlichtingen verlangen, die het nodig a
 
 3. Zij, die uit hoofde van hun stand, beroep of ambt tot geheimhouding zijn verplicht, kunnen zich verschonen van het geven van inlichtingen, doch uitsluitend voorzover betreft hetgeen hun in hun hoedanigheid is toevertrouwd. Zij kunnen voorts raadpleging van de [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=5&z=2019-01-01&g=2019-01-01), bedoelde boeken, bescheiden, en andere gegevensdragers weigeren, voorzover hun plicht tot geheimhouding hen daartoe noopt.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling behoeven, kan dit geschieden bij algemene maatregel van bestuur.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een gedraging in strijd met het krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=2&z=2019-01-01&g=2019-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=3&z=2019-01-01&g=2019-01-01) bepaalde wordt, indien zij opzettelijk geschiedt, beschouwd als misdrijf en wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de derde categorie.
 
@@ -82,7 +107,7 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 3. Een gedraging in strijd met het bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=6&z=2019-01-01&g=2019-01-01) bepaalde, zomede een gedraging in strijd met het krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=7&z=2019-01-01&g=2019-01-01) bepaalde, indien uitdrukkelijk aangeduid als een strafbaar feit, wordt beschouwd als overtreding en wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de tweede categorie.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Indien een in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=8&z=2019-01-01&g=2019-01-01) strafbaar gesteld feit wordt begaan door of vanwege een rechtspersoon, een vennootschap, enige andere vereniging van personen of een doelvermogen, wordt de strafvervolging ingesteld en worden de straffen uitgesproken
 
@@ -96,7 +121,7 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 3. Indien een straf vervolging wordt ingesteld tegen een rechtspersoon, een vennootschap, een vereniging van personen of een doelvermogen, wordt deze tijdens de vervolging vertegenwoordigd door de bestuurder en, indien er meer bestuurders zijn, door één dezer. De vertegenwoordiger kan bij gemachtigde verschijnen. De rechter kan de persoonlijke verschijning van een bepaalde bestuurder bevelen; hij kan alsdan zijn medebrenging gelasten.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij veroordeling wegens een feit, strafbaar gesteld bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=8&z=2019-01-01&g=2019-01-01), kunnen worden verbeurd verklaard:
 
@@ -106,15 +131,15 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 2. Verbeurdverklaring van goederen, welke de veroordeelde niet toebehoren, wordt niet uitgesproken voor zover de rechten van derden te goeder trouw aangetast zouden worden.
 
-#### Artikel 10
+##### Artikel 10
 
 Met het opsporen van de bij of krachtens deze wet strafbaar gestelde feiten zijn, behalve de bij [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) aangewezen personen, belast de door Onze Minister van Veiligheid en Justitie, in overeenstemming met Onze Minister van Economische Zaken en Klimaat aangewezen ambtenaren en andere personen.
 
-#### Artikel 11
+##### Artikel 11
 
 De opsporingsambtenaren zijn te alle tijden bevoegd om in beslag te nemen zomede ter inbeslagneming de uitlevering te vorderen van alle voorwerpen, welk tot ontdekking der waarheid kunnen dienen, of welker verbeurdverklaring, vernietiging of onbruikbaarmaking kan worden bevolen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Allen die betrokken zijn of zijn geweest bij de uitvoering van deze wet, zijn verplicht tot geheimhouding van al hetgeen hun in hun hoedanigheid is bekend geworden, voor zover zij niet in die hoedanigheid tot mededeling daarvan bevoegd of verplicht zijn.
 
@@ -126,10 +151,10 @@ De opsporingsambtenaren zijn te alle tijden bevoegd om in beslag te nemen zomede
 
 5. Indien een dezer feiten tegen een bepaalde persoon gepleegd is, wordt het slechts vervolgd op diens klachte.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze wet wordt aangehaald als: Prijzenwet BES.
 
-#### Artikel 14
+##### Artikel 14
 
 Een besluit ter uitvoering van artikel 2, 7 of 10 van de Prijzenverordening 1961, dat op het tijdstip waarop deze wet in werking treedt, al dan niet krachtens overgangsrecht, gelding heeft, wordt vanaf dat tijdstip geacht uitvoering te geven aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=2&z=2019-01-01&g=2019-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=7&z=2019-01-01&g=2019-01-01) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028250&artikel=10&z=2019-01-01&g=2019-01-01) van deze wet, totdat het door het bevoegde bestuurscollege is vervangen door een ander besluit.

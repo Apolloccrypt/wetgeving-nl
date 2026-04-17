@@ -1,13 +1,37 @@
 ---
 title: "Procedure voor indiening en behandeling van verzoeken tot benoeming tot notaris"
 identifier: "BWBR0011342"
-categorie: "Bestuursrecht"
-publicatiedatum: 2000-05-03
-laatste_update: 2000-05-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011342"
+country: "nl"
+rank: "circulaire"
+publication_date: "2000-05-03"
+last_updated: "2000-05-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011342"
+soort: "circulaire"
+stam_id: "6266053"
+version_id: "10948422"
+internal_id: "C14843991"
+label_id: "6254864"
+original_entry_into_force: "2000-05-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011342/2000-05-03/0"
+intitule_bron: "Stcrt.2000-86"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-05-02"
+intitule_published: "2000-05-03"
+intitule_in_force: "2000-05-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-86"
+original_signed_date: "2000-05-02"
+original_published_date: "2000-05-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2000-86-p20-SC23875"
+entry_into_force_date: "2000-05-03"
+jci_1_3: "jci1.3:c:BWBR0011342&z=2000-05-03&g=2000-05-03"
+jci_1_0: "1.0:c:BWBR0011342&g=2000-05-03"
+citeertitel_status: "redactioneel"
+signed_date: "2000-05-02"
+entry_into_force: "2000-05-03"
 ---
-
 # Procedure voor indiening en behandeling van verzoeken tot benoeming tot notaris
 
 Circulaire aan

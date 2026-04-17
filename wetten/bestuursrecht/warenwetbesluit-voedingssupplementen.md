@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit voedingssupplementen"
+title: "Besluit van 15 maart 2003, houdende regels met betrekking tot voedingssupplementen (Warenwetbesluit voedingssupplementen)"
 identifier: "BWBR0014814"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-12-13
-laatste_update: 2014-12-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014814"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-12-13"
+last_updated: "2014-12-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014814"
+soort: "AMvB"
+stam_id: "3395163"
+version_id: "5158342"
+internal_id: "C5353261"
+label_id: "3385284"
+dtd_version: "2.0"
+original_entry_into_force: "2003-03-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014814/2014-12-13/0"
+intitule_bron: "Stb.2003-125"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-03-15"
+intitule_published: "2003-04-01"
+intitule_in_force: "2003-04-01"
+intitule_status: "goed"
+original_publication: "Stb.2003-125"
+original_signed_date: "2003-03-15"
+original_published_date: "2003-04-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2003-125"
+entry_into_force_date: "2003-03-15"
+jci_1_3: "jci1.3:c:BWBR0014814&z=2014-12-13&g=2014-12-13"
+jci_1_0: "1.0:c:BWBR0014814&g=2014-12-13"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit voedingssupplementen"
+signed_date: "2003-03-15"
+entry_into_force: "2003-03-15"
 ---
-
 # Besluit van 15 maart 2003, houdende regels met betrekking tot voedingssupplementen (Warenwetbesluit voedingssupplementen)
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 29 november 2002, VGB/VL 2335168 gedaan in overeenstemming met Onze Ministers van Landbouw, Natuurbeheer en Visserij, van Economische Zaken, en van Justitie;
@@ -26,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1:. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -46,7 +72,7 @@ Hebben goedgevonden en verstaan:
 
 2. Dit besluit is niet van toepassing op geneesmiddelen als bedoeld in [artikel 1, eerste lid, onder b, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden voedingssupplementen te bereiden of te verhandelen die niet voldoen aan de bij of krachtens dit besluit gestelde eisen met betrekking tot hun samenstelling.
 
@@ -58,7 +84,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 2:. Bereiding en samenstelling
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij regeling van Onze Minister worden ter uitvoering van artikel 4, eerste lid, van [richtlijn 2002/46/EG](32002L0046), de microvoedingsstoffen en de verbindingen daarvan aangewezen die uitsluitend gebruikt mogen worden bij de bereiding van voedingssupplementen.
 
@@ -66,7 +92,7 @@ Hebben goedgevonden en verstaan:
 
 3. Krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) vastgestelde zuiverheidseisen voor in het eerste lid bedoelde microvoedingsstoffen die gebruikt worden bij de bereiding van andere eet- en drinkwaren dan voedingssupplementen, zijn van overeenkomstige toepassing bij de bereiding van voedingssupplementen.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij regeling van Onze Minister worden ter uitvoering van krachtens artikel 5, vierde lid, van [richtlijn 2002/46/EG](32002L0046) getroffen maatregelen, de hoeveelheden vitaminen en mineralen vastgesteld, die in voedingssupplementen:
 
@@ -76,11 +102,11 @@ Bij regeling van Onze Minister worden ter uitvoering van krachtens artikel 5, vi
 
 #### § 3:. Etikettering
 
-#### Artikel 5
+##### Artikel 5
 
 De aanduiding **voedingssupplement** mag uitsluitend en moet worden gebezigd voor voedingssupplementen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onverminderd verordening (EU) 1169/2011 worden bij voedingssupplementen vermeldingen gebezigd inzake:
 
@@ -100,7 +126,7 @@ De aanduiding **voedingssupplement** mag uitsluitend en moet worden gebezigd voo
 
 4. Bij regeling van Onze Minister worden ter uitvoering van krachtens artikel 7 van [richtlijn 2002/46/EG](32002L0046) getroffen maatregelen nadere regels vastgesteld inzake het tweede en derde lid.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De hoeveelheid in een voedingssupplement aanwezige microvoedingsstoffen of stoffen met een voedingskundig of fysiologisch effect wordt in de etikettering van de waar vermeld in een getal. Deze vermelding;
 
@@ -116,11 +142,11 @@ De aanduiding **voedingssupplement** mag uitsluitend en moet worden gebezigd voo
 
 #### § 4:. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt Warenwetbesluit bestuurlijke boeten.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
@@ -128,7 +154,7 @@ Wijzigt Warenwetbesluit bestuurlijke boeten.
 
 3. [Artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=2&artikel=3&z=2014-12-13&g=2014-12-13), vervalt met ingang van 31 december 2009.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Warenwetbesluit voedingssupplementen.
 

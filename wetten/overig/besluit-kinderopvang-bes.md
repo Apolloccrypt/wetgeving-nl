@@ -1,13 +1,39 @@
 ---
-title: "Besluit kinderopvang BES"
+title: "Besluit van 25 september 2025, houdende regels en nadere regels omtrent de kwaliteit, financiering en gegevensverwerking ten behoeve van kinderopvang in Caribisch Nederland (Besluit kinderopvang BES) [KetenID WGK013827]"
 identifier: "BWBR0051582"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051582"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051582"
+soort: "AMvB-BES"
+stam_id: "17544323"
+version_id: "30959522"
+internal_id: "C44618391"
+label_id: "17446254"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051582/2026-01-01/0"
+intitule_bron: "Stb.2025-261"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-09-25"
+intitule_published: "2025-10-08"
+intitule_in_force: "2025-12-11"
+intitule_status: "goed"
+original_publication: "Stb.2025-261"
+original_signed_date: "2025-09-25"
+original_published_date: "2025-10-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2025-261"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051582&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051582&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit kinderopvang BES"
+signed_date: "2025-09-25"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van 25 september 2025, houdende regels en nadere regels omtrent de kwaliteit, financiering en gegevensverwerking ten behoeve van kinderopvang in Caribisch Nederland (Besluit kinderopvang BES) [KetenID WGK013827]
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 20 mei 2025, nr. 2025-0000110181, gedaan mede namens de Staatssecretaris van Onderwijs, Cultuur en Wetenschap;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begrippen
+##### Artikel 1.1. Begrippen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2.1. Algemene bepalingen
 
-#### Artikel 2.1. Uitzonderingen op de acceptatieplicht
+##### Artikel 2.1. Uitzonderingen op de acceptatieplicht
 
 Omstandigheden als bedoeld in [artikel 2.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=2.2) zijn:
 
@@ -54,7 +80,7 @@ Omstandigheden als bedoeld in [artikel 2.2, tweede lid, van de wet](https://wett
 
 - d. de houder of gastouder verwacht redelijkerwijs dat de ouder de ouderbijdrage niet zal voldoen en uiterlijk zes maanden voor de beoogde ingangsdatum van de nieuwe kinderopvangovereenkomst is de kinderopvangvergoeding beëindigd op grond van [artikel 3.3, derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=3.3) in het kader van een voorgaande kinderopvangovereenkomst tussen de houder of gastouder en de ouder.
 
-#### Artikel 2.2. Verantwoorde kinderopvang
+##### Artikel 2.2. Verantwoorde kinderopvang
 
 In het kader van het bieden van verantwoorde kinderopvang draagt de houder of gastouder ervoor zorg dat, rekening houdend met de ontwikkelingsfase waarin kinderen zich bevinden:
 
@@ -68,7 +94,7 @@ In het kader van het bieden van verantwoorde kinderopvang draagt de houder of ga
 
 - e. de speelleeromgeving taalrijk is en gekenmerkt wordt door positieve en hoogwaardige interacties met en tussen kinderen.
 
-#### Artikel 2.3. Deskundige bij strafbare feiten in de kinderopvang
+##### Artikel 2.3. Deskundige bij strafbare feiten in de kinderopvang
 
 1. De deskundige, bedoeld in [artikel 2.10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=2.10a):
 
@@ -90,13 +116,13 @@ In het kader van het bieden van verantwoorde kinderopvang draagt de houder of ga
 
 #### Paragraaf 2.2. Veiligheids- en gezondheidsbeleid bij een kindercentrum of voorziening voor gastouderopvang
 
-#### Artikel 2.4. Veiligheids- en gezondheidsbeleid
+##### Artikel 2.4. Veiligheids- en gezondheidsbeleid
 
 1. De houder of gastouder stelt voor elk kindercentrum of voorziening voor gastouderopvang een veiligheids- en gezondheidsbeleid vast als bedoeld in [artikel 2.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=2.3).
 
 2. De houder of gastouder draagt er zorg voor dat er bij de kinderopvang conform het veiligheids- en gezondheidsbeleid wordt gehandeld.
 
-#### Artikel 2.5. Inhoud van het veiligheids- en gezondheidsbeleid bij een kindercentrum
+##### Artikel 2.5. Inhoud van het veiligheids- en gezondheidsbeleid bij een kindercentrum
 
 1. Het veiligheids- en gezondheidsbeleid bij een kindercentrum bevat:
 
@@ -118,7 +144,7 @@ In het kader van het bieden van verantwoorde kinderopvang draagt de houder of ga
 
 2. In het plan van aanpak, bedoeld in het eerste lid, onderdeel c, beschrijft de houder hoe deze de dagopvang zodanig organiseert dat een beroepskracht, beroepskracht in opleiding of stagiair de werkzaamheden uitsluitend kan verrichten terwijl deze gezien of gehoord kan worden door een andere volwassene.
 
-#### Artikel 2.6. Inhoud van het veiligheids- en gezondheidsbeleid bij een voorziening voor gastouderopvang
+##### Artikel 2.6. Inhoud van het veiligheids- en gezondheidsbeleid bij een voorziening voor gastouderopvang
 
 Het veiligheids- en gezondheidsbeleid bij een voorziening voor gastouderopvang bevat een concrete beschrijving van:
 
@@ -130,11 +156,11 @@ Het veiligheids- en gezondheidsbeleid bij een voorziening voor gastouderopvang b
 
 #### Paragraaf 2.3. Opleidings-, scholings- en ervaringseisen
 
-#### Artikel 2.7. Bewijsstukken met betrekking tot opleidings- en ervaringseisen
+##### Artikel 2.7. Bewijsstukken met betrekking tot opleidings- en ervaringseisen
 
 Bij ministeriële regeling kunnen nadere regels gesteld worden en bewijsstukken worden aangewezen met betrekking tot de opleidings- en ervaringseisen voor beroepskrachten of gastouders.
 
-#### Artikel 2.8. Opleidings- en ervaringseisen voor beroepskrachten bij een kindercentrum
+##### Artikel 2.8. Opleidings- en ervaringseisen voor beroepskrachten bij een kindercentrum
 
 1. Een beroepskracht beschikt over een opleiding tot pedagogisch medewerker of een opleiding met een pedagogische component, op ten minste het niveau, bedoeld in [artikel 7.2.2, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) of [artikel 7.2.2, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.2).
 
@@ -158,11 +184,11 @@ Bij ministeriële regeling kunnen nadere regels gesteld worden en bewijsstukken 
 
 - c. ten minste vijftien jaren ervaring heeft in de kinderopvang.
 
-#### Artikel 2.9. Aanwezigheid van een beroepskracht met middenkaderopleiding bij een kindercentrum
+##### Artikel 2.9. Aanwezigheid van een beroepskracht met middenkaderopleiding bij een kindercentrum
 
 Gedurende ten minste de helft van de dagdelen per week waarin op een locatie van een kindercentrum kinderopvang plaatsvindt, zet de houder daar een beroepskracht in die beschikt over een opleiding tot pedagogisch medewerker of een opleiding met een pedagogische component, op ten minste het niveau, bedoeld in [artikel 7.2.2, eerste lid, onderdeel d, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) of [artikel 7.2.2, eerste lid, onderdeel d, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.2).
 
-#### Artikel 2.10. Opleidingseisen voor gastouders
+##### Artikel 2.10. Opleidingseisen voor gastouders
 
 Een gastouder beschikt over een opleiding tot pedagogisch medewerker of een opleiding met een pedagogische component, op ten minste het niveau:
 
@@ -170,7 +196,7 @@ Een gastouder beschikt over een opleiding tot pedagogisch medewerker of een ople
 
 - b. 2 van de Caribbean Vocational Qualification.
 
-#### Artikel 2.11. Scholingseisen eerste hulp
+##### Artikel 2.11. Scholingseisen eerste hulp
 
 1. De houder of gastouder draagt er zorg voor dat er gedurende de kinderopvang te allen tijde ten minste één volwassene aanwezig is die gekwalificeerd is voor het verlenen van eerste hulp aan kinderen.
 
@@ -178,7 +204,7 @@ Een gastouder beschikt over een opleiding tot pedagogisch medewerker of een ople
 
 #### Paragraaf 2.4. Stabiliteit van de opvang, groepsgrootte en inzet pedagogisch medewerkers
 
-#### Artikel 2.12. Stabiliteit van de kinderopvang in een kindercentrum
+##### Artikel 2.12. Stabiliteit van de kinderopvang in een kindercentrum
 
 1. In een kindercentrum vindt de kinderopvang plaats in stamgroepen of basisgroepen.
 
@@ -206,7 +232,7 @@ Een gastouder beschikt over een opleiding tot pedagogisch medewerker of een ople
 
 9. Indien een stamgroep wordt gecombineerd met een basisgroep volgt de maximale grootte van de gecombineerde groep uit [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051582&bijlage=3&z=2026-01-01&g=2026-01-01) bij dit besluit.
 
-#### Artikel 2.13. Aantal beroepskrachten in een kindercentrum en beroepskracht-kindratio
+##### Artikel 2.13. Aantal beroepskrachten in een kindercentrum en beroepskracht-kindratio
 
 1. Het aantal in te zetten beroepskrachten op een stamgroep of basisgroep wordt afgestemd op het aantal daarin aanwezige kinderen, waarbij naarmate de kinderen ouder zijn, minder beroepskrachten hoeven te worden ingezet.
 
@@ -238,7 +264,7 @@ Een gastouder beschikt over een opleiding tot pedagogisch medewerker of een ople
 
 8. Indien op grond van het derde of vierde lid slechts één beroepskracht op het kindercentrum wordt ingezet, is ter ondersteuning van deze beroepskracht ten minste één andere volwassene in het kindercentrum aanwezig.
 
-#### Artikel 2.14. Overzicht van ingezette beroepskrachten en presentielijsten
+##### Artikel 2.14. Overzicht van ingezette beroepskrachten en presentielijsten
 
 De houder toont aan, door middel van een overzicht van de ingezette beroepskrachten en presentielijsten van kinderen, inclusief een indicatie van aankomst- en vertrektijden:
 
@@ -246,7 +272,7 @@ De houder toont aan, door middel van een overzicht van de ingezette beroepskrach
 
 - b. indien van toepassing, de toepassing van [artikel 2.13, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051582&hoofdstuk=2&paragraaf=2.4&artikel=2.13&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 2.15. Teamkwalificatie
+##### Artikel 2.15. Teamkwalificatie
 
 1. Het totaal minimum aantal in te zetten beroepskrachten op de locatie waar de houder een kindercentrum exploiteert, dat wordt gevormd door de optelsom van het minimaal aantal in te zetten beroepskrachten op de afzonderlijke stamgroepen of basisgroepen binnen die locatie, bestaat gedurende de opvang:
 
@@ -274,7 +300,7 @@ De houder toont aan, door middel van een overzicht van de ingezette beroepskrach
 
 - c. houdt de houder rekening met de opleidingsfase waarin zij zich op dat moment bevinden.
 
-#### Artikel 2.16. Mentor
+##### Artikel 2.16. Mentor
 
 1. Aan ieder kind wordt een mentor toegewezen.
 
@@ -286,7 +312,7 @@ De houder toont aan, door middel van een overzicht van de ingezette beroepskrach
 
 - b. is aanspreekpunt voor de ouders bij vragen over de ontwikkeling en het welbevinden van het kind.
 
-#### Artikel 2.17. Groepsgrootte bij een voorziening voor gastouderopvang
+##### Artikel 2.17. Groepsgrootte bij een voorziening voor gastouderopvang
 
 Bij een voorziening voor gastouderopvang worden maximaal:
 
@@ -296,13 +322,13 @@ Bij een voorziening voor gastouderopvang worden maximaal:
 
 - c. vier kinderen tot twee jaar gelijktijdig opgevangen, waarvan maximaal twee kinderen tot één jaar.
 
-#### Artikel 2.18. Achterwacht bij een voorziening voor gastouderopvang
+##### Artikel 2.18. Achterwacht bij een voorziening voor gastouderopvang
 
 Gedurende de kinderopvang is een volwassene beschikbaar die telefonisch bereikbaar is en die binnen vijftien minuten in de voorziening voor gastouderopvang aanwezig kan zijn in geval van een calamiteit.
 
 #### Paragraaf 2.5. Activiteitenprogramma bij een kindercentrum of voorziening voor gastouderopvang
 
-#### Artikel 2.19. Activiteitenprogramma
+##### Artikel 2.19. Activiteitenprogramma
 
 1. Het activiteitenprogramma bij een kindercentrum of voorziening voor gastouderopvang is gevarieerd en bevat activiteiten die:
 
@@ -314,11 +340,11 @@ Gedurende de kinderopvang is een volwassene beschikbaar die telefonisch bereikba
 
 #### Paragraaf 2.6. Bijzonderheden in de ontwikkeling van een kind
 
-#### Artikel 2.20. Pedagogische ondersteuning en advies
+##### Artikel 2.20. Pedagogische ondersteuning en advies
 
 Tot de taken met betrekking tot pedagogische ondersteuning en advies, bedoeld in [artikel 2.3, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=2.3), behoort de houder, de beroepskracht of de gastouder pedagogisch te ondersteunen en te adviseren over het aanbieden van verantwoorde kinderopvang binnen een basisgroep, stamgroep of groep in de gastouderopvang met een kind met mogelijk een bijzonderheid in diens ontwikkeling.
 
-#### Artikel 2.21. Signaleren van bijzonderheden
+##### Artikel 2.21. Signaleren van bijzonderheden
 
 Indien de houder of gastouder bijzonderheden signaleert in de ontwikkeling van een kind:
 
@@ -326,13 +352,13 @@ Indien de houder of gastouder bijzonderheden signaleert in de ontwikkeling van e
 
 - b. legt de houder of gastouder dit vast in het dossier van het kind.
 
-#### Artikel 2.22. Reflecteren op bijzonderheden in de ontwikkeling van een kind
+##### Artikel 2.22. Reflecteren op bijzonderheden in de ontwikkeling van een kind
 
 De houder reflecteert periodiek op de ontwikkeling van het kind met de betrokken beroepskrachten, indien bijzonderheden in de ontwikkeling van een kind zijn gesignaleerd.
 
 #### Paragraaf 2.7. Pedagogisch en educatief beleid bij een kindercentrum
 
-#### Artikel 2.23. Pedagogisch en educatief beleid
+##### Artikel 2.23. Pedagogisch en educatief beleid
 
 1. Elk kindercentrum beschikt over een pedagogisch en educatief beleidsplan.
 
@@ -340,7 +366,7 @@ De houder reflecteert periodiek op de ontwikkeling van het kind met de betrokken
 
 3. De houder maakt het pedagogisch en educatief beleid schriftelijk bekend aan de ouders die gebruikmaken van kinderopvang in het kindercentrum, met uitzondering van het plan van aanpak, de planning en de periodieke evaluatie van de kwaliteitsdoelen, bedoeld in [artikel 2.24, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0051582&hoofdstuk=2&paragraaf=2.7&artikel=2.24&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 2.24. Inhoud van het pedagogisch en educatief beleid
+##### Artikel 2.24. Inhoud van het pedagogisch en educatief beleid
 
 1. Een pedagogisch en educatief beleidsplan in een kindercentrum bevat ten minste een concrete beschrijving van:
 
@@ -386,7 +412,7 @@ De houder reflecteert periodiek op de ontwikkeling van het kind met de betrokken
 
 - f. indien het buitenschoolse opvang betreft, de omgang met de basisgroep bij activiteiten in groepen groter dan dertig kinderen.
 
-#### Artikel 2.25. Educatief beleid omtrent voorschoolse educatie in de dagopvang
+##### Artikel 2.25. Educatief beleid omtrent voorschoolse educatie in de dagopvang
 
 De houder gebruikt voor de voorschoolse educatie in de dagopvang een programma dat:
 
@@ -402,7 +428,7 @@ De houder gebruikt voor de voorschoolse educatie in de dagopvang een programma d
 
 #### Paragraaf 2.8. Eisen aan ruimtes bij een kindercentrum
 
-#### Artikel 2.26. Eisen aan ruimtes bij een kindercentrum
+##### Artikel 2.26. Eisen aan ruimtes bij een kindercentrum
 
 1. De binnen- en buitenruimtes waar kinderen verblijven gedurende de tijd dat zij in een kindercentrum worden opgevangen, zijn veilig, toegankelijk en passend ingericht in overeenstemming met het aantal en de leeftijd van de op te vangen kinderen.
 
@@ -424,7 +450,7 @@ De houder gebruikt voor de voorschoolse educatie in de dagopvang een programma d
 
 - b. grenst aan het gebouw waarin het kindercentrum is gevestigd.
 
-#### Artikel 2.27. Gebruik van porches bij een kindercentrum
+##### Artikel 2.27. Gebruik van porches bij een kindercentrum
 
 1. Een porch kan tot maximaal 18 m2 worden meegerekend voor het minimale aantal vierkante meters binnenspeelruimte, bedoeld in [artikel 2.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051582&hoofdstuk=2&paragraaf=2.8&artikel=2.26&z=2026-01-01&g=2026-01-01), indien de porch:
 
@@ -444,7 +470,7 @@ De houder gebruikt voor de voorschoolse educatie in de dagopvang een programma d
 
 ### Hoofdstuk 3. Financiering
 
-#### Artikel 3.1. Structurele kinderopvang
+##### Artikel 3.1. Structurele kinderopvang
 
 1. Van structurele kinderopvang als bedoeld in [artikel 3.2, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=3.2) is sprake indien het kind niet meer dan incidenteel afwezig is tijdens dagdelen die in de kinderopvangovereenkomst zijn overeengekomen.
 
@@ -452,15 +478,15 @@ De houder gebruikt voor de voorschoolse educatie in de dagopvang een programma d
 
 3. Onverminderd het tweede lid wordt onder incidentele afwezigheid in ieder geval niet verstaan: onafgebroken afwezigheid gedurende meer dan drie maanden, buiten de schoolvakanties van scholen voor het basisonderwijs in het openbare lichaam.
 
-#### Artikel 3.2. Verstrekken van kinderopvangvergoeding per kwartaal
+##### Artikel 3.2. Verstrekken van kinderopvangvergoeding per kwartaal
 
 Het op aanvraag verstrekken van kinderopvangvergoeding, bedoeld in [artikel 3.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=3.2), geschiedt per kwartaal.
 
-#### Artikel 3.3. Peildatum voor verstrekken kinderopvangvergoeding
+##### Artikel 3.3. Peildatum voor verstrekken kinderopvangvergoeding
 
 De datum, bedoeld in [artikel 3.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=3.3) is de laatste dag van het kwartaal waarin de kinderopvang start.
 
-#### Artikel 3.4. Hoogte van de kinderopvangvergoeding
+##### Artikel 3.4. Hoogte van de kinderopvangvergoeding
 
 1. Voor de dagopvang bij een kindercentrum of voorziening voor gastouderopvang bedraagt de kinderopvangvergoeding per dagdeel per kind over de periode:
 
@@ -502,7 +528,7 @@ De datum, bedoeld in [artikel 3.3, tweede lid, van de wet](https://wetten.overhe
 
 5. Op de aanspraak op kinderopvangvergoeding die voorafgaat aan de wijziging, bedoeld in het vierde lid, en gedurende het kwartaal waarin die wijziging heeft plaatsgevonden, blijft dit besluit, zoals dat luidde op de dag voorafgaand aan die wijziging, van toepassing.
 
-#### Artikel 3.5. Wijziging hoogte kinderopvangvergoeding
+##### Artikel 3.5. Wijziging hoogte kinderopvangvergoeding
 
 1. De bedragen, bedoeld in [artikel 3.4, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051582&hoofdstuk=3&artikel=3.4&z=2026-01-01&g=2026-01-01), worden jaarlijks aangepast met ingang van 1 januari, overeenkomstig de ontwikkeling van de consumentenprijsindexcijfers voor Bonaire, Sint Eustatius en Saba van het derde kwartaal van het lopende jaar, vergeleken met het derde kwartaal van het voorafgaande jaar, zoals blijkt uit de bekendmaking door het Centraal Bureau voor de Statistiek.
 
@@ -518,7 +544,7 @@ De datum, bedoeld in [artikel 3.3, tweede lid, van de wet](https://wetten.overhe
 
 - b. worden door of namens Onze Minister medegedeeld in de Staatscourant.
 
-#### Artikel 3.6. Voorschot
+##### Artikel 3.6. Voorschot
 
 1. Onze Minister kan op aanvraag van de houder of gastouder een voorschot als bedoeld in [artikel 3.7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=3.7) verstrekken, indien:
 
@@ -528,7 +554,7 @@ De datum, bedoeld in [artikel 3.3, tweede lid, van de wet](https://wetten.overhe
 
 2. Onze Minister kan op aanvraag van de houder of gastouder het verstrekte voorschot verhogen, indien de houder of gastouder na de aanvraag, bedoeld in het eerste lid, op grond van nieuwe kinderopvangovereenkomsten substantieel meer dagdelen kinderopvang zal verzorgen dan waarop het oorspronkelijke voorschot was gebaseerd.
 
-#### Artikel 3.7. Hoogte van de ouderbijdrage tot en met 31 december 2026
+##### Artikel 3.7. Hoogte van de ouderbijdrage tot en met 31 december 2026
 
 1. De hoogte van de maandelijkse ouderbijdrage per kind over de periode tot en met 31 december 2026 betreft het bedrag, bedoeld in het tweede lid, naar rato verminderd met het verschil tussen het maximale aantal dagdelen, bedoeld in [artikel 3.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=3.4), voor de betreffende maand en het aantal dagdelen kinderopvang in die maand dat voor dat kind volgt uit de kinderopvangovereenkomst van de ouder met de houder of gastouder.
 
@@ -550,7 +576,7 @@ De datum, bedoeld in [artikel 3.3, tweede lid, van de wet](https://wetten.overhe
 
 - 3°. USD 40 op Sint Eustatius.
 
-#### Artikel 3.8. Hoogte van de ouderbijdrage vanaf 1 januari 2027
+##### Artikel 3.8. Hoogte van de ouderbijdrage vanaf 1 januari 2027
 
 De hoogte van de ouderbijdrage per dagdeel per kind bedraagt vanaf 1 januari 2027 4,17% van de op dat moment geldende hoogte van de kinderopvangvergoeding, bedoeld in:
 
@@ -560,7 +586,7 @@ De hoogte van de ouderbijdrage per dagdeel per kind bedraagt vanaf 1 januari 202
 
 ### Hoofdstuk 4. Gegevensverwerking
 
-#### Artikel 4.1. Verwerking van persoonsgegevens ten behoeve van doorstroom naar het basisonderwijs
+##### Artikel 4.1. Verwerking van persoonsgegevens ten behoeve van doorstroom naar het basisonderwijs
 
 1. De persoonsgegevens, bedoeld in [artikel 2.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=2.15), betreffen persoonsgegevens over de ontwikkeling van het kind op de dagopvang omtrent:
 
@@ -578,7 +604,7 @@ De hoogte van de ouderbijdrage per dagdeel per kind bedraagt vanaf 1 januari 202
 
 - b. personen die de persoonsgegevens nodig hebben voor de uitoefening van onderwijstaken.
 
-#### Artikel 4.2. Verstrekking van persoonsgegevens van het Europese deel van Nederland naar Bonaire, Sint Eustatius of Saba
+##### Artikel 4.2. Verstrekking van persoonsgegevens van het Europese deel van Nederland naar Bonaire, Sint Eustatius of Saba
 
 1. Op grond van de [artikelen 5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=5.1) of [184 van het Wetboek van strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) aangewezen ambtenaren kunnen persoonsgegevens verstrekken vanuit het Europese deel van Nederland aan de volgende instanties binnen de openbare lichamen:
 
@@ -624,7 +650,7 @@ De hoogte van de ouderbijdrage per dagdeel per kind bedraagt vanaf 1 januari 202
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 5.1. Overgangsrecht met betrekking tot de teamkwalificatie bij kindercentra en de binnenspeelruimte bij de buitenschoolse opvang
+##### Artikel 5.1. Overgangsrecht met betrekking tot de teamkwalificatie bij kindercentra en de binnenspeelruimte bij de buitenschoolse opvang
 
 Tot en met 31 december 2030 geldt in afwijking van:
 
@@ -636,11 +662,11 @@ Tot en met 31 december 2030 geldt in afwijking van:
 
 - b. [artikel 2.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051582&hoofdstuk=2&paragraaf=2.8&artikel=2.26&z=2026-01-01&g=2026-01-01), dat de binnenspeelruimte, bedoeld in dat lid, bij buitenschoolse opvang ten minste 2,5 m2 betreft.
 
-#### Artikel 5.2. Inwerkingtreding
+##### Artikel 5.2. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 5.3. Citeertitel
+##### Artikel 5.3. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit kinderopvang BES.
 

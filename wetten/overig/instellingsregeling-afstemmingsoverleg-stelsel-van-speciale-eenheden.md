@@ -1,26 +1,52 @@
 ---
-title: "Instellingsregeling Afstemmingsoverleg stelsel van speciale eenheden"
+title: "Regeling van de Minister van Justitie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie van 28 juni 2006, nr. 5427438/06/NCTb, tot instelling van een Afstemmingsoverleg voor het stelsel van speciale eenheden (Instellingsregeling Afstemmingsoverleg stelsel van speciale eenheden)"
 identifier: "BWBR0020016"
-categorie: "Overig"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020016"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020016"
+soort: "ministeriele-regeling"
+stam_id: "8454943"
+version_id: "13336512"
+internal_id: "C17909221"
+label_id: "8435534"
+dtd_version: "2.0"
+original_entry_into_force: "2006-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020016/2013-01-01/0"
+intitule_bron: "Stcrt.2006-124"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-06-28"
+intitule_published: "2006-06-29"
+intitule_in_force: "2006-06-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-124"
+original_signed_date: "2006-06-28"
+original_published_date: "2006-06-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-124-p14-SC75712"
+entry_into_force_date: "2006-07-01"
+jci_1_3: "jci1.3:c:BWBR0020016&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0020016&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Instellingsregeling Afstemmingsoverleg stelsel van speciale eenheden"
+signed_date: "2006-06-28"
+entry_into_force: "2006-07-01"
 ---
-
 # Regeling van de Minister van Justitie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie van 28 juni 2006, nr. 5427438/06/NCTb, tot instelling van een Afstemmingsoverleg voor het stelsel van speciale eenheden (Instellingsregeling Afstemmingsoverleg stelsel van speciale eenheden)
 
 Besluiten:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In het kader van deze regeling wordt verstaan onder Dienst Speciale Interventies, hierna te noemen DSI, de eigenstandige organisatie van de DSI met daarbij inbegrepen de eenheden die onder operationele aansturing van de commandant interventie DSI kunnen worden ingezet.
 
-#### Artikel 2. Afstemmingsoverleg
+##### Artikel 2. Afstemmingsoverleg
 
 Er is een Afstemmingsoverleg voor het stelsel van speciale eenheden, in samenhang met de DSI, hierna te noemen het Afstemmingsoverleg.
 
-#### Artikel 3. Taken van het Afstemmingsoverleg
+##### Artikel 3. Taken van het Afstemmingsoverleg
 
 1. Het Afstemmingsoverleg is een afstemmingsorgaan, zonder operationele taken, dat aan de betrokken ministers adviseert over het beleid en het beheer ten aanzien van het stelsel van speciale eenheden.
 
@@ -50,7 +76,7 @@ Er is een Afstemmingsoverleg voor het stelsel van speciale eenheden, in samenhan
 
 - g. de voorbereiding en actualisering van de ministeriële regelingen betrekking hebbende op de DSI.
 
-#### Artikel 4. Werkwijze
+##### Artikel 4. Werkwijze
 
 1. Het Afstemmingsoverleg komt periodiek, tenminste 3 maal per jaar, bijeen;
 
@@ -58,7 +84,7 @@ Er is een Afstemmingsoverleg voor het stelsel van speciale eenheden, in samenhan
 
 3. Het Afstemmingsoverleg kan, met inachtneming van de bepalingen van dit besluit, haar werkwijze en de taken van het secretariaat naar eigen inzicht regelen.
 
-#### Artikel 5. Samenstelling
+##### Artikel 5. Samenstelling
 
 1. De voorzitter van het overleg is de Coördinator Bewaken en Beveiligen van de Nationaal Coördinator Terrorismebestrijding en Veiligheid. Het overleg is voorts samengesteld uit een vertegenwoordiger van:
 
@@ -76,13 +102,13 @@ Er is een Afstemmingsoverleg voor het stelsel van speciale eenheden, in samenhan
 
 3. Het secretariaat van de commissie berust bij de Nationaal Coördinator Terrorismebestrijding en Veiligheid.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 1. De confidentiële regeling van de Minister van Justitie (nr. R45/99 d.d. 6 juni 2005) houdende instelling van de Begeleidingscommissie ten behoeve van de bijzondere bijstandseenheden (BELCOM-BBE) wordt met inwerkingtreding van deze regeling ingetrokken;
 
 2. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 7. Instellingsregeling
+##### Artikel 7. Instellingsregeling
 
 Deze regeling wordt aangehaald als: Instellingsregeling Afstemmingsoverleg stelsel van speciale eenheden.
 

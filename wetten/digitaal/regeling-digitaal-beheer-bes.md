@@ -1,16 +1,42 @@
 ---
-title: "Regeling digitaal beheer BES"
+title: "Ministeriële regeling van de 13de maart 2008 ter uitvoering van artikel 6 van het Archiefbesluit BES"
 identifier: "BWBR0029182"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029182"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029182"
+soort: "ministeriele-regeling-BES"
+stam_id: "11136403"
+version_id: "18213622"
+internal_id: "C25790761"
+label_id: "11110814"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029182/2010-10-10/0"
+intitule_bron: "Stcrt.2010-20796"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-03-13"
+intitule_published: "2010-12-22"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-20796"
+original_signed_date: "2008-03-13"
+original_published_date: "2010-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-20796"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0029182&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0029182&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Regeling digitaal beheer BES"
+signed_date: "2008-03-13"
+entry_into_force: "2010-10-10"
 ---
-
 # Ministeriële regeling van de 13de maart 2008 ter uitvoering van artikel 6 van het Archiefbesluit BES
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -46,15 +72,15 @@ In deze regeling wordt verstaan onder:
 
 - **werkproces:** de uitvoering van de taak of handeling uit hoofde waarvan archiefbescheiden door een overheidsorgaan worden ontvangen of opgemaakt als naar hun aard bestemd om daaronder te berusten.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling is op de in de archiefbewaarplaats berustende archiefbescheiden slechts van toepassing indien daaraan voldaan was op het tijdstip van de overbrenging, bedoeld in [artikel 17 van de Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=17).
 
-#### Artikel 3
+##### Artikel 3
 
 De zorgdrager draagt zorg dat elk onder hem ressorterend overheidsorgaan beschikt over een documentair structuurplan.
 
-#### Artikel 4
+##### Artikel 4
 
 Van elk van de archiefbescheiden dient te allen tijde te kunnen worden vastgesteld:
 
@@ -64,11 +90,11 @@ Van elk van de archiefbescheiden dient te allen tijde te kunnen worden vastgeste
 
 - •. c. de samenhang met de andere door het overheidsorgaan ontvangen en opgemaakte archiefbescheiden.
 
-#### Artikel 5
+##### Artikel 5
 
 De zorgdrager draagt zorg dat elk onder hem ressorterend overheidsorgaan beschikt over een compleet en logisch samenhangend overzicht van de bij dat overheidsorgaan berustende archiefbescheiden (geordend overeenkomstig het ten tijde van de vorming van het archief daarvoor geldende documentair structuurplan) en de bestanden waarin deze bewaard worden, met daarin ten minste de gegevens, bedoeld in [artikel 11, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=11&z=2010-10-10&g=2010-10-10), alsmede de verblijfplaats van de archiefbescheiden.
 
-#### Artikel 6
+##### Artikel 6
 
 De zorgdrager draagt zorg dat het archiefbeheerssysteem de toegankelijke staat van archiefbescheiden waarborgt zodanig dat:
 
@@ -76,7 +102,7 @@ De zorgdrager draagt zorg dat het archiefbeheerssysteem de toegankelijke staat v
 
 - •. b. elk van de archiefbescheiden binnen redelijke tijd leesbaar of waarneembaar te maken is. Daartoe verleent degene die met het beheer is belast de benodigde medewerking met inbegrip van het verschaffen van het benodigde inzicht in de opzet en de werking van het archiefbeheerssysteem.
 
-#### Artikel 7
+##### Artikel 7
 
 - •. 1. Indien een gerede kans bestaat dat, als gevolg van wijziging van besturingsprogrammatuur, toepassingsprogrammatuur of apparatuur niet langer voldaan kan worden aan het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=5&z=2010-10-10&g=2010-10-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=6&z=2010-10-10&g=2010-10-10) bepaalde, draagt de zorgdrager zorg voor conversie dan wel migratie van de archiefbescheiden.
 
@@ -84,21 +110,21 @@ De zorgdrager draagt zorg dat het archiefbeheerssysteem de toegankelijke staat v
 
 - •. 3. De zorgdrager maakt van de conversie of migratie een verklaring op, die ten minste een specificatie van de geconverteerde of gemigreerde archiefbescheiden bevat, alsmede aangeeft op welke wijze en met welk resultaat getoetst is of aan het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=5&z=2010-10-10&g=2010-10-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=6&z=2010-10-10&g=2010-10-10) bepaalde voldaan kan worden na de conversie of migratie.
 
-#### Artikel 8
+##### Artikel 8
 
 Digitale archiefbescheiden dienen, uiterlijk op het tijdstip van overbrenging naar de archiefbewaarplaats, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=17) en [18 van de Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=18), te worden opgeslagen volgens de standaard, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&bijlage=1&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 9
+##### Artikel 9
 
 De ordening en toegankelijkheid van de archiefbescheiden, zoals gerealiseerd door middel van toepassingsprogrammatuur, maken onverbrekelijk onderdeel uit van de archiefbescheiden waarop ze betrekking hebben.
 
-#### Artikel 10
+##### Artikel 10
 
 - •. 1. De zorgdrager draagt zorg voor het vastleggen van de functionele eisen ten aanzien van de inhoud, structuur en vorm, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10).
 
 - •. 2. De zorgdrager draagt, teneinde aan het in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=5&z=2010-10-10&g=2010-10-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=6&z=2010-10-10&g=2010-10-10) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=9&z=2010-10-10&g=2010-10-10) bepaalde te voldoen, zorg voor de bewaring van de toepassingsprogrammatuur, met inbegrip van de nieuwere versies, overeenkomstig het bij of krachtens de [Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369) voor archiefbescheiden bepaalde. In voorkomende gevallen draagt de zorgdrager zorg voor de daartoe noodzakelijke regeling van licenties inzake toepassingsprogrammatuur.
 
-#### Artikel 11
+##### Artikel 11
 
 - •. 1. De zorgdrager draagt zorg voor het vastleggen en de bewaring van tenminste de volgende gegevens:
 
@@ -128,7 +154,7 @@ De ordening en toegankelijkheid van de archiefbescheiden, zoals gerealiseerd doo
 
 - •. 2. Op de vastlegging en bewaring, bedoeld in het eerste lid, zijn de voor archiefbescheiden ingevolge [artikel 12 van de Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=12) geldende regels van overeenkomstige toepassing.
 
-#### Artikel 12
+##### Artikel 12
 
 - •. 1. Onverminderd het in [artikel 3 van de Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=3) bepaalde blijven de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=6&z=2010-10-10&g=2010-10-10), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=8&z=2010-10-10&g=2010-10-10) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=10&z=2010-10-10&g=2010-10-10) buiten toepassing ten aanzien van digitale archiefbescheiden en bestanden waaraan sedert 1 januari 2006 geen gegevens zijn toegevoegd of waarin sedert 1 januari 2006 geen gegevens zijn gewijzigd.
 
@@ -136,23 +162,23 @@ De ordening en toegankelijkheid van de archiefbescheiden, zoals gerealiseerd doo
 
 - •. 3. Met toestemming van de minister blijven de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=4&z=2010-10-10&g=2010-10-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=6&z=2010-10-10&g=2010-10-10), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=8&z=2010-10-10&g=2010-10-10) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0029182&artikel=10&z=2010-10-10&g=2010-10-10) buiten toepassing ten aanzien van sedert 1 januari 2006 ontvangen en opgemaakte digitale archiefbescheiden in bestanden waaraan sedert 1 januari 2007 geen gegevens zijn toegevoegd of waarin sedert die datum geen gegevens zijn gewijzigd. Aan deze toestemming kunnen voorwaarden worden verbonden.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling digitaal beheer BES.
 

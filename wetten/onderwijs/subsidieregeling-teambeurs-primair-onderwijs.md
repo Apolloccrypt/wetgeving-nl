@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling Teambeurs primair onderwijs"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 26 maart 2017, nr. PO/1116263, houdende regels voor subsidieverstrekking voor het inzetten van kennis en competenties van masteropgeleide leraren in een lerarenteam ten behoeve van schoolontwikkeling (Subsidieregeling Teambeurs primair onderwijs)"
 identifier: "BWBR0039462"
-categorie: "Onderwijs"
-publicatiedatum: 2019-07-09
-laatste_update: 2019-07-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039462"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-07-09"
+last_updated: "2019-07-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039462"
+soort: "ministeriele-regeling"
+stam_id: "13981003"
+version_id: "24055482"
+internal_id: "C34564311"
+label_id: "13943594"
+dtd_version: "2.0"
+original_entry_into_force: "2017-04-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039462/2019-07-09/0"
+intitule_bron: "Stcrt.2017-20684"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-03-26"
+intitule_published: "2017-04-13"
+intitule_in_force: "2017-04-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-20684"
+original_signed_date: "2017-03-26"
+original_published_date: "2017-04-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-20684"
+entry_into_force_date: "2017-04-14"
+jci_1_3: "jci1.3:c:BWBR0039462&z=2019-07-09&g=2019-07-09"
+jci_1_0: "1.0:c:BWBR0039462&g=2019-07-09"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Teambeurs primair onderwijs"
+signed_date: "2017-03-26"
+entry_into_force: "2017-04-14"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 26 maart 2017, nr. PO/1116263, houdende regels voor subsidieverstrekking voor het inzetten van kennis en competenties van masteropgeleide leraren in een lerarenteam ten behoeve van schoolontwikkeling (Subsidieregeling Teambeurs primair onderwijs)
 
 Gelet op [artikel 4, eerste en tweede lid, van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [artikel 1.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -50,19 +76,19 @@ In deze regeling wordt verstaan onder:
 
 - •. **studiejaar:** tijdvak als bedoeld in [artikel 1.1, onderdeel k, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1).
 
-#### Artikel 2. Subsidieplafond
+##### Artikel 2. Subsidieplafond
 
 1. Het subsidieplafond voor de periode vanaf de datum van inwerkingtreding van deze regeling tot 1 september 2018 bedraagt € 11,7 miljoen.
 
 2. Het subsidieplafond voor nieuwe subsidieaanvragen in 2019 bedraagt €2.900.000
 
-#### Artikel 3. Wijze van verdeling beschikbare middelen
+##### Artikel 3. Wijze van verdeling beschikbare middelen
 
 De minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
 
 #### Paragraaf 2. Subsidie volgen masteropleidingen in teamverband en kennisinbedding
 
-#### Artikel 4. Te subsidiëren activiteiten
+##### Artikel 4. Te subsidiëren activiteiten
 
 1. De minister kan aan het bevoegd gezag subsidie verstrekken voor:
 
@@ -80,7 +106,7 @@ De minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op vol
 
 3. Subsidie als bedoeld in het eerste lid onderdeel a en b wordt verstrekt voor ten hoogste twee studiejaren. Subsidie als bedoeld in het eerste lid onderdeel c wordt verstrekt voor ten hoogste één studiejaar.
 
-#### Artikel 5. Subsidieaanvraag
+##### Artikel 5. Subsidieaanvraag
 
 1. Een aanvraag tot subsidieverstrekking bevat een activiteitenplan en begroting.
 
@@ -106,13 +132,13 @@ De minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op vol
 
 3. Voor zover het betreft subsidie tot € 125.000 zijn de [artikelen 3.4 tot en met 3.7 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4) van overeenkomstige toepassing.
 
-#### Artikel 6. Verplichtingen
+##### Artikel 6. Verplichtingen
 
 1. Het lerarenteam start uiterlijk zes maanden na het verstrekken van de subsidie met het volgen van de masteropleiding. De activiteiten, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2019-07-09&g=2019-07-09), vangen na het afronden van de masteropleiding aan.
 
 2. Het bevoegd gezag verleent studieverlof voor het volgen van een masteropleiding en stelt het lerarenteam in staat de opgedane kennis te benutten ten behoeve van schoolontwikkeling.
 
-#### Artikel 7. Omvang subsidie
+##### Artikel 7. Omvang subsidie
 
 1. Per aanvraag als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2019-07-09&g=2019-07-09), zijn de volgende maximale subsidiebedragen beschikbaar:
 
@@ -134,7 +160,7 @@ met dien verstande dat het subsidiebedrag voor een uur als bedoeld in onderdelen
 
 - b. maximaal € 5.000 voor activiteiten als bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2019-07-09&g=2019-07-09).
 
-#### Artikel 8. Aanvraagprocedure
+##### Artikel 8. Aanvraagprocedure
 
 1. In 2017 kan tussen 1 mei tot en met 15 oktober en in 2018 kan tussen 1 april tot en met 15 oktober subsidie worden aangevraagd. In 2019 kan van 15 juli tot en met 15 oktober subsidie worden aangevraagd.
 
@@ -148,7 +174,7 @@ met dien verstande dat het subsidiebedrag voor een uur als bedoeld in onderdelen
 
 6. Indien een aanvraag betrekking heeft op een masteropleiding die nog niet geaccrediteerd is, besluit de minister voor dat deel van de aanvraag niet eerder op de aanvraag dan nadat de Nederlands-Vlaamse Accreditatieorganisatie een besluit heeft genomen over de accreditatie van die opleiding. De uiterste datum waarop de minister beslist is 1 februari 2020.
 
-#### Artikel 9. Weigeringsgronden
+##### Artikel 9. Weigeringsgronden
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) weigert de minister subsidie indien een leraar als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039462&paragraaf=2&artikel=4&z=2019-07-09&g=2019-07-09):
 
@@ -156,7 +182,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - b. uit andere hoofde van de minister een tegemoetkoming in de studiekosten heeft ontvangen voor het volgen van de opleiding waarvoor subsidie wordt aangevraagd.
 
-#### Artikel 10. Terugvordering
+##### Artikel 10. Terugvordering
 
 1. De minister kan subsidie in ieder geval terugvorderen voor zover:
 
@@ -166,7 +192,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 2. Het bevoegd gezag doet in ieder geval melding van de gevallen, bedoeld in het eerste lid.
 
-#### Artikel 11. Besteding en verantwoording
+##### Artikel 11. Besteding en verantwoording
 
 1. De subsidie wordt direct vastgesteld binnen 13 weken na ontvangst van de aanvraag.
 
@@ -178,11 +204,11 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 #### Paragraaf 3. Subsidie ontwikkelkosten masteropleiding
 
-#### Artikel 12. Te subsidiëren activiteiten
+##### Artikel 12. Te subsidiëren activiteiten
 
 De minister kan subsidie verstrekken aan het bevoegd gezag voor het samen met een instelling voor hoger onderwijs als bedoeld in [artikel 1.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), ontwikkelen van een nieuwe masteropleiding die is gericht op teams van leraren en teamontwikkeling.
 
-#### Artikel 13. Subsidieaanvraag
+##### Artikel 13. Subsidieaanvraag
 
 1. In 2017 kan tussen 1 mei tot en met 15 oktober en in 2018 kan tussen 1 april tot en met 15 oktober subsidie worden aangevraagd.
 
@@ -202,15 +228,15 @@ De minister kan subsidie verstrekken aan het bevoegd gezag voor het samen met ee
 
 7. Voor zover het betreft subsidie tot € 125.000 zijn de [artikelen 3.4 tot en met 3.7 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4) van overeenkomstige toepassing.
 
-#### Artikel 14. Uitvoering activiteiten
+##### Artikel 14. Uitvoering activiteiten
 
 De te subsidiëren activiteiten vangen aan uiterlijk zes maanden na het verlenen, indien de subsidie € 125.000 of meer bedraagt. De activiteiten vangen aan uiterlijk zes maanden na het vaststellen, indien de subsidie minder bedraagt dan € 125.000. De activiteiten zijn na uiterlijk 24 maanden na aanvang afgerond.
 
-#### Artikel 15. Omvang subsidie
+##### Artikel 15. Omvang subsidie
 
 De subsidie voor het ontwikkelen van een nieuwe masteropleiding bedraagt maximaal € 150.000.
 
-#### Artikel 16. Aanvraagprocedure
+##### Artikel 16. Aanvraagprocedure
 
 1. De subsidie wordt aangevraagd door het bevoegd gezag.
 
@@ -218,7 +244,7 @@ De subsidie voor het ontwikkelen van een nieuwe masteropleiding bedraagt maximaa
 
 3. In afwijking van [artikel 3.2 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.2) kan tot 15 oktober 2017 een aanvraag worden ingediend voor activiteiten die reeds zijn aangevangen vanaf 1 augustus 2016.
 
-#### Artikel 17. Besteding en verantwoording subsidies tot € 125.000
+##### Artikel 17. Besteding en verantwoording subsidies tot € 125.000
 
 1. Voor zover de subsidie minder bedraagt dan € 125.000 wordt deze direct vastgesteld binnen 13 weken na ontvangst van de aanvraag.
 
@@ -228,7 +254,7 @@ De subsidie voor het ontwikkelen van een nieuwe masteropleiding bedraagt maximaa
 
 4. De verantwoording van de subsidie geschiedt voor zover het betreft subsidie minder dan € 25.000 in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) en indien de subsidie € 25.000 of meer bedraagt, maar minder dan € 125.000 overeenkomstig Regeling jaarverslaggeving onderwijs met model G, onderdeel 1.
 
-#### Artikel 18. Besteding en verantwoording subsidies vanaf € 125.000
+##### Artikel 18. Besteding en verantwoording subsidies vanaf € 125.000
 
 1. Voor zover de subsidie € 125.000 of meer bedraagt wordt deze verleend binnen 13 weken na ontvangst van de aanvraag.
 
@@ -240,7 +266,7 @@ De subsidie voor het ontwikkelen van een nieuwe masteropleiding bedraagt maximaa
 
 5. De vaststelling vindt plaats binnen een jaar na de indiening van het jaarverslag over het laatste jaar van besteding.
 
-#### Artikel 19. Activiteitenverslag
+##### Artikel 19. Activiteitenverslag
 
 1. Voor zover het een subsidie van € 25.000 of meer betreft toont de subsidieontvanger aan de hand van een activiteitenverslag aan dat de activiteiten waarvoor de subsidie is verstrekt, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen. Dit activiteitenverslag wordt binnen 13 weken na afronding van de activiteiten gericht aan DUS-I.
 
@@ -258,17 +284,17 @@ De subsidie voor het ontwikkelen van een nieuwe masteropleiding bedraagt maximaa
 
 #### Paragraaf 4. Overige bepalingen
 
-#### Artikel 20. Steekproef
+##### Artikel 20. Steekproef
 
 Het bevoegd gezag toont op verzoek van de minister tot maximaal 1 jaar nadat de subsidieperiode is verstreken aan, op een door de minister in de beschikking aan te geven wijze, dat hij voldoet aan de subsidiecriteria en dat aan de subsidieverplichtingen is voldaan.
 
-#### Artikel 21. Inwerkingtreding en vervaldatum
+##### Artikel 21. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2024.
 
-#### Artikel 22. Citeertitel
+##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Teambeurs primair onderwijs.
 

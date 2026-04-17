@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregels uitgifte bedrijfsnummers"
 identifier: "BWBR0033303"
-categorie: "Overig"
-publicatiedatum: 2013-04-01
-laatste_update: 2013-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033303"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-04-01"
+last_updated: "2013-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033303"
+soort: "zbo"
+stam_id: "12224203"
+version_id: "20444422"
+internal_id: "C28736231"
+label_id: "12195514"
+dtd_version: "2.0"
+original_entry_into_force: "2008-03-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033303/2013-04-01/0"
+intitule_bron: "Stcrt.2008-71"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2008-04-11"
+intitule_in_force: "2008-04-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-71"
+original_published_date: "2008-04-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-71-p21-SC85370"
+entry_into_force_date: "2008-03-24"
+jci_1_3: "jci1.3:c:BWBR0033303&z=2013-04-01&g=2013-04-01"
+jci_1_0: "1.0:c:BWBR0033303&g=2013-04-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2008-03-24"
 ---
-
 # Beleidsregels uitgifte bedrijfsnummers
 
 De Autoriteit Consument en Markt maakt hierbij op grond van haar bevoegdheden uit [hoofdstuk 4 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=4) beleidsregels bekend over de uitgifte van nummers voor toegang tot ondernemingen en instellingen (088-nummers). Deze beleidsregels treden per 24 maart 2008 in werking. Deze beleidsregels vervangen de [in de bekendmaking van 6 september 2004 onder B genoemde beleidsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0033297) (OPTA/NER/2004/203044).

@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregels vereveningsbijdrage zorgverzekering 2011"
 identifier: "BWBR0029624"
-categorie: "Sociaal recht"
-publicatiedatum: 2012-10-03
-laatste_update: 2012-10-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029624"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-10-03"
+last_updated: "2012-10-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029624"
+soort: "zbo"
+stam_id: "11245353"
+version_id: "18414332"
+internal_id: "C25656921"
+label_id: "11220564"
+dtd_version: "2.0"
+original_entry_into_force: "2011-02-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029624/2012-10-03/0"
+intitule_bron: "Stcrt.2011-2928"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-02-18"
+intitule_in_force: "2011-02-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-2928"
+original_published_date: "2011-02-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-2928"
+entry_into_force_date: "2011-02-20"
+jci_1_3: "jci1.3:c:BWBR0029624&z=2012-10-03&g=2012-10-03"
+jci_1_0: "1.0:c:BWBR0029624&g=2012-10-03"
+citeertitel_status: "officieel"
+entry_into_force: "2011-02-20"
 ---
-
 # Beleidsregels vereveningsbijdrage zorgverzekering 2011
 
 Gelet op de [artikelen 32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34, vierde lid van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34), [hoofdstuk 3 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3) en [hoofdstuk 3 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=3);
@@ -16,7 +38,7 @@ Heeft in zijn vergadering van 17 januari 2011 besloten:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Deze beleidsregels verstaan onder:
 
@@ -64,15 +86,15 @@ Deze beleidsregels verstaan onder:
 
 - v. **VPPKB:** Verzekerde Periode en Persoonskenmerken Bestand: een bestand dat bestaat uit de opgave van de zorgverzekeraar van verzekerden mét een geverifieerd gepseudonimiseerd burgerservicenummer dat per geverifieerd gepseudonimiseerd burgerservicenummer de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar, viercijferige postcode en gepseudonimiseerd adres bevat en de opgave van de zorgverzekeraar van verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer dat per verzekerde de verzekerde periode, de persoonskenmerken geslacht, geboortemaand en geboortejaar en viercijferige postcode bevat.
 
-#### Artikel 2. Algemene bepaling
+##### Artikel 2. Algemene bepaling
 
 Het college past de bepalingen uit het [Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492) en de [Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715) met betrekking tot de toekenning en vaststelling van de bijdrage aan de zorgverzekeraars toe met inachtneming van het bepaalde in deze beleidsregels.
 
-#### Artikel 3. Zorgverzekeraars
+##### Artikel 3. Zorgverzekeraars
 
 Het college gaat bij de verdeling van de macro-deelbedragen 2011 en de berekening van de normatieve bedragen en de vereveningsbijdragen ervan uit dat alle zorgverzekeraars die gedurende 2010 actief zijn geweest ook in 2011 als zorgverzekeraar actief zullen zijn, tenzij zij voor 1 augustus 2010 aan het college hebben aangegeven dat zulks niet het geval zal zijn.
 
-#### Artikel 4. Samenloop van klassen aard van het inkomen
+##### Artikel 4. Samenloop van klassen aard van het inkomen
 
 Voor de indeling in de aard van het inkomenklasse deelt het college een verzekerde, die in meerdere klassen is in te delen, in op basis van de hierna genoemde volgorde:
 
@@ -86,7 +108,7 @@ Voor de indeling in de aard van het inkomenklasse deelt het college een verzeker
 
 - 5. referentiegroep aard van het inkomen, alle verzekerden omvattend die niet zijn ingedeeld onder 1 tot en met 4.
 
-#### Artikel 5. Indeling in FKG’s 2011 en DKG’s 2011
+##### Artikel 5. Indeling in FKG’s 2011 en DKG’s 2011
 
 1. Het college baseert de indeling in FKG’s 2011 op bijlage 6 en 7 bij de brief van de minister van Volksgezondheid, Welzijn en Sport van 28 september 2010 Z/F-3024689.
 
@@ -106,13 +128,13 @@ Voor de indeling in de aard van het inkomenklasse deelt het college een verzeker
 
 3. Het college baseert de indeling in DKG’s 2011 op bijlage 8, bij de brief van de minister van Volksgezondheid, Welzijn en Sport van 28 september 2010 Z/F-3024689.
 
-#### Artikel 6. Indeling in regioklasse 2011 en sociaal economische statusklasse 2011
+##### Artikel 6. Indeling in regioklasse 2011 en sociaal economische statusklasse 2011
 
 Wanneer van een verzekerde geen Nederlandse postcode bekend is – ondanks inspanningen van de zorgverzekeraar deze te administreren – zal het college als gewicht van de regioklasse, de GGZ-regioklasse en de sociaal economische statusklasse het gewicht nul hanteren.
 
 ### Hoofdstuk II. Toekenning van de vereveningsbijdrage 2011 aan de zorgverzekeraar
 
-#### Artikel 7. Raming van de verzekerdenaantallen 2011
+##### Artikel 7. Raming van de verzekerdenaantallen 2011
 
 1. Uitgangspunt voor de raming is het persoonskenmerkenbestand 2010 dat de zorgverzekeraars op 1 juli 2010 bij het college hebben aangeleverd. De peildatum van deze opgaven is de datum van nominale premieprolongatie voor de maand juni 2010.
 
@@ -180,7 +202,7 @@ Wanneer van een verzekerde geen Nederlandse postcode bekend is – ondanks inspa
 
 - c. Vervolgens bepaalt het college per zorgverzekeraar het totaal aantal geraamde verzekerden 2011 per risicoklasse naar leeftijd en geslacht, aard van het inkomenklasse en regioklasse door de zwaarten per risicoklasse naar leeftijd en geslacht, aard van het inkomenklasse en regioklasse bij elkaar op te tellen.
 
-#### Artikel 8. De verdeling van het macro-deelbedrag kosten van B-dbc’s en de berekening van het deelbedrag kosten van B-dbc’s
+##### Artikel 8. De verdeling van het macro-deelbedrag kosten van B-dbc’s en de berekening van het deelbedrag kosten van B-dbc’s
 
 1. Voor de verdeling van het macro-deelbedrag kosten van B-dbc’s hanteert het college de volgende gewichten als uitgangspunten:
 
@@ -212,7 +234,7 @@ De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het result
 
 8. Het resultaat van het zevende lid wordt aangeduid als het deelbedrag kosten van B-dbc’s 2011.
 
-#### Artikel 9. De verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp en de berekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp
+##### Artikel 9. De verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp en de berekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp
 
 1. Voor de verdeling van het macro-deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp hanteert het college de volgende gewichten als uitgangspunten:
 
@@ -242,7 +264,7 @@ De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het result
 
 8. Het resultaat van het zevende lid wordt aangeduid als het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011.
 
-#### Artikel 10. De verdeling van het macro-deelbedrag vaste kosten van ziekenhuisverpleging en de berekening van het deelbedrag vaste kosten van ziekenhuisverpleging
+##### Artikel 10. De verdeling van het macro-deelbedrag vaste kosten van ziekenhuisverpleging en de berekening van het deelbedrag vaste kosten van ziekenhuisverpleging
 
 1. Het college bepaalt het deelbedrag vaste kosten van ziekenhuisverpleging 2011 als volgt:
 
@@ -260,7 +282,7 @@ De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het result
 
 4. Het resultaat van het derde lid wordt aangeduid als het deelbedrag vaste kosten van ziekenhuisverpleging 2011.
 
-#### Artikel 11. De verdeling van het macro-deelbedrag geneeskundige geestelijke gezondheidszorg en de berekening van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg
+##### Artikel 11. De verdeling van het macro-deelbedrag geneeskundige geestelijke gezondheidszorg en de berekening van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg
 
 1. Voor de verdeling van het macro-deelbedrag geneeskundige geestelijke gezondheidszorg hanteert het college als uitgangspunten:
 
@@ -302,7 +324,7 @@ De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het result
 
 11. De som van het resultaat van het negende en tiende lid wordt aangeduid als het deelbedrag geneeskundige geestelijke gezondheidszorg 2011.
 
-#### Artikel 12. De verdeling van het macro-deelbedrag kosten van overige prestaties en de berekening van het deelbedrag kosten van overige prestaties
+##### Artikel 12. De verdeling van het macro-deelbedrag kosten van overige prestaties en de berekening van het deelbedrag kosten van overige prestaties
 
 1. Voor de verdeling van het macro-deelbedrag kosten van overige prestaties hanteert het college als uitgangspunten:
 
@@ -332,7 +354,7 @@ De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het result
 
 8. Het resultaat van het zevende lid wordt aangeduid als deelbedrag kosten van overige prestaties 2011.
 
-#### Artikel 13. De raming van de normatieve eigen risico opbrengst
+##### Artikel 13. De raming van de normatieve eigen risico opbrengst
 
 1. Voor de raming van de normatieve eigen risico opbrengst voor verzekerden zonder een FKG 1 tot en met 23 2011 hanteert het college als uitgangspunten:
 
@@ -352,7 +374,7 @@ De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het result
 
 6. De totale raming van de normatieve eigen risico opbrengst per zorgverzekeraar is de som van het resultaat van het vierde en het vijfde lid.
 
-#### Artikel 14. De berekening van het normatieve bedrag en de berekening en toekenning van de vereveningsbijdrage
+##### Artikel 14. De berekening van het normatieve bedrag en de berekening en toekenning van de vereveningsbijdrage
 
 1. Het college berekent het normatieve bedrag 2011 van een zorgverzekeraar als de som van het volgens dit hoofdstuk berekende deelbedrag kosten B-dbc’s 2011, het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011, het deelbedrag vaste kosten van ziekenhuisverpleging 2011, het deelbedrag geneeskundige geestelijke gezondheidszorg 2011 en het deelbedrag kosten van overige prestaties 2011.
 
@@ -366,11 +388,11 @@ De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het result
 
 6. Het college kent de vereveningsbijdrage 2011 ter hoogte van de bijdrage berekend in het vierde lid, aangevuld met het bedrag berekend in het vijfde lid, aan de zorgverzekeraar toe.
 
-#### Artikel 15. Herberekeningen als gevolg van splitsing van de zorgverzekeraar
+##### Artikel 15. Herberekeningen als gevolg van splitsing van de zorgverzekeraar
 
 Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2011 besluit zich te splitsen, deelt de zorgverzekeraar aan het college mee hoe naar zijn verwachting de geraamde verzekerdenaantallen 2011 verdeeld zullen worden, over nieuwe dan wel bestaande zorgverzekeraars. Het college kan de toegekende vereveningsbijdrage herzien en de bijdragen aan nieuwe dan wel bestaande zorgverzekeraars toekennen, rekening houdend met de meegedeelde geraamde verzekerdenaantallen en het tijdstip waarop de splitsing wordt gerealiseerd.
 
-#### Artikel 16. De herberekening en herziening van de toegekende bijdrage 2011
+##### Artikel 16. De herberekening en herziening van de toegekende bijdrage 2011
 
 1. Het college herberekent de toekenning van de vereveningsbijdrage op basis van de werkelijke verzekerdenaantallen 2011 volgens de opgaven van de zorgverzekeraars aan het college op 4 maart 2011.
 
@@ -380,7 +402,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2011 besl
 
 ### Hoofdstuk III. De eerste voorlopige vaststelling van de vereveningsbijdrage aan een zorgverzekeraar
 
-#### Artikel 17. Bepaling van de verzekerdenaantallen 2011
+##### Artikel 17. Bepaling van de verzekerdenaantallen 2011
 
 1. De zorgverzekeraars leveren het persoonskenmerkenbestand 2011 op 15 juni 2011 bij het college aan.
 
@@ -452,7 +474,7 @@ De zorgverzekeraars leveren het uitstroombestand 2011 op 1 juli 2012 bij het col
 
 16. Het college deelt verzekerden zonder burgerservicenummer of zonder geverifieerd burgerservicenummer uitsluitend in bij de vereveningskenmerken leeftijd en geslacht en regio.
 
-#### Artikel 18. De voorlopige herberekening van het deelbedrag kosten van B-dbc’s 2011
+##### Artikel 18. De voorlopige herberekening van het deelbedrag kosten van B-dbc’s 2011
 
 1. Het college bepaalt op basis van de opgave jaarstaat 2011 per 1 juni 2012 per zorgverzekeraar en voor het totaal van de zorgverzekeraars de kosten van B-dbc’s 2011, met inachtneming van de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11) en [3.12 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12).
 
@@ -478,7 +500,7 @@ De zorgverzekeraars leveren het uitstroombestand 2011 op 1 juli 2012 bij het col
 
 12. Voor de toepassing van [artikel 3.20 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.20) vermindert het college het voorlopige herberekende deelbedrag kosten van B-dbc’s 2011 met de kosten van B-dbc’s 2011, zoals bepaald in het eerste lid.
 
-#### Artikel 19. De voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011
+##### Artikel 19. De voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011
 
 1. Het college bepaalt op basis van de opgave jaarstaat 2011 per 1 juni 2012 per zorgverzekeraar en voor het totaal van de zorgverzekeraars de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011 met inachtneming van de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12) en [3.15 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.15).
 
@@ -506,7 +528,7 @@ De zorgverzekeraars leveren het uitstroombestand 2011 op 1 juli 2012 bij het col
 
 13. Voor de toepassing van [artikel 3.20 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.20) trekt het college van het voorlopige herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011 af de kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011, zoals bepaald in het eerste lid.
 
-#### Artikel 20. De voorlopige herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2011
+##### Artikel 20. De voorlopige herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2011
 
 1. Het college bepaalt op basis van de opgave jaarstaat 2011 per 1 juni 2012 per zorgverzekeraar met inachtneming van de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12) en [3.16 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.16), de vaste kosten van ziekenhuisverpleging 2011.
 
@@ -520,7 +542,7 @@ De zorgverzekeraars leveren het uitstroombestand 2011 op 1 juli 2012 bij het col
 
 4. De som van het resultaat van het tweede en het derde lid wordt aangeduid als het voorlopige herberekende deelbedrag vaste kosten van ziekenhuisverpleging 2011.
 
-#### Artikel 21. De voorlopige herberekening van het deelbedrag kosten geneeskundige geestelijke gezondheidszorg 2011
+##### Artikel 21. De voorlopige herberekening van het deelbedrag kosten geneeskundige geestelijke gezondheidszorg 2011
 
 1. Het college bepaalt op basis van de opgave jaarstaat 2011 per 1 juni 2012 per zorgverzekeraar en voor het totaal van de zorgverzekeraars de kosten van geneeskundige geestelijke gezondheidszorg 2011 voor verzekerden van 18 jaar en ouder, met inachtneming van de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12) en [3.17 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.17).
 
@@ -566,7 +588,7 @@ De zorgverzekeraars leveren het uitstroombestand 2011 op 1 juli 2012 bij het col
 
 22. Voor de toepassing van [artikel 3.20 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.20) vermindert het college het resultaat van het vijftiende lid met de kosten van geneeskundige geestelijke gezondheidszorg, zoals bepaald op grond van het eerste lid.
 
-#### Artikel 22. De voorlopige herberekening van het deelbedrag kosten van overige prestaties 2011
+##### Artikel 22. De voorlopige herberekening van het deelbedrag kosten van overige prestaties 2011
 
 1. Het college bepaalt op basis van de opgave jaarstaat 2011 per 1 juli 2012 de kosten van overige prestaties 2011 met inachtneming van de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11) en [3.12 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.12).
 
@@ -592,7 +614,7 @@ De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het result
 
 11. Het resultaat van het tiende lid wordt aangeduid als het voorlopige herberekende deelbedrag kosten van overige prestaties 2011.
 
-#### Artikel 23. De voorlopige herberekening van de opbrengst van het normatieve eigen risico 2011
+##### Artikel 23. De voorlopige herberekening van de opbrengst van het normatieve eigen risico 2011
 
 1. Uitgangspunt voor de herberekening van de opbrengst van het normatieve eigen risico zijn de opgaven, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=17&z=2012-10-03&g=2012-10-03), van de verzekerdenaantallen van de zorgverzekeraar.
 
@@ -600,7 +622,7 @@ De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het result
 
 3. In afwijking van het tweede lid bepaalt het college de gederfde inkomsten voor verzekerden van 18 jaar en ouder voor wie als gevolg van de toepasselijkheid van [artikel 24 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen, op basis van de opgave jaarstaat 2011 per 1 juli 2012.
 
-#### Artikel 24. De voorlopige herberekening van het normatieve bedrag 2011 en de voorlopige herberekening en voorlopige vaststelling van de vereveningsbijdrage 2011
+##### Artikel 24. De voorlopige herberekening van het normatieve bedrag 2011 en de voorlopige herberekening en voorlopige vaststelling van de vereveningsbijdrage 2011
 
 1. Het college herberekent het normatieve bedrag 2011 voorlopig als de som van het voorlopige herberekende deelbedrag B-dbc’s 2011, het voorlopig herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011, het voorlopige herberekende deelbedrag vaste kosten van ziekenhuisverpleging 2011, het voorlopig herberekende deelbedrag geneeskundige geestelijke gezondheidszorg 2011 en het voorlopig herberekende deelbedrag kosten van overige prestaties 2011.
 
@@ -632,11 +654,11 @@ De uitkomsten worden per zorgverzekeraar gesommeerd en toegevoegd aan het result
 
 ### Hoofdstuk IV. De tweede voorlopige vaststelling van de vereveningsbijdrage 2011 aan een zorgverzekeraar
 
-#### Artikel 25. Algemene bepaling
+##### Artikel 25. Algemene bepaling
 
 Het college herberekent het normatieve bedrag voor de tweede keer voorlopig met inachtneming van de opgave hogekostencompensatie 2011, de lasten 2011 uit de opgave jaarstaat 2013 per 1 juni 2014, het opbrengstresultaat 2011 en de correcties die de Nederlandse Zorgautoriteit heeft toegepast.
 
-#### Artikel 26. Bepaling van de verzekerdenaantallen 2011
+##### Artikel 26. Bepaling van de verzekerdenaantallen 2011
 
 1. Het college betrekt de correcties die de Nederlandse Zorgautoriteit heeft toegepast bij de verzekerdenaantallen.
 
@@ -644,7 +666,7 @@ Het college herberekent het normatieve bedrag voor de tweede keer voorlopig met 
 
 3. Voor de vaststelling van de GGZ-kosten lage drempelklasse en de GGZ-kosten hoge drempelklasse, baseert het college zich op declaraties 2010 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten GGZ tot en met 31 december 2012, zoals zorgverzekeraars die op 1 juni 2013 bij het college hebben aangeleverd.
 
-#### Artikel 27. De tweede voorlopige herberekening van het deelbedrag kosten van B-dbc’s 2011
+##### Artikel 27. De tweede voorlopige herberekening van het deelbedrag kosten van B-dbc’s 2011
 
 1. Het college hanteert bij de tweede voorlopige herberekening van het deelbedrag kosten van B-dbc’s 2011 als uitgangspunten:
 
@@ -686,7 +708,7 @@ Het college herberekent het normatieve bedrag voor de tweede keer voorlopig met 
 
 14. Voor de toepassing van [artikel 3.20 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.20) trekt het college van het tweede voorlopige herberekende deelbedrag kosten van B-dbc’s 2011 af de kosten van B-dbc’s 2011, zoals bepaald in het tweede lid.
 
-#### Artikel 28. De tweede voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011
+##### Artikel 28. De tweede voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011
 
 1. Het college hanteert bij de tweede voorlopige herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011 als uitgangspunten:
 
@@ -730,11 +752,11 @@ Het college herberekent het normatieve bedrag voor de tweede keer voorlopig met 
 
 15. Voor de toepassing van [artikel 3.20 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.20) trekt het college van het tweede voorlopig herberekende deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011 af de kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011, zoals bepaald in het tweede lid.
 
-#### Artikel 29. De tweede voorlopige herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2011
+##### Artikel 29. De tweede voorlopige herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2011
 
 Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste kosten van ziekenhuisverpleging 2011 overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=20&z=2012-10-03&g=2012-10-03), met inachtneming van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=26&z=2012-10-03&g=2012-10-03).
 
-#### Artikel 30. De tweede voorlopige herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2011
+##### Artikel 30. De tweede voorlopige herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2011
 
 1. Voor de tweede voorlopige herberekening van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg hanteert het college als uitgangspunten:
 
@@ -800,7 +822,7 @@ Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste koste
 
 24. Voor de toepassing van [artikel 3.20 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.20) vermindert het college het resultaat van het zeventiende lid met de kosten van geneeskundige geestelijke gezondheidszorg, zoals bepaald in het tweede lid.
 
-#### Artikel 31. De tweede voorlopige herberekening van het deelbedrag kosten van overige prestaties 2011
+##### Artikel 31. De tweede voorlopige herberekening van het deelbedrag kosten van overige prestaties 2011
 
 1. Voor de tweede voorlopige herberekening van het deelbedrag kosten van overige prestaties hanteert het college als uitgangspunten:
 
@@ -840,11 +862,11 @@ Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste koste
 
 13. Het resultaat van het twaalfde lid wordt aangeduid als het tweede voorlopig herberekende deelbedrag kosten van overige prestaties 2011.
 
-#### Artikel 32. De tweede voorlopige herberekening van de normatieve eigen risico opbrengst 2011
+##### Artikel 32. De tweede voorlopige herberekening van de normatieve eigen risico opbrengst 2011
 
 Het college herberekent voor de tweede keer voorlopig de normatieve eigen risico opbrengst 2011 overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=13&z=2012-10-03&g=2012-10-03) en [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=III&artikel=23&z=2012-10-03&g=2012-10-03), met inachtneming van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=26&z=2012-10-03&g=2012-10-03).
 
-#### Artikel 33. De tweede voorlopige herberekening van het normatieve bedrag 2011 en de tweede voorlopige herberekening en de vaststelling van de vereveningsbijdrage 2011
+##### Artikel 33. De tweede voorlopige herberekening van het normatieve bedrag 2011 en de tweede voorlopige herberekening en de vaststelling van de vereveningsbijdrage 2011
 
 1. Het college herberekent het normatieve bedrag 2011 voor de tweede keer voorlopig als de som van het tweede voorlopige deelbedrag B-dbc’s 2011, het tweede voorlopige deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011, het tweede voorlopige deelbedrag vaste kosten van ziekenhuisverpleging 2011, het tweede voorlopige deelbedrag geneeskundige geestelijke gezondheidszorg 2011 en het tweede voorlopige deelbedrag kosten van overige prestaties 2011.
 
@@ -876,35 +898,35 @@ Het college herberekent voor de tweede keer voorlopig de normatieve eigen risico
 
 ### Hoofdstuk V. De vaststelling van de vereveningsbijdrage 2011 aan een zorgverzekeraar
 
-#### Artikel 34. Algemene bepaling
+##### Artikel 34. Algemene bepaling
 
 Het college herberekent de vereveningsbijdrage definitief met inachtneming van de correcties die voortkomen uit de reviewrapportage die de Nederlandse Zorgautoriteit uitbrengt over de jaarstaat 2013.
 
-#### Artikel 35. De definitieve herberekening van het deelbedrag kosten van B-dbc’s 2011
+##### Artikel 35. De definitieve herberekening van het deelbedrag kosten van B-dbc’s 2011
 
 Het college herberekent definitief het deelbedrag kosten van B-dbc’s 2011 overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=27&z=2012-10-03&g=2012-10-03), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2012-10-03&g=2012-10-03).
 
-#### Artikel 36. De definitieve herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011
+##### Artikel 36. De definitieve herberekening van het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011
 
 Het college herberekent definitief het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp 2011overeenkomstig [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=28&z=2012-10-03&g=2012-10-03), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2012-10-03&g=2012-10-03).
 
-#### Artikel 37. De definitieve herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2011
+##### Artikel 37. De definitieve herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2011
 
 Het college herberekent definitief het deelbedrag vaste kosten van ziekenhuisverpleging 2011 overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=29&z=2012-10-03&g=2012-10-03), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2012-10-03&g=2012-10-03).
 
-#### Artikel 38. De definitieve herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2011
+##### Artikel 38. De definitieve herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2011
 
 Het college herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2011 overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=30&z=2012-10-03&g=2012-10-03), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2012-10-03&g=2012-10-03).
 
-#### Artikel 39. De definitieve herberekening van het deelbedrag kosten van overige prestaties 2011
+##### Artikel 39. De definitieve herberekening van het deelbedrag kosten van overige prestaties 2011
 
 Het college herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2011 overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=31&z=2012-10-03&g=2012-10-03), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2012-10-03&g=2012-10-03).
 
-#### Artikel 40. De definitieve herberekening van de normatieve eigen risico opbrengst 2011
+##### Artikel 40. De definitieve herberekening van de normatieve eigen risico opbrengst 2011
 
 Het college herberekent definitief het deelbedrag normatieve eigen risico opbrengst overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=32&z=2012-10-03&g=2012-10-03), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2012-10-03&g=2012-10-03).
 
-#### Artikel 41. De definitieve herberekening van het normatieve bedrag 2011 en de definitieve herberekening en de vaststelling van de bijdrage 2011
+##### Artikel 41. De definitieve herberekening van het normatieve bedrag 2011 en de definitieve herberekening en de vaststelling van de bijdrage 2011
 
 1. Het college herberekent definitief het normatieve bedrag 2011 overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=IV&artikel=33&z=2012-10-03&g=2012-10-03), met inachtneming van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=34&z=2012-10-03&g=2012-10-03).
 
@@ -912,7 +934,7 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 
 ### Hoofdstuk VI. De uitkering voor de kosten van prestaties die door het college naar het werkelijk bedrag worden vergoed
 
-#### Artikel 42
+##### Artikel 42
 
 1. Bij gelegenheid van de vaststelling van de bijdrage 2011, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=V&artikel=41&z=2012-10-03&g=2012-10-03), stelt het college per zorgverzekeraar ook de uitkering 2011 vast voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed.
 
@@ -922,7 +944,7 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 
 ### Hoofdstuk VII. De betalingen aan de zorgverzekeraars
 
-#### Artikel 43
+##### Artikel 43
 
 1. Het college betaalt de zorgverzekeraars de vereveningsbijdrage, bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=II&artikel=14&z=2012-10-03&g=2012-10-03), uit. Het college maakt bij de betaling onderscheid naar de volgende bestanddelen:
 
@@ -942,7 +964,7 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 
 4. Indien toepassing van onderscheidenlijk het eerste en het tweede lid resulteert in een negatief saldo voor de zorgverzekeraar, schort het college de betalingen aan de zorgverzekeraar op, tot het negatieve saldo is verrekend.
 
-#### Artikel 44. Betaling
+##### Artikel 44. Betaling
 
 1. Het college bepaalt de som van de bestanddelen genoemd in [artikel 43, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=43&z=2012-10-03&g=2012-10-03) en de uitkering genoemd in artikel 43, tweede lid.
 
@@ -988,7 +1010,7 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 
 7. Het college kan, indien naar zijn oordeel uit nieuwe informatie blijkt dat de verwachting is dat bij de eerstvolgende herberekening of herziening van de vereveningsbijdrage, de vereveningsbijdrage meer dan 5 procent hoger zal zijn dan bij de laatst toegekende of voorlopig vastgestelde vereveningsbijdrage, afwijken van de vorige leden en de betalingen aan een zorgverzekeraar aanpassen.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Bij de herberekening en herziening van de toegekende vereveningsbijdrage 2011 op grond van artikel 16 herziet het college de te betalen termijnen overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=44&z=2012-10-03&g=2012-10-03) voor de eerste keer. Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de eerste keer herziene termijnen.
 
@@ -1004,13 +1026,13 @@ Het college verrekent het verschil tussen de reeds betaalde termijnen en de defi
 
 6. Indien toepassing van onderscheidenlijk het eerste, tweede, derde en vierde lid, resulteert in een negatief saldo voor de zorgverzekeraar, wordt dat saldo ineens door de desbetreffende zorgverzekeraar aan het college terugbetaald, behoudens voor zover het college het bedrag heeft verrekend met enige vordering op de zorgverzekeraar op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) dan wel de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
 
-#### Artikel 46
+##### Artikel 46
 
 1. De zorgverzekeraar en het college zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=45&z=2012-10-03&g=2012-10-03).
 
 2. De rente, bedoeld in het eerste lid, wordt bij de voorlopige, tweede voorlopige en de definitieve vaststelling van de uitkering door het college verwerkt en zo mogelijk verrekend met andere betalingen die uit deze vaststellingen voortvloeien.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Bij de verrekening van verschillen, bedoeld in [artikel 45, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029624&hoofdstuk=VII&artikel=45&z=2012-10-03&g=2012-10-03), berekent het college rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
 
@@ -1032,13 +1054,13 @@ Bij de berekening wordt een maand op 30 en een jaar op 360 dagen gesteld.
 
 ### Hoofdstuk VIII. Slotbepalingen
 
-#### Artikel 48
+##### Artikel 48
 
 1. Deze beleidregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij worden geplaatst.
 
 2. Deze beleidsregels werken terug tot en met 4 oktober 2010.
 
-#### Artikel 49
+##### Artikel 49
 
 Deze beleidsregels worden aangehaald als: Beleidsregels vereveningsbijdrage zorgverzekering 2011.
 

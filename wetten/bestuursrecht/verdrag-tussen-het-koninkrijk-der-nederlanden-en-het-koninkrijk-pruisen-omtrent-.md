@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Pruisen omtrent de grensscheiding tussen de beide Rijken op enige punten langs de provincie Limburg en het district Aken"
 identifier: "BWBV0006059"
-categorie: "Bestuursrecht"
-publicatiedatum: 1869-06-18
-laatste_update: 1869-06-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006059"
+country: "nl"
+rank: "verdrag"
+publication_date: "1869-06-18"
+last_updated: "1869-06-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006059"
+soort: "verdrag"
+stam_id: "10005006283"
+version_id: "10005326882"
+internal_id: "C10008205531"
+label_id: "10004989384"
+dtd_version: "2.0"
+original_entry_into_force: "1869-06-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006059/1869-06-18/0"
+intitule_bron: "Stb.1869-112"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1869-06-29"
+intitule_published: "1869-07-12"
+intitule_in_force: "1869-07-12"
+intitule_status: "goed"
+original_publication: "Stb.1869-112"
+original_signed_date: "1869-06-29"
+original_published_date: "1869-07-12"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1869-06-18"
+jci_1_3: "jci1.3:c:BWBV0006059&z=1869-06-18&g=1869-06-18"
+jci_1_0: "1.0:c:BWBV0006059&g=1869-06-18"
+citeertitel_status: "redactioneel"
+signed_date: "1869-06-29"
+entry_into_force: "1869-06-18"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Pruisen omtrent de grensscheiding tussen de beide Rijken op enige punten langs de provincie Limburg en het district Aken
 
 Door het grenstractaat tusschen Hunne Majesteiten den Koning der Nederlanden en den Koning van Pruissen, den 26sten Junij 1816 te Aken geteekend, zijn de grenzen hunner respectieve Staten aan den regter Maasoever en langs het Groot-Hertogdom Luxemburg definitief vastgesteld, en krachtens de bepalingen van dat tractaat is de aanduiding der grenzen geregeld geworden en gewaarmerkt bij het algemeen proces-verbaal der grenslijn tusschen de Koningrijken der Nederlanden en van Pruissen, houdende de beschrijving van alle de rigtingen en bogten van die grens, enz., geteekend te Emmerik den 23sten September 1818.
@@ -32,7 +56,7 @@ de heer EUGÈNE PELTZER, inspecteur van het kadaster en finantieraad, ridder der
 
 welke gevolmagtigden, na hunne wederzijds in goeden en behoorlijken vorm bevondene volmagten te hebben uitgewisseld, overeengekomen zijn om aan het tractaat van 26 Junij 1816 en aan het algemeen proces-verbaal van 23 September 1818 bovenvermeld toe te voegen de verklaringen en bedingen in de navolgende artikelen vervat.
 
-#### Artikel 1
+##### Artikel 1
 
 Volgens art. 22 van het Akensche grenstractaat en het algemeen proces-verbaal van Emmerik, zijn de grenzen tusschen Nederland en Pruissen in de ruimte tusschen de dubbele grenspalen 238 tot de dubbele grenspalen 239 aangeduid door het midden der bedding van de **Worms**.
 
@@ -56,7 +80,7 @@ Dit verschil in de berekening der deskundigen spruit voort uit de ontoereikendhe
 
 Ten einde de voorkomen, dat in het vervolg de als grens aangenomen bedding der **Worms** verlegd worde buiten de medewerking en de goedkeuring der beide Regeringen, zullen de besturen der aangrenzende gemeenten worden aangeschreven de noodige maatregelen te nemen, om de uitvoering van art. 27, alin. 2, van het tractaat van 26 Junij 1816 te verzekeren.
 
-#### Artikel 2
+##### Artikel 2
 
 Tusschen de gemeenten Gangelt (Koningrijk Pruissen) en Schinveld (Koningrijk der Nederlanden) wordt, tusschen den paal 263, in de nabijheid der voormalige schuur van PIETER COENEN, tot aan paal 266, de grenslijn tusschen beide Staten, volgens het algemeen proces-verbaal van Emmerik, gevormd door eene strook lands, Viehweg of Veeweg genaamd.
 
@@ -84,7 +108,7 @@ en door de nommers 263**a**—263**g**, 264**a**—264**g** en 265**a**—265**d
 
 De middellijn van den weg en bij gevolg de grens wordt, over de geheele lengte, gevormd door de regte lijnen, getrokken uit het middenpunt tusschen de voorloopige dubbele staken 263 naar den voorloopigen staak 263**a**, van dezen naar den voorloopigen staak 263**b**, en zoo vervolgens tot het middenpunt tusschen voorloopige dubbele staken 266.
 
-#### Artikel 3
+##### Artikel 3
 
 De bedding van de beek genaamd **la Rigole**, die, overeenkomstig het algemeene proces-verbaal van Emmerik, in alle hare kronkelingen de grens der Staten vormt tusschen de gemeenten Gangelt en Schinveld, van den paal 268 tot de dubbele palen 272, is reeds sedert verscheidene jaren gedeeltelijk droog, gedeeltelijk verloren in moerassen.
 
@@ -102,7 +126,7 @@ Het register geeft den hoek aan, waarin paal 268 heden geplaatst en door het teg
 
 Er zijn voorloopige staken, met de merken 269, 270 en 271, geplaatst op de punten **w**I, **x**I en **y**I van kaart n°. II, om vervangen te worden door de tegenwoordige palen, die in de verlaten grenslijn dezelfde nommers dragen, alsmede door dubbelen van deze palen.
 
-#### Artikel 4
+##### Artikel 4
 
 Tusschen de gemeenten Vlodrop, Koningrijk der Nederlanden, en Effelt, Koningrijk Pruissen, zijn de uiterlijke teekens, die, volgens het algemeen proces-verbaal van Emmerik tusschen de palen 372 en 373, de grenzen bij art. 24 van het verdrag van Aken vastgesteld moesten aanwijzen, gedeeltelijk veranderd en gedeeltelijk verloren. Dit heeft aanleiding gegeven tot moeijelijkheden tusschen aangrenzende eigenaars en de beide gemeenten.
 
@@ -112,11 +136,11 @@ De grenslijn bestaat uit de regte lijnen getrokken van paal 372 naar de voorloop
 
 De voorloopige staken zullen vervangen worden door supplementaire steenen palen, die dezelfde nommers en letters dragen.
 
-#### Artikel 5
+##### Artikel 5
 
 Als een gevolg van het voorgaande, hebben de gevolmagtigden der beide Staten de geheele oppervlakte van de grondstukken, die, overeenkomstig de artikelen 1 en 3 van het tegenwoordig verdrag, overgaan van het Nederlandsche grondgebied tot het Pruissische grondgebied, bepaald op een en dertig Nederlandsche bunders, drie en negentig Nederlandsche vierkante roeden en een en tachtig Nederlandsche vierkante ellen, gelijkstaande in Pruissische maat met honderd vijf en twintig morgen, zestien vierkante roeden en zes en twintig vierkante voeten.
 
-#### Artikel 6
+##### Artikel 6
 
 Als vergoeding voor dit aan Pruissen afgestaan grondgebied, staat het Koningrijk Pruissen aan dat der Nederlanden eene even groote oppervlakte gronds af, gelegen tusschen de palen 260 en 263 in de gemeente Gangelt.
 
@@ -134,7 +158,7 @@ De voorloopige staken, waarmede de aangenomen grens op het terrein is uitgezet, 
 
 De gevolmagtigden der beide Staten constateren dat de gronden, die wederkeerig zijn afgestaan, van denzelfden aard zijn en geen bewoond gebouw dragen.
 
-#### Artikel 7
+##### Artikel 7
 
 De grenslijnen, aangenomen of teruggevonden en geconstateerd door het tegenwoordige verdrag, en op het terrein uitgezet door middel van voorloopige staken, welke de bestaande palen aanvullen, zijn aangeduid op eene figuratieve en geometrische kaart. Deze kaart is in duplo, op twee bladen, n°. I en n°. II, opgemaakt onder het toezigt van de deskundige gevolmagtigden der beide Staten.
 
@@ -146,7 +170,7 @@ Het register der kaart van de grenzen Effelt-Vlodrop, n°. I, geeft daarentegen 
 
 De gevolmagtigden der beide Staten erkennen de juistheid en echtheid van deze kaart in duplo en van de registers, die haar aanvullen.
 
-#### Artikel 8
+##### Artikel 8
 
 Na de uitwisseling der akten van bekrachtiging van het tegenwoordig verdrag zullen de voorloopige staken, onder het toezigt der deskundige gevolmagtigden van de beide Staten, op het terrein vervangen worden, zoo als de bepalingen van het verdrag zulks vereischen, door de palen die ophouden zullen de grenslijn aan te duiden en hunne dubbelen (door supplementaire steenen palen) of door steenen aan de oppervlakte van den grond, gemerkt zoo als bovenstaande artikelen zulks aangeven.
 

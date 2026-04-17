@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz 2018 voor zorgkantoren"
+title: "Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 19 februari 2018, referentie 2017055845, ter verdeling besteedbare middelen beheerskosten Wlz 2018 voor zorgkantoren"
 identifier: "BWBR0040962"
-categorie: "Sociaal recht"
-publicatiedatum: 2021-06-25
-laatste_update: 2021-06-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040962"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-06-25"
+last_updated: "2021-06-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040962"
+soort: "zbo"
+stam_id: "14622753"
+version_id: "25040052"
+internal_id: "C35808921"
+label_id: "14576264"
+dtd_version: "2.0"
+original_entry_into_force: "2018-06-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040962/2021-06-25/0"
+intitule_bron: "Stcrt.2018-30062"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-02-19"
+intitule_published: "2018-06-01"
+intitule_in_force: "2018-06-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-30062"
+original_signed_date: "2018-02-19"
+original_published_date: "2018-06-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-30062"
+entry_into_force_date: "2018-06-02"
+jci_1_3: "jci1.3:c:BWBR0040962&z=2021-06-25&g=2021-06-25"
+jci_1_0: "1.0:c:BWBR0040962&g=2021-06-25"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz 2018 voor zorgkantoren"
+signed_date: "2018-02-19"
+entry_into_force: "2018-06-02"
 ---
-
 # Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 19 februari 2018, referentie 2017055845, ter verdeling besteedbare middelen beheerskosten Wlz 2018 voor zorgkantoren
 
 Gelet op [artikel 91, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=91) en [artikel 4.4, derde lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze Beleidsregels wordt verstaan onder:
 
@@ -52,17 +78,17 @@ In deze Beleidsregels wordt verstaan onder:
 
 - p. **Minister voor MZ:** Minister voor Medische zorg.
 
-#### Artikel 2
+##### Artikel 2
 
 Het Zorginstituut keert het voor ieder zorgkantoor voorlopig vastgestelde, het nader vastgestelde en het definitief vastgestelde beheerskostenbudget voor het jaar 2018 uit met inachtneming van de [Regeling voorschotverlening op uitkeringen en vergoedingen Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036387).
 
 #### § 2. Voorlopige vaststelling beheerskostenbudget 2018
 
-#### Artikel 3
+##### Artikel 3
 
 Het Zorginstituut stelt in februari 2018 voor ieder zorgkantoor een voorlopig beheerskostenbudget vast.
 
-#### Artikel 4
+##### Artikel 4
 
 Het Zorginstituut verdeelt een deel van het bedrag dat in [artikel 2 van de Aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0040273&artikel=2) voor de taken op grond van [artikel 4.2.4, tweede lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) beschikbaar is gesteld als volgt over de zorgkantoren:
 
@@ -80,7 +106,7 @@ Het Zorginstituut verdeelt een deel van het bedrag dat in [artikel 2 van de Aanw
 
 - g. een bedrag van € 4,272 miljoen voor vier zorgkantoren die in 2018 geen deel uitmaken van een concern op basis van een gelijk bedrag per zorgkantoor.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040962&paragraaf=2&artikel=4&z=2021-06-25&g=2021-06-25) resterende bedrag als volgt:
 
@@ -94,7 +120,7 @@ Het Zorginstituut verdeelt een deel van het bedrag dat in [artikel 2 van de Aanw
 
 2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040962&paragraaf=2&artikel=4&z=2021-06-25&g=2021-06-25) resterende bedrag op basis van het aantal inwoners per 1 januari 2017 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De resultaten van de berekeningen volgens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040962&paragraaf=2&artikel=4&z=2021-06-25&g=2021-06-25) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0040962&paragraaf=2&artikel=5&z=2021-06-25&g=2021-06-25) herberekent het Zorginstituut per regio.
 
@@ -104,11 +130,11 @@ Het Zorginstituut verdeelt een deel van het bedrag dat in [artikel 2 van de Aanw
 
 #### § 3. Nadere vaststelling beheerskostenbudget 2018
 
-#### Artikel 7
+##### Artikel 7
 
 Het Zorginstituut stelt uiterlijk op de eerste werkdag van mei 2019 het beheerskostenbudget voor de zorgkantoren voor het jaar 2018 nader vast met inachtneming van de [Nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0041530).
 
-#### Artikel 8
+##### Artikel 8
 
 Het Zorginstituut verdeelt een deel van het bedrag dat voor de taken op grond van [artikel 4.2.4, tweede lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) beschikbaar is gesteld als volgt over de zorgkantoren:
 
@@ -126,7 +152,7 @@ Het Zorginstituut verdeelt een deel van het bedrag dat voor de taken op grond va
 
 - g. een bedrag van € 4,272 miljoen voor vier zorgkantoren die in 2018 geen deel uitmaken van een concern op basis van een gelijk bedrag per zorgkantoor.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040962&paragraaf=3&artikel=8&z=2021-06-25&g=2021-06-25) resterende bedrag als volgt:
 
@@ -140,7 +166,7 @@ Het Zorginstituut verdeelt een deel van het bedrag dat voor de taken op grond va
 
 2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040962&paragraaf=3&artikel=8&z=2021-06-25&g=2021-06-25) resterende bedrag op basis van het aantal inwoners per 1 januari 2018 in de regio’s, waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De resultaten van de berekeningen volgens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040962&paragraaf=3&artikel=8&z=2021-06-25&g=2021-06-25) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0040962&paragraaf=3&artikel=9&z=2021-06-25&g=2021-06-25) herberekent het Zorginstituut per regio.
 
@@ -150,7 +176,7 @@ Het Zorginstituut verdeelt een deel van het bedrag dat voor de taken op grond va
 
 #### § 4. Definitieve vaststelling beheerskostenbudget 2018
 
-#### Artikel 11
+##### Artikel 11
 
 Uiterlijk in 2021 stelt het Zorginstituut het beheerskostenbudget voor het jaar 2018 definitief vast met inachtneming van de [Nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0041530) en de [Tweede nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0044909). Het Zorginstituut verdeelt een deel van het bedrag dat voor de taken op grond van [artikel 4.2.4, tweede lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) beschikbaar is gesteld als volgt over de zorgkantoren:
 
@@ -174,7 +200,7 @@ Uiterlijk in 2021 stelt het Zorginstituut het beheerskostenbudget voor het jaar 
 
 - j. een bedrag van € 0,573 miljoen voor implementatie van het PGB systeem 2.0.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040962&paragraaf=4&artikel=11&z=2021-06-25&g=2021-06-25) resterende bedrag als volgt:
 
@@ -188,7 +214,7 @@ Uiterlijk in 2021 stelt het Zorginstituut het beheerskostenbudget voor het jaar 
 
 2. Het Zorginstituut verdeelt 85 procent van het na toepassing van artikel 11 resterende bedrag op basis van het aantal inwoners per 1 januari 2018 in de regio’s, waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De resultaten van de berekeningen volgens de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040962&paragraaf=4&artikel=11&z=2021-06-25&g=2021-06-25) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0040962&paragraaf=4&artikel=12&z=2021-06-25&g=2021-06-25) herberekent het Zorginstituut per regio.
 
@@ -200,11 +226,11 @@ Uiterlijk in 2021 stelt het Zorginstituut het beheerskostenbudget voor het jaar 
 
 #### § 5. Slot
 
-#### Artikel 14
+##### Artikel 14
 
 Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst, en werken terug tot en met 1 januari 2018.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze beleidsregels worden aangehaald als: Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz 2018 voor zorgkantoren.
 

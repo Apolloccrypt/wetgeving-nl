@@ -1,13 +1,39 @@
 ---
-title: "Besluit vergoedingen Telecommunicatiewet en Wet telecommunicatievoorzieningen BES"
+title: "Besluit van 12 maart 1999, houdende regels inzake de in het kader van de Telecommunicatiewet in rekening te brengen vergoedingen (Besluit vergoedingen Telecommunicatiewet)"
 identifier: "BWBR0010334"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2022-05-13
-laatste_update: 2022-05-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010334"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-05-13"
+last_updated: "2022-05-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010334"
+soort: "AMvB"
+stam_id: "1016993"
+version_id: "28622002"
+internal_id: "C40376521"
+label_id: "985514"
+dtd_version: "2.0"
+original_entry_into_force: "2022-05-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010334/2022-05-13/0"
+intitule_bron: "Stb.1999-130"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-03-12"
+intitule_published: "1999-03-25"
+intitule_in_force: "1999-03-25"
+intitule_status: "goed"
+original_publication: "Stb.2022-176"
+original_signed_date: "2022-05-03"
+original_published_date: "2022-05-12"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2022-176"
+entry_into_force_date: "2022-05-03"
+jci_1_3: "jci1.3:c:BWBR0010334&z=2022-05-13&g=2022-05-13"
+jci_1_0: "1.0:c:BWBR0010334&g=2022-05-13"
+citeertitel_status: "officieel"
+short_title: "Besluit vergoedingen Telecommunicatiewet en Wet telecommunicatievoorzieningen BES"
+signed_date: "2022-05-03"
+entry_into_force: "2022-05-03"
 ---
-
 # Besluit van 12 maart 1999, houdende regels inzake de in het kader van de Telecommunicatiewet in rekening te brengen vergoedingen (Besluit vergoedingen Telecommunicatiewet)
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 18 november 1998, nr. HDTP/98/3612/CG, Hoofddirectie Telecommunicatie en Post;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Verkeer en Waterstaat van 8
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - Wtv BES: [Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De vergoeding dient ter dekking van de kosten van de werkzaamheden of diensten die ingevolge het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) of de [Wtv BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469) door Onze Minister worden verricht.
 
@@ -48,7 +74,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Het bedrag en de jaarlijkse bijdrage, bedoeld in het tweede lid, onder b en c, zijn jaarlijks verschuldigd en worden jaarlijks in rekening gebracht.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ter zake van de kosten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2022-05-13&g=2022-05-13), gelden als uitgangspunten dat:
 
@@ -64,7 +90,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij ministeriële regeling kan worden bepaald dat voor de toepassing van [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2022-05-13&g=2022-05-13), geen onderscheid wordt gemaakt tussen uitvoeringskosten voor het inwilligen van een aanvraag, uitvoeringskosten voor het geheel of gedeeltelijk afwijzen van een aanvraag of uitvoeringskosten die gemaakt zijn ter behandeling van een aanvraag die wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Categorieën als bedoeld in [artikel 3, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2022-05-13&g=2022-05-13), zijn werkzaamheden of diensten als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) of de [Wtv BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469) met betrekking tot:
 
@@ -86,37 +112,37 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Bij ministeriële regeling kunnen per categorie, bedoeld in het eerste lid, subcategorieën van gelijksoortige werkzaamheden of diensten worden vastgesteld en kunnen andere categorieën van gelijksoortige werkzaamheden of diensten worden vastgesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij ministeriële regeling wordt de hoogte van de vergoeding per categorie of subcategorie van gelijksoortige werkzaamheden of diensten vastgesteld op basis van de geraamde kosten die per categorie of per subcategorie zijn toegerekend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2022-05-13&g=2022-05-13).
 
 2. Bij de regeling worden de bedragen en de jaarlijkse bijdrage, bedoeld in [artikel 2, tweede lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2022-05-13&g=2022-05-13), afzonderlijk vastgesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 Onverminderd [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2022-05-13&g=2022-05-13), kan in afwijking van de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2022-05-13&g=2022-05-13), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2022-05-13&g=2022-05-13), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2022-05-13&g=2022-05-13) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2022-05-13&g=2022-05-13), bij ministeriële regeling een vergoeding worden vastgesteld, voorzover noodzakelijk ter dekking van onvoorziene kosten van werkzaamheden of diensten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2022-05-13&g=2022-05-13).
 
-#### Artikel 7
+##### Artikel 7
 
 Tenzij bij ministeriële regeling anders wordt bepaald, wordt de vergoeding door degene die de vergoeding is verschuldigd, bij vooruitbetaling voldaan.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Besluit vergoedingen OPTA.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Wijzigt de Wet op de telecommunicatievoorzieningen.
 
@@ -136,47 +162,47 @@ Wijzigt het Besluit vergoedingen OPTA.
 
 9. Wijzigt van het Besluit draadomroep- en kabelinrichtingen.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt het Besluit ONP-geschillenbeslechting.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt het Frequentiebesluit.
 
-#### Artikel 15
+##### Artikel 15
 
 Na de inwerkingtreding van dit besluit berusten de Regeling vergoedingen RDR 1999 en de Regeling vergoedingen OPTA 1999 I op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2022-05-13&g=2022-05-13), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2022-05-13&g=2022-05-13), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=6&z=2022-05-13&g=2022-05-13) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=7&z=2022-05-13&g=2022-05-13) van dit besluit.
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit treedt in werking met ingang van 1 april 1999.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit wordt aangehaald als: Besluit vergoedingen Telecommunicatiewet en Wet telecommunicatievoorzieningen BES.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Vervallen
 
-#### Artikel 5b
+##### Artikel 5b
 
 Vervallen
 
-#### Artikel 5c
+##### Artikel 5c
 
 Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 Aan een krachtens dit besluit vast te stellen ministeriele regeling kan terugwerkende kracht worden verleend tot een bij die regeling te bepalen tijdstip.
 

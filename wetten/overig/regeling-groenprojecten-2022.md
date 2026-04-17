@@ -1,13 +1,39 @@
 ---
-title: "Regeling groenprojecten 2022"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat en de Staatssecretaris van Fiscaliteit en Belastingdienst van 19 april 2022, nr. IENW/BSK-2022/51234, houdende regels inzake in Nederland gelegen projecten welke in het belang zijn van de bescherming van het milieu (Regeling groenprojecten 2022)"
 identifier: "BWBR0046599"
-categorie: "Overig"
-publicatiedatum: 2024-05-01
-laatste_update: 2024-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046599"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-05-01"
+last_updated: "2024-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046599"
+soort: "ministeriele-regeling"
+stam_id: "16340353"
+version_id: "28582212"
+internal_id: "C40332571"
+label_id: "16264854"
+dtd_version: "2.0"
+original_entry_into_force: "2022-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046599/2024-05-01/0"
+intitule_bron: "Stcrt.2022-10803"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-04-19"
+intitule_published: "2022-04-28"
+intitule_in_force: "2022-04-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-10803"
+original_signed_date: "2022-04-19"
+original_published_date: "2022-04-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-10803"
+entry_into_force_date: "2022-06-01"
+jci_1_3: "jci1.3:c:BWBR0046599&z=2024-05-01&g=2024-05-01"
+jci_1_0: "1.0:c:BWBR0046599&g=2024-05-01"
+citeertitel_status: "officieel"
+short_title: "Regeling groenprojecten 2022"
+signed_date: "2022-04-19"
+entry_into_force: "2022-06-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat en de Staatssecretaris van Fiscaliteit en Belastingdienst van 19 april 2022, nr. IENW/BSK-2022/51234, houdende regels inzake in Nederland gelegen projecten welke in het belang zijn van de bescherming van het milieu (Regeling groenprojecten 2022)
 
 Handelende na overleg met de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister voor Klimaat en Energie;
@@ -18,7 +44,7 @@ BESLUITEN:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -88,7 +114,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Projectcategorieën
 
-#### Artikel 2
+##### Artikel 2
 
 De Minister van Infrastructuur en Waterstaat kan, in overeenstemming met de Minister van Financiën en na overleg met de Minister voor Klimaat en Energie en de Minister van Landbouw, Natuur en Voedselkwaliteit, een groenverklaring afgeven voor projecten of categorieën van projecten, opgenomen in de bijlage bij deze regeling, in de categorieën:
 
@@ -108,7 +134,7 @@ De Minister van Infrastructuur en Waterstaat kan, in overeenstemming met de Mini
 
 ### Hoofdstuk 3. De aanvraag van een groenverklaring
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een groenverklaring wordt aangevraagd door en afgegeven aan een groenfonds die voornemens is in belangrijke mate bij te dragen aan het verstrekken van kredieten ten behoeve van een project dan wel het direct of indirect beleggen van vermogen in bedoeld project.
 
@@ -116,7 +142,7 @@ De Minister van Infrastructuur en Waterstaat kan, in overeenstemming met de Mini
 
 3. De Rijksdienst voor Ondernemend Nederland kan een aanvrager verzoeken een accountantsverklaring te over leggen, waaruit de juistheid of aannemelijkheid van de in de aanvraag vermelde gegevens blijkt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Minister van Infrastructuur en Waterstaat beslist, in overeenstemming met de Minister van Financiën en na overleg met de Minister voor Klimaat en Energie en de Minister van Landbouw, Natuur en Voedselkwaliteit, op een volledige aanvraag binnen acht weken na de indiening ervan.
 
@@ -124,7 +150,7 @@ De Minister van Infrastructuur en Waterstaat kan, in overeenstemming met de Mini
 
 3. De Rijksdienst voor Ondernemend Nederland verzendt een afschrift van het besluit aan de projectbeheerder.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een groenverklaring wordt in ieder geval niet afgegeven op aanvragen voor:
 
@@ -150,7 +176,7 @@ De Minister van Infrastructuur en Waterstaat kan, in overeenstemming met de Mini
 
 2. Een groenverklaring wordt niet afgegeven indien de aanvrager, na daartoe een verzoek ontvangen te hebben, niet binnen de gestelde termijn de gegevens verstrekt die van belang kunnen zijn voor de beoordeling van het project.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De groenverklaring geldt ten hoogste voor de levensduur van een project, maar niet langer dan:
 
@@ -168,7 +194,7 @@ De Minister van Infrastructuur en Waterstaat kan, in overeenstemming met de Mini
 
 ### Hoofdstuk 4. Het projectvermogen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien het projectvermogen het bedrag van € 75.000.000 te boven gaat, beperkt de Minister van Infrastructuur en Waterstaat het projectvermogen tot € 75.000.000.
 
@@ -176,7 +202,7 @@ De Minister van Infrastructuur en Waterstaat kan, in overeenstemming met de Mini
 
 ### Hoofdstuk 5. Overige bevoegdheden van de Minister van Infrastructuur en Waterstaat
 
-#### Artikel 8
+##### Artikel 8
 
 De Minister van Infrastructuur en Waterstaat maakt de gegevens, bedoeld in bijlage III van de Algemene Groepsvrijstellingsverordening, de Landbouw Groepsvrijstellingsverordening en de Visserij Groepsvrijstellingsverordening, van de begunstigde openbaar in de volgende gevallen:
 
@@ -186,7 +212,7 @@ De Minister van Infrastructuur en Waterstaat maakt de gegevens, bedoeld in bijla
 
 - c. als met een project als bedoeld in de subcategorie 2.4.1 waarvoor een groenverklaring is verstrekt en een financieel voordeel wordt behaald van meer dan € 10.000.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Minister van Infrastructuur en Waterstaat kan, in overeenstemming met de Minister van Financiën en na overleg met de Minister voor Klimaat en Energie en de Minister van Landbouw, Natuur en Voedselkwaliteit, de groenverklaring intrekken indien:
 
@@ -204,33 +230,33 @@ De Minister van Infrastructuur en Waterstaat maakt de gegevens, bedoeld in bijla
 
 3. Het besluit tot intrekking wordt gezonden aan de aanvrager. Een afschrift van het besluit wordt gezonden aan de projectbeheerder en aan de inspecteur van de Belastingdienst.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien de uitvoering van een project wijzigt, meldt het groenfonds dat kapitaal verschaft ten behoeve van een project waarvoor een groenverklaring is afgegeven dat onverwijld aan de Minister van Infrastructuur en Waterstaat.
 
-#### Artikel 11
+##### Artikel 11
 
 Ten behoeve van de vaststelling van een groenverklaring is, ten aanzien van het groenfonds en de projectbeheerder, [hoofdstuk VIII, afdeling 2, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=2) van overeenkomstige toepassing inzake de verstrekking van de van belang zijnde gegevens en de daaraan verbonden rechten en plichten. Hierbij gelden de aan de inspecteur opgelegde verplichtingen eveneens voor de door de Minister van Infrastructuur en Waterstaat aangewezen personen.
 
 ### Hoofdstuk 6. Overige bepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Aan de in deze regeling bedoelde normen, meetvoorschriften, tests en certificaten worden gelijkgesteld normen, meetvoorschriften, tests en certificaten die ten minste een gelijkwaardig beschermingsniveau bieden.
 
-#### Artikel 13
+##### Artikel 13
 
 Op projecten waarvoor tussen 1 april 2016 en 1 juni 2022 een aanvraag voor een groenverklaring is ingediend, blijven de bepalingen van de [Regeling groenprojecten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037778) van toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 De [Regeling groenprojecten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037778) wordt ingetrokken.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling treedt in werking met ingang van 1 juni 2022.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling groenprojecten 2022.
 

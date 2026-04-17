@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel advisering planschadeverzoeken"
+title: "Regeling van de Minister van Economische Zaken van 16 augustus 2013, nr. WJZ/13140027, houdende de vaststelling van een procedure voor het aanwijzen van een adviseur en de wijze waarop deze tot een advies komt inzake een tegemoetkoming in de planschade aangaande energie-infrastructuurprojecten (Beleidsregel advisering planschadeverzoeken)"
 identifier: "BWBR0033772"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-08-22
-laatste_update: 2013-08-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033772"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2013-08-22"
+last_updated: "2013-08-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033772"
+soort: "beleidsregel"
+stam_id: "12336963"
+version_id: "20698752"
+internal_id: "C29732451"
+label_id: "12308044"
+dtd_version: "2.0"
+original_entry_into_force: "2013-08-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033772/2013-08-22/0"
+intitule_bron: "Stcrt.2013-23743"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-08-16"
+intitule_published: "2013-08-21"
+intitule_in_force: "2013-08-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-23743"
+original_signed_date: "2013-08-16"
+original_published_date: "2013-08-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-23743"
+entry_into_force_date: "2013-08-22"
+jci_1_3: "jci1.3:c:BWBR0033772&z=2013-08-22&g=2013-08-22"
+jci_1_0: "1.0:c:BWBR0033772&g=2013-08-22"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel advisering planschadeverzoeken"
+signed_date: "2013-08-16"
+entry_into_force: "2013-08-22"
 ---
-
 # Regeling van de Minister van Economische Zaken van 16 augustus 2013, nr. WJZ/13140027, houdende de vaststelling van een procedure voor het aanwijzen van een adviseur en de wijze waarop deze tot een advies komt inzake een tegemoetkoming in de planschade aangaande energie-infrastructuurprojecten (Beleidsregel advisering planschadeverzoeken)
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -34,27 +60,27 @@ In deze beleidsregel wordt verstaan onder:
 
 - –. **wet:** de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Ten behoeve van de beoordeling van een aanvraag voor een tegemoetkoming in planschade als gevolg van een energie-infrastructuurproject, en voor een voorschot voor een dergelijke tegemoetkoming, wijst de minister een persoon aan als adviseur.
 
 2. Als de aanvraag kennelijk ongegrond is, of op grond van [artikel 6.1.3.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023798&artikel=6.1.3.1) niet in behandeling wordt genomen, blijft aanwijzing van de adviseur achterwege.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien de minister, voorafgaand aan of gedurende de werkzaamheden van de adviseur, van oordeel is dat er gezien de complexiteit, aard en omvang van de aanvraag behoefte bestaat aan extra deskundigheid, wijst hij een commissie als adviseur aan.
 
 2. De minister wijst een voorzitter van de commissie aan. De voorzitter is verantwoordelijk voor de taakverdeling binnen de commissie.
 
-#### Artikel 4
+##### Artikel 4
 
 Een adviseur is niet werkzaam onder verantwoordelijkheid van de minister. Ook is een adviseur op geen enkele wijze betrokken of betrokken geweest bij de planologische maatregel waarop de aanvraag is gebaseerd.
 
-#### Artikel 5
+##### Artikel 5
 
 De aanwijzing van een adviseur geschiedt binnen vier weken na betaling van het recht als bedoeld in [artikel 6.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.4), tenzij toepassing wordt gegeven aan [artikel 6.1.3.1 Bro](https://wetten.overheid.nl/jci1.3:c:BWBR0023798&artikel=6.1.3.1). In dat geval geldt als uiterste termijn voor aanwijzing van de adviseur vier weken na het verstrijken van de termijn waarop het bestuursorgaan bij toepassing van [6.1.3.1 Bro](https://wetten.overheid.nl/jci1.3:c:BWBR0023798&artikel=6.1.3.1) uiterlijk kan besluiten de aanvraag niet, onderscheidenlijk niet verder in behandeling te nemen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voordat de minister de aanvraag voorlegt aan een adviseur, stelt hij de aanvrager, eventuele andere betrokken bestuursorganen en belanghebbenden als bedoeld in [artikel 6.4a, tweede en derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.4a), schriftelijk op de hoogte van de aanwijzing van een adviseur.
 
@@ -64,11 +90,11 @@ De aanwijzing van een adviseur geschiedt binnen vier weken na betaling van het r
 
 4. Indien de minister het verzoek tot wraking gegrond verklaart, wijst hij binnen vier weken na het besluit tot gegrondverklaring een andere adviseur aan.
 
-#### Artikel 7
+##### Artikel 7
 
 De minister stelt aan de adviseur alle op de aanvraag betrekking hebbende informatie, alsmede de voor de beoordeling daarvan noodzakelijke bescheiden ter beschikking.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De adviseur organiseert in elk geval één hoorzitting, waar de aanvrager in de gelegenheid wordt gesteld de aanvraag toe te lichten en de voor de advisering over de aanvraag relevante informatie te geven.
 
@@ -102,11 +128,11 @@ De minister stelt aan de adviseur alle op de aanvraag betrekking hebbende inform
 
 - b. geen reactie is ingediend, brengt de adviseur binnen twee weken na het verstrijken van die termijn een advies uit aan de minister.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze beleidsregel treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel advisering planschadeverzoeken.
 

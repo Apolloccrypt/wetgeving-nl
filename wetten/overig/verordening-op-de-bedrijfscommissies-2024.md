@@ -1,13 +1,39 @@
 ---
-title: "Verordening op de bedrijfscommissies 2024"
+title: "Verordening van de Sociaal-Economische Raad van 26 september 2024 houdende regels voor de samenstelling en de werkwijze van bedrijfscommissies (Verordening op de bedrijfscommissies 2024)"
 identifier: "BWBR0050288"
-categorie: "Overig"
-publicatiedatum: 2026-01-31
-laatste_update: 2026-01-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050288"
+country: "nl"
+rank: "pbo"
+publication_date: "2026-01-31"
+last_updated: "2026-01-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050288"
+soort: "pbo"
+stam_id: "17239003"
+version_id: "30360792"
+internal_id: "C43545961"
+label_id: "17144934"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050288/2026-01-31/0"
+intitule_bron: "Stcrt.2024-33137"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-09-26"
+intitule_published: "2024-10-14"
+intitule_in_force: "2024-10-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-33137"
+original_signed_date: "2024-09-26"
+original_published_date: "2024-10-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-33137"
+entry_into_force_date: "2024-10-15"
+jci_1_3: "jci1.3:c:BWBR0050288&z=2026-01-31&g=2026-01-31"
+jci_1_0: "1.0:c:BWBR0050288&g=2026-01-31"
+citeertitel_status: "officieel"
+short_title: "Verordening op de bedrijfscommissies 2024"
+signed_date: "2024-09-26"
+entry_into_force: "2024-10-15"
 ---
-
 # Verordening van de Sociaal-Economische Raad van 26 september 2024 houdende regels voor de samenstelling en de werkwijze van bedrijfscommissies (Verordening op de bedrijfscommissies 2024)
 
 Gelet op [artikel 36 van de Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=36);
@@ -20,7 +46,7 @@ Besluit:
 
 #### § 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze verordening wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze verordening wordt verstaan onder:
 
 - c. **de Raad:** de Sociaal-Economische Raad.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De leden en de plaatsvervangende leden van een bedrijfscommissie worden benoemd voor een zittingsperiode van vier jaar. Zij treden tegelijk af en kunnen terstond opnieuw worden benoemd.
 
@@ -40,47 +66,47 @@ In deze verordening wordt verstaan onder:
 
 4. Ten minste zes maanden voor het begin van iedere zittingsperiode wint de Raad het advies in van de bedrijfscommissie over de vraag of er grond bestaat voor een wijziging in de benoemingsgerechtigde organisaties dan wel in het aantal leden dat elke aangewezen organisatie kan benoemen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Van de benoeming van een lid of een plaatsvervangend lid doet de organisatie die de benoeming verrichtte, mededeling aan de bedrijfscommissie. De organisatie doet dit binnen twee maanden nadat zij verzocht is een of meer (plaatsvervangende) leden te benoemen en uiterlijk vier weken voor het begin van de zittingsperiode van de bedrijfscommissie.
 
 2. Als de organisatie niet tijdig mededelingen doet van de benoeming(en) zoals bedoeld in het eerste lid, zal de bedrijfscommissie de voorzitter van de Raad hiervan op de hoogte stellen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een bedrijfscommissie wijst uit haar midden een lid, benoemd door een organisatie van ondernemers, en een lid, benoemd door een organisatie van werknemers, aan, die bij toerbeurt volgens een door de commissie op te maken rooster als voorzitter en plaatsvervangend voorzitter van de commissie optreden.
 
 2. In afwijking van het eerste lid kan een bedrijfscommissie een voorzitter buiten haar leden aanwijzen en aan deze al dan niet stemrecht toekennen.
 
-#### Artikel 5
+##### Artikel 5
 
 Een bedrijfscommissie kan al dan niet uit haar midden commissies of kamers instellen. Aan deze commissies of kamers kunnen, geheel of gedeeltelijk en al dan niet voorwaardelijk, bevoegdheden van de bedrijfscommissie worden overgedragen.
 
-#### Artikel 6
+##### Artikel 6
 
 De Raad draagt de kosten en voorziet in de secretariële ondersteuning van een bedrijfscommissie.
 
 #### § 3. De werkwijze van de bedrijfscommissie
 
-#### Artikel 7
+##### Artikel 7
 
 Een bedrijfscommissie vergadert niet, als volgens de presentielijst niet meer dan de helft van de zitting hebbende leden is opgekomen. Nadat eenmaal tot een vergadering is opgeroepen, zonder dat meer dan de helft van de zitting hebbende leden is opgekomen, wordt de daarna uitgeschreven vergadering gehouden, ongeacht het aantal opgekomen leden.
 
-#### Artikel 8
+##### Artikel 8
 
 De leden van een bedrijfscommissie stemmen zonder last of ruggespraak.
 
-#### Artikel 9
+##### Artikel 9
 
 Leden van een bedrijfscommissie onthouden zich van medestemmen over zaken die hen persoonlijk aangaan. Eveneens onthouden zij zich van medestemmen als het zaken betreft die hun echtgenoten, (geregistreerde) partners of bloed- en aanverwanten tot in de derde graad aangaan. Zij onthouden zich ook van medestemmen als hun onpartijdigheid om andere redenen in het gedrang komt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Over zaken wordt mondeling gestemd. Over personen vindt geheime, schriftelijke stemming plaats. Stemmingen kunnen onder voorwaarden ook op elektronische wijze plaatsvinden.
 
 2. Als bij het nemen van een besluit over een zaak geen van de leden om stemming vraagt, wordt het voorstel geacht te zijn aangenomen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een stemming is nietig, als niet meer dan de helft van het aantal zitting hebbende leden, die zich niet van medestemmen moeten onthouden (zie [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=9&z=2026-01-31&g=2026-01-31)), aan de stemming heeft deelgenomen.
 
@@ -90,19 +116,19 @@ Leden van een bedrijfscommissie onthouden zich van medestemmen over zaken die he
 
 4. Een stemming, gehouden in een vergadering als bedoeld in de tweede volzin van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=7&z=2026-01-31&g=2026-01-31), is geldig, ongeacht het aantal leden dat aan de stemming heeft deelgenomen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Ieder lid kan één stem uitbrengen.
 
 2. Voor het tot stand komen van een besluit is een volstrekte meerderheid van de uitgebrachte stemmen vereist. Blanco stemmen tellen in dit geval niet mee.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bij staking van stemmen in een voltallige vergadering wordt het voorstel geacht niet te zijn aangenomen als het zaken betreft, en beslist het lot als het personen betreft.
 
 2. Bij staking van stemmen in een andere dan een voltallige vergadering wordt het nemen van een besluit tot een volgende vergadering uitgesteld, waarin de beraadslagingen kunnen worden heropend. Als de stemmen dan opnieuw staken, is het eerste lid van overeenkomstige toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Iedere belanghebbende kan de bedrijfscommissie verzoeken te bemiddelen in geschillen over de naleving van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) met betrekking tot:
 
@@ -128,7 +154,7 @@ Leden van een bedrijfscommissie onthouden zich van medestemmen over zaken die he
 
 8. De voorgaande leden zijn van overeenkomstige toepassing ten aanzien van de naleving van hetgeen bij of krachtens de wet is bepaald met betrekking tot een centrale ondernemingsraad, een groepsondernemingsraad, een gemeenschappelijke ondernemingsraad en een personeelsvertegenwoordiging.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Na ontvangst van een verzoek om bemiddeling als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=14&z=2026-01-31&g=2026-01-31) gaat de bedrijfscommissie na of zij bevoegd is om van het verzoek kennis te nemen en of het verzoek voldoende is omschreven, gemotiveerd en gedocumenteerd.
 
@@ -150,7 +176,7 @@ Leden van een bedrijfscommissie onthouden zich van medestemmen over zaken die he
 
 10. Als de bedrijfscommissie er niet in slaagt het schriftelijk verslag binnen de in het vijfde tot en met negende lid bepaalde uiterste termijn uit te brengen, stelt zij beide partijen daarvan zo spoedig mogelijk in kennis.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Over de wijze waarop zij, gelet op de betrokken omstandigheden, tussen de partijen in het geschil zal bemiddelen, beslist de bedrijfscommissie naar eigen oordeel, met dien verstande dat zij daarbij het bepaalde in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=14&z=2026-01-31&g=2026-01-31) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=15&z=2026-01-31&g=2026-01-31) in acht neemt en voorts de partijen in de gelegenheid stelt hun standpunten op een hoorzitting toe te lichten.
 
@@ -170,11 +196,11 @@ Leden van een bedrijfscommissie onthouden zich van medestemmen over zaken die he
 
 3. De bedrijfscommissie zendt een afschrift van het verslag zo spoedig mogelijk aan de verzoeker en diens wederpartij.
 
-#### Artikel 17
+##### Artikel 17
 
 Een bedrijfscommissie informeert en adviseert de Minister, de Raad en zijn commissies gevraagd of ongevraagd over alle zaken die haar werkterrein betreffen.
 
-#### Artikel 18
+##### Artikel 18
 
 Een bedrijfscommissie brengt jaarlijks voor 1 april aan de Minister en de Raad verslag uit van haar werkzaamheden in het afgelopen kalenderjaar.
 
@@ -182,22 +208,22 @@ Het verslag wordt door de bedrijfscommissie, zonodig tegen betaling van de koste
 
 #### § 4. Overgangs- en slotbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 Een bedrijfscommissie kan nadere regelen stellen over haar werkwijze. Deze regelen behoeven de goedkeuring van de Raad.
 
-#### Artikel 20
+##### Artikel 20
 
 Bij het voor de eerste maal samenstellen van een bedrijfscommissie treedt voor de toepassing van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=1&artikel=3&z=2026-01-31&g=2026-01-31), in plaats van de bedrijfscommissie de voorzitter van de Raad op of diens plaatsvervanger.
 
-#### Artikel 21
+##### Artikel 21
 
 De verordening van de Raad van 22 maart 2002 ([Verordening op de bedrijfscommissies 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013537)), inclusief de wijzigingsverordeningen van 2011 en 2013, wordt ingetrokken.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze verordening treedt in werking de dag na publicatie in de Staatscourant waarin deze wordt geplaatst.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze verordening wordt aangehaald als: Verordening op de bedrijfscommissies 2024.

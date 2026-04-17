@@ -1,13 +1,35 @@
 ---
 title: "Controleprotocol voor Wlz-uitvoerders die als zorgkantoor zijn aangewezen opgave van pgb-beschikkingen over 2015"
 identifier: "BWBR0038386"
-categorie: "Sociaal recht"
-publicatiedatum: 2016-08-04
-laatste_update: 2016-08-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038386"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-08-04"
+last_updated: "2016-08-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038386"
+soort: "zbo"
+stam_id: "13721733"
+version_id: "23513272"
+internal_id: "C33856881"
+label_id: "13688214"
+dtd_version: "2.0"
+original_entry_into_force: "2016-08-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038386/2016-08-04/0"
+intitule_bron: "Stcrt.2016-40852"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-08-03"
+intitule_in_force: "2016-08-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-40852"
+original_published_date: "2016-08-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-40852"
+entry_into_force_date: "2016-08-04"
+jci_1_3: "jci1.3:c:BWBR0038386&z=2016-08-04&g=2016-08-04"
+jci_1_0: "1.0:c:BWBR0038386&g=2016-08-04"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-08-04"
 ---
-
 # Controleprotocol voor Wlz-uitvoerders die als zorgkantoor zijn aangewezen opgave van pgb-beschikkingen over 2015
 
 ### Inleiding

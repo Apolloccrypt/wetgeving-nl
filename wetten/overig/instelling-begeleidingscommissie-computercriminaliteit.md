@@ -1,13 +1,37 @@
 ---
 title: "Instelling begeleidingscommissie computercriminaliteit"
 identifier: "BWBR0004966"
-categorie: "Overig"
-publicatiedatum: 1991-01-12
-laatste_update: 1991-01-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004966"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1991-01-12"
+last_updated: "1991-01-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004966"
+soort: "ministeriele-regeling"
+stam_id: "4443543"
+version_id: "6239852"
+internal_id: "C6444061"
+label_id: "4421934"
+dtd_version: "2.0"
+original_entry_into_force: "1991-01-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004966/1991-01-12/0"
+intitule_bron: "Stcrt.1991-8"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-01-03"
+intitule_published: "1991-01-11"
+intitule_in_force: "1991-01-11"
+intitule_status: "goed"
+original_publication: "Stcrt.1991-8"
+original_signed_date: "1991-01-03"
+original_published_date: "1991-01-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1991-01-12"
+jci_1_3: "jci1.3:c:BWBR0004966&z=1991-01-12&g=1991-01-12"
+jci_1_0: "1.0:c:BWBR0004966&g=1991-01-12"
+citeertitel_status: "officieel"
+signed_date: "1991-01-03"
+entry_into_force: "1991-01-12"
 ---
-
 # Instelling begeleidingscommissie computercriminaliteit
 
 Gelet op de huidige ontwikkelingen met betrekking tot computercriminaliteit;
@@ -22,11 +46,11 @@ dat een landelijke gecoördineerde begeleiding van dit project wenselijk is.
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 Ingesteld wordt de begeleidingscommissie computercriminaliteit hierna te noemen de begeleidingscommissie.
 
-#### Artikel 2
+##### Artikel 2
 
 De begeleidingscommissie heeft tot taak:
 
@@ -38,7 +62,7 @@ De begeleidingscommissie heeft tot taak:
 
 - d. ter zake deskundigen te raadplegen bij voorkomende problemen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De begeleidingscommissie is als volgt samengesteld:
 
@@ -62,6 +86,6 @@ De begeleidingscommissie heeft tot taak:
 
 3. De begeleidingscommissie kan ten behoeve van de haar gestelde taken overgaan tot het instellen van één of meer werkgroepen, met door de begeleidingscommissie nader aan te geven taakopdracht en samenstelling.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze beschikking, die zal worden gepubliceerd in de Nederlandse Staatscourant en in het Algemeen Politieblad, treedt in werking met ingang van de eerste dag na uitgifte van de Nederlandse Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 5 oktober 1990.

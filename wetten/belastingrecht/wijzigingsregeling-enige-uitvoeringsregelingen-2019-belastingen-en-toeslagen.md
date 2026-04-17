@@ -1,112 +1,138 @@
 ---
-title: "Wijzigingsregeling enige uitvoeringsregelingen 2019 (belastingen en toeslagen)"
+title: "Regeling van de Staatssecretaris van Financiën van 18 december 2019 tot wijziging van onder meer enige uitvoeringsregelingen op het gebied van belastingen en toeslagen"
 identifier: "BWBR0042977"
-categorie: "Belastingrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042977"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042977"
+soort: "ministeriele-regeling"
+stam_id: "15293993"
+version_id: "26358662"
+internal_id: "C37459641"
+label_id: "15240014"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042977/2020-01-01/0"
+intitule_bron: "Stcrt.2019-69810"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-18"
+intitule_published: "2019-12-30"
+intitule_in_force: "2019-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-69810"
+original_signed_date: "2019-12-18"
+original_published_date: "2019-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-69810"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0042977&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0042977&g=2020-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling enige uitvoeringsregelingen 2019 (belastingen en toeslagen)"
+signed_date: "2019-12-18"
+entry_into_force: "2020-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Financiën van 18 december 2019 tot wijziging van onder meer enige uitvoeringsregelingen op het gebied van belastingen en toeslagen
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
-#### Artikel III
+##### Artikel III
 
 Regeling loonbelasting- en premietabellen 1990.
 
-#### Artikel IV
+##### Artikel IV
 
 Bij de toepassing van [artikel 3, derde lid, van de Regeling loonbelasting en premietabellen 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=3) is [artikel XXXVII, tweede lid, van het Belastingplan 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041751&artikel=XXVII) van overeenkomstige toepassing.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Regeling gegevensuitvraag loonaangifte.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Regeling laagbelastende staten en niet-coöperatieve rechtsgebieden voor belastingdoeleinden.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Uitvoeringsbeschikking dividendbelasting 1965.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Uitvoeringsregeling motorrijtuigenbelasting 1994.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
-#### Artikel XVII
+##### Artikel XVII
 
 De [Regeling Stuf-WOZ](https://wetten.overheid.nl/jci1.3:c:BWBR0007253) wordt ingetrokken.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel XIX. (overgangsrecht)
+##### Artikel XIX. (overgangsrecht)
 
 Aan de verplichting, bedoeld in [artikel 47b van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47b), wordt voldaan uiterlijk op het moment waarop de gegevens en inlichtingen, bedoeld in [artikel 53, tweede en derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53), door een administratieplichtige als bedoeld in [artikel II, eerste lid, van het Besluit van 30 december 2019 tot wijziging van de Algemene douanewet, enige uitvoeringsbesluiten op het gebied van de belastingen en enige andere besluiten](https://wetten.overheid.nl/jci1.3:c:BWBR0042944&artikel=II) (Stb. 2019, 516) aan de inspecteur worden verstrekt.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Regeling elektronisch berichtenverkeer Belastingdienst.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Uitvoeringsregeling Belastingwet BES.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Wijzigingsregeling enige uitvoeringsregelingen 2018 (belastingen en toeslagen).
 
-#### Artikel XXV
+##### Artikel XXV
 
 Deze regeling treedt in werking met ingang van 1 januari 2020, met dien verstande dat:
 

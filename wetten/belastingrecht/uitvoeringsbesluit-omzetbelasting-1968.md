@@ -1,13 +1,38 @@
 ---
-title: "Uitvoeringsbesluit omzetbelasting 1968"
+title: "Besluit van 12 augustus 1968 tot vaststelling van het Uitvoeringsbesluit omzetbelasting 1968"
 identifier: "BWBR0002633"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002633"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002633"
+soort: "AMvB"
+stam_id: "2883393"
+version_id: "4447972"
+internal_id: "C4447971"
+label_id: "2831864"
+dtd_version: "2.0"
+original_entry_into_force: "1996-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002633/2026-01-01/0"
+intitule_bron: "Stb.1968-423"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1968-08-12"
+intitule_status: "goed"
+original_publication: "Stb.1996-167"
+original_signed_date: "1996-03-04"
+original_published_date: "1996-03-21"
+original_effect: "structuurwijziging"
+original_url_id: "stb-1996-167"
+entry_into_force_date: "1996-06-01"
+entry_into_force_dossier: "23806"
+jci_1_3: "jci1.3:c:BWBR0002633&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0002633&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit omzetbelasting 1968"
+signed_date: "1996-03-04"
+entry_into_force: "1996-06-01"
 ---
-
 # Besluit van 12 augustus 1968 tot vaststelling van het Uitvoeringsbesluit omzetbelasting 1968
 
 Op de voordracht van de Staatssecretaris van Financiën van 19 juli 1968, nr. D68/4876, directie Wetgeving Douane en Verbruiksbelastingen;
@@ -22,7 +47,7 @@ Hebben goedgevonden en verstaan:
 
 ### Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit besluit geeft uitvoering aan de [artikelen 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8), [9, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=9), [11, eerste lid, aanhef en onderdelen f, g, onder 3°, o, onder 2°, en u, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), [12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=12), [17c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=17c), [17d](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=17d), [20, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=20), [29, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=29), [29a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=29a), [33g, tweede, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=33g), en [39 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=39) en aan [artikel 10a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10a).
 
@@ -34,17 +59,17 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Vergoeding
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met kortingen wegens contante betaling wordt voor de bepaling van de vergoeding terstond rekening gehouden, mits op de factuur - ingeval deze wordt uitgereikt - de korting in mindering wordt gebracht op het in rekening te brengen bedrag.
 
 2. In gevallen waarin het eerste lid toepassing heeft gevonden en de korting wegens contante betaling uiteindelijk geheel of ten dele niet wordt genoten, wordt de belasting alsnog verschuldigd over het bedrag van de niet genoten korting. De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=13), [17g](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=17g) en [34c tot en met 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=35) zijn van overeenkomstige toepassing, met dien verstande dat het tijdstip waarop het niet-genieten van de korting komt vast te staan, geacht wordt te zijn het tijdstip waarop de levering, de intracommunautaire verwerving of de dienst is verricht.
 
-#### Artikel 3
+##### Artikel 3
 
 [Artikel 29, eerste tot en met het vijfde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=29), en [artikel 29a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=29a) zijn niet van toepassing op bedragen welke niet zijn ontvangen onderscheidenlijk betaald ten gevolge van een korting voor contante betaling, indien niet ter zake van die korting een aanvullende factuur is uitgereikt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Tot de vergoeding behoren niet:
 
@@ -58,7 +83,7 @@ Hebben goedgevonden en verstaan:
 
 3. Het tweede lid is alleen van toepassing indien de ondernemer op de factuur het bedrag vermeldt dat hij als belasting als bedoeld in de [Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806) op de vergoeding in mindering heeft gebracht.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij vestiging, overdracht, afstand en opzegging van de rechten van erfpacht, opstal, erfdienstbaarheid of beklemming behoort de waarde van de canon, de retributie of de huur tot de vergoeding, met dien verstande dat de vergoeding hierdoor niet hoger kan zijn dan de waarde in het economische verkeer van de zaak waarop het recht betrekking heeft. De waarde in het economische verkeer bedraagt ten minste de kostprijs, met inbegrip van de omzetbelasting, van de onroerende zaak waarop het recht betrekking heeft, zoals die zou ontstaan bij de voortbrenging door een onafhankelijke derde op het tijdstip van de handeling.
 
@@ -72,17 +97,17 @@ Hebben goedgevonden en verstaan:
 
 6. Het tweede tot en met het vijfde lid is niet van toepassing voor zover de vestiging, overdracht, wijziging, afstand en opzegging van rechten waaraan onroerende zaken zijn onderworpen niet op grond van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3), van de wet, met toepassing van de voorgaande leden, als levering van goederen wordt aangemerkt.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Bij de berekening van de belasting over de vergoeding en over de douanewaarde overeenkomstig de [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8), en [17c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=17c), respectievelijk [artikel 19, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=19), wordt het bedrag van de verschuldigde belasting rekenkundig afgerond op centen. Deze rekenkundige afronding op centen wordt zodanig toegepast dat bij bedragen waarbij de derde decimaal het cijfer 5 of een hoger cijfer bereikt omhoog wordt afgerond, en dat in geval de derde decimaal dit cijfer niet bereikt omlaag wordt afgerond.
 
 ### Hoofdstuk II. Vrijstellingen; tarief
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de toepassing van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) van de wet vervatte vrijstellingen is de ondernemer gehouden een boekhouding te voeren waarin de voor die toepassing nodige gegevens op duidelijke en overzichtelijke wijze zijn vermeld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Als leveringen en diensten van sociale of culturele aard als bedoeld in [artikel 11, eerste lid, onderdeel f , van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), worden aangewezen de leveringen en diensten, genoemd in de bij dit besluit behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&bijlage=B&z=2026-01-01&g=2026-01-01).
 
@@ -112,7 +137,7 @@ voor zover met deze leveringen en diensten geen winst wordt beoogd en niet een v
 
 6. Bij wijzigingen in de aard en samenstelling van de leveringen en diensten van een instelling stelt de instelling de inspecteur daarvan in kennis.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Als onderwijs als bedoeld in [artikel 11, eerste lid, onderdeel o, 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), wordt aangewezen:
 
@@ -132,7 +157,7 @@ voor zover met deze leveringen en diensten geen winst wordt beoogd en niet een v
 
 2. Onder onderwijs wordt mede begrepen het afnemen van examens ter toelating tot of ter afsluiting van onderwijs als bedoeld in [artikel 11, eerste lid, onderdeel o, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), ook indien dat geschiedt door een ander dan de ondernemer die voor het desbetreffende examen heeft opgeleid.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Als diensten als bedoeld in [artikel 11, eerste lid, onderdeel u, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), worden aangewezen de diensten, verleend aan hun leden door zelfstandige groeperingen van:
 
@@ -150,17 +175,17 @@ voor zover met deze leveringen en diensten geen winst wordt beoogd en niet een v
 
 2. Het eerste lid is alleen van toepassing, indien de daar bedoelde zelfstandige groeperingen ter zake van de aan hun leden verrichte diensten slechts terugbetaling vorderen van het aandeel van die leden in de gezamenlijke uitgaven.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
 ### Hoofdstuk III. Grensoverschrijdend verkeer van goederen en diensten
 
-#### Artikel 12
+##### Artikel 12
 
 1. De aanspraak op toepassing van het tarief van nihil voor leveringen, intracommunautaire verwervingen en invoer van goederen en voor diensten, genoemd in de bij de [wet behorende tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=II), geldt slechts, indien de toepasselijkheid van dat tarief uit boeken en bescheiden blijkt.
 
@@ -200,13 +225,13 @@ In geval de leverancier of de afnemer in de gevallen bedoeld in de onderdelen b 
 
 5. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven met betrekking tot de wijze waarop de aanspraak op toepassing van het tarief van nihil wordt aangetoond.
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. Met betrekking tot de leveringen van minerale oliën als bedoeld in de bij de wet behorende tabel II, onderdeel **a**, post 7, onder **a**, die zich bevinden in een accijnsgoederenplaats is [artikel 12, tweede lid, onderdeel **b**, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=III&artikel=12&z=2026-01-01&g=2026-01-01), niet van toepassing indien ter zake van die accijnsgoederenplaats de bijzondere bepaling van tabel II, onderdeel **a**, post 7, van toepassing is.
 
 2. Met betrekking tot de leveringen bedoeld in het eerste lid is [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=III&artikel=12&z=2026-01-01&g=2026-01-01), slotzin, niet van toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 Bij ministeriële regeling kunnen aan de teruggaaf op de voet van [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=24) voorwaarden worden verbonden welke betrekking kunnen hebben op:
 
@@ -214,13 +239,13 @@ Bij ministeriële regeling kunnen aan de teruggaaf op de voet van [artikel 24, e
 
 - b. de wijze waarop wordt aangetoond, dat de goederen waarvan de belasting wordt teruggevraagd, de Unie hebben verlaten of zijn geplaatst onder de regeling douane-entrepot op basis van artikel 237, tweede lid, van het Douanewetboek van de Unie.
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
 ### Hoofdstuk IV. Suppletie
 
-#### Artikel 15
+##### Artikel 15
 
 1. Zodra de belastingplichtige constateert dat hij een aangifte over een tijdvak in de afgelopen vijf kalenderjaren onjuist of onvolledig heeft gedaan waardoor te veel of te weinig belasting is betaald, is hij gehouden alsnog bij wijze van suppletie de juiste en volledige inlichtingen, gegevens of aanwijzingen te verstrekken.
 
@@ -232,7 +257,7 @@ Vervallen
 
 ### Afdeling A. Ondernemers met verschillende tarieven
 
-#### Artikel 16
+##### Artikel 16
 
 De ondernemer die krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=26) van de wet de belasting kan voldoen naar ontvangsten, kan, indien hij leveringen verricht zowel van 9%-goederen als van 21%-goederen, die hij niet zelf heeft vervaardigd, de ter zake verschuldigde belasting berekenen op een van de hierna omschreven wijzen.
 
@@ -306,11 +331,11 @@ Algemene aantekeningen
 
 - 2. Dit artikel heeft niet betrekking op goederen die worden geleverd ingevolge een overeenkomst van huurkoop of een andere overeenkomst van koop en verkoop op afbetaling.
 
-#### Artikel 16a
+##### Artikel 16a
 
 Bij een tariefwijziging met ingang van een boekjaar wordt met betrekking tot het daaraan voorafgaande boekjaar het in artikel 16 voor methode I in onderdeel **g** bepaalde toegepast met inachtneming van de vóór die wijziging geldende tarieven.
 
-#### Artikel 16b
+##### Artikel 16b
 
 1. Bij een tariefwijziging in de loop van een boekjaar handelt de ondernemer, in afwijking in zoverre van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2026-01-01&g=2026-01-01) voor methode I in de onderdelen **a** tot en met **h** bepaalde, als is aangegeven in het tweede tot en met het vijfde lid.
 
@@ -326,7 +351,7 @@ Bij een tariefwijziging met ingang van een boekjaar wordt met betrekking tot het
 
 5. Bij de in het derde lid bedoelde herrekening worden met betrekking tot het gedeelte van het boekjaar na de tariefwijziging voor de toepassing van het voor methode I in onderdeel **h** bepaalde in samenhang met het bepaalde in onderdeel **g**, onder 1°, de op het tijdstip van de tariefwijziging ten verkoop in voorraad zijnde goederen beschouwd als goederen die zijn ingekocht in het na dat tijdstip gelegen gedeelte van het boekjaar en wordt de winkelwaarde van die goederen bepaald met inachtneming van de na de tariefwijziging geldende tarieven.
 
-#### Artikel 16c
+##### Artikel 16c
 
 1. Bij een wijziging van de hoogte van het in artikel 16 bij methode II in onderdeel **a** vermelde tarief met ingang van een boekjaar of in de loop daarvan wordt, in afwijking in zoverre van het voor die methode in onderdeel **f** bepaalde, het op de totale ontvangsten van het volgende belastingtijdvak in mindering te brengen verschil bepaald met inachtneming van de tariefwijziging.
 
@@ -334,11 +359,11 @@ Bij een tariefwijziging met ingang van een boekjaar wordt met betrekking tot het
 
 3. In geval van tariefverhoging wordt in het in het eerste lid bedoelde belastingtijdvak aan belasting verschuldigd een bedrag gelijk aan het bedrag waarmee het voor methode II in onderdeel **f** bedoelde verschil bepaald met inachtneming van de tariefwijziging uitgaat boven dat verschil berekend zonder de tariefwijziging.
 
-#### Artikel 16d
+##### Artikel 16d
 
 Bij een wijziging van de hoogte van het in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2026-01-01&g=2026-01-01) bij methode II in onderdeel **h** vermelde tarief met ingang van een boekjaar of in de loop daarvan is het bepaalde in [artikel 16c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16c&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Ingeval de ondernemer goederen levert welke hijzelf heeft vervaardigd, is daarop artikel 16 van overeenkomstige toepassing, met inachtneming van het volgende:
 
@@ -358,11 +383,11 @@ Bij een wijziging van de hoogte van het in [artikel 16](https://wetten.overheid.
 
 5. De vaststelling door de inspecteur van het percentage geschiedt bij voor bezwaar vatbare beschikking. Het percentage geldt met ingang van het tijdvak, volgende op dat waarin een afschrift van de beschikking aan de ondernemer is verzonden.
 
-#### Artikel 17a
+##### Artikel 17a
 
 Het bepaalde in de [artikelen 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16a&z=2026-01-01&g=2026-01-01), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16b&z=2026-01-01&g=2026-01-01), [16c](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16c&z=2026-01-01&g=2026-01-01) en [16d](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16d&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing ten aanzien van een ondernemer als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=17&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 18
+##### Artikel 18
 
 1. Grondstoffen en voor verkoop bestemde goederen, die aanwezig zijn bij de aanvang van het eerste belastingtijdvak waarover een in deze afdeling opgenomen regeling wordt toegepast, worden beschouwd als in dat tijdvak te zijn ingekocht. Voor zelf vervaardigde goederen treden hierbij in de plaats de grondstoffen waaruit zij zijn vervaardigd.
 
@@ -370,13 +395,13 @@ Het bepaalde in de [artikelen 16a](https://wetten.overheid.nl/jci1.3:c:BWBR00026
 
 3. Indien blijkt, dat de voorraad aan goederen als bedoeld in het tweede lid, op enig tijdstip groter is dan bij de aanvang van het eerste belastingtijdvak waarover de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=V&afdeling=A&artikel=16&z=2026-01-01&g=2026-01-01) omschreven methode II is toegepast, kan de inspecteur bij voor bezwaar vatbare beschikking bepalen, dat de inkopen van die goederen in een door hem aan te wijzen belastingtijdvak met het verschil in de voorraad worden verminderd.
 
-#### Artikel 19
+##### Artikel 19
 
 Een in deze afdeling opgenomen regeling mag slechts worden toegepast met ingang van het boekjaar, volgende op dat waarin de ondernemer van zijn voornemen daartoe schriftelijk mededeling aan de inspecteur heeft gedaan. Zij vindt dan toepassing tot het boekjaar, volgende op dat waarin de ondernemer aan de inspecteur schriftelijk heeft medegedeeld, dat hij haar niet langer wenst toe te passen.
 
 ### Afdeling B. Zegelsystemen, waardebonnen enz.
 
-#### Artikel 20
+##### Artikel 20
 
 1. In gevallen waarin bij de levering van goederen of het verrichten van diensten gratis zegels worden verstrekt die kunnen worden ingewisseld tegen geld wordt, in afwijking in zoverre van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=29), van de wet, de belasting berekend overeenkomstig de hierna volgende regels:
 
@@ -390,7 +415,7 @@ Een in deze afdeling opgenomen regeling mag slechts worden toegepast met ingang 
 
 2. Onder zegels worden begrepen andere voorwerpen welke een soortgelijke functie vervullen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. In gevallen waarin de ondernemer aan zijn afnemers bij de levering van goederen of diensten – al dan niet tegen betaling – waardebonnen verstrekt die afzonderlijk of tezamen met andere waardebonnen bij hem of bij een andere ondernemer alleen met bijbetaling kunnen worden ingewisseld tegen goederen of diensten, wordt de belasting berekend met inachtneming van de volgende regels:
 
@@ -402,21 +427,21 @@ Een in deze afdeling opgenomen regeling mag slechts worden toegepast met ingang 
 
 ### Afdeling C. Aftrek van voorbelasting
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
 ### Afdeling D. Bevoorrading van vervoermiddelen
 
-#### Artikel 24a
+##### Artikel 24a
 
 1. Van niet in het vrije verkeer zijnde goederen waarmee in Nederland een vervoermiddel wordt bevoorraad, moet degene voor wie de goederen zijn bestemd, niet zijnde een ondernemer of lichaam in de zin van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), aangifte doen. Op de aangifte en de goederen zijn de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1), van toepassing als ware sprake van een aangifte voor het vrije verkeer en van voor de douaneregeling vrij verkeer aangegeven goederen.
 
@@ -424,7 +449,7 @@ Vervallen
 
 ### Afdeling D. Bevoorrading van vervoermiddelen
 
-#### Artikel 24b
+##### Artikel 24b
 
 1. Dit artikel verstaat onder:
 
@@ -456,7 +481,7 @@ Vervallen
 
 8. Bij ministeriële regeling kunnen nadere regels worden gegeven inzake de toepassing van dit artikel.
 
-#### Artikel 24ba
+##### Artikel 24ba
 
 1. Als gevallen als bedoeld in [artikel 12, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=12), worden mede aangewezen de gevallen waarin:
 
@@ -492,7 +517,7 @@ Vervallen
 
 ### Afdeling F. Fiscaal vertegenwoordiger
 
-#### Artikel 24c
+##### Artikel 24c
 
 1. Het verzoek om een vergunning voor een fiscaal vertegenwoordiger dient de volgende gegevens te bevatten:
 
@@ -558,7 +583,7 @@ Vervallen
 
 De buitenlandse ondernemer wordt van de intrekking van de vergunning in kennis gesteld, alsmede van de gronden waarop deze berust.
 
-#### Artikel 24d
+##### Artikel 24d
 
 1. De buitenlandse ondernemer die in Nederland belasting verschuldigd is ingevolge [artikel 5a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=5a), stelt een fiscaal vertegenwoordiger met een algemene vergunning aan wanneer het hoofdkantoor of de vestiging van de ondernemer is gelegen in een derde-land waarmee geen rechtsinstrument inzake wederzijdse bijstand bestaat als bedoeld in artikel 204, lid 1, tweede alinea, van de BTW-richtlijn 2006. De verplichting bedoeld in de eerste volzin geldt niet wanneer een ondernemer gebruik maakt van de Unieregeling, bedoeld in [hoofdstuk V, afdeling 7, paragraaf 3, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&paragraaf=3).
 
@@ -566,19 +591,19 @@ De buitenlandse ondernemer wordt van de intrekking van de vergunning in kennis g
 
 ### Hoofdstuk VI
 
-#### Artikel 25
+##### Artikel 25
 
 De Dienst Wegverkeer, genoemd in artikel 4a van de Wegenverkeerswet 1994, wordt aangewezen als nationale autoriteit als bedoeld in artikel 5 ter, vierde lid, van [Uitvoeringsverordening (EU) nr. 79/2012](32012R0079) van de Commissie van 31 januari 2012 tot vaststelling van nadere uitvoeringsvoorschriften voor enkele bepalingen van [Verordening (EU) nr. 904/2010](32010R0904) van de Raad betreffende de administratieve samenwerking en de bestrijding van fraude op het gebied van de belasting over de toegevoegde waarde (PbEU 2012, L 29) voor het verwerken van inkomende en uitgaande verzoeken om voertuigregistratiegegevens voor btw-doeleinden.
 
 ### Hoofdstuk VI. Aanwijzingen
 
-#### Artikel 25a
+##### Artikel 25a
 
 Vervallen
 
 ### Hoofdstuk VII
 
-#### Artikel 26
+##### Artikel 26
 
 1. Dit besluit treedt in werking met ingang van 1 januari 1969.
 
@@ -739,7 +764,7 @@ Vervallen
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 24bb
+##### Artikel 24bb
 
 1. Als gevallen als bedoeld in [artikel 12, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=12), worden tevens aangewezen de gevallen waarin sprake is van de levering aan een ondernemer van oude materialen, oude materialen ongeschikt voor hergebruik in dezelfde staat, industrieel en niet-industrieel afval, afval voor hergebruik, gedeeltelijk verwerkt afval, schroot, en van bepaalde goederen en diensten, voorzover het betreft:
 
@@ -820,7 +845,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwel
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Als diensten als bedoeld in [artikel 11, eerste lid, onderdeel g, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) worden aangewezen de diensten die verleend worden op grond van de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), mits deze diensten:
 
@@ -984,7 +1009,7 @@ De terbeschikkingstelling van personeel, bedoeld in onderdeel b, post 15, onder 
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 25
+##### Artikel 25
 
 De Dienst Wegverkeer, genoemd in artikel 4a van de Wegenverkeerswet 1994, wordt aangewezen als nationale autoriteit als bedoeld in artikel 5 ter, vierde lid, van [Uitvoeringsverordening (EU) nr. 79/2012](32012R0079) van de Commissie van 31 januari 2012 tot vaststelling van nadere uitvoeringsvoorschriften voor enkele bepalingen van [Verordening (EU) nr. 904/2010](32010R0904) van de Raad betreffende de administratieve samenwerking en de bestrijding van fraude op het gebied van de belasting over de toegevoegde waarde (PbEU 2012, L 29) voor het verwerken van inkomende en uitgaande verzoeken om voertuigregistratiegegevens voor btw-doeleinden.
 
@@ -996,7 +1021,7 @@ Vervallen.
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 15a
+##### Artikel 15a
 
 1. Het niet of niet tijdig doen van de suppletie, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&hoofdstuk=IV&artikel=15&z=2026-01-01&g=2026-01-01), en het niet doen van de suppletie op de op grond van artikel 15, derde lid, aangegeven wijze worden aangemerkt als een overtreding.
 

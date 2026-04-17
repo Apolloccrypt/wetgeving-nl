@@ -1,13 +1,38 @@
 ---
 title: "Besluit tot vaststelling van de Regulatorische accountingregels (RAR) warmteleveranciers 2024"
 identifier: "BWBR0051941"
-categorie: "Overig"
-publicatiedatum: 2025-06-27
-laatste_update: 2025-06-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051941"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-06-27"
+last_updated: "2025-06-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051941"
+soort: "zbo"
+stam_id: "17672713"
+version_id: "31178172"
+internal_id: "C44605011"
+label_id: "17572594"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051941/2025-06-27/0"
+intitule_bron: "Stcrt.2025-22177"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-12"
+intitule_published: "2025-06-26"
+intitule_in_force: "2025-06-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-22177"
+original_signed_date: "2025-06-12"
+original_published_date: "2025-06-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-22177"
+entry_into_force_date: "2025-06-27"
+jci_1_3: "jci1.3:c:BWBR0051941&z=2025-06-27&g=2025-06-27"
+jci_1_0: "1.0:c:BWBR0051941&g=2025-06-27"
+citeertitel_status: "redactioneel"
+signed_date: "2025-06-12"
+entry_into_force: "2025-06-27"
 ---
-
 # Besluit tot vaststelling van de Regulatorische accountingregels (RAR) warmteleveranciers 2024
 
 ### 1. Begrippen

@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit personenvervoer 2000, enz. (invoering boordcomputer taxi, afschaffing vergunning collectief personenvervoer, elektronisch vervoerbewijs)"
+title: "Besluit van 16 oktober 2009, houdende wijziging van het Besluit personenvervoer 2000, het Arbeidstijdenbesluit vervoer en het Reglement rijbewijzen in verband met de invoering van de boordcomputer taxi, de afschaffing van de vergunning voor collectief personenvervoer en een technische wijziging in verband met het elektronisch vervoerbewijs"
 identifier: "BWBR0026675"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2013-06-29
-laatste_update: 2013-06-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026675"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-06-29"
+last_updated: "2013-06-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026675"
+soort: "AMvB"
+stam_id: "10281223"
+version_id: "16824372"
+internal_id: "C23249011"
+label_id: "10256654"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026675/2013-06-29/0"
+intitule_bron: "Stb.2009-472"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-10-16"
+intitule_published: "2009-11-20"
+intitule_in_force: "2009-12-08"
+intitule_status: "goed"
+original_publication: "Stb.2009-472"
+original_signed_date: "2009-10-16"
+original_published_date: "2009-11-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2009-472"
+entry_into_force_date: "2010-01-01"
+jci_1_3: "jci1.3:c:BWBR0026675&z=2013-06-29&g=2013-06-29"
+jci_1_0: "1.0:c:BWBR0026675&g=2013-06-29"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit personenvervoer 2000, enz. (invoering boordcomputer taxi, afschaffing vergunning collectief personenvervoer, elektronisch vervoerbewijs)"
+signed_date: "2009-10-16"
+entry_into_force: "2010-01-01"
 ---
-
 # Besluit van 16 oktober 2009, houdende wijziging van het Besluit personenvervoer 2000, het Arbeidstijdenbesluit vervoer en het Reglement rijbewijzen in verband met de invoering van de boordcomputer taxi, de afschaffing van de vergunning voor collectief personenvervoer en een technische wijziging in verband met het elektronisch vervoerbewijs
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat, mede namens Onze Minister van Sociale Zaken en Werkgelegenheid van 15 april 2009, nr. CEND/HDJZ-2009/430 sector S&W, Hoofddirectie Juridische Zaken;
@@ -20,19 +46,19 @@ Gezien het nader rapport van de Staatssecretaris van Verkeer en Waterstaat en On
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit personenvervoer 2000.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Arbeidstijdenbesluit vervoer.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Reglement rijbewijzen.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Onverminderd de [artikelen 79, eerste lid (nieuw), van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=79) en [2.4:2 (nieuw), van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.4:2), is het de vervoerder gedurende een bij ministeriële regeling vast te stellen periode na de inwerkingtreding van de [artikelen I, onderdelen J, K, en L](https://wetten.overheid.nl/jci1.3:c:BWBR0026675&artikel=I&z=2013-06-29&g=2013-06-29) en [II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026675&artikel=II&z=2013-06-29&g=2013-06-29), toegestaan om taxivervoer te verrichten zonder een boordcomputer in de auto aanwezig te hebben en zonder gebruikmaking ervan.
 
@@ -62,7 +88,7 @@ Wijzigt het Reglement rijbewijzen.
 
 12. Het tweede tot en met het elfde lid is van overeenkomstige toepassing op het vervoer, bedoeld in [artikel 6, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=6).
 
-#### Artikel V
+##### Artikel V
 
 Na de inwerkingtreding van [artikel I, onderdelen J, K en L](https://wetten.overheid.nl/jci1.3:c:BWBR0026675&artikel=I&z=2013-06-29&g=2013-06-29), van dit besluit berusten de hierna genoemde ministeriële regelingen op de daarbij vermelde artikelen van het [Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982):
 
@@ -80,7 +106,7 @@ Na de inwerkingtreding van [artikel I, onderdelen J, K en L](https://wetten.over
 
 - g. de [Regeling zitplaatsverdeling bussen en auto’s](https://wetten.overheid.nl/jci1.3:c:BWBR0012029) berust op [artikel 77, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=77).
 
-#### Artikel VI
+##### Artikel VI
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

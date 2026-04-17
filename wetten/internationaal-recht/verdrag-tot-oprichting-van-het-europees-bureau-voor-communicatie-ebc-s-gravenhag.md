@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tot oprichting van het Europees Bureau voor Communicatie (EBC) 's-Gravenhage op 23 juni 1993, zoals gewijzigd te Kopenhagen op 9 april 2002"
 identifier: "BWBV0001128"
-categorie: "Internationaal recht"
-publicatiedatum: 2013-03-01
-laatste_update: 2013-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001128"
+country: "nl"
+rank: "verdrag"
+publication_date: "2013-03-01"
+last_updated: "2013-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001128"
+soort: "verdrag"
+stam_id: "10002287003"
+version_id: "10002311112"
+internal_id: "C10006977941"
+label_id: "10002277224"
+dtd_version: "2.0"
+original_entry_into_force: "1996-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001128/2013-03-01/0"
+intitule_bron: "Trb.1993-152"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-05-27"
+intitule_published: "1993-10-16"
+intitule_in_force: "1997-11-06"
+intitule_status: "goed"
+original_publication: "Trb.1993-152"
+original_signed_date: "1994-05-27"
+original_published_date: "1993-10-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-152"
+entry_into_force_date: "1996-03-01"
+jci_1_3: "jci1.3:c:BWBV0001128&z=2013-03-01&g=2013-03-01"
+jci_1_0: "1.0:c:BWBV0001128&g=2013-03-01"
+citeertitel_status: "redactioneel"
+signed_date: "1994-05-27"
+entry_into_force: "1996-03-01"
 ---
-
 # Verdrag tot oprichting van het Europees Bureau voor Communicatie (EBC) 's-Gravenhage op 23 juni 1993, zoals gewijzigd te Kopenhagen op 9 april 2002
 
 De Staten die Partij zijn bij dit Verdrag, hierna te noemen de „Verdragsluitende Partijen";
@@ -20,17 +45,17 @@ Zijn het volgende overeengekomen:
 
 Voor inwerkingtreding zie ook Trb. 1997/286.
 
-#### Artikel 1. Oprichting van het EBR
+##### Artikel 1. Oprichting van het EBR
 
 1. Hierbij wordt een Europees Bureau voor Radiocommunicatie op gericht, hierna te noemen het „EBR".
 
 2. De zetel van het EBR wordt gevestigd te Kopenhagen, Denemarken.
 
-#### Artikel 2. Doel van het EBR
+##### Artikel 2. Doel van het EBR
 
 Het EBR is een vaktechnisch centrum op het gebied van de radiocommunicatie, dat het ECR bijstaat en adviseert.
 
-#### Artikel 3. Taken van het EBR
+##### Artikel 3. Taken van het EBR
 
 1. Het EBR heeft tot taak:
 
@@ -58,7 +83,7 @@ Het EBR is een vaktechnisch centrum op het gebied van de radiocommunicatie, dat 
 
 3. Naast de in het eerste lid genoemde taken belegt het EBR, gewoonlijk eenmaal per jaar, een vergadering die openstaat voor de in het tweede lid genoemde organisaties, ten einde hun de gelegenheid te bieden de activiteiten en de toekomstige werkprogramma's van het ECR en het EBR te bespreken.
 
-#### Artikel 4. Rechtspositie en voorrechten
+##### Artikel 4. Rechtspositie en voorrechten
 
 1. Het EBR bezit rechtspersoonlijkheid. Het EBR bezit volledige handelingsbekwaamheid, noodzakelijk om zijn taken te verrichten en zijn doelstellingen te verwezenlijken, en kan in het bijzonder:
 
@@ -74,11 +99,11 @@ Het EBR is een vaktechnisch centrum op het gebied van de radiocommunicatie, dat 
 
 3. Andere landen kunnen soortgelijke voorrechten en immuniteiten verlenen ten behoeve van activiteiten van het EBR in die landen, in het bijzonder immuniteit van rechtsvervolging met betrekking tot het gesproken en geschreven woord en alle handelingen verricht door de Directeur of het personeel van het EBR in de uitoefening van hun officiële functies.
 
-#### Artikel 5. Organen van het EBR
+##### Artikel 5. Organen van het EBR
 
 Het EBR bestaat uit een Raad en een Directeur, bijgestaan door personeel.
 
-#### Artikel 6. De Raad
+##### Artikel 6. De Raad
 
 1. De Raad bestaat uit vertegenwoordigers van de onderscheiden instanties belast met de regelgeving inzake het radioverkeer van alle Verdragsluitende Partijen.
 
@@ -86,7 +111,7 @@ Het EBR bestaat uit een Raad en een Directeur, bijgestaan door personeel.
 
 3. Vertegenwoordigers van de Commissie van de Europese Gemeenschappen en van het Secretariaat van de Europese Vrijhandelsassociatie kunnen in de Raad zitting nemen als waarnemer.
 
-#### Artikel 7. Taken van de Raad
+##### Artikel 7. Taken van de Raad
 
 1. De Raad is het hoogste bestuursorgaan van het EBR en heeft in het bijzonder tot taak:
 
@@ -106,7 +131,7 @@ Het EBR bestaat uit een Raad en een Directeur, bijgestaan door personeel.
 
 2. De Raad stelt de nodige reglementen op om het EBR en zijn organen goed te doen functioneren.
 
-#### Artikel 8. Stemregels
+##### Artikel 8. Stemregels
 
 1. Besluiten van de Raad worden voor zover mogelijk bij consensus genomen. Indien geen consensus kan worden bereikt, wordt een besluit genomen met een meerderheid van tweederde van de uitgebrachte gewogen stemmen.
 
@@ -122,7 +147,7 @@ Het EBR bestaat uit een Raad en een Directeur, bijgestaan door personeel.
 
 5. Waarnemers kunnen aan de besprekingen van de Raad deelnemen, maar zij hebben geen stemrecht.
 
-#### Artikel 9. Directeur en personeel
+##### Artikel 9. Directeur en personeel
 
 1. De Directeur treedt op als wettelijk vertegenwoordiger van het EBR en is, binnen de door de Raad overeengekomen grenzen, bevoegd namens het EBR overeenkomsten te sluiten. De Directeur kan deze bevoegdheid geheel of gedeeltelijk delegeren aan de Adjunct-Directeur.
 
@@ -130,11 +155,11 @@ Het EBR bestaat uit een Raad en een Directeur, bijgestaan door personeel.
 
 3. De Raad stelt een personeelsreglement op.
 
-#### Artikel 10. Werkprogramma
+##### Artikel 10. Werkprogramma
 
 Jaarlijks wordt door de Raad, op basis van een voorstel van het ECR, een werkprogramma voor het EBR vastgesteld voor een periode van drie jaar. Het eerste jaar van dit programma moet voldoende gegevens bevatten om de jaarbegroting van het EBR te kunnen vaststellen.
 
-#### Artikel 11. Vaststelling van de begroting en boekhouding
+##### Artikel 11. Vaststelling van de begroting en boekhouding
 
 1. Het boekjaar van het EBR loopt van 1 januari tot en met 31 december.
 
@@ -144,7 +169,7 @@ Jaarlijks wordt door de Raad, op basis van een voorstel van het ECR, een werkpro
 
 4. De Raad stelt een gedetailleerd financieel reglement vast. Dit dient onder andere bepalingen te bevatten betreffende de termijnen voor indiening en goedkeuring van de jaarrekeningen van het EBR alsmede bepalingen betreffende de accountantscontrole daarvan.
 
-#### Artikel 12. Financiële bijdragen
+##### Artikel 12. Financiële bijdragen
 
 1. De kapitaaluitgaven en de lopende bedrijfsuitgaven van het EBR, met uitzondering van de kosten verbonden aan de vergaderingen van de Raad, worden over de Verdragsluitende Partijen omgeslagen overeenkomstig de bijdragen-eenheden genoemd in de tabel in Bijlage A, die een integrerend deel van dit Verdrag uitmaakt.
 
@@ -152,13 +177,13 @@ Jaarlijks wordt door de Raad, op basis van een voorstel van het ECR, een werkpro
 
 3. Kosten verbonden aan de vergaderingen van de Raad worden gedragen door de instantie belast met de regelgeving inzake het radioverkeer van het land waarin de vergadering plaatsvindt. Reis- en verblijfkosten worden gedragen door de vertegenwoordigde instanties.
 
-#### Artikel 13. Verdragsluitende Partijen
+##### Artikel 13. Verdragsluitende Partijen
 
 1. Een Staat wordt Partij bij dit Verdrag via de procedure van artikel 14, dan wel via de procedure van artikel 15.
 
 2. Zodra een Staat Partij bij dit Verdrag wordt, is de bijdrage-eenheid genoemd in Bijlage A, zoals gewijzigd overeenkomstig artikel 15, van toepassing.
 
-#### Artikel 14. Ondertekening
+##### Artikel 14. Ondertekening
 
 1. Een Staat waarvan de telecommunicatie-administratie lid is van de CEPT kan Verdragsluitende Partij worden door middel van:
 
@@ -168,7 +193,7 @@ Jaarlijks wordt door de Raad, op basis van een voorstel van het ECR, een werkpro
 
 2. Dit Verdrag staat open voor ondertekening vanaf 23 juni 1993 tot de datum van inwerkingtreding en blijft daarna openstaan voor toetreding.
 
-#### Artikel 15. Toetreding
+##### Artikel 15. Toetreding
 
 1. Dit Verdrag staat open voor toetreding door een Staat waarvan de telecommunicatie-administratie lid is van de CEPT.
 
@@ -176,19 +201,19 @@ Jaarlijks wordt door de Raad, op basis van een voorstel van het ECR, een werkpro
 
 3. Uit de akte van toetreding dient te blijken dat de toetredende Staat instemt met de aangenomen wijzigingen op Bijlage A.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop de Deense regering voldoende ondertekeningen en, indien vereist, akten van bekrachtiging, aanvaarding of goedkeuring van Verdragsluitende Partijen heeft ontvangen, zodat is verzekerd dat tenminste 80% van het maximumaantal bijdrage-eenheden genoemd in Bijlage A is bereikt.
 
 2. Na de inwerkingtreding van dit Verdrag is iedere nieuwe Verdragsluitende Partij gebonden door de bepalingen ervan, met inbegrip van de van kracht zijnde wijzigingen, vanaf de eerste dag van de tweede maand volgend op de datum waarop de Deense regering de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding van die Partij heeft ontvangen.
 
-#### Artikel 17. Opzegging
+##### Artikel 17. Opzegging
 
 1. Na het verstrijken van twee jaar na de inwerkingtreding van dit Verdrag kan elke Verdragsluitende Partij dit opzeggen door middel van een schriftelijke kennisgeving aan de Deense regering, die kennisgeving van deze opzegging doet aan de Raad, de Verdragsluitende Partijen en de Directeur.
 
 2. De opzegging wordt van kracht na het verstrijken van het volgende volledige boekjaar, zoals omschreven in artikel 11, eerste lid, na de datum van ontvangst van de kennisgeving van opzegging door de Deense regering.
 
-#### Artikel 18. Rechten en verplichtingen van de Verdragsluitende Partijen
+##### Artikel 18. Rechten en verplichtingen van de Verdragsluitende Partijen
 
 1. Dit Verdrag laat het soevereine recht van elke Verdragsluitende Partij om haar eigen telecommunicatie te regelen onverlet.
 
@@ -196,17 +221,17 @@ Jaarlijks wordt door de Raad, op basis van een voorstel van het ECR, een werkpro
 
 3. Ten aanzien van dit Verdrag kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 19. Geschillenregeling
+##### Artikel 19. Geschillenregeling
 
 Geschillen betreffende de uitlegging of toepassing van dit Verdrag en de Bijlagen daarbij die niet kunnen worden geregeld via bemiddeling door de Raad, worden door de betrokken partijen onderworpen aan arbitrage overeenkomstig Bijlage B, die een integrerend deel van dit Verdrag vormt.
 
-#### Artikel 20. Wijzigingen
+##### Artikel 20. Wijzigingen
 
 1. De Raad kan wijzigingen op dit Verdrag aannemen, onder voorbehoud van schriftelijke bevestiging door alle Verdragsluitende Partijen.
 
 2. De wijzigingen treden voor alle Verdragsluitende Partijen in werking op de eerste dag van de derde maand nadat de Deense regering de Verdragsluitende Partijen in kennis heeft gesteld van de ontvangst van kennisgevingen van bekrachtiging, aanvaarding of goedkeuring van alle Verdragsluitende Partijen.
 
-#### Artikel 21. Depositaris
+##### Artikel 21. Depositaris
 
 1. Het origineel van dit Verdrag, alsmede latere wijzigingen daarop, en de akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd in het archief van de Deense regering.
 
@@ -214,31 +239,31 @@ Geschillen betreffende de uitlegging of toepassing van dit Verdrag en de Bijlage
 
 3. De Deense regering stelt alle Staten die het Verdrag hebben ondertekend of hiertoe zijn toegetreden en de fungerend voorzitter van de CEPT in kennis van alle ondertekeningen, bekrachtigingen, aanvaardingen, goedkeuringen en opzeggingen, alsmede van de inwerkingtreding van het Verdrag en van elke wijziging. De Deense regering stelt alle Staten die het Verdrag hebben ondertekend of hiertoe zijn toegetreden en de fungerend voorzitter van de CEPT voorts in kennis van de inwerkingtreding van elke toetreding.
 
-#### 1
+##### 1
 
 Ter verkrijging van een scheidsrechterlijke uitspraak in elk geding als bedoeld in artikel 19 van het Verdrag wordt een scheidsgerecht ingesteld overeenkomstig de onderstaande paragrafen.
 
-#### 2
+##### 2
 
 Elke Partij bij het Verdrag kan zich in de arbitrageprocedure voegen bij een partij bij het geschil.
 
-#### 3
+##### 3
 
 Het scheidsgerecht bestaat uit drie leden. Elke partij bij het geschil benoemt een scheidsman binnen een termijn van twee maanden te rekenen vanaf de datum van ontvangst van het verzoek van één van de partijen om het geschil aan arbitrage te onderwerpen. De eerste twee scheidsmannen benoemen binnen een termijn van zes maanden na de benoeming van de tweede scheidsman een derde scheidsman, die voorzitter van het scheidsgerecht is. Indien één van de twee scheidsmannen niet binnen de voorgeschreven termijn is benoemd, wordt deze op verzoek van één van de partijen benoemd door de Secretaris-Generaal van het Permanente Hof van Arbitrage. Deze procedure is ook van toepassing indien de voorzitter van het scheidsgerecht niet binnen de voorgeschreven termijn is benoemd.
 
-#### 4
+##### 4
 
 Het scheidsgerecht bepaalt waar zijn zetel is en stelt zijn eigen reglement van orde vast.
 
-#### 5
+##### 5
 
 De beslissing van het scheidsgerecht dient in overeenstemming te zijn met het internationale recht en dient gebaseerd te zijn op dit Verdrag en de algemene rechtsbeginselen.
 
-#### 6
+##### 6
 
 Elke partij draagt de kosten van de scheidsman die zij benoemt, alsmede de kosten van haar vertegenwoordiging voor het scheidsgerecht. De kosten van de voorzitter worden in gelijke delen gedragen door de partijen bij het geschil.
 
-#### 7
+##### 7
 
 De beslissing van het scheidsgerecht wordt genomen bij een meerderheid van stemmen van zijn leden, die zich niet van stemming mogen onthouden. De uitspraak is onherroepelijk en bindend voor alle partijen bij het geschil en hiertegen staat geen enkel rechtsmiddel open. De partijen gaan onverwijld over tot tenuitvoerlegging van de uitspraak. In geval van verschil van mening aangaande de betekenis of strekking van de uitspraak, legt het scheidsgerecht deze uit op verzoek van één van de partijen bij het geschil.
 

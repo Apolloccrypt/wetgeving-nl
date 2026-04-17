@@ -1,20 +1,46 @@
 ---
-title: "Regeling gegevenslevering openbare bibliotheekvoorzieningen"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 1 december 2014, nr. WJZ/687894 (10524), houdende vaststelling van regels over de verstrekking van gegevens door openbare bibliotheekvoorzieningen ten behoeve van beleidsontwikkeling (Regeling gegevenslevering openbare bibliotheekvoorzieningen)"
 identifier: "BWBR0035892"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035892"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035892"
+soort: "ministeriele-regeling"
+stam_id: "12874403"
+version_id: "21880182"
+internal_id: "C31402131"
+label_id: "12843914"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035892/2016-01-01/0"
+intitule_bron: "Stcrt.2014-35295"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-01"
+intitule_published: "2014-12-10"
+intitule_in_force: "2014-12-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-35295"
+original_signed_date: "2014-12-01"
+original_published_date: "2014-12-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-35295"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035892&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBR0035892&g=2016-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling gegevenslevering openbare bibliotheekvoorzieningen"
+signed_date: "2014-12-01"
+entry_into_force: "2015-01-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 1 december 2014, nr. WJZ/687894 (10524), houdende vaststelling van regels over de verstrekking van gegevens door openbare bibliotheekvoorzieningen ten behoeve van beleidsontwikkeling (Regeling gegevenslevering openbare bibliotheekvoorzieningen)
 
 Gelet op [artikel 11, vierde lid, van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=11)
 
 Besluit:
 
-#### Artikel 1. Gegevenslevering door lokale bibliotheken
+##### Artikel 1. Gegevenslevering door lokale bibliotheken
 
 1. Ten behoeve van de beleidsontwikkeling door de Minister van Onderwijs, Cultuur en Wetenschap levert een lokale bibliotheek jaarlijks gegevens over het voorgaande kalenderjaar aan. In afwijking van de eerste volzin kan op de website, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035892&artikel=5&z=2016-01-01&g=2016-01-01), worden aangegeven dat bepaalde gegevens meerjaarlijks worden aangeleverd.
 
@@ -34,7 +60,7 @@ Besluit:
 
 - g. baten en lasten.
 
-#### Artikel 2. Gegevenslevering landelijke digitale bibliotheek
+##### Artikel 2. Gegevenslevering landelijke digitale bibliotheek
 
 1. Ten behoeve van de beleidsontwikkeling door de Minister van Onderwijs, Cultuur en Wetenschap levert de Koninklijke Bibliotheek jaarlijks gegevens over de landelijke digitale bibliotheek over het voorgaande kalenderjaar aan. In afwijking van de eerste volzin kan op de website, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035892&artikel=5&z=2016-01-01&g=2016-01-01), worden aangegeven dat bepaalde gegevens meerjaarlijks worden aangeleverd.
 
@@ -46,7 +72,7 @@ Besluit:
 
 - c. lidmaatschap.
 
-#### Artikel 3. Gegevenslevering provinciale ondersteuningsinstellingen
+##### Artikel 3. Gegevenslevering provinciale ondersteuningsinstellingen
 
 1. Ten behoeve van de beleidsontwikkeling door de Minister van Onderwijs, Cultuur en Wetenschap levert een provinciale ondersteuningsinstelling jaarlijks gegevens over het voorgaande kalenderjaar aan. In afwijking van de eerste volzin kan op de website, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035892&artikel=5&z=2016-01-01&g=2016-01-01), worden aangegeven dat bepaalde gegevens meerjaarlijks worden aangeleverd.
 
@@ -62,21 +88,21 @@ Besluit:
 
 - e. baten en lasten.
 
-#### Artikel 4. Aanleverdatum
+##### Artikel 4. Aanleverdatum
 
 1. De lokale bibliotheken, provinciale ondersteuningsinstellingen en de Koninklijke Bibliotheek leveren de gegevens in enig jaar voor 1 mei aan.
 
 2. De eerste aanlevering van de gegevens door de lokale bibliotheken en de Koninklijke Bibliotheek vindt plaats in het jaar 2016 en de eerste aanlevering door de provinciale ondersteuningsinstellingen vindt plaats in 2017.
 
-#### Artikel 5. Wijze van aanlevering
+##### Artikel 5. Wijze van aanlevering
 
 De gegevens worden digitaal aangeleverd op een daartoe bestemde wijze op de website van de Koninklijke Bibliotheek.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2015.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling gegevenslevering openbare bibliotheekvoorzieningen.
 

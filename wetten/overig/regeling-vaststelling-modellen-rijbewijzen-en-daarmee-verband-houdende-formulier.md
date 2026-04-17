@@ -1,20 +1,45 @@
 ---
 title: "Regeling vaststelling modellen rijbewijzen en daarmee verband houdende formulieren"
 identifier: "BWBR0008038"
-categorie: "Overig"
-publicatiedatum: 2025-06-01
-laatste_update: 2025-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008038"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-06-01"
+last_updated: "2025-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008038"
+soort: "ministeriele-regeling"
+stam_id: "5214323"
+version_id: "25060532"
+internal_id: "C35839421"
+label_id: "5189374"
+dtd_version: "2.0"
+original_entry_into_force: "2018-06-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008038/2025-06-01/0"
+intitule_bron: "Stcrt.1996-101"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-05-14"
+intitule_published: "1996-05-30"
+intitule_in_force: "1996-05-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-28732"
+original_signed_date: "2018-06-12"
+original_published_date: "2018-06-13"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2018-28732"
+entry_into_force_date: "2018-06-14"
+jci_1_3: "jci1.3:c:BWBR0008038&z=2025-06-01&g=2025-06-01"
+jci_1_0: "1.0:c:BWBR0008038&g=2025-06-01"
+citeertitel_status: "officieel"
+signed_date: "2018-06-12"
+entry_into_force: "2018-06-14"
 ---
-
 # Regeling vaststelling modellen rijbewijzen en daarmee verband houdende formulieren
 
 Gelet op [artikel 107, tweede en derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107) en op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=11), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=33), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=52) en [99 van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=99);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor rijbewijzen en daarmee verband houdende formulieren worden de in de bijlagen bij deze regeling opgenomen modellen vastgesteld.
 
@@ -68,15 +93,15 @@ Model 8a: Begeleiderspas;
 
 Model 10: Begeleidingspas model 2018.
 
-#### Artikel 2
+##### Artikel 2
 
 De Minister van Infrastructuur en Waterstaat kan in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=1&z=2025-06-01&g=2025-06-01) besluiten dat model 6F na 1 oktober 2006 gedurende een door hem te bepalen termijn wordt afgegeven en dat model 6G wordt afgegeven met ingang van een door hem te bepalen tijdstip gelegen na 1 oktober 2006.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van 1 juni 1996.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: [Regeling vaststelling modellen rijbewijzen en daarmee verband houdende formulieren](https://wetten.overheid.nl/jci1.3:c:BWBR0008038).
 
@@ -300,15 +325,15 @@ Deze regeling zal worden geplaatst in de Staatscourant.
 
 Deze regeling zal worden geplaatst in de Staatscourant.
 
-#### Artikel 2a
+##### Artikel 2a
 
 In deze regeling wordt verstaan onder **publiek identificatiemiddel**: publiek identificatiemiddel als bedoeld in [artikel 5, vierde lid, van de Wet digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&artikel=5).
 
-#### Artikel 2b
+##### Artikel 2b
 
 Het rijbewijs is voorzien van een contactloze microchip die voldoet aan de eisen vastgelegd in Verordening (EU) nr. 383/2012 van de Commissie van 4 mei 2012 tot vaststelling van de technische voorschriften betreffende rijbewijzen met een ingebouwd opslagmedium (microchip) (PbEU 2012, L 120).
 
-#### Artikel 2c
+##### Artikel 2c
 
 Op de microchip staan de volgende gegevens:
 
@@ -350,7 +375,7 @@ Op de achterzijde kan ten behoeve van betrokkene informatie worden verstrekt.
 
 Deze regeling zal worden geplaatst in de Staatscourant.
 
-#### Artikel 2d
+##### Artikel 2d
 
 Indien de EU-typegoedkeuring van het rijbewijs die ten grondslag ligt aan model 6I wordt ingetrokken of dit naar oordeel van de Dienst Wegverkeer noodzakelijk is, wordt model 6I afgegeven, zonder dat de microchip van dat model is voorzien van gegevens, totdat de microchip weer is voorzien van een EU-typegoedkeuring of dit naar oordeel van de Dienst Wegverkeer weer mogelijk is.
 
@@ -404,15 +429,15 @@ Vervallen.
 
 Deze regeling zal worden geplaatst in de Staatscourant.
 
-#### Artikel 2c
+##### Artikel 2c
 
 Indien de EU-typegoedkeuring van het rijbewijs die ten grondslag ligt aan model 6I wordt ingetrokken of dit naar oordeel van de Dienst Wegverkeer noodzakelijk is, wordt model 6I afgegeven, zonder dat de microchip van dat model is voorzien van gegevens, totdat de microchip weer is voorzien van een EU-typegoedkeuring of dit naar oordeel van de Dienst Wegverkeer weer mogelijk is.
 
-#### Artikel 2e
+##### Artikel 2e
 
 Vervallen
 
-#### Artikel 2f
+##### Artikel 2f
 
 Op een rijbewijs dat een functionaliteit voor een publiek identificatiemiddel bevat wordt een door de Dienst Wegverkeer vast te stellen aanduiding van dat publieke identificatiemiddel geplaatst.
 

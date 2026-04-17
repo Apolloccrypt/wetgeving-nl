@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Expertgroep Gezondheid IJmond"
+title: "Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 17 oktober 2023, nr. IENW/BSK-2023/288283, houdende de instelling van de Expertgroep Gezondheid IJmond"
 identifier: "BWBR0048808"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2025-12-19
-laatste_update: 2025-12-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048808"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-19"
+last_updated: "2025-12-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048808"
+soort: "ministeriele-regeling"
+stam_id: "16896413"
+version_id: "29696912"
+internal_id: "C42551581"
+label_id: "16808184"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048808/2025-12-19/0"
+intitule_bron: "Stcrt.2023-29181"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-10-17"
+intitule_published: "2023-10-31"
+intitule_in_force: "2023-10-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-29181"
+original_signed_date: "2023-10-17"
+original_published_date: "2023-10-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-29181"
+entry_into_force_date: "2023-11-01"
+jci_1_3: "jci1.3:c:BWBR0048808&z=2025-12-19&g=2025-12-19"
+jci_1_0: "1.0:c:BWBR0048808&g=2025-12-19"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Expertgroep Gezondheid IJmond"
+signed_date: "2023-10-17"
+entry_into_force: "2023-11-01"
 ---
-
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 17 oktober 2023, nr. IENW/BSK-2023/288283, houdende de instelling van de Expertgroep Gezondheid IJmond
 
 Gelet op [artikel 2, eerste en tweede lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 BESLUIT:
 
-#### Artikel 1. (Begripsbepaling)
+##### Artikel 1. (Begripsbepaling)
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - f. **IJmond:** de gemeenten Velsen, Beverwijk en Heemskerk.
 
-#### Artikel 2. (Instelling en taak)
+##### Artikel 2. (Instelling en taak)
 
 1. Er is een Expertgroep Gezondheid IJmond.
 
@@ -48,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 - f. adviseren over kwesties op het gebied van gezondheid en milieu (leefomgeving) die in het kader van bovenstaande anderszins relevant kunnen zijn.
 
-#### Artikel 3. (Samenstelling van de expertgroep)
+##### Artikel 3. (Samenstelling van de expertgroep)
 
 1. De expertgroep bestaat uit een voorzitter en ten hoogste negen andere leden.
 
@@ -60,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 5. De voorzitter en de andere leden kunnen op eigen aanvraag worden ontslagen door de Minister. Zij kunnen voorts worden geschorst en ontslagen wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden.
 
-#### Artikel 4. (Instellingsduur)
+##### Artikel 4. (Instellingsduur)
 
 1. De leden van de expertgroep worden aangesteld voor de duur van twee jaar te rekenen vanaf de datum van inwerkingtreding van dit besluit.
 
@@ -68,7 +94,7 @@ In dit besluit wordt verstaan onder:
 
 3. De expertgroep wordt opgeheven op het moment dat de maatwerkafspraak met Tata Steel is gesloten.
 
-#### Artikel 5. (Advisering door de expertgroep)
+##### Artikel 5. (Advisering door de expertgroep)
 
 1. De advisering door de expertgroep richt zich in hoofdzaak op informatie die met betrekking tot de verschoning en verduurzaming van Tata Steel wordt opgesteld en de consequenties daarvan voor de gezondheid van inwoners in de IJmond.
 
@@ -86,7 +112,7 @@ In dit besluit wordt verstaan onder:
 
 4. De expertgroep kan externe deskundigen op ad hoc basis uitnodigen voor vergaderingen of voor aanleveren van informatie.
 
-#### Artikel 6. (Secretariaat)
+##### Artikel 6. (Secretariaat)
 
 1. De expertgroep wordt ondersteund door een secretariaat.
 
@@ -98,7 +124,7 @@ In dit besluit wordt verstaan onder:
 
 6. De expertgroep verstrekt desgevraagd aan de Staatssecretaris de voor de uitoefening van haar taak benodigde inlichtingen. De Staatssecretaris kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van diens taak redelijkerwijs nodig is.
 
-#### Artikel 7. (Vergoeding)
+##### Artikel 7. (Vergoeding)
 
 1. De voorzitter en de andere leden ontvangen per vergadering een vergoeding, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en hiermee niet het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag overschrijden.
 
@@ -106,7 +132,7 @@ In dit besluit wordt verstaan onder:
 
 3. De vergoeding per vergadering van de voorzitter van de commissie bedraagt € 412.
 
-#### Artikel 8. (Leden)
+##### Artikel 8. (Leden)
 
 1. Vanaf 1 november 2023, de datum van inwerkingtreding van dit besluit, worden voor een periode van twee jaar tot lid van de expertgroep benoemd:
 
@@ -154,7 +180,7 @@ In dit besluit wordt verstaan onder:
 
 - i. De heer prof. dr. J.O. Mierau, te Groningen.
 
-#### Artikel 9. (Kosten van de expertgroep)
+##### Artikel 9. (Kosten van de expertgroep)
 
 1. De kosten van de expertgroep komen, voor zover goedgekeurd, voor rekening van de Staatssecretaris. Onder kosten worden in ieder geval verstaan:
 
@@ -166,17 +192,17 @@ In dit besluit wordt verstaan onder:
 
 2. De expertgroep biedt zo spoedig mogelijk na haar instelling een begroting en een planning aan de Staatssecretaris aan.
 
-#### Artikel 10. (Openbaarmaking)
+##### Artikel 10. (Openbaarmaking)
 
 1. Rapporten, notities, verslagen, adviezen en andere producten die door of namens de Expertgroep worden vervaardigd of vergaard, worden niet door de Expertgroep openbaar gemaakt, maar uitsluitend aan de Staatssecretaris uitgebracht of overgedragen.
 
 2. De Staatssecretaris maakt de ontvangen stukken die door de Expertgroep definitief zijn vastgesteld onverwijld openbaar met inachtneming van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
 
-#### Artikel 11. (Inwerkingtreding)
+##### Artikel 11. (Inwerkingtreding)
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 12. (Citeertitel)
+##### Artikel 12. (Citeertitel)
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Expertgroep Gezondheid IJmond.
 

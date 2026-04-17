@@ -1,13 +1,37 @@
 ---
-title: "Reglement COKZ benamingen"
+title: "Gelet op artikel 10, derde lid, van de Landbouwkwaliteitswet maakt de Minister van Landbouw, Natuurbeheer en Visserij bekend het hierna opgenomen Reglement COKZ-benamingen van de Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel, goedgekeurd door de Staatssecretaris van Landbouw, Natuurbeheer en Visserij bij besluit van 15 augustus 1994, Nr. J. 9412308"
 identifier: "BWBR0006916"
-categorie: "Overig"
-publicatiedatum: 1995-01-23
-laatste_update: 1995-01-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006916"
+country: "nl"
+rank: "zbo"
+publication_date: "1995-01-23"
+last_updated: "1995-01-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006916"
+soort: "zbo"
+stam_id: "6763853"
+version_id: "11615892"
+internal_id: "C15652881"
+label_id: "6752144"
+original_entry_into_force: "1995-01-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006916/1995-01-23/0"
+intitule_bron: "Stcrt.1995-16"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-09-15"
+intitule_published: "1995-01-23"
+intitule_in_force: "1995-01-23"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-16"
+original_signed_date: "1994-09-15"
+original_published_date: "1995-01-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-01-23"
+jci_1_3: "jci1.3:c:BWBR0006916&z=1995-01-23&g=1995-01-23"
+jci_1_0: "1.0:c:BWBR0006916&g=1995-01-23"
+citeertitel_status: "officieel"
+short_title: "Reglement COKZ benamingen"
+signed_date: "1994-09-15"
+entry_into_force: "1995-01-23"
 ---
-
 # Gelet op artikel 10, derde lid, van de Landbouwkwaliteitswet maakt de Minister van Landbouw, Natuurbeheer en Visserij bekend het hierna opgenomen Reglement COKZ-benamingen van de Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel, goedgekeurd door de Staatssecretaris van Landbouw, Natuurbeheer en Visserij bij besluit van 15 augustus 1994, Nr. J. 9412308
 
 Gelet op [artikel 10, eerste lid, onder e, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=10) (Stb. 1971, 371), alsmede artikel 36, tweede lid, van de statuten van genoemde Stichting (Stcrt. 1992, 63);
@@ -16,7 +40,7 @@ Heeft in zijn vergadering van 15 september 1994 vastgesteld het navolgende regle
 
 #### Reglement controle op oorsprongsbenamingen, geografische aanduidingen en specificiteitscertificering (Reglement COKZ benamingen)
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 - a. Aangeslotene: iedere natuurlijke of rechtspersoon, die zich heeft aangesloten bij het COKZ in het kader van het [Besluit benamingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006327);
 
@@ -38,7 +62,7 @@ Heeft in zijn vergadering van 15 september 1994 vastgesteld het navolgende regle
 
 In dit reglement worden voor het overige overgenomen, de definities van het [Besluit benamingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006327), de [Regeling benamingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006397), EG-[verordening 2081/92](31992R2081) en EG-[verordening 2082/92](31992R2082).
 
-#### Artikel 2. Aangeslotenen; verplichtingen en aansprakelijkheden
+##### Artikel 2. Aangeslotenen; verplichtingen en aansprakelijkheden
 
 1. De aangeslotene is verplicht tot stipte naleving – en is aansprakelijk voor de naleving – van de voorschriften, vervat in het [Besluit benamingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006327) en onderwerpt zich aan het door het COKZ uit te oefenen toezicht op de naleving van het bij of krachtens het Besluit bepaalde, alsmede aan de door het COKZ te verrichten controles uit hoofde van dit reglement.
 
@@ -68,7 +92,7 @@ In dit reglement worden voor het overige overgenomen, de definities van het [Bes
 
 5. De aansprakelijkheid voor de naleving van de uit dit reglement voortvloeiende verplichtingen geldt onverminderd, indien voor anderen werkzaamheden, waarop de bepalingen van dit reglement van toepassing zijn, worden verricht.
 
-#### Artikel 3. Controle en toezicht
+##### Artikel 3. Controle en toezicht
 
 1. De controle van produkten en het toezicht op de naleving van de voorschriften vindt plaats in de bedrijfsruimten en op het bedrijfsterrein van de aangeslotene, in vervoermiddelen, alsmede op plaatsen waar hij de produkten heeft opgeslagen of doen opslaan, of ter verhandeling aanbiedt of doet aanbieden.
 
@@ -86,7 +110,7 @@ Een nader onderzoek, elders dan op de in het eerste lid aangegeven plaatsen, kan
 
 5. Desgewenst geeft het COKZ een verklaring af, dat een gecontroleerde partij voldoet aan de bepalingen van het produktdossier.
 
-#### Artikel 4. Monsterneming
+##### Artikel 4. Monsterneming
 
 1. De controle kan mede geschieden aan de hand van een door de keurmeester van het COKZ genomen monster, dat naar het oordeel van de keurmeester voor de partij representatief is.
 
@@ -96,7 +120,7 @@ Een nader onderzoek, elders dan op de in het eerste lid aangegeven plaatsen, kan
 
 4. Voor genomen monsters wordt geen vergoeding gegeven.
 
-#### Artikel 5. Afkeuring
+##### Artikel 5. Afkeuring
 
 1. Indien een gecontroleerde partij niet beantwoordt aan de eisen van het produktdossier, keurt – de keurmeester van – het COKZ de partij af en wordt een verklaring opgesteld, waarin in ieder geval wordt vermeld:
 
@@ -108,7 +132,7 @@ Een nader onderzoek, elders dan op de in het eerste lid aangegeven plaatsen, kan
 
 2. Het COKZ stelt de Minister van Landbouw, Natuurbeheer en Visserij en overige betrokkenen in kennis van de bij de uitoefening van de controle genomen maatregelen.
 
-#### Artikel 6. Bezwaar
+##### Artikel 6. Bezwaar
 
 1. De aangeslotene kan bij het bestuur van het COKZ bezwaar maken tegen een door of namens het COKZ vastgestelde uitslag van de controle. De [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) en [7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7) zijn van overeenkomstige toepassing.
 
@@ -116,11 +140,11 @@ Een nader onderzoek, elders dan op de in het eerste lid aangegeven plaatsen, kan
 
 3. Het COKZ stelt de Minister van Landbouw, Natuurbeheer en Visserij en overige betrokkenen op de hoogte van de uitspraak.
 
-#### Artikel 7. Werkafspraken met andere instellingen
+##### Artikel 7. Werkafspraken met andere instellingen
 
 Werkafspraken met de R.V.V. en overige controle-instellingen, alsmede afspraken en overeenkomsten met betrekking tot het delegeren van – een deel van – de controle, liggen ter inzage ten kantore van het COKZ.
 
-#### Artikel 8. Slotbepaling
+##### Artikel 8. Slotbepaling
 
 1. In die gevallen, waarin dit reglement niet voorziet, beslist het centraal bestuur van het COKZ.
 

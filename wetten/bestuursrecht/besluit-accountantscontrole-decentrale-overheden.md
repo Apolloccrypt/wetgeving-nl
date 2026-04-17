@@ -1,13 +1,39 @@
 ---
-title: "Besluit accountantscontrole decentrale overheden"
+title: "Besluit van 28 augustus 2003, houdende nadere voorschriften reikwijdte en rapportering accountantscontrole provincies en gemeenten (Besluit accountantscontrole provincies en gemeenten)"
 identifier: "BWBR0015524"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-04-17
-laatste_update: 2025-04-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015524"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-04-17"
+last_updated: "2025-04-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015524"
+soort: "AMvB"
+stam_id: "5294383"
+version_id: "30697912"
+internal_id: "C44003931"
+label_id: "5269854"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015524/2025-04-17/0"
+intitule_bron: "Stb.2003-362"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-08-28"
+intitule_published: "2003-09-18"
+intitule_in_force: "2003-09-18"
+intitule_status: "goed"
+original_publication: "Stb.2025-99"
+original_signed_date: "2025-03-21"
+original_published_date: "2025-04-16"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2025-99"
+entry_into_force_date: "2025-03-21"
+jci_1_3: "jci1.3:c:BWBR0015524&z=2025-04-17&g=2025-04-17"
+jci_1_0: "1.0:c:BWBR0015524&g=2025-04-17"
+citeertitel_status: "officieel"
+short_title: "Besluit accountantscontrole decentrale overheden"
+signed_date: "2025-03-21"
+entry_into_force: "2025-03-21"
 ---
-
 # Besluit van 28 augustus 2003, houdende nadere voorschriften reikwijdte en rapportering accountantscontrole provincies en gemeenten (Besluit accountantscontrole provincies en gemeenten)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties mede namens Onze Minister van Financiën van 9 mei 2003, FO2003/56474;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. (Begrippen)
+##### Artikel 1. (Begrippen)
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
@@ -32,7 +58,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 - –. **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba.
 
-#### Artikel 2. (Goedkeuringstolerantie)
+##### Artikel 2. (Goedkeuringstolerantie)
 
 1. De accountant gebruikt ten behoeve van de controle van de jaarrekening van de provincie, bedoeld in [artikel 217, derde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217), de jaarrekening van de gemeente, bedoeld in [artikel 213, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213) en de jaarrekening van het waterschap, bedoeld in [artikel 109, derde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109), een goedkeuringstolerantie van 2% van de omvangsbasis. Deze goedkeuringstolerantie geldt voor de gehele jaarrekening, inclusief de bijlagen.
 
@@ -50,11 +76,11 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 8. Provinciale staten, respectievelijk de raad en het algemeen bestuur kunnen de goedkeuringstolerantie voor de jaarrekening of voor deelverantwoordingen op een lager percentage vaststellen.
 
-#### Artikel 3. (Kwalitatieve aspecten)
+##### Artikel 3. (Kwalitatieve aspecten)
 
 Naast de kwantitatieve fouten en onzekerheden in de controle houdt de accountant bij de controle en de oordeelsvorming rekening met kwalitatieve aspecten. Indien kwalitatieve aspecten daartoe aanleiding geven kan de accountant een goedkeurende accountantsverklaring onthouden.
 
-#### Artikel 4. (Controleverklaring)
+##### Artikel 4. (Controleverklaring)
 
 1. Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Infrastructuur en Waterstaat kunnen modellen worden vastgesteld voor de provincie, voor de gemeente, voor het waterschap onderscheidenlijk voor het openbaar lichaam die de accountant hanteert voor de formulering van de controleverklaring.
 
@@ -62,7 +88,7 @@ Naast de kwantitatieve fouten en onzekerheden in de controle houdt de accountant
 
 3. Voor de strekking van de controleverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in de bijlage.
 
-#### Artikel 5. (Verslag van bevindingen)
+##### Artikel 5. (Verslag van bevindingen)
 
 1. De bedragen voor de rapporteringstoleranties die de accountant hanteert ten behoeve van de rapportering in het verslag van bevindingen zijn de bedragen die voortvloeien uit de goedkeuringstoleranties.
 
@@ -78,15 +104,15 @@ Naast de kwantitatieve fouten en onzekerheden in de controle houdt de accountant
 
 - c. € 125.000 indien de lasten groter dan € 1.000.000 zijn.
 
-#### Artikel 6. (Uitbreiding grondslag)
+##### Artikel 6. (Uitbreiding grondslag)
 
 Dit besluit berust mede op [artikel 38, zevende lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=38) en [artikel 109, zesde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109).
 
-#### Artikel 7. (Inwerkingtreding)
+##### Artikel 7. (Inwerkingtreding)
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het staatsblad waarin het wordt geplaatst.
 
-#### Artikel 8. (Citeertitel)
+##### Artikel 8. (Citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit accountantscontrole decentrale overheden.
 
@@ -154,7 +180,7 @@ Bij de oordeelsvorming over de jaarrekening spelen de goedkeuringstoleranties ee
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 3a. (Controle specifieke uitkeringen)
+##### Artikel 3a. (Controle specifieke uitkeringen)
 
 De accountant beoordeelt voor elke specifieke uitkering of er sprake is van risico’s die richtinggevend zijn voor de inrichting van de accountantscontrole. Indien de provincie of gemeente een of meer specifieke uitkeringen ontvangt met een omvang van tenminste € 125.000 in het verantwoordingsjaar voert de accountant in ieder geval voor elk van die specifieke uitkeringen een deelwaarneming uit.
 
@@ -200,7 +226,7 @@ Als één der of beide goedkeuringstolerantie(s) worden overschreden zal geen go
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a. (Reikwijdte)
+##### Artikel 1a. (Reikwijdte)
 
 De [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=3a&z=2025-04-17&g=2025-04-17) en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015524&artikel=5&z=2025-04-17&g=2025-04-17), van dit besluit zijn niet van toepassing op de openbare lichamen en de waterschappen.
 
@@ -252,7 +278,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. De accountant gebruikt ten behoeve van de oordeelsvorming over de jaarrekening van het openbaar lichaam, bedoeld in [artikel 38, vierde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=38), de volgende goedkeuringstoleranties:
 

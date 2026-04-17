@@ -1,18 +1,43 @@
 ---
 title: "Besluit draadomroep en kabelinrichtingen BES"
 identifier: "BWBR0028504"
-categorie: "Overig"
-publicatiedatum: 2022-05-13
-laatste_update: 2022-05-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028504"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2022-05-13"
+last_updated: "2022-05-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028504"
+soort: "AMvB-BES"
+stam_id: "10828833"
+version_id: "17807572"
+internal_id: "C24775721"
+label_id: "10803854"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028504/2022-05-13/0"
+intitule_bron: "Stb.2010-457"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-23"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-457"
+original_signed_date: "2010-09-23"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-457"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028504&z=2022-05-13&g=2022-05-13"
+jci_1_0: "1.0:c:BWBR0028504&g=2022-05-13"
+citeertitel_status: "officieel"
+signed_date: "2010-09-23"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit draadomroep en kabelinrichtingen BES
 
 #### § 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -28,7 +53,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. **bewijs van goedkeuring:** een bewijsstuk als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=8&artikel=21&z=2022-05-13&g=2022-05-13).
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=13), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=18), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=18a), [18b](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=18b), [18c](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=18c), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=19), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=23), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=31), en [33 van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=33).
 
@@ -36,11 +61,11 @@ Dit besluit berust op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 #### 1. Indiening van een aanvraag
 
-#### Artikel 2
+##### Artikel 2
 
 Een aanvraag om verlening, wijziging of intrekking van een machtiging, aanvullende machtiging of ontheffing voor een draadomroepinrichting of kabelinrichting dient te geschieden op een door Onze Minister te bepalen wijze.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanvraag om verlening of wijziging van een machtiging of een aanvullende machtiging voor een draadomroepinrichting bevat de volgende gegevens:
 
@@ -60,7 +85,7 @@ Een aanvraag om verlening, wijziging of intrekking van een machtiging, aanvullen
 
 2. De aanvraag tot verlening of wijziging van een aanvullende machtiging bevat naast gegevens als bedoeld in het eerste lid gegevens met betrekking tot het doel waarvoor de aanvullende machtiging of de wijziging daarvan wordt aangevraagd.
 
-#### Artikel 4
+##### Artikel 4
 
 De aanvraag om verlening of wijziging van een machtiging voor een kabelinrichting bevat de volgende gegevens:
 
@@ -74,7 +99,7 @@ De aanvraag om verlening of wijziging van een machtiging voor een kabelinrichtin
 
 - e. de technische gegevens die voor de beoordeling van de aanvraag nodig zijn en waarover de aanvrager redelijkerwijs de beschikking kan krijgen.
 
-#### Artikel 5
+##### Artikel 5
 
 De aanvraag om verlening of wijziging van een ontheffing bevat de volgende gegevens:
 
@@ -88,7 +113,7 @@ De aanvraag om verlening of wijziging van een ontheffing bevat de volgende gegev
 
 - e. de technische gegevens die voor de beoordeling van de aanvraag nodig zijn en waarover de aanvrager redelijkerwijs de beschikking kan krijgen.
 
-#### Artikel 6
+##### Artikel 6
 
 De aanvraag om intrekking van een machtiging, aanvullende machtiging of een ontheffing voor een draadomroepinrichting of kabelinrichting bevat tenminste de volgende gegevens:
 
@@ -98,27 +123,27 @@ De aanvraag om intrekking van een machtiging, aanvullende machtiging of een onth
 
 - c. redenen van de aanvraag.
 
-#### Artikel 7
+##### Artikel 7
 
 De aanvrager kan weigeren gegevens en bescheiden te verschaffen op grond van het feit dat het belang daarvan voor de beslissing van Onze Minister niet opweegt tegen het belang van de eerbiediging van de persoonlijke levenssfeer of tegen het belang van de bescherming van bedrijfsgegevens.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien een aanvraag niet is ingediend op de wijze krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=2&sub-paragraaf=1&artikel=2&z=2022-05-13&g=2022-05-13) voorgeschreven of indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de voorbereiding van de beschikking, verzoekt Onze Minister de aanvrager de aanvraag aan te vullen binnen een bij het verzoek te stellen termijn.
 
 #### 2. Behandeling van een aanvraag
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien verschillende aanvragen tot verlening of wijziging van een machtiging of aanvullende machtiging voor een draadomroepinrichting worden ingediend, zal van de aanvragen die tenminste voldoen aan [artikel 3, eerste lid, onderdelen a, b, c en g](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=2&sub-paragraaf=1&artikel=3&z=2022-05-13&g=2022-05-13), slechts de aanvraag die het eerste is ontvangen in behandeling worden genomen.
 
 2. Indien de ingevolge het eerste lid in behandeling genomen aanvraag wordt geweigerd, wordt de aanvraag die eerstvolgend op die eerdere aanvraag was ontvangen in behandeling genomen.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien Onze Minister voornemens is een aanvraag tot een machtiging, geheel of gedeeltelijk te weigeren op grond van gegevens over feiten en belangen die de aanvrager betreffen en die niet in overeenstemming zijn met de gegevens die de aanvrager ter zake zelf heeft verstrekt, wordt de aanvrager gedurende een door Onze Minister te stellen termijn in de gelegenheid gesteld zijn zienswijze daarover naar voren te brengen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Op een aanvraag als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=2&sub-paragraaf=1&artikel=2&z=2022-05-13&g=2022-05-13) wordt door Onze Minister beslist binnen drie maanden na ontvangst van de aanvraag.
 
@@ -128,7 +153,7 @@ Indien Onze Minister voornemens is een aanvraag tot een machtiging, geheel of ge
 
 #### § 3. Machtiging, aanvullende machtiging en ontheffing
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een machtiging, aanvullende machtiging of ontheffing wordt verleend voor ten hoogste tien jaren.
 
@@ -160,7 +185,7 @@ Indien Onze Minister voornemens is een aanvraag tot een machtiging, geheel of ge
 
 - m. de bescherming van de rechten van derden en de nakoming van bindende verdragen en besluiten van volkenrechtelijke organisaties.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Onze Minister kan bepalen dat de machtiginghouder verplicht is aantekening te houden van de aangesloten gebruikers alsmede de gemeten waarden van de omroepsignalen bij de gebruikers.
 
@@ -174,7 +199,7 @@ Indien Onze Minister voornemens is een aanvraag tot een machtiging, geheel of ge
 
 4. De gegevens, welke in de lijst van aantekeningen zijn opgenomen, moeten maandelijks ter goedkeuring worden overlegd aan Onze Minister en dienen tenminste drie jaar te worden bewaard.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Onze Minister kan bepalen dat de machtiginghouder verplicht is de regels met betrekking tot de aansluiting, afsluiting, het onderhoud en de reparatie alsmede de rechten en aansprakelijkheden van de gebruiker en de machtiginghouder in een standaardcontract tussen de gebruiker en machtiginghouder neer te leggen en overeen te komen.
 
@@ -182,13 +207,13 @@ Indien Onze Minister voornemens is een aanvraag tot een machtiging, geheel of ge
 
 3. Het is de machtiginghouder niet toegestaan om zonder overleg met of toestemming van Onze Minister, veranderingen aan te brengen in een zodanig standaardcontract.
 
-#### Artikel 15
+##### Artikel 15
 
 Indien de houder van de verleende machtiging, aanvullende machtiging of ontheffing deze niet binnen een periode van twaalf maanden gebruikt, trekt Onze Minister deze in behoudens ingeval zulks naar het oordeel van Onze Minister als onredelijk is aan te merken. In dat geval bepaalt Onze Minister een termijn waarbinnen de machtiging, aanvullende machtiging of ontheffing alsnog gebruikt dient te worden. Geschiedt zulks niet binnen die termijn dan trekt Onze Minister de machtiging in.
 
 #### § 4. Registratie
 
-#### Artikel 16
+##### Artikel 16
 
 1. Door of namens Onze Minister wordt een register bijgehouden van alle verleende machtigingen. Daarin worden in ieder geval vermeld:
 
@@ -202,13 +227,13 @@ Indien de houder van de verleende machtiging, aanvullende machtiging of ontheffi
 
 #### § 5. Vergoeding
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
 #### § 6. Technische eisen
 
-#### Artikel 18
+##### Artikel 18
 
 1. Onze Minister stelt technische eisen vast waaraan zend- en ontvanginrichtingen voor gebruik in een draadomroep- of kabelinrichting dienen te voldoen.
 
@@ -244,7 +269,7 @@ Vervallen
 
 #### § 7. Installeren van draadomroep- en kabelinrichtingen
 
-#### Artikel 19
+##### Artikel 19
 
 1. Degene die draadomroep- of kabelinrichtingen installeert dan wel diegene die onmiddellijke leiding geeft aan de uitoefening van een bedrijf voor het installeren en in stand houden van draadomroep- of kabelinrichtingen dient in het bezit te zijn van:
 
@@ -256,7 +281,7 @@ Vervallen
 
 2. Onze Minister kan met een diploma als bedoeld in het eerste lid gelijkstellen het diploma van een opleiding van een ander land, indien dat diploma ten aanzien van eisen van vakbekwaamheid voor het installeren van draadomroep- of kabelinrichtingen naar diens oordeel gelijkwaardig is aan een diploma als bedoeld in het eerste lid.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De erkenning van een vakopleiding als bedoeld in [artikel 19, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=7&artikel=19&z=2022-05-13&g=2022-05-13), geschiedt op aanvraag van een door Onze Minister als representatief erkende beroeps- of bedrijfsorganisatie, werkzaam of mede werkzaam op het gebied van het installeren van draadomroep- of kabelinrichtingen.
 
@@ -270,7 +295,7 @@ Vervallen
 
 #### § 8. Keuring
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een draadomroep- of kabelinrichting alsmede het daarmee verbonden kabelnet mogen niet in bedrijf worden genomen alvorens deze door of namens Onze Minister zijn goedgekeurd. De verlening van de goedkeuring geschiedt door afgifte van een bewijs van goedkeuring waarin in elk geval zijn opgenomen:
 
@@ -304,7 +329,7 @@ Vervallen
 
 #### § 9. Storingen en behandeling storingsklachten
 
-#### Artikel 22
+##### Artikel 22
 
 1. De door Onze Minister ingevolge [artikel 33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=33) te geven aanwijzingen tot het voorkomen en opheffen van storingen en belemmeringen kunnen betreffen:
 
@@ -316,21 +341,21 @@ Vervallen
 
 3. Aan de in het eerste lid, onderdeel a, bedoelde verplichting dient door de houder van de draadomroep- of kabelinrichting te worden voldaan binnen zes weken nadat de aanwijzing is gegeven.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Indien een krachtens [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=8&artikel=21&z=2022-05-13&g=2022-05-13), gegeven aanwijzing tot het treffen van voorzieningen aan een inrichting niet binnen zes weken is opgevolgd, kan een toezicht houdende ambtenaar deze voorzieningen, na voorafgaande schriftelijke waarschuwing, treffen of doen treffen.
 
 2. De bij een krachtens [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=8&artikel=21&z=2022-05-13&g=2022-05-13), gegeven aanwijzing opgelegde verplichting om het gebruik van een draadomroep- of kabelinrichting te staken wordt opgeheven, nadat een toezicht houdende ambtenaar heeft vastgesteld, dat de in die aanwijzing bevolen voorzieningen zijn getroffen dan wel dat geen storing of belemmering meer wordt veroorzaakt.
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Toewijzing van radiofrequenties voor het zendgedeelte van een draadomroep- of kabelinrichting geeft geen aanspraak op een exclusief en storingvrij gebruik daarvan.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Klachten over storingen of belemmeringen door draadomroep- of kabelinrichtingen in andere zendinrichtingen, ontvanginrichtingen of overige elektrische of elektronische inrichtingen worden behandeld overeenkomstig door Onze Minister te stellen regels.
 
@@ -340,7 +365,7 @@ Toewijzing van radiofrequenties voor het zendgedeelte van een draadomroep- of ka
 
 #### § 10. Waarschuwing, administratieve boete en intrekking
 
-#### Artikel 27
+##### Artikel 27
 
 1. Tot toepassing van de [artikelen 18, vijfde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=18), [18b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=18b), voorzover dit artikelonderdeel ziet op de overeenkomstige toepassing van artikel 18, vijfde lid, onderdeel a, [18c, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=18c), en [33, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=33) wordt slechts overgegaan nadat de machtiginghouder aan een terzake gegeven schriftelijke waarschuwing geen gevolg heeft, gegeven. Voorzover het voor het gevolg geven aan de waarschuwing nodig is om aan de draadomroep- of kabelinrichtingen voorzieningen te treffen, wordt in de waarschuwing daartoe een termijn gesteld van tenminste zes weken.
 
@@ -348,32 +373,32 @@ Toewijzing van radiofrequenties voor het zendgedeelte van een draadomroep- of ka
 
 #### § 12. Overgangs- en slotbepalingen
 
-#### Artikel 28
+##### Artikel 28
 
 1. Draadomroep- en kabelinrichtingen die krachtens artikel 28, eerste volzin, van het Landsbesluit draadomroep en kabelinrichtingen worden aangemerkt als draadomroep- en kabelinrichting als bedoeld in artikel 18, onderscheidenlijk artikel 18c van de Landsverordening telecommunicatievoorzieningen worden gelijkgesteld met draadomroep- en kabelinrichtingen als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=18) onderscheidenlijk [artikel 18c van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=18c).
 
 2. Een goedkeuring als bedoeld in artikel 28, tweede volzin, van het Landsbesluit draadomroep en kabelinrichtingen die krachtens voornoemd artikel gelijk is gesteld met een goedkeuring verleend krachtens artikel 21, eerste lid, van het Landsbesluit draadomroep en kabelinrichtingen wordt gelijkgesteld met een goedkeuring verleend krachtens [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=8&artikel=21&z=2022-05-13&g=2022-05-13).
 
-#### Artikel 29
+##### Artikel 29
 
 Technische eisen die krachtens artikel 18, eerste lid, van het Landsbesluit draadomroep en kabelinrichtingen zijn vastgesteld, alsmede technische eisen als bedoeld in artikel 29 van het Landsbesluit draadomroep en kabelinrichtingen, voor zover laatstbedoelde eisen niet zijn vervangen ingevolge artikel 18, eerste lid, van het Landsbesluit draadomroep en kabelinrichtingen, blijven gelden tot het tijdstip dat Onze Minister krachtens [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=6&artikel=18&z=2022-05-13&g=2022-05-13), nieuwe technische eisen heeft vastgesteld.
 
-#### Artikel 29a
+##### Artikel 29a
 
 De geldigheidsduur van een machtiging, aanvullende machtiging of ontheffing die is verleend krachtens de artikelen 18, eerste lid, 18b, tweede lid, 18c, eerste lid, of 19, tweede lid, van de Landsverordening telecommunicatievoorzieningen is, gerekend vanaf het tijdstip van verlening, gelijk aan de duur waarvoor de machtiging, aanvullende machtiging of ontheffing is verleend.
 
-#### Artikel 29b
+##### Artikel 29b
 
 Een goedkeuring verleend krachtens artikel 14, tweede lid, van het Landsbesluit draadomroep en kabelinrichtingen wordt gelijkgesteld met een goedkeuring verleend krachtens [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=3&artikel=14&z=2022-05-13&g=2022-05-13).
 
-#### Artikel 29c
+##### Artikel 29c
 
 Een erkenning van een vakopleiding die is verleend krachtens artikel 19, eerste lid, van het Landsbesluit draadomroep en kabelinrichtingen is gelijk gesteld met een erkenning verleend krachtens [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=7&artikel=19&z=2022-05-13&g=2022-05-13).
 
-#### Artikel 30
+##### Artikel 30
 
 Een goedkeuring die is verleend krachtens artikel 21, eerste lid, van het Landsbesluit draadomroep en kabelinrichtingen wordt gelijkgesteld met een goedkeuring verleend krachtens [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=8&artikel=21&z=2022-05-13&g=2022-05-13).
 
-#### Artikel 31
+##### Artikel 31
 
 Dit besluit wordt aangehaald als: Besluit draadomroep en kabelinrichtingen BES.

@@ -1,13 +1,35 @@
 ---
 title: "Tijdelijk Reglement Adviescommissie Innovatie Zorgberoepen & Opleidingen 2012"
 identifier: "BWBR0031569"
-categorie: "Sociaal recht"
-publicatiedatum: 2012-05-23
-laatste_update: 2012-05-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031569"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-05-23"
+last_updated: "2012-05-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031569"
+soort: "zbo"
+stam_id: "11735643"
+version_id: "19388352"
+internal_id: "C27125821"
+label_id: "11708304"
+dtd_version: "2.0"
+original_entry_into_force: "2012-05-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031569/2012-05-23/0"
+intitule_bron: "Stcrt.2012-9773"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2012-05-21"
+intitule_in_force: "2012-05-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-9773"
+original_published_date: "2012-05-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-9773"
+entry_into_force_date: "2012-05-23"
+jci_1_3: "jci1.3:c:BWBR0031569&z=2012-05-23&g=2012-05-23"
+jci_1_0: "1.0:c:BWBR0031569&g=2012-05-23"
+citeertitel_status: "officieel"
+entry_into_force: "2012-05-23"
 ---
-
 # Tijdelijk Reglement Adviescommissie Innovatie Zorgberoepen & Opleidingen 2012
 
 Gelet op artikel 7, 8, 10, 11, 12 en 13 van het Bestuursreglement College voor zorgverzekeringen 2007;
@@ -16,7 +38,7 @@ Heeft in zijn vergadering van 3 mei 2012 besloten:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Dit reglement verstaat onder:
 
@@ -32,7 +54,7 @@ Dit reglement verstaat onder:
 
 ### Hoofdstuk 2. De adviescommissie innovatie zorgberoepen & opleidingen: instelling en taak
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het College voor zorgverzekeringen heeft een Adviescommissie Innovatie Zorgberoepen & Opleidingen.
 
@@ -52,7 +74,7 @@ Dit reglement verstaat onder:
 
 7. De commissie stelt vast hoe zij de taak, bedoeld in het zesde lid, vormgeeft. Daarbij besteedt de commissie ten minste aandacht aan de wijze waarop de commissie inspraak verleent aan veldpartijen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Door de commissie gemaakte adviezen en signalementen worden aan de minister uitgebracht na overleg tussen de voorzitter en het bestuur.
 
@@ -60,7 +82,7 @@ Dit reglement verstaat onder:
 
 ### Hoofdstuk 3. Ondersteuning van de commissie
 
-#### Artikel 4
+##### Artikel 4
 
 1. De voorzitter van het bestuur wijst na overleg met de voorzitter van de commissie een medewerker van de organisatie van het College voor zorgverzekeringen aan die de commissie als secretaris ondersteunt. Tevens wijst de voorzitter van het bestuur een plaatsvervangend secretaris aan.
 
@@ -74,7 +96,7 @@ Dit reglement verstaat onder:
 
 ### Hoofdstuk 4. De vergaderingen van de commissie
 
-#### Artikel 5
+##### Artikel 5
 
 1. De commissie vergadert achter gesloten deuren tenzij de voorzitter anders beslist.
 
@@ -84,7 +106,7 @@ Dit reglement verstaat onder:
 
 4. Op verzoek van één of meer commissieleden kan de voorzitter beslissen een extra vergadering te houden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De voorzitter stelt de agenda voor de vergaderingen van de commissie samen.
 
@@ -102,7 +124,7 @@ Dit reglement verstaat onder:
 
 8. De secretaris stuurt het bestuur een afschrift van de agenda toe.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De voorzitter leidt de vergadering en is belast met de handhaving van de orde in de vergadering.
 
@@ -114,7 +136,7 @@ Dit reglement verstaat onder:
 
 5. De voorzitter kan de beraadslagingen sluiten, zodra hij meent, dat een agendapunt voldoende is toegelicht.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De secretaris draagt zorg voor een ontwerp van een zakelijk verslag van elke vergadering.
 
@@ -122,7 +144,7 @@ Dit reglement verstaat onder:
 
 3. De secretaris zendt het ontwerp van het verslag aan de commissieleden en aan degenen die de vergadering op uitnodiging hebben bijgewoond toe voor het op hen betrekking hebbende deel, zo mogelijk en zo nodig tegelijk met de agenda voor de daarop volgende vergadering. Aan de hand van over het ontwerp gemaakte op- en aanmerkingen stelt de commissie het verslag in de eerstvolgende vergadering vast.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De voorzitter kan medewerkers van het College voor zorgverzekeringen uitnodigen aan een vergadering of een deel daarvan deel te nemen.
 
@@ -130,7 +152,7 @@ Dit reglement verstaat onder:
 
 ### Hoofdstuk 5. De stemmingen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Stemmingen van de commissie zijn mondeling.
 
@@ -140,7 +162,7 @@ Dit reglement verstaat onder:
 
 4. Indien de stemmen staken beslist de voorzitter.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Bij een stemming brengt ieder commissielid één stem uit.
 
@@ -150,13 +172,13 @@ Dit reglement verstaat onder:
 
 4. In geval van een niet geldige stemming vindt in een volgende vergadering herstemming plaats. De herstemming is geldig, ongeacht het aantal commissieleden dat eraan heeft deelgenomen.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien voor een advies of signalement geen van de commissieleden stemming vraagt, wordt het voorstel geacht te zijn aangenomen.
 
 ### Hoofdstuk 6. Schriftelijke raadpleging en vergaderen met behulp van telecommunicatie
 
-#### Artikel 13
+##### Artikel 13
 
 1. In bijzondere gevallen worden besluiten genomen door schriftelijke raadpleging van de commissieleden.
 
@@ -164,7 +186,7 @@ Indien voor een advies of signalement geen van de commissieleden stemming vraagt
 
 3. Indien één of meer commissieleden binnen de ingevolge het tweede lid gestelde termijn de voorzitter schriftelijk meedelen zich te verzetten tegen een schriftelijke raadpleging, wordt het voorstel op de agenda van de eerstvolgende vergadering van de commissie geplaatst en in die vergadering behandeld.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De voorzitter kan besluiten tot een vergadering waarbij degenen die aan de vergadering deelnemen met behulp van middelen van telecommunicatie gelijktijdig beraadslagen.
 
@@ -172,34 +194,34 @@ Indien voor een advies of signalement geen van de commissieleden stemming vraagt
 
 ### Hoofdstuk 7. Machtigingen
 
-#### Artikel 15
+##### Artikel 15
 
 De commissie kan de voorzitter machtigen om namens de commissie, zonder een vergadering of stemming van de commissie, een advies of signalement te maken voor de minister.
 
 ### Hoofdstuk 8. Overige bepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 De commissie informeert het bestuur over voorgenomen besluiten in haar hoedanigheid van bestuursorgaan in het kader van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252).
 
-#### Artikel 17
+##### Artikel 17
 
 De vergoeding van de reis- en verblijfkosten en verdere vergoedingen aan de commissieleden stelt het college vast overeenkomstig de [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775).
 
-#### Artikel 18
+##### Artikel 18
 
 In die gevallen waarin het reglement niet voorziet neemt de voorzitter beslissingen ter bevordering van een goede gang van zaken tijdens de vergaderingen.
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 Dit besluit kan worden aangehaald als: Tijdelijk Reglement Adviescommissie Innovatie Zorgberoepen & Opleidingen 2012.
 
-#### Artikel 20
+##### Artikel 20
 
 Dit besluit wordt gepubliceerd in de Staatscourant.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit treedt in werking met ingang van de tweede dag na publicatie daarvan in de Staatscourant.

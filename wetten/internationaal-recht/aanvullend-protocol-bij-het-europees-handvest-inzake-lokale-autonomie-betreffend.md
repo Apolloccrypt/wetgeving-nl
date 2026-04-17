@@ -1,13 +1,35 @@
 ---
 title: "Aanvullend Protocol bij het Europees Handvest inzake lokale autonomie betreffende het recht op participatie in de aangelegenheden van lokale autoriteiten"
 identifier: "BWBV0003999"
-categorie: "Internationaal recht"
-publicatiedatum: 2012-06-01
-laatste_update: 2012-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003999"
+country: "nl"
+rank: "verdrag"
+publication_date: "2012-06-01"
+last_updated: "2012-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003999"
+soort: "verdrag"
+stam_id: "10003806553"
+version_id: "10003872032"
+internal_id: "C10007771671"
+label_id: "10003791254"
+dtd_version: "2.0"
+original_entry_into_force: "2012-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003999/2012-06-01/0"
+intitule_bron: "Trb.2009-227"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-12-18"
+intitule_in_force: "2012-03-28"
+intitule_status: "goed"
+original_publication: "Trb.2009-227"
+original_published_date: "2009-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2009-227"
+entry_into_force_date: "2012-06-01"
+jci_1_3: "jci1.3:c:BWBV0003999&z=2012-06-01&g=2012-06-01"
+jci_1_0: "1.0:c:BWBV0003999&g=2012-06-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2012-06-01"
 ---
-
 # Aanvullend Protocol bij het Europees Handvest inzake lokale autonomie betreffende het recht op participatie in de aangelegenheden van lokale autoriteiten
 
 Preambule
@@ -28,7 +50,7 @@ Tevens indachtig de Verklaring en het Actieplan aangenomen tijdens de derde top 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Recht op participatie in de aangelegenheden van lokale autoriteiten
+##### Artikel 1. Recht op participatie in de aangelegenheden van lokale autoriteiten
 
 1. Iedere staat die partij is waarborgt dat eenieder die onder zijn rechtsmacht valt het recht heeft te participeren in de aangelegenheden van lokale autoriteiten.
 
@@ -46,7 +68,7 @@ Zijn het volgende overeengekomen:
 
 5.3. Eventuele andere formaliteiten, voorwaarden of beperkingen dienen noodzakelijk te zijn voor het functioneren van een effectieve politieke democratie, voor het handhaven van de openbare veiligheid in een democratische samenleving of voor de naleving door de partij van de eisen van haar internationaalrechtelijke verplichtingen.
 
-#### Artikel 2. Uitvoeringsmaatregelen voor het recht op participatie
+##### Artikel 2. Uitvoeringsmaatregelen voor het recht op participatie
 
 1. De partijen nemen alle maatregelen die nodig zijn om uitvoering te geven aan het recht op participatie in de aangelegenheden van lokale autoriteiten.
 
@@ -70,11 +92,11 @@ Zijn het volgende overeengekomen:
 
 4. Bij de plannings- en besluitvormingsprocessen inzake maatregelen die genomen moeten worden om uitvoering te geven aan het recht op participatie in de aangelegenheden van lokale autoriteiten, dienen de lokale autoriteiten voor zover mogelijk tijdig en op passende wijze te worden geraadpleegd.
 
-#### Artikel 3. Autoriteiten waarop het Protocol van toepassing is
+##### Artikel 3. Autoriteiten waarop het Protocol van toepassing is
 
 Dit Protocol is van toepassing op alle categorieën lokale autoriteiten op het grondgebied van de partij. Iedere staat kan evenwel bij de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring de categorieën lokale of regionale autoriteiten aanwijzen waartoe hij de werking van dit Protocol beoogt te beperken of die hij van de werking van het Protocol beoogt uit te sluiten. De staat kan tevens meer categorieën lokale of regionale autoriteiten onder de werking van het Protocol brengen door middel van een latere kennisgeving aan de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 4. Territoriale toepassing
+##### Artikel 4. Territoriale toepassing
 
 1. Iedere staat kan op het tijdstip van ondertekening of nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring, het gebied of de gebieden aanwijzen waarop dit Protocol van toepassing is.
 
@@ -82,7 +104,7 @@ Dit Protocol is van toepassing op alle categorieën lokale autoriteiten op het g
 
 3. Iedere krachtens de twee voorgaande leden gedane verklaring kan, met betrekking tot elk in die verklaring nader aangeduid gebied, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van die kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 5. Ondertekening en inwerkingtreding
+##### Artikel 5. Ondertekening en inwerkingtreding
 
 1. Dit Protocol staat open voor ondertekening door de lidstaten van de Raad van Europa die het Handvest hebben ondertekend. Het Protocol dient te worden bekrachtigd, aanvaard of goedgekeurd. Een lidstaat van de Raad van Europa kan dit Protocol uitsluitend bekrachtigen, aanvaarden of goedkeuren na of tegelijkertijd met de bekrachtiging, aanvaarding of goedkeuring van het Handvest. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -90,13 +112,13 @@ Dit Protocol is van toepassing op alle categorieën lokale autoriteiten op het g
 
 3. Met betrekking tot iedere lidstaat die later zijn instemming door het Protocol te worden gebonden tot uitdrukking brengt, treedt het Protocol in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 6. Opzegging
+##### Artikel 6. Opzegging
 
 1. Iedere partij kan dit Protocol te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
 2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 7. Kennisgevingen
+##### Artikel 7. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa in kennis van:
 

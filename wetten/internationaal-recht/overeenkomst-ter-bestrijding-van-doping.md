@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst ter bestrijding van doping"
 identifier: "BWBV0004757"
-categorie: "Internationaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2004-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004757"
+country: "nl"
+rank: "verdrag"
+publication_date: "2026-01-01"
+last_updated: "2004-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004757"
+soort: "verdrag"
+stam_id: "10004303133"
+version_id: "10004501832"
+internal_id: "C10006986031"
+label_id: "10004288424"
+dtd_version: "2.0"
+original_entry_into_force: "1995-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004757/2026-01-01/0"
+intitule_bron: "Trb.1991-8"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-04-11"
+intitule_published: "1991-01-23"
+intitule_in_force: "1995-05-11"
+intitule_status: "goed"
+original_publication: "Trb.1991-8"
+original_signed_date: "1995-04-11"
+original_published_date: "1991-01-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1991-8"
+entry_into_force_date: "1995-06-01"
+jci_1_3: "jci1.3:c:BWBV0004757&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBV0004757&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "1995-04-11"
+entry_into_force: "1995-06-01"
 ---
-
 # Overeenkomst ter bestrijding van doping
 
 Preambule
@@ -38,11 +63,11 @@ Niettemin vastbesloten nadere maatregelen te nemen, in hechtere samenwerking, ge
 
 zijn het volgende overeengekomen:
 
-#### Artikel 1. Doel van de Overeenkomst
+##### Artikel 1. Doel van de Overeenkomst
 
 De Partijen verbinden zich ertoe, in het streven naar de vermindering en uiteindelijke uitbanning van doping in de sport, binnen de grenzen van hun onderscheiden constitutionele bepalingen, de noodzakelijke stappen te nemen om de bepalingen van deze Overeenkomst toe te passen.
 
-#### Artikel 2. Begripsomschrijvingen en werkingssfeer van de Overeenkomst
+##### Artikel 2. Begripsomschrijvingen en werkingssfeer van de Overeenkomst
 
 1. Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
@@ -54,13 +79,13 @@ De Partijen verbinden zich ertoe, in het streven naar de vermindering en uiteind
 
 2. Totdat een lijst van verboden farmacologische groepen van dopingmiddelen en dopingmethoden door de Commissie van Toezicht is goedgekeurd overeenkomstig het bepaalde in artikel 11, eerste lid, letter b, is de lijst in het aanhangsel bij deze Overeenkomst van toepassing.
 
-#### Artikel 3. Coördinatie op binnenlands niveau
+##### Artikel 3. Coördinatie op binnenlands niveau
 
 1. De Partijen coördineren de beleidslijnen en maatregelen van hun overheidsdiensten, en andere openbare organen die betrokken zijn bij de bestrijding van doping in de sport.
 
 2. Zij dragen er zorg voor dat deze Overeenkomst in de praktijk wordt toegepast, en met name dat aan de vereisten, krachtens artikel 7 wordt voldaan, door de uitvoering van een aantal bepalingen van deze Overeenkomst, wanneer er aanleiding toe is, op te dragen aan een aangewezen gouvernementele of niet-gouvernementele sportautoriteit of sportorganisatie.
 
-#### Artikel 4. Maatregelen ter beperking van de beschikbaarheid en het gebruik van verboden dopingmiddelen en dopingmethoden
+##### Artikel 4. Maatregelen ter beperking van de beschikbaarheid en het gebruik van verboden dopingmiddelen en dopingmethoden
 
 1. Wanneer er aanleiding toe is nemen de Partijen wetten, regelingen of bestuurlijke maatregelen aan ter beperking van de beschikbaarheid (met name bepalingen ter beheersing van het verkeer, het bezit, de invoer, de verspreiding en de verkoop) alsmede van het gebruik in de sport van verboden dopingmiddelen en dopingmethoden en in het bijzonder van anabole steroïden.
 
@@ -78,7 +103,7 @@ De Partijen verbinden zich ertoe, in het streven naar de vermindering en uiteind
 
 4. De Partijen behouden zich het recht voor regelingen ter bestrijding van doping aan te nemen en op eigen initiatief en voor eigen verantwoordelijkheid dopingcontroles te houden, mits deze verenigbaar zijn met de desbetreffende beginselen van deze Overeenkomst.
 
-#### Artikel 5. Laboratoria
+##### Artikel 5. Laboratoria
 
 1. Elke Partij verbindt zich tot:
 
@@ -94,13 +119,13 @@ De Partijen verbinden zich ertoe, in het streven naar de vermindering en uiteind
 
 - c. nieuwe gegevens uit hun onderzoeken snel te publiceren en te verspreiden.
 
-#### Artikel 6. Onderwijs
+##### Artikel 6. Onderwijs
 
 1. De Partijen verbinden zich ertoe voorlichtingsprogramma's en informatiecampagnes te ontwerpen en uit te voeren, wanneer er aanleiding toe is in samenwerking met de betrokken sportorganisaties en de massamedia, waarin de nadruk wordt gelegd op de gevaren voor de gezondheid inherent aan doping en op de schade die doping toebrengt aan de ethische waarden in de sport. Die programma's en campagnes worden gericht op zowel jongeren op scholen en bij sportverenigingen als hun ouders, alsmede op volwassen sportmensen, sportfunctionarissen, coaches en trainers. Voor degenen die werkzaam zijn op medisch gebied, zal in deze onderwijsprogramma's de nadruk worden gelegd op de medische ethiek.
 
 2. De Partijen verbinden zich tot het stimuleren en bevorderen van onderzoek, in samenwerking met de betrokken regionale, nationale en internationale sportorganisaties, naar manieren en middelen om wetenschappelijk gebaseerde fysiologische en psychologische trainingsprogramma's te ontwerpen waarin de integriteit van het individu wordt geëerbiedigd.
 
-#### Artikel 7. Samenwerking met sportorganisaties inzake door hen te nemen maatregelen
+##### Artikel 7. Samenwerking met sportorganisaties inzake door hen te nemen maatregelen
 
 1. De Partijen verbinden zich ertoe hun sportorganisaties en, door hun tussenkomst, de internationale sportorganisaties aan te moedigen tot het formuleren en toepassen van alle onder hun bevoegdheid vallende passende maatregelen ter bestrijding van doping in de sport.
 
@@ -138,7 +163,7 @@ De Partijen verbinden zich ertoe, in het streven naar de vermindering en uiteind
 
 - f. wetenschappelijke trainingsmethoden te bestuderen en richtlijnen te ontwerpen om sportmensen van alle leeftijden te beschermen, aangepast aan de desbetreffende sport.
 
-#### Artikel 8. Internationale samenwerking
+##### Artikel 8. Internationale samenwerking
 
 1. De Partijen werken nauw samen ten aanzien van de door deze Overeenkomst bestreken aangelegenheden en stimuleren soortgelijke samenwerking tussen hun sportorganisaties.
 
@@ -152,11 +177,11 @@ De Partijen verbinden zich ertoe, in het streven naar de vermindering en uiteind
 
 3. De Partijen die beschikken over overeenkomstig artikel 5 op hun grondgebied opgerichte of reeds werkzame laboratoria, verbinden zich ertoe andere Partijen te ondersteunen ten einde hen in staat te stellen de nodige ervaring, vaardigheden en technieken te verwerven om hun eigen laboratoria op te richten.
 
-#### Artikel 9. Verstrekking van informatie
+##### Artikel 9. Verstrekking van informatie
 
 Elke Partij stuurt de Secretaris-Generaal van de Raad van Europa in één van de officiële talen van de Raad van Europa alle relevante informatie betreffende wettelijke en andere maatregelen die zij heeft genomen ten einde aan de voorwaarden van deze Overeenkomst te voldoen.
 
-#### Artikel 10. Commissie van Toezicht
+##### Artikel 10. Commissie van Toezicht
 
 1. Voor de toepassing van deze Overeenkomst wordt hierbij een Commissie van Toezicht ingesteld.
 
@@ -174,7 +199,7 @@ Elke Partij stuurt de Secretaris-Generaal van de Raad van Europa in één van de
 
 8. Behoudens de bepalingen van deze Overeenkomst stelt de Commissie van Toezicht haar eigen procedureregels op en neemt deze bij consensus aan.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Commissie van Toezicht ziet toe op de toepassing van deze Overeenkomst. Zij kan met name:
 
@@ -194,11 +219,11 @@ Elke Partij stuurt de Secretaris-Generaal van de Raad van Europa in één van de
 
 2. Voor de uitvoering van haar taken kan de Commissie van Toezicht op eigen initiatief bijeenkomsten van groepen deskundigen beleggen.
 
-#### Artikel 12
+##### Artikel 12
 
 Na elke bijeenkomst stuurt de Commissie van Toezicht het Comité van Ministers van de Raad van Europa een verslag van haar werk en van de werking van de Overeenkomst.
 
-#### Artikel 13. Wijzigingen van de artikelen van de Overeenkomst
+##### Artikel 13. Wijzigingen van de artikelen van de Overeenkomst
 
 1. Wijzigingen van de artikelen van deze Overeenkomst kunnen worden voorgesteld door een Partij, het Comité van Ministers van de Raad van Europa of de Commissie van Toezicht.
 
@@ -214,7 +239,7 @@ Na elke bijeenkomst stuurt de Commissie van Toezicht het Comité van Ministers v
 
 ## SLOTBEPALINGEN
 
-#### Artikel 14
+##### Artikel 14
 
 1. Deze Overeenkomst staat ter ondertekening open voor de lidstaten van de Raad van Europa, andere Staten die Partij zijn bij het [Europees Cultureel Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005098), en niet-lidstaten die hebben deelgenomen aan de opstelling van deze Overeenkomst, die hun instemming te worden gebonden tot uitdrukking kunnen brengen door:
 
@@ -224,19 +249,19 @@ Na elke bijeenkomst stuurt de Commissie van Toezicht het Comité van Ministers v
 
 2. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 15
+##### Artikel 15
 
 l. Deze Overeenkomst treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum waarop vijf Staten, waaronder ten minste vier lidstaten van de Raad van Europa, hun instemming door deze Overeenkomst te worden gebonden tot uitdrukking hebben gebracht overeenkomstig de bepalingen van artikel 14.
 
 2. Ten aanzien van iedere ondertekenende Staat die later zijn instemming door deze Overeenkomst te worden gebonden tot uitdrukking heeft gebracht, treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van één maand na de datum van ondertekening of van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa, na raadpleging van de Partijen, iedere Staat die geen lid is van de Raad van Europa uitnodigen toe te treden tot de Overeenkomst, zulks bij een besluit genomen met de meerderheid, voorzien in [artikel 20, letter d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) en met algemene stemmen van de vertegenwoordigers van de Overeenkomstsluitende Staten die het recht hebben in het Comité van Ministers zitting te hebben.
 
 2. Ten aanzien van iedere toetredende Staat treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van één maand na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Iedere Staat kan bij ondertekening of bij nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, aangeven op welk grondgebied of welke grondgebieden deze Overeenkomst van toepassing zal zijn.
 
@@ -244,13 +269,13 @@ l. Deze Overeenkomst treedt in werking op de eerste dag van de maand die volgt o
 
 3. Iedere krachtens het bepaalde in de twee voorgaande leden afgelegde verklaring kan, ten aanzien van ieder in die verklaring genoemd grondgebied; worden ingetrokken door middel van een aan de Secretaris-Generaal gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Iedere Partij kan deze Overeenkomst te allen tijde opzeggen door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 19
+##### Artikel 19
 
 De Secretaris-Generaal van de Raad van Europa stelt de Partijen, de andere lidstaten van de Raad van Europa, de andere Staten die Partij zijn bij het [Europees Cultureel Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005098), de niet-lidstaten die hebben deelgenomen aan het opstellen van deze Overeenkomst, alsmede iedere Staat die ertoe is toegetreden of is uitgenodigd ertoe toe te treden, in kennis van:
 

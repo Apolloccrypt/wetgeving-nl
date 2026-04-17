@@ -1,13 +1,37 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Pruisen tot regeling der grensscheiding tussen de Nederlandse gemeente Dinxperlo en de Pruisische gemeente Süderwick"
 identifier: "BWBV0006070"
-categorie: "Bestuursrecht"
-publicatiedatum: 1874-02-10
-laatste_update: 1874-02-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006070"
+country: "nl"
+rank: "verdrag"
+publication_date: "1874-02-10"
+last_updated: "1874-02-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006070"
+soort: "verdrag"
+stam_id: "10005011283"
+version_id: "10005331732"
+internal_id: "C10008211011"
+label_id: "10004994234"
+dtd_version: "2.0"
+original_entry_into_force: "1874-02-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006070/1874-02-10/0"
+intitule_bron: "Stb.1874-29"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1874-03-21"
+intitule_published: "1874-04-11"
+intitule_in_force: "1874-04-11"
+intitule_status: "goed"
+original_publication: "Stb.1874-29"
+original_signed_date: "1874-03-21"
+original_published_date: "1874-04-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1874-02-10"
+jci_1_3: "jci1.3:c:BWBV0006070&z=1874-02-10&g=1874-02-10"
+jci_1_0: "1.0:c:BWBV0006070&g=1874-02-10"
+citeertitel_status: "redactioneel"
+signed_date: "1874-03-21"
+entry_into_force: "1874-02-10"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Pruisen tot regeling der grensscheiding tussen de Nederlandse gemeente Dinxperlo en de Pruisische gemeente Süderwick
 
 **Dinxperlo**, 12 Augustus 1872.
@@ -36,17 +60,17 @@ om aangaande de onzigtbaar geworden landsgrenzen tusschen de Nederlandsche gemee
 
 Na het terrein te hebben bezocht en in oogenschouw genomen, werd overeengekomen de regeling der grensscheiding, onder voorbehoud der goedkeuring der wederzijdsche Regeringen, op de volgende wijze vast te stellen:
 
-#### Art. 1
+##### Art. 1
 
 Van den afweg naar **Bocholt** tot aan den grenssteen n°. 181 wordt de grens definitief bepaald en aangeduid door de steenen 179, 180 en 181, zooals deze, blijkens de door beide Regeringen goedgekeurde verklaring der betrokken burgemeesters van 19 December 1849, zijn geplaatst en zich thans nog bevinden.
 
 Tusschen de grenssteenen n°. 181 en n°. 186 wordt de grens tusschen beide Rijken bepaald door eene regelmatig gebogen lijn, getrokken op een afstand van twee en een halve (2.5) meter uit de as der begrinding van den Heelweg, en zullen de bestaande grenssteenen tot aan die lijn worden vooruitgebragt.
 
-#### Art. 2
+##### Art. 2
 
 De in art. 1 bepaalde grenslijn zal worden aangeduid door met olieverw wit geverwde steenen palen, te plaatsen aan de Pruissische zijde op een onderlingen afstand van hoogstens 10 meter.
 
-#### Art. 3
+##### Art. 3
 
 Bij grenssteen n°. 186 wordt de grensscheiding zoodanig gewijzigd, dat de Rietstapperbrug, thans op Nederlandsch grondgebied gelegen, in het vervolg tot het Pruissisch gebied zal behooren.
 
@@ -54,13 +78,13 @@ Tot dat einde zal de grens tusschen **Nederland** en **Pruissen** voortaan loope
 
 De aldus vastgestelde grens zal insgelijks nader door palen en steenen worden aangeduid.
 
-#### Art. 4
+##### Art. 4
 
 De Rietstapperbrug wordt door de Nederlandsche Regering in vollen eigendom overgedragen aan de Pruissische, en deze verbindt zich om voor het vervolg die brug ten haren koste te onderhouden.
 
 Daarentegen verpligt zich eerstgenoemde Regering aan laatstvermelde te betalen een kapitaal, waarvan de renten, gerekend ad 5 ten honderd, voldoende zijn om de kosten van onderhoud en vernieuwing der brug te bestrijden.
 
-#### Art. 5
+##### Art. 5
 
 De in artt. 2 en 3 bedoelde palen en steenen zullen door de zorg der Pruissische Regering voor gemeenschappelijke rekening worden geplaatst en onderhouden, overeenkomstig het bepaalde in de artt. 4 en 5 der verklaring van 8 Maart 1852.
 

@@ -1,20 +1,45 @@
 ---
 title: "Mandaatbesluit uitvoering boven- en naastwettelijke uitkeringsregelingen bij werkloosheid sector defensie 2017"
 identifier: "BWBR0040587"
-categorie: "Sociaal recht"
-publicatiedatum: 2018-01-24
-laatste_update: 2017-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040587"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-01-24"
+last_updated: "2017-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040587"
+soort: "ministeriele-regeling"
+stam_id: "14532053"
+version_id: "24869682"
+internal_id: "C35582401"
+label_id: "14489554"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040587/2018-01-24/0"
+intitule_bron: "Stcrt.2018-5577"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-01-24"
+intitule_published: "2018-02-05"
+intitule_in_force: "2018-02-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-5577"
+original_signed_date: "2018-01-24"
+original_published_date: "2018-02-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-5577"
+entry_into_force_date: "2018-01-24"
+jci_1_3: "jci1.3:c:BWBR0040587&z=2018-01-24&g=2018-01-24"
+jci_1_0: "1.0:c:BWBR0040587&g=2018-01-24"
+citeertitel_status: "officieel"
+signed_date: "2018-01-24"
+entry_into_force: "2018-01-24"
 ---
-
 # Mandaatbesluit uitvoering boven- en naastwettelijke uitkeringsregelingen bij werkloosheid sector defensie 2017
 
 Besluit
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -42,7 +67,7 @@ In dit besluit wordt verstaan onder:
 
 - –. Suppletieregeling gedeeltelijke arbeidsongeschikten sector Defensie.
 
-#### Artikel 2
+##### Artikel 2
 
 De Minister verleent aan WWplus het volgende mandaat:
 
@@ -56,7 +81,7 @@ De Minister verleent aan WWplus het volgende mandaat:
 
 - 5. WWplus is bevoegd tot het schriftelijk verlenen van ondermandaat aan bij WWplus in dienst zijnde functionarissen. WWplus houdt een register bij van verleende ondermandaten. Het register bevat de namen van de functionarissen van WWplus die op basis van het ondermandaat besluiten kunnen nemen, alsmede gegevens omtrent de inhoud van het ondermandaat.
 
-#### Artikel 3
+##### Artikel 3
 
 De stukken die op grond van dit besluit worden afgedaan en ondertekend, vermelden aan het slot:
 
@@ -68,11 +93,11 @@ voor deze,
 
 ... (de functie van de ondertekenaar)
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Mandaatbesluit uitvoering boven- en naastwettelijke uitkeringsregelingen bij werkloosheid sector defensie 2017.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de datum van ondertekening en werkt terug tot en met 1 september 2017.
 

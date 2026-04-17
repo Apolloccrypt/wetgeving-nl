@@ -1,13 +1,38 @@
 ---
 title: "Regeling gespecialiseerde geestelijke gezondheidszorg"
 identifier: "BWBR0045703"
-categorie: "Sociaal recht"
-publicatiedatum: 2021-09-01
-laatste_update: 2021-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045703"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-09-01"
+last_updated: "2021-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045703"
+soort: "zbo"
+stam_id: "16101393"
+version_id: "28086942"
+internal_id: "C39610101"
+label_id: "16032844"
+dtd_version: "2.0"
+original_entry_into_force: "2021-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045703/2021-09-01/0"
+intitule_bron: "Stcrt.2021-42657"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-09-21"
+intitule_published: "2021-10-14"
+intitule_in_force: "2021-10-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-42657"
+original_signed_date: "2021-09-21"
+original_published_date: "2021-10-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-42657"
+entry_into_force_date: "2021-09-01"
+jci_1_3: "jci1.3:c:BWBR0045703&z=2021-09-01&g=2021-09-01"
+jci_1_0: "1.0:c:BWBR0045703&g=2021-09-01"
+citeertitel_status: "officieel"
+signed_date: "2021-09-21"
+entry_into_force: "2021-09-01"
 ---
-
 # Regeling gespecialiseerde geestelijke gezondheidszorg
 
 ### Leeswijzer

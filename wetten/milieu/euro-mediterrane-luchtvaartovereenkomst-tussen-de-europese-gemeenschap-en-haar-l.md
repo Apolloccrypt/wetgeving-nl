@@ -1,13 +1,38 @@
 ---
 title: "Euro-mediterrane luchtvaartovereenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en het Koninkrijk Marokko, anderzijds"
 identifier: "BWBV0001874"
-categorie: "Milieu"
-publicatiedatum: 2025-11-21
-laatste_update: 2006-12-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001874"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-11-21"
+last_updated: "2006-12-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001874"
+soort: "verdrag"
+stam_id: "10002558953"
+version_id: "10002549562"
+internal_id: "C10009405371"
+label_id: "10002548714"
+dtd_version: "2.0"
+original_entry_into_force: "2018-03-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001874/2025-11-21/0"
+intitule_bron: "Trb.2007-27"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-12-12"
+intitule_published: "2007-02-12"
+intitule_in_force: "2018-03-02"
+intitule_status: "goed"
+original_publication: "Trb.2007-27"
+original_signed_date: "2006-12-12"
+original_published_date: "2007-02-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2007-27"
+entry_into_force_date: "2018-03-19"
+jci_1_3: "jci1.3:c:BWBV0001874&z=2025-11-21&g=2025-11-21"
+jci_1_0: "1.0:c:BWBV0001874&g=2025-11-21"
+citeertitel_status: "redactioneel"
+signed_date: "2006-12-12"
+entry_into_force: "2018-03-19"
 ---
-
 # Euro-mediterrane luchtvaartovereenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en het Koninkrijk Marokko, anderzijds
 
 Het Koninkrijk België,
@@ -98,7 +123,7 @@ Erop wijzend dat een dergelijke overeenkomst tot doel heeft op progressieve maar
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Tenzij anders is bepaald, wordt voor de toepassing van deze overeenkomst verstaan onder:
 
@@ -148,7 +173,7 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze overeenkomst verstaa
 
 ## TITEL I. ECONOMISCHE BEPALINGEN
 
-#### Artikel 2. Verkeersrechten
+##### Artikel 2. Verkeersrechten
 
 1. Tenzij anders bepaald in bijlage I verleent elke partij de andere partij de volgende rechten met betrekking tot de exploitatie van het internationale luchtvervoer door luchtvaartmaatschappijen van de andere partij:
 
@@ -166,7 +191,7 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze overeenkomst verstaa
 
 - b. de Europese Gemeenschap het recht om op het grondgebied van Marokko tegen vergoeding passagiers, bagage, vracht en/of post aan boord te nemen die bestemd zijn voor een ander punt op het grondgebied van Marokko.
 
-#### Artikel 3. Vergunningen
+##### Artikel 3. Vergunningen
 
 Wanneer de bevoegde instanties van de ene partij een aanvraag voor een exploitatievergunning ontvangen van een luchtvaartmaatschappij van de andere partij, verlenen zij zo spoedig mogelijk de passende vergunningen, voor zover:
 
@@ -190,7 +215,7 @@ Wanneer de bevoegde instanties van de ene partij een aanvraag voor een exploitat
 
 - d. de voorschriften van artikel 14 (Veiligheid van de luchtvaart) en artikel 15 (Beveiliging van de luchtvaart) worden gehandhaafd en opgelegd.
 
-#### Artikel 4. Intrekking van vergunningen
+##### Artikel 4. Intrekking van vergunningen
 
 1. De bevoegde instanties van elke partij kunnen de exploitatievergunningen intrekken, opschorten en beperken of de activiteiten van een luchtvaartmaatschappij van de andere partij op een andere wijze opschorten of beperken wanneer:
 
@@ -216,23 +241,23 @@ Wanneer de bevoegde instanties van de ene partij een aanvraag voor een exploitat
 
 2. Tenzij onmiddellijke maatregelen noodzakelijk zijn om verdere niet-naleving van lid 1, onder c, of onder d, te voorkomen, worden de in dit artikel vastgestelde rechten pas uitgeoefend na overleg met de bevoegde instanties van de andere partij.
 
-#### Artikel 5. Investering
+##### Artikel 5. Investering
 
 Wanneer een lidstaat of een ingezetene van een lidstaat meerderheidseigenaar wil worden van of daadwerkelijk controle wil uitoefenen over een luchtvaartmaatschappij van Marokko, of wanneer Marokko of een ingezetene van Marokko meerderheidseigenaar wil worden van of daadwerkelijk controle wil uitoefenen over een luchtvaartmaatschappij van de Europese Gemeenschap, moet het bij deze overeenkomst opgerichte gemengd comité daarvoor eerst toestemming verlenen.
 
 In die beslissing worden de voorwaarden gespecificeerd voor de exploitatie van de in deze overeenkomst overeengekomen diensten en van de diensten tussen derde landen en de partijen. De bepalingen van artikel 22, alinea 9, van deze overeenkomst zijn niet van toepassing op dit type beslissingen.
 
-#### Artikel 6. Toepassing van de wetgevingen
+##### Artikel 6. Toepassing van de wetgevingen
 
 1. Als luchtvaartmaatschappijen van de ene partij het grondgebied van de andere partij binnenkomen of verlaten, moeten zij de op dat grondgebied toepasselijke wetten en regels inzake het binnenkomen of verlaten van het grondgebied door luchtvaartuigen die internationaal luchtvervoer uitvoeren, of inzake de exploitatie en navigatie van luchtvaartuigen naleven.
 
 2. Als luchtvaartmaatschappijen van de ene partij het grondgebied van de andere partij binnenkomen of verlaten, moeten de op dat grondgebied toepasselijke wetten en regels inzake het binnenkomen of verlaten van het grondgebied door de passagiers, bemanningsleden en vracht aan boord van een luchtvaartuig (inclusief de regels inzake binnenkomst, verkeersklaring, immigratie, paspoorten, douane en quarantaine of, in het geval van post, de postregelgeving) worden nageleefd door of met betrekking tot die passagiers, bemanningsleden of vracht.
 
-#### Artikel 7. Mededinging
+##### Artikel 7. Mededinging
 
 Binnen de werkingssfeer van deze overeenkomst zijn de bepalingen van Hoofdstuk II („Mededinging en andere economische bepalingen’’) van Titel IV van de Associatieovereenkomst van toepassing, behalve als deze overeenkomst specifiekere regels bevat.
 
-#### Artikel 8. Subsidies
+##### Artikel 8. Subsidies
 
 1. De partijen erkennen dat overheidssubsidies aan luchtvaartmaatschappijen de mededinging verstoren of dreigen te verstoren doordat bepaalde ondernemingen bevoordeeld worden bij het verlenen van luchtvervoersdiensten, dat dergelijke subsidies de basisdoelstellingen van de overeenkomst in het gedrang brengen en dat ze onverenigbaar zijn met het beginsel van een open luchtvaartruimte.
 
@@ -244,7 +269,7 @@ Binnen de werkingssfeer van deze overeenkomst zijn de bepalingen van Hoofdstuk I
 
 5. De bepalingen van dit artikel laten de wetten en regels van de partijen met betrekking tot essentiële luchtdiensten en verplichtingen van openbare dienstverlening op het grondgebied van de partijen onverlet.
 
-#### Artikel 9. Commerciële bepalingen
+##### Artikel 9. Commerciële bepalingen
 
 1. De luchtvaartmaatschappijen van beide partijen hebben het recht kantoren te vestigen op het grondgebied van de andere partij met het oog op de promotie en verkoop van luchtvervoer en aanverwante activiteiten.
 
@@ -278,7 +303,7 @@ voor zover i. alle deelnemers aan dergelijke samenwerkingsvormen over de passend
 
 - b. Onverminderd de overige bepalingen van deze overeenkomst mogen luchtvaartmaatschappijen en indirecte aanbieders van vrachtvervoer van de partijen, in het kader van internationaal luchtvervoer bovendien zonder beperking gebruik maken van vrachtvervoer over land van en naar alle punten op het grondgebied van Marokko en de Europese Gemeenschap of van derde landen, inclusief vervoer van en naar alle luchthavens met douanefaciliteiten en, voor zover van toepassing, vracht onder contract vervoeren overeenkomstig de toepasselijke wetten en regels. Of dergelijke vracht nu over land of door de lucht wordt vervoerd, hij moet steeds toegang hebben tot de douanebehandeling en -faciliteiten. Luchtvaartmaatschappijen kunnen verkiezen hun vervoer over land zelf te verzorgen of hiervoor regelingen te treffen met andere aanbieders van vervoer over land; ze mogen bijvoorbeeld een beroep doen op andere luchtvaartmaatschappijen die vervoer over land aanbieden en op indirecte aanbieders van luchtvrachtvervoer. Dergelijke intermodale diensten voor vrachtvervoer kunnen worden aangeboden tegen een prijs waarin zowel het luchtvervoer als het vervoer over land is inbegrepen, op voorwaarde dat de expediteurs juiste feitelijke informatie krijgen met betrekking tot dergelijk vervoer.
 
-#### Artikel 10. Douanerechten en -heffingen
+##### Artikel 10. Douanerechten en -heffingen
 
 1. Bij aankomst op het grondgebied van de ene partij worden luchtvaartuigen die door luchtvaartmaatschappijen van de andere partij worden ingezet voor internationaal luchtvervoer, hun gebruikelijke apparatuur, brandstof, smeermiddelen, technische verbruiksgoederen, grondapparatuur, reserveonderdelen (inclusief motoren), boordproviand (inclusief, maar niet beperkt tot, voedsel, drank en alcoholhoudende dranken, tabak en andere producten die bestemd zijn om tijdens de vlucht in beperkte hoeveelheden aan passagiers te worden verkocht of door passagiers te worden verbruikt) en andere voorwerpen die bestemd zijn voor of uitsluitend worden gebruikt in verband met de exploitatie of het onderhoud van voor internationaal luchtvervoer ingezette luchtvaartuigen, op basis van wederkerigheid vrijgesteld van alle invoerbeperkingen, eigendomstaksen en heffingen op activa, douanerechten, accijnzen en soortgelijke vergoedingen en rechten die a worden opgelegd door de nationale of lokale overheden of de Europese Gemeenschap en b niet gebaseerd zijn op de kostprijs van de verleende diensten, voor zover die apparatuur en goederen aan boord van het luchtvaartuig blijven.
 
@@ -302,23 +327,23 @@ voor zover i. alle deelnemers aan dergelijke samenwerkingsvormen over de passend
 
 6. Niets in deze overeenkomst belet een partij om taksen, heffingen, rechten, vergoedingen of belastingen te heffen op goederen die worden verkocht voor andere doelen dan consumptie door passagiers tijdens een gedeelte van een luchtdienst tussen twee punten op zijn grondgebied, voor zover het toegestaan is op deze punten in of uit te stappen.
 
-#### Artikel 11. Gebruikersheffingen
+##### Artikel 11. Gebruikersheffingen
 
 1. Een partij legt de luchtvaartmaatschappijen van de andere partij geen gebruikersheffingen op die hoger zijn dan die welke worden opgelegd aan de eigen luchtvaartmaatschappijen die vergelijkbare internationale luchtdiensten exploiteren, en staat niet toe dat dergelijke heffingen worden opgelegd.
 
 2. Nieuwe heffingen kunnen alleen worden opgelegd en bestaande heffingen alleen verhoogd wanneer voldoende overleg heeft plaatsgevonden tussen de bevoegde heffingsinstanties en de luchtvaartmaatschappijen van elke partij. Plannen voor wijzigingen van de gebruikersheffingen moeten voldoende van tevoren worden meegedeeld, zodat de gebruikers hun standpunt kunnen uiteenzetten vóór de wijzigingen plaatsvinden. De partijen stimuleren ook de uitwisseling van de informatie die nodig is om de redelijkheid, rechtvaardiging en motivering van de heffingen accuraat te kunnen beoordelen overeenkomstig de beginselen van dit artikel.
 
-#### Artikel 12. Prijsbepaling
+##### Artikel 12. Prijsbepaling
 
 De prijzen voor luchtvervoersdiensten die overeenkomstig deze overeenkomst worden geëxploiteerd, worden vrij vastgesteld en hoeven niet te worden goedgekeurd; er kan wel gevraagd worden deze prijzen over te leggen, maar alleen ter informatie. Op prijzen voor vervoer dat volledig binnen de Europese Gemeenschap plaatsvindt, is de Europese Gemeenschapswetgeving van toepassing.
 
-#### Artikel 13. Statistieken
+##### Artikel 13. Statistieken
 
 De bevoegde autoriteiten van de ene partij verstrekken de bevoegde autoriteiten van de andere partij op verzoek de informatie en statistieken met betrekking tot het verkeersvolume dat door de luchtvaartmaatschappijen die van de ene partij een vergunning hebben gekregen via de overeengekomen diensten is vervoerd van of naar het grondgebied van de andere partij; deze informatie wordt verstrekt in de vorm waarin ze door de luchtvaartmaatschappijen is opgesteld en aan hun nationale bevoegde autoriteiten is verstrekt. Op verzoek van een van beide partijen wordt in het gemengd comité overleg gepleegd over aanvullende statistische verkeersgegevens die de bevoegde autoriteiten van de ene partij vragen aan de bevoegde autoriteiten van de andere partij.
 
 ## TITEL II. SAMENWERKING OP HET GEBIED VAN REGELGEVING
 
-#### Artikel 14. Veiligheid van de luchtvaart
+##### Artikel 14. Veiligheid van de luchtvaart
 
 1. De partijen handelen overeenkomstig de bepalingen van de in bijlage VI A gespecificeerde Europese Gemeenschapswetgeving inzake veiligheid van de luchtvaart, waarbij zij de onderstaande voorwaarden naleven.
 
@@ -338,7 +363,7 @@ De bevoegde autoriteiten van de ene partij verstrekken de bevoegde autoriteiten 
 
 6. Wanneer uit hoofde van lid 4 genomen maatregelen niet worden beëindigd, ook al zijn er geen redenen meer om dergelijke maatregelen te nemen, kan elke partij de zaak doorverwijzen naar het gemengd comité.
 
-#### Artikel 15. Beveiliging van de luchtvaart
+##### Artikel 15. Beveiliging van de luchtvaart
 
 1. Aangezien de veiligheid van burgerluchtvaartuigen, hun passagiers en hun bemanning een fundamentele voorwaarde is voor het exploiteren van internationale luchtdiensten, bevestigen beide partijen hun wederzijdse verplichtingen met betrekking tot de beveiliging van de burgerluchtvaart tegen wederrechtelijke daden (met name hun verplichtingen uit hoofde van het Verdrag van Chicago, het Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen, ondertekend in Tokio op 14 september 1963, het Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen, ondertekend in Den Haag op 16 december 1970, het Verdrag ter bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart, ondertekend in Montreal op 23 september 1971 en het Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart, ondertekend te Montreal op 24 februari 1988, en het Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan, ondertekend te Montreal op 1 maart 1991, voor zover beide overeenkomstsluitende partijen ook partij zijn bij deze verdragen, en alle andere verdragen en protocollen inzake de veiligheid van de burgerluchtvaart waartoe beide partijen zijn toegetreden).
 
@@ -358,7 +383,7 @@ De bevoegde autoriteiten van de ene partij verstrekken de bevoegde autoriteiten 
 
 9. De overeenkomstig lid 7 genomen maatregelen worden beëindigd stopgezet zodra de andere partij de bepalingen van dit artikel naleeft.
 
-#### Artikel 16. Luchtverkeersbeheer
+##### Artikel 16. Luchtverkeersbeheer
 
 1. De partijen handelen overeenkomstig de bepalingen van de in bijlage VI B gespecificeerde wetgeving, waarbij zij de onderstaande voorwaarden dienen na te leven.
 
@@ -370,27 +395,27 @@ De bevoegde autoriteiten van de ene partij verstrekken de bevoegde autoriteiten 
 
 - b. zal de Europese Gemeenschap Marokko betrekken bij relevante en uit het gemeenschappelijk Europees luchtruim voortvloeiende operationele initiatieven op het gebied van luchtvaartnavigatiediensten, luchtruim en interoperabiliteit, met name door Marokko in een vroeg stadium te betrekken bij de inspanningen om functionele luchtruimblokken vast te stellen en door passende coördinatie inzake SESAR.
 
-#### Artikel 17. Milieu
+##### Artikel 17. Milieu
 
 1. De partijen handelen overeenkomstig de in bijlage VI C gespecificeerde Gemeenschapswetgeving inzake luchtvervoer.
 
 2. Deze overeenkomst beperkt op geen enkele wijze de bevoegdheid van de bevoegde autoriteiten van een partij alle passende maatregelen te nemen om te voorkomen dat het krachtens deze overeenkomst uitgevoerde internationale luchtvervoer een effect heeft op het milieu of om het eventuele milieueffect te beperken, voor zover dergelijke maatregelen zonder onderscheid naar nationaliteit worden toegepast.
 
-#### Artikel 18. Consumentenbescherming
+##### Artikel 18. Consumentenbescherming
 
 De partijen handelen overeenkomstig de in bijlage VI D gespecificeerde Gemeenschapswetgeving inzake luchtvervoer.
 
-#### Artikel 19. Geautomatiseerde boekingssystemen
+##### Artikel 19. Geautomatiseerde boekingssystemen
 
 De partijen handelen overeenkomstig de in bijlage VI E gespecificeerde Gemeenschapswetgeving inzake luchtvervoer.
 
-#### Artikel 20. Sociale aspecten
+##### Artikel 20. Sociale aspecten
 
 De partijen handelen overeenkomstig de in bijlage VI F gespecificeerde Gemeenschapswetgeving inzake luchtvervoer.
 
 ## TITEL III. INSTITUTIONELE BEPALINGEN
 
-#### Artikel 21. Uitlegging en handhaving
+##### Artikel 21. Uitlegging en handhaving
 
 1. De partijen treffen alle passende algemene of specifieke maatregelen om de naleving van de uit deze overeenkomst voortvloeiende verplichtingen te garanderen en onthouden zich van maatregelen die de verwezenlijking van de doelstellingen van deze overeenkomst in gevaar kunnen brengen.
 
@@ -400,7 +425,7 @@ De partijen handelen overeenkomstig de in bijlage VI F gespecificeerde Gemeensch
 
 4. Als de partijen, overeenkomstig de bevoegdheden die hen krachtens deze overeenkomst zijn verleend, actie ondernemen met betrekking tot kwesties die van belang zijn voor de andere partij en de autoriteiten of ondernemingen van de andere partij, worden de bevoegde autoriteiten van de andere partij daarvan volledig in kennis gesteld en krijgen zij de gelegenheid opmerkingen te maken alvorens een definitieve beslissing wordt genomen.
 
-#### Artikel 22. Het gemengd comité
+##### Artikel 22. Het gemengd comité
 
 1. Hierbij wordt een comité van vertegenwoordigers van de partijen (hierna het „gemengd comité’’ genoemd) ingesteld, dat verantwoordelijk is voor het beheer van deze overeenkomst en toeziet op de correcte uitvoering ervan. Hiertoe doet het aanbevelingen en neemt het besluiten in de gevallen waarin deze overeenkomst voorziet.
 
@@ -430,7 +455,7 @@ De partijen handelen overeenkomstig de in bijlage VI F gespecificeerde Gemeensch
 
 - c. na te gaan op welke gebieden de overeenkomst verder kan worden ontwikkeld, inclusief aanbevelingen voor wijzigingen van de overeenkomst.
 
-#### Artikel 23. Geschillenbeslechting en arbitrage
+##### Artikel 23. Geschillenbeslechting en arbitrage
 
 1. Elke partij kan geschillen met betrekking tot de toepassing of uitlegging van deze overeenkomst die niet overeenkomstig artikel 22 zijn opgelost, voorleggen aan het gemengd comité. Met het oog op de toepassing van dit artikel treedt de bij de associatieovereenkomst opgerichte associatieraad op als gemengd comité.
 
@@ -452,7 +477,7 @@ De partijen handelen overeenkomstig de in bijlage VI F gespecificeerde Gemeensch
 
 6. Als een van de partijen niet binnen dertig (30) dagen na de bekendmaking van de beslissing van het arbitragehof aan deze beslissing voldoet, kan de andere partij de rechten of privileges die overeenkomstig deze overeenkomst zijn toegekend aan de in gebreke blijvende partij beperken, opschorten of intrekken tot de partij aan de beslissing voldoet.
 
-#### Artikel 24. Vrijwaringsmaatregelen
+##### Artikel 24. Vrijwaringsmaatregelen
 
 1. De partijen treffen alle algemene of specifieke maatregelen die vereist zijn om aan hun verplichtingen krachtens de overeenkomst te voldoen. Zij zullen erop toezien dat de in de overeenkomst aangegeven doelstellingen worden verwezenlijkt.
 
@@ -468,11 +493,11 @@ De partijen handelen overeenkomstig de in bijlage VI F gespecificeerde Gemeensch
 
 7. De overeenkomstig dit artikel genomen maatregelen worden opgeschort zodra de in gebreke blijvende partij voldoet aan de bepalingen van deze overeenkomst.
 
-#### Artikel 25. Geografische uitbreiding van de overeenkomst
+##### Artikel 25. Geografische uitbreiding van de overeenkomst
 
 Ondanks het bilaterale karakter van deze overeenkomst wijzen de partijen erop dat ze binnen de werkingssfeer valt van het in de verklaring van Barcelona van 28 november 1995 geplande Euro-mediterrane partnerschap. De partijen verbinden zich ertoe een permanente dialoog te voeren om de samenhang van deze overeenkomst met het proces van Barcelona te garanderen, met name wat betreft de mogelijkheid om overeenstemming te bereiken over wijzigingen die nodig zijn om rekening te houden met soortgelijke luchtvervoersovereenkomsten.
 
-#### Artikel 26. Verhouding ten opzichte van andere overeenkomsten
+##### Artikel 26. Verhouding ten opzichte van andere overeenkomsten
 
 1. De bepalingen van deze overeenkomst vervangen de relevante bepalingen van de bestaande bilaterale overeenkomsten tussen Marokko en de lidstaten. Het is echter toegestaan bestaande verkeersrechten die voortvloeien uit deze bilaterale overeenkomsten en die niet onder de onderhavige overeenkomst vallen, te blijven uitoefenen voor zover dit niet leidt tot discriminatie tussen de lidstaten van de Europese Gemeenschap en hun ingezetenen.
 
@@ -480,7 +505,7 @@ Ondanks het bilaterale karakter van deze overeenkomst wijzen de partijen erop da
 
 3. Deze overeenkomst laat de beslissingen van beide partijen om eventuele toekomstige aanbevelingen van de Internationale Burgerluchtvaartorganisatie toe te passen, onverlet. De partijen mogen zich niet op deze overeenkomst of een deel ervan beroepen om zich in de Internationale Burgerluchtvaartorganisatie te verzetten tegen alternatieve beleidsmaatregelen met betrekking tot kwesties die onder deze overeenkomst vallen.
 
-#### Artikel 27. Wijzigingen
+##### Artikel 27. Wijzigingen
 
 1. Als een van de partijen de bepalingen van deze overeenkomst wenst te herzien, moet ze het gemengd comité daarvan in kennis stellen. Overeengekomen wijzigingen van deze overeenkomst worden van kracht na voltooiing van de respectieve interne procedures.
 
@@ -500,7 +525,7 @@ Ondanks het bilaterale karakter van deze overeenkomst wijzen de partijen erop da
 
 - c. beslist over andere maatregelen, die binnen een redelijke termijn moeten worden vastgesteld, om de goede werking van deze overeenkomst te waarborgen.
 
-#### Artikel 28. Beëindiging
+##### Artikel 28. Beëindiging
 
 1. De overeenkomst wordt voor onbepaalde tijd gesloten.
 
@@ -508,11 +533,11 @@ Ondanks het bilaterale karakter van deze overeenkomst wijzen de partijen erop da
 
 3. De overeenkomst vervalt of wordt opgeschort als de Associatieovereenkomst vervalt of wordt opgeschort.
 
-#### Artikel 29. Registratie bij de Internationale Burgerluchtvaartorganisatie (ICAO) en het Secretariaat van de Verenigde Naties
+##### Artikel 29. Registratie bij de Internationale Burgerluchtvaartorganisatie (ICAO) en het Secretariaat van de Verenigde Naties
 
 Deze overeenkomst en de wijzigingen daarop worden geregistreerd bij de Internationale Burgerluchtvaartorganisatie en het Secretariaat van de Verenigde Naties.
 
-#### Artikel 30. Inwerkingtreding
+##### Artikel 30. Inwerkingtreding
 
 1. Deze overeenkomst wordt vanaf de datum van ondertekening voorlopig toegepast overeenkomstig de interne wetgeving van de partijen.
 

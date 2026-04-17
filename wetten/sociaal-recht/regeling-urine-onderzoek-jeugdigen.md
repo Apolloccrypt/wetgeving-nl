@@ -1,13 +1,37 @@
 ---
 title: "Regeling urine onderzoek jeugdigen"
 identifier: "BWBR0012738"
-categorie: "Sociaal recht"
-publicatiedatum: 2011-07-17
-laatste_update: 2011-07-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012738"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-07-17"
+last_updated: "2011-07-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012738"
+soort: "ministeriele-regeling"
+stam_id: "3613743"
+version_id: "5396892"
+internal_id: "C5589981"
+label_id: "3593774"
+dtd_version: "2.0"
+original_entry_into_force: "2001-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012738/2011-07-17/0"
+intitule_bron: "Stcrt.2001-156"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-08-14"
+intitule_published: "2001-08-15"
+intitule_in_force: "2001-08-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-156"
+original_signed_date: "2001-08-14"
+original_published_date: "2001-08-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-09-01"
+jci_1_3: "jci1.3:c:BWBR0012738&z=2011-07-17&g=2011-07-17"
+jci_1_0: "1.0:c:BWBR0012738&g=2011-07-17"
+citeertitel_status: "officieel"
+signed_date: "2001-08-14"
+entry_into_force: "2001-09-01"
 ---
-
 # Regeling urine onderzoek jeugdigen
 
 Gelet op [artikel 35, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=35);
@@ -16,11 +40,11 @@ Gezien het advies van het College van advies voor de justitiële kinderbeschermi
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het anders dan door een arts, tandarts of verloskundige voorgeschreven gebruik van gedragsbeïnvloedende middelen is tijdens de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel niet toegestaan.
 
@@ -28,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 3. In de eerste twee weken van het verblijf van de jeugdige in de inrichting wordt de jeugdige geïnformeerd over de wijze waarop de inrichting uitvoering geeft aan het drugsontmoedigingsbeleid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De afname van urine gebeurt bij voorkeur `s ochtends vroeg.
 
@@ -46,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 8. Zowel de jeugdige als het personeelslid of de medewerker plaatsen een handtekening op het aanvraagformulier ter bevestiging dat de procedure correct is verlopen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De directeur kan besluiten de urine afkomstig uit één buis te gebruiken voor een indicatieonderzoek. Indien de directeur hiertoe besluit, vindt het indicatieonderzoek zo spoedig mogelijk, doch uiterlijk binnen 24 uur na afname van de urine plaats.
 
@@ -58,11 +82,11 @@ In deze regeling wordt verstaan onder:
 
 5. De uitslag van het indicatie onderzoek wordt aan de jeugdige medegedeeld.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien de directeur besluit tot het doen plaatsvinden van een urineonderzoek wordt één buis met het aanvraagformulier zo spoedig mogelijk, doch uiterlijk de eerstvolgende werkdag, naar een laboratorium verstuurd. Een andere buis wordt, gedurende ten hoogste twee weken na afname, ten behoeve van een eventueel herhalingsonderzoek in een voor onbevoegden niet toegankelijke diepvries of koelkast bewaard dan wel naar een laboratorium verstuurd waar de buis, ten behoeve van een eventueel herhalingsonderzoek, gedurende ten hoogste twee weken na afname in een voor onbevoegden niet toegankelijke diepvries of koelkast wordt bewaard.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De analyse wordt verricht door:
 
@@ -76,13 +100,13 @@ Indien de directeur besluit tot het doen plaatsvinden van een urineonderzoek wor
 
 4. De inrichting en het laboratorium maken nadere afspraken omtrent de wijze van verzending van de urinemonsters.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien er vragen bestaan omtrent de uitslag van het urine onderzoek of de interpretatie daarvan, vindt overleg plaats tussen het laboratorium en de inrichting omtrent mogelijke factoren die de uitslag hebben kunnen beïnvloeden en de interpretatie van de uitslag.
 
 2. De uitslag van het urineonderzoek wordt aan de jeugdige medegedeeld. Hierbij wordt de jeugdige gewezen op het recht op een herhalingsonderzoek. Indien de mededeling mondeling wordt gedaan legt het personeelslid of de medewerker welke de mededeling heeft gedaan, schriftelijk vast dat, en wanneer, de mededeling is gedaan.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De jeugdige heeft het recht op een herhalingsonderzoek.
 
@@ -92,7 +116,7 @@ Indien de directeur besluit tot het doen plaatsvinden van een urineonderzoek wor
 
 4. De uitslag van het herhalingsonderzoek wordt aan de jeugdige medegedeeld. Hierbij wordt de jeugdige gewezen op het recht op een bevestigingsonderzoek. Indien de mededeling mondeling wordt gedaan legt het personeelslid of de medewerker welke de mededeling heeft gedaan, schriftelijk vast dat, en wanneer, de mededeling is gedaan.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De jeugdige heeft het recht een bevestigingsonderzoek te laten plaatsvinden.
 
@@ -102,7 +126,7 @@ Indien de directeur besluit tot het doen plaatsvinden van een urineonderzoek wor
 
 4. De uitslag van het bevestigingsonderzoek wordt aan de jeugdige medegedeeld. Indien de mededeling mondeling wordt gedaan legt het personeelslid of medewerker welke de mededeling heeft gedaan, schriftelijk vast dat, en wanneer, de mededeling is gedaan.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien gebruik van gedragsbeïnvloedende middelen is vastgesteld of de jeugdige weigert aan het urine onderzoek mee te werken, dan wel is gebleken dat de jeugdige met het urinemonster heeft gefraudeerd, kan de jeugdige een disciplinaire straf worden opgelegd.
 
@@ -116,15 +140,15 @@ Indien de directeur besluit tot het doen plaatsvinden van een urineonderzoek wor
 
 - b. de effectuering van een scholings- en trainingsprogramma worden geschorst, dan wel opgeschort.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling is van overeenkomstige toepassing op urineonderzoeken die gedurende de deelname aan een scholings- en trainingsprogramma worden uitgevoerd. De taken van het personeelslid of de medewerker worden dan verricht door een personeelslid van de uitvoeringsverantwoordelijke instantie.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling treedt in werking op 1 september 2001
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling urine onderzoek jeugdigen.
 

@@ -1,14 +1,38 @@
 ---
-title: "Wet Stichting LOTT"
+title: "Wet van 18 maart 1987, houdende machtiging tot mede-oprichting van de Stichting Landelijke Organisatie Trauma Teams"
 identifier: "BWBR0004130"
-categorie: "Overig"
-publicatiedatum: 1987-06-15
-laatste_update: 1987-06-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004130"
+country: "nl"
+rank: "wet"
+publication_date: "1987-06-15"
+last_updated: "1987-06-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004130"
+soort: "wet"
+stam_id: "132563"
+version_id: "181182"
+internal_id: "C181191"
+label_id: "131894"
+dtd_version: "2.0"
+original_entry_into_force: "1987-06-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004130/1987-06-15/0"
+intitule_bron: "Stb.1987-234"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-03-18"
+intitule_status: "goed"
+original_publication: "Stb.1987-234"
+original_signed_date: "1987-03-18"
+original_effect: "nieuwe-regeling"
+original_dossier: "18877"
+entry_into_force_date: "1987-06-15"
+entry_into_force_dossier: "18877"
+jci_1_3: "jci1.3:c:BWBR0004130&z=1987-06-15&g=1987-06-15"
+jci_1_0: "1.0:c:BWBR0004130&g=1987-06-15"
+citeertitel_status: "officieel"
+short_title: "Wet Stichting LOTT"
+signed_date: "1987-03-18"
+entry_into_force: "1987-06-15"
 ---
-
-# Wet Stichting LOTT
+# Wet van 18 maart 1987, houdende machtiging tot mede-oprichting van de Stichting Landelijke Organisatie Trauma Teams
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +40,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is dat de Staat tot med
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### artikel Enig
+##### artikel Enig
 
 Onze Minister van Welzijn, Volksgezondheid en Cultuur wordt gemachtigd overeenkomstig de bepalingen van de bij deze wet gevoegde concept-statuten mede op te richten de Stichting Landelijke Organisatie Trauma Teams, met dien verstande dat in de statuten wordt vastgelegd dat een besluit tot wijziging van de statuten of tot ontbinding van de stichting, genomen door het daartoe bevoegde orgaan, niet in werking treedt dan nadat het door Onze Minister van Welzijn, Volksgezondheid en Cultuur is goedgekeurd.
 

@@ -1,20 +1,45 @@
 ---
 title: "Controlevoorschriften arbeidsongeschiktheidswetten 2018"
 identifier: "BWBR0041039"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2020-11-18
-laatste_update: 2020-11-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041039"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-11-18"
+last_updated: "2020-11-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041039"
+soort: "zbo"
+stam_id: "14652163"
+version_id: "25083862"
+internal_id: "C35871871"
+label_id: "14605064"
+dtd_version: "2.0"
+original_entry_into_force: "2018-06-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041039/2020-11-18/0"
+intitule_bron: "Stcrt.2018-34336"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-04-10"
+intitule_published: "2018-06-21"
+intitule_in_force: "2018-06-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-34336"
+original_signed_date: "2018-04-10"
+original_published_date: "2018-06-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-34336"
+entry_into_force_date: "2018-06-23"
+jci_1_3: "jci1.3:c:BWBR0041039&z=2020-11-18&g=2020-11-18"
+jci_1_0: "1.0:c:BWBR0041039&g=2020-11-18"
+citeertitel_status: "officieel"
+signed_date: "2018-04-10"
+entry_into_force: "2018-06-23"
 ---
-
 # Controlevoorschriften arbeidsongeschiktheidswetten 2018
 
 Gelet op [artikel 27 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=27), [artikel 38 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=38), [artikel 44 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=44) en de [artikelen 2:25](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:25) en [3:36 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:36);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,15 +61,15 @@ In dit besluit wordt verstaan onder:
 
 - i. **correspondentieadres:** een door betrokkene gekozen adres voor het ontvangen van post die afwijkt van het woonadres als bedoeld in [artikel 1.1, aanhef en onder o, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715)
 
-#### Artikel 2
+##### Artikel 2
 
 De aanvrager maakt met betrekking tot zijn aanvraag van uitkering gebruik van een formulier, beschikbaar gesteld door het UWV, waarop hij de gegevens vermeldt die voor de beoordeling van de aanvraag door het UWV noodzakelijk zijn. Het formulier wordt door de aanvrager ondertekend. Indien de aanvraag elektronisch wordt ingediend, vindt ondertekening plaats via DigiD.
 
-#### Artikel 3
+##### Artikel 3
 
 De aanvrager zorgt ervoor – voorzover dat in zijn vermogen ligt – dat het UWV in staat is om de juistheid en volledigheid van de gegevens die bij de aanvraag zijn verstrekt te onderzoeken.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aanvrager en de uitkeringsgerechtigde voldoen aan een verzoek van het UWV of een daartoe schriftelijk door of vanwege het UWV gemachtigd persoon om ten behoeve van de uitvoering van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) en de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657):
 
@@ -64,7 +89,7 @@ De aanvrager zorgt ervoor – voorzover dat in zijn vermogen ligt – dat het UW
 
 4. De aanvrager en de uitkeringsgerechtigde melden een wijziging van het telefoonnummer uiterlijk op de tweede dag na de wijziging aan het UWV als zij een aanwijzing hebben gekregen om telefonisch bereikbaar te zijn.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aanvrager of uitkeringsgerechtigde meldt een wijziging in het correspondentieadres zo spoedig mogelijk.
 
@@ -78,19 +103,19 @@ De aanvrager zorgt ervoor – voorzover dat in zijn vermogen ligt – dat het UW
 
 6. Een uitkeringsgerechtigde die langer dan vier weken op vakantie gaat in Nederland moet bereikbaar zijn.
 
-#### Artikel 6
+##### Artikel 6
 
 Het bepaalde in de voorgaande artikelen is van overeenkomstige toepassing op de wettelijk vertegenwoordiger van de uitkeringsgerechtigde en de aanvrager.
 
-#### Artikel 7
+##### Artikel 7
 
 De [Controlevoorschriften arbeidsongeschiktheidswetten 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0020115) worden ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: ‘Controlevoorschriften arbeidsongeschiktheidswetten 2018.’
 

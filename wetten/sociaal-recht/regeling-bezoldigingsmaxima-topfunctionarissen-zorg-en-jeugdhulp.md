@@ -1,16 +1,42 @@
 ---
-title: "Regeling bezoldigingsmaxima topfunctionarissen zorg en jeugdhulp"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 november 2015, kenmerk 871639-144249-MEVA, houdende vaststelling van wijze waarop de bezoldigingsmaxima voor topfunctionarissen bij instellingen op het terrein van de zorg en de jeugdhulp worden vastgesteld (Regeling bezoldigingsmaxima topfunctionarissen zorg en jeugdhulp)"
 identifier: "BWBR0037257"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037257"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037257"
+soort: "ministeriele-regeling"
+stam_id: "13320133"
+version_id: "31082102"
+internal_id: "C44500811"
+label_id: "13287914"
+dtd_version: "2.0"
+original_entry_into_force: "2025-11-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037257/2026-01-01/0"
+intitule_bron: "Stcrt.2015-42674"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-11-26"
+intitule_published: "2015-11-30"
+intitule_in_force: "2015-11-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-39481"
+original_signed_date: "2025-11-13"
+original_published_date: "2025-11-20"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-39481"
+entry_into_force_date: "2025-11-13"
+jci_1_3: "jci1.3:c:BWBR0037257&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0037257&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling bezoldigingsmaxima topfunctionarissen zorg en jeugdhulp"
+signed_date: "2025-11-13"
+entry_into_force: "2025-11-13"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 november 2015, kenmerk 871639-144249-MEVA, houdende vaststelling van wijze waarop de bezoldigingsmaxima voor topfunctionarissen bij instellingen op het terrein van de zorg en de jeugdhulp worden vastgesteld (Regeling bezoldigingsmaxima topfunctionarissen zorg en jeugdhulp)
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -20,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - **rechtspersonen of instellingen voor zorg of jeugdhulp:** de rechtspersonen of instellingen, bedoeld in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Volksgezondheid, Welzijn en Sport’, onder de nummers 1 tot en met 3, 7, 8 en 14.
 
-#### Artikel 2. Indeling in klassen
+##### Artikel 2. Indeling in klassen
 
 1. Het hoogste toezichthoudende orgaan van een rechtspersoon of instelling voor zorg of jeugdhulp deelt de rechtspersoon of instelling met inachtneming van de bijlage in een klasse in.
 
@@ -28,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 3. De verantwoordelijke vermeldt in het financieel verslaggevingsdocument de totaalscore alsmede de daaruit volgende klassenindeling, bedoeld in het tweede lid.
 
-#### Artikel 3. Bezoldigingsmaxima
+##### Artikel 3. Bezoldigingsmaxima
 
 De bezoldiging voor een topfunctionaris bij een rechtspersoon of instelling voor zorg of jeugdhulp bedraagt voor de klasse waarin de desbetreffende rechtspersoon of instelling is ingedeeld, niet meer dan het in onderstaande tabel opgenomen bedrag.
 
@@ -40,7 +66,7 @@ De bezoldiging voor een topfunctionaris bij een rechtspersoon of instelling voor
 | IV | € 241.000 |
 | V | Het bedrag, genoemd in [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3). |
 
-#### Artikel 4. Verzoek indeling in andere klasse
+##### Artikel 4. Verzoek indeling in andere klasse
 
 1. Een verzoek als bedoeld in [artikel 2.7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.7) om in een andere klasse te worden ingedeeld, wordt door een rechtspersoon of instelling voor zorg of jeugdhulp uiterlijk 16 weken voorafgaand aan de periode waarin de afwijkende klassenindeling moet ingaan ingediend.
 
@@ -50,17 +76,17 @@ De bezoldiging voor een topfunctionaris bij een rechtspersoon of instelling voor
 
 - b. een onderbouwing van de benodigde duur van de afwijking.
 
-#### Artikel 5. Wijziging Regeling bezoldigingsmaxima topfunctionarissen zorg- en welzijnssector
+##### Artikel 5. Wijziging Regeling bezoldigingsmaxima topfunctionarissen zorg- en welzijnssector
 
 Wijzigt de Regeling bezoldigingsmaxima topfunctionarissen zorg- en welzijnssector.
 
-#### Artikel 6. Intrekking van regelingen
+##### Artikel 6. Intrekking van regelingen
 
 1. De Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 november 2014, kenmerk 688563-129348-MEVA, houdende wijziging van de Regeling bezoldigingsmaxima topfunctionarissen zorg- en welzijnssector in verband met de vaststelling van de bezoldigingsmaxima voor het kalenderjaar 2015 (Stcrt. 2014, 34258) wordt ingetrokken.
 
 2. De [Regeling bezoldigingsmaxima topfunctionarissen zorg- en welzijnssector](https://wetten.overheid.nl/jci1.3:c:BWBR0034248) wordt ingetrokken.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 1. Deze regeling treedt, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=5&z=2026-01-01&g=2026-01-01), in werking met ingang van 1 januari 2016.
 
@@ -70,7 +96,7 @@ Wijzigt de Regeling bezoldigingsmaxima topfunctionarissen zorg- en welzijnssecto
 
 4. Artikel 5, onderdeel B, werkt terug tot en met 1 januari 2014.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bezoldigingsmaxima topfunctionarissen zorg en jeugdhulp.
 
@@ -160,7 +186,7 @@ Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
 Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
-#### Artikel 4a. Verzoek om individuele uitzondering op klassenindeling.
+##### Artikel 4a. Verzoek om individuele uitzondering op klassenindeling.
 
 1. Een verzoek om op grond van [artikel 2.7, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.7) ten aanzien van een topfunctionaris een hogere bezoldiging te mogen overeenkomen dan toegestaan op grond van deze regeling, wordt door een rechtspersoon of instelling voor zorg of jeugdhulp uiterlijk 6 weken voorafgaand aan de periode waarin de hogere bezoldiging moet ingaan ingediend.
 

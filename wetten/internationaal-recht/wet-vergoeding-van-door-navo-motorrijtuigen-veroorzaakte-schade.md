@@ -1,14 +1,38 @@
 ---
-title: "Wet vergoeding van door NAVO-motorrijtuigen veroorzaakte schade"
+title: "Wet van 11 december 1968, tot vergoeding van door NAVO-motorrijtuigen veroorzaakte schade"
 identifier: "BWBR0002641"
-categorie: "Internationaal recht"
-publicatiedatum: 2023-05-01
-laatste_update: 2023-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002641"
+country: "nl"
+rank: "wet"
+publication_date: "2023-05-01"
+last_updated: "2023-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002641"
+soort: "wet"
+stam_id: "367483"
+version_id: "540962"
+internal_id: "C540961"
+label_id: "359034"
+dtd_version: "2.0"
+original_entry_into_force: "1965-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002641/2023-05-01/0"
+intitule_bron: "Stb.1968-731"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1968-12-11"
+intitule_status: "goed"
+original_publication: "Stb.1968-731"
+original_signed_date: "1968-12-11"
+original_effect: "nieuwe-regeling"
+original_dossier: "9200"
+entry_into_force_date: "1965-01-01"
+entry_into_force_dossier: "9200"
+jci_1_3: "jci1.3:c:BWBR0002641&z=2023-05-01&g=2023-05-01"
+jci_1_0: "1.0:c:BWBR0002641&g=2023-05-01"
+citeertitel_status: "officieel"
+short_title: "Wet vergoeding van door NAVO-motorrijtuigen veroorzaakte schade"
+signed_date: "1968-12-11"
+entry_into_force: "1965-01-01"
 ---
-
-# Wet vergoeding van door NAVO-motorrijtuigen veroorzaakte schade
+# Wet van 11 december 1968, tot vergoeding van door NAVO-motorrijtuigen veroorzaakte schade
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +40,7 @@ Alzo Wij in overweging genomen hebben, dat het sedert het in werking treden van 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -26,11 +50,11 @@ krijgsmacht en civiele dienst: hetgeen daaronder wordt verstaan in het Verdrag;
 
 NAVO-motorrijtuigen: een motorrijtuig in de zin van [artikel 1 van de Wet Aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=1), dat als dienstvoertuig in gebruik is bij een krijgsmacht of bij een civiele dienst.
 
-#### Artikel 2
+##### Artikel 2
 
 Het bepaalde in [artikel 2 van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2) is niet van toepassing ten aanzien van een NAVO-motorrijtuig.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien met een NAVO-motorrijtuig in Nederland schade is toegebracht waarvoor de eigenaar, houder of bestuurder van dat motorrijtuig of een persoon die daarmede wordt vervoerd, aansprakelijk is, wordt die schade door de Staat vergoed, voorzover bovengenoemden voor de vergoeding van die schade aansprakelijk zijn.
 
@@ -40,7 +64,7 @@ Het bepaalde in [artikel 2 van de Wet aansprakelijkheidsverzekering motorrijtuig
 
 4. Tenzij verrekening plaatsvindt volgens de regels bij het Verdrag gesteld, heeft de Staat een recht van verhaal tegen de aansprakelijke personen; bij het verhaal voor schadevergoeding wordt rekening gehouden met een grond tot matiging, als bedoeld in het vorige lid, van de wettelijke verplichting tot schadevergoeding van de aangesproken persoon.
 
-#### Artikel 4
+##### Artikel 4
 
 Het bepaalde in het vorige artikel is niet van toepassing, tenzij verrekening plaatsvindt volgens de regels bij het Verdrag gesteld:
 
@@ -56,7 +80,7 @@ Het bepaalde in het vorige artikel is niet van toepassing, tenzij verrekening pl
 
 - 4e. de echtgenote van de onder 2e en 3e genoemde personen, alsmede hun bloed- en aanverwanten in de rechte linie, mits dezen bij hen inwonen en door hen worden onderhouden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Deze wet kan worden aangehaald als: Wet vergoeding van door NAVO-motorrijtuigen veroorzaakte schade.
 

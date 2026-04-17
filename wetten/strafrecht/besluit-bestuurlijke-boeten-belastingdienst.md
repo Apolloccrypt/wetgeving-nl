@@ -1,13 +1,38 @@
 ---
 title: "Besluit Bestuurlijke Boeten Belastingdienst"
 identifier: "BWBR0038145"
-categorie: "Strafrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038145"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038145"
+soort: "beleidsregel"
+stam_id: "13670233"
+version_id: "23414392"
+internal_id: "C33739691"
+label_id: "13637824"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038145/2025-01-01/0"
+intitule_bron: "Stcrt.2016-34921"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-06-28"
+intitule_published: "2016-06-30"
+intitule_in_force: "2016-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-34921"
+original_signed_date: "2016-06-28"
+original_published_date: "2016-06-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-34921"
+entry_into_force_date: "2016-07-01"
+jci_1_3: "jci1.3:c:BWBR0038145&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0038145&g=2025-01-01"
+citeertitel_status: "officieel"
+signed_date: "2016-06-28"
+entry_into_force: "2016-07-01"
 ---
-
 # Besluit Bestuurlijke Boeten Belastingdienst
 
 Dit besluit betreft een wijziging van het [besluit van 23 december 2015, nr. BLKB2015/1429M](https://wetten.overheid.nl/jci1.3:c:BWBR0037437), Stcrt. 2015, nr. 46501 (Besluit Bestuurlijke Boeten Belastingdienst) in verband met het verhogen van de boete bij inkeer van verzwegen vermogen van 60% naar 120% per 1 juli 2016. Deze wijziging is opgenomen in [paragraaf 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=7&z=2025-01-01&g=2025-01-01). Daarnaast is een verouderde verwijzing in [paragraaf 24a, derde lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBR0037437&paragraaf=24a) aangepast.

@@ -1,13 +1,39 @@
 ---
-title: "Specifiek interventiebeleid NVWA Wet op de dierproeven (IB03-SPEC 14, versie 4)"
+title: "Besluit van de Inspecteur-generaal van de Nederlandse Voedselautoriteit, namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 december 2023 tot vaststelling van het Specifiek interventiebeleid NVWA Wet op de dierproeven (IB03-SPEC 14, versie 4)"
 identifier: "BWBR0049228"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-13
-laatste_update: 2024-01-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049228"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-01-13"
+last_updated: "2024-01-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049228"
+soort: "beleidsregel"
+stam_id: "16998393"
+version_id: "29896342"
+internal_id: "C42860111"
+label_id: "16908824"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049228/2024-01-13/0"
+intitule_bron: "Stcrt.2024-196"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-19"
+intitule_published: "2024-01-12"
+intitule_in_force: "2024-01-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-196"
+original_signed_date: "2023-12-19"
+original_published_date: "2024-01-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-196"
+entry_into_force_date: "2024-01-13"
+jci_1_3: "jci1.3:c:BWBR0049228&z=2024-01-13&g=2024-01-13"
+jci_1_0: "1.0:c:BWBR0049228&g=2024-01-13"
+citeertitel_status: "officieel"
+short_title: "Specifiek interventiebeleid NVWA Wet op de dierproeven (IB03-SPEC 14, versie 4)"
+signed_date: "2023-12-19"
+entry_into_force: "2024-01-13"
 ---
-
 # Besluit van de Inspecteur-generaal van de Nederlandse Voedselautoriteit, namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 december 2023 tot vaststelling van het Specifiek interventiebeleid NVWA Wet op de dierproeven (IB03-SPEC 14, versie 4)
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,

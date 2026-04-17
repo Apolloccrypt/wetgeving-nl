@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de winning van steenkolen in het Nederlands-Duitse grensgebied ten westen van Wegberg - Brüggen"
 identifier: "BWBV0006512"
-categorie: "Internationaal recht"
-publicatiedatum: 1959-10-24
-laatste_update: 1959-10-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006512"
+country: "nl"
+rank: "verdrag"
+publication_date: "1959-10-24"
+last_updated: "1959-10-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006512"
+soort: "verdrag"
+stam_id: "10005306973"
+version_id: "10005706032"
+internal_id: "C10008833941"
+label_id: "10005289904"
+dtd_version: "2.0"
+original_entry_into_force: "1959-10-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006512/1959-10-24/0"
+intitule_bron: "Trb.1958-77"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1958-01-28"
+intitule_published: "1958-06-18"
+intitule_in_force: "1959-10-10"
+intitule_status: "goed"
+original_publication: "Trb.1958-77"
+original_signed_date: "1958-01-28"
+original_published_date: "1958-06-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1958-77"
+entry_into_force_date: "1959-10-24"
+jci_1_3: "jci1.3:c:BWBV0006512&z=1959-10-24&g=1959-10-24"
+jci_1_0: "1.0:c:BWBV0006512&g=1959-10-24"
+citeertitel_status: "redactioneel"
+signed_date: "1958-01-28"
+entry_into_force: "1959-10-24"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de winning van steenkolen in het Nederlands-Duitse grensgebied ten westen van Wegberg - Brüggen
 
 Hare Majesteit de Koningin der Nederlanden en
@@ -30,7 +55,7 @@ Bondsminister van Buitenlandse Zaken,
 
 die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewisseld, zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 (1). Het verdrag is van toepassing op het verdragsgebied.
 
@@ -44,25 +69,25 @@ die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewiss
 
 (3). De in lid (2) vermelde kaart vormt een bestanddeel van dit verdrag.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de in artikel 1, lid (2), onder **b**) genoemde steenkolenvelden en het onder **c**) genoemde concessievrije gebied wordt het verdrag van toepassing met de ingevolge het „Preussische Gesetz über den Bergwerksbetrieb ausländischer juristischer Personen und den Geschäftsbetrieb ausserpreussischer Gewerkschaften” van 23 juni 1909 („Gesetzsammlung” bladzijde 619) vereiste vergunningen.
 
-#### Artikel 3
+##### Artikel 3
 
 De steenkolenmijnbouw in het verdragsgebied dient te worden uitgeoefend door een mijnonderneming naar Nederlands recht, die in Nederland is gevestigd en in het aangrenzende Nederlandse gebied in eigen concessie steenkolenmijnbouw uitoefent (Nederlandse mijnonderneming).
 
-#### Artikel 4
+##### Artikel 4
 
 (1). Voor de mijnbouw in het verdragsgebied wordt, onafhankelijk van de Nederlands-Duitse rijksgrens, een ontginningsgrens overeengekomen. Deze wordt aan de oppervlakte gevormd door de verbindingslijnen der punten 33, 34, 8, 9, 10, 11, 12, 13, 14, 15, 35 en is op bijgaande kaart met rood aangegeven.
 
 (2). Aan beide zijden van de ontginningsgrens moet een grensmuur van 10 meter dikte — rechthoekig op die grens gemeten — onontgonnen blijven. Het doorbreken, versmallen of ontginnen van deze grensmuur is slechts met toestemming van het bevoegde Toezicht op de mijnen geoorloofd. De toestemming mag slechts worden verleend, nadat het Toezicht op de mijnen van het andere land zich daarmede heeft verenigd.
 
-#### Artikel 5
+##### Artikel 5
 
 In het in artikel 1, lid (2), onder **a**) genoemde steenkolenveld mogen schachten en daarbij behorende bovengrondse werken worden opgericht, daarentegen niet in het overige verdragsgebied.
 
-#### Artikel 6
+##### Artikel 6
 
 (1). Met betrekking tot het toezicht op het ondergrondse mijnbedrijf in het verdragsgebied gelden de Nederlandse rechts- en bestuursvoorschriften.
 
@@ -70,13 +95,13 @@ In het in artikel 1, lid (2), onder **a**) genoemde steenkolenveld mogen schacht
 
 (3). Is naar het oordeel van het Duitse Toezicht op de mijnen, ter bescherming van de oppervlakte in het belang van de persoonlijke veiligheid en van het openbaar verkeer of ter bescherming van andere delfstofafzettingen, het treffen van bijzondere maatregelen voor de ontginning in het verdragsgebied noodzakelijk, dan zal het Nederlandse Toezicht op de mijnen, in overeenstemming met het Duitse Toezicht op de mijnen, deze maatregelen treffen naar analogie van de voor soortgelijke gevallen in de Bondsrepubliek Duitsland gebruikelijke richtlijnen. Te dien einde verstrekt het Nederlandse Toezicht op de mijnen aan het Duitse Toezicht op de mijnen op verzoek alle noodzakelijke inlichtingen.
 
-#### Artikel 7
+##### Artikel 7
 
 (1). Met betrekking tot het toezicht op schachten en daarbij behorende bovengrondse werken in het verdragsgebied gelden de Duitse rechts- en bestuursvoorschriften, die — voor zover redelijkerwijs mogelijk — in overeenstemming moeten zijn met de terzake geldende Nederlandse voorschriften.
 
 (2). Tot het uitoefenen van toezicht op schachten en daarbij behorende bovengrondse werken in het verdragsgebied is het Duitse Toezicht op de mijnen bevoegd.
 
-#### Artikel 8
+##### Artikel 8
 
 (1). Aan het Duitse Toezicht op de mijnen, alsmede aan de door deze instantie gemachtigde en van overheidswege erkende Duitse mijnmeters is het, indien daarvoor gegronde redenen bestaan, geoorloofd, in de binnen het verdragsgebied gelegen ondergrondse werken af te dalen en aldaar metingen te verrichten. Voor de afdaling kan van schachten op Nederlands of op Duits gebied gebruik worden gemaakt.
 
@@ -84,11 +109,11 @@ In het in artikel 1, lid (2), onder **a**) genoemde steenkolenveld mogen schacht
 
 (3). In het verdragsgebied en in het naburige gebied mag de Nederlandse mijnonderneming boringen en geophysische onderzoekingen doen uitvoeren, voor zover dit ter vaststelling van de geologische situatie en de ligging der kolenafzettingen in het verdragsgebied dienstig voorkomt.
 
-#### Artikel 9
+##### Artikel 9
 
 Het Nederlandse Toezicht op de mijnen stelt het Duitse Toezicht op de mijnen de volgens de Nederlandse mijnpolitionele bepalingen voorgeschreven werkplannen betreffende de geprojecteerde ontginning in het verdragsgebied telkenmale ter beschikking.
 
-#### Artikel 10
+##### Artikel 10
 
 (1). Het Nederlandse en het Duitse Toezicht op de mijnen zullen de ontginning langs de ontginningsgrens slechts toestaan onder de voorwaarde, dat de mijnondernemingen de ontginningswerken over een breedte van 500 meter aan gene zijde van de ontginningsgrens op hun mijnkaarten overbrengen. Te dien einde zullen het Nederlandse en het Duitse Toezicht op de mijnen de desbetreffende mijnkaarten, die door erkende Nederlandse of van overheidswege erkende Duitse mijnmeters vervaardigd en regelmatig bijgehouden moeten worden, halfjaarlijks uitwisselen, voor zover en zolang in het desbetreffende gebied ontginning plaats vindt.
 
@@ -96,35 +121,35 @@ Het Nederlandse Toezicht op de mijnen stelt het Duitse Toezicht op de mijnen de 
 
 (3). Omtrent de inzage van deze mijnkaarten door derden beslissen de autoriteiten en rechterlijke instanties van het land, waaraan de mijnkaarten ter beschikking zijn gesteld, overeenkomstig de voor hen geldende bepalingen.
 
-#### Artikel 11
+##### Artikel 11
 
 Voor springstoffen, die ten behoeve van de ondergrondse werken in het verdragsgebied uit Nederland naar het bovengrondse verdragsgebied gebracht of daar doorgevoerd worden, gelden de Duitse veiligheidsvoorschriften.
 
-#### Artikel 12
+##### Artikel 12
 
 Handelingen en nalatigheden in de binnen het verdragsgebied gelegen ondergrondse werken worden strafrechtelijk en burgerrechtelijk behandeld als waren deze in Nederland geschied.
 
-#### Artikel 13
+##### Artikel 13
 
 (1). In juridisch opzicht zijn de gevolgen, die bovengronds uit de ondergrondse ontginning voortvloeien, onderworpen aan het recht en de jurisdictie van de staat op welks gebied deze gevolgen bovengronds aan de dag treden. Dit geldt in het bijzonder voor de vergoeding van alle soorten schade, zowel aan personen als aan goederen, die bovengronds uit de ondergrondse ontginning voortvloeien.
 
 (2). Betalingen wegens schadevergoeding aan een Duitse crediteur zullen naar het gebied van de Bondsrepubliek Duitsland worden overgemaakt.
 
-#### Artikel 14
+##### Artikel 14
 
 Op het gebied van het arbeidsrecht en van de sociale zekerheid wordt de positie der werknemers, die in het mijnbedrijf in het verdragsgebied werkzaam zijn, door Nederlands recht beheerst. Op het gebied der sociale zekerheid gelden overigens de te eniger tijd tussen Nederland en de Bondsrepubliek Duitsland van kracht zijnde internationale overeenkomsten.
 
-#### Artikel 15
+##### Artikel 15
 
 (1). De in het verdragsgebied gelegen concessies van de Nederlandse mijnonderneming, alsmede de hieruit verkregen inkomsten, zijn in de Bondsrepubliek Duitsland niet onderworpen aan de vermogensbelasting en aan de belastingen van het inkomen.
 
 (2). De in het verdragsgebied aangelegde mijnwerken van de Nederlandse mijnonderneming en de door middel van deze werken verkregen inkomsten, zijn in de Bondsrepubliek Duitsland niet onderworpen aan de vermogensbelasting en aan de belastingen van het inkomen, tenzij de onderneming in het verdragsgebied een schacht ten behoeve van het vervoer van kolen (productieschacht) in gebruik heeft.
 
-#### Artikel 16
+##### Artikel 16
 
 De niet-zelfstandige arbeid van werknemers, die door de Nederlandse mijnonderneming te werk zijn gesteld in de mijnwerken, welke in het verdragsgebied zijn aangelegd, geldt voor wat betreft de belastingheffing van de werknemers als in Nederland uitgeoefend. Voor zover deze bepaling betrekking heeft op de belastingheffing van werknemers, die hun woonplaats in de Bondsrepubliek Duitsland hebben en in het verdragsgebied bovengronds werkzaam zijn of geregeld via een in het verdragsgebied gelegen schacht afdalen, kan deze, met inachtneming van een termijn van 6 maanden, met ingang van 1 januari worden opgezegd.
 
-#### Artikel 17
+##### Artikel 17
 
 (1). De Bondsrepubliek Duitsland verleent ten behoeve van de mijnwerken in het verdragsgebied de navolgende faciliteiten:
 
@@ -142,27 +167,27 @@ De niet-zelfstandige arbeid van werknemers, die door de Nederlandse mijnondernem
 
 (4). In het kader van hun bevoegdheid verlenen de autoriteiten der beide verdragsstaten elkander bijstand bij de uitvoering van dit artikel, in het bijzonder om strafbare handelingen te voorkomen of op te sporen.
 
-#### Artikel 18
+##### Artikel 18
 
 Het „Gesetz zur Förderung des Bergarbeiterwohnungsbaues im Kohlenbergbau” van 23 oktober 1951 („Bundesgesetzblatt” I, bladzijde 865) en het „Gesetz über Bergmannsprämien” van 20 december 1956 („Bundesgesetzblatt” I, bladzijde 927), zoals zij te eniger tijd luiden, zijn niet van toepassing op de mijnbouw in het verdragsgebied.
 
-#### Artikel 19
+##### Artikel 19
 
 (1). De kolen, welke in het verdragsgebied zijn gedolven, behoren in economisch opzicht tot de Nederlandse kolenproduktie.
 
 (2). Nederland is gerechtigd over de in het verdragsgebied gedolven kolen te beschikken op dezelfde wijze als over kolen, die binnen Nederlands grondgebied worden gewonnen.
 
-#### Artikel 20
+##### Artikel 20
 
 (1). De bepalingen van bijlage C van het Verdrag tussen de Duitse en Nederlandse Regering van 11 mei 1920 nopens crediet en steenkolen blijven onverminderd van kracht, voor zover niet uit het onderhavige verdrag iets anders voortvloeit.
 
 (2). De bepalingen van bijlage D van het in lid (1) genoemde verdrag zijn van overeenkomstige toepassing op het onderhavige verdrag.
 
-#### Artikel 21
+##### Artikel 21
 
 De bevoegde Nederlandse en Duitse Ministers zullen de overeenkomsten aangaan, die tot uitvoering van dit verdrag of in verband daarmede noodzakelijk zijn. Deze overeenkomsten worden door notawisseling langs diplomatieke weg bevestigd en treden daarmede in werking.
 
-#### Artikel 22
+##### Artikel 22
 
 (1). Het verdrag moet worden bekrachtigd. De uitwisseling van de akten van bekrachtiging zal zo spoedig mogelijk te 's-Gravenhage plaats vinden.
 

@@ -1,14 +1,37 @@
 ---
-title: "Wet melding collectief ontslag"
+title: "Wet van 24 maart 1976, houdende regelen inzake melding van collectief ontslag"
 identifier: "BWBR0003026"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003026"
+country: "nl"
+rank: "wet"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003026"
+soort: "wet"
+stam_id: "581203"
+version_id: "847532"
+internal_id: "C847541"
+label_id: "564134"
+dtd_version: "2.0"
+original_entry_into_force: "1976-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003026/2018-01-01/0"
+intitule_bron: "Stb.1976-223"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1976-03-24"
+intitule_status: "goed"
+original_publication: "Stb.1976-223"
+original_signed_date: "1976-03-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "13324"
+entry_into_force_date: "1976-12-01"
+jci_1_3: "jci1.3:c:BWBR0003026&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0003026&g=2018-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet melding collectief ontslag"
+signed_date: "1976-03-24"
+entry_into_force: "1976-12-01"
 ---
-
-# Wet melding collectief ontslag
+# Wet van 24 maart 1976, houdende regelen inzake melding van collectief ontslag
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +41,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet wordt verstaan onder:
 
@@ -34,7 +57,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Bij ministeriële regeling kunnen categorieën van personen, voor de toepassing van deze wet, gelijk worden gesteld met werknemers als bedoeld in het eerste lid, onderdeel b.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze wet is niet van toepassing op het beëindigen van:
 
@@ -46,7 +69,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 2. Verplichting tot melding collectief ontslag
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een werkgever die voornemens is de arbeidsovereenkomsten van ten minste twintig werknemers, werkzaam in één werkgebied, op een of meer binnen een tijdvak van drie maanden gelegen tijdstippen te beëindigen, meldt dit ter tijdige raadpleging schriftelijk aan de belanghebbende verenigingen van werknemers. Een gelijke schriftelijke melding doet hij aan het Uitvoeringsinstituut werknemersverzekeringen; in geval van faillissement of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen alleen op verzoek van het Uitvoeringsinstituut werknemersverzekeringen.
 
@@ -54,7 +77,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Als belanghebbende vereniging van werknemers wordt beschouwd een vereniging van werknemers, die in de onderneming werkzame personen onder haar leden telt, krachtens haar statuten ten doel heeft de belangen van haar leden als werknemers te behartigen, als zodanig in de betrokken onderneming of bedrijfstak werkzaam is, voorts ten minste twee jaar in het bezit is van rechtspersoonlijkheid en als zodanig aan de werkgever bekend is. Deze bekendheid wordt verondersteld, indien de vereniging aan de werkgever schriftelijk heeft te kennen gegeven dat zij prijs stelt op meldingen van voornemens als bedoeld in het eerste lid.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De werkgever doet bij de meldingen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2018-01-01&g=2018-01-01), opgave van de overwegingen die tot het daar bedoelde voornemen hebben geleid.
 
@@ -84,11 +107,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 6. Het derde tot en met vijfde lid zijn niet van toepassing op het beëindigen van een arbeidsovereenkomst ten gevolge van faillissement van de werkgever of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien bij een melding aan het Uitvoeringsinstituut werknemersverzekeringen de ingevolge [artikel 4, eerste t/m vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=4&z=2018-01-01&g=2018-01-01) vereiste gegevens niet volledig zijn verstrekt, zendt het Uitvoeringsinstituut werknemersverzekeringen aan de werkgever een schriftelijke mededeling, aangevende welke gegevens nog ontbreken. Zolang de ontbrekende gegevens niet zijn verstrekt, wordt de melding geacht niet te zijn gedaan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen of de commissie neemt verzoeken om toestemming tot het mogen opzeggen van de arbeidsovereenkomsten van werknemers niet eerder in behandeling, dan wel neemt verzoeken waarop het nog niet heeft beslist niet verder in behandeling dan nadat:
 
@@ -100,7 +123,7 @@ Indien bij een melding aan het Uitvoeringsinstituut werknemersverzekeringen de i
 
 3. Een besluit als bedoeld in het tweede lid behoeft de goedkeuring van Onze Minister. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Een verzoek van de werkgever om de arbeidsovereenkomst met een werknemer om bedrijfseconomische redenen te ontbinden kan de rechter slechts inwilligen, indien hij zich ervan heeft vergewist of het verzoek verband houdt met een voorgenomen beëindiging als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2018-01-01&g=2018-01-01), en zo ja, of bij het verzoekschrift een schriftelijke verklaring is gevoegd van:
 
@@ -112,7 +135,7 @@ Indien bij een melding aan het Uitvoeringsinstituut werknemersverzekeringen de i
 
 #### § 3. Gevolgen van niet-naleving meldingsplicht
 
-#### Artikel 7
+##### Artikel 7
 
 1. De opzegging door de werkgever, behoudens in het geval het Uitvoeringsinstituut werknemersverzekeringen of de commissie daarvoor toestemming heeft verleend met toepassing van [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=6&z=2018-01-01&g=2018-01-01), en een op initiatief van de werkgever gesloten beëindigingsovereenkomst kunnen op verzoek van de werknemer door de kantonrechter worden vernietigd, indien:
 
@@ -130,11 +153,11 @@ Indien bij een melding aan het Uitvoeringsinstituut werknemersverzekeringen de i
 
 #### § 4. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Ieder die uit hoofde van zijn functie bij een vereniging van werknemers of in een commissie die het Uitvoeringsinstituut werknemersverzekeringen van advies dient, kennis neemt van een melding als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003026&paragraaf=2&artikel=3&z=2018-01-01&g=2018-01-01) is verplicht tot geheimhouding van deze melding en van de inhoud daarvan, indien de werkgever dit bij die melding, onder opgave van redenen, uitdrukkelijk heeft verzocht. Deze verplichting vervalt zodra de verzoeken om toestemming tot het mogen opzeggen van de arbeidsovereenkomst of verzoeken om ontbinding van de arbeidsovereenkomst in behandeling worden genomen, dan wel zoveel eerder als daaromtrent overeenstemming wordt bereikt tussen de werkgever en de verenigingen van werknemers aan welke de melding is gedaan.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Deze wet kan worden aangehaald als: Wet melding collectief ontslag.
 
@@ -142,7 +165,7 @@ Ieder die uit hoofde van zijn functie bij een vereniging van werknemers of in ee
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. De arbeidsovereenkomst kan niet eerder door de werkgever worden opgezegd, op verzoek van de werkgever door de rechter worden ontbonden of op initiatief van de werkgever door middel van een beëindigingsovereenkomst worden beëindigd, dan een maand nadat het voornemen daartoe is gemeld, tenzij uit een verklaring van de belanghebbende verenigingen van werknemers blijkt dat zij zijn geraadpleegd en dat zij zich met de beëindigingen kunnen verenigen.
 
@@ -150,7 +173,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 3. Gevolgen van niet-naleving meldingsplicht
 
-#### Artikel 7a
+##### Artikel 7a
 
 Voor de toepassing van deze wet wordt de werkgever geacht aan de verplichting tot raadpleging van een belanghebbende vereniging van werknemers te hebben voldaan indien deze vereniging:
 

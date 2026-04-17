@@ -1,13 +1,38 @@
 ---
 title: "Vreemdelingencirculaire 2000 (A)"
 identifier: "BWBR0012287"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-04-03
-laatste_update: 2026-04-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012287"
+country: "nl"
+rank: "circulaire"
+publication_date: "2026-04-03"
+last_updated: "2026-04-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012287"
+soort: "circulaire"
+stam_id: "7223483"
+version_id: "29645082"
+internal_id: "C42462281"
+label_id: "7224764"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012287/2026-04-03/0"
+intitule_bron: "Supplement-Stcrt.2001-64"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-03-02"
+intitule_published: "2001-03-30"
+intitule_in_force: "2001-03-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-26470"
+original_signed_date: "2023-09-25"
+original_published_date: "2023-09-29"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-26470"
+entry_into_force_date: "2023-10-01"
+jci_1_3: "jci1.3:c:BWBR0012287&z=2026-04-03&g=2026-04-03"
+jci_1_0: "1.0:c:BWBR0012287&g=2026-04-03"
+citeertitel_status: "redactioneel"
+signed_date: "2023-09-25"
+entry_into_force: "2023-10-01"
 ---
-
 # Vreemdelingencirculaire 2000 (A)
 
 ### Afkortingenlijst

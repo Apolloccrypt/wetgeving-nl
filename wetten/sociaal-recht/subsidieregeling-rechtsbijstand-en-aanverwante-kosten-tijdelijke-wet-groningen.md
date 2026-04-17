@@ -1,13 +1,38 @@
 ---
 title: "Subsidieregeling rechtsbijstand en aanverwante kosten Tijdelijke wet Groningen"
 identifier: "BWBR0048519"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-22
-laatste_update: 2026-01-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048519"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-22"
+last_updated: "2026-01-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048519"
+soort: "zbo"
+stam_id: "16829223"
+version_id: "29569642"
+internal_id: "C42270131"
+label_id: "16741954"
+dtd_version: "2.0"
+original_entry_into_force: "2023-08-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048519/2026-01-22/0"
+intitule_bron: "Stcrt.2023-22116"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-08-01"
+intitule_published: "2023-08-09"
+intitule_in_force: "2023-08-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-22116"
+original_signed_date: "2023-08-01"
+original_published_date: "2023-08-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-22116"
+entry_into_force_date: "2023-08-10"
+jci_1_3: "jci1.3:c:BWBR0048519&z=2026-01-22&g=2026-01-22"
+jci_1_0: "1.0:c:BWBR0048519&g=2026-01-22"
+citeertitel_status: "officieel"
+signed_date: "2023-08-01"
+entry_into_force: "2023-08-10"
 ---
-
 # Subsidieregeling rechtsbijstand en aanverwante kosten Tijdelijke wet Groningen
 
 gelet op [artikel 33e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33e), [37b](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37b) en [37c van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37c), waarin is bepaald dat het bestuur van de Raad voor Rechtsbijstand subsidie kan verstrekken ten behoeve van en met het oog op de verlening van rechtsbijstand voor bijzondere doeleinden en projecten en [artikel 13n Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13n) waarin als bijzondere doeleinden als hiervoor genoemd rechtsbijstand en het inroepen van advies van een bouwkundige of financiële adviseur in het kader van het verlenen van rechtsbijstand zijn aangewezen,
@@ -16,7 +41,7 @@ besluit:
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze subsidieregeling wordt verstaan onder:
 
@@ -52,13 +77,13 @@ In deze subsidieregeling wordt verstaan onder:
 
 - p. **Wrb:** [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368).
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Deze regeling heeft tot doel subsidie te verstrekken ten behoeve van en met het oog op de verlening van rechtsbijstand als bedoeld in [artikel 13n, eerste lid TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13n), het bieden van mediation aan de rechtzoekende en ter vergoeding van opleidingskosten van advocaten, alsmede de vergoeding voor advies door een deskundige. Enkel de rechtsbijstand op basis van artikel 13n, lid 1 en 2 TwG komt in aanmerking voor vergoeding op basis van deze regeling.
 
 ### Hoofdstuk II. De vergoeding voor rechtsbijstand
 
-#### Artikel 3. De vergoedingen
+##### Artikel 3. De vergoedingen
 
 1. Advocaten ontvangen overeenkomstig de bepalingen van deze regeling een vergoeding voor de verlening van rechtsbijstand.
 
@@ -78,7 +103,7 @@ Deze regeling heeft tot doel subsidie te verstrekken ten behoeve van en met het 
 
 5. Bij de toepassing van deze regeling wordt de financiële draagkracht van de rechtzoekende buiten beschouwing gelaten.
 
-#### Artikel 4. Vergoedingen voor rechtsbijstandsverlening
+##### Artikel 4. Vergoedingen voor rechtsbijstandsverlening
 
 1. Voor de rechtsbijstand aan de rechtzoekende, zoals bedoeld in deze regeling, wordt een vergoeding van 40 punten toegekend voor rechtsbijstand bij het proces, bedoeld in [artikel 2 van de TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2), vanaf het indienen van een zienswijze in het kader van de aanvraag om vergoeding van schade bij het Instituut, waaronder het indienen van bezwaar.
 
@@ -112,7 +137,7 @@ vanaf het treffen van een rechtsmaatregel of het starten van een procedure bij d
 
 12. [Artikel 32 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=32) is van overeenkomstige toepassing op de in het eerste tot en met zesde lid genoemde fases in de procedure.
 
-#### Artikel 5. Vergoeding voor reiskosten en reistijdverlet
+##### Artikel 5. Vergoeding voor reiskosten en reistijdverlet
 
 1. Voor vergoeding van de kosten in verband met het reizen ten behoeve van de verlening van rechtsbijstand tijdens de zitting van de bezwaarschriftenadviescommissie, alsmede de zitting bij de rechtbank, alsmede de zitting bij de Afdeling Bestuursrechtspraak van de Raad van State is [artikel 25 Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=25) van overeenkomstige toepassing.
 
@@ -122,11 +147,11 @@ vanaf het treffen van een rechtsmaatregel of het starten van een procedure bij d
 
 4. De Raad bepaalt de reisafstand op gestandaardiseerde wijze.
 
-#### Artikel 6. Onkostenvergoeding
+##### Artikel 6. Onkostenvergoeding
 
 Voor gemaakte kosten vanwege deelname aan deze regeling wordt een vergoeding van 2 punten per zaak toegekend.
 
-#### Artikel 7. Kosteloze rechtsbijstand voor de rechtzoekende
+##### Artikel 7. Kosteloze rechtsbijstand voor de rechtzoekende
 
 1. De rechtsbijstand is voor de rechtzoekende kosteloos. Er wordt geen eigen bijdrage opgelegd.
 
@@ -138,7 +163,7 @@ Voor gemaakte kosten vanwege deelname aan deze regeling wordt een vergoeding van
 
 ### Hoofdstuk III. De vergoeding voor mediation
 
-#### Artikel 8. Kosteloze mediation voor de rechtzoekende en vergoeding voor mediation
+##### Artikel 8. Kosteloze mediation voor de rechtzoekende en vergoeding voor mediation
 
 1. De (advocaat van de) rechtzoekende en het Instituut of de Minister van Binnenlandse Zaken en Koninkrijksrelaties (lees: NCG) kunnen met elkaar afspreken om mediation in te zetten.
 
@@ -150,7 +175,7 @@ Voor gemaakte kosten vanwege deelname aan deze regeling wordt een vergoeding van
 
 ### Hoofdstuk IV. De vergoeding voor financieel en/of bouwkundig advies
 
-#### Artikel 9. Vergoeding voor advies door een deskundige
+##### Artikel 9. Vergoeding voor advies door een deskundige
 
 1. De advocaat en de mediator kunnen namens de rechtzoekende het advies van een deskundige, die is beoordeeld op de daarvoor van toepassing zijnde kwaliteitsvereisten door het Instituut of de Minister van Binnenlandse Zaken en Koninkrijksrelaties (lees: NCG), inroepen.
 
@@ -158,7 +183,7 @@ Voor gemaakte kosten vanwege deelname aan deze regeling wordt een vergoeding van
 
 ### Hoofdstuk V. Voorwaarden
 
-#### Artikel 10. Voorwaarden tot deelname voor advocaten
+##### Artikel 10. Voorwaarden tot deelname voor advocaten
 
 1. De regeling is van toepassing op advocaten die zaken doen:
 
@@ -168,13 +193,13 @@ Voor gemaakte kosten vanwege deelname aan deze regeling wordt een vergoeding van
 
 2. Advocaten kunnen een gemotiveerd verzoek tot deelname indienen bij het bestuur.
 
-#### Artikel 11. Voorwaarden tot deelname voor mediators
+##### Artikel 11. Voorwaarden tot deelname voor mediators
 
 1. De regeling is van toepassing op mediators die voldoen aan de in de bijlage onder II genoemde deelnamecriteria.
 
 2. Mediators kunnen een gemotiveerd verzoek tot deelname indienen bij het bestuur.
 
-#### Artikel 12. Vergoeding van opleidingskosten
+##### Artikel 12. Vergoeding van opleidingskosten
 
 1. Ten behoeve van de verlening van rechtsbijstand worden de opleidingskosten voor een door het bestuur goedgekeurde cursus op het terrein van bestuursrecht, zoals genoemd in artikel 2b van de deelnamecriteria advocaten bestuursrecht, vergoed.
 
@@ -186,7 +211,7 @@ Voor gemaakte kosten vanwege deelname aan deze regeling wordt een vergoeding van
 
 ### Hoofdstuk VI. Aanvraag rechtsbijstand
 
-#### Artikel 13. Aanvraag van de rechtsbijstand
+##### Artikel 13. Aanvraag van de rechtsbijstand
 
 1. De aanvraag voor rechtsbijstand wordt initieel door de rechtzoekende bij het bestuur ingediend.
 
@@ -202,13 +227,13 @@ Voor gemaakte kosten vanwege deelname aan deze regeling wordt een vergoeding van
 
 7. De advocaat respectievelijk mediator dient voor de werkzaamheden als genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=II&artikel=4&z=2026-01-22&g=2026-01-22) respectievelijk [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=III&artikel=8&z=2026-01-22&g=2026-01-22), een aanvraag in voor de in dat artikel genoemde werkzaamheden. Voor deze aanvraag voor rechtsbijstand respectievelijk mediation gebruikt de advocaat respectievelijk de mediator een gestandaardiseerd aanvraagformulier, en voegt hierbij een afschrift van de bestreden beslissing waarop de betreffende aanvraag voor rechtsbijstand ziet, voor zover van toepassing.
 
-#### Artikel 14. Aanvraag van de vergoeding
+##### Artikel 14. Aanvraag van de vergoeding
 
 Binnen zes maanden na afronding van de werkzaamheden die in het kader van deze regeling worden vergoed, vraagt de toegevoegde advocaat respectievelijk mediator de vergoeding aan met het door het bestuur vastgestelde declaratieformulier. Bij dit formulier voegt de advocaat respectievelijk mediator, indien van toepassing, de uitspraak, beslissing of vaststellingsovereenkomst, vergezeld van een specificatie van de met die rechtsbijstandverlening gemoeide tijdsbesteding overeenkomstig door het bestuur gestelde regels.
 
 ### Hoofdstuk VII. Overige bepalingen
 
-#### Artikel 15. Monitoring en evaluatiebepaling
+##### Artikel 15. Monitoring en evaluatiebepaling
 
 1. Voor deze regeling zal het kenniscentrum van het bestuur een monitor opzetten waarmee in ieder geval elk half jaar geëvalueerd wordt of deze bepalingen aansluiten bij de praktijk. In het eerste jaar na inwerkingtreding vindt er per drie maanden een evaluatie plaats om bij te kunnen sturen.
 
@@ -216,17 +241,17 @@ Binnen zes maanden na afronding van de werkzaamheden die in het kader van deze r
 
 ### Hoofdstuk VIII. Overgangs- en slotbepalingen
 
-#### Artikel 16. Overgangsbepaling
+##### Artikel 16. Overgangsbepaling
 
 1. Deze regeling is van toepassing op voorbereidingen van het versterkingsbesluit die nog in uitvoering zijn nadat een beoordeling is ontvangen door de eigenaar dan wel verzoeken tot schadevergoeding onder de [TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252), die op het moment van inwerkingtreding van deze regeling nog in behandeling zijn, en waarop nog geen voornemen is uitgebracht dan wel beslissing op bezwaar door het Instituut is genomen.
 
 2. Verzoeken voor toevoeging, zoals bedoeld in het [derde, vierde en vijfde lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=II&artikel=4&z=2026-01-22&g=2026-01-22), vallen onder deze regeling, indien in de procedure waarvoor de toevoeging wordt gevraagd op het moment van inwerkingtreding van deze regeling nog geen uitspraak is gedaan.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling rechtsbijstand en aanverwante kosten Tijdelijke wet Groningen.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 juli 2023. Indien publicatie van de regeling in de Staatscourant na die datum ligt, treedt deze regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 juli 2023.
 

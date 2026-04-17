@@ -1,13 +1,38 @@
 ---
 title: "Besluit meldingsplichtige grensoverschrijdende constructies"
 identifier: "BWBR0048112"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-04-29
-laatste_update: 2023-04-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048112"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-04-29"
+last_updated: "2023-04-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048112"
+soort: "beleidsregel"
+stam_id: "16734883"
+version_id: "29379032"
+internal_id: "C41916581"
+label_id: "16651084"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048112/2023-04-29/0"
+intitule_bron: "Stcrt.2023-11790"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-14"
+intitule_published: "2023-04-28"
+intitule_in_force: "2023-04-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-11790"
+original_signed_date: "2023-04-14"
+original_published_date: "2023-04-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-11790"
+entry_into_force_date: "2023-04-29"
+jci_1_3: "jci1.3:c:BWBR0048112&z=2023-04-29&g=2023-04-29"
+jci_1_0: "1.0:c:BWBR0048112&g=2023-04-29"
+citeertitel_status: "officieel"
+signed_date: "2023-04-14"
+entry_into_force: "2023-04-29"
 ---
-
 # Besluit meldingsplichtige grensoverschrijdende constructies
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

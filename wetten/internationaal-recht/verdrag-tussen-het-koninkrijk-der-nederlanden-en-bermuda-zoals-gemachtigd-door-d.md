@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Bermuda (zoals gemachtigd door de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland) inzake de toegang tot onderlinge overlegprocedures in verband met winstcorrecties tussen verbonden ondernemingen"
 identifier: "BWBV0003228"
-categorie: "Internationaal recht"
-publicatiedatum: 2010-02-01
-laatste_update: 2010-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003228"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-02-01"
+last_updated: "2010-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003228"
+soort: "verdrag"
+stam_id: "10003415223"
+version_id: "10003459912"
+internal_id: "C10008429701"
+label_id: "10003401064"
+dtd_version: "2.0"
+original_entry_into_force: "2010-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003228/2010-02-01/0"
+intitule_bron: "Trb.2009-110"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-07-20"
+intitule_in_force: "2010-01-29"
+intitule_status: "goed"
+original_publication: "Trb.2009-110"
+original_published_date: "2009-07-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2009-110"
+entry_into_force_date: "2010-02-01"
+jci_1_3: "jci1.3:c:BWBV0003228&z=2010-02-01&g=2010-02-01"
+jci_1_0: "1.0:c:BWBV0003228&g=2010-02-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-02-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en Bermuda (zoals gemachtigd door de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland) inzake de toegang tot onderlinge overlegprocedures in verband met winstcorrecties tussen verbonden ondernemingen
 
 De Regering van het Koninkrijk der Nederlanden,
@@ -22,11 +44,11 @@ Zijn overeengekomen het volgende verdrag te sluiten dat uitsluitend de verplicht
 
 ### HOOFDSTUK I. BELASTINGEN WAAROP HET VERDRAG VAN TOEPASSING IS EN BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1. Belastingen waarop het Verdrag van toepassing is
+##### Artikel 1. Belastingen waarop het Verdrag van toepassing is
 
 Dit Verdrag is van toepassing op belastingen naar het inkomen en op winstbelastingen.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag, tenzij anders is bepaald:
 
@@ -46,13 +68,13 @@ Dit Verdrag is van toepassing op belastingen naar het inkomen en op winstbelasti
 
 ### HOOFDSTUK II. WINSTCORRRECTIES TUSSEN VERBONDEN ONDERNEMINGEN
 
-#### Artikel 3. Reikwijdte van Hoofdstuk II
+##### Artikel 3. Reikwijdte van Hoofdstuk II
 
 1. Hoofdstuk II van dit Verdrag is van toepassing indien, ten behoeve van de belastingheffing, winsten die zijn begrepen in de winst van een onderneming van een verdragsluitende partij, tevens zijn begrepen of waarschijnlijk zullen worden begrepen in de winst van een onderneming van de andere verdragsluitende partij vanwege het feit dat de grondbeginselen die worden uiteengezet in artikel 4, en die hetzij rechtstreeks, hetzij via vergelijkbare wettelijke bepalingen van de desbetreffende verdragsluitende partij worden toegepast, niet in acht zijn genomen.
 
 2. Het eerste lid is eveneens van toepassing, indien een van de betrokken ondernemingen geen winst heeft gemaakt maar verlies heeft geleden.
 
-#### Artikel 4. Toepasselijke grondbeginselen voor winstcorrecties tussen verbonden ondernemingen
+##### Artikel 4. Toepasselijke grondbeginselen voor winstcorrecties tussen verbonden ondernemingen
 
 Indien:
 
@@ -62,11 +84,11 @@ Indien:
 
 en in het ene of in het andere geval tussen de beide ondernemingen in hun handelsbetrekkingen of financiële betrekkingen voorwaarden worden overeengekomen of opgelegd, die afwijken van die welke zouden worden overeengekomen tussen onafhankelijke ondernemingen, mogen alle voordelen die een van de ondernemingen zonder deze voorwaarden zou hebben behaald, maar ten gevolge van die voorwaarden niet heeft behaald, worden begrepen in de voordelen van die onderneming en dienovereenkomstig worden belast.
 
-#### Artikel 5. Algemene bepaling
+##### Artikel 5. Algemene bepaling
 
 Indien een verdragsluitende partij voornemens is de winsten van een onderneming in overeenstemming met de grondbeginselen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003228&hoofdstuk=II&artikel=4&z=2010-02-01&g=2010-02-01) te corrigeren, stelt zij de onderneming daarvan tijdig op de hoogte en stelt zij haar in de gelegenheid de andere onderneming op de hoogte te stellen, teneinde die andere onderneming op haar beurt in de gelegenheid te stellen de andere verdragsluitende partij op de hoogte te stellen. Dit belet de verdragsluitende partij die een dergelijke kennisgeving doet uitgaan evenwel niet de voorgestelde correctie te verrichten.
 
-#### Artikel 6. Procedures voor onderling overleg
+##### Artikel 6. Procedures voor onderling overleg
 
 1. Indien een onderneming van oordeel is dat, in gevallen waarop dit Verdrag van toepassing is, de grondbeginselen vervat in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003228&hoofdstuk=II&artikel=4&z=2010-02-01&g=2010-02-01) niet zijn geëerbiedigd, kan zij, onverminderd de in het nationale recht van de betrokken verdragsluitende partij voorziene rechtsmiddelen, haar zaak voorleggen aan de bevoegde autoriteit van de verdragsluitende partij waarvan zij een onderneming is. De zaak dient binnen drie jaar na de eerste kennisgeving van de maatregel die in strijd is of mogelijk in strijd is met de grondbeginselen vervat in artikel 4 te worden voorgelegd. De bevoegde autoriteit stelt vervolgens de bevoegde autoriteit van de andere verdragsluitende partij onverwijld in kennis.
 
@@ -80,13 +102,13 @@ Indien een verdragsluitende partij voornemens is de winsten van een onderneming 
 
 ### HOOFDSTUK III. SLOTBEPALINGEN
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking nadat beide verdragsluitende partijen elkaar ervan in kennis hebben gesteld dat de vereiste nationale procedures voor de inwerkingtreding ervan zijn afgerond. Het Verdrag is van toepassing op de procedures bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003228&hoofdstuk=II&artikel=6&z=2010-02-01&g=2010-02-01), die ingesteld zijn na de inwerkingtreding ervan.
 
 2. Onverminderd het eerste lid van dit artikel, treedt het Verdrag uitsluitend in werking indien het Verdrag tussen het Koninkrijk der Nederlanden en Bermuda inzake de uitwisseling van informatie betreffende belastingzaken van kracht is voor zowel strafrechtelijke als civiele belastingzaken.
 
-#### Artikel 8. Beëindiging
+##### Artikel 8. Beëindiging
 
 1. Dit Verdrag blijft van kracht totdat het door een van de verdragsluitende partijen wordt beëindigd. Elk van de verdragsluitende partijen kan het Verdrag langs diplomatieke weg beëindigen door ten minste zes maanden voor het einde van enig kalenderjaar na het verstrijken van een periode van drie jaar na de datum van inwerkingtreding van het Verdrag kennis te geven van de beëindiging.
 

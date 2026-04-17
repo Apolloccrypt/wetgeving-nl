@@ -1,13 +1,36 @@
 ---
-title: "Vrijstelling eenvoudig in de handel brengen desinfectiemiddelen COVID-19 2020"
+title: "Tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het eenvoudiger in de handel brengen van biociden in verband met de uitbraak COVID-19 (Vrijstelling eenvoudig in de handel brengen desinfectiemiddelen COVID-19 2020)"
 identifier: "BWBR0043373"
-categorie: "Overig"
-publicatiedatum: 2020-06-12
-laatste_update: 2020-06-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043373"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-06-12"
+last_updated: "2020-06-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043373"
+soort: "ministeriele-regeling"
+stam_id: "15400573"
+version_id: "26620242"
+internal_id: "C37771041"
+label_id: "15344794"
+dtd_version: "2.0"
+original_entry_into_force: "2020-04-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043373/2020-06-12/0"
+intitule_bron: "Stcrt.2020-20843"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-04-09"
+intitule_in_force: "2020-04-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-20843"
+original_published_date: "2020-04-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-20843"
+entry_into_force_date: "2020-04-10"
+jci_1_3: "jci1.3:c:BWBR0043373&z=2020-06-12&g=2020-06-12"
+jci_1_0: "1.0:c:BWBR0043373&g=2020-06-12"
+citeertitel_status: "officieel"
+short_title: "Vrijstelling eenvoudig in de handel brengen desinfectiemiddelen COVID-19 2020"
+entry_into_force: "2020-04-10"
 ---
-
 # Tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het eenvoudiger in de handel brengen van biociden in verband met de uitbraak COVID-19 (Vrijstelling eenvoudig in de handel brengen desinfectiemiddelen COVID-19 2020)
 
 Handelende in overeenstemming met de minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -18,7 +41,7 @@ Gelet op [artikel 46, eerste lid, van de Wet gewasbeschermingsmiddelen en biocid
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het coronavirus SARS- CoV-2 en in verband met de bij deze bestrijding dreigende tekorten van desinfectiemiddelen die de werkzaamheden in een bedrijfs- of beroepsmatige omgeving compromitteren ten tijde van deze uitbraak, wordt op grond van:
 
@@ -34,19 +57,19 @@ Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het c
 
 - b). artikel 55 van Verordening (EU) nr. 528/2012 toegestaan dat de onderdeel a bedoelde middelen onder de daarin genoemde voorwaarden op de markt worden aangeboden en gebruikt.
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0043373&artikel=1&z=2020-06-12&g=2020-06-12), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
 
-#### Artikel 3
+##### Artikel 3
 
 De vrijstelling en toestemming wordt verleend tot en met 29 september 2020.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Vrijstelling eenvoudig in de handel brengen desinfectiemiddelen COVID-19 2020.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking op de dag na de datum van plaatsing in de Staatscourant waarin het wordt gepubliceerd en werkt terug tot en met 3 april 2020.
 

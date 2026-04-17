@@ -1,13 +1,35 @@
 ---
-title: "Besluit aanvullingen van opschriften op vaandels en standaarden van regimenten van de Koninklijke landmacht voor krijgsverrichtingen in het voormalige Nederlands-Indië gedurende de jaren 1945-1949"
+title: "Besluit van 16 december 1977, houdende aanvullingen van opschriften op vaandels en standaarden van regimenten van de Koninklijke landmacht voor krijgsverrichtingen in het voormalige Nederlands-Indië gedurende de jaren 1945-1949"
 identifier: "BWBR0003148"
-categorie: "Overig"
-publicatiedatum: 1980-12-29
-laatste_update: 1980-12-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003148"
+country: "nl"
+rank: "kb"
+publication_date: "1980-12-29"
+last_updated: "1980-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003148"
+soort: "KB"
+stam_id: "32243"
+version_id: "38622"
+internal_id: "C38621"
+label_id: "32544"
+dtd_version: "2.0"
+original_entry_into_force: "1978-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003148/1980-12-29/0"
+intitule_bron: "Stb.1977-722"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1977-12-16"
+intitule_status: "goed"
+original_publication: "Stb.1977-722"
+original_signed_date: "1977-12-16"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1978-02-01"
+jci_1_3: "jci1.3:c:BWBR0003148&z=1980-12-29&g=1980-12-29"
+jci_1_0: "1.0:c:BWBR0003148&g=1980-12-29"
+citeertitel_status: "officieel"
+short_title: "Besluit aanvullingen van opschriften op vaandels en standaarden van regimenten van de Koninklijke landmacht voor krijgsverrichtingen in het voormalige Nederlands-Indië gedurende de jaren 1945-1949"
+signed_date: "1977-12-16"
+entry_into_force: "1978-02-01"
 ---
-
 # Besluit van 16 december 1977, houdende aanvullingen van opschriften op vaandels en standaarden van regimenten van de Koninklijke landmacht voor krijgsverrichtingen in het voormalige Nederlands-Indië gedurende de jaren 1945-1949
 
 Op de voordracht van Onze Minister van Defensie van 2 december 1977, Landmachtstaf, nr. 456.108 D;
@@ -20,7 +42,7 @@ alsmede op Onze besluiten van: 13 juli 1949, nr. 42; 4 september 1951, nr. 27; 1
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Het vaandel van het GARDEREGIMENT GRENADIERS wordt aangevuld met de opschriften:
 
@@ -44,7 +66,7 @@ het deelnemen van vijf bataljons van het Regiment - later Garderegiment - Grenad
 
 Hierbij heeft het 3e bataljon zich bijzonder onderscheiden op West-Java en het 4e bataljon op Oost-Java (onder meer te Kediri).
 
-#### Artikel 2
+##### Artikel 2
 
 Het vaandel van het GARDEREGIMENT JAGERS wordt aangevuld met de opschriften:
 
@@ -68,7 +90,7 @@ het deelnemen van vijf bataljons van het Regiment - later Garderegiment - Jagers
 
 Hierbij hebben het 1e en 3e bataljon zich bijzonder onderscheiden op West-Java (het 3e onder meer in Bantam) en het 4e bataljon op Oost-Java.
 
-#### Artikel 3
+##### Artikel 3
 
 Het vaandel van het GARDEREGIMENT FUSELIERS "PRINSES IRENE" wordt aangevuld met de opschriften:
 
@@ -92,7 +114,7 @@ het deelnemen van vijf bataljons van het Regiment - later Garderegiment - "Prins
 
 Hierbij heeft het 3e bataljon zich bijzonder onderscheiden op West-Java en het 4e bataljon op Oost-Java (onder meer te Blitar).
 
-#### Artikel 4
+##### Artikel 4
 
 Het vaandel van het REGIMENT STOOTTROEPEN wordt aangevuld met de opschriften:
 
@@ -122,7 +144,7 @@ het deelnemen van acht bataljons van het Regiment Stoottroepen aan krijgsverrich
 
 Hierbij heeft het 1e bataljon zich bijzonder onderscheiden op Midden-Java (onder meer te Semarang), het 3e bataljon op West-Java (onder meer te Garoet), het 4e bataljon op Midden-Sumatra en het 5e bataljon op Midden-Java (onder meer te Djocjakarta).
 
-#### Artikel 5
+##### Artikel 5
 
 Het vaandel van het REGIMENT INFANTERIE JOHAN WILLEM FRISO wordt aangevuld met het opschrift:
 
@@ -138,7 +160,7 @@ wegens:
 
 - b. van het 9e Regiment Infanterie: het 1e bataljon op West-Java (onder meer te Bandoeng); het 4e bataljon op Midden-Java; het 5e bataljon op Zuid-Sumatra.
 
-#### Artikel 6
+##### Artikel 6
 
 Het vaandel van het REGIMENT LIMBURGSE JAGERS wordt aangevuld met de opschriften:
 
@@ -160,7 +182,7 @@ wegens:
 
 - c. van het 13e Regiment Infanterie: het 2e bataljon op Midden-Java (onder meer te Semarang).
 
-#### Artikel 7
+##### Artikel 7
 
 Het vaandel van het REGIMENT INFANTERIE MENNO VAN COEHOORN wordt aangevuld met de opschriften:
 
@@ -186,7 +208,7 @@ het deelnemen van zes bataljons van het 3e Regiment Infanterie, waarvan het Regi
 
 Hierbij heeft het 1e bataljon zich bijzonder onderscheiden op West-Java (onder meer te Bandoeng) en het 5e bataljon op Zuid-Sumatra (onder meer te Djambi).
 
-#### Artikel 8
+##### Artikel 8
 
 Het vaandel van het REGIMENT INFANTERIE ORANJE-GELDERLAND aan te vullen met het opschrift:
 
@@ -210,7 +232,7 @@ het deelnemen van zes bataljons van het 5e Regiment Infanterie, waarvan het Regi
 
 Hierbij heeft het 1e bataljon zich bijzonder onderscheiden op West-Java (onder meer te Bandoeng), het 2e bataljon op Oost-Java (onder meer te Soerabaja) en het 5e bataljon op Midden-Java (onder meer te Djocjakarta).
 
-#### Artikel 9
+##### Artikel 9
 
 Het vaandel van het REGIMENT INFANTERIE CHASSÉ wordt aangevuld met de opschriften:
 
@@ -224,7 +246,7 @@ wegens:
 
 - B. het deelnemen van vier bataljons van het 10e Regiment Infanterie, dat in 1904 uit het 7e Regiment Infanterie is voortgekomen en waarvan het Regiment infanterie Chassé eveneens de voortzetting is, aan krijgsverrichtingen in het voormalige Nederlands-Indië: 2e bataljon op Oost-Java van 1946 tot 1949; 3e bataljon op West-Java van 1946 tot 1949; 4e bataljon op West-Java van 1947 tot 1949; 5e bataljon op Noord-Sumatra van 1948 tot 1949. Hierbij hebben zich bijzonder onderscheiden: **van het 7e Regiment Infanterie:** het 2e bataljon op Midden-Java (onder meer te Semarang); het 4e bataljon op Zuid-Sumatra (onder meer te Djambi).
 
-#### Artikel 10
+##### Artikel 10
 
 Het vaandel van het voormalige 4e REGIMENT INFANTERIE (bij het wederom in gebruik nemen) wordt aangevuld met de opschriften:
 
@@ -244,7 +266,7 @@ wegens:
 
 - b. van het 15e Regiment Infanterie: het 1e bataljon op Midden-Java (onder meer te Djocjakarta); het 3e bataljon op Noord-Sumatra.
 
-#### Artikel 11
+##### Artikel 11
 
 Het vaandel van het voormalige 6e REGIMENT INFANTERIE (bij het wederom in gebruik nemen) wordt aangevuld met het opschrift:
 
@@ -260,7 +282,7 @@ wegens:
 
 - b. van het 14e Regiment Infanterie: het 2e bataljon op West-Java (onder meer te Batavia); het 3e bataljon op West-Java (onder meer te Soekaboemi).
 
-#### Artikel 12
+##### Artikel 12
 
 Het vaandel van het voormalige 8e REGIMENT INFANTERIE wordt aangevuld met het opschrift:
 
@@ -282,7 +304,7 @@ het deelnemen van vijf bataljons van het voormalige 8e Regiment Infanterie aan k
 
 Hierbij hebben het 1e en het 4e bataljon zich bijzonder onderscheiden op West-Java (het 1e onder meer te Batavia).
 
-#### Artikel 13
+##### Artikel 13
 
 De standaard van het REGIMENT HUZAREN VAN BOREEL wordt aangevuld met het opschrift:
 
@@ -324,7 +346,7 @@ het deelnemen van twee verkenningsregimenten en dertien zelfstandige eskadrons v
 
 Hierbij heeft het 1e Verkenningsregiment zich bijzonder onderscheiden op West-Java (onder meer te Garoet en in Bantam), de 2e Afdeling op Oost-Java, het 1e, 3e en 5e Eskadron pantserwagens op Sumatra, het 2e, 4e en 6e Eskadron pantserwagens op Midden-Java, het 41e Verkenningseskadron op West-Java en het 6e Eskadron vechtwagens op Midden-Java (onder meer te Soerakarta).
 
-#### Artikel 14
+##### Artikel 14
 
 Het vaandel van het REGIMENT GENIETROEPEN wordt aangevuld met het opschrift:
 
@@ -336,7 +358,7 @@ het deelnemen van 21 compagnieën van het 1e Regiment Pioniers, waarvan het Regi
 
 Hierbij hebben deze compagnieën zich op Java en Sumatra voortdurend onderscheiden door het aanleggen en herstellen van wegen, bruggen, spoorlijnen, veerponten, vliegvelden, waterleidingen, verlichtingsinstallaties en kampementen, het ruimen van landmijnen en het verwijderen van springladingen, zonder welke werkzaamheden geen militaire acties van enige omvang mogelijk waren, terwijl de door hen gesteunde eenheden dikwijls geen of onvoldoende beveiliging konden geven bij hun vaak zeer gevaarlijke opdrachten.
 
-#### Artikel 15
+##### Artikel 15
 
 Het REGIMENT AAN- EN AFVOERTROEPEN wordt het Vaandelopschrift toegekend:
 
@@ -348,7 +370,7 @@ het deelnemen van 25 compagnieën van het Regiment aan- en afvoertroepen aan kri
 
 Hierbij hebben deze compagnieën zich op Java en Sumatra voortdurend onderscheiden door, ongeacht de slechte toestand van de wegen en de beschietingen waaraan deze onderdelen tijdens menig convooi - vaak onvoldoende beschermd - blootgesteld waren, de aanvoer van alles wat de troepen nodig hadden volledig te vervoeren, alsmede door troepenvervoer de opmars over grote afstanden mogelijk te maken en gedurende lange tijd ook het transport te verzorgen van alle goederen die de bevolking in geïsoleerde gebieden nodig had.
 
-#### Artikel 16
+##### Artikel 16
 
 Het vaandel van het Korps Commandotroepen wordt aangevuld met de opschriften:
 

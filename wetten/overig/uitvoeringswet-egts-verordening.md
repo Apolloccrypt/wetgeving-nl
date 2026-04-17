@@ -1,14 +1,42 @@
 ---
-title: "Uitvoeringswet EGTS-verordening"
+title: "Wet van 26 november 2009, houdende uitvoering van verordening (EG) nr. 1082/2006 van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 betreffende een Europese groepering voor territoriale samenwerking (EGTS) (PbEU L 210) (Uitvoeringswet EGTS-verordening)"
 identifier: "BWBR0026784"
-categorie: "Overig"
-publicatiedatum: 2021-07-01
-laatste_update: 2021-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026784"
+country: "nl"
+rank: "wet"
+publication_date: "2021-07-01"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026784"
+soort: "wet"
+stam_id: "10303803"
+version_id: "16883182"
+internal_id: "C23250681"
+label_id: "10279434"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026784/2021-07-01/0"
+intitule_bron: "Stb.2009-512"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-11-26"
+intitule_published: "2009-12-08"
+intitule_in_force: "2009-12-08"
+intitule_status: "goed"
+original_publication: "Stb.2009-512"
+original_signed_date: "2009-11-26"
+original_published_date: "2009-12-08"
+original_effect: "nieuwe-regeling"
+original_dossier: "31926"
+original_url_id: "stb-2009-512"
+entry_into_force_date: "2009-12-09"
+entry_into_force_dossier: "31926"
+jci_1_3: "jci1.3:c:BWBR0026784&z=2021-07-01&g=2021-07-01"
+jci_1_0: "1.0:c:BWBR0026784&g=2021-07-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringswet EGTS-verordening"
+signed_date: "2009-11-26"
+entry_into_force: "2009-12-09"
 ---
-
-# Uitvoeringswet EGTS-verordening
+# Wet van 26 november 2009, houdende uitvoering van verordening (EG) nr. 1082/2006 van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 betreffende een Europese groepering voor territoriale samenwerking (EGTS) (PbEU L 210) (Uitvoeringswet EGTS-verordening)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -30,7 +58,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Bepalingen ten aanzien van Nederlandse leden van een EGTS
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister besluit omtrent de instemming met de deelneming, bedoeld in artikel 4, derde lid, van de verordening. [Afdeling 10.2.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.1) is niet van toepassing.
 
@@ -48,27 +76,27 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. wordt, in geval een publiekrechtelijke instelling als bedoeld in artikel 3, eerste lid, onderdeel d, van de verordening lid is van de EGTS, genomen na overleg met Onze Minister(s) wie het mede aangaat.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Van een besluit tot de deelneming door de Staat aan een EGTS, wordt door Onze betrokken Minister aan de beide Kamers der Staten-Generaal mededeling gedaan. Artikel en [4.7, eerste lid, onderdeel a, tweede en vierde lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.7) is van overeenkomstige toepassing. Indien een van beide Kamers binnen 30 dagen na de schriftelijke mededeling of binnen 14 dagen na het verstrekken van nadere inlichtingen, als haar oordeel uitspreekt dat het voorgenomen lidmaatschap van de EGTS niet wenselijk is, wordt afgezien van het lidmaatschap van de Staat.
 
 2. Op een besluit van gedeputeerde staten of het college van burgemeester en wethouders tot deelname van de provincie of de gemeente aan een EGTS is [artikel 158, tweede lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=158), onderscheidenlijk [artikel 160, tweede lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=160) van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 Ter uitvoering van artikel 5, eerste lid, laatste volzin, van de verordening, stellen de Nederlandse leden van een EGTS met een statutaire zetel buiten Nederland Onze Minister in kennis van de overeenkomst en de registratie of bekendmaking van de statuten.
 
-#### Artikel 5
+##### Artikel 5
 
 De aansprakelijkheid van een Nederlands lid van een EGTS voor de schulden van de EGTS waarvan het lid is, is niet uitgesloten of beperkt, tenzij in de statuten van de EGTS anders is bepaald.
 
 ### Hoofdstuk 3. Bepalingen ten aanzien van een EGTS met een statutaire zetel in Nederland
 
-#### Artikel 6
+##### Artikel 6
 
 Dit hoofdstuk is van toepassing op een EGTS met een statutaire zetel in Nederland.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister besluit tot openbaarmaking van de statuten, bedoeld in artikel 9 van de verordening, van een EGTS die na oprichting haar statutaire zetel in Nederland heeft, tenzij
 
@@ -82,7 +110,7 @@ Dit hoofdstuk is van toepassing op een EGTS met een statutaire zetel in Nederlan
 
 3. De openbaarmaking, bedoeld in het tweede lid, vormt de bekendmaking, bedoeld in artikel 5, eerste lid, van de verordening, waarbij de EGTS rechtspersoonlijkheid verkrijgt.
 
-#### Artikel 8
+##### Artikel 8
 
 Een orgaan van een EGTS is:
 
@@ -90,11 +118,11 @@ Een orgaan van een EGTS is:
 
 - b. een overheidsorgaan als bedoeld in [artikel 1, onderdeel b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1).
 
-#### Artikel 9
+##### Artikel 9
 
 Een EGTS staat als rechtspersoon, wat het vermogensrecht betreft, gelijk met een natuurlijk persoon, met dien verstande dat een EGTS geen uitkeringen doet aan de leden, behoudens in geval van ontbinding in overeenstemming met de statuten.
 
-#### Artikel 10
+##### Artikel 10
 
 De statuten bevatten naast de onderwerpen genoemd in artikel 9, tweede lid, van de verordening, tevens een regeling betreffende:
 
@@ -102,13 +130,13 @@ De statuten bevatten naast de onderwerpen genoemd in artikel 9, tweede lid, van 
 
 - b. de wijze van ontbinding, de vereffening bij ontbinding en de benoeming van een vereffenaar.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De EGTS legt authentieke afschriften van de oprichtingsovereenkomst en de statuten neer ten kantore van de Kamer van Koophandel.
 
 2. De EGTS legt een authentiek afschrift van de wijziging en de gewijzigde oprichtingsovereenkomst en statuten neer ten kantore van de Kamer.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Als bevoegde autoriteit als bedoeld in artikel 6, eerste lid, van de verordening, wordt aangewezen: Onze Minister.
 
@@ -120,7 +148,7 @@ De statuten bevatten naast de onderwerpen genoemd in artikel 9, tweede lid, van 
 
 5. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De jaarrekening van de EGTS, waarin rekening en verantwoording wordt afgelegd van het financieel beheer en van de geleverde prestaties over het verstreken boekjaar, wordt ingericht zoveel mogelijk met overeenkomstige toepassing van [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
 
@@ -130,11 +158,11 @@ De statuten bevatten naast de onderwerpen genoemd in artikel 9, tweede lid, van 
 
 4. De accountant voegt bij de verklaring, bedoeld in het tweede lid, tevens een verslag van zijn bevindingen over de vraag of het beheer en de organisatie van een EGTS voldoen aan eisen van doelmatigheid.
 
-#### Artikel 14
+##### Artikel 14
 
 Onze Minister is ambtshalve of op verzoek van een bevoegde autoriteit met een rechtmatig belang in de zin van artikel 14, eerste lid, van de verordening bevoegd de ontbinding in de zin van artikel 14, eerste lid, van de verordening te gelasten.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Een EGTS wordt ontbonden:
 
@@ -158,39 +186,39 @@ Onze Minister is ambtshalve of op verzoek van een bevoegde autoriteit met een re
 
 ### Hoofdstuk 4. Toezicht en handhaving
 
-#### Artikel 16
+##### Artikel 16
 
 1. Met het toezicht op de naleving van deze wet en de verordening zijn belast de bij besluit van Onze Minister aangewezen personen.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 17
+##### Artikel 17
 
 Onze Minister kan regels stellen betreffende de controle, bedoeld in artikel 6, tweede lid, van de verordening, door een andere lidstaat van de Europese Unie met betrekking tot handelingen van een EGTS met een statutaire zetel in Nederland op het grondgebied van die lidstaat. Onze Minister verleent ten behoeve van die controle alle medewerking. Het uitwisselen van persoonsgegevens is daarbij toegestaan.
 
-#### Artikel 18
+##### Artikel 18
 
 Onze Minister is bevoegd om overeenkomstig artikel 13 van de verordening activiteiten van een EGTS op Nederlands grondgebied te verbieden of van Nederlandse leden van een EGTS te eisen dat zij zich uit de EGTS terugtrekken. Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van dit verbod of deze eis.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Handelsregisterwet 2007.
 
-#### Artikel 19a
+##### Artikel 19a
 
 Wijzigt de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens.
 
-#### Artikel 20
+##### Artikel 20
 
 De ledenvergadering van de EGTS met een statutaire zetel in Nederland kan subsidies verstrekken ter uitvoering van de in de overeenkomst, bedoeld in artikel 8, tweede lid, van de verordening gespecificeerde taken in het kader van Europese territoriale samenwerking die worden medegefinancierd door de Europese Unie of door organen van één of meer lidstaten. Onze Minister wie het aangaat kan nadere regels stellen over de uitoefening van deze bevoegdheid.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze wet wordt aangehaald als: Uitvoeringswet EGTS-verordening.
 

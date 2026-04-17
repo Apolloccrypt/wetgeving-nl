@@ -1,24 +1,51 @@
 ---
-title: "Wet herindeling gemeenten Franekeradeel, het Bildt, Leeuwarden, Leeuwarderadeel, Littenseradiel, Menameradiel en Súdwest-Fryslân"
+title: "Wet van 8 maart 2017 tot herindeling van de gemeenten Franekeradeel, het Bildt, Leeuwarden, Leeuwarderadeel, Littenseradiel, Menameradiel en Súdwest-Fryslân"
 identifier: "BWBR0039362"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-06-10
-laatste_update: 2017-06-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039362"
+country: "nl"
+rank: "wet"
+publication_date: "2017-06-10"
+last_updated: "2017-06-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039362"
+soort: "wet"
+stam_id: "13957393"
+version_id: "24000072"
+internal_id: "C34667141"
+label_id: "13920614"
+dtd_version: "2.0"
+original_entry_into_force: "2017-06-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039362/2017-06-10/0"
+intitule_bron: "Stb.2017-104"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-03-08"
+intitule_published: "2017-03-24"
+intitule_in_force: "2017-06-09"
+intitule_status: "goed"
+original_publication: "Stb.2017-104"
+original_signed_date: "2017-03-08"
+original_published_date: "2017-03-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "34592"
+original_url_id: "stb-2017-104"
+entry_into_force_date: "2017-06-10"
+jci_1_3: "jci1.3:c:BWBR0039362&z=2017-06-10&g=2017-06-10"
+jci_1_0: "1.0:c:BWBR0039362&g=2017-06-10"
+citeertitel_status: "redactioneel"
+short_title: "Wet herindeling gemeenten Franekeradeel, het Bildt, Leeuwarden, Leeuwarderadeel, Littenseradiel, Menameradiel en Súdwest-Fryslân"
+signed_date: "2017-03-08"
+entry_into_force: "2017-06-10"
 ---
-
-# Wet herindeling gemeenten Franekeradeel, het Bildt, Leeuwarden, Leeuwarderadeel, Littenseradiel, Menameradiel en Súdwest-Fryslân
-
-#### § 1. Opheffing, instelling en grenswijziging van gemeenten
+# Wet van 8 maart 2017 tot herindeling van de gemeenten Franekeradeel, het Bildt, Leeuwarden, Leeuwarderadeel, Littenseradiel, Menameradiel en Súdwest-Fryslân
 
 #### § 1. Opheffing, instelling en grenswijziging van gemeenten
 
-#### Artikel 5
+#### § 1. Opheffing, instelling en grenswijziging van gemeenten
+
+##### Artikel 5
 
 Voor de nieuwe gemeente Waadhoeke wordt de op te heffen gemeente Franekeradeel aangewezen voor de toepassing van [artikel 36 van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=36), in verband met de toepassing van de instructies en reglementen, bedoeld in dat artikel.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de op te heffen gemeenten Franekeradeel, het Bildt en Menameradiel wordt de nieuwe gemeente Waadhoeke, en voor de op te heffen gemeente Leeuwarderadeel de gemeente Leeuwarden, aangewezen voor de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718):
 
@@ -28,7 +55,7 @@ Voor de op te heffen gemeenten Franekeradeel, het Bildt en Menameradiel wordt de
 
 - c. [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=45), in verband met de overgang van rechten en verplichtingen in verband met de voorziening van drinkwater, elektriciteit en gas.
 
-#### Artikel 7
+##### Artikel 7
 
 Voor de op te heffen gemeente Littenseradiel wordt de gemeente Súdwest-Fryslân aangewezen voor de volgende bepalingen van de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718):
 
@@ -46,11 +73,11 @@ Voor de op te heffen gemeente Littenseradiel wordt de gemeente Súdwest-Fryslân
 
 - g. [artikel 71a](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=71a), in verband met de overgang van het persoonsregister.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Wet veiligheidsregio’s.
 
-#### Artikel 9
+##### Artikel 9
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dit koninklijk besluit kan aan [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039362&paragraaf=2&artikel=8&z=2017-06-10&g=2017-06-10), van deze wet terugwerkende kracht worden verleend tot en met 1 januari 2009 en aan artikel 8, tweede lid, tot en met 1 juli 2015.
 
@@ -64,19 +91,19 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeenten Franeke
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 Met ingang van de datum van herindeling worden de gemeenten Franekeradeel, het Bildt, Leeuwarderadeel, Littenseradiel en Menameradiel opgeheven.
 
-#### Artikel 2
+##### Artikel 2
 
 Met ingang van de datum van herindeling wordt de nieuwe gemeente Waadhoeke ingesteld, bestaande uit het grondgebied van de op te heffen gemeenten Franekeradeel, het Bildt, Menameradiel en een deel van het grondgebied van de op te heffen gemeente Littenseradiel, zoals aangegeven op de bij deze wet behorende kaart.
 
-#### Artikel 3
+##### Artikel 3
 
 Met ingang van de datum van herindeling wordt het grondgebied van de op te heffen gemeente Leeuwarderadeel en een deel van het grondgebied van de op te heffen gemeente Littenseradiel toegevoegd aan de gemeente Leeuwarden door een grenswijziging van de gemeente Leeuwarden, zoals aangegeven op de bij deze wet behorende kaart.
 
-#### Artikel 4
+##### Artikel 4
 
 Met ingang van de datum van herindeling wordt een deel van het grondgebied van de op te heffen gemeente Littenseradiel toegevoegd aan de gemeente Súdwest-Fryslân door een grenswijziging van de gemeente Súdwest-Fryslân, zoals aangegeven op de bij deze wet behorende kaart.
 

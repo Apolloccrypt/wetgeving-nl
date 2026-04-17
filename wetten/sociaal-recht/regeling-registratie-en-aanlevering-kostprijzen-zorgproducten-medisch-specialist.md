@@ -1,13 +1,38 @@
 ---
 title: "Regeling registratie en aanlevering kostprijzen zorgproducten medisch-specialistische zorg"
 identifier: "BWBR0048139"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-05-01
-laatste_update: 2023-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048139"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-05-01"
+last_updated: "2023-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048139"
+soort: "zbo"
+stam_id: "16742123"
+version_id: "29396802"
+internal_id: "C41986981"
+label_id: "16658324"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048139/2023-05-01/0"
+intitule_bron: "Stcrt.2023-12818"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-11"
+intitule_published: "2023-05-04"
+intitule_in_force: "2023-05-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-12818"
+original_signed_date: "2023-04-11"
+original_published_date: "2023-05-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-12818"
+entry_into_force_date: "2023-05-01"
+jci_1_3: "jci1.3:c:BWBR0048139&z=2023-05-01&g=2023-05-01"
+jci_1_0: "1.0:c:BWBR0048139&g=2023-05-01"
+citeertitel_status: "officieel"
+signed_date: "2023-04-11"
+entry_into_force: "2023-05-01"
 ---
-
 # Regeling registratie en aanlevering kostprijzen zorgproducten medisch-specialistische zorg
 
 Op grond van de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) en [68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg), alsmede de [beleidsregel ‘Kostprijsmodel zorgproducten medisch-specialistische zorg’](https://wetten.overheid.nl/jci1.3:c:BWBR0048131), stelt de Nederlandse Zorgautoriteit (NZa) deze regeling vast.
@@ -16,7 +41,7 @@ Ingevolge [artikel 68, eerste lid, van de Wmg](https://wetten.overheid.nl/jci1.3
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 1. Deze regeling is van toepassing op instellingen die medisch specialistische zorg verlenen of doen verlenen, waaronder in het kader van deze regeling de navolgende categorieën van instellingen worden verstaan:
 
@@ -52,7 +77,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 - e. instellingen die geriatrische revalidatiezorg leveren en die niet behoren tot een van de instellingscategorieën genoemd in het eerste lid.
 
-#### Artikel 2. Begripsbepalingen
+##### Artikel 2. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders bepaald, verstaan onder:
 
@@ -128,7 +153,7 @@ In deze regeling wordt, tenzij anders bepaald, verstaan onder:
 
 - **Zwevende verrichting:** Zorgactiviteiten die uitgevoerd zijn, maar die niet gekoppeld zijn aan een dbc-zorgproduct.
 
-#### Artikel 3. Inrichting administratie
+##### Artikel 3. Inrichting administratie
 
 1. Instellingen richten hun administratie op een zodanige wijze in dat daaruit kan worden afgeleid:
 
@@ -211,7 +236,7 @@ Voor indirecte kosten die niet in bovenstaande tabel zijn opgenomen worden de vo
 
 8. Het is niet toegestaan om het NZa-tarief te gebruiken voor het verdelen van kosten over kostendragers.
 
-#### Artikel 4. Beschikbaarheid van documenten
+##### Artikel 4. Beschikbaarheid van documenten
 
 1. Instellingen dragen er zorg voor dat documentatie over de uitvoering van de berekening en over de gemaakte onderliggende keuzes beschikbaar en controleerbaar is voor zowel de accountant als de NZa gedurende een periode van twee jaar gerekend vanaf de datum van aanlevering van de gegevens aan de NZa, een en ander op de wijze als beschreven in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048139&artikel=6&z=2023-05-01&g=2023-05-01).
 
@@ -227,7 +252,7 @@ Voor indirecte kosten die niet in bovenstaande tabel zijn opgenomen worden de vo
 
 - •. Gemaakte correctieboekingen in productie, kosten of opbrengsten.
 
-#### Artikel 5. Verwerking kostprijsgegevens
+##### Artikel 5. Verwerking kostprijsgegevens
 
 1. In de kostencategorie ‘Opbrengsten: overige opbrengsten’ genoemd in [artikel 6, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048139&artikel=6&z=2023-05-01&g=2023-05-01), worden de volgende opbrengstenstromen opgenomen:
 
@@ -259,7 +284,7 @@ Voor indirecte kosten die niet in bovenstaande tabel zijn opgenomen worden de vo
 
 6. Voor de kostendragers hanteren instellingen een afgebakend jaar t. Voor de toerekening aan de declarabele dbc-zorgproducten geopend in jaar t–1 en gesloten in jaar t geldt dat de kostprijs van de kostendrager in jaar t–1 gelijk is aan die in jaar t.
 
-#### Artikel 6. Aanlevering kostprijsgegevens
+##### Artikel 6. Aanlevering kostprijsgegevens
 
 1. Instellingen berekenen van alle declarabele zorgproducten afzonderlijk kostprijzen. Het totaal van de aan de zorgproducten toegerekende kosten plus de kosten van zwevende verrichtingen moet gelijk zijn aan het totaal van de kosten welke aan alle kostendragers zijn toegerekend.
 
@@ -309,7 +334,7 @@ De som van de kostencategorieën totale directe kosten en totale indirecte koste
 
 9. Instellingen dragen er zorg voor dat de in de aanlevering gebruikte aantallen, op een door hen zelf te bepalen peilmoment, voor een accountant dan wel de NZa te vergelijken zijn met de aantallen volgens het registratiesysteem dat instellingen gebruiken voor het registreren van de productie.
 
-#### Artikel 7. Verwerking beschikbaarheidsbijdrage academische zorg in kostprijzen
+##### Artikel 7. Verwerking beschikbaarheidsbijdrage academische zorg in kostprijzen
 
 1. Voor het vaste deel van de BBAZ geldt dat kosten en opbrengsten niet te relateren zijn aan individuele patiëntenzorg. De kosten die horen bij het vaste deel van de BBAZ zijn afgebakend in de [beleidsregel BBAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0047246). De kosten en opbrengsten voor het vaste deel van de BBAZ worden daarom uitgesloten in het proces van de kostprijsberekening. Door zowel de kosten als de opbrengsten uit te sluiten, worden de kostprijzen van de dbc-zorgproducten niet geraakt door het vaste deel van de BBAZ. Onder het vaste deel worden de opbrengsten bedoeld die maximaal in jaar t zijn verantwoord, maar niet hoger kunnen zijn dan de verleende beschikbaarheidbijdrage voor jaar t.
 
@@ -321,13 +346,13 @@ De som van de kostencategorieën totale directe kosten en totale indirecte koste
 
 5. Het berekende bedrag in lid 5 per dbc-zorgproduct wordt vervolgens gedeeld door de daadwerkelijke casemix in jaar t. Dit bedrag is de berekende variabele BBAZ opbrengst per dbc-zorgproduct.
 
-#### Artikel 8. Kosten en opbrengsten medisch specialisten in opleiding
+##### Artikel 8. Kosten en opbrengsten medisch specialisten in opleiding
 
 1. Salariskosten van artsen in opleiding worden toegerekend aan het specialisme waar ze worden opgeleid.
 
 2. Opbrengsten uit de beschikbaarheidsbijdrage voor medische vervolgopleidingen worden zo veel als mogelijk specifiek toegerekend aan het specialisme waar de arts daadwerkelijk wordt opgeleid. Ten minste worden de salariskosten van de arts in opleiding gedekt uit de opbrengsten van de beschikbaarheidsbijdrage voor medische vervolgopleidingen en dus toegerekend aan dezelfde afdeling.
 
-#### Artikel 9. Ontheffing
+##### Artikel 9. Ontheffing
 
 1. Instellingen kunnen op grond van[artikel 4, vijfde tot en met zevende lid, van de beleidsregel ‘Kostprijsmodel zorgproducten medisch-specialistische zorg’](https://wetten.overheid.nl/jci1.3:c:BWBR0048131&artikel=4), bij de NZa een verzoek indienen om ontheffing van de verplichtingen genoemd in de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048139&artikel=4&z=2023-05-01&g=2023-05-01).
 
@@ -337,15 +362,15 @@ De som van de kostencategorieën totale directe kosten en totale indirecte koste
 
 4. Instellingen die ontheffing hebben gekregen over jaar t–1 hoeven geen nieuw ontheffingsverzoek in te dienen voor de kostprijsaanlevering over jaar t en latere jaren. De toegekende ontheffing heeft een structureel karakter, tenzij het op bovengenoemde wijze berekende aandeel van het gereguleerd segment van de instelling voor jaar t groter is geworden dan 10%. In dat geval vervalt de ontheffing en is de instelling verplicht om overeenkomstig deze regeling kostprijzen over jaar t en volgende jaren aan te leveren overeenkomstig het bepaalde in deze regeling. De instelling is zelf verantwoordelijk om jaarlijks te beoordelen of een eerder verleende ontheffing nog steeds van toepassing is.
 
-#### Artikel 10. Intrekking oude regel(s)
+##### Artikel 10. Intrekking oude regel(s)
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [regeling ‘Registratie en aanlevering kostprijzen zorgproducten medisch-specialistische zorg’](https://wetten.overheid.nl/jci1.3:c:BWBR0045282), met kenmerk NR/REG-2128, ingetrokken.
 
-#### Artikel 11. Overgangsbepaling
+##### Artikel 11. Overgangsbepaling
 
 De [regeling 'Registratie en aanlevering kostprijzen zorgproducten medisch-specialistische zorg'](https://wetten.overheid.nl/jci1.3:c:BWBR0045282), met kenmerk NR/REG-2128, blijft van toepassing op aangelegenheden die onder de werkingssfeer van die regeling vielen en betrekking hebben op de periode waarvoor die regeling gold.
 
-#### Artikel 12. Inwerkingtreding en citeerregel
+##### Artikel 12. Inwerkingtreding en citeerregel
 
 Deze regeling treedt in werking met ingang van 1 mei 2023.
 

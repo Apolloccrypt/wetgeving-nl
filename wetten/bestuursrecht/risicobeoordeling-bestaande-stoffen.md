@@ -1,13 +1,37 @@
 ---
 title: "Risicobeoordeling bestaande stoffen"
 identifier: "BWBR0007449"
-categorie: "Bestuursrecht"
-publicatiedatum: 1995-07-15
-laatste_update: 1995-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007449"
+country: "nl"
+rank: "circulaire"
+publication_date: "1995-07-15"
+last_updated: "1995-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007449"
+soort: "circulaire"
+stam_id: "6439493"
+version_id: "11109712"
+internal_id: "C15024271"
+label_id: "6428324"
+original_entry_into_force: "1995-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007449/1995-07-15/0"
+intitule_bron: "Stcrt.1995-122"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-06-18"
+intitule_published: "1995-06-28"
+intitule_in_force: "1995-06-28"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-122"
+original_signed_date: "1995-06-18"
+original_published_date: "1995-06-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1995-122-p13-SC2998"
+entry_into_force_date: "1995-07-15"
+jci_1_3: "jci1.3:c:BWBR0007449&z=1995-07-15&g=1995-07-15"
+jci_1_0: "1.0:c:BWBR0007449&g=1995-07-15"
+citeertitel_status: "redactioneel"
+signed_date: "1995-06-18"
+entry_into_force: "1995-07-15"
 ---
-
 # Risicobeoordeling bestaande stoffen
 
 ### § 1. Inleiding

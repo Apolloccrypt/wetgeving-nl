@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit Koffie- en cichorei-extracten"
+title: "Besluit van 26 april 2001, houdende vaststelling van het Warenwetbesluit Koffie- en cichorei-extracten"
 identifier: "BWBR0012437"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-05-16
-laatste_update: 2001-05-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012437"
+country: "nl"
+rank: "amvb"
+publication_date: "2001-05-16"
+last_updated: "2001-05-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012437"
+soort: "AMvB"
+stam_id: "1570483"
+version_id: "2326322"
+internal_id: "C2326321"
+label_id: "1525784"
+dtd_version: "2.0"
+original_entry_into_force: "2001-05-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012437/2001-05-16/0"
+intitule_bron: "Stb.2001-218"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-04-26"
+intitule_published: "2001-05-15"
+intitule_in_force: "2001-05-15"
+intitule_status: "goed"
+original_publication: "Stb.2001-218"
+original_signed_date: "2001-04-26"
+original_published_date: "2001-05-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2001-218"
+entry_into_force_date: "2001-05-16"
+jci_1_3: "jci1.3:c:BWBR0012437&z=2001-05-16&g=2001-05-16"
+jci_1_0: "1.0:c:BWBR0012437&g=2001-05-16"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit Koffie- en cichorei-extracten"
+signed_date: "2001-04-26"
+entry_into_force: "2001-05-16"
 ---
-
 # Besluit van 26 april 2001, houdende vaststelling van het Warenwetbesluit Koffie- en cichorei-extracten
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 18 december 2000, kenmerk GZB/VVB 2131294, gedaan in overeenstemming met Onze Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,7 +60,7 @@ Hebben goedgevonden en verstaan:
 
 2. Dit besluit is niet van toepassing op «café torrefacto soluble».
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden koffie- en cichorei-extracten te bereiden of te verhandelen, die niet voldoen aan de bij dit besluit gestelde eisen met betrekking tot hun samenstelling.
 
@@ -44,7 +70,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 2. Samenstelling
 
-#### Artikel 3
+##### Artikel 3
 
 1. Koffie-extract bevat uitsluitend:
 
@@ -62,7 +88,7 @@ Hebben goedgevonden en verstaan:
 
 5. Vloeibaar cichorei-extract bevat ten hoogste 35 gewichtsprocent al dan niet gebrande suiker(s).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het gehalte aan uit koffie afkomstige droge stof bedraagt:
 
@@ -82,7 +108,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 3. Aanduidingen en vermeldingen
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aanduidingen koffie-extract, oplosbaar koffie-extract, oploskoffie of instantkoffie mogen uitsluitend en moeten worden gebezigd voor koffie-extract.
 
@@ -92,7 +118,7 @@ Hebben goedgevonden en verstaan:
 
 4. De in het eerste en tweede lid genoemde aanduidingen worden aangevuld, indien van toepassing, met de woorden: «vloeibaar» of «in vloeibare vorm».
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aanduiding van de waar koffie-extract wordt aangevuld met de vermelding «cafeïnevrij» indien in de daar bedoelde waar het gehalte aan watervrije cafeïne ten hoogste 0,3 gewichtsprocent bedraagt, berekend op de uit koffie afkomstige droge stof.
 
@@ -114,17 +140,17 @@ Hebben goedgevonden en verstaan:
 
 #### § 4. Slotbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij dit besluit gestelde regels, worden aangewezen chromatografische, fysische, chemische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere lid-staat van de Europese Unie aangewezen methoden.
 
 2. Onze Minister kan nadere regels vaststellen inzake de toepassing van het eerste lid.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Warenwetbesluit Koffie en cichorei.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat waren:
 
@@ -132,7 +158,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 - b. die vóór 13 september 2001 rechtmatig zijn geëtiketteerd overeenkomstig het [Warenwetbesluit Koffie en cichorei](https://wetten.overheid.nl/jci1.3:c:BWBR0006097) zoals dat onmiddellijk voor de inwerkingtreding van dit besluit luidde, nog in de handel mogen worden gebracht totdat de voorraden zijn opgebruikt.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Koffie- en cichorei-extracten.
 

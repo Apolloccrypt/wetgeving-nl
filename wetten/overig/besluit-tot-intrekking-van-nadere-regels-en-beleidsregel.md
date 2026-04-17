@@ -1,13 +1,38 @@
 ---
 title: "Besluit tot intrekking van nadere regels en beleidsregel"
 identifier: "BWBR0034457"
-categorie: "Overig"
-publicatiedatum: 2013-12-21
-laatste_update: 2013-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034457"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-12-21"
+last_updated: "2013-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034457"
+soort: "zbo"
+stam_id: "12495773"
+version_id: "21025042"
+internal_id: "C30192621"
+label_id: "12466464"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034457/2013-12-21/0"
+intitule_bron: "Stcrt.2013-35688"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-10"
+intitule_published: "2013-12-20"
+intitule_in_force: "2013-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-35688"
+original_signed_date: "2013-12-10"
+original_published_date: "2013-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-35688"
+entry_into_force_date: "2013-12-21"
+jci_1_3: "jci1.3:c:BWBR0034457&z=2013-12-21&g=2013-12-21"
+jci_1_0: "1.0:c:BWBR0034457&g=2013-12-21"
+citeertitel_status: "redactioneel"
+signed_date: "2013-12-10"
+entry_into_force: "2013-12-21"
 ---
-
 # Besluit tot intrekking van nadere regels en beleidsregel
 
 ### 1. Doel van dit besluit

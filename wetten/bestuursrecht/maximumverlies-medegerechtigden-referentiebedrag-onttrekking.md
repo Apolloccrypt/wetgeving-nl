@@ -1,13 +1,37 @@
 ---
 title: "Maximumverlies medegerechtigden, referentiebedrag, onttrekking"
 identifier: "BWBR0013725"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013725"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013725"
+soort: "beleidsregel"
+stam_id: "8376893"
+version_id: "13249652"
+internal_id: "C17822011"
+label_id: "8357584"
+dtd_version: "2.0"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013725/2002-01-01/0"
+intitule_bron: "Infob.2002-12"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-05-29"
+intitule_published: "2002-01-01"
+intitule_in_force: "2002-01-01"
+intitule_status: "goed"
+original_publication: "Infob.2002-12"
+original_signed_date: "2002-05-29"
+original_published_date: "2002-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-01-01"
+jci_1_3: "jci1.3:c:BWBR0013725&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0013725&g=2002-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2002-05-29"
+entry_into_force: "2002-01-01"
 ---
-
 # Maximumverlies medegerechtigden, referentiebedrag, onttrekking
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

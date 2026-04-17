@@ -1,13 +1,35 @@
 ---
 title: "Onderlinge regeling ex artikel 38, eerste lid, Statuut voor het Koninkrijk der Nederlanden, inzake de samenwerking tussen de landen bij de implementatie van verdragen"
 identifier: "BWBR0029065"
-categorie: "Internationaal recht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029065"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029065"
+soort: "ministeriele-regeling"
+stam_id: "11102553"
+version_id: "18149862"
+internal_id: "C25233311"
+label_id: "11076894"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029065/2010-10-10/0"
+intitule_bron: "Stcrt.2010-19006"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-12-10"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-19006"
+original_published_date: "2010-12-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-19006"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0029065&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0029065&g=2010-10-10"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-10-10"
 ---
-
 # Onderlinge regeling ex artikel 38, eerste lid, Statuut voor het Koninkrijk der Nederlanden, inzake de samenwerking tussen de landen bij de implementatie van verdragen
 
 Overwegende, dat de landen vorm wensen te geven aan de samenwerking, bedoeld in [artikel 27, tweede lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=27), bij het treffen van maatregelen die noodzakelijk zijn voor de implementatie van verdragen;
@@ -16,13 +38,13 @@ Komen het volgende overeen:
 
 Treedt in werking op het tijdstip waarop de artikelen I en II van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treden. De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Indien is besloten dat een verdrag dient te gelden voor het gehele Koninkrijk en implementatiemaatregelen noodzakelijk zijn voordat het verdrag bekrachtigd kan worden, stelt elk van de landen zo spoedig mogelijk een implementatieplan op.
 
 2. Indien een land wenst dat een ander verdrag waarvoor implementatiemaatregelen noodzakelijk zijn voor dat land gaat gelden, kan het een implementatieplan opstellen.
 
-#### Artikel 2
+##### Artikel 2
 
 In een implementatieplan wordt in ieder geval vermeld:
 
@@ -34,17 +56,17 @@ In een implementatieplan wordt in ieder geval vermeld:
 
 - d. of er rapportageverplichtingen voortvloeien uit het verdrag.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij het opstellen van een implementatieplan wordt zoveel mogelijk het model gevolgd dat als bijlage bij deze onderlinge regeling is gevoegd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een implementatieplan dat door Aruba, Curaçao of Sint Maarten is opgesteld of aangepast, wordt door tussenkomst van de Gevolmachtigde Minister gezonden aan de andere Gevolmachtigde Ministers en aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties van Nederland.
 
 2. Een implementatieplan dat is opgesteld of aangepast door Nederland wordt door tussenkomst van de Minister van Binnenlandse Zaken en Koninkrijksrelaties gezonden aan de Gevolmachtigde Ministers van Aruba, Curaçao en Sint Maarten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Elk land verstrekt desgevraagd gegevens over de wijze waarop het land voornemens is een verdrag te implementeren.
 
@@ -64,7 +86,7 @@ Bij het opstellen van een implementatieplan wordt zoveel mogelijk het model gevo
 
 6. In het geval alle aangezochte landen een beroep doen op de weigeringsgronden vermeld in het vierde lid en het verzoekende land niet in staat blijkt tijdig uitvoering te geven aan het implementatieplan, wordt deze omstandigheid door de landen in de raad van ministers van het Koninkrijk mede in de overwegingen betrokken inzake het al dan niet treffen van een algemene maatregel van bestuur of een rijkswet als bedoeld in [artikel 27, derde lid, van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=27).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Minister van Binnenlandse Zaken en Koninkrijksrelaties van Nederland treedt in overleg met de beleidsverantwoordelijke minister van Aruba, Curaçao of Sint Maarten, indien naar zijn oordeel onvoldoende voortgang wordt gemaakt met de uitvoering van een implementatieplan, en een algemene maatregel van rijksbestuur of een rijkswet als bedoeld in [artikel 27, derde lid, van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=27), wordt overwogen. Het overleg is gericht op het alsnog uitvoeren van het implementatieplan binnen een redelijke termijn.
 
@@ -72,15 +94,15 @@ Bij het opstellen van een implementatieplan wordt zoveel mogelijk het model gevo
 
 3. Alvorens een ontwerp van een algemene maatregel van rijksbestuur, of een rijkswet, als bedoeld in [artikel 27, derde lid, van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=27) aan de raad van ministers van het Koninkrijk wordt voorgelegd, wordt het betreffende land door de Minister van Binnenlandse Zaken en Koninkrijksrelaties van Nederland in de gelegenheid gesteld om terstond zelf de noodzakelijke implementatiemaatregelen te treffen.
 
-#### Artikel 7
+##### Artikel 7
 
 Vijf jaar na inwerkingtreding van deze onderlinge regeling wordt gezamenlijk een verslag over de doeltreffendheid en de effecten van deze regeling in de praktijk opgesteld door Nederland, Aruba, Curaçao en Sint Maarten. Dit verslag wordt ter kennisneming aan de raad van ministers van het Koninkrijk aangeboden.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze onderlinge regeling kan in overeenstemming tussen Nederland, Aruba, Curaçao en Sint Maarten worden gewijzigd.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze onderlinge regeling treedt in werking op het tijdstip van inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) en [II van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=II).
 

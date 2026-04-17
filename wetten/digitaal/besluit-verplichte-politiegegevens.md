@@ -1,13 +1,39 @@
 ---
-title: "Besluit verplichte politiegegevens"
+title: "Besluit van 4 oktober 2012, houdende regels omtrent de doeleinden waarvoor de politie en de rijksrecherche, met inachtneming van de Wet politiegegevens, gegevens verwerken, de categorieën van gegevens die daartoe worden verwerkt, de terbeschikkingstelling en verstrekking van gegevens alsmede de wijze van verwerking (Besluit verplichte politiegegevens)"
 identifier: "BWBR0032083"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032083"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032083"
+soort: "AMvB"
+stam_id: "11870513"
+version_id: "19703772"
+internal_id: "C27640361"
+label_id: "11842794"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032083/2025-01-01/0"
+intitule_bron: "Stb.2012-465"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-10-04"
+intitule_published: "2012-10-12"
+intitule_in_force: "2012-10-12"
+intitule_status: "goed"
+original_publication: "Stb.2012-465"
+original_signed_date: "2012-10-04"
+original_published_date: "2012-10-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-465"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032083&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0032083&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit verplichte politiegegevens"
+signed_date: "2012-10-04"
+entry_into_force: "2013-01-01"
 ---
-
 # Besluit van 4 oktober 2012, houdende regels omtrent de doeleinden waarvoor de politie en de rijksrecherche, met inachtneming van de Wet politiegegevens, gegevens verwerken, de categorieën van gegevens die daartoe worden verwerkt, de terbeschikkingstelling en verstrekking van gegevens alsmede de wijze van verwerking (Besluit verplichte politiegegevens)
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 18 november 2011, nr. 5716361/11/6;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 28 sep
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - g. **verwerkingsverantwoordelijke:** de verwerkingsverantwoordelijke, bedoeld in [artikel 1, onderdeel f, onder 1° en 2°, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De politie verwerkt gegevens met het oog op de informatievoorziening in het kader van de uitvoering van de politietaak in verband met:
 
@@ -60,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 2. De korpschef draagt ervoor zorg dat de krachtens het eerste lid verwerkte gegevens langs geautomatiseerde weg aan de Koninklijke marechaussee beschikbaar kunnen worden gesteld. Daarbij wordt gebruik gemaakt van de centrale verwijzingsindex.
 
-#### Artikel 3
+##### Artikel 3
 
 De politie verwerkt terstond gegevens omtrent signaleringen met het oog op de informatievoorziening in het kader van de uitvoering van de politietaak in verband met:
 
@@ -70,7 +96,7 @@ De politie verwerkt terstond gegevens omtrent signaleringen met het oog op de in
 
 - c. de juiste uitvoering van de met de signalering verbonden taakopdracht.
 
-#### Artikel 4
+##### Artikel 4
 
 De politie verwerkt terstond dactyloscopische signalementen, dactyloscopische sporen en gedeelten daarvan met het oog op de informatievoorziening in het kader van de uitvoering van de politietaak in verband met:
 
@@ -80,7 +106,7 @@ De politie verwerkt terstond dactyloscopische signalementen, dactyloscopische sp
 
 - c. de identificatie van overleden personen of personen die anderszins niet in staat zijn inlichtingen omtrent hun identiteit te verschaffen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De criminele-inlichtingeneenheden verrichten met het oog op het verkrijgen van inzicht in de betrokkenheid van personen bij het beramen of plegen van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) in ieder geval de volgende werkzaamheden:
 
@@ -102,11 +128,11 @@ De politie verwerkt terstond dactyloscopische signalementen, dactyloscopische sp
 
 3. De uitvoering van de werkzaamheden, bedoeld in het eerste lid, onderdeel c, met medewerking van informanten als bedoeld in [artikel 12, zevende lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12) wordt uitsluitend verricht door de criminele-inlichtingeneenheid.
 
-#### Artikel 6
+##### Artikel 6
 
 Criminele-inlichtingeneenheden verwerken informantgegevens als bedoeld in [artikel 12 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12) onder gelijktijdige codetoekenning.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Criminele-inlichtingeneenheden wisselen onderling, gevraagd en ongevraagd, criminele-inlichtingen uit voor zover zij deze behoeven voor de uitvoering van hun taak. Daartoe wordt gebruikgemaakt van het modelformulier, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&bijlage=1&z=2025-01-01&g=2025-01-01) van dit besluit.
 
@@ -114,7 +140,7 @@ Criminele-inlichtingeneenheden verwerken informantgegevens als bedoeld in [artik
 
 3. De verwerkingsverantwoordelijke draagt ervoor zorg dat aan de ingevolge het tweede lid aangewezen en hem bekendgemaakte ambtenaren van andere criminele-inlichtingeneenheden autorisatie wordt verleend.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Criminele-inlichtingeneenheden stellen de nationale criminele-inlichtingeneenheid in kennis van:
 
@@ -128,7 +154,7 @@ Criminele-inlichtingeneenheden verwerken informantgegevens als bedoeld in [artik
 
 2. Ter uitvoering van het eerste lid, onderdeel b, en met het oog op de verstrekking van de gegevens als opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&bijlage=2&z=2025-01-01&g=2025-01-01) van dit besluit maken de criminele-inlichtingeneenheden gebruik van de centrale verwijzingsindex.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De nationale criminele-inlichtingeneenheid verwerkt:
 
@@ -140,13 +166,13 @@ Criminele-inlichtingeneenheden verwerken informantgegevens als bedoeld in [artik
 
 2. De nationale criminele-inlichtingeneenheid analyseert de gegevens, bedoeld in het eerste lid, onderdeel a, en verstrekt mede aan de hand daarvan de gegevens, bedoeld in het eerste lid, onderdelen a en b, aan hen die daarop bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) aanspraak kunnen maken.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De ambtenaar die deel uitmaakt van een criminele-inlichtingeneenheid voldoet aan de kwalificatie van een door Onze Minister aan te wijzen politieopleiding als bedoeld in [artikel 1, eerste lid, onder s, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1).
 
 2. De verwerkingsverantwoordelijke draagt ervoor zorg dat de kennis en vaardigheden van hem ondergeschikte ambtenaren die deel uitmaken van een criminele-inlichtingeneenheid, worden onderhouden op minimaal het niveau van de aan de in het eerste lid bedoelde kwalificaties.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De verwerkingsverantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die is belast met de werkzaamheden, bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032083&artikel=5&z=2025-01-01&g=2025-01-01), ononderbroken deel uitmaakt van een criminele-inlichtingeneenheid.
 
@@ -154,7 +180,7 @@ Criminele-inlichtingeneenheden verwerken informantgegevens als bedoeld in [artik
 
 3. Voor de ambtenaar die voor de datum van inwerkingtreding van dit besluit is aangesteld, gaat de termijn, bedoeld in het eerste lid, in op die datum.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De bij de criminele-inlichtingeneenheid in gebruik zijnde vertrekken zijn afsluitbaar en beveiligd. Tot deze vertrekken hebben slechts toegang ambtenaren die deel uitmaken van de criminele-inlichtingeneenheid, personen die door deze ambtenaren worden begeleid en de als zodanig aangewezen officier van justitie die verantwoordelijk is voor de taakuitoefening van de criminele-inlichtingeneenheid.
 
@@ -162,11 +188,11 @@ Criminele-inlichtingeneenheden verwerken informantgegevens als bedoeld in [artik
 
 3. Bij afwezigheid van ambtenaren van de criminele-inlichtingeneenheid zijn de vertrekken deugdelijk afgesloten.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit treedt in werking met ingang van 1 januari 2013.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit verplichte politiegegevens.
 

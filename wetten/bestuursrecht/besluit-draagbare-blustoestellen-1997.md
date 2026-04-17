@@ -1,13 +1,39 @@
 ---
-title: "Besluit draagbare blustoestellen 1997"
+title: "Besluit van 16 januari 1998, houdende regels over de veiligheid en de deugdelijkheid van draagbare blustoestellen (Besluit draagbare blustoestellen 1997)"
 identifier: "BWBR0009334"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-09-18
-laatste_update: 2016-09-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009334"
+country: "nl"
+rank: "amvb"
+publication_date: "2016-09-18"
+last_updated: "2016-09-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009334"
+soort: "AMvB"
+stam_id: "349513"
+version_id: "514542"
+internal_id: "C14246431"
+label_id: "341724"
+dtd_version: "2.0"
+original_entry_into_force: "1998-02-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009334/2016-09-18/0"
+intitule_bron: "Stb.1998-46"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-01-16"
+intitule_published: "1998-02-03"
+intitule_in_force: "1998-02-03"
+intitule_status: "goed"
+original_publication: "Stb.1998-46"
+original_signed_date: "1998-01-16"
+original_published_date: "1998-02-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1998-46"
+entry_into_force_date: "1998-02-04"
+jci_1_3: "jci1.3:c:BWBR0009334&z=2016-09-18&g=2016-09-18"
+jci_1_0: "1.0:c:BWBR0009334&g=2016-09-18"
+citeertitel_status: "officieel"
+short_title: "Besluit draagbare blustoestellen 1997"
+signed_date: "1998-01-16"
+entry_into_force: "1998-02-04"
 ---
-
 # Besluit van 16 januari 1998, houdende regels over de veiligheid en de deugdelijkheid van draagbare blustoestellen (Besluit draagbare blustoestellen 1997)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken, directoraat-generaal voor Openbare Orde en Veiligheid, directie Brandweer en Rampenbestrijding, van 1 september 1997, nr. EB97/1121;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -46,15 +72,15 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Bewijs van typekeuring
 
-#### Artikel 2
+##### Artikel 2
 
 Het is verboden draagbare blustoestellen met bijbehorende vullingen die niet behoren tot een type, waarvoor Onze Minister een bewijs heeft verleend, met het oog op gebruik in Nederland te vervaardigen, in te voeren of te verhandelen.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor elk type draagbaar blustoestel met bijbehorende vulling is een afzonderlijk bewijs vereist. Het type wordt bepaald door de soort vulling en de wijze, waarop het draagbare blustoestel in werking wordt gesteld en gehouden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=2&z=2016-09-18&g=2016-09-18) is het toegestaan draagbare blustoestellen met bijbehorende vullingen in te voeren, indien de draagbare blustoestellen uitsluitend:
 
@@ -76,11 +102,11 @@ Voor elk type draagbaar blustoestel met bijbehorende vulling is een afzonderlijk
 
 - c. een vermelding van de reden van invoer.
 
-#### Artikel 5
+##### Artikel 5
 
 De invoer van draagbare blustoestellen met bijbehorende vullingen kan geschieden langs alle plaatsen waar de aangifte tot plaatsing onder de douaneregeling in het vrije verkeer brengen, bedoeld in artikel 5, zestiende lid, onderdeel a, van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269), mag worden gedaan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij de aanvraag voor een bewijs worden de volgende bescheiden overgelegd:
 
@@ -122,7 +148,7 @@ De invoer van draagbare blustoestellen met bijbehorende vullingen kan geschieden
 
 5. Bij de aanvraag wordt aan het Rijk een bedrag van € 828,00 betaald. Dit bedrag wordt jaarlijks op 1 maart geïndexeerd conform de door het Centraal bureau voor de statistiek bekendgemaakte afgeleide consumentenprijsindex van het voorgaande jaar.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister beslist binnen acht weken na de ontvangst van de aanvraag over de afgifte van een bewijs.
 
@@ -130,7 +156,7 @@ De invoer van draagbare blustoestellen met bijbehorende vullingen kan geschieden
 
 3. Onze Minister doet van de afgifte van een bewijs mededeling in de Nederlandse Staatscourant.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister verleent het bewijs voor vijf jaar.
 
@@ -142,7 +168,7 @@ De invoer van draagbare blustoestellen met bijbehorende vullingen kan geschieden
 
 3. De houder bewaart de bescheiden, bedoeld in het tweede lid, in ongeschonden staat. Hij is gehouden deze op eerste aanwijzing van Onze Minister te tonen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Op aanvraag van de houder wijzigt Onze Minister een bewijs.
 
@@ -152,7 +178,7 @@ De invoer van draagbare blustoestellen met bijbehorende vullingen kan geschieden
 
 4. Onze Minister doet van de wijziging van een bewijs mededeling in de Nederlandse Staatscourant.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Op aanvraag van de houder schrijft Onze Minister een bewijs over op naam van een derde, die schriftelijk de wens te kennen heeft gegeven houder te willen worden.
 
@@ -160,13 +186,13 @@ De invoer van draagbare blustoestellen met bijbehorende vullingen kan geschieden
 
 3. Onze Minister doet van de overschrijving mededeling in de Nederlandse Staatscourant.
 
-#### Artikel 11
+##### Artikel 11
 
 De wijziging, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=9&z=2016-09-18&g=2016-09-18), en de overschrijving, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=10&z=2016-09-18&g=2016-09-18), brengen geen verandering in de termijn waarvoor het bewijs is verleend.
 
 #### § 3. Dwang- en strafbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onze Minister kan het bewijs van de houder intrekken, indien:
 
@@ -176,7 +202,7 @@ De wijziging, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 2. Onze Minister doet van de intrekking mededeling in de Nederlandse Staatscourant.
 
-#### Artikel 13
+##### Artikel 13
 
 Als strafbare feiten, bedoeld in [artikel 64, derde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=64), worden aangemerkt:
 
@@ -188,31 +214,31 @@ Als strafbare feiten, bedoeld in [artikel 64, derde lid, van de Wet veiligheidsr
 
 #### § 4. Overgangs- en slotbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 De bewijzen die zijn afgegeven vóór de datum van inwerkingtreding van dit besluit blijven geldig gedurende de termijn waarvoor zij zijn verleend.
 
-#### Artikel 15
+##### Artikel 15
 
 Het Besluit draagbare blustoestellen wordt ingetrokken.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit wordt aangehaald als: Besluit draagbare blustoestellen 1997.
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
@@ -234,7 +260,7 @@ Het rijkskeurmerk is ingericht naar het volgende model:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009334&paragraaf=2&artikel=2&z=2016-09-18&g=2016-09-18), geldt niet voor draagbare blustoestellen voor zover deze bestemd zijn voor plaatsing aan boord van schepen waarop richtlijn nr. 2014/90/EU van het Europese Parlement en de Raad van 23 juli 2014 inzake uitrusting van zeeschepen en tot intrekking van richtlijn 96/98/EG van de Raad (PbEU L 257) van toepassing is en zijn voorzien van een stuurwielmarkering als bedoeld in [artikel 1 van de Wet scheepsuitrusting 2016](onbekend).
 
@@ -260,7 +286,7 @@ Het rijkskeurmerk is ingericht naar het volgende model:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 15a
+##### Artikel 15a
 
 Dit besluit berust op [artikel 30, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=30).
 

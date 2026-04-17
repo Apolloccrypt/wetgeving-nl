@@ -1,13 +1,39 @@
 ---
-title: "Besluit wegslepen van voertuigen"
+title: "Besluit van 5 juli 2001, houdende nadere regels ter uitvoering van de in de Wegenverkeerswet 1994 vervatte wegsleepregeling (Besluit wegslepen van voertuigen)"
 identifier: "BWBR0012649"
-categorie: "Verkeer"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012649"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012649"
+soort: "AMvB"
+stam_id: "1586403"
+version_id: "2348962"
+internal_id: "C2348961"
+label_id: "1541254"
+dtd_version: "2.0"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012649/2013-01-01/0"
+intitule_bron: "Stb.2001-353"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-07-05"
+intitule_published: "2001-07-24"
+intitule_in_force: "2001-11-06"
+intitule_status: "goed"
+original_publication: "Stb.2001-353"
+original_signed_date: "2001-07-05"
+original_published_date: "2001-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2001-353"
+entry_into_force_date: "2002-01-01"
+jci_1_3: "jci1.3:c:BWBR0012649&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0012649&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit wegslepen van voertuigen"
+signed_date: "2001-07-05"
+entry_into_force: "2002-01-01"
 ---
-
 # Besluit van 5 juli 2001, houdende nadere regels ter uitvoering van de in de Wegenverkeerswet 1994 vervatte wegsleepregeling (Besluit wegslepen van voertuigen)
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 9 mei 2001, nr. CDJZ/WBI/2001-612, Centrale Directie Juridische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
@@ -30,7 +56,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 - b. bewaringsregister: het register, bedoeld in [artikel 170, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=170).
 
-#### Artikel 2
+##### Artikel 2
 
 De soorten van weggedeelten en wegen, bedoeld in [artikel 173, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=173), zijn:
 
@@ -64,11 +90,11 @@ De soorten van weggedeelten en wegen, bedoeld in [artikel 173, eerste lid, onder
 
 - i. voetgangersgebieden, aangeduid door bord G7 of door bord C1 van [bijlage 1 bij het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1).
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de vaststelling van de verordening, bedoeld in [artikel 173, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=173) pleegt het college van burgemeester en wethouders over de toepassing van [artikel 170, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=170) op de in de gemeente gelegen wegen en weggedeelten die bij een ander dan de gemeente in beheer zijn, overleg met de desbetreffende beheerders.
 
-#### Artikel 4
+##### Artikel 4
 
 Het college van burgemeester en wethouders zendt de tekst van de verordening, bedoeld in [artikel 173, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=173) aan:
 
@@ -82,7 +108,7 @@ Het college van burgemeester en wethouders zendt de tekst van de verordening, be
 
 #### § 2. Registratie
 
-#### Artikel 5
+##### Artikel 5
 
 Het proces-verbaal krachtens [artikel 5:29, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:29) bevat:
 
@@ -102,7 +128,7 @@ Het proces-verbaal krachtens [artikel 5:29, tweede lid, van de Algemene wet best
 
 - e. een summiere opsomming van de losse voorwerpen in het voertuig voor de verwijdering.
 
-#### Artikel 6
+##### Artikel 6
 
 1. In het bewaringsregister worden zo spoedig mogelijk na de inbewaringstelling opgenomen:
 
@@ -118,7 +144,7 @@ Het proces-verbaal krachtens [artikel 5:29, tweede lid, van de Algemene wet best
 
 - b. de naam van de eigenaar of houder van het voertuig, voor zover deze bekend is kunnen worden, ingeval het een voertuig betreft waarop of waaraan geen kenteken is bevestigd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. In het bewaringsregister worden bij het afhalen van het voertuig opgenomen:
 
@@ -134,7 +160,7 @@ Het proces-verbaal krachtens [artikel 5:29, tweede lid, van de Algemene wet best
 
 - b. ofwel de naam en het adres van degene aan wie is bekendgemaakt, onder vermelding van de wijze waarop aan hem is bekendgemaakt, ofwel de wijze waarop is bekendgemaakt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. In het geval dat een inbewaringgesteld voertuig is verkocht, worden in het bewaringsregister opgenomen:
 
@@ -148,7 +174,7 @@ Het proces-verbaal krachtens [artikel 5:29, tweede lid, van de Algemene wet best
 
 3. In het geval dat een in bewaring gesteld voertuig wordt vernietigd, wordt in het bewaringsregister opgenomen: de waarde, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0012649&paragraaf=4&artikel=15&z=2013-01-01&g=2013-01-01).
 
-#### Artikel 9
+##### Artikel 9
 
 Indien de gemeente kosten geheel of gedeeltelijk terugbetaalt binnen de termijn, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012649&paragraaf=2&artikel=10&z=2013-01-01&g=2013-01-01), worden in het bewaringsregister opgenomen:
 
@@ -160,17 +186,17 @@ Indien de gemeente kosten geheel of gedeeltelijk terugbetaalt binnen de termijn,
 
 - d. de naam en het adres van degene aan wie is terugbetaald.
 
-#### Artikel 10
+##### Artikel 10
 
 De gegevens blijven in het bewaringsregister opgenomen gedurende vijf jaar na de laatste dag van het kalenderjaar waarin de gemeente het voertuig heeft teruggegeven, verkocht, om niet aan een derde in eigendom overgedragen dan wel vernietigd.
 
-#### Artikel 11
+##### Artikel 11
 
 Het college van burgemeester en wethouders verstrekt aan belanghebbenden desgevraagd gegevens uit het bewaringsregister.
 
 #### § 3. Financiën
 
-#### Artikel 12
+##### Artikel 12
 
 1. Bij de vaststelling van de kosten, verbonden aan de toepassing van bestuursdwang, kunnen als directe kosten uitsluitend in aanmerking worden genomen:
 
@@ -200,11 +226,11 @@ Het college van burgemeester en wethouders verstrekt aan belanghebbenden desgevr
 
 3. Ingeval [artikel 5:30 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:30) op overeenkomstige wijze wordt toegepast, kunnen als directe kosten tevens in aanmerking worden genomen de personele en materiële kosten van verkoop, eigendomsoverdracht om niet of vernietiging, waaronder begrepen de kosten van taxatie van het voertuig.
 
-#### Artikel 13
+##### Artikel 13
 
 Bij de vaststelling van de kosten, verbonden aan de toepassing van bestuursdwang, kunnen indirecte kosten tot ten hoogste 15% van de directe in aanmerking genomen kosten in aanmerking worden genomen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. In de gemeentelijke verordening krachtens [artikel 173, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=173) kan op basis van een jaarlijkse raming met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012649&paragraaf=3&artikel=12&z=2013-01-01&g=2013-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0012649&paragraaf=3&artikel=13&z=2013-01-01&g=2013-01-01) worden bepaald dat voor de vaststelling van de kosten, verbonden aan het overbrengen, wordt uitgegaan van:
 
@@ -218,23 +244,23 @@ Bij de vaststelling van de kosten, verbonden aan de toepassing van bestuursdwang
 
 #### § 4. Overige bepalingen en slotbepaling
 
-#### Artikel 15
+##### Artikel 15
 
 Een in bewaring gesteld voertuig wordt niet verkocht, om niet in eigendom overgedragen of vernietigd dan nadat een beëdigd taxateur een rapport betreffende de waarde heeft opgemaakt.
 
-#### Artikel 16
+##### Artikel 16
 
 Waar in de wet [artikel 173, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=173) van overeenkomstige toepassing is verklaard, is dit besluit van overeenkomstige toepassing.
 
-#### Artikel 17
+##### Artikel 17
 
 Het Besluit wegslepen van voertuigen (Stb. 1978, 458) wordt ingetrokken.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 19
+##### Artikel 19
 
 Dit besluit wordt aangehaald als: Besluit wegslepen van voertuigen.
 

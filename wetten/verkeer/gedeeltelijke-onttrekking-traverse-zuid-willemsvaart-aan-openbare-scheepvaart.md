@@ -1,13 +1,38 @@
 ---
-title: "Gedeeltelijke onttrekking traverse Zuid-Willemsvaart aan openbare scheepvaart"
+title: "Beschikking houdende onttrekking van het gedeelte van de traverse van de Zuid-Willemsvaart door Helmond, tussen de Houtse Parallelbrug en de Aarle-Rixtelsebrug, aan de bestemming voor het openbare scheepvaartverkeer"
 identifier: "BWBR0006892"
-categorie: "Verkeer"
-publicatiedatum: 1994-10-01
-laatste_update: 1994-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006892"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1994-10-01"
+last_updated: "1994-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006892"
+soort: "ministeriele-regeling"
+stam_id: "3570143"
+version_id: "5353192"
+internal_id: "C5546281"
+label_id: "3550074"
+dtd_version: "2.0"
+original_entry_into_force: "1994-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006892/1994-10-01/0"
+intitule_bron: "Stcrt.1994-165"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-08-26"
+intitule_published: "1994-08-30"
+intitule_in_force: "1994-08-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1994-165"
+original_signed_date: "1994-08-26"
+original_published_date: "1994-08-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-10-01"
+jci_1_3: "jci1.3:c:BWBR0006892&z=1994-10-01&g=1994-10-01"
+jci_1_0: "1.0:c:BWBR0006892&g=1994-10-01"
+citeertitel_status: "officieel"
+short_title: "Gedeeltelijke onttrekking traverse Zuid-Willemsvaart aan openbare scheepvaart"
+signed_date: "1994-08-26"
+entry_into_force: "1994-10-01"
 ---
-
 # Beschikking houdende onttrekking van het gedeelte van de traverse van de Zuid-Willemsvaart door Helmond, tussen de Houtse Parallelbrug en de Aarle-Rixtelsebrug, aan de bestemming voor het openbare scheepvaartverkeer
 
 Gelezen het verzoek van de Hoofdingenieur-Directeur van de Rijkswaterstaat in de Directie Noord-Brabant te 's-Hertogenbosch van 6 oktober 1993, kenmerk AICB 9416, alsmede de nota ‘Onttrekking van een gedeelte van de traverse door Helmond van de Zuid-Willemsvaart, tussen de Houtse Parallelbrug en het Wilhelminakanaal, aan de bestemming voor het openbare scheepvaartverkeer’ (hierna te noemen: de Nota), van 1 oktober 1993;

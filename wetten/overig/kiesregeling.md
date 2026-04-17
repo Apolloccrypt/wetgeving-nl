@@ -1,34 +1,60 @@
 ---
-title: "Kiesregeling"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 november 2013, nr. 2013-0000435969, houdende regels ter uitvoering van de Kieswet en het Kiesbesluit (Kiesregeling)"
 identifier: "BWBR0034180"
-categorie: "Overig"
-publicatiedatum: 2026-02-16
-laatste_update: 2026-02-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034180"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-16"
+last_updated: "2026-02-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034180"
+soort: "ministeriele-regeling"
+stam_id: "12428283"
+version_id: "22434752"
+internal_id: "C32198371"
+label_id: "12399114"
+dtd_version: "2.0"
+original_entry_into_force: "2015-05-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034180/2026-02-16/0"
+intitule_bron: "Stcrt.2013-31450"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-11-06"
+intitule_published: "2013-11-12"
+intitule_in_force: "2013-11-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-13882"
+original_signed_date: "2015-05-12"
+original_published_date: "2015-06-02"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2015-13882"
+entry_into_force_date: "2015-05-12"
+jci_1_3: "jci1.3:c:BWBR0034180&z=2026-02-16&g=2026-02-16"
+jci_1_0: "1.0:c:BWBR0034180&g=2026-02-16"
+citeertitel_status: "officieel"
+short_title: "Kiesregeling"
+signed_date: "2015-05-12"
+entry_into_force: "2015-05-12"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 november 2013, nr. 2013-0000435969, houdende regels ter uitvoering van de Kieswet en het Kiesbesluit (Kiesregeling)
 
 Gelet op de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) en het [Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Als de modellen, bedoeld in de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) en het [Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632), worden de modellen vastgesteld die in de bijlage bij artikel 1 van deze regeling bij deze regeling zijn opgenomen.
 
 2. De tekst van de modellen in de bijlage bij artikel 1 van deze regeling bij deze regeling kan redactioneel worden aangepast voor een specifieke doelgroep of voor de digitale toepassing, indien dat de leesbaarheid of doelmatigheid van het model ten goede komt.
 
-#### Artikel 2
+##### Artikel 2
 
 De [Modellenregeling Kieswet en Kiesbesluit 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029003) wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van 1 december 2013.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Kiesregeling.
 
@@ -168,7 +194,7 @@ Deze regeling wordt aangehaald als: Kiesregeling.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Vervallen
 
@@ -212,7 +238,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2b
+##### Artikel 2b
 
 Vervallen
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling monomestvergisting 2017"
+title: "Regeling van de Minister van Economische Zaken van 26 juni 2017, nr. WJZ/17075625, tot aanwijzing van monomestvergistingsinstallaties als subsidiabele categorie voor 2017 in het kader van de stimulering van duurzame energieproductie (Regeling monomestvergisting 2017)"
 identifier: "BWBR0039698"
-categorie: "Overig"
-publicatiedatum: 2017-07-01
-laatste_update: 2017-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039698"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-07-01"
+last_updated: "2017-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039698"
+soort: "ministeriele-regeling"
+stam_id: "14029733"
+version_id: "24163072"
+internal_id: "C34723451"
+label_id: "13991224"
+dtd_version: "2.0"
+original_entry_into_force: "2017-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039698/2017-07-01/0"
+intitule_bron: "Stcrt.2017-29951"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-06-26"
+intitule_published: "2017-06-28"
+intitule_in_force: "2017-06-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-29951"
+original_signed_date: "2017-06-26"
+original_published_date: "2017-06-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-29951"
+entry_into_force_date: "2017-07-01"
+jci_1_3: "jci1.3:c:BWBR0039698&z=2017-07-01&g=2017-07-01"
+jci_1_0: "1.0:c:BWBR0039698&g=2017-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling monomestvergisting 2017"
+signed_date: "2017-06-26"
+entry_into_force: "2017-07-01"
 ---
-
 # Regeling van de Minister van Economische Zaken van 26 juni 2017, nr. WJZ/17075625, tot aanwijzing van monomestvergistingsinstallaties als subsidiabele categorie voor 2017 in het kader van de stimulering van duurzame energieproductie (Regeling monomestvergisting 2017)
 
 Gelet op de [artikelen 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2), [3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=3), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=7), [36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=36), [37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=37), [39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=39), [40, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=40), [51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=51), [52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=52), [55, derde tot en met vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55), [56, tweede, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56), [59, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=59), [60, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=60), [61, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=61) en [62, vierde lid en vijfde lid, onderdeel b, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=62);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Aanwijzing categorieën en openstelling
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister verstrekt op aanvraag subsidie:
 
@@ -48,23 +74,23 @@ In deze regeling wordt verstaan onder:
 
 2. Productie-installaties als bedoeld in het eerste lid worden aangewezen als productie-installaties als bedoeld in [artikel 3, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=3).
 
-#### Artikel 3
+##### Artikel 3
 
 Het subsidieplafond bedraagt € 150 miljoen.
 
-#### Artikel 4
+##### Artikel 4
 
 Aanvragen om subsidie worden ontvangen in de periode van 4 juli 2017 09:00 uur tot 27 juli 2017 17:00 uur.
 
 #### § 3. Aanvraag en beslissing op de aanvraag
 
-#### Artikel 5
+##### Artikel 5
 
 1. Productie-installaties als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01), worden aangewezen als productie-installaties als bedoeld in [artikel 56, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56).
 
 2. Productie-installaties als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01), worden aangewezen als productie-installaties als bedoeld in [artikel 56, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56).
 
-#### Artikel 6
+##### Artikel 6
 
 1. In afwijking van [artikel 2a, eerste lid, van de algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=2a) gaat een aanvraag om subsidie vergezeld van een haalbaarheidsstudie.
 
@@ -72,31 +98,31 @@ Aanvragen om subsidie worden ontvangen in de periode van 4 juli 2017 09:00 uur t
 
 3. Indien een aanvraag tot subsidieverlening wordt ingediend met de gegevens, bedoeld in [artikel 56, vierde lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56) maar zonder de vergunningen die vereist zijn voor de realisatie van de productie-installatie, bevat de haalbaarheidsstudie een plan van aanpak en een tijdschema voor de verkrijging van de vergunningen die zijn vereist voor de realisatie van de productie-installatie.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Productie-installaties als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01), worden aangewezen als productie-installaties als bedoeld in [artikel 59, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=59).
 
 2. [Artikel 59, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=59) is van toepassing op een aanvraag om subsidie.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De minister verdeelt het bedrag, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=2&artikel=3&z=2017-07-01&g=2017-07-01), op volgorde van rangschikking van de aanvragen.
 
 2. Ten behoeve van de rangschikking wordt het tenderbedrag van een subsidieaanvraag voor de productie van hernieuwbaar gas gecorrigeerd door het in de subsidieaanvraag genoemde tenderbedrag in euro per kWh te delen door een correctiefactor van 0,706.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het maximum tenderbedrag, bedoeld in [artikel 36, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=36), voor productie-installaties als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01), bedraagt € 0,088 per kWh.
 
 2. Het maximum tenderbedrag bedoeld in [artikel 51, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=51), voor productie-installaties als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01), bedraagt € 0,125 per kWh.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De basisenergieprijs, bedoeld in [artikel 37, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=37) bedraagt voor productie-installaties als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01), € 0,015 per kWh.
 
 2. De basisenergieprijs, bedoeld in [artikel 52, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=52) bedraagt voor productie-installaties als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01), € 0,030 per kWh.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Voor een aanvraag als bedoeld in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=3&artikel=6&z=2017-07-01&g=2017-07-01), wordt de subsidie verleend onder de opschortende voorwaarde dat binnen twee weken na de afgifte van de beschikking tot subsidieverlening een uitvoeringsovereenkomst overeenkomstig het model opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&bijlage=1&z=2017-07-01&g=2017-07-01) tot stand is gekomen tussen de Staat en de subsidie-ontvanger, en onder de opschortende voorwaarde dat de subsidie-ontvanger binnen vier weken na de afgifte van de beschikking tot subsidieverlening heeft aangetoond dat een bankgarantie overeenkomstig het model opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&bijlage=2&z=2017-07-01&g=2017-07-01) is afgegeven.
 
@@ -104,7 +130,7 @@ Aanvragen om subsidie worden ontvangen in de periode van 4 juli 2017 09:00 uur t
 
 #### § 4. Verplichtingen van de subsidie-ontvanger
 
-#### Artikel 12
+##### Artikel 12
 
 1. In geval van een aanvraag als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=3&artikel=6&z=2017-07-01&g=2017-07-01), meldt de subsidie-ontvanger aan de Minister de locatie waar de productie-installatie wordt geplaatst voor de aanvang van de bouw van de productie-installatie.
 
@@ -116,17 +142,17 @@ Aanvragen om subsidie worden ontvangen in de periode van 4 juli 2017 09:00 uur t
 
 #### § 5. Algemene bepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Een subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01), wordt over een periode van twaalf jaar verstrekt.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het maximale aantal vollasturen, bedoeld in [artikel 40, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=40) voor productie-installaties als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01), bedraagt 8.000 uren.
 
 2. Het maximale aantal vollasturen, bedoeld in [artikel 55, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55) voor productie-installaties als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01), bedraagt 7.200 uren.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Productie-installaties als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01), worden aangewezen als productie-installaties als bedoeld in:
 
@@ -148,7 +174,7 @@ Een subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/j
 
 #### § 6. Overgangs- en slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 De correcties op het tenderbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2017 als volgt vastgesteld: voor wat betreft het bedrag bedoeld in [artikel 39, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=39), respectievelijk [artikel 54, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=54) het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 39, eerste lid, onderdelen b en c, respectievelijk artikel 54, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -158,11 +184,11 @@ De correcties op het tenderbedrag voor subsidie voor een productie-installatie a
 | [2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01) | Monomestvergisting/gas | 0,016 | 0 |
 | [2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039698&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01) | Monomestvergisting/elektriciteit en warmte | 0,031 | 0 |
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling treedt in werking met ingang van 1 juli 2017.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling wordt aangehaald als: Regeling monomestvergisting 2017.
 

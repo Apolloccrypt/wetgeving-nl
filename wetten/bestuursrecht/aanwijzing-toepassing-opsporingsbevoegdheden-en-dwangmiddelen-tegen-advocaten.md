@@ -1,13 +1,38 @@
 ---
 title: "Aanwijzing toepassing opsporingsbevoegdheden en dwangmiddelen tegen advocaten"
 identifier: "BWBR0029753"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-04-01
-laatste_update: 2011-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029753"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2011-04-01"
+last_updated: "2011-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029753"
+soort: "beleidsregel"
+stam_id: "11277183"
+version_id: "18469642"
+internal_id: "C25754171"
+label_id: "11251534"
+dtd_version: "2.0"
+original_entry_into_force: "2011-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029753/2011-04-01/0"
+intitule_bron: "Stcrt.2011-4981"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-03-07"
+intitule_published: "2011-03-23"
+intitule_in_force: "2011-03-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-4981"
+original_signed_date: "2011-03-07"
+original_published_date: "2011-03-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-4981"
+entry_into_force_date: "2011-04-01"
+jci_1_3: "jci1.3:c:BWBR0029753&z=2011-04-01&g=2011-04-01"
+jci_1_0: "1.0:c:BWBR0029753&g=2011-04-01"
+citeertitel_status: "redactioneel"
+signed_date: "2011-03-07"
+entry_into_force: "2011-04-01"
 ---
-
 # Aanwijzing toepassing opsporingsbevoegdheden en dwangmiddelen tegen advocaten
 
 ### Achtergrond

@@ -1,13 +1,35 @@
 ---
 title: "Aanvullend Protocol bij het Protocol van 13 april 1962 nopens de oprichting van Europese scholen"
 identifier: "BWBV0003416"
-categorie: "Internationaal recht"
-publicatiedatum: 1980-02-28
-laatste_update: 1980-02-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003416"
+country: "nl"
+rank: "verdrag"
+publication_date: "1980-02-28"
+last_updated: "1980-02-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003416"
+soort: "verdrag"
+stam_id: "10003523893"
+version_id: "10003572772"
+internal_id: "C10006982371"
+label_id: "10003509274"
+dtd_version: "2.0"
+original_entry_into_force: "1980-02-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003416/1980-02-28/0"
+intitule_bron: "Trb.1976-48"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1976-04-09"
+intitule_in_force: "1980-05-12"
+intitule_status: "goed"
+original_publication: "Trb.1976-48"
+original_published_date: "1976-04-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1976-48"
+entry_into_force_date: "1980-02-28"
+jci_1_3: "jci1.3:c:BWBV0003416&z=1980-02-28&g=1980-02-28"
+jci_1_0: "1.0:c:BWBV0003416&g=1980-02-28"
+citeertitel_status: "redactioneel"
+entry_into_force: "1980-02-28"
 ---
-
 # Aanvullend Protocol bij het Protocol van 13 april 1962 nopens de oprichting van Europese scholen
 
 De Regeringen van
@@ -58,25 +80,25 @@ Overwegende dat het wenselijk is voornoemd Protocol uit te breiden tot de Europe
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Niettegenstaande artikel 1, eerste lid van het Protocol van 13 april 1962 nopens de oprichting van Europese scholen, kan in München een Europese school worden opgericht voor gemeenschappelijke opvoeding en gemeenschappelijk onderwijs van kinderen van het personeel van de Europese Octrooiorganisatie.
 
 Andere kinderen die de nationaliteit bezitten van een van de Lid-Staten van de Europese Economische Gemeenschap of van een van de andere Staten die partij zijn bij het [Europees Octrooiverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819), zullen eveneens tot deze school worden toegelaten volgens door de Raad van Bestuur van de Europese scholen met eenparigheid van stemmen vast te stellen regels.
 
-#### Artikel 2
+##### Artikel 2
 
 De Europese Octrooiorganisatie krijgt een zetel en een stem in de Raad van Bestuur voor alle vraagstukken betreffende de instelling, opgericht krachtens artikel 1, alsmede een zetel in het Dagelijks Bestuur van de instelling.
 
-#### Artikel 3
+##### Artikel 3
 
 In afwijking van artikel 26 van het Statuut, wordt de begroting van de krachtens artikel 1 van dit Aanvullend Protocol opgerichte instelling van middelen voorzien op een wijze die zal worden bepaald in een overeenkomst, te sluiten overeenkomstig artikel 4 van het Protocol nopens de oprichting van Europese scholen. De Raad van Bestuur draagt er zorg voor dat in deze overeenkomst bepalingen worden opgenomen inzake de financiering van de instelling, met name door de Europese Octrooiorganisatie.
 
-#### Artikel 4
+##### Artikel 4
 
 In afwijking van artikel 7 van het Protocol nopens de oprichting van Europese scholen worden de ontwerp-begroting en het financiële verslag van de instelling die krachtens artikel 1 van dit Aanvullend Protocol is opgericht, toegezonden aan de Europese Octrooiorganisatie.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit Aanvullend Protocol zal worden bekrachtigd. De akten van bekrachtiging zullen worden nedergelegd bij de Regering van Luxemburg, waarbij het Statuut van de Europese school is nedergelegd. Deze Regering zal alle andere Regeringen die het Aanvullend Protocol hebben ondertekend, van elke nederlegging in kennis stellen.
 

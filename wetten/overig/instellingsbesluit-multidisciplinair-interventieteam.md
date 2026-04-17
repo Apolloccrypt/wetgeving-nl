@@ -1,13 +1,39 @@
 ---
-title: "Instellingsbesluit multidisciplinair interventieteam"
+title: "Besluit van de Minister van Justitie en Veiligheid, de Minister van Financiën, de Minister van Defensie, het College van procureurs-generaal en de korpschef van 17 december 2021, nr. 3708729, tot instelling van het multidisciplinair interventieteam (Instellingsbesluit multidisciplinair interventieteam)"
 identifier: "BWBR0046065"
-categorie: "Overig"
-publicatiedatum: 2021-12-23
-laatste_update: 2021-12-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046065"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-12-23"
+last_updated: "2021-12-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046065"
+soort: "ministeriele-regeling"
+stam_id: "16195353"
+version_id: "28263432"
+internal_id: "C39850181"
+label_id: "16123654"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046065/2021-12-23/0"
+intitule_bron: "Stcrt.2021-50379"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-17"
+intitule_published: "2021-12-22"
+intitule_in_force: "2021-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-50379"
+original_signed_date: "2021-12-17"
+original_published_date: "2021-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-50379"
+entry_into_force_date: "2021-12-23"
+jci_1_3: "jci1.3:c:BWBR0046065&z=2021-12-23&g=2021-12-23"
+jci_1_0: "1.0:c:BWBR0046065&g=2021-12-23"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit multidisciplinair interventieteam"
+signed_date: "2021-12-17"
+entry_into_force: "2021-12-23"
 ---
-
 # Besluit van de Minister van Justitie en Veiligheid, de Minister van Financiën, de Minister van Defensie, het College van procureurs-generaal en de korpschef van 17 december 2021, nr. 3708729, tot instelling van het multidisciplinair interventieteam (Instellingsbesluit multidisciplinair interventieteam)
 
 Overwegende dat:
@@ -30,7 +56,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -62,7 +88,7 @@ Besluit:
 
 #### § 2.1. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. De samenwerkende organisaties gaan met het oog op het tweede lid bedoelde doel een samenwerkingsverband multidisciplinair interventieteam (MIT) aan.
 
@@ -80,11 +106,11 @@ Besluit:
 
 5. De ministers dragen ieder afzonderlijk ministeriële verantwoordelijkheid voor de werkzaamheden die de onder hun verantwoordelijkheid vallende samenwerkende organisaties binnen het samenwerkingsverband uitvoeren, onverminderd de verantwoordelijkheid van het gezag.
 
-#### Artikel 3
+##### Artikel 3
 
 De verwerkingsverantwoordelijken van de politie, de Douane, de Belastingdienst, de Fiscale inlichtingen- en opsporingsdienst, de Koninklijke marechaussee en het openbaar ministerie spannen zich in om een convenant vast te stellen inzake de gezamenlijke gegevensverwerking met het oog op het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046065&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2021-12-23&g=2021-12-23), vermelde doel.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Er is een stuurgroep MIT.
 
@@ -134,7 +160,7 @@ De verwerkingsverantwoordelijken van de politie, de Douane, de Belastingdienst, 
 
 7. De stuurgroep MIT beslist ten aanzien van de aanwijzing, bedoeld in het tweede lid, onder c en d, bij consensus.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Er is een programmateam MIT, bestaande uit een directeur MIT en ten hoogste vier andere leden, waaronder een plaatsvervangend directeur MIT.
 
@@ -152,7 +178,7 @@ De verwerkingsverantwoordelijken van de politie, de Douane, de Belastingdienst, 
 
 5. Ten minste eenmaal per kalenderjaar wordt door de (plaatsvervangend) voorzitter en een ander door de stuurgroep MIT aangewezen lid van de stuurgroep MIT een gesprek gevoerd met de leden van het programmateam MIT over de vervulling van hun werkzaamheden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het jaarplan beschrijft het beleid van de samenwerkende organisaties ten aanzien van de ter beschikkingstelling van personeel en materieel, zowel kwalitatief als kwantitatief, ten behoeve van de taakuitvoering in het kader van het MIT, voor zover dat personeel en materieel worden bekostigd met middelen of bijdragen die door de Minister van Justitie en Veiligheid ter beschikking zijn of worden gesteld. Het jaarplan geeft tevens inzicht in de samenhang tussen dit beleid en de uitvoering van de opdrachten van de gezagen.
 
@@ -168,7 +194,7 @@ De verwerkingsverantwoordelijken van de politie, de Douane, de Belastingdienst, 
 
 #### § 2.2. Operationele aansturing
 
-#### Artikel 7
+##### Artikel 7
 
 1. Er is een strategisch kaderoverleg (SKO) tussen de gezagen, de daartoe aangewezen functionarissen van de deelnemende operationele organisaties en het programmateam MIT.
 
@@ -180,7 +206,7 @@ De verwerkingsverantwoordelijken van de politie, de Douane, de Belastingdienst, 
 
 3. Ieder lid van het SKO neemt deel vanuit de eigen taken en verantwoordelijkheden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Er is een multi interventie overleg (MIO) tussen de gezagen, de daartoe aangewezen functionarissen van de deelnemende operationele organisaties en het programmateam MIT.
 
@@ -194,13 +220,13 @@ De verwerkingsverantwoordelijken van de politie, de Douane, de Belastingdienst, 
 
 #### § 2.3. Beheer
 
-#### Artikel 9
+##### Artikel 9
 
 1. De politie draagt zorg voor de facilitaire dienstverlening, huisvesting, inrichting, onderhoud en ontwikkeling van gemeenschappelijke ICT-voorzieningen ten behoeve van het MIT.
 
 2. De korpschef verstrekt aan de directeur MIT mandaat en volmacht ten aanzien van het eerste lid, binnen de kaders, bedoeld in [artikel 6, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046065&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2021-12-23&g=2021-12-23). De directeur MIT kan het mandaat en de volmacht doorgeven aan een of meer andere leden van het programmateam MIT.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Voor de uitvoering van de taken van het MIT heeft de directeur MIT onder meer de beschikking over medewerkers van de deelnemende operationele organisaties, die hun wettelijke taken en bevoegdheden uitoefenen onder het gezag.
 
@@ -218,11 +244,11 @@ De verwerkingsverantwoordelijken van de politie, de Douane, de Belastingdienst, 
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Instellingsbesluit multidisciplinair interventieteam.
 

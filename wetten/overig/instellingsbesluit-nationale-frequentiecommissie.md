@@ -1,13 +1,37 @@
 ---
-title: "Instellingsbesluit Nationale Frequentiecommissie"
+title: "Besluit van de Minister van Economische Zaken van 15 augustus 2003, nr. WJZ/03/02932, houdende instelling van de Nationale Frequentiecommissie (Instellingsbesluit Nationale Frequentiecommissie)"
 identifier: "BWBR0015477"
-categorie: "Overig"
-publicatiedatum: 2003-08-24
-laatste_update: 2003-08-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015477"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2003-08-24"
+last_updated: "2003-08-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015477"
+soort: "ministeriele-regeling"
+stam_id: "5159143"
+version_id: "9292992"
+internal_id: "C12391911"
+label_id: "5134734"
+original_entry_into_force: "2003-08-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015477/2003-08-24/0"
+intitule_bron: "Stcrt.2003-161"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-08-15"
+intitule_published: "2003-08-22"
+intitule_in_force: "2003-08-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-161"
+original_signed_date: "2003-08-15"
+original_published_date: "2003-08-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-08-24"
+jci_1_3: "jci1.3:c:BWBR0015477&z=2003-08-24&g=2003-08-24"
+jci_1_0: "1.0:c:BWBR0015477&g=2003-08-24"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Nationale Frequentiecommissie"
+signed_date: "2003-08-15"
+entry_into_force: "2003-08-24"
 ---
-
 # Besluit van de Minister van Economische Zaken van 15 augustus 2003, nr. WJZ/03/02932, houdende instelling van de Nationale Frequentiecommissie (Instellingsbesluit Nationale Frequentiecommissie)
 
 Overwegende,
@@ -18,11 +42,11 @@ Overwegende,
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Nationale Frequentiecommissie (NFC), hierna te noemen: de commissie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De commissie heeft als taak het plegen van overleg en het geven van advies aan de Minister van Economische Zaken over het beleid ten aanzien van het beheer van het radiofrequentiespectrum in het bijzonder betreffende:
 
@@ -42,7 +66,7 @@ Er is een Nationale Frequentiecommissie (NFC), hierna te noemen: de commissie.
 
 3. De commissie houdt verder in haar werkzaamheden rekening met de uitkomsten van overig frequentiemanagement gerelateerd overleg, voor zover dit in andere overlegfora aan de orde komt en van relevantie is voor de werkzaamheden van de commissie.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie bestaat uit de volgende door de Minister van Economische Zaken aan te wijzen leden:
 
@@ -58,19 +82,19 @@ Er is een Nationale Frequentiecommissie (NFC), hierna te noemen: de commissie.
 
 2. De leden dragen zorg voor hun plaatsvervanging in de commissie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het secretariaat van de commissie wordt verzorgd door het Ministerie van Economische Zaken, Agentschap Telecom. De Directeur-Hoofdinspecteur van het Agentschap Telecom treft hiertoe de nodige voorzieningen.
 
 2. Het secretariaat staat onder leiding van een secretaris. De secretaris kan niet tegelijkertijd lid zijn van de commissie.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De voorzitter van de commissie draagt zorg voor de rapportage van de uitkomsten van het overleg bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015477&artikel=2&z=2003-08-24&g=2003-08-24), aan de Minister van Economische Zaken.
 
 2. Indien ten aanzien van de uitkomst van het overleg over een bepaald onderwerp door een of meer leden een minderheidsstandpunt wordt ingenomen, wordt dit standpunt op verzoek van het desbetreffende lid of de desbetreffende leden in de rapportage vermeld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De leden van de commissie kunnen zich laten bijstaan door adviseurs.
 
@@ -78,29 +102,29 @@ Er is een Nationale Frequentiecommissie (NFC), hierna te noemen: de commissie.
 
 3. De commissie, subcommissie en werkgroepen kunnen deskundigen uitnodigen om mondeling of schriftelijk inlichtingen te verstrekken.
 
-#### Artikel 7
+##### Artikel 7
 
 De commissie stelt een reglement van orde vast ter nadere regeling van de werkwijze van de commissie, haar subcommissies en haar werkgroepen.
 
-#### Artikel 8
+##### Artikel 8
 
 De secretaris en de leden worden alvorens zij door de Minister van Economische Zaken worden aangewezen, onderworpen aan een veiligheidsonderzoek als bedoeld in de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277).
 
-#### Artikel 9
+##### Artikel 9
 
 1. De commissie wordt ingesteld voor een periode van vier jaar.
 
 2. Uiterlijk binnen een periode van drie en een half jaar brengt de commissie een rapport uit aan de Minister van Economische Zaken, waarin de taakstelling van de commissie aan een onderzoek wordt onderworpen en waarin voorstellen kunnen worden gedaan voor daarin gewenste veranderingen.
 
-#### Artikel 10
+##### Artikel 10
 
 Het [Besluit Nationale Frequentiecommissie](onbekend) wordt ingetrokken.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Nationale Frequentiecommissie.
 

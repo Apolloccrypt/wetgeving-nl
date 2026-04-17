@@ -1,13 +1,37 @@
 ---
 title: "Europees Verdrag inzake het internationale vervoer van gevaarlijke goederen over de binnenwateren (ADN)"
 identifier: "BWBV0001586"
-categorie: "Milieu"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001586"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001586"
+soort: "verdrag"
+stam_id: "10000104143"
+version_id: "10000104822"
+internal_id: "C10006991221"
+label_id: "10000104484"
+original_entry_into_force: "2008-02-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001586/2025-01-01/0"
+intitule_bron: "Trb.2001-67"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-04-30"
+intitule_published: "2001-04-12"
+intitule_in_force: "2008-04-02"
+intitule_status: "goed"
+original_publication: "Trb.2001-67"
+original_signed_date: "2003-04-30"
+original_published_date: "2001-04-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2001-67"
+entry_into_force_date: "2008-02-29"
+jci_1_3: "jci1.3:c:BWBV0001586&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBV0001586&g=2025-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2003-04-30"
+entry_into_force: "2008-02-29"
 ---
-
 # Europees Verdrag inzake het internationale vervoer van gevaarlijke goederen over de binnenwateren (ADN)
 
 De Verdragsluitende Partijen,
@@ -26,7 +50,7 @@ Zijn overeengekomen als volgt:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 1. Dit Verdrag is van toepassing op het internationale vervoer van gevaarlijke goederen per schip over de binnenwateren.
 
@@ -34,7 +58,7 @@ Zijn overeengekomen als volgt:
 
 3. Dit Verdrag is niet van toepassing op het vervoer van gevaarlijke goederen per oorlogsschip of hulp-oorlogsschip of op andere aan een staat toebehorende of door een staat geëxploiteerde schepen, mits zulke schepen door een staat uitsluitend worden gebruikt voor overheids- en niet-commerciële doeleinden. Evenwel waarborgt elke Verdragsluitende Partij, door het nemen van passende maatregelen die geen afbreuk doen aan het vervoer met of de operationele capaciteiten van zulke aan hem toebehorende of door hem geëxploiteerde schepen, dat zulke schepen worden geëxploiteerd op een wijze die verenigbaar is met dit Verdrag, wanneer het in de praktijk redelijk is zulks te doen.
 
-#### Artikel 2. Voorschriften in de bijlagen bij het Verdrag
+##### Artikel 2. Voorschriften in de bijlagen bij het Verdrag
 
 De Voorschriften in de bijlagen bij dit Verdrag vormen daarvan een integrerend deel. Elke verwijzing naar dit Verdrag houdt tevens een verwijzing in naar de Voorschriften in de bijlagen daarbij.
 
@@ -48,7 +72,7 @@ De Voorschriften in de bijlagen omvatten:
 
 - d. Aanvullende overgangsbepalingen van toepassing op specifieke binnenwateren.
 
-#### Artikel 3. Begripsomschrijvingen
+##### Artikel 3. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -70,7 +94,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK II. TECHNISCHE BEPALINGEN
 
-#### Artikel 4. Vervoersverboden, vervoersvoorwaarden, toezicht
+##### Artikel 4. Vervoersverboden, vervoersvoorwaarden, toezicht
 
 1. Met inachtneming van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001586&hoofdstuk=II&artikel=7&z=2025-01-01&g=2025-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001586&hoofdstuk=II&artikel=8&z=2025-01-01&g=2025-01-01) worden gevaarlijke goederen die in de Voorschriften in de bijlagen van vervoer worden uitgesloten niet aanvaard voor internationaal vervoer.
 
@@ -78,15 +102,15 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Op de naleving van de in het eerste en tweede lid bedoelde verboden en voorwaarden wordt toegezien door de Verdragsluitende Staten in overeenstemming met de bepalingen die zijn neergelegd in de Voorschriften in de bijlagen.
 
-#### Artikel 5. Vrijstellingen
+##### Artikel 5. Vrijstellingen
 
 Dit Verdrag is niet van toepassing op het vervoer van gevaarlijke goederen voor zover dergelijk vervoer is vrijgesteld in overeenstemming met de Voorschriften in de bijlagen. Vrijstellingen kunnen slechts worden verleend wanneer de hoeveelheid vrijgestelde goederen, of de aard van de vrijgestelde vervoersactiviteit, of de verpakkingen, waarborgen dat het vervoer veilig wordt uitgevoerd.
 
-#### Artikel 6. Soeverein recht van staten
+##### Artikel 6. Soeverein recht van staten
 
 Elke Verdragsluitende Partij behoudt het recht de toegang van gevaarlijke goederen tot zijn grondgebied aan regels te onderwerpen of te verbieden om andere redenen dan de veiligheid tijdens het vervoer.
 
-#### Artikel 7. Speciale voorschriften, afwijkingen
+##### Artikel 7. Speciale voorschriften, afwijkingen
 
 1. De Verdragsluitende Partijen behouden het recht, gedurende een in de Voorschriften in de bijlagen vastgesteld beperkt tijdvak, bij speciale bilaterale of multilaterale verdragen, en mits geen afbreuk wordt gedaan aan de veiligheid, te regelen:
 
@@ -104,7 +128,7 @@ Van de in dit lid bedoelde speciale bilaterale of multilaterale verdragen wordt 
 
 - b. schepen met technische innovaties die afwijken van de bepalingen in de Voorschriften in de bijlagen.
 
-#### Artikel 8. Overgangsbepalingen
+##### Artikel 8. Overgangsbepalingen
 
 1. Certificaten van goedkeuring en andere documenten opgesteld in overeenstemming met de vereisten van het Reglement voor het vervoer van gevaarlijke stoffen over de Rijn (ADNR), het Reglement voor het vervoer van gevaarlijke goederen over de Donau (AND-D) of nationale regelgeving gebaseerd op de Europese bepalingen betreffende het internationaal vervoer over de binnenwateren van gevaarlijke goederen, opgenomen in een bijlage bij resolutie nr. 223 van het Inland Transport Committee van de Economische Commissie voor Europa of zoals gewijzigd, die van toepassing zijn op de datum waarop de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001586&hoofdstuk=III&artikel=11&z=2025-01-01&g=2025-01-01), bedoelde Voorschriften in de bijlagen worden toegepast, blijven geldig tot aan hun einddatum, onder dezelfde voorwaarden als die gelden tot aan de datum van die toepassing, met inbegrip van hun erkenning door andere staten. Voorts blijven deze certificaten geldig voor een tijdvak van een jaar vanaf de datum van de toepassing van de Voorschriften in de bijlagen ingeval zij gedurende dat tijdvak zouden verstrijken. Het tijdvak van geldigheid bedraagt evenwel in geen geval meer dan vijf jaar na de datum van toepassing van de Voorschriften in de bijlagen.
 
@@ -114,13 +138,13 @@ Van de in dit lid bedoelde speciale bilaterale of multilaterale verdragen wordt 
 
 4. Indien nieuwe voorwaarden worden toegevoegd aan de Voorschriften in de bijlagen, kunnen de Verdragsluitende Partijen nieuwe algemene overgangsbepalingen opnemen. Deze overgangsbepalingen vermelden de desbetreffende schepen en het tijdvak waarin ze van kracht zijn.
 
-#### Artikel 9. Toepasselijkheid van andere voorschriften
+##### Artikel 9. Toepasselijkheid van andere voorschriften
 
 De vervoersactiviteiten waarop dit Verdrag van toepassing is blijven onderworpen aan de plaatselijke, regionale of internationale voorschriften die in het algemeen van toepassing zijn op het vervoer van goederen over binnenwateren.
 
 ### HOOFDSTUK III. SLOTBEPALINGEN
 
-#### Artikel 10. Verdragsluitende Partijen
+##### Artikel 10. Verdragsluitende Partijen
 
 1. Lidstaten van de Economische Commissie voor Europa wier grondgebied waterwegen omvat, anders dan die welke een kustroute vormen, welke deel uitmaken van het netwerk van binnenwateren die van internationaal belang zijn zoals omschreven in de Europese Overeenkomst inzake binnenlandse hoofdwaterwegen van internationaal belang (AGN) kunnen Verdragsluitende Partij worden bij dit Verdrag:
 
@@ -134,7 +158,7 @@ De vervoersactiviteiten waarop dit Verdrag van toepassing is blijven onderworpen
 
 3. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding dienen te worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking een maand na de datum waarop het in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001586&hoofdstuk=III&artikel=10&z=2025-01-01&g=2025-01-01), vermelde aantal staten die het definitief hebben ondertekend of hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd het totaal van zeven heeft bereikt.
 
@@ -144,19 +168,19 @@ Evenwel zijn de Voorschriften in de bijlagen, uitgezonderd bepalingen inzake de 
 
 De Voorschriften in de bijlagen worden op dezelfde datum van toepassing. In het geval dat het in het eerste lid bedoelde tijdvak betreffende de toepasselijkheid van de Voorschriften in de bijlagen niet is verstreken, worden de Voorschriften in de bijlagen van toepassing na het verstrijken van genoemd tijdvak.
 
-#### Artikel 12. Opzegging
+##### Artikel 12. Opzegging
 
 1. Elke Verdragsluitende Partij kan dit Verdrag opzeggen door daarvan schriftelijk kennis te geven aan de Secretaris-Generaal van de Verenigde Naties.
 
 2. De opzegging wordt van kracht twaalf maanden na de datum van ontvangst door de Secretaris-Generaal van de schriftelijke kennisgeving van opzegging.
 
-#### Artikel 13. Beëindiging
+##### Artikel 13. Beëindiging
 
 1. Indien, na de inwerkingtreding van dit Verdrag, het aantal Verdragsluitende Partijen gedurende twaalf opeenvolgende maanden minder dan vijf bedraagt, houdt dit Verdrag op van kracht te zijn aan het einde van genoemd tijdvak van twaalf maanden.
 
 2. In het geval van het sluiten van een mondiaal verdrag voor de regeling van het multimodale vervoer van gevaarlijke goederen houdt elke bepaling van dit Verdrag, uitgezonderd die welke uitsluitend betrekking hebben op binnenwateren, de bouw en uitrusting van schepen, bulk- of tankertransport, die in strijd is met enige bepaling van genoemd mondiaal verdrag vanaf de datum waarop laatstbedoeld verdrag in werking treedt, automatisch op van toepassing te zijn op betrekkingen tussen de Partijen bij dit Verdrag die partij worden bij het mondiale verdrag en wordt zij automatisch vervangen door de desbetreffende bepaling van genoemd mondiaal verdrag.
 
-#### Artikel 14. Verklaringen
+##### Artikel 14. Verklaringen
 
 1. Elke staat kan, op het tijdstip waarop hij dit Verdrag definitief ondertekent of zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nederlegt, of op elk later tijdstip, bij een aan de Secretaris-Generaal van de Verenigde Naties gerichte schriftelijke kennisgeving, verklaren dat dit Verdrag zich uitstrekt tot alle grondgebieden of een deel daarvan, voor de internationale betrekkingen waarvan hij verantwoordelijk is. Het Verdrag strekt zich uit tot het grondgebied of de grondgebieden genoemd in deze kennisgeving vanaf een maand nadat deze is ontvangen door de Secretaris-Generaal.
 
@@ -168,7 +192,7 @@ De Voorschriften in de bijlagen worden op dezelfde datum van toepassing. In het 
 
 4. Elke Staat die een verklaring als bedoeld in het derde lid, onder a of b, van dit artikel heeft afgelegd kan nadien bij een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verklaren dat dit Verdrag van toepassing is op al zijn binnenwateren, of een deel daarvan, die vallen onder de ingevolge het derde lid, onder a of b, afgelegde verklaring. Het Verdrag wordt een maand nadat de kennisgeving is ontvangen door de Secretaris-Generaal van toepassing op de daarin genoemde binnenwateren.
 
-#### Artikel 15. Geschillen
+##### Artikel 15. Geschillen
 
 1. Elk geschil tussen twee of meer Verdragsluitende Staten dat betrekking heeft op de uitlegging of toepassing van dit Verdrag wordt zoveel mogelijk opgelost door onderhandeling tussen de bij het geschil betrokken partijen.
 
@@ -178,7 +202,7 @@ De Voorschriften in de bijlagen worden op dezelfde datum van toepassing. In het 
 
 4. De beslissing van de overeenkomstig het derde lid van dit artikel benoemde scheidsman of scheidsmannen is bindend voor de bij het geschil betrokken Verdragsluitende Partijen.
 
-#### Artikel 16. Voorbehouden
+##### Artikel 16. Voorbehouden
 
 1. Elke staat kan bij de definitieve ondertekening van dit Verdrag of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, verklaren dat hij zich niet gebonden acht door [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001586&hoofdstuk=III&artikel=15&z=2025-01-01&g=2025-01-01). Andere Verdragsluitende Partijen worden niet gebonden door [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001586&hoofdstuk=III&artikel=15&z=2025-01-01&g=2025-01-01) ten aanzien van een Verdragsluitende Partij die een dergelijk voorbehoud heeft gemaakt.
 
@@ -186,7 +210,7 @@ De Voorschriften in de bijlagen worden op dezelfde datum van toepassing. In het 
 
 3. Andere voorbehouden dan die welke waarin dit Verdrag voorziet zijn niet toegestaan.
 
-#### Artikel 17. Administratief Comité
+##### Artikel 17. Administratief Comité
 
 1. Er wordt een Administratief Comité ingesteld dat zich beraadt over de uitvoering van dit Verdrag, de voorgestelde wijzigingen ervan bestudeert en maatregelen bestudeert om de eenvormigheid in de uitlegging en toepassing ervan te waarborgen.
 
@@ -214,11 +238,11 @@ De Voorschriften in de bijlagen worden op dezelfde datum van toepassing. In het 
 
 9. Bij het ontbreken van relevante bepalingen in dit Verdrag is het reglement van orde van de Economische Commissie voor Europa van toepassing, tenzij het Administratief Comité anders besluit.
 
-#### Artikel 18. Veiligheidscomité
+##### Artikel 18. Veiligheidscomité
 
 Er wordt een Veiligheidscomité ingesteld om alle voorstellen tot wijziging van de Voorschriften in de bijlagen bij dit Verdrag te bestuderen, in het bijzonder ten aanzien van de veiligheid van de scheepvaart met betrekking tot de bouw, uitrusting en bemanning van schepen. Het Veiligheidscomité functioneert binnen het kader van de activiteiten van de organen van de Economische Commissie voor Europa, van de Centrale Commissie voor de Rijnvaart en van de Donau-Commissie, die bevoegd zijn inzake het vervoer van gevaarlijke goederen over binnenwateren.
 
-#### Artikel 19. Procedure voor wijziging van het Verdrag, uitgezonderd de Voorschriften in de bijlagen
+##### Artikel 19. Procedure voor wijziging van het Verdrag, uitgezonderd de Voorschriften in de bijlagen
 
 1. Dit Verdrag, uitgezonderd de Voorschriften in de bijlagen, kan worden gewijzigd op voorstel van een Verdragsluitende Partij volgens de in dit artikel beschreven procedure.
 
@@ -226,7 +250,7 @@ Er wordt een Veiligheidscomité ingesteld om alle voorstellen tot wijziging van 
 
 3. Elke voorgestelde, in overeenstemming met het tweede lid voor aanvaarding meegedeelde wijziging wordt ten aanzien van alle Verdragsluitende Partijen zes maanden na het verstrijken van een tijdvak van vierentwintig maanden volgend op de mededeling van de voorgestelde wijziging van kracht indien, gedurende dat tijdvak, geen schriftelijk bezwaar tegen de betrokken wijziging door een Verdragsluitende Partij is meegedeeld aan de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 20. Procedure voor wijziging van de Voorschriften in de bijlagen
+##### Artikel 20. Procedure voor wijziging van de Voorschriften in de bijlagen
 
 1. De Voorschriften in de bijlagen kunnen worden gewijzigd op voorstel van een Verdragsluitende Partij.
 
@@ -244,11 +268,11 @@ De Secretaris-Generaal van de Verenigde Naties kan eveneens wijzigingen voorstel
 
 - b. Het Administratief Comité kan, bij het aannemen van een ontwerp-wijziging, voor het van kracht worden van de wijziging ingeval deze wordt aanvaard, een tijdvak van langer dan drie maanden aangeven.
 
-#### Artikel 21. Verzoeken, mededelingen en bezwaren
+##### Artikel 21. Verzoeken, mededelingen en bezwaren
 
 De Secretaris-Generaal van de Verenigde Naties bericht alle Verdragsluitende Partijen en alle in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001586&hoofdstuk=III&artikel=10&z=2025-01-01&g=2025-01-01), van dit Verdrag bedoelde staten over elk verzoek, elke mededeling of elk bezwaar ingevolge de voorgaande [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001586&hoofdstuk=III&artikel=19&z=2025-01-01&g=2025-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0001586&hoofdstuk=III&artikel=20&z=2025-01-01&g=2025-01-01) en van de datum waarop een wijziging van kracht wordt.
 
-#### Artikel 22. Toetsingsconferentie
+##### Artikel 22. Toetsingsconferentie
 
 1. Niettegenstaande de procedure waarin wordt voorzien in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001586&hoofdstuk=III&artikel=19&z=2025-01-01&g=2025-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0001586&hoofdstuk=III&artikel=20&z=2025-01-01&g=2025-01-01) kan elke Verdragsluitende Partij, bij schriftelijke kennisgeving aan de Secretaris-Generaal van de Verenigde Naties, verzoeken om het bijeenroepen van een conferentie ten behoeve van toetsing van dit Verdrag.
 
@@ -260,7 +284,7 @@ Een toetsingsconferentie waarvoor alle Verdragsluitende Partijen en alle in [art
 
 4. Ten minste zes maanden voorafgaand aan de datum waarop de conferentie bijeen moet komen zendt de Uitvoerend Secretaris van de Economische Commissie voor Europa aan alle Verdragsluitende Partijen en aan alle in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001586&hoofdstuk=III&artikel=10&z=2025-01-01&g=2025-01-01), bedoelde staten de voorlopige agenda voor de conferentie toe, tezamen met de teksten van de voorstellen.
 
-#### Artikel 23. Depositaris
+##### Artikel 23. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties is de Depositaris van dit Verdrag.
 

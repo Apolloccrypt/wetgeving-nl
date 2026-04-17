@@ -1,13 +1,38 @@
 ---
 title: "Besluit tot uitgifte frequenties voor gebruik niet-landelijke commerciële radio-omroep en middengolf"
 identifier: "BWBR0022792"
-categorie: "Overig"
-publicatiedatum: 2008-01-01
-laatste_update: 2008-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022792"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-01-01"
+last_updated: "2008-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022792"
+soort: "ministeriele-regeling"
+stam_id: "9269663"
+version_id: "14872952"
+internal_id: "C20236011"
+label_id: "9248294"
+dtd_version: "2.0"
+original_entry_into_force: "2008-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022792/2008-01-01/0"
+intitule_bron: "Stcrt.2007-216"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-11-01"
+intitule_published: "2007-11-07"
+intitule_in_force: "2007-11-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-216"
+original_signed_date: "2007-11-01"
+original_published_date: "2007-11-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-216-p9-SC82902"
+entry_into_force_date: "2008-01-01"
+jci_1_3: "jci1.3:c:BWBR0022792&z=2008-01-01&g=2008-01-01"
+jci_1_0: "1.0:c:BWBR0022792&g=2008-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2007-11-01"
+entry_into_force: "2008-01-01"
 ---
-
 # Besluit tot uitgifte frequenties voor gebruik niet-landelijke commerciële radio-omroep en middengolf
 
 De Staatssecretaris van Economische Zaken,

@@ -1,13 +1,39 @@
 ---
-title: "Besluit ontheffingverlening exceptioneel vervoer"
+title: "Besluit van 18 augustus 2005, houdende regels met betrekking tot het verlenen van ontheffingen door de Dienst Wegverkeer ten behoeve van een voertuig of een samenstel van voertuigen, met inbegrip van de daarmee vervoerde lading, met een exceptionele afmeting of massa (Besluit ontheffingverlening exceptionele transporten)"
 identifier: "BWBR0018680"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-07-01
-laatste_update: 2019-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018680"
+country: "nl"
+rank: "amvb"
+publication_date: "2019-07-01"
+last_updated: "2019-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018680"
+soort: "AMvB"
+stam_id: "7340553"
+version_id: "25508142"
+internal_id: "C36415311"
+label_id: "7328484"
+dtd_version: "2.0"
+original_entry_into_force: "2018-12-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018680/2019-07-01/0"
+intitule_bron: "Stb.2005-438"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-08-18"
+intitule_published: "2005-09-13"
+intitule_in_force: "2005-12-06"
+intitule_status: "goed"
+original_publication: "Stb.2018-479"
+original_signed_date: "2018-12-06"
+original_published_date: "2018-12-18"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2018-479"
+entry_into_force_date: "2018-12-06"
+jci_1_3: "jci1.3:c:BWBR0018680&z=2019-07-01&g=2019-07-01"
+jci_1_0: "1.0:c:BWBR0018680&g=2019-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit ontheffingverlening exceptioneel vervoer"
+signed_date: "2018-12-06"
+entry_into_force: "2018-12-06"
 ---
-
 # Besluit van 18 augustus 2005, houdende regels met betrekking tot het verlenen van ontheffingen door de Dienst Wegverkeer ten behoeve van een voertuig of een samenstel van voertuigen, met inbegrip van de daarmee vervoerde lading, met een exceptionele afmeting of massa (Besluit ontheffingverlening exceptionele transporten)
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 22 juni 2005, nr. HDJZ/AWW/2005-1392, Hoofddirectie Juridische Zaken;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop artikel I, onderdelen A, B, F tot en me
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Ontheffingverlening door de Dienst Wegverkeer
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Dienst Wegverkeer kan in verband met de uitvoering van een of meer exceptionele transporten, voor zover het betreft personenauto’s, bedrijfsauto’s of aanhangwagens achter personenauto’s of bedrijfsauto’s ontheffing verlenen van [artikel 5.1.1, eerste lid, aanhef en onderdeel c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.2) en [artikel 5.1.3 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.3).
 
@@ -46,7 +72,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=3), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=10), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=14), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=24), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=42), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=43), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62), voor zover het betreft de verkeerstekens C1, C2, C4, C6 tot en met C10 en C12, C17 tot en met 21, D1, D2, D4 tot en met D7, E1, E2, E5 tot en met E9, F7, en de verkeerstekens genoemd in de artikelen [73](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=73), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=76), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=77), [78](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=78) en [81 van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=81).
 
-#### Artikel 3
+##### Artikel 3
 
 De Dienst Wegverkeer kan een ontheffing uitsluitend verlenen op basis van:
 
@@ -56,7 +82,7 @@ De Dienst Wegverkeer kan een ontheffing uitsluitend verlenen op basis van:
 
 - c. voertuigtechnische gegevens in relatie tot het verlenen van een ontheffing.
 
-#### Artikel 4
+##### Artikel 4
 
 De Dienst Wegverkeer vraagt toestemming als bedoeld in [artikel 149b, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149b), aan de wegbeheerder:
 
@@ -66,7 +92,7 @@ De Dienst Wegverkeer vraagt toestemming als bedoeld in [artikel 149b, tweede lid
 
 - c. ingeval de ontheffingverlening zal plaatsvinden op grond van [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=2a&z=2019-07-01&g=2019-07-01).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Dienst Wegverkeer weigert een ontheffing indien:
 
@@ -84,7 +110,7 @@ De Dienst Wegverkeer vraagt toestemming als bedoeld in [artikel 149b, tweede lid
 
 #### § 3. Gegevensverstrekking door de wegbeheerder aan de Dienst Wegverkeer
 
-#### Artikel 6
+##### Artikel 6
 
 1. De wegbeheerder verstrekt ten behoeve van het gegevensbestand, bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&paragraaf=2&artikel=3&z=2019-07-01&g=2019-07-01), over wegen die onder zijn beheer staan, gegevens betreffende de infrastructuur, alsmede overige informatie die van belang is voor de ontheffingverlening. Bij ministeriële regeling kunnen hierover nadere regels worden gesteld.
 
@@ -94,7 +120,7 @@ De Dienst Wegverkeer vraagt toestemming als bedoeld in [artikel 149b, tweede lid
 
 #### § 4. Overleg
 
-#### Artikel 7
+##### Artikel 7
 
 1. Aan het overleg, bedoeld in [artikel 149a, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a), over de uitvoering van de [artikelen 149a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a) en [149b van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149b) nemen deel:
 
@@ -116,23 +142,23 @@ De Dienst Wegverkeer vraagt toestemming als bedoeld in [artikel 149b, tweede lid
 
 #### § 5. Wijziging andere regelgeving
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Voertuigreglement.
 
 #### § 4. Overleg
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking op het tijdstip waarop [artikel I, onderdelen A, B, F tot en met H](https://wetten.overheid.nl/jci1.3:c:BWBR0017665&artikel=I), en [artikel IV van de wet van 9 december 2004 tot wijziging van de Wegenverkeerswet 1994 met betrekking tot het verlenen van ontheffingen in bepaalde gevallen door de Dienst Wegverkeer en enkele technische wijzigingen](https://wetten.overheid.nl/jci1.3:c:BWBR0017665&artikel=IV) (Stb. 687) in werking treden.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit ontheffingverlening exceptioneel vervoer.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. De Dienst Wegverkeer kan voor voertuigen waarvoor op grond van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.5) of [3.8 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.8) goedkeuring is vereist, ontheffing verlenen van overige bepalingen van [hoofdstuk 3 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3) en van [hoofdstuk 5 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5), voor zover en voor zolang dat nuttig is voor het testen van verder geautomatiseerde functies in voertuigen en het daarmee ervaring opdoen in het verkeer.
 
@@ -150,11 +176,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Onze Minister vraagt voor het verlenen van een vergunning op grond van [artikel 149aa van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149aa) toestemming aan de wegbeheerder voor zover het experiment plaatsvindt op wegen die niet vallen onder beheer van het Rijk.
 
-#### Artikel 6b
+##### Artikel 6b
 
 1. De wegbeheerder verstrekt over de wegen die onder zijn beheer staan, gegevens betreffende de infrastructuur, alsmede overige informatie die van belang is voor het verlenen van een vergunning. Bij ministeriële regeling kunnen hierover nadere regels worden gesteld.
 

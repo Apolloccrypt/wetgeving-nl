@@ -1,13 +1,37 @@
 ---
 title: "Instellingsbesluit Nederlandse beheersorganisatie Europol"
 identifier: "BWBR0006949"
-categorie: "Overig"
-publicatiedatum: 1994-01-01
-laatste_update: 1994-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006949"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1994-01-01"
+last_updated: "1994-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006949"
+soort: "ministeriele-regeling"
+stam_id: "3727743"
+version_id: "5510592"
+internal_id: "C5703681"
+label_id: "3707474"
+dtd_version: "2.0"
+original_entry_into_force: "1994-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006949/1994-01-01/0"
+intitule_bron: "Stcrt.1994-203"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-10-05"
+intitule_published: "1994-10-21"
+intitule_in_force: "1994-10-21"
+intitule_status: "goed"
+original_publication: "Stcrt.1994-203"
+original_signed_date: "1994-10-05"
+original_published_date: "1994-10-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-01-01"
+jci_1_3: "jci1.3:c:BWBR0006949&z=1994-01-01&g=1994-01-01"
+jci_1_0: "1.0:c:BWBR0006949&g=1994-01-01"
+citeertitel_status: "officieel"
+signed_date: "1994-10-05"
+entry_into_force: "1994-01-01"
 ---
-
 # Instellingsbesluit Nederlandse beheersorganisatie Europol
 
 Gelet op de Ministeriële Overeenkomst van 2 juni 1993 inzake de oprichting van de Europol Drugs Unit;

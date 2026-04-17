@@ -1,14 +1,40 @@
 ---
-title: "Wijzigingswet enkele socialeverzekeringswetten, enz. (aanbrengen enige vereenvoudigingen)"
+title: "Wet van 23 december 2004 tot wijziging van enkele socialeverzekeringswetten en enige andere wetten in verband met het aanbrengen van enige vereenvoudigingen"
 identifier: "BWBR0017841"
-categorie: "Sociaal recht"
-publicatiedatum: 2005-07-01
-laatste_update: 2005-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017841"
+country: "nl"
+rank: "wet"
+publication_date: "2005-07-01"
+last_updated: "2005-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017841"
+soort: "wet"
+stam_id: "6584233"
+version_id: "11410872"
+internal_id: "C15403311"
+label_id: "6572644"
+original_entry_into_force: "2005-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017841/2005-07-01/0"
+intitule_bron: "Stb.2004-728"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-23"
+intitule_published: "2004-12-30"
+intitule_in_force: "2004-12-30"
+intitule_status: "goed"
+original_publication: "Stb.2004-728"
+original_signed_date: "2004-12-23"
+original_published_date: "2004-12-30"
+original_effect: "nieuwe-regeling"
+original_dossier: "29513"
+original_url_id: "stb-2004-728"
+entry_into_force_date: "2005-01-01"
+jci_1_3: "jci1.3:c:BWBR0017841&z=2005-07-01&g=2005-07-01"
+jci_1_0: "1.0:c:BWBR0017841&g=2005-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet enkele socialeverzekeringswetten, enz. (aanbrengen enige vereenvoudigingen)"
+signed_date: "2004-12-23"
+entry_into_force: "2005-01-01"
 ---
-
-# Wijzigingswet enkele socialeverzekeringswetten, enz. (aanbrengen enige vereenvoudigingen)
+# Wet van 23 december 2004 tot wijziging van enkele socialeverzekeringswetten en enige andere wetten in verband met het aanbrengen van enige vereenvoudigingen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,39 +44,39 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
 
-#### Artikel I. [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
+##### Artikel I. [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
 
 Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.
 
-#### Artikel II. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+##### Artikel II. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
 Wijzigt de Werkloosheidswet.
 
-#### Artikel III. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
+##### Artikel III. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
-#### Artikel IV. Wijziging van de [Algemene kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
+##### Artikel IV. Wijziging van de [Algemene kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
 Wijzigt de Algemene kinderbijslagwet.
 
-#### Artikel V. Wijziging van de [Algemene ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
+##### Artikel V. Wijziging van de [Algemene ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
 Wijzigt de Algemene ouderdomswet.
 
-#### Artikel VI. Wijziging van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+##### Artikel VI. Wijziging van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
-#### Artikel VII. Wijziging van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
+##### Artikel VII. Wijziging van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
 Wijzigt de Algemene nabestaandenwet.
 
-#### Artikel VIII. Wijziging [Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170)
+##### Artikel VIII. Wijziging [Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170)
 
 Wijzigt de Beroepswet.
 
-#### Artikel IX. Overgangsrecht [Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170)
+##### Artikel IX. Overgangsrecht [Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170)
 
 In afwijking van [artikel 28a van de Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&artikel=28a)
 
@@ -58,7 +84,7 @@ In afwijking van [artikel 28a van de Beroepswet](https://wetten.overheid.nl/jci1
 
 - 2. gaan de bij de Centrale Raad van Beroep aanhangige zaken inzake besluiten als bedoeld in [nr. 33a van de bijlage bij de Beroepswet](onbekend) van rechtswege over naar de Afdeling bestuursrechtspraak van de Raad van State, met uitzondering van de zaken waarin de uitnodiging of oproeping voor de zitting heeft plaatsgevonden dan wel partijen toestemming hebben gegeven het onderzoek ter zitting achterwege te laten.
 
-#### Artikel X. Inwerkingtreding
+##### Artikel X. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld. In het koninklijk besluit wordt zo nodig toepassing gegeven aan [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16).
 

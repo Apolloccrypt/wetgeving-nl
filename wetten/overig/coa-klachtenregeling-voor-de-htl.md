@@ -1,26 +1,48 @@
 ---
 title: "COA klachtenregeling voor de htl"
 identifier: "BWBR0050042"
-categorie: "Overig"
-publicatiedatum: 2024-07-19
-laatste_update: 2024-07-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050042"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-07-19"
+last_updated: "2024-07-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050042"
+soort: "zbo"
+stam_id: "17185683"
+version_id: "30253852"
+internal_id: "C43332071"
+label_id: "17093774"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050042/2024-07-19/0"
+intitule_bron: "Stcrt.2024-23575"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-07-19"
+intitule_in_force: "2024-07-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-23575"
+original_published_date: "2024-07-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-23575"
+entry_into_force_date: "2024-07-19"
+jci_1_3: "jci1.3:c:BWBR0050042&z=2024-07-19&g=2024-07-19"
+jci_1_0: "1.0:c:BWBR0050042&g=2024-07-19"
+citeertitel_status: "officieel"
+entry_into_force: "2024-07-19"
 ---
-
 # COA klachtenregeling voor de htl
 
 De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 #### I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze klachtenregeling is van toepassing op de gedragingen van (medewerkers van) het COA binnen de handhavings- en toezichtlocatie, hierna: htl.
 
 2. De geldende ‘COA klachtenregeling voor bewoners en derden’ is daarmee niet van toepassing op de gedragingen van (medewerkers van) het COA binnen de htl.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Iedereen heeft het recht om over de wijze waarop het COA zich in een bepaalde aangelegenheid tegenover de klager of een ander heeft gedragen, een klacht in te dienen bij het COA.
 
@@ -30,17 +52,17 @@ De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 4. De klachtenregeling is niet van toepassing op klachten van personeelsleden van het COA en op klachten van asielzoekers ten aanzien van een handelen of nalaten van de GezondheidsZorg Asielzoekers.
 
-#### Artikel 3
+##### Artikel 3
 
 Het COA draagt zorg voor een behoorlijke behandeling van mondelinge en schriftelijke klachten over zijn gedragingen.
 
-#### Artikel 4
+##### Artikel 4
 
 Tegen een besluit inzake de behandeling van een klacht over een gedraging van het COA kan geen beroep worden ingesteld.
 
 #### II. De behandeling van een schriftelijke klacht
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien een schriftelijke klacht betrekking heeft op een gedraging tegenover de klager en voldoet aan de vereisten van het tweede lid, zijn de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0050042&paragraaf=II&artikel=6&z=2024-07-19&g=2024-07-19) van toepassing.
 
@@ -54,17 +76,17 @@ Tegen een besluit inzake de behandeling van een klacht over een gedraging van he
 
 3. Indien het klaagschrift in een andere taal dan de Nederlandse of de Engelse is gesteld en een vertaling voor een goede behandeling van de klacht noodzakelijk is, dient de klager zorg te dragen voor een vertaling.
 
-#### Artikel 6
+##### Artikel 6
 
 Zodra het COA naar tevredenheid van de klager aan zijn klacht tegemoet is gekomen, vervalt de verplichting de [artikelen 7 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0050042&paragraaf=II&artikel=7&z=2024-07-19&g=2024-07-19) bij de behandeling van de klacht toe te passen.
 
-#### Artikel 7
+##### Artikel 7
 
 Het COA zendt een schriftelijke ontvangstbevestiging van de klacht aan de klager.
 
 Klager wordt hierin geïnformeerd over het feit dat een onafhankelijke klachtadviescommissie over de klacht zal adviseren, tenzij [artikel 8 lid 1 en lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050042&paragraaf=II&artikel=8&z=2024-07-19&g=2024-07-19) van toepassing is.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het COA is niet verplicht de klacht te behandelen indien de klacht betrekking heeft op een gedraging:
 
@@ -82,23 +104,23 @@ Klager wordt hierin geïnformeerd over het feit dat een onafhankelijke klachtadv
 
 3. Van het niet in behandeling nemen van een klacht, of het op andere wijze afdoen van de klacht wordt de klager zo spoedig mogelijk, doch uiterlijk binnen vier weken na ontvangst van het klaagschrift schriftelijk in kennis gesteld.
 
-#### Artikel 9
+##### Artikel 9
 
 Aan degene op wiens gedraging de klacht betrekking heeft, wordt een afschrift van het klaagschrift, alsmede van de daarbij meegezonden stukken toegezonden.
 
 #### III. Onafhankelijke klachtadviescommissie
 
-#### Artikel 10
+##### Artikel 10
 
 Het COA zal zich bij de behandeling van een klacht, waarop [artikel 8 lid 1 en lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050042&paragraaf=II&artikel=8&z=2024-07-19&g=2024-07-19) niet van toepassing is, laten adviseren door een onafhankelijke klachtadviescommissie.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het COA zal binnen 3 werkdagen nadat bepaald is dat sprake is van een verplicht te behandelen klacht waarop [artikel 8 lid 1 en lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050042&paragraaf=II&artikel=8&z=2024-07-19&g=2024-07-19) niet van toepassing is, zorgdragen voor toezending van het klaagschrift, alsmede de daarbij meegezonden stukken, aan de leden van de klachtadviescommissie.
 
 2. Het COA zal zorgdragen voor toezending van de documenten aan de leden van de onafhankelijke klachtadviescommissie die de commissie ten behoeve van de advisering over de klacht nodig acht.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het COA stelt de klager en degene op wiens gedraging de klacht betrekking heeft in de gelegenheid over de klacht te worden gehoord.
 
@@ -106,7 +128,7 @@ Het COA zal zich bij de behandeling van een klacht, waarop [artikel 8 lid 1 en l
 
 3. De onafhankelijke klachtadviescommissie kan van het horen van de in het vorige lid genoemde personen afzien indien de klacht kennelijk ongegrond is, dan wel indien zij hebben verklaard geen gebruik te willen maken van het recht te worden gehoord. De onafhankelijke klachtadviescommissie oordeelt of sprake is van een kennelijke ongegrondheid van de klacht.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De onafhankelijke klachtadviescommissie bepaalt het tijdstip van horen en de ruimte hiervoor.
 
@@ -118,23 +140,23 @@ Het COA zal zich bij de behandeling van een klacht, waarop [artikel 8 lid 1 en l
 
 klachtadviescommissie kan hiertoe op haar verzoek gebruik maken van medewerkers van het COA.
 
-#### Artikel 14
+##### Artikel 14
 
 De onafhankelijke klachtadviescommissie is in de gelegenheid, indien zij dit nodig acht voor een verantwoorde advisering, op ieder gewenst moment de situatie ter plaatse op de htl te bezichtigen of te beoordelen.
 
-#### Artikel 15
+##### Artikel 15
 
 De onafhankelijke klachtadviescommissie zendt een rapport van haar bevindingen, waaronder het verslag van het horen, gelijk met een advies en eventuele aanbevelingen, zo spoedig mogelijk na afloop van haar werkzaamheden inzake de betrokken klacht, aan het COA.
 
 #### IV. Afhandeling en conclusies klacht
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het COA handelt de klacht af binnen zes weken na ontvangst van het klaagschrift.
 
 2. Het COA kan de afhandeling van de klacht met ten hoogste vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan aan de klager en aan degene op wiens gedraging de klacht betrekking heeft.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het COA stelt de klager schriftelijk en gemotiveerd in kennis van de bevindingen van het onderzoek naar de klacht, alsmede van de eventuele conclusies die het COA daaraan verbindt.
 
@@ -142,11 +164,11 @@ De onafhankelijke klachtadviescommissie zendt een rapport van haar bevindingen, 
 
 3. Indien de conclusies van het COA afwijken van het advies van de onafhankelijke klachtadviescommissie dan zal gemotiveerd worden aangegeven waarom het COA van het advies afwijkt. Het advies van de commissie zal steeds gelijktijdig met de schriftelijke conclusies van het COA aan klager worden verstrekt.
 
-#### Artikel 18
+##### Artikel 18
 
 Het COA draagt zorg voor registratie van de bij hem ingediende klachten. De geregistreerde klachten worden jaarlijks gepubliceerd.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze regeling wordt aangehaald als ‘COA klachtenregeling voor de htl’ en wordt in de Staatscourant geplaatst.
 

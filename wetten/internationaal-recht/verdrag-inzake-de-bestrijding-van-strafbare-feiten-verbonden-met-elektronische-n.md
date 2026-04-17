@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake de bestrijding van strafbare feiten verbonden met elektronische netwerken"
 identifier: "BWBV0001839"
-categorie: "Internationaal recht"
-publicatiedatum: 2007-03-01
-laatste_update: 2001-11-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001839"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-03-01"
+last_updated: "2001-11-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001839"
+soort: "verdrag"
+stam_id: "10002545003"
+version_id: "10002534212"
+internal_id: "C10006994111"
+label_id: "10002535074"
+dtd_version: "2.0"
+original_entry_into_force: "2007-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001839/2007-03-01/0"
+intitule_bron: "Trb.2002-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-11-16"
+intitule_published: "2002-01-23"
+intitule_in_force: "2007-01-23"
+intitule_status: "goed"
+original_publication: "Trb.2002-18"
+original_signed_date: "2006-11-16"
+original_published_date: "2002-01-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2002-18"
+entry_into_force_date: "2007-03-01"
+jci_1_3: "jci1.3:c:BWBV0001839&z=2007-03-01&g=2007-03-01"
+jci_1_0: "1.0:c:BWBV0001839&g=2007-03-01"
+citeertitel_status: "redactioneel"
+signed_date: "2006-11-16"
+entry_into_force: "2007-03-01"
 ---
-
 # Verdrag inzake de bestrijding van strafbare feiten verbonden met elektronische netwerken
 
 Preambule
@@ -50,7 +75,7 @@ Zijn als volgt overeengekomen:
 
 ### HOOFDSTUK I. TERMINOLOGIE
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -78,25 +103,25 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 #### TITEL 1. DELICTEN TEGEN DE VERTROUWELIJKHEID, INTEGRITEIT EN BESCHIKBAARHEID VAN COMPUTERGEGEVENS EN -SYSTEMEN
 
-#### Artikel 2. Wederrechtelijke toegang
+##### Artikel 2. Wederrechtelijke toegang
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om in haar nationale wetgeving als strafbaar feit aan te merken het opzettelijk en wederrechtelijk verwerven van toegang tot een computersysteem of een onderdeel daarvan. Een Partij kan als voorwaarde voor strafbaarheid stellen dat het feit wordt begaan door het doorbreken van veiligheidsmaatregelen, of met het oogmerk computergegevens te verkrijgen of met het oogmerk van andere oneerlijke bedoelingen, dan wel met betrekking tot een computersysteem dat met een ander computersysteem is verbonden.
 
-#### Artikel 3. Wederrechtelijke onderschepping
+##### Artikel 3. Wederrechtelijke onderschepping
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om in haar nationale wetgeving als strafbaar feit aan te merken het opzettelijk en wederrechtelijk met behulp van technische middelen onderscheppen, van niet-openbare overdracht van computergegevens naar, vanuit of binnen een computersysteem, met inbegrip van elektromagnetische emissies van een computersysteem dat dergelijke computergegevens transporteert. Een Partij kan als voorwaarde voor strafbaarheid stellen dat het feit wordt begaan met oneerlijke bedoelingen of betrekking heeft op een computersysteem dat met een ander computersysteem is verbonden.
 
-#### Artikel 4. Verstoring van computergegevens
+##### Artikel 4. Verstoring van computergegevens
 
 1. Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om in haar nationale wetgeving als strafbaar feit aan te merken het opzettelijk en wederrechtelijk beschadigen, wissen, aantasten, wijzigen of onderdrukken van computergegevens.
 
 2. Een Partij kan zich het recht voorbehouden als voorwaarde voor strafbaarheid te stellen dat het in het eerste lid bedoelde gedrag ernstige schade veroorzaakt.
 
-#### Artikel 5. Verstoring van een computersysteem
+##### Artikel 5. Verstoring van een computersysteem
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om in haar nationale wetgeving als strafbaar feit aan te merken het opzettelijk en wederrechtelijk ernstig hinderen van de werking van een computersysteem door de invoer, de overdracht, de beschadiging, het wissen, de aantasting, de wijziging of de onderdrukking van computergegevens.
 
-#### Artikel 6. Misbruik van technische hulpmiddelen
+##### Artikel 6. Misbruik van technische hulpmiddelen
 
 1. Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om in haar nationale wetgeving als strafbaar feit aan te merken:
 
@@ -114,11 +139,11 @@ Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om in haa
 
 #### TITEL 2. COMPUTER-GERELATEERDE DELICTEN
 
-#### Artikel 7. Computer-gerelateerde valsheid
+##### Artikel 7. Computer-gerelateerde valsheid
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om in haar nationale wetgeving als strafbaar feit aan te merken het opzettelijk en wederrechtelijk invoeren, wijzigen, wissen of onderdrukken van computergegevens, indien dit leidt tot niet-oorspronkelijke gegevens met het oogmerk dat deze worden aangemerkt als oorspronkelijk of dat daarmee voor juridische doeleinden wordt gehandeld alsof zij oorspronkelijk zijn, ongeacht of de gegevens al dan niet rechtstreeks leesbaar en begrijpelijk zijn. Een Partij kan als voorwaarde voor strafbaarheid stellen dat sprake moet zijn van opzet tot bedrog of soortgelijke oneerlijke bedoeling.
 
-#### Artikel 8. Computer-gerelateerde fraude
+##### Artikel 8. Computer-gerelateerde fraude
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om in haar nationale wetgeving als strafbaar feit aan te merken het opzettelijk en wederrechtelijk bij een ander veroorzaken van een verlies van een vermogensbestanddeel door:
 
@@ -130,7 +155,7 @@ met de bedriegelijke of anderszins oneerlijke bedoeling om voor zichzelf of een 
 
 #### TITEL 3. INHOUDGERELATEERDE DELICTEN
 
-#### Artikel 9. Delicten in verband met kinderpornografie
+##### Artikel 9. Delicten in verband met kinderpornografie
 
 1. Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om de volgende gedragingen, indien opzettelijk en wederrechtelijk begaan, in haar nationale wetgeving als strafbaar feit aan te merken:
 
@@ -158,7 +183,7 @@ met de bedriegelijke of anderszins oneerlijke bedoeling om voor zichzelf of een 
 
 #### TITEL 4. DELICTEN MET BETREKKING TOT INBREUKEN OP AUTEURSRECHT EN NABURIGE RECHTEN
 
-#### Artikel 10. Delicten met betrekking tot inbreuken op auteursrecht en naburige rechten
+##### Artikel 10. Delicten met betrekking tot inbreuken op auteursrecht en naburige rechten
 
 1. Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om in haar nationale wetgeving als strafbaar feit aan te merken het maken van inbreuk op het auteursrecht, zoals vormgegeven in de wetgeving van die Partij ter uitvoering van de verplichtingen die zij is aangegaan ingevolge de [Akte van Parijs van 24 juli 1971 tot herziening van de Berner Conventie voor de bescherming van werken van letterkunde en kunst](https://wetten.overheid.nl/jci1.3:c:BWBV0003977), de [Overeenkomst inzake de handelsaspecten van intellectuele eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=IC) en het [WIPO-Verdrag inzake auteursrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0004073), met uitzondering van de door deze verdragen toegekende morele rechten, wanneer deze inbreuk opzettelijk, op commerciële schaal en met behulp van een computersysteem wordt begaan.
 
@@ -168,7 +193,7 @@ met de bedriegelijke of anderszins oneerlijke bedoeling om voor zichzelf of een 
 
 #### TITEL 5. BIJKOMENDE AANSPRAKELIJKHEID EN SANCTIES
 
-#### Artikel 11. Poging en medeplichtigheid of uitlokking
+##### Artikel 11. Poging en medeplichtigheid of uitlokking
 
 1. Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om in haar nationale wetgeving strafbaar te stellen de opzettelijke medeplichtigheid aan of uitlokking tot het plegen van een van de in overeenstemming met de artikelen 2 tot en met 10 van dit Verdrag strafbaar gestelde feiten, met het oogmerk dat een dergelijk feit wordt begaan.
 
@@ -176,7 +201,7 @@ met de bedriegelijke of anderszins oneerlijke bedoeling om voor zichzelf of een 
 
 3. Iedere Partij kan zich het recht voorbehouden het tweede lid van dit artikel geheel of gedeeltelijk buiten toepassing te laten.
 
-#### Artikel 12. Aansprakelijkheid van rechtspersonen
+##### Artikel 12. Aansprakelijkheid van rechtspersonen
 
 1. Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om ervoor te zorgen dat rechtspersonen aansprakelijk kunnen worden gehouden voor een uit hoofde van dit Verdrag strafbaar gesteld feit, ten gunste van hen begaan door een natuurlijke persoon, die hetzij zelfstandig handelt, hetzij als lid van een orgaan van de rechtspersoon, en die daarin een leidinggevende functie vervult, en wel op basis van:
 
@@ -192,7 +217,7 @@ met de bedriegelijke of anderszins oneerlijke bedoeling om voor zichzelf of een 
 
 4. Deze aansprakelijkheid laat de strafrechtelijke aansprakelijkheid van de natuurlijke personen die het feit hebben begaan, onverlet.
 
-#### Artikel 13. Sancties en maatregelen
+##### Artikel 13. Sancties en maatregelen
 
 1. Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om te verzekeren dat op de in overeenstemming met de artikelen 2 tot en met 11 strafbaar gestelde feiten doeltreffende, proportionele en afschrikkende sancties worden gesteld, waaronder vrijheidsstraffen.
 
@@ -202,7 +227,7 @@ met de bedriegelijke of anderszins oneerlijke bedoeling om voor zichzelf of een 
 
 #### TITEL 1. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 14. Reikwijdte van procesrechtelijke maatregelen
+##### Artikel 14. Reikwijdte van procesrechtelijke maatregelen
 
 1. Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om de in deze Afdeling bedoelde bevoegdheden en procedures in het leven te roepen ten behoeve van specifieke strafrechtelijke onderzoeken of procedures.
 
@@ -222,7 +247,7 @@ met de bedriegelijke of anderszins oneerlijke bedoeling om voor zichzelf of een 
 
 - ii. geen gebruik maakt van openbare communicatienetwerken en niet verbonden is met een ander computersysteem, hetzij publiek of privaat,
 
-#### Artikel 15. Voorwaarden en waarborgen
+##### Artikel 15. Voorwaarden en waarborgen
 
 1. Iedere Partij ziet erop toe dat de invoering, uitwerking en toepassing van de in deze Afdeling bedoelde bevoegdheden en procedures onderworpen zijn aan de voorwaarden en waarborgen vervat in haar nationale recht, dat een passende bescherming moet bieden aan de rechten van de mens en de vrijheden, waaronder rechten uit hoofde van de verplichtingen die zij is aangegaan ingevolge het [Verdrag van de Raad van Europa van 1950 tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000), het [Internationaal Verdrag van de Verenigde Naties van 1966 inzake burgerrechten en politieke rechten](https://wetten.overheid.nl/jci1.3:c:BWBV0001017), en andere toepasselijke internationale mensenrechteninstrumenten, met inachtneming van het proportionaliteitsbeginsel.
 
@@ -232,7 +257,7 @@ met de bedriegelijke of anderszins oneerlijke bedoeling om voor zichzelf of een 
 
 #### TITEL 2. SPOEDBEWARING VAN OPGESLAGEN COMPUTERGEGEVENS
 
-#### Artikel 16. Spoedbewaring van opgeslagen computergegevens
+##### Artikel 16. Spoedbewaring van opgeslagen computergegevens
 
 1. Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om haar bevoegde autoriteiten in staat te stellen de spoedbewaring te bevelen of op soortgelijke wijze de spoedbewaring te bewerkstelligen van gespecificeerde computergegevens, waaronder verkeersgegevens, die zijn opgeslagen door middel van een computersysteem, in het bijzonder wanneer er redenen zijn om te vermoeden dat de computergegevens bijzonder vatbaar zijn voor verlies of wijziging.
 
@@ -242,7 +267,7 @@ met de bedriegelijke of anderszins oneerlijke bedoeling om voor zichzelf of een 
 
 4. Op de in dit artikel bedoelde bevoegdheden en procedures zijn de artikelen 14 en 15 van toepassing.
 
-#### Artikel 17. Spoedbewaring en gedeeltelijke verstrekking van verkeersgegevens
+##### Artikel 17. Spoedbewaring en gedeeltelijke verstrekking van verkeersgegevens
 
 1. Iedere Partij neemt ten aanzien van verkeersgegevens die met toepassing van artikel 16 moeten worden bewaard de wetgevende en andere maatregelen die nodig zijn om:
 
@@ -254,7 +279,7 @@ met de bedriegelijke of anderszins oneerlijke bedoeling om voor zichzelf of een 
 
 #### TITEL 3. VERSTREKKINGSBEVEL
 
-#### Artikel 18. Verstrekkingsbevel
+##### Artikel 18. Verstrekkingsbevel
 
 1. Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om haar bevoegde autoriteiten de bevoegdheid te verlenen om te bevelen:
 
@@ -274,7 +299,7 @@ met de bedriegelijke of anderszins oneerlijke bedoeling om voor zichzelf of een 
 
 #### TITEL 4. DOORZOEKING EN INBESLAGNEMING VAN OPGESLAGEN COMPUTERGEGEVENS
 
-#### Artikel 19. Doorzoeking en inbeslagneming van opgeslagen computergegevens
+##### Artikel 19. Doorzoeking en inbeslagneming van opgeslagen computergegevens
 
 1. Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om aan haar bevoegde autoriteiten de bevoegdheid te verlenen tot het op haar grondgebied doorzoeken van of zich op vergelijkbare wijze toegang verschaffen tot:
 
@@ -300,7 +325,7 @@ met de bedriegelijke of anderszins oneerlijke bedoeling om voor zichzelf of een 
 
 #### TITEL 5. „REAL-TIME" VERGARING VAN COMPUTERGEGEVENS
 
-#### Artikel 20. „real-time" vergaring van verkeersgegevens
+##### Artikel 20. „real-time" vergaring van verkeersgegevens
 
 1. Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om aan haar bevoegde autoriteiten de bevoegdheid te verlenen om;
 
@@ -318,7 +343,7 @@ met de bedriegelijke of anderszins oneerlijke bedoeling om voor zichzelf of een 
 
 4. Op de in dit artikel bedoelde bevoegdheden en procedures zijn de artikelen 14 en 15 van toepassing.
 
-#### Artikel 21. Onderscheppen van inhoudelijke gegevens
+##### Artikel 21. Onderscheppen van inhoudelijke gegevens
 
 1. Iedere Partij neemt, met betrekking tot een reeks van in het nationale recht vast te leggen zware delicten, de wetgevende en andere maatregelen die nodig zijn om aan haar bevoegde autoriteiten de bevoegdheid te verlenen om:
 
@@ -338,7 +363,7 @@ met de bedriegelijke of anderszins oneerlijke bedoeling om voor zichzelf of een 
 
 ### AFDELING 3. RECHTSMACHT
 
-#### Artikel 22. Rechtsmacht
+##### Artikel 22. Rechtsmacht
 
 1. Iedere Partij neemt de wetgevende en andere maatregelen die nodig zijn om rechtsmacht te vestigen met betrekking tot elk van de overeenkomstig de artikelen 2 tot en met 11 van dit Verdrag strafbaar gestelde feiten, wanneer het strafbare feit wordt begaan:
 
@@ -364,13 +389,13 @@ met de bedriegelijke of anderszins oneerlijke bedoeling om voor zichzelf of een 
 
 #### TITEL 1. ALGEMENE BEGINSELEN MET BETREKKING TOT INTERNATIONALE SAMENWERKING
 
-#### Artikel 23. Algemene beginselen met betrekking tot internationale samenwerking
+##### Artikel 23. Algemene beginselen met betrekking tot internationale samenwerking
 
 De Partijen zullen, in overeenstemming met de bepalingen van dit hoofdstuk, door middel van de toepassing van de relevante internationale instrumenten inzake internationale samenwerking in strafzaken, van regelingen op basis van uniforme of wederkerige wetgeving en van hun nationale recht, in de grootst mogelijke mate met elkaar samenwerken ten behoeve van onderzoeken of procedures betreffende met computersystemen en -gegevens verbonden strafbare feiten, of voor de vergaring van bewijs van een strafbaar feit in elektronische vorm.
 
 #### TITEL 2. BEGINSELEN MET BETREKKING TOT UITLEVERING
 
-#### Artikel 24. Uitlevering
+##### Artikel 24. Uitlevering
 
 - a. Dit artikel is van toepassing op uitlevering tussen Partijen voor de overeenkomstig de artikelen 2 tot en met 11 van dit Verdrag strafbaar gestelde feiten, mits deze ingevolge de wetten van beide betrokken Partijen strafbaar zijn gesteld met een vrijheidsstraf met een maximale duur van ten minste een jaar, of met een zwaardere straf.
 
@@ -392,7 +417,7 @@ De Partijen zullen, in overeenstemming met de bepalingen van dit hoofdstuk, door
 
 #### TITEL 3. ALGEMENE BEGINSELEN MET BETREKKING TOT WEDERZIJDSE BIJSTAND
 
-#### Artikel 25. Algemene beginselen met betrekking tot wederzijdse bijstand
+##### Artikel 25. Algemene beginselen met betrekking tot wederzijdse bijstand
 
 1. De Partijen verlenen elkaar een zo ruim mogelijke bijstand ten behoeve van onderzoeken of procedures betreffende strafbare feiten die verband houden met computersystemen en -gegevens, of ten behoeve van de vergaring van bewijs in elektronische vorm van een strafbaar feit.
 
@@ -404,7 +429,7 @@ De Partijen zullen, in overeenstemming met de bepalingen van dit hoofdstuk, door
 
 5. Wanneer het de aangezochte Partij, in overeenstemming met de bepalingen van dit hoofdstuk, is toegestaan wederzijdse bijstand afhankelijk te maken van het bestaan van dubbele strafbaarheid, wordt aan deze voorwaarde geacht te zijn voldaan indien de gedraging die ten grondslag ligt aan het strafbare feit waarvoor om bijstand wordt verzocht, in haar wetgeving wordt aangemerkt als strafbaar feit, ongeacht of het interne recht het strafbare feit al dan niet in dezelfde categorie plaatst of met dezelfde termen aanduidt als het recht van de verzoekende Partij.
 
-#### Artikel 26. Informatieverstrekking op eigen initiatief
+##### Artikel 26. Informatieverstrekking op eigen initiatief
 
 1. Een Partij kan, binnen de grenzen van haar nationale recht en zonder voorafgaand verzoek, in het kader van haar eigen onderzoek verkregen inlichtingen aan een andere Partij verstrekken wanneer zij van oordeel is dat de verstrekking van deze inlichtingen de ontvangende Partij kan helpen bij het instellen of uitvoeren van onderzoeken of strafvervolgingen ter zake van de krachtens dit Verdrag strafbaar gestelde feiten, of kan leiden tot een verzoek om samenwerking van die Partij in de zin van dit hoofdstuk.
 
@@ -412,7 +437,7 @@ De Partijen zullen, in overeenstemming met de bepalingen van dit hoofdstuk, door
 
 #### TITEL 4. PROCEDURES INZAKE VERZOEKEN OM WEDERZIJDSE BIJSTAND BIJ GEBREKE VAN TOEPASSELIJKE INTERNATIONALE OVEREENKOMSTEN
 
-#### Artikel 27. Procedures inzake verzoeken om wederzijdse bijstand bij gebreke van toepasselijke internationale overeenkomsten
+##### Artikel 27. Procedures inzake verzoeken om wederzijdse bijstand bij gebreke van toepasselijke internationale overeenkomsten
 
 1. Wanneer tussen de verzoekende en de aangezochte Partij geen verdrag inzake wederzijdse bijstand noch een regeling op basis van uniforme of wederkerige wetgeving van kracht is, zijn de bepalingen van het tweede tot en met het negende lid van dit artikel van toepassing. Zij zijn niet van toepassing wanneer een dergelijk verdrag, of een dergelijke regeling of wetgeving bestaat, tenzij de betrokken Partijen overeenkomen in plaats daarvan de rest van dit artikel of een gedeelte daarvan toe te passen.
 
@@ -450,7 +475,7 @@ De Partijen zullen, in overeenstemming met de bepalingen van dit hoofdstuk, door
 
 - e. Iedere Partij kan, op het tijdstip van ondertekening of bij de nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, de Secretaris-Generaal van de Raad van Europa mededelen dat, om redenen van doelmatigheid, de ingevolge dit lid gedane verzoeken aan haar centrale autoriteit moeten worden gericht.
 
-#### Artikel 28. Geheimhouding en beperking van gebruik
+##### Artikel 28. Geheimhouding en beperking van gebruik
 
 1. Wanneer tussen de verzoekende en de aangezochte Partij geen verdrag inzake wederzijdse bijstand noch een regeling op basis van uniforme of wederkerige wetgeving van kracht is, zijn de bepalingen van dit artikel van toepassing. Zij zijn niet van toepassing wanneer een dergelijk verdrag of een dergelijke regeling of wetgeving wel bestaat, tenzij de betrokken Partijen overeenkomen in plaats daarvan de rest van dit artikel of een gedeelte daarvan toe te passen.
 
@@ -468,7 +493,7 @@ De Partijen zullen, in overeenstemming met de bepalingen van dit hoofdstuk, door
 
 #### TITEL 1. WEDERZIJDSE BIJSTAND MET BETREKKING TOT VOORLOPIGE MAATREGELEN
 
-#### Artikel 29. Spoedbewaring van opgeslagen computergegevens
+##### Artikel 29. Spoedbewaring van opgeslagen computergegevens
 
 1. Een Partij kan een andere Partij verzoeken de spoedbewaring te bevelen of op soortgelijke wijze de spoedbewaring te bewerkstelligen van gegevens die zijn opgeslagen door middel van een computersysteem dat zich bevindt op het grondgebied van die andere Partij en ten aanzien waarvan de verzoekende Partij voornemens is een verzoek om wederzijdse bijstand in te dienen voor het doorzoeken van, het zich op vergelijkbare wijze toegang verschaffen tot, het in beslag nemen of op vergelijkbare wijze zekerstellen van of het verstrekken van de bedoelde gegevens.
 
@@ -500,7 +525,7 @@ De Partijen zullen, in overeenstemming met de bepalingen van dit hoofdstuk, door
 
 7. Iedere bewaring die wordt gerealiseerd in antwoord op een verzoek als bedoeld in het eerste lid, blijft gehandhaafd gedurende een termijn van ten minste 60 dagen, teneinde de verzoekende Partij in de gelegenheid te stellen een verzoek in te dienen voor het doorzoeken van, het zich op vergelijkbare wijze toegang verschaffen tot, het in beslag nemen of op vergelijkbare wijze zekerstellen van of het verstrekken van de gegevens. Na de ontvangst van een dergelijk verzoek blijft de bewaring van de gegevens gehandhaafd in afwachting van een beslissing op het verzoek.
 
-#### Artikel 30. Spoedverstrekking van vastgelegde verkeersgegevens
+##### Artikel 30. Spoedverstrekking van vastgelegde verkeersgegevens
 
 1. Wanneer, bij de uitvoering van een verzoek ingevolge artikel 29 tot bewaring van verkeersgegevens met betrekking tot een specifiek berichtenverkeer, de aangezochte Partij ontdekt dat een serviceprovider in een andere Staat betrokken was bij de doorgifte van dat bericht, verstrekt de aangezochte Partij aan de verzoekende Partij ten spoedigste een zodanige hoeveelheid verkeersgegevens dat kan worden bepaald welke serviceprovider dat is en langs welke route het berichtenverkeer heeft plaatsgevonden.
 
@@ -512,7 +537,7 @@ De Partijen zullen, in overeenstemming met de bepalingen van dit hoofdstuk, door
 
 #### TITEL 2. WEDERZIJDSE BIJSTAND MET BETREKKING TOT ONDERZOEKSBEVOEGDHEDEN
 
-#### Artikel 31. Wederzijdse bijstand met betrekking tot de toegang tot opgeslagen computergegevens
+##### Artikel 31. Wederzijdse bijstand met betrekking tot de toegang tot opgeslagen computergegevens
 
 1. Een Partij kan een andere Partij verzoeken tot het doorzoeken van, het zich op vergelijkbare wijze verschaffen van toegang tot, het in beslag nemen of op vergelijkbare wijze zekerstellen van of het verstrekken van gegevens die zijn opgeslagen door middel van een computersysteem dat zich bevindt op het grondgebied van de aangezochte Partij, met inbegrip van gegevens die ingevolge artikel 29 zijn bewaard.
 
@@ -524,7 +549,7 @@ De Partijen zullen, in overeenstemming met de bepalingen van dit hoofdstuk, door
 
 - b. indien de in het tweede lid bedoelde instrumenten, regelingen en wetten overigens tot onverwijlde samenwerking nopen.
 
-#### Artikel 32. Grensoverschrijdende toegang tot opgeslagen computergegevens met toestemming of indien publiekelijk toegankelijk
+##### Artikel 32. Grensoverschrijdende toegang tot opgeslagen computergegevens met toestemming of indien publiekelijk toegankelijk
 
 Een Partij kan, zonder de toestemming van een andere Partij:
 
@@ -532,19 +557,19 @@ Een Partij kan, zonder de toestemming van een andere Partij:
 
 - b. via een computersysteem dat zich op haar grondgebied bevindt, zich toegang verschaffen tot of de beschikking krijgen over opgeslagen computergegevens die zich bevinden in een andere Staat, indien de Partij de rechtmatige en vrijwillige instemming verkrijgt van de persoon die gerechtigd is de gegevens via dat computersysteem aan de Partij te verstrekken.
 
-#### Artikel 33. Wederzijdse bijstand bij de real-time vergaring van verkeersgegevens
+##### Artikel 33. Wederzijdse bijstand bij de real-time vergaring van verkeersgegevens
 
 1. De Partijen verlenen elkaar wederzijdse bijstand bij het in „real-time" vergaren van verkeersgegevens met betrekking tot specifiek berichtenverkeer dat op hun grondgebied door middel van een computersysteem plaatsvindt. Behoudens de bepalingen van het tweede lid wordt deze bijstand beheerst door de in het nationale recht vervatte voorwaarden en procedures.
 
 2. Iedere Partij verleent dergelijke bijstand in ieder geval ten aanzien van strafbare feiten waarvoor de bevoegdheid tot het in „real-time" vergaren van verkeersgegevens in een vergelijkbaar geval naar nationaal recht eveneens beschikbaar zou zijn.
 
-#### Artikel 34. Wederzijdse bijstand op het gebied van de onderschepping van inhoudgegevens
+##### Artikel 34. Wederzijdse bijstand op het gebied van de onderschepping van inhoudgegevens
 
 De Partijen verlenen elkaar wederzijdse bijstand bij het in „real-time" vergaren of vastlegging van gegevens inzake de inhoud van specifiek berichtenverkeer dat door middel van een computersysteem wordt overgedragen, voor zover toegestaan overeenkomstig de voor hun toepasselijke verdragen en nationale wetten.
 
 #### TITEL 3. 24/7-NETWERK
 
-#### Artikel 35. 24/7-netwerk
+##### Artikel 35. 24/7-netwerk
 
 1. Iedere Partij wijst een contactpunt aan dat 24 uur per dag, 7 dagen per week beschikbaar is, teneinde de onmiddellijke bijstand te verzekeren ten behoeve van onderzoeken of procedures betreffende strafbare feiten die verband houden met computersystemen en -gegevens, of ten behoeve van de vergaring van bewijs in elektronische vorm van een strafbaar feit. Deze bijstand omvat mede het vergemakkelijken of, indien haar nationale recht en praktijk dit toestaan, het rechtstreeks uitvoeren van de volgende maatregelen:
 
@@ -562,7 +587,7 @@ De Partijen verlenen elkaar wederzijdse bijstand bij het in „real-time" vergar
 
 ### HOOFDSTUK IV. SLOTBEPALINGEN
 
-#### Artikel 36. Ondertekening en inwerkingtreding
+##### Artikel 36. Ondertekening en inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa en door de Staten die geen lid zijn van de Raad en wel aan de opstelling ervan hebben deelgenomen.
 
@@ -572,13 +597,13 @@ De Partijen verlenen elkaar wederzijdse bijstand bij het in „real-time" vergar
 
 4. Ten aanzien van iedere ondertekenende Staat die later zijn instemming door dit Verdrag te worden gebonden tot uitdrukking brengt, treedt het in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop overeenkomstig de bepalingen van het eerste en tweede lid zijn instemming door het Verdrag te worden gebonden tot uitdrukking is gebracht.
 
-#### Artikel 37. Toetreding tot het Verdrag
+##### Artikel 37. Toetreding tot het Verdrag
 
 1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa, na raadpleging en verkrijging van de eenstemmige instemming van de Verdragsluitende Staten bij het Verdrag, iedere Staat die geen lid is van de Raad en niet heeft deelgenomen aan de opstelling ervan uitnodigen tot dit Verdrag toe te treden bij een beslissing die overeenkomstig [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) met meerderheid van stemmen is genomen, en met eenparigheid van stemmen van de vertegenwoordigers van de Verdragsluitende Staten die recht hebben in het Comité van Ministers zitting te nemen.
 
 2. Ten aanzien van iedere ingevolge het eerste lid tot het Verdrag toetredende Staat treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 38. Territoriale toepasselijkheid
+##### Artikel 38. Territoriale toepasselijkheid
 
 1. Iedere Staat kan, op het tijdstip van ondertekening of bij nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het grondgebied of de grondgebieden aangeven waarop dit Verdrag van toepassing is.
 
@@ -586,7 +611,7 @@ De Partijen verlenen elkaar wederzijdse bijstand bij het in „real-time" vergar
 
 3. Iedere krachtens de twee vorige leden gedane verklaring kan met betrekking tot elk in die verklaring aangegeven grondgebied worden ingetrokken door een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van die kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 39. Gevolgen van het Verdrag
+##### Artikel 39. Gevolgen van het Verdrag
 
 1. Dit Verdrag is bedoeld ter aanvulling van de tussen de Partijen toepasselijke multilaterale of bilaterale verdragen of regelingen, waaronder de bepalingen van:
 
@@ -600,11 +625,11 @@ De Partijen verlenen elkaar wederzijdse bijstand bij het in „real-time" vergar
 
 3. Niets in dit Verdrag doet afbreuk aan de overige rechten, beperkingen, verplichtingen of verantwoordelijkheden van een Partij.
 
-#### Artikel 40. Verklaringen
+##### Artikel 40. Verklaringen
 
 Iedere Staat kan door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte schriftelijke kennisgeving, op het tijdstip van ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, verklaren dat hij de mogelijkheid behoudt een of meerdere aanvullende elementen te vereisen zoals bedoeld in de artikelen 2, 3, 6, eerste lid onder onderdeel b, 7, 9, derde lid, en 27, negende lid onder onderdeel e.
 
-#### Artikel 41. Federale clausule
+##### Artikel 41. Federale clausule
 
 1. Een federale Staat kan zich het recht voorbehouden de verplichtingen ingevolge hoofdstuk II van dit Verdrag aan te gaan voor zover deze in overeenstemming zijn met zijn fundamentele beginselen die ten grondslag liggen aan de betrekkingen tussen zijn centrale regering en de constituerende Staten of andere vergelijkbare territoriale entiteiten, mits hij in staat blijft op basis van hoofdstuk III samen te werken.
 
@@ -612,11 +637,11 @@ Iedere Staat kan door middel van een aan de Secretaris-Generaal van de Raad van 
 
 3. Ten aanzien van de bepalingen van dit Verdrag waarvan de toepassing onder de rechtsbevoegdheid valt van elk van de constituerende Staten of andere vergelijkbare territoriale entiteiten die, ingevolge het constitutionele stelsel van de federatie, niet verplicht zijn wetgevende maatregelen te nemen, brengt de federale regering de bevoegde autoriteiten van deze Staten op de hoogte van de genoemde bepalingen, vergezeld van een gunstig advies, hen aanmoedigende om passende maatregelen te nemen ter effectuering hiervan.
 
-#### Artikel 42. Voorbehouden
+##### Artikel 42. Voorbehouden
 
 Iedere Staat kan door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte schriftelijke kennisgeving, op het tijdstip van ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, verklaren dat hij gebruik maakt van een of meer van de voorbehouden bedoeld in artikel 4, tweede lid, artikel 6, derde lid, artikel 9, vierde lid, artikel 10, derde lid, artikel 11, derde lid, artikel 14, derde lid, artikel 22, tweede lid, artikel 29, vierde lid, en artikel 41, eerste lid. Een ander voorbehoud is niet toegestaan.
 
-#### Artikel 43. Status en intrekking van voorbehouden
+##### Artikel 43. Status en intrekking van voorbehouden
 
 1. Een Partij die overeenkomstig artikel 42 een voorbehoud heeft gemaakt, kan dit geheel of ten dele intrekken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. Deze intrekking wordt van kracht op de datum van ontvangst van deze kennisgeving door de Secretaris-Generaal. Indien in de kennisgeving wordt vermeld dat deze van kracht moet worden op een daarin nader aangeduide datum, en deze datum later valt dan de datum waarop de kennisgeving door de Secretaris-Generaal wordt ontvangen, wordt de intrekking op die latere datum van kracht.
 
@@ -624,7 +649,7 @@ Iedere Staat kan door middel van een aan de Secretaris-Generaal van de Raad van 
 
 3. De Secretaris-Generaal van de Raad van Europa kan met regelmatige tussenpozen bij de Partijen die een of meer in artikel 42 bedoelde voorbehouden hebben gemaakt, informeren naar het mogelijke vooruitzicht op intrekking daarvan.
 
-#### Artikel 44. Wijzigingen
+##### Artikel 44. Wijzigingen
 
 1. Wijzigingen van dit Verdrag kunnen worden voorgesteld door iedere Partij en worden door de Secretaris-Generaal van de Raad van Europa medegedeeld aan de lidstaten van de Raad van Europa, aan de niet-lidstaten die hebben deelgenomen aan de opstelling van dit Verdrag, alsmede aan iedere Staat die is toegetreden of uitgenodigd is toe te treden tot dit Verdrag overeenkomstig de bepalingen van artikel 37.
 
@@ -636,13 +661,13 @@ Iedere Staat kan door middel van een aan de Secretaris-Generaal van de Raad van 
 
 5. Iedere overeenkomstig het derde lid van dit artikel aangenomen wijziging treedt in werking op de dertigste dag nadat alle Partijen de Secretaris-Generaal hebben meegedeeld dat zij haar hebben aanvaard.
 
-#### Artikel 45. Beslechting van geschillen
+##### Artikel 45. Beslechting van geschillen
 
 1. Het Europees comité voor strafrechtelijke vraagstukken (CDPC) wordt op de hoogte gehouden van de interpretatie en toepassing van dit Verdrag.
 
 2. In geval van een geschil tussen Partijen over de interpretatie of toepassing van dit Verdrag, trachten zij het geschil op te lossen door middel van onderhandelingen of op iedere andere vreedzame wijze naar hun keuze, met inbegrip van voorlegging van het geschil aan het CDPC, aan een scheidsgerecht dat beslissingen neemt die voor de Partijen bij het geschil bindend zijn, of aan het Internationaal Gerechtshof, zoals tussen de betrokken Partijen overeengekomen.
 
-#### Artikel 46. Beraadslagingen tussen de Partijen
+##### Artikel 46. Beraadslagingen tussen de Partijen
 
 1. De Partijen beraadslagen, indien aangewezen, periodiek met het oog op de facilitering van:
 
@@ -660,13 +685,13 @@ Iedere Staat kan door middel van een aan de Secretaris-Generaal van de Raad van 
 
 5. De Partijen worden door het Secretariaat van de Raad van Europa bijgestaan bij de uitvoering van hun taken ingevolge dit artikel.
 
-#### Artikel 47. Opzegging
+##### Artikel 47. Opzegging
 
 1. Iedere Partij kan dit Verdrag te allen tijde opzeggen door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 48. Kennisgeving
+##### Artikel 48. Kennisgeving
 
 De Secretaris-Generaal van de Raad van Europa stelt de Lidstaten van de Raad van Europa, de Staten, geen Lidstaat zijnde, die hebben deelgenomen aan de opstelling van dit Verdrag alsmede iedere Staat die tot dit Verdrag is toegetreden, in kennis van:
 

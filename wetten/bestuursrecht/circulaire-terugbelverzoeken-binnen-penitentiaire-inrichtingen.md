@@ -1,13 +1,39 @@
 ---
-title: "Circulaire Terugbelverzoeken binnen penitentiaire inrichtingen"
+title: "Circulaire Terugbelverzoeken binnen penitentiaire inrichtingen, Dienst Justitiële Inrichtingen"
 identifier: "BWBR0047216"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-10-01
-laatste_update: 2022-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047216"
+country: "nl"
+rank: "circulaire"
+publication_date: "2022-10-01"
+last_updated: "2022-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047216"
+soort: "circulaire"
+stam_id: "16501563"
+version_id: "28918982"
+internal_id: "C40943521"
+label_id: "16423114"
+dtd_version: "2.0"
+original_entry_into_force: "2022-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047216/2022-10-01/0"
+intitule_bron: "Stcrt.2022-25977"
+intitule_effect: "nieuw"
+intitule_signed: "2022-08-18"
+intitule_published: "2022-09-30"
+intitule_in_force: "2022-09-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-25977"
+original_signed_date: "2022-08-18"
+original_published_date: "2022-09-30"
+original_effect: "nieuw"
+original_url_id: "stcrt-2022-25977"
+entry_into_force_date: "2022-10-01"
+jci_1_3: "jci1.3:c:BWBR0047216&z=2022-10-01&g=2022-10-01"
+jci_1_0: "1.0:c:BWBR0047216&g=2022-10-01"
+citeertitel_status: "redactioneel"
+short_title: "Circulaire Terugbelverzoeken binnen penitentiaire inrichtingen"
+signed_date: "2022-08-18"
+entry_into_force: "2022-10-01"
 ---
-
 # Circulaire Terugbelverzoeken binnen penitentiaire inrichtingen, Dienst Justitiële Inrichtingen
 
 ### Aanleiding

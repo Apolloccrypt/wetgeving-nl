@@ -1,13 +1,37 @@
 ---
 title: "Besluit beëindiging verplichte periode ATF"
 identifier: "BWBR0007817"
-categorie: "Overig"
-publicatiedatum: 1996-01-01
-laatste_update: 1996-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007817"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1996-01-01"
+last_updated: "1996-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007817"
+soort: "ministeriele-regeling"
+stam_id: "3555803"
+version_id: "5338862"
+internal_id: "C5531951"
+label_id: "3535744"
+dtd_version: "2.0"
+original_entry_into_force: "1996-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007817/1996-01-01/0"
+intitule_bron: "Stcrt.1996-4"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-22"
+intitule_published: "1996-01-05"
+intitule_in_force: "1996-01-05"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-4"
+original_signed_date: "1995-12-22"
+original_published_date: "1996-01-05"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-01-01"
+jci_1_3: "jci1.3:c:BWBR0007817&z=1996-01-01&g=1996-01-01"
+jci_1_0: "1.0:c:BWBR0007817&g=1996-01-01"
+citeertitel_status: "officieel"
+signed_date: "1995-12-22"
+entry_into_force: "1996-01-01"
 ---
-
 # Besluit beëindiging verplichte periode ATF
 
 Overwegende,

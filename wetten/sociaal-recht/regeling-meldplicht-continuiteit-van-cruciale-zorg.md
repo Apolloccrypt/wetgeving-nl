@@ -1,13 +1,35 @@
 ---
 title: "Regeling meldplicht continuïteit van cruciale zorg"
 identifier: "BWBR0036070"
-categorie: "Sociaal recht"
-publicatiedatum: 2014-12-31
-laatste_update: 2014-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036070"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-12-31"
+last_updated: "2014-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036070"
+soort: "zbo"
+stam_id: "12924153"
+version_id: "22002992"
+internal_id: "C31555091"
+label_id: "12893364"
+dtd_version: "2.0"
+original_entry_into_force: "2014-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036070/2014-12-31/0"
+intitule_bron: "Stcrt.2014-37712"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2014-12-30"
+intitule_in_force: "2014-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-37712"
+original_published_date: "2014-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-37712"
+entry_into_force_date: "2014-12-31"
+jci_1_3: "jci1.3:c:BWBR0036070&z=2014-12-31&g=2014-12-31"
+jci_1_0: "1.0:c:BWBR0036070&g=2014-12-31"
+citeertitel_status: "officieel"
+entry_into_force: "2014-12-31"
 ---
-
 # Regeling meldplicht continuïteit van cruciale zorg
 
 Ingevolge [artikel 62 van de Wet markordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) (Wmg) kan de Nederlandse Zorgautoriteit (NZa) regels stellen voor het verplicht melden door verzekeraars inzake het niet kunnen voldoen aan de zorgplicht voor cruciale zorg, terwijl de verzekeraar al het mogelijke heeft gedaan om de continuïteit van cruciale zorg te borgen.

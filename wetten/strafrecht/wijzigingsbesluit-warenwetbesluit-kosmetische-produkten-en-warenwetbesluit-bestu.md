@@ -1,13 +1,38 @@
 ---
-title: "Wijzigingsbesluit Warenwetbesluit kosmetische produkten en Warenwetbesluit bestuurlijke boeten, ter implementatie van EU-richtlijnen"
+title: "Besluit van 11 oktober 2004, houdende wijziging van het Warenwetbesluit kosmetische produkten en het Warenwetbesluit bestuurlijke boeten ter implementatie van richtlijn nr. 93/35/EEG van de Raad van 14 juni 1993 tot zesde wijziging van richtlijn 76/768/EEG betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake kosmetische produkten (PbEG L 151), richtlijn nr. 2003/15/EG van het Europees Parlement en de Raad van 27 februari 2003 tot wijziging van richtlijn 76/768/EEG betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake cosmetische producten (PbEU L 66) en richtlijn nr. 2003/80/EG van de Commissie van 5 september 2003 tot vaststelling van het symbool dat de houdbaarheid van cosmetische producten aangeeft, in bijlage VIII bis bij richtlijn 76/768/EEG van de Raad (PbEU L 224)"
 identifier: "BWBR0017304"
-categorie: "Strafrecht"
-publicatiedatum: 2004-12-24
-laatste_update: 2004-12-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017304"
+country: "nl"
+rank: "amvb"
+publication_date: "2004-12-24"
+last_updated: "2004-12-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017304"
+soort: "AMvB"
+stam_id: "6244653"
+version_id: "10924622"
+internal_id: "C14939981"
+label_id: "6233564"
+original_entry_into_force: "2004-11-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017304/2004-12-24/0"
+intitule_bron: "Stb.2004-549"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-10-11"
+intitule_published: "2004-10-29"
+intitule_in_force: "2004-10-29"
+intitule_status: "goed"
+original_publication: "Stb.2004-549"
+original_signed_date: "2004-10-11"
+original_published_date: "2004-10-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2004-549"
+entry_into_force_date: "2004-11-26"
+jci_1_3: "jci1.3:c:BWBR0017304&z=2004-12-24&g=2004-12-24"
+jci_1_0: "1.0:c:BWBR0017304&g=2004-12-24"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Warenwetbesluit kosmetische produkten en Warenwetbesluit bestuurlijke boeten, ter implementatie van EU-richtlijnen"
+signed_date: "2004-10-11"
+entry_into_force: "2004-11-26"
 ---
-
 # Besluit van 11 oktober 2004, houdende wijziging van het Warenwetbesluit kosmetische produkten en het Warenwetbesluit bestuurlijke boeten ter implementatie van richtlijn nr. 93/35/EEG van de Raad van 14 juni 1993 tot zesde wijziging van richtlijn 76/768/EEG betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake kosmetische produkten (PbEG L 151), richtlijn nr. 2003/15/EG van het Europees Parlement en de Raad van 27 februari 2003 tot wijziging van richtlijn 76/768/EEG betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake cosmetische producten (PbEU L 66) en richtlijn nr. 2003/80/EG van de Commissie van 5 september 2003 tot vaststelling van het symbool dat de houdbaarheid van cosmetische producten aangeeft, in bijlage VIII bis bij richtlijn 76/768/EEG van de Raad (PbEU L 224)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 12 juli 2004, VGB/P&L 2497622, gedaan in overeenstemming met Onze Minister van Economische Zaken en Onze Minister van Justitie;
@@ -20,15 +45,15 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Warenwetbesluit kosmetische produkten.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
-#### Artikel III
+##### Artikel III
 
 De cosmetische producten die:
 
@@ -38,7 +63,7 @@ De cosmetische producten die:
 
 mogen ook na de inwerkingtreding van dit besluit nog worden verhandeld.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0017304&artikel=I&z=2004-12-24&g=2004-12-24) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0017304&artikel=III&z=2004-12-24&g=2004-12-24) treden in werking met ingang van 26 november 2004.
 

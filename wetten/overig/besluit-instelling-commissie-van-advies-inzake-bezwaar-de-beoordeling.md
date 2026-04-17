@@ -1,13 +1,37 @@
 ---
 title: "Besluit instelling Commissie van Advies inzake bezwaar de beoordeling"
 identifier: "BWBR0005144"
-categorie: "Overig"
-publicatiedatum: 1991-09-01
-laatste_update: 1991-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005144"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1991-09-01"
+last_updated: "1991-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005144"
+soort: "ministeriele-regeling"
+stam_id: "4229933"
+version_id: "5993552"
+internal_id: "C6196941"
+label_id: "4208704"
+dtd_version: "2.0"
+original_entry_into_force: "1991-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005144/1991-09-01/0"
+intitule_bron: "Stcrt.1991-176"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-07-15"
+intitule_published: "1991-09-11"
+intitule_in_force: "1991-09-11"
+intitule_status: "goed"
+original_publication: "Stcrt.1991-176"
+original_signed_date: "1991-07-15"
+original_published_date: "1991-09-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1991-09-01"
+jci_1_3: "jci1.3:c:BWBR0005144&z=1991-09-01&g=1991-09-01"
+jci_1_0: "1.0:c:BWBR0005144&g=1991-09-01"
+citeertitel_status: "officieel"
+signed_date: "1991-07-15"
+entry_into_force: "1991-09-01"
 ---
-
 # Besluit instelling Commissie van Advies inzake bezwaar de beoordeling
 
 Overwegende, dat in de praktijk is gebleken dat het voor een optimaal functioneren van de Commissie van Advies inzake bezwaar tegen de beoordeling gewenst is, dat deze een permanent karakter draagt;
@@ -20,15 +44,15 @@ Gelet op de artikelen 8 en 9 van het Beoordelingsvoorschrift Ministerie van Just
 
 Besluit:
 
-#### Artikel I. Instelling
+##### Artikel I. Instelling
 
 Er is een Commissie van Advies inzake bezwaar tegen de beoordeling ten behoeve van de behandeling in tweede aanleg van bezwaren van ambtenaren, werkzaam bij het Ministerie van Justitie en de Algemene Inspectie van het Korps Rijkspolitie, tegen de over hen uitgebrachte beoordeling.
 
-#### Artikel II. Taakstelling
+##### Artikel II. Taakstelling
 
 De Commissie van Advies gaat na of er, bij het opmaken van de beoordeling alsmede bij de behandeling van de daartegen ingebrachte bezwaren door de ambtenaren, een juiste interpretatie en hantering van de geldende beoordelingsvoorschriften heeft plaatsgevonden. Voorts of de beoordeling op voldoende feitelijke grondslag berust en of de beoordelaars en de beoordelingsautoriteit, alle overigens relevant te achten omstandigheden in aanmerking hebben genomen.
 
-#### Artikel III. Samenstelling
+##### Artikel III. Samenstelling
 
 **Voorzitter:**
 
@@ -104,7 +128,7 @@ mw. mr. A. L. Valk namens de Nederlandse Politie Bond;
 
 B. J. C. Schot namens de Nederlandse Politie Bond.
 
-#### Artikel IV. Personele ondersteuning
+##### Artikel IV. Personele ondersteuning
 
 **A. De commissie wordt bijgestaan door één van de navolgende personeelsfunctionarissen, deskundig op het gebied van personeelsbeoordeling:**
 
@@ -146,6 +170,6 @@ mr. A. A. in 't Veen, Centrale Directie Personeelszaken van het Ministerie van J
 
 A. F. Belling, Centrale Directie Personeelszaken van het Ministerie van Justitie.
 
-#### Artikel V. Slotbepaling
+##### Artikel V. Slotbepaling
 
 Dit besluit kan worden aangehaald als ‘Besluit instelling Commissie van Advies inzake bezwaar de beoordeling’ en treedt in werking met ingang van 1 september 1991.

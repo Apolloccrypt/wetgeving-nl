@@ -1,13 +1,39 @@
 ---
-title: "Nationaal Frequentieplan 2014"
+title: "Besluit van de Minister van Economische Zaken van 3 november 2014, DGETM-TM / 14179469, houdende vaststelling van het Nationaal Frequentieplan 2014 (Nationaal Frequentieplan 2014)"
 identifier: "BWBR0035791"
-categorie: "Overig"
-publicatiedatum: 2025-12-24
-laatste_update: 2025-12-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035791"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-24"
+last_updated: "2025-12-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035791"
+soort: "ministeriele-regeling"
+stam_id: "12851503"
+version_id: "21833072"
+internal_id: "C31331401"
+label_id: "12821034"
+dtd_version: "2.0"
+original_entry_into_force: "2014-11-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035791/2025-12-24/0"
+intitule_bron: "Stcrt.2014-33116"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-11-03"
+intitule_published: "2014-11-25"
+intitule_in_force: "2014-11-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-33116"
+original_signed_date: "2014-11-03"
+original_published_date: "2014-11-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-33116"
+entry_into_force_date: "2014-11-26"
+jci_1_3: "jci1.3:c:BWBR0035791&z=2025-12-24&g=2025-12-24"
+jci_1_0: "1.0:c:BWBR0035791&g=2025-12-24"
+citeertitel_status: "redactioneel"
+short_title: "Nationaal Frequentieplan 2014"
+signed_date: "2014-11-03"
+entry_into_force: "2014-11-26"
 ---
-
 # Besluit van de Minister van Economische Zaken van 3 november 2014, DGETM-TM / 14179469, houdende vaststelling van het Nationaal Frequentieplan 2014 (Nationaal Frequentieplan 2014)
 
 Gelet op [artikel 3.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.1);
@@ -16,19 +42,19 @@ Handelend na overleg met de minister van Defensie, de minister van Infrastructuu
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Nationaal Frequentieplan 2014 wordt vastgesteld overeenkomstig de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Het [Nationaal Frequentieplan 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017991)1kst-24095-178-b1 wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

@@ -1,13 +1,37 @@
 ---
 title: "Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en het Hasjemitisch Koninkrijk Jordanië, anderzijds"
 identifier: "BWBV0001417"
-categorie: "Internationaal recht"
-publicatiedatum: 2019-04-01
-laatste_update: 2010-09-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001417"
+country: "nl"
+rank: "verdrag"
+publication_date: "2019-04-01"
+last_updated: "2010-09-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001417"
+soort: "verdrag"
+stam_id: "10001048543"
+version_id: "10001078942"
+internal_id: "C10006990281"
+label_id: "10001051004"
+original_entry_into_force: "2002-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001417/2019-04-01/0"
+intitule_bron: "Trb.1998-136"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-11-08"
+intitule_published: "1998-06-08"
+intitule_in_force: "2002-07-01"
+intitule_status: "goed"
+original_publication: "Trb.1998-136"
+original_signed_date: "1999-11-08"
+original_published_date: "1998-06-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-136"
+entry_into_force_date: "2002-05-01"
+jci_1_3: "jci1.3:c:BWBV0001417&z=2019-04-01&g=2019-04-01"
+jci_1_0: "1.0:c:BWBV0001417&g=2019-04-01"
+citeertitel_status: "officieel"
+signed_date: "1999-11-08"
+entry_into_force: "2002-05-01"
 ---
-
 # Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en het Hasjemitisch Koninkrijk Jordanië, anderzijds
 
 Het Koninkrijk België,
@@ -82,7 +106,7 @@ Ervan overtuigd dat de Associatieovereenkomst een nieuw klimaat zal scheppen voo
 
 Zijn als volgt overeengekomen[Red: De oorspronkelijke Bijlagen bij de Overeenkomst en de Protocollen liggen ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en zijn gepubliceerd in PbEG 2002, L 129 en PbEU 2005, L 283.]:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er wordt een associatie tot stand gebracht tussen de Gemeenschap en haar lidstaten, enerzijds, en Jordanië anderzijds.
 
@@ -100,13 +124,13 @@ Zijn als volgt overeengekomen[Red: De oorspronkelijke Bijlagen bij de Overeenkom
 
 - –. het bevorderen van de samenwerking op andere gebieden van wederzijds belang.
 
-#### Artikel 2
+##### Artikel 2
 
 De betrekkingen tussen de partijen en alle bepalingen van deze Overeenkomst zijn gegrondvest op eerbiediging van de democratische beginselen en de fundamentele rechten van de mens, zoals deze zijn opgenomen in de [Universele Verklaring van de Rechten van de Mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008), die ten grondslag ligt aan het binnen- en buitenlandse beleid van de Partijen en die een essentieel onderdeel van deze Overeenkomst vormt.
 
 ## TITEL I. POLITIEKE DIALOOG
 
-#### Artikel 3
+##### Artikel 3
 
 1. Er wordt een regelmatige politieke dialoog tussen de Partijen tot stand gebracht. Deze dialoog versterkt de betrekkingen tussen de Partijen en vormt een bijdrage tot de verdere ontwikkeling van duurzaam partnerschap en de verbetering van het wederzijds begrip en de solidariteit.
 
@@ -120,11 +144,11 @@ De betrekkingen tussen de partijen en alle bepalingen van deze Overeenkomst zijn
 
 - –. bevordering van gezamenlijke initiatieven.
 
-#### Artikel 4
+##### Artikel 4
 
 De politieke dialoog heeft betrekking op alle onderwerpen van wederzijds belang en beoogt de weg te openen voor nieuwe samenwerkingsvormen, gericht op gemeenschappelijke doelstellingen, met name vrede, veiligheid, mensenrechten, democratie en regionale ontwikkeling.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De politieke dialoog is gericht op vereenvoudiging van de uitvoering van gezamenlijke initiatieven en vindt met regelmatige tussenpozen plaats, alsmede telkens wanneer de omstandigheden zulks vereisen, met name:
 
@@ -140,25 +164,25 @@ De politieke dialoog heeft betrekking op alle onderwerpen van wederzijds belang 
 
 ## TITEL II. VRIJ VERKEER VAN GOEDEREN
 
-#### Artikel 6
+##### Artikel 6
 
 De Gemeenschap en Jordanië brengen in de loop van een overgangsperiode van ten hoogste 12 jaar, te beginnen bij de inwerkingtreding van deze Overeenkomst, geleidelijk een vrijhandelszone tot stand, overeenkomstig het bepaalde in deze Overeenkomst en in overeenstemming met de bepalingen van de [Algemene Overeenkomst inzake Tarieven en Handel](onbekend) van 1994, hierna „GATT” te noemen.
 
 ### HOOFDSTUK 1. INDUSTRIEPRODUCTEN
 
-#### Artikel 7
+##### Artikel 7
 
 De bepalingen van dit hoofdstuk zijn van toepassing op producten van oorsprong uit de Gemeenschap en Jordanië, met uitzondering van de in [bijlage II van het Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&bijlage=I) genoemde producten.
 
-#### Artikel 8
+##### Artikel 8
 
 Er worden geen nieuwe invoerrechten of heffingen van gelijke werking ingesteld in het handelsverkeer tussen de Gemeenschap en Jordanië.
 
-#### Artikel 9
+##### Artikel 9
 
 Producten van oorsprong uit Jordanië worden bij invoer in de Gemeenschap toegelaten met vrijstelling van douanerechten of heffingen van gelijke werking en zonder kwantitatieve beperkingen of andere maatregelen van gelijke werking.
 
-#### Artikel 10
+##### Artikel 10
 
 - a. De bepalingen van dit hoofdstuk vormen geen beletsel voor het door de Gemeenschap handhaven van een landbouwelement bij invoer van de in bijlage I genoemde producten van oorsprong uit Jordanië.
 
@@ -182,7 +206,7 @@ Producten van oorsprong uit Jordanië worden bij invoer in de Gemeenschap toegel
 
 5. De in lid 4 bedoelde vermindering, de lijst van betrokken producten en, in voorkomend geval, de tariefcontingenten waarvoor de verlagingen gelden, worden door de Associatieraad vastgesteld.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De douanerechten en heffingen van gelijke werking die bij invoer in Jordanië van toepassing zijn op producten van oorsprong uit de Gemeenschap, met uitzondering van de in bijlagen II, III en IV vermelde producten, worden afgeschaft bij de inwerkingtreding van de Overeenkomst.
 
@@ -240,11 +264,11 @@ Producten van oorsprong uit Jordanië worden bij invoer in de Gemeenschap toegel
 
 9. Jordanië deelt de Gemeenschap zijn basisrechten mede.
 
-#### Artikel 12
+##### Artikel 12
 
 De bepalingen betreffende de afschaffing van invoerrechten zijn eveneens van toepassing op douanerechten van fiscale aard.
 
-#### Artikel 13
+##### Artikel 13
 
 1. In afwijking van het bepaalde in artikel 11 mag Jordanië buitengewone maatregelen van beperkte duur nemen in de vorm van verhoging of wederinstelling van douanerechten.
 
@@ -262,21 +286,21 @@ Jordanië stelt de Associatieraad in kennis van alle buitengewone maatregelen di
 
 ### HOOFDSTUK 2. LANDBOUWPRODUCTEN
 
-#### Artikel 14
+##### Artikel 14
 
 De bepalingen van dit hoofdstuk zijn van toepassing op de in [bijlage II bij het Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&bijlage=I) bedoelde producten van oorsprong uit de Gemeenschap en Jordanië.
 
-#### Artikel 15
+##### Artikel 15
 
 De Gemeenschap en Jordanië stellen geleidelijk een grotere liberalisering in van het onderlinge handelsverkeer in landbouwproducten.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Op landbouwproducten van oorsprong uit Jordanië zijn bij invoer in de Gemeenschap de bepalingen van Protocol 1 van toepassing.
 
 2. Op landbouwproducten van oorsprong uit de Gemeenschap zijn bij invoer in Jordanië de bepalingen van Protocol 2 van toepassing.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Met ingang van 1 januari 2009 onderzoeken de Gemeenschap en het Hasjemitisch Koninkrijk Jordanië de situatie met het oog op de vaststelling van de door de Gemeenschap en Jordanië met ingang van 1 januari 2010 toe te passen liberaliseringsmaatregelen, in overeenstemming met de in artikel 15 opgenomen doelstelling.
 
@@ -284,7 +308,7 @@ De Gemeenschap en Jordanië stellen geleidelijk een grotere liberalisering in va
 
 ### HOOFDSTUK 3. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 18
+##### Artikel 18
 
 1. In het handelsverkeer tussen de Gemeenschap en Jordanië worden geen nieuwe kwantitatieve invoerbeperkingen of maatregelen van gelijke werking ingesteld.
 
@@ -292,7 +316,7 @@ De Gemeenschap en Jordanië stellen geleidelijk een grotere liberalisering in va
 
 3. De Gemeenschap en Jordanië stellen onderling geen douanerechten bij uitvoer of heffingen van gelijke werking, noch kwantitatieve beperkingen of maatregelen van gelijke werking in.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Indien ten gevolge van de tenuitvoerlegging van het landbouwbeleid van een partij een specifieke regeling wordt ingesteld of indien de bestaande regelingen worden gewijzigd, of in geval van wijziging of uitbreiding van de bepalingen betreffende de tenuitvoerlegging van dit landbouwbeleid, kan de betrokken partij voor de betrokken producten de in deze Overeenkomst vervatte regeling wijzigen.
 
@@ -302,29 +326,29 @@ De Gemeenschap en Jordanië stellen geleidelijk een grotere liberalisering in va
 
 4. Over de toepassing van dit artikel kan in de Associatieraad overleg worden gepleegd.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Voor producten van oorsprong uit Jordanië geldt bij invoer in de Gemeenschap geen gunstiger regeling dan die welke tussen de lidstaten onderling geldt.
 
 2. De bepalingen van deze Overeenkomst zijn van toepassing onverminderd het bepaalde in [Verordening (EEG) nr. 1911/91](31991R1911) van de Raad van 26 juni 1991 betreffende de toepassing van de bepalingen van het Gemeenschapsrecht op de Canarische eilanden.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De partijen onthouden zich van alle binnenlandse maatregelen of praktijken van fiscale aard die, rechtstreeks of onrechtstreeks, discrimineren tussen de producten van de ene partij en soortgelijke producten van oorsprong uit de andere partij.
 
 2. Voor producten die naar het grondgebied van een der partijen worden uitgevoerd mag geen terugbetaling van binnenlandse belastingen plaatsvinden die hoger is dan de indirecte belastingen die rechtstreeks of onrechtstreeks op deze producten worden geheven.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Deze Overeenkomst vormt geen beletsel voor de handhaving of de oprichting van douane-unies, vrijhandelszones of regelingen voor grensverkeer, mits de in deze Overeenkomst neergelegde handelsregelingen daardoor niet worden gewijzigd.
 
 2. De Gemeenschap en Jordanië plegen in het Associatiecomité overleg over overeenkomsten tot oprichting van douane-unies of vrijhandelszones en desgewenst over andere belangrijke onderwerpen in verband met hun handelspolitiek ten aanzien van derde landen. Dergelijk overleg vindt met name plaats bij de toetreding van een derde land tot de Gemeenschap, teneinde rekening te kunnen houden met de wederzijdse belangen van de Gemeenschap en Jordanië.
 
-#### Artikel 23
+##### Artikel 23
 
 Indien een der partijen constateert dat in het handelsverkeer met de andere partij dumping in de zin van artikel VI van de GATT plaatsvindt, kan zij tegen deze praktijk passende maatregelen nemen overeenkomstig de Overeenkomst inzake de toepassing van artikel VI van de Algemene Overeenkomst inzake Tarieven en Handel en haar nationale wetgeving ter zake, en volgens de voorwaarden en procedures van artikel 26 van deze Overeenkomst.
 
-#### Artikel 24
+##### Artikel 24
 
 Indien een product wordt ingevoerd in hoeveelheden en onder omstandigheden die:
 
@@ -334,7 +358,7 @@ Indien een product wordt ingevoerd in hoeveelheden en onder omstandigheden die:
 
 kan de betrokken partij passende maatregelen nemen overeenkomstig de bepalingen en procedures van artikel 26.
 
-#### Artikel 25
+##### Artikel 25
 
 Wanneer de naleving van artikel 18, lid 3:
 
@@ -344,7 +368,7 @@ Wanneer de naleving van artikel 18, lid 3:
 
 en de bovenbedoelde situaties aanleiding geven of vermoedelijk zullen geven tot ernstige moeilijkheden voor de exporterende partij, kan deze partij passende maatregelen nemen volgens de voorwaarden en procedures van artikel 26. Deze maatregelen mogen geen discriminerend karakter hebben en dienen te worden ingetrokken zodra zij niet langer gerechtvaardigd zijn.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Indien de Gemeenschap of Jordanië de invoer van producten die de in artikel 24 bedoelde moeilijkheden zouden kunnen geven, aan een administratieve procedure onderwerpen die ten doel heeft snel informatie te verschaffen over de ontwikkeling van de handelsstromen, stelt de betrokken partij de andere partij hiervan in kennis.
 
@@ -364,15 +388,15 @@ De vrijwaringsmaatregelen worden onmiddellijk ter kennis gebracht van het Associ
 
 - d. wanneer uitzonderlijke omstandigheden die tot onmiddellijk optreden nopen kennisgeving of onderzoek vooraf, al naar gelang van het geval, onmogelijk maken, kan de betrokken partij in de in de artikelen 23, 24 en 25 bedoelde omstandigheden onverwijld de vrijwaringsmaatregelen toepassen die strikt noodzakelijk zijn om het probleem op te lossen. De andere partij wordt hiervan onmiddellijk in kennis gesteld.
 
-#### Artikel 27
+##### Artikel 27
 
 Deze Overeenkomst vormt geen beletsel voor verboden of beperkingen op de invoer, uitvoer of doorvoer die gerechtvaardigd zijn uit hoofde van de bescherming van de openbare zedelijkheid, de openbare orde, de openbare veiligheid, de gezondheid en het leven van personen, dieren of planten, de bescherming van het nationaal artistiek, historisch en archeologisch erfgoed, de bescherming van de intellectuele, industriële en commerciële eigendom, noch voor voorschriften betreffende goud en zilver. Deze verboden of beperkingen mogen echter geen middel tot willekeurige discriminatie of een verkapte beperking van de handel tussen de partijen vormen.
 
-#### Artikel 28
+##### Artikel 28
 
 Het begrip „producten van oorsprong" voor de toepassing van deze titel en de desbetreffende methoden van administratieve samenwerking zijn gedefinieerd in Protocol 3.
 
-#### Artikel 29
+##### Artikel 29
 
 In het handelsverkeer tussen de twee partijen worden de goederen ingedeeld overeenkomstig de gecombineerde nomenclatuur.
 
@@ -380,7 +404,7 @@ In het handelsverkeer tussen de twee partijen worden de goederen ingedeeld overe
 
 ### HOOFDSTUK 1
 
-#### Artikel 30
+##### Artikel 30
 
 - a. De Gemeenschap en haar lidstaten kennen voor de vestiging van Jordaanse ondernemingen geen minder gunstige behandeling toe dan die welke zij aan soortgelijke ondernemingen uit enig derde land toekennen.
 
@@ -396,7 +420,7 @@ In het handelsverkeer tussen de twee partijen worden de goederen ingedeeld overe
 
 Aan ondernemingen die op de datum van inwerkingtreding van deze Overeenkomst in de Gemeenschap of Jordanië gevestigd zijn, wordt de in lid 1, onder b. en c., en lid 2, onder b., bedoelde behandeling toegekend met ingang van de datum van inwerkingtreding van deze Overeenkomst en aan ondernemingen die zich na deze datum in de Gemeenschap of Jordanië vestigen, met ingang van de datum van vestiging.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Het bepaalde in artikel 30 is niet van toepassing op het vervoer door de lucht, over de binnenwateren en over zee.
 
@@ -414,7 +438,7 @@ Aan ondernemingen die op de datum van inwerkingtreding van deze Overeenkomst in 
 
 - f. het optreden namens ondernemingen, het organiseren van de afroep van aanvragen om scheepsruimte of, indien nodig, het overnemen van vracht.
 
-#### Artikel 32
+##### Artikel 32
 
 Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
@@ -434,13 +458,13 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 - h. wat het internationale vervoer over zee betreft, met inbegrip van het intermodale vervoer dat ten dele over zee plaatsvindt, zijn de bepalingen van dit hoofdstuk en van hoofdstuk 2 eveneens van toepassing op onderdanen van de lidstaten of van Jordanië die buiten het grondgebied van respectievelijk de Gemeenschap of Jordanië gevestigd zijn en op buiten de Gemeenschap of Jordanië gevestigde scheepvaartmaatschappijen waarin onderdanen van respectievelijk de Gemeenschap of Jordanië een meerderheidsbelang hebben, indien de vaartuigen van deze scheepvaartmaatschappijen respectievelijk in die lidstaat of in Jordanië geregistreerd zijn overeenkomstig de respectieve wettelijke voorschriften van de Gemeenschap en Jordanië.
 
-#### Artikel 33
+##### Artikel 33
 
 1. De partijen vermijden, voor zover het in hun vermogen ligt, het nemen van maatregelen of het ontplooien van activiteiten die de voorwaarden voor de vestiging en de activiteiten van ondernemingen uit de andere partij restrictiever maken dan op de dag voorafgaande aan de datum van ondertekening van de Overeenkomst het geval was.
 
 2. De bepalingen van dit artikel doen geen afbreuk aan die van artikel 44. De omstandigheden waarop artikel 44 van toepassing is, worden uitsluitend geregeld door de bepalingen van dat artikel, met uitsluiting van elk ander artikel.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Een op het grondgebied van Jordanië of de Gemeenschap gevestigde onderneming uit respectievelijk de Gemeenschap of Jordanië heeft het recht, met inachtneming van de wetgeving van het gastland van vestiging, op het grondgebied van respectievelijk de Gemeenschap of Jordanië werknemers die onderdanen zijn van de lidstaten van de Gemeenschap of van Jordanië in dienst te nemen of deze door een van haar dochterondernemingen of filialen in dienst te laten nemen, mits dergelijke werknemers een sleutelpositie in de zin van lid 2 bekleden en zij uitsluitend door deze ondernemingen, dochterondernemingen of filialen tewerkgesteld worden. De geldigheidsduur van de verblijfs- en werkvergunningen van deze werknemers is beperkt tot de periode waarin zij als zodanig werkzaam zijn.
 
@@ -464,27 +488,27 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 - –. de organisatie in een lidstaat van de Gemeenschap respectievelijk in Jordanië geen andere vertegenwoordiger, kantoor, filiaal of dochteronderneming heeft.
 
-#### Artikel 35
+##### Artikel 35
 
 Teneinde het voor onderdanen van de Gemeenschap en Jordanië eenvoudiger te maken zich in Jordanië respectievelijk de Gemeenschap in een vrij beroep te vestigen en als zodanig werkzaamheden te verrichten, onderzoekt de Associatieraad welke maatregelen vereist zijn met het oog op de wederzijdse erkenning van kwalificaties.
 
-#### Artikel 36
+##### Artikel 36
 
 Het bepaalde in artikel 30 vormt voor een partij geen beletsel om bijzondere voorschriften vast te stellen voor de vestiging en de activiteiten van filialen of dochterondernemingen van ondernemingen van de andere partij die niet op het grondgebied van de eerste partij rechtspersoonlijkheid bezitten, mits deze maatregelen gerechtvaardigd zijn op grond van juridische of technische verschillen tussen deze filialen en filialen van op het grondgebied van de eerste partij wel rechtspersoonlijkheid bezittende ondernemingen, of, waar het financiële diensten betreft, om prudentiële redenen. Het verschil in behandeling mag niet meer inhouden dan wat strikt noodzakelijk is op grond van deze juridische of technische verschillen of, waar het financiële diensten betreft, om deze prudentiële redenen.
 
 ### HOOFDSTUK 2. GRENSOVERSCHRIJDEND DIENSTENVERKEER
 
-#### Artikel 37
+##### Artikel 37
 
 1. De partijen doen alles wat in hun vermogen ligt om geleidelijk het verlenen van diensten mogelijk te maken door ondernemingen uit de Gemeenschap of Jordanië die zijn gevestigd op het grondgebied van een andere partij dan die van de persoon voor wie de diensten worden verricht, met inachtneming van de ontwikkeling van de dienstverlenende sectoren op het grondgebied van de partijen.
 
 2. De Associatieraad doet aanbevelingen met betrekking tot de tenuitvoerlegging van lid 1.
 
-#### Artikel 38
+##### Artikel 38
 
 Met het oog op een gecoördineerde ontwikkeling van het vervoer tussen de partijen in overeenstemming met hun commerciële behoeften, kunnen de voorwaarden voor de wederzijdse toegang tot elkaars markten en het verlenen van diensten met betrekking tot het vervoer over de weg, per spoor en over de binnenwateren, en eventueel het luchtvervoer, worden vastgelegd in bijzondere overeenkomsten, waarover in voorkomend geval tussen de partijen na het in werking treden van deze Overeenkomst wordt onderhandeld.
 
-#### Artikel 39
+##### Artikel 39
 
 1. De partijen verbinden zich tot het daadwerkelijk toepassen van het beginsel van onbeperkte toegang tot de internationale maritieme markt en het internationaal maritiem vervoer op commerciële basis.
 
@@ -500,7 +524,7 @@ Met het oog op een gecoördineerde ontwikkeling van het vervoer tussen de partij
 
 ### HOOFDSTUK 3. ALGEMENE BEPALINGEN
 
-#### Artikel 40
+##### Artikel 40
 
 1. De partijen verbinden zich ertoe te overwegen deze titel verder te ontwikkelen met het oog op de totstandkoming van een overeenkomst inzake economische integratie als bedoeld in [artikel V van de Algemene Overeenkomst inzake de handel in diensten](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=V) (GATS).
 
@@ -508,35 +532,35 @@ Met het oog op een gecoördineerde ontwikkeling van het vervoer tussen de partij
 
 3. Bij dit onderzoek houdt de Associatieraad rekening met de vooruitgang die geboekt is bij de onderlinge aanpassing van de wetgeving van de partijen inzake de desbetreffende activiteiten.
 
-#### Artikel 41
+##### Artikel 41
 
 1. De bepalingen van deze titel worden toegepast behoudens beperkingen die gerechtvaardigd zijn uit hoofde van de openbare orde, de openbare veiligheid en de volksgezondheid.
 
 2. Zij zijn niet van toepassing op werkzaamheden die op het grondgebied van een partij verband houden met de uitoefening van het openbaar gezag, ook indien dit slechts incidenteel het geval is.
 
-#### Artikel 42
+##### Artikel 42
 
 Voor de toepassing van deze titel vormt geen der bepalingen van deze Overeenkomst voor de partijen een beletsel voor de toepassing van hun wetten en voorschriften betreffende toelating en verblijf, het verrichten van arbeid, arbeidsvoorwaarden, de vestiging van natuurlijke personen en het verrichten van diensten, op voorwaarde dat zulks niet op zodanige wijze geschiedt dat de toepassing de voor een partij uit een specifieke bepaling van de Overeenkomst voortvloeiende voordelen teniet doet of beperkt. Deze bepaling doet geen afbreuk aan de toepassing van artikel 41.
 
-#### Artikel 43
+##### Artikel 43
 
 Ondernemingen welke worden bestuurd door en de exclusieve eigendom zijn van ondernemingen uit Jordanië en de Gemeenschap gezamenlijk, komen eveneens in aanmerking voor de bepalingen van deze titel.
 
-#### Artikel 44
+##### Artikel 44
 
 De in het kader van deze Overeenkomst door een partij aan de andere toegekende behandeling is met ingang van de termijn van een maand vóór het in werking treden van de daarop betrekking hebbende voorschriften van de [GATS](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1B), met betrekking tot de sectoren of maatregelen waarop de GATS betrekking heeft, in geen geval gunstiger dan die welke door bedoelde eerstgenoemde partij in het kader van de GATS en met betrekking tot ongeacht welke dienstensector, dienstensubsector en wijze van dienstverlening wordt toegekend.
 
-#### Artikel 45
+##### Artikel 45
 
 Voor de toepassing van deze titel wordt geen rekening gehouden met de behandeling welke door de Gemeenschap, haar lidstaten of Jordanië wordt toegekend op grond van verbintenissen welke in het kader van overeenkomsten inzake economische integratie overeenkomstig de beginselen van [artikel V van de GATS](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=V) zijn aangegaan.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Geen der bepalingen van deze Overeenkomst vormt voor de partijen een beletsel om maatregelen om redenen van bedrijfseconomisch toezicht te nemen, onder meer ten behoeve van investeerders, depositogevers, verzekeringnemers of personen aan wie een financiële dienstverlener een fiduciair recht verschuldigd is, of teneinde de integriteit en de stabiliteit van het financiële systeem te waarborgen. Indien dergelijke maatregelen strijdig zijn met de bepalingen van de Overeenkomst, mogen zij niet worden gebruikt als middel om de uit de Overeenkomst voortvloeiende verplichtingen van een partij te ontduiken.
 
 2. Geen der bepalingen van deze Overeenkomst wordt op zodanige wijze geïnterpreteerd dat zij een partij verplicht tot het verstrekken van informatie betreffende de zaken en de boekhouding van individuele klanten, dan wel vertrouwelijke of geoctrooieerde informatie die in het bezit is van overheidsinstanties.
 
-#### Artikel 47
+##### Artikel 47
 
 De bepalingen van deze Overeenkomst vormen voor een partij geen beletsel de maatregelen te nemen die zij noodzakelijk acht om te voorkomen dat de door haar genomen maatregelen in verband met de toegang van derde landen tot haar markten door middel van deze Overeenkomst worden ontdoken.
 
@@ -544,11 +568,11 @@ De bepalingen van deze Overeenkomst vormen voor een partij geen beletsel de maat
 
 ### HOOFDSTUK 1. BETALINGS- EN KAPITAALVERKEER
 
-#### Artikel 48
+##### Artikel 48
 
 Behoudens het bepaalde in de artikelen 51 en 52 zijn betalingen in verband met het verkeer van goederen, personen, diensten en kapitaal in het kader van deze Overeenkomst vrij van beperkingen.
 
-#### Artikel 49
+##### Artikel 49
 
 1. In het kader van het bepaalde in deze Overeenkomst, behoudens het bepaalde in de artikelen 50 en 51 en onverminderd de in artikel 30, lid 2, onder a., bedoelde bijlage VI, gelden geen beperkingen op het verkeer van kapitaal van de Gemeenschap naar Jordanië en op het verkeer van kapitaal met betrekking tot directe investeringen van Jordanië naar de Gemeenschap.
 
@@ -556,23 +580,23 @@ Behoudens het bepaalde in de artikelen 51 en 52 zijn betalingen in verband met h
 
 3. De partijen voeren overleg met het oog op volledige liberalisering van het kapitaalverkeer, zodra de voorwaarden daartoe zijn vervuld.
 
-#### Artikel 50
+##### Artikel 50
 
 Onverminderd andere bepalingen van deze Overeenkomst en andere internationale verplichtingen van de Gemeenschap en Jordanië, vormt artikel 49 geen beletsel voor de toepassing van eventuele beperkingen die op de datum van inwerkingtreding van deze Overeenkomst tussen de Gemeenschap en Jordanië van kracht zijn ten aanzien van het kapitaalverkeer tussen deze partijen in verband met directe investeringen, met inbegrip van investeringen in onroerend goed, en de vestiging van ondernemingen.
 
 Er zijn evenwel geen beperkingen op de overdracht van kapitaal dat door ingezetenen van de Gemeenschap in Jordanië of door ingezetenen van Jordanië in de Gemeenschap werd geïnvesteerd, noch op de overdracht van alle daaruit voortvloeiende winsten.
 
-#### Artikel 51
+##### Artikel 51
 
 Wanneer in uitzonderlijke omstandigheden het kapitaalverkeer tussen de Gemeenschap en Jordanië ernstige moeilijkheden veroorzaakt of dreigt te veroorzaken voor het wisselkoersbeleid of het monetair beleid in de Gemeenschap of in Jordanië, dan kunnen de Gemeenschap of Jordanië, overeenkomstig het bepaalde in de [GATS](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1B) en in de [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005521&artikel=VIII) en [XIV van de Overeenkomst betreffende het Internationaal Monetair Fonds](https://wetten.overheid.nl/jci1.3:c:BWBV0005521&artikel=XIV), het kapitaalverkeer tussen de Gemeenschap en Jordanië gedurende een periode van ten hoogste zes maanden aan vrijwaringsmaatregelen onderwerpen, indien dergelijke maatregelen strikt noodzakelijk zijn.
 
-#### Artikel 52
+##### Artikel 52
 
 Indien zich met betrekking tot de betalingsbalans van een of meer lidstaten van de Gemeenschap of van Jordanië ernstige moeilijkheden voordoen of dreigen voor te doen, kan de Gemeenschap of Jordanië, al naar gelang van het geval, in overeenstemming met de in de [GATT](onbekend) en met de [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005521&artikel=VIII) en [XIV van de Overeenkomst betreffende het Internationaal Monetair Fonds](https://wetten.overheid.nl/jci1.3:c:BWBV0005521&artikel=XIV) bepaalde voorwaarden beperkende maatregelen treffen met betrekking tot lopende transacties, indien dergelijke maatregelen absoluut noodzakelijk zijn. De Gemeenschap of Jordanië, al naar gelang van het geval, brengt deze maatregelen onverwijld ter kennis van de andere partij, en verstrekt deze partij zo spoedig mogelijk een tijdschema voor de opheffing van deze maatregelen.
 
 ### HOOFDSTUK 2. BEPALINGEN INZAKE DE MEDEDINGING EN ANDERE ECONOMISCHE BEPALINGEN
 
-#### Artikel 53
+##### Artikel 53
 
 1. Onverenigbaar met de goede werking van deze Overeenkomst voor zover de handel tussen de Gemeenschap en Jordanië daardoor ongunstig kan worden beïnvloed zijn:
 
@@ -610,37 +634,37 @@ Met betrekking tot praktijken die onverenigbaar zijn met lid 1, onder c., kunnen
 
 7. Niettegenstaande eventueel daarmee strijdige bepalingen die overeenkomstig lid 3 zijn vastgesteld, wisselen de partijen informatie uit met inachtneming van de beperkingen welke voortvloeien uit het beroeps- of zakengeheim.
 
-#### Artikel 54
+##### Artikel 54
 
 De lidstaten en Jordanië passen, onverminderd de in het kader van de [GATT](onbekend) aangegane verplichtingen, alle staatsmonopolies van commerciële aard geleidelijk aan, in dier voege dat uiterlijk vijf jaar na de inwerkingtreding van deze Overeenkomst tussen onderdanen van de lidstaten en van Jordanië geen discriminatie meer bestaan wat de voorwaarden voor de aankoop en de afzet van goederen betreft. Het Associatiecomité wordt in kennis gesteld van de maatregelen die daartoe worden genomen.
 
-#### Artikel 55
+##### Artikel 55
 
 Met betrekking tot overheidsondernemingen en ondernemingen waaraan speciale of exclusieve rechten zijn toegekend, ziet de Associatieraad erop toe dat vanaf het vijfde jaar na de datum van inwerkingtreding van deze Overeenkomst geen maatregelen die het handelsverkeer tussen de Gemeenschap en Jordanië verstoren of strijdig zijn met de belangen van de partijen worden vastgesteld of gehandhaafd. Deze bepaling vormt geen beletsel voor de uitvoering, de jure of de facto, van bijzondere taken die aan deze ondernemingen zijn opgedragen.
 
-#### Artikel 56
+##### Artikel 56
 
 1. Overeenkomstig het bepaalde in dit artikel en in bijlage VII waarborgen de partijen een adequate en effectieve bescherming van intellectuele-, industriële- en commerciële-eigendomsrechten overeenkomstig de hoogste internationale normen, alsmede effectieve middelen om deze rechten te doen gelden.
 
 2. De tenuitvoerlegging van dit artikel en van bijlage VII wordt regelmatig door de partijen onderzocht. In geval van problemen op het gebied van intellectuele-, industriële- en commerciële-eigendomsrechten die het handelsverkeer beïnvloeden wordt op verzoek van een partij spoedoverleg gevoerd, teneinde tot wederzijds bevredigende oplossingen te komen.
 
-#### Artikel 57
+##### Artikel 57
 
 De partijen streven ernaar de verschillen op het gebied van harmonisatie en conformiteitsbeoordeling verder te beperken. Daartoe sluiten zij specifieke overeenkomsten met betrekking tot wederzijdse erkenning op het gebied van de conformiteitsbeoordeling.
 
-#### Artikel 58
+##### Artikel 58
 
 De partijen stellen zich een wederzijdse en geleidelijke liberalisering van de overheidsopdrachten ten doel. De Associatieraad pleegt overleg over de tenuitvoerlegging van deze doelstelling.
 
 ## TITEL V. ECONOMISCHE SAMENWERKING
 
-#### Artikel 59. Doelstellingen
+##### Artikel 59. Doelstellingen
 
 1. De partijen verbinden zich ertoe hun economische samenwerking te versterken, in hun wederzijds belang, en overeenkomstig de algemene doelstellingen van deze Overeenkomst.
 
 2. De economische samenwerking heeft als doel Jordanië te steunen in zijn activiteiten ter bevordering van duurzame economische en sociale ontwikkeling.
 
-#### Artikel 60. Toepassingssfeer
+##### Artikel 60. Toepassingssfeer
 
 1. De samenwerking richt zich in de eerste plaats op terreinen waar zich interne problemen voordoen, of die de gevolgen ondergaan van het liberaliseringsproces van de gehele Jordaanse economie, met name de liberalisering van het handelsverkeer tussen Jordanië en de Gemeenschap.
 
@@ -652,7 +676,7 @@ De partijen stellen zich een wederzijdse en geleidelijke liberalisering van de o
 
 5. De partijen kunnen overeenkomen de economische samenwerking uit te breiden tot sectoren die niet onder het bepaalde in deze titel vallen.
 
-#### Artikel 61. Middelen en modaliteiten
+##### Artikel 61. Middelen en modaliteiten
 
 De economische samenwerking wordt met name verwezenlijkt door middel van:
 
@@ -668,7 +692,7 @@ De economische samenwerking wordt met name verwezenlijkt door middel van:
 
 - f. bevordering van joint ventures.
 
-#### Artikel 62. Regionale samenwerking
+##### Artikel 62. Regionale samenwerking
 
 Ter bevordering van de regionale samenwerking bevorderen de partijen activiteiten met een regionaal effect of waarbij andere landen in de regio betrokken zijn. Deze activiteiten kunnen onder meer inhouden:
 
@@ -684,13 +708,13 @@ Ter bevordering van de regionale samenwerking bevorderen de partijen activiteite
 
 - –. douanezaken.
 
-#### Artikel 63. Onderwijs en opleiding
+##### Artikel 63. Onderwijs en opleiding
 
 De samenwerking tussen de partijen richt zich op het vaststellen en benutten van de meest effectieve methoden om de situatie in het onderwijs en de beroepseducatie aanzienlijk te verbeteren, met name ten aanzien van overheidsondernemingen en het particuliere bedrijfsleven, commerciële dienstverlening, de overheid en openbare instellingen, technische instanties, instanties voor normalisatie en certificatie en andere relevante organisaties. Beroepsopleidingen in verband met de herstructurering van de industrie krijgen hierbij speciale aandacht.
 
 De samenwerking bevordert tevens de totstandkoming van contacten tussen gespecialiseerde instanties in de Gemeenschap en Jordanië en de uitwisseling van informatie en ervaringen, alsmede het gezamenlijke gebruik van technische middelen.
 
-#### Artikel 64. Wetenschappelijke en technologische samenwerking
+##### Artikel 64. Wetenschappelijke en technologische samenwerking
 
 De samenwerking is gericht op:
 
@@ -706,7 +730,7 @@ De samenwerking is gericht op:
 
 - c. het stimuleren van technologische innovatie, het uitwisselen van nieuwe technologieën en het verspreiden van kennis, met name om de aanpassing van de industriële capaciteit van Jordanië te versnellen.
 
-#### Artikel 65. Milieu
+##### Artikel 65. Milieu
 
 1. De samenwerking is gericht op het voorkomen van de afbraak van het milieu, het intomen van de vervuiling en het rationele gebruik van natuurlijke hulpbronnen, teneinde duurzame ontwikkeling tot stand te brengen en regionale samenwerkingsprojecten te bevorderen.
 
@@ -732,7 +756,7 @@ De samenwerking is gericht op:
 
 - –. verzilting.
 
-#### Artikel 66. Industriële samenwerking
+##### Artikel 66. Industriële samenwerking
 
 De samenwerking is met name gericht op het bevorderen van:
 
@@ -756,7 +780,7 @@ De samenwerking is met name gericht op het bevorderen van:
 
 - –. verbetering van ondersteunende informatiediensten.
 
-#### Artikel 67. Investeringen en stimulering van investeringen
+##### Artikel 67. Investeringen en stimulering van investeringen
 
 De samenwerking is gericht op het scheppen van een gunstig en stabiel investeringsklimaat in Jordanië. Dit houdt in ontwikkeling van:
 
@@ -768,7 +792,7 @@ De samenwerking is gericht op het scheppen van een gunstig en stabiel investerin
 
 - –. joint ventures van ondernemingen uit Jordanië en de Gemeenschap.
 
-#### Artikel 68. Normalisatie en conformiteitsbeoordeling
+##### Artikel 68. Normalisatie en conformiteitsbeoordeling
 
 De samenwerking op dit gebied richt zich met name op:
 
@@ -778,11 +802,11 @@ De samenwerking op dit gebied richt zich met name op:
 
 - c. het ontwikkelen van structuren en organen voor de bescherming van intellectuele, industriële en commerciële eigendom, normalisatie en kwaliteitsnormen.
 
-#### Artikel 69. Aanpassing van wetgeving
+##### Artikel 69. Aanpassing van wetgeving
 
 De partijen doen alles wat in hun vermogen ligt om hun wetgeving onderling aan te passen, teneinde de implementatie van deze Overeenkomst te vereenvoudigen.
 
-#### Artikel 70. Financiële diensten
+##### Artikel 70. Financiële diensten
 
 De partijen werken samen om hun normen en voorschriften te harmoniseren, onder andere met het oog op:
 
@@ -790,7 +814,7 @@ De partijen werken samen om hun normen en voorschriften te harmoniseren, onder a
 
 - b. verbetering van de boekhoudings- en boekhoudcontrolesystemen, alsmede het toezicht op en de reglementering van het bankwezen, het verzekeringswezen en andere financiële sectoren in Jordanië.
 
-#### Artikel 71. Landbouw
+##### Artikel 71. Landbouw
 
 De partijen concentreren zich bij de samenwerking in het bijzonder op:
 
@@ -808,7 +832,7 @@ De partijen concentreren zich bij de samenwerking in het bijzonder op:
 
 - –. samenwerking tussen plattelandsregio's, uitwisseling van ervaringen en kennis inzake plattelandsontwikkeling.
 
-#### Artikel 72. Vervoer
+##### Artikel 72. Vervoer
 
 De samenwerking is gericht op:
 
@@ -822,7 +846,7 @@ De samenwerking is gericht op:
 
 - –. verbetering van het beheer van luchthavens, de luchtverkeersleiding en de spoorwegen, mede inhoudende samenwerking tussen de verantwoordelijke nationale instanties.
 
-#### Artikel 73. Informatie-infrastructuur en telecommunicatie
+##### Artikel 73. Informatie-infrastructuur en telecommunicatie
 
 De samenwerking is met name gericht op:
 
@@ -834,7 +858,7 @@ De samenwerking is met name gericht op:
 
 - d. stimulering van onderzoek naar en ontwikkeling van nieuwe faciliteiten voor communicatie en informatietechnologieën, gericht op het ontwikkelen van de markt voor uitrusting, diensten en toepassingen in verband met informatietechnologieën en communicatie, diensten en installaties.
 
-#### Artikel 74. Energie
+##### Artikel 74. Energie
 
 Bij de samenwerking genieten prioriteit:
 
@@ -848,7 +872,7 @@ Bij de samenwerking genieten prioriteit:
 
 De samenwerking richt zich tevens op vereenvoudiging van de doorvoer van gas, olie en elektriciteit.
 
-#### Artikel 75. Toerisme
+##### Artikel 75. Toerisme
 
 Prioriteit genieten bij de samenwerking op dit gebied:
 
@@ -868,7 +892,7 @@ Prioriteit genieten bij de samenwerking op dit gebied:
 
 - –. uitwisseling van informatie inzake geplande projecten voor ontwikkeling en marketing van het toerisme, toeristische beurzen, tentoonstellingen, congressen en publicaties.
 
-#### Artikel 76. Douane
+##### Artikel 76. Douane
 
 1. De partijen verbinden zich ertoe de samenwerking op douanegebied te ontwikkelen, teneinde erop toe te zien dat de handelsbepalingen worden nageleefd. Bij de samenwerking hebben prioriteit:
 
@@ -878,17 +902,17 @@ Prioriteit genieten bij de samenwerking op dit gebied:
 
 2. Onverminderd het bepaalde in de Overeenkomst inzake verdere samenwerking, in het bijzonder wat de bestrijding van drugs en het witwassen van geld betreft, verlenen de douaneadministraties van de partijen elkaar administratieve bijstand overeenkomstig Protocol 4.
 
-#### Artikel 77. Statistiek
+##### Artikel 77. Statistiek
 
 De samenwerking is met name gericht op harmonisatie van de door de partijen gebruikte methoden, zodat betrouwbare statistieken kunnen worden opgesteld voor handel, bevolking, migratie en in het algemeen alle gebieden die onder deze Overeenkomst vallen en voor statistische verwerking in aanmerking komen.
 
-#### Artikel 78. Witwassen van geld
+##### Artikel 78. Witwassen van geld
 
 1. De partijen werken samen om te voorkomen dat hun financiële systemen worden gebruikt voor het witwassen van de opbrengst van criminele activiteiten in het algemeen en drugsmisdrijven in het bijzonder.
 
 2. De samenwerking op dit gebied omvat administratieve en technische bijstand teneinde normen op te stellen voor de bestrijding van het witwassen van geld die gelijkwaardig zijn met die van de Gemeenschap en andere relevante internationale instellingen, met name de Financial Action Task Force (FATF).
 
-#### Artikel 79. Bestrijding van drugs
+##### Artikel 79. Bestrijding van drugs
 
 1. De samenwerking is met name gericht op:
 
@@ -912,7 +936,7 @@ Aan dit optreden kunnen bevoegde openbare en particuliere instellingen en intern
 
 ### HOOFDSTUK 1. SOCIALE DIALOOG
 
-#### Artikel 80
+##### Artikel 80
 
 1. Tussen de partijen wordt een regelmatige dialoog ingesteld over elk onderwerp op sociaal gebied dat voor hen van belang is.
 
@@ -928,13 +952,13 @@ Aan dit optreden kunnen bevoegde openbare en particuliere instellingen en intern
 
 - d. activiteiten en programma's ter bevordering van de gelijke behandeling van onderdanen van Jordanië en van de Gemeenschap, wederzijdse kennis van cultuur en beschaving, bevordering van tolerantie en bestrijding van discriminatie.
 
-#### Artikel 81
+##### Artikel 81
 
 De dialoog op sociaal gebied wordt gehouden op dezelfde niveaus en volgens dezelfde procedures als die van titel I van deze Overeenkomst, die tevens als kader ervoor kan dienen.
 
 ### HOOFDSTUK 2. SAMENWERKING OP SOCIAAL GEBIED
 
-#### Artikel 82
+##### Artikel 82
 
 1. De partijen erkennen het belang van sociale ontwikkeling, een essentiële component van alle economische ontwikkeling. Bijzondere prioriteit wordt toegekend aan de eerbiediging van fundamentele sociale rechten.
 
@@ -958,17 +982,17 @@ Hierbij hebben de volgende onderwerpen prioriteit:
 
 - h. uitvoering en financiering van uitwisselings- en vrijetijdsprogramma's voor gemengde groepen Europese en Jordaanse jongeren die in de lidstaten verblijven ter bevordering van de kennis van elkaars cultuur en van de tolerantie.
 
-#### Artikel 83
+##### Artikel 83
 
 Samenwerkingsprojecten kunnen worden gecoördineerd met de lidstaten en de relevante internationale organisaties.
 
-#### Artikel 84
+##### Artikel 84
 
 De Associatieraad richt voor het einde van het eerste jaar na de datum van inwerkingtreding van deze Overeenkomst een werkgroep op. Deze is belast met permanente evaluatie van de tenuitvoerlegging van de bepalingen van de hoofdstukken 1 en 2.
 
 ### HOOFDSTUK 3. CULTURELE SAMENWERKING EN UITWISSELING VAN INFORMATIE
 
-#### Artikel 85
+##### Artikel 85
 
 1. Met het oog op de vergroting van wederzijdse kennis en begrip en rekening houdend met reeds ondernomen activiteiten, verbinden de partijen zich ertoe, met respect voor elkaars cultuur, een vaste basis te leggen voor een duurzame culturele dialoog en een permanente culturele samenwerking te bevorderen op alle daarvoor geschikte terreinen.
 
@@ -980,7 +1004,7 @@ De Associatieraad richt voor het einde van het eerste jaar na de datum van inwer
 
 ## TITEL VII. FINANCIËLE SAMENWERKING
 
-#### Artikel 86
+##### Artikel 86
 
 Ter verwezenlijking van de doelstellingen van deze Overeenkomst wordt een financieel samenwerkingspakket aan Jordanië ter beschikking gesteld overeenkomstig de passende procedures en financiële middelen.
 
@@ -998,23 +1022,23 @@ Naast de in titel V en titel VI van deze Overeenkomst genoemde terreinen heeft d
 
 - –. het begeleiden van het beleid in de sociale sectoren.
 
-#### Artikel 87
+##### Artikel 87
 
 In het kader van de communautaire financiële instrumenten ter ondersteuning van de programma's voor structurele aanpassing in de landen van het Middellandse-Zeegebied, en in nauwe samenwerking met de Jordaanse autoriteiten en met andere donoren, in het bijzonder andere internationale financiële instellingen, onderzoekt de Gemeenschap op welke wijze ondersteuning kan worden geboden voor de structuurmaatregelen die Jordanië neemt om een algemeen financieel evenwicht te herstellen en een economisch klimaat te scheppen dat een versnelde groei bevordert en tegelijkertijd het sociale welzijn van de bevolking verbetert.
 
-#### Artikel 88
+##### Artikel 88
 
 Met het oog op een gecoördineerde benadering van bijzondere macro-economische en financiële problemen die uit de tenuitvoerlegging van deze Overeenkomst zouden kunnen voortvloeien, besteden de partijen bijzondere aandacht aan de ontwikkelingen in het handelsverkeer en de financiële betrekkingen tussen de Gemeenschap en Jordanië in het kader van de krachtens titel V ingestelde regelmatige economische dialoog.
 
 ## TITEL VIII. INSTITUTIONELE, ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel 89
+##### Artikel 89
 
 Er wordt een Associatieraad opgericht, die één maal per jaar, of telkens wanneer de omstandigheden zulks vereisen, op ministerieel niveau bijeenkomt op initiatief van zijn voorzitter, overeenkomstig het reglement van orde.
 
 De Associatieraad behandelt alle belangrijke vraagstukken die zich in het kader van de Overeenkomst voordoen, alsmede alle andere bilaterale of internationale vraagstukken van gemeenschappelijk belang.
 
-#### Artikel 90
+##### Artikel 90
 
 1. De Associatieraad bestaat uit enerzijds leden van de Raad van de Europese Unie en leden van de Commissie van de Europese Gemeenschappen en anderzijds leden van de regering van Jordanië.
 
@@ -1024,7 +1048,7 @@ De Associatieraad behandelt alle belangrijke vraagstukken die zich in het kader 
 
 4. De Associatieraad wordt beurtelings voorgezeten door een lid van de Raad van de Europese Unie en een lid van de regering van Jordanië, zulks overeenkomstig het bepaalde in het reglement van orde van de Associatieraad.
 
-#### Artikel 91
+##### Artikel 91
 
 De Associatieraad heeft, voor de verwezenlijking van de doelstellingen van de Overeenkomst, in de in de Overeenkomst genoemde gevallen beslissingsbevoegdheid.
 
@@ -1032,13 +1056,13 @@ De besluiten van de Associatieraad zijn bindend voor de partijen, die de nodige 
 
 De besluiten en aanbevelingen van de Associatieraad worden vastgesteld in onderlinge overeenstemming tussen de partijen.
 
-#### Artikel 92
+##### Artikel 92
 
 1. Er wordt een Associatiecomité opgericht, dat toezicht houdt op het beheer van deze Overeenkomst, onder voorbehoud van de aan de Raad toegekende bevoegdheden.
 
 2. De Associatieraad kan alle of een deel van zijn bevoegdheden aan het Associatiecomité delegeren.
 
-#### Artikel 93
+##### Artikel 93
 
 1. Het Associatiecomité vergadert op het niveau van ambtenaren en bestaat uit enerzijds vertegenwoordigers van de leden van de Raad van de Europese Unie en van leden van de Commissie van de Europese Gemeenschappen, en anderzijds vertegenwoordigers van de regering van Jordanië.
 
@@ -1046,21 +1070,21 @@ De besluiten en aanbevelingen van de Associatieraad worden vastgesteld in onderl
 
 3. Het voorzitterschap van het Associatiecomité wordt bij toerbeurt bekleed door een vertegenwoordiger van de Commissie van de Europese Gemeenschappen en een vertegenwoordiger van de regering van Jordanië.
 
-#### Artikel 94
+##### Artikel 94
 
 1. Het Associatiecomité heeft beslissingsbevoegdheid inzake het beheer van deze Overeenkomst en op de terreinen waarop de Raad het comité bevoegdheden heeft toegekend.
 
 2. Besluiten worden in overleg tussen de partijen genomen en zijn bindend voor de partijen, die gehouden zijn de maatregelen te nemen die voor de uitvoering ervan nodig zijn.
 
-#### Artikel 95
+##### Artikel 95
 
 De Associatieraad kan besluiten werkgroepen of lichamen in te stellen die voor de uitvoering van de Overeenkomst nodig zijn.
 
-#### Artikel 96
+##### Artikel 96
 
 De Associatieraad neemt alle nuttige maatregelen ter bevordering van de samenwerking en de contacten tussen het Europees Parlement en het parlement van Jordanië.
 
-#### Artikel 97
+##### Artikel 97
 
 1. Elk der partijen kan ieder geschil dat verband houdt met de toepassing of de interpretatie van deze Overeenkomst aan de Associatieraad voorleggen.
 
@@ -1076,7 +1100,7 @@ De scheidsrechters beslissen bij meerderheid van stemmen.
 
 Elke partij bij het geschil dient de maatregelen te treffen die voor de tenuitvoerlegging van de beslissing van de scheidsrechters noodzakelijk zijn.
 
-#### Artikel 98
+##### Artikel 98
 
 Niets in de Overeenkomst belet een overeenkomstsluitende partij maatregelen te nemen:
 
@@ -1086,7 +1110,7 @@ Niets in de Overeenkomst belet een overeenkomstsluitende partij maatregelen te n
 
 - c. die zij van vitaal belang voor haar eigen veiligheid acht, in geval van ernstige binnenlandse problemen die de openbare orde bedreigen, in tijden van oorlog of ernstige internationale spanningen die een oorlogsdreiging inhouden, of om verplichtingen na te komen die zij voor de bewaring van de vrede en de internationale veiligheid is aangegaan.
 
-#### Artikel 99
+##### Artikel 99
 
 Op de door deze Overeenkomst bestreken terreinen en onverminderd eventueel daarin neergelegde bijzondere bepalingen, geldt het volgende:
 
@@ -1094,7 +1118,7 @@ Op de door deze Overeenkomst bestreken terreinen en onverminderd eventueel daari
 
 - –. de regelingen die de Gemeenschap ten opzichte van Jordanië toepast mogen geen aanleiding geven tot discriminatie tussen Jordaanse onderdanen of vennootschappen.
 
-#### Artikel 100
+##### Artikel 100
 
 Ten aanzien van directe belastingen heeft geen der bepalingen van de Overeenkomst tot gevolg dat:
 
@@ -1104,7 +1128,7 @@ Ten aanzien van directe belastingen heeft geen der bepalingen van de Overeenkoms
 
 - –. afbreuk wordt gedaan aan het recht van een partij de ter zake doende bepalingen van haar fiscale wetgeving toe te passen op belastingplichtigen die zich niet in dezelfde situatie bevinden, met name ten aanzien van hun woonplaats.
 
-#### Artikel 101
+##### Artikel 101
 
 1. De partijen treffen alle algemene en bijzondere maatregelen die vereist zijn om aan hun verplichtingen krachtens deze Overeenkomst te voldoen. Zij zien erop toe dat de in de Overeenkomst aangegeven doelstellingen worden bereikt.
 
@@ -1112,29 +1136,29 @@ Ten aanzien van directe belastingen heeft geen der bepalingen van de Overeenkoms
 
 Bij voorrang moeten die maatregelen worden gekozen die de goede werking van de Overeenkomst het minst verstoren. Deze maatregelen worden onmiddellijk ter kennis van de Associatieraad gebracht en op verzoek van de andere partij in de Associatieraad besproken.
 
-#### Artikel 102
+##### Artikel 102
 
 De protocollen 1 tot en met 4 en de bijlagen I tot en met VII vormen een integrerend onderdeel van de Overeenkomst. De verklaringen en de briefwisselingen zijn opgenomen in de Slotakte, die een integrerend onderdeel vormt van de Overeenkomst.
 
-#### Artikel 103
+##### Artikel 103
 
 Voor de toepassing van deze Overeenkomst wordt onder „partijen" verstaan: enerzijds de Gemeenschap, of de lidstaten, of de Gemeenschap en de lidstaten, overeenkomstig hun respectieve bevoegdheden, en anderzijds, Jordanië.
 
-#### Artikel 104
+##### Artikel 104
 
 De Overeenkomst wordt voor onbepaalde tijd gesloten.
 
 Elk der partijen kan de Overeenkomst door kennisgeving aan de andere partij opzeggen. Zes maanden na de datum van die kennisgeving houdt de Overeenkomst op van toepassing te zijn.
 
-#### Artikel 105
+##### Artikel 105
 
 Deze Overeenkomst is van toepassing op enerzijds het grondgebied waar het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal van toepassing zijn, overeenkomstig het bepaalde in die verdragen, en anderzijds op het grondgebied van Jordanië.
 
-#### Artikel 106
+##### Artikel 106
 
 Deze Overeenkomst, die is opgesteld in tweevoud in de Deense, de Duitse, de Engelse, de Finse, de Franse, de Griekse, de Italiaanse, de Nederlandse, de Portugese, de Spaanse, de Zweedse en de Arabische taal, zijnde alle teksten gelijkelijk authentiek, wordt neergelegd bij het Secretariaat-generaal van de Raad van de Europese Unie.
 
-#### Artikel 107
+##### Artikel 107
 
 1. Deze Overeenkomst wordt door de partijen volgens hun eigen procedures goedgekeurd.
 
@@ -1142,39 +1166,39 @@ Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand na de d
 
 2. Bij inwerkingtreding vervangt deze Overeenkomst de op 18 januari 1977 te Brussel ondertekende Samenwerkingsovereenkomst tussen de Europese Economische Gemeenschap en het Hasjemitische Koninkrijk Jordanië en de Overeenkomst tussen de lidstaten van de Europese Gemeenschap voor Kolen en Staal en Jordanië.
 
-#### 1
+##### 1
 
 De in bijlage genoemde producten van oorsprong uit Jordanië mogen in de Gemeenschap worden ingevoerd onder de voorwaarden die hierna en in de bijlage zijn vermeld.
 
-#### 2
+##### 2
 
 a. De douanerechten worden afgeschaft of verlaagd volgens de percentages die naast de betrokken producten in kolom A zijn vermeld.
 
 b. Voor bepaalde producten waarvoor het gemeenschappelijk douanetarief in een ad valorem-douanerecht en in een specifiek douanerecht voorziet, zijn de in de kolommen A en C vermelde verlagingspercentages uitsluitend op de ad valorem-douanerechten van toepassing.
 
-#### 3
+##### 3
 
 Voor bepaalde producten worden de douanerechten afgeschaft binnen de grenzen van de tariefcontingenten die voor elk van deze producten in kolom B zijn vermeld. Voor ingevoerde hoeveelheden die de contingenten overschrijden, worden de douanerechten, afhankelijk van het product, volledig toegepast dan wel verlaagd volgens de percentages in kolom C.
 
-#### 4
+##### 4
 
 Voor bepaalde in lid 3 en in kolom D vermelde producten worden de tariefcontingenten vanaf de inwerkingtreding van de Overeenkomst verhoogd in vier gelijke jaarlijkse stappen, die elk overeenkomen met 3% van deze bedragen.
 
-#### 5
+##### 5
 
 Voor bepaalde in kolom D vermelde producten kan de Gemeenschap een referentiehoeveelheid vaststellen, indien uit de door haar opgestelde jaarlijkse balans van het handelsverkeer blijkt dat de van een product of producten ingevoerde hoeveelheden moeilijkheden dreigen te veroorzaken op de markt van de Gemeenschap. Indien de invoer van een dergelijk product de referentiehoeveelheid overschrijdt, kan de Gemeenschap voor het betrokken product een communautair tariefcontingent openen voor een hoeveelheid die gelijk is aan de referentiehoeveelheid. Voor ingevoerde hoeveelheden die de contingenten overschrijden, worden de douanerechten, afhankelijk van het product, volledig toegepast dan wel verlaagd volgens de percentages in kolom C.
 
-#### 1
+##### 1
 
 De in de bijlage vermelde producten van oorsprong uit de Gemeenschap zijn bij invoer in Jordanië aan de hierna genoemde voorwaarden en aan de in de bijlage vastgestelde voorwaarden onderworpen.
 
-#### 2
+##### 2
 
 De invoerrechten en heffingen van gelijke werking mogen niet hoger zijn dan het in kolom A vermelde percentage.
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit Protocol wordt verstaan onder:
 
@@ -1206,7 +1230,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 2. Algemene voorwaarden
+##### Artikel 2. Algemene voorwaarden
 
 1. Voor de toepassing van deze Overeenkomst worden de volgende producten beschouwd van oorsprong te zijn uit de Gemeenschap:
 
@@ -1220,13 +1244,13 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - b. in Jordanië verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in Jordanië een be- of verwerking hebben ondergaan die toereikend is in de zin van artikel 5 van dit Protocol.
 
-#### Artikel 3. Bilaterale cumulatie van de oorsprong
+##### Artikel 3. Bilaterale cumulatie van de oorsprong
 
 1. Materialen van oorsprong uit de Gemeenschap worden beschouwd materialen van oorsprong uit Jordanië te zijn indien ze in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan, mits ze evenwel een be- of verwerking hebben ondergaan die meer omvat dan de in artikel 6, lid 1, van dit Protocol genoemde be- of verwerkingen.
 
 2. Materialen van oorsprong uit Jordanië worden beschouwd materialen van oorsprong uit de Gemeenschap te zijn wanneer ze in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan, mits ze evenwel een be- of verwerking hebben ondergaan die meer omvat dan de in artikel 6, lid 1, van dit Protocol genoemde be- of verwerkingen.
 
-#### Artikel 4. Geheel en al verkregen producten
+##### Artikel 4. Geheel en al verkregen producten
 
 1. Als geheel en al in de Gemeenschap of in Jordanië verkregen worden beschouwd:
 
@@ -1264,7 +1288,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - e. waarvan de bemanning voor ten minste 75 procent uit onderdanen van lidstaten van de Gemeenschap of van Jordanië bestaat.
 
-#### Artikel 5. Toereikende bewerking of verwerking
+##### Artikel 5. Toereikende bewerking of verwerking
 
 1. Niet geheel en al verkregen producten worden geacht een toereikende bewerking of verwerking te hebben ondergaan in de zin van artikel 2, indien aan de voorwaarden van de lijst in bijlage II is voldaan.
 
@@ -1278,7 +1302,7 @@ In deze lijst is voor alle onder deze Overeenkomst vallende producten aangegeven
 
 3. De leden 1 en 2 zijn van toepassing onder voorbehoud van het bepaalde in artikel 6.
 
-#### Artikel 6. Ontoereikende bewerking of verwerking
+##### Artikel 6. Ontoereikende bewerking of verwerking
 
 1. Behoudens het bepaalde in lid 2 worden de volgende be- of verwerkingen als ontoereikend beschouwd om de oorsprong te verlenen, ongeacht of aan de voorwaarden van artikel 5 is voldaan:
 
@@ -1304,7 +1328,7 @@ In deze lijst is voor alle onder deze Overeenkomst vallende producten aangegeven
 
 2. Om te bepalen of de be- of verwerkingen die een bepaald product heeft ondergaan ontoereikend zijn in de zin van lid 1, worden alle be- of verwerkingen die dit product in de Gemeenschap of in Jordanië heeft ondergaan tezamen genomen.
 
-#### Artikel 7. Determinerende eenheid
+##### Artikel 7. Determinerende eenheid
 
 1. De determinerende eenheid voor de toepassing van de bepalingen van dit Protocol is het product dat volgens de nomenclatuur van het geharmoniseerde systeem als de basiseenheid wordt beschouwd.
 
@@ -1316,15 +1340,15 @@ Hieruit volgt dat:
 
 2. Wanneer volgens algemene regel 5 voor de interpretatie van het geharmoniseerde systeem de verpakking meetelt voor het vaststellen van de indeling, telt deze ook mee voor het vaststellen van de oorsprong.
 
-#### Artikel 8. Accessoires, vervangingsonderdelen en gereedschappen
+##### Artikel 8. Accessoires, vervangingsonderdelen en gereedschappen
 
 Accessoires, vervangingsonderdelen en gereedschappen die samen met materieel, machines, apparaten of voertuigen worden geleverd en deel uitmaken van de normale uitrusting daarvan en in de prijs daarvan zijn begrepen of niet afzonderlijk in rekening worden gebracht, worden geacht één geheel te vormen met het materieel en de machines, apparaten of voertuigen in kwestie.
 
-#### Artikel 9. Stellen of assortimenten
+##### Artikel 9. Stellen of assortimenten
 
 Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie van het geharmoniseerde systeem, worden als van oorsprong beschouwd indien alle samenstellende delen van oorsprong zijn. Een stel of assortiment bestaande uit producten van oorsprong en producten die niet van oorsprong zijn, wordt evenwel als van oorsprong beschouwd indien de waarde van de producten die niet van oorsprong zijn niet meer dan 15 procent van de prijs af fabriek van het stel of assortiment bedraagt.
 
-#### Artikel 10. Neutrale elementen
+##### Artikel 10. Neutrale elementen
 
 Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsprong na te gaan van de volgende zaken die bij de vervaardiging gebruikt kunnen zijn:
 
@@ -1338,7 +1362,7 @@ Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsp
 
 ## TITEL III. TERRITORIALE VOORWAARDEN
 
-#### Artikel 11. Territorialiteitsbeginsel
+##### Artikel 11. Territorialiteitsbeginsel
 
 1. Aan de in titel II genoemde voorwaarden met betrekking tot het verkrijgen van de oorsprong moet zonder onderbreking in de Gemeenschap of in Jordanië zijn voldaan.
 
@@ -1348,7 +1372,7 @@ Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsp
 
 - b. dat zij tijdens de periode dat ze waren uitgevoerd geen andere be- of verwerkingen hebben ondergaan dan die welke noodzakelijk waren om ze in goede staat te bewaren.
 
-#### Artikel 12. Rechtstreeks vervoer
+##### Artikel 12. Rechtstreeks vervoer
 
 1. De bij deze Overeenkomst vastgestelde preferentiële regeling is uitsluitend van toepassing op producten die aan de voorwaarden van dit Protocol voldoen en die rechtstreeks tussen de Gemeenschap en Jordanië zijn vervoerd. Producten die één enkele zending vormen, kunnen via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dit grondgebied, voor zover ze in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren.
 
@@ -1368,7 +1392,7 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 - c. hetzij, bij gebreke van bovengenoemde stukken, enig ander bewijsstuk.
 
-#### Artikel 13. Tentoonstellingen
+##### Artikel 13. Tentoonstellingen
 
 1. De Overeenkomst is van toepassing op producten van oorsprong die naar een tentoonstelling in een ander land zijn verzonden en die na de tentoonstelling in de Gemeenschap of in Jordanië worden ingevoerd, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat:
 
@@ -1386,7 +1410,7 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 ## TITEL IV. TERUGGAVE OF VRIJSTELLING VAN RECHTEN
 
-#### Artikel 14. Verbod op teruggave of vrijstelling van rechten
+##### Artikel 14. Verbod op teruggave of vrijstelling van rechten
 
 1. Niet van oorsprong zijnde materialen die gebruikt zijn bij de vervaardiging van producten van oorsprong uit de Gemeenschap of Jordanië waarvoor overeenkomstig de bepalingen van titel V een bewijs van oorsprong is afgegeven of opgesteld, komen in de Gemeenschap of in Jordanië niet in aanmerking voor teruggave of vrijstelling van douanerechten in welke vorm dan ook.
 
@@ -1402,7 +1426,7 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 ## TITEL IV. TERUGGAVE OF VRIJSTELLING VAN RECHTEN
 
-#### Artikel 15. Algemene voorwaarden
+##### Artikel 15. Algemene voorwaarden
 
 1. Deze Overeenkomst is van toepassing op producten van oorsprong uit de Gemeenschap die in Jordanië worden ingevoerd en producten van oorsprong uit Jordanië die in de Gemeenschap worden ingevoerd, op vertoon van:
 
@@ -1412,7 +1436,7 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 2. In afwijking van lid 1 vallen producten van oorsprong in de zin van dit Protocol in de in artikel 25 bedoelde gevallen onder de toepassing van deze Overeenkomst zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.
 
-#### Artikel 16. Procedure voor de afgifte van een certificaat inzake goederenverkeer EUR.1
+##### Artikel 16. Procedure voor de afgifte van een certificaat inzake goederenverkeer EUR.1
 
 1. Een certificaat inzake goederenverkeer EUR.1 (hierna „EUR.1-certificaat" genoemd) wordt afgegeven door de douaneautoriteiten van het land van uitvoer op schriftelijke aanvraag van de exporteur of, onder diens verantwoordelijkheid, van zijn gemachtigde vertegenwoordiger.
 
@@ -1428,7 +1452,7 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 7. Een EUR.1-certificaat wordt door de douaneautoriteiten afgegeven en ter beschikking van de exporteur gesteld zodra de goederen werkelijk worden uitgevoerd of wanneer het zeker is dat ze zullen worden uitgevoerd.
 
-#### Artikel 17. Afgifte achteraf van een EUR.1-certificaat
+##### Artikel 17. Afgifte achteraf van een EUR.1-certificaat
 
 1. In afwijking van artikel 16, lid 7, kan een EUR.1-certificaat bij wijze van uitzondering worden afgegeven na de uitvoer van de goederen waarop het betrekking heeft, indien
 
@@ -1486,7 +1510,7 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 5. De in lid 4 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen" van het EUR.1- certificaat.
 
-#### Artikel 18. Afgifte van een duplicaat van een EUR.1-certificaat
+##### Artikel 18. Afgifte van een duplicaat van een EUR.1-certificaat
 
 1. In geval van diefstal, verlies of vernietiging van een EUR.1-certificaat, kan de exporteur de douaneautoriteiten die dit certificaat hadden afgegeven, verzoeken een duplicaat op te maken aan de hand van de uitvoerdocumenten die in hun bezit zijn.
 
@@ -1540,11 +1564,11 @@ Producten van oorsprong mogen per pijpleiding via een ander grondgebied dan dat 
 
 4. Het duplicaat, dat dezelfde datum van afgifte draagt als het oorspronkelijke EUR.1-certificaat geldt vanaf die datum.
 
-#### Artikel 19. Afgifte van een EUR.1-certificaat aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
+##### Artikel 19. Afgifte van een EUR.1-certificaat aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
 
 Voor producten van oorsprong die in de Gemeenschap of Jordanië onder toezicht van een douanekantoor zijn geplaatst, kan het oorspronkelijke bewijs van oorsprong door een of meer EUR.1-certificaten worden vervangen bij verzending van deze producten of een gedeelte daarvan naar een andere plaats in de Gemeenschap of in Jordanië. Dit certificaat of deze certificaten worden afgegeven door het douanekantoor dat op de producten toezicht houdt.
 
-#### Artikel 20. Voorwaarden voor het opstellen van een factuurverklaring
+##### Artikel 20. Voorwaarden voor het opstellen van een factuurverklaring
 
 1. De in artikel 15, lid 1, onder b) genoemde factuurverklaring kan worden opgesteld door:
 
@@ -1562,7 +1586,7 @@ Voor producten van oorsprong die in de Gemeenschap of Jordanië onder toezicht v
 
 6. Een factuurverklaring kan door de exporteur worden opgesteld bij de uitvoer van de producten waarop ze betrekking heeft of later, maar moet uiterlijk twee jaar na de invoer van de producten waarop ze betrekking heeft in het land van invoer worden aangeboden.
 
-#### Artikel 21. Toegelaten exporteur
+##### Artikel 21. Toegelaten exporteur
 
 1. De douaneautoriteiten van het land van uitvoer kunnen een exporteur die veelvuldig producten verzendt waarop de Overeenkomst van toepassing is, vergunning verlenen factuurverklaringen op te stellen, ongeacht de waarde van de betrokken producten. Om voor een dergelijke vergunning in aanmerking te komen, moet de exporteur naar het oordeel van de douaneautoriteiten de nodige waarborgen bieden met betrekking tot de controle op de oorsprong van de producten en de naleving van alle andere voorwaarden van dit Protocol.
 
@@ -1574,7 +1598,7 @@ Voor producten van oorsprong die in de Gemeenschap of Jordanië onder toezicht v
 
 5. De douaneautoriteiten kunnen de vergunning steeds intrekken. Zij zijn verplicht dit te doen wanneer de toegelaten exporteur niet langer de in lid 1 bedoelde garanties biedt, niet langer aan de in lid 2 bedoelde voorwaarden voldoet of de vergunning niet op de juiste wijze gebruikt.
 
-#### Artikel 22. Geldigheid van het bewijs van de oorsprong
+##### Artikel 22. Geldigheid van het bewijs van de oorsprong
 
 1. Een bewijs van oorsprong is vier maanden geldig vanaf de datum van afgifte in het land van uitvoer. Het moet binnen deze periode worden ingediend bij de douaneautoriteiten van het land van invoer.
 
@@ -1582,15 +1606,15 @@ Voor producten van oorsprong die in de Gemeenschap of Jordanië onder toezicht v
 
 3. In andere gevallen van verlate indiening kunnen de douaneautoriteiten van het land van invoer de bewijzen van oorsprong aanvaarden indien de producten vóór het verstrijken van genoemde termijn bij hen zijn aangebracht.
 
-#### Artikel 23. Overlegging van het bewijs van de oorsprong
+##### Artikel 23. Overlegging van het bewijs van de oorsprong
 
 Bewijzen van oorsprong worden bij de douaneautoriteiten van het land van invoer ingediend overeenkomstig de aldaar geldende procedures. Deze autoriteiten kunnen een vertaling van dit certificaat verlangen. Zij kunnen voorts eisen dat de aangifte ten invoer vergezeld gaat van een verklaring van de importeur dat de producten aan de voorwaarden voor de toepassing van deze Overeenkomst voldoen.
 
-#### Artikel 24. Invoer in deelzendingen
+##### Artikel 24. Invoer in deelzendingen
 
 Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het land van invoer vastgestelde voorwaarden, gedemonteerde of niet-gemonteerde producten in de zin van algemene regel 2 a) voor de interpretatie van het geharmoniseerd systeem, vallende onder de Afdelingen XVI en XVII of de posten 7308 en 9406 van het geharmoniseerd systeem, in deelzendingen worden ingevoerd, wordt één enkel bewijs van oorsprong bij de douaneautoriteiten ingediend bij de invoer van de eerste deelzending.
 
-#### Artikel 25. Vrijstelling van bewijs van de oorsprong
+##### Artikel 25. Vrijstelling van bewijs van de oorsprong
 
 1. Producten die in kleine zendingen door particulieren aan particulieren worden verzonden of die deel uitmaken van de persoonlijke bagage van reizigers worden als producten van oorsprong toegelaten zonder dat het nodig is een formeel bewijs van oorsprong over te leggen, voor zover aan zulke producten ieder handelskarakter vreemd is en verklaard wordt dat zij aan de voorwaarden voor de toepassing van dit Protocol voldoen en er over de juistheid van een dergelijke verklaring geen twijfel bestaat. Voor postzendingen kan deze verklaring op het douaneaangifteformulier C2/CP3 of op een daaraan gehecht blad worden gesteld.
 
@@ -1598,7 +1622,7 @@ Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het
 
 3. Voorts mag de totale waarde van deze producten niet meer bedragen dan 500 ecu voor kleine zendingen of 1200 ecu voor producten die deel uitmaken van de persoonlijke bagage van reizigers.
 
-#### Artikel 26. Bewijsstukken
+##### Artikel 26. Bewijsstukken
 
 De in artikel 16, lid 3, en artikel 20, lid 3, bedoelde documenten aan de hand waarvan wordt aangetoond dat producten die door een EUR.1-certificaat of een factuurverklaring worden gedekt producten van oorsprong zijn uit de Gemeenschap of uit Jordanië en aan de andere voorwaarden van dit Protocol voldoen, kunnen onder meer de volgende zijn:
 
@@ -1610,7 +1634,7 @@ De in artikel 16, lid 3, en artikel 20, lid 3, bedoelde documenten aan de hand w
 
 - d. EUR.1-certificaten of factuurverklaringen waaruit de oorsprong van de gebruikte materialen blijkt, die overeenkomstig dit Protocol in de Gemeenschap of in Jordanië zijn afgegeven of opgesteld.
 
-#### Artikel 27. Bewaring van oorsprongsbewijzen en andere bewijsstukken
+##### Artikel 27. Bewaring van oorsprongsbewijzen en andere bewijsstukken
 
 1. De exporteur die om de afgifte van een EUR.1-certificaat verzoekt, bewaart de in artikel 16, lid 3 bedoelde bewijsstukken gedurende ten minste drie jaar.
 
@@ -1620,13 +1644,13 @@ De in artikel 16, lid 3, en artikel 20, lid 3, bedoelde documenten aan de hand w
 
 4. De douaneautoriteiten van het land van invoer bewaren de EUR.1-certificaten en factuurverklaringen die bij hen werden ingediend gedurende ten minste drie jaar.
 
-#### Artikel 28. Verschillen en vormfouten
+##### Artikel 28. Verschillen en vormfouten
 
 1. Worden geringe verschillen vastgesteld tussen de gegevens in het bewijs van oorsprong en de gegevens in de documenten die in verband met de formaliteiten bij invoer bij het douanekantoor worden ingediend, dan is het bewijs van oorsprong daardoor niet automatisch ongeldig, indien blijkt dat het wel degelijk met de aangebrachte producten overeenstemt.
 
 2. Kennelijke vormfouten zoals typefouten op het bewijs van oorsprong maken dit document niet ongeldig, indien deze fouten niet van dien aard zijn dat zij twijfel doen rijzen over de juistheid van de in daarin vermelde gegevens.
 
-#### Artikel 29. In ecu uitgedrukte bedragen
+##### Artikel 29. In ecu uitgedrukte bedragen
 
 1. Het land van uitvoer stelt de tegenwaarde vast in zijn nationale valuta van de in ecu uitgedrukte bedragen en deelt deze via de Commissie van de Europese Gemeenschappen aan de landen van invoer mede.
 
@@ -1638,13 +1662,13 @@ De in artikel 16, lid 3, en artikel 20, lid 3, bedoelde documenten aan de hand w
 
 ## TITEL VI. REGELINGEN VOOR ADMINISTRATIEVE SAMENWERKING
 
-#### Artikel 30. Wederzijdse bijstand
+##### Artikel 30. Wederzijdse bijstand
 
 1. De douaneautoriteiten van de lidstaten van de Gemeenschap en van Jordanië doen elkaar, via de Commissie van de Europese Gemeenschappen, afdrukken toekomen van de stempels die in hun douanekantoren worden gebruikt bij de afgifte van EUR.1-certificaten, alsmede de adressen van de douaneautoriteiten die belast zijn met de controle van deze certificaten en de factuurverklaringen.
 
 2. Met het oog op de correcte toepassing van dit Protocol verlenen de Gemeenschap en Jordanië elkaar, via de bevoegde douane-instanties, bijstand bij de controle op de echtheid van de EUR.1-certificaten en de factuurverklaringen en de juistheid van de daarin vermelde gegevens.
 
-#### Artikel 31. Controle van oorsprongsbewijzen
+##### Artikel 31. Controle van oorsprongsbewijzen
 
 1. Bewijzen van oorsprong worden achteraf door middel van steekproeven gecontroleerd, alsmede wanneer de douaneautoriteiten van het land van invoer redenen hebben om te twijfelen aan de echtheid van deze documenten, de oorsprong van de betrokken producten of de naleving van de andere voorwaarden van dit Protocol.
 
@@ -1658,17 +1682,17 @@ De in artikel 16, lid 3, en artikel 20, lid 3, bedoelde documenten aan de hand w
 
 6. Indien bij gegronde twijfel binnen tien maanden na het verzoek om controle geen antwoord is ontvangen, of indien het antwoord niet voldoende gegevens bevat om de echtheid van het betrokken document of de werkelijke oorsprong van de producten vast te stellen, kennen de aanvragende douaneautoriteiten de preferentiële behandeling niet toe, behoudens buitengewone omstandigheden.
 
-#### Artikel 32. Regeling van geschillen
+##### Artikel 32. Regeling van geschillen
 
 Geschillen ten aanzien van de in artikel 31 bedoelde controles die niet onderling geregeld kunnen worden tussen de douaneautoriteiten die de controle hebben aangevraagd en de douaneautoriteiten die deze hebben moeten uitvoeren, en problemen in verband met de interpretatie van dit Protocol, worden aan het Associatiecomité voorgelegd.
 
 In alle gevallen is de wetgeving van het land van invoer van toepassing op de regeling van geschillen tussen een importeur en de douaneautoriteiten van het land van invoer.
 
-#### Artikel 33. Sancties
+##### Artikel 33. Sancties
 
 Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen met het doel producten onder de preferentiële regeling te doen vallen, worden sancties getroffen.
 
-#### Artikel 34. Vrije zones
+##### Artikel 34. Vrije zones
 
 1. De Gemeenschap en Jordanië nemen alle nodige maatregelen om te voorkomen dat producten die onder geleide van een bewijs van de oorsprong worden verhandeld en die tijdens het vervoer in een op hun grondgebied gelegen vrije zone verblijven, door andere goederen worden vervangen of andere behandelingen ondergaan dan die welke gebruikelijk zijn om ze in goede staat te bewaren.
 
@@ -1676,7 +1700,7 @@ Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen 
 
 ## TITEL VII. CEUTA EN MELILLA
 
-#### Artikel 35. Toepassing van het Protocol
+##### Artikel 35. Toepassing van het Protocol
 
 1. De in artikel 2 gebruikte term „Gemeenschap" heeft geen betrekking op Ceuta en Melilla.
 
@@ -1684,7 +1708,7 @@ Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen 
 
 3. Bij toepassing van lid 2 op producten van oorsprong uit Ceuta en Melilla, is dit Protocol van overeenkomstige toepassing met inachtneming van de bijzondere voorwaarden van artikel 36.
 
-#### Artikel 36. Bijzondere voorwaarden
+##### Artikel 36. Bijzondere voorwaarden
 
 1. Mits zij rechtstreeks zijn vervoerd overeenkomstig het bepaalde in artikel 12, worden beschouwd als:
 
@@ -1716,19 +1740,19 @@ Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen 
 
 ## TITEL VIII. SLOTBEPALINGEN
 
-#### Artikel 37. Wijziging van het Protocol
+##### Artikel 37. Wijziging van het Protocol
 
 Het Associatiecomité kan besluiten de bepalingen van dit Protocol te wijzigen.
 
-#### Artikel 38. Tenuitvoerlegging van het Protocol
+##### Artikel 38. Tenuitvoerlegging van het Protocol
 
 De Gemeenschap en Jordanië nemen, ieder voor zich, de maatregelen die nodig zijn voor de tenuitvoerlegging van dit Protocol.
 
-#### Artikel 39. Goederen in doorvoer of in opslag
+##### Artikel 39. Goederen in doorvoer of in opslag
 
 De Overeenkomst kan worden toegepast op goederen die aan de bepalingen van dit Protocol voldoen en die op de datum van inwerkingtreding van de Overeenkomst onderweg zijn of die in de Gemeenschap of in Jordanië tijdelijk zijn opgeslagen of zich daar in een douane-entrepot of vrije zone bevinden, mits binnen vier maanden na die datum een EUR.1-certificaat bij de douaneautoriteiten van de staat van invoer wordt ingediend dat achteraf door de bevoegde instanties van de staat van uitvoer is opgesteld, tezamen met de documenten waaruit blijkt dat de goederen rechtstreeks zijn vervoerd.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit protocol wordt verstaan onder:
 
@@ -1740,13 +1764,13 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - d. „persoonsgegevens": alle inlichtingen over een bepaalde of te bepalen natuurlijke persoon.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 1. De partijen verlenen elkaar bijstand, op de onder hun rechtsbevoegdheid vallende gebieden, en op de wijze en onder de voorwaarden als in dit protocol vastgesteld, ten aanzien van de preventie, de opsporing en het onderzoek van overtredingen van de douanewetgeving.
 
 2. De bijstand in douanezaken waarin dit protocol voorziet, geldt voor elke administratieve autoriteit van de partijen die bevoegd is voor de toepassing van dit protocol. Deze bijstand doet geen afbreuk aan de regels betreffende de wederzijdse bijstand in strafzaken en geldt niet voor informatie die is verkregen krachtens bevoegdheden die op verzoek van de rechterlijke autoriteiten worden uitgeoefend, tenzij deze autoriteiten hiermee instemmen.
 
-#### Artikel 3. Bijstand op verzoek
+##### Artikel 3. Bijstand op verzoek
 
 1. Op aanvraag van de verzoekende autoriteit verschaft de aangezochte autoriteit eerstgenoemde alle ter zake dienende informatie die deze nodig heeft voor de correcte toepassing van de douanewetgeving, met inbegrip van informatie betreffende vastgestelde of voorgenomen transacties die met deze wetgeving in strijd zijn of kunnen zijn.
 
@@ -1762,7 +1786,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - d. vervoermiddelen waarvan op redelijke gronden wordt vermoed dat zij bij het plegen van overtredingen van de douanewetgeving zijn gebruikt, worden gebruikt of zouden kunnen worden gebruikt.
 
-#### Artikel 4. Bijstand op eigen initiatief
+##### Artikel 4. Bijstand op eigen initiatief
 
 De partijen verlenen elkaar bijstand, in overeenstemming met hun wetten, voorschriften en andere rechtsinstrumenten, indien zij zulks noodzakelijk achten voor de juiste toepassing van de douanewetgeving, in het bijzonder indien zij informatie hebben verkregen over:
 
@@ -1776,7 +1800,7 @@ De partijen verlenen elkaar bijstand, in overeenstemming met hun wetten, voorsch
 
 - –. vervoermiddelen waarvan redelijkerwijze vermoed kan worden dat zij bij overtredingen van de douanewetgeving zijn gebruikt, worden gebruikt of zouden kunnen worden gebruikt.
 
-#### Artikel 5. Afgifte van documenten/Kennisgeving van besluiten
+##### Artikel 5. Afgifte van documenten/Kennisgeving van besluiten
 
 Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, overeenkomstig haar wetgeving, alle maatregelen die nodig zijn voor:
 
@@ -1786,7 +1810,7 @@ Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, overe
 
 in verband met de toepassing van dit protocol, aan een geadresseerde die op haar grondgebied verblijft of gevestigd is. In dergelijk geval is artikel 6, lid 3, van toepassing.
 
-#### Artikel 6. Vorm en inhoud van verzoeken om bijstand
+##### Artikel 6. Vorm en inhoud van verzoeken om bijstand
 
 1. Verzoeken in het kader van dit protocol worden schriftelijk gedaan en gaan vergezeld van de bescheiden die voor de behandeling ervan noodzakelijk zijn. In spoedeisende gevallen kunnen mondelinge verzoeken worden aanvaard, mits zij onmiddellijk schriftelijk worden bevestigd.
 
@@ -1808,7 +1832,7 @@ in verband met de toepassing van dit protocol, aan een geadresseerde die op haar
 
 4. Indien een verzoek niet in de juiste vorm wordt gedaan, kan om correctie of aanvulling worden verzocht. Er kunnen echter reeds voorzorgsmaatregelen worden genomen.
 
-#### Artikel 7. Behandeling van verzoeken
+##### Artikel 7. Behandeling van verzoeken
 
 1. De aangezochte autoriteit behandelt verzoeken om bijstand, binnen de grenzen van haar bevoegdheden en met de middelen waarover zij beschikt, alsof zij voor eigen rekening of in opdracht van een andere autoriteit van dezelfde partij handelt, door reeds beschikbare informatie te verstrekken en het nodige onderzoek te verrichten of te doen verrichten. Deze bepaling is eveneens van toepassing op een administratieve dienst waaraan de aangezochte autoriteit het verzoek heeft doorgezonden, indien de laatstgenoemde niet zelfstandig kan handelen.
 
@@ -1818,13 +1842,13 @@ in verband met de toepassing van dit protocol, aan een geadresseerde die op haar
 
 4. Ambtenaren van een partij kunnen, met de toestemming van de andere partij en op de door deze gestelde voorwaarden, aanwezig zijn bij onderzoek dat op het grondgebied van de laatstgenoemde wordt verricht.
 
-#### Artikel 8. Vorm waarin de informatie dient te worden verstrekt
+##### Artikel 8. Vorm waarin de informatie dient te worden verstrekt
 
 1. De aangezochte autoriteit deelt de uitslag van het onderzoek aan de verzoekende autoriteit mede in de vorm van bescheiden, voor echt gewaarmerkte afschriften van bescheiden, rapporten en dergelijke.
 
 2. De in lid 1 bedoelde bescheiden kunnen worden vervangen door informatie die, in welke vorm dan ook, met behulp van systemen voor automatische gegevensverwerking voor hetzelfde doel wordt verstrekt.
 
-#### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
+##### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
 
 1. De partijen kunnen de in dit protocol bedoelde bijstand weigeren wanneer het verlenen ervan:
 
@@ -1840,7 +1864,7 @@ in verband met de toepassing van dit protocol, aan een geadresseerde die op haar
 
 3. Indien bijstand wordt geweigerd, dient dit besluit en de redenen ervan terstond aan de verzoekende autoriteit te worden medegedeeld.
 
-#### Artikel 10. Uitwisseling van gegevens en geheimhoudingsplicht
+##### Artikel 10. Uitwisseling van gegevens en geheimhoudingsplicht
 
 1. Alle informatie die ter uitvoering van dit protocol in welke vorm dan ook wordt verstrekt, heeft een vertrouwelijk karakter. Zij valt onder de geheimhoudingsplicht en geniet de bescherming van de wetgeving ter zake van de partij die ze heeft ontvangen en van de desbetreffende bepalingen die op de instellingen van de Gemeenschap van toepassing zijn.
 
@@ -1852,23 +1876,23 @@ in verband met de toepassing van dit protocol, aan een geadresseerde die op haar
 
 5. De partijen kunnen de overeenkomstig het bepaalde in dit protocol verkregen informatie en geraadpleegde bescheiden als bewijsmateriaal gebruiken in hun rapporten, getuigenverklaringen en in gerechtelijke procedures.
 
-#### Artikel 11. Deskundigen en getuigen
+##### Artikel 11. Deskundigen en getuigen
 
 1. Een onder een aangezochte autoriteit ressorterende ambtenaar kan worden gemachtigd, binnen de perken van de hem verleende machtiging, in het rechtsgebied van een andere partij als getuige of deskundige op te treden in gerechtelijke of administratieve procedures die betrekking hebben op aangelegenheden waarop dit protocol van toepassing is, en daarbij de voor deze procedures noodzakelijke voorwerpen, bescheiden of voor echt gewaarmerkte afschriften van bescheiden over te leggen. In de convocatie dient uitdrukkelijk te worden vermeld over welke aangelegenheid en in welke functie of hoedanigheid de betrokken ambtenaar zal worden ondervraagd.
 
 2. De gemachtigde ambtenaar geniet op het grondgebied van de verzoekende autoriteit dezelfde rechtsbescherming als de eigen ambtenaren van die autoriteit.
 
-#### Artikel 12. Kosten van de bijstand
+##### Artikel 12. Kosten van de bijstand
 
 De partijen brengen elkaar geen kosten in rekening voor uitgaven die ter uitvoering van het bepaalde in dit protocol zijn gemaakt, met uitzondering, in voorkomend geval, van de uitgaven voor deskundigen, getuigen, tolken en vertalers die niet in overheidsdienst zijn.
 
-#### Artikel 13. Tenuitvoerlegging
+##### Artikel 13. Tenuitvoerlegging
 
 1. De nationale douaneautoriteiten van Jordanië, enerzijds, en de bevoegde diensten van de Commissie van de Europese Gemeenschappen en, in voorkomend geval, de douaneautoriteiten van de lidstaten van de Europese Unie, anderzijds. Deze instanties stellen alle praktische maatregelen en bepalingen voor de toepassing van dit protocol vast, rekening houdend met de voorschriften op het gebied van de gegevensbescherming. Zij kunnen, via het Comité Douanesamenwerking, de Associatieraad voorstellen doen voor wijzigingen die huns inziens in dit protocol dienen te worden aangebracht.
 
 2. De partijen plegen overleg over en stellen elkaar in kennis van alle uitvoeringsbepalingen die op grond van dit protocol worden vastgesteld.
 
-#### Artikel 14. Complementariteit
+##### Artikel 14. Complementariteit
 
 Onverminderd artikel 10, doen overeenkomsten inzake wederzijdse bijstand die tussen een of meer lidstaten van de Europese Gemeenschap en Jordanië zijn of worden gesloten geen afbreuk aan de communautaire bepalingen betreffende de uitwisseling, tussen de bevoegde diensten van de Commissie en de douaneautoriteiten van de lidstaten, van alle over douaneaangelegenheden verkregen informatie die voor de Gemeenschap van belang kan zijn.
 
@@ -1924,7 +1948,7 @@ bijeengekomen te Brussel op 24-11-1997, voor de ondertekening van de Overeenkoms
 
 GEDAAN te Brussel, de vierentwintigste november negentienhonderd zevenennegentig.
 
-#### Artikel 11 bis
+##### Artikel 11 bis
 
 1. De douanerechten die gelden voor de invoer in Jordanië van de in lijst C van bijlage III bedoelde verwerkte landbouwproducten van oorsprong uit de Gemeenschap worden afgeschaft met ingang van de datum van inwerkingtreding van de overeenkomst in de vorm van een briefwisseling tussen de Europese Gemeenschap en Jordanië betreffende liberaliseringsmaatregelen voor het onderlinge handelsverkeer en houdende wijziging van de associatieovereenkomst EG-Jordanië, alsmede de vervanging van de bijlagen I, II, III en IV en de protocollen nrs. 1 en 2 bij de overeenkomst.
 
@@ -1942,7 +1966,7 @@ GEDAAN te Brussel, de vierentwintigste november negentienhonderd zevenennegentig
 
 ### HOOFDSTUK 2. LANDBOUWPRODUCTEN
 
-#### Artikel 14 bis
+##### Artikel 14 bis
 
 Voor de handel in landbouwproducten tussen de Gemeenschap en Jordanië worden geen nieuwe douanerechten bij invoer, noch andere heffingen van gelijke werking ingesteld.
 
@@ -1976,37 +2000,37 @@ Voor de handel in landbouwproducten tussen de Gemeenschap en Jordanië worden ge
 
 ## TITEL VIII. INSTITUTIONELE, ALGEMENE EN SLOTBEPALINGEN
 
-#### 1
+##### 1
 
 De in bijlage genoemde producten van oorsprong uit Jordanië mogen in de Gemeenschap worden ingevoerd onder de voorwaarden die hierna en in de bijlage zijn vermeld.
 
-#### 2
+##### 2
 
 a. De douanerechten worden afgeschaft of verlaagd volgens de percentages die naast de betrokken producten in kolom A zijn vermeld.
 
 b. Voor bepaalde producten waarvoor het gemeenschappelijk douanetarief in een ad valorem-douanerecht en in een specifiek douanerecht voorziet, zijn de in de kolommen A en C vermelde verlagingspercentages uitsluitend op de ad valorem-douanerechten van toepassing.
 
-#### 3
+##### 3
 
 Voor bepaalde producten worden de douanerechten afgeschaft binnen de grenzen van de tariefcontingenten die voor elk van deze producten in kolom B zijn vermeld. Voor ingevoerde hoeveelheden die de contingenten overschrijden, worden de douanerechten, afhankelijk van het product, volledig toegepast dan wel verlaagd volgens de percentages in kolom C.
 
-#### 4
+##### 4
 
 Voor bepaalde in lid 3 en in kolom D vermelde producten worden de tariefcontingenten vanaf de inwerkingtreding van de Overeenkomst verhoogd in vier gelijke jaarlijkse stappen, die elk overeenkomen met 3% van deze bedragen.
 
-#### 5
+##### 5
 
 Voor bepaalde in kolom D vermelde producten kan de Gemeenschap een referentiehoeveelheid vaststellen, indien uit de door haar opgestelde jaarlijkse balans van het handelsverkeer blijkt dat de van een product of producten ingevoerde hoeveelheden moeilijkheden dreigen te veroorzaken op de markt van de Gemeenschap. Indien de invoer van een dergelijk product de referentiehoeveelheid overschrijdt, kan de Gemeenschap voor het betrokken product een communautair tariefcontingent openen voor een hoeveelheid die gelijk is aan de referentiehoeveelheid. Voor ingevoerde hoeveelheden die de contingenten overschrijden, worden de douanerechten, afhankelijk van het product, volledig toegepast dan wel verlaagd volgens de percentages in kolom C.
 
-#### 1
+##### 1
 
 De in de bijlage vermelde producten van oorsprong uit de Gemeenschap zijn bij invoer in Jordanië aan de hierna genoemde voorwaarden en aan de in de bijlage vastgestelde voorwaarden onderworpen.
 
-#### 2
+##### 2
 
 De invoerrechten en heffingen van gelijke werking mogen niet hoger zijn dan het in kolom A vermelde percentage.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit protocol wordt verstaan onder:
 
@@ -2038,7 +2062,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 ## TITEL II. DEFINITIE VAN HET BEGRIP „PRODUCTEN VAN OORSPRONG’’
 
-#### Artikel 2. Algemene voorwaarden
+##### Artikel 2. Algemene voorwaarden
 
 1. Voor de toepassing van de overeenkomst worden de volgende producten beschouwd van oorsprong te zijn uit de Gemeenschap:
 
@@ -2056,7 +2080,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 3. De bepalingen van lid 1, onder c), zijn alleen van toepassing indien er een vrijhandelsovereenkomst van toepassing is tussen enerzijds Jordanië en anderzijds de EER/EVA-landen (IJsland, Liechtenstein en Noorwegen).
 
-#### Artikel 3. Cumulatie in de Gemeenschap
+##### Artikel 3. Cumulatie in de Gemeenschap
 
 1. Onverminderd artikel 2, lid 1, worden producten als van oorsprong uit de Gemeenschap beschouwd indien zij daar zijn verkregen door be- of verwerking van materialen van oorsprong uit Zwitserland (met inbegrip van Liechtenstein) (1), IJsland, Noorwegen, Turkije of de Gemeenschap, op voorwaarde dat deze materialen in de Gemeenschap be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
 
@@ -2076,7 +2100,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 De cumulatie waarin dit artikel voorziet, is van toepassing met ingang van de datum die is aangegeven in de kennisgeving in de C-reeks van het **Publicatieblad van de Europese Unie**. De Gemeenschap zal Jordanië door tussenkomst van de Commissie van de Europese Gemeenschappen nadere gegevens verstrekken over de overeenkomsten, met inbegrip van de datums van inwerkingtreding, en de daarin opgenomen oorsprongsregels, die met de andere in de leden 1 en 2 genoemde landen worden toegepast.
 
-#### Artikel 4. Cumulatie in Jordanië
+##### Artikel 4. Cumulatie in Jordanië
 
 1. Onverminderd artikel 2, lid 2, worden producten als van oorsprong uit Jordanië beschouwd indien zij daar zijn verkregen door be- of verwerking van materialen van oorsprong uit Zwitserland (met inbegrip van Liechtenstein)1)Het Vorstendom Liechtenstein heeft een douane-unie met Zwitserland en is partij bij de Overeenkomst betreffende de Europese Economische Ruimte., IJsland, Noorwegen, Roemenië, Turkije of de Gemeenschap, op voorwaarde dat deze materialen in Jordanië be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.
 
@@ -2098,7 +2122,7 @@ De cumulatie waarin dit artikel voorziet, is van toepassing met ingang van de da
 
 Jordanië zal de Gemeenschap door tussenkomst van de Commissie van de Europese Gemeenschappen nadere gegevens verstrekken over de overeenkomsten, met inbegrip van de datums van inwerkingtreding, en de daarin opgenomen oorsprongsregels, die met de andere in de leden 1 en 2 genoemde landen worden toegepast.
 
-#### Artikel 5. Geheel en al verkregen producten
+##### Artikel 5. Geheel en al verkregen producten
 
 1. Als geheel en al in de Gemeenschap of in Jordanië verkregen worden beschouwd:
 
@@ -2136,7 +2160,7 @@ Jordanië zal de Gemeenschap door tussenkomst van de Commissie van de Europese G
 
 - e. waarvan de bemanning voor ten minste 75% bestaat uit onderdanen van lidstaten of van Jordanië.
 
-#### Artikel 6. Toereikende bewerking of verwerking
+##### Artikel 6. Toereikende bewerking of verwerking
 
 1. Niet geheel en al verkregen producten worden geacht een toereikende bewerking of verwerking te hebben ondergaan in de zin van artikel 2, indien aan de voorwaarden van de lijst in bijlage II is voldaan.
 
@@ -2150,7 +2174,7 @@ In deze lijst is voor alle onder deze overeenkomst vallende producten aangegeven
 
 3. De leden 1 en 2 zijn van toepassing onder voorbehoud van artikel 7.
 
-#### Artikel 7. Ontoereikende be- of verwerking
+##### Artikel 7. Ontoereikende be- of verwerking
 
 1. Behoudens lid 2 worden de volgende be- of verwerkingen beschouwd als ontoereikend om de oorsprong te verlenen, ongeacht of aan de voorwaarden van artikel 6 is voldaan:
 
@@ -2188,7 +2212,7 @@ In deze lijst is voor alle onder deze overeenkomst vallende producten aangegeven
 
 2. Om te bepalen of de be- of verwerkingen die een bepaald product heeft ondergaan ontoereikend zijn in de zin van lid 1 worden alle be- of verwerkingen die dit product in de Gemeenschap of in Jordanië heeft ondergaan tezamen genomen.
 
-#### Artikel 8. Determinerende eenheid
+##### Artikel 8. Determinerende eenheid
 
 1. De determinerende eenheid voor de toepassing van de bepalingen van dit protocol is het product dat bij de bepaling van de indeling volgens het geharmoniseerd systeem als de basiseenheid wordt beschouwd. Hieruit volgt:
 
@@ -2198,17 +2222,17 @@ In deze lijst is voor alle onder deze overeenkomst vallende producten aangegeven
 
 2. Wanneer volgens algemene regel 5 voor de interpretatie van het geharmoniseerd systeem de verpakking meetelt voor het vaststellen van de indeling, telt deze ook mee voor het vaststellen van de oorsprong.
 
-#### Artikel 9. Accessoires, vervangingsonderdelen en gereedschappen
+##### Artikel 9. Accessoires, vervangingsonderdelen en gereedschappen
 
 Accessoires, vervangingsonderdelen en gereedschappen die samen met materieel, machines, apparaten of voertuigen worden geleverd en deel uitmaken van de normale uitrusting daarvan en in de prijs daarvan zijn inbegrepen of niet afzonderlijk in rekening worden gebracht, worden geacht één geheel te vormen met het materieel en de machines, apparaten of voertuigen in kwestie.
 
-#### Artikel 10. Stellen of assortimenten
+##### Artikel 10. Stellen of assortimenten
 
 Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie van het geharmoniseerd systeem, worden als van oorsprong beschouwd indien alle samenstellende delen van oorsprong zijn. Een stel of assortiment bestaande uit producten van oorsprong en producten die niet van oorsprong zijn, wordt evenwel als van oorsprong beschouwd indien de waarde van de producten die niet van oorsprong zijn niet meer dan 15% van de prijs af fabriek van het stel of assortiment bedraagt.
 
 ## TITEL III. TERRITORIALE VOORWAARDEN
 
-#### Artikel 11. Territorialiteitsbeginsel
+##### Artikel 11. Territorialiteitsbeginsel
 
 1. Aan de in titel II genoemde voorwaarden met betrekking tot het verkrijgen van de oorsprong moet zonder onderbreking in de Gemeenschap of in Jordanië zijn voldaan.
 
@@ -2218,7 +2242,7 @@ Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie va
 
 - b. dat zij tijdens de periode dat ze waren uitgevoerd geen andere be- of verwerkingen hebben ondergaan dan die welke noodzakelijk waren om ze in goede staat te bewaren.
 
-#### Artikel 12. Territorialiteitsbeginsel
+##### Artikel 12. Territorialiteitsbeginsel
 
 1. Behoudens artikel 2, lid 1, onder c), de artikelen 3 en 4, en lid 3 van dit artikel moet aan de voorwaarden in titel II voor het verkrijgen van de oorsprong zonder onderbreking in de Gemeenschap of in Jordanië zijn voldaan.
 
@@ -2248,7 +2272,7 @@ Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie va
 
 8. De buiten de Gemeenschap of Jordanië verrichte be- of verwerkingen als bedoeld in dit artikel vinden plaats in het kader van de regeling passieve veredeling of een soortgelijke regeling.
 
-#### Artikel 13. Rechtstreeks vervoer
+##### Artikel 13. Rechtstreeks vervoer
 
 1. De bij deze overeenkomst vastgestelde preferentiële regeling is uitsluitend van toepassing op producten die aan de voorwaarden van dit protocol voldoen en die rechtstreeks tussen de Gemeenschap en Jordanië of over het grondgebied van een ander in de artikelen 3 en 4 genoemd land waarmee cumulatie van toepassing is, zijn vervoerd. Goederen die één enkele zending vormen, kunnen via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dit grondgebied, voor zover ze in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren. Producten van oorsprong mogen via een pijpleiding door een ander grondgebied dan dat van de Gemeenschap of van Jordanië worden vervoerd.
 
@@ -2266,7 +2290,7 @@ Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie va
 
 - c. hetzij, bij gebreke van bovengenoemde stukken, enig ander bewijsstuk.
 
-#### Artikel 14. Verbod op teruggave of vrijstelling van rechten
+##### Artikel 14. Verbod op teruggave of vrijstelling van rechten
 
 1. Niet van oorsprong zijnde materialen die gebruikt zijn bij de vervaardiging van producten van oorsprong uit de Gemeenschap of Jordanië waarvoor overeenkomstig de bepalingen van titel V een bewijs van oorsprong is afgegeven of opgesteld, komen in de Gemeenschap of in Jordanië niet in aanmerking voor teruggave of vrijstelling van douanerechten in welke vorm dan ook.
 
@@ -2282,7 +2306,7 @@ Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie va
 
 ## TITEL V. BEWIJS VAN DE OORSPRONG
 
-#### Artikel 15. Algemene voorwaarden
+##### Artikel 15. Algemene voorwaarden
 
 1. Deze Overeenkomst is van toepassing op producten van oorsprong uit de Gemeenschap die in Jordanië worden ingevoerd en producten van oorsprong uit Jordanië die in de Gemeenschap worden ingevoerd, op vertoon van:
 
@@ -2292,7 +2316,7 @@ Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie va
 
 2. In afwijking van lid 1 vallen producten van oorsprong in de zin van dit Protocol in de in artikel 25 bedoelde gevallen onder de toepassing van deze Overeenkomst zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.
 
-#### Artikel 16. Algemene voorwaarden
+##### Artikel 16. Algemene voorwaarden
 
 1. De bepalingen van deze overeenkomst zijn van toepassing op producten van oorsprong uit de Gemeenschap die in Jordanië worden ingevoerd en op producten van oorsprong uit Jordanië die in de Gemeenschap worden ingevoerd, op vertoon van een van de volgende bewijzen van oorsprong:
 
@@ -2304,7 +2328,7 @@ Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie va
 
 2. Niettegenstaande lid 1 vallen producten van oorsprong in de zin van dit protocol in de in artikel 27 bedoelde gevallen onder de toepassing van de bepalingen van deze overeenkomst zonder dat een van de in lid 1 bedoelde bewijzen van oorsprong behoeft te worden overgelegd.
 
-#### Artikel 17. Afgifte achteraf van een EUR.1-certificaat
+##### Artikel 17. Afgifte achteraf van een EUR.1-certificaat
 
 1. In afwijking van artikel 16, lid 7, kan een EUR.1-certificaat bij wijze van uitzondering worden afgegeven na de uitvoer van de goederen waarop het betrekking heeft, indien
 
@@ -2362,7 +2386,7 @@ Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie va
 
 5. De in lid 4 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen" van het EUR.1- certificaat.
 
-#### Artikel 18. Afgifte van een duplicaat van een EUR.1-certificaat
+##### Artikel 18. Afgifte van een duplicaat van een EUR.1-certificaat
 
 1. In geval van diefstal, verlies of vernietiging van een EUR.1-certificaat, kan de exporteur de douaneautoriteiten die dit certificaat hadden afgegeven, verzoeken een duplicaat op te maken aan de hand van de uitvoerdocumenten die in hun bezit zijn.
 
@@ -2416,7 +2440,7 @@ Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie va
 
 4. Het duplicaat, dat dezelfde datum van afgifte draagt als het oorspronkelijke EUR.1-certificaat geldt vanaf die datum.
 
-#### Artikel 19. Afgifte van een duplicaat van een certificaat inzake goederenverkeer EUR.1 of EUR-MED
+##### Artikel 19. Afgifte van een duplicaat van een certificaat inzake goederenverkeer EUR.1 of EUR-MED
 
 1. In geval van diefstal, verlies of vernietiging van een certificaat inzake goederenverkeer EUR.1 of EUR-MED, kan de exporteur de douaneautoriteiten die dit certificaat hadden afgegeven, verzoeken een duplicaat op te maken aan de hand van de uitvoerdocumenten die in hun bezit zijn.
 
@@ -2426,11 +2450,11 @@ Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie va
 
 4. Het duplicaat, dat dezelfde datum van afgifte draagt als het oorspronkelijke certificaat inzake goederenverkeer EUR.1 of EUR-MED, is vanaf die datum geldig.
 
-#### Artikel 20. Afgifte van een certificaat inzake goederenverkeer EUR.1 of EUR-MED aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
+##### Artikel 20. Afgifte van een certificaat inzake goederenverkeer EUR.1 of EUR-MED aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
 
 Voor producten van oorsprong die in de Gemeenschap of in Jordanië onder toezicht van een douanekantoor zijn geplaatst, kan het oorspronkelijke bewijs van oorsprong door een of meer certificaten inzake goederenverkeer EUR.1 of EUR-MED worden vervangen bij verzending van deze producten of een gedeelte daarvan naar een andere plaats in de Gemeenschap of in Jordanië. Dit certificaat of deze certificaten EUR.1 of EUR-MED worden afgegeven door het douanekantoor dat op de producten toezicht houdt.
 
-#### Artikel 21. Gescheiden boekhouding
+##### Artikel 21. Gescheiden boekhouding
 
 1. Wanneer het aanzienlijke kosten of materiële moeilijkheden met zich brengt om afzonderlijke voorraden aan te houden van identieke en onderling verwisselbare materialen die van oorsprong en die niet van oorsprong zijn, kunnen de douaneautoriteiten op schriftelijk verzoek van de betrokkene toestaan dat voor het beheer van deze voorraden de methode van gescheiden boekhouding (hierna: „de methode’’ genoemd) wordt gebruikt.
 
@@ -2444,7 +2468,7 @@ Voor producten van oorsprong die in de Gemeenschap of in Jordanië onder toezich
 
 6. De douaneautoriteiten houden toezicht op het gebruik van de vergunning en kunnen deze intrekken wanneer de vergunninghouder deze niet correct gebruikt of niet aan een van de andere in dit protocol omschreven voorwaarden voldoet.
 
-#### Artikel 22. Voorwaarden voor het opstellen van een factuurverklaring of een factuurverklaring EUR-MED
+##### Artikel 22. Voorwaarden voor het opstellen van een factuurverklaring of een factuurverklaring EUR-MED
 
 1. Een factuurverklaring of een factuurverklaring EUR-MED als bedoeld in artikel 16, lid 1, onder c), kan worden opgesteld door:
 
@@ -2488,7 +2512,7 @@ of
 
 8. Een factuurverklaring of een factuurverklaring EUR-MED kan door de exporteur worden opgesteld bij of na de uitvoer van de goederen waarop zij betrekking heeft, doch dient binnen twee jaar na de invoer van deze producten in het land van invoer te worden aangeboden.
 
-#### Artikel 23. Toegelaten exporteurs
+##### Artikel 23. Toegelaten exporteurs
 
 1. De douaneautoriteiten van het land van uitvoer kunnen een exporteur (hierna „toegelaten exporteur’’ genoemd) die veelvuldig producten verzendt waarop de overeenkomst van toepassing is vergunning verlenen factuurverklaringen of factuurverklaringen EUR-MED op te stellen ongeacht de waarde van de betrokken producten. Om voor een dergelijke vergunning in aanmerking te komen, moet de exporteur naar het oordeel van de douaneautoriteiten de nodige waarborgen bieden met betrekking tot de controle op de oorsprong van de producten en de naleving van alle andere voorwaarden van dit protocol.
 
@@ -2500,7 +2524,7 @@ of
 
 5. De douaneautoriteiten kunnen de vergunning te allen tijde intrekken. Zij zijn verplicht dit te doen wanneer de toegelaten exporteur niet meer de in lid 1 bedoelde garanties biedt, niet meer aan de in lid 2 bedoelde voorwaarden voldoet, of de vergunning oneigenlijk gebruikt.
 
-#### Artikel 24. Geldigheid van bewijzen van oorsprong
+##### Artikel 24. Geldigheid van bewijzen van oorsprong
 
 1. Bewijzen van oorsprong zijn vier maanden geldig vanaf de datum van afgifte in het land van uitvoer en moeten binnen deze periode worden ingediend bij de douaneautoriteiten van het land van invoer.
 
@@ -2508,15 +2532,15 @@ of
 
 3. In andere gevallen van verlate indiening kunnen de douaneautoriteiten van het land van invoer de bewijzen van oorsprong aanvaarden indien de producten vóór het verstrijken van genoemde termijn bij hen zijn aangebracht.
 
-#### Artikel 25. Overlegging van bewijzen van oorsprong
+##### Artikel 25. Overlegging van bewijzen van oorsprong
 
 Bewijzen van oorsprong worden bij de douaneautoriteiten van het land van invoer ingediend overeenkomstig de aldaar geldende procedures. Deze autoriteiten kunnen om een vertaling van dit bewijs vragen. Zij kunnen voorts eisen dat de aangifte ten invoer vergezeld gaat van een verklaring van de importeur dat de producten aan de voorwaarden voor de toepassing van de overeenkomst voldoen.
 
-#### Artikel 26. Invoer in deelzendingen
+##### Artikel 26. Invoer in deelzendingen
 
 Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het land van invoer vastgestelde voorwaarden, gedemonteerde of niet-gemonteerde producten in de zin van algemene regel 2 a) voor de interpretatie van het geharmoniseerd systeem, vallende onder de afdelingen XVI en XVII of de posten 7308 en 9406 van het geharmoniseerd systeem, in deelzendingen worden ingevoerd, wordt één enkel bewijs van oorsprong bij de douaneautoriteiten ingediend bij de invoer van de eerste deelzending.
 
-#### Artikel 27. Vrijstelling van bewijs van oorsprong
+##### Artikel 27. Vrijstelling van bewijs van oorsprong
 
 1. Goederen die in kleine zendingen door particulieren aan particulieren worden verzonden of die deel uitmaken van de persoonlijke bagage van reizigers worden als producten van oorsprong toegelaten zonder dat een bewijs van oorsprong behoeft te worden overgelegd, voor zover aan zulke goederen ieder handelskarakter vreemd is en verklaard wordt dat zij aan de voorwaarden voor de toepassing van dit protocol voldoen en er over de juistheid van deze verklaring geen twijfel bestaat. Voor postzendingen kan deze verklaring op het douaneaangifteformulier CN22/CN23 of op een daaraan gehecht blad worden gesteld.
 
@@ -2524,7 +2548,7 @@ Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het
 
 3. Voorts mag de totale waarde van deze producten niet hoger zijn dan 500 EUR voor kleine zendingen of 1 200 EUR voor producten die deel uitmaken van de persoonlijke bagage van reizigers.
 
-#### Artikel 28. Bewijsstukken
+##### Artikel 28. Bewijsstukken
 
 De in artikel 17, lid 3, en artikel 22, lid 5, bedoelde documenten aan de hand waarvan wordt aangetoond dat producten die door een certificaat inzake goederenverkeer EUR.1 of EUR-MED of een factuurverklaring of een factuurverklaring EUR-MED worden gedekt producten van oorsprong zijn uit de Gemeenschap, Jordanië of een van de andere in de artikelen 3 en 4 genoemde landen en aan de andere voorwaarden van dit protocol voldoen, kunnen onder meer de volgende zijn:
 
@@ -2538,7 +2562,7 @@ De in artikel 17, lid 3, en artikel 22, lid 5, bedoelde documenten aan de hand w
 
 - e. passende bewijsstukken betreffende be- of verwerking buiten de Gemeenschap of Jordanië in toepassing van artikel 12 waaruit blijkt dat aan de voorwaarden van dat artikel is voldaan.
 
-#### Artikel 29. Bewaring van de bewijzen van oorsprong en de andere bewijsstukken
+##### Artikel 29. Bewaring van de bewijzen van oorsprong en de andere bewijsstukken
 
 1. De exporteur die om de afgifte van een certificaat inzake goederenverkeer EUR.1 of EUR-MED verzoekt, bewaart de in artikel 17, lid 3, bedoelde bewijsstukken gedurende een periode van ten minste drie jaar.
 
@@ -2550,13 +2574,13 @@ De in artikel 17, lid 3, en artikel 22, lid 5, bedoelde documenten aan de hand w
 
 ## TITEL VI. REGELINGEN VOOR ADMINISTRATIEVE SAMENWERKING
 
-#### Artikel 30. Wederzijdse bijstand
+##### Artikel 30. Wederzijdse bijstand
 
 1. De douaneautoriteiten van de lidstaten van de Gemeenschap en van Jordanië doen elkaar, via de Commissie van de Europese Gemeenschappen, afdrukken toekomen van de stempels die in hun douanekantoren worden gebruikt bij de afgifte van EUR.1-certificaten, alsmede de adressen van de douaneautoriteiten die belast zijn met de controle van deze certificaten en de factuurverklaringen.
 
 2. Met het oog op de correcte toepassing van dit Protocol verlenen de Gemeenschap en Jordanië elkaar, via de bevoegde douane-instanties, bijstand bij de controle op de echtheid van de EUR.1-certificaten en de factuurverklaringen en de juistheid van de daarin vermelde gegevens.
 
-#### Artikel 31. Controle van oorsprongsbewijzen
+##### Artikel 31. Controle van oorsprongsbewijzen
 
 1. Bewijzen van oorsprong worden achteraf door middel van steekproeven gecontroleerd, alsmede wanneer de douaneautoriteiten van het land van invoer redenen hebben om te twijfelen aan de echtheid van deze documenten, de oorsprong van de betrokken producten of de naleving van de andere voorwaarden van dit Protocol.
 
@@ -2570,13 +2594,13 @@ De in artikel 17, lid 3, en artikel 22, lid 5, bedoelde documenten aan de hand w
 
 6. Indien bij gegronde twijfel binnen tien maanden na het verzoek om controle geen antwoord is ontvangen, of indien het antwoord niet voldoende gegevens bevat om de echtheid van het betrokken document of de werkelijke oorsprong van de producten vast te stellen, kennen de aanvragende douaneautoriteiten de preferentiële behandeling niet toe, behoudens buitengewone omstandigheden.
 
-#### Artikel 32. Wederzijdse bijstand
+##### Artikel 32. Wederzijdse bijstand
 
 1. De douaneautoriteiten van de lidstaten van de Gemeenschap en van Jordanië doen elkaar via de Europese Commissie afdrukken toekomen van de stempels die in hun douanekantoren worden gebruikt bij de afgifte van certificaat inzake goederenverkeer EUR.1 of EUR-MED, alsmede de adressen van de douaneautoriteiten die belast zijn met de controle van deze certificaten en de factuurverklaringen en factuurverklaringen EUR-MED of leveranciersverklaringen.
 
 2. Met het oog op de correcte toepassing van dit protocol verlenen de Gemeenschap en Jordanië elkaar, via de bevoegde douane-instanties, bijstand bij de controle op de echtheid van de EUR.1- en EUR-MED-certificaten en de factuurverklaringen en factuurverklaringen EUR-MED en de juistheid van de daarin vermelde gegevens.
 
-#### Artikel 33. Controle van de bewijzen van oorsprong
+##### Artikel 33. Controle van de bewijzen van oorsprong
 
 1. Bewijzen van oorsprong worden achteraf steekproefsgewijs gecontroleerd, alsmede wanneer de douaneautoriteiten van het land van invoer redenen hebben om te twijfelen aan de echtheid van deze documenten, de oorsprong van de betrokken producten of de naleving van de andere voorwaarden van dit protocol.
 
@@ -2590,7 +2614,7 @@ De in artikel 17, lid 3, en artikel 22, lid 5, bedoelde documenten aan de hand w
 
 6. Indien bij gegronde twijfel binnen tien maanden na het verzoek om controle geen antwoord is ontvangen of indien het antwoord niet voldoende gegevens bevat om de echtheid van het betrokken document of de werkelijke oorsprong van de producten vast te stellen, kennen de aanvragende douaneautoriteiten de preferentiële behandeling niet toe, behoudens buitengewone omstandigheden.
 
-#### Artikel 34. Regeling van geschillen
+##### Artikel 34. Regeling van geschillen
 
 Geschillen ten aanzien van de in artikel 33 bedoelde controles die niet onderling geregeld kunnen worden door de douaneautoriteiten die de controle hebben aangevraagd en de douaneautoriteiten die deze hebben moeten uitvoeren, en problemen in verband met de interpretatie van dit protocol worden aan het Associatiecomité voorgelegd.
 
@@ -2598,7 +2622,7 @@ In alle gevallen is de wetgeving van het land van invoer van toepassing op de re
 
 ## TITEL VII. CEUTA EN MELILLA
 
-#### Artikel 35. Toepassing van het Protocol
+##### Artikel 35. Toepassing van het Protocol
 
 1. De in artikel 2 gebruikte term „Gemeenschap" heeft geen betrekking op Ceuta en Melilla.
 
@@ -2606,7 +2630,7 @@ In alle gevallen is de wetgeving van het land van invoer van toepassing op de re
 
 3. Bij toepassing van lid 2 op producten van oorsprong uit Ceuta en Melilla, is dit Protocol van overeenkomstige toepassing met inachtneming van de bijzondere voorwaarden van artikel 36.
 
-#### Artikel 36. Bijzondere voorwaarden
+##### Artikel 36. Bijzondere voorwaarden
 
 1. Mits zij rechtstreeks zijn vervoerd overeenkomstig het bepaalde in artikel 12, worden beschouwd als:
 
@@ -2638,19 +2662,19 @@ In alle gevallen is de wetgeving van het land van invoer van toepassing op de re
 
 ## TITEL VIII. SLOTBEPALINGEN
 
-#### Artikel 37. Wijziging van het Protocol
+##### Artikel 37. Wijziging van het Protocol
 
 Het Associatiecomité kan besluiten de bepalingen van dit Protocol te wijzigen.
 
-#### Artikel 38. Tenuitvoerlegging van het Protocol
+##### Artikel 38. Tenuitvoerlegging van het Protocol
 
 De Gemeenschap en Jordanië nemen, ieder voor zich, de maatregelen die nodig zijn voor de tenuitvoerlegging van dit Protocol.
 
-#### Artikel 39. Wijzigingen op het protocol
+##### Artikel 39. Wijzigingen op het protocol
 
 De Associatieraad kan besluiten bepalingen van dit protocol te wijzigen.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit protocol wordt verstaan onder:
 
@@ -2662,13 +2686,13 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - d. „persoonsgegevens": alle inlichtingen over een bepaalde of te bepalen natuurlijke persoon.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 1. De partijen verlenen elkaar bijstand, op de onder hun rechtsbevoegdheid vallende gebieden, en op de wijze en onder de voorwaarden als in dit protocol vastgesteld, ten aanzien van de preventie, de opsporing en het onderzoek van overtredingen van de douanewetgeving.
 
 2. De bijstand in douanezaken waarin dit protocol voorziet, geldt voor elke administratieve autoriteit van de partijen die bevoegd is voor de toepassing van dit protocol. Deze bijstand doet geen afbreuk aan de regels betreffende de wederzijdse bijstand in strafzaken en geldt niet voor informatie die is verkregen krachtens bevoegdheden die op verzoek van de rechterlijke autoriteiten worden uitgeoefend, tenzij deze autoriteiten hiermee instemmen.
 
-#### Artikel 3. Bijstand op verzoek
+##### Artikel 3. Bijstand op verzoek
 
 1. Op aanvraag van de verzoekende autoriteit verschaft de aangezochte autoriteit eerstgenoemde alle ter zake dienende informatie die deze nodig heeft voor de correcte toepassing van de douanewetgeving, met inbegrip van informatie betreffende vastgestelde of voorgenomen transacties die met deze wetgeving in strijd zijn of kunnen zijn.
 
@@ -2684,7 +2708,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - d. vervoermiddelen waarvan op redelijke gronden wordt vermoed dat zij bij het plegen van overtredingen van de douanewetgeving zijn gebruikt, worden gebruikt of zouden kunnen worden gebruikt.
 
-#### Artikel 4. Bijstand op eigen initiatief
+##### Artikel 4. Bijstand op eigen initiatief
 
 De partijen verlenen elkaar bijstand, in overeenstemming met hun wetten, voorschriften en andere rechtsinstrumenten, indien zij zulks noodzakelijk achten voor de juiste toepassing van de douanewetgeving, in het bijzonder indien zij informatie hebben verkregen over:
 
@@ -2698,7 +2722,7 @@ De partijen verlenen elkaar bijstand, in overeenstemming met hun wetten, voorsch
 
 - –. vervoermiddelen waarvan redelijkerwijze vermoed kan worden dat zij bij overtredingen van de douanewetgeving zijn gebruikt, worden gebruikt of zouden kunnen worden gebruikt.
 
-#### Artikel 5. Afgifte van documenten/Kennisgeving van besluiten
+##### Artikel 5. Afgifte van documenten/Kennisgeving van besluiten
 
 Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, overeenkomstig haar wetgeving, alle maatregelen die nodig zijn voor:
 
@@ -2708,7 +2732,7 @@ Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, overe
 
 in verband met de toepassing van dit protocol, aan een geadresseerde die op haar grondgebied verblijft of gevestigd is. In dergelijk geval is artikel 6, lid 3, van toepassing.
 
-#### Artikel 6. Vorm en inhoud van verzoeken om bijstand
+##### Artikel 6. Vorm en inhoud van verzoeken om bijstand
 
 1. Verzoeken in het kader van dit protocol worden schriftelijk gedaan en gaan vergezeld van de bescheiden die voor de behandeling ervan noodzakelijk zijn. In spoedeisende gevallen kunnen mondelinge verzoeken worden aanvaard, mits zij onmiddellijk schriftelijk worden bevestigd.
 
@@ -2730,7 +2754,7 @@ in verband met de toepassing van dit protocol, aan een geadresseerde die op haar
 
 4. Indien een verzoek niet in de juiste vorm wordt gedaan, kan om correctie of aanvulling worden verzocht. Er kunnen echter reeds voorzorgsmaatregelen worden genomen.
 
-#### Artikel 7. Behandeling van verzoeken
+##### Artikel 7. Behandeling van verzoeken
 
 1. De aangezochte autoriteit behandelt verzoeken om bijstand, binnen de grenzen van haar bevoegdheden en met de middelen waarover zij beschikt, alsof zij voor eigen rekening of in opdracht van een andere autoriteit van dezelfde partij handelt, door reeds beschikbare informatie te verstrekken en het nodige onderzoek te verrichten of te doen verrichten. Deze bepaling is eveneens van toepassing op een administratieve dienst waaraan de aangezochte autoriteit het verzoek heeft doorgezonden, indien de laatstgenoemde niet zelfstandig kan handelen.
 
@@ -2740,13 +2764,13 @@ in verband met de toepassing van dit protocol, aan een geadresseerde die op haar
 
 4. Ambtenaren van een partij kunnen, met de toestemming van de andere partij en op de door deze gestelde voorwaarden, aanwezig zijn bij onderzoek dat op het grondgebied van de laatstgenoemde wordt verricht.
 
-#### Artikel 8. Vorm waarin de informatie dient te worden verstrekt
+##### Artikel 8. Vorm waarin de informatie dient te worden verstrekt
 
 1. De aangezochte autoriteit deelt de uitslag van het onderzoek aan de verzoekende autoriteit mede in de vorm van bescheiden, voor echt gewaarmerkte afschriften van bescheiden, rapporten en dergelijke.
 
 2. De in lid 1 bedoelde bescheiden kunnen worden vervangen door informatie die, in welke vorm dan ook, met behulp van systemen voor automatische gegevensverwerking voor hetzelfde doel wordt verstrekt.
 
-#### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
+##### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
 
 1. De partijen kunnen de in dit protocol bedoelde bijstand weigeren wanneer het verlenen ervan:
 
@@ -2762,7 +2786,7 @@ in verband met de toepassing van dit protocol, aan een geadresseerde die op haar
 
 3. Indien bijstand wordt geweigerd, dient dit besluit en de redenen ervan terstond aan de verzoekende autoriteit te worden medegedeeld.
 
-#### Artikel 10. Uitwisseling van gegevens en geheimhoudingsplicht
+##### Artikel 10. Uitwisseling van gegevens en geheimhoudingsplicht
 
 1. Alle informatie die ter uitvoering van dit protocol in welke vorm dan ook wordt verstrekt, heeft een vertrouwelijk karakter. Zij valt onder de geheimhoudingsplicht en geniet de bescherming van de wetgeving ter zake van de partij die ze heeft ontvangen en van de desbetreffende bepalingen die op de instellingen van de Gemeenschap van toepassing zijn.
 
@@ -2774,23 +2798,23 @@ in verband met de toepassing van dit protocol, aan een geadresseerde die op haar
 
 5. De partijen kunnen de overeenkomstig het bepaalde in dit protocol verkregen informatie en geraadpleegde bescheiden als bewijsmateriaal gebruiken in hun rapporten, getuigenverklaringen en in gerechtelijke procedures.
 
-#### Artikel 11. Deskundigen en getuigen
+##### Artikel 11. Deskundigen en getuigen
 
 1. Een onder een aangezochte autoriteit ressorterende ambtenaar kan worden gemachtigd, binnen de perken van de hem verleende machtiging, in het rechtsgebied van een andere partij als getuige of deskundige op te treden in gerechtelijke of administratieve procedures die betrekking hebben op aangelegenheden waarop dit protocol van toepassing is, en daarbij de voor deze procedures noodzakelijke voorwerpen, bescheiden of voor echt gewaarmerkte afschriften van bescheiden over te leggen. In de convocatie dient uitdrukkelijk te worden vermeld over welke aangelegenheid en in welke functie of hoedanigheid de betrokken ambtenaar zal worden ondervraagd.
 
 2. De gemachtigde ambtenaar geniet op het grondgebied van de verzoekende autoriteit dezelfde rechtsbescherming als de eigen ambtenaren van die autoriteit.
 
-#### Artikel 12. Kosten van de bijstand
+##### Artikel 12. Kosten van de bijstand
 
 De partijen brengen elkaar geen kosten in rekening voor uitgaven die ter uitvoering van het bepaalde in dit protocol zijn gemaakt, met uitzondering, in voorkomend geval, van de uitgaven voor deskundigen, getuigen, tolken en vertalers die niet in overheidsdienst zijn.
 
-#### Artikel 13. Tenuitvoerlegging
+##### Artikel 13. Tenuitvoerlegging
 
 1. De nationale douaneautoriteiten van Jordanië, enerzijds, en de bevoegde diensten van de Commissie van de Europese Gemeenschappen en, in voorkomend geval, de douaneautoriteiten van de lidstaten van de Europese Unie, anderzijds. Deze instanties stellen alle praktische maatregelen en bepalingen voor de toepassing van dit protocol vast, rekening houdend met de voorschriften op het gebied van de gegevensbescherming. Zij kunnen, via het Comité Douanesamenwerking, de Associatieraad voorstellen doen voor wijzigingen die huns inziens in dit protocol dienen te worden aangebracht.
 
 2. De partijen plegen overleg over en stellen elkaar in kennis van alle uitvoeringsbepalingen die op grond van dit protocol worden vastgesteld.
 
-#### Artikel 14. Complementariteit
+##### Artikel 14. Complementariteit
 
 Onverminderd artikel 10, doen overeenkomsten inzake wederzijdse bijstand die tussen een of meer lidstaten van de Europese Gemeenschap en Jordanië zijn of worden gesloten geen afbreuk aan de communautaire bepalingen betreffende de uitwisseling, tussen de bevoegde diensten van de Commissie en de douaneautoriteiten van de lidstaten, van alle over douaneaangelegenheden verkregen informatie die voor de Gemeenschap van belang kan zijn.
 
@@ -2846,7 +2870,7 @@ bijeengekomen te Brussel op 24-11-1997, voor de ondertekening van de Overeenkoms
 
 GEDAAN te Brussel, de vierentwintigste november negentienhonderd zevenennegentig.
 
-#### Artikel 11. Neutrale elementen
+##### Artikel 11. Neutrale elementen
 
 Om te bepalen of een product een product van oorsprong is, behoeft niet te worden nagegaan wat de oorsprong is van bij de vervaardiging van dat product gebruikte:
 
@@ -2860,7 +2884,7 @@ Om te bepalen of een product een product van oorsprong is, behoeft niet te worde
 
 ## TITEL III. TERRITORIALE VOORWAARDEN
 
-#### Artikel 14. Tentoonstellingen
+##### Artikel 14. Tentoonstellingen
 
 1. De overeenkomst is van toepassing op producten van oorsprong die naar een tentoonstelling in een ander dan de in de artikelen 3 en 4 genoemde landen waarmee cumulatie van toepassing is, zijn verzonden en die na de tentoonstelling zijn verkocht en in de Gemeenschap of in Jordanië worden ingevoerd, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat:
 
@@ -2878,7 +2902,7 @@ Om te bepalen of een product een product van oorsprong is, behoeft niet te worde
 
 ## TITEL IV. TERUGGAVE EN VRIJSTELLING VAN RECHTEN
 
-#### Artikel 15. Verbod op de teruggave of vrijstelling van douanerechten
+##### Artikel 15. Verbod op de teruggave of vrijstelling van douanerechten
 
 - a. Niet van oorsprong zijnde materialen die gebruikt zijn bij de vervaardiging van producten van oorsprong uit de Gemeenschap, Jordanië, of een van de andere in de artikelen 3 en 4 genoemde landen waarvoor overeenkomstig de bepalingen van titel V een bewijs van oorsprong is afgegeven of opgesteld, komen in de Gemeenschap of in Jordanië niet in aanmerking voor de teruggave of vrijstelling van douanerechten in welke vorm dan ook.
 
@@ -2904,13 +2928,13 @@ Dit lid is tot en met 31 december 2012 van toepassing en kan in onderling overle
 
 ## TITEL V. BEWIJS VAN OORSPRONG
 
-#### Artikel 30. Verschillen en vormfouten
+##### Artikel 30. Verschillen en vormfouten
 
 1. Geringe verschillen tussen de gegevens op het bewijs van oorsprong en de gegevens op de documenten die voor het vervullen van de invoerformaliteiten bij het douanekantoor worden ingediend, maken het EUR.1-certificaat of de factuurverklaring niet automatisch ongeldig, indien blijkt dat het document wel degelijk met de aangebrachte goederen overeenstemt.
 
 2. Kennelijke vormfouten, zoals typefouten, op het bewijs van oorsprong leiden niet tot weigering van dit document indien deze fouten niet van dien aard zijn dat zij twijfel doen rijzen over de juistheid van de daarin vermelde gegevens.
 
-#### Artikel 31. In euro uitgedrukte bedragen
+##### Artikel 31. In euro uitgedrukte bedragen
 
 1. Voor de toepassing van artikel 22, lid 1, onder b), en artikel 27, lid 3, worden, wanneer de producten gefactureerd zijn in een andere valuta dan de euro, de tegenwaarde van de in euro uitgedrukte bedragen in de nationale valuta van de lidstaten van de Gemeenschap, van Jordanië of een van de andere in de artikelen 3 en 4 genoemde landen, jaarlijks door elk van de betrokken landen vastgesteld.
 
@@ -2924,11 +2948,11 @@ Dit lid is tot en met 31 december 2012 van toepassing en kan in onderling overle
 
 ## TITEL VI. REGELINGEN VOOR ADMINISTRATIEVE SAMENWERKING
 
-#### Artikel 35. Sancties
+##### Artikel 35. Sancties
 
 Sancties worden getroffen tegen ieder die een document met onjuiste gegevens opstelt of laat opstellen met het doel goederen onder de preferentiële regeling te doen vallen.
 
-#### Artikel 36. Vrije zones
+##### Artikel 36. Vrije zones
 
 1. De Gemeenschap en Jordanië nemen alle nodige maatregelen om te voorkomen dat producten die onder geleide van een bewijs van de oorsprong worden verhandeld en die tijdens het vervoer in een op hun grondgebied gelegen vrije zone verblijven, door andere goederen worden vervangen of andere behandelingen ondergaan dan die welke gebruikelijk zijn om ze in goede staat te bewaren.
 
@@ -2936,7 +2960,7 @@ Sancties worden getroffen tegen ieder die een document met onjuiste gegevens ops
 
 ## TITEL VII. CEUTA EN MELILLA
 
-#### Artikel 37. Toepassing van het protocol
+##### Artikel 37. Toepassing van het protocol
 
 1. De in artikel 2 gebruikte term „Gemeenschap’’ heeft geen betrekking op Ceuta en Melilla.
 
@@ -2944,7 +2968,7 @@ Sancties worden getroffen tegen ieder die een document met onjuiste gegevens ops
 
 3. Bij toepassing van lid 2 op producten van oorsprong uit Ceuta en Melilla, is dit protocol van overeenkomstige toepassing met inachtneming van de bijzondere voorwaarden van artikel 38.
 
-#### Artikel 38. Bijzondere voorwaarden
+##### Artikel 38. Bijzondere voorwaarden
 
 1. Mits zij rechtstreeks zijn vervoerd overeenkomstig artikel 13, worden beschouwd als:
 
@@ -2976,11 +3000,11 @@ Sancties worden getroffen tegen ieder die een document met onjuiste gegevens ops
 
 ## TITEL VIII. SLOTBEPALINGEN
 
-#### Artikel 40. Overgangsbepaling voor goederen in doorvoer of in opslag
+##### Artikel 40. Overgangsbepaling voor goederen in doorvoer of in opslag
 
 Deze overeenkomst kan worden toegepast op goederen die aan de bepalingen van dit protocol voldoen en die op de datum van inwerkingtreding van dit protocol onderweg zijn of die in de Gemeenschap of in Jordanië tijdelijk zijn opgeslagen of zich daar in een douane-entrepot of vrije zone bevinden, mits binnen vier maanden na genoemde datum een EUR.1- of EUR-MED-certificaat bij de douaneautoriteiten van het land van invoer wordt ingediend dat achteraf door de douaneautoriteiten van het land van uitvoer is opgesteld, tezamen met de documenten waaruit blijkt dat de goederen rechtstreeks zijn vervoerd overeenkomstig artikel 13.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit protocol wordt verstaan onder:
 
@@ -2992,13 +3016,13 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - d. „persoonsgegevens": alle inlichtingen over een bepaalde of te bepalen natuurlijke persoon.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 1. De partijen verlenen elkaar bijstand, op de onder hun rechtsbevoegdheid vallende gebieden, en op de wijze en onder de voorwaarden als in dit protocol vastgesteld, ten aanzien van de preventie, de opsporing en het onderzoek van overtredingen van de douanewetgeving.
 
 2. De bijstand in douanezaken waarin dit protocol voorziet, geldt voor elke administratieve autoriteit van de partijen die bevoegd is voor de toepassing van dit protocol. Deze bijstand doet geen afbreuk aan de regels betreffende de wederzijdse bijstand in strafzaken en geldt niet voor informatie die is verkregen krachtens bevoegdheden die op verzoek van de rechterlijke autoriteiten worden uitgeoefend, tenzij deze autoriteiten hiermee instemmen.
 
-#### Artikel 3. Bijstand op verzoek
+##### Artikel 3. Bijstand op verzoek
 
 1. Op aanvraag van de verzoekende autoriteit verschaft de aangezochte autoriteit eerstgenoemde alle ter zake dienende informatie die deze nodig heeft voor de correcte toepassing van de douanewetgeving, met inbegrip van informatie betreffende vastgestelde of voorgenomen transacties die met deze wetgeving in strijd zijn of kunnen zijn.
 
@@ -3014,7 +3038,7 @@ Voor de toepassing van dit protocol wordt verstaan onder:
 
 - d. vervoermiddelen waarvan op redelijke gronden wordt vermoed dat zij bij het plegen van overtredingen van de douanewetgeving zijn gebruikt, worden gebruikt of zouden kunnen worden gebruikt.
 
-#### Artikel 4. Bijstand op eigen initiatief
+##### Artikel 4. Bijstand op eigen initiatief
 
 De partijen verlenen elkaar bijstand, in overeenstemming met hun wetten, voorschriften en andere rechtsinstrumenten, indien zij zulks noodzakelijk achten voor de juiste toepassing van de douanewetgeving, in het bijzonder indien zij informatie hebben verkregen over:
 
@@ -3028,7 +3052,7 @@ De partijen verlenen elkaar bijstand, in overeenstemming met hun wetten, voorsch
 
 - –. vervoermiddelen waarvan redelijkerwijze vermoed kan worden dat zij bij overtredingen van de douanewetgeving zijn gebruikt, worden gebruikt of zouden kunnen worden gebruikt.
 
-#### Artikel 5. Afgifte van documenten/Kennisgeving van besluiten
+##### Artikel 5. Afgifte van documenten/Kennisgeving van besluiten
 
 Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, overeenkomstig haar wetgeving, alle maatregelen die nodig zijn voor:
 
@@ -3038,7 +3062,7 @@ Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, overe
 
 in verband met de toepassing van dit protocol, aan een geadresseerde die op haar grondgebied verblijft of gevestigd is. In dergelijk geval is artikel 6, lid 3, van toepassing.
 
-#### Artikel 6. Vorm en inhoud van verzoeken om bijstand
+##### Artikel 6. Vorm en inhoud van verzoeken om bijstand
 
 1. Verzoeken in het kader van dit protocol worden schriftelijk gedaan en gaan vergezeld van de bescheiden die voor de behandeling ervan noodzakelijk zijn. In spoedeisende gevallen kunnen mondelinge verzoeken worden aanvaard, mits zij onmiddellijk schriftelijk worden bevestigd.
 
@@ -3060,7 +3084,7 @@ in verband met de toepassing van dit protocol, aan een geadresseerde die op haar
 
 4. Indien een verzoek niet in de juiste vorm wordt gedaan, kan om correctie of aanvulling worden verzocht. Er kunnen echter reeds voorzorgsmaatregelen worden genomen.
 
-#### Artikel 7. Behandeling van verzoeken
+##### Artikel 7. Behandeling van verzoeken
 
 1. De aangezochte autoriteit behandelt verzoeken om bijstand, binnen de grenzen van haar bevoegdheden en met de middelen waarover zij beschikt, alsof zij voor eigen rekening of in opdracht van een andere autoriteit van dezelfde partij handelt, door reeds beschikbare informatie te verstrekken en het nodige onderzoek te verrichten of te doen verrichten. Deze bepaling is eveneens van toepassing op een administratieve dienst waaraan de aangezochte autoriteit het verzoek heeft doorgezonden, indien de laatstgenoemde niet zelfstandig kan handelen.
 
@@ -3070,13 +3094,13 @@ in verband met de toepassing van dit protocol, aan een geadresseerde die op haar
 
 4. Ambtenaren van een partij kunnen, met de toestemming van de andere partij en op de door deze gestelde voorwaarden, aanwezig zijn bij onderzoek dat op het grondgebied van de laatstgenoemde wordt verricht.
 
-#### Artikel 8. Vorm waarin de informatie dient te worden verstrekt
+##### Artikel 8. Vorm waarin de informatie dient te worden verstrekt
 
 1. De aangezochte autoriteit deelt de uitslag van het onderzoek aan de verzoekende autoriteit mede in de vorm van bescheiden, voor echt gewaarmerkte afschriften van bescheiden, rapporten en dergelijke.
 
 2. De in lid 1 bedoelde bescheiden kunnen worden vervangen door informatie die, in welke vorm dan ook, met behulp van systemen voor automatische gegevensverwerking voor hetzelfde doel wordt verstrekt.
 
-#### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
+##### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
 
 1. De partijen kunnen de in dit protocol bedoelde bijstand weigeren wanneer het verlenen ervan:
 
@@ -3092,7 +3116,7 @@ in verband met de toepassing van dit protocol, aan een geadresseerde die op haar
 
 3. Indien bijstand wordt geweigerd, dient dit besluit en de redenen ervan terstond aan de verzoekende autoriteit te worden medegedeeld.
 
-#### Artikel 10. Uitwisseling van gegevens en geheimhoudingsplicht
+##### Artikel 10. Uitwisseling van gegevens en geheimhoudingsplicht
 
 1. Alle informatie die ter uitvoering van dit protocol in welke vorm dan ook wordt verstrekt, heeft een vertrouwelijk karakter. Zij valt onder de geheimhoudingsplicht en geniet de bescherming van de wetgeving ter zake van de partij die ze heeft ontvangen en van de desbetreffende bepalingen die op de instellingen van de Gemeenschap van toepassing zijn.
 
@@ -3104,23 +3128,23 @@ in verband met de toepassing van dit protocol, aan een geadresseerde die op haar
 
 5. De partijen kunnen de overeenkomstig het bepaalde in dit protocol verkregen informatie en geraadpleegde bescheiden als bewijsmateriaal gebruiken in hun rapporten, getuigenverklaringen en in gerechtelijke procedures.
 
-#### Artikel 11. Deskundigen en getuigen
+##### Artikel 11. Deskundigen en getuigen
 
 1. Een onder een aangezochte autoriteit ressorterende ambtenaar kan worden gemachtigd, binnen de perken van de hem verleende machtiging, in het rechtsgebied van een andere partij als getuige of deskundige op te treden in gerechtelijke of administratieve procedures die betrekking hebben op aangelegenheden waarop dit protocol van toepassing is, en daarbij de voor deze procedures noodzakelijke voorwerpen, bescheiden of voor echt gewaarmerkte afschriften van bescheiden over te leggen. In de convocatie dient uitdrukkelijk te worden vermeld over welke aangelegenheid en in welke functie of hoedanigheid de betrokken ambtenaar zal worden ondervraagd.
 
 2. De gemachtigde ambtenaar geniet op het grondgebied van de verzoekende autoriteit dezelfde rechtsbescherming als de eigen ambtenaren van die autoriteit.
 
-#### Artikel 12. Kosten van de bijstand
+##### Artikel 12. Kosten van de bijstand
 
 De partijen brengen elkaar geen kosten in rekening voor uitgaven die ter uitvoering van het bepaalde in dit protocol zijn gemaakt, met uitzondering, in voorkomend geval, van de uitgaven voor deskundigen, getuigen, tolken en vertalers die niet in overheidsdienst zijn.
 
-#### Artikel 13. Tenuitvoerlegging
+##### Artikel 13. Tenuitvoerlegging
 
 1. De nationale douaneautoriteiten van Jordanië, enerzijds, en de bevoegde diensten van de Commissie van de Europese Gemeenschappen en, in voorkomend geval, de douaneautoriteiten van de lidstaten van de Europese Unie, anderzijds. Deze instanties stellen alle praktische maatregelen en bepalingen voor de toepassing van dit protocol vast, rekening houdend met de voorschriften op het gebied van de gegevensbescherming. Zij kunnen, via het Comité Douanesamenwerking, de Associatieraad voorstellen doen voor wijzigingen die huns inziens in dit protocol dienen te worden aangebracht.
 
 2. De partijen plegen overleg over en stellen elkaar in kennis van alle uitvoeringsbepalingen die op grond van dit protocol worden vastgesteld.
 
-#### Artikel 14. Complementariteit
+##### Artikel 14. Complementariteit
 
 Onverminderd artikel 10, doen overeenkomsten inzake wederzijdse bijstand die tussen een of meer lidstaten van de Europese Gemeenschap en Jordanië zijn of worden gesloten geen afbreuk aan de communautaire bepalingen betreffende de uitwisseling, tussen de bevoegde diensten van de Commissie en de douaneautoriteiten van de lidstaten, van alle over douaneaangelegenheden verkregen informatie die voor de Gemeenschap van belang kan zijn.
 

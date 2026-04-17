@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake duurzame ontwikkeling gesloten tussen het Koninkrijk der Nederlanden en de Republiek Benin"
 identifier: "BWBV0001244"
-categorie: "Internationaal recht"
-publicatiedatum: 1998-01-07
-laatste_update: 1998-01-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001244"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-01-07"
+last_updated: "1998-01-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001244"
+soort: "verdrag"
+stam_id: "10001599923"
+version_id: "10001677992"
+internal_id: "C10006986311"
+label_id: "10001600034"
+dtd_version: "2.0"
+original_entry_into_force: "1998-01-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001244/1998-01-07/0"
+intitule_bron: "Trb.1994-105"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-08-06"
+intitule_published: "1994-05-16"
+intitule_in_force: "1998-02-03"
+intitule_status: "goed"
+original_publication: "Trb.1994-105"
+original_signed_date: "1996-08-06"
+original_published_date: "1994-05-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-105"
+entry_into_force_date: "1998-01-07"
+jci_1_3: "jci1.3:c:BWBV0001244&z=1998-01-07&g=1998-01-07"
+jci_1_0: "1.0:c:BWBV0001244&g=1998-01-07"
+citeertitel_status: "redactioneel"
+signed_date: "1996-08-06"
+entry_into_force: "1998-01-07"
 ---
-
 # Verdrag inzake duurzame ontwikkeling gesloten tussen het Koninkrijk der Nederlanden en de Republiek Benin
 
 Le Gouvernement du Royaume des Pays-Bas
@@ -38,13 +63,13 @@ Considérant qu'il y a lieu de conclure à cette fin un accord qui créera un ca
 
 Sont convenus de ce qui suit:
 
-#### Article I
+##### Article I
 
 1. Les deux Gouvernements conviennent d'établir entre leurs pays respectifs une coopération de longue durée basée sur l'égalité et la réciprocité ainsi que sur la concertation et l'assistance mutuelle, en vue de promouvoir efficacement un développement durable sous tous ses aspects, avec la participation de tous les groupes sociaux concernés.
 
 2. En conséquence, ils créent par le présent Accord un cadre juridique et institutionnel pour le développement et la mise en oeuvre de politiques, d'arrangements, de programmes et de projets visant à réaliser | l'objectif du présent Accord.
 
-#### Article II
+##### Article II
 
 Les politiques, arrangements, programmes et projets visés à l'article I peuvent avoir pour objet de:
 
@@ -80,17 +105,17 @@ Les politiques, arrangements, programmes et projets visés à l'article I peuven
 
 - p). promouvoir et réaliser toute autre forme de coopération ou d'échange considérée par les deux Gouvernements comme influençant positivement le processus de développement durable.
 
-#### Article III
+##### Article III
 
 Sans préjudice de leurs obligations internationales respectives, les deux Gouvernements se concerteront sur les positions à adopter au sein des organisations internationales et lors des conférences internationales sur les questions de développement durable. D'autres pays seront également associés à ces consultations si cela est jugé nécessaire et souhaitable.
 
-#### Article IV
+##### Article IV
 
 1. La coopération et en particulier les politiques, les arrangements, les programmes et les projets visés à l'Article I seront fondés sur les conventions, les politiques, les arrangements, les programmes et les projets conclus entre les deux pays, et n'auront en aucune façon des conséquences sur les engagements contractés par les deux pays dans le cadre d'autres conventions.
 
 2. Pour tout programme ou projet de développement durable convenu entre les deux Gouvernements avant la date de l'entrée en vigueur du présent Accord et non encore achevé à cette date, les deux Gouvernements décideront si, et dans quelle mesure, le programme ou projet en question sera régi par le présent Accord.
 
-#### Article V
+##### Article V
 
 1. Les deux Gouvernements instituent par le présent Accord un Comité mixte comprenant au maximum deux hauts fonctionnaires de chacun des Gouvernements. Chacun des Gouvernements instituera un mécanisme national d'exécution comme stipulé à l' Article VI.
 
@@ -104,7 +129,7 @@ Sans préjudice de leurs obligations internationales respectives, les deux Gouve
 
 6. Les décisions du Comité mixte seront prises à l'unanimité des deux parties.
 
-#### Article VI
+##### Article VI
 
 Afin de promouvoir la mise en oeuvre du présent Accord, chaque Gouvernement désignera ou instituera un mécanisme national pour la préparation nécessaire et la mise en oeuvre des décisions prises dans le cadre du présent Accord.
 
@@ -112,7 +137,7 @@ Les deux Gouvernements s'informeront mutuellement du mécanisme qui sera désign
 
 Lors de la préparation et de la mise en oeuvre de ces décisions, ces mécanismes veilleront à promouvoir la pleine participation de tous les groupes sociaux concernés.
 
-#### Article VII
+##### Article VII
 
 1. Le présent Accord entrera en vigueur à la date à laquelle les deux Gouvernements se seront notifiés par écrit que les procédures légales requises ont été accomplies dans leurs pays respectifs.
 

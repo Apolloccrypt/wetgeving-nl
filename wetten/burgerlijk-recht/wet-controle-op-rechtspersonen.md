@@ -1,14 +1,41 @@
 ---
-title: "Wet controle op rechtspersonen"
+title: "Wet van 8 mei 2003, houdende regels over de documentatie van vennootschappen (Wet documentatie vennootschappen)"
 identifier: "BWBR0015049"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2018-09-19
-laatste_update: 2018-09-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015049"
+country: "nl"
+rank: "wet"
+publication_date: "2018-09-19"
+last_updated: "2018-09-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015049"
+soort: "wet"
+stam_id: "3946243"
+version_id: "5709362"
+internal_id: "C15009551"
+label_id: "3926274"
+dtd_version: "2.0"
+original_entry_into_force: "2005-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015049/2018-09-19/0"
+intitule_bron: "Stb.2003-203"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-05-08"
+intitule_published: "2003-05-20"
+intitule_in_force: "2004-12-14"
+intitule_status: "goed"
+original_publication: "Stb.2003-203"
+original_signed_date: "2003-05-08"
+original_published_date: "2003-05-20"
+original_effect: "nieuwe-regeling"
+original_dossier: "28217"
+original_url_id: "stb-2003-203"
+entry_into_force_date: "2005-01-01"
+jci_1_3: "jci1.3:c:BWBR0015049&z=2018-09-19&g=2018-09-19"
+jci_1_0: "1.0:c:BWBR0015049&g=2018-09-19"
+citeertitel_status: "officieel"
+short_title: "Wet controle op rechtspersonen"
+signed_date: "2003-05-08"
+entry_into_force: "2005-01-01"
 ---
-
-# Wet controle op rechtspersonen
+# Wet van 8 mei 2003, houdende regels over de documentatie van vennootschappen (Wet documentatie vennootschappen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,7 +65,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. vaste gebruiker: de instantie of persoon met een publiekrechtelijke taak die is aangewezen conform [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=4&artikel=6&z=2018-09-19&g=2018-09-19).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister controleert rechtspersonen met het oog op de voorkoming en bestrijding van misbruik van rechtspersonen, waaronder het plegen van misdrijven en overtredingen van financieel-economische aard door of door middel van deze rechtspersonen.
 
@@ -48,7 +75,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2. Bronnen van de registratie
 
-#### Artikel 3
+##### Artikel 3
 
 1. In de registratie kunnen, met het oog op het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2018-09-19&g=2018-09-19), bedoelde doeleinde, gegevens worden opgenomen die afkomstig zijn van:
 
@@ -82,7 +109,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 3. De inhoud van de registratie
 
-#### Artikel 4
+##### Artikel 4
 
 1. In de registratie worden gegevens opgenomen over de oprichters, de aandeelhouders, de commissarissen, de leden – voor zover deze bestuurlijke functies vervullen –, de bestuurders en de vertegenwoordigers van een rechtspersoon.
 
@@ -100,7 +127,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 4. Het verstrekken van gegevens uit de registratie
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Minister kan uit eigen beweging of desgevraagd, ter uitvoering van de taak, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2018-09-19&g=2018-09-19), in individuele gevallen risicomeldingen doen aan bij algemene maatregel van bestuur aan te wijzen bestuursorganen, diensten, toezichthouders en andere personen, belast met de opsporing van strafbare feiten, onderscheidenlijk het toezicht op de naleving van wetgeving.
 
@@ -114,7 +141,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Indien binnen de in het vierde lid bedoelde gebruikstermijn geen gebruik is gemaakt van de risicomelding, verwijdert het ontvangende bestuursorgaan na ommekomst van deze termijn de risicomelding uit zijn administratie.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister kan uit eigen beweging of desgevraagd ter uitvoering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2018-09-19&g=2018-09-19), bedoelde taak in individuele gevallen gegevens die in de registratie zijn opgenomen verstrekken aan:
 
@@ -130,7 +157,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Ten behoeve van een verkennend onderzoek als bedoeld in [artikel 126gg van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126gg) kunnen de gegevens uit de registratie worden verstrekt of anderszins verwerkt in samenhang met een andere verzameling van persoonsgegevens, zonder beperking tot het individuele geval voor zover dit noodzakelijk is voor dat onderzoek.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister kan ter uitvoering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2018-09-19&g=2018-09-19), bedoelde taak in individuele gevallen ten behoeve van het doen van een risicomelding, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=4&artikel=5&z=2018-09-19&g=2018-09-19), desgevraagd of uit eigen beweging gegevens verstrekken die afkomstig zijn van:
 
@@ -154,7 +181,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. bestuursorganen en diensten die met de opsporing van strafbare feiten of met het toezicht op financiële instellingen zijn belast, als bedoeld in [artikel 3, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=2&artikel=3&z=2018-09-19&g=2018-09-19).
 
-#### Artikel 8
+##### Artikel 8
 
 1. Uit de registratie kunnen gegevens worden verstrekt aan instanties in een ander land, die aldaar een publiekrechtelijke functie vervullen die verband houdt met het doel van de registratie.
 
@@ -162,7 +189,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 5. Het verwijderen van gegevens uit de registratie
 
-#### Artikel 9
+##### Artikel 9
 
 1. Persoonsgegevens worden uit de registratie verwijderd uiterlijk acht jaren na ontbinding van de rechtspersoon met betrekking tot welke zij in de registratie zijn opgenomen.
 
@@ -170,35 +197,35 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 6. Wijzigingen in andere regelingen
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt Boek 2 van het Burgerlijk Wetboek.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Wet politieregisters.
 
 #### Paragraaf 7. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Onze Minister brengt jaarlijks een openbaar verslag uit over het functioneren van de registratie, onder vermelding van het aantal malen dat gegevens verstrekt zijn aan instanties of personen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=4&artikel=5&z=2018-09-19&g=2018-09-19), alsmede onder aanduiding van de instanties en personen en de doeleinden van de verstrekking.
 
-#### Artikel 13
+##### Artikel 13
 
 Onze Minister van Justitie zendt binnen twee jaren na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze wet wordt aangehaald als: Wet controle op rechtspersonen.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het Staatsblad zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen en de rijksbelastingdienst verstrekken op zijn verzoek aan Onze Minister de gegevens die deze behoeft ter uitvoering van de taak, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&paragraaf=1&artikel=2&z=2018-09-19&g=2018-09-19).
 

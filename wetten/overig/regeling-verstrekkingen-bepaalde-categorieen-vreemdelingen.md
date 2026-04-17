@@ -1,13 +1,37 @@
 ---
 title: "Regeling verstrekkingen bepaalde categorieën vreemdelingen"
 identifier: "BWBR0009726"
-categorie: "Overig"
-publicatiedatum: 2020-04-17
-laatste_update: 2020-04-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009726"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-04-17"
+last_updated: "2020-04-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009726"
+soort: "ministeriele-regeling"
+stam_id: "4650483"
+version_id: "6466782"
+internal_id: "C6713661"
+label_id: "4628784"
+dtd_version: "2.0"
+original_entry_into_force: "1998-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009726/2020-04-17/0"
+intitule_bron: "Stcrt.1998-119"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-06-25"
+intitule_published: "1998-06-29"
+intitule_in_force: "1998-04-14"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-119"
+original_signed_date: "1998-06-25"
+original_published_date: "1998-06-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-07-01"
+jci_1_3: "jci1.3:c:BWBR0009726&z=2020-04-17&g=2020-04-17"
+jci_1_0: "1.0:c:BWBR0009726&g=2020-04-17"
+citeertitel_status: "officieel"
+signed_date: "1998-06-25"
+entry_into_force: "1998-07-01"
 ---
-
 # Regeling verstrekkingen bepaalde categorieën vreemdelingen
 
 Gelet op [artikel 3, tweede lid, van de Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3);
@@ -18,7 +42,7 @@ dat er ingevolge de inwerkingtreding van de [Koppelingswet](https://wetten.overh
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -42,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - j. instelling voor vrouwenopvang: instelling voor het tijdelijk bieden van onderdak en begeleiding aan personen die, al dan niet gedwongen, de thuissituatie hebben verlaten in verband met problemen van relationele aard of geweld, gefinancierd door één van de 35 centrumgemeenten voor de vrouwenopvang.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het COA is belast met het voorzien in de noodzakelijke bestaansvoorwaarden voor de volgende categorieën vreemdelingen gedurende de daarbij aangegeven termijn:
 
@@ -72,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 3. Het COA is ten aanzien van vreemdelingen die rechtmatig verblijf hebben in verband met eergerelateerd of huiselijk geweld uitsluitend belast met het voorzien in de noodzakelijke bestaansvoorwaarden indien zij verblijven in een instelling voor vrouwenopvang.
 
-#### Artikel 2a
+##### Artikel 2a
 
 De regeling is uitsluitend van toepassing op de in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2020-04-17&g=2020-04-17), bedoelde vreemdeling:
 
@@ -80,7 +104,7 @@ De regeling is uitsluitend van toepassing op de in [artikel 2, eerste lid, onder
 
 - b. die een aanvraag heeft ingediend tot het verlenen van een verblijfsvergunning voor verblijf bij een persoon die voldoet aan de bij of krachtens de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) van toepassing zijnde eisen betreffende het beschikken over voldoende middelen van bestaan.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het voorzien in de noodzakelijke bestaansvoorwaarden voor vreemdelingen als bedoeld in [artikel 2, eerste lid, onderdelen a tot en met d en f tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2020-04-17&g=2020-04-17), houdt in het voorzien in de volgende verstrekkingen:
 
@@ -94,7 +118,7 @@ De regeling is uitsluitend van toepassing op de in [artikel 2, eerste lid, onder
 
 4. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2020-04-17&g=2020-04-17), bedoelde categorieën vreemdelingen wordt geen financiële toelage of dekking van kosten van medische verstrekkingen geboden indien anderszins in de noodzakelijke bestaansvoorwaarden voor de vreemdeling wordt of is voorzien.
 
-#### Artikel 4
+##### Artikel 4
 
 In het kader van deze regeling worden de volgende categorieën vreemdelingen onderscheiden:
 
@@ -116,7 +140,7 @@ In het kader van deze regeling worden de volgende categorieën vreemdelingen ond
 
 - i. de vreemdeling, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2020-04-17&g=2020-04-17), in de leeftijd van 21 jaar of ouder, die een aanvraag tot het verlenen van een verblijfsvergunning heeft ingediend met het oog op gezinshereniging met een bloedverwant in de eerste graad.
 
-#### Artikel 5
+##### Artikel 5
 
 Geen recht op de financiële toelage bestaat indien:
 
@@ -124,7 +148,7 @@ Geen recht op de financiële toelage bestaat indien:
 
 - b. de vreemdeling rechtens zijn vrijheid is ontnomen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De berekeningsbasis is het bedrag, bedoeld in [artikel 21, onder b, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=21).
 
@@ -152,13 +176,13 @@ Geen recht op de financiële toelage bestaat indien:
 
 - i. voor de vreemdeling, bedoeld in [artikel 2, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=2&z=2020-04-17&g=2020-04-17): het bedrag, bedoeld in [artikel 20, eerste lid, onder a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=20), verminderd met het in aanmerking te nemen inkomen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het treffen van een ziektekostenregeling als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=3&z=2020-04-17&g=2020-04-17), houdt in het afsluiten van een ziektekostencontract ter dekking van de kosten van het door de Minister vastgestelde pakket medische verstrekkingen.
 
 2. In de verstrekking als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=3&z=2020-04-17&g=2020-04-17), wordt ten behoeve van de vreemdeling uitsluitend voorzien indien een toelage als bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=3&z=2020-04-17&g=2020-04-17) wordt toegekend.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Op het in aanmerking te nemen inkomen en vermogen zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=3&z=2020-04-17&g=2020-04-17) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=4&z=2020-04-17&g=2020-04-17), in verbinding met de [artikelen 31 tot en met 34 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=31) van overeenkomstige toepassing.
 
@@ -166,7 +190,7 @@ Geen recht op de financiële toelage bestaat indien:
 
 3. Niet tot het in aanmerking te nemen inkomen wordt gerekend de bijzondere bijstand op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
-#### Artikel 9
+##### Artikel 9
 
 1. De toelage wordt binnen twee weken nadat aanspraak van de vreemdeling op de toelage is ontstaan, door de vreemdeling, diens wettelijke vertegenwoordiger of bloedverwant in de eerste of tweede graad, dan wel door de persoon die door één van hen daartoe is gemachtigd, aangevraagd.
 
@@ -184,7 +208,7 @@ Geen recht op de financiële toelage bestaat indien:
 
 8. De financiële toelage, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009726&artikel=3&z=2020-04-17&g=2020-04-17), wordt niet toegekend over de periode voorafgaand aan 1 januari 2007.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De toelage wordt uitbetaald aan de vreemdeling, diens wettelijk vertegenwoordiger of bloedverwant in de eerste of tweede graad, of aan een door één van hen, blijkens een schriftelijke verklaring, aangewezen persoon of instantie.
 
@@ -192,14 +216,14 @@ Geen recht op de financiële toelage bestaat indien:
 
 3. Het COA is bevoegd de toelage over een kortere of langere periode te betalen, indien dit gelet op de omstandigheden van de vreemdeling wenselijk is.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking op het tijdstip waarop de [Koppelingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009511) in werking treedt.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als Regeling verstrekkingen bepaalde categorieën vreemdelingen, afgekort als Rvb.

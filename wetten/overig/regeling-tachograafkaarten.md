@@ -1,13 +1,38 @@
 ---
-title: "Regeling tachograafkaarten"
+title: "Regeling houdende regels met betrekking tot de verstrekking en het gebruik van tachograafkaarten (Regeling tachograafkaarten)"
 identifier: "BWBR0018544"
-categorie: "Overig"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018544"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018544"
+soort: "ministeriele-regeling"
+stam_id: "7156603"
+version_id: "12065552"
+internal_id: "C16192411"
+label_id: "7144684"
+original_entry_into_force: "2005-07-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018544/2023-01-01/0"
+intitule_bron: "Stcrt.2005-135"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-07-05"
+intitule_published: "2005-07-15"
+intitule_in_force: "2005-07-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-135"
+original_signed_date: "2005-07-05"
+original_published_date: "2005-07-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-135-p30-SC70665"
+entry_into_force_date: "2005-07-20"
+jci_1_3: "jci1.3:c:BWBR0018544&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0018544&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling tachograafkaarten"
+signed_date: "2005-07-05"
+entry_into_force: "2005-07-20"
 ---
-
 # Regeling houdende regels met betrekking tot de verstrekking en het gebruik van tachograafkaarten (Regeling tachograafkaarten)
 
 Gelet op [artikel 12.38, tweede lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=12:38), [artikel 2.4:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.4:1), [artikel 2.4:12](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.4:12) en [artikel 2.4:13, eerste lid, van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.4:13), en [artikel 4b, tweede lid, onderdeel b, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4b);
@@ -18,13 +43,13 @@ Treedt in werking op het tijdstip waarop de Wet van 6 juli 2004 tot wijziging va
 
 #### § 1. Reikwijdte
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
 #### § 2. Aanvraag en verlening
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als document, bedoeld in artikel 26, eerste lid, van verordening (EU) nr. 165/2014 wordt beschouwd een geldig rijbewijs voor het besturen van een voertuig als bedoeld in [artikel 2.3:1 onder a en b, van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.3:1).
 
@@ -48,7 +73,7 @@ Vervallen
 
 4. Bij de aanvraag van een bestuurderskaart of werkplaatskaart overlegt de aanvrager een niet beschadigde, recente, goed gelijkende pasfoto van de aanvrager die voldoet aan alle acceptatiecriteria, opgenomen in de bij de [Paspoortuitvoeringsregeling Nederland 2001 behorende fotomatrix](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&bijlage=L).
 
-#### Artikel 3
+##### Artikel 3
 
 In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=2&z=2023-01-01&g=2023-01-01), kan een bestuurderskaart worden verleend aan de aanvrager die zijn gewone verblijfplaats niet binnen de grenzen van de Europese Unie heeft en die onder gezag van een in Nederland gevestigde werkgever als bestuurder van een vrachtauto of bus werkzaamheden verricht of gaat verrichten, indien aan zijn werkgever voor hem is afgegeven:
 
@@ -56,13 +81,13 @@ In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci
 
 - b. ingeval van goederenvervoer een bestuurdersattest als bedoeld in de [Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800).
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Minister van Infrastructuur en Milieu beslist op aanvraag van een tachograafkaart binnen vier weken nadat de vergoeding voor het in behandeling nemen van de aanvraag is ontvangen.
 
 2. Voor het in behandeling nemen van een aanvraag voor een Smart tachograafkaart is een tarief verschuldigd zoals vastgesteld in de [Regeling tarieven transportsectoren](onbekend).
 
-#### Artikel 5
+##### Artikel 5
 
 1. In geval een bestuurderskaart of werkplaatskaart zoek raakt door verlies of diefstal, of defect of beschadigd is, vraagt de aanvrager binnen zeven kalenderdagen na het tijdstip van vaststelling daarvan een vervangende tachograafkaart aan.
 
@@ -72,7 +97,7 @@ In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci
 
 #### § 3. Inleverplicht tachograafkaart
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aanvrager levert zijn ingetrokken, defecte of beschadigde bestuurderskaart of werkplaatskaart in op de plaats van afgifte van de vervangende tachograafkaart.
 
@@ -82,7 +107,7 @@ In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci
 
 #### § 4. Intrekking en geldigheid
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een tachograafkaart kan worden ingetrokken in de gevallen genoemd in artikel 26, zevende lid, van verordening (EU) nr. 165/2014 of op verzoek van de aanvrager.
 
@@ -92,7 +117,7 @@ In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci
 
 - b. indien de aanvrager niet meer kan voldoen aan de voorwaarden genoemd in [artikel 2, tweede en derde lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&paragraaf=2&artikel=2&z=2023-01-01&g=2023-01-01).
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onverminderd [artikel 2.4:11, eerste lid, van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.4:11), verliest een bestuurderskaart of werkplaatskaart zijn geldigheid indien:
 
@@ -108,7 +133,7 @@ In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci
 
 #### § 5. Afgifte van de kaart
 
-#### Artikel 9
+##### Artikel 9
 
 1. De wijze van afgifte van een tachograafkaart wordt schriftelijk aan de aanvrager gemeld.
 
@@ -122,11 +147,11 @@ In afwijking van [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci
 
 #### § 6. Gebruik van de tachograafkaart en andere registratiemiddelen
 
-#### Artikel 10
+##### Artikel 10
 
 De bestuurder tekent, indien hij niet bij het voertuig is en hij zijn bestuurderskaart vanwege verlies, diefstal, een defect of beschadiging niet kan gebruiken, op de afdruk van de gegevens uit de tachograaf de in artikel 34, vijfde lid, onder II tot en met IV, van verordening (EU) nr. 165/2014 aangegeven tijdgroepen met de hand leesbaar op zonder dat die afdruk wordt bevuild, onmiddellijk nadat hij bij het voertuig aanwezig is.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De in de tachograaf geregistreerde gegevens worden door de werkgever of de persoon als bedoeld in [artikel 2:7, eerste lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=2:7) tenminste elke 90 dagen met behulp van de bedrijfskaart overgebracht naar de vestiging van die werkgever of die persoon.
 
@@ -138,25 +163,25 @@ De bestuurder tekent, indien hij niet bij het voertuig is en hij zijn bestuurder
 
 #### § 7. Overgangs- en slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt de Regeling taken Dienst Wegverkeer.
 
-#### Artikel 13
+##### Artikel 13
 
 De [Tijdelijke regeling verstrekking tachograafkaarten](https://wetten.overheid.nl/jci1.3:c:BWBR0017656) wordt ingetrokken.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Tachograafkaarten verleend ingevolge de [Tijdelijke regeling verstrekking tachograafkaarten](https://wetten.overheid.nl/jci1.3:c:BWBR0017656), worden gelijk gesteld met tachograafkaarten verleend op grond van deze regeling.
 
 2. Aanvragen van tachograafkaarten ingevolge de [Tijdelijke regeling tachograafkaarten](https://wetten.overheid.nl/jci1.3:c:BWBR0017656) ingediend vóór het tijdstip van inwerkingtreding van deze regeling worden aangemerkt als aanvragen ingediend na dat tijdstip.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling treedt in werking met ingang van het tijdstip van inwerkingtreding van de wet van 6 juli 2004 tot wijziging van de Arbeidstijdenwet en de Wegenverkeerswet 1994 in verband met de invoering van het digitale controleapparaat (Stb. 2004, 347).
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling tachograafkaarten.
 

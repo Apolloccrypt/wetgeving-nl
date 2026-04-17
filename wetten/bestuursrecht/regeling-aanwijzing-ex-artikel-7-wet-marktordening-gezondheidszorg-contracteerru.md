@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (Contracteerruimte AWBZ 2011)"
+title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 november 2010, nr. DLZ/SFI-U-3030940, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake Contracteerruimte AWBZ 2011"
 identifier: "BWBR0029035"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-12-08
-laatste_update: 2010-12-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029035"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-12-08"
+last_updated: "2010-12-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029035"
+soort: "ministeriele-regeling"
+stam_id: "11096643"
+version_id: "18142422"
+internal_id: "C25224231"
+label_id: "11071044"
+dtd_version: "2.0"
+original_entry_into_force: "2010-12-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029035/2010-12-08/0"
+intitule_bron: "Stcrt.2010-19488"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-11-09"
+intitule_published: "2010-12-08"
+intitule_in_force: "2010-12-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-19488"
+original_signed_date: "2010-11-09"
+original_published_date: "2010-12-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-19488"
+entry_into_force_date: "2010-12-08"
+jci_1_3: "jci1.3:c:BWBR0029035&z=2010-12-08&g=2010-12-08"
+jci_1_0: "1.0:c:BWBR0029035&g=2010-12-08"
+citeertitel_status: "redactioneel"
+short_title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (Contracteerruimte AWBZ 2011)"
+signed_date: "2010-11-09"
+entry_into_force: "2010-12-08"
 ---
-
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 november 2010, nr. DLZ/SFI-U-3030940, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake Contracteerruimte AWBZ 2011
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1. Werkingssfeer
+##### Artikel 1. Werkingssfeer
 
 1. Deze aanwijzing is van toepassing op zorg waarop ingevolge de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) aanspraak bestaat.
 
@@ -26,7 +52,7 @@ Besluit:
 
 ### Hoofdstuk II. Financiële middelen
 
-#### Artikel 2. Totale contracteerruimte
+##### Artikel 2. Totale contracteerruimte
 
 De zorgautoriteit bepaalt de totale contracteerruimte voor het jaar 2011 via dezelfde systematiek als voor de jaren 2005 tot en met 2010 is toegepast. De zorgautoriteit berekent de totale contracteerruimte voor 2011 met inachtneming van de volgende onderdelen:
 
@@ -56,7 +82,7 @@ De zorgautoriteit bepaalt de totale contracteerruimte voor het jaar 2011 via dez
 
 - g. € 5 miljoen vanwege het schrappen van het recht op zorg in het kader van de AWBZ-uitleen betreffende de eenvoudige loophulpmiddelen.
 
-#### Artikel 3. Groeimiddelen
+##### Artikel 3. Groeimiddelen
 
 In 2011 is voor de groei van de totale AWBZ-uitgaven een bedrag van ten hoogste € 683 miljoen beschikbaar, waarvan € 340 miljoen resteert voor het maken van extra productieafspraken, omdat op dat maximum in totaal € 343 miljoen in mindering wordt gebracht voor de navolgende uitgaven waarvoor geen andere dekking dan de groeiruimte is:
 
@@ -70,7 +96,7 @@ In 2011 is voor de groei van de totale AWBZ-uitgaven een bedrag van ten hoogste 
 
 - e. € 25 miljoen, als herverdelingsruimte.
 
-#### Artikel 4. Geoormerkte middelen
+##### Artikel 4. Geoormerkte middelen
 
 Naast de contracteerruimte en naast de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029035&hoofdstuk=II&artikel=3&z=2010-12-08&g=2010-12-08) opgesomde middelen zijn geoormerkte middelen beschikbaar voor het maken van specifieke productieafspraken en doelen. Het betreft:
 
@@ -88,7 +114,7 @@ Naast de contracteerruimte en naast de in [artikel 3](https://wetten.overheid.nl
 
 ### Hoofdstuk III. Budgetrondes en regionale contracteerruimte
 
-#### Artikel 5. Budgetrondes
+##### Artikel 5. Budgetrondes
 
 1. De zorgautoriteit houdt voor productieafspraken voor het jaar 2011 een budgetronde in november 2010 en een budgetronde in november 2011. In de budgetronde van november 2011 kan de herschikking plaatsvinden.
 
@@ -96,7 +122,7 @@ Naast de contracteerruimte en naast de in [artikel 3](https://wetten.overheid.nl
 
 3. De zorgautoriteit maakt de voorlopige contracteerruimte 2012 bekend in juli 2011. Begin juni 2011 geef ik de zorgautoriteit daartoe bij brief inzicht in de verwachte contracteerruimte 2012, onder het voorbehoud van politieke besluitvorming in het najaar van 2011.
 
-#### Artikel 6. Regionale contracteerruimte
+##### Artikel 6. Regionale contracteerruimte
 
 1. De zorgautoriteit stelt ten behoeve van de productieafspraken voor de budgetronde in november van het jaar 2010, met inachtneming van de berekening van de totale contracteerruimte op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029035&hoofdstuk=II&artikel=2&z=2010-12-08&g=2010-12-08), tijdig de maximale contracteerruimte per zorgkantoorregio vast en deelt deze mee aan de zorgkantoren.
 
@@ -110,7 +136,7 @@ Naast de contracteerruimte en naast de in [artikel 3](https://wetten.overheid.nl
 
 - d. de mutaties van € 95 miljoen, € 50 miljoen en € 142 miljoen genoemd in [artikel 2, onderdeel 3, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0029035&hoofdstuk=II&artikel=2&z=2010-12-08&g=2010-12-08), zijnde gesommmeerd € 287 miljoen, worden proportioneel op de regionale contracteerruimtes in mindering gebracht.
 
-#### Artikel 7. Toetsing regionale contracteerruimte en geoormerkte middelen
+##### Artikel 7. Toetsing regionale contracteerruimte en geoormerkte middelen
 
 De zorgautoriteit toetst per zorgkantoorregio de totale financiële gevolgen van de productieafspraken aan de contracteerruimte, die voor het desbetreffende zorgkantoor is vastgesteld. De zorgautoriteit stelt beleidsregels vast waarin wordt aangegeven op welke wijze de toetsing zal plaatsvinden en welke indieningstermijnen zullen gelden. Daarbij hanteert de zorgautoriteit een systematiek alsook in voorgaande jaren is toegepast:
 
@@ -118,7 +144,7 @@ De zorgautoriteit toetst per zorgkantoorregio de totale financiële gevolgen van
 
 - b. indien de zorgautoriteit constateert dat de ingediende afspraken niet passen binnen de geoormerkte bedragen, wordt de overschrijding op de middelen niet gehonoreerd.
 
-#### Artikel 8. Overheveling en knelpunten
+##### Artikel 8. Overheveling en knelpunten
 
 1. De zorgautoriteit:
 
@@ -130,7 +156,7 @@ De zorgautoriteit toetst per zorgkantoorregio de totale financiële gevolgen van
 
 2. De zorgautoriteit hanteert de knelpuntenprocedure zoals ook in 2010 is gehanteerd.
 
-#### Artikel 9. Monitoring
+##### Artikel 9. Monitoring
 
 De zorgautoriteit informeert mij in mei 2011 over de ontwikkelingen in de contracteerruimte 2011 en de regionale contracteerruimtes 2011 in relatie tot de indicatie-ontwikkeling en betrekt daarbij het Centrum Indicatiestelling Zorg.
 
@@ -140,6 +166,6 @@ Indien de monitor daartoe volgens mij aanleiding geeft, zal ik de zorgautoriteit
 
 ### Hoofdstuk IV. slotbepaling
 
-#### Artikel 10. Inwerkingtreding en publicatie
+##### Artikel 10. Inwerkingtreding en publicatie
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.

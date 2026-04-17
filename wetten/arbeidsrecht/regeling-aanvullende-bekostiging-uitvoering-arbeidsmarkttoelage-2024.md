@@ -1,20 +1,46 @@
 ---
-title: "Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2024"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 6 december 2023, nr. 42834437, tot het verstrekken van aanvullende bekostiging voor het primair en voortgezet onderwijs voor de uitvoering van een arbeidsmarkttoelage voor 2024 (Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2024)"
 identifier: "BWBR0049210"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2024-08-24
-laatste_update: 2024-08-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049210"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-08-24"
+last_updated: "2024-08-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049210"
+soort: "ministeriele-regeling"
+stam_id: "16994083"
+version_id: "29886962"
+internal_id: "C42847061"
+label_id: "16904424"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049210/2024-08-24/0"
+intitule_bron: "Stcrt.2024-95"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-06"
+intitule_published: "2024-01-10"
+intitule_in_force: "2024-01-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-95"
+original_signed_date: "2023-12-06"
+original_published_date: "2024-01-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-95"
+entry_into_force_date: "2024-01-11"
+jci_1_3: "jci1.3:c:BWBR0049210&z=2024-08-24&g=2024-08-24"
+jci_1_0: "1.0:c:BWBR0049210&g=2024-08-24"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2024"
+signed_date: "2023-12-06"
+entry_into_force: "2024-01-11"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 6 december 2023, nr. 42834437, tot het verstrekken van aanvullende bekostiging voor het primair en voortgezet onderwijs voor de uitvoering van een arbeidsmarkttoelage voor 2024 (Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2024)
 
 Gelet op [artikel 119, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=119), [artikel 117, tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=117) en [artikel 5.9, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -56,13 +82,13 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Doel van de aanvullende bekostiging
+##### Artikel 2. Doel van de aanvullende bekostiging
 
 1. De minister verstrekt aanvullende bekostiging met als doel het versterken van de arbeidsmarktpositie van scholen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&artikel=3&z=2024-08-24&g=2024-08-24), en [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&artikel=4&z=2024-08-24&g=2024-08-24), met relatief veel kwetsbare leerlingen.
 
 2. De aanvullende bekostiging is bedoeld voor het toekennen van een arbeidsmarkttoelage aan al het personeel dat werkzaam is op de vestiging of vestigingen van een basisschool of school voor voortgezet onderwijs die behoren tot de 15% vestigingen met de relatief hoogste achterstandsscores op 1 oktober 2020, dan wel van een speciale school voor basisonderwijs of een school voor (voortgezet) speciaal onderwijs die behoren tot de 15% vestigingen met het relatief hoogste aantal leerlingen met een niet-Nederlandse culturele achtergrond op 1 oktober 2020.
 
-#### Artikel 3. Aanvullende bekostiging scholen voor primair onderwijs
+##### Artikel 3. Aanvullende bekostiging scholen voor primair onderwijs
 
 1. De Minister verstrekt aanvullende bekostiging voor het kalenderjaar 2024 aan het bevoegd gezag van een basisschool, een speciale school voor basisonderwijs of een school voor (voortgezet) speciaal onderwijs, met een vestiging die is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&bijlage=1&z=2024-08-24&g=2024-08-24).
 
@@ -86,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 8. De minister stelt de aanvullende bekostiging uiterlijk in de maand december van 2024 gewijzigd vast op grond van de kabinetsbijdrage voor loon- en prijsbijstelling voor dat jaar en voor het derde lid tevens op basis van het aantal leerlingen dat op 1 februari van het kalenderjaar 2023 stond ingeschreven bij de school.
 
-#### Artikel 4. Aanvullende bekostiging scholen voor voortgezet onderwijs
+##### Artikel 4. Aanvullende bekostiging scholen voor voortgezet onderwijs
 
 1. De Minister verstrekt aanvullende bekostiging voor het kalenderjaar 2024 aan het bevoegd gezag van een school voor voortgezet onderwijs, met een vestiging die is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&bijlage=2&z=2024-08-24&g=2024-08-24).
 
@@ -104,23 +130,23 @@ In deze regeling wordt verstaan onder:
 
 8. De minister stelt de aanvullende bekostiging uiterlijk in de maand december van 2024 gewijzigd vast op grond van de kabinetsbijdrage voor loon- en prijsbijstelling voor dat jaar en voor het derde lid tevens op basis van het door de accountant gevalideerde aantal leerlingen dat op 1 oktober van het kalenderjaar 2023 stond ingeschreven bij de school.
 
-#### Artikel 5. Besteding en verantwoording
+##### Artikel 5. Besteding en verantwoording
 
 1. De verantwoording van de besteding van deze aanvullende bekostiging geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132).
 
 2. De aanvullende bekostiging voor het doel, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&artikel=2&z=2024-08-24&g=2024-08-24), kan ook worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
-#### Artikel 6. Monitoring en evaluatie
+##### Artikel 6. Monitoring en evaluatie
 
 Ten behoeve van de monitoring van de implementatie en effecten van deze regeling op landelijk niveau verstrekt het bevoegd gezag desgevraagd een samenhangend overzicht van de gepleegde inspanningen en uitkomsten, waaronder financieel inzicht in de besteding, ter verwezenlijking van het doel, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&artikel=2&z=2024-08-24&g=2024-08-24).
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2024. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2023, treedt zij in werking met ingang van de dag na de datum van publicatie van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2024.
 
 2. Deze regeling vervalt met ingang van 1 januari 2028.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2024.
 

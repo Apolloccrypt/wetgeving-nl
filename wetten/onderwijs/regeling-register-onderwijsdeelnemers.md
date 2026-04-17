@@ -1,13 +1,39 @@
 ---
-title: "Regeling register onderwijsdeelnemers"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media van 29 mei 2020, nr. WJZ/24493101, houdende nadere regels over de levering van gegevens aan het register onderwijsdeelnemers en de verstrekking van gegevens uit dat register (Regeling register onderwijsdeelnemers)"
 identifier: "BWBR0043632"
-categorie: "Onderwijs"
-publicatiedatum: 2025-09-18
-laatste_update: 2025-09-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043632"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-18"
+last_updated: "2025-09-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043632"
+soort: "ministeriele-regeling"
+stam_id: "15485133"
+version_id: "28781562"
+internal_id: "C40750361"
+label_id: "15428074"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043632/2025-09-18/0"
+intitule_bron: "Stcrt.2020-30013"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-05-29"
+intitule_published: "2020-06-09"
+intitule_in_force: "2020-06-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-18587"
+original_signed_date: "2022-07-04"
+original_published_date: "2022-07-15"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-18587"
+entry_into_force_date: "2022-07-04"
+jci_1_3: "jci1.3:c:BWBR0043632&z=2025-09-18&g=2025-09-18"
+jci_1_0: "1.0:c:BWBR0043632&g=2025-09-18"
+citeertitel_status: "officieel"
+short_title: "Regeling register onderwijsdeelnemers"
+signed_date: "2022-07-04"
+entry_into_force: "2022-07-04"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media van 29 mei 2020, nr. WJZ/24493101, houdende nadere regels over de levering van gegevens aan het register onderwijsdeelnemers en de verstrekking van gegevens uit dat register (Regeling register onderwijsdeelnemers)
 
 Gelet op de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=7), [8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=8), [12, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=12), [artikel 15, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=15), en [artikel 19, derde lid, van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=19),
@@ -16,7 +42,7 @@ Besluiten:
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, voor zover niet anders is bepaald, verstaan onder:
 
@@ -52,7 +78,7 @@ In deze regeling wordt, voor zover niet anders is bepaald, verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Technische specificaties levering basis- en verzuimgegevens aan het register onderwijsdeelnemers
+##### Artikel 2. Technische specificaties levering basis- en verzuimgegevens aan het register onderwijsdeelnemers
 
 1. De technische specificaties voor de uitvoering van de leveringen van de basisgegevens, bedoeld in de [paragrafen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&paragraaf=2&z=2025-09-18&g=2025-09-18), worden voor de verschillende onderwijssectoren beschreven in de programma’s van eisen of aanvullingen op die programma’s zoals gepubliceerd op de website van de Dienst Uitvoering Onderwijs. Dit gebeurt voor de verschillende onderwijssectoren als volgt:
 
@@ -68,7 +94,7 @@ In deze regeling wordt, voor zover niet anders is bepaald, verstaan onder:
 
 #### Paragraaf 2. Levering basisgegevens aan het register onderwijsdeelnemers door WPO- en WEC-onderwijsinstellingen
 
-#### Artikel 3. Levering basisgegevens
+##### Artikel 3. Levering basisgegevens
 
 1. Het bestuur van een onderwijsinstelling als bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) of de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) levert aan de minister het persoonsgebonden nummer en de basisgegevens van een onderwijsdeelnemer die is of was ingeschreven aan die school, overeenkomstig de specificaties en op de wijze zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=1&z=2025-09-18&g=2025-09-18).
 
@@ -76,7 +102,7 @@ In deze regeling wordt, voor zover niet anders is bepaald, verstaan onder:
 
 3. Het bestuur van de school voor speciaal en voortgezet speciaal onderwijs ‘De Waterlelie’ te Cruquius of de school voor speciaal en voortgezet speciaal onderwijs ‘De Berkenschutse’ te Heeze, levert aan de minister het persoonsgebonden nummer en de basisgegevens, bedoeld in [artikel 19, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&artikel=19), van een onderwijsdeelnemer die wordt of is begeleid door een aan die school verbonden leraar, overeenkomstig de specificaties en op de wijze zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=1&z=2025-09-18&g=2025-09-18).
 
-#### Artikel 4. Data en termijnen voor levering basisgegevens inschrijving en terugmelding
+##### Artikel 4. Data en termijnen voor levering basisgegevens inschrijving en terugmelding
 
 1. Het bestuur van een onderwijsinstelling als bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) of de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) levert aan de minister de basisgegevens betreffende de inschrijving evenals de eventuele wijziging en toevoeging van die gegevens, met het persoonsgebonden nummer van de desbetreffende onderwijsdeelnemer binnen veertien dagen nadat deze in de administratie van de onderwijsinstelling zijn verwerkt als bedoeld in [artikel 40b, vijfde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40b) of [artikel 42a, vijfde lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=42a).
 
@@ -106,7 +132,7 @@ In deze regeling wordt, voor zover niet anders is bepaald, verstaan onder:
 
 #### Paragraaf 3. Levering basisgegevens aan het register onderwijsdeelnemers door WVO-onderwijsinstellingen
 
-#### Artikel 5. Levering basisgegevens inschrijving
+##### Artikel 5. Levering basisgegevens inschrijving
 
 1. Het bestuur van een onderwijsinstelling als bedoeld in de [WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) levert uiterlijk op de 15de van de maand volgend op de teldatum aan de minister het persoonsgebonden nummer en de basisgegevens, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=2&z=2025-09-18&g=2025-09-18), van elke onderwijsdeelnemer die is of was ingeschreven aan die onderwijsinstelling, overeenkomstig de specificatie van die basisgegevens zoals opgenomen in die bijlage.
 
@@ -116,7 +142,7 @@ In deze regeling wordt, voor zover niet anders is bepaald, verstaan onder:
 
 4. Het tweede lid is niet van toepassing op het bestuur van een school als bedoeld in [artikel 2.66 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.66).
 
-#### Artikel 6. Levering basisgegevens examens
+##### Artikel 6. Levering basisgegevens examens
 
 1. Het bestuur van een school als bedoeld in de [WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) levert zo spoedig mogelijk en uiterlijk binnen twee weken nadat de uitslag van het desbetreffende examen is vastgesteld het persoonsgebonden nummer en de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=3&z=2025-09-18&g=2025-09-18) genoemde basisgegevens van een onderwijsdeelnemer die bij de onderwijsinstelling staat ingeschreven en deelneemt aan een examen of een deel daarvan, voor zover het bestuur van de onderwijsinstelling de uitslag bepaalt.
 
@@ -134,7 +160,7 @@ De basisgegevens worden overeenkomstig de specificaties in [bijlage 3](https://w
 
 5. Het eerste tot en met vierde lid zijn van overeenkomstige toepassing op het bestuur van een school als bedoeld in de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) die is aangewezen op grond van [artikel 2.71 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.71).
 
-#### Artikel 7. Terugmelding basisgegevens inschrijving
+##### Artikel 7. Terugmelding basisgegevens inschrijving
 
 1. Binnen zeven dagen na de levering, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&paragraaf=3&artikel=5&z=2025-09-18&g=2025-09-18), meldt de minister aan het bestuur van een school als bedoeld in de [WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) de getoetste basisgegevens genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=2&z=2025-09-18&g=2025-09-18), inclusief de uitkomsten van de toetsing, bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=14), en de volgende basisgegevens:
 
@@ -162,7 +188,7 @@ De basisgegevens worden overeenkomstig de specificaties in [bijlage 3](https://w
 
 4. Het derde lid is niet van toepassing op onderwijsinstellingen die zijn aangewezen op grond van [artikel 2.66 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.66).
 
-#### Artikel 8. Terugmelding basisgegevens examens
+##### Artikel 8. Terugmelding basisgegevens examens
 
 1. De minister meldt de getoetste basisgegevens genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=3&z=2025-09-18&g=2025-09-18), inclusief de uitkomsten bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&paragraaf=3&artikel=7&z=2025-09-18&g=2025-09-18), per omgaande aan het bestuur van een school als bedoeld in de [WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) of het bestuur van een onderwijsinstelling als bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&paragraaf=3&artikel=6&z=2025-09-18&g=2025-09-18).
 
@@ -176,13 +202,13 @@ De basisgegevens worden overeenkomstig de specificaties in [bijlage 3](https://w
 
 #### Paragraaf 3a. Levering basisgegevens aan het register onderwijsdeelnemers door B3- en B4-onderwijsinstellingen
 
-#### Artikel 9. Levering basisgegevens inschrijving
+##### Artikel 9. Levering basisgegevens inschrijving
 
 1. Het bestuur van een onderwijsinstelling als bedoeld in de WEB levert van elke onderwijsdeelnemer die is of was ingeschreven bij die onderwijsinstelling aan de minister het persoonsgebonden nummer en de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=4&z=2025-09-18&g=2025-09-18), onderdelen A en B genoemde basisgegevens en die basisgegevens in onderdelen C, D en E van die bijlage die betrekking hebben op de inschrijving.
 
 2. De levering, bedoeld in het eerste lid, geschiedt zo spoedig mogelijk maar uiterlijk binnen zeven dagen nadat deze gegevens zijn ontvangen of mutaties in bestaande gegevens zijn ontstaan en overeenkomstig de specificaties van de basisgegevens zoals opgenomen in de genoemde onderdelen van die [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=4&z=2025-09-18&g=2025-09-18).
 
-#### Artikel 10. Levering basisgegevens examens
+##### Artikel 10. Levering basisgegevens examens
 
 1. Het bestuur van een onderwijsinstelling als bedoeld in de WEB, levert voor elke onderwijsdeelnemer aan het beroepsonderwijs die is ingeschreven bij die onderwijsinstelling aan de minister het persoonsgebonden nummer en de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=4&z=2025-09-18&g=2025-09-18), onderdelen A en B, genoemde basisgegevens en die basisgegevens in onderdeel C die betrekking hebben op de examens.
 
@@ -194,11 +220,11 @@ De basisgegevens worden overeenkomstig de specificaties in [bijlage 3](https://w
 
 5. Op de leveringen, bedoeld in het tweede lid, is [artikel 6, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&paragraaf=3&artikel=6&z=2025-09-18&g=2025-09-18), van overeenkomstige toepassing.
 
-#### Artikel 11. Uitzondering leveren basisgegevens inschrijving en examens overige educatie
+##### Artikel 11. Uitzondering leveren basisgegevens inschrijving en examens overige educatie
 
 Het bestuur van een onderwijsinstelling als bedoeld in [artikel 1.4a.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4a.1) die voor een opleiding educatie als bedoeld in [artikel 7.3.1, eerste lid, onderdeel b tot en met f, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) diploma-erkenning heeft als bedoeld in artikel 1.4a.1, eerste lid, van de WEB hoeft voor die opleiding educatie de basisgegevens met betrekking tot de inschrijvings- en examengegevens, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=4&z=2025-09-18&g=2025-09-18), onderdelen A tot en met D, voor zover dat lid van overeenkomstige toepassing is verklaard in artikel 1.4a.1, achtste lid, onderdeel a, van de WEB, niet langer te verstrekken.
 
-#### Artikel 12. Terugmelding basisgegevens inschrijving en examens
+##### Artikel 12. Terugmelding basisgegevens inschrijving en examens
 
 De minister meldt de gegevens, bedoeld in [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&paragraaf=4&artikel=9&z=2025-09-18&g=2025-09-18) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&paragraaf=4&artikel=10&z=2025-09-18&g=2025-09-18), binnen twee weken nadat ze zijn ontvangen en getoetst op juistheid en volledigheid, zoals bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=14), aan het bestuur terug aangevuld met de volgende gegevens uit het register onderwijsdeelnemers:
 
@@ -216,17 +242,17 @@ De minister meldt de gegevens, bedoeld in [artikelen 9](https://wetten.overheid.
 
 - g. het verblijfsrecht, bedoeld in [artikel 4, eerste lid, onderdeel m, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&artikel=4).
 
-#### Artikel 13. Basisgegevens teldatum
+##### Artikel 13. Basisgegevens teldatum
 
 Het bestuur draagt er zorg voor dat alle op de teldatum betrekking hebbende basisgegevens die van belang zijn voor de inschrijving uiterlijk op 15 oktober volgend op de teldatum aan de minister zijn gemeld.
 
-#### Artikel 14. Leveringswijze gegevens experimenten doorlopende leerlijnen
+##### Artikel 14. Leveringswijze gegevens experimenten doorlopende leerlijnen
 
 In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&paragraaf=1&artikel=2&z=2025-09-18&g=2025-09-18), geschieden leveringen aan de minister van de gegevens, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=4&z=2025-09-18&g=2025-09-18), onderdeel E, overeenkomstig de leveringswijze zoals opgenomen in die bijlage.
 
 #### Paragraaf 5. Levering basisgegevens aan het register onderwijsdeelnemers door WHW-onderwijsinstellingen
 
-#### Artikel 15. Levering basisgegevens inschrijving
+##### Artikel 15. Levering basisgegevens inschrijving
 
 1. Het bestuur van een onderwijsinstelling als bedoeld in de [WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) levert van elke onderwijsdeelnemer die is of was ingeschreven aan de minister het persoonsgebonden nummer en de basisgegevens genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=5&z=2025-09-18&g=2025-09-18), binnen 8 weken na de beslissing inzake de inschrijving, bedoeld in [artikel 7.32 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.32), of wijziging van die basisgegevens, onverminderd het bepaalde in [artikel 4.3 van het Uitvoeringsbesluit WHW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.3). De gegevens worden geleverd overeenkomstig de specificaties opgenomen in bijlage 5.
 
@@ -238,19 +264,19 @@ In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 5. De levering van het overige basisgegeven over het al dan niet zijn vrijgesteld van het betalen van collegegeld, bedoeld in [artikel 8, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&artikel=8) is niet van toepassing op de Open Universiteit.
 
-#### Artikel 16. Levering basisgegevens examens
+##### Artikel 16. Levering basisgegevens examens
 
 Het bestuur van een onderwijsinstelling als bedoeld in de [WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) levert de op het afsluitende examen betrekking hebbende basisgegevens, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=6&z=2025-09-18&g=2025-09-18), uiterlijk binnen 8 weken nadat de examencommissie, conform [artikel 7.12 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12), heeft vastgesteld dat het examen met succes is afgerond aan de minister, onverminderd het bepaalde in [artikel 4.3 van het Uitvoeringsbesluit WHW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.3). De gegevens worden geleverd overeenkomstig de specificaties opgenomen in bijlage 6.
 
 #### Paragraaf 5. Levering basisgegevens aan het register onderwijsdeelnemers door WHW-onderwijsinstellingen
 
-#### Artikel 17. Verstrekken gegevens van WPO- en WEC-onderwijsinstellingen
+##### Artikel 17. Verstrekken gegevens van WPO- en WEC-onderwijsinstellingen
 
 1. Uit het register onderwijsdeelnemers worden voor iedere onderwijsinstelling als bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) afzonderlijk aan de minister en de inspectie de basisgegevens van onderwijsdeelnemers die aan die onderwijsinstelling ingeschreven zijn of ingeschreven zijn geweest verstrekt, met uitzondering van de persoonsgebonden nummers, de geslachtsnamen, de voornamen, de geboortedata en de adresgegevens van de onderwijsdeelnemers. De gegevens worden gespecificeerd overeenkomstig de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=1&z=2025-09-18&g=2025-09-18) genoemd in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&paragraaf=2&z=2025-09-18&g=2025-09-18).
 
 2. De verstrekkingen, bedoeld in het eerste lid, geschieden wekelijks.
 
-#### Artikel 18. Verstrekken gegevens van WVO-onderwijsinstellingen
+##### Artikel 18. Verstrekken gegevens van WVO-onderwijsinstellingen
 
 1. Uit het register onderwijsdeelnemers worden voor iedere school als bedoeld in de [WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) afzonderlijk aan de minister en de inspectie de basisgegevens van onderwijsdeelnemers die aan die onderwijsinstelling ingeschreven zijn of ingeschreven zijn geweest verstrekt, met uitzondering van de persoonsgebonden nummers, de geslachtsnamen, de voornamen, de geboortedata en de adresgegevens van de onderwijsdeelnemers. De gegevens worden gespecificeerd overeenkomstig de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=2&z=2025-09-18&g=2025-09-18) genoemd in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&paragraaf=3&z=2025-09-18&g=2025-09-18).
 
@@ -274,7 +300,7 @@ Het bestuur van een onderwijsinstelling als bedoeld in de [WHW](https://wetten.o
 
 8. Het derde en vierde lid zijn niet van toepassing op scholen als bedoeld in [artikel 2.66 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.66).
 
-#### Artikel 19. Verstrekken gegevens van WEB-onderwijsinstellingen
+##### Artikel 19. Verstrekken gegevens van WEB-onderwijsinstellingen
 
 1. Uit het register onderwijsdeelnemers worden voor iedere onderwijsinstelling als bedoeld in de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) afzonderlijk aan de minister en de inspectie de basisgegevens van onderwijsdeelnemers die aan die onderwijsinstelling ingeschreven zijn of ingeschreven zijn geweest verstrekt, met uitzondering van de persoonsgebonden nummers, de geslachtsnamen, de voornamen, de geboortedata en de adresgegevens van de onderwijsdeelnemers. De gegevens worden gespecificeerd overeenkomstig de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=4&z=2025-09-18&g=2025-09-18) genoemd in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&paragraaf=4&z=2025-09-18&g=2025-09-18).
 
@@ -282,13 +308,13 @@ Het bestuur van een onderwijsinstelling als bedoeld in de [WHW](https://wetten.o
 
 3. De gegevens omtrent de examens worden onmiddellijk na opname in het register onderwijsdeelnemers aan de inspectie verstrekt.
 
-#### Artikel 20. Verstrekken gegevens van WHW-onderwijsinstellingen
+##### Artikel 20. Verstrekken gegevens van WHW-onderwijsinstellingen
 
 Uit het register onderwijsdeelnemers worden jaarlijks voor iedere onderwijsinstelling als bedoeld in de [WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) afzonderlijk aan de minister en de inspectie de basisgegevens van onderwijsdeelnemers die aan die onderwijsinstelling ingeschreven zijn of ingeschreven zijn geweest verstrekt, met uitzondering van de persoonsgebonden nummers, de geslachtsnamen, de voornamen en de geboortedata van de onderwijsdeelnemers. De gegevens worden gespecificeerd overeenkomstig [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&paragraaf=5&z=2025-09-18&g=2025-09-18).
 
 #### Paragraaf 7. Specificatie verzuimgegevens
 
-#### Artikel 21. Specificatie verzuimgegevens
+##### Artikel 21. Specificatie verzuimgegevens
 
 1. In het register onderwijsdeelnemers wordt van het verblijfadres, bedoeld in [artikel 13, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042639&artikel=13), geregistreerd:
 
@@ -354,33 +380,33 @@ Uit het register onderwijsdeelnemers worden jaarlijks voor iedere onderwijsinste
 
 #### Paragraaf 6a. Aanvragen gegevensverstrekkingen op grond van [artikel 23 van de WRO](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=23)
 
-#### Artikel 22. Autorisatie
+##### Artikel 22. Autorisatie
 
 De regels over de autorisatie van degenen die onder het gezag van de minister persoonsgegevens verwerken in het kader van het register onderwijsdeelnemers, zijn opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=7&z=2025-09-18&g=2025-09-18).
 
 #### Paragraaf 6a. Aanvragen gegevensverstrekkingen op grond van [artikel 23 van de WRO](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=23)
 
-#### Artikel 23. Intrekken regelingen
+##### Artikel 23. Intrekken regelingen
 
 De [Regeling gebruik gegevens bron](https://wetten.overheid.nl/jci1.3:c:BWBR0027566) en de [Regeling gegevensverstrekking persoonsgebonden nummer BVE 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027035) worden ingetrokken.
 
-#### Artikel 24. Wijzing [Regeling informatievoorziening WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0041056)
+##### Artikel 24. Wijzing [Regeling informatievoorziening WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0041056)
 
 Wijzigt de Regeling informatievoorziening WPO/WEC.
 
-#### Artikel 25. Wijziging [Regeling informatievoorziening WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0040429)
+##### Artikel 25. Wijziging [Regeling informatievoorziening WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0040429)
 
 Wijzigt de Regeling informatievoorziening WVO.
 
-#### Artikel 26. Wijziging [Regeling financiën hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024005)
+##### Artikel 26. Wijziging [Regeling financiën hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024005)
 
 Wijzigt de Regeling financiën hoger onderwijs.
 
-#### Artikel 27. Wijziging terminologie basisregister onderwijs (BRON) in diverse regelingen naar register onderwijsdeelnemers en andere verwijzingen
+##### Artikel 27. Wijziging terminologie basisregister onderwijs (BRON) in diverse regelingen naar register onderwijsdeelnemers en andere verwijzingen
 
 Wijzigt de Eerste Regeling bekostiging personeel PO 2020–2021 en vaststelling bedragen voor ondersteuning van leerlingen in het PO en VO 2020–2021, de Definitieve Regeling bekostiging personeel PO 2018–2019 en vaststelling bedragen voor ondersteuning van leerlingen in het PO en VO 2018–2019, de Regeling leerplusarrangement vo, de Regeling leerresultaten VO 2016, de Regeling resultaatafhankelijke bekostiging vsv vo, de Tweede Regeling bekostiging personeel PO 2019–2020 en vaststelling bedragen voor ondersteuning van leerlingen in het PO en VO 2019–2020, de Regeling vaststelling meldingsformulier geïndiceerde leerlingen, het Uitvoeringsregeling WEB 2007 en de Regeling codetabellen school- en studiejaar 2019–2020.
 
-#### Artikel 28. Inwerkingtreding
+##### Artikel 28. Inwerkingtreding
 
 1. Deze regeling treedt in werking op 1 juli 2020, met uitzondering van:
 
@@ -390,7 +416,7 @@ Wijzigt de Eerste Regeling bekostiging personeel PO 2020–2021 en vaststelling 
 
 2. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=2&z=2025-09-18&g=2025-09-18), voor zover het betreft de onderdelen ‘Opleidingskenmerk’ en ‘Fase’, en [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=4&z=2025-09-18&g=2025-09-18), voor zover het betreft de onderdelen ‘Leerroute’ en ‘Fase’, treden in werking op het tijdstip waarop artikel I van het Besluit tot wijziging van het [Besluit register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042639) en tot intrekking van het [Besluit experimenten doorlopende leerlijnen vmbo-mbo 2014–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0033984) in verband met de invoering van doorlopende leerroutes vmbo-mbo in werking treedt.
 
-#### Artikel 29. Citeertitel
+##### Artikel 29. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling register onderwijsdeelnemers.
 
@@ -790,7 +816,7 @@ Uitsluitend leerbedrijven met een gunstige beoordeling van de Samenwerkingsorgan
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 27a
+##### Artikel 27a
 
 Wijzigt deze regeling.
 
@@ -1192,7 +1218,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Paragraaf 5. Levering basisgegevens aan het register onderwijsdeelnemers door WHW-onderwijsinstellingen
 
-#### Artikel 18a. Verstrekken gegevens van B3- en B4-onderwijsinstellingen
+##### Artikel 18a. Verstrekken gegevens van B3- en B4-onderwijsinstellingen
 
 1. Uit het register onderwijsdeelnemers worden voor iedere onderwijsinstelling als bedoeld in [artikel 1, onderdeel b, subonderdeel 3 of 4, van de LPW](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=1), of [artikel 1, onderdeel b, onder 3° of 4°, van de Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=1) afzonderlijk aan de Minister en de inspectie de basisgegevens van onderwijsdeelnemers die aan die onderwijsinstelling ingeschreven zijn of ingeschreven zijn geweest verstrekt, met uitzondering van de persoonsgebonden nummers, de geslachtsnamen, de voornamen, de geboortedata en de adresgegevens van de onderwijsdeelnemers. De gegevens worden gespecificeerd overeenkomstig de bijlage genoemd in [paragraaf 3A](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&paragraaf=3a&z=2025-09-18&g=2025-09-18).
 
@@ -1341,7 +1367,7 @@ Als referentietabel dient een tabel zoals verstrekt door DUO. Deze tabel staat i
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 20a. Aanvraagformulier
+##### Artikel 20a. Aanvraagformulier
 
 Bij een verzoek tot het nemen van een besluit als bedoeld in [artikel 23, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=23), wordt gebruik gemaakt van het aanvraagformulier dat in [bijlage 6A](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=6a&z=2025-09-18&g=2025-09-18) is opgenomen.
 
@@ -1500,11 +1526,11 @@ Mogelijke waarden:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8a. Levering basisgegevens
+##### Artikel 8a. Levering basisgegevens
 
 Het bestuur van een onderwijsinstelling als bedoeld in [artikel 1, onderdeel b, subonderdeel 3 of 4, van de LPW](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=1), of [artikel 1, onderdeel b, onder 3° of 4°, van de Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=1) levert aan de Minister het persoonsgebonden nummer en de basisgegevens van een onderwijsdeelnemer die is of was ingeschreven aan die onderwijsinstelling, overeenkomstig de specificaties en op de wijze zoals opgenomen in [bijlage 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=2a&z=2025-09-18&g=2025-09-18).
 
-#### Artikel 8b. Data en termijnen voor levering basisgegevens inschrijving en terugmelding
+##### Artikel 8b. Data en termijnen voor levering basisgegevens inschrijving en terugmelding
 
 1. Het bestuur levert aan de Minister de basisgegevens betreffende de inschrijving evenals de eventuele wijziging en toevoeging van die gegevens, met het persoonsgebonden nummer van de desbetreffende onderwijsdeelnemer binnen veertien dagen nadat deze in de administratie van de onderwijsinstelling zijn verwerkt.
 
@@ -1528,7 +1554,7 @@ Het bestuur van een onderwijsinstelling als bedoeld in [artikel 1, onderdeel b, 
 
 #### Paragraaf 6. Verstrekking basisgegevens uit het register onderwijsdeelnemers aan de minister en inspectie
 
-#### Artikel 21a. Termijn voor levering verzuimgegevens
+##### Artikel 21a. Termijn voor levering verzuimgegevens
 
 1. Het bestuur van een onderwijsinstelling als bedoeld in de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), [WVO2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) of [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) levert de verzuimgegevens aan de Minister binnen zeven dagen nadat deze in de administratie van de onderwijsinstelling zijn verwerkt.
 
@@ -1774,7 +1800,7 @@ Voor de levering van gegevens naar buiten DUO is een gespecialiseerd team sameng
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Omhangbepaling
+##### Artikel 1a. Omhangbepaling
 
 Deze regeling is mede gebaseerd op [artikel 15, vijfde lid, van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=15).
 

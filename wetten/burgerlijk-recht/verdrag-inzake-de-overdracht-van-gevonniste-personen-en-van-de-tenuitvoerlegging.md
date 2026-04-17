@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake de overdracht van gevonniste personen en van de tenuitvoerlegging van veroordelingen opgelegd bij vonnissen tussen het Koninkrijk der Nederlanden en de Federale Republiek Brazilië"
 identifier: "BWBV0003113"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2011-08-01
-laatste_update: 2011-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003113"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-08-01"
+last_updated: "2011-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003113"
+soort: "verdrag"
+stam_id: "10003335993"
+version_id: "10003366072"
+internal_id: "C10007292531"
+label_id: "10003321694"
+dtd_version: "2.0"
+original_entry_into_force: "2011-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003113/2011-08-01/0"
+intitule_bron: "Trb.2009-25"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-02-27"
+intitule_in_force: "2011-08-18"
+intitule_status: "goed"
+original_publication: "Trb.2009-25"
+original_published_date: "2009-02-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2009-25"
+entry_into_force_date: "2011-08-01"
+jci_1_3: "jci1.3:c:BWBV0003113&z=2011-08-01&g=2011-08-01"
+jci_1_0: "1.0:c:BWBV0003113&g=2011-08-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-08-01"
 ---
-
 # Verdrag inzake de overdracht van gevonniste personen en van de tenuitvoerlegging van veroordelingen opgelegd bij vonnissen tussen het Koninkrijk der Nederlanden en de Federale Republiek Brazilië
 
 Het Koninkrijk der Nederlanden
@@ -20,7 +42,7 @@ Geleid door de wens de internationale samenwerking op het gebied van het strafre
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -46,7 +68,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - g. „ministerie van Justitie”: in de Federale Republiek Brazilië, het ministerie van Justitie en in het Koninkrijk der Nederlanden, het ministerie van Justitie van Nederland, het ministerie van Justitie van de Nederlandse Antillen of het ministerie van Justitie van Aruba, al naargelang het deel van het Koninkrijk waar de gevonniste persoon zijn hoofdverblijf heeft of waar het vonnis wordt gewezen.
 
-#### Artikel 2. Algemene beginselen
+##### Artikel 2. Algemene beginselen
 
 1. De Partijen verbinden zich elkaar wederzijds in zo ruim mogelijke mate samenwerking te verlenen met betrekking tot de overdracht van gevonniste personen en van de tenuitvoerlegging van veroordelingen overeenkomstig de bepalingen van dit Verdrag.
 
@@ -54,7 +76,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. De overbrenging kan door de Staat van veroordeling of door de Staat van tenuitvoerlegging worden verzocht.
 
-#### Artikel 3. Voorwaarden voor overbrenging
+##### Artikel 3. Voorwaarden voor overbrenging
 
 1. De gevonniste persoon kan overeenkomstig de bepalingen van dit Verdrag, slechts onder de navolgende voorwaarden worden overgebracht:
 
@@ -72,7 +94,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 2. In uitzonderingsgevallen kunnen de Staat van veroordeling en de Staat van tenuitvoerlegging zich akkoord verklaren met een overbrenging zelfs wanneer de duur van het alsnog door de gevonniste persoon te ondergane gedeelte van de veroordeling minder is dan dat vermeld in het eerste lid, onderdeel c.
 
-#### Artikel 4. Verplichting tot het verstrekken van inlichtingen
+##### Artikel 4. Verplichting tot het verstrekken van inlichtingen
 
 1. Een gevonniste persoon op wie dit Verdrag mogelijk van toepassing is, dient door de Staat van veroordeling en de Staat van tenuitvoerlegging van de strekking van dit Verdrag in kennis te worden gesteld.
 
@@ -92,7 +114,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 5. De gevonniste persoon dient van elke door de Staat van veroordeling of door de Staat van tenuitvoerlegging ingevolge de vorenstaande leden ondernomen actie schriftelijk in kennis te worden gesteld, alsmede van elke door een van de beide Staten op een verzoek tot overbrenging genomen beslissing.
 
-#### Artikel 5. Verzoeken en antwoorden
+##### Artikel 5. Verzoeken en antwoorden
 
 1. De verzoeken tot overbrenging uit hoofde van dit Verdrag en de antwoorden daarop geschieden schriftelijk. Indien zulks is overeengekomen tussen de ministeries van Justitie kunnen elektronische communicatiemiddelen worden gebruikt onder voorwaarden die het de ontvangende Staat mogelijk maken de authenticiteit vast te stellen en mits de communicatie schriftelijk wordt vastgelegd.
 
@@ -100,7 +122,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. De aangezochte Staat stelt de verzoekende Staat onverwijld in kennis van zijn beslissing of hij instemt met het verzoek tot overbrenging.
 
-#### Artikel 6. Stukken ter ondersteuning
+##### Artikel 6. Stukken ter ondersteuning
 
 1. De Staat van tenuitvoerlegging verstrekt de Staat van veroordeling op diens verzoek:
 
@@ -122,27 +144,27 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Elk van de beide Staten kan verzoeken in het bezit te worden gesteld van een van de in het eerste of tweede lid bedoelde stukken alvorens een verzoek tot overbrenging te doen of een beslissing te nemen of hij al dan niet met de overbrenging zal instemmen.
 
-#### Artikel 7. Gevolgen van de overbrenging voor de Staat van veroordeling
+##### Artikel 7. Gevolgen van de overbrenging voor de Staat van veroordeling
 
 1. Met de daadwerkelijke overname van de gevonniste persoon door de autoriteiten van de Staat van tenuitvoerlegging wordt de tenuitvoerlegging van de veroordeling in de Staat van veroordeling geschorst.
 
 2. De Staat van veroordeling kan de veroordeling niet langer ten uitvoer leggen, indien de Staat van tenuitvoerlegging de veroordeling als geheel ten uitvoer gelegd beschouwt.
 
-#### Artikel 8. Gevolgen van de overbrenging voor de Staat van tenuitvoerlegging
+##### Artikel 8. Gevolgen van de overbrenging voor de Staat van tenuitvoerlegging
 
 1. De voortzetting van de tenuitvoerlegging van de veroordeling van de overgebrachte dader vindt plaats in overeenstemming met de wetgeving, de bestuursrechtelijke of gerechtelijke procedures van de Staat van tenuitvoerlegging. Deze Staat kan, bij de beslissing inzake vervroegde of voorwaardelijke invrijheidstelling, de in [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=6&z=2011-08-01&g=2011-08-01), bedoelde bepalingen of beslissingen in aanmerking nemen.
 
 2. De Staat van tenuitvoerlegging is gebonden aan het rechtskarakter en de duur van de veroordeling, zoals vastgesteld door de Staat van veroordeling. Geen gedetineerde wordt overgebracht tenzij de veroordeling van een duur is of door de bevoegde autoriteiten van de Staat van tenuitvoerlegging is aangepast aan een duur waarvan de tenuitvoerlegging mogelijk is in de Staat van tenuitvoerlegging. De door de Staat van veroordeling opgelegde sanctie mag naar aard en duur niet door de Staat van tenuitvoerlegging worden verzwaard.
 
-#### Artikel 9. Herziening van het vonnis
+##### Artikel 9. Herziening van het vonnis
 
 Alleen de Staat van veroordeling heeft het recht te beslissen op een verzoek tot herziening van het vonnis.
 
-#### Artikel 10. Beëindiging van de tenuitvoerlegging
+##### Artikel 10. Beëindiging van de tenuitvoerlegging
 
 De Staat van tenuitvoerlegging dient de tenuitvoerlegging van de veroordeling te beëindigen, zodra hij door de Staat van veroordeling in kennis is gesteld van enige beslissing of maatregel ten gevolge waarvan de veroordeling niet meer voor tenuitvoerlegging vatbaar is.
 
-#### Artikel 11. Bericht inzake tenuitvoerlegging
+##### Artikel 11. Bericht inzake tenuitvoerlegging
 
 De Staat van tenuitvoerlegging bericht de Staat van veroordeling ten aanzien van de tenuitvoerlegging van de veroordeling:
 
@@ -152,13 +174,13 @@ De Staat van tenuitvoerlegging bericht de Staat van veroordeling ten aanzien van
 
 - c. indien de Staat van veroordeling om een bijzonder rapport verzoekt.
 
-#### Artikel 12. Regeling voor overbrenging
+##### Artikel 12. Regeling voor overbrenging
 
 1. De Staat van tenuitvoerlegging is verantwoordelijk voor de bewaring en het vervoer van de gevonniste persoon van de Staat van veroordeling naar de Staat van tenuitvoerlegging. Daartoe nemen de bevoegde autoriteiten van de Staat van tenuitvoerlegging de verantwoordelijkheid voor de gevonniste persoon over op een tussen de beide Staten overeengekomen plaats in de Staat van veroordeling.
 
 2. Bij de overlevering van de gevonniste persoon verstrekken de bevoegde autoriteiten van de Staat van veroordeling aan de autoriteiten van de Staat van tenuitvoerlegging die de verantwoordelijkheid voor de gevonniste persoon overnemen een document gericht aan het ministerie van Justitie van de Staat van tenuitvoerlegging, waarin de tijd die de gedetineerde feitelijk in de Staat van veroordeling in detentie heeft doorgebracht alsmede, indien van toepassing, de tijd die in mindering is gebracht op zijn of haar veroordeling wegens zijn of haar gedrag en/of andere verdiensten tijdens de detentie, is vermeld.
 
-#### Artikel 13. Talen en kosten
+##### Artikel 13. Talen en kosten
 
 1. De kennisgevingen en inlichtingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=4&z=2011-08-01&g=2011-08-01), en de verzoeken en berichten, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=5&z=2011-08-01&g=2011-08-01), en de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=11&z=2011-08-01&g=2011-08-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=12&z=2011-08-01&g=2011-08-01), dienen te worden gesteld in de taal van de Partij waaraan zij zijn gericht. De stukken ter ondersteuning van een verzoek als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=6&z=2011-08-01&g=2011-08-01) dienen vergezeld te gaan van een vertaling in de taal van de Partij waaraan zij zijn gericht.
 
@@ -166,7 +188,7 @@ De Staat van tenuitvoerlegging bericht de Staat van veroordeling ten aanzien van
 
 3. De kosten voortvloeiend uit de toepassing van het Verdrag worden door de Staat van tenuitvoerlegging gedragen, uitgezonderd de kosten die uitsluitend op het grondgebied van de Staat van veroordeling zijn gemaakt.
 
-#### Artikel 14. Overdracht van de tenuitvoerlegging van de veroordeling
+##### Artikel 14. Overdracht van de tenuitvoerlegging van de veroordeling
 
 1. Partijen kunnen van geval tot geval overeenkomen dat, indien een onderdaan van de Staat van tenuitvoerlegging die bij vonnis is veroordeeld op het grondgebied van de Staat van veroordeling is gevlucht of op andere wijze is teruggekeerd naar de Staat van tenuitvoerlegging wegens een tegen hem of haar in de Staat van veroordeling lopende strafvervolging of, nadat een veroordeling heeft plaatsgevonden, teneinde zich te onttrekken aan de tenuitvoerlegging of verdere tenuitvoerlegging van deze veroordeling in de Staat van veroordeling, de Staat van veroordeling de Staat van tenuitvoerlegging kan verzoeken de tenuitvoerlegging van de veroordeling over te nemen.
 
@@ -178,17 +200,17 @@ De Staat van tenuitvoerlegging bericht de Staat van veroordeling ten aanzien van
 
 5. Brazilië kan als Staat van tenuitvoerlegging de bepalingen van het vierde lid toepassen voor zover zulks is toegestaan krachtens zijn nationale recht.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat de Partijen elkaar schriftelijk, langs diplomatieke weg, in kennis hebben gesteld van de voltooiing van de grondwettelijke vereisten voor de inwerkingtreding van dit Verdrag.
 
 2. Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op Nederland, op de Nederlandse Antillen en op Aruba.
 
-#### Artikel 16. Toepassing in de tijd
+##### Artikel 16. Toepassing in de tijd
 
 Dit Verdrag is van toepassing op de tenuitvoerlegging van veroordelingen die hetzij voor hetzij na de inwerkingtreding van het Verdrag zijn uitgesproken.
 
-#### Artikel 17. Beëindiging
+##### Artikel 17. Beëindiging
 
 1. Elk van de Partijen kan dit Verdrag te allen tijde beëindigen door middel van een schriftelijke kennisgeving langs diplomatieke weg aan de andere Partij. De beëindiging wordt van kracht een jaar na de datum van ontvangst van een zodanige kennisgeving.
 

@@ -1,20 +1,46 @@
 ---
-title: "Besluit aanwijzing toezichthouder markttoezicht Wegenverkeerswet 1994"
+title: "Besluit van de Minister van Infrastructuur en Waterstaat, van 9 december 2020, nr. IENW/BSK-2020/239093, houdende aanwijzing personen belast met toezicht als bedoeld in artikel 158, eerste lid, van de Wegenverkeerswet 1994 ten behoeve van markttoezicht als bedoeld in die wet (Besluit aanwijzing toezichthouders markttoezicht Wegenverkeerswet 1994)"
 identifier: "BWBR0044516"
-categorie: "Verkeer"
-publicatiedatum: 2023-05-31
-laatste_update: 2023-05-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044516"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-05-31"
+last_updated: "2023-05-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044516"
+soort: "ministeriele-regeling"
+stam_id: "15761053"
+version_id: "27313382"
+internal_id: "C38579001"
+label_id: "15699264"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044516/2023-05-31/0"
+intitule_bron: "Stcrt.2020-64270"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-09"
+intitule_published: "2020-12-18"
+intitule_in_force: "2020-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-64270"
+original_signed_date: "2020-12-09"
+original_published_date: "2020-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-64270"
+entry_into_force_date: "2020-12-19"
+jci_1_3: "jci1.3:c:BWBR0044516&z=2023-05-31&g=2023-05-31"
+jci_1_0: "1.0:c:BWBR0044516&g=2023-05-31"
+citeertitel_status: "officieel"
+short_title: "Besluit aanwijzing toezichthouder markttoezicht Wegenverkeerswet 1994"
+signed_date: "2020-12-09"
+entry_into_force: "2020-12-19"
 ---
-
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 9 december 2020, nr. IENW/BSK-2020/239093, houdende aanwijzing personen belast met toezicht als bedoeld in artikel 158, eerste lid, van de Wegenverkeerswet 1994 ten behoeve van markttoezicht als bedoeld in die wet (Besluit aanwijzing toezichthouders markttoezicht Wegenverkeerswet 1994)
 
 Gelet op [artikel 158, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=158);
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
@@ -36,7 +62,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 - –. **wet:** [Wegenverkeerswet 1994](onbekend).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met het toezicht onderscheidenlijk het markttoezicht op de naleving van het bepaalde bij of krachtens de [artikelen 20f](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20f), [20g](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20g), [20ga](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20ga), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=27), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=29), [29a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=29a), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=30), [30a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=30a), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=33), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=34), [34a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=34a) en [35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=35) zijn belast de ambtenaren van de ILT belast met toezicht.
 
@@ -74,15 +100,15 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 5. Voor het toezicht op de naleving van [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=35) wordt daaronder ook verstaan het markttoezicht op [verordening (EU) 2020/740](32640R2020) indien en voor zover die verordening in verband met de goede uitvoering ervan, naast het genoemde artikel uit de [wet](onbekend), tot afzonderlijk markttoezicht op marktdeelnemers noopt.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 20b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20b) zijn ten aanzien van de conformiteit van de productie van motorrijtuigen die op basis van dit artikel is vastgesteld, belast de ambtenaren van de divisie Voertuig, Regelgeving & Toelating van de Dienst Wegverkeer.
 
-#### Artikel 5
+##### Artikel 5
 
 De volgende besluiten worden ingetrokken:
 
@@ -92,11 +118,11 @@ De volgende besluiten worden ingetrokken:
 
 - c. [Besluit van de Minister van Verkeer en Waterstaat van 23 mei 2008, nr. CEND/HDJZ-2008/617 houdende aanwijzing toezichthoudende ambtenaren artikel 2b, tweede lid, van het Warenwetbesluit algemene productveiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0023915) (Stcrt 2008, 103).
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouder markttoezicht Wegenverkeerswet 1994.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na plaatsing ervan in de Staatscourant en werkt terug tot en met 1 september 2020.
 

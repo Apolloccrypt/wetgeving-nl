@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Wet op de jeugdzorg, enz. (gesloten jeugdzorg)"
+title: "Wet van 20 december 2007, houdende wijziging van de Wet op de jeugdzorg met betrekking tot jeugdzorg waarop aanspraak bestaat ingevolge de wet in gesloten setting (gesloten jeugdzorg)"
 identifier: "BWBR0023166"
-categorie: "Sociaal recht"
-publicatiedatum: 2014-02-15
-laatste_update: 2014-02-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023166"
+country: "nl"
+rank: "wet"
+publication_date: "2014-02-15"
+last_updated: "2014-02-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023166"
+soort: "wet"
+stam_id: "9350953"
+version_id: "15037542"
+internal_id: "C20504491"
+label_id: "9329274"
+dtd_version: "2.0"
+original_entry_into_force: "2008-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023166/2014-02-15/0"
+intitule_bron: "Stb.2007-578"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-12-20"
+intitule_published: "2007-12-28"
+intitule_in_force: "2007-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2007-578"
+original_signed_date: "2007-12-20"
+original_published_date: "2007-12-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "30644"
+original_url_id: "stb-2007-578"
+entry_into_force_date: "2008-01-01"
+jci_1_3: "jci1.3:c:BWBR0023166&z=2014-02-15&g=2014-02-15"
+jci_1_0: "1.0:c:BWBR0023166&g=2014-02-15"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Wet op de jeugdzorg, enz. (gesloten jeugdzorg)"
+signed_date: "2007-12-20"
+entry_into_force: "2008-01-01"
 ---
-
-# Wijzigingswet Wet op de jeugdzorg, enz. (gesloten jeugdzorg)
+# Wet van 20 december 2007, houdende wijziging van de Wet op de jeugdzorg met betrekking tot jeugdzorg waarop aanspraak bestaat ingevolge de wet in gesloten setting (gesloten jeugdzorg)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,31 +43,31 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet op de jeugdz
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op de Jeugdzorg.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Burgerlijk Wetboek Boek 1.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Beginselenwet justitiële jeugdinrichtingen.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Tijdelijke instellingswet Raad voor strafrechtstoepassing en jeugdbescherming.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Een verzoek om een machtiging als bedoeld in [artikel 261, vijfde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=261) ingediend voor het tijdstip van inwerkingtreding van deze wet, geldt met ingang van dat tijdstip als een verzoek om een machtiging als bedoeld in [artikel 29b van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=29b).
 
@@ -60,11 +87,11 @@ Wijzigt de Algemene wet bestuursrecht.
 
 9. Gedurende de periode waarin het zevende lid van toepassing is berust de zorg die in [artikel 57, eerste lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=57) is opgedragen aan gedeputeerde staten bij Onze Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel VIIa
+##### Artikel VIIa
 
 Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

@@ -1,28 +1,52 @@
 ---
 title: "Regeling eenmalig project herintroductie otters"
 identifier: "BWBR0013851"
-categorie: "Overig"
-publicatiedatum: 2002-07-07
-laatste_update: 2002-07-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013851"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-07-07"
+last_updated: "2002-07-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013851"
+soort: "ministeriele-regeling"
+stam_id: "4115773"
+version_id: "5869352"
+internal_id: "C6072181"
+label_id: "4095464"
+dtd_version: "2.0"
+original_entry_into_force: "2002-07-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013851/2002-07-07/0"
+intitule_bron: "Stcrt.2002-126"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-07-04"
+intitule_published: "2002-07-05"
+intitule_in_force: "2002-07-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-126"
+original_signed_date: "2002-07-04"
+original_published_date: "2002-07-05"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-07-07"
+jci_1_3: "jci1.3:c:BWBR0013851&z=2002-07-07&g=2002-07-07"
+jci_1_0: "1.0:c:BWBR0013851&g=2002-07-07"
+citeertitel_status: "officieel"
+signed_date: "2002-07-04"
+entry_into_force: "2002-07-07"
 ---
-
 # Regeling eenmalig project herintroductie otters
 
 Gelet op de [artikelen 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=6), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=11) en [12 van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=12);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 Het is verboden om in de natuurgebieden en bijbehorende wateren Oldematen, Wieden en Weerribben in de provincie Overijssel en de natuurgebieden en bijbehorende wateren Rottige Meenthe en Lindevallei in de provincie Friesland te vissen met een fuik die niet is voorzien van een stopgrid of keerwant.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De minister kent een visser, die gedurende de looptijd van het project schade lijdt of zal lijden als gevolg van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013851&artikel=2&z=2002-07-07&g=2002-07-07) opgenomen verbod op aanvraag schadevergoeding toe.
 
@@ -30,7 +54,7 @@ Het is verboden om in de natuurgebieden en bijbehorende wateren Oldematen, Wiede
 
 3. De schadevergoeding voor een visser, niet zijnde een beroepsvisser, wordt toegekend met inachtneming van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013851&artikel=5&z=2002-07-07&g=2002-07-07), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0013851&artikel=7&z=2002-07-07&g=2002-07-07), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0013851&artikel=8&z=2002-07-07&g=2002-07-07), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0013851&artikel=10&z=2002-07-07&g=2002-07-07) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0013851&artikel=11&z=2002-07-07&g=2002-07-07).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een beroepsvisser komt in aanmerking voor vergoeding van de volgende schade:
 
@@ -48,13 +72,13 @@ Het is verboden om in de natuurgebieden en bijbehorende wateren Oldematen, Wiede
 
 - c. voor de waarde, bedoeld in het eerste lid, onderdeel c, eenmalig € 113,45 (exclusief BTW) per fuik.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een visser komt in aanmerking voor vergoeding van de kosten van het verwerven, aanbrengen en onderhouden van stopgrids en keerwanden in fuiken.
 
 2. De vergoeding bedraagt eenmalig € 54,45 (exclusief BTW) per fuik.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aanvraag voor een schadevergoeding als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013851&artikel=4&z=2002-07-07&g=2002-07-07) gaat vergezeld van de volgende bescheiden:
 
@@ -76,7 +100,7 @@ Het is verboden om in de natuurgebieden en bijbehorende wateren Oldematen, Wiede
 
 4. De aanvraag voor een schadevergoeding als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013851&artikel=4&z=2002-07-07&g=2002-07-07), wordt door middel van een daartoe bestemd formulier gedurende de looptijd van het project jaarlijks tussen 1 september en 1 oktober ingediend bij directie Oost.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De aanvraag voor een schadevergoeding als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013851&artikel=5&z=2002-07-07&g=2002-07-07) gaat vergezeld van de volgende bescheiden:
 
@@ -90,15 +114,15 @@ Het is verboden om in de natuurgebieden en bijbehorende wateren Oldematen, Wiede
 
 2. De aanvraag wordt door middel van een daartoe bestemd formulier tussen 1 september en 1 oktober 2002 ingediend bij directie Oost.
 
-#### Artikel 8
+##### Artikel 8
 
 De minister beslist binnen twaalf weken na ontvangst van de aanvraag. Indien de minister niet binnen twaalf weken een besluit op de aanvraag kan nemen, stelt de minister de aanvrager daarvan in kennis en noemt daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.
 
-#### Artikel 9
+##### Artikel 9
 
 Indien een beroepsvisser gedurende de looptijd van het project geen rechthebbende meer is op een visrecht van een water dat is gelegen in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013851&artikel=2&z=2002-07-07&g=2002-07-07) omschreven gebied of niet meer is voorzien van een schriftelijke vergunning van een rechthebbende op een visrecht in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013851&artikel=2&z=2002-07-07&g=2002-07-07) omschreven gebied of niet meer in het bezit is van een geldige grote visakte geeft hij hiervan onmiddellijk kennis aan directie Oost.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De minister kan de beslissing tot verlening van schadevergoeding intrekken of ten nadele van degene die een aanvraag als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013851&artikel=6&z=2002-07-07&g=2002-07-07) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0013851&artikel=7&z=2002-07-07&g=2002-07-07) heeft ingediend wijzigen:
 
@@ -116,15 +140,15 @@ Indien een beroepsvisser gedurende de looptijd van het project geen rechthebbend
 
 4. Bij terugvordering worden onverschuldigd betaalde bedragen ter zake van de schadevergoeding vermeerderd met de wettelijke rente over het teveel betaalde te rekenen vanaf de datum van de eerste betaling.
 
-#### Artikel 11
+##### Artikel 11
 
 Er wordt geen vergoeding aan de visser verstrekt indien reeds voor hetzelfde of een samenhangend doel vanwege de staat, een ander openbaar lichaam, en bestuursorgaan of de Europese Unie aan de visser schadevergoeding of subsidie is verleend.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling eenmalig project herintroductie otters.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

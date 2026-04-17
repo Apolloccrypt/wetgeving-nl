@@ -1,14 +1,41 @@
 ---
-title: "Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen"
+title: "Wet van 3 maart 2021, houdende regels strekkende tot implementatie van Richtlijn (EU) 2019/633 van het Europees Parlement en de Raad van 17 april 2019 inzake oneerlijke handelspraktijken in de relaties tussen ondernemingen in de landbouw- en voedselvoorzieningsketen (PbEU 2019, L 111/59) (Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen)"
 identifier: "BWBR0045048"
-categorie: "Overig"
-publicatiedatum: 2021-11-01
-laatste_update: 2021-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045048"
+country: "nl"
+rank: "wet"
+publication_date: "2021-11-01"
+last_updated: "2021-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045048"
+soort: "wet"
+stam_id: "15927573"
+version_id: "27698272"
+internal_id: "C39210651"
+label_id: "15862364"
+dtd_version: "2.0"
+original_entry_into_force: "2021-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045048/2021-11-01/0"
+intitule_bron: "Stb.2021-178"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-03-03"
+intitule_published: "2021-04-15"
+intitule_in_force: "2021-06-04"
+intitule_status: "goed"
+original_publication: "Stb.2021-178"
+original_signed_date: "2021-03-03"
+original_published_date: "2021-04-15"
+original_effect: "nieuwe-regeling"
+original_dossier: "35642"
+original_url_id: "stb-2021-178"
+entry_into_force_date: "2021-11-01"
+jci_1_3: "jci1.3:c:BWBR0045048&z=2021-11-01&g=2021-11-01"
+jci_1_0: "1.0:c:BWBR0045048&g=2021-11-01"
+citeertitel_status: "officieel"
+short_title: "Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen"
+signed_date: "2021-03-03"
+entry_into_force: "2021-11-01"
 ---
-
-# Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen
+# Wet van 3 maart 2021, houdende regels strekkende tot implementatie van Richtlijn (EU) 2019/633 van het Europees Parlement en de Raad van 17 april 2019 inzake oneerlijke handelspraktijken in de relaties tussen ondernemingen in de landbouw- en voedselvoorzieningsketen (PbEU 2019, L 111/59) (Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +43,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te stellen te
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,7 +67,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **Verordening 1308/2013:** [Verordening 1308/2013](32013R1308) van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijk ordening van de markten voor landbouwproducten en tot intrekking van de [Verordeningen (EEG) nr. 92/72](31972R0092), [(EEG) nr. 234/79](31979R0234), [(EG) nr. 1037/2001](32001R1037) en [(EG) nr. 1234/2007](32007R1234) van de Raad (PbEU 2013, L [347/671](32571R0347)).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een afnemer handelt onrechtmatig jegens een leverancier indien hij een van de volgende handelspraktijken verricht:
 
@@ -92,7 +119,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 2°. dat de leveringsovereenkomsten tussen leveranciers van druiven of most voor wijnbereiding en hun directe afnemers meerjarig zijn of meerjarig worden.
 
-#### Artikel 3
+##### Artikel 3
 
 Een afnemer handelt onrechtmatig jegens een leverancier indien hij een van de volgende handelspraktijken verricht, tenzij de betreffende handelspraktijk voorafgaand helder en ondubbelzinnig schriftelijk is overeengekomen tussen de leverancier en de afnemer:
 
@@ -108,11 +135,11 @@ Een afnemer handelt onrechtmatig jegens een leverancier indien hij een van de vo
 
 - f. de afnemer verlangt van de leverancier dat hij personeel betaalt voor de inrichting van de ruimten die voor de verkoop van de producten van de leverancier worden gebruikt.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien door de afnemer een vergoeding voor de in [artikel 3, onderdelen b, c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=3&z=2021-11-01&g=2021-11-01), bedoelde situaties wordt verlangd, verstrekt de afnemer de leverancier desgevraagd een schriftelijke raming van het te betalen bedrag, per stuk of in totaal naargelang wat passend is alsmede, voor zover het gaat om de situaties als bedoeld in artikel 3, onderdelen b, d, e en f, een schriftelijke raming van de kosten voor de leverancier en van de elementen waarop die raming is gebaseerd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=2&z=2021-11-01&g=2021-11-01) zijn uitsluitend van toepassing tussen de volgende partijen:
 
@@ -132,7 +159,7 @@ Indien door de afnemer een vergoeding voor de in [artikel 3, onderdelen b, c, d,
 
 3. De [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=2&z=2021-11-01&g=2021-11-01) zijn bepalingen van bijzonder dwingend recht als bedoeld in artikel 9 van verordening (EG) nr. 593/2008 van het Europees Parlement en de Raad van 17 juni 2008 inzake het recht dat van toepassing is op verbintenissen uit overeenkomst (PbEU 2008, L 177).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister kan een commissie aanwijzen die belast is met het beslechten van geschillen tussen afnemers en leveranciers inzake de toepassing van de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=2&z=2021-11-01&g=2021-11-01).
 
@@ -140,7 +167,7 @@ Indien door de afnemer een vergoeding voor de in [artikel 3, onderdelen b, c, d,
 
 3. Uitspraken van een op grond van het eerste lid aangewezen commissie zijn voor partijen bindend, tenzij een van beide partijen het geschil waarop de uitspraak betrekking heeft binnen drie maanden na vaststelling van de uitspraak aan de civiele rechter voorlegt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een afnemer onthoudt zich van het verrichten van een onrechtmatige handelspraktijk als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=2&z=2021-11-01&g=2021-11-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=3&z=2021-11-01&g=2021-11-01).
 
@@ -148,7 +175,7 @@ Indien door de afnemer een vergoeding voor de in [artikel 3, onderdelen b, c, d,
 
 3. De Autoriteit Consument en Markt werkt samen met aangewezen handhavingsautoriteiten als bedoeld in artikel 4, eerste lid, van Richtlijn (EU) 2019/633 van andere lidstaten om elkaar wederzijdse bijstand te verlenen bij het verrichten van onderzoeken met een grensoverschrijdende dimensie als bedoeld in artikel 8, eerste lid, van die richtlijn.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een leverancier, een organisatie waar een leverancier lid van is of een vereniging van dergelijke organisaties, wordt als belanghebbende aangemerkt indien deze leverancier, organisatie of vereniging de Autoriteit Consument en Markt verzoekt om handhaving van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=4&z=2021-11-01&g=2021-11-01) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=7&z=2021-11-01&g=2021-11-01), in verband met een vermeende verboden handelspraktijk jegens de betrokken leverancier.
 
@@ -162,7 +189,7 @@ Indien door de afnemer een vergoeding voor de in [artikel 3, onderdelen b, c, d,
 
 6. Indien degene die om handhaving van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=4&z=2021-11-01&g=2021-11-01) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=7&z=2021-11-01&g=2021-11-01), verzoekt daarom verzoekt, treft de Autoriteit Consument en Markt de noodzakelijke maatregelen met het oog op de passende bescherming van diens identiteit en die van leden van een organisatie als bedoeld in het eerste lid, alsmede van andere informatie waarvan de openbaarmaking volgens de verzoeker schadelijk zou zijn voor zijn belangen. De verzoeker vermeldt alle informatie ten aanzien waarvan hij vertrouwelijkheid verlangt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. In geval van overtreding van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=4&z=2021-11-01&g=2021-11-01) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=7&z=2021-11-01&g=2021-11-01), kan de Autoriteit Consument en Markt:
 
@@ -174,29 +201,29 @@ Indien door de afnemer een vergoeding voor de in [artikel 3, onderdelen b, c, d,
 
 2. De Autoriteit Consument en Markt kan een zelfstandige last als bedoeld in [artikel 1 van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=1) opleggen ter bevordering van de naleving van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=7&z=2021-11-01&g=2021-11-01).
 
-#### Artikel 10
+##### Artikel 10
 
 1. De bestuurlijke boete, bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=9&z=2021-11-01&g=2021-11-01), bedraagt ten hoogste € 900.000 of, indien dat meer is, 10% van de omzet van de overtreder.
 
 2. De bestuurlijke boete die ingevolge het eerste lid ten hoogste kan worden opgelegd wordt verhoogd met 100%, indien binnen een tijdvak van vijf jaar voorafgaand aan de dagtekening van het van de overtreding opgemaakte rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), een aan die overtreder voor een eerdere overtreding van eenzelfde of een soortgelijk wettelijk voorschrift opgelegde bestuurlijke boete onherroepelijk is geworden.
 
-#### Artikel 11
+##### Artikel 11
 
 De Autoriteit Consument en Markt neemt bij het opstellen van haar jaarverslag als bedoeld in [artikel 18, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) artikel 10, eerste lid, van Richtlijn (EU) 2019/633 in acht.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze wet is niet van toepassing op overeenkomsten die zijn gesloten voor het tijdstip van haar inwerkingtreding en handelingen ter uitvoering daarvan, met dien verstande dat de niet-toepasselijkheid voor die overeenkomsten eindigt met ingang van twaalf maanden na de dag van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze wet wordt aangehaald als: Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen.
 

@@ -1,13 +1,32 @@
 ---
 title: "Protocol betreffende verontreiniging afkomstig van bronnen en activiteiten op het land bij het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied, met bijlagen"
 identifier: "BWBV0002980"
-categorie: "Milieu"
-publicatiedatum: 1999-10-06
-laatste_update: 1999-10-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002980"
+country: "nl"
+rank: "verdrag"
+publication_date: "1999-10-06"
+last_updated: "1999-10-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002980"
+soort: "verdrag"
+stam_id: "10003284963"
+version_id: "10003308352"
+internal_id: "C10006992541"
+label_id: "10003270974"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002980/1999-10-06/0"
+intitule_bron: "Trb.2000-110"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2000-10-02"
+intitule_status: "nogniet"
+original_publication: "Trb.2000-110"
+original_published_date: "2000-10-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2000-110"
+jci_1_3: "jci1.3:c:BWBV0002980&z=1999-10-06&g=1999-10-06"
+jci_1_0: "1.0:c:BWBV0002980&g=1999-10-06"
+citeertitel_status: "officieel"
+entry_into_force: "2000-10-02"
 ---
-
 # Protocol betreffende verontreiniging afkomstig van bronnen en activiteiten op het land bij het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied, met bijlagen
 
 The Contracting Parties to this Protocol,
@@ -34,7 +53,7 @@ Further recognising the need to encourage national, sub-regional and regional ac
 
 Have agreed as follows:
 
-#### Article I. Definitions
+##### Article I. Definitions
 
 For the purposes of this Protocol:
 
@@ -50,13 +69,13 @@ For the purposes of this Protocol:
 
 - f). "Monitoring" means the periodic measurement of environmental quality indicators.
 
-#### Article II. General Provisions
+##### Article II. General Provisions
 
 1. Except as otherwise provided in this Protocol, the provisions of the Convention relating to its protocols shall apply to this Protocol.
 
 2. In taking measures to implement this Protocol, the Contracting Parties shall fully respect the sovereignty, sovereign rights and jurisdiction of other States, in accordance with international law.
 
-#### Article III. General Obligations
+##### Article III. General Obligations
 
 1. Each Contracting Party shall, in accordance with its laws, the provisions of this Protocol, and international law, take appropriate measures to prevent, reduce and control pollution of the Convention area from land-based sources and activities, using for this purpose the best practicable means at its disposal and in accordance with its capabilities.
 
@@ -64,7 +83,7 @@ For the purposes of this Protocol:
 
 3. Contracting Parties shall, as appropriate, and having due regard to their laws and their individual social, economic and environmental characteristics and the characteristics of a specific area or subregion, jointly develop subregional and regional plans, programmes and measures to prevent, reduce and control pollution of the Convention area from land-based sources and activities.
 
-#### Article IV. Annexes
+##### Article IV. Annexes
 
 1. The Contracting Parties shall address the source categories, activities and associated pollutants of concern listed in Annex I to this Protocol through the progressive development and implementation of additional annexes for those source categories, activities, and associated pollutants of concern that are determined by the Contracting Parties as appropriate for regional or sub-regional action. Such annexes shall, as appropriate, include **inter alia:**
 
@@ -76,7 +95,7 @@ For the purposes of this Protocol:
 
 3. The Contracting Parties may also develop such additional annexes as they may deem appropriate, including an annex to address water quality criteria for selected priority pollutants identified in Annex I to this Protocol.
 
-#### Article V. Cooperation and Assistance
+##### Article V. Cooperation and Assistance
 
 1. Contracting Parties shall cooperate, bilaterally or, where appropriate, on a sub-regional, regional or global basis or through competent organisations in the prevention, reduction and control of pollution of the Convention area from land-based sources and activities.
 
@@ -102,7 +121,7 @@ For the purposes of this Protocol:
 
 - d). identify and approach potential sources of financing for projects necessary to implement this Protocol.
 
-#### Article VI. Monitoring and Assessment Programmes
+##### Article VI. Monitoring and Assessment Programmes
 
 1. Each Contracting Party shall formulate and implement monitoring programmes, as appropriate, in accordance with the provisions of this Protocol and relevant national legislation. Such programmes may, inter alia:
 
@@ -114,7 +133,7 @@ For the purposes of this Protocol:
 
 3. These programmes should avoid duplication of other programmes, particularly of similar regional programmes carried out by competent international organisations.
 
-#### Article VII. Environmental Impact Assessment
+##### Article VII. Environmental Impact Assessment
 
 1. The Contracting Parties shall develop and adopt guidelines concerning environmental impact assessments, and review and update those guidelines as appropriate.
 
@@ -124,23 +143,23 @@ For the purposes of this Protocol:
 
 4. Each Contracting Party shall, subject to its domestic law and regulations, seek the participation of affected persons in any review process conducted pursuant to paragraph 2 above, and, where practicable, publish or make available relevant information obtained in this review.
 
-#### Article VIII. Development of Information Systems
+##### Article VIII. Development of Information Systems
 
 The Contracting Parties shall cooperate directly or through relevant sub-regional, regional and, where appropriate, global organisations to develop information systems and networks for the exchange of information to facilitate the implementation of this Protocol.
 
-#### Article IX. Transboundary Pollution
+##### Article IX. Transboundary Pollution
 
 Where pollution from land-based sources and activities originating from any Contracting Party is likely to affect adversely the coastal or marine environment of one or more of the other Contracting Parties, the Contracting Parties concerned shall use their best efforts to consult at the request of any affected Contracting Party, with a view to resolving the issue.
 
-#### Article X. Participation
+##### Article X. Participation
 
 Each Contracting Party shall, in accordance with its national laws and regulations, promote public access to relevant information and documentation concerning pollution of the Convention area from land-based sources and activities and the opportunity for public participation in decision-making processes concerning the implementation of this Protocol.
 
-#### Article XI. Education and Awareness
+##### Article XI. Education and Awareness
 
 The Contracting Parties shall develop and implement individually and collectively programmes on environmental education and awareness for the public related to the need to prevent, reduce and control pollution of the Convention area from land-based sources and activities, and shall promote the training of individuals involved in such prevention, reduction and control.
 
-#### Article XII. Reporting
+##### Article XII. Reporting
 
 1. The Contracting Parties shall submit reports to the Organisation containing information on measures adopted, results obtained and any difficulties experienced in the implementation of this Protocol. These reports should include, whenever possible, information on the state of the Convention area. The Meeting of the Contracting Parties shall determine the nature of the information to be included, and the collection, presentation and timing of these reports, which will be made available to the public with the exception of information submitted in accordance with paragraph 3 below.
 
@@ -150,7 +169,7 @@ The Contracting Parties shall develop and implement individually and collectivel
 
 4. Nothing in this Protocol shall require a Contracting Party to supply information the disclosure of which is contrary to the essential interests of its security.
 
-#### Article XIII. Institutional Mechanisms
+##### Article XIII. Institutional Mechanisms
 
 1. Each Contracting Party shall designate a focal point to serve as liaison with the Organisation on the technical aspects of the implementation of this Protocol.
 
@@ -186,7 +205,7 @@ The Contracting Parties shall develop and implement individually and collectivel
 
 - k). carry out any other functions assigned to it by the Contracting Parties.
 
-#### Article XIV. Scientific, Technical and Advisory Committee
+##### Article XIV. Scientific, Technical and Advisory Committee
 
 1. A Scientific, Technical and Advisory Committee is hereby established.
 
@@ -220,7 +239,7 @@ The Contracting Parties shall develop and implement individually and collectivel
 
 4. The Committee shall adopt Rules of Procedure.
 
-#### Article XV. Meetings of the Contracting Parties
+##### Article XV. Meetings of the Contracting Parties
 
 1. The ordinary meetings of the Contracting Parties to this Protocol shall generally be held in conjunction with the ordinary meetings of the Contracting Parties to the Convention held pursuant to Article 16 of the Convention. The Contracting Parties may also hold extraordinary meetings as deemed necessary, upon the request of the Organisation or at the request of any Contracting Party, provided that such requests are supported by the majority of the Contracting Parties. The meetings shall be governed by the Rules of Procedure adopted pursuant to Article 20 of the Convention.
 
@@ -240,7 +259,7 @@ The Contracting Parties shall develop and implement individually and collectivel
 
 - g). conduct such other business as appropriate.
 
-#### Article XVI. Funding
+##### Article XVI. Funding
 
 1. In addition to the financial participation by the Contracting Parties in accordance with Article 20, paragraph 2 of the Convention, the Organisation may, in response to requests from Contracting Parties, seek additional funds or other forms of assistance for activities related to this Protocol. These funds may include voluntary contributions for the achievement of specific objectives of this Protocol made by the Contracting Parties, other governments and government agencies, international organisations, non-governmental organisations, the private sector and individuals.
 
@@ -252,7 +271,7 @@ The Contracting Parties shall develop and implement individually and collectivel
 
 3. In keeping with its development priorities, policies and strategies, each Contracting Party undertakes to mobilise financial resources to implement its plans, programmes and measures pursuant to this Protocol.
 
-#### Article XVII. Adoption and Entry into Force of New Annexes and Amendments to Annexes
+##### Article XVII. Adoption and Entry into Force of New Annexes and Amendments to Annexes
 
 1. Except as provided in paragraphs 2 and 3 below, the adoption and entry into force of new annexes and amendments to annexes to this Protocol shall take place in accordance with paragraphs 2 and 3 of Article 19 of the Convention.
 
@@ -260,7 +279,7 @@ The Contracting Parties shall develop and implement individually and collectivel
 
 3. With respect to any Contracting Party that has made a declaration with respect to new annexes in accordance with Article XVIII, such annex shall enter into force on the thirtieth day after the date of deposit with the Depositary of its instrument of ratification, acceptance, approval or accession with respect to such annexes.
 
-#### Article XVIII. Ratification, Acceptance, Approval and Accession
+##### Article XVIII. Ratification, Acceptance, Approval and Accession
 
 1. This Protocol, including Annexes I to IV, shall be subject to ratification, acceptance, approval or accession as provided by Articles 26 and 27 of the Convention.
 
@@ -268,7 +287,7 @@ The Contracting Parties shall develop and implement individually and collectivel
 
 3. Following entry into force of this Protocol, any new Contracting Party to this Protocol may, at the time of acceding, declare that such accession does not apply to any annex, other than Annexes I to IV.
 
-#### Article XIX. Signature
+##### Article XIX. Signature
 
 This Protocol shall be open for signature at Oranjestad, Aruba on 6 October 1999, and at Santa Fe de Bogotá, Republic of Colombia, from 7 October 1999 to 6 October 2000, by any Party to the Convention.
 

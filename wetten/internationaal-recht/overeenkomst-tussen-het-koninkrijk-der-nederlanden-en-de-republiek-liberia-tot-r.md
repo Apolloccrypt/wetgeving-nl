@@ -1,13 +1,37 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Liberia tot regeling der wederzijdse uitlevering van misdadigers"
 identifier: "BWBV0006078"
-categorie: "Internationaal recht"
-publicatiedatum: 1896-10-30
-laatste_update: 1896-10-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006078"
+country: "nl"
+rank: "verdrag"
+publication_date: "1896-10-30"
+last_updated: "1896-10-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006078"
+soort: "verdrag"
+stam_id: "10005016413"
+version_id: "10005339262"
+internal_id: "C10008220351"
+label_id: "10004999524"
+dtd_version: "2.0"
+original_entry_into_force: "1896-10-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006078/1896-10-30/0"
+intitule_bron: "Stb.1896-143"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1896-07-28"
+intitule_published: "1896-08-13"
+intitule_in_force: "1896-08-13"
+intitule_status: "goed"
+original_publication: "Stb.1896-143"
+original_signed_date: "1896-07-28"
+original_published_date: "1896-08-13"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1896-10-30"
+jci_1_3: "jci1.3:c:BWBV0006078&z=1896-10-30&g=1896-10-30"
+jci_1_0: "1.0:c:BWBV0006078&g=1896-10-30"
+citeertitel_status: "redactioneel"
+signed_date: "1896-07-28"
+entry_into_force: "1896-10-30"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Liberia tot regeling der wederzijdse uitlevering van misdadigers
 
 **Hare Majesteit de Koningin der Nederlanden** en in Hoogst-Derzelver naam **Hare Majesteit de Koningin-Weduwe, Regentes van het Koninkrijk**, en **Zijne Excellentie de President van Liberia**, wenschende een verdrag te sluiten tot uitlevering van misdadigers, hebben te dien einde tot Hunne gevolmachtigden benoemd:
@@ -22,11 +46,11 @@ den heer dr. HENDRIK PIETER NICOLAAS MULLER, Consul-Generaal der Republiek Liber
 
 die na elkander hunne, in goeden en behoorlijken vorm bevonden volmachten te hebben medegedeeld, omtrent het navolgende zijn overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 **De Regeering der Nederlanden en de Regeering van Liberia** verbinden zich aan elkander uit te leveren die personen welke, beklaagd of veroordeeld zijnde wegens een strafbaar feit gepleegd op het grondgebied der eene partij, zullen worden gevonden op het grondgebied der andere partij, onder de omstandigheden en voorwaarden in het tegenwoordig verdrag vermeld.
 
-#### Artikel II
+##### Artikel II
 
 Overeenkomstig de bepalingen van dit verdrag, zullen worden uitgeleverd zij, die beklaagd zijn van of veroordeeld wegens een der navolgende strafbare feiten:
 
@@ -74,41 +98,41 @@ Overeenkomstig de bepalingen van dit verdrag, zullen worden uitgeleverd zij, die
 
 Onder de voorgaande qualificatiën zijn begrepen de poging en de medeplichtigheid, voor zoover zij strafbaar gesteld zijn bij de wetgeving van het Land aan hetwelk de uitlevering wordt gevraagd.
 
-#### Artikel III
+##### Artikel III
 
 De bepalingen der tegenwoordige overeenkomst zijn niet toepasselijk op staatkundige misdrijven, noch op strafbare feiten, met staatkundige misdrijven samenhangende, en hij, die ter zake van een der in artikel II genoemde strafbare feiten is uitgeleverd, kan in geen geval worden vervolgd of gestraft ter zake van een staatkundig misdrijf of van enig strafbaar feit, met een staatkundig misdrijf samenhangende, vóór zijne uitlevering gepleegd.
 
-#### Artikel IV
+##### Artikel IV
 
 De uitgeleverde persoon zal niet mogen worden vervolgd noch gestraft in het Land, waaraan de uitlevering is toegestaan, ter zake van een strafbaar feit niet in het tegenwoordig verdrag genoemd en vóór zijne uitlevering gepleegd, noch aan een derden Staat uitgeleverd zonder de toestemming van den Staat, die de uitlevering heeft toegestaan, tenzij hij de vrijheid hebbe gehad om het eerstgenoemde Land weder te verlaten gedurende drie maanden, nadat de tegen hem ingestelde vervolging zal zijn afgeloopen en hij, in geval van veroordeeling, de hem opgelegde straf zal hebben ondergaan of hem daarvan gratie zal zijn verleend.
 
 Hij zal evenmin mogen worden vervolgd of gestraft ter zake van eene misdaad of een misdrijf, in het tegenwoordig verdrag genoemd en vóór de uitlevering gepleegd, zonder de toestemming der Regeering, die den uitgeleverde heeft overgegeven, en die, indien zij zulks wenschelijk acht, de overlegging zal kunnen vorderen van een der bescheiden in artikel XI van het tegenwoordig verdrag vermeld. Intusschen zal die toestemming niet noodig zijn, wanneer de beklaagde uit eigen beweging zal hebben verzocht terecht te staan of zijn straf te ondergaan, of wanneer hij binnen den bovengenoemden termijn het grondgebied van den Staat, waaraan hij is uitgeleverd, niet zal hebben verlaten.
 
-#### Artikel V
+##### Artikel V
 
 De uitlevering zal geen plaats hebben, indien de vervolging of de straf, ter zake van het strafbare feit, waarvoor de uitlevering wordt aangevraagd, verjaard is naar de wetgeving van het Land, waaraan de uitlevering wordt aangevraagd, of wanneer de aanvraag geschiedt op grond van hetzelfde feit, waarvoor de opgeëischte persoon in het Land, waaraan de uitlevering wordt aangevraagd, heeft terecht gestaan, en ter zake waarvan hij aldaar veroordeeld, van rechtsvervolging ontslagen of vrijgesproken is, of zoolang hij ter zake van hetzelfde feit aldaar wordt vervolgd.
 
-#### Artikel VI
+##### Artikel VI
 
 Indien de persoon, wiens uitlevering krachtens de bepalingen dezer overeenkomst kan worden aangevraagd, ter zake van een strafbaar feit vervolgd wordt of veroordeeld is in het Land, waarheen hij gevlucht is, zal zijne uitlevering kunnen worden uitgesteld totdat de vervolging zal zijn afgeloopen of totdat hij van rechtsvervolging ontslagen of vrijgesproken zal zijn.
 
-#### Artikel VII
+##### Artikel VII
 
 Indien de persoon, wiens uitlevering door eene van beide contracteerende Partijen is aangevraagd, door een of meer andere Staten, krachtens bestaande verdragen wordt opgeëischt op grond van strafbare feiten, binnen het rechtsgebied dier Staten gepleegd, zal zijne uitlevering bij voorkeur worden toegestaan aan den Staat die het eerst de aanvraag gedaan heeft.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Geen van beide contracteerende Partijen is, krachtens de tegenwoordige overeenkomst, verplicht tot uitlevering harer eigene onderdanen.
 
-#### Artikel IX
+##### Artikel IX
 
 De kosten voortvloeiende uit de aanhouding, de gevangenhouding, het gerechtelijk onderzoek en het vervoer der beklaagden, komen ten laste der Regeering, die de aanvrage om uitlevering gedaan heeft. De uitlevering geschiedt aan boord van het vaartuig dat door den diplomatieken of consulairen ambtenaar der aanvragende Regeering is aangewezen en alleen in een der havens, welke voor het internationaal verkeer zijn opengesteld.
 
-#### Artikel X
+##### Artikel X
 
 Al de goederen, op het oogenblik zijner aanhouding in het bezit van den voortvluchtige gevonden, welke verkregen zijn door middel van het plegen van het feit, waarvoor hij veroordeeld of waarvan hij beklaagd is, of die als bewijs of overtuigingsstukken kunnen dienen, zullen, voor zoover de wetten of het gebruik in de wederzijdsche landen zulks toelaten, te gelijk met den opgeëischte aan den opeischenden Staat worden overgegeven, met eerbiediging nochtans van rechten van derden op zoodanige goederen.
 
-#### Artikel XI
+##### Artikel XI
 
 De uitlevering zal worden aangevraagd langs diplomatieken of consulairen weg en alleen worden toegestaan op vertoon van het oorspronkelijke of van een gewaarmerkt afschrift:
 
@@ -120,23 +144,23 @@ De uitlevering zal worden aangevraagd langs diplomatieken of consulairen weg en 
 
 afgegeven in de vormen voorgeschreven door de wetgeving van den Staat, die de aanvrage doet, en waarbij het feit, waarvan sprake is, op zoodanige wijze wordt omschreven, dat de Staat, waaraan de uitlevering wordt gevraagd, in staat zij te beoordeelen of het volgens zijne wetgeving een geval daarstelt in het tegenwoordig verdrag voorzien, alsmede vermeldende de op het feit toepasselijke strafbepaling.
 
-#### Artikel XII
+##### Artikel XII
 
 Iedere bevoegde rechterlijke overheid van Nederland of van Liberia zal, op vertoon eener verklaring, afgegeven door den Minister van Buitenlandsche Zaken of door den Secretaris van Staat ten blijke dat door de Regeering van Liberia of van Nederland het verzoek gedaan is tot voorloopige aanhouding van een persoon, die veroordeeld is wegens, of beklaagd is van een aldaar gepleegd strafbaar feit, waarvoor door de tegenwoordige overeenkomst uitlevering wordt toegestaan, gerechtigd zijn een bevel uit te vaardigen tot aanhouding van dien persoon. Maar indien de formeele aanvrage niet, onder overlegging der hierboven voorgeschreven bewijsstukken zooals hierboven gezegd is, gedaan wordt door den diplomatieken of consulairen ambtenaar der Regeering van wie de aanvrage uitgaat, binnen drie maanden, te rekenen van de dagteekening van het bevel van aanhouding, zal de aangehoudene in vrijheid worden gesteld.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wanneer bij vervolging ter zake van een gemeen misdrijf eene der Regeeringen het hooren van getuigen, die zich in den anderen Staat bevinden, noodig oordeelt, zal daartoe een rogatoire commissie langs diplomatieken of consulairen weg gezonden worden en zal daaraan gevolg gegeven worden met inachtneming der wetten van het land, waar de getuigen zullen worden uitgenoodigd te verschijnen. Intusschen zal in spoedeischende gevallen een rogatoire commissie rechtstreeks door de rechterlijke overheid in den eenen Staat kunnen worden toegezonden aan de rechterlijke overheid in den anderen Staat.
 
-#### Artikel XIV
+##### Artikel XIV
 
 De doorvoer over het grondgebied van een der contracteerende Staten van een door een derde Mogendheid aan de andere Partij uitgeleverden persoon, die niet behoort tot het Land door hetwelk de doorvoer plaats heeft, zal worden toegestaan op het eenvoudig vertoon hetzij van het oorspronkelijke, hetzij van een gewaarmerkt afschrift van een der stukken genoemd in artikel XI, mits het feit, waarop de uitlevering gegrond is, in het tegenwoordig verdrag vermeld zij en niet valle onder de uitzonderingsbepalingen, en mits de doorvoer wat het medegeleide betreft, geschiede met medewerking van beambten van het Land dat den doorvoer over zijn grondgebied heeft toegestaan. De kosten van doorvoer zullen komen voor rekening van den Staat, die de uitlevering heeft aangevraagd.
 
-#### Artikel XV
+##### Artikel XV
 
 De bepalingen van het tegenwoordig verdrag zullen toepasselijk zijn op de Koloniën van Nederland, voor zoover als de wetten op dat oogenblik in die Koloniën van kracht, het zullen toelaten.
 
-#### Artikel XVI
+##### Artikel XVI
 
 De tegenwoordige overeenkomst zal in werking treden vier maanden na de uitwisseling der akten van bekrachtiging.
 

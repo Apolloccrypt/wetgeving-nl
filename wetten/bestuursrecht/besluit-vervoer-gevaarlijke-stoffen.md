@@ -1,13 +1,39 @@
 ---
-title: "Besluit vervoer gevaarlijke stoffen"
+title: "Besluit van 5 juni 1996, houdende vaststelling van nadere regels voor het vervoer van gevaarlijke stoffen"
 identifier: "BWBR0008080"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008080"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008080"
+soort: "AMvB"
+stam_id: "40823"
+version_id: "49862"
+internal_id: "C49861"
+label_id: "40634"
+dtd_version: "2.0"
+original_entry_into_force: "1996-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008080/2024-01-01/0"
+intitule_bron: "Stb.1996-297"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-06-05"
+intitule_published: "1996-06-20"
+intitule_in_force: "1996-06-20"
+intitule_status: "goed"
+original_publication: "Stb.1996-297"
+original_signed_date: "1996-06-05"
+original_published_date: "1996-06-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1996-297"
+entry_into_force_date: "1996-08-01"
+jci_1_3: "jci1.3:c:BWBR0008080&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0008080&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vervoer gevaarlijke stoffen"
+signed_date: "1996-06-05"
+entry_into_force: "1996-08-01"
 ---
-
 # Besluit van 5 juni 1996, houdende vaststelling van nadere regels voor het vervoer van gevaarlijke stoffen
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 30 oktober 1995, nr. G5/V525203, Directoraat-Generaal voor het Vervoer;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. RID: Règlement concernant le transport international ferroviaire des marchandises dangereuses.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Overeenkomstig het ADR, het ADN, het RID dan wel anderszins ter uitvoering van verdragen of bindende besluiten van volkenrechtelijke organisaties, worden bij ministeriële regeling gevaarlijke stoffen of categorieën van gevaarlijke stoffen aangewezen ten aanzien waarvan het verrichten van handelingen als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2) met daarbij aangewezen vervoermiddelen:
 
@@ -46,11 +72,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Bijzondere bepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 Indien bij het vervoer van gevaarlijke stoffen met een voertuig voor het kruisen van een binnenwater gebruik wordt gemaakt van een vaartuig, zijn ten aanzien van dit vervoer uitsluitend van toepassing de bij of krachtens dit besluit met betrekking tot het vervoer van gevaarlijke stoffen over land gegeven voorschriften.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het verrichten van handelingen als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2) is toegestaan met alle vervoermiddelen, voor zover het betreft handelingen:
 
@@ -114,7 +140,7 @@ aan boord van het vaartuig tot de uitrusting waarvan zij redelijkerwijs behoren.
 
 - d. voldoende sterk en bestand zijn tegen normale behandeling en normale vervoersomstandigheden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een aanvraag om een ontheffing als bedoeld in [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=27) bevat in elk geval de volgende gegevens:
 
@@ -158,29 +184,29 @@ aan boord van het vaartuig tot de uitrusting waarvan zij redelijkerwijs behoren.
 
 #### § 3. Overgangs- en slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Na de inwerkingtreding van dit besluit berusten de ministeriële regelingen die zijn vastgesteld krachtens het Reglement Gevaarlijke Stoffen op dit besluit.
 
 2. Voor zover ministeriële regelingen als bedoeld in het eerste lid betrekking hebben op onderwerpen die tevens bij of krachtens de wet zijn geregeld, blijven deze buiten toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Algemeen Reglement Vervoer
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt het Besluit verpakking en etikettering diergeneesCaret middelen
 
-#### Artikel 10
+##### Artikel 10
 
 De [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606), met uitzondering van [artikel 57 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=57), en dit besluit treden in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad** waarin dit besluit wordt geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit vervoer gevaarlijke stoffen.
 

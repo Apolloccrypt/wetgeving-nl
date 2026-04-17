@@ -1,13 +1,36 @@
 ---
 title: "Telling referentieraming beroepsonderwijs en volwasseneneducatie (bve) 2003 - 2004"
 identifier: "BWBR0015718"
-categorie: "Onderwijs"
-publicatiedatum: 2003-10-29
-laatste_update: 2003-10-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015718"
+country: "nl"
+rank: "circulaire"
+publication_date: "2003-10-29"
+last_updated: "2003-10-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015718"
+soort: "circulaire"
+stam_id: "6820413"
+version_id: "11697192"
+internal_id: "C15766901"
+label_id: "6808714"
+original_entry_into_force: "2003-10-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015718/2003-10-29/0"
+intitule_bron: "Uitleg.2003-24"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-10-13"
+intitule_published: "2003-10-29"
+intitule_in_force: "2003-10-29"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-24"
+original_signed_date: "2003-10-13"
+original_published_date: "2003-10-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-10-29"
+jci_1_3: "jci1.3:c:BWBR0015718&z=2003-10-29&g=2003-10-29"
+jci_1_0: "1.0:c:BWBR0015718&g=2003-10-29"
+citeertitel_status: "redactioneel"
+signed_date: "2003-10-13"
+entry_into_force: "2003-10-29"
 ---
-
 # Telling referentieraming beroepsonderwijs en volwasseneneducatie (bve) 2003 - 2004
 
 ### 1. Inleiding

@@ -1,13 +1,39 @@
 ---
-title: "Besluit luchtvaartuigen 2008"
+title: "Besluit van 14 mei 2008, houdende regels over de inschrijving en luchtwaardigheid van luchtvaartuigen en de erkenning van bedrijven voor werkzaamheden die de luchtwaardigheid betreffen (Besluit luchtvaartuigen 2008)"
 identifier: "BWBR0023922"
-categorie: "Milieu"
-publicatiedatum: 2024-02-20
-laatste_update: 2024-02-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023922"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-02-20"
+last_updated: "2024-02-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023922"
+soort: "AMvB"
+stam_id: "9515953"
+version_id: "15379162"
+internal_id: "C20976011"
+label_id: "9493394"
+dtd_version: "2.0"
+original_entry_into_force: "2008-06-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023922/2024-02-20/0"
+intitule_bron: "Stb.2008-190"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-05-14"
+intitule_published: "2008-06-03"
+intitule_in_force: "2008-06-03"
+intitule_status: "goed"
+original_publication: "Stb.2008-190"
+original_signed_date: "2008-05-14"
+original_published_date: "2008-06-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2008-190"
+entry_into_force_date: "2008-06-04"
+jci_1_3: "jci1.3:c:BWBR0023922&z=2024-02-20&g=2024-02-20"
+jci_1_0: "1.0:c:BWBR0023922&g=2024-02-20"
+citeertitel_status: "officieel"
+short_title: "Besluit luchtvaartuigen 2008"
+signed_date: "2008-05-14"
+entry_into_force: "2008-06-04"
 ---
-
 # Besluit van 14 mei 2008, houdende regels over de inschrijving en luchtwaardigheid van luchtvaartuigen en de erkenning van bedrijven voor werkzaamheden die de luchtwaardigheid betreffen (Besluit luchtvaartuigen 2008)
 
 Op de voordracht van Onze minister van Verkeer en Waterstaat van 4 januari 2008, nr. CEND/HDJZ-2007/1644, Hoofddirectie Juridische Zaken, gedaan in overeenstemming met de staatssecretaris van Defensie;
@@ -30,7 +56,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Definities en toepassingsgebied
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en in de op dit besluit gebaseerde regelingen wordt verstaan onder:
 
@@ -136,7 +162,7 @@ In dit besluit en in de op dit besluit gebaseerde regelingen wordt verstaan onde
 
 **wet:** [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met uitzondering van het tweede, vierde en zesde lid, is dit besluit uitsluitend van toepassing op luchtvaartuigen, voortstuwingsinrichtingen, propellers, onderdelen en erkenningen bestemd voor de burgerluchtvaart.
 
@@ -210,7 +236,7 @@ met dien verstande dat bij ministeriële regeling nadere regels kunnen worden ge
 
 ### Hoofdstuk 2. Nationaliteit en inschrijving van luchtvaartuigen
 
-#### Artikel 3
+##### Artikel 3
 
 1. In het Nederlandse register voor burgerluchtvaartuigen worden luchtvaartuigen ingeschreven:
 
@@ -238,7 +264,7 @@ met dien verstande dat bij ministeriële regeling nadere regels kunnen worden ge
 
 7. Indien de aanvrager, bedoeld in het tweede lid, niet tevens de eigenaar is van het luchtvaartuig, schrijft Onze Minister het luchtvaartuig in het register voor burgerluchtvaartuigen in, tenzij de eigenaar afkomstig is uit een land waarmee Nederland de diplomatieke banden heeft verbroken.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij ministeriële regeling worden regels gesteld met betrekking tot:
 
@@ -248,11 +274,11 @@ Bij ministeriële regeling worden regels gesteld met betrekking tot:
 
 ### Hoofdstuk 3. Aanvullende type-certificaten
 
-#### Artikel 5
+##### Artikel 5
 
 Onze Minister kan op aanvraag een aanvullend type-certificaat afgeven voor een luchtvaartuig dat volledig wordt ingezet voor niet-militaire staatsactiviteiten of diensten of een luchtvaartuig als bedoeld in de onderdelen a, b en d van Bijlage I bij de basisverordening.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij ministeriële regeling worden regels gesteld betreffende:
 
@@ -264,7 +290,7 @@ Bij ministeriële regeling worden regels gesteld betreffende:
 
 ### Hoofdstuk 4. Bewijzen van luchtwaardigheid
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister kan op aanvraag de volgende bewijzen van luchtwaardigheid afgeven:
 
@@ -282,7 +308,7 @@ Bij ministeriële regeling worden regels gesteld betreffende:
 
 5. De voorschriften of beperkingen verbonden aan een bewijs van luchtwaardigheid als bedoeld in het eerste lid worden neergelegd op dat bewijs van luchtwaardigheid of in een bijlage bij dat bewijs van luchtwaardigheid.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister geeft op aanvraag van de houder van een luchtvaartuig dat volledig wordt ingezet voor niet-militaire staatsactiviteiten of diensten, dan wel een luchtvaartuig als bedoeld in onderdeel b van bijlage I bij de basisverordening, of zijn vertegenwoordiger, een ICAO-standaard-BvL af indien het luchtvaartuig naar zijn oordeel voldoet aan een ontwerp dat is goedgekeurd door middel van:
 
@@ -306,11 +332,11 @@ en veilig gebruikt kan worden.
 
 3. Bij ministeriële regeling worden nadere regels gesteld omtrent het eerste en tweede lid.
 
-#### Artikel 9
+##### Artikel 9
 
 Onze Minister geeft op aanvraag van de houder van een luchtvaartuig een speciaal-BvL af indien het luchtvaartuig in staat is om op veilige wijze vluchten uit te voeren en voldoet aan bij ministeriële regeling daartoe te stellen eisen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onze Minister geeft op aanvraag van de houder van een nieuw luchtvaartuig een export-BvL af:
 
@@ -344,7 +370,7 @@ Onze Minister geeft op aanvraag van de houder van een luchtvaartuig een speciaal
 
 - c. tijdelijke installaties aan het luchtvaartuig ten behoeve van het vervoer na aankomst in de staat van invoer te verwijderen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een ICAO-standaard-BvL wordt afgegeven of verlengd voor een periode van ten hoogste 1 jaar.
 
@@ -356,13 +382,13 @@ Onze Minister geeft op aanvraag van de houder van een luchtvaartuig een speciaal
 
 5. In afwijking van het tweede lid wordt voor een gemotoriseerd schermvliegtuig of paramotortrike met een leeggewicht, inclusief reddingsmiddelen, van ten hoogste 120 kg een speciaal-BvL afgegeven voor onbepaalde tijd.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De houder van een luchtvaartuig voorzien van een ICAO-standaard-BvL laat dat luchtvaartuig onderhouden overeenkomstig verordening (EU) nr. 1321/2014, Part M, door de houder van een erkenning inzake onderhoud als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=17&z=2024-02-20&g=2024-02-20) dan wel door de houder van een bewijs van bevoegdheid inzake onderhoud ingevolge [artikel 3.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.30).
 
 2. Onderhoud van luchtvaartuigen met een speciaal-BvL geschiedt overeenkomstig de bij ministeriële regeling te stellen eisen.
 
-#### Artikel 13
+##### Artikel 13
 
 Bij ministeriële regeling worden nadere regels gesteld omtrent:
 
@@ -376,7 +402,7 @@ Bij ministeriële regeling worden nadere regels gesteld omtrent:
 
 ### Hoofdstuk 5. Geluidscertificaten, geluidsverklaringen en aanvullende geluidsverklaringen
 
-#### Artikel 14
+##### Artikel 14
 
 1. Onze Minister kan op aanvraag aan de houder van een luchtvaartuig een geluidscertificaat afgeven.
 
@@ -392,13 +418,13 @@ Bij ministeriële regeling worden nadere regels gesteld omtrent:
 
 - d. de limietwaarden van de geluidsproductie.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Op aanvraag van de houder van een luchtvaartuig waarvoor geen geluidseisen gelden kan Onze Minister voor het geluid relevante gegevens op een geluidsverklaring vermelden. Hiertoe legt de aanvrager met betrekking tot dat luchtvaartuig geluidsniveaus vast aan de hand van een naar het oordeel van Onze Minister adequate en betrouwbare meetmethode. De aanvrager verstrekt de gegevens over de geluidsniveaus aan Onze Minister.
 
 2. Onze Minister kan op aanvraag van de houder van een luchtvaartuig waarvoor geluidseisen gelden de voor het geluid relevante gegevens op een aanvullende geluidsverklaring vermelden. Hiertoe worden met betrekking tot dat luchtvaartuig geluidsniveaus vastgelegd en overgelegd aan de hand van een naar het oordeel van Onze Minister adequate en betrouwbare meetmethode.
 
-#### Artikel 16
+##### Artikel 16
 
 Bij ministeriële regeling worden regels gesteld omtrent:
 
@@ -408,13 +434,13 @@ Bij ministeriële regeling worden regels gesteld omtrent:
 
 ### Hoofdstuk 6. Erkenningen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Onze Minister kan een erkenning verlenen voor werkzaamheden die verband houden met de luchtwaardigheid en de geluidsproductie van producten of onderdelen, met uitzondering van werkzaamheden die reeds onder een van de erkenningen als bedoeld in verordening (EU) nr. 1321/2014 en verordening (EU) nr. 748/2012 vallen.
 
 2. Onze Minister kan in bijzondere gevallen waarin naar zijn oordeel een POA niet toepasselijk is, een akkoordverklaring afgeven.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Onze Minister verleent op aanvraag een erkenning als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=17&z=2024-02-20&g=2024-02-20), indien:
 
@@ -426,7 +452,7 @@ Bij ministeriële regeling worden regels gesteld omtrent:
 
 3. Een erkenning als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=17&z=2024-02-20&g=2024-02-20), geldt voor de in de erkenning genoemde werkzaamheden, producten dan wel categorieën onderdelen, waarvoor de houder de in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=19&z=2024-02-20&g=2024-02-20), bedoelde bevoegdheden heeft.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De houder van een erkenning als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=17&z=2024-02-20&g=2024-02-20), is bevoegd tot:
 
@@ -450,7 +476,7 @@ Bij ministeriële regeling worden regels gesteld omtrent:
 
 - g. te voldoen aan bij ministeriële regeling te stellen eisen ten aanzien van veranderingen die de houder van de erkenning betreffen.
 
-#### Artikel 20
+##### Artikel 20
 
 Bij ministeriële regeling worden nadere regels gesteld omtrent:
 
@@ -468,13 +494,13 @@ Bij ministeriële regeling worden nadere regels gesteld omtrent:
 
 - g. de melding aan Onze Minister als bedoeld in [artikel 19, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=19&z=2024-02-20&g=2024-02-20).
 
-#### Artikel 21
+##### Artikel 21
 
 Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot startinrichtingen voor luchtvaartuigen zonder voortstuwingsinrichtingen.
 
 ### Hoofdstuk 7. Vergoedingen
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een vergoeding is verschuldigd voor:
 
@@ -496,7 +522,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot start
 
 3. Bij ministeriële regeling wordt de wijze van betaling van de verschuldigde vergoeding vastgesteld.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De beslissing op een aanvraag voor de toepassing van de handelingen in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=7&artikel=22&z=2024-02-20&g=2024-02-20), met uitzondering van een aanvraag die betrekking heeft op een aanvullend type-certificaat en een ontwerpgoedkeuring, wordt slechts genomen nadat is gebleken dat de verschuldigde vergoeding is betaald.
 
@@ -506,13 +532,13 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot start
 
 ### Hoofdstuk 8. Overgangsbepalingen
 
-#### Artikel 24
+##### Artikel 24
 
 Onze Minister kan, met inachtneming van hoofdstuk II, deel 4 van gedelegeerde verordening (EU) nr. 2019/945, op aanvraag besluiten conformiteitsbeoordelingsinstanties aan te melden.
 
 ### Hoofdstuk 8. Conformiteitsbeoordelingsinstanties
 
-#### Artikel 25
+##### Artikel 25
 
 Na de inwerkingtreding van dit besluit berusten de hierna genoemde regelingen op de daarbij vermelde artikelen van dit besluit :
 
@@ -538,25 +564,25 @@ Na de inwerkingtreding van dit besluit berusten de hierna genoemde regelingen op
 
 - k. de Instructie doelvliegtuig berust op [artikel 2, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=I&artikel=2&z=2024-02-20&g=2024-02-20).
 
-#### Artikel 26
+##### Artikel 26
 
 Het [Besluit luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0012651) wordt ingetrokken.
 
-#### Artikel 27
+##### Artikel 27
 
 Dit besluit treedt in werking met ingang van de dag na uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 28
+##### Artikel 28
 
 Dit besluit wordt aangehaald als: Besluit luchtvaartuigen 2008.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust tevens op [artikel 1.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5).
 
-#### Artikel 1b
+##### Artikel 1b
 
 De aanvraag voor de afgifte van een bewijs van luchtwaardigheid, erkenning of hieraan gerelateerde certificaten of verklaringen als bedoeld in hetgeen bij of krachtens de basisverordening is bepaald wordt ingediend bij Onze Minister, tenzij bij of krachtens de basisverordening of de wet hiertoe een andere instantie is aangewezen.
 

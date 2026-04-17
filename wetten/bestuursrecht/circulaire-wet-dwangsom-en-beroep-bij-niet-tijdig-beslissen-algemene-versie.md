@@ -1,13 +1,38 @@
 ---
 title: "Circulaire Wet dwangsom en beroep bij niet tijdig beslissen (algemene versie)"
 identifier: "BWBR0042024"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-03-01
-laatste_update: 2019-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042024"
+country: "nl"
+rank: "circulaire"
+publication_date: "2019-03-01"
+last_updated: "2019-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042024"
+soort: "circulaire"
+stam_id: "15031663"
+version_id: "25752742"
+internal_id: "C36727761"
+label_id: "14981484"
+dtd_version: "2.0"
+original_entry_into_force: "2019-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042024/2019-03-01/0"
+intitule_bron: "Stcrt.2019-13172"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-01-07"
+intitule_published: "2019-03-20"
+intitule_in_force: "2019-03-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-13172"
+original_signed_date: "2019-01-07"
+original_published_date: "2019-03-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-13172"
+entry_into_force_date: "2019-03-01"
+jci_1_3: "jci1.3:c:BWBR0042024&z=2019-03-01&g=2019-03-01"
+jci_1_0: "1.0:c:BWBR0042024&g=2019-03-01"
+citeertitel_status: "redactioneel"
+signed_date: "2019-01-07"
+entry_into_force: "2019-03-01"
 ---
-
 # Circulaire Wet dwangsom en beroep bij niet tijdig beslissen (algemene versie)
 
 ### Algemeen

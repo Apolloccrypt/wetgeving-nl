@@ -1,13 +1,37 @@
 ---
 title: "Verdrag inzake toestemming voor de doorreis van Joegoslavische staatsburgers zonder verblijfsrecht"
 identifier: "BWBV0001433"
-categorie: "Internationaal recht"
-publicatiedatum: 2001-08-11
-laatste_update: 2001-08-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001433"
+country: "nl"
+rank: "verdrag"
+publication_date: "2001-08-11"
+last_updated: "2001-08-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001433"
+soort: "verdrag"
+stam_id: "10000125923"
+version_id: "10000135012"
+internal_id: "C10006992871"
+label_id: "10000126114"
+original_entry_into_force: "2001-08-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001433/2001-08-11/0"
+intitule_bron: "Trb.2001-140"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-04-26"
+intitule_published: "2001-08-15"
+intitule_in_force: "2001-08-15"
+intitule_status: "goed"
+original_publication: "Trb.2001-188"
+original_signed_date: "2000-04-26"
+original_published_date: "2001-11-26"
+original_effect: "structuurwijziging"
+original_url_id: "trb-2001-188"
+entry_into_force_date: "2001-08-11"
+jci_1_3: "jci1.3:c:BWBV0001433&z=2001-08-11&g=2001-08-11"
+jci_1_0: "1.0:c:BWBV0001433&g=2001-08-11"
+citeertitel_status: "officieel"
+signed_date: "2000-04-26"
+entry_into_force: "2001-08-11"
 ---
-
 # Verdrag inzake toestemming voor de doorreis van Joegoslavische staatsburgers zonder verblijfsrecht
 
 De Regering van de Republiek Albanië,
@@ -30,7 +54,7 @@ de Regering van de Republiek Hongarije
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doorreis ten behoeve van terugkeer
+##### Artikel 1. Doorreis ten behoeve van terugkeer
 
 1. De Partijen bij dit Verdrag staan de vrijwillige, eenmalige doorreis via hun grondgebied ten behoeve van terugkeer toe van Joegoslavische staatsburgers die zich op het grondgebied van een Partij bij dit Verdrag bevinden en niet voldoen aan de aldaar geldende voorwaarden voor verder verblijf. Dit geldt niet voor gevallen waarin een transitstaat de desbetreffende persoon een inreisverbod heeft opgelegd.
 
@@ -50,13 +74,13 @@ In het reisdocument is een kenmerk (vignet) opgenomen inzake de hoedanigheid van
 
 7. De transitstaten kunnen de personalia (naam, voornaam, geboortedatum, geboorteplaats, type en nummer van de reisdocumenten) alsmede plaats en tijd van de in- en uitreis van de desbetreffende personen registreren.
 
-#### Artikel 2. Hernieuwde toelating
+##### Artikel 2. Hernieuwde toelating
 
 1. Ten behoeve van de plicht tot hernieuwde toelating overeenkomstig [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001433&artikel=1&z=2001-08-11&g=2001-08-11), registreren de Staten van vertrek de personalia (naam, voornaam, geboortedatum, geboorteplaats) alsmede het type en nummer van de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001433&artikel=1&z=2001-08-11&g=2001-08-11), genoemde reisdocumenten alsmede verdere gegevens die in het geval van verlies van de reisdocumenten ter identificatie nodig zijn (bijvoorbeeld een kopie van het reisdocument, inclusief foto).
 
 2. De kosten die voor een Partij bij dit Verdrag ontstaan door de hernieuwde toelating overeenkomstig [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001433&artikel=1&z=2001-08-11&g=2001-08-11), voor het vervoer, de nodige begeleiding, accommodatie, maaltijden enzovoort worden gedragen door de Staat van vertrek. De kosten worden binnen zestig dagen na ontvangst van de rekening vergoed.
 
-#### Artikel 3. Bescherming persoonsgegevens
+##### Artikel 3. Bescherming persoonsgegevens
 
 1. Voorzover voor de uitvoering van dit Verdrag persoonsgegevens worden geregistreerd of dienen te worden verstrekt, mogen deze uitsluitend betrekking hebben op:
 
@@ -84,7 +108,7 @@ In het reisdocument is een kenmerk (vignet) opgenomen inzake de hoedanigheid van
 
 - 8. De instantie die de gegevens verstrekt attendeert de ontvanger indien het geldende nationale recht van de instantie die gegevens verstrekt met betrekking tot verstrekte persoonsgegevens voorziet in bijzondere vernietigingstermijnen. Los van deze termijnen dienen de verstrekte persoonsgegevens te worden vernietigd, zodra zij niet langer nodig zijn voor het doel waarvoor ze zijn verstrekt.
 
-#### Artikel 4. Bevoegde instanties
+##### Artikel 4. Bevoegde instanties
 
 1. De bevoegde instanties voor het ontvangen van verzoeken om informatie, de controle en het uitvoeren van hernieuwde toelating overeenkomstig [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001433&artikel=1&z=2001-08-11&g=2001-08-11), en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001433&artikel=2&z=2001-08-11&g=2001-08-11) zijn voor
 
@@ -108,15 +132,15 @@ In het reisdocument is een kenmerk (vignet) opgenomen inzake de hoedanigheid van
 
 2. De bevoegde instanties beantwoorden verzoeken om informatie in het kader van dit Verdrag onverwijld, echter uiterlijk binnen twee weken na de ontvangst ervan.
 
-#### Artikel 5. Plicht tot overleg
+##### Artikel 5. Plicht tot overleg
 
 De Partijen bij dit Verdrag verplichten zich problemen die bij de toepassing van dit Verdrag ontstaan in gezamenlijk overleg op te lossen en alle hiertoe noodzakelijke informatie te verstrekken. Iedere Partij bij dit Verdrag kan desgewenst onverwijld uitnodigen tot gesprekken over de oplossing van hangende problemen bij de uitvoering van dit Verdrag.
 
-#### Artikel 6. Voorrang van bilaterale verdragen
+##### Artikel 6. Voorrang van bilaterale verdragen
 
 De verplichtingen van de Partijen bij dit Verdrag op grond van bilaterale verdragen blijven onverlet.
 
-#### Artikel 7. Geldigheidsduur, inwerkingtreding, Depositaris
+##### Artikel 7. Geldigheidsduur, inwerkingtreding, Depositaris
 
 1. Dit Verdrag wordt gesloten voor onbepaalde tijd.
 
@@ -128,7 +152,7 @@ De verplichtingen van de Partijen bij dit Verdrag op grond van bilaterale verdra
 
 5. De Bondsrepubliek Duitsland is Depositaris van dit Verdrag.
 
-#### Artikel 8. Toetreding door andere Staten
+##### Artikel 8. Toetreding door andere Staten
 
 1. De Partijen bij dit Verdrag komen overeen dat ook andere Staten kunnen toetreden tot dit Verdrag.
 
@@ -136,7 +160,7 @@ De verplichtingen van de Partijen bij dit Verdrag op grond van bilaterale verdra
 
 3. Voor de toetredende Staat treedt het Verdrag 30 dagen na ontvangst door de Depositaris van de laatste toestemming van de andere Partijen bij het Verdrag in werking. De Depositaris stelt alle Partijen bij het Verdrag in kennis van de inwerkingtreding.
 
-#### Artikel 9. Opschorting, opzegging
+##### Artikel 9. Opschorting, opzegging
 
 1. Elke Partij bij dit Verdrag kan het uit gewichtige redenen, in het bijzonder bij een verstoring van of gevaar voor de openbare veiligheid en volksgezondheid, na overleg met de andere Partijen bij het Verdrag door een aan de Depositaris gerichte kennisgeving opschorten of opzeggen.
 

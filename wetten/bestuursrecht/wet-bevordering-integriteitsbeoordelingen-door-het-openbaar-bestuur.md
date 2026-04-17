@@ -1,14 +1,42 @@
 ---
-title: "Wet bevordering integriteitsbeoordelingen door het openbaar bestuur"
+title: "Wet van 20 juni 2002, houdende regels inzake de bevordering van integriteitsbeoordelingen door het openbaar bestuur met betrekking tot beschikkingen of overheidsopdrachten (Wet bevordering integriteitsbeoordelingen door het openbaar bestuur)"
 identifier: "BWBR0013798"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-16
-laatste_update: 2025-07-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013798"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-16"
+last_updated: "2025-07-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013798"
+soort: "wet"
+stam_id: "2856583"
+version_id: "26909342"
+internal_id: "C38101481"
+label_id: "2805284"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013798/2025-07-16/0"
+intitule_bron: "Stb.2002-347"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-06-20"
+intitule_published: "2002-07-04"
+intitule_in_force: "2002-10-17"
+intitule_status: "goed"
+original_publication: "Stb.2020-278"
+original_signed_date: "2020-07-01"
+original_published_date: "2020-07-22"
+original_effect: "structuurwijziging"
+original_dossier: "35152"
+original_url_id: "stb-2020-278"
+entry_into_force_date: "2020-07-01"
+entry_into_force_dossier: "35152"
+jci_1_3: "jci1.3:c:BWBR0013798&z=2025-07-16&g=2025-07-16"
+jci_1_0: "1.0:c:BWBR0013798&g=2025-07-16"
+citeertitel_status: "officieel"
+short_title: "Wet bevordering integriteitsbeoordelingen door het openbaar bestuur"
+signed_date: "2020-07-01"
+entry_into_force: "2020-07-01"
 ---
-
-# Wet bevordering integriteitsbeoordelingen door het openbaar bestuur
+# Wet van 20 juni 2002, houdende regels inzake de bevordering van integriteitsbeoordelingen door het openbaar bestuur met betrekking tot beschikkingen of overheidsopdrachten (Wet bevordering integriteitsbeoordelingen door het openbaar bestuur)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +48,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf 1.1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -82,7 +110,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 6. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt een wijziging van een omgevingsplan op aanvraag als bedoeld in [artikel 4.19b van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.19b) gelijkgesteld met een beschikking.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Ten aanzien van een subsidie wordt in deze wet onder intrekking tevens begrepen de vaststelling van de subsidie op een lager bedrag dan bij de verlening is bepaald, alsmede de wijziging van de subsidieverstrekking ten nadele van de subsidie-ontvanger.
 
@@ -96,11 +124,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf 3.1. Instelling en taak van het Bureau
 
-#### Artikel 8
+##### Artikel 8
 
 Er is een Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het Bureau heeft tot taak aan bestuursorganen, voorzover deze bij of krachtens de wet de bevoegdheid hebben gekregen het Bureau daartoe te verzoeken, op verzoek advies uit te brengen over de mate van gevaar, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16), of over de feiten en omstandigheden, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16).
 
@@ -130,17 +158,17 @@ Er is een Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur
 
 - b. uit de in [artikel 7a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2a&artikel=7a&z=2025-07-16&g=2025-07-16), bedoelde informatie naar het oordeel van het Bureau blijkt dat het bestuursorgaan of de rechtspersoon met een overheidstaak onvoldoende gebruik heeft gemaakt van de mogelijkheden tot het verrichten van eigen onderzoek.
 
-#### Artikel 10
+##### Artikel 10
 
 Het Bureau heeft voorts tot taak bestuursorganen desgevraagd te informeren omtrent de in deze wet en in andere algemeen verbindende voorschriften neergelegde weigerings- en intrekkingsgronden inzake beschikkingen, overheidsopdrachten en vastgoedtransacties.
 
-#### Artikel 11
+##### Artikel 11
 
 Indien het Bureau beschikt over gegevens die erop duiden dat een betrokkene in relatie staat tot strafbare feiten die reeds gepleegd zijn of – naar redelijkerwijs op grond van feiten of omstandigheden kan worden vermoed – gepleegd zullen worden, kan het een bestuursorgaan of een rechtspersoon met een overheidstaak wijzen op de mogelijkheid om eigen onderzoek te doen en eventueel daarna het Bureau om een advies te vragen.
 
 #### Paragraaf 3.1. Instelling en taak van het Bureau
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het Bureau verzamelt en analyseert persoonsgegevens uitsluitend ten behoeve van het advies.
 
@@ -168,7 +196,7 @@ Indien het Bureau beschikt over gegevens die erop duiden dat een betrokkene in r
 
 - f. feiten en omstandigheden die van belang zijn om te beoordelen tot welke personen de betrokkene in een zakelijk samenwerkingsverband staat.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Voor de uitvoering van de taken, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-07-16&g=2025-07-16), kan het Bureau de bevoegde buitenlandse autoriteiten verzoeken na te gaan of aldaar gegevens bekend zijn over natuurlijke personen of rechtspersonen tot wie zijn onderzoek zich uitstrekt. Het verzoek kan betrekking hebben op:
 
@@ -178,7 +206,7 @@ Indien het Bureau beschikt over gegevens die erop duiden dat een betrokkene in r
 
 2. Een verzoek als bedoeld in het eerste lid, aanhef en onderdeel a, wordt uitsluitend door tussenkomst van de officier van justitie tot de bevoegde autoriteit gericht, met uitzondering van een verzoek dat is gebaseerd op het Kaderbesluit nr. 2009/315/JBZ van de Raad van de Europese Unie van 26 februari 2009 betreffende de organisatie en de inhoud van uitwisseling van gegevens uit het strafregister tussen de lidstaten (Pb EU L93/23), dat door tussenkomst van Onze Minister geschiedt.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het Bureau neemt in het advies geen gegevens op waarvan:
 
@@ -188,7 +216,7 @@ Indien het Bureau beschikt over gegevens die erop duiden dat een betrokkene in r
 
 2. Het College van Procureurs-Generaal wijst de officier van justitie aan, aan wie het advies, voordat dit wordt toegezonden aan het bestuursorgaan dat of de rechtspersoon met een overheidstaak die om advies hebben gevraagd, wordt voorgelegd met het oog op de beoordeling of daarin gegevens zijn opgenomen waarvan het gebruik een zwaarwegend strafvorderlijk belang schaadt.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het advies wordt zo spoedig mogelijk gegeven, maar in ieder geval binnen een termijn van acht weken nadat het bestuursorgaan of de rechtspersoon met een overheidstaak een advies heeft aangevraagd.
 
@@ -196,27 +224,27 @@ Indien het Bureau beschikt over gegevens die erop duiden dat een betrokkene in r
 
 3. Indien het advies niet binnen acht weken kan worden gegeven, stelt het Bureau het bestuursorgaan of de rechtspersoon met een overheidstaak daarvan in kennis en noemt hij daarbij een termijn waarbinnen het advies wel tegemoet kan worden gezien. Deze termijn bedraagt niet meer dan vier weken.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het Bureau brengt een bijdrage in de kosten van het advies in rekening bij het bestuursorgaan dat of de rechtspersoon met een overheidstaak die het advies heeft gevraagd.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gegeven over de wijze waarop de in het eerste lid bedoelde bijdrage wordt vastgesteld.
 
-#### Artikel 17
+##### Artikel 17
 
 Bij ministeriële regeling kunnen nadere regels worden gegeven over de werkwijze van het Bureau, alsmede over de totstandkoming en inrichting van het advies.
 
 #### Paragraaf 3.2. Werkwijze van het Bureau
 
-#### Artikel 18
+##### Artikel 18
 
 Het Bureau registreert geen persoonsgegevens waarvan de verstrekker heeft aangegeven dat deze, gelet op het karakter van die gegevens, niet aan de desbetreffende persoon ter kennis mogen worden gebracht.
 
-#### Artikel 19
+##### Artikel 19
 
 Het Bureau kan persoonsgegevens die zijn verzameld of verkregen met het oog op de behandeling van een verzoek om advies, gedurende vijf jaren verwerken in verband met een ander verzoek.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Voor zoveel nodig in afwijking van hetgeen in de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en andere wetten is bepaald ten aanzien van verstrekking van gegevens, verstrekt het Bureau aan derden geen persoonsgegevens die het heeft verkregen in het kader van zijn taak, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-07-16&g=2025-07-16).
 
@@ -254,7 +282,7 @@ Het Bureau kan persoonsgegevens die zijn verzameld of verkregen met het oog op d
 
 #### Paragraaf 3.2. Werkwijze van het Bureau
 
-#### Artikel 21
+##### Artikel 21
 
 1. De algemene leiding, de organisatie en het beheer van het Bureau berusten bij Onze Minister.
 
@@ -262,21 +290,21 @@ Het Bureau kan persoonsgegevens die zijn verzameld of verkregen met het oog op d
 
 3. De directeur van het Bureau rapporteert, gevraagd en ongevraagd, rechtstreeks aan Onze Minister al hetgeen van belang kan zijn.
 
-#### Artikel 22
+##### Artikel 22
 
 Benoeming, schorsing en ontslag van de directeur van het Bureau geschiedt bij koninklijk besluit op voordracht van Onze Minister.
 
-#### Artikel 23
+##### Artikel 23
 
 Onze Minister bepaalt het budget en de formatie van het Bureau.
 
-#### Artikel 24
+##### Artikel 24
 
 Onze Minister brengt jaarlijks voor 1 mei aan beide kamers der Staten-Generaal een openbaar verslag uit van de wijze waarop het Bureau zijn taken in het afgelopen kalenderjaar heeft verricht.
 
 #### Paragraaf 3.3. De verwerking van gegevens door het Bureau
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
@@ -286,7 +314,7 @@ Vervallen
 
 #### Paragraaf 3.4. Beheer van het Bureau
 
-#### Artikel 27
+##### Artikel 27
 
 1. De volgende bestuursorganen verstrekken het Bureau desgevraagd alle gegevens die noodzakelijk zijn voor de uitvoering van de taak, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-07-16&g=2025-07-16):
 
@@ -360,23 +388,23 @@ Vervallen
 
 ### Hoofdstuk 4. Bevoegdheden, verplichtingen en procedurele bepalingen
 
-#### Artikel 43
+##### Artikel 43
 
 De bepalingen van de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=5&z=2025-07-16&g=2025-07-16) genoemde wetten, zoals zij luiden na de inwerkingtreding van deze wet, zijn niet van toepassing op de aanvraag van een beschikking die voor die datum is ingediend, onderscheidenlijk de aanbestedingsprocedure of onderhandeling waarmee voor die datum een aanvang is gemaakt.
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Onze Minister zendt binnen vijf jaar na inwerkingtreding van de [Evaluatie- en uitbreidingswet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0033159) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur in de praktijk.
 
-#### Artikel 46
+##### Artikel 46
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 47
+##### Artikel 47
 
 Deze wet wordt aangehaald als: Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
 
@@ -388,7 +416,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voorzover bestuursorganen bij of krachtens de wet daartoe de bevoegdheid hebben gekregen, kunnen zij weigeren een aangevraagde beschikking te geven dan wel een gegeven beschikking intrekken, indien ernstig gevaar bestaat dat de beschikking mede zal worden gebruikt om:
 
@@ -434,7 +462,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 7. Voorzover blijkt dat geen sprake is van ernstig gevaar als bedoeld in het eerste lid, kan het bestuursorgaan bij mindere mate van gevaar aan de beschikking voorschriften verbinden. Deze voorschriften zijn gericht op het wegnemen of beperken van dergelijk gevaar. Het bestuursorgaan heeft eenzelfde bevoegdheid indien sprake is van een ernstig gevaar waarbij de ernst van de strafbare feiten weigering of intrekking van de beschikking niet rechtvaardigt. Het bestuursorgaan kan een op grond van deze bepaling gegeven voorschrift wijzigen. Indien niet wordt voldaan aan een op grond van deze bepaling gegeven voorschrift, kan het bestuursorgaan de beschikking intrekken.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien toepassing wordt gegeven aan [artikel 7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=2a&artikel=7a&z=2025-07-16&g=2025-07-16), wordt de weigering van de vergunninghouder, de begunstigde van een andere beschikking, of de subsidie-ontvanger om een formulier als bedoeld in artikel 7a, vijfde lid, volledig in te vullen, aangemerkt als ernstig gevaar als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16).
 
@@ -442,7 +470,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 2. Aanbestedingen, vastgoedtransacties, subsidies, vergunningen en ontheffingen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een gegadigde voor een overheidsopdracht waarop de bepalingen, genoemd in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-07-16&g=2025-07-16), niet van toepassing zijn, kan van de gunning van die opdracht of van het sluiten van de met een gunningsbeslissing beoogde overeenkomst worden uitgesloten met inachtneming van de criteria voor de kwalitatieve selectie in de zin van de bepalingen, bedoeld in artikel 9, tweede lid, onderdeel a en b.
 
@@ -454,13 +482,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - c. ten aanzien van een onderaannemer, uitsluitend met het oog op diens acceptatie als zodanig, indien de rechtspersoon met een overheidstaak in het bestek als voorwaarde heeft gesteld dat onderaannemers niet zonder toestemming van die rechtspersoon worden gecontracteerd en in het kader van die voorwaarde zich het recht heeft voorbehouden aan het Bureau een advies te vragen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een subsidie aan een rechtspersoon of aan een natuurlijke persoon kan worden geweigerd dan wel worden ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16).
 
 2. Voordat een beslissing als bedoeld in het eerste lid wordt genomen, kan het bestuursorgaan dat tot die beslissing bevoegd is, het Bureau om een advies vragen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een gemeentelijke vergunning die op grond van een verordening verplicht is gesteld voor een inrichting of bedrijf, kan door het college van burgemeester en wethouders respectievelijk de burgemeester worden geweigerd dan wel ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16).
 
@@ -480,7 +508,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### Paragraaf 4.1. Bevoegdheid officier van justitie
 
-#### Artikel 26
+##### Artikel 26
 
 De officier van justitie, het bestuursorgaan dat of een rechtspersoon met een overheidstaak die bevoegd is tot toepassing van deze wet, en die beschikt over gegevens die erop duiden dat een betrokkene in relatie staat tot strafbare feiten die reeds gepleegd zijn of naar redelijkerwijs kan worden vermoed gepleegd zullen worden, kan een bestuursorgaan dat of een rechtspersoon met een overheidstaak die bevoegd is tot toepassing van deze wet, wijzen op de mogelijkheid om eigen onderzoek te doen en eventueel daarna het Bureau om een advies te vragen.
 
@@ -488,7 +516,7 @@ De officier van justitie, het bestuursorgaan dat of een rechtspersoon met een ov
 
 #### Paragraaf 3.5. Begeleidingscommissie
 
-#### Artikel 28
+##### Artikel 28
 
 1. Een ieder die krachtens deze wet de beschikking krijgt over gegevens met betrekking tot een derde, is verplicht tot geheimhouding daarvan, behoudens voorzover een bij deze wet gegeven voorschrift mededelingen toelaat.
 
@@ -548,25 +576,25 @@ De officier van justitie, het bestuursorgaan dat of een rechtspersoon met een ov
 
 4. Indien een beschikking dan wel de intrekking van een subsidie of vergunning, de weigering van een overheidsopdracht of een vastgoedtransactie dan wel de ontbinding van een overeenkomst inzake een dergelijke opdracht of transactie, in rechte wordt aangevochten, is betrokkene bevoegd de in het eerste lid bedoelde gegevens bekend te maken aan de rechter.
 
-#### Artikel 29
+##### Artikel 29
 
 Het bestuursorgaan dat of de rechtspersoon met een overheidstaak die een advies ontvangt, kan dat advies gedurende vijf jaren nadat het is uitgebracht gebruiken in verband met een andere beslissing. Dit artikel is van overeenkomstige toepassing op bevindingen van eigen onderzoek en de gegevens die daaraan ten grondslag liggen.
 
 #### Paragraaf 4.1. Tipbevoegdheid
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Indien het bestuursorgaan een advies aanvraagt, wordt de wettelijke termijn waarbinnen de beschikking dient te worden gegeven, opgeschort voor de duur van de periode die begint met de dag waarop het advies is aangevraagd en eindigt met de dag waarop dat advies is ontvangen, met dien verstande dat deze opschorting niet langer duurt dan de in [artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2025-07-16&g=2025-07-16), bedoelde termijn, vermeerderd met de duur van de eenmalige verlenging, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2025-07-16&g=2025-07-16).
 
-#### Artikel 32
+##### Artikel 32
 
 Het bestuursorgaan of de rechtspersoon met een overheidstaak informeert de betrokkene dat het Bureau om advies is verzocht.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Voordat een bestuursorgaan aan een beschikking voorschriften verbindt als bedoeld in [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16), en voordat een bestuursorgaan een voor de betrokkene en de in de voorgenomen beschikking in verband met deze gronden genoemde derde negatieve beslissing neemt op grond van ernstig gevaar als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16), dan wel op grond van feiten of omstandigheden als bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16), stelt het de betrokkene en de in de voorgenomen beschikking in verband met deze gronden genoemde derde in de gelegenheid zijn zienswijze naar voren te brengen.
 
@@ -588,41 +616,41 @@ Het bestuursorgaan of de rechtspersoon met een overheidstaak informeert de betro
 
 #### Paragraaf 5.1. Persoonsregistraties
 
-#### Artikel 34
+##### Artikel 34
 
 Wijzigt de Wet politieregisters.
 
-#### Artikel 35
+##### Artikel 35
 
 Wijzigt de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag.
 
 #### Paragraaf 5.1. Persoonsregistraties
 
-#### Artikel 36
+##### Artikel 36
 
 Wijzigt de Drank- en Horecawet.
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Wijzigt de Wet goederenvervoer over de weg.
 
-#### Artikel 39
+##### Artikel 39
 
 Wijzigt de Wet personenvervoer 2000.
 
-#### Artikel 40
+##### Artikel 40
 
 Wijzigt de Wet milieubeheer.
 
-#### Artikel 41
+##### Artikel 41
 
 Wijzigt de Woningwet.
 
-#### Artikel 42
+##### Artikel 42
 
 Wijzigt de Wet op de economische delicten.
 
@@ -630,7 +658,7 @@ Wijzigt de Wet op de economische delicten.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Een rechtspersoon met een overheidstaak kan het Bureau om een advies vragen over de betrokkene:
 
@@ -642,7 +670,7 @@ Een rechtspersoon met een overheidstaak kan het Bureau om een advies vragen over
 
 #### Paragraaf 3.1. Instelling en taak van het Bureau
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. Het Bureau bericht desgevraagd aan een bestuursorgaan of een rechtspersoon met een overheidstaak of in de afgelopen vijf jaren in een advies van het Bureau of in bevindingen van eigen onderzoek strafbare feiten die zijn gepleegd door dezelfde natuurlijke of rechtspersonen als naar wie dat orgaan of die rechtspersoon eigen onderzoek verricht, ten grondslag zijn gelegd aan de conclusie van een ernstig gevaar of mindere mate van gevaar in de zin van deze wet. Dit gegeven wordt uitsluitend verstrekt over degene die in het onderhavige eigen onderzoek is aangemerkt als ten minste één van de volgende natuurlijke of rechtspersonen:
 
@@ -676,7 +704,7 @@ Een rechtspersoon met een overheidstaak kan het Bureau om een advies vragen over
 
 #### Paragraaf 3.3. De verwerking van gegevens door het Bureau
 
-#### Artikel 27a
+##### Artikel 27a
 
 Afschriften van rechterlijke uitspraken en processen-verbaal van de mondelinge uitspraak in bestuursrechtelijke zaken worden desgevraagd aan het Bureau verstrekt overeenkomstig de daarop van toepassing zijnde wettelijke bepalingen.
 
@@ -686,7 +714,7 @@ Afschriften van rechterlijke uitspraken en processen-verbaal van de mondelinge u
 
 #### Paragraaf 5.2. Vergunningen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
@@ -694,7 +722,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Onder feiten en omstandigheden als bedoeld in [artikel 3, tweede lid, onder a, en derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16), die erop wijzen dat de betrokkene in relatie staat tot strafbare feiten, wordt verstaan:
 
@@ -738,7 +766,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### Paragraaf 5.1. Persoonsregistraties
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
@@ -746,7 +774,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Indien een bestuursorgaan of rechtspersoon met een overheidstaak bevoegd is om advies te vragen aan het Bureau, kan dat orgaan of die rechtspersoon tevens zelf onderzoek verrichten naar feiten en omstandigheden als bedoeld in [artikel 3, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=1&paragraaf=1.2&artikel=3&z=2025-07-16&g=2025-07-16), en [artikel 9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-07-16&g=2025-07-16).
 
@@ -788,7 +816,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 8. Het bestuursorgaan dat of de rechtspersoon met een overheidstaak die redelijkerwijs vermoedt dat een betrokkene zich vanwege het toepassen van deze wet terugtrekt uit de procedure nadat een eigen onderzoek is gestart of nadat advies is gevraagd aan het Bureau, meldt dit onverwijld aan het Bureau.
 
-#### Artikel 7b
+##### Artikel 7b
 
 Het bestuursorgaan of de rechtspersoon met een overheidstaak kan persoonsgegevens uit openbare bronnen en persoonsgegevens die rechtstreeks zijn te herleiden tot gegevens uit openbare bronnen, verwerken ten behoeve van het eigen onderzoek.
 
@@ -810,7 +838,7 @@ Het bestuursorgaan of de rechtspersoon met een overheidstaak kan persoonsgegeven
 
 #### Paragraaf 5.2. Vergunningen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
@@ -818,7 +846,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 7c
+##### Artikel 7c
 
 1. De rijksbelastingdienst verstrekt aan bestuursorganen en rechtspersonen met een overheidstaak desgevraagd gegevens over een vergrijpboete die op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) is opgelegd, ten behoeve van hun eigen onderzoek, in de gevallen waarin zij bevoegd zijn tot toepassing van deze wet.
 
@@ -848,7 +876,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### Paragraaf 5.2. Vergunningen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 

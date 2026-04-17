@@ -1,24 +1,48 @@
 ---
 title: "Regeling beheer archiefbescheiden"
 identifier: "BWBR0009866"
-categorie: "Overig"
-publicatiedatum: 1998-01-01
-laatste_update: 1998-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009866"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1998-01-01"
+last_updated: "1998-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009866"
+soort: "ministeriele-regeling"
+stam_id: "5104543"
+version_id: "9168092"
+internal_id: "C12195761"
+label_id: "5079964"
+dtd_version: "2.0"
+original_entry_into_force: "1998-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009866/1998-01-01/0"
+intitule_bron: "Stcrt.1998-186"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-08-26"
+intitule_published: "1998-09-30"
+intitule_in_force: "1998-09-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-186"
+original_signed_date: "1998-08-26"
+original_published_date: "1998-09-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-01-01"
+jci_1_3: "jci1.3:c:BWBR0009866&z=1998-01-01&g=1998-01-01"
+jci_1_0: "1.0:c:BWBR0009866&g=1998-01-01"
+citeertitel_status: "officieel"
+signed_date: "1998-08-26"
+entry_into_force: "1998-01-01"
 ---
-
 # Regeling beheer archiefbescheiden
 
 Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. De secretaris-generaal is bevoegd om namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties het beheer over de archiefbescheiden te voeren.
 
@@ -34,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 4. Het Hoofd Binnenlandse Veiligheidsdienst kan ten aanzien van de aan hem overgedragen bevoegdheid, ondermandaat verlenen aan het onder hem ressorterende afdelingshoofd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De secretaris-generaal stelt uitvoeringsregelingen vast ten aanzien van het beheer van de archiefbescheiden.
 
@@ -62,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 - k. aanverwante werkzaamheden.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van 1 januari 1998.
 

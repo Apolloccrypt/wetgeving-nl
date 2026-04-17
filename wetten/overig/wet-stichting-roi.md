@@ -1,14 +1,38 @@
 ---
-title: "Wet Stichting ROI"
+title: "Wet van 26 november 1992, houdende regelen met betrekking tot de oprichting van de Stichting ROI"
 identifier: "BWBR0005739"
-categorie: "Overig"
-publicatiedatum: 1998-01-01
-laatste_update: 1998-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005739"
+country: "nl"
+rank: "wet"
+publication_date: "1998-01-01"
+last_updated: "1998-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005739"
+soort: "wet"
+stam_id: "133053"
+version_id: "181972"
+internal_id: "C181971"
+label_id: "132634"
+dtd_version: "2.0"
+original_entry_into_force: "1992-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005739/1998-01-01/0"
+intitule_bron: "Stb.1992-659"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-11-26"
+intitule_in_force: "1992-12-30"
+intitule_status: "goed"
+original_publication: "Stb.1992-659"
+original_signed_date: "1992-11-26"
+original_effect: "nieuwe-regeling"
+original_dossier: "22638"
+entry_into_force_date: "1992-12-31"
+jci_1_3: "jci1.3:c:BWBR0005739&z=1998-01-01&g=1998-01-01"
+jci_1_0: "1.0:c:BWBR0005739&g=1998-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet Stichting ROI"
+signed_date: "1992-11-26"
+entry_into_force: "1992-12-31"
 ---
-
-# Wet Stichting ROI
+# Wet van 26 november 1992, houdende regelen met betrekking tot de oprichting van de Stichting ROI
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +40,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is dat het Rijks Opleid
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -28,7 +52,7 @@ In deze wet wordt verstaan onder:
 
 - d. het personeelslid: degene die op de dag voor de overgangsdatum in dienst is bij het ROI, hetzij als ambtenaar, hetzij op arbeidsovereenkomst naar burgerlijk recht.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister wordt gemachtigd om namens de Staat der Nederlanden op te richten de Stichting ROI v/h Rijks Opleidingsinstituut, die ten doel heeft het verlenen van diensten op het gebied van opleiding en training in de meest uitgebreide zin des woords, mede ter voortzetting van de dienstverlening zoals die voor de oprichting van de Stichting ROI werd verricht door het Rijks Opleidingsinstituut.
 
@@ -36,11 +60,11 @@ In deze wet wordt verstaan onder:
 
 3. Een besluit van het bestuur van de Stichting ROI strekkende tot wijziging van het doel van de Stichting, dan wel tot ontbinding van de Stichting, behoeft de toestemming van Onze Minister.
 
-#### Artikel 3
+##### Artikel 3
 
 Gedurende een termijn van ten hoogste vijf jaren na de overgangsdatum zuivert de Staat der Nederlanden eventuele exploitatietekorten van de Stichting ROI, onder door Onze Minister te bepalen voorwaarden, aan.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De vermogensbestanddelen van de Staat welke aan het Rijks Opleidingsinstituut worden toegerekend gaan op de overgangsdatum onder algemene titel over op de Stichting ROI.
 
@@ -50,7 +74,7 @@ Gedurende een termijn van ten hoogste vijf jaren na de overgangsdatum zuivert de
 
 4. Ten aanzien van de in het eerste lid bedoelde vermogensbestanddelen welke in openbare registers te boek zijn gesteld, zal verandering van de tenaamstelling in die registers plaatsvinden. De daartoe nodige opgaven worden door de zorg van Onze Minister van Financiën aan de bewaarders van de desbetreffende registers gedaan.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ieder personeelslid ten aanzien van wie Onze Minister niet anders heeft beslist, gaat over in dienst bij de Stichting ROI op een arbeidsovereenkomst naar burgerlijk recht, ingaande op de overgangsdatum.
 
@@ -74,7 +98,7 @@ Gedurende een termijn van ten hoogste vijf jaren na de overgangsdatum zuivert de
 
 11. Indien Onze Minister op of na de overgangsdatum de bezwaren geheel of gedeeltelijk gegrond verklaart, kan hij beslissen dat het personeelslid niet overgaat in dienst bij de Stichting ROI, dan wel de Stichting ROI verplichten het personeelslid een arbeidsovereenkomst aan te bieden, waarvan de inhoud in overeenstemming is met zijn beslissing.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Met ingang van de datum waarop het personeel overgaat verkrijgt een personeelslid met wie een arbeidsovereenkomst als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005739&artikel=5&z=1998-01-01&g=1998-01-01), is gesloten, ter zake van de ouderdoms- en nabestaandenpensioenvoorziening aanspraken jegens een door de Stichting ROI aan te wijzen instelling als bedoeld in [artikel 1, eerste lid, onder **b**, dan wel onder **c**, van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=1) (**Stb.** 1952, 275), die gelijkwaardig zijn aan die welke het personeelslid op de laatste dag van de kalendermaand voorafgaand aan de overgangsdatum heeft jegens het Algemeen burgerlijk pensioenfonds krachtens de Algemene burgerlijke pensioenwet (**Stb.** 1986, 540) en neemt de aangewezen instelling de daarmee verband houdende verplichtingen op zich.
 
@@ -98,15 +122,15 @@ Gedurende een termijn van ten hoogste vijf jaren na de overgangsdatum zuivert de
 
 9. Het verschil tussen de waardeoverdracht krachtens het zesde lid en de lasten-min-batenuitkomst krachtens het zevende lid wordt verrekend tussen het Algemeen burgerlijk pensioenfonds en de Minister van Binnenlandse Zaken.
 
-#### Artikel 7
+##### Artikel 7
 
 Ter zake van de verkrijging van de vermogensbestanddelen van de Staat, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005739&artikel=4&z=1998-01-01&g=1998-01-01), en de vermogensoverdracht van het Algemeen burgerlijk pensioenfonds aan de door de Stichting ROI aangewezen instelling als bedoeld in [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005739&artikel=6&z=1998-01-01&g=1998-01-01), blijft heffing van overdrachtsbelasting achterwege.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze wet treedt inwerking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze wet kan worden aangehaald als de Wet Stichting ROI.
 

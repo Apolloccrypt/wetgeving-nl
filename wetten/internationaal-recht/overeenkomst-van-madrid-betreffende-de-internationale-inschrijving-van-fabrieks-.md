@@ -1,16 +1,38 @@
 ---
 title: "Overeenkomst van Madrid betreffende de internationale inschrijving van fabrieks- of handelsmerken"
 identifier: "BWBV0005052"
-categorie: "Internationaal recht"
-publicatiedatum: 1966-12-15
-laatste_update: 1966-12-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005052"
+country: "nl"
+rank: "verdrag"
+publication_date: "1966-12-15"
+last_updated: "1966-12-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005052"
+soort: "verdrag"
+stam_id: "10004452453"
+version_id: "10004660262"
+internal_id: "C10007218431"
+label_id: "10004437294"
+dtd_version: "2.0"
+original_entry_into_force: "1966-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005052/1966-12-15/0"
+intitule_bron: "Trb.1958-75"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1958-06-18"
+intitule_in_force: "1967-04-07"
+intitule_status: "goed"
+original_publication: "Trb.1958-75"
+original_published_date: "1958-06-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1958-75"
+entry_into_force_date: "1966-12-15"
+jci_1_3: "jci1.3:c:BWBV0005052&z=1966-12-15&g=1966-12-15"
+jci_1_0: "1.0:c:BWBV0005052&g=1966-12-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "1966-12-15"
 ---
-
 # Overeenkomst van Madrid betreffende de internationale inschrijving van fabrieks- of handelsmerken
 
-#### Artikel 1
+##### Artikel 1
 
 (1). De landen, voor welke deze Overeenkomst geldt, vormen een bijzondere Unie voor de internationale inschrijving van merken.
 
@@ -18,11 +40,11 @@ bron: "https://wetten.overheid.nl/BWBV0005052"
 
 (3). Als land van oorsprong zal beschouwd worden het land van de bijzondere Unie, waar de inzender een daadwerkelijke en wezenlijke inrichting van nijverheid of handel heeft; indien hij een dergelijke inrichting niet heeft in een land van de bijzondere Unie, het land van de bijzondere Unie, waar hij zijn woonplaats heeft; indien hij geen woonplaats heeft in de bijzondere Unie, het land van zijn nationaliteit in het geval hij onderdaan is van een land van de bijzondere Unie.
 
-#### Artikel 2
+##### Artikel 2
 
 Met de onderdanen van de Overeenkomstsluitende landen worden gelijkgesteld de onderdanen der niet tot deze Overeenkomst toegetreden landen, die, op het grondgebied van de door deze gevormde bijzondere Unie, voldoen aan de voorwaarden, vastgesteld bij [artikel 3 van de Internationale Overeenkomst van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=3).
 
-#### Artikel 3
+##### Artikel 3
 
 (1). Iedere aanvrage voor internationale inschrijving zal moeten worden aangeboden op het formulier, voorgeschreven door het reglement van uitvoering; de Administratie van het land van oorsprong van het merk zal de verklaring afgeven, dat de aanduidingen, die op dat aanvraagformulier voorkomen, overeenstemmen met die van het nationale register en zal de data en de nummers van het depot en van de inschrijving van het merk in het land van oorsprong vermelden evenals de datum van de aanvragen voor internationale inschrijving.
 
@@ -38,31 +60,31 @@ Met de onderdanen van de Overeenkomstsluitende landen worden gelijkgesteld de on
 
 (5). Met het oog op de in de Overeenkomstsluitende landen aan de ingeschreven merken te geven openbaarheid, zal elke Administratie van het Internationaal Bureau een aantal kosteloze exemplaren en een aantal exemplaren tegen verminderde prijs van de bovengenoemde publikatie ontvangen, naar evenredigheid van het aantal eenheden, volgens de bepalingen van [artikel 13, achtste lid, van de Internationale Overeenkomst van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0003894&artikel=13), onder de bij het reglement van uitvoering vastgestelde voorwaarden. Deze openbaarheid zal in alle Overeenkomstsluitende landen als volkomen voldoende worden beschouwd en geen andere zal van de inzender kunnen worden gevorderd.
 
-#### Artikel 3bis
+##### Artikel 3bis
 
 (1). Elk Overeenkomstsluitend land kan te allen tijde aan de Regering van de Zwitserse Bondsstaat schriftelijk er van kennis geven, dat de uit de internationale inschrijving voortvloeiende bescherming zich slechts dan tot dat land zal uitstrekken, indien de houder van het merk zulks uitdrukkelijk verzoekt.
 
 (2). Deze kennisgeving zal eerst gevolg hebben zes maanden na dagtekening van de mededeling, die de Regering van de Zwitserse Bondsstaat daarvan aan de andere Overeenkomstsluitende landen doet. Deze termijn geldt evenwel niet voor de landen, die bij de bekrachtiging of de toetreding gebruik maken van het in het eerste lid toegekende recht.
 
-#### Artikel 3ter
+##### Artikel 3ter
 
 (1). Het verzoek om de bescherming, voortvloeiende uit de internationale inschrijving, uit te strekken tot een land, dat gebruik heeft gemaakt van de in artikel 3**bis** toegekende bevoegdheid, zal afzonderlijk vermeld moeten worden in de aanvrage, bedoeld in artikel 3, eerste lid.
 
 (2). Een na de internationale inschrijving gedaan verzoek om de bescherming tot een bepaald land uit te strekken zal door tussenkomst van de Administratie van het land van oorsprong ingediend moeten worden op een door het reglement van uitvoering voorgeschreven formulier. Het zal onmiddellijk ingeschreven worden door het Internationaal Bureau, dat er onverwijld kennis van zal geven aan de betrokken Administratie of Administraties. Het zal openbaar worden gemaakt in het door het Internationaal Bureau uitgegeven, regelmatig verschijnend blad. De uitstrekking der bescherming tot dat land zal eerst gevolg hebben van de datum af waarop zij zal zijn ingeschreven in het internationale register; zij houdt op te gelden, wanneer de internationale inschrijving van het merk, waarop zij betrekking heeft, vervalt.
 
-#### Artikel 4
+##### Artikel 4
 
 (1). Van het tijdstip der aldus overeenkomstig de bepalingen van de artikelen 3 en 3**ter** gedane inschrijving af, zal de bescherming van het merk in elk der betrokken Overeenkomstsluitende landen dezelfde zijn, als ware dit merk daar rechtstreeks gedeponeerd. De in artikel 3 bedoelde klasse-indeling van de waren en diensten bindt de Overeenkomstsluitende landen niet, voor wat betreft de beoordeling van de omvang der bescherming van het merk.
 
 (2). Elk merk, dat het voorwerp is geweest van een internationale inschrijving, zal het recht van voorrang genieten, bij [artikel 4 van de Internationale Overeenkomst van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=4) vastgesteld, zonder dat het nodig is de formaliteiten voorgeschreven onder letter D van dat artikel te vervullen.
 
-#### Artikel 4bis
+##### Artikel 4bis
 
 (1). Wanneer een merk, reeds gedeponeerd in een of meer der Overeenkomstsluitende landen, daarna is ingeschreven door het Internationaal Bureau ten name van dezelfde persoon of van diens rechtverkrijgende, zal de internationale inschrijving beschouwd worden als in de plaats te zijn getreden van de vroegere nationale inschrijvingen, zonder afbreuk te doen aan de rechten, door laatstvermelde inschrijvingen verkregen.
 
 (2). De nationale Administratie is, op aanvrage, gehouden in haar registers van de internationale inschrijving aantekening te houden.
 
-#### Artikel 5
+##### Artikel 5
 
 (1). In de landen, waar de wetgeving hen daartoe machtigt, zullen de Administraties, aan welke het Internationaal Bureau van de inschrijving van een merk of van het overeenkomstig artikel 3**ter** gedaan verzoek de bescherming tot deze landen uit te strekken, zal kennis geven, de bevoegdheid hebben te verklaren, dat de bescherming niet op hun grondgebied aan dat merk kan worden verleend. Een dergelijke weigering zal alleen geoorloofd zijn op grond van omstandigheden, die, krachtens de [Internationale Overeenkomst van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120), van kracht zouden zijn ten aanzien van een merk, ter nationale inschrijving ingezonden. De bescherming zal echter niet kunnen worden geweigerd, zelfs niet gedeeltelijk, enkel en alleen omdat de nationale wetgeving de inschrijving slechts in een beperkt aantal klassen of voor een beperkt aantal waren of diensten zou toelaten.
 
@@ -76,11 +98,11 @@ Met de onderdanen van de Overeenkomstsluitende landen worden gelijkgesteld de on
 
 (6). De ongeldigverklaring van een internationaal merk zal door de bevoegde autoriteiten niet kunnen worden uitgesproken, zonder dat de rechthebbende op dat merk is aangemaand zijn rechten tijdig te doen gelden. Zij zal aan het Internationaal Bureau worden medegedeeld.
 
-#### Artikel 5bis
+##### Artikel 5bis
 
 De bewijsstukken van de wettigheid van het gebruik van zekere in de merken opgenomen bestanddelen als wapens, wapenschilden, portretten, eervolle onderscheidingen, titels, handelsnamen of namen van personen anders dan die van de aanvrager, of andere overeenkomstige vermeldingen, welke door de Administraties der Overeenkomstsluitende landen mochten worden gevorderd, zullen vrijgesteld zijn van elke legalisatie, alsmede van elke andere waarmerking dan die van de Administratie van het land van oorsprong.
 
-#### Artikel 5ter
+##### Artikel 5ter
 
 (1). Het Internationaal Bureau zal aan een ieder, die daartoe aanvraag doet, tegen een in het reglement van uitvoering vastgestelde taxe, een afschrift afgeven van de aantekeningen, in het register ingeschreven met betrekking tot een bepaald merk.
 
@@ -88,7 +110,7 @@ De bewijsstukken van de wettigheid van het gebruik van zekere in de merken opgen
 
 (3). De uittreksels uit het internationale register, die met het oog op hun overlegging in een der Overeenkomstsluitende landen zijn aangevraagd, zullen van iedere legalisatie vrijgesteld zijn.
 
-#### Artikel 6
+##### Artikel 6
 
 (1). De inschrijving van een merk bij het Internationaal Bureau geschiedt voor twintig jaar (onder voorbehoud van hetgeen is bepaald in artikel 8 voor het geval, dat de inzender slechts een deel van het internationaal emolument zou hebben gestort) met mogelijkheid tot vernieuwing onder de in artikel 7 gestelde voorwaarden.
 
@@ -98,7 +120,7 @@ De bewijsstukken van de wettigheid van het gebruik van zekere in de merken opgen
 
 (4). Ingeval van de vrijwillige of ambtshalve doorhaling zal de Administratie van het land van oorsprong aan het Internationaal Bureau verzoeken het merk door te halen, welk Bureau tot deze verrichting zal overgaan. Ingeval een rechtsvordering wordt ingesteld, zal de hiervoren genoemde Administratie aan het Internationaal Bureau - hetzij ambtshalve, hetzij op verzoek van de eiser - een kopie van de akte van rechtsingang of van enig ander document, waaruit de rechtsingang blijkt, evenals van de definitieve uitspraak doen toekomen; het Bureau zal er melding van maken in het internationale register.
 
-#### Artikel 7
+##### Artikel 7
 
 (1). De inschrijving zal altijd kunnen worden vernieuwd voor een termijn van twintig jaren, te rekenen van het tijdstip, waarop de voorafgaande termijn afloopt, door het enkele storten van het basisemolument en in voorkomende gevallen van extra emolumenten en aanvullingsemolumenten, als bedoeld in artikel 8, tweede lid.
 
@@ -110,7 +132,7 @@ De bewijsstukken van de wettigheid van het gebruik van zekere in de merken opgen
 
 (5). Door storting van een door het reglement van uitvoering vastgestelde extra taxe, zal voor de vernieuwing van de internationale inschrijving een termijn van uitstel van zes maanden kunnen worden verleend.
 
-#### Artikel 8
+##### Artikel 8
 
 (1). De Administratie van het land van oorsprong zal de bevoegdheid hebben om naar goedvinden een nationale taxe vast te stellen en te haren voordele te innen, welke zij zal vorderen van de rechthebbende op het merk, waarvan de internationale inschrijving of de vernieuwing wordt gevraagd.
 
@@ -138,11 +160,11 @@ Indien op het ogenblik van het in werking treden van deze Akte een land nog niet
 
 (9). Voor wat de hierboven vermelde termijn van zes maanden betreft, is de bepaling van artikel 7, vijfde lid, van overeenkomstige toepassing.
 
-#### Artikel 8bis
+##### Artikel 8bis
 
 De rechthebbende op de internationale inschrijving kan steeds afstand doen van de bescherming in een of meer der Overeenkomstsluitende landen, door middel van een verklaring, afgegeven aan de Administratie van zijn land, ter mededeling aan het Internationaal Bureau, dat haar ter kennis zal brengen van de landen, waarop deze afstand betrekking heeft. Deze afstand is niet aan enige taxe onderworpen.
 
-#### Artikel 9
+##### Artikel 9
 
 (1). De Administratie van het land van de rechthebbende zal aan het Internationaal Bureau eveneens kennis geven van elke nietigverklaring, doorhaling, afstand, overdracht en van andere wijzigingen, aangebracht in de inschrijving van het merk in het nationale register, indien deze wijzigingen ook voor de internationale inschrijving van belang zijn.
 
@@ -156,7 +178,7 @@ De rechthebbende op de internationale inschrijving kan steeds afstand doen van d
 
 (6). Met de toevoeging wordt gelijkgesteld de vervanging van een waar of dienst door anderen.
 
-#### Artikel 9bis
+##### Artikel 9bis
 
 (1). Indien een in het internationale register ingeschreven merk mocht worden overgedragen aan een persoon, gevestigd in een ander der Overeenkomstsluitende landen dan het land van de rechthebbende op de internationale inschrijving, zal de overdracht door de Administratie van datzelfde land ter kennis van het Internationaal Bureau worden gebracht. Het Internationaal Bureau zal de overdracht inschrijven, haar aan de andere Administraties mededelen en haar in zijn blad bekendmaken. Indien de overdracht is geschied vóór afloop van een termijn van vijf jaren te rekenen van de internationale inschrijving af, zal het Internationaal Bureau de toestemming vragen van de Administratie van het land van de nieuwe rechthebbende en zal, zo mogelijk, de datum waarop en het nummer waaronder inschrijving van het merk in het land van de nieuwe rechthebbende heeft plaats gehad, bekend maken.
 
@@ -164,7 +186,7 @@ De rechthebbende op de internationale inschrijving kan steeds afstand doen van d
 
 (3). Indien een overdracht niet in het internationale register kon worden ingeschreven, hetzij als gevolg van de weigering van toestemming van het land van de nieuwe rechthebbende, hetzij omdat zij geschiedde ten behoeve van iemand, die niet bevoegd is een internationale inschrijving te vragen, zal de Administratie van het land van de vroegere rechthebbende het recht hebben aan het Internationaal Bureau te verzoeken tot doorhaling van het merk in zijn register over te gaan.
 
-#### Artikel 9ter
+##### Artikel 9ter
 
 (1). Indien de overdracht van een internationaal merk voor slechts een gedeelte der ingeschreven waren of diensten ter kennis van het Internationaal Bureau is gebracht, zal dit die overdracht in zijn register inschrijven. Elk der Overeenkomstsluitende landen zal de bevoegdheid hebben de geldigheid van deze overdracht niet te erkennen, indien de waren of diensten, in het aldus overgedragen gedeelte begrepen, van dezelfde soort zijn als die, waarvoor het merk ten behoeve van hem, die het merk heeft overgedragen, blijft ingeschreven.
 
@@ -174,7 +196,7 @@ De rechthebbende op de internationale inschrijving kan steeds afstand doen van d
 
 (4). De bepalingen van de vorige leden zijn slechts van toepassing met inachtneming van [artikel 6quater van de Internationale Overeenkomst van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=6quater).
 
-#### Artikel 9quater
+##### Artikel 9quater
 
 (1). Indien verschillende landen van de bijzondere Unie overeenkomen de eenmaking hunner nationale wetten op de merken te verwezenlijken, kunnen zij de Regering van de Zwitserse Bondsstaat ervan in kennis stellen:
 
@@ -184,7 +206,7 @@ De rechthebbende op de internationale inschrijving kan steeds afstand doen van d
 
 (2). Deze mededeling zal eerst gevolg hebben zes maanden na het tijdstip van de gedane kennisgeving door de Regering van de Zwitserse Bondsstaat aan de andere Overeenkomstsluitende landen.
 
-#### Artikel 10
+##### Artikel 10
 
 (1). De Administraties zullen in gemeen overleg de bijzonderheden betreffende de uitvoering van deze Overeenkomst regelen.
 
@@ -200,7 +222,7 @@ De rechthebbende op de internationale inschrijving kan steeds afstand doen van d
 
 - c). kunnen de Directeuren van de nationale diensten voor de industriële eigendom hun bevoegdheid overdragen aan de vertegenwoordiger van een ander land.
 
-#### Artikel 11
+##### Artikel 11
 
 (1). De landen der Unie tot bescherming van de industriële eigendom, die aan dieze Overeenkomst geen deel hebben genomen, zullen daartoe op hun verzoek mogen toetreden, in de vorm, voorgeschreven bij artikel 16 van de Internationale Overeenkomst van Parijs tot bescherming van de industriële eigendom. Deze toetreding zal alleen gelden voor de laatstelijk herziene tekst van de Overeenkomst.
 
@@ -218,11 +240,11 @@ Het Internationaal Bureau zal geen collectieve opgave verstrekken aan de landen,
 
 (7). De regelen van artikel 16**bis** van de Internationale Overeenkomst van Parijs tot bescherming van de industriële eigendom zijn op deze Overeenkomst van toepassing.
 
-#### Artikel 11bis
+##### Artikel 11bis
 
 Ingeval van opzegging van deze Overeenkomst is artikel 17**bis** van de Internationale Overeenkomst van Parijs tot bescherming van de industriële eigendom van toepassing. De internationale merken, ingeschreven tot de dag, waarop de opzegging van kracht wordt, en niet binnen het jaar, bedoeld in artikel 5, geweigerd, zullen, gedurende de duur der internationale bescherming, in het genot blijven van dezelfde bescherming, als waren zij rechtstreeks in dat land gedeponeerd.
 
-#### Artikel 12
+##### Artikel 12
 
 (1). Deze Overeenkomst zal worden bekrachtigd en de akten van bekrachtiging zullen zo spoedig mogelijk worden nedergelegd te Parijs.
 

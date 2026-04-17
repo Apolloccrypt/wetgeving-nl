@@ -1,13 +1,35 @@
 ---
 title: "Alomvattend Kernstopverdrag"
 identifier: "BWBV0004747"
-categorie: "Internationaal recht"
-publicatiedatum: 1996-09-10
-laatste_update: 1996-09-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004747"
+country: "nl"
+rank: "verdrag"
+publication_date: "1996-09-10"
+last_updated: "1996-09-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004747"
+soort: "verdrag"
+stam_id: "10004292123"
+version_id: "10004491672"
+internal_id: "C10006989201"
+label_id: "10004278944"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004747/1996-09-10/0"
+intitule_bron: "Trb.1997-62"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-03-23"
+intitule_published: "1997-03-05"
+intitule_status: "nogniet"
+original_publication: "Trb.1997-62"
+original_signed_date: "1999-03-23"
+original_published_date: "1997-03-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1997-62"
+jci_1_3: "jci1.3:c:BWBV0004747&z=1996-09-10&g=1996-09-10"
+jci_1_0: "1.0:c:BWBV0004747&g=1996-09-10"
+citeertitel_status: "officieel"
+signed_date: "1999-03-23"
+entry_into_force: "1997-03-05"
 ---
-
 # Alomvattend Kernstopverdrag
 
 Preambule
@@ -36,13 +58,13 @@ Bevestigend het oogmerk alle Staten op te roepen toe te treden tot dit Verdrag e
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I. Basisverplichtingen
+##### Artikel I. Basisverplichtingen
 
 1. Elke Staat die Partij is neemt de verplichting op zich, geen enkele proefexplosie van een kernwapen of enige andere kernexplosie uit te voeren, en dergelijke kernexplosies te verbieden en te voorkomen op iedere plaats die onder zijn rechtsmacht valt of waarover hij feitelijk gezag uitoefent.
 
 2. Elke Staat die Partij is neemt bovendien de verplichting op zich, af te zien van het veroorzaken of bevorderen van, of het op enigerlei wijze deelnemen aan, het uitvoeren van proefexplosies van kernwapens of iedere andere kernexplosie.
 
-#### Artikel II. De Organisatie
+##### Artikel II. De Organisatie
 
 1. De Staten die Partij zijn richten hierbij op de Verdragsorganisatie voor een alomvattend verbod op kernproeven (hierna te noemen: „de Organisatie”), die tot taak heeft voorwerp en doel van dit Verdrag te verwezenlijken, de toepassing van de hierin vervatte bepalingen te garanderen, met inbegrip van die welke betrekking hebben op de internationale verificatie op de naleving ervan, en een forum te bieden voor overleg en samenwerking tussen de Staten die Partij zijn.
 
@@ -274,7 +296,7 @@ Alleen onderdanen van Staten die Partij zijn kunnen een functie bekleden als Dir
 
 57. Onverminderd het bepaalde in het vierenvijftigste en vijfenvijftigste lid, genieten de Directeur-Generaal, de inspecteurs, de inspectie-assistenten en de personeelsleden van het Technisch Secretariaat bij het verrichten van verificatie-activiteiten de voorrechten en immuniteiten die zijn vervat in het Protocol.
 
-#### Artikel III. Nationale uitvoeringsmaatregelen
+##### Artikel III. Nationale uitvoeringsmaatregelen
 
 1. Elke Staat die Partij is neemt, overeenkomstig zijn constitutionele procedures, de nodige maatregelen ter nakoming van de ingevolge dit Verdrag door hem aangegane verplichtingen. In het bijzonder neemt elke Staat de nodige maatregelen teneinde:
 
@@ -290,7 +312,7 @@ Alleen onderdanen van Staten die Partij zijn kunnen een functie bekleden als Dir
 
 4. Teneinde zijn verplichtingen uit hoofde van dit Verdrag na te komen, wijst elke Staat die Partij is een Nationale Autoriteit aan, of stelt deze in, en doet hiervan bij de inwerkingtreding van het Verdrag voor hem, mededeling aan de Organisatie. De Nationale Autoriteit fungeert als het nationale centrum voor het contact met de Organisatie en met de andere Staten die Partij zijn.
 
-#### Artikel IV. Verificatie
+##### Artikel IV. Verificatie
 
 1. Teneinde de naleving van dit Verdrag te controleren, wordt een verificatiestelsel in het leven geroepen, dat is opgebouwd uit de volgende elementen:
 
@@ -570,7 +592,7 @@ Toegang, in de context van een inspectie ter plaatse, houdt in zowel fysieke toe
 
 - b. een bijdrage te leveren aan de ijking van de stations die deel uitmaken van de netwerken waaruit het Internationaal Toezichtsysteem is opgebouwd, verbindt elke Staat die Partij is zich ertoe samen te werken met de Organisatie en met andere Staten die Partij zijn bij de uitvoering van de maatregelen bedoeld in Deel III van het Protocol.
 
-#### Artikel V. Maatregelen tot rechtzetting van een situatie en ter waarborging van de naleving van dit verdrag, met inbegrip van sancties
+##### Artikel V. Maatregelen tot rechtzetting van een situatie en ter waarborging van de naleving van dit verdrag, met inbegrip van sancties
 
 1. De Conferentie, onder meer rekening houdend met de aanbevelingen van de Uitvoerende Raad, treft de nodige maatregelen, zoals wordt uiteengezet in het tweede en derde lid, om de naleving van dit Verdrag te waarborgen en situaties die strijdig zijn met de bepalingen van dit Verdrag te herstellen en te corrigeren.
 
@@ -580,7 +602,7 @@ Toegang, in de context van een inspectie ter plaatse, houdt in zowel fysieke toe
 
 4. De Conferentie of, indien de zaak spoedeisend is, de Uitvoerende Raad kan de kwestie, alsmede de relevante informatie en conclusies, onder de aandacht van de Verenigde Naties brengen.
 
-#### Artikel VI. Beslechting van geschillen
+##### Artikel VI. Beslechting van geschillen
 
 1. Geschillen die ontstaan ten aanzien van de toepassing of de uitlegging van dit Verdrag worden beslecht overeenkomstig de desbetreffende bepalingen van dit Verdrag en in overeenstemming met de bepalingen van het Handvest van de Verenigde Naties.
 
@@ -594,7 +616,7 @@ Toegang, in de context van een inspectie ter plaatse, houdt in zowel fysieke toe
 
 6. Dit artikel laat de artikelen IV en V onverlet.
 
-#### Artikel VII. Wijzigingen
+##### Artikel VII. Wijzigingen
 
 1. Op elk tijdstip na de inwerkingtreding van dit Verdrag, kan elke Staat die Partij is voorstellen doen tot wijziging van dit Verdrag, het Protocol of de Bijlagen bij het Protocol. Iedere Staat die Partij is kan eveneens, overeenkomstig het zevende lid, voorstellen doen tot veranderingen van het Protocol of de Bijlagen daarvan. Voorstellen tot wijziging zijn onderworpen aan de procedures bedoeld in het tweede tot en met het zesde lid. Voorstellen voor veranderingen overeenkomstig het zevende lid, zijn onderworpen aan de procedures genoemd in het achtste lid.
 
@@ -626,7 +648,7 @@ Toegang, in de context van een inspectie ter plaatse, houdt in zowel fysieke toe
 
 - g. Ingevolge deze procedure goedgekeurde veranderingen worden voor alle Staten die Partij zijn van kracht 180 dagen na de datum van kennisgeving door de Directeur-Generaal dat zij zijn goedgekeurd tenzij een andere termijn wordt aanbevolen door de Uitvoerende Raad of bepaald door de Conferentie.
 
-#### Artikel VIII. Toetsing van het Verdrag
+##### Artikel VIII. Toetsing van het Verdrag
 
 1. Tenzij een meerderheid van de Staten die Partij zijn anders besluiten, vindt tien jaar na inwerkingtreding van dit Verdrag een Conferentie van Staten die Partij zijn plaats ter toetsing van de werking en doeltreffendheid van het Verdrag, teneinde zich ervan te verzekeren dat de in de Preambule en de bepalingen van het Verdrag genoemde voorwerpen en doelstellingen worden verwezenlijkt. Bij dergelijke toetsingen wordt rekening gehouden met voor dit Verdrag relevante nieuwe wetenschappelijke en technologische ontwikkelingen. Op basis van een verzoek daartoe door een Staat die Partij is, overweegt de Toetsingsconferentie de mogelijkheid om ondergrondse kernexplosies voor vreedzame doeleinden toe te staan. Indien de Toetsingsconferentie bij consensus besluit dat dergelijke explosies kunnen worden toegestaan, vangt zij onverwijld met de werkzaamheden aan teneinde de Staten die Partij zijn voor te stellen het Verdrag zodanig te wijzigen dat militair voordeel uit deze kernexplosies wordt uitgesloten. Elk voorstel tot wijziging wordt door elke Staat die Partij is medegedeeld aan de Directeur-Generaal en wordt behandeld overeenkomstig het in artikel VII bepaalde.
 
@@ -634,7 +656,7 @@ Toegang, in de context van een inspectie ter plaatse, houdt in zowel fysieke toe
 
 3. Normaliter worden Toetsingsconferenties gehouden onmiddellijk na de in artikel II bedoelde gewone jaarlijkse vergadering van de Conferentie.
 
-#### Artikel IX. Duur en opzegging
+##### Artikel IX. Duur en opzegging
 
 1. Dit Verdrag geldt voor onbeperkte duur.
 
@@ -642,23 +664,23 @@ Toegang, in de context van een inspectie ter plaatse, houdt in zowel fysieke toe
 
 3. De opzegging geschiedt met inachtneming van een termijn van zes maanden door middel van een kennisgeving aan alle andere Staten die Partij zijn, de Uitvoerende Raad, de Depositaris en aan de Veiligheidsraad van de Verenigde Naties. Deze kennisgeving dient een uiteenzetting te omvatten van de uitzonderlijke gebeurtenis of gebeurtenissen die naar de mening van de Staat die Partij is zijn hoogste belangen in gevaar hebben gebracht.
 
-#### Artikel X. Status van het Protocol en de Bijlagen
+##### Artikel X. Status van het Protocol en de Bijlagen
 
 De Bijlagen bij dit Verdrag, het Protocol en de Bijlagen bij het Protocol vormen een integrerend deel van het Verdrag. Verwijzingen naar dit Verdrag hebben tevens betrekking op de Bijlagen bij dit Verdrag, het Protocol en de Bijlagen bij het Protocol.
 
-#### Artikel XI. Ondertekening
+##### Artikel XI. Ondertekening
 
 Dit Verdrag staat vóór de inwerkingtreding open voor ondertekening voor alle Staten.
 
-#### Artikel XII. Bekrachtiging
+##### Artikel XII. Bekrachtiging
 
 Dit Verdrag dient door de ondertekenende Staten te worden bekrachtigd overeenkomstig hun respectieve constitutionele procedures.
 
-#### Artikel XIII. Toetreding
+##### Artikel XIII. Toetreding
 
 Iedere Staat die dit Verdrag vóór de inwerkingtreding niet ondertekent, kan op elk tijdstip daarna ertoe toetreden.
 
-#### Artikel XIV. Inwerkingtreding
+##### Artikel XIV. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking 180 dagen na de datum van nederlegging van de akten van bekrachtiging door alle Staten genoemd in Bijlage 2 bij dit Verdrag, doch in geen geval eerder dan twee jaar nadat het is opengesteld voor ondertekening.
 
@@ -670,11 +692,11 @@ Iedere Staat die dit Verdrag vóór de inwerkingtreding niet ondertekent, kan op
 
 5. Ten aanzien van Staten waarvan de akten van bekrachtiging of toetreding zijn nedergelegd na de inwerkingtreding van dit Verdrag, treedt dit Verdrag in werking op de dertigste dag na de datum van nederlegging van hun akte van bekrachtiging of toetreding.
 
-#### Artikel XV. Voorbehouden
+##### Artikel XV. Voorbehouden
 
 Er kunnen ten aanzien van de artikelen van alsmede de Bijlagen bij dit Verdrag geen voorbehouden worden gemaakt. Ten aanzien van de bepalingen van het Protocol bij dit Verdrag en van de Bijlagen bij het Protocol kunnen geen voorbehouden worden gemaakt die strijdig zijn met het voorwerp en doel van dit Verdrag.
 
-#### Artikel XVI. Depositaris
+##### Artikel XVI. Depositaris
 
 1. De Secretaris-Generaal van de Verenigde Naties is de Depositaris van dit Verdrag; hij doet de ondertekeningen registreren en neemt de akten van bekrachtiging en toetreding in ontvangst.
 
@@ -684,7 +706,7 @@ Er kunnen ten aanzien van de artikelen van alsmede de Bijlagen bij dit Verdrag g
 
 4. Dit Verdrag wordt overeenkomstig artikel 102 van het Handvest van de Verenigde Naties geregistreerd door de Depositaris.
 
-#### Artikel XVII. Authentieke teksten
+##### Artikel XVII. Authentieke teksten
 
 Dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
@@ -692,87 +714,87 @@ Dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russisc
 
 ### A. ALGEMENE BEPALINGEN
 
-#### 1
+##### 1
 
 Het Internationaal Toezichtsysteem omvat controleinrichtingen als bedoeld in artikel IV, zestiende lid, alsmede de dienovereenkomstige communicatiemiddelen.
 
-#### 2
+##### 2
 
 De in het Internationaal Toezichtsysteem opgenomen controleinrichtingen zijn die welke zijn opgenomen in Bijlage 1 bij dit Protocol. Het Internationaal Toezichtsysteem voldoet aan de technische en operationele vereisten vermeld in de desbetreffende handleidingen.
 
-#### 3
+##### 3
 
 Overeenkomstig artikel II richt de Organisatie, in samenwerking en overleg met de Staten die Partij zijn, met andere Staten en waar nodig met andere internationale organisaties, het Internationaal Toezichtsysteem op en coördineert zij de werking en de instandhouding van dit systeem, en draagt zij zorg voor alle toekomstige veranderingen en aanpassingen hiervan.
 
-#### 4
+##### 4
 
 In overeenstemming met de desbetreffende overeenkomsten of regelingen en procedures, komt een Staat die Partij is of een andere Staat die gastheer is of anderszins verantwoordelijk is voor inrichtingen van het Internationaal Toezichtsysteem met het Technisch Secretariaat tot overeenstemming en samenwerking bij het creëren, exploiteren, verbeteren, financieren en onderhouden van de controle-inrichtingen, van de desbetreffende goedgekeurde laboratoria en de overeenkomstige communicatiemiddelen binnen gebieden die onder zijn rechtsmacht of toezicht vallen of elders, overeenkomstig het internationale recht. Deze samenwerking geschiedt in overeenstemming met de veiligheids- en waarmerkingsvereisten en met de technische specificaties in de desbetreffende handleidingen. Een dergelijke Staat geeft het Technisch Secretariaat het recht van toegang tot een controleinrichting ter controle van de uitrusting en de communicatieverbindingen, en stemt ermee in de nodige aanpassingen aan de uitrusting en de procedures voor de werkzaamheden aan te brengen teneinde aan de overeengekomen vereisten te voldoen. Het Technisch Secretariaat levert dergelijke Staten de juiste technische bijstand die de Uitvoerende Raad nodig acht voor het goede functioneren van de inrichting als onderdeel van het Internationaal Toezichtsysteem.
 
-#### 5
+##### 5
 
 De modaliteiten voor een dergelijke samenwerking tussen de Organisatie en de Staten die Partij zijn of Staten die gastheer zijn of anderszins verantwoordelijk zijn voor de inrichtingen van het Internationaal Toezichtsysteem, worden vastgelegd in per geval te bepalen overeenkomsten of regelingen.
 
 ### B. SEISMOLOGISCHE METINGEN
 
-#### 6
+##### 6
 
 Elke Staat die Partij is verplicht zich ertoe samen te werken bij de internationale uitwisseling van gegevens om te helpen bij de verificatie van de naleving van dit Verdrag. Deze samenwerking behelst ondermeer de oprichting en exploitatie van een mondiaal netwerk van primaire en aanvullende seismologische meetstations. Deze stations leveren gegevens aan het Internationaal Datacentrum, overeenkomstig de overeengekomen procedure.
 
-#### 7
+##### 7
 
 Het netwerk van primaire stations is opgebouwd uit de 50 stations genoemd in Tabel 1A van Bijlage 1 bij dit Protocol. Deze stations voldoen aan de technische en operationele eisen vermeld in de handleiding voor seismologische metingen en de internationale uitwisseling van seismologische gegevens. Ononderbroken worden gegevens van de primaire stations online, rechtstreeks of via een nationaal datacentrum, verzonden naar het Internationaal Datacentrum.
 
-#### 8
+##### 8
 
 Ter aanvulling van het hoofdnetwerk, levert een aanvullend netwerk van 120 stations, rechtstreeks of via een nationaal datacentrum, op verzoek gegevens aan het Internationaal Datacentrum. De te gebruiken aanvullende meetstations zijn opgenomen in Tabel 1B van Bijlage 1 bij dit Protocol. De aanvullende stations voldoen aan de technische en operationele eisen vermeld in de handleiding voor seismologische metingen en de internationale uitwisseling van seismologische gegevens. De gegevens van de aanvullende stations kunnen te allen tijde worden opgevraagd door het Internationaal Datacentrum en zijn onmiddellijk beschikbaar via on line computerverbindingen.
 
 ### C. METING VAN RADIONUCLIDEN
 
-#### 9
+##### 9
 
 Elke Staat die Partij is verbindt zich ertoe samen te werken bij de internationale uitwisseling van gegevens betreffende radionucliden in de atmosfeer om te helpen bij de verificatie van de naleving van dit Verdrag. Deze samenwerking omvat de oprichting en exploitatie van een mondiaal netwerk van stations voor de meting van radionucliden en goedgekeurde laboratoria. Het netwerk levert gegevens aan het Internationaal Datacentrum overeenkomstig de overeengekomen procedures.
 
-#### 10
+##### 10
 
 Het netwerk van stations voor de meting van radionucliden in de atmosfeer behelst een globaal netwerk van 80 stations, zoals weergegeven in Tabel 2A van Bijlage 1 bij dit Protocol. Alle stations zijn in staat de aanwezigheid van de desbetreffende deeltjes in de atmosfeer te meten. Veertig van deze stations zijn bij de inwerkingtreding van dit Verdrag tevens in staat de aanwezigheid van de desbetreffende edelgassen te meten. Hiertoe keurt de Conferentie tijdens haar Eerste Vergadering een aanbeveling van de Voorbereidende Commissie goed ten aanzien van de vraag welke 40 stations van de in Tabel 2A van Bijlage 1 bij dit Protocol genoemde stations in staat zullen zijn edelgassen te meten. Tijdens de eerste gewone jaarlijkse vergadering bestudeert de Conferentie een plan voor de implementatie van edelgasmeting in het gehele netwerk en neemt zij hierover een besluit. De Directeur-Generaal bereidt ten behoeve van de Conferentie een verslag voor inzake de wijze van dergelijke implementatie. Alle meetstations voldoen aan de technische en operationele vereisten zoals vermeld in de handleiding voor seismologische metingen en de internationale uitwisseling van gegevens over radionucliden.
 
-#### 11
+##### 11
 
 Het netwerk van stations voor de meting van radionucliden wordt ondersteund door laboratoria, die worden goedgekeurd door het Technisch Secretariaat in overeenstemming met de desbetreffende handleiding voor de uitvoering, op basis van een contract met de Organisatie en tegen betaling, van analyses van monsters afkomstig van stations voor de meting van radionucliden. De, naar behoren uitgeruste, laboratoria opgenomen in Tabel 2B van Bijlage 1 bij dit Protocol wordt eveneens, indien nodig, door het Technisch Secretariaat opgedragen aanvullende analyses uit te voeren van monsters afkomstig van stations voor de meting van radionucliden. Met de instemming van de Uitvoerende Raad kunnen andere laboratoria door het Technisch Secretariaat, indien nodig, worden goedgekeurd voor de uitvoering van routine-analyses van monsters afkomstig van handmatig bediende meetstations. Alle goedgekeurde laboratoria leveren de resultaten van genoemde analyses aan het Internationaal Datacentrum, waarbij zij voldoen aan de technische en operationele eisen vermeld in de handleiding voor seismologische metingen en de internationale uitwisseling van gegevens over radionucliden.
 
 ### D. HYDRO-AKOESTISCHE METINGEN
 
-#### 12
+##### 12
 
 Elke Staat die Partij is verbindt zich ertoe samen te werken bij de uitwisseling van hydro-akoestische gegevens om te helpen bij de verificatie van de naleving van dit Verdrag. Deze samenwerking omvat de oprichting en exploitatie van een mondiaal netwerk van stations voor hydro-akoestische metingen. Deze stations leveren gegevens aan het Internationaal Datacentrum overeenkomstig de overeengekomen procedures.
 
-#### 13
+##### 13
 
 Het netwerk van stations voor hydro-akoestische metingen bestaat uit de stations opgenomen in Tabel 3 van Bijlage 1 bij dit Protocol en omvat een globaal netwerk van zes hydrofonische en vijf T-fasestations. Deze stations voldoen aan de technische en operationele eisen vermeld in de handleiding voor hydro-akoestische metingen en de internationale uitwisseling van hydro-akoestische gegevens.
 
 ### E. INFRAGELUIDMETINGEN
 
-#### 14
+##### 14
 
 Elke Staat die Partij is verbindt zich ertoe samen te werken bij de uitwisseling van de gegevens van infrageluidmetingen om te helpen bij de verificatie van de naleving van dit Verdrag. Deze samenwerking omvat de oprichting en exploitatie van een mondiaal netwerk van stations voor infrageluidmetingen. Deze stations leveren gegevens aan het Internationaal Datacentrum overeenkomstig de overeengekomen procedures.
 
-#### 15
+##### 15
 
 Het netwerk van stations voor infrageluidmetingen bestaat uit de stations opgenomen in Tabel 4 van Bijlage 1 bij dit Protocol en omvat een globaal netwerk van zestig stations. Deze stations voldoen aan de technische en operationele eisen vermeld in de handleiding voor infrageluidmetingen en de internationale uitwisseling van gegevens van infrageluidmetingen.
 
 ### F. FUNCTIES VAN HET INTERNATIONAAL DATACENTRUM
 
-#### 16
+##### 16
 
 Het Internationaal Datacentrum ontvangt, verzamelt, verwerkt, analyseert, archiveert en rapporteert over gegevens afkomstig van de inrichtingen van het Internationaal Toezichtsysteem, met inbegrip van de resultaten van de in de goedgekeurde laboratoria verrichte analyses.
 
-#### 17
+##### 17
 
 De procedures en criteria voor de standaard filtering van gebeurtenissen die door het Internationaal Datacentrum moeten worden aangehouden bij de uitvoering van de overeengekomen taken, met name voor de levering van standaardverslagen en voor het leveren van een standaard dienstenpakket aan de Staten die Partij zijn, worden uitgewerkt in de handleiding voor het Internationaal Datacentrum en progressief ontwikkeld. De procedures en criteria die initieel door de Voorbereidende Commissie zijn ontwikkeld, worden door de Conferentie goedgekeurd tijdens haar Eerste Vergadering.
 
 #### Standaardproducten van het Internationaal Datacentrum
 
-#### 18
+##### 18
 
 Het Internationaal Datacentrum past routinematig automatische verwerkingsmethoden en interactieve menselijke analyses toe op de onverwerkte gegevens afkomstig van het Internationaal Toezichtsysteem teneinde standaardproducten van het Internationaal Datacentrum te produceren en te archiveren ten behoeve van alle Staten die Partij zijn. Deze producten worden kosteloos verstrekt aan de Staten die Partij zijn en doen geen afbreuk aan de uiteindelijke beoordelingen ten aanzien van de aard van de gebeurtenis, die de verantwoordelijkheid blijven van de Staten die Partij zijn, en omvatten onder andere:
 
@@ -784,13 +806,13 @@ Het Internationaal Datacentrum past routinematig automatische verwerkingsmethode
 
 - d. Uittreksels of subonderdelen van de standaard producten van het Internationaal Datacentrum genoemd in de letters a t/m c, overeenkomstig het verzoek daartoe van een Staat die Partij is.
 
-#### 19
+##### 19
 
 Het Internationaal Datacentrum verricht, op verzoek van de Organisatie of van een Staat die Partij is, zonder dat daaraan kosten zijn verbonden voor de Staten die Partij zijn, speciale studies om een grondige technische analyse door experts van de gegevens afkomstig van het Internationaal Toezichtsysteem beschikbaar te stellen om de geschatte waarden voor de standaard parameters voor signalen en gebeurtenissen te verbeteren.
 
 #### Diensten van het Internationaal Datacentrum aan Staten die Partij zijn
 
-#### 20
+##### 20
 
 Het Internationaal Datacentrum verleent de Staten die Partij zijn op voet van gelijkheid en tijdig, vrije en gemakkelijke toegang tot alle gegevens, verwerkt of onverwerkt, afkomstig van het Internationaal Toezichtsysteem, alle producten van het Internationaal Datacentrum en alle andere gegevens van het Internationaal Toezichtsysteem in het archief van het Internationaal Datacentrum, of via het Internationaal Datacentrum van de inrichtingen van het Internationaal Toezichtsysteem. Ter vergemakkelijking van de toegang en de verstrekking van de gegevens worden onder andere de volgende diensten geboden:
 
@@ -804,13 +826,13 @@ De diensten van het Internationaal Datacentrum genoemd in de letters a en b word
 
 #### Nationale filtering van gebeurtenissen
 
-#### 21
+##### 21
 
 Op verzoek daartoe van een Staat die Partij is, past het Internationaal Datacentrum op al zijn standaardproducten, regelmatig en automatisch, de door die Staat die Partij is opgestelde nationale criteria toe die gelden voor de filtering van gebeurtenissen, en doet de resultaten van deze analyse toekomen aan die Staat die Partij is. Deze dienst wordt aan de verzoekende Staat die Partij is kosteloos verleend. Het resultaat van dergelijke procedures voor de nationale filtering van gebeurtenissen wordt beschouwd als een product van de verzoekende Staat die Partij is.
 
 #### Technische bijstand
 
-#### 22
+##### 22
 
 Het Internationaal Datacentrum verleent, waar nodig, technische bijstand aan individuele Staten die Partij zijn:
 
@@ -820,7 +842,7 @@ Het Internationaal Datacentrum verleent, waar nodig, technische bijstand aan ind
 
 - c. Door Staten die Partij zijn te helpen bij de ontwikkeling, in een nationaal datacentrum, van de capaciteit om gegevens van het Internationaal Toezichtsysteem te ontvangen, verwerken en analyseren.
 
-#### 23
+##### 23
 
 Het Internationaal Datacentrum houdt voortdurend toezicht op en brengt verslagen uit over de operationele status van de inrichtingen van het Internationaal Toezichtsysteem, van communicatieverbindingen, en van zijn eigen verwerkingssystemen. Het Centrum stelt onverwijld degenen die verantwoordelijk zijn op de hoogte indien enig onderdeel niet functioneert op het overeengekomen niveau zoals vastgelegd in de desbetreffende handleiding.
 
@@ -828,55 +850,55 @@ Het Internationaal Datacentrum houdt voortdurend toezicht op en brengt verslagen
 
 ### A. ALGEMENE BEPALINGEN
 
-#### 1
+##### 1
 
 De in dit Deel genoemde procedures worden uitgevoerd overeenkomstig de bepalingen inzake inspecties ter plaatse vermeld in artikel IV.
 
-#### 2
+##### 2
 
 De inspecties ter plaatse worden uitgevoerd in het gebied waar de gebeurtenis plaatsvond die aanleiding heeft gegeven tot het verzoek tot de inspectie ter plaatse.
 
-#### 3
+##### 3
 
 Het gebied van een inspectie ter plaatse is ononderbroken en de oppervlakte ervan bedraagt niet meer dan 1000 vierkante kilometer. In geen enkele richting mag er een lineaire afstand zijn die groter is dan 50 kilometer.
 
-#### 4
+##### 4
 
 De duur van een inspectie ter plaatse is niet langer dan 60 dagen, te rekenen vanaf de datum van goedkeuring van de inspectie ter plaatse overeenkomstig artikel IV, zesenveertigste lid, maar kan voor maximaal 70 dagen worden verlengd overeenkomstig artikel IV, negenenveertigste lid.
 
-#### 5
+##### 5
 
 Indien het in het inspectiemandaat aangegeven inspectiegebied zich uitstrekt over het grondgebied of een andere plaats onder de rechtsmacht of het toezicht van meer dan één Staat die Partij is, dan zijn de bepalingen betreffende inspecties ter plaatse, dienovereenkomstig, van toepassing op alle Staten die Partij zijn waarover het inspectiegebied zich uitstrekt.
 
-#### 6
+##### 6
 
 In de gevallen waarin het inspectiegebied onder de rechtsmacht of het toezicht valt van de geïnspecteerde Staat die Partij is, maar is gelegen op het grondgebied van een andere Staat die Partij is, of de gevallen waarin voor de toegang van het punt van binnenkomst naar het inspectiegebied doorgang vereist is over het grondgebied van een andere Staat die Partij is dan de geïnspecteerde, oefent de geïnspecteerde Staat de rechten uit en komt hij de verplichtingen na die met deze inspecties samenhangen, in overeenstemming met dit Protocol. In een dergelijk geval vergemakkelijkt de Staat die Partij is op wiens grondgebied het inspectiegebied is gelegen de inspectie en zorgt voor de nodige ondersteuning teneinde het inspectieteam in staat te stellen zijn taken tijdig en doeltreffend te verrichten. Staten die Partij zijn over wier grondgebied de doorreis vereist is om het inspectiegebied te bereiken, vergemakkelijken die doorreis.
 
-#### 7
+##### 7
 
 In gevallen waarin het inspectiegebied onder de rechtsmacht of het toezicht valt van de geïnspecteerde Staat die Partij is, maar gelegen is op het grondgebied van een staat die geen Partij is bij dit Verdrag, neemt de geïnspecteerde Staat die Partij is alle nodige maatregelen om ervoor te zorgen dat de inspectie kan worden uitgevoerd in overeenstemming met dit Protocol. Een Staat die Partij is die een of meer gebieden onder zijn rechtsmacht of toezicht heeft op het grondgebied van een staat die geen Partij is bij dit Verdrag, neemt de nodige maatregelen om ervoor te zorgen dat de ten aanzien van de staat-Partij op wiens grondgebied het inspectiegebied is gelegen, aangewezen inspecteurs en inspectie-assistenten worden aanvaard door die Staat. Indien een Staat die Partij is niet in staat is de toegang te waarborgen, moet hij aantonen dat hij alle nodige maatregelen heeft genomen om de toegang te verlenen.
 
-#### 8
+##### 8
 
 In gevallen waarin het inspectiegebied is gelegen op het grondgebied van een Staat die Partij is, maar onder de rechtsmacht of het toezicht valt van een staat die geen Partij is bij dit Verdrag, treft de Staat die Partij is alle nodige maatregelen die worden verlangd van een geïnspecteerde Staat die Partij is en een Staat die Partij is op wiens grondgebied het inspectiegebied is gelegen, onverminderd de regels en gebruiken van het internationale recht, om ervoor te zorgen dat de inspectie ter plaatse kan worden uitgevoerd in overeenstemming met dit Protocol. Indien de Staat die Partij is niet in staat is de toegang tot het inspectiegebied te waarborgen, moet hij aantonen dat hij alle nodige maatregelen heeft genomen om de toegang te verlenen, onverminderd de regels en gebruiken van het internationale recht.
 
-#### 9
+##### 9
 
 De omvang van het inspectieteam wordt beperkt tot de minimumomvang die vereist is om het inspectiemandaat naar behoren uit te voeren. Het totale aantal leden van een inspectieteam dat zich op enig moment op het grondgebied van een geïnspecteerde Staat die Partij is bevindt, mag niet groter zijn dan 40, behalve bij de uitvoering van boringen. Geen enkele onderdaan van de verzoekende Staat die Partij is of van de geïnspecteerde Staat die Partij is mag lid zijn van het inspectieteam.
 
-#### 10
+##### 10
 
 De Directeur-Generaal stelt de omvang van het Inspectieteam vast en kiest uit de lijst van inspecteurs en inspectie-assistenten de samenstellende leden, rekening houdend met de omstandigheden van het desbetreffende verzoek.
 
-#### 11
+##### 11
 
 De geïnspecteerde Staat die Partij is zorgt voor of regelt de nodige voorzieningen voor het inspectieteam, zoals communicatiemiddelen, tolkdiensten, vervoer, werkruimte, onderdak, maaltijden en medische verzorging.
 
-#### 12
+##### 12
 
 De Organisatie vergoedt aan de geïnspecteerde Staat die Partij is, binnen redelijk korte termijn na de afsluiting van de inspectie, alle uitgaven, waaronder de in de elfde en negenenveertigste paragraaf genoemde, met betrekking tot het verblijf en de functionele activiteiten van het inspectieteam op het grondgebied van de geïnspecteerde Staat die Partij is.
 
-#### 13
+##### 13
 
 De procedures voor de uitvoering van de inspecties ter plaatse worden nauwkeurig omschreven in de handleiding voor inspecties ter plaatse.
 
@@ -884,61 +906,61 @@ De procedures voor de uitvoering van de inspecties ter plaatse worden nauwkeurig
 
 #### Aanwijzing van inspecteurs en inspectie-assistenten
 
-#### 14
+##### 14
 
 Een inspectieteam kan bestaan uit inspecteurs en inspectie-assistenten. Een inspectie ter plaatse wordt uitsluitend verricht door gekwalificeerde inspecteurs die speciaal voor deze taak zijn aangewezen. De inspecteurs kunnen worden bijgestaan door speciaal aangewezen inspectie-assistenten, zoals technisch en administratief personeel, piloten en bemanningsleden en tolken.
 
-#### 15
+##### 15
 
 Inspecteurs en inspectie-assistenten worden voorgedragen voor aanwijzing door de Staten die Partij zijn of, ingeval van personeel van het Technisch Secretariaat, door de Directeur-Generaal, op basis van hun expertise en ervaring ter zake van het doel en de functies van inspecties ter plaatse. De voorgedragen personen worden door de Staten die Partij zijn vooraf goedgekeurd overeenkomstig paragraaf achttien.
 
-#### 16
+##### 16
 
 Uiterlijk 30 dagen na de inwerkingtreding van dit Verdrag stelt elke Staat die Partij is de Directeur-Generaal in kennis van de naam, de geboortedatum, het geslacht, de rang, de kwalificaties en de beroepservaring van de door de Staten die Partij zijn ter benoeming als inspecteurs en inspectie-assistenten voorgedragen personen.
 
-#### 17
+##### 17
 
 Uiterlijk 60 dagen na de inwerkingtreding van dit Verdrag doet het Technisch Secretariaat aan alle Staten die Partij zijn schriftelijk een initiële lijst toekomen met de naam, de geboortedatum, het geslacht en de rang van de inspecteurs en inspectie-assistenten die voor aanwijzing zijn voorgedragen door de Directeur-Generaal en de Staat die Partij is, alsmede een beschrijving van hun kwalificaties en beroepservaring.
 
-#### 18
+##### 18
 
 Elke Staat die Partij is bevestigt onmiddellijk de ontvangst van de initiële lijst van de inspecteurs en inspectie-assistenten die voor aanwijzing zijn voorgedragen. Alle in deze lijst opgenomen inspecteurs en inspectie-assistenten worden geacht te zijn aanvaard, tenzij een Staat die Partij is, uiterlijk 30 dagen na de bevestiging van de ontvangst van de lijst, schriftelijk zijn niet-aanvaarding kenbaar maakt. De Staat die Partij is kan daarbij de redenen voor het bezwaar kenbaar maken. In geval van niet-aanvaarding mag de voorgedragen inspecteur of inspectie-assistent niet overgaan tot of deelnemen aan inspectie-activiteiten op het grondgebied of op enige andere plaats onder de rechtsmacht of het toezicht van de Staat die Partij is die zijn niet-aanvaarding kenbaar heeft gemaakt. Het Technisch Secretariaat bevestigt onmiddellijk de ontvangst van de mededeling van bezwaar.
 
-#### 19
+##### 19
 
 Telkens wanneer de Directeur-Generaal of een Staat die Partij is voorstellen doet tot aanvulling op of wijziging van de lijst van inspecteurs en inspectie-assistenten, worden vervangende inspecteurs en inspectie-assistenten aangewezen op dezelfde wijze als die welke geldt ten aanzien van de initiële lijst. Indien een door een Staat voorgedragen inspecteur of inspectie-assistent niet langer de verplichtingen van een inspecteur of inspectie-assistent kan vervullen, stelt de desbetreffende Staat die Partij is het Technisch Secretariaat hiervan onverwijld in kennis.
 
-#### 20
+##### 20
 
 Het Technisch Secretariaat houdt de lijst van inspecteurs en inspectie-assistenten aktueel en stelt alle Staten die Partij zijn in kennis van aanvullingen op of wijzigingen van deze lijst.
 
-#### 21
+##### 21
 
 Een Staat die Partij is die om een inspectie ter plaatse verzoekt, kan voorstellen dat een inspecteur van de lijst van inspecteurs en inspectie-assistenten fungeert als zijn waarnemer overeenkomstig artikel IV, eenenzestigste lid.
 
-#### 22
+##### 22
 
 Onverminderd het bepaalde in paragraaf drieëntwintig, heeft een Staat die Partij is het recht te allen tijde bezwaar te maken tegen een reeds aanvaarde inspecteur of inspectie-assistent. Deze Staat die Partij is dient het Technisch Secretariaat schriftelijk van zijn bezwaar in kennis te stellen en kan daarbij de reden voor het bezwaar vermelden. Dit bezwaar wordt 30 dagen na de ontvangst van de kennisgeving door het Technisch Secretariaat van kracht. Het Technisch Secretariaat bevestigt onmiddellijk de ontvangst van de kennisgeving van het bezwaar en stelt de bezwaar makende en benoemende Staten die Partij zijn in kennis van de datum waarop de aanwijzing van de inspecteur of de inspectie-assistent voor de desbetreffende Staat die Partij is is ingetrokken.
 
-#### 23
+##### 23
 
 Een Staat die Partij is die van een inspectie in kennis is gesteld, mag niet trachten één van de in het inspectiemandaat opgenomen inspecteurs of inspectie-assistenten uit het inspectieteam te verwijderen.
 
-#### 24
+##### 24
 
 Het aantal door een Staat die Partij is aanvaarde inspecteurs en inspectie-assistenten moet groot genoeg zijn om ervoor te zorgen dat er voldoende inspecteurs en inspectie-assistenten beschikbaar zijn. Indien, naar het oordeel van de Directeur-Generaal, de niet-aanvaarding door een Staat die Partij is van de voorgedragen inspecteurs of inspectie-assistenten een beletsel vormt voor de aanwijzing van een voldoende aantal inspecteurs en inspectie-assistenten, of anderszins de effectieve verwezenlijking van de doelen van een inspectie ter plaatse belemmert, legt de Directeur-Generaal de kwestie voor aan de Uitvoerende Raad.
 
-#### 25
+##### 25
 
 Elke in de lijst van inspecteurs en inspectie-assistenten opgenomen inspecteur volgt een adequate opleiding. Deze opleiding wordt verzorgd door het Technisch Secretariaat overeenkomstig de procedures neergelegd in de handleiding voor inspecties ter plaatse. Het Technisch Secretariaat stelt, in samenwerking met de Staten die Partij zijn, een opleidingsprogramma voor de inspecteurs vast.
 
 #### Voorrechten en immuniteiten
 
-#### 26
+##### 26
 
 Elke Staat die Partij is dient na de aanvaarding van de in paragraaf 18 bedoelde, of later in overeenstemming met paragraaf 19 gewijzigde, initiële lijst van inspecteurs en inspectie-assistenten, overeenkomstig zijn nationale procedures, op verzoek van een inspecteur of een inspectie-assistent inreis/uitreis- en/of transitvisa voor verscheidene reizen en andere relevante documenten te verstrekken teneinde elke inspecteur en inspectie-assistent in staat te stellen binnen te komen op het grondgebied van die Staat die Partij is en aldaar te verblijven uitsluitend ten behoeve van de verrichting van inspectie-activiteiten. Elke Staat die Partij is verstrekt deze visa of reisdocumenten uiterlijk 48 uur na ontvangst van een verzoek hiertoe of onmiddelijk bij de aankomst van het inspectieteam op het punt van binnenkomst op het grondgebied van de Staat die Partij is. Genoemde documenten moeten een zodanige geldigheidsduur hebben dat de inspecteur en/of de inspectie-assistent zo lang op het grondgebied van een geïnspecteerde Staat die Partij is kunnen verblijven als nodig is uitsluitend voor de verrichting van de inspectie-activiteiten.
 
-#### 27
+##### 27
 
 Om hun taken doeltreffend te kunnen uitoefenen, worden aan de leden van het inspectieteam de in de letters a tot en met i genoemde voorrechten en immuniteiten verleend. De voorrechten en immuniteiten worden aan de leden van het inspectieteam verleend met het oog op dit Verdrag en niet in het persoonlijk belang van de betrokkenen zelf. Deze voorrechten en immuniteiten worden aan hen verleend voor het gehele tijdvak tussen de aankomst op en het vertrek van het grondgebied van de geïnspecteerde Staat die Partij is, en daarna ten aanzien van handelingen die eerder zijn verricht in de uitoefening van hun officiële taken.
 
@@ -960,61 +982,61 @@ Om hun taken doeltreffend te kunnen uitoefenen, worden aan de leden van het insp
 
 - i. De leden van het inspectieteam mogen zich op het grondgebied van de geïnspecteerde Staat die Partij is niet bezighouden met enige beroepsactiviteit of commerciële activiteit in hun persoonlijk voordeel.
 
-#### 28
+##### 28
 
 Tijdens de doorreis over het grondgebied van niet-geïnspecteerde Staten die Partij zijn worden aan de leden van het inspectieteam de voorrechten en immuniteiten verleend die diplomatieke ambtenaren genieten op grond van artikel 40, eerste lid, van het Verdrag van Wenen inzake diplomatiek verkeer. De papieren en briefwisseling, met inbegrip van dossiers, en monsters en goedgekeurde uitrusting die zij bij zich hebben, genieten de in paragraaf 27, letters c en d, genoemde voorrechten en immuniteiten.
 
-#### 29
+##### 29
 
 Onverminderd hun voorrechten en immuniteiten zijn de leden van het inspectieteam verplicht de wetten en voorschriften van de geïnspecteerde Staat die Partij is te eerbiedigen en zijn zij verplicht, voor zover verenigbaar met het inspectiemandaat, zich niet te mengen in de interne aangelegenheden van die Staat. Indien de geïnspecteerde Staat die Partij is van oordeel is dat er sprake is van misbruik van de in dit Protocol genoemde voorrechten en immuniteiten, wordt overleg gevoerd tussen de Staat die Partij is en de Directeur-Generaal om vast te stellen of bedoeld misbruik heeft plaatsgevonden en, zo ja, om herhaling daarvan te voorkomen.
 
-#### 30
+##### 30
 
 Van de immuniteit van rechtsmacht van leden van het inspectieteam kan door de Directeur-Generaal afstand worden gedaan in de gevallen waarin de Directeur-Generaal van oordeel is dat de immuniteit de rechtsgang belemmert en dat hiervan afstand kan worden gedaan zonder afbreuk te doen aan de uitvoering van de bepalingen van dit Verdrag. Het afstand doen van immuniteit dient altijd uitdrukkelijk te geschieden.
 
-#### 31
+##### 31
 
 Aan waarnemers worden dezelfde voorrechten en immuniteiten verleend als de leden van het inspectieteam ingevolge deze afdeling, met uitzondering van de ingevolge paragraaf 27, letter d, verleende voorrechten en immuniteiten.
 
 #### Punten van binnenkomst
 
-#### 32
+##### 32
 
 Elke Staat die Partij is dient de punten van binnenkomst aan te wijzen en de vereiste informatie aan het Technisch Secretariaat te verstrekken uiterlijk 30 dagen nadat dit Verdrag voor die Staat in werking is getreden. Deze punten van binnenkomst dienen zodanig te zijn, dat het inspectieteam elke inspectieplaats binnen 24 uur kan bereiken vanaf ten minste één punt van binnenkomst. De ligging van de punten van binnenkomst wordt door het Technisch Secretariaat aan alle Staten die Partij zijn verstrekt. Punten van binnenkomst kunnen tevens dienen als punten van vertrek.
 
-#### 33
+##### 33
 
 Elke Staat die Partij is kan de punten van binnenkomst wijzigen door daarvan kennisgeving te doen aan het Technisch Secretariaat. Wijzigingen worden 30 dagen nadat het Technisch Secretariaat die kennisgeving heeft ontvangen van kracht, zulks om alle Staten die Partij zijn daarvan in kennis te kunnen stellen.
 
-#### 34
+##### 34
 
 Indien het Technisch Secretariaat van oordeel is dat er onvoldoende punten van binnenkomst zijn voor de tijdige verrichting van de inspecties, of dat de door een Staat die Partij is voorgestelde wijzigingen van de punten van binnenkomst de tijdige verrichting van inspecties zouden belemmeren, pleegt het overleg met de betrokken Staat die Partij is om het probleem op te lossen.
 
 #### Regelingen voor het gebruik van andere vliegtuigen dan lijntoestellen
 
-#### 35
+##### 35
 
 Wanneer het inspectieteam niet tijdig op het punt van binnenkomst kan aankomen met gebruikmaking van lijnvervoer, kan het nodig zijn dat het inspectieteam gebruik maakt van andere vliegtuigen dan lijntoestellen. Elke Staat die Partij is dient uiterlijk 30 dagen nadat dit Verdrag voor die Staat in werking is getreden het Technisch Secretariaat in kennis te stellen van het nummer van de permanente diplomatieke toestemming voor andere vliegtuigen dan lijntoestellen die een inspectieteam en voor de inspectie benodigde uitrusting vervoeren. De vliegroutes dienen langs vastgelegde internationale luchtwegen te lopen die tussen de Staat die Partij is en het Technisch Secretariaat zijn overeengekomen als grondslag voor bedoelde diplomatieke toestemming.
 
 #### Goedgekeurde inspectieuitrusting
 
-#### 36
+##### 36
 
 Tijdens de Eerste Vergadering gaat de Conferentie over tot de behandeling en goedkeuring van een lijst van goedgekeurde uitrusting, te gebruiken bij de inspecties ter plaatse. Elke Staat die Partij is kan voorstellen doen voor de opneming van uitrusting in de lijst. Bij de specificaties voor het gebruik van uitrusting, zoals uiteengezet in de handleiding voor inspecties ter plaatse, moet rekening worden gehouden met veiligheids- en vertrouwelijkheidsoverwegingen in verband met de plaatsen waar deze uitrusting mogelijk wordt gebruikt.
 
-#### 37
+##### 37
 
 De uitrusting voor gebruik bij inspecties ter plaatse bestaat uit basisuitrusting voor de in paragraaf negenenzestig genoemde inspectie-activiteiten en -technieken en aanvullende uitrusting nodig voor de effectieve en tijdige uitvoering van inspecties ter plaatse.
 
-#### 38
+##### 38
 
 Het Technisch Secretariaat zorgt ervoor dat alle soorten goedgekeurde uitrusting op het gewenste moment beschikbaar zijn. Indien een uitrusting voor een inspectie ter plaatse vereist is, geeft het Technisch Secretariaat een certificaat af waaruit blijkt dat de uitrusting is geijkt, onderhouden en beschermd. Teneinde de controle van de uitrusting door de geïnspecteerde Staat die Partij is op het punt van binnenkomst te vergemakkelijken, levert het Technisch Secretariaat documenten en worden ter waarmerking van de certificering zegels aangebracht.
 
-#### 39
+##### 39
 
 Elke permanent aangehouden uitrusting wordt beheerd door het Technisch Secretariaat. Het Technisch Secretariaat is verantwoordelijk voor het onderhoud en de ijking van deze uitrusting.
 
-#### 40
+##### 40
 
 Voor zover nodig treft het Technisch Secretariaat regelingen met de Staten die Partij zijn voor de levering van de in de lijst genoemde uitrusting. De desbetreffende Staten die Partij zijn, zijn verantwoordelijk voor het onderhoud en de ijking van genoemde uitrusting.
 
@@ -1022,7 +1044,7 @@ Voor zover nodig treft het Technisch Secretariaat regelingen met de Staten die P
 
 #### Verzoek om inspectie ter plaatse
 
-#### 41
+##### 41
 
 Overeenkomstig artikel IV, zevenendertigste lid, dient het verzoek om inspectie ter plaatse ten minste de volgende informatie te bevatten:
 
@@ -1044,7 +1066,7 @@ Overeenkomstig artikel IV, zevenendertigste lid, dient het verzoek om inspectie 
 
 #### Inspectiemandaat
 
-#### 42
+##### 42
 
 Het inspectiemandaat voor een inspectie ter plaatse bevat de volgende informatie:
 
@@ -1072,7 +1094,7 @@ Indien voor een besluit van de Uitvoerende Raad met toepassing van artikel IV, z
 
 #### Kennisgeving van een inspectie
 
-#### 43
+##### 43
 
 De ingevolge artikel IV, vijfenvijftigste lid, gedane kennisgeving bevat de volgende informatie:
 
@@ -1086,7 +1108,7 @@ De ingevolge artikel IV, vijfenvijftigste lid, gedane kennisgeving bevat de volg
 
 - e. Een lijst van uitrustingen die op verzoek van de Directeur-Generaal door de geïnspecteerde Staat die Partij is aan het inspectieteam beschikbaar wordt gesteld ten behoeve van het gebruik daarvan in het inspectiegebied.
 
-#### 44
+##### 44
 
 De geïnspecteerde Staat die Partij is bevestigt de ontvangst van de kennisgeving van de Directeur-Generaal uiterlijk 12 uur na de ontvangst van de kennisgeving.
 
@@ -1094,47 +1116,47 @@ De geïnspecteerde Staat die Partij is bevestigt de ontvangst van de kennisgevin
 
 #### Binnenkomst op het grondgebied van de geïnspecteerde Staat die Partij is, activiteiten op het punt van binnenkomst en overbrenging naar het inspectiegebied
 
-#### 45
+##### 45
 
 De geïnspecteerde Staat die Partij is die in kennis is gesteld van de aankomst van een inspectieteam dient zorg te dragen voor de onmiddellijke binnenkomst van het inspectieteam op zijn grondgebied.
 
-#### 46
+##### 46
 
 Indien voor het vervoer naar het punt van binnenkomst een ander vliegtuig dan een lijntoestel wordt gebruikt, doet het Technisch Secretariaat aan de geïnspecteerde Staat die Partij is, via de nationale autoriteit, een vluchtschema toekomen voor de vlucht van het vliegtuig tussen het laatste vliegveld vóór de binnenkomst in het luchtruim van genoemde Staat die Partij is en het punt van binnenkomst, uiterlijk zes uur voor de geplande vertrektijd vanaf dit vliegveld. Dit schema wordt geregistreerd overeenkomstig de voor burgerluchtvaartuigen geldende procedures van de Internationale Organisatie voor de burgerluchtvaart. Bij het voor opmerkingen gereserveerde gedeelte van het vluchtschema vermeldt het Technisch Secretariaat het nummer van de permanente diplomatieke toestemming en de desbetreffende aantekening waarmee het toestel als een inspectievliegtuig wordt aangeduid. Indien er een militair toestel wordt gebruikt, verzoekt het Technisch Secretariaat de geïnspecteerde Staat die Partij is vooraf om toestemming om zijn luchtruim binnen te komen.
 
-#### 47
+##### 47
 
 Ten minste drie uur vóór het geplande vertrek van het inspectieteam van het laatste vliegveld vóór de binnenkomst in het luchtruim van de geïnspecteerde Staat die Partij is, dient de geïnspecteerde Staat die Partij is ervoor te zorgen dat het overeenkomstig paragraaf 46 ingediende vluchtschema wordt goedgekeurd, opdat het inspectieteam op de verwachte aankomsttijd op het punt van binnenkomst kan aankomen.
 
-#### 48
+##### 48
 
 Indien nodig stellen de leider van het inspectieteam en de vertegenwoordiger van de geïnspecteerde Staat die Partij is een basis vast en een vluchtschema van het punt van binnenkomst naar de basis, en, indien nodig, naar het inspectiegebied.
 
-#### 49
+##### 49
 
 De geïnspecteerde Staat die Partij is dient parkeergelegenheid te bieden en zorg te dragen voor beveiliging, onderhoud en brandstof voor zover benodigd door het Technisch Secretariaat voor het vliegtuig van het inspectieteam op het punt van binnenkomst, en, indien nodig, op de basis en in het inspectiegebied. Bedoeld vliegtuig is geen landingsrechten, vertrekbelasting en soortgelijke heffingen verschuldigd. Deze paragraaf is eveneens van toepassing op vliegtuigen die worden gebruikt voor het overvliegen bij inspecties ter plaatse.
 
-#### 50
+##### 50
 
 Behoudens het bepaalde in paragraaf 51 legt de geïnspecteerde Staat die Partij is het inspectieteam geen beperkingen op met betrekking tot het meebrengen op het grondgebied van die Staat die Partij is van goedgekeurde uitrusting die in overeenstemming is met het inspectiemandaat, of met betrekking tot het gebruik daarvan in overeenstemming met de bepalingen van het Verdrag en dit Protocol.
 
-#### 51
+##### 51
 
 De geïnspecteerde Staat die Partij is heeft het recht, zonder afbreuk te doen aan de in paragraaf 54 genoemde tijdsbestekken, in aanwezigheid van leden van het inspectieteam op het punt van binnenkomst, te verifiëren of de uitrusting is goedgekeurd en gecertificeerd overeenkomstig het bepaalde in paragraaf 38. De geïnspecteerde Staat die Partij is kan uitrusting die niet in overeenstemming is met het inspectiemandaat of uitrusting die niet overeenkomstig het in paragraaf 38 bepaalde is goedgekeurd en gecertificeerd, weren.
 
-#### 52
+##### 52
 
 Direct bij aankomst op het punt van binnenkomst en zonder afbreuk te doen aan de in paragraaf 54 genoemde tijdsbestekken, toont de leider van het inspectieteam de vertegenwoordiger van de geïnspecteerde Staat die Partij is het inspectiemandaat en een door het inspectieteam opgesteld initieel inspectieplan waarin de door het team te verrichten activiteiten zijn vermeld. Het inspectieteam wordt door vertegenwoordigers van de geïnspecteerde Staat die Partij is gebrieft met behulp van kaarten en andere documentatie, indien van toepassing. Bij de briefing wordt melding gemaakt van de relevante natuurlijke kenmerken van het terrein, veiligheids- en vertrouwelijkheidskwesties alsmede logistieke regelingen voor de inspectie. De geïnspecteerde Staat die Partij is kan binnen het inspectiegebied plaatsen aanduiden die, in haar ogen, geen verband houden met het doel van de inspectie.
 
-#### 53
+##### 53
 
 Na de briefing vóór inspectie wijzigt het inspectieteam indien nodig het initiële inspectieplan, met inachtneming van de opmerkingen van de geïnspecteerde Staat die Partij is. Het gewijzigde inspectieplan wordt aan de vertegenwoordiger van de geïnspecteerde Staat die Partij is ter beschikking gesteld.
 
-#### 54
+##### 54
 
 De geïnspecteerde Staat die Partij is stelt al het mogelijke in het werk om hulp te verlenen en zorg te dragen voor veilig vervoer van het inspectieteam, de in paragrafen 50 en 51 vermelde goedgekeurde uitrusting en de bagage van het punt van binnenkomst naar het inspectiegebied uiterlijk 36 uur na de aankomst op het punt van binnenkomst, tenzij een ander tijdschema is overeengekomen binnen het in paragraaf 57 genoemde tijdsbestek.
 
-#### 55
+##### 55
 
 Teneinde te bevestigen dat het gebied waarnaar het inspectieteam is vervoerd overeenkomt met het in het inspectiemandaat aangegeven gebied, heeft het inspectieteam het recht goedgekeurde plaatsbepalingsapparatuur te gebruiken. De geïnspecteerde Staat die Partij is helpt het inspectieteam bij deze taak.
 
@@ -1142,23 +1164,23 @@ Teneinde te bevestigen dat het gebied waarnaar het inspectieteam is vervoerd ove
 
 #### Algemene regels
 
-#### 56
+##### 56
 
 Het inspectieteam dient zijn taken te vervullen in overeenstemming met de bepalingen van het Verdrag en dit Protocol.
 
-#### 57
+##### 57
 
 Het inspectieteam vangt de inspectie-activiteiten in het inspectiegebied zo spoedig mogelijk aan, doch in elk geval uiterlijk 72 uur na de aankomst op het punt van binnenkomst.
 
-#### 58
+##### 58
 
 De activiteiten van het inspectieteam dienen zodanig te worden georganiseerd, dat zorg wordt gedragen voor de tijdige en doeltreffende verrichting van zijn taken, het minst mogelijke ongemak voor de geïnspecteerde Staat die Partij is en de minst mogelijke hinder voor het geïnspecteerde gebied.
 
-#### 59
+##### 59
 
 Indien de geïnspecteerde Staat die Partij is overeenkomstig paragraaf 43, letter e of gedurende de inspectie wordt verzocht uitrusting ter beschikking te stellen voor gebruik door het inspectieteam in het inspectiegebied, dient de geïnspecteerde Staat die Partij is voor zover mogelijk aan dit verzoek gehoor te geven.
 
-#### 60
+##### 60
 
 Gedurende de inspectie ter plaatse heeft het inspectieteam onder andere:
 
@@ -1178,7 +1200,7 @@ Gedurende de inspectie ter plaatse heeft het inspectieteam onder andere:
 
 - h. De verplichting de vertrouwelijkheids-, de veiligheids- en de gezondheidsbepalingen van de geïnspecteerde Staat die Partij is na te leven.
 
-#### 61
+##### 61
 
 Gedurende de inspectie ter plaatse heeft de geïnspecteerde Staat die Partij is, onder andere:
 
@@ -1198,39 +1220,39 @@ Gedurende de inspectie ter plaatse heeft de geïnspecteerde Staat die Partij is,
 
 #### Verbindingen
 
-#### 62
+##### 62
 
 De leden van het inspectieteam hebben het recht zich gedurende de gehele verblijfsperiode met elkaar en met het Technisch Secretariaat in verbinding te stellen. Hiertoe kunnen zij gebruik maken van hun eigen, naar behoren goedgekeurde en gecertificeerde uitrusting met instemming van de geïnspecteerde Staat die Partij is, voor zover de geïnspecteerde Staat die Partij is hun geen toegang geeft tot andere telecommunicatiemiddelen.
 
 #### Waarnemer
 
-#### 63
+##### 63
 
 Overeenkomstig artikel IV, eenenzestigste lid, stelt de verzoekende Staat die Partij is zich in verbinding met het Technisch Secretariaat ter coördinatie van de aankomst van de waarnemer op hetzelfde punt van binnenkomst of op de basis waar het inspectieteam binnenkomt binnen een redelijke termijn in verhouding tot de aankomst van het inspectieteam.
 
-#### 64
+##### 64
 
 De waarnemer heeft het recht gedurende de gehele inspectie in verbinding te staan met de ambassade van de verzoekende Staat die Partij is die is gevestigd op het grondgebied van de geïnspecteerde Staat die Partij is of, wanneer er geen ambassade is, met de verzoekende Staat die Partij is zelf.
 
-#### 65
+##### 65
 
 De waarnemer heeft het recht in het inspectiegebied te arriveren en toegang te krijgen tot en binnen het inspectiegebied zoals door de geïnspecteerde Staat die Partij is wordt toegestaan.
 
-#### 66
+##### 66
 
 De waarnemer heeft het recht aanbevelingen te doen aan het inspectieteam gedurende de gehele inspectie.
 
-#### 67
+##### 67
 
 Gedurende de gehele inspectie houdt het inspectieteam de waarnemer op de hoogte van het verloop van de inspectie en van de bevindingen.
 
-#### 68
+##### 68
 
 Gedurende de gehele inspectie voorziet de geïnspecteerde Staat die Partij is in de voor de waarnemer nodige voorzieningen of treft hiervoor regelingen, die vergelijkbaar zijn met die welke het inspectieteam geniet, zoals omschreven in paragraaf 11. Alle kosten verband houdende met het verblijf van de waarnemer op het grondgebied van de geïnspecteerde Staat die Partij is worden gedragen door de verzoekende Staat die Partij is.
 
 #### Inspectie-activiteiten en -technieken
 
-#### 69
+##### 69
 
 In overeenstemming met de bepalingen betreffende de gecontroleerde toegang mogen bij het verzamelen, behandelen en analyseren van monsters en bij het overvliegen de volgende inspectie-activiteiten worden verricht en technieken worden gebruikt:
 
@@ -1250,45 +1272,45 @@ In overeenstemming met de bepalingen betreffende de gecontroleerde toegang mogen
 
 - h. Boringen ter verkrijging van radioactieve monsters.
 
-#### 70
+##### 70
 
 Tot 25 dagen na de goedkeuring van de inspectie ter plaatse heeft het inspectieteam, overeenkomstig het bepaalde in artikel IV, zesenveertigste lid, het recht alle in paragraaf 69 a tot en met e genoemde activiteiten te verrichten en technieken toe te passen. Na de goedkeuring van de voortzetting van de inspectie overeenkomstig artikel IV, zevenenveertigste lid, heeft het inspectieteam het recht alle in paragraaf 69 a tot en met e genoemde activiteiten te verrichten en technieken toe te passen. Het inspectieteam mag alleen overgaan tot het verrichten van boringen na de goedkeuring van de Uitvoerende Raad, overeenkomstig artikel IV, achtenveertigste lid. Indien het inspectieteam om een verlenging van de inspectietermijn verzoekt overeenkomstig artikel IV, negenenveertigste lid, moet het team daarbij aangeven welke van de in paragraaf 69 genoemde activiteiten en technieken moeten worden verricht c.q. toegepast om hem in staat te stellen zijn mandaat te vervullen.
 
 #### Uitvoering van vluchten boven het inspectiegebied
 
-#### 71
+##### 71
 
 Het inspectieteam heeft het recht gedurende de inspectie ter plaatse een vlucht uit te voeren boven het inspectiegebied teneinde zich in het algemeen te oriënteren in het inspectiegebied, de inspectiegebieden op de grond nauwer te begrenzen en preciezer te lokaliseren en het verzamelen van feitelijk bewijsmateriaal te vergemakkelijken, met gebruikmaking van de in paragraaf 79 genoemde uitrusting.
 
-#### 72
+##### 72
 
 De vluchten boven het inspectiegebied worden uitgevoerd zodra dit praktisch mogelijk is. De totale duur van de vlucht mag niet meer bedragen dan 12 uur.
 
-#### 73
+##### 73
 
 Aanvullende vluchten met gebruikmaking van de in paragraaf 79 en 80 genoemde uitrusting mogen worden uitgevoerd mits daarvoor de instemming van de geïnspecteerde Staat die Partij is is verkregen.
 
-#### 74
+##### 74
 
 Het gebied waarboven wordt gevlogen mag zich niet uitstrekken tot buiten het inspectiegebied.
 
-#### 75
+##### 75
 
 De geïnspecteerde Staat die Partij is heeft het recht beperkingen of, in uitzonderlijke gevallen en mits voldoende gemotiveerd, verboden op te leggen betreffende het uitvoeren van vluchten boven gevoelige locaties die geen verband houden met het doel van de inspectie. Beperkingen kunnen betrekking hebben op de vlieghoogte, het aantal passages en rondcirkelingen, de duur van het stilhangen in de lucht, het soort vliegtuig, het aantal inspecteurs aan boord en het soort metingen of waarnemingen. Indien het inspectieteam van mening is dat de beperkingen of verboden betreffende het overvliegen van gevoelige locaties de vervulling van het mandaat belemmeren, stelt de geïnspecteerde Staat die Partij is al het mogelijke in het werk om te voorzien in alternatieve inspectiemiddelen.
 
-#### 76
+##### 76
 
 Vluchten boven het inspectiegebied worden uitgevoerd overeenkomstig een naar behoren in overeenstemming met de luchtverkeersregels en -voorschriften van de geïnspecteerde Staat die Partij is geregistreerd vluchtschema. De voorschriften van de geïnspecteerde Staat die Partij is inzake de veiligheid van het vliegverkeer dienen gedurende alle vluchten strikt te worden nageleefd.
 
-#### 77
+##### 77
 
 Gedurende het overvliegen is landen normaliter alleen toegestaan voor het maken van een tussenstop of voor de inname van nieuwe brandstof.
 
-#### 78
+##### 78
 
 Er wordt overgevlogen op de door het inspectieteam verzochte hoogte, in overeenstemming met de te verrichten activiteiten, het zicht, en met de luchtvaart en veiligheidsvoorschriften van de geïnspecteerde Staat die Partij is en diens rechten gevoelige informatie die geen verband houdt met het doel van de inspectie te beschermen. Vluchten worden uitgevoerd tot op een maximumhoogte van 1500 meter boven het aardoppervlak.
 
-#### 79
+##### 79
 
 Voor het uitvoeren van vluchten overeenkomstig de paragrafen 71 en 72, mag de volgende uitrusting aan boord van het toestel worden gebruikt:
 
@@ -1300,7 +1322,7 @@ Voor het uitvoeren van vluchten overeenkomstig de paragrafen 71 en 72, mag de vo
 
 - d. Handfototoestellen.
 
-#### 80
+##### 80
 
 Bij aanvullende vluchten uitgevoerd overeenkomstig paragraaf 73, mogen inspecteurs aan boord van het toestel eveneens gebruik maken van eenvoudig te installeren draagbare uitrusting voor:
 
@@ -1310,19 +1332,19 @@ Bij aanvullende vluchten uitgevoerd overeenkomstig paragraaf 73, mogen inspecteu
 
 - c. Kartering van magnetische velden.
 
-#### 81
+##### 81
 
 Het overvliegen geschiedt met relatief langzame vaste-vleugelvliegtuigen of toestellen met rotorbladen. Het toestel dient een weids en onbelemmerd zicht te geven op het aardoppervlak.
 
-#### 82
+##### 82
 
 De geïnspecteerde Staat die Partij is heeft het recht zijn eigen vliegtuig te leveren, voorzien van de nodige uitrusting in overeenstemming met de technische vereisten en de desbetreffende handleiding, en bemanning. Indien dit niet geschiedt, wordt het toestel beschikbaar gesteld of gehuurd door het Technisch Secretariaat.
 
-#### 83
+##### 83
 
 Indien het toestel beschikbaar wordt gesteld of gehuurd door het Technisch Secretariaat, heeft de geïnspecteerde Staat die Partij is het recht het toestel te inspecteren om zich ervan te vergewissen dat het is uitgerust met een goedgekeurde inspectie-uitrusting. Een dergelijke inspectie dient te worden afgerond binnen het in paragraaf 57 genoemde tijdsbestek.
 
-#### 84
+##### 84
 
 Het personeel aan boord van het toestel dient te bestaan uit:
 
@@ -1336,21 +1358,21 @@ Het personeel aan boord van het toestel dient te bestaan uit:
 
 - e. Indien nodig een tolk.
 
-#### 85
+##### 85
 
 De procedures voor de uitvoering van vluchten worden in detail uitgewerkt in de handleiding voor inspecties ter plaatse.
 
 #### Gecontroleerde toegang
 
-#### 86
+##### 86
 
 Het inspectieteam heeft recht op toegang tot het inspectiegebied in overeenkomstig de bepalingen van het Verdrag en dit Protocol.
 
-#### 87
+##### 87
 
 De geïnspecteerde Staat die Partij is verleent toegang binnen het inspectiegebied overeenkomstig het in paragraaf 57 genoemde tijdsbestek.
 
-#### 88
+##### 88
 
 Ingevolge artikel IV, zevenenvijftigste lid, en paragraaf 86 hierboven, heeft de geïnspecteerde Staat die Partij is onder andere de volgende rechten en verplichtingen:
 
@@ -1360,7 +1382,7 @@ Ingevolge artikel IV, zevenenvijftigste lid, en paragraaf 86 hierboven, heeft de
 
 - c. Het recht een definitief besluit te nemen ten aanzien van toegang van het inspectieteam, rekening houdend met zijn verplichtingen ingevolge dit Verdrag en de bepalingen inzake gecontroleerde toegang.
 
-#### 89
+##### 89
 
 Ingevolge artikel IV, zevenenvijftigste lid, letter b, en paragraaf 88, letter a, hierboven, heeft de geïnspecteerde Staat die Partij is het recht in het gehele inspectiegebied maatregelen te treffen voor de bescherming van gevoelige installaties en locaties en ter voorkoming van de verspreiding van vertrouwelijke informatie die geen verband houdt met het doel van de inspectie. Dergelijke maatregelen omvatten, onder andere:
 
@@ -1374,57 +1396,57 @@ Ingevolge artikel IV, zevenenvijftigste lid, letter b, en paragraaf 88, letter a
 
 - e. Het beperkt toegankelijk verklaren van bepaalde locaties overeenkomstig paragraaf 92 tot en met 96.
 
-#### 90
+##### 90
 
 Toegang tot gebouwen en andere structuren wordt geschorst tot na de goedkeuring van de voortzetting van de inspectie ter plaatse overeenkomstig artikel IV, zevenenveertigste lid, behoudens de toegang tot gebouwen en andere structuren die toegang verlenen tot een mijn, andere holten of omvangrijke grotten die niet op andere wijze toegankelijk zijn. Ten aanzien van dergelijke gebouwen en structuren heeft het inspectieteam alleen het recht van doorgang, volgens de instructies van de geïnspecteerde Staat die Partij is, teneinde genoemde mijnen, holtes of grotten te betreden.
 
-#### 91
+##### 91
 
 Indien het inspectieteam, na goedkeuring van de voortzetting van de inspectie overeenkomstig artikel IV, zevenenveertigste lid, bij de geïnspecteerde Staat die Partij is genoegzaam aantoont dat toegang tot gebouwen of andere structuren vereist is voor de uitvoering van het inspectiemandaat en dat de in het mandaat toegestane activiteiten niet van buitenaf uitgevoerd kunnen worden, heeft het inspectieteam het recht toegang te verkrijgen tot deze gebouwen en structuren. De leider van het inspectieteam vermeldt bij het verzoek om toegang tot een specifiek gebouw of een specifieke structuur het doel van de toegang, het precieze aantal inspecteurs alsmede de beoogde activiteiten. De modaliteiten voor de toegang worden in overleg tussen het inspectieteam en de geïnspecteerde Staat die Partij is vastgesteld. De geïnspecteerde Staat die Partij is heeft het recht de toegang tot gebouwen en andere structuren te beperken, en in uitzonderlijke gevallen en met redelijke motivering, te verbieden.
 
-#### 92
+##### 92
 
 Geen van de ingevolge paragraaf 89, letter e, beperkt toegankelijk verklaarde locaties mag groter zijn dan vier vierkante kilometer. De geïnspecteerde Staat die Partij is heeft het recht maximaal 50 vierkante kilometer beperkt toegankelijk te verklaren. Indien er meer dan één locatie beperkt toegankelijk wordt verklaard, dient elk van deze locaties van de ander te zijn gescheiden door een afstand van ten minste 20 meter. Elke beperkt toegankelijk verklaarde locatie dient een duidelijk omschreven en toegankelijke begrenzing te hebben.
 
-#### 93
+##### 93
 
 De omvang, ligging en begrenzing van beperkt toegankelijke locaties worden uiterlijk op het tijdstip dat het inspectieteam om toegang verzoekt tot de plaats waarin een dergelijke locatie geheel of gedeeltelijk is gelegen, aan de leider van het inspectieteam medegedeeld.
 
-#### 94
+##### 94
 
 Het inspectieteam heeft het recht uitrusting te plaatsen en andere maatregelen te treffen die nodig zijn voor het uitvoeren van de inspectie tot aan de begrenzing van een beperkt toegankelijke locatie.
 
-#### 95
+##### 95
 
 Het inspectieteam heeft toestemming voor visuele inspectie van alle open plaatsen binnen de beperkt toegankelijke locatie vanaf de begrenzing daarvan.
 
-#### 96
+##### 96
 
 Het inspectieteam stelt al het redelijke in het werk om het inspectiemandaat te vervullen buiten de beperkt toegankelijk verklaarde locaties alvorens toegang tot deze locaties te verzoeken. Indien het inspectieteam op enig tijdstip bij de geïnspecteerde Staat die Partij is genoegzaam aantoont dat de nodige in het mandaat aangegeven activiteiten niet van buitenaf kunnen worden uitgevoerd en dat de toegang tot een beperkt toegankelijk locatie nodig is voor de vervulling van het mandaat, wordt een aantal leden van het inspectieteam toegang verleend teneinde bepaalde taken binnnen de locatie te verrichten. De geïnspecteerde Staat die Partij is heeft het recht gevoelige uitrusting, objecten en materiaal die geen verband houden met het doel van de inspectie aan het gezicht te onttrekken of op andere wijze te beschermen. Het aantal inspecteurs blijft beperkt tot het minimumaantal dat nodig is om de met de inspectie verband houdende taken te vervullen. De modaliteiten voor de toegang worden in overleg tussen het inspectieteam en de geïnspecteerde Staat die Partij is vastgesteld.
 
 #### Het verzamelen, behandelen en analyseren van monsters
 
-#### 97
+##### 97
 
 Onverminderd het bepaalde in de paragrafen 86 tot en met 96 en 98 tot en met 100, heeft het inspectieteam het recht in het inspectiegebied de nodige monsters te nemen en deze mede te nemen.
 
-#### 98
+##### 98
 
 Het analyseren van de monsters geschiedt zo veel mogelijk ter plaatse. Vertegenwoordigers van de geïnspecteerde Staat die Partij is hebben het recht aanwezig te zijn bij de analyse van monsters ter plaatse. Op verzoek van het inspectieteam verleent de geïnspecteerde Staat die Partij is, in overeenstemming met de overeengekomen procedures, bijstand bij het analyseren. Het inspectieteam heeft het recht monsters door te zenden naar door de Organisatie aangewezen laboratoria ter analysering elders, mits het team aantoont dat de nodige monsteranalyse niet ter plaatse kan worden uitgevoerd.
 
-#### 99
+##### 99
 
 De geïnspecteerde Staat die Partij is heeft het recht gedeelten van alle genomen monsters te behouden en kan wanneer deze monsters worden geanalyseerd extra monsters nemen.
 
-#### 100
+##### 100
 
 De geïnspecteerde Staat die Partij is heeft het recht te verzoeken dat ongebruikte monsters of delen daarvan worden geretourneerd.
 
-#### 101
+##### 101
 
 De aangewezen laboratoria verrichten chemische en fysische analyses op de monsters die zijn verzonden ter analysering elders. Deze analyse wordt in detail uitgewerkt in de Handleiding voor inspecties ter plaatse.
 
-#### 102
+##### 102
 
 De Directeur-Generaal draagt de eerste verantwoordelijkheid voor de veiligheid, het onaangetast laten en het bewaren van de monsters, alsmede voor de bescherming van het vertrouwelijk karakter van de verzonden monsters ter analysering elders. De Directeur-Generaal handelt in overeenstemming met de procedures in het Handboek voor inspecties ter plaatse. Hij dient in elk geval:
 
@@ -1438,51 +1460,51 @@ De Directeur-Generaal draagt de eerste verantwoordelijkheid voor de veiligheid, 
 
 - e. onder deze aangewezen laboratoria de laboratoria uit te kiezen die analysetaken of andere taken zullen verrichten met betrekking tot specifieke onderzoeken.
 
-#### 103
+##### 103
 
 Wanneer een analyse elders dient te worden verricht, dienen de monsters te worden geanalyseerd in ten minste twee aangewezen laboratoria. Het Technisch Secretariaat draagt zorg voor een spoedige verrichting van de analyse. Over de monsters wordt verantwoording afgelegd door het Technisch Secretariaat en eventuele ongebruikte monsters of gedeelten daarvan dienen te worden teruggezonden naar het Technisch Secretariaat.
 
-#### 104
+##### 104
 
 Het Technisch Secretariaat bundelt de resultaten van de laboratoriumanalyse van de monsters die relevant zijn voor de naleving van dit Verdrag. Ingevolge artikel IV, drieënzestigste lid, verzendt de Directeur-Generaal deze resultaten onverwijld naar de geïnspecteerde Staat die Partij is voor commentaar en vervolgens naar de Uitvoerende Raad en naar alle andere Staten die Partij zijn en neemt hierin gedetailleerde informatie op betreffende de door de aangewezen laboratoria gebruikte apparatuur en gehanteerde methoden.
 
 #### Het verrichten van inspecties in gebieden die buiten de rechtsmacht of het toezicht van enige Staat vallen
 
-#### 105
+##### 105
 
 In geval van een inspectie ter plaatse in een gebied dat buiten de rechtsmacht of het toezicht van enige Staat valt, pleegt de Directeur-Generaal overleg met de desbetreffende Staten die Partij zijn en komt met hen tot overeenstemming over transitpunten of bases ter vergemakkelijking van de spoedige aankomst van het inspectieteam in het inspectiegebied.
 
-#### 106
+##### 106
 
 De Staten die Partij zijn op wier grondgebied transitpunten of bases worden ingericht, verlenen, voor zover mogelijk, de nodige bijstand om de inspectie te vergemakkelijken, met inbegrip van het vervoeren van het inspectieteam, de bagage en de uitrusting naar het inspectiegebied, en het zorgen voor de nodige in paragraaf 11 genoemde voorzieningen. De Organisatie vergoedt aan de bijstand verlenende Staten die Partij zijn alle gemaakte kosten.
 
-#### 107
+##### 107
 
 Behoudens de goedkeuring door de Uitvoerende Raad, mag de Directeur-Generaal pemanente regelingen treffen met de Staten die Partij zijn ter vergemakkelijking van de bijstand in geval van een inspectie ter plaatse in een gebied dat buiten de rechtsmacht of het toezicht van enige Staat valt.
 
-#### 108
+##### 108
 
 In de gevallen waarin een of meerdere Staten die Partij zijn onderzoek verrichten naar een ambigue gebeurtenis in een gebied dat niet onder de rechtsmacht of het toezicht valt van enige Staat voordat een verzoek om inspectie ter plaatse in dat gebied is ingediend, mogen de resultaten van dit onderzoek door de Uitvoerende Raad worden betrokken bij zijn overleg, overeenkomstig artikel IV.
 
 #### Procedures na de inspectie
 
-#### 109
+##### 109
 
 Na afloop van een inspectie komt het inspectieteam bijeen met de vertegenwoordiger van de geïnspecteerde Staat die Partij is teneinde de voorlopige bevindingen van het inspectieteam te bespreken en eventuele onduidelijkheden op te helderen. Het inspectieteam verstrekt de vertegenwoordiger van de geïnspecteerde Staat die Partij is zijn voorlopige bevindingen in schriftelijke vorm overeenkomstig een gestandaardiseerd model, te zamen met een lijst van eventuele monsters en ander materiaal dat uit het inspectiegebied wordt meegenomen ingevolge paragraaf 98. Het document dient te worden ondertekend door de leider van het inspectieteam. Teneinde aan te geven dat hij of zij kennis heeft genomen van de inhoud van het document, dient dit te worden medeondertekend door de vertegenwoordiger van de geïnspecteerde Staat die Partij is. Deze bijeenkomst dient uiterlijk 24 uur na afloop van de inspectie te zijn beëindigd.
 
 #### Vertrek
 
-#### 110
+##### 110
 
 Na beëindiging van de procedures na de inspectie dienen het inspectieteam en de waarnemer het grondgebied van de geïnspecteerde Staat die Partij is zo spoedig mogelijk te verlaten. De geïnspecteerde Staat die Partij is stelt al het mogelijke in het werk om bijstand te verlenen en de veilige begeleiding van het inspectieteam, de uitrusting en de bagage, naar het punt van vertrek te waarborgen. Tenzij anders overeengekomen door de geïnspecteerde Staat die Partij is en het inspectieteam is het punt van vertrek hetzelfde punt als het punt van binnenkomst.
 
 ## DEEL III. VERTROUWENBEVORDERENDE MAATREGELEN
 
-#### 1
+##### 1
 
 Overeenkomstig artikel IV, achtenzestigste lid, stelt elke Staat die Partij is vrijwillig het Technisch Secretariaat in kennis van elke chemische explosie van 300 ton explosieven of meer, in TNT-equivalent, die in een enkele explosie tot ontploffing worden gebracht op enige plaats op zijn grondgebied of op enige plaats onder zijn rechtsmacht of toezicht. Indien mogelijk wordt de kennisgeving vooraf gedaan. Genoemde kennisgeving moet details bevatten over plaats, tijdstip en datum van de explosie, de hoeveelheid en de soort explosieven, alsmede over de configuratie en het beoogde doel van de explosie.
 
-#### 2
+##### 2
 
 Elke Staat die Partij is verstrekt aan het Technisch Secretariaat vrijwillig en zo spoedig mogelijk na de inwerkingtreding van dit Verdrag informatie met betrekking tot het op nationaal niveau tot ontploffing brengen van alle andere chemische explosieven van meer dan 300 ton TNT-equivalent; deze informatie wordt jaarlijks in geactualiseerde vorm aan het Technisch Secretariaat aangeboden. Met name tracht de desbetreffende Staat die Partij is het Technisch Secretariaat de volgende informatie te verstrekken:
 
@@ -1494,10 +1516,10 @@ Elke Staat die Partij is verstrekt aan het Technisch Secretariaat vrijwillig en 
 
 tracht deze Staat die Partij is het Technisch Secretariaat bij te staan bij het ophelderen van de oorsprong van een dergelijke gebeurtenis die door het Internationaal Toezichtsysteem wordt gedetecteerd.
 
-#### 3
+##### 3
 
 Een Staat die Partij is kan, op basis van vrijwilligheid en op een wederzijds acceptabele wijze, vertegenwoordigers van het Technisch Secretariaat of van andere Staten die Partij zijn uitnodigen om de in de paragrafen 1 en 2 genoemde locaties te komen bezoeken binnen zijn grondgebied.
 
-#### 4
+##### 4
 
 Met het oog op de ijking van het Internationaal Toezichtsysteem, kunnen de Staten die Partij zijn zich in verbinding stellen met het Technisch Secretariaat teneinde chemische ijkingsexplosies tot stand te brengen of relevante informatie te verstrekken over voor andere doeleinden voorziene chemische explosies.

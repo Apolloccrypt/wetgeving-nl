@@ -1,13 +1,39 @@
 ---
-title: "Besluit specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid"
+title: "Besluit van 27 augustus 2018, houdende regels met betrekking tot specifieke uitkeringen ten behoeve van het gemeentelijk onderwijsachterstandenbeleid (Besluit specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid)"
 identifier: "BWBR0041370"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-04-01
-laatste_update: 2022-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041370"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-04-01"
+last_updated: "2022-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041370"
+soort: "AMvB"
+stam_id: "14804463"
+version_id: "25313682"
+internal_id: "C36156691"
+label_id: "14756564"
+dtd_version: "2.0"
+original_entry_into_force: "2018-09-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041370/2022-04-01/0"
+intitule_bron: "Stb.2018-315"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-08-27"
+intitule_published: "2018-09-27"
+intitule_in_force: "2018-09-27"
+intitule_status: "goed"
+original_publication: "Stb.2018-315"
+original_signed_date: "2018-08-27"
+original_published_date: "2018-09-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2018-315"
+entry_into_force_date: "2018-09-28"
+jci_1_3: "jci1.3:c:BWBR0041370&z=2022-04-01&g=2022-04-01"
+jci_1_0: "1.0:c:BWBR0041370&g=2022-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid"
+signed_date: "2018-08-27"
+entry_into_force: "2018-09-28"
 ---
-
 # Besluit van 27 augustus 2018, houdende regels met betrekking tot specifieke uitkeringen ten behoeve van het gemeentelijk onderwijsachterstandenbeleid (Besluit specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid)
 
 Op de voordracht van Onze Minister voor Basis- en Voortgezet Onderwijs en Media, van 11 juli 2018, nr. WJZ/1381192 (7895), directie Wetgeving en Juridische Zaken;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister voor Basis- en Voortgezet Onderwijs e
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -34,11 +60,11 @@ In dit besluit wordt verstaan onder:
 
 - **WPO:** [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420).
 
-#### Artikel 2. Criterium in aanmerking komen voor specifieke uitkering
+##### Artikel 2. Criterium in aanmerking komen voor specifieke uitkering
 
 Een gemeente komt in een kalenderjaar in aanmerking voor een uitkering als bedoeld in [artikel 163 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=163) indien de uitkomst van de formule, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041370&artikel=4&z=2022-04-01&g=2022-04-01), voor dat kalenderjaar groter is dan nul.
 
-#### Artikel 3. Achterstandsscore gemeente
+##### Artikel 3. Achterstandsscore gemeente
 
 1. Het Centraal bureau voor de statistiek berekent jaarlijks de achterstandsscore van elke gemeente op basis van gegevens op de teldatum op basis van:
 
@@ -65,7 +91,7 @@ Een gemeente komt in een kalenderjaar in aanmerking voor een uitkering als bedoe
 
 5. Bij de toepassing van dit artikel blijven scholen als bedoeld in [artikel 193 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=193) en de leerlingen van die scholen buiten beschouwing.
 
-#### Artikel 4. Criteria hoogte specifieke uitkering
+##### Artikel 4. Criteria hoogte specifieke uitkering
 
 1. De hoogte van de uitkering bedraagt per kalenderjaar per gemeente de uitkomst van de formule (H + I) x (J / K), waarbij:
 
@@ -103,7 +129,7 @@ K = de helft van de som van de achterstandsscores van alle gemeenten gezamenlijk
 
 - 4°. in het tweede lid uitgegaan van factor A op 1 oktober 2021 of 1 oktober 2020.
 
-#### Artikel 5. Besteden overschot en mogelijkheid gehele of gedeeltelijke terugvordering
+##### Artikel 5. Besteden overschot en mogelijkheid gehele of gedeeltelijke terugvordering
 
 1. Indien de uitkering in een kalenderjaar niet of niet geheel is besteed aan het doel waarvoor deze is bestemd, kan het overschot worden besteed in een volgend kalenderjaar binnen het tijdvak, bedoeld in het tweede lid.
 
@@ -113,15 +139,15 @@ K = de helft van de som van de achterstandsscores van alle gemeenten gezamenlijk
 
 4. Onverminderd het tweede lid vordert onze minister bedragen terug die blijkens de verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), niet zijn besteed aan het doel waar zij voor waren bestemd.
 
-#### Artikel 6. Overgangsregeling
+##### Artikel 6. Overgangsregeling
 
 Vervallen
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid.
 

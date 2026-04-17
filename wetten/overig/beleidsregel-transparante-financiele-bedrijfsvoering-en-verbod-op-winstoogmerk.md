@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel transparante financiële bedrijfsvoering en verbod op winstoogmerk"
 identifier: "BWBR0046196"
-categorie: "Overig"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046196"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046196"
+soort: "zbo"
+stam_id: "16234533"
+version_id: "28345542"
+internal_id: "C39959871"
+label_id: "16161964"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046196/2022-01-01/0"
+intitule_bron: "Stcrt.2022-56"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-21"
+intitule_published: "2022-01-13"
+intitule_in_force: "2022-01-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-56"
+original_signed_date: "2021-12-21"
+original_published_date: "2022-01-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-56"
+entry_into_force_date: "2022-01-01"
+jci_1_3: "jci1.3:c:BWBR0046196&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0046196&g=2022-01-01"
+citeertitel_status: "officieel"
+signed_date: "2021-12-21"
+entry_into_force: "2022-01-01"
 ---
-
 # Beleidsregel transparante financiële bedrijfsvoering en verbod op winstoogmerk
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) (hierna: Awb), stelt de Nederlandse Zorgautoriteit (hierna: NZa) beleidsregels op met betrekking tot de volgende haar toekomende of onder haar verantwoordelijkheid uitgeoefende bevoegdheden.
@@ -18,7 +43,7 @@ Het verbod op winstoogmerk is opgenomen in [artikel 5 van de Wet toelating zorgi
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -36,11 +61,11 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Zvw:** [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450)
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 In deze beleidsregel beschrijft de NZa de uitgangspunten die zij in acht neemt bij de wijze waarop zij het toezicht uitoefent op [artikel 40a, eerste, tweede, vierde en vijfde lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40a), inzake een transparante bedrijfsvoering en financiële administratie. Tevens beschrijft deze beleidsregel de uitgangspunten die de NZa in acht neemt bij de wijze waarop zij het toezicht uitoefent op [artikel 5, van de WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5), zijnde het verbod op winstoogmerk.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 - 3.1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046196&artikel=4&z=2022-01-01&g=2022-01-01) van deze beleidsregel is van toepassing op zorgaanbieders als bedoeld in [artikel 1, sub c, onderdeel 1, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1), voor zover niet uitgezonderd in [artikel 5a, van het Besluit uitbreiding en beperking werkingssfeer Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020326&artikel=5a) (BUB Wmg).
 
@@ -50,7 +75,7 @@ In deze beleidsregel beschrijft de NZa de uitgangspunten die zij in acht neemt b
 
 - 3.4. [Artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046196&artikel=5&z=2022-01-01&g=2022-01-01) van deze beleidsregel is van toepassing op de categorieën instellingen genoemd in [artikel 3.1, van het Uitvoeringsbesluit WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&artikel=3.1).
 
-#### Artikel 4. Transparantie van de bedrijfsvoering
+##### Artikel 4. Transparantie van de bedrijfsvoering
 
 - 4.1. De NZa houdt toezicht op [artikel 40a, eerste, tweede en vierde lid, Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40a), door de ordelijkheid en controleerbaarheid van de bedrijfsvoering en de verantwoording daarover te toetsen.
 
@@ -104,7 +129,7 @@ In deze beleidsregel beschrijft de NZa de uitgangspunten die zij in acht neemt b
 
 - 4.9. De NZa kan bij haar beoordeling de omvang van de zorgaanbieder, diens positie op de markt en overige relevante omstandigheden in acht nemen.
 
-#### Artikel 5. Winstoogmerk en winstuitkering
+##### Artikel 5. Winstoogmerk en winstuitkering
 
 - 5.1. Voor het toezicht op de naleving van het verbod op winstoogmerk van [artikel 5, WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1), toetst de NZa het feitelijk handelen alsook het oogmerk.
 
@@ -122,12 +147,12 @@ In deze beleidsregel beschrijft de NZa de uitgangspunten die zij in acht neemt b
 
 - 5.4. De NZa kan bij haar beoordeling de omvang van de zorgaanbieder, diens positie op de markt en overige relevante omstandigheden in acht nemen.
 
-#### Artikel 6. Inwerkingtreding / Bekendmaking
+##### Artikel 6. Inwerkingtreding / Bekendmaking
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2022.
 
 Ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), zal deze beleidsregel in de Staatscourant worden geplaatst. De beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](onbekend).
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: ‘Beleidsregel transparante financiële bedrijfsvoering en verbod op winstoogmerk’.

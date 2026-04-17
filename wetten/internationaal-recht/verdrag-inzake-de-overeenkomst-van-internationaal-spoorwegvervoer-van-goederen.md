@@ -1,13 +1,24 @@
 ---
 title: "Verdrag inzake de overeenkomst van internationaal spoorwegvervoer van goederen"
 identifier: "BWBV0007074"
-categorie: "Internationaal recht"
-publicatiedatum: 2023-11-17
-laatste_update: 2023-11-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007074"
+country: "nl"
+rank: "verdrag"
+publication_date: "2023-11-17"
+last_updated: "2023-11-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007074"
+soort: "verdrag"
+stam_id: "10005670213"
+version_id: "10006261952"
+internal_id: "C10010131181"
+label_id: "10005653334"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007074/2023-11-17/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0007074&z=2023-11-17&g=2023-11-17"
+jci_1_0: "1.0:c:BWBV0007074&g=2023-11-17"
+citeertitel_status: "redactioneel"
 ---
-
 # Verdrag inzake de overeenkomst van internationaal spoorwegvervoer van goederen
 
 Preambule
@@ -32,7 +43,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 1. Dit Verdrag is van toepassing op een overeenkomst van spoorwegvervoer van goederen:
 
@@ -54,7 +65,7 @@ Zijn het volgende overeengekomen:
 
 3. Twee of meer partijen kunnen overeenkomsten sluiten waarin dit Verdrag van toepassing wordt verklaard op het spoorwegvervoer van goederen tussen hun landen in gevallen anders dan geregeld in het eerste en tweede lid van dit artikel.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 In dit Verdrag wordt verstaan onder:
 
@@ -98,13 +109,13 @@ In dit Verdrag wordt verstaan onder:
 
 - t. „intermodale transporteenheid” een container, verplaatsbare tank of laadplaat, wissellaadbak, oplegger of andere vergelijkbare laadeenheid die wordt gebruikt voor het vervoer van goederen in intermodaal vervoer.
 
-#### Artikel 3. Dwingend recht
+##### Artikel 3. Dwingend recht
 
 1. Tenzij in dit Verdrag anders is bepaald, is elke bepaling in de vervoerovereenkomst die zou afwijken van dit Verdrag nietig. De nietigheid van een dergelijke bepaling houdt niet in dat andere bepalingen van de door de partijen overeengekomen vervoerovereenkomst ook nietig zijn.
 
 2. Een vervoerder kan een zwaardere aansprakelijkheid en verplichtingen op zich nemen die zwaarder zijn dan die waarin dit Verdrag voorziet. Bovendien kan de door de afzender krachtens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=7&z=2023-11-17&g=2023-11-17) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=11&z=2023-11-17&g=2023-11-17) te betalen vergoeding qua bedrag worden beperkt, maar deze mag niet lager zijn dan het bedrag waarvoor de vervoerder krachtens dit Verdrag aansprakelijk is wanneer de goederen volledig verloren gaan.
 
-#### Artikel 4. Bepalingen van het publiekrecht
+##### Artikel 4. Bepalingen van het publiekrecht
 
 Dit Verdrag regelt alleen de rechten en verplichtingen van de partijen bij de vervoerovereenkomst die voortvloeien uit een dergelijke overeenkomst. Vervoer waarop dit Verdrag van toepassing is, blijft onderworpen aan de bepalingen van het publiekrecht, met name publiekrechtelijke bepalingen die het volgende regelen:
 
@@ -128,7 +139,7 @@ Dit Verdrag regelt alleen de rechten en verplichtingen van de partijen bij de ve
 
 ### HOOFDSTUK 2. SLUITEN EN UITVOEREN VAN EEN VERVOEROVEREENKOMST
 
-#### Artikel 5. Vervoerovereenkomst
+##### Artikel 5. Vervoerovereenkomst
 
 1. Op grond van de vervoerovereenkomst is de vervoerder verplicht de goederen naar de bestemming te vervoeren en deze aan de geadresseerde af te leveren. Met inachtneming van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=8&z=2023-11-17&g=2023-11-17) is de afzender verplicht de kosten in verband met het vervoer te betalen.
 
@@ -144,7 +155,7 @@ De vervoerder dient de inontvangstneming van de goederen op de vrachtbrief op pa
 
 4. Een elektronische vrachtbrief kan worden gebruikt op voorwaarde dat de bij de vervoerovereenkomst betrokken partijen hiermee akkoord gaan.
 
-#### Artikel 6. Inhoud van de vrachtbrief
+##### Artikel 6. Inhoud van de vrachtbrief
 
 1. De vrachtbrief dient de volgende gegevens te bevatten:
 
@@ -194,7 +205,7 @@ De vervoerder dient de inontvangstneming van de goederen op de vrachtbrief op pa
 
 3. De partijen bij de overeenkomst kunnen op de vrachtbrief andere gegevens met betrekking tot het vervoer vermelden die zij nuttig achten.
 
-#### Artikel 7. Verantwoordelijkheid van de afzender
+##### Artikel 7. Verantwoordelijkheid van de afzender
 
 1. De afzender is aansprakelijk voor alle kosten, verliezen of schade die de vervoerder heeft geleden ten gevolge van:
 
@@ -208,7 +219,7 @@ De vervoerder dient de inontvangstneming van de goederen op de vrachtbrief op pa
 
 4. De vervoerder kan geen aanspraak maken op kosten of uitgaven en is gehouden tot schadevergoeding voor verlies van of schade aan de goederen indien hij op de hoogte was van de onjuistheid of onvolledigheid van de vrachtbrief of van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=12&z=2023-11-17&g=2023-11-17) bedoelde documenten of van de gevaarlijke aard van de goederen of van de specifieke eisen met betrekking tot de behandeling van de goederen bij de inontvangstneming ervan.
 
-#### Artikel 8. Betaling van de kosten in verband met het vervoer
+##### Artikel 8. Betaling van de kosten in verband met het vervoer
 
 1. Tenzij anders overeengekomen tussen de afzender en de vervoerder, worden de vervoerskosten door de afzender betaald; andere kosten in verband met het vervoer worden door de afzender betaald wanneer deze worden veroorzaakt door omstandigheden buiten de macht van de vervoerder. Tenzij anders overeengekomen, heeft de vervoerder het recht om de vervoerskosten vóór het begin van het vervoer te verlangen.
 
@@ -218,7 +229,7 @@ De vervoerder dient de inontvangstneming van de goederen op de vrachtbrief op pa
 
 4. De vervoerder dient een vergoeding te ontvangen voor alle kosten in verband met het vervoer die niet in de toegepaste tarieven zijn voorzien en die zijn veroorzaakt door omstandigheden die buiten de macht van de vervoerder liggen. Deze kosten worden voor elke zending afzonderlijk geregistreerd op de datum van het ontstaan ervan en worden gestaafd door de desbetreffende documenten.
 
-#### Artikel 9. Onderzoek
+##### Artikel 9. Onderzoek
 
 1. De vervoerder heeft het recht te onderzoeken of de vervoersvoorwaarden vervuld zijn en of de zending overeenstemt met de door de afzender op de vrachtbrief vermelde gegevens. Wanneer het onderzoek betrekking heeft op de inhoud van de zending, wordt dit zoveel mogelijk uitgevoerd in aanwezigheid van de rechthebbende; indien dit niet mogelijk is, verlangt de vervoerder de aanwezigheid van twee onafhankelijke getuigen, tenzij de wetten en voorschriften van de Staat waar het onderzoek plaatsvindt anders bepalen.
 
@@ -226,7 +237,7 @@ De vervoerder dient de inontvangstneming van de goederen op de vrachtbrief op pa
 
 3. Wanneer de afzender zorg draagt voor de belading van de goederen, kan hij eisen dat de vervoerder de staat van de goederen en van hun verpakking onderzoekt, alsook de juistheid van de op de vrachtbrief vermelde aanduidingen over het aantal colli, hun merktekens en nummers alsmede de brutomassa van de goederen of de op andere wijze uitgedrukte hoeveelheid. De vervoerder is daartoe alleen verplicht indien hij over passende middelen beschikt om het onderzoek uit te voeren. De vervoerder kan de kosten van het onderzoek terugvorderen. Het resultaat van het onderzoek wordt op de vrachtbrief vermeld.
 
-#### Artikel 10. Bewijskracht van de vrachtbrief
+##### Artikel 10. Bewijskracht van de vrachtbrief
 
 1. De overeenkomstig [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=5&z=2023-11-17&g=2023-11-17), ondertekende vrachtbrief levert volledig bewijs, behoudens tegenbewijs, van het sluiten en de voorwaarden van de vervoerovereenkomst en de inontvangstneming van de goederen door de vervoerder.
 
@@ -236,7 +247,7 @@ De vervoerder dient de inontvangstneming van de goederen op de vrachtbrief op pa
 
 De vrachtbrief levert evenwel niet volledig bewijs in het geval dat deze een met redenen omkleed voorbehoud bevat.
 
-#### Artikel 11. Laden en lossen
+##### Artikel 11. Laden en lossen
 
 1. De afzender is jegens de vervoerder aansprakelijk voor verlies of schade en kosten als gevolg van gebrekkige verpakking of etikettering van de goederen of gebrekkige merktekens, tenzij het gebrek zichtbaar of bekend was bij de vervoerder op het moment dat hij de goederen in ontvangst nam en hij er geen voorbehouden bij maakte.
 
@@ -244,7 +255,7 @@ De vrachtbrief levert evenwel niet volledig bewijs in het geval dat deze een met
 
 3. In geval van zichtbare of bekende gebrekkige verpakking, etikettering of lading van de goederen kan de vervoerder de goederen onder specifieke contractuele voorwaarden aanvaarden voor vervoer.
 
-#### Artikel 12. Vervullen van administratieve formaliteiten
+##### Artikel 12. Vervullen van administratieve formaliteiten
 
 1. Met het oog op douane- of andere formaliteiten die vóór de aflevering van de goederen moeten worden vervuld, voegt de afzender de nodige documenten bij de vrachtbrief of stelt hij deze ter beschikking van de vervoerder en verstrekt hij hem vooraf via elektronische communicatie of anderszins alle informatie die hij nodig heeft.
 
@@ -252,13 +263,13 @@ De vrachtbrief levert evenwel niet volledig bewijs in het geval dat deze een met
 
 3. De vervoerder is aansprakelijk voor elke schade veroorzaakt door het verlies of het onjuiste gebruik van de documenten die hem ter beschikking zijn gesteld, tenzij het verlies of het onjuiste gebruik van de documenten is veroorzaakt door omstandigheden die een zorgvuldige vervoerder niet kon vermijden en waarvan hij de gevolgen niet kon voorkomen. De door de vervoerder te betalen schadevergoeding mag niet hoger zijn dan de schadevergoeding die is voorzien in het geval van verlies van de goederen.
 
-#### Artikel 13. Afleveringstermijnen
+##### Artikel 13. Afleveringstermijnen
 
 1. De vervoerder levert de goederen af binnen de in de vervoerovereenkomst overeengekomen termijn. Indien geen afleveringstermijn is overeengekomen, geschiedt de aflevering binnen de termijn die redelijkerwijs van een zorgvuldige vervoerder kan worden verlangd, rekening houdend met de omstandigheden van het vervoer.
 
 2. De afleveringstermijn wordt verlengd met de duur van elke vertraging langs de route om redenen buiten de macht van de vervoerder.
 
-#### Artikel 14. Aflevering
+##### Artikel 14. Aflevering
 
 1. Op de plaats bestemd voor de aflevering overhandigt de vervoerder de vrachtbrief en levert hij de goederen af aan de geadresseerde tegen een ontvangstbewijs en betaling van alle volgens de vervoerovereenkomst verschuldigde bedragen.
 
@@ -268,7 +279,7 @@ De vrachtbrief levert evenwel niet volledig bewijs in het geval dat deze een met
 
 4. Dit Verdrag doet geen afbreuk aan een retentierecht op de goederen dat door de vervoerder uit hoofde van de vervoerovereenkomst of de toepasselijke wetgeving kan worden uitgeoefend tot zekerheid van de betaling van de verschuldigde bedragen.
 
-#### Artikel 15. Recht over de goederen te beschikken
+##### Artikel 15. Recht over de goederen te beschikken
 
 1. De afzender heeft het recht over de goederen te beschikken en de vervoerovereenkomst te wijzigen door het geven van nadere opdrachten, met name door de vervoerder te verzoeken de goederen niet verder te vervoeren of niet af te leveren of terug te geven op de plaats van inontvangstneming van de goederen of de plaats bestemd voor de aflevering te wijzigen of deze af te leveren aan een andere geadresseerde dan de in de vrachtbrief vermelde geadresseerde.
 
@@ -278,7 +289,7 @@ De vrachtbrief levert evenwel niet volledig bewijs in het geval dat deze een met
 
 4. Elk beschikkingsrecht vervalt wanneer de geadresseerde of een andere door de geadresseerde aangewezen persoon de vrachtbrief van de vervoerder in bezit heeft genomen en de goederen heeft aanvaard of om aflevering van de goederen heeft verzocht.
 
-#### Artikel 16. Uitoefening van het beschikkingsrecht
+##### Artikel 16. Uitoefening van het beschikkingsrecht
 
 1. Indien de rechthebbende over de goederen wil beschikken, dient hij de nodige instructies aan de vervoerder te geven. Indien dit in de vrachtbrief wordt voorgeschreven, dient de rechthebbende aan de vervoerder zijn origineel van de vrachtbrief te overleggen waarop de nieuwe instructies dienen te worden aangebracht.
 
@@ -290,7 +301,7 @@ De vrachtbrief levert evenwel niet volledig bewijs in het geval dat deze een met
 
 5. De vervoerder heeft het recht om betaling te eisen van de aanvullende vervoerskosten en de kosten die voortvloeien uit de zorgvuldige uitvoering van de gegeven instructies.
 
-#### Artikel 17. Omstandigheden die vervoer en aflevering belemmeren
+##### Artikel 17. Omstandigheden die vervoer en aflevering belemmeren
 
 1. Indien na de inontvangstneming van de goederen door de vervoerder blijkt dat het vervoer of de aflevering niet volgens de overeenkomst kan worden uitgevoerd, vraagt de vervoerder instructies aan de rechthebbende of, indien de omstandigheden de aflevering verhinderen, aan de afzender. In afwijking van de eerste zin vraagt de vervoerder de geadresseerde om instructies indien, nadat de goederen het land van bestemming hebben bereikt, blijkt dat het vervoer niet volgens de vervoerovereenkomst kan worden uitgevoerd.
 
@@ -300,7 +311,7 @@ De vrachtbrief levert evenwel niet volledig bewijs in het geval dat deze een met
 
 4. Indien omstandigheden die de aflevering verhinderen ophouden te bestaan vóór het binnenkomen van de instructies van de afzender aan de vervoerder, worden de goederen afgeleverd aan de geadresseerde. De afzender wordt onverwijld in kennis gesteld.
 
-#### Artikel 18. Gevolgen van omstandigheden die vervoer en aflevering belemmeren
+##### Artikel 18. Gevolgen van omstandigheden die vervoer en aflevering belemmeren
 
 1. De vervoerder heeft recht op vergoeding van de kosten die voortvloeien uit zijn verzoek om instructies of de uitvoering van instructies of als gevolg van een besluit overeenkomstig [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=17&z=2023-11-17&g=2023-11-17), tenzij deze kosten door zijn schuld zijn veroorzaakt. De vervoerder kan met name de vervoerskosten die van toepassing zijn op de gevolgde route terugvorderen en hij mag de afleveringstermijn hanteren die op die route van toepassing is.
 
@@ -312,7 +323,7 @@ De vrachtbrief levert evenwel niet volledig bewijs in het geval dat deze een met
 
 ### HOOFDSTUK 3. AANSPRAKELIJKHEID
 
-#### Artikel 19. Aansprakelijkheidsgronden
+##### Artikel 19. Aansprakelijkheidsgronden
 
 1. De contractuele vervoerder is aansprakelijk voor verlies of schade als gevolg van het geheel of gedeeltelijk verlies van of schade aan de goederen vanaf het moment van inontvangstneming van de goederen tot de aflevering, alsmede voor vertraging in de aflevering.
 
@@ -334,7 +345,7 @@ De vrachtbrief levert evenwel niet volledig bewijs in het geval dat deze een met
 
 5. Wanneer de vervoerder bewijst dat het verlies of de beschadiging of de vertraging in de aflevering, gelet op de omstandigheden van het specifieke geval, kan zijn ontstaan uit een of meer van de in het vierde lid van dit artikel genoemde bijzondere risico's, wordt vermoed dat het verlies of de beschadiging of de vertraging in de aflevering daardoor is veroorzaakt. De persoon die het recht heeft om een vordering tegen de vervoerder in te stellen, heeft evenwel het recht aan te tonen dat het verlies of de beschadiging of de vertraging in de aflevering niet geheel of gedeeltelijk door een van deze risico’s is veroorzaakt.
 
-#### Artikel 20. Vermoeden van verlies van de goederen
+##### Artikel 20. Vermoeden van verlies van de goederen
 
 1. De persoon die het recht heeft om een vordering tegen de vervoerder in te stellen, kan, zonder nader bewijs te hoeven leveren, de goederen als verloren beschouwen wanneer zij niet zijn afgeleverd of voor aflevering aan de geadresseerde zijn aangekomen binnen drie maanden na de afleveringstermijn.
 
@@ -346,7 +357,7 @@ De vrachtbrief levert evenwel niet volledig bewijs in het geval dat deze een met
 
 5. Elke verplichting van de geadresseerde om de teruggevonden goederen te aanvaarden, is onderworpen aan de wetten die van toepassing zijn op de plaats bestemd voor de aflevering.
 
-#### Artikel 21. Schadevergoeding voor verlies
+##### Artikel 21. Schadevergoeding voor verlies
 
 1. In geval van geheel of gedeeltelijk verlies van de goederen vergoedt de vervoerder de waarde van de goederen op de dag en de plaats waar zij voor vervoer in ontvangst zijn genomen. Indien een deel van de goederen is geleverd, wordt de waarde die voor de rechthebbende overblijft, in mindering gebracht op het bedrag van de schadevergoeding.
 
@@ -362,13 +373,13 @@ De vrachtbrief levert evenwel niet volledig bewijs in het geval dat deze een met
 
 7. Er is geen verdere schadevergoeding verschuldigd.
 
-#### Artikel 22. Rekeneenheid
+##### Artikel 22. Rekeneenheid
 
 1. De rekeneenheid bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=3&artikel=21&z=2023-11-17&g=2023-11-17) is het Bijzondere Trekkingsrecht zoals omschreven in overeenstemming met de instructies van het Internationale Monetaire Fonds. Het in artikel 21 bedoelde bedrag wordt omgerekend in de nationale munteenheid van een Staat overeenkomstig de waarde van de desbetreffende munteenheid op de datum van de uitspraak of op de door de partijen bij de overeenkomst afgesproken datum. Indien voor de berekening van een bedrag de omrekening van in vreemde valuta uitgedrukte bedragen vereist is, geschiedt de omrekening tegen de wisselkoers die geldt op de dag en op de plaats van betaling.
 
 2. De waarde van een nationale munteenheid, uitgedrukt in Bijzondere Trekkingsrechten, van een partij bij dit Verdrag die lid is van het Internationale Monetaire Fonds, wordt berekend overeenkomstig de waarderingsmethode die door het Internationale Monetaire Fonds op de desbetreffende datum wordt gehanteerd voor zijn eigen verrichtingen en transacties. De waarde van de nationale munteenheid, uitgedrukt in Bijzondere Trekkingsrechten, van een partij bij dit Verdrag die geen lid is van het Internationale Monetaire Fonds, wordt berekend op een door die partij vastgestelde wijze.
 
-#### Artikel 23. Aansprakelijkheid voor verspilling tijdens het vervoer
+##### Artikel 23. Aansprakelijkheid voor verspilling tijdens het vervoer
 
 1. Onverminderd het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=3&artikel=19&z=2023-11-17&g=2023-11-17) ten aanzien van goederen die, ingevolge hun aard, in het algemeen een gewichtsverlies ondergaan tijdens het vervoer, is de vervoerder, ongeacht de lengte van het afgelegde traject, slechts aansprakelijk voor het gedeelte van het verlies dat meer bedraagt dan:
 
@@ -382,7 +393,7 @@ De vrachtbrief levert evenwel niet volledig bewijs in het geval dat deze een met
 
 4. In geval van geheel verlies van goederen of in geval van verlies van één collo vindt voor de berekening van de schadevergoeding geen aftrek plaats wegens gewichtsverlies tijdens het vervoer.
 
-#### Artikel 24. Schadevergoeding
+##### Artikel 24. Schadevergoeding
 
 1. In geval van schade aan goederen vergoedt de vervoerder de waardevermindering van de goederen. Het bedrag wordt berekend op basis van deskundigheid of door toepassing van de waarde van de overeenkomstig [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=3&artikel=21&z=2023-11-17&g=2023-11-17), omschreven goederen, terwijl het percentage van de waardevermindering op de plaats van bestemming wordt genoteerd. Aangenomen wordt dat de kosten van het verlagen en repareren van de schade overeenkomen met de vermindering van de waarde.
 
@@ -398,7 +409,7 @@ De vrachtbrief levert evenwel niet volledig bewijs in het geval dat deze een met
 
 5. Er is geen verdere schadevergoeding verschuldigd.
 
-#### Artikel 25. Schadevergoeding bij vertraging in de aflevering
+##### Artikel 25. Schadevergoeding bij vertraging in de aflevering
 
 1. Indien wordt bewezen dat de schade het gevolg is van vertraging in de aflevering, dan betaalt de vervoerder een schadevergoeding die niet meer mag bedragen dan de helft van de vervoerskosten.
 
@@ -408,11 +419,11 @@ De vrachtbrief levert evenwel niet volledig bewijs in het geval dat deze een met
 
 4. Indien de afleveringstermijn bij overeenkomst is vastgesteld, kunnen andere vormen van schadevergoeding worden overeengekomen dan die bedoeld in het eerste lid van dit artikel. Indien in dit geval niet alleen de overeengekomen afleveringstermijn wordt overschreden, maar ook de termijn die redelijkerwijs van de zorgvuldige vervoerder als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=13&z=2023-11-17&g=2023-11-17) kan worden verlangd, ook wordt overschreden, kan de persoon die het recht heeft om een vordering tegen de vervoerder in te stellen, hetzij de in de overeenkomst of de in dit artikel bedoelde schadevergoeding vorderen.
 
-#### Artikel 26. Personen voor wie de vervoerder aansprakelijk is
+##### Artikel 26. Personen voor wie de vervoerder aansprakelijk is
 
 De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen van wier diensten hij gebruik maakt bij de uitvoering van het vervoer, wanneer deze ondergeschikten en andere personen handelen in de uitoefening van hun werkzaamheden. De ondernemingen of lichamen die de spoorweginfrastructuur exploiteren waarop het vervoer wordt verricht, worden beschouwd als personen van wier diensten de vervoerder gebruik maakt bij de uitvoering van het vervoer. Het recht van regres van de vervoerder wordt niet aangetast.
 
-#### Artikel 27. Andere vorderingen
+##### Artikel 27. Andere vorderingen
 
 1. In alle gevallen waar dit Verdrag van toepassing is, kan tegen de vervoerder slechts een vordering wegens aansprakelijkheid, ongeacht de rechtsgrond, worden ingesteld onder de voorwaarden en beperkingen neergelegd in dit Verdrag.
 
@@ -420,7 +431,7 @@ De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen
 
 ### HOOFDSTUK 4. SCHIKKING VAN VORDERINGEN
 
-#### Artikel 28. Kennisgeving van schade
+##### Artikel 28. Kennisgeving van schade
 
 1. Wanneer gedeeltelijk verlies van of een beschadiging aan de goederen zichtbaar is en de geadresseerde of de afzender hiervan niet uiterlijk bij aflevering van de goederen kennis geeft, wordt aangenomen dat de goederen zijn afgeleverd in een staat die in overeenstemming is met de vervoerovereenkomst. In de kennisgeving moet de schade voldoende duidelijk worden gespecificeerd.
 
@@ -430,7 +441,7 @@ De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen
 
 4. Indien van verlies, beschadiging of vertraging in de aflevering wordt kennis gegeven, volstaat het om de persoon die de goederen aflevert hiervan in kennis te stellen. Na aflevering wordt elke kennisgeving van schade in tekstvorm (bijvoorbeeld e-mail) aan de vervoerder gegeven. Verzending binnen de van toepassing zijnde kennisgevingstermijn volstaat.
 
-#### Artikel 29. Vorderingen
+##### Artikel 29. Vorderingen
 
 1. Vorderingen met betrekking tot de vervoerovereenkomst moeten in tekstvorm (bijvoorbeeld e-mail) worden gericht aan de vervoerder tegen wie een vordering kan worden ingesteld.
 
@@ -446,7 +457,7 @@ De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen
 
 7. De persoon die gerechtigd is om een vordering tegen de vervoerder in te stellen, kan aanspraak maken op rente op schadevergoeding, berekend volgens het toepasselijke nationale recht, vanaf de dag waarop de vordering tot de vervoerder is gericht of, indien een dergelijke vordering niet is ingediend, vanaf de dag waarop een gerechtelijke procedure is ingesteld.
 
-#### Artikel 30. Recht om een vordering tegen de vervoerder in te stellen
+##### Artikel 30. Recht om een vordering tegen de vervoerder in te stellen
 
 1. De afzender kan een vordering instellen met betrekking tot de vervoerovereenkomst zolang de geadresseerde of een derde dit recht niet heeft op grond van het tweede lid van dit artikel of indien er omstandigheden zijn die aflevering verhinderen.
 
@@ -454,7 +465,7 @@ De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen
 
 3. Een vordering tot terugvordering van een bedrag dat op grond van de vervoerovereenkomst is betaald, kan alleen worden ingesteld door de persoon die de betaling heeft verricht.
 
-#### Artikel 31. Vervoerders tegen wie een vordering kan worden ingesteld
+##### Artikel 31. Vervoerders tegen wie een vordering kan worden ingesteld
 
 1. Vorderingen op basis van de vervoerovereenkomst kunnen worden ingesteld tegen de contractuele vervoerder of tegen de vervoerder die de goederen heeft geleverd of tegen de vervoerder die het deel van het vervoer heeft uitgevoerd waarop het aan de procedure ten grondslag liggende feit zich heeft voorgedaan.
 
@@ -464,7 +475,7 @@ De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen
 
 4. Indien de eiser een keuze heeft tussen meerdere vervoerders, vervalt zijn keuzerecht zodra hij een vordering tegen een van hen heeft ingesteld.
 
-#### Artikel 32. Verjaring
+##### Artikel 32. Verjaring
 
 1. De verjaringstermijn voor een vordering die voortvloeit uit het vervoer krachtens dit Verdrag bedraagt één jaar. De verjaringstermijn bedraagt echter twee jaar in het geval van een vordering:
 
@@ -490,7 +501,7 @@ De voor het begin van de verjaringstermijn aangegeven dag wordt niet in de termi
 
 ### HOOFDSTUK 5. COGNOSSEMENT
 
-#### Artikel 33. Afgifte van een cognossement
+##### Artikel 33. Afgifte van een cognossement
 
 1. Indien de partijen bij de vervoerovereenkomst overeenkomen een verhandelbaar vervoersdocument te gebruiken in plaats van een vrachtbrief, is de vervoerder verplicht een cognossement af te geven met betrekking tot de verplichting om de goederen aan de houder te leveren.
 
@@ -498,7 +509,7 @@ De voor het begin van de verjaringstermijn aangegeven dag wordt niet in de termi
 
 3. In plaats van een papieren cognossement kan een elektronisch cognossement worden gebruikt op voorwaarde dat de bij de vervoerovereenkomst betrokken partijen hiermee akkoord gaan.
 
-#### Artikel 34. Gevolgen van het cognossement; wettiging
+##### Artikel 34. Gevolgen van het cognossement; wettiging
 
 1. [Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=5&z=2023-11-17&g=2023-11-17), en de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=6&z=2023-11-17&g=2023-11-17), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=7&z=2023-11-17&g=2023-11-17), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=9&z=2023-11-17&g=2023-11-17) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=10&z=2023-11-17&g=2023-11-17) zijn van overeenkomstige toepassing wanneer een cognossement is afgegeven. De goederen worden vergezeld door een afschrift van het cognossement.
 
@@ -506,7 +517,7 @@ De voor het begin van de verjaringstermijn aangegeven dag wordt niet in de termi
 
 3. Elke vordering op grond van een vervoerovereenkomst die in een cognossement is opgenomen, kan alleen worden ingediend door de persoon die op grond van het cognossement aanspraak kan maken. De cognossementhouder wordt, in diens belang, geacht de persoon te zijn die een vordering kan indienen op grond van het cognossement.
 
-#### Artikel 35. Aflevering tegen overlevering van het cognossement
+##### Artikel 35. Aflevering tegen overlevering van het cognossement
 
 1. Na aankomst van de goederen op de plaats bestemd voor de aflevering heeft de cognossementhouder het recht van de vervoerder te verlangen dat hij de goederen aflevert tegen overhandiging van het cognossement, waarin de aflevering is bevestigd, en tegen betaling van alle bedragen die volgens de vervoerovereenkomst verschuldigd zijn. De vervoerder mag de goederen echter niet aan de cognossementhouder afleveren indien hij weet, of door grove nalatigheid niet weet, dat de cognossementhouder niet de persoon is die gerechtigd is om op grond van het cognossement een vordering in te dienen.
 
@@ -514,13 +525,13 @@ De voor het begin van de verjaringstermijn aangegeven dag wordt niet in de termi
 
 3. Indien de aflevering niet volgens de vervoerovereenkomst kan worden uitgevoerd omdat het cognossement niet aan de vervoerder wordt overgelegd, vraagt de vervoerder aan de persoon die gerechtigd is om op grond van het cognossement een vordering in te dienen om instructies. Indien de vervoerder niet binnen een redelijke termijn wettige en redelijke instructies kan verkrijgen, neemt hij maatregelen overeenkomstig [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=18&z=2023-11-17&g=2023-11-17), maar heeft hij niet het recht om de goederen aan de afzender terug te zenden.
 
-#### Artikel 36. Uitvoeren van instructies
+##### Artikel 36. Uitvoeren van instructies
 
 1. Wanneer een cognossement is afgegeven, heeft alleen de houder ervan het recht van beschikking ingevolge de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=15&z=2023-11-17&g=2023-11-17) en [16](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=16&z=2023-11-17&g=2023-11-17). Indien de omstandigheden het vervoer onmogelijk maken, vraagt de vervoerder de persoon die gerechtigd is op grond van het cognossement een vordering in te dienen om instructies; [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=18&z=2023-11-17&g=2023-11-17) is van toepassing met uitzondering van het recht de goederen aan de afzender te retourneren. De vervoerder mag alleen instructies uitvoeren tegen overlegging van het cognossement. De vervoerder mag echter geen instructies uitvoeren die door de cognossementhouder worden gegeven indien hij weet, of door grove nalatigheid niet weet, dat de cognossementhouder niet de persoon is die gerechtigd is op grond van het cognossement een vordering in te dienen.
 
 2. Indien de vervoerder instructies uitvoert zonder dat het cognossement aan hem is overgelegd, is hij jegens de persoon die gerechtigd is om op grond van het cognossement een vordering in te dienen aansprakelijk voor de schade die deze laatste eventueel kan lijden. De aansprakelijkheid is beperkt tot het bedrag dat verschuldigd zou zijn geweest indien de goederen verloren waren gegaan.
 
-#### Artikel 37. Bezwaren
+##### Artikel 37. Bezwaren
 
 De vervoerder kan slechts bezwaar maken tegen een vordering van een persoon die gerechtigd is op grond van het cognossement een vordering in te stellen, voor zover:
 
@@ -532,17 +543,17 @@ De vervoerder kan slechts bezwaar maken tegen een vordering van een persoon die 
 
 Verwijzingen naar andere overeenkomsten in het cognossement worden niet beschouwd als een bindend onderdeel van het cognossement.
 
-#### Artikel 38. Cognossement als eigendomstitel
+##### Artikel 38. Cognossement als eigendomstitel
 
 De afgifte en overhandiging van het cognossement aan de daarin aangewezen geadresseerde heeft, in termen van het verwerven van rechten op de goederen, hetzelfde effect als een fysieke overhandiging van de goederen, mits de vervoerder in het bezit is van de goederen. Hetzelfde geldt voor de overdracht van het cognossement aan derden.
 
 ### HOOFDSTUK 6. BETREKKINGEN TUSSEN VERVOERDERS
 
-#### Artikel 39. Vereffening van rekeningen
+##### Artikel 39. Vereffening van rekeningen
 
 Elke vervoerder die bij vertrek of bij aankomst alle kosten die voortvloeien uit de vervoerovereenkomst heeft geïnd of had moeten innen, dient aan de betrokken vervoerders hun respectieve aandelen te betalen. De wijzen van betaling worden in een overeenkomst tussen de vervoerders vastgelegd.
 
-#### Artikel 40. Regresrecht
+##### Artikel 40. Regresrecht
 
 1. Een vervoerder die op grond van dit Verdrag een schadevergoeding heeft betaald, heeft recht van regres tegen de vervoerders die aan het vervoer hebben deelgenomen overeenkomstig de volgende bepalingen:
 
@@ -554,17 +565,17 @@ Elke vervoerder die bij vertrek of bij aankomst alle kosten die voortvloeien uit
 
 2. In geval van onvermogen om te betalen van een van deze vervoerders wordt het onbetaalde deel dat van hem verschuldigd is, verdeeld over alle andere vervoerders die aan het vervoer hebben deelgenomen, in verhouding tot hun respectieve aandeel in de vervoerskosten.
 
-#### Artikel 41. Overeenkomsten inzake regres
+##### Artikel 41. Overeenkomsten inzake regres
 
 De vervoerders kunnen onderling overeenkomsten sluiten die afwijken van de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=6&artikel=39&z=2023-11-17&g=2023-11-17) en [40](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=6&artikel=40&z=2023-11-17&g=2023-11-17).
 
 ### HOOFDSTUK 7. SLOTBEPALINGEN
 
-#### Artikel 42. Secretariaat
+##### Artikel 42. Secretariaat
 
 De uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties verzorgt secretariaatsdiensten voor dit Verdrag.
 
-#### Artikel 43. Procedures voor ondertekening van en voor partij worden bij het Verdrag
+##### Artikel 43. Procedures voor ondertekening van en voor partij worden bij het Verdrag
 
 1. Dit Verdrag staat tot en met 31 maart 2025 open voor ondertekening door alle Staten op het Hoofdkwartier van de Verenigde Naties te New York.
 
@@ -572,19 +583,19 @@ De uitvoerend secretaris van de Economische Commissie voor Europa van de Verenig
 
 3. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding dienen te worden nedergelegd bij de depositaris.
 
-#### Artikel 44. Inwerkingtreding
+##### Artikel 44. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking zes maanden na de datum waarop vijf Staten hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd.
 
 2. Ten aanzien van iedere Staat die dit Verdrag bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de datum van de nederlegging van de vijfde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt dit Verdrag in werking zes maanden na de datum van nederlegging door de betreffende Staat van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel 45. Opzegging
+##### Artikel 45. Opzegging
 
 1. Elke partij kan dit Verdrag opzeggen door middel van een officiële schriftelijke kennisgeving aan de depositaris.
 
 2. De opzegging wordt van kracht zes maanden na de datum van ontvangst van de kennisgeving van opzegging door de depositaris.
 
-#### Artikel 46. Regeling van geschillen
+##### Artikel 46. Regeling van geschillen
 
 1. Elk geschil tussen twee of meer partijen betreffende de uitlegging of toepassing van dit Verdrag wordt zoveel mogelijk geregeld door middel van onderhandelingen tussen de partijen.
 
@@ -600,7 +611,7 @@ De uitvoerend secretaris van de Economische Commissie voor Europa van de Verenig
 
 7. Elke partij bij het geschil draagt de kosten van haar eigen arbiter, alsmede die van haar vertegenwoordigers bij de arbitrageprocedure; de kosten van de voorzitter en de overige kosten worden gelijkelijk gedragen door de partijen bij het geschil.
 
-#### Artikel 47. Voorbehouden
+##### Artikel 47. Voorbehouden
 
 1. Elke partij kan, bij de ondertekening, bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag, verklaren zich niet gebonden te achten door [artikel 46, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=7&artikel=46&z=2023-11-17&g=2023-11-17), van dit Verdrag. Andere partijen zijn niet gebonden door deze leden ten aanzien van elke partij die een dergelijk voorbehoud heeft gemaakt.
 
@@ -608,7 +619,7 @@ De uitvoerend secretaris van de Economische Commissie voor Europa van de Verenig
 
 3. Afgezien van de voorbehouden bedoeld in [artikel 1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=1&artikel=1&z=2023-11-17&g=2023-11-17), en in het eerste lid van dit artikel, is geen voorbehoud bij dit Verdrag toegestaan.
 
-#### Artikel 48. Procedures voor het wijzigen van de bepalingen van het Verdrag
+##### Artikel 48. Procedures voor het wijzigen van de bepalingen van het Verdrag
 
 1. Nadat dit Verdrag één jaar van kracht is kan het overeenkomstig de in dit artikel omschreven procedure worden gewijzigd.
 
@@ -630,7 +641,7 @@ De uitvoerend secretaris van de Economische Commissie voor Europa van de Verenig
 
 10. Elke akte die wordt nedergelegd na de inwerkingtreding van een wijziging van dit Verdrag wordt geacht van toepassing te zijn op het Verdrag zoals gewijzigd.
 
-#### Artikel 49. Bijeenroeping van een conferentie
+##### Artikel 49. Bijeenroeping van een conferentie
 
 1. Zodra dit Verdrag in werking is getreden, kan elke partij door middel van een kennisgeving aan het secretariaat van het Verdrag verzoeken om bijeenroeping van een conferentie teneinde dit Verdrag te herzien. Het secretariaat van het Verdrag stelt alle partijen in kennis van het verzoek en roept een conferentie tot herziening bijeen, mits binnen een tijdvak van vier maanden na de datum van de kennisgeving van het secretariaat van het Verdrag ten minste een vierde van de partijen bij dit Verdrag het secretariaat ervan in kennis stelt met het verzoek in te stemmen.
 
@@ -638,7 +649,7 @@ De uitvoerend secretaris van de Economische Commissie voor Europa van de Verenig
 
 3. Het secretariaat van het Verdrag nodigt alle Staten bedoeld in [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=7&artikel=43&z=2023-11-17&g=2023-11-17), van dit Verdrag uit voor elke conferentie die bijeengeroepen wordt.
 
-#### Artikel 50. Nederlegging van dit Verdrag bij de Secretaris-Generaal
+##### Artikel 50. Nederlegging van dit Verdrag bij de Secretaris-Generaal
 
 De Secretaris-Generaal van de Verenigde Naties wordt hierbij aangewezen als depositaris van dit Verdrag, die alle ondertekenende en toetredende Staten een voor eensluidend gewaarmerkt afschrift zal doen toekomen.
 

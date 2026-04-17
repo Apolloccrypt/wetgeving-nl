@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, aanwijzing bezwaarschriften tegen aanslagen inkomstenbelasting 2020 als massaal bezwaar"
 identifier: "BWBR0045190"
-categorie: "Belastingrecht"
-publicatiedatum: 2021-06-02
-laatste_update: 2021-06-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045190"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2021-06-02"
+last_updated: "2021-06-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045190"
+soort: "beleidsregel"
+stam_id: "15972683"
+version_id: "27794282"
+internal_id: "C39200361"
+label_id: "15906754"
+dtd_version: "2.0"
+original_entry_into_force: "2021-06-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045190/2021-06-02/0"
+intitule_bron: "Stcrt.2021-28130"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-05-28"
+intitule_published: "2021-06-01"
+intitule_in_force: "2021-06-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-28130"
+original_signed_date: "2021-05-28"
+original_published_date: "2021-06-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-28130"
+entry_into_force_date: "2021-06-02"
+jci_1_3: "jci1.3:c:BWBR0045190&z=2021-06-02&g=2021-06-02"
+jci_1_0: "1.0:c:BWBR0045190&g=2021-06-02"
+citeertitel_status: "redactioneel"
+signed_date: "2021-05-28"
+entry_into_force: "2021-06-02"
 ---
-
 # Inkomstenbelasting, aanwijzing bezwaarschriften tegen aanslagen inkomstenbelasting 2020 als massaal bezwaar
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

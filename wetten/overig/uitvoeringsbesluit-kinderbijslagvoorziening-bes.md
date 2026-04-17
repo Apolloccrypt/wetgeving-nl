@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit kinderbijslagvoorziening BES"
+title: "Besluit van 17 december 2015, houdende nadere regels omtrent de weigering en terugvordering van kinderbijslag BES op grond van de Wet kinderbijslagvoorziening BES (Uitvoeringsbesluit kinderbijslagvoorziening BES)"
 identifier: "BWBR0037412"
-categorie: "Overig"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037412"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037412"
+soort: "AMvB-BES"
+stam_id: "13358933"
+version_id: "22901322"
+internal_id: "C33122151"
+label_id: "13326794"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037412/2016-01-01/0"
+intitule_bron: "Stb.2015-536"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-17"
+intitule_published: "2015-12-24"
+intitule_in_force: "2015-12-24"
+intitule_status: "goed"
+original_publication: "Stb.2015-536"
+original_signed_date: "2015-12-17"
+original_published_date: "2015-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2015-536"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0037412&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBR0037412&g=2016-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit kinderbijslagvoorziening BES"
+signed_date: "2015-12-17"
+entry_into_force: "2016-01-01"
 ---
-
 # Besluit van 17 december 2015, houdende nadere regels omtrent de weigering en terugvordering van kinderbijslag BES op grond van de Wet kinderbijslagvoorziening BES (Uitvoeringsbesluit kinderbijslagvoorziening BES)
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 30 november 2015, nr. 2015-0000306775;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepaling
 
-#### Artikel 1. Algemene begrippen
+##### Artikel 1. Algemene begrippen
 
 In dit besluit wordt verstaan onder:
 
@@ -32,11 +58,11 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Maatregel
 
-#### Artikel 2. Besluit oplegging maatregel
+##### Artikel 2. Besluit oplegging maatregel
 
 Een besluit tot oplegging van een maatregel wordt schriftelijk meegedeeld en vermeldt de reden voor het opleggen van deze maatregel, alsmede de hoogte en duur van de maatregel.
 
-#### Artikel 3. Hoogte en duur
+##### Artikel 3. Hoogte en duur
 
 1. Een maatregel wordt afgestemd op de ernst van de gedraging en de mate waarin de rechthebbende de gedraging verweten kan worden.
 
@@ -54,45 +80,45 @@ Een besluit tot oplegging van een maatregel wordt schriftelijk meegedeeld en ver
 
 4. Indien aan de rechthebbende een maatregel is opgelegd en binnen twee jaar na de datum van het besluit opnieuw dezelfde verplichting niet of niet behoorlijk wordt nagekomen wordt het minimumbedrag, bedoeld in de aanhef van het tweede lid, alsmede het percentage van de op te leggen maatregel, bedoeld in het tweede lid, aanhef en onderdeel a, met 50 procent verhoogd.
 
-#### Artikel 4. Afzien opleggen maatregel
+##### Artikel 4. Afzien opleggen maatregel
 
 1. Onze Minister kan afzien van het opleggen van een maatregel en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet tijdig nakomen van de verplichting, bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037347&artikel=14) indien het niet tijdig nakomen van de verplichting niet heeft geleid tot het ten onrechte of tot een te hoog bedrag toekennen van kinderbijslag BES, tenzij het niet tijdig nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de rechthebbende een zodanige waarschuwing is gegeven.
 
 2. Onze Minister kan afzien van het opleggen van een maatregel indien daarvoor dringende redenen aanwezig zijn.
 
-#### Artikel 5. Samenloop
+##### Artikel 5. Samenloop
 
 Indien sprake is van het niet of niet behoorlijk nakomen van meer dan één verplichting als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037412&hoofdstuk=2&artikel=3&z=2016-01-01&g=2016-01-01), en het niet of niet behoorlijk nakomen van deze verplichtingen voortkomt uit één oorzaak wordt slechts één maatregel opgelegd. Hierbij wordt de zwaarste maatregel opgelegd.
 
 ### Hoofdstuk 3. Terugvordering
 
-#### Artikel 6. Besluit tot terugvordering
+##### Artikel 6. Besluit tot terugvordering
 
 1. Een besluit tot terugvordering van kinderbijslag BES wordt schriftelijk meegedeeld en vermeldt de reden voor terugvordering, hetgeen wordt teruggevorderd, de termijn of termijnen waarbinnen moet worden betaald, alsmede de wijze waarop het besluit, bij gebreke van tijdige betaling, ten uitvoer wordt gelegd.
 
 2. Degene van wie kinderbijslag BES wordt teruggevorderd, is verplicht desgevraagd aan Onze Minister de informatie te verstrekken die voor terugvordering van belang kan zijn.
 
-#### Artikel 7. Afzien van terugvordering
+##### Artikel 7. Afzien van terugvordering
 
 1. Onze Minister kan afzien van gehele of gedeeltelijke terugvordering indien daarvoor dringende redenen aanwezig zijn.
 
 2. Onze Minister kan afzien van terugvordering indien het terug te vorderen bedrag minder dan USD 50 bedraagt.
 
-#### Artikel 8. Verrekenen
+##### Artikel 8. Verrekenen
 
 Indien degene van wie kinderbijslag BES wordt teruggevorderd kinderbijslag BES ontvangt, kan het besluit tot terugvordering door Onze Minister ten uitvoer worden gelegd door verrekening van de ten onrechte uitbetaalde kinderbijslag BES met de nog te betalen kinderbijslag BES.
 
-#### Artikel 9. Verhoging terug te vorderen bedrag
+##### Artikel 9. Verhoging terug te vorderen bedrag
 
 Bij gebreke van tijdige betaling kan het terug te vorderen bedrag worden verhoogd met de wettelijke rente en de op de terugvordering betrekking hebbende kosten.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2016.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit kinderbijslagvoorziening BES.
 

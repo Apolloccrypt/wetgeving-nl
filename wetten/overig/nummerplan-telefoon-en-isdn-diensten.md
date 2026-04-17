@@ -1,24 +1,49 @@
 ---
 title: "Nummerplan telefoon- en ISDN-diensten"
 identifier: "BWBR0010198"
-categorie: "Overig"
-publicatiedatum: 2025-10-03
-laatste_update: 2025-10-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010198"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-03"
+last_updated: "2025-10-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010198"
+soort: "ministeriele-regeling"
+stam_id: "5152073"
+version_id: "30794942"
+internal_id: "C44139031"
+label_id: "5127754"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010198/2025-10-03/0"
+intitule_bron: "Stcrt.1999-14"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-01-11"
+intitule_published: "1999-01-21"
+intitule_in_force: "1999-01-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-23082"
+original_signed_date: "2025-06-25"
+original_published_date: "2025-07-03"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-23082"
+entry_into_force_date: "2025-06-25"
+jci_1_3: "jci1.3:c:BWBR0010198&z=2025-10-03&g=2025-10-03"
+jci_1_0: "1.0:c:BWBR0010198&g=2025-10-03"
+citeertitel_status: "officieel"
+signed_date: "2025-06-25"
+entry_into_force: "2025-06-25"
 ---
-
 # Nummerplan telefoon- en ISDN-diensten
 
 Gelet op [artikel 4.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.1);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een nummer als bedoeld in dit besluit bestaat uitsluitend uit cijfers.
 
@@ -26,7 +51,7 @@ In dit besluit wordt verstaan onder:
 
 3. De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2025-10-03&g=2025-10-03), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2025-10-03&g=2025-10-03), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2025-10-03&g=2025-10-03) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=5&z=2025-10-03&g=2025-10-03), genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2025-10-03&g=2025-10-03).
 
-#### Artikel 3
+##### Artikel 3
 
 In de bij dit besluit behorende:
 
@@ -42,25 +67,25 @@ In de bij dit besluit behorende:
 
 - f. [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=6&z=2025-10-03&g=2025-10-03) worden in afwijking van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2025-10-03&g=2025-10-03), nummerreeksen bestemd voor diensten waarbij het aannemelijk is dat het gezamenlijk aantal oproepen en oproeppogingen op piekmomenten hoger zal zijn dan 11 per seconde vastgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een geografisch nummer waarvan het abonneenummer begint met één van de cijfers 0, 1 en 9, is niet beschikbaar voor toekenning of reservering.
 
 2. Een nummer uit de reeks 014 is in afwijking van het bepaalde in het eerste veld van de tabelkop van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2025-10-03&g=2025-10-03), behorende bij dit besluit, beschikbaar zonder toekenning of reservering.
 
-#### Artikel 5
+##### Artikel 5
 
 Een geografisch of niet-geografisch nummer mag niet zijn opgebouwd uit een ander, korter of langer, geografisch of niet-geografisch nummer gevolgd door één of meer cijfers.
 
-#### Artikel 6
+##### Artikel 6
 
 Het [Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198) (Stcrt. 1996, 144) wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Dit besluit wordt aangehaald als: Nummerplan telefoon- en ISDN-diensten.
 
@@ -1313,7 +1338,7 @@ Ligt ter inzage bij het college, Zurichtoren, 3e verdieping, te Den Haag.
 
 Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2001-12-08&g=2001-12-08) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
 
-#### Artikel 1a
+##### Artikel 1a
 
 In dit besluit wordt onder de openbare telefoondienst mede verstaan: een elektronische communicatiedienst die voor het publiek beschikbaar is voor alleen uitgaande gesprekken, onderscheidenlijk alleen inkomende gesprekken, en waarbij sprake is van een directe overdracht en routering van signalen.
 
@@ -1740,7 +1765,7 @@ In dit besluit wordt onder de openbare telefoondienst mede verstaan: een elektro
 
 Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2006-06-28&g=2006-06-28) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
 
-#### Artikel 1b
+##### Artikel 1b
 
 1. Tenzij in de bij een nummer behorende bestemming uitdrukkelijk anders is bepaald, wordt een in dit nummerplan opgenomen nummer niet gebruikt om tegen betaling andere diensten dan elektronische communicatiediensten te leveren indien de betaling van die diensten is opgenomen in de door de aanbieder van de elektronische communicatiedienst opgemaakte rekening.
 
@@ -2191,7 +2216,7 @@ Ligt ter inzage bij het college, Zurichtoren, 3e verdieping, te Den Haag.
 
 Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2011-08-31&g=2011-08-31) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
 
-#### Artikel 1c
+##### Artikel 1c
 
 1. Voor het verzorgen van een elektronische communicatiedienst voor een geautomatiseerde toepassing wordt met ingang van 1 maart 2013 een nummer uit de reeks 0970 gebruikt.
 
@@ -2199,7 +2224,7 @@ Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staats
 
 3. Indien een ander nummer dan een nummer uit de reeksen 067, 0800, 084, 087, 090, 0970 of 1 voor 1 maart 2013 in gebruik is genomen voor een elektronische communicatiedienst voor een geautomatiseerde toepassing, is het verboden dit nummer na de beëindiging van de overeenkomst voor de desbetreffende elektronische communicatiedienst opnieuw te gebruiken voor het verzorgen van een elektronische communicatiedienst voor een geautomatiseerde toepassing.
 
-#### Artikel 1d
+##### Artikel 1d
 
 1. Voor het verzorgen van een elektronische communicatiedienst voor een geautomatiseerde toepassing waarbij door een eindgebruiker voor in totaal maximaal 1000 nummers een of meerdere overeenkomsten worden gesloten met een aanbieder van elektronische communicatiediensten, wordt, in afwijking van [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=1c&z=2025-10-03&g=2025-10-03), eerste lid, met ingang van 1 juni 2014 een nummer uit de reeks 0970 gebruikt.
 
@@ -2288,7 +2313,7 @@ Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staats
 
 Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2015-07-15&g=2015-07-15) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
 
-#### Artikel 1aa
+##### Artikel 1aa
 
 De bij een nummer behorende bestemming geldt voor elk gebruik van dat nummer.
 

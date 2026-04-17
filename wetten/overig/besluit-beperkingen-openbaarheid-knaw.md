@@ -1,13 +1,38 @@
 ---
 title: "Besluit beperkingen openbaarheid KNAW"
 identifier: "BWBR0042850"
-categorie: "Overig"
-publicatiedatum: 2019-12-06
-laatste_update: 2019-12-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042850"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-12-06"
+last_updated: "2019-12-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042850"
+soort: "zbo"
+stam_id: "15263113"
+version_id: "26288602"
+internal_id: "C37366261"
+label_id: "15209114"
+dtd_version: "2.0"
+original_entry_into_force: "2019-12-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042850/2019-12-06/0"
+intitule_bron: "Stcrt.2019-64667"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-11-06"
+intitule_published: "2019-12-05"
+intitule_in_force: "2019-12-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-64667"
+original_signed_date: "2019-11-06"
+original_published_date: "2019-12-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-64667"
+entry_into_force_date: "2019-12-06"
+jci_1_3: "jci1.3:c:BWBR0042850&z=2019-12-06&g=2019-12-06"
+jci_1_0: "1.0:c:BWBR0042850&g=2019-12-06"
+citeertitel_status: "redactioneel"
+signed_date: "2019-11-06"
+entry_into_force: "2019-12-06"
 ---
-
 # Besluit beperkingen openbaarheid KNAW
 
 Gelet op [artikel 15, lid 1, onder a en c van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de algemene rijksarchivaris d.d. 23 mei 2019, met kenmerk #7955061
@@ -16,7 +41,7 @@ BESLUIT,
 
 tot de volgende beperkingen aan de openbaarheid van het archief van de Koninklijke Nederlandse Akademie van Wetenschappen (1908) 1940–1993 (1995):
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -28,7 +53,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 362 | 2042 |
 | 363 | 2047 |
 
-#### Artikel 2
+##### Artikel 2
 
 Met het oog op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen dan wel van derden zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -83,15 +108,15 @@ Met het oog op het anderszins voorkomen van onevenredige bevoordeling of benadel
 | 358 | 2043 |
 | 359 | 2044 |
 
-#### Artikel 3
+##### Artikel 3
 
 De archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042850&artikel=1&z=2019-12-06&g=2019-12-06) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042850&artikel=2&z=2019-12-06&g=2019-12-06) kunnen alleen worden geraadpleegd met toestemming van de beheerder van de archiefbewaarplaats. Verzoeken tot raadpleging dienen schriftelijk te worden ingediend en met redenen omkleed te zijn. De beheerder van de archiefbewaarplaats weegt deze redenen af tegen het belang dat met de openbaarheidsbeperking wordt beschermd. De beheerder kan aan zijn/haar toestemming voorwaarden verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Kopieën van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042850&artikel=1&z=2019-12-06&g=2019-12-06) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042850&artikel=2&z=2019-12-06&g=2019-12-06) kunnen alleen worden verstrekt aan personen die toestemming tot raadpleging hebben verkregen en kunnen aantonen dat de kopieën noodzakelijk zijn voor het doel van hun onderzoek. De beheerder van de archiefbewaarplaats kan voorwaarden verbinden aan het verstrekken van kopieën.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) (1908) 1940–1993 (1995)’.
 

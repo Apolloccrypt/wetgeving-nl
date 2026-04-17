@@ -1,14 +1,37 @@
 ---
-title: "Wijzigingswet Wet op de rechterlijke organisatie"
+title: "Wet van 3 juni 1992, tot wijziging van de Wet op de rechterlijke organisatie, de Ambtenarenwet 1929, de Beroepswet en enkele andere wetten (integratie raden van beroep/Ambtenarengerechten en arrondissementsrechtbanken; vereenvoudiging regelingen vorming en bezetting kamers)"
 identifier: "BWBR0005535"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 1994-04-01
-laatste_update: 1994-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005535"
+country: "nl"
+rank: "wet"
+publication_date: "1994-04-01"
+last_updated: "1994-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005535"
+soort: "wet"
+stam_id: "540613"
+version_id: "792262"
+internal_id: "C792261"
+label_id: "524944"
+dtd_version: "2.0"
+original_entry_into_force: "1992-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005535/1994-04-01/0"
+intitule_bron: "Stb.1992-278"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-06-03"
+intitule_status: "goed"
+original_publication: "Stb.1992-278"
+original_signed_date: "1992-06-03"
+original_effect: "nieuwe-regeling"
+original_dossier: "21967"
+entry_into_force_date: "1992-07-01"
+jci_1_3: "jci1.3:c:BWBR0005535&z=1994-04-01&g=1994-04-01"
+jci_1_0: "1.0:c:BWBR0005535&g=1994-04-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op de rechterlijke organisatie"
+signed_date: "1992-06-03"
+entry_into_force: "1992-07-01"
 ---
-
-# Wijzigingswet Wet op de rechterlijke organisatie
+# Wet van 3 juni 1992, tot wijziging van de Wet op de rechterlijke organisatie, de Ambtenarenwet 1929, de Beroepswet en enkele andere wetten (integratie raden van beroep/Ambtenarengerechten en arrondissementsrechtbanken; vereenvoudiging regelingen vorming en bezetting kamers)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,91 +39,91 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is in het kader van de 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VI
+##### Artikel VI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VII
+##### Artikel VII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IX
+##### Artikel IX
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel X
+##### Artikel X
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XI
+##### Artikel XI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XII
+##### Artikel XII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XV
+##### Artikel XV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XX
+##### Artikel XX
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XXII
+##### Artikel XXII
 
 1. De benoemingen van de voorzitter en de ondervoorzitters van een raad van beroep worden van rechtswege gewijzigd in een benoeming tot vice-president van, onderscheidenlijk rechter in de arrondissementsrechtbank waarvan de zetel gelijk is aan de standplaats van de desbetreffende raad van beroep. De datum van benoeming in het latere ambt wordt gelijkgesteld met de datum van benoeming in het eerdere ambt.
 
@@ -124,41 +147,41 @@ Bevat wijzigingen in andere regelgeving.
 
 11. De benoeming van een ondervoorzitter van het College van beroep studiefinanciering wordt van rechtswege gewijzigd in een benoeming tot lid van het College. De benoeming van een plaatsvervangend voorzitter van het College wordt van rechtswege gewijzigd in een benoeming tot plaatsvervangend lid van het College. De benoeming van een lid van het College wordt van rechtswege gewijzigd in een benoeming tot plaatsvervangend lid van het College, mits het voldoet aan de eisen, genoemd in artikel 48 van de Wet op de rechtelijke organisatie. De datum van benoeming in het latere ambt wordt gelijkgesteld met de datum van benoeming in het eerdere ambt.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 1. De gewezen voorzitters en ondervoorzitters van de raden van beroep hebben gedurende vijf jaren na de inwerkingtreding van deze wet geen zitting in een kamer voor burgerlijke zaken of een kamer voor strafzaken, indien zij aan de president van de arrondissementsbank hebben meegedeeld daartegen bezwaar te hebben.
 
 2. De vice-presidenten van en de rechters in de arrondissementsrechtbanken hebben gedurende vijf jaren na de inwerkingtreding van deze wet geen zitting in een kamer voor bestuursrechtelijke zaken, indien zij aan de president van de arrondissementsrechtbank hebben meegedeeld daartegen bezwaar te hebben.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Vervallen
 
-#### Artikel XXV
+##### Artikel XXV
 
 1. De zaken die bij een raad van beroep aanhangig zijn, worden van rechtswege, in de stand waarin zij zich bevinden, overgedragen aan de arrondissementsrechtbank waarvan de zetel gelijk is aan de standplaats van de desbetreffende raad van beroep.
 
 2. De zaken die bij een Ambtenarengerecht aanhangig zijn, worden van rechtswege, in de stand waarin zij zich bevinden, overgedragen aan de arrondissementsrechtbank waarvan de zetel gelijk is aan de standplaats van het desbetreffende Ambtenarengerecht.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 1. Voor de toepassing van [artikel 155 van de Beroepswet](onbekend) treedt de arrondissementsrechtbank waarvan de zetel gelijk is aan de standplaats van de raad van beroep die de aangevallen uitspraak heeft gewezen, daarvoor in de plaats.
 
 2. Voor de toepassing van [artikel 113 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=113) 1929 treedt de arrondissementsrechtbank waarvan de zetel gelijk is aan de standplaats van het Ambtenarengerecht dat de aangevallen uitspraak heeft gewezen, daarvoor in de plaats.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 1. Voor de toepassing van [artikel 104 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=104) 1929 treedt de arrondissementsrechtbank waarvan de zetel gelijk is aan de standplaats van het Ambtenarengerecht dat de zaak heeft behandeld, daarvoor in de plaats.
 
 2. Voor de toepassing van [artikel 111 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=111) 1929 treedt de arrondissementsrechtbank waarvan de zetel gelijk is aan de standplaats van het Ambtenarengerecht dat de zaak in eerste aanleg heeft behandeld, daarvoor in de plaats.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 1. De administratie en het archief van een raad van beroep worden van rechtswege overgedragen aan de arrondissementsrechtbank waarvan de zetel gelijk is aan de standplaats van de desbetreffende raad van beroep.
 
 2. De administratie en het archief van een Ambtenarengerecht worden van rechtswege overgedragen aan de arrondissementsrechtbank waarvan de zetel gelijk is aan de standplaats van het desbetreffend Ambtenarengerecht.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

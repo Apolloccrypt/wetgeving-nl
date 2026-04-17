@@ -1,13 +1,37 @@
 ---
 title: "Intrekking delegatie bevoegdheden aan Novem"
 identifier: "BWBR0012393"
-categorie: "Overig"
-publicatiedatum: 2001-06-01
-laatste_update: 2001-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012393"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2001-06-01"
+last_updated: "2001-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012393"
+soort: "ministeriele-regeling"
+stam_id: "4000173"
+version_id: "5763182"
+internal_id: "C5965921"
+label_id: "3980114"
+dtd_version: "2.0"
+original_entry_into_force: "2001-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012393/2001-06-01/0"
+intitule_bron: "Stcrt.2001-68"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-04-03"
+intitule_published: "2001-04-05"
+intitule_in_force: "2001-04-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-68"
+original_signed_date: "2001-04-03"
+original_published_date: "2001-04-05"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-06-01"
+jci_1_3: "jci1.3:c:BWBR0012393&z=2001-06-01&g=2001-06-01"
+jci_1_0: "1.0:c:BWBR0012393&g=2001-06-01"
+citeertitel_status: "officieel"
+signed_date: "2001-04-03"
+entry_into_force: "2001-06-01"
 ---
-
 # Intrekking delegatie bevoegdheden aan Novem
 
 Gelet op [artikel 3, vijfde lid, van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3),

@@ -1,13 +1,39 @@
 ---
-title: "Besluit financieel beheer politie"
+title: "Besluit van 8 juni 2015, houdende regels over het financieel beheer van de politie (Besluit financieel beheer politie)"
 identifier: "BWBR0036711"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-04-01
-laatste_update: 2025-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036711"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-04-01"
+last_updated: "2025-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036711"
+soort: "AMvB"
+stam_id: "13183883"
+version_id: "22467752"
+internal_id: "C32246911"
+label_id: "13152384"
+dtd_version: "2.0"
+original_entry_into_force: "2015-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036711/2025-04-01/0"
+intitule_bron: "Stb.2015-222"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-06-08"
+intitule_published: "2015-06-23"
+intitule_in_force: "2015-06-23"
+intitule_status: "goed"
+original_publication: "Stb.2015-222"
+original_signed_date: "2015-06-08"
+original_published_date: "2015-06-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2015-222"
+entry_into_force_date: "2015-07-01"
+jci_1_3: "jci1.3:c:BWBR0036711&z=2025-04-01&g=2025-04-01"
+jci_1_0: "1.0:c:BWBR0036711&g=2025-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit financieel beheer politie"
+signed_date: "2015-06-08"
+entry_into_force: "2015-07-01"
 ---
-
 # Besluit van 8 juni 2015, houdende regels over het financieel beheer van de politie (Besluit financieel beheer politie)
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 19 februari 2015, nr. 616920, gedaan in overeenstemming met Onze Minister van Financiën;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 - i. **jaaraanschrijving:** de jaaraanschrijving, bedoeld in [artikel 45 van het Besluit beheer politie](onbekend).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De begroting en de meerjarenraming geven duidelijk en stelselmatig inzicht in de geraamde baten en lasten, de geraamde investeringen en de financiering hiervan alsmede de ontwikkeling van de vermogenspositie.
 
@@ -52,13 +78,13 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Begrotings- en verantwoordingscyclus
 
-#### Artikel 3
+##### Artikel 3
 
 1. De jaaraanschrijving heeft tevens betrekking op de managementrapportages alsmede op de ontwerpen van de begroting, de meerjarenraming en de jaarrekening.
 
 2. De jaaraanschrijving bevat in ieder geval de modellen op basis waarvan de managementrapportages worden opgesteld alsmede regels over activering.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De korpschef zendt een ontwerp van de begroting van de politie en het daarbij behorende ontwerp van de meerjarenraming voor het komende begrotingsjaar voor 1 juli aan Onze Minister.
 
@@ -66,13 +92,13 @@ In dit besluit wordt verstaan onder:
 
 3. Onze Minister stelt de begroting en de daarbij behorende meerjarenraming voor het komende begrotingsjaar vast na goedkeuring van de begroting voor hetzelfde jaar van zijn Ministerie door de Staten-Generaal.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De korpschef verstrekt jaarlijks uiterlijk op 1 januari aan Onze Minister de informatie die van belang is voor de Voorjaarsnota, bedoeld in [artikel 2.26, derde lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.26).
 
 2. De korpschef verstrekt jaarlijks uiterlijk op 1 september aan Onze Minister de informatie die van belang is voor de Najaarsnota, bedoeld in [artikel 2.26, derde lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.26).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De korpschef verstrekt aan Onze Minister een 4-maands-, een 8-maands- en een 12-maandsmanagementrapportage en afzonderlijke managementrapportages over de maanden tot en met februari, juni en oktober.
 
@@ -80,7 +106,7 @@ In dit besluit wordt verstaan onder:
 
 3. De managementrapportages over de maanden tot en met februari, juni en oktober worden binnen 4 weken na het einde van de betreffende periode verstrekt aan Onze Minister.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De korpschef zendt voor 1 april een ontwerp van de jaarrekening over het afgelopen verslagjaar aan Onze Minister.
 
@@ -90,7 +116,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 3. Begroting en meerjarenraming
 
-#### Artikel 8
+##### Artikel 8
 
 1. De begroting en meerjarenraming bevatten een jaarlijks sluitende raming van de baten en lasten van de politie.
 
@@ -100,7 +126,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 4. Bijdragen
 
-#### Artikel 9
+##### Artikel 9
 
 1. De politie ontvangt uitsluitend bijdragen als bedoeld in [artikel 33 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=33).
 
@@ -108,7 +134,7 @@ In dit besluit wordt verstaan onder:
 
 3. Aan de algemene bijdragen kunnen voorwaarden worden verbonden en aan de bijzondere bijdragen worden voorwaarden verbonden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het totaal van de bijdragen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=4&artikel=9&z=2025-04-01&g=2025-04-01), wordt betaalbaar gesteld in vier termijnen, respectievelijk op 15 januari, 15 april, 15 juli en 15 oktober van elk jaar.
 
@@ -116,7 +142,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 5. De jaarrekening
 
-#### Artikel 11
+##### Artikel 11
 
 1. Voor zover in dit besluit niet anders is bepaald, zijn de [artikelen 361 tot en met 388](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361), met uitzondering van de [artikelen 362, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=362), [363, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=363), [377](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377), [379](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=379), [380](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=380), [381a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=381a), [381b](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=381b), [383](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=383), [383a tot en met 383e](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=383a) en [384, vierde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=384) van toepassing, met dien verstande dat in die artikelen:
 
@@ -148,7 +174,7 @@ In dit besluit wordt verstaan onder:
 
 6. Het verslag van de accountant, bedoeld in het vijfde lid, wordt ter beschikking gesteld aan Onze Minister.
 
-#### Artikel 12
+##### Artikel 12
 
 1. In de jaarrekening wordt verantwoording afgelegd over de besteding van de bijdragen. In de jaarrekening worden tevens de middelen die feitelijk ter beschikking zijn gesteld aan de Politieacademie inzichtelijk gemaakt.
 
@@ -168,11 +194,11 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 6. Liquiditeitsmanagement en eigen vermogen
 
-#### Artikel 13
+##### Artikel 13
 
 Het eigen vermogen bestaat uitsluitend uit een algemene reserve.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het rekening-courantkrediet bij het Ministerie van Financiën bedraagt maximaal € 250 miljoen.
 
@@ -182,7 +208,7 @@ Het eigen vermogen bestaat uitsluitend uit een algemene reserve.
 
 4. De politie maakt gebruik van een door Onze Minister vastgesteld treasurystatuut, waarin in ieder geval de algemene doelstellingen en de richtlijnen en limieten van de financieringsfunctie zijn vastgelegd.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het eigen vermogen van de politie bedraagt ultimo het jaar minimaal 0% en maximaal 5% van de gemiddelde bijdragen van de laatste drie jaar voorafgaand aan het jaar waarover het vermogen wordt berekend.
 
@@ -198,11 +224,11 @@ Het eigen vermogen bestaat uitsluitend uit een algemene reserve.
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 1. In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=6&artikel=13&z=2025-04-01&g=2025-04-01) is in de balans van de politie een bestemmingsreserves toegestaan voor ICT tot maximaal € 366 miljoen.
 
@@ -210,15 +236,15 @@ Vervallen
 
 3. De bestemmingsreserve ICT blijft uiterlijk in stand tot een door Onze Minister te bepalen tijdstip.
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Dit besluit treedt in werking op 1 juli 2015.
 
-#### Artikel 20
+##### Artikel 20
 
 Dit besluit wordt aangehaald als: Besluit financieel beheer politie.
 

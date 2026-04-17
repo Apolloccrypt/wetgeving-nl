@@ -1,14 +1,38 @@
 ---
-title: "Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek enz. (verbeteringen en aanvullingen van overwegend technische aard)"
+title: "Wet van 2 november 1994, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en enkele andere wetten, houdende verbeteringen en aanvullingen van overwegend technische aard"
 identifier: "BWBR0007003"
-categorie: "Onderwijs"
-publicatiedatum: 2005-03-01
-laatste_update: 2005-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007003"
+country: "nl"
+rank: "wet"
+publication_date: "2005-03-01"
+last_updated: "2005-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007003"
+soort: "wet"
+stam_id: "2240773"
+version_id: "3432962"
+internal_id: "C3432961"
+label_id: "2191074"
+dtd_version: "2.0"
+original_entry_into_force: "1994-11-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007003/2005-03-01/0"
+intitule_bron: "Stb.1994-803"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-11-02"
+intitule_status: "goed"
+original_publication: "Stb.1994-803"
+original_signed_date: "1994-11-02"
+original_effect: "nieuwe-regeling"
+original_dossier: "23558"
+entry_into_force_date: "1994-11-23"
+entry_into_force_dossier: "23558"
+jci_1_3: "jci1.3:c:BWBR0007003&z=2005-03-01&g=2005-03-01"
+jci_1_0: "1.0:c:BWBR0007003&g=2005-03-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek enz. (verbeteringen en aanvullingen van overwegend technische aard)"
+signed_date: "1994-11-02"
+entry_into_force: "1994-11-23"
 ---
-
-# Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek enz. (verbeteringen en aanvullingen van overwegend technische aard)
+# Wet van 2 november 1994, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en enkele andere wetten, houdende verbeteringen en aanvullingen van overwegend technische aard
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,77 +40,77 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is een aantal wijziging
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Vervallen
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet op de Raad van State.
 
-#### Artikel VI
+##### Artikel VI
 
 Vervallen
 
-#### Artikel VII
+##### Artikel VII
 
 Vervallen
 
-#### Artikel VIII
+##### Artikel VIII
 
 Vervallen.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel IX
+##### Artikel IX
 
 Bevat wijzigingen in andere regelgeving.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel X
+##### Artikel X
 
 1. Zij die voldoen aan de vereisten van de bepalingen, gewijzigd in de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=III&z=2005-03-01&g=2005-03-01), IV, [V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=V&z=2005-03-01&g=2005-03-01), en VI tot en met [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=IX&z=2005-03-01&g=2005-03-01), zoals deze bepalingen luidden voor de inwerkingtreding van die artikelen, blijven benoembaar in de functies waarop deze bepalingen van toepassing of van overeenkomstige toepassing waren.
 
 2. Het eerste lid is van overeenkomstige toepassing op [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=V&z=2005-03-01&g=2005-03-01).
 
-#### Artikel XI
+##### Artikel XI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XII
+##### Artikel XII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XV
+##### Artikel XV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XVII
+##### Artikel XVII
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
@@ -102,7 +126,7 @@ Bevat wijzigingen in andere regelgeving.
 
 3. In afwijking van het eerste lid treden de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=III&z=2005-03-01&g=2005-03-01) tot en met [X](https://wetten.overheid.nl/jci1.3:c:BWBR0007003&artikel=X&z=2005-03-01&g=2005-03-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Bevat wijzigingen in deze regelgeving.
 

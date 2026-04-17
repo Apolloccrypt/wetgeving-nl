@@ -1,13 +1,39 @@
 ---
-title: "Besluit inhoudende openbaarmaking subsidiegegevens Gemeenschappelijk landbouwbeleid EU-boekjaar 2022"
+title: "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 december 2022, nr. 22557363, inhoudende openbaarmaking van de subsidiegegevens Gemeenschappelijk landbouwbeleid over het EU-boekjaar 2022"
 identifier: "BWBR0047667"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2022-12-24
-laatste_update: 2022-12-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047667"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-12-24"
+last_updated: "2022-12-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047667"
+soort: "ministeriele-regeling"
+stam_id: "16605833"
+version_id: "29124402"
+internal_id: "C41392241"
+label_id: "16524364"
+dtd_version: "2.0"
+original_entry_into_force: "2022-12-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047667/2022-12-24/0"
+intitule_bron: "Stcrt.2022-34981"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-12-19"
+intitule_published: "2022-12-23"
+intitule_in_force: "2022-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-34981"
+original_signed_date: "2022-12-19"
+original_published_date: "2022-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-34981"
+entry_into_force_date: "2022-12-24"
+jci_1_3: "jci1.3:c:BWBR0047667&z=2022-12-24&g=2022-12-24"
+jci_1_0: "1.0:c:BWBR0047667&g=2022-12-24"
+citeertitel_status: "redactioneel"
+short_title: "Besluit inhoudende openbaarmaking subsidiegegevens Gemeenschappelijk landbouwbeleid EU-boekjaar 2022"
+signed_date: "2022-12-19"
+entry_into_force: "2022-12-24"
 ---
-
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 december 2022, nr. 22557363, inhoudende openbaarmaking van de subsidiegegevens Gemeenschappelijk landbouwbeleid over het EU-boekjaar 2022
 
 Gelet op:
@@ -20,7 +46,7 @@ Artikel 6 van [Verordening (EU) nr. 2016/679](32579R2016) van het Europees Parle
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -32,19 +58,19 @@ In dit besluit wordt verstaan onder:
 
 - •. **Verordening (EU) nr. 908/2014:** [Verordening (EU) nr. 908/2014](32014R0908) van de Commissie van 6 augustus 2014 houdende uitvoeringsbepalingen van [Verordening (EU) nr. 1306/2013](32013R1306) van het Europees Parlement en de Raad, wat betreft betaalorganen en andere instanties, financieel beheer, goedkeuring van de rekeningen, voorschriften inzake controles, zekerheden en transparantie (PbEU 2014, L255);
 
-#### Artikel 2
+##### Artikel 2
 
 Over de periode van 16 oktober 2021 tot en met 15 oktober 2022 worden de gegevens openbaar gemaakt over de subsidies en andere steunbedragen van het Gemeenschappelijk landbouwbeleid overeenkomstig de artikelen 111 en 112, eerste alinea, aanhef en onderdeel b, en derde alinea, van [Verordening (EU) nr. 1306/2013](32013R1306) en de artikelen 57, eerste en tweede lid, 58 en 59 van [Verordening (EU) nr. 908/2014](32014R0908).
 
-#### Artikel 3
+##### Artikel 3
 
 De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047667&artikel=2&z=2022-12-24&g=2022-12-24) bedoelde gegevens worden ontleend aan de boekhoudkundige informatie die ten behoeve van de goedkeuring van de rekeningen van het ELGF en het ELFPO aan de Commissie van de Europese Unie wordt verstrekt, bedoeld in [verordening (EU) nr. 908/2014](32014R0908).
 
-#### Artikel 4
+##### Artikel 4
 
 De gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047667&artikel=2&z=2022-12-24&g=2022-12-24), worden uiterlijk 31 mei 2023 openbaar gemaakt.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

@@ -1,20 +1,47 @@
 ---
 title: "Wet educatie en beroepsonderwijs BES"
 identifier: "BWBR0028395"
-categorie: "Onderwijs"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028395"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028395"
+soort: "wet-BES"
+stam_id: "10772083"
+version_id: "18947212"
+internal_id: "C26442071"
+label_id: "10747774"
+dtd_version: "2.0"
+original_entry_into_force: "2011-11-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028395/2026-01-01/0"
+intitule_bron: "Stb.2010-576"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2011-560"
+original_signed_date: "2011-11-07"
+original_published_date: "2011-12-02"
+original_effect: "structuurwijziging"
+original_dossier: "32316"
+original_url_id: "stb-2011-560"
+entry_into_force_date: "2011-11-07"
+entry_into_force_dossier: "32316"
+jci_1_3: "jci1.3:c:BWBR0028395&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0028395&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2011-11-07"
+entry_into_force: "2011-11-07"
 ---
-
 # Wet educatie en beroepsonderwijs BES
 
 ### Hoofdstuk 1. Algemeen
 
 ## Titel 1. Definities, aard bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -68,7 +95,7 @@ In deze wet wordt verstaan onder:
 
 ## Titel 2. Doelstellingen onderwijs
 
-#### Artikel 2
+##### Artikel 2
 
 1. Secundair beroepsonderwijs is gericht op de theoretische en praktische voorbereiding voor de uitoefening van beroepen waarvoor een beroepskwalificerende opleiding is vereist of dienstig kan zijn. Het secundair beroepsonderwijs bevordert tevens de algemene vorming en de persoonlijke ontplooiing van de deelnemers en draagt bij tot het maatschappelijk functioneren. Secundair beroepsonderwijs sluit aan op het voorbereidend secundair beroepsonderwijs. Beroepsonderwijs omvat niet hoger onderwijs.
 
@@ -78,7 +105,7 @@ In deze wet wordt verstaan onder:
 
 ## Titel 3. Instellingen voor educatie en beroepsonderwijs
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister kan op aanvraag van het bevoegd gezag van een instelling een opleiding erkennen, verzorgd door die instelling. Erkenning houdt in dat aan de met goed gevolg afgelegde examens of onderdelen van examens van die opleiding een diploma of certificaat als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=3&titeldeel=4&artikel=30&z=2010-10-10&g=2011-01-01) is verbonden. Voorwaarde voor erkenning is dat de desbetreffende instelling voor die opleiding in acht neemt hetgeen bij of krachtens deze wet is bepaald ten aanzien van:
 
@@ -116,7 +143,7 @@ In deze wet wordt verstaan onder:
 
 ## Titel 2. Voorwaarden voor licentie cursus educatie
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister kan op aanvraag van het bevoegd gezag van een instelling een licentie verlenen voor het verzorgen van een cursus educatie. Een licentie houdt in dat de instelling bevoegd is deze cursus educatie te verzorgen. Voorwaarde voor het verkrijgen van een licentie is dat de instelling voor die cursus in acht neemt hetgeen bij of krachtens deze wet is bepaald ten aanzien van:
 
@@ -136,7 +163,7 @@ de zorg voor de ontwikkeling van het onderwijs op de instelling.
 
 ## Titel 1. Voorwaarden voor erkenning opleidingen
 
-#### Artikel 5
+##### Artikel 5
 
 Bij de uitvoering van hun taak dragen de instellingen die bekostigde opleidingen verzorgen onverminderd het bij of krachtens deze wet bepaalde, mede zorg voor:
 
@@ -146,7 +173,7 @@ Bij de uitvoering van hun taak dragen de instellingen die bekostigde opleidingen
 
 - c. de afstemming op de ontwikkelingen in de samenleving op nationaal en internationaal gebied in het algemeen en ten aanzien van de arbeidsmarkt in het bijzonder.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het bevoegd gezag richt een stelsel van kwaliteitszorg voor de instelling in en draagt er in dat verband zorg voor dat wordt voorzien in een regelmatige beoordeling van de kwaliteit van het secundair beroepsonderwijs en de educatie.
 
@@ -156,7 +183,7 @@ Bij de uitvoering van hun taak dragen de instellingen die bekostigde opleidingen
 
 ## Titel 2. Voorwaarden voor licentie cursus educatie
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister kan, de ROA gehoord, ten aanzien van een opleiding die de instelling verzorgt, de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=1&artikel=3&z=2010-10-10&g=2011-01-01) bedoelde erkenning intrekken, indien:
 
@@ -172,7 +199,7 @@ Bij de uitvoering van hun taak dragen de instellingen die bekostigde opleidingen
 
 5. In afwijking van het eerste lid vervalt de erkenning van rechtswege vanaf het tijdstip waarop de opleiding niet langer is opgenomen in het Centraal register.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voordat Onze Minister een beschikking treft op grond van [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=4&artikel=7&z=2010-10-10&g=2011-01-01), geeft hij aan het bevoegd gezag een waarschuwing op grond van zijn bevindingen ten aanzien van de kwaliteit van de opleiding, en doet hij daarvan mededeling in het Centraal register. Onze Minister geeft niet eerder toepassing aan artikel 7, eerste lid, onderdeel a, dan nadat:
 
@@ -184,7 +211,7 @@ Bij de uitvoering van hun taak dragen de instellingen die bekostigde opleidingen
 
 ## Titel 4. Erkenning beroepsopleidingen en opleidingen educatie
 
-#### Artikel 9
+##### Artikel 9
 
 1. Onze Minister kan, gehoord de ROA, een in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=2&artikel=4&z=2010-10-10&g=2011-01-01) bedoelde licentie voor het verzorgen van een bepaalde cursus educatie aan het bevoegd gezag ontnemen, indien:
 
@@ -196,7 +223,7 @@ Bij de uitvoering van hun taak dragen de instellingen die bekostigde opleidingen
 
 ## Titel 5. Raad onderwijs arbeidsmarkt
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het Centraal register secundair beroepsonderwijs is een systematisch geordende verzameling gegevens met betrekking tot de opleidingen die door de instellingen worden verzorgd. Onze Minister is belast met de aanleg, het beheer en de bekendmaking van het register en met het verstrekken van informatie uit het register.
 
@@ -230,7 +257,7 @@ Bij de uitvoering van hun taak dragen de instellingen die bekostigde opleidingen
 
 6. Onze Minister registreert de erkende opleidingen met inachtneming van het vijfde lid overeenkomstig de door het bevoegd gezag overgelegde gegevens in het Centraal register en doet de ROA daarvan mededeling.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onverminderd [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=4&artikel=7&z=2010-10-10&g=2011-01-01) beëindigt Onze Minister de registratie van een opleiding indien het bevoegd gezag te kennen geeft dat de instelling de opleiding niet langer zal verzorgen.
 
@@ -240,7 +267,7 @@ Bij de uitvoering van hun taak dragen de instellingen die bekostigde opleidingen
 
 4. Het derde lid is niet van toepassing indien het een opleiding betreft waarvan bij de aanvraag om erkenning reeds is aangegeven dat het een opleiding op afroep betreft.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het is anderen dan de instellingen die daartoe ingevolge deze wet gerechtigd zijn, verboden onderwijs aan te bieden of te verzorgen onder de naam van een in het Centraal register opgenomen opleiding.
 
@@ -250,7 +277,7 @@ Bij de uitvoering van hun taak dragen de instellingen die bekostigde opleidingen
 
 ## Titel 6. De exameninstellingen
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bij de opleidingen wordt het onderwijs gegeven en worden de examens afgenomen in het Nederlands of in het Engels, naar keuze van het bevoegd gezag, dan wel voor zover het betreft de assistent-opleiding en de basisberoepsopleiding op Bonaire,ter keuze van het bevoegd gezag in het Nederlands of in het Papiamentu. Bij het bepalen van zijn laatstgenoemde keuze betrekt het bevoegd gezag ten minste in zijn overwegingen:
 
@@ -270,7 +297,7 @@ Bij de uitvoering van hun taak dragen de instellingen die bekostigde opleidingen
 
 - b. indien de specifieke aard, de inrichting of de kwaliteit van het onderwijs dan wel de herkomst van de deelnemers daartoe noodzaakt.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De instelling biedt het onderwijs aan in de vorm van opleidingen of cursussen educatie. Een opleiding wordt door de instelling in het maatschappelijk verkeer aangeduid met de naam waaronder deze opleiding is vermeld in het Centraal register.
 
@@ -280,13 +307,13 @@ Bij de uitvoering van hun taak dragen de instellingen die bekostigde opleidingen
 
 4. Elke cursus educatie wordt afgesloten met een toets.
 
-#### Artikel 15
+##### Artikel 15
 
 Eindtermen zijn als zodanig omschreven kwaliteiten op het gebied van kennis, inzicht, vaardigheden en in voorkomende gevallen beroepshoudingen, waarover degene die de opleiding voltooit, met het oog op het maatschappelijk en beroepsmatig functioneren dient te beschikken, en die in voorkomende gevallen betekenis hebben voor de doorstroming naar vervolgonderwijs.
 
 ## Titel 2. Wijze van bekostiging
 
-#### Artikel 16
+##### Artikel 16
 
 1. De volgende soorten opleidingen worden onderscheiden:
 
@@ -312,13 +339,13 @@ Eindtermen zijn als zodanig omschreven kwaliteiten op het gebied van kennis, inz
 
 5. Aan de in het eerste lid bedoelde opleidingen kunnen ten behoeve van individuele deelnemers voorbereidende en ondersteunende activiteiten worden toegevoegd ter bevordering van het kunnen instromen in en met gunstig gevolg voltooien van de opleiding. Deze activiteiten maken geen deel uit van de opleiding. Voorbereidende en ondersteunende activiteiten zijn bestemd voor deelnemers wier vooropleiding naar het oordeel van het bevoegd gezag onvoldoende uitzicht biedt op verwezenlijking van de eindtermen van de opleiding binnen redelijke tijd.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Eindtermen voor opleidingen zijn onderverdeeld in deelkwalificaties. Een deelkwalificatie is een combinatie van eindtermen, vastgesteld voor een bepaalde opleiding, die in het licht van de uitoefening van het beroep waarop de opleiding is gericht een zelfstandige betekenis hebben.
 
 2. Indien ten aanzien van een bepaald beroep bij of krachtens een wet vereisten zijn vastgesteld ten aanzien van de kwaliteiten op het gebied van kennis, inzicht, vaardigheden of beroepshoudingen waarover degenen die een opleiding gericht op dat beroep voltooien, moeten beschikken, neemt Onze Minister deze vereisten in acht bij de vaststelling van de eindtermen voor opleidingen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Met het oog op de totstandkoming van een landelijke kwalificatiestructuur, gericht op de aansluiting tussen het aanbod van het secundair beroepsonderwijs en de maatschappelijke behoeften daaraan, mede in het licht van de arbeidsmarktperspectieven voor afgestudeerden, draagt Onze Minister, in voorkomende gevallen in overeenstemming met Onze Minister wie het gezien de aard van de in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=3&titeldeel=2&artikel=17&z=2010-10-10&g=2011-01-01), bedoelde vereisten mede aangaat, zorg voor het vaststellen en onderhouden van een samenhangend en gedifferentieerd geheel van eindtermen, onderverdeeld in deelkwalificaties, voor opleidingen die voor de desbetreffende bedrijfstakken of beroepencategorieën van betekenis zijn.
 
@@ -340,11 +367,11 @@ Eindtermen zijn als zodanig omschreven kwaliteiten op het gebied van kennis, inz
 
 5. Het eerste tot en met vijfde lid zijn van overeenkomstige toepassing bij wijzigingen ten aanzien van het bepaalde in het tweede lid, onderdelen a tot en met d.
 
-#### Artikel 19
+##### Artikel 19
 
 Elke opleiding kan met inachtneming van [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=3&titeldeel=2&artikel=16&z=2010-10-10&g=2011-01-01), in de leerweg lerend werken of in de leerweg werkend leren worden verzorgd.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het bevoegd gezag stelt de studieduur van de opleiding vast met inachtneming van de studielast. De studieduur kan verschillen voor onderscheiden deelnemers of groepen van deelnemers.
 
@@ -360,11 +387,11 @@ Elke opleiding kan met inachtneming van [artikel 16, derde lid](https://wetten.o
 
 - e. ten hoogste 2 jaren.
 
-#### Artikel 21
+##### Artikel 21
 
 Het bevoegd gezag draagt er zorg voor dat de opleidingen zodanig zijn ingericht dat de deelnemers de eindtermen binnen de vastgestelde studieduur kunnen bereiken.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Van elke opleiding maakt een beroepspraktijkvorming deel uit.
 
@@ -382,7 +409,7 @@ Het bevoegd gezag draagt er zorg voor dat de opleidingen zodanig zijn ingericht 
 
 4. Bij algemene maatregel van bestuur worden voorschriften gegeven ten behoeve van een toereikende kwaliteit van de plaatsen waar de beroepspraktijkvorming wordt verzorgd.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het bevoegd gezag van de instelling draagt zorg voor de totstandkoming van de overeenkomst inzake de beroepspraktijkvorming. De overeenkomst wordt gesloten door de instelling, de deelnemer en het bedrijf dat of de organisatie die de beroepspraktijkvorming verzorgt.
 
@@ -390,7 +417,7 @@ Het bevoegd gezag draagt er zorg voor dat de opleidingen zodanig zijn ingericht 
 
 ## Titel 3. Begroting, verslaglegging en gegevensverstrekking
 
-#### Artikel 24
+##### Artikel 24
 
 De cursussen educatie zijn:
 
@@ -398,13 +425,13 @@ De cursussen educatie zijn:
 
 - b. cursussen, gericht op sociale redzaamheid.
 
-#### Artikel 25
+##### Artikel 25
 
 Onze Minister kan, de ROA gehoord, de eindtermen voor de cursussen educatie vaststellen die in aanmerking komen voor een licentie, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=2&artikel=4&z=2010-10-10&g=2011-01-01).
 
 ## Titel 4. Examens en toetsen
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het bevoegd gezag van een instelling geeft de deelnemers de gelegenheid een examen af te leggen voor opleidingen en voor cursussen educatie.
 
@@ -412,13 +439,13 @@ Onze Minister kan, de ROA gehoord, de eindtermen voor de cursussen educatie vast
 
 3. Het examen van een opleiding bestaat uit afzonderlijke onderdelen. Het examen van een opleiding is met gunstig gevolg afgelegd indien alle onderdelen van die opleiding met gunstig gevolg zijn afgelegd en indien tevens de gevolgde beroepspraktijkvorming gunstig is beoordeeld.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het examen van een opleiding bestaat uit onderdelen die overeenkomen met de deelkwalificaties.
 
 2. Deelnemers die in het bezit zijn van een certificaat van een andere instelling zijn vrijgesteld van het daarmee overeenkomende examenonderdeel.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Onze Minister draagt zorg voor aanvullende kwaliteitsborging van de daartoe op grond van [artikel 18, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=3&titeldeel=2&artikel=18&z=2010-10-10&g=2011-01-01), aangewezen deelkwalificaties. Deze wordt onder zijn bevelen uitgevoerd door het examenbureau. Aanvullende kwaliteitsborging houdt voorzieningen in die waarborgen dat de inhoud en het niveau van de examens ten minste zijn afgestemd op de eindtermen.
 
@@ -428,7 +455,7 @@ Onze Minister kan, de ROA gehoord, de eindtermen voor de cursussen educatie vast
 
 - b. de procedures voor het uitvoeren van aanvullende kwaliteitsborging.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Het bevoegd gezag stelt, al dan niet in samenwerking met een of meer bevoegde gezagsorganen van andere instellingen, een examencommissie in ten behoeve van de organisatie en het afnemen van de examens voor elke door de instelling verzorgde opleiding of voor groepen van opleidingen.
 
@@ -436,7 +463,7 @@ Onze Minister kan, de ROA gehoord, de eindtermen voor de cursussen educatie vast
 
 3. Ten behoeve van het afnemen van het examen wijst de examencommissie, al dan niet uit haar midden, examinatoren aan. Als examinator kunnen slechts worden aangewezen leden van het personeel van de instelling die met het verzorgen van het desbetreffende onderwijs in de desbetreffende onderwijseenheid zijn belast en, wat de beroepspraktijkvorming betreft, uit personen die met het verzorgen van het desbetreffende onderricht zijn belast.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Ten bewijze dat een toets of examenonderdeel met goed gevolg is afgelegd, reikt de examencommissie een bewijsstuk uit. Indien het examenonderdeel een deelkwalificatie betreft, reikt de examencommissie een certificaat uit.
 
@@ -446,7 +473,7 @@ Onze Minister kan, de ROA gehoord, de eindtermen voor de cursussen educatie vast
 
 4. De diploma’s en certificaten worden ingericht volgens door Onze Minister vastgestelde modellen.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Het bevoegd gezag stelt voor elke door de instelling verzorgde opleiding of cursus educatie een onderwijs- en examenregeling vast. De onderwijs- en examenregeling wordt vastgesteld vóór 15 april voorafgaand aan het studiejaar en omvat, voor zover van toepassing, ten minste:
 
@@ -482,19 +509,19 @@ de regels van procedurele aard, bedoeld in [artikel 38](https://wetten.overheid.
 
 2. Het bevoegd gezag stelt, met inachtneming van de onderwijs- en examenregeling, regels vast met betrekking tot de goede gang van zaken tijdens het afnemen van de toetsen, het examen of de examenonderdelen.
 
-#### Artikel 32
+##### Artikel 32
 
 Het bevoegd gezag maakt voor de aanvang van het studiejaar een studiegids openbaar. De studiegids maakt het de aanstaande deelnemer mogelijk, zich een goed beeld te vormen van de inhoud en inrichting van het onderwijs en de examens aan de instelling en omvat in elk geval de onderwijs- en examenregeling van de onderscheiden opleidingen en cursussen educatie.
 
 ## Titel 4. Stimuleringsmiddelen voor educatie en beroepsonderwijs en voor afstemming onderwijs-arbeidsmarkt
 
-#### Artikel 33
+##### Artikel 33
 
 Het bevoegd gezag voorziet, al dan niet tezamen met een of meer andere bevoegde gezagsorganen, in een commissie waarbij deelnemers beroep kunnen aantekenen tegen beslissingen van de examencommissie of van de examinatoren alsmede in een reglement betreffende het in de tweede zinsnede bedoelde beroep. De leden van de beroepscommissie mogen geen lid zijn van het bevoegd gezag of van de examencommissie noch mogen zij examinator zijn.
 
 ## Titel 5. Beheer van de middelen
 
-#### Artikel 34
+##### Artikel 34
 
 1. Bevoegd tot het geven van onderwijs is degene die:
 
@@ -526,7 +553,7 @@ Het bevoegd gezag voorziet, al dan niet tezamen met een of meer andere bevoegde 
 
 - b. voor een periode, langer dan twee jaren, door benoeming in tijdelijke dienst, indien bij de indienstneming schriftelijk is overeengekomen op welke wijze binnen die periode aan de eisen van benoembaarheid zal worden voldaan.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De bewijzen van bekwaamheid, bedoeld in [artikel 34, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=3&titeldeel=6&artikel=34&z=2010-10-10&g=2011-01-01), zijn de bewijzen van bekwaamheid genoemd in de bijlage behorende bij [artikel 36 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=36) die ten minste onderwijsbevoegdheid geven voor de eerste drie klassen van de scholen voor het hoger algemeen voortgezet onderwijs en het voorbereidend wetenschappelijk onderwijs.
 
@@ -538,7 +565,7 @@ Het bevoegd gezag voorziet, al dan niet tezamen met een of meer andere bevoegde 
 
 - c. een aan een erkende universiteit of hogeschool behaald getuigschrift of diploma.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De bevoegdheid tot het geven van onderwijs vervalt van rechtswege bij onherroepelijke veroordeling wegens het misdrijf, bedoeld in [artikel 257 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=257).
 
@@ -548,7 +575,7 @@ Het bevoegd gezag voorziet, al dan niet tezamen met een of meer andere bevoegde 
 
 ## Titel 1. Inschrijving
 
-#### Artikel 37
+##### Artikel 37
 
 1. Eenieder die gebruik wenst te maken van onderwijsvoorzieningen en examenvoorzieningen, dient zich door het bevoegd gezag van de instelling als deelnemer te laten inschrijven. Eenieder die uitsluitend wenst te worden toegelaten tot examenvoorzieningen, dient zich door het bevoegd gezag als examendeelnemer te laten inschrijven. Voor de inschrijving als examendeelnemer is aan het bevoegd gezag een door dat gezag te bepalen vergoeding verschuldigd.
 
@@ -560,15 +587,15 @@ Het bevoegd gezag voorziet, al dan niet tezamen met een of meer andere bevoegde 
 
 5. In afwijking van het derde lid staat de inschrijving voor een assistent-opleiding of basisberoepsopleiding open voor eenieder, met dien verstande dat het bevoegd gezag van een bijzondere instelling kan aangeven dat degenen die wensen te worden ingeschreven, geacht worden de grondslag en de doelstellingen van de instelling te respecteren. De inschrijving kan worden geweigerd dan wel ingetrokken indien de betrokkene de grondslag en de doelstellingen van die instelling niet respecteert. De inschrijving aan een bijzondere instelling kan worden ingetrokken indien is gebleken dat de betrokkene van die inschrijving en de daaraan verbonden rechten misbruik heeft gemaakt door in ernstige mate afbreuk te doen aan de eigen aard van die instelling. De intrekking van de inschrijving geschiedt schriftelijk en is met redenen omkleed. De inschrijving kan niet worden ingetrokken op grond van de tweede volzin indien voor betrokkene geen gelegenheid bestaat de opleiding aan een andere instelling te volgen, onverminderd [artikel 40, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=4&titeldeel=1&artikel=40&z=2010-10-10&g=2011-01-01).
 
-#### Artikel 38
+##### Artikel 38
 
 Het bevoegd gezag kan de inschrijving voor een bepaalde assistent-opleiding of basisberoepsopleiding als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=3&titeldeel=2&artikel=16&z=2010-10-10&g=2011-01-01), opschorten voor zover en voor zolang de organisatorische en technische capaciteit voor het verzorgen van die opleiding, ook na aantoonbare inspanningen van het bevoegd gezag om te komen tot een toereikende capaciteit, daartoe naar zijn oordeel noodzaakt. Met inachtneming van de in de eerste volzin bedoelde beperkingen geschiedt de inschrijving in de volgorde van aanmelding voor de desbetreffende opleiding, volgens in de onderwijs- en examenregeling te geven regels van procedurele aard.
 
-#### Artikel 39
+##### Artikel 39
 
 De toelating tot cursussen educatie staat uitsluitend open voor degene die niet meer leerplichtig is.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Aan de inschrijving voor een opleiding ligt een overeenkomst tussen het bevoegd gezag en de deelnemer ten grondslag.
 
@@ -592,13 +619,13 @@ De toelating tot cursussen educatie staat uitsluitend open voor degene die niet 
 
 6. Het eerste tot en met vijfde lid zijn van overeenkomstige toepassing op examendeelnemers als bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=4&titeldeel=1&artikel=37&z=2010-10-10&g=2011-01-01).
 
-#### Artikel 41
+##### Artikel 41
 
 Elke door een openbare instelling verzorgde opleiding en cursus educatie is toegankelijk voor deelnemers zonder onderscheid naar godsdienst of levensbeschouwing.
 
 ## Titel 1. Personeel van instellingen voor educatie en beroepsonderwijs
 
-#### Artikel 42
+##### Artikel 42
 
 1. Voor inschrijving voor een vakopleiding en een middenkaderopleiding is het bezit vereist van:
 
@@ -624,13 +651,13 @@ Elke door een openbare instelling verzorgde opleiding en cursus educatie is toeg
 
 ## Titel 1. Inschrijving
 
-#### Artikel 43
+##### Artikel 43
 
 1. Openbaar onderwijs wordt gegeven met eerbiediging van ieders godsdienst of levensovertuiging.
 
 2. Het openbaar onderwijs draagt bij aan de ontwikkeling van de deelnemers met aandacht voor de godsdienstige, levensbeschouwelijke en maatschappelijke waarden zoals die leven in de Nederlands Antilliaanse samenleving en met onderkenning van de betekenis van de verscheidenheid van die waarden.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Een eilandsraad kan bij eilandsverordening een openbaar orgaan instellen dat tot doel heeft een openbare instelling in het openbaar lichaam in stand te houden, al dan niet samen met openbare scholen voor funderend onderwijs als bedoeld in de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280) of openbare scholen als bedoeld in de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284).
 
@@ -664,7 +691,7 @@ Elke door een openbare instelling verzorgde opleiding en cursus educatie is toeg
 
 ## Titel 2. Aanspraak op bekostiging
 
-#### Artikel 45
+##### Artikel 45
 
 1. De eilandsraad kan, indien de nodige gelden ter beschikking staan, op aanvraag van het bevoegd gezag van een instelling besluiten dat een opleiding ten aanzien waarvan het bevoegd gezag een erkenning heeft verkregen op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=1&artikel=3&z=2010-10-10&g=2011-01-01), voor bekostiging in aanmerking wordt gebracht. Bij inwilliging van de aanvraag ontstaat de aanspraak op bekostiging met ingang van het studiejaar daaropvolgend.
 
@@ -680,7 +707,7 @@ Elke door een openbare instelling verzorgde opleiding en cursus educatie is toeg
 
 ## Titel 2. Vereisten benoeming of tewerkstelling
 
-#### Artikel 46
+##### Artikel 46
 
 1. De vergoeding voor opleidingen heeft ten minste betrekking op:
 
@@ -724,7 +751,7 @@ Elke door een openbare instelling verzorgde opleiding en cursus educatie is toeg
 
 ## Titel 2. Vereisten benoeming of tewerkstelling
 
-#### Artikel 47
+##### Artikel 47
 
 1. De eilandsraad kan besluiten dat een opleiding, verzorgd door een instelling, niet meer voor bekostiging in aanmerking komt, indien niet langer sprake is van voldoende behoefte aan die opleiding. De wijze waarop wordt vastgesteld dat niet langer sprake is van voldoende behoefte, wordt geregeld bij eilandsverordeningen met dien verstande dat daartoe in elk geval arbeidsmarktonderzoek wordt gerekend.
 
@@ -736,7 +763,7 @@ Elke door een openbare instelling verzorgde opleiding en cursus educatie is toeg
 
 ## Titel 1. Openbaar onderwijs
 
-#### Artikel 48
+##### Artikel 48
 
 1. Aan een instelling kunnen contractactiviteiten worden verricht, bestaande uit werkzaamheden voor eigen rekening ten behoeve van derden. Deze activiteiten kunnen worden verricht indien zij verband houden met werkzaamheden waarvoor de instelling een erkenning heeft verkregen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=1&artikel=3&z=2010-10-10&g=2011-01-01) of een licentie als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=2&artikel=4&z=2010-10-10&g=2011-01-01), en voor zover deze werkzaamheden daardoor niet worden geschaad.
 
@@ -746,13 +773,13 @@ Elke door een openbare instelling verzorgde opleiding en cursus educatie is toeg
 
 ## Titel 3. Benoembaarheidsvereiste voor overig personeel van instellingen
 
-#### Artikel 49
+##### Artikel 49
 
 1. Een bijzondere instelling wordt in stand gehouden door een rechtspersoon met volledige rechtsbevoegdheid die zich blijkens de statuten of reglementen het geven van onderwijs in de zin van deze wet ten doel stelt zonder daarbij het maken van winst te beogen.
 
 2. Het bevoegd gezag zendt elke wijziging van de statuten of reglementen binnen vier weken na vaststelling aan Onze Minister.
 
-#### Artikel 50
+##### Artikel 50
 
 1. De rechtspersoon die een bijzondere instelling in stand houdt, kan de instandhouding van die instelling overdragen bij notariële akte.
 
@@ -766,7 +793,7 @@ Elke door een openbare instelling verzorgde opleiding en cursus educatie is toeg
 
 ## Titel 3. Benoembaarheidsvereiste voor overig personeel van instellingen
 
-#### Artikel 51
+##### Artikel 51
 
 1. De onderwijsgevenden aan een instelling dragen de titel van leraar.
 
@@ -776,17 +803,17 @@ Elke door een openbare instelling verzorgde opleiding en cursus educatie is toeg
 
 4. Het bevoegd gezag kan overig personeel aanwijzen, dat tot taak heeft, het onderwijs te ondersteunen.
 
-#### Artikel 52
+##### Artikel 52
 
 Tot leraar aan een instelling kan slechts worden aangesteld of benoemd hij die ingevolge de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=3&titeldeel=6&artikel=34&z=2010-10-10&g=2011-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=3&titeldeel=6&artikel=35&z=2010-10-10&g=2011-01-01) bevoegd is tot het geven van onderwijs.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Aan de instellingen worden na overleg met de ingevolge [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&artikel=65&z=2010-10-10&g=2011-01-01) met het uitoefenen van het toezicht daarop belaste instantie toegelaten studenten van opleidingen voor onderwijs die voor het halen van bewijzen van bekwaamheid een praktische vorming behoeven.
 
 2. Zij die ingevolge het eerste lid worden toegelaten, zijn in het bezit van een bewijs van goed zedelijk gedrag en een geneeskundige verklaring als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=3&titeldeel=6&artikel=34&z=2010-10-10&g=2011-01-01). Zij zijn werkzaam onder de leiding van een leraar.
 
-#### Artikel 54
+##### Artikel 54
 
 1. De salarissen en de toelagen, door het bevoegd gezag toe te kennen aan de directeur, de adjunct-directeur, de leraren en het overige personeel van de school, worden door het bestuurscollege vastgesteld, na overleg met Onze Minister. Iedere wijziging van de regeling, bedoeld in het eerste lid, geschiedt na overleg met Onze Minister.
 
@@ -794,21 +821,21 @@ Tot leraar aan een instelling kan slechts worden aangesteld of benoemd hij die i
 
 3. Wanneer door een regeling als bedoeld in het eerste lid het peil van het onderwijs naar het oordeel van Onze Minister in ernstig gevaar wordt gebracht, kan hij de regeling bij algemene maatregel van bestuur, wijzigen.
 
-#### Artikel 55
+##### Artikel 55
 
 Het bevoegd gezag benoemt, schorst en ontslaat de directeuren, de adjunct-directeuren, de leraren en het overige personeel.
 
-#### Artikel 56
+##### Artikel 56
 
 Het bevoegd gezag van een instelling draagt ervoor zorg dat afschriften van de in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=3&titeldeel=6&artikel=34&z=2010-10-10&g=2011-01-01) bedoelde bewijzen van bekwaamheid, van de in artikel 34 bedoelde verklaringen omtrent het gedrag, alsmede van de akte van aanstelling dan wel akte van benoeming van het aan de instelling verbonden personeel worden bewaard. Het bevoegd gezag stuurt een afschrift van elke akte van aanstelling dan wel akte van benoeming aan de aan de ingevolge[artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&artikel=65&z=2010-10-10&g=2011-01-01) met het uitoefenen van het toezicht daarop belaste instantie.
 
-#### Artikel 57
+##### Artikel 57
 
 1. De directeuren, de adjunct-directeuren, de leraren en het overige personeel van een bijzondere instelling zijn in het bezit van een door het bevoegd gezag en door henzelf getekende akte van benoeming.
 
 2. De akte van benoeming bevat ten minste de bepaling of de benoeming in vaste of tijdelijke dienst geschiedt, alsmede de bepaling dat de voorschriften betreffende de materiële rechtspositie van het personeel, werkzaam bij het openbaar onderwijs, van overeenkomstige toepassing zijn.
 
-#### Artikel 58
+##### Artikel 58
 
 1. Het bevoegd gezag van een openbare instelling kan het nemen van besluiten mandateren, tenzij bij wettelijk voorschrift anders is bepaald of de aard van de bevoegdheid zich tegen de mandaatverlening verzet. Een door de gemandateerde binnen de grenzen van zijn bevoegdheid genomen besluit geldt als besluit van het bevoegd gezag. De mandaatgever blijft bevoegd de gemandateerde bevoegdheid uit te oefenen.
 
@@ -818,13 +845,13 @@ Het bevoegd gezag van een instelling draagt ervoor zorg dat afschriften van de i
 
 ## Titel 3. Ontneming van rechten exameninstellingen
 
-#### Artikel 59
+##### Artikel 59
 
 Het bevoegd gezag van de instelling stelt een representatief te achten vertegenwoordiging van ouders, leerlingen en personeel ten minste twee maal per jaar in de gelegenheid de algemene gang van zaken in de instelling met hem te bespreken. Voorts komen het bevoegd gezag en de vertegenwoordigers van ouders, leerlingen en personeel bijeen indien daarom onder opgave van redenen door een van hen wordt verzocht. De besprekingen kunnen namens het bevoegd gezag worden gevoerd.
 
 ## Titel 3. Ontneming van rechten exameninstellingen
 
-#### Artikel 60
+##### Artikel 60
 
 1. Indien het bevoegd gezag van een instelling voor wat betreft de opleidingen in strijd handelt met het bepaalde bij of krachtens dit hoofdstuk, kan de eilandsraad bepalen dat de vergoeding geheel of gedeeltelijk wordt ingehouden.
 
@@ -834,7 +861,7 @@ Het bevoegd gezag van de instelling stelt een representatief te achten vertegenw
 
 ### Hoofdstuk 7. Het onderwijs
 
-#### Artikel 61
+##### Artikel 61
 
 1. Het bestuurscollege kan op aanvraag van het bevoegd gezag van een instelling besluiten dat een cursus educatie ten aanzien waarvan het bevoegd gezag een licentie heeft verkregen op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=2&artikel=4&z=2010-10-10&g=2011-01-01), voor bekostiging in aanmerking wordt gebracht. Bij inwilliging van de aanvraag ontstaat de aanspraak op bekostiging met ingang van het studiejaar daaropvolgend.
 
@@ -844,7 +871,7 @@ Bij eilandsverordening wordt vastgesteld de wijze waarop de in het tweede lid be
 
 Indien de aanvraag, bedoeld in het eerste lid, afkomstig is van het bestuurscollege als bevoegd gezag van een openbare instelling wordt in het eerste en tweede lid als mede in [artikel 62, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=6&artikel=62&z=2010-10-10&g=2011-01-01), in plaats van het bestuurscollege gelezen: de eilandsraad.
 
-#### Artikel 62
+##### Artikel 62
 
 1. Het bestuurscollege kan besluiten dat een cursus educatie, verzorgd door een instelling, niet meer voor bekostiging in aanmerking komt, indien niet langer sprake is van voldoende behoefte aan die opleiding. De wijze waarop wordt vastgesteld dat niet langer sprake is van voldoende behoefte, wordt geregeld bij eilandsverordening.
 
@@ -856,7 +883,7 @@ Indien de aanvraag, bedoeld in het eerste lid, afkomstig is van het bestuurscoll
 
 ## Titel 1. Het onderwijs
 
-#### Artikel 63
+##### Artikel 63
 
 1. Het bevoegd gezag, de eilandsraad en het bestuurscollege verschaffen aan Onze Minister alle informatie die deze nodig acht ten behoeve van een goede uitvoering van deze wet en voor het door hem te voeren beleid met betrekking tot het secundair beroepsonderwijs en de educatie.
 
@@ -888,7 +915,7 @@ Indien de aanvraag, bedoeld in het eerste lid, afkomstig is van het bestuurscoll
 
 - d. besluiten tot stopzetting van bekostiging van een cursus educatie, genomen op grond van [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=6&artikel=62&z=2010-10-10&g=2011-01-01).
 
-#### Artikel 64
+##### Artikel 64
 
 Onze Minister stelt de eilandsraad in kennis van:
 
@@ -906,31 +933,31 @@ Onze Minister stelt de eilandsraad in kennis van:
 
 ## Titel 2. Het beroepsonderwijs
 
-#### Artikel 65
+##### Artikel 65
 
 [vervallen]
 
-#### Artikel 66
+##### Artikel 66
 
 [vervallen]
 
-#### Artikel 67
+##### Artikel 67
 
 [vervallen]
 
-#### Artikel 68
+##### Artikel 68
 
 [vervallen]
 
 ## Titel 3. Toezicht overige opleidingen en cursussen educatie
 
-#### Artikel 69
+##### Artikel 69
 
 [vervallen]
 
 ## Titel 4. Beleidsoverleg
 
-#### Artikel 70
+##### Artikel 70
 
 Onze Minister pleegt in elk geval tweemaal per jaar overleg met een vertegenwoordiging van de bevoegde gezagsorganen en het personeel van de instellingen waaraan erkende opleidingen en cursussen educatie met licentie worden verzorgd over aangelegenheden van algemeen beleid met betrekking tot het secundair beroepsonderwijs en de educatie.
 
@@ -938,43 +965,43 @@ Bij eilandsbesluit wordt een Raad van Onderwijs en Arbeidsmarkt ingesteld, welke
 
 ### Hoofdstuk 8. Wijzigingen overige landsverordeningen
 
-#### Artikel 71
+##### Artikel 71
 
 [vervallen]
 
-#### Artikel 72
+##### Artikel 72
 
 [vervallen]
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen
 
-#### Artikel 73
+##### Artikel 73
 
 [vervallen]
 
-#### Artikel 74
+##### Artikel 74
 
 1. De opleidingen die in het schooljaar 2003/2004 werden bekostigd als middelbaar beroepsonderwijs in de zin van de Landsverordening voortgezet onderwijs, worden met ingang van 1 augustus 2004 aangemerkt als erkende en bekostigde opleidingen voor secundair beroepsonderwijs.
 
 2. De niet bekostigde opleidingen die voorafgaand aan de inwerkingtreding van deze wet op grond van artikel 53, eerste lid, van de Landsverordening voortgezet onderwijs zijn aangewezen als middelbaar beroepsonderwijs, worden aangemerkt als erkende niet bekostigde opleidingen voor secundair beroepsonderwijs.
 
-#### Artikel 75
+##### Artikel 75
 
 Voorzover deze wet daarin niet voorziet, alsmede indien nodig in afwijking van het bij of krachtens deze wet bepaalde, kan Onze Minister, desgewenst per openbaar lichaam gedurende maximaal twee jaar na de datum van inwerkingtreding van deze wet voor bepaalde tijd regels vaststellen ten behoeve van de goede invoering van deze wet.
 
-#### Artikel 76
+##### Artikel 76
 
 [vervallen]
 
-#### Artikel 77
+##### Artikel 77
 
 Voor zover deze wet betrekking heeft op educatie, treedt hij in werking op een bij Koninklijk Besluit te bepalen tijdstip.
 
-#### Artikel 78
+##### Artikel 78
 
 Deze wet wordt aangehaald als: Wet educatie en beroepsonderwijs BES.
 
-#### Artikel 1.1.1. Begripsbepalingen
+##### Artikel 1.1.1. Begripsbepalingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -1056,7 +1083,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ## Titel 2. Doelstellingen onderwijs
 
-#### Artikel 1.4.1. Erkenning beroepsopleidingen
+##### Artikel 1.4.1. Erkenning beroepsopleidingen
 
 1. Onze Minister kan op aanvraag van het bevoegd gezag een beroepsopleiding in de beroepsopleidende leerweg of een beroepsopleiding in de beroepsbegeleidende leerweg erkennen indien de kwalificatie waarop de beroepsopleiding is gebaseerd, is opgenomen in de ministeriële regeling, bedoeld in [artikel 7.2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.4&z=2026-01-01&g=2026-01-01).
 
@@ -1090,7 +1117,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 9. Het eerste tot en met achtste lid zijn van overeenkomstige toepassing op een beroepsopleiding in andere dan in het eerste lid genoemde leerwegen, met dien verstande dat voor die opleiding [artikel 7.2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.2&z=2026-01-01&g=2026-01-01), niet van toepassing is en ten aanzien van het onderwijs [artikel 7.2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.6&z=2026-01-01&g=2026-01-01), niet in acht behoeft te worden genomen voor wat betreft de eisen met betrekking tot voldoende begeleide onderwijsuren en uren beroepspraktijkvorming en artikel 7.2.6, tweede tot en met achtste lid, niet in acht behoeft te worden genomen.
 
-#### Artikel 1.4.2. Erkenning opleidingen educatie
+##### Artikel 1.4.2. Erkenning opleidingen educatie
 
 1. Onze Minister kan op aanvraag van het bevoegd gezag een opleiding educatie erkennen.
 
@@ -1116,7 +1143,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Erkenning opleidingen; licenties cursussen educatie
 
-#### Artikel 2.1.1. Vestiging bekostigingsaanspraak beroepsopleidingen
+##### Artikel 2.1.1. Vestiging bekostigingsaanspraak beroepsopleidingen
 
 1. Onze Minister kan, de eilandsraad gehoord, op aanvraag van het bevoegd gezag besluiten dat een beroepsopleiding in de beroepsopleidende leerweg of een beroepsopleiding in de beroepsbegeleidende leerweg ten aanzien waarvan het bevoegd gezag een erkenning heeft verkregen op grond van [artikel 1.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=1&titeldeel=4&artikel=1.4.1&z=2026-01-01&g=2026-01-01), voor bekostiging in aanmerking komt. Bij inwilliging van de aanvraag ontstaat de aanspraak op bekostiging met ingang van het kalenderjaar daaropvolgend.
 
@@ -1132,7 +1159,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. de beroepsopleiding bijdraagt aan het tot stand komen van een samenhangend aanbod met het voorbereidend middelbaar beroepsonderwijs dat wordt bekostigd op grond van de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2.2.1. Rijksbijdrage beroepsonderwijs
+##### Artikel 2.2.1. Rijksbijdrage beroepsonderwijs
 
 1. De rijksbijdrage voor beroepsopleidingen waarop de in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=1&artikel=2.1.1&z=2026-01-01&g=2026-01-01), bedoelde aanspraak betrekking heeft, wordt per instelling berekend en bestaat uit een bedrag per student, waarbij onderscheid kan worden gemaakt naar leerweg.
 
@@ -1162,7 +1189,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - k. zorg voor studenten met specifieke onderwijsbehoefte te verlenen door de instelling.
 
-#### Artikel 2.2.2. Berekeningswijze
+##### Artikel 2.2.2. Berekeningswijze
 
 1. De in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=2&artikel=2.2.1&z=2026-01-01&g=2026-01-01) bedoelde berekeningswijze bevat voor elke instelling en elke beroepsopleiding een gelijkelijk geldende maatstaf.
 
@@ -1176,7 +1203,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 6. In de maatstaf, bedoeld in het tweede lid, kan onderscheid worden gemaakt naar groepen van studenten en naar opleidingen. De maatstaf, bedoeld in het tweede lid, kan verschillend worden vastgesteld voor opleidingen die worden verzorgd door een instelling die deel uitmaakt van een scholengemeenschap als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1).
 
-#### Artikel 2.2.3. Aanvullende middelen
+##### Artikel 2.2.3. Aanvullende middelen
 
 1. Onze Minister kan aan de rijksbijdrage, berekend op grond van [artikel 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=2&artikel=2.2.2&z=2026-01-01&g=2026-01-01), een bedrag toevoegen in verband met:
 
@@ -1190,7 +1217,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Onze Minister kan een bekostigingsplafond instellen. In dat geval worden bij ministeriële regeling regels omtrent de verdeling vastgesteld.
 
-#### Artikel 2.2.5. Bekendmaking, verstrekking en betaling rijksbijdrage
+##### Artikel 2.2.5. Bekendmaking, verstrekking en betaling rijksbijdrage
 
 1. Onze Minister maakt aan elke instelling jaarlijks in december bekend welke rijksbijdrage voor het daarop volgende kalenderjaar wordt verstrekt. Hij deelt daarbij mee op welke wijze de rijksbijdrage is berekend en vermeldt daarbij afzonderlijk het bedrag voor de entreeopleiding, bedoeld in [artikel 7.2.2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.2&z=2026-01-01&g=2026-01-01).
 
@@ -1250,7 +1277,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen
 
-#### Artikel 9.1. Beroep
+##### Artikel 9.1. Beroep
 
 1. In afwijking van [artikel 7, eerste lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=7) kan een belanghebbende beroep instellen bij het Gemeenschappelijke Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba tegen een besluit van Onze Minister jegens een bepaalde instelling op grond van de in het tweede lid genoemde artikelen. De [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=54) en [55 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=55) zijn van overeenkomstige toepassing.
 
@@ -1268,17 +1295,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=10&artikel=10.2&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 9.2. Intreden gevolgen van toekennen van rechten na sprongberoep
+##### Artikel 9.2. Intreden gevolgen van toekennen van rechten na sprongberoep
 
 Indien de uitspraak op een beroep als bedoeld in [artikel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=9&artikel=9.1&z=2026-01-01&g=2026-01-01) strekt tot examinering als bedoeld in [artikel 1.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=1&titeldeel=6&artikel=1.6.1&z=2026-01-01&g=2026-01-01), of registratie in de Registratie instellingen en opleidingen, treden de gevolgen daarvan in met ingang van het studiejaar dat aanvangt in het jaar waarin de uitspraak is gedaan.
 
-#### Artikel 1.1.2. Aard bepalingen beroepsonderwijs
+##### Artikel 1.1.2. Aard bepalingen beroepsonderwijs
 
 1. De bepalingen vastgesteld bij of krachtens de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=1&titeldeel=3&paragraaf=2&artikel=1.3.2&z=2026-01-01&g=2026-01-01), [1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=1&titeldeel=3&paragraaf=3&artikel=1.3.3&z=2026-01-01&g=2026-01-01), [1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=1&titeldeel=3&paragraaf=3&artikel=1.3.5&z=2026-01-01&g=2026-01-01), [2.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=5&artikel=2.5.1&z=2026-01-01&g=2026-01-01), [2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=5&artikel=2.5.2&z=2026-01-01&g=2026-01-01), [4.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=4&titeldeel=1&artikel=4.1.3&z=2026-01-01&g=2026-01-01), [4.2.1 tot en met 4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=4&titeldeel=2&artikel=4.2.1&z=2026-01-01&g=2026-01-01), [6.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=6&titeldeel=1&artikel=6.1.1&z=2026-01-01&g=2026-01-01), [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&z=2026-01-01&g=2026-01-01), [8.1.1 tot en met 8.1.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.1&z=2026-01-01&g=2026-01-01), [8.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.3&z=2026-01-01&g=2026-01-01), [8.1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.4&z=2026-01-01&g=2026-01-01), [8.1.5a tot en met 8.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.6&z=2026-01-01&g=2026-01-01), [8.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=4&artikel=8.4.1&z=2026-01-01&g=2026-01-01), [8.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=4&artikel=8.4.2&z=2026-01-01&g=2026-01-01), [8.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=4&artikel=8.4.3&z=2026-01-01&g=2026-01-01) en [8.4a.1 tot en met 8.4a.16](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=4a&artikel=8.4a.1&z=2026-01-01&g=2026-01-01) zijn regels voor openbare instellingen voor beroepsonderwijs.
 
 2. De bepalingen vastgesteld bij of krachtens de [artikelen 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=1&titeldeel=3&paragraaf=2&artikel=1.3.2&z=2026-01-01&g=2026-01-01), [1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=1&titeldeel=3&paragraaf=3&artikel=1.3.5&z=2026-01-01&g=2026-01-01), [2.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=5&artikel=2.5.1&z=2026-01-01&g=2026-01-01), [2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=5&artikel=2.5.2&z=2026-01-01&g=2026-01-01), [4.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=4&titeldeel=1&artikel=4.1.3&z=2026-01-01&g=2026-01-01), [4.2.1 tot en met 4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=4&titeldeel=2&artikel=4.2.1&z=2026-01-01&g=2026-01-01), [6.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=6&titeldeel=1&artikel=6.1.1&z=2026-01-01&g=2026-01-01), [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&z=2026-01-01&g=2026-01-01), [8.1.1 tot en met 8.1.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.1&z=2026-01-01&g=2026-01-01), [8.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.3&z=2026-01-01&g=2026-01-01), [8.1.4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.4&z=2026-01-01&g=2026-01-01), [8.1.5a tot en met 8.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.6&z=2026-01-01&g=2026-01-01), [8.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=4&artikel=8.4.1&z=2026-01-01&g=2026-01-01), [8.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=4&artikel=8.4.2&z=2026-01-01&g=2026-01-01), [8.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=4&artikel=8.4.3&z=2026-01-01&g=2026-01-01) en [8.4a.1 tot en met 8.4a.16](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=4a&artikel=8.4a.1&z=2026-01-01&g=2026-01-01) zijn voorwaarden voor bekostiging van beroepsopleidingen aan bijzondere instellingen.
 
-#### Artikel 1.2.1. Doelstellingen onderwijs
+##### Artikel 1.2.1. Doelstellingen onderwijs
 
 1. Educatie is gericht op de bevordering van de persoonlijke ontplooiing ten dienste van het maatschappelijk functioneren van volwassenen door de ontwikkeling van kennis, inzicht, vaardigheden en houdingen op een wijze die aansluit bij hun behoeften, mogelijkheden en ervaringen alsmede bij maatschappelijke behoeften. Waar mogelijk sluit de educatie aan op het ingangsniveau van het beroepsonderwijs. Educatie omvat niet activiteiten op het niveau van het hoger onderwijs.
 
@@ -1286,7 +1313,7 @@ Indien de uitspraak op een beroep als bedoeld in [artikel 9.1](https://wetten.ov
 
 #### § 1. Taken instellingen
 
-#### Artikel 1.3.1. Taken instellingen
+##### Artikel 1.3.1. Taken instellingen
 
 Bij de uitvoering van hun taak dragen de instellingen, onverminderd het bij of krachtens deze wet bepaalde, mede zorg voor:
 
@@ -1304,13 +1331,13 @@ Bij de uitvoering van hun taak dragen de instellingen, onverminderd het bij of k
 
 #### § 3. Overige voorschriften
 
-#### Artikel 1.3.3. Karakter openbaar onderwijs
+##### Artikel 1.3.3. Karakter openbaar onderwijs
 
 1. Het openbaar onderwijs draagt bij aan de ontwikkeling van de studenten en vavo-studenten met aandacht voor de godsdienstige, levensbeschouwelijke en maatschappelijke waarden zoals die leven in de Nederlandse samenleving en de Caribische regio en met onderkenning van de betekenis van de verscheidenheid van die waarden.
 
 2. Openbaar onderwijs wordt gegeven met eerbiediging van ieders godsdienst of levensovertuiging.
 
-#### Artikel 1.3.4. Instandhouding instelling
+##### Artikel 1.3.4. Instandhouding instelling
 
 1. Een instelling kan in stand gehouden worden door:
 
@@ -1324,7 +1351,7 @@ Bij de uitvoering van hun taak dragen de instellingen, onverminderd het bij of k
 
 - b. een privaatrechtelijke rechtspersoon.
 
-#### Artikel 1.3.5. Verplichting tot overleg en aangifte inzake zedenmisdrijven
+##### Artikel 1.3.5. Verplichting tot overleg en aangifte inzake zedenmisdrijven
 
 1. Indien het bevoegd gezag op enigerlei wijze bekend is geworden dat een ten behoeve van zijn instelling met taken belast persoon zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf tegen de zeden als bedoeld in het [Tweede Boek, titel XIV, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&titeldeel=XIV) jegens een minderjarige student of vavo-student van de instelling, treedt het bevoegd gezag onverwijld in overleg met de vertrouwensinspecteur, bedoeld in [artikel 6 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=6).
 
@@ -1336,7 +1363,7 @@ Bij de uitvoering van hun taak dragen de instellingen, onverminderd het bij of k
 
 ## Titel 5. Raad onderwijs arbeidsmarkt
 
-#### Artikel 1.5.1. Raad onderwijs arbeidsmarkt
+##### Artikel 1.5.1. Raad onderwijs arbeidsmarkt
 
 1. Onze Minister stelt voor een openbaar lichaam of voor een combinatie van openbare lichamen een Raad onderwijs arbeidsmarkt in.
 
@@ -1348,7 +1375,7 @@ Bij de uitvoering van hun taak dragen de instellingen, onverminderd het bij of k
 
 5. Voor zover het vierde lid van toepassing is, zijn [titel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.1) en [4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) en de [artikelen 4 tot en met 19 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) van toepassing.
 
-#### Artikel 1.5.2. Taken Raad onderwijs arbeidsmarkt
+##### Artikel 1.5.2. Taken Raad onderwijs arbeidsmarkt
 
 1. De raad adviseert Onze Minister over de doelmatigheid van de beroepsopleidingen die de instellingen voornemens zijn te verzorgen of reeds verzorgen, gelet op de arbeidsmarktrelevantie van die opleidingen.
 
@@ -1362,7 +1389,7 @@ Bij de uitvoering van hun taak dragen de instellingen, onverminderd het bij of k
 
 ## Titel 5. Raad onderwijs arbeidsmarkt
 
-#### Artikel 1.6.1. Exameninstellingen
+##### Artikel 1.6.1. Exameninstellingen
 
 1. Onze Minister besluit op aanvraag van het bevoegd gezag van een exameninstelling, dat de exameninstelling het recht heeft tot examinering van een beroepsopleiding in opdracht van een instelling, indien die exameninstelling in acht neemt hetgeen bij of krachtens deze wet is bepaald over:
 
@@ -1374,7 +1401,7 @@ Bij de uitvoering van hun taak dragen de instellingen, onverminderd het bij of k
 
 2. Onze Minister besluit binnen drie maanden na ontvangst van een aanvraag als bedoeld in het eerste lid. Indien de beschikking niet binnen drie maanden kan worden gegeven, stelt Onze Minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.
 
-#### Artikel 2.1.2. Einde bekostiging beroepsopleiding
+##### Artikel 2.1.2. Einde bekostiging beroepsopleiding
 
 1. De aanspraak op bekostiging voor een beroepsopleiding eindigt van rechtswege met ingang van het tijdstip waarop de erkenning ten aanzien van die opleiding is ingetrokken.
 
@@ -1384,7 +1411,7 @@ Bij de uitvoering van hun taak dragen de instellingen, onverminderd het bij of k
 
 ## Titel 1. Planning
 
-#### Artikel 2.2.4. Aftrekposten rijksbijdrage
+##### Artikel 2.2.4. Aftrekposten rijksbijdrage
 
 1. Op de rijksbijdrage, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=2&artikel=2.2.1&z=2026-01-01&g=2026-01-01) kan volgens bij of krachtens algemene maatregel van bestuur te stellen regels een bedrag in mindering worden gebracht in verband met de kosten waarop aanspraak wordt gemaakt door personeel dat is benoemd met voorbijgaan van:
 
@@ -1398,13 +1425,13 @@ Bij de uitvoering van hun taak dragen de instellingen, onverminderd het bij of k
 
 2. Voor de toepassing van het eerste lid wordt, indien het betreft openbaar onderwijs, onder «instelling van het bevoegd gezag» verstaan elke binnen het desbetreffende openbaar lichaam gelegen instelling.
 
-#### Artikel 2.2.6. Voorziening in huisvesting door het openbaar lichaam
+##### Artikel 2.2.6. Voorziening in huisvesting door het openbaar lichaam
 
 De eilandsraad of het bestuurscollege draagt overeenkomstig [hoofdstuk 11, paragraaf 6, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&paragraaf=6) zorg voor de voorzieningen in de huisvesting van instellingen op het grondgebied van het openbaar lichaam.
 
 ## Titel 3. Begroting, verslaglegging en gegevensverstrekking
 
-#### Artikel 2.3.1. Jaarrekening
+##### Artikel 2.3.1. Jaarrekening
 
 1. Het bevoegd gezag van een instelling voor beroepsonderwijs stelt jaarlijks een jaarrekening vast over het afgelopen jaar.
 
@@ -1424,13 +1451,13 @@ De eilandsraad of het bestuurscollege draagt overeenkomstig [hoofdstuk 11, parag
 
 9. Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden vastgesteld omtrent de wijze van beschikbaarstelling van de gegevens en de wijze van ordening daarvan.
 
-#### Artikel 2.3.2. Jaarverslag
+##### Artikel 2.3.2. Jaarverslag
 
 1. Het bevoegd gezag stelt jaarlijks een jaarverslag over het afgelopen jaar vast en maakt het openbaar. Het jaarverslag bevat ten minste het verslag, bedoeld in [artikel 1.3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=1&titeldeel=3&paragraaf=2&artikel=1.3.2&z=2026-01-01&g=2026-01-01), voor zover dat in het desbetreffende jaar is uitgebracht, dan wel de hoofdpunten van laatstgenoemd verslag, alsmede de hoofdpunten van de bevindingen van de inspectie met betrekking tot de examens en informatie over schorsing en verwijdering van studenten, vavo-studenten en deelnemers in het afgelopen jaar.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de inrichting en de wijze en het tijdstip van openbaarmaking van het jaarverslag.
 
-#### Artikel 2.3.3. Informatie beroepsonderwijs
+##### Artikel 2.3.3. Informatie beroepsonderwijs
 
 1. De instellingen dragen er zorg voor dat zij beschikken over geordende gegevens ten behoeve van het door Onze Minister te voeren beleid met betrekking tot het beroepsonderwijs en verlenen desgevraagd medewerking aan door of namens Onze Minister uit te voeren onderzoek dat geheel of mede op deze gegevens is gebaseerd.
 
@@ -1438,7 +1465,7 @@ De eilandsraad of het bestuurscollege draagt overeenkomstig [hoofdstuk 11, parag
 
 3. Bij de in het tweede lid bedoelde algemene maatregel van bestuur worden tevens voorschriften vastgesteld over de wijze van ordening van de informatie en over de kengetallen waarover informatie beschikbaar is of wordt verstrekt, en kan worden bepaald dat Onze Minister een bijdrage in de kosten voor het verzamelen of verstrekken van deze gegevens is verschuldigd. Bij of krachtens de in het tweede lid bedoelde algemene maatregel van bestuur kan deze bijdrage worden vastgesteld.
 
-#### Artikel 2.3.4. Gebruik persoonsgebonden nummer BES door bevoegd gezag
+##### Artikel 2.3.4. Gebruik persoonsgebonden nummer BES door bevoegd gezag
 
 1. Het bevoegd gezag kan het persoonsgebonden nummer BES van een deelnemer aan een beroepsopleiding gebruiken in het verkeer met de deelnemer op wie het nummer betrekking heeft, of, indien de deelnemer minderjarig is, met de ouders, voogden of verzorgers van deze deelnemer.
 
@@ -1492,15 +1519,15 @@ Daarbij worden in ieder geval de categorieën van ontvangers van dit andere pseu
 
 12. Bij ministeriële regeling worden regels gesteld over de voorwaarden waaronder de pseudoniemen, bedoeld in het negende tot en met het elfde lid, kunnen worden gegenereerd en gebruikt. Deze voorwaarden betreffen in ieder geval de duur en de beveiliging, waaronder de gescheiden opslag van de pseudoniemen.
 
-#### Artikel 2.3.5. Verwerking gegevens door Minister
+##### Artikel 2.3.5. Verwerking gegevens door Minister
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 2.3.6. Gebruik gegevens uit basisregister onderwijs door Minister en inspectie
+##### Artikel 2.3.6. Gebruik gegevens uit basisregister onderwijs door Minister en inspectie
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 2.3.7. Gebruik persoonsgebonden nummer door openbaar lichaam
+##### Artikel 2.3.7. Gebruik persoonsgebonden nummer door openbaar lichaam
 
 Onverminderd het overigens bij of krachtens de wet bepaalde omtrent het gebruik van het persoonsgebonden nummer BES door het openbaar lichaam, gebruikt het openbaar lichaam het persoonsgebonden nummer BES van een leerplichtige en kwalificatieplichtige deelnemer of een persoon als bedoeld in [artikel 8.1.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.8&z=2026-01-01&g=2026-01-01), uitsluitend ten behoeve van:
 
@@ -1510,19 +1537,19 @@ Onverminderd het overigens bij of krachtens de wet bepaalde omtrent het gebruik 
 
 - c. de verwerking van de gegevens, bedoeld in [artikel 21, eerste en derde lid, van de Wet register onderwijsdeelnemers](onbekend).
 
-#### Artikel 2.3.8. Onderzoek vanwege Minister
+##### Artikel 2.3.8. Onderzoek vanwege Minister
 
 Onze Minister kan naast het deskundigenonderzoek, bedoeld in [artikel 2.3.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=3&artikel=2.3.1&z=2026-01-01&g=2026-01-01), een onderzoek instellen of doen instellen naar de jaarrekening en naar de gegevens, bedoeld in [artikel 2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=3&artikel=2.3.3&z=2026-01-01&g=2026-01-01), naar de rechtmatigheid van de bestedingen en naar de doelmatigheid van het beheer van de instelling.
 
-#### Artikel 2.3.9. Informatieplicht ministeriële deskundige
+##### Artikel 2.3.9. Informatieplicht ministeriële deskundige
 
 Vervallen
 
-#### Artikel 2.3.10. Accountantsprotocol
+##### Artikel 2.3.10. Accountantsprotocol
 
 Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omtrent de controle van de boekhouding, de jaarrekening en de administratie van de instellingen.
 
-#### Artikel 2.3.11. Correctie rijksbijdrage; verrekening vorderingen
+##### Artikel 2.3.11. Correctie rijksbijdrage; verrekening vorderingen
 
 1. Indien de vaststelling van de rijksbegroting daartoe noopt, kan Onze Minister tot acht weken na die vaststelling correcties aanbrengen op de rijksbijdrage. Onze Minister maakt het bevoegd gezag binnen acht weken na de vaststelling van de rijksbegroting een correctie als bedoeld in de eerste volzin bekend. Onze Minister verrekent de correctie met de rijksbijdrage voor het desbetreffende jaar of betaalt uit in dat jaar.
 
@@ -1530,11 +1557,11 @@ Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omt
 
 3. Onverminderd het eerste en tweede lid is Onze Minister bevoegd tot verrekening van vorderingen krachtens deze wet van of op het bevoegd gezag met vorderingen krachtens een andere wet.
 
-#### Artikel 2.4.1. Bijdrage voor derden
+##### Artikel 2.4.1. Bijdrage voor derden
 
 Onze Minister kan aan andere rechtspersonen dan die waarvan de instellingen uitgaan, een bijdrage toekennen ter bevordering van de verwezenlijking van de in [artikel 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=1&titeldeel=2&artikel=1.2.1&z=2026-01-01&g=2026-01-01) bedoelde doelstellingen van de educatie en het beroepsonderwijs dan wel ten behoeve van de afstemming tussen onderwijs en arbeidsmarkt. In dat geval worden bij ministeriële regeling daaromtrent regels gegeven. Bij de toepassing van dit artikel zijn de [titels 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.1) en [4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=9) en [10 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=10) van toepassing.
 
-#### Artikel 2.5.1. Opheffing instellingen
+##### Artikel 2.5.1. Opheffing instellingen
 
 1. Bij de opheffing van een openbare instelling en bij de beëindiging van de bekostiging van een bijzondere instelling draagt het bevoegd gezag zo spoedig mogelijk na de opheffing dan wel na de beëindiging van de bekostiging, zorg voor de vaststelling van een eindafrekening. De eindafrekening wordt aan Onze Minister gezonden en gaat vergezeld van een verklaring omtrent de getrouwheid van een door het bevoegd gezag aangewezen deskundige.
 
@@ -1542,13 +1569,13 @@ Onze Minister kan aan andere rechtspersonen dan die waarvan de instellingen uitg
 
 3. Indien de in het eerste lid bedoelde opheffing dan wel beëindiging van de bekostiging zich voordoet, maakt het bevoegd gezag zo spoedig mogelijk aan Onze Minister bekend welke maatregelen het heeft genomen teneinde te waarborgen dat de aan die instelling ingeschreven studenten en vavo-studenten het onderwijs aan een andere instelling kunnen voltooien.
 
-#### Artikel 2.5.2. Beheer van de middelen
+##### Artikel 2.5.2. Beheer van de middelen
 
 Het bevoegd gezag beheert de middelen van de instelling op zodanige wijze dat een behoorlijke exploitatie en het voortbestaan van de instelling zijn verzekerd.
 
 ### Hoofdstuk 3. Zorgstructuur
 
-#### Artikel 3.1. Handelingsplan
+##### Artikel 3.1. Handelingsplan
 
 1. Het bevoegd gezag van een instelling waar een student of vavo-student met een specifieke onderwijsbehoefte is ingeschreven, stelt voor deze student of vavo-student elk studiejaar een handelingsplan op.
 
@@ -1558,7 +1585,7 @@ Het bevoegd gezag beheert de middelen van de instelling op zodanige wijze dat ee
 
 4. Het bevoegd gezag evalueert jaarlijks het handelingsplan met de student of vavo-student of indien de student of vavo-student minderjarig is tevens met diens ouders, voogden of verzorgers.
 
-#### Artikel 3.2. Samenwerkingsverband
+##### Artikel 3.2. Samenwerkingsverband
 
 1. Het bevoegd gezag is voor elk van zijn instellingen aangesloten bij een samenwerkingsverband met, voor zover aanwezig in het openbaar lichaam:
 
@@ -1582,7 +1609,7 @@ Het bevoegd gezag beheert de middelen van de instelling op zodanige wijze dat ee
 
 6. Bij of krachtens ministeriële regeling worden regels gesteld over de wijze waarop een geschil tussen de organisaties, bedoeld in het eerste lid, over aangelegenheden die het samenwerkingsverband aangaan, wordt beslecht.
 
-#### Artikel 3.3. Eilandelijk zorgplan
+##### Artikel 3.3. Eilandelijk zorgplan
 
 1. Het bevoegd gezag stelt samen met de bevoegde gezagsorganen die samenwerken in een samenwerkingsverband en met het expertisecentrum onderwijszorg indien [artikel 3.2 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=3&artikel=3.2&z=2026-01-01&g=2026-01-01), van toepassing is, jaarlijks voor 1 mei een gezamenlijk eilandelijk zorgplan vast voor het daaropvolgende studiejaar.
 
@@ -1602,7 +1629,7 @@ Het bevoegd gezag beheert de middelen van de instelling op zodanige wijze dat ee
 
 3. Het eilandelijk zorgplan wordt voor 15 mei voorafgaand aan het studiejaar waarop het betrekking heeft, toegezonden aan de inspectie.
 
-#### Artikel 3.4. Expertisecentrum onderwijszorg
+##### Artikel 3.4. Expertisecentrum onderwijszorg
 
 1. Onze Minister kan op verzoek een rechtspersoon aanwijzen die naar zijn oordeel in staat is deskundige ondersteuning te bieden aan studenten en vavo-studenten met een specifieke onderwijsbehoefte waarin de instelling redelijkerwijs niet kan voorzien en waaronder in elk geval de volgende taken worden verstaan:
 
@@ -1630,7 +1657,7 @@ Het bevoegd gezag beheert de middelen van de instelling op zodanige wijze dat ee
 
 7. Bij ministeriële regeling kunnen voorschriften worden gegeven over de taken van het expertisecentrum onderwijszorg.
 
-#### Artikel 3.5. Subsidie expertisecentrum onderwijszorg
+##### Artikel 3.5. Subsidie expertisecentrum onderwijszorg
 
 1. Onze Minister verstrekt het expertisecentrum onderwijszorg subsidie.
 
@@ -1638,7 +1665,7 @@ Het bevoegd gezag beheert de middelen van de instelling op zodanige wijze dat ee
 
 3. De [titels 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.1) en [4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) en de [artikelen 4 tot en met 19 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) zijn van toepassing op de subsidie.
 
-#### Artikel 3.6. Toezicht expertisecentrum onderwijszorg
+##### Artikel 3.6. Toezicht expertisecentrum onderwijszorg
 
 1. Met het toezicht op de uitvoering van de taken, bedoeld in [artikel 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=3&artikel=3.4&z=2026-01-01&g=2026-01-01), en voor zover van toepassing het zevende lid van dat artikel, zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
@@ -1646,7 +1673,7 @@ Het bevoegd gezag beheert de middelen van de instelling op zodanige wijze dat ee
 
 3. Onze Minister is bevoegd tot overeenkomstige toepassing van [artikel 5:20, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) ten aanzien van de in het eerste lid bedoelde ambtenaren.
 
-#### Artikel 3.7. Taakverwaarlozing door expertisecentrum onderwijszorg
+##### Artikel 3.7. Taakverwaarlozing door expertisecentrum onderwijszorg
 
 1. Onze Minister is bevoegd tot het treffen van noodzakelijke voorzieningen indien het expertisecentrum onderwijszorg naar het oordeel van Onze Minister zijn taken ernstig verwaarloost.
 
@@ -1656,7 +1683,7 @@ Het bevoegd gezag beheert de middelen van de instelling op zodanige wijze dat ee
 
 ## Titel 1. Personeel van instellingen voor educatie en beroepsonderwijs
 
-#### Artikel 4.1.1. Directeur, docenten en onderwijsondersteunend personeel
+##### Artikel 4.1.1. Directeur, docenten en onderwijsondersteunend personeel
 
 1. De onderwijsgevenden aan een instelling dragen de titel van docent.
 
@@ -1668,15 +1695,15 @@ Het bevoegd gezag beheert de middelen van de instelling op zodanige wijze dat ee
 
 heeft, het onderwijs te ondersteunen.
 
-#### Artikel 4.1.2. Benoeming, schorsing en ontslag
+##### Artikel 4.1.2. Benoeming, schorsing en ontslag
 
 Het bevoegd gezag benoemt, schorst en ontslaat de directeuren, de adjunct- directeuren, de docenten en het overige personeel.
 
-#### Artikel 4.1.3. Formatie
+##### Artikel 4.1.3. Formatie
 
 Het bevoegd gezag stelt jaarlijks het beleid vast met betrekking tot de formatie van het personeel van de instelling. Zoveel mogelijk tegelijk met die vaststelling bepaalt het bevoegd gezag functies en taken van het personeel van de instelling, met inachtneming van de daaromtrent bij eilandsbesluit, houdende algemene maatregelen, te geven nadere voorschriften.
 
-#### Artikel 4.1.4. Rechtspositie personeel van een bijzondere instelling
+##### Artikel 4.1.4. Rechtspositie personeel van een bijzondere instelling
 
 1. De [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) en de daarop berustende regelingen zijn voor het personeel van een instelling voor bijzonder onderwijs van overeenkomstige toepassing.
 
@@ -1684,25 +1711,25 @@ Het bevoegd gezag stelt jaarlijks het beleid vast met betrekking tot de formatie
 
 3. Het bestuurscollege stelt de regeling, bedoeld in het tweede lid, dan wel een wijziging daarvan niet vast dan nadat daarover op overeenstemming gericht overleg is gevoerd met de bevoegde gezagsorganen en met de onderwijsvakbonden of, bij het ontbreken daarvan, met een representatief te achten vertegenwoordiging van het personeel. [Artikel 101 van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=101) is niet van toepassing op de vaststelling dan wel wijziging van de regeling, bedoeld in het tweede lid.
 
-#### Artikel 4.1.5. Afwijking nationaliteitsvereiste
+##### Artikel 4.1.5. Afwijking nationaliteitsvereiste
 
 [Artikel 3, eerste lid, onderdeel b,van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=3) is niet van toepassing op het personeel.
 
-#### Artikel 4.1.6
+##### Artikel 4.1.6
 
 **[Vervallen]**
 
-#### Artikel 4.1.7. Akte van benoeming
+##### Artikel 4.1.7. Akte van benoeming
 
 1. In afwijking van [artikel 8 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=8) is ieder personeelslid van een bijzondere instelling in het bezit van een door het bevoegd gezag en hemzelf getekende akte van benoeming.
 
 2. De akte van benoeming bevat ten minste bepalingen van gelijke inhoud als de bepalingen die zijn vastgesteld in [artikel 8 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=8).
 
-#### Artikel 4.1.8. Disciplinaire maatregel, schorsing en ontslag door Rijksvertegenwoordiger
+##### Artikel 4.1.8. Disciplinaire maatregel, schorsing en ontslag door Rijksvertegenwoordiger
 
 De Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba is, in afwijking van [artikel 4.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=4&titeldeel=1&artikel=4.1.2&z=2026-01-01&g=2026-01-01), bevoegd de disciplinaire straf of de schorsing op te leggen dan wel het ontslag te verlenen, indien het een directeur, een adjunct-directeur, of een ander lid van het onderwijzend personeel van een openbare instelling betreft en deze tevens lid is van de eilandsraad van het openbaar lichaam die de school in stand houdt.
 
-#### Artikel 4.2.1. Vereisten benoeming of tewerkstelling docenten
+##### Artikel 4.2.1. Vereisten benoeming of tewerkstelling docenten
 
 1. Docenten worden door het bevoegd gezag benoemd dan wel tewerkgesteld zonder benoeming.
 
@@ -1734,7 +1761,7 @@ De Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en S
 
 5. Het bevoegd gezag kan afwijken van het tweede lid, onder b en c, ten aanzien van degene die gelet op specifieke kennis en bekwaamheden, samenhangend met ervaringen en werkzaamheden in andere sectoren van de samenleving en het bedrijfsleven, naar het oordeel van het bevoegd gezag voldoende bekwaam is om onder verantwoordelijkheid van een daartoe door het bevoegd gezag aan te wijzen docent voor een beperkte betrekkingsomvang te worden belast met het uitsluitend verzorgen van onderwijsonderdelen waar die specifieke kennis en bekwaamheden in het bijzonder betrekking op hebben. De betrekkingsomvang is voor het totaal van de in de eerste volzin bedoelde te verzorgen onderwijsonderdelen ten hoogste een aantal van gemiddeld 6 klokuren per week op jaarbasis.
 
-#### Artikel 4.2.2. Belasten met onderwijsondersteunende werkzaamheden
+##### Artikel 4.2.2. Belasten met onderwijsondersteunende werkzaamheden
 
 1. Onderwijsondersteunende werkzaamheden waarvoor op grond van [artikel 4.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=4&titeldeel=2&artikel=4.2.3&z=2026-01-01&g=2026-01-01), bekwaamheidseisen zijn vastgesteld, mogen slechts worden verricht door degene die:
 
@@ -1754,7 +1781,7 @@ De Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en S
 
 4. Het bevoegd gezag kan voor een periode van ten hoogste twee jaar afwijken van de eisen, bedoeld in het eerste lid, onder b tot en met d. Het bevoegd gezag kan deze periode met ten hoogste de helft verlengen indien bijzondere omstandigheden daartoe naar zijn oordeel aanleiding geven. Het bevoegd gezag beschikt over geordende gegevens met betrekking tot de toepassing van de tweede volzin.
 
-#### Artikel 4.2.3. Bekwaamheidseisen
+##### Artikel 4.2.3. Bekwaamheidseisen
 
 1. Bij algemene maatregel van bestuur worden bekwaamheidseisen vastgesteld voor de uitoefening van het docentschap.
 
@@ -1766,11 +1793,11 @@ De Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en S
 
 - b. vakbekwaamheid.
 
-#### Artikel 4.2.4. Bekwaamheidsdossier
+##### Artikel 4.2.4. Bekwaamheidsdossier
 
 Het bevoegd gezag beschikt ten aanzien van elk personeelslid dat een functie of werkzaamheden verricht waarvoor bekwaamheidseisen zijn vastgesteld, over geordende gegevens met betrekking tot de bekwaamheid en het onderhouden van de bekwaamheid. Ten behoeve van de onderlinge vergelijkbaarheid en herkenbaarheid van de gegevens kunnen bij ministeriële regeling voorschriften worden vastgesteld over de inrichting en wijze van ordening van deze gegevens.
 
-#### Artikel 4.2.5. Geschiktheidsverklaring zij-instroom in het beroep van docent
+##### Artikel 4.2.5. Geschiktheidsverklaring zij-instroom in het beroep van docent
 
 1. Aan degene die niet in het bezit is van een in [artikel 4.2.1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=4&titeldeel=2&artikel=4.2.1&z=2026-01-01&g=2026-01-01), genoemd getuigschrift of diploma respectievelijk genoemde erkenning van beroepskwalificaties wordt door het bevoegd gezag dat voornemens is betrokkene te benoemen een geschiktheidsverklaring afgegeven, indien de betrokkene naar het oordeel van het bevoegd gezag:
 
@@ -1796,7 +1823,7 @@ Het bevoegd gezag beschikt ten aanzien van elk personeelslid dat een functie of 
 
 ### Hoofdstuk 5. Medezeggenschap
 
-#### Artikel 5.1. Medezeggenschap
+##### Artikel 5.1. Medezeggenschap
 
 1. Het bevoegd gezag stelt een representatief te achten vertegenwoordiging van ouders, studenten, vavo-studenten en personeel ten minste twee maal per jaar in de gelegenheid de algemene gang van zaken in de instelling met hem te bespreken.
 
@@ -1808,7 +1835,7 @@ Het bevoegd gezag beschikt ten aanzien van elk personeelslid dat een functie of 
 
 ## Titel 1. Het Centraal register
 
-#### Artikel 6.1.1. De Registratie instellingen en opleidingen
+##### Artikel 6.1.1. De Registratie instellingen en opleidingen
 
 1. De Registratie instellingen en opleidingen omvat een systematisch geordende verzameling gegevens met betrekking tot de erkende beroepsopleidingen en de instellingen die deze verzorgen. Onze Minister is belast met de aanleg, het beheer en de bekendmaking van het register en met het verstrekken van informatie uit het register. De bekendmaking en het verstrekken van informatie kunnen digitaal plaatsvinden.
 
@@ -1828,7 +1855,7 @@ Het bevoegd gezag beschikt ten aanzien van elk personeelslid dat een functie of 
 
 ## Titel 1. Het Centraal register
 
-#### Artikel 6.2.1. Beëindiging van rechten erkenning beroepsopleidingen
+##### Artikel 6.2.1. Beëindiging van rechten erkenning beroepsopleidingen
 
 1. De erkenning van een beroepsopleiding vervalt indien een instelling blijk geeft de erkende beroepsopleiding niet meer te verzorgen of indien een instelling gedurende vier jaar een erkende opleiding niet heeft verzorgd.
 
@@ -1850,7 +1877,7 @@ Het bevoegd gezag beschikt ten aanzien van elk personeelslid dat een functie of 
 
 5. Het eerste tot en met vierde lid zijn van overeenkomstige toepassing op een beroepsopleiding in een andere leerweg als bedoeld in [artikel 1.4.1, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=1&titeldeel=4&artikel=1.4.1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 6.2.2. Beëindiging van rechten erkenning opleiding educatie; waarschuwing
+##### Artikel 6.2.2. Beëindiging van rechten erkenning opleiding educatie; waarschuwing
 
 1. De erkenning van een opleiding educatie vervalt indien een instelling blijk geeft de erkende opleiding educatie niet meer te verzorgen of indien een instelling gedurende vier jaar een erkende opleiding niet heeft verzorgd.
 
@@ -1872,7 +1899,7 @@ Het bevoegd gezag beschikt ten aanzien van elk personeelslid dat een functie of 
 
 6. Onze Minister maakt de ontneming van rechten en de waarschuwing openbaar.
 
-#### Artikel 6.2.3. Waarschuwing
+##### Artikel 6.2.3. Waarschuwing
 
 1. Voordat Onze Minister een besluit neemt op grond van [artikel 6.2.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=6&titeldeel=2&artikel=6.2.1&z=2026-01-01&g=2026-01-01), geeft hij aan het bevoegd gezag een waarschuwing op grond van zijn bevindingen ten aanzien van de kwaliteit van de opleiding, onder bepaling van een termijn waarbinnen aan die waarschuwing gevolg moet zijn gegeven. De termijn waarbinnen aan de waarschuwing gevolg moet zijn gegeven bedraagt ten minste drie maanden. Onze Minister geeft pas toepassing aan artikel 6.2.1, tweede lid, onderdeel a, nadat:
 
@@ -1884,7 +1911,7 @@ Het bevoegd gezag beschikt ten aanzien van elk personeelslid dat een functie of 
 
 3. Onze Minister maakt de waarschuwingen, bedoeld in dit artikel, openbaar.
 
-#### Artikel 6.2.4. Ontneming recht op examinering instellingen; waarschuwing
+##### Artikel 6.2.4. Ontneming recht op examinering instellingen; waarschuwing
 
 1. Onze Minister kan aan een instelling het recht op examinering van een beroepsopleiding ontnemen, indien de kwaliteit van de examens van die opleiding niet voldoet aan de standaarden, bedoeld in [artikel 7.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=4&paragraaf=1&artikel=7.4.5&z=2026-01-01&g=2026-01-01). Bij de ontneming van het recht wordt bepaald met ingang van welk tijdstip dit geschiedt. De ontneming wordt in de Registratie instellingen en opleidingen bekendgemaakt.
 
@@ -1892,7 +1919,7 @@ Het bevoegd gezag beschikt ten aanzien van elk personeelslid dat een functie of 
 
 3. Het bevoegd gezag kan niet eerder dan na verloop van drie studiejaren na de ontneming, bedoeld in het eerste lid, het recht opnieuw verkrijgen. [Artikel 1.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=1&titeldeel=6&artikel=1.6.1&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
-#### Artikel 6.2.5. Maatregelen
+##### Artikel 6.2.5. Maatregelen
 
 1. In de gevallen, bedoeld in [artikel 6.2.1, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=6&titeldeel=2&artikel=6.2.1&z=2026-01-01&g=2026-01-01), [artikel 6.2.2, tweede lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=6&titeldeel=2&artikel=6.2.2&z=2026-01-01&g=2026-01-01), en [artikel 6.2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=6&titeldeel=2&artikel=6.2.4&z=2026-01-01&g=2026-01-01) kan Onze Minister op verzoek van het bevoegd gezag of uit eigen beweging in overeenstemming met het bevoegd gezag maatregelen treffen.
 
@@ -1900,7 +1927,7 @@ Het bevoegd gezag beschikt ten aanzien van elk personeelslid dat een functie of 
 
 3. Onze Minister stelt nadere regels omtrent de toekenning van en verantwoording voor maatregelen, voor zover deze het verstrekken van financiële middelen betreffen.
 
-#### Artikel 6.3.1. Ontneming recht op examinering exameninstellingen; waarschuwing
+##### Artikel 6.3.1. Ontneming recht op examinering exameninstellingen; waarschuwing
 
 De [artikelen 6.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=6&titeldeel=2&artikel=6.2.4&z=2026-01-01&g=2026-01-01), [6.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=6&titeldeel=2&artikel=6.2.5&z=2026-01-01&g=2026-01-01) en [6.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=6&titeldeel=2&artikel=6.2.6&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op exameninstellingen.
 
@@ -1908,7 +1935,7 @@ De [artikelen 6.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=6
 
 ## Titel 3. Ontneming van rechten exameninstellingen
 
-#### Artikel 7.1.1. Taal
+##### Artikel 7.1.1. Taal
 
 1. Het onderwijs wordt gegeven en de examens worden afgenomen in het Nederlands.
 
@@ -1924,7 +1951,7 @@ De [artikelen 6.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=6
 
 - e. de beschikbaarheid van lesmateriaal in de desbetreffende instructietaal.
 
-#### Artikel 7.1.2. Opleidingen
+##### Artikel 7.1.2. Opleidingen
 
 1. De instelling biedt het onderwijs aan in de vorm van beroepsopleidingen of opleidingen educatie. Een beroepsopleiding wordt door de instelling in het maatschappelijk verkeer aangeduid met de naam van de kwalificatie waarop zij is gericht of voorzover het gaat om studenten die ingeschreven zijn of zullen worden voor een opleidingsdomein BES of een kwalificatiedossier, de naam van dat opleidingsdomein BES of dat kwalificatiedossier.
 
@@ -1934,7 +1961,7 @@ De [artikelen 6.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=6
 
 4. Beroepsopleidingen worden afgesloten met een examen. Opleidingen educatie kunnen worden afgesloten met een examen.
 
-#### Artikel 7.1.3. Kwalificatie
+##### Artikel 7.1.3. Kwalificatie
 
 Een kwalificatie is het geheel van bekwaamheden die een afgestudeerde van een beroepsopleiding kwalificeren voor het functioneren in een beroep of een groep van samenhangende beroepen, in het vervolgonderwijs en als burger en dat is beschreven binnen een kwalificatiedossier.
 
@@ -1946,7 +1973,7 @@ Een kwalificatie is het geheel van bekwaamheden die een afgestudeerde van een be
 
 ## Titel 2. Het beroepsonderwijs
 
-#### Artikel 7.3.1. Onderscheid opleidingen educatie
+##### Artikel 7.3.1. Onderscheid opleidingen educatie
 
 1. De volgende opleidingen educatie worden onderscheiden:
 
@@ -1962,13 +1989,13 @@ Een kwalificatie is het geheel van bekwaamheden die een afgestudeerde van een be
 
 3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de opleidingen, bedoeld in het eerste lid, onder c.
 
-#### Artikel 7.3.2. Eindtermen opleidingen educatie
+##### Artikel 7.3.2. Eindtermen opleidingen educatie
 
 1. Bij ministeriële regeling kan worden bepaald welke opleidingen in elk geval behoren tot de opleidingen, bedoeld in [artikel 7.3.1, eerste lid, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=3&artikel=7.3.1&z=2026-01-01&g=2026-01-01), en kunnen daarvoor eindtermen worden vastgesteld.
 
 2. Het bevoegd gezag stelt eindtermen vast voor de overige opleidingen educatie, met uitzondering van de opleidingen, bedoeld in [artikel 7.3.1, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=3&artikel=7.3.1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 7.3.3. Inrichting voortgezet algemeen volwassenenonderwijs
+##### Artikel 7.3.3. Inrichting voortgezet algemeen volwassenenonderwijs
 
 1. Opleidingen voortgezet algemeen volwassenenonderwijs omvatten het onderwijs dat noodzakelijk is voor het behalen van het diploma voorbereidend wetenschappelijk onderwijs, het diploma hoger algemeen voortgezet onderwijs of het diploma middelbaar algemeen voortgezet onderwijs, dan wel voor het behalen van onderdelen van het diploma.
 
@@ -1984,7 +2011,7 @@ Een kwalificatie is het geheel van bekwaamheden die een afgestudeerde van een be
 
 #### § 2. Beroepsopleidingen en kwalificatiestructuur
 
-#### Artikel 7.5.1. Toegankelijke faciliteit
+##### Artikel 7.5.1. Toegankelijke faciliteit
 
 1. In deze titel wordt onder «betrokkene» verstaan:
 
@@ -2014,7 +2041,7 @@ Een kwalificatie is het geheel van bekwaamheden die een afgestudeerde van een be
 
 7. Indien de faciliteit een klacht, beroep of bezwaar aan een onbevoegd orgaan heeft gezonden, zendt dit orgaan het desbetreffende stuk zo spoedig mogelijk terug naar de faciliteit. Het bevoegde orgaan behandelt een klacht, beroep of bezwaar dat door een betrokkene rechtstreeks is ingediend bij dit orgaan slechts na tussenkomst van de faciliteit.
 
-#### Artikel 7.5.2. Klachten
+##### Artikel 7.5.2. Klachten
 
 1. Ouders dan wel studenten of deelnemers, en personeelsleden kunnen bij de klachtencommissie, bedoeld in het tweede lid, onderdeel a, een klacht indienen over gedragingen en beslissingen van het bevoegd gezag of het personeel, waaronder discriminatie, dan wel het nalaten van gedragingen en het niet nemen van beslissingen door het bevoegd gezag of het personeel.
 
@@ -2040,7 +2067,7 @@ Een kwalificatie is het geheel van bekwaamheden die een afgestudeerde van een be
 
 8. Gegevens die betrekking hebben op een klacht worden bewaard op een plaats die uitsluitend toegankelijk is voor de leden van de klachtencommissie en het bevoegd gezag.
 
-#### Artikel 7.6.1. Practicumplaatsen voor ho-studenten in opleiding
+##### Artikel 7.6.1. Practicumplaatsen voor ho-studenten in opleiding
 
 1. Het bevoegd gezag is verplicht, ho-studenten die zijn ingeschreven voor een opleiding voor het beroep van leraar waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) betrekking heeft, of die anderszins studeren voor een bewijs van voldoende pedagogische bekwaamheid, en die in opleiding zijn voor een functie in het onderwijs, gelegenheid te bieden de als onderdeel van hun opleiding vereiste ervaring in de instelling te verkrijgen.
 
@@ -2052,7 +2079,7 @@ Een kwalificatie is het geheel van bekwaamheden die een afgestudeerde van een be
 
 ## Titel 1. Inschrijving
 
-#### Artikel 8.1.1. Inschrijving
+##### Artikel 8.1.1. Inschrijving
 
 1. Een ieder die gebruik wenst te maken van onderwijsvoorzieningen en examenvoorzieningen, dient zich door het bevoegd gezag als student of vavo-student te laten inschrijven. Een ieder die uitsluitend wenst te worden toegelaten tot examenvoorzieningen, dient zich door het bevoegd gezag als extraneus te laten inschrijven. Voor de inschrijving als extraneus is aan het bevoegd gezag een door dat gezag te bepalen vergoeding verschuldigd. Indien het een meerderjarige extraneus betreft die het examengeld niet zelf voldoet, wordt niet overgegaan tot inschrijving dan nadat de extraneus schriftelijk heeft verklaard dat hij ermee instemt dat een in die verklaring vermelde derde namens hem het examengeld voldoet.
 
@@ -2080,7 +2107,7 @@ Een kwalificatie is het geheel van bekwaamheden die een afgestudeerde van een be
 
 8. Bij ministeriële regeling kan een maximum worden vastgesteld voor het percentage van de studenten in het beroepsonderwijs dat in een jaar kan worden ingeschreven voor een opleidingsdomein BES.
 
-#### Artikel 8.1.2. Samenwerking met VO-scholen ter bevordering van doelmatig en doeltreffend onderwijs
+##### Artikel 8.1.2. Samenwerking met VO-scholen ter bevordering van doelmatig en doeltreffend onderwijs
 
 1. Het bevoegd gezag kan in afwijking van [artikel 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.1&z=2026-01-01&g=2026-01-01), in gevallen als geregeld in [artikel 2.99 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.99) en met inachtneming van de [artikelen 2.100](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.100), [2.101](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.101) en [2.108 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.108) ook tot onderwijs- en examenvoorzieningen van de instelling toelaten zij die niet als student, vavo-student of extraneus aan de instelling worden ingeschreven maar zijn ingeschreven als leerling aan een school voor voortgezet onderwijs.
 
@@ -2088,7 +2115,7 @@ Een kwalificatie is het geheel van bekwaamheden die een afgestudeerde van een be
 
 3. Indien het bevoegd gezag van een school voor voortgezet onderwijs ter uitvoering van [artikel 2.99 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.99) leerlingen in het kader van het onderwijs waarvoor zij aan die school zijn ingeschreven, ook onderwijs wil kunnen laten volgen dat een instelling van datzelfde bevoegd gezag verzorgt, regelt het bevoegd gezag voor zover van toepassing op overeenkomstige wijze de onderwerpen, bedoeld in [artikel 2.100, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.100).
 
-#### Artikel 8.1.3. Te verstrekken gegevens bij inschrijving
+##### Artikel 8.1.3. Te verstrekken gegevens bij inschrijving
 
 1. De inschrijving bij een instelling, bedoeld in [artikel 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.1&z=2026-01-01&g=2026-01-01), vindt slechts plaats nadat door de student of vavo-student of, indien deze minderjarig is, door de ouders, voogden of verzorgers de gegevens betreffende de geslachtsnaam, de voorletters, de geboortedatum, het geslacht en het persoonsgebonden nummer BES van de student of vavo-student zijn overgelegd. Indien door de student of vavo-student of, indien deze minderjarig is, door de ouders, voogden of verzorgers aannemelijk wordt gemaakt dat geen persoonsgebonden nummer BES van de student of vavo-student kan worden overgelegd, vindt de inschrijving plaats met inachtneming van het derde lid.
 
@@ -2102,7 +2129,7 @@ Een kwalificatie is het geheel van bekwaamheden die een afgestudeerde van een be
 
 6. Indien aan een student of vavo-student een onderwijsnummer is toegekend en het bevoegd gezag daarna de beschikking krijgt over het administratienummer van de student of vavo-student, neemt het bevoegd gezag dit administratienummer terstond als persoonsgebonden nummer BES op in de administratie van de instelling in de plaats van het onderwijsnummer. Het bevoegd gezag meldt deze wijziging binnen twee weken aan Onze Minister onder opgave van het persoonsgebonden nummer BES en het onderwijsnummer van de student of vavo-student.
 
-#### Artikel 8.1.4. Nadere voorschriften toelating
+##### Artikel 8.1.4. Nadere voorschriften toelating
 
 1. Indien binnen redelijke afstand van de woning van de student of vavo-student niet de gelegenheid bestaat tot het volgen van het onderwijs aan een openbare instelling, mag aan deze student of vavo-student de toelating tot een bijzondere instelling niet worden geweigerd op grond van godsdienst of levensbeschouwing.
 
@@ -2110,15 +2137,15 @@ Een kwalificatie is het geheel van bekwaamheden die een afgestudeerde van een be
 
 3. Indien tot een bijzondere instelling andere studenten en vavo-studenten worden toegelaten dan voor wie de instelling in verband met de richting in stand wordt gehouden, kunnen deze studenten en vavo-studenten niet worden verplicht tot het volgen van onderwijs dat in verband met die richting door de instelling wordt verzorgd.
 
-#### Artikel 8.1.5. Onderwijsovereenkomst
+##### Artikel 8.1.5. Onderwijsovereenkomst
 
 Vervallen
 
-#### Artikel 8.1.6. Onderwijsbijdragen
+##### Artikel 8.1.6. Onderwijsbijdragen
 
 De inschrijving wordt niet afhankelijk gesteld van geldelijke bijdrage.
 
-#### Artikel 8.1.7. Controle op langdurige afwezigheid
+##### Artikel 8.1.7. Controle op langdurige afwezigheid
 
 1. Het bevoegd gezag stelt van iedere aan de instelling ingeschreven student die valt onder de werking van de [Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393) vast, of deze student gedurende een aaneengesloten periode van ten minste 5 weken zonder geldige reden niet aan het onderwijs heeft deelgenomen. In afwijking van de vorige volzin kan Onze Minister bepalen dat voor soorten van onderwijs als bedoeld in deze wet, de in die volzin bedoelde vaststelling wordt gedaan indien een ingeschreven student in een of meer vakken niet aan het onderwijs heeft deelgenomen.
 
@@ -2152,7 +2179,7 @@ De inschrijving wordt niet afhankelijk gesteld van geldelijke bijdrage.
 
 11. Onder «student» als bedoeld in het vijfde en zevende lid wordt verstaan de student die een assistentopleiding of een basisberoepsopleiding volgt als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.2&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 8.1.8. Melding in verband met voortijdig schoolverlaten niet-leerplichtigen
+##### Artikel 8.1.8. Melding in verband met voortijdig schoolverlaten niet-leerplichtigen
 
 1. Het bevoegd gezag doet onverwijld opgave aan het bestuurscollege van het openbaar lichaam waar de betrokkene woon- of verblijfplaats heeft van de gegevens van degene:
 
@@ -2178,7 +2205,7 @@ De inschrijving wordt niet afhankelijk gesteld van geldelijke bijdrage.
 
 ## Titel 3. Bestrijding voortijdig schoolverlaten niet-leerplichtigen
 
-#### Artikel 8.3.1. Loopbaanbegeleiding gedurende de inschrijving en na diplomering
+##### Artikel 8.3.1. Loopbaanbegeleiding gedurende de inschrijving en na diplomering
 
 1. Loopbaanbegeleiding als bedoeld in dit artikel en de daarop berustende bepalingen omvat advisering en ondersteuning bij de overstap naar vervolgonderwijs of de arbeidsmarkt.
 
@@ -2192,23 +2219,23 @@ De inschrijving wordt niet afhankelijk gesteld van geldelijke bijdrage.
 
 6. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de inhoud van het beleid, bedoeld in het vijfde lid, en de invulling van de loopbaanbegeleiding.
 
-#### Artikel 8.3.2. Bestrijding voortijdig schoolverlaten door openbaar lichaam
+##### Artikel 8.3.2. Bestrijding voortijdig schoolverlaten door openbaar lichaam
 
 Vervallen
 
-#### Artikel 8.3.3. Informatie over voortijdig schoolverlaten
+##### Artikel 8.3.3. Informatie over voortijdig schoolverlaten
 
 Vervallen
 
 ## Titel 4. Samenwerking in verband met leer-werktrajecten vmbo en assistentopleiding in het vmbo
 
-#### Artikel 8.4.1. Samenwerkingsovereenkomst leer-werktrajecten vmbo
+##### Artikel 8.4.1. Samenwerkingsovereenkomst leer-werktrajecten vmbo
 
 1. Leer-werktrajecten als bedoeld in [artikel 2.103 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.103) worden verzorgd op grondslag van een samenwerkingsovereenkomst tussen het bevoegd gezag van een instelling en het bevoegd gezag van een school voor voortgezet onderwijs als bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 2. Een samenwerkingsovereenkomst als bedoeld in het eerste lid, voldoet aan [artikel 2.104 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.104).
 
-#### Artikel 8.4.2. Samenwerkingsovereenkomst entreeopleiding in het vmbo
+##### Artikel 8.4.2. Samenwerkingsovereenkomst entreeopleiding in het vmbo
 
 1. De entreeopleiding, bedoeld in [artikel 2.102, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.102), wordt verzorgd op grondslag van een samenwerkingsovereenkomst tussen het bevoegd gezag van een instelling en het bevoegd gezag van een school voor voortgezet onderwijs als bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
@@ -2218,7 +2245,7 @@ Vervallen
 
 ### Hoofdstuk 10. Sancties
 
-#### Artikel 10.1. Aanwijzing
+##### Artikel 10.1. Aanwijzing
 
 1. Onze Minister kan het bevoegd gezag een aanwijzing tot het nemen van een of meer maatregelen geven, indien sprake is van wanbeheer.
 
@@ -2238,7 +2265,7 @@ Vervallen
 
 5. De aanwijzing vermeldt de termijn waarbinnen zij moet worden uitgevoerd.
 
-#### Artikel 10.2. Inhouding bekostiging
+##### Artikel 10.2. Inhouding bekostiging
 
 1. Indien het bevoegd gezag in strijd handelt met het bepaalde bij of krachtens deze wet of een aanwijzing als bedoeld in [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=10&artikel=10.1&z=2026-01-01&g=2026-01-01) of een spoedaanwijzing als bedoeld in [artikel 10.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=10&artikel=10.1a&z=2026-01-01&g=2026-01-01) niet opvolgt, kan Onze Minister de rijksbijdrage, voorschotten daaronder begrepen, geheel of gedeeltelijk inhouden dan wel opschorten.
 
@@ -2246,7 +2273,7 @@ Vervallen
 
 3. Onze Minister kan de rijksbijdrage wederom toekennen, indien blijkt dat de reden voor de toepassing van het eerste of tweede lid is vervallen.
 
-#### Artikel 10.3. Bestuurlijke boete niet-gerechtigd aanduiden beroepsopleiding
+##### Artikel 10.3. Bestuurlijke boete niet-gerechtigd aanduiden beroepsopleiding
 
 1. Het is anderen dan de instellingen die daartoe ingevolge deze wet zijn gerechtigd, verboden om:
 
@@ -2264,17 +2291,17 @@ Vervallen
 
 ### Hoofdstuk 8. Inschrijving, vooropleidingseisen en voortijdig schoolverlaten
 
-#### Artikel 11.1. Erkenning en bekostiging
+##### Artikel 11.1. Erkenning en bekostiging
 
 1. De opleidingen die in het schooljaar 2008–2009 werden erkend en bekostigd als secundair beroepsonderwijs in de zin van de Landsverordening secundair beroepsonderwijs en educatie, worden met ingang van het tijdstip van inwerkingtreding van dit artikel, aangemerkt als erkende en bekostigde opleidingen voor beroepsonderwijs.
 
 2. De niet bekostigde opleidingen die op de dag voorafgaand aan het tijdstip van de inwerkingtreding van dit artikel, op grond van artikel 3 van de Landsverordening secundair beroepsonderwijs en educatie, of de Wet educatie en beroepsonderwijs BES zoals die wet op 10 oktober 2010 is komen te luiden, zijn aangewezen als beroepsonderwijs, worden aangemerkt als erkende niet bekostigde opleidingen voor beroepsonderwijs.
 
-#### Artikel 11.1a. Overgangsregeling bekostiging
+##### Artikel 11.1a. Overgangsregeling bekostiging
 
 Tot een bij koninklijk besluit te bepalen tijdstip kan bij of krachtens algemene maatregel van bestuur worden afgeweken van [artikel 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=2&artikel=2.2.2&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 11.1b. Voorziening in de huisvesting voor het jaar 2011 tot en met een bij koninklijk besluit te bepalen tijdstip
+##### Artikel 11.1b. Voorziening in de huisvesting voor het jaar 2011 tot en met een bij koninklijk besluit te bepalen tijdstip
 
 1. In afwijking van [artikel 2.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=2&artikel=2.2.6&z=2026-01-01&g=2026-01-01) en met van overeenkomstige toepassingverklaring van de [artikelen 11.69 tot en met 11.80 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.69) gelden voor het jaar 2011 tot en met een bij koninklijk besluit te bepalen tijdstip de voorschriften van het tweede tot en met zevende lid voor de voorziening in de huisvesting van uit ’s Rijks kas bekostigde instellingen.
 
@@ -2290,35 +2317,35 @@ Tot een bij koninklijk besluit te bepalen tijdstip kan bij of krachtens algemene
 
 7. De plannen dan wel een wijziging daarvan, worden aan de betrokken bevoegde gezagsorganen van de instellingen en in de Staatscourant bekend gemaakt.
 
-#### Artikel 11.2. Benoembaarheid bevoegde docenten
+##### Artikel 11.2. Benoembaarheid bevoegde docenten
 
 Onverminderd [artikel 4.2.1, eerste lid, onderdelen a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=4&titeldeel=2&artikel=4.2.1&z=2026-01-01&g=2026-01-01), kunnen in afwijking van artikel 4.2.1, eerste lid onderdeel b, docenten worden benoemd dan wel tewerkgesteld zonder benoeming die op de dag voorafgaand aan het tijdstip van de inwerkingtreding van dit artikel, bevoegd waren tot het geven van onderwijs op grond van de Landsverordening secundair beroepsonderwijs en educatie of van de Wet educatie en beroepsonderwijs BES zoals die wet op 10 oktober 2010 is komen te luiden.
 
-#### Artikel 11.3. Benoembaarheid onbevoegde docenten
+##### Artikel 11.3. Benoembaarheid onbevoegde docenten
 
 Onverminderd [artikel 4.2.1, eerste lid, onderdelen, a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=4&titeldeel=2&artikel=4.2.1&z=2026-01-01&g=2026-01-01), mag in afwijking van artikel 4.2.1, eerste lid, onderdeel b, gedurende een periode van vijf jaar na het tijdstip van de inwerkingtreding van dit artikel beroepsonderwijs en educatie gegeven worden door degenen die op die dag secundair beroepsonderwijs en educatie gaven op een van de instellingen in de openbare lichamen zonder daartoe bevoegd te zijn.
 
-#### Artikel 11.4. Benoembaarheid docenten in opleiding
+##### Artikel 11.4. Benoembaarheid docenten in opleiding
 
 Onverminderd [artikel 4.2.1, eerste lid, onderdelen a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=4&titeldeel=2&artikel=4.2.1&z=2026-01-01&g=2026-01-01), kunnen in afwijking van artikel 4.2.1, eerste lid onderdeel b, degenen die geen getuigschrift bezitten als bedoeld in artikel 4.2.1, eerste lid onderdeel b, ten eerste, maar voorafgaand aan het tijdstip van de inwerkingtreding van dit artikel, een opleiding begonnen zijn die leidt tot een bewijs van bekwaamheid tot het geven van onderwijs als bedoeld in de Landsverordening secundair beroepsonderwijs en educatie, gedurende een periode van vijf jaar na dat tijdstip na het behalen van dit bewijs van bekwaamheid worden benoemd dan wel tewerkgesteld worden zonder benoeming tot docent in het beroepsonderwijs en educatie.
 
-#### Artikel 11.5. Toepasselijkheid [Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455)
+##### Artikel 11.5. Toepasselijkheid [Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455)
 
 Een beslissing als bedoeld in [artikel 7.6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=6&artikel=7.6.1&z=2026-01-01&g=2026-01-01), van een bevoegd gezag van een openbare school geldt als een beschikking als bedoeld in [artikel 3 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=3).
 
-#### Artikel 11.6. Bestrijding voortijdig schoolverlaten
+##### Artikel 11.6. Bestrijding voortijdig schoolverlaten
 
 Vervallen
 
-#### Artikel 11.6a. Continueren oude bepalingen voor zover de nieuwe nog niet in werking treden
+##### Artikel 11.6a. Continueren oude bepalingen voor zover de nieuwe nog niet in werking treden
 
 Vervallen
 
-#### Artikel 11.7. Citeertitel
+##### Artikel 11.7. Citeertitel
 
 Deze wet wordt aangehaald als: Wet educatie en beroepsonderwijs BES.
 
-#### Artikel 1.3.2. Kwaliteitszorg
+##### Artikel 1.3.2. Kwaliteitszorg
 
 1. Het bevoegd gezag draagt er zorg voor dat het onderwijs van voldoende kwaliteit is. Een instelling verricht geen nevenwerkzaamheden die de beroepsopleiding of de opleiding educatie schaden.
 
@@ -2350,7 +2377,7 @@ Deze wet wordt aangehaald als: Wet educatie en beroepsonderwijs BES.
 
 ### Hoofdstuk 4. Personeel
 
-#### Artikel 4.3.1. Vereiste benoembaarheid overig personeel
+##### Artikel 4.3.1. Vereiste benoembaarheid overig personeel
 
 Tot lid van het personeel, anders dan bedoeld in de [artikelen 4.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=4&titeldeel=2&artikel=4.2.1&z=2026-01-01&g=2026-01-01) en [4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=4&titeldeel=2&artikel=4.2.2&z=2026-01-01&g=2026-01-01), kan slechts worden benoemd degene die in het bezit is van een verklaring omtrent het gedrag, afgegeven volgens de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028258), die op het tijdstip van overlegging aan het bevoegd gezag niet ouder is dan 6 maanden.
 
@@ -2362,13 +2389,13 @@ Tot lid van het personeel, anders dan bedoeld in de [artikelen 4.2.1](https://we
 
 #### § 1. Reikwijdte
 
-#### Artikel 7.2.1. Reikwijdte
+##### Artikel 7.2.1. Reikwijdte
 
 Deze titel is van toepassing op beroepsopleidingen.
 
 #### § 1. Reikwijdte
 
-#### Artikel 7.2.2. Onderscheid beroepsopleidingen; niveau; leerwegen
+##### Artikel 7.2.2. Onderscheid beroepsopleidingen; niveau; leerwegen
 
 1. De volgende soorten beroepsopleidingen worden onderscheiden:
 
@@ -2386,19 +2413,19 @@ Deze titel is van toepassing op beroepsopleidingen.
 
 3. De entreeopleidingen richten zich op de kwalificatie voor het eerste niveau van beroepsuitoefening of voor de entree op de arbeidsmarkt. De basisberoepsopleidingen richten zich op de kwalificatie voor het tweede, de vakopleidingen op de kwalificatie voor het derde en de middenkader en specialistenopleidingen op de kwalificatie voor het vierde en hoogste niveau van beroepsuitoefening.
 
-#### Artikel 7.2.3. Certificaten
+##### Artikel 7.2.3. Certificaten
 
 1. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat aan onderdelen van een kwalificatie of kwalificaties een certificaat is verbonden.
 
 2. [Artikel 7.4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=4&paragraaf=1&artikel=7.4.8&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing op certificaten.
 
-#### Artikel 7.2.4. Kwalificatiestructuur
+##### Artikel 7.2.4. Kwalificatiestructuur
 
 1. Bij ministeriële regeling wordt vastgesteld voor welke kwalificaties uit de kwalificatiedossiers, bedoeld in [artikel 7.2.4, tweede lid, onder a, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4), beroepsopleidingen verzorgd kunnen worden.
 
 2. Bij ministeriële regeling worden op voorstel van de instellingen opleidingsdomeinen BES vastgesteld.
 
-#### Artikel 7.2.5. Beroepsvereisten
+##### Artikel 7.2.5. Beroepsvereisten
 
 Indien voor een beroep bij of krachtens een wet, verdrag of bindend besluit van een volkenrechtelijke organisatie, vereisten zijn vastgesteld over de kwaliteiten op het gebied van kennis, inzicht, vaardigheden of beroepshoudingen waarover degenen die een opleiding gericht op dat beroep voltooien, moeten beschikken, of over de examinering bij de desbetreffende beroepsopleiding:
 
@@ -2406,7 +2433,7 @@ Indien voor een beroep bij of krachtens een wet, verdrag of bindend besluit van 
 
 - b. draagt de instelling er bij het aanbieden van een beroepsopleiding zorg voor dat degenen die deze opleiding volgen, ten minste in de gelegenheid zijn aan die vereisten te voldoen, en dat bij de examinering, zo nodig in afwijking van [titel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=4&z=2026-01-01&g=2026-01-01) van dit hoofdstuk, aan die vereisten wordt voldaan.
 
-#### Artikel 7.2.6. Inrichting beroepsopleidingen
+##### Artikel 7.2.6. Inrichting beroepsopleidingen
 
 1. Het bevoegd gezag draagt er zorg voor dat beroepsopleidingen zodanig zijn ingericht dat studenten, ongeacht of zij eerst worden ingeschreven voor een opleidingsdomein BES of voor een kwalificatiedossier, de kwalificatie binnen de vastgestelde studieduur kunnen bereiken en dat het onderwijsprogramma evenwichtig is ingedeeld, alsmede voldoende begeleide onderwijsuren en uren beroepspraktijkvorming omvat.
 
@@ -2434,7 +2461,7 @@ Het bevoegd gezag kan een onderwijsprogramma verzorgen dat minder uren omvat dan
 
 8. Voor opleidingen waarvan op grond van [artikel 7.2.4a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.4a&z=2026-01-01&g=2026-01-01), een studieduur is vastgesteld van meer dan drie volledige studiejaren wordt het onderwijsprogramma, bedoeld in het derde lid, onderdeel d, naar evenredigheid verhoogd met begeleide onderwijsuren en uren beroepspraktijkvorming. De laatste twee volzinnen van het derde lid zijn van overeenkomstige toepassing.
 
-#### Artikel 7.2.7. De beroepspraktijkvorming
+##### Artikel 7.2.7. De beroepspraktijkvorming
 
 1. Van elke opleiding maakt onderricht in de praktijk van het beroep deel uit. De beroepspraktijkvorming kan voor een deel plaatsvinden in de periode waarin de student is ingeschreven voor een opleidingsdomein BES of een kwalificatiedossier.
 
@@ -2450,7 +2477,7 @@ Het bevoegd gezag kan een onderwijsprogramma verzorgen dat minder uren omvat dan
 
 3. Het bedrijf dat of de organisatie die de beroepspraktijkvorming verzorgt, draagt zorg voor de begeleiding van de studenten binnen het bedrijf. Het bevoegd gezag beoordeelt of de student het in het tweede lid, onderdeel c, bedoelde deel van de kwalificatie heeft behaald. Het bevoegd gezag betrekt bij die beoordeling het oordeel van het bedrijf onderscheidenlijk de organisatie, met inachtneming van de desbetreffende in de onderwijs- en examenregeling op te nemen regels.
 
-#### Artikel 7.2.8. Totstandkoming praktijkovereenkomst; vervangende praktijkplaats
+##### Artikel 7.2.8. Totstandkoming praktijkovereenkomst; vervangende praktijkplaats
 
 1. Het bevoegd gezag draagt zorg voor de totstandkoming van de in [artikel 7.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.7&z=2026-01-01&g=2026-01-01) bedoelde overeenkomst. De overeenkomst wordt gesloten door de instelling, de student en het bedrijf dat of de organisatie die de beroepspraktijkvorming verzorgt. De overeenkomst wordt voor zover het de beroepsbegeleidende leerweg betreft, mede ondertekend door de raad, die daarmee verklaart:
 
@@ -2460,7 +2487,7 @@ Het bevoegd gezag kan een onderwijsprogramma verzorgen dat minder uren omvat dan
 
 2. Indien het bevoegd gezag en de raad na het sluiten van de in [artikel 7.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.7&z=2026-01-01&g=2026-01-01) bedoelde overeenkomst vaststellen dat de praktijkplaats niet of niet volledig beschikbaar is, de begeleiding tekortschiet of ontbreekt, het bedrijf of de organisatie niet langer beschikt over een gunstige beoordeling als bedoeld in het eerste lid, of sprake is van andere omstandigheden die maken dat de beroepspraktijkvorming niet naar behoren zal kunnen plaatsvinden, bevordert het bevoegd gezag, na overleg met de raad, dat een toereikende vervangende voorziening beschikbaar wordt gesteld.
 
-#### Artikel 7.2.9. Kwaliteitszorgsysteem; beoordeling van praktijkplaatsen
+##### Artikel 7.2.9. Kwaliteitszorgsysteem; beoordeling van praktijkplaatsen
 
 1. De raad richt een stelsel van kwaliteitszorg voor de beroepspraktijkvorming in en zorgt ervoor dat bedrijven en organisaties die de beroepspraktijkvorming verzorgen eenmaal per vier jaar worden beoordeeld aan de hand van de in dit stelsel ontwikkelde criteria. Indien daartoe door bijzondere omstandigheden aanleiding bestaat kan controle frequenter plaatsvinden.
 
@@ -2474,11 +2501,11 @@ Het bevoegd gezag kan een onderwijsprogramma verzorgen dat minder uren omvat dan
 
 #### § 1. Examens beroepsopleidingen en opleidingen educatie met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als vreemde taal
 
-#### Artikel 7.4.1. Reikwijdte
+##### Artikel 7.4.1. Reikwijdte
 
 Deze paragraaf is van toepassing op beroepsopleidingen en opleidingen educatie, met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als vreemde taal.
 
-#### Artikel 7.4.2. Algemene bepalingen inzake examens
+##### Artikel 7.4.2. Algemene bepalingen inzake examens
 
 1. Het bevoegd gezag geeft de studenten en deelnemers de gelegenheid een examen af te leggen.
 
@@ -2486,15 +2513,15 @@ Deze paragraaf is van toepassing op beroepsopleidingen en opleidingen educatie, 
 
 3. Het examen bestaat uit afzonderlijke onderdelen. Het examen van een beroepsopleiding is met gunstig gevolg afgelegd indien alle toetsen van die opleiding met gunstig gevolg zijn afgelegd, onverminderd [artikel 7.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=4&paragraaf=1&artikel=7.4.3&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 7.4.3. Examens beroepsopleidingen
+##### Artikel 7.4.3. Examens beroepsopleidingen
 
 Het examen van een beroepsopleiding is eerst dan met goed gevolg afgesloten wanneer zowel de beroepspraktijkvorming als het overige deel van de beroepsopleiding met goed gevolg is afgesloten.
 
-#### Artikel 7.4.4. Centrale examinering onderdelen beroepsopleidingen
+##### Artikel 7.4.4. Centrale examinering onderdelen beroepsopleidingen
 
 Bij algemene maatregel van bestuur kunnen onderdelen van een beroepsopleiding worden aangewezen waarvan de examinering geschiedt volgens bij of krachtens die algemene maatregel van bestuur te geven voorschriften.
 
-#### Artikel 7.4.5. Kwaliteitsstandaarden
+##### Artikel 7.4.5. Kwaliteitsstandaarden
 
 Bij ministeriële regeling worden standaarden voor de kwaliteit van de examens van de beroepsopleidingen vastgesteld die betrekking hebben op:
 
@@ -2502,7 +2529,7 @@ Bij ministeriële regeling worden standaarden voor de kwaliteit van de examens v
 
 - b. de procedures rond de examens en de voorwaarden waaronder examens worden afgenomen.
 
-#### Artikel 7.4.6. Examinering door andere instellingen of exameninstellingen
+##### Artikel 7.4.6. Examinering door andere instellingen of exameninstellingen
 
 1. Het bevoegd gezag kan de gehele examinering van een beroepsopleiding overdragen aan een andere instelling of aan een exameninstelling als bedoeld in [artikel 1.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=1&titeldeel=6&artikel=1.6.1&z=2026-01-01&g=2026-01-01), voor zover deze het recht op examinering van die beroepsopleiding hebben.
 
@@ -2510,19 +2537,19 @@ Bij ministeriële regeling worden standaarden voor de kwaliteit van de examens v
 
 3. Het bevoegd gezag kan de examinering van extraneï die op grond van een samenwerkingsovereenkomst als bedoeld in [artikel 8.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=4&artikel=8.4.2&z=2026-01-01&g=2026-01-01) een entreeopleiding volgen, onder zijn verantwoordelijkheid laten uitvoeren door het bevoegd gezag van een school voor voortgezet onderwijs.
 
-#### Artikel 7.4.7. Examencommissie
+##### Artikel 7.4.7. Examencommissie
 
 1. Het bevoegd gezag van een instelling of exameninstelling stelt, al dan niet in samenwerking met een of meer bevoegde gezagsorganen van andere instellingen, een examencommissie in ten behoeve van de organisatie en het afnemen van de examens voor elke door de instelling verzorgde opleiding of voor groepen van opleidingen.
 
 2. Het bevoegd gezag benoemt de leden van de examencommissie.
 
-#### Artikel 7.4.8. Diploma’s
+##### Artikel 7.4.8. Diploma’s
 
 1. Ten bewijze dat een examen met goed gevolg is afgelegd, reikt de examencommissie een diploma uit.
 
 2. Bij ministeriële regeling worden modellen en technische veiligheidseisen voor het diploma en de resultatenlijst van een beroepsopleiding vastgesteld.
 
-#### Artikel 7.4.9. Onderwijs- en examenregeling
+##### Artikel 7.4.9. Onderwijs- en examenregeling
 
 1. Het bevoegd gezag stelt voor elke door de instelling verzorgde opleiding of opleiding educatie een onderwijs- en examenregeling vast. De onderwijs- en examenregeling wordt vastgesteld vóór 1 mei voorafgaand aan het studiejaar en omvat, voor zover van toepassing, ten minste:
 
@@ -2562,7 +2589,7 @@ Bij ministeriële regeling worden standaarden voor de kwaliteit van de examens v
 
 2. De examencommissie stelt, met inachtneming van de onderwijs- en examenregeling, regels vast met betrekking tot de goede gang van zaken tijdens het afnemen van de toetsen, het examen of de examenonderdelen. Zij kan aan examinatoren richtlijnen en aanwijzingen geven met betrekking tot de beoordeling en met betrekking tot de vaststelling van de uitslag.
 
-#### Artikel 7.4.10. Studentenstatuut
+##### Artikel 7.4.10. Studentenstatuut
 
 Het bevoegd gezag zorgt ervoor dat de instelling beschikt over een toegankelijk en begrijpelijk studentenstatuut waarin de rechten en plichten van de studenten zijn opgenomen, en stelt de actuele versie van het studentenstatuut voor de studenten beschikbaar. Het bevoegd gezag bevordert voorts de kennis van het studentenstatuut. Het studentenstatuut bevat in elk geval:
 
@@ -2588,17 +2615,17 @@ Het bevoegd gezag zorgt ervoor dat de instelling beschikt over een toegankelijk 
 
 - k. de instellingsregels over het mbo-studentenfonds, bedoeld in [artikel 8.1.6f](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.6f&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 7.4.11. Studiegids
+##### Artikel 7.4.11. Studiegids
 
 Het bevoegd gezag maakt voor de aanvang van het studiejaar een studiegids openbaar. De studiegids maakt het de aanstaande student mogelijk, zich een goed beeld te vormen van de inhoud en inrichting van het onderwijs en de examens aan de instelling en omvat in elk geval de onderwijs- en examenregeling van de onderscheiden beroepsopleidingen en opleidingen educatie.
 
 #### § 2. Examens opleidingen voortgezet algemeen volwassenenonderwijs en Nederlands als vreemde taal
 
-#### Artikel 7.4.12. Reikwijdte
+##### Artikel 7.4.12. Reikwijdte
 
 Deze paragraaf is van toepassing op opleidingen voortgezet algemeen volwassenenonderwijs en de opleidingen Nederlands als vreemde taal.
 
-#### Artikel 7.4.13. Examenregeling opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als vreemde taal
+##### Artikel 7.4.13. Examenregeling opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als vreemde taal
 
 1. Aan de vavo-studenten en deelnemers wordt gelegenheid gegeven een examen af te leggen.
 
@@ -2640,7 +2667,7 @@ Deze paragraaf is van toepassing op opleidingen voortgezet algemeen volwasseneno
 
 ## Titel 1. Inschrijving, toelating, mbo-studentenfonds en bindend studieadvies
 
-#### Artikel 8.2.1. Vooropleidingseisen
+##### Artikel 8.2.1. Vooropleidingseisen
 
 1. Vereiste voor inschrijving voor een middenkaderopleiding als bedoeld in [artikel 7.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.2&z=2026-01-01&g=2026-01-01), is met inachtneming van het bepaalde krachtens [artikel 8.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=2&artikel=8.2.2&z=2026-01-01&g=2026-01-01) het bezit van:
 
@@ -2692,7 +2719,7 @@ Deze paragraaf is van toepassing op opleidingen voortgezet algemeen volwasseneno
 
 6. Het bevoegd gezag kan in bijzondere gevallen personen die niet voldoen aan de vooropleidingseis voor een basisberoepsopleiding, vakopleiding, middenkaderopleiding of specialistenopleiding, vrijstellen van die vooropleidingseis, indien zij bij een onderzoek hebben blijk gegeven van geschiktheid voor het desbetreffende onderwijs.
 
-#### Artikel 8.2.2. Nadere vooropleidingseisen
+##### Artikel 8.2.2. Nadere vooropleidingseisen
 
 1. In dit artikel en de daarop gebaseerde regelgeving wordt onder «diploma» verstaan:
 
@@ -2722,15 +2749,15 @@ Deze paragraaf is van toepassing op opleidingen voortgezet algemeen volwasseneno
 
 ### Hoofdstuk 9. Beroep bij de administratieve rechter
 
-#### Artikel 11.6b. Overgangsbepaling eindtermgerichte opleidingen
+##### Artikel 11.6b. Overgangsbepaling eindtermgerichte opleidingen
 
 Het bevoegd gezag kan tot een bij koninklijk besluit te bepalen tijdstip op eindtermen gerichte beroepsopleidingen verzorgen. Op deze opleidingen zijn de [artikelen 1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=1&titeldeel=1&artikel=1.1.1&z=2026-01-01&g=2026-01-01), [1.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=1&titeldeel=4&artikel=1.4.1&z=2026-01-01&g=2026-01-01), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=2&artikel=2.2.2&z=2026-01-01&g=2026-01-01), [7.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=1&artikel=7.1.2&z=2026-01-01&g=2026-01-01), [7.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=1&artikel=7.1.3&z=2026-01-01&g=2026-01-01), [7.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.2&z=2026-01-01&g=2026-01-01), [7.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.3&z=2026-01-01&g=2026-01-01), [7.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.4&z=2026-01-01&g=2026-01-01), [7.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.5&z=2026-01-01&g=2026-01-01), [7.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.6&z=2026-01-01&g=2026-01-01), [7.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.7&z=2026-01-01&g=2026-01-01), [7.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=4&paragraaf=1&artikel=7.4.2&z=2026-01-01&g=2026-01-01), [7.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=4&paragraaf=1&artikel=7.4.3&z=2026-01-01&g=2026-01-01), 7[.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=4&paragraaf=1&artikel=7.4.5&z=2026-01-01&g=2026-01-01), [7.4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=4&paragraaf=1&artikel=7.4.8&z=2026-01-01&g=2026-01-01), [8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.1&z=2026-01-01&g=2026-01-01) en [8.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.5&z=2026-01-01&g=2026-01-01) zoals luidend op de dag voor de inwerkingtreding van de wijzigingen van die artikelen op grond van deze wet en de eindtermen die gelden op die dag van toepassing.
 
-#### Artikel 11.6b*. Inwerkingtreding
+##### Artikel 11.6b*. Inwerkingtreding
 
 De artikelen die niet bij Besluit van 3 februari 2011, houdende vaststelling van het tijdstip van inwerkingtreding van een aantal onderdelen van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba (Stb. 2011, 34) in werking zijn getreden, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.
 
-#### Artikel 6.2.2a. Ontneming recht op examinering educatie; waarschuwing
+##### Artikel 6.2.2a. Ontneming recht op examinering educatie; waarschuwing
 
 1. Onze Minister kan aan een instelling het recht op examinering van een opleiding educatie als bedoeld in [artikel 7.3.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=3&artikel=7.3.1&z=2026-01-01&g=2026-01-01), ontnemen, indien
 
@@ -2776,7 +2803,7 @@ De artikelen die niet bij Besluit van 3 februari 2011, houdende vaststelling van
 
 ### Hoofdstuk 10. Sancties
 
-#### Artikel 10a.1. Ruimte voor innovatie
+##### Artikel 10a.1. Ruimte voor innovatie
 
 1. Met het oog op verbetering van de kwaliteit, toegankelijkheid of doelmatigheid van het beroepsonderwijs kan bij wijze van experiment bij algemene maatregel van bestuur worden afgeweken van:
 
@@ -2816,11 +2843,11 @@ De voordracht voor die algemene maatregel van bestuur wordt niet eerder gedaan d
 
 ### Hoofdstuk 9. Beroep bij de administratieve rechter
 
-#### Artikel 11.6b*. Inwerkingtreding
+##### Artikel 11.6b*. Inwerkingtreding
 
 De artikelen die niet bij Besluit van 3 februari 2011, houdende vaststelling van het tijdstip van inwerkingtreding van een aantal onderdelen van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba (Stb. 2011, 34) in werking zijn getreden, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.
 
-#### Artikel 8.1.2a. Samenwerking met onbekostigde VO-scholen
+##### Artikel 8.1.2a. Samenwerking met onbekostigde VO-scholen
 
 1. Het bevoegd gezag van een instelling die een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=3&artikel=7.3.1&z=2026-01-01&g=2026-01-01), verzorgt die is erkend op grond van [artikel 1.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=1&titeldeel=4&artikel=1.4.2&z=2026-01-01&g=2026-01-01), kan, ten aanzien van genoemde opleiding, in afwijking van [artikel 8.1.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.1c&z=2026-01-01&g=2026-01-01), in gevallen als geregeld in en met inachtneming van de voorschriften gegeven bij of krachtens [artikel 2.109 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.109) tot onderwijs- en examenvoorzieningen van de instelling toelaten zij die niet als vavo-student of extraneus aan de instelling worden ingeschreven maar zijn ingeschreven als leerling aan een ingevolge [artikel 2.66 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.66) aangewezen school.
 
@@ -2840,11 +2867,11 @@ De artikelen die niet bij Besluit van 3 februari 2011, houdende vaststelling van
 
 ### Hoofdstuk 10. Sancties
 
-#### Artikel 11.6b*. Inwerkingtreding
+##### Artikel 11.6b*. Inwerkingtreding
 
 De artikelen die niet bij Besluit van 3 februari 2011, houdende vaststelling van het tijdstip van inwerkingtreding van een aantal onderdelen van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba (Stb. 2011, 34) in werking zijn getreden, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.
 
-#### Artikel 2.2.5a. Rijksbijdrage en private activiteiten
+##### Artikel 2.2.5a. Rijksbijdrage en private activiteiten
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van de besteding van de rijksbijdrage aan private activiteiten ten behoeve van het onderwijs.
 
@@ -2868,7 +2895,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten
 
 #### § 1. Reikwijdte
 
-#### Artikel 7.2.4a. Studieduur opleidingen
+##### Artikel 7.2.4a. Studieduur opleidingen
 
 1. Het bevoegd gezag stelt de studieduur van de opleiding vast met inachtneming van de bij of krachtens het tweede en derde lid gestelde regels.
 
@@ -2900,13 +2927,13 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten
 
 ## Titel 6. Practicumplaatsen voor ho-studenten in opleiding
 
-#### Artikel 8.1.1a. Toelating entreeopleiding
+##### Artikel 8.1.1a. Toelating entreeopleiding
 
 1. Onverminderd de [artikelen 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.1&z=2026-01-01&g=2026-01-01), [8.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.2&z=2026-01-01&g=2026-01-01) en [8.1.7b](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.7b&z=2026-01-01&g=2026-01-01), staat de toelating tot de entreeopleiding uitsluitend open voor degenen die niet ten minste voldoen aan de vooropleidingseisen van de basisberoepsopleiding, bedoeld in [artikel 8.2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=2&artikel=8.2.1&z=2026-01-01&g=2026-01-01), en waarop [paragraaf 2 van de Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&paragraaf=2) niet meer van toepassing is, met uitzondering van degenen ten aanzien van wie toepassing is gegeven aan [artikel 9 van de Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=9).
 
 2. Het bevoegd gezag kan de toelating tot de entreeopleiding slechts weigeren indien diegene die om toelating verzoekt in de afgelopen twee studiejaren bij een instelling was toegelaten tot een entreeopleiding.
 
-#### Artikel 8.1.1b. Recht op toelating basisberoepsopleiding, vakopleiding, middenkaderopleiding en specialistenopleiding
+##### Artikel 8.1.1b. Recht op toelating basisberoepsopleiding, vakopleiding, middenkaderopleiding en specialistenopleiding
 
 1. Onverminderd de [artikelen 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.1&z=2026-01-01&g=2026-01-01), [8.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.2&z=2026-01-01&g=2026-01-01) en [8.1.7b](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.7b&z=2026-01-01&g=2026-01-01), staat de toelating tot een basisberoepsopleiding, een vakopleiding, een middenkaderopleiding en een specialistenopleiding open voor degene die voldoet aan de in de bij of krachtens de [artikelen 8.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=2&artikel=8.2.1&z=2026-01-01&g=2026-01-01), [8.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=2&artikel=8.2.2&z=2026-01-01&g=2026-01-01) en [8.2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=2&artikel=8.2.2a&z=2026-01-01&g=2026-01-01) ten aanzien van die opleidingen gestelde eisen.
 
@@ -2930,11 +2957,11 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten
 
 6. Het bevoegd gezag stelt met in achtneming van de voorgaande leden de toelatingsprocedure vast en stelt deze informatie uiterlijk 1 februari voorafgaand aan het studiejaar waarvoor deze geldt, voor een ieder beschikbaar.
 
-#### Artikel 8.1.1c. Toelating opleiding educatie
+##### Artikel 8.1.1c. Toelating opleiding educatie
 
 De toelating tot opleidingen educatie staat uitsluitend open voor volwassenen.
 
-#### Artikel 8.1.7a. Bindend studieadvies
+##### Artikel 8.1.7a. Bindend studieadvies
 
 1. Het bevoegd gezag brengt aan iedere student die zich inschrijft, advies uit over de voortzetting van zijn opleiding. Aan degenen die zijn ingeschreven voor een opleiding waarvan studieduur als bedoeld in [artikel 7.2.4a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.4a&z=2026-01-01&g=2026-01-01), één volledig studiejaar bedraagt wordt dit advies uiterlijk binnen vier kalendermaanden na aanvang van de opleiding gegeven, doch niet eerder dan drie maanden na aanvang. Aan degenen die zijn ingeschreven voor een opleiding als bedoeld in artikel 7.2.4a, derde lid, die meer dan één volledig studiejaar bedraagt wordt dit advies na ten minste negen kalendermaanden en uiterlijk aan het eind van het eerste studiejaar van de opleiding gegeven.
 
@@ -2960,15 +2987,15 @@ De toelating tot opleidingen educatie staat uitsluitend open voor volwassenen.
 
 ### Hoofdstuk 10. Sancties
 
-#### Artikel 11.6c. Beëindiging inschrijvingen beroepsopleidingen oude stijl
+##### Artikel 11.6c. Beëindiging inschrijvingen beroepsopleidingen oude stijl
 
 De student die in het studiejaar voorafgaand aan het tijdstip van inwerkingtreding van dit artikel stond ingeschreven voor een beroepsopleiding wordt door het bevoegd gezag in de gelegenheid gesteld deze opleiding te voltooien uiterlijk in het studiejaar volgend op het studiejaar waarin de voor hem geldende studieduur is verstreken. Hierop zijn de [artikelen 7.2.2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.2&z=2026-01-01&g=2026-01-01), en [7.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.6&z=2026-01-01&g=2026-01-01) van toepassing zoals die artikelen luidden vóór dat tijdstip.
 
-#### Artikel 11.6b*. Inwerkingtreding
+##### Artikel 11.6b*. Inwerkingtreding
 
 De artikelen die niet bij Besluit van 3 februari 2011, houdende vaststelling van het tijdstip van inwerkingtreding van een aantal onderdelen van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba (Stb. 2011, 34) in werking zijn getreden, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.
 
-#### Artikel 1.3.2a. Kwaliteit onderwijspersoneel
+##### Artikel 1.3.2a. Kwaliteit onderwijspersoneel
 
 Het bevoegd gezag draagt zorg voor het personeelsbeleid, voor zover het betreft de duurzame borging van de kwaliteit van het onderwijspersoneel.
 
@@ -3012,15 +3039,15 @@ Het bevoegd gezag draagt zorg voor het personeelsbeleid, voor zover het betreft 
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen
 
-#### Artikel 11.6b*. Inwerkingtreding
+##### Artikel 11.6b*. Inwerkingtreding
 
 De artikelen die niet bij Besluit van 3 februari 2011, houdende vaststelling van het tijdstip van inwerkingtreding van een aantal onderdelen van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba (Stb. 2011, 34) in werking zijn getreden, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.
 
-#### Artikel 11.6d. Inwerkingtreding
+##### Artikel 11.6d. Inwerkingtreding
 
 De artikelen die niet bij Besluit van 3 februari 2011, houdende vaststelling van het tijdstip van inwerkingtreding van een aantal onderdelen van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba (Stb. 2011, 34) in werking zijn getreden, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.
 
-#### Artikel 7.2.1a. Informatie beroepsopleidingen aan aanstaande deelnemers
+##### Artikel 7.2.1a. Informatie beroepsopleidingen aan aanstaande deelnemers
 
 1. Het bevoegd gezag verstrekt zodanige informatie aan aanstaande deelnemers van beroepsopleidingen over:
 
@@ -3062,7 +3089,7 @@ dat de aanstaande deelnemers in staat zijn de opleidingsmogelijkheden te vergeli
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen
 
-#### Artikel 7.4.10a. Klachten
+##### Artikel 7.4.10a. Klachten
 
 1. Ouders dan wel studenten of deelnemers, en personeelsleden kunnen bij de klachtencommissie, bedoeld in het tweede lid, onderdeel a, een klacht indienen over gedragingen en beslissingen van het bevoegd gezag of het personeel, waaronder discriminatie, dan wel het nalaten van gedragingen en het niet nemen van beslissingen door het bevoegd gezag of het personeel.
 
@@ -3106,13 +3133,13 @@ dat de aanstaande deelnemers in staat zijn de opleidingsmogelijkheden te vergeli
 
 ## Titel 0. **Aanmelding**
 
-#### Artikel 8.1.7b. Ongeschiktheid voor toekomstige beroepsuitoefening
+##### Artikel 8.1.7b. Ongeschiktheid voor toekomstige beroepsuitoefening
 
 1. Het bevoegd gezag kan in bijzondere gevallen na advies van de examencommissie en na zorgvuldige afweging van de betrokken belangen beslissen de student niet in te schrijven of de inschrijving te beëindigen, als die deelnemer door zijn gedragingen of uitlatingen blijk heeft gegeven van ongeschiktheid voor de uitoefening van een of meer beroepen waartoe de door hem gevolgde opleiding hem opleidt, dan wel voor de praktische voorbereiding op de beroepsuitoefening.
 
 2. Het bevoegd gezag dan wel het bevoegd gezag van een andere instelling die een zelfde of verwante opleiding verzorgt, kan besluiten de deelnemer niet opnieuw of niet voor die opleiding in te schrijven.
 
-#### Artikel 8.2.2a. Aanvullende eisen
+##### Artikel 8.2.2a. Aanvullende eisen
 
 1. Indien de uitoefening van het beroep of de beroepen waarop een opleiding voorbereidt, dan wel de organisatie en de inrichting van het onderwijs, specifieke eisen stellen ten aanzien van kennis of vaardigheden die niet of niet in voldoende mate onderdeel zijn van het voortgezet onderwijs, bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212), respectievelijk specifieke eisen stellen ten aanzien van de eigenschappen van de deelnemer, kunnen bij ministeriële regeling opleidingen worden aangewezen die op daarbij aangegeven gronden eisen kunnen stellen in aanvulling op de eisen, bedoeld in de [artikelen 8.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=2&artikel=8.2.1&z=2026-01-01&g=2026-01-01) en [8.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=2&artikel=8.2.2&z=2026-01-01&g=2026-01-01).
 
@@ -3128,15 +3155,15 @@ dat de aanstaande deelnemers in staat zijn de opleidingsmogelijkheden te vergeli
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen
 
-#### Artikel 11.6e. Overgangsbepaling leden examencommissie
+##### Artikel 11.6e. Overgangsbepaling leden examencommissie
 
 De leden van de examencommissie, bedoeld in [artikel 7.4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=4&paragraaf=1&artikel=7.4.7&z=2026-01-01&g=2026-01-01) zoals die bepaling luidde op de dag voorafgaand aan de inwerkingtreding van [artikel II, onderdeel B, van de wet van 25 januari 2017 tot wijziging van onder meer de Wet educatie en beroepsonderwijs inzake aanscherping van de eisen met betrekking tot examencommissies in het middelbaar beroepsonderwijs en een technische aanpassing](https://wetten.overheid.nl/jci1.3:c:BWBR0039194&artikel=II) (Stb. 2017, 43), worden aangemerkt als leden van de examencommissie, bedoeld in artikel 7.4.7 zoals luidend na inwerkingtreding van artikel II, onderdeel B, van voornoemde wet.
 
-#### Artikel 11.6f. Evaluatie in verband met het pseudonimiseren van het persoonsgebonden nummer van een onderwijsdeelnemer
+##### Artikel 11.6f. Evaluatie in verband met het pseudonimiseren van het persoonsgebonden nummer van een onderwijsdeelnemer
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de Wet van 29 november 2017 tot wijziging van diverse onderwijswetten in verband met het pseudonimiseren van het persoonsgebonden nummer van een onderwijsdeelnemer ten behoeve van het bieden van voorzieningen in het kader van het onderwijs en de begeleiding van onderwijsdeelnemers (Stb. 508) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van [artikel 2.3.4, negende tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=3&artikel=2.3.4&z=2026-01-01&g=2026-01-01), in de praktijk.
 
-#### Artikel 1.4.3. Samenwerking met onbekostigd vo t.b.v. doorlopende leerroute vmbo-mbo en geïntegreerde route vmbo-basisberoepsopleiding
+##### Artikel 1.4.3. Samenwerking met onbekostigd vo t.b.v. doorlopende leerroute vmbo-mbo en geïntegreerde route vmbo-basisberoepsopleiding
 
 1. Het bevoegd gezag kan een beroepsopleiding ten aanzien waarvan een erkenning is verkregen op grond van [artikel 1.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=1&titeldeel=4&artikel=1.4.1&z=2026-01-01&g=2026-01-01) een doorlopende leerroute vmbo-mbo of de geïntegreerde route vmbo-basisberoepsopleiding als bedoeld in [artikel 2.107l van de Wet voortgezet onderwijs 2020](onbekend) aanbieden.
 
@@ -3150,7 +3177,7 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de Wet van 29 no
 
 ## Titel 3. Begroting, verslaglegging en gegevensverstrekking
 
-#### Artikel 8.1.6a. Mbo-studentenfonds
+##### Artikel 8.1.6a. Mbo-studentenfonds
 
 1. Het bevoegd gezag treft voorzieningen voor de financiële ondersteuning van een bij die instelling ingeschreven student.
 
@@ -3178,7 +3205,7 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de Wet van 29 no
 
 - f. overige door het bevoegd gezag vastgestelde bijzondere omstandigheden.
 
-#### Artikel 8.1.6b. Voorwaarden voor ondersteuning
+##### Artikel 8.1.6b. Voorwaarden voor ondersteuning
 
 1. De ondersteuning bestaat uit financiële ondersteuning indien ondersteuning als bedoeld in [artikel 8.1.6a, tweede lid, onderdelen a, b of d,](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.6a&z=2026-01-01&g=2026-01-01) wordt verstrekt.
 
@@ -3186,33 +3213,33 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de Wet van 29 no
 
 3. Een student komt uitsluitend in aanmerking voor ondersteuning bij een bijzondere omstandigheid als bedoeld in[artikel 8.1.6a, derde lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.6a&z=2026-01-01&g=2026-01-01), indien de student een beroepsopleidende leerweg volgt en geen aanspraak heeft op studiefinanciering BES in de vorm van prestatiebeurs of gift op grond van de [Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393).
 
-#### Artikel 8.1.6c. Onbillijkheid van overwegende aard
+##### Artikel 8.1.6c. Onbillijkheid van overwegende aard
 
 Het bevoegd gezag kan indien sprake is van een onbillijkheid van overwegende aard ondersteuning verstrekken voor andere bijzondere omstandigheden dan genoemd in [artikel 8.1.6a, derde lid, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.6a&z=2026-01-01&g=2026-01-01), of de voorwaarden bedoeld in [artikel 8.1.6b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.6b&z=2026-01-01&g=2026-01-01), buiten toepassing laten.
 
-#### Artikel 8.1.6d. Hoogte van de financiële ondersteuning
+##### Artikel 8.1.6d. Hoogte van de financiële ondersteuning
 
 1. Indien op grond van de [artikelen 8.1.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.6a&z=2026-01-01&g=2026-01-01) of [8.1.6c](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.6c&z=2026-01-01&g=2026-01-01) financiële ondersteuning wordt toegekend aan een student die een beroepsopleidende leerweg volgt, is het bedrag daarvan niet hoger dan de som van de bedragen, genoemd in de kolommen III en IV voor het beroepsonderwijs op het eigen openbaar lichaam of ander openbaar lichaam, bedoeld in [artikel 2.2, eerste lid, van de Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.2).
 
 2. Onverminderd het eerste lid, kan bij algemene maatregel van bestuur worden bepaald dat een lid van de vertegenwoordiging als bedoeld in [artikel 8.1.6a, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.6a&z=2026-01-01&g=2026-01-01), een financiële ondersteuning ontvangt ter hoogte van een bij algemene maatregel van bestuur te bepalen minimumbedrag. De voordracht voor deze algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 8.1.6e. Voorziening voor aanvullende ondersteuning
+##### Artikel 8.1.6e. Voorziening voor aanvullende ondersteuning
 
 In aanvulling op de voorziening, bedoeld in de [artikelen 8.1.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.6a&z=2026-01-01&g=2026-01-01) of [8.1.6c](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.6c&z=2026-01-01&g=2026-01-01), kan een voorziening voor financiële ondersteuning worden getroffen, die hoger is dan de som van de bedragen, genoemd in de kolommen III en IV voor het beroepsonderwijs op het eigen openbaar lichaam of ander openbaar lichaam, bedoeld in [artikel 2.2, eerste lid, van de Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.2). Deze aanvulling wordt verstrekt onder de benaming: voorziening voor aanvullende ondersteuning.
 
-#### Artikel 8.1.6f. Instellingsregels
+##### Artikel 8.1.6f. Instellingsregels
 
 1. Het bevoegd gezag stelt regels van procedurele aard vast met betrekking tot de toepassing van de [artikelen 8.1.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.6a&z=2026-01-01&g=2026-01-01) of [8.1.6c](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.6c&z=2026-01-01&g=2026-01-01), waartoe in ieder geval behoren regels over de aanvraag, de aanvang en de duur van de ondersteuning en indien het financiële ondersteuning betreft tevens de hoogte van het bedrag.
 
 2. Het bevoegd gezag kan aan de toekenning van ondersteuning de verplichting verbinden dat de student feitelijk studerend is.
 
-#### Artikel 8.1.6g. Informatieplicht en administratieve vastlegging
+##### Artikel 8.1.6g. Informatieplicht en administratieve vastlegging
 
 1. Het bevoegd gezag stelt de student schriftelijk of elektronisch op de hoogte van de ondersteuning, bedoeld in de [artikelen 8.1.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.6a&z=2026-01-01&g=2026-01-01) of [8.1.6c](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.6c&z=2026-01-01&g=2026-01-01), en vermeldt daarbij afzonderlijk het bedrag van de aanvullende voorziening indien de ondersteuning in de vorm van een financiële tegemoetkoming wordt verstrekt.
 
 2. Voorts legt het bevoegd gezag de aan de student verstrekte ondersteuning vast in de administratie van de instelling, onder vermelding van het persoonsgebonden nummer van de student en indien het financiële ondersteuning betreft de hoogte van het toegekende bedrag.
 
-#### Artikel 8.1.6h. Vergoeding in verband met ongebruikte onderwijsbenodigdheden
+##### Artikel 8.1.6h. Vergoeding in verband met ongebruikte onderwijsbenodigdheden
 
 Bij algemene maatregel van bestuur kunnen regels worden gesteld over vergoeding door het bevoegd gezag van kosten die studenten hebben gemaakt voor de aanschaf van onderwijsbenodigdheden die door het bevoegd gezag zijn voorgeschreven, maar waarvan gezien het onderwijsprogramma door de studenten geen gebruik is gemaakt. De voordracht voor deze algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
@@ -3222,7 +3249,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld over vergoeding 
 
 ## Titel 4. Samenwerking in verband met leer-werktrajecten vmbo, assistentopleiding in het vmbo en geïntegreerde route vmbo-basisberoepsopleiding
 
-#### Artikel 8.4.3. Samenwerkingsovereenkomst geïntegreerde route vmbo-basisberoepsopleiding
+##### Artikel 8.4.3. Samenwerkingsovereenkomst geïntegreerde route vmbo-basisberoepsopleiding
 
 1. De geïntegreerde route vmbo-basisberoepsopleiding, bedoeld in [artikel 2.107l van de Wet voortgezet onderwijs 2020](onbekend), wordt verzorgd op grond van een samenwerkingsovereenkomst tussen het bevoegd gezag van een instelling en het bevoegd gezag van een school voor voorbereidend beroepsonderwijs als bedoeld in [artikel 2.7 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7).
 
@@ -3232,11 +3259,11 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld over vergoeding 
 
 ## Titel 4a. Doorlopende leerroute vmbo-mbo
 
-#### Artikel 8.4a.1. Begripsbepaling
+##### Artikel 8.4a.1. Begripsbepaling
 
 In deze titel wordt verstaan onder school: school voor mavo als bedoeld in [artikel 2.6 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6) of school voor vbo als bedoeld in [artikel 2.7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7).
 
-#### Artikel 8.4a.2. Doorlopende leerroutes vmbo-mbo
+##### Artikel 8.4a.2. Doorlopende leerroutes vmbo-mbo
 
 1. Het bevoegd gezag van een instelling kan een beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdeel b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.2&z=2026-01-01&g=2026-01-01), aanbieden in een doorlopende leerroute vmbo-mbo.
 
@@ -3250,7 +3277,7 @@ In deze titel wordt verstaan onder school: school voor mavo als bedoeld in [arti
 
 - c. de kaderberoepsgerichte, gemengde of theoretische leerweg en een middenkaderopleiding in een aanverwant opleidingsdomein BES of een aanverwante kwalificatie.
 
-#### Artikel 8.4a.3. Samenwerkingsovereenkomst instelling en school doorlopende leerroute vmbo-mbo
+##### Artikel 8.4a.3. Samenwerkingsovereenkomst instelling en school doorlopende leerroute vmbo-mbo
 
 1. Een doorlopende leerroute vmbo-mbo wordt verzorgd door het bevoegd gezag van een instelling en het bevoegd gezag van een school gezamenlijk op grond van een samenwerkingsovereenkomst.
 
@@ -3258,27 +3285,27 @@ In deze titel wordt verstaan onder school: school voor mavo als bedoeld in [arti
 
 3. Indien het bevoegd gezag zowel de instelling als de school in stand houdt, regelt het bevoegd gezag op overeenkomstige wijze de onderwerpen, genoemd in [artikel 2.107b, tweede lid, van de Wet voortgezet onderwijs 2020](onbekend), met uitzondering van de onderdelen h en i van dat lid.
 
-#### Artikel 8.4a.4. Melden doorlopende leerroute vmbo-mbo
+##### Artikel 8.4a.4. Melden doorlopende leerroute vmbo-mbo
 
 Het bevoegd gezag van een instelling en het bevoegd gezag van een school melden gezamenlijk aan Onze Minister dat zij een doorlopende leerroute vmbo-mbo aanbieden.
 
-#### Artikel 8.4a.5. Inrichting doorlopende leerroute
+##### Artikel 8.4a.5. Inrichting doorlopende leerroute
 
 1. Aan een leerling van een school kunnen delen van het onderwijsprogramma van de doorlopende leerroute vmbo-mbo en examens worden aangeboden die behoren tot de beroepsopleiding die deel uitmaakt van die doorlopende leerroute, zonder inschrijving als bedoeld in [artikel 8.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.1&z=2026-01-01&g=2026-01-01).
 
 2. Een student in de doorlopende leerroute vmbo-mbo kan in de gelegenheid worden gesteld om delen van het onderwijsprogramma te volgen en examens af te leggen die behoren tot het voortgezet onderwijs dat deel uitmaakt van die doorlopende leerroute.
 
-#### Artikel 8.4a.6. Overeenkomst instelling en leerling
+##### Artikel 8.4a.6. Overeenkomst instelling en leerling
 
 Vervallen
 
-#### Artikel 8.4a.7. Inschrijving bij de instelling
+##### Artikel 8.4a.7. Inschrijving bij de instelling
 
 1. De leerling van een school die een doorlopende leerroute vmbo-mbo volgt wordt met ingang van het derde studiejaar van die doorlopende leerroute vmbo-mbo ingeschreven als student aan de instelling die het beroepsonderwijs binnen de doorlopende leerroute vmbo-mbo verzorgt. In afwijking van [artikel 8.1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.3&z=2026-01-01&g=2026-01-01), eerste volzin, overlegt de school de gegevens, bedoeld in die volzin.
 
 2. Voor de inschrijving, bedoeld in het eerste lid, is het studentenstatuut, bedoeld in [artikel 7.4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=4&paragraaf=1&artikel=7.4.10&z=2026-01-01&g=2026-01-01), reeds van toepassing op een leerling van een school die een doorlopende leerroute vmbo-mbo volgt.
 
-#### Artikel 8.4a.8. Verantwoordelijkheid van de instelling
+##### Artikel 8.4a.8. Verantwoordelijkheid van de instelling
 
 1. Het bevoegd gezag van de instelling draagt de gehele studieduur van de doorlopende leerroute vmbo-mbo zorg voor:
 
@@ -3290,7 +3317,7 @@ Vervallen
 
 3. Artikel 7.4.10a is van overeenkomstige toepassing op klachten over met de doorlopende leerroute vmbo-mbo verband houdende gedragingen en beslissingen van het bevoegd gezag van de school waarmee een samenwerkingsovereenkomst als bedoeld in [artikel is 8.4a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=4a&artikel=8.4a.3&z=2026-01-01&g=2026-01-01) is gesloten, of van het personeel van dat bevoegd gezag. Onverminderd artikel 7.4.10a, vierde lid, onderdeel a, maakt de voorzitter van de klachtencommissie geen deel uit van dat bevoegd gezag en is hij niet werkzaam voor of bij dat bevoegd gezag.
 
-#### Artikel 8.4a.9. Onderwijs- en examenregeling
+##### Artikel 8.4a.9. Onderwijs- en examenregeling
 
 1. In het kader van de onderwijs- en examenregeling, bedoeld in [artikel 7.4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=4&paragraaf=1&artikel=7.4.9&z=2026-01-01&g=2026-01-01), die wordt opgesteld ten aanzien van een doorlopende leerroute, beschrijft het bevoegd gezag van de instelling samen met het bevoegd gezag van de school voor de gehele doorlopende leerroute vmbo-mbo het onderwijsprogramma en de examinering per studiejaar. Daarbij wordt vermeld welke onderdelen van het onderwijsprogramma en van het examen:
 
@@ -3302,7 +3329,7 @@ Vervallen
 
 2. Bij de beschrijving van het onderwijsprogramma wordt tevens vermeld bij welk deel gebruik wordt gemaakt van de teambevoegdheid, bedoeld in [artikel 8.4a.13](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=4a&artikel=8.4a.13&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 8.4a.10. Studieduur doorlopende leerroute vmbo-mbo
+##### Artikel 8.4a.10. Studieduur doorlopende leerroute vmbo-mbo
 
 1. In afwijking van [artikel 7.2.4a, derde lid, onderdelen b tot en met d, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.4a&z=2026-01-01&g=2026-01-01), en van de [artikelen 2.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6), en [2.7, derde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7) bedraagt de studieduur van een doorlopende leerroute vmbo-mbo vanaf het derde leerjaar aan een school:
 
@@ -3316,7 +3343,7 @@ Vervallen
 
 2. Ten aanzien van de opleiding voorbereidend beroepsonderwijs of middelbaar algemeen voortgezet onderwijs die deel uitmaakt van een doorlopende leerroute vmbo-mbo wordt onder «studieduur» mede verstaan «cursusduur als bedoeld in de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284)» en wordt onder «volledig studiejaar» mede verstaan «jaar».
 
-#### Artikel 8.4a.11. Onderwijstijd doorlopende leerroute vmbo-mbo (BOL)
+##### Artikel 8.4a.11. Onderwijstijd doorlopende leerroute vmbo-mbo (BOL)
 
 1. In afwijking van [artikel 2.38, derde en vierde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.38) en [artikel 7.2.6, derde lid, onderdelen b, c en d, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.6&z=2026-01-01&g=2026-01-01), omvat het gehele onderwijsprogramma van een doorlopende leerroute vmbo-mbo waarvan een beroepsopleiding in de beroepsopleidende leerweg deel uitmaakt:
 
@@ -3334,7 +3361,7 @@ Vervallen
 
 3. Ten aanzien van het derde studiejaar van een doorlopende leerroute vmbo-mbo wordt onder begeleide onderwijsuren mede verstaan: onderwijstijd als bedoeld in [artikel 2.38 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.38).
 
-#### Artikel 8.4a.12. Onderwijstijd doorlopende leerroute vmbo-mbo (BBL)
+##### Artikel 8.4a.12. Onderwijstijd doorlopende leerroute vmbo-mbo (BBL)
 
 1. In afwijking van [artikel 2.38, derde en vierde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.38) en [artikel 7.2.6, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=2&paragraaf=2&artikel=7.2.6&z=2026-01-01&g=2026-01-01), en onverminderd [artikel 8.1.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.1&z=2026-01-01&g=2026-01-01), omvat het gehele onderwijsprogramma van een doorlopende leerroute vmbo-mbo waarvan een beroepsopleiding in de beroepsbegeleidende leerweg deel uitmaakt:
 
@@ -3352,11 +3379,11 @@ Vervallen
 
 3. Ten aanzien van het derde studiejaar van een doorlopende leerroute vmbo-mbo wordt onder begeleide onderwijsuren mede verstaan: onderwijstijd als bedoeld in [artikel 2.38 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.38).
 
-#### Artikel 8.4a.13. Teambevoegdheid
+##### Artikel 8.4a.13. Teambevoegdheid
 
 Voor de vakoverstijgende delen van het onderwijsprogramma, bedoeld in [artikel 8.4a.9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=4a&artikel=8.4a.9&z=2026-01-01&g=2026-01-01), en voor de delen van het onderwijsprogramma die een combinatie van voortgezet onderwijs en beroepsonderwijs betreffen, als bedoeld 8.4a.9, onderdeel c, kan, voor zover wordt voldaan aan [artikel 7.13a van de Wet voortgezet onderwijs 2020](onbekend), worden gewerkt met teams die verantwoordelijk zijn voor de kwaliteit van dat deel van het onderwijsprogramma.
 
-#### Artikel 8.4a.14. Overstapoptie
+##### Artikel 8.4a.14. Overstapoptie
 
 1. Indien deelname van de student aan een doorlopende leerroute vmbo-mbo wordt beëindigd voordat hij deze met succes heeft afgerond wordt hij door het bevoegd gezag van de instelling en het bevoegd gezag van de school in staat gesteld een vmbo-diploma of het diploma van een beroepsopleiding te behalen, passend bij het naar het gezamenlijk oordeel van beide betrokken bevoegde gezagsorganen bereikte onderwijsniveau en de leeftijd van de student.
 
@@ -3364,11 +3391,11 @@ Voor de vakoverstijgende delen van het onderwijsprogramma, bedoeld in [artikel 8
 
 3. Het eerste lid is niet van toepassing indien de student definitief van de instelling wordt verwijderd.
 
-#### Artikel 8.4a.15. Overdracht bekostiging in het kader van een doorlopende leerroute vmbo-mbo
+##### Artikel 8.4a.15. Overdracht bekostiging in het kader van een doorlopende leerroute vmbo-mbo
 
 Het bevoegd gezag van de instelling kan met het bevoegd gezag van de school waarmee een samenwerkingsovereenkomst is gesloten als bedoeld in [artikel 8.4a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=4a&artikel=8.4a.3&z=2026-01-01&g=2026-01-01), overeenkomen om vanwege een doorlopende leerroute vmbo-mbo een deel van de rijksbijdrage over te dragen aan dat andere bevoegd gezag.
 
-#### Artikel 8.4a.16. Artikelen die buiten toepassing blijven voor de doorlopende leerroute vmbo-mbo
+##### Artikel 8.4a.16. Artikelen die buiten toepassing blijven voor de doorlopende leerroute vmbo-mbo
 
 De [artikelen 8.0.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=0&artikel=8.0.1&z=2026-01-01&g=2026-01-01), [8.0.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=0&artikel=8.0.3&z=2026-01-01&g=2026-01-01), 8.0.4, [8.1.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.1b&z=2026-01-01&g=2026-01-01), [8.1.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.7a&z=2026-01-01&g=2026-01-01), [8.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=2&artikel=8.2.1&z=2026-01-01&g=2026-01-01), [8.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=2&artikel=8.2.2&z=2026-01-01&g=2026-01-01) en [8.2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=2&artikel=8.2.2a&z=2026-01-01&g=2026-01-01) zijn niet van toepassing op een doorlopende leerroute vmbo-mbo.
 
@@ -3384,7 +3411,7 @@ De [artikelen 8.0.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8
 
 ### Hoofdstuk 10a. Experimenten
 
-#### Artikel 2.2.3a. Teldatum aantal studenten voor berekening bekostiging
+##### Artikel 2.2.3a. Teldatum aantal studenten voor berekening bekostiging
 
 Bij het bepalen van de hoogte van de bekostiging, bedoeld in [artikel 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=2&artikel=2.2.2&z=2026-01-01&g=2026-01-01), gaat Onze Minister volgens daarover bij of krachtens algemene maatregel van bestuur gestelde regels, uit van het aantal studenten op 1 oktober van het jaar voorafgaand aan het jaar waarop de bekostiging betrekking heeft.
 
@@ -3406,11 +3433,11 @@ Bij het bepalen van de hoogte van de bekostiging, bedoeld in [artikel 2.2.2](htt
 
 ### Hoofdstuk 10. Sancties
 
-#### Artikel 11.6g. Evaluatie vereenvoudiging grondslagen bekostiging
+##### Artikel 11.6g. Evaluatie vereenvoudiging grondslagen bekostiging
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de Wet van 28 oktober 2020 tot wijziging van onder meer de Wet op het voortgezet onderwijs en de Wet voortgezet onderwijs BES in verband met vereenvoudiging van de grondslagen van de bekostiging voor personeels- en exploitatiekosten van de scholen voor voortgezet onderwijs (vereenvoudiging grondslagen bekostiging vo-scholen; Stb. 2020, 437), en vervolgens telkens na vier jaar, aan de Staten-Generaal verslag over de doeltreffendheid en de effecten van de wijzigingen in [hoofdstuk 2, titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=2&z=2026-01-01&g=2026-01-01) de praktijk.
 
-#### Artikel 7.4.8a. Mbo-verklaring
+##### Artikel 7.4.8a. Mbo-verklaring
 
 1. Een student aan wie geen diploma of certificaat als bedoeld in [artikel 7.4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=4&paragraaf=1&artikel=7.4.8&z=2026-01-01&g=2026-01-01) kan worden uitgereikt, maar die wel ten minste één waardering voor een onderdeel of voor een deel daarvan van de opleiding heeft behaald, ontvangt op zijn verzoek een door de examencommissie af te geven verklaring.
 
@@ -3448,7 +3475,7 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de Wet van 28 ok
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen
 
-#### Artikel 7.1.4. Rapportage vorderingen van studenten
+##### Artikel 7.1.4. Rapportage vorderingen van studenten
 
 Het bevoegd gezag rapporteert over de vorderingen van de studenten aan hun ouders, voogden of verzorgers, dan wel aan de studenten zelf indien zij meerderjarig en handelingsbekwaam zijn.
 
@@ -3464,7 +3491,7 @@ Het bevoegd gezag rapporteert over de vorderingen van de studenten aan hun ouder
 
 ### Hoofdstuk 8. Aanmelding, inschrijving, mbo-studentenfonds, vooropleidingseisen en melding voortijdig schoolverlaten
 
-#### Artikel 8.1.5a. Afspraken met betrekking tot extra ondersteuning
+##### Artikel 8.1.5a. Afspraken met betrekking tot extra ondersteuning
 
 1. Het bevoegd gezag beoordeelt voorafgaande aan de inschrijving van de student of vavo-student of deze student of vavo-student extra ondersteuning behoeft in verband met handicap of chronische ziekte en onderzoekt daartoe zijn mogelijkheden, behoeften en omstandigheden. Het bevoegd gezag kan de student of vavo-student verzoeken gegevens te overleggen betreffende handicap of chronische ziekte of beperkingen in de onderwijsparticipatie.
 
@@ -3474,7 +3501,7 @@ Het bevoegd gezag rapporteert over de vorderingen van de studenten aan hun ouder
 
 4. Indien de noodzaak van extra ondersteuning in verband met handicap of chronische ziekte na de inschrijving ontstaat, zijn het eerste en tweede lid van overeenkomstige toepassing.
 
-#### Artikel 8.1.6i. Financiële ondersteuning bijzondere activiteiten door Onze Minister
+##### Artikel 8.1.6i. Financiële ondersteuning bijzondere activiteiten door Onze Minister
 
 1. Onze Minister treft voorzieningen voor de financiële ondersteuning van een student of vavo-student die bestuurslid is van een van een rechtspersoon met volledige rechtsbevoegdheid uitgaande politieke jongerenorganisatie van enige omvang of van een landelijke organisatie van enige omvang die voor het beroepsonderwijs relevante activiteiten ontplooit en die daartoe daadwerkelijke activiteiten ontplooit.
 
@@ -3482,7 +3509,7 @@ Het bevoegd gezag rapporteert over de vorderingen van de studenten aan hun ouder
 
 3. De [artikelen 8.1.6e](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.6e&z=2026-01-01&g=2026-01-01) en [8.1.6g](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.6g&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 8.1.7c. Schorsing
+##### Artikel 8.1.7c. Schorsing
 
 1. Het bevoegd gezag kan een student of vavo-student voor ten hoogste twee weken schorsen.
 
@@ -3490,7 +3517,7 @@ Het bevoegd gezag rapporteert over de vorderingen van de studenten aan hun ouder
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het schorsen van studenten en vavo-studenten.
 
-#### Artikel 8.1.7d. Verwijdering
+##### Artikel 8.1.7d. Verwijdering
 
 1. Het bevoegd gezag kan een student of vavo-student van de instelling verwijderen.
 
@@ -3518,11 +3545,11 @@ Het bevoegd gezag rapporteert over de vorderingen van de studenten aan hun ouder
 
 ### Hoofdstuk 10. Sancties
 
-#### Artikel 11.6g*. Evaluatie in verband met wet inzake verbetering rechtsbescherming mbo-studenten
+##### Artikel 11.6g*. Evaluatie in verband met wet inzake verbetering rechtsbescherming mbo-studenten
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 6.2.6. Schorsing examinering of diplomering bij wezenlijk vermoeden dat de waarde van diploma’s en certificaten in het geding is bij niet-bekostigde opleidingen
+##### Artikel 6.2.6. Schorsing examinering of diplomering bij wezenlijk vermoeden dat de waarde van diploma’s en certificaten in het geding is bij niet-bekostigde opleidingen
 
 1. Onverminderd de [artikelen 6.2.1 tot en met 6.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=6&titeldeel=2&artikel=6.2.1&z=2026-01-01&g=2026-01-01) kan Onze Minister besluiten dat ten aanzien van een beroepsopleiding die niet op grond van [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=2&titeldeel=1&artikel=2.1.1&z=2026-01-01&g=2026-01-01) voor bekostiging in aanmerking komt gedurende ten hoogste zes maanden rechten kunnen worden geschorst, indien:
 
@@ -3552,7 +3579,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 #### Paragraaf 2. Commissie van beroep voor de examens; geschillenadviescommissie
 
-#### Artikel 7.5.3. Commissie van beroep voor de examens
+##### Artikel 7.5.3. Commissie van beroep voor de examens
 
 1. Het bevoegd gezag van een instelling of exameninstelling stelt, al dan niet in samenwerking met een of meer andere bevoegde gezagsorganen van andere instellingen of exameninstellingen een commissie van beroep voor de examens in dan wel sluit zich bij een dergelijke commissie aan. Beslissingen van de examencommissie of van de examinatoren kunnen worden onderworpen aan het oordeel van een commissie van beroep voor de examens.
 
@@ -3566,11 +3593,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 6. Indien de commissie het beroep gegrond acht, vernietigt zij de beslissing geheel of gedeeltelijk. De commissie is niet bevoegd in de plaats van de geheel of gedeeltelijk vernietigde beslissing een nieuwe beslissing te nemen. De examencommissie of de examinator van wie de beslissing is vernietigd, voorziet voor zover nodig opnieuw in de zaak met inachtneming van de uitspraak van de commissie van beroep voor de examens. De commissie kan daarvoor in haar uitspraak een termijn stellen.
 
-#### Artikel 7.5.4. Inlichtingen
+##### Artikel 7.5.4. Inlichtingen
 
 De leden van de examencommissie en de examinatoren verstrekken aan de commissie van beroep voor de examens de inlichtingen die zij voor de uitvoering van haar taak nodig oordeelt.
 
-#### Artikel 7.5.5. Bevoegdheid en samenstelling geschillenadviescommissie
+##### Artikel 7.5.5. Bevoegdheid en samenstelling geschillenadviescommissie
 
 1. Het bevoegd gezag stelt, al dan niet in samenwerking met een of meer bevoegde gezagsorganen van andere instellingen, een geschillenadviescommissie in of sluit zich bij een dergelijke commissie aan. Op een geschillenadviescommissie zijn [artikelen 70 tot en met 74 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=70) van overeenkomstige toepassing. De leden van de geschillenadviescommissie zijn functioneel onafhankelijk.
 
@@ -3584,7 +3611,7 @@ De leden van de examencommissie en de examinatoren verstrekken aan de commissie 
 
 6. Het bevoegd gezag kan een commissie belasten met de behandeling van en advisering over zowel bezwaren als bedoeld in het tweede lid als klachten als bedoeld in [artikel 7.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=5&paragraaf=1&artikel=7.5.2&z=2026-01-01&g=2026-01-01), onverminderd het bepaalde bij of krachtens dit artikel en de artikelen 7.5.2 en [7.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=5&paragraaf=2&artikel=7.5.6&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 7.5.6. Beslissing op bezwaren
+##### Artikel 7.5.6. Beslissing op bezwaren
 
 1. Het bevoegd gezag beslist na ontvangst van het bezwaar binnen tien weken, onverminderd de beslissingen op grond van de procedure, bedoeld in [artikel 7.5.5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=5&paragraaf=2&artikel=7.5.5&z=2026-01-01&g=2026-01-01). Wat de openbare instellingen betreft beslist het bevoegd gezag in afwijking van [artikel 69, eerste lid, tweede volzin, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=69).
 
@@ -3606,7 +3633,7 @@ De leden van de examencommissie en de examinatoren verstrekken aan de commissie 
 
 ### Hoofdstuk 9. Beroep bij de administratieve rechter
 
-#### Artikel 10.1a. Spoedaanwijzing
+##### Artikel 10.1a. Spoedaanwijzing
 
 1. Onze Minister kan het bevoegd gezag een spoedaanwijzing tot het nemen van een of meer voorlopige maatregelen geven, indien:
 
@@ -3628,15 +3655,15 @@ De leden van de examencommissie en de examinatoren verstrekken aan de commissie 
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen
 
-#### Artikel 11.6g*. Evaluatie in verband met wet inzake verbetering rechtsbescherming mbo-studenten
+##### Artikel 11.6g*. Evaluatie in verband met wet inzake verbetering rechtsbescherming mbo-studenten
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de Wet van ...... tot wijziging van onder meer de Wet educatie en beroepsonderwijs met het oog op de verbetering van de rechtsbescherming van mbo-studenten (Stb. ....) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van die wet in de praktijk.
 
-#### Artikel 11.6h. Evaluatie in verband met wet inzake verbetering rechtsbescherming mbo-studenten
+##### Artikel 11.6h. Evaluatie in verband met wet inzake verbetering rechtsbescherming mbo-studenten
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de Wet van 23 februari 2022 tot wijziging van onder meer de Wet educatie en beroepsonderwijs met het oog op de verbetering van de rechtsbescherming van mbo-studenten (Stb. 2022, 134) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van die wet in de praktijk.
 
-#### Artikel 8.0.1. Aanmelding uiterlijk op 1 april
+##### Artikel 8.0.1. Aanmelding uiterlijk op 1 april
 
 1. Uiterlijk op 1 april voorafgaand aan een studiejaar meldt degene die zich als deelnemer wenst in te inschrijven voor een beroepsopleiding die start bij de aanvang van dat studiejaar, zich aan bij de desbetreffende instelling. Na de aanmelding kan de betrokkene zijn aanmelding nog wijzigen.
 
@@ -3644,7 +3671,7 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de Wet van 23 fe
 
 3. Dit artikel is niet van toepassing op een deelnemer die zich aanmeldt bij een andere beroepsopleiding dan die waar hij oorspronkelijk was ingeschreven maar kan aantonen dat de aanmelding het gevolg is van een beëindiging van de inschrijving op grond van [artikel 8.1.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=1&artikel=8.1.7a&z=2026-01-01&g=2026-01-01), op een zodanig tijdstip dat hij zich niet kon aanmelden uiterlijk 1 april voorafgaand aan het studiejaar waarvoor hij zich wenst in te schrijven.
 
-#### Artikel 8.0.2. Te verstrekken gegevens bij aanmelding
+##### Artikel 8.0.2. Te verstrekken gegevens bij aanmelding
 
 1. Bij de aanmelding, bedoeld in [artikel 8.0.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=0&artikel=8.0.1&z=2026-01-01&g=2026-01-01), legt de betrokkene of, indien deze minderjarig is, zijn ouders, voogden of verzorgers, zijn persoonsgebonden nummer BES over onder vermelding van, voor zover van toepassing, de school of instelling waar betrokkene op het moment van aanmelding staat ingeschreven.
 
@@ -3652,7 +3679,7 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de Wet van 23 fe
 
 3. Indien aannemelijk kan worden gemaakt dat geen persoonsgebonden nummer BES kan worden overgelegd, worden in plaats daarvan de geslachtsnaam, de voorletters, de geboortedatum en het geslacht van betrokkene vermeld.
 
-#### Artikel 8.0.3. Intakeactiviteiten en studiekeuzeadvies
+##### Artikel 8.0.3. Intakeactiviteiten en studiekeuzeadvies
 
 1. Een betrokkene die uiterlijk 1 april is aangemeld in overeenstemming met [artikel 8.0.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=8&titeldeel=0&artikel=8.0.1&z=2026-01-01&g=2026-01-01), heeft desgevraagd recht op een studiekeuzeadvies.
 
@@ -3680,7 +3707,7 @@ Dit recht geldt alleen als betrokkene deelneemt aan de intakeactiviteiten die he
 
 ## Titel 6. Samenwerking tussen uit ’s Rijks kas bekostigde instellingen
 
-#### Artikel 8.6.1. Samenwerkingscollege
+##### Artikel 8.6.1. Samenwerkingscollege
 
 Een samenwerkingscollege wordt gevormd op grondslag van een schriftelijke overeenkomst tussen de bevoegde gezagsorganen van de samenwerkende instellingen, waarbij in ieder geval afspraken zijn gemaakt over:
 
@@ -3698,7 +3725,7 @@ Een samenwerkingscollege wordt gevormd op grondslag van een schriftelijke overee
 
 - g. de voorwaarden waaronder een andere instelling partij kan worden bij de samenwerkingsovereenkomst, de overeenkomst kan worden opgezegd of ontbonden alsmede de wijze waarop de overeenkomst overigens kan worden gewijzigd, telkens met oog voor het zoveel mogelijk beperken van de gevolgen voor de deelnemers.
 
-#### Artikel 8.6.2. Grens aan samenwerking en meldplicht
+##### Artikel 8.6.2. Grens aan samenwerking en meldplicht
 
 1. Een instelling kan een of meer beroepsopleidingen of opleidingen voortgezet algemeen volwassenenonderwijs verzorgen binnen een samenwerkingscollege, zolang niet meer dan 40% van haar ingeschreven deelnemers onderwijs volgt in zo’n college.
 
@@ -3706,7 +3733,7 @@ Een samenwerkingscollege wordt gevormd op grondslag van een schriftelijke overee
 
 3. De verplichting, bedoeld in het tweede lid, is ook van toepassing op een instelling die voornemens is de samenwerking op te zeggen.
 
-#### Artikel 8.6.3. Regeling onderwijsprogramma en examens
+##### Artikel 8.6.3. Regeling onderwijsprogramma en examens
 
 1. De onderwijs- en examenregeling, bedoeld in [artikel 7.4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&hoofdstuk=7&titeldeel=4&paragraaf=1&artikel=7.4.9&z=2026-01-01&g=2026-01-01), is gelijkluidend voor iedere deelnemer die een beroepsopleiding of opleiding voortgezet algemeen volwassenenonderwijs volgt aan een samenwerkingscollege, ongeacht de instelling waar hij is ingeschreven.
 

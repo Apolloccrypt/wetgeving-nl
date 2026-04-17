@@ -1,13 +1,35 @@
 ---
 title: "Algemene Overeenkomst inzake technische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika"
 identifier: "BWBV0005153"
-categorie: "Internationaal recht"
-publicatiedatum: 1954-04-21
-laatste_update: 1954-04-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005153"
+country: "nl"
+rank: "verdrag"
+publication_date: "1954-04-21"
+last_updated: "1954-04-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005153"
+soort: "verdrag"
+stam_id: "10004487483"
+version_id: "10004700592"
+internal_id: "C10007029311"
+label_id: "10004472074"
+dtd_version: "2.0"
+original_entry_into_force: "1954-04-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005153/1954-04-21/0"
+intitule_bron: "Trb.1954-10"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1954-02-01"
+intitule_in_force: "1954-05-11"
+intitule_status: "goed"
+original_publication: "Trb.1954-10"
+original_published_date: "1954-02-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1954-10"
+entry_into_force_date: "1954-04-21"
+jci_1_3: "jci1.3:c:BWBV0005153&z=1954-04-21&g=1954-04-21"
+jci_1_0: "1.0:c:BWBV0005153&g=1954-04-21"
+citeertitel_status: "redactioneel"
+entry_into_force: "1954-04-21"
 ---
-
 # Algemene Overeenkomst inzake technische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika,
@@ -20,11 +42,11 @@ Overwegende, dat de Regering van het Koninkrijk der Nederlanden en de Regering v
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I. Toepassing
+##### Artikel I. Toepassing
 
 Deze Overeenkomst is van toepassing op de gebieden Suriname en de Nederlandse Antillen (hierna te noemen „de Gebieden”) voor welker internationale betrekkingen de Nederlandse Regering verantwoordelijk is.
 
-#### Artikel II. Bijstand en Samenwerking
+##### Artikel II. Bijstand en Samenwerking
 
 1. De Regering van de Verenigde Staten van Amerika en de Nederlandse Regering verbinden zich met elkander samen te werken bij het uitwisselen van technische kennis en bekwaamheid en bij daarmede in verband staande werkzaamheden welke erop gericht zijn bij te dragen tot een evenwichtige en geïntegreerde ontwikkeling van de economische hulpbronnen en de productie-capaciteit van de Gebieden waarop deze Overeenkomst van toepassing is. Speciale programma's ten aanzien van de technische samenwerking en speciale projecten zullen worden uitgevoerd ingevolge de bepalingen van aparte op schrift gestelde later overeen te komen afspraken of overeenkomsten tussen de “Foreign Operations Administration” van de Verenigde Staten van Amerika en behoorlijk daartoe aangewezen vertegenwoordigers van de Regeringen van de Gebieden, en, indien zulks ter zake dienende is, door de Nederlandse Regering of door andere personen, lichamen of organisaties welke door de beide Regeringen, welke partij zijn bij deze Overeenkomst, zijn aangewezen.
 
@@ -36,7 +58,7 @@ Deze Overeenkomst is van toepassing op de gebieden Suriname en de Nederlandse An
 
 5. Indien een van beide Regeringen zulks wenst, zullen de beide Regeringen overleg plegen ten aanzien van elke aangelegenheid welke betrekking heeft op de toepassing van de Overeenkomst, op overeenkomsten ten aanzien van bepaalde programma's of projecten, welke tussen haar reeds zijn gesloten of nog zullen worden gesloten, of op krachtens zodanige overeenkomsten uitgevoerde werkzaamheden of regelingen.
 
-#### Artikel III. Inlichtingen en Openbaarheid
+##### Artikel III. Inlichtingen en Openbaarheid
 
 1. De Nederlandse Regering zal, met inachtneming van de in onderling overleg vast te stellen vorm en tussenpozen, aan de Regering van de Verenigde Staten inlichtingen verstrekken ten aanzien van:
 
@@ -48,7 +70,7 @@ Deze Overeenkomst is van toepassing op de gebieden Suriname en de Nederlandse An
 
 3. In overeenstemming met het op 20 Juli 1950 door de Regeringen welke lid zijn van de Caraïbische Commissie gepubliceerde rapport over de rol van die Commissie in programma's ten aanzien van technische bijstand, zullen de Regeringen de Caraïbische Commissie volledig op de hoogte houden van projecten, programma's of voorstellen van projecten voor technische bijstand werkzaamheden krachtens deze Overeenkomst.
 
-#### Artikel IV. Overeenkomsten betreffende Programma's en Projecten
+##### Artikel IV. Overeenkomsten betreffende Programma's en Projecten
 
 1. De in lid 1 van Artikel II bedoelde overeenkomsten betreffende programma's en projecten zullen eveneens bepalingen bevatten met betrekking tot het beleid, de administratieve werkwijzen, de uitgaven en de verantwoording van geldmiddelen, de bijdragen welke elke partij zal betalen in de kosten van het programma of project, en het verstrekken van gedetailleerde inlichtingen van de soort als bedoeld in lid 1 van Artikel III.
 
@@ -56,11 +78,11 @@ Deze Overeenkomst is van toepassing op de gebieden Suriname en de Nederlandse An
 
 3. De Nederlandse Regering stemt ermede in dat een redelijk gedeelte van de aan de programma's en projecten op het gebied van de technische bijstand krachtens deze Overeenkomst verbonden kosten door de Nederlandse Regering of door de Regeringen van de Gebieden wordt gedragen.
 
-#### Artikel V. Personeel
+##### Artikel V. Personeel
 
 Al het personeel van de Regering van de Verenigde Staten van Amerika en de hen begeleidende familieleden, ongeacht of dit personeel in directe dienst staat van de Regering van de Verenigde Staten of werkt onder een contract met een openbaar of particulier lichaam in de Gebieden in verband met programma's en projecten ten aanzien van samenwerking op het gebied van technische bijstand, zijn in Nederland of in de Gebieden vrijgesteld van alle belastingen op het inkomen of sociale verzekeringsbijdragen ten aanzien van inkomen waarop zij verplicht zijn inkomstenbelasting of sociale verzekeringsbijdragen te betalen aan de Regering van de Verenigde Staten van Amerika, en van vermogensbelasting op eigendommen bestemd voor hun eigen gebruik, en van de betaling van douane- of invoerrechten op persoonlijke goederen, materieel en voorraden en huishoudelijke artikelen welke voor hun persoonlijk gebruik in de Gebieden worden ingevoerd.
 
-#### Artikel VI. Inwerkingtreding, wijziging, werkingsduur
+##### Artikel VI. Inwerkingtreding, wijziging, werkingsduur
 
 1. Deze Overeenkomst treedt in werking nadat zij de in Nederland grondwettelijk vereiste goedkeuring heeft verkregen, op de dag van ontvangst der desbetreffende kennisgeving door de Nederlandse Regering aan de Regering van de Verenigde Staten van Amerika. Zij blijft van kracht tot drie maanden nadat een van beide Regeringen aan de andere Regering kennis heeft gegeven van haar voornemen de Overeenkomst te beëindigen.
 

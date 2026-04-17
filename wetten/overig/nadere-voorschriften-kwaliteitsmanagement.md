@@ -1,13 +1,38 @@
 ---
 title: "Nadere voorschriften kwaliteitsmanagement"
 identifier: "BWBR0050792"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050792"
+country: "nl"
+rank: "pbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050792"
+soort: "pbo"
+stam_id: "17372603"
+version_id: "30624602"
+internal_id: "C43895441"
+label_id: "17275534"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050792/2026-01-01/0"
+intitule_bron: "Stcrt.2025-5048"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-03"
+intitule_published: "2025-02-20"
+intitule_in_force: "2025-02-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-5048"
+original_signed_date: "2024-12-03"
+original_published_date: "2025-02-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-5048"
+entry_into_force_date: "2025-02-21"
+jci_1_3: "jci1.3:c:BWBR0050792&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0050792&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2024-12-03"
+entry_into_force: "2025-02-21"
 ---
-
 # Nadere voorschriften kwaliteitsmanagement
 
 Gelet op [artikel 12 van de Verordening accountantsorganisaties 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050613&artikel=12) (VAO 2025);
@@ -26,7 +51,7 @@ Gehoord de leden;
 
 Stelt de volgende nadere voorschriften vast:
 
-#### Artikel 1. – Definities
+##### Artikel 1. – Definities
 
 - **Accountantsafdeling:** organisatorische eenheid binnen een organisatie waar een accountant een assurance-opdracht of aan assurance verwante opdracht uitvoert in opdracht van deze organisatie.
 
@@ -42,17 +67,17 @@ Stelt de volgende nadere voorschriften vast:
 
 ### Hoofdstuk 1. – Algemene bepalingen
 
-#### Artikel 2. – Toepassingsbereik
+##### Artikel 2. – Toepassingsbereik
 
 1. Deze nadere voorschriften zijn van toepassing op accountantsorganisaties en op accountants die werkzaam zijn bij of verbonden zijn aan een kantoor.
 
 2. Deze nadere voorschriften zijn niet van toepassing op accountants die werkzaam zijn bij of verbonden zijn aan een accountantsafdeling waarin alleen opdrachten worden uitgevoerd voor intern gebruik en de kwaliteit door middel van een kwaliteitssysteem op het niveau van de accountantsafdeling wordt geborgd.
 
-#### Artikel 3. – Eisen aan een eindverantwoordelijke voor kwaliteitsmanagement
+##### Artikel 3. – Eisen aan een eindverantwoordelijke voor kwaliteitsmanagement
 
 Een eindverantwoordelijke voor kwaliteitsmanagement zorgt ervoor dat het kantoor waarbij deze werkzaam is of waaraan deze is verbonden beschikt over een kwaliteitsmanagementsysteem dat is ingericht volgens deze nadere voorschriften. Dit kwaliteitsmanagementsysteem is zo ingericht dat alle assurance-opdrachten of aan assurance verwante opdrachten en alle opdrachten, die voor accountants zouden kwalificeren als assurance-opdracht of aan assurance verwante opdracht hieronder vallen.
 
-#### Artikel 4. – Eisen aan accountants
+##### Artikel 4. – Eisen aan accountants
 
 1. Ingeval een persoon eindverantwoordelijke voor kwaliteitsmanagement is, kan een accountant niet werkzaam zijn bij of verbonden zijn aan een kantoor wanneer de eindverantwoordelijke voor kwaliteitsmanagement geen accountant is.
 
@@ -68,7 +93,7 @@ Een eindverantwoordelijke voor kwaliteitsmanagement zorgt ervoor dat het kantoor
 
 ### Hoofdstuk 2. – Standaarden
 
-#### Artikel 5. – Aanwijzing standaarden voor Kwaliteitsmanagement
+##### Artikel 5. – Aanwijzing standaarden voor Kwaliteitsmanagement
 
 1. Als Kwaliteitsmanagementstandaarden bedoeld in [artikel 12 van de Verordening accountantsorganisaties 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050613&artikel=12) en [artikel 24 van de Verordening op de gedrags- en beroepsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&artikel=24) worden de [Standaard voor Kwaliteitsmanagement 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052132) (Staatscourant 2025, nr. 44926), [Standaard voor Kwaliteitsmanagement 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052115) (Staatscourant 2025, nr. 44927) en [Standaard voor Kwaliteitsmanagement 3N](https://wetten.overheid.nl/jci1.3:c:BWBR0052120) (Staatscourant 2025, nr. 44928) aangewezen.
 
@@ -78,7 +103,7 @@ Een eindverantwoordelijke voor kwaliteitsmanagement zorgt ervoor dat het kantoor
 
 ### Hoofdstuk 3. – Slotbepalingen
 
-#### Artikel 6. – Overgangsrecht
+##### Artikel 6. – Overgangsrecht
 
 1. De [Nadere voorschriften kwaliteitssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) zoals deze luidden tot de inwerkingtreding van deze nadere voorschriften blijven tot 1 januari 2026 van toepassing op een stelsel van kwaliteitsbeheersing van een accountantsorganisatie met een vergunning die niet mede strekt tot het verrichten van wettelijke controles bij organisaties van openbaar belang, voor zover dat stelsel conform de tot en met 31 december 2024 geldende eisen is ingericht.
 
@@ -92,18 +117,18 @@ Een eindverantwoordelijke voor kwaliteitsmanagement zorgt ervoor dat het kantoor
 
 6. De op het tijdstip van inwerkingtreding van deze nadere voorschriften aanhangige bezwaarschriften die betrekking hebben op het nemen van een besluit zijn aanhangig in de staat, waarin zij zich op dat moment bevinden en worden overeenkomstig de desbetreffende bepalingen van deze nadere voorschriften behandeld en beslist.
 
-#### Artikel 7. – Intrekking [Nadere voorschriften kwaliteitssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0038869)
+##### Artikel 7. – Intrekking [Nadere voorschriften kwaliteitssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0038869)
 
 De [Nadere voorschriften kwaliteitssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) worden ingetrokken.
 
-#### Artikel 8. – Wijziging [Nadere voorschriften controle- en overige Standaarden](https://wetten.overheid.nl/jci1.3:c:BWBR0049711)
+##### Artikel 8. – Wijziging [Nadere voorschriften controle- en overige Standaarden](https://wetten.overheid.nl/jci1.3:c:BWBR0049711)
 
 Wijzigt Nadere voorschriften controle- en overige Standaarden.
 
-#### Artikel 9. – Inwerkingtreding
+##### Artikel 9. – Inwerkingtreding
 
 Deze nadere voorschriften treden in werking op 1 januari 2025. In het geval de Staatscourant waarin deze nadere voorschriften worden gepubliceerd verschijnt na 31 december 2024, dan treden deze nadere voorschriften in werking op de dag na publicatie in de Staatscourant en werken deze terug tot 1 januari 2025.
 
-#### Artikel 10. – Citeertitel
+##### Artikel 10. – Citeertitel
 
 Deze Nadere voorschriften worden aangehaald als: Nadere voorschriften kwaliteitsmanagement, bij afkorting NVKM.

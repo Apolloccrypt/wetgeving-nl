@@ -1,13 +1,39 @@
 ---
-title: "Subsidiebesluit raad voor rechtsbijstand"
+title: "Besluit van 7 april 1999, houdende regels omtrent het verstrekken van subsidie aan de raden voor rechtsbijstand voor de uitvoering van hun wettelijke taak (Subsidiebesluit raden voor rechtsbijstand)"
 identifier: "BWBR0010393"
-categorie: "Sociaal recht"
-publicatiedatum: 2010-07-01
-laatste_update: 2010-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010393"
+country: "nl"
+rank: "amvb"
+publication_date: "2010-07-01"
+last_updated: "2010-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010393"
+soort: "AMvB"
+stam_id: "1029533"
+version_id: "9475972"
+internal_id: "C12708911"
+label_id: "997664"
+dtd_version: "2.0"
+original_entry_into_force: "2003-08-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010393/2010-07-01/0"
+intitule_bron: "Stb.1999-181"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-04-07"
+intitule_published: "1999-04-27"
+intitule_in_force: "1999-04-27"
+intitule_status: "goed"
+original_publication: "Stb.2003-351"
+original_signed_date: "2003-08-28"
+original_published_date: "2003-09-09"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2003-351"
+entry_into_force_date: "2003-08-28"
+jci_1_3: "jci1.3:c:BWBR0010393&z=2010-07-01&g=2010-07-01"
+jci_1_0: "1.0:c:BWBR0010393&g=2010-07-01"
+citeertitel_status: "officieel"
+short_title: "Subsidiebesluit raad voor rechtsbijstand"
+signed_date: "2003-08-28"
+entry_into_force: "2003-08-28"
 ---
-
 # Besluit van 7 april 1999, houdende regels omtrent het verstrekken van subsidie aan de raden voor rechtsbijstand voor de uitvoering van hun wettelijke taak (Subsidiebesluit raden voor rechtsbijstand)
 
 Op de voordracht van Onze Staatssecretaris van Justitie van 17 december 1998, Directie Wetgeving, nr. 736100/98/6;
@@ -24,7 +50,7 @@ Werkt terug tot en met 1 januari 1999.
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - d. deelsubsidie projecten en activiteiten: de in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010393&hoofdstuk=1&artikel=2&z=2010-07-01&g=2010-07-01), bedoelde deelsubsidie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De verstrekking van de subsidie wordt getoetst aan de aard en de omvang van de activiteiten van de raad.
 
@@ -58,23 +84,23 @@ In dit besluit wordt verstaan onder:
 
 - b. indien van toepassing de kosten van projecten en activiteiten.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 1. De subsidie, bedoeld in [artikel 42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42), wordt jaarlijks aangepast overeenkomstig het voor dat jaar vastgestelde percentage voor de bijdrage in de kosten van de arbeidsvoorwaardenontwikkeling aan niet VWS-gebonden gepremieerde en gesubsidieerde sectoren, alsmede de ontwikkeling van het prijspeil. Het basisbedrag wordt afgerond op hele euro’s.
 
 2. Met het oog op de toepassing van het eerste lid kan Onze Minister bij de verlening van de subsidie tevens bepalen welk deel van het subsidiebedrag in aanmerking zal worden genomen voor een bijstelling in verband met de ontwikkeling van het prijspeil, onderscheidenlijk van de kosten van de arbeidsvoorwaarden.
 
-#### Artikel 5
+##### Artikel 5
 
 Onze Minister verstrekt op basis van de begroting jaarlijks voorschotten. Hierbij wordt rekening gehouden met de ontwikkelingen in het volume van de toevoegingen en piketregelingen.
 
 ### HOOFDSTUK 2. VERLENING VAN DE SUBSIDIE
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister stelt de raad uiterlijk 1 juli van elk jaar schriftelijk in kennis van de voorlopige beleidsmatige en budgettaire kaders voor het daarop volgende jaar.
 
@@ -90,13 +116,13 @@ Onze Minister verstrekt op basis van de begroting jaarlijks voorschotten. Hierbi
 
 - e. de overige eisen waaraan het financiële verslag en het activiteitenverslag, waaronder het rapport van bevindingen en de jaarrekening, moeten voldoen.
 
-#### Artikel 7
+##### Artikel 7
 
 Onze Minister beslist binnen dertien weken op de aanvraag tot verlening van de subsidie.
 
 ### HOOFDSTUK 3. AAN DE SUBSIDIE VERBONDEN VERPLICHTINGEN
 
-#### Artikel 8
+##### Artikel 8
 
 1. De raad draagt ervoor zorg dat de doelstellingen waarvoor de subsidie wordt verleend op doelmatige en effectieve wijze worden nagestreefd, dat de werkzaamheden dienovereenkomstig worden geregeld, en dat een goed beleid en beheer wordt gevoerd.
 
@@ -112,7 +138,7 @@ Onze Minister beslist binnen dertien weken op de aanvraag tot verlening van de s
 
 - d. de wijze waarop de kwaliteit van de bedrijfsvoering wordt gewaarborgd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Uiterlijk vier weken na afloop van de eerste vier respectievelijk acht maanden van het boekjaar, dient de raad een voortgangsrapportage in.
 
@@ -120,11 +146,11 @@ Onze Minister beslist binnen dertien weken op de aanvraag tot verlening van de s
 
 3. Onze Minister kan ten gunste van de raad en met instemming van de raad van de termijn, bedoeld in het tweede lid, afwijken.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 1. De raad draagt er zorg voor dat het onderzoek van de accountant, bedoeld in [artikel 4:78 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78), tevens strekt tot onderzoek van de naleving van de aan de subsidie verbonden verplichtingen.
 
@@ -132,7 +158,7 @@ Vervallen
 
 3. De raad draagt er zorg voor dat zijn accountant alle medewerking verleent aan de door Onze Minister in te stellen onderzoeken naar de door de accountant verrichte controlewerkzaamheden, bedoeld in [artikel 4:78](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:78) en [4:79 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:79).
 
-#### Artikel 12
+##### Artikel 12
 
 1. De raad verzekert zijn burgerrechtelijke aansprakelijkheid tegenover derden voor een som van ten minste € 450 000,– per gebeurtenis en per geval.
 
@@ -140,19 +166,19 @@ Vervallen
 
 3. De raad verzekert zijn roerende zaken tegen brandschade en diefstal naar vervangingswaarde.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien gedurende het boekjaar blijkt dat het verwachte saldo van baten en lasten meer dan 10% lager is dan het bedrag van de subsidieverlening, doet de raad daarvan onverwijld mededeling aan Onze Minister onder vermelding van de oorzaak van de verschillen.
 
 2. Onze Minister kan op grond van de omstandigheid, bedoeld in het eerste lid, de bevoorschotting verlagen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De raad behoeft de toestemming van Onze Minister voor de handelingen, bedoeld in [artikel 32, onderdelen a tot en met f van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32).
 
 2. De raad behoeft tevens de toestemming van Onze Minister voor het aangaan of wijzigen van subsidieverplichtingen anders dan met voorzieningen, bedoeld in [artikel 42b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42b).
 
-#### Artikel 15
+##### Artikel 15
 
 1. In de gevallen, bedoeld in [artikel 4:41, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:41), is de raad aan Onze Minister een door hem te bepalen vergoeding voor vermogensvorming verschuldigd.
 
@@ -162,43 +188,43 @@ Vervallen
 
 ### HOOFDSTUK 4. VASTSTELLING VAN DE SUBSIDIE
 
-#### Artikel 16
+##### Artikel 16
 
 De raad dient binnen vijf maanden na afloop van het boekjaar een aanvraag tot vaststelling van de subsidie in.
 
-#### Artikel 17
+##### Artikel 17
 
 Onze Minister beslist binnen vier maanden op de aanvraag tot vaststelling van de subsidie.
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
 ### HOOFDSTUK 5. SLOTBEPALINGEN
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 1999.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit besluit wordt aangehaald als: Subsidiebesluit raad voor rechtsbijstand.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 10a
+##### Artikel 10a
 
 Vervallen
 
-#### Artikel 10b
+##### Artikel 10b
 
 Vervallen
 

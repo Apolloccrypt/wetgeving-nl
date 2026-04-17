@@ -1,24 +1,50 @@
 ---
-title: "Uitvoeringsregeling WNT"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 11 december 2014, nr. 2014-0000 104920, houdende regels over de bezoldiging en de uitkeringen wegens beëindiging van het dienstverband in de zin van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector (Uitvoeringsregeling WNT)"
 identifier: "BWBR0035962"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035962"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035962"
+soort: "ministeriele-regeling"
+stam_id: "12893283"
+version_id: "24708502"
+internal_id: "C35346341"
+label_id: "12862694"
+dtd_version: "2.0"
+original_entry_into_force: "2017-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035962/2026-01-01/0"
+intitule_bron: "Stcrt.2014-36379"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-11"
+intitule_published: "2014-12-18"
+intitule_in_force: "2014-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-70474"
+original_signed_date: "2017-12-01"
+original_published_date: "2017-12-12"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2017-70474"
+entry_into_force_date: "2017-12-01"
+jci_1_3: "jci1.3:c:BWBR0035962&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0035962&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsregeling WNT"
+signed_date: "2017-12-01"
+entry_into_force: "2017-12-01"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 11 december 2014, nr. 2014-0000 104920, houdende regels over de bezoldiging en de uitkeringen wegens beëindiging van het dienstverband in de zin van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector (Uitvoeringsregeling WNT)
 
 Gelet op [artikel 1.9, onderdelen a tot en met c, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.9);
 
 Besluit:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder ‘wet’: de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249).
 
-#### Artikel 2. De componenten van de bezoldiging van de functionaris in dienstbetrekking
+##### Artikel 2. De componenten van de bezoldiging van de functionaris in dienstbetrekking
 
 1. Ten aanzien van de functionaris in dienstbetrekking wordt, voor zover niet in het tweede lid uitgezonderd, in ieder geval tot de bezoldiging in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) gerekend:
 
@@ -130,13 +156,13 @@ waarin:
 
 4. Indien een topfunctionaris deelneemt aan een collectieve pensioenregeling die een gelijke premie kent en die met toepassing van het in [artikel 220e van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220e) geregelde overgangsrecht voor de topfunctionaris uitgaat van een met de leeftijd oplopend percentage van het loon dat voor de pensioenberekening in aanmerking wordt genomen, kan voor de toepassing van het eerste lid, onderdeel q, tot de bezoldiging worden gerekend: het werkgeversdeel van de gelijke premie die voor de functionaris zou zijn betaald indien voor hem geen overgangsrecht op grond van artikel 220e van de Pensioenwet van toepassing zou zijn. Het werkgeversdeel van de gelijke premie wordt berekend als de gelijke premie toegepast op het pensioengevend inkomen van de topfunctionaris minus het werknemersdeel van de reële pensioenpremie van de functionaris. Indien de collectieve pensioenregeling geen gelijke premie kent, wordt voor de toepassing van het eerste lid, onderdeel q, in afwijking van de eerste en tweede volzin, de berekeningswijze van het derde lid op overeenkomstige wijze toegepast, met dien verstande dat voor ‘fictieve doorsneepremie’ wordt gelezen ‘fictieve gelijke premie’.
 
-#### Artikel 3. De toerekening van componenten van de bezoldiging aan enig kalenderjaar
+##### Artikel 3. De toerekening van componenten van de bezoldiging aan enig kalenderjaar
 
 1. Een component van de bezoldiging wordt toegerekend aan de bezoldiging van het kalenderjaar waarin deze component in de salarisadministratie wordt verwerkt of, indien de component niet in de salarisadministratie wordt opgenomen, in het jaar waarin de component ten laste van het resultaat van de rechtspersoon of instelling komt.
 
 2. Voor de toetsing aan het toepasselijk bezoldigingsmaximum kan, in afwijking van het eerste lid, een component van de bezoldiging die betrekking heeft op een eerder kalenderjaar dan waarin deze in de salarisadministratie wordt verwerkt, onderscheidenlijk ten laste van het resultaat van de rechtspersoon of instelling komt, toegerekend worden aan het kalenderjaar waarop deze betrekking heeft.
 
-#### Artikel 4. De uitkeringen wegens beëindiging dienstverband
+##### Artikel 4. De uitkeringen wegens beëindiging dienstverband
 
 1. Tot de uitkeringen wegens beëindiging van het dienstverband in de zin van de wet wordt, voor zover niet in het tweede en derde lid uitgezonderd, in ieder geval gerekend:
 
@@ -156,7 +182,7 @@ waarin:
 
 - b. de topfunctionaris de vergoeding uitsluitend kan aanwenden op basis van declaratie, onder overlegging van bewijsstukken, voor daadwerkelijk gemaakte kosten.
 
-#### Artikel 5. Openbaarmaking gegevens topfunctionarissen
+##### Artikel 5. Openbaarmaking gegevens topfunctionarissen
 
 1. De verantwoordelijke vermeldt per boekjaar in het financieel verslaggevingsdocument van iedere topfunctionaris van wie de totale bezoldiging meer bedraagt dan € 2.200:
 
@@ -248,17 +274,17 @@ waarin:
 
 9. De verantwoordelijke van het in het achtste lid bedoelde orgaan of onderdeel van de rechtspersoon Staat der Nederlanden waar de in het zevende lid bedoelde betrokkene eerder in het betreffende kalenderjaar zijn of haar functie vervulde zoals bedoeld in het achtste lid, vermeldt in het financieel verslaggevingsdocument de naam en functie van betrokkene en de aanvangs- en einddatum van de functievervulling, en verwijst voor de overige in het eerste tot en met zesde lid bedoelde gegevens door naar het financieel verslaggevingsdocument van het in het zevende lid bedoelde orgaan of onderdeel.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2015.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling WNT.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a. De componenten van de bezoldiging van de topfunctionaris zonder dienstbetrekking
+##### Artikel 2a. De componenten van de bezoldiging van de topfunctionaris zonder dienstbetrekking
 
 1. Ten aanzien van de topfunctionaris zonder dienstbetrekking wordt, voor zover niet in het tweede lid uitgezonderd, in ieder geval tot de bezoldiging in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) gerekend:
 
@@ -280,7 +306,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a. Openbaarmaking gegevens niet-topfunctionarissen
+##### Artikel 5a. Openbaarmaking gegevens niet-topfunctionarissen
 
 1. De verantwoordelijke vermeldt in het financieel verslaggevingsdocument van eenieder in dienstbetrekking van wie de bezoldiging niet reeds op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2026-01-01&g=2026-01-01) in het financieel verslaggevingdocument is opgenomen en van wie de bezoldiging van zijn functie of functies de maximale bezoldiging, bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3), te boven is gegaan, de volgende gegevens:
 
@@ -302,7 +328,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. In afwijking van het eerste lid, aanhef en onderdeel e, kan het totale bedrag worden vermeld van de premies of bijdragen van de werkgever, bedoeld in [artikel 2, eerste lid, onderdelen q en r](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2026-01-01&g=2026-01-01), die bij wijze van uitgestelde financiering voldaan worden in de vorm van inkoop van pensioenafspraken als bedoeld in [artikel 4 van het Uitvoeringsbesluit pensioenaspecten sociaal akkoord 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0018605&artikel=4), alsmede het aantal niet-topfunctionarissen dat het betreft.
 
-#### Artikel 5b. Vrijstelling van openbaarmakingsverplichtingen
+##### Artikel 5b. Vrijstelling van openbaarmakingsverplichtingen
 
 1.
 
@@ -318,7 +344,7 @@ De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=202
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5c. Wijze van openbaarmaking
+##### Artikel 5c. Wijze van openbaarmaking
 
 1. Indien het boekjaar van de verantwoordelijke niet overeenkomt met een kalenderjaar heeft de vermelding, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2026-01-01&g=2026-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2026-01-01&g=2026-01-01), betrekking op de gegevens van het kalenderjaar voorafgaande aan het boekjaar.
 
@@ -338,7 +364,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. de andere inhoudingsplichtige, bedoeld in [artikel 32d, eerste lid, onderdeel b, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32d), die een rechtspersoon of instelling is waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) van toepassing is, betreffende het dienstverband van de topfunctionaris met die andere inhoudingsplichtige.
 
-#### Artikel 5d. Herstel van fouten die na vaststelling van het financieel verslaggevingsdocument worden geconstateerd
+##### Artikel 5d. Herstel van fouten die na vaststelling van het financieel verslaggevingsdocument worden geconstateerd
 
 1. De verantwoordelijke herstelt een fout in de gegevens die op grond van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2026-01-01&g=2026-01-01) en [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5a&z=2026-01-01&g=2026-01-01) openbaar moeten worden gemaakt die na vaststelling van het financieel verslaggevingsdocument over het betreffende boekjaar worden geconstateerd, voor zover het een fout betreft:
 
@@ -356,7 +382,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. In het geval de fout leidt tot (wijzigingen in) een onverschuldigde betaling vermeldt de verantwoordelijke de op het moment van vaststellen van het verantwoordingsdocument de nog niet aan de instelling terugbetaalde bedragen, of, indien op het moment van vaststellen van het financieel verslaggevingsdocument volledige terugbetaling aan de instelling heeft plaatsgevonden, het feit dat deze terugbetaling volledig heeft plaatsgevonden. In het geval de fout leidt tot een verlaging van een onverschuldigde betaling mag een nadere toelichting achterwege blijven.
 
-#### Artikel 5e. Openbaarmaking gegevens gewezen topfunctionaris
+##### Artikel 5e. Openbaarmaking gegevens gewezen topfunctionaris
 
 Ten aanzien van het financieel verslaggevingsdocument dat betrekking heeft op het kalenderjaar 2017 is [artikel 5, eerste lid, onderdelen a tot en met j, tweede tot en met vijfde lid, zesde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=5&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing op de gewezen topfunctionaris als bedoeld in [artikel 4.1, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.1), zoals dat artikel luidde op 31 december 2017.
 

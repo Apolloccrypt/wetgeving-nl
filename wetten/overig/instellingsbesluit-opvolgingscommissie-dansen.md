@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Opvolgingscommissie Dansen"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 26 september 2024, nr. 2024-48050080, houdende de instelling van de Opvolgingscommissie Dansen (Instellingsbesluit Opvolgingscommissie Dansen)"
 identifier: "BWBR0050307"
-categorie: "Overig"
-publicatiedatum: 2024-10-23
-laatste_update: 2024-10-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050307"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-10-23"
+last_updated: "2024-10-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050307"
+soort: "ministeriele-regeling"
+stam_id: "17243483"
+version_id: "30368832"
+internal_id: "C43554101"
+label_id: "17149304"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050307/2024-10-23/0"
+intitule_bron: "Stcrt.2024-34069"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-09-26"
+intitule_published: "2024-10-22"
+intitule_in_force: "2024-10-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-34069"
+original_signed_date: "2024-09-26"
+original_published_date: "2024-10-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-34069"
+entry_into_force_date: "2024-10-23"
+jci_1_3: "jci1.3:c:BWBR0050307&z=2024-10-23&g=2024-10-23"
+jci_1_0: "1.0:c:BWBR0050307&g=2024-10-23"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Opvolgingscommissie Dansen"
+signed_date: "2024-09-26"
+entry_into_force: "2024-10-23"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 26 september 2024, nr. 2024-48050080, houdende de instelling van de Opvolgingscommissie Dansen (Instellingsbesluit Opvolgingscommissie Dansen)
 
 Gelet op [artikel 2, eerste lid, van de van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - i. **onderzoek Schaduwdansen:** ‘Schaduwdansen. Een onderzoek naar grensoverschrijdend gedrag in het dansen’.
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een onafhankelijke Opvolgingscommissie Dansen.
 
@@ -60,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 - c. regelmatig de dg’s en de alliantie schriftelijk te informeren over de monitoring en advisering. De monitoring en advisering betreft zowel aanbevelingen die de alliantie oppakt, als aanbevelingen die de ministeries of overige organisaties oppakken.
 
-#### Artikel 3. Samenstelling, benoeming, ontslag
+##### Artikel 3. Samenstelling, benoeming, ontslag
 
 1. De commissie bestaat uit een voorzitter en ten minste vier andere leden.
 
@@ -78,19 +104,19 @@ In dit besluit wordt verstaan onder:
 
 8. Indien uit feiten en of omstandigheden blijkt dat de voorzitter of een van de andere leden van de commissie zelf direct of indirect betrokkenheid heeft bij een adviesaanvraag dan zullen zij zich weerhouden van enige bemoeienis ten aanzien van de adviesaanvraag.
 
-#### Artikel 4. Leden
+##### Artikel 4. Leden
 
 1. De voorzitter en de andere leden worden in een separaat benoemingsbesluit door de minister benoemd, dat in de Staatscourant zal worden gepubliceerd.
 
 2. Voorafgaand aan hun benoeming vullen alle (kandidaat)leden een belangenverklaring in, conform het model dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050307&bijlage=1&z=2024-10-23&g=2024-10-23) bij dit besluit.
 
-#### Artikel 5. Instellingsdatum
+##### Artikel 5. Instellingsdatum
 
 1. De commissie wordt ingesteld voor de duur van twee jaar, van 1 januari 2024 tot en met 31 december 2025.
 
 2. De minister kan, handelende in overeenstemming met de Staatssecretaris van Volksgezondheid, Welzijn en Sport, de instellingsduur van de commissie verlengen.
 
-#### Artikel 6. Secretariaat
+##### Artikel 6. Secretariaat
 
 1. De commissie wordt ondersteund door een secretariaat.
 
@@ -100,13 +126,13 @@ In dit besluit wordt verstaan onder:
 
 4. Het secretariaat is voor de inhoudelijke uitvoering van zijn taak uitsluitend verantwoording schuldig aan de voorzitter van de commissie.
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 1. De commissie stelt haar eigen werkwijze vast. De werkwijze bevat minimaal een protocol over de wijze waarop de commissie bij externen informatie ophaalt. De werkwijze van de commissie wordt gedeeld op de website van de alliantie.
 
 2. De commissie verstrekt desgevraagd aan de minister en de Staatssecretaris van Volksgezondheid, Welzijn en Sport de voor de uitoefening van hun taak benodigde inlichtingen. Beide bewindspersonen kunnen inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
-#### Artikel 8. Inwinnen van inlichtingen
+##### Artikel 8. Inwinnen van inlichtingen
 
 1. De commissie is bevoegd zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van het onderzoek.
 
@@ -114,7 +140,7 @@ In dit besluit wordt verstaan onder:
 
 3. Medewerkers van de ministeries zijn verplicht om de leden van de commissie de verlangde medewerking te verlenen, voor zover deze samenhangt met hun ambtelijke taak.
 
-#### Artikel 9. Vergoeding
+##### Artikel 9. Vergoeding
 
 1. Voor de periode vanaf 1 januari 2024 tot de datum van uitgifte van de Staatscourant ontvangen de leden van de commissie een vergoeding per vergadering.
 
@@ -126,7 +152,7 @@ De andere leden ontvangen, indien zij daarvan gebruik wensen te maken, en indien
 
 3. De deskundigen ontvangen, indien zij daarvan gebruik wensen te maken, en indien zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vergoeding per vergadering van 2,31% van de hoogste trede van schaal 18 conform de laatstelijk afgesloten CAO Rijk.
 
-#### Artikel 10. Kosten van de commissie
+##### Artikel 10. Kosten van de commissie
 
 1. De kosten van de commissie worden, voor zover op basis van een goedgekeurde raming, gefinancierd door de minister.
 
@@ -136,15 +162,15 @@ De andere leden ontvangen, indien zij daarvan gebruik wensen te maken, en indien
 
 - b. de kosten voor het inschakelen van externe deskundigheid.
 
-#### Artikel 11. Archiefbescheiden
+##### Artikel 11. Archiefbescheiden
 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Erfgoed en Kunsten van het ministerie.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst, en werkt daarbij terug tot 1 januari 2024.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Opvolgingscommissie Dansen.
 

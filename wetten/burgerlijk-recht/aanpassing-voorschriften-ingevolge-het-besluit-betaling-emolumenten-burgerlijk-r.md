@@ -1,13 +1,36 @@
 ---
-title: "Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d."
+title: "Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d"
 identifier: "BWBR0030091"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2011-06-15
-laatste_update: 2011-06-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030091"
+country: "nl"
+rank: "circulaire"
+publication_date: "2011-06-15"
+last_updated: "2011-06-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030091"
+soort: "circulaire"
+stam_id: "11348773"
+version_id: "18616152"
+internal_id: "C25974111"
+label_id: "11322524"
+dtd_version: "2.0"
+original_entry_into_force: "2011-06-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030091/2011-06-15/0"
+intitule_bron: "Stcrt.2011-10639"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-06-15"
+intitule_in_force: "2011-06-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-10639"
+original_published_date: "2011-06-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-10639"
+entry_into_force_date: "2011-06-15"
+jci_1_3: "jci1.3:c:BWBR0030091&z=2011-06-15&g=2011-06-15"
+jci_1_0: "1.0:c:BWBR0030091&g=2011-06-15"
+citeertitel_status: "redactioneel"
+short_title: "Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d."
+entry_into_force: "2011-06-15"
 ---
-
 # Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d
 
 ### Inleiding

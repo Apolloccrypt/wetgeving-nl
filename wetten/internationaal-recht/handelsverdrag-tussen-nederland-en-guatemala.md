@@ -1,13 +1,37 @@
 ---
 title: "Handelsverdrag tussen Nederland en Guatemala"
 identifier: "BWBV0005906"
-categorie: "Internationaal recht"
-publicatiedatum: 1928-12-17
-laatste_update: 1928-12-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005906"
+country: "nl"
+rank: "verdrag"
+publication_date: "1928-12-17"
+last_updated: "1928-12-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005906"
+soort: "verdrag"
+stam_id: "10004942593"
+version_id: "10005259422"
+internal_id: "C10008096671"
+label_id: "10004925884"
+dtd_version: "2.0"
+original_entry_into_force: "1928-12-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005906/1928-12-17/0"
+intitule_bron: "Stb.1929-505"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1928-12-28"
+intitule_published: "1929-01-14"
+intitule_in_force: "1929-01-14"
+intitule_status: "goed"
+original_publication: "Stb.1929-505"
+original_signed_date: "1928-12-28"
+original_published_date: "1929-01-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1928-12-17"
+jci_1_3: "jci1.3:c:BWBV0005906&z=1928-12-17&g=1928-12-17"
+jci_1_0: "1.0:c:BWBV0005906&g=1928-12-17"
+citeertitel_status: "redactioneel"
+signed_date: "1928-12-28"
+entry_into_force: "1928-12-17"
 ---
-
 # Handelsverdrag tussen Nederland en Guatemala
 
 Hare Majesteit de Koningin der Nederlanden en de President van de Republiek Guatemala, bezield met den wensch, de economische betrekkingen tusschen beide landen te bevorderen, zijn overeengekomen een handelsverdrag te sluiten en hebben te dien einde tot Hunne Gevolmachtigden benoemd,
@@ -18,7 +42,7 @@ De President der Republiek Guatemala: den heer Dr. JOSÉ MATOS, Minister van Bui
 
 die, na hunne volmachten uitgewisseld en in goede orde bevonden te hebben, het volgende overeengekomen zijn:
 
-#### Artikel I
+##### Artikel I
 
 1. De onderdanen van elke der Hooge Verdragsluitende Partijen zullen op het grondgebied der andere Partij in alle opzichten en in het bijzonder voor wat betreft de vestiging en de uitoefening van den handel, de nijverheid en de scheepvaart, de bescherming van hun persoon, hunne roerende en onroerende goederen, op minstens even gunstige wijze behandeld worden als de onderdanen der meestbegunstigde natie.
 
@@ -26,7 +50,7 @@ die, na hunne volmachten uitgewisseld en in goede orde bevonden te hebben, het v
 
 3. Zij zullen voor de uitoefening van hunnen handel, hunne nijverheid of hunne scheepvaart op het gebied der andere Partij geene andere of hoogere belasting, heffing of recht betalen dan die, welke van de nationalen geheven worden.
 
-#### Artikel II
+##### Artikel II
 
 1. De naamlooze vennootschappen en andere vereenigingen op het gebied van handel, nijverheid of financiën, daaronder begrepen de scheepvaartmaatschappijen, die haar zetel hebben op het grondgebied van eene der Hooge Verdragsluitende Partijen en die, volgens de wetten dier Partij, daar op rechtsgeldige wijze zijn opgericht, zullen evenzeer bevoegd zijn om op het grondgebied der andere Partij al hare rechten te verdedigen en in het bijzonder in rechte op te treden, mits zij zich onderwerpen aan de daarop betrekking hebbende wetten en voorschriften, die op het grondgebied dier andere Partij van kracht zijn.
 
@@ -34,7 +58,7 @@ die, na hunne volmachten uitgewisseld en in goede orde bevonden te hebben, het v
 
 3. Alle eenmaal wettig gevestigde vennootschappen zullen in elk opzicht de behandeling der meestbegunstigde natie genieten.
 
-#### Artikel III
+##### Artikel III
 
 1. De producten van bodem of nijverheid van Nederlandschen, Nederlandsch-Indischen, Surinaamschen of Curaçaoschen oorsprong, zullen, bij invoer in Guatemala, en de producten van bodem en nijverheid van Guatemalaanschen oorsprong, zullen, bij invoer in Nederland, Nederlandsch-Indië, Suriname en Curaçao aan geene andere of hoogere rechten onderworpen zijn, dan die, waaraan de producten van bodem en nijverheid van welken anderen Staat ook onderworpen zijn. Geene verboden, noch beperkingen zullen worden gehandhaafd of ingesteld betreffende den invoer in Guatemala van eenig product van bodem of nijverheid van Nederlandschen, Nederlandsch-Indischen, Surinaamschen of Curaçaoschen oorsprong, of van den invoer in Nederland, Nederlandsch-Indië, Suriname of Curaçao van eenig product van bodem of nijverheid van Guatemalaanschen oorsprong, die niet eveneens toegepast worden op den invoer van dezelfde artikelen van welken anderen Staat ook.
 
@@ -44,7 +68,7 @@ Geene verboden, noch beperkingen zullen gehandhaafd of ingesteld worden betreffe
 
 3. De producten van bodem en nijverheid van Nederlandschen, Nederlandsch-Indischen, Surinaamschen en Curaçaoschen oorsprong zullen, bij doorvoer door Guatemala, en de producten van bodem en nijverheid van Guatemalaanschen oorsprong zullen bij doorvoer door Nederland, Nederlandsch-Indië, Suriname of Curaçao, wederkeerig zijn vrijgesteld van alle doorvoerrechten, hetzij de doorvoer rechtstreeks plaats vindt, dan wel dat deze onderbroken wordt door lossing, opslag of wederinlading.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De aan rechten onderworpen en als monsters dienende voorwerpen, met uitzondering van de goederen waarvan de invoer is verboden, zullen wederzijds onder tijdelijke vrijstelling van rechten worden toegelaten, mits in acht worden genomen de douaneformaliteiten, noodig om hunnen algeheelen wederuitvoer te verzekeren.
 
@@ -52,11 +76,11 @@ Geene verboden, noch beperkingen zullen gehandhaafd of ingesteld worden betreffe
 
 3. Het voorrecht van dezen vrijdom kan worden ingetrokken voor de handelsreizigers en handelshuizen, die zich niet houden aan de vastgestelde voorwaarden.
 
-#### Artikel V
+##### Artikel V
 
 De Hooge Verdragsluitende Partijen verbinden zich wederkeerig, voor wat betreft de scheepvaart, de onderdanen van de andere Partij als hunne eigen onderdanen te behandelen; de besturen van de Nederlandsche Overzeesche Gewesten zullen echter volkomen vrijheid van wetgeving behouden met betrekking tot de kustvaart.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Voor alle gevallen, die niet voorzien zijn in de voorgaande artikelen en die betrekking hebben op den handel, de nijverheid, de scheepvaart en den consulairen dienst, staan de Hooge Verdragsluitende Partijen elkander wederzijds de behandeling op den voet der meestbegunstigde natie toe.
 
@@ -64,17 +88,17 @@ De Hooge Verdragsluitende Partijen verbinden zich wederkeerig, voor wat betreft 
 
 3. Het den zevenden Maart negentienhonderd en veertien tusschen Nederland en Guatemala gesloten consulaire Verdrag zal van kracht blijven.
 
-#### Artikel VII
+##### Artikel VII
 
 Elk geschil over den uitleg, de toepassing of de uitvoering van dit Verdrag, dat door de Hooge Verdragsluitende Partijen niet langs diplomatieken weg zoude kunnen worden opgelost, zal onderworpen worden aan het Permanente Hof van Internationale Justitie.
 
-#### Artikel VIII
+##### Artikel VIII
 
 De bepalingen van dit verdrag zijn van toepassing op Nederland, Nederlandsch-Indië, Suriname en Curaçao.
 
 Curaçao omvat de eilanden Curaçao, Aruba, Bonaire, St. Eustatius, Saba en St. Martin (Nederlandsch gedeelte).
 
-#### Artikel IX
+##### Artikel IX
 
 Dit verdrag zal bekrachtigd worden en de bekrachtigingoorkonden zullen zoodra mogelijk te Guatemala worden uitgewisseld
 

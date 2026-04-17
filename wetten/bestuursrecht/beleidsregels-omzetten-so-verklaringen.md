@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregels omzetten S&O-verklaringen"
+title: "Beleidsregels van de Minister van Economische Zaken van 30 november 2016, nr. WJZ/16138270, houdende vaststelling van de beleidsregels omtrent het omzetten van S&O-verklaringen (Beleidsregels omzetten S&O-verklaringen)"
 identifier: "BWBR0038922"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038922"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038922"
+soort: "beleidsregel"
+stam_id: "13832983"
+version_id: "23743692"
+internal_id: "C34172811"
+label_id: "13798494"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038922/2022-01-01/0"
+intitule_bron: "Stcrt.2016-65896"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-11-30"
+intitule_published: "2016-12-21"
+intitule_in_force: "2016-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-65896"
+original_signed_date: "2016-11-30"
+original_published_date: "2016-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-65896"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0038922&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0038922&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels omzetten S&O-verklaringen"
+signed_date: "2016-11-30"
+entry_into_force: "2017-01-01"
 ---
-
 # Beleidsregels van de Minister van Economische Zaken van 30 november 2016, nr. WJZ/16138270, houdende vaststelling van de beleidsregels omtrent het omzetten van S&O-verklaringen (Beleidsregels omzetten S&O-verklaringen)
 
 Gelet op [artikel 30, tweede lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=30);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -28,13 +54,13 @@ In deze beleidsregels wordt verstaan onder:
 
 - **wet:** [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een overnemende S&O-inhoudingsplichtige kan met een beroep op [artikel 30, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=30) juncto [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) een omzettingsverzoek indienen bij de minister.
 
 2. Een omzettingsverzoek heeft betrekking op de overdracht van de gehele S&O-verklaring.
 
-#### Artikel 3
+##### Artikel 3
 
 De minister kan een omzettingsverzoek goedkeuren indien:
 
@@ -56,7 +82,7 @@ De minister kan een omzettingsverzoek goedkeuren indien:
 
 - e. de overnemende S&O-inhoudingsplichtige kan aantonen dat hij de speur- en ontwikkelingswerkzaamheden heeft verricht en, indien van toepassing, de kosten en uitgaven heeft gerealiseerd waarvoor de S&O-verklaring is afgegeven.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een omzettingsverzoek is gemotiveerd en gaat vergezeld van de volgende gegevens:
 
@@ -66,7 +92,7 @@ De minister kan een omzettingsverzoek goedkeuren indien:
 
 2. De minister kan de overnemende S&O-inhoudingsplichtige om aanvullende gegevens en bescheiden vragen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De minister beslist binnen acht weken na ontvangst van het omzettingsverzoek.
 
@@ -74,7 +100,7 @@ De minister kan een omzettingsverzoek goedkeuren indien:
 
 3. Tegen een besluit als bedoeld in het eerste lid is geen bezwaar of beroep mogelijk.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien het omzettingsverzoek wordt goedgekeurd, wordt de door de overdragende S&O-inhoudingsplichtige ingediende aanvraag voor de S&O-verklaring geacht namens de overnemende S&O-inhoudingsplichtige te zijn gedaan.
 
@@ -90,11 +116,11 @@ De minister kan een omzettingsverzoek goedkeuren indien:
 
 3. Alle rechten en plichten met betrekking tot de overgedragen S&O-verklaring, na een eventuele aanpassing als bedoeld in het tweede lid, zijn van toepassing op de overnemende S&O-inhoudingsplichtige.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze beleidsregels treden in werking met ingang van 1 januari 2017.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze beleidsregels worden aangehaald als: Beleidsregels omzetten S&O-verklaringen.
 

@@ -1,13 +1,38 @@
 ---
 title: "Verdrag betreffende de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie en Akte, betreffende de voorwaarden voor de toetreding van het Koninkrijk Spanje en de Portugese Republiek en de aanpassing van de Verdragen"
 identifier: "BWBV0002952"
-categorie: "Internationaal recht"
-publicatiedatum: 1986-01-01
-laatste_update: 1986-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002952"
+country: "nl"
+rank: "verdrag"
+publication_date: "1986-01-01"
+last_updated: "1986-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002952"
+soort: "verdrag"
+stam_id: "10003267733"
+version_id: "10003298512"
+internal_id: "C10006978901"
+label_id: "10003262794"
+dtd_version: "2.0"
+original_entry_into_force: "1986-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002952/1986-01-01/0"
+intitule_bron: "Trb.1985-135"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-12-23"
+intitule_published: "1985-12-11"
+intitule_in_force: "1986-02-28"
+intitule_status: "goed"
+original_publication: "Trb.1985-135"
+original_signed_date: "1985-12-23"
+original_published_date: "1985-12-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1985-135"
+entry_into_force_date: "1986-01-01"
+jci_1_3: "jci1.3:c:BWBV0002952&z=1986-01-01&g=1986-01-01"
+jci_1_0: "1.0:c:BWBV0002952&g=1986-01-01"
+citeertitel_status: "officieel"
+signed_date: "1985-12-23"
+entry_into_force: "1986-01-01"
 ---
-
 # Verdrag betreffende de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie en Akte, betreffende de voorwaarden voor de toetreding van het Koninkrijk Spanje en de Portugese Republiek en de aanpassing van de Verdragen
 
 Zijne Majesteit de Koning der Belgen,
@@ -242,7 +267,7 @@ Permanente Vertegenwoordiger bij de Europese Gemeenschappen
 
 Die na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, omtrent de volgende bepalingen overeenstemming hebben bereikt:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het Koninkrijk Spanje en de Portugese Republiek worden lid van de Europese Economische Gemeenschap en van de Europese Gemeenschap voor Atoomenergie en worden Partij bij de Verdragen tot oprichting van deze Gemeenschappen, zoals deze Verdragen zijn gewijzigd of aangevuld.
 
@@ -250,7 +275,7 @@ Die na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, omt
 
 3. De in de in lid 1 genoemde Verdragen voorkomende bepalingen betreffende de rechten en verplichtingen van de Lid-Staten alsmede de algemene en bijzondere bevoegdheden van de Instellingen van de Gemeenschappen, zijn van toepassing ten aanzien van dit Verdrag.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit Verdrag zal door de Hoge Verdragsluitende Partijen worden bekrachtigd overeenkomstig hun onderscheiden grondwettelijke bepalingen. De Akten van bekrachtiging zullen uiterlijk 31 december 1985 worden neergelegd bij de regering van de Italiaanse Republiek.
 
@@ -260,13 +285,13 @@ Indien echter een van de in artikel 1, lid 1, genoemde Staten niet tijdig zijn A
 
 3. In afwijking van lid 2 kunnen de Instellingen van de Gemeenschap vóór de toetreding de maatregelen vaststellen bedoeld in de artikelen 27, 91,161, 163, 164, 165, 171, 179, 258, 349, 351, 352, 358, 366, 378 en 396 van de Toetredingsakte en van de artikelen 2, 3 en 4 van Protocol nr. 2. Deze maatregelen treden slechts in werking onder voorbehoud en op de datum van inwerkingtreding van het onderhavige Verdrag.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit Verdrag, opgesteld in één enkel exemplaar, in de Deense, de Duitse, de Engelse, de Franse, de Griekse, de Ierse, de Italiaanse, de Nederlandse, de Portugese en de Spaanse taal, zijnde de teksten in elk van deze talen gelijkelijk authentiek, zal worden neergelegd in het archief van de regering van de Italiaanse Republiek, die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de regeringen der andere ondertekenende Staten.
 
 ## DEEL EERSTE. BEGINSELEN
 
-#### Artikel 1
+##### Artikel 1
 
 In de zin van deze Akte:
 
@@ -280,11 +305,11 @@ In de zin van deze Akte:
 
 - -. wordt met de uitdrukking „nieuwe Lid-Staten” bedoeld het Koninkrijk Spanje en de Portugese Republiek.
 
-#### Artikel 2
+##### Artikel 2
 
 Onmiddellijk bij de toetreding zijn de oorspronkelijke Verdragen en de door de Instellingen van de Gemeenschappen vóór de toetreding genomen besluiten verbindend voor de nieuwe Lid-Staten en in deze Staten toepasselijk onder de voorwaarden voorzien in deze Verdragen en in deze Akte.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij deze Akte treden de nieuwe Lid-Staten toe tot de door de Vertegenwoordigers van de Regeringen der Lid-Staten, in het kader van de Raad bijeen, genomen besluiten en gesloten overeenkomsten. Zij verbinden zich ertoe op het tijdstip van de toetreding ook toe te treden tot elke andere door de huidige Lid-Staten gesloten overeenkomst die de werking van de Gemeenschappen betreft of in nauw verband staat met het optreden van deze Gemeenschappen.
 
@@ -292,7 +317,7 @@ Onmiddellijk bij de toetreding zijn de oorspronkelijke Verdragen en de door de I
 
 3. De nieuwe Lid-Staten bevinden zich ten aanzien van de verklaringen, resoluties of andere standpuntbepalingen van de Raad alsmede ten aanzien van die, welke betrekking hebben op de Europese Gemeenschappen en in onderling overleg tussen de Lid-Staten zijn aanvaard, in dezelfde situatie als de huidige Lid-Staten. Zij zullen derhalve de beginselen en beleidslijnen die hieruit voortvloeien, eerbiedigen en de maatregelen treffen die nodig zouden kunnen blijken ter verzekering van de toepassing daarvan.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De door één van de Gemeenschappen met één of meer derde Staten, met een internationale organisatie dan wel met een onderdaan van een derde Staat gesloten overeenkomsten of akkoorden zijn verbindend voor de nieuwe Lid-Staten, en wel onder de in de oorspronkelijke Verdragen en in deze Akte neergelegde voorwaarden.
 
@@ -302,23 +327,23 @@ Onmiddellijk bij de toetreding zijn de oorspronkelijke Verdragen en de door de I
 
 4. De nieuwe Lid-Staten treffen de passende maatregelen om zo nodig hun positie ten aanzien van internationale organisaties en internationale overeenkomsten waarbij andere Lid-Staten of één van de Gemeenschappen eveneens partij zijn, aan te passen aan de rechten en verplichtingen die voortvloeien uit hun toetreding tot de Gemeenschappen.
 
-#### Artikel 5
+##### Artikel 5
 
 Artikel 234 van het EEG-Verdrag en de artikelen 105 en 106 van het EGA-Verdrag zijn voor de nieuwe Lid-Staten van toepassing op de overeenkomsten en akkoorden gesloten voor hun toetreding.
 
-#### Artikel 6
+##### Artikel 6
 
 De bepalingen van deze Akte kunnen, tenzij anders is bepaald, uitsluitend worden geschorst, gewijzigd of ingetrokken door middel van de procedures voorzien in de oorspronkelijke Verdragen die het mogelijk maken tot een herziening van die Verdragen te komen.
 
-#### Artikel 7
+##### Artikel 7
 
 De door de Instellingen van de Gemeenschappen genomen besluiten waarop de in deze Akte vastgestelde overgangsmaatregelen zijn gebaseerd, behouden hun eigen rechtskarakter; met name blijven de voor deze besluiten geldende wijzigingsprocedures van toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 De bepalingen van deze Akte waarvan het doel of het gevolg is dat besluiten van de Instellingen van de Gemeenschappen anders dan bij wijze van overgangsmaatregel worden ingetrokken of gewijzigd, verkrijgen hetzelfde rechtskarakter als de daardoor ingetrokken of gewijzigde bepalingen en zijn onderworpen aan dezelfde regels als laatstgenoemde bepalingen.
 
-#### Artikel 9
+##### Artikel 9
 
 Ten aanzien van de toepassing van de oorspronkelijke Verdragen en van de door de Instellingen genomen besluiten gelden, bij wijze van overgang, de in deze Akte neergelegde afwijkende bepalingen.
 
@@ -328,83 +353,83 @@ Ten aanzien van de toepassing van de oorspronkelijke Verdragen en van de door de
 
 ### Hoofdstuk 1. De Vergadering
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Akte betreffende de verkiezing van de vertegenwoordigers in de Vergadering door middel van rechtstreekse algemene verkiezingen; Brussel, 20 september 1976.
 
 ### Hoofdstuk 2. De Raad
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Verdrag tot instelling van één Raad en één Commissie welke de Europese Gemeenschappen gemeen hebben; Brussel, 8 april 1965.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
 ### Hoofdstuk 3. De Commissie
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt het Verdrag tot instelling van één Raad en één Commissie welke de Europese Gemeenschappen gemeen hebben; Brussel, 8 april 1965.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt het Verdrag tot instelling van één Raad en één Commissie welke de Europese Gemeenschappen gemeen hebben; Brussel, 8 april 1965.
 
 ### Hoofdstuk 4. Het Hof van Justitie
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag tot oprichting van de Europese Gemeenschap, Rome; 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag tot oprichting van de Europese Gemeenschap, Rome; 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
 ### Hoofdstuk 5. De Rekenkamer
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
 ### Hoofdstuk 6. Het Economisch en Sociaal Comité
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25 maart 1957 en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
 ### Hoofdstuk 7. Het Raadgevend Comité EGKS
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951.
 
 ### Hoofdstuk 8. Het wetenschappelijk en technisch Comité
 
-#### Artikel 23
+##### Artikel 23
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
 ## TITEL II. ANDERE AANPASSINGEN
 
-#### Artikel 24
+##### Artikel 24
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap; Rome, 25 maart 1957.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De Verdragen en de besluiten van de Instellingen van de Europese Gemeenschappen zijn van toepassing op de Canarische Eilanden en op Ceuta en Melilla, onder voorbehoud van de in de leden 2 en 3 en in de andere bepalingen van de onderhavige Akte bedoelde afwijkingen.
 
@@ -424,11 +449,11 @@ Op voorstel van de Commissie, die eigener beweging of op verzoek van een Lid-Sta
 
 ## DEEL DERDE. AANPASSING VAN DE BESLUITEN VAN DE INSTELLINGEN
 
-#### Artikel 26
+##### Artikel 26
 
 Ten aanzien van de besluiten genoemd in de lijst die voorkomt in bijlage I van deze Akte vinden de aanpassingen plaats die in die bijlage worden omschreven.
 
-#### Artikel 27
+##### Artikel 27
 
 De ingevolge de toetreding noodzakelijke aanpassingen van de in de lijst die voorkomt in bijlage II van deze Akte genoemde besluiten, worden verricht overeenkomstig de in die bijlage vervatte richtsnoeren en volgens de procedure en op de wijze bepaald in artikel 396.
 
@@ -436,7 +461,7 @@ De ingevolge de toetreding noodzakelijke aanpassingen van de in de lijst die voo
 
 ## TITEL I. INSTITUTIONELE BEPALINGEN
 
-#### Artikel 28
+##### Artikel 28
 
 1. In de loop van de eerste twee jaren volgend op de toetreding gaat elk van de nieuwe Lid-Staten over tot de verkiezing door middel van rechtstreekse algemene verkiezingen, respectievelijk van de zestig vertegenwoordigers van het Spaanse volk en van de vierentwintig vertegenwoordigers van het Portugese volk in de Vergadering, overeenkomstig het bepaalde in de Akte van 20 september 1976 betreffende de verkiezing van de vertegenwoordigers in de Vergadering door middel van rechtstreekse algemene verkiezingen.
 
@@ -444,7 +469,7 @@ Het mandaat van deze vertegenwoordigers eindigt terzelfder tijd als dat van de v
 
 2. Onmiddellijk bij de toetreding en voor de periode die verstrijkt ten tijde van elk der in lid 1 bedoelde verkiezingen, worden de vertegenwoordigers van het Spaanse en het Portugese volk in de Vergadering aangewezen door de volksvertegenwoordigingen van de nieuwe Lid-Staten uit hun midden, zulks volgens de door elk dezer Staten vastgestelde procedure.
 
-#### Artikel 29
+##### Artikel 29
 
 Voor de toepassing van artikel 2, tweede alinea, van het Verdrag tot Instelling van één Raad en één Commissie welke de Gemeenschappen gemeen hebben is de in artikel 11 van de onderhavige Akte vastgestelde volgorde van de nieuwe Lid-Staten van toepassing zodra de laatste periode van het Voorzitterschap in de volgorde van de Lid-Staten vastgesteld in voornoemd artikel 2 in de vóór de toetreding geldende versie, is verstreken.
 
@@ -454,7 +479,7 @@ Voor de toepassing van artikel 2, tweede alinea, van het Verdrag tot Instelling 
 
 ### Afdeling I. Tariefbepalingen
 
-#### Artikel 30
+##### Artikel 30
 
 1. Voor ieder produkt is het basisrecht waarop de in artikel 31, artikel 75, lid 1, en artikel 173, leden 1 en 2 bedoelde achtereenvolgende verlagingen moeten worden toegepast, het recht dat op 1 januari 1985 werkelijk werd toegepast in het handelsverkeer in produkten van oorsprong uit de Gemeenschap in haar huidige samenstelling en Spanje.
 
@@ -476,7 +501,7 @@ Voor de toepassing van artikel 2, tweede alinea, van het Verdrag tot Instelling 
 |   | E. andere, tabak geagglomereerd tot vellen daaronder begrepen | 10,4% |
 | 27.09 | Ruwe aarolie en ruwe oliën uit bitumineuze materialen | vrijstelling |
 
-#### Artikel 31
+##### Artikel 31
 
 1. De invoerrechten tussen de Gemeenschap in haar huidige samenstelling en het Koninkrijk Spanje worden geleidelijk afgeschaft volgens het onderstaande ritme:
 
@@ -504,7 +529,7 @@ Voor de toepassing van artikel 2, tweede alinea, van het Verdrag tot Instelling 
 
 3. Bij toepassing van de overeenkomstig lid 1 berekende rechten, wordt afgerond op de eerste decimaal door schrapping van de tweede decimaal.
 
-#### Artikel 32
+##### Artikel 32
 
 In geen geval worden binnen de Gemeenschap douanerechten toegepast die hoger zijn dan die welke gelden ten opzichte van derde landen waarvoor de meestbegunstigingsclausule geldt.
 
@@ -512,29 +537,29 @@ Ingeval de rechten van het gemeenschappelijk douanetarief worden gewijzigd of ge
 
 Ingeval de rechten van het eengemaakte EGKS-tarief worden gewijzigd of geschorst of ingeval het Koninkrijk Spanje artikel 40 toepast, kan de Commissie de nodige maatregelen nemen ter handhaving van de communautaire preferentie.
 
-#### Artikel 33
+##### Artikel 33
 
 Het Koninkrijk Spanje kan de heffing van de rechten die worden toegepast op uit de Gemeenschap in haar huidige samenstelling ingevoerde produkten geheel of gedeeltelijk schorsen. Zij stelt de andere Lid-Staten en de Commissie daarvan in kennis.
 
 De Raad kan, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen de heffing van de rechten die worden toegepast op uit Spanje ingevoerde produkten geheel of gedeeltelijk schorsen.
 
-#### Artikel 34
+##### Artikel 34
 
 De uit artikel 30 voortvloeiende tariefcontingenten met verlaagde rechten die gelden bij de invoer in Spanje van bepaalde nieuwe personenvoertuigen van post ex 87.02 A I b) van het gemeenschappelijk douanetarief worden onmiddellijk bij de toetreding afgeschaft voor uit de Gemeenschap in haar huidige samenstelling ingevoerde voertuigen.
 
 Met ingang van 1 januari 1986 opent het Koninkrijk Spanje jaarlijkse tariefcontingenten met een verlaagd recht voor de invoer van automobielen voor personenvervoer, met explosiemotor of verbrandingsmotor, met uitzondering van touringcars en autobussen, van post 87.02 A I b) van het gemeenschappelijk douanetarief, van oorsprong uit de Gemeenschap in haar huidige samenstelling. Het bepaalde in protocol nr. 6 is van toepassing op de toelating van deze automobielen tot de tariefcontingenten.
 
-#### Artikel 35
+##### Artikel 35
 
 De in het verkeer tussen de Gemeenschap in haar huidige samenstelling en Spanje bestaande heffingen van gelijke werking als invoerrechten worden afgeschaft op 1 maart 1986.
 
 Met ingang van 1 maart 1986 worden geen invoerrechten van fiscale aard toegepast.
 
-#### Artikel 36
+##### Artikel 36
 
 De in het verkeer tussen de Gemeenschap in haar huidige samenstelling en Spanje bestaande uitvoerrechten en heffingen van gelijke werking worden op 1 maart 1986 afgeschaft.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Ten behoeve van de geleidelijke invoering van het gemeenschappelijk douanetarief en van het eengemaakte EGKS-tarief wijzigt het Koninkrijk Spanje zijn ten opzichte van derde landen van toepassing zijnde tarief als volgt:
 
@@ -560,13 +585,13 @@ Vanaf 1 maart 1986:
 
 2. In afwijking van lid 1 past het Koninkrijk Spanje voor de produkten die zijn vermeld in de bijlage bij de Overeenkomst betreffende de handel in burgerluchtvaartuigen, gesloten in het kader van de handelsbesprekingen 1973-1979 van de algemene Overeenkomst betreffende tarieven en handel, het gemeenschappelijk douanetarief volledig toe met ingang van 1 maart 1986.
 
-#### Artikel 38
+##### Artikel 38
 
 De in het gemeenschappelijk douanetarief van de Gemeenschap vermelde autonome rechten zijn de autonome rechten van de Gemeenschap in haar huidige samenstelling. De conventionele rechten van het gemeenschappelijk douanetarief van de EEG en van het eengemaakte EGKS-tarief zijn de conventionele rechten van de EEG en de EGKS in hun huidige samenstelling, met uitzondering van de aanpassingen die daarin aangebracht zullen worden om rekening te houden met het feit dat de rechten van het Spaanse en Portugese tarief over het geheel genomen hoger zijn dan de rechten van de tarieven van de EEG en de EGKS in hun huidige samenstelling.
 
 Deze aanpassingen, waarover zal worden onderhandeld in het kader van de Algemene Overeenkomst betreffende tarieven en handel, zullen binnen de grenzen van de door artikel XXIV van die Overeenkomst geboden mogelijkheden blijven.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Wanneer de rechten van het douanetarief van het Koninkrijk Spanje van andere aard zijn dan de overeenkomstige rechten van het gemeenschappelijk douanetarief of van het eengemaakte EGKS-tarief, geschiedt de geleidelijke aanpassing van eerstgenoemde aan laatstgenoemde door de elementen van het Spaanse basisrecht te voegen bij die van het recht van het gemeenschappelijk douanetarief of van het eengemaakte EGKS-tarief, waarbij het Spaanse basisrecht geleidelijk en volgens het ritme bedoeld in artikel 37 en artikel 75, lid 2, tot nul wordt verlaagd en het recht van het gemeenschappelijk douanetarief of van het eengemaakte EGKS-tarief van nul uitgaat om geleidelijk en volgens hetzelfde ritme zijn eindbedrag te bereiken.
 
@@ -584,11 +609,11 @@ In geval van wijzigingen van de nomenclatuur van het gemeenschappelijk douanetar
 
 Wanneer de Spaanse rechten worden aangepast aan rechten van het gemeenschappelijk douanetarief of van het eengemaakte EGKS-tarief die lager zijn dan de Spaanse basisrechten, vindt afronding plaats door schrapping van de tweede decimaal. In de andere gevallen vindt afronding plaats door toepassing van de hogere decimaal.
 
-#### Artikel 40
+##### Artikel 40
 
 Bij de aanpassing van zijn tarief aan het gemeenschappelijk douanetarief en aan het eengemaakte EGKS-tarief staat het het Koninkrijk Spanje vrij om zijn douanerechten in een sneller ritme te wijzigen dan is bepaald in artikel 37. Het stelt de andere Lid-Staten en de Commissie daarvan in kennis.
 
-#### Artikel 41
+##### Artikel 41
 
 Gedurende het tijdvak van afschaffing van de douanerechten tussen de Gemeenschap in haar huidige samenstelling en het Koninkrijk Spanje en het tijdvak waarin de rechten van het Spaanse douanetarief worden aangepast aan die van het gemeenschappelijk douanetarief en het eengemaakte EGKS-tarief, mag het Koninkrijk Spanje ten opzichte van derde landen de tariefcontingenten openen die met ingang van 1 januari 1985 daadwerkelijk werden toegepast.
 
@@ -598,11 +623,11 @@ Indien dergelijke contingenten niet worden geopend, past het Koninkrijk Spanje o
 
 ### Afdeling II. Afschaffing van kwantitatieve beperkingen en maatregelen van gelijke werking
 
-#### Artikel 42
+##### Artikel 42
 
 De kwantitatieve in- en uitvoerbeperkingen, alsmede alle tussen de Gemeenschap in haar huidige samenstelling en het Koninkrijk Spanje bestaande maatregelen van gelijke werking worden op 1 januari 1986 afgeschaft.
 
-#### Artikel 43
+##### Artikel 43
 
 1. In afwijking van artikel 42 mag het Koninkrijk Spanje kwantitatieve invoerbeperkingen blijven toepassen:
 
@@ -630,13 +655,13 @@ in het 4e jaar: 20%.
 
 5. Protocol nr. 7 bevat de beginselen die door het Koninkrijk Spanje worden toegepast bij het beheer van de in lid 2 bedoelde contingenten.
 
-#### Artikel 44
+##### Artikel 44
 
 1. In afwijking van artikel 42 kan het Koninkrijk Spanje tot en met 31 december 1989 een nationaal aandeel van ten hoogste 60% handhaven voor delen, onderdelen en toebehoren die worden gebruikt bij de vervaardiging van automobielen voor personenvervoer, met explosiemotor of met verbrandingsmotor, andere dan touringcars en autobussen van post 87.02 A I b) van het gemeenschappelijk douanetarief.
 
 2. Het in lid 1 bedoelde nationale aandeel is identiek voor fabrikanten die onderdaan zijn van de andere Lid-Staten en in Spanje zijn gevestigd en voor alle fabrikanten die onderdaan zijn van het Koninkrijk Spanje. De aan voornoemde fabrikanten toegekende behandeling is niet minder gunstig dan die welke wordt toegekend aan de fabrikanten van derde landen.
 
-#### Artikel 45
+##### Artikel 45
 
 1. In afwijking van artikel 42 mag de Gemeenschap tot en met 31 december 1988 kwantitatieve beperkingen handhaven bij de uitvoer naar Spanje van de volgende produkten:
 
@@ -655,17 +680,17 @@ Het tempo van de geleidelijke jaarlijkse verhoging van de oorspronkelijke contin
 
 5. De in de leden 1 tot en met 4 bedoelde regeling welke door de Gemeenschap ten opzichte van Spanje wordt toegepast, is niet minder gunstig dan die welke ten opzichte van derde landen wordt toegepast.
 
-#### Artikel 46
+##### Artikel 46
 
 In afwijking van artikel 42 kunnen de huidige Lid-Staten tot het einde van het in artikel 52 bedoelde tijdvak de kwantitatieve beperkingen handhaven bij de uitvoer van schroot, resten en afvallen van werken van gietijzer, van ijzer of van staal van post 73.03 van het gemeenschappelijk douanetarief die zij vóór de toetreding ten opzichte van het Koninkrijk Spanje toepasten, mits deze regeling niet beperkender is dan de regeling die geldt voor de uitvoer naar derde landen.
 
-#### Artikel 47
+##### Artikel 47
 
 1. In afwijking van artikel 42 kan de octrooihouder of zijn rechthebbende voor een chemisch, farmaceutisch of fytosanitair produkt, dat in een Lid-Staat is gedeponeerd op een tijdstip waarop in Spanje voor dat produkt geen octrooi kon worden verkregen, zich beroepen op het aan dat octrooi verbonden recht ten einde de invoer van en de handel in dit produkt te verhinderen in de huidige Lid-Staat of Lid-Staten waar dit produkt door een octrooi wordt beschermd, zelfs als dit produkt voor de eerste maal door hemzelf of met zijn instemming in Spanje in de handel is gebracht.
 
 2. Op dit recht kan tot het einde van het derde jaar na de invoering door Spanje van de octrooieerbaarheid van deze produkten een beroep worden gedaan voor de in lid 1 bedoelde produkten.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Onverminderd de leden 2 en 3 past het Koninkrijk Spanje vanaf 1 januari 1986 zijn nationale monopolies van commerciële aard, als bedoeld in artikel 37, lid 1, van het EEG-Verdrag, waarbij, in voorkomend geval, rekening wordt gehouden met artikel 90, lid 2, van het EEG-Verdrag geleidelijk aan, in dier voege dat uiterlijk op 31 december 1991 elke discriminatie tussen onderdanen van de Lid-Staten, wat de voorwaarden van de voorziening en afzet betreft, is uitgesloten.
 
@@ -685,13 +710,13 @@ De in de eerste alinea bedoelde contingenten staan zonder beperkingen open voor 
 
 4. De aanpassing van het monopolie voor de produkten die voorkomen in de lijst in bijlage VI behoeft niet van invloed te zijn op de werking van het Spaanse aardoliemonopolie ten opzichte van derde landen. Dit monopolie kan bepalend blijven voor de vaststelling van de oorsprong en de voorwaarden waaronder een quotum wordt verkregen in de invoer van ruwe aardolie uit derde landen die noodzakelijk is voor het veiligstellen van de bevoorrading van de Spaanse markt, een en ander met inachtneming van de bepalingen van het EEG-Verdrag, inzonderheid van de bepalingen betreffende het vrije verkeer van de artikelen 30 en 37 van dat Verdrag.
 
-#### Artikel 49
+##### Artikel 49
 
 In afwijking van artikel 42 wordt het in Protocol nr. 9 bedoelde stelsel toegepast op het handelsverkeer in bepaalde textielprodukten tussen de Gemeenschap in haar huidige samenstelling en Spanje.
 
 ### Afdeling III. Overige bepalingen
 
-#### Artikel 50
+##### Artikel 50
 
 1. Rekening houdend met de geldende voorschriften, inzonderheid met die betreffende het communautaire douanevervoer, stelt de Commissie de methoden van administratieve samenwerking vast welke de in deze Akte bedoelde afschaffing van de douanerechten en heffingen van gelijke werking alsmede van de kwantitatieve beperkingen en maatregelen van gelijke werking moeten waarborgen voor goederen die aan de daarvoor gestelde voorwaarden voldoen.
 
@@ -705,7 +730,7 @@ In afwijking van artikel 42 wordt het in Protocol nr. 9 bedoelde stelsel toegepa
 
 Bij het vaststellen van deze bepalingen houdt de Commissie rekening met de in deze Akte neergelegde voorschriften voor de afschaffing van de douanerechten tussen de Gemeenschap in haar huidige samenstelling en Spanje en voor de geleidelijke toepassing door het Koninkrijk Spanje van het gemeenschappelijk douanetarief en van de bepalingen betreffende het gemeenschappelijk landbouwbeleid.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Tenzij anders bepaald in deze Akte, zijn de bepalingen inzake douanewetgeving voor het handelsverkeer met derde landen onder dezelfde voorwaarden van toepassing op het handelsverkeer binnen de Gemeenschap, zolang er in dat handelsverkeer douanerechten worden geheven.
 
@@ -721,7 +746,7 @@ het in aanmerking te nemen douanegebied het douanegebied dat wordt omschreven in
 
 Het Koninkrijk Spanje kan in deze nomenclaturen de op het tijdstip van toetreding bestaande nationale onderverdelingen overnemen die noodzakelijk zijn om te bewerkstelligen dat de geleidelijke afschaffing van zijn invoerrechten binnen de Gemeenschap plaatsvindt overeenkomstig het bepaalde in deze Akte.
 
-#### Artikel 52
+##### Artikel 52
 
 Gedurende een periode van drie jaar, te rekenen vanaf de toetreding, voltooit het Koninkrijk Spanje de herstructurering van zijn ijzer- en staalindustrie overeenkomstig het bepaalde in Protocol nr. 10.
 
@@ -731,7 +756,7 @@ Met instemming van de Raad kan de Commissie de hierboven bedoelde periode verkor
 
 - -. de maatregelen in deze sector die na de datum van toetreding in de Gemeenschap van kracht zijn. In dat geval zou de regeling die na de toetreding van toepassing is op Spaanse leveranties naar de Gemeenschap in haar huidige samenstelling niet mogen leiden tot wezenlijke verschillen in de behandeling van enerzijds Spanje en anderzijds de andere Lid-Staten.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Indien in het handelsverkeer tussen de Gemeenschap in haar huidige samenstelling en het Koninkrijk Spanje compenserende bedragen als bedoeld in artikel 72 worden toegepast op een of meer van de basisprodukten die worden beschouwd als te zijn gebruikt bij de vervaardiging van goederen die vallen onder Verordening (EEG) nr. 3033/80 van de Raad van 11 november 1980 tot vaststelling van de handelsregeling die van toepassing is op bepaalde goederen, verkregen door verwerking van landbouwprodukten worden de volgende overgangsmaatregelen toegepast:
 
@@ -765,7 +790,7 @@ Elk vast element dat door het Koninkrijk Spanje wordt toegepast op de invoer uit
 
 ### Afdeling IV. Handelsverkeer tussen het Koninkrijk Spanje en de Portugese Republiek
 
-#### Artikel 54
+##### Artikel 54
 
 Het Koninkrijk Spanje past in zijn handelsverkeer met de Portugese Republiek de artikelen 30 tot en met 53 toe, behoudens de in Protocol nr. 3 neergelegde voorwaarden.
 
@@ -773,11 +798,11 @@ Het Koninkrijk Spanje past in zijn handelsverkeer met de Portugese Republiek de 
 
 ### Afdeling I. Werknemers
 
-#### Artikel 55
+##### Artikel 55
 
 Artikel 48 van het EEG-Verdrag is, voor wat betreft het vrije verkeer van werknemers tussen Spanje en andere Lid-Staten, slechts van toepassing onder voorbehoud van de overgangsbepalingen neergelegd in de artikelen 56 tot en met 59 van deze Akte.
 
-#### Artikel 56
+##### Artikel 56
 
 1. De artikelen 1 tot en met 6 van Verordening (EEG) nr. 1612/68 betreffende het vrije verkeer van werknemers binnen de Gemeenschap zijn in Spanje ten aanzien van onderdanen van de andere Lid-Staten en in de andere Lid-Staten ten aanzien van Spaanse onderdanen pas van toepassing vanaf 1 januari 1993.
 
@@ -789,7 +814,7 @@ Het Koninkrijk Spanje en het Groothertogdom Luxemburg mogen de in de vorige alin
 
 Na dit onderzoek kan de Raad, met eenparigheid van stemmen op voorstel van de Commissie, aan de hand van nieuwe gegevens bepalingen vaststellen om genoemde maatregelen aan te passen.
 
-#### Artikel 57
+##### Artikel 57
 
 1. Artikel 11 van Verordening (EEG) nr. 1612/68 is in Spanje ten aanzien van onderdanen van de andere Lid-Staten en in de andere Lid-Staten ten aanzien van Spaanse onderdanen van toepassing tot en met 31 december 1990, zulks onder de volgende voorwaarden:
 
@@ -801,15 +826,15 @@ Dit lid doet geen afbreuk aan gunstiger nationale of uit bilaterale overeenkomst
 
 2. De in lid 1 bedoelde regeling is ook van toepassing op de familieleden van een zelfstandige die met hem in een Lid-Staat zijn geïnstalleerd.
 
-#### Artikel 58
+##### Artikel 58
 
 Voor zover bepaalde voorschriften van Richtlijn 68/360/EEG inzake de opheffing van de beperkingen van de verplaatsing en het verblijf van de werknemers der Lid-Staten en van hun familie binnen de Gemeenschap onlosmakelijk zijn verbonden met die voorschriften van Verordening (EEG) nr. 1612/68 waarvan de toepassing krachtens artikel 56 wordt uitgesteld, zijn het Koninkrijk Spanje en andere Lid-Staten bevoegd van deze voorschriften af te wijken voor zover zulks noodzakelijk is voor de toepassing van de afwijkende bepalingen die in artikel 56 omtrent voornoemde verordening zijn neergelegd.
 
-#### Artikel 59
+##### Artikel 59
 
 Het Koninkrijk Spanje en de andere Lid-Staten treffen, daarin bijgestaan door de Commissie, de nodige maatregelen opdat uiterlijk op 1 januari 1993 de toepassing van het besluit van de Commissie van 8 december 1972 betreffende het uniforme systeem dat krachtens artikel 15 van Verordening (EEG) nr. 1612/68 van de Raad is ingesteld het zogenaamde ,,SEDOC”-systeem, en van het besluit van de Commissie van 14 december 1972 betreffende „het communautaire schema” voor het inwinnen en verspreiden van de inlichtingen bedoeld in artikel 14, lid 3, van Verordening (EEG) nr. 1612/68 van de Raad tot Spanje kan worden uitgebreid.
 
-#### Artikel 60
+##### Artikel 60
 
 1. Tot de inwerkingtreding van de voor alle Lid-Staten eenvormige oplossing, bedoeld in artikel 99 van Verordening (EEG) nr. 1409/71 betreffende de toepassing van de sociale zekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen, en uiterlijk tot en met 31 december 1988 zijn artikel 73, leden 1 en 3, artikel 74, lid 1, en artikel 75, lid 1, van Verordening (EEG) nr. 1408/71, alsmede de artikelen 86 en 88 van Verordening (EEG) nr. 574/72 tot vaststelling van de wijze van toepassing van Verordening (EEG) nr. 1408/71 niet van toepassing op Spaanse werknemers die werkzaam zijn in een andere Lid-Staat dan Spanje en wier gezinsleden in Spanje verblijven.
 
@@ -861,13 +886,13 @@ Er wordt evenwel geen afbreuk gedaan aan de wettelijke bepalingen van een Lid-St
 
 ### Afdeling II. Kapitaalverkeer
 
-#### Artikel 61
+##### Artikel 61
 
 1. Het Koninkrijk Spanje kan, onder de voorwaarden en binnen de termijnen neergelegd in de artikelen 62 tot en met 66, de vrijmaking van het kapitaalverkeer, vermeld in de lijsten A en B van de eerste richtlijn van de Raad van 11 mei 1960 voor de uitvoering van artikel 67 van het EEG-Verdrag en van de Tweede richtlijn van de Raad van 18 december 1962 ter aanvulling en wijziging van de eerste richtlijn voor de uitvoering van artikel 67 van het EEG-Verdrag, uitstellen.
 
 2. De Spaanse autoriteiten en de Commissie plegen te gelegener tijd overleg over de wijze van toepassing van de maatregelen tot vrijmaking of versoepeling waarvan de tenuitvoerlegging krachtens de hiernavolgende bepalingen kan worden uitgesteld.
 
-#### Artikel 62
+##### Artikel 62
 
 Door het Koninkrijk Spanje kunnen worden uitgesteld:
 
@@ -875,11 +900,11 @@ Door het Koninkrijk Spanje kunnen worden uitgesteld:
 
 - b). tot en met 31 december 1990, de vrijmaking van de directe investeringen, verricht door ingezetenen van Spanje in ondernemingen van de andere Lid-Staten, die de verwerving, het bezit of de exploitatie van onroerend goed tot doel hebben.
 
-#### Artikel 63
+##### Artikel 63
 
 Het Koninkrijk Spanje kan de vrijmaking van investeringen in onroerend goed, verricht door ingezetenen van Spanje in de andere Lid-Staten, tot en met 31 december 1990 uitstellen voor zover deze investeringen geen verband houden met de emigratie in het kader van het vrije verkeer van werknemers of het recht van vestiging.
 
-#### Artikel 64
+##### Artikel 64
 
 Het Koninkrijk Spanje kan de vrijmaking van de verwerving in de andere Lid-Staten door ingezetenen van Spanje van ter beurze verhandelbare buitenlandse effecten uitstellen tot en met 31 december 1988.
 
@@ -893,11 +918,11 @@ De verwerving van:
 
 wordt evenwel onmiddellijk bij de toetreding vrijgemaakt.
 
-#### Artikel 65
+##### Artikel 65
 
 Het Koninkrijk Spanje zal, indien de omstandigheden zulks toelaten, de vrijmaking van het kapitaalverkeer als bedoeld in de artikelen 62, 63 en 64 verwezenlijken vóór het verstrijken van de in die artikelen vermelde termijn.
 
-#### Artikel 66
+##### Artikel 66
 
 Voor de toepassing van de bepalingen van deze afdeling kan de Commissie overgaan tot raadpleging van het Monetair Comité en elk dienstig voorstel bij de Raad indienen.
 
@@ -907,7 +932,7 @@ Voor de toepassing van de bepalingen van deze afdeling kan de Commissie overgaan
 
 #### Algemene bepalingen
 
-#### Artikel 67
+##### Artikel 67
 
 1. Het onderhavige hoofdstuk heeft betrekking op landbouwprodukten met uitzondering van de produkten die vallen onder Verordening (EEG) nr. 3976/81 houdende een gemeenschappelijke ordening der markten in de sector visserijprodukten.
 
@@ -917,7 +942,7 @@ Voor de toepassing van de bepalingen van deze afdeling kan de Commissie overgaan
 
 #### Onderafdeling 1. - Aanpassing en compensatie van prijzen
 
-#### Artikel 68
+##### Artikel 68
 
 Tot aan de eerste van de in artikel 70 bedoelde prijsaanpassingen, worden de prijzen die in Spanje moeten worden toegepast, overeenkomstig de in de gemeenschappelijke marktordening van de betrokken sector neergelegde regels, vastgesteld op een peil dat overeenstemt met het peil van de prijzen die gedurende een voor elk produkt te bepalen representatieve periode in Spanje waren vastgesteld onder het voordien geldende nationale stelsel.
 
@@ -925,13 +950,13 @@ Indien voor een bepaald produkt geen omschrijving van de Spaanse prijs bestaat, 
 
 Bij afwezigheid van gegevens omtrent de prijzen voor bepaalde produkten op de Spaanse markt wordt bij de berekening van de in Spanje toe te passen prijs evenwel uitgegaan van de prijzen in de Gemeenschap in haar huidige samenstelling voor soortgelijke produkten of groepen van produkten, of produkten waarmede zij concurreren.
 
-#### Artikel 69
+##### Artikel 69
 
 1. Indien op de datum van toetreding wordt geconstateerd dat het verschil tussen het prijspeil voor een produkt in Spanje en het peil van de gemeenschappelijke prijs van geringe betekenis is, kan de gemeenschappelijke prijs in Spanje worden toegepast voor het betrokken produkt.
 
 2. Het in lid 1 bedoelde verschil wordt van geringe betekenis geacht wanneer het 3% of minder van de gemeenschappelijke prijs bedraagt.
 
-#### Artikel 70
+##### Artikel 70
 
 1. Indien de toepassing van artikel 68 in Spanje leidt tot een prijspeil dat afwijkt van het peil van de gemeenschappelijke prijzen, worden de prijzen ten aanzien waarvan in afdeling II naar dit artikel wordt verwezen, behoudens lid 4, elk jaar aan het begin van het verkoopseizoen overeenkomstig de leden 2 en 3 aangepast aan de gemeenschappelijke prijzen.
 
@@ -949,11 +974,11 @@ In dat geval geldt voor het volgende verkoopseizoen het prijspeil dat zou zijn v
 
 De in de eerste alinea bedoelde afwijking is niet van toepassing op de laatste aanpassing bedoeld in lid 2.
 
-#### Artikel 71
+##### Artikel 71
 
 Indien op de datum van toetreding of tijdens de toepassingsperiode van de overgangsmaatregelen de prijs op de wereldmarkt voor een bepaald produkt hoger is dan de gemeenschappelijke prijs, kan in Spanje de gemeenschappelijke prijs voor het betrokken produkt worden toegepast, behalve indien de in Spanje toegepaste prijs hoger is dan de gemeenschappelijke prijs.
 
-#### Artikel 72
+##### Artikel 72
 
 De verschillen in het peil van de prijzen waarvoor in afdeling II naar dit artikel wordt verwezen, worden gecompenseerd volgens onderstaande regels:
 
@@ -973,11 +998,11 @@ De verschillen in het peil van de prijzen waarvoor in afdeling II naar dit artik
 
 - 6. De Raad kan, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen, voor zover zulks nodig is voor de goede werking van het gemeenschappelijk landbouwbeleid, afwijken van artikel 51, lid 1, eerste alinea, voor de produkten waarvoor compenserende bedragen van toepassing zijn.
 
-#### Artikel 73
+##### Artikel 73
 
 Indien de prijs op de wereldmarkt voor een bepaald produkt hoger is dan de prijs die wordt aangehouden voor de berekening van de in het kader van het gemeenschappelijk landbouwbeleid ingestelde belasting bij invoer, verminderd met het compenserende bedrag dat wordt afgetrokken van de belasting bij invoer krachtens artikel 72, of wanneer de restitutie bij uitvoer naar derde landen lager is dan het compenserende bedrag of wanneer er geen restitutie van toepassing is, kunnen passende maatregelen worden getroffen om de goede werking van de gemeenschappelijke marktordening te waarborgen.
 
-#### Artikel 74
+##### Artikel 74
 
 1. De toegekende compenserende bedragen worden door de Gemeenschap gefinancierd ten laste van het Europees Oriëntatie- en Garantiefonds voor de Landbouw, afdeling „Garantie”.
 
@@ -989,7 +1014,7 @@ Vanaf de tweede fase worden de uitgaven voor interventies op de Spaanse binnenla
 
 #### Onderafdeling 2. - Vrij verkeer en douane-unie
 
-#### Artikel 75
+##### Artikel 75
 
 Ten aanzien van de produkten uit derde landen waarvan de invoer in de Gemeenschap in haar huidige samenstelling is onderworpen aan de toepassing van douanerechten gelden de volgende bepalingen:
 
@@ -1225,7 +1250,7 @@ Ten aanzien van de produkten uit derde landen waarvan de invoer in de Gemeenscha
 
 - c). gedurende het tijdvak dat strikt noodzakelijk is om een einde te maken aan de ondervonden moeilijkheden, de onder a) en b) bedoelde invoerrechten te verhogen.
 
-#### Artikel 76
+##### Artikel 76
 
 1. In het handelsverkeer tussen Spanje en de andere Lid-Staten en tussen Spanje en derde landen is in Spanje met ingang van 1 maart 1986, behoudens andersluidende bepalingen van dit hoofdstuk voor produkten waarvoor bij de toetreding een gemeenschappelijke marktordening geldt, de regeling van toepassing die in de Gemeenschap in haar huidige samenstelling van toepassing is inzake douanerechten en heffingen van gelijke werking en kwantitatieve beperkingen en maatregelen van gelijke werking.
 
@@ -1237,7 +1262,7 @@ Deze bepaling geldt slechts tot het ogenblik waarop de gemeenschappelijke markto
 
 Voor zover hieruit geen moeilijkheden voortvloeien voor de toepassing van de communautaire regeling, met name voor de werking van de gemeenschappelijke ordening der markten en van de in dit hoofdstuk neergelegde overgangsregelingen, kan de Raad, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen, het Koninkrijk Spanje machtigen in deze nomenclatuur de bestaande nationale onderverdelingen over te nemen die noodzakelijk zijn om te bewerkstelligen dat de geleidelijke aanpassing aan het gemeenschappelijk douanetarief of de afschaffing van rechten binnen de Gemeenschap plaatsvindt overeenkomstig de in deze Akte neergelegde voorwaarden.
 
-#### Artikel 77
+##### Artikel 77
 
 Onverminderd artikel 94, kan het Koninkrijk Spanje, volgens nog te bepalen voorschriften, kwantitatieve beperkingen toepassen bij de invoer uit derde landen:
 
@@ -1285,7 +1310,7 @@ Onverminderd artikel 94, kan het Koninkrijk Spanje, volgens nog te bepalen voors
 
 - c). voor de produkten die zijn onderworpen aan de in artikel 81 bedoelde aanvullende regeling van toepassing bij invoer in Spanje uit de Gemeenschap in haar huidige samenstelling, met uitzondering van de produkten die vallen onder Verordening (EEG) nr. 1035/72.
 
-#### Artikel 78
+##### Artikel 78
 
 1. Het element ter bescherming van de verwerkende industrie dat in aanmerking wordt genomen bij de berekening van de lasten ter zake van invoer uit derde landen voor produkten die vallen onder de gemeenschappelijke ordening der markten in de sector granen en de sector rijst, wordt geheven bij invoer in de Gemeenschap in haar huidige samenstelling uit Spanje.
 
@@ -1297,7 +1322,7 @@ Deze elementen worden geheven bij invoer uit de andere Lid-Staten; zij vervangen
 
 #### Onderafdeling 3. - Steun
 
-#### Artikel 79
+##### Artikel 79
 
 1. Dit artikel is van toepassing op de steun, premies of andere soortgelijke bedragen die in het kader van het gemeenschappelijk landbouwbeleid zijn ingesteld en waarvoor in afdeling II naar dit artikel wordt verwezen.
 
@@ -1315,7 +1340,7 @@ Deze elementen worden geheven bij invoer uit de andere Lid-Staten; zij vervangen
 
 - d). De communautaire steun wordt in Spanje volledig toegepast aan het begin van het zevende verkoopseizoen of tijdvak van toepassing van de steun dat volgt op de toetreding.
 
-#### Artikel 80
+##### Artikel 80
 
 1. Onverminderd artikel 79 is het Koninkrijk Spanje gemachtigd nationale steunmaatregelen waarvan de intrekking ongetwijfeld ernstige gevolgen zou hebben voor het prijspeil, zowel in het stadium van de produktie als van het verbruik, te handhaven. Dergelijke steunmaatregelen mogen echter alleen bij wijze van overgangsmaatregel en in beginsel op degressieve wijze worden gehandhaafd, uiterlijk tot het einde van het tijdvak waarin de overgangsmaatregelen van toepassing zijn.
 
@@ -1325,7 +1350,7 @@ Deze elementen worden geheven bij invoer uit de andere Lid-Staten; zij vervangen
 
 #### Onderafdeling 4. - Aanvullende regeling voor het handelsverkeer
 
-#### Artikel 81
+##### Artikel 81
 
 1. Er wordt een aanvullende regeling ingesteld van toepassing op het handelsverkeer tussen de Gemeenschap in haar huidige samenstelling en Spanje, hierna ARH te noemen.
 
@@ -1423,7 +1448,7 @@ Wat deze produkten betreft, zal inzonderheid rekening worden gehouden met de sit
 
 6. De Commissie legt aan het begin van elk jaar een verslag aan de Raad voor over de werking van de ARH tijdens het voorgaande jaar.
 
-#### Artikel 82
+##### Artikel 82
 
 1. Er wordt een ad hoc Comité ingesteld, bestaande uit vertegenwoordigers van de Lid-Staten en onder het voorzitterschap van een vertegenwoordiger van de Commissie.
 
@@ -1437,7 +1462,7 @@ Wat deze produkten betreft, zal inzonderheid rekening worden gehouden met de sit
 
 Indien de Raad na het verstrijken van een maand, te rekenen vanaf de datum waarop het voorstel bij hem is ingediend, geen maatregelen heeft vastgesteld, stelt de Commissie de voorgestelde maatregelen vast en past deze onmiddellijk toe, behoudens in geval de Raad zich met eenvoudige meerderheid van stemmen tegen deze maatregelen heeft uitgesproken.
 
-#### Artikel 83
+##### Artikel 83
 
 1. Er wordt, in beginsel, aan het begin van elk verkoopseizoen volgens de procedure van artikel 38 van Verordening nr. 136/66/EEG of, naar gelang van het geval, van de overeenkomstige artikelen van de andere verordeningen houdende een gemeenschappelijke ordening der landbouwmarkten, een voorlopige balans opgesteld voor elk van de produkten of groepen van produkten waarvoor de ARH geldt. Voor nieuwe aardappelen (primeurs) wordt de balans opgesteld volgens de procedure van artikel 33 van Verordening (EEG) nr. 1035/72 en is het bij die verordening ingestelde Comité van beheer bevoegd.
 
@@ -1449,7 +1474,7 @@ Voor het tijdvak van 1 maart 1986 tot het begin van het verkoopseizoen 1986/1987
 
 Te dien einde zal vervolgens de procedure van lid 1 een jaarlijks stijgingspercentage van het plafond worden vastgesteld. In het kader van het globale indicatieve plafond kunnen plafonds worden vastgesteld die overeenkomen met de verschillende periodes van het betrokken verkoopseizoen.
 
-#### Artikel 84
+##### Artikel 84
 
 1. Tot en met 31 december 1989 wordt bij de opstelling van het in artikel 83 bedoelde tijdschema een „streefhoeveelheid” vastgesteld voor de invoer in Spanje:
 
@@ -1494,7 +1519,7 @@ Volgens de procedure van artikel 30 van Verordening (EEG) nr. 804/68 houdende ee
 
 Bij het nemen van een dergelijk besluit wordt inzonderheid rekening gehouden, in het licht van de voorlopige balans van het betrokken produkt, met de ontwikkeling van de vraag op de Spaanse markt en met de ontwikkeling van de marktprijzen in Spanje.
 
-#### Artikel 85
+##### Artikel 85
 
 1. Onverminderd artikel 84, lid 4, besluit de Commissie, indien uit het onderzoek naar de ontwikkeling van het intracommunautair handelsverkeer blijkt dat de daadwerkelijke of de te verwachte invoer wezenlijk toeneemt en indien deze situatie ertoe leidt dat het indicatieve invoerplafond van het produkt voor het lopende verkoopseizoen of een gedeelte daarvan wordt bereikt of overschreden, op verzoek van een Lid-Staat of op eigen initiatief, volgens een urgentieprocedure:
 
@@ -1522,11 +1547,11 @@ De onder b) bedoelde beperkende maatregelen mogen alleen genomen worden voor zov
 
 #### Onderafdeling 5. - Andere bepalingen
 
-#### Artikel 86
+##### Artikel 86
 
 Alle voorraden produkten die zich op 1 maart 1986 op het grondgebied van Spanje in het vrije verkeer bevinden en die de normaal geachte overdrachtshoeveelheid overschrijden, moeten door het Koninkrijk Spanje te zijnen laste worden afgebouwd in het kader van nader te omschrijven communautaire procedures en binnen termijnen die moeten worden bepaald overeenkomstig artikel 91. Het begrip „normale overdrachtshoeveelheid” wordt voor elk produkt omschreven aan de hand van de criteria en doelstellingen van elke gemeenschappelijke marktordening.
 
-#### Artikel 87
+##### Artikel 87
 
 Bij het vaststellen van het peil van de verschillende bedragen waarin in het kader van het gemeenschappelijk landbouwbeleid is voorzien, andere dan de prijzen bedoeld in artikel 68, wordt rekening gehouden met het toegepaste compenserende bedrag, of, bij gebreke daarvan, met het geconstateerde of economisch gerechtvaardigde prijsverschil en, in voorkomend geval, met de invloed van het douanerecht, behalve:
 
@@ -1534,13 +1559,13 @@ Bij het vaststellen van het peil van de verschillende bedragen waarin in het kad
 
 - -. indien het voor de goede werking van het gemeenschappelijk landbouwbeleid noodzakelijk of wenselijk is dat dit bedrag, dit verschil of deze invloed niet in aanmerking wordt genomen.
 
-#### Artikel 88
+##### Artikel 88
 
 1. De Raad stelt, onder de voorwaarden bedoeld in artikel 91, de regeling vast die het Koninkrijk Spanje ten opzichte van de Portugese Republiek toepast.
 
 2. De maatregelen die in het handelsverkeer tussen de nieuwe Lid-Staten en de Gemeenschap in haar huidige samenstelling nodig zijn geworden voor de tenuitvoerlegging van de in lid 1 bedoelde regeling, worden, naar gelang van het geval, vastgesteld overeenkomstig artikel 91 of volgens de procedure van artikel 89, lid 1.
 
-#### Artikel 89
+##### Artikel 89
 
 1. Behoudens andersluidende bepalingen voor specifieke gevallen, stelt de Raad, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen de bepalingen vast die nodig zijn ter uitvoering van dit hoofdstuk.
 
@@ -1548,13 +1573,13 @@ Deze bepalingen kunnen inzonderheid passende maatregelen omvatten om verlegginge
 
 2. De Raad kan, op voorstel van de Commissie en na raadpleging van het Europese Parlement, met eenparigheid van stemmen overgaan tot de aanpassingen van de in dit hoofdstuk neergelegde regels die noodzakelijk kunnen blijken in geval van wijziging van de communautaire regeling.
 
-#### Artikel 90
+##### Artikel 90
 
 1. Indien overgangsmaatregelen noodzakelijk zijn om de overgang van het in Spanje geldende stelsel naar het stelsel dat voortvloeit uit de toepassing van de gemeenschappelijke ordening der markten overeenkomstig het bepaalde in dit hoofdstuk te vergemakkelijken, met name wanneer de toepassing van het nieuwe stelsel op de vastgestelde datum voor bepaalde produkten op aanzienlijk moeilijkheden in de Gemeenschap stuit, worden die maatregelen vastgesteld volgens de procedure van artikel 38 van Verordening (EEG) nr. 136/66/EEG, of naargelang van het geval, van het overeenkomstige artikel van de andere verordeningen houdende een gemeenschappelijke ordening van de landbouwmarkten. Deze maatregelen kunnen worden genomen gedurende een tijdvak dat op 31 december 1987 afloopt; zij kunnen slechts tot deze datum worden toegepast.
 
 2. Op voorstel van de Commissie en na raadpleging van het Europese Parlement, kan de Raad de in lid 1 bedoelde periode met eenparigheid van stemmen verlengen.
 
-#### Artikel 91
+##### Artikel 91
 
 1. De overgangsmaatregelen betreffende de toepassing van de besluiten inzake het gemeenschappelijk landbouwbeleid, met inbegrip van het structuurbeleid, die noodzakelijk zijn geworden door de toetreding, worden vóór de toetreding vastgesteld volgens de procedure van lid 3 en treden ten vroegste op de datum van toetreding in werking.
 
@@ -1566,7 +1591,7 @@ Deze bepalingen kunnen inzonderheid passende maatregelen omvatten om verlegginge
 
 #### Onderafdeling 1. - Oliën en vetten
 
-#### Artikel 92
+##### Artikel 92
 
 1. Voor olijfolie zijn de artikelen 68 en 72 van toepassing op de interventieprijs.
 
@@ -1580,7 +1605,7 @@ Deze bepalingen kunnen inzonderheid passende maatregelen omvatten om verlegginge
 
 4. Het compenserende bedrag dat voortvloeit uit de toepassing van artikel 72 wordt, in voorkomend geval, aangepast aan de hand van het verschil tussen de communautaire steunbedragen voor de consumptie die in de Gemeenschap in haar huidige samenstelling en in Spanje van toepassing zijn.
 
-#### Artikel 93
+##### Artikel 93
 
 1. Voor oliehoudende zaden is artikel 68 van toepassing op de richtprijzen van koolzaad, raapzaad en zonnebloemzaad en op de streefprijs van sojabonen.
 
@@ -1592,7 +1617,7 @@ Voor lijnzaad wordt de streefprijs die op 1 maart 1986 in Spanje van toepassing 
 
 4. Tot en met 31 december 1990 worden in het handelsverkeer van produkten die zijn verwerkt op basis van oliën die vallen onder Verordening nr. 136/66/EEG, met uitzondering van produkten op basis van olijfolie, en met uitzondering van produkten die vallen onder post 15.13 van het gemeenschappelijk douanetarief, passende maatregelen vastgesteld om rekening te houden met het verschil tussen de prijzen voor deze oliën in Spanje en in de Gemeenschap in haar huidige samenstelling.
 
-#### Artikel 94
+##### Artikel 94
 
 1. Het Koninkrijk Spanje past tot en met 31 december 1990 en volgens nader te bepalen regels een controleregeling toe:
 
@@ -1612,7 +1637,7 @@ De onder a) bedoelde controleregeling omvat de vervanging op 1 maart 1986 van de
 
 Deze wijzigingen worden vastgesteld volgens de procedure van artikel 38 van Verordening nr. 136/66/EEG.
 
-#### Artikel 95
+##### Artikel 95
 
 1. De communautaire steun voor de produktie van olijfolie is in Spanje van toepassing met ingang van 1 maart 1986. Deze steun wordt voor de eerste maal vastgesteld en gedurende de periode waarin de overgangsmaatregelen van toepassing zijn aangepast aan het peil van de steun die wordt toegekend in de Gemeenschap in haar huidige samenstelling, met toepassing mutatis mutandis van artikel 79.
 
@@ -1632,7 +1657,7 @@ Bij het verstrijken van de in de vorige alinea bedoelde periode is de in Spanje 
 
 4. Voorts wordt bij de berekening van de steun voor koolzaad, raapzaad en zonnebloemzaad rekening gehouden met het differentiële bedrag dat in voorkomend geval van toepassing is.
 
-#### Artikel 96
+##### Artikel 96
 
 Gedurende de verkoopseizoenen 1986/1987 tot en met 1994/1995 worden voor in Spanje geproduceerd kool-, raap- en zonnebloemzaad specifieke garantiedrempels vastgesteld.
 
@@ -1640,7 +1665,7 @@ Deze specifieke garantiedrempels worden vastgesteld aan de hand van criteria die
 
 Indien een specifieke garantiedrempel wordt overschreden, worden medeverantwoordelijkheidsboetes toegepast volgens soortgelijke regels als die welke in de Gemeenschap in haar huidige samenstelling worden toegepast en met hetzelfde plafond.
 
-#### Artikel 97
+##### Artikel 97
 
 1. Tot het tijdstip waarop de in artikel 94 bedoelde controleregeling verstrijkt, stelt het Koninkrijk Spanje de toepassing van de conventionele of autonome preferentiële regelingen die de Gemeenschap ten aanzien van derde landen toepast in de sector olijfolie, oliehoudende zaden en vruchten en daarvan afgeleide produkten, uit.
 
@@ -1660,7 +1685,7 @@ Het Koninkrijk Spanje past de preferentiële rechten volledig toe met ingang van
 
 #### Onderafdeling 2. - Melk en zuivelprodukten
 
-#### Artikel 98
+##### Artikel 98
 
 1. Tot aan de eerste prijsaanpassing worden de interventieprijzen voor boter en magere-melkpoeder welke in Spanje moeten worden toegepast, vastgesteld op een peil dat overeenkomt met het prijspeil dat in deze Lid-Staat gedurende een nader te bepalen representatieve periode is geconstateerd onder het voordien geldende nationale stelsel.
 
@@ -1672,7 +1697,7 @@ Het compenserende bedrag voor magere melk en magere-melkpoeder bestemd voor de d
 
 2. Het compenserende bedrag voor andere zuivelprodukten dan boter en magere-melkpoeder wordt vastgesteld met behulp van nader te bepalen coëfficiënten.
 
-#### Artikel 99
+##### Artikel 99
 
 1. Onder voorbehoud van de tweede alinea, mag het Koninkrijk Spanje tot en met 31 december 1986 nationale exclusieve concessies handhaven ten gunste van melkcentrales voor wat betreft de afzet van in Spanje geproduceerde gepasteuriseerde verse melk.
 
@@ -1682,21 +1707,21 @@ Deze exclusieve concessies mogen geen belemmering vormen voor het vrije handelsv
 
 #### Onderafdeling 3. - Rundvlees
 
-#### Artikel 100
+##### Artikel 100
 
 Artikel 68 is van toepassing op de gegarandeerde prijs in Spanje en op de interventieaankoopprijs in de Gemeenschap in haar huidige samenstelling welke gelden voor vergelijkbare kwaliteiten die zijn vastgesteld aan de hand van het communautaire indelingsschema voor geslachte volwassen runderen. De artikelen 70 en 72 zijn van toepassing op de in Spanje geldende interventieaankoopprijs.
 
-#### Artikel 101
+##### Artikel 101
 
 Het compenserende bedrag voor de andere in artikel 1 in lid 1, onder a), van Verordening (EEG) nr. 805/68 bedoelde produkten wordt vastgesteld met behulp van nader te bepalen coëfficiënten.
 
-#### Artikel 102
+##### Artikel 102
 
 Artikel 79 is van toepassing op de premie voor het aanhouden van het zoogdierenbestand.
 
 #### Onderafdeling 4. - Tabak
 
-#### Artikel 103
+##### Artikel 103
 
 1. Artikel 68 en, in voorkomend geval, artikel 70 zijn van toepassing op de interventieprijs die voor elke soort of groep soorten is vastgesteld.
 
@@ -1704,49 +1729,49 @@ Artikel 79 is van toepassing op de premie voor het aanhouden van het zoogdierenb
 
 #### Onderafdeling 5. - Vlas en hennep
 
-#### Artikel 104
+##### Artikel 104
 
 Artikel 79 is van toepassing op de steun voor vezelvlas en hennep.
 
 #### Onderafdeling 6. - Hop
 
-#### Artikel 105
+##### Artikel 105
 
 De in artikel 12 van Verordening (EEG) nr. 1696/71 bedoelde steun voor hopproducenten wordt met ingang van de eerste oogst volgend op de toetreding volledig toegepast in Spanje.
 
 #### Onderafdeling 7. - Zaaigoed
 
-#### Artikel 106
+##### Artikel 106
 
 Artikel 79 is van toepassing op de steun voor het in artikel 3 van Verordening (EEG) nr. 2358/71 bedoelde zaaigoed.
 
 #### Onderafdeling 8. - Zijderupsen
 
-#### Artikel 107
+##### Artikel 107
 
 Artikel 79 is van toepassing op de steun voor zijderupsen.
 
 #### Onderafdeling 9. - Suiker en isoglucose
 
-#### Artikel 108
+##### Artikel 108
 
 De artikelen 68, 70 en 72 zijn van toepassing op de interventieprijs voor witte suiker en de basisprijs voor suikerbieten.
 
 Het compenserende bedrag wordt evenwel, voor zover zulks nodig is voor de goede werking van de gemeenschappelijke marktordening, gecorrigeerd ten belope van de invloed van de bijdrage voor de verevening van de opslagkosten.
 
-#### Artikel 109
+##### Artikel 109
 
 Voor ruwe suiker en voor andere produkten dan verse suikerbieten, genoemd in artikel 1, lid 1, onder b), alsmede voor de produkten genoemd in artikel 1, lid 1, onder d) en f), van Verordening (EEG) nr. 1785/81 houdende een gemeenschappelijke ordening der markten in de sector suiker, kunnen compenserende bedragen worden vastgesteld voor zover zulks noodzakelijk is ter voorkoming van gevaar voor verstoring van het handelsverkeer tussen de Gemeenschap in haar huidige samenstelling en Spanje.
 
 In dat geval worden de compenserende bedragen afgeleid van het compenserende bedrag dat van toepassing is op het betrokken basisprodukt, met behulp van nader te bepalen coëfficiënten.
 
-#### Artikel 110
+##### Artikel 110
 
 Uiterlijk tot en met 31 december 1995 mag het Koninkrijk Spanje een nationale aanpassingssteun toekennen aan producenten van A- en B-bieten als omschreven in Verordening (EEG) nr. 1785/81. Het bedrag van deze steun mag niet meer bedragen dan 23,64 % van de basisprijs voor suikerbieten die door de Gemeenschap voor het betrokken verkoopseizoen is vastgesteld.
 
 #### Onderafdeling 10. - Granen
 
-#### Artikel 111
+##### Artikel 111
 
 1. In de sector granen zijn de artikelen 68, 70 en 72 van toepassing op de interventieprijzen.
 
@@ -1754,7 +1779,7 @@ Uiterlijk tot en met 31 december 1995 mag het Koninkrijk Spanje een nationale aa
 
 3. Voor de in artikel 1, onder c) en d), van Verordening (EEG) nr. 2727/75 houdende een gemeenschappelijke ordening der markten in de sector granen bedoelde produkten wordt het compenserende bedrag afgeleid van het compenserende bedrag dat van toepassing is op de graansoorten waarvan deze produkten zijn gemaakt, met behulp van nader te bepalen coëfficiënten.
 
-#### Artikel 112
+##### Artikel 112
 
 Het specifieke minimumgewicht van gerst dat in Spanje ter interventie kan worden aanvaard, wordt respectievelijk vastgesteld:
 
@@ -1772,13 +1797,13 @@ De korting die wordt toegepast op de in Spanje geldende interventieprijs van ger
 
 - -. 2% voor het verkoopseizoen 1988/1989.
 
-#### Artikel 113
+##### Artikel 113
 
 Artikel 79 is van toepassing op de in artikel 10 van Verordening (EEG) nr. 2727/75 bedoelde steun voor durum tarwe.
 
 #### Onderafdeling 11. - Varkensvlees
 
-#### Artikel 114
+##### Artikel 114
 
 1. Het compenserende bedrag dat van toepassing is per kilogram geslachte varkens wordt berekend op basis van de compenserende bedragen die van toepassing zijn op de hoeveelheid voedergranen die nodig is om in de Gemeenschap een kilogram varkensvlees te produceren. Gedurende de eerste vier verkoopseizoenen volgend op de toetreding wordt dit bedrag evenwel niet toegepast.
 
@@ -1788,7 +1813,7 @@ Artikel 79 is van toepassing op de in artikel 10 van Verordening (EEG) nr. 2727/
 
 #### Onderafdeling 12. - Eieren
 
-#### Artikel 115
+##### Artikel 115
 
 1. Het compenserende bedrag dat van toepassing is per kilogram eieren in de schaal wordt berekend op basis van de compenserende bedragen die van toepassing zijn op de hoeveelheid voedergranen die nodig is om in de Gemeenschap een kilogram eieren in de schaal te produceren.
 
@@ -1798,7 +1823,7 @@ Artikel 79 is van toepassing op de in artikel 10 van Verordening (EEG) nr. 2727/
 
 #### Onderafdeling 13. - Slachtpluimvee
 
-#### Artikel 116
+##### Artikel 116
 
 1. Het compenserende bedrag dat van toepassing is per kilogram geslacht pluimvee wordt berekend op basis van de compenserende bedragen die van toepassing zijn op de hoeveelheid voedergranen die nodig is om in de Gemeenschap, al naar gelang van de soort, een kilogram geslacht pluimvee te produceren.
 
@@ -1808,7 +1833,7 @@ Artikel 79 is van toepassing op de in artikel 10 van Verordening (EEG) nr. 2727/
 
 #### Onderafdeling 14. - Rijst
 
-#### Artikel 117
+##### Artikel 117
 
 1. In de sector rijst zijn de artikelen 68, 70 en 72 van toepassing op de interventieprijs voor padie.
 
@@ -1824,7 +1849,7 @@ Artikel 79 is van toepassing op de in artikel 10 van Verordening (EEG) nr. 2727/
 
 #### Onderafdeling 15. - Verwerkte groenten en fruit
 
-#### Artikel 118
+##### Artikel 118
 
 Voor de produkten die in aanmerking komen voor de steunregeling bedoeld in artikel 3 van Verordening (EEG) nr. 516/77 houdende een gemeenschappelijke ordening der markten in de sector van op basis van groenten en fruit verwerkte produkten zijn in Spanje de volgende bepalingen van toepassing:
 
@@ -1860,7 +1885,7 @@ Voor de produkten die in aanmerking komen voor de steunregeling bedoeld in artik
 
 - 7. Voor de toepassing van het onderhavige artikel verwijzen de minimumprijs, de verwerkingskosten en de steun die in de Gemeenschap in haar huidige samenstelling gelden, naar de bedragen die gelden in de Gemeenschap in haar huidige samenstelling, met uitzondering van Griekenland.
 
-#### Artikel 119
+##### Artikel 119
 
 De in Spanje toepasselijke minimumprijs en financiële compensatie bedoeld in de artikelen 2 en 3 van Verordening (EEG) nr. 2601/69 betreffende bijzondere maatregelen ten einde het verwerken van bepaalde variëteiten sinaasappelen te stimuleren en in de artikelen 1 en 2 van Verordening (EEG) nr. 1035/77 houdende bijzondere maatregelen voor de verbetering van de afzet van op basis van citroenen verwerkte produkten worden als volgt vastgesteld:
 
@@ -1880,7 +1905,7 @@ De in Spanje toepasselijke minimumprijs en financiële compensatie bedoeld in de
 
 #### Onderafdeling 16. - Gedroogde voedergewassen
 
-#### Artikel 120
+##### Artikel 120
 
 1. De streefprijs bedoeld in artikel 4 van Verordening (EEG) nr. 1117/78 houdende een gemeenschappelijke ordening der markten in de sector gedroogde voedergewassen die in Spanje op 1 maart 1986 van toepassing is, wordt vastgesteld op de grondslag van de verschillen tussen de prijzen van de produkten die bij wisselbouw concurreren in Spanje en in de Gemeenschap in haar huidige samenstelling gedurende een nader te bepalen referentieperiode.
 
@@ -1896,7 +1921,7 @@ Artikel 70 is van toepassing op de overeenkomstig de eerste alinea berekende str
 
 #### Onderafdeling 17. - Erwten, tuin- en veldbonen en niet-bittere lupine
 
-#### Artikel 121
+##### Artikel 121
 
 1. Voor erwten, tuin- en veldbonen en niet-bittere lupine die worden gebruikt voor de vervaardiging van diervoeders, zijn de artikelen 68 en 70 van toepassing op de steundrempelprijs. Voor andere erwten, tuinen veldbonen wordt de op 1 maart 1986 in Spanje toepasselijke streefprijs vastgesteld aan de hand van het verschil tussen de prijzen van de produkten die bij wisselbouw concurreren in Spanje en in de Gemeenschap in haar huidige samenstelling tijdens een nader te bepalen referentieperiode.
 
@@ -1914,7 +1939,7 @@ Onverminderd de toepassing van de eerste alinea, wordt het bedrag van de betrokk
 
 #### Onderafdeling 18. - Wijn
 
-#### Artikel 122
+##### Artikel 122
 
 1. Tot aan de eerste van de in de artikel 70 bedoelde prijsaanpassingen:
 
@@ -1938,7 +1963,7 @@ Onverminderd de toepassing van de eerste alinea, wordt het bedrag van de betrokk
 
 - -. wordt, onverminderd artikel 41, lid 6, eerste streepje, van Verordening (EEG) nr. 337/79, wat betreft de verhouding tussen de oriëntatieprijs en de in lid 1, derde streepje, bedoelde prijs, het prijspeil dat overeenstemt met het in artikel 41, lid 6, tweede streepje, van Verordening (EEG) nr. 337/79 bedoelde percentage van 40, bereikt volgens het ritme bedoeld in het eerste streepje van het onderhavige lid.
 
-#### Artikel 123
+##### Artikel 123
 
 1. Er wordt bij invoer in de Gemeenschap in haar huidige samenstelling van de in lid 2 bedoelde produkten van herkomst uit Spanje waarvoor in het kader van de gemeenschappelijke marktordening een referentieprijs wordt vastgesteld, een mechanisme van compenserende bedragen ingesteld.
 
@@ -1956,11 +1981,11 @@ Dit bedrag wordt op een zodanig peil vastgesteld dat een normale ontwikkeling va
 
 5. Het toegekende regulerende bedrag wordt door de Gemeenschap gefinancierd ten laste van het Europees Oriëntatie- en Garantiefonds voor de Landbouw, afdeling „Garantie”.
 
-#### Artikel 124
+##### Artikel 124
 
 Met het oog op de toepassing tot het einde van het wijnoogstjaar 1989/1990 van de in artikel 41 van Verordening (EEG) nr. 337/79 bedoelde verplichte distillatie, wordt het totaal van de gemiddelde produkties van tafelwijn en produkten voorafgaande aan tafelwijn bestemd voor de verplichte distillatie, die tijdens de drie achtereenvolgende referentiewijnoogstjaren in de verschillende produktiegebieden in Spanje zijn verkregen, vastgesteld op 27,5 miljoen hectoliter.
 
-#### Artikel 125
+##### Artikel 125
 
 1. Gedurende het tijdvak van 1 maart 1986 tot en met 31 december 1989 wordt het versnijden van een wijn die geschikt is voor de vervaardiging van witte tafelwijn of van een witte wijn met een wijn die geschikt is voor de vervaardiging van rode tafelwijn of met een rode tafelwijn op Spaanse grondgebied toegestaan. Het aldus verkregen produkt mag alleen op Spaans grondgebied in het verkeer zijn.
 
@@ -1968,7 +1993,7 @@ Met het oog op de toepassing tot het einde van het wijnoogstjaar 1989/1990 van d
 
 Gedurende dit tijdvak kunnen de hierboven bedoelde Spaanse wijnen alleen in het handelsverkeer met de andere Lid-Staten worden gebracht op voorwaarde dat zij worden onderworpen aan bepalingen die het mogelijk maken de oorsprong ervan te bepalen en de commerciële bewegingen ervan te volgen.
 
-#### Artikel 126
+##### Artikel 126
 
 1. Tot het einde van het jaar 1995 mag tafelwijn afkomstig van arealen die op 1 januari 1985 waren beplant in de gebieden Asturias, Cantabria, Galicia, Guipùzcoa en Viscaya, en waarvan de lijst moet worden vastgesteld onder de voorwaarden bedoeld in artikel 91, een effectief alcoholgehalte hebben van ten minste 7% vol.
 
@@ -1976,27 +2001,27 @@ Voor wijn waarvan het effectieve alcoholgehalte lager is dan 9% vol, moet dit ge
 
 2. De in lid 1 bedoelde tafelwijn mag alleen op Spaans grondgebied in het verkeer zijn.
 
-#### Artikel 127
+##### Artikel 127
 
 Tot en met 31 december 1990 mag in Spanje vervaardigde tafelwijn die op de markt van deze Lid-Staat ter consumptie wordt aangeboden, een totaal zuurgehalte, uitgedrukt in wijnsteenzuur, hebben van ten minste 3,5 g/l.
 
-#### Artikel 128
+##### Artikel 128
 
 Tot het einde van het wijnoogstjaar 1992/1993 wordt het in Spanje toepasselijke bedrag van de steun voor geconcentreerde druivemost en gerectificeerde geconcentreerde druivemost, bedoeld in artikel 14 van Verordening (EEG) nr. 337/79, vastgesteld met inachtneming van het verschil tussen de kosten in deze Lid-Staat van de door bedoelde produkten verkregen verrijking en de verrijking verkregen door saccharose.
 
-#### Artikel 129
+##### Artikel 129
 
 Tot en met 31 december 1995 is het gebruik van de samengestelde benamingen „British Sherry”, „Irish Sherry” en „Cyprus Sherry” op het grondgebied van het Verenigd Koninkrijk en van Ierland toegestaan. In de loop van 1995 heroverweegt de Raad deze maatregel en stelt hij volgens de procedure van artikel 43 van het EEG-Verdrag, op voorstel van de Commissie, wijzigingen van deze maatregel vast met inachtneming van de belangen van alle betrokken partijen.
 
 #### Onderafdeling 19. - Schape- en geitevlees
 
-#### Artikel 130
+##### Artikel 130
 
 In de sector schapevlees is artikel 68 van toepassing op de basisprijs.
 
 ### Afdeling III. Groenten en fruit
 
-#### Artikel 131
+##### Artikel 131
 
 Voor groenten en fruit vallende onder Verordening (EEG) nr. 1035/72 geldt een specifieke overgang in twee fasen:
 
@@ -2010,7 +2035,7 @@ De overgang van de eerste naar de tweede fase verloopt automatisch.
 
 #### A). Interne Spaanse markt
 
-#### Artikel 132
+##### Artikel 132
 
 1. Gedurende de eerste fase mag het Koninkrijk Spanje voor de in artikel 131 bedoelde produkten, onder de voorwaarden neergelegd in de artikelen 133 tot en met 135, de regeling handhaven die onder de voordien geldende nationale regeling gold voor de ordening van zijn interne landbouwmarkt.
 
@@ -2018,7 +2043,7 @@ De overgang van de eerste naar de tweede fase verloopt automatisch.
 
 Voorts wordt de toepassing ten aanzien van de Gemeenschap in haar huidige samenstelling en Spanje van de wijzigingen die krachtens artikel 396 worden aangebracht in de communautaire regeling, uitgesteld tot het einde van de eerste fase.
 
-#### Artikel 133
+##### Artikel 133
 
 1. Ten einde de Spaanse sector van groenten en fruit in staat te stellen aan het einde van de eerste fase harmonisch en volledig te integreren in het gemeenschappelijk landbouwbeleid, past het Koninkrijk Spanje de ordening van zijn interne markt geleidelijk aan aan de hand van de in lid 2 omschreven algemene doelstellingen.
 
@@ -2044,7 +2069,7 @@ Het percentage van deze communautaire financiële deelneming wordt evenwel voor 
 
 De Commissie stelt voor elk verkoopseizoen het in de vorige alinea bedoeld percentage vast; daartoe verricht zij controles ter plaatse in samenwerking met de Spaanse autoriteiten.
 
-#### Artikel 134
+##### Artikel 134
 
 1. Met het oog op de verwezenlijking van de algemene doelstellingen werkt de Commissie gedurende de interimperiode in nauwe samenwerking met de Spaanse autoriteiten een actieprogramma uit.
 
@@ -2064,7 +2089,7 @@ De Commissie stelt voor elk verkoopseizoen het in de vorige alinea bedoeld perce
 
 4. Met inachtneming inzonderheid van de beraadslagingen van de Raad over de in lid 3 bedoelde verslagen, kan de Commissie zo nodig aanbevelingen tot het Koninkrijk Spanje richten met betrekking tot de acties die moeten worden ondernomen met het oog op de verwezenlijking van de betrokken doelstellingen.
 
-#### Artikel 135
+##### Artikel 135
 
 Gedurende de eerste fase past het Koninkrijk Spanje de volgende disciplines toe:
 
@@ -2086,7 +2111,7 @@ Gedurende de eerste fase past het Koninkrijk Spanje de volgende disciplines toe:
 
 #### B). Regeling die van toepassing is in het handelsverkeer tussen de Gemeenschap in haar huidige samenstelling en Spanje
 
-#### Artikel 136
+##### Artikel 136
 
 1. Behoudens artikel 75 en de artikelen 137 tot en met 139, mag het Koninkrijk Spanje in zijn handelsverkeer met de Gemeenschap in haar huidige samenstelling gedurende de eerste fase voor de in artikel 131 bedoelde produkten de regeling handhaven die voor de toetreding zowel bij invoer als bij uitvoer gold voor dit handelsverkeer.
 
@@ -2094,7 +2119,7 @@ Gedurende de eerste fase past het Koninkrijk Spanje de volgende disciplines toe:
 
 3. Gedurende de eerste fase past de Gemeenschap in haar huidige samenstelling, behoudens artikel 141, op de uitvoer van de in artikel 131 bedoelde produkten naar Spanje de regeling toe die zij toepast op de uitvoer naar derde landen.
 
-#### Artikel 137
+##### Artikel 137
 
 1. Onder voorbehoud van lid 2, schaft het Koninkrijk Spanje met ingang van 1 maart 1986 de toepassing af van alle kwantitatieve beperkingen en alle maatregelen van gelijke werking alsmede van alle heffingen van gelijke werking als een douanerecht bij invoer van de in artikel 131 bedoelde produkten uit de Gemeenschap in haar oorspronkelijke samenstelling.
 
@@ -2144,7 +2169,7 @@ Gedurende de eerste fase past het Koninkrijk Spanje de volgende disciplines toe:
 | 08.07 | Steenfruit, vers: ex A. Abrikozen: - van 1 mei tot en met 31 juli | 25% |
 |   | ex B. Perziken, nectarines daaronder begrepen: - Perziken, van 15 juni tot en met 15 september | 25% |
 
-#### Artikel 138
+##### Artikel 138
 
 Gedurende de eerste fase kent het Koninkrijk Spanje voor de in artikel 131 bedoelde produkten die worden uitgevoerd naar de huidige Lid-Staten, in beginsel geen steun of uitvoersubsidie toe.
 
@@ -2152,13 +2177,13 @@ Indien de toekenning van deze steun of subsidies wenselijk blijkt, is het bedrag
 
 De vaststelling van deze steun of subsidies mag pas plaatsvinden nadat de raadplegingsprocedure van artikel 142 is afgewikkeld.
 
-#### Artikel 139
+##### Artikel 139
 
 1. Het Koninkrijk Spanje schaft met ingang van 1 maart 1986 de toepassing af van alle kwantitatieve beperkingen of maatregelen van gelijke werking bij uitvoer van de in artikel 131 bedoelde produkten naar de Gemeenschap in haar huidige samenstelling.
 
 2. Tijdens de eerste fase mag het Koninkrijk Spanje evenwel het sectoriële commerciële instrumentarium handhaven dat het op de uitvoer toepast, met dien verstande dat het dat instrumentarium tijdens deze fase wijzigt om ervoor te zorgen dat het aan het einde van deze fase verenigbaar is met de eisen van het vrije verkeer.
 
-#### Artikel 140
+##### Artikel 140
 
 1. In afwijking van artikel 136, lid 2, worden eventuele compenserende heffingen bij invoer van produkten uit Spanje, die voortvloeien uit de toepassing van Verordening (EEG) nr. 1035/72, evenwel verlaagd met:
 
@@ -2174,7 +2199,7 @@ volgend op de datum van toetreding.
 
 2. In het handelsverkeer tussen de Gemeenschap in haar huidige samenstelling en derde landen wordt tijdens de eerste fase voor de berekening van de referentieprijzen geen rekening gehouden met de prijzen van Spaanse produkten.
 
-#### Artikel 141
+##### Artikel 141
 
 1. Gedurende de eerste fase past de Gemeenschap in haar huidige samenstelling in beginsel op de uitvoer van de in artikel 131 bedoelde produkten naar Spanje geen uitvoerrestituties toe.
 
@@ -2184,7 +2209,7 @@ De vaststelling van deze restituties kan pas plaatsvinden nadat de raadplegingsp
 
 2. De in dit artikel bedoelde restituties worden door de Gemeenschap gefinancierd ten laste van het Europees Oriëntatie- en Garantiefonds voor de landbouw, afdeling „Garantie”.
 
-#### Artikel 142
+##### Artikel 142
 
 Het Koninkrijk Spanje kan de in artikel 138 bedoelde steun of subsidies en de Gemeenschap kan de in artikel 141 bedoelde restituties pas toepassen indien vooraf overleg is gevoerd volgens de volgende procedure:
 
@@ -2200,21 +2225,21 @@ Het Koninkrijk Spanje kan de in artikel 138 bedoelde steun of subsidies en de Ge
 
 #### C). Regeling van toepassing in het handelsverkeer tussen Spanje en derde landen
 
-#### Artikel 143
+##### Artikel 143
 
 Voor de in artikel 131 bedoelde produkten en onder voorbehoud van artikel 137, past het Koninkrijk Spanje met ingang van 1 maart 1986 de communautaire voorschriften toe betreffende de regeling die van toepassing is bij invoer in de Gemeenschap van uit derde landen ingevoerde produkten.
 
 Wat de referentieprijs betreft, past het Koninkrijk Spanje bij invoer uit derde landen evenwel de regeling toe die door de Gemeenschap in haar huidige samenstelling wordt toegepast krachtens artikel 140, lid 2.
 
-#### Artikel 144
+##### Artikel 144
 
 Tot en met 31 december 1989 mag het Koninkrijk Spanje, overeenkomstig volgens de procedure van artikel 91 te bepalen regels, kwantitatieve beperkingen handhaven bij invoer uit derde landen voor in artikel 137, lid 2, bedoelde produkten.
 
-#### Artikel 145
+##### Artikel 145
 
 Het Koninkrijk Spanje mag voor de in artikel 131 bedoelde produkten de geleidelijke toepassing bij invoer van door de Gemeenschap aan bepaalde derde landen toegekende autonome of conventionele preferenties uitstellen tot het begin van de tweede fase.
 
-#### Artikel 146
+##### Artikel 146
 
 1. Voor de in artikel 131 bedoelde produkten en onder voorbehoud van lid 2, mag het Koninkrijk Spanje gedurende de eerste fase bij uitvoer naar derde landen de vóór de toetreding voor dit handelsverkeer geldende regeling handhaven.
 
@@ -2224,11 +2249,11 @@ Deze steun of subsidies mogen pas worden toegepast nadat de procedure van artike
 
 #### Onderafdeling 2. - De tweede fase
 
-#### Artikel 147
+##### Artikel 147
 
 Met ingang van de tweede fase zijn de communautaire voorschriften betreffende de in artikel 131 bedoelde produkten in Spanje volledig van toepassing onder voorbehoud van de artikelen 75, 81, 82, 83 en 85 en van de artikelen 148 tot en met 153.
 
-#### Artikel 148
+##### Artikel 148
 
 1. Tot aan de eerste aanpassing van de in artikel 149 bedoelde prijzen wordende in Spanje met ingang van 1 januari 1990 toe te passen prijzen, onverminderd artikel 136, punt 1, onder e), volgens de regels van de betrokken gemeenschappelijke marktordening vastgesteld op het peil van de prijzen die aan het einde van de eerste fase in Spanje waren vastgesteld.
 
@@ -2236,23 +2261,23 @@ Met ingang van de tweede fase zijn de communautaire voorschriften betreffende de
 
 Het prijsverschil wordt van geringe betekenis geacht wanneer het niet meer dan 3% van de gemeenschappelijke prijs bedraagt.
 
-#### Artikel 149
+##### Artikel 149
 
 Indien de toepassing van artikel 148, lid 1, in Spanje leidt tot een prijspeil dat afwijkt van het peil van de gemeenschappelijke prijzen, worden de in Spanje geldende prijzen met ingang van het begin van het verkoopseizoen 1990/1991 in zes etappes aan de gemeenschappelijke prijzen aangepast, met toepassing mutatis mutandis van artikel 70.
 
 De gemeenschappelijke prijzen worden in Spanje toegepast op het tijdstip van de zesde aanpassing.
 
-#### Artikel 150
+##### Artikel 150
 
 Artikel 76, lid 1, en de artikelen 80, 87 en 90 zijn met ingang van 1 januari 1990 van toepassing in Spanje.
 
 De in artikel 90 genoemde datum 31 december 1987 wordt evenwel vervangen door de datum 31 december 1991.
 
-#### Artikel 151
+##### Artikel 151
 
 Indien tijdens de eerste fase in het kader van het gemeenschappelijk landbouwbeleid een steun wordt ingesteld, wordt deze steun in Spanje ingevoerd of wordt het peil van de in Spanje bestaande soortgelijke steun in zes etappes aangepast aan het gemeenschappelijke niveau, waarbij artikel 79 van overeenkomstige toepassing is.
 
-#### Artikel 152
+##### Artikel 152
 
 1. Tijdens de tweede fase wordt bij invoer in de Gemeenschap in haar huidige samenstelling een mechanisme van compenserende bedragen ingesteld voor groenten en fruit van herkomst uit Spanje waarvoor ten opzichte van derde landen een referentieprijs wordt vastgesteld.
 
@@ -2298,13 +2323,13 @@ Indien tijdens de eerste fase in het kader van het gemeenschappelijk landbouwbel
 
 ### Afdeling I. Algemene bepalingen
 
-#### Artikel 154
+##### Artikel 154
 
 1. Behoudens andersluidende bepalingen in dit hoofdstuk, zijn de voorschriften van deze Akte van toepassing op de sector visserij.
 
 2. Artikel 89, lid 2, en artikel 90 zijn van toepassing op visserijprodukten.
 
-#### Artikel 155
+##### Artikel 155
 
 1. Behoudens lid 2 en onverminderd Protocol nr. 2, is het gemeenschappelijk visserijbeleid niet van toepassing op de Canarische Eilanden en evenmin op Ceuta en Melilla.
 
@@ -2318,15 +2343,15 @@ Indien tijdens de eerste fase in het kader van het gemeenschappelijk landbouwbel
 
 ### Afdeling II. Toegang tot de wateren en de visbestanden
 
-#### Artikel 156
+##### Artikel 156
 
 Met het oog op hun integratie in de communautaire regeling voor de instandhouding en het beheer van de visbestanden, ingesteld bij Verordening (EEG) nr. 170/83, geldt de in deze afdeling omschreven regeling voor de toegang tot de wateren die vallen onder de soevereiniteit of de jurisdictie van de huidige Lid-Staten en die worden bestreken door de Internationale Raad voor het onderzoek van de zee (ICES), voor schepen die de vlag van Spanje voeren en ingeschreven en/of geregistreerd zijn in een haven gelegen op het grondgebied waarop het gemeenschappelijk visserijbeleid van toepassing is.
 
-#### Artikel 157
+##### Artikel 157
 
 Alleen de in artikelen 158, 159 en 160 bedoelde vaartuigen mogen visserijactiviteiten uitoefenen en zulks uitsluitend in de zones en onder de voorwaarden omschreven in die artikelen.
 
-#### Artikel 158
+##### Artikel 158
 
 1. Een aantal van 300 welbepaalde vaartuigen die met hun technische kenmerken voorkomen op de nominatieve lijst in bijlage IX, hierna „basislijst” te noemen, kunnen gemachtigd worden om hun visserijactiviteiten uit te oefenen in de ICES-sectoren Vb, VI, VII, VIIIa, b, d met uitzondering, gedurende de periode van de datum van toetreding tot en met 31 december 1995, van de sector bezuiden 56°30' noorderbreedte, ten oosten van 12° westerlengte en benoorden 50°30' noorderbreedte.
 
@@ -2358,7 +2383,7 @@ Voor de toepassing van deze omrekeningsgetallen op vaartuigen die de zogenaamde 
 
 3. De eventuele aanpassingen van de basislijst die voortvloeien uit het vóór de toetreding buiten gebruik stellen van een vaartuig wegens overmacht worden uiterlijk op 1 januari 1986 vastgesteld volgens de procedure van artikel 14 van Verordening (EEG) nr. 170/83. Deze aanpassingen mogen geen afbreuk doen aan het aantal vaartuigen en de verdeling daarvan over elke categorie en evenmin leiden tot een verhoging van de totale tonnage of het totale vermogen van elke van deze categorieën, bovendien mogen de ter vervanging aangewezen vaartuigen slechts worden gekozen uit de vaartuigen vermeld op de lijst in bijlage X.
 
-#### Artikel 159
+##### Artikel 159
 
 1. Het aantal standaardvaartuigen als bedoeld in artikel 158, lid 2, kan worden verhoogd aan de hand van de ontwikkeling van de globale visserijmogelijkheden die aan Spanje zijn toegekend voor de bestanden waarvoor het stelsel van de totaal toegestane vangsten geldt, hierna TAC te noemen, zulks volgens de procedure van artikel 11 van Verordening (EEG) nr. 170/83.
 
@@ -2366,7 +2391,7 @@ Voor de toepassing van deze omrekeningsgetallen op vaartuigen die de zogenaamde 
 
 De voorwaarden voor vervanging als bedoeld in de eerste alinea zijn slechts van toepassing voor zover de capaciteit van de vloot van de Gemeenschap in haar huidige samenstelling niet wordt uitgebreid in de communautaire wateren van de Atlantische Oceaan.
 
-#### Artikel 160
+##### Artikel 160
 
 1. De volgende gespecialiseerde visserijactiviteiten zijn toegestaan:
 
@@ -2384,7 +2409,7 @@ De voorwaarden voor vervanging als bedoeld in de eerste alinea zijn slechts van 
 
 De in lid 1, onder c), bedoelde visserijactiviteiten mogen in de desbetreffende ICES-sector evenwel overal worden verricht buiten de grens van 12 zeemijlen berekend vanaf de basislijnen.
 
-#### Artikel 161
+##### Artikel 161
 
 1. Het aandeel in de TAC van de soorten waarvoor TAC's en aan Spanje toe te kennen quota gelden, wordt per soort en per gebied als volgt vastgesteld:
 
@@ -2413,11 +2438,11 @@ Indien de totale hoeveelheid van deze TAC's meer bedraagt dan 45 000 ton, wordt 
 
 4. De voor Spanje vastgestelde visserijmogelijkheden en de daaruit voortvloeiende quota voor de andere Lid-Staten van de Gemeenschap worden jaarlijks en voor de eerste maal voor 1 januari 1986 vastgesteld overeenkomstig artikel 11 van Verordening (EEG) nr. 170/83.
 
-#### Artikel 162
+##### Artikel 162
 
 Voor 31 december 1992 dient de Commissie bij de Raad een verslag in over de situatie en de vooruitzichten van de visserij in de Gemeenschap, aan de hand van de toepassing van de artikelen 158 en 161. Op basis van dit verslag worden de noodzakelijke aanpassingen van de regeling bedoeld in artikel 158, in artikel 159, lid 2, eerste alinea, en in artikel 161, leden 1, 2 en 3, met inbegrip van de aanpassingen inzake de toegang tot andere gebieden dan die welke in artikel 158, lid 1, zijn vermeld, voor 31 december 1983 vastgesteld volgens de procedure van artikel 43 van het EEG-Verdrag. Deze aanpassingen worden van kracht op 1 januari 1996.
 
-#### Artikel 163
+##### Artikel 163
 
 1. De Spaanse autoriteiten stellen voor de in artikel 160, lid 1, onder a) en b), bedoelde visserijactiviteiten basislijsten op; voor de in artikel 160, lid 1, bedoelde andere visserijactiviteiten stellen zij een lijst op met de vermelding van de technische kenmerken van elk vaartuig.
 
@@ -2433,7 +2458,7 @@ Na verificatie worden deze lijsten goedgekeurd door de Commissie die deze lijste
 
 De technische voorschriften die noodzakelijk zijn voor de toepassing van de artikelen 156 tot en met 162 alsmede de voorschriften opgenomen in bijlage XI worden vóór 1 januari 1986 vastgesteld volgens de procedure van artikel 14 van Verordening (EEG) nr. 170/83.
 
-#### Artikel 164
+##### Artikel 164
 
 1. Het aantal vaartuigen dat de vlag van een huidige Lid-Staat voert en dat mag vissen in de wateren van de Atlantische Oceaan die onder de soevereiniteit of de jurisdictie van het Koninkrijk Spanje vallen en die door de ICES worden bestreken, wordt jaarlijks vastgesteld:
 
@@ -2447,7 +2472,7 @@ De technische voorschriften die noodzakelijk zijn voor de toepassing van de arti
 
 4. De toepassingsbepalingen van dit artikel worden voor 1 januari 1986 vastgesteld volgens de procedure van artikel 14 van Verordening (EEG) nr. 170/83.
 
-#### Artikel 165
+##### Artikel 165
 
 1. Met het oog op hun integratie in de communautaire regeling voor de instandhouding en het beheer van de visbestanden, ingesteld bij Verordening (EEG) nr. 170/83, geldt voor de toegang van vaartuigen die de vlag van Portugal voeren tot de wateren die onder de soevereiniteit of de jurisdictie van het Koninkrijk Spanje vallen en die door de ICES en het Comité voor de Visserij in het Centraal-Oostelijk gedeelte van de Atlantische Oceaan (COPACE) worden bestreken tot en met 31 december 1995 de in de leden 2 tot en met 8 omschreven regeling, onverminderd de in artikel 155 bedoelde bijzondere bepalingen.
 
@@ -2475,13 +2500,13 @@ De technische voorschriften die noodzakelijk zijn voor de toepassing van de arti
 
 8. De maatregelen die genomen moeten worden met het oog op de naleving van de in dit artikel neergelegde reglementering door het bedrijfsleven, met inbegrip van de mogelijkheid het betrokken vaartuig geen toestemming te verlenen om gedurende een bepaalde periode te vissen, worden vóór 1 januari 1986 vastgesteld volgens de procedure van artikel 11 van Verordening (EEG) nr. 170/83.
 
-#### Artikel 166
+##### Artikel 166
 
 De in de artikelen 156 tot en met 164 omschreven regeling, met inbegrip van de aanpassingen die door de Raad krachtens artikel 162 kunnen worden vastgesteld, blijft van toepassing tot het verstrijken van de in artikel 8, lid 3, van Verordening (EEG) nr. 170/83 bedoelde periode.
 
 ### Afdeling III. Externe visbestanden
 
-#### Artikel 167
+##### Artikel 167
 
 1. Onmiddellijk bij de toetreding wordt het beheer van de visserijovereenkomst tussen het Koninkrijk Spanje en derde landen door de Gemeenschap waargenomen.
 
@@ -2489,7 +2514,7 @@ De in de artikelen 156 tot en met 164 omschreven regeling, met inbegrip van de a
 
 3. Zo spoedig mogelijk en in ieder geval voor het verstrijken van de in lid 1 bedoelde overeenkomsten stelt de Raad, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen de passende besluiten vast voor het handhaven van de daaruit voortvloeiende visserijactiviteiten, met in de mogelijkheid om bepaalde van deze overeenkomsten met ten hoogste een jaar te verlengen.
 
-#### Artikel 168
+##### Artikel 168
 
 1. De tariefvrijstellingen, -schorsingen of -contingenten die door het Koninkrijk Spanje zijn verleend voor visserijprodukten afkomstig van gemeenschappelijke ondernemingen van natuurlijke of rechtspersonen uit Spanje en uit andere landen worden tijdens een periode van 7 jaar als volgt afgeschaft:
 
@@ -2514,7 +2539,7 @@ De in de artikelen 156 tot en met 164 omschreven regeling, met inbegrip van de a
 
 ### Afdeling IV. Gemeenschappelijke ordening der markten
 
-#### Artikel 169
+##### Artikel 169
 
 1. De oriëntatieprijzen die in Spanje gelden voor sardines uit de Atlantische Oceaan en voor ansjovis en de oriëntatieprijzen die in de Gemeenschap in haar huidige samenstelling gelden, worden aan elkaar aangepast overeenkomstig het bepaalde in de leden 2 en 3, waarbij de eerste aanpassing plaatsvindt op 1 maart 1986.
 
@@ -2522,7 +2547,7 @@ De in de artikelen 156 tot en met 164 omschreven regeling, met inbegrip van de a
 
 3. Wat ansjovis betreft, worden de oriëntatieprijzen die respectievelijk voor Spanje en de andere Lid-Staten van toepassing zijn, in vijf jaarlijkse etappes aangepast, respectievelijk met een vijfde, een kwart en de helft van het verschil tussen deze oriëntatieprijzen, met dien verstande dat deze aanpassing voor de helft op elk van deze prijzen wordt toegepast door een verhoging van de laagste prijs en een verlaging van de hoogste prijs; de prijs die uit deze berekening voortvloeit, wordt naar evenredigheid gemoduleerd aan de hand van de eventuele aanpassing van de oriëntatieprijs voor het komende verkoopseizoen; de gemeenschappelijke prijs wordt toegepast vanaf de datum van de vijfde aanpassing.
 
-#### Artikel 170
+##### Artikel 170
 
 1. Gedurende de in artikel 169 bedoelde periode waarin de prijzen worden aangepast, wordt een stelsel van toezicht ingesteld, gebaseerd op referentieprijzen die van toepassing zijn op:
 
@@ -2536,7 +2561,7 @@ De in de artikelen 156 tot en met 164 omschreven regeling, met inbegrip van de a
 
 4. De toepassingsbepalingen van dit artikel worden vastgesteld volgens de procedure van artikel 33 van Verordening (EEG) nr. 3796/81.
 
-#### Artikel 171
+##### Artikel 171
 
 1. Onmiddellijk na de toetreding wordt voor de producenten van sardines uit de Gemeenschap in haar huidige samenstelling een stelsel van compenserende vergoedingen ingesteld in verband met de bijzondere regeling voor de aanpassing van de prijzen die voor deze vissoort geldt uit hoofde van artikel 169, lid 2.
 
@@ -2544,13 +2569,13 @@ De in de artikelen 156 tot en met 164 omschreven regeling, met inbegrip van de a
 
 3. De Raad stelt, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen, vóór 31 december 1985 de toepassingsbepalingen van dit artikel vast.
 
-#### Artikel 172
+##### Artikel 172
 
 Gedurende de periode waarin de prijzen worden aangepast, worden de in artikel 12, lid 1, van Verordening (EEG) nr. 3796/81 bedoelde aanpassingscoëfficiënten die in 1984 golden voor sardines, niet gewijzigd.
 
 ### Afdeling V. Regeling voor het handelsverkeer
 
-#### Artikel 173
+##### Artikel 173
 
 1. In afwijking van artikel 31 worden de douanerechten bij invoer van de visserijprodukten van de posten 03.01, 03.02, 03.03, 05.15 A, 16.04, 16.05 en 23.01 B van het gemeenschappelijk douanetarief tussen de Gemeenschap in haar huidige samenstelling en Spanje geleidelijk afgeschaft volgens onderstaand ritme:
 
@@ -2620,7 +2645,7 @@ Gedurende de periode waarin de prijzen worden aangepast, worden de in artikel 12
 
 Het Koninkrijk Spanje past het gemeenschappelijk douanetarief vanaf 1 januari 1993 volledig toe.
 
-#### Artikel 174
+##### Artikel 174
 
 1. Tot en met 31 december 1992 geldt voor de invoer in Spanje van de in bijlage XIII vermelde produkten van herkomst uit de andere Lid-Staten de in het onderhavige artikel omschreven aanvullende regeling voor het handelsverkeer.
 
@@ -2634,13 +2659,13 @@ Het Koninkrijk Spanje past het gemeenschappelijk douanetarief vanaf 1 januari 19
 
 6. De toepassingsbepalingen van dit artikel worden vastgesteld volgens de procedure van artikel 33 van Verordening (EEG) nr. 3796/81.
 
-#### Artikel 175
+##### Artikel 175
 
 1. De kwantitatieve beperkingen die in de Gemeenschap in haar huidige samenstelling van toepassing zijn op produkten van herkomst uit Spanje onder de voorwaarden van artikel 19, lid 4, van Verordening (EEG) nr. 3796/81, worden geleidelijk afgeschaft en dienen op 1 januari 1993 te zijn verdwenen voor conserven van tonijn en op 1 januari 1996 voor conserven van sardines.
 
 2. De toepassingsbepalingen van lid 1 worden vastgesteld volgens de procedure van artikel 33 van Verordening (EEG) nr. 3796/81.
 
-#### Artikel 176
+##### Artikel 176
 
 1. Tot en met 31 december 1992 kan het Koninkrijk Spanje voor de in bijlage XIV vermelde produkten ten aanzien van derde landen kwantitatieve beperkingen handhaven binnen de grenzen en op de wijze als door de Raad, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen vastgesteld.
 
@@ -2650,7 +2675,7 @@ Het Koninkrijk Spanje past het gemeenschappelijk douanetarief vanaf 1 januari 19
 
 ### Afdeling I. Gemeenschappelijke handelspolitiek
 
-#### Artikel 177
+##### Artikel 177
 
 1. Het Koninkrijk Spanje handhaaft ten aanzien van derde landen kwantitatieve invoerbeperkingen voor de produkten die ten opzichte van de Gemeenschap in haar huidige samenstelling nog niet zijn geliberaliseerd. Het verleent derde landen geen enkel ander voordeel ten opzichte van de Gemeenschap in haar huidige samenstelling wat de contingenten voor deze produkten betreft.
 
@@ -2678,7 +2703,7 @@ Wijzigingen van de regeling voor de invoer in Spanje van de in de eerste alinea 
 
 6. Ten einde te voldoen aan de verplichtingen die voor de Gemeenschap uit de Algemene Overeenkomst betreffende tarieven en handel voortvloeien ten opzichte van bij die Overeenkomst aangesloten landen met staatshandel, breidt het Koninkrijk Spanje in voorkomend geval en voor zover noodzakelijk de liberalisatiemaatregelen die het ten aanzien van de andere bij de Overeenkomst aangesloten derde landen moet treffen uit tot eerder genoemde landen, zulks met inachtneming van de overeengekomen overgangsmaatregelen.
 
-#### Artikel 178
+##### Artikel 178
 
 1. Met ingang van 1 maart 1986 past het Koninkrijk Spanje geleidelijk het stelsel van algemene preferenties toe voor andere produkten dan die welke in bijlage II van het EEG-Verdrag zijn vermeld, uitgaande van de basisrechten bedoeld in artikel 30, lid 1. Wat evenwel de in bijlage XVII vermelde produkten betreft, past het Koninkrijk Spanje zich tot en met 31 december 1992 geleidelijk aan aan de rechten van het stelsel van algemene preferenties, uitgaande van de basisrechten bedoeld in artikel 30, lid 2. Het ritme waarin deze aanpassingen plaatsvinden is gelijk aan het in artikel 37 bedoelde ritme.
 
@@ -2724,7 +2749,7 @@ Wijzigingen van de regeling voor de invoer in Spanje van de in de eerste alinea 
 
 ### Afdeling II. Overeenkomsten tussen de Gemeenschappen en bepaalde derde landen
 
-#### Artikel 179
+##### Artikel 179
 
 1. Het Koninkrijk Spanje past vanaf 1 januari 1986 de bepalingen van de in artikel 181 genoemde overeenkomsten toe.
 
@@ -2738,7 +2763,7 @@ In het bijzonder zijn op alle produkten waarvoor overgangsmaatregelen gelden met
 
 4. Deze overgangsmaatregelen die van toepassing zijn op de in artikel 1.81 genoemde landen, mogen er niet toe leiden dat deze landen door het Koninkrijk Spanje minder gunstig worden behandeld dan andere derde landen. In het bijzonder mogen geen overgangsmaatregelen met betrekking tot kwantitatieve beperkingen ten aanzien van de in artikel 181 genoemde landen worden overwogen voor produkten die vrij zijn van dergelijke beperkingen, indien zij in Spanje uit andere landen worden ingevoerd.
 
-#### Artikel 180
+##### Artikel 180
 
 1. Indien de in artikel 179, lid 1, genoemde protocollen op 1 januari 1986 niet zijn gesloten, treft de Gemeenschap de nodige maatregelen om onmiddellijk bij de toetreding aan deze situatie het hoofd te bieden.
 
@@ -2750,7 +2775,7 @@ In ieder geval wordt door het Koninkrijk Spanje vanaf 1 januari 1986 op de in ar
 
 - ii). indien voornoemde protocollen op de datum van toetreding niet zouden zijn gesloten om andere dan de in onder i) bedoelde redenen, gaat de Gemeenschap voor het treffen van de in lid 1 bedoelde maatregelen uit van de in de Conferentie overeengekomen overgangsmaatregelen en aanpassingen en houdt zij in voorkomend geval rekening met het resultaat dat tijdens de onderhandelingen met de betrokken derde landen is bereikt.
 
-#### Artikel 181
+##### Artikel 181
 
 1. De artikelen 179 en 180 zijn van toepassing:
 
@@ -2760,13 +2785,13 @@ In ieder geval wordt door het Koninkrijk Spanje vanaf 1 januari 1986 op de in ar
 
 2. De regelingen die voortvloeien uit de op 31 oktober 1979 ondertekende tweede ACS-EEG-Overeenkomst en uit het op dezelfde datum ondertekende Akkoord betreffende de produkten die onder de bevoegdheid van de Europese Gemeenschap voor Kolen en Staal vallen, zijn niet van toepassing in de betrekkingen tussen het Koninkrijk Spanje en de Staten in Afrika, het Caribische gebied en de Stille Oceaan.
 
-#### Artikel 182
+##### Artikel 182
 
 Het Koninkrijk Spanje zegt de op 26 juni 1979 ondertekende overeenkomst met de landen van de Europese Vrijhandelsassociatie per 1 januari 1986 op.
 
 ### Afdeling III. Textiel
 
-#### Artikel 183
+##### Artikel 183
 
 1. Vanaf 1 januari 1986 past het Koninkrijk Spanje de regeling van 20 december 1973 betreffende de internationale handel in textiel alsmede de door de Gemeenschap krachtens deze regeling of met andere derde landen gesloten bilaterale overeenkomsten toe. Over de protocollen inzake aanpassing van deze overeenkomsten wordt door de Gemeenschap met derde landen die partij zijn bij de overeenkomsten onderhandeld, ten einde te bewerkstelligen dat de uitvoer naar Spanje vrijwillig wordt beperkt voor zover het produkten en een oorsprong betreft waarvoor op de uitvoer naar de Gemeenschap beperkingen gelden.
 
@@ -2774,13 +2799,13 @@ Het Koninkrijk Spanje zegt de op 26 juni 1979 ondertekende overeenkomst met de l
 
 ### Hoofdstuk 6. Financiële bepalingen
 
-#### Artikel 184
+##### Artikel 184
 
 1. Het besluit van 21 april 1970 betreffende de vervanging van de financiële bijdragen van de Lid-Staten door eigen middelen van de Gemeenschappen, hierna „besluit van 21 april 1970” te noemen, wordt toegepast overeenkomstig de artikelen 185 tot en met 188.
 
 2. Elke verwijzing naar het besluit van 21 april 1970 in de artikelen van dit hoofdstuk, geldt als verwijzing naar het besluit van de Raad van 7 mei 1985 betreffende het stelsel van eigen middelen van de Gemeenschappen vanaf de inwerkingtreding van dit laatste besluit.
 
-#### Artikel 185
+##### Artikel 185
 
 De „landbouwheffingen” genoemde ontvangsten, bedoeld in artikel 2, eerste alinea, onder a), van het besluit van 21 april 1970, omvatten eveneens de ontvangsten afkomstig van alle bedragen die worden vastgesteld bij invoer in het handelsverkeer tussen Spanje en de andere Lid-Staten en tussen Spanje en derde landen uit hoofde van de artikelen 67 tot en met 153 en van artikel 50, lid 3, en van artikel 53.
 
@@ -2788,7 +2813,7 @@ Deze ontvangsten omvatten evenwel pas met ingang van 1 januari 1990 de compenser
 
 Deze ontvangsten omvatten niet de eventuele bedragen die bij invoer op de Canarische Eilanden en in Ceuta en Melilla worden geheven.
 
-#### Artikel 186
+##### Artikel 186
 
 De „douanerechten” genoemde ontvangsten, bedoeld in artikel 2, eerste alinea, onder b), van het besluit van 21 april 1970, omvatten tot en met 31 december 1992 de douanerechten die worden berekend alsof het Koninkrijk Spanje in het handelsverkeer met derde landen onmiddellijk bij de toetreding de rechten toepaste die voortvloeien uit het gemeenschappelijk douanetarief en de verlaagde rechten die voortvloeien uit door de Gemeenschap toegepaste tariefpreferenties. Voor de douanerechten inzake oliehoudende zaden en vruchten en daarvan afgeleide produkten die onder Verordening nr. 136/66/EEG vallen, alsmede voor groenten en fruit die onder Verordening (EEG) nr. 1035/72 vallen, geldt dezelfde regel tot en met 31 december 1995.
 
@@ -2802,7 +2827,7 @@ Het Koninkrijk Spanje berekent deze douanerechten maandelijks op de grondslag va
 
 Met ingang van 1 januari 1993 is het totaalbedrag van de vastgestelde douanerechten volledig verschuldigd. Wat betreft groenten en fruit die onder Verordening (EEG) nr. 1035/72 vallen en voor oliehoudende zaden en vruchten en daarvan afgeleide produkten die onder Verordening nr. 136/66/EEG vallen, is het totaalbedrag van deze rechten evenwel vanaf 1 januari 1996 volledig verschuldigd.
 
-#### Artikel 187
+##### Artikel 187
 
 Het bedrag van de rechten die zijn geconstateerd uit hoofde van de eigen middelen afkomstig uit de belasting van de toegevoegde waarde is volledig verschuldigd vanaf 1 januari 1986.
 
@@ -2824,7 +2849,7 @@ De Gemeenschap restitueert het Koninkrijk Spanje uit hoofde van de uitgaven van 
 
 Het percentage van deze degressieve restitutie is niet van toepassing op het bedrag dat overeenstemt met het aandeel van Spanje in de financiering van de verlaging ten gunste van het Verenigd Koninkrijk bedoeld in artikel 3, lid 3, onder b) en c), van het Besluit van de Raad van 7 mei 1985 betreffende het stelsel van de eigen middelen van de Gemeenschappen.
 
-#### Artikel 188
+##### Artikel 188
 
 Om te voorkomen dat de terugbetaling van de voorschotten die voor 1 januari 1986 door de Lid-Staten aan de Gemeenschap zijn verleend, ten laste komt van het Koninkrijk Spanje, ontvangt het Koninkrijk Spanje een financiële compensatie uit hoofde van deze terugbetaling.
 
@@ -2834,7 +2859,7 @@ Om te voorkomen dat de terugbetaling van de voorschotten die voor 1 januari 1986
 
 ### Afdeling I. Tariefbepalingen
 
-#### Artikel 189
+##### Artikel 189
 
 1. Voor ieder produkt is het basisrecht waarop de in artikel 190 en artikel 243, punt 1), bedoelde achtereenvolgende verlagingen moeten worden toegepast, het recht dat op 1 januari 1985 werkelijk werd toegepast in het handelsverkeer in produkten van oorsprong uit de Gemeenschap in haar oorspronkelijke samenstelling en Portugal.
 
@@ -2850,7 +2875,7 @@ De douanerechten van het maximumtarief en de tijdelijke geschorste douanerechten
 
 6. In afwijking van lid 1 zijn voor de in Protocol nr. 15 vermelde produkten de basisrechten de rechten die in dat Protocol naast elk produkt vermeld zijn.
 
-#### Artikel 190
+##### Artikel 190
 
 1. De invoerrechten tussen de Gemeenschap in haar huidige samenstelling en de Portugese Republiek worden geleidelijk afgeschaft volgens het onderstaande ritme:
 
@@ -2876,7 +2901,7 @@ De douanerechten van het maximumtarief en de tijdelijke geschorste douanerechten
 
 3. Bij toepassing van de overeenkomstig lid 1 berekende rechten, wordt afgerond op de eerste decimaal door schrapping van de tweede decimaal.
 
-#### Artikel 191
+##### Artikel 191
 
 In geen geval worden de binnen de Gemeenschap douanerechten toegepast die hoger zijn dan die welke gelden ten opzichte van derde landen waarvoor de meestbegunstigingsclausule geldt.
 
@@ -2884,17 +2909,17 @@ In geval de rechten van het gemeenschappelijk douanetarief worden gewijzigd of g
 
 Ingeval de rechten van het eengemaakte EGKS-tarief worden gewijzigd of geschorst, de Portugese Republiek artikel 201 toepast, of in Portugal voor een zelfde tariefpost specifieke rechten ten opzichte van de Gemeenschap in haar huidige samenstelling en rechten ad valorem ten opzichte van derde landen bestaan, kan de Commissie de nodige maatregelen nemen ter handhaving van de communautaire preferentie.
 
-#### Artikel 192
+##### Artikel 192
 
 De Portugese Republiek kan de heffing van de rechten die worden toegepast op uit de Gemeenschap in haar huidige samenstelling ingevoerde produkten geheel of gedeeltelijk schorsen. Zij stelt de andere Lid-Staten en de Commissie daarvan in kennis.
 
 De Raad kan, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen de heffing van de rechten die worden toegepast op uit Portugal ingevoerde produkten geheel of gedeeltelijk schorsen.
 
-#### Artikel 193
+##### Artikel 193
 
 De heffingen van gelijke werking als invoerrechten die bestaan in het handelsverkeer tussen de Gemeenschap in haar huidige samenstelling en Portugal worden op 1 maart 1986 afgeschaft.
 
-#### Artikel 194
+##### Artikel 194
 
 De volgende door Portugal in haar handelsverkeer met de Gemeenschap in haar huidige samenstelling toegepaste heffingen worden geleidelijk afgeschaft volgens het onderstaande ritme:
 
@@ -2918,11 +2943,11 @@ De volgende door Portugal in haar handelsverkeer met de Gemeenschap in haar huid
 
 - -. op 1 januari 1991 afgeschaft.
 
-#### Artikel 195
+##### Artikel 195
 
 De uitvoerrechten en heffingen van gelijke werking die bestaan in het handelsverkeer tussen de Gemeenschap in haar huidige samenstelling en Portugal, worden op 1 maart 1986 afgeschaft.
 
-#### Artikel 196
+##### Artikel 196
 
 1. De Portugese Republiek schaft op 1 januari 1986 de douanerechten van fiscale aard of het fiscale element van de douanerechten die op die datum bestaan af met betrekking tot de invoer uit de Gemeenschap in haar huidige samenstelling.
 
@@ -2956,7 +2981,7 @@ De uitvoerrechten en heffingen van gelijke werking die bestaan in het handelsver
 
 Indien de Portugese Republiek van deze mogelijkheid gebruik maakt, vertegenwoordigt het eventueel niet door de binnenlandse belasting gedekte element het in artikel 189 bedoelde basisrecht. Dit element wordt in het handelsverkeer met de Gemeenschap afgeschaft en volgens het in de artikelen 190 en 197 bedoelde ritme aangepast aan het gemeenschappelijk douanetarief en het eengemaakte EGKS-tarief.
 
-#### Artikel 197
+##### Artikel 197
 
 1. Ten behoeve van de geleidelijke invoering van het gemeenschappelijk douanetarief en van het eengemaakte EGKS-tarief wijzigt de Portugese Republiek haar ten opzichte van derde landen van toepassing zijnde tarief als volgt:
 
@@ -2984,13 +3009,13 @@ Met ingang van 1 januari 1993 past de Portugese Republiek het gemeenschappelijk 
 
 2. In afwijking van lid 1 past de Portugese Republiek voor de produkten die zijn vermeld in de bijlage bij de Overeenkomst betreffende de handel in burgerluchtvaartuigen, gesloten in het kader van de handelsbesprekingen 1973-1979 van de Algemene Overeenkomst betreffende tarieven en handel, het gemeenschappelijk douanetarief volledig toe met ingang van 1 maart 1986.
 
-#### Artikel 198
+##### Artikel 198
 
 De in het gemeenschappelijk douanetarief van de Gemeenschap vermelde autonome rechten zijn de autonome rechten van de Gemeenschap in haar huidige samenstelling. De conventionele rechten van het gemeenschappelijk douanetarief van de EEG en van het eengemaakte tarief van de EGKS zijn de conventionele rechten van de EEG en de EGKS in hun huidige samenstelling, met uitzondering van de aanpassingen die daarin aangebracht zullen worden om rekening te houden met het feit dat de rechten van het Spaanse en Portugese tarief over het geheel genomen hoger zijn dan de rechten van de tarieven van de EEG en de EGKS in hun huidige samenstelling.
 
 Deze aanpassingen, waarover zal worden onderhandeld in het kader van de Algemene Overeenkomst betreffende tarieven en handel, zullen binnen de grenzen van de door artikel XXIV van die Overeenkomst geboden mogelijkheden blijven.
 
-#### Artikel 199
+##### Artikel 199
 
 1. Wanneer de rechten van het douanetarief van de Portugese Republiek van andere aard zijn dan de overeenkomstige rechten van het gemeenschappelijk douanetarief of van het eengemaakte EGKS-tarief, geschiedt de geleidelijke aanpassing van eerstgenoemde aan laatstgenoemde door de elementen van het Portugese basisrecht te voegen bij die van het recht van het gemeenschappelijk douanetarief of van het eengemaakte EGKS-tarief, waarbij het Portugese basisrecht geleidelijk en volgens het ritme bedoeld in artikel 197 en artikel 243, punt 2), tot nul wordt verlaagd en het recht van het gemeenschappelijk douanetarief of van het eengemaakte EGKS-tarief van nul uitgaat om geleidelijk en volgens datzelfde ritme zijn eindbedrag te bereiken.
 
@@ -3008,7 +3033,7 @@ In geval van wijzigingen van de nomenclatuur van het gemeenschappelijk douanetar
 
 Wanneer de Portugese rechten worden aangepast aan de rechten van het gemeenschappelijk douanetarief of van het eengemaakte EGKS-tarief die lager zijn dan de Portugese basisrechten, vindt afronding plaats door schrapping van de tweede decimaal. In de andere gevallen vindt afronding plaats door toepassing van de hogere decimaal.
 
-#### Artikel 200
+##### Artikel 200
 
 1. Voor de produkten die voorkomen op de lijst in bijlage XVIII, zijn de basisrechten die worden gehanteerd voor de aanpassing aan het gemeenschappelijk douanetarief en aan het eengemaakte EGKS-tarief, de rechten die voortvloeien uit de toepassing door de Portugese Republiek op 1 januari 1985 van de tariefvrijstellingen (volledige schorsingen) en tariefverlagingen (gedeeltelijke schorsingen).
 
@@ -3020,23 +3045,23 @@ Wanneer de Portugese rechten worden aangepast aan de rechten van het gemeenschap
 
 5. Onmiddellijk bij de toetreding past de Portugese Republiek zonder discriminatie de vrijstellingen en de geleidelijk aan het gemeenschappelijk douanetarief en het eengemaakte EGKS-tarief aangepaste tarief verlagingen toe.
 
-#### Artikel 201
+##### Artikel 201
 
 Bij de aanpassing van haar tarief aan het gemeenschappelijk douanetarief en aan het eengemaakte EGKS-tarief, staat het de Portugese Republiek vrij om haar douanerechten in een sneller ritme te wijzigen dan is bepaald in artikel 197. Zij stelt de andere Lid-Staten en de Commissie daarvan in kennis.
 
 ### Afdeling II. Afschaffing van kwantitatieve beperkingen en maatregelen van gelijke werking
 
-#### Artikel 202
+##### Artikel 202
 
 De kwantitatieve in- en uitvoerbeperkingen, alsmede alle tussen de Gemeenschap in haar huidige samenstelling en de Portugese Republiek bestaande maatregelen van gelijke werking worden op 1 januari 1986 afgeschaft.
 
-#### Artikel 203
+##### Artikel 203
 
 In afwijking van artikel 202 kunnen de huidige Lid-Staten en de Portugese Republiek in hun onderlinge handelsverkeer beperkingen handhaven bij de uitvoer van schroot, resten en afvallen van werken van gietijzer, van ijzer of van staal van post 73.03 van het gemeenschappelijk douanetarief.
 
 Deze regeling kan tot en met 31 december 1988 worden gehandhaafd voor de uitvoer van de Lid-Staten van de Gemeenschap in haar huidige samenstelling naar Portugal en tot en met 31 december 1990 voor de uitvoer van Portugal naar de huidige Lid-Staten. mits zij niet beperkender is dan de regeling die geldt voor de uitvoer naar derde landen.
 
-#### Artikel 204
+##### Artikel 204
 
 1. In afwijking van artikel 202 kan de Portugese Republiek tot en met 31 december 1988 bij invoer en uitvoer, uitsluitend voor statistische doeleinden, de voorafgaande registratie blijven eisen van andere produkten dan die welke onder bijlage II van het EEG-Verdrag vallen en van produkten die onder het EGKS-Verdrag vallen.
 
@@ -3044,7 +3069,7 @@ Deze regeling kan tot en met 31 december 1988 worden gehandhaafd voor de uitvoer
 
 3. De eis dat importeurs en exporteurs van tevoren moeten zijn ingeschreven vervalt onmiddellijk bij de toetreding.
 
-#### Artikel 205
+##### Artikel 205
 
 In afwijking van artikel 202 schaft de Portugese Republiek het bestaande discriminatoire verschil tussen het terugbetalingspercentage dat wordt toegepast door de organen van de sociale zekerheid voor in Portugal vervaardigde medicijnen en het terugbetalingspercentage voor uit de huidige Lid-Staten ingevoerde medicijnen af in drie jaarlijkse gelijke etappes en wel op de volgende data:
 
@@ -3054,15 +3079,15 @@ In afwijking van artikel 202 schaft de Portugese Republiek het bestaande discrim
 
 - -. 1 januari 1989.
 
-#### Artikel 206
+##### Artikel 206
 
 In afwijking van artikel 202 wordt het in Protocol nr. 17 bedoelde stelsel toegepast op het handelsverkeer in bepaalde textielprodukten tussen Portugal en de andere Lid-Staten van de Gemeenschap.
 
-#### Artikel 207
+##### Artikel 207
 
 In afwijking van artikel 202 mag de Portugese Republiek tot en met 31 december 1987 kwantitatieve beperkingen handhaven op de invoer uit de andere Lid-Staten van de in Protocol nr. 18 bedoelde automobielen, zulks binnen de grenzen van het in dat Protocol beschreven stelsel van invoercontingenten.
 
-#### Artikel 208
+##### Artikel 208
 
 1. Onverminderd lid 2 van het onderhavige artikel past de Portugese Republiek vanaf 1 januari 1986 haar nationale monopolies van commerciële aard, als bedoeld in artikel 37, lid 1, van het EEG-Verdrag, geleidelijk aan, in dier voege dat vóór 1993 elke discriminatie tussen onderdanen van de Lid-Staten, wat de voorwaarden van de voorziening en afzet betreft, is uitgesloten.
 
@@ -3076,7 +3101,7 @@ De Commissie doet aanbevelingen inzake de wijze waarop deze vrijmaking tot stand
 
 Onmiddellijk bij de toetreding opent de Portugese Republiek voor elk betrokken produkt een contingent dat gelijk is aan het totaal van de afzetquota die de andere bedrijven dan PETROGAL vóór die datum bezaten. Dit contingent wordt, volgens de aanbevelingen van de Commissie, geleidelijk verhoogd met de vrijgemaakte hoeveelheden.
 
-#### Artikel 209
+##### Artikel 209
 
 1. In afwijking van artikel 202 kan de octrooihouder of zijn rechthebbende voor een chemisch, farmaceutisch, voedings- of fytosanitair produkt, dat in een Lid-Staat is gedeponeerd op een tijdstip waarop in Portugal voor dat produkt geen octrooi kon worden verkregen, zich beroepen op het aan dat octrooi verbonden recht ten einde de invoer van en de handel in dit produkt te verhinderen in de huidige Lid-Staat of Lid-Staten waar dit produkt door een octrooi wordt beschermd, zelfs als dit produkt voor de eerste maal door hemzelf of met zijn instemming in Portugal in de handel is gebracht.
 
@@ -3084,7 +3109,7 @@ Onmiddellijk bij de toetreding opent de Portugese Republiek voor elk betrokken p
 
 ### Afdeling III. Overige bepalingen
 
-#### Artikel 210
+##### Artikel 210
 
 1. Rekening houdend met de geldende voorschriften, inzonderheid met die betreffende het communautaire douanevervoer, stelt de Commissie de methoden van administratieve samenwerking vast welke de in deze Akte bedoelde afschaffing per 1 maart 1986 van de douanerechten en heffingen van gelijke werking alsmede van de kwantitatieve beperkingen en maatregelen van gelijke werking moeten waarborgen voor goederen die aan de daarvoor gestelde voorwaarden voldoen.
 
@@ -3098,7 +3123,7 @@ Onmiddellijk bij de toetreding opent de Portugese Republiek voor elk betrokken p
 
 Bij het vaststellen van deze bepalingen houdt de Commissie rekening met de in deze Akte neergelegde voorschriften voor de afschaffing van de douanerechten tussen de Gemeenschap in haar huidige samenstelling en Portugal en voor de geleidelijke toepassing door de Portugese Republiek van het gemeenschappelijk douanetarief en van de bepalingen betreffende het gemeenschappelijk landbouwbeleid.
 
-#### Artikel 211
+##### Artikel 211
 
 1. Tenzij anders bepaald in deze Akte, zijn de bepalingen inzake douanewetgeving voor het handelsverkeer met derde landen onder dezelfde voorwaarden van toepassing op het handelsverkeer binnen de Gemeenschap, zolang er in dat handelsverkeer douanerechten worden geheven.
 
@@ -3114,7 +3139,7 @@ het in aanmerking te nemen douanegebied het douanegebied dat wordt omschreven in
 
 De Portugese Republiek kan in deze nomenclaturen de op het tijdstip van toetreding bestaande nationale onderverdelingen overnemen die noodzakelijk zijn om te bewerkstelligen dat de geleidelijke afschaffing van haar invoerrechten binnen de Gemeenschap plaatsvindt overeenkomstig het bepaalde in deze Akte.
 
-#### Artikel 212
+##### Artikel 212
 
 Gedurende een periode van vijf jaar, te rekenen vanaf de toetreding, voltooit de Portugese Republiek de herstructurering van haar ijzer- en staalindustrie overeenkomstig het bepaalde in Protocol nr. 20.
 
@@ -3124,7 +3149,7 @@ Met instemming van de Raad kan de Commissie de hierboven bedoelde periode verkor
 
 - -. de maatregelen in deze sector die na de datum van toetreding in de Gemeenschap van kracht zijn. In dat geval zou de regeling die na de toetreding van toepassing is op Portugese leveranties naar de Gemeenschap in haar huidige samenstelling niet mogen leiden tot wezenlijke verschillen in de behandeling van enerzijds Portugal en anderzijds de andere Lid-Staten.
 
-#### Artikel 213
+##### Artikel 213
 
 1. Indien in het handelsverkeer tussen de Gemeenschap in haar huidige samenstelling en de Portugese Republiek compenserende bedragen als bedoeld in artikel 240 of het in artikel 270 bedoelde compensatiemechanisme worden toegepast op een of meer van de basisprodukten die worden beschouwd als te zijn gebruikt bij de vervaardiging van goederen die vallen onder Verordening (EEG) nr. 3033/80 van de Raad van 11 november 1980 tot vaststelling van de handelsregeling die van toepassing is op bepaalde goederen, verkregen door verwerking van landbouwprodukten worden de volgende overgangsmaatregelen toegepast:
 
@@ -3156,7 +3181,7 @@ Elk vast element dat door de Portugese Republiek wordt toegepast op de invoer ui
 
 ### Afdeling IV. Handelsverkeer tussen de Portugese Republiek en het Koninkrijk Spanje
 
-#### Artikel 214
+##### Artikel 214
 
 De Portugese Republiek past in haar handelsverkeer met het Koninkrijk Spanje de artikelen 189 tot en met 213 toe, behoudens de in Protocol nr. 3 neergelegde voorwaarden.
 
@@ -3164,11 +3189,11 @@ De Portugese Republiek past in haar handelsverkeer met het Koninkrijk Spanje de 
 
 ### Afdeling I. Werknemers
 
-#### Artikel 215
+##### Artikel 215
 
 Artikel 48 van het EEG-Verdrag is, voor wat betreft het vrije verkeer van werknemers tussen Portugal en andere Lid-Staten, slechts van toepassing onder voorbehoud van de overgangsbepalingen neergelegd in de artikelen 216 tot en met 219 van deze Akte.
 
-#### Artikel 216
+##### Artikel 216
 
 1. De artikelen 1 tot en met 6 van Verordening (EEG) nr. 1612/68 betreffende het vrije verkeer van werknemers binnen de Gemeenschap zijn in Portugal ten aanzien van onderdanen van de andere Lid-Staten en in de andere Lid-Staten ten aanzien van Portugese onderdanen pas van toepassing vanaf 1 januari 1993.
 
@@ -3180,7 +3205,7 @@ De Portugese Republiek en het Groothertogdom Luxemburg mogen de in de vorige ali
 
 Na dit onderzoek kan de Raad, met eenparigheid van stemmen op voorstel van de Commissie, aan de hand van nieuwe gegevens bepalingen vaststellen om genoemde maatregelen aan te passen.
 
-#### Artikel 217
+##### Artikel 217
 
 1. Artikel 11 van Verordening (EEG) nr. 1612/68 is in Portugal ten aanzien van onderdanen van de andere Lid-Staten en in de andere Lid-Staten ten aanzien van Portugese onderdanen van toepassing tot en met 31 december 1990, zulks onder de volgende voorwaarden:
 
@@ -3192,15 +3217,15 @@ Dit lid doet geen afbreuk aan gunstiger nationale of uit bilaterale overeenkomst
 
 2. De in lid 1 bedoelde regeling is ook van toepassing op de familieleden van een zelfstandige die met hem in een Lid-Staat zijn geïnstalleerd.
 
-#### Artikel 218
+##### Artikel 218
 
 Voor zover bepaalde voorschriften van Richtlijn 68/360/EEG inzake de opheffing van de beperkingen van de verplaatsing en het verblijf van de werknemers der Lid-Staten en van hun familie binnen de Gemeenschap onlosmakelijk zijn verbonden met die voorschriften van Verordening (EEG) nr. 1612/68 waarvan de toepassing krachtens artikel 216 wordt uitgesteld, zijn de Portugese Republiek en andere Lid-Staten bevoegd van deze voorschriften af te wijken voor zover zulks noodzakelijk is voor de toepassing van de afwijkende bepalingen die in artikel 216 omtrent voornoemde verordening zijn neergelegd.
 
-#### Artikel 219
+##### Artikel 219
 
 De Portugese Republiek en de andere Lid-Staten treffen, daarin bijgestaan door de Commissie, de nodige maatregelen opdat uiterlijk op 1 januari 1993 de toepassing van het besluit van de Commissie van 8 december 1972 betreffende het uniforme systeem dat krachtens artikel 15 van Verordening (EEG) nr. 1612/68 van de Raad is ingesteld, het zogenaamde „SEDOC”-systeem, en van het besluit van de Commissie van 14 december 1972 betreffende „het communautaire schema” voor het inwinnen en verspreiden van de inlichtingen bedoeld in artikel 14, lid 3, van Verordening (EEG) nr. 1612/68 van de Raad tot Portugal kan worden uitgebreid.
 
-#### Artikel 220
+##### Artikel 220
 
 1. Tot de inwerkingtreding van de voor alle Lid-Staten eenvormige oplossing, bedoeld in artikel 99 van Verordening (EEG) nr. 1408/71 betreffende de toepassing van de sociale zekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen, maar uiterlijk tot en met 31 december 1988 zijn artikel 73, leden 1 en 3, artikel 74, lid 1 en artikel 75, lid 1, van Verordening (EEG) nr. 1408/71, alsmede de artikelen 86 en 88 van Verordening (EEG) nr. 574/72 tot vaststelling van de wijze van toepassing van Verordening (EEG) nr. 1408/71 niet van toepassing op Portugese werknemers die werkzaam zijn in een andere Lid-Staat dan Portugal en wier gezinsleden in Portugal verblijven.
 
@@ -3240,7 +3265,7 @@ Er wordt evenwel geen afbreuk gedaan aan de wettelijke bepalingen van een Lid-St
 
 ### Afdeling II. Recht van vestiging, diensten, kapitaalverkeer en onzichtbare transacties
 
-#### Artikel 221
+##### Artikel 221
 
 De Portugese Republiek kan beperkingen op het recht van vestiging en het vrij verrichten van diensten handhaven:
 
@@ -3248,7 +3273,7 @@ De Portugese Republiek kan beperkingen op het recht van vestiging en het vrij ve
 
 - -. tot en met 31 december 1990, voor de werkzaamheden in de bioscoopsector.
 
-#### Artikel 222
+##### Artikel 222
 
 1. Tot en met 31 december 1989 kan de Portugese Republiek een stelsel van voorafgaande vergunningen handhaven voor directe investeringen in de zin van de eerste richtlijn van de Raad van 11 mei 1960 voor de uitvoering van artikel 67 van het EEG-Verdrag, gewijzigd en aangevuld bij de tweede Richtlijn 63/2l/EEG van de Raad van 18 december 1962 en bij de Toetredingsakte van 1972, die in Portugal worden verricht door onderdanen van de andere Lid-Staten en die verband houden met het uitoefenen van het recht van vestiging en het vrij verrichten van diensten, en waarvan de totale waarde respectievelijk de volgende bedragen overschrijdt:
 
@@ -3266,17 +3291,17 @@ De Portugese Republiek kan beperkingen op het recht van vestiging en het vrij ve
 
 4. Investeerders op wie lid 1 van toepassing is, mogen niet onderling worden gediscrimineerd en mogen evenmin een minder gunstige behandeling krijgen dan die welke aan onderdanen van derde landen wordt toegestaan.
 
-#### Artikel 223
+##### Artikel 223
 
 1. De Portugese Republiek kan, onder de voorwaarden en binnen de termijnen neergelegd in de artikelen 224 tot en met 229, de vrijmaking van het kapitaalverkeer, vermeld in de lijsten A en B van de eerste richtlijn van de Raad van 11 mei 1960 voor de uitvoering van artikel 67 van het EEG-Verdrag en van de tweede richtlijn van de Raad van 18 december 1962 ter aanvulling en wijziging van de eerste richtlijn voorde uitvoering van artikel 67 van het EEG-Verdrag, uitstellen.
 
 2. De Portugese autoriteiten en de Commissie plegen te gelegener tijd overleg over de wijze van toepassing van de maatregelen tot vrijmaking of versoepeling waarvan de tenuitvoerlegging krachtens de hiernavolgende bepalingen kan worden uitgesteld.
 
-#### Artikel 224
+##### Artikel 224
 
 De Portugese Republiek kan de vrijmaking van de directe investeringen, verricht door ingezetenen van Portugal in de andere Lid-Staten, tot en met 31 december 1992 uitstellen.
 
-#### Artikel 225
+##### Artikel 225
 
 1. De Portugese Republiek kan de vrijmaking van overmakingen in verband met in Portugal door ingezetenen van de andere Lid-Staten verrichte aankopen van onroerend goed dat is gebouwd en bestemd voor bewoning, alsmede van terreinen die reeds voor de landbouw worden gebruikt dan wel als landbouwgronden zijn ingedeeld in de zin van de Portugese wetgeving die geldt op het tijdstip van de toetreding, tot en met 31 december 1990 uitstellen.
 
@@ -3286,7 +3311,7 @@ De Portugese Republiek kan de vrijmaking van de directe investeringen, verricht 
 
 - -. op de in lid 1 bedoelde aankopen die verband houden met de uitoefening van het recht van vestiging door zelfstandigen die ingezetene zijn van de andere Lid-Staten en naar Portugal emigreren.
 
-#### Artikel 226
+##### Artikel 226
 
 1. De Portugese Republiek kan tot en met 31 december 1990 en onder de in lid 2 neergelegde voorwaarden beperkingen handhaven ten aanzien van de overmaking van de liquidatieopbrengst van investeringen in onroerend goed, in Portugal verricht door ingezetenen van de andere Lid-Staten.
 
@@ -3306,7 +3331,7 @@ De Portugese Republiek kan de vrijmaking van de directe investeringen, verricht 
 
 3. Tijdens de toepassingsduur van deze overgangsmaatregel worden de algemene of bijzondere faciliteiten betreffende de vrije overmaking van de liquidatieopbrengst van investeringen in onroerend goed als bedoeld in lid 1, en die op grond van Portugese bepalingen of van overeenkomsten betreffende de betrekkingen tussen de Portugese Republiek en één van de Lid-Staten dan wel een derde land bestaan, gehandhaafd en op niet discriminerende wijze toegepast ten opzichte van alle andere Lid-Staten.
 
-#### Artikel 227
+##### Artikel 227
 
 De Portugese Republiek kan tot en met 31 december 1992 de vrijmaking uitstellen van overmakingen in verband met investeringen in onroerend goed, in een andere Lid-Staat verricht:
 
@@ -3314,7 +3339,7 @@ De Portugese Republiek kan tot en met 31 december 1992 de vrijmaking uitstellen 
 
 - -. door zelfstandigen die ingezetene zijn van Portugal en die emigreren, voor zover de betrokken investeringen geen verband houden met hun vestiging.
 
-#### Artikel 228
+##### Artikel 228
 
 1. De Portugese Republiek kan tot en met 31 december 1990 en onder de in lid 2 bepaalde voorwaarden beperkingen handhaven op de transacties vermeld in de rubriek X onder B-C-D-E-F-H van lijst A die is gehecht aan de in artikel 223 bedoelde richtlijnen en die zijn bestemd voor ingezetenen van de andere Lid-Staten.
 
@@ -3328,7 +3353,7 @@ De Portugese Republiek kan tot en met 31 december 1992 de vrijmaking uitstellen 
 
 - -. op 1 januari 1990: op 45000 en 18000.
 
-#### Artikel 229
+##### Artikel 229
 
 De Portugese Republiek kan de vrijmaking van de in lijst B (rubrieken IV.B. 1 en 3) bij de in artikel 223 bedoelde richtlijnen genoemde transacties die worden verricht door ingezetenen van Portugal, tot en met 31 december 1990 uitstellen.
 
@@ -3344,7 +3369,7 @@ De door ingezetenen van Portugal verrichte transacties in door de Europese Gemee
 
 - -. op 1 januari 1990 wordt dit plafond vastgesteld op 27 miljoen Ecu.
 
-#### Artikel 230
+##### Artikel 230
 
 1. De Portugese Republiek kan tot en met 31 december 1990 en onder de in lid 2 aangegeven voorwaarden beperkingen op de met het vreemdelingenverkeer samenhangende overmakingen handhaven.
 
@@ -3360,11 +3385,11 @@ De door ingezetenen van Portugal verrichte transacties in door de Europese Gemee
 
 - -. 900 Ecu voor 1990.
 
-#### Artikel 231
+##### Artikel 231
 
 De Portugese Republiek zal, indien de omstandigheden zulks toelaten, de vrijmaking van het kapitaalverkeer en van de onzichtbare acties bedoeld in de artikelen 224 tot en met 230 verwezenlijken vóór het verstrijken van de in die artikelen vastgestelde termijnen.
 
-#### Artikel 232
+##### Artikel 232
 
 Voor de toepassing van de artikelen 223 tot en met 231 kan de Commissie overgaan tot raadpleging van het Monetair Comité en elk dienstig voorstel bij de Raad indienen.
 
@@ -3372,7 +3397,7 @@ Voor de toepassing van de artikelen 223 tot en met 231 kan de Commissie overgaan
 
 ### Afdeling I. Algemene bepalingen
 
-#### Artikel 233
+##### Artikel 233
 
 1. Het onderhavige hoofdstuk heeft betrekking op landbouwprodukten met uitzondering van de produkten die vallen onder Verordening (EEG) nr. 3796/81 houdende een gemeenschappelijke ordening der markten in de sector visserijprodukten.
 
@@ -3380,7 +3405,7 @@ Voor de toepassing van de artikelen 223 tot en met 231 kan de Commissie overgaan
 
 3. Behoudens bijzondere bepalingen in dit hoofdstuk die voorzien in andere data of termijnen, verstrijkt de toepassing van de overgangsmaatregelen voor de in lid 1 bedoelde landbouwprodukten eind 1995.
 
-#### Artikel 234
+##### Artikel 234
 
 1. De toepassing van de communautaire regeling op produkten waarvoor het onderhavige hoofdstuk geldt, vindt plaats volgens een „klassieke” overgang of een overgang „in etappes” waarvan de algemene bepalingen respectievelijk in de afdelingen II en III zijn neergelegd en de specifieke bepalingen, afhankelijk van de sector van de produkten, in de afdelingen IV en V.
 
@@ -3394,13 +3419,13 @@ Deze bepalingen kunnen met name voorzien in adequate maatregelen ter voorkoming 
 
 #### Onderafdeling I. -Toepassingsgebieden
 
-#### Artikel 235
+##### Artikel 235
 
 Deze afdeling geldt voor alle landbouwprodukten bedoeld in artikel 233, met uitzondering van die welke in artikel 259 zijn bedoeld.
 
 #### Onderafdeling 2. - Aanpassing en compensatie van prijzen
 
-#### Artikel 236
+##### Artikel 236
 
 Tot aan de eerste van de in artikel 238 bedoelde prijsaanpassingen, worden de prijzen die in Portugal moeten worden toegepast, overeenkomstig de in de gemeenschappelijke marktordening van de betrokken sector neergelegde regels, vastgesteld op een peil dat overeenstemt met het peil van de prijzen die gedurende een voor elk produkt te bepalen representatieve periode in Portugal waren vastgesteld onder het voordien geldende nationale stelsel.
 
@@ -3410,13 +3435,13 @@ Indien voor een bepaald produkt geen omschrijving van de Portugese prijs bestaat
 
 Bij afwezigheid van gegevens omtrent de prijzen voor bepaalde produkten op de Portugese markt, wordt bij de berekening van de in Portugal toe te passen prijs evenwel uitgegaan van de prijzen in de Gemeenschap in haar huidige samenstelling voor soortgelijke produkten of groepen van produkten, of produkten waarmede zij concurreren.
 
-#### Artikel 237
+##### Artikel 237
 
 1. Indien op de datum van toetreding wordt geconstateerd dat het verschil tussen het prijspeil voor een produkt in Portugal en het peil van de gemeenschappelijke prijs van geringe betekenis is, kan de gemeenschappelijke prijs in Portugal worden toegepast voor het betrokken produkt.
 
 2. Het in lid 1 bedoelde verschil wordt van geringe betekenis geacht wanneer het 3% minder van de gemeenschappelijke prijs bedraagt.
 
-#### Artikel 238
+##### Artikel 238
 
 1. Indien de toepassing van artikel 236 in Portugal leidt tot een prijspeil dat afwijkt van het peil van de gemeenschappelijke prijzen, worden de prijzen ten aanzien waarvan in afdeling IV naar dit artikel wordt verwezen, behoudens het bepaalde in lid 4, elk jaar aan het begin van het verkoopseizoen overeenkomstig de leden 2 en 3, aangepast aan het peil van de gemeenschappelijke prijzen.
 
@@ -3438,11 +3463,11 @@ In dat geval geldt voor het volgende verkoopseizoen het prijspijl dat zou zijn v
 
 De in de eerste alinea bedoelde afwijking is niet van toepassing op de laatste aanpassing bedoeld in lid 2.
 
-#### Artikel 239
+##### Artikel 239
 
 Indien op de datum van toetreding of tijdens de toepassingsperiode van de overgangsmaatregelen de prijs op de wereldmarkt voor een bepaald produkt hoger is dan de gemeenschappelijke prijs, kan in Portugal de gemeenschappelijke prijs voor het betrokken produkt worden toegepast, behalve indien de in Portugal toegepaste prijs hoger is dan de gemeenschappelijke prijs.
 
-#### Artikel 240
+##### Artikel 240
 
 De verschillen in het peil van de prijzen waarvoor in afdeling IV naar dit artikel wordt verwezen, worden gecompenseerd volgens onder staande regels:
 
@@ -3462,11 +3487,11 @@ De verschillen in het peil van de prijzen waarvoor in afdeling IV naar dit artik
 
 - 6. De Raad kan, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen, voor zover zulks nodig is voor de goede werking van het gemeenschappelijk landbouwbeleid, afwijken van het bepaalde in artikel 211, lid 1, eerste alinea, voor de produkten waarop compenserende bedragen van toepassing zijn.
 
-#### Artikel 241
+##### Artikel 241
 
 Indien de prijs op de wereldmarkt voor een bepaald produkt hoger is dan de prijs die wordt aangehouden voor de berekening van de in het kader van het gemeenschappelijk landbouwbeleid ingestelde belasting bij invoer, verminderd met het compenserende bedrag dat wordt afgetrokken van de belasting bij invoer krachtens artikel 240, of wanneer de restitutie bij uitvoer naar derde landen lager is dan het compenserende bedrag of wanneer er geen restitutie wordt verleend, kunnen passende maatregelen worden getroffen om de goede werking van de gemeenschappelijke ordening der markten te waarborgen.
 
-#### Artikel 242
+##### Artikel 242
 
 1. De toegekende compenserende bedragen worden door de Gemeenschap gefinancierd ten laste van het Europees Oriëntatie- en Garantiefonds voor de Landbouw, afdeling „Garantie”.
 
@@ -3476,7 +3501,7 @@ Vanaf de tweede etappe worden de uitgaven voor interventies op de binnenlandse m
 
 #### Onderafdeling 3. - Vrij verkeer en douane-unie
 
-#### Artikel 243
+##### Artikel 243
 
 Ten aanzien van de produkten uit derde landen waarvan de invoer in de Gemeenschap in haar huidige samenstelling is onderworpen aan de toepassing van douanerechten, gelden de volgende bepalingen:
 
@@ -3654,7 +3679,7 @@ Ten aanzien van de produkten uit derde landen waarvan de invoer in de Gemeenscha
 
 - b). kan de Commissie de douanerechten die van toepassing zijn op uit Portugal ingevoerde produkten volledig of gedeeltelijk schorsen.
 
-#### Artikel 244
+##### Artikel 244
 
 1. In het handelsverkeer tussen Portugal en de andere Lid-Staten en tussen Portugal en derde landen is de regeling die in de Gemeenschap in haar huidige samenstelling van toepassing is inzake douanerechten en heffingen van gelijke werking en kwantitatieve beperkingen en maatregelen van gelijke werking, in Portugal van toepassing met ingang van 1 maart 1986, behoudens andersluidende bepalingen in dit hoofdstuk voor produkten die bij de toetreding onder een gemeenschappelijke marktordening vallen.
 
@@ -3666,7 +3691,7 @@ Deze bepaling geldt slechts tot het ogenblik waarop de gemeenschappelijke markto
 
 Voor zover hieruit geen moeilijkheden voortvloeien voor de toepassing van de communautaire regeling, met name voor de werking van de gemeenschappelijke ordening der markten en van de in dit hoofdstuk neergelegde overgangsregelingen, kan de Raad, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen, de Portugese Republiek machtigen in deze nomenclatuur de bestaande nationale onderverdelingen over te nemen die noodzakelijk zijn om te bewerkstelligen dat de geleidelijke aanpassing aan het gemeenschappelijk douanetarief of de afschaffing van rechten binnen de Gemeenschap plaatsvindt overeenkomstig de in deze Akte neergelegde voorwaarden.
 
-#### Artikel 245
+##### Artikel 245
 
 1. Tot en met 31 december 1992 kan de Portugese Republiek kwantitatieve beperkingen bij invoer uit derde landen van de in bijlage XXI bedoelde produkten toepassen.
 
@@ -3688,7 +3713,7 @@ De verhoging wordt aan elk contingent toegevoegd en de volgende verhoging wordt 
 
 #### Onderafdeling 4. - Steun
 
-#### Artikel 246
+##### Artikel 246
 
 1. Dit artikel is van toepassing op de steun, premies of andere soortgelijke bedragen die in het kader van het gemeenschappelijk landbouwbeleid zijn ingesteld en waarvoor in afdeling IV naar dit artikel wordt verwezen.
 
@@ -3706,7 +3731,7 @@ De verhoging wordt aan elk contingent toegevoegd en de volgende verhoging wordt 
 
 - d). De communautaire steun wordt in Portugal volledig toegepast aan het begin van het zevende verkoopseizoen of tijdvak van toepassing van de steun volgend op de toetreding.
 
-#### Artikel 247
+##### Artikel 247
 
 1. Onverminderd artikel 246 is de Portugese Republiek gemachtigd nationale steunmaatregelen waarvan de intrekking ongetwijfeld ernstige gevolgen zou hebben voor het prijspeil, zowel in het stadium van de produktie als van het verbruik, te handhaven. Dergelijke steunmaatregelen mogen echter alleen bij wijze van overgangsmaatregel en in beginsel op degressieve wijze worden gehandhaafd, uiterlijk tot het einde van het tijdvak waarin de overgangsmaatregelen van toepassing zijn.
 
@@ -3714,7 +3739,7 @@ De verhoging wordt aan elk contingent toegevoegd en de volgende verhoging wordt 
 
 3. Zo nodig kan tijdens het tijdvak waarin de overgangsmaatregelen worden toegepast, worden afgeweken van de in lid 2 bedoelde mate van degressiviteit.
 
-#### Artikel 248
+##### Artikel 248
 
 1. In uitzonderlijke en naar behoren gemotiveerde gevallen mag de Portugese Republiek ten laste van haar begroting tijdelijke steun voor de produktie wederinvoeren, mits deze steun onder het voordien geldende nationale stelsel wordt toegekend en de afschaffing ervan vóór de toetreding ernstige gevolgen voor de produktie blijkt te hebben gehad.
 
@@ -3724,7 +3749,7 @@ In voorkomend geval stelt de Raad, op voorstel van de Commissie, met gekwalifice
 
 #### Onderafdeling 5. - Aanvullende regeling voor het handelsverkeer
 
-#### Artikel 249
+##### Artikel 249
 
 1. Er wordt een aanvullende regeling ingesteld van toepassing op het handelsverkeer tussen de Gemeenschap in haar huidige samenstelling en Portugal, hierna ARH te noemen.
 
@@ -3736,7 +3761,7 @@ De lijst in bijlage XXII kan tijdens de eerste drie jaar volgend op de toetredin
 
 3. De Commissie legt aan het begin van elk jaar een verslag aan de Raad voor over de werking van de ARH tijdens het voorgaande jaar.
 
-#### Artikel 250
+##### Artikel 250
 
 1. Er wordt een ad hoc Comité ingesteld, bestaande uit vertegenwoordigers van de Lid-Staten en onder voorzitterschap van een vertegenwoordiger van de Commissie.
 
@@ -3750,7 +3775,7 @@ De lijst in bijlage XXII kan tijdens de eerste drie jaar volgend op de toetredin
 
 Indien de Raad na het verstrijken van een maand, te rekenen vanaf de datum waarop het voorstel bij hem is ingediend, geen maatregelen heeft vastgesteld, stelt de Commissie de voorgestelde maatregelen vast en past deze onmiddellijk toe, behoudens ingeval de Raad zich met eenvoudige meerderheid van stemmen tegen deze maatregelen heeft uitgesproken.
 
-#### Artikel 251
+##### Artikel 251
 
 1. Volgens de procedure van artikel 38 van Verordening nr. 136/66/ EEG of, naar gelang van het geval, van de overeenkomstige artikelen van de andere verordeningen houdende een gemeenschappelijke ordening der landbouwmarkten, wordt, in beginsel aan het begin van elk verkoopseizoen, een voorlopige balans opgesteld voor elk van de produkten of elke groep van produkten waarvoor de ARH geldt.
 
@@ -3762,7 +3787,7 @@ Voor de periode van 1 maart 1986 tot het begin van het verkoopseizoen 1986/1987 
 
 Te dien einde zal volgens de in lid 1 bedoelde procedure een jaarlijks stijgingspercentage van het plafond worden vastgesteld. In het kader van het globale indicatieve plafond kunnen plafonds worden vastgesteld die overeenkomen met de verschillende periodes van het betrokken verkoopseizoen.
 
-#### Artikel 252
+##### Artikel 252
 
 1. Indien uit het onderzoek naar de ontwikkeling van het intracommunautaire handelsverkeer blijkt dat de daadwerkelijke of de te verwachten invoer wezenlijk toeneemt en indien deze situatie ertoe leidt dat het indicatieve invoerplafond van het produkt voor het lopende verkoopseizoen of een gedeelte daarvan wordt bereikt of overschreden, besluit de Commissie, op verzoek van een Lid-Staat of op eigen initiatief, volgens een urgentieprocedure:
 
@@ -3790,7 +3815,7 @@ De onder b) bedoelde beperkende maatregelen mogen alleen genomen worden voor zov
 
 #### Onderafdeling 6. - Andere bepalingen
 
-#### Artikel 253
+##### Artikel 253
 
 Ten einde de structurele situatie in Portugal te verbeteren, zijn de volgende maatregelen van toepassing:
 
@@ -3804,11 +3829,11 @@ Ten einde de structurele situatie in Portugal te verbeteren, zijn de volgende ma
 
 De Raad stelt, overeenkomstig artikel 258, zo nodig, de in de eerste alinea bedoelde maatregelen of de modaliteiten van die maatregelen vast.
 
-#### Artikel 254
+##### Artikel 254
 
 Alle voorraden van produkten die zich op 1 maart 1986 op het grondgebied van Portugal in het vrije verkeer bevinden en die de normale overdrachtshoeveelheid overschrijden, moeten door de Portugese Republiek ten harer laste worden afgebouwd in het kader van nader te omschrijven communautaire procedures en binnen termijnen die volgens artikel 258 moeten worden vastgesteld. Het begrip „normale overdrachtshoe veelheden” wordt voor elk produkt gedefinieerd aan de hand van de criteria en doelstellingen van elke gemeenschappelijke marktonderneming.
 
-#### Artikel 255
+##### Artikel 255
 
 Bij het vaststellen van het peil van de verschillende bedragen waarin in het kader van het gemeenschappelijk landbouwbeleid is voorzien, andere dan de prijzen bedoeld in artikel 236, wordt rekening gehouden met het toegepaste compenserende bedrag, of, bij gebreke daarvan, met het geconstateerde of economisch gerechtvaardigde prijsverschil en, in voorkomend geval, met de invloed van de douanerechten, behalve:
 
@@ -3816,19 +3841,19 @@ Bij het vaststellen van het peil van de verschillende bedragen waarin in het kad
 
 - -. indien het voor de goede werking van het gemeenschappelijk landbouwbeleid noodzakelijk of wenselijk is dat dit bedrag, dit verschil of deze invloed niet in aanmerking wordt genomen.
 
-#### Artikel 256
+##### Artikel 256
 
 1. De Raad stelt, onder de voorwaarden bedoeld in artikel 258, de regeling vast die de Portugese Republiek ten opzichte van het Koninkrijk Spanje toepast.
 
 2. De maatregelen die in het handelsverkeer tussen de nieuwe Lid-Staten en de Gemeenschap in haar huidige samenstelling noodzakelijk zijn geworden voor de tenuitvoerlegging van de in lid 1 bedoelde regeling, worden, naar gelang van het geval, vastgesteld onder de voorwaarden bedoeld in artikel 258 of volgens de procedure van artikel 234, lid 2.
 
-#### Artikel 257
+##### Artikel 257
 
 1. Indien overgangsmaatregelen noodzakelijk zijn om de overgang van het in Portugal geldende stelsel naar het stelsel dat voortvloeit uit de toepassing van de gemeenschappelijke ordening der markten overeenkomstig het bepaalde in deze titel te vergemakkelijken, met name wanneer de toepassing van het nieuwe stelsel op de vastgestelde datum voor bepaalde produkten op aanzienlijke moeilijkheden in de Gemeenschap stuit, worden die maatregelen vastgesteld volgens de procedure van artikel 38 van Verordening nr. 136/66/EEG, of, naar gelang van het geval, van het overeenkomstig artikel van de andere verordeningen houdende een gemeenschappelijke ordening van de landbouwmarkten. Deze maatregelen kunnen worden genomen gedurende een tijdvak dat op 31 december 1987 afloopt; zij kunnen slechts tot deze datum worden toegepast.
 
 2. Op voorstel van de Commissie en na raadpleging van het Europese Parlement, kan de Raad de in lid 1 bedoelde periode met eenparigheid van stemmen verlengen.
 
-#### Artikel 258
+##### Artikel 258
 
 1. De door de toetreding noodzakelijk geworden overgangsmaatregelen met betrekking tot de toepassing van de besluiten betreffende het gemeenschappelijk landbouwbeleid welke niet in deze Akte zijn vermeld, met inbegrip van de overgangsmaatregelen op structuurgebied, worden vóór de toetreding vastgesteld volgens de procedure van lid 3 en treden ten vroegst op de datum van toetreding in werking.
 
@@ -3840,7 +3865,7 @@ Bij het vaststellen van het peil van de verschillende bedragen waarin in het kad
 
 #### Onderafdeling 1. - Toepassingsgebied
 
-#### Artikel 259
+##### Artikel 259
 
 1. De overgang in etappes geldt voor produkten die onder de volgende akten vallen:
 
@@ -3864,7 +3889,7 @@ Bij het vaststellen van het peil van de verschillende bedragen waarin in het kad
 
 2. Voor glucose en lactose waarop Verordening (EEG) nr. 2730/75 van toepassing is en voor ovalbumine en lactalbumine waarop Verordening (EEG) nr. 2783/75 van toepassing is, geldt dezelfde overgangsregeling als die welke van toepassing is op de overeenkomstige landbouwprodukten.
 
-#### Artikel 260
+##### Artikel 260
 
 1. De overgang in etappes omvat twee periodes van vijf jaar:
 
@@ -3880,7 +3905,7 @@ De overgang van de eerste naar de tweede etappe verloopt automatisch.
 
 #### A). Interne Portugese markt
 
-#### Artikel 261
+##### Artikel 261
 
 1. Gedurende de eerste etappe mag de Portugese Republiek voor de in artikel 259 bedoelde produkten, onder de voorwaarden neergelegd in de artikelen 262 tot en met 265, en onder voorbehoud van de bijzondere bepalingen van de afdeling betreffende bepaalde produkten, de voordien geldende nationale regeling voor de ordening van haar interne landbouwmarkt handhaven.
 
@@ -3888,11 +3913,11 @@ De overgang van de eerste naar de tweede etappe verloopt automatisch.
 
 Voorts wordt, behoudens andersluidende bepalingen in specifieke gevallen, de toepassing ten aanzien van de Gemeenschap in haar huidige samenstelling en de Portugese Republiek van de wijzigingen die krachtens artikel 396 zijn aangebracht in de communautaire regeling, uitgesteld tot het einde van de eerste etappe.
 
-#### Artikel 262
+##### Artikel 262
 
 Ten einde de Portugese landbouw in staat te stellen aan het einde van de eerste etappe harmonisch te integreren in het gemeenschappelijk landbouwbeleid, past de Portugese Republiek de organisatie van haar markt geleidelijk aan aan de hand van een aantal algemene doelstellingen, aangevuld met specifieke doelstellingen per sector.
 
-#### Artikel 263
+##### Artikel 263
 
 1. De in artikel 262 bedoelde algemene doelstellingen bestaan in de verwezenlijking van:
 
@@ -3912,7 +3937,7 @@ Ten einde de Portugese landbouw in staat te stellen aan het einde van de eerste 
 
 De Raad stelt, overeenkomstig artikel 258, zo nodig, de in de eerste alinea bedoelde maatregelen of de modaliteiten van die maatregelen vast.
 
-#### Artikel 264
+##### Artikel 264
 
 1. De in artikel 262 bedoelde specifieke doelstellingen staan voor elke sector van produkten in afdeling V.
 
@@ -3934,7 +3959,7 @@ De Raad stelt, overeenkomstig artikel 258, zo nodig, de in de eerste alinea bedo
 
 - d). Met inachtneming inzonderheid van de beraadslagingen van de Raad over de onder c) bedoelde verslagen, kan de Commissie zo nodig aanbevelingen tot de Portugese Republiek richten met betrekking tot de acties die moeten worden ondernomen met het oog op de verwezenlijking van de betrokken doelstellingen.
 
-#### Artikel 265
+##### Artikel 265
 
 Gedurende de eerste etappe past de Portugese Republiek de volgende disciplines toe:
 
@@ -3964,7 +3989,7 @@ Gedurende de eerste etappe past de Portugese Republiek de volgende disciplines t
 
 - -. het overnemen van het „acquis communautaire” aan het begin van de tweede etappe bemoeilijkt wordt.
 
-#### Artikel 266
+##### Artikel 266
 
 1. Uiterlijk vóór het einde van de eerste etappe:
 
@@ -3976,11 +4001,11 @@ Gedurende de eerste etappe past de Portugese Republiek de volgende disciplines t
 
 #### B). Regeling die van toepassing is in het handelsverkeer tussen de Gemeenschap in haar huidige samenstelling en Portugal
 
-#### Artikel 267
+##### Artikel 267
 
 Onder voorbehoud van de artikelen 268 tot en met 276 en van afdeling V, mag de Portugese Republiek in haar handelsverkeer met de Gemeenschap in haar huidige samenstelling gedurende de eerste etappe en voor de in artikel 259 bedoelde produkten de regeling handhaven die vóór de teotreding zowel bij invoer als bij uitvoer gold voor dit handelsverkeer.
 
-#### Artikel 268
+##### Artikel 268
 
 1. Behoudens lid 2, schaft de Portugese Republiek op 1 maart 1986 de heffing van douanerechten en heffingen van gelijke werking bij invoer van produkten uit de Gemeenschap in haar huidige samenstelling af.
 
@@ -4078,7 +4103,7 @@ Niettemin:
 
 Behoudens andersluidende bepalingen in dit artikel of in artikel 243, punt 4, zijn de artikelen 189 tot en met 195 eveneens van toepassing.
 
-#### Artikel 269
+##### Artikel 269
 
 1. Onder voorbehoud van lid 2 schaft de Portugese Republiek met ingang van 1 maart 1986 de toepassing af van alle kwantitatieve beperkingen en alle maatregelen van gelijke werking bij invoer van de in artikel 259 bedoelde produkten uit de Gemeenschap in haar oorspronkelijke samenstelling.
 
@@ -4096,7 +4121,7 @@ Behoudens andersluidende bepalingen in dit artikel of in artikel 243, punt 4, zi
 
 - e). Voor het tijdvak van 1 maart tot en met 31 december 1986 is het toepasselijke contingent gelijk aan het oorspronkelijke contingent, verminderd met één zesde.
 
-#### Artikel 270
+##### Artikel 270
 
 1. Gedurende de eerste etappe past de Portugese Republiek op de invoer van de in artikel 259 bedoelde produkten uit de Gemeenschap in haar huidige samenstelling een stelsel toe van prijsegalisatie of van specifieke bescherming zoals dat van de communautaire regeling voor de invoer uit derde landen. Dit stelsel moet berusten op criteria die identiek zijn aan die welke in de communautaire regeling worden gehanteerd om de parameters van de prijsegalisatie of van het niveau van de specifieke bescherming te bepalen.
 
@@ -4108,7 +4133,7 @@ In het kader van het in artikel 264, lid 2, onder c), tweede streepje, bedoelde 
 
 Na onderzoek zendt de Commissie deze mededeling aan de andere Lid-Staten toe.
 
-#### Artikel 271
+##### Artikel 271
 
 Gedurende de eerste etappe kan de Portugese Republiek voor de in artikel 259 bedoelde produkten die worden uitgevoerd naar de huidige Lid-Staten, steun of uitvoersubsidie toekennen.
 
@@ -4116,7 +4141,7 @@ Het bedrag van deze eventuele steun of subsidies is evenwel beperkt tot ten hoog
 
 De vaststelling van deze steun of subsidies mag pas plaatsvinden nadat de raadplegingsprocedure van artikel 276 is afgewikkeld.
 
-#### Artikel 272
+##### Artikel 272
 
 1. Gedurende de eerste etappe en onder voorbehoud van de artikelen 268, lid 2, onder a), en 316, past de Gemeenschap in haar huidige samenstelling bij invoer van de in artikel 259 bedoelde produkten uit Portugal de regeling toe die zij vóór de toetreding ten opzichte van Portugal toepaste.
 
@@ -4124,13 +4149,13 @@ De vaststelling van deze steun of subsidies mag pas plaatsvinden nadat de raadpl
 
 3. In het handelsverkeer tussen de Gemeenschap in haar huidige samenstelling en derde landen blijven gedurende de eerste etappe de gegevens betreffende de Portugese markt buiten beschouwing bij de berekening van de gemeenschappelijke prijzen die dienen voor de vaststelling van de bij invoer te heffen bedragen.
 
-#### Artikel 273
+##### Artikel 273
 
 1. Gedurende de eerste etappe wordt het element ter bescherming van de verwerkende industrie dat in aanmerking wordt genomen bij de berekening van de lasten ter zake van invoer uit derde landen voor produkten die vallen onder de gemeenschappelijke ordening der markten in de sector granen en de sector rijst, geheven bij invoer in Portugal voor de produkten uit de huidige Lid-Staten.
 
 2. In afwijking van lid 1 wordt het beschermende element dat tijdens de eerste etappe bij invoer in Portugal van de in Bijlage XXIV bedoelde produkten wordt geheven, naast elk dezer produkten vermeld.
 
-#### Artikel 274
+##### Artikel 274
 
 1. Onverminderd de toepassing van de algemene vrijwaringsclausule bedoeld in artikel 379, mag de Portugese Republiek vrijwaringsmaatregelen nemen bij de invoer van de in artikel 259 bedoelde produkten uit de huidige Lid-Staten, onder voorwaarden en aan de hand van criteria die vergelijkbaar zijn met die welke in het kader van elke gemeenschappelijke marktordening bestaan voor de toepassing van vrijwaringsmaatregelen ten aanzien van derde landen.
 
@@ -4140,7 +4165,7 @@ Deze procedure laat de toepasselijkheid van de beroepsmogelijkheden uit hoofde v
 
 3. Er mogen geen vrijwaringsmaatregelen worden genomen indien deze maatregelen niet ten minste terzelfdertijd ook van toepassing zijn op de invoer in Portugal van dezelfde produkten uit derde landen.
 
-#### Artikel 275
+##### Artikel 275
 
 1. Gedurende de eerste etappe past de Gemeenschap in haar huidige samenstelling op de invoer van de in artikel 259 bedoelde produkten naar Portugal de regeling toe die zij toepast op de uitvoer naar derde landen.
 
@@ -4150,7 +4175,7 @@ De vaststelling van deze restituties kan pas plaatsvinden nadat de raadplegingsp
 
 3. De in dit artikel bedoelde restituties worden door de Gemeenschap gefinancierd ten laste van het Europees Oriëntatie- en Garantiefonds voor de landbouw, afdeling „garantie”.
 
-#### Artikel 276
+##### Artikel 276
 
 De Portugese Republiek kan de in artikel 271 bedoelde steun of subsidies en de Gemeenschap kan de in artikel 275 bedoelde restituties pas toepassen indien vooraf overleg is gevoerd volgens de volgende procedure:
 
@@ -4172,13 +4197,13 @@ De Portugese Republiek kan de in artikel 271 bedoelde steun of subsidies en de G
 
 #### C). Regeling van toepassing in het handelsverkeer tussen Portugal en derde landen
 
-#### Artikel 277
+##### Artikel 277
 
 1. Voor de in artikel 259 bedoelde produkten en onder voorbehoud van de artikelen 272 tot en met 282, past de Portugese Republiek met ingang van 1 maart 1986 de in artikel 272, lid 3, bedoelde communautaire voorschriften toe betreffende de regeling die van toepassing is bij invoer in de Gemeenschap van uit derde landen ingevoerde produkten.
 
 2. De bij invoer toepasselijke heffingen worden in voorkomend geval evenwel verhoogd met het verschil tussen de in Portugal toepasselijke prijzen en de gemeenschappelijke prijzen.
 
-#### Artikel 278
+##### Artikel 278
 
 1. De Portugese Republiek past de rechten van het gemeenschappelijk douanetarief volledig toe met ingang van 1 maart 1986 voor de in artikel 259 bedoelde produkten, met uitzondering van de in bijlage XXV vermelde produkten waarvoor het gemeenschappelijk douanetarief uiterlijk aan het begin van de tweede etappe wordt toegepast.
 
@@ -4186,23 +4211,23 @@ De Portugese Republiek kan de in artikel 271 bedoelde steun of subsidies en de G
 
 Behoudens andersluidende bepalingen in dit artikel of in artikel 243, punt 4, zijn de artikelen 197 tot en met 201 eveneens van toepassing.
 
-#### Artikel 279
+##### Artikel 279
 
 De in artikel 273 bedoelde en in bijlage XXIV vermelde elementen ter bescherming van de verwerkende industrie vervangen, tijdens de eerste etappe, wat de door Portugal bij invoer uit derde landen te heffen belasting betreft, het communautaire beschermende element.
 
-#### Artikel 280
+##### Artikel 280
 
 Tot en met 31 december 1995 mag de Portugese Republiek, overeenkomstig volgens de procedure van artikel 258 te bepalen regels, kwantitatieve beperkingen handhaven bij invoer uit derde landen voor de in bijlage XXVI bedoelde produkten.
 
-#### Artikel 281
+##### Artikel 281
 
 De artikelen 270, lid 2, en 274 zijn mutatis mutandis van toepassing op het handelsverkeer tussen Portugal en derde landen.
 
-#### Artikel 282
+##### Artikel 282
 
 De Portugese Republiek mag de geleidelijke toepassing bij invoer van door de Gemeenschap aan bepaalde derde landen toegekende autonome of conventionele preferenties uitstellen tot het begin van de tweede etappe.
 
-#### Artikel 283
+##### Artikel 283
 
 1. Voor de in artikel 259 bedoelde produkten en onder voorbehoud van de in lid 2 van het onderhavige artikel bedoelde bepalingen, mag de Portugese Republiek gedurende de eerste etappe bij uitvoer naar derde landen de vóór de toetreding voor dit handelsverkeer geldende regeling handhaven.
 
@@ -4212,13 +4237,13 @@ Deze steun of subsidies mogen pas worden toegepast nadat de procedure van artike
 
 #### Onderafdeling 3. - De tweede etappe
 
-#### Artikel 284
+##### Artikel 284
 
 1. Met ingang van de tweede etappe zijn de communautaire voorschriften betreffende de in artikel 259 bedoelde produkten volledig van toepassing onder voorbehoud van de artikelen 239, 240, 241, 242, lid 1, 249 tot en met 253, 255, 256, 268, 279, 280, 285 tot en met 288, alsmede van de in afdeling V bedoelde specifieke bepalingen die voor bepaalde produkten gelden.
 
 2. Het overeenkomstig de voorschriften van artikel 240 bepaalde compenserende bedrag wordt in voorkomend geval evenwel gecorrigeerd ten belope van de invloed van de nationale steunmaatregelen die de Portugese Republiek krachtens artikel 286 mag handhaven.
 
-#### Artikel 285
+##### Artikel 285
 
 - a). Indien, overeenkomstig artikel 260, lid 1, de tweede etappe een looptijd van vijf jaar heeft, worden de in Portugal toe te passen prijzen tot aan de eerste van de in lid 2 van het onderhavige artikel bedoelde aanpassingen vastgesteld op het peil dat voortvloeit uit de toepassing van artikel 265, punt 1.
 
@@ -4254,7 +4279,7 @@ In dat geval geldt voor het volgende verkoopseizoen het prijspeil dat zou zijn v
 
 De in de eerste alinea bedoelde afwijking is niet van toepassing op de laatste aanpassing bedoeld in lid 3.
 
-#### Artikel 286
+##### Artikel 286
 
 1. Vanaf het begin van de tweede etappe zijn in Portugal de volgende bepalingen van toepassing:
 
@@ -4286,7 +4311,7 @@ De Commissie dient aan het begin van elk jaar een verslag in over de werking van
 
 - -. op 1 januari 1996 worden alle vaste elementen afgeschaft.
 
-#### Artikel 287
+##### Artikel 287
 
 1. In afwijking van artikel 240, punt 3, onder b), en artikel 284, worden in het handelsverkeer tussen Portugal en derde landen de heffingen of andere belastingen bij invoer die worden toegepast in het kader van het gemeenschappelijk landbouwbeleid, niet verminderd met de compenserende bedragen die van toepassing zijn in het handelsverkeer met de Gemeenschap in haar huidige samenstelling.
 
@@ -4294,7 +4319,7 @@ De Commissie dient aan het begin van elk jaar een verslag in over de werking van
 
 Met ingang van 1 januari 1996 past de Portugese Republiek het vaste element ter bescherming van de verwerkende industrie toe dat wordt gebruikt bij de berekening van de belasting bij invoer uit derde landen voor produkten die onder de gemeenschappelijke marktordening in de sector granen en de sector rijst vallen.
 
-#### Artikel 288
+##### Artikel 288
 
 De steun, premies of andere soortgelijke bedragen die in het kader van het gemeenschappelijk landbouwbeleid zijn ingesteld en waarvoor in afdeling V naar dit artikel wordt verwezen, worden in Portugal toegepast volgens de onderstaande bepalingen:
 
@@ -4322,7 +4347,7 @@ De steun, premies of andere soortgelijke bedragen die in het kader van het gemee
 
 - d). De communautaire steun wordt in Portugal volledig toegepast in 1995 aan het begin van het verkoopseizoen of het tijdvak van toepassing van de steun.
 
-#### Artikel 289
+##### Artikel 289
 
 1. De Portugese Republiek past vanaf het begin van de tweede etappe geleidelijk de door de Gemeenschap aan bepaalde derde landen toegekende autonome of conventionele preferenties toe.
 
@@ -4362,7 +4387,7 @@ De steun, premies of andere soortgelijke bedragen die in het kader van het gemee
 
 #### Onderafdeling I. - Oliën en vetten
 
-#### Artikel 290
+##### Artikel 290
 
 1. Voor olijfolie zijn de artikelen 236 en 240 van toepassing op de interventieprijs.
 
@@ -4376,7 +4401,7 @@ De steun, premies of andere soortgelijke bedragen die in het kader van het gemee
 
 4. Het compenserende bedrag dat voortvloeit uit de toepassing van artikel 240 wordt in voorkomend geval aangepast aan de hand van het verschil tussen de communautaire steunbedragen voor de consumptie die in de Gemeenschap in haar huidige samenstelling en in Portugal van toepassing zijn.
 
-#### Artikel 291
+##### Artikel 291
 
 1. Artikel 236 is van toepassing op de richtprijs van zonnebloemzaad.
 
@@ -4388,7 +4413,7 @@ Voor koolzaad, raapzaad, sojabonen en lijnzaad wordt de richt- of streefprijs di
 
 4. Tot en met 31 december 1990 worden in het handelsverkeer van produkten die zijn verwerkt op basis van plantaardige oliën, bestemd voor menselijke consumptie, met uitzondering van die op basis van olijfolie, passende maatregelen vastgesteld om rekening te houden met het verschil tussen de prijzen voor deze oliën in Portugal en in de Gemeenschap in haar huidige samenstelling.
 
-#### Artikel 292
+##### Artikel 292
 
 1. De Portugese Republiek past tot en met 31 december 1990 en volgens nader te bepalen regels een controleregeling toe:
 
@@ -4406,7 +4431,7 @@ De onder a) bedoelde controleregeling behelst de vervanging op 1 maart 1986 van 
 
 Deze wijzigingen worden vastgesteld volgens de procedure van artikel 38 van Verordening nr. 136/66/EEG.
 
-#### Artikel 293
+##### Artikel 293
 
 1. De communautaire steun voor de produktie van olijfolie wordt in Portugal ingevoerd aan het begin van het eerste verkoopseizoen volgend op de toetreding; de steun wordt, tijdens het tijdvak van toepassing van de overgangsmaatregelen, aangepast aan het peil van de in de Gemeenschap in haar huidige samenstelling toegekende steun, onder toepassing mutatis mutandis van artikel 246.
 
@@ -4426,7 +4451,7 @@ Bij het verstrijken van de in de vorige alinea bedoelde periode is de in Portuga
 
 4. Voorts wordt bij de berekening van de steun voor koolzaad, raapzaad en zonnebloemzaad rekening gehouden met het differentiële bedrag dat in voorkomend geval van toepassing is.
 
-#### Artikel 294
+##### Artikel 294
 
 Gedurende de verkoopseizoenen 1986/1987 tot en met 1994/1995 worden voor in Portugal geproduceerd kool-, raap- en zonnebloemzaad specifieke garantiedrempels vastgesteld.
 
@@ -4440,7 +4465,7 @@ Voor de volgende verkoopseizoenen worden deze specifieke garantiedrempels vastge
 
 Indien een specifieke garantiedrempel wordt overschreden, worden medeverantwoordelijkheidsboetes toegepast volgens soortgelijke regels als die welke in de Gemeenschap in haar huidige samenstelling worden toegepast en met hetzelfde plafond.
 
-#### Artikel 295
+##### Artikel 295
 
 1. De Portugese Republiek stelt de toepassing van de preferentiële regelingen welke door de Gemeenschap conventioneel of autonoom worden toegepast ten aanzien van derde landen in de sector olijfolie, oliehoudende zaden en vruchten en daarvan afgeleide produkten, uit tot het verstrijken van de in artikel 292 bedoelde controleregeling.
 
@@ -4460,41 +4485,41 @@ De Portugese Republiek past de preferentiële rechten volledig toe met ingang va
 
 #### Onderafdeling 2. - Tabak
 
-#### Artikel 296
+##### Artikel 296
 
 Artikel 236 en, in voorkomend geval, artikel 238 zijn van toepassing op de interventieprijs die voor elke soort of groep soorten is vastgesteld.
 
-#### Artikel 297
+##### Artikel 297
 
 De streefprijs die overeenkomt met de in artikel 296 bedoelde interventieprijs wordt in Portugal voor de eerste oogst die volgt op de toetreding vastgesteld op een peil dat de verhouding weergeeft tussen de streefprijsen de interventieprijs, overeenkomstig artikel 2, lid 2, tweede alinea, van Verordening (EEG) nr. 727/70 houdende de totstandbrenging van een gemeenschappelijke ordening der markten in de sector ruwe tabak.
 
 #### Onderafdeling 3. - Vlas en hennep
 
-#### Artikel 298
+##### Artikel 298
 
 Artikel 246 is van toepassing op de steun voor vezelvlas en hennep.
 
 #### Onderafdeling 4. - Hop
 
-#### Artikel 299
+##### Artikel 299
 
 De in artikel 12 van Verordening (EEG) nr. 1696/71 bedoelde steun voor hopproducenten wordt met ingang van de eerste oogst volgend op de toetreding volledig toegepast in Portugal.
 
 #### Onderafdeling 5. - Zaaigoed
 
-#### Artikel 300
+##### Artikel 300
 
 Artikel 246 is van toepassing op de steun voor het in artikel 3 van Verordening (EEG) nr. 2358/71 bedoelde zaaigoed.
 
 #### Onderafdeling 6. - Zijderupsen
 
-#### Artikel 301
+##### Artikel 301
 
 Artikel 246 is van toepassing op de steun voor zijderupsen.
 
 #### Onderafdeling 7. - Suiker en isoglucose
 
-#### Artikel 302
+##### Artikel 302
 
 1. De artikelen 236, 238 en 240 zijn van toepassing op de interventieprijs van witte suiker en op de basisprijs van suikerbieten.
 
@@ -4504,7 +4529,7 @@ Het compenserende bedrag wordt evenwel, voor zover zulks nodig is voor de goede 
 
 In dat geval worden de compenserende bedragen afgeleid van het compenserende bedrag dat van toepassing is op het betrokken basisprodukt, met behulp van nader te bepalen coëfficiënten.
 
-#### Artikel 303
+##### Artikel 303
 
 Gedurende het tijdvak van zeven jaar volgend op de toetreding is de heffing op ruwe rietsuiker van oorsprong uit Ivoorkust, Malawi, Zimbabwe en Swaziland die in Portugal wordt ingevoerd tot een maximum per jaar van 75000 ton uitgedrukt in witte suiker, gelijk aan het bedrag van een heffing op ruwe suiker die moet worden berekend overeenkomstig de voorschriften van de gemeenschappelijke marktordening en verminderd met het verschil tussen de drempelprijs en de interventieprijs van ruwe suiker.
 
@@ -4520,7 +4545,7 @@ kan de Portugese Republiek worden gemachtigd, volgens de procedure van artikel 4
 
 #### Onderafdeling 8. - Verwerkte groenten en fruit
 
-#### Artikel 304
+##### Artikel 304
 
 Voor de produkten die in aanmerking komen voor de steunregeling bedoeld in artikel 3 van Verordening (EEG) nr. 516/77 houdende een gemeenschappelijke ordening der markten in de sector van op basis van groenten en fruit verwerkte produkten zijn in Portugal de volgende bepalingen van toepassing:
 
@@ -4554,7 +4579,7 @@ Voor de produkten die in aanmerking komen voor de steunregeling bedoeld in artik
 
 - 6. Voor de toepassing van het onderhavige artikel verwijzen de minimumprijs en de steun die in de Gemeenschap in haar huidige samenstelling gelden, naar de bedragen die gelden in de Gemeenschap in haar huidige samenstelling, met uitzondering van Griekenland.
 
-#### Artikel 305
+##### Artikel 305
 
 De in Portugal toepasselijke minimumprijs en financiële compensatie bedoeld in de artikelen 2 en 3 van Verordening (EEG) nr. 2601/69 betreffende bijzondere maatregelen ten einde het verwerken van bepaalde variëteiten sinaasappelen te stimuleren en in de artikelen 1 en 2 van Verordening (EEG) nr. 1035/77 houdende bijzondere maatregelen voor de verbetering van de afzet van op basis van citroenen verwerkte produkten worden als volgt vastgesteld:
 
@@ -4566,7 +4591,7 @@ De in Portugal toepasselijke minimumprijs en financiële compensatie bedoeld in 
 
 #### Onderafdeling 9. - Gedroogde voedergewassen
 
-#### Artikel 306
+##### Artikel 306
 
 1. De op 1 maart 1986 in Portugal geldende streefprijs bedoeld in artikel 4 van Verordening (EEG) nr. 1117/78 houdende een gemeenschappelijke ordening der markten in de sector gedroogde voedergewassen, wordt vastgesteld op de grondslag van de verschillen tussen de prijzen van de produkten die bij wisselbouw concurreren in Portugal en in de Gemeenschap in haar huidige samenstelling gedurende een nader te bepalen referentieperiode.
 
@@ -4582,7 +4607,7 @@ Artikel 238 is van toepassing op de overeenkomstig de eerste alinea berekende st
 
 #### Onderafdeling 10. - Erwten, tuin- en veldbonen en niet-bittere lupine
 
-#### Artikel 307
+##### Artikel 307
 
 1. De steundrempelprijs van erwten, tuin- en veldbonen en niet-bittere lupine die worden gebruikt voor de vervaardiging van diervoeders en de streefprijs voor andere erwten, tuin- en veldbonen, die op 1 maart 1986 in Portugal van toepassing zijn, worden vastgesteld aan de hand van het verschil tussen de prijzen van de produkten die bij wisselbouw concurreren in Portugal en in de Gemeenschap in haar huidige samenstelling tijdens een nader te bepalen referentieperiode.
 
@@ -4600,7 +4625,7 @@ Onverminderd de toepassing van de eerste alinea, wordt het bedrag van de betrokk
 
 #### Onderafdeling 11. - Schape- en geitevlees
 
-#### Artikel 308
+##### Artikel 308
 
 In de sector schapevlees is artikel 236 van toepassing op de basisprijs.
 
@@ -4610,7 +4635,7 @@ In de sector schapevlees is artikel 236 van toepassing op de basisprijs.
 
 #### A). Eerste etappe
 
-#### Artikel 309
+##### Artikel 309
 
 De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etappe door de Portugese Republiek moeten worden verwezenlijkt in de sector melk en zuivelprodukten, zijn de volgende:
 
@@ -4632,7 +4657,7 @@ De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etapp
 
 #### B). Tweede etappe
 
-#### Artikel 310
+##### Artikel 310
 
 1. Tot aan de eerste aanpassing worden de in Portugal toepasselijke interventieprijzen voor boter en magere-melkpoeder berekend volgens de voorschriften van en op de grondslag van de gegevens die in aanmerking worden genomen in de gemeenschappelijke marktordening.
 
@@ -4644,7 +4669,7 @@ Indien de interventieprijzen die van toepassing zijn in het continentale gedeelt
 
 De artikelen 240, leden 2 tot en met 6, 241, 242 en 255 zijn van toepassing.
 
-#### Artikel 311
+##### Artikel 311
 
 Het compenserende bedrag voor andere zuivelprodukten dan boter en magere-melkpoeder wordt vastgesteld met behulp van nader te bepalen coëfficiënten.
 
@@ -4652,7 +4677,7 @@ Het compenserende bedrag voor andere zuivelprodukten dan boter en magere-melkpoe
 
 #### A). Eerste etappe
 
-#### Artikel 312
+##### Artikel 312
 
 De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etappe door de Portugese Republiek moeten worden verwezenlijkt in de sector rundvlees, zijn de volgende:
 
@@ -4670,7 +4695,7 @@ De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etapp
 
 #### B). Tweede etappe
 
-#### Artikel 313
+##### Artikel 313
 
 1. In de sector rundvlees zijn de artikelen 240, 285 en 287 van toepassing op de interventie-aankoopprijzen in Portugal en in de Gemeenschap in haar huidige samenstelling welke gelden voor vergelijkbare kwaliteiten vastgesteld aan de hand van het communautaire indelingsschema voor geslachte volwassen runderen.
 
@@ -4678,7 +4703,7 @@ De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etapp
 
 3. Het compenserende bedrag voor de andere in artikel 1, lid 1, onder a), van Verordening (EEG) nr. 805/68 bedoelde produkten wordt vastgesteld met behulp van nader te bepalen coëfficiënten.
 
-#### Artikel 314
+##### Artikel 314
 
 Artikel 288 is van toepassing op de premie voor het aanhouden van het zoogdierenbestand.
 
@@ -4686,7 +4711,7 @@ Artikel 288 is van toepassing op de premie voor het aanhouden van het zoogdieren
 
 #### A). Eerste etappe
 
-#### Artikel 315
+##### Artikel 315
 
 1. De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etappe door de Portugese Republiek moeten worden verwezenlijkt in de sector groenten en fruit, zijn de volgende:
 
@@ -4704,7 +4729,7 @@ Artikel 288 is van toepassing op de premie voor het aanhouden van het zoogdieren
 
 2. Ten einde de producenten of hun organisaties ertoe aan te zetten produkten in de handel te brengen die aan de kwaliteitsnormen voldoen, neemt de Portugese Republiek tijdens de eerste etappe via passende steun deel in de kosten van de verpakking van deze produkten.
 
-#### Artikel 316
+##### Artikel 316
 
 In afwijking van artikel 272, lid 1, wordt de door de Gemeenschap in huidige samenstelling ten opzichte van Portugal toegepaste referentieprijs vastgesteld overeenkomstig de bepalingen van Verordening (EEG) nr.: 1035/72 zoals die op 31 december 1985 geldt.
 
@@ -4720,13 +4745,13 @@ Eventuele compenserende heffingen bij invoer van produkten uit Portugal welke vo
 
 #### B). Tweede etappe
 
-#### Artikel 317
+##### Artikel 317
 
 In de sector groenten en fruit is artikel 285 van toepassing op de basisprijs.
 
 Artikel 255 is eveneens van toepassing in deze sector.
 
-#### Artikel 318
+##### Artikel 318
 
 Tijdens de tweede etappe wordt bij invoer in de Gemeenschap in haar huidige samenstelling een compensatiemechanisme ingesteld voor groten en fruit van herkomst uit Portugal waarvoor ten opzichte van derde landen een referentieprijs wordt vastgesteld.
 
@@ -4760,7 +4785,7 @@ Tijdens de tweede etappe wordt bij invoer in de Gemeenschap in haar huidige same
 
 #### A). Eerste etappe
 
-#### Artikel 319
+##### Artikel 319
 
 De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etappe door de Portugese Republiek moeten worden verwezenlijkt in de sector granen, zijn de volgende:
 
@@ -4774,7 +4799,7 @@ De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etapp
 
 - e). totstandbrenging van een informatiedienst betreffende de landbouwmarkten met het oog op het noteren van de prijzen alsmede een passende opleiding van de administratieve diensten, welke elementen onmisbaar zijn voor de goede werking van de gemeenschappelijke marktordening.
 
-#### Artikel 320
+##### Artikel 320
 
 1. Tijdens de eerste vier jaar volgend op de toetreding gaat de Portugese Republiek geleidelijk over tot aanpassing van het monopolie van de EPAC voor de invoer en de afzet van granen in Portugal, zodat aan het einde van het vierde jaar elke vorm van discriminatie tussen onderdanen van de Lid-Staten voor wat betreft de voorzienings- en afzetvoorwaarden is uitgesloten.
 
@@ -4798,19 +4823,19 @@ Aan het einde van het verkoopseizoen 1988/1989 wordt een tussentijdse balans opg
 
 #### B). Tweede etappe
 
-#### Artikel 321
+##### Artikel 321
 
 In de sector granen zijn de artikelen 240, 285 en 287 van toepassing op de interventieprijzen.
 
 De artikelen 241, 242 en 255 zijn eveneens van toepassing in deze sector.
 
-#### Artikel 322
+##### Artikel 322
 
 1. Voor granen waarvoor geen interventieprijs wordt vastgesteld, wordt het toepasselijke compenserende bedrag afgeleid van het compenserende bedrag dat geldt voor gerst, met inachtneming van de verhouding tussen de drempelprijzen van de desbetreffende granen.
 
 2. Voor de in artikel 1, onder c) en d), van Verordening (EEG) nr. 2727/75 houdende een gemeenschappelijke ordening der markten in de sector granen bedoelde produkten wordt het compenserende bedrag afgeleid van het compenserende bedrag dat van toepassing is op de graansoorten waarvan deze produkten zijn gemaakt, met behulp van nader te bepalen coëfficiënten.
 
-#### Artikel 323
+##### Artikel 323
 
 Artikel 288 is van toepassing op de in artikel 10 van Verordening (EEG) nr. 2727/75 bedoelde steun voor durum tarwe.
 
@@ -4818,7 +4843,7 @@ Artikel 288 is van toepassing op de in artikel 10 van Verordening (EEG) nr. 2727
 
 #### A). Eerste etappe
 
-#### Artikel 324
+##### Artikel 324
 
 De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etappe door de Portugese Republiek moeten worden verwezenlijkt in de sector varkensvlees, zijn de volgende:
 
@@ -4836,7 +4861,7 @@ De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etapp
 
 #### B). Tweede etappe
 
-#### Artikel 325
+##### Artikel 325
 
 1. In de sector varkensvlees wordt het compenserende bedrag berekend op basis van de compenserende bedragen die gelden voor voedergranen. Te dien einde wordt bij de berekening van het compenserende bedrag dat per kilogram geslachte varkens van toepassing is, uitgegaan van de compenserende bedragen die van toepassing zijn op de hoeveelheid voedergranen die nodig is om in de Gemeenschap een kilogram varkensvlees te produceren.
 
@@ -4850,7 +4875,7 @@ Indien dit bedrag niet representatief is, zijn evenwel de artikelen 240, 285 en 
 
 #### A). Eerste etappe
 
-#### Artikel 326
+##### Artikel 326
 
 De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etappe door de Portugese Republiek moeten worden verwezenlijkt in de sector eieren, zijn de volgende:
 
@@ -4864,7 +4889,7 @@ De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etapp
 
 #### B). Tweede etappe
 
-#### Artikel 327
+##### Artikel 327
 
 1. De artikelen 240, 241, 242 en 255 zijn in de sector eieren van toepassing onder voorbehoud van de onderstaande leden.
 
@@ -4878,13 +4903,13 @@ De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etapp
 
 #### A). Eerste etappe
 
-#### Artikel 328
+##### Artikel 328
 
 De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etappe door de Portugese Republiek moeten worden verwezenlijkt in de sector geslacht pluimvee, zijn dezelfde als die welke in artikel 326 worden vermeld voor eieren.
 
 #### B). Tweede etappe
 
-#### Artikel 329
+##### Artikel 329
 
 1. De artikelen 240, 241, 242 en 255 zijn in de sector slachtpluimvee van toepassing onder voorbehoud van de onderstaande leden.
 
@@ -4898,11 +4923,11 @@ De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etapp
 
 #### A). Eerste etappe
 
-#### Artikel 330
+##### Artikel 330
 
 De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etappe door de Portugese Republiek moeten worden verwezenlijkt in de sector rijst, zijn dezelfde als die welke in artikel 319 worden vermeld voor granen.
 
-#### Artikel 331
+##### Artikel 331
 
 1. De Portugese Republiek past tijdens de eerste etappe het monopolie van de EPAC voor de invoer en afzet van rijst in Portugal geleidelijk aan, zodat bij het verstrijken van de eerste etappe elke vorm van discriminatie tussen onderdanen van de Lid-Staten voor wat betreft de voorzienings- en afzetvoorwaarden is uitgesloten.
 
@@ -4910,7 +4935,7 @@ De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etapp
 
 #### B). Tweede etappe
 
-#### Artikel 332
+##### Artikel 332
 
 1. In de sector rijst zijn de artikelen 240, 285 en 287 van toepassing op de interventieprijs voor padie.
 
@@ -4930,7 +4955,7 @@ De artikelen 241, 242 en 255 zijn eveneens van toepassing in deze sector.
 
 #### A). Eerste etappe
 
-#### Artikel 333
+##### Artikel 333
 
 De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etappe door de Portugese Republiek moeten worden verwezenlijkt in de sector wijn, zijn de volgende:
 
@@ -4952,27 +4977,27 @@ De in artikel 264 bedoelde specifieke doelstellingen die tijdens de eerste etapp
 
 - i). tenuitvoerlegging, in het kader van de aanplantregeling, van het herstructurerings- en omschakelingsplan voor het Portugese wijnbouwareaal dat beantwoordt aan de doelstellingen van het gemeenschappelijk beleid inzake de wijnbouw.
 
-#### Artikel 334
+##### Artikel 334
 
 De Portugese Republiek neemt passende maatregelen om te voorkomen dat tijdens de eerste etappe de oppervlakte van het wijnbouwareaal dat wijn oplevert met een natuurlijk alcoholgehalte van 7% vol of minder, wordt uitgebreid.
 
-#### Artikel 335
+##### Artikel 335
 
 In afwijking van de communautaire regeling inzake het maximumgehalte aan zwaveldioxyde in wijn, mag de Portugese Republiek tijdens de eerste etappe op wijn die op haar grondgebied wordt geproduceerd, de grenswaarden toepassen die onder de voordien geldende nationale regeling werden goegepast.
 
 De Portugese Republiek stelt evenwel passende maatregelen vast om het gehalte aan zwaveldioxyde tijdens de eerste etappe geleidelijk te verlagen tot de communautaire niveaus, ten einde deze niveaus te bereiken aan het begin van de tweede etappe.
 
-#### Artikel 336
+##### Artikel 336
 
 Tijdens de eerste etappe stelt de Portugese Republiek op basis van de in artikel 333 bedoelde ampelografie- en synonimiestudie een indeling op van de wijnstokrassen van het Portugese areaal, overeenkomstig artikel 31 van Verordening (EEG) nr. 337/79 en de toepassingsbepalingen van laatstgenoemd artikel.
 
 #### B). Tweede etappe
 
-#### Artikel 337
+##### Artikel 337
 
 In de wijnbouwsector zijn de artikelen 285 en 287 van toepassing op de oriëntatieprijzen van tafelwijn.
 
-#### Artikel 338
+##### Artikel 338
 
 1. Er wordt een mechanisme van regulerende bedragen ingesteld bij invoer in de Gemeenschap in haar huidige samenstelling van de in lid 2 bedoelde produkten van herkomst uit Portugal waarvoor in het kader van de gemeenschappelijke marktordening een referentieprijs wordt vastgesteld.
 
@@ -4990,11 +5015,11 @@ Dit bedrag wordt op een zodanig peil vastgesteld dat een normale handelsstroom t
 
 5. Het toegekende regulerende bedrag wordt door de Gemeenschap gefinancierd ten laste van het Europese Oriëntatie- en Garantiefonds voor de Landbouw, afdeling „Garantie”.
 
-#### Artikel 339
+##### Artikel 339
 
 Artikel 288 is van toepassing op de steun voor het gebruik van druivemost en geconcentreerde druivemost met het oog op de vervaardiging van druivesap.
 
-#### Artikel 340
+##### Artikel 340
 
 1. De Portugese Republiek gaat tijdens de eerste etappe over tot afschaffing van het verbouwen op percelen van wijnstokrassen die tijdelijk zijn toegestaan volgens de overeenkomstig artikel 333 opgestelde indeling.
 
@@ -5004,7 +5029,7 @@ Tot het einde van de tweede etappe worden deze wijnstokrassen gelijk gesteld met
 
 3. In afwijking van artikel 49 van Verordening (EEG) nr. 337/79 mogen druiven van de krachtens leden 1 en 2 tijdelijk toegestane wijnstokrassen vóór het einde van de tweede etappe worden gebruikt voor de vervaardiging van de in dat artikel bedoelde produkten.
 
-#### Artikel 341
+##### Artikel 341
 
 Tot eind 1995 kunnen in het gebied van de „vinho verde” geproduceerde wijnen met een alcoholgehalte van minder dan 8,5% vol alleen in het produktiegebied onverpakt in het verkeer worden gebracht.
 
@@ -5014,17 +5039,17 @@ Voor deze wijn moet het effectieve alcoholgehalte op het etiket worden vermeld.
 
 #### Onderafdeling 1. - Veterinaire maatregelen
 
-#### Artikel 342
+##### Artikel 342
 
 Wat het handelsverkeer in vers vlees van pluimvee binnen haar grondgebied betreft, mag de Portugese Republiek de toepassing van Richtlijn 71/118/EEG inzake gezondheidsvraagstukken op het gebied van het handelsverkeer in vers vlees van pluimvee uitstellen tot en met uiterlijk 31 december 1988.
 
-#### Artikel 343
+##### Artikel 343
 
 De Portugese Republiek mag uiterlijk tot en met 31 december 1990 beperkingen handhaven bij de invoer van fokstieren van zuiver ras, indien de betrokken rassen niet voorkomen op de lijst van in Portugal toegestane rassen.
 
 #### Onderafdeling 2. - Maatregelen betreffende de wetgeving op het gebied van zaaizaad en pootgoed
 
-#### Artikel 344
+##### Artikel 344
 
 1. De Portugese Republiek mag de toepassing op haar grondgebied van de volgende richtlijnen uitstellen volgens onderstaand tijdschema:
 
@@ -5076,7 +5101,7 @@ De Portugese Republiek mag uiterlijk tot en met 31 december 1990 beperkingen han
 
 #### Onderafdeling 3. - Fytosanitaire maatregelen
 
-#### Artikel 345
+##### Artikel 345
 
 De Portugese Republiek mag de toepassing van Richtlijn 69/465/EEG betreffende de bestrijding van het aardappelcysteaaltje uiterlijk tot en met 31 december 1990 uitstellen.
 
@@ -5084,7 +5109,7 @@ De Portugese Republiek mag de toepassing van Richtlijn 69/465/EEG betreffende de
 
 ### Afdeling I. Algemene bepalingen
 
-#### Artikel 346
+##### Artikel 346
 
 1. Behoudens andersluidende bepalingen in dit hoofdstuk, zijn de voorschriften van deze Akte van toepassing op de sector visserij.
 
@@ -5092,15 +5117,15 @@ De Portugese Republiek mag de toepassing van Richtlijn 69/465/EEG betreffende de
 
 ### Afdeling II. Toegang tot de wateren en de visbestanden
 
-#### Artikel 347
+##### Artikel 347
 
 Met het oog op hun integratie in de communautaire regeling voor de instandhouding en het beheer van de visbestanden, ingesteld bij Verordening (EEG) nr. 170/83, geldt de in deze afdeling omschreven regeling voor de toegang tot de wateren die vallen onder de soevereiniteit of jurisdictie van de huidige Lid-Staten en die worden bestreken door de Internationale Raad voor het onderzoek van de zee (ICES), voor schepen die de vlag van Portugal voeren.
 
-#### Artikel 348
+##### Artikel 348
 
 Alleen de in artikel 349 bedoelde vaartuigen mogen visserijactiviteiten uitoefenen en zulks uitsluitend in de zones en onder de voorwaarden omschreven in dat artikel.
 
-#### Artikel 349
+##### Artikel 349
 
 1. De visserijactiviteiten van Portugese vaartuigen zijn beperkt tot de ICES-sectoren Vb, VI, VII en VIII a, b, d, met uitzondering, gedurende de periode vanaf de toetreding tot en met 31 december 1995, van de sector bezuiden 56°30' noorderbreedte, ten oosten van 12° westerlengte en benoorden 5O°3O' noorderbreedte, zulks binnen de grenzen en onder de voorwaarden vastgesteld in de leden 2 tot en met 4.
 
@@ -5116,11 +5141,11 @@ De technische voorschriften overeenkomende met die bedoeld in artikel 163, lid 3
 
 6. De toepassingsbepalingen van dit artikel worden vóór 1 januari 1986 vastgesteld volgens de procedure van artikel 14 van Verordening (EEG) nr. 170/83.
 
-#### Artikel 350
+##### Artikel 350
 
 Vóór 31 december 1992 dient de Commissie bij de Raad een verslag in over de situatie en de vooruitzichten van de visserij in de Gemeenschap aan de hand van de toepassing van de artikelen 349 en 351. Op basis van dit verslag worden de eventueel noodzakelijke aanpassingen van de in artikel 349 en artikel 351 bedoelde regeling met inbegrip van die inzake de toegang tot andere gebieden dan die welke in artikel 349, lid 1, zijn vermeld, vóór 31 december 1993 vastgesteld volgens de procedure van artikel 43 van het EEG-Verdrag; deze aanpassingen treden in werking op 1 januari 1996.
 
-#### Artikel 351
+##### Artikel 351
 
 1. Alleen de vaartuigen die de vlag voeren van een in dit artikel bedoelde huidige Lid-Staat mogen visserijactiviteiten uitoefenen in de wateren die onder de soevereiniteit en de jurisdictie van de Portugese Republiek vallen en zulks uitsluitend in de zones en onder de voorwaarden omschreven in de volgende leden.
 
@@ -5138,7 +5163,7 @@ De technische voorschriften overeenkomende met die bedoeld in artikel 163, lid 3
 
 6. De toepassingsbepalingen van dit artikel worden vóór 1 januari 1986 vastgesteld volgens de procedure van artikel 14 van Verordening (EEG) nr. 170/83.
 
-#### Artikel 352
+##### Artikel 352
 
 1. Met het oog op hun integratie in de communautaire regeling voor de instandhouding en het beheer van de visbestanden, ingesteld bij Verordening (EEG) nr. 170/83, geldt voor de toegang van vaartuigen die de vlag van Spanje voeren en die zijn ingeschreven en/of geregistreerd in een haven die ligt op het grondgebied waarop het gemeenschappelijk visserijbeleid van toepassing is, tot de wateren die onder de soevereiniteit of de jurisdictie van de Portugese Republiek vallen en die worden bestreken door de ICES en de COPACE, tot en met 31 december 1995 de in de leden 2 tot en met 9 omschreven regeling.
 
@@ -5168,13 +5193,13 @@ De technische voorschriften overeenkomende met die bedoeld in artikel 163, lid 3
 
 9. De maatregelen die genomen moeten worden met het oog op de naleving van de in dit artikel neergelegde reglementering door het bedrijfsleven, met inbegrip van de mogelijkheid om het betrokken vaartuig geen toestemming te verlenen om gedurende een bepaalde tijd te vissen, worden vóór 1 januari 1986 vastgesteld volgens de procedure van artikel 11 van Verordening (EEG) nr. 170/83.
 
-#### Artikel 353
+##### Artikel 353
 
 De in de artikelen 347 tot en met 350 omschreven regeling, met imbegrip van de aanpassingen die door de Raad krachtens artikel 350 kunnen worden vastgesteld, blijft van toepassing tot het verstrijken van de in artikel 8, lid 3, van Verordening (EEG) nr. 170/83 bedoelde periode.
 
 ### Afdeling III. Externe visbestanden
 
-#### Artikel 354
+##### Artikel 354
 
 1. Onmiddellijk bij de toetreding wordt het beheer van de visserijovereenkomsten tussen de Portugese Republiek en derde landen door de Gemeenschap waargenomen.
 
@@ -5182,7 +5207,7 @@ De in de artikelen 347 tot en met 350 omschreven regeling, met imbegrip van de a
 
 3. Zo spoedig mogelijk en in ieder geval vóór het verstrijken van de in lid 1 bedoelde overeenkomsten stelt de Raad, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen de passende besluiten vast voor het handhaven van de daaruit voortvloeiende visserijactiviteiten, met inbegrip van de mogelijkheid om bepaalde van deze overeenkomsten met ten hoogste een jaar te verlengen.
 
-#### Artikel 355
+##### Artikel 355
 
 1. De tariefvrijstellingen, -schorsingen of -contingenten die door de Portugese Republiek zijn verleend voor verse visserijprodukten van oorsprong uit Marokko en afkomstig van gemeenschappelijke visserijondernemingen van natuurlijke of rechtspersonen uit Portugal en uit Marokko bij rechtstreekse aanvoer in Portugal worden uiterlijk op 31 december 1992 afgeschaft.
 
@@ -5196,13 +5221,13 @@ De betrokken vaartuigen mogen in geen geval worden vervangen in geval van verkoo
 
 ### Afdeling IV. Gemeenschappelijke ordening der markten
 
-#### Artikel 356
+##### Artikel 356
 
 1. De oriëntatieprijzen die van toepassing zijn op sardines uit de Atlantische Oceaan enerzijds in Portugal en anderzijds in de Gemeenschap in haar huidige samenstelling worden aan elkaar aangepast overeenkomstig het bepaalde in lid 2, waarbij de eerste aanpassing plaatsvindt op 1 maart 1986.
 
 2. De oriëntatieprijzen die enerzijds in Portugal en anderzijds in de Gemeenschap in haar huidige samenstelling van toepassing zijn, worden in tien jaarlijkse etappes aangepast aan het peil van de oriëntatieprijs van sardines uit de Middellandse Zee, op de grondslag van de prijzen van 1984, achtereenvolgens met een tiende, een negende, een achtste, een zevende, een zesde, een vijfde, een kwart, een derde en de helft van het verschil tussen deze oriëntatieprijzen die vóór elke aanpassing van toepassing zijn; de prijzen die uit deze berekening voortvloeien worden naar evenredigheid gemoduleerd aan de hand van de eventuele aanpassing van de oriëntatieprijs voor het komende verkoopseizoen; de gemeenschappelijke prijs wordt toegepast vanaf de datum van de tiende aanpassing.
 
-#### Artikel 357
+##### Artikel 357
 
 1. Gedurende de in artikel 356 bedoelde periode waarin de prijzen worden aangepast, wordt een stelsel van toezicht ingesteld, gebaseerd op referentieprijzen die van toepassing zijn op de invoer van sardines uit de Atlantische Oceaan in de Gemeenschap in haar huidige samenstelling van herkomst uit Portugal.
 
@@ -5212,7 +5237,7 @@ De betrokken vaartuigen mogen in geen geval worden vervangen in geval van verkoo
 
 4. De toepassingsbepalingen van dit artikel worden vastgesteld volgens de procedure van artikel 33 van Verordening (EEG) nr. 3796/81.
 
-#### Artikel 358
+##### Artikel 358
 
 1. Onmiddellijk na de toetreding wordt voor de producenten van sardines uit de Gemeenschap in haar huidige samenstelling een stelsel van compenserende vergoedingen ingesteld in verband met de bijzondere regeling voor de aanpassing van de prijzen die voor deze vissoort geldt uit hoofde van artikel 356.
 
@@ -5220,13 +5245,13 @@ De betrokken vaartuigen mogen in geen geval worden vervangen in geval van verkoo
 
 3. De Raad stelt, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen vóór 31 december 1985 de toepassingsbepalingen van dit artikel vast.
 
-#### Artikel 359
+##### Artikel 359
 
 Gedurende de periode waarin de prijzen worden aangepast, worden de in artikel 12, lid 1, van Verordening (EEG) nr. 3796/81 bedoelde aanpassingscoëfficiënten die in 1984 golden voor sardines, niet gewijzigd.
 
 ### Afdeling V. Regeling voor het handelsverkeer
 
-#### Artikel 360
+##### Artikel 360
 
 1. In afwijking van artikel 190 worden de douanerechten bij invoer van de visserijprodukten van de posten 03.01, 03.02, 03.03, 05.15 A, 16.04, 16.05 en 23.01 B van het gemeenschappelijk douanetarief geleidelijk afgeschaft volgens onderstaand ritme:
 
@@ -5330,7 +5355,7 @@ Gedurende de periode waarin de prijzen worden aangepast, worden de in artikel 12
 
 De Portugese Republiek past het gemeenschappelijke douanetarief vanaf 1 januari 1993 volledig toe.
 
-#### Artikel 361
+##### Artikel 361
 
 1. Tot en met 31 december 1992 geldt voor de invoer in Portugal van de in bijlage XXVIII, onder a), vermelde produkten van herkomst uit de andere Lid-Staten de in het onderhavige artikel omschreven aanvullende regeling voor het handelsverkeer.
 
@@ -5344,7 +5369,7 @@ De Portugese Republiek past het gemeenschappelijke douanetarief vanaf 1 januari 
 
 6. De toepassingsbepalingen van dit artikel worden vastgesteld volgens de procedure van artikel 33 van Verordening (EEG) nr. 3796/81.
 
-#### Artikel 362
+##### Artikel 362
 
 Gedurende de periode waarin de douanerechten tussen de Gemeenschap in haar huidige samenstelling en Portugal geleidelijk worden afgeschaft, kunnen de volgende produkten van herkomst uit Portugal jaarlijks in de Gemeenschap in haar huidige samenstelling worden ingevoerd met volledige schorsing van de rechten van het gemeenschappelijk douanetarief binnen de onderstaande grenzen:
 
@@ -5356,7 +5381,7 @@ Gedurende de periode waarin de douanerechten tussen de Gemeenschap in haar huidi
 |   | ex F. Bonieten, makreel en ansjovis: |   |
 |   | - Makreel | 1 000 |
 
-#### Artikel 363
+##### Artikel 363
 
 1. Tot en met 31 december 1992 kan de Portugese Republiek voor de in bijlage XXIX vermelde produkten ten aanzien van derde landen kwantitatieve beperkingen handhaven binnen de grenzen en op de wijze als door de Raad, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen vastgesteld.
 
@@ -5366,7 +5391,7 @@ Gedurende de periode waarin de douanerechten tussen de Gemeenschap in haar huidi
 
 ### Afdeling I. Gemeenschappelijke handelspolitiek
 
-#### Artikel 364
+##### Artikel 364
 
 1. De Portugese Republiek handhaaft ten aanzien van derde landen kwantitatieve invoerbeperkingen voor de produkten die ten opzichte van de Gemeenschap in haar huidige samenstelling nog niet zijn geliberaliseerd. Zij verleent derde landen geen enkel ander voordeel ten opzichte van de Gemeenschap in haar huidige samenstelling wat de contingenten voor deze produkten betreft.
 
@@ -5394,7 +5419,7 @@ Wijzigingen van de regeling voor de invoer in Portugal van de in de eerste aline
 
 6. Ten einde te voldoen aan de verplichtingen die voor de Gemeenschap uit de Algemene Overeenkomst betreffende tarieven en handel voortvloeien ten opzichte van bij die Overeenkomst aangesloten landen met staatshandel, breidt de Portugese Republiek in voorkomend geval en voor zover noodzakelijk de liberalisatiemaatregelen die het ten aanzien van andere bij de Overeenkomst aangesloten derde landen moet treffen uit tot eerder genoemde landen, zulks met inachtneming van de overeengekomen overgangsmaatregelen.
 
-#### Artikel 365
+##### Artikel 365
 
 1. Met ingang van 1 maart 1986 past de Portugese Republiek het stelsel van algemene preferenties toe voor andere produkten dan die welke in bijlage II van het EEG-Verdrag zijn vermeld. Wat evenwel de in bijlage XXXI vermelde produkten betreft, past de Portugese Republiek zich tot en met 31 december 1992 geleidelijk aan aan de rechten van het stelsel van algemen preferenties, uitgaande van de basisrechten bedoeld in artikel 189, lid 2. Het ritme waarin deze aanpassingen plaatsvinden is gelijk aan het in artikel 197 bedoelde ritme.
 
@@ -5440,7 +5465,7 @@ Wijzigingen van de regeling voor de invoer in Portugal van de in de eerste aline
 
 ### Afdeling II. Overeenkomsten tussen de Gemeenschappen en bepaalde derde landen
 
-#### Artikel 366
+##### Artikel 366
 
 1. De Portugese Republiek past vanaf 1 januari 1986 de bepalingen van de in artikel 368 genoemde overeenkomsten toe.
 
@@ -5454,13 +5479,13 @@ In het bijzonder zijn op alle produkten waarvoor overgangsmaatregelen gelden met
 
 4. Deze overgangsmaatregelen die van toepassing zijn op de in artikel 368 genoemde landen, mogen er niet toe leiden dat deze landen door de Portugese Republiek minder gunstig worden behandeld dan andere derde landen. In het bijzonder mogen geen overgangsmaatregelen met betrekking tot kwantitatieve beperkingen ten aanzien van de in artikel 368 genoemde landen worden overwogen voor produkten die vrij zijn van dergelijke beperkingen, indien zij in Portugal uit andere landen worden ingevoerd.
 
-#### Artikel 367
+##### Artikel 367
 
 Indien de in artikel 366, lid 1, genoemde protocollen op 1 januari 1986 om redenen onafhankelijk van de wil van de Gemeenschap of de Portugese Republiek niet zijn gesloten, treft de Gemeenschap de nodige maatregelen om onmiddellijk bij de toetreding aan deze situatie het hoofd te bieden.
 
 In ieder geval wordt door de Portugese Republiek vanaf 1 januari 1986 op de in artikel 368 genoemde landen de meestbegunstigingsclausule toegepast.
 
-#### Artikel 368
+##### Artikel 368
 
 1. De artikelen 366 en 367 zijn van toepassing:
 
@@ -5470,13 +5495,13 @@ In ieder geval wordt door de Portugese Republiek vanaf 1 januari 1986 op de in a
 
 2. De regelingen die voortvloeien uit de op 31 oktober 1979 ondertekende tweede ACS-EEG-Overeenkomst en uit het op dezelfde datum ondertekende Akkoord betreffende de produkten die onder de bevoegdheid van de Europese Gemeenschap voor Kolen en Staal vallen, zijn niet van toepassing in de betrekkingen tussen de Portugese Republiek en de Staten in Afrika, het Caribische gebied en de Stille Oceaan.
 
-#### Artikel 369
+##### Artikel 369
 
 De Portugese Republiek zegt de op 4 januari 1960 ondertekende Overeenkomst tot oprichting van de Europese Vrijhandelsassociatie per 1 januari 1986 op.
 
 ### Afdeling III. Textiel
 
-#### Artikel 370
+##### Artikel 370
 
 1. Vanaf 1 januari 1986 past de Portugese Republiek de regeling van 20 december 1973 betreffende de internationale handel in textiel alsmede de door de Gemeenschap krachtens deze regeling of met andere derde landen gesloten bilaterale overeenkomsten toe. Over de protocollen inzake aanpassing van deze overeenkomsten wordt door de Gemeenschap met derde landen die partij zijn bij de overeenkomsten onderhandeld, ten einde te bewerkstelligen dat de uitvoer naar Portugal vrijwillig wordt beperkt voor zover het produkten en een oorsprong betreft waarvoor op de uitvoer naar de Gemeenschap beperkingen gelden.
 
@@ -5484,13 +5509,13 @@ De Portugese Republiek zegt de op 4 januari 1960 ondertekende Overeenkomst tot o
 
 ### Hoofdstuk 6. Financiële bepalingen
 
-#### Artikel 371
+##### Artikel 371
 
 1. Het besluit van 21 april 1970 betreffende de vervanging van de financiële bijdragen van de Lid-Staten door eigen middelen van de Gemeenschappen, hierna „besluit van 21 april 1970” te noemen, wordt toegepast overeenkomstig de artikelen 372 tot en met 375.
 
 2. Elke verwijzing naar het besluit van 21 april 1970 in de artikelen van dit hoofdstuk geldt als verwijzing naar het besluit van 7 mei 1985 betreffende het stelsel van eigen middelen van de Gemeenschappen vanaf de inwerkingtreding van dit laatste besluit.
 
-#### Artikel 372
+##### Artikel 372
 
 De „landbouwheffingen” genoemde ontvangsten, bedoeld in artikel 2, eerste alinea, onder a), van het besluit van 21 april 1970, omvatten eveneens de ontvangsten afkomstig van alle bedragen die worden vastgesteld bij invoer in het handelsverkeer tussen Portugal en de andere Lid-Staten en tussen Portugal en derde landen uit hoofde van de artikelen 233 tot en met 345, van artikel 210, lid 3, en van artikel 213.
 
@@ -5498,7 +5523,7 @@ Deze ontvangsten omvatten evenwel pas vanaf het begin van de tweede etappe de he
 
 In afwijking van het bepaalde in de tweede alinea, kan de Raad, op voorstel van de Commissie, met eenparigheid van stemmen voor het einde van de eerste etappe besluiten Portugal, binnen nader te bepalen grenzen en op een nader te bepalen wijze en voor een tijdvak van ten hoogste twee jaar, de ontvangsten uit de door Portugal op de invoer van granen uit de andere Lid-Staten toegepaste monetaire bedragen „toetreding” terug te betalen.
 
-#### Artikel 373
+##### Artikel 373
 
 De „douanerechten” genoemde ontvangsten, bedoeld in artikel 2, eerste alinea onder b), van het besluit van 21 april 1970, omvatten tot en met 31 december 1992 de douanerechten die worden berekend alsof de Portugese Republiek vanaf de toetreding in het handelsverkeer met derde landen de rechten toepaste die voortvloeien uit het gemeenschappelijk douanetarief en de verlaagde rechten die voortvloeien uit door de Gemeenschap toegepaste tarief preferenties. Voor de douanerechten inzake oliehoudende zaden en vruchten en daarvan afgeleide produkten die onder Verordening nr. 136/66/EEG vallen, alsmede voor landbouwprodukten waarvoor een overgangsregeling in etappes geldt uit hoofde van de artikelen 309 tot en met 341, geldt dezelfde regel tot en met 31 december 1995.
 
@@ -5510,7 +5535,7 @@ De Portugese Republiek berekent deze douanerechten maandelijks op de grondslag v
 
 Met ingang van 1 januari 1993 is het totaalbedrag van de vastgestelde douanerechten volledig verschuldigd. Wat betreft de in de artikelen 309 tot en met 341 bedoelde produkten waarvoor een overgangsregeling in etappes geldt, alsmede voor oliehoudende zaden en vruchten en daarvan afgeleide produkten die onder Verordening nr. 136/66/EEG vallen, is het totaalbedrag van deze rechten evenwel volledig verschuldigd met ingang van 1 januari 1996.
 
-#### Artikel 374
+##### Artikel 374
 
 Het bedrag van de rechten vastgesteld uit hoofde van de eigen middelen afkomstig uit de belasting over de toegevoegde waarde of de financiële bijdragen die berusten op het bruto nationaal produkt krachtens artikel 4, leden 1 tot en met 5, van het besluit van 21 april 1970 is volledig verschuldigd vanaf 1 januari 1986.
 
@@ -5532,29 +5557,29 @@ De Gemeenschap restitueert de Portugese Republiek uit hoofde van de uitgaven van
 
 Het percentage van deze degressive restitutie is niet van toepassing op het bedrag dat overeenstemt met het aandeel van Portugal in de financiering van de verlaging ten gunste van het Verenigd Koninkrijk bedoeld in artikel 3, lid 3, onder b), c) en d), van het besluit van de Raad van 7 mei 1985 betreffende het stelsel van de eigen middelen van de Gemeenschap.
 
-#### Artikel 375
+##### Artikel 375
 
 Om te voorkomen dat de terugbetaling van de voorschotten die vóór 1 januari 1986 door de Lid-Staten aan de Gemeenschap zijn verleend, ten laste komt van de Portugese Republiek, ontvangt de Portugese Republiek een financiële compensatie uit hoofde van deze terugbetaling.
 
 ### Hoofdstuk 7. Overige bepalingen
 
-#### Artikel 376
+##### Artikel 376
 
 In afwijking van artikel 60 van het EGKS-Verdrag en de toepassingsbepalingen daarvan, kunnen Portugese staalondernemingen in de autonome gebieden van de Azoren en Madeira tot en met 31 december 1992 een c.i.f.-prijs haven van bestemming toepassen die gelijk is aan een pariteitsprijs die op het continentale grondgebied van de Portugese Republiek geldt.
 
-#### Artikel 377
+##### Artikel 377
 
 Tot en met 31 december 1992 kan de Portugese Republiek, wat betreft de accijnzen op tabaksfabrikaten die zijn geproduceerd in de autonome gebieden van de Azoren en Madeira, afwijken van het bepaalde in artikel 95 van het EEG-Verdrag, zulks onder de voorwaarden die in bijlage XXXII zijn vastgesteld voor de toepassing van Richtlijn 72/464/EEG van de Raad van 19 december 1972.
 
 ## TITEL IV. ANDERE BEPALINGEN
 
-#### Artikel 378
+##### Artikel 378
 
 1. De in de lijst in bijlage XXXII van deze Akte genoemde besluiten zijn ten aanzien van de nieuwe Lid-Staten van toepassing op de wijze als bepaald in die bijlage.
 
 2. Naar aanleiding van een met redenen omkleed verzoek van het Koninkrijk Spanje of de Portugese Republiek kan de Raad, op voorstel van de Commissie, met eenparigheid van stemmen vóór 1 januari 1986 maatregelen nemen houdende tijdelijke afwijkingen van de besluiten van de Instellingen van de Gemeenschappen die tussen 1 januari 1985 en de datum van ondertekening van deze Akte zijn vastgesteld.
 
-#### Artikel 379
+##### Artikel 379
 
 1. Tot en met 31 december 1992 kan een nieuwe Lid-Staat, in geval van ernstige en mogelijk aanhoudende moeilijkheden in een sector van het economische leven, alsmede van moeilijkheden die de economische toestand van een bepaalde streek ernstig kunnen verstoren, machtiging vragen om vrijwaringsmaatregelen te nemen, waardoor de toestand werderom in evenwicht kan worden gebracht en de betrokken sector kan worden aangepast aan de economie van de gemeenschappelijke markt.
 
@@ -5572,7 +5597,7 @@ Wanneer op het gebied van de landbouw en de visserij, onverminderd het bepaalde 
 
 4. In geval van ernstige en mogelijk aanhoudende moeilijkheden op de arbeidsmarkt van het Groothertogdom Luxemburg, kan deze Staat machtiging vragen om volgens de procedure van lid 2, eerste en tweede alinea, en onder de in lid 3 neergelegde voorwaarden, tot en met 31 december 1995, in het kader van de nationale bepalingen inzake verandering van werkkring, tijdelijk vrijwaringsmaatregelen te nemen jegens werknemers die onderdaan zijn van een nieuwe Lid-Staat en na de datum waarop deze machtiging is verleend toestemming hebben gekregen om in het Groothertogdom te immigreren ten einde aldaar werkzaamheden in loondienst te verrichten.
 
-#### Artikel 380
+##### Artikel 380
 
 1. Indien de Commissie tot het verstrijken van de geldigheidsduur van de in deze Akte voor elk geval vastgestelde overgangsmaatregelen, op verzoek van een Lid-Staat of van enig andere belanghebbende en volgens procedurevoorschriften die de Raad onmiddelijk bij de toetreding, op voorstel van de Commissie, met gekwalificeerde stemmen vaststelt, constateert dat tussen de Gemeenschap in haar huidige samenstelling en de nieuwe Lid-Staten of tussen de nieuwe Lid-Staten onderling dumping wordt toegepast, doet zij aan degene of degenen die zich aan deze praktijken schuldig maken aanbevelingen ten einde daaraan een eind te maken.
 
@@ -5586,15 +5611,15 @@ Ingeval deze praktijken voortduren, machtigt de Commissie de benadeelde Lid-Staa
 
 ## TITEL I. HET IN WERKING STELLEN VAN DE INSTELLINGEN
 
-#### Artikel 381
+##### Artikel 381
 
 De Vergadering komt uiterlijk een maand na de toetreding bijeen. Zij brengt in haar Reglement van Orde de wijzigingen aan die noodzakelijk zijn geworden door deze toetreding.
 
-#### Artikel 382
+##### Artikel 382
 
 De Raad brengt in zijn Reglement van Orde de aanpassingen aan welke door de toetreding noodzakelijk zijn geworden.
 
-#### Artikel 383
+##### Artikel 383
 
 1. Onmiddellijk bij de toetreding wordt de Commissie aangevuld door de benoeming van drie extra leden en de aanwijzing van een zesde vice-voorzitter uit de leden van de uitgebreide Commissie. Het mandaat van de aldus benoemde leden eindigt terzelfder tijd als het mandaat van de leden die op het tijdstip van toetreding in functie zijn.
 
@@ -5604,7 +5629,7 @@ Het mandaat van de zesde vice-voorzitter eindigt op dezelfde datum als het manda
 
 3. De Commissie brengt in haar Reglement van Orde de aanpassingen aan welke door de toetreding noodzakelijk zijn geworden.
 
-#### Artikel 384
+##### Artikel 384
 
 1. Onmiddellijk bij de toetreding wordt het Hof van Justitie aangevuld door de benoeming van twee rechters.
 
@@ -5616,31 +5641,31 @@ Het mandaat van de zesde vice-voorzitter eindigt op dezelfde datum als het manda
 
 5. Voor het wijzen van vonnis in zaken die op 1 januari 1986 bij het Hof aanhangig zijn en waarvoor de mondelinge procedure vóór deze datum is geopend, komen het Hof in voltallige zitting of de Kamers bijeen in de samenstelling van voor de toetreding en passen zij het reglement voor de procesvoering toe zoals dit op 31 december 1985 gold.
 
-#### Artikel 385
+##### Artikel 385
 
 Onmiddellijk bij de toetreding wordt de Rekenkamer aangevuld door de benoeming van twee nieuwe leden. De ambtstermijn van de aldus benoemde leden loopt op 17 oktober 1987 af.
 
-#### Artikel 386
+##### Artikel 386
 
 Onmiddellijk bij de toetreding wordt het Economisch en Sociaal Comité aangevuld door de benoeming van drieëndertig leden die alle sectoren van het economische en sociale leven van de nieuwe Lid-Staten vertegenwoordigen. Het mandaat van de aldus benoemde leden eindigt terzelfder tijd als het mandaat van de leden die op het tijdstip van toetreding in functie zijn.
 
-#### Artikel 387
+##### Artikel 387
 
 Onmiddellijk bij de toetreding wordt het Raadgevend Comité van de Europese Gemeenschap voor Kolen en Staal aangevuld door de benoeming van extra leden. Het mandaat van de aldus benoemde leden eindigt terzelfder tijd als het mandaat van de leden die op het tijdstip van toetreding in functie zijn.
 
-#### Artikel 388
+##### Artikel 388
 
 Onmiddellijk bij de toetreding wordt het Wetenschappelijk en Technisch Comité aangevuld door de benoeming van vijf nieuwe leden. Het mandaat van de aldus benoemde leden eindigt op hetzelfde tijdstip als het mandaat van de leden die op het tijdstip van toetreding in functie zijn.
 
-#### Artikel 389
+##### Artikel 389
 
 Onmiddellijk bij de toetreding wordt het Monetair Comité aangevuld door de benoeming van leden die de nieuwe Lid-Staten vertegenwoordigen. Hun mandaat verstrijkt terzelfder tijd als het mandaat van de leden die op het tijdstip van toetreding in functie zijn.
 
-#### Artikel 390
+##### Artikel 390
 
 De door de toetreding noodzakelijk geworden aanpassingen van de Statuten en van de Reglementen van Orde van de bij de oorspronkelijke Verdragen ingestelde Comités geschieden zo spoedig mogelijk na de toetreding.
 
-#### Artikel 391
+##### Artikel 391
 
 1. Voor wat de in bijlage XXXIII vermelde Comités betreft, verstrijkt het mandaat der nieuwe leden tegelijk met dat van de leden die op het tijdstip van de toetreding zitting hebben in die Comités.
 
@@ -5648,15 +5673,15 @@ De door de toetreding noodzakelijk geworden aanpassingen van de Statuten en van 
 
 ## TITEL II. TOEPASSING VAN DE BESLUITEN DER INSTELLINGEN
 
-#### Artikel 392
+##### Artikel 392
 
 Vanaf het tijdstip van toetreding wordt ervan uitgegaan dat de richtlijnen en beschikkingen in de zin van artikel 189 van het EEG-Verdrag en van artikel 161 van het EGA-Verdrag, alsmede de aanbevelingen en beschikkingen in de zin van artikel 14 van het EGKS-Verdrag, eveneens tot de nieuwe Lid-Staten zijn gericht, en dat daarvan kennis is gegeven aan deze Staten, voor zover van deze richtlijnen, aanbevelingen en beschikkingen aan alle huidige Lid-Staten kennis is gegeven.
 
-#### Artikel 393
+##### Artikel 393
 
 De toepassing in elk der nieuwe Lid-Staten van de in de lijst die is opgenomen in bijlage XXXV van deze Akte voorkomende besluiten wordt uitgesteld tot de in die lijst vermelde data.
 
-#### Artikel 394
+##### Artikel 394
 
 1. Tot 1 maart 1986 worden uitgesteld:
 
@@ -5668,81 +5693,81 @@ De toepassing in elk der nieuwe Lid-Staten van de in de lijst die is opgenomen i
 
 3. Tot en met 28 februari 1986 is de regeling voor het handelsverkeer tussen een nieuwe Lid-Staat enerzijds en de Gemeenschap in haar huidige samenstelling, de andere nieuwe Lid-Staat of derde landen anderzijds, die welke vóór de toetreding van toepassing was.
 
-#### Artikel 395
+##### Artikel 395
 
 De nieuwe Lid-Staten stellen de maatregelen in werking die nodig zijn om vanaf het tijdstip van hun toetreding uitvoering te geven aan de richtlijnen en beschikkingen in de zin van artikel 189 van het EEG-Verdrag en van artikel 161 van het EGA-Verdrag alsmede aan de beschikkingen en aanbevelingen in de zin van artikel 14 van het EGKS-Verdrag, tenzij in de lijst die is opgenomen in bijlage XXXVI of in andere bepalingen van de onderhavige Akte een bepaalde termijn is vastgesteld.
 
-#### Artikel 396
+##### Artikel 396
 
 1. De niet in deze Akte of de bijlagen daarvan vervatte aanpassingen van de besluiten van de Instellingen der Gemeenschappen, die door de Instellingen vóór de toetreding worden verricht volgens de in lid 2 vastgestelde procedure ten einde die besluiten in overeenstemming te brengen met de bepalingen van de onderhavige Akte, met name die welke voorkomen in het vierde deel daarvan, treden onmiddellijk bij de toetreding in werking.
 
 2. De daartoe noodzakelijke teksten worden, op voorstel van de Commissie, door de Raad met gekwalificeerde meerderheid van stemmen, of door de Commissie vastgesteld, naargelang de oorspronkelijke besluiten door de ene dan wel door de andere Instelling zijn aangenomen.
 
-#### Artikel 397
+##### Artikel 397
 
 De vóór de toetreding aanvaarde teksten van de besluiten van de Instellingen der Gemeenschappen die door de Raad of de Commissie in de Spaanse en Portugese taal zijn vastgesteld, zijn vanaf het tijdstip van toetreding op gelijke wijze authentiek als de in de zeven huidige talen vastgestelde teksten. Zij worden in het Publikatieblad van de Europese Gemeenschappen bekendgemaakt, wanneer de teksten in de huidige talen aldus zijn bekendgemaakt.
 
-#### Artikel 398
+##### Artikel 398
 
 Van de op het tijdstip van toetreding bestaande overeenkomsten, besluiten en onderling samenhangende gedragingen die ingevolge de toetreding onder de werkingssfeer van artikel 65 van het EGKS-Verdrag vallen, moet aan de Commissie kennis worden gegeven binnen een termijn van ten hoogste drie maanden, te rekenen vanaf de toetreding. Alleen overeenkomsten en besluiten waarvan kennis is gegeven, blijven voorlopig van kracht totdat de Commissie heeft beslist.
 
-#### Artikel 399
+##### Artikel 399
 
 De wettelijke en bestuursrechtelijke bepalingen voor de bescherming van dr gezondheid van de bevolking en van de werknemers op het grondgebied van de nieuwe Lid-Staten tegen de aan ioniserende straling verbonden gevaren worden, overeenkomstig artikel 33 van het EGA-Verdrag, door deze Staten aan de Commissie medegedeeld binnen een termijn van drie maanden, te rekenen vanaf de toetreding.
 
 ## TITEL III. SLOTBEPALINGEN
 
-#### Artikel 400
+##### Artikel 400
 
 De aan deze Akte gehechte bijlagen I tot en met XXXVI en de Protocollen nr. 1 tot en met 25 maken daar een integrerend deel van uit.
 
-#### Artikel 401
+##### Artikel 401
 
 De Regering van de Franse Republiek zendt aan de Regeringen van het Koninkrijk Spanje en de Portugese Republiek een voor eensluidend gewaarmerkt afschrift toe van het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en van de verdragen waarbij dit Verdrag is gewijzigd.
 
-#### Artikel 402
+##### Artikel 402
 
 De Regering van de Italiaanse Republiek zendt aan de Regeringen van het Koninkrijk Spanje en de Portugese Republiek een voor eensluidend gewaarmerkt afschrift in de Deense, de Duitse, de Engelse, de Franse, de Griekse, de Ierse, de Italiaanse en de Nederlandse taal toe van het Verdrag tot oprichting van de Europese Economische Gemeenschap, het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie en de Verdragen tot wijziging of aanvulling daarvan, met inbegrip van de Verdragen betreffende de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en van de Helleense Republiek tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie.
 
 De teksten van deze Verdragen, die zijn opgesteld in de Spaanse en Portugese taal, worden aan de onderhavige Akte gehecht. Deze teksten zijn op gelijke wijze authentiek als de teksten van de in de eerste alinea genoemde Verdragen die zijn opgesteld in de huidige talen.
 
-#### Artikel 403
+##### Artikel 403
 
 De Secretaris-Generaal van de Raad van de Europese Gemeenschappen zal een voor eensluidend gewaarmerkt afschrift van de internationale overeenkomsten die zijn nedergelegd in het archief van het Secretariaat-Generaal, aan de Regeringen van de nieuwe Lid-Staten toezenden.
 
 ## DEEL EERSTE. AANPASSING VAN DE STATUTEN VAN DE EUROPESE INVESTERINGSBANK
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
 ## DEEL TWEEDE. ANDERE BEPALINGEN
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het Koninkrijk Spanje en de Portugese Republiek storten het bedrag van respectievelijk 91 339 340 Ecu en 12 040 186 Ecu, overeenkomende met hun aandeel in het kapitaal dat door de Lid-Staten op 1 januari 1986 is gestort, in vijf gelijke halfjaarlijkse termijnen die telkens vervallen op 30 april en 31 oktober. De eerste termijn dient te worden voldaan op de eerstvolgende van de twee genoemde data na de datum van toetreding.
 
@@ -5750,29 +5775,29 @@ Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
 3. De bedragen die moeten worden gestort uit hoofde van lid 1 en van het nog te storten gedeelte van de kapitaalsverhoging waartoe op 15 juni 1981 is besloten, stemmen overeen met de aandelen in het kapitaal die de nieuwe Lid-Staten moeten storten, berekend volgens de bepalingen van artikel 5 van het Protocol betreffende de statuten van de Bank, waarin het door de Lid-Staten te storten percentage werd vastgesteld op 10,17857639% van het geplaatste kapitaal vóór de in lid 2 bedoelde kapitaalsverhoging van 11 juni 1985.
 
-#### Artikel 9
+##### Artikel 9
 
 Het Koninkrijk Spanje en de Portugese Republiek dragen op de in artikel 8, lid 1, bedoelde data bij tot het reservefonds, de aanvullende reserve, de met reserves gelijk te stellen voorzieningen, alsmede het nog naar de reserves en voorzieningen over te boeken saldo van de verlies- en winstrekening, zoals deze zijn vastgesteld op 31 december van het jaar voorafgaande aan de toetreding en zoals deze voorkomen in de balans van de Bank, een en ander voor bedragen respectievelijk
 
-#### Artikel 10
+##### Artikel 10
 
 De in de artikelen 8 en 9 van dit Protocol bedoelde stortingen worden door het Koninkrijk Spanje en de Portugese Republiek verricht in hun vrij over te maken nationale valuta.
 
 Voor de berekening van de te storten bedragen wordt de koers voor de omrekening tussen de Ecu en de peseta respectievelijk de escudo gebruikt, die geldt op de laatste werkdag van de maand voorafgaande aan de betrokken stortingen. Deze berekeningswijze wordt ook gebruikt voor de aanpassing van het kapitaal als bedoeld in artikel 7 van het Protocol betreffende de statuten van de Bank, welke aanpassing ook van toepassing zal zijn op de reeds door het Koninkrijk Spanje en de Portugese Republiek verrichte stortingen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onmiddellijk bij de toetreding vult de Raad van Gouverneurs de Raad van Bewind aan door de benoeming van twee bewindvoerders aangewezen door het Koninkrijk Spanje en één bewindvoerder aangewezen door de Portugese Republiek, alsmede een plaatsvervanger aangewezen in onderlinge overeenstemming door het Koninkrijk Spanje en de Portugese Republiek.
 
 2. De ambtsperiode van de aldus benoemde bewindvoerders en plaatsvervanger loopt af aan het einde van de jaarvergadering van de Raad van Gouverneurs tijdens welke het jaarverslag over het boekjaar 1987 wordt behandeld.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Binnen drie maanden na de toetreding benoemt de Raad van Gouverneurs op voorstel van de Raad van Bewind de in artikel 7 van dit Protocol bedoelde zesde vice-president.
 
 2. De ambtsperiode van de aldus benoemde vice-president loopt af aan het einde van de jaarvergadering van de Raad van Gouverneurs tijdens welke het jaarverslag over het boekjaar 1987 wordt behandeld.
 
-#### Artikel 1
+##### Artikel 1
 
 1. De produkten van oorsprong uit de Canarische Eilanden of Ceuta en Melilla, alsmede de produkten van herkomst uit derde landen die op de Canarische Eilanden of in Ceuta en Melilla worden ingevoerd in het kader van de regelingen die aldaar op die produkten van toepassing zijn, worden bij het in het vrije verkeer brengen op het douanegebied van de Gemeenschap niet beschouwd als goederen die voldoen aan de voorwaarden van de artikelen 9 en 10 van het EEG-Verdrag, noch als goederen in het vrije verkeer in de zin van het EGKS-Verdrag.
 
@@ -5784,7 +5809,7 @@ Voor de berekening van de te storten bedragen wordt de koers voor de omrekening 
 
 5. Behoudens andersluidende bepalingen in de Toetredingsakte, met inbegrip van dit Protocol, past de Gemeenschap in haar handelsverkeer met de Canarische Eilanden en met Ceuta en Melilla voor de produkten die onder bijlage II van het EEG-Verdrag vallen, de algemene regeling toe welke zij toepast ten aanzien van derde landen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onder voorbehoud van de artikelen 3 en 4 van dit Protocol, geldt voor de produkten van oorsprong uit de Canarische Eilanden en uit Ceuta en Mililia, wanneer zij op het douanegebied van de Gemeenschap in het vrije verkeer worden gebracht, een vrijstelling van douanerechten onder de voorwaarden neergelegd in de leden 2 en 3.
 
@@ -5798,7 +5823,7 @@ Deze contingenten worden door de Raad op voorstel van de Commissie met gekwalifi
 
 Ten einde te voorkomen dat deze regeling in een of meer Lid-Staten economische moeilijkheden veroorzaakt vanwege het feit dat de ingevoerde tabaksfabrikaten naar een andere Lid-Staat worden doorgezonden, stelt de Commissie na raadpleging van de Lid-Staten alle noodzakelijke methoden van administratieve samenwerking vast.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor visserijprodukten van de posten 03.01, 03.02, 03.03, 05.15 A, 16.04, 16.05 en 23.01 B van het gemeenschappelijk douanetarief van oorsprong uit de Canarische Eilanden of uit Ceuta en Melilla, geldt onderstaande regeling in het kader van tariefcontingenten berekend per produkt en op de grondslag van het gemiddelde van de in de jaren 1982, 1983 en 1984 werkelijk afgezette hoeveelheden, onderscheidenlijk met als bestemming het gedeelte van Spanje dat deel uitmaakt van het douanegebied van de Gemeenschap enerzijds en de Gemeenschap in haar huidige samenstelling anderzijds.
 
@@ -5810,7 +5835,7 @@ Ten einde te voorkomen dat deze regeling in een of meer Lid-Staten economische m
 
 3. De Raad stelt, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen, jaarlijks de bepalingen vast betreffende de opening en de verdeling van de contingenten op de wijze bepaald in de leden 1 en 2. Voor 1986 besluit de Raad op een zodanig tijdstip dat opening en verdeling van de contingenten op 1 januari 1986 mogelijk is.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor landbouwprodukten vermeld in bijlage A en van oorsprong uit de Canarische Eilanden, geldt, onder de voorwaarden van dit artikel wanneer zij in het douanegebied van de Gemeenschap in het vrije verkeer worden gebracht, vrijstelling van douanerechten in het kader van tariefcontingenten berekend op de grondslag van het gemiddelde van de in de jaren 1982, 1983 en 1984 werkelijk afgezette hoeveelheden, onderscheidenlijk met als bestemming het gedeelte van Spanje dat deel uitmaakt van het douanegebied van de Gemeenschap enerzijds en de Gemeenschap in haar huidige samenstelling anderzijds:
 
@@ -5830,13 +5855,13 @@ De Raad stelt, op voorstel van de Commissie, met gekwalificeerde meerderheid van
 
 2. In afwijking van lid 2 van artikel 76 van de Toetredingsakte en tot de invoering van een gemeenschappelijke marktordening voor dit produkt, kan het Koninkrijk Spanje, voor zover zulks strikt noodzakelijk is voor handhaving van de nationale ordening, kwantitatieve invoerbeperkingen handhaven voor de onder a) bedoelde bananen, ingevoerd uit derde landen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de toepassing van de in artikel 2, lid 2, bedoelde regeling zou leiden tot een aanmerkelijke groei van de invoer van bepaalde produkten van oorsprong uit de Canarische Eilanden of uit Ceuta en Melilla, waardoor producenten in de Gemeenschap schade kunnen leiden, kan de Raad, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen de toegang van deze produkten tot het douanegebied van de Gemeenschap aan bijzondere voorwaarden onderwerpen.
 
 2. Indien, vanwege het niet toepassen van de gemeenschappelijke handelspolitiek en van het gemeenschappelijk douanetarief op de invoer van grondstoffen of van gedeeltelijk veredelde produkten op de Canarische Eilanden of in Ceuta en Melilla, de invoer van een produkt van oorsprong uit de Canarische Eilanden of uit Ceuta en Melilla ernstig nadeel veroorzaakt of dreigt te veroorzaken voor een produktieve activiteit die in een of meer Lid-Staten wordt uitgeoefend, kan de Commissie, op verzoek van een Lid-Staat of op eigen initiatief, passende maatregelen nemen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor produkten van oorsprong uit het douanegebied van de Gemeenschap geldt bij invoer op de Canarische Eilanden of in Ceuta en Melilla vrijstelling van douanerechten en van heffingen van gelijke werking, onder de voorwaarden neergelegd in de leden 2 en 3.
 
@@ -5848,15 +5873,15 @@ Deze heffing kan evenwel worden gehandhaafd bij de invoer van de produkten verme
 
 Het bedrag van deze heffing mag op geen enkel tijdstip hoger zijn dan het peil van het Spaanse douanetarief zoals aangepast met het oog op de geleidelijke invoering van het gemeenschappelijk douanetarief.
 
-#### Artikel 7
+##### Artikel 7
 
 De douanerechten en heffingen van gelijke werking als deze rechten alsmede de regeling voor het handelsverkeer die worden toegepast op de invoer op de Canarische Eilanden en in Ceuta en Melilla van goederen van herkomst uit een derde land, mogen niet minder gunstig zijn dan die welke door de Gemeenschap worden toegepast overeenkomstig haar internationale verbintenissen of haar preferentiële regelingen ten opzichte van dit derde land, onder het voorbehoud dat dit derde land de invoer van herkomst uit de Canarische Eilanden en uit Ceuta en Melilla op dezelfde wijze behandelt als de invoer uit de Gemeenschap. De regeling die bij invoer op de Canarische Eilanden en in Ceuta en Melilla wordt toegepast ten aanzien van goederen van herkomst uit dit derde land, mag evenwel niet gunstiger zijn dan de regeling die wordt toegepast ten aanzien van de invoer van produkten van oorsprong uit het douanegebied van de Gemeenschap.
 
-#### Artikel 8
+##### Artikel 8
 
 De regeling die van toepassing is op het goederenverkeer tussen de Canarische Eilanden enerzijds en Ceuta en Melilla anderzijds is tenminste even gunstig als die welke uit hoofde van artikel 6 van toepassing is.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Op voorstel van de Commissie stelt de Raad vóór 1 maart 1986 met gekwalificeerde meerderheid van stemmen de voorschriften voor de toepassing van dit Protocol vast en met name de oorsprongregels die van toepassing zijn in het handelsverkeer bedoeld in de artikelen 2, 3, 4, 6 en 8, met inbegrip van de bepalingen betreffende de identificatie van de produkten van oorsprong en de controle van de oorsprong.
 
@@ -5868,7 +5893,7 @@ Deze regels zullen met name bepalingen bevatten inzake het merken en/of etikette
 
 - -. in het handelsverkeer tussen het gedeelte van Spanje dat deel uitmaakt van het douanegebied van de Gemeenschap enerzijds en de Canarische Eilanden en Ceuta en Melilla anderzijds: de oorsprongregels die zijn vervat in de nationale bepalingen die op 31 december 1985 gelden.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Behoudens voor de produkten die onder Bijlage II van het EEG-Verdrag vallen, passen Spanje en Portugal, onder voorbehoud van de bepalingen van het onderhavige protocol, in hun handelsverkeer de behandeling toe die is overeengekomen tussen elk hunner enerzijds en de Gemeenschap in haar huidige samenstelling anderzijds, zoals deze is omschreven in titel II, hoofdstuk 1 en titel III, hoofdstuk 1, van het vierde deel van de Toetredingsakte.
 
@@ -5878,13 +5903,13 @@ Op de produkten van oorsprong uit Spanje die vallen onder de hoofdstukken 25 tot
 
 3. De Raad stelt, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen vóór 1 maart 1986 de oorsprongregels vast die van toepassing zijn op het handelsverkeer tussen Spanje en Portugal.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van artikel 48 van de Toetredingsakte ten aanzien van de produkten die voorkomen in de lijst in bijlage A, vindt de in lid 3 van genoemd artikel bedoelde afschaffing van de exclusieve rechten tot invoer in Spanje plaats door de geleidelijke opening met ingang van 1 maart 1986 van invoercontingenten voor produkten van oorsprong uit Portugal. De volumes van de contingenten voor 1986 worden in genoemde lijst vermeld.
 
 Het Koninkrijk Spanje vergroot de volumes van de contingenten onder de in voornoemde bijlage vermelde voorwaarden. De in percentages uitgedrukte verhogingen worden bij elk contingent opgeteld en de volgende verhoging wordt berekend op het aldus verkregen totaalcijfer.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In afwijking van artikel 1 voert het Koninkrijk Spanje voor produkten van oorsprong uit Portugal welke voorkomen in bijlage B, van 1 maart 1986 toten met 31 december 1990 tarief plafonds in met vrijstelling van rechten. Wanneer deze plafonds worden bereikt, kan het Koninkrijk Spanje tot het einde van het lopende kalenderjaar opnieuw douanerechten invoeren die gelijk zijn aan die welke het op dat tijdstip toepast ten aanzien van de Gemeenschap in haar huidige samenstelling.
 
@@ -5908,7 +5933,7 @@ Het Koninkrijk Spanje kan de invoer van de in bijlage C vermelde produkten in 19
 
 De invoer van bovenbedoelde produkten mag in ieder geval geen vertraging oplopen ten gevolge van de toepassing van dit statistische toezicht.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Tot en met 31 december 1990 kan het Koninkrijk Spanje, uitsluitend voor statistische doeleinden, een voorafgaand toezicht instellen op de invoer van de volgende produkten van oorsprong uit Portugal:
 
@@ -5921,7 +5946,7 @@ De invoer van bovenbedoelde produkten mag in ieder geval geen vertraging oplopen
 
 2. De Portugese Republiek kan, onder de in lid 1 bedoelde voorwaarden en binnen de aldaar vermelde termijn, op de in lid 1 bedoelde produkten van oorsprong uit Spanje een voorafgaand toezicht bij invoer toepassen, zulks uitsluitend voor statistische doeleinden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tot en met 31 december 1988 kan de Portugese Republiek, uitsluitend voor statistische doeleinden, een voorafgaand toezicht instellen op de invoer van de volgende produkten van oorsprong uit Spanje:
 
@@ -5951,7 +5976,7 @@ De twee partijen kunnen in onderling overleg deze regeling van statistisch toezi
 
 3. Het Koninkrijk Spanje kan tot en met 31 december 1992, onder de in lid 1, tweede alinea, gestelde voorwaarden, uitsluitend voor statistische doeleinden, een voorafgaand toezicht instellen op de invoer van de in bijlage VII van de Toetredingsakte vermelde produkten en gedistilleerde dranken van post 22.09 C van het gemeenschappelijk douantarief, van oorsprong uit Portugal.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Tot en met 31 december 1990 plegen het Koninkrijk Spanje en de Portugese Republiek, voor de in artikel 4 bedoelde produkten, overleg in geval van plotselinge en belangrijke wijzigingen in hun traditionele handelsstromen, zulks binnen ten hoogste vijf werkdagen nadat een van deze Lid-Staten daarom heeft verzocht, om de situatie te bespreken en overeenstemming over eventuele maatregelen te bereiken.
 
@@ -5959,7 +5984,7 @@ De twee partijen kunnen in onderling overleg deze regeling van statistisch toezi
 
 3. Indien het in de leden 1 en 2 bedoelde overleg niet leidt tot overeenstemming tussen het Koninkrijk Spanje en de Portugese Republiek, stelt de Commissie, met inachtneming van de criteria betreffende de vrijwaringsclausule vermeld in artikel 379 van de Toetredingsakte, via een spoedprocedure de vrijwaringsmaatregelen vast die zij noodzakelijk acht, waarbij zij tevens de toepassingsvoorwaarden en -voorschriften bepaalt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien de in de artikelen 72 en 240 van de Toetredingsakte bedoelde compenserende bedragen of het in artikel 270 bedoelde mechanisme van compenserende bedragen in het handelsverkeer tussen Spanje en Portugal worden toegepast op een of meer van de basisprodukten die geacht worden te zijn gebruikt bij de vervaardiging van goederen die vallen onder Verordening (EEG) mr. 3033/80 van de Raad van 11 november 1980 tot vaststelling van de handelsregeling die van toepassing is op bepaalde goederen, verkregen door verwerking van landbouwprodukten, worden de toepasselijke overgangsmaatregelen vastgesteld overeenkomstig de voorschriften van de artikelen 53 en 213 van voornoemde Akte. De in het handelsverkeer tussen Spanje en Portugal toepasselijke compenserende bedragen worden geheven of toegekend door de Staat waar de prijzen van de betrokken landbouwbasisprodukten het hoogst zijn.
 
@@ -5971,7 +5996,7 @@ Indien dit douanerecht voor deze produkten hoger is dan het douanerecht dat het 
 
 De vorige alinea is niet van toepassing op chocolade en andere voedingsmiddelen, welke cacao bevatten van post 18.06 van het gemeenschappelijk douanetarief. Ten aanzien van deze produkten mag het vaste element van de door Portugal toegepaste belasting bij invoer van herkomst uit Spanje niet hoger zijn dan 30%.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Met inachtneming van de geldende voorschriften en met name van die betreffende communautair douanevervoer, stelt de Commissie de methoden van administratieve samenwerking vast om te waarborgen dat de in het onderhavige protocol vermelde behandeling inderdaad wordt toegepast op goederen die aan de gestelde voorwaarden voldoen.
 
@@ -5987,7 +6012,7 @@ Deze methoden omvatten met name maatregelen om te waarborgen dat de goederen waa
 
 Bij het vaststellen van deze bepalingen houdt de Commissie rekening met de voorschriften in de Toetredingsakte inzake de afschaffing van de douanerechten tussen de Gemeenschap in haar huidige samenstelling en Spanje en Portugal en inzake de geleidelijke toepassing door het Koninkrijk Spanje en de Portugese Republiek van het gemeenschappelijk douanetarief en van de bepalingen betreffende het gemeenschappelijk landbouwbeleid.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Behoudens andersluidende bepalingen in de Toetredingsakte en het onderhavige protocol, zijn de geldende bepalingen inzake douanewetgeving met betrekking tot het handelsverkeer met derde landen onder dezelfde voorwaarden van toepassing in het handelsverkeer tussen Spanje en Portugal zolang in dit handelsverkeer douanerechten worden geheven.
 
@@ -6001,19 +6026,19 @@ is het in aanmerking te nemen douanegebied het douanegebied omschreven in de op 
 
 2. Met ingang van 1 maart 1986 passen het Koninkrijk Spanje en de Portugese Republiek in hun handelsverkeer de nomenclatuur van het gemeenschappelijk douanetarief en van het eengemaakte EGKS-tarief toe.
 
-#### Artikel 10
+##### Artikel 10
 
 De Portugese Republiek past in het kader van haar handelsverkeer met de Canarische Eilanden en Ceuta en Melilla de specifieke regelingen toe die dienaangaande zijn overeengekomen tussen de Gemeenschap in haar oorspronkelijke samenstelling en het Koninkrijk Spanje en die zijn neergelegd in protocol nr. 2.
 
-#### Artikel 11
+##### Artikel 11
 
 Onverminderd artikel 1, lid 2, tweede alinea, stelt de Commissie onmiddellijk bij de toetreding alle toepassingsmaatregelen vast die noodzakelijk zouden kunnen blijken met het oog op de tenuitvoerlegging van het onderhavige protocol, inzonderheid de toepassingsvoorschriften betreffende het in de artikelen 3, 4 en 5 bedoelde toezicht.
 
-#### 1
+##### 1
 
 Er wordt een specifieke regeling ingesteld voor het verrichten van activiteiten ter aanvulling van visserijactiviteiten door vaartuigen die de vlag van een Lid-Staat van de Gemeenschap voeren in de wateren die onder de soevereiniteit of de jurisdictie van een derde land vallen in het kader van de bij visserijovereenkomsten tussen de Gemeenschap en de betrokken derde landen ingestelde tegenprestaties.
 
-#### 2
+##### 2
 
 De activiteiten die beschouwd kunnen worden als aanvulling op visserijactiviteiten onder de voorwaarden en binnen de grenzen nader aangegeven in de leden 3 en 4 hebben betrekking op:
 
@@ -6021,11 +6046,11 @@ De activiteiten die beschouwd kunnen worden als aanvulling op visserijactiviteit
 
 - -. de aanvoer, de overlading aan boord van een vaartuig dat de vlag van een Lid-Staat van de Gemeenschap voert en die plaatsvindt in het kader van door een dergelijke overeenkomst voorziene activiteiten, van visserijprodukten van hoofdstuk 03 van het gemeenschappelijk douanetarief, met het oog op het vervoer en de eventuele bewerking van deze produkten ten einde deze op de markt van de Gemeenschap te brengen.
 
-#### 3
+##### 3
 
 Het invoeren in de Gemeenschap van produkten die het voorwerp zijn geweest van de in lid 2 bedoelde activiteiten, vindt plaats met gedeeltelijke of gehele schorsing van de rechten van het gemeenschappelijk douanetarief of onder een bijzondere heffingsregeling, onder de voorwaarden en binnen de aanvullende grenzen die jaarlijks worden vastgesteld in het kader van de omvang van de vangstmogelijkheden die voortvloeien uit de betrokken overeenkomsten en de daarbij behorende uitvoeringsbepalingen.
 
-#### 4
+##### 4
 
 De Raad stelt, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen, vóór 1 maart 1986 de algemene voorschriften voor de toepassing van deze regeling en inzonderheid de criteria voor de verdeling van de betrokken hoeveelheden vast.
 
@@ -6043,13 +6068,13 @@ De storting van deze bijdragen vindt plaats:
 
 Elk gedeelte wordt gestort in vrij convertibele nationale munt van elk der nieuwe Lid-Staten.
 
-#### 1
+##### 1
 
 Het Koninkrijk Spanje opent met ingang van 1 januari 1986 jaarlijks tariefcontingenten voor de invoer van automobielen voor personenvervoer, met explosiemotor of met verbrandingsmotor, met uitzondering van touringcars en autobussen, van post 87.02 A I b) van het gemeenschappelijk douanetarief, van oorsprong uit de Gemeenschap in haar huidige samenstelling. Het douanerecht dat binnen de grenzen van dit tariefcontingent van toepassing is, bedraagt 17,4%. Het contingent vervalt op 31 december 1988.
 
 Het basisvolume van het tariefcontingent bedraagt 32 000 automobielen. Het wordt op 1 januari 1987 op 36 000 eenheden en op 1 januari 1988 op 40000 eenheden gebracht.
 
-#### 2
+##### 2
 
 De jaarlijkse volumes worden in twee gedeelten gesplitst.
 
@@ -6075,13 +6100,13 @@ De eerste gedeelten worden als volgt verdeeld:
 
 De jaarlijkse reserve van 4000 voertuigen voor elk van de jaren 1986, 1987 en 1988 dekt de invoer van voertuigen ongeacht de cilinderinhoud. Tot deze reserve worden evenwel uitsluitend automobielen van oorsprong uit Italië en het Verenigd Koninkrijk toegelaten, zulks naar rato van 2000 voertuigen voor elk dezer Lid-Staten.
 
-#### 3
+##### 3
 
 De bepalingen inzake beheer en toepassing van het jaarlijks tariefcontingent dienen met name de waarborg te bieden dat alle in de Gemeenschap in haar huidige samenstelling gebouwde automobielen gelijkelijk en zonder onderbreking toegang tot deze contingenten hebben en dat het voor deze contingenten bepaalde invoerrecht zonder onderbreking wordt toegepast ten aanzien van alle producenten van de Gemeenschap in haar huidige samenstelling totdat het contingent is uitgeput. Voorts moeten deze bepalingen zodanig zijn dat het contingent aan het einde van elk jaar volledig is benut.
 
 Jaarlijks onderzoeken het Koninkrijk Spanje en de Commissie op 1 oktober gezamenlijk de mate waarin van het jaarlijkse tariefcontingent gebruik is gemaakt.
 
-#### 4
+##### 4
 
 Het Koninkrijk Spanje stelt de Commissie op 15 maart, 15 mei, 15 juli, 15 september, 15 november en 15 januari van elk jaar in kennis van:
 
@@ -6095,43 +6120,43 @@ Het Koninkrijk Spanje stelt de Commissie op 15 maart, 15 mei, 15 juli, 15 septem
 
 - -. andere gegevens die de Commissie noodzakelijk acht.
 
-#### 5
+##### 5
 
 Alvorens het Koninkrijk Spanje overgaat tot tenuitvoerlegging van bepalingen ter toepassing van dit protocol, in welke vorm dan ook, met inbegrip van decreten, richtlijnen en administratieve instructies, moeten deze bepalingen aan de Commissie worden voorgelegd, ten einde haar in staat te stellen na te gaan of zij verenigbaar zijn met het Verdrag, de Toetredingsakte en, in het bijzonder, dit Protocol. Het Koninkrijk Spanje stelt de Commissie in kennis van elke wijziging van deze bepalingen.
 
-#### 1
+##### 1
 
 De in artikel 43 bedoelde contingenten zijn globaal en staan zonder discriminatie open voor alle huidige Lid-Staten. Zij staan zonder beperking open voor alle ondernemers.
 
-#### 2
+##### 2
 
 De contingenten worden aan het begin van het kalenderjaar in één enkel gedeelte geopend.
 
 Het Koninkrijk Spanje kan deze contingenten evenwel in twee gelijke gedeelten openen, waarbij het tweede gedeelte aan het begin van het tweede halfjaar wordt geopend. In dat geval wordt het overschot van het eerste gedeelte overgedragen naar het tweede gedeelte ten einde de hand te houden aan het totale jaarlijkse bedrag.
 
-#### 3
+##### 3
 
 Het Koninkrijk Spanje stelt de Commissie jaarlijks of halfjaarlijks in kennis van de opening van de contingenten en maakt deze officieel bekend.
 
-#### 4
+##### 4
 
 De termijn voor de indiening van een aanvraag om een vergunning bedraagt ten minste vier weken te rekenen vanaf de bekendmaking of de kennisgeving; wanneer deze termijn is verstreken, verleent het Koninkrijk Spanje de vergunningen uiterlijk binnen twintig werkdagen.
 
-#### 5
+##### 5
 
 De invoervergunning is ten minste zes maanden geldig.
 
-#### 6
+##### 6
 
 Het Koninkrijk Spanje verschaft de Commissie halfjaarlijkse gegevens over de benutting van de contingenten.
 
-#### 1
+##### 1
 
 Het Koninkrijk Spanje verbindt zich ertoe de Spaanse octrooiwetgeving onmiddellijk bij de toetreding verenigbaar te maken met de beginselen van het vrije verkeer van goederen en met het peil van de bescherming van de industriële eigendom dat in de Gemeenschap is bereikt, in het bijzonder inzake de regels voor contractuele licenties, gedwongen exclusieve licenties, de verplichting tot exploitatie van het octrooi alsmede het introductieoctrooi.
 
 Te dien einde zal er een nauwe samenwerking tot stand worden gebracht tussen de diensten van de Commissie en de Spaanse autoriteiten; die samenwerking zal zich ook uitstrekken tot de problemen in verband met de overgang van de huidige Spaanse wetgeving naar de nieuwe wetgeving.
 
-#### 2
+##### 2
 
 Het Koninkrijk Spanje zal in zijn nationale wetgeving een bepaling inzake de omkering van de bewijslast invoeren, overeenkomend met artikel 75 van het Verdrag van Luxemburg van 15 december 1975 (Gemeenschapsoctrooiverdrag).
 
@@ -6145,63 +6170,63 @@ In de gevallen waarin de omkering van de bewijslast niet van toepassing is, kan 
 
 Onder beschrijvend beslag wordt in het kader van het in de voorgaande alinea's bedoelde systeem een procedure verstaan volgens welke iedere persoon die gerechtigd is een rechtsvordering ter zake van inbreuk in te stellen, bij een op zijn verzoek gedane rechterlijke uitspraak, kan verkrijgen dat een deurwaarder, bijgestaan door deskundigen, op de plaats waar de vermoedelijke inbreukmaker is gevestigd, overgaat tot een gedetailleerde beschrijving van de betwiste werkwijzen, met name door het maken van fotokopieën van technische documenten, al dan niet met zakelijk beslag. In deze rechterlijke uitspraak kan het betalen van een borgsom worden gelast, die bestemd is om aan de vermoedelijke inbreukmaker schadevergoeding toe te kennen wanneer door het beschrijvend beslag schade is veroorzaakt.
 
-#### 3
+##### 3
 
 Het Koninkrijk Spanje zal tot het Verdrag van München van 5 oktober 1973 inzake het Europese Octrooi toetreden binnen de termijnen die nodig zijn om zich, uitsluitend voor chemische en farmaceutische produkten, te kunnen beroepen op de bepalingen van artikel 167 van genoemd Verdrag.
 
 In dit verband, en er rekening mee houdend dat de door het Koninkrijk Spanje aangegane verbintenis onder 1. wordt nagekomen, verbinden de Lid-Staten van de Gemeenschap, als verdragsluitende partijen bij het Verdrag van München, zich ertoe, alles in het werk te stellen om ingeval het Koninkrijk Spanje overeenkomstig genoemd Verdrag een verzoek zou indienen, te zorgen voor een verlenging van de geldigheidsduur van het voorbehoud als bedoeld in voornoemd artikel 167, tot na 7 oktober 1987 en voor de in het Verdrag van München bedoelde maximumperiode. Indien geen verlenging van genoemd voorbehoud wordt verkregen, kan het Koninkrijk Spanje zich beroepen op artikel 174 van het Verdrag van München, met dien verstande dat het hoe dan ook uiterlijk op 7 oktober 1992 tot dit Verdrag toetreedt.
 
-#### 4
+##### 4
 
 Bij het verstrijken van bovengenoemde uitzonderingsbepaling zal het Koninkrijk Spanje tot het Gemeenschapsoctrooiverdrag toetreden.
 
 Het Koninkrijk Spanje kan zich op artikel 95, lid 4, van dit Verdrag beroepen met het oog op de louter technische aanpassingen die nodig zijn in verband met de toetreding van die Staat tot dit Verdrag, met dien verstande evenwel dat zulks in geen geval mag leiden tot uitstel van de toetreding van het Koninkrijk Spanje tot het Verdrag van Luxemburg tot na genoemde datum.
 
-#### Artikel 1
+##### Artikel 1
 
 Het Koninkrijk Spanje controleert onder de in de artikelen 2, 3 en 4 neergelegde voorwaarden tot en met 31 december 1989 de uitvoer naar de huidige Lid-Staten van de in de lijst in bijlage A bedoelde produkten op basis van de in die lijst vermelde hoeveelheden.
 
-#### Artikel 2
+##### Artikel 2
 
 De Gemeenschap en het Koninkrijk Spanje brengen voor de toepassingsduur van artikel 1 een administratieve samenwerking tot stand overeenkomstig bijlage B.
 
-#### Artikel 3
+##### Artikel 3
 
 Na voorafgaande kennisgeving aan de Commissie kan het Koninkrijk Spanje op haar uitvoer naar de huidige Lid-Staten van de in de lijst in bijlage A vermelde produkten de in bijlage C bedoelde flexibiliteitsbepalingen toepassen.
 
-#### Artikel 4
+##### Artikel 4
 
 De Commissie en de bevoegde instanties van het Koninkrijk Spanje plegen waar nodig overleg om te voorkomen dat zich situaties voordoen die vrijwaringsmaatregelen vergen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de in bijlage A vermelde hoeveelheden zijn bereikt of indien plotselinge belangrijke afwijkingen ten opzichte van de traditionele handelsstromen worden geconstateerd voor de invoer in de huidige Lid-Staten van de in Bijlage B, paragraaf 1, vermelde produkten, stelt de Commissie, op verzoek van de betrokken Lid-Staat en volgens de in artikel 379, lid 2, van de Akte bedoelde spoedprocedure, de vrijwaringsmaatregelen vast die zij noodzakelijk acht.
 
 2. Indien plotselinge belangrijke afwijkingen ten opzichte van de traditionele handelsstromen worden geconstateerd voor de invoer in Spanje van de in Bijlage B, paragraaf 9, vermelde produkten, stelt de Commissie, op verzoek van het Koninkrijk Spanje en volgens de in artikel 379, lid 2, van de Akte bedoelde spoedprocedure de vrijwaringsmaatregelen vast die zij noodzakelijk acht.
 
-#### 1
+##### 1
 
 De herstructureringsplannen van de Spaanse ijzer- en staalondernemingen moeten ertoe leiden dat de productiecapaciteit van de Spaanse ijzer- en staalindustrie voor wat betreft warmgewalste EGKS-produkten aan het einde van de in artikel 52 bedoelde periode niet meer bedraagt dan 18 miljoen ton; zij moeten verenigbaar zijn met de vóór de datum van toetreding aangenomen laatste „Algemene doelstellingen staal”.
 
-#### 2
+##### 2
 
 Onmiddellijk bij de toetreding onderzoeken de Commissie en de Spaanse Regering gezamenlijk de mate waarin de reeds door de Spaanse Regering goedgekeurde en officieel op 24 juli en 1 augustus 1984 aan de Commissie toegezonden plannen zijn uitgevoerd, alsmede de levensvatbaarheid van de ijzer- en staalondernemingen waarop deze plannen betrekking hebben.
 
-#### 3
+##### 3
 
 Ingeval de levensvatbaarheid van deze ondernemingen aan het einde van een periode van ten hoogste drie jaar na de toetreding niet op bevredigende wijze zou zijn gewaarborgd, zal de Commissie, na het advies van de Spaanse Regering te hebben ingewonnen, aan het einde van het eerste jaar na de toetreding voorstellen deze plannen aan te vullen om te bereiken dat deze ondernemingen aan het slot van de looptijd van die plannen wel levensvatbaar zijn.
 
-#### 4
+##### 4
 
 De Commissie en de Spaanse Regering zullen onmiddellijk bij de toetreding eveneens een onderzoek instellen naar de levensvatbaarheid van de ondernemingen waarvoor de in punt 2 bedoelde plannen niet voorzien in de uitkering van enigerlei steun na de toetreding. Ingeval de levensvatbaarheid van die ondernemingen niet op bevredigende wijze zou zijn gegarandeerd aan het einde van een periode van ten hoogste drie jaar na de toetreding, zal de Commissie, na het advies van de Spaanse Regering te hebben ingewonnen, aan het einde van het eerste jaar na de toetreding voorstellen voor herstructureringsmaatregelen doen om te bereiken dat deze ondernemingen uiterlijk aan het einde van bovengenoemde periode van drie jaar wel levensvatbaar zijn.
 
-#### 5
+##### 5
 
 Eventuele steun voor de Spaanse ijzer- en staalindustrie in het kader van de aanvullende plannen als bedoeld in punt 3 of van de maatregelen als bedoeld in punt 4, zullen tevoren en uiterlijk aan het einde van het eerste jaar na de toetreding door de Spaanse Regering aan de Commissie worden meegedeeld. De Spaanse Regering legt haar projecten alleen met toestemming van de Commissie ten uitvoer.
 
 De Commissie zal deze projecten beoordelen aan de hand van criteria en volgens de procedures die zijn omschreven in de bijlage bij dit protocol.
 
-#### 6
+##### 6
 
 Gedurende de in artikel 52 van de Toetredingsakte bedoelde periode moeten de Spaanse leveranties van ijzer- en staalprodukten EGKS op de rest van de communautaire markt aan de volgende voorwaarden voldoen:
 
@@ -6217,13 +6242,13 @@ Dit stelsel moet verenigbaar zijn met andere marktregulerende maatregelen die ev
 
 De Commissie stelt de Raad op gezette tijden in kennis van de betrouwbaarheid en de doelmatigheid van dit stelsel. Mocht het stelsel ongeschikt blijken te zijn dan treft de Commissie, met instemming van de Raad, passende maatregelen.
 
-#### 1
+##### 1
 
 Alle specifieke of niet-specifieke steun ten behoeve van de ijzer- en staalindustrie, door de Spaanse Staat of uit staatsmiddelen gefinancierd in welke vorm dan ook, kan alleen verenigbaar worden geacht met de goede werking van de gemeenschappelijke markt indien daarbij de in punt 2 aangegeven algemene regels in acht worden genomen en aan de bepalingen van de punten 3 tot en met 6 wordt voldaan. Deze steun wordt alleen ten uitvoer gelegd in overeenstemming met de in deze bijlage aangegeven procedures.
 
 Het begrip steun omvat eveneens de steun die door lagere territoriale overheden wordt verleend, alsook de steunelementen die eventueel zijn vervat in de financieringsmaatregelen van de Spaanse Staat ten aanzien van de rechtstreeks of zijdelings door haar gecontroleerde ijzer- en staalondernemingen die niet in aanmerking komen voor het ter beschikking stellen van risicodragend kapitaal volgens de in een markteconomie normale vennootschapsgebruiken.
 
-#### 2
+##### 2
 
 Steun die verleend wordt aan de Spaanse ijzer- en staalindustrie, kan verenigbaar worden geacht met de goede werking van de gemeenschappelijke markt op voorwaarde:
 
@@ -6237,7 +6262,7 @@ Steun die verleend wordt aan de Spaanse ijzer- en staalindustrie, kan verenigbaa
 
 - -. dat de betrokken steun uiterlijk 15 maanden na de toetreding wordt goedgekeurd en geen aanleiding geeft tot uitkeringen na het verstrijken van de overgangsregeling, met uitzondering van rentesubsidies of betalingen uit hoofde van garanties voor leningen welke vóór die datum hebben plaatsgevonden.
 
-#### 3
+##### 3
 
 Steun ten behoeve van investeringen in de ijzer- en staalindustrie kan verenigbaar worden geacht met de goede werking van de gemeenschappelijke markt op voorwaarde:
 
@@ -6249,7 +6274,7 @@ Steun ten behoeve van investeringen in de ijzer- en staalindustrie kan verenigba
 
 Bij de beoordeling van dergelijke steun houdt de Commissie rekening met de mate waarin het betrokken investeringsprogramma bijdraagt tot andere doelstellingen van de Gemeenschap, zoals innovatie, energiebesparing en bescherming van het milieu, met dien verstande dat de regels van punt 2 in acht moeten worden genomen.
 
-#### 4
+##### 4
 
 Steun ter dekking van de normale kosten die voortvloeien uit het gedeeltelijk of volledig sluiten van installaties in de ijzer- en staalindustrie kan verenigbaar worden geacht met de goede werking van de gemeenschappelijke markt.
 
@@ -6261,7 +6286,7 @@ De kosten die in aanmerking komen voor deze steun zijn de volgende:
 
 Sluitingssteun waarmee geen rekening kon worden gehouden in de uiterlijk binnen twaalf maanden na de toetreding aangemelde programma's kan, bij wijze van uitzondering in afwijking van het bepaalde in punt 5 van het Protocol nr. 10 en punt 2, vijfde streepje, van deze bijlage, na deze datum bij de Commissie worden aangemeld en na het verstrijken van een termijn van 15 maanden volgend op de toetreding worden goedgekeurd.
 
-#### 5
+##### 5
 
 Steun ter vergemakkelijking van de werking van bepaalde ondernemingen of installaties kan verenigbaar worden geacht met de goede werking van de gemeenschappelijke markt op voorwaarde:
 
@@ -6273,7 +6298,7 @@ Steun ter vergemakkelijking van de werking van bepaalde ondernemingen of install
 
 Bij de beoordeling van dergelijke steun houdt de Commissie rekening met de problemen waarmede de betrokken eenheid of eenheden en het betrokken gebied of de betrokken gebieden te kampen hebben, alsmede met de neveneffecten van de steun voor de mededinging op andere markten dan de staalmarkt, met name de vervoermarkt.
 
-#### 6
+##### 6
 
 Steun aan ijzer- en staalondernemingen ter dekking van haar kosten van research- en ontwikkelingsprojecten kan verenigbaar worden geacht met de goede werking van de gemeenschappelijke markt op voorwaarde dat een der doelstellingen van het betrokken research- en/of ontwikkelingsproject wordt gevormd door:
 
@@ -6287,23 +6312,23 @@ Steun aan ijzer- en staalondernemingen ter dekking van haar kosten van research-
 
 Het totale bedrag van alle te dien einde verleende steun mag niet meer bedragen dan 50% van de voor steun in aanmerking komende kosten van het project. De voor steun in aanmerking komende kosten zijn de kosten die rechtstreeks verband houden met het betrokken project, met name met uitsluiting van alle uitgaven voor investeringen in produktiemethoden.
 
-#### 7
+##### 7
 
 De Commissie wint, voordat zij haar standpunt bepaalt, bij de Lid-Staten advies in over de belangrijkste steunvoornemens waarvan zij door de Spaanse Regering in kennis is gesteld. Zij stelt alle Lid-Staten in kennis van het door haar inzake elk steunvoornemen ingenomen standpunt.
 
 Indien de Commissie, na de belanghebbenden te hebben aangemaand hun opmerkingen te maken, vaststelt dat een steunmaatregel niet verenigbaar is met het bepaalde in deze bijlage, stelt zij de Spaanse Regering daarvan bij beschikking in kennis. Artikel 88 van het Verdrag is van toepassing wanneer de Spaanse Regering genoemde beschikking niet naleeft.
 
-#### 8
+##### 8
 
 De Spaanse Regering brengt de Commissie halfjaarlijks verslag uit over de in de voorgaande zes maanden verstrekte steun, over het gebruik dat daarvan is gemaakt en over de in deze periode bereikte resultaten op het gebied van de herstructurering. Deze verslagen moeten gegevens bevatten over alle financiële maatregelen welke door de Spaanse Staat of door de regionale of plaatselijke autoriteiten zijn genomen met betrekking tot ijzer- en staalondernemingen van de overheid. Zij moeten binnen twee maanden na het eind van elk halfjaar worden ingezonden in een door de Commissie aan te geven vorm.
 
 Het eerste desbetreffende verslag zal betrekking hebben op gedurende het eerste halfjaar volgend op de toetreding verstrekte steun.
 
-#### 1
+##### 1
 
 De Spaanse bedrijven zullen onmiddellijk bij de toetreding de bepalingen van het EGKS-Verdrag inzake prijzen (artikel 4, onder b), en de artikelen 60 tot en met 64) alsmede de desbetreffende besluiten toepassen.
 
-#### 2
+##### 2
 
 In afwijking van punt 1 kunnen onderstaande bedrijven voor een zelfde produkt de volgende dubbele pariteitspunten handhaven:
 
@@ -6321,7 +6346,7 @@ In afwijking van punt 1 kunnen onderstaande bedrijven voor een zelfde produkt de
 
 In elk geval moet de basisprijs van een zelfde produkt gelijk blijven, ongeacht het gekozen pariteitspunt.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Onmiddellijk bij de toetreding wordt de kennis waarvan overeenkomstig artikel 13 van het EGA-Verdrag mededeling is gedaan aan de Lid-Staten, personen en ondernemingen, ter beschikking gesteld van het Koninkrijk Spanje, dat deze kennis onder de in voornoemd artikel bedoelde voorwaarden op beperkte wijze op zijn grondgebied verspreidt.
 
@@ -6339,7 +6364,7 @@ In elk geval moet de basisprijs van een zelfde produkt gelijk blijven, ongeacht 
 
 - -. onderzoek op het gebied van de splijtstof cyclus (meer in het bijzonder: winning en bewerking van arme uraniumertsen; optimalisering van splijtstofelementen voor energiereactoren).
 
-#### Artikel 2
+##### Artikel 2
 
 1. In de sectoren waarin het Koninkrijk Spanje kennis ter beschikking stelt van de Gemeenschap, verlenen de bevoegde instanties aan de Lid-Staten, personen en ondernemingen van de Gemeenschap op verzoek licenties tegen commerciële voorwaarden, indien zij uitsluitende rechten bezitten op in de Lid-Staten van de Gemeenschap verkregen octrooien en voor zover zij geen verplichting of verbintenis jegens derden hebben om een uitsluitende of gedeeltelijk uitsluitende licentie op de rechten op deze octrooien te verlenen of aan te bieden.
 
@@ -6347,7 +6372,7 @@ In elk geval moet de basisprijs van een zelfde produkt gelijk blijven, ongeacht 
 
 Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties geschiedt op normale commerciële grondslag.
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Portugese Republiek controleert onder de in de artikelen 2, 3 en 4 neergelegde voorwaarden tot en met 31 december 1988 de uitvoer naar de huidige Lid-Staten en tot en met 31 december 1989 de uitvoer naar Spanje van de in de lijst van bijlage A bedoelde produkten op basis van de in die lijst vermelde hoeveelheden.
 
@@ -6355,35 +6380,35 @@ Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties 
 
 3. De wederinvoer in de huidige Lid-Staten van textielprodukten na veredeling in Portugal, die plaatsvindt onder de in bijlage B neergelegde voorwaarden en op basis van de in die bijlage vastgestelde hoeveelheden, wordt niet afgeboekt op de in lid 1 bedoelde hoeveelheden.
 
-#### Artikel 2
+##### Artikel 2
 
 De Gemeenschap en de Portugese Republiek brengen voor de toepassingsduur van artikel 1 een administratieve samenwerking tot stand overeenkomstig bijlage C.
 
-#### Artikel 3
+##### Artikel 3
 
 De Portugese Republiek neemt passende maatregelen om het in acht nemen van de in artikel 1 bedoelde hoeveelheden te verzekeren en treft de in artikel 2 bedoelde maatregelen inzake administratieve samenwerking.
 
-#### Artikel 4
+##### Artikel 4
 
 Na voorafgaande kennisgeving aan de Commissie kan de Portugese Republiek op haar uitvoer naar de huidige Lid-Staten van de in de lijst in bijlage A vermelde produkten de in bijlage D bedoelde flexibiliteitsbepalingen toepassen.
 
-#### Artikel 5
+##### Artikel 5
 
 De Commissie en de bevoegde instanties van de Portugese Republiek plegen waar nodig overleg om te voorkomen dat zich situaties voordoen die vrijwaringsmaatregelen vergen.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien de situatie zulks vergt, met name gelet op de ontwikkeling van het verbruik en de toename van de invoer in Portugal van textielprodukten uit een of meer andere Lid-Staten, plegen de Commissie en de bevoegde instanties van de Portugese Republiek op verzoek van de Portugese Republiek overleg, ten einde passende oplossingen te zoeken waardoor vrijwaringsmaatregelen kunnen worden vermeden.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien de in bijlage A vermelde hoeveelheden zijn bereikt, stelt de Commissie, op verzoek van de betrokken Lid-Staat en volgens de in artikel 377, lid 2, van de Toetredingsakte bedoelde spoedprocedure, de vrijwaringsmaatregelen vast die zij noodzakelijk acht.
 
-#### Artikel 1
+##### Artikel 1
 
 De in de volgende artikelen omschreven regeling is van toepassing op de montage en de invoer van automobielen, ongeacht de soort van de motor, voor personenvervoer of voor goederenvervoer.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Vanaf 1 januari 1986 opent de Portugese Republiek jaarlijks de in bijlage A vermelde invoercontingenten voor gemonteerde automobielen, hierna CBU genoemd, van oorsprong uit de andere Lid-Staten, met een brutogewicht van minder dan 3 500 kg.
 
@@ -6400,7 +6425,7 @@ Binnen dit contingent kan aan geen enkel merk meer dan een vierde van de vastges
 
 Elk merk heeft het recht om zich een minimumcontingent van 20 eenheden te zien worden toegekend.
 
-#### Artikel 3
+##### Artikel 3
 
 Vanaf 1 januari 1986 opent de Portugese Republiek jaarlijks invoercontingenten voor CBU-automobielen, van oorsprong uit de andere Lid-Staten, met een brutogewicht van meer dan 3 500 kg volgens onderstaande regels:
 
@@ -6409,7 +6434,7 @@ Vanaf 1 januari 1986 opent de Portugese Republiek jaarlijks invoercontingenten v
 | 1 januari 1986 | 660 eenheden |
 | 1 januari 1987 | 770 eenheden |
 
-#### Artikel 4
+##### Artikel 4
 
 1. Vanaf 1 januari 1986 opent de Portugese Republiek voor niet-geassembleerde automobielen, hierna CKD genoemd, met een brutogewicht van minder dan 2000 kg voor personenvervoer, een quotum per communautair merk, aan het begin van elk jaar, onder verwijzing naar de in 1985 toegekende basisquota die zijn opgenomen in bijlage B.
 
@@ -6421,7 +6446,7 @@ De som van alle quota per merk (communautair en niet communautair) wordt vastges
 
 4. Het gebruik van de quota per merk die zijn toegekend uit hoofde van de basisquota is vrij ten belope van 90% in 1986 en 93% in 1987. Het gebruik van het saldo van de quota per merk wordt afhankelijk gesteld van de uitvoer van automobielen of de bestanddelen daarvan op de grondslag van de in Portugal toegevoegde waarde van deze uitvoer.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor exporteurs die het totaal van hun basisquota krachtens artikel 4 reeds hebben gebruikt, worden in de loop van het jaar aanvullende CKD-quota toegekend aan de hand van de in Portugal toegevoegde waarde van de uitgevoerde automobielen of bestanddelen van automobielen.
 
@@ -6429,17 +6454,17 @@ De toekenning van aanvullende quota geschiedt op de grondslag van de in bijlage 
 
 2. De Raad kan later, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen, zo nodig een maximum voor elk merk vaststellen dat gelijk is aan een percentage van de som van de aan alle merken toegekende basisquota.
 
-#### Artikel 6
+##### Artikel 6
 
 De in de artikelen 4 en 5 vastgestelde quota kunnen worden gebruikt voor de invoer van CKD- en CBU-automobielen.
 
-#### 1
+##### 1
 
 De Portugese Republiek verbindt zich ertoe haar octrooiwetgeving onmiddellijk bij de toetreding verenigbaar te maken met de beginselen van het vrije verkeer van goederen en met het peil van de bescherming van de industriële eigendom dat in de Gemeenschap is bereikt. De Portugese Republiek schaft met name onmiddellijk bij de toetreding artikel 8 van decreet nr. 27/84 van 18 januari 1984 af volgens welk artikel de houder van een in Portugal verleend octrooi verplicht is, om dit aan dit octrooi verbonden exclusieve recht te genieten, het geoctrooieerde produkt of het dank zij een geoctrooieerde werkwijze verkregen produkt op Portugees grondgebied te fabriceren.
 
 Te dien einde zal er een nauwe samenwerking tot stand worden gebracht tussen de diensten van de Commissie en de Portugese autoriteiten; die samenwerking zal zich ook uitstrekken tot de problemen in verband met de overgang van de huidige Portugese wetgeving naar de nieuwe wetgeving.
 
-#### 2
+##### 2
 
 De Portugese Republiek zal in haar nationale wetgeving een bepaling inzake de omkering van de bewijslast invoeren, overeenkomend met artikel 75 van het Verdrag van Luxemburg van 15 december 1975 (Gemeenschapsoctrooiverdrag).
 
@@ -6455,31 +6480,31 @@ In alle gevallen waarin de omkering van de bewijslast niet van toepassing is op 
 
 Onder beschrijvend beslag wordt een procedure verstaan volgens welke iedere persoon die gerechtigd is een rechtsvordering ter zake van inbreuk in te stellen, bij een op zijn verzoek gedane rechterlijke uitspraak, kan verkrijgen dat een deurwaarder, bijgestaan door deskundigen, op de plaats waar de vermoedelijke inbreukmaker is gevestigd, overgaat tot een gedetailleerde beschrijving van de betwiste werkwijzen, met name door het maken van fotokopieën van technische documenten, al dan niet met zakelijk beslag. In deze rechterlijke uitspraak kan het betalen van een borgsom worden gelast, die bestemd is om aan de vermoedelijke inbreukmaker schadevergoeding toe te kennen wanneer door het beschrijvend beslag schade is veroorzaakt.
 
-#### 3
+##### 3
 
 De Portugese Republiek zal op 1 januari 1992 tot het Verdrag van München van 5 oktober 1973 inzake het Europese Octrooi en tot het Verdrag van Luxemburg van 15 december 1975 (Gemeenschapsoctrooiverdrag) toetreden.
 
 De Portugese Republiek kan zich op artikel 95, lid 4, van het Verdrag van Luxemburg beroepen met het oog op de louter technische aanpassingen die nodig zijn in verband met de toetreding van dat land tot dit Verdrag, met dien verstande evenwel dat zulks in geen geval mag leiden tot uitstel van de toetreding van de Portugese Republiek tot het Verdrag van Luxemburg tot na genoemde datum.
 
-#### 1
+##### 1
 
 Vanaf de datum van toetreding mag, behoudens goedkeuring door de Commissie in het kader van een herstructureringsplan, geen steun worden verleend aan de Portugese ijzer- en staalindustrie. Het plan tot herstructurering van de Portugese ijzer- en staalindustrie moet verenigbaar zijn met de vóór de toetreding aangenomen laatste „Algemene doelstellingen staal”.
 
-#### 2
+##### 2
 
 Onmiddellijk bij de toetreding onderzoeken de Commissie en de Portugese Regering gezamenlijk het door de Portugese Regering goedgekeurde en vóór 1 september 1985 officieel aan de Commissie toe te zenden plan, alsmede de levensvatbaarheid van de ijzer- en staalonderneming waarop dit plan betrekking heeft.
 
-#### 3
+##### 3
 
 Ingeval de levensvatbaarheid van deze onderneming aan het einde van een periode van ten hoogste vijf jaar na de toetreding niet op bevredigende wijze zou zijn gewaarborgd, zal de Commissie, na het advies van de Portugese Regering te hebben ingewonnen, aan het einde van het eerste jaar na de toetreding voorstellen dit plan aan te vullen om te bereiken dat deze onderneming aan het slot van de looptijd van dat plan wel levensvatbaar is.
 
-#### 4
+##### 4
 
 Eventuele steun voor de Portugese ijzer- en staalindustrie in het kader van het aanvullende plan als bedoeld in punt 3, zal tevoren en uiterlijk aan het einde van het eerste jaar na de toetreding door de Portugese Regering aan de Commissie worden meegedeeld. De Portugese Regering legt haar projecten alleen met toestemming van de Commissie ten uitvoer.
 
 De Commissie zal deze projecten beoordelen aan de hand van criteria en volgens de procedures die zijn omschreven in de bijlage bij dit protocol.
 
-#### 5
+##### 5
 
 Gedurende de in artikel 212 van de Toetredingsakte bedoelde periode moeten de Portugese leveranties van ijzer- en staalprodukten EGKS op de rest van de communautaire markt aan de volgende voorwaarden voldoen:
 
@@ -6497,7 +6522,7 @@ Dit stelsel moet verenigbaar zijn met andere marktregulerende maatregelen die ev
 
 De Commissie stelt de Raad op gezette tijden in kennis van de betrouwbaarheid en de doelmatigheid van dit stelsel. Mocht het stelsel ongeschikt blijken te zijn, dan treft de Commissie, met instemming van de Raad, passende maatregelen.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Onmiddellijk bij de toetreding wordt de kennis waarvan overeenkomstig artikel 13 van het EGA-Verdrag mededeling is gedaan aan de Lid-Staten, personen en ondernemingen, ter beschikking gesteld van de Portugese Republiek, die deze kennis onder de in voornoemd artikel bedoelde voorwaarden op beperkte wijze op haar grondgebied verspreidt.
 
@@ -6515,7 +6540,7 @@ De Commissie stelt de Raad op gezette tijden in kennis van de betrouwbaarheid en
 
 - -. winningsmetallurgie van uranium.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In de sectoren waarin de Portugese Republiek kennis ter beschikking stelt van de Gemeenschap, verlenen de bevoegde instanties aan de Lid-Staten, personen en ondernemingen van de Gemeenschap op verzoek licenties tegen commerciële voorwaarden, indien zij uitsluitende rechten bezitten op in de Lid-Staten van de Gemeenschap verkregen octrooien en voor zover zij geen verplichting of verbintenis jegens derden hebben om een uitsluitende of gedeeltelijk uitsluitende licentie op de rechten op deze octrooien te verlenen of aan te bieden.
 
@@ -6523,19 +6548,19 @@ De Commissie stelt de Raad op gezette tijden in kennis van de betrouwbaarheid en
 
 Het verlenen van dergelijke uitsluitende of gedeeltelijk uitsluitende licenties geschiedt op normale commerciële grondslag.
 
-#### Artikel 1
+##### Artikel 1
 
 De onderstaande regeling is vanaf 1 januari 1986 tot en met 31 december 1987 van toepassing op de montage en de invoer van automobielen, ongeacht de soort van de motor, voor personenvervoer of voor goederenvervoer.
 
-#### Artikel 2
+##### Artikel 2
 
 De Portugese Republiek opent jaarlijks invoercontingenten per merk voor de invoer in Portugal van gemonteerde automobielen, hierna CBU te noemen, van herkomst uit derde landen waarmee zij niet door overeenkomst is verbonden, met een brutogewicht van minder dan 3500 kilogram, ten belope van 15 eenheden per producent en per jaar voor merken voertuigen die niet in Portugal worden gemonteerd en, in het geval van de overige merken, ten belope van 2% van het aantal voertuigen van hetzelfde merk die in het voorafgaande jaar in Portugal zijn gemonteerd.
 
-#### Artikel 3
+##### Artikel 3
 
 De Portugese Republiek opent een algemeen jaarlijks contingent voor CBU-automobielen van herkomst uit derde landen waarmee zij niet door overeenkomst is verbonden, met een gewicht van meer dan 3500 kilogram, ten belope van 30 eenheden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Portugese Republiek opent voor niet-geassembleerde automobielen, hierna CKD te noemen, met een brutogewicht van minder dan 2000 kilogram voor personenvervoer, aan het begin van elk jaar een quotum per merk, onder verwijzing naar de in 1985 verleende basisquota die in de bijlage staan.
 
@@ -6543,7 +6568,7 @@ De Portugese Republiek opent een algemeen jaarlijks contingent voor CBU-automobi
 
 3. Het gebruik van de bij wijze van basisquota toegekende quota per merk is voor 90% vrij in 1986 en voor 93% vrij in 1987. Het gebruik van het saldo van de quota per merk wordt afhankelijk gesteld van de uitvoer van automobielen of de bestanddelen daarvan op basis van de in Portugal toegevoegde waarde van deze uitvoer.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor exporteurs die het totaal van hun basisquota krachtens artikel 4 reeds hebben gebruikt, worden in de loop van het jaar aanvullende CKD-quota toegekend aan de hand van de in Portugal toegevoegde waarde van de uitgevoerde automobielen of bestanddelen van automobielen.
 
@@ -6551,21 +6576,21 @@ De toekenning van aanvullende quota geschiedt op de grondslag van de in bijlage 
 
 2. Voor de in lid 1 bedoelde exporteurs is de mogelijkheid van aanvullende quota beperkt tot een globale waarde van ten hoogste 12% van het totaalbedrag van de CKD-basisquota voor de in bijlage A vermelde merken.
 
-#### Artikel 6
+##### Artikel 6
 
 De in de artikelen 4 en 5 vastgestelde quota kunnen worden gebruikt voor de invoer van CKD- of CBU-automobielen.
 
-#### 1
+##### 1
 
 Vanaf de datum van toetreding zal ten gunste van Portugal en in overeenstemming met de doelstellingen van het gemeenschappelijk landbouwbeleid, een gemeenschappelijke actie ten uitvoer worden gelegd die een specifiek ontwikkelingsprogramma bevat dat is aangepast aan de bijzondere structurele verhoudingen in de Portugese landbouw. Dit programma met een totale looptijd van 10 jaar zal met name ten doel hebben een aanzienlijke verbetering van de produktie- en commercialisatievoorwaarden alsmede een verbetering van de structurele situatie van de Portugese landbouwsector in zijn geheel.
 
-#### 2
+##### 2
 
 De Gemeenschap zal dit actieprogramma ten gunste van Portugal ten uitvoer leggen op soortgelijke wijze als de reeds in de Gemeenschap voor de meest achtergebleven gebieden bestaande acties. Dit programma zal zijn gericht op ontwikkeling van de infrastructuur ten plattelande, de landbouwvoorlichting en de mogelijkheden tot beroepsopleiding en zal bijdragen tot heroriëntatie van de produktie, met inbegrip van irrigatie, wanneer die noodzakelijk is, drainering en weideverbetering.
 
 Bovendien zal de Gemeenschap dit programma zodanig ten uitvoer leggen, dat het meer specifiek beantwoordt aan de behoeften en de bijzondere situatie van Portugal. Dit programma zal met name nader te omschrijven maatregelen bevatten die ertoe strekken doeltreffend bij te dragen tot het stopzetten van activiteiten. Deze maatregelen mogen in geen geval minder gunstig zijn dan die waarvoor de Lid-Staten van de huidige Gemeenschap in aanmerking zijn gekomen en de voorwaarden om voor communautaire financiering in aanmerking te komen dienen te zijn aangepast aan het specifieke karakter van de Portugese situatie.
 
-#### 3
+##### 3
 
 De Gemeenschap zal tot de wenselijke ontwikkeling van de landbouwstructuur in Portugal bijdragen, ten einde doelstellingen op korte, middellange en lange termijn te bereiken:
 
@@ -6575,27 +6600,27 @@ De Gemeenschap zal tot de wenselijke ontwikkeling van de landbouwstructuur in Po
 
 - c). op lange termijn zal het hoofdzakelijk gaan om bevordering van de ruilverkaveling van verspreide bedrijven en vergroting van de bedrijven die thans niet levensvatbaar zijn. Ter zelfder tijd dient te worden getracht het gebrek in evenwicht in de leeftijdsopbouw van de landbouwbevolking te corrigeren door het stimuleren van pensionering van oudere bedrijfshoofden en, naar gelang het geval, door uitvoering van maatregelen gericht op het vergemakkelijken van de toegang van jongeren tot hetberoep onder voorwaarden die de levensvatbaarheid op lange termijn van hun bedrijf waarborgen.
 
-#### 4
+##### 4
 
 De totale geraamde kosten ten laste van het Europees Oriëntatie en Garantiefonds voor de landbouw, afdeling Oriëntatie, voor de toepassing van het specifieke programma dat in het bijzonder de achtergebleven gebieden van Portugal omvat, daarbij inbegrepen die van de autonome gebieden van de Azoren en Madeira, liggen in de orde van grootte van 700 miljoen Ecu voor de looptijd van 10 jaar, dat wil zeggen in de orde van grootte van 70 miljoen Ecu per jaar.
 
-#### 5
+##### 5
 
 De percentages voor communautaire financiering van de uitgaven die uit hoofde van het specifieke programma voor financiering in aanmerking komen, worden vastgesteld met inachtneming van de percentages die zijn, worden, of zullen worden toegepast op de meest achtergebleven gebieden van de Gemeenschap voor soortgelijke acties.
 
-#### 6
+##### 6
 
 De Raad stelt, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen, op de wijze bepaald in artikel 258 van de Toetredingsakte de toepassingsbepalingen van het specifieke programma vast.
 
-#### 7
+##### 7
 
 De Commissie dient vóór 1 januari 1991 bij de Raad een verslag in ter evalutie van de uitvoering van het specifieke programma.
 
-#### 1
+##### 1
 
 De Gemeenschap meent dat, gelet op de huidige situatie van de Portugese landbouw, zich noodzakelijkerwijs een verbetering van de produktiviteit zal voordoen onder de invloed van diverse factoren waaronder de toepassing van communautaire structurele bepalingen en de uitvoering van het specifieke programma voor de landbouwstructuur in Portugal als bedoeld in Protocol nr. 24.
 
-#### 2
+##### 2
 
 De Gemeenschap meent dat, zelfs als deze produktiviteitsverhoging zich voordoet in een context van rationalisering van de Portugese landbouw onder de invloed van acties tot omschakeling of tot stopzetting van de activiteiten, daaruit een zekere produktieverhoging zal voortvloeien.
 
@@ -6603,7 +6628,7 @@ De Gemeenschap moedigt evenwel een dergelijke ontwikkeling tijdens de eerste eta
 
 Daartegenover zullen vanaf de toepassing in Portugal, te rekenen van het begin van de tweede etappe, van het geheel van de regels van het gemeenschappelijk landbouwbeleid de communautaire disciplines in Portugal op dezelfde wijze worden toegepast als die welke geldt voor de meest achtergebleven gebieden van de Gemeenschap in haar huidige samenstelling.
 
-#### 3
+##### 3
 
 De bovenomschreven situatie dient te worden genuanceerd in de volgende sectoren: wijn, olijfolie, groenten en fruit verwerkt op basis van tomaten en suikerbieten.
 
@@ -6611,7 +6636,7 @@ In deze sectoren dreigt elke ontwikkeling van de produktie in Portugal de situat
 
 De Gemeenschap houdt bij de omschrijving van deze maatregelen tot disciplinering van de produktie evenwel rekening met de zeer specifieke landbouwsituatie van deze Lid-Staat; te dien einde voorzien de bepalingen van deze Toetredingsakte er in dat voor deze sectoren vanaf de aanvang een element van soepelheid wordt gebracht in de toepassing van de communautaire regels inzake de produktiediscipline.
 
-#### I
+##### I
 
 1. Ten einde te waarborgen dat het Koninkrijk Spanje en de Portugese Republiek, hierna toetredende Staten te noemen, voldoende worden ingelicht, worden alle voorstellen of mededelingen van de Commissie van de Europese Gemeenschappen die kunnen leiden tot besluiten van de Raad van deze Gemeenschappen, na toezending aan de Raad ter kennis van de toetredende Staten gebracht.
 
@@ -6633,27 +6658,27 @@ De Gemeenschap houdt bij de omschrijving van deze maatregelen tot disciplinering
 
 10. De in de voorgaande punten omschreven procedure is eveneens van toepassing op alle door de toetredende Staten te nemen besluiten die van invloed kunnen zijn op de verbintenissen die voortvloeien uit hun hoedanigheid van toekomstige leden van de Gemeenschappen.
 
-#### II
+##### II
 
 Het Koninkrijk Spanje en de Portugese Republiek nemen de nodige maatregelen om hun toetreding tot de in artikel 3, lid 2, en artikel 4, lid 2, van de Akte betreffende de toetredingsvoorwaarden en de aanpassing van de Verdragen bedoelde overeenkomsten of akkoorden, voor zover mogelijk, en overeenkomstig het in die Akte bepaalde, te doen samenvallen met de inwerkingtreding van het Toetredingsverdrag.
 
 Voor zover de in artikel 3, lid 1, tweede zin, en lid 2, bedoelde overeenkomsten en akkoorden slechts in de vorm van een ontwerp bestaan, nog niet zijn ondertekend en waarschijnlijk in het tijdvak dat aan de toetreding voorafgaat niet meer kunnen worden ondertekend, zullen de toetredende Staten worden uitgenodigd om na de ondertekening van het Verdrag betreffende de toetreding volgens passende procedures deel te nemen aan de uitwerking in positieve zin en zodanig dat de sluiting daarvan wordt bevorderd, van die ontwerpen.
 
-#### III
+##### III
 
 Ten aanzien van de onderhandelingen over overgangs- en aanpassingsprotocollen met de in de artikelen 179 en 366 van de Akte betreffende de toetredingsvoorwaarden genoemde landen worden de vertegenwoordigers van de toetredende Staten als waarnemers bij de werkzaamheden betrokken, naast de vertegenwoordigers van de huidige Lid-Staten.
 
 Bepaalde door de Gemeenschap gesloten niet-preferentiële akkoorden die ook na 1 januari 1986 blijven gelden, kunnen worden aangepast om rekening te houden met de uitbreiding van de Gemeenschap. De Gemeenschap zal de vertegenwoordigers van de toetredende Staten overeenkomstig de in de vorige alinea omschreven procedure bij de onderhandelingen over deze aanpassingen betrekken.
 
-#### IV
+##### IV
 
 Het in artikel 61, lid 2, en artikel 223, lid 2, van de Akte betreffende de toetredingsvoorwaarden en de aanpassing van de Verdragen bedoelde overleg tussen de toetredende Staten en de Commissie vindt reeds plaats voor het tijdstip van toetreding.
 
-#### V
+##### V
 
 De toetredende Staten verbinden zich ertoe te bewerkstelligen dat de verlening van de in de artikelen 2 van de Protocollen nr. 13 en 22 betreffende de uitwisseling van kennis op het gebied van de kernenergie bedoelde licenties vóór de toetreding niet opzettelijk wordt versneld ten einde de draagwijdte van de in die Protocollen vervatte verbintenissen te verminderen.
 
-#### VI
+##### VI
 
 De Instellingen van de Gemeenschappen stellen tijdig de in artikel 397 van de Akte betreffende de toetredingsvoorwaarden en de aanpassing van de Verdragen bedoelde bepalingen vast.
 
@@ -6669,7 +6694,7 @@ overwegende dat over de door de Raad vast te stellen toetredingsvoorwaarden is o
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het Koninkrijk Spanje en de Portugese Republiek kunnen onder de in dit besluit vastgestelde voorwaarden lid worden van de Europese Gemeenschap voor Kolen en Staal door toe te treden tot het Verdrag tot oprichting van deze Gemeenschap, zoals dit Verdrag is gewijzigd of aangevuld.
 
@@ -6677,7 +6702,7 @@ Besluit:
 
 3. De in het in lid 1 genoemde Verdrag voorkomende bepalingen betreffende de rechten en verplichtingen van de Lid-Staten alsmede de algemene en bijzondere bevoegdheden van de Instellingen van de Gemeenschappen, zijn van toepassing ten aanzien van dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Akten van toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Europese Gemeenschap voor Kolen en Staal zullen op 1 januari 1986 worden neergelegd bij de regering van de Franse Republiek.
 
@@ -6689,7 +6714,7 @@ Indien echter een van in de lid 1 van dit artikel genoemde Staten niet tijdig zi
 
 4. De regering van de Franse Republiek zendt een voor eensluidend gewaarmerkt afschrift van de Toetredingsakte van elke toetredende Staat toe aan de regeringen van de Lid-Staten en van de andere toetredende Staat.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit, opgesteld in de Deense, de Duitse, de Engelse, de Franse, de Griekse, de Ierse, de Italiaanse, de Nederlandse, de Portugese en de Spaanse taal, zijnde de teksten in elk van deze talen gelijkelijk authentiek, wordt meegedeeld aan de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal, het Koninkrijk Spanje en de Portugese Republiek.
 

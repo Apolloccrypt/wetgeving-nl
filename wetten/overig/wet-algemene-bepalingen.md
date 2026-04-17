@@ -1,14 +1,36 @@
 ---
-title: "Wet algemene bepalingen"
+title: "Wet van 15 mei 1829, houdende algemeene bepalingen der wetgeving van het Koningrijk"
 identifier: "BWBR0001833"
-categorie: "Overig"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001833"
+country: "nl"
+rank: "wet"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001833"
+soort: "wet"
+stam_id: "1836223"
+version_id: "2739772"
+internal_id: "C2739771"
+label_id: "1790844"
+dtd_version: "2.0"
+original_entry_into_force: "1838-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001833/2012-01-01/0"
+intitule_bron: "Stb.1829-28"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1829-05-15"
+intitule_status: "goed"
+original_publication: "Stb.1829-28"
+original_signed_date: "1829-05-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1838-10-01"
+jci_1_3: "jci1.3:c:BWBR0001833&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBR0001833&g=2012-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet algemene bepalingen"
+signed_date: "1829-05-15"
+entry_into_force: "1838-10-01"
 ---
-
-# Wet algemene bepalingen
+# Wet van 15 mei 1829, houdende algemeene bepalingen der wetgeving van het Koningrijk
 
 Allen den genen, die deze zullen zien of hooren lezen, salut! doen te weten:
 
@@ -20,63 +42,63 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 Hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan te bepalen hetgeen volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 De wet verbindt alleen voor het toekomende en heeft geene terugwerkende kracht.
 
-#### Artikel 5
+##### Artikel 5
 
 Eene wet kan alleen door eene latere wet, voor het geheel of gedeeltelijk, hare kracht verliezen.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 De strafwetten en de verordeningen van policie, zijn verbindende voor allen die zich op het grondgebied van het Koningrijk bevinden.
 
-#### Artikel 9
+##### Artikel 9
 
 Het burgerlijk regt van het Koningrijk is hetzelfde voor vreemdelingen als voor de Nederlanders, zoo lange de wet niet bepaaldelijk het tegendeel vaststelt.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 De regter moet volgens de wet regt spreken: hij mag in geen geval de innerlijke waarde of billijkheid der wet beoordeelen.
 
-#### Artikel 12
+##### Artikel 12
 
 Geen regter mag bij wege van algemeene verordening, dispositie of reglement, uitspraak doen in zaken welke aan zijne beslissing onderworpen zijn.
 
-#### Artikel 13
+##### Artikel 13
 
 De regter die weigert regt te spreken, onder voorwendsel van het stilzwijgen, de duisterheid of de onvolledigheid der wet, kan uit hoofde van **regtsweigering** vervolgd worden.
 
-#### Artikel 13a
+##### Artikel 13a
 
 De regtsmagt van den regter en de uitvoerbaarheid van regterlijke vonnissen en van authentieke akten worden beperkt door de uitzonderingen in het volkenregt erkend.
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 

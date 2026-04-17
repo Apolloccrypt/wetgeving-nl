@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregels niet-incidentele artikel 3 loterijvergunningen"
+title: "Beleidsregels van de Staatssecretaris van Veiligheid en Justitie van 12 juli 2016, kenmerk 782071, betreffende de verlening van niet-incidentele kansspelvergunningen door de raad van bestuur van de kansspelautoriteit op grond van artikel 3 van de Wet op de kansspelen voor het organiseren van loterijen (Beleidsregels niet-incidentele artikel 3 loterijvergunningen)"
 identifier: "BWBR0038255"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038255"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038255"
+soort: "beleidsregel"
+stam_id: "13692233"
+version_id: "23454312"
+internal_id: "C33791721"
+label_id: "13658774"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038255/2020-01-01/0"
+intitule_bron: "Stcrt.2016-37159"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-07-12"
+intitule_published: "2016-07-13"
+intitule_in_force: "2016-07-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-37159"
+original_signed_date: "2016-07-12"
+original_published_date: "2016-07-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-37159"
+entry_into_force_date: "2016-07-14"
+jci_1_3: "jci1.3:c:BWBR0038255&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0038255&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels niet-incidentele artikel 3 loterijvergunningen"
+signed_date: "2016-07-12"
+entry_into_force: "2016-07-14"
 ---
-
 # Beleidsregels van de Staatssecretaris van Veiligheid en Justitie van 12 juli 2016, kenmerk 782071, betreffende de verlening van niet-incidentele kansspelvergunningen door de raad van bestuur van de kansspelautoriteit op grond van artikel 3 van de Wet op de kansspelen voor het organiseren van loterijen (Beleidsregels niet-incidentele artikel 3 loterijvergunningen)
 
 Gelet op [artikel 21, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21) en [artikel 3 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -42,11 +68,11 @@ In deze beleidsregels wordt verstaan onder:
 
 - –. **wet:** [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
 
-#### Artikel 2. Toepassingsbereik
+##### Artikel 2. Toepassingsbereik
 
 Deze beleidsregels hebben uitsluitend betrekking op de verlening van vergunningen voor het organiseren van loterijen.
 
-#### Artikel 3. Rechtspersoonlijkheid en zetel
+##### Artikel 3. Rechtspersoonlijkheid en zetel
 
 1. De raad van bestuur wijst een aanvraag voor een vergunning in ieder geval af, indien de aanvrager niet kan aantonen dat hij:
 
@@ -58,11 +84,11 @@ Deze beleidsregels hebben uitsluitend betrekking op de verlening van vergunninge
 
 2. Indien de hoofdvestiging van de aanvrager zich buiten Nederland bevindt, verbindt de raad van bestuur als voorschrift aan de vergunning dat deze uitsluitend wordt geëxploiteerd door een nevenvestiging van de aanvrager die zich wel in Nederland bevindt.
 
-#### Artikel 4. Duur van de vergunning
+##### Artikel 4. Duur van de vergunning
 
 De raad van bestuur verleent een vergunning voor de duur van maximaal vijf jaar. De raad van bestuur kan beslissen om de vergunning voor een kortere duur te verlenen.
 
-#### Artikel 5. Afdrachten
+##### Artikel 5. Afdrachten
 
 1. De raad van bestuur wijst een aanvraag voor een vergunning af, indien de aanvrager niet kan aantonen dat de afdracht aan begunstigden is gewaarborgd.
 
@@ -80,7 +106,7 @@ De raad van bestuur verbindt in dat geval als voorschrift aan de vergunning dat 
 
 5. De raad van bestuur kan als voorschrift aan de vergunning verbinden dat de vergunninghouder maximaal 20% van de afdracht afdraagt aan begunstigden die op eigen initiatief goederen of diensten ter beschikking stellen die door de vergunninghouder als prijzen kunnen worden gebruikt.
 
-#### Artikel 6. Noodzakelijke kosten
+##### Artikel 6. Noodzakelijke kosten
 
 De raad van bestuur verbindt nadere voorschriften aan de vergunning met betrekking tot de noodzakelijke kosten, bedoeld in [artikel 2, onder d, van het Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=2). Deze nadere voorschriften houden in ieder geval in dat de vergunninghouder bij het organiseren van het vergunde kansspel:
 
@@ -88,7 +114,7 @@ De raad van bestuur verbindt nadere voorschriften aan de vergunning met betrekki
 
 - b. de vergunning zonder winstoogmerk en op doelmatige en doeltreffende wijze exploiteert.
 
-#### Artikel 7. Prijzen en premies
+##### Artikel 7. Prijzen en premies
 
 1. De raad van bestuur wijst een aanvraag voor een vergunning af, indien de aanvrager niet aantoont dat hij maatregelen heeft getroffen om de uitkering van gewonnen prijzen en premies voldoende te borgen.
 
@@ -96,7 +122,7 @@ De raad van bestuur verbindt nadere voorschriften aan de vergunning met betrekki
 
 3. De raad van bestuur verbindt als voorschrift aan de vergunning dat de vergunninghouder geen inleg van andere deelnemingsbewijzen dan de inleg van de deelnemingsbewijzen aan het aan hem vergunde kansspel aanwendt voor de uitkering van gewonnen prijzen en premies.
 
-#### Artikel 8. Algemeen belang
+##### Artikel 8. Algemeen belang
 
 1. De raad van bestuur wijst een aanvraag voor een vergunning af, indien de aanvrager niet aantoont:
 
@@ -106,7 +132,7 @@ De raad van bestuur verbindt nadere voorschriften aan de vergunning met betrekki
 
 2. De raad van bestuur verbindt als voorschrift aan de vergunning dat de vergunninghouder overeenkomstig de in het eerste lid genoemde eisen en doelstellingen handelt.
 
-#### Artikel 9. Transparantie
+##### Artikel 9. Transparantie
 
 1. De raad van bestuur verbindt als voorschrift aan de vergunning dat de vergunninghouder in ieder geval beschikt over een te allen tijde actuele, openbare en eenvoudig te raadplegen:
 
@@ -126,7 +152,7 @@ De raad van bestuur verbindt nadere voorschriften aan de vergunning met betrekki
 
 3. De raad van bestuur verbindt als voorschrift aan de vergunning dat de vergunninghouder het tijdstip van de uitslag van de trekking van een door hem te organiseren loterij voor aanvang van de uitgifte van de loten of deelnamebewijzen bekendmaakt op een wijze waarop eenvoudig kennis daarvan kan worden genomen.
 
-#### Artikel 10. Personeel en uitbesteding
+##### Artikel 10. Personeel en uitbesteding
 
 1. De raad van bestuur verbindt als voorschrift aan de vergunning dat de vergunninghouder maatregelen treft om voldoende te waarborgen dat de vergunninghouder en de personen die binnen zijn organisatie werkzaamheden uitvoeren die verband houden met de organisatie van de vergunde kansspelen, de voorschriften naleven die zijn gesteld bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) en de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296).
 
@@ -136,7 +162,7 @@ De raad van bestuur verbindt nadere voorschriften aan de vergunning met betrekki
 
 - b. de doelmatige en doeltreffende uitvoering van het toezicht op de naleving van de voorschriften, bedoeld onder a, door de uitbesteding niet wordt belemmerd.
 
-#### Artikel 11. Continuïteit
+##### Artikel 11. Continuïteit
 
 1. De raad van bestuur wijst een aanvraag voor een vergunning af, indien de aanvrager niet kan aantonen dat de continuïteit van zijn organisatie is gewaarborgd.
 
@@ -148,7 +174,7 @@ De raad van bestuur verbindt nadere voorschriften aan de vergunning met betrekki
 
 - c. beslag is gelegd op een aanmerkelijk deel van zijn vermogen of op een of meer van zijn bedrijfsmiddelen die een aanmerkelijk deel van zijn vermogen vormen.
 
-#### Artikel 12. Betrouwbaarheid
+##### Artikel 12. Betrouwbaarheid
 
 1. De raad van bestuur wijst een aanvraag voor een vergunning af, indien de aanvrager onvoldoende aannemelijk heeft gemaakt dat de betrouwbaarheid van de aanvrager, de personen die zijn beleid bepalen of medebepalen en uiteindelijk belanghebbenden buiten twijfel staat.
 
@@ -176,13 +202,13 @@ voor zover de raad van bestuur hieromtrent over informatie beschikt.
 
 - b. strafbare feiten of andere wettelijke overtredingen die het vertrouwen in de vergunninghouder of de kansspelmarkt kunnen schaden.
 
-#### Artikel 13. Spelaanbod
+##### Artikel 13. Spelaanbod
 
 1. De raad van bestuur wijst een aanvraag voor een vergunning af, indien de vergunninghouder niet aannemelijk maakt dat de aard en de organisatie van de te houden loterijen niet aanzet tot onmatige deelname of kansspelverslaving.
 
 2. De raad van bestuur verbindt voorschriften aan de vergunning betreffende de wijze waarop de vergunninghouder loterijen organiseert en de omvang van het daarbij toegestane spelaanbod teneinde zo veel mogelijk de consument te beschermen en kansspelverslaving te voorkomen. Deze voorschriften hebben in ieder geval betrekking op het borgen van een eerlijk spelverloop.
 
-#### Artikel 14. Incidenten
+##### Artikel 14. Incidenten
 
 De raad van bestuur verbindt in ieder geval als voorschrift aan de vergunning dat de vergunninghouder:
 
@@ -192,7 +218,7 @@ De raad van bestuur verbindt in ieder geval als voorschrift aan de vergunning da
 
 - c. de raad van bestuur onverwijld omtrent incidenten informeert.
 
-#### Artikel 15. Intrekking van de vergunning
+##### Artikel 15. Intrekking van de vergunning
 
 De raad van bestuur kan de vergunning in ieder geval intrekken, indien:
 
@@ -204,19 +230,19 @@ De raad van bestuur kan de vergunning in ieder geval intrekken, indien:
 
 - d. de vergunninghouder kansspelen als bedoeld in de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469), anders dan de aan hem vergunde kansspelen, aanbiedt zonder daartoe een vergunning verleend te hebben gekregen.
 
-#### Artikel 16. Schorsing van de vergunning
+##### Artikel 16. Schorsing van de vergunning
 
 De raad van bestuur kan de vergunning schorsen op grond van ernstige vermoedens dat er grond bestaat om de vergunning in te trekken.
 
-#### Artikel 17. Intrekking beleidsregels
+##### Artikel 17. Intrekking beleidsregels
 
 De [Beleidsregels incidentele kansspelen en prijsvragen](https://wetten.overheid.nl/jci1.3:c:BWBR0022180) en de [Beleidsregel aanvragen kansspelvergunningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035632) worden ingetrokken.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels niet-incidentele artikel 3 loterijvergunningen.
 

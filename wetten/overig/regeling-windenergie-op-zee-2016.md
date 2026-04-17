@@ -1,13 +1,39 @@
 ---
-title: "Regeling windenergie op zee 2016"
+title: "Regeling van de Minister van Economische Zaken van 1 juli 2016, nr. WJZ/16097774, tot aanwijzing van productie-installaties voor het opwekken van hernieuwbare elektriciteit met behulp van windenergie op zee als een subsidiabele categorie voor 2016 in het kader van de stimulering van duurzame energieproductie (Regeling windenergie op zee 2016)"
 identifier: "BWBR0038221"
-categorie: "Overig"
-publicatiedatum: 2016-09-15
-laatste_update: 2016-09-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038221"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-09-15"
+last_updated: "2016-09-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038221"
+soort: "ministeriele-regeling"
+stam_id: "13686833"
+version_id: "23444772"
+internal_id: "C33777311"
+label_id: "13653384"
+dtd_version: "2.0"
+original_entry_into_force: "2016-09-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038221/2016-09-15/0"
+intitule_bron: "Stcrt.2016-35873"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-07-01"
+intitule_published: "2016-07-08"
+intitule_in_force: "2016-07-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-35873"
+original_signed_date: "2016-07-01"
+original_published_date: "2016-07-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-35873"
+entry_into_force_date: "2016-09-15"
+jci_1_3: "jci1.3:c:BWBR0038221&z=2016-09-15&g=2016-09-15"
+jci_1_0: "1.0:c:BWBR0038221&g=2016-09-15"
+citeertitel_status: "officieel"
+short_title: "Regeling windenergie op zee 2016"
+signed_date: "2016-07-01"
+entry_into_force: "2016-09-15"
 ---
-
 # Regeling van de Minister van Economische Zaken van 1 juli 2016, nr. WJZ/16097774, tot aanwijzing van productie-installaties voor het opwekken van hernieuwbare elektriciteit met behulp van windenergie op zee als een subsidiabele categorie voor 2016 in het kader van de stimulering van duurzame energieproductie (Regeling windenergie op zee 2016)
 
 Gelet op [artikel 3, eerste en tweede lid, van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3) en de [artikelen 2, tweede tot en met vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=7), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=8), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=19), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=20), [22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), [23, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=23), [56, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56), [60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=60) en [61, eerste en derde lid van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=61);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,11 +66,11 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Windenergie op zee
 
-#### Artikel 2
+##### Artikel 2
 
 De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee die is gelegen op kavel III of kavel IV.
 
-#### Artikel 3
+##### Artikel 3
 
 Het nominale vermogen van de productie-installatie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038221&paragraaf=2&artikel=2&z=2016-09-15&g=2016-09-15), bedraagt:
 
@@ -52,13 +78,13 @@ Het nominale vermogen van de productie-installatie, bedoeld in [artikel 2](https
 
 - b. voor kavel IV tenminste 351 MW verminderd met het aantal MW van de windmolen met het minste vermogen in de desbetreffende productie-installatie, en ten hoogste 380 MW.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aanvragen om subsidie worden ontvangen in de periode van de dag na de datum van inwerkingtreding van deze regeling tot 29 september 2016, 17:00 uur.
 
 2. Per aanvrager kan in de periode, genoemd in het eerste lid, ten hoogste één niet-gecombineerde aanvraag per kavel en één gecombineerde aanvraag voor beide kavels worden ingediend.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De minister beslist in ieder geval afwijzend op een aanvraag indien:
 
@@ -78,7 +104,7 @@ Het nominale vermogen van de productie-installatie, bedoeld in [artikel 2](https
 
 4. Voor de bepaling van de omvang van het eigen vermogen overeenkomstig het derde lid, wordt het eigen vermogen van een deelnemer aan een samenwerkingsverband of van een moederonderneming meegerekend in het eigen vermogen van ten hoogste twee subsidie-aanvragers. Indien het eigen vermogen van dezelfde entiteit op grond van het derde lid voor de aanvragen van meer dan twee subsidie-aanvragers zou worden meegerekend, wordt dat eigen vermogen bij alle aanvragen buiten beschouwing gelaten.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het subsidieplafond bedraagt € 2.400.000.000 voor kavel III en € 2.600.000.000 voor kavel IV.
 
@@ -98,15 +124,15 @@ Het nominale vermogen van de productie-installatie, bedoeld in [artikel 2](https
 
 9. Een subsidie wordt geweigerd voor zover door verstrekking van de subsidie aan meer dan één producent per kavel subsidie zou worden verstrekt.
 
-#### Artikel 7
+##### Artikel 7
 
 Het tenderbedrag bedraagt ten hoogste € 0,11975 per kWh.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien de minister aan de aanvrager van een gecombineerde aanvraag subsidie verstrekt, verstrekt de minister per kavel die onderdeel is van de gecombineerde aanvraag een beschikking tot subsidieverlening.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De subsidie wordt verleend onder de opschortende voorwaarde dat binnen twee weken na de datum van de beschikking tot subsidieverlening een uitvoeringsovereenkomst tot stand is gekomen tussen de Staat en de subsidie-ontvanger overeenkomstig de overeenkomst opgenomen in de bijlage.
 
@@ -114,7 +140,7 @@ Indien de minister aan de aanvrager van een gecombineerde aanvraag subsidie vers
 
 3. Indien niet tijdig aan de voorwaarde, bedoeld in het eerste of tweede lid, is voldaan wordt subsidie voor de desbetreffende kavel verleend voor de eerstvolgende aanvraag in de rangschikking.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De subsidie wordt voor een periode van 15 jaar verstrekt.
 
@@ -122,17 +148,17 @@ Indien de minister aan de aanvrager van een gecombineerde aanvraag subsidie vers
 
 3. Productie-installaties als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038221&paragraaf=2&artikel=2&z=2016-09-15&g=2016-09-15) worden aangewezen als productie-installaties als bedoeld in [artikel 23, derde en vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=23).
 
-#### Artikel 11
+##### Artikel 11
 
 De subsidie-ontvanger neemt de productie-installatie in gebruik binnen 5 jaar na de datum van de beschikking tot subsidieverlening.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De basiselektriciteitsprijs, bedoeld in [artikel 20, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=20) bedraagt voor productie-installaties als bedoeld in artikel 2 € 0,03 per kWh.
 
 2. Het maximale aantal vollasturen, bedoeld in [artikel 23, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=23) voor productie-installaties als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038221&paragraaf=2&artikel=2&z=2016-09-15&g=2016-09-15) is gelijk aan de netto P50-waarde vollasturen die is opgenomen in de aanvraag.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Voor de vaststelling van de correcties ten behoeve van de voorschotverlening voor 2016 wordt voor de elektriciteitsprijs de gemiddelde waarde in de periode 1 mei 2014 tot en met 30 april 2015 gehanteerd.
 
@@ -144,15 +170,15 @@ De subsidie-ontvanger neemt de productie-installatie in gebruik binnen 5 jaar na
 
 #### § 3. Slotbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Algemene uitvoeringsregeling stimulering duurzame energieproductie.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling treedt in werking met ingang van 15 september 2016.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling windenergie op zee 2016.
 

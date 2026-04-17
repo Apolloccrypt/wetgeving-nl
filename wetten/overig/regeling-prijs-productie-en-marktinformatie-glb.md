@@ -1,20 +1,46 @@
 ---
-title: "Regeling prijs-, productie- en marktinformatie GLB"
+title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 juli 2021, nr. WJZ / 20185759, houdende bepalingen ten behoeve van prijs-, productie en marktinformatie in het kader van het Gemeenschappelijk Landbouwbeleid (Regeling prijs-, productie- en marktinformatie GLB)"
 identifier: "BWBR0045408"
-categorie: "Overig"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045408"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045408"
+soort: "ministeriele-regeling"
+stam_id: "16025943"
+version_id: "27908042"
+internal_id: "C39351611"
+label_id: "15959434"
+dtd_version: "2.0"
+original_entry_into_force: "2021-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045408/2026-04-01/0"
+intitule_bron: "Stcrt.2021-35768"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-07-14"
+intitule_published: "2021-07-16"
+intitule_in_force: "2021-07-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-35768"
+original_signed_date: "2021-07-14"
+original_published_date: "2021-07-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-35768"
+entry_into_force_date: "2021-10-01"
+jci_1_3: "jci1.3:c:BWBR0045408&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0045408&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling prijs-, productie- en marktinformatie GLB"
+signed_date: "2021-07-14"
+entry_into_force: "2021-10-01"
 ---
-
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 juli 2021, nr. WJZ / 20185759, houdende bepalingen ten behoeve van prijs-, productie en marktinformatie in het kader van het Gemeenschappelijk Landbouwbeleid (Regeling prijs-, productie- en marktinformatie GLB)
 
 Gelet op Gedelegeerde [Verordening (EU) 2017/1183](33083R2017) van de Commissie van 20 april 2017 tot aanvulling van de Verordeningen (EU) nr. 1307/2013 en (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft de aan de Commissie te melden informatie en documenten (PbEU 2017, L 171), artikelen 11 en 12 van Uitvoerings[verordening (EU) 2017/1185](33085R2017) van de Commissie van 20 april 2017 tot vaststelling van voorschriften voor de toepassing van de Verordeningen (EU) nr. 1307/2013 en (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft de aan de Commissie te melden informatie en documenten en tot wijziging en intrekking van diverse verordeningen van de Commissie (PbEU 2017, L 171), artikel 55 van Gedelegeerde [verordening (EU) 2017/891](32791R2017) van de Commissie van 13 maart 2017 tot aanvulling van Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft de sectoren groenten en fruit en verwerkte groenten en fruit en tot aanvulling van Verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad wat betreft de in deze sectoren toe te passen sancties en tot wijziging van Uitvoeringsverordening (EU) nr. 543/2011 van de Commissie (PbEU 2017, L 138) en de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=19), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=27), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=28) en [29 van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=29),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,11 +54,11 @@ In deze regeling wordt verstaan onder:
 
 - **Verordening (EU) 2017/891:** Gedelegeerde [verordening (EU) 2017/891](32791R2017) van de Commissie van 13 maart 2017 tot aanvulling van Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft de sectoren groenten en fruit en verwerkte groenten en fruit en tot aanvulling van [Verordening (EU) nr. 1306/2013](32013R1306) van het Europees Parlement en de Raad wat betreft de in deze sectoren toe te passen sancties en tot wijziging van Uitvoeringsverordening (EU) nr. 543/2011 van de Commissie (PbEU 2017, L 138).
 
-#### Artikel 2
+##### Artikel 2
 
 De minister is het centraal verbindingsorgaan bedoeld in artikel 4 van [Verordening (EU) 2017/1183](33083R2017).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Marktdeelnemers melden de wekelijkse prijsinformatie, bedoeld in artikel 11 en bijlage I van [Verordening (EU) 2017/1185](33085R2017), punten 1, 2, 3, 5, 6, 7 (alleen consumptiemelk), 8, 9 en 10, en artikel 55 en bijlage VI van [Verordening (EU) 2017/891](32791R2017), met behulp van een door de minister ter beschikking gesteld middel, uiterlijk iedere dinsdag 12:00 uur aan de minister. In afwijking van deze termijn geldt voor het hierboven aangehaalde punt 7 niet zijnde consumptiemelk, de wekelijkse termijn van uiterlijk iedere woensdag 12:00 uur.
 
@@ -100,19 +126,19 @@ De minister is het centraal verbindingsorgaan bedoeld in artikel 4 van [Verorden
 
 6. De in dit artikel bedoelde verzamelde gegevens, worden door de minister, voor zover niet uitdrukkelijk anders is bepaald, gedurende ten hoogste vijf jaar bewaard.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Regeling suiker, isoglucose en inulinestroop 1999.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Regeling marktordening zuivel.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling prijs-, productie- en marktinformatie GLB.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van 1 oktober 2021.
 

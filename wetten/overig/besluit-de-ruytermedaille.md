@@ -1,13 +1,39 @@
 ---
-title: "Besluit De Ruytermedaille"
+title: "Besluit van 29 oktober 2022, houdende instelling van de De Ruytermedaille (Besluit De Ruytermedaille)"
 identifier: "BWBR0047441"
-categorie: "Overig"
-publicatiedatum: 2022-11-09
-laatste_update: 2022-11-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047441"
+country: "nl"
+rank: "kb"
+publication_date: "2022-11-09"
+last_updated: "2022-11-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047441"
+soort: "KB"
+stam_id: "16558643"
+version_id: "29024862"
+internal_id: "C41085101"
+label_id: "16479594"
+dtd_version: "2.0"
+original_entry_into_force: "2022-11-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047441/2022-11-09/0"
+intitule_bron: "Stb.2022-440"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-10-29"
+intitule_published: "2022-11-08"
+intitule_in_force: "2022-11-08"
+intitule_status: "goed"
+original_publication: "Stb.2022-440"
+original_signed_date: "2022-10-29"
+original_published_date: "2022-11-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2022-440"
+entry_into_force_date: "2022-11-09"
+jci_1_3: "jci1.3:c:BWBR0047441&z=2022-11-09&g=2022-11-09"
+jci_1_0: "1.0:c:BWBR0047441&g=2022-11-09"
+citeertitel_status: "officieel"
+short_title: "Besluit De Ruytermedaille"
+signed_date: "2022-10-29"
+entry_into_force: "2022-11-09"
 ---
-
 # Besluit van 29 oktober 2022, houdende instelling van de De Ruytermedaille (Besluit De Ruytermedaille)
 
 Op de voordracht van Onze Minister van Infrastructuur en Waterstaat van 19 oktober 2022, nr. IenW/BSK-2022/235952, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -18,7 +44,7 @@ Overwegende dat het bij het [koninklijk besluit van 23 maart 1907](https://wette
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -32,11 +58,11 @@ In dit besluit wordt verstaan onder:
 
 - **draagteken:** het draagteken voor dagelijks gebruik.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit is van toepassing binnen Europees en Caribisch Nederland.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Er is een ereteken voor schippers, stuurlieden en verdere leden van de bemanning van koopvaardij- en vissersschepen en andere personen die zich door verdienstelijke daden voor de Nederlandse scheepvaart hebben onderscheiden.
 
@@ -46,7 +72,7 @@ Dit besluit is van toepassing binnen Europees en Caribisch Nederland.
 
 4. Het ereteken kan worden toegekend in goud, zilver of brons.
 
-#### Artikel 4
+##### Artikel 4
 
 Het ereteken wordt op voordracht van Onze Minister door Ons toegekend aan:
 
@@ -54,7 +80,7 @@ Het ereteken wordt op voordracht van Onze Minister door Ons toegekend aan:
 
 - b). hen die zich door bijzondere prestaties op nautisch of scheepstechnisch gebied bijzondere verdiensten hebben verworven voor de Nederlandse scheepvaart.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het ereteken kan worden toegekend aan Nederlanders en aan niet-Nederlanders.
 
@@ -62,13 +88,13 @@ Het ereteken wordt op voordracht van Onze Minister door Ons toegekend aan:
 
 3. Het ereteken wordt niet postuum toegekend.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het modelversiersel van het ereteken bestaat uit een ronde medaille in goud, zilver of brons met een middellijn van 28 mm. De voorzijde toont het borstbeeld van Michiel Adriaanszoon de Ruyter, met het omschrift «M.Az.DE.RUYTER.1607.24.maart.1907.». De keerzijde toont het wapen van Michiel Adriaanszoon de Ruyter met het omschrift «Koninklijke beloning voor verdienste voor de Nederlandse Scheepvaart».
 
 2. Het modelversiersel van het ereteken hangt af van een oranjelint met een breedte van 27 mm en wordt gedragen op de linkerborst.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het is aan hen, aan wie het ereteken is toegekend, vergund om het ereteken te dragen als miniatuurversiersel of draagteken.
 
@@ -84,7 +110,7 @@ Het ereteken wordt op voordracht van Onze Minister door Ons toegekend aan:
 
 7. Diegene met het ereteken in brons of zilver aan wie andermaal een ereteken wordt toegekend, draagt alleen het ereteken met de hoogste graad.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een voorstel tot toekenning van het ereteken wordt gericht aan Onze Minister.
 
@@ -96,25 +122,25 @@ Het ereteken wordt op voordracht van Onze Minister door Ons toegekend aan:
 
 5. Het ereteken wordt door of namens Onze Minister uitgereikt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Onze Minister kan het ereteken ontnemen in het geval de drager zich naar het oordeel van Onze Minister het ereteken niet langer waardig toont.
 
 2. Na ontneming zendt de gedecoreerde het ereteken en de oorkonde terug aan Onze Minister.
 
-#### Artikel 10
+##### Artikel 10
 
 De kosten van de vervaardiging van de versierselen en de oorkonde komen ten laste van het Rijk.
 
-#### Artikel 11
+##### Artikel 11
 
 De [koninklijke besluiten van 23 maart 1907](https://wetten.overheid.nl/jci1.3:c:BWBR0037185), no 1, en 21 februari 1949, no 63, worden ingetrokken.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit De Ruytermedaille.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

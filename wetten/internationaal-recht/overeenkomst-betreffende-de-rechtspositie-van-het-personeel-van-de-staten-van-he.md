@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst betreffende de rechtspositie van het personeel van de staten van herkomst dat is verbonden aan een internationaal militair hoofdkwartier van de NAVO in de Bondsrepubliek Duitsland"
 identifier: "BWBV0004474"
-categorie: "Internationaal recht"
-publicatiedatum: 1969-12-21
-laatste_update: 1969-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004474"
+country: "nl"
+rank: "verdrag"
+publication_date: "1969-12-21"
+last_updated: "1969-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004474"
+soort: "verdrag"
+stam_id: "10004156593"
+version_id: "10004326142"
+internal_id: "C10006916501"
+label_id: "10004141644"
+dtd_version: "2.0"
+original_entry_into_force: "1969-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004474/1969-12-21/0"
+intitule_bron: "Trb.1969-86"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1969-07-02"
+intitule_in_force: "1970-03-09"
+intitule_status: "goed"
+original_publication: "Trb.1969-86"
+original_published_date: "1969-07-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1969-86"
+entry_into_force_date: "1969-12-21"
+jci_1_3: "jci1.3:c:BWBV0004474&z=1969-12-21&g=1969-12-21"
+jci_1_0: "1.0:c:BWBV0004474&g=1969-12-21"
+citeertitel_status: "redactioneel"
+entry_into_force: "1969-12-21"
 ---
-
 # Overeenkomst betreffende de rechtspositie van het personeel van de staten van herkomst dat is verbonden aan een internationaal militair hoofdkwartier van de NAVO in de Bondsrepubliek Duitsland
 
 Het Koninkrijk België,
@@ -26,7 +48,7 @@ de Verenigde Staten van Amerika
 
 zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 (1). In deze Overeenkomst wordt verstaan onder:
 
@@ -54,15 +76,15 @@ zijn overeengekomen als volgt:
 
 - (iii). de onder (i) en (ii) van deze paragraaf genoemde personen onder de voorwaarden vermeld in paragraaf b) van het tweede lid van artikel 2 van de Aanvullende Overeenkomst, gedurende een tijdvak van negentig dagen na het overlijden of de overplaatsing van dat lid van een krijgsmacht of van een civiele dienst.
 
-#### Artikel 2
+##### Artikel 2
 
 De rechtspositie van de leden van een krijgsmacht of civiele dienst, die zijn verbonden aan een Hoofdkwartier en van hun gezinsleden wordt geregeld door de bepalingen van het NAVO-Statusverdrag en de Aanvullende Overeenkomst, die toepasselijk zijn op de rechtspositie van leden van een krijgsmacht of civiele dienst en van hun gezinsleden in de zin van de paragrafen (a) tot (c) van het eerste lid van artikel I van het NAVO-Statusverdrag en van het tweede lid van artikel 2 van de Aanvullende Overeenkomst.
 
-#### Artikel 3
+##### Artikel 3
 
 Ter zake van de rechtspositie van de personen bedoeld in artikel 2 van deze Overeenkomst, hebben de staten van herkomst en de Bondsrepubliek Duitsland de rechten en verplichtingen die hun zijn verleend of opgelegd ingevolge het NAVO-Statusverdrag en de Aanvullende Overeenkomst met betrekking tot de leden van de krijgsmacht, de civiele dienst en hun gezinsleden, in zoverre de rechten en verplichtingen voortvloeiend uit het NAVO-Statusverdrag niet ingevolge het Protocol zijn op- of overgedragen aan het bevoegde Algemene Hoofdkwartier en de daaraan verantwoordelijke autoriteiten.
 
-#### Artikel 4
+##### Artikel 4
 
 (1). Deze Overeenkomst dient te worden bekrachtigd of goedgekeurd. Elke ondertekenende Staat dient zijn akte van bekrachtiging of goedkeuring neder te leggen bij de Regering van de Bondsrepubliek Duitsland, die alle andere ondertekenende Staten mededeling doet van de datum van deze nederlegging.
 

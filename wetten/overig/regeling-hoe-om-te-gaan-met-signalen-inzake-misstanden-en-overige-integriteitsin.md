@@ -1,13 +1,38 @@
 ---
-title: "Regeling hoe om te gaan met signalen inzake misstanden en overige integriteitsinbreuken"
+title: "Vaststelling klokkenluidersregeling (Beschikking van 3 mei 2004, nr. ICO 2004-1048)"
 identifier: "BWBR0016675"
-categorie: "Overig"
-publicatiedatum: 2004-05-15
-laatste_update: 2004-05-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016675"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2004-05-15"
+last_updated: "2004-05-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016675"
+soort: "ministeriele-regeling"
+stam_id: "5871503"
+version_id: "10448232"
+internal_id: "C14186881"
+label_id: "5851474"
+original_entry_into_force: "2004-05-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016675/2004-05-15/0"
+intitule_bron: "Stcrt.2004-97"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-05-03"
+intitule_published: "2004-05-25"
+intitule_in_force: "2004-05-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-97"
+original_signed_date: "2004-05-03"
+original_published_date: "2004-05-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-97-p14-SC65070"
+entry_into_force_date: "2004-05-15"
+jci_1_3: "jci1.3:c:BWBR0016675&z=2004-05-15&g=2004-05-15"
+jci_1_0: "1.0:c:BWBR0016675&g=2004-05-15"
+citeertitel_status: "officieel"
+short_title: "Regeling hoe om te gaan met signalen inzake misstanden en overige integriteitsinbreuken"
+signed_date: "2004-05-03"
+entry_into_force: "2004-05-15"
 ---
-
 # Vaststelling klokkenluidersregeling (Beschikking van 3 mei 2004, nr. ICO 2004-1048)
 
 Overwegende dat het wenselijk is om voor de medewerkers van het kerndepartement van Financiën een regeling vast te stellen hoe om te gaan met signalen inzake misstanden en overige integriteitsinbreuken;
@@ -24,7 +49,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -76,7 +101,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. De adviseur integriteit
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een adviseur integriteit voor het ministerie.
 
@@ -84,7 +109,7 @@ In deze regeling wordt verstaan onder:
 
 3. De aanwijzing geldt voor een periode van ten hoogste vier jaar.
 
-#### Artikel 3
+##### Artikel 3
 
 De adviseur integriteit heeft tot taak:
 
@@ -96,13 +121,13 @@ De adviseur integriteit heeft tot taak:
 
 - d. het bijhouden van een centrale registratie van afgedane integriteitsaffaires.
 
-#### Artikel 4
+##### Artikel 4
 
 De adviseur integriteit brengt jaarlijks aan de secretaris-generaal verslag uit over het aantal malen dat hij is geraadpleegd en de onderwerpen waarover hij heeft geadviseerd in het voorgaande kalenderjaar.
 
 #### § 3. Het melden
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een medewerker meldt een vermoeden van een integriteitsinbreuk, in principe via zijn direct leidinggevende, aan zijn hoofd van dienst, of indien hij dat niet wenselijk acht aan de adviseur integriteit.
 
@@ -116,7 +141,7 @@ De adviseur integriteit brengt jaarlijks aan de secretaris-generaal verslag uit 
 
 #### § 4. Het omgaan met het vermoeden van een misstand (‘klokkenluidersregeling’)
 
-#### Artikel 6
+##### Artikel 6
 
 1. De ontvanger van de melding stelt onmiddellijk een rapport op waarin naast de gegevens van het dienstonderdeel, diensthoofd, degene die de melding doet, datum van melding, ook de feiten, omstandigheden, personen die bij het vermoeden een rol spelen worden beschreven.
 
@@ -126,7 +151,7 @@ De adviseur integriteit brengt jaarlijks aan de secretaris-generaal verslag uit 
 
 4. De secretaris-generaal beoordeelt of de minister en, eventueel, de staatssecretaris op de hoogte moeten worden gesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De secretaris-generaal stuurt een bevestiging van de ontvangst van de interne melding aan de medewerker die de melding deed onder vermelding van procedures en termijnen.
 
@@ -146,7 +171,7 @@ De adviseur integriteit brengt jaarlijks aan de secretaris-generaal verslag uit 
 
 #### § 5. Het omgaan met vermoedens van overige integriteitsinbreuken
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien de melding bij de leidinggevende is gedaan licht deze de adviseur integriteit in over de ontvangen melding.
 
@@ -158,13 +183,13 @@ De adviseur integriteit brengt jaarlijks aan de secretaris-generaal verslag uit 
 
 5. De leidinggevende licht na afloop de adviseur integriteit in over de afhandeling.
 
-#### Artikel 9
+##### Artikel 9
 
 De leidinggevende informeert de adviseur integriteit ook over afgehandelde overige integriteitsinbreuken die niet op de voet van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016675&paragraaf=5&artikel=8&z=2004-05-15&g=2004-05-15) zijn afgehandeld.
 
 #### § 6. De vertrouwenspersoon integriteit
 
-#### Artikel 10
+##### Artikel 10
 
 1. Er is een vertrouwenspersoon integriteit voor het ministerie. Naar behoefte kan bij onderdelen van het ministerie een eigen vertrouwenspersoon integriteit worden aangewezen.
 
@@ -172,7 +197,7 @@ De leidinggevende informeert de adviseur integriteit ook over afgehandelde overi
 
 3. De aanwijzing geldt voor een periode van ten hoogste vier jaar.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De vertrouwenspersoon integriteit heeft tot taak het desgevraagd adviseren van een medewerker privé en persoonlijk over integriteitsvraagstukken en over de wijze waarop hij kan of moet omgaan met kennis over mogelijke integriteitsinbreuken in de organisatie.
 
@@ -182,14 +207,14 @@ De leidinggevende informeert de adviseur integriteit ook over afgehandelde overi
 
 #### § 7. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Het Besluit instelling Adviseur Integriteit d.d. 11 augustus 1998 (DPO 98/311M), zoals gewijzigd bij Besluit d.d. 14 juni 1999 (DPO 99/284M), wordt ingetrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling hoe om te gaan met signalen inzake misstanden en overige integriteitsinbreuken.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit treedt in werking op 15 mei 2004.

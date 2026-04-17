@@ -1,13 +1,38 @@
 ---
-title: "Besluit kerninstallaties, splijtstoffen en ertsen"
+title: "Besluit van 4 september 1969, tot uitvoering van de artikelen 16, 17, 19, eerste lid, en 21 van de Kernenergiewet"
 identifier: "BWBR0002667"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002667"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002667"
+soort: "AMvB"
+stam_id: "661743"
+version_id: "30339232"
+internal_id: "C43699331"
+label_id: "642624"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002667/2025-01-01/0"
+intitule_bron: "Stb.1969-403"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1969-09-04"
+intitule_in_force: "1969-11-11"
+intitule_status: "goed"
+original_publication: "Stb.2024-265"
+original_signed_date: "2024-09-02"
+original_published_date: "2024-09-24"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2024-265"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0002667&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0002667&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit kerninstallaties, splijtstoffen en ertsen"
+signed_date: "2024-09-02"
+entry_into_force: "2025-01-01"
 ---
-
 # Besluit van 4 september 1969, tot uitvoering van de artikelen 16, 17, 19, eerste lid, en 21 van de Kernenergiewet
 
 Op de voordracht van Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid van 8 mei 1968, no. 668/372 W.J.A., gedaan in overeenstemming met Onze Minister van Verkeer en Waterstaat, de Centrale Raad voor de Kernenergie gehoord;
@@ -22,7 +47,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -90,7 +115,7 @@ Hebben goedgevonden en verstaan:
 
 6. In dit besluit en de daarop berustende bepalingen wordt onder drukvaten, installatieleidingen, veiligheidsappendages en onder druk staande appendages verstaan hetgeen daaronder wordt verstaan in het [Warenwetbesluit drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010586).
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij opslag in verband met het vervoer en het binnen of buiten Nederlands grondgebied brengen of doen brengen van splijtstoffen of ertsen.
 
@@ -98,7 +123,7 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanvraag om een vergunning voor handelingen binnen een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), of op een locatie waarop een milieubelastende activiteit die is aangewezen in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3) wordt verricht, wordt ingediend door degene die de inrichting drijft of de milieubelastende activiteit verricht.
 
@@ -126,7 +151,7 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 #### § 2. Aanvragen om een vergunning voor het voorhanden hebben of het zich ontdoen van splijtstoffen of ertsen
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aanvraag om een vergunning voor het voorhanden hebben van splijtstoffen bevat in ieder geval:
 
@@ -164,7 +189,7 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 - b. schriftelijk bewijs dat de krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=19) in samenhang met [artikel 4.15, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.15) vereiste financiële zekerheid is gesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aanvraag om een vergunning voor het zich ontdoen van splijtstoffen bevat in ieder geval:
 
@@ -192,7 +217,7 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 #### § 3. Aanvragen om een vergunning ten aanzien van een inrichting als bedoeld in artikel 15, onder b, van de wet
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aanvraag om een vergunning voor het oprichten van een inrichting, waarin kernenergie kan worden vrijgemaakt, bevat in ieder geval:
 
@@ -218,7 +243,7 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 2. Het eerste lid is van overeenkomstige toepassing op een aanvraag om een vergunning voor het in werking brengen of in werking houden van een inrichting als in dat lid bedoeld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De aanvraag om een vergunning voor het oprichten van een inrichting, waarin splijtstoffen, welke plutonium of verrijkt uranium bevatten, of bestraalde splijtstoffen kunnen worden vervaardigd, bewerkt of verwerkt, bevat in ieder geval de gegevens, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2025-01-01&g=2025-01-01), met dien verstande dat:
 
@@ -228,7 +253,7 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 2. Het eerste lid is van overeenkomstige toepassing op een aanvraag om een vergunning voor het in werking brengen of in werking houden van een inrichting als in dat lid bedoeld.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De aanvraag om een vergunning voor het oprichten van een inrichting, waarin splijtstoffen als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2025-01-01&g=2025-01-01), worden opgeslagen, bevat in ieder geval:
 
@@ -246,7 +271,7 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 2. Het eerste lid is van overeenkomstige toepassing op een aanvraag om een vergunning voor het in werking brengen of in werking houden van een inrichting als in dat lid bedoeld.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De aanvraag om een vergunning voor het oprichten van een inrichting, waarin onbestraalde splijtstoffen, welke geen plutonium of verrijkt uranium bevatten, kunnen worden vervaardigd, bewerkt of verwerkt, bevat in ieder geval:
 
@@ -264,7 +289,7 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 2. Het eerste lid is van overeenkomstige toepassing op een aanvraag om een vergunning voor het in werking brengen of in werking houden van een inrichting als in dat lid bedoeld.
 
-#### Artikel 16
+##### Artikel 16
 
 [Afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) alsmede [afdeling 13.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=13.2) zijn niet van toepassing op de voorbereiding van beschikkingen ter zake van het voorhanden hebben of het zich ontdoen van splijtstoffen:
 
@@ -272,7 +297,7 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 - b. indien het betreft verarmd uranium, natuurlijk uranium of natuurlijk thorium.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De aanvraag om een vergunning voor het wijzigen van een inrichting als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2025-01-01&g=2025-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2025-01-01&g=2025-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=8&z=2025-01-01&g=2025-01-01) of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2025-01-01&g=2025-01-01) bevat in ieder geval:
 
@@ -290,7 +315,7 @@ Dit besluit is niet van toepassing op het vervoeren, het voorhanden hebben bij o
 
 3. Dit artikel is niet van toepassing op een aanvraag om een vergunning als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=10&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 11a
+##### Artikel 11a
 
 In gevallen waarin de vergunning betrekking heeft op het oprichten of wijzigen van een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), dat tevens is aan te merken als een omgevingsplanactiviteit als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), bestaande uit een bouwactiviteit of het in stand houden van een bouwwerk, of een omgevingsvergunning voor een bouwactiviteit als bedoeld in artikel 5.1, tweede lid, aanhef en onder a, van de Omgevingswet, verstrekt de aanvrager:
 
@@ -300,15 +325,15 @@ In gevallen waarin de vergunning betrekking heeft op het oprichten of wijzigen v
 
 #### § 4. Aanvragen om een vergunning ten aanzien van een uitrusting als bedoeld in artikel 15, onder c, van de wet
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
@@ -316,7 +341,7 @@ Vervallen
 
 #### § 1. Beschikkingen met betrekking tot de totstandkoming waarvan de [paragrafen 3.5.2 tot en met 3.5.5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=3.5.2) van toepassing is
 
-#### Artikel 15
+##### Artikel 15
 
 Bij de voorbereiding van beschikkingen met betrekking waartoe op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=17) of [20, eerste lid, van de we](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=20)t [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is, worden – anders dan als adviseurs – betrokken:
 
@@ -340,7 +365,7 @@ Bij de voorbereiding van beschikkingen met betrekking waartoe op grond van [arti
 
 #### § 1. Beschikkingen op de voorbereiding waarvan [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is
 
-#### Artikel 16
+##### Artikel 16
 
 De [paragrafen 3.5.2 tot en met 3.5.5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=3.5.2) alsmede [afdeling 13.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=13.2) zijn niet van toepassing met betrekking tot de totstandkoming van beschikkingen ter zake van het voorhanden hebben of het zich ontdoen van splijtstoffen:
 
@@ -348,13 +373,13 @@ De [paragrafen 3.5.2 tot en met 3.5.5 van de Algemene wet bestuursrecht](https:/
 
 - b. indien het betreft verarmd uranium, natuurlijk uranium of natuurlijk thorium.
 
-#### Artikel 17
+##### Artikel 17
 
 Van het geven van een beschikking op de voorbereiding waarvan [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) alsmede [afdeling 13.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=13.2) niet van toepassing zijn, wordt mededeling gedaan in de **Staatscourant**.
 
 #### § 3. Weigering van vergunningen
 
-#### Artikel 18
+##### Artikel 18
 
 1. Geen vergunning als bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) wordt verleend indien:
 
@@ -398,7 +423,7 @@ Van het geven van een beschikking op de voorbereiding waarvan [afdeling 3.4 van 
 
 ### Hoofdstuk IIIa. Algemene regels
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het bepaalde bij of krachtens de in het tweede lid genoemde hoofdstukken, paragrafen en artikelen van het [Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) is van overeenkomstige toepassing.
 
@@ -426,15 +451,15 @@ Van het geven van een beschikking op de voorbereiding waarvan [afdeling 3.4 van 
 
 - k. [artikel 14.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=14.1), met dien verstande dat in plaats van «die van dit besluit afwijken» in dat artikel wordt gelezen: die van de van overeenkomstige toepassing verklaarde artikelen afwijken.
 
-#### Artikel 33
+##### Artikel 33
 
 Ter voorkoming van schade of ter beperking van de kans op schade buiten de inrichting kunnen aan een vergunning als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), van de wet ook andere voorschriften worden verbonden dan bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IV&paragraaf=1&artikel=31&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 1. Aan een vergunning als bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) worden voorschriften met het oog op de veiligheid van de staat verbonden, indien de vergunning uitsluitend of mede betrekking heeft op het doen van verrichtingen:
 
@@ -464,7 +489,7 @@ Vervallen
 
 - i. een aan de onderneming of instelling verbonden functionaris aan te wijzen, speciaal belast met het treffen van maatregelen ter uitvoering van de met het oog op de veiligheid van de staat aan de vergunning verbonden voorschriften, alsmede met het toezicht op de naleving van die maatregelen.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Aan een vergunning als bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) worden voorschriften met het oog op de bewaring van splijtstoffen en ertsen verbonden, indien en voor zover zulks nodig is voor de bescherming van de in [artikel 15b, eerste lid, onder a, b of e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15b), bedoelde belangen.
 
@@ -476,19 +501,19 @@ Vervallen
 
 - c. een of meer aan de onderneming of instelling verbonden functionarissen aan te wijzen, speciaal belast met het treffen van maatregelen ter uitvoering van de met het oog op de bewaring aan de vergunning verbonden voorschriften, alsmede met het toezicht op de naleving van die maatregelen.
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Aan een vergunning als bedoeld in [artikel 15, onder b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003418&artikel=15), welke uitsluitend of mede betrekking heeft op een inrichting of uitrusting, waarop de [Wet aansprakelijkheid kernongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003234) dan wel de wet van 24 oktober 1973, houdende regelen inzake wettelijke aansprakelijkheid van exploitanten van nucleaire schepen (**Stb.** 536), van toepassing is, wordt met het oog op het zeker stellen van de betaling van de vergoeding, aan derden toekomend voor schade, hun toegebracht, het voorschrift verbonden tot het hebben en in stand houden van een zodanige verzekering of andere financiële zekerheid als waartoe de houder van de vergunning ingevolge die wettelijke regeling gehouden is.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Aan een vergunning als bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) worden voorschriften met het oog op de nakoming van internationale verplichtingen verbonden, indien die vergunning uitsluitend of mede strekt tot het doen van verrichtingen met gebruikmaking van gegevens, hulpmiddelen of materialen dan wel van een inrichting of uitrusting ten aanzien waarvan internationale overeenkomsten of besluiten van volkenrechtelijke organisaties, welke voor Nederland verbindend zijn en geheel of gedeeltelijk betrekking hebben op het gebied van de kernenergie of van de ioniserende straling, de staat verplichtingen opleggen.
 
@@ -498,7 +523,7 @@ Aan een vergunning als bedoeld in [artikel 15, onder b of c, van de wet](https:/
 
 - b. aan bij het voorschrift aangewezen organen, waaraan een taak is opgedragen ter zake van de uitvoering van de in het eerste lid bedoelde overeenkomsten of besluiten, in het voorschrift omschreven inlichtingen te doen toekomen betreffende gegevens, hulpmiddelen of materialen dan wel een inrichting of uitrusting als in het eerste lid bedoeld, alsmede een op het verstrekken van zodanige inlichtingen gerichte administratie te voeren, aan de hand waarvan de juistheid van de verstrekte inlichtingen op eenvoudige wijze kan worden aangetoond.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor het voorhanden hebben van splijtstoffen of ertsen, indien binnen een locatie:
 
@@ -524,7 +549,7 @@ Aan een vergunning als bedoeld in [artikel 15, onder b of c, van de wet](https:/
 
 6. In de gevallen, bedoeld in het vijfde lid, is een registratieplicht van toepassing. [Artikel 3.9 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.9) is van overeenkomstige toepassing.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor het zich ontdoen van splijtstoffen of ertsen voor product- of materiaalhergebruik of van splijtstoffen of ertsen bevattende afvalstoffen, indien:
 
@@ -552,7 +577,7 @@ de activiteitsconcentratie van de radionucliden in de betrokken splijtstoffen of
 
 5. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om een erkenning van een ophaaldienst of een aanwijzing van een instelling voor de ontvangst van splijtstoffen of ertsen bevattende afvalstoffen als bedoeld in het derde lid.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor het zich ontdoen van splijtstoffen of ertsen door middel van lozing in de lucht, in het openbare riool of in het oppervlaktewater, indien:
 
@@ -568,7 +593,7 @@ de activiteitsconcentratie van de radionucliden in de betrokken splijtstoffen of
 
 #### § 1. Bescherming van mensen, dieren, planten en goederen
 
-#### Artikel 31
+##### Artikel 31
 
 1. Aan een vergunning als bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) worden zodanige voorschriften verbonden, dat:
 
@@ -580,19 +605,19 @@ de activiteitsconcentratie van de radionucliden in de betrokken splijtstoffen of
 
 2. Tot de in het eerste lid bedoelde voorschriften behoren voorschriften om te verzekeren dat de gebruikte installatie en alles wat daartoe behoort in goede staat van onderhoud verkeert.
 
-#### Artikel 31a
+##### Artikel 31a
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 De houder van een vergunning voor een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), is verplicht de lozingen van radioactief materiaal te controleren en deze te rapporteren aan de Autoriteit overeenkomstig bij verordening van de Autoriteit gestelde regels.
 
-#### Artikel 33
+##### Artikel 33
 
 Ter voorkoming van gevaar, schade of hinder buiten de inrichting kunnen aan een vergunning als bedoeld in [artikel 15, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2002-03-01&g=2002-03-01), van de wet ook andere voorschriften worden verbonden dan bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IV&paragraaf=1&artikel=31&z=2002-03-01&g=2002-03-01).
 
-#### Artikel 34
+##### Artikel 34
 
 1. Tot de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IV&paragraaf=1&artikel=31&z=2002-03-01&g=2002-03-01), bedoelde voorschriften behoren, indien het betreft een vergunning als bedoeld in [artikel 15, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2002-03-01&g=2002-03-01), van de wet, een voorschrift omtrent de Nederlandse wateren, welke het vaartuig mag bevaren, en omtrent de havens, waar het vaartuig bij verblijf in Nederland ligplaats mag hebben.
 
@@ -610,7 +635,7 @@ Ter voorkoming van gevaar, schade of hinder buiten de inrichting kunnen aan een 
 
 #### § 2. Veiligheid van de staat
 
-#### Artikel 35
+##### Artikel 35
 
 1. Aan een vergunning als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2002-03-01&g=2002-03-01) van de wet worden voorschriften met het oog op de veiligheid van de staat verbonden, indien de vergunning uitsluitend of mede betrekking heeft op het verrichten van handelingen:
 
@@ -642,7 +667,7 @@ Ter voorkoming van gevaar, schade of hinder buiten de inrichting kunnen aan een 
 
 #### § 1. Voorkoming van schade.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Aan een vergunning als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2002-03-01&g=2002-03-01) van de wet worden voorschriften met het oog op de bewaring en bewaking van splijtstoffen en ertsen verbonden, indien en voor zover zulks nodig is voor de bescherming van de in artikel 15**b**, eerste lid, van de wet, onder **a**, **b**, **d** of **f** bedoelde belangen.
 
@@ -658,13 +683,13 @@ Ter voorkoming van gevaar, schade of hinder buiten de inrichting kunnen aan een 
 
 #### § 6. Ontmantelingsplan
 
-#### Artikel 37
+##### Artikel 37
 
 1. Aan een vergunning als bedoeld in [artikel 15, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2002-03-01&g=2002-03-01), van de wet worden voorschriften met het oog op de energievoorziening verbonden, indien een geregelde voorziening met splijtstoffen of ertsen niet in voldoende mate is gewaarborgd.
 
 2. Voorschriften als bedoeld in het eerste lid kunnen de verplichting inhouden splijtstoffen of ertsen uitsluitend van bij het voorschrift aan te wijzen leveranciers te betrekken dan wel aan daarbij aan te wijzen afnemers te leveren.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Aan een vergunning als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2002-03-01&g=2002-03-01), van de wet ten aanzien van een inrichting, bestemd voor de opwekking van thermische of elektrische energie voor de openbare energievoorziening, worden voorschriften met het oog op de energievoorziening verbonden, indien:
 
@@ -678,13 +703,13 @@ Ter voorkoming van gevaar, schade of hinder buiten de inrichting kunnen aan een 
 
 #### § 5. Het zeker stellen van de betaling van de vergoeding, aan derden toekomend voor schade of letsel, hun toegebracht
 
-#### Artikel 39
+##### Artikel 39
 
 Aan een vergunning als bedoeld in [artikel 15, onder b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), welke uitsluitend of mede betrekking heeft op een inrichting of uitrusting, waarop de [Wet aansprakelijkheid kernongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003234) dan wel de wet van 24 oktober 1973, houdende regelen inzake wettelijke aansprakelijkheid van exploitanten van nucleaire schepen (**Stb.** 536), van toepassing is, wordt met het oog op het zeker stellen van de betaling van de vergoeding, aan derden toekomend voor schade of letsel, hun toegebracht, het voorschrift verbonden tot het hebben en in stand houden van een zodanige verzekering of andere financiële zekerheid als waartoe de houder van de vergunning ingevolge die wettelijke regeling gehouden is.
 
 #### § 2. Veiligheid van de staat
 
-#### Artikel 40
+##### Artikel 40
 
 1. Aan een vergunning als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2002-03-01&g=2002-03-01) van de wet worden voorschriften met het oog op de nakoming van internationale verplichtingen verbonden, indien die vergunning uitsluitend of mede strekt tot het verrichten van handelingen met gebruikmaking van gegevens, hulpmiddelen of materialen dan wel van een inrichting of uitrusting ten aanzien waarvan internationale overeenkomsten of besluiten van volkenrechtelijke organisaties, welke voor Nederland verbindend zijn en geheel of gedeeltelijk betrekking hebben op het gebied van de kernenergie of van de ioniserende straling, de staat verplichtingen opleggen.
 
@@ -698,7 +723,7 @@ Aan een vergunning als bedoeld in [artikel 15, onder b of c, van de wet](https:/
 
 #### § 4. Energievoorziening
 
-#### Artikel 41
+##### Artikel 41
 
 1. Het in [artikel 15, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2002-03-01&g=2002-03-01), van de wet vervatte verbod geldt niet voor het voorhanden hebben in een inrichting van onbestraalde splijtstoffen, welke uitsluitend natuurlijk of verarmd uranium tot ten hoogste 100 gram van elk dezer elementen en geen plutonium bevatten.
 
@@ -706,7 +731,7 @@ Aan een vergunning als bedoeld in [artikel 15, onder b of c, van de wet](https:/
 
 3. Het eerste lid geldt niet, indien de splijtstoffen, behalve uranium en de natuurlijke vervalprodukten daarvan, nog andere radioactieve nucliden bevatten en uit dien hoofde, bij overeenkomstige toepassing van het bepaalde bij of krachtens [artikel 25 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=25), daarvoor het in dat artikel bedoelde verbod zou gelden.
 
-#### Artikel 42
+##### Artikel 42
 
 Het in [artikel 15, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2002-03-01&g=2002-03-01), van de wet vervatte verbod geldt niet voor het voorhanden hebben van:
 
@@ -716,7 +741,7 @@ Het in [artikel 15, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002667
 
 - c. ertsen, die uitsluitend voorhanden worden gehouden voor onderwijs- of tentoonstellingsdoeleinden.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Het in [artikel 15, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2002-03-01&g=2002-03-01), van de wet vervatte verbod geldt niet voor het zich ontdoen van:
 
@@ -738,7 +763,7 @@ Het in [artikel 15, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002667
 
 #### § 7. Voorziening voor de opslag van splijtstof of erts bevattende afvalstoffen en radioactieve afvalstoffen
 
-#### Artikel 44
+##### Artikel 44
 
 Het in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2025-01-01&g=2025-01-01), van de wet vervatte verbod geldt niet voor het oprichten, in werking brengen, in werking houden of wijzigen van een inrichting, waarin splijtstoffen kunnen worden vervaardigd, bewerkt of verwerkt, dan wel splijtstoffen worden opgeslagen, in het geval, dat die inrichting niet is bestemd en niet wordt gebruikt voor een met de splijtstoffenkringloop verband houdend vervaardigingsproces of voor het voorhanden hebben van andere dan onbestraalde splijtstoffen en:
 
@@ -748,7 +773,7 @@ Het in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoo
 
 ### Hoofdstuk VI. Slotbepalingen
 
-#### Artikel 45
+##### Artikel 45
 
 1. Dit besluit kan worden aangehaald als: Besluit kerninstallaties, splijtstoffen en ertsen.
 
@@ -756,7 +781,7 @@ Het in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoo
 
 Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Het in [artikel 1, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=1) bedoelde percentage van in splijtstoffen aanwezig uranium, plutonium of thorium is onderscheidenlijk een tiende, een tiende en drie, gerekend naar het gewicht.
 
@@ -764,7 +789,7 @@ Het in [artikel 1, eerste lid, onder b, van de wet](https://wetten.overheid.nl/j
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Indien binnen een inrichting als bedoeld [in artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) of op een locatie waarop een milieubelastende activiteit die is aangewezen in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3) wordt verricht reeds splijtstoffen, ertsen of radioactieve stoffen voorhanden zijn, of toestellen worden gebruikt, heeft de risicoanalyse, bedoeld in de [artikelen 4, eerste lid, onder e, en derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=2&artikel=4&z=2025-01-01&g=2025-01-01), [5, eerste lid, onder d, en tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=2&artikel=5&z=2025-01-01&g=2025-01-01), [6, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2025-01-01&g=2025-01-01), en [9, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2025-01-01&g=2025-01-01), betrekking op de totaal ten gevolge van die inrichting of die locatie ontvangen effectieve dosis. De berekening van de effectieve dosis, bedoeld in de eerste volzin, heeft geen betrekking op de effectieve dosis ten gevolge van handelingen van een persoon als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-01-01&g=2025-01-01).
 
@@ -774,7 +799,7 @@ Het in [artikel 1, eerste lid, onder b, van de wet](https://wetten.overheid.nl/j
 
 #### § 3. Aanvragen om een vergunning ten aanzien van een inrichting als bedoeld in artikel 15, onder b, van de wet
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien een aanvraag om een vergunning tot wijziging van een inrichting als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2025-01-01&g=2025-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=7&z=2025-01-01&g=2025-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=8&z=2025-01-01&g=2025-01-01) of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=9&z=2025-01-01&g=2025-01-01) mede strekt tot het buiten gebruik stellen of ontmantelen van de inrichting of een deel daarvan, bevat de aanvraag in ieder geval:
 
@@ -808,7 +833,7 @@ Het in [artikel 1, eerste lid, onder b, van de wet](https://wetten.overheid.nl/j
 
 ### Hoofdstuk IIIa. Algemene regels
 
-#### Artikel 20
+##### Artikel 20
 
 Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen ten aanzien van inrichtingen als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003418&artikel=15) regels stellen waaraan het ontwerp en de bedrijfsvoering in verband met de voorkoming van schade moeten voldoen.
 
@@ -816,7 +841,7 @@ Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen ten a
 
 #### § 1. Voorkoming van schade.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Aan een vergunning als bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) worden voorschriften met het oog op de bewaring en bewaking van splijtstoffen en ertsen verbonden, indien en voor zover zulks nodig is voor de bescherming van de in [artikel 15**b**, eerste lid, van de wet, onder **a**, **b**, **d** of **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) bedoelde belangen.
 
@@ -832,13 +857,13 @@ Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen ten a
 
 #### § 4. Energievoorziening
 
-#### Artikel 37
+##### Artikel 37
 
 1. Aan een vergunning als bedoeld in [artikel 15, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2010-11-16&g=2010-11-16), van de wet worden voorschriften met het oog op de energievoorziening verbonden, indien een geregelde voorziening met splijtstoffen of ertsen niet in voldoende mate is gewaarborgd.
 
 2. Voorschriften als bedoeld in het eerste lid kunnen de verplichting inhouden splijtstoffen of ertsen uitsluitend van bij het voorschrift aan te wijzen leveranciers te betrekken dan wel aan daarbij aan te wijzen afnemers te leveren.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Aan een vergunning als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2008-01-01&g=2008-01-01), van de wet ten aanzien van een inrichting, bestemd voor de opwekking van thermische of elektrische energie voor de openbare energievoorziening, worden voorschriften met het oog op de energievoorziening verbonden, indien:
 
@@ -850,13 +875,13 @@ Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen ten a
 
 3. Voorschriften als bedoeld in het eerste lid, onder **b**, kunnen de verplichting inhouden om de inrichting op een landelijk koppelnet te doen aansluiten dan wel op een andere wijze te beschikken over een zodanig reservevermogen, dat de energievoorziening gedurende een bij het voorschrift te bepalen tijdvak is gewaarborgd.
 
-#### Artikel 39
+##### Artikel 39
 
 Aan een vergunning als bedoeld in [artikel 15, onder b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003418&artikel=15), welke uitsluitend of mede betrekking heeft op een inrichting of uitrusting, waarop de [Wet aansprakelijkheid kernongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003234) dan wel de wet van 24 oktober 1973, houdende regelen inzake wettelijke aansprakelijkheid van exploitanten van nucleaire schepen (**Stb.** 536), van toepassing is, wordt met het oog op het zeker stellen van de betaling van de vergoeding, aan derden toekomend voor schade, hun toegebracht, het voorschrift verbonden tot het hebben en in stand houden van een zodanige verzekering of andere financiële zekerheid als waartoe de houder van de vergunning ingevolge die wettelijke regeling gehouden is.
 
 #### § 3. Bewaring van splijtstoffen en ertsen
 
-#### Artikel 40
+##### Artikel 40
 
 1. Aan een vergunning als bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) worden voorschriften met het oog op de nakoming van internationale verplichtingen verbonden, indien die vergunning uitsluitend of mede strekt tot het doen van verrichtingen met gebruikmaking van gegevens, hulpmiddelen of materialen dan wel van een inrichting of uitrusting ten aanzien waarvan internationale overeenkomsten of besluiten van volkenrechtelijke organisaties, welke voor Nederland verbindend zijn en geheel of gedeeltelijk betrekking hebben op het gebied van de kernenergie of van de ioniserende straling, de staat verplichtingen opleggen.
 
@@ -870,7 +895,7 @@ Aan een vergunning als bedoeld in [artikel 15, onder b of c, van de wet](https:/
 
 #### § 1. Splijtstoffen en ertsen
 
-#### Artikel 41
+##### Artikel 41
 
 1. Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor het voorhanden hebben van splijtstoffen of ertsen, indien binnen een locatie:
 
@@ -894,7 +919,7 @@ Aan een vergunning als bedoeld in [artikel 15, onder b of c, van de wet](https:/
 
 5. Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor het voorhanden hebben van splijtstoffen of ertsen voor bij ministeriële regeling aangewezen handelingen die een beperkt risico van blootstelling van mensen tot gevolg hebben.
 
-#### Artikel 41a
+##### Artikel 41a
 
 Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor handelingen met apparaten die een ingekapselde bron bevatten waarbij de bij of krachtens [artikel 3.17 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.17) vastgestelde waarde voor de activiteit en de activiteitsconcentratie wordt overschreden, op voorwaarde dat:
 
@@ -904,7 +929,7 @@ Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - 3°. de Autoriteit voorwaarden voor recycling of verwijdering heeft vastgesteld.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor het zich ontdoen van splijtstoffen of ertsen voor product- of materiaalhergebruik of van splijtstoffen of ertsen bevattende afvalstoffen, indien:
 
@@ -932,7 +957,7 @@ Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 
 4. Het derde lid geldt alleen indien de ondernemer zich ervan heeft vergewist dat de ontvanger in het bezit is van een vergunning voor de desbetreffende handeling of anderszins gerechtigd is de stoffen te ontvangen.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor het zich ontdoen van splijtstoffen of ertsen door middel van lozing in de lucht, in het openbare riool of in het oppervlaktewater, indien:
 
@@ -946,7 +971,7 @@ Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 
 #### § 2. Inrichtingen
 
-#### Artikel 44
+##### Artikel 44
 
 Het in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2011-04-01&g=2011-04-01), van de wet vervatte verbod geldt niet voor het oprichten, in werking brengen, in werking houden of wijzigen van een inrichting, waarin splijtstoffen kunnen worden vervaardigd, bewerkt of verwerkt, dan wel splijtstoffen worden opgeslagen, in het geval, dat die inrichting niet is bestemd en niet wordt gebruikt voor een met de splijtstoffenkringloop verband houdend vervaardigingsproces of voor het voorhanden hebben van andere dan onbestraalde splijtstoffen en:
 
@@ -956,7 +981,7 @@ Het in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoo
 
 ### Hoofdstuk V. Vrijstellingen van het in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=III&paragraaf=1&artikel=15&z=2024-01-01&g=2024-01-01) van de wet vervatte verbod
 
-#### Artikel 45
+##### Artikel 45
 
 1. Dit besluit kan worden aangehaald als: Besluit kerninstallaties, splijtstoffen en ertsen.
 
@@ -964,7 +989,7 @@ Het in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoo
 
 Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het is verboden in een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), nucleaire drukapparatuur te gebruiken die niet is goedgekeurd door een daartoe door de Autoriteit aangewezen instelling.
 
@@ -992,13 +1017,13 @@ Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zij
 
 8. Goedkeuring van nucleaire drukapparatuur, die voor het in werking treden van dit artikel is verleend aan de hand van een keuring overeenkomstig het Stoombesluit, wordt gelijkgesteld met goedkeuring, verleend na een keuring overeenkomstig de krachtens het tweede lid bij verordening vastgestelde voorschriften.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.3), [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.4), [4.6, eerste lid, aanhef en onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.6), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.9), [4.10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.10), [4.11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.11), [4.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.12),[4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.13), [4.14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.14), [4.19, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.19), [4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.22), [4.23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.23), [4.24, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.24), [4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.25), [4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.26), [4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.27), en [4.28 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.28), de [artikelen 8.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.13), en [8.38 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.38) en de [artikelen 13.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=13.17), [13.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=13.20), [13.21](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=13.21), [13.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=13.22), en [13.24 tot en met 13.28 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=13.24) zijn van overeenkomstige toepassing op inrichtingen als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) waarin krachtens vergunning gevaarlijke stoffen aanwezig zijn of mogen zijn of kunnen ontstaan bij verlies van controle over de processen, in een hoeveelheid van ten minste de drempelwaarde, bedoeld in bijlage I, deel 1 of deel 2, bij de Seveso-richtlijn, met inachtneming van de aantekeningen bij die bijlage.
 
 2. Het eerste lid is niet van toepassing met betrekking tot gevaarlijke stoffen die tevens radioactief zijn.
 
-#### Artikel 24
+##### Artikel 24
 
 Het veiligheidsrapport, bedoeld in [artikel 6, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=II&paragraaf=3&artikel=6&z=2025-01-01&g=2025-01-01), en het opgestelde preventiebeleid, bedoeld in [artikel 4.10, eerste en tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.10), dan wel het veiligheidsrapport, bedoeld in [artikel 4.14, eerste en tweede lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.14), kunnen tot één veiligheidsrapport worden gecombineerd.
 
@@ -1020,7 +1045,7 @@ Splijtstoffen en ertsen als bedoeld in [artikel 22](https://wetten.overheid.nl/j
 
 Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een referentiedreiging of wijziging daarvan wordt door Onze Minister vastgesteld.
 
@@ -1048,7 +1073,7 @@ Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zij
 
 9. Bij verordening van de Autoriteit worden nadere regels gesteld met betrekking tot de uitvoering van het derde tot en met zesde lid.
 
-#### Artikel 44a
+##### Artikel 44a
 
 1. Een aanvraag om goedkeuring voor de wijze waarop financiële zekerheid wordt gesteld als bedoeld in [artikel 15f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15f) wordt ingediend bij Onze Minister met gelijktijdige toezending van een afschrift aan Onze Minister van Financiën.
 
@@ -1064,19 +1089,19 @@ Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zij
 
 3. Onze Minister kan nadere regels stellen met betrekking tot de aanvraag om goedkeuring.
 
-#### Artikel 44b
+##### Artikel 44b
 
 1. De houder van een vergunning voor het in werking brengen of het in werking houden van een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) actualiseert de wijze waarop financiële zekerheid is gesteld nadat het ontmantelingsplan of een wijziging daarvan door de Autoriteit is goedgekeurd of wanneer Onze Minister of Onze Minister van Financiën dit nodig acht.
 
 2. De vergunninghouder, bedoeld in het eerste lid, dient binnen zes maanden na goedkeuring van het ontmantelingsplan onderscheidenlijk binnen zes maanden nadat Onze Minister of Onze Minister van Financiën kenbaar heeft gemaakt actualisatie van de wijze waarop financiële zekerheid is gesteld, nodig te achten, een aanvraag om goedkeuring van de geactualiseerde financiële zekerheid in.
 
-#### Artikel 44c
+##### Artikel 44c
 
 1. Gelijktijdig met de aanvraag om een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) wordt een aanvraag ingediend om goedkeuring voor de wijze waarop financiële zekerheid wordt gesteld.
 
 2. Indien het eerste lid van toepassing is, wordt in afwijking van [artikel 44a, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=Va&artikel=44a&z=2025-01-01&g=2025-01-01), bij het overzicht van de verschillende kostenposten voor de buitengebruikstelling en de ontmanteling uitgegaan van het ontmantelingsplan zoals dat is ingediend bij de aanvraag om een vergunning voor het buiten gebruik stellen en het ontmantelen van de inrichting.
 
-#### Artikel 44d
+##### Artikel 44d
 
 1. De houder van een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) actualiseert de wijze waarop financiële zekerheid is gesteld na wijziging van die vergunning, voor zover die wijziging betrekking heeft op het ontmantelingsplan.
 
@@ -1084,7 +1109,7 @@ Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zij
 
 ### Hoofdstuk VI. Slotbepalingen
 
-#### Artikel 45
+##### Artikel 45
 
 1. Dit besluit kan worden aangehaald als: Besluit kerninstallaties, splijtstoffen en ertsen.
 
@@ -1108,11 +1133,11 @@ Splijtstoffen en ertsen als bedoeld in [artikel 22](https://wetten.overheid.nl/j
 
 Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 25
+##### Artikel 25
 
 De houder van een vergunning voor het oprichten, het in werking brengen of het in werking houden van een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) beschikt over een ontmantelingsplan.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Een ontmantelingsplan bevat in ieder geval een beschrijving van:
 
@@ -1132,7 +1157,7 @@ De houder van een vergunning voor het oprichten, het in werking brengen of het i
 
 3. Bij regeling van Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen nadere regels worden gesteld met betrekking tot de inhoud van het ontmantelingsplan. Daarbij kan worden bepaald dat de gestelde regels slechts gelden in de aangegeven categorieën van gevallen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het ontmantelingsplan van de houder van een vergunning voor het oprichten, het in werking brengen of het in werking houden van een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) en wijzigingen van dat plan behoeven goedkeuring van de Autoriteit.
 
@@ -1144,11 +1169,11 @@ De houder van een vergunning voor het oprichten, het in werking brengen of het i
 
 5. De Autoriteit kan de goedkeuring intrekken indien het ontmantelingsplan niet meer voldoet aan de eisen die daaraan bij of krachtens dit besluit zijn gesteld.
 
-#### Artikel 28
+##### Artikel 28
 
 De houder van een vergunning voor het oprichten, het in werking brengen of het in werking houden van een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) handelt overeenkomstig het laatst goedgekeurde ontmantelingsplan.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Vanaf het tijdstip waarop een vergunning voor het in werking brengen van een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is verleend totdat een vergunning voor het buiten gebruik stellen van die inrichting is verleend, actualiseert de houder van de vergunning voor het in werking brengen of het in werking houden van die inrichting het ontmantelingsplan ten minste elke vijf jaar, of wanneer de Autoriteit dit nodig acht.
 
@@ -1160,7 +1185,7 @@ De houder van een vergunning voor het oprichten, het in werking brengen of het i
 
 - c. wijzigingen van de inrichting voor zover deze gevolgen kunnen hebben voor de buitengebruikstelling of de ontmanteling.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De houder van een vergunning voor een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vangt aan met de buitengebruikstelling en de ontmanteling van die inrichting onmiddellijk nadat de normale bedrijfsvoering is beëindigd.
 
@@ -1168,31 +1193,31 @@ De houder van een vergunning voor het oprichten, het in werking brengen of het i
 
 3. De houder van een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) voltooit de buitengebruikstelling en de ontmanteling van die inrichting zo snel als redelijkerwijs mogelijk is.
 
-#### Artikel 30a
+##### Artikel 30a
 
 1. Bij de ontmanteling van een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) worden de feitelijke beperkingen die in de weg staan aan de realisatie van elke volgende functie op het terrein waarop de inrichting was gevestigd, weggenomen voor zover die beperkingen het gevolg zijn van die inrichting.
 
 2. Bij een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) kan de Autoriteit in bijzondere omstandigheden toestaan dat wordt afgeweken van het eerste lid.
 
-#### Artikel 30b
+##### Artikel 30b
 
 Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels stellen met betrekking tot de wijze waarop de buitengebruikstelling en de ontmanteling van een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) plaatsvinden.
 
-#### Artikel 30c
+##### Artikel 30c
 
 De Autoriteit beslist op een aanvraag tot het intrekken van een vergunning voor het ontmantelen van een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) binnen zes maanden na ontvangst van de aanvraag.
 
-#### Artikel 30d
+##### Artikel 30d
 
 1. Bij de aanvraag tot het intrekken van een vergunning voor het ontmantelen van een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) toont de houder van die vergunning ten genoegen van de Autoriteit aan dat de ontmanteling is voltooid. Hierbij toont hij in ieder geval aan dat aan [artikel 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&paragraaf=6&artikel=30a&z=2025-01-01&g=2025-01-01) is voldaan.
 
 2. De Autoriteit kan bij verordening regels stellen met betrekking tot de wijze waarop wordt aangetoond dat de ontmanteling is voltooid.
 
-#### Artikel 30e
+##### Artikel 30e
 
 De in de [artikelen 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&paragraaf=6&artikel=26&z=2025-01-01&g=2025-01-01), [30b](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&paragraaf=6&artikel=30b&z=2025-01-01&g=2025-01-01) en [30d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&paragraaf=6&artikel=30d&z=2025-01-01&g=2025-01-01), bedoelde regels kunnen tevens betrekking hebben op radioactieve afvalstoffen.
 
-#### Artikel 30f
+##### Artikel 30f
 
 1. De houder van een vergunning voor een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) treft tijdig bij een krachtens [artikel 10.6, zevende lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=10.6) of [artikel 42, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=V&paragraaf=1&artikel=42&z=2025-01-01&g=2025-01-01), aangewezen instelling een voorziening voor de opslag van:
 
@@ -1242,7 +1267,7 @@ Splijtstoffen en ertsen als bedoeld in [artikel 22](https://wetten.overheid.nl/j
 
 Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 30g
+##### Artikel 30g
 
 De vergunninghouder stelt de kosten die hij in rekening brengt voor het in werking houden van een inrichting waarin splijtstoffen worden opgeslagen als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), die op grond van [artikel 42, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=V&paragraaf=1&artikel=42&z=2025-01-01&g=2025-01-01), door de Autoriteit is aangewezen, vast op een transparante, objectieve en niet-discriminerende wijze. Tot de kosten behoren ook kosten die de vergunninghouder maakt voor onderzoek en ontwikkeling voor het beheer van verbruikte splijtstoffen, zoals dit in het nationaal programma, bedoeld in [artikel 40a](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IVa&artikel=40a&z=2025-01-01&g=2025-01-01), is opgenomen.
 
@@ -1256,7 +1281,7 @@ De vergunninghouder stelt de kosten die hij in rekening brengt voor het in werki
 
 ### Hoofdstuk IVa. Nationaal programma
 
-#### Artikel 40a
+##### Artikel 40a
 
 1. Onze Minister stelt een programma als bedoeld in artikel 5, eerste lid, onderdeel a, van richtlijn 2011/70/Euratom, vast voor het beheer van verbruikte splijtstoffen.
 
@@ -1354,7 +1379,7 @@ Splijtstoffen en ertsen als bedoeld in [artikel 22](https://wetten.overheid.nl/j
 
 Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 44e
+##### Artikel 44e
 
 1. Aangewezen overeenkomstig [artikel 15f, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15f), wordt de nucleaire inrichting van URENCO Nederland B.V. te Almelo.
 
@@ -1366,7 +1391,7 @@ Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zij
 
 #### § 3. De beveiliging van het voorhanden hebben en het zich ontdoen van splijtstoffen of ertsen en de beveiliging van inrichtingen als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15)
 
-#### Artikel 22a
+##### Artikel 22a
 
 1. De houder van een vergunning voor een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), beschikt over een overeenkomstig [artikel 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&paragraaf=3&artikel=22b&z=2025-01-01&g=2025-01-01) goedgekeurd beveiligingspakket met een beschrijving van de wijze waarop de inrichting of het categorie I-, II- en III-materiaal wordt beveiligd. Het beveiligingspakket bevat ten minste:
 
@@ -1396,7 +1421,7 @@ Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zij
 
 4. Bij verordening van de Autoriteit worden nadere regels gesteld met betrekking tot het beveiligingspakket en de daarin opgenomen of op te nemen beveiligingsmaatregelen en het plan interne beveiligingsorganisatie.
 
-#### Artikel 22b
+##### Artikel 22b
 
 1. Het beveiligingspakket, bedoeld in [artikel 22a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&paragraaf=3&artikel=22a&z=2025-01-01&g=2025-01-01), en wijzigingen daarvan die een negatief effect hebben of kunnen hebben op het niveau van de beveiliging, behoeven goedkeuring van de Autoriteit.
 
@@ -1410,7 +1435,7 @@ Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zij
 
 6. Indien een aanvraag om goedkeuring betrekking heeft op een wijziging van het beveiligingspakket en voorafgaand aan die aanvraag reeds meerdere wijzigingen van dat pakket zijn goedgekeurd, kan de Autoriteit bepalen dat in plaats van die aanvraag een aanvraag om goedkeuring van een daarbij te overleggen, volledig herzien beveiligingspakket wordt ingediend.
 
-#### Artikel 22c
+##### Artikel 22c
 
 1. De houder van een vergunning voor een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), wijzigt het beveiligingspakket, bedoeld in [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&paragraaf=3&artikel=22a&z=2025-01-01&g=2025-01-01), nadat de referentiedreiging is gewijzigd, of wanneer de Autoriteit dit nodig acht en dit schriftelijk heeft medegedeeld aan de vergunninghouder, waarbij in de kennisgeving is aangegeven wat de aard is van de aan te brengen wijzigingen.
 
@@ -1422,17 +1447,17 @@ Onze Ministers van Economische Zaken en van Sociale Zaken en Volksgezondheid zij
 
 - b. de wijzigingen binnen de door de Autoriteit gestelde termijn door de houder van een vergunning van een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), redelijkerwijs mogelijk zijn.
 
-#### Artikel 22d
+##### Artikel 22d
 
 1. De houder van een vergunning voor een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), meldt gebeurtenissen die aan onverkorte toepassing van het beveiligingspakket in de weg staan, onmiddellijk aan de Autoriteit.
 
 2. De vergunninghouder neemt onmiddellijk compenserende maatregelen en legt deze onverwijld voor aan de op grond van [artikel 58, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=58) aangewezen ambtenaren.
 
-#### Artikel 22e
+##### Artikel 22e
 
 Het [Geheimhoudingsbesluit Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002768) is van toepassing op de referentiedreiging en het beveiligingspakket, bedoeld in [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&paragraaf=3&artikel=22a&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 22f
+##### Artikel 22f
 
 1. De houder van een vergunning voor een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), voert het evaluatieprogramma, bedoeld in [artikel 22a, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&paragraaf=3&artikel=22a&z=2025-01-01&g=2025-01-01), uit.
 
@@ -1440,7 +1465,7 @@ Het [Geheimhoudingsbesluit Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:B
 
 3. De houder van een vergunning voor een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), wijzigt het beveiligingspakket voor zover de resultaten van de in het tweede lid bedoelde beoordeling daartoe aanleiding geven. Hij biedt de wijziging binnen een jaar na het ontstaan van de aanleiding tot wijziging ter goedkeuring aan de Autoriteit aan. [Artikel 22c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&paragraaf=3&artikel=22c&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 22g
+##### Artikel 22g
 
 1. De houder van een vergunning voor een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), beoordeelt elke tien jaar of het beveiligingspakket, bedoeld in [artikel 22a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&paragraaf=3&artikel=22a&z=2025-01-01&g=2025-01-01), voldoet aan de stand van de techniek. Daartoe worden de getroffen beveiligingsmaatregelen vergeleken met de op dat moment meest doeltreffende technieken die economisch en technisch gezien redelijkerwijs haalbaar zijn voor het bereiken van een hoog niveau van beveiliging. Indien de houder van een vergunning voor een inrichting als bedoeld in artikel 15, onder b, van de wet op grond van de voorschriften in de vergunning een tienjaarlijkse evaluatie voor de nucleaire veiligheid en stralingsbescherming moet uitvoeren, dan wordt de beoordeling tegelijkertijd met deze evaluatie uitgevoerd.
 
@@ -1448,13 +1473,13 @@ Het [Geheimhoudingsbesluit Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:B
 
 3. De Autoriteit kan de houder van een vergunning voor een inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) opdragen een of meer extra beoordelingen binnen het tijdvak van tien jaar te doen indien dat naar zijn oordeel met het oog op het niveau van beveiliging noodzakelijk is.
 
-#### Artikel 22h
+##### Artikel 22h
 
 Met het oog op een goede uitvoering van de [artikelen 22a tot en met 22g](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&paragraaf=3&artikel=22a&z=2025-01-01&g=2025-01-01) kunnen bij verordening van de Autoriteit nadere regels worden gesteld.
 
 #### § 4. Beveiliging van splijtstoffen of ertsen door de houder van een vergunning als bedoeld in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15)
 
-#### Artikel 22i
+##### Artikel 22i
 
 1. De houder van een vergunning als bedoeld in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), treft de beveiligingsmaatregelen die redelijkerwijs noodzakelijk nodig zijn om categorie I-, II- of III-materiaal en de daarop betrekking hebbende informatie en processen te beveiligen tegen diefstal en sabotage.
 
@@ -1472,7 +1497,7 @@ Met het oog op een goede uitvoering van de [artikelen 22a tot en met 22g](https:
 
 - e. de maatregelen die zijn of worden getroffen om de nadelige gevolgen van ioniserende straling voor mensen, dieren, planten en goederen te voorkomen of te beperken.
 
-#### Artikel 22j
+##### Artikel 22j
 
 1. De houder van een vergunning als bedoeld in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) beschikt over een beveiligingsplan met een beschrijving van de wijze waarop het categorie I-, II- of III-materiaal wordt beveiligd. De eerste volzin geldt niet indien de vergunninghouder tevens houder van een vergunning voor een inrichting als bedoeld in artikel 15, onder b, van de wet is en voor de desbetreffende inrichting voldaan wordt aan [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&hoofdstuk=IIIa&paragraaf=3&z=2025-01-01&g=2025-01-01).
 

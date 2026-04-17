@@ -1,34 +1,58 @@
 ---
 title: "Privacy-regeling centrale registratie tuchtrechtelijke gegevens Koninklijke Marine 1985"
 identifier: "BWBR0003866"
-categorie: "Digitaal en privacy"
-publicatiedatum: 1986-09-19
-laatste_update: 1986-09-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003866"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1986-09-19"
+last_updated: "1986-09-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003866"
+soort: "ministeriele-regeling"
+stam_id: "5046353"
+version_id: "9098872"
+internal_id: "C12093601"
+label_id: "5022544"
+dtd_version: "2.0"
+original_entry_into_force: "1985-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003866/1986-09-19/0"
+intitule_bron: "Stcrt.1985-210"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-10-22"
+intitule_published: "1985-10-29"
+intitule_in_force: "1985-10-29"
+intitule_status: "goed"
+original_publication: "Stcrt.1985-210"
+original_signed_date: "1985-10-22"
+original_published_date: "1985-10-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1985-11-01"
+jci_1_3: "jci1.3:c:BWBR0003866&z=1986-09-19&g=1986-09-19"
+jci_1_0: "1.0:c:BWBR0003866&g=1986-09-19"
+citeertitel_status: "officieel"
+signed_date: "1985-10-22"
+entry_into_force: "1985-11-01"
 ---
-
 # Privacy-regeling centrale registratie tuchtrechtelijke gegevens Koninklijke Marine 1985
 
 Gelet op de Aanwijzingen van de minister-president van 7 maart 1975, (Stcrt. 1975, 50) en van 16 juli 1982, (Stcrt. 1982, 156) inzake de bescherming van de persoonlijke levenssfeer in verband met geautomatiseerde systemen waarin persoonsgegevens zijn opgenomen bij de Rijksoverheid;
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beschikking wordt verstaan onder:
 
-#### Artikel 2. Doelstelling en gebruik
+##### Artikel 2. Doelstelling en gebruik
 
 1. Het doel van de registratie is het vervaardigen van overzichten ten behoeve van het nemen van rechtspositionele- en justitiële beslissingen en het uitoefenen van controle op de juiste wetstoepassing.
 
 2. De in de registratie opgenomen gegevens worden voor geen andere doeleinden gebruikt dan die met de in het eerste lid omschreven doelstelling verenigbaar zijn.
 
-#### Artikel 3. In de registratie opgenomen gegevens
+##### Artikel 3. In de registratie opgenomen gegevens
 
 De registratie kan ten hoogste bevatten de gegevens die in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0003866&bijlage=A&z=1986-09-19&g=1986-09-19) zijn vermeld.
 
-#### Artikel 4. Functioneren van de registratie
+##### Artikel 4. Functioneren van de registratie
 
 1. De bewerker ontvangt de desbetreffende opgemaakte formulieren, vertaalt een aantal verbale gegevens in code en controleert de ingevulde rubrieken op volledigheid. De bewerker verzorgt de omzetting van de aangeboden formulieren naar een machinaal leesbare gegevensdrager en draagt deze over aan de uitvoerder. De uitvoerder handelt overeenkomstig de voorschriften die de houder na overleg met hem opstelt.
 
@@ -36,7 +60,7 @@ De registratie kan ten hoogste bevatten de gegevens die in [bijlage A](https://w
 
 3. De gestrafte wordt bij het uitreiken van het desbetreffende straffenformulier gewezen op het recht van kennisneming en van correctie als bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003866&artikel=7&z=1986-09-19&g=1986-09-19) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003866&artikel=8&z=1986-09-19&g=1986-09-19).
 
-#### Artikel 5. Verstrekken van gegevens
+##### Artikel 5. Verstrekken van gegevens
 
 1. De in de registratie opgenomen gegevens worden door de houder in het kader van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003866&artikel=2&z=1986-09-19&g=1986-09-19) aangegeven doelstellingen gebruikt.
 
@@ -50,11 +74,11 @@ De registratie kan ten hoogste bevatten de gegevens die in [bijlage A](https://w
 
 - d. de geregistreerde, op diens verzoek, voor zover het gaat om uitoefening van het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003866&artikel=7&z=1986-09-19&g=1986-09-19) geregelde recht op kennisneming.
 
-#### Artikel 6. Toegang tot de registratie
+##### Artikel 6. Toegang tot de registratie
 
 Rechtstreeks toegang tot de registratie hebben uitsluitend en slechts binnen het kader van de hun opgedragen werkzaamheden, de door de houder aangewezen personen alsmede ambtenaren van de Algemene Rekenkamer.
 
-#### Artikel 7. Recht op kennisneming
+##### Artikel 7. Recht op kennisneming
 
 1. De geregistreerde heeft recht op kosteloze kennisneming van de omtrent hem geregistreerde gegevens, op de wijze als in de volgende leden bepaald.
 
@@ -62,7 +86,7 @@ Rechtstreeks toegang tot de registratie hebben uitsluitend en slechts binnen het
 
 3. De houder verstrekt de aanvrager een afschrift van de gegevens, zonodig van een nadere toelichting.
 
-#### Artikel 8. Verzoek tot correctie van gegevens
+##### Artikel 8. Verzoek tot correctie van gegevens
 
 1. De geregistreerde heeft het recht om correctie te vragen van de registratie indien naar zijn oordeel de opgenomen gegevens onjuist zijn of ten onrechte in de registratie zijn opgenomen danwel gegevens ontbreken die daarin wel opgenomen hadden moeten zijn.
 
@@ -80,11 +104,11 @@ Rechtstreeks toegang tot de registratie hebben uitsluitend en slechts binnen het
 
 4. Verzoeker kan zich tot de minister van Defensie wenden met bezwaren tegen een afwijzende beslissing van de houder. De minister brengt zijn beslissing ter kennis van de verzoeker en de houder.
 
-#### Artikel 9. Beveiliging
+##### Artikel 9. Beveiliging
 
 De houder en de bewerker zien er op toe dat ten aanzien van de organisatie en beveiliging alle maatregelen genomen worden die zijn voorgeschreven in de Aanwijzingen van de minister-president van 16 juli 1982 (Stcrt. 1982, 156), inzake de bescherming van de persoonlijke levenssfeer in verband met geautomatiseerde systemen waarin persoonsgegevens zijn opgenomen bij de Rijksoverheid, met dien verstande dat met betrekking tot het Duyverman Computer Centrum de uitvoerder op een en ander toeziet.
 
-#### Artikel 10. Bewaartermijnen
+##### Artikel 10. Bewaartermijnen
 
 1. De tuchtrechtelijke gegevens worden na 6 jaren uit de registratie verwijderd.
 
@@ -98,7 +122,7 @@ De houder en de bewerker zien er op toe dat ten aanzien van de organisatie en be
 
 - c. de gegevens worden verwijderd bij een effectieve bevordering van een vrijwillig dienende militair, uitgezonderd tijdens de initiële opleiding.
 
-#### Artikel 11. Inzage van de regeling
+##### Artikel 11. Inzage van de regeling
 
 1. Deze regeling ligt voor iedereen ter inzage bij:
 
@@ -112,7 +136,7 @@ De houder en de bewerker zien er op toe dat ten aanzien van de organisatie en be
 
 3. Deze regeling zal worden opgenomen in de bundel MP 31-100/112 (Rechtspositie militairen).
 
-#### Artikel 12. Slotbepalingen
+##### Artikel 12. Slotbepalingen
 
 1. Deze beschikking kan worden aangehaald als ‘Privacy-regeling centrale registratie tuchtrechtelijke gegevens Koninklijke Marine 1985’ en vervangt mijn beschikking van 29 mei 1978, nr. 389.269/13X.
 

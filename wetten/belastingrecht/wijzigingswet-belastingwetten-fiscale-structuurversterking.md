@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet belastingwetten (fiscale structuurversterking)"
+title: "Wet van 18 december 1997, houdende wijziging van enkele belastingwetten c.a. 1998 (fiscale structuurversterking)"
 identifier: "BWBR0009218"
-categorie: "Belastingrecht"
-publicatiedatum: 1998-02-13
-laatste_update: 1998-02-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009218"
+country: "nl"
+rank: "wet"
+publication_date: "1998-02-13"
+last_updated: "1998-02-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009218"
+soort: "wet"
+stam_id: "688953"
+version_id: "1003782"
+internal_id: "C1003781"
+label_id: "667614"
+dtd_version: "2.0"
+original_entry_into_force: "1998-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009218/1998-02-13/0"
+intitule_bron: "Stb.1997-731"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-12-18"
+intitule_published: "1997-12-29"
+intitule_in_force: "1997-12-29"
+intitule_status: "goed"
+original_publication: "Stb.1997-731"
+original_signed_date: "1997-12-18"
+original_published_date: "1997-12-29"
+original_effect: "nieuwe-regeling"
+original_dossier: "25688"
+original_url_id: "stb-1997-731"
+entry_into_force_date: "1998-01-01"
+entry_into_force_dossier: "25688"
+jci_1_3: "jci1.3:c:BWBR0009218&z=1998-02-13&g=1998-02-13"
+jci_1_0: "1.0:c:BWBR0009218&g=1998-02-13"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet belastingwetten (fiscale structuurversterking)"
+signed_date: "1997-12-18"
+entry_into_force: "1998-01-01"
 ---
-
-# Wijzigingswet belastingwetten (fiscale structuurversterking)
+# Wet van 18 december 1997, houdende wijziging van enkele belastingwetten c.a. 1998 (fiscale structuurversterking)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,39 +46,39 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Artikel III werkt terug tot en met 1 januari 1997.
 
-#### ARTIKEL I
+##### ARTIKEL I
 
 Wijzigt de Wet op de inkomstenbelasting 1964.
 
-#### ARTIKEL II
+##### ARTIKEL II
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### ARTIKEL III
+##### ARTIKEL III
 
 Wijzigt de Invorderingswet 1990.
 
-#### ARTIKEL IV
+##### ARTIKEL IV
 
 Wijzigt de Wet op de vennootschapsbelasting 1969
 
-#### ARTIKEL V
+##### ARTIKEL V
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### ARTIKEL VI
+##### ARTIKEL VI
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### ARTIKEL VII
+##### ARTIKEL VII
 
 Artikel 10, vijfde lid, van de Wet op de inkomstenbelasting 1964 vindt geen toepassing met betrekking tot de na de totstandkoming van deze wet door Onze Minister krachtens het vierde lid van dat artikel te treffen regeling.
 
-#### ARTIKEL VIII
+##### ARTIKEL VIII
 
 Het koninklijk besluit van 24 september 1997 (Stb.423) tot wijziging van het [Besluit uitsluiting aftrek omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002636) (regeling aftrek voorbelasting op outplacement) wordt goedgekeurd.
 
-#### ARTIKEL IX
+##### ARTIKEL IX
 
 1. Deze wet treedt in werking met ingang van 1 januari 1998, met uitzondering van [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0009218&artikel=I&z=1998-02-13&g=1998-02-13), en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0009218&artikel=IV&z=1998-02-13&g=1998-02-13), die in werking treden op een bij koninklijk besluit te bepalen tijdstip, doch niet eerder dan het tijdstip waarop een protocol is gesloten tussen de landen van het Koninkrijk waarin is opgenomen dat:
 

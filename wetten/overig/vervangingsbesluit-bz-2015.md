@@ -1,28 +1,54 @@
 ---
-title: "Vervangingsbesluit BZ 2015"
+title: "Regeling van de Minister van Buitenlandse Zaken van 11 februari 2015, nr. MinBuZa.2015.44528 met betrekking tot vervanging van archiefbescheiden die niet voor vernietiging in aanmerking komen (Vervangingsbesluit BZ 2015)"
 identifier: "BWBR0036333"
-categorie: "Overig"
-publicatiedatum: 2020-06-16
-laatste_update: 2020-06-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036333"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-06-16"
+last_updated: "2020-06-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036333"
+soort: "ministeriele-regeling"
+stam_id: "12994723"
+version_id: "22414962"
+internal_id: "C32163191"
+label_id: "12963544"
+dtd_version: "2.0"
+original_entry_into_force: "2015-04-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036333/2020-06-16/0"
+intitule_bron: "Stcrt.2015-5028"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-02-11"
+intitule_published: "2015-02-24"
+intitule_in_force: "2015-02-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-12212"
+original_signed_date: "2015-04-24"
+original_published_date: "2015-05-07"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2015-12212"
+entry_into_force_date: "2015-04-24"
+jci_1_3: "jci1.3:c:BWBR0036333&z=2020-06-16&g=2020-06-16"
+jci_1_0: "1.0:c:BWBR0036333&g=2020-06-16"
+citeertitel_status: "officieel"
+short_title: "Vervangingsbesluit BZ 2015"
+signed_date: "2015-04-24"
+entry_into_force: "2015-04-24"
 ---
-
 # Regeling van de Minister van Buitenlandse Zaken van 11 februari 2015, nr. MinBuZa.2015.44528 met betrekking tot vervanging van archiefbescheiden die niet voor vernietiging in aanmerking komen (Vervangingsbesluit BZ 2015)
 
 Gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7), [artikel 6, eerste lid, van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6) en [artikel 26b van de Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b);
 
 Besluit
 
-#### Artikel 1
+##### Artikel 1
 
 De digitale vervanging van papieren archiefbescheiden heeft betrekking op alle te vernietigen en alle blijvend te bewaren archiefbescheiden van het Ministerie van Buitenlandse Zaken.
 
-#### Artikel 2
+##### Artikel 2
 
 De vervanging wordt al dan niet in eigen beheer uitgevoerd overeenkomstig het vervangingsproces zoals beschreven in de documenten die in het kader van het archiefbeheer door de Minister van Buitenlandse Zaken zijn vastgesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De vervangen archiefbescheiden worden direct na vaststelling van de kwaliteit van de digitale reproductie vernietigd.
 
@@ -34,7 +60,7 @@ De vervanging wordt al dan niet in eigen beheer uitgevoerd overeenkomstig het ve
 
 3. Als de noodzaak tot het aanhouden van papieren exemplaren vanwege bewijslast of bedrijfsvoering vervalt, zullen van deze papieren archiefbescheiden slechts de digitale versies worden aangehouden en wordt de papieren versie voorafgaand aan overdracht naar een archiefbewaarplaats alsnog vernietigd.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
@@ -86,7 +112,7 @@ Documenten die tijdelijk1Bij te bewaren documenten wordt vastgesteld of de bewij
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 Deze regeling wordt aangehaald als: Vervangingsbesluit BZ 2015.
 

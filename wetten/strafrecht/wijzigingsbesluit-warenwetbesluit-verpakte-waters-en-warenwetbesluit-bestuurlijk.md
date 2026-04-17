@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Warenwetbesluit Verpakte waters en Warenwetbesluit bestuurlijke boeten"
+title: "Besluit van 6 november 2003, houdende wijziging van het Warenwetbesluit Verpakte waters en van het Warenwetbesluit bestuurlijke boeten"
 identifier: "BWBR0015844"
-categorie: "Strafrecht"
-publicatiedatum: 2006-01-01
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015844"
+country: "nl"
+rank: "amvb"
+publication_date: "2006-01-01"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015844"
+soort: "AMvB"
+stam_id: "5477163"
+version_id: "9862162"
+internal_id: "C13328271"
+label_id: "5451634"
+dtd_version: "2.0"
+original_entry_into_force: "2003-11-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015844/2006-01-01/0"
+intitule_bron: "Stb.2003-473"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-11-06"
+intitule_published: "2003-11-25"
+intitule_in_force: "2003-11-25"
+intitule_status: "goed"
+original_publication: "Stb.2003-473"
+original_signed_date: "2003-11-06"
+original_published_date: "2003-11-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2003-473"
+entry_into_force_date: "2003-11-26"
+jci_1_3: "jci1.3:c:BWBR0015844&z=2006-01-01&g=2006-01-01"
+jci_1_0: "1.0:c:BWBR0015844&g=2006-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Warenwetbesluit Verpakte waters en Warenwetbesluit bestuurlijke boeten"
+signed_date: "2003-11-06"
+entry_into_force: "2003-11-26"
 ---
-
 # Besluit van 6 november 2003, houdende wijziging van het Warenwetbesluit Verpakte waters en van het Warenwetbesluit bestuurlijke boeten
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 11 september 2003, VGB/VL 2407747 gedaan in overeenstemming met Onze Ministers van Justitie en van Economische Zaken;
@@ -24,15 +50,15 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Warenwetbesluit Verpakte waters.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
-#### Artikel III
+##### Artikel III
 
 1. Dit besluit, en [artikel 4, eerste lid, onder b, van het Warenwetbesluit Verpakte waters](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&artikel=4), treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

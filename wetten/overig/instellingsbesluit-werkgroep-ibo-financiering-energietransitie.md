@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Werkgroep IBO Financiering Energietransitie"
+title: "Besluit van de Minister van Financiën, van 26 september 2020, nr. 2020-176696 tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Financiering Energietransitie (Instellingsbesluit Werkgroep IBO Financiering Energietransitie)"
 identifier: "BWBR0044199"
-categorie: "Overig"
-publicatiedatum: 2020-10-13
-laatste_update: 2020-10-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044199"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-10-13"
+last_updated: "2020-10-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044199"
+soort: "ministeriele-regeling"
+stam_id: "15657153"
+version_id: "27067072"
+internal_id: "C38288391"
+label_id: "15596734"
+dtd_version: "2.0"
+original_entry_into_force: "2020-10-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044199/2020-10-13/0"
+intitule_bron: "Stcrt.2020-52168"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-09-26"
+intitule_published: "2020-10-12"
+intitule_in_force: "2020-10-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-52168"
+original_signed_date: "2020-09-26"
+original_published_date: "2020-10-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-52168"
+entry_into_force_date: "2020-10-13"
+jci_1_3: "jci1.3:c:BWBR0044199&z=2020-10-13&g=2020-10-13"
+jci_1_0: "1.0:c:BWBR0044199&g=2020-10-13"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Werkgroep IBO Financiering Energietransitie"
+signed_date: "2020-09-26"
+entry_into_force: "2020-10-13"
 ---
-
 # Besluit van de Minister van Financiën, van 26 september 2020, nr. 2020-176696 tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Financiering Energietransitie (Instellingsbesluit Werkgroep IBO Financiering Energietransitie)
 
 Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044199&artikel=2&z=2020-10-13&g=2020-10-13).
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een werkgroep IBO Financiering Energietransitie.
 
@@ -30,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 3. Het onderzoek zal moeten resulteren in een rapport waarin één of meerdere beleidsopties worden gegeven waarover vervolgens afweging kan plaatsvinden.
 
-#### Artikel 3. Samenstelling werkgroep, benoeming leden en instellingsduur
+##### Artikel 3. Samenstelling werkgroep, benoeming leden en instellingsduur
 
 1. De werkgroep bestaat uit een voorzitter en 10 leden.
 
@@ -66,7 +92,7 @@ In dit besluit wordt verstaan onder:
 
 7. De werkgroep wordt opgeheven twee weken nadat het rapport zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044199&artikel=2&z=2020-10-13&g=2020-10-13) door de Minister van Financiën aan de Minister van Economische Zaken en Klimaat is aangeboden, behoudens voor zover de werkgroep nog wordt verzocht toelichting te geven op het eindrapport.
 
-#### Artikel 4. Werkwijze
+##### Artikel 4. Werkwijze
 
 1. De werkgroep stelt haar eigen werkwijze vast, met inachtneming van het IBO handboek.
 
@@ -78,15 +104,15 @@ In dit besluit wordt verstaan onder:
 
 5. De minister draagt, na overleg met de werkgroep, zorg voor de nodige voorzieningen ten behoeve van de werkzaamheden van de werkgroep.
 
-#### Artikel 5. Openbaarmaking
+##### Artikel 5. Openbaarmaking
 
 Rapporten, notities, verslagen, adviezen en andere producten die door of namens de werkgroep worden vervaardigd of vergaard, worden niet door de werkgroep openbaar gemaakt, maar uitsluitend aan de minister uitgebracht of overgedragen.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 15 september 2020.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Werkgroep IBO Financiering Energietransitie.
 

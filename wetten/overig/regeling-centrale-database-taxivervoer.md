@@ -1,13 +1,39 @@
 ---
-title: "Regeling centrale database taxivervoer"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 3 juni 2025, nr. IENW/BSK-2025/130201, houdende regels met betrekking tot de centrale database taxivervoer (Regeling centrale database taxivervoer) [KetenID WGK026754]"
 identifier: "BWBR0051129"
-categorie: "Overig"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051129"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051129"
+soort: "ministeriele-regeling"
+stam_id: "17449233"
+version_id: "30774072"
+internal_id: "C44113781"
+label_id: "17352174"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051129/2025-07-01/0"
+intitule_bron: "Stcrt.2025-19143"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-03"
+intitule_published: "2025-06-20"
+intitule_in_force: "2025-06-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-19143"
+original_signed_date: "2025-06-03"
+original_published_date: "2025-06-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-19143"
+entry_into_force_date: "2025-07-01"
+jci_1_3: "jci1.3:c:BWBR0051129&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0051129&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling centrale database taxivervoer"
+signed_date: "2025-06-03"
+entry_into_force: "2025-07-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 3 juni 2025, nr. IENW/BSK-2025/130201, houdende regels met betrekking tot de centrale database taxivervoer (Regeling centrale database taxivervoer) [KetenID WGK026754]
 
 Gelet op [artikel 83b, derde lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=83b);
@@ -16,7 +42,7 @@ BESLUIT:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Registratie en aanlevering van taxivervoergegevens
 
-#### Artikel 2. (Registreren en aanleveren van taxivervoergegevens)
+##### Artikel 2. (Registreren en aanleveren van taxivervoergegevens)
 
 1. De centrale applicatie waarvan de vervoerder gebruik maakt, wordt aangesloten op de CDT als het registratiemiddel en de centrale applicatie voldoen aan de in deze regeling opgenomen voorwaarden.
 
@@ -60,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 7. Het registreren en aanleveren van taxivervoergegevens vindt plaats aan de hand van de beschrijving, bedoeld in de bijlage.
 
-#### Artikel 3. (Zorgplichten vervoerder)
+##### Artikel 3. (Zorgplichten vervoerder)
 
 1. De vervoerder stelt aan de bestuurder een deugdelijk registratiemiddel ter beschikking.
 
@@ -74,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 6. Als foutmeldingen of waarschuwingsberichten worden ontvangen, verhelpt de vervoerder onverwijld de oorzaken ervan.
 
-#### Artikel 4. (Validatie van de bestuurder)
+##### Artikel 4. (Validatie van de bestuurder)
 
 1. De vervoerder valideert de gegevens van de bestuurder bij de CDT Meldingen API voordat de bestuurder voor de eerste keer met het registratiemiddel taxivervoer verricht voor de vervoerder.
 
@@ -96,7 +122,7 @@ In deze regeling wordt verstaan onder:
 
 7. De bestuurder met een niet-Nederlands rijbewijs is gevalideerd als het chauffeursnummer van een geldige bevoegdheid taxivervoer is.
 
-#### Artikel 5. (Validatie van de auto waarmee taxivervoer wordt verricht)
+##### Artikel 5. (Validatie van de auto waarmee taxivervoer wordt verricht)
 
 1. De vervoerder valideert een auto waarmee taxivervoer wordt verricht voordat deze voor de eerste keer voor de vervoerder met het registratiesysteem van de CDT wordt gebruikt en legt dit vast.
 
@@ -104,7 +130,7 @@ In deze regeling wordt verstaan onder:
 
 3. In een niet door de vervoerder gevalideerde auto waarmee taxivervoer wordt verricht, wordt door een bestuurder geen taxivervoer verricht.
 
-#### Artikel 6. (Aanmelden van de bestuurder)
+##### Artikel 6. (Aanmelden van de bestuurder)
 
 1. Bij aanvang van de werkzaamheden aan boord van een auto waarmee taxivervoer wordt verricht meldt de bestuurder zich aan op het registratiemiddel.
 
@@ -116,7 +142,7 @@ In deze regeling wordt verstaan onder:
 
 5. Zonder aanmelden is het een bestuurder niet toegestaan om taxivervoer te verrichten.
 
-#### Artikel 7. (Gebruik van het registratiemiddel door de bestuurder)
+##### Artikel 7. (Gebruik van het registratiemiddel door de bestuurder)
 
 1. Indien de bestuurder, voorafgaand aan de melding, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051129&paragraaf=2&artikel=6&z=2025-07-01&g=2025-07-01), andere werkzaamheden heeft verricht na zijn laatste afmelding als bedoeld in het zevende lid van dit artikel, registreert hij de begin- en eindtijden van de andere werkzaamheden bij de melding als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051129&paragraaf=2&artikel=6&z=2025-07-01&g=2025-07-01).
 
@@ -136,7 +162,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Techniek
 
-#### Artikel 8. (Registratiemiddel)
+##### Artikel 8. (Registratiemiddel)
 
 1. Het registratiemiddel bevat of heeft de volgende eigenschappen:
 
@@ -166,7 +192,7 @@ In deze regeling wordt verstaan onder:
 
 2. Het is niet toegestaan het registratiemiddel op een wijze te gebruiken die maakt dat taxivervoergegevens kunnen worden gewijzigd of verwijderd voordat deze zijn aangeleverd in de CDT.
 
-#### Artikel 9. (Centrale applicatie)
+##### Artikel 9. (Centrale applicatie)
 
 1. Het aanleveren van taxivervoergegevens vanaf het registratiemiddel aan de CDT vindt plaats via een centrale applicatie.
 
@@ -178,7 +204,7 @@ In deze regeling wordt verstaan onder:
 
 - c. een functionaliteit die maakt dat een volgend bericht aan de CDT Meldingen API pas wordt aangeboden als het voorgaande bericht succesvol is verwerkt.
 
-#### Artikel 10. (Informatiebeveiliging)
+##### Artikel 10. (Informatiebeveiliging)
 
 1. De vervoerder maakt gebruik van een ICT-oplossing en een organisatie die zijn gecertificeerd voor ISO 27001. De certificatie wordt verricht door een certificerende instelling die is geaccrediteerd door de Raad voor Accreditatie of een andere accreditatie instelling die is erkend in een lidstaat van de Europese Unie.
 
@@ -186,11 +212,11 @@ In deze regeling wordt verstaan onder:
 
 #### § 4. Overgangs- en slotbepalingen
 
-#### Artikel 11. (Inwerkingtreding)
+##### Artikel 11. (Inwerkingtreding)
 
 Deze regeling treedt in werking met ingang van 1 juli 2025.
 
-#### Artikel 12. (Citeertitel)
+##### Artikel 12. (Citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling centrale database taxivervoer.
 

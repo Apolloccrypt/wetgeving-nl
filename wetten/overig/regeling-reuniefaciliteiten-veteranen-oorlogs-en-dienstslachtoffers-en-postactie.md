@@ -1,18 +1,44 @@
 ---
-title: "Regeling reüniefaciliteiten veteranen, oorlogs- en dienstslachtoffers en postactieven"
+title: "Ministeriële regeling van 18 mei 2010, nr. BS/2010015570, van de afdeling Pensioenen, Sociale Zekerheid, Zorg en Veteranen"
 identifier: "BWBR0027866"
-categorie: "Overig"
-publicatiedatum: 2020-02-25
-laatste_update: 2020-02-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027866"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-02-25"
+last_updated: "2020-02-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027866"
+soort: "ministeriele-regeling"
+stam_id: "10600213"
+version_id: "17509772"
+internal_id: "C24232141"
+label_id: "10575194"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027866/2020-02-25/0"
+intitule_bron: "Stcrt.2010-10357"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-05-18"
+intitule_published: "2010-07-06"
+intitule_in_force: "2010-07-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-10357"
+original_signed_date: "2010-05-18"
+original_published_date: "2010-07-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-10357"
+entry_into_force_date: "2010-07-06"
+jci_1_3: "jci1.3:c:BWBR0027866&z=2020-02-25&g=2020-02-25"
+jci_1_0: "1.0:c:BWBR0027866&g=2020-02-25"
+citeertitel_status: "officieel"
+short_title: "Regeling reüniefaciliteiten veteranen, oorlogs- en dienstslachtoffers en postactieven"
+signed_date: "2010-05-18"
+entry_into_force: "2010-07-06"
 ---
-
 # Ministeriële regeling van 18 mei 2010, nr. BS/2010015570, van de afdeling Pensioenen, Sociale Zekerheid, Zorg en Veteranen
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze Regeling wordt verstaan onder:
 
@@ -40,11 +66,11 @@ In deze Regeling wordt verstaan onder:
 
 - l. **Standaardarrangement:** een maaltijd zoals omschreven in de banquetingmap van PARESTO.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Met deze regeling wordt beoogd de contacten tussen leden van een reünievereniging en tussen leden van een reünievereniging en militairen in actieve dienst van dezelfde eenheid of onderdeel of met dezelfde uitzendervaring, met faciliteiten te ondersteunen.
 
-#### Artikel 3. Reüniefaciliteiten
+##### Artikel 3. Reüniefaciliteiten
 
 1. Een reünievereniging kan ten laste van Defensie voor zijn leden aanspraak maken op de volgende faciliteiten ten behoeve van de organisatie van een reünie:
 
@@ -68,13 +94,13 @@ Met deze regeling wordt beoogd de contacten tussen leden van een reünieverenigi
 
 8. De normbedragen voor het standaardarrangement worden jaarlijks vastgesteld en opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&bijlage=I&z=2020-02-25&g=2020-02-25) van deze regeling.
 
-#### Artikel 4. Toekennen van faciliteiten
+##### Artikel 4. Toekennen van faciliteiten
 
 1. Een reünievereniging die gebruik wenst te maken van de reüniefaciliteiten, dient daartoe een verzoek in bij het defensieonderdeel dat volgens [artikel 3, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=3&z=2020-02-25&g=2020-02-25), van deze regeling wordt belast met de kosten van de reüniefaciliteiten.
 
 2. Voordat het defensieonderdeel beslist op een verzoek van een reünievereniging om gebruik te mogen maken van de reüniefaciliteiten, wordt getoetst of de reünie voldoet aan het gestelde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=2&z=2020-02-25&g=2020-02-25).
 
-#### Artikel 5. Militaire of semi-militaire locatie
+##### Artikel 5. Militaire of semi-militaire locatie
 
 1. Een reünie dient plaats te vinden op een militaire of semi-militaire locatie, waarbij het defensieonderdeel waartoe de reünievereniging behoort de reüniefaciliteit verstrekt. Als gebruik wordt gemaakt van een locatie van een ander defensieonderdeel blijven de kosten voor rekening van het defensieonderdeel waartoe de reünievereniging behoort.
 
@@ -84,7 +110,7 @@ Met deze regeling wordt beoogd de contacten tussen leden van een reünieverenigi
 
 4. De ondersteuning van een reünie dient te geschieden met de middelen en faciliteiten die door de commandant van de betrokken militaire of semi-militaire locatie kunnen worden geboden.
 
-#### Artikel 6. Reünieregister verenigingen
+##### Artikel 6. Reünieregister verenigingen
 
 1. Namens de Minister van Defensie beslist de Directeur van het Veteraneninstituut op een verzoek van een reünievereniging voor veteranen om te worden opgenomen in het reünieregister. Voorafgaand aan de beslissing wordt getoetst of de reünievereniging voldoet aan het gestelde in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=1&z=2020-02-25&g=2020-02-25). Ook vindt overleg plaats met het defensieonderdeel waartoe de betreffende reünievereniging traditioneel behoort.
 
@@ -92,7 +118,7 @@ Met deze regeling wordt beoogd de contacten tussen leden van een reünieverenigi
 
 3. Het reünieregister wordt bijgehouden door het Veteraneninstituut.
 
-#### Artikel 7. Overgangsbepalingen
+##### Artikel 7. Overgangsbepalingen
 
 1. Bestaande reünieverbanden van missies van vóór 1963 die zijn ingeschreven in het reünieregister en die niet kunnen worden aangemerkt als vereniging, zijn vrijgesteld van de voorwaarden zoals opgenomen in [artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=1&z=2020-02-25&g=2020-02-25).
 
@@ -102,19 +128,19 @@ Met deze regeling wordt beoogd de contacten tussen leden van een reünieverenigi
 
 4. Reünieverenigingen die niet voldoen aan de voorwaarden van [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=1&z=2020-02-25&g=2020-02-25), kunnen zich als onderafdeling inschrijven bij een reünievereniging die wel aan de voorwaarden voldoet. Deze reünievereniging functioneert dan als koepelorganisatie en is vervolgens verantwoordelijk voor een juiste uitvoering van de regeling door de onderafdeling.
 
-#### Artikel 8. Evaluatie
+##### Artikel 8. Evaluatie
 
 Deze Regeling wordt jaarlijks geëvalueerd en zo nodig bijgesteld.
 
-#### Artikel 9. Intrekking regelgeving
+##### Artikel 9. Intrekking regelgeving
 
 De Raamregeling reüniefaciliteiten van 1 maart 2003, nr. P/2003000424 wordt ingetrokken.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze Regeling treedt in werking met ingang van datum dagtekening.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze Regeling wordt aangehaald als ‘Regeling reüniefaciliteiten veteranen, oorlogs- en dienstslachtoffers en postactieven’.
 

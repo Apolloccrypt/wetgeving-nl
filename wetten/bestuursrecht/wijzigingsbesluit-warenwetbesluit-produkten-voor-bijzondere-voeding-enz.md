@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Warenwetbesluit Produkten voor bijzondere voeding, enz."
+title: "Besluit van 17 maart 2000, houdende wijziging van het Warenwetbesluit Produkten voor bijzondere voeding en van het Warenwetbesluit Voedingswaarde-informatie levensmiddelen"
 identifier: "BWBR0011232"
-categorie: "Bestuursrecht"
-publicatiedatum: 2000-04-12
-laatste_update: 2000-04-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011232"
+country: "nl"
+rank: "amvb"
+publication_date: "2000-04-12"
+last_updated: "2000-04-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011232"
+soort: "AMvB"
+stam_id: "1219623"
+version_id: "1796502"
+internal_id: "C1796511"
+label_id: "1181064"
+dtd_version: "2.0"
+original_entry_into_force: "2000-04-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011232/2000-04-12/0"
+intitule_bron: "Stb.2000-150"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-03-17"
+intitule_published: "2000-04-11"
+intitule_in_force: "2000-04-11"
+intitule_status: "goed"
+original_publication: "Stb.2000-150"
+original_signed_date: "2000-03-17"
+original_published_date: "2000-04-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2000-150"
+entry_into_force_date: "2000-04-12"
+jci_1_3: "jci1.3:c:BWBR0011232&z=2000-04-12&g=2000-04-12"
+jci_1_0: "1.0:c:BWBR0011232&g=2000-04-12"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit Warenwetbesluit Produkten voor bijzondere voeding, enz."
+signed_date: "2000-03-17"
+entry_into_force: "2000-04-12"
 ---
-
 # Besluit van 17 maart 2000, houdende wijziging van het Warenwetbesluit Produkten voor bijzondere voeding en van het Warenwetbesluit Voedingswaarde-informatie levensmiddelen
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 26 januari 2000 nr GZB/VVB/2036879, gedaan in overeenstemming met Onze Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
@@ -20,15 +46,15 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Warenwetbesluit Produkten voor bijzondere voeding.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Warenwetbesluit Voedingswaarde-informatie levensmiddelen.
 
-#### Artikel III
+##### Artikel III
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat eet- en drinkwaren die voldoen aan het [Warenwetbesluit Producten voor bijzondere voeding](https://wetten.overheid.nl/jci1.3:c:BWBR0005489) zoals dat onmiddellijk vóór dat tijdstip luidde, nog verhandeld mogen worden tot 8 januari 2001.
 

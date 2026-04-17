@@ -1,13 +1,39 @@
 ---
-title: "Besluit inzake aanvulling procedure en uitbreiding van kortdurende kleinschalige experimenten met AWBZ-zorg"
+title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 8 mei 2008, MC-U-2847325 op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake aanvulling procedure en uitbreiding van kortdurende kleinschalige experimenten met AWBZ-zorg"
 identifier: "BWBR0023862"
-categorie: "Bestuursrecht"
-publicatiedatum: 2008-05-16
-laatste_update: 2008-05-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023862"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-05-16"
+last_updated: "2008-05-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023862"
+soort: "ministeriele-regeling"
+stam_id: "9504303"
+version_id: "15348912"
+internal_id: "C20912961"
+label_id: "9481614"
+dtd_version: "2.0"
+original_entry_into_force: "2008-05-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023862/2008-05-16/0"
+intitule_bron: "Stcrt.2008-92"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-05-08"
+intitule_published: "2008-05-16"
+intitule_in_force: "2008-05-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-92"
+original_signed_date: "2008-05-08"
+original_published_date: "2008-05-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-92-p22-SC85758"
+entry_into_force_date: "2008-05-16"
+jci_1_3: "jci1.3:c:BWBR0023862&z=2008-05-16&g=2008-05-16"
+jci_1_0: "1.0:c:BWBR0023862&g=2008-05-16"
+citeertitel_status: "redactioneel"
+short_title: "Besluit inzake aanvulling procedure en uitbreiding van kortdurende kleinschalige experimenten met AWBZ-zorg"
+signed_date: "2008-05-08"
+entry_into_force: "2008-05-16"
 ---
-
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 8 mei 2008, MC-U-2847325 op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake aanvulling procedure en uitbreiding van kortdurende kleinschalige experimenten met AWBZ-zorg
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -18,7 +44,7 @@ Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der St
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze aanwijzing wordt verstaan onder:
 
 - 4°. zorgautoriteit: de Nederlandse Zorgautoriteit.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze aanwijzing is van toepassing op zorg als bedoeld in de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), waarvoor de zorgautoriteit geen prestatiebeschrijving in een reguliere beleidsregel op grond van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) of een specifieke experimentbeleidsregel op grond van de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) en [58 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58) heeft vastgesteld.
 
@@ -48,7 +74,7 @@ In deze aanwijzing wordt verstaan onder:
 
 3. Ter uitvoering van deze aanwijzing stelt de zorgautoriteit waar nodig regels en beleidsregels vast, met dien verstande dat na de uitwerking van deze aanwijzing door de zorgautoriteit een beleidsregel is ontstaan die voor alle zorg bedoeld in het eerste lid kortdurende kleinschalige experimenten bevordert.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In de beleidsregel, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023862&artikel=2&z=2008-05-16&g=2008-05-16), stelt de zorgautoriteit een zodanige procedure voor kortdurende kleinschalige experimenten vast, dat de zorgautoriteit voor het in rekening brengen van een tarief voor individuele kortdurende kleinschalige experimenten een daartoe strekkende beschikking vaststelt, waarbij wordt voldaan aan de volgende voorwaarden:
 
@@ -68,7 +94,7 @@ In deze aanwijzing wordt verstaan onder:
 
 - b. het financieel kader wordt verdeeld in bedragen die, met inachtneming van het op voet van het onder a bepaalde, per zorgaanbieder die deelneemt aan een of meer kortdurende kleinschaligeexperimenten ten hoogste ten laste kunnen worden gebracht van dat kader en voor zover dat kader daarbij niet wordt overschreden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor kortdurende kleinschalige experimenten kan uitsluitend een tarief in rekening worden gebracht bij:
 
@@ -82,18 +108,18 @@ In deze aanwijzing wordt verstaan onder:
 
 3. Een kortdurend kleinschalig experiment dat wordt gestart na de inwerkingtreding van deze aanwijzing kan alleen geheel of gedeeltelijk ten laste van het financieel kader worden gebracht, indien de zorgautoriteit dat heeft getoetst, daartoe een bedrag heeft vastgesteld en dat aangeeft in de beschikking als bedoeld in het tweede lid.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor kortdurende kleinschalige experimenten geldt een tarief als bedoeld in [artikel 57, vierde lid, onder c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57).
 
-#### Artikel 6
+##### Artikel 6
 
 De looptijd van kortdurende kleinschalige experimenten neemt een aanvang vanaf de datum van inwerkingtreding van de beschikking als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023862&artikel=4&z=2008-05-16&g=2008-05-16).
 
-#### Artikel 7
+##### Artikel 7
 
 De zorgautoriteit evalueert de beleidsregel als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023862&artikel=2&z=2008-05-16&g=2008-05-16), en onderzoekt daarbij ook of, gelet op de beoogde doelen en de randvoorwaarden die zijn vervat in [artikel 58 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58), er aanleiding bestaat in de beleidsregel de mogelijkheid op te nemen de looptijd van kortdurende kleinschalige experimenten te verlengen, en brengt daarover rapport uit.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.

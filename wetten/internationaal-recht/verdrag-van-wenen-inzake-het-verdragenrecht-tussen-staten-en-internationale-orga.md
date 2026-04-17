@@ -1,13 +1,35 @@
 ---
 title: "Verdrag van Wenen inzake het verdragenrecht tussen Staten en internationale organisaties of tussen internationale organisaties"
 identifier: "BWBV0002302"
-categorie: "Internationaal recht"
-publicatiedatum: 1986-03-21
-laatste_update: 1986-03-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002302"
+country: "nl"
+rank: "verdrag"
+publication_date: "1986-03-21"
+last_updated: "1986-03-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002302"
+soort: "verdrag"
+stam_id: "10002771263"
+version_id: "10002772822"
+internal_id: "C10006979251"
+label_id: "10002761294"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002302/1986-03-21/0"
+intitule_bron: "Trb.1987-136"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-09-18"
+intitule_published: "1987-09-11"
+intitule_status: "nogniet"
+original_publication: "Trb.1987-136"
+original_signed_date: "1997-09-18"
+original_published_date: "1987-09-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1987-136"
+jci_1_3: "jci1.3:c:BWBV0002302&z=1986-03-21&g=1986-03-21"
+jci_1_0: "1.0:c:BWBV0002302&g=1986-03-21"
+citeertitel_status: "officieel"
+signed_date: "1997-09-18"
+entry_into_force: "1987-09-11"
 ---
-
 # Verdrag van Wenen inzake het verdragenrecht tussen Staten en internationale organisaties of tussen internationale organisaties
 
 De Partijen bij dit Verdrag,
@@ -46,7 +68,7 @@ Zijn overeengekomen als volgt:
 
 ## DEEL I. Inleiding
 
-#### Artikel 1. Werkingssfeer van dit Verdrag
+##### Artikel 1. Werkingssfeer van dit Verdrag
 
 Dit verdrag is van toepassing op:
 
@@ -54,7 +76,7 @@ Dit verdrag is van toepassing op:
 
 - (b). verdragen tussen internationale organisaties.
 
-#### Artikel 2. Gebezigde uitdrukkingen
+##### Artikel 2. Gebezigde uitdrukkingen
 
 1. Voor de toepassing van dit Verdrag betekent:
 
@@ -100,7 +122,7 @@ Dit verdrag is van toepassing op:
 
 2. De bepalingen van het eerste lid aangaande de in dit Verdrag gebezigde uitdrukkingen laten onverlet het gebruik van deze termen of de betekenis die er in het nationale recht van een Staat of in de regels van een internationale organisatie aan kan worden gehecht.
 
-#### Artikel 3. Internationale overeenkomsten die buiten de werkingssfeer van dit Verdrag vallen
+##### Artikel 3. Internationale overeenkomsten die buiten de werkingssfeer van dit Verdrag vallen
 
 Het feit dat dit Verdrag niet van toepassing is op:
 
@@ -118,11 +140,11 @@ Het feit dat dit Verdrag niet van toepassing is op:
 
 - (c). de toepassing van het Verdrag op de betrekkingen tussen Staten en internationale organisaties of de betrekkingen tussen organisaties onderling, wanneer deze betrekkingen worden beheerst door internationale overeenkomsten waarbij andere subjecten van volkenrecht eveneens partij zijn.
 
-#### Artikel 4. De niet-terugwerkende kracht van dit Verdrag
+##### Artikel 4. De niet-terugwerkende kracht van dit Verdrag
 
 Onverminderd de toepassing van de in dit Verdrag vastgelegde regels, waaraan verdragen tussen één of meer Staten en één of meer internationale organisaties, of tussen internationale organisaties onderling, krachtens het volkenrecht onafhankelijk van dit Verdrag zouden zijn onderworpen, is dit Verdrag slechts van toepassing op verdragen gesloten na inwerkingtreding van dit Verdrag voor die Staten en organisaties.
 
-#### Artikel 5. Verdragen tot oprichting van internationale organisaties en verdragen aangenomen binnen een internationale organisatie
+##### Artikel 5. Verdragen tot oprichting van internationale organisaties en verdragen aangenomen binnen een internationale organisatie
 
 Dit Verdrag is van toepassing op elk verdrag tussen één of meer Staten en één of meer internationale organisaties, dat de oprichtingsakte van een internationale organisatie vormt en op elk verdrag aangenomen binnen een internationale organisatie, behoudens de ter zake dienende regels van de organisatie.
 
@@ -130,11 +152,11 @@ Dit Verdrag is van toepassing op elk verdrag tussen één of meer Staten en éé
 
 ### AFDELING 1. HET SLUITEN VAN VERDRAGEN
 
-#### Artikel 6. Bevoegdheid van internationale organisaties tot het sluiten van verdragen
+##### Artikel 6. Bevoegdheid van internationale organisaties tot het sluiten van verdragen
 
 De bevoegdheid van een internationale organisatie tot het sluiten van verdragen is onderworpen aan de regels van die organisatie.
 
-#### Artikel 7. Volmacht
+##### Artikel 7. Volmacht
 
 1. Een persoon wordt beschouwd een Staat te vertegenwoordigen ter zake van de aanneming of authentificatie van een verdragstekst of om de instemming van een Staat door een verdrag te worden gebonden tot uitdrukking te brengen, indien:
 
@@ -158,17 +180,17 @@ De bevoegdheid van een internationale organisatie tot het sluiten van verdragen 
 
 - (b). uit de omstandigheden blijkt dat het de bedoeling van de betrokken Staten en internationale organisaties was die persoon als vertegenwoordiger van de organisatie ten dezen te beschouwen, in overeenstemming met de regels van die organisatie, zonder dat deze persoon een volmacht behoeft te tonen.
 
-#### Artikel 8. Bevestiging achteraf van een zonder machtiging verrichte handeling
+##### Artikel 8. Bevestiging achteraf van een zonder machtiging verrichte handeling
 
 Een handeling met betrekking tot het sluiten van een verdrag, verricht door een persoon die niet krachtens artikel 7 beschouwd kan worden gemachtigd te zijn een Staat of een internationale organisatie ten dezen te vertegenwoordigen, is zonder rechtsgevolg, tenzij zij achteraf door die Staat of organisatie wordt bevestigd.
 
-#### Artikel 9. Aanneming van de tekst
+##### Artikel 9. Aanneming van de tekst
 
 1. De aanneming van een verdragstekst geschiedt door de instemming van alle Staten en internationale organisaties of, al naar gelang het geval, van alle organisaties die zijn betrokken bij het opstellen hiervan, met uitzondering van gevallen voorzien in het tweede lid.
 
 2. De aanneming van een verdragstekst op een internationale conferentie geschiedt in overeenstemming met de door de deelnemers aan die conferentie overeengekomen procedure. Indien echter geen overeenstemming over een zodanige procedure wordt bereikt, geschiedt de aanneming van de tekst door stemming van tweederde van de aanwezige en stemuitbrengende deelnemers, tenzij zij met dezelfde meerderheid besluiten een afwijkende regel toe te passen.
 
-#### Artikel 10. Authentificatie van de tekst
+##### Artikel 10. Authentificatie van de tekst
 
 1. De tekst van een verdrag tussen één of meer Staten en één of meer internationale organisaties wordt als authentiek en definitief vastgesteld:
 
@@ -182,13 +204,13 @@ Een handeling met betrekking tot het sluiten van een verdrag, verricht door een 
 
 - (b). indien in een dergelijke procedure niet is voorzien, door de ondertekening, ondertekening **ad referendum** of parafering door de vertegenwoordigers van die organisaties van de verdragstekst of de slotakte van een conferentie waarin de tekst is opgenomen;
 
-#### Artikel 11. Middelen om de instemming door een verdrag gebonden te worden tot uitdrukking te brengen
+##### Artikel 11. Middelen om de instemming door een verdrag gebonden te worden tot uitdrukking te brengen
 
 1. De instemming van een Staat door een verdrag gebonden te worden, kan tot uitdrukking worden gebracht door ondertekening, door uitwisseling van akten die een verdrag vormen, door bekrachtiging, aanvaarding, goedkeuring of toetreding, of door ieder ander overeengekomen middel.
 
 2. De instemming van internationale organisaties door een verdrag gebonden te worden, kan tot uitdrukking worden gebracht door ondertekening, door uitwisseling van akten die een verdrag vormen, door een handeling van formele bevestiging, aanvaarding, goedkeuring of toetreding, of door ieder ander overeengekomen middel.
 
-#### Artikel 12. Het door ondertekening tot uitdrukking brengen van instemming door een verdrag gebonden te worden
+##### Artikel 12. Het door ondertekening tot uitdrukking brengen van instemming door een verdrag gebonden te worden
 
 1. De instemming van een Staat of een internationale organisatie door een verdrag gebonden te worden, wordt tot uitdrukking gebracht door de ondertekening door de vertegenwoordiger van die Staat of die organisatie, wanneer:
 
@@ -204,7 +226,7 @@ Een handeling met betrekking tot het sluiten van een verdrag, verricht door een 
 
 - (b). geldt de ondertekening **ad referendum** van een verdrag door de vertegenwoordiger van een Staat of een internationale organisatie, indien zij door die Staat of organisatie wordt bevestigd, als definitieve ondertekening van het verdrag.
 
-#### Artikel 13. Het door uitwisseling van akten die een verdrag vormen tot uitdrukking brengen van de instemming door een verdrag gebonden te worden
+##### Artikel 13. Het door uitwisseling van akten die een verdrag vormen tot uitdrukking brengen van de instemming door een verdrag gebonden te worden
 
 De instemming van Staten of internationale organisaties gebonden te worden door een verdrag, dat wordt gevormd door tussen hen uitgewisselde akten, wordt tot uitdrukking gebracht door deze uitwisseling, wanneer:
 
@@ -212,7 +234,7 @@ De instemming van Staten of internationale organisaties gebonden te worden door 
 
 - (b). het op andere wijze vaststaat, dat die staten en die organisaties of, al naar gelang het geval, die organisaties, zijn overeengekomen dat de uitwisseling van akten dit gevolg heeft.
 
-#### Artikel 14. Het door bekrachtiging, een handeling van formele bevestiging, aanvaarding of goedkeuring tot uitdrukking brengen van de instemming door een verdrag gebonden te worden
+##### Artikel 14. Het door bekrachtiging, een handeling van formele bevestiging, aanvaarding of goedkeuring tot uitdrukking brengen van de instemming door een verdrag gebonden te worden
 
 1. De instemming van een Staat door een verdrag gebonden te worden wordt tot uitdrukking gebracht door bekrachtiging, wanneer:
 
@@ -236,7 +258,7 @@ De instemming van Staten of internationale organisaties gebonden te worden door 
 
 3. De instemming van een Staat of een internationale organisatie door een verdrag gebonden te worden, wordt tot uitdrukking gebracht door aanvaarding of goedkeuring hiervan op soortgelijke voorwaarden als gelden voor zijn op bekrachtiging, of, al naar gelang het geval, een handeling van formele bevestiging.
 
-#### Artikel 15. Het door toetreding tot uitdrukking brengen van de instemming door een verdrag gebonden te worden
+##### Artikel 15. Het door toetreding tot uitdrukking brengen van de instemming door een verdrag gebonden te worden
 
 De instemming van een Staat of een internationale organisatie door een verdrag gebonden te worden, wordt tot uitdrukking gebracht door toetreding, wanneer:
 
@@ -244,7 +266,7 @@ De instemming van een Staat of een internationale organisatie door een verdrag g
 
 - (b). het op andere wijze vaststaat, dat de Staten en de organisaties of, al naar gelang het geval, de organisaties die aan de onderhandelingen hebben deelgenomen, zijn overeengekomen dat deze instemming door deze Staat of deze organisatie tot uitdrukking kan worden gebracht door toetreding.
 
-#### Artikel 16. Uitwisseling of nederlegging van akten van bekrachtiging, formele bevestiging, aanvaarding, goedkeuring of toetreding
+##### Artikel 16. Uitwisseling of nederlegging van akten van bekrachtiging, formele bevestiging, aanvaarding, goedkeuring of toetreding
 
 1. Tenzij het verdrag anders bepaalt, leggen de akten van bekrachtiging, de akten inzake een handeling van formele bevestiging of de akten van aanvaarding, goedkeuring of toetreding de instemming van een Staat of een internationale organisatie vast om door een verdrag tussen één of meer Staten of één of meer internationale organisaties te worden gebonden op het ogenblik van:
 
@@ -262,13 +284,13 @@ De instemming van een Staat of een internationale organisatie door een verdrag g
 
 - (c). hun kennisgeving aan de verdragsluitende organisaties of aan de depositaris, indien aldus is overeengekomen.
 
-#### Artikel 17. Instemming door een deel van het verdrag gebonden te worden en keuze tussen verschillende bepalingen
+##### Artikel 17. Instemming door een deel van het verdrag gebonden te worden en keuze tussen verschillende bepalingen
 
 1. Onverminderd het bepaalde in de artikelen 19 tot 23 heeft de instemming van een Staat of een internationale organisatie gebonden te worden door een deel van een verdrag slechts gevolgen indien het verdrag dit toelaat of indien de andere verdragsluitende Staten en verdragsluitende organisaties of, al naar gelang het geval, de verdragsluitende organisaties hiermede instemmen.
 
 2. De instemming van een Staat of een internationale organisatie gebonden te worden door een verdrag dat een keuze veroorlooft uit verschillende bepalingen, heeft slechts gevolgen indien duidelijk is aangegeven op welke van de bepalingen de instemming betrekking heeft.
 
-#### Artikel 18. Verplichting voorwerp en doel van een verdrag niet ongedaan te maken alvorens zijn inwerktreding
+##### Artikel 18. Verplichting voorwerp en doel van een verdrag niet ongedaan te maken alvorens zijn inwerktreding
 
 Een Staat of een internationale organisatie moet zich onthouden van handelingen die een verdrag zijn voorwerp en zijn doel zouden ontnemen, wanneer:
 
@@ -278,7 +300,7 @@ Een Staat of een internationale organisatie moet zich onthouden van handelingen 
 
 ### AFDELING 2. VOORBEHOUDEN
 
-#### Artikel 19. Het maken van voorbehouden
+##### Artikel 19. Het maken van voorbehouden
 
 Een Staat of een internationale organisatie kan op het ogenblik van ondertekening, bekrachtiging, formele bevestiging, aanvaarding of goedkeuring van een verdrag of toetreding tot een verdrag een voorbehoud maken, tenzij:
 
@@ -288,7 +310,7 @@ Een Staat of een internationale organisatie kan op het ogenblik van ondertekenin
 
 - (c). voor zover het andere gevallen dan omschreven onder a) en b) betreft, het voorbehoud niet verenigbaar is met voorwerp en doel van het verdrag.
 
-#### Artikel 20. Aanvaarding van en bezwaar tegen voorbehouden
+##### Artikel 20. Aanvaarding van en bezwaar tegen voorbehouden
 
 1. Een door een verdrag uitdrukkelijk toegestaan voorbehoud behoeft niet nadien door de verdragsluitende Staten en verdragsluitende organisaties, of, al naar gelang het geval, de verdragsluitende organisaties te worden aanvaard, tenzij het verdrag dat voorschrijft.
 
@@ -306,7 +328,7 @@ Een Staat of een internationale organisatie kan op het ogenblik van ondertekenin
 
 5. Voor de toepassing van het tweede en vierde lid en tenzij het verdrag anders bepaalt, wordt een voorbehoud geacht te zijn aanvaard door een Staat of een internationale organisatie, indien deze geen bezwaar heeft gemaakt tegen het voorbehoud binnen twaalf maanden na de datum waarop deze de kennisgeving daarvan ontvangen heeft, of op de dag, waarop deze zijn of haar instemming door het verdrag gebonden te worden tot uitdrukking heeft gebracht indien deze dag op een latere datum valt.
 
-#### Artikel 21. Rechtsgevolgen van voorbehouden en bezwaren tegen voorbehouden
+##### Artikel 21. Rechtsgevolgen van voorbehouden en bezwaren tegen voorbehouden
 
 1. Een voorbehoud, gemaakt ten aanzien van een andere partij overeenkomstig de artikelen 19, 20 en 23:
 
@@ -318,7 +340,7 @@ Een Staat of een internationale organisatie kan op het ogenblik van ondertekenin
 
 3. Wanneer een Staat of een internationale organisatie die bezwaar heeft gemaakt tegen een voorbehoud zich niet heeft verzet tegen de inwerkingtreding van het verdrag tussen hem of haar en de Staat of organisatie die het voorbehoud heeft gemaakt, zijn de bepalingen waarop het voorbehoud betrekking heeft niet van toepassing tussen de Staat of de organisatie die het voorbehoud heeft gemaakt en de Staat of organisatie die hiertegen bezwaar heeft gemaakt, in de mate voorzien in het voorbehoud.
 
-#### Artikel 22. Het intrekken van voorbehouden en bezwaren tegen voorbehouden
+##### Artikel 22. Het intrekken van voorbehouden en bezwaren tegen voorbehouden
 
 1. Tenzij het verdrag anders bepaalt, kan een voorbehoud elk ogenblik worden ingetrokken zonder dat daarvoor de instemming nodig is van een Staat of een internationale organisatie die het voorbehoud heeft aanvaard.
 
@@ -330,7 +352,7 @@ Een Staat of een internationale organisatie kan op het ogenblik van ondertekenin
 
 - (b). wordt het intrekken van een bezwaar tegen een voorbehoud pas van kracht wanneer de Staat of de internationale organisatie die het voorbehoud heeft gemaakt een kennisgeving van de intrekking heeft ontvangen.
 
-#### Artikel 23. Procedure betreffende voorbehouden
+##### Artikel 23. Procedure betreffende voorbehouden
 
 1. Een voorbehoud, een uitdrukkelijke aanvaarding van een voorbehoud en een bezwaar tegen een voorbehoud moeten schriftelijk worden vastgelegd en aan de verdragsluitende Staten en verdragsluitende organisaties en aan andere Staten en internationale organisatie die gerechtigd zijn partij bij het verdrag te worden, worden medegedeeld.
 
@@ -342,7 +364,7 @@ Een Staat of een internationale organisatie kan op het ogenblik van ondertekenin
 
 ### AFDELING 3. INWERKINGTREDING VAN VERDRAGEN EN VOORLOPIGE TOEPASSING
 
-#### Artikel 24. Inwerkingtreding
+##### Artikel 24. Inwerkingtreding
 
 1. Een verdrag treedt in werking op de wijze en op de datum zoals voorzien in zijn bepalingen, of krachtens overeenstemming tussen de Staten en de organisaties of, al naar gelang het geval, de organisaties die hebben deelgenomen aan de onderhandelingen.
 
@@ -352,7 +374,7 @@ Een Staat of een internationale organisatie kan op het ogenblik van ondertekenin
 
 4. De bepalingen van een verdrag, die de authentificatie van de tekst, het tot uitdrukking brengen van de instemming door het verdrag gebonden te worden, de wijze of de datum van inwerkingtreding, de voorbehouden, de werkzaamheden van de depositaris, alsmede de andere vraagstukken die zich noodzakelijkerwijze voordoen voor de inwerkingtreding van het verdrag regelen, zijn van toepassing vanaf het tijdstip van de aanneming van de tekst.
 
-#### Artikel 25. Voorlopige toepassing
+##### Artikel 25. Voorlopige toepassing
 
 1. Een verdrag of een deel van een verdrag wordt voorlopig toegepast in afwachting van zijn inwerkingtreding, indien
 
@@ -366,11 +388,11 @@ Een Staat of een internationale organisatie kan op het ogenblik van ondertekenin
 
 ### AFDELING 1. NALEVING VAN VERDRAGEN
 
-#### Artikel 26. Pacta sunt servanda
+##### Artikel 26. Pacta sunt servanda
 
 Elk in werking getreden verdrag verbindt de partijen en moet door hen te goeder trouw ten uitvoer worden gelegd.
 
-#### Artikel 27. Nationaal recht van Staten, regels van internationale organisaties en naleving van verdragen
+##### Artikel 27. Nationaal recht van Staten, regels van internationale organisaties en naleving van verdragen
 
 1. Een Staat die partij is bij een verdrag mag zich niet beroepen op de bepalingen van zijn nationale recht om het niet ten uitvoer leggen van een verdrag te rechtvaardigen.
 
@@ -380,15 +402,15 @@ Elk in werking getreden verdrag verbindt de partijen en moet door hen te goeder 
 
 ### AFDELING 2. TOEPASSING VAN VERDRAGEN
 
-#### Artikel 28. Niet-terugwerkende kracht van verdragen
+##### Artikel 28. Niet-terugwerkende kracht van verdragen
 
 Tenzij een andere bedoeling uit het verdrag blijkt of op andere wijze is komen vast te staan, binden de bepalingen van een verdrag een partij niet met betrekking tot een handeling of feit, voorafgaand aan de datum van inwerkingtreding van dit verdrag voor deze partij, of enige situatie die op die datum niet meer bestond.
 
-#### Artikel 29. Territoriale reikwijdte van verdragen
+##### Artikel 29. Territoriale reikwijdte van verdragen
 
 Tenzij een andere bedoeling uit het verdag blijkt of op andere wijze is komen vast te staan, bindt een verdrag tussen een of meer Staten en een of meer internationale organisaties elke Staat die hierbij partij is ten opzichte van zijn gehele grondgebied.
 
-#### Artikel 30. Toepassing van achtereenvolgende verdragen die betrekking hebben op eenzelfde onderwerp
+##### Artikel 30. Toepassing van achtereenvolgende verdragen die betrekking hebben op eenzelfde onderwerp
 
 1. De rechten en verplichtingen van Staten en internationale organisaties die partij zijn bij achtereenvolgende verdragen die betrekking hebben op eenzelfde onderwerp worden bepaald overeenkomstig de volgende leden.
 
@@ -408,7 +430,7 @@ Tenzij een andere bedoeling uit het verdag blijkt of op andere wijze is komen va
 
 ### AFDELING 3. UITLEGGING VAN VERDRAGEN
 
-#### Artikel 31. Algemene regel van uitlegging
+##### Artikel 31. Algemene regel van uitlegging
 
 1. Een verdrag moet te goeder trouw worden uitgelegd overeenkomstig de gewone betekenis van de termen van het verdrag in hun context en in het licht van voorwerp en doel van het verdrag.
 
@@ -428,7 +450,7 @@ Tenzij een andere bedoeling uit het verdag blijkt of op andere wijze is komen va
 
 4. Een term dient in een bijzondere betekenis verstaan te worden als vaststaat, dat dit de bedoeling van de partijen is geweest.
 
-#### Artikel 32. Aanvullende middelen van uitlegging
+##### Artikel 32. Aanvullende middelen van uitlegging
 
 Er kan een beroep worden gedaan op aanvullende middelen van uitlegging en in het bijzonder op de voorbereidende werkzaamheden en de omstandigheden waaronder het verdrag is gesloten, om de betekenis die voortvloeit uit de toepassing van artikel 31 te bevestigen of de betekenis te bepalen wanneer de uitlegging, geschied overeenkomstig artikel 31:
 
@@ -436,7 +458,7 @@ Er kan een beroep worden gedaan op aanvullende middelen van uitlegging en in het
 
 - (b). leidt tot een resultaat dat duidelijk ongerijmd of onredelijk is.
 
-#### Artikel 33. Uitlegging van in twee of meer talen geauthentiseerde verdragen
+##### Artikel 33. Uitlegging van in twee of meer talen geauthentiseerde verdragen
 
 1. Wanneer een verdrag geauthentiseerd is in twee of meer talen, heeft de tekst in elk der talen rechtskracht, tenzij het verdrag bepaalt of de partijen overeenkomen dat in geval van verschil een bepaalde tekst moet prevaleren.
 
@@ -448,15 +470,15 @@ Er kan een beroep worden gedaan op aanvullende middelen van uitlegging en in het
 
 ### AFDELING 4. VERDRAGEN EN DERDE STATEN OF DERDE ORGANISATIES
 
-#### Artikel 34. Algemene regel betreffende derde Staten en derde organisaties
+##### Artikel 34. Algemene regel betreffende derde Staten en derde organisaties
 
 Een verdrag schept geen verplichtingen of rechten voor een derde Staat of derde organisatie zonder instemming van die Staat of organisatie.
 
-#### Artikel 35. Verdragen die voorzien in verplichtingen voor derde Staten of derde organisaties
+##### Artikel 35. Verdragen die voorzien in verplichtingen voor derde Staten of derde organisaties
 
 Voor een derde Staat of een derde organisatie ontstaat ten gevolge van een bepaling van een verdrag een verplichting, indien de partijen bij het verdrag door middel van deze bepaling de verplichting beogen te scheppen en indien de derde Staat of de derde organisatie deze verplichting uitdrukkelijk schriftelijk aanvaardt. Aanvaarding van een zodanige verplichting door een derde organisatie wordt beheerst door de regels van die organisatie.
 
-#### Artikel 36. Verdragen die voorzien in rechten voor derde Staten of derde organisaties
+##### Artikel 36. Verdragen die voorzien in rechten voor derde Staten of derde organisaties
 
 1. Voor een derde Staat ontstaat ten gevolge van een bepaling van een verdrag een recht, indien de partijen bij het verdrag door deze bepaling dit recht willen verlenen aan de derde Staat of aan een groep Staten waartoe hij behoort, of aan alle Staten, en indien de derde Staat daarmede instemt. De instemming wordt geacht te zijn gegeven zolang er geen aanwijzing van het tegendeel bestaat, tenzij het verdrag anders bepaalt.
 
@@ -464,7 +486,7 @@ Voor een derde Staat of een derde organisatie ontstaat ten gevolge van een bepal
 
 3. Een Staat of een internationale organisatie die van een recht, overeenkomstig het eerste of tweede lid, gebruik maakt, is voor de uitoefening van dat recht gehouden, de voorwaarden, voorzien in het verdrag of overeenkomstig zijn bepalingen vastgesteld, te eerbiedigen.
 
-#### Artikel 37. Herroeping of wijziging van verplichtingen of rechten van derde Staten of derde organisaties
+##### Artikel 37. Herroeping of wijziging van verplichtingen of rechten van derde Staten of derde organisaties
 
 1. Wanneer overeenkomstig artikel 35 een verplichting voor een derde Staat of een derde organisatie is ontstaan, kan deze verplichting slechts worden herroepen of gewijzigd met instemming van de partijen bij het verdrag en van de derde Staat of de derde organisatie, tenzij vaststaat dat zij anders zijn overeengekomen.
 
@@ -472,19 +494,19 @@ Voor een derde Staat of een derde organisatie ontstaat ten gevolge van een bepal
 
 3. De instemming van een internationale organisatie die partij is bij een verdrag of van een derde organisatie, zoals voorzien in de voorgaande leden, worden beheerst door de regels van die organisatie.
 
-#### Artikel 38. Verdragsregels die door internationale gewoonte voor derde Staten of derde organisaties bindend worden
+##### Artikel 38. Verdragsregels die door internationale gewoonte voor derde Staten of derde organisaties bindend worden
 
 Niets in de artikelen 34 tot 37 belet, dat een in een verdrag neergelegde regel bindend wordt voor een derde Staat of een derde organisatie als een regel van internationaal gewoonterecht, die als zodanig wordt erkend.
 
 ## DEEL IV. Amendering en wijziging van verdragen
 
-#### Artikel 39. Algemene regel met betrekking tot het amenderen van verdragen
+##### Artikel 39. Algemene regel met betrekking tot het amenderen van verdragen
 
 1. Een verdrag kan bij overeenkomst tussen de partijen worden geamendeerd. Op een dergelijke overeenkomst vinden de regels neergelegd in deel II toepassing behalve in zoverre het verdrag anders bepaalt
 
 2. De instemming van een internationale organisatie met een overeenkomst zoals bedoeld in het eerste lid, wordt beheerst door de regels van die organisatie.
 
-#### Artikel 40. Het amenderen van multilaterale verdragen
+##### Artikel 40. Het amenderen van multilaterale verdragen
 
 1. Tenzij het verdrag anders bepaalt, wordt het amenderen van multilaterale verdragen beheerst door de volgende leden:
 
@@ -504,7 +526,7 @@ Niets in de artikelen 34 tot 37 belet, dat een in een verdrag neergelegde regel 
 
 - (b). partij tot het niet-geamendeerde verdrag met betrekking tot iedere partij bij het verdrag die niet is gebonden door de overeenkomst tot amendering.
 
-#### Artikel 41. Overeenkomsten tot wijziging van multilaterale verdragen tussen slechts bepaalde partijen
+##### Artikel 41. Overeenkomsten tot wijziging van multilaterale verdragen tussen slechts bepaalde partijen
 
 1. Twee of meer partijen bij een multilateraal verdrag kunnen een overeenkomst tot wijziging van het verdrag tussen hen onderling slechts sluiten, indien:
 
@@ -522,17 +544,17 @@ Niets in de artikelen 34 tot 37 belet, dat een in een verdrag neergelegde regel 
 
 ### AFDELING 1. ALGEMENE BEPALINGEN
 
-#### Artikel 42. Geldigheid en het in werking blijven van verdragen
+##### Artikel 42. Geldigheid en het in werking blijven van verdragen
 
 1. De geldigheid van een verdrag of van de instemming van een Staat of een internationale organisatie door een verdrag gebonden te worden, mag slechts worden betwist door toepassing van dit Verdrag.
 
 2. De beëindiging van een verdrag, de opzegging ervan of de terugtrekking van een partij kan slechts plaatsvinden door toepassing van de bepalingen van het verdrag of van dit Verdrag. Dezelfde regel geldt voor de opschorting van de werking van een verdrag.
 
-#### Artikel 43. Verplichtingen opgelegd door het internationale recht onafhankelijk van een verdrag
+##### Artikel 43. Verplichtingen opgelegd door het internationale recht onafhankelijk van een verdrag
 
 De ongeldigheid, beëindiging of opzegging van een verdrag, de terugtrekking van een partij of de opschorting van de werking van het verdrag tengevolge van de toepassing van dit Verdrag of van de bepalingen van het verdrag, tast op geen enkele wijze de plicht van een Staat of een internationale organisatie aan tot het nakomen van de verplichtingen die voortvloeien uit het verdrag en waaraan die Staat of die organisatie krachtens het volkenrecht onafhankelijk van het genoemde verdrag, is onderworpen.
 
-#### Artikel 44. Splitsbaarheid van de verdragsbepalingen
+##### Artikel 44. Splitsbaarheid van de verdragsbepalingen
 
 1. Het recht van een partij, voorzien in een verdrag of voortvloeiend uit artikel 56, het verdrag op te zeggen, zich terug te trekken of de werking van het verdrag op te schorten, mag slechts worden uitgeoefend met betrekking tot het verdrag als geheel, tenzij het verdrag anders voorziet of de partijen anders overeenkomen.
 
@@ -550,7 +572,7 @@ De ongeldigheid, beëindiging of opzegging van een verdrag, de terugtrekking van
 
 5. In de gevallen als voorzien in de artikelen 51, 52 en 53 is geen scheiding tussen de bepalingen van een verdrag toegestaan.
 
-#### Artikel 45. Verlies van het recht tot het aanvoeren van gronden voor ongeldigheid of beëindiging van een verdrag of tot terugtrekking uit een verdrag of voor de opschorting van zijn werking
+##### Artikel 45. Verlies van het recht tot het aanvoeren van gronden voor ongeldigheid of beëindiging van een verdrag of tot terugtrekking uit een verdrag of voor de opschorting van zijn werking
 
 1. Een Staat mag niet langer gronden aanvoeren tot ongeldigheid of beëindiging van een verdrag of tot terugtrekking uit een verdrag of de opschorting van de werking ervan krachtens de artikelen 46 tot 50 of de artikelen 60 en 62, als deze Staat, na kennis te hebben genomen van de feiten:
 
@@ -566,7 +588,7 @@ De ongeldigheid, beëindiging of opzegging van een verdrag, de terugtrekking van
 
 ### AFDELING 2. ONGELDIGHEID VAN VERDRAGEN
 
-#### Artikel 46. Bepalingen van het nationale recht van een Staat en van de regels van een internationale organisatie met betrekking tot de bevoegdheid tot het sluiten van verdragen
+##### Artikel 46. Bepalingen van het nationale recht van een Staat en van de regels van een internationale organisatie met betrekking tot de bevoegdheid tot het sluiten van verdragen
 
 1. Het feit dat de instemming van een Staat door een verdrag gebonden te worden, is gegeven in strijd met een bepaling van zijn nationale recht betreffende de bevoegdheid tot het sluiten van verdragen, mag door die Staat niet worden aangevoerd ter ongeldigverklaring van die instemming, tenzij die strijdigheid onmiskenbaar was en een regel van fundamenteel belang van het nationale recht van die Staat betrof.
 
@@ -574,11 +596,11 @@ De ongeldigheid, beëindiging of opzegging van een verdrag, de terugtrekking van
 
 3. Een strijdigheid is onmiskenbaar indien zij bij objectieve beschouwing duidelijk is voor iedere Staat of iedere internationale organisatie die zich ten dezen overeenkomstig het gangbaar gebruik van Staten en, al naar gelang het geval, van internationale organisaties, en te goeder trouw gedraagt.
 
-#### Artikel 47. Bijzondere beperkingen ten aanzien van de bevoegdheid om de instemming van een Staat of een internationale organisatie tot uitdrukking te brengen
+##### Artikel 47. Bijzondere beperkingen ten aanzien van de bevoegdheid om de instemming van een Staat of een internationale organisatie tot uitdrukking te brengen
 
 Indien de bevoegdheid van een vertegenwoordiger om de instemming van een Staat, of een internationale organisatie door een bepaald verdrag gebonden te worden tot uitdrukking te brengen aan een bijzondere beperking is onderworpen, mag het feit dat deze vertegenwoordiger daarmede geen rekening heeft gehouden niet worden aangevoerd ter ongeldigverklaring van de door hem tot uitdrukking gebrachte instemming, tenzij de beperking aan de Staten en aan de organisaties die hebben deelgenomen aan de onderhandelingen ter kennis was gebracht alvorens de instemming tot uitdrukking werd gebracht.
 
-#### Artikel 48. Dwaling
+##### Artikel 48. Dwaling
 
 1. Een Staat of een internationale organisatie mag zich ten einde zijn instemming door een verdrag gebonden te worden ongeldig verklaren beroepen op een dwaling in het verdrag, indien de dwaling betrekking heeft op een feit of een situatie, door deze Staat of die organisatie beschouwd als te bestaan op het tijdstip van de sluiting van het verdrag en indien dit feit of deze situatie een wezenlijke grond vormde voor de instemming van deze Staat of deze organisatie door het verdrag gebonden te worden.
 
@@ -586,29 +608,29 @@ Indien de bevoegdheid van een vertegenwoordiger om de instemming van een Staat, 
 
 3. Een dwaling die slechts betrekking heeft op de redactie van de tekst van een verdrag tast de geldigheid ervan niet aan; artikel 79 is in dat geval van toepassing.
 
-#### Artikel 49. Bedrog
+##### Artikel 49. Bedrog
 
 Een Staat of een internationale organisatie die er door het bedriegelijke gedrag van een Staat of een organisatie die aan de onderhandelingen heeft deelgenomen toe is gebracht een verdrag te sluiten, mag het bedrog aanvoeren om zijn of haar instemming door het verdrag gebonden te worden ongeldig te verklaren.
 
-#### Artikel 50. Corruptie van een vertegenwoordiger van een Staat of een internationale organisatie
+##### Artikel 50. Corruptie van een vertegenwoordiger van een Staat of een internationale organisatie
 
 Een Staat of een internationale organisatie waarvan de instemming door een verdrag gebonden te worden, is verkregen door directe of indirecte corruptie van zijn of haar vertegenwoordiger door een Staat of een organisatie die aan de onderhandelingen heeft deelgenomen, mag deze corruptie aanvoeren om zijn of haar instemming door het verdrag gebonden te worden, ongeldig te verklaren.
 
-#### Artikel 51. Dwang, uitgeoefend op de vertegenwoordiger van een Staat of van een internationale organisatie
+##### Artikel 51. Dwang, uitgeoefend op de vertegenwoordiger van een Staat of van een internationale organisatie
 
 De instemming van een Staat of een internationale organisatie door een verdrag gebonden te worden, die is verkregen door dwang, uitgeoefend op de vertegenwoordiger van die Staat of die organisatie door middel van tegen hem gerichte handelingen of bedreigingen, heeft geen enkel rechtsgevolg.
 
-#### Artikel 52. Dwang, uitgeoefend op een Staat of een internationale organisatie door bedreiging met of gebruik van geweld
+##### Artikel 52. Dwang, uitgeoefend op een Staat of een internationale organisatie door bedreiging met of gebruik van geweld
 
 Elk verdrag is nietig, waarvan de totstandkoming is bereikt door bedreiging met of gebruik van geweld in strijd met de beginselen van het volkenrecht, neergelegd in het Handvest van de Verenigde Naties.
 
-#### Artikel 53. Verdragen strijdig met een dwingende norm van algemeen volkenrecht (jus cogens)
+##### Artikel 53. Verdragen strijdig met een dwingende norm van algemeen volkenrecht (jus cogens)
 
 Elk verdrag dat op het tijdstip van zijn totstandkoming in strijd is met een dwingende norm van algemeen volkenrecht, is nietig. Voor de toepassing van dit Verdrag is een dwingende norm van algemeen volkenrecht een norm die aanvaard en erkend is door de internationale gemeenschap van Staten in haar geheel als een norm, waarvan geen afwijking is toegestaan en die slechts kan worden gewijzigd door een latere norm van algemeen volkenrecht van dezelfde aard.
 
 ### AFDELING 3. BEËINDIGING VAN VERDRAGEN EN OPSCHORTING VAN DE WERKING VAN VERDRAGEN
 
-#### Artikel 54. Beëindiging van een verdrag of de terugtrekking uit een verdrag krachtens de bepalingen van het verdrag of door overeenstemming tussen de partijen
+##### Artikel 54. Beëindiging van een verdrag of de terugtrekking uit een verdrag krachtens de bepalingen van het verdrag of door overeenstemming tussen de partijen
 
 Beëindiging van een verdrag of de terugtrekking kan plaatsvinden:
 
@@ -616,11 +638,11 @@ Beëindiging van een verdrag of de terugtrekking kan plaatsvinden:
 
 - (b). te allen tijde door overeenstemming tussen alle partijen na raadpleging van de verdragsluitende Staten en de verdragsluitende organisaties.
 
-#### Artikel 55. Vermindering van het aantal partijen bij een mulitlateraal verdrag tot beneden het voor de inwerkingtreding verplichte aantal
+##### Artikel 55. Vermindering van het aantal partijen bij een mulitlateraal verdrag tot beneden het voor de inwerkingtreding verplichte aantal
 
 Tenzij het verdrag anders bepaalt, eindigt een multilateraal verdrag niet uitsluitend doordat het aantal partijen is gedaald tot onder het voor zijn inwerkingtreding vereiste aantal.
 
-#### Artikel 56. Opzegging of de terugtrekking uit een verdrag dat geen bepalingen bevat aangaande beëindiging, opzegging of terugtrekking
+##### Artikel 56. Opzegging of de terugtrekking uit een verdrag dat geen bepalingen bevat aangaande beëindiging, opzegging of terugtrekking
 
 1. Bij een verdrag dat geen bepalingen bevat aangaande zijn beëindiging en niet voorziet in opzegging of terugtrekking is opzegging of terugtrekking niet mogelijk, tenzij:
 
@@ -630,7 +652,7 @@ Tenzij het verdrag anders bepaalt, eindigt een multilateraal verdrag niet uitslu
 
 2. Een partij dient ten minste twaalf maanden tevoren haar voornemen een verdrag op te zeggen of zich uit het verdrag terug te trekken overeenkomstig de bepalingen van het eerste lid kenbaar te maken.
 
-#### Artikel 57. Opschorting van de werking van een verdrag krachtens zijn bepalingen of door overeenstemming tussen de partijen
+##### Artikel 57. Opschorting van de werking van een verdrag krachtens zijn bepalingen of door overeenstemming tussen de partijen
 
 De werking van een verdrag kan ten aanzien van alle partijen of van een bepaalde partij worden opgeschort
 
@@ -638,7 +660,7 @@ De werking van een verdrag kan ten aanzien van alle partijen of van een bepaalde
 
 - (b). te allen tijde door overeenstemming tussen alle partijen, na raadpleging van de verdragsluitende Staten en de verdragsluitende organisaties.
 
-#### Artikel 58. Opschorting van de werking van een multilateraal verdrag bij overeenkomst tussen slechts bepaalde partijen
+##### Artikel 58. Opschorting van de werking van een multilateraal verdrag bij overeenkomst tussen slechts bepaalde partijen
 
 1. Twee of meer partijen bij een multilateraal verdrag kunnen een overeenkomst sluiten om, tijdelijk en uitsluitend tussen hen, de werking van het verdrag op te schorten, indien:
 
@@ -652,7 +674,7 @@ De werking van een verdrag kan ten aanzien van alle partijen of van een bepaalde
 
 2. Tenzij in een geval als bedoeld in het eerste lid, letter a, het verdrag anders bepaalt, dienen de partijen in kwestie de andere partijen in kennis te stellen van hun voornemen de overeenkomst te sluiten en van de bepalingen in het verdrag waarvan zij voornemens zijn de werking op te schorten.
 
-#### Artikel 59. Beëindiging van een verdrag of opschorting van de werking van een verdrag ten gevolge van het sluiten van een later verdrag
+##### Artikel 59. Beëindiging van een verdrag of opschorting van de werking van een verdrag ten gevolge van het sluiten van een later verdrag
 
 1. Een verdrag wordt als beëindigd beschouwd wanneer alle partijen bij dit verdrag een later verdrag sluiten betreffende hetzelfde onderwerp en:
 
@@ -662,7 +684,7 @@ De werking van een verdrag kan ten aanzien van alle partijen of van een bepaalde
 
 2. Het eerdere verdrag zal geacht worden als alleen maar in zijn werking te zijn opgeschort als uit het latere verdrag blijkt, of op andere wijze vaststaat, dat dit bedoeling van de partijen was.
 
-#### Artikel 60. Beëindiging van een verdrag of opschorting van zijn werking ten gevolge van schending van het verdrag
+##### Artikel 60. Beëindiging van een verdrag of opschorting van zijn werking ten gevolge van schending van het verdrag
 
 1. Een materiële schending van een bilateraal verdrag door een der partijen geeft de andere partij het recht de schending aan te voeren als grond voor het beëindigen van het verdrag of het geheel of gedeeltelijk opschorten van de werking van het verdrag.
 
@@ -688,13 +710,13 @@ De werking van een verdrag kan ten aanzien van alle partijen of van een bepaalde
 
 5. De leden 1 tot en met 3 zijn niet van toepassing op bepalingen betreffende bescherming van de menselijke persoon, opgenomen in verdragen van humanitaire aard, in het bijzonder bepalingen die elke vorm van represailles verbieden tegen door genoemde verdragen beschermende personen.
 
-#### Artikel 61. Intreden van een situatie die de uitvoering onmogelijk maakt
+##### Artikel 61. Intreden van een situatie die de uitvoering onmogelijk maakt
 
 1. Een partij mag de onmogelijkheid tot uitvoering van een verdrag als grond aanvoeren om het te beëindigen of zich daaruit terug te trekken indien deze onmogelijkheid een gevolg is van de definitieve verdwijning of vernietiging van een voorwerp, onmisbaar voor de uitvoering van het verdrag. Indien de onmogelijkheid tijdelijk is, kan zij slechts worden aangevoerd als grond voor opschorting van de werking van het verdrag.
 
 2. Een partij mag niet de onmogelijkheid van de uitvoering aanvoeren als grond voor de beëindiging van het verdrag, voor de terugtrekking daaruit of voor het opschorten van de werking ervan, als deze onmogelijkheid het gevolg is van een schending door die partij hetzij van een verplichting voortvloeiend uit het verdrag, hetzij van iedere andere internationale verplichting met betrekking tot iedere andere partij bij het verdrag.
 
-#### Artikel 62. Wezenlijke verandering der omstandigheden
+##### Artikel 62. Wezenlijke verandering der omstandigheden
 
 1. Een wezenlijke verandering der omstandigheden, ingetreden ten aanzien van die welke op het tijdstip van de totstandkoming van een bedrag bestonden en die niet door de partijen was voorzien, kan niet als grond voor de beëindiging van het verdrag of voor de terugtrekking daaruit worden aangevoerd, tenzij:
 
@@ -708,17 +730,17 @@ De werking van een verdrag kan ten aanzien van alle partijen of van een bepaalde
 
 4. Als een partij overeenkomstig de voorgaande leden als grond voor het beëindigen van een verdrag of het zich daaruit terugtrekken een wezenlijke verandering der omstandigheden kan aanvoeren, mag zij eveneens de wijziging aanvoeren als grond voor de opschorting van de werking van het verdrag.
 
-#### Artikel 63. Het verbreken van diplomatieke of consulaire betrekkingen
+##### Artikel 63. Het verbreken van diplomatieke of consulaire betrekkingen
 
 Het verbreken van de diplomatieke of de consulaire betrekkingen tussen Staten die partij zijn bij een verdrag tussen twee of meer Staten en één of meer internationale organisaties, heeft geen gevolgen voor de rechtsbetrekkingen, door het verdrag tussen die Staten geschapen, behalve in zoverre het bestaan van diplomatieke of consulaire betrekkingen onontbeerlijk is voor de toepassing van het verdrag.
 
-#### Artikel 64. Een nieuwe dwingende norm van algemeen internationaal recht (jus cogens)
+##### Artikel 64. Een nieuwe dwingende norm van algemeen internationaal recht (jus cogens)
 
 Ingeval een nieuwe dwingende norm van algemeen volkenrecht opkomt, wordt elk bestaand verdrag dat in strijd is met deze norm nietig en eindigt het.
 
 ### AFDELING 4. PROCEDURE
 
-#### Artikel 65. Procedure te volgen bij ongeldigheid, beëindiging van een verdrag, terugtrekking uit een verdrag of opschorting van de werking van een verdrag
+##### Artikel 65. Procedure te volgen bij ongeldigheid, beëindiging van een verdrag, terugtrekking uit een verdrag of opschorting van de werking van een verdrag
 
 1. De partij die op grond van de bepalingen van dit Verdrag zich beroept op hetzij een gebrek in zijn instemming door een verdrag gebonden te worden, hetzij een motief om de geldigheid van een verdrag te betwisten, het te beëindigen, zich daaruit terug te trekken of de werking ervan op te schorten, moet de andere partijen van zijn eis in kennis stellen. De kennisgeving dient aan te geven welke maatregel tegen het verdrag wordt beoogd alsmede de redenen daarvoor.
 
@@ -732,7 +754,7 @@ Ingeval een nieuwe dwingende norm van algemeen volkenrecht opkomt, wordt elk bes
 
 6. Onverminderd artikel 45 verhindert het feit dat een Staat of een internationale organisatie niet de in het eerste lid voorgeschreven kennisgeving heeft gedaan hem of haar niet een dergelijke kennisgeving te doen ten antwoord aan een andere partij die de uitvoering van een verdrag eist of de schending ervan aanvoert.
 
-#### Artikel 66. Procedures voor rechtspraak, arbitrage en conciliatie
+##### Artikel 66. Procedures voor rechtspraak, arbitrage en conciliatie
 
 1. Als binnen een periode van twaalf maanden volgend op de datum waarop bezwaar is gemaakt het niet mogelijk is gebleken een oplossing te bereiken overeenkomstig artikel 65, derde lid, worden de in de volgende leden vermelde procedures toegepast.
 
@@ -754,7 +776,7 @@ Ingeval een nieuwe dwingende norm van algemeen volkenrecht opkomt, wordt elk bes
 
 4. Ten aanzien van een geschil betreffende de toepassing of uitlegging van een van de artikelen van deel V, anders dan de artikelen 53 en 64, van dit Verdrag, kan elke partij bij het geschil de bemiddelingsprocedure, vervat in de Bijlage bij dit Verdrag, op gang brengen door een hiertoe strekkend verzoek in te dienen bij de Secretaris-Generaal der Verenigde Naties.
 
-#### Artikel 67. Akten ter ongeldigverklaring of beëindiging van een verdrag, ter terugtrekking uit een verdrag of ter opschorting van de werking van een verdrag
+##### Artikel 67. Akten ter ongeldigverklaring of beëindiging van een verdrag, ter terugtrekking uit een verdrag of ter opschorting van de werking van een verdrag
 
 1. De kennisgeving voorzien in artikel 65, eerste lid, dient schriftelijk te geschieden.
 
@@ -762,13 +784,13 @@ Ingeval een nieuwe dwingende norm van algemeen volkenrecht opkomt, wordt elk bes
 
 Als de door een Staat opgestelde akte niet is ondertekend door het Staatshoofd, het hoofd van de Regering of de Minister van Buitenlandse Zaken, kan de vertegenwoordiger van de Staat die de mededeling doet uitgenodigd worden zijn volmacht te tonen. Indien de akte is opgesteld door een internationale organisatie, kan de vertegenwoordiger van de organisatie die hiervan mededeling doet, uitgenodigd worden zijn volmacht te tonen.
 
-#### Artikel 68. Herroeping van de kennisgevingen en akten als voorzien in de artikelen 65 en 67
+##### Artikel 68. Herroeping van de kennisgevingen en akten als voorzien in de artikelen 65 en 67
 
 Een kennisgeving of een akte als voorzien in de artikelen 65 en 67 kan te allen tijde worden herroepen voordat zij dan kracht is geworden.
 
 ### AFDELING 5. GEVOLGEN VAN DE ONGELDIGHEID, BEËINDIGING OF OPSCHORTING VAN DE WERKING VAN EEN VERDRAG
 
-#### Artikel 69. Gevolgen van de ongeldigheid van een verdrag
+##### Artikel 69. Gevolgen van de ongeldigheid van een verdrag
 
 1. Een verdrag waarvan de ongeldigheid krachtens dit Verdrag wordt vastgesteld, is nietig. De bepalingen van een nietig verdrag hebben geen rechtskracht.
 
@@ -782,7 +804,7 @@ Een kennisgeving of een akte als voorzien in de artikelen 65 en 67 kan te allen 
 
 4. In geval van ongeldigheid van de instemming van een bepaalde Staat of een bepaalde internationale organisatie door een multilateraal verdrag gebonden te worden, zijn de voorgaande regels van toepassing op de betrekkingen tussen die Staat of die organisatie en de partijen bij het verdrag.
 
-#### Artikel 70. Gevolgen van de beëindiging van een verdrag
+##### Artikel 70. Gevolgen van de beëindiging van een verdrag
 
 1. De beëindiging van een verdrag krachtens zijn bepalingen of overeenkomstig dit Verdrag
 
@@ -792,7 +814,7 @@ Een kennisgeving of een akte als voorzien in de artikelen 65 en 67 kan te allen 
 
 2. Indien een Staat of een internationale organisatie een multilateraal verdrag opzegt of zich daaruit terugtrekt, is met ingang van de datum waarop deze zegging of terugtrekking effect krijgt het eerste lid van toepassing op de betrekkingen tussen deze Staat of die organisatie en ieder der andere partijen bij het verdrag.
 
-#### Artikel 71. Gevolgen van de nietigheid van een verdrag dat strijdig is met een dwingende norm van algemeen volkenrecht
+##### Artikel 71. Gevolgen van de nietigheid van een verdrag dat strijdig is met een dwingende norm van algemeen volkenrecht
 
 1. Ingeval een verdrag nietig is krachtens artikel 53, zijn de partijen gehouden:
 
@@ -806,7 +828,7 @@ Een kennisgeving of een akte als voorzien in de artikelen 65 en 67 kan te allen 
 
 - (b). tast de beëindiging van het verdrag geen enkel recht, geen enkele verplichting of geen enkele rechtspositie van partijen aan, die door de uitvoering van het verdrag vóór zijn beëindiging is ontstaan; deze rechten, verplichtingen en rechtspositie kunnen daarna echter slechts worden gehandhaafd in zoverre deze handhaving op zich niet strijdig is met de nieuwe dwingende norm van algemeen volkenrecht.
 
-#### Artikel 72. Gevolgen van de opschorting van de werking van een verdrag
+##### Artikel 72. Gevolgen van de opschorting van de werking van een verdrag
 
 1. De opschorting van de werking van een verdrag op grond van zijn bepalingen of overeenkomstig dit Verdrag - tenzij het verdrag anders bepaalt of de partijen anders overeenkomen -:
 
@@ -818,11 +840,11 @@ Een kennisgeving of een akte als voorzien in de artikelen 65 en 67 kan te allen 
 
 ## DEEL VI. Onderscheiden bepalingen
 
-#### Artikel 73. Betrekkingen met het Verdrag van Wenen inzake het verdragenrecht
+##### Artikel 73. Betrekkingen met het Verdrag van Wenen inzake het verdragenrecht
 
 Ten aanzien van de Staten die partij zijn bij het Verdrag van Wenen inzake het verdragenrecht van 1969 is dat Verdrag van toepassing op de betrekkingen tussen die Staten krachtens een verdrag tussen twee of meer Staten en een of meer internationale organisatie.
 
-#### Artikel 74. Vraagstukken waarop dit Verdrag niet vooruit loopt
+##### Artikel 74. Vraagstukken waarop dit Verdrag niet vooruit loopt
 
 1. De bepalingen van dit Verdrag mogen niet vooruitlopen op vraagstukken die zich met betrekking tot een verdrag tussen één of meer Staten en één of meer internationale organisaties kunnen voordoen op grond van Statenopvolging, de internationale Staatsaansprakelijkheid of het uitbreken van vijandelijkheden tussen Staten.
 
@@ -830,23 +852,23 @@ Ten aanzien van de Staten die partij zijn bij het Verdrag van Wenen inzake het v
 
 3. De bepalingen van dit Verdrag mogen niet vooruitlopen op vraagstukken die zich kunnen voordoen met betrekking tot de vaststelling van de plichten en rechten van Lid-Staten van een internationale organisatie ingevolge een verdrag waarbij die organisatie partij is.
 
-#### Artikel 75. Diplomatieke of consulaire betrekkingen en het sluiten van verdragen
+##### Artikel 75. Diplomatieke of consulaire betrekkingen en het sluiten van verdragen
 
 Het verbreken of de afwezigheid van diplomatieke of consulaire betrekkingen tussen twee of meer Staten is geen belemmeringen voor het sluiten van verdragen tussen twee of meer van deze Staten en één of meer internationale organisaties. Het sluiten van een zodanig verdrag heeft op zichzelf geen gevolg voor de diplomatieke of consulaire betrekkingen.
 
-#### Artikel 76. Geval van een aanvallende Staat
+##### Artikel 76. Geval van een aanvallende Staat
 
 De bepalingen van dit Verdrag laten onverlet de verplichtingen die met betrekking tot een verdrag tussen één of meer Staten en één of meer internationale organisaties voor een aanvallende Staat kunnen voortvloeien uit maatregelen, genomen overeenkomstig het Handvest van de Verenigde Naties ter zake van door deze Staat gepleegde agressie.
 
 ## DEEL VII. Depositarissen, kennisgevingen, verbeteringen en registratie
 
-#### Artikel 77. Depositarissen van verdragen
+##### Artikel 77. Depositarissen van verdragen
 
 1. De aanwijzing van de depositaris van een verdrag kan geschieden door de Staten en organisaties of, al naar gelang het geval, de organisaties die aan de onderhandelingen hebben deelgenomen, hetzij in het verdrag zelf, hetzij op andere wijze. De depositaris kan zijn één of meer Staten, een internationale organisatie of de voornaamste administratieve functionaris van een dergelijke organisatie.
 
 2. De functies van de depositaris zijn internationaal van aard en de depositaris is gehouden onpartijdig te handelen bij het vervullen van zijn functies. Met name het feit dat een verdrag niet in werking is getreden tussen bepaalde partijen of dat er een verschil van mening is gerezen tussen een Staat of een internationale organisatie en een depositaris met betrekking tot de uitvoering van de functies van deze laatste mag geen invloed hebben op deze verplichting.
 
-#### Artikel 78. Functies van de depositarissen
+##### Artikel 78. Functies van de depositarissen
 
 1. Tenzij het verdrag anders bepaalt of de verdragsluitende Staten en de verdragsluitende organisaties, of, al naar gelang het geval, de verdragsluitende organisaties onderling anders zijn overeengekomen, zijn de functies van de depositaris in het bijzonder de volgende:
 
@@ -872,7 +894,7 @@ De bepalingen van dit Verdrag laten onverlet de verplichtingen die met betrekkin
 
 - (b). indien nodig, van het bevoegde orgaan van de betreffende internationale organisatie.
 
-#### Artikel 79. Kennisgevingen en mededelingen
+##### Artikel 79. Kennisgevingen en mededelingen
 
 Behalve in het geval waarin het verdrag of dit Verdrag anders bepaalt, moet een kennisgeving of mededeling die door een Staat of internationale organisatie moet worden gedaan krachtens dit Verdrag;
 
@@ -882,7 +904,7 @@ Behalve in het geval waarin het verdrag of dit Verdrag anders bepaalt, moet een 
 
 - (c). indien zij is gericht aan de depositaris worden beschouwd als ontvangen door de Staat of deze Staat of organisatie door de depositaris in overeenstemming met artikel 78, eerste lid, letter (e) daarover is ingelicht.
 
-#### Artikel 80. Verbetering van fouten in de teksten of in de voor gelijkluidend gewaarmerkte afschriften van verdragen
+##### Artikel 80. Verbetering van fouten in de teksten of in de voor gelijkluidend gewaarmerkte afschriften van verdragen
 
 1. Als, na de authentificatie van de tekst van een verdrag de ondertekenende Staten en internationale organisaties en de verdragsluitende Staten en verdragsluitende organisaties het er over eens zijn, dat deze tekst een fout bevat, moet de fout worden hersteld op een van de hierna genoemde wijzen, tenzij deze Staten en organisaties tot een andere wijze van verbetering besluiten:
 
@@ -906,7 +928,7 @@ Behalve in het geval waarin het verdrag of dit Verdrag anders bepaalt, moet een 
 
 6. Wanneer een fout is ontdekt in een voor gelijkluidend gewaarmerkt afschrift van een verdrag moet de depositaris een procesverbaal van de verbetering opstellen en er een kopie van sturen aan de ondertekenende Staten en internationale organisaties en aan de verdragsluitende Staten en verdragsluitende organisaties.
 
-#### Artikel 81. Registratie en publikatie van verdragen
+##### Artikel 81. Registratie en publikatie van verdragen
 
 1. Na hun inwerkingtreding moeten de verdragen gezonden worden aan het Secretariaat van de Verenigde Naties ter fine van, al naar gelang het geval, registratie of inschrijving in het register, alsmede voor publicatie.
 
@@ -914,7 +936,7 @@ Behalve in het geval waarin het verdrag of dit Verdrag anders bepaalt, moet een 
 
 ## DEEL VIII. Slotbepalingen
 
-#### Artikel 82. Ondertekening
+##### Artikel 82. Ondertekening
 
 Dit verdrag staat open voor ondertekening tot 31 december 1986 op het Bondsministerie van Buitenlandse Zaken van de Republiek Oostenrijk en vervolgens tot 30 juni 1987 op de zetel van de Verenigde Naties te New York, door:
 
@@ -924,11 +946,11 @@ Dit verdrag staat open voor ondertekening tot 31 december 1986 op het Bondsminis
 
 - (c). internationale organisaties die zijn uitgenodigd deel te nemen aan de Conferentie van de Verenigde Naties inzake verdragenrecht tussen Staten internationale organisaties of tussen internationale organisaties onderling.
 
-#### Artikel 83. Bekrachtiging of handeling van formele bevestiging
+##### Artikel 83. Bekrachtiging of handeling van formele bevestiging
 
 Dit Verdrag dient te worden bekrachtigd door de Staten en door Namibië, vertegenwoordigd door de Raad van de Verenigde Naties voor Namibië, en dient formeel te worden bevestigd door internationale organisaties. De akten van bekrachtiging en de akten betreffende handelingen van formele bevestiging worden nedergelegd bij de Secretaris-Generaal der Verenigde Naties.
 
-#### Artikel 84. Toetreding
+##### Artikel 84. Toetreding
 
 1. Dit Verdrag staat open voor toetreding door iedere Staat, door Namibië, vertegenwoordigd door de Raad van de Verenigde Naties voor Namibië, en door iedere internationale organisatie die bevoegd is verdragen te sluiten.
 
@@ -936,7 +958,7 @@ Dit Verdrag dient te worden bekrachtigd door de Staten en door Namibië, vertege
 
 3. De akten van toetreding worden nedergelegd bij de Secretaris-Generaal der Verenigde Naties.
 
-#### Artikel 85. Inwerkingtreding
+##### Artikel 85. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de dertigste dag volgend op de datum van nederlegging van de vijfendertigste akte van bekrachtiging of toetreding door Staten of door Namibië, vertegenwoordigd door de Raad van de Verenigde Naties voor Namibië.
 
@@ -944,17 +966,17 @@ Dit Verdrag dient te worden bekrachtigd door de Staten en door Namibië, vertege
 
 3. Voor iedere internationale organisatie die een akte betreffende een handeling van formele bevestiging of een akte van toetreding nederlegt, treedt het Verdrag in werking op de dertigste dag na genoemde nederlegging, of op de datum waarop dit Verdrag ingevolge het eerste lid in werking treedt, welk van beide data later is.
 
-#### Artikel 86. Authentieke teksten
+##### Artikel 86. Authentieke teksten
 
 Het origineel van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal der Verenigde Naties.
 
 ### I. INSTELLING VAN HET SCHEIDGERECHT OF DE CONCILIATIECOMMISSIE
 
-#### 1
+##### 1
 
 De Secretaris-Generaal van de Verenigde Naties maakt een lijst van bekwame juristen op, waaruit de partijen bij een geschil de personen kunnen kiezen die een scheidsgerecht, of, al naar gelang het geval, een conciliatiecommissie zullen vormen en houdt die lijst bij. Te dien einde wordt iedere Staat die lid is van de Verenigde Naties en iedere partij bij dit Verdrag uitgenodigd twee personen aan te wijzen en de namen van de aldus aangewezen personen worden geplaatst op een lijst, waarvan een afschrift wordt gezonden aan de President van het Internationaal Gerechtshof. De ambtstermijn van een op die lijst staande persoon, met inbegrip van degenen die worden benoemd om een voorkomende vacature te vervullen, is vijf jaar en kan worden verlengd. Een persoon wiens ambtstermijn afloopt, gaat voort met het uitoefenen van de functies waarvoor hij overeenkomstig de volgende leden is gekozen.
 
-#### 2
+##### 2
 
 Wanneer overeenkomstig artikel 66, tweede lid, letter (f), kennisgeving is gedaan of overeenkomstig het derde lid overeenstemming is bereikt omtrent de in deze Bijlage vastgelegde procedure, wordt het geschil voorgelegd aan een scheidsgerecht. Wanneer overeenkomstig artikel 66, vierde lid, een verzoek is gedaan aan de Secretaris-Generaal, legt deze het geschil voor aan de conciliatiecommissie. Zowel het scheidsgerecht als de conciliatiecommissie worden als volgt samengesteld:
 
@@ -976,49 +998,49 @@ De benoeming van scheidsmannen of conciliators door een internationale organisat
 
 ### II. HET FUNCTIONEREN VAN HET SCHEIDSGERECHT
 
-#### 3
+##### 3
 
 Tenzij de partijen bij het geschil anders overeenkomen, stelt het Scheidsgerecht zelf zijn procedure vast, waarbij het iedere partij bij het geschil de volledige gelegenheid waarborgt om te worden gehoord en haar zaak te verdedigen.
 
-#### 4
+##### 4
 
 Het Scheidsgerecht kan, met instemming van de partijen bij het geschil, iedere belanghebbende Staat of internationale organisatie uitnodigen zijn of haar standpunt schriftelijk of mondeling aan hem voor te leggen.
 
-#### 5
+##### 5
 
 Het Scheidsgerecht neemt besluiten aan bij meerderheid van stemmen van de leden. Als de stemmen staken, is de stem van de Voorzitter doorslaggevend.
 
-#### 6
+##### 6
 
 Wanneer één van de partijen bij het geschil niet voor het scheidsgerecht verschijnt of in gebreke blijft haar zaak te verdedigen, kan de andere partij het scheidsgerecht verzoeken de werkzaamheden voort te zetten en uitspraak te doen. Alvorens uitspraak te doen, moet het scheidsgerecht zich er van overtuigen niet alleen dat het rechtsmacht heeft ten aanzien van het geschil, maar ook dat de eis feitelijk en rechtens gegrond is.
 
-#### 7
+##### 7
 
 Het Scheidsgerecht beperkt zich in zijn uitspraak tot de materie van het geschil; de uitspraak is met redenen omkleed. Ieder lid van het Scheidsgerecht kan aan de uitspraak een uiteenzetting van zijn individuele of afwijkende mening toevoegen.
 
-#### 8
+##### 8
 
 De uitspraak is definitief en niet vatbaar voor beroep. Alle partijen bij het geschil dienen zich hiernaar te schikken.
 
-#### 9
+##### 9
 
 De Secretaris-Generaal verschaft het Scheidsgerecht de assistentie en de faciliteiten die het behoeft. De uitgaven van het Scheidsgerecht worden gedragen door de Verenigde Naties.
 
 ### III. HET FUNCTIONEREN VAN DE CONCILIATIECOMMISSIE
 
-#### 11
+##### 11
 
 De Commissie mag iedere maatregel die een minnelijke schikking zou kunnen vergemakkelijken onder de aandacht brengen van de partijen bij het geschil.
 
-#### 12
+##### 12
 
 De Commissie hoort de partijen, onderzoekt de eisen en bezwaren en doet voorstellen aan de partijen om hen bij te staan in het bereiken van een minnelijke schikking van het geschil.
 
-#### 13
+##### 13
 
 De Commissie brengt binnen twaalf maanden na haar instelling verslag uit. Haar verslag wordt nedergelegd bij de Secretaris-Generaal en toegezonden aan de partijen bij het geschil. Het verslag van de Commissie, met inbegrip van alle daarin vermelde conclusies ten aanzien van feiten of rechtsvragen, is niet bindend voor de partijen en zal geen ander karakter hebben dan dat van aanbevelingen, die ter overweging aan de partijen worden voorgelegd ten einde een minnelijke schikking van het geschil te vergemakkelijken.
 
-#### 14
+##### 14
 
 De Secretaris-Generaal verschaft de Commissie de assistentie en de faciliteiten die zij behoeft. De uitgaven van de Commissie worden gedragen door de Verenigde Naties.
 

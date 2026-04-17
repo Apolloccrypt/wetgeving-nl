@@ -1,13 +1,38 @@
 ---
 title: "Uitvoeringsregeling loonbelasting BES"
 identifier: "BWBR0029331"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-04-01
-laatste_update: 2025-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029331"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2025-04-01"
+last_updated: "2025-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029331"
+soort: "ministeriele-regeling-BES"
+stam_id: "11182843"
+version_id: "30530372"
+internal_id: "C43766191"
+label_id: "11157134"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029331/2025-04-01/0"
+intitule_bron: "Stcrt.2010-21103"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-23"
+intitule_published: "2010-12-29"
+intitule_in_force: "2010-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-41523"
+original_signed_date: "2024-12-19"
+original_published_date: "2024-12-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-41523"
+entry_into_force_date: "2024-12-19"
+jci_1_3: "jci1.3:c:BWBR0029331&z=2025-04-01&g=2025-04-01"
+jci_1_0: "1.0:c:BWBR0029331&g=2025-04-01"
+citeertitel_status: "officieel"
+signed_date: "2024-12-19"
+entry_into_force: "2024-12-19"
 ---
-
 # Uitvoeringsregeling loonbelasting BES
 
 Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=8) en [12A van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=12a) en [artikel 58 van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=58);
@@ -16,11 +41,11 @@ Besluit:
 
 Treedt in werking om 0:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 05:00 uur in het Europese deel van Nederland.
 
-#### Artikel 1
+##### Artikel 1
 
 Deze regeling geeft uitvoering aan de [artikelen 6c](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6c), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=8a), [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=8b), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=12a), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=19), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=19a) en [21b van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=21b) en [artikel 58 van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=58).
 
-#### Artikel 2
+##### Artikel 2
 
 Als loonbelasting- en premietabellen worden vastgesteld:
 
@@ -38,19 +63,19 @@ Als loonbelasting- en premietabellen worden vastgesteld:
 
 - g. een tabel bijzondere beloningen.
 
-#### Artikel 3
+##### Artikel 3
 
 De loonbelasting- en premietabellen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&artikel=2&z=2025-04-01&g=2025-04-01), zijn van toepassing op de in [artikel 2 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=2) genoemde werknemers.
 
-#### Artikel 4
+##### Artikel 4
 
 De loonbelasting- en premietabellen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&artikel=2&z=2025-04-01&g=2025-04-01), worden gepubliceerd op www.belastingdienst-cn.nl/onderwerpen/loonheffing/tabellen-en-rekenregels.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling loonbelasting BES.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van 1 januari 2011 om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 05:00 uur in het Europese deel van Nederland.
 
@@ -84,11 +109,11 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 De waarde van een aanspraak om na verloop van tijd of onder een voorwaarde een of meer uitkeringen of verstrekkingen te ontvangen, wordt gesteld op de bedragen die bij een derde worden gestort of, voor zover geen stortingen worden verricht, zouden moeten worden gestort teneinde de aanspraak te dekken.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. De inhoudingsplichtige legt voor iedere werknemer voor de eerste loonverstrekking in het kalenderjaar een loonstaat aan en houdt deze vervolgens bij. De loonstaat wordt opgemaakt overeenkomstig het door de inspecteur verstrekte model. De inhoudingsplichtige mag een van het model afwijkende loonstaat gebruiken, mits deze ten minste de mogelijkheid biedt op duidelijke wijze dezelfde gegevens te administreren als het model.
 
@@ -112,7 +137,7 @@ De waarde van een aanspraak om na verloop van tijd of onder een voorwaarde een o
 
 7. De inhoudingsplichtige houdt de loonadministratie op de plaats waar hij op de BES eilanden kantoor houdt of, indien zodanig kantoor niet wordt gehouden, op de plaats waar hij op de BES eilanden woont of gevestigd is, of op de plaats waar hij op de BES eilanden een vaste inrichting voor de uitoefening van zijn bedrijf of beroep of een op de BES eilanden wonende of gevestigde vaste vertegenwoordiger heeft. Bij gebreke daarvan houdt hij de loonadministratie onder zijn berusting. De inspecteur kan een andere plaats aanwijzen.
 
-#### Artikel 4b
+##### Artikel 4b
 
 1. De inhoudingsplichtige reikt aan de werknemer een loonbelastingverklaring met de daarbij behorende toelichting uit:
 
@@ -134,13 +159,13 @@ De waarde van een aanspraak om na verloop van tijd of onder een voorwaarde een o
 
 7. De inhoudingsplichtige bewaart de loonbelastingverklaring bij de loonadministratie tot ten minste zeven jaren na het einde van het kalenderjaar waarin de dienstbetrekking is geëindigd, dan wel waarin de werknemer een andere loonbelastingverklaring heeft ingediend.
 
-#### Artikel 4c
+##### Artikel 4c
 
 1. De inhoudingsplichtige verstrekt binnen drie maanden na afloop van het kalenderjaar aan de inspecteur een verzamelloonstaat. Indien de inhoudingsplicht in de loop van het kalenderjaar eindigt, verstrekt de inhoudingsplichtige de verzamelloonstaat binnen een maand na het einde van de inhoudingsplicht.
 
 2. De verzamelloonstaat wordt opgemaakt op de door de inspecteur voorgeschreven wijze en overeenkomstig het door de inspecteur verstrekte model. De inhoudingsplichtige mag een van het model van de inspecteur afwijkende verzamelloonstaat gebruiken, mits deze ten minste de mogelijkheid biedt op duidelijke wijze dezelfde gegevens te administreren als het model.
 
-#### Artikel 4d
+##### Artikel 4d
 
 1. Binnen een maand na afloop van het kalenderjaar verstrekt de inhoudingsplichtige aan de werknemer een jaaropgaaf. Indien de dienstbetrekking van de werknemer in de loop van het kalenderjaar eindigt, verstrekt de inhoudingsplichtige de jaaropgaaf binnen twee weken na beëindiging van de dienstbetrekking.
 
@@ -160,7 +185,7 @@ De waarde van een aanspraak om na verloop van tijd of onder een voorwaarde een o
 
 - g. de bij de berekening van de verschuldigde loonheffingen toegepaste ouderentoeslag, bedoeld in artikel 24, derde lid, van de Wet inkomstenbelasting BES.
 
-#### Artikel 4e
+##### Artikel 4e
 
 1. De inhoudingsplichtige stelt voor de datum van aanvang van de werkzaamheden van de werknemer, of voor de aanvang van de werkzaamheden indien de dienstbetrekking is overeengekomen op de datum waarop de werkzaamheden aanvangen, de identiteit van de werknemer vast aan de hand van een document als bedoeld in artikel 2, eerste lid, onderdelen a, b of d, van de Wet identificatieplicht BES en houdt een afschrift van het document voor controle beschikbaar bij de loonadministratie.
 
@@ -170,11 +195,11 @@ De waarde van een aanspraak om na verloop van tijd of onder een voorwaarde een o
 
 4. De inhoudingsplichtige bewaart de gegevens en afschriften, bedoeld in dit artikel, ten minste zeven jaren na het einde van het kalenderjaar waarin de dienstbetrekking is geëindigd.
 
-#### Artikel 4f
+##### Artikel 4f
 
 Indien een inhoudingsplichtige in enig tijdvak voorziet dat hij gerekend vanaf het einde van dat tijdvak ten minste 12 maanden geen inhoudingsplichtige zal zijn, doet hij daarvan binnen een maand na afloop van dat tijdvak mededeling aan de inspecteur.
 
-#### Artikel 4g
+##### Artikel 4g
 
 1. De inhoudingsplichtige administreert bij de loonadministratie de gegevens met betrekking tot:
 
@@ -184,7 +209,7 @@ Indien een inhoudingsplichtige in enig tijdvak voorziet dat hij gerekend vanaf h
 
 2. Met betrekking tot vergoedingen van vervoerskosten als bedoeld in artikel 6, vijfde lid, onderdeel g, onder 2o, van de Wet loonbelasting BES administreert de inhoudingsplichtige bij de loonadministratie voor iedere werknemer per uitbetalingstijdvak tevens het aantal kilometers waarvoor de vergoeding is verstrekt.
 
-#### Artikel 4h
+##### Artikel 4h
 
 1. Als loonbelasting- en premietabellen voor de eindheffing worden eindheffingstabellen vastgesteld.
 

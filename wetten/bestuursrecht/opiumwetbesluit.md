@@ -1,13 +1,39 @@
 ---
-title: "Opiumwetbesluit"
+title: "Besluit van 9 december 2002, houdende uitvoeringsvoorschriften krachtens de Opiumwet (Opiumwetbesluit)"
 identifier: "BWBR0014405"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014405"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014405"
+soort: "AMvB"
+stam_id: "3265623"
+version_id: "16614942"
+internal_id: "C22874871"
+label_id: "3245984"
+dtd_version: "2.0"
+original_entry_into_force: "2009-10-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014405/2023-01-01/0"
+intitule_bron: "Stb.2002-624"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-12-09"
+intitule_published: "2002-12-23"
+intitule_in_force: "2003-03-11"
+intitule_status: "goed"
+original_publication: "Stb.2009-348"
+original_signed_date: "2009-07-18"
+original_published_date: "2009-08-20"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2009-348"
+entry_into_force_date: "2009-10-15"
+jci_1_3: "jci1.3:c:BWBR0014405&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0014405&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Opiumwetbesluit"
+signed_date: "2009-07-18"
+entry_into_force: "2009-10-15"
 ---
-
 # Besluit van 9 december 2002, houdende uitvoeringsvoorschriften krachtens de Opiumwet (Opiumwetbesluit)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 26 september 2002, GMT/BMC 2316914, gedaan in overeenstemming met Onze Minister van Justitie en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop de opiumwetswijziging (Stb. 2002/520) i
 
 ### Hoofdstuk 1. Begripbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -48,7 +74,7 @@ Treedt in werking op het tijdstip waarop de opiumwetswijziging (Stb. 2002/520) i
 
 ### Hoofdstuk 2. Voorschrijven opiumwetmiddelen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden andere opiumwetmiddelen dan die, bedoeld in de de bijlagen bij dit besluit, voor te schrijven op recept, tenzij die worden voorgeschreven ten behoeve van proefpersonen in het kader van een onderzoek in de zin van de [Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408) dan wel ten behoeve van dieren in het kader van een onderzoek in de zin van de [Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081).
 
@@ -58,7 +84,7 @@ Treedt in werking op het tijdstip waarop de opiumwetswijziging (Stb. 2002/520) i
 
 4. Het is verboden een middel als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&bijlage=2&z=2023-01-01&g=2023-01-01) bij dit besluit voor te schrijven op recept ten behoeve van anderen dan de patiënten van een behandeleenheid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elk voor te schrijven opiumwetmiddel wordt op een afzonderlijk recept voorgeschreven.
 
@@ -80,7 +106,7 @@ Treedt in werking op het tijdstip waarop de opiumwetswijziging (Stb. 2002/520) i
 
 ### Hoofdstuk 3. Aflevering opiumwetmiddelen op recept
 
-#### Artikel 4
+##### Artikel 4
 
 1. Gevestigde apothekers leveren opiumwetmiddelen uitsluitend af op een recept als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=2&artikel=3&z=2023-01-01&g=2023-01-01), of op een bestelling die voldoet aan het bij en krachtens [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=4) bepaalde.
 
@@ -88,7 +114,7 @@ Treedt in werking op het tijdstip waarop de opiumwetswijziging (Stb. 2002/520) i
 
 3. Apotheekhoudende artsen leveren opiumwetmiddelen ten behoeve van de tot hun geneeskundige praktijk behorende personen slechts af op een recept als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=2&artikel=3&z=2023-01-01&g=2023-01-01).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Gevestigde apothekers en apotheekhoudende artsen bewaren de recepten waarop een opiumwetmiddel is afgeleverd gescheiden van de andere recepten in de apotheek, gerangschikt achtereenvolgens op naam van degene die het heeft voorgeschreven, op naam van de substantie en op datum van aflevering. Ingeval het een preparaat betreft dat meer dan één substantie bevat, worden evenveel kopieën van het recept gemaakt als er substanties zijn.
 
@@ -96,7 +122,7 @@ Treedt in werking op het tijdstip waarop de opiumwetswijziging (Stb. 2002/520) i
 
 3. Gevestigde apothekers verzenden kopieën van recepten als bedoeld in het eerste lid, die betrekking hebben op gevallen waarin een opiumwetmiddel in enig kwartaal is afgeleverd aan degene die het heeft voorgeschreven of aan een instelling als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=6&artikel=16&z=2023-01-01&g=2023-01-01), op de eerste dag van het eerstvolgende kwartaal aan de regionale inspecteur.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Gevestigde apothekers, apotheekhoudende artsen en dierenartsen nemen een hoeveelheid van een opiumwetmiddel slechts in ontvangst tegen afgifte van een ontvangstbrief, waarvan zij een kopie behouden. Ingeval het een postzending betreft, wordt de ontvangstbrief binnen drie dagen, de zaterdagen en de zon- en erkende feestdagen niet meegerekend, na de datum van ontvangst toegezonden aan degene die het opiumwetmiddel heeft afgeleverd.
 
@@ -114,7 +140,7 @@ Treedt in werking op het tijdstip waarop de opiumwetswijziging (Stb. 2002/520) i
 
 5. Gevestigde apothekers, apotheekhoudende artsen en dierenartsen bewaren de in het eerste lid bedoelde kopieën gescheiden van andere ontvangstbrieven en op naam van het middel, in chronologische volgorde naar de datum van ontvangst gedurende ten minste zes jaren, en houden deze gedurende die periode ter beschikking van de regionale inspecteur. Ingeval er sprake is van een schriftelijke kennisgeving als bedoeld in het vierde lid, bewaren zij de kopie daarvan bij de kopie van de ontvangstbrief waarop de kennisgeving betrekking heeft.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Gevestigde apothekers, apotheekhoudende artsen en dierenartsen voeren een administratie omtrent de ontvangst, de herkomst, de bestemming, de aflevering, de toediening, het verlies en de vernietiging, alsmede de be- of verwerking van opiumwetmiddelen.
 
@@ -126,7 +152,7 @@ Treedt in werking op het tijdstip waarop de opiumwetswijziging (Stb. 2002/520) i
 
 5. De administratie wordt gedurende zes jaren bewaard en gedurende die periode ter beschikking van de regionale inspecteur gehouden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=2&artikel=3&z=2023-01-01&g=2023-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=3&artikel=4&z=2023-01-01&g=2023-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=3&artikel=5&z=2023-01-01&g=2023-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=3&artikel=6&z=2023-01-01&g=2023-01-01), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0014405&hoofdstuk=3&artikel=7&z=2023-01-01&g=2023-01-01) zijn niet van toepassing ten aanzien van preparaten die geen andere substanties bevatten dan die, bedoeld in de bij de wet behorende [Lijst II](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II), met uitzondering van de substanties:
 
@@ -172,7 +198,7 @@ pentobarbital.
 
 ### Hoofdstuk 4. Registratie toediening opiumwetmiddelen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een arts die naar het oordeel van de regionale inspecteur niet voldoende aantoont dat hij opiumwetmiddelen in de bij hem aangetroffen hoeveelheid tot uitoefening van de geneeskunst behoefde, schrijft, na een daartoe strekkende schriftelijke aanwijzing van de hoofdinspecteur, elke toediening in een uitsluitend daartoe bestemd register in. Dit register wordt ingericht en bijgehouden ten genoegen van de regionale inspecteur, onder vermelding van:
 
@@ -188,7 +214,7 @@ pentobarbital.
 
 ### Hoofdstuk 5. Uitgezonderde middelen en toepassingen
 
-#### Artikel 10
+##### Artikel 10
 
 De verboden, gesteld in [artikel 2, aanhef en onder B en C, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) gelden niet voor:
 
@@ -198,29 +224,29 @@ De verboden, gesteld in [artikel 2, aanhef en onder B en C, van de wet](https://
 
 - c. het bewerken, verkopen, afleveren, vervoeren en aanwezig hebben van de al of niet gesteelde vruchten van bolkaf, welke zijn bestemd om te worden gebezigd als versiersel.
 
-#### Artikel 11
+##### Artikel 11
 
 De verboden, gesteld in [artikel 2, aanhef en onder B en C, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), gelden niet voor preparaten die ten hoogste 0,5 mg codeïne per gram of per milliliter bevatten en geen andere van de op de bij de wet behorende [Lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I) vermelde substanties bevatten.
 
-#### Artikel 12
+##### Artikel 12
 
 De verboden, gesteld in [artikel 3, aanhef en onder B, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), gelden niet voor hennep die kennelijk bestemd is voor de winning van vezel of de vermeerdering van zaad voor de productie van vezelhennep, met dien verstande dat de uitzondering van het verbod op het telen van hennep slechts geldt voor zover de teelt plaatsvindt in de volle grond en in de open lucht.
 
-#### Artikel 13
+##### Artikel 13
 
 Het verbod op het aanwezig hebben, bewerken of verwerken, gesteld in [artikel 3, aanhef en onder B en C, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), geldt niet voor barbital of een preparaat dat barbital bevat, voor zover kennelijk bestemd voor analytisch-chemische doeleinden.
 
-#### Artikel 14
+##### Artikel 14
 
 Het verbod, gesteld in de [artikelen 2, aanhef en onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), en [3, aanhef en onder A, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), alsmede het verbod op het aanwezig hebben, verwerken of vervoeren, gesteld in de [artikelen 2, aanhef en onder B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), en [3, aanhef en onder B en C, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), gelden niet voor diagnostisch materiaal ter opsporing en identificatie van opiumwetmiddelen waarop de wet betrekking heeft, indien de concentratie van elk van de daarin aanwezige opiumwetmiddelen niet hoger is dan 0,01%.
 
-#### Artikel 15
+##### Artikel 15
 
 Het verbod, gesteld in de [artikelen 2, aanhef en onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), en [3, aanhef en onder A, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), alsmede het verbod op het aanwezig hebben, vervoeren, verkopen, afleveren en verstrekken, gesteld in de [artikelen 2, aanhef en onder B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), en [3, aanhef en onder B en C, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), gelden niet indien het een homeopathisch geneesmiddel betreft als bedoeld in [artikel 1, eerste lid, onder f, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) dat een opiumwetmiddel bevat waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941) betrekking heeft, de farmaceutische vorm van dat product geen hogere concentratie van het middel heeft dan éénmiljoenste deel van de oertinctuur en in de verpakking waarin het product in de handel wordt gebracht niet meer dan 1 microgram van het middel aanwezig is.
 
 ### Hoofdstuk 6. Aangewezen instellingen
 
-#### Artikel 16
+##### Artikel 16
 
 De verboden, voor zover betrekking hebbend op het aanwezig hebben, verstrekken of vervoeren van opiumwetmiddelen als bedoeld in [Lijst I](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=I) of [Lijst II van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&bijlage=II), zijn niet van toepassing op de volgende instellingen of personen:
 
@@ -240,11 +266,11 @@ De verboden, voor zover betrekking hebbend op het aanwezig hebben, verstrekken o
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt het Besluit bereiding en aflevering van farmaceutische producten.
 
-#### Artikel 18
+##### Artikel 18
 
 Ingetrokken worden de volgende besluiten:
 
@@ -268,15 +294,15 @@ Ingetrokken worden de volgende besluiten:
 
 - –. het [koninklijk besluit van 28 juli 2002, (Stb. 2002, 438) houdende aanwijzing van middelen op grond van artikel 2, tweede lid, van de Opiumwet alsmede wijziging van lijst II, behorende bij de Opiumwet op grond van artikel 3, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013934).
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt dit besluit.
 
-#### Artikel 20
+##### Artikel 20
 
 Dit besluit wordt aangehaald als: Opiumwetbesluit.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit treedt in werking op het tijdstip waarop de Wet van 13 juli 2002 tot wijziging van de Opiumwet (Stb.2002, 520) in werking treedt.
 
@@ -304,7 +330,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 15a
+##### Artikel 15a
 
 De verboden in [artikel 3, aanhef en onder A, B, C en D, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) ten aanzien van distikstofmonoxide (lachgas), CAS-nummer 10024-97-2, zijn niet van toepassing wanneer het distikstofmonoxide bestemd is voor technische doeleinden of als voedingsadditief.
 

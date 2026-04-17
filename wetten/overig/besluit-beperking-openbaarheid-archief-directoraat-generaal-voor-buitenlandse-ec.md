@@ -1,38 +1,64 @@
 ---
-title: "Besluit beperking openbaarheid archief directoraat-generaal voor Buitenlandse Economische Betrekkingen (1945) 1984–1995"
+title: "Besluit van de Minister van Economische Zaken, Landbouw en Innovatie houdende beperking van de openbaarheid van het archief van het directoraat-generaal voor Buitenlandse Economische Betrekkingen (1945) 1984–1995"
 identifier: "BWBR0031539"
-categorie: "Overig"
-publicatiedatum: 2012-05-09
-laatste_update: 2012-05-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031539"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-05-09"
+last_updated: "2012-05-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031539"
+soort: "ministeriele-regeling"
+stam_id: "11730443"
+version_id: "19374902"
+internal_id: "C27090741"
+label_id: "11703014"
+dtd_version: "2.0"
+original_entry_into_force: "2012-05-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031539/2012-05-09/0"
+intitule_bron: "Stcrt.2012-8471"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-05-08"
+intitule_published: "2012-05-08"
+intitule_in_force: "2012-05-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-8471"
+original_signed_date: "2012-05-08"
+original_published_date: "2012-05-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-8471"
+entry_into_force_date: "2012-05-09"
+jci_1_3: "jci1.3:c:BWBR0031539&z=2012-05-09&g=2012-05-09"
+jci_1_0: "1.0:c:BWBR0031539&g=2012-05-09"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archief directoraat-generaal voor Buitenlandse Economische Betrekkingen (1945) 1984–1995"
+signed_date: "2012-05-08"
+entry_into_force: "2012-05-09"
 ---
-
 # Besluit van de Minister van Economische Zaken, Landbouw en Innovatie houdende beperking van de openbaarheid van het archief van het directoraat-generaal voor Buitenlandse Economische Betrekkingen (1945) 1984–1995
 
 Gelet op [artikel 15, eerste lid, onder b en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op het voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen dan wel van derden worden aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van het directoraat-generaal voor Buitenlandse Economische Betrekkingen, (1945) 1984–1995 de volgende beperkingen gesteld: inventarisnummers, 3741, 3972, 4813–4905, 4914–4971, 4978,4983, 4994–4996, en 6130 als bedoeld in de bijlage zijn beperkt openbaar voor 50 jaar na datering.
 
-#### Artikel 2
+##### Artikel 2
 
 Met het oog op het belang van de Staat en diens bondgenoten is inventarisnummer 3978 als bedoeld in de bijlage beperkt openbaar voor 75 jaar na datering.
 
-#### Artikel 3
+##### Artikel 3
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031539&artikel=1&z=2012-05-09&g=2012-05-09), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris van het Nationaal Archief. De algemene rijksarchivaris kan aan zijn toestemming voorwaarden verbinden.
 
 Raadpleging vof gebruik van de archiefbescheiden geborgen onder het inventarisnummer genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031539&artikel=2&z=2012-05-09&g=2012-05-09) is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van het hieronder vermelde overheidsorgaan.
 
-#### Artikel 4
+##### Artikel 4
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031539&artikel=1&z=2012-05-09&g=2012-05-09), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris van het Nationaal Archief. De algemene rijksarchivaris kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van overbrenging van het archief van Directoraat Generaal Buitenlandse Economische Betrekkingen (1945) 1984–1995’.
 

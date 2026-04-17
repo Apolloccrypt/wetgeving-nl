@@ -1,13 +1,38 @@
 ---
 title: "Richtlijn decontaminatie apparatuur ziekenhuisafval"
 identifier: "BWBR0022549"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2007-10-01
-laatste_update: 2007-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022549"
+country: "nl"
+rank: "circulaire"
+publication_date: "2007-10-01"
+last_updated: "2007-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022549"
+soort: "circulaire"
+stam_id: "9214623"
+version_id: "14775472"
+internal_id: "C20100231"
+label_id: "9193684"
+dtd_version: "2.0"
+original_entry_into_force: "2007-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022549/2007-10-01/0"
+intitule_bron: "Stcrt.2007-189"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-09-20"
+intitule_published: "2007-10-01"
+intitule_in_force: "2007-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-189"
+original_signed_date: "2007-09-20"
+original_published_date: "2007-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-189-p11-SC82329"
+entry_into_force_date: "2007-10-01"
+jci_1_3: "jci1.3:c:BWBR0022549&z=2007-10-01&g=2007-10-01"
+jci_1_0: "1.0:c:BWBR0022549&g=2007-10-01"
+citeertitel_status: "redactioneel"
+signed_date: "2007-09-20"
+entry_into_force: "2007-10-01"
 ---
-
 # Richtlijn decontaminatie apparatuur ziekenhuisafval
 
 ### 1. Inleiding

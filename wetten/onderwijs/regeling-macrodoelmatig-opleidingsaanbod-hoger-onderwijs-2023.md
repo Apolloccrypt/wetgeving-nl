@@ -1,13 +1,39 @@
 ---
-title: "Regeling macrodoelmatig opleidingsaanbod hoger onderwijs 2023"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 april 2023, nr. HO&S/35600834, houdende nadere regels inzake de macrodoelmatigheid van het opleidingsaanbod in het hoger onderwijs (Regeling macrodoelmatig opleidingsaanbod hoger onderwijs 2023)"
 identifier: "BWBR0048105"
-categorie: "Onderwijs"
-publicatiedatum: 2023-04-29
-laatste_update: 2023-04-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048105"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-04-29"
+last_updated: "2023-04-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048105"
+soort: "ministeriele-regeling"
+stam_id: "16733033"
+version_id: "29374712"
+internal_id: "C41909441"
+label_id: "16649304"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048105/2023-04-29/0"
+intitule_bron: "Stcrt.2023-12161"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-14"
+intitule_published: "2023-04-28"
+intitule_in_force: "2023-04-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-12161"
+original_signed_date: "2023-04-14"
+original_published_date: "2023-04-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-12161"
+entry_into_force_date: "2023-04-29"
+jci_1_3: "jci1.3:c:BWBR0048105&z=2023-04-29&g=2023-04-29"
+jci_1_0: "1.0:c:BWBR0048105&g=2023-04-29"
+citeertitel_status: "officieel"
+short_title: "Regeling macrodoelmatig opleidingsaanbod hoger onderwijs 2023"
+signed_date: "2023-04-14"
+entry_into_force: "2023-04-29"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 april 2023, nr. HO&S/35600834, houdende nadere regels inzake de macrodoelmatigheid van het opleidingsaanbod in het hoger onderwijs (Regeling macrodoelmatig opleidingsaanbod hoger onderwijs 2023)
 
 Gelet op de [artikelen 2:15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:15), en [4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en de [artikel 6.2 vierde en tiende lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.2);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 - a. **wet:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
@@ -48,13 +74,13 @@ Besluit:
 
 - o. **verwant opleidingsaanbod:** verwante opleidingen komen inhoudelijk sterk met elkaar overeen en leiden op tot (min of meer) dezelfde beroepen.Daarbij kan het zowel gaan om bekostigde opleidingen als om geaccrediteerd onbekostigde opleidingen dat onder vergelijkbare condities wordt aangeboden.
 
-#### Artikel 2. Instellingen en reikwijdte
+##### Artikel 2. Instellingen en reikwijdte
 
 Deze regeling is van toepassing op universiteiten, hogescholen, de Open Universiteit en de levensbeschouwelijke universiteiten als bedoeld in [artikel 1.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8).
 
 #### Paragraaf 2. Procedure
 
-#### Artikel 3. Kenbaar maken voornemen tot aanvraag nieuwe opleiding
+##### Artikel 3. Kenbaar maken voornemen tot aanvraag nieuwe opleiding
 
 1. Het instellingsbestuur maakt zoveel als mogelijk aan de CDHO het voornemen tot het starten van een nieuwe opleiding kenbaar voorafgaand aan de aanvraag als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=2&artikel=4&z=2023-04-29&g=2023-04-29), tenzij het een clusteraanvraag in de zin van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=8&z=2023-04-29&g=2023-04-29) betreft.
 
@@ -74,7 +100,7 @@ Deze regeling is van toepassing op universiteiten, hogescholen, de Open Universi
 
 - d. een beknopte beschrijving van het beoogde onderwijsprogramma.
 
-#### Artikel 4. Indienen aanvraag
+##### Artikel 4. Indienen aanvraag
 
 1. De aanvraag wordt bij voorkeur elektronisch ingediend. Een alternatief is indiening per post.
 
@@ -82,7 +108,7 @@ Deze regeling is van toepassing op universiteiten, hogescholen, de Open Universi
 
 3. Het instellingsbestuur geeft bij de aanvraag aan in hoeverre over een nieuwe opleiding is overlegd met andere belanghebbende instellingen en wat de uitkomst van dit overleg was.
 
-#### Artikel 5. Beoordelen aanvraag
+##### Artikel 5. Beoordelen aanvraag
 
 1. De CDHO stelt daarvoor in aanmerking komende belanghebbenden in de gelegenheid om binnen een termijn van twee weken hun zienswijze te geven op een aanvraag door openbaarmaking van het ingediende aanvraagformulier en de eventuele aanvullende toelichting op haar website.
 
@@ -94,7 +120,7 @@ Deze regeling is van toepassing op universiteiten, hogescholen, de Open Universi
 
 #### Paragraaf 3. Nieuwe opleiding
 
-#### Artikel 6. Criteria voor het starten van een nieuwe opleiding
+##### Artikel 6. Criteria voor het starten van een nieuwe opleiding
 
 1. De minister stemt in ieder geval in met een voornemen tot het verzorgen van een nieuwe opleiding in de zin van [artikel 6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.2) indien het instellingsbestuur heeft aangetoond dat:
 
@@ -112,13 +138,13 @@ Deze regeling is van toepassing op universiteiten, hogescholen, de Open Universi
 
 4. Bij de noodzaak als bedoeld in het derde lid, onderdeel a, wordt onderbouwd dat de nieuwe opleiding voorziet in een noodzakelijke aanvulling op het eigen en landelijke bestaande opleidingsaanbod en waarom het niet mogelijk is om de gewenste ontwikkeling vorm te geven via het landelijke bestaande opleidingsaanbod. Voorts wordt onderbouwd dat de komst van de nieuwe opleiding geen negatieve gevolgen heeft voor de spreiding van het landelijke bestaande opleidingsaanbod.
 
-#### Artikel 7. Aanvullend criterium wo-opleidingen bij hogescholen en hbo-opleidingen bij universiteiten
+##### Artikel 7. Aanvullend criterium wo-opleidingen bij hogescholen en hbo-opleidingen bij universiteiten
 
 1. Indien een hogeschool voornemens is om een wo-opleiding te verzorgen, toont het instellingsbestuur, in aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=6&z=2023-04-29&g=2023-04-29), aan dat er sprake is van een langdurige samenwerking met een universiteit.
 
 2. Indien een universiteit voornemens is om een hbo-opleiding te verzorgen, toont het instellingsbestuur, in aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=6&z=2023-04-29&g=2023-04-29), aan dat er sprake is van een langdurige samenwerking met een hogeschool.
 
-#### Artikel 8. Vrijstelling van de individuele macrodoelmatigheidstoets door middel van een clusteraanvraag
+##### Artikel 8. Vrijstelling van de individuele macrodoelmatigheidstoets door middel van een clusteraanvraag
 
 1. Indien een clusteraanvraag wordt ingediend, vindt er geen individuele macrodoelmatigheidstoets plaats en is [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=6&z=2023-04-29&g=2023-04-29) niet van toepassing op de opleidingen die onderdeel zijn van de clusteraanvraag indien:
 
@@ -134,7 +160,7 @@ Deze regeling is van toepassing op universiteiten, hogescholen, de Open Universi
 
 #### Paragraaf 4. Verzorgen van een bestaande opleiding of een gedeelte ervan buiten een vestigingsplaats of het openbaar lichaam BES
 
-#### Artikel 9. Instemming met het (gedeeltelijk) verzorgen van een bestaande opleiding op een nieuwe vestigingsplaats
+##### Artikel 9. Instemming met het (gedeeltelijk) verzorgen van een bestaande opleiding op een nieuwe vestigingsplaats
 
 1. De minister stemt in met een voornemen voor een (gedeeltelijke) nevenvestiging van een bestaande opleiding als bedoeld in [artikel 7.17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.17) indien voldaan is aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=6&z=2023-04-29&g=2023-04-29).
 
@@ -158,7 +184,7 @@ Deze regeling is van toepassing op universiteiten, hogescholen, de Open Universi
 
 #### Paragraaf 5. Samenvoegen van bestaande opleidingen
 
-#### Artikel 10. Criteria voor het samenvoegen van bestaande opleidingen
+##### Artikel 10. Criteria voor het samenvoegen van bestaande opleidingen
 
 1. De minister stemt, zonder een macrodoelmatigheidstoets, in met het voornemen om bestaande opleidingen samen te voegen tot:
 
@@ -174,7 +200,7 @@ Deze regeling is van toepassing op universiteiten, hogescholen, de Open Universi
 
 - b. de NVAO heeft besloten dat geen accreditatie wordt verleend.
 
-#### Artikel 11. Benodigde informatie bij het samenvoegen van bestaande opleidingen
+##### Artikel 11. Benodigde informatie bij het samenvoegen van bestaande opleidingen
 
 De aanvraag tot samenvoeging gaat vergezeld van de volgende informatie:
 
@@ -188,21 +214,21 @@ De aanvraag tot samenvoeging gaat vergezeld van de volgende informatie:
 
 #### Paragraaf 6. Gezamenlijk verzorgen van een nieuwe opleiding of afstudeerrichting
 
-#### Artikel 12. Criteria voor het gezamenlijk verzorgen van een nieuwe opleiding
+##### Artikel 12. Criteria voor het gezamenlijk verzorgen van een nieuwe opleiding
 
 De minister stemt in met een voornemen tot het gezamenlijk verzorgen van een nieuwe opleiding of een afstudeerrichting als bedoeld in [artikel 7.3c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3c) indien is voldaan aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=6&z=2023-04-29&g=2023-04-29) van deze regeling.
 
 #### Paragraaf 7. Overgangs- en slotbepalingen
 
-#### Artikel 13. Overgangsbepaling
+##### Artikel 13. Overgangsbepaling
 
 Een aanvraag die vóór de inwerkingtreding van deze regeling is ingediend, alsmede een bezwaarschrift tegen een besluit op dat voornemen, wordt overeenkomstig de [Regeling macrodoelmatigheid hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0041061) afgehandeld, tenzij toepassing van de onderhavige regeling tot een voor de aanvrager, positief advies dan wel een positief besluit leidt.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Onder gelijktijdige intrekking van de [Regeling macrodoelmatigheid hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0041061), treedt deze regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling macrodoelmatig opleidingsaanbod hoger onderwijs 2023.
 

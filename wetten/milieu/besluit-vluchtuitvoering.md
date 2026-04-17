@@ -1,13 +1,39 @@
 ---
-title: "Besluit vluchtuitvoering"
+title: "Besluit van 13 juli 2006, houdende regels voor de uitvoering van vluchten met luchtvaartuigen (Besluit vluchtuitvoering)"
 identifier: "BWBR0020111"
-categorie: "Milieu"
-publicatiedatum: 2020-12-31
-laatste_update: 2020-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020111"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-12-31"
+last_updated: "2020-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020111"
+soort: "AMvB"
+stam_id: "8560673"
+version_id: "27338162"
+internal_id: "C38610381"
+label_id: "8541034"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020111/2020-12-31/0"
+intitule_bron: "Stb.2006-371"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-07-13"
+intitule_published: "2006-08-22"
+intitule_in_force: "2008-07-18"
+intitule_status: "goed"
+original_publication: "Stb.2020-563"
+original_signed_date: "2020-12-22"
+original_published_date: "2020-12-29"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2020-563"
+entry_into_force_date: "2020-12-31"
+jci_1_3: "jci1.3:c:BWBR0020111&z=2020-12-31&g=2020-12-31"
+jci_1_0: "1.0:c:BWBR0020111&g=2020-12-31"
+citeertitel_status: "officieel"
+short_title: "Besluit vluchtuitvoering"
+signed_date: "2020-12-22"
+entry_into_force: "2020-12-31"
 ---
-
 # Besluit van 13 juli 2006, houdende regels voor de uitvoering van vluchten met luchtvaartuigen (Besluit vluchtuitvoering)
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 4 mei 2006, nr. HDJZ/LUV-2006-623, Hoofddirectie Juridische Zaken, gedaan in overeenstemming met de Staatssecretaris van Defensie en de Minister van Justitie;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Verkeer en Waterstaat, uitg
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -52,7 +78,7 @@ Hebben goedgevonden en verstaan:
 
 2. De bij of krachtens dit besluit vastgestelde bepalingen zijn van toepassing op burgerluchtvaartuigen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister van Infrastructuur en Waterstaat geeft op aanvraag een AOC, niet zijnde een ROC af indien wordt voldaan aan:
 
@@ -68,21 +94,21 @@ Hebben goedgevonden en verstaan:
 
 5. Een AOC wordt afgegeven voor onbepaalde tijd.
 
-#### Artikel 3
+##### Artikel 3
 
 Van overeenkomstige toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba is de basisverordening, voor zover het Hoofdstuk III, Afdeling III betreft.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De uitvoering van een vlucht, krachtens een AOC afgegeven op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=2&z=2020-12-31&g=2020-12-31), voldoet aan de regels, bedoeld in het desbetreffende onderdeel van dat lid.
 
 2. Onverminderd het eerste lid, kunnen bij ministeriële regeling regels worden gesteld met betrekking tot de uitvoering van een vlucht als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=2&z=2020-12-31&g=2020-12-31), in verband met de veiligheid van de vluchtuitvoering en de beveiliging van de burgerluchtvaart.
 
-#### Artikel 5
+##### Artikel 5
 
 Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de vergoedingen, die verschuldigd zijn voor de kosten van de behandeling van een aanvraag om afgifte van een AOC, een wijziging dan wel het instandhouden daarvan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het in [artikel 4.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=4.1) bedoelde verbod om zonder AOC vluchten tegen vergoeding uit te voeren, geldt niet voor:
 
@@ -96,35 +122,35 @@ Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de ve
 
 3. Voor zover krachtens het tweede lid regels zijn gesteld, worden vluchten als bedoeld in het eerste lid uitgevoerd met inachtneming van die regels.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de uitvoering van een vlucht niet door een luchtvaartmaatschappij dan wel niet tegen vergoeding.
 
 2. Een vlucht als bedoeld in het eerste lid wordt uitgevoerd met inachtneming van de ministeriële regeling, bedoeld in het eerste lid.
 
-#### Artikel 8
+##### Artikel 8
 
 Handelen in strijd met de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=4&z=2020-12-31&g=2020-12-31), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=6&z=2020-12-31&g=2020-12-31), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=7&z=2020-12-31&g=2020-12-31), is een strafbaar feit.
 
-#### Artikel 9
+##### Artikel 9
 
 Bij ministeriële regeling kunnen bepaalde geografische zones worden afgebakend of aangewezen, als bedoeld in artikel 15, eerste en tweede lid, van uitvoeringsverordening (EU) nr. 2019/947.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit vluchtuitvoering.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad wordt geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 [Artikel 4.1, tweede lid, laatste zin, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=4.1) is niet van toepassing op een ROC.
 
-#### Artikel 5a
+##### Artikel 5a
 
 De hoogte en de wijze van betaling van de vergoeding voor de kosten voor handelingen in het kader van de uitvoering van internationale overeenkomsten gesloten door de Europese Unie en internationale overeenkomsten gesloten door Nederland met derde landen, voor zover dit besluit hier niet reeds in voorziet, wordt bij ministeriële regeling vastgesteld.
 

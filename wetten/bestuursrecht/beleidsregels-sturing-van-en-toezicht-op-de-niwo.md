@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels sturing van en toezicht op de NIWO"
+title: "Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/241286, houdende vaststelling beleidsregels van de Minister van Infrastructuur en Milieu voor de sturing van en het toezicht op de NIWO (Beleidsregels sturing van en toezicht op de NIWO)"
 identifier: "BWBR0032465"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032465"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032465"
+soort: "beleidsregel"
+stam_id: "11960803"
+version_id: "19884552"
+internal_id: "C27922081"
+label_id: "11932734"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032465/2013-01-01/0"
+intitule_bron: "Stcrt.2012-25326"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-05"
+intitule_published: "2012-12-18"
+intitule_in_force: "2012-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-25326"
+original_signed_date: "2012-12-05"
+original_published_date: "2012-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-25326"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032465&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032465&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels sturing van en toezicht op de NIWO"
+signed_date: "2012-12-05"
+entry_into_force: "2013-01-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/241286, houdende vaststelling beleidsregels van de Minister van Infrastructuur en Milieu voor de sturing van en het toezicht op de NIWO (Beleidsregels sturing van en toezicht op de NIWO)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 21, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regels wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze regels wordt verstaan onder:
 
 #### § 2. Financieel toezicht
 
-#### Artikel 2. Inhoud tarievenvoorstel
+##### Artikel 2. Inhoud tarievenvoorstel
 
 1. De minister besteedt bij de beoordeling van het voorstel voor de tarieven en tariefwijzigingen van de NIWO ten behoeve van de goedkeuring op grond van [artikel 17 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=17) in ieder geval aandacht aan de volgende aspecten:
 
@@ -46,7 +72,7 @@ In deze regels wordt verstaan onder:
 
 2. De NIWO informeert de minister bij voorgestelde tariefwijzigingen en tarieven voor nieuwe taken of clusters van taken inzake de mogelijk aan het voorstel gekoppelde gevoeligheden.
 
-#### Artikel 3. Begroting
+##### Artikel 3. Begroting
 
 1. Ten behoeve van de goedkeuring van het besluit tot vaststelling van de begroting conform [artikel 29 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29) beoordeelt de minister de begroting zoals door de NIWO bij de minister neergelegd na instemming van het bestuur en besteedt daarbij in ieder geval aandacht aan hetgeen in het tweede lid benoemd.
 
@@ -64,13 +90,13 @@ In deze regels wordt verstaan onder:
 
 #### § 3. Taakuitoefening
 
-#### Artikel 4. Risicoprofiel en kernprestatie-Indicatoren
+##### Artikel 4. Risicoprofiel en kernprestatie-Indicatoren
 
 1. De minister maakt gebruik van een door de NIWO opgesteld risicoprofiel om risicogestuurd toezicht te kunnen houden. Het risicoprofiel bevat de belangrijkste risico’s van de continuïteit en de kwaliteit van de taakuitvoering van de NIWO en geeft weer op welke wijze deze zijn afgedekt, alsmede de financiële consequenties daarvan.
 
 2. De minister zet kernprestatie-indicatoren in. De kernprestatie-indicatoren komen tot stand in afstemming tussen NIWO en minister mede op basis van het in het eerste lid genoemde risicoprofiel.
 
-#### Artikel 5. Oordeelsvorming
+##### Artikel 5. Oordeelsvorming
 
 De minister vormt zich een oordeel over de kwaliteit van de taakuitoefening van de NIWO. Daarbij baseert hij zich onder meer op
 
@@ -84,7 +110,7 @@ De minister vormt zich een oordeel over de kwaliteit van de taakuitoefening van 
 
 #### § 4. Opdracht en inkadering van taken en activiteiten
 
-#### Artikel 6. Uitvoeringstoets
+##### Artikel 6. Uitvoeringstoets
 
 1. De minister legt voornemens tot het opdragen van taken of het stellen van regels met betrekking tot de uitoefening van de taken bij of krachtens een wet waarvoor hij eerste verantwoordelijke is en tot het stellen van beleidsregels tijdig aan de NIWO voor met het oog op een uitvoeringstoets.
 
@@ -92,7 +118,7 @@ De minister vormt zich een oordeel over de kwaliteit van de taakuitoefening van 
 
 3. De minister verbindt de in het eerste en tweede lid bedoelde consultatie zoveel mogelijk met de jaarcyclus van begroting van de NIWO.
 
-#### Artikel 7. Instemmingstoets minister
+##### Artikel 7. Instemmingstoets minister
 
 1. De NIWO legt tot haar gerichte voorstellen tot taakopdracht van een ander bestuursorgaan tijdig voor aan de minister met het oog op het verkrijgen van diens instemming.
 
@@ -114,15 +140,15 @@ De minister vormt zich een oordeel over de kwaliteit van de taakuitoefening van 
 
 #### § 5. Overige onderwerpen
 
-#### Artikel 8. Evaluatie conform [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39)
+##### Artikel 8. Evaluatie conform [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39)
 
 De minister voert de evaluatie zoals bedoeld in [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39) uit conform de op het moment van evaluatie geldende evaluatierichtlijnen van de minister van Financiën.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regels worden aangehaald als: Beleidsregels sturing van en toezicht op de NIWO.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze beleidsregels treden in werking met ingang van 1 januari 2013.
 

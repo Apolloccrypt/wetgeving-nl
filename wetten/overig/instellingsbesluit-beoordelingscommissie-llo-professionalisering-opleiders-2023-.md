@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit beoordelingscommissie LLO-professionalisering opleiders 2023-2026"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap 27 juni 2023, nr. 1409103, houdende instelling van de beoordelingscommissie voor het Leven Lang Ontwikkelen-Katalysator programma voor Bouwsteen 3 voor de periode 2023 tot en met 2026"
 identifier: "BWBR0048373"
-categorie: "Overig"
-publicatiedatum: 2024-06-28
-laatste_update: 2024-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048373"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-28"
+last_updated: "2024-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048373"
+soort: "ministeriele-regeling"
+stam_id: "16796293"
+version_id: "29507112"
+internal_id: "C42190181"
+label_id: "16711244"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048373/2024-06-28/0"
+intitule_bron: "Stcrt.2023-19051"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-27"
+intitule_published: "2023-07-07"
+intitule_in_force: "2023-07-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-19051"
+original_signed_date: "2023-06-27"
+original_published_date: "2023-07-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-19051"
+entry_into_force_date: "2023-07-08"
+jci_1_3: "jci1.3:c:BWBR0048373&z=2024-06-28&g=2024-06-28"
+jci_1_0: "1.0:c:BWBR0048373&g=2024-06-28"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit beoordelingscommissie LLO-professionalisering opleiders 2023-2026"
+signed_date: "2023-06-27"
+entry_into_force: "2023-07-08"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap 27 juni 2023, nr. 1409103, houdende instelling van de beoordelingscommissie voor het Leven Lang Ontwikkelen-Katalysator programma voor Bouwsteen 3 voor de periode 2023 tot en met 2026
 
 Gelet op de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=1) en [2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - **regeling:** [Subsidieregeling LLO-professionalisering opleiders 2023-2026](https://wetten.overheid.nl/jci1.3:c:BWBR0048369), ter beoordeling waarvan de beoordelingscommissie is ingesteld.
 
-#### Artikel 2. Instelling van de commissie
+##### Artikel 2. Instelling van de commissie
 
 1. Er is een beoordelingscommissie LLO-oplossingen.
 
@@ -40,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 3. De periode van instelling van de beoordelingscommissie kan worden verlengd indien het programma LLO-Katalysator in een volgende periode wordt voortgezet.
 
-#### Artikel 3. Samenstelling, benoeming, ontslag
+##### Artikel 3. Samenstelling, benoeming, ontslag
 
 1. De commissie bestaat uit een voorzitter en uit niet meer dan vijftien leden.
 
@@ -58,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 5. De voorzitter of een ander lid van de commissie heeft geen toegang tot de beraadslagingen over een subsidieaanvraag indien bij de voorzitter of bij dit andere lid sprake is van een mogelijk persoonlijk belang.
 
-#### Artikel 4. De taak van de commissie
+##### Artikel 4. De taak van de commissie
 
 1. Per aanvraagronde beoordeelt de commissie de subsidieaanvragen die zijn ingediend op grond van de regeling aan de hand van het beoordelingskader dat is opgenomen als [Bijlage 1 bij de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0048369&bijlage=1).
 
@@ -76,7 +102,7 @@ In dit besluit wordt verstaan onder:
 
 8. Leden van de commissie zijn ook na 1 januari 2026 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de taken van de commissie, genoemd in het derde lid.
 
-#### Artikel 5. Leden
+##### Artikel 5. Leden
 
 Tot leden van de commissie worden benoemd:
 
@@ -114,7 +140,7 @@ Tot leden van de commissie worden benoemd:
 
 - q. te rekenen vanaf 8 april 2024: Klaas Verschuure.
 
-#### Artikel 6. Secretariaat
+##### Artikel 6. Secretariaat
 
 1. De commissie wordt ondersteund door een secretariaat vanuit DUS-I.
 
@@ -142,17 +168,17 @@ Tot leden van de commissie worden benoemd:
 
 - i. het opstellen van het verslag van bevindingen.
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 1. De commissie stelt haar eigen werkwijze vast binnen de kaders van de regeling.
 
 2. Na toestemming van de Minister kan de commissie zich door andere personen laten bijstaan voor zover dat voor de vervulling van haar taak nodig is.
 
-#### Artikel 8. Informatieplicht
+##### Artikel 8. Informatieplicht
 
 De commissie verstrekt aan de Minister desgevraagd de door hem gewenste inlichtingen. De Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 9. Vergoeding
+##### Artikel 9. Vergoeding
 
 1. De vergoeding van de voorzitter van de commissie bedraagt € 378,63 excl. btw per dagdeel.
 
@@ -162,27 +188,27 @@ De commissie verstrekt aan de Minister desgevraagd de door hem gewenste inlichti
 
 4. De reiskostenvergoeding is € 0,21 per kilometer of de werkelijk gemaakte kosten met openbaar vervoer.
 
-#### Artikel 10. Kosten van de commissie
+##### Artikel 10. Kosten van de commissie
 
 1. Voor zover goedgekeurd komen de kosten van de commissie voor rekening van de Minister.
 
 2. Onder kosten worden in ieder geval verstaan de kosten voor de faciliteiten van vergaderingen.
 
-#### Artikel 11. Openbaarmaking
+##### Artikel 11. Openbaarmaking
 
 Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissie worden vervaardigd of vergaard, worden niet door de commissie openbaar gemaakt, maar uitsluitend aan de Minister uitgebracht of overgedragen.
 
-#### Artikel 12. Archiefbescheiden
+##### Artikel 12. Archiefbescheiden
 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Voortgezet Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 13. Inwerkingtreding en vervaldatum
+##### Artikel 13. Inwerkingtreding en vervaldatum
 
 1. Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant, waarin het wordt geplaatst.
 
 2. Dit besluit vervalt met ingang van 1 januari 2027.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit beoordelingscommissie LLO-professionalisering opleiders 2023-2026.
 

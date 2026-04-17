@@ -1,13 +1,38 @@
 ---
 title: "Wijzigingsregeling enige fiscale uitvoeringsregelingen, enige overige uitvoeringsregelingen en Wet op de accijns"
 identifier: "BWBR0029349"
-categorie: "Belastingrecht"
-publicatiedatum: 2012-04-01
-laatste_update: 2012-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029349"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-04-01"
+last_updated: "2012-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029349"
+soort: "ministeriele-regeling"
+stam_id: "11188073"
+version_id: "18307512"
+internal_id: "C25489191"
+label_id: "11162614"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029349/2012-04-01/0"
+intitule_bron: "Stcrt.2010-21111"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-23"
+intitule_published: "2010-12-30"
+intitule_in_force: "2010-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-21111"
+original_signed_date: "2010-12-23"
+original_published_date: "2010-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-21111"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0029349&z=2012-04-01&g=2012-04-01"
+jci_1_0: "1.0:c:BWBR0029349&g=2012-04-01"
+citeertitel_status: "redactioneel"
+signed_date: "2010-12-23"
+entry_into_force: "2011-01-01"
 ---
-
 # Wijzigingsregeling enige fiscale uitvoeringsregelingen, enige overige uitvoeringsregelingen en Wet op de accijns
 
 Handelende wat de [artikelen 3.13, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13) en [3.34 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.34) betreft, in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie;
@@ -24,159 +49,159 @@ Gelet op de [artikelen 3.13, eerste lid, onderdeel g](https://wetten.overheid.nl
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Uitvoeringsregeling willekeurige afschrijving 2001.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2001.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Uitvoeringsregeling afdrachtvermindering.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Regeling functionele valuta.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Uitvoeringsbeschikking dividendbelasting 1965.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Uitvoeringsregeling schenk- en erfbelasting.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Uitvoeringsbeschikking Registratiewet 1970.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Uitvoeringsregeling motorrijtuigenbelasting 1994.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Uitvoeringsregeling belasting zware motorrijtuigen.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Regeling vrijstelling overdrachtsbelasting voor investeringen in stedelijke herstructurering.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Op subsidieaanvragen die zijn ingediend onder toepassing van het [Besluit borgstelling MKB-kredieten 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009052) blijft [artikel 43c, eerste lid, onderdeel d, onder 1°, van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=43c), zoals dat luidde op 31 december 2008, van toepassing.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Uitvoeringsregeling internationale bijstandsverlening bij de heffing van belastingen.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt de Regeling Stuf-WOZ.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Wijzigt de Uitvoeringsregeling investeringsaftrek Aruba, Curaçao, Sint Maarten en de BES eilanden 2010.
 
-#### Artikel XXX
+##### Artikel XXX
 
 Wijzigt de Regeling groenprojecten buitenland 2002.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 Wijzigt de Aanwijzing als werkgever en uitzondering verzekeringsplicht werknemersverzekeringen.
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 Wijzigt de Regeling Wfsv.
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 Wijzigt de Kaderregeling subsidies duurzaamheid verkeer en waterstaat.
 
-#### Artikel XXXIV
+##### Artikel XXXIV
 
 Wijzigt de Tijdelijke subsidieregeling innovatie binnenvaart.
 
-#### Artikel XXXV
+##### Artikel XXXV
 
 Wijzigt de Tijdelijke subsidieregeling maritieme innovatie.
 
-#### Artikel XXXVI
+##### Artikel XXXVI
 
 Wijzigt de Tijdelijke subsidieregeling Wereldwijd Werken met Water.
 
-#### Artikel XXXVII
+##### Artikel XXXVII
 
 Wijzigt de Levensloopregeling rijkspersoneel.
 
-#### Artikel XXXVIII
+##### Artikel XXXVIII
 
 Wijzigt de IKAP-regeling rijkspersoneel.
 
-#### Artikel XXXIX
+##### Artikel XXXIX
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2011, met dien verstande dat:
 

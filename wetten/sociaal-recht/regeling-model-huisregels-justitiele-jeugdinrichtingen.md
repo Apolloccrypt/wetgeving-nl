@@ -1,20 +1,46 @@
 ---
-title: "Regeling model huisregels justitiële jeugdinrichtingen"
+title: "Regeling van de Staatssecretaris van Veiligheid en Justitie van 6 juli 2011, nr. 5699818/11/DJI, houdende vaststelling van een model voor huisregels voor een justitiële jeugdinrichting (Regeling model huisregels justitiële jeugdinrichtingen)"
 identifier: "BWBR0030266"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-04-01
-laatste_update: 2019-10-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030266"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-01"
+last_updated: "2019-10-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030266"
+soort: "ministeriele-regeling"
+stam_id: "11397143"
+version_id: "18709182"
+internal_id: "C26105031"
+label_id: "11370724"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030266/2025-04-01/0"
+intitule_bron: "Stcrt.2011-12895"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-07-06"
+intitule_published: "2011-07-15"
+intitule_in_force: "2011-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-12895"
+original_signed_date: "2011-07-06"
+original_published_date: "2011-07-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-12895"
+entry_into_force_date: "2011-07-17"
+jci_1_3: "jci1.3:c:BWBR0030266&z=2025-04-01&g=2025-04-01"
+jci_1_0: "1.0:c:BWBR0030266&g=2025-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling model huisregels justitiële jeugdinrichtingen"
+signed_date: "2011-07-06"
+entry_into_force: "2011-07-17"
 ---
-
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 6 juli 2011, nr. 5699818/11/DJI, houdende vaststelling van een model voor huisregels voor een justitiële jeugdinrichting (Regeling model huisregels justitiële jeugdinrichtingen)
 
 Gelet op [artikel 16, zesde lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=16);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De directeur stelt in aanvulling op de bij of krachtens de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756) gegeven regels, met inachtneming van het model opgenomen in de bijlage en de daarbij gegeven aanwijzingen, de huisregels van zijn inrichting vast.
 
@@ -22,15 +48,15 @@ Besluit:
 
 3. De directeur zendt de huisregels van zijn inrichting aan de Minister van Veiligheid en Justitie. Een wijziging van de huisregels van zijn inrichting zendt de directeur, binnen een maand na vaststelling van de wijziging, aan de Minister van Veiligheid en Justitie.
 
-#### Artikel 2
+##### Artikel 2
 
 De [Regeling model huisregels justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012747) van 14 augustus 2001, nr. 5113416/01/DJI wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling model huisregels justitiële jeugdinrichtingen.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit kwaliteitsborging voor het bouwen"
+title: "Besluit van 4 april 2022, houdende wijziging van het Bouwbesluit 2012, het Besluit bouwwerken leefomgeving, het Besluit kwaliteit leefomgeving en het Omgevingsbesluit in verband met de invoering van een nieuw stelsel van kwaliteitsborging voor het bouwen (Besluit kwaliteitsborging voor het bouwen)"
 identifier: "BWBR0046570"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046570"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046570"
+soort: "AMvB"
+stam_id: "16331103"
+version_id: "28555342"
+internal_id: "C40296341"
+label_id: "16255854"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046570/2024-01-01/0"
+intitule_bron: "Stb.2022-145"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-04-04"
+intitule_published: "2022-04-13"
+intitule_in_force: "2022-04-19"
+intitule_status: "goed"
+original_publication: "Stb.2022-145"
+original_signed_date: "2022-04-04"
+original_published_date: "2022-04-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2022-145"
+entry_into_force_date: "2022-04-22"
+jci_1_3: "jci1.3:c:BWBR0046570&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0046570&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit kwaliteitsborging voor het bouwen"
+signed_date: "2022-04-04"
+entry_into_force: "2022-04-22"
 ---
-
 # Besluit van 4 april 2022, houdende wijziging van het Bouwbesluit 2012, het Besluit bouwwerken leefomgeving, het Besluit kwaliteit leefomgeving en het Omgevingsbesluit in verband met de invoering van een nieuw stelsel van kwaliteitsborging voor het bouwen (Besluit kwaliteitsborging voor het bouwen)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 26 november 2021, nr. 2021002337;
@@ -20,31 +46,31 @@ Gezien het nader rapport van Onze Minister voor Volkshuisvesting en Ruimtelijke 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Bouwbesluit 2012.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit bouwwerken leefomgeving.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit kwaliteit leefomgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Omgevingsbesluit.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit toegelaten instellingen volkshuisvesting 2015.
 
-#### Artikel VI
+##### Artikel VI
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel VII
+##### Artikel VII
 
 Dit besluit wordt aangehaald als: Besluit kwaliteitsborging voor het bouwen.
 

@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake de bevordering en de bescherming van investeringen tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Korea"
 identifier: "BWBV0001707"
-categorie: "Internationaal recht"
-publicatiedatum: 2005-03-01
-laatste_update: 2003-07-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001707"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-03-01"
+last_updated: "2003-07-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001707"
+soort: "verdrag"
+stam_id: "10001434873"
+version_id: "10001513092"
+internal_id: "C10006993551"
+label_id: "10001435124"
+dtd_version: "2.0"
+original_entry_into_force: "2005-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001707/2005-03-01/0"
+intitule_bron: "Trb.2003-163"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-01-28"
+intitule_published: "2003-10-20"
+intitule_in_force: "2005-08-10"
+intitule_status: "goed"
+original_publication: "Trb.2003-163"
+original_signed_date: "2005-01-28"
+original_published_date: "2003-10-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-163"
+entry_into_force_date: "2005-03-01"
+jci_1_3: "jci1.3:c:BWBV0001707&z=2005-03-01&g=2005-03-01"
+jci_1_0: "1.0:c:BWBV0001707&g=2005-03-01"
+citeertitel_status: "redactioneel"
+signed_date: "2005-01-28"
+entry_into_force: "2005-03-01"
 ---
-
 # Verdrag inzake de bevordering en de bescherming van investeringen tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Korea
 
 De Regering van het Koninkrijk der Nederlanden
@@ -24,7 +49,7 @@ In het besef dat overeenstemming over de aan dergelijke investeringen toe te ken
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -52,11 +77,11 @@ Voor de toepassing van dit Verdrag:
 
 - 5. Wordt onder de term „vrij inwisselbare valuta" verstaan een munteenheid die op grote schaal wordt verhandeld op de internationale wisselmarkten en frequent wordt gebruikt bij internationale transacties.
 
-#### Artikel 2. Investeringsbevordering
+##### Artikel 2. Investeringsbevordering
 
 Elke Verdragsluitende Partij bevordert, binnen het kader van haar wetten en voorschriften, de economische samenwerking door middel van de bescherming op haar grondgebied van investeringen van investeerders van de andere Verdragsluitende Partij. Met inachtneming van haar recht de uit haar wetten of voorschriften voortvloeiende bevoegdheden uit te oefenen, staat elke Verdragsluitende Partij dergelijke investeringen toe.
 
-#### Artikel 3. Behandeling
+##### Artikel 3. Behandeling
 
 1. Elke Verdragsluitende Partij waarborgt een eerlijke en rechtvaardige behandeling van de investeringen van investeerders van de andere Verdragsluitende Partij en belemmert niet, door onredelijke of discriminatoire maatregelen, de werking, het beheer, de instandhouding, het gebruik, het genot of de vervreemding daarvan door deze investeerders. Elke Verdragsluitende Partij kent aan die investeringen volledige zekerheid en bescherming toe.
 
@@ -70,7 +95,7 @@ Elke Verdragsluitende Partij bevordert, binnen het kader van haar wetten en voor
 
 6. De bepalingen van het eerste en tweede lid van dit artikel dienen niet zodanig te worden uitgelegd dat een Verdragsluitende Partij verplicht is investeerders van de andere Verdragsluitende Partij het voordeel te doen genieten van een behandeling, voorkeur of voorrecht uit hoofde van een internationale overeenkomst of regeling die geheel of voornamelijk betrekking heeft op belastingen, met inbegrip van verdragen ter vermijding van dubbele belasting.
 
-#### Artikel 4. Overmakingen
+##### Artikel 4. Overmakingen
 
 1. Elke Verdragsluitende Partij garandeert investeerders van de andere Verdragsluitende Partij de vrije overmaking van hun investeringen en opbrengsten. Deze overmakingen omvatten in het bijzonder, doch niet uitsluitend:
 
@@ -88,7 +113,7 @@ Elke Verdragsluitende Partij bevordert, binnen het kader van haar wetten en voor
 
 2. Alle overmakingen uit hoofde van dit Verdrag geschieden in vrij inwisselbare valuta, zonder beperking en vertraging, tegen de marktwisselkoers die geldt op de datum van de overmaking.
 
-#### Artikel 5. Onteigening
+##### Artikel 5. Onteigening
 
 1. Investeringen van investeerders van de ene Verdragsluitende Partij worden niet genationaliseerd, onteigend of op andere wijze onderworpen aan maatregelen die met nationalisatie of onteigening vergelijkbare gevolgen hebben (hierna te noemen „onteigening") op het grondgebied van de andere Verdragsluitende Partij, behalve in het algemeen belang en tegen een onmiddellijke, adequate en doelmatige schadeloosstelling. Onteigening geschiedt op basis van non-discriminatie en met inachtneming van een behoorlijke rechtsgang.
 
@@ -100,15 +125,15 @@ Bij zowel onteigening als schadeloosstelling wordt een behandeling toegekend die
 
 4. Wanneer een Verdragsluitende Partij de vermogens-bestanddelen van een lichaam dat is opgericht onteigent krachtens haar wetten en voorschriften en waarin investeerders van de andere Verdragsluitende Partij deelnemen of er aandelen of schuldbewijzen van bezitten, worden de bepalingen van dit artikel toegepast.
 
-#### Artikel 6. Schadeloosstelling voor verliezen
+##### Artikel 6. Schadeloosstelling voor verliezen
 
 Aan investeerders van de ene Verdragsluitende Partij die verliezen lijden met betrekking tot hun investeringen op het grondgebied van de andere Verdragsluitende Partij wegens oorlog of een ander gewapend conflict, revolutie, een nationale noodtoestand, opstand, oproer of ongeregeldheden, wordt door de laatstbedoelde Verdragsluitende Partij wat restitutie, schadevergoeding, schadeloosstelling of een andere regeling betreft, geen minder gunstige behandeling toegekend dan die welke die Verdragsluitende Partij toekent aan haar eigen investeerders of aan investeerders van een derde staat, naar gelang van welke het gunstigst is voor de betrokken investeerders.
 
-#### Artikel 7. Subrogatie
+##### Artikel 7. Subrogatie
 
 Indien de investeringen van een investeerder van de ene Verdragsluitende Partij verzekerd zijn tegen niet-commerciële risico's of anderszins aanleiding geven tot de betaling van schadevergoeding terzake van die investeringen krachtens een bij wet, voorschrift of overheidscontract ingesteld stelsel, wordt de subrogatie van de verzekeraar of de herverzekeraar of de door de ene Verdragsluitende Partij aangewezen instantie in de rechten van de bedoelde investeerder, ingevolge de voorwaarden van deze verzekering of krachtens een andere gegeven schadevergoeding, door de andere Verdragsluitende Partij erkend.
 
-#### Artikel 8. Beslechting van investeringsgeschillen tussen een Verdragsluitende Partij en een investeerder van de andere Verdragsluitende Partij
+##### Artikel 8. Beslechting van investeringsgeschillen tussen een Verdragsluitende Partij en een investeerder van de andere Verdragsluitende Partij
 
 1. Een geschil tussen een Verdragsluitende Partij en een investeerder van de andere Verdragsluitende Partij betreffende onteigening of nationalisatie van investeringen wordt, voor zover mogelijk, op minnelijke wijze beslecht door de partijen bij het geschil.
 
@@ -118,15 +143,15 @@ Indien de investeringen van een investeerder van de ene Verdragsluitende Partij 
 
 Indien de partijen bij het geschil van mening verschillen of conciliatie of arbitrage de meest geschikte methode van beslechting is, heeft de investeerder het recht te kiezen. Wanneer een juridisch geschil betreffende een investering op het territorium van de Republiek Korea is voorgelegd aan een bevoegde nationale rechter, dan zal dit geschil niet meer worden voorgelegd aan het ICSID als een uitspraak van een nationale rechter in kracht van gewijsde is gegaan. Als er een geschil is betreffende een investering op het territorium van het Koninkrijk der Nederlanden, dan kan een investeerder te allen tijde kiezen om een geschil voor te leggen aan het ICSID.
 
-#### Artikel 9. Toepassing van het Verdrag
+##### Artikel 9. Toepassing van het Verdrag
 
 De bepalingen van dit Verdrag zijn, vanaf de datum waarop het in werking treedt, ook van toepassing op investeringen die voor die datum zijn gedaan. Dit Verdrag is evenwel niet van toepassing op geschillen betreffende investeringen die onderworpen zijn aan een procedure ter regeling van geschillen uit hoofde van het Verdrag inzake de bevordering en wederzijdse bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Republiek Korea, ondertekend te Den Haag op 16 oktober 1974. Het laatstgenoemde verdrag blijft van toepassing op deze investeringen voor zover het de bedoelde geschillen betreft.
 
-#### Artikel 10. Overleg
+##### Artikel 10. Overleg
 
 Elk van de Verdragsluitende Partijen kan aan de andere Partij voorstellen overleg te plegen over een aangelegenheid betreffende de interpretatie of toepassing van het Verdrag. De andere Partij neemt dit voorstel in welwillende overweging en biedt passende gelegenheid voor dergelijk overleg.
 
-#### Artikel 11. Beslechting van geschillen tussen de Verdragsluitende Partijen
+##### Artikel 11. Beslechting van geschillen tussen de Verdragsluitende Partijen
 
 1. Enig geschil tussen de Verdragsluitende Partijen inzake de interpretatie of toepassing van het Verdrag wordt, voor zover mogelijk, door middel van overleg langs diplomatieke weg beslecht.
 
@@ -142,11 +167,11 @@ Elk van de Verdragsluitende Partijen kan aan de andere Partij voorstellen overle
 
 7. Het scheidsgerecht stelt zijn eigen procedureregels vast.
 
-#### Artikel 12. Toepassing met betrekking tot delen van het Koninkrijk der Nederlanden
+##### Artikel 12. Toepassing met betrekking tot delen van het Koninkrijk der Nederlanden
 
 Wat het Koninkrijk der Nederlanden betreft is dit Verdrag van toepassing op het deel van het Koninkrijk in Europa, op de Nederlandse Antillen en op Aruba, tenzij anders is bepaald in de in artikel 13, eerste lid, bedoelde mededeling.
 
-#### Artikel 13. Inwerkingtreding, werkingsduur en beëindiging
+##### Artikel 13. Inwerkingtreding, werkingsduur en beëindiging
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand die volgt op de datum waarop beide Verdragsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan hun grondwettelijk vereiste procedures is voldaan, en blijft van kracht gedurende een tijdvak van vijftien jaar.
 
@@ -158,7 +183,7 @@ Wat het Koninkrijk der Nederlanden betreft is dit Verdrag van toepassing op het 
 
 Bij de ondertekening van het Verdrag inzake de bevordering en de wederzijdse bescherming van investeringen tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Korea, hebben de ondertekenende vertegenwoordigers overeenstemming bereikt over de volgende bepalingen, die een integrerend deel uitmaken van het Verdrag:
 
-#### Ad artikel 4
+##### Ad artikel 4
 
 1. Onverminderd de overige bepalingen van dit Verdrag, kan de Regering van de Republiek Korea, in overeenstemming met haar wetten en voorschriften, maatregelen treffen of handhaven die onverenigbaar zijn met haar verplichtingen uit hoofde van artikel 4:
 
@@ -176,7 +201,7 @@ Bij de ondertekening van het Verdrag inzake de bevordering en de wederzijdse bes
 
 - d. dienen onverwijld te worden gemeld aan de andere Verdragsluitende Partij.
 
-#### Ad artikel 8, derde lid
+##### Ad artikel 8, derde lid
 
 Om twijfel te vermijden wordt bevestigd dat een uitspraak of beslissing onherroepelijk is indien:
 
@@ -184,7 +209,7 @@ Om twijfel te vermijden wordt bevestigd dat een uitspraak of beslissing onherroe
 
 - b. een investeerder die partij is bij het geschil heeft afgezien van zijn recht in beroep te gaan bij een hoger binnenlands rechtscollege.
 
-#### Ad artikel 13
+##### Ad artikel 13
 
 Bij de inwerkingtreding van dit Verdrag, wordt het Verdrag inzake de bevordering en wederzijdse bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Republiek Korea, te Den Haag ondertekend op 16 oktober 1974, beëindigd en vervangen door dit Verdrag.
 

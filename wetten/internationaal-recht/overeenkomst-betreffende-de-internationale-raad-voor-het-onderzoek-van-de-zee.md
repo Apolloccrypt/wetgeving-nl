@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst betreffende de Internationale Raad voor het Onderzoek van de Zee"
 identifier: "BWBV0004667"
-categorie: "Internationaal recht"
-publicatiedatum: 1975-11-12
-laatste_update: 1975-11-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004667"
+country: "nl"
+rank: "verdrag"
+publication_date: "1975-11-12"
+last_updated: "1975-11-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004667"
+soort: "verdrag"
+stam_id: "10004250513"
+version_id: "10004438002"
+internal_id: "C10006987401"
+label_id: "10004235804"
+dtd_version: "2.0"
+original_entry_into_force: "1968-07-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004667/1975-11-12/0"
+intitule_bron: "Trb.1966-193"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1966-08-31"
+intitule_in_force: "1968-04-23"
+intitule_status: "goed"
+original_publication: "Trb.1966-193"
+original_published_date: "1966-08-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1966-193"
+entry_into_force_date: "1968-07-22"
+jci_1_3: "jci1.3:c:BWBV0004667&z=1975-11-12&g=1975-11-12"
+jci_1_0: "1.0:c:BWBV0004667&g=1975-11-12"
+citeertitel_status: "redactioneel"
+entry_into_force: "1968-07-22"
 ---
-
 # Overeenkomst betreffende de Internationale Raad voor het Onderzoek van de Zee
 
 Preambule
@@ -20,7 +42,7 @@ Verlangende genoemde Raad een nieuw statuut te geven, ten einde de uitvoering va
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De taak van de Internationale Raad voor het Onderzoek van de Zee, hierna te noemen „de Raad”, omvat:
 
@@ -30,25 +52,25 @@ De taak van de Internationale Raad voor het Onderzoek van de Zee, hierna te noem
 
 - (c). het publiceren of op andere wijze bekend maken van de resultaten van het onder zijn auspiciën uitgevoerde wetenschappelijk speurwerk en onderzoekingen, of publikatie daarvan stimuleren.
 
-#### Artikel 2
+##### Artikel 2
 
 De Raad houdt zich bezig met de Atlantische Oceaan en de aangrenzende zeeën en in het bijzonder met de Noordatlantische Oceaan.
 
-#### Artikel 3
+##### Artikel 3
 
 (1). De Raad wordt in stand gehouden overeenkomstig de bepalingen van deze Overeenkomst
 
 (2). De zetel van de Raad blijft in Kopenhagen gevestigd.
 
-#### Artikel 4
+##### Artikel 4
 
 De Raad streeft naar het maken en in stand houden van werkafspraken met andere internationale organisaties, die verwante doeleinden hebben en zal zoveel mogelijk met deze samenwerken, in het bijzonder met betrekking tot het verstrekken van wetenschappelijke gegevens, die worden gevraagd.
 
-#### Artikel 5
+##### Artikel 5
 
 De Overeenkomstsluitende Partijen verplichten zich de Raad alle inlichtingen te verschaffen, die van belang zijn voor de doelstellingen van deze Overeenkomst en die redelijkerwijze ter beschikking kunnen worden gesteld, alsmede de door de Raad gecoördineerde programma's van wetenschappelijk speurwerk zoveel mogelijk te helpen uitvoeren.
 
-#### Artikel 6
+##### Artikel 6
 
 (1). Elke Overeenkomstsluitende Partij wordt in de Raad door niet meer dan twee afgevaardigden vertegenwoordigd.
 
@@ -56,25 +78,25 @@ De Overeenkomstsluitende Partijen verplichten zich de Raad alle inlichtingen te 
 
 (3). Elke Overeenkomstsluitende Partij kan naar eigen keuze deskundigen en adviseurs benoemen, die de Raad in zijn werkzaamheden bijstaan.
 
-#### Artikel 7
+##### Artikel 7
 
 (1). De Raad komt eenmaal per jaar in gewone zitting bijeen. Deze zitting wordt te Kopenhagen gehouden, tenzij de Raad anders bepaalt.
 
 (2). Een buitengewone zitting van de Raad kan op door het Bureau zelf te bepalen plaats en tijdstip worden belegd, hetzij op initiatief van dat Bureau zelf, hetzij op verzoek van ten minste één derde van de Overeenkomstsluitende Partijen.
 
-#### Artikel 8
+##### Artikel 8
 
 (1). Elke Overeenkomstsluitende Partij heeft in de Raad één stem.
 
 (2). Besluiten van de Raad worden, tenzij in deze Overeenkomst uitdrukkelijk anders wordt bepaald, bij eenvoudige meerderheid van het aantal uitgebrachte stemmen genomen. Bij staking van stemmen omtrent een zaak waarover bij eenvoudige meerderheid beslist kan worden, wordt het voorstel als verworpen beschouwd.
 
-#### Artikel 9
+##### Artikel 9
 
 (1). Met inachtneming van de bepalingen van deze Overeenkomst stelt de Raad zijn eigen Reglement vast, dat dient te worden aanvaard door een twee derde meerderheid der Overeenkomstsluitende Partijen.
 
 (2). Engels en Frans zijn de voertalen van de Raad.
 
-#### Artikel 10
+##### Artikel 10
 
 (1). De Raad kiest uit de afgevaardigden zijn voorzitter, de eerste vice-voorzitter en nog vijf vice-voorzitters. Het aantal der laatsten kan worden uitgebreid bij een door de Raad met een twee derde meerderheid genomen besluit.
 
@@ -82,23 +104,23 @@ De Overeenkomstsluitende Partijen verplichten zich de Raad alle inlichtingen te 
 
 (3). Zodra de voorzitter in functie treedt, houdt hij op afgevaardigde te zijn.
 
-#### Artikel 11
+##### Artikel 11
 
 (1). De voorzitter en de vice-voorzitters vormen te zamen het Bureau van de Raad.
 
 (2). Het Bureau is de Uitvoerende Commissie van de Raad, legt de besluiten van de Raad ten uitvoer, stelt de agenda op en roept de vergaderingen bijeen. Het maakt eveneens de begroting op. Het belegt de reservefondsen en kwijt zich van de taken die de Raad het Bureau heeft opgedragen. Het legt tegenover de Raad verantwoording af voor zijn handelingen.
 
-#### Artikel 12
+##### Artikel 12
 
 De Raad stelt een Raadgevende Commissie in, een Financiële Commissie en andere commissies, die nodig zijn voor de uitvoering van zijn werkzaamheden; de taken van deze commissies worden omschreven in het Reglement.
 
-#### Artikel 13
+##### Artikel 13
 
 (1). De Raad benoemt een Algemeen Secretaris. Hij stelt diens rechtspositie vast en bepaalt waarin zijn werkzaamheden zullen bestaan.
 
 (2). Met inachtneming van de algemene richtlijnen van de Raad stelt het Bureau het andere personeel aan dat nodig is voor het uitvoeren van de werkzaamheden van de Raad. Het stelt de rechtspositie van dit personeel vast en bepaalt waarin de werkzaamheden van dit personeel zullen bestaan.
 
-#### Artikel 14
+##### Artikel 14
 
 (1). Elk der Overeenkomstsluitende Partijen betaalt de kosten van de door haar benoemde afgevaardigden, deskundigen en adviseurs, behalve voorzover de Raad daaromtrent anders bepaalt.
 
@@ -112,13 +134,13 @@ De Raad stelt een Raadgevende Commissie in, een Financiële Commissie en andere 
 
 (6). Een Overeenkomstsluitende Partij die gedurende twee achtereenvolgende jaren in gebreke is gebleven haar bijdrage te betalen, geniet geen der aan deze Overeenkomst verbonden rechten, totdat zij aan haar financiële verplichtingen heeft voldaan.
 
-#### Artikel 15
+##### Artikel 15
 
 (1). Op het grondgebied der Overeenkomstsluitende Partijen bezit de Raad rechtspersoonlijkheid, indien dit is overeengekomen tussen de Raad en de Regering van de betrokken Overeenkomstsluitende Partij.
 
 (2). De Raad, de afgevaardigden en deskundigen van de Raad, de Algemeen Secretaris en de andere functionarissen genieten op het grondgebied der Overeenkomstsluitende Partijen voorrechten en immuniteiten, die nodig zijn voor de uitoefening van hun functie indien dit tussen de Raad en de betrokken Overeenkomstsluitende Partij is overeengekomen.
 
-#### Artikel 16
+##### Artikel 16
 
 (1). Deze Overeenkomst staat tot 31 december 1964 open ter ondertekening namens de Regeringen van alle Staten die deelnemen aan het werk van de Raad.
 
@@ -130,11 +152,11 @@ De akten van bekrachtiging of goedkeuring worden nedergelegd bij de Regering van
 
 (4). Nadat deze Overeenkomst in werking is getreden overeenkomstig het derde lid van dit artikel, kan de Regering van iedere Staat, door middel van een aan de Regering van Denemarken gerichte schriftelijke aanvrage, verzoeken tot de Overeenkomst te mogen toetreden. Haar wordt toegestaan bij die Regering een akte van toetreding neder te leggen nadat de Regering van Denemarken ervan in kennis is gesteld dat de Regeringen van drie vierde van de Staten die reeds een akte van bekrachtiging, goedkeuring of toetreding hebben nedergelegd daaraan hun goedkeuring hechten. Ten aanzien van iedere toetredende Regering treedt deze Overeenkomst in werking op de datum waarop zij haar akte van toetreding heeft nedergelegd.
 
-#### Artikel 17
+##### Artikel 17
 
 Nadat twee jaren zijn verstreken sedert de datum van inwerkingtreding van deze Overeenkomst kan elke Overeenkomstsluitende Partij haar te allen tijde opzeggen door middel van een aan de Regering van Denemarken gerichte schriftelijke kennisgeving. Deze opzegging wordt van kracht twaalf maanden na de datum van ontvangst.
 
-#### Artikel 18
+##### Artikel 18
 
 Wanneer deze Overeenkomst in werking treedt, wordt zij door de depot-regering bij het secretariaat van de Organisatie der Verenigde Naties geregistreerd, overeenkomstig het bepaalde in [artikel 102 van het Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 

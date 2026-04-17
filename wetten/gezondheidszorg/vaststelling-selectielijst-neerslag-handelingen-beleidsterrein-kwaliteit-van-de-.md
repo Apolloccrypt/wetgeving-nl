@@ -1,13 +1,38 @@
 ---
 title: "Vaststelling selectielijst neerslag handelingen beleidsterrein Kwaliteit van de Nederlandse wetgeving vanaf 1945 (Minister van Volksgezondheid, Welzijn en Sport)"
 identifier: "BWBR0021213"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2007-02-16
-laatste_update: 2007-02-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021213"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2007-02-16"
+last_updated: "2007-02-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021213"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "8915993"
+version_id: "14169262"
+internal_id: "C25316401"
+label_id: "8895264"
+dtd_version: "2.0"
+original_entry_into_force: "2007-02-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021213/2007-02-16/0"
+intitule_bron: "Stcrt.2007-32"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-12-21"
+intitule_published: "2007-02-14"
+intitule_in_force: "2007-02-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-32"
+original_signed_date: "2006-12-21"
+original_published_date: "2007-02-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-32-p15-SC79117"
+entry_into_force_date: "2007-02-16"
+jci_1_3: "jci1.3:c:BWBR0021213&z=2007-02-16&g=2007-02-16"
+jci_1_0: "1.0:c:BWBR0021213&g=2007-02-16"
+citeertitel_status: "redactioneel"
+signed_date: "2006-12-21"
+entry_into_force: "2007-02-16"
 ---
-
 # Vaststelling selectielijst neerslag handelingen beleidsterrein Kwaliteit van de Nederlandse wetgeving vanaf 1945 (Minister van Volksgezondheid, Welzijn en Sport)
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +41,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 11 december 20
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Volksgezondheid, Welzijn en Sport en de onder hem ressorterende actoren op het beleidsterrein Kwaliteit van de Nederlandse wetgeving over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

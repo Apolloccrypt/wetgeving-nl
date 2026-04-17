@@ -1,22 +1,46 @@
 ---
 title: "Overgangsregeling geldelijke steun huisvesting gehandicapten"
 identifier: "BWBR0006157"
-categorie: "Overig"
-publicatiedatum: 1994-04-01
-laatste_update: 1994-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006157"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1994-04-01"
+last_updated: "1994-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006157"
+soort: "ministeriele-regeling"
+stam_id: "4444123"
+version_id: "6240462"
+internal_id: "C6444671"
+label_id: "4422544"
+dtd_version: "2.0"
+original_entry_into_force: "1993-11-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006157/1994-04-01/0"
+intitule_bron: "Stcrt.1993-192"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-09-28"
+intitule_published: "1993-10-07"
+intitule_in_force: "1993-11-02"
+intitule_status: "goed"
+original_publication: "Stcrt.1993-192"
+original_signed_date: "1993-09-28"
+original_published_date: "1993-10-07"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-11-04"
+jci_1_3: "jci1.3:c:BWBR0006157&z=1994-04-01&g=1994-04-01"
+jci_1_0: "1.0:c:BWBR0006157&g=1994-04-01"
+citeertitel_status: "officieel"
+signed_date: "1993-09-28"
+entry_into_force: "1993-11-04"
 ---
-
 # Overgangsregeling geldelijke steun huisvesting gehandicapten
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Regeling geldelijke steun huisvesting gehandicapten 1992.
 
-#### Artikel II
+##### Artikel II
 
 1. De in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0006157&artikel=I&z=1994-04-01&g=1994-04-01), aanhef, bedoelde regeling blijft van toepassing op aanvragen om te worden aangemerkt als A.D.L.-kandidaat als bedoeld in artikel 48, eerste lid, van die regeling, voor zover die aanvragen bij de minister zijn ingediend vóór 1 januari 1994.
 
@@ -24,7 +48,7 @@ Wijzigt de Regeling geldelijke steun huisvesting gehandicapten 1992.
 
 3. De in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0006157&artikel=I&z=1994-04-01&g=1994-04-01), aanhef, bedoelde regeling blijft van toepassing ten aanzien van aanvragen om bijdragen ineens als bedoeld in artikel 21 van die regeling die de in artikel 18 van die regeling genoemde bedragen te boven gaan, die vóór 1 januari 1994 bij de gemeenten zijn ingediend, met dien verstande dat de op die aanvragen betrekking hebbende aanvragen om geldelijke steun als bedoeld in artikel 25 van die regeling, onverminderd de in of op voet van die regeling gestelde termijnen, vóór 1 oktober 1996 bij de minister worden ingediend.
 
-#### Artikel III
+##### Artikel III
 
 1. De Regeling geldelijke steun huisvesting gehandicapten 1992 wordt ingetrokken met inachtneming van het tweede en derde lid.
 
@@ -32,7 +56,7 @@ Wijzigt de Regeling geldelijke steun huisvesting gehandicapten 1992.
 
 3. Artikel 79, tweede, onderscheidenlijk derde lid, van de in het eerste lid genoemde regeling, zoals die laatstelijk luidde, blijft van toepassing op de in die leden bedoelde aanvragen, onderscheidenlijk schuldvorderingen.
 
-#### Artikel IV
+##### Artikel IV
 
 De wijze van berekenen, bedoeld in artikel 21 van de Regeling geldelijke steun huisvesting gehandicapten 1989, zoals dat artikel ingevolge [artikel I, onderdeel M, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006157&artikel=I&z=1994-04-01&g=1994-04-01), van deze regeling wordt gelezen, is neergelegd:
 
@@ -40,7 +64,7 @@ De wijze van berekenen, bedoeld in artikel 21 van de Regeling geldelijke steun h
 
 - b. voor schuldvorderingen als bedoeld in artikel 90, eerste lid, van de Regeling geldelijke steun huisvesting gehandicapten 1989: in de bij deze regeling behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0006157&bijlage=II&z=1994-04-01&g=1994-04-01), [onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0006157&bijlage=II&z=1994-04-01&g=1994-04-01).
 
-#### Artikel V
+##### Artikel V
 
 1. De artikelen I, onderdelen B, F, aanhef en onder 2 en 3, J, K, L, aanhef en onder 2, M en N, en IV treden in werking met ingang van 1 januari 1994.
 
@@ -50,7 +74,7 @@ De wijze van berekenen, bedoeld in artikel 21 van de Regeling geldelijke steun h
 
 4. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0006157&artikel=III&z=1994-04-01&g=1994-04-01) treedt in werking met ingang van 1 april 1994.
 
-#### Artikel VI
+##### Artikel VI
 
 Deze regeling wordt aangehaald als Overgangsregeling geldelijke steun huisvesting gehandicapten.
 

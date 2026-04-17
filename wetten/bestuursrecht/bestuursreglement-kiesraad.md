@@ -1,18 +1,43 @@
 ---
 title: "Bestuursreglement Kiesraad"
 identifier: "BWBR0052263"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-04
-laatste_update: 2026-02-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052263"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-02-04"
+last_updated: "2026-02-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052263"
+soort: "zbo"
+stam_id: "17752803"
+version_id: "31364412"
+internal_id: "C44822161"
+label_id: "17651074"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052263/2026-02-04/0"
+intitule_bron: "Stcrt.2026-2858"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-03"
+intitule_published: "2026-02-03"
+intitule_in_force: "2026-02-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-2858"
+original_signed_date: "2025-12-03"
+original_published_date: "2026-02-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-2858"
+entry_into_force_date: "2026-02-04"
+jci_1_3: "jci1.3:c:BWBR0052263&z=2026-02-04&g=2026-02-04"
+jci_1_0: "1.0:c:BWBR0052263&g=2026-02-04"
+citeertitel_status: "officieel"
+signed_date: "2025-12-03"
+entry_into_force: "2026-02-04"
 ---
-
 # Bestuursreglement Kiesraad
 
 gelet op [artikel A 7 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_7):
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 In dit bestuursreglement wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 - **Voorzitter:** lid, tevens voorzitter van de Kiesraad als bedoeld in [artikel A 5 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_5).
 
-#### Artikel 2. (functies en benoemingsperiode)
+##### Artikel 2. (functies en benoemingsperiode)
 
 1. De Kiesraad wijst uit zijn leden een eerste en een tweede ondervoorzitter aan.
 
@@ -44,7 +69,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 6. De Kiesraad stelt met inachtneming van de wettelijke bepalingen een procedure vast voor de werving en selectie van leden, waarbij de onafhankelijkheid van de Kiesraad is gewaarborgd.
 
-#### Artikel 3. (functiescheiding: kwaliteitsbewakende leden en buitengewone leden)
+##### Artikel 3. (functiescheiding: kwaliteitsbewakende leden en buitengewone leden)
 
 1. Bij verkiezingen waarbij de Kiesraad de taak van centraal stembureau uitoefent, zijn een ondervoorzitter en twee andere door de Kiesraad uit zijn midden aan te wijzen leden belast met de uitoefening van de kwaliteitsbewakende taken.
 
@@ -52,7 +77,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 3. De Kiesraad wijst de in het eerste lid bedoelde leden aan voor de duur van een jaar. Deze aanwijzing wordt telkens voor de duur van een jaar verlengd, tenzij anders wordt besloten.
 
-#### Artikel 4. (vergadering)
+##### Artikel 4. (vergadering)
 
 1. De Kiesraad vergadert regelmatig volgens een door de Kiesraad vast te stellen vergadercyclus. De Kiesraad vergadert in elk geval wanneer dat wettelijk is voorgeschreven, wanneer de voorzitter dat nodig acht of wanneer een ander lid dat onder opgaaf van redenen verlangt.
 
@@ -74,7 +99,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 7. De secretaris-directeur draagt zorg voor de rondzending van de uitnodigingen, de agenda en de overige voor de vergadering bestemde stukken.
 
-#### Artikel 5. (besluitvorming)
+##### Artikel 5. (besluitvorming)
 
 1. De Kiesraad neemt zijn beslissingen zo veel mogelijk bij consensus.
 
@@ -86,7 +111,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 5. Bij verkiezingen waarbij de Kiesraad niet optreedt als centraal stembureau oefenen de leden de kwaliteitsbewakende taken zoveel mogelijk gezamenlijk uit, met dien verstande dat een aanwijzing of onderbreking van gebruik van programmatuur kan worden vastgesteld door een lid in overleg en in overeenstemming met ten minste de voorzitter of bij diens verhindering een ondervoorzitter.
 
-#### Artikel 6. (verslaglegging)
+##### Artikel 6. (verslaglegging)
 
 1. De secretaris-directeur draagt zorg voor verslaglegging van de vergaderingen.
 
@@ -104,7 +129,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 4. Het verslag wordt zo veel mogelijk de eerstvolgende vergadering vastgesteld.
 
-#### Artikel 7. (commissies)
+##### Artikel 7. (commissies)
 
 1. De Kiesraad kan uit zijn midden één of meer commissies samenstellen die met de voorbereiding van vergaderingen zijn belast. Een commissie bestaat uit ten minste twee leden, onder wie een commissievoorzitter.
 
@@ -116,7 +141,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 5. De Kiesraad stelt de samenstelling van de commissies vast voor de duur van een jaar; deze wordt telkens verlengd voor de duur van een jaar, tenzij anders wordt besloten.
 
-#### Artikel 8. (integriteit en geheimhouding)
+##### Artikel 8. (integriteit en geheimhouding)
 
 1. De leden onthouden zich van alles wat een goede en onafhankelijke taakvervulling van de Kiesraad kan schaden.
 
@@ -126,13 +151,13 @@ In dit bestuursreglement wordt verstaan onder:
 
 4. De leden nemen omtrent alle informatie en documenten die zij in het kader van hun functie verkrijgen en die als vertrouwelijk is aangemerkt, dan wel waarvan de vertrouwelijkheid uit de aard van de informatie voortvloeit, strikte geheimhouding, bedoeld in [artikel 2:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5), in acht, ook na beëindiging van hun functie.
 
-#### Artikel 9. (regelingen)
+##### Artikel 9. (regelingen)
 
 1. De Kiesraad stelt een besluit beheer en mandaat vast. In het besluit beheer en mandaat wordt inzichtelijk gemaakt voor welke taken en bevoegdheden mandaat, volmacht en machtiging wordt verleend aan de voorzitter dan wel de secretaris-directeur en het bureau.
 
 2. De Kiesraad stelt een klachtenregeling vast.
 
-#### Artikel 10. (slotbepalingen)
+##### Artikel 10. (slotbepalingen)
 
 1. De voorzitter beslist in de gevallen waarin dit reglement niet voorziet.
 

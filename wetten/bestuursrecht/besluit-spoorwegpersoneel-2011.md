@@ -1,13 +1,39 @@
 ---
-title: "Besluit spoorwegpersoneel 2011"
+title: "Besluit van 3 mei 2011, houdende vaststelling van voorschriften met betrekking tot de bekwaamheid en geschiktheid van spoorwegpersoneel met een veiligheidsfunctie (Besluit spoorwegpersoneel 2011)"
 identifier: "BWBR0030006"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-12-17
-laatste_update: 2021-12-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030006"
+country: "nl"
+rank: "amvb"
+publication_date: "2021-12-17"
+last_updated: "2021-12-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030006"
+soort: "AMvB"
+stam_id: "11324973"
+version_id: "25726252"
+internal_id: "C36693571"
+label_id: "11299014"
+dtd_version: "2.0"
+original_entry_into_force: "2019-02-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030006/2021-12-17/0"
+intitule_bron: "Stb.2011-240"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-05-03"
+intitule_published: "2011-05-24"
+intitule_in_force: "2011-11-14"
+intitule_status: "goed"
+original_publication: "Stb.2019-104"
+original_signed_date: "2019-02-22"
+original_published_date: "2019-03-08"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2019-104"
+entry_into_force_date: "2019-02-22"
+jci_1_3: "jci1.3:c:BWBR0030006&z=2021-12-17&g=2021-12-17"
+jci_1_0: "1.0:c:BWBR0030006&g=2021-12-17"
+citeertitel_status: "officieel"
+short_title: "Besluit spoorwegpersoneel 2011"
+signed_date: "2019-02-22"
+entry_into_force: "2019-02-22"
 ---
-
 # Besluit van 3 mei 2011, houdende vaststelling van voorschriften met betrekking tot de bekwaamheid en geschiktheid van spoorwegpersoneel met een veiligheidsfunctie (Besluit spoorwegpersoneel 2011)
 
 Op de voordracht van Onze Minister van Infrastructuur en Milieu van 8 december 2010, nr. VENW/BSK-2010/181313, Hoofddirectie Juridische Zaken;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Infrastructuur en Milieu van 27 a
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **wet:** [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
 
-#### Artikel 2
+##### Artikel 2
 
 Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangewezen de functies van:
 
@@ -56,7 +82,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 - f. treindienstleider met minimale bevoegdheid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De machinist met volledige bevoegdheid is bevoegd tot het op hoofdspoorwegen besturen en begeleiden van alle typen spoorvoertuigen van categorie A en B.
 
@@ -80,13 +106,13 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 - b. het treffen van veiligheidsmaatregelen bij storingen en bij werkzaamheden aan of in de nabijheid van hoofdspoorwegen, op emplacementen of gedeelten daarvan, die niet zijn voorzien van een technische beveiliging.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een persoon die uitsluitend tot taak heeft het besturen van als gereedschap dienende spoorvoertuigen tijdens het gebruik daarvan bij werkzaamheden aan of nabij de hoofdspoorweg ten behoeve van de hoofdspoorweginfrastructuur, op hoofdspoorwegen die buiten dienst zijn gesteld, is geen machinist als bedoeld in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=2&z=2021-12-17&g=2021-12-17).
 
 2. Een persoon die uitsluitend tot taak heeft het samenstellen en begeleiden van treinen en het begeleiden van spoorvoertuigen op hoofdspoorwegen die buiten dienst zijn gesteld, is geen rangeerder als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=2&z=2021-12-17&g=2021-12-17).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De persoon die een veiligheidsfunctie uitoefent is ten minste 18 jaar oud.
 
@@ -94,7 +120,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 3. In afwijking van het tweede lid kunnen bij regeling van Onze Minister baanvakken voor grensoverschrijdende treindiensten worden aangewezen waar, op aanvraag van een spoorwegonderneming en met inachtneming van de in punt 8, derde lid, van bijlage VI bij [richtlijn 2007/59/EG](32007L0059) genoemde procedure, machinisten door de beheerder kunnen worden vrijgesteld van de taaleis, bedoeld in punt 8, eerste en tweede lid, van die bijlage.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister stelt ten behoeve van een beoordeling als bedoeld in [artikel 50, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), een examenprogramma vast dat voldoet aan de in bijlage IV van [richtlijn 2007/59/EG](32007L0059) gestelde eisen inzake algemene kennis en vaardigheden.
 
@@ -102,7 +128,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 3. Onze Minister stelt voor de veiligheidsfunctie van rangeerder, wagencontroleur, treindienstleider met volledige bevoegdheid en treindienstleider met minimale bevoegdheid een examenprogramma vast dat voldoet aan de geldende paragrafen en aanhangsels van de TSI Exploitatie en verkeersleiding inzake algemene kennis, bekwaamheid en ervaring.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister geeft een beoordeling als bedoeld in [artikel 50, eerste lid, onder a, en tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), aan degene die bij een door Onze Minister afgenomen onderzoek voldoet aan de voor de betrokken veiligheidsfunctie krachtens [artikel 6, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=6&z=2021-12-17&g=2021-12-17), in het examenprogramma vastgestelde eisen.
 
@@ -128,7 +154,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 8. De beoordelingen zijn voor onbepaalde tijd geldig.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De voor de machinist met volledige bevoegdheid of machinist met beperkte bevoegdheid vereiste bedrijfsgebonden kennis en bekwaamheid, bedoeld in [artikel 51a, vierde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), betreft de kennis van de bedrijfsorganisatie en het veiligheidsbeheersysteem van de betrokken spoorwegonderneming.
 
@@ -160,7 +186,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 5. De beoordeling van de kennis en bekwaamheid, bedoeld in het eerste tot en met vierde lid, geschiedt door een vakinhoudelijk leidinggevende als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=15&z=2021-12-17&g=2021-12-17).
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij regeling van Onze Minister worden met inachtneming van bijlage II van [richtlijn 2007/59/EG](32007L0059) de eisen vastgesteld inzake medische en psychologische geschiktheid voor de machinist met volledige bevoegdheid en de machinist met beperkte bevoegdheid.
 
@@ -172,7 +198,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 - b. een persoon die de veiligheidsfunctie van rangeerder uitoefent, in dienst van een in het buitenland gevestigde spoorwegonderneming, die zijn standplaats heeft in het buitenland, mits hij voldoet aan de in het land van zijn standplaats voor de uitoefening van zijn functie in overeenstemming met de geldende paragrafen en aanhangsels van de TSI Exploitatie en verkeersleiding geldende medische en psychologische eisen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het keuringsinstituut, bedoeld in [artikel 50, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), geeft de verklaring van medische geschiktheid respectievelijk van psychologische geschiktheid af indien de keuring:
 
@@ -184,7 +210,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 3. Bij regeling van Onze Minister kunnen eisen worden gesteld aan de inhoud van de verklaring van medische geschiktheid respectievelijk van psychologische geschiktheid.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De verklaring van medische geschiktheid, afgegeven aan een machinist met volledige bevoegdheid of machinist met beperkte bevoegdheid, die de leeftijd van:
 
@@ -210,7 +236,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 5. Een tussentijdse keuring als bedoeld in het vierde lid vindt plaats indien bij degene onder wiens gezag de veiligheidsfunctie wordt uitgeoefend of bij de bij besluit van Onze Minister aangewezen personen, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), het vermoeden bestaat dat de betrokkene niet langer voldoet aan de voor de uitoefening van die veiligheidsfunctie vastgestelde eisen inzake medische geschiktheid respectievelijk psychologische geschiktheid.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een aanvraag tot verlening, wijziging of verlenging van een machinistenvergunning wordt ingediend bij Onze Minister en gaat vergezeld van de bij regeling van Onze Minister vast te stellen documenten.
 
@@ -226,7 +252,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 7. Onze Minister kan op aanvraag van de houder een duplicaat afgeven van de machinistenvergunning.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het bevoegdheidsbewijs, bedoeld in [artikel 51a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), voldoet aan de daaromtrent bij of krachtens artikel 4 en bijlage I van [richtlijn 2007/59/EG](32007L0059) gestelde regels.
 
@@ -248,7 +274,7 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 10. Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend, voorziet in een geschillenregeling omtrent de verstrekking, schorsing en intrekking van een bevoegdheidsbewijs, overeenkomstig artikel 15 van [richtlijn 2007/59/EG](32007L0059).
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het bezit van een bedrijfspas als bedoeld in [artikel 51, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51) is niet vereist voor:
 
@@ -282,29 +308,29 @@ Als veiligheidsfuncties binnen het hoofdspoorwegverkeerssysteem worden aangeweze
 
 5. In de gevallen, bedoeld in het vierde lid, neemt degene die de bedrijfspas heeft afgegeven, de pas in.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Degene onder wiens gezag een veiligheidsfunctie wordt uitgeoefend, draagt zorg voor vakinhoudelijke leiding over de persoon door wie die functie wordt uitgeoefend.
 
 2. Een vakinhoudelijk leidinggevende dient te beschikken over zodanige kennis van en inzicht in de uitoefening van de betrokken veiligheidsfunctie en zodanige kennis van de processen en de techniek binnen het hoofdspoorwegverkeerssysteem, dat hij personen die de betrokken veiligheidsfunctie uitoefenen kan instrueren, beoordelen en corrigeren ten aanzien van de goede uitoefening van die functie.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Degene onder wiens gezag een veiligheidsfunctie wordt uitgeoefend, draagt er zorg voor dat de persoon door wie die functie wordt uitgeoefend periodiek een herinstructie volgt ten aanzien van de juiste uitvoering van de functie.
 
 2. Het periodieke onderzoek van de machinist met volledige bevoegdheid en de machinist met beperkte bevoegdheid, bedoeld in [artikel 51a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), vindt plaats met inachtneming van het bepaalde in bijlage VII van [richtlijn 2007/59/EG](32007L0059).
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het register van machinistenvergunningen, bedoeld in [artikel 51a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), voldoet aan het daaromtrent bepaalde in de beschikking van de Commissie van de Europese Gemeenschappen van 29 oktober 2009 tot vaststelling van de basisparameters voor registers van machinistenvergunningen en aanvullende bevoegdheidsbewijzen als bedoeld in [Richtlijn 2007/59/EG](32007L0059) van het Europees Parlement en de Raad (2010/17/EG; PbEU L 8/17).
 
 2. Het register van bevoegdheidsbewijzen, bedoeld in [artikel 51a, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51a), voldoet aan het daaromtrent bepaalde in de beschikking van de Commissie van de Europese Gemeenschappen van 29 oktober 2009 tot vaststelling van de basisparameters voor registers van machinistenvergunningen en aanvullende bevoegdheidsbewijzen als bedoeld in [Richtlijn 2007/59/EG](32007L0059) van het Europees Parlement en de Raad (2010/17/EG; PbEU L 8/17).
 
-#### Artikel 19
+##### Artikel 19
 
 1. Onze Minister erkent op aanvraag een keuringsinstituut voor de afgifte van een verklaring van medische geschiktheid respectievelijk psychologische geschiktheid als bedoeld in [artikel 50, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=50), indien het beschikt over de voor de keuring van personeel met een veiligheidsfunctie vereiste onafhankelijke organisatie en expertise.
 
@@ -314,7 +340,7 @@ Vervallen
 
 4. Bij regeling van Onze Minister kunnen nadere eisen worden gesteld met betrekking tot de onafhankelijke organisatie en expertise van een keuringsinstituut.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Onze Minster erkent op aanvraag een opleidingsinstituut als bedoeld in [artikel 51b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=51b), overeenkomstig het bepaalde in de hoofdstukken 1 en 2 van het Besluit 2011/765/EU en de artikelen 2 tot en met 25 van de Aanbeveling 2011/766/EU. Van de erkenningen wordt door Onze Minister een register bijgehouden.
 
@@ -322,7 +348,7 @@ Vervallen
 
 3. Onze Minister kan een erkenning schorsen of intrekken indien het opleidingsinstituut niet meer voldoet aan de voor de erkenning gestelde eisen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Verklaringen van medische geschiktheid, verklaringen van psychologische geschiktheid en certificaten van bekwaamheid die op basis van het [Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625) aan een machinist met volledige bevoegdheid of een machinist met beperkte bevoegdheid zijn afgegeven, blijven geldig voor de duur dat deze zijn afgegeven.
 
@@ -336,39 +362,39 @@ Vervallen
 
 4. Een bedrijfspas die op basis van het [Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625) aan een rangeerder met volledige bevoegdheid of een wagencontroleur is afgegeven, wordt gelijkgesteld met een bedrijfspas afgegeven aan een rangeerder of wagencontroleur op basis van dit besluit.
 
-#### Artikel 22
+##### Artikel 22
 
 Aanwijzingen als keuringsinstituut als bedoeld in [artikel 28, tweede lid, van het Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625&artikel=28), worden gelijkgesteld met erkenningen als keuringsinstituut als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=19&z=2021-12-17&g=2021-12-17) van dit besluit.
 
-#### Artikel 23
+##### Artikel 23
 
 Een wijziging van de TSI Exploitatie en verkeersleiding, het Besluit 2011/765/EU of de Aanbeveling 2011/766/EU gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
 
-#### Artikel 24
+##### Artikel 24
 
 Wijzigt het Besluit spoorverkeer.
 
-#### Artikel 25
+##### Artikel 25
 
 Het [Besluit spoorwegpersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0017625) wordt ingetrokken.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het [Besluit keuring spoorvoertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0017622) wordt ingetrokken.
 
 2. Wijzigt het Besluit spoorweginfrastructuur.
 
-#### Artikel 27
+##### Artikel 27
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 28
+##### Artikel 28
 
 Dit besluit wordt aangehaald als: Besluit spoorwegpersoneel 2011.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Onze Minister erkent een persoon als examinator indien deze persoon:
 

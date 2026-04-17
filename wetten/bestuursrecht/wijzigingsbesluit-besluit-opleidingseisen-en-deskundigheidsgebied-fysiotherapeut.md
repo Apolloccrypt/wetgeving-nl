@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut (herformulering opleidingseisen en regeling directe toegankelijkheid)"
+title: "Besluit van 6 juli 2011, houdende wijziging van het Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut (herformulering opleidingseisen en regeling directe toegankelijkheid)"
 identifier: "BWBR0030268"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-08-01
-laatste_update: 2011-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030268"
+country: "nl"
+rank: "amvb"
+publication_date: "2011-08-01"
+last_updated: "2011-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030268"
+soort: "AMvB"
+stam_id: "11397463"
+version_id: "18709822"
+internal_id: "C26105671"
+label_id: "11371024"
+dtd_version: "2.0"
+original_entry_into_force: "2011-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030268/2011-08-01/0"
+intitule_bron: "Stb.2011-364"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-07-06"
+intitule_published: "2011-07-19"
+intitule_in_force: "2011-07-19"
+intitule_status: "goed"
+original_publication: "Stb.2011-364"
+original_signed_date: "2011-07-06"
+original_published_date: "2011-07-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2011-364"
+entry_into_force_date: "2011-08-01"
+jci_1_3: "jci1.3:c:BWBR0030268&z=2011-08-01&g=2011-08-01"
+jci_1_0: "1.0:c:BWBR0030268&g=2011-08-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut (herformulering opleidingseisen en regeling directe toegankelijkheid)"
+signed_date: "2011-07-06"
+entry_into_force: "2011-08-01"
 ---
-
 # Besluit van 6 juli 2011, houdende wijziging van het Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut (herformulering opleidingseisen en regeling directe toegankelijkheid)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 29 april 2011, DWJZ/JBA&J-3061122;
@@ -20,11 +46,11 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut.
 
-#### Artikel II
+##### Artikel II
 
 Een bevoegdheid tot inschrijving in het register van fysiotherapeuten, bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorgzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), komt ook na inwerkingtreding van dit besluit toe aan de houder van een getuigschrift dat:
 
@@ -32,7 +58,7 @@ Een bevoegdheid tot inschrijving in het register van fysiotherapeuten, bedoeld i
 
 - b. voldoet aan de vereisten, gesteld in het [Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut](https://wetten.overheid.nl/jci1.3:c:BWBR0008962), zoals dat luidde tot het tijdstip van inwerkingtreding van dit besluit.
 
-#### Artikel III
+##### Artikel III
 
 Dit besluit treedt in werking met ingang van 1 augustus 2011, met dien verstande dat de [onderdelen D, E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0030268&artikel=I&z=2011-08-01&g=2011-08-01) terugwerken tot en met 1 januari 2006.
 

@@ -1,20 +1,45 @@
 ---
 title: "Verlengbaarheidsbesluit GSM-vergunningen 2013"
 identifier: "BWBR0032016"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-11-01
-laatste_update: 2012-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032016"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-11-01"
+last_updated: "2012-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032016"
+soort: "ministeriele-regeling"
+stam_id: "11848993"
+version_id: "19648642"
+internal_id: "C27566351"
+label_id: "11821084"
+dtd_version: "2.0"
+original_entry_into_force: "2012-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032016/2012-11-01/0"
+intitule_bron: "Stcrt.2012-19660"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-09-20"
+intitule_published: "2012-09-27"
+intitule_in_force: "2012-09-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-19660"
+original_signed_date: "2012-09-20"
+original_published_date: "2012-09-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-19660"
+entry_into_force_date: "2012-11-01"
+jci_1_3: "jci1.3:c:BWBR0032016&z=2012-11-01&g=2012-11-01"
+jci_1_0: "1.0:c:BWBR0032016&g=2012-11-01"
+citeertitel_status: "officieel"
+signed_date: "2012-09-20"
+entry_into_force: "2012-11-01"
 ---
-
 # Verlengbaarheidsbesluit GSM-vergunningen 2013
 
 Gelet op [artikel 1 van het Besluit continuïteit mobiele telecommunicatiedienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031844&artikel=1);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +47,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **gecombineerde vergunning:** een vergunning voor het gebruik van frequentieruimte in zowel de 900 MHz-band als de 1800 MHz-band.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Om te voorkomen dat de transitie niet kan worden uitgevoerd zonder dat daarbij de continuïteit van dienstverlening in gevaar kan komen zijn de vergunningen, genoemd in kolom 1 van tabel 1, op aanvraag verlengbaar.
 
@@ -61,17 +86,17 @@ In dit besluit wordt verstaan onder:
 | [HDTP/98/613/DCS 154 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009415) | Vodafone Libertel B.V. |
 | [HDTP/98/614/DCS 155 U](https://wetten.overheid.nl/jci1.3:c:BWBR0009418), met uitzondering van de frequenties 1780 MHz tot 1782,1 MHz gepaard met 1875 MHz tot 1877,1 MHz | T-Mobile Netherlands B.V. |
 
-#### Artikel 3. Gewijzigde voorschriften
+##### Artikel 3. Gewijzigde voorschriften
 
 1. Wijzigt de Regeling verlening vergunning voor DCS 1800 gecombineerd met GSM aan Federa N.V. en de Verlening vergunning DCS 1800 gecombineerd met GSM aan Telfort Holding N.V.
 
 2. Wijzigt de overige vergunningen genoemd in kolom 1 van tabel 1 in artikel 2.
 
-#### Artikel 4. Intrekking besluit
+##### Artikel 4. Intrekking besluit
 
 Het besluit van de Staatssecretaris van Economische Zaken van 24 januari 2010, nr. ET/IT/10007157 (Staatscourant, 2010, nr. 1375) wordt ingetrokken.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Verlengbaarheidsbesluit GSM-vergunningen 2013.
 

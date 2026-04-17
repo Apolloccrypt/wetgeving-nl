@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Mexicaanse Staten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen"
 identifier: "BWBV0001142"
-categorie: "Belastingrecht"
-publicatiedatum: 2009-12-31
-laatste_update: 2009-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001142"
+country: "nl"
+rank: "verdrag"
+publication_date: "2009-12-31"
+last_updated: "2009-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001142"
+soort: "verdrag"
+stam_id: "10002236633"
+version_id: "10002287592"
+internal_id: "C10009595851"
+label_id: "10002227144"
+dtd_version: "2.0"
+original_entry_into_force: "1994-10-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001142/2009-12-31/0"
+intitule_bron: "Trb.1993-160"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-10-13"
+intitule_published: "1993-11-05"
+intitule_in_force: "1994-10-21"
+intitule_status: "goed"
+original_publication: "Trb.1993-160"
+original_signed_date: "1994-10-13"
+original_published_date: "1993-11-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-160"
+entry_into_force_date: "1994-10-13"
+jci_1_3: "jci1.3:c:BWBV0001142&z=2009-12-31&g=2009-12-31"
+jci_1_0: "1.0:c:BWBV0001142&g=2009-12-31"
+citeertitel_status: "redactioneel"
+signed_date: "1994-10-13"
+entry_into_force: "1994-10-13"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Mexicaanse Staten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
 De Regering van het Koninkrijk der Nederlanden
@@ -22,11 +47,11 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. REIKWIJDTE VAN HET VERDRAG
 
-#### Artikel 1. Personen op wie het Verdrag van toepassing is
+##### Artikel 1. Personen op wie het Verdrag van toepassing is
 
 Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten of van beide Staten.
 
-#### Artikel 2. Belastingen waarop het Verdrag van toepassing is
+##### Artikel 2. Belastingen waarop het Verdrag van toepassing is
 
 1. De belastingen waarop het Verdrag van toepassing is, zijn:
 
@@ -50,7 +75,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 ### HOOFDSTUK II. BEGRIPSBEPALINGEN
 
-#### Artikel 3. Algemene begripsbepalingen
+##### Artikel 3. Algemene begripsbepalingen
 
 1. Voor de toepassing van dit Verdrag, tenzij de context anders vereist:
 
@@ -82,7 +107,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 2. Voor de toepassing van het Verdrag door een van de Staten op enig moment heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat moment heeft volgens de wetgeving van die Staat met betrekking tot de belastingen waarop het Verdrag van toepassing is, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die Staat prevaleert boven een betekenis die volgens andere wetgeving van die Staat aan die uitdrukking wordt gegeven.
 
-#### Artikel 4. Inwoners
+##### Artikel 4. Inwoners
 
 1. Voor de toepassing van dit Verdrag betekent de uitdrukking „inwoner van een van de Staten" iedere persoon die, ingevolge de wetgeving van die Staat, aldaar aan belasting is onderworpen op grond van zijn woonplaats, verblijf, plaats van leiding of enige andere soortgelijke omstandigheid. Deze uitdrukking omvat echter niet een persoon die in die Staat slechts aan belasting is onderworpen terzake van inkomsten uit bronnen in die Staat.
 
@@ -98,7 +123,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 3. Indien een lichaam ingevolge de bepalingen van het eerste lid inwoner van beide Staten is, trachten de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming te regelen, met inachtneming van zijn plaats van werkelijke leiding, de plaats waar het is opgericht of anderszins tot stand is gekomen en alle andere ter zake doende factoren. Bij het ontbreken van een dergelijke overeenstemming heeft een dergelijk lichaam geen recht op enig voordeel uit hoofde van dit Verdrag, behalve dat het lichaam aanspraak mag maken op de voordelen van de artikelen 23 (Non-discriminatie) en 24 (Regeling voor onderling overleg).
 
-#### Artikel 5. Vaste inrichting
+##### Artikel 5. Vaste inrichting
 
 1. Voor de toepassing van dit Verdrag betekent de uitdrukking „vaste inrichting" een vaste bedrijfsinrichting door middel waarvan de werkzaamheden van een onderneming geheel of gedeeltelijk worden uitgeoefend.
 
@@ -142,7 +167,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 ### HOOFDSTUK III. BELASTINGHEFFING NAAR HET INKOMEN
 
-#### Artikel 6. Inkomsten uit onroerende zaken
+##### Artikel 6. Inkomsten uit onroerende zaken
 
 1. Inkomsten verkregen door een inwoner van een van de Staten uit onroerende zaken (daaronder begrepen voordelen uit landbouw- of bosbedrijven) die in de andere Staat zijn gelegen mogen in die andere Staat worden belast.
 
@@ -152,7 +177,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 4. De bepalingen van het eerste en derde lid zijn ook van toepassing op inkomsten uit onroerende zaken van een onderneming en op inkomsten uit onroerende zaken die worden gebruikt voor het verrichten van zelfstandige arbeid.
 
-#### Artikel 7. Winst uit onderneming
+##### Artikel 7. Winst uit onderneming
 
 1. De voordelen van een onderneming van een van de Staten zijn slechts in die Staat belastbaar, tenzij de onderneming in de andere Staat haar bedrijf uitoefent, of heeft uitgeoefend, door middel van een aldaar gevestigde vaste inrichting. Indien de onderneming aldus haar bedrijf uitoefent, of heeft uitgeoefend, mogen de voordelen van de onderneming in de andere Staat worden belast, maar slechts in zoverre als zij aan die vaste inrichting kunnen worden toegerekend.
 
@@ -168,7 +193,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 7. Indien in de voordelen bestanddelen zijn begrepen die afzonderlijk in andere artikelen van dit Verdrag worden behandeld, worden de bepalingen van die artikelen niet aangetast door de bepalingen van dit artikel.
 
-#### Artikel 8. Zee- en luchtvaart
+##### Artikel 8. Zee- en luchtvaart
 
 1. Voordelen uit de exploitatie van schepen of luchtvaartuigen in internationaal verkeer zijn slechts belastbaar in de Staat waar de plaats van de werkelijke leiding van de onderneming is gelegen.
 
@@ -180,7 +205,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 5. De bepalingen van het eerste lid zijn ook van toepassing op voordelen uit de deelneming in een „pool", een gemeenschappelijke onderneming of een internationaal agentschap.
 
-#### Artikel 9. Gelieerde ondernemingen
+##### Artikel 9. Gelieerde ondernemingen
 
 1. Indien:
 
@@ -192,7 +217,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 3. De bepalingen van het tweede lid blijven buiten toepassing in geval van fraude, grove nalatigheid of moedwillig verzuim.
 
-#### Artikel 10. Dividenden
+##### Artikel 10. Dividenden
 
 1. Dividenden betaald door een lichaam dat inwoner is van een van de Staten aan een inwoner van de andere Staat, mogen in die andere Staat worden belast.
 
@@ -210,7 +235,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 6. Indien een lichaam dat inwoner is van een van de Staten, voordelen of inkomsten verkrijgt uit de andere Staat, mag die andere Staat geen belasting heffen op de dividenden die door het lichaam worden betaald, behalve voor zover deze dividenden worden betaald aan een inwoner van die andere Staat of voor zover het aandelenbezit uit hoofde waarvan de dividenden worden betaald, tot het bedrijfsvermogen van een in die andere Staat gevestigde vaste inrichting of tot het beroepsvermogen van een aldaar gevestigd vast middelpunt behoort, noch de niet-uitgedeelde winst van het lichaam onderwerpen aan een belasting op niet-uitgedeelde winst van het lichaam, zelfs indien de betaalde dividenden of de niet-uitgedeelde winst geheel of gedeeltelijk bestaan uit voordelen of inkomsten die uit die andere Staat afkomstig zijn.
 
-#### Artikel 11. Interest
+##### Artikel 11. Interest
 
 1. Interest afkomstig uit een van de Staten en betaald aan een inwoner van de andere Staat mag in die andere Staat worden belast indien die inwoner de uiteindelijk gerechtigde tot de interest is.
 
@@ -244,7 +269,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 8. De bepalingen van dit artikel blijven buiten toepassing indien de vordering uit hoofde waarvan de interest wordt betaald, hoofdzakelijk in het leven geroepen of overgedragen was met het doel voordeel te trekken uit dit artikel. Ingeval een Staat voornemens is dit lid toe te passen, zal zijn bevoegde autoriteit van te voren met de bevoegde autoriteit van de andere Staat overleggen.
 
-#### Artikel 12. Royalty's
+##### Artikel 12. Royalty's
 
 1. Royalty's afkomstig uit een van de Staten en betaald aan een inwoner van de andere Staat mogen in die andere Staat worden belast indien die inwoner de uiteindelijk gerechtigde tot de royalty's is.
 
@@ -260,7 +285,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 7. De bepalingen van dit artikel blijven buiten toepassing, indien het recht of het eigendom ter zake waarvan de royalty is betaald, overeengekomen of overgedragen is met als voornaamste doel de voordelen van dit artikel te verkrijgen. Ingeval een Staat voornemens is dit lid toe te passen, zal zijn bevoegde autoriteit van te voren met de bevoegde autoriteit van de andere Staat overleggen.
 
-#### Artikel 13. Vermogenswinsten
+##### Artikel 13. Vermogenswinsten
 
 1. Voordelen verkregen door een inwoner van een van de Staten uit de vervreemding van onroerende zaken, zoals bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=6&z=2009-12-31&g=2009-12-31) en die zijn gelegen in de andere Staat, mogen in die andere Staat worden belast.
 
@@ -274,7 +299,7 @@ Voordelen verkregen door een inwoner van een van de Staten uit de vervreemding v
 
 5. Voordelen verkregen uit de vervreemding van alle andere goederen dan die bedoeld in het eerste, tweede, derde en vierde lid en in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=12&z=2009-12-31&g=2009-12-31) zijn slechts belastbaar in de Staat waarvan de vervreemder inwoner is.
 
-#### Artikel 14. Zelfstandige arbeid
+##### Artikel 14. Zelfstandige arbeid
 
 1. Voordelen verkregen door een inwoner van een van de Staten in de uitoefening van een vrij beroep of ter zake van andere werkzaamheden van zelfstandige aard zijn slechts in die Staat belastbaar. Deze voordelen mogen echter in de andere Staat worden belast onder de volgende omstandigheden:
 
@@ -284,7 +309,7 @@ Voordelen verkregen door een inwoner van een van de Staten uit de vervreemding v
 
 2. De uitdrukking „vrij beroep" omvat in het bijzonder zelfstandige werkzaamheden op het gebied van wetenschap, letterkunde, kunst, opvoeding of onderwijs, alsmede de zelfstandige werkzaamheden van artsen, advocaten, technici, architecten, tandartsen en accountants.
 
-#### Artikel 15. Niet-zelfstandige arbeid
+##### Artikel 15. Niet-zelfstandige arbeid
 
 1. Onder voorbehoud van de bepalingen van de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=16&z=2009-12-31&g=2009-12-31),[18](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=18&z=2009-12-31&g=2009-12-31) en [19](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=19&z=2009-12-31&g=2009-12-31) zijn salarissen, lonen en andere soortgelijke beloningen verkregen door een inwoner van een van de Staten ter zake van een dienstbetrekking slechts in die Staat belastbaar, tenzij de dienstbetrekking in de andere Staat wordt uitgeoefend. Indien de dienstbetrekking aldaar wordt uitgeoefend, mag de ter zake daarvan verkregen beloning in die andere Staat worden belast.
 
@@ -298,17 +323,17 @@ Voordelen verkregen door een inwoner van een van de Staten uit de vervreemding v
 
 3. Niettegenstaande de voorgaande bepalingen van dit artikel is de beloning verkregen door een inwoner van een van de Staten ter zake van een dienstbetrekking uitgeoefend aan boord van een schip of luchtvaartuig dat in internationaal verkeer wordt geëxploiteerd, slechts in die Staat belastbaar.
 
-#### Artikel 16. Directeursbeloningen
+##### Artikel 16. Directeursbeloningen
 
 Directeursbeloningen en andere soortgelijke beloningen verkregen door een inwoner van een van de Staten in zijn hoedanigheid van lid van de raad van beheer of de raad van toezicht dan wel in zijn hoedanigheid van, in het geval van Nederland, „bestuurder" of „commissaris" of van, in het geval van Mexico, „administrador" of „comisario" van een lichaam dat inwoner is van de andere Staat, mogen in die andere Staat worden belast.
 
-#### Artikel 17. Artiesten en sportbeoefenaars
+##### Artikel 17. Artiesten en sportbeoefenaars
 
 1. Niettegenstaande de bepalingen van de artikelen 14 en 15, mogen voordelen of inkomsten, verkregen door een inwoner van een van de Staten als artiest, zoals een toneelspeler, film-, radio- of televisie-artiest of een musicus, of als sportbeoefenaar, uit zijn persoonlijke werkzaamheden als zodanig die worden verricht in de andere Staat, worden belast in die andere Staat. Voordelen of inkomsten, verkregen door een artiest of sportbeoefenaar die inwoner is van een van de Staten, uit in de andere Staat verrichte persoonlijke werkzaamheden die verband houden met zijn naamsbekendheid, mogen in die andere Staat worden belast.
 
 2. Indien voordelen of inkomsten ter zake van persoonlijke werkzaamheden die door een artiest of een sportbeoefenaar in die hoedanigheid worden verricht, niet aan de artiest of sportbeoefenaar zelf toekomen, maar aan een andere persoon, mogen die voordelen of inkomsten, niettegenstaande de bepalingen van de artikelen 7, 14 en 15, worden belast in de Staat waarin de werkzaamheden van de artiest of sportbeoefenaar worden verricht.
 
-#### Artikel 18. Pensioenen, lijfrenten en sociale-zekerheidsuitkeringen
+##### Artikel 18. Pensioenen, lijfrenten en sociale-zekerheidsuitkeringen
 
 1. Onder voorbehoud van de bepalingen van het [tweede lid van artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=19&z=2009-12-31&g=2009-12-31) zijn pensioenen en andere soortgelijke beloningen betaald aan een inwoner van een van de Staten ter zake van een vroegere dienstbetrekking alsmede lijfrenten slechts in die Staat belastbaar.
 
@@ -318,7 +343,7 @@ Directeursbeloningen en andere soortgelijke beloningen verkregen door een inwone
 
 4. De uitdrukking „lijfrente” betekent een vaste som, periodiek betaalbaar op vaste tijdstippen, hetzij gedurende het leven, hetzij gedurende een vastgesteld of voor vaststelling vatbaar tijdvak, ingevolge een verbintenis tot het doen van betalingen, welke tegenover een voldoende en volledige tegenprestatie in geld of geldswaarde staat.
 
-#### Artikel 19. Overheidsfuncties
+##### Artikel 19. Overheidsfuncties
 
 - a. Beloningen, niet zijnde pensioenen, betaald door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon terzake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijk lichaam, zijn slechts in die Staat belastbaar.
 
@@ -334,11 +359,11 @@ Directeursbeloningen en andere soortgelijke beloningen verkregen door een inwone
 
 3. De bepalingen van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=15&z=2009-12-31&g=2009-12-31), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=16&z=2009-12-31&g=2009-12-31) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=18&z=2009-12-31&g=2009-12-31) zijn van toepassing op beloningen en pensioenen ter zake van diensten bewezen in het kader van een op winst gericht bedrijf uitgeoefend door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan.
 
-#### Artikel 20. Studenten
+##### Artikel 20. Studenten
 
 Betalingen die een student of een voor een beroep of bedrijf in opleiding zijnde persoon, die inwoner is of onmiddellijk voor zijn bezoek aan een van de Staten inwoner was van de andere Staat en die uitsluitend voor zijn studie of opleiding in de eerstbedoelde Staat verblijft, ontvangt ten behoeve van zijn onderhoud, studie of opleiding, zijn in die Staat niet belastbaar, mits deze betalingen aan hem worden gedaan uit bronnen buiten die Staat.
 
-#### Artikel 21. Overige inkomsten
+##### Artikel 21. Overige inkomsten
 
 1. Bestanddelen van het inkomen van een inwoner van een van de Staten, van waaruit ook afkomstig, die niet in de voorgaande artikelen van dit Verdrag zijn behandeld, zijn slechts in die Staat belastbaar.
 
@@ -348,7 +373,7 @@ Betalingen die een student of een voor een beroep of bedrijf in opleiding zijnde
 
 ### HOOFDSTUK IV. VERMIJDING VAN DUBBELE BELASTING
 
-#### Artikel 22. Vermijding van dubbele belasting
+##### Artikel 22. Vermijding van dubbele belasting
 
 1. Nederland is bevoegd bij het heffen van belasting van zijn inwoners in de grondslag waarnaar de belasting wordt geheven, de bestanddelen van het inkomen te begrijpen die overeenkomstig de bepalingen van dit Verdrag in Mexico mogen worden belast.
 
@@ -366,7 +391,7 @@ Betalingen die een student of een voor een beroep of bedrijf in opleiding zijnde
 
 ### HOOFDSTUK V. BIJZONDERE BEPALINGEN
 
-#### Artikel 23. Non-discriminatie
+##### Artikel 23. Non-discriminatie
 
 1. Onderdanen van een van de Staten worden in de andere Staat niet aan enige belastingheffing of daarmede verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmede verband houdende verplichtingen, waaraan onderdanen van die andere Staat onder dezelfde omstandigheden zijn of kunnen worden onderworpen. Deze bepaling is, niettegenstaande het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=I&artikel=1&z=2009-12-31&g=2009-12-31), ook van toepassing op personen die geen inwoners zijn van een van de Staten of van beide Staten.
 
@@ -386,7 +411,7 @@ Betalingen die een student of een voor een beroep of bedrijf in opleiding zijnde
 
 - c. de bevoegde autoriteit van de eerstbedoelde Staat van oordeel is dat de pensioenregeling overeenkomt met een door die Staat voor de belastingheffing erkende pensioenregeling.
 
-#### Artikel 24. Regeling voor onderling overleg
+##### Artikel 24. Regeling voor onderling overleg
 
 1. Indien een persoon van oordeel is dat de maatregelen van een van de Staten of van beide Staten voor hem leiden of zullen leiden tot een belastingheffing die niet in overeenstemming is met de bepalingen van dit Verdrag, kan hij, ongeacht de rechtsmiddelen waarin de nationale wetgeving van die Staten voorziet, zijn geval voorleggen aan de bevoegde autoriteit van de Staat waarvan hij inwoner is, of, indien zijn geval valt onder [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=V&artikel=23&z=2009-12-31&g=2009-12-31), aan die van de Staat waarvan hij onderdaan is. Het geval moet worden voorgelegd binnen drie jaar nadat de maatregel die leidt tot een belastingheffing die niet in overeenstemming is met de bepalingen van het Verdrag, voor het eerst te zijner kennis is gebracht.
 
@@ -398,7 +423,7 @@ Betalingen die een student of een voor een beroep of bedrijf in opleiding zijnde
 
 5. De bevoegde autoriteiten van de Staten kunnen in onderlinge overeenstemming de wijze van toepassing van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=10&z=2009-12-31&g=2009-12-31), [artikel 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31), [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=12&z=2009-12-31&g=2009-12-31), [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=13&z=2009-12-31&g=2009-12-31), [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=18&z=2009-12-31&g=2009-12-31), en [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=21&z=2009-12-31&g=2009-12-31), vaststellen.
 
-#### Artikel 25. Uitwisseling van inlichtingen
+##### Artikel 25. Uitwisseling van inlichtingen
 
 1. De bevoegde autoriteiten van de Staten wisselen de inlichtingen uit die naar verwachting relevant zijn voor het uitvoeren van de bepalingen van dit Verdrag of voor de administratie of de tenuitvoerlegging van de nationale wetgeving met betrekking tot belastingen van elke soort en benaming die worden geheven ten behoeve van de Staten, voor zover de heffing van die belastingen niet in strijd is met het Verdrag. De uitwisseling van inlichtingen wordt niet beperkt door de artikelen 1 en 2.
 
@@ -416,7 +441,7 @@ Betalingen die een student of een voor een beroep of bedrijf in opleiding zijnde
 
 5. De bepalingen van het derde lid mogen in geen geval zodanig worden uitgelegd dat het een van de Staten toegestaan is het verschaffen van inlichtingen te weigeren uitsluitend op grond van het feit dat de betreffende gegevens berusten bij een bank, een andere financiële instelling, een gevolmachtigde, of een persoon die bij wijze van vertegenwoordiging of als vertrouwenspersoon optreedt, dan wel omdat deze betrekking hebben op eigendomsbelangen in een persoon.
 
-#### Artikel 26. Bijstand bij de invordering van belastingen
+##### Artikel 26. Bijstand bij de invordering van belastingen
 
 1. De Staten verlenen elkaar bijstand bij de invordering van belastingvorderingen. Deze bijstand wordt niet beperkt door de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=I&artikel=1&z=2009-12-31&g=2009-12-31) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=I&artikel=2&z=2009-12-31&g=2009-12-31). De bevoegde autoriteiten van de Staten regelen in onderlinge overeenstemming de wijze van toepassing van dit artikel.
 
@@ -448,19 +473,19 @@ zal de bevoegde autoriteit van de eerstbedoelde Staat de bevoegde autoriteit van
 
 - d. bijstand te verlenen in gevallen waarin de administratieve last voor die Staat kennelijk niet in verhouding staat tot het voordeel te behalen door de andere Staat.
 
-#### Artikel 27. Diplomatieke en consulaire ambtenaren
+##### Artikel 27. Diplomatieke en consulaire ambtenaren
 
 De bepalingen van dit Verdrag tasten in geen enkel opzicht de fiscale voorrechten aan die diplomatieke of consulaire ambtenaren ontlenen aan de algemene regels van het volkenrecht of aan de bepalingen van bijzondere overeenkomsten.
 
 ### HOOFDSTUK VI. SLOTBEPALINGEN
 
-#### Artikel 28. Uitbreiding tot andere gebieden
+##### Artikel 28. Uitbreiding tot andere gebieden
 
 1. Dit Verdrag kan, hetzij in haar geheel, hetzij met de noodzakelijke wijzigingen, worden uitgebreid tot de Nederlandse Antillen of Aruba of beide, indien het betrokken land belastingen heft die in wezen gelijksoortig zijn aan de belastingen waarop het Verdrag van toepassing is. Zulk een uitbreiding wordt van kracht met ingang van een datum en met inachtneming van wijzigingen en voorwaarden, waaronder begrepen voorwaarden ten aanzien van de beëindiging, nader vast te stellen en overeen te komen bij diplomatieke-notawisseling.
 
 2. Ten zij anders is overeengekomen, brengt de beëindiging van het Verdrag niet met zich mede, dat tevens de uitbreiding van het Verdrag tot enig land waartoe zij ingevolge dit artikel is uitgebreid, wordt beëindigd.
 
-#### Artikel 29. Inwerkingtreding
+##### Artikel 29. Inwerkingtreding
 
 1. Dit Verdrag dient te worden bekrachtigd in overeenstemming met de toepasselijke procedures in elk van de Staten en de akten van bekrachtiging worden zo spoedig mogelijk te Mexico Stad uitgewisseld.
 
@@ -468,55 +493,55 @@ De bepalingen van dit Verdrag tasten in geen enkel opzicht de fiscale voorrechte
 
 3. De bestaande Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Mexicaanse Staten inzake het vermijden van dubbele belasting naar het inkomen verkregen uit de exploitatie van schepen in het internationale verkeer, welke tot stand is gekomen bij briefwisseling van 18 oktober 1984 te 's-Gravenhage, eindigt bij het in werking treden van dit Verdrag. De bepalingen van de genoemde Overeenkomst blijven evenwel van toepassing totdat de bepalingen van dit Verdrag, in overeenstemming met de bepalingen van het tweede lid van dit artikel, van kracht worden.
 
-#### I. Algemeen
+##### I. Algemeen
 
 De voordelen uit dit Verdrag zijn niet van toepassing op lichamen of andere personen die geheel of gedeeltelijk van belasting zijn vrijgesteld uit hoofde van een bijzondere regeling krachtens de wetten of bestuurlijke praktijken van een van de Staten. Een bijzondere regeling als bedoeld in de eerste volzin van deze bepaling wordt uitsluitend als zodanig beschouwd nadat de bevoegde autoriteiten van de Staten in onderling overleg hebben besloten dat hiervan sprake is.
 
-#### II. Ad [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=I&artikel=1&z=2009-12-31&g=2009-12-31), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31) en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=V&artikel=23&z=2009-12-31&g=2009-12-31)
+##### II. Ad [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=I&artikel=1&z=2009-12-31&g=2009-12-31), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31) en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=V&artikel=23&z=2009-12-31&g=2009-12-31)
 
 Het is wel verstaan dat voor de toepassing van dit Verdrag een pensioenfonds dat als zodanig erkend is in een van de Staten en waarvan het inkomen in het algemeen is vrijgesteld van belasting in die Staat, beschouwd zal worden als inwoner van die Staat. Als zulk een pensioenfonds zal worden beschouwd in het geval van Nederland elk pensioenfonds dat erkend is en volgens wettelijke bepalingen onder toezicht staat en in het geval van Mexico elk op grond van artikel 28 van de Mexicaanse wet op de inkomstenbelasting in het leven geroepen pensioenfonds.
 
-#### III. Ad [artikel 3, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=II&artikel=3&z=2009-12-31&g=2009-12-31)
+##### III. Ad [artikel 3, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=II&artikel=3&z=2009-12-31&g=2009-12-31)
 
 Het is wel verstaan dat de uitdrukkingen „Nederland” en „Mexico” de exclusieve economische zone omvatten waarbinnen Nederland of Mexico, naar gelang het geval, soevereine rechten mogen uitoefenen in overeenstemming met hun nationale recht en het internationale recht, indien Nederland of Mexico in hun wetgeving zulk een zone hebben aangemerkt of zullen aanmerken en daarbinnen heffingsrechten uitoefenen of zullen uitoefenen.
 
-#### IV. Ad [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=II&artikel=4&z=2009-12-31&g=2009-12-31)
+##### IV. Ad [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=II&artikel=4&z=2009-12-31&g=2009-12-31)
 
 1. Voor de toepassing van artikel 4, derde lid, is de plaats van de werkelijke leiding de plaats waar de belangrijke besluiten op bestuurlijk en commercieel gebied die nodig zijn voor het uitoefenen van het bedrijf van het lichaam hoofdzakelijk worden genomen. De reden voor de keuze van de plaats van de werkelijke leiding wordt in dit opzicht niet in aanmerking genomen. De plaats van de werkelijke leiding als bedoeld in artikel 4, derde lid, is gewoonlijk de plaats waar de persoon of groep van personen met de hoogste senioriteit (een raad van beheer bijvoorbeeld) zijn besluiten neemt; de plaats waar de maatregelen die het lichaam als geheel neemt, worden vastgesteld.
 
 2. Wanneer een raad van beheer de belangrijke besluiten op bestuurlijk en commercieel gebied die nodig zijn voor het uitoefenen van het bedrijf van het lichaam formaliseert tijdens in een van de Staten gehouden bijeenkomsten, maar de besluiten hoofdzakelijk worden genomen in de andere Staat, is de plaats van de werkelijke leiding in die andere Staat gelegen.
 
-#### V. Ad [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=II&artikel=4&z=2009-12-31&g=2009-12-31)
+##### V. Ad [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=II&artikel=4&z=2009-12-31&g=2009-12-31)
 
 Een natuurlijke persoon die aan boord van een schip woont zonder een werkelijke woonplaats in een van de Staten te hebben, wordt geacht inwoner te zijn van de Staat waarin het schip zijn thuishaven heeft.
 
-#### VI. Ad [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=II&artikel=5&z=2009-12-31&g=2009-12-31)
+##### VI. Ad [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=II&artikel=5&z=2009-12-31&g=2009-12-31)
 
 Het is wel te verstaan dat een persoon die hoofdzakelijk onderhandelt over essentiële onderdelen van een overeenkomst namens een onderneming wordt geacht de bevoegdheid namens die onderneming overeenkomsten te sluiten in de zin van deze bepaling uit te oefenen, zelfs al dient de overeenkomst nog door een andere persoon te worden goedgekeurd of formeel te worden ondertekend.
 
-#### VII. Ad [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=7&z=2009-12-31&g=2009-12-31)
+##### VII. Ad [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=7&z=2009-12-31&g=2009-12-31)
 
 1. Met betrekking tot [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=7&z=2009-12-31&g=2009-12-31), kunnen voordelen behaald met de verkoop van goederen of koopwaar van dezelfde of soortgelijke aard als die welke worden verkocht, of met andere bedrijfsactiviteiten van dezelfde of soortgelijke aard als die welke worden verricht door middel van een vaste inrichting, worden geacht toerekenbaar te zijn aan die vaste inrichting, indien wordt aangetoond dat tot deze transactie is overgegaan teneinde in de Staat waarin de vaste inrichting is gevestigd belastingheffing te vermijden. Tenzij door de belastingplichtige voldoende tegenbewijs wordt geleverd, wordt zulk een vermijding van belastingheffing aangenomen in gevallen waarin het proces van de verkoop voor het merendeel uitgevoerd is door de vaste inrichting.
 
 2. Het is wel te verstaan dat in het geval van voordelen uit toezicht, leverings-, installatie- of constructiewerkzaamheden alleen dat deel daarvan aan een vaste inrichting is toe te rekenen dat voortvloeit uit functies verricht in, vermogensbestanddelen gebruikt en risico’s aangegaan door of door middel van de vaste inrichting.
 
-#### VIII. Ad [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=7&z=2009-12-31&g=2009-12-31), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=12&z=2009-12-31&g=2009-12-31) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=14&z=2009-12-31&g=2009-12-31)
+##### VIII. Ad [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=7&z=2009-12-31&g=2009-12-31), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=12&z=2009-12-31&g=2009-12-31) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=14&z=2009-12-31&g=2009-12-31)
 
 Vergoedingen, van welke aard ook, voor technische diensten, waaronder begrepen studies of toezichthoudende werkzaamheden van wetenschappelijke, geologische of technische aard, of voor contracten inzake bouw- en constructiewerkzaamheden met inbegrip van de daartoe behorende blauwdrukken, dan wel voor diensten van raadgevende of toezichthoudende aard worden aangemerkt als vergoedingen waarop de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=7&z=2009-12-31&g=2009-12-31) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=14&z=2009-12-31&g=2009-12-31), naar gelang van het geval, van toepassing zijn, in zoverre als zulke vergoedingen niet beschouwd kunnen worden als beloningen voor de overdracht van inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap („know-how”).
 
-#### IX. Ad [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=9&z=2009-12-31&g=2009-12-31)
+##### IX. Ad [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=9&z=2009-12-31&g=2009-12-31)
 
 Het is wel verstaan, dat de omstandigheid dat gelieerde ondernemingen overeenkomsten hebben afgesloten, zoals „cost-sharing”-overeenkomsten of algemene dienstverleningsovereenkomsten, voor of gebaseerd op de toerekening van de kosten van de leiding, de algemene beheerskosten, de technische en zakelijke kosten, kosten voor onderzoek en ontwikkeling en andere soortgelijke kosten, op zichzelf geen voorwaarde is als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=9&z=2009-12-31&g=2009-12-31).
 
-#### X. Ad [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=10&z=2009-12-31&g=2009-12-31)
+##### X. Ad [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=10&z=2009-12-31&g=2009-12-31)
 
 Niettegenstaande de bepalingen van [artikel 10, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=10&z=2009-12-31&g=2009-12-31), zijn, zolang een lichaam dat inwoner is van Nederland, op grond van de Wet op de vennootschapsbelasting en toekomstige wijzigingen daarop, niet aan de Nederlandse vennootschapsbelasting wordt onderworpen ter zake van dividenden ontvangen van een lichaam dat inwoner is van Mexico, de dividenden welke zijn genoemd in dit onderdeel slechts belastbaar in die Staat waarvan de ontvanger van de dividenden inwoner is.
 
-#### XI. Ad [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=10&z=2009-12-31&g=2009-12-31), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=12&z=2009-12-31&g=2009-12-31)
+##### XI. Ad [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=10&z=2009-12-31&g=2009-12-31), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=12&z=2009-12-31&g=2009-12-31)
 
 Indien aan de bron belasting is geheven die het belastingbedrag dat ingevolge de bepalingen van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=10&z=2009-12-31&g=2009-12-31),[11](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31) of [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=12&z=2009-12-31&g=2009-12-31) mag worden geheven te boven gaat, moeten verzoeken om teruggaaf van het daarboven uitgaande belastingbedrag worden ingediend bij de bevoegde autoriteit van de Staat die de belasting heeft geheven, binnen een tijdvak van drie jaren na afloop van het kalenderjaar waarin de belasting is geheven.
 
-#### XII. Ad [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31)
+##### XII. Ad [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31)
 
 1. Voor de toepassing van het Verdrag betekent de uitdrukking „erkende effectenbeurs”:
 
@@ -544,11 +569,11 @@ Indien aan de bron belasting is geheven die het belastingbedrag dat ingevolge de
 
 - f. inkomsten verkregen uit de vervreemding na aftrek van waardepapieren die een schuld vertegenwoordigen.
 
-#### XIII. Ad [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=12&z=2009-12-31&g=2009-12-31)
+##### XIII. Ad [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=12&z=2009-12-31&g=2009-12-31)
 
 Het is wel verstaan dat voor de toepassing van [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31), en van [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=12&z=2009-12-31&g=2009-12-31), indien een lening door het hoofdkantoor van een onderneming van een van de Staten is afgesloten en slechts een gedeelte van die lening kan worden toegerekend aan een vaste inrichting van die onderneming in de andere Staat, of indien een contract op grond waarvan royalty's worden betaald, is gesloten door het hoofdkantoor en slechts een deel van dat contract toegerekend kan worden aan de vaste inrichting, zulk een lening of contract voor dat gedeelte beschouwd wordt als een schuldvordering of een overeenkomst van de vaste inrichting.
 
-#### XIV. Ad [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=13&z=2009-12-31&g=2009-12-31)
+##### XIV. Ad [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=13&z=2009-12-31&g=2009-12-31)
 
 1. Voor de toepassing van [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=13&z=2009-12-31&g=2009-12-31), zijn voordelen verkregen uit de vervreemding van aandelen van een lichaam dat inwoner is van een van de Staten slechts in de andere Staat belastbaar indien:
 
@@ -590,27 +615,27 @@ GEDAAN te 's-Gravenhage, de 27 september 1993, in tweevoud in de Nederlandse en 
 
 ### HOOFDSTUK VI. SLOTBEPALINGEN
 
-#### Artikel 30. Beëindiging
+##### Artikel 30. Beëindiging
 
 Dit Verdrag blijft van kracht totdat zij door een van de Verdragsluitende Partijen wordt beëindigd. Elk van de Partijen kan het Verdrag langs diplomatieke weg beëindigen door ten minste zes maanden voor het einde van enig kalenderjaar na het verstrijken van een periode van vijf jaren na de datum van inwerkingtreding van het Verdrag kennis te geven van de beëindiging. In dat geval houdt het Verdrag op van toepassing te zijn voor belastingjaren en -tijdvakken die aanvangen na het einde van het kalenderjaar waarin kennis van de beëindiging is gegeven.
 
-#### XV. Ad [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=16&z=2009-12-31&g=2009-12-31)
+##### XV. Ad [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=16&z=2009-12-31&g=2009-12-31)
 
 Het is wel verstaan dat met „bestuurder” of „commissaris”, in geval van Nederland, of „administrador” of „comisario”, in geval van Mexico, personen zijn bedoeld die als zodanig zijn benoemd door de algemene vergadering van aandeelhouders of door enig ander bevoegd orgaan van het lichaam en die belast zijn met de algemene leiding van het lichaam, onderscheidenlijk met het toezicht daarop.
 
-#### XVI. Ad [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=19&z=2009-12-31&g=2009-12-31)
+##### XVI. Ad [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=19&z=2009-12-31&g=2009-12-31)
 
 Het is wel verstaan dat de bepalingen van [artikel 19, eerste lid, onderdeel a, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=19&z=2009-12-31&g=2009-12-31), Nederland niet beletten de bepalingen van [artikel 22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=IV&artikel=22&z=2009-12-31&g=2009-12-31), toe te passen.
 
-#### XVII. Ad [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=V&artikel=24&z=2009-12-31&g=2009-12-31)
+##### XVII. Ad [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=V&artikel=24&z=2009-12-31&g=2009-12-31)
 
 Indien na 11 oktober 2007, in een Verdrag tot het vermijden van dubbele belasting gesloten tussen Mexico en een derde Staat, Mexico instemt met een bepaling inzake arbitrage die in wezen gelijk is aan de bepaling inzake arbitrage in het OESO-modelverdrag inzake belastingen, is een dergelijke bepaling automatisch van toepassing tussen Nederland en Mexico vanaf de datum waarop het Verdrag tussen Mexico en de derde Staat in werking treedt.
 
-#### XVIII. Ad [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=V&artikel=23&z=2009-12-31&g=2009-12-31)
+##### XVIII. Ad [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=V&artikel=23&z=2009-12-31&g=2009-12-31)
 
 Het is wel verstaan dat de bepalingen van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=V&artikel=25&z=2009-12-31&g=2009-12-31) van dit Verdrag een „overeenkomst voor een brede uitwisseling van informatie” vormen met het oog op het doen van een geconsolideerde belastingaangifte in overeenstemming met de bepalingen van de Mexicaanse wet op de inkomstenbelasting. In dit verband is het wel verstaan dat een lichaam dat inwoner van Mexico is en waarvan het kapitaal geheel of hoofdzakelijk in handen is van inwoners van Nederland, gerechtigd is in Mexico de bepalingen inzake fiscale consolidatie toe te passen met betrekking tot zijn gelieerde ondernemingen die in Mexico gevestigd zijn, in gelijke mate als, in overeenstemming met de Mexicaanse wetgeving, een lichaam dat inwoner van Mexico is en waarvan het kapitaal geheel of hoofdzakelijk in handen is van inwoners van Mexico, gerechtigd is tot die bepalingen.
 
-#### XIX. Ad [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=V&artikel=25&z=2009-12-31&g=2009-12-31)
+##### XIX. Ad [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=V&artikel=25&z=2009-12-31&g=2009-12-31)
 
 De bevoegde autoriteiten kunnen door middel van een Memorandum van Overeenstemming de reikwijdte van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=V&artikel=25&z=2009-12-31&g=2009-12-31) van het Verdrag uitbreiden tot inkomensgerelateerde regelingen.
 

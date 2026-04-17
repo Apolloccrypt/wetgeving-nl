@@ -1,18 +1,43 @@
 ---
 title: "Wet op het notarisambt BES"
 identifier: "BWBR0028457"
-categorie: "Overig"
-publicatiedatum: 2015-07-01
-laatste_update: 2015-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028457"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2015-07-01"
+last_updated: "2015-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028457"
+soort: "wet-BES"
+stam_id: "10791483"
+version_id: "17770432"
+internal_id: "C24747311"
+label_id: "10766994"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028457/2015-07-01/0"
+intitule_bron: "Stb.2010-516"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-14"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-516"
+original_signed_date: "2010-09-14"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-516"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028457&z=2015-07-01&g=2015-07-01"
+jci_1_0: "1.0:c:BWBR0028457&g=2015-07-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-14"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet op het notarisambt BES
 
 ### Hoofdstuk I. Algemene Bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -22,7 +47,7 @@ In deze wet wordt verstaan onder:
 
 - c. **stageverklaring:** de verklaring van de volbrachte werktijd van drie jaar, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=II&artikel=9&z=2015-07-01&g=2015-07-01).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Notaris is de openbare ambtenaar die, voor zover uit een wet niet het tegendeel blijkt, met uitsluiting van ieder ander bevoegd is tot het verlijden van authentieke akten en het verzekeren van de dagtekening en het tijdstip daarvan.
 
@@ -40,7 +65,7 @@ In deze wet wordt verstaan onder:
 
 3. Tot het voeren van de titel notaris is uitsluitend bevoegd hij die als zodanig benoemd en beëdigd is.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De notaris wordt bij koninklijk besluit voor het leven benoemd.
 
@@ -48,7 +73,7 @@ In deze wet wordt verstaan onder:
 
 3. Aan de notaris die voor het bereiken van de in het tweede lid genoemde leeftijd ontslag verzoekt, wordt ontslag verleend bij koninklijk besluit, dat tevens de datum van ingang van het ontslag vermeldt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In het besluit van de benoeming wordt het openbaar lichaam, waarbinnen de notaris zijn ambt uitoefent, als standplaats aangewezen. Indien het Saba en Sint Eustatius betreft, worden beide openbare lichamen genoemd als standplaats.
 
@@ -58,7 +83,7 @@ In deze wet wordt verstaan onder:
 
 4. De notaris moet binnen zijn standplaats wonen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het is de notaris verboden zijn ambt uit te oefenen in een samenwerkingsverband met een of meer notarissen of met een of meer andere vrije beroepsbeoefenaren, tenzij de Kamer van Toezicht op een daartoe strekkend verzoek van de notaris die een dergelijk samenwerkingsverband wenst aan te gaan, ontheffing heeft verleend voor de ambtsuitoefening in bedoeld samenwerkingsverband.
 
@@ -68,7 +93,7 @@ In deze wet wordt verstaan onder:
 
 4. De Kamer van Toezicht kan de ontheffing intrekken, indien de voorschriften of beperkingen niet of niet genoegzaam worden nageleefd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De notaris mag zonder gegronde redenen zijn dienst niet weigeren.
 
@@ -76,7 +101,7 @@ In deze wet wordt verstaan onder:
 
 3. Hij is voorts verplicht om, op last van de rechter in eerste aanleg van zijn standplaats, zijn dienst kosteloos te verlenen aan personen die, op de wijze in [artikel 878 van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=878) vermeld, van hun onvermogen doen blijken.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De notaris doet binnen een maand na zijn eedsaflegging aan de Kamer van Toezicht opgave van zijn al dan niet bezoldigde nevenbetrekkingen. Indien hij een dergelijke nevenbetrekking aanvaardt of beëindigt doet hij daarvan terstond aan de Kamer van Toezicht opgave. De Kamer van Toezicht houdt een register bij waarin van iedere notaris de nevenbetrekkingen zijn vermeld. Het register ligt bij de secretaris van de Kamer van Toezicht voor een ieder kosteloos ter inzage.
 
@@ -90,13 +115,13 @@ In deze wet wordt verstaan onder:
 
 ### Hoofdstuk II. Benoembaarheid, sollicitatieprocedure en benoeming
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voor de benoembaarheid is vereist een stageverklaring, tenzij het een herbenoeming van een eervol ontslagen notaris betreft, dan wel de benoeming van een notaris op een standplaats in een ander openbaar lichaam.
 
 2. Onze Minister kan van het vereiste over een stageverklaring te beschikken ontheffing verlenen, indien op een andere wijze blijkt dat de kwaliteit van de dienstverlening is geborgd. Bij het verlenen van de ontheffing kunnen aanwijzingen en voorschriften worden gegeven met het oog op het waarborgen van deze kwaliteit.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Wanneer Onze Minister een nieuwe standplaats dan wel een opengevallen standplaats besluit te vervullen, stelt hij de gelegenheid open om binnen twee maanden te verzoeken om tot notaris te worden benoemd.
 
@@ -112,7 +137,7 @@ In deze wet wordt verstaan onder:
 
 - d. verklaring of verklaringen van de volbrachte werktijd van drie jaar op een notaris-kantoor in Curaçao, Sint Maarten, of op Bonaire, Sint Eustatius of Saba, afgegeven door de notaris of notarissen bij wie de belanghebbende werkzaam is geweest, bevestigd door de Voorzitter van de Kamer van Toezicht.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Nadat de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=II&artikel=9&z=2015-07-01&g=2015-07-01), bedoelde termijn is verstreken, nodigt Onze Minister het Hof van Justitie uit een aanbeveling voor de benoeming te doen uit de sollicitanten.
 
@@ -120,7 +145,7 @@ In deze wet wordt verstaan onder:
 
 3. Onze Minister neemt bij de benoeming zoveel mogelijk de aanbevelingen van het Hof van Justitie in acht.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De notaris moet binnen twee maanden na de dag waarop zijn benoeming ingaat, voor de rechter in eerste aanleg van zijn standplaats, naar de wijze van zijn godsdienstige gezindheid, de navolgende eed of belofte en verklaring afleggen:
 
@@ -142,19 +167,19 @@ en (ik verklaar) dat ik voorts middellijk noch onmiddellijk onder enige naam of 
 
 6. Indien de nieuwbenoemde notaris de waarnemer is van een vacant kantoor, begint zijn bevoegdheid terstond na de eedsaflegging.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Tenzij de notaris op een nieuwe standplaats is benoemd, geeft hij ten minste vijf dagen vóór de eedsaflegging van zijn voornemen daartoe bij aangetekende brief kennis aan de de fungerende notaris of aan degene die het vacante kantoor waarneemt, onder opgave van de datum op welke hij de eed zal afleggen.
 
 2. De griffier van het Gerecht in eerste aanleg is gehouden de waarnemer op de dag van het afleggen van de eed onverwijld van dit feit in kennis te stellen.
 
-#### Artikel 13
+##### Artikel 13
 
 Binnen een week na de eedsaflegging legt de notaris, hetzij in persoon, hetzij door een schriftelijk gemachtigde, zijn handtekening en paraaf neer ter griffie van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba.
 
 ### Hoofdstuk III. Kandidaat-notaris
 
-#### Artikel 14
+##### Artikel 14
 
 Kandidaat-notaris is hij die:
 
@@ -164,7 +189,7 @@ Kandidaat-notaris is hij die:
 
 - c. en tevens werkzaam is op het kantoor van een notaris.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Hij die een betrekking als kandidaat-notaris ten kantore van een notaris heeft aanvaard, geeft hiervan, onder overlegging van het getuigschrift van het door hem afgelegde examen, kennis aan de President van het Hof van Justitie en aan de Voorzitter van de Kamer van Toezicht.
 
@@ -184,7 +209,7 @@ Kandidaat-notaris is hij die:
 
 ### Hoofdstuk IV. Waarneming
 
-#### Artikel 16
+##### Artikel 16
 
 1. De notaris die tijdelijk van zijn ambtsbediening wil worden ontheven, kan daartoe verlof vragen aan de President van het Hof van Justitie.
 
@@ -192,7 +217,7 @@ Kandidaat-notaris is hij die:
 
 3. Op verzoek van de notaris kan het verlof te allen tijde worden ingetrokken, waarvan de notaris en de waarnemer, indien deze is aangewezen, onverwijld in kennis worden gesteld.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De President van het Hof van Justitie wijst een waarnemer voor een notaris aan:
 
@@ -212,19 +237,19 @@ Kandidaat-notaris is hij die:
 
 4. Zolang de waarnemer bevoegd is, mag de notaris zijn ambtsbediening niet uitoefenen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Voor de aanwijzing tot waarnemer komt in aanmerking een ieder die aan de vereisten voor de benoeming tot notaris voldoet. In bijzondere omstandigheden, ter beoordeling door de President van het Hof van Justitie, kan een persoon die niet aan de vereisten voldoet, als waarnemer worden aangewezen.
 
 2. Hij die als waarnemer is aangewezen, is, behoudens bijzondere gevallen, ter beoordeling door de President van het Hof van Justitie, verplicht aan de aanwijzing gevolg te geven.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Indien de waarneming geschiedt op verzoek van de notaris, kan deze een waarnemer voordragen.
 
 2. Wordt de voorgedragene aangewezen, dan is de notaris, onverminderd zijn verhaal op de waarnemer voor de handelingen door de waarnemer als zodanig verricht, tegenover derden hoofdelijk met hem aansprakelijk.
 
-#### Artikel 20
+##### Artikel 20
 
 1. In de beschikking van de President van het Hof van Justitie tot aanwijzing als waarnemer wordt de datum waarop de waarneming dient in te gaan, uitdrukkelijk vermeld.
 
@@ -242,25 +267,25 @@ en dat ik de wettelijk voorgeschreven geheimhouding in acht zal nemen».
 
 5. Bij verzuim van tijdige aflegging van de eed geldt de aanwijzing tot waarnemer als ingetrokken.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien de waarnemer reeds beëdigd is, begint de waarneming op het tijdstip in de beschikking van de President van het Hof van Justitie uitgedrukt.
 
 2. Indien de eedsaflegging plaatsvindt na het in het eerste lid bedoelde tijdstip, begint de waarneming op de dag, volgend op die van de eedsaflegging.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De waarnemer heeft, zolang de waarneming duurt, de aan de notaris toegekende bevoegdheden.
 
 2. Hij is onderworpen aan de verplichtingen die de notaris als zodanig heeft, voor zover in deze wet niet uitdrukkelijk anders is bepaald.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Binnen een week nadat de waarneming is ingegaan, legt de waarnemer hetzij in persoon, hetzij door een schriftelijk gemachtigde, zijn handtekening en paraaf neer ter griffie van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba.
 
 2. Het bepaalde in het eerste lid is niet van toepassing, indien een neerlegging van handtekening en paraaf bij die griffie reeds heeft plaatsgevonden.
 
-#### Artikel 24
+##### Artikel 24
 
 De President van het Hof van Justitie beëindigt de waarneming:
 
@@ -270,7 +295,7 @@ De President van het Hof van Justitie beëindigt de waarneming:
 
 - c. indien de waarnemer door aanhoudende geestes- of lichaamsziekte ongeschikt is voor de uitoefening van zijn ambt.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De President van het Hof van Justitie kan op verzoek van de waarnemer een waarneming beëindigen en zo nodig een andere waarnemer aanwijzen.
 
@@ -278,7 +303,7 @@ De President van het Hof van Justitie beëindigt de waarneming:
 
 ### Hoofdstuk V. De akten en hun vorm, de minuten, grossen, afschriften en repertoria
 
-#### Artikel 26
+##### Artikel 26
 
 1. De notaris mag geen akte verlijden waarin hijzelf, zijn echtgenoot of een bloed- of aanverwant tot en met de derde graad hetzij in persoon of door een vertegenwoordiger, als partij optreedt. Evenmin mag de notaris een akte verlijden waarin hijzelf, zijn echtgenoot of een bloed- of aanverwant tot en met de derde graad als vertegenwoordiger optreedt voor een partij bij die akte. Hetzelfde geldt met betrekking tot een akte waarbij een rechtspersoon als partij of vertegenwoordiger optreedt:
 
@@ -292,7 +317,7 @@ De President van het Hof van Justitie beëindigt de waarneming:
 
 4. Het bepaalde in het eerste lid geldt voor de waarnemer tevens ten opzichte van de notaris wiens ambt hij waarneemt en diens echtgenoot.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De notariële akte mag geen beschikkingen of bepalingen inhouden ten voordele van de notaris te wiens overstaan zij is verleden, van de getuigen, van de echtgenoot van de notaris, van de echtgenoten van de getuigen en van de bloed- of aanverwanten van de notaris of de getuigen in de rechte linie zonder onderscheid van graden en in de zijlinie tot en met de derde graad. Hetgeen hiermee in strijd is, wordt voor niet geschreven gehouden; voor het overige blijft de akte geldig.
 
@@ -300,7 +325,7 @@ De President van het Hof van Justitie beëindigt de waarneming:
 
 3. Door het bepaalde in dit artikel wordt geen verandering gebracht in de voorschriften van het [Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028746) omtrent uiterste willen.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De akte wordt verleden door een notaris en, waar de wettelijke regelingen dit eisen, in tegenwoordigheid van getuigen.
 
@@ -310,7 +335,7 @@ De President van het Hof van Justitie beëindigt de waarneming:
 
 4. De getuigen moeten de notaris bekend zijn, of hun identiteit en bevoegdheid aan hem, door een of meer van de verschijnende personen verklaard zijn, en daarvan moet in de akte melding gemaakt worden. Zij moeten meerderjarig en ingezetenen van de openbare lichamen Bonaire, Sint Eustatius of Saba zijn, hun handtekening kunnen plaatsen en de taal verstaan, waarin de akte verleden wordt.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Onverminderd de bepalingen van het [Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028746) mogen de echtgenoot of bloed- of aanverwanten hetzij van de notaris, hetzij van de partijen, tot en met de derde graad in beide linies, niet als getuigen optreden.
 
@@ -320,13 +345,13 @@ De President van het Hof van Justitie beëindigt de waarneming:
 
 4. In geval van overtreding van dit artikel of van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=28&z=2015-07-01&g=2015-07-01) mist de akte authenticiteit en voldoet zij niet aan de voorschriften waarin de vorm van een notariële akte wordt geëist, een en ander behoudens het geval van verzuim van de in artikel 28, derde of vierde lid, voorgeschreven vermeldingen.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De verschijnende personen moeten de notaris bekend zijn of worden bekend gemaakt door twee getuigen, die aan alle vereisten voldoen om bij notariële akten als zodanig op te treden, met dien verstande dat bloed- of aanverwantschap met de bekend gemaakte personen geen reden van uitsluiting oplevert.
 
 2. Van een en ander moet in de akte uitdrukkelijk melding worden gemaakt.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De akte vermeldt in ieder geval de naam, de voornamen en de standplaats van de notaris die de akte verlijdt en, in geval van waarneming, behalve de vorengenoemde gegevens van de waarnemer, met uitzondering van de standplaats, ook die van de notaris tot wiens protocol de akte behoort.
 
@@ -348,7 +373,7 @@ Indien opgave van één of meer van deze gegevens niet mogelijk is, worden de re
 
 4. Indien de akte de plaats, het jaar, de maand of de dag niet vermeld, mist zij authenticiteit en voldoet zij niet aan de voorschriften waarin de vorm van een notariële akte wordt geëist.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De notariële akte moet leesbaar, in onafgebroken samenhang, zonder afkortingen, witte vakken, gapingen of tussenruimten worden geschreven of op andere wijze duurzaam op het materiaal gesteld; de noodzakelijk opengebleven onbeschreven vakken in de akte moeten vóór de ondertekening door een of meer duidelijke inktstrepen voor verdere beschrijving onbruikbaar gemaakt worden; alle getallen ter bepaling van de hoeveelheid of de hoegrootheid der zaken, welke in de akte worden vermeld, alsmede de dagtekening, moeten in schrijfletters worden uitgedrukt, maar kunnen daarvoor of daarna in cijfers worden gesteld.
 
@@ -360,7 +385,7 @@ Indien opgave van één of meer van deze gegevens niet mogelijk is, worden de re
 
 5. Algemeen gebruikelijke afkortingen van academische en andere titels, aanduidingen van voornamen van gevolmachtigden alleen door de eerste letters van die voornamen, en kortere aanduidingen die in de akte volledig worden gedefinierd, zijn toegestaan.
 
-#### Artikel 33
+##### Artikel 33
 
 1. De akte wordt verleden in de taal, welke partijen verkiezen, mits de notaris en de getuigen, indien deze vereist zijn, deze verstaan en geen wettelijke regeling zich tegen de verkozen taal verzet.
 
@@ -368,7 +393,7 @@ Indien opgave van één of meer van deze gegevens niet mogelijk is, worden de re
 
 3. De door de notaris aangewezen andere vertaler, bedoeld in het tweede lid, moet vooraf tegenover de notaris, naar de wijze van zijn godsdienstige gezindheid, de eed afleggen of de belofte doen zijn taak naar geweten te zullen vervullen.
 
-#### Artikel 34
+##### Artikel 34
 
 1. De verschijnende personen worden vóór of tijdens het verlijden van de akte in de gelegenheid gesteld kennis te nemen van de woordelijke inhoud van de akte.
 
@@ -400,17 +425,17 @@ Indien opgave van één of meer van deze gegevens niet mogelijk is, worden de re
 
 12. In geval van overtreding van het vierde, vijfde, achtste, negende, tiende of elfde lid mist de akte authenciteit en voldoet zij niet aan de voorschriften waarin de vorm van een notariële akte wordt geëist.
 
-#### Artikel 35
+##### Artikel 35
 
 Wanneer bij het verlijden van een akte van boedelbeschrijving, openbare verkoop, verhuur, verpachting of aanbesteding of bij een andere akte die niet wordt opgemaakt tot bewijs van de verklaringen van de verschijnende personen, maar alleen tot bewijs van handelingen of feiten die ten overstaan van de notaris tijdens het verlijden van de akte plaats hebben, een of meer van de verschijnende personen weigeren te tekenen of zich vóór de sluiting van de akte hebben verwijderd zonder ondertekening, heeft de akte niettemin kracht van authentiek geschrift. Indien deze omstandigheid zich voordoet en de reden van de weigering om te tekenen wordt opgegeven, moet daarvan uitdrukkelijk in de akte melding worden gemaakt.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De volmachten waaraan de verschijnende personen hun bevoegdheid ontlenen, worden aan de minuten gehecht. Indien de verschijnende personen krachtens mondelinge volmacht handelen, wordt dat in de akte vermeld.
 
 2. De notaris verklaart in de akte dat hem van het bestaan van de volmacht genoegzaam is gebleken. Indien hij het bestaan van een mondelinge volmacht niet genoegzaam gebleken acht, kan hij overlegging van een schriftelijke volmacht verlangen.
 
-#### Artikel 37
+##### Artikel 37
 
 Van de aanhechting in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=36&z=2015-07-01&g=2015-07-01) voorgeschreven, worden vrijgesteld:
 
@@ -418,7 +443,7 @@ Van de aanhechting in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR00284
 
 - 2. volmachten, welke reeds zijn gehecht aan akten die in minuut onder dezelfde notaris berusten, mits dit in de akte wordt vermeld.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Alle veranderingen en bijvoegingen worden in de marge van de akte geschreven, maar zijn alleen geldig voor zover die elk afzonderlijk door de verschijnende personen, welke de akte hebben getekend, door de notaris en door de getuigen, indien de akte in tegenwoordigheid van getuigen wordt verleden, ondertekend of geparafeerd zijn.
 
@@ -426,11 +451,11 @@ Van de aanhechting in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR00284
 
 3. Het aantal veranderde of bijgevoegde woorden, letters, cijfers en leestekens wordt bij de verandering of bijvoeging met aanduiding van de regel waarin zij voorkomen, vermeld.
 
-#### Artikel 39
+##### Artikel 39
 
 Het is niet geoorloofd om in een akte of in de veranderingen en bijvoegingen welke in de marge of vóór het slot daarvan zijn gesteld, enige overschrijving, tussenvoeging of bijvoeging van woorden, letters, cijfers en leestekens te doen, of die op de een of andere wijze te schrappen of te doen verdwijnen of andere in de plaats daarvan te stellen, op straffe van nietigheid van hetgeen over of in de plaats is geschreven en van de tussen- of bijgevoegde woorden, letters, cijfers en leestekens.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Indien de doorhaling van woorden, letters, cijfers en leestekens in een akte nodig is, geschiedt dit op zodanige wijze, dat het doorgehaalde leesbaar blijft.
 
@@ -438,19 +463,19 @@ Het is niet geoorloofd om in een akte of in de veranderingen en bijvoegingen wel
 
 3. Iedere vermelding wordt afzonderlijk, evenals de veranderingen en bijvoegingen ondertekend of geparafeerd, ofwel wordt het aantal doorgehaalde woorden, letters, cijfers en leestekens vóór het slot vermeld, mits de bladzijde en de regel worden aangeduid, waarin die voorkomen.
 
-#### Artikel 41
+##### Artikel 41
 
 De notaris is verplicht bij de vermelding krachtens [artikel 89, tweede lid, van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=89) van de titel van overdracht in de akte van levering steeds ook de geldelijke tegenprestatie te vermelden, ook al is deze voor de overdracht zonder belang. Zo met het oog op de inschrijving een uittreksel wordt afgegeven, is de notaris verplicht deze vermelding ook daarin op te nemen.
 
-#### Artikel 42
+##### Artikel 42
 
 De in de vorige artikelen van dit hoofdstuk bepaalde vormvoorschriften en geldigheidsvereisten zijn niet van toepassing op akten van uiterste wil, van bewaargeving en van terugneming, opgemaakt ingevolge de [artikelen 972 tot en met 974 van Boek 4 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&artikel=972).
 
-#### Artikel 43
+##### Artikel 43
 
 In alle akten van overdracht en van scheiding van onroerende goederen en teboekgestelde schepen en luchtvaartuigen moeten de titels van aankomst en de dagtekening, het register, het deel en het nummer van de laatste overschrijving in de openbare registers worden vermeld. Van de onbekendheid van partijen met een of meer van deze gegevens wordt in de akte melding gemaakt.
 
-#### Artikel 44
+##### Artikel 44
 
 1. De notaris is verplicht minuut op te maken van alle akten door hem verleden, bij gebreke waarvan deze geen kracht van authentieke akte bezitten.
 
@@ -460,7 +485,7 @@ In alle akten van overdracht en van scheiding van onroerende goederen en teboekg
 
 4. Een verklaring van erfrecht kan tevens onderhands worden opgemaakt.
 
-#### Artikel 44a
+##### Artikel 44a
 
 1. De [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=27&z=2015-07-01&g=2015-07-01), [31, eerste lid en tweede lid, aanhef en onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=31&z=2015-07-01&g=2015-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=32&z=2015-07-01&g=2015-07-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=33&z=2015-07-01&g=2015-07-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=38&z=2015-07-01&g=2015-07-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=39&z=2015-07-01&g=2015-07-01) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=V&artikel=40&z=2015-07-01&g=2015-07-01) zijn mede van toepassing op een verklaring van erfrecht.
 
@@ -468,11 +493,11 @@ In alle akten van overdracht en van scheiding van onroerende goederen en teboekg
 
 3. De in de vorige leden bedoelde verklaringen worden voor wat betreft de uitwendige bewijskracht en de bewijskracht van de daarin gerelateerde verrichtingen en waarnemingen van de notaris als een authentieke akte aangemerkt, tenzij krachtens een der in de vorige leden vermelde bepalingen authenticiteit ontbreekt.
 
-#### Artikel 45
+##### Artikel 45
 
 De notaris is gehouden om in geval van overlijden of afwezigverklaring van de testateur binnen veertien dagen na kennisneming daarvan, de hem bekende belanghebbenden te berichten dat uiterste wilsbeschikkingen van de overledene of afwezige onder zijn minuten berusten. Hetzelfde is van toepassing op akten waarbij een uiterste wil is herroepen, en op akten van huwelijkse voorwaarden, voor zover deze betrekking hebben op schenkingen ter zake des doods.
 
-#### Artikel 46
+##### Artikel 46
 
 1. De notaris is bevoegd tot het uitgeven van grossen, afschriften en uittreksels van de onder hem in minuut berustende notariële akten.
 
@@ -482,17 +507,17 @@ De notaris is gehouden om in geval van overlijden of afwezigverklaring van de te
 
 4. Behoudens de bij de wettelijke regelingen daaromtrent bepaalde uitzonderingen, moeten de uittreksels gelijkluidend zijn met de overgenomen gedeelten en moeten altijd het hoofd en slot van de akte alsmede de vermelding van de handelende personen, hun betrekkingen en hoedanigheden, in het uittreksel voorkomen. Aan het slot worden gesteld de woorden: «Uitgegeven voor woordelijk gelijkluidend uittreksel».
 
-#### Artikel 47
+##### Artikel 47
 
 De notaris mag, met uitzondering van een aan hem in bewaring gegeven olografische of onderhandse uiterste wil, geen minuten uit handen geven, anders dan in de gevallen bij wettelijke regelingen voorzien of krachtens rechterlijk bevel, met inachtneming van de bepalingen in het [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496) en het [Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681) voorgeschreven.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Uitgezonderd in de bij wettelijke regelingen voorziene gevallen of anders dan krachtens rechterlijk bevel mag de notaris geen grossen, afschriften of uittreksels, noch inzage of mededeling van de inhoud van de akte geven aan anderen dan onmiddellijk belanghebbende personen, hun erfgenamen of rechtverkrijgenden.
 
 2. Onze Minister kan onder door hem te stellen voorwaarden aan anderen dan de in het eerste lid bedoelde personen verlof verlenen, inzage te nemen, of afschriften of uittreksels te vorderen van akten, ouder dan zeventig jaar.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Aan iedere onmiddellijk belanghebbende bij een notariële akte en aan diens erfgenamen of rechtverkrijgenden kan daarvan een grosse worden afgegeven.
 
@@ -500,19 +525,19 @@ De notaris mag, met uitzondering van een aan hem in bewaring gegeven olografisch
 
 3. Uittreksels of gedeelten van akten mogen niet als grosse worden uitgegeven, met uitzondering echter van akten van verdeling van een gemeenschap en van processen-verbaal van openbare verkoop, verhuur, verpachting en aanbesteding, waarvan het geoorloofd is voor iedere afzonderlijke toedeling, koop, huur, pacht of aanneming, of voor alle door een en dezelfde persoon of personen gezamenlijk gedane kopen, huren, pachten of aannemingen een uittreksel als grosse uit te geven, voor zover die personen het proces-verbaal mede-ondertekend of bij verhindering verklaard hebben door daarin genoemde beletselen niet te hebben kunnen tekenen; de voorwaarden van verkoop, verhuur, verpachting of aanbesteding moeten echter voor zover zij de betrokken kopen, huren, pachten of aannemingen aangaan, in hun geheel in dit uittreksel worden opgenomen.
 
-#### Artikel 50
+##### Artikel 50
 
 1. Bij het uitgeven van elke grosse dient de notaris de datum van de uitgifte en de naam van degene op wiens verzoek dit geschiedt, op de minuut aan te tekenen en die dagtekening te paraferen.
 
 2. Het uitgeven van een volgende grosse aan dezelfde belanghebbende mag niet anders geschieden dan op de wijze, in het [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496) bepaald.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Iedere notaris moet een zegel hebben, bevattende het Koninklijk wapen en in het randschrift de eerste letters van de voornamen, de naam, het ambt en de standplaats van de notaris.
 
 2. Na verloop van zes maanden na de benoeming van een notaris moeten alle door hem uit te geven akten, grossen, afschriften en uittreksels een afdruk van dat zegel dragen en moeten alle aanhechtingen van stukken daarmee geschieden. Het zegel wordt tevens gebezigd voor de verzegeling, bedoeld in [artikel 658 van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=658).
 
-#### Artikel 52
+##### Artikel 52
 
 1. De notaris is verplicht om, hetzij zelf, hetzij door een schriftelijk gemachtigde, uiterlijk op de laatste werkdag van februari van ieder jaar ter griffie van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba over te brengen een door hem voor echt verklaard dubbel van het repertorium van de akten, welke hij gedurende het afgelopen jaar heeft verleden.
 
@@ -522,7 +547,7 @@ De notaris mag, met uitzondering van een aan hem in bewaring gegeven olografisch
 
 4. De volmachten worden aan het register vastgehecht.
 
-#### Artikel 53
+##### Artikel 53
 
 1. De notaris is verplicht binnen de eerste tien dagen van iedere maand bij de Direkteur der Belastingen in te leveren, desgewenst tegen ontvangstbewijs, in dubbel opgemaakte lijsten waarop naar volgorde van verlijden de in artikel 1, eerste lid, van de Wet op het testamentenregister BES genoemde akten die in de voorafgaande kalendermaand door hem zijn verleden of aan hem ter hand zijn gesteld, zijn ingeschreven.
 
@@ -542,13 +567,13 @@ De notaris mag, met uitzondering van een aan hem in bewaring gegeven olografisch
 
 ### Hoofdstuk VI. Toezicht
 
-#### Artikel 54
+##### Artikel 54
 
 1. Er is een Kamer van Toezicht, die het toezicht over de notarissen en de kandidaat-notarissen uitoefent.
 
 2. De Kamer van Toezicht is gevestigd in de vestigingsplaats van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba. De Kamer van Toezicht kan ook elders zitting houden.
 
-#### Artikel 55
+##### Artikel 55
 
 1. De Kamer van Toezicht is samengesteld uit:
 
@@ -584,7 +609,7 @@ De notaris mag, met uitzondering van een aan hem in bewaring gegeven olografisch
 
 8. Het archief van de Kamer van Toezicht wordt bewaard ter griffie van het Hof van Justitie.
 
-#### Artikel 56
+##### Artikel 56
 
 1. Klachten tegen notarissen of kandidaat-notarissen worden schriftelijk ingediend bij de Voorzitter van de Kamer van Toezicht. Deze kan de klager en de notaris of kandidaat-notaris tegen wie een klacht is gericht, horen of door een ander lid doen horen.
 
@@ -602,11 +627,11 @@ De notaris mag, met uitzondering van een aan hem in bewaring gegeven olografisch
 
 8. Tegen een beslissing van de Kamer van Toezicht als bedoeld in het vijfde of zesde lid, staat geen rechtsmiddel open. In de schriftelijke kennisgeving, bedoeld in het zevende lid, wordt zulks vermeld.
 
-#### Artikel 56a
+##### Artikel 56a
 
 Een lid van de Kamer van Toezicht of een plaatsvervangend lid dat voor de behandeling van een zaak in de Kamer van Toezicht zitting heeft, kan zich verschonen en kan worden gewraakt, indien er ten aanzien van hem feiten of omstandigheden bestaan, waardoor in het algemeen de rechterlijke onpartijdigheid schade zou kunnen lijden. De bepalingen met betrekking tot verschoning en wraking, bedoeld in [Titel IV van het Zevende Boek van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV) zijn van overeenkomstige toepassing, met dien verstande dat in plaats van de verdachte en het Openbaar Ministerie de notaris of kandidaat-notaris en de klager een voordracht tot wraking kunnen doen en dat de raadpleging door de Kamer van Toezicht in plaats van na de conclusies of het requisitoir van het Openbaar Ministerie geschiedt na de conclusies van de notaris of kandidaat-notaris of de klager.
 
-#### Artikel 57
+##### Artikel 57
 
 1. De notaris die zijn ambtsplichten verwaarloost, zich schuldig maakt aan enig handelen of nalaten in strijd met de zorg die hij behoort te betrachten ten opzichte van degene ten behoeve van wie hij optreedt, of aan enig handelen of nalaten dat een behoorlijk notaris niet betaamt, kan door de Kamer van Toezicht ambtshalve of naar aanleiding van een klacht in een met redenen omklede beslissing aan de navolgende maatregelen worden onderworpen:
 
@@ -642,7 +667,7 @@ De maatregelen, genoemd in de onderdelen c en d, kunnen gecombineerd worden opge
 
 8. Notarissen en kandidaat-notarissen blijven in geval van ontslag of ontzetting uit het ambt aan de tuchtrechtspraak onderworpen ter zake van in het eerste of tweede lid bedoeld handelen of nalaten gedurende de tijd dat zij als notaris of kandidaat-notaris werkzaam waren.
 
-#### Artikel 58
+##### Artikel 58
 
 1. De Kamer van Toezicht neemt geen beslissing dan na de notaris of kandidaat-notaris en, indien een klacht is ingediend, de klager te hebben gehoord, althans daartoe behoorlijk te hebben opgeroepen.
 
@@ -656,7 +681,7 @@ De maatregelen, genoemd in de onderdelen c en d, kunnen gecombineerd worden opge
 
 6. Van de beslissing van de Kamer van Toezicht, die met redenen dient te zijn omkleed, wordt bij aangetekende brief met bevestiging van ontvangst, kennisgegeven aan de notaris of kandidaat-notaris en, indien naar aanleiding van een klacht is beslist, aan de klager.
 
-#### Artikel 59
+##### Artikel 59
 
 1. De Kamer van Toezicht is bevoegd de notaris, tegen wie ernstig vermoeden is gerezen, dat hij een van de in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=57&z=2015-07-01&g=2015-07-01) bedoelde handelingen of verzuimen heeft gepleegd, voor een termijn van ten hoogste zes maanden ongevraagd verlof te verlenen. Zij kan deze termijn éénmaal voor ten hoogste zes maanden of totdat op een door haar gedane voordracht tot ontzetting zal zijn beslist, verlengen. De Kamer van Toezicht kan deze termijnen te allen tijde verkorten. Voordat de Kamer van Toezicht de notaris ongevraagd verlof verleent, hoort zij hem dan wel roept zij hem daartoe behoorlijk op.
 
@@ -664,7 +689,7 @@ De maatregelen, genoemd in de onderdelen c en d, kunnen gecombineerd worden opge
 
 3. De notaris is gedurende de tijd van het hem verleend ongevraagd verlof niet bevoegd zijn ambt uit te oefenen.
 
-#### Artikel 60
+##### Artikel 60
 
 1. De Kamer van Toezicht is bevoegd getuigen en deskundigen te horen. De getuigen en deskundigen zijn verplicht te verschijnen en getuigenis af te leggen. De oproeping geschiedt op de wijze, door de Voorzitter van de Kamer van Toezicht bepaald. Oproeping door middel van dagvaarding geschiedt bij deurwaardersexploit.
 
@@ -678,7 +703,7 @@ De maatregelen, genoemd in de onderdelen c en d, kunnen gecombineerd worden opge
 
 6. Aan getuigen en deskundigen wordt op hun verzoek door de Voorzitter van de Kamer van Toezicht vergoeding toegekend op de voet van het tarief van gerechtskosten in strafzaken. Volgens hetzelfde tarief worden de kosten van de verrichtingen van de deurwaarders berekend.
 
-#### Artikel 61
+##### Artikel 61
 
 1. Binnen veertien dagen na de datum van ontvangst van de in [artikel 58, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=58&z=2015-07-01&g=2015-07-01), bedoelde aangetekende brief kunnen de betrokken notaris of kandidaat-notaris en de klager bij verzoekschrift van de beslissing van de Kamer van Toezicht, behoudens voor zover deze een voordracht tot ontzetting uit het ambt inhoudt, in hoger beroep komen bij het Hof van Justitie. De griffier van het Hof geeft van het instellen van het beroep onverwijld kennis aan de Kamer van Toezicht, aan de notaris of kandidaat-notaris, indien het beroep door de klager is ingesteld, en aan de klager indien het beroep door de notaris of kandidaat-notaris is ingesteld.
 
@@ -702,7 +727,7 @@ De maatregelen, genoemd in de onderdelen c en d, kunnen gecombineerd worden opge
 
 6. Het Hof van Justitie geeft een met redenen omklede beslissing. De griffier geeft van de beslissing onverwijld kennis aan de notaris of kandidaat-notaris en de Kamer van Toezicht, alsmede aan de klager, indien de Kamer van Toezicht naar aanleiding van een klacht heeft beslist.
 
-#### Artikel 62
+##### Artikel 62
 
 1. Ontzetting van de notaris uit zijn ambt, na een voordracht daartoe overeenkomstig [artikel 57, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VI&artikel=57&z=2015-07-01&g=2015-07-01), geschiedt door het Hof van Justitie.
 
@@ -712,43 +737,43 @@ De maatregelen, genoemd in de onderdelen c en d, kunnen gecombineerd worden opge
 
 Artikel 57, derde tot en met vijfde lid, is van overeenkomstige toepassing.
 
-#### Artikel 63
+##### Artikel 63
 
 1. Bij het vonnis waarbij een notaris tot een gevangenisstraf wordt veroordeeld, kan, op requisitoir van het Openbaar Ministerie, zijn ontzetting uit het notarisambt worden uitgesproken.
 
 2. De notaris die in staat van faillissement is verklaard, surséance van betaling heeft verkregen of wegens schulden is gegijzeld, is van rechtswege in de uitoefening van zijn ambt geschorst en kan op vordering van het Openbaar Ministerie na verhoor of behoorlijke oproeping door het Hof van Justitie uit zijn ambt worden ontzet.
 
-#### Artikel 64
+##### Artikel 64
 
 1. De notaris die door aanhoudende geestes- of lichaamsziekte ongeschikt is tot de uitoefening van zijn ambt, kan op voordracht van de Kamer van Toezicht bij koninklijk besluit worden ontslagen.
 
 2. De Kamer van Toezicht doet deze voordracht niet dan nadat de betrokken notaris is gehoord of daartoe behoorlijk is opgeroepen.
 
-#### Artikel 65
+##### Artikel 65
 
 De Kamer van Toezicht is te allen tijde bevoegd de minuten van voor een notaris verleden akten, met uitzondering van de minuten van de uiterste willen die nog niet met de dood zijn bekrachtigd, en de registers en repertoria van een notaris te onderzoeken.
 
-#### Artikel 65a
+##### Artikel 65a
 
 Iedere ambtenaar die bij de uitoefening van zijn taak het vermoeden krijgt dat deze wet wordt overtreden, geeft daarvan terstond kennis aan de Kamer van Toezicht.
 
 ### Hoofdstuk VII. Het bewaren en overbrengen van minuten, registers en repertoria
 
-#### Artikel 66
+##### Artikel 66
 
 De notaris moet zijn minuten, registers en repertoria zorgvuldig in een regelmatige orde en op voegzame wijze bewaren.
 
-#### Artikel 67
+##### Artikel 67
 
 De notaris voor wie ingevolge [artikel 17, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=IV&artikel=17&z=2015-07-01&g=2015-07-01), een waarnemer is aangewezen, alsmede degenen die het archief of de praktijkboekhouding onder zich hebben, verlenen aan de waarnemer vrije toegang tot het archief van de notaris en verschaffen op verzoek van de waarnemer, gedaan in opdracht van belanghebbenden, de voor de uitoefening van diens werkzaamheden vereiste inlichtingen.
 
-#### Artikel 68
+##### Artikel 68
 
 1. De waarnemer neemt binnen twee weken na de dag waarop de waarneming ingaat, over de minuten, registers en repertoria en de daartoe behorende dossiers en verdere bescheiden, welke volgens het gebruik met het protocol behoren te worden overgedragen, van de notaris of van degene die deze onder zich heeft. Hij verricht voorts ten aanzien daarvan al datgene waartoe deze laatste bevoegd en verplicht was.
 
 2. Het bepaalde in het eerste lid en in de [artikelen 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=69&z=2015-07-01&g=2015-07-01) en [70](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=70&z=2015-07-01&g=2015-07-01) is niet van toepassing in geval de waarnemer op verzoek en voordracht van de notaris is aangewezen.
 
-#### Artikel 69
+##### Artikel 69
 
 1. Bij de overneming onderzoekt de waarnemer of alle minuten, registers en repertoria die ten kantore moeten zijn, aanwezig zijn.
 
@@ -766,13 +791,13 @@ De notaris voor wie ingevolge [artikel 17, eerste lid, onderdelen a tot en met d
 
 8. In deze verklaring wordt in het geval omschreven in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=68&z=2015-07-01&g=2015-07-01) tevens vermeld de overneming door de waarnemer van de daar bedoelde dossiers en verdere bescheiden.
 
-#### Artikel 70
+##### Artikel 70
 
 1. Binnen acht dagen na het verstrijken van een waarneming draagt de waarnemer de door hem overgenomen minuten, registers of repertoria en de door hem verleden akten over aan de notaris wiens kantoor hij heeft waargenomen, diens opvolger, of aan degene die ingevolge [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=72&z=2015-07-01&g=2015-07-01) met de bewaring daarvan is belast.
 
 2. Op een overdracht als bedoeld in het eerste lid, is [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=69&z=2015-07-01&g=2015-07-01) van overeenkomstige toepassing.
 
-#### Artikel 71
+##### Artikel 71
 
 1. Bij vervulling van een opengevallen standplaats draagt de waarnemer aan de nieuwbenoemde notaris binnen twee weken na diens eedsaflegging de door hem overgenomen minuten, registers en repertoria alsmede de in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=68&z=2015-07-01&g=2015-07-01) bedoelde door hem overgenomen dossiers en verdere bescheiden over. De waarnemer draagt tevens de door hem tijdens de waarneming verleden akten en vervaardigde dossiers en verdere bescheiden als bedoeld in artikel 68, over.
 
@@ -784,7 +809,7 @@ De notaris voor wie ingevolge [artikel 17, eerste lid, onderdelen a tot en met d
 
 5. Na vervulling van de opengevallen standplaats verschaffen degenen die de praktijkboekhouding onder zich hebben, de bewaarder van het protocol op diens verzoek, gedaan in opdracht van belanghebbenden, de voor de uitoefening van diens werkzaamheden vereiste inlichtingen. Zij zijn van die gehoudenheid bevrijd voor zover zij de praktijkboekhouding aan de bewaarder van het protocol hebben afgegeven.
 
-#### Artikel 72
+##### Artikel 72
 
 1. Indien een opengevallen standplaats niet wordt vervuld en de waarneming aan een notaris is opgedragen, blijft deze met de bewaring van de minuten, registers en repertoria belast.
 
@@ -796,7 +821,7 @@ De notaris voor wie ingevolge [artikel 17, eerste lid, onderdelen a tot en met d
 
 5. [Artikel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=71&z=2015-07-01&g=2015-07-01), is op de notaris, bedoeld in het eerste dan wel tweede lid, van overeenkomstige toepassing, met dien verstande dat de termijn van drie maanden begint te lopen vanaf de datum van aanwijzing.
 
-#### Artikel 73
+##### Artikel 73
 
 1. In elk van de openbare lichamen wordt in het gebouw waarin het Gerecht in eerste aanleg zitting houdt, of in een ander daartoe door Onze Minister aangewezen gebouw, een algemene bewaarplaats van minuten, registers en repertoria ingericht, die onder toezicht van de Kamer van Toezicht staat.
 
@@ -808,7 +833,7 @@ De notaris voor wie ingevolge [artikel 17, eerste lid, onderdelen a tot en met d
 
 5. De aanwijzing door de Kamer van Toezicht geschiedt voor de tijd van vijf achtereenvolgende jaren, maar kan op verzoek of met toestemming van de betrokken notaris telkens voor dezelfde termijn worden verlengd.
 
-#### Artikel 74
+##### Artikel 74
 
 1. De notaris mag na machtiging van de Kamer van Toezicht alle onder hem berustende minuten, registers en repertoria, die ouder zijn dan dertig jaar, aan de bewaarder van de algemene bewaarplaats, bedoeld in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0028457&hoofdstuk=VII&artikel=73&z=2015-07-01&g=2015-07-01), overdragen.
 
@@ -816,11 +841,11 @@ De notaris voor wie ingevolge [artikel 17, eerste lid, onderdelen a tot en met d
 
 ### Hoofdstuk VIII. Overige bepalingen
 
-#### Artikel 75
+##### Artikel 75
 
 De notaris wordt tot schadevergoeding veroordeeld jegens belanghebbenden, indien een door hem verleden akte uit hoofde van gebrek in de vorm nietig is, in rechte wordt vernietigd of geoordeeld wordt authenticiteit te missen, tenzij de notaris bewijst dat de fout hem niet is toe te rekenen, en verder in alle gevallen waarin een verplichting tot schadevergoeding bestaat.
 
-#### Artikel 76
+##### Artikel 76
 
 1. De notaris is verplicht een deugdelijke administratie te voeren en van zijn vermogenstoestand en van alles wat zijn werkkring betreft een zodanige boekhouding te voeren dat daaruit te allen tijde zijn rechten en verplichtingen kunnen worden vastgesteld. De Kamer van Toezicht kan nadere regels stellen omtrent de eisen waaraan de administratie en de boekhouding moeten voldoen.
 
@@ -830,7 +855,7 @@ De notaris wordt tot schadevergoeding veroordeeld jegens belanghebbenden, indien
 
 4. De notaris dient te beschikken over een door de Kamer van Toezicht goedgekeurde verzekering tegen risico's, voortvloeiende uit zijn beroepsaansprakelijkheid.
 
-#### Artikel 76a
+##### Artikel 76a
 
 1. De notaris is verplicht bij een kredietinstelling in de zin van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) een of meer bijzondere rekeningen aan te houden op zijn naam met vermelding van zijn hoedanigheid, die uitsluitend bestemd zijn voor gelden, die hij in verband met zijn werkzaamheden als zodanig onder zich neemt. Gelden die aan de notaris in verband met zijn werkzaamheden als zodanig ten behoeve van derden worden toevertrouwd, moeten op die rekening worden gestort. De bovenbedoelde kredietinstelling voegt de over de gelden gekweekte rente toe aan het saldo van de bijzondere rekening. Indien deze gelden abusievelijk op een andere rekening van de notaris zijn gestort of indien ten onrechte gelden op de bijzondere rekening zijn gestort, is de notaris verplicht deze onverwijld op de juiste rekening te storten. Hetzelfde geldt indien de gelden rechtstreeks in handen van de notaris zijn gesteld. Indien meer notarissen in een maatschap samenwerken, kan de bijzondere rekening ten name van die notarissen tezamen, de maatschap of vennootschap worden gesteld. In geval van samenwerking met beoefenaren van een ander beroep moet uit de tenaamstelling van de bijzondere rekening blijken dat de notaris deze rekening houdt. De notaris vermeldt het nummer van de bijzondere rekening op zijn briefpapier.
 
@@ -848,7 +873,7 @@ De notaris wordt tot schadevergoeding veroordeeld jegens belanghebbenden, indien
 
 8. Van de bepalingen van dit artikel en van de in het zevende lid bedoelde regels kan niet worden afgeweken.
 
-#### Artikel 77
+##### Artikel 77
 
 1. Het is de notaris verboden, rechtstreeks of middellijk, handelingen te verrichten die redelijkerwijs ertoe kunnen leiden dat hij te eniger tijd niet zal kunnen voldoen aan zijn financiële verplichtingen.
 
@@ -860,7 +885,7 @@ De notaris wordt tot schadevergoeding veroordeeld jegens belanghebbenden, indien
 
 - c. zich borg te stellen of anderszins in te staan voor schulden van anderen.
 
-#### Artikel 78
+##### Artikel 78
 
 1. Een ieder die is betrokken bij de uitvoering van deze wet en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.
 
@@ -874,25 +899,25 @@ De notaris wordt tot schadevergoeding veroordeeld jegens belanghebbenden, indien
 
 ### Hoofdstuk IX. Wijzigingen van landsverordeningen
 
-#### Artikel 78a
+##### Artikel 78a
 
 [wijzigt de Verkoopingverordening 1908 (P.B. 1908, no. 51)]
 
-#### Artikel 78b
+##### Artikel 78b
 
 [wijzigt de Verordening op het Testamentenregister]
 
-#### Artikel 78c
+##### Artikel 78c
 
 [wijzigt artikel 60 van het Wetboek van Koophandel van de Nederlandse Antillen (P.B. 1935, no. 52)]
 
-#### Artikel 78d
+##### Artikel 78d
 
 wijzigt artikel 65 van de Zegelverordening 1908 (P.B. 1908, no. 52)]
 
 ### Hoofdstuk X. Overgangs- en slotbepalingen
 
-#### Artikel 79
+##### Artikel 79
 
 1. Voor de op het tijdstip van inwerkingtreding van deze wet in functie zijnde notarissen geldt als standplaats het openbaar lichaam dat in hun benoemingsbesluit als standplaats is aangewezen.
 
@@ -900,6 +925,6 @@ wijzigt artikel 65 van de Zegelverordening 1908 (P.B. 1908, no. 52)]
 
 3. Degene die op het tijdstip van inwerkingtreding van deze wet de functie van notaris of kandidaat-notaris uitoefent, wordt na inwerkingtreding van deze wet geacht aan de voorwaarden voor uitoefening van die functie op grond van deze wet te hebben voldaan.
 
-#### Artikel 80
+##### Artikel 80
 
 Deze wet wordt aangehaald als: Wet op het notarisambt BES.

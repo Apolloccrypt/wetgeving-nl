@@ -1,13 +1,38 @@
 ---
 title: "Verzamelbesluit pensioenen"
 identifier: "BWBR0048382"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-02-27
-laatste_update: 2025-02-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048382"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-02-27"
+last_updated: "2025-02-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048382"
+soort: "beleidsregel"
+stam_id: "16798413"
+version_id: "30627972"
+internal_id: "C43906441"
+label_id: "16714144"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048382/2025-02-27/0"
+intitule_bron: "Stcrt.2023-18570"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-27"
+intitule_published: "2023-07-10"
+intitule_in_force: "2023-07-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-5878"
+original_signed_date: "2025-02-06"
+original_published_date: "2025-02-26"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-5878"
+entry_into_force_date: "2025-02-27"
+jci_1_3: "jci1.3:c:BWBR0048382&z=2025-02-27&g=2025-02-27"
+jci_1_0: "1.0:c:BWBR0048382&g=2025-02-27"
+citeertitel_status: "officieel"
+signed_date: "2025-02-06"
+entry_into_force: "2025-02-27"
 ---
-
 # Verzamelbesluit pensioenen
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

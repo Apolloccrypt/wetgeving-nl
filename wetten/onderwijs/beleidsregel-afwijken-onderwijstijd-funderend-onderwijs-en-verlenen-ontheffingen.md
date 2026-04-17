@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel afwijken onderwijstijd funderend onderwijs en verlenen ontheffingen WEC 2025"
+title: "Beleidsregel van de Inspecteur-Generaal van het onderwijs van 15 oktober 2025, nr. 51880053, houdende regels over het instemmen met afwijking van het verplichte minimum aantal uren onderwijstijd in de WPO, WEC en WVO 2020 alsmede het verlenen van ontheffing voor de toelatingsleeftijd en het uitschrijven van een 20+ leerling als bedoeld in de WEC en ontheffing voor de duur van de stage als bedoeld in het Onderwijskundig besluit WEC (Beleidsregel afwijken onderwijstijd funderend onderwijs en verlenen ontheffingen WEC 2025)"
 identifier: "BWBR0051659"
-categorie: "Onderwijs"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051659"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051659"
+soort: "beleidsregel"
+stam_id: "17566703"
+version_id: "30996012"
+internal_id: "C44389631"
+label_id: "17467814"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051659/2026-01-01/0"
+intitule_bron: "Stcrt.2025-36518"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-15"
+intitule_published: "2025-10-28"
+intitule_in_force: "2025-10-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-36518"
+original_signed_date: "2025-10-15"
+original_published_date: "2025-10-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-36518"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051659&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051659&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel afwijken onderwijstijd funderend onderwijs en verlenen ontheffingen WEC 2025"
+signed_date: "2025-10-15"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel van de Inspecteur-Generaal van het onderwijs van 15 oktober 2025, nr. 51880053, houdende regels over het instemmen met afwijking van het verplichte minimum aantal uren onderwijstijd in de WPO, WEC en WVO 2020 alsmede het verlenen van ontheffing voor de toelatingsleeftijd en het uitschrijven van een 20+ leerling als bedoeld in de WEC en ontheffing voor de duur van de stage als bedoeld in het Onderwijskundig besluit WEC (Beleidsregel afwijken onderwijstijd funderend onderwijs en verlenen ontheffingen WEC 2025)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=12), [artikel 14a, tweede lid, aanhef en onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14a), [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=25), en [artikel 39, tweede en vijfde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=39), [artikel 8 van het Onderwijskundig besluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&artikel=8), [artikel 8, tiende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=8) en [artikel 2.38, elfde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.38);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Reikwijdte beleidsregel
+##### Artikel 2. Reikwijdte beleidsregel
 
 Deze beleidsregel heeft betrekking op de wijze waarop de inspectie gebruik maakt van haar bevoegdheid om:
 
@@ -56,7 +82,7 @@ Deze beleidsregel heeft betrekking op de wijze waarop de inspectie gebruik maakt
 
 - d. op grond van een ingediende aanvraag maximale duur stage ontheffing te verlenen van het voorschrift dat de duur van de stage gedurende de cursusduur gemiddeld ten hoogste 50 procent bedraagt van het aantal uren waarin onderwijs wordt verzorgd.
 
-#### Artikel 3. Aanvraag
+##### Artikel 3. Aanvraag
 
 1. Een aanvraag als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051659&artikel=2&z=2026-01-01&g=2026-01-01) wordt door het bevoegd gezag bij de inspectie ingediend langs elektronische weg met gebruikmaking van een daartoe strekkend elektronisch aanvraagformulier in het Internet Schooldossier (ISD).
 
@@ -82,7 +108,7 @@ Deze beleidsregel heeft betrekking op de wijze waarop de inspectie gebruik maakt
 
 6. Een aanvraag afwijken onderwijstijd die niet tijdig is ingediend, maar die binnen een termijn van zes weken na de in de aanvraag opgenomen ingangsdatum is ingediend, wordt in behandeling genomen.
 
-#### Artikel 4. Afwijking onderwijstijd
+##### Artikel 4. Afwijking onderwijstijd
 
 1. Het bevoegd gezag kan een aanvraag afwijken onderwijstijd indienen bij de inspectie voor een individuele leerling die:
 
@@ -124,7 +150,7 @@ Deze beleidsregel heeft betrekking op de wijze waarop de inspectie gebruik maakt
 
 - h. op welke wijze de school concreet en planmatig toewerkt naar uitbreiding van het aantal uren dat de leerling onderwijs op school volgt.
 
-#### Artikel 5. Aanvraag maximale duur stage
+##### Artikel 5. Aanvraag maximale duur stage
 
 1. Een aanvraag kan slechts worden ingediend voor een leerling van 14 jaar of ouder.
 
@@ -148,7 +174,7 @@ Deze beleidsregel heeft betrekking op de wijze waarop de inspectie gebruik maakt
 
 - b. de werkzaamheden in verhouding staan tot de mogelijkheden van de leerling.
 
-#### Artikel 6. Afwijking toelatingsleeftijd
+##### Artikel 6. Afwijking toelatingsleeftijd
 
 1. Een aanvraag afwijken toelatingsleeftijd is voorzien van een onderbouwing waaruit blijkt dat afwijking van de toelatingsleeftijd noodzakelijk is.
 
@@ -168,7 +194,7 @@ Deze beleidsregel heeft betrekking op de wijze waarop de inspectie gebruik maakt
 
 4. De inspectie kan bij zijn afweging bijzondere omstandigheden betrekken.
 
-#### Artikel 7. Aanvraag ontheffing 20+ leerling
+##### Artikel 7. Aanvraag ontheffing 20+ leerling
 
 1. Een aanvraag kan ingediend worden voor een leerling in het uitstroomprofiel vervolgonderwijs als bedoeld in [artikel 14, eerste lid, onder a, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14) of het arbeidsmarktgerichte uitstroomprofiel als bedoeld in artikel 14, eerste lid, onder b, WEC.
 
@@ -192,7 +218,7 @@ Deze beleidsregel heeft betrekking op de wijze waarop de inspectie gebruik maakt
 
 7. Indien de inspecteur na ontvangst van de aanvraag het nodig acht, kan hij op grond van [artikel 39, vijfde lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=39) een rapport opvragen van de commissie voor de begeleiding dan wel aan de commissie van onderzoek. De commissie kan de betrokken leerling hiertoe aan een onderzoek onderwerpen.
 
-#### Artikel 8. beschikking en looptijd
+##### Artikel 8. beschikking en looptijd
 
 1. De inspecteur besluit binnen zes weken na ontvangst van de aanvraag.
 
@@ -202,14 +228,14 @@ Deze beleidsregel heeft betrekking op de wijze waarop de inspectie gebruik maakt
 
 4. Een beschikking op een aanvraag maximale duur stage wordt verleend voor de in de aanvraag opgenomen periode.
 
-#### Artikel 9. Intrekking beleidsregel en overgangsrecht
+##### Artikel 9. Intrekking beleidsregel en overgangsrecht
 
 Het [Besluit vaststelling beleidsregel inzake het instemmen met afwijking verplichte aantal uren onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0041216) wordt ingetrokken, met dien verstande dat de rechten en verplichtingen die op grond van dat besluit, zoals die luidde onmiddellijk voorafgaand aan het tijdstip waarop deze beleidsregel in werking treedt, tot stand zijn gekomen in stand blijven.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze beleidsregel wordt in de Staatscourant geplaatst en treedt in werking met ingang van 1 januari 2026.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel afwijken onderwijstijd funderend onderwijs en verlenen ontheffingen WEC 2025.

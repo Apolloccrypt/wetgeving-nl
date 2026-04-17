@@ -1,16 +1,43 @@
 ---
 title: "Opiumwet 1960 BES"
 identifier: "BWBR0028519"
-categorie: "Overig"
-publicatiedatum: 2025-04-01
-laatste_update: 2025-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028519"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2025-04-01"
+last_updated: "2025-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028519"
+soort: "wet-BES"
+stam_id: "10833723"
+version_id: "30551362"
+internal_id: "C43794581"
+label_id: "10808534"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028519/2025-04-01/0"
+intitule_bron: "Stb.2010-641"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-27"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2024-377"
+original_signed_date: "2024-11-20"
+original_published_date: "2024-12-03"
+original_effect: "structuurwijziging"
+original_dossier: "36462"
+original_url_id: "stb-2024-377"
+entry_into_force_date: "2024-11-20"
+entry_into_force_dossier: "36462"
+jci_1_3: "jci1.3:c:BWBR0028519&z=2025-04-01&g=2025-04-01"
+jci_1_0: "1.0:c:BWBR0028519&g=2025-04-01"
+citeertitel_status: "officieel"
+signed_date: "2024-11-20"
+entry_into_force: "2024-11-20"
 ---
-
 # Opiumwet 1960 BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze wet verstaat onder:
 
@@ -52,15 +79,15 @@ bron: "https://wetten.overheid.nl/BWBR0028519"
 
 3. Onder het uitvoeren van middelen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), wordt mede verstaan: het uitvoeren van de voorwerpen of goederen, waarin de middelen verpakt of geborgen zijn en het met bestemming naar het buitenland vervoeren, ten vervoer aannemen of ten vervoer aanbieden, het ten uitvoer aangeven en het in, op of aan een naar het buitenland bestemd vaar- of voertuig aanwezig hebben van de zich hier te lande in het vrije verkeer bevindende middelen zelve, of van de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn.
 
-#### Artikel 2
+##### Artikel 2
 
 De verbouw van planten van de soort Papaver somniferum L. en van een der soorten van het geslacht Erythroxylon is verboden.
 
-#### Artikel 2a
+##### Artikel 2a
 
 De verbouw van planten van het geslacht Cannabis is verboden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het is verboden:
 
@@ -92,7 +119,7 @@ De verbouw van planten van het geslacht Cannabis is verboden.
 
 5. Bij algemene maatregel van bestuur kunnen ten aanzien van de in het eerste lid bedoelde middelen regels worden gesteld om de naleving van de bepalingen van het Enkelvoudig Verdrag en van het bij of krachtens deze wet gestelde te verzekeren en misbruik te voorkomen.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Het is verboden extract en tinctuur van hennep:
 
@@ -104,7 +131,7 @@ De verbouw van planten van het geslacht Cannabis is verboden.
 
 2. [Artikel 3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), is van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het is verboden:
 
@@ -124,7 +151,7 @@ De verbouw van planten van het geslacht Cannabis is verboden.
 
 3. Bij algemene maatregel van bestuur kunnen ten aanzien van de in het eerste lid bedoelde middelen regels worden gesteld om naleving van de bepalingen van het Enkelvoudig Verdrag en van het bij of krachtens deze wet te verzekeren en misbruik te voorkomen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het voorschrijven op recept van enig middel als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) mag slechts geschieden, wanneer dit recept voldoet aan nader door Onze Minister te geven voorschriften.
 
@@ -132,13 +159,13 @@ De verbouw van planten van het geslacht Cannabis is verboden.
 
 3. Het is verboden een vals of vervalst recept aan te bieden ter verkrijging van enig middel als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01).
 
-#### Artikel 6
+##### Artikel 6
 
 1. [Artikel 3, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), en [artikel 4, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), zijn niet van toepassing in geval de in-, uit- of doorvoer, al dan niet gepaard gaande met opslag in entrepots of andere douanebergplaatsen, geschiedt met verlof van Onze Minister en met inachtneming van de door of vanwege Onze Minister te geven voorschriften. Deze voorschriften kunnen verschillen voor de onderscheiden middelen, in die artikelen bedoeld. De in-, uit- en doorvoer van bereid opium en van bereidingen van bereid opium mag slechts plaatshebben voor wetenschappelijke of politionele doeleinden.
 
 2. Voor een verlof kan een vergoeding worden geheven overeenkomstig een bij algemene maatregel van bestuur vastgesteld tarief.
 
-#### Artikel 7
+##### Artikel 7
 
 1. [Artikel 3, eerste lid, onderdelen B tot en met D](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [artikel 3a, eerste lid, onderdelen B tot en met D](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) en [artikel 4, eerste lid, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), zijn niet van toepassing:
 
@@ -176,7 +203,7 @@ Voor een verlof kan een jaarlijkse vergoeding worden geheven overeenkomstig een 
 
 - e. [artikel 4, eerste lid, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), met betrekking tot de in dat lid, onderdelen a en b, bedoelde middelen en voor zover het betreft het bezitten en aanwezig hebben.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister kan het verlof, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=7&z=2025-04-01&g=2025-04-01), slechts verlenen:
 
@@ -194,7 +221,7 @@ Voor een verlof kan een jaarlijkse vergoeding worden geheven overeenkomstig een 
 
 4. De herroeping geschiedt bij een beschikking van Onze Minister, die de gronden vermeldt waarop zij berust. Daarbij kan een termijn worden gesteld waarin de handelaar of de fabrikant zich van zijn vóór de herroeping op wettige wijze verkregen voorraad zal kunnen ontdoen met inachtneming van de voorwaarden, door Onze Minister te stellen.
 
-#### Artikel 9
+##### Artikel 9
 
 Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast:
 
@@ -204,19 +231,19 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 - c. de ambtenaren van de belastingdienst, bevoegd inzake douane.
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=9&z=2025-04-01&g=2025-04-01) bedoelde ambtenaren zijn bevoegd alle plaatsen met uitzondering van woningen zonder de uitdrukkelijke toestemming van de bewoner, waar, naar zij redelijkerwijs kunnen vermoeden, in verband met de uitoefening van een bedrijf, middelen of bereidingen als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01) aanwezig zijn, te betreden, voor zover dit redelijkerwijs voor de vervulling van hun taak met betrekking tot deze wet nodig is. Zij zijn bevoegd zich te doen vergezellen door personen die daartoe door hen zijn aangewezen, voor zover dit voor het doel van het betreden redelijkerwijs nodig is. Wordt hun de toegang geweigerd, dan verschaffen zij zich die desnoods met behulp van de sterke arm.
 
 2. De in [artikel 9, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=9&z=2025-04-01&g=2025-04-01), bedoelde ambtenaren hebben te allen tijde toegang tot alle plaatsen waar, naar zij redelijkerwijze kunnen vermoeden, middelen of bereidingen als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01) aanwezig zijn en kunnen op die plaatsen ter inbeslagneming huiszoeking doen. Is de plaats een woning, tevens een woning of alleen door een woning toegankelijk, dan treden zij deze zonder de uitdrukkelijke toestemming van de bewoner niet binnen dan op algemene of bijzondere schriftelijke last van de officier van justitie of op een bijzondere schriftelijke last van een hulpofficier van justitie. Van het binnentreden wordt door hen proces-verbaal opgemaakt, dat binnen twee maal vierentwintig uur aan degene wiens woning is binnengetreden in afschrift wordt toegezonden.
 
-#### Artikel 9b
+##### Artikel 9b
 
 1. De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=9&z=2025-04-01&g=2025-04-01) bedoelde ambtenaren zijn bevoegd ladingen waarvan zij redelijkerwijs kunnen vermoeden dat middelen of bereidingen als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01) daarvan deel uitmaken, aan onderzoekingen te onderwerpen en van zaken monsters te nemen, voor zover dit redelijkerwijs voor de vervulling van hun taak met betrekking tot deze wet nodig is. Daartoe kunnen zij vorderen dat de verpakking van goederen wordt geopend en dat ook overigens de medewerking wordt verleend die voor die onderzoekingen is vereist.
 
 2. Indien het onderzoek of de monsterneming niet ter plaatse kan geschieden, zijn zij bevoegd de zaken voor dat doel voor korte tijd mee te nemen tegen een door hen af te geven schriftelijk bewijs.
 
-#### Artikel 9c
+##### Artikel 9c
 
 1. De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=9&z=2025-04-01&g=2025-04-01) bedoelde ambtenaren zijn bevoegd van houders van een verlof als bedoeld in [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=7&z=2025-04-01&g=2025-04-01), en van de personen, bedoeld in artikel 7, tweede en derde lid, alle inlichtingen te verlangen die redelijkerwijs voor de vervulling van hun taak met betrekking tot deze wet nodig zijn.
 
@@ -228,13 +255,13 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 5. Zij die uit hoofde van hun stand, beroep of ambt tot geheimhouding verplicht zijn, kunnen zich verschonen van het verschaffen van inlichtingen, doch uitsluitend voor zover het betreft hetgeen hun in hun hoedanigheid is toevertrouwd. Zij kunnen voorts het verlenen van medewerking weigeren, voor zover hun plicht tot geheimhouding zich daartoe uitstrekt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=9&z=2025-04-01&g=2025-04-01) bedoelde ambtenaren zijn bevoegd een persoon, verdacht van overtreding van de bij of krachtens deze wet strafbaar gestelde feiten bij het bestaan van ernstige bezwaren tegen deze aan lichaam en kleding te onderzoeken.
 
 2. Zij zijn te allen tijde bevoegd tot inbeslagneming van daarvoor vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. De in [artikel 9, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=9&z=2025-04-01&g=2025-04-01), bedoelde ambtenaren zijn bevoegd te vorderen dat de verpakking van goederen, met inbegrip van reisbagage, wordt geopend, indien daartoe redelijkerwijs aanleiding bestaat op grond van een gepleegd strafbaar feit, waarbij gehandeld is in strijd met het in de [artikelen 3, eerste lid, onderdelen A, B of D](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [3a, eerste lid, onderdelen A, B of D](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01), of [4, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), gestelde verbod, of op grond van aanwijzingen dat een dergelijk strafbaar feit zal worden gepleegd.
 
@@ -242,7 +269,7 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 3. Indien geen medewerking wordt verleend, kunnen de in het eerste lid bedoelde ambtenaren en personen, op kosten en risico van de houder van de goederen, in het nodige voorzien.
 
-#### Artikel 10b
+##### Artikel 10b
 
 1. De in [artikel 9, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=9&z=2025-04-01&g=2025-04-01), bedoelde ambtenaren zijn bevoegd vervoermiddelen te onderzoeken, indien daartoe redelijkerwijs aanleiding bestaat op grond van een gepleegd strafbaar feit, waarbij gehandeld is in strijd met het in de [artikelen 3, eerste lid, onderdelen A, B of D](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [3a, eerste lid, onderdelen A, B of D](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01), of [4, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), gestelde verbod, of op grond van aanwijzingen dat een dergelijk strafbaar feit zal worden gepleegd.
 
@@ -250,13 +277,13 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 3. De in het eerste lid bedoelde ambtenaren kunnen van de bestuurders van voertuigen en van de schippers van vaartuigen daartoe vorderen dat deze de vervoermiddelen tot stilstand brengen, deze vervoermiddelen naar een door hen aangewezen plaats overbrengen en overeenkomstig hun aanwijzingen terzake medewerking verlenen.
 
-#### Artikel 10c
+##### Artikel 10c
 
 1. De in [artikel 9, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=9&z=2025-04-01&g=2025-04-01), bedoelde ambtenaren zijn bevoegd van personen die zich op de openbare weg of op enige voor het publiek toegankelijke plaats bevinden, te vorderen dat deze hun medewerking verlenen aan een onderzoek aan de kleding, indien daartoe redelijkerwijs aanleiding bestaat op grond van een gepleegd strafbaar feit, waarbij gehandeld is in strijd met het in de [artikelen 3, eerste lid, onderdelen A, B, of D](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [3a, eerste lid, onderdelen, A, B of D](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01), of [4, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), gestelde verbod, of op grond van aanwijzingen dat een dergelijk strafbaar feit zal worden gepleegd.
 
 2. De in het eerste lid bedoelde bevoegdheid kan slechts worden uitgeoefend tegen bepaalde personen, indien daartoe jegens hen aanleiding bestaat. De officier van justitie kan bij schriftelijk bevel gelasten dat deze bevoegdheid tegenover een ieder kan worden uitgeoefend. Het bevel is met redenen omkleed.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Degene die handelt in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=2&z=2025-04-01&g=2025-04-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=5&z=2025-04-01&g=2025-04-01), voor zover het betreft de in artikel 3, eerste lid, genoemde middelen, dan wel met een krachtens artikel 3, vijfde lid, gestelde regel wordt gestraft:
 
@@ -308,7 +335,7 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 7. De verbeurdverklaarde of aan de openbare lichamen Bonaire, Sint Eustatius en Saba vervallen middelen worden, met inachtneming van de door Onze Minister gegeven voorschriften, slechts verkocht, afgeleverd of verstrekt aan personen die deze in bezit of aanwezig mogen hebben. Zo nodig worden zij op last van Onze Minister onbruikbaar gemaakt of vernietigd.
 
-#### Artikel 11a
+##### Artikel 11a
 
 Degene die om een feit als bedoeld in [artikel 3, eerste lid, onderdeel A, B of D](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [3a, eerste lid, onderdeel A of B,](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01) voor zover opzettelijk gepleegd, of [artikel 4, eerste lid, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), voor zover opzettelijk gepleegd, voor te bereiden of te bevorderen:
 
@@ -326,7 +353,7 @@ Degene die om een feit als bedoeld in [artikel 3, eerste lid, onderdeel A, B of 
 
 - d. hetzij met beide straffen als bedoeld in de onderdelen b en c.
 
-#### Artikel 11b
+##### Artikel 11b
 
 1. Degene die opzettelijk enig voorwerp dat is verkregen door een in deze wet strafbaar gesteld misdrijf, koopt, huurt, inruilt, in pand neemt, als geschenk aanneemt of uit winstbejag verkoopt, verhuurt, verruilt, in pand geeft, vervoert, bewaart of verbergt, wordt gestraft:
 
@@ -338,29 +365,29 @@ Degene die om een feit als bedoeld in [artikel 3, eerste lid, onderdeel A, B of 
 
 2. Dezelfde straf wordt opgelegd aan degene die opzettelijk uit de opbrengst van enig voorwerp als bedoeld in het eerste lid, voordeel trekt.
 
-#### Artikel 11c
+##### Artikel 11c
 
 1. Degene die enig voorwerp koopt, huurt, inruilt, in pand neemt, als geschenk aanneemt of uit winstbejag verkoopt, verhuurt, verruilt, in pand geeft, vervoert, bewaart of verbergt, wordt, indien aan zijn schuld te wijten is dat zijn handeling een door een in deze wet strafbaar gesteld misdrijf verkregen voorwerp betreft, gestraft hetzij met gevangenisstraf van ten hoogste twaalf jaren, hetzij met geldboete van de vijfde categorie, hetzij met beide straffen.
 
 2. Dezelfde straf wordt opgelegd aan degene die uit de opbrengst van enig voorwerp voordeel trekt, indien aan zijn schuld te wijten is dat zijn handeling een door een in deze wet strafbaar gesteld misdrijf verkregen voorwerp betreft.
 
-#### Artikel 11d
+##### Artikel 11d
 
 Voor de toepassing van de [artikelen 11a tot en met 11c](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=11a&z=2025-04-01&g=2025-04-01) worden onder voorwerpen mede verstaan voer- en vaartuigen en stoffen.
 
-#### Artikel 11e
+##### Artikel 11e
 
 [vervallen]
 
-#### Artikel 12
+##### Artikel 12
 
 [vervallen]
 
-#### Artikel 13
+##### Artikel 13
 
 [vervallen]
 
-#### Artikel 14
+##### Artikel 14
 
 1. De bij of krachtens deze wet strafbaar gestelde feiten worden, voor zover zij bestaan in overtredingen van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=2&z=2025-04-01&g=2025-04-01), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=2a&z=2025-04-01&g=2025-04-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3&z=2025-04-01&g=2025-04-01), [3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=3a&z=2025-04-01&g=2025-04-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=4&z=2025-04-01&g=2025-04-01), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=5&z=2025-04-01&g=2025-04-01) of van de regels gesteld krachtens artikel 3, vijfde lid, 3a, tweede lid, of 4, derde lid, of in het niet voldoen aan de voorwaarden of voorschriften bij een verlof als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=6&z=2025-04-01&g=2025-04-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=7&z=2025-04-01&g=2025-04-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=8&z=2025-04-01&g=2025-04-01) of bij de herroeping van een zodanig verlof gesteld, beschouwd als misdrijven en anders als overtredingen. De in de [artikelen 11a tot en met 11c](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=11a&z=2025-04-01&g=2025-04-01) strafbaar gestelde feiten worden beschouwd als misdrijven, die in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=11&z=2025-04-01&g=2025-04-01), als overtredingen.
 
@@ -374,11 +401,11 @@ Voor de toepassing van de [artikelen 11a tot en met 11c](https://wetten.overheid
 
 4. Het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570) is toepasselijk op een van de in de [artikelen 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=11&z=2025-04-01&g=2025-04-01), en [11a tot en met 11c](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=11a&z=2025-04-01&g=2025-04-01) strafbaar gestelde feiten, indien het feit is gepleegd aan boord van een buitenlands vaartuig dan wel een vaartuig zonder nationaliteit of een daarmee gelijk gesteld vaartuig uit hoofde van het internationale recht, op open zee, en wordt opgetreden in het kader van de toepassing van het Verdrag ter uitvoering van artikel 17 van het Verdrag tegen sluikhandel.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze wet wordt aangehaald als: Opiumwet 1960 BES.
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. De gezaghebber is bevoegd tot oplegging van een last onder bestuursdwang indien in een woning of lokaal of op een daarbij behorend erf:
 

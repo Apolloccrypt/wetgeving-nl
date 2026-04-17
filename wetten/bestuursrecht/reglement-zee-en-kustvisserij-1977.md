@@ -1,13 +1,35 @@
 ---
-title: "Reglement zee- en kustvisserij 1977"
+title: "Besluit van 25 november 1977, houdende bepalingen omtrent de uitoefening van de zee- en kustvisserij"
 identifier: "BWBR0003144"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003144"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003144"
+soort: "AMvB"
+stam_id: "848763"
+version_id: "1233702"
+internal_id: "C1233701"
+label_id: "822694"
+dtd_version: "2.0"
+original_entry_into_force: "1978-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003144/2015-01-01/0"
+intitule_bron: "Stb.1977-666"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1977-11-25"
+intitule_status: "goed"
+original_publication: "Stb.1977-666"
+original_signed_date: "1977-11-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1978-01-01"
+jci_1_3: "jci1.3:c:BWBR0003144&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0003144&g=2015-01-01"
+citeertitel_status: "officieel"
+short_title: "Reglement zee- en kustvisserij 1977"
+signed_date: "1977-11-25"
+entry_into_force: "1978-01-01"
 ---
-
 # Besluit van 25 november 1977, houdende bepalingen omtrent de uitoefening van de zee- en kustvisserij
 
 Op de voordracht van Onze Minister van Landbouw en Visserij van 28 juli 1977, No. J. 2139, Directie Juridische en Bedrijfsorganisatorische Zaken, na overleg met het Produktschap voor Vis en Visprodukten, het Visserijschap, het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven en de Nederlandse Vereniging van Sportvissersfederaties;
@@ -20,7 +42,7 @@ Gezien het nader rapport van Onze voornoemde Minister van 22 november 1977, No. 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -46,11 +68,11 @@ investeringsverplichting: rechtens afdwingbare verplichting die is aangegaan voo
 
 2. Voor de toepassing van het bepaalde in dit besluit heeft het aanlanden plaats op het tijdstip waarop het vissersvaartuig vaste verbinding met de wal heeft gekregen.
 
-#### Artikel 2
+##### Artikel 2
 
 Tenzij anders is bepaald is dit besluit van toepassing op de visserij in de wateren bedoeld in [artikel 1, vierde lid, onderdeel **b** en **c,** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=1).
 
-#### Artikel 3
+##### Artikel 3
 
 1. In het belang van de visserij is Onze Minister bevoegd regelen te stellen:
 
@@ -68,7 +90,7 @@ Tenzij anders is bepaald is dit besluit van toepassing op de visserij in de wate
 
 4. Onze Minister kan voorschriften geven ter naleving van de in het eerste lid bedoelde regelen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2015-01-01&g=2015-01-01), bedoelde regelen kunnen betrekking hebben op:
 
@@ -96,17 +118,17 @@ Tenzij anders is bepaald is dit besluit van toepassing op de visserij in de wate
 
 4. Tenzij het algemeen belang zich naar zijn oordeel daartegen verzet, stelt Onze Minister een regeling als bedoeld in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=3&z=2015-01-01&g=2015-01-01), niet vast dan nadat hij met de daarbij in belangrijke mate betrokken produkt- en bedrijfschappen zomede de naar zijn oordeel daarvoor in aanmerking komende organisaties van sportvissers overleg heeft gepleegd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Degenen die vis van een aanvoerder betrekken en zij, die hun bemiddeling verlenen bij het veilen van vis, zijn verplicht een administratie te voeren en aan Onze Minister periodiek opgave te doen van de hoeveelheden vis behorende tot door Onze Minister aan te wijzen vissoorten door hen van een aanvoerder betrokken onderscheidenlijk aan hen ter veiling aangeboden.
 
 2. Onze Minister stelt regelen ten aanzien van de eisen, waaraan de in het eerste lid bedoelde administratie dient te voldoen en ten aanzien van de wijze waarop de aldaar bedoelde opgave dient te geschieden.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Het is verboden met een vissersvaartuig met een motorvermogen van meer dan 1471 kW uit te varen, de visserij uit te oefenen of vis aan te landen.
 
@@ -124,7 +146,7 @@ Vervallen
 
 3. Onze Minister kan nadere regelen stellen voor een goede werking van het bepaalde in het eerste en tweede lid.
 
-#### Artikel 6b
+##### Artikel 6b
 
 1. Aan de ondernemer kan een naar billijkheid te bepalen schadevergoeding worden toegekend in het geval dat:
 
@@ -142,7 +164,7 @@ wijzigt en daardoor voor hem jegens die scheepswerf een rechtens afdwingbare ver
 
 3. Om voor een schadevergoeding in aanmerking te komen in het geval bedoeld in het eerste lid, onderdeel **b**, dient de ondernemer een daartoe strekkend verzoek, onder overlegging van bewijsstukken, bij de minister vóór 25 november 1987 te hebben ingediend.
 
-#### Artikel 6c
+##### Artikel 6c
 
 1. Het is verboden met enig ander vaartuig dan een vissersvaartuig de visserij met de boomkor uit te oefenen dan wel zodanig vistuig aan boord van enig ander vaartuig dan een vissersvaartuig aanwezig te hebben.
 
@@ -162,17 +184,17 @@ wijzigt en daardoor voor hem jegens die scheepswerf een rechtens afdwingbare ver
 
 4. Het is verboden aan boord van een vissersvaartuig meer dan twee boomkorren te hebben.
 
-#### Artikel 6d
+##### Artikel 6d
 
 1. Onze Minister kan vrijstelling of ontheffing verlenen van het bepaalde bij of krachtens dit besluit.
 
 2. Aan vrijstellingen en ontheffingen als bedoeld in het eerste lid kunnen voorschriften worden verbonden. Zij kunnen onder beperkingen worden verleend. Zij kunnen te allen tijde worden ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Het Reglement zeevisserij 1971 (**Stb.** 284), het Reglement voor de visserijzone 1970 (**Stb.** 174) en het Reglement voor de kustvisserij 1970 (**Stb.** 177) worden ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Dit besluit treedt in werking met ingang van 1 januari 1978.
 

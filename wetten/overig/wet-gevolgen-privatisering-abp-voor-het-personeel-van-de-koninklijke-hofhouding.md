@@ -1,14 +1,42 @@
 ---
-title: "Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding"
+title: "Wet van 14 november 1996 regelende de gevolgen van de privatisering van het ABP voor de pensioenen en uitkeringen van het personeel van de Koninklijke Hofhouding (Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding)"
 identifier: "BWBR0008328"
-categorie: "Overig"
-publicatiedatum: 2007-01-01
-laatste_update: 2007-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008328"
+country: "nl"
+rank: "wet"
+publication_date: "2007-01-01"
+last_updated: "2007-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008328"
+soort: "wet"
+stam_id: "188593"
+version_id: "257332"
+internal_id: "C257331"
+label_id: "185974"
+dtd_version: "2.0"
+original_entry_into_force: "1996-11-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008328/2007-01-01/0"
+intitule_bron: "Stb.1996-564"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-11-14"
+intitule_published: "1996-11-28"
+intitule_in_force: "1996-11-28"
+intitule_status: "goed"
+original_publication: "Stb.1996-564"
+original_signed_date: "1996-11-14"
+original_published_date: "1996-11-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "24813"
+original_url_id: "stb-1996-564"
+entry_into_force_date: "1996-11-29"
+entry_into_force_dossier: "24813"
+jci_1_3: "jci1.3:c:BWBR0008328&z=2007-01-01&g=2007-01-01"
+jci_1_0: "1.0:c:BWBR0008328&g=2007-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding"
+signed_date: "1996-11-14"
+entry_into_force: "1996-11-29"
 ---
-
-# Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding
+# Wet van 14 november 1996 regelende de gevolgen van de privatisering van het ABP voor de pensioenen en uitkeringen van het personeel van de Koninklijke Hofhouding (Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Werkt terug tot en met 1 januari 1996.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -32,13 +60,13 @@ In deze wet wordt verstaan onder:
 
 - e. Stichting Pensioenfonds ABP: de Stichting Pensioenfonds ABP, bedoeld in [artikel 6, van de Wet Privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=6).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een overeenkomst komt slechts tot stand na instemming van Onze Ministers van Binnenlandse Zaken en van Financiën.
 
 2. Onze Minister van Binnenlandse Zaken brengt het aangaan van een overeenkomst alsmede het wijzigen daarvan onverwijld ter kennis van de Staten-Generaal.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de toepassing van de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809):
 
@@ -50,35 +78,35 @@ In deze wet wordt verstaan onder:
 
 2. De uitvoeringsovereenkomst, bedoeld in de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809), wordt door middel van een overeenkomst tussen de Stichting en de Stichting Pensioenfonds ABP bij laatstgenoemde stichting neergelegd, tenzij Onze Ministers van Binnenlandse Zaken en van Financiën op verzoek van de Stichting anders besluiten.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Wet privatisering ABP.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Wet financiële voorzieningen privatisering ABP.
 
-#### Artikel 7
+##### Artikel 7
 
 De op 19 augustus 1960 tussen de Stichting en het Algemeen burgerlijk pensioenfonds gesloten overeenkomst, welke overeenkomst laatstelijk op 21 februari 1992 is gewijzigd en op 1 januari 1996 ingevolge [artikel 24 van de Wet Privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=24) onder algemene titel is overgegaan op de Stichting Pensioenfonds ABP, wordt aangemerkt als een overeenkomst als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008328&artikel=3&z=2007-01-01&g=2007-01-01).
 
-#### Artikel 8
+##### Artikel 8
 
 Indien de werkgevers behorende tot de sector Rijk de toezegging omtrent pensioen gezamenlijk door een andere pensioenuitvoerder dan de Stichting Pensioenfonds ABP laten uitvoeren, wordt de uitvoering van de door de Stichting gedane toezegging omtrent pensioen door middel van een overeenkomst tussen de Stichting en deze andere pensioenuitvoerder bij laatstbedoelde pensioenuitvoerder ondergebracht, tenzij Onze Ministers van Binnenlandse Zaken en van Financiën op verzoek van de Stichting anders besluiten.
 
-#### Artikel 9
+##### Artikel 9
 
 De Wet van 27 juli 1960, houdende maatregelen met betrekking tot de pensioenen van het personeel van de Koninklijke Hofhouding (**Stb**.1960, 314) wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1996.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze wet wordt aangehaald als: Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding.
 

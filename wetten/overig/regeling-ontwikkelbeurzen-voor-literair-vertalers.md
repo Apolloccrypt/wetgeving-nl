@@ -1,13 +1,35 @@
 ---
 title: "Regeling Ontwikkelbeurzen voor literair vertalers"
 identifier: "BWBR0051468"
-categorie: "Overig"
-publicatiedatum: 2025-09-10
-laatste_update: 2025-09-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051468"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-09-10"
+last_updated: "2025-09-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051468"
+soort: "zbo"
+stam_id: "17517963"
+version_id: "30911072"
+internal_id: "C44287391"
+label_id: "17420124"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051468/2025-09-10/0"
+intitule_bron: "Stcrt.2025-29428"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-09-09"
+intitule_in_force: "2025-09-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-29428"
+original_published_date: "2025-09-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-29428"
+entry_into_force_date: "2025-09-10"
+jci_1_3: "jci1.3:c:BWBR0051468&z=2025-09-10&g=2025-09-10"
+jci_1_0: "1.0:c:BWBR0051468&g=2025-09-10"
+citeertitel_status: "officieel"
+entry_into_force: "2025-09-10"
 ---
-
 # Regeling Ontwikkelbeurzen voor literair vertalers
 
 gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
@@ -18,7 +40,7 @@ gelet op het [Algemeen reglement Nederlands Letterenfonds](https://wetten.overhe
 
 besluit: de volgende regeling Ontwikkelbeurzen voor literair vertalers vast te stellen.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -38,11 +60,11 @@ In deze regeling wordt verstaan onder:
 
 - h. **hij:** onder hij wordt tevens verstaan iedere andere genderaanduiding die door de betreffende persoon als geëigend wordt ervaren.
 
-#### Artikel 2. Toepasselijkheid
+##### Artikel 2. Toepasselijkheid
 
 Deze regeling is van toepassing op aanvragen voor een ontwikkelbeurs die bij het bestuur worden ingediend en door het bestuur worden verstrekt. De ontwikkelbeurs is bestemd voor activiteiten die bijdragen aan de ontwikkeling als literair vertaler.
 
-#### Artikel 3. Vereisten aanvrager
+##### Artikel 3. Vereisten aanvrager
 
 1. De aanvrager van een ontwikkelbeurs is een natuurlijk persoon en heeft een belastbaar verzamelinkomen in het jaar van de aanvraag dat naar verwachting niet hoger is dan de door het Letterenfonds vastgestelde inkomensgrens zoals bekendgemaakt in de Staatscourant en op de website van het Letterenfonds.
 
@@ -82,7 +104,7 @@ Deze regeling is van toepassing op aanvragen voor een ontwikkelbeurs die bij het
 
 5. Aanvragers zoals genoemd onder het vorige lid onder c, dienen na drie toegekende aanvragen te voldoen aan de voorwaarden zoals genoemd onder a of b van het vorige lid.
 
-#### Artikel 4. Vereisten activiteit
+##### Artikel 4. Vereisten activiteit
 
 1. De ontwikkelbeurs kan voor de volgende activiteiten worden aangevraagd:
 
@@ -98,7 +120,7 @@ Deze regeling is van toepassing op aanvragen voor een ontwikkelbeurs die bij het
 
 3. Literair vertalers uit het Nederlands, Fries of een andere officiële taal van het Caribisch deel van het Koninkrijk kunnen maximaal één ontwikkelbeurs per jaar aanvragen.
 
-#### Artikel 5. Weigeringsgronden
+##### Artikel 5. Weigeringsgronden
 
 Een aanvraag voor een ontwikkelbeurs kan worden afgewezen:
 
@@ -108,7 +130,7 @@ Een aanvraag voor een ontwikkelbeurs kan worden afgewezen:
 
 - c. als de aanvraag betrekking heeft op inschrijfgeld voor opleidingen of cursussen aan de Vertalervakschool, het Expertisecentrum Literair Vertalen of voltijdsopleidingen aan een universiteit of hogeschool.
 
-#### Artikel 6. Aanvraagperiode, verdelingssysteem en subsidieplafond
+##### Artikel 6. Aanvraagperiode, verdelingssysteem en subsidieplafond
 
 1. Het Letterenfonds behandelt de aanvragen doorlopend op volgorde van binnenkomst in de periode van 1 februari tot 1 december.
 
@@ -120,7 +142,7 @@ Een aanvraag voor een ontwikkelbeurs kan worden afgewezen:
 
 5. Wijzigingen van het subsidieplafond worden bekendgemaakt in de Staatscourant en op de website.
 
-#### Artikel 7. Aanvraag
+##### Artikel 7. Aanvraag
 
 1. De aanvrager kan uitsluitend een ontwikkelbeurs aanvragen met het op de website ter beschikking gestelde digitale aanvraagformulier.
 
@@ -138,13 +160,13 @@ Een aanvraag voor een ontwikkelbeurs kan worden afgewezen:
 
 5. Voor vertalers uit het Nederlands, Fries of een andere officiële taal van het Caribisch deel van het Koninkrijk geldt dat zij voor promotiedossiers van Nederlandse auteurs kunnen aanvragen bij het Letterenfonds, en voor promotiedossiers van Vlaamse auteurs aanvragen bij Literatuur Vlaanderen.
 
-#### Artikel 8. Hoogte van de subsidie
+##### Artikel 8. Hoogte van de subsidie
 
 1. De ontwikkelbeurs bedraagt maximaal € 3.500 voor literair vertalers in het Nederlands, Fries of een andere officiële taal van het Caribisch deel van het Koninkrijk.
 
 2. De ontwikkelbeurs bedraagt € 1.000 voor literair vertalers uit het Nederlands, Fries of een andere officiële taal van het Caribisch deel van het Koninkrijk.
 
-#### Artikel 9. Beoordelingscriteria
+##### Artikel 9. Beoordelingscriteria
 
 1. De aanvraag voor een ontwikkelbeurs wordt getoetst aan de volgende criteria:
 
@@ -154,7 +176,7 @@ Een aanvraag voor een ontwikkelbeurs kan worden afgewezen:
 
 2. De subsidie wordt uitsluitend toegekend als het oordeel over de kwaliteit van het ontwikkelplan en de realiteitszin van de begroting positief is.
 
-#### Artikel 10. Besluit
+##### Artikel 10. Besluit
 
 1. Het bestuur beslist binnen acht weken na het moment waarop de aanvraag voor een ontwikkelbeurs is ontvangen.
 
@@ -162,7 +184,7 @@ Een aanvraag voor een ontwikkelbeurs kan worden afgewezen:
 
 3. In de beschikking wordt de wijze van betaling van de subsidie bepaald.
 
-#### Artikel 11. Verplichtingen subsidieontvanger
+##### Artikel 11. Verplichtingen subsidieontvanger
 
 1. De subsidie wordt door de subsidieontvanger besteed aan de uitvoering van het in de aanvraag omschreven plan.
 
@@ -178,7 +200,7 @@ Een aanvraag voor een ontwikkelbeurs kan worden afgewezen:
 
 7. In het geval de ontwikkelbeurs is toegekend aan een literair vertaler uit het Nederlands, Fries of een andere officiële taal van het Caribisch deel van het Koninkrijk voor het samenstellen van een promotiedossier stuurt subsidieontvanger een kopie van het promotiedossier aan het Letterenfonds en geeft hij het Letterenfonds toestemming hiervan gebruik te maken bij haar internationale promotieactiviteiten.
 
-#### Artikel 12. Intrekkings- en wijzigingsgronden subsidievaststelling
+##### Artikel 12. Intrekkings- en wijzigingsgronden subsidievaststelling
 
 1. Het bestuur kan de subsidievaststelling intrekken of wijzigen als de subsidieontvanger niet heeft voldaan aan verplichtingen die aan de aan de subsidie verbonden zijn.
 
@@ -192,11 +214,11 @@ Een aanvraag voor een ontwikkelbeurs kan worden afgewezen:
 
 6. Het bedrag waarmee de subsidie eventueel wordt verlaagd, wordt verrekend met eventueel nog te betalen gedeelten van de subsidie of teruggevorderd.
 
-#### Artikel 13. Hardheidsclausule
+##### Artikel 13. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 14. Slotbepaling
+##### Artikel 14. Slotbepaling
 
 1. Deze regeling treedt in werking met ingang van 10 september 2025.
 
@@ -204,7 +226,7 @@ Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een
 
 3. In afwijking van het tweede lid blijft de Regeling Starters- en ontwikkelbeurzen literair vertalers van toepassing op voor het tijdstip van inwerkingtreding van deze regeling ingediende aanvragen, verleende subsidies en tijdig ingestelde bezwaar- en beroepschriften.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als regeling Ontwikkelbeurzen voor literair vertalers.
 

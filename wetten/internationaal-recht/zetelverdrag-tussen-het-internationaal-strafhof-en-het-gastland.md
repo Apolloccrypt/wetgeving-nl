@@ -1,13 +1,38 @@
 ---
 title: "Zetelverdrag tussen het Internationaal Strafhof en het Gastland"
 identifier: "BWBV0002899"
-categorie: "Internationaal recht"
-publicatiedatum: 2008-03-01
-laatste_update: 2007-06-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002899"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-03-01"
+last_updated: "2007-06-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002899"
+soort: "verdrag"
+stam_id: "10003219323"
+version_id: "10003235672"
+internal_id: "C10006994311"
+label_id: "10003205944"
+dtd_version: "2.0"
+original_entry_into_force: "2008-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002899/2008-03-01/0"
+intitule_bron: "Trb.2007-125"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-01-08"
+intitule_published: "2007-07-17"
+intitule_in_force: "2008-03-04"
+intitule_status: "goed"
+original_publication: "Trb.2007-125"
+original_signed_date: "2008-01-08"
+original_published_date: "2007-07-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2007-125"
+entry_into_force_date: "2008-03-01"
+jci_1_3: "jci1.3:c:BWBV0002899&z=2008-03-01&g=2008-03-01"
+jci_1_0: "1.0:c:BWBV0002899&g=2008-03-01"
+citeertitel_status: "redactioneel"
+signed_date: "2008-01-08"
+entry_into_force: "2008-03-01"
 ---
-
 # Zetelverdrag tussen het Internationaal Strafhof en het Gastland
 
 Het Koninkrijk der Nederlanden en het Internationaal Strafhof,
@@ -30,7 +55,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -92,27 +117,27 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - cc. „Reglement van proces- en bewijsvoering’’, het in overeenstemming met artikel 51 van het Statuut aangenomen Reglement van proces- en bewijsvoering.
 
-#### Artikel 2. Doel en reikwijdte van dit Verdrag
+##### Artikel 2. Doel en reikwijdte van dit Verdrag
 
 Dit Verdrag regelt alle zaken die verband houden met of voortvloeien uit de instelling en het naar behoren functioneren van het Hof in het Gastland. Het Verdrag voorziet onder meer in de langdurige stabiliteit en onafhankelijkheid van het Hof en vergemakkelijkt het soepele en doeltreffende functioneren ervan, met inbegrip van, met name, de behoeften met betrekking tot de personen wier aanwezigheid op de zetel van het Hof vereist is en met betrekking tot het overbrengen van informatie, mogelijk bewijs of bewijs in en uit het Gastland. Dit Verdrag regelt tevens alle zaken die verband houden met of voortvloeien uit de instelling en het naar behoren functioneren van het Secretariaat in het Gastland, en de bepalingen ervan zijn van overeenkomstige toepassing op het Secretariaat. Dit Verdrag regelt, naargelang van toepassing, zaken die verband houden met de Vergadering, met inbegrip van haar Bureau en hulporganen.
 
 ### HOOFDSTUK II. RECHTSPOSITIE VAN HET HOF
 
-#### Artikel 3. Juridische status en rechtspersoonlijkheid van het Hof
+##### Artikel 3. Juridische status en rechtspersoonlijkheid van het Hof
 
 Het Hof bezit internationale rechtspersoonlijkheid in overeenstemming met artikel 4, eerste lid, van het Statuut en bezit de handelingsbevoegdheid die benodigd is voor de uitoefening van zijn taken en verwezenlijking van zijn doelstellingen. Het Hof heeft met name de bevoegdheid overeenkomsten te sluiten, roerende en onroerende zaken te verwerven en te vervreemden en in rechte op te treden.
 
-#### Artikel 4. Vrijheid van vergadering
+##### Artikel 4. Vrijheid van vergadering
 
 1. Het Gastland garandeert de Vergadering, met inbegrip van haar Bureau en hulporganen, volledige vrijheid van vergadering, met inbegrip van de vrijheid van discussie, besluitvorming en publicatie.
 
 2. Het Gastland treft alle noodzakelijke maatregelen om te waarborgen dat de voortgang van door de Vergadering, met inbegrip van haar Bureau en hulporganen, bijeengeroepen bijeenkomsten op geen enkele wijze wordt belemmerd.
 
-#### Artikel 5. Voorrechten, immuniteiten en faciliteiten van het Hof
+##### Artikel 5. Voorrechten, immuniteiten en faciliteiten van het Hof
 
 Het Hof geniet op het grondgebied van het Gastland de voorrechten, immuniteiten en faciliteiten die noodzakelijk zijn voor de verwezenlijking van zijn doelstellingen.
 
-#### Artikel 6. Onschendbaarheid van het terrein van het Hof
+##### Artikel 6. Onschendbaarheid van het terrein van het Hof
 
 1. Het terrein van het Hof is onschendbaar. De bevoegde autoriteiten waarborgen dat het terrein niet geheel of gedeeltelijk wordt onteigend of het Hof wordt ontzegd zonder zijn uitdrukkelijke toestemming.
 
@@ -124,7 +149,7 @@ Het Hof geniet op het grondgebied van het Gastland de voorrechten, immuniteiten 
 
 5. Het Hof voorkomt dat zijn terrein gebruikt wordt als toevluchtsoord voor personen die arrestatie of berechting op grond van enige wet van het Gastland willen ontlopen.
 
-#### Artikel 7. Bescherming van het terrein van het Hof en de omgeving daarvan
+##### Artikel 7. Bescherming van het terrein van het Hof en de omgeving daarvan
 
 1. De bevoegde autoriteiten nemen alle doeltreffende en adequate maatregelen om de beveiliging en bescherming van het Hof te waarborgen en ervoor te zorgen dat de rust van het Hof niet wordt verstoord door personen of groepen die het terrein van het Hof betreden of door ordeverstoring in de onmiddellijke omgeving van het terrein, en bieden het Hof de eventueel benodigde bescherming.
 
@@ -132,7 +157,7 @@ Het Hof geniet op het grondgebied van het Gastland de voorrechten, immuniteiten 
 
 3. De bevoegde autoriteiten treffen alle redelijke maatregelen om erop toe te zien dat het ongestoord gebruik van het terrein van het Hof niet wordt belemmerd en dat het terrein kan worden gebruikt voor de doeleinden waarvoor het is bestemd zonder hinder door de wijze van gebruik van de percelen of gebouwen in de omgeving van het terrein. Het Hof treft alle redelijke maatregelen om erop toe te zien dat het ongestoord gebruik van de percelen in de omgeving van het terrein van het Hof niet wordt belemmerd door de wijze van gebruik van de percelen of gebouwen van het terrein van het Hof.
 
-#### Artikel 8. Recht en gezag op het terrein van het Hof
+##### Artikel 8. Recht en gezag op het terrein van het Hof
 
 1. Het terrein van het Hof staat onder het beheer en gezag van het Hof, zoals bepaald in dit Verdrag.
 
@@ -148,7 +173,7 @@ Het Hof geniet op het grondgebied van het Gastland de voorrechten, immuniteiten 
 
 7. Ieder geschil tussen het Hof en het Gastland over de vraag of regels van het Hof onder deze bepaling vallen of over de vraag of wetten of regels van het Gastland onverenigbaar zijn met de regels van het Hof uit hoofde van dit lid, wordt onverwijld beslecht volgens de in artikel 55 van dit Verdrag vervatte procedure. Zolang het geschil nog niet is beslecht, is de regel van het Hof van toepassing en is de wet en/of regel van het Gastland op het terrein van het Hof niet van toepassing voor zover het Hof deze onverenigbaar acht met zijn regels.
 
-#### Artikel 9. Openbare voorzieningen ten behoeve van het terrein van het Hof
+##### Artikel 9. Openbare voorzieningen ten behoeve van het terrein van het Hof
 
 1. De bevoegde autoriteiten zorgen er, op verzoek van de Griffier of van een door hem of haar aangewezen personeelslid van het Hof, voor dat het Hof tegen redelijke voorwaarden de beschikking krijgt over de door het Hof benodigde openbare voorzieningen waaronder, echter niet beperkt tot, post-, telefoon- en telegraafdiensten, alle communicatiemiddelen, elektriciteit, water, gas, riolering, ophalen van vuilnis, brandbestrijding en reiniging van de openbare weg met inbegrip van het ruimen van sneeuw.
 
@@ -160,11 +185,11 @@ Het Hof geniet op het grondgebied van het Gastland de voorrechten, immuniteiten 
 
 5. Ondergrondse werkzaamheden op het terrein van het Hof kunnen door de bevoegde autoriteiten alleen worden uitgevoerd na overleg met de Griffier of een door hem of haar aangewezen personeelslid van het Hof en zonder de uitoefening van de taken van het Hof te verstoren.
 
-#### Artikel 10. Vlag, embleem en onderscheidingstekens
+##### Artikel 10. Vlag, embleem en onderscheidingstekens
 
 Het Hof is bevoegd zijn vlag, embleem en onderscheidingstekens te tonen op zijn terrein en op voertuigen en andere vervoermiddelen die voor officiële doeleinden worden gebruikt.
 
-#### Artikel 11. Fondsen, bezittingen en overige eigendommen
+##### Artikel 11. Fondsen, bezittingen en overige eigendommen
 
 1. Het Hof en zijn fondsen, bezittingen en overige eigendommen, ongeacht waar deze zich bevinden of wie deze onder zich heeft, zijn vrijgesteld van elke vorm van rechtsvervolging, behoudens voor zover het Hof in een bijzonder geval uitdrukkelijk van zijn immuniteit afstand heeft gedaan, evenwel met dien verstande dat afstand van immuniteit zich nooit uitstrekt tot executiemaatregelen.
 
@@ -172,11 +197,11 @@ Het Hof is bevoegd zijn vlag, embleem en onderscheidingstekens te tonen op zijn 
 
 3. Voor zover benodigd voor de uitoefening van de taken van het Hof zijn de fondsen, bezittingen en overige eigendommen van het Hof, ongeacht waar deze zich bevinden of wie deze onder zich heeft, vrijgesteld van beperkingen, voorschriften, controles en moratoria van welke aard dan ook.
 
-#### Artikel 12. Onschendbaarheid van archieven, documenten en materiaal
+##### Artikel 12. Onschendbaarheid van archieven, documenten en materiaal
 
 De archieven van het Hof, en alle stukken en documenten in welke vorm dan ook, alsmede naar of door het Hof verzonden materiaal, in het bezit van of toebehorend aan het Hof, ongeacht waar deze zich bevinden of wie deze onder zich heeft, zijn onschendbaar. De beëindiging of afwezigheid van deze onschendbaarheid doet geen afbreuk aan de beschermende maatregelen waartoe het Hof kan bevelen ingevolge het Statuut en het Reglement van proces- en bewijsvoering ten aanzien van aan het Hof beschikbaar gestelde of door het Hof gebruikte materialen en documenten.
 
-#### Artikel 13. Faciliteiten met betrekking tot communicatie
+##### Artikel 13. Faciliteiten met betrekking tot communicatie
 
 1. Ten behoeve van zijn officiële communicatie en correspondentie geniet het Hof op het grondgebied van het Gastland een behandeling die niet minder gunstig is dan die welke door het Gastland wordt toegekend aan een intergouvernementele organisatie of diplomatieke missie ter zake van prioriteiten, tarieven en belastingen die van toepassing zijn op post en uiteenlopende vormen van communicatie en correspondentie.
 
@@ -190,7 +215,7 @@ De archieven van het Hof, en alle stukken en documenten in welke vorm dan ook, a
 
 6. Teneinde zijn doelstellingen te verwezenlijken en zich doeltreffend van zijn verantwoordelijkheden te kwijten heeft het Hof het recht vrijelijk en zonder beperkingen berichten te publiceren in het Gastland, in overeenstemming met dit Verdrag.
 
-#### Artikel 14. Vrijheid van beperkingen ten aanzien van financiële bezittingen
+##### Artikel 14. Vrijheid van beperkingen ten aanzien van financiële bezittingen
 
 1. Het Hof is niet onderworpen aan financiële controles, regelingen, kennisgevingsvereisten met betrekking tot financiële transacties, of moratoria van enigerlei aard, en kan vrijelijk:
 
@@ -206,7 +231,7 @@ De archieven van het Hof, en alle stukken en documenten in welke vorm dan ook, a
 
 2. Het Hof geniet een behandeling die niet minder gunstig is dan die welke door het Gastland wordt toegekend aan een intergouvernementele organisatie of diplomatieke missie ter zake van wisselkoersen voor zijn financiële transacties.
 
-#### Artikel 15. Vrijstelling van het Hof en zijn eigendommen van belastingen en heffingen
+##### Artikel 15. Vrijstelling van het Hof en zijn eigendommen van belastingen en heffingen
 
 1. Binnen het kader van zijn officiële taken worden het Hof, zijn bezittingen, inkomsten en andere eigendommen vrijgesteld van alle directe belastingen die door de nationale, provinciale of plaatselijke overheid worden geheven.
 
@@ -238,13 +263,13 @@ De archieven van het Hof, en alle stukken en documenten in welke vorm dan ook, a
 
 5. Het Hof zal zich evenwel niet beroepen op vrijstelling van belastingen die in feite niets anders zijn dan retributies voor openbare diensten die worden geleverd tegen een vast bedrag overeenkomstig het aantal geleverde diensten en die nauwkeurig kunnen worden geïdentificeerd, omschreven en gespecificeerd.
 
-#### Artikel 16. Vrijstelling van invoer- en uitvoerbeperkingen
+##### Artikel 16. Vrijstelling van invoer- en uitvoerbeperkingen
 
 Het Hof is vrijgesteld van invoer- en uitvoerbeperkingen inzake de invoer en uitvoer met betrekking tot de door het Hof voor officieel gebruik ingevoerde of uitgevoerde artikelen en met betrekking tot zijn publicaties.
 
 ### HOOFDSTUK III. VOORRECHTEN, IMMUNITEITEN EN FACILITEITEN TOEGEKEND AAN PERSONEN UIT HOOFDE VAN DIT VERDRAG
 
-#### Artikel 17. Voorrechten, immuniteiten en faciliteiten van rechters, de Aanklager, de Substituut-Aanklagers en de Griffier
+##### Artikel 17. Voorrechten, immuniteiten en faciliteiten van rechters, de Aanklager, de Substituut-Aanklagers en de Griffier
 
 1. De rechters, de Aanklager, de Substituut-Aanklagers en de Griffier genieten voorrechten, immuniteiten en faciliteiten bij de uitoefening van of met betrekking tot de werkzaamheden van het Hof. Zij genieten onder andere:
 
@@ -290,7 +315,7 @@ Het Hof is vrijgesteld van invoer- en uitvoerbeperkingen inzake de invoer en uit
 
 - e. het recht vrij van rechten en belastingen, behoudens betalingen voor verleende diensten, hun meubels en bezittingen in te voeren wanneer zij voor de eerste maal hun functie in het Gastland aanvaarden. De in dit lid bedoelde personen worden door het Gastland niet aan enige maatregel onderworpen die de vrije en onafhankelijke uitoefening van hun functie bij het Hof kan belemmeren.
 
-#### Artikel 18. Voorrechten, immuniteiten en faciliteiten van de Substituut-Griffier en het personeel van het Hof
+##### Artikel 18. Voorrechten, immuniteiten en faciliteiten van de Substituut-Griffier en het personeel van het Hof
 
 1. De Substituut-Griffier en het personeel van het Hof genieten de voorrechten, immuniteiten en faciliteiten die nodig zijn voor de onafhankelijke uitoefening van hun functie. Zij genieten:
 
@@ -336,11 +361,11 @@ Het Hof is vrijgesteld van invoer- en uitvoerbeperkingen inzake de invoer en uit
 
 De in dit lid bedoelde personen worden door het Gastland niet aan enige maatregel onderworpen die de vrije en onafhankelijke uitoefening van hun functie bij het Hof kan belemmeren.
 
-#### Artikel 19. Lokaal geworven personeel ten aanzien waarvan in dit Verdrag niets anders is geregeld
+##### Artikel 19. Lokaal geworven personeel ten aanzien waarvan in dit Verdrag niets anders is geregeld
 
 Aan door het Hof lokaal geworven personeel ten aanzien waarvan in dit Verdrag niets anders is geregeld, wordt immuniteit van rechtsvervolging toegekend met betrekking tot alle door hen in hun officiële hoedanigheid voor het Hof gesproken of geschreven woorden of verrichte handelingen. Deze immuniteit blijft gelden na beëindiging van hun dienstverband bij het Hof. Gedurende hun dienstverband worden aan hen tevens de faciliteiten toegekend die benodigd zijn voor de onafhankelijke uitoefening van hun functie bij het Hof.
 
-#### Artikel 20. Tewerkstelling van gezinsleden van functionarissen van het Hof
+##### Artikel 20. Tewerkstelling van gezinsleden van functionarissen van het Hof
 
 1. Het wordt gezinsleden die deel uitmaken van de huishouding van functionarissen van het Hof toegestaan in het Gastland betaalde werkzaamheden te verrichten gedurende het tijdvak waarin de betrokken functionaris van het Hof is aangesteld.
 
@@ -360,7 +385,7 @@ Aan door het Hof lokaal geworven personeel ten aanzien waarvan in dit Verdrag ni
 
 5. De in dit artikel bedoelde werkzaamheden dienen in overeenstemming te zijn met de wetgeving van het Gastland, met inbegrip van de wetgeving inzake belastingen en sociale zekerheid.
 
-#### Artikel 21. Vertegenwoordigers van Staten die deelnemen aan de procedures van het Hof
+##### Artikel 21. Vertegenwoordigers van Staten die deelnemen aan de procedures van het Hof
 
 1. Vertegenwoordigers van Staten die deelnemen aan de procedures van het Hof genieten, tijdens de uitoefening van hun officiële functie in het Gastland, de volgende voorrechten, immuniteiten en faciliteiten:
 
@@ -388,15 +413,15 @@ Aan door het Hof lokaal geworven personeel ten aanzien waarvan in dit Verdrag ni
 
 4. De in het eerste lid van dit artikel bedoelde vertegenwoordigers van Staten worden door het Gastland niet aan enige maatregel onderworpen die de vrije en onafhankelijke uitoefening van hun functie bij het Hof kan belemmeren.
 
-#### Artikel 22. Vertegenwoordigers van Staten die bijeenkomsten van de Vergadering en haar hulporganen bijwonen en vertegenwoordigers van intergouvernementele organisaties
+##### Artikel 22. Vertegenwoordigers van Staten die bijeenkomsten van de Vergadering en haar hulporganen bijwonen en vertegenwoordigers van intergouvernementele organisaties
 
 Vertegenwoordigers van Staten die Partij zijn die bijeenkomsten van de Vergadering, het Bureau en van hulporganen bijwonen, vertegenwoordigers van andere Staten die dergelijke bijeenkomsten als waarnemer mogen bijwonen overeenkomstig artikel 112, eerste lid, van het Statuut, en vertegenwoordigers van Staten en van intergouvernementele organisaties die zijn uitgenodigd voor dergelijke bijeenkomsten, genieten de in artikel 21 van dit Verdrag bedoelde voorrechten, immuniteiten en faciliteiten bij de uitoefening van hun officiële functie en gedurende hun reis naar en van de plaats van bijeenkomst.
 
-#### Artikel 23. Leden van het Bureau en van hulporganen
+##### Artikel 23. Leden van het Bureau en van hulporganen
 
 De bepalingen van artikel 21 van dit Verdrag zijn van overeenkomstige toepassing op leden van het Bureau en leden van de hulporganen van de Vergadering wier aanwezigheid in het Gastland vereist is in verband met het werk van de Vergadering, met inbegrip van haar Bureau en hulporganen.
 
-#### Artikel 24. Stagiaires en bezoekende vakspecialisten
+##### Artikel 24. Stagiaires en bezoekende vakspecialisten
 
 1. Binnen acht dagen na de eerste aankomst van stagiair(e)s of bezoekende vakspecialisten in het Gastland verzoekt het Hof het ministerie van Buitenlandse Zaken hen te registreren in overeenstemming met het tweede lid van dit artikel.
 
@@ -426,7 +451,7 @@ De bepalingen van artikel 21 van dit Verdrag zijn van overeenkomstige toepassing
 
 In uitzonderlijke omstandigheden kan het maximumtijdvak van een jaar genoemd in het tweede lid van dit artikel worden verlengd met ten hoogste een jaar.
 
-#### Artikel 25. Raadslieden en personen die de verdediging bijstaan
+##### Artikel 25. Raadslieden en personen die de verdediging bijstaan
 
 1. Raadslieden genieten de volgende voorrechten, immuniteiten en faciliteiten voor zover benodigd voor de onafhankelijke uitoefening van hun functie, mits het in het tweede lid van dit artikel bedoelde certificaat wordt overgelegd:
 
@@ -466,7 +491,7 @@ In uitzonderlijke omstandigheden kan het maximumtijdvak van een jaar genoemd in 
 
 6. De bepalingen van dit artikel zijn van overeenkomstige toepassing op personen die de verdediging bijstaan in overeenstemming met regel 22 van het Reglement van proces- en bewijsvoering.
 
-#### Artikel 26. Getuigen
+##### Artikel 26. Getuigen
 
 1. Getuigen genieten de volgende voorrechten, immuniteiten en faciliteiten voor zover benodigd voor hun verschijning voor het Hof ten behoeve van het afleggen van een getuigenverklaring, mits het in het tweede lid van dit artikel bedoelde document wordt overgelegd:
 
@@ -500,7 +525,7 @@ In uitzonderlijke omstandigheden kan het maximumtijdvak van een jaar genoemd in 
 
 5. Getuigen worden door het Gastland niet aan enige maatregel onderworpen die hun verschijning of getuigenverklaring voor het Hof kan beïnvloeden.
 
-#### Artikel 27. Slachtoffers
+##### Artikel 27. Slachtoffers
 
 1. Slachtoffers die deelnemen aan de procedure overeenkomstig de Regels 89 tot en met 91 van het Reglement van proces- en bewijsvoering genieten de volgende voorrechten, immuniteiten en faciliteiten voor zover benodigd voor hun verschijning voor het Hof, mits het in het tweede lid van dit artikel bedoelde document wordt overgelegd:
 
@@ -522,7 +547,7 @@ In uitzonderlijke omstandigheden kan het maximumtijdvak van een jaar genoemd in 
 
 5. Slachtoffers worden door het Gastland niet aan enige maatregel onderworpen die hun verschijning voor het Hof kan beïnvloeden.
 
-#### Artikel 28. Deskundigen
+##### Artikel 28. Deskundigen
 
 1. Aan deskundigen, met inbegrip van om niet ter beschikking gestelde medewerkers, die functies bij het Hof vervullen, worden de volgende voorrechten, immuniteiten en faciliteiten toegekend voor zover benodigd voor de onafhankelijke uitoefening van hun functies, mits het in het tweede lid van dit artikel bedoelde document wordt overgelegd:
 
@@ -562,7 +587,7 @@ In uitzonderlijke omstandigheden kan het maximumtijdvak van een jaar genoemd in 
 
 6. Dit artikel is van overeenkomstige toepassing op deskundigen van de Vergadering, met inbegrip van haar Bureau en hulporganen, wier aanwezigheid in het Gastland vereist is in verband met het werk van de Vergadering, met inbegrip van haar Bureau en hulporganen.
 
-#### Artikel 29. Overige personen wier aanwezigheid op de zetel van het Hof vereist is
+##### Artikel 29. Overige personen wier aanwezigheid op de zetel van het Hof vereist is
 
 1. Aan de overige personen wier aanwezigheid op de zetel van Hof vereist is worden, voor zover nodig voor hun aanwezigheid op de zetel van het Hof, de in artikel 27 van dit Verdrag bedoelde voorrechten, immuniteiten en faciliteiten toegekend, mits het in het tweede lid van dit artikel bedoelde document wordt overgelegd.
 
@@ -576,7 +601,7 @@ In uitzonderlijke omstandigheden kan het maximumtijdvak van een jaar genoemd in 
 
 ### HOOFDSTUK IV. AFSTAND VAN VOORRECHTEN EN IMMUNITEITEN
 
-#### Artikel 30. Afstand van de in de artikelen 17, 18, 19, 24, 25, 26, 27, 28 en 29 bedoelde voorrechten, immuniteiten en faciliteiten
+##### Artikel 30. Afstand van de in de artikelen 17, 18, 19, 24, 25, 26, 27, 28 en 29 bedoelde voorrechten, immuniteiten en faciliteiten
 
 1. De in de artikelen 17, 18, 19, 24, 25, 26, 27, 28 en 29 van dit Verdrag bedoelde voorrechten, immuniteiten en faciliteiten worden toegekend in het belang van een goede rechtsbedeling en niet voor het persoonlijk gewin van de betrokkenen zelf. Van deze voorrechten en immuniteiten kan in overeenstemming met artikel 48, vijfde lid, van het Statuut en met het bepaalde in dit artikel afstand worden gedaan en er is een verplichting zulks te doen in elk bijzonder geval waarin deze voorrechten, immuniteiten en faciliteiten de rechtsgang zouden belemmeren en hiervan afstand kan worden gedaan zonder afbreuk te doen aan het doel waarvoor zij zijn toegekend.
 
@@ -616,11 +641,11 @@ In uitzonderlijke omstandigheden kan het maximumtijdvak van een jaar genoemd in 
 
 - h. door het hoofd van het orgaan van het Hof dat de deskundigen benoemt, in het geval van deskundigen.
 
-#### Artikel 31. Afstand van de in de artikelen 21, 22 en 23 bedoelde voorrechten, immuniteiten en faciliteiten van vertegenwoordigers van Staten en leden van het Bureau
+##### Artikel 31. Afstand van de in de artikelen 21, 22 en 23 bedoelde voorrechten, immuniteiten en faciliteiten van vertegenwoordigers van Staten en leden van het Bureau
 
 De in de artikelen 21, 22 en 23 van dit Verdrag bedoelde voorrechten, immuniteiten en faciliteiten worden niet aan de vertegenwoordigers van Staten en leden van het Bureau en intergouvernementele organisaties toegekend voor het persoonlijk gewin van de betrokkenen zelf, maar teneinde de onafhankelijke uitoefening van hun functies in verband met de werkzaamheden van de Vergadering, met inbegrip van haar Bureau en hulporganen, en het Hof te waarborgen. Dientengevolge hebben de Staten die Partij zijn bij het Verdrag betreffende de privileges en immuniteiten van het Internationaal Strafhof niet alleen het recht afstand te doen van de voorrechten, immuniteiten en faciliteiten van hun vertegenwoordigers, maar zijn zij hiertoe verplicht in de gevallen waarin deze voorrechten, immuniteiten en faciliteiten, naar het oordeel van die Staten, de rechtsgang zouden belemmeren en waarin hiervan afstand kan worden gedaan zonder afbreuk te doen aan het doel waarvoor zij zijn toegekend. Aan Staten die geen partij zijn bij het Verdrag betreffende de privileges en immuniteiten van het Internationaal Strafhof en aan intergouvernementele organisaties worden de in de artikelen 21, 22 en 23 van dit Verdrag bedoelde voorrechten, immuniteiten en faciliteiten toegekend, mits zij dezelfde verplichting met betrekking tot de afstand hiervan op zich nemen.
 
-#### Artikel 32. Afstand van de in de artikelen 23 en 28, zesde lid, bedoelde voorrechten, immuniteiten en faciliteiten van leden van hulporganen en deskundigen voor de Vergadering, met inbegrip van haar Bureau en hulporganen
+##### Artikel 32. Afstand van de in de artikelen 23 en 28, zesde lid, bedoelde voorrechten, immuniteiten en faciliteiten van leden van hulporganen en deskundigen voor de Vergadering, met inbegrip van haar Bureau en hulporganen
 
 De in de artikelen 23 en 28, zesde lid, van dit Verdrag bedoelde voorrechten, immuniteiten en faciliteiten worden niet aan respectievelijk de leden van hulporganen en aan deskundigen toegekend voor het persoonlijk gewin van de betrokkenen zelf, maar teneinde de onafhankelijke uitoefening van hun functie in verband met de werkzaamheden van de Vergadering, met inbegrip van haar Bureau en hulporganen, en het Hof te waarborgen. Dientengevolge heeft de Voorzitter van de Vergadering niet alleen het recht afstand te doen van de voorrechten, immuniteiten en faciliteiten van de leden van hulporganen of van deskundigen, maar is hij hiertoe verplicht in de gevallen waarin deze voorrechten, immuniteiten en faciliteiten, naar het oordeel van de Voorzitter van de Vergadering, de rechtsgang zouden belemmeren en waarin hiervan afstand kan worden gedaan zonder afbreuk te doen aan het doel waarvoor zij zijn toegekend.
 
@@ -628,7 +653,7 @@ De in de artikelen 23 en 28, zesde lid, van dit Verdrag bedoelde voorrechten, im
 
 ## Afdeling 1. Algemeen
 
-#### Artikel 33. Algemene samenwerking tussen het Hof en het Gastland
+##### Artikel 33. Algemene samenwerking tussen het Hof en het Gastland
 
 1. Waar dit Verdrag verplichtingen oplegt aan de bevoegde autoriteiten, ligt de uiteindelijke verantwoordelijkheid voor de vervulling van deze verplichtingen bij de Regering van het Gastland.
 
@@ -640,7 +665,7 @@ De in de artikelen 23 en 28, zesde lid, van dit Verdrag bedoelde voorrechten, im
 
 5. De communicatie met betrekking tot de Vergadering en het Gastland ter zake van de afstand van de in artikel 32 van dit Verdrag bedoelde voorrechten, immuniteiten en faciliteiten verloopt via het Secretariaat.
 
-#### Artikel 34. Samenwerking met de bevoegde autoriteiten
+##### Artikel 34. Samenwerking met de bevoegde autoriteiten
 
 1. Het Hof werkt samen met de bevoegde autoriteiten teneinde de handhaving van de wetten van het Gastland te vergemakkelijken, de naleving van politievoorschriften te waarborgen en gevallen van misbruik in verband met de in dit Verdrag toegekende voorrechten, immuniteiten en faciliteiten te voorkomen.
 
@@ -654,7 +679,7 @@ De in de artikelen 23 en 28, zesde lid, van dit Verdrag bedoelde voorrechten, im
 
 6. Het Gastland stelt alles in het werk om het Hof in kennis te stellen van alle voorgestelde of vastgestelde nationale wet- of regelgeving die directe gevolgen heeft voor de voorrechten, immuniteiten, faciliteiten, rechten en verplichtingen van het Hof en zijn functionarissen. Het Hof heeft het recht opmerkingen kenbaar te maken ter zake van de voorgestelde nationale wet- en regelgeving.
 
-#### Artikel 35. Kennisgeving
+##### Artikel 35. Kennisgeving
 
 1. Het Hof doet het Gastland onmiddellijk kennisgeving van:
 
@@ -668,7 +693,7 @@ De in de artikelen 23 en 28, zesde lid, van dit Verdrag bedoelde voorrechten, im
 
 3. Bij het definitieve vertrek van de in het tweede lid van dit artikel bedoelde personen of wanneer deze personen niet langer hun functie uitoefenen, dient de in het tweede lid van dit artikel bedoelde identiteitskaart onverwijld door het Hof te worden geretourneerd aan het ministerie van Buitenlandse Zaken.
 
-#### Artikel 36. Socialezekerheidsstelsel
+##### Artikel 36. Socialezekerheidsstelsel
 
 1. Het socialezekerheidsstelsel van het Hof biedt een dekking die vergelijkbaar is met de dekking krachtens de wetgeving van het Gastland. Dienovereenkomstig zijn het Hof en zijn functionarissen op wie het bovenbedoelde stelsel van toepassing is vrijgesteld van de bepalingen op het gebied van sociale zekerheid in het Gastland. Dergelijke functionarissen zijn bijgevolg niet gedekt tegen de risico’s vervat in de bepalingen op het gebied van sociale zekerheid in het Gastland. Deze vrijstelling is op dergelijke functionarissen van toepassing tenzij zij betaalde werkzaamheden gaan verrichten in het Gastland.
 
@@ -676,7 +701,7 @@ De in de artikelen 23 en 28, zesde lid, van dit Verdrag bedoelde voorrechten, im
 
 ## Afdeling 2. Visa, vergunningen en overige documenten
 
-#### Artikel 37. Visa voor functionarissen van het Hof, visa voor vertegenwoordigers van Staten die deelnemen aan de procedures van het Hof en visa voor raadslieden en personen die de verdediging bijstaan
+##### Artikel 37. Visa voor functionarissen van het Hof, visa voor vertegenwoordigers van Staten die deelnemen aan de procedures van het Hof en visa voor raadslieden en personen die de verdediging bijstaan
 
 1. De functionarissen van het Hof, vertegenwoordigers van Staten die deelnemen aan de procedures van het Hof, en raadslieden en personen die de verdediging bijstaan, door de Griffier als zodanig bekendgemaakt aan het Gastland, hebben recht op onbelemmerde binnenkomst in, vertrek uit en verplaatsing binnen het Gastland, met inbegrip van onbelemmerde toegang tot het terrein van het Hof.
 
@@ -684,7 +709,7 @@ De in de artikelen 23 en 28, zesde lid, van dit Verdrag bedoelde voorrechten, im
 
 3. Aanvragen voor visa, waar deze vereist zijn, van gezinsleden die deel uitmaken van de huishouding van de in het eerste lid bedoelde personen, worden door het Gastland zo spoedig mogelijk behandeld en kosteloos verstrekt.
 
-#### Artikel 38. Visa voor getuigen, slachtoffers, deskundigen, stagiair(e)s, bezoekende vakspecialisten en overige personen wier aanwezigheid op de zetel van het Hof vereist is
+##### Artikel 38. Visa voor getuigen, slachtoffers, deskundigen, stagiair(e)s, bezoekende vakspecialisten en overige personen wier aanwezigheid op de zetel van het Hof vereist is
 
 1. Alle in de artikelen 24, 26, 27, 28 en 29 van dit Verdrag bedoelde personen, door de Griffier als zodanig bekend gemaakt aan het Gastland, hebben recht op onbelemmerde binnenkomst in, vertrek uit en, met inachtneming van het derde lid van dit artikel, verplaatsing binnen het Gastland, wanneer van toepassing en ten behoeve van het Hof.
 
@@ -694,7 +719,7 @@ De in de artikelen 23 en 28, zesde lid, van dit Verdrag bedoelde voorrechten, im
 
 4. Alvorens het derde lid van dit artikel toe te passen vraagt het Gastland het Hof om commentaar.
 
-#### Artikel 39. Visa voor bezoekers van personen die door het Hof in hechtenis worden gehouden
+##### Artikel 39. Visa voor bezoekers van personen die door het Hof in hechtenis worden gehouden
 
 1. Het Gastland treft passende voorzieningen om visa voor bezoekers van personen die door het Hof in hechtenis worden gehouden snel te behandelen. Visa voor bezoekers die familieleden zijn van een persoon die door het Hof in hechtenis wordt gehouden worden snel behandeld en, waar van toepassing, kosteloos of tegen een gereduceerd tarief verstrekt.
 
@@ -710,7 +735,7 @@ De in de artikelen 23 en 28, zesde lid, van dit Verdrag bedoelde voorrechten, im
 
 4. Alvorens het tweede of derde lid van dit artikel toe te passen vraagt het Gastland het Hof om commentaar.
 
-#### Artikel 40. Onafhankelijke organisaties van raadslieden of juridische verenigingen, journalisten en niet-gouvernementele organisaties
+##### Artikel 40. Onafhankelijke organisaties van raadslieden of juridische verenigingen, journalisten en niet-gouvernementele organisaties
 
 1. De partijen erkennen de rol van:
 
@@ -732,17 +757,17 @@ De in de artikelen 23 en 28, zesde lid, van dit Verdrag bedoelde voorrechten, im
 
 7. Visa en verblijfsvergunningen die in overeenstemming met dit artikel worden verleend, worden zo spoedig mogelijk afgegeven.
 
-#### Artikel 41. Laissez-passer
+##### Artikel 41. Laissez-passer
 
 Het Gastland erkent en accepteert het laissez-passer van de Verenigde Naties of een de door het Hof aan zijn functionarissen afgegeven reisdocument als geldige reisdocumenten.
 
-#### Artikel 42. Rijbewijs
+##### Artikel 42. Rijbewijs
 
 Voor de duur van hun tewerkstelling is het functionarissen van het Hof, gezinsleden die deel uitmaken van hun huishouding en personen in persoonlijke dienst of huishoudelijk personeel toegestaan van het Gastland een rijbewijs te verkrijgen op vertoon van hun geldige buitenlandse rijbewijs dan wel hun eigen geldige buitenlandse rijbewijs te blijven gebruiken, mits de houder in het bezit is van een door het Gastland in overeenstemming met artikel 35 van dit Verdrag afgegeven identiteitskaart.
 
 ## Afdeling 3. Beveiliging, operationele bijstand
 
-#### Artikel 43. Beveiliging, veiligheid en bescherming van de in dit Verdrag bedoelde personen
+##### Artikel 43. Beveiliging, veiligheid en bescherming van de in dit Verdrag bedoelde personen
 
 1. De bevoegde autoriteiten nemen doeltreffende en adequate maatregelen die vereist kunnen zijn om de beveiliging, veiligheid en bescherming van de in dit Verdrag bedoelde personen te waarborgen, en die noodzakelijk is voor het naar behoren functioneren van het Hof, zonder inmenging van welke aard dan ook.
 
@@ -750,7 +775,7 @@ Voor de duur van hun tewerkstelling is het functionarissen van het Hof, gezinsle
 
 3. Onverminderd hun voorrechten, immuniteiten en faciliteiten, is het de plicht van alle in dit Verdrag bedoelde personen zich te houden aan de instructies die hun door de bevoegde autoriteiten worden gegeven met het oog op hun beveiliging en veiligheid.
 
-#### Artikel 44. Vervoer van personen in hechtenis
+##### Artikel 44. Vervoer van personen in hechtenis
 
 1. Het vervoer van het punt van aankomst in het Gastland naar het terrein van het Hof, van een persoon die zich in hechtenis bevindt, ingevolge het Statuut en het Reglement van proces- en bewijsvoering, wordt, op verzoek van het Hof, in overleg met het Hof uitgevoerd door de bevoegde autoriteiten.
 
@@ -772,17 +797,17 @@ Voor de duur van hun tewerkstelling is het functionarissen van het Hof, gezinsle
 
 7. Het Hof en het Gastland treffen, naargelang van toepassing, praktische voorzieningen voor het vervoer van personen die zich in hechtenis bevinden in overeenstemming met dit artikel.
 
-#### Artikel 45. Vervoer van personen die vrijwillig of na een dagvaarding voor het Hof verschijnen
+##### Artikel 45. Vervoer van personen die vrijwillig of na een dagvaarding voor het Hof verschijnen
 
 De bepalingen van artikel 44 van dit Verdrag zijn van overeenkomstige toepassing op het vervoer van personen die vrijwillig of na een dagvaarding voor het Hof verschijnen.
 
-#### Artikel 46. Samenwerking bij detentie
+##### Artikel 46. Samenwerking bij detentie
 
 1. Het Gastland werkt met het Hof samen om de detentie van personen te vergemakkelijken en het Hof in staat te stellen zijn taken uit te oefenen in zijn cellencomplex.
 
 2. Wanneer de aanwezigheid van een persoon die zich in hechtenis bevindt vereist is voor het afleggen van een verklaring of andere medewerking aan het Hof en wanneer, om veiligheidsredenen, een dergelijke persoon niet kan worden vastgehouden in het cellencomplex van het Hof, plegen het Hof en het Gastland overleg en treffen, wanneer noodzakelijk, voorzieningen om de persoon te vervoeren naar een penitentiaire inrichting of andere door het Gastland ter beschikking gestelde locatie.
 
-#### Artikel 47. Voorlopige invrijheidstelling
+##### Artikel 47. Voorlopige invrijheidstelling
 
 1. Het Gastland vergemakkelijkt de overbrenging van personen die voorlopig in vrijheid zijn gesteld naar een Staat niet zijnde het Gastland.
 
@@ -790,7 +815,7 @@ De bepalingen van artikel 44 van dit Verdrag zijn van overeenkomstige toepassing
 
 3. Het Hof en het Gastland treffen praktische voorzieningen voor de implementatie van dit artikel.
 
-#### Artikel 48. Invrijheidstelling zonder veroordeling
+##### Artikel 48. Invrijheidstelling zonder veroordeling
 
 1. Onverminderd het tweede lid van dit artikel, wanneer een aan het Hof overgedragen persoon in vrijheid wordt gesteld vanwege het feit dat het Hof geen rechtsmacht bezit, de zaak niet-ontvankelijk is ingevolge artikel 17, eerste lid, onderdelen b, c of d, van het Statuut, de ten laste gelegde feiten niet zijn bevestigd krachtens artikel 61 van het Statuut, de persoon is vrijgesproken tijdens het proces of in beroep, of om een andere reden, treft het Hof zo spoedig mogelijk voorzieningen die het passend acht voor de overbrenging van de persoon, rekening houdend met de opvattingen van de persoon, naar een Staat die verplicht is hem of haar te ontvangen, een andere Staat die erin toestemt hem of haar te ontvangen, of een Staat die om zijn of haar uitlevering heeft verzocht met instemming van de Staat die hem of haar oorspronkelijk had overgedragen.
 
@@ -798,7 +823,7 @@ De bepalingen van artikel 44 van dit Verdrag zijn van overeenkomstige toepassing
 
 3. De bepalingen van artikel 44 van dit Verdrag zijn van overeenkomstige toepassing op het vervoer van de in dit artikel bedoelde personen binnen het Gastland.
 
-#### Artikel 49. Tenuitvoerlegging van uitspraken in het Gastland
+##### Artikel 49. Tenuitvoerlegging van uitspraken in het Gastland
 
 1. Het Hof spant zich in een Staat van tenuitvoerlegging aan te wijzen in overeenstemming met artikel 103, eerste lid, van het Statuut.
 
@@ -812,13 +837,13 @@ De bepalingen van artikel 44 van dit Verdrag zijn van overeenkomstige toepassing
 
 6. Overige voorwaarden van tenuitvoerlegging alsmede overige regelingen worden vastgelegd in een afzonderlijke overeenkomst tussen het Hof en het Gastland. Het Hof en het Gastland treffen praktische voorzieningen ten aanzien van de implementatie van de tenuitvoerlegging in elk in het tweede lid van dit artikel bedoeld geval.
 
-#### Artikel 50. Voorzieningen voor kortdurende detentie
+##### Artikel 50. Voorzieningen voor kortdurende detentie
 
 1. Indien, na veroordeling en onherroepelijke uitspraak, of na strafvermindering in overeenstemming met artikel 110 van het Statuut, de nog resterende duur van de door het Hof opgelegde gevangenisstraf minder bedraagt dan zes maanden, overweegt het Hof of de uitspraak ten uitvoer kan worden gelegd in het cellencomplex van het Hof.
 
 2. Wanneer het nodig blijkt de aanwijzing van de Staat van tenuitvoerlegging te wijzigen en wanneer het tijdvak voorafgaande aan de overbrenging naar een andere Staat van tenuitvoerlegging niet langer is dan zes maanden, plegen het Hof en het Gastland overleg over de vraag of de veroordeelde kan worden overgebracht naar een penitentiaire inrichting die door het Gastland in overeenstemming met artikel 103, vierde lid, van het Statuut ter beschikking is gesteld. Indien het tijdvak voorafgaande aan de overbrenging langer is dan zes maanden, wordt de veroordeelde overgebracht van het cellencomplex van het Hof naar een penitentiaire inrichting die door het Gastland in overeenstemming met artikel 103, vierde lid, van het Statuut ter beschikking is gesteld, na een verzoek van het Hof daartoe.
 
-#### Artikel 51. Beperking van de uitoefening van rechtsmacht door het Gastland
+##### Artikel 51. Beperking van de uitoefening van rechtsmacht door het Gastland
 
 1. Het Gastland zal geen rechtsmacht uitoefenen of uitvoering geven aan een verzoek om bijstand of uitlevering van een andere Staat met betrekking tot personen die aan het Hof zijn overgedragen in overeenstemming met Deel 9 van het Statuut, personen die voorlopig in vrijheid zijn gesteld, of personen die vrijwillig of na een dagvaarding voor het Hof verschijnen, ten aanzien van handelen, nalaten of veroordelingen voorafgaand aan de overdracht, overbrenging of verschijning voor het Hof, uitgezonderd zoals vervat in het Statuut en het Reglement van proces- en bewijsvoering.
 
@@ -826,17 +851,17 @@ De bepalingen van artikel 44 van dit Verdrag zijn van overeenkomstige toepassing
 
 ### HOOFDSTUK VI. SLOTBEPALINGEN
 
-#### Artikel 52. Aanvullende regelingen en overeenkomsten
+##### Artikel 52. Aanvullende regelingen en overeenkomsten
 
 1. De bepalingen van dit Verdrag worden bij de ondertekening aangevuld door een notawisseling waarin de gezamenlijke interpretatie van het Verdrag door de partijen wordt bevestigd.
 
 2. Het Hof en het Gastland kunnen, voor de toepassing van dit Verdrag of teneinde in dit Verdrag niet voorziene kwesties te regelen, in voorkomende gevallen aanvullende regelingen treffen en overeenkomsten sluiten.
 
-#### Artikel 53. Geen minder gunstige behandeling
+##### Artikel 53. Geen minder gunstige behandeling
 
 Indien en voor zover het Gastland, op enig moment in de toekomst, een internationale organisatie of tribunaal voorrechten, immuniteiten en een behandeling toekent die gunstiger zijn dan vergelijkbare voorrechten, immuniteiten en behandeling in dit Verdrag, zullen het Hof en iedere persoon die uit hoofde van dit Verdrag recht heeft op deze voorrechten en immuniteiten, deze gunstigere voorrechten, immuniteiten en behandeling genieten.
 
-#### Artikel 54. Beslechting van geschillen met derden
+##### Artikel 54. Beslechting van geschillen met derden
 
 Het Hof stelt, onder voorbehoud van de bevoegdheden en verantwoordelijkheden van de Vergadering uit hoofde van het Statuut, bepalingen vast ten behoeve van een passende wijze van beslechting van:
 
@@ -844,7 +869,7 @@ Het Hof stelt, onder voorbehoud van de bevoegdheden en verantwoordelijkheden van
 
 - b. geschillen waarbij in dit Verdrag bedoelde personen betrokken zijn die uit hoofde van hun officiële positie of functie in verband met het Hof immuniteit genieten, indien van deze immuniteit geen afstand is gedaan.
 
-#### Artikel 55. Beslechting van geschillen betreffende de interpretatie of toepassing van dit Verdrag of van aanvullende regelingen of overeenkomsten
+##### Artikel 55. Beslechting van geschillen betreffende de interpretatie of toepassing van dit Verdrag of van aanvullende regelingen of overeenkomsten
 
 1. Alle geschillen die voortvloeien uit de interpretatie of toepassing van dit Verdrag of van aanvullende regelingen of overeenkomsten tussen het Hof en het Gastland, worden beslecht door middel van overleg, onderhandeling of een andere overeengekomen wijze van beslechting.
 
@@ -856,17 +881,17 @@ Het Hof stelt, onder voorbehoud van de bevoegdheden en verantwoordelijkheden van
 
 5. Het scheidsgerecht, dat beslist met een meerderheid van stemmen, doet uitspraak over het geschil op basis van de bepalingen van dit Verdrag en van aanvullende regelingen of overeenkomsten en de toepasselijke regels van het internationale recht. De uitspraak van het scheidsgerecht is onherroepelijk en bindend voor de partijen bij het geschil.
 
-#### Artikel 56. Toepassing
+##### Artikel 56. Toepassing
 
 Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag slechts van toepassing op het deel van het Koninkrijk in Europa.
 
-#### Artikel 57. Wijzigingen en beëindiging
+##### Artikel 57. Wijzigingen en beëindiging
 
 1. Dit Verdrag kan met wederzijds goedvinden van beide partijen worden gewijzigd of beëindigd.
 
 2. Dit Verdrag houdt op van kracht te zijn met wederzijds goedvinden van de partijen.
 
-#### Artikel 58. Inwerkingtreding
+##### Artikel 58. Inwerkingtreding
 
 Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat de beide partijen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de wettelijke vereisten voor de inwerkingtreding is voldaan.
 

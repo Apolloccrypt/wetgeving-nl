@@ -1,16 +1,41 @@
 ---
 title: "Verdrag van de Verenigde Naties tegen corruptie"
 identifier: "BWBV0001830"
-categorie: "Internationaal recht"
-publicatiedatum: 2006-11-30
-laatste_update: 2003-10-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001830"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-11-30"
+last_updated: "2003-10-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001830"
+soort: "verdrag"
+stam_id: "10002534683"
+version_id: "10002523732"
+internal_id: "C10006994091"
+label_id: "10002524804"
+dtd_version: "2.0"
+original_entry_into_force: "2006-11-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001830/2006-11-30/0"
+intitule_bron: "Trb.2004-11"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-10-31"
+intitule_published: "2004-01-23"
+intitule_in_force: "2006-12-21"
+intitule_status: "goed"
+original_publication: "Trb.2004-11"
+original_signed_date: "2006-10-31"
+original_published_date: "2004-01-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-11"
+entry_into_force_date: "2006-11-30"
+jci_1_3: "jci1.3:c:BWBV0001830&z=2006-11-30&g=2006-11-30"
+jci_1_0: "1.0:c:BWBV0001830&g=2006-11-30"
+citeertitel_status: "redactioneel"
+signed_date: "2006-10-31"
+entry_into_force: "2006-11-30"
 ---
-
 # Verdrag van de Verenigde Naties tegen corruptie
 
-#### Preambule
+##### Preambule
 
 De Staten die partij zijn bij dit Verdrag,
 
@@ -48,7 +73,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Verklaring omtrent het doel
+##### Artikel 1. Verklaring omtrent het doel
 
 De doelen van dit Verdrag zijn:
 
@@ -58,7 +83,7 @@ De doelen van dit Verdrag zijn:
 
 - c. het bevorderen van integriteit, verantwoording en goed beheer van publieke zaken en eigendommen.
 
-#### Artikel 2. Gebruikte termen
+##### Artikel 2. Gebruikte termen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -80,13 +105,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - j. „gecontroleerde aflevering": de methode van het toelaten van illegale of verdachte zendingen die het grondgebied van een of meer Staten verlaten, passeren of binnengaan, onder toezicht en met medeweten van hun bevoegde autoriteiten, ten behoeve van de opsporing van een strafbaar feit en de identificatie van de personen die betrokken zijn bij het plegen van het strafbare feit.
 
-#### Artikel 3. Werkingssfeer
+##### Artikel 3. Werkingssfeer
 
 1. Dit Verdrag is van toepassing, overeenkomstig de erin vervatte bepalingen, op het voorkomen, opsporen en vervolgen van corruptie en op de bevriezing, inbeslagneming, confiscatie en teruggave van de opbrengsten van overeenkomstig dit Verdrag strafbaar gestelde feiten.
 
 2. Voor de toepassing van dit Verdrag is het, tenzij hierin anders is bepaald, niet noodzakelijk dat de erin vervatte strafbare feiten leiden tot beschadiging van of schade aan staatseigendommen.
 
-#### Artikel 4. Bescherming van de soevereiniteit
+##### Artikel 4. Bescherming van de soevereiniteit
 
 1. De Staten die partij zijn, komen hun verplichtingen uit hoofde van dit Verdrag na op een wijze die in overeenstemming is met de beginselen van soevereine gelijkheid en territoriale integriteit van staten en van non-interventie in de interne aangelegenheden van andere Staten.
 
@@ -94,7 +119,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK II. PREVENTIEVE MAATREGELEN
 
-#### Artikel 5. Beleid en praktijken ter voorkoming van corruptie
+##### Artikel 5. Beleid en praktijken ter voorkoming van corruptie
 
 1. Elke Staat die partij is, ontwikkelt en implementeert of zorgt voor de voortzetting van, overeenkomstig de grondbeginselen van zijn rechtsstelsel, een gecoördineerd anticorruptiebeleid dat de participatie vanuit de samenleving bevordert en een afspiegeling vormt van de grondslagen van de rechtsstaat, goed beheer van publieke zaken en publieke eigendommen, integriteit, transparantie en verantwoording.
 
@@ -104,7 +129,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 4. De Staten die partij zijn, werken waar passend en overeenkomstig de grondbeginselen van hun rechtsstelsel met elkaar en met relevante internationale en regionale organisaties samen bij de bevordering en ontwikkeling van de in dit artikel bedoelde maatregelen. Deze samenwerking kan deelname aan internationale programma's en projecten gericht op het voorkomen van corruptie behelzen.
 
-#### Artikel 6. Instantie of instanties belast met het voorkomen van corruptie
+##### Artikel 6. Instantie of instanties belast met het voorkomen van corruptie
 
 1. Elke Staat die partij is, waarborgt, overeenkomstig de grondbeginselen van zijn rechtsstelsel, het bestaan van een of meerdere instanties, naar gelang van toepassing is, die corruptie voorkomen door middel van onder andere:
 
@@ -116,7 +141,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Elke Staat die partij is, stelt de Secretaris-Generaal van de Verenigde Naties in kennis van de naam en het adres van de autoriteit of autoriteiten die andere Staten die partij zijn, kunnen bijstaan bij het opstellen en implementeren van maatregelen ter voorkoming van corruptie.
 
-#### Artikel 7. Publieke sector
+##### Artikel 7. Publieke sector
 
 1. Elke Staat die partij is, spant zich in, waar passend en overeenkomstig de grondbeginselen van zijn rechtsstelsel, systemen voor de werving, de indienstneming, het behoud, de promotie en de pensionering van ambtenaren en, waar passend, andere niet-gekozen overheidsfunctionarissen, in te stellen, in stand te houden en te versterken:
 
@@ -134,7 +159,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 4. Elke Staat die partij is, streeft ernaar, overeenkomstig de grondbeginselen van zijn nationale recht, systemen die transparantie bevorderen en tegenstrijdige belangen voorkomen, in te stellen, te handhaven en te versterken.
 
-#### Artikel 8. Gedragscodes voor overheidsfunctionarissen
+##### Artikel 8. Gedragscodes voor overheidsfunctionarissen
 
 1. Ter bestrijding van corruptie bevordert elke Staat die partij is onder andere de integriteit, eerlijkheid en verantwoordelijkheidsgevoel onder zijn overheidsfunctionarissen, overeenkomstig de grondbeginselen van zijn rechtsstelsel.
 
@@ -148,7 +173,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 6. Elke Staat die partij is, overweegt, overeenkomstig de grondbeginselen van zijn nationale recht, disciplinaire of andere maatregelen te nemen tegen overheidsfunctionarissen die de overeenkomstig dit artikel ingestelde codes of normen schenden.
 
-#### Artikel 9. Overheidsopdrachten en beheer van overheidsfinanciën
+##### Artikel 9. Overheidsopdrachten en beheer van overheidsfinanciën
 
 1. Elke Staat die partij is, neemt, overeenkomstig de grondbeginselen van zijn rechtsstelsel, de noodzakelijke stappen om toepasselijke systemen voor het plaatsen van opdrachten in te stellen, gebaseerd op transparantie, concurrentie en objectieve besluitvormingscriteria, die doeltreffend zijn bij, onder andere, het voorkomen van corruptie. Dergelijke systemen, die rekening kunnen houden met toepasselijke drempelwaarden, voorzien in, onder andere:
 
@@ -176,7 +201,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Elke Staat die partij is, neemt de civielrechtelijke en bestuursrechtelijke maatregelen die nodig kunnen zijn, in overeenstemming met de grondbeginselen van zijn nationale recht, om de integriteit van boekhouding, bestanden, financiële verslagen of andere documenten die verband houden met overheidsinkomsten en -uitgaven te bewaren en vervalsing van dergelijke documenten te voorkomen.
 
-#### Artikel 10. Openbare verslaggeving
+##### Artikel 10. Openbare verslaggeving
 
 Rekening houdend met de noodzaak corruptie te bestrijden, neemt elke Staat die partij is, in overeenstemming met de grondbeginselen van zijn nationale recht, de maatregelen die nodig kunnen zijn om de transparantie in zijn openbaar bestuur te verbeteren, waaronder begrepen de organisatie en het functioneren ervan alsmede het besluitvormingsproces, waar passend. Deze maatregelen kunnen onder andere betreffen:
 
@@ -186,13 +211,13 @@ Rekening houdend met de noodzaak corruptie te bestrijden, neemt elke Staat die p
 
 - c. het publiceren van informatie, waaronder periodieke rapporten kunnen zijn begrepen, inzake het gevaar van corruptie binnen zijn openbaar bestuur.
 
-#### Artikel 11. Maatregelen met betrekking tot de rechterlijke macht en het openbaar ministerie
+##### Artikel 11. Maatregelen met betrekking tot de rechterlijke macht en het openbaar ministerie
 
 1. Indachtig de onafhankelijkheid van de rechterlijke macht en de cruciale rol die hij speelt bij de bestrijding van corruptie, neemt elke Staat die partij is, in overeenstemming met de grondbeginselen van zijn rechtsstelsel en onverminderd de onafhankelijkheid van de rechterlijke macht, maatregelen om de integriteit ervan te versterken en mogelijkheden voor corruptie binnen de rechterlijke macht te voorkomen. Dergelijke maatregelen kunnen gedragsregels omvatten voor leden van de rechterlijke macht.
 
 2. Maatregelen van dezelfde strekking als die vervat in het eerste lid van dit artikel kunnen worden ingesteld en toegepast ten aanzien van het openbaar ministerie in die Staten die partij zijn waar deze instantie geen onderdeel vormt van de rechterlijke macht maar wel een onafhankelijke positie inneemt die vergelijkbaar is met die van de rechterlijke macht.
 
-#### Artikel 12. Particuliere sector
+##### Artikel 12. Particuliere sector
 
 1. Elke Staat die partij is, neemt maatregelen, in overeenstemming met de grondbeginselen van zijn nationale recht, teneinde corruptie waarbij de particuliere sector betrokken is te voorkomen, verbetert de normen voor boekhouding en auditing in de particuliere sector en, voorziet waar passend, in doeltreffende, proportionele en afschrikwekkende civiele, bestuursrechtelijke en strafrechtelijke sancties ingeval dergelijke maatregelen niet worden nageleefd.
 
@@ -226,7 +251,7 @@ Rekening houdend met de noodzaak corruptie te bestrijden, neemt elke Staat die p
 
 4. Elke Staat die partij is, staat niet toe dat uitgaven in de vorm van steekpenningen, die tot de bestanddelen van de overeenkomstig de artikelen 15 en 16 van dit Verdrag vastgestelde strafbare feiten behoren, fiscaal aftrekbaar zijn, evenmin als, waar passend, overige uitgaven die zijn gedaan ter bevordering van corrupt gedrag.
 
-#### Artikel 13. Betrokkenheid van de samenleving
+##### Artikel 13. Betrokkenheid van de samenleving
 
 1. Elke Staat die partij is, neemt passende maatregelen, binnen zijn mogelijkheden en in overeenstemming met de grondbeginselen van zijn nationale recht, teneinde de actieve betrokkenheid van individuen en groepen buiten de publieke sector, zoals het maatschappelijk middenveld, niet-gouvernementele organisaties en basisorganisaties, bij het voorkomen en bestrijden van corruptie te bevorderen en het publiek bewuster te maken van het bestaan, de oorzaken, de ernst en het gevaar van corruptie.
 
@@ -246,7 +271,7 @@ Deze betrokkenheid moet worden versterkt door maatregelen als:
 
 2. Elke Staat die partij is, neemt passende maatregelen teneinde te waarborgen dat de in dit Verdrag bedoelde instanties die belast zijn met het bestrijden van corruptie bij het publiek bekend zijn en voorziet in toegang tot deze instanties, waar passend, voor het melden, al dan niet anoniem, van voorvallen die beschouwd kunnen worden als zijnde een overeenkomstig dit Verdrag strafbaar gesteld feit.
 
-#### Artikel 14. Maatregelen ter voorkoming van witwassen
+##### Artikel 14. Maatregelen ter voorkoming van witwassen
 
 1. Elke Staat die partij is:
 
@@ -270,7 +295,7 @@ Deze betrokkenheid moet worden versterkt door maatregelen als:
 
 ### HOOFDSTUK III. STRAFBAARSTELLING EN RECHTSHANDHAVING
 
-#### Artikel 15. Omkoping betreffende nationale overheidsfunctionarissen
+##### Artikel 15. Omkoping betreffende nationale overheidsfunctionarissen
 
 Elke Staat die partij is, neemt de wettelijke en andere maatregelen die nodig kunnen zijn om de volgende handelingen, indien zij opzettelijk zijn gepleegd, strafbaar te stellen:
 
@@ -278,17 +303,17 @@ Elke Staat die partij is, neemt de wettelijke en andere maatregelen die nodig ku
 
 - b. het, direct of indirect, door een overheidsfunctionaris verzoeken om of aanvaarden van een onverschuldigd voordeel, voor de functionaris zelf of voor een andere persoon of entiteit, opdat de functionaris een handeling verricht of nalaat bij de uitoefening van zijn of haar officiële taken.
 
-#### Artikel 16. Omkoping betreffende buitenlandse overheidsfunctionarissen en internationale ambtenaren
+##### Artikel 16. Omkoping betreffende buitenlandse overheidsfunctionarissen en internationale ambtenaren
 
 1. Elke Staat die partij is, neemt de wettelijke en andere maatregelen die nodig kunnen zijn om als strafbaar feit aan te merken, wanneer opzettelijk gepleegd, het, direct of indirect, beloven, aanbieden of verstrekken aan een buitenlandse overheidsfunctionaris of een internationale ambtenaar van een onverschuldigd voordeel, voor de functionaris zelf of voor een andere persoon of entiteit, opdat de functionaris een handeling verricht of nalaat bij de uitoefening van zijn of haar officiële taken, om aldus zakelijk of enig ander onverschuldigd voordeel uit internationale zakelijke transacties te verkrijgen of te behouden.
 
 2. Elke Staat die partij is, overweegt de wettelijke en andere maatregelen te nemen die nodig kunnen zijn om als strafbaar feit aan te merken, wanneer opzettelijk gepleegd, het direct of indirect, door een buitenlandse overheidsfunctionaris of een internationale ambtenaar verzoeken om of aanvaarden van een onverschuldigd voordeel, voor de functionaris zelf of voor een andere persoon of entiteit, opdat de functionaris een handeling verricht of nalaat bij de uitoefening van zijn of haar officiële taken.
 
-#### Artikel 17. Verduistering, onrechtmatig gebruik of ander misbruik van goederen door een overheidsfunctionaris
+##### Artikel 17. Verduistering, onrechtmatig gebruik of ander misbruik van goederen door een overheidsfunctionaris
 
 Elke Staat die partij is, neemt de wettelijke en andere maatregelen die nodig kunnen zijn om als strafbaar feit aan te merken, wanneer opzettelijk gepleegd, verduistering, onrechtmatig gebruik of ander misbruik door een overheidsfunctionaris, ten voordele van de functionaris zelf of van een andere persoon of entiteit, van goederen, publieke of particuliere fondsen of waardepapieren of andere waardevolle zaken die aan de overheidsfunctionaris zijn toevertrouwd uit hoofde van zijn of haar functie.
 
-#### Artikel 18. Ongeoorloofde beïnvloeding
+##### Artikel 18. Ongeoorloofde beïnvloeding
 
 Elke Staat die partij is, overweegt de wettelijke en andere maatregelen te nemen die nodig kunnen zijn om de volgende handelingen, indien zij opzettelijk zijn gepleegd, strafbaar te stellen:
 
@@ -296,15 +321,15 @@ Elke Staat die partij is, overweegt de wettelijke en andere maatregelen te nemen
 
 - b. het, direct of indirect, verzoeken om of aanvaarden van een onverschuldigd voordeel voor de overheidsfunctionaris zelf of voor een andere persoon opdat deze overheidsfunctionaris of persoon zijn reële of veronderstelde invloed misbruikt om van een administratie of overheidsinstelling van de Staat die partij is een onverschuldigd voordeel te verkrijgen.
 
-#### Artikel 19. Misbruik van functie
+##### Artikel 19. Misbruik van functie
 
 Elke Staat die partij is, overweegt de wettelijke en andere maatregelen te nemen die nodig kunnen zijn om als strafbaar feit aan te merken, wanneer opzettelijk gepleegd, het misbruik van functie of positie, waaronder wordt verstaan, het in strijd met de wet verrichten of nalaten van een handeling door een overheidsfunctionaris bij de uitoefening van zijn of haar functie teneinde een onverschuldigd voordeel te verkrijgen voor de functionaris zelf of voor een andere persoon of entiteit.
 
-#### Artikel 20. Ongeoorloofde verrijking
+##### Artikel 20. Ongeoorloofde verrijking
 
 Met inachtneming van zijn grondwet en de grondbeginselen van zijn rechtsstelsel, overweegt elke Staat die partij is de wettelijke en andere maatregelen te nemen die nodig kunnen zijn om als strafbaar feit aan te merken, wanneer opzettelijk gepleegd, ongeoorloofde verrijking, waaronder wordt verstaan, een aanzienlijke toename van de activa van een overheidsfunctionaris waarvoor hij of zij in relatie tot zijn of haar rechtmatig inkomen geen redelijke verklaring kan geven.
 
-#### Artikel 21. Omkoping in de particuliere sector
+##### Artikel 21. Omkoping in de particuliere sector
 
 Elke Staat die partij is, overweegt de wettelijke en andere maatregelen te nemen die nodig kunnen zijn om de volgende handelingen, indien zij opzettelijk zijn gepleegd in het kader van economische, financiële of commerciële activiteiten, strafbaar te stellen:
 
@@ -312,11 +337,11 @@ Elke Staat die partij is, overweegt de wettelijke en andere maatregelen te nemen
 
 - b. het, direct of indirect, verzoeken om of aanvaarden van elk onverschuldigd voordeel door een persoon die leiding geeft aan of werkt bij, in welke hoedanigheid dan ook, een entiteit uit de particuliere sector, voor die persoon zelf of voor een andere persoon, opdat hij of zij in strijd met zijn of haar plichten een handeling verricht of nalaat.
 
-#### Artikel 22. Verduistering van goederen in de particuliere sector
+##### Artikel 22. Verduistering van goederen in de particuliere sector
 
 Elke Staat die partij is, overweegt de wettelijke en andere maatregelen te nemen die nodig kunnen zijn om als strafbaar feit aan te merken, wanneer opzettelijk gepleegd in het kader van economische, financiële of commerciële activiteiten, het verduisteren door een persoon die leiding geeft aan of werkt bij, in welke hoedanigheid dan ook, een entiteit uit de particuliere sector, van goederen, particuliere fondsen of waardepapieren of andere waardevolle zaken die aan hem of haar zijn toevertrouwd uit hoofde van zijn of haar functie.
 
-#### Artikel 23. Het witwassen van de opbrengsten van misdaad
+##### Artikel 23. Het witwassen van de opbrengsten van misdaad
 
 1. Elke Staat die partij is, neemt, in overeenstemming met de grondbeginselen van zijn nationale recht, de wettelijke en andere maatregelen die nodig kunnen zijn om de volgende handelingen strafbaar te stellen, indien opzettelijk gepleegd:
 
@@ -344,11 +369,11 @@ Elke Staat die partij is, overweegt de wettelijke en andere maatregelen te nemen
 
 - e. kan, indien vereist door de grondbeginselen van het nationale recht van een Staat die partij is, worden bepaald dat de in het eerste lid van dit artikel omschreven strafbare feiten niet van toepassing zijn op de personen die het gronddelict hebben gepleegd.
 
-#### Artikel 24. Verhulling
+##### Artikel 24. Verhulling
 
 Onverminderd de bepalingen van artikel 23 van dit Verdrag, overweegt elke Staat die partij is de wettelijke en andere maatregelen te nemen die nodig kunnen zijn om als strafbaar feit aan te merken, wanneer opzettelijk gepleegd na het plegen van een van de overeenkomstig dit Verdrag strafbaar gestelde feiten zonder aan deze strafbare feiten te hebben deelgenomen, het verhelen of gedurende langere tijd vasthouden van goederen waarvan de betrokken persoon weet dat dergelijke goederen het resultaat zijn van overeenkomstig dit Verdrag strafbaar gestelde feiten.
 
-#### Artikel 25. Obstructie van de rechtsbedeling
+##### Artikel 25. Obstructie van de rechtsbedeling
 
 Elke Staat die partij is, neemt de wettelijke en andere maatregelen die nodig kunnen zijn om de volgende handelingen, indien zij opzettelijk zijn gepleegd, strafbaar te stellen:
 
@@ -356,7 +381,7 @@ Elke Staat die partij is, neemt de wettelijke en andere maatregelen die nodig ku
 
 - b. het gebruik van fysiek geweld, bedreiging of intimidatie teneinde de uitoefening van de officiële taken door een rechterlijk ambtenaar of rechtshandhavingsfunctionaris met betrekking tot het plegen van overeenkomstig dit Verdrag strafbaar gestelde feiten te beletten. Geen enkele bepaling in dit onderdeel doet afbreuk aan het recht van de Staten die partij zijn te beschikken over wetgeving ter bescherming van andere categorieën van overheidsfunctionarissen.
 
-#### Artikel 26. Aansprakelijkheid van rechtspersonen
+##### Artikel 26. Aansprakelijkheid van rechtspersonen
 
 1. Elke Staat die partij is, neemt de maatregelen die nodig kunnen zijn en die verenigbaar zijn met zijn rechtsbeginselen om de aansprakelijkheid te vestigen van rechtspersonen voor deelneming aan overeenkomstig dit Verdrag strafbaar gestelde feiten.
 
@@ -366,7 +391,7 @@ Elke Staat die partij is, neemt de wettelijke en andere maatregelen die nodig ku
 
 4. Elke Staat die partij is, verzekert in het bijzonder dat rechtspersonen die aansprakelijk worden gesteld overeenkomstig dit artikel onderworpen worden aan doeltreffende, proportionele en ontmoedigende strafrechtelijke of niet-strafrechtelijke sancties, met inbegrip van geldelijke sancties.
 
-#### Artikel 27. Deelneming aan en poging tot het plegen van een strafbaar feit
+##### Artikel 27. Deelneming aan en poging tot het plegen van een strafbaar feit
 
 1. Elke Staat die partij is, neemt de wettelijke en andere maatregelen die nodig kunnen zijn om, overeenkomstig zijn nationale recht, als strafbaar feit aan te merken, deelneming aan een overeenkomstig dit Verdrag strafbaar gesteld feit in elke hoedanigheid, waaronder als medeplichtige, helper of aanzetter.
 
@@ -374,15 +399,15 @@ Elke Staat die partij is, neemt de wettelijke en andere maatregelen die nodig ku
 
 3. Elke Staat die partij is, kan wettelijke en andere maatregelen nemen die nodig kunnen zijn om, overeenkomstig zijn nationale recht, als strafbaar feit aan te merken, de voorbereiding van een overeenkomstig dit Verdrag strafbaar gesteld feit.
 
-#### Artikel 28. Wetenschap, bedoeling en oogmerk als elementen van een strafbaar feit
+##### Artikel 28. Wetenschap, bedoeling en oogmerk als elementen van een strafbaar feit
 
 De wetenschap, de bedoeling of het oogmerk die vereist zijn als bestanddeel van een overeenkomstig dit Verdrag strafbaar gesteld feit kan worden afgeleid uit objectieve feitelijke omstandigheden.
 
-#### Artikel 29. Verjaringstermijn
+##### Artikel 29. Verjaringstermijn
 
 Elke Staat die partij is, stelt, waar passend, met inachtneming van zijn nationale recht een lange verjaringstermijn vast voor het aanvangen van procedures voor een overeenkomstig dit Verdrag strafbaar gesteld feit en stelt een langere termijn vast voor of voorziet in de opschorting van de verjaringstermijn voor de gevallen waarin de vermoedelijke dader zijn berechting heeft ontweken.
 
-#### Artikel 30. Vervolging, berechting en sancties
+##### Artikel 30. Vervolging, berechting en sancties
 
 1. Elke Staat die partij is, stelt op het plegen van een overeenkomstig dit Verdrag strafbaar gesteld feit sancties die rekening houden met de ernst van dat feit.
 
@@ -408,7 +433,7 @@ Elke Staat die partij is, stelt, waar passend, met inachtneming van zijn nationa
 
 10. De Staten die partij zijn, spannen zich in de terugkeer in de samenleving van personen die veroordeeld zijn wegens overeenkomstig dit Verdrag strafbaar gestelde feiten te bevorderen.
 
-#### Artikel 31. Bevriezing, inbeslagneming en confiscatie
+##### Artikel 31. Bevriezing, inbeslagneming en confiscatie
 
 1. Elke Staat die partij is, neemt in de ruimst mogelijke mate binnen zijn nationale rechtsstelsel de maatregelen die nodig kunnen zijn om de confiscatie mogelijk te maken van:
 
@@ -434,7 +459,7 @@ Elke Staat die partij is, stelt, waar passend, met inachtneming van zijn nationa
 
 10. Geen enkele bepaling van dit artikel tast het beginsel aan dat de maatregelen waarnaar het verwijst worden vastgesteld en uitgevoerd overeenkomstig en met inachtneming van de bepalingen van het nationale recht van een Staat die partij is.
 
-#### Artikel 32. Bescherming van getuigen, deskundigen en slachtoffers
+##### Artikel 32. Bescherming van getuigen, deskundigen en slachtoffers
 
 1. Elke Staat die partij is, neemt overeenkomstig zijn nationale rechtsstelsel passende maatregelen die binnen zijn macht liggen om te zorgen voor doeltreffende bescherming tegen mogelijke represailles tegen of intimidatie van getuigen of deskundigen die verklaringen afleggen inzake overeenkomstig dit Verdrag strafbaar gestelde feiten en, indien van toepassing, van hun familieleden en andere personen die hen na staan.
 
@@ -450,23 +475,23 @@ Elke Staat die partij is, stelt, waar passend, met inachtneming van zijn nationa
 
 5. Elke Staat die partij is, zorgt ervoor, met inachtneming van zijn nationale recht, dat de meningen en zorgen van slachtoffers naar voren kunnen worden gebracht in de daarvoor in aanmerking komende fasen van de strafrechtelijke procedure tegen de daders, op een wijze die de rechten van de verdediging niet schaadt.
 
-#### Artikel 33. Bescherming van personen die aangifte doen
+##### Artikel 33. Bescherming van personen die aangifte doen
 
 Elke Staat die partij is, overweegt in zijn nationale rechtsstelsel passende maatregelen op te nemen teneinde elke persoon die te goeder trouw en op redelijke gronden feiten ter kennis brengt van de bevoegde autoriteiten inzake overeenkomstig dit Verdrag strafbaar gestelde feiten, te beschermen tegen elke ongerechtvaardigde behandeling.
 
-#### Artikel 34. Gevolgen van corrupte handelingen
+##### Artikel 34. Gevolgen van corrupte handelingen
 
 Met zorgvuldige inachtneming van de rechten van derden die te goeder trouw verworven zijn, neemt elke Staat die partij is maatregelen, overeenkomstig de grondbeginselen van zijn nationale recht, om de gevolgen van corruptie aan te pakken. In dit verband kunnen Staten die partij zijn corruptie beschouwen als een relevante factor in gerechtelijke procedures teneinde een contract te ontbinden of te herroepen, een concessie of ander soortgelijk instrument in te trekken of om een andere herstelmaatregel te nemen.
 
-#### Artikel 35. Schadeloosstelling
+##### Artikel 35. Schadeloosstelling
 
 Elke Staat die partij is, neemt de maatregelen die nodig kunnen zijn, overeenkomstig de beginselen van zijn nationale recht, om te waarborgen dat entiteiten of personen die schade hebben geleden als gevolg van een corrupte handeling, het recht hebben rechtsvorderingen in te stellen tegen degenen die verantwoordelijk zijn voor die schade teneinde schadeloosstelling te verkrijgen.
 
-#### Artikel 36. Gespecialiseerde autoriteiten
+##### Artikel 36. Gespecialiseerde autoriteiten
 
 Elke Staat die partij is, waarborgt, overeenkomstig de grondbeginselen van zijn rechtsstelsel, het bestaan van een of meerdere instanties of personen die gespecialiseerd zijn in de bestrijding van corruptie door middel van rechtshandhaving. Dergelijke instanties of personen wordt de nodige onafhankelijkheid gegarandeerd, overeenkomstig de grondbeginselen van het rechtsstelsel van de Staat die partij is, teneinde hen in staat te stellen hun taken doeltreffend en vrij van ongepaste externe beïnvloeding uit te oefenen. Dergelijke personen of de medewerkers van dergelijke instanties moeten de juiste opleiding hebben en over de juiste middelen beschikken om hun taken uit te kunnen voeren.
 
-#### Artikel 37. Samenwerking met rechtshandhavingsautoriteiten
+##### Artikel 37. Samenwerking met rechtshandhavingsautoriteiten
 
 1. Elke Staat die partij is, neemt passende maatregelen om personen die deelnemen of hebben deelgenomen aan overeenkomstig dit Verdrag strafbaar gestelde feiten aan te moedigen de informatie te verstrekken die nuttig is voor de bevoegde autoriteiten ten behoeve van opsporing en bewijsvoering en feitelijke, concrete hulp te verlenen aan de bevoegde autoriteiten die kan bijdragen aan het aan daders ontnemen van de opbrengsten van misdaad en het terugvorderen van dergelijke opbrengsten.
 
@@ -478,7 +503,7 @@ Elke Staat die partij is, waarborgt, overeenkomstig de grondbeginselen van zijn 
 
 5. Wanneer een persoon als bedoeld in het eerste lid van dit artikel die zich bevindt in een Staat die partij is, aanmerkelijke medewerking kan verlenen aan de bevoegde autoriteiten van een andere Staat die partij is, kunnen de betrokken Staten die partij zijn, overwegen overeenkomstig hun nationale recht overeenkomsten of regelingen aan te gaan inzake de mogelijke toekenning door de andere Staat die partij is van de behandeling bedoeld in het tweede en derde lid van dit artikel.
 
-#### Artikel 38. Samenwerking tussen nationale autoriteiten
+##### Artikel 38. Samenwerking tussen nationale autoriteiten
 
 Elke Staat die partij is, neemt de maatregelen die nodig kunnen zijn om, overeenkomstig zijn nationale recht, de samenwerking te bevorderen tussen enerzijds zijn overheidsinstellingen, alsmede zijn overheidsfunctionarissen, en anderzijds zijn autoriteiten die verantwoordelijk zijn voor de opsporing en de vervolging van misdrijven. Dergelijke samenwerking kan bestaan uit:
 
@@ -486,21 +511,21 @@ Elke Staat die partij is, neemt de maatregelen die nodig kunnen zijn om, overeen
 
 - b. het op verzoek leveren aan de laatstgenoemde autoriteiten van alle benodigde informatie.
 
-#### Artikel 39. Samenwerking tussen nationale autoriteiten en de particuliere sector
+##### Artikel 39. Samenwerking tussen nationale autoriteiten en de particuliere sector
 
 1. Elke Staat die partij is, neemt de maatregelen die nodig kunnen zijn om, overeenkomstig zijn nationale recht, de samenwerking te bevorderen tussen nationale autoriteiten die verantwoordelijk zijn voor de opsporing en vervolging en entiteiten in de particuliere sector, met name financiële instellingen, met betrekking tot zaken die samenhangen met het plegen van overeenkomstig dit Verdrag strafbaar gestelde feiten.
 
 2. Elke Staat die partij is, overweegt zijn onderdanen en andere personen die hun vaste woon- of verblijfplaats op zijn grondgebied hebben aan te moedigen het plegen van een overeenkomstig dit Verdrag strafbaar gesteld feit ter kennis te brengen van de nationale autoriteiten die verantwoordelijk zijn voor de opsporing en vervolging.
 
-#### Artikel 40. Bankgeheim
+##### Artikel 40. Bankgeheim
 
 Elke Staat die partij is, waarborgt dat, in het geval van nationale strafrechtelijke onderzoeken naar overeenkomstig dit Verdrag strafbaar gestelde feiten, er passende mechanismen aanwezig zijn binnen zijn nationale rechtsstelsel om belemmeringen die kunnen voortvloeien uit de toepassing van wetgeving inzake het bankgeheim te ondervangen.
 
-#### Artikel 41. Strafblad
+##### Artikel 41. Strafblad
 
 Elke Staat die partij is, kan de wettelijke of andere maatregelen treffen die nodig kunnen zijn om, onder de voorwaarden en ten behoeve van de doelen die hij passend acht, eerdere veroordelingen in een andere Staat van een vermoedelijke dader in overweging te nemen, teneinde die informatie te gebruiken bij strafrechtelijke procedures die verband houden met een overeenkomstig dit Verdrag strafbaar gesteld feit.
 
-#### Artikel 42. Rechtsmacht
+##### Artikel 42. Rechtsmacht
 
 1. Elke Staat die partij is, neemt de maatregelen die nodig kunnen zijn om zijn rechtsmacht te vestigen met betrekking tot de overeenkomstig dit Verdrag strafbaar gestelde feiten, wanneer:
 
@@ -528,13 +553,13 @@ Elke Staat die partij is, kan de wettelijke of andere maatregelen treffen die no
 
 ### HOOFDSTUK IV. INTERNATIONALE SAMENWERKING
 
-#### Artikel 43. Internationale samenwerking
+##### Artikel 43. Internationale samenwerking
 
 1. De Staten die partij zijn, werken samen bij strafzaken overeenkomstig de artikelen 44 tot en met 50 van dit Verdrag. Waar passend en overeenkomstig hun nationale rechtsstelsel, overwegen de Staten die partij zijn elkaar bijstand te verlenen bij onderzoek naar en procedures betreffende civielrechtelijke en bestuursrechtelijke zaken met betrekking tot corruptie.
 
 2. Wanneer, in gevallen van internationale samenwerking, dubbele strafbaarheid als vereiste wordt beschouwd, wordt geacht hieraan te zijn voldaan, ongeacht of in de wetgeving van de aangezochte Staat die partij is het strafbare feit tot dezelfde categorie wordt gerekend of met dezelfde terminologie wordt aangeduid als in de verzoekende staat, indien de gedraging die ten grondslag ligt aan het strafbare feit waarvoor bijstand wordt gevraagd ingevolge het recht van beide Staten die partij zijn als strafbaar wordt aangemerkt.
 
-#### Artikel 44. Uitlevering
+##### Artikel 44. Uitlevering
 
 1. Dit artikel is van toepassing op de overeenkomstig dit Verdrag strafbaar gestelde feiten indien de persoon die het voorwerp is van het verzoek om uitlevering zich bevindt op het grondgebied van de aangezochte Staat die partij is, mits het strafbare feit waarvoor om uitlevering wordt verzocht, strafbaar is ingevolge het nationale recht van zowel de verzoekende Staat die partij is als de aangezochte Staat die partij is.
 
@@ -576,11 +601,11 @@ Elke Staat die partij is, kan de wettelijke of andere maatregelen treffen die no
 
 18. De Staten die partij zijn, streven ernaar bilaterale en multilaterale overeenkomsten of regelingen te sluiten om uitlevering mogelijk te maken of de doeltreffendheid ervan te verhogen.
 
-#### Artikel 45. Overbrenging van gevonniste personen
+##### Artikel 45. Overbrenging van gevonniste personen
 
 Staten die partij zijn, kunnen overwegen bilaterale of multilaterale overeenkomsten of regelingen te sluiten voor de overbrenging naar hun grondgebied van personen die zijn veroordeeld tot gevangenisstraf of andere vormen van vrijheidsbeneming voor overeenkomstig dit Verdrag strafbaar gestelde feiten opdat zij het resterende deel van hun straf daar kunnen uitzitten.
 
-#### Artikel 46. Wederzijdse rechtshulp
+##### Artikel 46. Wederzijdse rechtshulp
 
 1. De Staten die partij zijn, verlenen elkaar de ruimst mogelijke wederzijdse rechtshulp bij de opsporing, vervolging en de gerechtelijke procedures met betrekking tot de strafbare feiten die onder dit Verdrag vallen.
 
@@ -704,11 +729,11 @@ Staten die partij zijn, kunnen overwegen bilaterale of multilaterale overeenkoms
 
 30. De Staten die partij zijn, overwegen, indien nodig, de mogelijkheid van het aangaan van bilaterale of multilaterale overeenkomsten of regelingen die dienstig zijn voor, praktische uitvoering geven aan of bevorderlijk zijn voor de bepalingen van dit artikel.
 
-#### Artikel 47. Overdracht van strafvervolging
+##### Artikel 47. Overdracht van strafvervolging
 
 De Staten die partij zijn, overwegen de mogelijkheid strafvervolging aan elkaar over te dragen van een overeenkomstig dit Verdrag strafbaar gesteld feit in de gevallen waarin een dergelijke overdracht geacht wordt in het belang te zijn van een goede rechtsbedeling, in het bijzonder in gevallen waarbij diverse jurisdicties betrokken zijn, teneinde de vervolging te concentreren.
 
-#### Artikel 48. Samenwerking op het gebied van rechtshandhaving
+##### Artikel 48. Samenwerking op het gebied van rechtshandhaving
 
 1. De Staten die partij zijn, werken in overeenstemming met hun onderscheiden nationale rechtsstelsels en bestuurlijke stelsels nauw met elkaar samen teneinde de doeltreffendheid te bevorderen van handhavingsmaatregelen ter bestrijding van de strafbare feiten die onder dit Verdrag vallen. De Staten die partij zijn, nemen in het bijzonder doeltreffende maatregelen teneinde:
 
@@ -734,11 +759,11 @@ De Staten die partij zijn, overwegen de mogelijkheid strafvervolging aan elkaar 
 
 3. De Staten die partij zijn, trachten waar dat in hun vermogen ligt samen te werken teneinde het hoofd te bieden aan de strafbare feiten die onder dit Verdrag vallen en worden gepleegd met behulp van moderne technologie.
 
-#### Artikel 49. Gezamenlijke opsporing
+##### Artikel 49. Gezamenlijke opsporing
 
 De Staten die partij zijn, overwegen het aangaan van bilaterale of multilaterale overeenkomsten of regelingen op grond waarvan ten behoeve van aangelegenheden die het voorwerp zijn van opsporing, vervolging of gerechtelijke procedures in een of meer Staten, de betrokken bevoegde autoriteiten gemeenschappelijke opsporingsinstanties kunnen oprichten. Bij het ontbreken van dergelijke overeenkomsten of regelingen kunnen gezamenlijke opsporingen op ad hoc-basis worden overeengekomen. De betrokken Staten die partij zijn, verzekeren dat de soevereiniteit van de Staat die partij is op het grondgebied waarvan een dergelijke opsporing moet plaatsvinden volledig wordt geëerbiedigd.
 
-#### Artikel 50. Speciale opsporingstechnieken
+##### Artikel 50. Speciale opsporingstechnieken
 
 1. Teneinde corruptie doeltreffend te bestrijden neemt elke Staat die partij is, voorzover toegestaan volgens de grondbeginselen van zijn nationale rechtsstelsel en onder de door zijn nationale recht voorgeschreven voorwaarden, binnen zijn mogelijkheden de maatregelen die nodig kunnen zijn ten behoeve van het passend gebruik van gecontroleerde aflevering en, wanneer hij dat passend acht, voor het gebruik van andere speciale opsporingstechnieken, zoals elektronisch of andere vormen van toezicht en infiltratie-operaties, door zijn bevoegde autoriteiten op zijn grondgebied, en laat daaruit verkregen bewijsmateriaal toe in gerechtelijke procedures.
 
@@ -750,11 +775,11 @@ De Staten die partij zijn, overwegen het aangaan van bilaterale of multilaterale
 
 ### HOOFDSTUK V. HET TERUGKRIJGEN VAN ACTIVA
 
-#### Artikel 51. Algemene bepaling
+##### Artikel 51. Algemene bepaling
 
 De teruggave van activa ingevolge dit hoofdstuk vormt een grondbeginsel van dit Verdrag en de Staten die partij zijn werken in dit opzicht in de ruimst mogelijke zin met elkaar samen en verlenen elkaar de ruimst mogelijke hulp.
 
-#### Artikel 52. Voorkomen en opsporen van de overmaking van opbrengsten van misdaad
+##### Artikel 52. Voorkomen en opsporen van de overmaking van opbrengsten van misdaad
 
 1. Onverminderd artikel 14 van dit Verdrag, neemt elke Staat die partij is de maatregelen die nodig kunnen zijn, overeenkomstig zijn nationale recht, om de financiële instellingen die onder zijn rechtsmacht vallen te verplichten de identiteit van cliënten te verifiëren, redelijke stappen te nemen om de identiteit vast te stellen van uiteindelijk begunstigden van fondsen die op rekeningen waarop grote bedragen staan zijn gestort en scherper toezicht te houden op rekeningen die personen die belangrijke openbare functies bekleden of hebben bekleed, alsmede hun familieleden en mensen in hun directe omgeving aanhouden of willen openen of die tussenpersonen namens hen aanhouden of willen openen. Een dergelijke verscherpte controle wordt redelijkerwijs opgezet om verdachte transacties op te sporen teneinde deze ter kennis te brengen van de bevoegde autoriteiten en mogen niet zodanig zijn dat zij financiële instellingen ervan weerhouden of verbieden met legitieme cliënten zaken te doen.
 
@@ -772,7 +797,7 @@ De teruggave van activa ingevolge dit hoofdstuk vormt een grondbeginsel van dit 
 
 6. Elke Staat die partij is, overweegt de maatregelen te nemen die nodig kunnen zijn, overeenkomstig zijn nationale recht, om daarvoor in aanmerking komende overheidsfunctionarissen die een belang hebben in of een tekenbevoegdheid of andere bevoegdheid hebben ter zake van een financiële rekening in het buitenland te verplichten deze relatie ter kennis te brengen van de bevoegde autoriteiten en van deze rekeningen een adequate administratie bij te houden. Dergelijke maatregelen voorzien tevens in passende sancties bij niet-naleving.
 
-#### Artikel 53. Maatregelen voor het rechtstreeks terugkrijgen van goederen
+##### Artikel 53. Maatregelen voor het rechtstreeks terugkrijgen van goederen
 
 Overeenkomstig zijn nationale recht, neemt elke Staat die partij is:
 
@@ -782,7 +807,7 @@ Overeenkomstig zijn nationale recht, neemt elke Staat die partij is:
 
 - c. de maatregelen die nodig kunnen zijn om zijn rechters of bevoegde autoriteiten, wanneer deze voor het besluit staan of zij tot confiscatie overgaan, toe te staan de vordering te erkennen van de andere Staat die partij is als rechtmatig eigenaar van goederen die zijn verworven door het plegen van een overeenkomstig dit Verdrag strafbaar gesteld feit.
 
-#### Artikel 54. Mechanismen voor het terugkrijgen van goederen door internationale samenwerking bij confiscatie
+##### Artikel 54. Mechanismen voor het terugkrijgen van goederen door internationale samenwerking bij confiscatie
 
 1. Overeenkomstig zijn nationale recht neemt elke Staat die partij is, met het oog op het verlenen van wederzijdse rechtshulp krachtens artikel 55 van dit Verdrag met betrekking tot goederen die verworven zijn door of betrokken zijn bij het plegen van een overeenkomstig dit Verdrag strafbaar gesteld feit:
 
@@ -800,7 +825,7 @@ Overeenkomstig zijn nationale recht, neemt elke Staat die partij is:
 
 - c. overweegt de Staat die partij is het nemen van aanvullende maatregelen om zijn bevoegde autoriteiten toe te staan goederen veilig te stellen voor confiscatie, zoals op grond van een aanhouding of vervolging in het buitenland met betrekking tot de verwerving van dergelijke goederen.
 
-#### Artikel 55. Internationale samenwerking ten behoeve van confiscatie
+##### Artikel 55. Internationale samenwerking ten behoeve van confiscatie
 
 1. Een Staat die partij is, die een verzoek heeft ontvangen van een andere Staat die partij is met rechtsmacht over een overeenkomstig dit Verdrag strafbaar gesteld feit, tot confiscatie van opbrengsten van misdaad, goederen, benodigdheden of andere hulpmiddelen als bedoeld in artikel 31, eerste lid, van dit Verdrag, die zich op zijn grondgebied bevinden, stuurt, voorzover dat mogelijk is binnen zijn nationale rechtsstelsel:
 
@@ -830,11 +855,11 @@ Overeenkomstig zijn nationale recht, neemt elke Staat die partij is:
 
 9. De bepalingen van dit artikel mogen niet zodanig worden uitgelegd dat zij afbreuk doen aan de rechten van derden te goeder trouw.
 
-#### Artikel 56. Bijzondere samenwerking
+##### Artikel 56. Bijzondere samenwerking
 
 Onverminderd zijn nationale recht spant elke Staat die partij is zich in maatregelen te nemen die hem in staat stellen, onverminderd zijn eigen onderzoeken, vervolgingen of gerechtelijke procedures, informatie over opbrengsten van overeenkomstig dit Verdrag strafbaar gestelde feiten zonder voorafgaand verzoek naar een andere Staat die partij is te zenden indien hij van mening is dat de bekendmaking van dergelijke informatie de ontvangende Staat die partij is zou kunnen helpen bij het initiëren of uitvoeren van onderzoeken, vervolgingen of gerechtelijke procedures of zou kunnen leiden tot een verzoek door die Staat die partij is krachtens dit hoofdstuk van het Verdrag.
 
-#### Artikel 57. Teruggave en afhandeling van activa
+##### Artikel 57. Teruggave en afhandeling van activa
 
 1. Goederen die ingevolge de artikelen 31 of 55 van dit Verdrag door een Staat die partij is worden geconfisqueerd, worden krachtens het derde lid van dit artikel door die Staat die partij is overeenkomstig de bepalingen van dit Verdrag en zijn nationale recht afgehandeld, of teruggegeven aan de vorige rechtmatige eigenaren.
 
@@ -852,17 +877,17 @@ Onverminderd zijn nationale recht spant elke Staat die partij is zich in maatreg
 
 5. Waar passend kunnen de Staten die partij zijn tevens in het bijzonder overwegen van geval tot geval overeenkomsten of wederzijds aanvaardbare regelingen aan te gaan voor de definitieve afhandeling van geconfisqueerde goederen.
 
-#### Artikel 58. Financiële informatie-eenheid
+##### Artikel 58. Financiële informatie-eenheid
 
 De Staten die partij zijn, werken samen met het oog op het voorkomen en bestrijden van de overmaking van opbrengsten van overeenkomstig dit Verdrag strafbaar gestelde feiten en het bevorderen van middelen om dergelijke opbrengsten terug te krijgen en overwegen daartoe het instellen van een financiële informatie-eenheid die verantwoordelijk zal zijn voor het ontvangen, analyseren en onder de bevoegde autoriteiten verspreiden van meldingen van verdachte financiële transacties.
 
-#### Artikel 59. Bilaterale en multilaterale overeenkomsten en regelingen
+##### Artikel 59. Bilaterale en multilaterale overeenkomsten en regelingen
 
 De Staten die partij zijn, overwegen bilaterale of multilaterale overeenkomsten of regelingen te sluiten teneinde de doeltreffendheid van de ingevolge dit hoofdstuk van het Verdrag verleende internationale medewerking te verhogen.
 
 ### HOOFDSTUK VI. TECHNISCHE BIJSTAND EN UITWISSELING VAN INFORMATIE
 
-#### Artikel 60. Opleiding en technische bijstand
+##### Artikel 60. Opleiding en technische bijstand
 
 1. Elke Staat die partij is, initieert, ontwikkelt of verbetert, voorzover nodig, specifieke opleidingsprogramma's voor zijn personeel dat verantwoordelijk is voor het voorkomen en bestrijden van corruptie. Dergelijke opleidingsprogramma's kunnen, onder andere, het volgende betreffen:
 
@@ -900,7 +925,7 @@ De Staten die partij zijn, overwegen bilaterale of multilaterale overeenkomsten 
 
 8. Elke Staat die partij is, overweegt vrijwillige bijdragen aan het Bureau voor Drugs en Criminaliteit van de Verenigde Naties ter bevordering, via het Bureau, van programma's en projecten in ontwikkelingslanden met het oog op de uitvoering van dit Verdrag.
 
-#### Artikel 61. Verzamelen, uitwisselen en analyseren van informatie over corruptie
+##### Artikel 61. Verzamelen, uitwisselen en analyseren van informatie over corruptie
 
 1. Elke Staat die partij is, overweegt in samenspraak met deskundigen, de trends in corruptie op zijn grondgebied alsmede van de omstandigheden waaronder corruptie plaatsvindt te analyseren.
 
@@ -908,7 +933,7 @@ De Staten die partij zijn, overwegen bilaterale of multilaterale overeenkomsten 
 
 3. Elke Staat die partij is, overweegt zijn beleid en feitelijk genomen maatregelen om corruptie te bestrijden door te lichten en de doeltreffendheid en doelmatigheid ervan te beoordelen.
 
-#### Artikel 62. Andere maatregelen: uitvoering van het Verdrag via economische ontwikkeling en technische bijstand
+##### Artikel 62. Andere maatregelen: uitvoering van het Verdrag via economische ontwikkeling en technische bijstand
 
 1. De Staten die partij zijn, nemen maatregelen die bijdragen aan de optimale uitvoering van dit Verdrag, voor zover mogelijk door middel van internationale samenwerking, rekening houdend met de negatieve invloed van corruptie op de maatschappij in het algemeen, in het bijzonder op duurzame ontwikkeling.
 
@@ -928,7 +953,7 @@ De Staten die partij zijn, overwegen bilaterale of multilaterale overeenkomsten 
 
 ### HOOFDSTUK VII. MECHANISMEN TEN BEHOEVE VAN DE UITVOERING
 
-#### Artikel 63. Conferentie van de Staten die partij zijn bij het Verdrag
+##### Artikel 63. Conferentie van de Staten die partij zijn bij het Verdrag
 
 1. Hierbij wordt een Conferentie van de Staten die partij zijn bij het Verdrag ingesteld ter verbetering van de capaciteit van en samenwerking tussen de Staten die partij zijn ter verwezenlijking van de in dit Verdrag vervatte doelstellingen en ter bevordering en toetsing van de uitvoering van dit Verdrag.
 
@@ -958,7 +983,7 @@ De Staten die partij zijn, overwegen bilaterale of multilaterale overeenkomsten 
 
 7. Ingevolge het vierde tot en met het zesde lid van dit artikel stelt de Conferentie van Staten die partij zijn, indien hij dit noodzakelijk acht, een passend mechanisme of lichaam in dat zal helpen bij de doeltreffende uitvoering van dit Verdrag.
 
-#### Artikel 64. Secretariaat
+##### Artikel 64. Secretariaat
 
 1. De Secretaris-Generaal van de Verenigde Naties verzorgt de nodige secretariaatsdiensten voor de Conferentie van de Staten die partij zijn bij het Verdrag.
 
@@ -972,13 +997,13 @@ De Staten die partij zijn, overwegen bilaterale of multilaterale overeenkomsten 
 
 ### HOOFDSTUK VIII. SLOTBEPALINGEN
 
-#### Artikel 65. Uitvoering van het Verdrag
+##### Artikel 65. Uitvoering van het Verdrag
 
 1. Elke Staat die partij is, neemt de nodige maatregelen, met inbegrip van wettelijke en bestuursrechtelijke maatregelen, overeenkomstig de grondbeginselen van zijn nationale recht, om de uitvoering van zijn verplichtingen ingevolge dit Verdrag te verzekeren.
 
 2. Elke Staat die partij is, kan strengere of zwaardere maatregelen nemen dan die voorzien in dit Verdrag ten behoeve van de voorkoming en bestrijding van corruptie.
 
-#### Artikel 66. Beslechting van geschillen
+##### Artikel 66. Beslechting van geschillen
 
 1. De Staten die partij zijn, spannen zich in geschillen betreffende de uitlegging of toepassing van dit Verdrag te beslechten door onderhandeling.
 
@@ -988,7 +1013,7 @@ De Staten die partij zijn, overwegen bilaterale of multilaterale overeenkomsten 
 
 4. Een Staat die partij is die een voorbehoud heeft gemaakt overeenkomstig het derde lid van dit artikel, kan dit voorbehoud te allen tijde intrekken door middel van een kennisgeving aan de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 67. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 67. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Verdrag is voor alle Staten opengesteld voor ondertekening van 9 tot en met 11 december 2003 te Merida, Mexico, en daarna tot en met 9 december 2005 op het hoofdkwartier van de Verenigde Naties te New York.
 
@@ -998,13 +1023,13 @@ De Staten die partij zijn, overwegen bilaterale of multilaterale overeenkomsten 
 
 4. Dit Verdrag staat open voor toetreding door elke Staat of elke regionale organisatie voor economische integratie waarvan ten minste een lidstaat partij is bij dit Verdrag. De akten van toetreding worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties. Bij haar toetreding geeft een regionale organisatie voor economische integratie de omvang van haar bevoegdheden ter zake van in dit Verdrag geregelde aangelegenheden aan. Een dergelijke organisatie stelt de depositaris ook in kennis van elke relevante wijziging in de omvang van haar bevoegdheden.
 
-#### Artikel 68. Inwerkingtreding
+##### Artikel 68. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking negentig dagen na de datum van de nederlegging van de dertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding. Voor de toepassing van dit lid wordt een door een regionale organisatie voor economische integratie nedergelegde akte niet meegeteld naast de door de lidstaten van deze organisatie reeds nedergelegde akten.
 
 2. Voor elke Staat of regionale organisatie voor economische integratie die dit Verdrag bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de nederlegging van de desbetreffende dertigste akte, treedt dit Verdrag in werking dertig dagen na de datum van nederlegging door een dergelijke Staat of organisatie van de desbetreffende akte of op de datum waarop dit Verdrag in werking treedt ingevolge het eerste lid van dit artikel, naar gelang van welke datum het laatst valt.
 
-#### Artikel 69. Wijziging
+##### Artikel 69. Wijziging
 
 1. Na het verstrijken van een termijn van vijf jaar na de inwerkingtreding van dit Verdrag kan een Staat die partij is een wijziging voorstellen en toezenden aan de Secretaris-Generaal van de Verenigde Naties, die de voorgestelde wijziging vervolgens toezendt aan de Staten die partij zijn en aan de Conferentie van de Staten die partij zijn bij het Verdrag, teneinde het voorstel te bestuderen en erover te beslissen. De Conferentie van de Staten die partij zijn stelt alles in het werk om consensus te bereiken over iedere wijziging. Indien alle pogingen om consensus te bereiken zijn mislukt en er geen overeenstemming wordt bereikt, wordt de wijziging in laatste instantie aangenomen met een tweederde meerderheid van de Staten die partij zijn die aanwezig zijn en hun stem uitbrengen tijdens de Conferentie van de Staten die partij zijn.
 
@@ -1016,13 +1041,13 @@ De Staten die partij zijn, overwegen bilaterale of multilaterale overeenkomsten 
 
 5. Wanneer een wijziging van kracht wordt, is zij bindend voor de Staten die partij zijn en die het feit dat zij ermee instemmen erdoor gebonden te worden tot uitdrukking hebben gebracht. De andere Staten die partij zijn, blijven gebonden door de bepalingen van dit Verdrag en door alle eerdere wijzigingen die zij hebben bekrachtigd, aanvaard of goedgekeurd.
 
-#### Artikel 70. Opzegging
+##### Artikel 70. Opzegging
 
 1. Iedere Staat die partij is, kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal van de Verenigde Naties. De opzegging wordt van kracht een jaar na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
 2. Een regionale organisatie voor economische integratie houdt op partij te zijn bij dit Verdrag wanneer al haar lidstaten het hebben opgezegd.
 
-#### Artikel 71. Depositaris en talen
+##### Artikel 71. Depositaris en talen
 
 1. De Secretaris-Generaal van de Verenigde Naties wordt aangewezen als depositaris van dit Verdrag.
 

@@ -1,13 +1,36 @@
 ---
-title: "Omzettingsregeling luchthaven Ameland"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Ameland, in verband met de vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens (Omzettingsregeling luchthaven Ameland)"
 identifier: "BWBR0032025"
-categorie: "Milieu"
-publicatiedatum: 2015-11-07
-laatste_update: 2015-11-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032025"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-11-07"
+last_updated: "2015-11-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032025"
+soort: "ministeriele-regeling"
+stam_id: "11851953"
+version_id: "19655482"
+internal_id: "C27578841"
+label_id: "11824154"
+dtd_version: "2.0"
+original_entry_into_force: "2011-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032025/2015-11-07/0"
+intitule_bron: "Stcrt.2011-5704"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-03-31"
+intitule_in_force: "2011-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-5704"
+original_published_date: "2011-03-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-5704"
+entry_into_force_date: "2011-04-01"
+jci_1_3: "jci1.3:c:BWBR0032025&z=2015-11-07&g=2015-11-07"
+jci_1_0: "1.0:c:BWBR0032025&g=2015-11-07"
+citeertitel_status: "officieel"
+short_title: "Omzettingsregeling luchthaven Ameland"
+entry_into_force: "2011-04-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Ameland, in verband met de vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens (Omzettingsregeling luchthaven Ameland)
 
 Gelet op [artikel X van de Wet van 18 december 2008 houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X) (Stb. 2008, 561);
@@ -16,7 +39,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -38,13 +61,13 @@ Besluit:
 
 ### Hoofdstuk 2. Luchthaven
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling is van toepassing op de luchthaven Ameland.
 
 2. Het luchthavengebied is aangegeven op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032025&bijlage=1&z=2015-11-07&g=2015-11-07) bij deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 Op de luchthaven zijn gelegen:
 
@@ -56,7 +79,7 @@ Op de luchthaven zijn gelegen:
 
 ### Hoofdstuk 3. Regels en grenswaarden
 
-#### Artikel 4
+##### Artikel 4
 
 1. Op de luchthaven is uitsluitend burgerluchtverkeer toegestaan.
 
@@ -70,27 +93,27 @@ Op de luchthaven zijn gelegen:
 
 - b. tijdens het landen en opstijgen van luchtvaartuigen op de luchthaven, alsmede tijdens het vliegen met luchtvaartuigen op een afstand van minder dan drie kilometer van de luchthaven is het gebruik van modelvliegtuigen verboden.
 
-#### Artikel 5
+##### Artikel 5
 
 Het gebruik van de luchthaven vindt plaats binnen de daglichtperiode overeenkomstig de zichtvliegvoorschriften, bedoeld in deel 5 van de bijlage bij verordening (EU) nr. 923/2012.
 
-#### Artikel 6
+##### Artikel 6
 
 De ligging van de handhavingspunten, bedoeld in [artikel X, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X), en de grenswaarden voor de geluidbelasting op die punten, zijn opgenomen op de kaart onderscheidenlijk in de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032025&bijlage=1&z=2015-11-07&g=2015-11-07) bij deze regeling.
 
 ### Hoofdstuk 4. Ruimtelijke beperkingen
 
-#### Artikel 7
+##### Artikel 7
 
 Het beperkingengebied, bedoeld in [artikel X, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X), is aangegeven op de kaart in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032025&bijlage=2&z=2015-11-07&g=2015-11-07) bij deze regeling.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van 1 april 2011.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Omzettingsregeling luchthaven Ameland.
 

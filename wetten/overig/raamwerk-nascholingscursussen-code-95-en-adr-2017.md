@@ -1,13 +1,35 @@
 ---
 title: "Raamwerk nascholingscursussen Code 95 en ADR (2017)"
 identifier: "BWBR0039074"
-categorie: "Overig"
-publicatiedatum: 2017-01-06
-laatste_update: 2017-01-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039074"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-01-06"
+last_updated: "2017-01-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039074"
+soort: "zbo"
+stam_id: "13867273"
+version_id: "23810512"
+internal_id: "C34255351"
+label_id: "13833234"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039074/2017-01-06/0"
+intitule_bron: "Stcrt.2017-466"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-01-06"
+intitule_in_force: "2017-01-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-466"
+original_published_date: "2017-01-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-466"
+entry_into_force_date: "2017-01-06"
+jci_1_3: "jci1.3:c:BWBR0039074&z=2017-01-06&g=2017-01-06"
+jci_1_0: "1.0:c:BWBR0039074&g=2017-01-06"
+citeertitel_status: "redactioneel"
+entry_into_force: "2017-01-06"
 ---
-
 # Raamwerk nascholingscursussen Code 95 en ADR (2017)
 
 ### Hoofdstuk 1. Toelichting op het raamwerk

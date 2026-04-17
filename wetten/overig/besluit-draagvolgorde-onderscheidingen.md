@@ -1,24 +1,50 @@
 ---
-title: "Besluit draagvolgorde onderscheidingen"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 oktober 2023, nr. 2023-0000645507 houdende vaststelling van het Besluit draagvolgorde onderscheidingen"
 identifier: "BWBR0048879"
-categorie: "Overig"
-publicatiedatum: 2023-11-15
-laatste_update: 2023-11-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048879"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-11-15"
+last_updated: "2023-11-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048879"
+soort: "ministeriele-regeling"
+stam_id: "16911883"
+version_id: "29722882"
+internal_id: "C42599301"
+label_id: "16823284"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048879/2023-11-15/0"
+intitule_bron: "Stcrt.2023-30982"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-10-30"
+intitule_published: "2023-11-14"
+intitule_in_force: "2023-11-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-30982"
+original_signed_date: "2023-10-30"
+original_published_date: "2023-11-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-30982"
+entry_into_force_date: "2023-11-15"
+jci_1_3: "jci1.3:c:BWBR0048879&z=2023-11-15&g=2023-11-15"
+jci_1_0: "1.0:c:BWBR0048879&g=2023-11-15"
+citeertitel_status: "officieel"
+short_title: "Besluit draagvolgorde onderscheidingen"
+signed_date: "2023-10-30"
+entry_into_force: "2023-11-15"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 oktober 2023, nr. 2023-0000645507 houdende vaststelling van het Besluit draagvolgorde onderscheidingen
 
 Op voordracht van de Kanselier der Nederlandse Orden;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Indien een persoon de hem toegekende, door de Nederlandse Staat ingestelde of erkende, onderscheidingen draagt, dan worden deze links op de borst ter hoogte van de oksel gedragen in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048879&artikel=2&z=2023-11-15&g=2023-11-15) aangegeven volgorde, waarbij de hoogste onderscheiding, zijnde de onderscheiding met het laagste rangnummer, het verst van de linkerschouder wordt gedragen.
 
-#### Artikel 2
+##### Artikel 2
 
 De volgorde waarin onderscheidingen worden gedragen, luidt als volgt:
 
@@ -145,15 +171,15 @@ De volgorde waarin onderscheidingen worden gedragen, luidt als volgt:
 | **H. Buitenlandse staatsonderscheidingen** | **H. Buitenlandse staatsonderscheidingen** | **H. Buitenlandse staatsonderscheidingen** |
 |   | In de volgorde van de graden van hoog naar laag. Bij gelijke graad op alfabetische volgorde van de Franse benamingen van land. Bij meerdere onderscheidingen van één land dient de daar gebruikelijke draagvolgorde te worden aangehouden. | In de volgorde van de graden van hoog naar laag. Bij gelijke graad op alfabetische volgorde van de Franse benamingen van land. Bij meerdere onderscheidingen van één land dient de daar gebruikelijke draagvolgorde te worden aangehouden. |
 
-#### Artikel 3
+##### Artikel 3
 
 Het Besluit draagvolgorde onderscheidingen, zoals laatstelijk vastgesteld bij besluit van de Kanselier der Nederlandse Orden van 10 oktober 2017 (Stcrt. 2017, 58982), wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als Besluit draagvolgorde onderscheidingen.
 

@@ -1,13 +1,39 @@
 ---
-title: "Beleid procesrecht herstel toeslagen"
+title: "Besluit van de Staatssecretaris van Financiën – Toeslagen en Douane, van 27 juni 2024, nr. 2024-362315, houdende beleidsregels over procesrechtelijke aspecten van de uitvoering van de hersteloperatie toeslagen (Beleid procesrecht herstel toeslagen)"
 identifier: "BWBR0049945"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-10
-laatste_update: 2024-07-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049945"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-07-10"
+last_updated: "2024-07-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049945"
+soort: "beleidsregel"
+stam_id: "17162783"
+version_id: "30209412"
+internal_id: "C43277141"
+label_id: "17071054"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049945/2024-07-10/0"
+intitule_bron: "Stcrt.2024-21683"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-27"
+intitule_published: "2024-07-09"
+intitule_in_force: "2024-07-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-21683"
+original_signed_date: "2024-06-27"
+original_published_date: "2024-07-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-21683"
+entry_into_force_date: "2024-07-10"
+jci_1_3: "jci1.3:c:BWBR0049945&z=2024-07-10&g=2024-07-10"
+jci_1_0: "1.0:c:BWBR0049945&g=2024-07-10"
+citeertitel_status: "officieel"
+short_title: "Beleid procesrecht herstel toeslagen"
+signed_date: "2024-06-27"
+entry_into_force: "2024-07-10"
 ---
-
 # Besluit van de Staatssecretaris van Financiën – Toeslagen en Douane, van 27 juni 2024, nr. 2024-362315, houdende beleidsregels over procesrechtelijke aspecten van de uitvoering van de hersteloperatie toeslagen (Beleid procesrecht herstel toeslagen)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -16,11 +42,11 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1.1. Toepassingsbereik
+##### Artikel 1.1. Toepassingsbereik
 
 Deze beleidsregels zien op de procesrechtelijke aspecten van de uitvoering van de [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436) en de toepassing van de[Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) door de Directie Uitvoeringsorganisatie Herstel Toeslagen (UHT) als onderdeel van de Dienst Toeslagen.
 
-#### Artikel 1.2. Begripsbepalingen
+##### Artikel 1.2. Begripsbepalingen
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze beleidsregels wordt verstaan onder:
 
 - **Wht:** [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
 
-#### Artikel 1.3. Vertegenwoordiging
+##### Artikel 1.3. Vertegenwoordiging
 
 1. Als belanghebbenden zich laten vertegenwoordigen door een gemachtigde, vindt correspondentie in ieder geval plaats met de gemachtigde.
 
@@ -56,11 +82,11 @@ In deze beleidsregels wordt verstaan onder:
 
 4. Als UHT gebruik maakt van de bevoegdheid om wegens ernstige bezwaren een gemachtigde, niet zijnde een advocaat, te weigeren, motiveert UHT die beslissing zo concreet mogelijk aan de hand van individuele gedragingen.
 
-#### Artikel 1.4. Openbaarmaking behandelkaders en werkinstructies
+##### Artikel 1.4. Openbaarmaking behandelkaders en werkinstructies
 
 UHT maakt behandelkaders en werkinstructies die beleid bevatten zo veel mogelijk actief openbaar, waaronder in ieder geval instructies waar in beschikkingen of de voorbereiding op die beschikkingen naar wordt verwezen.
 
-#### Artikel 1.5. Toepassing [besluit bestuursrecht toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0041450)
+##### Artikel 1.5. Toepassing [besluit bestuursrecht toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0041450)
 
 [Paragraaf 3](onbekend) en [4 van het Besluit Bestuursrecht Toeslagen](onbekend) zijn onverkort van toepassing op UHT, met dien verstande dat onder ambtenaren ook andere medewerkers worden verstaan.
 
@@ -68,7 +94,7 @@ UHT maakt behandelkaders en werkinstructies die beleid bevatten zo veel mogelijk
 
 ### Hoofdstuk 3. Bezwaarbehandeling bij bezwaren op grond van de [wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436)
 
-#### Artikel 3.1. Bevestiging van ontvangst, telefonisch contact en schriftelijke reactie
+##### Artikel 3.1. Bevestiging van ontvangst, telefonisch contact en schriftelijke reactie
 
 1. UHT tekent op het bezwaarschrift de datum van ontvangst aan.
 
@@ -92,13 +118,13 @@ UHT maakt behandelkaders en werkinstructies die beleid bevatten zo veel mogelijk
 
 7. Als UHT een schriftelijke reactie opstelt, geeft UHT de indiener van het bezwaar de gelegenheid daarop te reageren. UHT beziet met de indiener van het bezwaar de mogelijkheden om het bezwaar informeel op te lossen.
 
-#### Artikel 3.2. Termijnen en opschorten
+##### Artikel 3.2. Termijnen en opschorten
 
 1. UHT gaat uit van de wettelijke beslistermijn zonder inzet van de BAC, tenzij binnen die termijn wordt besloten tot inzet van de BAC.
 
 2. UHT stemt overeenkomstig [artikel 7:10, vierde lid, onder b, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) in met een verzoek de afhandeling van het bezwaar uit te stellen, tenzij zwaarwegende redenen zich daartegen verzetten.
 
-#### Artikel 3.3. Completeren bezwaarschrift en niet ontvankelijk verklaren
+##### Artikel 3.3. Completeren bezwaarschrift en niet ontvankelijk verklaren
 
 1. Als het bezwaarschrift nog niet volledig is, dan biedt UHT een termijn om dit aan te vullen van:
 
@@ -116,7 +142,7 @@ UHT maakt behandelkaders en werkinstructies die beleid bevatten zo veel mogelijk
 
 6. Voordat UHT een onvolledig bezwaar als bedoeld in het eerste lid daadwerkelijk niet-ontvankelijk verklaart, zoekt UHT op andere wijze dan schriftelijk contact met de indiener van het bezwaar. Daarmee biedt UHT een laatste mogelijkheid een verzuim onverwijld te herstellen. UHT hanteert daarbij een termijn van twee werkdagen na de dag waarop contact is gelegd. Als telefonisch contact leggen niet mogelijk is, laat UHT zo mogelijk een bericht achter en stuurt UHT zo mogelijk tevens een bericht per e-mail.
 
-#### Artikel 3.4. Termijnoverschrijding bij indienen bezwaar
+##### Artikel 3.4. Termijnoverschrijding bij indienen bezwaar
 
 1. UHT hanteert in bezwaarclausules de volgende uitgangspunten:
 
@@ -134,7 +160,7 @@ UHT maakt behandelkaders en werkinstructies die beleid bevatten zo veel mogelijk
 
 6. UHT betrekt bij de beoordeling van de verschoonbaarheid in ieder geval de situatie dat er door UHT niet reeds tijdens de integrale beoordeling desgevraagd een ouderdossier is verstrekt en er binnen zes weken bezwaar wordt gemaakt na het alsnog verstrekken van dat dossier.
 
-#### Artikel 3.5. Finale geschilbeslechting
+##### Artikel 3.5. Finale geschilbeslechting
 
 1. UHT streeft naar een oplossingsgerichte afhandeling van bezwaren en het finaal beslechten van voorliggende geschillen.
 
@@ -142,11 +168,11 @@ UHT maakt behandelkaders en werkinstructies die beleid bevatten zo veel mogelijk
 
 3. In de vaststellingsovereenkomst wordt duidelijk vastgelegd op welke procedures de vaststellingsovereenkomst betrekking heeft.
 
-#### Artikel 3.6. Volledige heroverweging
+##### Artikel 3.6. Volledige heroverweging
 
 In bezwaar verricht UHT een volledige heroverweging, die naast een beoordeling van de aangevoerde bezwaargronden ook ziet op beleidsmatige aspecten.
 
-#### Artikel 3.7. Ambtelijk horen door UHT
+##### Artikel 3.7. Ambtelijk horen door UHT
 
 1. Als UHT voornemens is belanghebbende ambtelijk te horen, dan stelt UHT zoveel mogelijk in onderling overleg een datum en tijdstip vast en bevestigt UHT deze schriftelijk.
 
@@ -164,7 +190,7 @@ In bezwaar verricht UHT een volledige heroverweging, die naast een beoordeling v
 
 8. UHT maakt geen gebruik van de mogelijkheid om op grond van [artikel 7:3, aanhef en onder d, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:3) van horen af te zien.
 
-#### Artikel 3.8. Afzien van voorleggen aan de BAC op grond van de [Instellingsregeling BAC](https://wetten.overheid.nl/jci1.3:c:BWBR0045876)
+##### Artikel 3.8. Afzien van voorleggen aan de BAC op grond van de [Instellingsregeling BAC](https://wetten.overheid.nl/jci1.3:c:BWBR0045876)
 
 1. Als UHT voornemens is een bezwaar af te doen zonder advies van de BAC, dan stelt UHT de indiener van het bezwaar in de gelegenheid om te reageren op die voorgenomen afdoening. De wijze waarop dat gebeurt kan telefonisch, schriftelijk of tijdens de hoorzitting en wordt vastgelegd ten behoeve van het dossier.
 
@@ -178,11 +204,11 @@ In bezwaar verricht UHT een volledige heroverweging, die naast een beoordeling v
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 5.1. Inwerkingtreding
+##### Artikel 5.1. Inwerkingtreding
 
 Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst.
 
-#### Artikel 5.2. Citeertitel
+##### Artikel 5.2. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleid procesrecht herstel toeslagen.
 

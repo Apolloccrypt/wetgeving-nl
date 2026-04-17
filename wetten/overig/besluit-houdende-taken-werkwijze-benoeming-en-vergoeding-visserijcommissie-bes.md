@@ -1,20 +1,46 @@
 ---
-title: "Besluit houdende taken, werkwijze, benoeming en vergoeding Visserijcommissie BES"
+title: "Besluit van de Staatssecretaris van Economische Zaken van 20 december 2013, nr. WJZ / 13182859, houdende taken, werkwijze, benoeming en vergoeding Visserijcommissie BES (Besluit houdende taken, werkwijze, benoeming en vergoeding Visserijcommissie BES)"
 identifier: "BWBR0034555"
-categorie: "Overig"
-publicatiedatum: 2013-12-31
-laatste_update: 2013-11-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034555"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2013-12-31"
+last_updated: "2013-11-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034555"
+soort: "ministeriele-regeling-BES"
+stam_id: "12524193"
+version_id: "21080132"
+internal_id: "C30262201"
+label_id: "12494824"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034555/2013-12-31/0"
+intitule_bron: "Stcrt.2013-36779"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-20"
+intitule_published: "2013-12-30"
+intitule_in_force: "2013-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-36779"
+original_signed_date: "2013-12-20"
+original_published_date: "2013-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-36779"
+entry_into_force_date: "2013-12-31"
+jci_1_3: "jci1.3:c:BWBR0034555&z=2013-12-31&g=2013-12-31"
+jci_1_0: "1.0:c:BWBR0034555&g=2013-12-31"
+citeertitel_status: "officieel"
+short_title: "Besluit houdende taken, werkwijze, benoeming en vergoeding Visserijcommissie BES"
+signed_date: "2013-12-20"
+entry_into_force: "2013-12-31"
 ---
-
 # Besluit van de Staatssecretaris van Economische Zaken van 20 december 2013, nr. WJZ / 13182859, houdende taken, werkwijze, benoeming en vergoeding Visserijcommissie BES (Besluit houdende taken, werkwijze, benoeming en vergoeding Visserijcommissie BES)
 
 Gelet op [artikel 3a van het Visserijbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028413&artikel=3a);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **commissie:** de visserijcommissie als bedoeld in [artikel 13 van de Visserijwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=13).
 
-#### Artikel 2
+##### Artikel 2
 
 De commissie heeft tot taak de minister te adviseren over:
 
@@ -38,7 +64,7 @@ De commissie heeft tot taak de minister te adviseren over:
 
 - f. het verlengen van een vergunning als bedoeld in [artikel 8, tweede lid, van de Visserijwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=8).
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie stelt haar eigen werkwijze schriftelijk vast.
 
@@ -52,21 +78,21 @@ De commissie heeft tot taak de minister te adviseren over:
 
 6. De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De leden van de commissie die door de openbare lichamen zijn benoemd overeenkomstig [artikel 3a, tweede lid, van het Visserijbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028413&artikel=3a), en die niet werkzaam zijn bij een openbaar lichaam of bij de Rijksdienst Caribisch Nederland ontvangen een vergoeding per vergadering van 140 USD.
 
 2. Alle leden ontvangen daarnaast een vergoeding van reis- en verblijfkosten op de voet van de regeling voor het personeel werkzaam bij de sector Rijk.
 
-#### Artikel 5
+##### Artikel 5
 
 Te rekenen vanaf 20 november 2013 wordt voor een periode van zes jaar tot lid van de commissie benoemd: de heer R.E. van Anrooij, te Barbados, tevens voorzitter.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 20 november 2013.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit houdende taken, werkwijze, benoeming en vergoeding Visserijcommissie BES.
 

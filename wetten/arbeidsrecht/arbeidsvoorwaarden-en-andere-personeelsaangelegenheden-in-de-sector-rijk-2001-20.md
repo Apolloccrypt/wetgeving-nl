@@ -1,13 +1,37 @@
 ---
 title: "Arbeidsvoorwaarden en andere personeelsaangelegenheden in de sector Rijk 2001-2002"
 identifier: "BWBR0013185"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2001-12-14
-laatste_update: 2001-12-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013185"
+country: "nl"
+rank: "circulaire"
+publication_date: "2001-12-14"
+last_updated: "2001-12-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013185"
+soort: "circulaire"
+stam_id: "6368263"
+version_id: "11029942"
+internal_id: "C14926931"
+label_id: "6357684"
+original_entry_into_force: "2001-12-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013185/2001-12-14/0"
+intitule_bron: "Stcrt.2001-249"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-12-14"
+intitule_published: "2001-12-27"
+intitule_in_force: "2001-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-249"
+original_signed_date: "2001-12-14"
+original_published_date: "2001-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2001-249-p5-SC32444"
+entry_into_force_date: "2001-12-14"
+jci_1_3: "jci1.3:c:BWBR0013185&z=2001-12-14&g=2001-12-14"
+jci_1_0: "1.0:c:BWBR0013185&g=2001-12-14"
+citeertitel_status: "redactioneel"
+signed_date: "2001-12-14"
+entry_into_force: "2001-12-14"
 ---
-
 # Arbeidsvoorwaarden en andere personeelsaangelegenheden in de sector Rijk 2001-2002
 
 ### Inleiding/managementinformatie

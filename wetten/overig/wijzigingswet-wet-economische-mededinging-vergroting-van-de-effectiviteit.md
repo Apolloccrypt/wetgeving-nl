@@ -1,14 +1,38 @@
 ---
-title: "Wijzigingswet Wet economische mededinging (vergroting van de effectiviteit)"
+title: "Wet van 2 november 1994, tot wijziging van de Wet economische mededinging (vergroting van de effectiviteit)"
 identifier: "BWBR0007001"
-categorie: "Overig"
-publicatiedatum: 1995-09-01
-laatste_update: 1995-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007001"
+country: "nl"
+rank: "wet"
+publication_date: "1995-09-01"
+last_updated: "1995-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007001"
+soort: "wet"
+stam_id: "524643"
+version_id: "768592"
+internal_id: "C768591"
+label_id: "509594"
+dtd_version: "2.0"
+original_entry_into_force: "1995-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007001/1995-09-01/0"
+intitule_bron: "Stb.1994-801"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-11-02"
+intitule_in_force: "1995-06-06"
+intitule_status: "goed"
+original_publication: "Stb.1994-801"
+original_signed_date: "1994-11-02"
+original_effect: "nieuwe-regeling"
+original_dossier: "23306"
+entry_into_force_date: "1995-09-01"
+jci_1_3: "jci1.3:c:BWBR0007001&z=1995-09-01&g=1995-09-01"
+jci_1_0: "1.0:c:BWBR0007001&g=1995-09-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet economische mededinging (vergroting van de effectiviteit)"
+signed_date: "1994-11-02"
+entry_into_force: "1995-09-01"
 ---
-
-# Wijzigingswet Wet economische mededinging (vergroting van de effectiviteit)
+# Wet van 2 november 1994, tot wijziging van de Wet economische mededinging (vergroting van de effectiviteit)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,19 +40,19 @@ Alzo Wij in overweging genomen hebben, dat het in verband met de intensivering v
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Artikel 8, derde lid, tweede volzin (oud), artikel 9**g**, derde lid, derde volzin, vijfde lid, tweede volzin, en zesde lid (oud), en artikel 12, tweede lid, vierde volzin, vierde lid, tweede volzin, en vijfde lid (oud), van de Wet economische mededinging, zoals die bepalingen luidden onmiddellijk voor het tijdstip van inwerkingtreding van deze wet, blijven, in gevallen waarin tegen de desbetreffende beschikking beroep is ingesteld voor dat tijdstip, gelden totdat twee maanden zijn verlopen na de dagtekening van de **Staatscourant**, waarin hetzij mededeling is gedaan, dat geen beslissing in beroep zal volgen, hetzij de beslissing in beroep is bekend gemaakt.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Voor bij het in werking treden van deze wet bestaande mededingingsregelingen die ingevolge de in deze wet neergelegde wijziging van artikel 1 van de Wet economische mededinging onder de werking van laatstgenoemde wet komen te vallen, treedt voor de in artikel 2, tweede lid, van de Wet economische mededinging genoemde termijn in de plaats de termijn van één maand na dat in werking treden.
 
@@ -44,7 +68,7 @@ Artikel 8, derde lid, tweede volzin (oud), artikel 9**g**, derde lid, derde volz
 
 - b. ingevolge het derde lid artikel 9**e**, eerste lid, onder **a** , niet geldt.
 
-#### Artikel V
+##### Artikel V
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

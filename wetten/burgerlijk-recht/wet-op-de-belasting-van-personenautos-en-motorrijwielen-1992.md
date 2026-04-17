@@ -1,14 +1,40 @@
 ---
-title: "Wet op de belasting van personenauto's en motorrijwielen 1992"
+title: "Wet van 24 december 1992, tot vaststelling van de Wet op de belasting van personenauto's en motorrijwielen 1992"
 identifier: "BWBR0005806"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005806"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005806"
+soort: "wet"
+stam_id: "1106453"
+version_id: "1638302"
+internal_id: "C1638301"
+label_id: "1073164"
+dtd_version: "2.0"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005806/2026-01-01/0"
+intitule_bron: "Stb.1992-709"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-12-24"
+intitule_status: "goed"
+original_publication: "Stb.2001-642"
+original_signed_date: "2001-12-14"
+original_published_date: "2001-12-21"
+original_effect: "structuurwijziging"
+original_dossier: "28014"
+original_url_id: "stb-2001-642"
+entry_into_force_date: "2002-01-01"
+entry_into_force_dossier: "28014"
+jci_1_3: "jci1.3:c:BWBR0005806&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0005806&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet op de belasting van personenauto's en motorrijwielen 1992"
+signed_date: "2001-12-14"
+entry_into_force: "2002-01-01"
 ---
-
-# Wet op de belasting van personenauto's en motorrijwielen 1992
+# Wet van 24 december 1992, tot vaststelling van de Wet op de belasting van personenauto's en motorrijwielen 1992
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Afdeling 1. Belastbaar feit
 
-#### Artikel 1
+##### Artikel 1
 
 1. Onder de naam 'belasting van personenauto’s en motorrijwielen' wordt een belasting geheven met betrekking tot personenauto's, motorrijwielen en bestelauto's.
 
@@ -40,7 +66,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Afdeling 2. Definities
 
-#### Artikel 2
+##### Artikel 2
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -54,7 +80,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. **weg:** weg als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1) in Nederland.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onder personenauto wordt in deze wet en de daarop berustende bepalingen verstaan een motorrijtuig op drie of meer wielen, zulks met uitzondering van:
 
@@ -118,7 +144,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. de hoogte, de plaats, de constructiewijze en de bevestigingswijze van de vaste wand.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder motorrijwiel een motorrijtuig op twee wielen, alsmede een dergelijk motorrijtuig dat is verbonden met een zijspanwagen. Onder motorrijwiel wordt niet verstaan:
 
@@ -132,7 +158,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk II. Belastingplichtigen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ter zake van de inschrijving, wijziging van de inschrijving of herinschrijving wordt de belasting geheven van degene die de inschrijving, wijziging van de inschrijving of herinschrijving aanvraagt.
 
@@ -142,7 +168,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Afdeling 1. Wijze van heffing
 
-#### Artikel 6
+##### Artikel 6
 
 1. De belasting moet op aangifte worden voldaan.
 
@@ -162,17 +188,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Voor de toepassing van dit artikel wordt onder inschrijving mede verstaan de herinschrijving van het motorrijtuig.
 
-#### Artikel 7
+##### Artikel 7
 
 Degene die voor een personenauto, een motorrijwiel of een bestelauto een aanvraag doet voor de inschrijving, wijziging van de inschrijving of herinschrijving, is gehouden daarbij voor dat motorrijtuig het bedrag aan belasting ingevolge de [artikelen 9 tot en met 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2026-01-01&g=2026-01-01) op te geven.
 
-#### Artikel 8
+##### Artikel 8
 
 In afwijking van [artikel 6, tweede lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=1&artikel=6&z=2026-01-01&g=2026-01-01), kan de inspecteur, onder bij ministeriële regeling te stellen voorwaarden en beperkingen, een ondernemer die in het kader van zijn bedrijfsuitoefening regelmatig om inschrijving, wijziging van de inschrijving of herinschrijving verzoekt voor personenauto’s, motorrijwielen of bestelauto’s, op aanvraag bij voor bezwaar vatbare beschikking toestaan de belasting per tijdvak te voldoen.
 
 ### Afdeling 2. Tarief
 
-#### Artikel 9
+##### Artikel 9
 
 1. De belasting voor een personenauto wordt bepaald aan de hand van de volgende tabel.
 
@@ -225,13 +251,13 @@ Het bedrag van de belasting op grond van de tabel wordt in geval van een persone
 
 15. Voor de toepassing van dit artikel wordt onder bijzondere personenauto verstaan een personenauto die een voertuig voor speciale doeleinden is zoals omschreven in Bijlage I, deel A, punt 5, van [Verordening (EU) 2018/858](32018R0858) van het Europees Parlement en de Raad van 30 mei 2018 betreffende de goedkeuring van en het markttoezicht op motorvoertuigen en aanhangwagens daarvan en systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd, tot wijziging van [Verordeningen (EG) nr. 715/2007](32007R0715) en [(EG) nr. 595/2009](32009R0595) en tot intrekking van [Richtlijn 2007/46/EG](32007L0046) (PbEU 2018, L 151), waarbij voor de kampeerauto geldt dat deze voldoet aan de eisen gesteld in [artikel 23a van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a) en de daarop berustende bepalingen.
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. In afwijking van [artikel 9, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2026-01-01&g=2026-01-01), bedraagt de belasting tot 1 januari 2031 voor een bijzondere personenauto als bedoeld in dat onderdeel met een aandrijving uitsluitend op elektriciteit of waterstof: het tarief voor een personenauto met een uitstoot van 0 gram per kilometer als bedoeld in artikel 9, eerste lid.
 
 2. In afwijking van [artikel 9, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2026-01-01&g=2026-01-01), bedraagt de belasting tot 1 januari 2031 voor een motorrijwiel met een aandrijving uitsluitend op elektriciteit of waterstof: € 206.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Met betrekking tot gebruikte personenauto's, gebruikte motorrijwielen of gebruikte bestelauto's wordt het bij de personenauto, het motorrijwiel of de bestelauto behorende bedrag aan belasting, bedoeld in [artikel 9, eerste, derde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2026-01-01&g=2026-01-01), berekend met inachtneming van een vermindering.
 
@@ -255,11 +281,11 @@ Het bedrag van de belasting op grond van de tabel wordt in geval van een persone
 
 9. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel. Daarbij kan de vermindering, bedoeld in het tweede lid, worden verhoogd voor motorrijtuigen als bedoeld in [artikel 15, eerste lid, onderdelen a, b, en g](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=IV&afdeling=2&artikel=15&z=2026-01-01&g=2026-01-01). Voorts kan daarbij een termijn worden vastgesteld waarbinnen het motorrijtuig in ongewijzigde staat beschikbaar wordt gehouden voor controle met het oog op een juiste vaststelling van de afschrijving, bedoeld in het tweede lid. Voorts kunnen nadere voorwaarden worden gesteld over waar en op welk moment een aangifte met een verzoek als bedoeld het vijfde, zesde of zevende lid wordt gedaan.
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
@@ -267,13 +293,13 @@ Vervallen
 
 ### Afdeling 3. Naheffing
 
-#### Artikel 13
+##### Artikel 13
 
 1. Vrijstelling van belasting wordt in andere gevallen dan waarin vrijstelling van belasting wordt verleend krachtens [artikel 39 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39), verleend voor personenauto's, motorrijwielen en bestelauto's waarvoor een kenteken als bedoeld in [artikel 37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37), is of wordt opgegeven en die niet zijn ingeschreven, dan wel een kenteken als bedoeld in [artikel 38, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=38) is of wordt opgegeven.
 
 2. Vrijstelling van belasting wordt verleend voor personenauto's, motorrijwielen en bestelauto's die bij of krachtens [artikel 4, eerste lid, onderdeel a, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4) niet behoeven te worden ingeschreven in het kentekenregister.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Bij algemene maatregel van bestuur kan, onder daarbij te stellen voorwaarden en beperkingen, vrijstelling van belasting worden verleend voor uit een ander land afkomstige personenauto's, motorrijwielen en bestelauto's die voor specifieke doeleinden, dan wel onder specifieke omstandigheden naar Nederland zijn gebracht.
 
@@ -283,7 +309,7 @@ Vervallen
 
 ### Afdeling 1. Vrijstellingen
 
-#### Artikel 15
+##### Artikel 15
 
 1. Teruggaaf van belasting wordt, onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen, op aanvraag verleend voor personenauto's, motorrijwielen en bestelauto's die:
 
@@ -311,7 +337,7 @@ Vervallen
 
 5. Bij wijziging van de tenaamstelling van een personenauto, motorrijwiel of bestelauto blijven, op daartoe gedaan gezamenlijk verzoek van degene op wiens naam het motorrijtuig wordt gesteld en degene op wiens naam het motorrijtuig daarvoor was gesteld, het eerste en vierde lid buiten toepassing indien overigens voldaan blijft worden aan de voorwaarden en beperkingen waaronder de teruggaaf is verleend. Bij inwilliging van het verzoek treedt degene op wiens naam het motorrijtuig wordt gesteld vanaf het moment van de wijziging van de tenaamstelling voor de toepassing van dit artikel in de plaats van degene op wiens naam het motorrijtuig daarvoor was gesteld. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Teruggaaf van belasting wordt op aanvraag verleend voor motorrijtuigen waarmee geen gebruik is en wordt gemaakt van de weg.
 
@@ -321,7 +347,7 @@ Vervallen
 
 ### Afdeling 3. Naheffing
 
-#### Artikel 16a
+##### Artikel 16a
 
 1. Indien de tarieven, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2026-01-01&g=2026-01-01), worden gewijzigd, is, ter zake van de inschrijving of herinschrijving van een nieuw motorrijtuig die plaatsvond voorafgaand aan die tariefswijziging, het nieuwe tarief van toepassing wanneer de eerste tenaamstelling van dat motorrijtuig twee maanden of later plaatsvindt na het tijdstip waarop die wijziging in werking treedt.
 
@@ -337,7 +363,7 @@ Vervallen
 
 ### Afdeling 1. Vrijstellingen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Degene, aan wie op de voet van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=1&artikel=8&z=2026-01-01&g=2026-01-01) is toegestaan de belasting per tijdvak te voldoen, stelt zekerheid voor de belasting die hij verschuldigd is of kan worden.
 
@@ -357,23 +383,23 @@ Vervallen
 
 ### Afdeling 2. Teruggaaf
 
-#### Artikel 17a
+##### Artikel 17a
 
 Vervallen
 
 ### Afdeling 2. Teruggaaf
 
-#### Artikel 18
+##### Artikel 18
 
 Op eerste vordering van ambtenaren van de rijksbelastingdienst of van opsporingsambtenaren als bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) is de bestuurder van een motorrijtuig verplicht dat te doen stilstaan.
 
-#### Artikel 19
+##### Artikel 19
 
 De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=V&afdeling=2&artikel=18&z=2026-01-01&g=2026-01-01) bedoelde ambtenaren zijn bevoegd een motorrijtuig te onderwerpen aan een onderzoek en het daartoe te brengen of te doen brengen naar een nabij gelegen plaats. De bestuurder van het motorrijtuig en bij diens afwezigheid degene die het motorrijtuig houdt, is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het motorrijtuig te vervoeren.
 
 ### Afdeling 1. Zekerheid
 
-#### Artikel 20
+##### Artikel 20
 
 1. Bij algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van de wet nadere regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.
 
@@ -381,83 +407,83 @@ De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=V&a
 
 ### Hoofdstuk Va. Overgangsbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 De [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=IV&afdeling=2&artikel=16&z=2026-01-01&g=2026-01-01) en [16aa](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=IV&afdeling=2&artikel=16aa&z=2026-01-01&g=2026-01-01), zoals die artikelen luidden op 31 december 2019, en de daarop berustende bepalingen blijven tot en met 31 december 2022 van toepassing op situaties waarbij aanspraken op teruggaaf van belasting uiterlijk op 31 december 2019 zijn ontstaan.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=II&artikel=5&z=2026-01-01&g=2026-01-01), en [6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=1&artikel=6&z=2026-01-01&g=2026-01-01), en de daarop berustende bepalingen zoals die luidden op 31 december 2024 blijven van toepassing ter zake van de inschrijving van een bestelauto die uiterlijk op 31 december 2024 heeft plaatsgevonden.
 
 2. De [artikelen 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=10&z=2026-01-01&g=2026-01-01), [13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=IV&afdeling=1&artikel=13a&z=2026-01-01&g=2026-01-01) en [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=IV&afdeling=1&artikel=13b&z=2026-01-01&g=2026-01-01) en de daarop berustende bepalingen zoals die luidden op 31 december 2024 blijven van toepassing op een bestelauto waarvan de datum eerste toelating uiterlijk op 31 december 2024 is gelegen.
 
-#### Artikel 23
+##### Artikel 23
 
 [Artikel 15, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=IV&afdeling=2&artikel=15&z=2026-01-01&g=2026-01-01), zoals dat luidde op 31 december 2025, blijft van toepassing op een motorrijtuig waarvan de datum eerste toelating uiterlijk op 31 december 2025 is gelegen.
 
-#### Artikel 24
+##### Artikel 24
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 25
+##### Artikel 25
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 26
+##### Artikel 26
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 27
+##### Artikel 27
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 28
+##### Artikel 28
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 29
+##### Artikel 29
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 30
+##### Artikel 30
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 1. Ondernemers die op 31 december 1992 in het bezit zijn van een aanwijzing op grond van [artikel 23 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=23), juncto [artikel 18**a** van de Uitvoeringsbeschikking omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&artikel=18a) (**Stcrt.** 1968, 169), dan wel zijn toegelaten tot de Algemene regeling versnelde afgifte kentekenbewijzen delen I, worden geacht op 1 januari 1993 in het bezit te zijn van een vergunning als bedoeld in artikel 8 van de Wet op de belasting van personenauto’s en motorrijwielen 1992.
 
 2. De in het eerste lid bedoelde vergunningen zijn geldig tot aan het moment dat de inspecteur deze bij beschikking definitief vaststelt, wijzigt of intrekt, doch uiterlijk tot en met 31 december 1993.
 
-#### Artikel 33
+##### Artikel 33
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 34
+##### Artikel 34
 
 Bij ministeriële regeling kunnen nadere, zo nodig van de bepalingen van deze wet afwijkende regels worden gesteld die tot 1 juli 1993 de overgang van de krachtens de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) geheven bijzondere verbruiksbelastingen van personenauto’s en motorrijwielen naar de krachtens deze wet geheven belasting vergemakkelijken.
 
-#### Artikel 35
+##### Artikel 35
 
 Waar in deze wet de Wet op de belasting van personenauto’s en motorrijwielen 1992 is aangehaald met vermelding van het **Staatsblad** waarin die wet is geplaatst, wordt bij plaatsing van deze wet in het **Staatsblad** na '**Stb.**' ingevoegd het nummer van het **Staatsblad** waarin de Wet op de belasting van personenauto’s en motorrijwielen 1992 is geplaatst.
 
 ### Hoofdstuk Va. Overgangsbepalingen
 
-#### Artikel 35a
+##### Artikel 35a
 
 Vervallen
 
 ### Hoofdstuk Va. Overgangsbepalingen
 
-#### Artikel 36
+##### Artikel 36
 
 Deze wet treedt in werking met ingang van 1 januari 1993.
 
-#### Artikel 37
+##### Artikel 37
 
 Deze wet kan worden aangehaald als Wet op de belasting van personenauto’s en motorrijwielen 1992.
 
@@ -465,7 +491,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Afdeling 3. Naheffing
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. Ingeval van constatering van het gebruik van de weg met een personenauto, een motorrijwiel of een bestelauto waarvoor de belasting die is verschuldigd ter zake van een feit als bedoeld in [artikel 1, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=I&afdeling=1&artikel=1&z=2026-01-01&g=2026-01-01), niet is betaald, kan de belasting worden nageheven van degene op wiens naam het motorrijtuig is gesteld op het moment van constatering. De aanvang van het gebruik van de weg wordt gesteld op het tijdstip van de hiervoor bedoelde tenaamstelling.
 
@@ -479,7 +505,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 6. Naheffing van de belasting vindt plaats van degene die ten onrechte een teruggaafverklaring als bedoeld in [artikel 15a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=IV&afdeling=2&artikel=15a&z=2026-01-01&g=2026-01-01), aan de inschrijver heeft verstrekt.
 
-#### Artikel 12b
+##### Artikel 12b
 
 Ingeval van constatering van het gebruik van de weg met een personenauto, een motorrijwiel of een bestelauto waarvoor de belasting die is verschuldigd ter zake van het in [artikel 1, vijfde, zesde of achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=I&afdeling=1&artikel=1&z=2026-01-01&g=2026-01-01) genoemde feit niet is betaald, kan de belasting worden nageheven van degene die het motorrijtuig feitelijk ter beschikking heeft. Het tijdstip van aanvang van het gebruik van de weg wordt daarbij gesteld op het tijdstip van constatering met dien verstande dat het tijdstip ter zake van het in artikel 1, zesde lid, genoemde feit wordt vastgesteld met overeenkomstige toepassing van [artikel 13, tweede lid, van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=13).
 
@@ -501,7 +527,7 @@ Ingeval van constatering van het gebruik van de weg met een personenauto, een mo
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9b
+##### Artikel 9b
 
 Vervallen
 
@@ -511,7 +537,7 @@ Vervallen
 
 ### Afdeling 2. Teruggaaf
 
-#### Artikel 15a
+##### Artikel 15a
 
 1. Teruggaaf van belasting wordt, onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen, op aanvraag verleend voor bestelauto's die zijn ingericht om te worden gebruikt voor het vervoer van een gehandicapte persoon in de cabine en voor het gelijktijdige vervoer van een niet-opvouwbare rolstoel ten behoeve van die persoon.
 
@@ -539,13 +565,13 @@ Vervallen
 
 13. Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van dit artikel.
 
-#### Artikel 15b
+##### Artikel 15b
 
 1. Wanneer degene die gehouden is voor een bestelauto de belasting op aangifte te voldoen voor die bestelauto in aanmerking komt voor een teruggaaf van belasting op grond van [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=IV&afdeling=2&artikel=15a&z=2026-01-01&g=2026-01-01), wordt de teruggaaf niet verleend dan nadat de belasting op aangifte is voldaan, met dien verstande dat de belasting die op aangifte moet worden voldaan, kan worden verrekend met het bedrag van de teruggaaf indien daar in de aangifte om wordt verzocht.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van dit artikel.
 
-#### Artikel 15c
+##### Artikel 15c
 
 Vervallen
 
@@ -565,7 +591,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 16aa
+##### Artikel 16aa
 
 1. In afwijking van [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=IV&afdeling=2&artikel=15&z=2026-01-01&g=2026-01-01), en [artikel 15a, achtste en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=IV&afdeling=2&artikel=15a&z=2026-01-01&g=2026-01-01), is het teruggegeven bedrag niet als belasting verschuldigd indien:
 
@@ -603,7 +629,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9c
+##### Artikel 9c
 
 In afwijking van [artikel 9, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2026-01-01&g=2026-01-01), bedraagt de belasting tot 1 januari 2025 nihil voor een motorrijtuig met een CO2-uitstoot van 0 gram per kilometer.
 
@@ -629,17 +655,17 @@ In afwijking van [artikel 9, eerste en derde lid](https://wetten.overheid.nl/jci
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 13a
+##### Artikel 13a
 
 Vervallen
 
-#### Artikel 13b
+##### Artikel 13b
 
 Vervallen
 
 ### Afdeling 1. Vrijstellingen
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. Teruggaaf van belasting wordt, onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen, op aanvraag verleend voor personenauto’s, motorrijwielen en bestelauto’s indien de tenaamstelling van het motorrijtuig in het kentekenregister komt te vervallen omdat het motorrijtuig buiten Nederland wordt gebracht, het motorrijtuig overeenkomstig Richtlijn 1999/37/EG van de Raad van 29 april 1999 inzake de kentekenbewijzen van motorvoertuigen (PbEG 1999, L 138) wordt ingeschreven in een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en als bewijs van die inschrijving door de bevoegde autoriteit een kentekenbewijs wordt afgegeven, met uitzondering van een kentekenbewijs dat is afgegeven op basis van een tijdelijke inschrijving van het motorrijtuig als bedoeld in artikel 1 van die richtlijn. De teruggaaf wordt verleend aan degene op wiens naam het motorrijtuig was gesteld direct voorafgaand aan het vervallen van de tenaamstelling in het kentekenregister.
 
@@ -665,7 +691,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9ba
+##### Artikel 9ba
 
 Vervallen
 
@@ -685,13 +711,13 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. In afwijking van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=10&z=2026-01-01&g=2026-01-01), wordt de vermindering, bedoeld in artikel 10, eerste lid, vastgesteld overeenkomstig bij ministeriële regeling vast te stellen regels, indien voor het gebruikte motorrijtuig een teruggaaf als bedoeld in [artikel 14a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=IV&afdeling=2&artikel=14a&z=2026-01-01&g=2026-01-01), of [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=IV&afdeling=2&artikel=16&z=2026-01-01&g=2026-01-01) is of kan worden aangevraagd met het oogmerk dat voor het motorrijtuig een herinschrijving plaatsvindt dan wel het motorrijtuig feitelijk ter beschikking komt te staan van een in Nederland wonende natuurlijke persoon of gevestigd lichaam, als bedoeld in [artikel 1, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=I&afdeling=1&artikel=1&z=2026-01-01&g=2026-01-01).
 
 2. Het oogmerk, bedoeld in het eerste lid, wordt geacht aanwezig te zijn geweest indien de belasting ingevolge [artikel 1, zevende of achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=I&afdeling=1&artikel=1&z=2026-01-01&g=2026-01-01), wordt verschuldigd binnen zes maanden na het tijdstip waarop de tenaamstelling is beëindigd dan wel het tijdstip waarop het motorrijtuig niet langer feitelijk ter beschikking staat, tenzij degene van wie de belasting wordt geheven aannemelijk maakt dat dit oogmerk op dat tijdstip ontbrak.
 
-#### Artikel 10b
+##### Artikel 10b
 
 1. Indien het bedrag van de belasting op enig tijdstip na twee maanden vóór de eerste ingebruikneming van een gebruikt motorrijtuig, ingevolge de wettelijke bepalingen met betrekking tot de maatstaf van heffing, de wijze waarop die maatstaf wordt gemeten en het tarief zoals die op dat tijdstip golden, lager is dan het bedrag van de belasting ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2026-01-01&g=2026-01-01) kan, in afwijking van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=10&z=2026-01-01&g=2026-01-01), dat lagere bedrag aan belasting worden toegepast.
 
@@ -709,7 +735,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 16b
+##### Artikel 16b
 
 1. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing op het eerste bedrag, genoemd in [artikel 9, eerste lid, in de derde kolom van de tabel](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9&z=2026-01-01&g=2026-01-01), op de bedragen, genoemd in artikel 9, eerste lid, in de vierde kolom van de tabel en op de bedragen, genoemd in artikel 9, eerste lid, laatste zin, artikel 9, derde lid, onderdeel c, en [artikel 9a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=III&afdeling=2&artikel=9a&z=2026-01-01&g=2026-01-01).
 
@@ -727,7 +753,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10c
+##### Artikel 10c
 
 1. Ingeval voor een motorrijtuig waarvoor de belasting is verschuldigd de belasting al eerder is betaald, wordt, onder bij ministeriële regeling te stellen voorwaarden en beperkingen, de verschuldigde belasting verminderd met een bedrag ter zake van de eerder betaalde belasting.
 
@@ -735,7 +761,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
-#### Artikel 14b
+##### Artikel 14b
 
 1. Voor een motorrijtuig dat is ingeschreven in een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, en dat voor een periode van ten hoogste vier jaren ter beschikking wordt gesteld aan een in Nederland wonende natuurlijke persoon of gevestigd lichaam door een in die andere staat wonende natuurlijke persoon of gevestigd lichaam, wordt, onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen, op verzoek de ingevolge [artikel 1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=I&afdeling=1&artikel=1&z=2026-01-01&g=2026-01-01), te betalen belasting op voorhand verrekend met de teruggaaf die op de voet van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&hoofdstuk=IV&afdeling=2&artikel=14a&z=2026-01-01&g=2026-01-01) kan worden verleend als het motorrijtuig na afloop van de overeengekomen periode van terbeschikkingstelling weer buiten Nederland wordt gebracht.
 
@@ -757,7 +783,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 19a
+##### Artikel 19a
 
 1. Het bedrag dat strekt tot vergoeding van de kosten, bedoeld in [artikel 7:15, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:15), onder toepassing van de nadere regels gesteld krachtens het vierde lid van dat artikel, wordt, voor zover die kosten betrekking hebben op door een derde beroepsmatig verleende rechtsbijstand in het kader van het bezwaar tegen een besluit genomen op grond van het gestelde bij of krachtens deze wet of tegen een daarmee verband houdend besluit, vermenigvuldigd met 0,125. De eerste zin vindt geen toepassing in geval van bijzondere omstandigheden in de zin van de nadere regels gesteld krachtens artikel 7:15, vierde lid, van de Algemene wet bestuursrecht.
 
@@ -781,7 +807,7 @@ De eerste zin vindt geen toepassing in geval van bijzondere omstandigheden in de
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9a
+##### Artikel 9a
 
 Vervallen
 

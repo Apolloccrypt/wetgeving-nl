@@ -1,30 +1,55 @@
 ---
 title: "Beleidsregels Protocol Zeer moeilijk plaatsbaar 2011"
 identifier: "BWBR0029512"
-categorie: "Overig"
-publicatiedatum: 2011-02-03
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029512"
+country: "nl"
+rank: "zbo"
+publication_date: "2011-02-03"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029512"
+soort: "zbo"
+stam_id: "11220043"
+version_id: "18370562"
+internal_id: "C25588211"
+label_id: "11194344"
+dtd_version: "2.0"
+original_entry_into_force: "2011-02-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029512/2011-02-03/0"
+intitule_bron: "Stcrt.2011-1523"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-01-18"
+intitule_published: "2011-02-01"
+intitule_in_force: "2011-02-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-1523"
+original_signed_date: "2011-01-18"
+original_published_date: "2011-02-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-1523"
+entry_into_force_date: "2011-02-03"
+jci_1_3: "jci1.3:c:BWBR0029512&z=2011-02-03&g=2011-02-03"
+jci_1_0: "1.0:c:BWBR0029512&g=2011-02-03"
+citeertitel_status: "officieel"
+signed_date: "2011-01-18"
+entry_into_force: "2011-02-03"
 ---
-
 # Beleidsregels Protocol Zeer moeilijk plaatsbaar 2011
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Uitvoeringsinstituut werknemersverzekeringen hanteert bij het beoordelen van cliënten op het zeer moeilijk plaatsbaar zijn het protocol als weergegeven in de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Het [Besluit Beleidsregels Protocol Zeer moeilijk plaatsbaar](https://wetten.overheid.nl/jci1.3:c:BWBR0018198) wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2011.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Beleidsregels Protocol Zeer moeilijk plaatsbaar 2011.
 

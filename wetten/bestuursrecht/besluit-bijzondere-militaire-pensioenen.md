@@ -1,13 +1,39 @@
 ---
-title: "Besluit bijzondere militaire pensioenen"
+title: "Besluit van 6 februari 2001, houdende vaststelling van de regels rond het recht op een bijzonder militair invaliditeitspensioen vanaf het bereiken van de leeftijd van 65 jaar en op bijzonder militair nabestaandenpensioen (Besluit bijzondere militaire pensioenen)"
 identifier: "BWBR0012222"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-11-24
-laatste_update: 2018-11-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012222"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-11-24"
+last_updated: "2018-11-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012222"
+soort: "AMvB"
+stam_id: "1565623"
+version_id: "2320832"
+internal_id: "C2320831"
+label_id: "1521324"
+dtd_version: "2.0"
+original_entry_into_force: "2001-03-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012222/2018-11-24/0"
+intitule_bron: "Stb.2001-139"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-02-06"
+intitule_published: "2001-03-29"
+intitule_in_force: "2001-03-29"
+intitule_status: "goed"
+original_publication: "Stb.2001-139"
+original_signed_date: "2001-02-06"
+original_published_date: "2001-03-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2001-139"
+entry_into_force_date: "2001-03-30"
+jci_1_3: "jci1.3:c:BWBR0012222&z=2018-11-24&g=2018-11-24"
+jci_1_0: "1.0:c:BWBR0012222&g=2018-11-24"
+citeertitel_status: "officieel"
+short_title: "Besluit bijzondere militaire pensioenen"
+signed_date: "2001-02-06"
+entry_into_force: "2001-03-30"
 ---
-
 # Besluit van 6 februari 2001, houdende vaststelling van de regels rond het recht op een bijzonder militair invaliditeitspensioen vanaf het bereiken van de leeftijd van 65 jaar en op bijzonder militair nabestaandenpensioen (Besluit bijzondere militaire pensioenen)
 
 Op de voordracht van de Staatssecretaris van Defensie van 19 februari 1999, nr. P/99000777;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2. Aanspraken op eigen pensioen
 
-#### Artikel 2. Het invaliditeitspensioen
+##### Artikel 2. Het invaliditeitspensioen
 
 1. De militair bij wie een bepaalde mate van invaliditeit met dienstverband is vastgesteld heeft uit hoofde van de dienstverhouding waarin die invaliditeit is ontstaan vanaf de dag waarop hij de pensioengerechtigde leeftijd bereikt recht op een invaliditeitspensioen.
 
@@ -60,7 +86,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. In afwijking van het eerste lid, heeft de militair, bij wie een bepaalde mate van invaliditeit met dienstverband is vastgesteld recht op invaliditeitspensioen vanaf de dag waarop hij de leeftijd van 65 bereikt indien de militair voor 1 januari 2017 is ontslagen of de militair een aanvraag heeft ingediend als bedoeld in [artikel 39a, eerste tot en met vierde lid van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a).
 
-#### Artikel 3. De bijzondere invaliditeitsverhoging
+##### Artikel 3. De bijzondere invaliditeitsverhoging
 
 1. De militair met een recht op invaliditeitspensioen wiens ontslag heeft plaatsgevonden vóór 1 juli 2007 heeft recht op een bijzondere invaliditeitsverhoging van:
 
@@ -124,7 +150,7 @@ bedraagt de in het eerste lid bedoelde bijzondere invaliditeitsverhoging niet mi
 
 5. Indien de invaliditeit met dienstverband bestaat uit meerdere van de in het tweede en derde lid omschreven omstandigheden, bedraagt de in het eerste lid bedoelde bijzondere invaliditeitsverhoging 40 procent van de daar bedoelde berekeningsgrondslag.
 
-#### Artikel 4. Garantiepensioen
+##### Artikel 4. Garantiepensioen
 
 1. Het invaliditeitspensioen voor de ter zake van ziekten of gebreken ontslagen dienstplichtige of reservist die als zodanig een diensttijd van vijf of meer jaren kan aanwijzen die, waren zij als beroepsmilitair doorgebracht of als gewezen beroepsmilitair in verband met arbeidsongeschiktheid opgebouwd, zouden zijn vergolden met een ouderdomspensioen in de zin van het pensioenreglement, bedraagt niet minder dan dat ouderdomspensioen, vastgesteld met gebruikmaking van de berekeningsgrondslag voor dat invaliditeitspensioen en overigens naar de normen en voorwaarden van dat reglement.
 
@@ -136,7 +162,7 @@ bedraagt de in het eerste lid bedoelde bijzondere invaliditeitsverhoging niet mi
 
 3. Bij de berekening van het in het eerste lid bedoelde garantiepensioen wordt van de daar bedoelde tijd het deel dat kan worden vergolden met een ander pensioen buiten beschouwing gelaten.
 
-#### Artikel 5. Uitkering bij overlijden
+##### Artikel 5. Uitkering bij overlijden
 
 1. Zo spoedig mogelijk na het overlijden van de rechthebbende op invaliditeitspensioen wordt aan de partner van wie hij niet duurzaam gescheiden leefde een uitkering toegekend ten bedrage van het pensioen, zoals dat na toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=2&artikel=3&z=2018-11-24&g=2018-11-24) en met voorbijgaan aan [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=2&artikel=2&z=2018-11-24&g=2018-11-24), over een tijdvak van twee maanden op het overlijdensmoment kan worden vastgesteld. De uitkering bij overlijden op het in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=2&artikel=2&z=2018-11-24&g=2018-11-24), bedoelde ouderdomspensioen en de daarop te verlenen toeslagen wordt op het gevonden bedrag in mindering gebracht.
 
@@ -150,7 +176,7 @@ bedraagt de in het eerste lid bedoelde bijzondere invaliditeitsverhoging niet mi
 
 #### Paragraaf 3. De aanspraken op nabestaandenpensioen
 
-#### Artikel 6. Het recht op voortdurend partner- of wezenpensioen
+##### Artikel 6. Het recht op voortdurend partner- of wezenpensioen
 
 1. De nabestaanden van de militair die is overleden tengevolge van verwonding, ziekten of gebreken als bedoeld in artikel 2, derde lid, van het besluit AO/IP, de nabestaanden van een rechthebbende op invaliditeitspensioen krachtens dit besluit of krachtens de artikelen [7](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=7) of [11 van het besluit AO/IV](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=11) of van een militair of gewezen militair die, ware hij niet overleden, recht op een zodanig pensioen zou hebben kunnen doen gelden, hebben te rekenen van de dag volgende op diens overlijden recht op partner- of wezenpensioen.
 
@@ -164,7 +190,7 @@ bedraagt de in het eerste lid bedoelde bijzondere invaliditeitsverhoging niet mi
 
 4. Het recht op pensioen ingevolge dit artikel wordt tot het in [artikel 7, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=7&z=2018-11-24&g=2018-11-24), bedoelde moment opgeschort indien de belanghebbende uit hoofde van dezelfde dienstverhouding ingevolge dat artikel recht heeft op een hoger pensioen.
 
-#### Artikel 7. Het recht op tijdelijk verhoogd partner- of wezenpensioen
+##### Artikel 7. Het recht op tijdelijk verhoogd partner- of wezenpensioen
 
 1. De nabestaanden van de militair die is overleden tengevolge van verwonding, ziekten of gebreken als bedoeld in [artikel 2, eerste lid, van het Besluit AO/IV](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=2), de nabestaanden van een rechthebbende op verhoogd arbeidsongeschiktheidspensioen ingevolge [artikel 3, vijfde lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=3) of van een militair of gewezen militair die, ware hij niet overleden, recht op een zodanig pensioen zou hebben kunnen doen gelden, hebben, indien diens overlijden in overwegende mate zijn oorzaak vindt in de aard van de hem opgedragen werkzaamheden of in de bijzondere omstandigheden waaronder deze moesten worden verricht, te rekenen van de dag volgende op dat overlijden recht op tijdelijk partner- of wezenpensioen.
 
@@ -178,7 +204,7 @@ bedraagt de in het eerste lid bedoelde bijzondere invaliditeitsverhoging niet mi
 
 4. In afwijking van het derde lid, onderdeel b, vervalt het recht op tijdelijk verhoogd partner- of wezenpensioen voor de nabestaanden van de militair met ingang van de dag waarop de militair aan wiens overlijden het recht op pensioen wordt ontleend de leeftijd van 65 jaar zou hebben bereikt indien de militair voor 1 januari 2017 is overleden of de militair een aanvraag heeft ingediend als bedoeld in [artikel 39a, eerste tot en met vierde lid van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a).
 
-#### Artikel 8. Onderzoek naar toepasselijkheid
+##### Artikel 8. Onderzoek naar toepasselijkheid
 
 1. De vraag of er verband bestaat tussen het overlijden en de verwonding, ziekten of gebreken als bedoeld in [artikel 2, derde lid, van het Besluit AO/IV](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=2) en de vraag of het overlijden in overwegende mate zijn oorzaak vindt in de ziekten of gebreken, bedoeld in [artikel 2, eerste lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=2), worden beantwoord met inachtneming van de resultaten van een geneeskundig onderzoek naar het ontstaan, tot uiting komen of verergeren, de aard en de gevolgen van die verwonding, ziekten of gebreken. Onze Minister regelt de voor dat onderzoek geldende procedure.
 
@@ -192,7 +218,7 @@ bedraagt de in het eerste lid bedoelde bijzondere invaliditeitsverhoging niet mi
 
 6. De nabestaanden van de militair, bij wie op het moment van overlijden geen invaliditeit met dienstverband was vastgesteld, kunnen, tenzij een eerder verzoek van de desbetreffende militair om tot een dergelijke vaststelling te komen is afgewezen, alsnog om de vaststelling daarvan verzoeken.
 
-#### Artikel 9. Het bedrag van het partnerpensioen
+##### Artikel 9. Het bedrag van het partnerpensioen
 
 1. Het partnerpensioen en het tijdelijk partnerpensioen bedragen vijf zevende gedeelten van het invaliditeitspensioen, zoals dat ingevolge de[artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=6&z=2018-11-24&g=2018-11-24), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=7&z=2018-11-24&g=2018-11-24) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=8&z=2018-11-24&g=2018-11-24) kan worden vastgesteld.
 
@@ -204,7 +230,7 @@ bedraagt de in het eerste lid bedoelde bijzondere invaliditeitsverhoging niet mi
 
 5. Het partnerpensioen en het tijdelijk partnerpensioen worden uitbetaald voor zolang en voor zover met die pensioenen de som van de krachtens het pensioenreglement aan dezelfde militaire dienstverhouding te ontlenen partner- en bijzondere partnerpensioenen, inclusief de daarop verleende toeslagen, wordt overschreden.
 
-#### Artikel 10. Het bedrag van het wezenpensioen
+##### Artikel 10. Het bedrag van het wezenpensioen
 
 1. Het wezenpensioen en het tijdelijk wezenpensioen bedragen van het in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=9&z=2018-11-24&g=2018-11-24), bedoelde invaliditeitspensioen:
 
@@ -222,13 +248,13 @@ bedraagt de in het eerste lid bedoelde bijzondere invaliditeitsverhoging niet mi
 
 6. Het wezenpensioen en het tijdelijk wezenpensioen worden uitbetaald voor zolang en voor zover met die pensioenen het krachtens het pensioenreglement aan dezelfde militaire dienstverhouding te ontlenen wezenpensioen, inclusief de daarop verleende toeslagen, wordt overschreden.
 
-#### Artikel 11. Garantiepensioen voor nabestaanden
+##### Artikel 11. Garantiepensioen voor nabestaanden
 
 Voor de nabestaanden van de dienstplichtige of reservist bedragen de in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=9&z=2018-11-24&g=2018-11-24) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=10&z=2018-11-24&g=2018-11-24) bedoelde pensioenen niet minder dat het nabestaandenpensioen dat zou kunnen worden vastgesteld indien dat met gebruikmaking van de geldende berekeningsbreuk rechtstreeks werd afgeleid van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=2&artikel=4&z=2018-11-24&g=2018-11-24) bedoelde garantiepensioen.
 
 #### Paragraaf 4. Gemeenschappelijke bepalingen
 
-#### Artikel 12. Indexering
+##### Artikel 12. Indexering
 
 1. De berekeningsgrondslagen worden overeenkomstig hoofdstuk 12 van het pensioenreglement aangepast aan de algemene bezoldigingswijzigingen van het overheidspersoneel. De invaliditeitspensioenen, bijzondere invaliditeitsverhogingen en de van de invaliditeitspensioenen af te leiden nabestaandenpensioenen worden aan de hand van die aangepaste berekeningsgrondslagen nader vastgesteld.
 
@@ -236,7 +262,7 @@ Voor de nabestaanden van de dienstplichtige of reservist bedragen de in de [arti
 
 3. Indien de bedragen aan AOW-pensioen of Anw-uitkering worden gewijzigd als gevolg van een wijziging van het netto-minimumloon, zoals voorzien in [artikel 9 van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9) en de artikelen [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=17), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=25), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=29) en [31 van de Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=31), worden de kortingen die van dat pensioen of die uitkering afhankelijk zijn aan de gewijzigde bedragen aangepast.
 
-#### Artikel 13. Toekenning
+##### Artikel 13. Toekenning
 
 1. De pensioenen, tijdelijke pensioenen, verhogingen en toeslagen worden toegekend op aanvraag van de belanghebbende en worden op een jaarbedrag vastgesteld.
 
@@ -248,7 +274,7 @@ Voor de nabestaanden van de dienstplichtige of reservist bedragen de in de [arti
 
 5. Bij de toepassing van dit artikel wordt uitgegaan van bedragen die overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=4&artikel=12&z=2018-11-24&g=2018-11-24) en de daaraan voorafgaande vergelijkbare regels zijn gebracht op het niveau van het moment van toekenning.
 
-#### Artikel 14. Einde
+##### Artikel 14. Einde
 
 1. De pensioenen en pensioenverhogingen eindigen met het einde van de maand waarin de rechthebbende is overleden.
 
@@ -264,13 +290,13 @@ Voor de nabestaanden van de dienstplichtige of reservist bedragen de in de [arti
 
 5. Het recht op een toeslag vervalt vanaf het moment dat niet meer aan de voorwaarden voor de toekenning daarvan wordt voldaan.
 
-#### Artikel 15. Betaling
+##### Artikel 15. Betaling
 
 De betaling van de pensioenen, tijdelijke pensioenen, verhogingen en toeslagen geschiedt in maandelijkse termijnen.
 
 #### Paragraaf 5. Overgangsbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 1. Dit besluit is niet van toepassing op de gewezen militair en diens nabestaanden voor zolang recht op een vergelijkbaar pensioen kan worden ontleend aan de Algemene militaire pensioenwet of een vroegere militaire pensioenwet, genoemd in artikel A 1, onder j, van die wet, het Nabestaandenreglement militairen of het Besluit bijzondere voorzieningen militair nabestaandenpensioen.
 
@@ -282,7 +308,7 @@ De betaling van de pensioenen, tijdelijke pensioenen, verhogingen en toeslagen g
 
 - 3e. [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=8&z=2018-11-24&g=2018-11-24) van dit besluit toegepast met gebruikmaking van de beslissingen die krachtens vergelijkbare voorschriften uit de in het eerste lid bedoelde wetten en regelingen zijn genomen.
 
-#### Artikel 17
+##### Artikel 17
 
 In afwijking van dit besluit wordt:
 
@@ -308,7 +334,7 @@ In afwijking van dit besluit wordt:
 
 - 11e. bij overlijden van een onder 10e bedoelde pensioengerechtigde zijn pensioen beschouwd als het invaliditeitspensioen, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=9&z=2018-11-24&g=2018-11-24), en [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=10&z=2018-11-24&g=2018-11-24), waarbij voor de vaststelling van de korting, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=9&z=2018-11-24&g=2018-11-24), en [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=10&z=2018-11-24&g=2018-11-24), wordt gehandeld overeenkomstig het onder 2e, 3e en 4e gestelde.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Op de op de dag voor de inwerkingtreding van dit besluit ten laste van Onze Minister komende wettelijke nabestaandenpensioenen die niet direct zijn afgeleid van een pensioen- of berekeningsgrondslag, van een naar invaliditeit met dienstverband of naar diensttijd berekend pensioen, dan wel van een pensioen, als bedoeld in [artikel 17, onder 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=5&artikel=17&z=2018-11-24&g=2018-11-24), blijven voor de verdere looptijd daarvan de bepalingen van toepassing die dat pensioen op die datum beheersten.
 
@@ -316,31 +342,31 @@ In afwijking van dit besluit wordt:
 
 3. Een weduwenpensioen, toegekend krachtens een vroegere militaire pensioenwet, zoals genoemd in artikel A 1, onder j, van de Algemene militaire pensioenwet, zoals die wet voor intrekking luidde, waarvan het recht op uitbetaling is vervallen in verband met een volgend huwelijk en dat bij toepassing van de voormalige artikelen Y 14a van de Algemene militaire pensioenwet of 22, zesde lid van het Besluit bijzondere voorzieningen militair nabestaandenpensioen ten laste van Onze Minister zou zijn gekomen en bij de vaststelling waarvan invaliditeit met dienstverband een rol speelt, kan op aanvraag van de weduwe opnieuw worden toegekend naar de bepalingen van dit besluit. [Artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=8&z=2018-11-24&g=2018-11-24), is op dat pensioen van toepassing.
 
-#### Artikel 19
+##### Artikel 19
 
 In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=2&artikel=2&z=2018-11-24&g=2018-11-24), wordt het invaliditeitspensioen dat wordt ontleend aan een periode van werkelijke dienst die voor 1 januari 1966 met een ontslag is beëindigd berekend naar de mate van invaliditeit met dienstverband die voor de betrokkene laatstelijk is vastgesteld. Op aanvraag van de belanghebbende vindt herkeuring plaats naar de in het [Besluit AO/IV](https://wetten.overheid.nl/jci1.3:c:BWBR0012223) daaromtrent gegeven regels. De uitslag van die herkeuring leidt niet tot een lager invaliditeitspercentage dan het percentage waarnaar het pensioen op het moment van indienen van het verzoek wordt berekend. De invaliditeitspercentages worden daarbij naar boven afgerond op veelvouden van 10. Het invaliditeitspensioen en de bijzondere invaliditeitsverhoging worden met ingang van de dag waarop de aanvraag om herkeuring is ontvangen zo nodig aangepast aan de nieuwe situatie.
 
-#### Artikel 20
+##### Artikel 20
 
 Indien een lopend invaliditeits- of nabestaandenpensioen krachtens een vroegere regeling is omgezet naar een vergelijkbaar pensioen ingevolge dit besluit, en dat pensioen, verhoogd met het pensioen waarop in verband met dezelfde dienstverhouding ingevolge het pensioenreglement recht bestaat, een lager bruto totaalbedrag oplevert dan dat waarop voor die omzetting recht bestond, heeft de belanghebbende recht op een toeslag ten bedrage van het verschil. De betreffende toeslag behoort voor de toepassing van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=2&artikel=5&z=2018-11-24&g=2018-11-24) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=4&artikel=12&z=2018-11-24&g=2018-11-24) tot het pensioen.
 
 #### Paragraaf 6. Andere voorzieningen in verband met de invaliditeit met dienstverband
 
-#### Artikel 21. Voorzieningen en verstrekkingen
+##### Artikel 21. Voorzieningen en verstrekkingen
 
 In aanvulling op de bij of krachtens de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) gestelde regels, kan Onze Minister ten behoeve van de krachtens dit besluit gepensioneerde militair, die lijdt aan een ziekte of gebrek waarvoor in de zin van [artikel 2, derde lid, van het Besluit AO/IV](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=2), verband met de uitoefening van de militaire dienst is aangenomen, nadere en zonodig afwijkende regels stellen op grond waarvan genoemde gepensioneerde militairen in aanmerking kunnen worden gebracht voor, naar het oordeel van Onze Minister, noodzakelijke voorzieningen ter verbetering van de levensomstandigheden en geneeskundige verstrekkingen. De door Onze Minister krachtens dit artikel te stellen regels mogen niet afwijken ten nadele van de belanghebbenden.
 
 #### Paragraaf 7. Slotbepalingen
 
-#### Artikel 22. Bijzondere gevallen
+##### Artikel 22. Bijzondere gevallen
 
 Onze Minister is bevoegd om in bijzondere gevallen, waarin de toepassing van dit besluit tot een naar zijn oordeel onredelijke uitkomst leidt, ten gunste van de belanghebbende een beslissing te nemen die met de strekking van dit besluit overeenkomt.
 
-#### Artikel 23. Inwerkingtreding
+##### Artikel 23. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 24. Citeertitel
+##### Artikel 24. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit bijzondere militaire pensioenen.
 
@@ -469,7 +495,7 @@ N.B.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage in het Staatsblad zal worden geplaatst.
 
-#### Artikel 11a. Volledige schadevergoeding
+##### Artikel 11a. Volledige schadevergoeding
 
 1. De nabestaanden van de militair, die op of na 1 juli 2007 overleden is, die als gevolg van dat overlijden aanspraak hebben op een voortdurend partner- of wezenpensioen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&paragraaf=3&artikel=6&z=2018-11-24&g=2018-11-24), hebben recht op een volledige vergoeding van hun schade indien er verband bestaat tussen het overlijden van de militair en de verwonding, ziekten of gebreken die tot het recht op invaliditeitspensioen zouden hebben geleid.
 
@@ -612,7 +638,7 @@ N.B.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage in het Staatsblad zal worden geplaatst.
 
-#### Artikel 21a. Bijzondere uitkering
+##### Artikel 21a. Bijzondere uitkering
 
 1. De gewezen militair die voor 1 juli 2007 is ontslagen en bij wie als gevolg van inzet tijdens oorlogsomstandigheden of een crisisbeheersingsoperatie op een daartoe voor 1 juni 2012 gedane eerste aanvraag, invaliditeit met dienstverband is vastgesteld heeft aanspraak op een eenmalige bijzondere uitkering.
 

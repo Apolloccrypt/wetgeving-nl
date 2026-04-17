@@ -1,13 +1,38 @@
 ---
-title: "Multilaterale Overeenkomst betreffende "en route”-heffingen"
+title: "Multilaterale Overeenkomst betreffende \"en route”-heffingen"
 identifier: "BWBV0002439"
-categorie: "Internationaal recht"
-publicatiedatum: 1986-01-01
-laatste_update: 1986-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002439"
+country: "nl"
+rank: "verdrag"
+publication_date: "1986-01-01"
+last_updated: "1986-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002439"
+soort: "verdrag"
+stam_id: "10002881743"
+version_id: "10002882112"
+internal_id: "C10009798761"
+label_id: "10002869374"
+dtd_version: "2.0"
+original_entry_into_force: "1986-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002439/1986-01-01/0"
+intitule_bron: "Trb.1981-181"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-12-05"
+intitule_published: "1981-08-17"
+intitule_in_force: "1986-01-15"
+intitule_status: "goed"
+original_publication: "Trb.1981-181"
+original_signed_date: "1985-12-05"
+original_published_date: "1981-08-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1981-181"
+entry_into_force_date: "1986-01-01"
+jci_1_3: "jci1.3:c:BWBV0002439&z=1986-01-01&g=1986-01-01"
+jci_1_0: "1.0:c:BWBV0002439&g=1986-01-01"
+citeertitel_status: "officieel"
+signed_date: "1985-12-05"
+entry_into_force: "1986-01-01"
 ---
-
 # Multilaterale Overeenkomst betreffende "en route”-heffingen
 
 De Bondsrepubliek Duitsland,
@@ -54,7 +79,7 @@ Erkennende dat een dergelijk systeem een nieuwe rechtsgrond vereist;
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Overeenkomstsluitende Staten komen overeen een gemeenschappelijk beleid vast te stellen op het gebied van de „en route”-heffingen voor vluchten in het luchtruim van de onder hun bevoegdheid ressorterende vluchtinlichtingengebieden (hierna te noemen „en route”-heffingen).
 
@@ -64,11 +89,11 @@ Zijn overeengekomen als volgt:
 
 4. De in bovenstaand lid 1 bedoelde vluchtinlichtingengebieden zijn vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&bijlage=1&z=1986-01-01&g=1986-01-01) bij deze Overeenkomst. Elke wijziging die een Overeenkomstsluitende Staat wenst aan te brengen in de hem betreffende opgave van vluchtinfichtingengebieden in Bijlage 1 is onderworpen aan de eenparige goedkeuring van de uitgebreide Commissie wanneer deze wijziging leidt tot wijziging van de totale omvang van het door deze Overeenkomst bestreken luchtruim. Elke wijziging die niet tot een dergelijk gevolg leidt zal door de betrokken Overeenkomstsluitende Staat aan EUROCONTROL worden medegedeeld.
 
-#### Artikel 2
+##### Artikel 2
 
 In de uitgebreide Commissie beschikt elke Overeenkomstsluitende Staat over één stem, behoudens het in [artikel 6, lid 1 (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=6&z=1986-01-01&g=1986-01-01)bepaalde.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De uitgebreide Commissie heeft tot taak het gemeenschappelijke systeem van „en route”-heffingen op te stellen op zodanige wijze dat:
 
@@ -100,11 +125,11 @@ In de uitgebreide Commissie beschikt elke Overeenkomstsluitende Staat over één
 
 3. De uitgebreide Commissie stelt met algemene stemmen van alle Overeenkomstsluitende Staten haar huishoudelijk reglement vast.
 
-#### Artikel 4
+##### Artikel 4
 
 In het uitgebreide Comité beschikt elke Overeenkomstsluitende Staat over één stem, behoudens het bepaalde in artikel 6, lid 2 (b).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het uitgebreide Comité heeft tot taak:
 
@@ -118,7 +143,7 @@ In het uitgebreide Comité beschikt elke Overeenkomstsluitende Staat over één 
 
 2. Het uitgebreide Comité stelt zijn huishoudelijk reglement vast, met inachtneming van het bepaalde in [artikel 6, lid 2 (a)](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=6&z=1986-01-01&g=1986-01-01).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De besluiten van de uitgebreide Commissie komen als volgt tot stand:
 
@@ -132,27 +157,27 @@ In het uitgebreide Comité beschikt elke Overeenkomstsluitende Staat over één 
 
 - (b). In het in [artikel 5, lid 1 (c)](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=5&z=1986-01-01&g=1986-01-01), bedoelde geval komen de besluiten van het uitgebreide Comité echter tot stand onder dezelfde voorwaarden als genoemd in lid 1 (b), van dit artikel.
 
-#### Artikel 7
+##### Artikel 7
 
 EUROCONTROL stelt volgens de geldende reglementen de „en route”-heffingen vast die verschuldigd zijn voor elke vlucht uitgevoerd in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=1&z=1986-01-01&g=1986-01-01) omschreven luchtruim.
 
-#### Artikel 8
+##### Artikel 8
 
 EUROCONTROL int de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=7&z=1986-01-01&g=1986-01-01) vermelde „en route”-heffingen. Hiertoe vormen zij een voor elke vlucht verschuldigde enkelvoudige heffing, die een enkele vordering van EUROCONTROL vormt en op haar zetel betaalbaar is.
 
-#### Artikel 9
+##### Artikel 9
 
 De heffing is verschuldigd door de persoon die het luchtvaartuig exploiteerde op het tijdstip waarop de vlucht werd uitgevoerd.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien de identiteit van de exploitant niet bekend is, wordt de eigenaar van het luchtvaartuig geacht de exploitant te zijn totdat hij aantoont welke andere persoon de exploitant was.
 
-#### Artikel 11
+##### Artikel 11
 
 Indien de debiteur het verschuldigde bedrag niet betaald heeft, kan in rechte nakoming van de verplichting tot betaling worden gevorderd.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De procedure tot in rechte vorderen van het verschuldigde bedrag wordt ofwel door EUROCONTROL, ofwel, op verzoek van EUROCONTROL, door een Overeenkomstsluitende Staat aanhangig gemaakt.
 
@@ -160,7 +185,7 @@ Indien de debiteur het verschuldigde bedrag niet betaald heeft, kan in rechte na
 
 3. Elke Overeenkomstsluitende Staat stelt EUROCONTROL in kennis van de procedures die in de betrokken Staat worden toegepast en deelt haar mede welke rechterlijke of administratiefrechterlijke autoriteiten bevoegd zijn.
 
-#### Artikel 13
+##### Artikel 13
 
 De procedure voor het in rechte vorderen van betaling wordt aanhangig gemaakt in de Overeenkomstsluitende Staat waar:
 
@@ -172,11 +197,11 @@ De procedure voor het in rechte vorderen van betaling wordt aanhangig gemaakt in
 
 - (d). EUROCONTROL haar zetel heeft, bij gebreke van de in bovenstaande alinea's (a) t/m (c) genoemde bevoegdheidsgronden.
 
-#### Artikel 14
+##### Artikel 14
 
 EUROCONTROL is bevoegd een procedure aan te spannen voor de bevoegde rechterlijke of administratiefrechterlijke autoriteiten van niet bij deze Overeenkomst Partij zijnde Staten.
 
-#### Artikel 15
+##### Artikel 15
 
 De volgende in een Overeenkomstsluitende Staat gegeven beslissingen worden erkend en ten uitvoer gelegd in de overige Overeenkomstsluitende Staten:
 
@@ -184,7 +209,7 @@ De volgende in een Overeenkomstsluitende Staat gegeven beslissingen worden erken
 
 - (b). administratiefrechterlijke beschikkingen waartegen beroep voor een rechter kon worden aangetekend, maar die onherroepelijk zijn geworden, hetzij omdat de rechter het beroep heeft afgewezen door een definitieve beslissing, hetzij omdat de verzoeker heeft afgezien van beroep, hetzij door het verstrijken van de beroepstermijn.
 
-#### Artikel 16
+##### Artikel 16
 
 De in artikel 15 bedoelde beslissingen worden in de volgende gevallen noch erkend, noch ten uitvoer gelegd:
 
@@ -200,11 +225,11 @@ De in artikel 15 bedoelde beslissingen worden in de volgende gevallen noch erken
 
 - (f). indien de rechterlijke of administratief rechtelijke autoriteit van de Staat van herkomst, om tot zijn beslissing te komen, zich heeft uitgesproken over een vraag betreffende de staat of de bevoegdheid van natuurlijke personen, het huwelijksgoederenrecht, testamenten en erfenissen en daarbij een regel van internationaal privaatrecht van de aangezochte Staat heeft geschonden, tenzij de beslissing tot hetzelfde resultaat voert als wanneer de regels van internationaal privaatrecht van de aangezochte Staat zouden zijn toegepast.
 
-#### Artikel 17
+##### Artikel 17
 
 De in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=15&z=1986-01-01&g=1986-01-01) bedoelde beslissingen die uitvoerbaar zijn in de Staat van oorsprong worden met toepassing van het in de aangezochte Staat geldende recht ten uitvoer gelegd. Voor zover nodig wordt, op eenvoudig verzoekschrift, de beslissing door een rechterlijke of een administratiefrechtelijke autoriteit voorzien van een verlof tot tenuitvoerlegging.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het verzoekschrift gaat vergezeld van:
 
@@ -218,33 +243,33 @@ De in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=15&z=
 
 2. Een naar behoren gewaarmerkte vertaling van deze documenten wordt overgelegd indien zulks door de rechterlijke of administratiefrechtelijke autoriteit van de aangezochte Staat wordt verlangd. Geen enkele legalisatie of soortgelijke formaliteit is vereist.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het verzoekschrift kan uitsluitend op een van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=16&z=1986-01-01&g=1986-01-01) bedoelde gronden worden afgewezen. In geen geval kan in de aangezochte Staat worden overgegaan tot een onderzoek naar de juistheid van de beschikking.
 
 2. Op de procedure inzake de erkenning of de tenuitvoerlegging van de beslissing is het recht van de aangezochte Staat van toepassing voor zover in deze Overeenkomst niet anders wordt bepaald.
 
-#### Artikel 20
+##### Artikel 20
 
 Het door EUROCONTROL geïnde bedrag wordt aan de Overeenkomstsluitende Staten afgedragen overeenkomstig de besluiten van het uitgebreide Comité.
 
-#### Artikel 21
+##### Artikel 21
 
 Wanneer een Overeenkomstsluitende Staat de vordering heeft geïnd, wordt het in feite geïnde bedrag onverwijld aan EUROCONTROL overgemaakt, die dan handelt volgens de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=20&z=1986-01-01&g=1986-01-01) voorziene procedure. De door deze Staat gemaakte invorderingskosten worden in rekening gebracht aan EUROCONTROL.
 
-#### Artikel 22
+##### Artikel 22
 
 Bij de vaststelling en de inning van „en route”-heffingen werken de bevoegde instanties van de Overeenkomstsluitende Staten samen met EUROCONTROL.
 
-#### Artikel 23
+##### Artikel 23
 
 Indien het uitgebreide Comité eenstemmig besluit, van het in rechte vorderen van een heffing af te zien, kunnen de betrokken Overeenkomstsluitende Staten alle maatregelen nemen die zij passend achten. In een dergelijk geval zijn de bepalingen van deze Overeenkomst betreffende het in rechte vorderen van betaling, de erkenning en de tenuitvoerlegging van de beslissingen niet meer van toepassing.
 
-#### Artikel 24
+##### Artikel 24
 
 In geval van crisis of oorlog kunnen de bepalingen van deze Overeenkomst geen afbreuk doen aan de vrijheid van handelen van de betrokken Overeenkomstsluitende Staten.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Ieder geschil dat tussen de Overeenkomstsluitende Staten of tussen de Overeenkomstsluitende Staten en EUROCONTROL, vertegenwoordigd door de uitgebreide Commissie, mocht ontstaan ten aanzien van de uitlegging of toepassing van deze Overeenkomst of van zijn bijlagen, en dat niet kan worden opgelost door rechtstreekse onderhandelingen of op enige andere wijze geregeld, wordt op verzoek van een van de partijen aan arbitrage onderworpen.
 
@@ -256,13 +281,13 @@ In geval van crisis of oorlog kunnen de bepalingen van deze Overeenkomst geen af
 
 5. De beslissingen van het scheidsgerecht zijn bindend voor de partijen bij het geschil.
 
-#### Artikel 26
+##### Artikel 26
 
 Deze Overeenkomst vervangt de Multilaterale Overeenkomst betreffende de inning van „en route”-heffingen van 8 september 1970.
 
 Deze bepaling doet geen afbreuk aan enige overeenkomst tussen EUROCONTROL en een Staat, geen Lid-Staat zijnde, op het stuk van de inning van „en route ”-heffingen voor de in artikel 1 van deze Overeenkomst genoemde vluchtinlichtingengebieden, die van kracht blijft totdat de betrokken Staat Partij bij deze Overeenkomst is geworden.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Voor de datum van inwerkingtreding staat deze Overeenkomst open voor ondertekening door alle Staten die op de datum van hun ondertekening deelnemen aan het EUROCONTROL-systeem voor de inning van „en route”-heffingen, of die door de Permanente Commissie eenparig tot ondertekening zijn toegelaten.
 
@@ -276,7 +301,7 @@ Deze bepaling doet geen afbreuk aan enige overeenkomst tussen EUROCONTROL en een
 
 6. De Regering van het Koninkrijk België stelt de Regeringen van de overige Staten die deze Overeenkomst hebben ondertekend, in kennis van elke ondertekening, van elke nederlegging van een akte van bekrachtiging en van de datum van inwerkingtreding van deze Overeenkomst.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Elke Staat kan tot deze Overeenkomst toetreden.
 
@@ -286,7 +311,7 @@ Behalve in het geval van Europese Staten die toetreden tot het in [artikel 27, l
 
 3. De toetreding wordt van kracht op de eerste dag van de tweede maand volgende op de nederlegging van de akte van toetreding.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De Staten die Partij zijn bij het gewijzigde Verdrag zijn door deze Overeenkomst gebonden zolang het gewijzigde Verdrag van kracht blijft.
 
@@ -294,7 +319,7 @@ Behalve in het geval van Europese Staten die toetreden tot het in [artikel 27, l
 
 3. De Regering van het Koninkrijk België stelt de Regeringen van de overige Overeenkomstsluitende Staten schriftelijk in kennis van elke verklaring waarmede een bij het gewijzigde Verdrag Partij zijnde Staat mededeelt dat hij het voornemen heeft het Verdrag te beëindigen.
 
-#### Artikel 30
+##### Artikel 30
 
 De Regering van het Koninkrijk België doet deze Overeenkomst bij de Secretaris-Generaal van de Verenigde Naties registreren overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) en bij de Raad van de Internationale Burgerluchtvaartorganisatie overeenkomstig [artikel 83 van het op 7 december 1944 te Chicago ondertekende Verdrag inzake de internationale burgerlijke luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=83).
 

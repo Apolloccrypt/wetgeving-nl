@@ -1,13 +1,39 @@
 ---
-title: "Besluit verlening uitsluitend recht aan Landelijk Referentiecentrum Bevolkingsonderzoeken voor verlenen van diensten ten behoeve van borging en optimalisatie van kwaliteit van bevolkingsonderzoek naar borstkanker in Europees en Caribisch Nederland aan de Staat der Nederlanden"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 24 maart 2022, kenmerk 3341535-1026728-WJZ, houdende de verlening van een uitsluitend recht aan het Landelijk Referentiecentrum Bevolkingsonderzoeken voor het verlenen van diensten ten behoeve van de borging en optimalisatie van de kwaliteit van bevolkingsonderzoek naar borstkanker in Europees en Caribisch Nederland aan de Staat der Nederlanden"
 identifier: "BWBR0046511"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2022-04-05
-laatste_update: 2022-04-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046511"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-04-05"
+last_updated: "2022-04-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046511"
+soort: "ministeriele-regeling"
+stam_id: "16317863"
+version_id: "28523832"
+internal_id: "C40247631"
+label_id: "16243024"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046511/2022-04-05/0"
+intitule_bron: "Stcrt.2022-8875"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-03-24"
+intitule_published: "2022-04-04"
+intitule_in_force: "2022-04-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-8875"
+original_signed_date: "2022-03-24"
+original_published_date: "2022-04-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-8875"
+entry_into_force_date: "2022-04-05"
+jci_1_3: "jci1.3:c:BWBR0046511&z=2022-04-05&g=2022-04-05"
+jci_1_0: "1.0:c:BWBR0046511&g=2022-04-05"
+citeertitel_status: "redactioneel"
+short_title: "Besluit verlening uitsluitend recht aan Landelijk Referentiecentrum Bevolkingsonderzoeken voor verlenen van diensten ten behoeve van borging en optimalisatie van kwaliteit van bevolkingsonderzoek naar borstkanker in Europees en Caribisch Nederland aan de Staat der Nederlanden"
+signed_date: "2022-03-24"
+entry_into_force: "2022-04-05"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 24 maart 2022, kenmerk 3341535-1026728-WJZ, houdende de verlening van een uitsluitend recht aan het Landelijk Referentiecentrum Bevolkingsonderzoeken voor het verlenen van diensten ten behoeve van de borging en optimalisatie van de kwaliteit van bevolkingsonderzoek naar borstkanker in Europees en Caribisch Nederland aan de Staat der Nederlanden
 
 Overwegende:
@@ -26,11 +52,11 @@ gelet op [artikel 2.24, aanhef en onder a, van de Aanbestedingswet 2021](https:/
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Tot verlening van een uitsluitend recht voor onbepaalde duur aan het Landelijk Referentiecentrum Bevolkingsonderzoeken, per 1 april 2022, voor het verlenen van diensten ten behoeve van de borging en optimalisatie van bevolkingsonderzoek naar borstkanker aan de Staat der Nederlanden in Nederland alsmede Caribisch Nederland, in opdracht van het Ministerie van Volksgezondheid, Welzijn en Sport, dan wel de Minister wie het aangaat.
 
-#### Artikel 2
+##### Artikel 2
 
 De diensten bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046511&artikel=1&z=2022-04-05&g=2022-04-05) omvatten de volgende werkzaamheden:
 
@@ -76,7 +102,7 @@ De diensten bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR00465
 
 - ○. Advies en ondersteuning van de uitvoeringsorganisatie bevolkingsonderzoek Caribisch Nederland.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 

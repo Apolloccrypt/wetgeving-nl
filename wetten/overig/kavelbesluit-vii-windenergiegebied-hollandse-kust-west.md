@@ -1,13 +1,38 @@
 ---
 title: "Kavelbesluit VII windenergiegebied Hollandse Kust (west)"
 identifier: "BWBR0046414"
-categorie: "Overig"
-publicatiedatum: 2025-03-22
-laatste_update: 2025-03-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046414"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-03-22"
+last_updated: "2025-03-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046414"
+soort: "ministeriele-regeling"
+stam_id: "16295073"
+version_id: "28472992"
+internal_id: "C40174311"
+label_id: "16220794"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046414/2025-03-22/0"
+intitule_bron: "Stcrt.2022-3428"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-11-26"
+intitule_published: "2022-02-25"
+intitule_in_force: "2022-02-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-3428"
+original_signed_date: "2021-11-26"
+original_published_date: "2022-02-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-3428"
+entry_into_force_date: "2022-04-01"
+jci_1_3: "jci1.3:c:BWBR0046414&z=2025-03-22&g=2025-03-22"
+jci_1_0: "1.0:c:BWBR0046414&g=2025-03-22"
+citeertitel_status: "redactioneel"
+signed_date: "2021-11-26"
+entry_into_force: "2022-04-01"
 ---
-
 # Kavelbesluit VII windenergiegebied Hollandse Kust (west)
 
 ### I. Besluit

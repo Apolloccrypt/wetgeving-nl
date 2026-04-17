@@ -1,20 +1,45 @@
 ---
 title: "Regeling identificatie van visserij producten BES"
 identifier: "BWBR0028770"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028770"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028770"
+soort: "ministeriele-regeling-BES"
+stam_id: "10988193"
+version_id: "17976322"
+internal_id: "C24932211"
+label_id: "10963034"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028770/2010-10-10/0"
+intitule_bron: "Stcrt.2010-15450"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-28"
+intitule_published: "2010-10-07"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-15450"
+original_signed_date: "2010-09-28"
+original_published_date: "2010-10-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-15450"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028770&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028770&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-28"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling identificatie van visserij producten BES
 
 Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +57,7 @@ In deze regeling wordt verstaan onder:
 
 - g. **voorverpakte waar:** de eenheid die reeds voordat de uitvoer plaatsvindt is verpakt met de bestemming om rechtstreeks aan de consument in de zin van onderdeel f te worden afgeleverd.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien een grondstof van een visserijproduct uit verscheidene bestanddelen bestaat, worden deze bestanddelen elk afzonderlijk als ingrediënten van het product beschouwd.
 
@@ -82,7 +107,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 1. De benaming
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor alle verpakte waar wordt een aanduiding gebezigd, in elk geval bestaande uit een benaming waaruit de aard, de samenstelling of de soort van het visserijproduct en zonodig het doel waarvoor het kan worden gebruikt blijkt, dan wel een algemeen daarvoor gebruikelijke benaming.
 
@@ -96,13 +121,13 @@ In deze regeling wordt verstaan onder:
 
 6. Ingeval een ministeriële regeling ter uitvoering van artikel 9, derde lid, van het Besluit visserijproducten 1999BES is tot stand gekomen en een visserijproduct dienovereenkomstig met ioniserende stralen is behandeld, dient de verpakte waar te zijn voorzien van een van de aanduidingen ‘doorstraald’, ‘door straling behandeld’ of ‘met ioniserende straling behandeld’.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien een visserijproduct bestemd is om rechtstreeks naar een ander dan nederlandstalig gebied van de Europese Gemeenschap te worden uitgevoerd, worden van de aanduidingen en benamingen, in dit hoofdstuk voorgeschreven, de equivalenten in het Engels en/of in de officiële taal of talen van het betreffende gebied gebezigd.
 
 #### § 2. Specifieke vermeldingen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voorverpakte waren worden voorzien van de navolgende vermeldingen:
 
@@ -124,7 +149,7 @@ Indien een visserijproduct bestemd is om rechtstreeks naar een ander dan nederla
 
 #### § 3. De lijst van ingrediënten
 
-#### Artikel 6
+##### Artikel 6
 
 1. De vermelding van de lijst van ingrediënten, bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), moet zonder onderbreking geschieden in de volgorde van afnemend gewicht waarin de ingrediënten bij de bereiding zijn gebruikt, voorafgegaan door het woord ‘ingrediënten’. Een gewichtstolerantie van 10% relatief is daarbij toegestaan.
 
@@ -140,11 +165,11 @@ Indien een visserijproduct bestemd is om rechtstreeks naar een ander dan nederla
 
 - b. indien dit water deel uitmaakt van een opgietvloeistof zoals nader omschreven in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=4&artikel=15&z=2010-10-10&g=2010-10-10), welke gewoonlijk niet wordt geconsumeerd.
 
-#### Artikel 7
+##### Artikel 7
 
 Ingrediënten worden vermeld met hun specifieke naam. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=1&artikel=3&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=3&artikel=7&z=2010-10-10&g=2010-10-10) mag een aantal ingrediënten met een groepsnaam worden aangeduid, als volgt:
 
@@ -160,7 +185,7 @@ In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoo
 
 - f. alle soorten wijn, zoals gedefinieerd in EEG-Verordening no. 822/87 van de Raad, als ‘wijn’.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Eveneens in afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=3&artikel=7&z=2010-10-10&g=2010-10-10) worden grondstoffen, behorende tot de in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=1&artikel=2&z=2010-10-10&g=2010-10-10), opgesomde categorieën, indien deze niet voldoen aan de aldaar gestelde voorwaarde en derhalve als ingrediënten dienen te worden beschouwd, aangeduid met de naam van de betreffende categorie, gevolgd door:
 
@@ -172,7 +197,7 @@ In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoo
 
 3. Indien in een visserijproduct verschillende ingrediënten voorkomen welke alle tot een en dezelfde categorie als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=1&artikel=2&z=2010-10-10&g=2010-10-10), behoren, wordt de naam van die categorie in het meervoud vermeld.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien een of meer aroma’s zijn gebruikt, worden deze vermeld:
 
@@ -188,7 +213,7 @@ In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoo
 
 3. Indien de vermelding van het aroma een verwijzing bevat naar de dierlijke of plantaardige oorsprong of aard van de gebruikte stoffen, wordt de term ‘natuurlijk’ of een daarmede in hoofdzaak overeenkomende term niet gebezigd, tenzij de aromatiserende component is geïsoleerd door fysische, enzymatische of microbiologische procedés of door middel van traditionele bereidingswijzen waarbij uitsluitend of vrijwel uitsluitend is uitgegaan van het betreffende visserijproduct of het uitgangsmateriaal voor de bereiding van het betreffende aroma.
 
-#### Artikel 11
+##### Artikel 11
 
 Indien [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=1&artikel=2&z=2010-10-10&g=2010-10-10), van toepassing is, mag in afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=3&artikel=7&z=2010-10-10&g=2010-10-10) de vermelding van de afzonderlijke grondstoffen worden vervangen door de vermelding van de naam van de grondstof waarvan zij een bestanddeel vormen, indien deze naam een bij of krachtens enig wettelijk voorschrift vastgestelde naam is of van algemene bekendheid is, en indien die grondstof tevens:
 
@@ -198,7 +223,7 @@ Indien [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&h
 
 Het bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=1&artikel=2&z=2010-10-10&g=2010-10-10) bepaalde is van overeenkomstige toepassing.
 
-#### Artikel 12
+##### Artikel 12
 
 In afwijking van het in de aanhef en in onderdeel b van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=3&artikel=11&z=2010-10-10&g=2010-10-10) bepaalde vindt de vermelding van de afzonderlijke bestanddelen van een grondstof welke:
 
@@ -208,19 +233,19 @@ In afwijking van het in de aanhef en in onderdeel b van [artikel 11](https://wet
 
 - c. voor ten minste 2% in het visserijproduct voorkomen, plaats onmiddellijk achter de in dat artikel bedoelde vermelding van de naam van de grondstof.
 
-#### Artikel 13
+##### Artikel 13
 
 De in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), bedoelde lijst van ingrediënten behoeft niet te worden vermeld, indien het visserijproduct slechts uit één ingrediënt bestaat, en de aanduiding van het product dit ingrediënt aangeeft.
 
 #### § 4. De netto-hoeveelheid
 
-#### Artikel 14
+##### Artikel 14
 
 1. Onder de netto-hoeveelheid, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), wordt de hoeveelheid van een visserijproduct verstaan die in elk geval in de verpakking aanwezig is. Zij wordt in massa-eenheden uitgedrukt, aangeduid met kilogrammen en/of grammen; de netto-hoeveelheid mag desgewenst daarnaast in de eenheden van een ander stelsel van gewichtsaanduidingen worden uitgedrukt.
 
 2. Indien op grond van wettelijke voorschriften, geldende op de openbare lichamen op Bonaire, Sint Eustatius en Saba of in het land waarvoor de uit te voeren visserijproducten bestemd zijn, een hoeveelheid van een bepaalde soort zoals een nominale of gemiddelde hoeveelheid moet worden vermeld, wordt die hoeveelheid als de netto-hoeveelheid aangemerkt.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Voor een voorverpakte waar die bestaat uit vaste bestanddelen en een opgietvloeistof, moet tevens een vermelding worden gebezigd die het uitlekgewicht van het vaste hoofdbestanddeel aangeeft. Die vermelding moet inhouden het woord ‘uitlekgewicht’, gevolgd door de waarde van dat gewicht, met dien verstande dat het woord ‘uitlekgewicht’ mag worden vervangen door de benaming van het vaste hoofdbestanddeel, indien een aanduiding is gebezigd waarvan de benaming van dat hoofdbestanddeel en die van de opgietvloeistof deel uitmaken.
 
@@ -230,7 +255,7 @@ De in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:B
 
 #### § 5. De datum van minimale houdbaarheid
 
-#### Artikel 16
+##### Artikel 16
 
 1. Voor visserijproducten, niet behorende tot die welke in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=6&artikel=18&z=2010-10-10&g=2010-10-10) worden bedoeld, wordt een datum van minimale houdbaarheid als bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), aangegeven.
 
@@ -238,7 +263,7 @@ De in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:B
 
 3. Indien na een behandeling zoals zouten, roken, drogen of marineren van een visserijproduct de houdbaarheid slechts voor een beperkte periode wordt gegarandeerd, bevat de vermelding tevens een aanwijzing omtrent het bewaren. Deze aanwijzing wordt ook in andere gevallen waarin de datum van de minimale houdbaarheid mede van een bijzondere wijze van bewaren afhankelijk is in de vermelding opgenomen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De datum, bedoeld in het tweede lid van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=5&artikel=16&z=2010-10-10&g=2010-10-10), moet worden aangegeven in de volgorde dag, maand en jaar, met dien verstande dat:
 
@@ -264,13 +289,13 @@ De in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:B
 
 #### § 6. De uiterste consumptiedatum
 
-#### Artikel 18
+##### Artikel 18
 
 1. De uiterste consumptiedatum, bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), wordt aangegeven voor visserijproducten die uit microbiologisch oogpunt zeer bederfelijk zijn en derhalve na korte tijd een onmiddellijk gevaar voor de gezondheid kunnen veroorzaken.
 
 2. De in het eerste lid bedoeld vermelding moet bestaan uit de woorden ‘te gebruiken tot’, gevolgd door de uiterste datum waarop het product moet worden geconsumeerd ten einde het bedoelde gevaar te voorkomen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Indien het eerste lid van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=6&artikel=18&z=2010-10-10&g=2010-10-10) van toepassing is, wordt tevens een aanwijzing als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), onderdeel d, in de vermelding opgenomen.
 
@@ -278,7 +303,7 @@ De in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:B
 
 #### § 7. Overige vermeldingen
 
-#### Artikel 20
+##### Artikel 20
 
 Onverminderd het bepaalde in de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=5&artikel=16&z=2010-10-10&g=2010-10-10), en [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=6&artikel=19&z=2010-10-10&g=2010-10-10), wordt de aanwijzing omtrent de bewaring en het gebruik, bedoeld in [artikel 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), in de vermelding opgenomen, indien het visserijproduct:
 
@@ -286,17 +311,17 @@ Onverminderd het bepaalde in de [artikelen 16, derde lid](https://wetten.overhei
 
 - b. zonder de aanwijzing omtrent het gebruik of het gebruiksklaar maken niet op de juiste wijze gebruikt of gebruiksklaar gemaakt kan worden.
 
-#### Artikel 21
+##### Artikel 21
 
 De vermelding van de gegevens omtrent de producent, de verpakker, de importeur en, indien deze reeds bekend is, de verkoper in het gebied van de Europese Gemeenschap, als bedoeld in [artikel 5, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), bestaat uit de naam of handelsnaam en het adres op de openbare lichamen Bonaire, Sint Eustatius of Saba van de producent en van de verpakker, en de naam of handelsnaam en het adres in een gebied waarop het Verdrag tot oprichting van de Europese Economische Gemeenschap of de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is, van de importeur en, indien deze reeds bekend is, de verkoper, met dien verstande dat voor rechtspersonen de vermelding van het adres mag worden vervangen door de vermelding van de plaats van vestiging.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De vermelding van de plaats van oorsprong of herkomst, bedoeld in [artikel 5, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), bestaat uit een regionale, territoriale of topografische vermelding.
 
 2. Zij dient te worden gebezigd, indien weglating ervan de consument of een andere koper of verkrijger van visserijproduct zou kunnen misleiden met betrekking tot de werkelijke oorsprong of herkomst daarvan.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De vermelding betreffende de productiepartij, bedoeld in het [eerste lid, onderdeel g, en het tweede lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), mag in een herleidbare code worden aangebracht.
 
@@ -304,11 +329,11 @@ De vermelding van de gegevens omtrent de producent, de verpakker, de importeur e
 
 ### Hoofdstuk 3. Het aanbrengen van aanduidingen en vermeldingen
 
-#### Artikel 24
+##### Artikel 24
 
 De in deze regeling bedoelde aanduiding en vermeldingen moeten duidelijk zichtbaar en gemakkelijk leesbaar zijn aangebracht en mogen niet door vegen kunnen worden uitgewist. Zij moeten, behoudens de vermelding bedoeld in [artikel 5, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), voor de verbruiker gemakkelijk te begrijpen zijn.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Voor wat betreft voorverpakte waren moeten de in deze regeling bedoelde aanduiding en vermeldingen voorkomen op de verpakking of op een daaraan gehecht etiket.
 
@@ -340,11 +365,11 @@ De in deze regeling bedoelde aanduiding en vermeldingen moeten duidelijk zichtba
 
 - b. het originenummer van de fabriek.
 
-#### Artikel 26
+##### Artikel 26
 
 Voor wat verpakte waren betreft worden de aanduiding van het product en de vermelding van de productiepartij aangebracht op de verpakking of op de recipiënt. Indien zulks niet mogelijk is, worden zij aangebracht op het handelsdocument dat de betrokken waar vergezelt.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Indien zich in een verpakking een in afzonderlijk verpakte eenheden verdeelde hoeveelheid van een zelfde visserijproduct bevindt, wordt de eerstbedoelde verpakking aangemerkt als de verpakking, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028770&hoofdstuk=3&artikel=25&z=2010-10-10&g=2010-10-10).
 
@@ -354,7 +379,7 @@ Voor wat verpakte waren betreft worden de aanduiding van het product en de verme
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 28
+##### Artikel 28
 
 1. Aanduidingen, vermeldingen of voorstellingen die, doordat zij onjuist of onvolledig zijn of een onjuiste indruk wekken, misleidend zijn met betrekking tot de kenmerken van de betreffende visserijproducten, en in het bijzonder tot de aard, identiteit, hoedanigheid, samenstelling, hoeveelheid, houdbaarheid, oorsprong of herkomst, wijze van vervaardiging of verkrijging, worden vermeden.
 
@@ -364,14 +389,14 @@ Voor wat verpakte waren betreft worden de aanduiding van het product en de verme
 
 - b. die suggereren dat het betreffende product bijzondere kenmerken vertoont, hoewel alle soortgelijke visserijproducten dezelfde kenmerken vertonen.
 
-#### Artikel 29
+##### Artikel 29
 
 Geen bepaling van deze regeling of van enige andere met betrekking tot visserijproducten vastgestelde regeling die voorschriften bevat met betrekking tot de aanduidingen en vermeldingen welke een juiste identificatie van voor de uitvoer naar het gebied van de Europese Gemeenschap bestemde visserijproducten mogelijk maken mag zo worden uitgelegd, dat zij in strijd komt met de richtlijn van de Raad van 18 december 1978, no. 79/112/EEG en de richtlijn van de Commissie van 18 november 1994, no. 94/54/EG, of met een daarvoor geheel of gedeeltelijk in de plaats tredende richtlijn.
 
-#### Artikel 30
+##### Artikel 30
 
 Deze regeling treedt in werking met ingang van de dag na die der uitgifte van het Publicatieblad waarin zij geplaatst is en werkt terug tot en met 9 november 1998.
 
-#### Artikel 31
+##### Artikel 31
 
 Deze regeling kan worden aangehaald als: Regeling identificatie van visserij producten BES.

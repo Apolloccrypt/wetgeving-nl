@@ -1,13 +1,39 @@
 ---
-title: "Regeling bezwaaradviescommissie Eerste Kamer 2024"
+title: "Besluit van het College van Voorzitter en Ondervoorzitters van 22 oktober 2024 nr. 175988U houdende regels inzake een bezwaaradviescommissie (Regeling bezwaaradviescommissie Eerste Kamer 2024)"
 identifier: "BWBR0050663"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-01-11
-laatste_update: 2025-01-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050663"
+country: "nl"
+rank: "reglement"
+publication_date: "2025-01-11"
+last_updated: "2025-01-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050663"
+soort: "reglement"
+stam_id: "17337743"
+version_id: "30553772"
+internal_id: "C43804471"
+label_id: "17241914"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050663/2025-01-11/0"
+intitule_bron: "Stcrt.2025-1803"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-10-22"
+intitule_published: "2025-01-10"
+intitule_in_force: "2025-01-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-1803"
+original_signed_date: "2024-10-22"
+original_published_date: "2025-01-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-1803"
+entry_into_force_date: "2025-01-11"
+jci_1_3: "jci1.3:c:BWBR0050663&z=2025-01-11&g=2025-01-11"
+jci_1_0: "1.0:c:BWBR0050663&g=2025-01-11"
+citeertitel_status: "officieel"
+short_title: "Regeling bezwaaradviescommissie Eerste Kamer 2024"
+signed_date: "2024-10-22"
+entry_into_force: "2025-01-11"
 ---
-
 # Besluit van het College van Voorzitter en Ondervoorzitters van 22 oktober 2024 nr. 175988U houdende regels inzake een bezwaaradviescommissie (Regeling bezwaaradviescommissie Eerste Kamer 2024)
 
 Gelet op [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13) en [artikel 13 van het Reglement van Orde van de Eerste Kamer der Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&artikel=13),
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,13 +60,13 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Taak, bevoegdheden en samenstelling commissie
 
-#### Artikel 2. Commissie en adviestaak
+##### Artikel 2. Commissie en adviestaak
 
 1. Er is een bezwaaradviescommissie die, met inachtneming van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0050663&hoofdstuk=3&artikel=15&z=2025-01-11&g=2025-01-11) van deze regeling, adviseert over de te nemen beslissing op bezwaarschriften die bij de Eerste Kamer zijn ingediend tegen besluiten op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de [Wet hergebruik overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795) of enige andere wettelijke regeling, met uitzondering van besluiten inzake personele aangelegenheden.
 
 2. De commissie hoort de bezwaarmaker en andere belanghebbenden en brengt advies uit over de te nemen beslissing op bezwaar.
 
-#### Artikel 3. Samenstelling commissie
+##### Artikel 3. Samenstelling commissie
 
 1. De commissie bestaat uit een voorzitter en twee overige leden die door het College van Voorzitter en Ondervoorzitters worden benoemd. Er kunnen plaatsvervangend leden worden benoemd.
 
@@ -58,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 4. De voorzitter en de overige leden van de commissie kunnen, in geval van zwaarwegende gronden, worden geschorst of ontslagen door het College van Voorzitter en Ondervoorzitters.
 
-#### Artikel 4. Zittingsduur
+##### Artikel 4. Zittingsduur
 
 1. De leden van de commissie worden benoemd voor de duur van vier jaar en kunnen eenmaal worden herbenoemd.
 
@@ -66,17 +92,17 @@ In deze regeling wordt verstaan onder:
 
 3. De leden en de voorzitter van de commissie kunnen op ieder moment schriftelijk ontslag nemen.
 
-#### Artikel 5. Niet deelnemen bij persoonlijk belang
+##### Artikel 5. Niet deelnemen bij persoonlijk belang
 
 1. Een lid dat, direct of indirect, een persoonlijk belang heeft bij een te nemen besluit op een bezwaarschrift, wordt tijdens de behandeling van en de besluitvorming over het bezwaarschrift vervangen door een plaatsvervangend lid.
 
 2. Zodra een lid bekend wordt met een persoonlijk belang als bedoeld in het eerste lid, meldt hij dit aan de voorzitter en de secretaris van de commissie. Indien het lid de voorzitter zelf is, meldt hij dit aan de overige leden.
 
-#### Artikel 6. Jaarverslag
+##### Artikel 6. Jaarverslag
 
 De commissie brengt jaarlijks vóór 1 mei aan het College van Voorzitter en Ondervoorzitters een openbaar verslag uit van haar werkzaamheden in het voorafgaande kalenderjaar.
 
-#### Artikel 7. Vergoedingen leden en voorzitter
+##### Artikel 7. Vergoedingen leden en voorzitter
 
 1. De leden van de commissie ontvangen voor een vergadering en hiermee samenhangende werkzaamheden een vergoeding per vergadering ter hoogte van de maximaal toegestane vergoeding per vergadering als bedoeld in [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2), met dien verstande dat aan de voorzitter een vergoeding per vergadering kan worden toegekend van maximaal 130% van de hoogte van de vergoeding per vergadering die aan de andere leden wordt toegekend.
 
@@ -90,7 +116,7 @@ De commissie brengt jaarlijks vóór 1 mei aan het College van Voorzitter en Ond
 
 4. Indien geen hoorzitting plaatsvindt, ontvangen leden van de commissie de helft van de vergoeding, bedoeld in het eerste lid, indien de commissie inhoudelijk advies uitbrengt over het te nemen besluit en daarover heeft beraadslaagd.
 
-#### Artikel 8. Secretariaat
+##### Artikel 8. Secretariaat
 
 1. De commissie wordt bijgestaan door een secretaris.
 
@@ -100,13 +126,13 @@ De commissie brengt jaarlijks vóór 1 mei aan het College van Voorzitter en Ond
 
 ### Hoofdstuk 3. Behandeling bezwaarschrift
 
-#### Artikel 9. Ontvangst bezwaarschrift en toezending aan commissie
+##### Artikel 9. Ontvangst bezwaarschrift en toezending aan commissie
 
 1. De secretaris bevestigt de ontvangst van het bezwaarschrift aan de bezwaarmaker en deelt, indien dit van toepassing is, mede dat de commissie over het bezwaar zal adviseren.
 
 2. Indien de commissie gevraagd wordt over het bezwaarschrift te adviseren, wordt het bezwaarschrift met de daarbij behorende stukken onverwijld in handen van de commissie gesteld.
 
-#### Artikel 10. Onderzoek en voorbereiding behandeling
+##### Artikel 10. Onderzoek en voorbereiding behandeling
 
 1. De commissie draagt er zorg voor dat al het noodzakelijke wordt gedaan om de behandeling van het bezwaarschrift genoegzaam voor te bereiden. De commissie kan in verband met de voorbereiding van de behandeling rechtstreeks alle gewenste inlichtingen inwinnen of door de secretaris doen inwinnen. De gevraagde inlichtingen worden onverwijld verstrekt door de bezwaarmaker, een belanghebbende of de vertegenwoordiger van de Kamer.
 
@@ -116,7 +142,7 @@ De commissie brengt jaarlijks vóór 1 mei aan het College van Voorzitter en Ond
 
 4. Indien de bezwaarmaker en de Kamer daarmee instemmen, kan de commissie een externe deskundige inschakelen. De kosten hiervoor worden gedragen door de Kamer.
 
-#### Artikel 11. Hoorzitting
+##### Artikel 11. Hoorzitting
 
 1. Het horen geschiedt door de commissie. De commissie kan het horen opdragen aan de voorzitter of een lid van de commissie.
 
@@ -124,7 +150,7 @@ De commissie brengt jaarlijks vóór 1 mei aan het College van Voorzitter en Ond
 
 3. Een verzoek om uitstel van de hoorzitting wordt gemotiveerd ingediend bij de commissie. De voorzitter beslist of aan het verzoek tegemoet wordt gekomen.
 
-#### Artikel 12. Openbaarheid van de hoorzitting
+##### Artikel 12. Openbaarheid van de hoorzitting
 
 1. De hoorzitting is openbaar.
 
@@ -132,7 +158,7 @@ De commissie brengt jaarlijks vóór 1 mei aan het College van Voorzitter en Ond
 
 3. Indien de hoorzitting, of een deel daarvan, achter gesloten deuren plaatsvindt, nemen de aanwezigen geheimhouding in acht over hetgeen is gewisseld tijdens de hoorzitting en niet is opgenomen in het openbare verslag.
 
-#### Artikel 13. Beraadslaging
+##### Artikel 13. Beraadslaging
 
 1. De commissie beraadslaagt en beslist achter gesloten deuren over het advies.
 
@@ -140,11 +166,11 @@ De commissie brengt jaarlijks vóór 1 mei aan het College van Voorzitter en Ond
 
 3. Het advies wordt vastgesteld bij meerderheid van stemmen.
 
-#### Artikel 14. Verdaging
+##### Artikel 14. Verdaging
 
 Indien naar het oordeel van de secretaris de termijn als bedoeld in [artikel 7:10, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) ontoereikend is voor achtereenvolgens het horen, het uitbrengen van een advies en het nemen van een beslissing op het bezwaar, verdaagt de secretaris tijdig de beslissing.
 
-#### Artikel 15. Uitbrengen advies en beslissing op bezwaar
+##### Artikel 15. Uitbrengen advies en beslissing op bezwaar
 
 1. Het advies wordt uitgebracht aan het orgaan of de persoon die bevoegd is namens de Kamer op het bezwaar te beslissen.
 
@@ -156,13 +182,13 @@ Indien naar het oordeel van de secretaris de termijn als bedoeld in [artikel 7:1
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 1. De [Regeling bezwaaradviescommissie Eerste Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0046748) d.d. 7 juni 2022 wordt ingetrokken op de dag voorafgaande dat deze Regeling in werking treedt.
 
 2. Deze regeling treedt in werking met ingang van de dag na bekendmaking.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bezwaaradviescommissie Eerste Kamer 2024.
 

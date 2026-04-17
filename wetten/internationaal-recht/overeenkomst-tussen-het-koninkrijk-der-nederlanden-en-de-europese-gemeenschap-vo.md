@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Gemeenschap voor Atoomenergie (Euratom) betreffende de vestiging te Petten van een inrichting van het Gemeenschappelijk Centrum voor Onderzoek op het gebied van de Kernenergie"
 identifier: "BWBV0004458"
-categorie: "Internationaal recht"
-publicatiedatum: 1962-10-30
-laatste_update: 1962-10-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004458"
+country: "nl"
+rank: "verdrag"
+publication_date: "1962-10-30"
+last_updated: "1962-10-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004458"
+soort: "verdrag"
+stam_id: "10004141973"
+version_id: "10004310912"
+internal_id: "C10008335931"
+label_id: "10004127124"
+dtd_version: "2.0"
+original_entry_into_force: "1962-10-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004458/1962-10-30/0"
+intitule_bron: "Trb.1961-142"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1961-12-14"
+intitule_in_force: "1963-02-08"
+intitule_status: "goed"
+original_publication: "Trb.1961-142"
+original_published_date: "1961-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1961-142"
+entry_into_force_date: "1962-10-30"
+jci_1_3: "jci1.3:c:BWBV0004458&z=1962-10-30&g=1962-10-30"
+jci_1_0: "1.0:c:BWBV0004458&g=1962-10-30"
+citeertitel_status: "redactioneel"
+entry_into_force: "1962-10-30"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Gemeenschap voor Atoomenergie (Euratom) betreffende de vestiging te Petten van een inrichting van het Gemeenschappelijk Centrum voor Onderzoek op het gebied van de Kernenergie
 
 De Regering van het Koninkrijk der Nederlanden (hierna genoemd „de Regering”), handelend zowel namens haarzelf als namens het Reactor Centrum Nederland (hierna genoemd „het R.C.N.”), en de Commissie van de Europese Gemeenschap voor Atoomenergie (hierna genoemd „de Commissie”);
@@ -24,7 +46,7 @@ Overwegende dat de Regering uitdrukking heeft gegeven aan de wens dat de nationa
 
 Hebben omtrent de volgende bepalingen overeenstemming bereikt:
 
-#### Artikel 1. – Doel van de overeenkomst
+##### Artikel 1. – Doel van de overeenkomst
 
 1-1. Op de wijze en onder de voorwaarden aangegeven in artikel 2 stelt de Regering de in Bijlage I bij deze overeenkomst omschreven installaties met het daarbij behorende terrein hetwelk eveneens in Bijlage I is aangegeven (hierna genoemd „de H.F.R. c.a.”), alsmede een in Bijlage II bij deze overeenkomst aangegeven terrein van ongeveer vijfentwintig hectaren, ter beschikking van de Commissie.
 
@@ -34,7 +56,7 @@ Hebben omtrent de volgende bepalingen overeenstemming bereikt:
 
 1-4. Zodra deze overeenkomst in werking is getreden, richt de Commissie op de genoemde terreinen een inrichting van het Gemeenschappelijk Centrum voor Onderzoek op het Gebied van de Kernenergie met algemene bevoegdheden (hierna genoemd „het Centrum”) op.
 
-#### Artikel 2. – Wijze en voorwaarden van de overdracht
+##### Artikel 2. – Wijze en voorwaarden van de overdracht
 
 2-1. Onder nader tussen de partijen overeen te komen voorwaarden geeft het Koninkrijk der Nederlanden het in Bijlage II aangegeven terrein aan de Gemeenschap in erfpacht uit. De Regering zal zo spoedig mogelijk na de inwerkingtreding van deze overeenkomst de akte van overdracht doen opmaken en in het kadaster doen inschrijven.
 
@@ -52,7 +74,7 @@ Wanneer in deze overeenkomst sprake is van een overdracht van de H.F.R.c.a. word
 
 2-7. De Regering neemt alle maatregelen, die nodig zijn om de garantie die het R.C.N. geniet ten opzichte van de leveranciers van de H.F.R.c.a. aan de Commissie ten goede te doen komen.
 
-#### Artikel 3. – Verrichtingen van het R.C.N.
+##### Artikel 3. – Verrichtingen van het R.C.N.
 
 3-1. Het R.C.N. voltooit de H.F.R.c.a. en stelt hem uitsluitend op zijn verantwoordelijkheid en op zijn kosten in werking.
 
@@ -64,7 +86,7 @@ Wanneer in deze overeenkomst sprake is van een overdracht van de H.F.R.c.a. word
 
 3-5. Gedurende het overgangstijdvak wordt het personeel van de Gemeenschap bij de technische bedrijfsvoering betrokken op de door de Gemengde Commissie in bijzonderheden vastgestelde voorwaarden.
 
-#### Artikel 4. – Werkzaamheden en ontwikkeling van het Centrum
+##### Artikel 4. – Werkzaamheden en ontwikkeling van het Centrum
 
 4-1. De Commissie concentreert haar werkzaamheden in het Centrum in de eerste plaats op het gebruik van de H.F.R.c.a. Zij maakt van deze installaties optimaal gebruik.
 
@@ -76,13 +98,13 @@ Wanneer in deze overeenkomst sprake is van een overdracht van de H.F.R.c.a. word
 
 4-5. Op een daartoe strekkend verzoek van de Commissie belast het R.C.N. zich met de bouw van de installaties namens en voor rekening van de Gemeenschap.
 
-#### Artikel 5. – Financiële bepalingen
+##### Artikel 5. – Financiële bepalingen
 
 5-1. Van de datum van overdracht af komen de exploitatiekosten van de H.F.R.c.a. voor rekening van de Commissie. Gedurende het overgangstijd vak worden deze kosten aan de Commissie voorgesteld door de in het hiernavolgende artikel 6 genoemde Gemengde Commissie.
 
 5-2. De kosten van de hierboven in artikel 4, lid 2 en 3 bedoelde investeringen worden geraamd op elf miljoen EMO rekeneenheden. Deze kosten worden gezamenlijk gedragen door de Com missie en de Regering, met dien verstande dat de bijdrage van laatstgenoemde ten deze het bedrag van één miljoen EMO rekeneenheden, te weten het verschil tussen de totale, op acht miljoen EMO rekeneenheden bepaalde bijdrage van de Regering en de vooruit vastgestelde waarde van de H.F.R.c.a. van zeven miljoen EMO rekeneenheden, niet zal overschrijden.
 
-#### Artikel 6. – Gemengde Commissie
+##### Artikel 6. – Gemengde Commissie
 
 6-1. Zodra deze overeenkomst in werking is getreden, wordt voor de duur van het overgangstijdvak een Gemengde Commissie ingesteld, bestaande uit drie vertegenwoordigers van de Commissie en drie van het R.C.N.
 
@@ -90,7 +112,7 @@ Wanneer in deze overeenkomst sprake is van een overdracht van de H.F.R.c.a. word
 
 6-3. Na het overgangstijdvak kunnen de technische aangelegenheden die van belang zijn voor de overeenkomstsluitende partijen, en in voorkomende gevallen voor het R.C.N., het onderwerp vormen van besprekingen in een der in het hiernavolgende artikel 8-3 bedoelde subcomité's.
 
-#### Artikel 7. – Prioriteit van het Nederlandse programma
+##### Artikel 7. – Prioriteit van het Nederlandse programma
 
 7-1. Gedurende het overgangstijdvak geeft de Commissie in het programma voor het gebruik van de H.F.R.c.a. prioriteit aan de bestralingen van het Nederlandse programma, waarvan de Nederlands-Noorse projecten deel uitmaken. Onder „Nederlands programma” wordt verstaan alles wat door de Regering als zodanig wordt aangegeven.
 
@@ -98,7 +120,7 @@ Wanneer in deze overeenkomst sprake is van een overdracht van de H.F.R.c.a. word
 
 7-3. Na het overgangstijdvak worden de in lid 1 van dit artikel bedoelde bestralingen in de H.F.R.c.a. uitgevoerd op een zo groot mogelijke schaal als verenigbaar is met een optimaal gebruik van de proefreactoren in de Gemeenschap.
 
-#### Artikel 8. – Raadgevend Verbindingscomité
+##### Artikel 8. – Raadgevend Verbindingscomité
 
 8-1. Er wordt een Raadgevend Verbindingscomité ingesteld, bestaande uit ten minste zes leden, die voor de helft door de Commissie en voor de helft door de Regering worden benoemd.
 
@@ -106,15 +128,15 @@ Wanneer in deze overeenkomst sprake is van een overdracht van de H.F.R.c.a. word
 
 8-3. Het Raadgevend Verbindingscomité kan subcomité's instellen die belast zijn met de studie van bepaalde aangelegenheden.
 
-#### Artikel 9. – Woonruimte
+##### Artikel 9. – Woonruimte
 
 De Regering garandeert, naar gelang van de behoefte, de nodige woonruimte aan de personeelsleden van het Centrum en hun gezinnen. Deze woonruimte, waarvan de soort en de ligging in gemeenschappelijk overleg tussen de overeenkomstsluitende partijen worden bepaald, wordt op geldende marktvoorwaarden verhuurd.
 
-#### Artikel 10. – Europese School
+##### Artikel 10. – Europese School
 
 De overeenkomstsluitende partijen bevorderen de oprichting van een Europese school in de omgeving van het Centrum.
 
-#### Artikel 11. – Algemene diensten
+##### Artikel 11. – Algemene diensten
 
 11-1. De Regering maakt, op verzoek van de Commissie, gebruik van haar bevoegdheden teneinde aan het Centrum alle nodige diensten van de openbare nutsbedrijven te verzekeren. Indien de verrichting van een dezer diensten mocht worden onderbroken, doet de Regering haar uiterste best om te voldoen aan de behoeften van het Centrum, zodat er geen nadelige gevolgen voor het functioneren van het Centrum ontstaan.
 
@@ -122,35 +144,35 @@ De overeenkomstsluitende partijen bevorderen de oprichting van een Europese scho
 
 11-3. De Commissie kan, in de mate die nodig is om aan haar behoeften te voldoen en op in gemeenschappelijk overleg tussen de Commissie en het R.C.N. te bepalen voorwaarden, gebruik maken van de algemene diensten van het R.C.N., zoals werkplaatsen, magazijnen en installaties voor de behandeling van radio-actieve afvalstoffen.
 
-#### Artikel 12. – Personeel van het Centrum
+##### Artikel 12. – Personeel van het Centrum
 
 De Commissie draagt zorg voor een voldoende personeelsbezetting voor de ontwikkeling en het doen functioneren van het Centrum, waarbij rekening wordt gehouden met de Nederlandse behoeften aan wetenschappelijk personeel voor de tenuitvoerlegging van het Nederlandse onderzoekprogramma.
 
-#### Artikel 13. – Studenten
+##### Artikel 13. – Studenten
 
 De Nederlandse Regering vergemakkelijkt de binnenkomst en het verblijf in Nederland van studenten en bovendien van personen, die zich naar Nederland moeten begeven voor de in [artikel 5, laatste lid, van het Euratom Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=5) voorziene doeleinden, mits de Nederlandse vreemdelingenvoorschriften in acht worden genomen.
 
-#### Artikel 14. – De Directeur van het Centrum
+##### Artikel 14. – De Directeur van het Centrum
 
 De Commissie benoemt de Directeur van het Centrum. Deze benoeming wordt aan de Regering medegedeeld.
 
-#### Artikel 15. – Bescherming van het Centrum
+##### Artikel 15. – Bescherming van het Centrum
 
 De Regering neemt alle maatregelen die nodig zijn om te voorkomen, dat het functioneren van het Centrum op enigerlei wijze wordt gestoord. Te dien einde garandeert zij het Centrum de nodige bescherming van buiten af; de Commissie draagt er zorg voor dat het Centrum op voldoende wijze wordt omheind.
 
-#### Artikel 16. – Nederlandse wetgeving
+##### Artikel 16. – Nederlandse wetgeving
 
 De wijze van handhaving van de Nederlandse wetgeving binnen het Centrum zal geschieden overeenkomstig het bepaalde in Bijlage III.
 
-#### Artikel 17. – Aanvullende overeenkomsten
+##### Artikel 17. – Aanvullende overeenkomsten
 
 Alle aangelegenheden, die bij de uitvoering van deze overeenkomst de verhouding tussen de Commissie enerzijds, en het R.C.N. anderzijds, raken, kunnen in tussen hen te sluiten aanvullende overeenkomsten worden geregeld.
 
-#### Artikel 18. – Geschillen
+##### Artikel 18. – Geschillen
 
 Uitsluitend het Hof van Justitie van de Europese Gemeenschappen is bevoegd ten aanzien van elk geschil omtrent de rechten en verplichtingen van partijen, voortvloeiend uit deze overeenkomst.
 
-#### Artikel 19. – Inwerkingtreding
+##### Artikel 19. – Inwerkingtreding
 
 Deze overeenkomst, waarvan de Bijlagen I, II en III een integrerend onderdeel uitmaken, wordt voor een tijdvak van 99 jaar gesloten en treedt in werking zodra elk der partijen van de andere heeft vernomen, dat aan de daarvoor gestelde eisen is voldaan.
 

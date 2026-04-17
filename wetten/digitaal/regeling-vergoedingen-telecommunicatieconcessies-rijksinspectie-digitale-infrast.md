@@ -1,20 +1,46 @@
 ---
-title: "Regeling vergoedingen telecommunicatieconcessies Rijksinspectie Digitale Infrastructuur BES 2015"
+title: "Regeling van de Minister van Economische Zaken van 12 februari 2016, nr. WJZ/15182740, houdende regels omtrent de vergoeding voor de kosten van de bemoeiingen met betrekking tot de in artikel 7, vijfde lid, Wet telecommunicatievoorzieningen BES genoemde kosten verbonden aan de verlening van de concessie van de bij of krachtens de Wet telecommunicatievoorzieningen BES gegeven regels, voorschriften en beperkingen alsmede aan de uitoefening van bevoegdheden inzake de telecommunicatie door een openbaar lichaam (Regeling vergoedingen telecommunicatieconcessies Agentschap Telecom BES 2015)"
 identifier: "BWBR0037630"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037630"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037630"
+soort: "ministeriele-regeling-BES"
+stam_id: "13415413"
+version_id: "23020982"
+internal_id: "C33276751"
+label_id: "13383004"
+dtd_version: "2.0"
+original_entry_into_force: "2016-02-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037630/2023-01-01/0"
+intitule_bron: "Stcrt.2016-8483"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-02-12"
+intitule_published: "2016-02-16"
+intitule_in_force: "2016-02-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-8483"
+original_signed_date: "2016-02-12"
+original_published_date: "2016-02-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-8483"
+entry_into_force_date: "2016-02-17"
+jci_1_3: "jci1.3:c:BWBR0037630&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0037630&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vergoedingen telecommunicatieconcessies Rijksinspectie Digitale Infrastructuur BES 2015"
+signed_date: "2016-02-12"
+entry_into_force: "2016-02-17"
 ---
-
 # Regeling van de Minister van Economische Zaken van 12 februari 2016, nr. WJZ/15182740, houdende regels omtrent de vergoeding voor de kosten van de bemoeiingen met betrekking tot de in artikel 7, vijfde lid, Wet telecommunicatievoorzieningen BES genoemde kosten verbonden aan de verlening van de concessie van de bij of krachtens de Wet telecommunicatievoorzieningen BES gegeven regels, voorschriften en beperkingen alsmede aan de uitoefening van bevoegdheden inzake de telecommunicatie door een openbaar lichaam (Regeling vergoedingen telecommunicatieconcessies Agentschap Telecom BES 2015)
 
 Gelet op [artikel 7, vijfde lid, Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=7);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De vergoeding bedoeld in [artikel 7, vijfde lid, van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=7) bedraagt voor de houder van een concessie, bedoeld in [artikel 2, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=2) USD 11 per aansluitpunt per jaar.
 
@@ -22,27 +48,27 @@ Besluit:
 
 3. Het in het eerste en tweede lid bedoelde tarief heeft geen betrekking op roamers en data-only aansluitingen voor zover het aansluitingen betreft die elke maand maximaal 50 MB aan data verbruiken.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor het, op basis van een concessie, gebruik van vaste verbindingen is een vergoeding opgenomen in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037630&bijlage=I&z=2023-01-01&g=2023-01-01).
 
-#### Artikel 3
+##### Artikel 3
 
 Bij onregelmatigheid of overwerk kan de vergoeding, bedoeld in het eerste lid, worden verhoogd met een toeslag van 30% voor onregelmatigheid en 50% voor overwerk.
 
-#### Artikel 4
+##### Artikel 4
 
 De [Regeling vergoedingen telecommunicatieconcessies BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028716) wordt ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Op werkzaamheden of diensten die zijn verricht vóór het kalenderjaar 2015 blijft het recht van toepassing zoals dat ten tijde van verrichting van die werkzaamheden of diensten gold.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2015.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling vergoedingen telecommunicatieconcessies Rijksinspectie Digitale Infrastructuur BES 2015.
 

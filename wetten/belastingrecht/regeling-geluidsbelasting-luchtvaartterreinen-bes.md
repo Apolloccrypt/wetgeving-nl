@@ -1,34 +1,60 @@
 ---
-title: "Regeling geluidsbelasting luchtvaartterreinen BES"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 25 juli 2020, nr. IENW/BSK-2020/128685 houdende regels voor de wijze van berekenen van geluidsbelasting veroorzaakt door luchtvaartuigen die gebruikmaken van de luchtvaartterreinen in de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling geluidsbelasting luchtvaartterreinen BES)"
 identifier: "BWBR0043966"
-categorie: "Belastingrecht"
-publicatiedatum: 2020-10-01
-laatste_update: 2020-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043966"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2020-10-01"
+last_updated: "2020-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043966"
+soort: "ministeriele-regeling-BES"
+stam_id: "15584543"
+version_id: "26927502"
+internal_id: "C38126511"
+label_id: "15525614"
+dtd_version: "2.0"
+original_entry_into_force: "2020-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043966/2020-10-01/0"
+intitule_bron: "Stcrt.2020-37190"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-07-25"
+intitule_published: "2020-07-28"
+intitule_in_force: "2020-07-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-37190"
+original_signed_date: "2020-07-25"
+original_published_date: "2020-07-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-37190"
+entry_into_force_date: "2020-10-01"
+jci_1_3: "jci1.3:c:BWBR0043966&z=2020-10-01&g=2020-10-01"
+jci_1_0: "1.0:c:BWBR0043966&g=2020-10-01"
+citeertitel_status: "officieel"
+short_title: "Regeling geluidsbelasting luchtvaartterreinen BES"
+signed_date: "2020-07-25"
+entry_into_force: "2020-10-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 25 juli 2020, nr. IENW/BSK-2020/128685 houdende regels voor de wijze van berekenen van geluidsbelasting veroorzaakt door luchtvaartuigen die gebruikmaken van de luchtvaartterreinen in de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling geluidsbelasting luchtvaartterreinen BES)
 
 Gelet op [artikel 33, derde lid, van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=33);
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 De geluidsbelasting, bedoeld in [artikel 33, eerste lid, van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=33) veroorzaakt door luchtvaartuigen die gebruikmaken van de luchtvaartterreinen in de openbare lichamen Bonaire, Sint Eustatius en Saba, wordt berekend overeenkomstig het in de bijlage bij deze regeling opgenomen voorschrift.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij het berekenen van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043966&artikel=1&z=2020-10-01&g=2020-10-01) genoemde geluidsbelasting wordt gebruik gemaakt van de door het Nederlands Lucht- en Ruimtevaartcentrum opgestelde Indelingslijst luchtvaartuigtypen en van de Appendices van de voorschriften voor de berekening van de geluidsbelasting in Lden.
 
 2. Van het verschijnen van een nieuwe versie van de in het eerste lid bedoelde indelingslijst of appendices wordt mededeling gedaan in de Staatscourant.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van 1 oktober 2020.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling geluidsbelasting luchtvaartterreinen BES.
 

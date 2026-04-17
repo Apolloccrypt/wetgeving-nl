@@ -1,20 +1,46 @@
 ---
-title: "Regeling eed of belofte financiële sector 2015"
+title: "Regeling van de Minister van Financiën van 12 december 2014, kenmerk: FM 2014/1237 M, directie Financiële Markten, houdende regels met betrekking tot de door personen als bedoeld in de artikelen 3:8, eerste lid, 3:17b, eerste en tweede lid, 4:9, eerste lid, en 4:15a, eerste lid, van de Wet op het financieel toezicht af te leggen eed of belofte (Regeling eed of belofte financiële sector 2015)"
 identifier: "BWBR0036152"
-categorie: "Overig"
-publicatiedatum: 2015-04-01
-laatste_update: 2015-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036152"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-04-01"
+last_updated: "2015-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036152"
+soort: "ministeriele-regeling"
+stam_id: "12946243"
+version_id: "22055442"
+internal_id: "C31621781"
+label_id: "12915424"
+dtd_version: "2.0"
+original_entry_into_force: "2015-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036152/2015-04-01/0"
+intitule_bron: "Stcrt.2014-37261"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-12"
+intitule_published: "2014-12-24"
+intitule_in_force: "2014-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-37261"
+original_signed_date: "2014-12-12"
+original_published_date: "2014-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-37261"
+entry_into_force_date: "2015-04-01"
+jci_1_3: "jci1.3:c:BWBR0036152&z=2015-04-01&g=2015-04-01"
+jci_1_0: "1.0:c:BWBR0036152&g=2015-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling eed of belofte financiële sector 2015"
+signed_date: "2014-12-12"
+entry_into_force: "2015-04-01"
 ---
-
 # Regeling van de Minister van Financiën van 12 december 2014, kenmerk: FM 2014/1237 M, directie Financiële Markten, houdende regels met betrekking tot de door personen als bedoeld in de artikelen 3:8, eerste lid, 3:17b, eerste en tweede lid, 4:9, eerste lid, en 4:15a, eerste lid, van de Wet op het financieel toezicht af te leggen eed of belofte (Regeling eed of belofte financiële sector 2015)
 
 Gelet op de [artikelen 3:8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8), [3:17b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17b), [4:9, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), en [4:15a, vierde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15a);
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Personen als bedoeld in de [artikelen 3:8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8), [3:17b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17b), [4:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), en [4:15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:15a), leggen binnen drie maanden na aanvang van hun werkzaamheden voor de onderneming een eed of belofte af, indien mogelijk ten overstaan van een persoon in een hogere functie.
 
@@ -36,7 +62,7 @@ BESLUIT:
 
 4. Het eerste lid is niet van toepassing, indien betrokkene al eerder werkzaam is geweest voor de onderneming en hij aantoonbaar in die hoedanigheid reeds een gelijkluidende eed of belofte heeft afgelegd, tenzij er sinds het beëindigen van werkzaamheden voor de onderneming inmiddels meer dan vijf jaren zijn verstreken.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de door een beleidsbepaler en een natuurlijk persoon als bedoeld in [artikel 3:8, eerste lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8) af te leggen eed of belofte wordt gebruik gemaakt van het formulier in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036152&bijlage=1&z=2015-04-01&g=2015-04-01) bij deze regeling.
 
@@ -56,7 +82,7 @@ BESLUIT:
 
 4. Het derde lid is niet van toepassing op natuurlijke personen als bedoeld in de [artikelen 3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8) en [4:9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9) die reeds in het kader van de geschiktheid een eed of belofte afleggen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het afleggen van de eed geschiedt door voorlezing van de tekst van het formulier bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036152&artikel=2&z=2015-04-01&g=2015-04-01) door de persoon ten overstaan van wie de eed wordt afgelegd, waarna de persoon die de eed aflegt woordelijk uitspreekt: ‘Zo waarlijk helpe mij God Almachtig’.
 
@@ -64,25 +90,25 @@ BESLUIT:
 
 3. Het eerste en tweede lid zijn, tenzij toepassing wordt gegeven aan [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036152&artikel=1&z=2015-04-01&g=2015-04-01), niet van toepassing op zelfstandigen zonder personeel.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Na het afleggen van de eed of belofte wordt door de persoon die de eed of belofte heeft afgelegd, in het bijzijn van de persoon ten overstaan van wie de eed of belofte is afgelegd, het formulier ondertekend.
 
 2. In afwijking van het eerste lid wordt, in het geval van een zelfstandige zonder personeel, volstaan met ondertekening van het formulier door de persoon die de eed of belofte aflegt, tenzij toepassing wordt gegeven aan [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036152&artikel=1&z=2015-04-01&g=2015-04-01).
 
-#### Artikel 5
+##### Artikel 5
 
 De onderneming bewaart de ondertekende eed of belofte ten minste gedurende de periode dat betrokkene werkzaamheden voor de onderneming verricht op toegankelijke wijze of draagt er zorg voor dat de aflegging van de eed of belofte op een andere wijze wordt vastgelegd.
 
-#### Artikel 6
+##### Artikel 6
 
 De [Regeling eed of belofte financiële sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032586) wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van 1 april 2015.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling eed of belofte financiële sector 2015.
 

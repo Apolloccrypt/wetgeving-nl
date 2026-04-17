@@ -1,24 +1,48 @@
 ---
 title: "Verdrag van Genève voor de verbetering van het lot der gewonden en zieken, zich bevindende bij de strijdkrachten te velde"
 identifier: "BWBV0005565"
-categorie: "Internationaal recht"
-publicatiedatum: 1955-02-03
-laatste_update: 1955-02-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005565"
+country: "nl"
+rank: "verdrag"
+publication_date: "1955-02-03"
+last_updated: "1955-02-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005565"
+soort: "verdrag"
+stam_id: "10004712253"
+version_id: "10004976682"
+internal_id: "C10007593911"
+label_id: "10004696894"
+dtd_version: "2.0"
+original_entry_into_force: "1955-02-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005565/1955-02-03/0"
+intitule_bron: "Stb.1954-246"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1954-05-19"
+intitule_published: "1954-06-18"
+intitule_in_force: "1954-12-01"
+intitule_status: "goed"
+original_publication: "Stb.1954-246"
+original_signed_date: "1954-05-19"
+original_published_date: "1954-06-18"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1955-02-03"
+jci_1_3: "jci1.3:c:BWBV0005565&z=1955-02-03&g=1955-02-03"
+jci_1_0: "1.0:c:BWBV0005565&g=1955-02-03"
+citeertitel_status: "redactioneel"
+signed_date: "1954-05-19"
+entry_into_force: "1955-02-03"
 ---
-
 # Verdrag van Genève voor de verbetering van het lot der gewonden en zieken, zich bevindende bij de strijdkrachten te velde
 
 De ondergetekenden, Gevolmachtigden van de Regeringen, vertegenwoordigd op de Diplomatieke Conferentie welke te Genève van 21 April tot 12 Augustus 1949 is bijeengekomen tot herziening van het Verdrag van Genève voor de verbetering van het lot der gewonden en zieken, zich bevindende bij de legers te velde, van 27 Juli 1929, zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 De Hoge Verdragsluitende Partijen verbinden zich dit Verdrag onder alle omstandigheden te eerbiedigen en te doen eerbiedigen.
 
-#### Artikel 2
+##### Artikel 2
 
 Onverminderd de bepalingen welke reeds in tijd van vrede in werking moeten treden, is dit Verdrag van toepassing ingeval een oorlog is verklaard of bij ieder ander gewapend conflict dat ontstaat tussen twee of meer der Hoge Verdragsluitende Partijen, zelfs indien de oorlogstoestand door één der Partijen niet wordt erkend.
 
@@ -26,7 +50,7 @@ Het Verdrag is eveneens van toepassing in alle gevallen van gehele of gedeelteli
 
 Indien één der in conflict zijnde Mogendheden geen partij is bij dit Verdrag, blijven de Mogendheden die wel partij zijn, niettemin in haar onderlinge betrekkingen hierdoor gebonden. Bovendien zullen zij door het Verdrag gebonden zijn ten opzichte van bedoelde Mogendheid, indien deze de bepalingen daarvan aanvaardt en toepast.
 
-#### Artikel 3
+##### Artikel 3
 
 In geval van een gewapend conflict op het grondgebied van één der Hoge Verdragsluitende Partijen, hetwelk geen internationaal karakter draagt, is ieder der Partijen bij het conflict gehouden ten minste de volgende bepalingen toe te passen:
 
@@ -48,25 +72,25 @@ De Partijen bij het conflict zullen er verder naar streven door middel van bijzo
 
 De toepassing van bovenstaande bepalingen zal niet van invloed zijn op de juridische status van de Partijen bij het conflict.
 
-#### Artikel 4
+##### Artikel 4
 
 Onzijdige Mogendheden zullen de bepalingen van dit Verdrag op overeenkomstige wijze toepassen op gewonden en zieken, op leden van het geneeskundig personeel en geestelijken, die behoren tot de strijdkrachten van de Partijen bij het conflict en die op haar grondgebied worden toegelaten of geïnterneerd, evenals op de gevonden doden.
 
-#### Artikel 5
+##### Artikel 5
 
 Ten aanzien van de beschermde personen die in handen van de vijand zijn gevallen, zal dit Verdrag van toepassing zijn tot het ogenblik waarop hun definitieve repatriëring is voltooid.
 
-#### Artikel 6
+##### Artikel 6
 
 Onverminderd de overeenkomsten, uitdrukkelijk voorzien in de artikelen 10, 15, 23, 28, 31, 36, 37 en 52, kunnen de Hoge Verdragsluitende Partijen andere bijzondere overeenkomsten sluiten betreffende alle aangelegenheden waarvoor zij afzonderlijke regelingen wenselijk achten. Geen bijzondere overeenkomst mag de positie van gewonden en zieken, van leden van het geneeskundig personeel of van geestelijken, zoals in dit Verdrag geregeld, ongunstig beïnvloeden, noch de rechten welke dit hun toekent, beperken.
 
 Gewonden en zieken, evenals leden van het geneeskundig personeel en geestelijken, zullen de voordelen van zodanige overeenkomsten blijven genieten zolang het Verdrag op hen van toepassing is, tenzij uitdrukkelijk het tegendeel is bepaald in bovenbedoelde of nadien gesloten overeenkomsten, dan wel gunstiger maatregelen door één der Partijen bij het conflict ten aanzien van hen zijn genomen.
 
-#### Artikel 7
+##### Artikel 7
 
 Gewonden en zieken, evenals leden van het geneeskundig personeel en geestelijken, mogen onder geen enkele omstandigheid geheel of gedeeltelijk afstand doen van de rechten welke dit Verdrag en eventueel de bijzondere overeenkomsten, bedoeld in het voorgaand artikel, hun waarborgen.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit Verdrag zal worden toegepast met de medewerking en onder het toezicht van de beschermende Mogendheden die belast zijn met het behartigen van de belangen van de Partijen bij het conflict. Te dien einde kunnen de beschermende Mogendheden, naast haar diplomatiek of consulair personeel, gedelegeerden benoemen uit haar eigen onderdanen of uit die van andere onzijdige Mogendheden. De benoeming van deze gedelegeerden moet worden onderworpen aan de goedkeuring van de Mogendheid bij welke zij hun taak zullen vervullen.
 
@@ -74,11 +98,11 @@ De Partijen bij het conflict zullen zo veel mogelijk de taak van de vertegenwoor
 
 De vertegenwoordigers of gedelegeerden van de beschermende Mogendheden mogen in geen geval de grenzen van de hun krachtens dit Verdrag opgedragen taak overschrijden; zij moeten in het bijzonder rekening houden met de gebiedende eisen van veiligheid van de Staat bij welke zij hun taak vervullen. Slechts bij uitzondering kunnen hun werkzaamheden tijdelijk worden beperkt wegens dwingende militaire noodzaak.
 
-#### Artikel 9
+##### Artikel 9
 
 De bepalingen van dit Verdrag vormen geen belemmering voor de menslievende werkzaamheden welke, met toestemming van de betrokken Partijen bij het conflict, het Internationale Comité van het Rode Kruis of enige andere onpartijdige humanitaire organisatie op zich neemt voor de bescherming van gewonden en zieken, geneeskundig personeel en geestelijken, alsmede voor aan hen te verlenen hulp.
 
-#### Artikel 10
+##### Artikel 10
 
 De Hoge Verdragsluitende Partijen kunnen te allen tijde overeenkomen de taak welke krachtens dit Verdrag op de beschermende Mogendheden rust, toe te vertrouwen aan een organisatie die alle waarborgen van onpartijdigheid en doeltreffendheid biedt.
 
@@ -92,7 +116,7 @@ Van de voorgaande bepalingen mag niet worden afgeweken bij bijzondere overeenkom
 
 Waar in dit Verdrag wordt gesproken van een beschermende Mogendheid, wordt daaronder begrepen een vervangende organisatie in de zin van dit artikel.
 
-#### Artikel 11
+##### Artikel 11
 
 In alle gevallen waarin zij zulks in het belang van de beschermde personen raadzaam achten, in het bijzonder bij meningsverschil tussen de Partijen bij het conflict over de toepassing of uitlegging van de bepalingen van dit Verdrag, zullen de beschermende Mogendheden haar goede diensten verlenen tot oplossing van het geschil.
 
@@ -100,7 +124,7 @@ Te dien einde kan ieder der beschermende Mogendheden, op uitnodiging van één P
 
 ### HOOFDSTUK II. Van de gewonden en zieken
 
-#### Artikel 12
+##### Artikel 12
 
 De leden van de gewapende macht en andere personen, genoemd in het volgend artikel, die gewond of ziek zijn, moeten onder alle omstandigheden worden ontzien en beschermd.
 
@@ -112,7 +136,7 @@ Vrouwen moeten met alle aan haar sekse verschuldigde voorkomendheid worden behan
 
 De Partij bij het conflict, die zich genoodzaakt ziet gewonden of zieken aan de vijand over te laten, zal, voor zover de omstandigheden uit militair oogpunt zulks veroorloven, een deel van haar geneeskundig personeel en materieel bij hen achterlaten om mede te werken aan hun verzorging.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit Verdrag is van toepassing op de gewonden en zieken die behoren tot de volgende categorieën:
 
@@ -136,11 +160,11 @@ Dit Verdrag is van toepassing op de gewonden en zieken die behoren tot de volgen
 
 - 6. de bevolking van een niet-bezet gebied die, bij het naderen van de vijand, uit eigen beweging de wapens opneemt om de invallende troepen te bestrijden, zonder tijd gehad te hebben zien tot geregelde gewapende eenheden te organiseren, mits zij de wapens openlijk draagt en de wetten en gebruiken van de oorlog eerbiedigt.
 
-#### Artikel 14
+##### Artikel 14
 
 Onverminderd de bepalingen van artikel 12, zullen de gewonden en zieken van een oorlogvoerende, die in handen van de vijand vallen, krijgsgevangenen zijn en zullen de regelen van het volkenrecht betreffende krijgsgevangenen op hen van toepassing zijn.
 
-#### Artikel 15
+##### Artikel 15
 
 Te allen tijde, en in het bijzonder na een gevecht, zullen de Partijen bij het conflict onverwijld alle mogelijke maatregelen nemen om de gewonden en zieken op te zoeken en te verzamelen, hen tegen plundering en slechte behandeling te beschermen en hun de nodige verzorging te verzekeren, zomede om de doden op te zoeken en te voorkomen, dat deze worden beroofd.
 
@@ -148,7 +172,7 @@ Telkens wanneer de omstandigheden zulks veroorloven, zal een wapenstilstand of e
 
 Evenzo kunnen tussen de Partijen bij het conflict plaatselijke regelingen worden getroffen voor de evacuatie of uitwisseling van gewonden en zieken uit een belegerd of omsingeld gebied en voor het doorlaten van geneeskundig personeel en geestelijken en van geneeskundig materieel, bestemd voor dit gebied.
 
-#### Artikel 16
+##### Artikel 16
 
 De Partijen bij het conflict moeten binnen de kortst mogelijke tijd alle gegevens registreren welke van nut kunnen zijn om de in haar handen gevallen gewonden, zieken en doden van de tegenpartij te identificeren. Deze gegevens zullen zo mogelijk bevatten:
 
@@ -172,7 +196,7 @@ Zo spoedig mogelijk moeten bovengenoemde gegevens worden toegezonden aan het Inf
 
 De Partijen bij het conflict zullen overlijdensakten of behoorlijk gewaarmerkte lijsten van overledenen opmaken en deze elkander langs de in het voorgaand lid aangegeven weg doen toekomen. Evenzo zullen zij verzamelen de helft van het tweedelige identiteitsplaatje, testamenten of andere bescheiden van waarde voor de familie der overledenen, geld en in het algemeen alle op de doden gevonden voorwerpen welke een wezenlijke dan wel een gevoelswaarde hebben, en deze elkander door tussenkomst van hetzelfde Bureau doen toekomen. Deze voorwerpen, alsmede niet-geïdentificeerde voorwerpen, zullen worden verzonden in verzegelde pakketten, vergezeld van een verklaring, houdende alle bijzonderheden, nodig voor de identificatie van de overleden bezitter, benevens van een volledige inhoudsopgave van het pakket.
 
-#### Artikel 17
+##### Artikel 17
 
 De Partijen bij het conflict zullen zorg dragen, dat het begraven of verbranden der doden, hetgeen voor iedere overledene afzonderlijk, zal plaatsvinden voor zover de omstandigheden zulks veroorloven, wordt voorafgegaan door een nauwkeurig en, zo mogelijk, geneeskundig onderzoek van het lichaam, ten einde de dood en de identiteit vast te stellen en het opstellen van een verslag mogelijk te maken. De helft van het tweedelige identiteitsplaatje, of het enkelvoudige plaatje in zijn geheel, zal aan het lijk bevestigd blijven.
 
@@ -182,7 +206,7 @@ De Partijen bij het conflict zullen voorts zorg dragen, dat de doden op eerbiedi
 
 Zodra de omstandigheden zulks veroorloven en uiterlijk bij het einde der vijandelijkheden, zullen deze diensten, door tussenkomst van het in het tweede lid van artikel 16 bedoelde Informatiebureau, lijsten uitwisselen, welke de nauwkeurige ligging en de aanduiding der graven vermelden, alsmede de gegevens betreffende de daarin begraven doden.
 
-#### Artikel 18
+##### Artikel 18
 
 De militaire autoriteiten kunnen een beroep doen op de menslievendheid der inwoners om, onder haar toezicht, gewonden en zieken vrijwillig op te nemen en te verzorgen; aan de personen die aan dit beroep gehoor hebben gegeven, zullen zij de nodige bescherming en faciliteiten verlenen. Ingeval de tegenpartij de streek in haar macht mocht krijgen of herkrijgen, zal zij de aan deze personen verleende bescherming en faciliteiten handhaven.
 
@@ -194,21 +218,21 @@ De bepalingen van dit artikel ontheffen de bezettende Mogendheid niet van de ver
 
 ### HOOFDSTUK III. Van de geneeskundige formaties en inrichtingen
 
-#### Artikel 19
+##### Artikel 19
 
 De vaste inrichtingen en de mobiele geneeskundige formaties van de Geneeskundige Dienst mogen onder geen omstandigheid worden aangevallen, doch moeten te allen tijde door de Partijen bij het conflict worden ontzien en beschermd. Indien zij in handen van de tegenpartij vallen, moeten zij in werking kunnen blijven zolang deze Partij de nodige verzorging van de gewonden en zieken die zich in deze inrichtingen en formaties bevinden, niet zelf heeft verzekerd.
 
 De verantwoordelijke autoriteiten zullen zorg dragen, dat bovengenoemde inrichtingen en geneeskundige formaties zich, voor zover mogelijk, op zodanige plaatsen bevinden, dat aanvallen op militaire doelen haar veiligheid niet in gevaar kunnen brengen.
 
-#### Artikel 20
+##### Artikel 20
 
 Hospitaalschepen welke recht hebben op de bescherming van het [Verdrag van Genève voor de verbetering van het lot der gewonden, zieken en schipbreukelingen van de strijdkrachten ter zee](https://wetten.overheid.nl/jci1.3:c:BWBV0005410), van 12 Augustus 1949, mogen niet van het land af worden aangevallen.
 
-#### Artikel 21
+##### Artikel 21
 
 De bescherming waarop de vaste inrichtingen en de mobiele geneeskundige formaties van de Geneeskundige Dienst recht hebben, zal niet eindigen, tenzij daarvan, buiten haar menslievende taak, gebruik wordt gemaakt voor het plegen van voor de vijand schadelijke handelingen. De bescherming zal echter eerst eindigen na een sommatie waarbij, in alle daarvoor in aanmerking komende gevallen, een redelijke termijn is gesteld en waaraan geen gevolg is gegeven.
 
-#### Artikel 22
+##### Artikel 22
 
 Als redenen welke een geneeskundige formatie of inrichting de door artikel 19 verzekerde bescherming doen verliezen, worden niet beschouwd:
 
@@ -222,7 +246,7 @@ Als redenen welke een geneeskundige formatie of inrichting de door artikel 19 ve
 
 - 5. het feit, dat de menslievende werkzaamheden van de geneeskundige formaties en inrichtingen of van haar personeel zich uitstrekken tot de verzorging van burgergewonden of -zieken.
 
-#### Artikel 23
+##### Artikel 23
 
 In tijd van vrede kunnen de Hoge Verdragsluitende Partijen en, na het uitbreken der vijandelijkheden, de Partijen bij het conflict, op haar eigen grondgebied en, zo nodig, in bezet gebied, hospitalisatiegebieden en -plaatsen instellen, zodanig ingericht, dat zij aan de gewonden en zieken en aan het personeel, belast met de organisatie en het beheer van deze gebieden en plaatsen en met de verzorging van de daarin bijeengebrachte personen, bescherming bieden tegen het oorlogsgeweld.
 
@@ -232,21 +256,21 @@ De beschermende Mogendheden en het Internationale Comité van het Rode Kruis wor
 
 ### HOOFDSTUK IV. Van het personeel
 
-#### Artikel 24
+##### Artikel 24
 
 Het geneeskundig personeel, uitsluitend belast met het opzoeken, verzamelen, vervoeren of behandelen van gewonden en zieken of met het voorkomen van ziekten, het personeel, uitsluitend belast met het beheer van geneeskundige formaties en inrichtingen, alsmede de aan de strijdkrachten verbonden geestelijken, moeten onder alle omstandigheden worden ontzien en beschermd.
 
-#### Artikel 25
+##### Artikel 25
 
 Militairen, speciaal opgeleid om eventueel als hulpziekenverpleger of hulpziekendrager te worden gebruikt voor het opzoeken, verzamelen, vervoeren of behandelen van gewonden en zieken, moeten eveneens worden ontzien en beschermd indien zij deze werkzaamheden verrichten op het ogenblik, dat zij met de vijand in aanraking komen of in diens handen vallen.
 
-#### Artikel 26
+##### Artikel 26
 
 Met het in artikel 24 bedoelde personeel wordt gelijkgesteld het personeel van de nationale Rode Kruis Verenigingen en dat van andere door haar Regering erkende en toegelaten verenigingen tot vrijwillige hulpverlening, dat wordt gebruikt voor dezelfde werkzaamheden als het in genoemd artikel bedoelde personeel, mits het personeel dezer verenigingen onderworpen is aan de militaire wetten en reglementen.
 
 Iedere Hoge Verdragsluitende Partij zal de andere Partij, hetzij reeds in tijd van vrede, hetzij bij het begin van of gedurende de vijandelijkheden, in ieder geval alvorens daarvan enig werkelijk gebruik te maken, in kennis stellen met de namen der verenigingen die zij toegelaten heeft om, onder haar verantwoordelijkheid, aan de officiële geneeskundige dienst van haar strijdkrachten medewerking te verlenen.
 
-#### Artikel 27
+##### Artikel 27
 
 Een erkende vereniging van een onzijdig land kan de medewerking van haar personeel en geneeskundige formaties aan een Partij bij het conflict slechts verlenen na voorafgaande goedkeuring van haar eigen Regering en met machtiging van de betrokken Partij bij het conflict. Dit personeel en deze formaties zullen onder het toezicht van die Partij bij het conflict worden gesteld.
 
@@ -256,7 +280,7 @@ Onder geen omstandigheid mag deze medewerking als een inmenging in het conflict 
 
 De leden van het in het eerste lid bedoelde personeel moeten, vóór zij het onzijdige land waartoe zij behoren, verlaten, behoorlijk worden voorzien van de identiteitsbewijzen, bedoeld in artikel 40.
 
-#### Artikel 28
+##### Artikel 28
 
 Het in de artikelen 24 en 26 genoemde personeel zal, indien het in handen van de tegenpartij valt, slechts worden aangehouden voor zover de gezondheidstoestand, de geestelijke behoeften en het aantal der krijgsgevangenen zulks vereisen.
 
@@ -272,11 +296,11 @@ Gedurende de vijandelijkheden zullen de Partijen bij het conflict zich met elkan
 
 Geen der voorgaande bepalingen ontheft de gevangenhoudende Mogendheid van de verplichtingen welke op haar rusten met betrekking tot de geneeskundige en geestelijke verzorging van de krijgsgevangenen.
 
-#### Artikel 29
+##### Artikel 29
 
 Het in artikel 25 genoemde personeel dat in handen van de vijand is gevallen, zal als krijgsgevangen worden beschouwd, maar zal, voor zover de noodzaak zich daartoe doet gevoelen, voor geneeskundige werkzaamheden worden gebruikt.
 
-#### Artikel 30
+##### Artikel 30
 
 Leden van het personeel wier aanhouding niet noodzakelijk is krachtens de bepalingen van artikel 28, zullen worden teruggezonden naar de Partij bij het conflict, tot welke zij behoren, zodra een weg voor hun terugkeer openstaat en de militaire vereisten zulks toelaten.
 
@@ -284,13 +308,13 @@ In afwachting van hun terugzending zullen zij niet als krijgsgevangenen worden b
 
 Bij hun vertrek zullen zij hun goederen, persoonlijke bezittingen, voorwerpen van waarde en de instrumenten welke hun toebehoren, medenemen.
 
-#### Artikel 31
+##### Artikel 31
 
 De keuze van het personeel dat krachtens artikel 30 wordt teruggezonden, zal worden gedaan met uitsluiting van iedere overweging, gegrond op ras, godsdienst of politieke overtuiging, bij voorkeur overeenkomstig de chronologische volgorde van hun gevangenneming en hun gezondheidstoestand.
 
 Van het uitbreken der vijandelijkheden af, kunnen de Partijen bij het conflict bij bijzondere overeenkomst het percentage vaststellen van het in verhouding tot het aantal krijgsgevangenen aan te houden personeel, alsmede de verdeling van dit personeel over de kampen.
 
-#### Artikel 32
+##### Artikel 32
 
 De in artikel 27 genoemde personen die in handen van de tegenpartij zijn gevallen, mogen niet worden aangehouden.
 
@@ -304,7 +328,7 @@ De Partijen bij het conflict zullen aan dit personeel, zolang het zich in haar m
 
 ### HOOFDSTUK V. Van de gebouwen en het materieel
 
-#### Artikel 33
+##### Artikel 33
 
 Het materieel van de mobiele geneeskundige formaties van de strijdkrachten, welke in handen van de vijand vallen, zal bestemd blijven voor de verzorging van gewonden en zieken.
 
@@ -312,7 +336,7 @@ De gebouwen, het materieel en de voorraden der vaste geneeskundige inrichtingen 
 
 Het materieel en de voorraden, bedoeld in dit artikel, mogen niet opzettelijk worden vernietigd.
 
-#### Artikel 34
+##### Artikel 34
 
 De roerende en onroerende goederen der verenigingen tot hulpverlening, aan wie de bij het Verdrag geregelde bevoorrechte positie is verleend, worden als particulier eigendom beschouwd.
 
@@ -320,7 +344,7 @@ Het door de wetten en gebruiken van de oorlog aan de oorlogvoerenden toegekend r
 
 ### HOOFDSTUK VI. Van de geneeskundige transporten
 
-#### Artikel 35
+##### Artikel 35
 
 Transporten van gewonden en zieken of van geneeskundig materieel moeten op dezelfde wijze worden ontzien en beschermd als mobiele geneeskundige formaties.
 
@@ -328,7 +352,7 @@ Wanneer deze transporten of voertuigen in handen van de tegenpartij vallen, zull
 
 Het burgerpersoneel en alle door vordering verkregen vervoermiddelen zullen aan de algemene regelen van het volkenrecht onderworpen zijn.
 
-#### Artikel 36
+##### Artikel 36
 
 Hospitaalvliegtuigen, waaronder te verstaan vliegtuigen welke uitsluitend worden gebruikt voor de evacuatie van gewonden en zieken dan wel voor het vervoer van geneeskundig personeel en materieel, mogen niet worden aangevallen, maar moeten door de oorlogvoerenden worden ontzien zolang zij vliegen op hoogten, op tijden en volgens routes, zoals deze uitdrukkelijk bij overeenkomst tussen alle betrokken oorlogvoerenden zijn vastgesteld.
 
@@ -340,7 +364,7 @@ Hospitaalvliegtuigen moeten aan iedere sommatie om te landen gevolg geven. In ge
 
 In geval van een noodlanding op vijandelijk of door de vijand bezet gebied zullen de gewonden en zieken, evenals de bemanning van het vliegtuig, krijgsgevangenen zijn. Het geneeskundig personeel zal worden behandeld overeenkomstig artikel 24 en volgende.
 
-#### Artikel 37
+##### Artikel 37
 
 De hospitaalvliegtuigen van de Partijen bij het conflict mogen, behoudens het bepaalde in het tweede lid, over het grondgebied van onzijdige Mogendheden vliegen, daarop in geval van nood landen of een tussenlanding maken. Zij moeten de onzijdige Mogendheden tevoren in kennis stellen met hun vlucht over het betrokken grondgebied en aan iedere sommatie om te landen of op het water neer te strijken gevolg geven. Zij mogen niet worden aangevallen zolang zij vliegen op hoogten, op tijden en volgens routes, zoals deze uitdrukkelijk bij overeenkomst tussen de Partijen bij het conflict en de betrokken onzijdige Mogendheden zijn vastgesteld.
 
@@ -350,17 +374,17 @@ Tenzij tussen de onzijdige Staat en de Partijen bij het conflict anders is overe
 
 ### HOOFDSTUK VII. Van het kenteken
 
-#### Artikel 38
+##### Artikel 38
 
 Als hulde aan Zwitserland wordt het heraldieke teken van het rode kruis op wit veld, gevormd door het verwisselen van de bondskleuren, als embleem en kenteken van de Geneeskundige Dienst der legers gehandhaafd.
 
 Evenwel worden voor de landen die reeds, in plaats van het rode kruis, de rode halve maan of de rode leeuw en zon op wit veld als kenteken gebruiken, deze emblemen eveneens in de zin van dit Verdrag erkend.
 
-#### Artikel 39
+##### Artikel 39
 
 Onder toezicht van de bevoegde militaire autoriteit, zal het embleem worden gevoerd op de vlaggen, de armbanden en op al het door de Geneeskundige Dienst gebruikte materieel.
 
-#### Artikel 40
+##### Artikel 40
 
 Het personeel, bedoeld in artikel 24 en in de artikelen 26 en 27, zal een door de bevoegde militaire autoriteit verstrekte en gestempelde band welke tegen vocht bestand is en voorzien is van het kenteken, aan de linkerarm vastgehecht, dragen.
 
@@ -370,13 +394,13 @@ De identiteitskaart moet voor iedere krijgsmacht van één standaardmodel zijn e
 
 In geen geval mogen aan het hierboven bedoelde personeel de onderscheidingstekenen of de identiteitskaart worden ontnomen, noch het recht worden ontzegd de armband te dragen. Bij verlies heeft dit personeel recht op verstrekking van een duplicaat van de kaart en op vervanging van de onderscheidingstekenen.
 
-#### Artikel 41
+##### Artikel 41
 
 Het in artikel 25 bedoelde personeel zal, echter uitsluitend bij het verrichten van zijn geneeskundige werkzaamheden, een witte armband dragen, waarop in het midden het kenteken in verkleinde afmetingen voorkomt; deze band zal worden verstrekt en gestempeld door de bevoegde militaire autoriteit.
 
 Op de militaire identiteitsbewijzen welke dit personeel draagt, zullen de door de houder ontvangen geneeskundige opleiding, het tijdelijke karakter van zijn werkzaamheden en zijn recht tot het dragen van de armband nauwkeurig worden aangegeven.
 
-#### Artikel 42
+##### Artikel 42
 
 De onderscheidingsvlag van het Verdrag mag slechts worden gevoerd door de geneeskundige formaties en inrichtingen welke krachtens het Verdrag worden beschermd, en uitsluitend met toestemming van de militaire autoriteiten.
 
@@ -386,13 +410,13 @@ Geneeskundige formaties welke in handen van de vijand zijn gevallen, mogen echte
 
 Voor zover de militaire vereisten zulks toelaten, zullen de Partijen bij het conflict de nodige maatregelen nemen om de kentekenen welke de geneeskundige formaties en inrichtingen aanduiden, duidelijk zichtbaar te maken voor de vijandelijke strijdkrachten te land, in de lucht en ter zee, ten einde iedere mogelijkheid van een aanval te voorkomen.
 
-#### Artikel 43
+##### Artikel 43
 
 De geneeskundige formaties van onzijdige landen, welke op de in artikel 27 bedoelde voorwaarden zijn toegelaten om haar diensten aan een oorlogvoerende te verlenen, moeten, naast de vlag van het Verdrag, de nationale vlag van deze oorlogvoerende voeren, indien deze gebruik maakt van de bevoegdheid welke artikel 42 hem verleent.
 
 Behoudens tegenbevel van de bevoegde militaire autoriteiten, mogen zij onder alle omstandigheden haar nationale vlag voeren, zelfs indien zij in handen van de tegenpartij vallen.
 
-#### Artikel 44
+##### Artikel 44
 
 Met uitzondering van de in de volgende leden van dit artikel bedoelde gevallen, mogen het embleem van het rode kruis op wit veld en de woorden „Rode Kruis” of „Kruis van Genève”, zowel in tijd van vrede als in tijd van oorlog, slechts worden gebruikt tot aanduiding of bescherming van de geneeskundige formaties en inrichtingen en van het personeel en materieel welke worden beschermd door dit Verdrag of door andere, soortgelijke aangelegenheden regelende, internationale Verdragen. Hetzelfde geldt voor de in artikel 38, lid twee, bedoelde emblemen met betrekking tot de landen die deze gebruiken. De nationale Rode Kruis Verenigingen en de andere in artikel 26 bedoelde verenigingen hebben slechts binnen het kader van de bepalingen van dit lid het recht om het de bescherming van het Verdrag verlenende kenteken te gebruiken.
 
@@ -404,25 +428,25 @@ Bij wijze van uitzondering, overeenkomstig de nationale wetgeving en met uitdruk
 
 ### HOOFDSTUK VIII. Van de tenuitvoerlegging van het Verdrag
 
-#### Artikel 45
+##### Artikel 45
 
 Iedere Partij bij het conflict zal, door tussenkomst van haar opperbevelhebbers, nadere voorzieningen treffen voor de uitvoering van de voorgaande artikelen, alsmede voor onvoorziene gevallen, overeenkomstig de algemene beginselen van dit Verdrag.
 
-#### Artikel 46
+##### Artikel 46
 
 Represaillemaatregelen ten aanzien van gewonden, zieken, personeel, gebouwen of materieel, beschermd door het Verdrag, zijn verboden.
 
-#### Artikel 47
+##### Artikel 47
 
 De Hoge Verdragsluitende Partijen verbinden zich de tekst van dit Verdrag, zowel in tijd van vrede als in tijd van oorlog, zo ruim mogelijk in haar onderscheiden landen te verspreiden en in het bijzonder de bestudering daarvan in de programma's van haar militaire en, zo mogelijk, burgerlijke opleiding op te nemen, zodat de beginselen daarvan aan de gehele bevolking, in het bijzonder aan de strijdende troepen, het geneeskundig personeel en de geestelijken, bekend worden.
 
-#### Artikel 48
+##### Artikel 48
 
 De Hoge Verdragsluitende Partijen zullen elkander door tussenkomst van de Zwitserse Bondsraad en, tijdens de vijandelijkheden, door tussenkomst van de beschermende Mogendheden de officiële vertalingen van dit Verdrag mededelen, benevens de wetten en voorschriften welke zij mochten aannemen om de toepassing daarvan te verzekeren.
 
 ### HOOFDSTUK IX. Van het tegengaan van misbruiken en inbreuken
 
-#### Artikel 49
+##### Artikel 49
 
 De Hoge Verdragsluitende Partijen verbinden zich alle wettelijke regelingen tot stand te brengen, nodig om doeltreffende strafbepalingen vast te stellen voor personen die één der ernstige inbreuken op dit Verdrag, omschreven in het volgend artikel, hebben gepleegd, dan wel bevel tot het plegen daarvan hebben gegeven.
 
@@ -432,15 +456,15 @@ Iedere Hoge Verdragsluitende Partij zal maatregelen nemen, nodig om de met de be
 
 Onder alle omstandigheden zullen de verdachten de waarborgen genieten voor een behoorlijke berechting en verdediging, welke niet minder gunstig mogen zijn dan die, voorgeschreven in [artikel 105 en volgende van het Verdrag van Genève betreffende de behandeling van krijgsgevangenen](https://wetten.overheid.nl/jci1.3:c:BWBV0005584&artikel=105), van 12 Augustus 1949.
 
-#### Artikel 50
+##### Artikel 50
 
 De ernstige inbreuken, bedoeld in het voorgaand artikel, zijn die welke één der volgende handelingen in zich sluiten, indien deze worden gepleegd tegen door het Verdrag beschermde personen of goederen: opzettelijke levensberoving, marteling of onmenselijke behandeling, waaronder begrepen biologische proefnemingen, het moedwillig veroorzaken van hevig lijden, van ernstig lichamelijk letsel, dan wel van ernstige schade aan de gezondheid, vernieling en toeëigening van goederen, niet gerechtvaardigd door militaire noodzaak en uitgevoerd op grote schaal en op onrechtmatige en moedwillige wijze.
 
-#### Artikel 51
+##### Artikel 51
 
 Geen der Hoge Verdragsluitende Partijen mag zich zelf of een andere Hoge Verdragsluitende Partij onttrekken aan enige op haar of op een andere Hoge Verdragsluitende Partij rustende aansprakelijkheid op grond van de in het voorgaand artikel bedoelde inbreuken.
 
-#### Artikel 52
+##### Artikel 52
 
 Op verzoek van een Partij bij het conflict moet, op een door de belanghebbende Partijen overeen te komen wijze, een onderzoek worden ingesteld naar iedere beweerde schending van het Verdrag.
 
@@ -448,7 +472,7 @@ Indien geen overeenstemming over de procedure van het onderzoek wordt bereikt, z
 
 Wanneer de schending is vastgesteld, zullen de Partijen bij het conflict daaraan een einde maken en deze zo spoedig mogelijk bestraffen.
 
-#### Artikel 53
+##### Artikel 53
 
 Het is te allen tijde verboden, dat particulieren, verenigingen of vennootschappen, zowel publieke als particuliere, die daartoe krachtens dit Verdrag niet zijn gerechtigd, gebruik maken van het embleem of de benaming „Rode Kruis” of „Kruis van Genève”, evenals van ieder teken of iedere benaming welke daarvan een nabootsing is, overschillig het doel van dit gebruik en het ogenblik waarop dit een aanvang heeft genomen.
 
@@ -458,53 +482,53 @@ Echter kunnen de Hoge Verdragsluitende Partijen die geen partij waren bij het Ve
 
 Het verbod, vervat in het eerste lid van dit artikel, geldt, zonder van invloed te zijn op de door eerder gebruik verkregen rechten, eveneens voor de in het tweede lid van artikel 38 bedoelde emblemen en benamingen.
 
-#### Artikel 54
+##### Artikel 54
 
 De Hoge Verdragsluitende Partijen zullen, indien haar wetgeving thans daarin nog niet volledig voorziet, maatregelen nemen, nodig om te allen tijde misbruik, bedoeld in artikel 53, tegen te gaan en te bestraffen.
 
 ### Slotbepalingen
 
-#### Artikel 55
+##### Artikel 55
 
 Dit Verdrag is opgesteld in de Franse en de Engelse taal. Beide teksten zijn gelijkelijk authentiek.
 
 De Zwitserse Bondsraad zal officiële vertalingen van het Verdrag in de Russische en de Spaanse taal doen opstellen.
 
-#### Artikel 56
+##### Artikel 56
 
 Dit Verdrag, hetwelk de datum van deze dag draagt, kan tot 12 Februari 1950 worden ondertekend uit naam van alle Mogendheden die vertegenwoordigd waren op de Conferentie welke te Genève op 21 April 1949 werd geopend, zomede uit naam van de niet op deze Conferentie vertegenwoordigde Mogendheden die partij zijn bij de Verdragen van Genève van 1864, van 1906 of van 1929, voor de verbetering van het lot der gewonden en zieken, zich bevindende bij de legers te velde.
 
-#### Artikel 57
+##### Artikel 57
 
 Dit Verdrag zal zo spoedig mogelijk worden bekrachtigd en de akten van bekrachtiging zullen worden nedergelegd te Bern.
 
 Van de nederlegging van iedere akte van bekrachtiging zal een proces-verbaal worden opgemaakt, waarvan een voor eensluidend gewaarmerkt afschrift door de Zwitserse Bondsraad zal worden toegezonden aan alle Mogendheden uit wier naam het Verdrag is ondertekend of de toetreding is medegedeeld.
 
-#### Artikel 58
+##### Artikel 58
 
 Dit Verdrag zal in werking treden zes maanden nadat ten minste twee akten van bekrachtiging zijn nedergelegd.
 
 Daarna zal het Verdrag voor iedere Hoge Verdragsluitende Partij in werking treden zes maanden na het nederleggen van haar akte van bekrachtiging.
 
-#### Artikel 59
+##### Artikel 59
 
 Dit Verdrag vervangt in de betrekkingen tussen de Hoge Verdragsluitende Partijen de Verdragen van 22 Augustus 1864, van 6 Juli 1906 en van 27 Juli 1929.
 
-#### Artikel 60
+##### Artikel 60
 
 Van de datum van zijn inwerkingtreding af zal dit Verdrag openstaan voor toetreding door iedere Mogendheid uit wier naam het Verdrag niet is ondertekend.
 
-#### Artikel 61
+##### Artikel 61
 
 Toetredingen zullen schriftelijk worden medegedeeld aan de Zwitserse Bondsraad en worden zes maanden na de datum waarop zij de Bondsraad hebben bereikt, van kracht.
 
 De Zwitserse Bondsraad zal de toetredingen mededelen aan alle Mogendheden uit wier naam het Verdrag is ondertekend of de toetreding is medegedeeld.
 
-#### Artikel 62
+##### Artikel 62
 
 De in de artikelen 2 en 3 bedoelde omstandigheden zullen de door de Partijen bij het conflict voor of na het begin van de vijandelijkheden of van de bezetting nedergelegde akten van bekrachtiging en medegedeelde toetredingen onmiddellijk in werking doen treden. De Zwitserse Bondsraad zal langs de snelste weg mededeling doen van de van Partijen bij het conflict ontvangen akten van bekrachtiging of toetredingen.
 
-#### Artikel 63
+##### Artikel 63
 
 Ieder der Hoge Verdragsluitende Partijen heeft de bevoegdheid dit Verdrag op te zeggen.
 
@@ -514,25 +538,25 @@ De opzegging wordt van kracht één jaar nadat daarvan kennis is gegeven aan de 
 
 De opzegging zal slechts gelden ten aanzien van de opzeggende Mogendheid. Zij zal geen enkele invloed hebben op de verplichtingen welke de Partijen bij het conflict gehouden zijn te blijven vervullen krachtens de beginselen van het volkenrecht, zoals deze voortvloeien uit de tussen beschaafde volken gevestigde gebruiken, de wetten der menselijkheid en de eisen van het openbaar rechtsbewustzijn.
 
-#### Artikel 64
+##### Artikel 64
 
 De Zwitserse Bondsraad zal dit Verdrag doen registreren bij het Secretariaat van de Verenigde Naties. De Zwitserse Bondsraad zal eveneens aan het Secretariaat van de Verenigde Naties mededeling doen van alle bekrachtigingen, toetredingen en opzeggingen welke de Bondsraad ontvangt in verband met dit Verdrag.
 
-#### Artikel 1
+##### Artikel 1
 
 De hospitalisatiegebieden zullen uitsluitend bestemd zijn voor personen, genoemd in artikel 23 van het Verdrag van Genève voor de verbetering van het lot der gewonden en zieken, zich bevindende bij de strijdkrachten te velde, van 12 Augustus 1949, alsmede voor het personeel, belast met de organisatie en het beheer van deze gebieden en plaatsen en met de verzorging van de daarin bijeengebrachte personen.
 
 Echter hebben de personen die hun vaste woonplaats in deze gebieden hebben, het recht daar te blijven.
 
-#### Artikel 2
+##### Artikel 2
 
 Personen die zich, in welke hoedanigheid ook, in een hospitalisatiegebied bevinden, mogen noch binnen noch buiten dit gebied enige werkzaamheid verrichten, welke rechtstreeks verband houdt met de krijgsverrichtingen of met de vervaardiging van oorlogsmaterieel.
 
-#### Artikel 3
+##### Artikel 3
 
 De Mogendheid die een hospitalisatiegebied instelt, zal alle nodige maatregelen nemen om de toegang te ontzeggen aan alle personen die niet gerechtigd zijn het te betreden of zich aldaar te bevinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Hospitalisatiegebieden moeten aan de volgende voorwaarden voldoen:
 
@@ -544,7 +568,7 @@ Hospitalisatiegebieden moeten aan de volgende voorwaarden voldoen:
 
 - d. zij mogen niet gelegen zijn in streken welke, naar alle waarschijnlijkheid, van belang kunnen worden voor de oorlogvoering.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor hospitalisatiegebieden gelden de volgende verplichtingen:
 
@@ -552,13 +576,13 @@ Voor hospitalisatiegebieden gelden de volgende verplichtingen:
 
 - b. zij mogen onder geen omstandigheid militair worden verdedigd.
 
-#### Artikel 6
+##### Artikel 6
 
 Hospitalisatiegebieden zullen worden aangeduid door langs de omtrek en op de gebouwen aangebrachte rode kruizen (rode halve manen, rode leeuwen en zonnen) op wit veld.
 
 Des nachts kunnen zij eveneens door een passende verlichting worden aangeduid.
 
-#### Artikel 7
+##### Artikel 7
 
 Iedere Mogendheid zal in tijd van vrede of bij het uitbreken der vijandelijkheden aan alle Hoge Verdragsluitende Partijen een lijst van de hospitalisatiegebieden, ingesteld op het onder haar gezag staand grondgebied, doen toekomen. Zij zal eveneens kennis geven van ieder nieuw hospitalisatiegebied dat gedurende de vijandelijkheden wordt ingesteld.
 
@@ -566,33 +590,33 @@ Zodra de tegenpartij de hierboven vermelde kennisgeving heeft ontvangen, is het 
 
 Indien evenwel de tegenpartij van oordeel is, dat aan één van de voorwaarden van deze overeenkomst niet is voldaan, kan zij weigeren dit gebied te erkennen door zulks onmiddellijk te berichten aan de Partij, die verantwoordelijk is voor het bedoelde gebied, dan wel haar erkenning afhankelijk maken van de instelling van het toezicht, bedoeld in artikel 8.
 
-#### Artikel 8
+##### Artikel 8
 
 Iedere Mogendheid die één of meer door de tegenpartij ingestelde hospitalisatiegebieden heeft erkend, heeft het recht te eisen, dat één of meer bijzondere commissies toezien of de gebieden aan de in deze overeenkomst voorgeschreven voorwaarden en verplichtingen voldoen.
 
 Te dien einde hebben de leden van de bijzondere commissies te allen tijde vrije toegang tot de verschillende gebieden en kunnen daar zelfs permanent verblijf houden. Ten behoeve van de uitoefening van hun toezicht zullen hun alle faciliteiten worden verleend.
 
-#### Artikel 9
+##### Artikel 9
 
 Ingeval de bijzondere commissies feiten zouden vaststellen welke hun in strijd met de bepalingen van deze overeenkomst voorkomen, zullen zij onmiddellijk de aandacht van de Mogendheid die het betreffende gebied beheert, daarop vestigen en haar een termijn van ten hoogste vijf dagen toestaan om in de aangelegenheid te voorzien; zij zullen de Mogendheid die het gebied heeft erkend, daarmede in kennis stellen.
 
 Indien, na verloop van deze termijn, de Mogendheid die het gebied onder haar gezag heeft, geen gevolg heeft gegeven aan de tot haar gerichte waarschuwing, kan de tegenpartij verklaren, dat zij, wat betreft dit gebied, niet langer door deze overeenkomst is gebonden.
 
-#### Artikel 10
+##### Artikel 10
 
 De Mogendheid die één of meer hospitalisatiegebieden en -plaatsen heeft ingesteld, en de tegenpartijen die met het bestaan daarvan in kennis zijn gesteld, zullen de personen benoemen die deel zullen uitmaken van de in de artikelen 8 en 9 bedoelde bijzondere commissies, of hen door onzijdige Mogendheden doen benoemen.
 
-#### Artikel 11
+##### Artikel 11
 
 Hospitalisatiegebieden mogen onder geen omstandigheid worden aangevallen, maar moeten te allen tijde door de Partijen bij het conflict worden beschermd en ontzien.
 
-#### Artikel 12
+##### Artikel 12
 
 In geval van bezetting van een grondgebied, moet men de zich daarin bevindende hospitalisatiegebieden blijven ontzien; deze moeten als zodanig in gebruik blijven.
 
 De bezettende Mogendheid mag evenwel de bestemming daarvan wijzigen, mits alle maatregelen zijn genomen om de veiligheid van de daarin bijeengebrachte personen te verzekeren.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze overeenkomst is eveneens van toepassing op plaatsen welke de Mogendheden voor dezelfde doeleinden als hospitalisatiegebieden zouden gebruiken.
 

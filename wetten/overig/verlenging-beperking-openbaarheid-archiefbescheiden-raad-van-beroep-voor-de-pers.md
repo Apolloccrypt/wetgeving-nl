@@ -1,13 +1,37 @@
 ---
 title: "Verlenging beperking openbaarheid archiefbescheiden Raad van Beroep voor de Perszuivering"
 identifier: "BWBR0013491"
-categorie: "Overig"
-publicatiedatum: 2002-05-01
-laatste_update: 2002-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013491"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-05-01"
+last_updated: "2002-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013491"
+soort: "ministeriele-regeling"
+stam_id: "4091773"
+version_id: "5845452"
+internal_id: "C6048281"
+label_id: "4071564"
+dtd_version: "2.0"
+original_entry_into_force: "2002-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013491/2002-05-01/0"
+intitule_bron: "Stcrt.2002-48"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-03-06"
+intitule_published: "2002-03-08"
+intitule_in_force: "2002-03-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-48"
+original_signed_date: "2002-03-06"
+original_published_date: "2002-03-08"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-05-01"
+jci_1_3: "jci1.3:c:BWBR0013491&z=2002-05-01&g=2002-05-01"
+jci_1_0: "1.0:c:BWBR0013491&g=2002-05-01"
+citeertitel_status: "officieel"
+signed_date: "2002-03-06"
+entry_into_force: "2002-05-01"
 ---
-
 # Verlenging beperking openbaarheid archiefbescheiden Raad van Beroep voor de Perszuivering
 
 Overwegende:
@@ -22,15 +46,15 @@ Gelet op [artikel 15, tweede lid, van de Archiefwet 1995](https://wetten.overhei
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het archief van de Raad van Beroep voor de Perszuivering 1947-1951 mag tot 1 januari 2011 alleen worden geraadpleegd na voorafgaande schriftelijke toestemming van de directeur van het Algemeen Rijksarchief. Voor publicatie van gegevens uit deze bescheiden is eveneens vooraf schriftelijke toestemming van de directeur van het Algemeen Rijksarchief vereist.
 
-#### Artikel 2
+##### Artikel 2
 
 Een beslissing, houdende weigering tot het verlenen van toestemming, wordt met redenen omkleed.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit, dat zal worden gepubliceerd in de Nederlandse Staatscourant, werkt terug tot 1 januari 2002.
 

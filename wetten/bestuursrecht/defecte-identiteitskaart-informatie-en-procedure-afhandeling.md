@@ -1,13 +1,37 @@
 ---
 title: "Defecte identiteitskaart: informatie en procedure-afhandeling"
 identifier: "BWBR0008702"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-05-29
-laatste_update: 1997-05-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008702"
+country: "nl"
+rank: "circulaire"
+publication_date: "1997-05-29"
+last_updated: "1997-05-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008702"
+soort: "circulaire"
+stam_id: "6336133"
+version_id: "10990082"
+internal_id: "C14882131"
+label_id: "6325024"
+original_entry_into_force: "1997-05-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008702/1997-05-29/0"
+intitule_bron: "Stcrt.1997-113"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-05-29"
+intitule_published: "1997-06-18"
+intitule_in_force: "1997-06-18"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-113"
+original_signed_date: "1997-05-29"
+original_published_date: "1997-06-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1997-113-p10-SC9604"
+entry_into_force_date: "1997-05-29"
+jci_1_3: "jci1.3:c:BWBR0008702&z=1997-05-29&g=1997-05-29"
+jci_1_0: "1.0:c:BWBR0008702&g=1997-05-29"
+citeertitel_status: "redactioneel"
+signed_date: "1997-05-29"
+entry_into_force: "1997-05-29"
 ---
-
 # Defecte identiteitskaart: informatie en procedure-afhandeling
 
 Circulaire aan de burgemeesters

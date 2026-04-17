@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling digitale school 2024"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 5 juni 2024, nr. 46087565 houdende regels voor het verstrekken van subsidie aan initiatieven in het kader van digitaal afstandsonderwijs 2024 (Subsidieregeling digitale school 2024)"
 identifier: "BWBR0049795"
-categorie: "Onderwijs"
-publicatiedatum: 2024-06-13
-laatste_update: 2024-06-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049795"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-13"
+last_updated: "2024-06-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049795"
+soort: "ministeriele-regeling"
+stam_id: "17125343"
+version_id: "30138272"
+internal_id: "C43178901"
+label_id: "17033864"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049795/2024-06-13/0"
+intitule_bron: "Stcrt.2024-18956"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-05"
+intitule_published: "2024-06-12"
+intitule_in_force: "2024-06-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-18956"
+original_signed_date: "2024-06-05"
+original_published_date: "2024-06-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-18956"
+entry_into_force_date: "2024-06-13"
+jci_1_3: "jci1.3:c:BWBR0049795&z=2024-06-13&g=2024-06-13"
+jci_1_0: "1.0:c:BWBR0049795&g=2024-06-13"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling digitale school 2024"
+signed_date: "2024-06-05"
+entry_into_force: "2024-06-13"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 5 juni 2024, nr. 46087565 houdende regels voor het verstrekken van subsidie aan initiatieven in het kader van digitaal afstandsonderwijs 2024 (Subsidieregeling digitale school 2024)
 
 Gelet op [artikel 71 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=71), [artikel 71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71) en [artikel 5.11 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.11);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -40,11 +66,11 @@ In deze regeling wordt verstaan onder:
 
 - **leerlingen in het voortgezet onderwijs:** leerlingen op de vestigingen van de scholen binnen het samenwerkingsverband, bedoeld in [artikel 2.47, tweede of achttiende lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.47).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Te subsidiëren activiteiten
+##### Artikel 3. Te subsidiëren activiteiten
 
 De minister kan op grond van deze regeling subsidie verstrekken voor:
 
@@ -52,19 +78,19 @@ De minister kan op grond van deze regeling subsidie verstrekken voor:
 
 - b. het uitvoeren van de afspraken uit dit plan van aanpak tot en met het schooljaar 2027–2028.
 
-#### Artikel 4. Coalitievorming
+##### Artikel 4. Coalitievorming
 
 1. Een coalitie bestaat uit minimaal één school, vertegenwoordigd door het bevoegd gezag, en twee samenwerkingsverbanden, welke geografisch een logische samenhang hebben.
 
 2. Een samenwerkingsverband kan bij ten hoogste één coalitie aansluiten.
 
-#### Artikel 5. Beschikbaar bedrag
+##### Artikel 5. Beschikbaar bedrag
 
 1. In 2024 is voor subsidieverstrekking op grond van deze regeling in totaal € 23.520.000,– beschikbaar.
 
 2. Per aanvraag is € 1.470.000,– beschikbaar.
 
-#### Artikel 6. Subsidieaanvraag
+##### Artikel 6. Subsidieaanvraag
 
 1. De subsidieaanvraag kan door de penvoerder worden ingediend van 20 augustus 2024 vanaf 09.00 uur tot en met 20 september 2024 tot 15.00 uur. Aanvragen die op of na 20 september 2024 15.00 uur worden ingediend, worden afgewezen.
 
@@ -80,7 +106,7 @@ De minister kan op grond van deze regeling subsidie verstrekken voor:
 
 3. Bij de aanvraag wordt een samenwerkingsovereenkomst gevoegd, die is opgesteld en ondertekend door degene die daartoe bevoegd is, met gebruikmaking van het model dat daartoe is bekendgemaakt op de website [www.dus-i.nl](http://www.dus-i.nl). De samenwerkingsovereenkomst bevat een ondertekende verklaring van alle partijen die deelnemen aan de coalitie dat de penvoerder gemachtigd is om hen in het kader van de subsidieverstrekking in en buiten rechte te vertegenwoordigen, en dat zij de gegevens die noodzakelijk zijn voor de verantwoording van de besteding van de subsidie op verzoek aan de penvoerder zullen verstrekken.
 
-#### Artikel 7. Selectie
+##### Artikel 7. Selectie
 
 1. De minister verstrekt aan ten hoogste 16 penvoerders subsidie op grond van deze regeling.
 
@@ -94,7 +120,7 @@ De minister kan op grond van deze regeling subsidie verstrekken voor:
 
 6. Voor de toepassing van dit artikel is bepalend welke provincie de penvoerder bij de aanvraag, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049795&artikel=6&z=2024-06-13&g=2024-06-13), heeft vermeld.
 
-#### Artikel 8. Verplichtingen subsidie
+##### Artikel 8. Verplichtingen subsidie
 
 1. De penvoerder zendt voor 21 april 2025 een plan van aanpak aan DUS-I, dat voldoet aan het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049795&artikel=9&z=2024-06-13&g=2024-06-13). Voor het indienen van het plan van aanpak wordt gebruik gemaakt van het format dat beschikbaar wordt gesteld op [www.dus-i.nl](http://www.dus-i.nl).
 
@@ -106,7 +132,7 @@ De minister kan op grond van deze regeling subsidie verstrekken voor:
 
 5. De penvoerder werkt mee aan een monitoringsbezoek in het kader van de voortgang van de digitale schoolvoorziening.
 
-#### Artikel 9. Plan van aanpak
+##### Artikel 9. Plan van aanpak
 
 1. Het plan van aanpak omvat:
 
@@ -122,7 +148,7 @@ De minister kan op grond van deze regeling subsidie verstrekken voor:
 
 2. Voor het plan van aanpak wordt gebruik gemaakt van het format dat is bekengemaakt op [www.dus-i.nl](http://www.dus-i.nl/).
 
-#### Artikel 10. Beoordeling plan van aanpak
+##### Artikel 10. Beoordeling plan van aanpak
 
 1. De minister meldt de penvoerder uiterlijk op 1 juli 2025 of het plan van aanpak, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049795&artikel=9&z=2024-06-13&g=2024-06-13), volledig en voldoende helder is. Hierbij wordt gebruik gemaakt van het beoordelingskader opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049795&bijlage=1&z=2024-06-13&g=2024-06-13), horende bij deze regeling.
 
@@ -130,7 +156,7 @@ De minister kan op grond van deze regeling subsidie verstrekken voor:
 
 3. Indien het plan van aanpak na afloop van de op basis van het tweede lid geboden herstelmogelijkheid niet is aangepast, of na aanpassing nog steeds niet voldoet aan de gestelde eisen, wordt de subsidie lager vastgesteld.
 
-#### Artikel 11. Verlening, vaststelling en verantwoording
+##### Artikel 11. Verlening, vaststelling en verantwoording
 
 1. Subsidie op grond van deze regeling wordt verleend binnen 13 weken na sluiting van de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049795&artikel=6&z=2024-06-13&g=2024-06-13), bedoelde aanvraagperiode.
 
@@ -148,13 +174,13 @@ De minister kan op grond van deze regeling subsidie verstrekken voor:
 
 8. Ten behoeve van de uitvoering van de subsidiabele activiteiten kunnen door de penvoerder subsidiemiddelen overgedragen worden aan een school of samenwerkingsverband.
 
-#### Artikel 12. Inwerkingtreding en vervaldatum
+##### Artikel 12. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na datum van de publicatie van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 juni 2029.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling digitale school 2024.
 

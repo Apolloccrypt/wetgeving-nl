@@ -1,14 +1,42 @@
 ---
-title: "Belastingplan 2025"
+title: "Wet van 18 december 2024 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2025)"
 identifier: "BWBR0050620"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050620"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050620"
+soort: "wet"
+stam_id: "17323873"
+version_id: "30525952"
+internal_id: "C43760871"
+label_id: "17228704"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050620/2026-01-01/0"
+intitule_bron: "Stb.2024-434"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-18"
+intitule_published: "2024-12-23"
+intitule_in_force: "2024-12-23"
+intitule_status: "goed"
+original_publication: "Stb.2024-434"
+original_signed_date: "2024-12-18"
+original_published_date: "2024-12-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "36602"
+original_url_id: "stb-2024-434"
+entry_into_force_date: "2025-01-01"
+entry_into_force_dossier: "36602"
+jci_1_3: "jci1.3:c:BWBR0050620&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0050620&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Belastingplan 2025"
+signed_date: "2024-12-18"
+entry_into_force: "2025-01-01"
 ---
-
-# Belastingplan 2025
+# Wet van 18 december 2024 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2025)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,265 +44,265 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is fiscale maatregelen 
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Vervallen
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel XIVA
+##### Artikel XIVA
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel XVA
+##### Artikel XVA
 
 Wijzigt de Wet aanpassing fiscale beleggingsinstelling.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Wet bronbelasting 2021.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Wet op de kansspelbelasting.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Wet op de kansspelbelasting.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel XXA
+##### Artikel XXA
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994 .
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Wet uitwerking Autobrief II.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt de Wet milieubeheer.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXX
+##### Artikel XXX
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXXIV
+##### Artikel XXXIV
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXXV
+##### Artikel XXXV
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXXVI
+##### Artikel XXXVI
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXXVII
+##### Artikel XXXVII
 
 **[Vervallen]**
 
-#### Artikel XXXVIII
+##### Artikel XXXVIII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXXIX
+##### Artikel XXXIX
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XL
+##### Artikel XL
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XLI
+##### Artikel XLI
 
 Wijzigt de Wet fiscale maatregelen Klimaatakkoord.
 
-#### Artikel XLII
+##### Artikel XLII
 
 Wijzigt de Wet fiscale klimaatmaatregelen glastuinbouw.
 
-#### Artikel XLIIA
+##### Artikel XLIIA
 
 Wijzigt de Wet waardering onroerende zaken.
 
-#### Artikel XLIII
+##### Artikel XLIII
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XLIV
+##### Artikel XLIV
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XLV
+##### Artikel XLV
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel XLVI
+##### Artikel XLVI
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel XLVII
+##### Artikel XLVII
 
 Wijzigt de Provinciewet.
 
-#### Artikel XLVIII
+##### Artikel XLVIII
 
 Wijzigt de Provinciewet.
 
-#### Artikel XLIX
+##### Artikel XLIX
 
 Wijzigt de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15.
 
-#### Artikel L
+##### Artikel L
 
 Wijzigt de Wet tijdelijke tolheffing blankenburgverbinding en ViA15.
 
-#### Artikel LI
+##### Artikel LI
 
 Wijzigt de Tunnelwet Westerschelde.
 
-#### Artikel LIA
+##### Artikel LIA
 
 Wijzigt de Wet van 26 juni 2024, houdende goedkeuring en uitvoering van het Protocol van 29 maart 2023 te Brussel tot wijziging van het Verdrag van 9 februari 1994 inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens.
 
-#### Artikel LII
+##### Artikel LII
 
 Wijzigt de Wet aanvullende fiscale koopkrachtmaatregelen 2022.
 
-#### Artikel LIII
+##### Artikel LIII
 
 Wijzigt de Belastingwet BES.
 
-#### Artikel LIIIA
+##### Artikel LIIIA
 
 Wijzigt de Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling.
 
-#### Artikel LIV
+##### Artikel LIV
 
 Wijzigt het Belastingplan 2019.
 
-#### Artikel LV
+##### Artikel LV
 
 Wijzigt het Belastingplan 2023.
 
-#### Artikel LVI
+##### Artikel LVI
 
 Wijzigt het Belastingplan 2024.
 
-#### Artikel LVII
+##### Artikel LVII
 
 Artikel 10.1 van de Wet inkomstenbelasting 2001 vindt met betrekking tot de artikelen 2.10 en 2.10a van de Wet inkomstenbelasting 2001 geen toepassing bij het begin van het kalenderjaar 2025.
 
-#### Artikel LVIIA
+##### Artikel LVIIA
 
 1. Bij de toepassing van de artikelen 10.1, eerste lid, 10.3, tweede lid, en 10bis.12 van de Wet inkomstenbelasting 2001 en artikel 7, derde en vierde lid, van de Algemene wet inkomensafhankelijke regelingen bij het begin van het kalenderjaar 2028 worden de betreffende bedragen berekend door de te vervangen bedragen te vermenigvuldigen met de uitkomst van de formule: 1 + (95,7% x (tabelcorrectiefactor – 1)). De eerste zin is van overeenkomstige toepassing met betrekking tot artikel 22d van de Wet op de loonbelasting 1964.
 
 2. Bij de toepassing van artikel 10.1, tweede lid, van de Wet inkomstenbelasting 2001 bij het begin van het kalenderjaar 2028 worden de betreffende bedragen berekend door de te vervangen bedragen te vermenigvuldigen met de uitkomst van de formule: 1 + (95,7% x (75% x (tabelcorrectiefactor – 1))).
 
-#### Artikel LVIII
+##### Artikel LVIII
 
 Artikel 10.1 van de Wet inkomstenbelasting 2001 is van overeenkomstige toepassing:
 
@@ -288,39 +316,39 @@ Artikel 10.1 van de Wet inkomstenbelasting 2001 is van overeenkomstige toepassin
 
 - e. bij het begin van het kalenderjaar 2030: op de in de artikelen VII en XIV vermelde bedragen.
 
-#### Artikel LVIIIA
+##### Artikel LVIIIA
 
 [Artikel 10.2b, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2b) en [artikel 18ga, tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18ga) vinden geen toepassing bij het begin van de kalenderjaren 2025 en 2026.
 
-#### Artikel LIX
+##### Artikel LIX
 
 Na toepassing van de artikelen III, IV, onderdeel A, V, onderdeel A, VI, onderdeel A, IX, X, XI of XII van het Belastingplan 2024, artikel II, artikel III, onderdeel A, de artikelen IV tot en met VII, artikel IX, onderdeel A, artikel X, onderdeel B, of de artikelen XI tot en met XIV worden de bedragen in kolom III van de tabellen in de artikelen 2.10, eerste lid, en 2.10a, eerste lid, van de Wet inkomstenbelasting 2001, onderscheidenlijk in de artikelen 20a, eerste lid, en 20b, eerste lid, van de Wet op de loonbelasting 1964, bij ministeriële regeling gewijzigd in de bedragen die na toepassing van die artikelen voortvloeien uit de aan het begin van de betreffende kalenderjaren in de kolommen I en II van die tabellen vermelde bedragen en de in kolom IV van die tabellen vermelde percentages.
 
-#### Artikel LX
+##### Artikel LX
 
 Wijzigt deze wet.
 
-#### Artikel LXI
+##### Artikel LXI
 
 Wijzigt de Wet 26 oktober 2023 tot wijziging van de Wegenverkeerswet 1994 en enige andere wetten in verband met het laten vervallen van de mogelijkheid tot het aanwijzen van bijzondere bromfietsen in hoofdstuk IIA van de Wegenverkeerswet 1994, het mogelijk maken van implementatie van het kader voor lichte elektrische voertuigen en enige andere wijzigingen.
 
-#### Artikel LXII
+##### Artikel LXII
 
 1. De omzetbelasting die verschuldigd wordt voor leveringen en diensten ter zake waarvan ingevolge artikel XXI, onderdeel B, het tarief met ingang van 1 januari 2026 wordt verhoogd, wordt voor leveringen en diensten die na die datum worden verricht berekend naar het tarief dat geldt op het tijdstip waarop de levering of de dienst wordt verricht.
 
 2. De omzetbelasting die verschuldigd wordt vanwege de overdracht van een voucher voor enkelvoudig gebruik als bedoeld in artikel 2a, eerste lid, onderdeel u, van de Wet op de omzetbelasting 1968 en die betrekking heeft op leveringen en diensten als bedoeld in het eerste lid wordt berekend naar het tarief dat geldt op het tijdstip van de feitelijke overhandiging van de goederen of de feitelijke dienstverrichting, waarop de voucher betrekking heeft.
 
-#### Artikel LXIII
+##### Artikel LXIII
 
 - a. Wijzigt deze wet.
 
 - b. Wijzigt de wet Regels over energiemarkten en energiesystemen (Energiewet)(KST 36378).
 
-#### Artikel LXIV
+##### Artikel LXIV
 
 Ingeval de samenloop van wetten die in 2024 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in een of meer belastingwetten, niet of niet juist is geregeld, of indien als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, kunnen die wetten op dit punt bij ministeriële regeling worden gewijzigd.
 
-#### Artikel LXV
+##### Artikel LXV
 
 1. Deze wet treedt in werking met ingang van 1 januari 2025, met dien verstande dat:
 
@@ -360,7 +388,7 @@ Ingeval de samenloop van wetten die in 2024 in het Staatsblad zijn of worden gep
 
 3. In afwijking van het eerste lid treedt artikel XXIV, onderdeel A, in werking op het tijdstip waarop artikel 30 van de Wet vrachtwagenheffing in werking treedt.
 
-#### Artikel LXVI
+##### Artikel LXVI
 
 Deze wet wordt aangehaald als: Belastingplan 2025.
 

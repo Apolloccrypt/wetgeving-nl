@@ -1,13 +1,39 @@
 ---
-title: "Regeling marktordening vlees"
+title: "Regeling van de Staatssecretaris van Economische Zaken van 2 december 2013, nr. WJZ/13199396, houdende de indeling en prijsregistratie van runder- en varkenskarkassen (Regeling marktordening vlees)"
 identifier: "BWBR0034313"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034313"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034313"
+soort: "ministeriele-regeling"
+stam_id: "12456653"
+version_id: "25124322"
+internal_id: "C35926501"
+label_id: "12428254"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034313/2026-01-01/0"
+intitule_bron: "Stcrt.2013-34141"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-02"
+intitule_published: "2013-12-10"
+intitule_in_force: "2013-12-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-38567"
+original_signed_date: "2018-07-03"
+original_published_date: "2018-07-09"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2018-38567"
+entry_into_force_date: "2018-07-03"
+jci_1_3: "jci1.3:c:BWBR0034313&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0034313&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling marktordening vlees"
+signed_date: "2018-07-03"
+entry_into_force: "2018-07-03"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken van 2 december 2013, nr. WJZ/13199396, houdende de indeling en prijsregistratie van runder- en varkenskarkassen (Regeling marktordening vlees)
 
 Gelet op artikel 42 van Verordening (EU) nr. 1234/2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (‘integrale-GMO-verordening’) (PbEU 2007, L 299);
@@ -20,7 +46,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1:1
+##### Artikel 1:1
 
 In deze regeling wordt verstaan onder:
 
@@ -50,11 +76,11 @@ In deze regeling wordt verstaan onder:
 
 - **wachtdag:** dag waarop een slachtrund of slachtvarken is aan te merken als een overligger.
 
-#### Artikel 1:2
+##### Artikel 1:2
 
 Het is verboden in strijd te handelen met artikel 10 van Verordening (EU) nr. 1308/2013, met [Verordening 2017/1182](33082R2017) en met [Verordening 2017/1184](33084R2017).
 
-#### Artikel 1:3
+##### Artikel 1:3
 
 Voor op grond van deze regeling door de minister verrichte werkzaamheden ten behoeve van de classificatie van runderen en varkens is de be- of verwerker een retributie verschuldigd, waarvan de hoogte in deze regeling wordt vastgesteld.
 
@@ -62,7 +88,7 @@ Voor op grond van deze regeling door de minister verrichte werkzaamheden ten beh
 
 #### § 3. Kosten
 
-#### Artikel 2:1
+##### Artikel 2:1
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -102,7 +128,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **werkdag:** dag waarop runderen worden geslacht.
 
-#### Artikel 2:2
+##### Artikel 2:2
 
 1. Dit hoofdstuk is niet van toepassing op een be- of verwerker die in de voorafgaande twaalf maanden gemiddeld minder dan 150 slachtrunderen per week slacht.
 
@@ -112,7 +138,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 #### § 1. Definities en reikwijdte
 
-#### Artikel 2:3
+##### Artikel 2:3
 
 1. Een be- of verwerker onderzoekt of alle slachtrunderen geïdentificeerd zijn met een merk bij aankomst in een slachthuis.
 
@@ -120,11 +146,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 3. Een be- of verwerker draagt er zorg voor dat vanaf het moment van aanvoer tot en met het tijdstip van classificatie en de weging de identificatie van het slachtrund gewaarborgd blijft.
 
-#### Artikel 2:4
+##### Artikel 2:4
 
 Een be- of verwerker administreert per leverancier de dag en het tijdstip van de aanvoer van de slachtrunderen, inclusief het nummer van het merk van de slachtrunderen en is verplicht de minister inzicht te bieden in de aanvoeradministratie.
 
-#### Artikel 2:5
+##### Artikel 2:5
 
 1. Een be- of verwerker slacht een slachtrund dat voor 12.00 uur bij een slachthuis is aangevoerd op dezelfde dag.
 
@@ -132,11 +158,11 @@ Een be- of verwerker administreert per leverancier de dag en het tijdstip van de
 
 3. Indien de volgende dag, bedoeld in het tweede lid, geen werkdag is dan is [artikel 2:16, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=4&artikel=2:16&z=2026-01-01&g=2026-01-01), onverkort van toepassing.
 
-#### Artikel 2:6
+##### Artikel 2:6
 
 Een be- of verwerker kan een termijn als bedoeld in [Artikel 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:5&z=2026-01-01&g=2026-01-01) verlengen indien hij dit tevoren met de leverancier is overeengekomen en hij dit zo spoedig mogelijk bij de minister heeft gemeld.
 
-#### Artikel 2:7
+##### Artikel 2:7
 
 1. Een be- of verwerker verwijdert voor de weging van een geslacht rund:
 
@@ -194,17 +220,17 @@ Een be- of verwerker kan een termijn als bedoeld in [Artikel 2:5](https://wetten
 
 #### § 3. Weging
 
-#### Artikel 2:8
+##### Artikel 2:8
 
 Een be- of verwerker die slachtrunderen weegt, of toestaat dat slachtrunderen door derden op zijn bedrijf worden gewogen, zorgt dat het gewicht van de te wegen slachtrunderen niet onjuist wordt beïnvloed.
 
-#### Artikel 2:9
+##### Artikel 2:9
 
 1. Indien bij de weging de twee karkashelften van eenzelfde slachtrund in één keer worden gewogen, is het door de afdrukinrichting afgedrukte gewicht bepalend.
 
 2. Indien bij de weging de twee karkashelften van eenzelfde slachtrund afzonderlijk worden gewogen, telt de be- of verwerker deze beide gewichten bij elkaar op tot één gewogen gewicht. Daarna kan de be- of verwerker het gewogen gewicht afronden.
 
-#### Artikel 2:10
+##### Artikel 2:10
 
 1. Een be- of verwerker weegt met een krachtens de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) goedgekeurd automatisch weegwerktuig uit de nauwkeurigheidsklasse III, bedoeld in [Richtlijn 2014/32](32014L0032)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van meetinstrumenten (herschikking) (PbEU 2014, L 96).
 
@@ -212,7 +238,7 @@ Een be- of verwerker die slachtrunderen weegt, of toestaat dat slachtrunderen do
 
 3. Een weegwerktuig geeft met de haken tezamen in ledige toestand de nulstand aan. De gebruikte haken hebben allemaal hetzelfde gewicht.
 
-#### Artikel 2:11
+##### Artikel 2:11
 
 1. Een be- of verwerker heeft ten behoeve van een controle van het weegwerktuig een aantal van een geldig ijkmerk voorziene toetsgewichten voorhanden van ten minste 10 kilogram tot maximaal 25 kilogram bij het weegwerktuig tot een totaalgewicht van ten minste 400 kilogram.
 
@@ -220,7 +246,7 @@ Een be- of verwerker die slachtrunderen weegt, of toestaat dat slachtrunderen do
 
 3. In afwijking van het eerste lid heeft een be- of verwerker die uitsluitend runderen slacht in categorie Z als bedoeld in [artikel 2:21](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=6&artikel=2:21&z=2026-01-01&g=2026-01-01), toetsgewichten voorhanden van ten minste 10 kilogram tot maximaal 25 kilogram met een totaalgewicht van ten minste 250 kilogram.
 
-#### Artikel 2:12
+##### Artikel 2:12
 
 1. Een be- of verwerker laat ten minste éénmaal per drie jaar het weegwerktuig controleren door een op grond van de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) erkende keuringsinstantie.
 
@@ -232,13 +258,13 @@ Een be- of verwerker die slachtrunderen weegt, of toestaat dat slachtrunderen do
 
 #### § 4. Gewichtscorrecties
 
-#### Artikel 2:13
+##### Artikel 2:13
 
 1. Een be- of verwerker past geen gewichtscorrectie toe na het afdouchen van een geslacht rund.
 
 2. De be- of verwerker stelt de minister in staat het gewicht vast te stellen van een op grond van [Verordening 2017/625](32525R2017) afgekeurd deel van het geslachte rund, indien dit deel voor de weging is afgekeurd en verwijderd en niet is opgenomen in de berekening van het gewicht op grond van [artikel 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2026-01-01&g=2026-01-01). De be- of verwerker telt het door de minister vastgestelde gewicht op bij het gewicht van het geslachte rund.
 
-#### Artikel 2:14
+##### Artikel 2:14
 
 Indien de delen, bedoeld in [Artikel 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2026-01-01&g=2026-01-01), niet mogen worden verwijderd vanwege een uitstel van een goedkeuring op grond van Verordening (EU) 2019/627:
 
@@ -246,7 +272,7 @@ Indien de delen, bedoeld in [Artikel 2:7, eerste lid](https://wetten.overheid.nl
 
 - b. verwijdert, weegt of schat een be- of verwerker het gewicht van die delen na een afkeuring overeenkomstig [Artikel 2:13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=4&artikel=2:13&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 2:15
+##### Artikel 2:15
 
 1. In het geval van reeds geclassiceerde runderen, is het in afwijking van [Artikel 2:14](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=4&artikel=2:14&z=2026-01-01&g=2026-01-01) toegestaan voorafgaand aan de goedkeuring het vastgestelde gewicht, – waarbij het niervet, de nieren, het slotvet, het oppervlakkig borstvet vanaf de navelinplant, het vet rond de aarsopening, het vet van de schaamnaad, het zak- of uiervet, het aangewassen vet aan de ribwand, het vet rond de halsslagaders, de staart en de longhaas zijn meegewogen – met de volgende percentages te verlagen:
 
@@ -268,7 +294,7 @@ Indien de delen, bedoeld in [Artikel 2:7, eerste lid](https://wetten.overheid.nl
 | halsslagader + vet | 1,0% | 1,0% |
 | slotvet, oppervlakkig borstvet, vet rond de aarsopening, vet van de schaamnaad, zakvet en vet op de ribwand | vetklasse 1: 2,8% vetklasse 2: 3,8% vetklasse 3: 4,8% vetklasse 4: 6,3% vetklasse 5: 7,3% | vetklasse 1: 1,8% vetklasse 2: 2,8% vetklasse 3: 3,8% vetklasse 4: 5,3% vetklasse 5: 6,3% |
 
-#### Artikel 2:16
+##### Artikel 2:16
 
 1. Een be- of verwerker die slacht, of een leverancier die laat slachten, rekent af op basis van het niet afgeronde gewicht dat is vastgesteld op grond van [Artikel 2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2026-01-01&g=2026-01-01), [Artikel 2:9](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=3&artikel=2:9&z=2026-01-01&g=2026-01-01) en [Artikel 2:13 tot en met Artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=4&artikel=2:13&z=2026-01-01&g=2026-01-01), dat wordt verhoogd:
 
@@ -290,7 +316,7 @@ waarbij een gedeelte van een dag geldt als een volle dag.
 
 #### § 5. Weegdocumenten en bescheiden
 
-#### Artikel 2:17
+##### Artikel 2:17
 
 1. Een be- of verwerker geeft bij de afrekening aan zijn leverancier onverwijld gewaarmerkte afschriften af waarin de gegevens, bedoeld in het derde lid, zijn opgenomen. Het weegdocument is per leveranciers-UBN opgesteld. Indien van toepassing wordt tevens het VOS-formulier overgelegd.
 
@@ -322,11 +348,11 @@ waarbij een gedeelte van een dag geldt als een volle dag.
 
 #### § 6. Classificatie slachtrunderen
 
-#### Artikel 2:18
+##### Artikel 2:18
 
 De minister, hiertoe in staat gesteld door de be- of verwerker, classificeert slachtrunderen conform artikel 7 van [Verordening 2017/1182](33082R2017).
 
-#### Artikel 2:19
+##### Artikel 2:19
 
 1. Een be- of verwerker meldt de tijd van een geplande slachting voor 10:00 uur op de dag voorafgaand aan de dag van de geplande slachting aan de minister.
 
@@ -334,7 +360,7 @@ De minister, hiertoe in staat gesteld door de be- of verwerker, classificeert sl
 
 3. Een be- of verwerker zorgt voor zodanige arbeidsomstandigheden dat de minister zijn werkzaamheden goed kan verrichten.
 
-#### Artikel 2:20
+##### Artikel 2:20
 
 1. Voor werkzaamheden als bedoeld in [artikel 2:18](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=6&artikel=2:18&z=2026-01-01&g=2026-01-01) en [2:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=6&artikel=2:23&z=2026-01-01&g=2026-01-01), die plaatsvinden binnen openingstijd bestaat de retributie uit een tarief van € 3,22 per slachtrund, met dien verstande dat per werkdag tenminste € 499,50 in rekening wordt gebracht.
 
@@ -344,7 +370,7 @@ De minister, hiertoe in staat gesteld door de be- of verwerker, classificeert sl
 
 4. Voor de in het eerste lid genoemde werkzaamheden die plaatsvinden op zondag bestaat de retributie uit een tarief van € 5,64 per slachtrund, met dien verstande dat per dag tenminste € 667,88 in rekening wordt gebracht.
 
-#### Artikel 2:21
+##### Artikel 2:21
 
 1. In aanvulling op de op grond van bijlage IV, punt A, van [Verordening 1308/2013](32013R1308) verplichte classificatie van karkassen van slachtrunderen, kunnen drie subklassen worden toegepast in de bevleesdheidsklassen E, U, R, O en P, waarbij een subklasse wordt aangeduid door toevoeging van +, o of -.
 
@@ -354,37 +380,37 @@ De minister, hiertoe in staat gesteld door de be- of verwerker, classificeert sl
 
 4. Voor het classificeren van slachtrunderen in categorie Z als bedoeld in bijlage VII, deel I, onder II, punt B, van [Verordening 1308/2013](32013R1308) worden voor vetbedekking geen subklassen toegepast.
 
-#### Artikel 2:22
+##### Artikel 2:22
 
 Vervallen
 
-#### Artikel 2:23
+##### Artikel 2:23
 
 1. Door de minister dan wel onder toezicht van en overeenkomstig de instructies van de minister worden classificatiemerken aangebracht.
 
 2. De minister kan op verzoek van een be- of verwerker vaststellen dat de classificatiemerken niet hoeven te worden aangebracht indien is voldaan aan de voorwaarden in artikel 8, zesde lid, onderdeel b, van [Verordening 2017/1182](33082R2017).
 
-#### Artikel 2:24
+##### Artikel 2:24
 
 Vervallen
 
-#### Artikel 2:25
+##### Artikel 2:25
 
 Vervallen
 
 #### § 7. Registratie en uitwisseling classificatiegegevens
 
-#### Artikel 2:26
+##### Artikel 2:26
 
 1. De minister houdt een register bij als bedoeld in artikel 8, zesde lid, van [Verordening 2017/1182](33082R2017).
 
 2. In aanvulling op de op grond van [artikel 2:18](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=6&artikel=2:18&z=2026-01-01&g=2026-01-01) door de minister per geslacht slachtrund bepaalde bevleesdheids- en vetheidsklasse en indien van toepassing de subklasse, registreert een be- of verwerker deze gegevens tezamen met het nummer van het merk, de categorie en het warm geslacht gewicht in zijn eigen administratie en geeft deze gegevens met behulp van een door de minister beschikbaar gesteld middel door aan de minister ten behoeve van het in het eerste lid bedoelde register.
 
-#### Artikel 2:27
+##### Artikel 2:27
 
 Vervallen
 
-#### Artikel 2:28
+##### Artikel 2:28
 
 1. Een be- of verwerker stelt zijn leverancier per slachtrund, onder vermelding van de categorie, in kennis van de door de minister vastgestelde bevleesdheids- en vetheidsklasse, de aanbiedingsvorm en indien van toepassing de subklasse, van de door hem geleverde slachtrunderen.
 
@@ -392,7 +418,7 @@ Vervallen
 
 #### § 8. Prijsregistratie
 
-#### Artikel 2:29
+##### Artikel 2:29
 
 1. De prijzen, bedoeld in artikel 14 van [Verordening 2017/1184](33084R2017), worden inclusief bijbehorende gegevens met behulp van een door de minister ter beschikking gesteld middel wekelijks op de eerstvolgende woensdag voor 09:00 uur aan de minister gemeld door:
 
@@ -424,7 +450,7 @@ Vervallen
 
 #### § 9. Administratieve voorschriften
 
-#### Artikel 2:30
+##### Artikel 2:30
 
 1. Een be- of verwerker voert een zodanige administratie dat te allen tijde op eenvoudige wijze inzicht kan worden verkregen in de koopcondities van de betrokken slachtrunderen. Voor slachtrunderen bevat deze administratie in ieder geval de namen en de adressen van leveranciers, het nummer van het merk en de conditie waaronder het desbetreffende slachtrund is gekocht.
 
@@ -436,7 +462,7 @@ Vervallen
 
 #### § 10. Vrijstelling of ontheffingen
 
-#### Artikel 2:31
+##### Artikel 2:31
 
 De minister kan in uitzonderlijke gevallen vrijstelling of op aanvraag ontheffing verlenen van de verplichtingen, bedoeld in [Artikel 2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2026-01-01&g=2026-01-01) of [Artikel 2:13 tot en met Artikel 2:16](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=4&artikel=2:13&z=2026-01-01&g=2026-01-01) en daaraan voorwaarden verbinden.
 
@@ -444,7 +470,7 @@ De minister kan in uitzonderlijke gevallen vrijstelling of op aanvraag ontheffin
 
 #### § 10. Vrijstelling of ontheffingen
 
-#### Artikel 3:1
+##### Artikel 3:1
 
 1. In dit hoofdstuk wordt verstaan onder:
 
@@ -502,7 +528,7 @@ De minister kan in uitzonderlijke gevallen vrijstelling of op aanvraag ontheffin
 
 - **zwaar slachtvarken:** vrouwelijk slachtvarken met voorafgaand aan de slacht een gewicht van 130 kg of meer en dat ten minste eenmaal gebigd heeft, of volwassen mannelijk slachtvarken met voorafgaand aan de slacht een gewicht van 150 kg of meer.
 
-#### Artikel 3:2
+##### Artikel 3:2
 
 1. Dit hoofdstuk is niet van toepassing op een be- of verwerker die in de voorafgaande twaalf kalendermaanden gemiddeld minder dan 500 slachtvarkens per week slacht.
 
@@ -514,15 +540,15 @@ De minister kan in uitzonderlijke gevallen vrijstelling of op aanvraag ontheffin
 
 #### § 1. Definities en reikwijdte
 
-#### Artikel 3:3
+##### Artikel 3:3
 
 Een be- of verwerker draagt er zorg voor dat de ontvangen slachtvarkens tot en met het tijdstip van weging identificeerbaar blijven.
 
-#### Artikel 3:4
+##### Artikel 3:4
 
 Degene die slachtvarkens aanvoert of doet aanvoeren vermeldt het tijdstip van aankomst op het verplaatsingsdocument onmiddellijk na aanvoer van de slachtvarkens op de slachtplaats.
 
-#### Artikel 3:5
+##### Artikel 3:5
 
 1. Het is een be- of verwerker niet toegestaan voor de weging iets van het slachtvarken te verwijderen.
 
@@ -568,7 +594,7 @@ Degene die slachtvarkens aanvoert of doet aanvoeren vermeldt het tijdstip van aa
 
 #### § 3. Weging
 
-#### Artikel 3:6
+##### Artikel 3:6
 
 1. Een be- of verwerker weegt de geslachte varkens:
 
@@ -580,19 +606,19 @@ Degene die slachtvarkens aanvoert of doet aanvoeren vermeldt het tijdstip van aa
 
 3. Indien de eerstvolgende dag, bedoeld in het tweede lid, geen dag is waarop varkens in het slachthuis geslacht worden, dan is [artikel 3:14, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=4&artikel=3:14&z=2026-01-01&g=2026-01-01), onverkort van toepassing.
 
-#### Artikel 3:7
+##### Artikel 3:7
 
 Een be- of verwerker draagt er zorg voor dat van elk slachtvarken de eigen code van het slachtmerk, het volgnummer of het individuele nummer in de afdrukinrichting wordt ingevoerd.
 
-#### Artikel 3:8
+##### Artikel 3:8
 
 Vervallen
 
-#### Artikel 3:9
+##### Artikel 3:9
 
 Bij de weging worden de twee helften van de geslachte varkens gelijktijdig in één keer gewogen, waarbij het door de afdrukinrichting afgedrukte gewicht bepalend is.
 
-#### Artikel 3:10
+##### Artikel 3:10
 
 Het is een be- of verwerker niet toegestaan:
 
@@ -602,7 +628,7 @@ Het is een be- of verwerker niet toegestaan:
 
 - c. een weging zodanig te doen geschieden dat daardoor de vaststelling van het gewicht onjuist wordt beïnvloed.
 
-#### Artikel 3:11
+##### Artikel 3:11
 
 1. Bij een weging wordt gebruik gemaakt van een krachtens de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) goedgekeurd weegwerktuig uit de klasse III, bedoeld in [Richtlijn 2014/32](32014L0032)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van meetinstrumenten (herschikking) (PbEU 2014, L 96).
 
@@ -616,7 +642,7 @@ Het is een be- of verwerker niet toegestaan:
 
 6. Een be- of verwerker overhandigt onverwijld een afschrift van het kalibratierapport aan de minister.
 
-#### Artikel 3:12
+##### Artikel 3:12
 
 Een be- of verwerker die zware slachtvarkens en slachtvarkens, niet zijnde zware slachtvarkens, slacht of doet slachten, kan in zoverre in afwijking van [Artikel 3:11](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:11&z=2026-01-01&g=2026-01-01) bij de weging gebruik maken van twee typen spreiders, mits:
 
@@ -628,7 +654,7 @@ Een be- of verwerker die zware slachtvarkens en slachtvarkens, niet zijnde zware
 
 - d. de slachtingen van zware slachtvarkens en slachtvarkens, niet zijnde zware slachtvarkens, volledig gescheiden van elkaar plaatsvinden.
 
-#### Artikel 3:13
+##### Artikel 3:13
 
 1. Een be- of verwerker zorgt ervoor dat bij het wegen voorhanden zijn:
 
@@ -646,7 +672,7 @@ Een be- of verwerker die zware slachtvarkens en slachtvarkens, niet zijnde zware
 
 #### § 4. Gewichtscorrecties
 
-#### Artikel 3:14
+##### Artikel 3:14
 
 1. Na toepassing van [Artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2026-01-01&g=2026-01-01), [Artikel 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:6&z=2026-01-01&g=2026-01-01), [Artikel 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:9&z=2026-01-01&g=2026-01-01) en [Artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:10&z=2026-01-01&g=2026-01-01) wordt het gewicht als volgt vermeerderd:
 
@@ -672,7 +698,7 @@ Een be- of verwerker die zware slachtvarkens en slachtvarkens, niet zijnde zware
 
 #### § 5. Administratieve voorschriften
 
-#### Artikel 3:15
+##### Artikel 3:15
 
 1. Een be- of verwerker draagt bij de afrekening zorg voor de afgifte aan zijn leverancier van het weegdocument, opgesteld op het UBN van de leverancier en de gedagtekende factuur, die tezamen voldoen aan de in het tweede lid gestelde eisen.
 
@@ -704,7 +730,7 @@ Een be- of verwerker die zware slachtvarkens en slachtvarkens, niet zijnde zware
 
 - c. varkens op de afrekening een ander oormerknummer krijgen dan op het weegdocument is afgedrukt.
 
-#### Artikel 3:16
+##### Artikel 3:16
 
 1. De leverancier die een slachtvarken aanlevert bij een be- of verwerker stelt de van de be- of verwerker ontvangen weegdocumenten in ongewijzigde vorm aan de varkenshouder ter beschikking.
 
@@ -714,7 +740,7 @@ Een be- of verwerker die zware slachtvarkens en slachtvarkens, niet zijnde zware
 
 4. Bedragen als bedoeld in het vorige lid die niet op de aldaar beschreven wijze op de factuur worden vermeld, worden niet doorberekend.
 
-#### Artikel 3:17
+##### Artikel 3:17
 
 1. Een be- of verwerker draagt er zorg voor dat van elk weegdocument en elke factuur een gelijkluidend afschrift op overzichtelijke wijze gedurende ten minste één jaar wordt bewaard op schriftelijke of elektronische wijze.
 
@@ -722,19 +748,19 @@ Een be- of verwerker die zware slachtvarkens en slachtvarkens, niet zijnde zware
 
 3. De leverancier draagt er zorg voor dat van elk weegdocument en elke factuur een gelijkluidend afschrift op overzichtelijke wijze gedurende tenminste één jaar wordt bewaard.
 
-#### Artikel 3:18
+##### Artikel 3:18
 
 Vervallen
 
 #### § 6. Prijsregistratie
 
-#### Artikel 3:19
+##### Artikel 3:19
 
 De exploitant van het slachthuis en de door de minister aangewezen natuurlijke persoon of rechtspersoon die varkens laat slachten melden de marktprijs, bedoeld in artikel 14 van [Verordening 2017/1182](33082R2017), zijnde het aankoopbedrag franco abattoir, exclusief BTW, op een door de minister ter beschikking gesteld middel wekelijks op de eerstvolgende woensdag voor 09:00 uur aan de minister.
 
 #### § 7. Classificatie
 
-#### Artikel 3:20
+##### Artikel 3:20
 
 1. De minister, hiertoe in staat gesteld door de be- of verwerker, classificeert slachtvarkens conform artikel 7 van [Verordening 2017/1182](33082R2017).
 
@@ -752,7 +778,7 @@ De exploitant van het slachthuis en de door de minister aangewezen natuurlijke p
 
 3. Een classificatieapparaat als bedoeld in het tweede lid maakt gebruik van de formule, bedoeld in de bijlage, punt 2, onder 3, van het Uitvoeringsbesluit.
 
-#### Artikel 3:21
+##### Artikel 3:21
 
 1. Een be- of verwerker draagt er zorg voor dat een weegwerktuig op een zodanige wijze met de classificatieapparatuur verbonden is dat het de weeg- en identificatiegegevens per slachtvarken direct, volledig en ongecorrigeerd aan de classificatieapparatuur doorgeeft.
 
@@ -762,21 +788,21 @@ De exploitant van het slachthuis en de door de minister aangewezen natuurlijke p
 
 4. Indien het volgordenummer aan de classificatieapparatuur wordt doorgegeven draagt een be- of verwerker er zorg voor dat dit nummer tevens, per slachtvarken, naast het slachtmerk op het weegdocument en op de factuur vermeld wordt.
 
-#### Artikel 3:22
+##### Artikel 3:22
 
 Een be- of verwerker draagt er zorg voor dat de registratie van de classificatiegegevens op een juiste wijze geschiedt.
 
-#### Artikel 3:23
+##### Artikel 3:23
 
 Een be- of verwerker draagt er zorg voor dat de slachtingen ook ongehinderd doorgaan indien de classificatieapparatuur geheel of gedeeltelijk uitvalt.
 
-#### Artikel 3:24
+##### Artikel 3:24
 
 1. Door de minister dan wel onder toezicht van en overeenkomstig de instructies van de minister worden classificatiemerken aangebracht.
 
 2. De minister kan op verzoek van een be- of verwerker vaststellen dat de classificatiemerken niet hoeven te worden aangebracht indien is voldaan aan de voorwaarden in artikel 8, zesde lid, van [Verordening 2017/1182](33082R2017).
 
-#### Artikel 3:25
+##### Artikel 3:25
 
 1. Een be- of verwerker kan, naast de vereisten, bedoeld in de artikelen 5 en 8 van [Verordening 2017/1182](33082R2017), voorts een type op een karkas aanbrengen, dat bestaat uit een hoofdletter met een weergave van de mate van bespierdheid overeenkomstig het volgende indelingsschema:
 
@@ -789,7 +815,7 @@ Een be- of verwerker draagt er zorg voor dat de slachtingen ook ongehinderd door
 
 2. Een be- of verwerker die gebruik maakt van de typevermeldingen bedoeld in het eerste lid, doet dit per koppel.
 
-#### Artikel 3:26
+##### Artikel 3:26
 
 Aangebrachte classificatiemerken mogen niet worden verwijderd, veranderd, onleesbaar gemaakt of anderszins behandeld waardoor zij niet meer in voldoende mate als zodanig kunnen worden onderkend, tenzij dit geschiedt door:
 
@@ -799,7 +825,7 @@ Aangebrachte classificatiemerken mogen niet worden verwijderd, veranderd, onlees
 
 - c. een be- of verwerker, handelend overeenkomstig een aanwijzing van de minister ten aanzien van een aangebracht classificatiemerk dat niet de juiste indeling weergeeft en tegelijkertijd een classificatiemerk wordt aangebracht dat wel de juiste indeling weergeeft.
 
-#### Artikel 3:27
+##### Artikel 3:27
 
 Een be- of verwerker vermeldt per slachtvarken op het weegdocument of de factuur:
 
@@ -807,11 +833,11 @@ Een be- of verwerker vermeldt per slachtvarken op het weegdocument of de factuur
 
 - b. het type, bedoeld in [artikel 3:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=7&artikel=3:25&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 3:28
+##### Artikel 3:28
 
 Degene die slachtvarkens die na slachting zijn geclassificeerd van een varkenshouder onder conditie van uitbetaling naar kwaliteit heeft gekocht, informeert de varkenshouder op diens verzoek schriftelijk binnen drie weken na de slachting over het aandeel mager vlees van ieder slachtvarken, alsmede indien van toepassing over het type, bedoeld in [Artikel 3:24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=7&artikel=3:24&z=2026-01-01&g=2026-01-01), van het slachtvarken.
 
-#### Artikel 3:29
+##### Artikel 3:29
 
 1. Een be- of verwerker op wiens bedrijf varkens geclassificeerd worden, bewaart de digitale bestanden van de dagen waarop is geclassificeerd, van het lopende en het afgelopen kalenderjaar en houdt deze inzichtelijk voor de minister. Voor elke classificatie wordt in elk geval, naast de naam en het adres van de be- of verwerker, per slachtvarken geadministreerd:
 
@@ -827,7 +853,7 @@ Degene die slachtvarkens die na slachting zijn geclassificeerd van een varkensho
 
 #### § 8. Overige bepalingen
 
-#### Artikel 3:30
+##### Artikel 3:30
 
 1. Een be- of verwerker meldt alle, in het kader van deze regeling, relevante wijzigingen in de bedrijfsvoering, voorafgaand aan het doorvoeren van een dergelijke wijziging aan de minister.
 
@@ -841,7 +867,7 @@ Degene die slachtvarkens die na slachting zijn geclassificeerd van een varkensho
 
 #### § 9. Vrijstelling of ontheffing
 
-#### Artikel 3:31
+##### Artikel 3:31
 
 1. De minister kan in uitzonderlijke gevallen vrijstelling of ontheffing verlenen van de verplichting, bedoeld in [Artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2026-01-01&g=2026-01-01) of [Artikel 3:25](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=7&artikel=3:25&z=2026-01-01&g=2026-01-01).
 
@@ -851,7 +877,7 @@ Degene die slachtvarkens die na slachting zijn geclassificeerd van een varkensho
 
 ### Hoofdstuk 4. Overgangsrecht
 
-#### Artikel 4:1
+##### Artikel 4:1
 
 Door het Productschap Vee en Vlees verleende registraties, vrijstellingen of ontheffingen op grond van:
 
@@ -863,15 +889,15 @@ Door het Productschap Vee en Vlees verleende registraties, vrijstellingen of ont
 
 - d. de [Verordening slachting, weging en classificatie slachtrunderen](https://wetten.overheid.nl/jci1.3:c:BWBR0031141) (PVV) 2011, gelden als door de minister verleende registraties, vrijstellingen of ontheffingen op grond van deze regeling.
 
-#### Artikel 4:2
+##### Artikel 4:2
 
 Archiefbescheiden van het Productschap Vee en Vlees betreffende zaken die op basis van deze regeling worden behartigd door de minister, worden overgedragen aan de minister, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
-#### Artikel 4:3
+##### Artikel 4:3
 
 Deze regeling wordt aangehaald als: Regeling marktordening vlees.
 
-#### Artikel 4:4
+##### Artikel 4:4
 
 Deze regeling treedt in werking op 1 januari 2014.
 
@@ -921,13 +947,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 1. Levende dieren
 
-#### Artikel 3a:1
+##### Artikel 3a:1
 
 Door de minister aangewezen natuurlijke personen of rechtspersonen die levende dieren als bedoeld in artikel 12 van [Verordening 2017/1184](33084R2017) verhandelen, melden de prijzen, bedoeld in artikel 14 van [Verordening 2017/1184](33084R2017), met behulp van een door de minister ter beschikking gesteld middel wekelijks op de eerstvolgende woensdag voor 09:00 uur aan de minister.
 
 #### § 2. Karkassen van schapen van minder dan twaalf maanden oud
 
-#### Artikel 3a:2
+##### Artikel 3a:2
 
 De exploitant van het slachthuis, of de door de minister aangewezen natuurlijk persoon of rechtspersoon, bedoeld in artikel 11 van [Verordening 2017/1184](33084R2017), meldt de prijzen, bedoeld in artikel 14 van [Verordening 2017/1184](33084R2017), met behulp van een door de minister ter beschikking gesteld middel wekelijks op de eerstvolgende woensdag voor 09:00 uur aan de minister.
 
@@ -935,7 +961,7 @@ De exploitant van het slachthuis, of de door de minister aangewezen natuurlijk p
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3:23a
+##### Artikel 3:23a
 
 1. Voor werkzaamheden als bedoeld in [artikel 3:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=7&artikel=3:20&z=2026-01-01&g=2026-01-01), en [3:24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=7&artikel=3:24&z=2026-01-01&g=2026-01-01), die plaatsvinden binnen openingstijd bestaat de retributie uit een tarief van € 0,62 per slachtvarken, met dien verstande dat per werkdag tenminste € 499,50 in rekening wordt gebracht.
 

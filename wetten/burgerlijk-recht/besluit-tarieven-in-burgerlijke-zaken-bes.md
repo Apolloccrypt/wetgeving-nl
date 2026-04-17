@@ -1,18 +1,43 @@
 ---
 title: "Besluit tarieven in burgerlijke zaken BES"
 identifier: "BWBR0028448"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028448"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028448"
+soort: "AMvB-BES"
+stam_id: "10787303"
+version_id: "17765742"
+internal_id: "C24739701"
+label_id: "10762304"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028448/2010-10-10/0"
+intitule_bron: "Stb.2010-549"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-23"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-549"
+original_signed_date: "2010-09-23"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-549"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028448&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028448&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-23"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit tarieven in burgerlijke zaken BES
 
 ## Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -26,19 +51,19 @@ In dit besluit wordt verstaan onder:
 
 - e. **het Wetboek van Burgerlijke Rechtsvordering:** het [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496).
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust op [artikel 59 van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=59).
 
 ### afdeling Eerste. Deurwaarders
 
-#### Artikel 2
+##### Artikel 2
 
 1. De deurwaarders mogen, uit welke hoofde en onder welk voorwendsel ook, geen andere of hogere rechten of beloningen vorderen of ontvangen, of doen vorderen of ontvangen, dan die, welke bij dit besluit zijn vastgesteld.
 
 2. Bij overtreding zijn zij tot teruggave en vergoeding van kosten, schaden en interessen verplicht, onverminderd de toepassing van de strafwet, indien daartoe termen aanwezig zijn.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de deurwaarder is verschuldigd:
 
@@ -62,11 +87,11 @@ Dit besluit berust op [artikel 59 van de Rijkswet Gemeenschappelijk Hof van Just
 
 4. De kosten in het eerste lid, onder d en e, en die in het derde lid genoemd, blijven voor rekening van hem die opdracht gaf en kunnen in een geding niet ten laste van de tegenpartij worden gebracht.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien het exploot aan het parket van het Openbaar Ministerie of een andere autoriteit of college wordt gedaan, of een akte aldaar moet worden betekend, en er op het origineel een visum wordt vereist of wel indien het exploot of een ander stuk wordt aangeplakt of aangekondigd, of in een dagblad aangekondigd, rekent de deurwaarder voor elke bemoeienis boven de vergoeding, hem bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&afdeling=Eerste&artikel=3&z=2010-10-10&g=2010-10-10) toegestaan, 2 USD voor elk stuk, waaromtrent een van de hierboven bedoelde werkzaamheden heeft plaats gehad.
 
-#### Artikel 5
+##### Artikel 5
 
 Aan de deurwaarder is verschuldigd:
 
@@ -82,7 +107,7 @@ Aan de deurwaarder is verschuldigd:
 
 - f. voor alle andere processen-verbaal, in het algemeen in de gevallen waarin de deurwaarder verplicht of aangezocht is het verrichte of bevondene door zodanige akte te constateren, een redaktieloon van 6 USD, en gelijke vergoedingen als in [artikel 3, eerste lid, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&afdeling=Eerste&artikel=3&z=2010-10-10&g=2010-10-10), ten aanzien van het opmaken van exploten zijn genoemd, alsmede een bedrag van 6 USD voor elk uur, of gedeelte daarvan, nodig geweest voor de verrichting of het onderzoek ter plaatse; voor iedere getuigen, 6 USD voor elk uur, of gedeelte daarvan, dat zijn tegenwoordigheid ter plaatse nodig is.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Door de partij of de belanghebbende die de opdracht gaf, worden aan de deurwaarder vergoed alle kosten in billijkheid als verschotten door hem gemaakt, zoals zegel- en registratierechten, briefport en telegramkosten, advertentiekosten, kosten van transport van goederen, vergoeding van werklieden, lokaalhuur, belasting en alle dergelijke, voor zover mogelijk op vertoon van kwitantie wegens het betaalde, en desnoods ter taxatie door de president van het Hof of het Gerecht naar gelang het een zaak betreft voor het Hof of het Gerecht te behandelen of in behandeling.
 
@@ -90,7 +115,7 @@ Aan de deurwaarder is verschuldigd:
 
 Aan ieder van de getuigen die de deurwaarder moet vergezellen wordt de helft van de aan de deurwaarder verschuldigde afstandsgelden vergoed. Het Gerecht beslist over geschillen omtrent afstandsgelden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De deurwaarder ter rolle dienstdoende, berekent:
 
@@ -104,7 +129,7 @@ Aan ieder van de getuigen die de deurwaarder moet vergezellen wordt de helft van
 
 3. Indien de comparitie ambtshalve plaats heeft, wordt deze vergoeding door de belanghebbenden, ieder voor een gelijk aandeel, voldaan.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voor elke verrichting, krachtens verlof van de rechter op zondag of op een algemeen erkende feestdag, wordt het de deurwaarder verschuldigde met de helft verhoogd.
 
@@ -136,47 +161,47 @@ Aan ieder van de getuigen die de deurwaarder moet vergezellen wordt de helft van
 
 ### afdeling Tweede. Bewaarders, deskundigen, getuigen en tolken
 
-#### Artikel 9
+##### Artikel 9
 
 1. Aan de gestelde bewaarder over in beslag genomen of verzegelde goederen, wordt wanneer hij geen medebewoner van het huis of de plaats is, waarin de inbeslagneming of verzegeling heeft plaats gehad, of zelf bij de bewaring daarvan geen belang heeft, of wanneer hij daarmede in geen andere betrekking is belast, voor elke dag of gedeelte daarvan, kost en onderhoud daaronder begrepen, toegekend een vergoeding van 6 USD.
 
 2. Indien de in het eerste lid bedoelde bewaarder medebewoner is van het huis of de plaats, waarin de inbeslagneming of verzegeling heeft plaats gehad, en die zelf bij de bewaring daarvan geen belang heeft of daarmede in geen andere betrekking is belast, wordt aan deze toegekend een vergoeding van 3 USD per dag of gedeelte daarvan, alles daaronder begrepen.
 
-#### Artikel 10
+##### Artikel 10
 
 Aan deskundigen wordt toegekend een vacatiegeld, ter beoordeling van de rechter die het onderzoek heeft bevolen, maar niet hoger dan 112 USD voor elke vacatie van een uur, of een gedeelte daarvan.
 
-#### Artikel 11
+##### Artikel 11
 
 Voor de eedsaflegging alsook voor de overbrenging van het rapport ter griffie, wordt een halve vacatie berekend.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien deskundigen zich voor het verrichten van hun werkzaamheden van hun woning of kantoor moeten verwijderen, wordt aan hen een gelijk vacatiegeld toegekend, voor de tijd van de heen- en terugreis.
 
-#### Artikel 13
+##### Artikel 13
 
 Aan houders of bewaarders van stukken, die opgeroepen worden om stukken, onder hun berusting of bewaring zijnde, voor de rechter te brengen, wordt ter beoordeling van de rechter voor elke vacatie toegekend een bedrag van ten hoogste 28 USD.
 
-#### Artikel 14
+##### Artikel 14
 
 Aan getuigen wordt, ter beoordeling van de rechter een schadeloosstelling toegekend voor elk uur dat hun tegenwoordigheid wordt vereist, van hoogstens 31 USD per uur of een gedeelte daarvan, met een maximum van 251 USD per dag.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Aan deskundigen, aan houders of bewaarders van stukken, als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&afdeling=Tweede&artikel=10&z=2010-10-10&g=2010-10-10) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&afdeling=Tweede&artikel=13&z=2010-10-10&g=2010-10-10), en aan getuigen, zal het bedrag van hetgeen de heen- en terugreis kost, worden vergoed, naar billijkheid en ter beoordeling van de rechter.
 
 2. Daarenboven zal hun, ter beoordeling van de rechter, voor tijdverlies gedurende de heen- en terugreis een schadeloosstelling worden toegekend. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&afdeling=Tweede&artikel=14&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
 
-#### Artikel 16
+##### Artikel 16
 
 Tolken zijn bevoegd voor de mondelinge vertolking voor de rechter in rekening te brengen voor elke vacatie van een half uur of gedeelte daarvan 28 USD. Ingeval tolken in dezelfde vacatie in meer dan een zaak hebben gediend bepaalt de rechter het bedrag dat ten laste van elke zaak afzonderlijk zal worden gebracht.
 
-#### Artikel 17
+##### Artikel 17
 
 De vergoeding voor schriftelijke vertalingen bedraagt 28 USD per pagina vertaling; een pagina dient ten minste 25 regels te kunnen bevatten met 80 tekens per regel.
 
-#### Artikel 18
+##### Artikel 18
 
 Voor niet-beroepstolken en niet-beroepsvertalers worden de vergoedingen, als bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&afdeling=Tweede&artikel=16&z=2010-10-10&g=2010-10-10) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&afdeling=Tweede&artikel=17&z=2010-10-10&g=2010-10-10), gesteld op 70% van de daarin genoemde bedragen.
 
@@ -184,13 +209,13 @@ Voor niet-beroepstolken en niet-beroepsvertalers worden de vergoedingen, als bed
 
 #### § 1. Vast recht
 
-#### Artikel 19
+##### Artikel 19
 
 1. In alle zaken, behalve strafzaken worden rechten geheven, behalve van het openbaar ministerie en van de voogdijraad, ambtshalve optredende.
 
 2. Onze Minister kan bepalen dat voor bepaalde categorieën van zaken geen vast recht verschuldigd zal zijn.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Voor de indiening van een verzoekschrift bij het Gerecht of het Hof wordt van elke eisende partij een vast recht geheven, onverminderd de verschotten.
 
@@ -214,7 +239,7 @@ Voor niet-beroepstolken en niet-beroepsvertalers worden de vergoedingen, als bed
 
 7. Het vast recht bij het Hof bedraagt het tweevoud van dat bij het Gerecht.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het geding in reconventie, het incidenteel beroep als bedoeld in [artikel 267 van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=267), het vereffenen van kosten, schaden en interessen en het doen van rekening en verantwoording worden niet als afzonderlijke gedingen beschouwd.
 
@@ -232,7 +257,7 @@ Voor niet-beroepstolken en niet-beroepsvertalers worden de vergoedingen, als bed
 
 8. [Vervallen]
 
-#### Artikel 22
+##### Artikel 22
 
 1. Aan elke partij worden, ongeacht of door haar het vaste recht verschuldigd is, kosteloos verstrekt:
 
@@ -246,13 +271,13 @@ Voor niet-beroepstolken en niet-beroepsvertalers worden de vergoedingen, als bed
 
 3. Onze Minister kan nadere regelen stellen omtrent de toepassing van dit artikel.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het vaste recht voor de indiening van een verzoekschrift tot het verlenen of het verlengen van surseance van betaling bedraagt 84 USD. Hetzelfde vaste recht wordt geheven van hem, die ter zake hoger beroep instelt.
 
 2. Ingeval van indiening van een verzoekschrift tot ontbinding van een akkoord of in hoger beroep van de beslissing betreffende homologatie of ontbinding van een akkoord dan wel van een vonnis tot faillietverklaring bij niet-aanneming van een akkoord door de schuldeisers, wordt het recht volgens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&afdeling=Derde&paragraaf=1&artikel=20&z=2010-10-10&g=2010-10-10) geheven.
 
-#### Artikel 24
+##### Artikel 24
 
 1. In elk faillissement betaalt de curator uit de baten van de boedel bij het deponeren van de eerste uitdelingslijst of zodra de uitspraak tot homologatie van een akkoord in kracht van gewijsde is gegaan, een vast recht van 112 USD.
 
@@ -262,7 +287,7 @@ Voor niet-beroepstolken en niet-beroepsvertalers worden de vergoedingen, als bed
 
 4. Hij die als niet geverifieerd schuldeiser verzet doet tegen de uitdelingslijst ten einde als schuldeiser geverifieerd te worden, voldoet een vast recht overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&afdeling=Derde&paragraaf=1&artikel=20&z=2010-10-10&g=2010-10-10). Het recht wordt niet geheven, indien tevens door wel geverifieerde schuldeisers verzet tegen de uitdelingslijst wordt gedaan.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Voor de opening van een gerechtelijke rangregeling buiten faillissement wordt een bedrag van 42 USD geheven van degene, op wiens verzoek de akte wordt opgemaakt.
 
@@ -270,7 +295,7 @@ Voor niet-beroepstolken en niet-beroepsvertalers worden de vergoedingen, als bed
 
 #### § 2. Overige rechten
 
-#### Artikel 26
+##### Artikel 26
 
 1. Onverminderd het elders in dit besluit bepaalde worden aan partijen en aan belanghebbenden afschriften van of uittreksels uit beslissingen, akten, processen-verbaal, registers of andere stukken zonder betaling afgegeven ten behoeve van hun advokaten of hun gemachtigden.
 
@@ -282,13 +307,13 @@ Voor niet-beroepstolken en niet-beroepsvertalers worden de vergoedingen, als bed
 
 5. Voor de overschrijving van huwelijkse voorwaarden in de daartoe bestemde registers wordt een recht geheven van 56 USD van degene die overschrijving verzoekt.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Voor elke akte, beschikking of proces-verbaal gedaan, gegeven of opgemaakt door een gerecht of een griffier anders dan in een geding, bij de behandeling van een verzoekschrift of van de zaken, waaromtrent in [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&afdeling=Derde&paragraaf=1&z=2010-10-10&g=2010-10-10) het vaste recht geregeld is, wordt een recht geheven van 28 USD.
 
 2. Voor de noodzakelijke afschriften van deze beschikkingen, akten en processen-verbaal wordt geen recht geheven.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Geen recht wordt geheven ter zake van beëdigingen die ingevolge wettelijk voorschrift plaats vinden, voor de akte van bewaargeving van de registers van de burgerlijke stand en van de behandeling van de aangifte voor eigen faillissement.
 
@@ -300,27 +325,27 @@ Voor afschriften van de in die gevallen op te maken akten is geen recht verschul
 
 #### § 3. Betaling van de rechten en verschotten
 
-#### Artikel 29
+##### Artikel 29
 
 Betaling van de rechten en verschotten geschiedt hetzij contant, hetzij uit voorschot.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Indien in het verzoekschrift of bij de mondelinge voordracht vergunning is verzocht om kosteloos te mogen procederen, onder overlegging van het in artikel 738 van het [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496) genoemde stuk, worden de rechten in debet gesteld.
 
 2. Bij intrekking of afwijzing van het verzoek zijn de verschuldigde rechten terstond opvorderbaar.
 
-#### Artikel 31
+##### Artikel 31
 
 Op last van de president van het Hof of van de rechter in eerste aanleg wordt aan on- of minvermogenden voor het geheel of voor de helft, vrijstelling van rechten verleend in de gevallen, waarin niet is voorzien in de [artikelen 736 tot en met 747 van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=736).
 
 Zodanige last wordt gegeven ten behoeve van personen die, onder overlegging van het in artikel 738 van het Wetboek van Burgerlijke Rechtsvordering BES genoemd stuk, doen blijken dat hun financiële draagkracht tekort schiet voor het voldoen van de rechten.
 
-#### Artikel 32
+##### Artikel 32
 
 In debet gestelde opvorderbare rechten worden voldaan zodra de griffier de vordering tot betaling doet.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Bij gebreke van betaling geschiedt invordering van de rechten en betaalde verschotten krachtens een dwangbevel.
 
@@ -330,7 +355,7 @@ In debet gestelde opvorderbare rechten worden voldaan zodra de griffier de vorde
 
 4. Gedurende een maand na de betekening van het dwangbevel kan de schuldenaar bij het betrokken gerecht, rechtdoende in burgerlijke zaken, daartegen, bij verzoekschrift, in verzet komen.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Geschillen over de tenuitvoerlegging van dwangbevelen gerezen, worden berecht door het Gerecht in Eerste Aanleg, rechtdoende in burgerlijke zaken.
 
@@ -342,7 +367,7 @@ Bevoegd is het Gerecht binnen wiens rechtsgebied de tenuitvoerlegging plaats hee
 
 4. Tegen de beslissing van het Gerecht is geen hogere voorziening toegelaten.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De griffier is bevoegd van de belanghebbenden, hun advocaten, raadslieden of gemachtigden, tegen bewijs van ontvangst en ter latere verrekening, een voorschot te vragen tot dekking van de vermoedelijke rechten en verschotten.
 
@@ -352,16 +377,16 @@ Bevoegd is het Gerecht binnen wiens rechtsgebied de tenuitvoerlegging plaats hee
 
 4. Tegen de beslissing van het Gerecht of het Hof is geen hogere voorziening toegelaten.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Gedurende een maand na de mededeling van de uit het voorschot verrekende rechten en verschotten, en bij rechtstreekse betaling daarvan, binnen een maand na die betaling kunnen in het eerste geval de voorschotgever, in het tweede geval hij die de rechten en verschotten betaalde, bij het Gerecht of het Hof ter griffie waarvan voorschot werd gestort of werd betaald, rechtdoende in burgerlijke zaken, tegen de beslissing van de griffier, bij verzoekschrift, in verzet komen.
 
 2. Tegen de beslissing van het Gerecht of het Hof is geen hogere voorziening toegelaten.
 
-#### Artikel 37
+##### Artikel 37
 
 Voor de indiening van een verzoekschrift, als bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&afdeling=Derde&paragraaf=3&artikel=33&z=2010-10-10&g=2010-10-10), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&afdeling=Derde&paragraaf=3&artikel=35&z=2010-10-10&g=2010-10-10) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&afdeling=Derde&paragraaf=3&artikel=36&z=2010-10-10&g=2010-10-10) is geen recht verschuldigd.
 
-#### Artikel 38
+##### Artikel 38
 
 Dit besluit wordt aangehaald als: Besluit tarieven in burgerlijke zaken BES.

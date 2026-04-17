@@ -1,16 +1,41 @@
 ---
 title: "Regeling luchtvaarteenheden BES"
 identifier: "BWBR0028673"
-categorie: "Milieu"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028673"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028673"
+soort: "ministeriele-regeling-BES"
+stam_id: "10923253"
+version_id: "17907192"
+internal_id: "C24981431"
+label_id: "10897764"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028673/2010-10-10/0"
+intitule_bron: "Stcrt.2010-14874"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14874"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14874"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028673&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028673&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling luchtvaarteenheden BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het gebruik van meeteenheden met betrekking tot lucht- en grondoperaties in de burgerluchtvaart, die zijn neergelegd in Bijlage 5 van het Verdrag geschiedt met inachtneming van de voorschriften zoals opgenomen in de bij deze regeling behorende bijlage.
 
@@ -18,7 +43,7 @@ bron: "https://wetten.overheid.nl/BWBR0028673"
 
 3. Een wijziging van Bijlage 5 bij het Verdrag geldt vanaf het moment waarop van deze wijziging mededeling in het Tractatenblad is gedaan.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij de lucht- en grondoperaties in de burgerluchtvaart wordt gebruik gemaakt van de standaard meeteenheden (SI Units) zoals neergelegd in tabel 20-4 van de, bij deze regeling behorende bijlage.
 
@@ -36,11 +61,11 @@ bron: "https://wetten.overheid.nl/BWBR0028673"
 
 - f. verticale snelheid.
 
-#### Artikel 3
+##### Artikel 3
 
 De regeling wordt aangehaald als: Regeling luchtvaarteenheden BES.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling berust op [artikel 2a van het Besluit toezicht luchtvaart BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028721&artikel=2A).
 

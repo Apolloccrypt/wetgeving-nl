@@ -1,13 +1,38 @@
 ---
 title: "Accountantsprotocol gegevensvraag Wlz-gegevens met oplevering vanaf 2019"
 identifier: "BWBR0042243"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2019-05-28
-laatste_update: 2019-05-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042243"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-05-28"
+last_updated: "2019-05-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042243"
+soort: "zbo"
+stam_id: "15080613"
+version_id: "25847872"
+internal_id: "C36845161"
+label_id: "15029444"
+dtd_version: "2.0"
+original_entry_into_force: "2019-05-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042243/2019-05-28/0"
+intitule_bron: "Stcrt.2019-29065"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-05-07"
+intitule_published: "2019-05-27"
+intitule_in_force: "2019-05-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-29065"
+original_signed_date: "2019-05-07"
+original_published_date: "2019-05-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-29065"
+entry_into_force_date: "2019-05-28"
+jci_1_3: "jci1.3:c:BWBR0042243&z=2019-05-28&g=2019-05-28"
+jci_1_0: "1.0:c:BWBR0042243&g=2019-05-28"
+citeertitel_status: "redactioneel"
+signed_date: "2019-05-07"
+entry_into_force: "2019-05-28"
 ---
-
 # Accountantsprotocol gegevensvraag Wlz-gegevens met oplevering vanaf 2019
 
 ### 1. Inleiding

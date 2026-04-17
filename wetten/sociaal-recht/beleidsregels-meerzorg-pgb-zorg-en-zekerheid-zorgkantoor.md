@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregels Meerzorg pgb Zorg en Zekerheid zorgkantoor"
 identifier: "BWBR0052521"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-04-13
-laatste_update: 2026-04-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052521"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-04-13"
+last_updated: "2026-04-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052521"
+soort: "zbo"
+stam_id: "17834803"
+version_id: "31524312"
+internal_id: "C45017551"
+label_id: "17731854"
+dtd_version: "2.0"
+original_entry_into_force: "2026-04-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052521/2026-04-13/0"
+intitule_bron: "Stcrt.2026-13850"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-04-02"
+intitule_published: "2026-04-13"
+intitule_in_force: "2026-04-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-13850"
+original_signed_date: "2026-04-02"
+original_published_date: "2026-04-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-13850"
+entry_into_force_date: "2026-04-13"
+jci_1_3: "jci1.3:c:BWBR0052521&z=2026-04-13&g=2026-04-13"
+jci_1_0: "1.0:c:BWBR0052521&g=2026-04-13"
+citeertitel_status: "officieel"
+signed_date: "2026-04-02"
+entry_into_force: "2026-04-13"
 ---
-
 # Beleidsregels Meerzorg pgb Zorg en Zekerheid zorgkantoor
 
 gelet op [artikel 2.2 lid 1 Rlz](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=2.2) en de daarin besloten bevoegdheid om te beoordelen in hoeverre er sprake is van een zorgprofiel overstijgende zorgbehoefte,
@@ -18,19 +43,19 @@ besluit:
 
 De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 Zorgkantoor Zorg en Zekerheid hanteert beleidsregels bij het beoordelen of er sprake is van een recht op Meerzorg en zo ja, de omvang van de Meerzorgtoeslag. Deze beleidsregels zijn opgenomen in hoofdstuk 1 tot en met 4 bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 maart 2026.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Beleidsregels Meerzorg pgb Zorg en Zekerheid zorgkantoor.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt met de beleidsregels in de Staatscourant geplaatst.
 

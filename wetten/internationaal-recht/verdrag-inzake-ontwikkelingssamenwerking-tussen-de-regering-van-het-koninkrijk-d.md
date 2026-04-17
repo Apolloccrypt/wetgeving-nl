@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake ontwikkelingssamenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Socialistische Republiek Vietnam"
 identifier: "BWBV0006005"
-categorie: "Internationaal recht"
-publicatiedatum: 2001-07-01
-laatste_update: 2001-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006005"
+country: "nl"
+rank: "verdrag"
+publication_date: "2001-07-01"
+last_updated: "2001-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006005"
+soort: "verdrag"
+stam_id: "10004979833"
+version_id: "10005298102"
+internal_id: "C10008157161"
+label_id: "10004962964"
+dtd_version: "2.0"
+original_entry_into_force: "2001-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006005/2001-07-01/0"
+intitule_bron: "Trb.2000-126"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2000-12-04"
+intitule_in_force: "2001-05-10"
+intitule_status: "goed"
+original_publication: "Trb.2000-126"
+original_published_date: "2000-12-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2000-126"
+entry_into_force_date: "2001-07-01"
+jci_1_3: "jci1.3:c:BWBV0006005&z=2001-07-01&g=2001-07-01"
+jci_1_0: "1.0:c:BWBV0006005&g=2001-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2001-07-01"
 ---
-
 # Verdrag inzake ontwikkelingssamenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Socialistische Republiek Vietnam
 
 De Regering van het Koninkrijk der Nederlanden (hierna te noemen „Nederland”)
@@ -26,7 +48,7 @@ Geleid door de wens samen te werken met het doel om ontwikkelingsprocessen te on
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I. Begripsbepalingen
+##### Artikel I. Begripsbepalingen
 
 In dit Verdrag wordt, tenzij uit de context anders blijkt:
 
@@ -48,7 +70,7 @@ In dit Verdrag wordt, tenzij uit de context anders blijkt:
 
 - c. financiële middelen of immateriële diensten.
 
-#### Artikel II. Administratieve procedures
+##### Artikel II. Administratieve procedures
 
 1. Nederland en Vietnam delen elkaar schriftelijk mede welke uitvoerende instantie de desbetreffende Staat vertegenwoordigt bij de uitvoering van projecten en programma's.
 
@@ -64,7 +86,7 @@ Beide Staten stellen elkaar onverwijld schriftelijk in kennis van alle wijziging
 
 Vietnam deelt Nederland schriftelijk mede of het de voorgestelde personeelsleden al dan niet aanvaardt.
 
-#### Artikel III. Voorrechten van personeelsleden
+##### Artikel III. Voorrechten van personeelsleden
 
 1. Vietnam:
 
@@ -88,7 +110,7 @@ Vietnam deelt Nederland schriftelijk mede of het de voorgestelde personeelsleden
 
 2. Vietnam waarborgt dat de personeelsleden en hun gezinsleden op niet minder gunstige wijze worden behandeld dan soortgelijke ontwikkelingssamenwerkingspersoneelsleden van andere landen of internationale organisaties.
 
-#### Artikel IV. Immuniteiten
+##### Artikel IV. Immuniteiten
 
 1. Vietnam verleent de personeelsleden immuniteit van rechtsvervolging met betrekking tot het in hun officiële hoedanigheid verrichten of nalaten van handelingen of met betrekking tot in hun officiële hoedanigheid gebezigde woorden.
 
@@ -98,7 +120,7 @@ Vietnam deelt Nederland schriftelijk mede of het de voorgestelde personeelsleden
 
 4. Indien Vietnam zulks verzoekt, verschaft Nederland Vietnam de noodzakelijke administratieve of juridische bijstand voor een bevredigende regeling van eventuele problemen die kunnen ontstaan in verband met de toepassing van de voorgaande leden van dit artikel.
 
-#### Artikel V. Prestaties van personeelsleden
+##### Artikel V. Prestaties van personeelsleden
 
 1. Vietnam heeft het recht, na overleg met Nederland, te verzoeken om terugroeping van personeelsleden indien hun gedrag als onbevredigend wordt beoordeeld.
 
@@ -112,19 +134,19 @@ In geval van terugroeping stelt Nederland alles in het werk om, indien Vietnam z
 
 4. De personeelsleden nemen de in Vietnam geldende wet- en regelgeving en heersende gebruiken in acht en hun is niet toegestaan in Vietnam zaken te doen.
 
-#### Artikel VI. Arrestatie, hechtenis
+##### Artikel VI. Arrestatie, hechtenis
 
 1. Vietnam stelt Nederland er onverwijld van in kennis indien personeelsleden of één van hun gezinsleden worden gearresteerd, gevangen gezet, in voorlopige hechtenis genomen of anderszins in detentie worden gehouden. Alle mededelingen die in zulke gevallen door personeelsleden en hun gezinsleden aan Nederland worden gedaan, worden onverwijld door Vietnam aan Nederland doorgezonden.
 
 2. Vertegenwoordigers van Nederland zijn gerechtigd met personeelsleden en hun gezinsleden die zijn gearresteerd, gevangen zijn gezet, in voorlopige hechtenis zijn genomen of zich anderszins in detentie bevinden, te spreken, te corresponderen en hen te bezoeken, en zijn voorts gerechtigd maatregelen te nemen ter zake van hun wettelijke vertegenwoordiging.
 
-#### Artikel VII. Projecten en programma's
+##### Artikel VII. Projecten en programma's
 
 1. De identificatie, voorbereiding, beoordeling en supervisie van projecten en programma's ingevolge dit Verdrag worden uitgevoerd onder de eindverantwoordelijkheid van Vietnam. Vietnam vrijwaart Nederland ter zake van elke verantwoordelijkheid of aansprakelijkheid voor deze projecten en programma's ingevolge de wetgeving van Vietnam.
 
 2. Vertegenwoordigers van Nederland worden in overleg met Vietnam in de gelegenheid gesteld zich in situ op de hoogte te stellen van de voortgang van de projecten en programma's, en de projecten en programma's te evalueren.
 
-#### Artikel VIII. Middelen met betrekking tot projecten en programma's
+##### Artikel VIII. Middelen met betrekking tot projecten en programma's
 
 1. Vietnam zal met betrekking tot de door Nederland ter beschikking gestelde middelen genoemd in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBV0006005&artikel=I&z=2001-07-01&g=2001-07-01):
 
@@ -142,7 +164,7 @@ In geval van terugroeping stelt Nederland alles in het werk om, indien Vietnam z
 
 4. Na afloop van een project of programma worden de materiële middelen, bedoeld in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBV0006005&artikel=I&z=2001-07-01&g=2001-07-01), welke door Nederland worden geleverd, officieel overgedragen aan Vietnam, tenzij beide partijen overeenkomen dat die middelen gebruikt moeten worden voor een ander project of programma.
 
-#### Artikel IX. Beslechting van geschillen
+##### Artikel IX. Beslechting van geschillen
 
 1. Indien tussen Nederland en Vietnam een geschil ontstaat met betrekking tot de uitlegging, toepassing of uitvoering van dit verdrag, trachten Nederland en Vietnam dit in eerste instantie te regelen door middel van onderhandeling.
 
@@ -150,7 +172,7 @@ In geval van terugroeping stelt Nederland alles in het werk om, indien Vietnam z
 
 3. Nederland en Vietnam verplichten zich ertoe zich te houden aan elke uitspraak gedaan ingevolge het tweede lid van dit artikel.
 
-#### Artikel X. Inwerkingtreding en beëindiging
+##### Artikel X. Inwerkingtreding en beëindiging
 
 1. Dit Verdrag wordt voorlopig toegepast vanaf de datum van ondertekening en treedt in werking op de eerste dag van de tweede maand die volgt op de datum waarop de beide Staten elkaar er schriftelijk van in kennis hebben gesteld dat aan hun constitutionele vereisten is voldaan.
 

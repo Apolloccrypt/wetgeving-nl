@@ -1,16 +1,41 @@
 ---
 title: "Besluit bevoegdheid uitoefening van de tandheelkunst BES"
 identifier: "BWBR0028359"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028359"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028359"
+soort: "AMvB-BES"
+stam_id: "10756563"
+version_id: "17731802"
+internal_id: "C24929131"
+label_id: "10731234"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028359/2010-10-10/0"
+intitule_bron: "Stb.2010-647"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-16"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-647"
+original_signed_date: "2010-09-16"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-647"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028359&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028359&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-16"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit bevoegdheid uitoefening van de tandheelkunst BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -18,7 +43,7 @@ bron: "https://wetten.overheid.nl/BWBR0028359"
 
 2. Dit besluit berust op [artikel 18.4.4 van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.4.4).
 
-#### Artikel 1a
+##### Artikel 1a
 
 Tot de uitoefening van de tandheelkunst zijn, behalve de toegelaten geneeskundigen, uitsluitend bevoegd:
 
@@ -30,25 +55,25 @@ Tot de uitoefening van de tandheelkunst zijn, behalve de toegelaten geneeskundig
 
 - d. zij, die op aanvrage van Onze Minister een verklaring hebben gekregen, inhoudende dat zij op basis van de door hen genoten opleiding vakbekwaam worden geacht om de tandheelkunst uit te oefenen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister kan zich voor het afgeven van de in [artikel 1a, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028359&artikel=1a&z=2010-10-10&g=2010-10-10), bedoelde verklaring laten adviseren door een bij ministeriële regeling aangewezen commissie.
 
 2. Bij de aanvrage bedoeld in [artikel 1a, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028359&artikel=1a&z=2010-10-10&g=2010-10-10), worden de bij ministeriële regeling aangewezen gegevens overgelegd.
 
-#### Artikel 3
+##### Artikel 3
 
 [vervallen]
 
-#### Artikel 4
+##### Artikel 4
 
 [vervallen]
 
-#### Artikel 5
+##### Artikel 5
 
 [vervallen]
 
-#### Artikel 6
+##### Artikel 6
 
 Het is aan een tandarts, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028359&artikel=1&z=2010-10-10&g=2010-10-10), verboden de praktijk als zodanig uit te oefenen, alvorens:
 
@@ -56,7 +81,7 @@ Het is aan een tandarts, als bedoeld in [artikel 1](https://wetten.overheid.nl/j
 
 - 2°. in handen van den betrokken Gezaghebber dan volgenden eed (belofte) te hebben afgelegd: «Ik zweer (beloof), dat ik de tandheelkunst volgens de daarop wettelijk vastgestelde bepalingen naar mijn beste weten en vermogen zal uitoefenen en dat ik aan niemand zal openbaren wat in die uitoefening als geheim mij is toevertrouwd of te mijner kennis is gebracht, tenzij mijne verklaring als getuige of deskundige door den rechter gevorderd, of ik anderszins tot het geven van mededeeling door de wet verplicht worde. «Zoo waarlijk helpe mij God Almachtig! (Dat beloof ik)»
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onder uitoefening der tandheelkundige praktijk, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028359&artikel=1&z=2010-10-10&g=2010-10-10), wordt verstaan:
 
@@ -72,19 +97,19 @@ Het is aan een tandarts, als bedoeld in [artikel 1](https://wetten.overheid.nl/j
 
 2. Het voorschrijven van inwendige geneesmiddelen, alsmede het afleveren van geneesmiddelen is de tandarts of tandheelkundige verboden.
 
-#### Artikel 8
+##### Artikel 8
 
 Alleen de tandarts, die tot de uitoefening van de tandheelkundige praktijk is toegelaten op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028359&artikel=1&z=2010-10-10&g=2010-10-10), mag binnen de openbare lichamen openbaar aankondigen, dat hij de tandheelkundige praktijk uitoefent en mag de titel voeren van tandarts.
 
-#### Artikel 9
+##### Artikel 9
 
 Overtreding van enige bepaling van dit besluit zal worden gestraft met een geldboete van ten hoogste de eerste categorie. De feiten bij dit besluit strafbaar gesteld worden beschouwd als overtredingen.
 
-#### Artikel 10
+##### Artikel 10
 
 Degene die tot het moment van inwerkingtreding van dit besluit op grond van de tot dan toe geldende wet- en regelgeving beschikte over de bevoegdheid de tandheelkundige praktijk als tandarts of als tandheelkundige uit te oefenen en die niet voldoet aan de eisen genoemd in [artikel 1a van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028359&artikel=1a&z=2010-10-10&g=2010-10-10), mag na de inwerkingtreding van dit besluit, tot een bij ministeriële regeling nader te bepalen datum, de tandheelkundige praktijk blijven uitoefenen.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als het Besluit bevoegdheid uitoefening van de tandheelkunst BES.
 

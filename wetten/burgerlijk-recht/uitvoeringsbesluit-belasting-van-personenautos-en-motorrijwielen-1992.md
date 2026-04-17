@@ -1,13 +1,37 @@
 ---
-title: "Uitvoeringsbesluit belasting van personenauto's en motorrijwielen 1992"
+title: "Besluit van 24 december 1992, tot vaststelling van het Uitvoeringsbesluit belasting van personenauto's en motorrijwielen 1992"
 identifier: "BWBR0005807"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005807"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005807"
+soort: "AMvB"
+stam_id: "979513"
+version_id: "30517222"
+internal_id: "C43749261"
+label_id: "949664"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005807/2025-01-01/0"
+intitule_bron: "Stb.1992-710"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-12-24"
+intitule_status: "goed"
+original_publication: "Stb.2024-441"
+original_signed_date: "2024-12-18"
+original_published_date: "2024-12-23"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2024-441"
+entry_into_force_date: "2024-12-18"
+jci_1_3: "jci1.3:c:BWBR0005807&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0005807&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit belasting van personenauto's en motorrijwielen 1992"
+signed_date: "2024-12-18"
+entry_into_force: "2024-12-18"
 ---
-
 # Besluit van 24 december 1992, tot vaststelling van het Uitvoeringsbesluit belasting van personenauto's en motorrijwielen 1992
 
 Op de voordracht van de Staatssecretaris van Financiën van 13 november 1992, nr. WV 92/543, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Verbruiksbelastingen;
@@ -20,7 +44,7 @@ Gezien het nader rapport van de Staatssecretaris van Financiën van 23 december 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit besluit geeft uitvoering aan de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14a), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14b), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16) en [20 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=20).
 
@@ -32,7 +56,7 @@ Hebben goedgevonden en verstaan:
 
 - c. rechten bij invoer: rechten bij invoer als bedoeld in [artikel 7:3 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=7:3).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Vrijstelling van belasting wordt verleend voor motorrijtuigen die zijn ingeschreven in het buitenland en door een in dat land gevestigde werkgever ter beschikking zijn gesteld aan een als werknemer bij hem in dienst zijnde in Nederland wonende persoon, indien:
 
@@ -52,7 +76,7 @@ Hebben goedgevonden en verstaan:
 
 6. Indien degene aan wie de vrijstelling is verleend niet voldoet aan de verplichting bedoeld in het vijfde lid, wordt de vrijstelling geacht te zijn vervallen op het tijdstip waarop de in het eerste lid bedoelde omstandigheden zich niet langer voordoen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Vrijstelling van belasting wordt verleend voor motorrijtuigen die zijn ingeschreven in het buitenland en die worden gebruikt door Nederlands ingezetenen die elders dan in Nederland:
 
@@ -72,7 +96,7 @@ een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [ar
 
 3. [Artikel 2, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Vrijstelling van belasting wordt in andere gevallen dan bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2025-01-01&g=2025-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3&z=2025-01-01&g=2025-01-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3a&z=2025-01-01&g=2025-01-01) verleend voor uit een ander land afkomstige motorrijtuigen indien ter zake van het in het vrije verkeer brengen daarvan aanspraak op vrijstelling van rechten bij invoer bestaat, of zou bestaan indien de motorrijtuigen uit een ander land dan een lidstaat van de Europese Unie in het vrije verkeer zouden zijn gebracht, onder de daarbij gestelde voorwaarden en beperkingen.
 
@@ -82,13 +106,13 @@ een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [ar
 
 4. In de gevallen waarin vrijstelling van belasting is verleend op de voet van het eerste lid, wordt, indien ingevolge de bepalingen op grond waarvan de vrijstelling van rechten bij invoer is verleend of zou worden verleend de rechten bij invoer verschuldigd is of zou worden, tevens de belasting verschuldigd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De teruggaven, bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15), worden slechts verleend indien degene op wiens naam het motorrijtuig is gesteld binnen dertien weken na de tenaamstelling van het motorrijtuig daartoe verzoekt.
 
 2. Bij gebruikte motorrijtuigen wordt de teruggaaf, bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15), verleend met inachtneming van een vermindering overeenkomstig bij ministeriële regeling vast te stellen regels.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De teruggaaf, bedoeld in [artikel 15, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) wordt verleend, indien:
 
@@ -106,7 +130,7 @@ een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [ar
 
 2. De aangifte, bedoeld in [artikel 15, vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen drie jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De teruggaaf, bedoeld in [artikel 15, eerste lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15), wordt slechts verleend, indien:
 
@@ -126,7 +150,7 @@ een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [ar
 
 3. Onder brandweer-instantie wordt mede begrepen een aangewezen inrichting als bedoeld in [artikel 31 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=31).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De in [artikel 15, eerste lid, aanhef en onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt slechts verleend, indien:
 
@@ -150,7 +174,7 @@ een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [ar
 
 2. De in [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde aangifte wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen vijf jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De in [artikel 15, eerste lid, aanhef en onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt slechts verleend indien:
 
@@ -162,7 +186,7 @@ een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [ar
 
 2. De in [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde aangifte wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen acht jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De in [artikel 15, eerste lid, aanhef en onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt slechts verleend indien:
 
@@ -178,7 +202,7 @@ een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [ar
 
 2. De in [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde aangifte wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen acht jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De in [artikel 15, eerste lid, aanhef en onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt slechts verleend indien:
 
@@ -190,7 +214,7 @@ een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [ar
 
 2. De in [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde aangifte wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen zes jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De in [artikel 15, eerste lid, aanhef en onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt slechts verleend indien:
 
@@ -208,7 +232,7 @@ een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [ar
 
 2. De in [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde aangifte wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen acht jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De in [artikel 15, eerste lid, aanhef en onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt slechts verleend indien:
 
@@ -226,7 +250,7 @@ een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [ar
 
 2. De in [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde aangifte wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen acht jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De teruggaaf, bedoeld in [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16), wordt uitsluitend verleend indien:
 
@@ -244,41 +268,41 @@ een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [ar
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van dit artikel.
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit treedt in werking met ingang van 1 januari 1993.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit besluit kan worden aangehaald als Uitvoeringsbesluit belasting van personenauto's en motorrijwielen 1992.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. Ten behoeve van eenzelfde gehandicapte bestaat aanspraak op de in [artikel 15a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a) bedoelde teruggaaf voor één bestelauto.
 
@@ -300,11 +324,11 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Vervallen
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Vrijstelling van belasting wordt verleend voor motorrijtuigen die zijn ingeschreven in het buitenland en die vanuit dat land voor een periode van ten hoogste twee weken in Nederland ter beschikking staan van een in Nederland wonende natuurlijke persoon en zijn inwonende gezinsleden, of van een in Nederland gevestigd lichaam.
 
@@ -322,7 +346,7 @@ Vervallen
 
 6. Indien het beroep op de vrijstelling, bedoeld in het tweede lid, onderdeel b, elektronisch wordt ingetrokken vóór de dag waarop volgens het elektronische beroep op de vrijstelling het gebruik van de weg aanvangt, geldt het beroep als niet gedaan.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. De in [artikel 14a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14a) bedoelde teruggaaf wordt slechts verleend indien:
 
@@ -336,7 +360,7 @@ Vervallen
 
 2. De teruggaaf wordt door de inspecteur bij voor bezwaar vatbare beschikking verleend.
 
-#### Artikel 4b
+##### Artikel 4b
 
 1. De teruggaaf, bedoeld in [artikel 14a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14a), wordt slechts verleend indien gedurende de periode van het gebruik van de weg met het motorrijtuig de opneming in het register, bedoeld in [artikel 1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=1) niet was voorgeschreven, en:
 
@@ -352,7 +376,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 4c
+##### Artikel 4c
 
 1. De verrekening, bedoeld in [artikel 14b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14b), kan slechts worden toegepast indien het verzoek daartoe gelijktijdig met de aangifte wordt gedaan en bij het verzoek gegevens worden overgelegd waaruit de voor het motorrijtuig in totaal overeengekomen periode van terbeschikkingstelling ondubbelzinnig blijkt. Wanneer de in de eerste volzin bedoelde gegevens niet zijn opgemaakt in de Nederlandse of Engelse taal, wordt een vertaling in één van deze talen bijgevoegd.
 
@@ -362,7 +386,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 13b
+##### Artikel 13b
 
 De teruggaaf, bedoeld in [artikel 15a, vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), kan worden verrekend indien:
 

@@ -1,28 +1,54 @@
 ---
-title: "Verzamelbesluit rechtspositie politie 2022"
+title: "Besluit van 1 september 2022 tot wijziging van onder meer het Besluit algemene rechtspositie politie en Besluit bezoldiging politie in verband met de formalisering van afspraken uit de Arbeidsvoorwaardenovereenkomst sector Politie 2021 en ontwikkelingen in de uitvoeringspraktijk alsmede enkele technische wijzigingen (Verzamelbesluit rechtspositie politie 2022)"
 identifier: "BWBR0047156"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047156"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047156"
+soort: "AMvB"
+stam_id: "16484413"
+version_id: "28887852"
+internal_id: "C40894001"
+label_id: "16406174"
+dtd_version: "2.0"
+original_entry_into_force: "2022-09-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047156/2026-01-01/0"
+intitule_bron: "Stb.2022-357"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-09-01"
+intitule_published: "2022-09-14"
+intitule_in_force: "2022-09-14"
+intitule_status: "goed"
+original_publication: "Stb.2022-357"
+original_signed_date: "2022-09-01"
+original_published_date: "2022-09-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2022-357"
+entry_into_force_date: "2022-09-15"
+jci_1_3: "jci1.3:c:BWBR0047156&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0047156&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Verzamelbesluit rechtspositie politie 2022"
+signed_date: "2022-09-01"
+entry_into_force: "2022-09-15"
 ---
-
 # Besluit van 1 september 2022 tot wijziging van onder meer het Besluit algemene rechtspositie politie en Besluit bezoldiging politie in verband met de formalisering van afspraken uit de Arbeidsvoorwaardenovereenkomst sector Politie 2021 en ontwikkelingen in de uitvoeringspraktijk alsmede enkele technische wijzigingen (Verzamelbesluit rechtspositie politie 2022)
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit algemene rechtspositie politie.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit bezoldiging politie.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit medaille trouwe en langdurige dienst Nederlandse politie.
 
-#### Artikel IV
+##### Artikel IV
 
 1. In 2021 wordt een eenmalige uitkering uitbetaald aan de ambtenaren, bedoeld in [artikel 1, eerste lid onder b, c, d, e en f van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1), die op 1 januari 2021 of op 1 juli 2021 als zodanig zijn aangesteld.
 
@@ -36,15 +62,15 @@ Wijzigt het Besluit medaille trouwe en langdurige dienst Nederlandse politie.
 
 6. De ambtenaar kan op eigen verzoek afzien van het bruto deel van de in het eerste lid bedoelde uitkering.
 
-#### Artikel V
+##### Artikel V
 
 In afwijking van [artikel 3, negende lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=3) (nieuw) en [3a, achtste lid, laatste volzin (nieuw), van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=3a) blijft het garantiebedrag behorende bij opleidingsniveau 4 van toepassing op aspiranten die voor 1 augustus 2022 met de opleiding zijn begonnen.
 
-#### Artikel VI
+##### Artikel VI
 
 Voor de toepassing van [artikel 38 van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=38) blijft [artikel 45a, eerste lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=45a), zoals dat luidde op de dag voor de datum van inwerkingtreding van [artikel II, onderdeel S](https://wetten.overheid.nl/jci1.3:c:BWBR0047156&artikel=II&z=2026-01-01&g=2026-01-01), van dit besluit, van toepassing op degenen die op die dag naast recht op doorbetaling bij ziekte op grond van artikel 38 van het Besluit bezoldiging politie aanspraak hebben op het arbeidsongeschiktheidspensioen, genoemd in [artikel 1, eerste lid, onderdeel ee, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1).
 
-#### Artikel VII
+##### Artikel VII
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047156&artikel=I&z=2026-01-01&g=2026-01-01), en [artikel II, onderdeel S](https://wetten.overheid.nl/jci1.3:c:BWBR0047156&artikel=II&z=2026-01-01&g=2026-01-01).
 
@@ -72,7 +98,7 @@ Voor de toepassing van [artikel 38 van het Besluit bezoldiging politie](https://
 
 13. [Artikel I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0047156&artikel=I&z=2026-01-01&g=2026-01-01), werkt terug tot en met 1 januari 2020.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Dit besluit wordt aangehaald als: Verzamelbesluit rechtspositie politie 2022.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling Informatiehuishouding Financiën 2022 (RINFIN 2022)"
+title: "Regeling van de Minister van Financiën van 16 december 2021, nr. 2021-238261, houdende beheersregels op het gebied van de informatiehuishouding voor het Ministerie van Financiën (Regeling Informatiehuishouding Financiën 2022)"
 identifier: "BWBR0046157"
-categorie: "Overig"
-publicatiedatum: 2023-07-07
-laatste_update: 2023-07-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046157"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-07-07"
+last_updated: "2023-07-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046157"
+soort: "ministeriele-regeling"
+stam_id: "16221513"
+version_id: "28323192"
+internal_id: "C39928251"
+label_id: "16149284"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046157/2023-07-07/0"
+intitule_bron: "Stcrt.2022-59"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-16"
+intitule_published: "2022-01-04"
+intitule_in_force: "2022-01-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-59"
+original_signed_date: "2021-12-16"
+original_published_date: "2022-01-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-59"
+entry_into_force_date: "2022-01-05"
+jci_1_3: "jci1.3:c:BWBR0046157&z=2023-07-07&g=2023-07-07"
+jci_1_0: "1.0:c:BWBR0046157&g=2023-07-07"
+citeertitel_status: "officieel"
+short_title: "Regeling Informatiehuishouding Financiën 2022 (RINFIN 2022)"
+signed_date: "2021-12-16"
+entry_into_force: "2022-01-05"
 ---
-
 # Regeling van de Minister van Financiën van 16 december 2021, nr. 2021-238261, houdende beheersregels op het gebied van de informatiehuishouding voor het Ministerie van Financiën (Regeling Informatiehuishouding Financiën 2022)
 
 gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
@@ -16,7 +42,7 @@ besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -98,15 +124,15 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Reikwijdte en verantwoordelijkheden
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Deze regeling is van toepassing op het beheer van alle overheidsinformatie vallend onder de archiefwettelijke zorg van de Minister.
 
-#### Artikel 3. Minister
+##### Artikel 3. Minister
 
 De Minister is de zorgdrager, bedoeld in [artikel 1, onderdeel d, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1), voor de overheidsinformatie van het ministerie. De zorg van de Minister eindigt door overbrenging, vervreemding of vernietiging van de overheidsinformatie.
 
-#### Artikel 4. Plaatsvervangend secretaris-generaal
+##### Artikel 4. Plaatsvervangend secretaris-generaal
 
 De plaatsvervangend secretaris-generaal is:
 
@@ -116,7 +142,7 @@ De plaatsvervangend secretaris-generaal is:
 
 - 3. stelt regels ten aanzien van noodvernietiging.
 
-#### Artikel 5. Chief Information Officer (CIO)
+##### Artikel 5. Chief Information Officer (CIO)
 
 1. Het Ministerie van Financiën heeft een departementaal CIO-stelsel conform [artikel 9 van het CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=9).
 
@@ -138,7 +164,7 @@ De plaatsvervangend secretaris-generaal is:
 
 - d. is verantwoordelijk voor het beschikbaar zijn van een toepasbare vastgestelde selectielijst.
 
-#### Artikel 6. Archiefbeheerders
+##### Artikel 6. Archiefbeheerders
 
 1. De archiefbeheerders van het Ministerie van Financiën zijn:
 
@@ -170,7 +196,7 @@ De plaatsvervangend secretaris-generaal is:
 
 6. De archiefbeheerder van het kernministerie coördineert de actualisering van deze regeling voor het departement.
 
-#### Artikel 7. Archiefbeherende onderdelen
+##### Artikel 7. Archiefbeherende onderdelen
 
 1. De archiefbeherende onderdelen zijn verantwoordelijk voor het uitvoeren van de taken die aan hen zijn opgedragen door de archiefbeheerder, en zorgen voor:
 
@@ -180,7 +206,7 @@ De plaatsvervangend secretaris-generaal is:
 
 2. Medewerkers van het archiefbeherend onderdeel hebben toegang tot de overheidsinformatie in de voorzieningen voor document- en archiefbeheer die nodig is voor het uitvoeren van hun taken.
 
-#### Artikel 8. Archiefvormende onderdelen
+##### Artikel 8. Archiefvormende onderdelen
 
 1. Archiefvormende onderdelen zijn:
 
@@ -198,7 +224,7 @@ De plaatsvervangend secretaris-generaal is:
 
 - c. het in beheer overdragen van de onder hen berustende overheidsinformatie aan hun archiefbeherend onderdeel, in overeenstemming met de gemaakte afspraken met de archiefbeheerder over de duurzame toegankelijkheid van de onder hen berustende overheidsinformatie.
 
-#### Artikel 9. Raden, commissies, samenwerkingsverbanden en programma- of projectorganisaties
+##### Artikel 9. Raden, commissies, samenwerkingsverbanden en programma- of projectorganisaties
 
 1. Bij de instelling van raden, commissies, samenwerkingsverbanden en programma- en/of projectorganisaties, worden in het instellingsbesluit de afspraken vastgelegd over het beheer van overheidsinformatie.
 
@@ -208,7 +234,7 @@ De plaatsvervangend secretaris-generaal is:
 
 4. De raden, formeel ingestelde commissies, samenwerkingsverbanden en project- of programmadirecties zorgen ervoor dat zij, zodra dit mogelijk is, hun overheidsinformatie in beheer overdragen aan de betrokken archiefbeheerder.
 
-#### Artikel 10. Private partijen
+##### Artikel 10. Private partijen
 
 1. Er worden met externe private partijen, die in opdracht van het ministerie werken en daarbij overheidsinformatie produceren, door de opdrachtgever nadere afspraken gemaakt over het beheer hiervan.
 
@@ -216,13 +242,13 @@ De plaatsvervangend secretaris-generaal is:
 
 ### Hoofdstuk 3. Beheer van overheidsinformatie
 
-#### Artikel 11. Vervanging
+##### Artikel 11. Vervanging
 
 1. De archiefbeheerder kan besluiten over te gaan tot vervanging van overheidsinformatie door gelijkluidende reproducties, tenzij het overheidsinformatie betreft die is uitgesloten van vervanging. De vernietiging van de te vervangen originelen is onverbrekelijk onderdeel van het vervangingsproces.
 
 2. Van vervanging wordt door het archiefbeherend onderdeel een verklaring of besluit opgesteld en ter ondertekening aangeboden aan de archiefbeheerder.
 
-#### Artikel 12. Vernietiging
+##### Artikel 12. Vernietiging
 
 1. Vernietiging van overheidsinformatie vindt uitsluitend plaats na verstrijken van de daarvoor in een selectielijst vastgestelde termijn, of na vervanging van de betreffende overheidsinformatie door reproducties. Tenzij er sprake is van een noodprocedure waardoor vernietiging eerder heeft plaatsgevonden.
 
@@ -230,7 +256,7 @@ De plaatsvervangend secretaris-generaal is:
 
 3. Van vernietiging wordt door het archiefbeherend onderdeel een verklaring opgesteld en ter ondertekening aangeboden aan de archiefbeheerder.
 
-#### Artikel 13. Overbrenging naar een archiefbewaarplaats
+##### Artikel 13. Overbrenging naar een archiefbewaarplaats
 
 1. De archiefbeheerder maakt nadere afspraken met de archiefbeherende onderdelen over het overbrengen van overheidsinformatie naar een archiefbewaarplaats.
 
@@ -242,13 +268,13 @@ De plaatsvervangend secretaris-generaal is:
 
 5. Bij opschorting van overbrenging zijn de openbaarheidsregels van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) op de niet overgebrachte overheidsinformatie van toepassing.
 
-#### Artikel 14. Conversie, migratie en emulatie
+##### Artikel 14. Conversie, migratie en emulatie
 
 1. Het archiefbeherend onderdeel maakt van conversie, migratie of emulatie een verklaring op.
 
 2. De verklaring van conversie, migratie of emulatie wordt ondertekend door de archiefbeheerder.
 
-#### Artikel 15. Vervreemding
+##### Artikel 15. Vervreemding
 
 1. Een archiefbeheerder kan, in overleg met het archiefvormend onderdeel, besluiten tot vervreemding van overheidsinformatie die onder zijn verantwoordelijkheid valt.
 
@@ -258,7 +284,7 @@ De plaatsvervangend secretaris-generaal is:
 
 4. Van de vervreemding wordt door het archiefbeherend onderdeel een verklaring opgesteld en ter ondertekening aangeboden aan de archiefbeheerder.
 
-#### Artikel 16. Organisatieverandering
+##### Artikel 16. Organisatieverandering
 
 1. De archiefbeheerder is, bij een verandering in de organisatie van het ministerie door opheffing, samenvoeging, splitsing of door overdracht van taken, verantwoordelijk voor het treffen van maatregelen betreffende de bestemming en het beheer van overheidsinformatie met inachtneming van het Besluit Archiefoverdrachten Rijksadministratie.
 
@@ -268,11 +294,11 @@ De plaatsvervangend secretaris-generaal is:
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2022. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 januari 2022, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, en werkt zij terug tot en met 1 januari 2022.
 
-#### Artikel 18. Intrekking regelingen
+##### Artikel 18. Intrekking regelingen
 
 De volgende regelingen worden ingetrokken:
 
@@ -280,7 +306,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. de Regeling Archiefbeheer Belastingdienst 2011.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Informatiehuishouding Financiën 2022 (RINFIN 2022).
 

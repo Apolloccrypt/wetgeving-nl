@@ -1,24 +1,50 @@
 ---
-title: "Regeling modellen eigen verklaring"
+title: "Regeling van de Minister van Economische Zaken van 21 maart 2013, nr. WJZ/13041522, tot vaststelling van modellen voor een eigen verklaring als bedoeld in de Aanbestedingswet 2012 (Regeling modellen eigen verklaring)"
 identifier: "BWBR0033051"
-categorie: "Overig"
-publicatiedatum: 2016-07-01
-laatste_update: 2016-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033051"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-07-01"
+last_updated: "2016-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033051"
+soort: "ministeriele-regeling"
+stam_id: "12146383"
+version_id: "20269722"
+internal_id: "C28506021"
+label_id: "12117904"
+dtd_version: "2.0"
+original_entry_into_force: "2013-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033051/2016-07-01/0"
+intitule_bron: "Stcrt.2013-8061"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-03-21"
+intitule_published: "2013-03-22"
+intitule_in_force: "2013-03-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-8061"
+original_signed_date: "2013-03-21"
+original_published_date: "2013-03-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-8061"
+entry_into_force_date: "2013-04-01"
+jci_1_3: "jci1.3:c:BWBR0033051&z=2016-07-01&g=2016-07-01"
+jci_1_0: "1.0:c:BWBR0033051&g=2016-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling modellen eigen verklaring"
+signed_date: "2013-03-21"
+entry_into_force: "2013-04-01"
 ---
-
 # Regeling van de Minister van Economische Zaken van 21 maart 2013, nr. WJZ/13041522, tot vaststelling van modellen voor een eigen verklaring als bedoeld in de Aanbestedingswet 2012 (Regeling modellen eigen verklaring)
 
 Gelet op [artikel 2, tweede lid, van het Aanbestedingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032919&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Als model voor de eigen verklaring, bedoeld in [artikel 2.84 van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.84), wordt aangewezen het standaardformulier, bedoeld in bijlage 2, van de Uitvoeringsverordening (EU), nr. 2016/7 van de Commissie van 5 januari 2016 houdende een standaardformulier voor het Uniform Europees Aanbestedingsdocument (PbEU 2016, L3), met uitzondering van deel IV, onderdelen A tot en met D, van dat formulier.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van 1 april 2013.
 

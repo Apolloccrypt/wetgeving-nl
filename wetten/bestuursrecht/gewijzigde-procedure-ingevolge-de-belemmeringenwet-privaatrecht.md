@@ -1,13 +1,38 @@
 ---
-title: "Gewijzigde procedure ingevolge de Belemmeringenwet Privaatrecht"
+title: "Circulaire van de Minister van Verkeer en Waterstaat aan de hoofdingenieur-directeuren in de regionale directies van de Rijkswaterstaat, met uitzondering van de directie Noordzee, alsmede de hoofdingenieur-directeur van het Rijksinstituut voor Integraal Zoetwaterbeheer en Afvalwaterbehandeling, inzake de gewijzigde procedure ingevolge de Belemmeringenwet Privaatrecht"
 identifier: "BWBR0007589"
-categorie: "Bestuursrecht"
-publicatiedatum: 1995-10-16
-laatste_update: 1995-10-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007589"
+country: "nl"
+rank: "circulaire"
+publication_date: "1995-10-16"
+last_updated: "1995-10-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007589"
+soort: "circulaire"
+stam_id: "6411643"
+version_id: "11078512"
+internal_id: "C14990261"
+label_id: "6400414"
+original_entry_into_force: "1995-10-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007589/1995-10-16/0"
+intitule_bron: "Stcrt.1995-200"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-09-29"
+intitule_published: "1995-10-16"
+intitule_in_force: "1995-10-16"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-200"
+original_signed_date: "1995-09-29"
+original_published_date: "1995-10-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1995-200-p0-SC3942"
+entry_into_force_date: "1995-10-16"
+jci_1_3: "jci1.3:c:BWBR0007589&z=1995-10-16&g=1995-10-16"
+jci_1_0: "1.0:c:BWBR0007589&g=1995-10-16"
+citeertitel_status: "redactioneel"
+short_title: "Gewijzigde procedure ingevolge de Belemmeringenwet Privaatrecht"
+signed_date: "1995-09-29"
+entry_into_force: "1995-10-16"
 ---
-
 # Circulaire van de Minister van Verkeer en Waterstaat aan de hoofdingenieur-directeuren in de regionale directies van de Rijkswaterstaat, met uitzondering van de directie Noordzee, alsmede de hoofdingenieur-directeur van het Rijksinstituut voor Integraal Zoetwaterbeheer en Afvalwaterbehandeling, inzake de gewijzigde procedure ingevolge de Belemmeringenwet Privaatrecht
 
 Zoals u bekend is wordt de procedure ingevolge de [Belemmeringenwet Privaatrecht](onbekend), welke leidt tot een door de Minister van Verkeer en Waterstaat op te leggen plicht tot het gedogen van de aanleg en/of instandhouding, dan wel verplaatsing van een openbaar werk, gevoerd vanuit de Hoofddirectie van de Waterstaat.

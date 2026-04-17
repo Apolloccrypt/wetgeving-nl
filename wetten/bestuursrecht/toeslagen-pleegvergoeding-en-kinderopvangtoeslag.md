@@ -1,13 +1,38 @@
 ---
 title: "Toeslagen, pleegvergoeding en kinderopvangtoeslag"
 identifier: "BWBR0020435"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-10-27
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020435"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2006-10-27"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020435"
+soort: "beleidsregel"
+stam_id: "8672323"
+version_id: "13694562"
+internal_id: "C29292071"
+label_id: "8652524"
+dtd_version: "2.0"
+original_entry_into_force: "2006-10-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020435/2006-10-27/0"
+intitule_bron: "Stcrt.2006-208"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-10-18"
+intitule_published: "2006-10-25"
+intitule_in_force: "2006-10-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-208"
+original_signed_date: "2006-10-18"
+original_published_date: "2006-10-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-208-p23-SC77343"
+entry_into_force_date: "2006-10-27"
+jci_1_3: "jci1.3:c:BWBR0020435&z=2006-10-27&g=2006-10-27"
+jci_1_0: "1.0:c:BWBR0020435&g=2006-10-27"
+citeertitel_status: "redactioneel"
+signed_date: "2006-10-18"
+entry_into_force: "2006-10-27"
 ---
-
 # Toeslagen, pleegvergoeding en kinderopvangtoeslag
 
 Dit besluit valt onder de werking van de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) (hierna: Awir) en heeft in de praktijk uitsluitend betrekking op het recht op een toeslag in de zin van de [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017). Het besluit is in overeenstemming met de Minister voor Volksgezondheid, Welzijn en Sport en de Minister van Sociale Zaken en Werkgelegenheid tot stand gekomen.

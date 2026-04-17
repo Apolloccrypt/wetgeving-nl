@@ -1,13 +1,37 @@
 ---
 title: "Vaststelling selectielijst handelingen Minister van Sociale Zaken en Werkgelegenheid en onder hem ressorterende actoren op het beleidsterrein bezitsvorming 1945-1994"
 identifier: "BWBR0012365"
-categorie: "Sociaal recht"
-publicatiedatum: 2001-05-11
-laatste_update: 2001-05-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012365"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2001-05-11"
+last_updated: "2001-05-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012365"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "3647343"
+version_id: "5430382"
+internal_id: "C25307971"
+label_id: "3627264"
+dtd_version: "2.0"
+original_entry_into_force: "2001-05-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012365/2001-05-11/0"
+intitule_bron: "Stcrt.2001-89"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-03-26"
+intitule_published: "2001-05-09"
+intitule_in_force: "2001-05-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-89"
+original_signed_date: "2001-03-26"
+original_published_date: "2001-05-09"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-05-11"
+jci_1_3: "jci1.3:c:BWBR0012365&z=2001-05-11&g=2001-05-11"
+jci_1_0: "1.0:c:BWBR0012365&g=2001-05-11"
+citeertitel_status: "officieel"
+signed_date: "2001-03-26"
+entry_into_force: "2001-05-11"
 ---
-
 # Vaststelling selectielijst handelingen Minister van Sociale Zaken en Werkgelegenheid en onder hem ressorterende actoren op het beleidsterrein bezitsvorming 1945-1994
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,15 +40,15 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 24 oktober 200
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde `selectielijst voor de neerslag van de handelingen van de Minister van Sociale Werkgelegenheid en de onder hem ressorterende actoren op het beleidsterrein bezitsvorming over de periode 1945-1994' en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 De `Lijst van de vernietigen archiefbescheiden van het Directoraat Generaal voor algemene beleidsaangelegenheden van het Ministerie van Sociale Zaken en Werkgelegenheid' (vastgesteld bij beschikking van de Minister van Welzijn, Volksgezondheid en Cultuur en de Minister van Sociale Zaken en Werkgelegenheid, nr. MMA/Ar 1326 en nr. CA/KAZ 86/149 d.d. 2 juli 1986, laatstelijk gewijzigd bij beschikking van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen en de Minister van Sociale Zaken en Werkgelegenheid, nr. RAD/B&T/98.18/CZ d.d. 2 juni 1998 (gepubliceerd in de Staatscourant nr. 44 d.d. 4 maart 1999)) wordt ingetrokken voorzover deze lijst betrekking heeft op het beleidsterrein bezitsvorming.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

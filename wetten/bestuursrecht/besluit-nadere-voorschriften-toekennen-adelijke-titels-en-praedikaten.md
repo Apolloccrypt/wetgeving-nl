@@ -1,13 +1,38 @@
 ---
-title: "Besluit nadere voorschriften toekennen adelijke titels en praedikaten"
+title: "Besluit van den 24sten Mei 1827, houdende nadere voorschriften omtrent het toekennen van adelijke titels en praedikaten"
 identifier: "BWBR0024678"
-categorie: "Bestuursrecht"
-publicatiedatum: 1827-06-23
-laatste_update: 1827-06-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024678"
+country: "nl"
+rank: "amvb"
+publication_date: "1827-06-23"
+last_updated: "1827-06-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024678"
+soort: "AMvB"
+stam_id: "9762203"
+version_id: "15828012"
+internal_id: "C21657781"
+label_id: "9738954"
+dtd_version: "2.0"
+original_entry_into_force: "1827-06-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024678/1827-06-23/0"
+intitule_bron: "Stb.1827-28"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1827-05-24"
+intitule_published: "1827-06-03"
+intitule_in_force: "1827-06-03"
+intitule_status: "goed"
+original_publication: "Stb.1827-28"
+original_signed_date: "1827-05-24"
+original_published_date: "1827-06-03"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1827-06-23"
+jci_1_3: "jci1.3:c:BWBR0024678&z=1827-06-23&g=1827-06-23"
+jci_1_0: "1.0:c:BWBR0024678&g=1827-06-23"
+citeertitel_status: "redactioneel"
+short_title: "Besluit nadere voorschriften toekennen adelijke titels en praedikaten"
+signed_date: "1827-05-24"
+entry_into_force: "1827-06-23"
 ---
-
 # Besluit van den 24sten Mei 1827, houdende nadere voorschriften omtrent het toekennen van adelijke titels en praedikaten
 
 Gezien Ons [besluit van den 26sten Januari 1822](https://wetten.overheid.nl/jci1.3:c:BWBR0024508) (staatsblad no. 1), betreffende de adelijke titels en kwalificatien;

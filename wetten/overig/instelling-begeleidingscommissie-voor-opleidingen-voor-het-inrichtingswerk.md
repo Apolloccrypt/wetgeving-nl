@@ -1,13 +1,37 @@
 ---
 title: "Instelling Begeleidingscommissie voor opleidingen voor het inrichtingswerk"
 identifier: "BWBR0003024"
-categorie: "Overig"
-publicatiedatum: 1976-05-10
-laatste_update: 1976-05-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003024"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1976-05-10"
+last_updated: "1976-05-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003024"
+soort: "ministeriele-regeling"
+stam_id: "3714973"
+version_id: "5497822"
+internal_id: "C5690911"
+label_id: "3694704"
+dtd_version: "2.0"
+original_entry_into_force: "1976-05-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003024/1976-05-10/0"
+intitule_bron: "Stcrt.1976-76"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1976-03-02"
+intitule_published: "1976-04-20"
+intitule_in_force: "1976-04-20"
+intitule_status: "goed"
+original_publication: "Stcrt.1976-76"
+original_signed_date: "1976-03-02"
+original_published_date: "1976-04-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1976-05-10"
+jci_1_3: "jci1.3:c:BWBR0003024&z=1976-05-10&g=1976-05-10"
+jci_1_0: "1.0:c:BWBR0003024&g=1976-05-10"
+citeertitel_status: "officieel"
+signed_date: "1976-03-02"
+entry_into_force: "1976-05-10"
 ---
-
 # Instelling Begeleidingscommissie voor opleidingen voor het inrichtingswerk
 
 Gelet op de aanbeveling, gedaan in het door de Commissie Opleiding Justitieel Inrichtingswerk uitgebrachte eindrapport,

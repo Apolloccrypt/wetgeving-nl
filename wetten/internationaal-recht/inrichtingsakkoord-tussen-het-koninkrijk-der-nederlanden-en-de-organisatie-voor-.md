@@ -1,13 +1,37 @@
 ---
 title: "Inrichtingsakkoord tussen het Koninkrijk der Nederlanden en de Organisatie voor het verbod van chemische wapens betreffende de inspectie ter plaatse van de inrichting gevestigd in het Prins Maurits Laboratorium van TNO"
 identifier: "BWBV0001601"
-categorie: "Internationaal recht"
-publicatiedatum: 2003-08-12
-laatste_update: 2003-08-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001601"
+country: "nl"
+rank: "verdrag"
+publication_date: "2003-08-12"
+last_updated: "2003-08-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001601"
+soort: "verdrag"
+stam_id: "10000556053"
+version_id: "10000574652"
+internal_id: "C10006989981"
+label_id: "10000556764"
+original_entry_into_force: "2003-08-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001601/2003-08-12/0"
+intitule_bron: "Trb.1998-252"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-08-12"
+intitule_published: "1998-11-11"
+intitule_in_force: "2003-08-29"
+intitule_status: "goed"
+original_publication: "Trb.1998-252"
+original_signed_date: "2003-08-12"
+original_published_date: "1998-11-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-252"
+entry_into_force_date: "2003-08-12"
+jci_1_3: "jci1.3:c:BWBV0001601&z=2003-08-12&g=2003-08-12"
+jci_1_0: "1.0:c:BWBV0001601&g=2003-08-12"
+citeertitel_status: "officieel"
+signed_date: "2003-08-12"
+entry_into_force: "2003-08-12"
 ---
-
 # Inrichtingsakkoord tussen het Koninkrijk der Nederlanden en de Organisatie voor het verbod van chemische wapens betreffende de inspectie ter plaatse van de inrichting gevestigd in het Prins Maurits Laboratorium van TNO
 
 The Kingdom of the Netherlands, hereinafter referred to as “the inspected State Party",
@@ -18,7 +42,7 @@ the Organisation for the Prohibition of Chemical Weapons, hereinafter referred t
 
 have agreed on the following arrangements in relation to the conduct of inspections pursuant to paragraph 3 of Article VI of the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, hereinafter referred to as “the Convention", at the facility for protective purposes, located at TNO Prins Maurits Laboratory, at Rijswijk, The Netherlands, the street address being: Lange Kleiweg 137, 2288 GJ Rijswijk, declared under paragraphs 7 and 8 of Article VI of the Convention, hereinafter referred to as “the facility".
 
-#### Section 1. General Provisions
+##### Section 1. General Provisions
 
 1. The purpose of this Agreement is to facilitate the implementation of the provisions of the Convention, as well as the relevant provisions of OPCW Policies and Regulations, in relation to inspections conducted at the facility, pursuant to paragraph 3 of Article VI and to Part VI, paragraphs 10 and 28 to 32 of the Verification Annex, of the Convention, and in accordance with the respective obligations of the inspected State Party and the OPCW under the Convention.
 
@@ -30,7 +54,7 @@ have agreed on the following arrangements in relation to the conduct of inspecti
 
 5. The language for communication between the inspection team and the inspected State Party during inspections shall be English.
 
-#### Section 2. Health and Safety
+##### Section 2. Health and Safety
 
 1. The specific arrangements for implementing the relevant provisions of the Convention and the OPCW Health and Safety Policy during inspections of the facility are contained in Attachment 2 to this Agreement. In performing inspection activities, the inspection team shall abide by paragraph 43 of Part II of the Verification Annex, which reads: “In carrying out their activities, inspectors and inspection assistants shall observe safety regulations established at the inspection site, including those for the protection of controlled environments within a facility and for personal safety".
 
@@ -58,15 +82,15 @@ have agreed on the following arrangements in relation to the conduct of inspecti
 
 6. The inspected State Party shall provide available data based on detection and monitoring, to an agreed extent necessary, to satisfy concerns that may exist regarding the health and safety of the inspection team. The inspection team shall be immediately informed of any hazards to the health and safety of the members of the inspection team if such hazards are present. Notwithstanding other provisions of this Section, inspectors shall have the right to request at any time environmental samples to be taken at the facility and analysed for the purposes of personal health and safety of the members of the inspection team. Agreed conditions and procedures for on-site sampling and analysis are contained in Part C of Attachment 2 to this Agreement.
 
-#### Section 3. Confidentiality
+##### Section 3. Confidentiality
 
 The specific arrangements for implementing the relevant provisions of the Convention and the OPCW Policy on Confidentiality in relation to the protection of confidential information at the facility are contained in Attachment 3 to this Agreement.
 
-#### Section 4. Media and Public Affairs
+##### Section 4. Media and Public Affairs
 
 The specific arrangements in accordance with the OPCW Media and Public Affairs Policy for the inspections team's contacts, if any, with the media or the public concerning inspections of the facility are contained in Attachment 4 to this Agreement.
 
-#### Section 5. Inspection Equipment
+##### Section 5. Inspection Equipment
 
 1. As agreed between the inspected State Party and the OPCW, the approved inspection equipment listed in Part A of Attachment 5 to this Agreement will, at the discretion of the OPCW and on a routine basis, be brought onto the site. It shall be used in accordance with the Convention, as well as with applicable regulations established by the OPCW and any agreed procedures contained in that Attachment to this Agreement.
 
@@ -82,7 +106,7 @@ The specific arrangements in accordance with the OPCW Media and Public Affairs P
 
 7. The list of agreed on-site monitoring instruments, systems and seals, if any, as well as the lists of agreed conditions, procedures for use, maintenance, repair, modification, and replacement, of provisions for the support, if required, of the inspected State Party, and of installation points and security measures to prevent tampering with such on-site monitoring instruments, are contained in Part D of Attachment 5 to this Agreement.
 
-#### Section 6. Pre-Inspection Activities
+##### Section 6. Pre-Inspection Activities
 
 Upon arrival at the facility and before commencing inspection activity, the inspection team shall, in accordance with paragraph 37 of Part II of the Verification Annex, be briefed by the facility representatives. This briefing shall include the following:
 
@@ -92,7 +116,7 @@ Upon arrival at the facility and before commencing inspection activity, the insp
 
 - (c). any information about the facility that the inspected State Party has volunteered to provide to the inspection team during the pre-inspection briefing, together with indications of which information may be transferred off-site in accordance with Part B of Attachment 6 to this Agreement.
 
-#### Section 7. Conduct of the Inspection
+##### Section 7. Conduct of the Inspection
 
 1. The inspection team leader shall inform the representative of the inspected State Party during the inspection of each subsequent step to be taken by the inspection team in implementing the inspection plan. This shall be done in time to allow the inspected State Party to arrange for the necessary measures to be taken to provide access and support to the inspection team as appropriate, without unnecessarily delaying the conduct of inspection activities.
 
@@ -102,7 +126,7 @@ Upon arrival at the facility and before commencing inspection activity, the insp
 
 4. The inspectors may employ, as appropriate, agreed markers or other inventory control devices to facilitate the verification at the facility of inventories of equipment and of chemicals. Agreed markers or other inventory control devices are contained in Part A of Attachment 5 to this Agreement, and inventory control procedures, including procedures for the use of inventory control devices, are contained in Attachment 9 to this Agreement.
 
-#### Section 8. Visits
+##### Section 8. Visits
 
 1. This section applies to visits conducted pursuant to paragraphs 15 and 16 of Part III of the Verification Annex.
 
@@ -112,11 +136,11 @@ Upon arrival at the facility and before commencing inspection activity, the insp
 
 4. The administrative arrangements for a visit shall be the same as for the conduct of an inspection.
 
-#### Section 9. Debriefing and Preliminary Findings
+##### Section 9. Debriefing and Preliminary Findings
 
 At the conclusion of the debriefing, which shall be conducted, in accordance with paragraph 60 of Part II of the Verification Annex, upon the completion of the inspection, the inspected State Party may provide the inspection team with written comments on any issue related to the conduct of the inspection.
 
-#### Section 10. Administrative Arrangements
+##### Section 10. Administrative Arrangements
 
 1. The inspected State Party shall provide for, or shall arrange for the provision to the inspection team of, the amenities listed in detail in Attachment 10 to this Agreement for the entire duration of the inspection, and in a timely manner. The inspected State Party shall be reimbursed by the OPCW for any costs arising from the provision of such amenities which have been incurred by the inspection team.
 
@@ -124,15 +148,15 @@ At the conclusion of the debriefing, which shall be conducted, in accordance wit
 
 3. The inspection team has the right to refuse amenities that, in its view, are not needed for the conduct of the inspection, and which carry with them the inspected State Party's expectation of reimbursement.
 
-#### Section 11. Liabilities
+##### Section 11. Liabilities
 
 Any claim by the inspected State Party against the OPCW or by the OPCW against the inspected State Party in respect of any alleged damage or injury caused by intent or gross negligence, resulting from inspections at the facility in accordance with this Agreement, shall be without prejudice to paragraph 22 of the Confidentiality Annex, and shall be settled in accordance with international lawand, as appropriate, with the provisions of Article XIV of the Convention.
 
-#### Section 12. Status of Attachments
+##### Section 12. Status of Attachments
 
 The Attachments form an integral part of this Agreement. Any reference to this Agreement shall include its Attachments.
 
-#### Section 13. Amendments, Modifications and Updates
+##### Section 13. Amendments, Modifications and Updates
 
 1. Amendments to this Agreement may be proposed by either Party and shall be agreed to and shall enter into force under the same conditions as provided for under Section 16 of this Agreement.
 
@@ -140,19 +164,19 @@ The Attachments form an integral part of this Agreement. Any reference to this A
 
 3. Updates to Part A of Attachment 1 and Part B of Attachment 5 to this Agreement shall be made by the inspected State Party. Updates to Part B of Attachment 1 to this Agreement shall be made by the OPCW.
 
-#### Section 14. Settlement of Disputes
+##### Section 14. Settlement of Disputes
 
 Any dispute between the Parties that may arise out of the interpretation or application of this Agreement shall be settled in accordance with Article XIV of the Convention.
 
-#### Section 15. Privileges and Immunities
+##### Section 15. Privileges and Immunities
 
 Nothing in this Agreement shall be understood as a waiver of the privileges and immunities granted to the OPCW and its officials by the inspected State Party.
 
-#### Section 16. Entry into Force
+##### Section 16. Entry into Force
 
 This Agreement shall enter into force upon signature, subject to approval by the Executive Council, on the date on which the OPCW and the inspected State Party have exchanged written notifications that their internal requirements for entry into force have been met.
 
-#### Section 17. Duration and Termination
+##### Section 17. Duration and Termination
 
 This Agreement shall cease to be in force when, as determined by the Executive Council, the relevant provisions of Article VI of the Convention and Part VI of the Verification Annex no longer apply to this facility.
 

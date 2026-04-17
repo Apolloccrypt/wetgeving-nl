@@ -1,13 +1,38 @@
 ---
 title: "CBP Richtsnoeren"
 identifier: "BWBR0033173"
-categorie: "Overig"
-publicatiedatum: 2009-08-28
-laatste_update: 2009-08-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033173"
+country: "nl"
+rank: "zbo"
+publication_date: "2009-08-28"
+last_updated: "2009-08-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033173"
+soort: "zbo"
+stam_id: "12183023"
+version_id: "20391602"
+internal_id: "C28670031"
+label_id: "12154664"
+dtd_version: "2.0"
+original_entry_into_force: "2009-08-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033173/2009-08-28/0"
+intitule_bron: "Stcrt.2009-12784"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-08-13"
+intitule_published: "2009-08-28"
+intitule_in_force: "2009-08-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-12784"
+original_signed_date: "2009-08-13"
+original_published_date: "2009-08-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-12784"
+entry_into_force_date: "2009-08-28"
+jci_1_3: "jci1.3:c:BWBR0033173&z=2009-08-28&g=2009-08-28"
+jci_1_0: "1.0:c:BWBR0033173&g=2009-08-28"
+citeertitel_status: "redactioneel"
+signed_date: "2009-08-13"
+entry_into_force: "2009-08-28"
 ---
-
 # CBP Richtsnoeren
 
 ### Actieve openbaarmaking en eerbiediging van de persoonlijke levenssfeer

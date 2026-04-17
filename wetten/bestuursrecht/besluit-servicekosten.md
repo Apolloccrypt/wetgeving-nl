@@ -1,13 +1,39 @@
 ---
-title: "Besluit servicekosten"
+title: "Besluit van 8 april 2003, houdende aanwijzing van zaken en diensten waarvoor de vergoeding moet worden aangemerkt als servicekosten (Besluit servicekosten)"
 identifier: "BWBR0014932"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-07-01
-laatste_update: 2014-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014932"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-07-01"
+last_updated: "2014-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014932"
+soort: "AMvB"
+stam_id: "3475863"
+version_id: "5259202"
+internal_id: "C6618231"
+label_id: "3455884"
+dtd_version: "2.0"
+original_entry_into_force: "2003-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014932/2014-07-01/0"
+intitule_bron: "Stb.2003-170"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-04-08"
+intitule_published: "2003-05-01"
+intitule_in_force: "2003-06-17"
+intitule_status: "goed"
+original_publication: "Stb.2003-170"
+original_signed_date: "2003-04-08"
+original_published_date: "2003-05-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2003-170"
+entry_into_force_date: "2003-08-01"
+jci_1_3: "jci1.3:c:BWBR0014932&z=2014-07-01&g=2014-07-01"
+jci_1_0: "1.0:c:BWBR0014932&g=2014-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit servicekosten"
+signed_date: "2003-04-08"
+entry_into_force: "2003-08-01"
 ---
-
 # Besluit van 8 april 2003, houdende aanwijzing van zaken en diensten waarvoor de vergoeding moet worden aangemerkt als servicekosten (Besluit servicekosten)
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 14 november 2002, nr.MJZ2002093297, gedaan mede namens Onze Minister van Justitie;
@@ -20,15 +46,15 @@ Gezien het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke Ord
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De vergoeding voor de in de bij dit besluit behorende bijlage genoemde zaken en diensten wordt in ieder geval aangemerkt als servicekosten als bedoeld in [artikel 237 lid 3 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=237).
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit servicekosten.
 

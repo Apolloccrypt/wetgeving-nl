@@ -1,16 +1,41 @@
 ---
-title: "Protocol bij het Verdrag ter bestrijding van de valsemunterij"
+title: "Protocol bij het Verdrag ter bestrijding van de valse munterij"
 identifier: "BWBV0006243"
-categorie: "Internationaal recht"
-publicatiedatum: 1932-07-29
-laatste_update: 1932-07-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006243"
+country: "nl"
+rank: "verdrag"
+publication_date: "1932-07-29"
+last_updated: "1932-07-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006243"
+soort: "verdrag"
+stam_id: "10005116093"
+version_id: "10005464892"
+internal_id: "C10008443341"
+label_id: "10005098924"
+dtd_version: "2.0"
+original_entry_into_force: "1932-07-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006243/1932-07-29/0"
+intitule_bron: "Stb.1932-285"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1932-06-07"
+intitule_published: "1932-06-17"
+intitule_in_force: "1954-06-24"
+intitule_status: "goed"
+original_publication: "Stb.1932-285"
+original_signed_date: "1932-06-07"
+original_published_date: "1932-06-17"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1932-07-29"
+jci_1_3: "jci1.3:c:BWBV0006243&z=1932-07-29&g=1932-07-29"
+jci_1_0: "1.0:c:BWBV0006243&g=1932-07-29"
+citeertitel_status: "redactioneel"
+short_title: "Protocol bij het Verdrag ter bestrijding van de valsemunterij"
+signed_date: "1932-06-07"
+entry_into_force: "1932-07-29"
 ---
-
 # Protocol bij het Verdrag ter bestrijding van de valse munterij
 
-#### I. Uitleggingen.
+##### I. Uitleggingen.
 
 Op het oogenblik van onderteekening van het Verdrag hetwelk de dagteekening draagt van heden, verklaren de ondergeteekende Gevolmachtigden ten aanzien van de verschillende bepalingen van het Verdrag de hieronder uiteengezette uitleggingen te aanvaarden.
 
@@ -24,7 +49,7 @@ Het is wel verstaan:
 
 - 4°. Dat de Hooge Verdragsluitende Partijen slechts gehouden zijn de rogatoire commissiën uit te voeren binnen de door nationale wetgeving gestelde grenzen.
 
-#### II. Voorbehouden.
+##### II. Voorbehouden.
 
 De Hooge Verdragsluitende Partijen, die de hieronder vermelde voorbehouden maken, maken daarvan haar aanvaarding van het Verdrag afhankelijk; haar deelneming onder deze voorbehouden wordt door de andere Hooge Verdragsluitende Partijen aanvaard.
 
@@ -34,7 +59,7 @@ De Hooge Verdragsluitende Partijen, die de hieronder vermelde voorbehouden maken
 
 - 3°. Met betrekking tot de bepalingen van artikel 20 behoudt de afvaardiging van de Unie van Socialistische Sowjet Republieken zich voor haar Regeering de bevoegdheid voor om, indien zij dit wenscht, de akte van haar bekrachtiging aan een anderen Staat-onderteekenaar te richten, opdat deze er van afschrift aan den Secretaris-Generaal van den Volkenbond overlegge ter kennisgeving aan alle Staten, die onderteekend hebben of toegetreden zijn.
 
-#### III. Verklaringen.
+##### III. Verklaringen.
 
 Op het oogenblik van onderteekening van het Verdrag heeft de vertegenwoordiger van Zwitserland de volgende verklaring afgelegd:
 

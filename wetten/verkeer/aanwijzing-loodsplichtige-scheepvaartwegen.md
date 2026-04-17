@@ -1,20 +1,44 @@
 ---
 title: "Aanwijzing loodsplichtige scheepvaartwegen"
 identifier: "BWBR0004381"
-categorie: "Verkeer"
-publicatiedatum: 1988-09-01
-laatste_update: 1988-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004381"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1988-09-01"
+last_updated: "1988-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004381"
+soort: "ministeriele-regeling"
+stam_id: "5047413"
+version_id: "9099822"
+internal_id: "C12094551"
+label_id: "5023494"
+dtd_version: "2.0"
+original_entry_into_force: "1988-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004381/1988-09-01/0"
+intitule_bron: "Stcrt.1988-168"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-08-18"
+intitule_published: "1988-08-31"
+intitule_in_force: "1988-08-31"
+intitule_status: "goed"
+original_publication: "Stcrt.1988-168"
+original_signed_date: "1988-08-18"
+original_published_date: "1988-08-31"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1988-09-01"
+jci_1_3: "jci1.3:c:BWBR0004381&z=1988-09-01&g=1988-09-01"
+jci_1_0: "1.0:c:BWBR0004381&g=1988-09-01"
+citeertitel_status: "officieel"
+signed_date: "1988-08-18"
+entry_into_force: "1988-09-01"
 ---
-
 # Aanwijzing loodsplichtige scheepvaartwegen
 
 Gelet op [artikel 11, onderdeel b, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=11) (Stb. 1988, 352);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De scheepvaartwegen, bedoeld in artikel 11, onderdeel b, van de Scheepvaartverkeerswet (Stb. 1988, 352), zijn:
 
@@ -30,11 +54,11 @@ De scheepvaartwegen, bedoeld in artikel 11, onderdeel b, van de Scheepvaartverke
 
 - f. het Schelde-Rijnkanaal: aan de noordzijde begrensd door de scheepvaartweg, genoemd in de bijlage bij de Scheepvaartverkeerswet onderdeel A, onder punt III, nummer 12 en aan de zuidzijde begrensd door de Kreekraksluizen.
 
-#### Artikel 2
+##### Artikel 2
 
 De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004381&artikel=1&z=1988-09-01&g=1988-09-01) genoemde scheepvaartwegen zijn aangegeven op de als bijlage bij deze regeling behorende kaarten.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van 1 september 1988.
 

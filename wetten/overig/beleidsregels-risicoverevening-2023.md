@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels risicoverevening 2023"
+title: "Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 12 oktober 2022, kenmerk 2022039003, voor de toekenning en vaststelling van de vereveningsbijdrage aan zorgverzekeraars 2023 (Beleidsregels Risicoverevening 2023)"
 identifier: "BWBR0047378"
-categorie: "Overig"
-publicatiedatum: 2026-01-20
-laatste_update: 2026-01-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047378"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-20"
+last_updated: "2026-01-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047378"
+soort: "zbo"
+stam_id: "16536613"
+version_id: "28986542"
+internal_id: "C41038291"
+label_id: "16458744"
+dtd_version: "2.0"
+original_entry_into_force: "2022-10-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047378/2026-01-20/0"
+intitule_bron: "Stcrt.2022-27912"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-10-12"
+intitule_published: "2022-10-27"
+intitule_in_force: "2022-10-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-27912"
+original_signed_date: "2022-10-12"
+original_published_date: "2022-10-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-27912"
+entry_into_force_date: "2022-10-28"
+jci_1_3: "jci1.3:c:BWBR0047378&z=2026-01-20&g=2026-01-20"
+jci_1_0: "1.0:c:BWBR0047378&g=2026-01-20"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels risicoverevening 2023"
+signed_date: "2022-10-12"
+entry_into_force: "2022-10-28"
 ---
-
 # Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 12 oktober 2022, kenmerk 2022039003, voor de toekenning en vaststelling van de vereveningsbijdrage aan zorgverzekeraars 2023 (Beleidsregels Risicoverevening 2023)
 
 gelet op de [artikelen 32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), en [34, vierde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. I Algemene bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 Deze beleidsregels verstaan onder:
 
@@ -112,17 +138,17 @@ Deze beleidsregels verstaan onder:
 
 - **0BSN:** opgave van zorgverzekeraars over verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer met per verzekerde de verzekerde periode en de persoonskenmerken geslacht, geboortemaand, geboortejaar en viercijferige postcode. De aanleverdatum van het bestand met gegevensjaar t is 1 juni t+1, de gegevens hebben betrekking op het hele gegevensjaar.
 
-#### Artikel 1.2. Algemene bepaling
+##### Artikel 1.2. Algemene bepaling
 
 Het Zorginstituut neemt de bepalingen uit het [Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492) en de Rrv in acht bij de toepassing van deze beleidsregels.
 
-#### Artikel 1.3. Zorgverzekeraars
+##### Artikel 1.3. Zorgverzekeraars
 
 Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de berekening van de normatieve bedragen en de vereveningsbijdragen ervan uit dat alle zorgverzekeraars die gedurende 2022 zorgverzekeringen hebben aangeboden ook in 2023 zorgverzekeringen zullen aanbieden.
 
 ### Hoofdstuk 2. II Toekenning van de vereveningsbijdrage aan een zorgverzekeraar
 
-#### Artikel 2.1. Algemene bepaling voor de raming van de verzekerdenaantallen
+##### Artikel 2.1. Algemene bepaling voor de raming van de verzekerdenaantallen
 
 1. Het Zorginstituut baseert de raming van de verzekerdenaantallen 2023 op de macroverzekerdenraming en het PER 2022.
 
@@ -132,7 +158,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 4. Het Zorginstituut beschrijft de wijze waarop de verzekerden zijn geraamd in de Verantwoording Verzekerdenraming 2023 die gepubliceerd wordt op de website [www.zorginstituutnederland.nl](onbekend).
 
-#### Artikel 2.2. De verzekerdenaantallen 2023 voor het macro-deelbedrag variabele zorgkosten
+##### Artikel 2.2. De verzekerdenaantallen 2023 voor het macro-deelbedrag variabele zorgkosten
 
 1. Het Zorginstituut deelt voor het macro-deelbedrag variabele zorgkosten verzekerden in bij de criteria L5G, FKG_C, DKG_C, HKG_C, FDG_C, IBZ_C, HSM_C, MHK_C, MVV_C, MFK_C, AVI, SES, PPA, SEI en REG_C.
 
@@ -154,7 +180,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 - f. voor het criterium MFK_C in de klasse ‘Geen MFK_C’.
 
-#### Artikel 2.3. De verzekerdenaantallen 2023 voor het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg
+##### Artikel 2.3. De verzekerdenaantallen 2023 voor het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg
 
 1. Het Zorginstituut deelt voor het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg verzekerden van achttien jaar of ouder in bij de criteria L5G, FKG_G, DKG_G, MHK_G, AVI, SES, PPA, SEI en REG_G.
 
@@ -168,7 +194,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 - b. voor het criterium DKG_G in de klasse ‘Geen DKG_G’.
 
-#### Artikel 2.4. De verzekerdenaantallen 2023 voor de normatieve opbrengst van het eigen risico
+##### Artikel 2.4. De verzekerdenaantallen 2023 voor de normatieve opbrengst van het eigen risico
 
 1. Het Zorginstituut deelt voor de normatieve opbrengst van het eigen risico verzekerden van achttien jaar of ouder die worden ingedeeld in de klassen ‘Geen FKG_C’, ‘Geen DKG_C’, ‘Geen HKG_C’, ‘Geen FDG_C’ en ‘Geen MVV_C’ en niet worden ingedeeld bij MHK_C-klasse ‘2 voorafgaande jaren variabele zorgkosten in top 10 procent’ of hoger, in bij de criteria L5G, MHK_C, AVI, SEI en REG_C.
 
@@ -176,7 +202,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. In afwijking van het eerste lid deelt het Zorginstituut verzekerden die in Nederland wonen niet in bij het criterium SEI.
 
-#### Artikel 2.5. L5G
+##### Artikel 2.5. L5G
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium L5G op:
 
@@ -188,7 +214,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium L5G naar de macroverzekerdenraming.
 
-#### Artikel 2.6. FKG_C
+##### Artikel 2.6. FKG_C
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium FKG_C op:
 
@@ -234,7 +260,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 8. Het Zorginstituut past per verzekerde per klasse van het criterium FKG_C de toepasselijke COVID-correctiefactor toe.
 
-#### Artikel 2.7. FKG_G
+##### Artikel 2.7. FKG_G
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium FKG_G op:
 
@@ -252,7 +278,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 6. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium FKG_G naar de macroverzekerdenraming.
 
-#### Artikel 2.8. DKG_C
+##### Artikel 2.8. DKG_C
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium DKG_C op:
 
@@ -276,7 +302,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 9. Het Zorginstituut past per verzekerde per klasse van het criterium DKG_C de toepasselijke COVID-correctiefactor toe.
 
-#### Artikel 2.9. DKG_G
+##### Artikel 2.9. DKG_G
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium DKG_G op:
 
@@ -312,7 +338,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 11. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium DKG_G naar de macroverzekerdenraming.
 
-#### Artikel 2.10. HKG_C
+##### Artikel 2.10. HKG_C
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium HKG_C op:
 
@@ -332,7 +358,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 7. Het Zorginstituut past per verzekerde per klasse van het criterium HKG_C de toepasselijke COVID-correctiefactor toe.
 
-#### Artikel 2.11. FDG_C
+##### Artikel 2.11. FDG_C
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium FDG_C op:
 
@@ -354,7 +380,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 7. Het Zorginstituut past per verzekerde per klasse van het criterium FDG_C de toepasselijke COVID-correctiefactor toe.
 
-#### Artikel 2.12. IBZ_C
+##### Artikel 2.12. IBZ_C
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium IBZ_C op:
 
@@ -376,7 +402,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 8. Het Zorginstituut herschaalt het geraamde aantal verzekerden in alle klassen van het criterium IBZ_C naar de macroverzekerdenraming.
 
-#### Artikel 2.13. HSM_C
+##### Artikel 2.13. HSM_C
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium HSM_C op:
 
@@ -394,7 +420,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 6. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium HSM_C naar de macroverzekerdenraming.
 
-#### Artikel 2.14. MHK_C
+##### Artikel 2.14. MHK_C
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium MHK_C op:
 
@@ -420,7 +446,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 7. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium MHK_C naar de macroverzekerdenraming en stemt de relatieve prevalentie van verzekerden die in Nederland wonen per klasse af op de Overall Toets 2023 waarbij de gegevens een jaar geactualiseerd zijn.
 
-#### Artikel 2.15. MHK_G
+##### Artikel 2.15. MHK_G
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium MHK_G op:
 
@@ -450,7 +476,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 7. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium MHK_G naar de macroverzekerdenraming en stemt de relatieve prevalentie van verzekerden die in Nederland wonen per klasse af op de Overall Toets 2023.
 
-#### Artikel 2.16. MVV_C
+##### Artikel 2.16. MVV_C
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium MVV_C op:
 
@@ -480,7 +506,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 7. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium MVV_C naar de macroverzekerdenraming en stemt de relatieve prevalentie voor verzekerden die in Nederland wonen per klasse af op de Overall Toets 2023 waarbij de gegevens een jaar geactualiseerd zijn.
 
-#### Artikel 2.17. MFK_C
+##### Artikel 2.17. MFK_C
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium MFK_C op:
 
@@ -504,7 +530,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 7. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium MFK_C naar de macroverzekerdenraming.
 
-#### Artikel 2.18. AVI
+##### Artikel 2.18. AVI
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium AVI op:
 
@@ -530,7 +556,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 4. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium AVI naar de macroverzekerdenraming, waarbij de verzekerden een zodanige zwaarte krijgen dat de relatieve prevalentie per AVI-klasse constant blijft.
 
-#### Artikel 2.19. SES
+##### Artikel 2.19. SES
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium SES op:
 
@@ -558,7 +584,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 5. Het Zorginstituut past een correctie toe vanwege de verruiming van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) per 2021 voor verzekerden met een psychische stoornis.
 
-#### Artikel 2.20. PPA
+##### Artikel 2.20. PPA
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium PPA op:
 
@@ -586,7 +612,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 5. Het Zorginstituut past een correctie toe vanwege de verruiming van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) per 2021 voor verzekerden met een psychische stoornis.
 
-#### Artikel 2.21. SEI
+##### Artikel 2.21. SEI
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium SEI op het PER 2022.
 
@@ -602,7 +628,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 7. Het Zorginstituut bepaalt het geraamde aantal overige verzekerden dat in het buitenland woont door het verschil te nemen tussen het geraamde aantal verzekerden dat in het buitenland woont uit het derde lid en het geraamde aantal seizoenarbeiders uit het zesde lid.
 
-#### Artikel 2.22. REG_C
+##### Artikel 2.22. REG_C
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium REG_C op:
 
@@ -614,7 +640,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium REG_C naar de macroverzekerdenraming.
 
-#### Artikel 2.23. REG_G
+##### Artikel 2.23. REG_G
 
 1. Het Zorginstituut baseert het geraamde aantal verzekerden per zorgverzekeraar voor het criterium REG_G op:
 
@@ -626,7 +652,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Het Zorginstituut herschaalt het geraamde aantal verzekerden voor het criterium REG_G naar de macroverzekerdenraming.
 
-#### Artikel 2.24. Gewichten voor het deelbedrag variabele zorgkosten
+##### Artikel 2.24. Gewichten voor het deelbedrag variabele zorgkosten
 
 1. Voor de verdeling van het macro-deelbedrag variabele zorgkosten gaat het Zorginstituut uit van de gewichten, bedoeld in bijlage 1 van de Rrv.
 
@@ -642,7 +668,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Het Zorginstituut rondt de gewichten, bedoeld in het tweede lid, af op twee decimalen.
 
-#### Artikel 2.25. De verdeling van het macro-deelbedrag variabele zorgkosten en de berekening van het deelbedrag variabele zorgkosten
+##### Artikel 2.25. De verdeling van het macro-deelbedrag variabele zorgkosten en de berekening van het deelbedrag variabele zorgkosten
 
 1. Het Zorginstituut vermenigvuldigt per zorgverzekeraar, per criterium voor de criteria L5G, FKG_C, DKG_C, HKG_C, FDG_C, IBZ_C, HSM_C, MHK_C, MVV_C, MFK_C, AVI, SES, PPA, SEI en REG_C de gewichten, bedoeld in [Artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=2&artikel=2.24&z=2026-01-20&g=2026-01-20), per klasse met het geraamde aantal verzekerden in de overeenkomstige klasse.
 
@@ -650,7 +676,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Het resultaat na toepassing van het tweede lid wordt aangeduid als het deelbedrag variabele zorgkosten 2023.
 
-#### Artikel 2.26. De verdeling van het macro-deelbedrag vaste zorgkosten en de berekening van het deelbedrag vaste zorgkosten
+##### Artikel 2.26. De verdeling van het macro-deelbedrag vaste zorgkosten en de berekening van het deelbedrag vaste zorgkosten
 
 1. Op grond van [artikel 3.5 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.5) berekent het Zorginstituut het gewicht vaste zorgkosten 2023 door het macro-deelbedrag vaste zorgkosten te delen door het landelijk totaal van het aantal geraamde verzekerden 2023 en het resultaat af te ronden op twee decimalen.
 
@@ -658,7 +684,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Het resultaat na toepassing van het tweede lid wordt aangeduid als het deelbedrag vaste zorgkosten 2023.
 
-#### Artikel 2.27. Gewichten voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg
+##### Artikel 2.27. Gewichten voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg
 
 1. Voor de verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg gaat het Zorginstituut uit van de gewichten, bedoeld in bijlage 2 van de Rrv.
 
@@ -670,7 +696,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Het Zorginstituut rondt de gewichten, bedoeld in het tweede lid, af op twee decimalen.
 
-#### Artikel 2.28. De verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg en de berekening van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg
+##### Artikel 2.28. De verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg en de berekening van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg
 
 1. Het Zorginstituut vermenigvuldigt per zorgverzekeraar, per criterium voor de criteria L5G, FKG_G, DKG_G, MHK_G, AVI, SES, PPA, SEI en REG_G de gewichten, bedoeld in [Artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=2&artikel=2.27&z=2026-01-20&g=2026-01-20), per klasse met het geraamde aantal verzekerden in de overeenkomstige klasse.
 
@@ -678,13 +704,13 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Het resultaat na toepassing van het tweede lid wordt aangeduid als het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2023.
 
-#### Artikel 2.29. Gewichten en forfaitair bedrag voor de opbrengst van het eigen risico
+##### Artikel 2.29. Gewichten en forfaitair bedrag voor de opbrengst van het eigen risico
 
 1. Voor de berekening van de normatieve opbrengst van het eigen risico voor verzekerden die zijn ingedeeld in de klassen ‘Geen FKG_C’, ‘Geen DKG_C’, ‘Geen HKG_C’, ‘Geen FDG_C’, en ‘Geen MVV_C’ en niet zijn ingedeeld bij de MHK_C-klasse ‘2 voorafgaande jaren variabele zorgkosten in top 10 procent’ of hoger, gaat het Zorginstituut uit van de gewichten, bedoeld in bijlage 4 van de Rrv.
 
 2. Voor de berekening van de normatieve opbrengst van het eigen risico voor verzekerden die niet bedoeld zijn in het eerste lid, hanteert het Zorginstituut de geraamde opbrengst per verzekerde, bedoeld in artikel 9, vierde lid, van de Rrv.
 
-#### Artikel 2.30. De berekening van de normatieve opbrengst van het eigen risico
+##### Artikel 2.30. De berekening van de normatieve opbrengst van het eigen risico
 
 1. Het Zorginstituut vermenigvuldigt per zorgverzekeraar, per criterium voor de criteria L5G, MHK_C, AVI, SEI en REG_C de gewichten, bedoeld in [Artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=2&artikel=2.29&z=2026-01-20&g=2026-01-20), per klasse met het geraamde aantal verzekerden in de overeenkomstige klasse.
 
@@ -696,7 +722,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 5. Het resultaat na toepassing van het vierde lid wordt aangeduid als normatieve opbrengst van het eigen risico 2023.
 
-#### Artikel 2.31. De berekening van het normatieve bedrag en de berekening en toekenning van de vereveningsbijdrage
+##### Artikel 2.31. De berekening van het normatieve bedrag en de berekening en toekenning van de vereveningsbijdrage
 
 1. Het Zorginstituut berekent het normatieve bedrag 2023 van een zorgverzekeraar als de som van het deelbedrag variabele zorgkosten 2023, het deelbedrag vaste zorgkosten 2023 en het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2023.
 
@@ -712,13 +738,13 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 ### Hoofdstuk 3. III De herberekening van de toegekende bijdrage
 
-#### Artikel 3.1. Herberekeningen als gevolg van splitsing van de zorgverzekeraar
+##### Artikel 3.1. Herberekeningen als gevolg van splitsing van de zorgverzekeraar
 
 1. Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2023 besluit zich te splitsen, verzoekt het Zorginstituut de zorgverzekeraar om mee te delen hoe naar zijn verwachting de geraamde verzekerdenaantallen 2023 verdeeld zullen worden, over nieuwe dan wel bestaande zorgverzekeraars als gevolg van de splitsing.
 
 2. Het Zorginstituut kan de toegekende vereveningsbijdrage herzien en bijdragen aan nieuwe dan wel bestaande zorgverzekeraars toekennen, rekening houdend met de meegedeelde geraamde verzekerdenaantallen en het tijdstip waarop de splitsing wordt gerealiseerd.
 
-#### Artikel 3.2. De herberekening en herziening van de toegekende bijdrage 2023
+##### Artikel 3.2. De herberekening en herziening van de toegekende bijdrage 2023
 
 1. Het Zorginstituut baseert de herberekening van de vereveningsbijdrage op de verzekerdenaantallen 2023 volgens de opgaven van de zorgverzekeraars aan het Zorginstituut op 7 maart 2023.
 
@@ -730,7 +756,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 ### Hoofdstuk 4. IV De eerste voorlopige vaststelling van de vereveningsbijdrage voor een zorgverzekeraar
 
-#### Artikel 4.1. Algemene bepaling verzekerdenaantallen
+##### Artikel 4.1. Algemene bepaling verzekerdenaantallen
 
 1. Het Zorginstituut voert de correcties door die de Nederlandse Zorgautoriteit heeft toegepast over 2023 bij de vaststelling van de verzekerdenaantallen 2023.
 
@@ -748,7 +774,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 8. Het Zorginstituut past het bepaalde in het eerste tot en met zevende lid toe bij [Artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=4&artikel=4.22&z=2026-01-20&g=2026-01-20), [Artikel 4.23](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=4&artikel=4.23&z=2026-01-20&g=2026-01-20), [Artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=4&artikel=4.25&z=2026-01-20&g=2026-01-20), [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=4&artikel=4.27&z=2026-01-20&g=2026-01-20) en [Artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=5&artikel=5.2&z=2026-01-20&g=2026-01-20).
 
-#### Artikel 4.2. L5G
+##### Artikel 4.2. L5G
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar en per modelovereenkomst voor het criterium L5G op:
 
@@ -758,7 +784,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 2. Het Zorginstituut bepaalt op basis van het eerste lid in welke L5G-klasse een verzekerde wordt ingedeeld.
 
-#### Artikel 4.3. FKG_C
+##### Artikel 4.3. FKG_C
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar en per modelovereenkomst voor het criterium FKG_C op:
 
@@ -772,7 +798,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Als een verzekerde niet in een andere klasse dan ‘Geen FKG_C’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen FKG_C’ in.
 
-#### Artikel 4.4. FKG_G
+##### Artikel 4.4. FKG_G
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar voor het criterium FKG_G op:
 
@@ -784,7 +810,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Als een verzekerde niet in een andere klasse dan ‘Geen FKG_G’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen FKG_G’ in.
 
-#### Artikel 4.5. DKG_C
+##### Artikel 4.5. DKG_C
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar en per modelovereenkomst voor het criterium DKG_C op:
 
@@ -796,7 +822,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Als een verzekerde niet in een andere klasse dan ‘Geen DKG_C’ is ingedeeld, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen DKG_C’ in.
 
-#### Artikel 4.6. DKG_G
+##### Artikel 4.6. DKG_G
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar voor het criterium DKG_G op:
 
@@ -818,7 +844,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 5. Als een verzekerde niet in een andere klasse dan ‘Geen DKG_G’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen DKG_G’ in.
 
-#### Artikel 4.7. HKG_C
+##### Artikel 4.7. HKG_C
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar en per modelovereenkomst voor het criterium HKG_C op:
 
@@ -830,7 +856,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Als een verzekerde niet in een andere klasse dan ‘Geen HKG_C’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen HKG_C’ in.
 
-#### Artikel 4.8. FDG_C
+##### Artikel 4.8. FDG_C
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar en per modelovereenkomst voor het criterium FDG_C op:
 
@@ -844,7 +870,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Als een verzekerde niet in een andere klasse dan ‘Geen FDG_C’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen FDG_C’ in.
 
-#### Artikel 4.9. IBZ_C
+##### Artikel 4.9. IBZ_C
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar en per modelovereenkomst voor het criterium IBZ_C op:
 
@@ -856,7 +882,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Als een verzekerde niet in een andere klasse dan ‘Geen IBZ_C’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen IBZ_C’ in.
 
-#### Artikel 4.10. HSM_C
+##### Artikel 4.10. HSM_C
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar en per modelovereenkomst voor het criterium HSM_C op:
 
@@ -868,7 +894,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Als een verzekerde niet in een andere klasse dan ‘Geen HSM_C’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen HSM_C’ in.
 
-#### Artikel 4.11. MHK_C
+##### Artikel 4.11. MHK_C
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar en per modelovereenkomst voor het criterium MHK_C op:
 
@@ -886,7 +912,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Als een verzekerde niet in een andere klasse dan ‘Geen MHK_C’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen MHK_C’ in.
 
-#### Artikel 4.12. MHK_G
+##### Artikel 4.12. MHK_G
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar voor het criterium MHK_G op:
 
@@ -908,7 +934,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Als een verzekerde niet in een andere klasse dan ‘Geen MHK_G’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen MHK_G’ in.
 
-#### Artikel 4.13. MVV_C
+##### Artikel 4.13. MVV_C
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar en per modelovereenkomst voor het criterium MVV_C op:
 
@@ -930,7 +956,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Als een verzekerde niet in een andere klasse dan ‘Geen MVV_C’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen MVV_C’ in.
 
-#### Artikel 4.14. MFK_C
+##### Artikel 4.14. MFK_C
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar en per modelovereenkomst voor het criterium MFK_C op:
 
@@ -946,7 +972,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 3. Als een verzekerde niet in een andere klasse dan ‘Geen MFK_C’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen MFK_C’ in.
 
-#### Artikel 4.15. AVI
+##### Artikel 4.15. AVI
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar en per modelovereenkomst voor het criterium AVI op:
 
@@ -968,7 +994,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel b tot en met h, met het gepseudonimiseerde burgerservicenummer aan het PKB 2023 en bepaalt daarmee en met inachtneming van [Bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&bijlage=14&z=2026-01-20&g=2026-01-20) van deze Beleidsregels, in welke AVI-klasse een verzekerde wordt ingedeeld.
 
-#### Artikel 4.16. SES
+##### Artikel 4.16. SES
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar en per modelovereenkomst voor het criterium SES op:
 
@@ -990,7 +1016,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel b tot en met h, met het gepseudonimiseerde burgerservicenummer aan het PKB 2023 en bepaalt daarmee en met inachtneming van [Bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&bijlage=15&z=2026-01-20&g=2026-01-20) van deze Beleidsregels, in welke SES klasse een verzekerde wordt ingedeeld.
 
-#### Artikel 4.17. PPA
+##### Artikel 4.17. PPA
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar en per modelovereenkomst voor het criterium PPA op:
 
@@ -1012,7 +1038,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid onderdeel b tot en met h, met het gepseudonimiseerde burgerservicenummer aan het PKB 2023 en bepaalt daarmee en met inachtneming van [Bijlage 16](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&bijlage=16&z=2026-01-20&g=2026-01-20) van deze Beleidsregels, in welke PPA-klasse een verzekerde wordt ingedeeld.
 
-#### Artikel 4.18. SEI
+##### Artikel 4.18. SEI
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar en per modelovereenkomst voor het criterium SEI op:
 
@@ -1022,7 +1048,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel a en b, met het gepseudonimiseerde burgerservicenummer aan elkaar en bepaalt daarmee en met inachtneming van de definitie in [Artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=1&artikel=1.1&z=2026-01-20&g=2026-01-20), in welke SEI-klasse een verzekerde die woont in het buitenland wordt ingedeeld.
 
-#### Artikel 4.19. REG_C
+##### Artikel 4.19. REG_C
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar en per modelovereenkomst voor het criterium REG_C op:
 
@@ -1032,7 +1058,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 2. Het Zorginstituut bepaalt op basis van het eerste lid in welke REG_C-klasse een verzekerde wordt ingedeeld.
 
-#### Artikel 4.20. REG_G
+##### Artikel 4.20. REG_G
 
 1. Het Zorginstituut baseert het aantal verzekerden per zorgverzekeraar voor het criterium REG_G op:
 
@@ -1042,11 +1068,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2023 en de ber
 
 2. Het Zorginstituut bepaalt op basis van het eerste lid in welke REG_G-klasse een verzekerde wordt ingedeeld.
 
-#### Artikel 4.21. Criteriumneutraliteit voor deelbedrag variabele zorgkosten 2023
+##### Artikel 4.21. Criteriumneutraliteit voor deelbedrag variabele zorgkosten 2023
 
 Het Zorginstituut herberekent het gewicht van de in bijlage 6, tabel 6.1, van de Rrv, genoemde aanpassingsklassen overeenkomstig de bepalingen in artikel 12, vierde en vijfde lid, van de Rrv.
 
-#### Artikel 4.22. De voorlopige herberekening van het deelbedrag variabele zorgkosten 2023
+##### Artikel 4.22. De voorlopige herberekening van het deelbedrag variabele zorgkosten 2023
 
 1. Het Zorginstituut bepaalt de variabele zorgkosten 2023 op basis van de opgave jaarstaat 2023 per 1 mei 2024 en met inachtneming van de artikelen 13, 14 en 15 van de Rrv:
 
@@ -1100,7 +1126,7 @@ Het Zorginstituut herberekent het gewicht van de in bijlage 6, tabel 6.1, van de
 
 13. Tot slot sommeert het Zorginstituut per zorgverzekeraar het resultaat van het twaalfde lid van alle modelovereenkomsten van die zorgverzekeraar. Het resultaat wordt aangeduid als het voorlopige herberekende deelbedrag variabele zorgkosten 2023.
 
-#### Artikel 4.23. De voorlopige herberekening van het deelbedrag vaste zorgkosten 2023
+##### Artikel 4.23. De voorlopige herberekening van het deelbedrag vaste zorgkosten 2023
 
 1. Het Zorginstituut bepaalt de vaste zorgkosten 2023 voor iedere zorgverzekeraar afzonderlijk op basis van de opgave jaarstaat 2023 per 1 mei 2024 en met inachtneming van de artikelen 13, 14 en 16 van de Rrv.
 
@@ -1110,11 +1136,11 @@ Het Zorginstituut herberekent het gewicht van de in bijlage 6, tabel 6.1, van de
 
 4. De som van het product na toepassing van het tweede lid en de nacalculatie op het verschil na toepassing van het derde lid wordt aangeduid als het voorlopige herberekende deelbedrag vaste zorgkosten 2023.
 
-#### Artikel 4.24. Criteriumneutraliteit voor het deelbedrag kosten geneeskundige geestelijke gezondheidszorg 2023
+##### Artikel 4.24. Criteriumneutraliteit voor het deelbedrag kosten geneeskundige geestelijke gezondheidszorg 2023
 
 Het Zorginstituut herberekent het gewicht van de in bijlage 6, tabel 6.2, van de Rrv, genoemde aanpassingsklassen overeenkomstig de bepalingen in artikel 12, vierde en vijfde lid, van de Rrv. Het Zorginstituut gaat bij deze herberekening uit van de tabellen uit bijlage 2 van de Rrv in plaats van de tabellen uit bijlage 3 van de Rrv.
 
-#### Artikel 4.25. De voorlopige herberekening van het deelbedrag kosten geneeskundige geestelijke gezondheidszorg 2023
+##### Artikel 4.25. De voorlopige herberekening van het deelbedrag kosten geneeskundige geestelijke gezondheidszorg 2023
 
 1. Het Zorginstituut bepaalt de kosten van geneeskundige geestelijke gezondheidszorg 2023 voor iedere zorgverzekeraar afzonderlijk en voor de gezamenlijke zorgverzekeraars op basis van de opgave jaarstaat 2023 per 1 mei 2024 en met inachtneming van de artikelen 13, 14 en 15 van de Rrv.
 
@@ -1130,11 +1156,11 @@ Het Zorginstituut herberekent het gewicht van de in bijlage 6, tabel 6.2, van de
 
 7. Het Zorginstituut vermindert per zorgverzekeraar het product voor die zorgverzekeraar, berekend in het vierde lid, met het product voor die zorgverzekeraar, berekend in het zesde lid. Het resultaat wordt aangeduid als het voorlopige herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2023.
 
-#### Artikel 4.26. Criteriumneutraliteit voor de normatieve opbrengst van het eigen risico 2023
+##### Artikel 4.26. Criteriumneutraliteit voor de normatieve opbrengst van het eigen risico 2023
 
 Het Zorginstituut herberekent het gewicht van de in bijlage 6, tabel 6.3, van de Rrv, genoemde aanpassingsklassen overeenkomstig de bepalingen in artikel 18, derde lid, van de Rrv.
 
-#### Artikel 4.27. De voorlopige herberekening van de normatieve opbrengst van het eigen risico 2023
+##### Artikel 4.27. De voorlopige herberekening van de normatieve opbrengst van het eigen risico 2023
 
 1.
 
@@ -1142,7 +1168,7 @@ Het Zorginstituut herberekent de normatieve opbrengst van het eigen risico 2023 
 
 2. In afwijking van [Artikel 2.30, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=2&artikel=2.30&z=2026-01-20&g=2026-01-20), wordt de detentiefactor gebaseerd op de gerealiseerde gederfde inkomsten voor verzekerden van achttien jaar en ouder waarvoor als gevolg van de toepasselijkheid van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen. Het resultaat wordt aangeduid als de voorlopige herberekende normatieve opbrengst van het eigen risico 2023.
 
-#### Artikel 4.28. De voorlopige herberekening van het normatieve bedrag 2023 en de voorlopige herberekening en voorlopige vaststelling van de vereveningsbijdrage 2023
+##### Artikel 4.28. De voorlopige herberekening van het normatieve bedrag 2023 en de voorlopige herberekening en voorlopige vaststelling van de vereveningsbijdrage 2023
 
 1. Het Zorginstituut herberekent het normatieve bedrag 2023 voor de eerste voorlopige vaststelling als de som van het voorlopige herberekende deelbedrag variabele zorgkosten 2023, het voorlopige herberekende deelbedrag vaste zorgkosten 2023 en het voorlopig herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2023.
 
@@ -1166,11 +1192,11 @@ Het Zorginstituut herberekent de normatieve opbrengst van het eigen risico 2023 
 
 ### Hoofdstuk 5. V De tweede voorlopige vaststelling van de vereveningsbijdrage voor een zorgverzekeraar
 
-#### Artikel 5.1. Algemene bepaling
+##### Artikel 5.1. Algemene bepaling
 
 Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopig met inachtneming van de kosten 2023 uit de opgave jaarstaat 2025 per 1 mei 2026, de correcties die de Nederlandse Zorgautoriteit heeft toegepast en de bepalingen uit dit hoofdstuk.
 
-#### Artikel 5.2. Bepaling van de verzekerdenaantallen 2023
+##### Artikel 5.2. Bepaling van de verzekerdenaantallen 2023
 
 1. Het Zorginstituut voert de correcties door die de Nederlandse Zorgautoriteit heeft toegepast bij de verzekerdenaantallen 2023.
 
@@ -1190,19 +1216,19 @@ Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopi
 
 9. Het Zorginstituut past het bepaalde in [Artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=5&artikel=5.1&z=2026-01-20&g=2026-01-20) en 5.2, eerste tot en met achtste lid, toe bij [Artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=5&artikel=5.3&z=2026-01-20&g=2026-01-20), [Artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=5&artikel=5.4&z=2026-01-20&g=2026-01-20), [Artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=5&artikel=5.6&z=2026-01-20&g=2026-01-20) en [Artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=5&artikel=5.7&z=2026-01-20&g=2026-01-20).
 
-#### Artikel 5.3. De tweede voorlopige herberekening van het deelbedrag variabele zorgkosten 2023
+##### Artikel 5.3. De tweede voorlopige herberekening van het deelbedrag variabele zorgkosten 2023
 
 Het Zorginstituut herberekent voor de tweede keer voorlopig het deelbedrag variabele zorgkosten 2023 per zorgverzekeraar overeenkomstig [Artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=4&artikel=4.22&z=2026-01-20&g=2026-01-20).
 
-#### Artikel 5.4. De tweede voorlopige herberekening van het deelbedrag vaste zorgkosten 2023
+##### Artikel 5.4. De tweede voorlopige herberekening van het deelbedrag vaste zorgkosten 2023
 
 Het Zorginstituut herberekent voor de tweede keer voorlopig het deelbedrag vaste zorgkosten 2023 per zorgverzekeraar overeenkomstig [Artikel 4.23](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=4&artikel=4.23&z=2026-01-20&g=2026-01-20).
 
-#### Artikel 5.5. Criteriumneutraliteit voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2023 op basis van gewichten inclusief HKC
+##### Artikel 5.5. Criteriumneutraliteit voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2023 op basis van gewichten inclusief HKC
 
 Het Zorginstituut herberekent het gewicht van de in bijlage 6, tabel 6.2, van de Rrv, genoemde aanpassingsklassen overeenkomstig de bepalingen in artikel 12, vierde en vijfde lid, van de Rrv.
 
-#### Artikel 5.6. De tweede voorlopige herberekening van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2023
+##### Artikel 5.6. De tweede voorlopige herberekening van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2023
 
 1. Het Zorginstituut bepaalt de kosten van geneeskundige geestelijke gezondheidszorg 2023 voor iedere zorgverzekeraar afzonderlijk en voor de gezamenlijke zorgverzekeraars, met inachtneming van artikel 13, 14 en 15 van de Rrv.
 
@@ -1220,11 +1246,11 @@ Het Zorginstituut herberekent het gewicht van de in bijlage 6, tabel 6.2, van de
 
 8. Het Zorginstituut past op het resultaat uit het zevende lid hogekostencompensatie toe overeenkomstig artikel 17 van de Rrv. Het resultaat wordt aangeduid als het tweede voorlopige herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2023.
 
-#### Artikel 5.7. De tweede voorlopige herberekening van de normatieve opbrengst van het eigen risico 2023
+##### Artikel 5.7. De tweede voorlopige herberekening van de normatieve opbrengst van het eigen risico 2023
 
 Het Zorginstituut herberekent voor de tweede keer voorlopig de normatieve opbrengst van het eigen risico 2023 overeenkomstig [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=4&artikel=4.27&z=2026-01-20&g=2026-01-20).
 
-#### Artikel 5.8. De tweede voorlopige herberekening van het normatieve bedrag 2023 en de tweede voorlopige herberekening en de vaststelling van de vereveningsbijdrage 2023
+##### Artikel 5.8. De tweede voorlopige herberekening van het normatieve bedrag 2023 en de tweede voorlopige herberekening en de vaststelling van de vereveningsbijdrage 2023
 
 1. Het Zorginstituut herberekent het normatieve bedrag 2023 voor de tweede voorlopige vaststelling als de som van het tweede voorlopige herberekende deelbedrag variabele zorgkosten 2023, het tweede voorlopige herberekende deelbedrag vaste zorgkosten 2023 en het tweede voorlopige herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2023.
 
@@ -1248,29 +1274,29 @@ Het Zorginstituut herberekent voor de tweede keer voorlopig de normatieve opbren
 
 ### Hooffdstuk 6. VI De vaststelling van de vereveningsbijdrage voor een zorgverzekeraar
 
-#### Artikel 6.1. Algemene bepaling
+##### Artikel 6.1. Algemene bepaling
 
 1. Het Zorginstituut herberekent de vereveningsbijdrage per zorgverzekeraar definitief met inachtneming van de correcties die de Nederlandse Zorgautoriteit heeft gerapporteerd over de declaraties 2022 per gepseudonimiseerd burgerservicenummer en kosten 2023 uit de jaarstaat 2025.
 
 2. Het Zorginstituut past het bepaalde in het eerste lid toe bij [Artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=6&artikel=6.2&z=2026-01-20&g=2026-01-20), [Artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=6&artikel=6.3&z=2026-01-20&g=2026-01-20), [Artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=6&artikel=6.4&z=2026-01-20&g=2026-01-20), [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=6&artikel=6.5&z=2026-01-20&g=2026-01-20) en [Artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=6&artikel=6.6&z=2026-01-20&g=2026-01-20).
 
-#### Artikel 6.2. De definitieve herberekening van het deelbedrag variabele zorgkosten 2023
+##### Artikel 6.2. De definitieve herberekening van het deelbedrag variabele zorgkosten 2023
 
 Het Zorginstituut herberekent definitief het deelbedrag variabele zorgkosten 2023 per zorgverzekeraar overeenkomstig [Artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=5&artikel=5.3&z=2026-01-20&g=2026-01-20).
 
-#### Artikel 6.3. De definitieve herberekening van het deelbedrag vaste zorgkosten 2023
+##### Artikel 6.3. De definitieve herberekening van het deelbedrag vaste zorgkosten 2023
 
 Het Zorginstituut herberekent definitief het deelbedrag vaste zorgkosten 2023 per zorgverzekeraar overeenkomstig [Artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=5&artikel=5.4&z=2026-01-20&g=2026-01-20).
 
-#### Artikel 6.4. De definitieve herberekening van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2023
+##### Artikel 6.4. De definitieve herberekening van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2023
 
 Het Zorginstituut herberekent definitief het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2023 per zorgverzekeraar overeenkomstig [Artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=5&artikel=5.6&z=2026-01-20&g=2026-01-20).
 
-#### Artikel 6.5. De definitieve herberekening van de normatieve opbrengst van het eigen risico 2023
+##### Artikel 6.5. De definitieve herberekening van de normatieve opbrengst van het eigen risico 2023
 
 Het Zorginstituut herberekent definitief de normatieve opbrengst van het eigen risico 2023 per zorgverzekeraar overeenkomstig [Artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=5&artikel=5.7&z=2026-01-20&g=2026-01-20).
 
-#### Artikel 6.6. De definitieve herberekening van het normatieve bedrag 2023 en de definitieve herberekening en de vaststelling van de vereveningsbijdrage 2023
+##### Artikel 6.6. De definitieve herberekening van het normatieve bedrag 2023 en de definitieve herberekening en de vaststelling van de vereveningsbijdrage 2023
 
 1. Het Zorginstituut herberekent definitief het normatieve bedrag 2023 per zorgverzekeraar overeenkomstig [Artikel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=5&artikel=5.8&z=2026-01-20&g=2026-01-20) .
 
@@ -1278,7 +1304,7 @@ Het Zorginstituut herberekent definitief de normatieve opbrengst van het eigen r
 
 ### Hoofdstuk 7. VII De betalingen aan de zorgverzekeraars
 
-#### Artikel 7.1. Betaling
+##### Artikel 7.1. Betaling
 
 1. Het Zorginstituut betaalt de zorgverzekeraars de vereveningsbijdrage, bedoeld in [Artikel 2.31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=2&artikel=2.31&z=2026-01-20&g=2026-01-20), uit. Het Zorginstituut maakt bij de betaling onderscheid naar de volgende bestanddelen:
 
@@ -1292,7 +1318,7 @@ Het Zorginstituut herberekent definitief de normatieve opbrengst van het eigen r
 
 2. Het Zorginstituut betaalt de zorgverzekeraars de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar, bedoeld in [Artikel 2.31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=2&artikel=2.31&z=2026-01-20&g=2026-01-20), gelijktijdig uit met de betaling, bedoeld in het eerste lid.
 
-#### Artikel 7.2. Betalingsschema
+##### Artikel 7.2. Betalingsschema
 
 1. Het Zorginstituut bepaalt per zorgverzekeraar de som van de bestanddelen bedoeld in [Artikel 7.1, eerste lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=7&artikel=7.1&z=2026-01-20&g=2026-01-20), en de uitkering, bedoeld in Artikel 7.1, tweede lid.
 
@@ -1357,7 +1383,7 @@ Het Zorginstituut herberekent definitief de normatieve opbrengst van het eigen r
 
 13. Het Zorginstituut kan, indien naar zijn oordeel uit nieuwe informatie blijkt dat de verwachting is dat bij de eerstvolgende herberekening of herziening van de vereveningsbijdrage, de vereveningsbijdrage meer dan 5 procent hoger zal zijn dan bij de laatst toegekende of voorlopig vastgestelde vereveningsbijdrage, afwijken van de vorige leden en de betalingen aan een zorgverzekeraar aanpassen.
 
-#### Artikel 7.3. Aanpassing betalingen
+##### Artikel 7.3. Aanpassing betalingen
 
 1. Bij de herberekening en herziening van de toegekende vereveningsbijdrage 2023 op grond van [Artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=3&artikel=3.2&z=2026-01-20&g=2026-01-20) herziet het Zorginstituut de te betalen termijnen overeenkomstig [Artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=7&artikel=7.2&z=2026-01-20&g=2026-01-20) voor de eerste keer. Het Zorginstituut verrekent het verschil tussen de reeds betaalde termijnen en de voor de eerste keer herziene termijnen.
 
@@ -1371,13 +1397,13 @@ Het Zorginstituut herberekent definitief de normatieve opbrengst van het eigen r
 
 6. Indien toepassing van onderscheidenlijk het eerste, tweede, derde en vierde lid, resulteert in een negatief saldo voor de zorgverzekeraar, betaalt de betreffende zorgverzekeraar dat saldo in één keer terug aan het Zorginstituut.
 
-#### Artikel 7.4. Rente
+##### Artikel 7.4. Rente
 
 1. De zorgverzekeraar en het Zorginstituut zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [Artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=7&artikel=7.3&z=2026-01-20&g=2026-01-20).
 
 2. De rente, bedoeld in het eerste lid, wordt bij de eerste voorlopige, tweede voorlopige en de definitieve vaststelling van de uitkering door het Zorginstituut verwerkt en zo mogelijk verrekend met andere betalingen die uit deze vaststellingen voortvloeien.
 
-#### Artikel 7.5. Renteberekening
+##### Artikel 7.5. Renteberekening
 
 1. Bij de verrekening van verschillen, bedoeld in [Artikel 7.3, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047378&hoofdstuk=7&artikel=7.3&z=2026-01-20&g=2026-01-20), berekent het Zorginstituut rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
 
@@ -1401,11 +1427,11 @@ Het Zorginstituut herberekent definitief de normatieve opbrengst van het eigen r
 
 ### Hoofdstuk 8. VIII Slotbepalingen
 
-#### Artikel 8.1. Inwerkingtreding
+##### Artikel 8.1. Inwerkingtreding
 
 Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst, en werken terug tot en met 15 oktober 2022.
 
-#### Artikel 8.2. Citeertitel
+##### Artikel 8.2. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels risicoverevening 2023.
 

@@ -1,13 +1,38 @@
 ---
 title: "Europees Handvest voor regionale talen of talen van minderheden"
 identifier: "BWBV0001223"
-categorie: "Internationaal recht"
-publicatiedatum: 1998-03-01
-laatste_update: 1998-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001223"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-03-01"
+last_updated: "1998-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001223"
+soort: "verdrag"
+stam_id: "10002407943"
+version_id: "10002415982"
+internal_id: "C10006978101"
+label_id: "10002397784"
+dtd_version: "2.0"
+original_entry_into_force: "1998-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001223/1998-03-01/0"
+intitule_bron: "Trb.1993-1"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-05-02"
+intitule_published: "1993-01-04"
+intitule_in_force: "1998-02-03"
+intitule_status: "goed"
+original_publication: "Trb.1993-1"
+original_signed_date: "1996-05-02"
+original_published_date: "1993-01-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-1"
+entry_into_force_date: "1998-03-01"
+jci_1_3: "jci1.3:c:BWBV0001223&z=1998-03-01&g=1998-03-01"
+jci_1_0: "1.0:c:BWBV0001223&g=1998-03-01"
+citeertitel_status: "redactioneel"
+signed_date: "1996-05-02"
+entry_into_force: "1998-03-01"
 ---
-
 # Europees Handvest voor regionale talen of talen van minderheden
 
 Preambule
@@ -32,7 +57,7 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Handvest wordt verstaan onder:
 
@@ -46,13 +71,13 @@ Voor de toepassing van dit Handvest wordt verstaan onder:
 
 - c. „niet-territoriale talen”: talen gebruikt door onderdanen van de Staat die verschillen van de taal of talen gebruikt door de overige bevolking van die Staat maar die, hoewel zij van oudsher binnen het gebied van die Staat worden gebruikt, niet met een bepaald gebied daarvan kunnen worden vereenzelvigd.
 
-#### Artikel 2. Verplichtingen
+##### Artikel 2. Verplichtingen
 
 1. Elke Partij verplicht zich tot de toepassing van de bepalingen van Deel II op alle regionale talen of talen van minderheden die binnen haar grondgebied worden gesproken en voldoen aan de begripsomschrijving in artikel 1.
 
 2. Ten aanzien van elke op het tijdstip van bekrachtiging, aanvaarding of goedkeuring in overeenstemming met artikel 3 aangegeven taal verplicht elke Partij zich tot toepassing van minimaal vijfendertig leden of letters daarvan, gekozen uit de bepalingen van Deel III van het Handvest, waaronder ten minste drie gekozen uit artikel 8 en artikel 12 en telkens één uit artikel 9, artikel 10, artikel 11 en artikel 13.
 
-#### Artikel 3. Praktische regelingen
+##### Artikel 3. Praktische regelingen
 
 1. Elke ondertekenende Staat geeft in zijn akte van bekrachtiging, aanvaarding of goedkeuring elke regionale taal of taal van een minderheid, dan wel officiële taal aan die minder algemeen wordt gebruikt op zijn gehele grondgebied of een deel daarvan, waarop de overeenkomstig artikel 2, tweede lid, gekozen leden van toepassing zijn.
 
@@ -60,23 +85,23 @@ Voor de toepassing van dit Handvest wordt verstaan onder:
 
 3. De in het voorgaande lid bedoelde verplichtingen worden geacht een integrerend deel te vormen van de bekrachtiging, aanvaarding of goedkeuring en zullen vanaf de datum van kennisgeving daarvan dezelfde werking hebben.
 
-#### Artikel 4. Bestaande beschermingsregelingen
+##### Artikel 4. Bestaande beschermingsregelingen
 
 1. Geen enkele bepaling in dit Handvest mag zo worden uitgelegd dat deze enigerlei rechten gewaarborgd door het Europees Verdrag tot bescherming van de rechten van de mens beperkt of aantast.
 
 2. De bepalingen van dit Handvest vormen geen aantasting van gunstiger bepalingen betreffende de status van regionale talen of talen van minderheden of de rechtspositie van tot minderheden behorende personen die in een Partij gelden of die zijn voorzien in desbetreffende internationale bilaterale of multilaterale overeenkomsten.
 
-#### Artikel 5. Bestaande verplichtingen
+##### Artikel 5. Bestaande verplichtingen
 
 Geen enkele bepaling in dit Handvest mag zo worden uitgelegd dat deze een recht inhoudt om zich bezig te houden met activiteiten of handelingen te verrichten die strijdig zijn met de doelstellingen van het Handvest der Verenigde Naties of met andere verplichtingen ingevolge het internationale recht, met inbegrip van het beginsel van de soevereiniteit en territoriale integriteit van Staten.
 
-#### Artikel 6. Informatie
+##### Artikel 6. Informatie
 
 De Partijen verplichten zich erop toe te zien dat de betrokken autoriteiten, organisaties en personen op de hoogte worden gesteld van de door dit Handvest geschapen rechten en plichten.
 
 ## DEEL II. OVEREENKOMSTIG ARTIKEL 2, EERSTE LID, NAGESTREEFDE DOELSTELLINGEN EN BEGINSELEN
 
-#### Artikel 7. Doelstellingen en beginselen
+##### Artikel 7. Doelstellingen en beginselen
 
 1. De Partijen baseren hun beleid, wetgeving en praktijk ten aanzien van regionale talen of talen van minderheden in de gebieden waar deze talen worden gebruikt en overeenkomstig de situatie van elke taal, op de volgende doelstellingen en beginselen:
 
@@ -108,7 +133,7 @@ De Partijen verplichten zich erop toe te zien dat de betrokken autoriteiten, org
 
 ## DEEL III. MAATREGELEN TER BEVORDERING VAN HET GEBRUIK VAN REGIONALE TALEN OF TALEN VAN MINDERHEDEN IN HET OPENBARE LEVEN IN OVEREENSTEMMING MET DE INGEVOLGE ARTIKEL 2, TWEEDE LID, AANGEGANE VERPLICHTINGEN
 
-#### Artikel 8. Onderwijs
+##### Artikel 8. Onderwijs
 
 1. Met betrekking tot het onderwijs verplichten de Partijen zich ertoe, binnen het grondgebied waar deze talen worden gebruikt, overeenkomstig de situatie van elk van deze talen en zonder afbreuk te doen aan het onderwijs in de officiële taal of talen van de Staat:
 
@@ -176,7 +201,7 @@ De Partijen verplichten zich erop toe te zien dat de betrokken autoriteiten, org
 
 2. Met betrekking tot het onderwijs en ten aanzien van andere gebieden dan die waar de regionale talen of talen van minderheden traditioneel worden gebruikt, verplichten de Partijen zich ertoe, indien het aantal gebruikers van een regionale taal of taal van een minderheid dit rechtvaardigt, het onderwijzen in of van de regionale taal of taal van een minderheid op alle passende onderwijsniveaus toe te staan, aan te moedigen of daarin te voorzien.
 
-#### Artikel 9. Rechterlijke autoriteiten
+##### Artikel 9. Rechterlijke autoriteiten
 
 1. De Partijen verplichten zich ertoe, ten aanzien van de gerechtsdistricten waar het aantal inwoners dat de regionale taal of taal van een minderheid gebruikt de onderstaande maatregelen rechtvaardigt, overeenkomstig de situatie van elk van deze talen en op voorwaarde dat het gebruik van de in dit lid geboden mogelijkheden door de rechter niet wordt geacht de goede rechtsbedeling te belemmeren:
 
@@ -218,7 +243,7 @@ De Partijen verplichten zich erop toe te zien dat de betrokken autoriteiten, org
 
 3. De Partijen verplichten zich ertoe de belangrijkste nationale wetsteksten en de teksten die in het bijzonder betrekking hebben op de gebruikers van deze talen, beschikbaar te stellen in de regionale taal of taal van een minderheid, tenzij deze teksten op andere wijze worden verstrekt.
 
-#### Artikel 10. Bestuurlijke autoriteiten en openbare diensten
+##### Artikel 10. Bestuurlijke autoriteiten en openbare diensten
 
 1. Binnen de bestuurlijke districten van de Staat waarin het aantal inwoners die gebruiker zijn van een regionale taal of taal van een minderheid de onderstaande maatregelen rechtvaardigt en overeenkomstig de situatie van elke taal verplichten de Partijen zich ertoe, voor zover dit redelijkerwijze mogelijk is:
 
@@ -272,7 +297,7 @@ De Partijen verplichten zich erop toe te zien dat de betrokken autoriteiten, org
 
 5. De Partijen verplichten zich ertoe het gebruik of de aanneming toe te staan van achternamen in de regionale taal of taal van een minderheid op verzoek van de betrokkenen.
 
-#### Artikel 11. Media
+##### Artikel 11. Media
 
 1. De Partijen verplichten zich ertoe, voor de gebruikers van de regionale taal of taal van een minderheid in de gebieden waar deze taal wordt gesproken, overeenkomstig de situatie van elke taal, voor zover de autoriteiten direct of indirect bevoegd zijn, bevoegdheden bezitten of een rol op dit terrein spelen en met eerbiediging van het beginsel van de onafhankelijkheid en autonomie van de media:
 
@@ -316,7 +341,7 @@ De Partijen verplichten zich erop toe te zien dat de betrokken autoriteiten, org
 
 3. De Partijen verplichten zich ertoe te waarborgen dat de belangen van de gebruikers van een regionale taal of taal van een minderheid vertegenwoordigd zijn of dat deze in aanmerking worden genomen binnen de overeenkomstig de wet ingestelde organen die verantwoordelijkheid dragen voor het waarborgen van de vrijheid en het pluralisme van de media.
 
-#### Artikel 12. Culturele activiteiten en voorzieningen
+##### Artikel 12. Culturele activiteiten en voorzieningen
 
 1. Met betrekking tot culturele activiteiten en voorzieningen - met name bibliotheken, videotheken, culturele centra, musea, archieven, academies van wetenschappen, schouwburgen en bioscopen, alsmede letterkundige werken en filmprodukties, vormen van culturele uitingen in de volkstaal, festivals en de cultuurindustrie, met inbegrip van onder meer het gebruik van nieuwe technologieën - verplichten de Partijen zich ertoe, binnen het gebied waar deze talen worden gebruikt en voor zover de autoriteiten bevoegd zijn, bevoegdheden bezitten of een rol spelen op dit terrein:
 
@@ -340,7 +365,7 @@ De Partijen verplichten zich erop toe te zien dat de betrokken autoriteiten, org
 
 3. De Partijen verplichten zich ertoe bij het voeren van hun buitenlandse cultuurbeleid een passende plaats te geven aan de regionale talen of talen van minderheden en de cultuur waarvan deze een uitingsvorm zijn.
 
-#### Artikel 13. Economisch en sociaal leven
+##### Artikel 13. Economisch en sociaal leven
 
 1. Met betrekking tot economische en sociale activiteiten verplichten de Partijen zich ertoe in het hele land:
 
@@ -364,7 +389,7 @@ De Partijen verplichten zich erop toe te zien dat de betrokken autoriteiten, org
 
 - e. ervoor te zorgen dat door de bevoegde autoriteiten verstrekte informatie betreffende de rechten van consumenten in de regionale taal of taal van een minderheid beschikbaar is.
 
-#### Artikel 14. Grensoverschrijdende uitwisselingen
+##### Artikel 14. Grensoverschrijdende uitwisselingen
 
 De Partijen verplichten zich ertoe:
 
@@ -374,13 +399,13 @@ De Partijen verplichten zich ertoe:
 
 ## DEEL IV. TOEPASSING VAN HET HANDVEST
 
-#### Artikel 15. Periodieke verslagen
+##### Artikel 15. Periodieke verslagen
 
 1. De Partijen dienen periodiek, in een door het Comité van Ministers voor te schrijven vorm, bij de Secretaris-Generaal van de Raad van Europa een verslag in inzake het door hen gevoerde beleid overeenkomstig Deel II van dit Handvest en inzake de maatregelen genomen ter toepassing van de bepalingen van Deel III die zij hebben aanvaard. Het eerste verslag wordt ingediend binnen het jaar dat volgt op de inwerkingtreding van het Handvest voor de betrokken Partij, en de volgende verslagen met tussenpozen van drie jaar na het eerste verslag.
 
 2. De Partijen maken hun verslagen openbaar.
 
-#### Artikel 16. Bestudering van de verslagen
+##### Artikel 16. Bestudering van de verslagen
 
 1. De ingevolge artikel 15 bij de Secretaris-Generaal van de Raad van Europa ingediende verslagen worden bestudeerd door een overeenkomstig artikel 17 ingestelde commissie van deskundigen.
 
@@ -392,7 +417,7 @@ De Partijen verplichten zich ertoe:
 
 5. De Secretaris-Generaal van de Raad van Europa brengt elke twee jaar uitvoerig verslag omtrent de toepassing van het Handvest uit aan het Parlement.
 
-#### Artikel 17. Commissie van deskundigen
+##### Artikel 17. Commissie van deskundigen
 
 1. De commissie van deskundigen bestaat uit één lid per Partij, door het Comité van Ministers benoemd uit een lijst van personen van de hoogste integriteit en met erkende deskundigheid betreffende de in het Handvest behandelde aangelegenheden, die worden voorgedragen door de betrokken Partij.
 
@@ -402,35 +427,35 @@ De Partijen verplichten zich ertoe:
 
 ## DEEL V. SLOTBEPALINGEN
 
-#### Artikel 18
+##### Artikel 18
 
 Dit Handvest staat open voor ondertekening door de Lidstaten van de Raad van Europa. Het behoeft bekrachtiging, aanvaarding of goedkeuring. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Dit Handvest treedt in werking op de eerste dag van de maand die volgt na het verstrijken van een tijdvak van drie maanden na de datum waarop vijf Lidstaten van de Raad van Europa, in overeenstemming met de bepalingen van artikel 18, hun instemming aan het Handvest te worden gebonden tot uitdrukking hebben gebracht.
 
 2. Ten aanzien van een Lidstaat die later zijn instemming aan het Handvest te worden gebonden tot uitdrukking brengt, treedt het in werking op de eerste dag van de maand die volgt na het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Na de inwerkingtreding van dit Handvest kan het Comité van Ministers van de Raad van Europa iedere Staat die geen lid is van de Raad van Europa uitnodigen tot dit Handvest toe te treden.
 
 2. Ten aanzien van een toetredende Staat treedt het Handvest in werking op de eerste dag van de maand die volgt na het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van zijn akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een Staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding een of meer voorbehouden maken ten aanzien van het tweede tot en met het vijfde lid van artikel 7 van dit Handvest. Er mogen geen andere voorbehouden worden gemaakt.
 
 2. Een verdragsluitende Staat die ingevolge het voorgaande lid een voorbehoud heeft gemaakt, kan dit geheel of gedeeltelijk intrekken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Iedere Partij kan dit Handvest te allen tijde opzeggen door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand die volgt na het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 23
+##### Artikel 23
 
 De Secretaris-Generaal van de Raad van Europa stelt de Lidstaten van de Raad en iedere Staat die tot dit Handvest is toegetreden in kennis van:
 

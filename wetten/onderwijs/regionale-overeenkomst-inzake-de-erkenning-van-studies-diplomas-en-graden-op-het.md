@@ -1,13 +1,24 @@
 ---
 title: "Regionale Overeenkomst inzake de erkenning van studies, diploma’s en graden op het gebied van het hoger onderwijs in Latijns-Amerika en in het Caraïbische gebied"
 identifier: "BWBV0006835"
-categorie: "Onderwijs"
-publicatiedatum: 2019-07-13
-laatste_update: 2019-07-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006835"
+country: "nl"
+rank: "verdrag"
+publication_date: "2019-07-13"
+last_updated: "2019-07-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006835"
+soort: "verdrag"
+stam_id: "10005528393"
+version_id: "10006012192"
+internal_id: "C10009696321"
+label_id: "10005511374"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006835/2019-07-13/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0006835&z=2019-07-13&g=2019-07-13"
+jci_1_0: "1.0:c:BWBV0006835&g=2019-07-13"
+citeertitel_status: "redactioneel"
 ---
-
 # Regionale Overeenkomst inzake de erkenning van studies, diploma’s en graden op het gebied van het hoger onderwijs in Latijns-Amerika en in het Caraïbische gebied
 
 Preambule
@@ -90,7 +101,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel I. Begripsomschrijvingen
+##### Artikel I. Begripsomschrijvingen
 
 Voor de toepassing van deze Overeenkomst hebben de onderstaande begrippen de volgende betekenis:
 
@@ -156,7 +167,7 @@ Graad, getuigschrift of diploma: een document dat een officieel bewijs vormt van
 
 ### HOOFDSTUK II. DOELSTELLINGEN VAN DE OVEREENKOMST
 
-#### Artikel II. Doelstellingen
+##### Artikel II. Doelstellingen
 
 De staten die partij zijn verbinden zich ertoe alle nodige maatregelen te nemen om de in dit artikel II vervatte doelstellingen geleidelijk te verwezenlijken, in samenwerking met andere staten die partij zijn in de regio door middel van bilaterale, sub-regionale of regionale overeenkomsten, teneinde:
 
@@ -198,7 +209,7 @@ De staten die partij zijn verbinden zich ertoe alle nodige maatregelen te nemen 
 
 ### HOOFDSTUK III. VERPLICHTINGEN VAN DE STATEN DIE PARTIJ ZIJN
 
-#### Artikel III.1. Verplichtingen
+##### Artikel III.1. Verplichtingen
 
 De staten die partij zijn verbinden zich tot het volgende:
 
@@ -220,7 +231,7 @@ De staten die partij zijn verbinden zich tot het volgende:
 
 - 9. Instellen of versterken van billijke en transparante mechanismen voor de erkenning van studies, diploma's en graden, zonder enige vorm van onderscheid.
 
-#### Artikel III.2. Erkenning ten behoeve van het volgen van een studie
+##### Artikel III.2. Erkenning ten behoeve van het volgen van een studie
 
 1. Om een studie in het hoger onderwijs te kunnen volgen, erkennen de staten die partij zijn de studies, diploma's en graden behaald in andere staten die partij zijn, in overeenstemming met de dan geldende nationale wetgeving. Dergelijke getuigschriften dienen daartoe betrekking te hebben op afgeronde studietijdvakken of tijdvakken waaraan een kwalificatie verbonden is in een programma voor hoger onderwijs, en die worden uitgedrukt in studiepunten of de respectieve eenheden voor berekening die in elke staat die partij is worden gebruikt.
 
@@ -232,7 +243,7 @@ De staten die partij zijn verbinden zich tot het volgende:
 
 5. Elke staat die partij is stemt, indien toegestaan in zijn nationale wetgeving, ermee in het niveau van competentie of leerresultaten te erkennen indien bedoeld niveau overeenkomt met gelijkwaardige studies binnen een programma voor hoger onderwijs waarvoor erkenning is vereist.
 
-#### Artikel III.3. Gevolgen van erkenning
+##### Artikel III.3. Gevolgen van erkenning
 
 In een staat die partij is heeft de erkenning die overeenkomt met hetgeen is vervat in het regelgevend kader van die staat die partij is en die betrekking heeft op studies, diploma’s en graden in het hoger onderwijs die in een andere staat die partij is worden toegekend, heeft gelijksoortige gevolgen als die van zijn eigen studies, diploma’s en graden die worden toegekend door officieel erkende instellingen voor hoger onderwijs, met inbegrip van:
 
@@ -244,17 +255,17 @@ In een staat die partij is heeft de erkenning die overeenkomt met hetgeen is ver
 
 - 4. Toegang tot arbeidsmogelijkheden, met inachtneming van de wet- en regelgeving van de staat die partij is of een rechtsgebied daarvan, waarin naar erkenning wordt gestreefd.
 
-#### Artikel III.4. Voorwaarden voor erkenning
+##### Artikel III.4. Voorwaarden voor erkenning
 
 1. De staten die partij zijn nemen passende maatregelen, in overeenstemming met hun nationale wetgeving, om te waarborgen dat houders van diploma's of graden die zijn afgegeven door een instelling voor hoger onderwijs in een andere staat die partij is, naar behoren toegang hebben, op verzoek aan de desbetreffende nationale autoriteit, tot een tijdige beoordeling van deze kwalificaties.
 
 2. Besluiten over erkenning worden genomen binnen een redelijke termijn die vooraf door de bevoegde erkenningsautoriteiten wordt vastgesteld en berekend wordt op basis van het tijdstip waarop alle benodigde informatie in de zaak is geleverd. Indien erkenning niet wordt toegekend worden de redenen hiervoor vermeld en wordt informatie verstrekt over mogelijke maatregelen die de houder van de kwalificatie kan nemen om in een later stadium alsnog erkenning te verkrijgen. Indien erkenning niet wordt toegekend of er geen besluit wordt genomen, is de houder van de kwalificatie gerechtigd beroep aan te tekenen binnen de in de nationale wetgeving vastgestelde termijn.
 
-#### Artikel III.5. Bepalingen inzake vluchtelingen en ontheemden
+##### Artikel III.5. Bepalingen inzake vluchtelingen en ontheemden
 
 Elke staat die partij is neemt alle redelijke maatregelen binnen het kader van zijn hoger onderwijsstelsel en in overeenstemming met zijn nationale grondwettelijke en wettelijke bepalingen, in het geval van vluchtelingen of ontheemden, om procedures te ontwikkelen, met inbegrip van de erkenning van eerder verworven competenties, om billijk en snel te kunnen beoordelen of personen in aanmerking komen voor toegang tot programma’s voor hoger onderwijs of voor de erkenning van studies, diploma's en graden, zelfs bij het ontbreken van de noodzakelijke documenten voor erkenning.
 
-#### Artikel III.6. Begunstigden
+##### Artikel III.6. Begunstigden
 
 1. De voordelen vastgelegd in deze Overeenkomst zijn van toepassing op alle personen die hun studie, volledig of deels, hebben afgerond in publieke of private instellingen voor hoger onderwijs erkend door de bevoegde autoriteiten in een van de staten die partij zijn, ongeacht hun nationaliteit en zonder enige vorm van onderscheid.
 
@@ -262,7 +273,7 @@ Elke staat die partij is neemt alle redelijke maatregelen binnen het kader van z
 
 3. De bepalingen van deze Overeenkomst zijn van toepassing op alle vormen van hoger onderwijs zoals omschreven in artikel I.
 
-#### Artikel III.7. Uitvoeringsorganen
+##### Artikel III.7. Uitvoeringsorganen
 
 De staten die partij zijn verbinden zich ertoe de gestelde doelstellingen te verwezenlijken en de uitvoering en nakoming van de in deze Overeenkomst vervatte doelstellingen te waarborgen, door middel van:
 
@@ -276,7 +287,7 @@ De staten die partij zijn verbinden zich ertoe de gestelde doelstellingen te ver
 
 ### HOOFDSTUK IV. UITVOERING
 
-#### Artikel IV.1. Comité van de Overeenkomst
+##### Artikel IV.1. Comité van de Overeenkomst
 
 1. Hierbij wordt een Comité van de Overeenkomst ingesteld, bestaande uit vertegenwoordigers van alle staten die partij zijn. Het Comité krijgt een secretariaat, verzorgd door de Directeur-Generaal van UNESCO.
 
@@ -288,17 +299,17 @@ De staten die partij zijn verbinden zich ertoe de gestelde doelstellingen te ver
 
 5. Het Comité van de Overeenkomst neemt zijn eigen reglement van orde aan. Het Comité komt ten minste eenmaal per twee jaar bijeen.
 
-#### Artikel IV.2. Netwerk van nationale uitvoeringsstructuren
+##### Artikel IV.2. Netwerk van nationale uitvoeringsstructuren
 
 Er wordt een netwerk van nationale uitvoeringsstructuren ingesteld teneinde informatie te verstrekken over mobiliteit en erkenning om de praktische uitvoering van deze Overeenkomst door de bevoegde autoriteiten op het gebied van erkenning te ondersteunen door het vergemakkelijken van de uitwisseling van informatie over erkenning en mobiliteit tussen de staten die partij zijn.
 
-#### Artikel IV.3. Samenwerking
+##### Artikel IV.3. Samenwerking
 
 De staten die partij zijn nemen de nodige stappen om samen te werken met organisaties en belanghebbenden op nationaal niveau, met inbegrip van de instellingen die verantwoordelijk zijn voor kwaliteitsborgingssystemen, met het oog op het waarborgen van de effectieve uitvoering van deze Overeenkomst. Zij zullen met hen de overeenkomsten en vormen van samenwerking aangaan die zij het meest passend achten.
 
 ### HOOFDSTUK V. SLOTBEPALINGEN
 
-#### Artikel V.1. Ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding
+##### Artikel V.1. Ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding
 
 1. Deze Overeenkomst staat open voor ondertekening en bekrachtiging, aanvaarding, goedkeuring of toetreding door:
 
@@ -318,11 +329,11 @@ De staten die partij zijn nemen de nodige stappen om samen te werken met organis
 
 3. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding dienen te worden nedergelegd bij de Directeur-Generaal van UNESCO.
 
-#### Artikel V.2. Inwerkingtreding
+##### Artikel V.2. Inwerkingtreding
 
 Deze Overeenkomst treedt in werking een maand na de datum waarop vier (4) lidstaten van UNESCO uit de Latijns-Amerikaanse en de Caraïbische regio ermee hebben ingestemd te worden gebonden door de Overeenkomst op een van de in artikel V.1.2 genoemde wijzen. De Overeenkomst treedt in werking ten aanzien van een elke andere staat die partij is één (1) maand nadat deze zijn instemming te worden gebonden door de Overeenkomst tot uitdrukking heeft gebracht op één van de in artikel V.1.2 genoemde wijzen.
 
-#### Artikel V.3. Verhouding tot andere instrumenten
+##### Artikel V.3. Verhouding tot andere instrumenten
 
 1. Deze Overeenkomst doet op geen enkele wijze afbreuk aan andere internationale overeenkomsten of nationale regels die van kracht zijn in de staten die partij zijn die grotere voordelen toekennen dan de voordelen die door deze Overeenkomst worden toegekend.
 
@@ -334,7 +345,7 @@ Deze Overeenkomst treedt in werking een maand na de datum waarop vier (4) lidsta
 
 3. De staten die partij zijn bij deze Overeenkomst verbinden zich ertoe geen partij te worden bij de [Overeenkomst van 1974](https://wetten.overheid.nl/jci1.3:c:BWBV0003920) indien zij nog geen partij zijn bij die Overeenkomst.
 
-#### Artikel V.4. Opzegging
+##### Artikel V.4. Opzegging
 
 1. Een staat die partij is kan deze Overeenkomst opzeggen.
 
@@ -342,7 +353,7 @@ Deze Overeenkomst treedt in werking een maand na de datum waarop vier (4) lidsta
 
 3. De opzegging wordt van kracht twaalf (12) maanden nadat de akte van opzegging door de Directeur-Generaal van UNESCO is ontvangen. De opzegging heeft geen terugwerkende kracht en laat de erkenning van studies, getuigschriften, diploma's, graden of andere kwalificaties, die daarvoor heeft plaatsgevonden in overeenstemming met de bepalingen van de Overeenkomst onverlet.
 
-#### Artikel V.5. Wijzigingen
+##### Artikel V.5. Wijzigingen
 
 1. Elke partij kan wijzigingen van deze Overeenkomst voorstellen.
 
@@ -354,17 +365,17 @@ Deze Overeenkomst treedt in werking een maand na de datum waarop vier (4) lidsta
 
 5. Elke aldus aangenomen wijziging wordt opgenomen in een Protocol bij deze Overeenkomst. In het Protocol staan de modaliteiten voor de inwerkingtreding ervan beschreven die in ieder geval inhouden dat de staten die partij zijn kenbaar dienen te maken dat zij erdoor gebonden worden.
 
-#### Artikel V.6. Taken van depositaris
+##### Artikel V.6. Taken van depositaris
 
 1. De Directeur-Generaal van UNESCO is de depositaris van deze Overeenkomst.
 
 2. De Directeur-Generaal van UNESCO stelt de staten die partij zijn en de overige lidstaten van UNESCO in kennis van de nederlegging van de akten van bekrachtiging, aanvaarding, goedkeuring of toetreding zoals bedoeld in [artikel V.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006835&hoofdstuk=V&artikel=V.1&z=2019-07-13&g=2019-07-13) en de opzeggingen zoals bedoeld in [artikel V.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006835&hoofdstuk=V&artikel=V.4&z=2019-07-13&g=2019-07-13).
 
-#### Artikel V.7. Registratie
+##### Artikel V.7. Registratie
 
 In overeenstemming met [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=2) wordt dit Verdrag geregistreerd bij het Secretariaat van de Verenigde Naties op verzoek van de Directeur-Generaal van UNESCO.
 
-#### Artikel V.8. Authentieke teksten
+##### Artikel V.8. Authentieke teksten
 
 Deze Overeenkomst is opgesteld in de Engelse, de Franse en de Spaanse taal, waarbij alle teksten gelijkelijk authentiek zijn.
 

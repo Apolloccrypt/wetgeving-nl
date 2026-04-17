@@ -1,20 +1,46 @@
 ---
-title: "Besluit bekendmaking veiling DAB+ laag 7"
+title: "Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 15 december 2020, nr. DGBI-DE/20170961, handelend in overeenstemming met de Minister voor Basis- en Voortgezet Onderwijs en Media, inzake de keuze voor het instrument veiling van vergunningen voor digitale radio-omroep DAB+ in laag 7 (Besluit bekendmaking veiling DAB+ laag 7)"
 identifier: "BWBR0044535"
-categorie: "Overig"
-publicatiedatum: 2020-12-22
-laatste_update: 2020-12-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044535"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-12-22"
+last_updated: "2020-12-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044535"
+soort: "ministeriele-regeling"
+stam_id: "15766553"
+version_id: "27324672"
+internal_id: "C38592641"
+label_id: "15704794"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044535/2020-12-22/0"
+intitule_bron: "Stcrt.2020-66400"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-15"
+intitule_published: "2020-12-21"
+intitule_in_force: "2020-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-66400"
+original_signed_date: "2020-12-15"
+original_published_date: "2020-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-66400"
+entry_into_force_date: "2020-12-22"
+jci_1_3: "jci1.3:c:BWBR0044535&z=2020-12-22&g=2020-12-22"
+jci_1_0: "1.0:c:BWBR0044535&g=2020-12-22"
+citeertitel_status: "officieel"
+short_title: "Besluit bekendmaking veiling DAB+ laag 7"
+signed_date: "2020-12-15"
+entry_into_force: "2020-12-22"
 ---
-
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 15 december 2020, nr. DGBI-DE/20170961, handelend in overeenstemming met de Minister voor Basis- en Voortgezet Onderwijs en Media, inzake de keuze voor het instrument veiling van vergunningen voor digitale radio-omroep DAB+ in laag 7 (Besluit bekendmaking veiling DAB+ laag 7)
 
 Gelet op [artikel 3.10, derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10), en [artikel 17 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De vergunningen voor landelijke commerciële digitale radio-omroep in laag 7 (band III) met de daaraan, voor zover nu reeds mogelijk, te verbinden voorschriften en beperkingen, genoemd in tabel 1, worden verleend met toepassing van een veiling als bedoeld in [artikel 3.10, eerste lid, aanhef en onderdeel f, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10).
 
@@ -24,25 +50,25 @@ De vergunningen voor landelijke commerciële digitale radio-omroep in laag 7 (ba
 
 1 Alle inzet is er op gericht om tijdig, dat wil zeggen voordat partijen laag 7 in gebruik nemen, de single frequency voor deze laag internationaal gerealiseerd te hebben. Mocht de internationale coördinatie hiervoor niet (op tijd) slagen, dan kan het zijn dat partijen in Zuid-Limburg gebruik moeten maken van een ander frequentieblok dan 9C, te weten frequentieblok 5A, 7B of 8C. De verkregen vergunning wordt hier in dat geval op aangepast.
 
-#### Artikel 2
+##### Artikel 2
 
 De aanvraag- en veilingprocedure vangt aan op de datum genoemd in [artikel 3, tweede lid van de Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB+ laag 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&artikel=3).
 
-#### Artikel 3
+##### Artikel 3
 
 De vergunningen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044535&artikel=1&z=2020-12-22&g=2020-12-22), zijn nader bestemd voor landelijke commerciële digitale radio-omroep.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit bekendmaking veiling DAB+ laag 7.
 
 ## Vergunning laag 7, inclusief bijbehorende bijlagen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 - 1. In deze beschikking wordt verstaan onder:
 
@@ -72,7 +98,7 @@ Dit besluit wordt aangehaald als: Besluit bekendmaking veiling DAB+ laag 7.
 
 - 2. De definities in [artikel 1.1, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1) zijn van toepassing.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Het gebruiksrecht omvat, onverminderd het zesde en zevende lid, het gebruik van 1/12e deel van de capaciteit van de frequentieruimte binnen het frequentiebereik 205,584 MHz–207,120 MHz (frequentieblok 9C).
 
@@ -96,7 +122,7 @@ Dit besluit wordt aangehaald als: Besluit bekendmaking veiling DAB+ laag 7.
 
 - 9. De vergunninghouders die schriftelijke instemmingen hebben gegeven als bedoeld in het zevende lid, onderdeel a, zenden hiervan onverwijld een afschrift aan de minister.
 
-#### Artikel 3. Samenwerking vergunninghouders
+##### Artikel 3. Samenwerking vergunninghouders
 
 - 1. De vergunninghouder gaat de samenwerkingsovereenkomst schriftelijk aan.
 
@@ -112,7 +138,7 @@ Dit besluit wordt aangehaald als: Besluit bekendmaking veiling DAB+ laag 7.
 
 - 7. De samenwerkingsovereenkomst dient binnen twaalf weken na verlening van de vergunning te worden afgesloten.
 
-#### Artikel 4. Technische beschrijving
+##### Artikel 4. Technische beschrijving
 
 - 1. Het gebruik van de frequentieruimte vindt plaats met inachtneming van de technische beschrijving zoals deze in de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0044535&bijlage=I&z=2020-12-22&g=2020-12-22) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0044535&bijlage=II&z=2020-12-22&g=2020-12-22) is opgenomen.
 
@@ -120,7 +146,7 @@ Dit besluit wordt aangehaald als: Besluit bekendmaking veiling DAB+ laag 7.
 
 - 3. De vergunninghouder voldoet aan de protectieverhoudingen die zijn opgenomen in tabel 2 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044535&bijlage=I&z=2020-12-22&g=2020-12-22).
 
-#### Artikel 5. Bescherming en interferentie
+##### Artikel 5. Bescherming en interferentie
 
 Voor de frequentieruimte bedoeld in artikel 2, voor zover het gaat om het lichtblauwe gebied, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044535&bijlage=I&z=2020-12-22&g=2020-12-22), tabel 1, geldt:
 
@@ -128,7 +154,7 @@ Voor de frequentieruimte bedoeld in artikel 2, voor zover het gaat om het lichtb
 
 - 2. Dat de vergunninghouder geen aanspraak heeft op enigerlei vorm van bescherming van het gebruik van frequentieruimte indien er verstoring plaatsvindt in overeenstemming met bestaande internationale rechten.
 
-#### Artikel 6. Registratie van frequentieruimte
+##### Artikel 6. Registratie van frequentieruimte
 
 - 1. De vergunninghouder staakt of beperkt het gebruik van de frequentieruimte, bedoeld in artikel 2, voor zover dit leidt tot belemmeringen in het gebruik van in het MIFR door anderen geregistreerde frequentieruimte.
 
@@ -140,7 +166,7 @@ Voor de frequentieruimte bedoeld in artikel 2, voor zover het gaat om het lichtb
 
 - 5. Het notificatieverzoek geschiedt met gebruikmaking van het ‘Formulier kennisgeving ingebruikname en notificatie’, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0044535&bijlage=II&z=2020-12-22&g=2020-12-22).
 
-#### Artikel 7. Ingebruiknameverplichting
+##### Artikel 7. Ingebruiknameverplichting
 
 - 1. Vanaf negen maanden na vergunningverlening biedt de vergunninghouder de dienst, omschreven in artikel 2, vijfde lid, aan, vanaf één jaar na vergunningverlening met een geografische verzorging van 65% mobiele ontvangst en een demografische verzorging van 55% binnenontvangst.
 
@@ -152,7 +178,7 @@ Voor de frequentieruimte bedoeld in artikel 2, voor zover het gaat om het lichtb
 
 - 5. Voor de ingebruiknameverplichting wordt onder geografische verzorging binnen een allotment verstaan de verzorging in het allotment inclusief binnenwater, exclusief buitenwater. Tot het buitenwater worden gerekend de Waddenzee, de Eems, de Dollard, de Noordzee, de Oosterschelde en de Westerschelde
 
-#### Artikel 8. Wegnemen belemmeringen
+##### Artikel 8. Wegnemen belemmeringen
 
 - 1. Indien op enige plaats binnenshuis door het gewenste signaal van de in het kader van deze vergunning gebruikte radioapparaten belemmeringen in de ontvangst van kabeltelevisie worden veroorzaakt draagt de natuurlijke of rechtspersoon bedoeld in het vierde lid, dan wel indien deze verzaakt, de vergunninghouder, er op verzoek van degene die de belemmeringen ondervindt, zorg voor dat deze onverwijld op kosten van de samenwerkende vergunninghouders worden verholpen, voor zover ter plaatse:
 
@@ -172,7 +198,7 @@ Voor de frequentieruimte bedoeld in artikel 2, voor zover het gaat om het lichtb
 
 - 5. De vergunninghouder is verplicht 1/N-de deel van de kosten, bedoeld in het eerste lid, te vergoeden.
 
-#### Artikel 9. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
+##### Artikel 9. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -184,17 +210,17 @@ Voor de frequentieruimte bedoeld in artikel 2, voor zover het gaat om het lichtb
 
 - 3. Artikel 8, vierde en vijfde lid, is van overeenkomstige toepassing.
 
-#### Artikel 10. Kennisgeving ingebruikname
+##### Artikel 10. Kennisgeving ingebruikname
 
 - 1. De vergunninghouder stelt de minister van elke ingebruikname van (onderdelen van) de frequentieruimte uiterlijk vier weken van tevoren schriftelijk in kennis.
 
 - 2. De vergunninghouder overlegt de technische gegevens in elektronische vorm conform het format zoals opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0044535&bijlage=II&z=2020-12-22&g=2020-12-22) op de USB-stick.
 
-#### Artikel 11. Correspondentie
+##### Artikel 11. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom van het Ministerie van Economische Zaken en Klimaat, te Groningen, tenzij door of vanwege de minister anders wordt aangegeven.
 
-#### Artikel 12. Inwerkingtreding en looptijd van de vergunning
+##### Artikel 12. Inwerkingtreding en looptijd van de vergunning
 
 Deze vergunning treedt in werking op * en loopt tot en met ** 2033.
 

@@ -1,13 +1,39 @@
 ---
-title: "Orange Corners Innovation Fund Grant Programme 2024–2030"
+title: "Order of the Minister for Foreign Trade and Development Cooperation of 7 September 2023, no.MinBuza.2023.18814-20, laying down administrative rules and a ceiling for grants awarded under the Ministry of Foreign Affairs Grant Regulations 2006 (Orange Corners Innovation Fund Grant Programme 2024–2030)"
 identifier: "BWBR0048627"
-categorie: "Overig"
-publicatiedatum: 2023-09-19
-laatste_update: 2023-09-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048627"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-09-19"
+last_updated: "2023-09-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048627"
+soort: "ministeriele-regeling"
+stam_id: "16857783"
+version_id: "29621322"
+internal_id: "C42377851"
+label_id: "16769954"
+dtd_version: "2.0"
+original_entry_into_force: "2023-09-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048627/2023-09-19/0"
+intitule_bron: "Stcrt.2023-25677"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-09-07"
+intitule_published: "2023-09-18"
+intitule_in_force: "2023-09-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-25677"
+original_signed_date: "2023-09-07"
+original_published_date: "2023-09-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-25677"
+entry_into_force_date: "2023-09-19"
+jci_1_3: "jci1.3:c:BWBR0048627&z=2023-09-19&g=2023-09-19"
+jci_1_0: "1.0:c:BWBR0048627&g=2023-09-19"
+citeertitel_status: "redactioneel"
+short_title: "Orange Corners Innovation Fund Grant Programme 2024–2030"
+signed_date: "2023-09-07"
+entry_into_force: "2023-09-19"
 ---
-
 # Order of the Minister for Foreign Trade and Development Cooperation of 7 September 2023, no.MinBuza.2023.18814-20, laying down administrative rules and a ceiling for grants awarded under the Ministry of Foreign Affairs Grant Regulations 2006 (Orange Corners Innovation Fund Grant Programme 2024–2030)
 
 Having regard to [articles 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6) and [7 of the Ministry of Foreign Affairs Grants Decree](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7);
@@ -16,11 +42,11 @@ Having regard to [articles 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&
 
 Orders:
 
-#### Article 1
+##### Article 1
 
 The administrative rules appended as an annexe to this Order apply to grants awarded under [articles 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=5.1) and [7.2 of the Ministry of Foreign Affairs Grant Regulations 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=7.2) with a view to enhancing access to finance for young entrepreneurs who provide innovative, sustainable solutions to challenges in Africa, the Middle East and Asia in the framework of the Orange Corners Innovation Fund (OCIF) Grant Programme 2024–2030, from the date on which this Order enters into force up to and including 31 December 2030.
 
-#### Article 2
+##### Article 2
 
 1. Grant applications under the Orange Corners Innovation Fund Grant Programme 2024–2030 may be submitted in several different rounds.
 
@@ -32,17 +58,17 @@ The administrative rules appended as an annexe to this Order apply to grants awa
 
 5. Grant applications under the Orange Corners Innovation Fund 2024–2030 Grant Programme must be submitted using the application form made available by the Minister and must be accompanied by the documents stipulated in that form.1See [www.rvo.nl/ocif](onbekend).
 
-#### Article 3
+##### Article 3
 
 1. A grant ceiling of € 46,200,000 applies to the Orange Corners Innovation Fund Grant Programme 2024–2030 from the date on which this Order enters into force up to and including 31 December 2030. Of this amount, no more than € 2,200,000 is available for activities in each of the following target locations: Algeria, Angola, Bangladesh, Burundi, Côte d’Ivoire, the Democratic Republic of the Congo, Egypt, Ghana, central Iraq, the Kurdistan Region in Iraq, Jordan, Mali, Morocco, Mozambique, Nigeria, the Palestinian Territories, Senegal, South Africa, South Sudan, Sudan and Tunisia.
 
 2. Any residual funds remaining after the first round will be made proportionately available for activities in the target locations for the subsequent round.
 
-#### Article 4
+##### Article 4
 
 The available funds referred to in [article 3, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048627&artikel=3&z=2023-09-19&g=2023-09-19) will be allocated in accordance with an assessment based on the criteria set out in the annexe to this Order, on the understanding that, of the applications that meet the criteria, those that meet them best will be given priority.
 
-#### Article 5
+##### Article 5
 
 This Order enters into force on the day after the date of the Government Gazette in which it appears and lapses with effect from 1 January 2031, with the proviso that it continues to apply to grants awarded prior to that time.
 

@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake het gemeenschappelijk nautisch beheer in het Scheldegebied"
 identifier: "BWBV0003048"
-categorie: "Internationaal recht"
-publicatiedatum: 2008-10-01
-laatste_update: 2005-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003048"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-10-01"
+last_updated: "2005-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003048"
+soort: "verdrag"
+stam_id: "10003306673"
+version_id: "10003334142"
+internal_id: "C10008429301"
+label_id: "10003292444"
+dtd_version: "2.0"
+original_entry_into_force: "2008-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003048/2008-10-01/0"
+intitule_bron: "Trb.2005-312"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-08-28"
+intitule_published: "2005-12-23"
+intitule_in_force: "2008-09-22"
+intitule_status: "goed"
+original_publication: "Trb.2005-312"
+original_signed_date: "2008-08-28"
+original_published_date: "2005-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2005-312"
+entry_into_force_date: "2008-10-01"
+jci_1_3: "jci1.3:c:BWBV0003048&z=2008-10-01&g=2008-10-01"
+jci_1_0: "1.0:c:BWBV0003048&g=2008-10-01"
+citeertitel_status: "redactioneel"
+signed_date: "2008-08-28"
+entry_into_force: "2008-10-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake het gemeenschappelijk nautisch beheer in het Scheldegebied
 
 Het Koninkrijk der Nederlanden
@@ -34,7 +59,7 @@ Overwegende dat het gemeenschappelijk nautisch beheer in het algemeen tevens de 
 
 komen het volgende overeen:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit Verdrag wordt verstaan onder:
 
@@ -84,7 +109,7 @@ In dit Verdrag wordt verstaan onder:
 
 - 2°. een inlichting, aanbeveling, gebod of verbod onderscheidenlijk opheffing van een gebod of verbod voor het verkeersgedrag in een bepaald gedeelte van een scheepvaartweg.
 
-#### Artikel 2. Doel en voorwerp van het Verdrag
+##### Artikel 2. Doel en voorwerp van het Verdrag
 
 1. Met de instelling van het gemeenschappelijk nautisch beheer beogen de Verdragsluitende Partijen een gezamenlijke en evenwaardige Nederlands-Vlaamse bevoegdheid en verantwoordelijkheid voor de afwikkeling van een veilig en vlot scheepvaartverkeer in het Scheldegebied te vestigen.
 
@@ -104,7 +129,7 @@ In dit Verdrag wordt verstaan onder:
 
 7. Het gemeenschappelijk nautisch beheer kan geen afbreuk doen aan de vrijheid van scheepvaart, het recht van onschuldige doorvaart en het recht van vrije scheepvaart zoals die krachtens het internationaal recht gelden op de in Artikel 3 genoemde scheepvaartwegen. In het bijzonder kan het geen afbreuk doen aan het recht van vrije scheepvaart zoals onder meer vastgelegd in Artikel IX en X van het Tractaat tusschen Nederland en België van 19 april 1839 en in Artikel 109 van de Slotakte van het Congres van Wenen van 9 juni 1815.
 
-#### Artikel 3. Toepassingsgebied
+##### Artikel 3. Toepassingsgebied
 
 1. Het gemeenschappelijk nautisch beheer is van toepassing op de volgende scheepvaartwegen:
 
@@ -130,7 +155,7 @@ In dit Verdrag wordt verstaan onder:
 
 4. Het gemeenschappelijk nautisch beheer is van toepassing op alle schepen die het Scheldegebied bevaren.
 
-#### Artikel 4. Permanente Commissie
+##### Artikel 4. Permanente Commissie
 
 1. De Permanente Commissie is samengesteld uit vier Commissarissen, waarvan de Nederlandse en Vlaamse Regering er ieder twee benoemen. Benoeming en ontslag vinden plaats op de wijze die de Nederlandse onderscheidenlijk de Vlaamse Regering bepaalt.
 
@@ -160,7 +185,7 @@ In dit Verdrag wordt verstaan onder:
 
 10. De Permanente Commissie regelt de inrichting van het Secretariaat.
 
-#### Artikel 5. Regelstelling
+##### Artikel 5. Regelstelling
 
 1. De door de Permanente Commissie op grond van Artikel 4, derde lid, te stellen regels worden gesteld in het belang van:
 
@@ -208,7 +233,7 @@ In dit Verdrag wordt verstaan onder:
 
 7. De door de Permanente Commissie krachtens deze bepaling gestelde regels hebben in Nederland en Vlaanderen geen verbindende kracht dan nadat zij zijn bekendgemaakt in de Nederlandse Staatscourant en het Belgisch Staatsblad. De Permanente Commissie draagt zorg voor de bekendmaking. De regels voorzien in hun inwerkingtreding. Bij gebreke van een voorziening voor de inwerkingtreding treden de regels in werking op de vijftiende kalenderdag na de datum van verschijning van de Nederlandse Staatscourant, onderscheidenlijk het Belgisch Staatsblad, waarin zij zijn bekendgemaakt. De laatste datum van verschijning is bepalend voor de aanvang van termijn, bedoeld in de vorige volzin.
 
-#### Artikel 6. Gemeenschappelijke Nautische Autoriteit
+##### Artikel 6. Gemeenschappelijke Nautische Autoriteit
 
 1. De Gemeenschappelijke Nautische Autoriteit wordt gevormd door één ambtenaar van elke Verdragsluitende Partij, of één van zijn plaatsvervangers. De ambtenaren en hun plaatsvervangers worden van beider zijde aangesteld door de Bewindspersoon die het nautisch beheer onder zijn bevoegdheid heeft. Het alzo samengestelde orgaan beslist en treedt naar buiten toe op als één entiteit. Eenzijdige beslissingen door de samenstellende delen van de Gemeenschappelijke Nautische Autoriteit zijn uitgesloten.
 
@@ -224,7 +249,7 @@ In dit Verdrag wordt verstaan onder:
 
 7. Met het oog op de evaluatierapportage van de Permanente Commissie bedoeld in Artikel 4, zesde lid, brengt de Gemeenschappelijk Nautische Autoriteit aan de Permanente Commissie minstens tweejaarlijks een schriftelijk rapport uit met betrekking tot de wijze waarop zij haar taken en bevoegdheden in de voorbije periode heeft uitgeoefend.
 
-#### Artikel 7. Secretariaat
+##### Artikel 7. Secretariaat
 
 1. De Permanente Commissie stelt een secretariaat in dat evenwichtig is samengesteld uit Vlaamse en Nederlandse ambtenaren.
 
@@ -234,7 +259,7 @@ In dit Verdrag wordt verstaan onder:
 
 - b. de externe communicatie te ondersteunen.
 
-#### Artikel 8. Ketenbenadering
+##### Artikel 8. Ketenbenadering
 
 1. Dit Artikel doet geen afbreuk aan de bevoegdheden van de Permanente Commissie en de Gemeenschappelijke Nautische Autoriteit in het Scheldegebied en de bevoegdheden van de havenautoriteiten in hun havengebied.
 
@@ -248,7 +273,7 @@ In dit Verdrag wordt verstaan onder:
 
 6. Met inachtneming van de voorgaande leden treedt de Permanente Commissie in nauw overleg met de havenautoriteiten teneinde de overleg- en samenwerkingsstructuur in het kader van de ketenbenadering vast te stellen en deze neer te leggen in de overeenkomsten bedoeld in het tweede lid.
 
-#### Artikel 9. Openbaarheid van documenten
+##### Artikel 9. Openbaarheid van documenten
 
 1. De Permanente Commissie ontwikkelt, onverminderd het overigens bij dit Verdrag bepaalde, een beleid inzake de openbaarheid van de onder haar berustende documenten. De Permanente Commissie stelt regels op met betrekking tot de openbaarheid van deze documenten en de behandeling van de tot haar gerichte verzoeken tot openbaarmaking ervan. De in die regels op te nemen beperkingen op de openbaarmaking van documenten zijn in overeenstemming met de toepasselijke internationaalrechtelijke en Europeesrechtelijke regels terzake en voeren voor het overige geen beperkingen van de openbaarheid in die verder gaan dan de in Nederland en Vlaanderen geldende wettelijke voorschriften.
 
@@ -256,7 +281,7 @@ In dit Verdrag wordt verstaan onder:
 
 3. Onverminderd Artikel 3 van de op 29 november 1978 te Brussel totstandgekomen Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake het aanleggen van een walradarketen langs de Westerschelde en haar mondingen, regelt de Permanente Commissie de openbaarmaking van gegevens in verband met het scheepvaartverkeer aan de gerechtelijke autoriteiten en desgevallend gerechtsdeskundigen en procespartijen, en stelt zij de desbetreffende voorwaarden vast.
 
-#### Artikel 10. Rechtsbescherming en aansprakelijkheid
+##### Artikel 10. Rechtsbescherming en aansprakelijkheid
 
 1. Vorderingen die betrekking hebben op besluiten, handelingen of verzuimen van de Permanente Commissie of op besluiten, handelingen of verzuimen van de Gemeenschappelijke Nautische Autoriteit worden ingesteld tegen de Permanente Commissie en worden gebracht voor de gewone rechtbanken in België en voor de burgerlijke rechter in Nederland, meer bepaald:
 
@@ -282,7 +307,7 @@ In dit Verdrag wordt verstaan onder:
 
 6. De Permanente Commissie betrekt de toepassing van deze bepaling bij de evaluatie bedoeld in Artikel 4, zesde lid, en kan, met het oog op efficiëntie en de consistentie van de rechtspraak, aan de Regeringen zo nodig voorstellen voor een aanpassing van dit Artikel doen.
 
-#### Artikel 11. Strafrechtelijke sancties
+##### Artikel 11. Strafrechtelijke sancties
 
 1. Ten aanzien van de strafbaarstelling van de overtreding van de bij of krachtens dit Verdrag vastgestelde regels en besluiten, dragen de Verdragsluitende Partijen zorg voor de vaststelling van de nodige regels terzake. De Verdragsluitende Partijen streven daarbij naar een harmonisatie van de strafmaat. De strafbaarstellingen en de strafmaten zullen niet betekenisvol afwijken van de strafbaarstellingen en de strafmaten voor de scheepvaartwegen van de Verdragsluitende Partijen die buiten het Scheldegebied zijn gelegen. De Permanente Commissie zal zich inspannen om de bevoegde overheden te brengen tot een onderlinge afstemming van het vervolgingsbeleid in de beide landen.
 
@@ -304,7 +329,7 @@ In dit Verdrag wordt verstaan onder:
 
 7. Opsporings- en vervolgingshandelingen dienen tot zo weinig mogelijk vertraging voor het betrokken schip te leiden.
 
-#### Artikel 12. Verhouding tussen het nautisch beheer en andere beleidsdomeinen
+##### Artikel 12. Verhouding tussen het nautisch beheer en andere beleidsdomeinen
 
 1. De Verdragsluitende Partijen informeren elkaar tijdig over belangrijke beleidsvoornemens en plannen, alsmede de voorbereiding van belangrijke besluiten van de bevoegde overheidsorganen op hun grondgebied in andere beleidsdomeinen, inzonderheid op het gebied van de ruimtelijke ordening, de infrastructuur en het milieubeheer, waarvan redelijkerwijs kan worden aangenomen dat deze van invloed kunnen zijn op het nautisch beheer in het Scheldegebied.
 
@@ -314,7 +339,7 @@ In dit Verdrag wordt verstaan onder:
 
 4. De Permanente Commissie, onderscheidenlijk de Verdragsluitende Partij of Verdragsluitende Partijen die het aangaat, is, respectievelijk zijn bevoegd, overeenkomstig het interne recht bij het desbetreffende overheidsorgaan een zienswijze naar voren brengen en bij de bevoegde rechtsprekende instantie een bezwaar- of verzoekschrift in te dienen of een vordering of beroep in te stellen tegen een beleidsvoornemen, plan of besluit als bedoeld in het tweede lid.
 
-#### Artikel 13. Beslechting van geschillen tussen de Verdragsluitende Partijen
+##### Artikel 13. Beslechting van geschillen tussen de Verdragsluitende Partijen
 
 1. De Permanente Commissie beraadslaagt over alle geschillen die zich mochten voordoen bij de toepassing, uitlegging of tenuitvoerlegging van dit Verdrag en tracht deze tot een oplossing te brengen.
 
@@ -322,15 +347,15 @@ In dit Verdrag wordt verstaan onder:
 
 3. Indien de Verdragsluitende Partijen er niet in slagen het geschil te regelen overeenkomstig het tweede lid, kan het op verzoek van één der Verdragsluitende Partijen ter beslissing worden voorgelegd aan een scheidsgerecht van drie arbiters. De bepalingen betreffende de samenstelling en procedure van dit gerecht zijn opgenomen in de bijlage van dit Verdrag, die een geïntegreerd onderdeel vormt van dit Verdrag.
 
-#### Artikel 14. Wijzigingsbepaling
+##### Artikel 14. Wijzigingsbepaling
 
 Wijzigt het Verdrag tussen het Koninkrijk der Nederlanden, het Koninkrijk België en het Vlaams Gewest tot herziening van het Reglement ter uitvoering van artikel IX van het Tractaat van 19 april 1839 en van Hoofdstuk II, Afdelingen 1 en 2, van het Tractaat van 5 november 1842, zoals gewijzigd, voor wat betreft het loodswezen en het gemeenschappelijk toezicht daarop (Scheldereglement); Middelburg, 11-01-1995.
 
-#### Artikel 15. Overgangsbepaling
+##### Artikel 15. Overgangsbepaling
 
 Zolang de Permanente Commissie ten aanzien van een bepaald onderwerp geen regels, bedoeld in Artikelen 4, derde lid, en 5 heeft vastgesteld, of deze regels eenmaal vastgesteld nog niet van kracht zijn, blijven de desbetreffende wettelijke voorschriften van toepassing, met dien verstande dat de door die wettelijke voorschriften aan interne overheden van de Verdragsluitende Partijen toegekende uitvoerings- en toepassingsbevoegdheden worden uitgeoefend door de Gemeenschappelijke Nautische Autoriteit.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 Dit Verdrag treedt in werking met ingang van de eerste dag van de tweede maand, volgend op de dag waarop de Verdragsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de constitutionele eisen is voldaan.
 

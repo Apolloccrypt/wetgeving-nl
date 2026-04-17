@@ -1,20 +1,46 @@
 ---
-title: "Besluit beperkende bepalingen op openbaarheid van naar Nationaal Archief over te brengen archiefbescheiden"
+title: "Besluit van 27 september 2006, nr. 2006-0000304114, Directie Communicatie en Informatie, tot het stellen van beperkende bepalingen op de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden"
 identifier: "BWBR0020351"
-categorie: "Overig"
-publicatiedatum: 2006-10-12
-laatste_update: 2006-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020351"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-10-12"
+last_updated: "2006-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020351"
+soort: "ministeriele-regeling"
+stam_id: "8652413"
+version_id: "13653742"
+internal_id: "C18350501"
+label_id: "8632624"
+dtd_version: "2.0"
+original_entry_into_force: "2006-10-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020351/2006-10-12/0"
+intitule_bron: "Stcrt.2006-197"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-09-27"
+intitule_published: "2006-10-10"
+intitule_in_force: "2006-10-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-197"
+original_signed_date: "2006-09-27"
+original_published_date: "2006-10-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-197-p7-SC77147"
+entry_into_force_date: "2006-10-12"
+jci_1_3: "jci1.3:c:BWBR0020351&z=2006-10-12&g=2006-10-12"
+jci_1_0: "1.0:c:BWBR0020351&g=2006-10-12"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperkende bepalingen op openbaarheid van naar Nationaal Archief over te brengen archiefbescheiden"
+signed_date: "2006-09-27"
+entry_into_force: "2006-10-12"
 ---
-
 # Besluit van 27 september 2006, nr. 2006-0000304114, Directie Communicatie en Informatie, tot het stellen van beperkende bepalingen op de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden
 
 Gelet op [artikel 15, eerste lid, onder a en c van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de bescherming van de persoonlijke levenssfeer wordt aan de openbaarheid van de naar het Algemeen Rijksarchief overgebrachte archiefbescheiden van het archief Bestuurs- en Kabinetszaken van de Directie Binnenlands Bestuur (1915-) 1949-1982 , de volgende beperking gesteld:
 
@@ -32,7 +58,7 @@ Met het oog op de bescherming van de persoonlijke levenssfeer wordt aan de openb
 
 - 3. Het formulier, bedoeld in het eerste lid, blijft achterwege indien een periode van 75 jaar na afsluiting van het betrokken dossier is verstreken.
 
-#### Artikel 2
+##### Artikel 2
 
 Met het oog op het voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden wordt aan de openbaarheid van de naar het Algemeen Rijksarchief overgebrachte archiefbescheiden van het archief Bestuurs- en Kabinetszaken van de Directie Binnenlands Bestuur (1915–) 1949–1982 , de volgende beperking gesteld:
 
@@ -50,11 +76,11 @@ Met het oog op het voorkomen van onevenredige bevoordeling of benadeling van bet
 
 - 3. Het formulier, bedoeld in het eerste lid, blijft achterwege indien een periode van 75 jaar na afsluiting van het betrokken dossier is verstreken.
 
-#### Artikel 3
+##### Artikel 3
 
 De directeur van het Algemeen Rijksarchief verplicht zich de archiefbescheiden in goede staat te bewaren of te doen bewaren, in overeenstemming met het bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) bepaalde.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.
 

@@ -1,16 +1,41 @@
 ---
 title: "Besluit geregeld en ongeregeld luchtvervoer BES"
 identifier: "BWBR0028527"
-categorie: "Milieu"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028527"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028527"
+soort: "AMvB-BES"
+stam_id: "10835653"
+version_id: "17815262"
+internal_id: "C24807831"
+label_id: "10810314"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028527/2010-10-10/0"
+intitule_bron: "Stb.2010-634"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-22"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-634"
+original_signed_date: "2010-09-22"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-634"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028527&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028527&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-22"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit geregeld en ongeregeld luchtvervoer BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. Een aanvraag tot het verkrijgen van een vergunning als bedoeld in [artikel 8, eerste en derde lid, van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=8), wordt ingediend bij de Minister.
 
@@ -34,11 +59,11 @@ bron: "https://wetten.overheid.nl/BWBR0028527"
 
 7. Indien op de aanvraag afwijzend wordt beslist, wordt zulks bij een met redenen omklede beschikking aan de aanvrager medegedeeld.
 
-#### Artikel 2
+##### Artikel 2
 
 De documenten of gegevens, als aangegeven in de bij dit besluit behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028527&bijlage=A&z=2010-10-10&g=2010-10-10), worden als bijlagen bij de aanvraag om vergunning overgelegd.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij de beoordeling van een vergunningaanvraag worden de volgende richtlijnen in acht genomen:
 
@@ -50,11 +75,11 @@ Bij de beoordeling van een vergunningaanvraag worden de volgende richtlijnen in 
 
 - d. bij het verlenen van vergunningen zal de onderhandelingspositie met betrekking tot het verkrijgen van landingsrechten in het buitenland mede in de overwegingen worden betrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij een aanvraag gericht op geregeld luchtvervoer wordt de wenselijkheid van het handhaven of creëren van een stelsel van duurzame geregelde vervoersvoorzieningen aangetoond.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij de beoordeling van een vergunningaanvraag voor het ongeregeld luchtvervoer wordt rekening gehouden met:
 
@@ -70,7 +95,7 @@ Bij een aanvraag gericht op geregeld luchtvervoer wordt de wenselijkheid van het
 
 - b. er geen sprake is van ongezonde mededinging, waarvan kan worden gesproken indien bij een verantwoorde bedrijfsvoering de opbrengsten van het vervoer, geregeld zowel als ongeregeld, de luchtvaartmaatschappijen die dit vervoer verrichten op langere termijn gezien niet in staat stellen tot het behalen van een redelijke rentabiliteit.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een onderneming die een aanvraag indient en waaraan voor de eerste keer een vergunning als bedoeld in [artikel 8, eerste en derde lid, van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=8) wordt verleend, toont aan dat zij:
 
@@ -94,11 +119,11 @@ Bij een aanvraag gericht op geregeld luchtvervoer wordt de wenselijkheid van het
 
 7. De Minister kan, voor zover nodig, advies inwinnen van derden omtrent het door een luchtvaartmaatschappij ingediende bedrijfsplan en de jaarstukken.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit berust op [artikel 8, vierde lid, van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=8).
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit geregeld en ongeregeld luchtvervoer BES.
 

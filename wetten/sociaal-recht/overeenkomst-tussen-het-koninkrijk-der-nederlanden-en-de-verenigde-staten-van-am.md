@@ -1,13 +1,36 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake wederzijdse administratieve bijstand bij het uitwisselen van informatie op effectengebied"
 identifier: "BWBV0002189"
-categorie: "Sociaal recht"
-publicatiedatum: 1992-07-01
-laatste_update: 1992-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002189"
+country: "nl"
+rank: "verdrag"
+publication_date: "1992-07-01"
+last_updated: "1992-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002189"
+soort: "verdrag"
+stam_id: "10002692183"
+version_id: "10003078452"
+internal_id: "C10006984911"
+label_id: "10002680284"
+dtd_version: "2.0"
+original_entry_into_force: "1992-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002189/1992-07-01/0"
+intitule_bron: "Trb.1990-11"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1989-12-11"
+intitule_published: "1990-01-19"
+intitule_in_force: "1992-06-24"
+intitule_status: "goed"
+original_publication: "Trb.1990-61"
+original_published_date: "1990-05-02"
+original_effect: "structuurwijziging"
+original_url_id: "trb-1990-61"
+entry_into_force_date: "1992-07-01"
+jci_1_3: "jci1.3:c:BWBV0002189&z=1992-07-01&g=1992-07-01"
+jci_1_0: "1.0:c:BWBV0002189&g=1992-07-01"
+citeertitel_status: "officieel"
+entry_into_force: "1992-07-01"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake wederzijdse administratieve bijstand bij het uitwisselen van informatie op effectengebied
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika,
@@ -16,7 +39,7 @@ Overwegende dat de ontwikkeling van de internationalisering van de handel in eff
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
@@ -46,7 +69,7 @@ Zijn overeengekomen als volgt:
 
 2. Voor de toepassing van deze Overeenkomst worden de hierin gebruikte termen geacht te zijn omschreven in overeenstemming met de desbetreffende wetten binnen het rechtsgebied van de Bevoegde Autoriteit van de Verzoekende Staat.
 
-#### Artikel 2. Reikwijdte van de bijstand
+##### Artikel 2. Reikwijdte van de bijstand
 
 1. Elke Bevoegde Autoriteit verbindt zich ertoe, in overeenstemming met het bepaalde in deze Overeenkomst, de Bevoegde Autoriteit van de andere Overeenkomstsluitende Partij zoveel mogelijk administratieve bijstand te verlenen bij het inwinnen en uitwisselen van informatie met betrekking tot de toepassing van en de controle op de wetten en voorschriften inzake effecten van de andere Overeenkomstsluitende Partij.
 
@@ -72,7 +95,7 @@ Zijn overeengekomen als volgt:
 
 - f. de voorkoming en ontdekking van effectenfraude en andere onregelmatigheden, verband houdende met het aanbieden, kopen of verkopen van effecten.
 
-#### Artikel 3. Algemene beginselen
+##### Artikel 3. Algemene beginselen
 
 1. Alle verzoeken om informatie of bijstand ingevolge deze Overeenkomst dienen te worden ingediend en uitgevoerd via een Bevoegde Autoriteit van elke Overeenkomstsluitende Partij. De Bevoegde Autoriteiten van de Overeenkomstsluitende Partijen treden ten behoeve van de uitvoering van de bepalingen van deze Overeenkomst rechtstreeks met elkaar in verbinding.
 
@@ -90,7 +113,7 @@ Niettegenstaande deze beginselen:
 
 - b. het inwilligen van een dergelijk verzoek een in de Aangezochte Staat reeds lopend onderzoek zou doorkruisen.
 
-#### Artikel 4. Verzoeken om bijstand
+##### Artikel 4. Verzoeken om bijstand
 
 1. Verzoeken om bijstand dienen schriftelijk te worden ingediend en met redenen te zijn omkleed. Verzoeken dienen te worden gericht aan de door de Bevoegde Autoriteiten aangewezen contactfunctionarissen.
 
@@ -108,7 +131,7 @@ Niettegenstaande deze beginselen:
 
 3. In spoedgevallen kunnen voor verzoeken om bijstand en de beantwoording hiervan verkorte procedures worden gevolgd of andere communicatiemiddelen worden gehanteerd dan de uitwisseling van schriftelijke informatie, mits alle berichten op de in dit artikel voorgeschreven wijze worden bevestigd.
 
-#### Artikel 5. Uitvoering van verzoeken
+##### Artikel 5. Uitvoering van verzoeken
 
 1. De Bevoegde Autoriteit van de Aangezochte Staat dient het verzoek om bijstand binnen een redelijke termijn te behandelen.
 
@@ -120,7 +143,7 @@ Niettegenstaande deze beginselen:
 
 5. Ten tijde van de uitvoering van het verzoek kan de Bevoegde Autoriteit van de Aangezochte Staat toestemming geven voor de aanwezigheid van door de Bevoegde Autoriteit van de Verzoekende Staat aangewezen personen. Deze aangewezen personen wordt toegestaan vragen te formuleren, die worden gesteld bij de uitvoering van het verzoek.
 
-#### Artikel 6. Toegestaan gebruik van informatie
+##### Artikel 6. Toegestaan gebruik van informatie
 
 De Bevoegde Autoriteit van de Verzoekende Staat kan de verstrekte informatie uitsluitend gebruiken voor het in haar verzoek aangegeven doel.
 
@@ -128,25 +151,25 @@ De Bevoegde Autoriteit van de Verzoekende Staat kan de verstrekte informatie uit
 
 - b. Met betrekking tot alle andere vormen van gebruik van informatie, dient de Bevoegde Autoriteit van de Verzoekende Staat de Bevoegde Autoriteit van de Aangezochte Staat hiervan in kennis te stellen, alvorens de verstrekte informatie te gebruiken voor andere doeleinden dan in haar oorspronkelijke verzoek stonden vermeld. De Bevoegde Autoriteit van de Aangezochte Staat kan uitsluitend tegen dit andere gebruik bezwaar maken wanneer dit gebruik niet in het belang zou zijn van de toepassing van en de controle op effectenwetten en -voorschriften of wanneer de in artikel 3, derde lid, vermelde omstandigheden van toepassing zijn. Als dit bezwaar niet kenbaar wordt gemaakt binnen veertien dagen na ontvangst van de kennisgeving van het beoogde gebruik door de Bevoegde Autoriteit van de Verzoekende Staat, kan de informatie worden gebruikt zoals aangegeven in de kennisgeving.
 
-#### Artikel 7. Vertrouwelijkheid
+##### Artikel 7. Vertrouwelijkheid
 
 1. Behalve zoals beoogd in artikel 6 zal iedere Bevoegde Autoriteit, voor zover de wet dit toelaat, geheimhouding betrachten omtrent het verzoek om bijstand, de onderdelen van het verzoek en de ingevolge dit verzoek ingewonnen en verstrekte informatie. Van deze geheimhouding kan ontheffing worden verleend, voor zover de wet dit toelaat, door wederzijdse instemming van de Bevoegde Autoriteiten van de Verzoekende en de Aangezochte Staat.
 
 2. Wanneer de Verzoekende Bevoegde Autoriteit de aangelegenheid ter zake waarvan ingevolge deze Overeenkomst bijstand was verzocht, heeft afgehandeld, zal zij, op verzoek van de Bevoegde Autoriteit van de Aangezochte Staat, voor zover de wet dit toelaat, aan de Aangezochte Bevoegde Autoriteit terugzenden alle documenten en afschriften hiervan, alsmede ander materiaal dat de inhoud van deze documenten onthult, voor zover deze niet reeds is openbaar gemaakt tijdens de in artikel 6 bedoelde procedures of ingevolge het eerste lid van dit artikel, met uitzondering van materiaal dat tot stand is gekomen als onderdeel van de beleidsvormende of de interne analytische werkzaamheden van de Verzoekende Bevoegde Autoriteit.
 
-#### Artikel 8. Invloed op andere overeenkomsten
+##### Artikel 8. Invloed op andere overeenkomsten
 
 1. De onderlinge samenwerking in strafzaken tussen de Overeenkomstsluitende Partijen blijft uitsluitend beheerst door het Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika aangaande wederzijdse rechtshulp in strafzaken van 12 juni 1981.
 
 2. Voor het gebruik van eerder ingevolge deze Overeenkomst uitgewisselde informatie in een strafrechtelijke procedure is de voorafgaande goedkeuring van de Bevoegde Autoriteit van de Aangezochte Staat vereist.
 
-#### Artikel 9. Kosten
+##### Artikel 9. Kosten
 
 1. Indien blijkt dat de beantwoording van een individueel verzoek om bijstand ingevolge deze Overeenkomst aanzienlijke kosten voor de Bevoegde Autoriteit van de Aangezochte Staat met zich zal brengen, treffen de Bevoegde Autoriteiten van beide Staten een regeling voor de kostenverdeling, alvorens gevolg wordt gegeven aan het verzoek om bijstand.
 
 2. Indien, in het algemeen, de uitvoering van deze Overeenkomst hoofdzakelijk voor één van de Bevoegde Autoriteiten aanzienlijke kosten met zich brengt, treffen de Bevoegde Autoriteiten van de Overeenkomstsluitende Partijen een algemene regeling voor de kostenverdeling.
 
-#### Artikel 10. Overleg
+##### Artikel 10. Overleg
 
 1. De Bevoegde Autoriteiten zullen overleg plegen omtrent deze Overeenkomst teneinde de werking ervan te verbeteren en eventuele problemen op te lossen. In het bijzonder zullen de Bevoegde Autoriteiten op verzoek overleg plegen ingeval:
 
@@ -158,15 +181,15 @@ De Bevoegde Autoriteit van de Verzoekende Staat kan de verstrekte informatie uit
 
 2. De Bevoegde Autoriteiten kunnen zodanige praktische maatregelen overeenkomen als noodzakelijk zijn om de uitvoering van deze Overeenkomst te vergemakkelijken.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand na de datum waarop beide Overeenkomstsluitende Partijen elkaar schriftelijk in kennis hebben gesteld dat is voldaan aan de hiertoe in hun onderscheiden landen constitutioneel vereiste procedures.
 
-#### Artikel 12. Territoriale toepassing van de overeenkomst
+##### Artikel 12. Territoriale toepassing van de overeenkomst
 
 Wat het Koninkrijk der Nederlanden betreft is deze Overeenkomst van toepassing op het grondgebied van het Koninkrijk der Nederlanden in Europa.
 
-#### Artikel 13. Beëindiging
+##### Artikel 13. Beëindiging
 
 1. Elke Overeenkomstsluitende Partij kan te allen tijde deze Overeenkomst opzeggen door middel van een kennisgeving aan de andere Partij.
 

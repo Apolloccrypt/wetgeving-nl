@@ -1,13 +1,39 @@
 ---
-title: "Specifiek interventiebeleid NVWA voedselveiligheid bij horeca, ambachtelijke productie, retail en instellingen (IB03-SPEC 37, versie 11)"
+title: "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport van 23 februari 2026 tot vaststelling van het Specifiek interventiebeleid NVWA voedselveiligheid bij horeca, ambachtelijke productie, retail en instellingen (IB03-SPEC 37, versie 11)"
 identifier: "BWBR0052403"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052403"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052403"
+soort: "beleidsregel"
+stam_id: "17794213"
+version_id: "31460352"
+internal_id: "C44934901"
+label_id: "17691984"
+dtd_version: "2.0"
+original_entry_into_force: "2026-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052403/2026-04-01/0"
+intitule_bron: "Stcrt.2026-8641"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-23"
+intitule_published: "2026-03-05"
+intitule_in_force: "2026-03-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-8641"
+original_signed_date: "2026-02-23"
+original_published_date: "2026-03-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-8641"
+entry_into_force_date: "2026-04-01"
+jci_1_3: "jci1.3:c:BWBR0052403&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0052403&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Specifiek interventiebeleid NVWA voedselveiligheid bij horeca, ambachtelijke productie, retail en instellingen (IB03-SPEC 37, versie 11)"
+signed_date: "2026-02-23"
+entry_into_force: "2026-04-01"
 ---
-
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport van 23 februari 2026 tot vaststelling van het Specifiek interventiebeleid NVWA voedselveiligheid bij horeca, ambachtelijke productie, retail en instellingen (IB03-SPEC 37, versie 11)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 25 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25), [artikel 10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=10), en [artikel 13a van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=13a) en het [Algemeen interventiebeleid NVWA 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049215);

@@ -1,20 +1,42 @@
 ---
 title: "Besluit vaststelling selectielijst Onderwijs, Cultuur en Wetenschap (OCW) vanaf 2008"
 identifier: "BWBR0041111"
-categorie: "Onderwijs"
-publicatiedatum: 2018-07-05
-laatste_update: 2018-07-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041111"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2018-07-05"
+last_updated: "2018-07-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041111"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "14666373"
+version_id: "25112492"
+internal_id: "C35911121"
+label_id: "14619054"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041111/2018-07-05/0"
+intitule_bron: "Stcrt.2018-36531"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-07-03"
+intitule_in_force: "2018-07-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-36531"
+original_published_date: "2018-07-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-36531"
+entry_into_force_date: "2018-07-05"
+jci_1_3: "jci1.3:c:BWBR0041111&z=2018-07-05&g=2018-07-05"
+jci_1_0: "1.0:c:BWBR0041111&g=2018-07-05"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-07-05"
 ---
-
 # Besluit vaststelling selectielijst Onderwijs, Cultuur en Wetenschap (OCW) vanaf 2008
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
 
 BESLUITEN:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde Generieke selectielijst Onderwijs, Cultuur en Wetenschap (OCW) en de daarbij behorende toelichting worden vastgesteld. Deze selectielijst geldt voor het Ministerie van Onderwijs, Cultuur en Wetenschap (OCW), bestaande uit de volgende deellijsten:
 
@@ -40,7 +62,7 @@ College van Beroep voor het Hoger Onderwijs, ingangsdatum 8 oktober 1992;
 
 Commissies en bijzondere samenwerkingsverbanden, ingangsdatum 1 april 2008.
 
-#### Artikel 2
+##### Artikel 2
 
 De selectielijsten
 
@@ -155,7 +177,7 @@ commissies en bijzondere samenwerkingsverbanden, per 1 april 2008.
 
 In bovenstaand overzicht zijn de selectiedocumenten waarvan OCW de primaire actor is weergegeven in vetgedrukte tekst.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

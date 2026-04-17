@@ -1,13 +1,38 @@
 ---
 title: "Tariefbeschikking Prestatiebekostiging farmaceutische zorg Nederlandse Zorgautoriteit"
 identifier: "BWBR0026852"
-categorie: "Sociaal recht"
-publicatiedatum: 2009-12-17
-laatste_update: 2009-12-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026852"
+country: "nl"
+rank: "zbo"
+publication_date: "2009-12-17"
+last_updated: "2009-12-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026852"
+soort: "zbo"
+stam_id: "10318803"
+version_id: "16914842"
+internal_id: "C23314101"
+label_id: "10294144"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026852/2009-12-17/0"
+intitule_bron: "Stcrt.2009-19563"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-07"
+intitule_published: "2009-12-17"
+intitule_in_force: "2009-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-19563"
+original_signed_date: "2009-12-07"
+original_published_date: "2009-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-19563"
+entry_into_force_date: "2009-12-17"
+jci_1_3: "jci1.3:c:BWBR0026852&z=2009-12-17&g=2009-12-17"
+jci_1_0: "1.0:c:BWBR0026852&g=2009-12-17"
+citeertitel_status: "redactioneel"
+signed_date: "2009-12-07"
+entry_into_force: "2009-12-17"
 ---
-
 # Tariefbeschikking Prestatiebekostiging farmaceutische zorg Nederlandse Zorgautoriteit
 
 heeft krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.2) en [4 van hoofdstuk 4 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.4) (Wmg)

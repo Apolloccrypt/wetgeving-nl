@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake clustermunitie"
 identifier: "BWBV0003143"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-08-01
-laatste_update: 2011-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003143"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-08-01"
+last_updated: "2011-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003143"
+soort: "verdrag"
+stam_id: "10003355803"
+version_id: "10003392202"
+internal_id: "C10008430041"
+label_id: "10003341804"
+dtd_version: "2.0"
+original_entry_into_force: "2011-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003143/2011-08-01/0"
+intitule_bron: "Trb.2009-45"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-04-06"
+intitule_in_force: "2011-04-13"
+intitule_status: "goed"
+original_publication: "Trb.2009-45"
+original_published_date: "2009-04-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2009-45"
+entry_into_force_date: "2011-08-01"
+jci_1_3: "jci1.3:c:BWBV0003143&z=2011-08-01&g=2011-08-01"
+jci_1_0: "1.0:c:BWBV0003143&g=2011-08-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-08-01"
 ---
-
 # Verdrag inzake clustermunitie
 
 De Staten die Partij zijn bij dit Verdrag,
@@ -54,7 +76,7 @@ Zich baserend op de beginselen en regels van het internationaal humanitair recht
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Algemene verplichtingen en werkingssfeer
+##### Artikel 1. Algemene verplichtingen en werkingssfeer
 
 1. Elke Staat die Partij is verplicht zich ertoe onder geen enkele omstandigheid:
 
@@ -68,7 +90,7 @@ Zijn het volgende overeengekomen:
 
 3. Dit Verdrag is niet van toepassing op mijnen.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -118,7 +140,7 @@ Voor de toepassing van dit Verdrag:
 
 - 15. wordt verstaan onder „onontplofte kleine bom” een explosieve kleine bom die is verspreid, losgelaten of anderszins is gelost uit een houder en tot ontploffing had moeten komen maar dat niet heeft gedaan.
 
-#### Artikel 3. Opslag en vernietiging van voorraden
+##### Artikel 3. Opslag en vernietiging van voorraden
 
 1. Elke Staat die Partij is draagt, in overeenstemming met de nationale regelgeving, zorg voor het scheiden van alle clustermunitie die onder zijn rechtsmacht en zeggenschap valt van de munitie voor operationele inzet en voor het markeren ervan voor vernietiging.
 
@@ -148,7 +170,7 @@ Voor de toepassing van dit Verdrag:
 
 8. Staten die Partij zijn die clustermunitie of explosieve submunitie aanhouden, verwerven of overdragen ten behoeve van de in het zesde en zevende lid van dit artikel omschreven doeleinden dienen een gedetailleerd rapport in van het geplande en feitelijke gebruik van deze clustermunitie en explosieve submunitie alsmede hun type, hoeveelheid en partijnummers. Indien clustermunitie of explosieve submunitie ten behoeve van deze doeleinden aan een andere Staat die Partij is wordt overgedragen dient het rapport een verwijzing naar de ontvangende partij te omvatten. Een dergelijk rapport wordt opgesteld voor ieder jaar waarin een Staat die Partij is clustermunitie of explosieve submunitie aanhoudt, verwerft of overdraagt en dient uiterlijk 30 april van het daaropvolgende jaar bij de Secretaris-Generaal van de Verenigde Naties te worden ingediend.
 
-#### Artikel 4. Ruiming en vernietiging van resten van clustermunitie en voorlichting op het gebied van risicobeperking
+##### Artikel 4. Ruiming en vernietiging van resten van clustermunitie en voorlichting op het gebied van risicobeperking
 
 1. Elke Staat die Partij is verplicht zich ertoe resten van clustermunitie in door clustermunitie getroffen gebieden die onder zijn rechtsmacht of zeggenschap vallen te ruimen en te vernietigen of de ruiming en vernietiging ervan te waarborgen op de navolgende wijze:
 
@@ -204,7 +226,7 @@ Voor de toepassing van dit Verdrag:
 
 8. Na indiening van een nieuw verzoek, in overeenstemming met het vijfde, zesde en zevende lid van dit artikel, kan nogmaals een verlenging worden toegestaan van ten hoogste vijf jaar. Het door een Staat die Partij is ingediende verzoek om aanvullende verlenging dient te worden vergezeld van relevante aanvullende informatie over hetgeen is ondernomen tijdens de vorige verlenging die ingevolge dit artikel werd toegestaan.
 
-#### Artikel 5. Slachtofferhulp
+##### Artikel 5. Slachtofferhulp
 
 1. Elke Staat die Partij is verleent slachtoffers van clustermunitie in gebieden die onder zijn rechtsmacht of zeggenschap vallen, in overeenstemming met het van toepassing zijnde internationale humanitaire recht en het internationale recht inzake de mensenrechten, op adequate wijze hulp die toegesneden is op de leeftijd en het geslacht van de slachtoffers, met inbegrip van medische verzorging, revalidatie en psychologische ondersteuning, en draagt zorg voor hun maatschappelijke en economische integratie. Elke Staat die Partij is, stelt alles in het werk om betrouwbare relevante gegevens te verzamelen met betrekking tot slachtoffers van clustermunitie.
 
@@ -226,7 +248,7 @@ Voor de toepassing van dit Verdrag:
 
 - h. streven naar het opnemen van relevante richtlijnen en goede praktijken in onder meer gebieden als medische zorg, revalidatie en psychologische ondersteuning alsmede maatschappelijke en economische integratie.
 
-#### Artikel 6. Internationale samenwerking en bijstand
+##### Artikel 6. Internationale samenwerking en bijstand
 
 1. Bij de nakoming van zijn verplichtingen ingevolge dit Verdrag heeft elke Staat die Partij is het recht bijstand te vragen en te ontvangen.
 
@@ -264,7 +286,7 @@ Voor de toepassing van dit Verdrag:
 
 12. Staten die Partij zijn en bijstand verlenen en ontvangen overeenkomstig de bepalingen van dit artikel werken samen teneinde zorg te dragen voor de volledige en onverwijlde uitvoering van de overeengekomen bijstandprogramma’s.
 
-#### Artikel 7. Maatregelen ten behoeve van transparantie
+##### Artikel 7. Maatregelen ten behoeve van transparantie
 
 1. Elke Staat die Partij is brengt verslag uit aan de Secretaris-Generaal van de Verenigde Naties zodra dit praktisch uitvoerbaar is en in elk geval niet later dan 180 dagen nadat dit Verdrag voor die Staat die Partij is in werking is getreden, inzake:
 
@@ -300,7 +322,7 @@ Voor de toepassing van dit Verdrag:
 
 3. De Secretaris-Generaal van de Verenigde Naties doet alle ontvangen rapporten toekomen aan de Staten die Partij zijn.
 
-#### Artikel 8. Vergemakkelijking en opheldering met betrekking tot de naleving
+##### Artikel 8. Vergemakkelijking en opheldering met betrekking tot de naleving
 
 1. De Staten die Partij zijn komen overeen met elkaar overleg te plegen en samen te werken met betrekking tot de uitvoering van de bepalingen van dit Verdrag en zich gezamenlijk in een geest van samenwerking in te spannen voor de vergemakkelijking van de naleving van de verplichtingen die uit hoofde van dit Verdrag rusten op de Staten die Partij zijn.
 
@@ -314,17 +336,17 @@ Voor de toepassing van dit Verdrag:
 
 6. Naast de in het tweede tot en met vijfde lid van dit artikel voorziene procedures kan de Vergadering van de Staten die Partij zijn besluiten tot het aannemen van door haar passend geachte andere algemene procedures of specifieke mechanismen voor opheldering met betrekking tot de naleving, met inbegrip van feiten, en oplossing van zaken van niet-naleving van de bepalingen van dit Verdrag.
 
-#### Artikel 9. Nationale uitvoeringsmaatregelen
+##### Artikel 9. Nationale uitvoeringsmaatregelen
 
 Elke Staat die Partij is neemt alle passende wettelijke, administratieve en andere maatregelen om dit Verdrag uit te voeren, met inbegrip van het opleggen van strafrechtelijke sancties, teneinde het ondernemen van ingevolge dit Verdrag voor een Staat die Partij is verboden activiteiten door personen die onder zijn rechtsmacht of zeggenschap vallen of op grondgebied dat onder zijn rechtsmacht of zeggenschap valt, te voorkomen en tegen te gaan.
 
-#### Artikel 10. Beslechting van geschillen
+##### Artikel 10. Beslechting van geschillen
 
 1. Indien tussen twee of meer Staten die Partij zijn een geschil rijst met betrekking tot de uitlegging of toepassing van dit Verdrag plegen de betrokken Staten die Partij zijn met elkaar overleg teneinde het geschil snel te beslechten door middel van onderhandeling of op een andere door hen te kiezen vreedzame wijze, met inbegrip van een beroep op de Vergadering van de Staten die Partij zijn en aanhangigmaking bij het Internationaal Gerechtshof overeenkomstig het Statuut van het Hof.
 
 2. De Vergadering van de Staten die Partij zijn kan met alle door haar nodig geachte middelen een bijdrage leveren aan de beslechting van het geschil, met inbegrip van het aanbod tot het verlenen van goede diensten, het oproepen van de desbetreffende Staten die Partij zijn aan te vangen met de procedure van hun keuze voor de beslechting en het aanbevelen van een termijn voor een overeengekomen procedure.
 
-#### Artikel 11. Vergaderingen van de Staten die Partij zijn
+##### Artikel 11. Vergaderingen van de Staten die Partij zijn
 
 1. De Staten die Partij zijn komen regelmatig in vergadering bijeen teneinde zaken te bestuderen en, waar noodzakelijk, besluiten te nemen die betrekking hebben op de toepassing of uitvoering van dit Verdrag, met inbegrip van:
 
@@ -344,7 +366,7 @@ Elke Staat die Partij is neemt alle passende wettelijke, administratieve en ande
 
 3. Staten die geen Partij zijn bij dit Verdrag, alsmede de Verenigde Naties, andere relevante internationale organisaties of instellingen, regionale organisaties, het Internationaal Comité van het Rode Kruis, de Internationale Federatie van Rode Kruis- en Rode Halvemaanverenigingen en relevante niet-gouvernementele organisaties kunnen worden uitgenodigd deze vergaderingen als waarnemers bij te wonen, in overeenstemming met het aangenomen Reglement van Orde.
 
-#### Artikel 12. Toetsingsconferenties
+##### Artikel 12. Toetsingsconferenties
 
 1. Vijf jaar na de inwerkingtreding van dit Verdrag roept de Secretaris-Generaal van de Verenigde Naties een Toetsingsconferentie bijeen. Volgende Toetsingsconferenties worden door de Secretaris-Generaal van de Verenigde Naties bijeengeroepen op verzoek daartoe door een of meer Staten die Partij zijn, met dien verstande dat het tijdvak tussen de toetsingsconferenties in geen geval korter mag zijn dan vijf jaar. Alle Staten die Partij zijn bij dit Verdrag worden uitgenodigd voor elke Toetsingsconferentie.
 
@@ -358,7 +380,7 @@ Elke Staat die Partij is neemt alle passende wettelijke, administratieve en ande
 
 3. Staten die geen Partij zijn bij dit Verdrag, alsmede de Verenigde Naties, andere relevante internationale organisaties of instellingen, regionale organisaties, het Internationaal Comité van het Rode Kruis, de Internationale Federatie van Rode Kruis- en Rode Halvemaanverenigingen en relevante niet-gouvernementele organisaties kunnen worden uitgenodigd elke Toetsingsconferentie als waarnemer bij te wonen, in overeenstemming met het aangenomen Reglement van Orde.
 
-#### Artikel 13. Wijzigingen
+##### Artikel 13. Wijzigingen
 
 1. Na de inwerkingtreding van dit Verdrag kan iedere Staat die Partij is te allen tijde voorstellen doen tot wijziging van dit Verdrag. Elk voorstel tot wijziging wordt ingediend bij de Secretaris-Generaal van de Verenigde Naties, die het toezendt aan alle Staten die Partij zijn en die hun mening vraagt ten aanzien van de noodzaak een Wijzigingsconferentie bijeen te roepen teneinde het voorstel in behandeling te nemen. Indien een meerderheid van de Staten die Partij zijn de Secretaris-Generaal van de Verenigde Naties uiterlijk 90 dagen na de toezending van het voorstel meedeelt dat zij verdere behandeling steunt, roept de Secretaris-Generaal van de Verenigde Naties een Wijzigingsconferentie bijeen, waarvoor alle Staten die Partij zijn worden uitgenodigd.
 
@@ -370,7 +392,7 @@ Elke Staat die Partij is neemt alle passende wettelijke, administratieve en ande
 
 5. Een wijziging van dit Verdrag treedt ten aanzien van alle Staten die Partij zijn die deze wijziging hebben aanvaard in werking op de datum van nederlegging van de akte van aanvaarding door een meerderheid van de Staten die Partij zijn op de datum van aanneming van de wijziging. Vervolgens treedt zij ten aanzien van elke andere Staat die Partij is in werking op de datum van nederlegging van zijn akte van aanvaarding.
 
-#### Artikel 14. Kosten en administratieve taken
+##### Artikel 14. Kosten en administratieve taken
 
 1. De kosten van de Vergaderingen van Staten die Partij zijn, de Toetsingsconferenties en de Wijzigingsconferenties worden gedragen door de Staten die Partij zijn bij dit Verdrag en door de daaraan deelnemende Staten die geen Partij zijn bij dit Verdrag, in overeenstemming met de dienovereenkomstig aangepaste verdeelsleutel van de Verenigde Naties.
 
@@ -378,11 +400,11 @@ Elke Staat die Partij is neemt alle passende wettelijke, administratieve en ande
 
 3. Het uitvoeren door de Secretaris-Generaal van de Verenigde Naties van de aan hem of haar ingevolge dit Verdrag toegewezen administratieve taken is onder voorbehoud van een passend mandaat van de Verenigde Naties.
 
-#### Artikel 15. Ondertekening
+##### Artikel 15. Ondertekening
 
 Dit Verdrag, gedaan te Dublin op 30 mei 2008, staat voor alle Staten op 3 december 2008 open ter ondertekening te Oslo en vervolgens op het Hoofdkwartier van de Verenigde Naties te New York tot de inwerkingtreding ervan.
 
-#### Artikel 16. Bekrachtiging, aanvaarding, goedkeuring of toetreding
+##### Artikel 16. Bekrachtiging, aanvaarding, goedkeuring of toetreding
 
 1. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door de Ondertekenaars.
 
@@ -390,21 +412,21 @@ Dit Verdrag, gedaan te Dublin op 30 mei 2008, staat voor alle Staten op 3 decemb
 
 3. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding dienen te worden nedergelegd bij de Depositaris.
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de zesde maand volgend op de maand waarin de dertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding is nedergelegd.
 
 2. Voor elke Staat die zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nederlegt na de datum van de nederlegging van de dertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt dit Verdrag in werking op de eerste dag van de zesde maand na de datum waarop die Staat zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding heeft nedergelegd.
 
-#### Artikel 18. Voorlopige toepassing
+##### Artikel 18. Voorlopige toepassing
 
 Elke Staat kan ten tijde van de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat hij, hangende de inwerkingtreding van dit Verdrag ten aanzien van die Staat, [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003143&artikel=1&z=2011-08-01&g=2011-08-01) van dit Verdrag voorlopig toepast.
 
-#### Artikel 19. Voorbehouden
+##### Artikel 19. Voorbehouden
 
 Er kunnen ten aanzien van de artikelen van dit Verdrag geen voorbehouden worden gemaakt.
 
-#### Artikel 20. Duur en opzegging
+##### Artikel 20. Duur en opzegging
 
 1. Dit Verdrag wordt voor onbepaalde tijd gesloten.
 
@@ -412,7 +434,7 @@ Er kunnen ten aanzien van de artikelen van dit Verdrag geen voorbehouden worden 
 
 3. Een dergelijke opzegging wordt niet eerder van kracht dan zes maanden na de ontvangst van de akte van opzegging door de Depositaris. Indien evenwel na afloop van dat tijdvak van zes maanden de opzeggende Staat die Partij is betrokken is bij een gewapend conflict, wordt de opzegging niet van kracht voordat het gewapend conflict beëindigd is.
 
-#### Artikel 21. Betrekkingen met Staten die geen Partij zijn bij dit Verdrag
+##### Artikel 21. Betrekkingen met Staten die geen Partij zijn bij dit Verdrag
 
 1. Elke Staat die Partij is moedigt Staten die geen Partij zijn bij dit Verdrag aan dit Verdrag te bekrachtigen, te aanvaarden, goed te keuren of ertoe toe te treden, met als doel de participatie van alle Staten bij dit Verdrag te verkrijgen.
 
@@ -430,10 +452,10 @@ Er kunnen ten aanzien van de artikelen van dit Verdrag geen voorbehouden worden 
 
 - d. uitdrukkelijk om het gebruik van clustermunitie te verzoeken in gevallen waarin de keuze van de te gebruiken munitie uitsluitend bij hem ligt.
 
-#### Artikel 22. Depositaris
+##### Artikel 22. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties wordt hierbij aangewezen als Depositaris van dit Verdrag.
 
-#### Artikel 23. Authentieke teksten
+##### Artikel 23. Authentieke teksten
 
 De Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst van dit Verdrag zijn gelijkelijk authentiek.

@@ -1,34 +1,60 @@
 ---
-title: "Beleidsregel toetsingskader verzoeken artikel 10a Wet Avv 2023"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 juli 2023, nr. 2023-0000394473, tot vaststelling van het toetsingskader voor verzoeken in het kader van artikel 10a van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten (Beleidsregel toetsingskader verzoeken artikel 10a Wet Avv 2023)"
 identifier: "BWBR0048393"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-07-15
-laatste_update: 2023-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048393"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-07-15"
+last_updated: "2023-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048393"
+soort: "beleidsregel"
+stam_id: "16802643"
+version_id: "29519292"
+internal_id: "C42204411"
+label_id: "16716344"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048393/2023-07-15/0"
+intitule_bron: "Stcrt.2023-19791"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-07-07"
+intitule_published: "2023-07-14"
+intitule_in_force: "2023-07-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-19791"
+original_signed_date: "2023-07-07"
+original_published_date: "2023-07-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-19791"
+entry_into_force_date: "2023-07-15"
+jci_1_3: "jci1.3:c:BWBR0048393&z=2023-07-15&g=2023-07-15"
+jci_1_0: "1.0:c:BWBR0048393&g=2023-07-15"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel toetsingskader verzoeken artikel 10a Wet Avv 2023"
+signed_date: "2023-07-07"
+entry_into_force: "2023-07-15"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 juli 2023, nr. 2023-0000394473, tot vaststelling van het toetsingskader voor verzoeken in het kader van artikel 10a van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten (Beleidsregel toetsingskader verzoeken artikel 10a Wet Avv 2023)
 
 Gelet op [artikel 10a van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10a);
 
 Besluit:
 
-#### Artikel 1. Uitgangspunten verzoeken [artikel 10a Wet Avv](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10a)
+##### Artikel 1. Uitgangspunten verzoeken [artikel 10a Wet Avv](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10a)
 
 1. Bij verzoeken op grond van [artikel 10a, eerste tot en met vierde lid, van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10a) worden de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0048393&bijlage=I&z=2023-07-15&g=2023-07-15) bij deze beleidsregel opgenomen uitgangspunten door de Minister van Sociale Zaken en Werkgelegenheid gehanteerd.
 
 2. Bij verzoeken op grond van [artikel 10a, vijfde lid, van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10a) worden de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048393&bijlage=II&z=2023-07-15&g=2023-07-15) bij deze beleidsregel opgenomen uitgangspunten door de Minister van Sociale Zaken en Werkgelegenheid gehanteerd.
 
-#### Artikel 2. Intrekking [Beleidsregel toetsingskader verzoeken artikel 10a Wet Avv](https://wetten.overheid.nl/jci1.3:c:BWBR0043173)
+##### Artikel 2. Intrekking [Beleidsregel toetsingskader verzoeken artikel 10a Wet Avv](https://wetten.overheid.nl/jci1.3:c:BWBR0043173)
 
 De [Beleidsregel toetsingskader verzoeken artikel 10a Wet Avv](https://wetten.overheid.nl/jci1.3:c:BWBR0043173) wordt ingetrokken.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 juli 2023. Indien de Staatscourant waarin deze beleidsregel wordt geplaatst, wordt uitgegeven na 30 juni 2023, treedt hij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel toetsingskader verzoeken artikel 10a Wet Avv 2023.
 

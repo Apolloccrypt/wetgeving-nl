@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel geneeskundige zorg voor specifieke patiëntgroepen"
 identifier: "BWBR0051283"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051283"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051283"
+soort: "zbo"
+stam_id: "17478313"
+version_id: "30825122"
+internal_id: "C44175401"
+label_id: "17380614"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051283/2026-01-01/0"
+intitule_bron: "Stcrt.2025-24506"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-08"
+intitule_published: "2025-07-18"
+intitule_in_force: "2025-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-24506"
+original_signed_date: "2025-07-08"
+original_published_date: "2025-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-24506"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051283&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051283&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-08"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel geneeskundige zorg voor specifieke patiëntgroepen
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
@@ -16,7 +41,7 @@ Gelet op [artikel 52, aanhef en onderdeel e, van de Wmg](https://wetten.overheid
 
 Gelet op [artikel 59, aanhef en onder a, c, en f, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister van VWS met brieven van 3 juli 2019, met kenmerk [1549124-192760-PZO](https://wetten.overheid.nl/jci1.3:c:BWBR0042399) en van 29 juni 2020, met kenmerk [1708250-207156-PZO](https://wetten.overheid.nl/jci1.3:c:BWBR0043857), ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7), aan de NZa gegeven.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -46,15 +71,15 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - 2°. natuurlijk persoon of rechtspersoon voor zover deze tarieven in rekening brengt namens, ten behoeve van of in verband met het verlenen van zorg door een zorgaanbieder als bedoeld onder 1°.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen op het gebied van geneeskundige zorg voor specifieke patiëntgroepen.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op geneeskundige zorg voor specifieke patiëntgroepen, zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051283&artikel=1&z=2026-01-01&g=2026-01-01) van deze beleidsregel.
 
-#### Artikel 4. Prestatiebeschrijvingen
+##### Artikel 4. Prestatiebeschrijvingen
 
 In deze beleidsregel worden de volgende prestatiebeschrijvingen onderscheiden:
 
@@ -322,7 +347,7 @@ Aanvullende voorwaarden:
 
 De prestatie-eenheid voor deze prestatie is per maand.
 
-#### Artikel 5. Tarieven
+##### Artikel 5. Tarieven
 
 Er gelden maximumtarieven voor de prestaties:
 
@@ -380,11 +405,11 @@ De tarieven worden jaarlijks trendmatig aangepast voor de ontwikkeling van de lo
 
 - ○. Voor de prestatie zoals beschreven in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0051283&artikel=4&z=2026-01-01&g=2026-01-01), 4.6, 4.7 en 4.8 zijn de verhoudingspercentages tussen loon- en materiële kosten terug te vinden in het ‘Verantwoordingsdocument gzsp/Wlz-behandelprestaties (zorg in een groep en sglvg), dat als bijlage bij deze beleidsregel is opgenomen.
 
-#### Artikel 6. Intrekken en vervallen oude beleidsregels en wijzigingsbesluit
+##### Artikel 6. Intrekken en vervallen oude beleidsregels en wijzigingsbesluit
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel geneeskundige zorg voor specifieke patiëntgroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050020), met kenmerk BR/REG-25102, ingetrokken.
 
-#### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
 
 De [Beleidsregel geneeskundige zorg voor specifieke patiëntgroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0050020) met kenmerk BR/REG-25102, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

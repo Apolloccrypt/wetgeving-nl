@@ -1,13 +1,38 @@
 ---
 title: "Omzetbelasting, ontwikkelingswerk; uitvoering van projecten in ontwikkelingslanden"
 identifier: "BWBR0037043"
-categorie: "Belastingrecht"
-publicatiedatum: 2015-10-01
-laatste_update: 2015-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037043"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2015-10-01"
+last_updated: "2015-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037043"
+soort: "beleidsregel"
+stam_id: "13263563"
+version_id: "22693012"
+internal_id: "C32821581"
+label_id: "13231674"
+dtd_version: "2.0"
+original_entry_into_force: "2015-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037043/2015-10-01/0"
+intitule_bron: "Stcrt.2015-32147"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-09-21"
+intitule_published: "2015-09-30"
+intitule_in_force: "2015-09-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-32147"
+original_signed_date: "2015-09-21"
+original_published_date: "2015-09-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-32147"
+entry_into_force_date: "2015-10-01"
+jci_1_3: "jci1.3:c:BWBR0037043&z=2015-10-01&g=2015-10-01"
+jci_1_0: "1.0:c:BWBR0037043&g=2015-10-01"
+citeertitel_status: "redactioneel"
+signed_date: "2015-09-21"
+entry_into_force: "2015-10-01"
 ---
-
 # Omzetbelasting, ontwikkelingswerk; uitvoering van projecten in ontwikkelingslanden
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

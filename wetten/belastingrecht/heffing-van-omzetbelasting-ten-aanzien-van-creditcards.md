@@ -1,13 +1,37 @@
 ---
 title: "Heffing van omzetbelasting ten aanzien van creditcards"
 identifier: "BWBR0003583"
-categorie: "Belastingrecht"
-publicatiedatum: 1983-03-23
-laatste_update: 1983-03-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003583"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1983-03-23"
+last_updated: "1983-03-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003583"
+soort: "beleidsregel"
+stam_id: "8453123"
+version_id: "13333402"
+internal_id: "C18453921"
+label_id: "8433664"
+dtd_version: "2.0"
+original_entry_into_force: "1983-03-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003583/1983-03-23/0"
+intitule_bron: "Infob.1983-3"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1983-03-23"
+intitule_published: "1983-01-01"
+intitule_in_force: "1983-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1983-3"
+original_signed_date: "1983-03-23"
+original_published_date: "1983-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1983-03-23"
+jci_1_3: "jci1.3:c:BWBR0003583&z=1983-03-23&g=1983-03-23"
+jci_1_0: "1.0:c:BWBR0003583&g=1983-03-23"
+citeertitel_status: "redactioneel"
+signed_date: "1983-03-23"
+entry_into_force: "1983-03-23"
 ---
-
 # Heffing van omzetbelasting ten aanzien van creditcards
 
 De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.

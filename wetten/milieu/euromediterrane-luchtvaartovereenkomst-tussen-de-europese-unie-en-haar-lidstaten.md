@@ -1,13 +1,35 @@
 ---
 title: "Euromediterrane luchtvaartovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en het Hasjemitische Koninkrijk Jordanië, anderzijds"
 identifier: "BWBV0005053"
-categorie: "Milieu"
-publicatiedatum: 2020-08-02
-laatste_update: 2020-08-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005053"
+country: "nl"
+rank: "verdrag"
+publication_date: "2020-08-02"
+last_updated: "2020-08-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005053"
+soort: "verdrag"
+stam_id: "10004452743"
+version_id: "10004660812"
+internal_id: "C10009712131"
+label_id: "10004437844"
+dtd_version: "2.0"
+original_entry_into_force: "2020-08-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005053/2020-08-02/0"
+intitule_bron: "Trb.2011-29"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-02-17"
+intitule_in_force: "2020-08-14"
+intitule_status: "goed"
+original_publication: "Trb.2011-29"
+original_published_date: "2011-02-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-29"
+entry_into_force_date: "2020-08-02"
+jci_1_3: "jci1.3:c:BWBV0005053&z=2020-08-02&g=2020-08-02"
+jci_1_0: "1.0:c:BWBV0005053&g=2020-08-02"
+citeertitel_status: "redactioneel"
+entry_into_force: "2020-08-02"
 ---
-
 # Euromediterrane luchtvaartovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en het Hasjemitische Koninkrijk Jordanië, anderzijds
 
 Het Koninkrijk België,
@@ -112,7 +134,7 @@ Nota nemende van het feit dat het doel van deze overeenkomst geleidelijk doch vo
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Tenzij anders is bepaald, wordt voor de toepassing van deze Overeenkomst verstaan onder:
 
@@ -178,7 +200,7 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze Overeenkomst verstaa
 
 ## TITEL I. ECONOMISCHE BEPALINGEN
 
-#### Artikel 2. Verkeersrechten
+##### Artikel 2. Verkeersrechten
 
 1. Overeenkomstig [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0005053&bijlage=I&z=2020-08-02&g=2020-08-02) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0005053&bijlage=II&z=2020-08-02&g=2020-08-02) van deze Overeenkomst verleent elke partij de andere partij de volgende rechten met betrekking tot de exploitatie van internationaal luchtvervoer door luchtvaartmaatschappijen van de andere partij:
 
@@ -196,7 +218,7 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze Overeenkomst verstaa
 
 - b. de Europese Unie het recht op het grondgebied van Jordanië tegen vergoeding passagiers, bagage, vracht en/of post aan boord te nemen die bestemd zijn voor een ander punt op het grondgebied van Jordanië.
 
-#### Artikel 3. Vergunning
+##### Artikel 3. Vergunning
 
 1. Wanneer de bevoegde instanties een aanvraag voor een exploitatievergunning ontvangen van een luchtvaartmaatschappij van een van de partijen, verlenen zij zo spoedig mogelijk de passende vergunningen, voor zover:
 
@@ -220,7 +242,7 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze Overeenkomst verstaa
 
 - d. de voorschriften van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0005053&titeldeel=II&artikel=13&z=2020-08-02&g=2020-08-02) (Veiligheid van de luchtvaart) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0005053&titeldeel=II&artikel=14&z=2020-08-02&g=2020-08-02) (Beveiliging van de luchtvaart) van deze Overeenkomst worden gehandhaafd en opgelegd.
 
-#### Artikel 4. Weigering, intrekking, opschorting of beperking van vergunningen
+##### Artikel 4. Weigering, intrekking, opschorting of beperking van vergunningen
 
 1. De bevoegde instanties van elke partij kunnen de exploitatievergunningen weigeren, intrekken, opschorten of beperken of de activiteiten van een luchtvaartmaatschappij van de andere partij op een andere wijze opschorten of beperken als:
 
@@ -248,7 +270,7 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze Overeenkomst verstaa
 
 3. Geen van de partijen doet een beroep op de bij dit artikel vastgestelde rechten om vergunningen of machtigingen van een luchtvaartmaatschappij van een partij te weigeren, in te trekken, op te schorten of te beperken op grond van het feit dat een ander Euromedland of onderdanen van dat land meerderheidseigenaar van die luchtvaartmaatschappij zijn en/of er feitelijke zeggenschap over uitoefenen, voor zover dat Euromedland partij is bij een soortgelijke Euromediterrane luchtvaartovereenkomst en een op wederkerigheid berustende behandeling aanbiedt.
 
-#### Artikel 4 bis. Wederzijdse erkenning van regelgevende vaststellingen met betrekking tot de deugdelijkheid en nationaliteit van luchtvaartmaatschappijen
+##### Artikel 4 bis. Wederzijdse erkenning van regelgevende vaststellingen met betrekking tot de deugdelijkheid en nationaliteit van luchtvaartmaatschappijen
 
 1. Als de bevoegde autoriteiten van een partij een aanvraag voor een vergunning ontvangen van een luchtvaartmaatschappij van de andere partij, erkennen zij de door de bevoegde autoriteiten van de vragende partij gedane vaststellingen met betrekking tot deugdelijkheid en/of nationaliteit van die luchtvaartmaatschappij alsof zij die vaststellingen zelf zouden hebben gedaan, en voeren zij verder geen onderzoek naar deze kwesties, behalve zoals bepaald in lid 2 hieronder.
 
@@ -262,7 +284,7 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze Overeenkomst verstaa
 
 - –. verzekeringsdekking.
 
-#### Artikel 5. Investeringen
+##### Artikel 5. Investeringen
 
 1. Jordanië mag regelingen treffen om de meerderheidseigendom van en/of feitelijke zeggenschap over Jordaanse luchtvaartmaatschappijen door lidstaten of hun onderdanen toe te staan.
 
@@ -270,13 +292,13 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze Overeenkomst verstaa
 
 3. Voor specifieke investeringsprojecten in het kader van dit artikel wordt toestemming gegeven door middel van voorafgaande beslissingen van het bij deze Overeenkomst opgerichte Gemengd Comité. In die beslissingen kunnen de voorwaarden worden gespecificeerd voor de exploitatie van de in deze Overeenkomst overeengekomen diensten en van de diensten tussen derde landen en de partijen. De bepalingen van [artikel 21, lid 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005053&titeldeel=III&artikel=21&z=2020-08-02&g=2020-08-02) (Gemengd Comité), van deze Overeenkomst zijn niet van toepassing op dit type beslissingen.
 
-#### Artikel 6. Naleving van wetten en regels
+##### Artikel 6. Naleving van wetten en regels
 
 1. Bij binnenkomst in, verblijf op of vertrek uit het grondgebied van een partij, moeten luchtvaartmaatschappijen van de andere partij de op dat grondgebied toepasselijke wetten en regels inzake het binnenkomen of verlaten van het grondgebied door luchtvaartuigen die internationaal luchtvervoer uitvoeren, of inzake de exploitatie en navigatie van luchtvaartuigen naleven.
 
 2. Bij binnenkomst in, verblijf op of vertrek uit het grondgebied van een partij moeten de wetten en voorschriften die op dat grondgebied gelden met betrekking tot de toelating tot of het vertrek uit dat grondgebied van passagiers, bemanning of vracht aan boord van het vliegtuig (met inbegrip van de regelgeving inzake binnenkomst, inklaring, immigratie, paspoorten, douane en quarantaine of, in het geval van post, postvoorschriften) door of namens deze passagiers, bemanningen of vracht van de luchtvaartmaatschappijen van de andere partij worden nageleefd.
 
-#### Artikel 7. Mededinging
+##### Artikel 7. Mededinging
 
 1. De partijen bevestigen dat de beginselen van [titel IV, hoofdstuk II, van de Associatieovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001417&hoofdstuk=2) van toepassing zijn op deze Overeenkomst.
 
@@ -292,7 +314,7 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze Overeenkomst verstaa
 
 7. De bepalingen van dit artikel zijn van toepassing onverminderd de wetten en regels betreffende openbaredienstverplichtingen op het grondgebied van de partijen.
 
-#### Artikel 8. Commerciële opportuniteiten
+##### Artikel 8. Commerciële opportuniteiten
 
 1. De luchtvaartmaatschappijen van beide partijen hebben het recht kantoren te vestigen op het grondgebied van de andere partij met het oog op de promotie en verkoop van luchtvervoer en aanverwante activiteiten.
 
@@ -336,7 +358,7 @@ voor zover i) alle deelnemers aan dergelijke samenwerkingsvormen over de passend
 
 11. De toewijzing van slots op de luchthavens op het grondgebied van de partijen gebeurt op onafhankelijke, transparante en niet-discriminerende wijze. Alle luchtvaartmaatschappijen worden op eerlijke en gelijke basis behandeld. Overeenkomstig [artikel 21, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005053&titeldeel=III&artikel=21&z=2020-08-02&g=2020-08-02) (Gemengd Comité), mag een partij vragen om een vergadering van het Gemengd Comité teneinde problemen met de toepassing van dit lid op te lossen.
 
-#### Artikel 9. Douanerechten en -heffingen
+##### Artikel 9. Douanerechten en -heffingen
 
 1. Bij aankomst op het grondgebied van de ene partij worden luchtvaartuigen die door luchtvaartmaatschappijen van de andere partij worden ingezet voor internationaal luchtvervoer, hun gebruikelijke apparatuur, brandstof, smeermiddelen, technische verbruiksgoederen, grondapparatuur, reserveonderdelen (inclusief motoren), boordproviand (inclusief, maar niet beperkt tot, voedsel, drank en alcoholhoudende dranken, tabak en andere producten die bestemd zijn om tijdens de vlucht in beperkte hoeveelheden aan passagiers te worden verkocht of door passagiers te worden verbruikt) en andere voorwerpen die bestemd zijn voor of uitsluitend worden gebruikt in verband met de exploitatie of het onderhoud van voor internationaal luchtvervoer ingezette luchtvaartuigen, op basis van wederkerigheid vrijgesteld van alle invoerbeperkingen, eigendomstaksen en heffingen op activa, douanerechten, accijnzen en soortgelijke rechten en heffingen die a) worden opgelegd door de nationale of lokale overheden of de Europese Unie en b) niet gebaseerd zijn op de kostprijs van de verleende diensten, voor zover die apparatuur en goederen aan boord van het luchtvaartuig blijven.
 
@@ -362,7 +384,7 @@ voor zover i) alle deelnemers aan dergelijke samenwerkingsvormen over de passend
 
 7. De bepalingen van deze Overeenkomst hebben geen gevolgen voor de btw, behalve wat de omzetbelasting op invoer betreft. De bepalingen van de tussen een lidstaat en Jordanië gesloten verdragen inzake het vermijden van dubbele belasting op inkomsten en kapitaal worden niet gewijzigd bij de onderhavige Overeenkomst.
 
-#### Artikel 10. Gebruikersheffingen op luchthavens, luchthavenvoorzieningen en -diensten
+##### Artikel 10. Gebruikersheffingen op luchthavens, luchthavenvoorzieningen en -diensten
 
 1. Elke partij ziet erop toe dat gebruikersheffingen die door haar bevoegde heffingsautoriteiten of -organen aan de luchtvaartmaatschappijen van de andere partij worden opgelegd voor het gebruik van luchtnavigatie- en luchtverkeersleidingsdiensten correct, redelijk, kostengerelateerd en niet ten onrechte discriminerend zijn. In ieder geval moeten dergelijke gebruikersheffingen aan de luchtvaartmaatschappijen van de andere partij worden opgelegd volgens voorwaarden die niet minder gunstig zijn dan de gunstigste voorwaarden die om het even welke andere luchtvaartmaatschappij kan verkrijgen.
 
@@ -372,7 +394,7 @@ voor zover i) alle deelnemers aan dergelijke samenwerkingsvormen over de passend
 
 4. Geen van beide partijen wordt bij procedures voor de regeling van geschillen volgens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005053&titeldeel=III&artikel=22&z=2020-08-02&g=2020-08-02) van deze Overeenkomst (Regeling van geschillen en arbitrage) geacht een bepaling van dit artikel te hebben overtreden, tenzij a) zij verzuimt de last of de praktijk die voorwerp is van een klacht door de andere partij binnen een redelijke termijn opnieuw in beschouwing te nemen; of b) na deze beschouwing nalaat alle in haar macht liggende stappen te doen om een last of praktijk die niet in overeenstemming is met dit artikel te corrigeren.
 
-#### Artikel 11. Prijsstelling
+##### Artikel 11. Prijsstelling
 
 1. De partijen staan toe dat de luchtvaartmaatschappijen hun prijzen vrij vaststellen op basis van vrije en eerlijke mededinging.
 
@@ -380,7 +402,7 @@ voor zover i) alle deelnemers aan dergelijke samenwerkingsvormen over de passend
 
 3. De luchtvaartautoriteiten kunnen onderling overleg plegen over kwesties als, maar niet beperkt tot niet-correcte, onredelijke of discriminerende prijzen.
 
-#### Artikel 12. Statistieken
+##### Artikel 12. Statistieken
 
 1. Elke partij verstrekt de andere partij de statistieken die krachtens de nationale wetten en regels van die partij vereist zijn en, op verzoek, andere beschikbare statistische informatie die redelijkerwijze vereist kan zijn voor het evalueren van de exploitatie van de luchtdiensten.
 
@@ -388,7 +410,7 @@ voor zover i) alle deelnemers aan dergelijke samenwerkingsvormen over de passend
 
 ## TITEL II. SAMENWERKING OP REGELGEVINGSGEBIED
 
-#### Artikel 13. Veiligheid van de luchtvaart
+##### Artikel 13. Veiligheid van de luchtvaart
 
 1. De partijen zien erop toe dat minstens de in bijlage III, deel A, gespecificeerde normen in hun wetgeving zijn opgenomen, onder de hierna vermelde voorwaarden.
 
@@ -408,7 +430,7 @@ voor zover i) alle deelnemers aan dergelijke samenwerkingsvormen over de passend
 
 6. Wanneer uit hoofde van lid 4 genomen maatregelen niet worden stopgezet, ook al zijn er geen redenen meer om dergelijke maatregelen te handhaven, kan elke partij de zaak voorleggen aan het Gemengd Comité.
 
-#### Artikel 14. Beveiliging van de luchtvaart
+##### Artikel 14. Beveiliging van de luchtvaart
 
 1. De partijen zien erop toe dat minstens de in bijlage III, deel B, van deze Overeenkomst gespecificeerde normen in hun wetgeving zijn opgenomen, onder de hierna vermelde voorwaarden.
 
@@ -434,7 +456,7 @@ voor zover i) alle deelnemers aan dergelijke samenwerkingsvormen over de passend
 
 12. Alle overeenkomstig lid 10 van dit artikel genomen maatregelen worden stopgezet zodra de andere partij de bepalingen van dit artikel naleeft.
 
-#### Artikel 15. Luchtverkeersbeheer
+##### Artikel 15. Luchtverkeersbeheer
 
 1. De partijen zien erop toe dat de in bijlage III, deel C, van deze Overeenkomst gespecificeerde normen in hun wetgeving zijn opgenomen, onder de hierna vermelde voorwaarden.
 
@@ -446,7 +468,7 @@ voor zover i) alle deelnemers aan dergelijke samenwerkingsvormen over de passend
 
 - b. betrekt de Europese Unie Jordanië bij relevante en uit het gemeenschappelijk Europees luchtruim voortvloeiende operationele initiatieven op het gebied van luchtvaartnavigatiediensten, luchtruim en interoperabiliteit, met name door Jordanië in een vroeg stadium te betrekken bij de inspanningen om functionele luchtruimblokken vast te stellen of door passende coördinatie inzake SESAR.
 
-#### Artikel 16. Milieu
+##### Artikel 16. Milieu
 
 1. De partijen erkennen het belang van milieubescherming bij de ontwikkeling en tenuitvoerlegging van internationaal luchtvaartbeleid.
 
@@ -456,21 +478,21 @@ voor zover i) alle deelnemers aan dergelijke samenwerkingsvormen over de passend
 
 4. De partijen zien erop toe dat de in bijlage III, deel D, van deze Overeenkomst gespecificeerde normen in hun wetgeving zijn opgenomen.
 
-#### Artikel 17. Consumentenbescherming
+##### Artikel 17. Consumentenbescherming
 
 De partijen zien erop toe dat de in bijlage III, deel E, van deze Overeenkomst gespecificeerde normen inzake luchtvervoer in hun wetgeving zijn opgenomen.
 
-#### Artikel 18. Geautomatiseerde boekingssystemen
+##### Artikel 18. Geautomatiseerde boekingssystemen
 
 De partijen zien erop toe dat de in bijlage III, deel F, van deze Overeenkomst gespecificeerde normen in hun wetgeving zijn opgenomen.
 
-#### Artikel 19. Sociale aspecten
+##### Artikel 19. Sociale aspecten
 
 De partijen zien erop toe dat de in bijlage III, deel G, van deze Overeenkomst gespecificeerde normen inzake luchtvervoer in hun wetgeving zijn opgenomen.
 
 ## TITEL III. INSTITUTIONELE BEPALINGEN
 
-#### Artikel 20. Interpretatie en handhaving
+##### Artikel 20. Interpretatie en handhaving
 
 1. De partijen treffen alle passende algemene of bijzondere maatregelen om de naleving van de uit deze Overeenkomst voortvloeiende verplichtingen te garanderen en onthouden zich van maatregelen die de verwezenlijking van de doelstellingen van deze Overeenkomst in gevaar kunnen brengen.
 
@@ -480,7 +502,7 @@ De partijen zien erop toe dat de in bijlage III, deel G, van deze Overeenkomst g
 
 4. Als de partijen, overeenkomstig de bevoegdheden die hen krachtens deze Overeenkomst zijn verleend, actie ondernemen met betrekking tot kwesties die van belang zijn voor de andere partij en die betrekking hebben op de autoriteiten of ondernemingen van de andere partij, worden de bevoegde autoriteiten van de andere partij daarvan volledig in kennis gesteld en krijgen zij de gelegenheid opmerkingen te maken alvorens een definitieve beslissing wordt genomen.
 
-#### Artikel 21. Gemengd Comité
+##### Artikel 21. Gemengd Comité
 
 1. Hierbij wordt een comité van vertegenwoordigers van de partijen (hierna het Gemengd Comité genoemd) opgericht, dat verantwoordelijk is voor het beheer van deze Overeenkomst en toeziet op de correcte uitvoering ervan. Om dit doel te verwezenlijken, doet het aanbevelingen en neemt het beslissingen in de gevallen waarin deze Overeenkomst voorziet.
 
@@ -514,7 +536,7 @@ De partijen zien erop toe dat de in bijlage III, deel G, van deze Overeenkomst g
 
 12. De partijen hebben dezelfde doelstelling: zoveel mogelijk voordelen voor de consumenten, luchtvaartmaatschappijen, werknemers en gemeenschappen creëren door deze Overeenkomst uit te breiden naar derde landen. Het Gemengd Comité zal een voorstel opstellen met betrekking tot de voorwaarden en procedures, inclusief eventuele wijzigingen van deze Overeenkomst, die nodig zijn om derde landen te laten toetreden tot deze Overeenkomst.
 
-#### Artikel 22. Regeling van geschillen en arbitrage
+##### Artikel 22. Regeling van geschillen en arbitrage
 
 1. Elke partij mag de bij de Associatieovereenkomst opgerichte Associatieraad verzoeken alle geschillen met betrekking tot de toepassing of interpretatie van deze Overeenkomst die niet overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0005053&titeldeel=III&artikel=21&z=2020-08-02&g=2020-08-02) van deze Overeenkomst (Gemengd Comité) zijn opgelost, te onderzoeken.
 
@@ -538,7 +560,7 @@ De partijen zien erop toe dat de in bijlage III, deel G, van deze Overeenkomst g
 
 7. Als een van de partijen niet binnen de dertig (30) dagen na de kennisgeving van de beslissing van het scheidsgerecht aan deze beslissing voldoet, kan de andere partij de rechten of privileges die overeenkomstig deze Overeenkomst zijn toegekend aan de in gebreke blijvende partij beperken, opschorten of intrekken tot de partij de beslissing naleeft.
 
-#### Artikel 23. Vrijwaringsmaatregelen
+##### Artikel 23. Vrijwaringsmaatregelen
 
 1. De partijen treffen alle algemene en bijzondere maatregelen die vereist zijn om aan hun verplichtingen krachtens de Overeenkomst te voldoen. Zij zorgen ervoor dat de in de Overeenkomst vastgelegde doelstellingen worden bereikt.
 
@@ -554,11 +576,11 @@ De partijen zien erop toe dat de in bijlage III, deel G, van deze Overeenkomst g
 
 7. De overeenkomstig dit artikel genomen maatregelen worden opgeschort zodra de in gebreke blijvende partij voldoet aan de bepalingen van deze Overeenkomst.
 
-#### Artikel 24. Geografische uitbreiding van de overeenkomst
+##### Artikel 24. Geografische uitbreiding van de overeenkomst
 
 De partijen verbinden zich tot een permanente dialoog om de samenhang tussen deze Overeenkomst en het proces van Barcelona te garanderen en streven, als einddoel, naar een gemeenschappelijke Euromediterrane luchtvaartruimte. Daarom wordt, overeenkomstig [artikel 21, lid 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005053&titeldeel=III&artikel=21&z=2020-08-02&g=2020-08-02) (Gemengd Comité), in het Gemengd Comité de mogelijkheid onderzocht om wederzijds akkoord te gaan met wijzigingen teneinde rekening te houden met soortgelijke Euromediterrane luchtvaartovereenkomsten.
 
-#### Artikel 25. Verhouding ten aanzien van andere overeenkomsten
+##### Artikel 25. Verhouding ten aanzien van andere overeenkomsten
 
 1. De bepalingen van deze Overeenkomst hebben voorrang op de relevante bepalingen van bestaande bilaterale overeenkomsten tussen Jordanië en de lidstaten. Het is echter toegestaan bestaande verkeersrechten die voortvloeien uit deze bilaterale overeenkomsten en die niet onder de onderhavige Overeenkomst vallen, verder te blijven uitoefenen voor zover dit geen aanleiding geeft tot discriminatie tussen luchtvaartmaatschappijen uit de Europese Unie op basis van nationaliteit.
 
@@ -568,7 +590,7 @@ De partijen verbinden zich tot een permanente dialoog om de samenhang tussen dez
 
 4. Deze Overeenkomst laat beslissingen van de twee partijen om toekomstige aanbevelingen van de ICAO toe te passen, onverlet. De partijen mogen deze Overeenkomst of delen ervan niet inroepen als basis om zich binnen de ICAO te verzetten tegen alternatieve beleidsmaatregelen over kwesties die onder deze Overeenkomst vallen.
 
-#### Artikel 26. Wijzigingen
+##### Artikel 26. Wijzigingen
 
 1. Als een van de partijen de bepalingen van deze Overeenkomst wenst te wijzigen, moet ze het Gemengd Comité daarvan in kennis stellen. Wijzigingen van deze Overeenkomst worden van kracht na voltooiing van de respectieve interne procedures van elke partij.
 
@@ -588,7 +610,7 @@ De partijen verbinden zich tot een permanente dialoog om de samenhang tussen dez
 
 - c. andere maatregelen aanbevelen, die binnen een redelijke termijn moeten worden vastgesteld, teneinde de goede werking van deze Overeenkomst te waarborgen.
 
-#### Artikel 27. Beëindiging
+##### Artikel 27. Beëindiging
 
 1. Deze Overeenkomst wordt voor onbeperkte duur gesloten.
 
@@ -598,11 +620,11 @@ De partijen verbinden zich tot een permanente dialoog om de samenhang tussen dez
 
 - b. de andere partij dan die welke de kennisgeving van de beëindiging heeft gedaan, vraagt om een langere termijn van uiterlijk 18 maanden teneinde de onderhandelingen over de daaropvolgende regeling met betrekking tot luchtdiensten tussen het grondgebied van de partijen succesvol te kunnen afronden.
 
-#### Artikel 28. Registratie bij de Internationale Burgerluchtvaartorganisatie en het secretariaat van de Verenigde Naties
+##### Artikel 28. Registratie bij de Internationale Burgerluchtvaartorganisatie en het secretariaat van de Verenigde Naties
 
 Deze Overeenkomst en alle wijzigingen daarvan worden geregistreerd bij de ICAO en het secretariaat van de Verenigde Naties.
 
-#### Artikel 29. Inwerkingtreding
+##### Artikel 29. Inwerkingtreding
 
 1. Deze Overeenkomst treedt in werking één maand na de datum van de laatste nota in een uitwisseling van diplomatieke nota's tussen de partijen waarin wordt bevestigd dat alle voor de inwerkingtreding van deze Overeenkomst noodzakelijke procedures zijn voltooid. Met het oog op deze uitwisseling bezorgt het Hasjemitische Koninkrijk Jordanië zijn tot de Europese Unie en haar lidstaten gerichte diplomatieke nota aan het Secretariaat-generaal van de Raad van de Europese Unie, en bezorgt het Secretariaat-generaal van de Raad van de Europese Unie de diplomatieke nota van de Europese Unie en haar lidstaten aan het Hasjemitische Koninkrijk Jordanië. De diplomatieke nota van de Europese Unie en haar lidstaten bevat mededelingen van elke lidstaat waarin wordt bevestigd dat de voor inwerkingtreding van deze Overeenkomst vereiste procedures zijn voltooid.
 

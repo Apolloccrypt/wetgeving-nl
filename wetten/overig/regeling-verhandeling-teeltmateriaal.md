@@ -1,13 +1,39 @@
 ---
-title: "Regeling verhandeling teeltmateriaal"
+title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 16 januari 2006, nr. TRCJZ/2006/98, houdende regels met betrekking tot het in de handel brengen van teeltmateriaal (Regeling verhandeling teeltmateriaal)"
 identifier: "BWBR0019437"
-categorie: "Overig"
-publicatiedatum: 2024-12-05
-laatste_update: 2024-12-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019437"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-12-05"
+last_updated: "2024-12-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019437"
+soort: "ministeriele-regeling"
+stam_id: "7908393"
+version_id: "12779672"
+internal_id: "C17270311"
+label_id: "7897454"
+dtd_version: "2.0"
+original_entry_into_force: "2006-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019437/2024-12-05/0"
+intitule_bron: "Stcrt.2006-15"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-01-16"
+intitule_published: "2006-01-20"
+intitule_in_force: "2006-01-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-15"
+original_signed_date: "2006-01-16"
+original_published_date: "2006-01-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-15-p16-SC73475"
+entry_into_force_date: "2006-02-01"
+jci_1_3: "jci1.3:c:BWBR0019437&z=2024-12-05&g=2024-12-05"
+jci_1_0: "1.0:c:BWBR0019437&g=2024-12-05"
+citeertitel_status: "officieel"
+short_title: "Regeling verhandeling teeltmateriaal"
+signed_date: "2006-01-16"
+entry_into_force: "2006-02-01"
 ---
-
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 16 januari 2006, nr. TRCJZ/2006/98, houdende regels met betrekking tot het in de handel brengen van teeltmateriaal (Regeling verhandeling teeltmateriaal)
 
 Gelet op de Europese richtlijnen met betrekking tot het in de handel brengen van teeltmateriaal van verschillende soorten gewassen, de [artikelen 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=21), [39, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=39), en [44 van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=44), alsmede gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=5) en [6 van het Besluit verhandeling teeltmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=6);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop het Besluit verhandeling teeltmateriaal
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -112,7 +138,7 @@ Treedt in werking op het tijdstip waarop het Besluit verhandeling teeltmateriaal
 
 #### § 1. Registratie van leveranciers van teeltmateriaal van landbouwgewassen, tuinbouwgewassen en bosbouwgewassen
 
-#### Artikel 2
+##### Artikel 2
 
 Als gewassen, bedoeld in [artikel 42 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=42), worden aangewezen:
 
@@ -122,11 +148,11 @@ Als gewassen, bedoeld in [artikel 42 van de wet](https://wetten.overheid.nl/jci1
 
 - c. bosbouwgewassen.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor leveranciers van groenteplanten en leveranciers van teeltmateriaal van fruitgewassen, siergewassen en bosbouwgewassen zijn de eisen inzake registratie, bedoeld in [artikel 43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=43), vastgelegd in respectievelijk de [artikelen 81](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=3&artikel=81&z=2024-12-05&g=2024-12-05), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=4&artikel=85&z=2024-12-05&g=2024-12-05), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=5&artikel=92&z=2024-12-05&g=2024-12-05) en [97](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=6&artikel=97&z=2024-12-05&g=2024-12-05).
 
-#### Artikel 4
+##### Artikel 4
 
 De aanvraag tot een registratie vindt plaats door inzending van een volledig ingevuld, door de keuringsinstelling te verstrekken aanvraagformulier met de gegevens, bedoeld in [artikel 8, eerste lid, onderdelen a en b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=8&z=2024-12-05&g=2024-12-05), alsmede de handelingen waarvoor de leverancier geregistreerd of erkend wil worden, dat vergezeld gaat van de volgende bescheiden:
 
@@ -134,23 +160,23 @@ De aanvraag tot een registratie vindt plaats door inzending van een volledig ing
 
 - b. een bewijs van inschrijving in het handelsregister, dat door de bevoegde instantie niet langer dan twee maanden vóór de datum van aanvraag tot registratie is afgegeven.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een registratie is geldig voor de duur van één jaar.
 
 2. Behoudens [artikel 45 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=45), wordt een registratie stilzwijgend verlengd.
 
-#### Artikel 6
+##### Artikel 6
 
 Een registratie kan op verzoek van de leverancier beëindigd worden. Het verzoek tot beëindiging van de registratie wordt schriftelijk bij de keuringsinstelling ingediend, onder vermelding van de datum en de reden van de beëindiging van de registratie.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De keuringsinstelling beheert een register waarin de leverancier wordt ingeschreven.
 
 2. Op aanvraag en tegen betaling van een door de keuringsinstelling op grond van [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=21) te bepalen vergoeding kunnen gegevens uit het register worden verstrekt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het register bevat in ieder geval de volgende gegevens:
 
@@ -168,7 +194,7 @@ Een registratie kan op verzoek van de leverancier beëindigd worden. Het verzoek
 
 #### § 2. Erkenning van leveranciers van teeltmateriaal van groenvoedergewassen, zaaigranen, bieten, oliehoudende planten en vezelgewassen en leveranciers van groentezaden
 
-#### Artikel 9
+##### Artikel 9
 
 1. NAK kan leveranciers van teeltmateriaal van groenvoedergewassen erkennen voor het verrichten van keuringen onder de voorwaarden, genoemd in artikel 2, derde lid, onderdeel A, van [richtlijn (EEG) 66/401](31966L0401).
 
@@ -176,7 +202,7 @@ Een registratie kan op verzoek van de leverancier beëindigd worden. Het verzoek
 
 3. NAK kan een laboratorium erkennen voor het verrichten van analyse van teeltmateriaal van groenvoedergewassen onder de voorwaarden, genoemd in artikel 2, derde lid, onderdeel B, van [richtlijn (EEG) 66/401](31966L0401).
 
-#### Artikel 10
+##### Artikel 10
 
 1. NAK kan leveranciers van teeltmateriaal van zaaigranen erkennen voor het verrichten van keuringen onder de voorwaarden, genoemd in artikel 2, derde lid, onderdeel A, van [richtlijn (EEG) 66/402](31966L0402).
 
@@ -184,7 +210,7 @@ Een registratie kan op verzoek van de leverancier beëindigd worden. Het verzoek
 
 3. NAK kan een laboratorium erkennen voor het verrichten van analyse van teeltmateriaal van zaaigranen onder de voorwaarden, genoemd in artikel 2, derde lid, onderdeel B, van [richtlijn (EEG) 66/402](31966L0402).
 
-#### Artikel 11
+##### Artikel 11
 
 1. NAK kan leveranciers van teeltmateriaal van bieten erkennen voor het verrichten van keuringen onder de voorwaarden, genoemd in artikel 2, derde lid, onderdeel A, van [richtlijn (EG) 2002/54](32002L0054).
 
@@ -192,7 +218,7 @@ Een registratie kan op verzoek van de leverancier beëindigd worden. Het verzoek
 
 3. NAK kan een laboratorium erkennen voor het verrichten van analyse van teeltmateriaal van bieten onder de voorwaarden, genoemd in artikel 2, derde lid, onderdeel B, van [richtlijn (EG) 2002/54](32002L0054).
 
-#### Artikel 12
+##### Artikel 12
 
 1. NAK kan leveranciers van teeltmateriaal van oliehoudende planten en vezelgewassen erkennen voor het verrichten van keuringen onder de voorwaarden, genoemd in artikel 2, vijfde lid, onderdeel A, van [richtlijn (EG) 2002/57](32002L0057).
 
@@ -200,7 +226,7 @@ Een registratie kan op verzoek van de leverancier beëindigd worden. Het verzoek
 
 3. NAK kan een laboratorium erkennen voor het verrichten van analyse van teeltmateriaal van oliehoudende planten en vezelgewassen onder de voorwaarden, genoemd in artikel 2, vijfde lid, onderdeel B, van [richtlijn (EG) 2002/57](32002L0057).
 
-#### Artikel 13
+##### Artikel 13
 
 1. Naktuinbouw kan leveranciers van groentezaden erkennen voor het verrichten van keuringen onder de voorwaarden, genoemd in artikel 2, vierde lid, onderdeel A, van [richtlijn (EG) 2002/55](32002L0055).
 
@@ -208,13 +234,13 @@ Een registratie kan op verzoek van de leverancier beëindigd worden. Het verzoek
 
 3. Naktuinbouw kan een laboratorium erkennen voor het verrichten van analyse van groentezaden onder de voorwaarden, genoemd in artikel 2, vierde lid, onderdeel B, van [richtlijn (EG) 2002/55](32002L0055).
 
-#### Artikel 14
+##### Artikel 14
 
 1. De erkenning kan op verzoek van de leverancier beëindigd worden. Het verzoek tot beëindiging van de erkenning wordt schriftelijk bij de keuringsinstelling ingediend, onder vermelding van de datum en de reden van de beëindiging van de erkenning.
 
 2. Met uitzondering van leveranciers van groentezaden, wordt het in het eerste lid bedoelde verzoek voor 1 april voorafgaand aan het kalenderjaar dat de leverancier de erkenning wenst te beëindigen bij NAK ingediend.
 
-#### Artikel 15
+##### Artikel 15
 
 De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-12-05&g=2024-12-05), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=5&z=2024-12-05&g=2024-12-05), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2024-12-05&g=2024-12-05) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=8&z=2024-12-05&g=2024-12-05) zijn van overeenkomstige toepassing.
 
@@ -222,45 +248,45 @@ De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&par
 
 #### § 1. Landbouwgewassen
 
-#### Artikel 16
+##### Artikel 16
 
 Bij het onderzoek, de keuring en de controle van teeltmateriaal van groenvoedergewassen neemt NAK de artikelen 3, vierde lid, 7, 10 quater, 14, eerste lid, 15 en 19, eerste lid, van [richtlijn (EEG) 66/401](31966L0401) en artikel 4 van beschikking (EG) 2004/371 in acht, alsmede artikel 17 van [richtlijn (EEG) 66/401](31966L0401) en de op dat artikel gebaseerde uitvoeringsbesluiten.
 
-#### Artikel 17
+##### Artikel 17
 
 Bij het onderzoek, de keuring en de controle van teeltmateriaal van zaaigranen neemt NAK de artikelen 3, derde lid, 7, 14, eerste lid, 15 en 19, eerste lid, van [richtlijn (EEG) 66/402](31966L0402) in acht, alsmede artikel 17 van deze richtlijn en de op dat artikel gebaseerde uitvoeringsbesluiten.
 
-#### Artikel 18
+##### Artikel 18
 
 Bij het onderzoek, de keuring en de controle van teeltmateriaal van bieten neemt NAK de artikelen 3, tweede lid, 9, 15, 20, 22 en 25, eerste lid, van [richtlijn (EG) 2002/54](32002L0054) in acht, alsmede artikel 24 van deze richtlijn en de op dat artikel gebaseerde uitvoeringsbesluiten.
 
-#### Artikel 19
+##### Artikel 19
 
 Bij het onderzoek, de keuring en de controle van pootaardappelen neemt NAK de artikelen 7, 17 en 23 van [richtlijn (EG) 2002/56](32002L0056) in acht, alsmede artikel 22 van deze richtlijn en de op dat artikel gebaseerde uitvoeringsbesluiten.
 
-#### Artikel 20
+##### Artikel 20
 
 Bij het onderzoek, de keuring en de controle van teeltmateriaal van oliehoudende planten en vezelgewassen neemt NAK de artikelen 3, vierde lid, 9, 17, 19 en 22, eerste lid, van [richtlijn (EG) 2002/57](32002L0057) in acht, alsmede artikel 21 van deze richtlijn en de op dat artikel gebaseerde uitvoeringsbesluiten.
 
 #### § 2. Tuinbouwgewassen en bosbouwgewassen
 
-#### Artikel 21
+##### Artikel 21
 
 Bij het onderzoek, de keuring en de controle van groenteplanten neemt Naktuinbouw de artikelen 5, 6, 10, derde lid, 17, 19 en 20, eerste lid van richtlijn (EG) 2008/72 en de artikelen 2, 3, 4 en 5 van [richtlijn (EEG) 93/62](31993L0062) in acht, alsmede artikel 13 van [richtlijn (EG) 2008/72](32008L0072) en de op dat artikel gebaseerde maatregelen.
 
-#### Artikel 22
+##### Artikel 22
 
 Bij onderzoek, de keuring en de controle van teeltmateriaal van fruitgewassen neemt Naktuinbouw het bepaalde bij of krachtens de artikelen 5, 6, 12, 13, 14, eerste lid, en 16 van richtlijn (EU) 2008/90 en de artikelen 5, vierde lid, 7, 9, 10, 11, 12, 13, vierde lid, 14, tweede lid, 16, tweede en derde lid, 17, 21, derde lid, 22, 25, tweede lid, en 30 van richtlijn (EU) 2014/98 in acht, alsmede artikel 11 van [richtlijn (EU) 2008/90](32008L0090) en de op dat artikel gebaseerde maatregelen.
 
-#### Artikel 23
+##### Artikel 23
 
 Bij het onderzoek, de keuring en de controle van teeltmateriaal van siergewassen neemt Naktuinbouw de artikelen 12, 13 en 14 van [richtlijn (EG) 98/56](31998L0056) en de artikelen 3 en 4 en de bijlage van [richtlijn 93/49/EEG](31993L0049) in acht alsmede artikel 10 van [richtlijn 98/56/EG](31998L0056) en de op dat artikel gebaseerde voorschriften.
 
-#### Artikel 24
+##### Artikel 24
 
 Bij het onderzoek, de keuring en de controle van teeltmateriaal van bosbouwgewassen neemt Naktuinbouw de artikelen 16, eerste en vijfde lid, van [richtlijn (EG) 99/105](31999L0105) in acht alsmede artikel 18 van bedoelde richtlijn en de op dat artikel gebaseerde uitvoeringsbepalingen.
 
-#### Artikel 25
+##### Artikel 25
 
 Bij het onderzoek, de keuring en de controle van groentezaden neemt Naktuinbouw de artikelen 20, vierde lid, 25, 34, 35, 36, 39, eerste lid, 40 en 41 van [richtlijn (EG) 2002/55](32002L0055) in acht, alsmede artikel 38 van bedoelde richtlijn en de op dat artikel gebaseerde regels.
 
@@ -268,7 +294,7 @@ Bij het onderzoek, de keuring en de controle van groentezaden neemt Naktuinbouw 
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 26
+##### Artikel 26
 
 1. Teeltmateriaal van een landbouwgewas wordt slechts in de handel gebracht indien het afkomstig is van een ras dat is toegelaten en is ingeschreven in het rassenregister, dan wel is opgenomen op een vanwege de Commissie van de Europese Gemeenschappen vastgestelde gemeenschappelijke lijst van rassen, of is toegelaten in een van de andere lidstaten van de Europese Unie overeenkomstig [richtlijn (EG) 2002/53](32002L0053).
 
@@ -276,13 +302,13 @@ Bij het onderzoek, de keuring en de controle van groentezaden neemt Naktuinbouw 
 
 3. Voor een ras dat uitsluitend dient voor gebruik als kruisingspartner, zijn het eerste en tweede lid alleen van toepassing voor zover het teeltmateriaal onder de naam van het desbetreffende ras in de handel worden gebracht.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Teeltmateriaal wordt slechts in de handel gebracht in voldoende homogene partijen en in verpakkingen die voldoen aan de voorwaarden, genoemd in de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=2&artikel=38&z=2024-12-05&g=2024-12-05), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=3&artikel=44&z=2024-12-05&g=2024-12-05), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=4&artikel=49&z=2024-12-05&g=2024-12-05), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=5&artikel=55&z=2024-12-05&g=2024-12-05), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=6&artikel=68&z=2024-12-05&g=2024-12-05) en [69g](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=7&artikel=69g&z=2024-12-05&g=2024-12-05).
 
 2. Verpakkingen van teeltmateriaal worden gesloten door NAK of door de leverancier onder toezicht van NAK.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Verpakkingen van teeltmateriaal worden zodanig gesloten dat zij niet kunnen worden geopend zonder dat het sluitingssysteem wordt beschadigd of het officiële etiket of de verpakking sporen van manipulatie vertoont.
 
@@ -292,15 +318,15 @@ Bij het onderzoek, de keuring en de controle van groentezaden neemt Naktuinbouw 
 
 4. Indien een verpakking van teeltmateriaal opnieuw gesloten wordt, wordt hiervan op het etiket de datum van de hernieuwde sluiting vermeld, alsmede de naam van degene die de verpakking heeft gesloten.
 
-#### Artikel 29
+##### Artikel 29
 
 In geval van teeltmateriaal van een ras dat genetisch is gemodificeerd, wordt op elk etiket of document dat krachtens het bepaalde in deze regeling op de partij teeltmateriaal is aangebracht of deze partij vergezelt, duidelijk vermeld dat het ras genetisch is gemodificeerd.
 
-#### Artikel 30
+##### Artikel 30
 
 In geval van een chemische behandeling van het teeltmateriaal, wordt hiervan op het officiële etiket dan wel op een etiket van de leverancier alsmede op of in de verpakking melding gemaakt.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Het verzoek tot het in de handel brengen van teeltmateriaal van landbouwgewassen voor beproevingsdoeleinden, als bedoeld in [artikel 39, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=39), wordt ingediend bij NAK door de leverancier die de aanvraag tot inschrijving in het rassenregister heeft ingediend bij de Raad.
 
@@ -332,7 +358,7 @@ In geval van een chemische behandeling van het teeltmateriaal, wordt hiervan op 
 
 11. Het etiket van de verpakking van teeltmateriaal voor beproevingsdoeleinden voldoet aan de vereisten, genoemd in de artikelen 9 en 10 van beschikking (EG) 2004/842.
 
-#### Artikel 32
+##### Artikel 32
 
 1. In het geval dat meer dan 2 kilogram teeltmateriaal vanuit een derde land in de handel wordt gebracht, wordt NAK door de leverancier van de volgende gegevens in kennis gesteld:
 
@@ -354,13 +380,13 @@ In geval van een chemische behandeling van het teeltmateriaal, wordt hiervan op 
 
 3. Het in het tweede lid bedoelde document voldoet aan de vereisten genoemd in artikel 1 van [richtlijn (EG) 2006/47](32006L0047).
 
-#### Artikel 33
+##### Artikel 33
 
 Zaaizaden zijn nagenoeg ziektevrij en vrij van schadelijke insecten.
 
 #### § 2. Groenvoedergewassen
 
-#### Artikel 34
+##### Artikel 34
 
 1. Prebasiszaad voldoet aan de vereisten, genoemd in artikel 14 bis, onderdelen b en c, van [richtlijn (EEG) 66/401](31966L0401), en is nagenoeg vrij van rasonzuiverheden.
 
@@ -376,7 +402,7 @@ Zaaizaden zijn nagenoeg ziektevrij en vrij van schadelijke insecten.
 
 7. Handelszaad voldoet aan de vereisten, genoemd in artikel 2, eerste lid, onderdeel D, van [richtlijn (EEG) 66/401](31966L0401).
 
-#### Artikel 35
+##### Artikel 35
 
 1. Teeltmateriaal van groenvoedergewassen wordt slechts in de handel gebracht indien het door NAK is goedgekeurd als prebasiszaad, basiszaad of gecertificeerd zaad.
 
@@ -398,15 +424,15 @@ Zaaizaden zijn nagenoeg ziektevrij en vrij van schadelijke insecten.
 
 3. In afwijking van het eerste lid mag niet-bewerkt teeltmateriaal met het oog op bewerking in de handel worden gebracht, voor zover de identiteit van dit teeltmateriaal wordt gewaarborgd.
 
-#### Artikel 36
+##### Artikel 36
 
 Teeltmateriaal van groenvoedergewassen mag als mengsel van verschillende soorten in de handel worden gebracht onder de voorwaarden, genoemd in artikel 13 van [richtlijn (EEG) 66/401](31966L0401) en de artikelen 2, 3 en 5 van beschikking (EG) 2004/371.
 
-#### Artikel 37
+##### Artikel 37
 
 Het maximumvochtgehalte van teeltmateriaal van peulvruchten is 19 procent.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Verpakkingen van teeltmateriaal van groenvoedergewassen, met uitzondering van kleine verpakkingen van gecertificeerd zaad en handelszaad, voldoen aan de vereisten, genoemd in artikel 10 van [richtlijn (EEG) 66/401](31966L0401).
 
@@ -420,7 +446,7 @@ Het maximumvochtgehalte van teeltmateriaal van peulvruchten is 19 procent.
 
 6. [Artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=1&artikel=27&z=2024-12-05&g=2024-12-05), is niet van toepassing op verpakkingen van mengsels van teeltmateriaal van groenvoedergewassen die niet zijn bestemd voor voederdoeleinden, als bedoeld in artikel 2, eerste lid, onderdeel F, van [richtlijn (EEG) 66/401](31966L0401). De verpakkingen worden gesloten met een etiket van de leverancier.
 
-#### Artikel 39
+##### Artikel 39
 
 1. NAK kan onder de voorwaarden, genoemd in artikel 4, onderdeel a, van [richtlijn (EEG) 66/401](31966L0401) basiszaad, dat niet voldoet aan de vereisten, genoemd in bijlage II van [richtlijn (EEG) 66/401](31966L0401) ten aanzien van de kiemkracht, goedkeuren.
 
@@ -428,7 +454,7 @@ Het maximumvochtgehalte van teeltmateriaal van peulvruchten is 19 procent.
 
 #### § 3. Zaaigranen
 
-#### Artikel 40
+##### Artikel 40
 
 1. Prebasiszaad voldoet aan de vereisten, genoemd in artikel 14 bis, onderdelen b en c, van [richtlijn (EEG) 66/402](31966L0402), en is nagenoeg vrij van rasonzuiverheden.
 
@@ -442,7 +468,7 @@ Het maximumvochtgehalte van teeltmateriaal van peulvruchten is 19 procent.
 
 6. Basiszaad van maïs van enkele hybriden voldoet aan de vereisten, genoemd in artikel 2, eerste lid, onderdeel D, onder 3, van [richtlijn (EEG) 66/402](31966L0402).
 
-#### Artikel 41
+##### Artikel 41
 
 1. Gecertificeerd zaad voldoet aan de vereisten, genoemd in artikel 2, eerste lid, onderdeel E, van [richtlijn (EEG) 66/402](31966L0402).
 
@@ -450,23 +476,23 @@ Het maximumvochtgehalte van teeltmateriaal van peulvruchten is 19 procent.
 
 3. Gecertificeerd zaad van de tweede vermeerdering voldoet aan de vereisten, genoemd in artikel 2, eerste lid, onderdeel G, van [richtlijn (EEG) 66/402](31966L0402).
 
-#### Artikel 42
+##### Artikel 42
 
 1. Teeltmateriaal van zaaigranen wordt slechts in de handel gebracht indien het door NAK is goedgekeurd als prebasiszaad, basiszaad, gecertificeerd zaad, gecertificeerd zaad van de eerste generatie of gecertificeerd zaad van de tweede generatie.
 
 2. In afwijking van het eerste lid mag niet-bewerkt teeltmateriaal met het oog op bewerking in de handel worden gebracht, voor zover de identiteit van dit teeltmateriaal wordt gewaarborgd.
 
-#### Artikel 43
+##### Artikel 43
 
 Teeltmateriaal van zaaigranen mag als mengsel van verschillende soorten in de handel worden gebracht onder de voorwaarden, genoemd in artikel 13 van [richtlijn (EEG) 66/402](31966L0402).
 
-#### Artikel 44
+##### Artikel 44
 
 1. Verpakkingen van zaaigranen voldoen aan de vereisten, genoemd in artikel 10 van [richtlijn (EEG) 66/402](31966L0402).
 
 2. NAK kan onder de voorwaarden, genoemd in artikel 10 bis van [richtlijn (EEG) 66/402](31966L0402) de voorschriften inzake het sluitingssysteem en de etikettering van de verpakking vereenvoudigen voor de verkoop van gecertificeerd zaad in bulk aan de eindverbruiker.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Het maximumvochtgehalte van teeltmateriaal van wintergranen is 17,5 procent.
 
@@ -474,7 +500,7 @@ Teeltmateriaal van zaaigranen mag als mengsel van verschillende soorten in de ha
 
 3. Het maximumvochtgehalte van teeltmateriaal van maïs is 15 procent.
 
-#### Artikel 46
+##### Artikel 46
 
 1. NAK kan onder de voorwaarden, genoemd in artikel 4, onderdeel a, van [richtlijn (EEG) 66/401](31966L0401) basiszaad, dat niet voldoet aan de vereisten, genoemd in bijlage II van [richtlijn (EEG) 66/401](31966L0401) ten aanzien van de kiemkracht, goedkeuren.
 
@@ -482,7 +508,7 @@ Teeltmateriaal van zaaigranen mag als mengsel van verschillende soorten in de ha
 
 #### § 4. Bieten
 
-#### Artikel 47
+##### Artikel 47
 
 1. Prebasiszaad voldoet aan de vereisten, genoemd in artikel 21, onderdelen b en c, van [richtlijn (EG) 2002/54](32002L0054), en is nagenoeg vrij van rasonzuiverheden.
 
@@ -490,19 +516,19 @@ Teeltmateriaal van zaaigranen mag als mengsel van verschillende soorten in de ha
 
 3. Gecertificeerd zaad voldoet aan de vereisten, genoemd in artikel 2, eerste lid, onderdeel d, van [richtlijn (EG) 2002/54](32002L0054).
 
-#### Artikel 48
+##### Artikel 48
 
 1. Teeltmateriaal van bieten wordt slechts in de handel gebracht indien het door NAK is goedgekeurd als prebasiszaad, basiszaad of gecertificeerd zaad.
 
 2. In afwijking van het eerste lid mag niet-bewerkt teeltmateriaal met het oog op bewerking in de handel worden gebracht, voor zover de identiteit van dit teeltmateriaal wordt gewaarborgd.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Verpakkingen van teeltmateriaal van bieten, met uitzondering van kleine verpakkingen van gecertificeerd zaad, voldoen aan de vereisten, genoemd in artikel 12 van [richtlijn (EG) 2002/54](32002L0054).
 
 2. Kleine verpakkingen van gecertificeerd zaad van bieten voldoen aan de vereisten, genoemd in de artikelen 2, eerste lid, onderdeel h, en 13 van [richtlijn (EG) 2002/54](32002L0054).
 
-#### Artikel 50
+##### Artikel 50
 
 1. NAK kan onder de voorwaarden, genoemd in artikel 5, onderdeel a, van [richtlijn (EG) 2002/54](32002L0054) basiszaad, dat niet voldoet aan de vereisten, genoemd in bijlage I van [richtlijn (EG) 2002/54](32002L0054) ten aanzien van de kiemkracht, goedkeuren.
 
@@ -510,7 +536,7 @@ Teeltmateriaal van zaaigranen mag als mengsel van verschillende soorten in de ha
 
 #### § 5. Oliehoudende planten en vezelgewassen
 
-#### Artikel 51
+##### Artikel 51
 
 1. Prebasiszaad voldoet aan de vereisten, genoemd in artikel 18, onderdelen b en c, van [richtlijn (EG) 2002/57](32002L0057), en is nagenoeg vrij van rasonzuiverheden.
 
@@ -522,7 +548,7 @@ Teeltmateriaal van zaaigranen mag als mengsel van verschillende soorten in de ha
 
 - b. ‘super-elite’.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Gecertificeerd zaad van raapzaad, sareptamosterd, koolzaad, bruine mosterd, tweehuizige hennep, saffloer, karwij, zonnebloem, blauwmaanzaad en gele mosterd voldoet aan de vereisten, genoemd in artikel 2, eerste lid, onderdeel e, van [richtlijn (EG) 2002/57](32002L0057).
 
@@ -534,7 +560,7 @@ Teeltmateriaal van zaaigranen mag als mengsel van verschillende soorten in de ha
 
 5. Gecertificeerd zaad van de derde vermeerdering van vlas voldoet aan de vereisten van artikel 2, eerste lid, onderdeel i, van [richtlijn (EG) 2002/57](32002L0057).
 
-#### Artikel 53
+##### Artikel 53
 
 1. Teeltmateriaal van oliehoudende planten en vezelgewassen wordt slechts in de handel gebracht indien het door NAK is goedgekeurd als prebasiszaad, basiszaad of gecertificeerd zaad.
 
@@ -542,15 +568,15 @@ Teeltmateriaal van zaaigranen mag als mengsel van verschillende soorten in de ha
 
 3. In afwijking van het eerste lid mag niet-bewerkt teeltmateriaal met het oog op bewerking in de handel worden gebracht, voor zover de identiteit van dit teeltmateriaal wordt gewaarborgd.
 
-#### Artikel 54
+##### Artikel 54
 
 Vervallen
 
-#### Artikel 55
+##### Artikel 55
 
 Verpakkingen van teeltmateriaal van oliehoudende planten en vezelgewassen voldoen aan de vereisten, genoemd in artikel 12 van [richtlijn (EG) 2002/57](32002L0057).
 
-#### Artikel 56
+##### Artikel 56
 
 1. Het maximumvochtgehalte van lijnzaad is 12 procent.
 
@@ -560,7 +586,7 @@ Verpakkingen van teeltmateriaal van oliehoudende planten en vezelgewassen voldoe
 
 4. Het maximumvochtgehalte van karwijzaad is 13 procent.
 
-#### Artikel 57
+##### Artikel 57
 
 1. NAK kan onder de voorwaarden, genoemd in artikel 5, onderdeel a, van [richtlijn (EG) 2002/57](32002L0057) basiszaad, dat niet voldoet aan de vereisten, genoemd in bijlage II van [richtlijn (EG) 2002/57](32002L0057) ten aanzien van de kiemkracht, goedkeuren.
 
@@ -568,7 +594,7 @@ Verpakkingen van teeltmateriaal van oliehoudende planten en vezelgewassen voldoe
 
 #### § 6. Pootaardappelen
 
-#### Artikel 58
+##### Artikel 58
 
 1. Prebasispootgoed voldoet aan de bij of krachtens artikel 18 van richtlijn (EG) 2002/56 gestelde vereisten.
 
@@ -576,7 +602,7 @@ Verpakkingen van teeltmateriaal van oliehoudende planten en vezelgewassen voldoe
 
 3. Gecertificeerd pootgoed voldoet aan de vereisten, genoemd in artikel 2, onderdeel c, van [richtlijn (EG) 2002/56](32002L0056).
 
-#### Artikel 59
+##### Artikel 59
 
 1. Prebasispootgoed wordt in de handel gebracht als de klasse S en is onderverdeeld in de volgende stammen:
 
@@ -596,13 +622,13 @@ Verpakkingen van teeltmateriaal van oliehoudende planten en vezelgewassen voldoe
 
 4. De communautaire klasse, bedoeld in het derde lid, is EU-klasse PBTC of EU-klasse PB. Hiervoor gelden in aanvulling op het eerste lid de minimumvereisten van richtlijn (EU) 2014/21.
 
-#### Artikel 60
+##### Artikel 60
 
 1. Basispootgoed is onderverdeeld in de klassen SE of E.
 
 2. Basispootgoed kan tevens worden gecertificeerd als communautaire klasse. Hiervoor gelden in aanvulling op het eerste lid de minimumvereisten van richtlijn (EU) 2014/20.
 
-#### Artikel 61
+##### Artikel 61
 
 1. Gecertificeerd pootgoed is onderverdeeld in de klassen A of C.
 
@@ -610,21 +636,21 @@ Verpakkingen van teeltmateriaal van oliehoudende planten en vezelgewassen voldoe
 
 3. De communautaire klasse, bedoeld in het tweede lid, is EU-klasse A of EU-klasse B. Hiervoor gelden in aanvulling op het eerste lid de minimumvereisten van richtlijn (EU) 2014/20.
 
-#### Artikel 62
+##### Artikel 62
 
 De indeling in klassen is afhankelijk van het gebruikte uitgangsmateriaal en de door NAK tijdens het onderzoek, de keuring of controle aangetroffen ziekten, afwijkingen, gebreken, beschadigingen, verontreinigingen, mate van raszuiverheid en opslag, zoals vastgelegd in het keuringsreglement, bedoeld in [artikel 20, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=20).
 
-#### Artikel 63
+##### Artikel 63
 
 1. Pootaardappelen worden slechts in de handel gebracht, indien zij door NAK zijn goedgekeurd als prebasispootgoed, basispootgoed of gecertificeerd pootgoed.
 
 2. Pootaardappelen die niet voldoen aan de vereisten van deze regeling, worden ten hoogste twee keer gesorteerd. De niet-verwijderde pootaardappelen worden vervolgens opnieuw door NAK onderzocht.
 
-#### Artikel 64
+##### Artikel 64
 
 Pootaardappelen worden niet in de handel gebracht indien zij zijn behandeld met of zijn aangetast door kiemremmende middelen.
 
-#### Artikel 65
+##### Artikel 65
 
 1. Pootaardappelen worden slechts in de handel gebracht indien de afmeting voldoet aan de vereisten, genoemd in artikel 10, eerste lid, van [richtlijn (EG) 2002/56](32002L0056).
 
@@ -632,7 +658,7 @@ Pootaardappelen worden niet in de handel gebracht indien zij zijn behandeld met 
 
 3. Ten hoogste de helft van het percentage knollen met een kleinere doorsnee of grotere doorsnee, bedoeld in het tweede lid, wijkt maximaal 1 millimeter af van de afmeting, genoemd in artikel 10, eerste lid, van [richtlijn (EG) 2002/56](32002L0056). Het overige deel van het percentage knollen met een kleinere doorsnee of grotere doorsnee, bedoeld in het tweede lid, wijkt maximaal 3 millimeter af van de afmeting, genoemd in artikel 10, eerste lid, van [richtlijn (EG) 2002/56](32002L0056).
 
-#### Artikel 66
+##### Artikel 66
 
 1. Pootaardappelen die met microvermeerdering worden vermeerderd zijn ziektevrij.
 
@@ -640,7 +666,7 @@ Pootaardappelen worden niet in de handel gebracht indien zij zijn behandeld met 
 
 3. [Artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=4&paragraaf=6&artikel=65&z=2024-12-05&g=2024-12-05) is niet van toepassing op pootaardappelen die met microvermeerdering zijn vermeerderd.
 
-#### Artikel 67
+##### Artikel 67
 
 1. Pootaardappelen en andere aardappelen worden in alle productiestadia gescheiden gehouden van andere aardappelen.
 
@@ -648,13 +674,13 @@ Pootaardappelen worden niet in de handel gebracht indien zij zijn behandeld met 
 
 3. Het samenvoegen van partijen pootgoed is toegestaan, onder de voorwaarden dat de partijen van dezelfde leverancier afkomstig zijn en dat de partij een uniform uiterlijk heeft.
 
-#### Artikel 68
+##### Artikel 68
 
 1. Verpakkingen van basispootgoed en gecertificeerd pootgoed voldoen aan de vereisten, genoemd in artikel 13, eerste lid, van [richtlijn (EG) 2002/56](32002L0056).
 
 2. NAK kan op grond van artikel 13, tweede lid, van [richtlijn (EG) 2002/56](32002L0056) voor verpakkingen van kleine hoeveelheden pootaardappelen ten behoeve van de laatste gebruiker, het gebruik toestaan van andere aanduidingen dan de aanduidingen, bedoeld in artikel 13, eerste lid, van [richtlijn (EG) 2002/56](32002L0056).
 
-#### Artikel 69
+##### Artikel 69
 
 1. NAK kan jaarlijks data vaststellen waarop het loof van de aardappel door de leverancier vernietigd wordt.
 
@@ -664,11 +690,11 @@ Pootaardappelen worden niet in de handel gebracht indien zij zijn behandeld met 
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 70
+##### Artikel 70
 
 Het bewijsstuk of kenteken, bedoeld in [artikel 6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=6), wordt aangebracht door Naktuinbouw of de leverancier onder toezicht van Naktuinbouw en met inachtneming van de voorwaarden van deze regeling.
 
-#### Artikel 71
+##### Artikel 71
 
 1. Teeltmateriaal van groentegewassen wordt uitsluitend in de handel gebracht indien het afkomstig is van een ras dat is toegelaten en is ingeschreven in het rassenregister, dan wel is opgenomen op een vanwege de Commissie van de Europese Gemeenschappen vastgestelde gemeenschappelijke lijst van rassen, of is toegelaten in een van de andere lidstaten van de Europese Unie overeenkomstig [richtlijn (EG) 2002/55](32002L0055).
 
@@ -676,7 +702,7 @@ Het bewijsstuk of kenteken, bedoeld in [artikel 6 van het besluit](https://wette
 
 #### § 7. Het in de handel brengen van teeltmateriaal van instandhoudingsrassen van landbouwgewassen
 
-#### Artikel 72
+##### Artikel 72
 
 1. Basiszaad voldoet aan de vereisten, genoemd in artikel 2, eerste lid, onderdeel c, van [richtlijn (EG) 2002/55](32002L0055).
 
@@ -684,19 +710,19 @@ Het bewijsstuk of kenteken, bedoeld in [artikel 6 van het besluit](https://wette
 
 3. Standaardzaad voldoet aan de vereisten, genoemd in artikel 2, eerste lid, onderdeel e, van [richtlijn (EG) 2002/55](32002L0055).
 
-#### Artikel 73
+##### Artikel 73
 
 1. Zaad van cichorei voor de industrie (Cichorium intybus L. (partim)) wordt slechts in de handel gebracht indien het door Naktuinbouw is goedgekeurd als basiszaad of gecertificeerd zaad.
 
 2. Zaad van andere groentegewassen wordt slechts in de handel gebracht indien het door Naktuinbouw is goedgekeurd als basiszaad of gecertificeerd zaad, dan wel standaardzaad is.
 
-#### Artikel 74
+##### Artikel 74
 
 1. Zaad van generaties die aan het basiszaad voorafgaan mag in de handel worden gebracht onder de voorwaarden, genoemd in artikel 35 van [richtlijn (EG) 2002/55](32002L0055).
 
 2. Niet-bewerkt zaad mag in de handel worden gebracht met het oog op bewerking, voor zover de identiteit van dit zaad wordt gewaarborgd.
 
-#### Artikel 75
+##### Artikel 75
 
 1. Basiszaad, gecertificeerd zaad en standaardzaad worden slechts in de handel gebracht in voldoende homogene partijen en in verpakkingen die voldoen aan de vereisten, genoemd in artikel 2, eerste lid, onderdeel g, of 28 van [richtlijn (EG) 2002/55](32002L0055). De verpakking wordt voorzien van een etiket dat voldoet aan de vereisten van bijlage IV, deel A, van [richtlijn (EG) 2002/55](32002L0055).
 
@@ -704,7 +730,7 @@ Het bewijsstuk of kenteken, bedoeld in [artikel 6 van het besluit](https://wette
 
 3. Behoudens het eerste lid, worden verpakkingen van kleine hoeveelheden teeltmateriaal ten behoeve van de laatste gebruiker voorzien van een aanduiding van de gebruiksperiode.
 
-#### Artikel 76
+##### Artikel 76
 
 1. Verpakkingen worden door de leverancier onder toezicht van Naktuinbouw gesloten.
 
@@ -718,15 +744,15 @@ Het bewijsstuk of kenteken, bedoeld in [artikel 6 van het besluit](https://wette
 
 6. Met uitzondering van kleine verpakkingen, worden verpakkingen door de voor het aanbrengen van de etiketten verantwoordelijke persoon van een loodje of een gelijkwaardige sluiting voorzien.
 
-#### Artikel 77
+##### Artikel 77
 
 In geval van groentezaden van een ras dat genetisch is gemodificeerd, wordt op elk officieel dan wel ander etiket of document dat op de partij zaad is aangebracht of deze partij vergezelt, duidelijk vermeld dat het ras genetisch is gemodificeerd.
 
-#### Artikel 78
+##### Artikel 78
 
 In geval van een chemische behandeling van basiszaad, gecertificeerd zaad of standaardzaad, wordt hiervan op het officiële etiket dan wel op het etiket van de leverancier, alsmede op of in de verpakking melding gemaakt. Bij kleine verpakkingen kan deze vermelding rechtstreeks op of aan de binnenkant van de verpakking worden aangebracht.
 
-#### Artikel 79
+##### Artikel 79
 
 In het geval dat meer dan 2 kilogram groentezaden vanuit een derde land in de handel wordt gebracht, wordt Naktuinbouw door de leverancier van de volgende gegevens in kennis gesteld
 
@@ -744,7 +770,7 @@ In het geval dat meer dan 2 kilogram groentezaden vanuit een derde land in de ha
 
 - g. hoeveelheid teeltmateriaal.
 
-#### Artikel 80
+##### Artikel 80
 
 1. Het verzoek tot het in de handel brengen van groentezaden voor beproevingsdoeleinden als bedoeld in [artikel 39, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=39), wordt ingediend bij Naktuinbouw door de leverancier die de aanvraag tot inschrijving in het rassenregister heeft ingediend bij de Raad.
 
@@ -784,21 +810,21 @@ In het geval dat meer dan 2 kilogram groentezaden vanuit een derde land in de ha
 
 #### § 2. Groentezaden
 
-#### Artikel 81
+##### Artikel 81
 
 De leverancier van groenteplanten voldoet aan de vereisten, genoemd in artikel 5 van richtlijn (EG) 2008/72 en de artikelen 3, 4 en 5 van [richtlijn (EEG) 93/62](31993L0062).
 
-#### Artikel 82
+##### Artikel 82
 
 Groenteplanten voldoen aan de vereisten, genoemd in de artikelen 2, 3, 4 en 5 van [richtlijn (EEG) 93/61](31993L0061).
 
-#### Artikel 83
+##### Artikel 83
 
 1. Tijdens de groei, tijdens het rooien of tijdens het wegnemen van enten bij het uitgangsmateriaal wordt het teeltmateriaal in afzonderlijke partijen gehouden.
 
 2. Indien teeltmateriaal van verschillende oorsprong bij verpakking, opslag, vervoer of levering wordt samengevoegd of gemengd, houdt de leverancier een register bij met de samenstelling van de partij en de oorsprong van de samenstellende delen.
 
-#### Artikel 84
+##### Artikel 84
 
 1. Onverminderd [artikel 83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=3&artikel=83&z=2024-12-05&g=2024-12-05), worden groenteplanten slechts in voldoende homogene partijen in de handel gebracht nadat is vastgesteld dat zij voldoen aan de bepalingen van deze regeling en indien zij vergezeld gaan van een document dat door de leverancier is opgemaakt. Indien op dit document een officiële verklaring voorkomt, wordt deze duidelijk gescheiden van de rest van de inhoud van het document.
 
@@ -806,7 +832,7 @@ Groenteplanten voldoen aan de vereisten, genoemd in de artikelen 2, 3, 4 en 5 va
 
 #### § 4. Fruitgewassen
 
-#### Artikel 85
+##### Artikel 85
 
 1. De leverancier van teeltmateriaal van fruitgewassen:
 
@@ -820,13 +846,13 @@ Groenteplanten voldoen aan de vereisten, genoemd in de artikelen 2, 3, 4 en 5 va
 
 2. De leverancier voldoet aan het bepaalde in de artikelen 3, derde lid, 4, derde lid, 7, 8, eerste lid, 9, eerste, tweede, derde en vijfde lid, 10, eerste, tweede en derde lid, 11, eerste lid, tweede alinea, 12, 13, eerste, tweede, derde en vijfde lid, 14, eerste lid, 15, zevende en achtste lid, 16, eerste lid, tweede en derde lid, 17, eerste lid, 18, 19, 20, zevende en achtste lid, 21, eerste lid, tweede lid en derde lid, tweede alinea, 22, eerste lid, 23, 24, tweede en derde lid, 25, 26, eerste en tweede lid, en 27 van richtlijn (EU) 2014/98.
 
-#### Artikel 86
+##### Artikel 86
 
 1. CAC-materiaal van fruitgewassen is rasecht en voldoende raszuiver en voldoet aan het daarvoor bij artikel 4 van richtlijn (EG) 2008/90 bepaalde en de vereisten, genoemd in de artikelen 23, eerste lid, 24, eerste lid, van richtlijn (EU) 2014/98.
 
 2. Het CAC-materiaal wordt vergezeld door een document dat door de leverancier is opgemaakt overeenkomstig de vereisten, genoemd in artikel 5 van richtlijn (EU) 2014/96. Indien op het document een officiële verklaring voorkomt, is deze duidelijk gescheiden van de rest van de inhoud van het document.
 
-#### Artikel 87
+##### Artikel 87
 
 1. Gecertificeerd teeltmateriaal van fruitgewassen voldoet aan het daarvoor bij artikel 4 van richtlijn (EG) 2008/90 bepaalde en de vereisten, genoemd in de artikelen 3, eerste lid, onderdelen a tot en met f, en tweede lid, 4, eerste lid, onderdelen a tot en met f, en tweede lid, 8 tot en met 12, 15, tweede tot en met vijfde lid, 16 tot en met 19, 20, tweede tot en met vijfde lid, 21, 22, 25 en 27 van richtlijn (EU) 2014/98.
 
@@ -836,23 +862,23 @@ Groenteplanten voldoen aan de vereisten, genoemd in de artikelen 2, 3, 4 en 5 va
 
 4. Naktuinbouw houdt toezicht op de toepassing van de protocollen, bedoeld in de artikelen 9, derde lid, eerste alinea, 10, derde lid, 11, derde lid, 13, vierde lid, 4, tweede lid, 15, derde lid, 16, derde lid, 17, derde lid, 21, derde lid, en 22, derde lid, van richtlijn (EU) 2014/98.
 
-#### Artikel 88
+##### Artikel 88
 
 1. Teeltmateriaal van fruitgewassen wordt alleen in de handel gebracht indien het behoort tot een ras dat kwekersrechtelijk is beschermd, dat is toegelaten of dat overeenkomstig artikel 7, tweede lid, onder c, van richtlijn (EG) 2008/90 als algemeen bekend wordt beschouwd.
 
 2. Teeltmateriaal van fruitgewassen wordt in de handel gebracht onder vermelding van het ras waartoe het behoort. Indien bij onderstammen het materiaal niet tot een ras behoort, wordt er verwezen naar de betrokken soort of naar de betrokken interspecifieke hybride.
 
-#### Artikel 89
+##### Artikel 89
 
 Tijdens de groei, het rooien of het wegnemen van enten bij het uitgangsmateriaal wordt het teeltmateriaal in afzonderlijke partijen gehouden.
 
-#### Artikel 90
+##### Artikel 90
 
 1. Indien teeltmateriaal van verschillende oorsprong bij verpakking, opslag, vervoer of levering wordt samengevoegd of gemengd, houdt de leverancier een register bij met de samenstelling van de partij en de oorsprong van de samenstellende delen.
 
 2. Onverminderd het eerste lid, wordt teeltmateriaal slechts in voldoende homogene partijen in de handel gebracht.
 
-#### Artikel 91
+##### Artikel 91
 
 1. Teeltmateriaal van fruitgewassen voldoet aan de bij of krachtens artikel 9, eerste lid, van richtlijn (EG) 2008/90 gestelde voorschriften en aan de vereisten, genoemd in artikel 2, eerste lid, tweede alinea, en tweede tot en met vijfde lid van richtlijn (EU) 2014/96.
 
@@ -866,29 +892,29 @@ Tijdens de groei, het rooien of het wegnemen van enten bij het uitgangsmateriaal
 
 #### § 5. Siergewassen
 
-#### Artikel 92
+##### Artikel 92
 
 De leverancier van teeltmateriaal van siergewassen voldoet aan de vereisten, genoemd in de artikelen 6, 7 en 8 van [richtlijn (EG) 98/56](31998L0056).
 
-#### Artikel 93
+##### Artikel 93
 
 1. Teeltmateriaal van siergewassen dat in de handel wordt gebracht voldoet aan de vereisten, genoemd in de artikelen 3 en 5 van [richtlijn (EG) 98/56](31998L0056) en de artikelen 3 en 4, eerste lid, van [richtlijn 93/49/EEG](31993L0049).
 
 2. Teeltmateriaal dat op basis van zichtbare tekenen of symptomen niet nagenoeg vrij is van schadelijke organismen, wordt op adequate wijze behandeld of, indien nodig, verwijderd.
 
-#### Artikel 94
+##### Artikel 94
 
 1. Teeltmateriaal van siergewassen wordt in de handel gebracht vergezeld van een document of etiket dat door de leverancier is opgemaakt.
 
 2. Het etiket of document, bedoeld in het eerste lid, voldoet aan de vereisten, genoemd in artikel 2 van [richtlijn (EG) 99/66](31999L0066).
 
-#### Artikel 95
+##### Artikel 95
 
 1. Teeltmateriaal wordt in partijen in de handel gebracht. Teeltmateriaal van verschillende partijen kan in een zending in de handel worden gebracht, mits de leverancier registers bijhoudt van de samenstelling en oorsprong van de verschillende partijen.
 
 2. Het eerste lid is niet van toepassing op teeltmateriaal dat in de handel wordt gebracht voor personen die zich niet beroepshalve bezighouden met de productie of verkoop van siergewassen of teeltmateriaal.
 
-#### Artikel 96
+##### Artikel 96
 
 1. Teeltmateriaal kan alleen met een verwijzing naar het ras in de handel worden gebracht, indien het desbetreffende ras voldoet aan de vereisten, genoemd in artikel 9 van [richtlijn (EG) 98/56](31998L0056).
 
@@ -896,15 +922,15 @@ De leverancier van teeltmateriaal van siergewassen voldoet aan de vereisten, gen
 
 ### Hoofdstuk 6. Het in de handel brengen van teeltmateriaal van bosbouwgewassen
 
-#### Artikel 97
+##### Artikel 97
 
 De leverancier van bosbouwgewassen voldoet aan de vereisten, genoemd in artikel 16, derde lid, van [richtlijn (EG) 99/105](31999L0105).
 
-#### Artikel 98
+##### Artikel 98
 
 Teeltmateriaal wordt uitsluitend in de handel gebracht indien het afkomstig is van een ras dat of een opstand die is toegelaten en is ingeschreven in het rassenregister, dan wel is opgenomen op een vanwege de Commissie van de Europese Gemeenschappen vastgestelde gemeenschappelijke lijst van rassen of opstanden.
 
-#### Artikel 99
+##### Artikel 99
 
 1. Teeltmateriaal van de soorten, genoemd in bijlage I van [richtlijn (EG) 99/105](31999L0105), wordt niet in de handel gebracht tenzij het:
 
@@ -934,15 +960,15 @@ Teeltmateriaal wordt uitsluitend in de handel gebracht indien het afkomstig is v
 
 4. Teeltmateriaal van de soorten en kunstmatige hybriden dat geheel of gedeeltelijk uit genetisch gemodificeerde organismen bestaat, genoemd in bijlage I van [richtlijn (EG) 99/105](31999L0105), wordt slechts in de handel gebracht als het tot de categorie ‘getest’ behoort en voldoet aan de vereisten, genoemd in bijlage V van [richtlijn (EG) 99/105](31999L0105).
 
-#### Artikel 100
+##### Artikel 100
 
 Teeltmateriaal verkregen uit de diverse typen uitgangsmateriaal, wordt in de categorieën, genoemd in bijlage VI van [richtlijn (EG) 99/105](31999L0105), in de handel gebracht.
 
-#### Artikel 101
+##### Artikel 101
 
 Bosbouwkundig teeltmateriaal van de soorten en kunstmatige hybriden, genoemd in bijlage I van [richtlijn (EG) 99/105](31999L0105), wordt niet in de handel gebracht tenzij het aan de relevante vereisten, genoemd in bijlage VII van [richtlijn (EG) 99/105](31999L0105), voldoet.
 
-#### Artikel 102
+##### Artikel 102
 
 1. Teeltmateriaal van bosbouwgewassen wordt slechts in de handel gebracht in partijen die voldoen aan de vereisten, genoemd in artikel 13 van [richtlijn (EG) 99/105](31999L0105) en die vergezeld gaan van een etiket of een ander document van de leverancier.
 
@@ -964,15 +990,15 @@ Bosbouwkundig teeltmateriaal van de soorten en kunstmatige hybriden, genoemd in 
 
 6. In het geval van bosbouwkundig teeltmateriaal dat is afgeleid van uitgangsmateriaal dat uit genetisch gemodificeerde organismen bestaat, wordt dit op alle officiële en andere etiketten en documenten voor de partij duidelijk vermeld.
 
-#### Artikel 103
+##### Artikel 103
 
 Zaadeenheden worden uitsluitend in gesloten verpakkingen in de handel gebracht. Het sluitingsmechanisme wordt bij het openen van de verpakking onbruikbaar.
 
-#### Artikel 104
+##### Artikel 104
 
 Vervallen
 
-#### Artikel 105
+##### Artikel 105
 
 1. Naktuinbouw geeft na de oogst voor van toegelaten uitgangsmateriaal afgeleid teeltmateriaal een basiscertificaat af dat de specifieke registervermelding en de relevante gegevens, genoemd in bijlage VIII van [richtlijn (EG) 99/105](31999L0105), bevat.
 
@@ -980,7 +1006,7 @@ Vervallen
 
 3. In geval van menging van teeltmateriaal blijven de registervermeldingen van de componenten van het mengsel identificeerbaar. Voor het mengsel wordt een nieuw basiscertificaat of een ander document ter identificatie van het mengsel afgegeven.
 
-#### Artikel 106
+##### Artikel 106
 
 De leverancier die zaadeenheden die niet voor bosbouwdoeleinden bestemd zijn in de handel brengt, maakt hiervan melding aan Naktuinbouw.
 
@@ -988,7 +1014,7 @@ De leverancier die zaadeenheden die niet voor bosbouwdoeleinden bestemd zijn in 
 
 #### § 1. Oplegging en inning
 
-#### Artikel 107
+##### Artikel 107
 
 1. De verplichting tot betaling van een geldsom wordt in een factuur vastgesteld.
 
@@ -1000,17 +1026,17 @@ De leverancier die zaadeenheden die niet voor bosbouwdoeleinden bestemd zijn in 
 
 - c. de termijn waarbinnen de betaling moet plaatsvinden.
 
-#### Artikel 108
+##### Artikel 108
 
 De kosten van betaling komen ten laste van de leverancier.
 
-#### Artikel 109
+##### Artikel 109
 
 1. Betaling ter voldoening van een bepaalde geldschuld strekt in de eerste plaats tot mindering van de kosten, vervolgens tot mindering van de verschenen rente en ten slotte tot mindering van de hoofdsom en de lopende rente.
 
 2. Indien een leverancier verschillende geldschulden heeft bij de keuringsinstelling, kan de leverancier bij de betaling de geldschuld aanwijzen waaraan de betaling moet worden toegekend.
 
-#### Artikel 110
+##### Artikel 110
 
 1. De keuringsinstelling kan de leverancier uitstel van betaling verlenen.
 
@@ -1020,7 +1046,7 @@ De kosten van betaling komen ten laste van de leverancier.
 
 4. De keuringsinstelling kan aan de beschikking tot uitstel van betaling voorschriften verbinden.
 
-#### Artikel 111
+##### Artikel 111
 
 De keuringsinstelling kan de beschikking tot uitstel van betaling intrekken of wijzigen
 
@@ -1030,23 +1056,23 @@ De keuringsinstelling kan de beschikking tot uitstel van betaling intrekken of w
 
 - c. voor zover veranderde omstandigheden zich verzetten tegen voortduring van het uitstel.
 
-#### Artikel 112
+##### Artikel 112
 
 De leverancier is in verzuim indien hij niet binnen de voorgeschreven termijn heeft betaald.
 
-#### Artikel 113
+##### Artikel 113
 
 1. De keuringsinstelling maant de leverancier die in verzuim is schriftelijk aan tot betaling binnen twee weken, gerekend vanaf de dag na die waarop de aanmaning is toegezonden.
 
 2. De aanmaning vermeldt dat bij niet tijdige betaling deze kan worden afgedwongen door op kosten van de leverancier uit te voeren invorderingsmaatregelen.
 
-#### Artikel 114
+##### Artikel 114
 
 1. De keuringsinstelling kan voor de aanmaning een vergoeding in rekening brengen. De vergoeding bedraagt € 6 indien de schuld minder dan € 454 bedraagt en € 14 indien de schuld € 454 of meer bedraagt.
 
 2. De aanmaning vermeldt de vergoeding die in rekening wordt gebracht.
 
-#### Artikel 115
+##### Artikel 115
 
 1. Het dwangbevel, bedoeld in [artikel 21, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=21) vermeldt in ieder geval:
 
@@ -1068,27 +1094,27 @@ De leverancier is in verzuim indien hij niet binnen de voorgeschreven termijn he
 
 #### § 7. Het in de handel brengen van voor teelt onder bijzondere omstandigheden ontwikkelde rassen van groentegewassen.
 
-#### Artikel 116
+##### Artikel 116
 
 De tarieven kunnen periodiek worden aangepast aan de ontwikkelingen van de lonen en prijzen.
 
 ### Hoofdstuk 8. Overige bepalingen
 
-#### Artikel 117
+##### Artikel 117
 
 De bepalingen van deze regeling zijn niet van toepassing op teeltmateriaal waarbij door de leverancier aan de desbetreffende keuringsinstelling is aangetoond dat het teeltmateriaal is bestemd voor de uitvoer naar derde landen.
 
-#### Artikel 118
+##### Artikel 118
 
 Een wijziging van de richtlijnen, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=1&artikel=1&z=2024-12-05&g=2024-12-05), gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-#### Artikel 119
+##### Artikel 119
 
 1. Leveranciers die op grond van het [Aansluitingsbesluit N.A.K.](https://wetten.overheid.nl/jci1.3:c:BWBR0002567) zijn aangesloten bij NAK, worden ingeschreven in het register bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2024-12-05&g=2024-12-05). Leveranciers die naar het oordeel van NAK tevens voldoen aan de vereisten, genoemd in de [artikelen 9 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=2&artikel=9&z=2024-12-05&g=2024-12-05) inzake erkenning, zijn met de ingang van het tijdstip waarop deze regeling in werking treedt, ingeschreven in het register, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2024-12-05&g=2024-12-05).
 
 2. Leveranciers die op grond van het [Aansluitingsbesluit Naktuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0002566) zijn aangesloten bij Naktuinbouw en die naar het oordeel van Naktuinbouw voldoen aan de vereisten, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=2&z=2024-12-05&g=2024-12-05) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-12-05&g=2024-12-05), zijn met de ingang van het tijdstip waarop deze regeling in werking treedt, ingeschreven in het register, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2024-12-05&g=2024-12-05). Leveranciers die naar het oordeel van Naktuinbouw tevens voldoen aan de vereisten, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=2&artikel=13&z=2024-12-05&g=2024-12-05) inzake erkenning, zijn met de ingang van het tijdstip waarop deze regeling in werking treedt, ingeschreven in het register, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=2&paragraaf=1&artikel=7&z=2024-12-05&g=2024-12-05).
 
-#### Artikel 120
+##### Artikel 120
 
 De volgende regelingen worden ingetrokken:
 
@@ -1108,23 +1134,23 @@ De volgende regelingen worden ingetrokken:
 
 - h. [Regeling verkeer rassen met communautair kwekersrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0009825);
 
-#### Artikel 121
+##### Artikel 121
 
 Deze regeling wordt aangehaald als: Regeling verhandeling teeltmateriaal.
 
-#### Artikel 122
+##### Artikel 122
 
 Deze regeling treedt in werking op het tijdstip waarop het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019210) in werking treedt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 20a
+##### Artikel 20a
 
 Indien op grond van de door een leverancier van teeltmateriaal gevolgde werkwijze en de resultaten daarvan gebleken is, dat de voortbrenging, bewaring of bewerking van teeltmateriaal niet op voldoende vakkundige wijze geschiedt, kan NAK bij de leverancier de keuring van teeltmateriaal telkens voor ten hoogste drie jaren opschorten.
 
 #### § 2. Tuinbouwgewassen en bosbouwgewassen
 
-#### Artikel 25a
+##### Artikel 25a
 
 [Artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=3&paragraaf=1&artikel=20a&z=2024-12-05&g=2024-12-05) is van toepassing, met dien verstande dat NAK wordt gelezen als Naktuinbouw.
 
@@ -1168,37 +1194,37 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 7. Het in de handel brengen van teeltmateriaal van instandhoudingsrassen van landbouwgewassen
 
-#### Artikel 69a
+##### Artikel 69a
 
 1. Teeltmateriaal van instandhoudingsrassen van landbouwgewassen wordt slechts in de handel gebracht indien het voldoet aan de vereisten van de artikelen 10 en 13 van richtlijn (EG) 2008/62.
 
 2. De minister kan overeenkomstig artikel 13, tweede lid, van richtlijn (EG) 2008/62 gebieden buiten het gebied van oorsprong goedkeuren waarin teeltmateriaal van instandhoudingsrassen van landbouwgewassen kan worden verhandeld.
 
-#### Artikel 69b
+##### Artikel 69b
 
 Teeltmateriaal van instandhoudingsrassen van landbouwgewassen wordt uitsluitend geproduceerd in het gebied van oorsprong, bedoeld in [artikel 12a, vijfde lid, van de Regeling werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&artikel=12a).
 
-#### Artikel 69c
+##### Artikel 69c
 
 1. De leverancier van teeltmateriaal van een instandhoudingsras van een landbouwgewas gaat overeenkomstig artikel 12 van richtlijn (EG) 2008/62 na of het teeltmateriaal van instandhoudingsrassen voldoet aan de certificeringsvoorschriften van artikel 10, derde lid, van richtlijn (EG) 2008/62.
 
 2. Met betrekking tot teeltmateriaal van instandhoudingsrassen van pootaardappelen is artikel 10 van richtlijn (EG) 2002/56 niet van toepassing.
 
-#### Artikel 69d
+##### Artikel 69d
 
 NAK kan jaarlijks de maximale hoeveelheid in de handel te brengen teeltmateriaal van instandhoudingsrassen van landbouwgewassen vaststellen overeenkomstig artikel 14 van richtlijn (EG) 2008/62.
 
-#### Artikel 69e
+##### Artikel 69e
 
 1. Jaarlijks melden leveranciers die teeltmateriaal van instandhoudingsrassen van landbouwgewassen produceren voorafgaand aan het teeltseizoen de grootte en ligging van het gebied waarin zaad van instandhoudingsrassen van landbouwgewassen wordt geteeld.
 
 2. Op basis van de verkregen gegevens kan NAK met toepassing van artikel 15, tweede lid, van richtlijn (EG) 2008/62 de hoeveelheid in het desbetreffende teeltseizoen in de handel te brengen teeltmateriaal, per leverancier maximeren.
 
-#### Artikel 69f
+##### Artikel 69f
 
 Leveranciers melden bij NAK jaarlijks voor aanvang van het teeltseizoen de hoeveelheid in de handel gebracht zaaizaad van elk instandhoudingsras van een landbouwgewas.
 
-#### Artikel 69g
+##### Artikel 69g
 
 Verpakkingen van teeltmateriaal van instandhoudingsrassen van landbouwgewassen voldoen aan de vereisten genoemd in de artikelen 17 en 18 van richtlijn (EG) 2008/62.
 
@@ -1220,11 +1246,11 @@ Verpakkingen van teeltmateriaal van instandhoudingsrassen van landbouwgewassen v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 24a
+##### Artikel 24a
 
 Bij het onderzoek, de keuring en de controle van zaad van instandhoudingsrassen van groentegewassen neemt Naktuinbouw de artikelen 19 en 20 van richtlijn (EG) 2009/145 in acht.
 
-#### Artikel 24b
+##### Artikel 24b
 
 Bij het onderzoek, de keuring en de controle van zaad van voor teelt onder bijzondere omstandigheden ontwikkelde rassen van groentegewassen neemt Naktuinbouw de artikelen 31 en 32 van richtlijn (EG) 2009/145 in acht.
 
@@ -1250,7 +1276,7 @@ Bij het onderzoek, de keuring en de controle van zaad van voor teelt onder bijzo
 
 #### § 4. Fruitgewassen
 
-#### Artikel 91a
+##### Artikel 91a
 
 1. Teeltmateriaal van fruitgewassen als bedoeld in artikel 21 van richtlijn (EG) 2008/90 kan tot en met 31 december 2018 in Nederland in de handel worden gebracht.
 
@@ -1260,7 +1286,7 @@ Bij het onderzoek, de keuring en de controle van zaad van voor teelt onder bijzo
 
 #### § 6. Het in de handel brengen van zaad van instandhoudingsrassen van groentegewassen
 
-#### Artikel 96a
+##### Artikel 96a
 
 1. Zaad van instandhoudingsrassen van groentegewassen wordt slechts in de handel gebracht indien het voldoet aan de eisen van artikel 14 van richtlijn (EG) 2009/145, en:
 
@@ -1270,49 +1296,49 @@ Bij het onderzoek, de keuring en de controle van zaad van voor teelt onder bijzo
 
 2. De minister kan overeenkomstig artikel 14, tweede lid, van richtlijn (EG) 2009/145 gebieden buiten het gebied van oorsprong goedkeuren waarin zaad van instandhoudingsrassen van groentegewassen kan worden verhandeld.
 
-#### Artikel 96b
+##### Artikel 96b
 
 Zaad van instandhoudingsrassen van groentegewassen wordt uitsluitend geproduceerd in het gebied van oorsprong, bedoeld in [artikel 12a, vijfde lid, van de Regeling werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&artikel=12a).
 
-#### Artikel 96c
+##### Artikel 96c
 
 De leverancier van zaad van een instandhoudingsras van een groentegewas gaat overeenkomstig artikel 12 van richtlijn (EG) 2009/145 na of het teeltmateriaal van instandhoudingsrassen voldoet aan de voorschriften van artikel 10, onderscheidenlijk 11, van richtlijn (EG) 2009/145.
 
-#### Artikel 96d
+##### Artikel 96d
 
 Naktuinbouw kan jaarlijks de maximale hoeveelheid in de handel te brengen zaad van instandhoudingsrassen van groentegewassen vaststellen overeenkomstig artikel 15 van richtlijn (EG) 2009/145.
 
-#### Artikel 96e
+##### Artikel 96e
 
 1. Jaarlijks melden leveranciers die zaad van instandhoudingsrassen van groentegewassen produceren voorafgaand aan het teeltseizoen de grootte en ligging van het gebied waarin zaad van die instandhoudingsrassen wordt geteeld.
 
 2. Op basis van de verkregen gegevens kan Naktuinbouw met toepassing van artikel 16, tweede lid, van richtlijn (EG) 2009/145 de hoeveelheid in het desbetreffende teeltseizoen in de handel te brengen zaad, per leverancier maximeren.
 
-#### Artikel 96f
+##### Artikel 96f
 
 Leveranciers melden bij Naktuinbouw jaarlijks voor aanvang van het teeltseizoen de hoeveelheid in de handel gebracht zaad van elk instandhoudingsras van een groentegewas.
 
-#### Artikel 96g
+##### Artikel 96g
 
 Verpakkingen van zaad van instandhoudingsrassen van groentegewassen voldoen aan de eisen genoemd in de artikelen 17 en 18 van richtlijn (EG) 2009/145.
 
 #### § 7. Het in de handel brengen van voor teelt onder bijzondere omstandigheden ontwikkelde rassen van groentegewassen.
 
-#### Artikel 96h
+##### Artikel 96h
 
 1. Teeltmateriaal van voor teelt onder bijzondere omstandigheden ontwikkelde rassen van groentegewassen wordt slechts in de handel gebracht indien het voldoet aan de eisen van artikel 26 van richtlijn (EG) 2009/145.
 
 2. De leverancier van teeltmateriaal van voor teelt onder bijzondere omstandigheden ontwikkelde rassen van groentegewassen gaat overeenkomstig artikel 27 van richtlijn (EG) 2009/145 na of het teeltmateriaal van die rassen voldoet aan de voorschriften van artikel 26 van richtlijn (EG) 2009/145.
 
-#### Artikel 96i
+##### Artikel 96i
 
 Teeltmateriaal van voor teelt onder bijzondere omstandigheden ontwikkelde rassen van groentegewassen wordt slechts in de handel gebracht in verpakkingen die het in bijlage II bij richtlijn (EG) 2009/145 bepaalde maximale nettogewicht niet overschrijden.
 
-#### Artikel 96j
+##### Artikel 96j
 
 Leveranciers melden bij Naktuinbouw jaarlijks voor aanvang van het teeltseizoen de hoeveelheid in de handel gebracht teeltmateriaal van elk voor teelt onder bijzondere omstandigheden ontwikkeld ras van een groentegewas.
 
-#### Artikel 96k
+##### Artikel 96k
 
 Verpakkingen van teeltmateriaal van voor teelt onder bijzondere omstandigheden ontwikkelde rassen van groentegewassen voldoen aan de eisen genoemd in de artikelen 29 en 30 van richtlijn (EG) 2009/145.
 
@@ -1326,7 +1352,7 @@ Verpakkingen van teeltmateriaal van voor teelt onder bijzondere omstandigheden o
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 87a
+##### Artikel 87a
 
 1. Onverminderd de [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=4&artikel=86&z=2024-12-05&g=2024-12-05) en [87](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&hoofdstuk=5&paragraaf=4&artikel=87&z=2024-12-05&g=2024-12-05)wordt teeltmateriaal van fruitgewassen dat bestaat uit een genetisch gemodificeerd organisme in de zin van de punten 1 en 2 van artikel 2 van richtlijn (EG) 2001/18 alleen in de handel gebracht indien het genetisch gemodificeerde organisme uit hoofde van die richtlijn is toegelaten.
 
@@ -1346,7 +1372,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 91b
+##### Artikel 91b
 
 Teeltmateriaal van fruitgewassen en fruitgewassen die als CAC-materiaal zijn gekwalificeerd en in de handel worden gebracht, worden geïdentificeerd door middel van een verwijzing naar artikel 3 van [richtlijn 2019/1813](32019L1813) in het document van de leverancier in geval dat document als etiket wordt gebruikt.
 

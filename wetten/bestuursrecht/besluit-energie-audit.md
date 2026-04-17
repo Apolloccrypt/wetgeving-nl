@@ -1,13 +1,39 @@
 ---
-title: "Besluit energie-audit"
+title: "Besluit van 6 mei 2021, houdende regels met betrekking tot de energie-audit (Besluit energie-audit)"
 identifier: "BWBR0045194"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045194"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045194"
+soort: "AMvB"
+stam_id: "15973623"
+version_id: "27795652"
+internal_id: "C39280541"
+label_id: "15907624"
+dtd_version: "2.0"
+original_entry_into_force: "2021-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045194/2024-01-01/0"
+intitule_bron: "Stb.2021-236"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-05-06"
+intitule_published: "2021-06-02"
+intitule_in_force: "2021-06-30"
+intitule_status: "goed"
+original_publication: "Stb.2021-236"
+original_signed_date: "2021-05-06"
+original_published_date: "2021-06-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2021-236"
+entry_into_force_date: "2021-07-01"
+jci_1_3: "jci1.3:c:BWBR0045194&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0045194&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit energie-audit"
+signed_date: "2021-05-06"
+entry_into_force: "2021-07-01"
 ---
-
 # Besluit van 6 mei 2021, houdende regels met betrekking tot de energie-audit (Besluit energie-audit)
 
 Op de voordracht van Onze Minister van Economische Zaken en Klimaat van 15 december 2020, nr. WJZ / 20290080;
@@ -20,11 +46,11 @@ Gezien het nader rapport van Onze Minister van Economische Zaken en Klimaat van 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De energie-audit voldoet aan de minimumcriteria, bedoeld in bijlage VI bij [richtlijn 2012/27](32012L0027)/EU.
 
-#### Artikel 2
+##### Artikel 2
 
 Het verslag van een energie-audit bevat de volgende gegevens:
 
@@ -42,7 +68,7 @@ Het verslag van een energie-audit bevat de volgende gegevens:
 
 - g. een belastingprofiel van het elektriciteitsverbruik waaruit blijkt hoe het elektriciteitsverbruik gedurende de dag en nacht en gedurende werkdagen en niet-werkdagen verloopt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het verslag van een energie-audit bevat een opgave van het kosteneffectieve energiebesparingspotentieel waarin is opgenomen:
 
@@ -66,13 +92,13 @@ Het verslag van een energie-audit bevat de volgende gegevens:
 
 - b. over de maatregelen reeds gerapporteerd is in het kader van [artikel 5.15a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15a) of [5.15b van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15b).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het verslag van de energie-audit wordt binnen vier weken na de totstandkoming ervan verstuurd aan Onze Minister.
 
 2. Het verslag van de energie-audit wordt ter beschikking gesteld aan het bevoegd gezag, bedoeld in [paragraaf 5.1.2 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&paragraaf=5.1.2).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Aan de verplichting, bedoeld in [artikel 18, eerste lid, van de Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=18), kan door een grote onderneming geheel of gedeeltelijk invulling worden gegeven door het toepassen van:
 
@@ -82,11 +108,11 @@ Het verslag van een energie-audit bevat de volgende gegevens:
 
 2. De energie- of milieubeheersystemen of keurmerken voldoen aan de minimumcriteria, bedoeld in bijlage VI bij [richtlijn 2012/27](32012L0027)/EU.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit energie-audit.
 

@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Noorwegen tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen"
 identifier: "BWBV0002712"
-categorie: "Belastingrecht"
-publicatiedatum: 2013-11-30
-laatste_update: 2013-11-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002712"
+country: "nl"
+rank: "verdrag"
+publication_date: "2013-11-30"
+last_updated: "2013-11-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002712"
+soort: "verdrag"
+stam_id: "10003059913"
+version_id: "10003063192"
+internal_id: "C10009080271"
+label_id: "10003046754"
+dtd_version: "2.0"
+original_entry_into_force: "1990-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002712/2013-11-30/0"
+intitule_bron: "Trb.1990-30"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-12-01"
+intitule_published: "1990-03-02"
+intitule_in_force: "1990-12-28"
+intitule_status: "goed"
+original_publication: "Trb.1990-30"
+original_signed_date: "1990-12-01"
+original_published_date: "1990-03-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1990-30"
+entry_into_force_date: "1990-12-31"
+jci_1_3: "jci1.3:c:BWBV0002712&z=2013-11-30&g=2013-11-30"
+jci_1_0: "1.0:c:BWBV0002712&g=2013-11-30"
+citeertitel_status: "officieel"
+signed_date: "1990-12-01"
+entry_into_force: "1990-12-31"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Noorwegen tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
 De Regering van het Koninkrijk der Nederlanden
@@ -22,11 +47,11 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. REIKWIJDTE VAN DE OVEREENKOMST
 
-#### Artikel 1. Personen op wie de Overeenkomst van toepassing is
+##### Artikel 1. Personen op wie de Overeenkomst van toepassing is
 
 Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de Staten of van beide Staten.
 
-#### Artikel 2. Belastingen waarop de Overeenkomst van toepassing is
+##### Artikel 2. Belastingen waarop de Overeenkomst van toepassing is
 
 1. Deze Overeenkomst is van toepassing op belastingen naar het inkomen die, ongeacht de wijze van heffing, worden geheven ten behoeve van een van de Staten of van de staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen daarvan.
 
@@ -60,7 +85,7 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 ### HOOFDSTUK II. BEGRIPSBEPALINGEN
 
-#### Artikel 3. Algemene begripsbepalingen
+##### Artikel 3. Algemene begripsbepalingen
 
 1. Voor de toepassing van deze Overeenkomst, tenzij de context anders vereist:
 
@@ -108,7 +133,7 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 2. Voor de toepassing van de Overeenkomst door een van de Staten heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat met betrekking tot de belastingen waarop de Overeenkomst van toepassing is.
 
-#### Artikel 4. Inwoner
+##### Artikel 4. Inwoner
 
 1. Voor de toepassing van deze Overeenkomst betekent de uitdrukking „inwoner van een van de Staten” iedere persoon die, ingevolge de wetgeving van die Staat, aldaar aan belasting is onderworpen op grond van zijn woonplaats, verblijf, plaats van leiding of enige andere soortgelijke omstandigheid en omvat tevens die Staat zelf en elk staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam daarvan. Deze uitdrukking omvat echter niet een persoon die in die Staat slechts aan belasting is onderworpen ter zake van inkomsten uit bronnen in die Staat.
 
@@ -124,7 +149,7 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 3. Indien een andere dan een natuurlijke persoon ingevolge de bepalingen van het eerste lid inwoner van beide Staten is, wordt hij geacht inwoner te zijn van de Staat waarin de plaats van zijn werkelijke leiding is gelegen.
 
-#### Artikel 5. Vaste inrichting
+##### Artikel 5. Vaste inrichting
 
 1. Voor de toepassing van deze Overeenkomst betekent de uitdrukking „vaste inrichting” een vaste bedrijfsinrichting door middel waarvan de werkzaamheden van een onderneming geheel of gedeeltelijk worden uitgeoefend.
 
@@ -174,7 +199,7 @@ de in de andere Staat in het kader van deze diensten verrichte activiteiten geac
 
 ### HOOFDSTUK III. BELASTINGHEFFING NAAR HET INKOMEN
 
-#### Artikel 6. Inkomsten uit onroerende goederen
+##### Artikel 6. Inkomsten uit onroerende goederen
 
 1. Inkomsten verkregen door een inwoner van een van de Staten uit onroerende goederen (waaronder begrepen voordelen uit landbouw- of bosbedrijven) die in de andere Staat zijn gelegen mogen in die andere Staat worden belast.
 
@@ -184,7 +209,7 @@ de in de andere Staat in het kader van deze diensten verrichte activiteiten geac
 
 4. De bepalingen van het eerste en derde lid zijn ook van toepassing op inkomsten uit onroerende goederen van een onderneming.
 
-#### Artikel 7. Winst uit onderneming
+##### Artikel 7. Winst uit onderneming
 
 1. De voordelen van een onderneming van een van de Staten zijn slechts in die Staat belastbaar, tenzij de onderneming in de andere Staat haar bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting. Indien de onderneming aldus haar bedrijf uitoefent, mogen de voordelen die in overeenstemming met de bepalingen van het tweede lid aan de vaste inrichting kunnen worden toegerekend in die andere Staat worden belast.
 
@@ -194,7 +219,7 @@ de in de andere Staat in het kader van deze diensten verrichte activiteiten geac
 
 4. Indien in de voordelen bestanddelen van het inkomen zijn begrepen die afzonderlijk in andere artikelen van deze Overeenkomst worden behandeld, laten de bepalingen van dit artikel de bepalingen van die artikelen onverlet.
 
-#### Artikel 8. Zeevaart en luchtvaart
+##### Artikel 8. Zeevaart en luchtvaart
 
 1. Voordelen verkregen door een inwoner van een van de Staten uit de exploitatie van schepen of luchtvaartuigen in internationaal verkeer zijn slechts in, die Staat belastbaar.
 
@@ -208,7 +233,7 @@ de in de andere Staat in het kader van deze diensten verrichte activiteiten geac
 
 6. De bepalingen van het eerste, tweede, derde en vijfde lid zijn ook van toepassing op voordelen uit de deelneming in een „pool”, een gemeenschappelijke onderneming of een internationaal geëxploiteerd agentschap.
 
-#### Artikel 9. Gelieerde ondernemingen
+##### Artikel 9. Gelieerde ondernemingen
 
 1. Indien
 
@@ -222,7 +247,7 @@ Het is echter wel verstaan, dat de omstandigheid dat gelieerde ondernemingen ove
 
 2. Indien een van de Staten in de voordelen van een onderneming van die Staat voordelen begrijpt – en dienovereenkomstig belast – ter zake waarvan een onderneming van de andere Staat in die andere Staat in de belastingheffing is betrokken en deze voordelen bestaan uit voordelen welke de onderneming van de eerstbedoelde Staat zou hebben behaald indien tussen de beide ondernemingen zodanige voorwaarden zouden zijn overeengekomen als die welke tussen onafhankelijke ondernemingen zouden zijn overeengekomen, zal die andere Staat het bedrag aan belasting dat in die Staat over die voordelen is geheven dienovereenkomstig aanpassen indien die andere Staat de aanpassing gerechtvaardigd acht. Bij de vaststelling van deze aanpassing wordt zorgvuldig rekening gehouden met de overige bepalingen van deze Overeenkomst en plegen de bevoegde autoriteiten van de Staten zo nodig met elkaar overleg.
 
-#### Artikel 10. Dividenden
+##### Artikel 10. Dividenden
 
 1. Dividenden betaald door een lichaam dat inwoner is van een van de Staten aan een inwoner van de andere Staat, mogen in die andere Staat worden belast.
 
@@ -262,7 +287,7 @@ Het is echter wel verstaan, dat de omstandigheid dat gelieerde ondernemingen ove
 
 8. Indien een lichaam dat inwoner is van een van de Staten, voordelen of inkomsten verkrijgt uit de andere Staat, mag die andere Staat geen belasting heffen op de dividenden die door het lichaam worden betaald, behalve voor zover deze dividenden worden betaald aan een inwoner van die andere Staat of voor zover het aandelenbezit uit hoofde waarvan de dividenden worden betaald, tot het bedrijfsvermogen van een in die andere Staat gevestigde vaste inrichting behoort, noch de niet-uitgedeelde winst van het lichaam onderwerpen aan een belasting op niet-uitgedeelde winst van het lichaam, zelfs indien de betaalde dividenden of de niet-uitgedeelde winst geheel of gedeeltelijk bestaan uit voordelen of inkomsten die uit die andere Staat afkomstig zijn.
 
-#### Artikel 11. Interest
+##### Artikel 11. Interest
 
 1. Interest afkomstig uit een van de Staten en betaald aan een inwoner van de andere Staat is slechts in die andere Staat belastbaar indien die inwoner de uiteindelijk gerechtigde is tot de interest.
 
@@ -274,7 +299,7 @@ In rekening gebrachte boete voor te late betaling wordt voor toepassing van dit 
 
 4. Indien, wegens een bijzondere verhouding tussen de schuldenaar en de uiteindelijk gerechtigde of tussen hen beiden en een derde, het bedrag van de betaalde interest, gelet op de schuldvordering ter zake waarvan deze wordt betaald, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de uiteindelijk gerechtigde zou zijn overeengekomen, zijn de bepalingen van dit artikel slechts op het laatstbedoelde bedrag van toepassing. In dat geval blijft het daarboven uitgaande deel van het betaalde bedrag belastbaar overeenkomstig de wetgeving van elk van de Staten, zulks met inachtneming van de overige bepalingen van deze Overeenkomst.
 
-#### Artikel 12. Royalty's
+##### Artikel 12. Royalty's
 
 1. Royalty's afkomstig uit een van de Staten en betaald aan een inwoner van de andere Staat zijn slechts in die andere Staat belastbaar indien die inwoner de uiteindelijk gerechtigde tot de royalty's is.
 
@@ -284,7 +309,7 @@ In rekening gebrachte boete voor te late betaling wordt voor toepassing van dit 
 
 4. Indien, wegens een bijzondere verhouding tussen de schuldenaar en de uiteindelijk gerechtigde of tussen hen beiden en een derde, het bedrag van de betaalde royalty's, gelet op het gebruik, het recht of de inlichtingen waarvoor zij worden betaald, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de uiteindelijk gerechtigde zou zijn overeengekomen, zijn de bepalingen van dit artikel slechts op het laatstbedoelde bedrag van toepassing. In dat geval blijft het daarboven uitgaande deel van het betaalde bedrag belastbaar overeenkomstig de wetgeving van elk van de Staten, zulks met inachtneming van de overige bepalingen van deze Overeenkomst.
 
-#### Artikel 13. Vermogenswinsten
+##### Artikel 13. Vermogenswinsten
 
 1. Voordelen verkregen door een inwoner van een van de Staten uit de vervreemding van onroerende goederen, zoals bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=6&z=2013-11-30&g=2013-11-30) en die zijn gelegen in de andere Staat mogen in die andere Staat worden belast.
 
@@ -304,11 +329,11 @@ In rekening gebrachte boete voor te late betaling wordt voor toepassing van dit 
 
 - b. de voordelen worden verkregen door een natuurlijke persoon die inwoner is van de andere Staat en die in de loop van de laatste vijf jaar voorafgaande aan de vervreemding van de aandelen of winstbewijzen inwoner van de eerstbedoelde Staat is geweest.
 
-#### Artikel 14. Zelfstandige arbeid
+##### Artikel 14. Zelfstandige arbeid
 
 Vervallen
 
-#### Artikel 15. Niet-zelfstandige arbeid
+##### Artikel 15. Niet-zelfstandige arbeid
 
 1. Onder voorbehoud van de bepalingen van de artikelen 16, 17, 18 en 19 zijn salarissen, lonen en andere soortgelijke beloningen verkregen door een inwoner van een van de Staten ter zake van een dienstbetrekking slechts in die Staat belastbaar, tenzij de dienstbetrekking in de andere Staat wordt uitgeoefend. Indien de dienstbetrekking aldaar wordt uitgeoefend, mag de ter zake daarvan verkregen beloning in die andere Staat worden belast.
 
@@ -322,7 +347,7 @@ Vervallen
 
 3. Niettegenstaande de voorgaande bepalingen van dit artikel is de beloning verkregen door een inwoner van een van de Staten ter zake van een dienstbetrekking uitgeoefend aan boord van een schip of luchtvaartuig in internationaal verkeer of aan boord van schepen die worden gebezigd voor de visserij in volle zee slechts in die Staat belastbaar.
 
-#### Artikel 16. „Directeursbeloningen”
+##### Artikel 16. „Directeursbeloningen”
 
 1. Directeursbeloningen (directors’ fees) of dergelijke beloningen verkregen door een inwoner van Nederland in zijn hoedanigheid van lid van de raad van beheer of van een dergelijk college van een lichaam dat inwoner is van Noorwegen, mogen in Noorwegen worden belast.
 
@@ -330,7 +355,7 @@ Vervallen
 
 3. Indien de in het eerste of tweede lid bedoelde beloningen verkregen worden door een persoon die werkzaamheden van regelmatige en wezenlijke aard verricht in een vaste inrichting, welke gevestigd is in de Staat die niet de Staat is waarvan het lichaam inwoner is, en de beloningen aftrekbaar zijn bij het bepalen van de belastbare winst van die vaste inrichting, zijn de beloningen, voor zover zij aldus aftrekbaar zijn, niettegenstaande de bepalingen van het eerste of tweede lid van dit artikel, slechts belastbaar in de Staat waarin de vaste inrichting is gevestigd.
 
-#### Artikel 17. Artiesten en sportbeoefenaars
+##### Artikel 17. Artiesten en sportbeoefenaars
 
 1. Niettegenstaande de bepalingen van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=7&z=2013-11-30&g=2013-11-30) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=15&z=2013-11-30&g=2013-11-30), mogen voordelen of inkomsten, verkregen door een inwoner van een van de Staten als artiest, zoals een toneelspeler, film-, radio- of televisieartiest of een musicus, of als sportbeoefenaar, uit zijn persoonlijke werkzaamheden als zodanig die worden verricht in de andere Staat, worden belast in die andere Staat.
 
@@ -338,7 +363,7 @@ Vervallen
 
 3. De bepalingen van het eerste en tweede lid zijn niet van toepassing op inkomsten, verkregen uit werkzaamheden die in een van de Staten worden verricht door artiesten of sportbeoefenaars indien het bezoek aan die Staat in hoofdzaak wordt betaald uit openbare fondsen van de andere Staat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan. In een zodanig geval zijn de inkomsten slechts belastbaar in de Staat waarvan de artiest of sportbeoefenaar inwoner is.
 
-#### Artikel 18. Pensioenen, lijfrenten, socialezekerheidsuitkeringen en alimentatie
+##### Artikel 18. Pensioenen, lijfrenten, socialezekerheidsuitkeringen en alimentatie
 
 1. Pensioenen en andere soortgelijke beloningen, lijfrenten, alsmede afkoopsommen betaald in plaats van een pensioen of andere soortgelijke beloning of lijfrente, afkomstig uit een van de Staten en betaald aan een inwoner van de andere Staat mogen in de eerstgenoemde Staat worden belast.
 
@@ -360,7 +385,7 @@ De aan een Staat toegekende heffingsrechten worden op geen enkele wijze beperkt 
 
 5. Alimentatie en andere onderhoudsuitkeringen betaald aan een inwoner van een van de Staten zijn slechts belastbaar in die Staat. Alimentatie of een andere onderhoudsuitkering betaald door een inwoner van een van de Staten aan een inwoner van de andere Staat is echter slechts belastbaar in de eerstbedoelde Staat voor zover deze niet fiscaal aftrekbaar is voor de betaler.
 
-#### Artikel 19. Overheidsfuncties
+##### Artikel 19. Overheidsfuncties
 
 - a. Salarissen, lonen en andere soortgelijke beloningen, betaald door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan, aan een natuurlijke persoon ter zake van diensten verleend aan die Staat of dat onderdeel of dat publiekrechtelijke lichaam, zijn uitsluitend in die Staat belastbaar.
 
@@ -372,11 +397,11 @@ De aan een Staat toegekende heffingsrechten worden op geen enkele wijze beperkt 
 
 2. De bepalingen van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=15&z=2013-11-30&g=2013-11-30), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=16&z=2013-11-30&g=2013-11-30) en [17](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=17&z=2013-11-30&g=2013-11-30) zijn van toepassing op salarissen, lonen en andere soortgelijke beloningen ter zake van diensten verleend in het kader van een op winst gericht bedrijf, uitgeoefend door een Staat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan.
 
-#### Artikel 20. Studenten
+##### Artikel 20. Studenten
 
 Betalingen die een student of een voor een beroep of bedrijf in opleiding zijnde persoon, die inwoner is of onmiddellijk voor zijn bezoek aan een van de Staten, inwoner was van de andere Staat en die uitsluitend voor zijn studie of opleiding in de eerstbedoelde Staat verblijft, ontvangt ten behoeve van zijn onderhoud, studie of opleiding, zijn in die Staat niet belastbaar, mits deze betalingen aan hem worden gedaan uit bronnen buiten die Staat.
 
-#### Artikel 21. Overige inkomsten
+##### Artikel 21. Overige inkomsten
 
 1. Bestanddelen van het inkomen van een inwoner van een van de Staten, van waaruit ook afkomstig, die niet in de voorgaande artikelen van deze Overeenkomst zijn behandeld, zijn slechts in die Staat belastbaar.
 
@@ -384,13 +409,13 @@ Betalingen die een student of een voor een beroep of bedrijf in opleiding zijnde
 
 ### HOOFDSTUK IV. BELASTINGHEFFING NAAR HET VERMOGEN
 
-#### Artikel 22. Vermogen
+##### Artikel 22. Vermogen
 
 Vervallen
 
 ### HOOFDSTUK V. VERMIJDING VAN DUBBELE BELASTING
 
-#### Artikel 23
+##### Artikel 23
 
 1. Onder voorbehoud van de bepalingen van de wetgeving van Noorwegen betreffende het in aftrek toestaan op de Noorse belasting van een belasting die verschuldigd is op een grondgebied buiten Noorwegen (hetgeen het algemeen beginsel van dit artikel onverlet laat):
 
@@ -408,7 +433,7 @@ Vervallen
 
 ### HOOFDSTUK VI. WERKZAAMHEDEN BUITENGAATS
 
-#### Artikel 24
+##### Artikel 24
 
 1. De bepalingen van dit artikel vinden toepassing niettegenstaande enige andere bepaling van deze Overeenkomst.
 
@@ -430,7 +455,7 @@ Vervallen
 
 ### HOOFDSTUK VII. BIJZONDERE BEPALINGEN
 
-#### Artikel 25. Non-discriminatie
+##### Artikel 25. Non-discriminatie
 
 1. Onderdanen van een van de Staten worden in de andere Staat niet aan enige belastingheffing of daarmede verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmede verband houdende verplichtingen, waaraan onderdanen van die andere Staat onder dezelfde omstandigheden zijn of kunnen worden onderworpen. Deze bepaling is, niettegenstaande het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=I&artikel=1&z=2013-11-30&g=2013-11-30), ook van toepassing op personen die geen inwoners zijn van een van de Staten of van beide Staten.
 
@@ -444,7 +469,7 @@ Vervallen
 
 6. De bepalingen van dit artikel zijn, niettegenstaande de bepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=I&artikel=2&z=2013-11-30&g=2013-11-30), van toepassing op belastingen van elke soort en benaming.
 
-#### Artikel 26. Regeling voor onderling overleg
+##### Artikel 26. Regeling voor onderling overleg
 
 1. Indien een persoon van oordeel is dat de maatregelen van een van de Staten of van beide Staten voor hem leiden of zullen leiden tot een belastingheffing die niet in overeenstemming is met de bepalingen van deze Overeenkomst, kan hij, ongeacht de rechtsmiddelen waarin de nationale wetgeving van die Staten voorziet, zijn geval voorleggen aan de bevoegde autoriteit van de Staat waarvan hij inwoner is, of, indien zijn geval valt onder [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=VII&artikel=25&z=2013-11-30&g=2013-11-30), aan die van de Staat waarvan hij onderdaan is. Het geval moet worden voorgelegd binnen drie jaar nadat de maatregel die leidt tot een belastingheffing die niet in overeenstemming is met de bepalingen van de Overeenkomst, voor het eerst te zijner kennis is gebracht.
 
@@ -464,7 +489,7 @@ Vervallen
 
 worden onopgeloste kwesties die voortvloeien uit het geval op verzoek van de persoon voorgelegd voor arbitrage. Deze onopgeloste kwesties worden evenwel niet voorgelegd voor arbitrage indien een rechterlijke instantie of administratiefrechtelijk lichaam van een van beide Staten reeds over deze kwesties heeft beslist. De arbitrale uitspraak is bindend voor beide Staten en wordt ten uitvoer gelegd ongeacht eventuele termijnen in de nationale wetgeving van deze Staten, tenzij de rechtstreeks betrokken persoon de gezamenlijke regeling voor de tenuitvoerlegging van de arbitrale uitspraak niet aanvaardt of de bevoegde autoriteiten binnen zes maanden nadat de beslissing aan hen bekend is gemaakt tot een andere oplossing komen. De bevoegde autoriteiten van de Staten regelen in onderlinge overeenstemming de wijze van toepassing van dit lid.
 
-#### Artikel 27. Uitwisseling van informatie
+##### Artikel 27. Uitwisseling van informatie
 
 1. De bevoegde autoriteiten van de Staten wisselen de informatie uit die naar verwachting van belang zijn voor de uitvoering van de bepalingen van deze Overeenkomst of voor de toepassing of de handhaving van de nationale wetgeving betreffende belastingen van elke soort en benaming die worden geheven ten behoeve van de Staten, of van de staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen daarvan, voor zover de heffing van die belastingen niet in strijd is met Overeenkomst. De uitwisseling van informatie wordt niet beperkt door de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=I&artikel=1&z=2013-11-30&g=2013-11-30) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=I&artikel=2&z=2013-11-30&g=2013-11-30).
 
@@ -482,7 +507,7 @@ worden onopgeloste kwesties die voortvloeien uit het geval op verzoek van de per
 
 5. De bepalingen van het derde lid mogen in geen geval zodanig worden uitgelegd dat het een Staat toegestaan is het verstrekken van informatie te weigeren uitsluitend op grond van het feit dat de informatie berust bij een bank, een andere financiële instelling, een gevolmachtigde, of een persoon die bij wijze van vertegenwoordiging of als vertrouwenspersoon optreedt, dan wel omdat deze betrekking heeft op eigendomsbelangen in een persoon.
 
-#### Artikel 28. Bijstand bij de invordering van belastingen
+##### Artikel 28. Bijstand bij de invordering van belastingen
 
 1. De Staten verlenen elkaar bijstand bij de invordering van belastingvorderingen. Deze bijstand wordt niet beperkt door de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=I&artikel=1&z=2013-11-30&g=2013-11-30) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=I&artikel=2&z=2013-11-30&g=2013-11-30). De bevoegde autoriteiten van de Staten regelen in onderlinge overeenstemming de wijze van toepassing van dit artikel.
 
@@ -512,11 +537,11 @@ worden onopgeloste kwesties die voortvloeien uit het geval op verzoek van de per
 
 - d. bijstand te verlenen in gevallen waarin de administratieve last voor die Staat duidelijk in verhouding onevenredig is met het voordeel te behalen door de andere Staat.
 
-#### Artikel 29. Beperking van de artikelen 27 en 28
+##### Artikel 29. Beperking van de artikelen 27 en 28
 
 Vervallen
 
-#### Artikel 30. Diplomatieke en consulaire ambtenaren
+##### Artikel 30. Diplomatieke en consulaire ambtenaren
 
 1. De bepalingen van deze Overeenkomst tasten in geen enkel opzicht de fiscale voorrechten aan die diplomatieke of consulaire ambtenaren ontlenen aan de algemene regels van het volkenrecht of aan de bepalingen van bijzondere overeenkomsten.
 
@@ -524,7 +549,7 @@ Vervallen
 
 3. De Overeenkomst is niet van toepassing op internationale organisaties, op hun organen en functionarissen, noch op natuurlijke personen deel uitmakende van een diplomatieke of consulaire vertegenwoordiging van een derde Staat, die in een van de Staten verblijven en in geen van de beide Staten aan dezelfde verplichtingen ter zake van belastingen naar het inkomen of naar het vermogen zijn onderworpen als inwoners van die Staat.
 
-#### Artikel 31. Uitvoeringsvoorschriften
+##### Artikel 31. Uitvoeringsvoorschriften
 
 1. De bevoegde autoriteiten van de Staten regelen in onderlinge overeenstemming de wijze van toepassing van artikel 10, tweede, derde en vierde lid.
 
@@ -532,7 +557,7 @@ Vervallen
 
 3. De bevoegde autoriteiten van elk van de Staten kunnen, in overeenstemming met het gebruik van die Staat, uitvoeringsvoorschriften vaststellen die nodig zijn om de overige bepalingen van deze Overeenkomst uit te voeren.
 
-#### Artikel 32. Uitbreiding tot andere gebieden
+##### Artikel 32. Uitbreiding tot andere gebieden
 
 1. Deze Overeenkomst kan, hetzij in haar geheel, hetzij met de noodzakelijke wijzigingen, worden uitgebreid tot Aruba of het Caribische deel van Nederland (de eilanden Bonaire, Sint Eustatius en Saba), indien het desbetreffende deel van het Koninkrijk der Nederlanden belastingen heft die in wezen gelijksoortig zijn aan de belastingen waarop de Overeenkomst van toepassing is. Zulk een uitbreiding wordt van kracht met ingang van een datum en met inachtneming van wijzigingen en voorwaarden, waaronder begrepen voorwaarden ten aanzien van de beëindiging, nader vast te stellen en overeen te komen bij diplomatieke notawisseling.
 
@@ -540,7 +565,7 @@ Vervallen
 
 ### HOOFDSTUK VIII. SLOTBEPALINGEN
 
-#### Artikel 33. Inwerkingtreding
+##### Artikel 33. Inwerkingtreding
 
 1. Deze Overeenkomst treedt in werking op de dertigste dag na de laatste van de data waarop de onderscheiden Regeringen elkaar schriftelijk hebben medegedeeld, dat de in hun onderscheiden Staten grondwettelijk vereiste formaliteiten zijn vervuld en de bepalingen ervan vinden toepassing:
 
@@ -550,7 +575,7 @@ Vervallen
 
 2. De Overeenkomst tussen het Koninkrijk Noorwegen en het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, getekend te 's-Gravenhage op 22 september 1966 en de Overeenkomst van 11 januari 1929 tussen Nederland en Noorwegen tot wederzijdse vrijstelling van inkomstenbelasting in zekere gevallen, waarbij winsten voortvloeien uit het zeescheepvaartbedrijf worden beëindigd op het tijdstip van inwerkingtreding van deze Overeenkomst. De bepalingen van de Overeenkomst uit 1966 blijven echter van toepassing totdat de bepalingen van deze Overeenkomst, overeenkomstig de bepalingen van het eerste lid van dit artikel, van toepassing zijn.
 
-#### Artikel 34. Beëindiging
+##### Artikel 34. Beëindiging
 
 Deze Overeenkomst blijft van kracht totdat zij door een van de Overeenkomstsluitende Partijen is opgezegd. Elk van de Partijen kan de Overeenkomst langs diplomatieke weg beëindigen door ten minste zes maanden voor het einde van enig kalenderjaar na het verstrijken van een tijdvak van vijf jaar sedert de datum van inwerkingtreding een kennisgeving van beëindiging te doen. In dat geval houdt de Overeenkomst op van toepassing te zijn:
 
@@ -560,17 +585,17 @@ Deze Overeenkomst blijft van kracht totdat zij door een van de Overeenkomstsluit
 
 Bij de ondertekening van de Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, heden tussen het Koninkrijk der Nederlanden en het Koninkrijk Noorwegen gesloten, zijn de ondergetekenden de volgende bepalingen overeengekomen die een integrerend deel van de Overeenkomst vormen.
 
-#### I
+##### I
 
 1. Indien ingevolge de bepalingen van de Overeenkomst een inwoner van Nederland is vrijgesteld van of recht heeft op vermindering van Noorse belasting, is een soortgelijke vrijstelling of vermindering van toepassing ten aanzien van onverdeelde nalatenschappen van overleden personen voor zover een of meer van de begunstigden inwoner van Nederland is.
 
 2. Voor zover voordelen of inkomsten van een onverdeelde nalatenschap van een overleden persoon ingevolge de bepalingen van de Overeenkomst onderworpen zijn aan Noorse belasting en toekomen aan een begunstigde die inwoner van Nederland is, verleent Nederland een vermindering op de voet van [artikel 23, tweede lid, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=V&artikel=23&z=2013-11-30&g=2013-11-30).
 
-#### II. Ad Artikel 4
+##### II. Ad Artikel 4
 
 Een natuurlijke persoon die aan boord van een schip woont zonder een werkelijke woonplaats in een van de Staten te hebben, wordt geacht inwoner te zijn van de Staat waar het schip zijn thuishaven heeft.
 
-#### III. Ad Artikel 5
+##### III. Ad Artikel 5
 
 Voor de toepassing van artikel 5, derde lid,
 
@@ -586,43 +611,43 @@ Voor de toepassing van artikel 5, derde lid,
 
 - (ii). **in de ruimte,** wanneer de werken, ofschoon op verschillende plaatsen uitgevoerd, feitelijk een deel van een groter geheel vormen en er geen noemenswaardige werkonderbreking is geweest.
 
-#### IV. Ad Artikel 7
+##### IV. Ad Artikel 7
 
 Vervallen
 
-#### V. Ad [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=8&z=2013-11-30&g=2013-11-30) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=13&z=2013-11-30&g=2013-11-30)
+##### V. Ad [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=8&z=2013-11-30&g=2013-11-30) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=13&z=2013-11-30&g=2013-11-30)
 
 Indien een onderneming wordt gedreven door een of meer hoofdelijk aansprakelijke vennoten die in een van de Staten wonen, en door een of meer hoofdelijk aansprakelijke vennoten die in de andere Staat wonen, en de bevoegde autoriteiten van beide Staten het erover eens zijn dat niet kan worden vastgesteld dat de plaats van de werkelijke leiding slechts in een van de Staten is gelegen, zijn voordelen als bedoeld in [artikel 8, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=8&z=2013-11-30&g=2013-11-30), voordelen als bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=13&z=2013-11-30&g=2013-11-30), slechts belastbaar, naar gelang van het aandeel dat elk van de hoofdelijk aansprakelijke vennoten in het geheel bezit, in de Staat waarvan die vennoot inwoner is.
 
-#### VI. Ad Artikel 10
+##### VI. Ad Artikel 10
 
 Verzoeken om teruggaaf van belasting die niet overeenkomstig de bepalingen van artikel 10 is geheven, moeten bij de bevoegde autoriteit van de Staat die de belasting heeft geheven worden ingediend binnen een tijdvak van vijf jaar na het einde van het kalenderjaar waarin de belasting is geheven.
 
-#### VII. Ad Artikelen 11 en 23
+##### VII. Ad Artikelen 11 en 23
 
 Ingeval een van de Staten een bronbelasting op interest invoert, stelt die Staat de andere Staat in kennis van de invoering van die belasting en knoopt zij onderhandelingen aan ten einde overeenstemming te bereiken over zodanige wijzigingen van de artikelen 11 en 23 als passend zijn.
 
-#### VIII. Ad [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=18&z=2013-11-30&g=2013-11-30)
+##### VIII. Ad [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=18&z=2013-11-30&g=2013-11-30)
 
 Indien een inwoner van een van de Staten vóór de datum waarop dit Wijzigingsprotocol bij de Overeenkomst in werking treedt, een pensioen of andere soortgelijke beloning of een lijfrente afkomstig uit de andere Staat, of een pensioen of andere uitkering krachtens de bepalingen van een socialezekerheidsstelsel van de andere Staat ontvangt en na die datum dit pensioen, die beloning, lijfrente of socialezekerheidsuitkering blijft ontvangen, blijven de bepalingen van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=18&z=2013-11-30&g=2013-11-30)van de Overeenkomst zoals luidend voordat dit Wijzigingsprotocol in werking is getreden van toepassing, tenzij de persoon die het pensioen, de beloning, lijfrente of socialezekerheidsuitkering ontvangt, kiest voor toepassing van de bepalingen van artikel 18 van de Overeenkomst zoals gewijzigd bij dit Protocol. Deze keuze dient kenbaar gemaakt te worden bij de belastingautoriteiten van beide Staten binnen twee jaar na de datum waarop dit Wijzigingsprotocol van kracht wordt en is onherroepelijk.
 
-#### IX. Ad Artikel 23
+##### IX. Ad Artikel 23
 
 Vervallen
 
-#### X. Ad Artikel 23
+##### X. Ad Artikel 23
 
 Vervallen
 
-#### XI. Ad Artikel 25
+##### XI. Ad Artikel 25
 
 Vervallen
 
-#### XII. Ad [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=VII&artikel=25&z=2013-11-30&g=2013-11-30)
+##### XII. Ad [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=VII&artikel=25&z=2013-11-30&g=2013-11-30)
 
 Voor de toepassing van [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=VII&artikel=25&z=2013-11-30&g=2013-11-30), zijn interest, royalty's en andere uitgaven, die door een onderneming van een van de Staten zijn gedaan en die kunnen worden toegerekend aan een vaste inrichting welke die onderneming in de andere Staat heeft, voor de berekening van de belastbare winst van die vaste inrichting onder dezelfde voorwaarden aftrekbaar als wanneer die vaste inrichting onder dezelfde voorwaarden aftrekbaar als wanneer die vaste inrichting een onderneming van die andere Staat zou zijn;
 
-#### XIII. Ad [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=VII&artikel=26&z=2013-11-30&g=2013-11-30)
+##### XIII. Ad [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=VII&artikel=26&z=2013-11-30&g=2013-11-30)
 
 1. De bepalingen van [artikel 26, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=VII&artikel=26&z=2013-11-30&g=2013-11-30), zijn niet van toepassing indien een standaardprijs voor aardolie is vastgesteld ingevolge de Noorse „Petroleum Tax Act”.
 
@@ -640,17 +665,17 @@ DONE at Oslo this 12th day of January 1990, in duplicate, in the Netherlands, No
 
 (sd.) JAN FLATLA
 
-#### IA. Ad [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=I&artikel=1&z=2013-11-30&g=2013-11-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=II&artikel=4&z=2013-11-30&g=2013-11-30)
+##### IA. Ad [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=I&artikel=1&z=2013-11-30&g=2013-11-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=II&artikel=4&z=2013-11-30&g=2013-11-30)
 
 1. Het is wel verstaan dat een persoon (niet zijnde een natuurlijke persoon) die een subject is in de zin van de belastingwetten (als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=I&artikel=2&z=2013-11-30&g=2013-11-30) van deze Overeenkomst) van een van de Staten, wordt geacht aan belasting te zijn onderworpen in die Staat, zelfs als alle bestanddelen van het inkomen die aan die persoon kunnen worden toegerekend van belastingheffing zijn vrijgesteld omdat die persoon voldoet aan alle in de nationale belastingwet voor de vrijstelling gestelde vereisten.
 
 2. Niettegenstaande de bepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=I&artikel=1&z=2013-11-30&g=2013-11-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=II&artikel=4&z=2013-11-30&g=2013-11-30) van de Overeenkomst en de vorenstaande bepalingen van dit artikel, stellen de bevoegde autoriteiten van de Staten in onderling overleg vast in hoeverre een inwoner van een van de Staten die is onderworpen aan een begunstigend regime, niet gerechtigd is tot de voordelen van deze Overeenkomst. Een lichaam dat wordt behandeld als een „vrijgestelde beleggingsinstelling” als bedoeld in de Nederlandse Wet op de vennootschapsbelasting 1969 is niet gerechtigd tot de voordelen van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=10&z=2013-11-30&g=2013-11-30), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=11&z=2013-11-30&g=2013-11-30), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=12&z=2013-11-30&g=2013-11-30), [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=13&z=2013-11-30&g=2013-11-30), en [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=III&artikel=21&z=2013-11-30&g=2013-11-30), van de Overeenkomst en de daarmee verband houdende artikelen van het Protocol bij de Overeenkomst.
 
-#### IB. Ad [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=I&artikel=1&z=2013-11-30&g=2013-11-30) en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=VII&artikel=26&z=2013-11-30&g=2013-11-30)
+##### IB. Ad [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=I&artikel=1&z=2013-11-30&g=2013-11-30) en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=VII&artikel=26&z=2013-11-30&g=2013-11-30)
 
 Indien vragen rijzen over de toepassing van de bepalingen van deze Overeenkomst met betrekking tot bestanddelen van het inkomen, winst of voordelen verkregen door of door tussenkomst van een persoon die fiscaal transparant is ingevolge de wetgeving van een van de Staten, stellen de bevoegde autoriteiten van de Staten in onderling overleg vast hoe dubbele belasting of dubbele vrijstelling van die bestanddelen van het inkomen, winst of voordelen wordt vermeden.
 
-#### XIV. Ad [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=VII&artikel=27&z=2013-11-30&g=2013-11-30)
+##### XIV. Ad [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=VII&artikel=27&z=2013-11-30&g=2013-11-30)
 
 1. De bepalingen van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0002712&hoofdstuk=VII&artikel=27&z=2013-11-30&g=2013-11-30) zijn van overeenkomstige toepassing op informatie die van belang is voor de uitvoering van inkomensgerelateerde voorschriften krachtens de wetgeving van een van de Staten door de autoriteiten van die Staat die belast zijn met de implementatie, toepassing of handhaving van deze inkomensgerelateerde voorschriften.
 

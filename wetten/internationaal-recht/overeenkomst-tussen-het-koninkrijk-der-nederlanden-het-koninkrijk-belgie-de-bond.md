@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden, het Koninkrijk Belgie, de Bondsrepubliek Duitsland, Spanje, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannie en Noord-Ierland betreffende het Airbus-programma"
 identifier: "BWBV0002477"
-categorie: "Internationaal recht"
-publicatiedatum: 1984-01-03
-laatste_update: 1984-01-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002477"
+country: "nl"
+rank: "verdrag"
+publication_date: "1984-01-03"
+last_updated: "1984-01-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002477"
+soort: "verdrag"
+stam_id: "10002892643"
+version_id: "10002892702"
+internal_id: "C10006979401"
+label_id: "10002879944"
+dtd_version: "2.0"
+original_entry_into_force: "1984-01-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002477/1984-01-03/0"
+intitule_bron: "Trb.1982-87"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1983-03-09"
+intitule_published: "1982-06-21"
+intitule_in_force: "1984-02-13"
+intitule_status: "goed"
+original_publication: "Trb.1982-87"
+original_signed_date: "1983-03-09"
+original_published_date: "1982-06-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1982-87"
+entry_into_force_date: "1984-01-03"
+jci_1_3: "jci1.3:c:BWBV0002477&z=1984-01-03&g=1984-01-03"
+jci_1_0: "1.0:c:BWBV0002477&g=1984-01-03"
+citeertitel_status: "officieel"
+signed_date: "1983-03-09"
+entry_into_force: "1984-01-03"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden, het Koninkrijk Belgie, de Bondsrepubliek Duitsland, Spanje, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannie en Noord-Ierland betreffende het Airbus-programma
 
 De Regeringen van het Koninkrijk België, de Bondsrepubliek Duitsland, Spanje, de Franse Republiek, het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
@@ -22,13 +47,13 @@ In overeenstemming met de hoofdlijnen van de Overeenkomst, open gesteld voor ond
 
 Zijn de volgende Overeenkomst aangegaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De bepalingen van de Overeenkomsten van 1969 en 1971 (zoals geamendeerd door de bepalingen van de Overeenkomst van 1981) en de bepalingen van de Overeenkomst van 1970 blijven van kracht tussen die ondertekenende Regeringen van de onderhavige Overeenkomst die tevens ondertekenende Regeringen zijn van één der bovengenoemde Overeenkomsten, voorzover deze in de betrekkingen tussen de ondertekenende Regeringen van deze Overeenkomst niet zijn geamendeerd of vervangen door de bepalingen van de onderhavige Overeenkomst.
 
 2. De Regering van het Koninkrijk België en de Regering van het Koninkrijk der Nederlanden aanvaarden de bepalingen van de artikelen 2, 3, 4, 6, 7, 8, 9, artikel 10, lid 1 en Bijlagen 1, 2 en 3 van de Overeenkomst van 1981, voorzover deze in de betrekkingen tussen de ondertekenende Regeringen van deze Overeenkomst niet zijn geamendeerd of vervangen door de bepalingen van de onderhavige Overeenkomst.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Regering van het Koninkrijk der Nederlanden blijft vertegenwoordigd in de Intergouvernementele Commissie en de Uitvoerende Commissie.
 
@@ -50,15 +75,15 @@ Indien de stopzetting van één van de beide A300 en A310 programma's zou worden
 
 4. De vertegenwoordigers van de Regering van het Koninkrijk België en van de Regering van het Koninkrijk der Nederlanden zullen, evenals de vertegenwoordigers van de andere ondertekenende Regeringen in de Intergouvernementele Commissie, bij het nemen van beslissingen, zich er voor inzetten het welslagen van het Airbus-programma te bevorderen.
 
-#### Artikel 3
+##### Artikel 3
 
 Met betrekking tot de bepalingen van de artikelen 2, 3, 4, 6, 7, 8, 9 en artikel 10, lid 1 van de Overeenkomst van 1981, zullen Belairbus en Fokker beschouwd worden als Partners voor wat betreft de ontwikkeling van het Airbus-programma. Met betrekking tot het A310 programma, zal Airbus Industrie met deze industrieën contracten sluiten die de bepalingen zullen behelzen vervat in artikel 3, lid 3 van de Overeenkomst van 1981.
 
-#### Artikel 4
+##### Artikel 4
 
 Tenzij anders wordt besloten in elk afzonderlijk geval door de Intergouvernementele Commissie en met inachtneming van artikel 2, lid 3 van deze Overeenkomst, zal de serieproduktie van die cascodelen van de A310, waarvoor de ontwikkelingswerkzaamheden, overeenkomstig artikel 6 en Bijlage 3 van de Overeenkomst van 1981, zijn toegewezen aan de Belgische respectievelijk de Nederlandse industrie, de verantwoordelijkheid zijn van elk van beide industrieën.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Zodra Belairbus en Fokker, beschouwd als Partners van Airbus Industrie voor wat betreft de ontwikkeling van de A310, op zich genomen zullen hebben hun deel in de ontwikkelingswerkzaamheden omschreven in Bijlage 3 van de Overeenkomst van 1981 uit te voeren en hun deel, als omschreven in lid 2 van dit artikel, van de uitgaven voor niet toewijsbare ontwikkelingswerkzaamheden te voldoen, zullen de Regering van het Koninkrijk België en de Regering van het Koninkrijk der Nederlanden geacht worden op zich genomen te hebben, ieder voor haar eigen deel, ter beschikking te stellen de hiernagenoemde bedragen, gebaseerd op het loon- en prijspeil van januari 1978 voor de kosten van de ontwikkelingswerkzaamheden:
 
@@ -80,7 +105,7 @@ Tenzij anders wordt besloten in elk afzonderlijk geval door de Intergouvernement
 
 4. De bedragen betrekking hebbende op het Koninkrijk der Nederlanden omvatten de kosten voor werkzaamheden uitgevoerd gedurende de inleidende fase van de ontwikkeling van de A310, in overeenstemming met de bepalingen van de Raam-Overeenkomst, op 6 december 1977 door het Uitvoerend Orgaan van Airbus Industrie ter kennis gebracht.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Deze Overeenkomst is opengesteld voor ondertekening te Brussel vanaf 1 maart 1982 tot 31 maart 1982.
 

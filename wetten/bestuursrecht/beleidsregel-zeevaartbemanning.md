@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel zeevaartbemanning"
 identifier: "BWBR0027643"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-05-16
-laatste_update: 2010-05-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027643"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2010-05-16"
+last_updated: "2010-05-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027643"
+soort: "beleidsregel"
+stam_id: "10523443"
+version_id: "17342982"
+internal_id: "C23933431"
+label_id: "10498344"
+dtd_version: "2.0"
+original_entry_into_force: "2010-05-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027643/2010-05-16/0"
+intitule_bron: "Stcrt.2010-7205"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-05-04"
+intitule_published: "2010-05-14"
+intitule_in_force: "2010-05-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-7205"
+original_signed_date: "2010-05-04"
+original_published_date: "2010-05-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-7205"
+entry_into_force_date: "2010-05-16"
+jci_1_3: "jci1.3:c:BWBR0027643&z=2010-05-16&g=2010-05-16"
+jci_1_0: "1.0:c:BWBR0027643&g=2010-05-16"
+citeertitel_status: "officieel"
+signed_date: "2010-05-04"
+entry_into_force: "2010-05-16"
 ---
-
 # Beleidsregel zeevaartbemanning
 
 Gelet op [artikel 4:81, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1. Toepassing van resoluties en circulaires uitgegeven door de Internationale Maritieme organisatie (IMO)
+##### Artikel 1. Toepassing van resoluties en circulaires uitgegeven door de Internationale Maritieme organisatie (IMO)
 
 Bij de toepassing van de krachtens de [Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124) geldende voorschriften uit het SOLAS-verdrag1Het op 1 november 1974 te Londen totstandgekomen verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen. en het STCW-verdrag2Het op 7 juli 1978 te Londen tot stand gekomen Internationale Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, het STCW-verdrag ( Trb 1981, 144). en de daarbij behorende codes en verplichte resoluties, worden de nadere invullingen, interpretaties en aanbevelingen gehanteerd zoals vervat in de in onderstaande tabel 1 genoemde resoluties en circulaires van de Internationale Maritieme Organisatie.
 
@@ -24,7 +49,7 @@ Bij de toepassing van de krachtens de [Zeevaartbemanningswet](https://wetten.ove
 | STCW.7/Circ.15 | DATA REQUIRED TO BE INCLUDED IN DOCUMENTARY EVIDENCE OF TRAINING LEADING TO THE AWARD OF A CERTIFICATE OF COMPETENCY |   | **Erkenningsregeling opleidingen Zeevaartbemanning art. 2, lid 3, sub e** |
 | STCW.7/Circ.13 | ISSUES TO BE CONSIDERED WHEN INTEGRATING COMPUTER-BASED TECHNOLOGIES INTO THE TRAINING AND ASSESSMENT OF SEAFARERS |   | **Erkenningsregeling opleidingen Zeevaartbemanning artikel 4** |
 
-#### Artikel 2. Afgifte monsterboekjes
+##### Artikel 2. Afgifte monsterboekjes
 
 De inspecteur-generaal Verkeer en Waterstaat verstrekt op grond van [artikel 97, tweede lid, onderdeel d, van het Besluit zeevaartbemanning handelsvaart en zeilvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=97) slechts aan personen behorende tot de onderstaande beroepsgroepen een monsterboekje, mits zij kunnen aantonen dat zij het monsterboekje nodig hebben ten behoeve van de uitoefening van hun beroep aan boord van een schip tijdens zeereizen.
 
@@ -48,11 +73,11 @@ De inspecteur-generaal Verkeer en Waterstaat verstrekt op grond van [artikel 97,
 
 - 10. **Ambtenaren belast met toezichthoudende en handhavende taken aan boord van zeeschepen** Het gaat hierbij om ambtenaren in dienst van het rijk, provincie of gemeente. Te denken valt aan ambtenaren van de Inspectie Verkeer en Waterstaat, de Douane, het Korps landelijke politiediensten, Rijkswaterstaat en de Koninklijke Marechaussee en Zeehavenpolitie. Bij het verzoek om afgifte van een monsterboekje overlegt de aanvrager een werkgeversverklaring waaruit blijkt dat hij toezichthoudende en handhavende taken aan boord van zeeschepen gaat verrichten.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel zeevaartbemanning.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

@@ -1,42 +1,68 @@
 ---
-title: "Regeling brandveilig gebruik en basishulpverlening overige plaatsen 2018"
+title: "Regeling van de Minister van Justitie en Veiligheid, van 7 maart 2018, nr. 2213478, houdende nadere regels over de toepassing van in het Besluit brandveilig gebruik en basishulpverlening overige plaatsen genoemde normen, en over de in dat besluit voorgeschreven indiening van een gebruiksmelding (Regeling brandveilig gebruik en basishulpverlening overige plaatsen 2018)"
 identifier: "BWBR0040761"
-categorie: "Overig"
-publicatiedatum: 2018-04-01
-laatste_update: 2018-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040761"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-04-01"
+last_updated: "2018-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040761"
+soort: "ministeriele-regeling"
+stam_id: "14577073"
+version_id: "24951812"
+internal_id: "C35681391"
+label_id: "14530764"
+dtd_version: "2.0"
+original_entry_into_force: "2018-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040761/2018-04-01/0"
+intitule_bron: "Stcrt.2018-14441"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-03-07"
+intitule_published: "2018-03-23"
+intitule_in_force: "2018-03-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-14441"
+original_signed_date: "2018-03-07"
+original_published_date: "2018-03-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-14441"
+entry_into_force_date: "2018-04-01"
+jci_1_3: "jci1.3:c:BWBR0040761&z=2018-04-01&g=2018-04-01"
+jci_1_0: "1.0:c:BWBR0040761&g=2018-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling brandveilig gebruik en basishulpverlening overige plaatsen 2018"
+signed_date: "2018-03-07"
+entry_into_force: "2018-04-01"
 ---
-
 # Regeling van de Minister van Justitie en Veiligheid, van 7 maart 2018, nr. 2213478, houdende nadere regels over de toepassing van in het Besluit brandveilig gebruik en basishulpverlening overige plaatsen genoemde normen, en over de in dat besluit voorgeschreven indiening van een gebruiksmelding (Regeling brandveilig gebruik en basishulpverlening overige plaatsen 2018)
 
 Gelet op de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&artikel=1.5) en [2.2, tweede en vijfde lid, van het Besluit brandveilig gebruik en basishulpverlening overige plaatsen](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&artikel=2.2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Waar in het [Besluit brandveilig gebruik en basishulpverlening overige plaatsen](https://wetten.overheid.nl/jci1.3:c:BWBR0040068) wordt verwezen naar NEN, NEN-EN, NEN-EN-ISO, NEN-NPR 2577 of PGS, is daarvan de versie van toepassing die is vermeld in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0040761&bijlage=I&z=2018-04-01&g=2018-04-01).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het model van het formulier, bedoeld in [artikel 2.2, tweede lid, van het Besluit brandveilig gebruik en basishulpverlening overige plaatsen](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&artikel=2.2), is opgenomen in de bij deze regeling behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0040761&bijlage=II&z=2018-04-01&g=2018-04-01).
 
 2. De gemeente is bevoegd de inhoud van de onderdelen A en D op een andere wijze schriftelijk kenbaar te laten maken dan met toepassing van het model van het formulier, bedoeld in het eerste lid, mits het verband tussen deze kenbaarstelling en de betreffende gebruiksmelding op het formulier onmiskenbaar vast staat.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien voor het eenmalig gebruik van een plaats een gebruiksmelding als bedoeld in [artikel 2.1 van het Besluit brandveilig gebruik en basishulpverlening overige plaatsen](https://wetten.overheid.nl/jci1.3:c:BWBR0040068&artikel=2.1) is ingediend, en tussen indiening en gebruik [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0040761&bijlage=I&z=2018-04-01&g=2018-04-01) wordt gewijzigd, is op dat gebruik de versie van de norm van toepassing die op het moment van indiening is vermeld in bijlage I, tenzij indiener en gemeente overeenkomen de versie van de norm toe te passen die is vermeld in de gewijzigde bijlage.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van 1 april 2018.
 
-#### Artikel 5
+##### Artikel 5
 
 De [Regeling brandveilig gebruik en basishulpverlening overige plaatsen](https://wetten.overheid.nl/jci1.3:c:BWBR0040358) wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling brandveilig gebruik en basishulpverlening overige plaatsen 2018.
 

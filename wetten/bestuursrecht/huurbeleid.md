@@ -1,13 +1,37 @@
 ---
 title: "Huurbeleid"
 identifier: "BWBR0008022"
-categorie: "Bestuursrecht"
-publicatiedatum: 1996-07-01
-laatste_update: 1996-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008022"
+country: "nl"
+rank: "circulaire"
+publication_date: "1996-07-01"
+last_updated: "1996-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008022"
+soort: "circulaire"
+stam_id: "6346233"
+version_id: "11002162"
+internal_id: "C14895001"
+label_id: "6335104"
+original_entry_into_force: "1996-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008022/1996-07-01/0"
+intitule_bron: "Stcrt.1996-85"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-05-01"
+intitule_published: "1996-05-03"
+intitule_in_force: "1996-05-03"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-85"
+original_signed_date: "1996-05-01"
+original_published_date: "1996-05-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1996-85-p21-SC5850"
+entry_into_force_date: "1996-07-01"
+jci_1_3: "jci1.3:c:BWBR0008022&z=1996-07-01&g=1996-07-01"
+jci_1_0: "1.0:c:BWBR0008022&g=1996-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "1996-05-01"
+entry_into_force: "1996-07-01"
 ---
-
 # Huurbeleid
 
 Geacht College,

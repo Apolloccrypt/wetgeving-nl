@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering GIPS"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 november 2024, nr. 2024-0000915898, houdende regels voor het verstrekken van een specifieke uitkering voor de GrensInfoPunten (Regeling specifieke uitkering GIPS)"
 identifier: "BWBR0050475"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-07-18
-laatste_update: 2025-07-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050475"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-18"
+last_updated: "2025-07-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050475"
+soort: "ministeriele-regeling"
+stam_id: "17289043"
+version_id: "30449862"
+internal_id: "C43661901"
+label_id: "17193164"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050475/2025-07-18/0"
+intitule_bron: "Stcrt.2024-38826"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-20"
+intitule_published: "2024-11-29"
+intitule_in_force: "2024-11-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-38826"
+original_signed_date: "2024-11-20"
+original_published_date: "2024-11-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-38826"
+entry_into_force_date: "2024-11-30"
+jci_1_3: "jci1.3:c:BWBR0050475&z=2025-07-18&g=2025-07-18"
+jci_1_0: "1.0:c:BWBR0050475&g=2025-07-18"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering GIPS"
+signed_date: "2024-11-20"
+entry_into_force: "2024-11-30"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 november 2024, nr. 2024-0000915898, houdende regels voor het verstrekken van een specifieke uitkering voor de GrensInfoPunten (Regeling specifieke uitkering GIPS)
 
 Gelet op [artikel 17, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -24,11 +50,11 @@ In deze regeling wordt verstaan onder:
 
 - **Rijksontvangers:** de colleges van GedeputeerdeStaten van de provincies Drenthe, Overijssel, Gelderland en Limburg en het college van burgemeester en wethouders van de gemeenten Goes, Eindhoven, Baarle-Nassau en Bergen op Zoom.
 
-#### Artikel 2. De specifieke uitkering
+##### Artikel 2. De specifieke uitkering
 
 De Minister verstrekt een specifieke uitkering aan de Rijksontvangers ten behoeve van de financiering van de GrensInfoPunten.
 
-#### Artikel 3. Hoogte en verdeling specifieke uitkering aan de Rijksontvanger
+##### Artikel 3. Hoogte en verdeling specifieke uitkering aan de Rijksontvanger
 
 1. Voor de specifieke uitkering is per kalenderjaar een bedrag van in totaal € 1.558.809,– inclusief BTW, beschikbaar.
 
@@ -36,17 +62,17 @@ De Minister verstrekt een specifieke uitkering aan de Rijksontvangers ten behoev
 
 3. De wijze van betaling aan de Rijksontvanger wordt opgenomen in de toekenningsbeschikking.
 
-#### Artikel 4. Verplichtingen Rijksontvanger
+##### Artikel 4. Verplichtingen Rijksontvanger
 
 1. De Rijksontvanger draagt zorg voor de uitbetaling van het bedrag, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050475&artikel=3&z=2025-07-18&g=2025-07-18), aan de onder hem ressorterende GrensInfoPunten.
 
 2. De Rijksontvanger kan geen aanvullende inhoudelijke eisen aan de uitbetaling van de Rijksbijdrage verbinden.
 
-#### Artikel 5. Reserveringsregeling
+##### Artikel 5. Reserveringsregeling
 
 Indien in een kalenderjaar de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050475&artikel=2&z=2025-07-18&g=2025-07-18), niet volledig is besteed, kan de Rijksontvanger het niet bestede bedrag tot maximaal 100% van de toekende uitkering (in dat kalenderjaar) reserveren voor besteding als bedoeld in artikel 2, in het daaropvolgende kalenderjaar.
 
-#### Artikel 6. Verantwoording en vaststelling
+##### Artikel 6. Verantwoording en vaststelling
 
 1. De Rijksontvanger legt jaarlijks verantwoording af over de besteding van de specifieke uitkering op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -66,11 +92,11 @@ Indien in een kalenderjaar de uitkering, bedoeld in [artikel 2](https://wetten.o
 
 9. Indien de verantwoordingsinformatie, bedoeld in het eerste lid, niet binnen achttien maanden na het kalenderjaar waarop deze betrekking heeft door de Minister van Binnenlandse Zaken en Koninkrijksrelaties is ontvangen, stelt de Minister de specifieke uitkering ambtshalve vast.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2024.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering GIPS.
 

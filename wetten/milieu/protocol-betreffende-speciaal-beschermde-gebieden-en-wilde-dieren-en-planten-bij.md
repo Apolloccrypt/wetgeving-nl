@@ -1,13 +1,38 @@
 ---
 title: "Protocol betreffende speciaal beschermde gebieden en wilde dieren en planten bij het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied"
 identifier: "BWBV0002961"
-categorie: "Milieu"
-publicatiedatum: 2015-03-09
-laatste_update: 2015-03-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002961"
+country: "nl"
+rank: "verdrag"
+publication_date: "2015-03-09"
+last_updated: "2015-03-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002961"
+soort: "verdrag"
+stam_id: "10003278803"
+version_id: "10003301362"
+internal_id: "C10006985411"
+label_id: "10003265154"
+dtd_version: "2.0"
+original_entry_into_force: "2000-06-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002961/2015-03-09/0"
+intitule_bron: "Trb.1990-115"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-11-19"
+intitule_published: "1990-08-03"
+intitule_in_force: "2002-08-22"
+intitule_status: "goed"
+original_publication: "Trb.1990-115"
+original_signed_date: "1991-11-19"
+original_published_date: "1990-08-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1990-115"
+entry_into_force_date: "2000-06-17"
+jci_1_3: "jci1.3:c:BWBV0002961&z=2015-03-09&g=2015-03-09"
+jci_1_0: "1.0:c:BWBV0002961&g=2015-03-09"
+citeertitel_status: "officieel"
+signed_date: "1991-11-19"
+entry_into_force: "2000-06-17"
 ---
-
 # Protocol betreffende speciaal beschermde gebieden en wilde dieren en planten bij het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied
 
 De Verdragsluitende Partijen bij dit Protocol,
@@ -32,7 +57,7 @@ Erkennende dat de instelling en het beheer van zulke beschermde gebieden en de b
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Protocol wordt verstaan onder
 
@@ -68,7 +93,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder
 
 - l. „Bijlage III”: de bijlage bij dit Protocol die de overeengekomen lijst van in zee- en kustgebieden voorkomende dier- en plantesoorten bevat die op verstandige en verantwoorde wijze kunnen worden benut en die de in [artikel 11, eerste lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2015-03-09&g=2015-03-09), aangegeven beschermingsmaatregelen behoeven. De Bijlage mag op het land voorkomende soorten omvatten als bepaald in artikel 1, letter c, punt ii.
 
-#### Artikel 2. Algemene bepalingen
+##### Artikel 2. Algemene bepalingen
 
 1. Dit Protocol is van toepassing op het Caribisch gebied zoals omschreven in [artikel 1, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=1&z=2015-03-09&g=2015-03-09).
 
@@ -76,7 +101,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder
 
 3. Dit Protocol is niet van toepassing op oorlogsschepen en andere schepen in eigendom van of geëxploiteerd door een Staat wanneer deze worden gebruikt in dienst van de overheid voor andere dan handelsdoeleinden. Niettemin zien alle Partijen erop toe, door middel van de aanneming van passende maatregelen die de exploitatie of de exploitatiemogelijkheden van schepen die zij in eigendom hebben of exploiteren niet in de weg staan, dat deze schepen zich houden aan de bepalingen van dit Protocol, voor zover zulks redelijk en haalbaar is.
 
-#### Artikel 3. Algemene verplichtingen
+##### Artikel 3. Algemene verplichtingen
 
 1. Elke Partij bij dit Protocol neemt, in overeenstemming met haar wetten en voorschriften en de bepalingen van dit Protocol, de nodige maatregelen ten einde in gebieden in het Caribisch gebied waarin zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent op verantwoorde wijze te beschermen, in stand te houden en te beheren:
 
@@ -88,7 +113,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder
 
 3. Elke Partij beheert, voor zover mogelijk, in overeenstemming met haar rechtsstelsel, dier- en plantesoorten met het doel te voorkomen dat zij uitstervende of bedreigde soorten worden.
 
-#### Artikel 4. Instelling van beschermde gebieden
+##### Artikel 4. Instelling van beschermde gebieden
 
 1. Elke Partij stelt, wanneer nodig, in de gebieden waarover zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent beschermde gebieden in, ten einde de natuurlijke rijkdommen van het Caribisch gebied in stand te houden en ecologisch verantwoord en gepast gebruik, begrip en genot van deze gebieden aan te moedigen, in overeenstemming met de doelstellingen en kenmerken van elk daarvan.
 
@@ -102,7 +127,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder
 
 - d. gebieden van bijzondere biologische, ecologische, educatieve, wetenschappelijke, historische, culturele, recreatieve, archeologische, esthetische of economische waarde, met inbegrip van met name gebieden waarvan de ecologische en biologische processen essentieel zijn voor het functioneren van de ecosystemen in het Caribisch gebied.
 
-#### Artikel 5. Beschermingsmaatregelen
+##### Artikel 5. Beschermingsmaatregelen
 
 1. Elke Partij neemt, rekening houdend met de kenmerken van elk beschermd gebied waarover zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent, in overeenstemming met haar nationale wetten en voorschriften en met het internationale recht, geleidelijk de maatregelen die noodzakelijk en uitvoerbaar zijn om de doelstellingen waarvoor het beschermde gebied werd ingesteld te verwezenlijken.
 
@@ -134,7 +159,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder
 
 - m. andere maatregelen gericht op het behoud, de bescherming of het herstel van natuurlijke processen, ecosystemen of populaties waarvoor het beschermde gebied werd ingesteld.
 
-#### Artikel 6. Plannings- en beheersregels voor beschermde gebieden
+##### Artikel 6. Plannings- en beheersregels voor beschermde gebieden
 
 1. Ten einde de voordelen van beschermde gebieden optimaal te benutten en de daadwerkelijke uitvoering van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=5&z=2015-03-09&g=2015-03-09) uiteengezette maatregelen te waarborgen, neemt elke Partij voor beschermde gebieden waarover zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent, plannings-, beheers- en uitvoeringsmaatregelen en past deze toe. Daarbij houdt elke Partij rekening met de door de Wetenschappelijke en Technische Raadgevende Commissie vastgestelde richtlijnen en criteria, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2015-03-09&g=2015-03-09), die zijn aangenomen op de vergaderingen van de Partijen.
 
@@ -158,7 +183,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder
 
 - i. het vormen van bekwaam leidinggevend en technisch personeel en het ontwikkelen van een passende infrastructuur.
 
-#### Artikel 7. Samenwerkingsprogramma voor en opstelling van een lijst van beschermde gebieden
+##### Artikel 7. Samenwerkingsprogramma voor en opstelling van een lijst van beschermde gebieden
 
 1. De Partijen brengen samenwerkingsprogramma's tot stand binnen het kader van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) en het Actieplan en in overeenstemming met hun soevereiniteit, soevereine rechten of rechtsmacht, ter bevordering van de doelstellingen van dit Protocol.
 
@@ -180,11 +205,11 @@ Daartoe stellen de Partijen een lijst van beschermde gebieden op. De Partijen:
 
 - b. Nadat de Wetenschappelijke en Technische Raadgevende Commissie de voordracht en de tot staving dienende stukken heeft beoordeeld, brengt zij de Organisatie ervan op de hoogte of aan de uit hoofde van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2015-03-09&g=2015-03-09) vastgestelde richtlijnen en criteria is voldaan. Indien aan deze richtlijnen en criteria is voldaan brengt de Organisatie de Vergadering van Verdragsluitende Partijen op de hoogte, die het voorgedragen gebied in de lijst van beschermde gebieden opneemt.
 
-#### Artikel 8. Instelling van bufferzones
+##### Artikel 8. Instelling van bufferzones
 
 Elke Partij bij dit Protocol kan, indien noodzakelijk, de bescherming van een beschermd gebied versterken door in de gebieden waarin zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent één of meer bufferzones in te stellen waarin activiteiten aan minder beperkingen zijn gebonden dan in het beschermde gebied, zolang deze verenigbaar blijven met de verwezenlijking van de doelstellingen van het beschermde gebied.
 
-#### Artikel 9. Beschermde gebieden en bufferzones langs internationale grenzen
+##### Artikel 9. Beschermde gebieden en bufferzones langs internationale grenzen
 
 1. Indien een Partij voornemens is een beschermd gebied of een bufferzone in te stellen langs de landsgrens of de grenzen van het nationale rechtsgebied van een andere Partij, plegen beide Partijen met elkander overleg ten einde overeenstemming te bereiken over de te nemen maatregelen en bestuderen zij, onder andere, de mogelijkheid dat de andere Partij een overeenkomstig aangrenzend beschermd gebied of een bufferzone instelt of andere passende maatregelen aanneemt, waaronder op samenwerking gerichte beheersprogramma's.
 
@@ -194,7 +219,7 @@ Elke Partij bij dit Protocol kan, indien noodzakelijk, de bescherming van een be
 
 4. Indien aangrenzende beschermde gebieden en/of bufferzones worden ingesteld door een Partij en een Staat die geen Partij bij dit Protocol is, tracht de Partij, indien mogelijk, overeenstemming te bereiken met de bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) en de protocollen daarbij.
 
-#### Artikel 10. Nationale maatregelen ter bescherming van wilde dier- en plantesoorten
+##### Artikel 10. Nationale maatregelen ter bescherming van wilde dier- en plantesoorten
 
 1. Elke Partij stelt in de gebieden waarover zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent vast welke dier- en plantesoorten uitstervende of bedreigde soorten zijn en kent deze soorten een beschermde status toe. Elke Partij reguleert en verbiedt overeenkomstig haar wetten en voorschriften, indien van toepassing, activiteiten die schadelijke gevolgen hebben voor deze soorten of hun leefmilieus en ecosystemen, en voert maatregelen tot herstel, beheer en planning van de soort en andere maatregelen uit om het voortbestaan van deze soorten te bewerkstelligen. Elke Partij neemt, in overeenstemming met haar rechtsstelsel, tevens passende maatregelen om te voorkomen dat soorten uitstervende of bedreigde soorten worden.
 
@@ -216,7 +241,7 @@ Elke Partij bij dit Protocol kan, indien noodzakelijk, de bescherming van een be
 
 8. De maatregelen die Partijen nemen uit hoofde van dit artikel zijn ondergeschikt aan hun verplichtingen uit hoofde van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2015-03-09&g=2015-03-09) en mogen geenszins afbreuk doen aan die verplichtingen.
 
-#### Artikel 11. Gemeenschappelijke maatregelen voor de bescherming van wilde dier- en plantesoorten
+##### Artikel 11. Gemeenschappelijke maatregelen voor de bescherming van wilde dier- en plantesoorten
 
 1. De Partijen nemen gemeenschappelijke maatregelen aan ten behoeve van de bescherming en het herstel van uitstervende of bedreigde dier- en plantesoorten opgenomen in de lijsten in de Bijlagen I, II en III bij dit Protocol.
 
@@ -264,17 +289,17 @@ Elke Partij bij dit Protocol kan, indien noodzakelijk, de bescherming van een be
 
 5. De Partijen stellen samenwerkingsprogramma's op in het kader van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) en het Actieplan ten behoeve van het beheer en het behoud van beschermde soorten en ontwikkelen regionale herstelprogramma's voor beschermde soorten in het Caribisch gebied, en voeren deze uit, ten volle rekening houdend met andere bestaande regionale maatregelen tot behoud die voor het beheer van die soorten van belang zijn. De Organisatie verleent bijstand bij de opstelling en uitvoering van deze regionale herstelprogramma's.
 
-#### Artikel 12. Uitzetting van niet-inheemse of genetisch gewijzigde soorten
+##### Artikel 12. Uitzetting van niet-inheemse of genetisch gewijzigde soorten
 
 Elke Partij neemt alle passende maatregelen om de opzettelijke of ongewenste uitzetting in het wild van niet-inheemse of genetisch gewijzigde soorten die voor natuurlijke dier- en plantesoorten en andere kenmerken van het Caribisch gebied schadelijke gevolgen kan hebben, te reguleren of te verbieden.
 
-#### Artikel 13. Evaluatie van milieu-effecten
+##### Artikel 13. Evaluatie van milieu-effecten
 
 1. Inde planningsprocessen die leiden tot beslissingen over industriële en andere projecten en activiteiten die negatieve milieu-effecten en ingrijpende gevolgen kunnen hebben voor gebieden of soorten waaraan bijzondere bescherming is toegekend krachtens dit Protocol, evalueert elke Partij de mogelijke directe en indirecte effecten, met inbegrip van de cumulatieve effecten van de beoogde projecten en activiteiten, en neemt zij deze in aanmerking.
 
 2. De Organisatie en de Wetenschappelijke en Technische Raadgevende Commissie geven, voor zover mogelijk, op verzoek raad en verlenen bijstand aan een Partij bij bedoelde evaluaties.
 
-#### Artikel 14. Vrijstellingen voor traditionele activiteiten
+##### Artikel 14. Vrijstellingen voor traditionele activiteiten
 
 1. Elke Partij houdt bij het opstellen van beheers- en beschermingsmaatregelen rekening met en voorziet in vrijstellingen, indien nodig, om tegemoet te komen aan de traditionele bestaansmogelijkheden en culturele behoeften van de plaatselijke bevolking. Voor zover zulks enigszins mogelijk is, mag geen enkele vrijstelling die om deze reden is verleend van zodanige aard zijn dat zij:
 
@@ -284,19 +309,19 @@ Elke Partij neemt alle passende maatregelen om de opzettelijke of ongewenste uit
 
 2. Partijen die vrijstellingen verlenen met betrekking tot beschermingsmaatregelen stellen de Organisatie daarvan in kennis.
 
-#### Artikel 15. Wijzigingen in de status van beschermde gebieden of beschermde soorten
+##### Artikel 15. Wijzigingen in de status van beschermde gebieden of beschermde soorten
 
 1. Wijzigingen in de afbakening of wettelijke status van een gebied, of een gedeelte daarvan, of van een beschermde soort kunnen slechts plaatsvinden om belangrijke redenen, de noodzaak het milieu te beschermen in aanmerking nemend en in overeenstemming met de bepalingen van dit Protocol, na kennisgeving aan de Organisatie.
 
 2. De status van gebieden en soorten dient periodiek te worden bezien en beoordeeld door de Wetenschappelijke en Technische Raadgevende Commissie op basis van de door de Partijen via de Organisatie verstrekte gegevens. Gebieden en soorten kunnen uit de lijsten van gebieden of de bijlagen bij dit Protocol worden verwijderd op dezelfde wijze als waarop zij daarin werden opgenomen.
 
-#### Artikel 16. Openbaarheid, voorlichting, publiek bewustzijn en vorming
+##### Artikel 16. Openbaarheid, voorlichting, publiek bewustzijn en vorming
 
 1. Elke Partij geeft passende openbaarheid aan de instelling van beschermde gebieden, in het bijzonder hun grenzen, bufferzones en toepasselijke regelingen, alsmede aan de aanwijzing van beschermde soorten, in het bijzonder hun essentiële leefmilieus en de toepasselijke regelingen.
 
 2. Ten einde publiek bewustzijn te kweken tracht elke Partij het publiek zo ruim mogelijk voor te lichten over de betekenis en de waarde van de beschermde gebieden en soorten en over de wetenschappelijke kennis en andere voordelen die daaruit kunnen worden verkregen of over veranderingen daarin. Deze voorlichting dient een passende plaats te krijgen in vormingsprogramma's op het gebied van milieu en geschiedenis. Elke Partij dient er tevens naar te streven te bevorderen dat haar publiek en haar organisaties voor natuurbehoud worden betrokken bij maatregelen die nodig zijn ter bescherming van de betrokken gebieden en soorten.
 
-#### Artikel 17. Wetenschappelijk, technisch en beheergericht onderzoek
+##### Artikel 17. Wetenschappelijk, technisch en beheergericht onderzoek
 
 1. Elke Partij stimuleert en ontwikkelt wetenschappelijk, technisch en beheergericht onderzoek inzake beschermde gebieden, met inbegrip van met name de ecologische processen en het archeologisch historisch en cultureel erfgoed daarvan, alsmede inzake bedreigde of uitstervende dier- en plantesoorten en hun leefmilieus.
 
@@ -310,13 +335,13 @@ Elke Partij neemt alle passende maatregelen om de opzettelijke of ongewenste uit
 
 - b. dier- of plantesoorten die in aanmerking komen voor opneming in de lijsten van bedreigde of uitstervende soorten overeenkomstig de krachtens dit Protocol vastgestelde criteria.
 
-#### Artikel 18. Wederzijdse bijstand
+##### Artikel 18. Wederzijdse bijstand
 
 1. De Partijen werken rechtstreeks of met hulp van de Organisatie of andere daarvoor in aanmerking komende internationale organisaties samen bij het opzetten, ontwerpen, financieren en uitvoeren van programma's voor bijstand aan de Partijen die te kennen geven daaraan behoefte te hebben bij de keuze, de instelling en het beheer van beschermde gebieden en soorten.
 
 2. Deze programma's dienen algemene milieukundige vorming, de opleiding van wetenschappelijk, technisch en beherend personeel, wetenschappelijk onderzoek, alsmede de verwerving, het gebruik, het ontwerp en de ontwikkeling van passende uitrusting op gunstige door de betrokken Partijen overeen te komen voorwaarden te omvatten.
 
-#### Artikel 19. Kennisgeving en verslaglegging aan de Organisatie
+##### Artikel 19. Kennisgeving en verslaglegging aan de Organisatie
 
 1. Elke Partij doet de Organisatie periodiek verslag van:
 
@@ -360,7 +385,7 @@ Elke Partij neemt alle passende maatregelen om de opzettelijke of ongewenste uit
 
 4. De door de Partijen aan de Organisatie verstrekte verslagen worden gebruikt voor de in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=20&z=2015-03-09&g=2015-03-09) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=22&z=2015-03-09&g=2015-03-09) genoemde doeleinden.
 
-#### Artikel 20. Wetenschappelijke en Technische Raadgevende Commissie
+##### Artikel 20. Wetenschappelijke en Technische Raadgevende Commissie
 
 1. Hierbij wordt een Wetenschappelijke en Technische Raadgevende Commissie ingesteld.
 
@@ -384,7 +409,7 @@ Elke Partij neemt alle passende maatregelen om de opzettelijke of ongewenste uit
 
 4. De Commissie stelt haar eigen reglement van orde vast.
 
-#### Artikel 21. Vaststelling van gemeenschappelijke richtlijnen en criteria
+##### Artikel 21. Vaststelling van gemeenschappelijke richtlijnen en criteria
 
 1. Op hun eerste vergadering, of zo spoedig mogelijk daarna, beoordelen de Partijen en hechten zij hun goedkeuring aan door de Wetenschappelijke en Technische Raadgevende Commissie opgestelde richtlijnen en criteria, met name op het gebied van:
 
@@ -398,7 +423,7 @@ Elke Partij neemt alle passende maatregelen om de opzettelijke of ongewenste uit
 
 2. Bij de toepassing van dit Protocol houden de Partijen rekening met deze gemeenschappelijke richtlijnen en criteria; dit doet geen afbreuk aan het recht van een Partij om strengere richtlijnen en criteria aan te nemen.
 
-#### Artikel 22. Institutionele regelingen
+##### Artikel 22. Institutionele regelingen
 
 1. Elke Partij wijst een Centraal Punt aan om contacten met de Organisatie te onderhouden over de technische aspecten van de toepassing van dit Protocol.
 
@@ -436,7 +461,7 @@ Elke Partij neemt alle passende maatregelen om de opzettelijke of ongewenste uit
 
 - h. het vervullen van andere door de Partijen aan de Organisatie opgedragen taken.
 
-#### Artikel 23. Vergaderingen van de Partijen
+##### Artikel 23. Vergaderingen van de Partijen
 
 1. De gewone vergaderingen van de Partijen worden gehouden te zamen met de gewone vergaderingen van de Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733), gehouden overeenkomstig [artikel 16 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=16). De Partijen kunnen ook buitengewone vergaderingen houden in overeenstemming met artikel 16 van het Verdrag. Voor de vergaderingen geldt het reglement van orde aangenomen overeenkomstig [artikel 20 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=20).
 
@@ -460,25 +485,25 @@ Elke Partij neemt alle passende maatregelen om de opzettelijke of ongewenste uit
 
 - i. in voorkomend geval, het verrichten van andere werkzaamheden.
 
-#### Artikel 24. Fondsen
+##### Artikel 24. Fondsen
 
 Naast de door de Partijen in overeenstemming met [artikel 20, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=20) verstrekte fondsen kunnen de Partijen de Organisatie opdracht geven aanvullende fondsen te werven. Deze kunnen vrijwillige bijdragen omvatten voor met het Protocol verband houdende doelstellingen, afkomstig van Partijen, andere regeringen, overheidsinstanties, niet-gouvernementele, internationale, regionale of particuliere organisaties en personen.
 
-#### Artikel 25. Verhouding tot andere Verdragen inzake de bijzondere bescherming van wilde dieren en planten
+##### Artikel 25. Verhouding tot andere Verdragen inzake de bijzondere bescherming van wilde dieren en planten
 
 Geen enkele bepaling van dit Protocol mag zodanig worden uitgelegd dat afbreuk wordt gedaan aan de rechten en verplichtingen van Partijen uit hoofde van de [Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantesoorten](https://wetten.overheid.nl/jci1.3:c:BWBV0003833)(CITES) en het [Verdrag inzake de bescherming van trekkende wilde diersoorten](onbekend) (CMS).
 
-#### Artikel 26. Overgangsbepaling
+##### Artikel 26. Overgangsbepaling
 
 De oorspronkelijke versie van de bijlagen, die een integrerend deel van dit Protocol uitmaken, wordt door middel van consensus op een Conferentie van gevolmachtigden van de Verdragsluitende Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) aangenomen.
 
-#### Artikel 27. Inwerkingtreding
+##### Artikel 27. Inwerkingtreding
 
 1. Dit Protocol en de daarbij behorende bijlagen, nadat zij door de Verdragsluitende Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) zijn aangenomen, zullen overeenkomstig de in [artikel 28, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=28) vastgestelde procedure in werking treden.
 
 2. Het Protocol treedt eerst in werking wanneer de oorspronkelijke bijlagen in overeenstemming met [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=26&z=2015-03-09&g=2015-03-09) zijn aangenomen.
 
-#### Artikel 28. Ondertekening
+##### Artikel 28. Ondertekening
 
 Dit Protocol staat open voor ondertekening te Kingston van 18 januari tot en met 31 januari 1990 en te Bogota van 1 februari 1990 tot en met 17 januari 1991 door elke Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733).
 

@@ -1,18 +1,43 @@
 ---
 title: "Statuten Mondriaan Fonds 2026"
 identifier: "BWBR0052335"
-categorie: "Overig"
-publicatiedatum: 2026-02-20
-laatste_update: 2026-02-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052335"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-02-20"
+last_updated: "2026-02-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052335"
+soort: "zbo"
+stam_id: "17768383"
+version_id: "31414372"
+internal_id: "C44881951"
+label_id: "17666394"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052335/2026-02-20/0"
+intitule_bron: "Stcrt.2026-7151"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-10"
+intitule_published: "2026-02-20"
+intitule_in_force: "2026-02-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-7151"
+original_signed_date: "2026-02-10"
+original_published_date: "2026-02-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-7151"
+entry_into_force_date: "2026-02-20"
+jci_1_3: "jci1.3:c:BWBR0052335&z=2026-02-20&g=2026-02-20"
+jci_1_0: "1.0:c:BWBR0052335&g=2026-02-20"
+citeertitel_status: "redactioneel"
+signed_date: "2026-02-10"
+entry_into_force: "2026-02-20"
 ---
-
 # Statuten Mondriaan Fonds 2026
 
 ### Statuten
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze statuten hebben de volgende begrippen de daarachter vermelde betekenissen:
 
@@ -28,13 +53,13 @@ In deze statuten hebben de volgende begrippen de daarachter vermelde betekenisse
 
 - **'hij'** betekent tevens iedere andere genderaanduiding die door de betreffende persoon als geëigend wordt ervaren.
 
-#### Artikel 2. Naam en zetel
+##### Artikel 2. Naam en zetel
 
 1. De stichting draagt de naam: **Stichting Mondriaan Fonds, stimuleringsfonds voor beeldende kunst en cultureel erfgoed**. De verkorte naam van de stichting luidt: Mondriaan Fonds.
 
 2. Zij heeft haar zetel in de gemeente Amsterdam.
 
-#### Artikel 3. Doel en middelen
+##### Artikel 3. Doel en middelen
 
 1. De stichting heeft ten doel: het in stand houden, sociaal en geografisch spreiden of anderszins verbreiden van de vraag naar en de productie van beeldende kunst en cultureel erfgoed in het Koninkrijk der Nederlanden en uit het Koninkrijk der Nederlanden in of met andere landen, onder andere door het bevorderen van vraag en aanbod en het bevorderen van een voor de beeldende kunst en cultureel erfgoed ontvankelijk klimaat en verder al hetgeen daarmee verband houdt, of daaraan een bijdrage kan leveren, alles in de ruimste zin van het woord.
 
@@ -46,13 +71,13 @@ In deze statuten hebben de volgende begrippen de daarachter vermelde betekenisse
 
 3. De stichting beoogt niet het maken van winst.
 
-#### Artikel 4. Vermogen
+##### Artikel 4. Vermogen
 
 1. Het vermogen van de stichting wordt gevormd door bijdragen van de overheid, instellingen, particulieren en/of andere baten. Erfstellingen kunnen slechts aanvaard worden onder het voorrecht van boedelbeschrijving.
 
 2. Het vermogen van de stichting dient ter verwezenlijking van het doel.
 
-#### Artikel 5. Directie: samenstelling, benoeming en ontslag
+##### Artikel 5. Directie: samenstelling, benoeming en ontslag
 
 1. De directie van de stichting bestaat uit een door de Raad van Toezicht vast te stellen aantal van ten minste één en ten hoogste drie natuurlijke personen. Een niet-voltallige directie behoudt haar bevoegdheden. In ontstane vacatures wordt zo spoedig mogelijk voorzien.
 
@@ -82,7 +107,7 @@ In deze statuten hebben de volgende begrippen de daarachter vermelde betekenisse
 
 7. De Raad van Toezicht stelt de bezoldiging en verdere arbeidsvoorwaarden van een directielid vast met inachtneming van de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249), of een daarvoor in de plaats getreden regeling.
 
-#### Artikel 6. Directie: taak en bevoegdheden
+##### Artikel 6. Directie: taak en bevoegdheden
 
 1. De directie is belast met het besturen van de stichting en met het beheer van en de beschikking over het vermogen van de stichting binnen de grenzen van haar doel en onverminderd het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0052335&artikel=15&z=2026-02-20&g=2026-02-20), en binnen de grenzen van een door de Raad van Toezicht goed te keuren directiereglement.
 
@@ -104,7 +129,7 @@ Bij de vervulling van hun taak richt de directie zich naar het belang van de sti
 
 - d. eventuele andere plannen als van tijd tot tijd door de Raad van Toezicht te bepalen.
 
-#### Artikel 7. Directie: vertegenwoordiging
+##### Artikel 7. Directie: vertegenwoordiging
 
 1. De directie vertegenwoordigt de stichting.
 
@@ -124,7 +149,7 @@ Onder belet wordt in dit artikel in ieder geval bestaan de omstandigheid dat
 
 6. De directie is tevens bevoegd overeenkomsten aan te gaan waarbij de stichting zich als borg of hoofdelijk medeschuldenaar verbindt, zich voor een derde sterk maakt of zich tot zekerheid voor een schuld van een ander verbindt.
 
-#### Artikel 8. Directie: besluitvorming en taakverdeling
+##### Artikel 8. Directie: besluitvorming en taakverdeling
 
 1. De directie stelt een directiereglement op en legt het ter goedkeuring voor aan de Raad van Toezicht. Hierin regelt de directie haar besluitvorming, wanneer toestemming van de Raad van Toezicht vereist is en de werkwijze, waarin begrepen de informatievoorziening aan de Raad van Toezicht. In dat kader wordt bepaald met welke taak ieder directielid meer in het bijzonder zal zijn belast.
 
@@ -138,7 +163,7 @@ Een directielid neemt niet deel aan de beraadslaging en besluitvorming indien he
 
 Wanneer hierdoor geen directiebesluit kan worden genomen, wordt het besluit genomen door de Raad van Toezicht.
 
-#### Artikel 9. Goedkeuring besluiten van de directie
+##### Artikel 9. Goedkeuring besluiten van de directie
 
 1. Aan de goedkeuring van de Raad van Toezicht -welke goedkeuring behoudens in zeer spoedeisende gevallen vooraf dient te geschieden- zijn, onverminderd het elders in deze statuten bepaalde, onderworpen de navolgende besluiten van de directie:
 
@@ -176,11 +201,11 @@ Wanneer hierdoor geen directiebesluit kan worden genomen, wordt het besluit geno
 
 3. Het ontbreken van goedkeuring van de Raad van Toezicht tast, evenwel met uitzondering van het bepaalde onder a., de vertegenwoordigingsbevoegdheid van de directie of de directieleden niet aan (en kan niet aan derden worden tegengeworpen).
 
-#### Artikel 10. Verlenen van subsidie
+##### Artikel 10. Verlenen van subsidie
 
 De directie beslist over het verlenen van subsidie of andere vormen van ondersteuning met inachtneming van een of meerdere reglementen met daarin de besluitvorming, de werkwijze, de procedures, de criteria voor het verstrekken van subsidies of andere vormen van ondersteuning en de verplichtingen die aan de ontvanger worden opgelegd als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0052335&artikel=16&z=2026-02-20&g=2026-02-20).
 
-#### Artikel 11. Raad van Toezicht
+##### Artikel 11. Raad van Toezicht
 
 1. De stichting heeft een Raad van Toezicht, bestaande uit ten minste drie en ten hoogste zeven natuurlijke personen. In ontstane vacatures wordt zo spoedig mogelijk voorzien.
 
@@ -218,7 +243,7 @@ In het geval alle leden van de Raad van Toezicht komen te ontbreken treedt de di
 
 Onder belet wordt in deze statuten verstaan de mogelijkheid dat het lid van de Raad van Toezicht gedurende een periode van meer dan één (1) maand onbereikbaar is door ziekte of andere oorzaken.
 
-#### Artikel 12. Raad van Toezicht: taak en bevoegdheden en besluitvorming
+##### Artikel 12. Raad van Toezicht: taak en bevoegdheden en besluitvorming
 
 1. De Raad van Toezicht heeft tot taak toezicht te houden op het beleid van de directie en op de algemene gang van zaken in de stichting. Hij staat de directie met raad terzijde. Bij de vervulling van hun taak richten de leden van de Raad van Toezicht zich naar het belang van de stichting.
 
@@ -254,7 +279,7 @@ Wanneer hierdoor geen besluit van de Raad van Toezicht zou kunnen worden genomen
 
 13. De Raad van Toezicht stelt in een reglement regels vast omtrent de besluitvorming en werkwijze van de Raad van Toezicht, in aanvulling op hetgeen daaromtrent in deze statuten is bepaald.
 
-#### Artikel 13. Gemeenschappelijke vergadering van de directie en de leden van de Raad van Toezicht
+##### Artikel 13. Gemeenschappelijke vergadering van de directie en de leden van de Raad van Toezicht
 
 1. Ten minste één maal per jaar komen de directie en de Raad van Toezicht in gemeenschappelijke vergadering bijeen ter bespreking van de algemene lijnen van het gevoerde en in de toekomst te voeren beleid.
 
@@ -262,7 +287,7 @@ Wanneer hierdoor geen besluit van de Raad van Toezicht zou kunnen worden genomen
 
 3. Tot de bijeenroeping van een gemeenschappelijke vergadering zijn de directie en de Raad van Toezicht gelijkelijk bevoegd.
 
-#### Artikel 14. Verantwoording
+##### Artikel 14. Verantwoording
 
 1. Het boekjaar van de stichting valt samen met het kalenderjaar.
 
@@ -282,7 +307,7 @@ Wanneer hierdoor geen besluit van de Raad van Toezicht zou kunnen worden genomen
 
 9. Onverminderd het bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) gestelde, kunnen de op een gegevensdrager aangebrachte gegevens, uitgezonderd de op papier gestelde jaarrekening, op een andere gegevensdrager worden overgebracht en bewaard, mits de overbrenging geschiedt met juiste en volledige weergave der gegevens en deze gegevens gedurende de volledige bewaartijd beschikbaar zijn en binnen redelijke tijd leesbaar kunnen worden gemaakt.
 
-#### Artikel 15. Vaststelling en goedkeuring van de jaarrekening
+##### Artikel 15. Vaststelling en goedkeuring van de jaarrekening
 
 1. De directie stelt de jaarrekening vast en legt deze ter goedkeuring over aan de Raad van Toezicht.
 
@@ -290,7 +315,7 @@ Wanneer hierdoor geen besluit van de Raad van Toezicht zou kunnen worden genomen
 
 3. Na goedkeuring van de jaarrekening besluit de Raad van Toezicht omtrent het verlenen van kwijting aan de directie voor de uitoefening van hun taak, voor zover van die taakuitoefening blijkt uit de jaarrekening of uit informatie die anderszins voorafgaand aan de vaststelling van de jaarrekening aan de Raad van Toezicht is verstrekt. De reikwijdte van een verleende kwijting is onderworpen aan beperkingen op grond van de wet.
 
-#### Artikel 16. Subsidiereglementen
+##### Artikel 16. Subsidiereglementen
 
 1. Ter uitvoering van het in deze statuten bepaalde stelt de directie één of meer subsidiereglementen op waarin worden geregeld de werkwijze, de procedures en de criteria die de directie bij het beslissen op aanvragen voor bijdragen hanteert, alsmede de voorschriften die aan een toekenning van een subsidie worden verbonden.
 
@@ -302,7 +327,7 @@ Wanneer hierdoor geen besluit van de Raad van Toezicht zou kunnen worden genomen
 
 5. De directie plaatst reglementen en wijzigingen daarvan zo spoedig mogelijk na goedkeuring door de minister in de Staatscourant.
 
-#### Artikel 17. Statutenwijziging
+##### Artikel 17. Statutenwijziging
 
 1. De Raad van Toezicht is bevoegd de statuten te wijzigen, al dan niet nadat de directie daartoe een voorstel heeft gedaan. Het besluit van de Raad van Toezicht tot statutenwijziging is onderworpen aan de voorafgaande schriftelijke goedkeuring van de minister.
 
@@ -316,7 +341,7 @@ Wanneer hierdoor geen besluit van de Raad van Toezicht zou kunnen worden genomen
 
 6. De directie doet van de statutenwijziging zo spoedig mogelijk mededeling in de Staatscourant.
 
-#### Artikel 18. Ontbinding en vereffening
+##### Artikel 18. Ontbinding en vereffening
 
 1. De directie is bevoegd de stichting te ontbinden, doch niet eerder dan nadat voor dit besluit voorafgaande schriftelijke goedkeuring van de Raad van Toezicht en van de minister is ontvangen.
 

@@ -1,13 +1,37 @@
 ---
 title: "Circulaire Arbeidsvoorwaardenovereenkomst sector Rijk 2007–2010"
 identifier: "BWBR0022086"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2007-07-02
-laatste_update: 2007-07-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022086"
+country: "nl"
+rank: "circulaire"
+publication_date: "2007-07-02"
+last_updated: "2007-07-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022086"
+soort: "circulaire"
+stam_id: "9120063"
+version_id: "14607772"
+internal_id: "C19888071"
+label_id: "9099014"
+original_entry_into_force: "2007-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022086/2007-07-02/0"
+intitule_bron: "Stcrt.2007-124"
+intitule_effect: "wijziging"
+intitule_signed: "2007-06-07"
+intitule_published: "2007-07-02"
+intitule_in_force: "2007-07-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-124"
+original_signed_date: "2007-06-07"
+original_published_date: "2007-07-02"
+original_effect: "wijziging"
+original_url_id: "stcrt-2007-124-p9-SC81072"
+entry_into_force_date: "2007-07-02"
+jci_1_3: "jci1.3:c:BWBR0022086&z=2007-07-02&g=2007-07-02"
+jci_1_0: "1.0:c:BWBR0022086&g=2007-07-02"
+citeertitel_status: "redactioneel"
+signed_date: "2007-06-07"
+entry_into_force: "2007-07-02"
 ---
-
 # Circulaire Arbeidsvoorwaardenovereenkomst sector Rijk 2007–2010
 
 ### I. Inleiding

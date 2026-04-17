@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst ter uitvoering van artikel 16 van het tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden op 23 juli 2018 te Brussel gesloten Verdrag inzake politiesamenwerking"
 identifier: "BWBV0007060"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-07-15
-laatste_update: 2025-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007060"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-07-15"
+last_updated: "2025-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007060"
+soort: "verdrag"
+stam_id: "10005667033"
+version_id: "10006243922"
+internal_id: "C10010200141"
+label_id: "10005648804"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007060/2025-07-15/0"
+intitule_bron: "Trb.2024-65"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-06-13"
+intitule_in_force: "2025-07-25"
+intitule_status: "goed"
+original_publication: "Trb.2024-65"
+original_published_date: "2024-06-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2024-65"
+entry_into_force_date: "2025-07-15"
+jci_1_3: "jci1.3:c:BWBV0007060&z=2025-07-15&g=2025-07-15"
+jci_1_0: "1.0:c:BWBV0007060&g=2025-07-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-07-15"
 ---
-
 # Overeenkomst ter uitvoering van artikel 16 van het tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden op 23 juli 2018 te Brussel gesloten Verdrag inzake politiesamenwerking
 
 Het Koninkrijk België en het Koninkrijk der Nederlanden
@@ -24,11 +46,11 @@ Overwegende dat een dergelijke raadpleging omkleed dient te worden met voldoende
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 De mogelijkheden voorzien in [artikel 16 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=16) worden toegepast door het Koninkrijk België en het Koninkrijk der Nederlanden volgens de voorwaarden en modaliteiten voorzien in deze Uitvoeringsovereenkomst.
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 1. Voor de toepassing van deze Uitvoeringsovereenkomst wordt verstaan onder:
 
@@ -44,7 +66,7 @@ De mogelijkheden voorzien in [artikel 16 van het Politieverdrag](https://wetten.
 
 2. Voor het overige gelden voor deze Uitvoeringsovereenkomst eveneens de definities vastgelegd in [artikel 1 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=1).
 
-#### Artikel 3. Toegang databanken
+##### Artikel 3. Toegang databanken
 
 1. Ambtenaren die deelnemen aan een gemengde patrouille of gemeenschappelijke controle mogen de databanken van de andere Partij slechts raadplegen in het voertuig indien hen daartoe voorafgaandelijk een autorisatie op naam werd verleend.
 
@@ -60,7 +82,7 @@ De mogelijkheden voorzien in [artikel 16 van het Politieverdrag](https://wetten.
 
 7. De bevoegde diensten die een gegevensset raadpleegbaar stellen, verzekeren door technische en organisatorische maatregelen dat enkel deze gegevens raadpleegbaar zijn die een ambtenaar van een bevoegde dienst van de andere Partij op basis van deze Uitvoeringsovereenkomst mag raadplegen.
 
-#### Artikel 4. Voorwaarden voor autorisatie
+##### Artikel 4. Voorwaarden voor autorisatie
 
 Ambtenaren komen slechts in aanmerking voor een autorisatie om de gegevensset van de andere Partij te raadplegen indien zij:
 
@@ -72,7 +94,7 @@ Ambtenaren komen slechts in aanmerking voor een autorisatie om de gegevensset va
 
 - d. zijn opgeleid of geïnstrueerd voor het gebruik van de gegevensset van de bevoegde dienst van de andere Partij en de voor de raadpleging benodigde apparatuur.
 
-#### Artikel 5. Autorisatieproces
+##### Artikel 5. Autorisatieproces
 
 1. De Partijen verstrekken elkaar lijsten met de namen van hun ambtenaren voor wie ze een autorisatie als bedoeld in [artikel 16, tweede lid, van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=16) wensen te bekomen, alsook telkens de gegevens van de eenheden van de bevoegde dienst of diensten van de andere Partij met wie de respectieve ambtenaren gewoonlijk de gemengde patrouilles en gemeenschappelijke controles zullen uitvoeren, evenals alle verdere gegevens die nodig zijn om aan te tonen dat de betreffende ambtenaren voldoen aan de voorwaarden vermeld in [artikel 4, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&artikel=4&z=2025-07-15&g=2025-07-15), van deze Uitvoeringsovereenkomst. De uitwisseling van deze gegevens vindt plaats tussen de contactpunten.
 
@@ -84,11 +106,11 @@ Ambtenaren komen slechts in aanmerking voor een autorisatie om de gegevensset va
 
 5. Een account behorende bij een verleende autorisatie dat gedurende een bepaalde periode gelijk aan deze die geldt voor de eigen ambtenaren van de bevoegde dienst die de autorisatie heeft verleend niet gebruikt is, wordt technisch ongeschikt gemaakt voor gebruik. Het contactpunt van de bevoegde dienst waartoe de betrokken ambtenaar behoort, wordt hiervan onverwijld in kennis gesteld, met vermelding van de termijn waarbinnen een gemotiveerd verzoek tot reactivering van het account kan worden ingediend. Indien geen verzoek tot reactivering wordt ingediend of dit verzoek onvoldoende gemotiveerd is, wordt het account definitief verwijderd. Het contactpunt van de bevoegde dienst waartoe de betrokken ambtenaar behoort, wordt hiervan onverwijld in kennis gesteld.
 
-#### Artikel 6. Screening
+##### Artikel 6. Screening
 
 De Partijen zijn zelf verantwoordelijk voor de screening van hun ambtenaren als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&artikel=4&z=2025-07-15&g=2025-07-15) van deze Uitvoeringsovereenkomst. De Partijen aanvaarden de waarde van elkaars screening en voeren geen aanvullende eigen screening uit.
 
-#### Artikel 7. Opleidingen/instructies
+##### Artikel 7. Opleidingen/instructies
 
 De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&artikel=4&z=2025-07-15&g=2025-07-15) van deze Uitvoeringsovereenkomst bedoelde opleidingen en instructies worden verstrekt door de Partij die de autorisatie voor de toegang tot haar databanken dient te verlenen. De volgende elementen maken in elk geval deel uit van deze opleiding of instructie:
 
@@ -98,27 +120,27 @@ De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&artikel=4&z=20
 
 - c. het gebruik van de voor de raadpleging benodigde apparatuur.
 
-#### Artikel 8. Verwerkingsverantwoordelijke
+##### Artikel 8. Verwerkingsverantwoordelijke
 
 1. Het inloggen in een databank en het raadplegen van gegevens in een voertuig tijdens een gemengde patrouille of gemeenschappelijke controle vinden plaats onder de verantwoordelijkheid van de verwerkingsverantwoordelijke of -verantwoordelijken van de betreffende databank.
 
 2. Elke verdere verwerking van de geraadpleegde gegevens in een politiedatabank van de Partij wier ambtenaar de raadpleging uitvoerde, vindt plaats onder de verantwoordelijkheid van de verwerkingsverantwoordelijke of -verantwoordelijken van de databank waarin de betreffende verwerking plaatsvindt.
 
-#### Artikel 9. Raadplegingen
+##### Artikel 9. Raadplegingen
 
 Ambtenaren raadplegen tijdens gemengde patrouilles en gemeenschappelijke controles enkel de gegevensset van de andere Partij voor zover dit noodzakelijk is voor de uitvoering van de desbetreffende gemengde patrouille of gemeenschappelijke controle.
 
-#### Artikel 10. Verdere verwerking van geraadpleegde gegevens
+##### Artikel 10. Verdere verwerking van geraadpleegde gegevens
 
 De Partijen zorgen ervoor dat de bron van gegevens afkomstig van de raadpleging van een gegevensset van de andere Partij herleidbaar blijft bij de verdere verwerking ervan in de eigen politiedatabanken.
 
-#### Artikel 11. Verwerking voor andere doeleinden
+##### Artikel 11. Verwerking voor andere doeleinden
 
 1. Indien de Partijen de door raadpleging van de gegevensset van de andere Partij bekomen gegevens willen gebruiken voor een ander doel dan de uitvoering van de gemengde patrouille of gemeenschappelijke controle tijdens dewelke de raadpleging gebeurt, dient hiervoor schriftelijke toestemming te worden verkregen van de Partij die de gegevens raadpleegbaar heeft gesteld.
 
 2. De bepalingen van [artikel 10, tweede tot vierde lid, van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=10) zijn van overeenkomstige toepassing op de gegevens die geraadpleegd werden zoals voorzien in deze Uitvoeringsovereenkomst.
 
-#### Artikel 12. Monitoring
+##### Artikel 12. Monitoring
 
 1. De raadplegingen van de gegevenssets worden gelogd door de Partij die eigenaar is van de apparatuur waarmee de raadpleging wordt uitgevoerd. Deze logbestanden worden bewaard gedurende de termijn die daartoe voorzien is in de eigen nationale regelgeving.
 
@@ -136,7 +158,7 @@ De Partijen zorgen ervoor dat de bron van gegevens afkomstig van de raadpleging 
 
 8. De verwerkingsverantwoordelijke of -verantwoordelijken van de gegevensset die raadpleegbaar wordt gesteld, zoals bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007060&artikel=8&z=2025-07-15&g=2025-07-15), houden een register bij van de vastgestelde oneigenlijke raadplegingen, zoals bedoeld in het zesde en zevende lid van onderhavig artikel, dat telkens de aard van de oneigenlijke raadpleging, de aanduiding van de databank in kwestie en de genomen maatregel of maatregelen vermeldt. Deze registers worden aan de bevoegde toezichthoudende autoriteiten van beide Partijen, zoals bedoeld in artikel 41 van [Richtlijn (EU) 2016/680](32016L0680), bezorgd zodra deze daar om verzoeken.
 
-#### Artikel 13. Geschillen
+##### Artikel 13. Geschillen
 
 1. Problemen omtrent logging, verstoringen, incidenten en schendingen worden in eerste instantie onderling besproken tussen de contactpunten van de bevoegde diensten.
 
@@ -146,7 +168,7 @@ De Partijen zorgen ervoor dat de bron van gegevens afkomstig van de raadpleging 
 
 - b. Voor het Koninkrijk der Nederlanden: de korpschef, namens deze de directeur van het Politie Diensten Centrum, voor deze het Sectorhoofd Dienstverlening Partners. Voor de Koninklijke Marechaussee (KMar), de Commandant KMar, namens deze de Commandant Landelijk Tactisch Commando (LTC), voor deze het hoofd Operaties KMAR LTC.
 
-#### Artikel 14. Kosten
+##### Artikel 14. Kosten
 
 1. Elke Partij draagt de kosten die voor haar overheden uit de toepassing van deze Uitvoeringsovereenkomst voortvloeien.
 
@@ -154,11 +176,11 @@ De Partijen zorgen ervoor dat de bron van gegevens afkomstig van de raadpleging 
 
 3. In bijzondere gevallen kunnen de bevoegde diensten van de betrokken Partijen een afwijkende regeling overeenkomen.
 
-#### Artikel 15. Evaluatie
+##### Artikel 15. Evaluatie
 
 De praktische uitwerking van deze Uitvoeringsovereenkomst wordt door de Partijen geëvalueerd twee jaar na inwerkingtreding ervan en daarna minimaal na elke vijf jaar.
 
-#### Artikel 16. Slotbepalingen
+##### Artikel 16. Slotbepalingen
 
 1. De secretaris-generaal van de Benelux Unie is depositaris van deze Uitvoeringsovereenkomst.
 

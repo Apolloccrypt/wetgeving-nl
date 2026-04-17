@@ -1,13 +1,32 @@
 ---
 title: "Verdrag inzake de internationale bescherming van volwassenen"
 identifier: "BWBV0003084"
-categorie: "Internationaal recht"
-publicatiedatum: 2000-01-13
-laatste_update: 2000-01-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003084"
+country: "nl"
+rank: "verdrag"
+publication_date: "2000-01-13"
+last_updated: "2000-01-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003084"
+soort: "verdrag"
+stam_id: "10003325563"
+version_id: "10003356032"
+internal_id: "C10008429851"
+label_id: "10003311754"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003084/2000-01-13/0"
+intitule_bron: "Trb.2000-10"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2000-02-17"
+intitule_status: "nogniet"
+original_publication: "Trb.2000-10"
+original_published_date: "2000-02-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2000-10"
+jci_1_3: "jci1.3:c:BWBV0003084&z=2000-01-13&g=2000-01-13"
+jci_1_0: "1.0:c:BWBV0003084&g=2000-01-13"
+citeertitel_status: "redactioneel"
+entry_into_force: "2000-02-17"
 ---
-
 # Verdrag inzake de internationale bescherming van volwassenen
 
 De Staten die dit Verdrag hebben ondertekend,
@@ -24,7 +43,7 @@ Hebben overeenstemming bereikt over de volgende bepalingen:
 
 ### HOOFDSTUK I –. TOEPASSINGSGEBIED VAN HET VERDRAG
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit Verdrag is in internationale situaties van toepassing op de bescherming van volwassenen die vanwege een stoornis in of ontoereikendheid van hun persoonlijke vermogens niet in staat zijn hun belangen te behartigen.
 
@@ -40,13 +59,13 @@ Hebben overeenstemming bereikt over de volgende bepalingen:
 
 - e. tussen de autoriteiten van de Verdragsluitende Staten een zodanige samenwerking tot stand te brengen als noodzakelijk is voor het verwezenlijken van de doelstellingen van dit Verdrag.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de toepassing van dit Verdrag is een volwassene een persoon die de leeftijd van 18 jaar heeft bereikt.
 
 2. Het Verdrag is eveneens van toepassing op maatregelen met betrekking tot een volwassene die op het tijdstip waarop de maatregelen werden genomen, de leeftijd van 18 jaar niet had bereikt.
 
-#### Artikel 3
+##### Artikel 3
 
 De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=I&artikel=1&z=2000-01-13&g=2000-01-13) bedoelde maatregelen kunnen met name betrekking hebben op:
 
@@ -64,7 +83,7 @@ De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=I&ar
 
 - g. de machtiging tot een bijzondere interventie ter bescherming van de persoon of het vermogen van de volwassene.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het Verdrag is niet van toepassing op:
 
@@ -90,19 +109,19 @@ De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=I&ar
 
 ### HOOFDSTUK II –. BEVOEGDHEID
 
-#### Artikel 5
+##### Artikel 5
 
 1. De gerechtelijke of administratieve autoriteiten van de Verdragsluitende Staat waar de volwassene zijn gewone verblijfplaats heeft, zijn bevoegd maatregelen te nemen die strekken tot de bescherming van diens persoon of vermogen.
 
 2. In geval van verplaatsing van de gewone verblijfplaats van de volwassene naar een andere Verdragsluitende Staat, zijn de autoriteiten van de Staat van de nieuwe gewone verblijfplaats bevoegd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Ten aanzien van volwassen vluchtelingen en volwassenen die ten gevolge van onlusten die in hun land plaatsvinden naar een ander land zijn verplaatst, hebben de autoriteiten van de Verdragsluitende Staat op het grondgebied waarvan deze volwassenen ten gevolge van hun verplaatsing aanwezig zijn, de bevoegdheid bedoeld in het [eerste lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&artikel=5&z=2000-01-13&g=2000-01-13).
 
 2. Het bepaalde in het vorige lid is eveneens van toepassing op volwassenen van wie de gewone verblijfplaats niet kan worden vastgesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Behalve ten aanzien van volwassen vluchtelingen of volwassenen die ten gevolge van onlusten die in hun land plaatsvinden, naar een ander land zijn verplaatst, zijn de autoriteiten van een Verdragsluitende Staat waarvan de volwassene de nationaliteit heeft, bevoegd maatregelen te nemen ter bescherming van de persoon of het vermogen van de volwassene, indien zij van oordeel zijn dat zij beter in staat zijn de belangen van de volwassene te beoordelen, en nadat zij de autoriteiten die ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&artikel=5&z=2000-01-13&g=2000-01-13) of [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&artikel=6&z=2000-01-13&g=2000-01-13), bevoegd zijn, daarvan mededeling hebben gedaan.
 
@@ -110,7 +129,7 @@ De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=I&ar
 
 3. De maatregelen die ingevolge het eerste lid zijn genomen, houden op van kracht te zijn zodra de autoriteiten die ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&artikel=5&z=2000-01-13&g=2000-01-13), [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&artikel=6&z=2000-01-13&g=2000-01-13), of [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&artikel=8&z=2000-01-13&g=2000-01-13) bevoegd zijn, de door de omstandigheden vereiste maatregelen hebben genomen of hebben besloten dat geen maatregelen moeten worden genomen. Deze autoriteiten doen dienovereenkomstig mededeling aan de autoriteiten die de maatregelen in overeenstemming met het eerste lid hebben genomen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De autoriteiten van een Verdragsluitende Staat die ingevolge de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&artikel=5&z=2000-01-13&g=2000-01-13) of [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&artikel=6&z=2000-01-13&g=2000-01-13) bevoegd zijn, kunnen, indien zij van oordeel zijn dat zulks in het belang is van de volwassene, uit eigen beweging of op verzoek van de autoriteit van een andere Verdragsluitende Staat, de autoriteiten van een van de in het tweede lid genoemde Staten verzoeken maatregelen te nemen ter bescherming van de persoon of het vermogen van de volwassene. Het verzoek kan betrekking hebben op alle of bepaalde aspecten van deze bescherming.
 
@@ -130,11 +149,11 @@ De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=I&ar
 
 3. Indien de overeenkomstig de voorgaande leden aangewezen autoriteit haar bevoegdheid niet aanvaardt, blijven de ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&artikel=5&z=2000-01-13&g=2000-01-13) of [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&artikel=6&z=2000-01-13&g=2000-01-13) bevoegde autoriteiten van de Verdragsluitende Staat bevoegd.
 
-#### Artikel 9
+##### Artikel 9
 
 De autoriteiten van een Verdragsluitende Staat waar vermogen van de volwassene is gelegen, zijn bevoegd beschermende maatregelen te nemen ten aanzien van dat vermogen, voorzover deze maatregelen verenigbaar zijn met de maatregelen genomen door de ingevolge de [artikelen 5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&artikel=5&z=2000-01-13&g=2000-01-13) bevoegde autoriteiten.
 
-#### Artikel 10
+##### Artikel 10
 
 1. In alle spoedeisende gevallen zijn de autoriteiten van iedere Verdragsluitende Staat op het grondgebied waarvan de volwassene of het vermogen van de volwassene zich bevindt, bevoegd om alle noodzakelijke beschermende maatregelen te nemen.
 
@@ -144,29 +163,29 @@ De autoriteiten van een Verdragsluitende Staat waar vermogen van de volwassene i
 
 4. De autoriteiten die ingevolge het eerste lid maatregelen hebben genomen, doen daarvan zo mogelijk mededeling aan de autoriteiten van de Verdragsluitende Staat waar de volwassene zijn gewone verblijfplaats heeft.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Bij wijze van uitzondering zijn de autoriteiten van een Verdragsluitende Staat op het grondgebied waarvan de volwassene zich bevindt, bevoegd om ter bescherming van diens persoon tijdelijke maatregelen te nemen waarvan de territoriale werking beperkt is tot die Staat, voor zover dergelijke maatregelen verenigbaar zijn met maatregelen die reeds door de ingevolge de [artikelen 5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&artikel=5&z=2000-01-13&g=2000-01-13) bevoegde autoriteiten zijn genomen en na daarvan mededeling te hebben gedaan aan de ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&artikel=5&z=2000-01-13&g=2000-01-13) bevoegde autoriteiten.
 
 2. De ingevolge het voorgaande lid genomen maatregelen ten aanzien van een volwassene die zijn gewone verblijfplaats heeft in een Verdragsluitende Staat, houden op van kracht te zijn zodra de ingevolge de [artikelen 5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&artikel=5&z=2000-01-13&g=2000-01-13) bevoegde autoriteiten zich hebben uitgesproken over de door de omstandigheden mogelijk vereiste maatregelen.
 
-#### Artikel 12
+##### Artikel 12
 
 Onverminderd het bepaalde in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&artikel=7&z=2000-01-13&g=2000-01-13), blijven de maatregelen die met toepassing van de [artikelen 5 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&artikel=5&z=2000-01-13&g=2000-01-13) zijn genomen van kracht overeenkomstig het daarin bepaalde, ook indien een verandering in de omstandigheden de grond waarop de bevoegdheid was gebaseerd, heeft weggenomen, zolang de ingevolge het Verdrag bevoegde autoriteiten deze maatregelen niet hebben gewijzigd, vervangen of beëindigd.
 
 ### HOOFDSTUK III –. TOEPASSELIJK RECHT
 
-#### Artikel 13
+##### Artikel 13
 
 1. De autoriteiten van de Verdragsluitende Staten oefenen de bevoegdheid die hun ingevolge het bepaalde in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&z=2000-01-13&g=2000-01-13) is toegekend uit onder toepassing van hun eigen recht.
 
 2. Zij kunnen echter, voorzover de bescherming van de persoon of het vermogen van de volwassene dit vereist, bij wijze van uitzondering het recht van een andere Staat waarmee de omstandigheden nauw verband houden, toepassen of daarmee rekening houden.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien een in een Verdragsluitende Staat genomen maatregel in een andere Verdragsluitende Staat wordt uitgevoerd, wordt de wijze van uitvoering ervan beheerst door het recht van die andere Staat.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het bestaan, de omvang, de wijziging en het tenietgaan van vertegenwoordigingsbevoegdheden die zijn verleend door een volwassene, hetzij bij een overeenkomst, hetzij bij een eenzijdige rechtshandeling, teneinde te worden uitgeoefend wanneer deze volwassene niet in staat zal zijn om zijn belangen te behartigen, worden beheerst door het recht van de Staat waar de volwassene op het tijdstip van de overeenkomst of de rechtshandeling zijn gewone verblijfplaats heeft, tenzij een van de in het tweede lid genoemde rechtsstelsels uitdrukkelijk schriftelijk is aangewezen.
 
@@ -180,35 +199,35 @@ Indien een in een Verdragsluitende Staat genomen maatregel in een andere Verdrag
 
 3. De wijze waarop deze vertegenwoordigingsbevoegdheden worden uitgeoefend, wordt beheerst door het recht van de Staat waarin zij worden uitgeoefend.
 
-#### Artikel 16
+##### Artikel 16
 
 Wanneer vertegenwoordigingsbevoegdheden als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=III&artikel=15&z=2000-01-13&g=2000-01-13) niet worden uitgeoefend op een wijze die de bescherming van de persoon of het vermogen van de volwassene voldoende verzekert, kunnen zij worden ingetrokken of gewijzigd door maatregelen, genomen door een autoriteit die ingevolge het Verdrag bevoegd is. Wanneer dergelijke vertegenwoordigings-bevoegdheden worden ingetrokken of gewijzigd, dient zoveel mogelijk rekening te worden gehouden met het ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=III&artikel=15&z=2000-01-13&g=2000-01-13) aangewezen recht.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De geldigheid van een rechtshandeling, tot stand gekomen tussen een derde en een andere persoon die op grond van het recht van de Staat waar de rechtshandeling tot stand is gekomen bevoegd zou zijn als vertegenwoordiger van de volwassene op te treden, kan niet worden aangetast en de derde kan niet aansprakelijk worden gesteld op de enkele grond dat ingevolge het door de bepalingen van dit hoofdstuk aangewezen recht de ander niet bevoegd was als vertegenwoordiger van de volwassene op te treden, tenzij de derde wist of had moeten weten dat deze bevoegdheid door dit recht werd beheerst.
 
 2. Het voorgaande lid is alleen van toepassing indien de rechtshandeling tot stand is gekomen tussen personen die zich op het grondgebied van eenzelfde Staat bevinden.
 
-#### Artikel 18
+##### Artikel 18
 
 De bepalingen van dit hoofdstuk zijn van toepassing, zelfs indien het daardoor aangewezen recht het recht is van een Staat die niet een Verdragsluitende Staat is.
 
-#### Artikel 19
+##### Artikel 19
 
 In dit hoofdstuk wordt onder „recht” verstaan het in een Staat geldende recht, met uitsluiting van regels van conflictenrecht van die Staat.
 
-#### Artikel 20
+##### Artikel 20
 
 Dit hoofdstuk laat onverlet de bepalingen van het recht van de Staat waarin de volwassene dient te worden beschermd, die dwingend van toepassing zijn, ongeacht het recht dat anders van toepassing zou zijn.
 
-#### Artikel 21
+##### Artikel 21
 
 De toepassing van het door de bepalingen van dit hoofdstuk aangewezen recht kan slechts worden geweigerd indien deze toepassing kennelijk in strijd zou zijn met de openbare orde.
 
 ### HOOFDSTUK IV –. ERKENNING EN TENUITVOERLEGGING
 
-#### Artikel 22
+##### Artikel 22
 
 1. De door de autoriteiten van een Verdragsluitende Staat genomen maatregelen worden van rechtswege in alle andere Verdragsluitende Staten erkend.
 
@@ -224,15 +243,15 @@ De toepassing van het door de bepalingen van dit hoofdstuk aangewezen recht kan 
 
 - e. indien de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=V&artikel=33&z=2000-01-13&g=2000-01-13) bedoelde procedure niet in acht is genomen.
 
-#### Artikel 23
+##### Artikel 23
 
 Onverminderd [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=IV&artikel=22&z=2000-01-13&g=2000-01-13), kan iedere belanghebbende persoon de bevoegde autoriteiten van een Verdragsluitende Staat verzoeken een beslissing te nemen over de erkenning of de niet-erkenning van een in een andere Verdragsluitende Staat genomen maatregel. De procedure wordt beheerst door het recht van de aangezochte Staat.
 
-#### Artikel 24
+##### Artikel 24
 
 De autoriteit van de aangezochte Staat is gebonden aan de vaststelling van de feiten waarop de autoriteit van de Staat waar de maatregel is genomen haar bevoegdheid heeft gebaseerd.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Indien maatregelen die in een Verdragsluitende Staat zijn genomen en daar uitvoerbaar zijn, in een andere Verdragsluitende Staat ten uitvoer moeten worden gelegd, worden zij op verzoek van een belanghebbende partij in die andere Staat uitvoerbaar verklaard of voor tenuitvoerlegging geregistreerd volgens de procedure die in het recht van laatstgenoemde Staat is voorzien.
 
@@ -240,29 +259,29 @@ De autoriteit van de aangezochte Staat is gebonden aan de vaststelling van de fe
 
 3. De verklaring van uitvoerbaarheid of de registratie kan slechts op een van de in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=IV&artikel=22&z=2000-01-13&g=2000-01-13), voorziene gronden worden geweigerd.
 
-#### Artikel 26
+##### Artikel 26
 
 Behoudens de toetsing die in verband met de toepassing van de voorgaande artikelen noodzakelijk is, mag geen toetsing plaatsvinden van de gronden waarop een genomen maatregel berust.
 
-#### Artikel 27
+##### Artikel 27
 
 Maatregelen genomen in een Verdragsluitende Staat en uitvoerbaar verklaard of voor tenuitvoerlegging geregistreerd in een andere Verdragsluitende Staat, worden in laatstgenoemde Staat ten uitvoer gelegd alsof deze maatregelen door de autoriteiten van die Staat waren genomen. De tenuitvoerlegging vindt plaats overeenkomstig het recht van de aangezochte Staat binnen de door dat recht voorziene grenzen.
 
 ### HOOFDSTUK V –. SAMENWERKING
 
-#### Artikel 28
+##### Artikel 28
 
 1. Elke Verdragsluitende Staat wijst een Centrale Autoriteit aan die is belast met de naleving van de door het Verdrag aan haar opgelegde verplichtingen.
 
 2. Federale Staten, Staten waarin meer dan een rechtsstelsel geldt en Staten die autonome territoriale eenheden omvatten, staat het vrij meer dan een Centrale Autoriteit aan te wijzen en de territoriale of personele reikwijdte van hun taken aan te geven. Een Staat die meer dan een Centrale Autoriteit heeft aangewezen, wijst de Centrale Autoriteit aan waaraan alle mededelingen kunnen worden gedaan met het oog op overbrenging daarvan aan de bevoegde Centrale Autoriteit binnen deze Staat.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De Centrale Autoriteiten werken onderling samen en bevorderen de samenwerking tussen de bevoegde autoriteiten in hun Staten teneinde de doelstellingen van het Verdrag te verwezenlijken.
 
 2. Zij nemen, in verband met de toepassing van het Verdrag, passende maatregelen om informatie te verstrekken over de wetgeving van en de beschikbare diensten in hun Staat op het gebied van de bescherming van volwassenen.
 
-#### Artikel 30
+##### Artikel 30
 
 De Centrale Autoriteit van een Verdragsluitende Staat neemt, hetzij rechtstreeks, hetzij via overheidsinstanties of andere instellingen, alle passende maatregelen teneinde:
 
@@ -270,11 +289,11 @@ De Centrale Autoriteit van een Verdragsluitende Staat neemt, hetzij rechtstreeks
 
 - b. op verzoek van een bevoegde autoriteit van een andere Verdragsluitende Staat bijstand te verlenen bij het opsporen van de volwassene, indien het ernaar uitziet dat de volwassene zich op het grondgebied van de aangezochte Staat bevindt en bescherming nodig heeft.
 
-#### Artikel 31
+##### Artikel 31
 
 De bevoegde autoriteiten van een Verdragsluitende Staat kunnen, hetzij rechtstreeks, hetzij via andere instellingen, de aanwending van bemiddeling, verzoening of daarmee vergelijkbare methoden aanmoedigen teneinde minnelijke schikkingen te bewerkstelligen voor de bescherming van de persoon of het vermogen van de volwassene in de omstandigheden waarin het Verdrag van toepassing is.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Wanneer een beschermende maatregel wordt overwogen, kunnen de ingevolge het Verdrag bevoegde autoriteiten, indien de omstandigheden van de volwassene dit vereisen, elke autoriteit van een andere Verdragsluitende Staat die informatie heeft die van belang is voor de bescherming van de volwassene, verzoeken deze informatie mede te delen.
 
@@ -282,33 +301,33 @@ De bevoegde autoriteiten van een Verdragsluitende Staat kunnen, hetzij rechtstre
 
 3. De bevoegde autoriteiten van een Verdragsluitende Staat kunnen de autoriteiten van een andere Verdragsluitende Staat verzoeken bijstand te verlenen bij de uitvoering van de ingevolge dit Verdrag genomen beschermende maatregelen.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Indien een ingevolge de [artikelen 5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&artikel=5&z=2000-01-13&g=2000-01-13) bevoegde autoriteit de plaatsing van de volwassene in een instelling of op een andere plaats waar bescherming kan worden geboden overweegt, en indien deze plaatsing dient te geschieden in een andere Verdragsluitende Staat, pleegt zij eerst overleg met de Centrale Autoriteit of een andere bevoegde autoriteit van laatstgenoemde Staat. Daartoe verstrekt zij een rapport over de volwassene, vergezeld van de redenen voor de voorgestelde plaatsing.
 
 2. De beslissing over de plaatsing mag in de verzoekende Staat niet worden genomen indien de Centrale Autoriteit of een andere bevoegde autoriteit van de aangezochte Staat binnen een redelijke termijn blijk geeft van haar bezwaar.
 
-#### Artikel 34
+##### Artikel 34
 
 In alle gevallen waarin een volwassene is blootgesteld aan een ernstig gevaar, doen de bevoegde autoriteiten van de Verdragsluitende Staat waar maatregelen voor de bescherming van de volwassene zijn genomen of worden overwogen, indien hun wordt medegedeeld dat de verblijfplaats van de volwassene is overgebracht naar of dat de volwassene zich bevindt in een andere Staat, aan de autoriteiten van die andere Staat mededeling van dit gevaar en de genomen of in overweging zijnde maatregelen.
 
-#### Artikel 35
+##### Artikel 35
 
 Een autoriteit vraagt of verstrekt geen informatie ingevolge dit hoofdstuk, indien volgens haar aannemelijk is dat een dergelijke handeling de persoon of het vermogen van de volwassene in gevaar zou kunnen brengen, of een ernstige bedreiging zou vormen voor de vrijheid of het leven van een familielid van de volwassene.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Onverminderd de mogelijkheid om voor het verlenen van diensten een redelijke kostenvergoeding te vragen dragen Centrale Autoriteiten en andere overheidsinstanties van de Verdragsluitende Staten bij de toepassing van de bepalingen van dit hoofdstuk hun eigen kosten.
 
 2. Een Verdragsluitende Staat kan met een of meer andere Verdragsluitende Staten overeenkomsten sluiten inzake de onderlinge verdeling van de kosten.
 
-#### Artikel 37
+##### Artikel 37
 
 Een Verdragsluitende Staat kan met een of meer andere Verdragsluitende Staten overeenkomsten sluiten met het oog op verbetering van de toepassing van dit hoofdstuk in hun onderlinge betrekkingen. De Staten die een zodanige overeenkomst hebben gesloten, zenden een afschrift daarvan aan de depositaris van het Verdrag.
 
 ### HOOFDSTUK VI –. ALGEMENE BEPALINGEN
 
-#### Artikel 38
+##### Artikel 38
 
 1. De autoriteiten van de Verdragsluitende Staat waar een beschermende maatregel is genomen of een vertegenwoordigingsbevoegdheid is bevestigd, kunnen aan de persoon aan wie de bescherming van de persoon of het vermogen van de volwassene is toevertrouwd, op zijn verzoek, een verklaring verstrekken waarin wordt aangegeven in welke hoedanigheid die persoon kan optreden en welke bevoegdheden hem zijn verleend.
 
@@ -316,33 +335,33 @@ Een Verdragsluitende Staat kan met een of meer andere Verdragsluitende Staten ov
 
 3. Elke Verdragsluitende Staat wijst de autoriteiten aan die bevoegd zijn de verklaring op te stellen.
 
-#### Artikel 39
+##### Artikel 39
 
 Persoonlijke gegevens die op grond van het Verdrag zijn verzameld of verstrekt, mogen slechts worden gebruikt voor de doeleinden waarvoor zij zijn verzameld of verstrekt.
 
-#### Artikel 40
+##### Artikel 40
 
 De autoriteiten aan wie informatie wordt verstrekt, garanderen de vertrouwelijkheid daarvan in overeenstemming met het recht van hun Staat.
 
-#### Artikel 41
+##### Artikel 41
 
 Alle ingevolge dit Verdrag verzonden of afgegeven bescheiden zijn vrijgesteld van legalisatie of enige andere soortgelijke formaliteit.
 
-#### Artikel 42
+##### Artikel 42
 
 Elke Verdragsluitende Staat kan de autoriteiten aanwijzen tot wie de verzoeken bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=II&artikel=8&z=2000-01-13&g=2000-01-13) en [33](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=V&artikel=33&z=2000-01-13&g=2000-01-13) dienen te worden gericht.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Van de aanwijzingen bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=V&artikel=28&z=2000-01-13&g=2000-01-13) en [42](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=VI&artikel=42&z=2000-01-13&g=2000-01-13) wordt uiterlijk op de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring van het Verdrag of van toetreding daartoe mededeling gedaan aan het Permanent Bureau van de Haagse Conferentie voor Internationaal Privaatrecht. Wijzigingen daarin worden eveneens medegedeeld aan het Permanent Bureau.
 
 2. De in het [tweede lid van artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=V&artikel=32&z=2000-01-13&g=2000-01-13) bedoelde verklaring wordt afgelegd bij de depositaris van het Verdrag.
 
-#### Artikel 44
+##### Artikel 44
 
 Een Verdragsluitende Staat met verschillende rechtsstelsels of verzamelingen rechtsregels met betrekking tot de bescherming van de persoon of het vermogen van de volwassene is niet gehouden de bepalingen van het Verdrag toe te passen op conflicten die slechts deze verschillende rechtsstelsels of verzamelingen rechtsregels betreffen.
 
-#### Artikel 45
+##### Artikel 45
 
 Ten aanzien van een Staat die op het gebied van enige bij dit Verdrag geregelde aangelegenheid twee of meer rechtsstelsels of verzamelingen rechtsregels heeft die binnen verschillende territoriale eenheden van toepassing zijn,
 
@@ -370,7 +389,7 @@ Ten aanzien van een Staat die op het gebied van enige bij dit Verdrag geregelde 
 
 - j. wordt een verwijzing naar instellingen of autoriteiten van die Staat, anders dan Centrale Autoriteiten, uitgelegd als een verwijzing naar instellingen of autoriteiten die bevoegd zijn op te treden in de desbetreffende territoriale eenheid.
 
-#### Artikel 46
+##### Artikel 46
 
 Teneinde het op grond van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=III&z=2000-01-13&g=2000-01-13) toepasselijke recht aan te wijzen ten aanzien van een Staat die twee of meer territoriale eenheden omvat met ieder hun eigen rechtsstelsel of verzameling rechtsregels op het gebied van enige aangelegenheid die onder dit Verdrag valt, zijn de volgende regels van toepassing:
 
@@ -378,7 +397,7 @@ Teneinde het op grond van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BW
 
 - b. bij gebreke van dergelijke regels is het recht van de desbetreffende territoriale eenheid, zoals in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=VI&artikel=45&z=2000-01-13&g=2000-01-13) aangewezen, van toepassing.
 
-#### Artikel 47
+##### Artikel 47
 
 Teneinde het krachtens [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=III&z=2000-01-13&g=2000-01-13) toepasselijke recht aan te wijzen ten aanzien van een Staat die twee of meer rechtsstelsels of verzamelingen rechtsregels heeft die op verschillende categorieën personen van toepassing zijn op het gebied van enige aangelegenheid die onder dit Verdrag valt, zijn de volgende regels van toepassing:
 
@@ -386,11 +405,11 @@ Teneinde het krachtens [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0
 
 - b. bij gebreke van dergelijke regels is het recht of de verzameling rechtsregels van toepassing waarmee de volwassene de nauwste band heeft.
 
-#### Artikel 48
+##### Artikel 48
 
 In de betrekkingen tussen de Verdragsluitende Staten treedt dit Verdrag in de plaats van het **Verdrag betreffende de curatele en soortgelijke maatregelen van bescherming**, ondertekend te ’s-Gravenhage op 17 juli 1905.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Het Verdrag laat onverlet andere internationale regelingen waarbij Verdragsluitende Staten Partij zijn en die bepalingen bevatten over in dit Verdrag geregelde onderwerpen, tenzij een andersluidende verklaring wordt afgelegd door de Staten die Partij zijn bij een dergelijke regeling.
 
@@ -400,7 +419,7 @@ In de betrekkingen tussen de Verdragsluitende Staten treedt dit Verdrag in de pl
 
 4. De voorgaande leden zijn eveneens van toepassing op eenvormige wetten die hun grondslag vinden in het bestaan van speciale banden van regionale of andere aard tussen de desbetreffende Staten.
 
-#### Artikel 50
+##### Artikel 50
 
 1. Het Verdrag is slechts van toepassing op maatregelen die zijn genomen in een Staat nadat het Verdrag ten aanzien van die Staat in werking is getreden.
 
@@ -408,25 +427,25 @@ In de betrekkingen tussen de Verdragsluitende Staten treedt dit Verdrag in de pl
 
 3. Het Verdrag is vanaf het tijdstip waarop het in een Verdragsluitende Staat in werking treedt, van toepassing op vertegenwoordigingsbevoegdheden die eerder zijn verleend onder voorwaarden welke overeenstemmen met die genoemd in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=III&artikel=15&z=2000-01-13&g=2000-01-13).
 
-#### Artikel 51
+##### Artikel 51
 
 1. Mededelingen aan de Centrale Autoriteit of een andere autoriteit van een Verdragsluitende Staat worden gedaan in de oorspronkelijke taal en gaan vergezeld van een vertaling in de officiële taal of in een van de officiële talen van de andere Staat of, wanneer deze vertaling bezwaarlijk kan worden vervaardigd, van een vertaling in het Frans of in het Engels.
 
 2. Een Verdragsluitende Staat kan echter, door het maken van het in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=VII&artikel=56&z=2000-01-13&g=2000-01-13) bedoelde voorbehoud, bezwaar maken tegen het gebruik van hetzij het Frans, hetzij het Engels, doch niet tegen beide.
 
-#### Artikel 52
+##### Artikel 52
 
 De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrecht roept periodiek een Bijzondere Commissie bijeen teneinde de praktische werking van het Verdrag te toetsen.
 
 ### HOOFDSTUK VII –. SLOTBEPALINGEN
 
-#### Artikel 53
+##### Artikel 53
 
 1. Het Verdrag staat open voor ondertekening door de Staten die op 2 oktober 1999 lid waren van de Haagse Conferentie voor Internationaal Privaatrecht.
 
 2. Het Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd en de akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden, depositaris van het Verdrag.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Iedere andere Staat kan tot het Verdrag toetreden nadat het overeenkomstig [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=VII&artikel=57&z=2000-01-13&g=2000-01-13), in werking is getreden.
 
@@ -434,7 +453,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 3. De toetreding heeft slechts gevolg in de betrekkingen tussen de toetredende Staat en die Verdragsluitende Staten die niet binnen zes maanden na de ontvangst van de in [artikel 59, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=VII&artikel=59&z=2000-01-13&g=2000-01-13), bedoelde kennisgeving bezwaar hebben gemaakt tegen de toetreding van deze Staat. Een dergelijk bezwaar kan ook door een Staat worden gemaakt op het tijdstip van bekrachtiging, aanvaarding of goedkeuring indien deze na een toetreding plaatsvindt. Van elk bezwaar wordt aan de depositaris kennisgeving gedaan.
 
-#### Artikel 55
+##### Artikel 55
 
 1. Indien een Staat twee of meer territoriale eenheden heeft waarin verschillende rechtsstelsels van toepassing zijn betreffende in dit Verdrag geregelde aangelegenheden, kan hij op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat dit Verdrag op al deze territoriale eenheden of slechts op een of meer daarvan van toepassing is en kan hij te allen tijde deze verklaring wijzigen door een nieuwe verklaring af te leggen.
 
@@ -442,7 +461,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 3. Indien een Staat geen verklaring aflegt krachtens dit artikel, is het Verdrag van toepassing op alle territoriale eenheden van die Staat.
 
-#### Artikel 56
+##### Artikel 56
 
 1. Elke Staat kan, uiterlijk op het tijdstip van de bekrachtiging, aanvaarding, goedkeuring of toetreding, of op het tijdstip waarop de verklaring bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=VII&artikel=55&z=2000-01-13&g=2000-01-13) wordt afgelegd, het in [artikel 51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=VI&artikel=51&z=2000-01-13&g=2000-01-13), bedoelde voorbehoud maken. Andere voorbehouden zijn niet toegestaan.
 
@@ -450,7 +469,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 3. Het voorbehoud houdt op van kracht te zijn op de eerste dag van de derde kalendermaand na de in het voorgaande lid bedoelde kennisgeving.
 
-#### Artikel 57
+##### Artikel 57
 
 1. Het Verdrag treedt in werking op de eerste dag van de maand volgend op het verstrijken van een termijn van drie maanden na de nederlegging van de derde akte van bekrachtiging, aanvaarding of goedkeuring, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=VII&artikel=53&z=2000-01-13&g=2000-01-13).
 
@@ -462,13 +481,13 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 - c. voor een territoriale eenheid waartoe het Verdrag overeenkomstig [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=VII&artikel=55&z=2000-01-13&g=2000-01-13) is uitgebreid, op de eerste dag van de maand volgend op het verstrijken van een termijn van drie maanden na de kennisgeving bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=VII&artikel=55&z=2000-01-13&g=2000-01-13).
 
-#### Artikel 58
+##### Artikel 58
 
 1. Een Staat die Partij is bij het Verdrag kan dit opzeggen door middel van een schriftelijke kennisgeving gericht aan de depositaris. De opzegging kan beperkt worden tot bepaalde territoriale eenheden waarop het Verdrag van toepassing is.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand volgend op het verstrijken van een termijn van twaalf maanden nadat de kennisgeving door de depositaris is ontvangen. Wanneer in de kennisgeving een langere opzegtermijn is aangegeven, wordt de opzegging van kracht na het verstrijken van zulk een langere termijn.
 
-#### Artikel 59
+##### Artikel 59
 
 De depositaris geeft de lidstaten van de Haagse Conferentie voor Internationaal Privaatrecht en de Staten die overeenkomstig [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0003084&hoofdstuk=VII&artikel=54&z=2000-01-13&g=2000-01-13) zijn toegetreden, kennis van het volgende:
 

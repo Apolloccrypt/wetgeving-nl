@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsregeling Uitvoeringsregeling Belastingdienst 2003, enz. (aanpassingen organisatie en besturingsmodel Belastingdienst)"
+title: "Wijziging van de Uitvoeringsregeling Belastingdienst 2003, de Algemene douaneregeling en de Uitvoeringsregeling Douane- en Accijnswet BES in verband met enkele aanpassingen van de organisatie en het besturingsmodel van de Belastingdienst"
 identifier: "BWBR0029914"
-categorie: "Belastingrecht"
-publicatiedatum: 2011-07-01
-laatste_update: 2011-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029914"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-07-01"
+last_updated: "2011-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029914"
+soort: "ministeriele-regeling"
+stam_id: "11306593"
+version_id: "18527212"
+internal_id: "C25855251"
+label_id: "11280574"
+dtd_version: "2.0"
+original_entry_into_force: "2011-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029914/2011-07-01/0"
+intitule_bron: "Stcrt.2011-7685"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-04-26"
+intitule_published: "2011-04-29"
+intitule_in_force: "2011-04-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-7685"
+original_signed_date: "2011-04-26"
+original_published_date: "2011-04-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-7685"
+entry_into_force_date: "2011-05-01"
+jci_1_3: "jci1.3:c:BWBR0029914&z=2011-07-01&g=2011-07-01"
+jci_1_0: "1.0:c:BWBR0029914&g=2011-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling Uitvoeringsregeling Belastingdienst 2003, enz. (aanpassingen organisatie en besturingsmodel Belastingdienst)"
+signed_date: "2011-04-26"
+entry_into_force: "2011-05-01"
 ---
-
 # Wijziging van de Uitvoeringsregeling Belastingdienst 2003, de Algemene douaneregeling en de Uitvoeringsregeling Douane- en Accijnswet BES in verband met enkele aanpassingen van de organisatie en het besturingsmodel van de Belastingdienst
 
 De Staatssecretaris van Financiën,
@@ -16,23 +42,23 @@ Gelet op de [artikelen 2, derde lid, onderdeel b, en vierde lid](https://wetten.
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Uitvoeringsregeling Douane- en Accijnswet BES.
 
-#### Artikel IV
+##### Artikel IV
 
 Vervallen
 
-#### Artikel V
+##### Artikel V
 
 Deze regeling treedt in werking met ingang van 1 mei 2011.
 

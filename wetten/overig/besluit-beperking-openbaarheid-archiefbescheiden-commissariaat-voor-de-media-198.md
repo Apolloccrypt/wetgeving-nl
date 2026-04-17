@@ -1,13 +1,38 @@
 ---
 title: "Besluit beperking openbaarheid archiefbescheiden Commissariaat voor de Media (1988–2008)"
 identifier: "BWBR0048226"
-categorie: "Overig"
-publicatiedatum: 2023-06-03
-laatste_update: 2023-06-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048226"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-06-03"
+last_updated: "2023-06-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048226"
+soort: "zbo"
+stam_id: "16758983"
+version_id: "29431492"
+internal_id: "C42092981"
+label_id: "16674884"
+dtd_version: "2.0"
+original_entry_into_force: "2023-06-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048226/2023-06-03/0"
+intitule_bron: "Stcrt.2023-15289"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-05-23"
+intitule_published: "2023-06-02"
+intitule_in_force: "2023-06-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-15289"
+original_signed_date: "2023-05-23"
+original_published_date: "2023-06-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-15289"
+entry_into_force_date: "2023-06-03"
+jci_1_3: "jci1.3:c:BWBR0048226&z=2023-06-03&g=2023-06-03"
+jci_1_0: "1.0:c:BWBR0048226&g=2023-06-03"
+citeertitel_status: "redactioneel"
+signed_date: "2023-05-23"
+entry_into_force: "2023-06-03"
 ---
-
 # Besluit beperking openbaarheid archiefbescheiden Commissariaat voor de Media (1988–2008)
 
 ### A. Relevante feiten

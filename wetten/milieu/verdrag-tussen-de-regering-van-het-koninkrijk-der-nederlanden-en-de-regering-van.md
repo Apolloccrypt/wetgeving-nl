@@ -1,13 +1,32 @@
 ---
 title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland betreffende de exploitatie van grensoverschrijdende koolwaterstoffenvelden in de Noordzee (met Bijlagen)"
 identifier: "BWBV0007104"
-categorie: "Milieu"
-publicatiedatum: 2025-08-27
-laatste_update: 2025-08-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007104"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-08-27"
+last_updated: "2025-08-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007104"
+soort: "verdrag"
+stam_id: "10005707713"
+version_id: "10006307062"
+internal_id: "C10010208971"
+label_id: "10005689644"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007104/2025-08-27/0"
+intitule_bron: "Trb.2025-68"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-08-28"
+intitule_status: "nogniet"
+original_publication: "Trb.2025-68"
+original_published_date: "2025-08-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2025-68"
+jci_1_3: "jci1.3:c:BWBV0007104&z=2025-08-27&g=2025-08-27"
+jci_1_0: "1.0:c:BWBV0007104&g=2025-08-27"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-08-28"
 ---
-
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland betreffende de exploitatie van grensoverschrijdende koolwaterstoffenvelden in de Noordzee (met Bijlagen)
 
 De Regering van het Koninkrijk der Nederlanden
@@ -42,7 +61,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK 1. ALGEMENE BEGINSELEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -92,7 +111,7 @@ Voor de toepassing van dit Verdrag:
 
 - 19. heeft „uitvoerder van het eenheidsgebied” de betekenis die daaraan wordt gegeven in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0007104&hoofdstuk=2&artikel=19&z=2025-08-27&g=2025-08-27).
 
-#### Artikel 2. Reikwijdte en doelstelling
+##### Artikel 2. Reikwijdte en doelstelling
 
 1. Dit Verdrag is van toepassing op de exploitatie van koolwaterstoffen in grensoverschrijdende velden, met als doel de optimale exploitatie van grensoverschrijdende velden te bewerkstelligen.
 
@@ -100,13 +119,13 @@ Voor de toepassing van dit Verdrag:
 
 3. De bepalingen van dit Verdrag zijn niet van invloed op het vraagstuk van het verloop van de staatsgrens in de territoriale zee tussen 3 en 12 zeemijlen uit de kust. De bepalingen van dit Verdrag zijn evenmin van invloed op het vraagstuk van het verloop van de staatsgrens in de Eemsmonding. Elke verdragsluitende partij behoudt zich in dit opzicht haar rechtsstandpunt voor.
 
-#### Artikel 3. Rechtsmacht
+##### Artikel 3. Rechtsmacht
 
 1. Geen van de bepalingen van dit Verdrag wordt zodanig uitgelegd dat zij afbreuk doen aan de soevereiniteit, soevereine rechten en/of rechtsmacht van de verdragsluitende partijen ingevolge het internationaal recht in haar territoriale zee en/of in haar aangrenzende of exclusieve economische zone.
 
 2. Op alle installaties ten oosten van de lijn is uitsluitend het recht van de Bondsrepubliek Duitsland van toepassing en op alle installaties ten westen van de lijn is uitsluitend het recht van het Koninkrijk der Nederlanden van toepassing.
 
-#### Artikel 4. Vergunning
+##### Artikel 4. Vergunning
 
 1. De verdragsluitende partijen coördineren voor zover mogelijk hun relevante vergunningprocedures en de bevoegde autoriteiten van de verdragsluitende partijen spannen zich naar beste vermogen in om deze vergunningen gelijktijdig te verlenen.
 
@@ -116,7 +135,7 @@ Voor de toepassing van dit Verdrag:
 
 4. Een afschrift van een vergunning die door een van de bevoegde autoriteiten van de verdragsluitende partijen is verleend, wordt op verzoek beschikbaar gesteld aan de andere verdragsluitende partij.
 
-#### Artikel 5. Gezondheid, veiligheid en milieu
+##### Artikel 5. Gezondheid, veiligheid en milieu
 
 1. De vereisten inzake gezondheid, veiligheid en milieu van de verdragsluitende partij die de vergunningen met betrekking tot de projecten binnen de reikwijdte van dit Verdrag verleent, moeten worden nageleefd.
 
@@ -138,11 +157,11 @@ overleggen de bevoegde autoriteiten van de verdragsluitende partijen met elkaar 
 
 5. Een inspecteur van de bevoegde autoriteiten van een van de verdragsluitende partijen kan de onmiddellijke stillegging gelasten van bepaalde of alle operaties met betrekking tot een grensoverschrijdend project om een ongeval te voorkomen dat levensgevaar of ernstig lichamelijk letsel tot gevolg kan hebben, of het gevaar nu acuut is of niet, of om de gevolgen van een dergelijk ongeval te minimaliseren, als hij of zij dit nodig of wenselijk acht, en de tijd en omstandigheden overleg tussen de inspecteurs van de bevoegde autoriteiten van de verdragsluitende partijen niet mogelijk maken. Onmiddellijk daarna dienen het feit dat deze aanwijzing gegeven is en de redenen daarvoor te worden gerapporteerd aan de bevoegde autoriteiten van de verdragsluitende partijen, die vervolgens overleggen over de maatregelen die nodig zijn om de operaties weer veilig en snel te kunnen hervatten.
 
-#### Artikel 6. Radiocommunicatie
+##### Artikel 6. Radiocommunicatie
 
 De bevoegde autoriteiten van de verdragsluitende partijen overleggen met elkaar over de vergunningverlening en frequentiecoördinatie die nodig is bij de installatie en het gebruik van de apparatuur voor radiocommunicatie die gebruikt wordt in verband met de exploitatie van het eenheidsgebied, en over de controle van dergelijke apparatuur.
 
-#### Artikel 7. Meetsystemen en inspectie
+##### Artikel 7. Meetsystemen en inspectie
 
 1. De verdragsluitende partijen dienen elk meetsysteem goed te keuren dat betrekking heeft op een grensoverschrijdend project en dat van gemeenschappelijk belang is. De bevoegde autoriteiten van de verdragsluitende partijen stellen procedures vast voor de vroegtijdige goedkeuring van dergelijke systemen.
 
@@ -150,19 +169,19 @@ De bevoegde autoriteiten van de verdragsluitende partijen overleggen met elkaar 
 
 3. De bevoegde autoriteiten van de verdragsluitende partijen maken afspraken, zodat de inspecteurs van de bevoegde autoriteiten van de verdragsluitende partijen toegang hebben tot relevante meetsystemen aan beide zijden van de lijn en op het grondgebied van elke verdragsluitende partij om te waarborgen dat hun belangen zijn veiliggesteld. Dit is ook van toepassing op inspecties ten behoeve van monitoring en controle van afdrachten en belastingen.
 
-#### Artikel 8. Noodgevallen
+##### Artikel 8. Noodgevallen
 
 Geen van de bepalingen van dit Verdrag doet afbreuk aan het uitoefenen van de bevoegdheden van elke verdragsluitende partij bij een noodgeval. Er zal zo spoedig mogelijk overleg plaatsvinden om de verdragsluitende partijen in staat te stellen overeenstemming te bereiken over passende gezamenlijke maatregelen met betrekking tot het grensoverschrijdend project teneinde de urgentie van de situatie in overeenstemming te brengen met hun gezamenlijk belang in de meest effectieve exploitatie van de grensoverschrijdende velden en het gebruik van installaties met betrekking tot een grensoverschrijdend project.
 
-#### Artikel 9. Uitwisseling van informatie
+##### Artikel 9. Uitwisseling van informatie
 
 Met inachtneming van de wettelijke beperkingen inzake openbaarmaking en gebruik waarborgen beide verdragsluitende partijen de deugdelijke onderlinge uitwisseling van informatie over grensoverschrijdende projecten.
 
-#### Artikel 10. Belastingheffing
+##### Artikel 10. Belastingheffing
 
 Winsten en kapitaalopbrengsten die voortvloeien uit de grensoverschrijdende velden, worden belast in overeenstemming met de wet- en regelgeving van respectievelijk de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden, met inbegrip van het [Verdrag van 12 april 2012 tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen](https://wetten.overheid.nl/jci1.3:c:BWBV0005862), zoals gewijzigd bij het Protocol van 11 januari 2016, het Protocol van 24 maart 2021 en het Protocol van 14 april 2025, of enig verdrag dat in de toekomst zal worden overeengekomen, tot vervanging of wijziging van dat Verdrag.
 
-#### Artikel 11. Voortzetting van het gebruik en beëindiging
+##### Artikel 11. Voortzetting van het gebruik en beëindiging
 
 1. Wanneer een vergunning die rechtstreeks betrekking heeft op een grensoverschrijdend project op korte termijn afloopt, en de vergunninghouder deze wil verlengen en/of een nieuwe of gewijzigde vergunning aanvraagt, dan zal de bevoegde autoriteit van de verdragsluitende partij die verantwoordelijk is voor die vergunning deze, met inachtneming van haar wet- en regelgeving, vernieuwen of verlenen.
 
@@ -174,19 +193,19 @@ Winsten en kapitaalopbrengsten die voortvloeien uit de grensoverschrijdende veld
 
 - 3. Naar verwachting wordt of reeds is teruggegeven, neemt de bevoegde autoriteit van de verdragsluitende partij die verantwoordelijk is voor die vergunning, in overleg met de bevoegde autoriteit van de andere verdragsluitende partij, de economische en praktische opties voor voortgezet gebruik in overweging. Op voorwaarde dat de economische en praktische opties voor voortgezet gebruik zijn vastgesteld, verleent de bevoegde autoriteit van de verdragsluitende partij die verantwoordelijk is voor die vergunning, in overeenstemming met haar wet- en regelgeving, een nieuwe vergunning om de voortzetting van het grensoverschrijdend project mogelijk te maken.
 
-#### Artikel 12. Ontmanteling
+##### Artikel 12. Ontmanteling
 
 Plannen voor ontmanteling van installaties die betrekking hebben op een grensoverschrijdend project, dienen te worden goedgekeurd door de bevoegde autoriteiten van de verdragsluitende partij aan wier zijde van de lijn de installatie zich bevindt, na uitgebreid overleg met de bevoegde autoriteit van de andere verdragsluitende partij. Het doel is dat de bevoegde autoriteiten van beide verdragsluitende partijen elkaar informeren over methoden en normen voor ontmanteling en de tijdsplanning van een dergelijke ontmanteling.
 
 ### HOOFDSTUK 2. GEZAMENLIJKE EXPLOITATIE VAN GRENSOVERSCHRIJDENDE VELDEN ALS EEN EENHEIDSGEBIED
 
-#### Artikel 13. Exploitatie als een eenheidsgebied en vergunningen
+##### Artikel 13. Exploitatie als een eenheidsgebied en vergunningen
 
 1. De verdragsluitende partijen komen overeen dat de exploitatie van een grensoverschrijdend veld als een eenheidsgebied wordt uitgevoerd in overeenstemming met de bepalingen van dit Verdrag.
 
 2. De bevoegde autoriteiten van de verdragsluitende partijen verlenen elk afzonderlijk de vergunningen die vereist zijn volgens hun respectieve wet- en regelgeving.
 
-#### Artikel 14. Overeenkomst tussen de vergunninghouders
+##### Artikel 14. Overeenkomst tussen de vergunninghouders
 
 1. Elke verdragsluitende partij vereist van haar vergunninghouders dat zij een vergunninghoudersovereenkomst sluiten om de exploitatie van een grensoverschrijdend veld te reguleren in overeenstemming met dit Verdrag. De vergunninghoudersovereenkomst dient bepalingen te bevatten die ervoor zorgen dat in geval van een conflict tussen de vergunninghoudersovereenkomst en dit Verdrag, de bepalingen van dit Verdrag voorrang hebben.
 
@@ -194,7 +213,7 @@ Plannen voor ontmanteling van installaties die betrekking hebben op een grensove
 
 3. Alvorens de vergunninghoudersovereenkomst goed te keuren, stellen de verdragsluitende partijen vast hoe de gasreserves zijn verdeeld over hun grondgebieden en coördineren zij in dit opzicht de goedkeuring van de vergunninghoudersovereenkomst.
 
-#### Artikel 15. Vaststelling en verdeling van reserves
+##### Artikel 15. Vaststelling en verdeling van reserves
 
 1. De verdragsluitende partijen vereisen dat de vergunninghoudersovereenkomst het te exploiteren grensoverschrijdend veld specificeert en voorstellen bevat voor het vaststellen van:
 
@@ -210,7 +229,7 @@ Plannen voor ontmanteling van installaties die betrekking hebben op een grensove
 
 - 2. de procedures, waaronder een tijdschema, voor de regeling van geschillen tussen de vergunninghouders over alle in het eerste lid bedoelde onderwerpen.
 
-#### Artikel 16. Vaststelling en deskundigenprocedure
+##### Artikel 16. Vaststelling en deskundigenprocedure
 
 1. Indien een van de verdragsluitende partijen niet kan instemmen met een voorstel voor vaststelling of nieuwe vaststelling van de inhoud van de vergunninghoudersovereenkomst als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0007104&hoofdstuk=2&artikel=15&z=2025-08-27&g=2025-08-27), stelt zij de andere verdragsluitende partij en de uitvoerder van het eenheidsgebied daarvan in kennis binnen het tijdvak voorzien in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007104&hoofdstuk=2&artikel=14&z=2025-08-27&g=2025-08-27).
 
@@ -218,13 +237,13 @@ Plannen voor ontmanteling van installaties die betrekking hebben op een grensove
 
 3. Indien, binnen het in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007104&hoofdstuk=2&artikel=14&z=2025-08-27&g=2025-08-27), genoemde tijdvak, of een ander tijdvak dat de verdragsluitende partijen overeenkomen, de verdragsluitende partijen niet in staat zijn het betreffende onderwerp te regelen, wordt er een gemeenschappelijke deskundige benoemd om een tijdige en onafhankelijke beslissing over deze aangelegenheid tot stand te brengen. De deskundige wordt benoemd en treedt op in overeenstemming met de bepalingen van Bijlage 1 en Bijlage 2.
 
-#### Artikel 17. Integratie van gebieden met vergunning
+##### Artikel 17. Integratie van gebieden met vergunning
 
 1. Indien de verdragsluitende partijen, nadat de vergunninghoudersovereenkomst is goedgekeurd door de bevoegde autoriteiten, overeenkomen dat de grenzen van het grensoverschrijdend veld zich uitstrekken tot een gebied waar een natuurlijke of rechtspersoon een exploratie- of een exploitatievergunning heeft, verplichten de verdragsluitende partijen al hun respectieve vergunninghouders met een belang in het grensoverschrijdend veld dat zij regelingen overeenkomen voor de effectieve exploitatie van de koolwaterstoffen in dat gebied. Dergelijke regelingen worden getroffen binnen het door de verdragsluitende partijen afgesproken tijdvak, zijn in overeenstemming met de bepalingen van dit Verdrag en dienen te worden goedgekeurd door de bevoegde autoriteiten van de verdragsluitende partijen. De bepalingen van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0007104&hoofdstuk=2&artikel=14&z=2025-08-27&g=2025-08-27) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0007104&hoofdstuk=2&artikel=15&z=2025-08-27&g=2025-08-27) zijn van toepassing op alle regelingen die de vorm hebben van een vergunninghoudersovereenkomst.
 
 2. In het geval dat regelingen niet binnen het afgesproken tijdvak worden getroffen, beslissen de bevoegde autoriteiten van de verdragsluitende partijen gezamenlijk over verder te nemen maatregelen.
 
-#### Artikel 18. Integratie van gebieden zonder vergunning
+##### Artikel 18. Integratie van gebieden zonder vergunning
 
 1. Indien de verdragsluitende partijen, nadat de vergunninghoudersovereenkomst is goedgekeurd door de bevoegde autoriteiten, overeenkomen dat de grenzen van het grensoverschrijdend veld zich uitstrekken tot een gebied dat niet onder een exploratie- of exploitatievergunning valt, dan spant de verdragsluitende partij aan wier zijde van de lijn het gebied is gelegen, zich zonder onredelijke vertraging in om de situatie te verhelpen door genoemd gebied voor vergunningverlening aan te bieden of door een aanvraag voor een vergunning in behandeling te nemen.
 
@@ -232,11 +251,11 @@ Plannen voor ontmanteling van installaties die betrekking hebben op een grensove
 
 3. Indien er geen exploitatievergunning wordt verleend of indien een exploitatievergunning wel wordt verleend, maar de regelingen niet binnen het afgesproken tijdvak worden getroffen, beslissen de bevoegde autoriteiten van de verdragsluitende partijen gezamenlijk over verder te nemen maatregelen.
 
-#### Artikel 19. Uitvoerder van het eenheidsgebied
+##### Artikel 19. Uitvoerder van het eenheidsgebied
 
 De vergunninghouders wijzen een uitvoerder van het eenheidsgebied aan als hun gezamenlijke vertegenwoordiger die gemachtigd is het grensoverschrijdend veld in overeenstemming met dit Verdrag te exploiteren. De aanwijzing en een eventuele vervanging van de uitvoerder van het eenheidsgebied dient vooraf te worden goedgekeurd door de bevoegde autoriteiten van de verdragsluitende partijen, indien hun respectieve wet- en regelgeving dit vereist.
 
-#### Artikel 20. Ontwikkelingsplan: exploitatie van een grensoverschrijdend veld
+##### Artikel 20. Ontwikkelingsplan: exploitatie van een grensoverschrijdend veld
 
 1. De verdragsluitende partijen verplichten de uitvoerder van het eenheidsgebied dat deze een ontwikkelingsplan voor de effectieve exploitatie van een grensoverschrijdend veld en voor het transport van koolwaterstoffen daarvandaan indient bij de bevoegde autoriteiten van de verdragsluitende partijen dat zij individueel en afzonderlijk dienen goed te keuren, indien hun respectieve wet- en regelgeving dit vereist.
 
@@ -244,7 +263,7 @@ De vergunninghouders wijzen een uitvoerder van het eenheidsgebied aan als hun ge
 
 3. De verdragsluitende partijen verplichten de uitvoerder van het eenheidsgebied dat deze te allen tijde wijzigingen van het ontwikkelingsplan indient bij de bevoegde autoriteiten van de verdragsluitende partijen, indien hun respectieve wet- en regelgeving dit vereist. Alle wijzigingen van het ontwikkelingsplan dienen te worden goedgekeurd door de bevoegde autoriteiten van de verdragsluitende partijen.
 
-#### Artikel 21. Aanvang van de winning
+##### Artikel 21. Aanvang van de winning
 
 Tenzij anderszins wordt overeengekomen door de verdragsluitende partijen geeft geen van de verdragsluitende partijen toestemming voor aanvang van de winning van een grensoverschrijdend veld tenzij de bevoegde autoriteiten van de verdragsluitende partijen het volgende hebben goedgekeurd, in overeenstemming met dit Verdrag:
 
@@ -256,17 +275,17 @@ Tenzij anderszins wordt overeengekomen door de verdragsluitende partijen geeft g
 
 en zij de benodigde vergunningen hebben verleend.
 
-#### Artikel 22. Gebruik van een installatie binnen een eenheidsgebied voor de exploitatie van een ander veld
+##### Artikel 22. Gebruik van een installatie binnen een eenheidsgebied voor de exploitatie van een ander veld
 
 In het geval dat een installatie, die in een eenheidsgebied is gelegen, gebruikt zal worden voor de exploitatie van een koolwaterstoffenveld buiten dat eenheidsgebied, worden alle eventueel noodzakelijke wijzigingen in het ontwikkelingsplan bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0007104&hoofdstuk=2&artikel=20&z=2025-08-27&g=2025-08-27) ter goedkeuring ingediend bij de bevoegde autoriteiten van de verdragsluitende partijen. Een dergelijke goedkeuring wordt niet verleend, indien dergelijk gebruik de exploitatie van het grensoverschrijdend veld in overeenstemming met dit Verdrag negatief zou kunnen beïnvloeden, tenzij de verdragsluitende partijen anderszins overeenkomen.
 
-#### Artikel 23. Beëindiging van de winning
+##### Artikel 23. Beëindiging van de winning
 
 De verdragsluitende partijen komen het tijdschema voor de beëindiging van de winning van een grensoverschrijdend veld overeen.
 
 ### HOOFDSTUK 3. DE CONSTRUCTIE EN HET GEBRUIK VAN GRENSOVERSCHRIJDENDE PUTTEN
 
-#### Artikel 24. Vergunningen
+##### Artikel 24. Vergunningen
 
 1. Wanneer de verdragsluitende partijen de constructie en het gebruik van een grensoverschrijdende put overeenkomen, verlenen de bevoegde autoriteiten van de verdragsluitende partijen individueel de vergunningen die vereist zijn volgens hun respectieve wet- en regelgeving.
 
@@ -274,11 +293,11 @@ De verdragsluitende partijen komen het tijdschema voor de beëindiging van de wi
 
 ### HOOFDSTUK 4. BESLECHTING VAN GESCHILLEN
 
-#### Artikel 25. Consultatie
+##### Artikel 25. Consultatie
 
 Geschillen tussen de verdragsluitende partijen betreffende de uitleg of toepassing van dit Verdrag, alsmede hun rechten en plichten op grond van dit Verdrag, worden voor zover mogelijk door onderhandelingen tussen de Regeringen van beide verdragsluitende partijen beslecht.
 
-#### Artikel 26. Arbitrage
+##### Artikel 26. Arbitrage
 
 1. Elk geschil over de uitlegging en toepassing van dit Verdrag wordt op verzoek van een van de verdragsluitende partijen ter beslechting voorgelegd aan een scheidsgerecht op grond van het Facultatieve Reglement voor Arbitrage van Geschillen tussen twee Staten van het Permanente Hof van Arbitrage.
 
@@ -290,13 +309,13 @@ Geschillen tussen de verdragsluitende partijen betreffende de uitleg of toepassi
 
 ### HOOFDSTUK 5. SLOTBEPALINGEN
 
-#### Artikel 27. Bijlagen
+##### Artikel 27. Bijlagen
 
 1. De Bijlagen maken een integrerend onderdeel uit van dit Verdrag.
 
 2. Wijzigingen van de Bijlagen kunnen bij diplomatieke notawisseling tussen de verdragsluitende partijen worden overeengekomen en treden in werking in overeenstemming met [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007104&hoofdstuk=5&artikel=29&z=2025-08-27&g=2025-08-27).
 
-#### Artikel 28. Wijzigingen en beëindiging
+##### Artikel 28. Wijzigingen en beëindiging
 
 1. De verdragsluitende partijen kunnen dit Verdrag te allen tijde in onderlinge overeenstemming wijzigen of beëindigen door middel van een diplomatieke notawisseling.
 
@@ -306,7 +325,7 @@ Geschillen tussen de verdragsluitende partijen betreffende de uitleg of toepassi
 
 4. Dit Verdrag kan door elke verdragsluitende partij worden opgezegd door de andere verdragsluitende partij ten minste twaalf (12) maanden van tevoren schriftelijk langs diplomatieke weg in kennis te stellen van haar voornemen het Verdrag te beëindigen.
 
-#### Artikel 29. Inwerkingtreding en voorlopige toepassing
+##### Artikel 29. Inwerkingtreding en voorlopige toepassing
 
 1. Dit Verdrag treedt in werking op de datum waarop de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden elkaar door uitwisseling van diplomatieke nota's ervan in kennis hebben gesteld dat aan alle noodzakelijke interne vereisten voor de inwerkingtreding van dit Verdrag is voldaan.
 

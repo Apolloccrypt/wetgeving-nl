@@ -1,18 +1,44 @@
 ---
-title: "Besluit taakuitoefening IGJ"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 augustus 2017, kenmerk 1193476-166555-WJZ, houdende regels voor de taakuitoefening van de Inspectie gezondheidszorg en jeugd (Besluit taakuitoefening IGJ)"
 identifier: "BWBR0039998"
-categorie: "Overig"
-publicatiedatum: 2018-08-01
-laatste_update: 2018-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039998"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-08-01"
+last_updated: "2018-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039998"
+soort: "ministeriele-regeling"
+stam_id: "14170233"
+version_id: "24371982"
+internal_id: "C34971371"
+label_id: "14130934"
+dtd_version: "2.0"
+original_entry_into_force: "2017-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039998/2018-08-01/0"
+intitule_bron: "Stcrt.2017-53588"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-08-22"
+intitule_published: "2017-09-25"
+intitule_in_force: "2017-09-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-53588"
+original_signed_date: "2017-08-22"
+original_published_date: "2017-09-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-53588"
+entry_into_force_date: "2017-10-01"
+jci_1_3: "jci1.3:c:BWBR0039998&z=2018-08-01&g=2018-08-01"
+jci_1_0: "1.0:c:BWBR0039998&g=2018-08-01"
+citeertitel_status: "officieel"
+short_title: "Besluit taakuitoefening IGJ"
+signed_date: "2017-08-22"
+entry_into_force: "2017-10-01"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 augustus 2017, kenmerk 1193476-166555-WJZ, houdende regels voor de taakuitoefening van de Inspectie gezondheidszorg en jeugd (Besluit taakuitoefening IGJ)
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -28,11 +54,11 @@ In dit besluit wordt verstaan onder:
 
 - f. **jaarverslag:** jaarlijkse rapportage over de uitvoering van het werkplan en de overige werkzaamheden van de inspectie, de bedrijfsvoering en financiële verantwoording en de bevindingen op basis van de uitgevoerde werkzaamheden.
 
-#### Artikel 2
+##### Artikel 2
 
 De inspecteur-generaal draagt zorg voor een systematische, consistente en toegankelijke werkwijze van de inspectie en waarborgt een verantwoorde taakuitoefening door de inspectie.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een aanwijzing die betrekking heeft op de inspectie, wordt schriftelijk gegeven door de minister aan de inspecteur-generaal.
 
@@ -52,7 +78,7 @@ De inspecteur-generaal draagt zorg voor een systematische, consistente en toegan
 
 6. Het tweede, derde en vierde lid zijn niet van toepassing op aanwijzingen die betrekking hebben op de bedrijfsmatige aspecten van de inspectie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De inspectie richt haar werkzaamheden in op basis van een werkplan, dat wordt gepubliceerd voor aanvang van het betreffende kalenderjaar. In het werkplan wordt de inzet van personeel en middelen van de inspectie voor de diverse werkzaamheden op hoofdlijnen gekwantificeerd aangegeven.
 
@@ -64,7 +90,7 @@ De inspecteur-generaal draagt zorg voor een systematische, consistente en toegan
 
 5. Het werkplan wordt door de minister aan de Staten-Generaal aangeboden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De minister stelt de inspectie tijdig in staat een toets op toezicht- en handhaafbaarheid uit te voeren op ontwerp-regelgeving die de taakuitoefening van de inspectie raakt.
 
@@ -72,7 +98,7 @@ De inspecteur-generaal draagt zorg voor een systematische, consistente en toegan
 
 3. Bij tussentijdse wijziging of aanpassing van het werkplan is [artikel 4, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039998&artikel=4&z=2018-08-01&g=2018-08-01), van overeenkomstige toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De inspecteur-generaal stelt jaarlijks een jaarverslag vast, waarin hij verslag doet van de uitvoering van het werkplan en de overige werkzaamheden van de inspectie, de bedrijfsvoering en financiële verantwoording en de bevindingen op basis van de uitgevoerde werkzaamheden.
 
@@ -80,7 +106,7 @@ De inspecteur-generaal draagt zorg voor een systematische, consistente en toegan
 
 3. Het jaarverslag wordt gepubliceerd door de inspecteur-generaal. De minister verzendt het jaarverslag aan de Staten-Generaal.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Als besloten is dat een rapport naar aanleiding van een onderzoek door de inspectie actief openbaar wordt gemaakt, maakt de inspecteur-generaal het rapport openbaar.
 
@@ -90,17 +116,17 @@ De inspecteur-generaal draagt zorg voor een systematische, consistente en toegan
 
 4. Een rapport naar aanleiding van een onderzoek door de inspectie op verzoek van de minister, toegezegd aan de Staten-Generaal, wordt zonder gebruikmaking van de in het tweede lid genoemde termijn van zes weken door de minister aangeboden aan de Staten-Generaal.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De inspecteur-generaal informeert de minister en/of de secretaris-generaal onverwijld over aangelegenheden die van belang zijn voor de uitoefening van de ministeriële verantwoordelijkheid.
 
 2. De minister, onderscheidenlijk de secretaris-generaal informeert de inspecteur-generaal onverwijld over aangelegenheden die van belang zijn voor de inspectie.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van 1 oktober 2017.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit taakuitoefening IGJ.
 

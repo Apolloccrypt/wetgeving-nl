@@ -1,13 +1,38 @@
 ---
 title: "Protocol van Montreal betreffende stoffen die de ozonlaag afbreken"
 identifier: "BWBV0002086"
-categorie: "Internationaal recht"
-publicatiedatum: 2019-06-21
-laatste_update: 2019-06-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002086"
+country: "nl"
+rank: "verdrag"
+publication_date: "2019-06-21"
+last_updated: "2019-06-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002086"
+soort: "verdrag"
+stam_id: "10002656083"
+version_id: "10002653512"
+internal_id: "C10006980631"
+label_id: "10002644974"
+dtd_version: "2.0"
+original_entry_into_force: "1989-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002086/2019-06-21/0"
+intitule_bron: "Trb.1988-11"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-12-16"
+intitule_published: "1988-02-10"
+intitule_in_force: "1989-01-20"
+intitule_status: "goed"
+original_publication: "Trb.1988-11"
+original_signed_date: "1988-12-16"
+original_published_date: "1988-02-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1988-11"
+entry_into_force_date: "1989-01-01"
+jci_1_3: "jci1.3:c:BWBV0002086&z=2019-06-21&g=2019-06-21"
+jci_1_0: "1.0:c:BWBV0002086&g=2019-06-21"
+citeertitel_status: "officieel"
+signed_date: "1988-12-16"
+entry_into_force: "1989-01-01"
 ---
-
 # Protocol van Montreal betreffende stoffen die de ozonlaag afbreken
 
 De Partijen bij dit Protocol,
@@ -32,7 +57,7 @@ Overwegende dat het van belang is internationale samenwerking te bevorderen op h
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1. Begripomschrijvingen
+##### Artikel 1. Begripomschrijvingen
 
 Voor de toepassing van dit Protocol wordt verstaan onder:
 
@@ -52,7 +77,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - 8. „industriële rationalisering”: het overdragen van de gehele of een gedeelte van het berekende niveau van produktie van de ene Partij aan een andere ter verhoging van de economische doelmatigheid of om te voorzien in verwachte tekorten in het aanbod ten gevolge van bedrijfssluitingen.
 
-#### Artikel 2. Beheersingsmaatregelen
+##### Artikel 2. Beheersingsmaatregelen
 
 1. Opgenomen door artikel 2A.
 
@@ -98,7 +123,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 11. Niettegenstaande de bepalingen van dit artikel en de artikelen 2A tot en met 2J kunnen de Partijen verdergaande maatregelen nemen dan daarin is voorgeschreven.
 
-#### Artikel 2A. CFK's
+##### Artikel 2A. CFK's
 
 1. Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op de eerste dag van de zevende maand na de datum van inwerkingtreding van dit Protocol, en in elk tijdvak van twaalf maanden daarna, haar berekend gebruik van de in Groep I van Bijlage A genoemde aan uitworpbeheersing onderworpen stoffen niet meer zal bedragen dan haar berekend gebruik over 1986. Elke Partij die één of meer van deze stoffen produceert, verzekert dat aan het einde van ditzelfde tijdvak haar berekende produktie van deze stoffen niet meer zal bedragen dan haar berekende produktie over 1986, zij het dat deze produktie ten opzichte van 1986 mag zijn gestegen met ten hoogste tien procent. Een dergelijke stijging is evenwel slechts toegestaan om te voorzien in de fundamentele binnenlandse behoeften van de onder de werking van artikel 5 vallende Partijen en met het oog op industriële rationalisering tussen de Partijen.
 
@@ -118,7 +143,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 9. Ten behoeve van de berekening van de fundamentele binnenlandse behoeften ingevolge het vierde tot en met het achtste lid van dit artikel, omvat de berekening van de gemiddelde productie per jaar van een Partij mede alle productierechten die zij heeft overgedragen in overeenstemming met artikel 2, vijfde lid, maar niet de productierechten die zij heeft verworven in overeenstemming met artikel 2, vijfde lid.
 
-#### Artikel 2B. Halonen
+##### Artikel 2B. Halonen
 
 1. Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 1992 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep II van Bijlage A genoemde aan uitworpbeheersing onderworpen stoffen jaarlijks niet meer bedraagt dan haar berekend gebruik over 1986. Elke Partij die één of meer van deze stoffen produceert, verzekert dat gedurende dezelfde tijdvakken haar berekende produktie van deze stoffen jaarlijks niet meer bedraagt dan haar berekende produktie over 1986. Om te voorzien in de fundamentele binnenlandse behoeften van de onder de werking van het eerste lid van artikel 5 vallende Partijen mag haar berekende produktie deze limiet evenwel overschrijden met ten hoogste tien procent van haar berekende produktie over 1986.
 
@@ -128,7 +153,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 4. Elke Partij verzekert dat voor het tijdvak van twaalf maanden dat begint op 1 januari 2010 en in elk tijdvak van twaalf maanden daarna, haar berekende productie van de aan uitworpbeheersing onderworpen stoffen van Groep II van Bijlage A voor de fundamentele binnenlandse behoeften van de onder de werking van het eerste lid van artikel 5 vallende Partijen nihil is.
 
-#### Artikel 2C. : Andere volledig gehalogeneerde CFK's
+##### Artikel 2C. : Andere volledig gehalogeneerde CFK's
 
 1. Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 1993 haar berekend gebruik van de in Groep I van Bijlage B genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan tachtig procent van haar berekend gebruik over 1989. Elke Partij die één of meer van deze stoffen produceert, verzekert dat gedurende hetzelfde tijdvak haar berekende produktie van deze stoffen per jaar niet meer bedraagt dan tachtig procent van haar berekende produktie over 1989. Om te voorzien in de fundamentele binnenlandse behoeften van onder de werking van het eerste lid van artikel 5 vallende Partijen mag haar berekende produktie deze limiet evenwel overschrijden met ten hoogste tien procent van haar berekende produktie over 1989.
 
@@ -140,13 +165,13 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 5. Elke Partij verzekert dat voor het tijdvak van twaalf maanden dat begint op 1 januari 2010 en in elk tijdvak van twaalf maanden daarna, haar berekende productie van de aan uitworpbeheersing onderworpen stoffen van Groep I van Bijlage B voor de fundamentele binnenlandse behoeften van de onder de werking van het eerste lid van artikel 5 vallende Partijen nihil is.
 
-#### Artikel 2D. : Tetrachloorkoolstof
+##### Artikel 2D. : Tetrachloorkoolstof
 
 1. Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 1995 haar berekend gebruik van de in Groep II van Bijlage B genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan vijftien procent van haar berekend gebruik over 1989. Elke Partij die deze stof produceert, verzekert dat gedurende hetzelfde tijdvak haar berekende produktie van deze stof per jaar niet meer bedraagt dan vijftien procent van haar berekende produktie over 1989. Om te voorzien in de fundamentele binnenlandse behoeften van onder de werking van het eerste lid van artikel 5 vallende Partijen mag haar berekende produktie deze limiet evenwel overschrijden met ten hoogste tien procent van haar berekende produktie over 1989.
 
 2. Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 1996 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep II van Bijlage B genoemde aan uitworpbeheersing onderworpen stof nihil is. Elke Partij die deze stof produceert, verzekert dat gedurende dezelfde tijdvakken haar berekende produktie van deze stoffen nihil is. Om te voorzien in de fundamentele binnenlandse behoeften van onder de werking van het eerste lid van artikel 5 vallende Partijen mag haar berekende produktie deze limiet evenwel overschrijden met ten hoogste vijftien procent van haar berekende produktie over 1989. Dit lid is van toepassing, tenzij de Partijen besluiten het produktie- of gebruiksniveau toe te staan dat nodig is om te voorzien in behoeften voor vormen van gebruik waarvan zij overeenkomen dat deze essentieel zijn.
 
-#### Artikel 2E. : 1,1,1-trichloorethaan (methylchloroform)
+##### Artikel 2E. : 1,1,1-trichloorethaan (methylchloroform)
 
 1. Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 1993 haar berekend gebruik van de in Groep III van Bijlage B genoemde aan uitworpbeheersing onderworpen stof per jaar niet meer bedraagt dan haar berekend gebruik over 1989. Elke Partij die deze stof produceert, verzekert dat gedurende hetzelfde tijdvak haar berekende produktie van deze stof per jaar niet meer bedraagt dan haar berekende produktie over 1989. Om te voorzien in de fundamentele binnenlandse behoeften van onder de werking van het eerste lid van artikel 5 vallende Partijen mag haar berekende produktie deze limiet evenwel overschrijden met ten hoogste tien procent van haar berekende produktie over 1989.
 
@@ -154,7 +179,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 3. Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 1996 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep III van Bijlage B genoemde aan uitworpbeheersing onderworpen stof nihil is. Elke Partij die deze stof produceert, verzekert dat gedurende dezelfde tijdvakken haar berekende produktie van deze stoffen nihil is. Om te voorzien in de fundamentele binnenlandse behoeften van onder de werking van het eerste lid van artikel 5 vallende Partijen mag haar berekende produktie deze limiet evenwel overschrijden met ten hoogste vijftien procent van haar berekende produktie over 1989. Dit lid is van toepassing, tenzij de Partijen besluiten het produktie- of gebruiksniveau toe te staan dat nodig is om te voorzien in behoeften voor vormen van gebruik waarvan zij overeenkomen dat deze essentieel zijn.
 
-#### Artikel 2F. : Chloorfluorkoolwaterstoffen
+##### Artikel 2F. : Chloorfluorkoolwaterstoffen
 
 1. Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 1996 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen per jaar niet meer bedraagt dan de som van:
 
@@ -204,11 +229,11 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - c. de in Groep I van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen worden gekozen om te worden gebruikt op een wijze die de ozonlaag zo min mogelijk afbreekt, naast andere vereisten waaraan deze moeten voldoen uit milieu- en veiligheidsoverwegingen en economische overwegingen.
 
-#### Artikel 2G. : Broomfluorkoolwaterstoffen
+##### Artikel 2G. : Broomfluorkoolwaterstoffen
 
 Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 1996 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik van de in Groep II van Bijlage C genoemde aan uitworpbeheersing onderworpen stoffen nihil is. Elke Partij die deze stoffen produceert, verzekert dat gedurende dezelfde tijdvakken haar berekende produktie van deze stoffen nihil is. Dit lid is van toepassing, tenzij de Partijen besluiten het produktie- of gebruiksniveau toe te staan dat nodig is om te voorzien in behoeften voor vormen van gebruik waarvan zij overeenkomen dat deze essentieel zijn.
 
-#### Artikel 2H. : Methylbromide
+##### Artikel 2H. : Methylbromide
 
 1. Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 1995 en in elk tijdvak van twaalf maanden daarna haar berekende gebruik van de in Bijlage E genoemde aan uitworpbeheersing onderworpen stof per jaar niet meer bedraagt dan haar berekende gebruik over 1991. Elke Partij die deze stof produceert, verzekert dat gedurende dezelfde tijdvakken haar berekende produktie van deze stof per jaar niet meer bedraagt dan haar berekende produktie over 1991. Om te voorzien in de fundamentele binnenlandse behoeften van onder artikel 5, eerste lid, vallende Partijen, mag haar berekende produktie deze limiet evenwel overschrijden met ten hoogste tien procent van haar berekende produktie over 1991.
 
@@ -226,11 +251,11 @@ Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op
 
 6. In het berekende gebruik en de berekende produktie ingevolge dit artikel zijn niet inbegrepen de door de Partij gebruikte hoeveelheden voor quarantaine-doeleinden of voor toepassingen voorafgaand aan het vervoer.
 
-#### Artikel 2I. : Broomchloormethaan
+##### Artikel 2I. : Broomchloormethaan
 
 Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 2002 en in elk tijdvak van twaalf maanden daarna haar berekend gebruik en berekende productie van de in Groep III van Bijlage C aan uitworpbeheersing onderworpen stoffen niet hoger is dan nihil. Deze bepaling is van toepassing tenzij de Partijen besluiten het productie- of gebruiksniveau toe te staan dat nodig is om te voorzien in behoeften voor vormen van gebruik waarvan zij overeenkomen dat deze essentieel zijn.
 
-#### Artikel 3. Berekening van de niveaus van beheerste stoffen
+##### Artikel 3. Berekening van de niveaus van beheerste stoffen
 
 1. Voor de toepassing van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&artikel=2&z=2019-06-21&g=2019-06-21), 2A tot en met 2J, en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&artikel=5&z=2019-06-21&g=2019-06-21), dient elke Partij voor elke in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=A&z=2019-06-21&g=2019-06-21), [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=B&z=2019-06-21&g=2019-06-21), [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=C&z=2019-06-21&g=2019-06-21), [Bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=E&z=2019-06-21&g=2019-06-21) of [Bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=F&z=2019-06-21&g=2019-06-21) genoemde groep van stoffen haar berekende niveaus vast te stellen door:
 
@@ -248,7 +273,7 @@ Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op
 
 2. Bij de berekening van de niveaus voor de productie, het gebruik, de invoer, de uitvoer en de uitstoot van de in [groep I van Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=C&z=2019-06-21&g=2019-06-21) en in [Bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=F&z=2019-06-21&g=2019-06-21) genoemde stoffen, uitgedrukt in CO2-equivalenten, voor de toepassing van [artikel 2J](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&artikel=2J&z=2019-06-21&g=2019-06-21), [artikel 2, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&artikel=2&z=2019-06-21&g=2019-06-21), en [artikel 3, eerste lid, letter d](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&artikel=3&z=2019-06-21&g=2019-06-21), dient elke Partij het aardopwarmingsvermogen te gebruiken dat voor deze stoffen is vastgesteld in [groep I van Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=A&z=2019-06-21&g=2019-06-21), Bijlage C en Bijlage F.
 
-#### Artikel 4. Handel met Staten die geen Partij zijn
+##### Artikel 4. Handel met Staten die geen Partij zijn
 
 1. Met ingang van 1 januari 1990 verbiedt elke Partij de invoer van de in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=A&z=2019-06-21&g=2019-06-21) genoemde aan uitworpbeheersing onderworpen stoffen uit Staten die geen Partij zijn bij dit Protocol.
 
@@ -302,13 +327,13 @@ Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op
 
 10. Uiterlijk 1 januari 1996 besluiten de Partijen of het noodzakelijk is dit Protocol te wijzigen ten einde de in dit artikel vervatte maatregelen uit te breiden tot de handel in de in [Groep I van Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=C&z=2019-06-21&g=2019-06-21) en de in [Bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=E&z=2019-06-21&g=2019-06-21) genoemde aan uitworpbeheersing onderworpen stoffen met Staten die geen Partij zijn bij het Protocol.
 
-#### Artikel 4A. : Handel met Partijen
+##### Artikel 4A. : Handel met Partijen
 
 1. Wanneer, na het verstrijken van de datum van geleidelijke stopzetting die voor een Partij van toepassing is, deze Partij ten aanzien van een aan uitworpbeheersing onderworpen stof, ondanks het feit dat zij alle mogelijke stappen heeft ondernomen om aan haar verplichtingen ingevolge het Protocol te voldoen, niet in staat is de productie van die stof voor binnenlands gebruik stop te zetten, anders dan voor vormen van gebruik ten aanzien waarvan de Partijen zijn overeengekomen dat deze cruciaal zijn, verbiedt zij de uitvoer van gebruikte, hergebruikte en geregenereerde hoeveelheden van die stof, anders dan ten behoeve van vernietiging.
 
 2. Het eerste lid van dit artikel is van toepassing onverminderd de toepasselijkheid van [artikel 11 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002799&artikel=11) en de procedure inzake niet-naleving ingevolge artikel 8 van het Protocol.
 
-#### Artikel 4B. : Vergunning
+##### Artikel 4B. : Vergunning
 
 1. Elke Partij zal met ingang van 1 januari 2000 of binnen drie maanden na de datum van inwerkingtreding van dit artikel ten aanzien van haar, naargelang van welke datum later is, een vergunningensysteem voor de invoer en uitvoer van nieuwe, gebruikte, hergebruikte en geregenereerde aan uitworpbeheersing onderworpen stoffen als genoemd in de [Bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=A&z=2019-06-21&g=2019-06-21), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=B&z=2019-06-21&g=2019-06-21), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=C&z=2019-06-21&g=2019-06-21) en [E](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=E&z=2019-06-21&g=2019-06-21) instellen en uitvoeren.
 
@@ -320,7 +345,7 @@ Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op
 
 4. Het Secretariaat stelt periodiek een lijst op van de Partijen die verslag hebben uitgebracht over hun vergunningensysteem en zendt deze aan alle Partijen; het Secretariaat verstrekt deze informatie aan het Implementatiecomité ter bestudering en het doen van passende aanbevelingen aan de Partijen.
 
-#### Artikel 5. Bijzondere positie van ontwikkelingslanden
+##### Artikel 5. Bijzondere positie van ontwikkelingslanden
 
 1. Elke Partij die een ontwikkelingsland is en waarvan het jaarlijkse berekend gebruik van de in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=A&z=2019-06-21&g=2019-06-21) genoemde aan uitworpbeheersing onderworpen stoffen of de datum van inwerkingtreding van het Protocol ten aanzien van die Partij, dan wel op enig later tijdstip tot 1 januari 1999, minder bedraagt dan 0,3 kilogram per hoofd van de bevolking, is gerechtigd, ten einde in haar fundamentele binnenlandse behoeften te voorzien, de naleving van de in de artikelen 2 A tot en met 2E vervatte beheersingsmaatregelen tien jaar op te schorten, met dien verstande dat verdere wijzigingen op de aanpassingen of wijzigingen die zijn aangenomen op de Tweede Vergadering van de Partijen te Londen op 29 juni 1990 van toepassing dienen te zijn op de onder de werking van dit lid vallende Partijen nadat de situatie opnieuw is bezien zoals is voorgeschreven in het achtste lid van dit artikel, en deze verdere wijzigingen daarop dienen te zijn gebaseerd.
 
@@ -440,11 +465,11 @@ Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op
 
 9. Beslissingen van de Partijen zoals bedoeld in het vierde, zesde en zevende lid van dit artikel worden genomen volgens dezelfde procedure als beslissingen die worden genomen krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&artikel=10&z=2019-06-21&g=2019-06-21).
 
-#### Artikel 6. Beoordeling en bestudering van de beheersingsmaatregelen
+##### Artikel 6. Beoordeling en bestudering van de beheersingsmaatregelen
 
 In 1990, en vervolgens ten minste eens in de vier jaar, beoordelen de Partijen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&artikel=2&z=2019-06-21&g=2019-06-21) en de in de artikelen 2A tot en met 2J bedoelde maatregelen aan de hand van de beschikbare wetenschappelijke, milieukundige, technische en economische gegevens. Ten minste één jaar voor elke beoordeling stellen de Partijen de nodige groepen van deskundigen in die gekwalificeerd zijn op de genoemde gebieden en zij stellen de samenstelling en het mandaat van deze groepen vast. Binnen een jaar na hun instelling brengen deze groepen verslag uit van hun bevindingen door tussenkomst van het secretariaat aan de Partijen.
 
-#### Artikel 7. Verstrekking van gegevens
+##### Artikel 7. Verstrekking van gegevens
 
 1. Elke partij verstrekt het secretariaat binnen drie maanden nadat zij Partij is geworden statistische gegevens betreffende haar produktie, invoer en uitvoer van elke van de in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=A&z=2019-06-21&g=2019-06-21) genoemde aan uitworpbeheersing onderworpen stoffen over 1986, dan wel de best mogelijke schattingen, wanneer er geen exacte gegevens beschikbaar zijn.
 
@@ -474,11 +499,11 @@ over het jaar waarin de bepalingen betreffende de in de [Bijlagen A](https://wet
 
 4. Voor de onder de werking van de bepalingen van [artikel 2, achtste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&artikel=2&z=2019-06-21&g=2019-06-21), vallende Partijen geldt dat aan de vereisten van het eerste, tweede, derde lid en lid drie bis van dit artikel betreffende statistische gegevens over productie, invoer en uitvoer is voldaan indien de desbetreffende organisatie voor regionale economische integratie gegevens verstrekt over productie, invoer en uitvoer tussen de organisatie en staten die geen lid van die organisatie zijn.
 
-#### Artikel 8. Niet-naleving
+##### Artikel 8. Niet-naleving
 
 Tijdens hun eerste bijeenkomst keuren de Partijen na bestudering de procedures en institutionele regelen goed, die bedoeld zijn om naleving van de bepalingen van dit Protocol vast te stellen en om op te treden tegen Partijen die deze niet naleven.
 
-#### Artikel 9. Onderzoek, ontwikkeling, bewustmaking en uitwisseling van informatie
+##### Artikel 9. Onderzoek, ontwikkeling, bewustmaking en uitwisseling van informatie
 
 1. De Partijen werken samen, in overeenstemming met hun nationale wetten, voorschriften en praktijken en in het bijzonder rekening houdend met de behoeften van de ontwikkelingslanden, ter bevordering, rechtstreeks of door tussenkomst van de bevoegde internationale organen, van het onderzoek, de ontwikkeling en de uitwisseling van informatie over:
 
@@ -492,7 +517,7 @@ Tijdens hun eerste bijeenkomst keuren de Partijen na bestudering de procedures e
 
 3. Binnen twee jaar na de inwerkingtreding van dit Protocol en vervolgens eens in de twee jaar dient elke Partij bij het secretariaat een overzicht in van de activiteiten die zij uit hoofde van dit artikel heeft verricht.
 
-#### Artikel 10. Financiële regelingen
+##### Artikel 10. Financiële regelingen
 
 1. De Partijen stellen regelingen vast voor financiële en technische samenwerking, met inbegrip van de overdracht van technologieën, ten behoeve van de onder de werking van het eerste lid van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&artikel=5&z=2019-06-21&g=2019-06-21) van dit Protocol vallende Partijen, om hen in staat te stellen de in de artikelen 2A tot en met 2E, [artikel 2I](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&artikel=2I&z=2019-06-21&g=2019-06-21) en [artikel 2J](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&artikel=2J&z=2019-06-21&g=2019-06-21) van het Protocol vervatte beheersingsmaatregelen, en in de artikelen 2F tot en met 2H vervatte beheersingsmaatregelen waartoe wordt besloten ingevolge artikel 5, lid een bis uit te voeren. Bijdragen in het kader van deze regelingen treden niet in de plaats van andere vormen van financiële steun aan de onder de werking van dat lid vallende Partijen. De regelingen dienen alle overeengekomen meerkosten te dekken die die Partijen maken ten einde hen in staat te stellen de beheersingsmaatregelen van het Protocol uit te voeren. De vergadering van de Partijen stelt een lijst van de categorieën van meerkosten samen die als richtsnoer zal dienen. Wanneer een Partij die onder de werking van artikel 5, eerste lid, valt ervoor kiest gebruik te maken van financiering vanuit enige andere financiële regeling waardoor een deel van de overeengekomen meerkosten zou kunnen worden gedekt, wordt dat deel niet gedekt door de financiële regeling van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&artikel=10&z=2019-06-21&g=2019-06-21) van dit Protocol
 
@@ -534,7 +559,7 @@ Tijdens hun eerste bijeenkomst keuren de Partijen na bestudering de procedures e
 
 10. De in dit artikel bedoelde financiële regelingen laten regelingen die in de toekomst ten aanzien van andere milieuvraagstukken worden ontwikkeld, onverlet.
 
-#### Artikel 10A. Overdracht van technologie
+##### Artikel 10A. Overdracht van technologie
 
 Elke Partij neemt alle mogelijke stappen, in overeenstemming met de krachtens de financiële regelingen gesteunde programma's, om te verzekeren:
 
@@ -542,7 +567,7 @@ Elke Partij neemt alle mogelijke stappen, in overeenstemming met de krachtens de
 
 - b. dat de onder letter a bedoelde overdrachten geschieden onder billijke en zo gunstig mogelijke voorwaarden.
 
-#### Artikel 11. Vergaderingen van de Partijen
+##### Artikel 11. Vergaderingen van de Partijen
 
 1. De Partijen komen met regelmatige tussenpozen bijeen. Het secretariaat belegt de eerste vergadering van de Partijen uiterlijk één jaar na de datum van inwerkingtreding van dit Protocol, tegelijk met een vergadering van de Conferentie van de Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002799), indien laatstgenoemde vergadering binnen dit tijdvak is voorzien.
 
@@ -584,7 +609,7 @@ Elke Partij neemt alle mogelijke stappen, in overeenstemming met de krachtens de
 
 5. De Verenigde Naties, haar gespecialiseerde organisaties en de Internationale Organisatie voor Atoomenergie (IAEA), alsmede elke Staat die geen Partij is bij dit Protocol, kunnen door waarnemers worden vertegenwoordigd op de vergaderingen van de Partijen. Alle organen of instellingen, hetzij nationaal of internationaal, gouvernementeel of niet-gouvernementeel welke bevoegd zijn op gebieden die betrekking hebben op de bescherming van de ozonlaag, die het secretariaat hebben medegedeeld dat zij op vergaderingen van de Partijen wensen te worden vertegenwoordigd, kunnen worden toegelaten, tenzij ten minste een derde deel van de aanwezige Partijen daartegen bezwaar maakt. De toelating en deelneming van waarnemers zijn onderworpen aan het huishoudelijk reglement dat door de Partijen is aanvaard.
 
-#### Artikel 12. Het secretariaat
+##### Artikel 12. Het secretariaat
 
 Voor de tenuitvoerlegging van dit Protocol dient het secretariaat:
 
@@ -602,21 +627,21 @@ Voor de tenuitvoerlegging van dit Protocol dient het secretariaat:
 
 - (g). ter verwezenlijking van de doelstellingen van dit Protocol alle andere taken te verrichten waarmee het door de Partijen wordt belast.
 
-#### Artikel 13. Financiën
+##### Artikel 13. Financiën
 
 1. De voor de tenuitvoerlegging van dit Protocol benodigde gelden, met inbegrip van de middelen voor het functioneren van het secretariaat, die met dit Protocol verband houden, worden uitsluitend verkregen uit de bijdragen van de Partijen.
 
 2. De Partijen nemen tijdens hun eerste vergadering door middel van consensus de financiële regelen voor de tenuitvoerlegging van dit Protocol aan.
 
-#### Artikel 14. Verhouding van dit Protocol tot het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002799)
+##### Artikel 14. Verhouding van dit Protocol tot het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002799)
 
 Tenzij anders bepaald in dit Protocol, zijn alle bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002799) die betrekking hebben op protocollen daarbij, op dit Protocol van toepassing.
 
-#### Artikel 15. Ondertekening
+##### Artikel 15. Ondertekening
 
 Dit Protocol staat open voor ondertekening door Staten en organisaties voor regionale economische integratie te Montreal op 16 september 1987, te Ottawa van 17 september 1987 tot 16 januari 1988 en op het Hoofdkantoor van de Verenigde Naties te New York van 17 januari tot 15 september 1988.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 1. Dit Protocol treedt in werking op 1 januari 1989, mits ten minste elf akten van bekrachtiging, aanvaarding of goedkeuring van het Protocol of van toetreding daartoe zijn nedergelegd door Staten of organisaties voor regionale economische integratie die ten minste tweederde van het geschatte mondiale gebruik over 1986 van aan uitworpbeheersing onderworpen stoffen vertegenwoordigen, en is voldaan aan de bepalingen van [artikel 17, eerste lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002799&artikel=17). Ingeval op genoemde datum niet aan deze voorwaarden is voldaan, treedt het Protocol in werking op de negentigste dag na de datum waarop aan de voorwaarden is voldaan.
 
@@ -624,27 +649,27 @@ Dit Protocol staat open voor ondertekening door Staten en organisaties voor regi
 
 3. Na de inwerkingtreding van dit Protocol wordt een Staat of een organisatie voor regionale economische integratie Partij op de negentigste dag na de datum van nederlegging van zijn onderscheidenlijk haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel 17. Partijen die toetreden na de inwerkingtreding
+##### Artikel 17. Partijen die toetreden na de inwerkingtreding
 
 Elke Partij of organisatie voor regionale economische integratie die Partij wordt bij dit Protocol na de datum van inwerkingtreding daarvan dient, onverminderd de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&artikel=5&z=2019-06-21&g=2019-06-21), onmiddellijk te voldoen aan alle in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&artikel=2&z=2019-06-21&g=2019-06-21) alsmede de artikelen 2A tot en met 2J en in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&artikel=4&z=2019-06-21&g=2019-06-21) genoemde verplichtingen die op die datum van toepassing zijn op de Staten en de organisaties voor regionale economische integratie die Partij werden op de datum waarop dit Protocol in werking is getreden.
 
-#### Artikel 18. Voorbehoud
+##### Artikel 18. Voorbehoud
 
 Er mogen geen voorbehouden worden gemaakt ten aanzien van dit Protocol.
 
-#### Artikel 19. Opzegging
+##### Artikel 19. Opzegging
 
 Een Partij kan dit Protocol opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris op elk tijdstip na het verstrijken van vier jaar na het aangaan van de in het eerste lid van artikel 2A genoemde verplichtingen. Een zodanige opzegging wordt van kracht na het verstrijken van een jaar na de datum waarop zij door de Depositaris wordt ontvangen, of op een later tijdstip zoals aangegeven in de kennisgeving van opzegging.
 
-#### Artikel 20. Authentieke teksten
+##### Artikel 20. Authentieke teksten
 
 Het origineel van dit Protocol, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### 1
+##### 1
 
 Luchtbehandelingsapparatuur voor auto's en vrachtauto's (al dan niet in de voertuigen ingebouwd)
 
-#### 2
+##### 2
 
 Uitrusting voor huishoudelijke en commerciële koeling en luchtbehandeling/warmtepompen***Wanneer zij aan uitworpbeheersing onderworpen stoffen als bedoeld in Bijlage A bevatten als koelmiddel en/of in het isolerende materiaal van het produkt.
 
@@ -660,19 +685,19 @@ ijsmachines
 
 luchtbehandelingsapparatuur en warmtepompen
 
-#### 3
+##### 3
 
 Spuitbussen, behalve voor medische doeleinden
 
-#### 4
+##### 4
 
 Draagbare brandblusapparaten
 
-#### 5
+##### 5
 
 Isolatieplaten, panelen en leidingbekledingen
 
-#### 6
+##### 6
 
 Pre-polymeren
 
@@ -680,7 +705,7 @@ IN WITNESS WHEREOF the undersigned, being duly authorized to that effect, have s
 
 DONE at Montreal this sixteenth day of September, one thousand nine hundred and eighty seven.
 
-#### Artikel 2J. : Fluorkoolwaterstoffen
+##### Artikel 2J. : Fluorkoolwaterstoffen
 
 1. Elke Partij verzekert dat gedurende het tijdvak van twaalf maanden dat begint op 1 januari 2019 en in elk tijdvak van twaalf maanden daarna, haar berekend gebruik van de in [Bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=F&z=2019-06-21&g=2019-06-21) genoemde aan uitworpbeheersing onderworpen stoffen, uitgedrukt in CO2-equivalenten, niet meer bedraagt dan het voor het desbetreffende onder a tot en met e vermelde tijdvak vastgestelde percentage van het jaarlijks gemiddelde van haar berekend gebruik van de in Bijlage F genoemde aan uitworpbeheersing onderworpen stoffen voor de jaren 2011, 2012 en 2013, vermeerderd met 15 procent van haar berekend gebruik van de in [groep I van Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=C&z=2019-06-21&g=2019-06-21) genoemde aan uitworpbeheersing onderworpen stoffen, als vastgesteld in [artikel 2F, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&artikel=2F&z=2019-06-21&g=2019-06-21), uitgedrukt in CO2-equivalenten:
 
@@ -736,11 +761,11 @@ DONE at Montreal this sixteenth day of September, one thousand nine hundred and 
 
 7. Elke Partij verzekert dat de vernietiging van in [groep II van Bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=F&z=2019-06-21&g=2019-06-21) genoemde stoffen, die worden gegenereerd in inrichtingen voor de productie van [groep I van Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0002086&bijlage=C&z=2019-06-21&g=2019-06-21) of in Bijlage F genoemde stoffen, uitsluitend met behulp van door de Partijen goedgekeurde technologieën geschiedt.
 
-#### 1
+##### 1
 
 Luchtbehandelingsapparatuur voor auto's en vrachtauto's (al dan niet in de voertuigen ingebouwd)
 
-#### 2
+##### 2
 
 Uitrusting voor huishoudelijke en commerciële koeling en luchtbehandeling/warmtepompen***Wanneer zij aan uitworpbeheersing onderworpen stoffen als bedoeld in Bijlage A bevatten als koelmiddel en/of in het isolerende materiaal van het produkt.
 
@@ -756,19 +781,19 @@ ijsmachines
 
 luchtbehandelingsapparatuur en warmtepompen
 
-#### 3
+##### 3
 
 Spuitbussen, behalve voor medische doeleinden
 
-#### 4
+##### 4
 
 Draagbare brandblusapparaten
 
-#### 5
+##### 5
 
 Isolatieplaten, panelen en leidingbekledingen
 
-#### 6
+##### 6
 
 Pre-polymeren
 

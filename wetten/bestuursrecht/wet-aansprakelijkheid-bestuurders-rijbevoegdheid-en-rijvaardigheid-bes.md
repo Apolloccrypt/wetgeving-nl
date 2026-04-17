@@ -1,16 +1,43 @@
 ---
 title: "Wet aansprakelijkheid bestuurders, rijbevoegdheid en rijvaardigheid BES"
 identifier: "BWBR0028317"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028317"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028317"
+soort: "wet-BES"
+stam_id: "10751463"
+version_id: "18253732"
+internal_id: "C25394791"
+label_id: "10726054"
+dtd_version: "2.0"
+original_entry_into_force: "2010-12-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028317/2011-01-01/0"
+intitule_bron: "Stb.2010-630"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-16"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-830"
+original_signed_date: "2010-12-16"
+original_published_date: "2010-12-24"
+original_effect: "structuurwijziging"
+original_dossier: "32428"
+original_url_id: "stb-2010-830"
+entry_into_force_date: "2010-12-16"
+entry_into_force_dossier: "32428"
+jci_1_3: "jci1.3:c:BWBR0028317&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0028317&g=2011-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-12-16"
+entry_into_force: "2010-12-16"
 ---
-
 # Wet aansprakelijkheid bestuurders, rijbevoegdheid en rijvaardigheid BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van deze wet wordt verstaan onder:
 
@@ -22,7 +49,7 @@ bron: "https://wetten.overheid.nl/BWBR0028317"
 
 2. Voor de toepassing van deze wet worden onder bezitter mede verstaan de beheerder en voorts allen, die krachtens enig zakelijk recht de beschikking over enig goed hebben.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In geval van botsing, aan- of overrijding met een motorrijtuig op een openbare weg, is de eigenaar van dat motorrijtuig aansprakelijk voor de schade toegebracht aan, niet door dat motorrijtuig vervoerde, personen en goederen, tenzij aannemelijk is, dat de schade is te wijten aan overmacht, daaronder begrepen schuld van iemand, voor wie de bezitter niet aansprakelijk is.
 
@@ -38,7 +65,7 @@ bron: "https://wetten.overheid.nl/BWBR0028317"
 
 7. De bij dit artikel gegeven voorschriften laten onverkort de uit het gemene recht voortvloeiende aansprakelijkheid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij veroordeling van de bestuurder van een motorrijtuig wegens overtreding van het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028317&artikel=5&z=2011-01-01&g=2011-01-01) van deze wet, of wegens een feit, waarvan de staat van dronkenschap een wettelijk bestanddeel is, of wegens het veroorzaken van de dood of lichamelijk letsel door schuld, of wegens het plegen van, poging tot, of medeplichtigheid aan enig misdrijf tegen het leven gericht, zware mishandeling, mishandeling de dood of zwaar lichamelijk letsel ten gevolge hebbende, deelneming aan een aanval of vechterij, enig misdrijf tegen de zeden, diefstal, stroperij, afpersing, afdreiging, verduistering, bedrog, of enig misdrijf, waarvan geweld of bedreiging met geweld een wettelijk bestanddeel is, kan hem de bevoegdheid motorrijtuigen te besturen worden ontzegd voor het leven, dan wel tijdelijk voor ten hoogste 20 jaren.
 
@@ -48,21 +75,21 @@ bron: "https://wetten.overheid.nl/BWBR0028317"
 
 4. Bij toepassing van dit artikel verliest het aan de veroordeelde afgegeven rijbewijs of bijzonder rijbewijs zijn geldigheid zodra de veroordeling onherroepelijk is geworden. Door de politie wordt hiervan, na opgave van de bevoegde ambtenaar van het openbaar ministerie, aankondiging gedaan in het afkondigingsblad van het openbaar lichaam.
 
-#### Artikel 4
+##### Artikel 4
 
 [vervallen]
 
-#### Artikel 5
+##### Artikel 5
 
 1. Hij, die wetende, dat hem bij rechterlijke uitspraak onherroepelijk de bevoegdheid motorrijtuigen te besturen is ontzegd, op een openbare weg een motorrijtuig bestuurt gedurende de tijd, dat hem die bevoegdheid ontzegd is, wordt gestraft met gevangenisstraf van ten hoogste zes maanden en een geldboete van ten hoogste de tweede categorie.
 
 2. Het bij het eerste lid strafbaar gesteld feit wordt beschouwd als een misdrijf.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze wet wordt aangehaald als: Wet aansprakelijkheid bestuurders, rijbevoegdheid en rijvaardigheid BES.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Bij verdenking dat de bestuurder van een motorrijtuig heeft gehandeld in strijd met de bij eilandsverordening vastgestelde bepalingen omtrent het gebruik van alcohol of andere stoffen die de rijvaardigheid kunnen verminderen, kan de opsporingsambtenaar onderscheidenlijk de officier van justitie of de hulpofficier van justitie hem bevelen zijn medewerking te verlenen aan een blaastest of speekseltest onderscheidenlijk een onderzoek van bloed of urine teneinde de aanwezigheid van die stoffen vast te stellen.
 

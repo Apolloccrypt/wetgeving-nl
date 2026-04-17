@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake de rechten van personen met een handicap"
 identifier: "BWBV0004045"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2016-07-14
-laatste_update: 2006-12-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004045"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-07-14"
+last_updated: "2006-12-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004045"
+soort: "verdrag"
+stam_id: "10003865003"
+version_id: "10003937392"
+internal_id: "C10009125831"
+label_id: "10003850664"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004045/2016-07-14/0"
+intitule_bron: "Trb.2007-169"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2007-09-11"
+intitule_in_force: "2016-07-26"
+intitule_status: "goed"
+original_publication: "Trb.2007-169"
+original_published_date: "2007-09-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2007-169"
+entry_into_force_date: "2016-07-14"
+jci_1_3: "jci1.3:c:BWBV0004045&z=2016-07-14&g=2016-07-14"
+jci_1_0: "1.0:c:BWBV0004045&g=2016-07-14"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-07-14"
 ---
-
 # Verdrag inzake de rechten van personen met een handicap
 
 Preambule
@@ -66,11 +88,11 @@ Ervan overtuigd dat een allesomvattend en integraal internationaal verdrag om de
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doelstelling
+##### Artikel 1. Doelstelling
 
 Doel van dit Verdrag is het volledige genot door alle personen met een handicap van alle mensenrechten en fundamentele vrijheden op voet van gelijkheid te bevorderen, beschermen en waarborgen, en ook de eerbiediging van hun inherente waardigheid te bevorderen. Personen met een handicap omvat personen met langdurige fysieke, mentale, intellectuele of zintuiglijke beperkingen die hen in wisselwerking met diverse drempels kunnen beletten volledig, effectief en op voet van gelijkheid met anderen te participeren in de samenleving.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -84,7 +106,7 @@ Voor de toepassing van dit Verdrag:
 
 „universeel ontwerp”: ontwerpen van producten, omgevingen, programma’s en diensten die door iedereen in de ruimst mogelijke zin gebruikt kunnen worden zonder dat aanpassing of een speciaal ontwerp nodig is. “Universeel ontwerp” omvat tevens ondersteunende middelen voor specifieke groepen personen met een handicap, indien die nodig zijn.
 
-#### Artikel 3. Algemene beginselen
+##### Artikel 3. Algemene beginselen
 
 De grondbeginselen van dit Verdrag zijn:
 
@@ -104,7 +126,7 @@ De grondbeginselen van dit Verdrag zijn:
 
 - h. Respect voor de zich ontwikkelende capaciteiten van kinderen met een handicap en eerbiediging van het recht van kinderen met een handicap op het behoud van hun eigen identiteit.
 
-#### Artikel 4. Algemene verplichtingen
+##### Artikel 4. Algemene verplichtingen
 
 1. De Staten die Partij zijn verplichten zich te waarborgen en bevorderen dat alle personen met een handicap zonder enige vorm van discriminatie op grond van hun handicap ten volle alle mensenrechten en fundamentele vrijheden kunnen uitoefenen. Hiertoe verplichten de Staten die Partij zijn zich:
 
@@ -134,7 +156,7 @@ De grondbeginselen van dit Verdrag zijn:
 
 5. De bepalingen van dit Verdrag strekken zich zonder beperking of uitzondering uit tot alle delen van federale Staten.
 
-#### Artikel 5. Gelijkheid en non-discriminatie
+##### Artikel 5. Gelijkheid en non-discriminatie
 
 1. De Staten die Partij zijn, erkennen dat eenieder gelijk is voor de wet en zonder aanziens des persoons recht heeft op dezelfde bescherming door, en hetzelfde voordeel van de wet.
 
@@ -144,13 +166,13 @@ De grondbeginselen van dit Verdrag zijn:
 
 4. Specifieke maatregelen die nodig zijn om de feitelijke gelijkheid van personen met een handicap te bespoedigen of verwezenlijken, worden niet aangemerkt als discriminatie in de zin van dit Verdrag.
 
-#### Artikel 6. Vrouwen met een handicap
+##### Artikel 6. Vrouwen met een handicap
 
 1. De Staten die Partij zijn erkennen dat vrouwen en meisjes met een handicap onderworpen zijn aan meervoudige discriminatie en nemen in dat verband maatregelen om hen op voet van gelijkheid het volledige genot van alle mensenrechten en fundamentele vrijheden te garanderen.
 
 2. De Staten die Partij zijn nemen alle passende maatregelen om de volledige ontwikkeling, positieverbetering en mondigheid van vrouwen te waarborgen, teneinde hen de uitoefening en het genot van de mensenrechten en fundamentele vrijheden, vervat in dit Verdrag, te garanderen.
 
-#### Artikel 7. Kinderen met een handicap
+##### Artikel 7. Kinderen met een handicap
 
 1. De Staten die Partij zijn nemen alle nodige maatregelen om te waarborgen dat kinderen met een handicap op voet van gelijkheid met andere kinderen ten volle alle mensenrechten en fundamentele vrijheden genieten.
 
@@ -158,7 +180,7 @@ De grondbeginselen van dit Verdrag zijn:
 
 3. De Staten die Partij zijn waarborgen dat kinderen met een handicap het recht hebben vrijelijk blijk te geven van hun opvattingen over alle aangelegenheden die hen betreffen, waarbij op voet van gelijkheid met andere kinderen en in overeenstemming met hun leeftijd en ontwikkeling naar behoren rekening wordt gehouden met hun opvattingen en waarbij zij bij hun handicap en leeftijd passende ondersteuning krijgen om dat recht te realiseren.
 
-#### Artikel 8. Bevordering van bewustwording
+##### Artikel 8. Bevordering van bewustwording
 
 1. De Staten die Partij zijn verplichten zich onmiddellijke, doeltreffende en passende maatregelen te nemen:
 
@@ -184,7 +206,7 @@ De grondbeginselen van dit Verdrag zijn:
 
 - d. het aanmoedigen van het organiseren van programma’s voor bewustwordingstrainingen met betrekking tot personen met een handicap en de rechten van personen met een handicap.
 
-#### Artikel 9. Toegankelijkheid
+##### Artikel 9. Toegankelijkheid
 
 1. Teneinde personen met een handicap in staat te stellen zelfstandig te leven en volledig deel te nemen aan alle facetten van het leven, nemen de Staten die Partij zijn passende maatregelen om personen met een handicap op voet van gelijkheid met anderen de toegang te garanderen tot de fysieke omgeving, tot vervoer, informatie en communicatie, met inbegrip van informatie- en communicatietechnologieën en –systemen, en tot andere voorzieningen en diensten die openstaan voor, of verleend worden aan het publiek, in zowel stedelijke als landelijke gebieden. Deze maatregelen, die mede de identificatie en bestrijding van obstakels en barrières voor de toegankelijkheid omvatten, zijn onder andere van toepassing op:
 
@@ -210,15 +232,15 @@ De grondbeginselen van dit Verdrag zijn:
 
 - h. het ontwerp, de ontwikkeling, productie en distributie van toegankelijke informatie- en communicatietechnologieën, en communicatiesystemen in een vroeg stadium te bevorderen, opdat deze technologieën en systemen tegen minimale kosten toegankelijk worden.
 
-#### Artikel 10. Recht op leven
+##### Artikel 10. Recht op leven
 
 De Staten die Partij zijn bevestigen opnieuw dat eenieder beschikt over het inherente recht op leven en nemen alle noodzakelijke maatregelen om te waarborgen dat personen met een handicap dat op voet van gelijkheid met anderen ten volle kunnen genieten.
 
-#### Artikel 11. Risicovolle situaties en humanitaire noodsituaties
+##### Artikel 11. Risicovolle situaties en humanitaire noodsituaties
 
 De Staten die Partij zijn nemen in overeenstemming met hun verplichtingen uit hoofde van het internationale recht, met inbegrip van het internationale humanitaire recht en internationale mensenrechtenverdragen alle nodige maatregelen om de bescherming en veiligheid van personen met een handicap in risicovolle situaties, met inbegrip van gewapende conflicten, humanitaire noodsituaties en natuurrampen, te waarborgen.
 
-#### Artikel 12. Gelijkheid voor de wet
+##### Artikel 12. Gelijkheid voor de wet
 
 1. De Staten die Partij zijn bevestigen opnieuw dat personen met een handicap overal als persoon erkend worden voor de wet.
 
@@ -230,13 +252,13 @@ De Staten die Partij zijn nemen in overeenstemming met hun verplichtingen uit ho
 
 5. Met inachtneming van de bepalingen van dit artikel nemen de Staten die Partij zijn alle passende en doeltreffende maatregelen om de gelijke rechten te garanderen van personen met een handicap op eigendom of het erven van vermogen en te waarborgen dat zij hun eigen financiële zaken kunnen behartigen en op voet van gelijkheid toegang hebben tot bankleningen, hypotheken en andere vormen van financiële kredietverstrekking en verzekeren zij dat het vermogen van personen met een handicap hen niet willekeurig wordt ontnomen.
 
-#### Artikel 13. Toegang tot de rechter
+##### Artikel 13. Toegang tot de rechter
 
 1. De Staten die Partij zijn waarborgen personen met een handicap op voet van gelijkheid met anderen de toegang tot een rechterlijke instantie, met inbegrip van procedurele en leeftijdsconforme voorzieningen, teneinde hun effectieve rol als directe en indirecte partij, waaronder als getuige, in alle juridische procedures, met inbegrip van de onderzoeksfase en andere voorbereidende fasen, te faciliteren.
 
 2. Teneinde effectieve toegang tot rechterlijke instanties voor personen met een handicap te helpen waarborgen, bevorderen de Staten die Partij zijn passende training voor diegenen die werkzaam zijn in de rechtsbedeling, met inbegrip van medewerkers van politie en het gevangeniswezen.
 
-#### Artikel 14. Vrijheid en veiligheid van de persoon
+##### Artikel 14. Vrijheid en veiligheid van de persoon
 
 1. De Staten die Partij zijn waarborgen dat personen met een handicap op voet van gelijkheid met anderen:
 
@@ -246,13 +268,13 @@ De Staten die Partij zijn nemen in overeenstemming met hun verplichtingen uit ho
 
 2. De Staten die Partij zijn waarborgen dat indien personen met een handicap op grond van enig proces van hun vrijheid worden beroofd, zij op voet van gelijkheid met anderen recht hebben op de waarborgen in overeenstemming met internationale mensenrechtenverdragen en in overeenstemming met de doelstellingen en beginselen van dit Verdrag worden behandeld, met inbegrip van de verschaffing van redelijke aanpassingen.
 
-#### Artikel 15. Vrijwaring van foltering en andere wrede, onmenselijke of vernederende behandeling of bestraffing
+##### Artikel 15. Vrijwaring van foltering en andere wrede, onmenselijke of vernederende behandeling of bestraffing
 
 1. Niemand zal worden onderworpen aan folteringen of aan wrede, onmenselijke of vernederende behandelingen of bestraffingen. In het bijzonder zal niemand zonder zijn of haar in vrijheid gegeven toestemming worden onderworpen aan medische of wetenschappelijke experimenten.
 
 2. De Staten die Partij zijn nemen alle doeltreffende wetgevende, bestuurlijke, juridische of andere maatregelen om, op gelijke wijze als voor anderen, te voorkomen dat personen met een handicap worden onderworpen aan folteringen of aan wrede, onmenselijke of vernederende behandelingen of bestraffingen.
 
-#### Artikel 16. Vrijwaring van uitbuiting, geweld en misbruik
+##### Artikel 16. Vrijwaring van uitbuiting, geweld en misbruik
 
 1. De Staten die Partij zijn nemen alle passende wetgevende, bestuurlijke, sociale, educatieve en andere maatregelen om personen met een handicap, zowel binnen- als buitenshuis, te beschermen tegen alle vormen van uitbuiting, geweld en misbruik, met inbegrip van de op sekse gebaseerde aspecten daarvan.
 
@@ -264,11 +286,11 @@ De Staten die Partij zijn nemen in overeenstemming met hun verplichtingen uit ho
 
 5. De Staten die Partij zijn implementeren doeltreffende wetgeving en doeltreffend beleid, met inbegrip van wetgeving en beleid, specifiek gericht op vrouwen en kinderen, om te waarborgen dat gevallen van uitbuiting, geweld en misbruik van personen met een handicap worden geïdentificeerd en onderzocht en, indien daartoe aanleiding bestaat, waar aangewezen, strafrechtelijk worden vervolgd.
 
-#### Artikel 17. Bescherming van de persoonlijke integriteit
+##### Artikel 17. Bescherming van de persoonlijke integriteit
 
 Elke persoon met een handicap heeft op voet van gelijkheid met anderen recht op eerbiediging van zijn lichamelijke en geestelijke integriteit.
 
-#### Artikel 18. Vrijheid van verplaatsing en nationaliteit
+##### Artikel 18. Vrijheid van verplaatsing en nationaliteit
 
 1. De Staten die Partij zijn erkennen het recht van personen met een handicap, op voet van gelijkheid met anderen, zich vrijelijk te verplaatsen, vrijelijk hun verblijfplaats te kiezen en het recht op een nationaliteit, onder andere door te waarborgen dat personen met een handicap:
 
@@ -282,7 +304,7 @@ Elke persoon met een handicap heeft op voet van gelijkheid met anderen recht op 
 
 2. Kinderen met een handicap worden onverwijld na hun geboorte ingeschreven en hebben vanaf hun geboorte recht op een naam, het recht een nationaliteit te verwerven en, voor zover mogelijk, het recht hun ouders te kennen en door hen te worden verzorgd.
 
-#### Artikel 19. Zelfstandig wonen en deel uitmaken van de maatschappij
+##### Artikel 19. Zelfstandig wonen en deel uitmaken van de maatschappij
 
 De Staten die Partij zijn bij dit Verdrag erkennen het gelijke recht van alle personen met een handicap om in de maatschappij te wonen met dezelfde keuzemogelijkheden als anderen en nemen doeltreffende en passende maatregelen om het personen met een handicap gemakkelijker te maken dit recht ten volle te genieten en volledig deel uit te maken van, en te participeren in de maatschappij, onder meer door te waarborgen dat:
 
@@ -292,7 +314,7 @@ De Staten die Partij zijn bij dit Verdrag erkennen het gelijke recht van alle pe
 
 - c. de maatschappijdiensten en –faciliteiten voor het algemene publiek op voet van gelijkheid beschikbaar zijn voor personen met een handicap en beantwoorden aan hun behoeften.
 
-#### Artikel 20. Persoonlijke mobiliteit
+##### Artikel 20. Persoonlijke mobiliteit
 
 De Staten die Partij zijn nemen alle effectieve maatregelen om de persoonlijke mobiliteit van personen met een handicap met de grootst mogelijke mate van zelfstandigheid te waarborgen onder meer door:
 
@@ -304,7 +326,7 @@ De Staten die Partij zijn nemen alle effectieve maatregelen om de persoonlijke m
 
 - d. instellingen die mobiliteitshulpmiddelen, -instrumenten en ondersteunende technologieën produceren, aan te moedigen rekening te houden met alle aspecten van mobiliteit voor personen met een handicap.
 
-#### Artikel 21. Vrijheid van mening en meningsuiting en toegang tot informatie
+##### Artikel 21. Vrijheid van mening en meningsuiting en toegang tot informatie
 
 De Staten die Partij zijn nemen alle passende maatregelen om te waarborgen dat personen met een handicap het recht op vrijheid van mening en meningsuiting kunnen uitoefenen, met inbegrip van de vrijheid om op voet van gelijkheid met anderen informatie en denkbeelden te vergaren, te ontvangen en te verstrekken middels elk communicatiemiddel van hun keuze, zoals omschreven in artikel 2 van dit Verdrag, onder meer door:
 
@@ -318,13 +340,13 @@ De Staten die Partij zijn nemen alle passende maatregelen om te waarborgen dat p
 
 - e. het gebruik van gebarentalen te erkennen en te bevorderen.
 
-#### Artikel 22. Eerbiediging van de privacy
+##### Artikel 22. Eerbiediging van de privacy
 
 1. Geen enkele persoon met een handicap, ongeacht zijn of haar woonplaats of woonsituatie, zal worden blootgesteld aan willekeurige of onrechtmatige inmenging in zijn of haar privéleven, gezinsleven, woning of correspondentie, of andere vormen van communicatie, of aan onrechtmatige aantasting van zijn of haar eer en reputatie. Personen met een handicap hebben recht op wettelijke bescherming tegen dergelijke vormen van inmenging of aantasting.
 
 2. De Staten die Partij zijn beschermen de privacy van personen met een handicap met betrekking tot persoonsgegevens en informatie omtrent hun gezondheid en revalidatie op voet van gelijkheid met anderen.
 
-#### Artikel 23. Eerbiediging van de woning en het gezinsleven
+##### Artikel 23. Eerbiediging van de woning en het gezinsleven
 
 1. De Staten die Partij zijn nemen doeltreffende en passende maatregelen om discriminatie van personen met een handicap uit te bannen op het gebied van huwelijk, gezinsleven, ouderschap en relaties op voet van gelijkheid met anderen, teneinde te waarborgen dat:
 
@@ -342,7 +364,7 @@ De Staten die Partij zijn nemen alle passende maatregelen om te waarborgen dat p
 
 5. De Staten die Partij zijn stellen alles in het werk om, indien de naaste familieleden niet in staat zijn voor een kind met een handicap te zorgen, alternatieve zorg te bewerkstelligen binnen de ruimere familiekring en bij ontbreken daarvan in een gezinsvervangend verband binnen de gemeenschap.
 
-#### Artikel 24. Onderwijs
+##### Artikel 24. Onderwijs
 
 1. De Staten die Partij zijn erkennen het recht van personen met een handicap op onderwijs. Teneinde dit recht zonder discriminatie en op basis van gelijke kansen te verwezenlijken, waarborgen Staten die Partij zijn een inclusief onderwijssysteem op alle niveaus en voorzieningen voor een leven lang leren en wel met de volgende doelen:
 
@@ -376,7 +398,7 @@ De Staten die Partij zijn nemen alle passende maatregelen om te waarborgen dat p
 
 5. De Staten die Partij zijn waarborgen dat personen met een handicap, zonder discriminatie en op voet van gelijkheid met anderen, toegang verkrijgen tot algemeen universitair en hoger beroepsonderwijs, beroepsonderwijs, volwasseneneducatie en een leven lang leren. Daartoe waarborgen de Staten die Partij zijn dat redelijke aanpassingen worden verschaft aan personen met een handicap.
 
-#### Artikel 25. Gezondheid
+##### Artikel 25. Gezondheid
 
 De Staten die Partij zijn erkennen dat personen met een handicap zonder discriminatie op grond van hun handicap recht hebben op het genot van het hoogst haalbare niveau van gezondheid. De Staten die Partij zijn nemen alle passende maatregelen om personen met een handicap de toegang te waarborgen tot diensten op het gebied van seksespecifieke gezondheidszorg, met inbegrip van revalidatie. In het bijzonder zullen de Staten die Partij zijn:
 
@@ -392,7 +414,7 @@ De Staten die Partij zijn erkennen dat personen met een handicap zonder discrimi
 
 - f. voorkomen dat gezondheidszorg, gezondheidsdiensten, voedsel en vloeistoffen op discriminatoire gronden vanwege een handicap worden ontzegd.
 
-#### Artikel 26. Habilitatie en revalidatie
+##### Artikel 26. Habilitatie en revalidatie
 
 1. Staten die Partij zijn nemen doeltreffende en passende maatregelen, onder andere via ondersteuning door lotgenoten, om personen met een handicap in staat te stellen de maximaal mogelijke onafhankelijkheid, fysieke, mentale, sociale en beroepsmatige vaardigheden te verwerven en volledige opname in en participatie in alle aspecten van het leven. Daartoe organiseren en versterken de Staten die Partij zijn uitgebreide diensten en programma’s op het gebied van habilitatie en revalidatie en breiden zij deze uit, met name op het gebied van gezondheid, werkgelegenheid, onderwijs en sociale diensten en wel zodanig dat deze diensten en programma’s:
 
@@ -404,7 +426,7 @@ De Staten die Partij zijn erkennen dat personen met een handicap zonder discrimi
 
 3. De Staten die Partij zijn stimuleren de beschikbaarheid, kennis en het gebruik van ondersteunende instrumenten en technologieën die zijn ontworpen voor personen met een handicap, voor zover zij betrekking hebben op habilitatie en revalidatie.
 
-#### Artikel 27. Werk en werkgelegenheid
+##### Artikel 27. Werk en werkgelegenheid
 
 1. De Staten die Partij zijn erkennen het recht van personen met een handicap op werk, op voet van gelijkheid met anderen; dit omvat het recht op de mogelijkheid in het levensonderhoud te voorzien door middel van in vrijheid gekozen of aanvaard werk op een arbeidsmarkt en in een werkomgeving die open zijn, waarbij niemand wordt uitgesloten, en die toegankelijk zijn voor personen met een handicap. De Staten die Partij zijn waarborgen en bevorderen de verwezenlijking van het recht op werk, met inbegrip van personen die gehandicapt raken tijdens de uitoefening van hun functie, door het nemen van passende maatregelen, onder meer door middel van wetgeving, teneinde onder andere:
 
@@ -432,7 +454,7 @@ De Staten die Partij zijn erkennen dat personen met een handicap zonder discrimi
 
 2. De Staten die Partij zijn waarborgen dat personen met een handicap niet in slavernij worden gehouden of anderszins worden gedwongen tot het verrichten van arbeid en op voet van gelijkheid met anderen worden beschermd tegen gedwongen of verplichte arbeid.
 
-#### Artikel 28. Behoorlijke levensstandaard en sociale bescherming
+##### Artikel 28. Behoorlijke levensstandaard en sociale bescherming
 
 1. De Staten die Partij zijn erkennen het recht van personen met een handicap op een behoorlijke levensstandaard voor henzelf en voor hun gezinnen, met inbegrip van voldoende voeding, kleding en huisvesting en op de voortdurende verbetering van hun levensomstandigheden, en nemen passende maatregelen om de verwezenlijking van dit recht zonder discriminatie op grond van handicap te beschermen en te bevorderen.
 
@@ -448,7 +470,7 @@ De Staten die Partij zijn erkennen dat personen met een handicap zonder discrimi
 
 - e. de toegang voor personen met een handicap te waarborgen tot pensioenuitkeringen en -programma’s.
 
-#### Artikel 29. Participatie in het politieke en openbare leven
+##### Artikel 29. Participatie in het politieke en openbare leven
 
 De Staten die Partij zijn garanderen personen met een handicap politieke rechten en de mogelijkheid deze op voet van gelijkheid met anderen te genieten, en verplichten zich:
 
@@ -466,7 +488,7 @@ De Staten die Partij zijn garanderen personen met een handicap politieke rechten
 
 - ii. het oprichten en zich aansluiten bij organisaties van personen met een handicap die personen met een handicap vertegenwoordigen op internationaal, nationaal, regionaal en lokaal niveau.
 
-#### Artikel 30. Deelname aan het culturele leven, recreatie, vrijetijdsbesteding en sport
+##### Artikel 30. Deelname aan het culturele leven, recreatie, vrijetijdsbesteding en sport
 
 1. De Staten die Partij zijn erkennen het recht van personen met een handicap op voet van gelijkheid met anderen deel te nemen aan het culturele leven en nemen alle passende maatregelen om te waarborgen dat personen met een handicap:
 
@@ -494,7 +516,7 @@ De Staten die Partij zijn garanderen personen met een handicap politieke rechten
 
 - e. teneinde te waarborgen dat personen met een handicap toegang hebben tot diensten van degenen die betrokken zijn bij de organisatie van recreatie-, toeristische, vrijetijds- en sportactiviteiten.
 
-#### Artikel 31. Statistieken en het verzamelen van gegevens
+##### Artikel 31. Statistieken en het verzamelen van gegevens
 
 1. De Staten die Partij zijn verplichten zich relevante informatie te verzamelen, met inbegrip van statistische en onderzoeksgegevens, teneinde hen in staat te stellen beleid te formuleren en te implementeren ter uitvoering van dit Verdrag. De procedures voor het verzamelen en actualiseren van deze informatie:
 
@@ -506,7 +528,7 @@ De Staten die Partij zijn garanderen personen met een handicap politieke rechten
 
 3. De Staten die Partij zijn aanvaarden de verantwoordelijkheid voor de verspreiding van deze statistieken en waarborgen dat deze toegankelijk zijn voor zowel personen met een handicap als anderen.
 
-#### Artikel 32. Internationale samenwerking
+##### Artikel 32. Internationale samenwerking
 
 1. De Staten die Partij zijn onderkennen het belang van internationale samenwerking en de bevordering daarvan ter ondersteuning van nationale inspanningen ter verwezenlijking van de doelstellingen van dit Verdrag, en treffen passende en doeltreffende maatregelen in dit verband tussen Staten en, waar toepasselijk, in de vorm van een samenwerkingsverband met relevante internationale en regionale organisaties en het maatschappelijk middenveld, in het bijzonder organisaties van personen met een handicap. Deze maatregelen kunnen onder meer bestaan uit:
 
@@ -520,7 +542,7 @@ De Staten die Partij zijn garanderen personen met een handicap politieke rechten
 
 2. De bepalingen van dit artikel laten de verplichtingen uit hoofde van dit Verdrag van alle Staten die Partij zijn onverlet.
 
-#### Artikel 33. Nationale implementatie en toezicht
+##### Artikel 33. Nationale implementatie en toezicht
 
 1. De Staten die Partij zijn wijzen binnen hun bestuurlijke organisatie een of meer contactpunten aan voor aangelegenheden die betrekking hebben op de uitvoering van dit Verdrag en besteden naar behoren aandacht aan het instellen van een coördinatiesysteem binnen de overheid teneinde de maatregelen in verschillende sectoren en op verschillende niveaus te faciliteren.
 
@@ -528,7 +550,7 @@ De Staten die Partij zijn garanderen personen met een handicap politieke rechten
 
 3. Het maatschappelijk middenveld, in het bijzonder personen met een handicap en de organisaties die hen vertegenwoordigen, wordt betrokken bij en participeert volledig in het monitoringproces.
 
-#### Artikel 34. Comité voor de rechten van personen met een handicap
+##### Artikel 34. Comité voor de rechten van personen met een handicap
 
 1. Er wordt een Comité voor de Rechten van Personen met een Handicap ingesteld (hierna te noemen „het Comité”) dat de hieronder te noemen functies uitoefent.
 
@@ -556,7 +578,7 @@ De Staten die Partij zijn garanderen personen met een handicap politieke rechten
 
 13. De leden van het Comité hebben recht op de faciliteiten, voorrechten en immuniteiten van deskundigen die een missie uitvoeren voor de Verenigde Naties, zoals vastgelegd in de desbetreffende artikelen van het Verdrag nopens de voorrechten en immuniteiten van de Verenigde Naties.
 
-#### Artikel 35. Rapportage door de Staten die Partij zijn
+##### Artikel 35. Rapportage door de Staten die Partij zijn
 
 1. Elke Staat die Partij is dient, binnen twee jaar nadat dit Verdrag voor de desbetreffende Staat die Partij is in werking is getreden, via de Secretaris-Generaal van de Verenigde Naties een uitgebreid rapport in bij het Comité over de maatregelen die zijn genomen om zijn verplichtingen uit hoofde van dit Verdrag na te komen, alsmede over de vooruitgang die is geboekt in dat verband.
 
@@ -568,7 +590,7 @@ De Staten die Partij zijn garanderen personen met een handicap politieke rechten
 
 5. In de rapporten kunnen factoren en problemen worden vermeld die van invloed zijn op de mate waarin de verplichtingen uit hoofde van dit Verdrag worden vervuld.
 
-#### Artikel 36. Behandeling van rapporten
+##### Artikel 36. Behandeling van rapporten
 
 1. Elk rapport wordt behandeld door het Comité dat naar aanleiding daarvan suggesties en algemene aanbevelingen kan doen die het relevant acht en deze doen toekomen aan de desbetreffende Staat die Partij is. De Staat die Partij is, kan daarop reageren door door hem geselecteerde informatie te zenden aan het Comité. Het Comité kan de Staten die Partij zijn verzoeken om nadere informatie met betrekking tot de implementatie van dit Verdrag.
 
@@ -580,13 +602,13 @@ De Staten die Partij zijn garanderen personen met een handicap politieke rechten
 
 5. Indien het dit opportuun acht, zendt het Comité de rapporten van de Staten die Partij zijn aan de gespecialiseerde organisaties, fondsen en programma’s van de Verenigde Naties en andere bevoegde organen om daarin vervatte verzoeken om, of meldingen van hun behoefte aan technisch advies of ondersteuning tezamen met eventueel commentaar of aanbevelingen van het Comité ter zake van deze verzoeken of meldingen aan hen voor te leggen.
 
-#### Artikel 37. Samenwerking tussen Staten die Partij zijn en het Comité
+##### Artikel 37. Samenwerking tussen Staten die Partij zijn en het Comité
 
 1. Elke Staat die Partij is werkt samen met het Comité en ondersteunt zijn leden bij de uitvoering van hun mandaat.
 
 2. In hun betrekkingen met de Staten die Partij zijn, besteedt het Comité voldoende aandacht aan de wegen en manieren om de nationale mogelijkheden voor de implementatie van dit Verdrag te verbeteren, onder andere door middel van internationale samenwerking.
 
-#### Artikel 38. Betrekkingen van het Comité met andere organen
+##### Artikel 38. Betrekkingen van het Comité met andere organen
 
 Teneinde de daadwerkelijke implementatie van dit Verdrag te bevorderen, en de internationale samenwerking op het terrein waarop dit Verdrag betrekking heeft, aan te moedigen:
 
@@ -594,29 +616,29 @@ Teneinde de daadwerkelijke implementatie van dit Verdrag te bevorderen, en de in
 
 - b. kan het Comité bij de uitvoering van zijn mandaat overleggen met andere bevoegde organen die zijn opgericht op grond van internationale mensenrechtenverdragen, teneinde de consistentie van hun onderscheiden rapportagerichtlijnen, suggesties en algemene aanbevelingen te waarborgen en dubbel werk en overlapping bij de vervulling van hun taken te voorkomen.
 
-#### Artikel 39. Rapportage door het Comité
+##### Artikel 39. Rapportage door het Comité
 
 Het Comité brengt eenmaal per twee jaar verslag uit aan de Algemene Vergadering en aan de Economische en Sociale Raad en kan suggesties en algemene aanbevelingen doen naar aanleiding van de bestudering van de rapporten en informatie ontvangen van de Staten die Partij zijn. Deze suggesties en algemene aanbevelingen dienen in het rapport van het Comité te worden opgenomen tezamen met het eventuele commentaar van de Staten die Partij zijn.
 
-#### Artikel 40. Conferentie van de Staten die Partij zijn
+##### Artikel 40. Conferentie van de Staten die Partij zijn
 
 1. De Staten die Partij zijn komen periodiek bijeen in een Conferentie van de Staten die Partij zijn teneinde aangelegenheden te behandelen met betrekking tot de implementatie van dit Verdrag.
 
 2. Uiterlijk zes maanden na de inwerkingtreding van dit Verdrag wordt de Conferentie van de Staten die Partij zijn bijeengeroepen door de Secretaris-Generaal van de Verenigde Naties. De Secretaris-Generaal van de Verenigde Naties belegt de volgende bijeenkomsten eenmaal per twee jaar of wanneer de Conferentie van de Staten die Partij zijn daartoe besluit.
 
-#### Artikel 41. Depositaris
+##### Artikel 41. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties is depositaris van dit Verdrag.
 
-#### Artikel 42. Ondertekening
+##### Artikel 42. Ondertekening
 
 Dit Verdrag staat vanaf 30 maart 2007 op het hoofdkwartier van de Verenigde Naties in New York open voor ondertekening door alle Staten en organisaties voor regionale integratie.
 
-#### Artikel 43. Instemming te worden gebonden
+##### Artikel 43. Instemming te worden gebonden
 
 Dit Verdrag dient te worden bekrachtigd door de ondertekenende Staten en formeel te worden bevestigd door de ondertekenende organisaties voor regionale integratie. Het staat open voor toetreding door elke Staat of organisatie voor regionale integratie die het Verdrag niet heeft ondertekend.
 
-#### Artikel 44. Organisaties voor regionale integratie
+##### Artikel 44. Organisaties voor regionale integratie
 
 1. Een „organisatie voor regionale integratie” is een organisatie die is opgericht door soevereine Staten van een bepaalde regio waaraan haar lidstaten de bevoegdheid hebben overgedragen ter zake van aangelegenheden waarop dit Verdrag van toepassing is. Dergelijke organisaties leggen in hun akten van formele bevestiging of toetreding vast in welke mate zij bevoegd zijn ter zake van aangelegenheden waarop dit Verdrag van toepassing is. Deze organisaties doen de depositaris tevens mededeling van iedere relevante verandering in de reikwijdte van hun bevoegdheden.
 
@@ -626,19 +648,19 @@ Dit Verdrag dient te worden bekrachtigd door de ondertekenende Staten en formeel
 
 4. Organisaties voor regionale integratie oefenen ter zake van binnen hun bevoegdheid vallende aangelegenheden hun stemrecht bij de Conferentie van de Staten die Partij zijn uit met een aantal stemmen dat gelijk is aan het aantal van hun lidstaten die partij zijn bij dit Verdrag. Bedoelde organisaties oefenen hun stemrecht niet uit indien een van hun lidstaten zijn stemrecht uitoefent, en omgekeerd.
 
-#### Artikel 45. Inwerkingtreding
+##### Artikel 45. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking dertig dagen na de nederlegging van de twintigste akte van bekrachtiging of toetreding.
 
 2. Voor elke Staat of organisatie voor regionale integratie die het Verdrag na de nederlegging van de twintigste akte bekrachtigt, formeel bevestigt of ertoe toetreedt, treedt het Verdrag in werking dertig dagen na de nederlegging van zijn akte ter zake.
 
-#### Artikel 46. Voorbehouden
+##### Artikel 46. Voorbehouden
 
 1. Voorbehouden die onverenigbaar zijn met het onderwerp en het doel van dit Verdrag zijn niet toegestaan.
 
 2. Voorbehouden kunnen te allen tijde worden ingetrokken.
 
-#### Artikel 47. Wijzigingen
+##### Artikel 47. Wijzigingen
 
 1. Elke Staat die Partij is kan een wijziging van dit Verdrag voorstellen en indienen bij de Secretaris-Generaal van de Verenigde Naties. De Secretaris-Generaal deelt voorgestelde wijzigingen mede aan de Staten die Partij zijn met het verzoek hem te berichten of zij een conferentie van de Staten die Partij zijn verlangen, teneinde de voorstellen te bestuderen en daarover te beslissen. Indien, binnen vier maanden na de datum van deze mededeling, ten minste een derde van de Staten die Partij zijn een dergelijke conferentie verlangt, roept de Secretaris-Generaal de vergadering onder auspiciën van de Verenigde Naties bijeen. Wijzigingen die worden aangenomen door een meerderheid van twee derde van de aanwezige Staten die Partij zijn en hun stem uitbrengen, worden door de Secretaris-Generaal voorgelegd aan de Algemene Vergadering en vervolgens ter aanvaarding aan alle Staten die Partij zijn.
 
@@ -646,15 +668,15 @@ Dit Verdrag dient te worden bekrachtigd door de ondertekenende Staten en formeel
 
 3. Indien daartoe bij consensus besloten is door de Conferentie van de Staten die Partij zijn, treedt een wijziging die is aangenomen en goedgekeurd in overeenstemming met het eerste lid van dit artikel en uitsluitend betrekking heeft op de artikelen 34, 38, 39 of 40 voor alle Staten die Partij zijn in werking, dertig dagen nadat het aantal neergelegde akten van aanvaarding twee derde bedraagt van het aantal Staten die Partij waren op de datum waarop de wijziging werd aangenomen.
 
-#### Artikel 48. Opzegging
+##### Artikel 48. Opzegging
 
 Een Staat die Partij is kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal van de Verenigde Naties. De opzegging wordt van kracht een jaar na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 49. Toegankelijk format
+##### Artikel 49. Toegankelijk format
 
 De tekst van dit Verdrag wordt beschikbaar gesteld in toegankelijke formats.
 
-#### Artikel 50. Authentieke teksten
+##### Artikel 50. Authentieke teksten
 
 De Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst van dit Verdrag zijn gelijkelijk authentiek.
 

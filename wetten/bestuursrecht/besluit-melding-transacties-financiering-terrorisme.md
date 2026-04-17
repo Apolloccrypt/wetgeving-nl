@@ -1,13 +1,39 @@
 ---
-title: "Besluit melding transacties financiering terrorisme"
+title: "Besluit van 11 oktober 2002 op grond van de Sanctiewet 1977, inzake het melden van transacties die zouden kunnen duiden op de financiering van terrorisme"
 identifier: "BWBR0014119"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-07-01
-laatste_update: 2017-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014119"
+country: "nl"
+rank: "amvb"
+publication_date: "2017-07-01"
+last_updated: "2017-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014119"
+soort: "AMvB"
+stam_id: "3231463"
+version_id: "4982852"
+internal_id: "C5020381"
+label_id: "3203164"
+dtd_version: "2.0"
+original_entry_into_force: "2003-01-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014119/2017-07-01/0"
+intitule_bron: "Stb.2002-553"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-10-11"
+intitule_published: "2002-11-19"
+intitule_in_force: "2002-11-19"
+intitule_status: "goed"
+original_publication: "Stb.2002-553"
+original_signed_date: "2002-10-11"
+original_published_date: "2002-11-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2002-553"
+entry_into_force_date: "2003-01-19"
+jci_1_3: "jci1.3:c:BWBR0014119&z=2017-07-01&g=2017-07-01"
+jci_1_0: "1.0:c:BWBR0014119&g=2017-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit melding transacties financiering terrorisme"
+signed_date: "2002-10-11"
+entry_into_force: "2003-01-19"
 ---
-
 # Besluit van 11 oktober 2002 op grond van de Sanctiewet 1977, inzake het melden van transacties die zouden kunnen duiden op de financiering van terrorisme
 
 Op de voordracht van Onze Minister van Financiën, in overeenstemming met Onze Minister van Buitenlandse Zaken, van 13 juni 2002, nr. WJB 2002-672 M, Centrale directie wetgeving, juridische en bestuurlijke zaken;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Financiën van 7 oktober 2002, FM
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -74,11 +100,11 @@ In dit besluit wordt verstaan onder:
 
 - e. Transactie: een handeling of samenstel van handelingen van of ten behoeve van een cliënt in verband met het afnemen van één of meer financiële diensten.
 
-#### Artikel 2
+##### Artikel 2
 
 Een financiële onderneming doet van elk verzoek om een financiële dienst te verrichten waarbij als wederpartij optreedt, dan wel op andere wijze betrokken is, een natuurlijke persoon, rechtspersoon, groep of entiteit die is vermeld op de lijst, melding aan het meldpunt.
 
-#### Artikel 3
+##### Artikel 3
 
 De melding bevat, voor zover mogelijk, de volgende gegevens:
 
@@ -90,17 +116,17 @@ De melding bevat, voor zover mogelijk, de volgende gegevens:
 
 - d. de omvang en de herkomst van de bij de financiële dienst betrokken gelden, effecten, edele metalen of andere waarden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het meldpunt is bevoegd bij degene die een melding heeft gedaan, alsmede bij degene die bij een financiële dienst als bedoeld in [artikel 1, onderdeel d, onder 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0014119&artikel=1&z=2017-07-01&g=2017-07-01), bij een transactie is betrokken waarover het meldpunt gegevens heeft verzameld, nadere gegevens of inlichtingen te vragen, teneinde te kunnen beoordelen of verzamelde gegevens dienen te worden verstrekt op grond van zijn taak bedoeld in [artikel 13, onderdeel b, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=13).
 
 2. Degene aan wie overeenkomstig het eerste lid deze gegevens of inlichtingen zijn gevraagd, is verplicht deze aan het meldpunt schriftelijk, alsmede in spoedeisende gevallen mondeling, te verstrekken binnen de door het meldpunt gestelde termijn.
 
-#### Artikel 5
+##### Artikel 5
 
 Degene die ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014119&artikel=2&z=2017-07-01&g=2017-07-01) een melding doet, is verplicht tot geheimhouding daarvan, onverminderd het bepaalde in [artikel 10 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10), behoudens voor zover uit de doelstelling van dit besluit de noodzaak tot bekendmaking voortvloeit.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de dag liggende twee maanden na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

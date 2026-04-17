@@ -1,13 +1,39 @@
 ---
-title: "Besluit werkzaamheden Raad voor plantenrassen"
+title: "Besluit van 8 december 2005, houdende regels met betrekking tot de werkzaamheden en procedures van de Raad voor plantenrassen (Besluit werkzaamheden Raad voor plantenrassen)"
 identifier: "BWBR0019209"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-09-30
-laatste_update: 2012-09-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019209"
+country: "nl"
+rank: "amvb"
+publication_date: "2012-09-30"
+last_updated: "2012-09-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019209"
+soort: "AMvB"
+stam_id: "7703513"
+version_id: "12590132"
+internal_id: "C17266871"
+label_id: "7691504"
+dtd_version: "2.0"
+original_entry_into_force: "2006-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019209/2012-09-30/0"
+intitule_bron: "Stb.2005-653"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-08"
+intitule_published: "2005-12-20"
+intitule_in_force: "2006-01-31"
+intitule_status: "goed"
+original_publication: "Stb.2005-653"
+original_signed_date: "2005-12-08"
+original_published_date: "2005-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2005-653"
+entry_into_force_date: "2006-02-01"
+jci_1_3: "jci1.3:c:BWBR0019209&z=2012-09-30&g=2012-09-30"
+jci_1_0: "1.0:c:BWBR0019209&g=2012-09-30"
+citeertitel_status: "officieel"
+short_title: "Besluit werkzaamheden Raad voor plantenrassen"
+signed_date: "2005-12-08"
+entry_into_force: "2006-02-01"
 ---
-
 # Besluit van 8 december 2005, houdende regels met betrekking tot de werkzaamheden en procedures van de Raad voor plantenrassen (Besluit werkzaamheden Raad voor plantenrassen)
 
 Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit, van 1 september 2005, TRCJZ/2005/2598, Directie Juridische Zaken;
@@ -24,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2. Samenstelling van de Raad
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Raad beraadslaagt en besluit in de samenstelling van:
 
@@ -68,7 +94,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. De voorzitter van de Raad kan naast de in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=7) bedoelde personen andere, naar het oordeel van de Raad, betrokkenen uitnodigen een vergadering van een afdeling van de Raad bij te wonen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Afdeling Landbouwgewassen, de Afdeling Tuinbouwgewassen en de Afdeling Bosbouwgewassen zijn belast met de taken die ingevolge de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=5) en [7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&hoofdstuk=7) aan de Raad zijn opgedragen met inachtneming van de taakverdeling vastgesteld in het bestuursreglement, bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=8).
 
@@ -76,7 +102,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 3. Het rassenregister
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het rassenregister wordt gehouden door de Raad.
 
@@ -86,7 +112,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. het register van inschrijving.
 
-#### Artikel 5
+##### Artikel 5
 
 1. In het register van aanvragen, bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=3&artikel=4&z=2012-09-30&g=2012-09-30), worden onder vermelding van een dagtekening ingeschreven:
 
@@ -120,7 +146,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - j. hetgeen de Raad overigens dienstig acht.
 
-#### Artikel 6
+##### Artikel 6
 
 1. In het register van inschrijving, bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=3&artikel=4&z=2012-09-30&g=2012-09-30), worden onder vermelding van een dagtekening ingeschreven:
 
@@ -144,7 +170,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. hetgeen de Raad overigens dienstig acht.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij ministeriële regeling kunnen regels worden gesteld over de gevallen waarin en de voorwaarden waaronder in het Nederlands rassenregister aantekening wordt gedaan van de cultuur- en gebruikswaarde-aspecten van een ingeschreven ras.
 
@@ -154,7 +180,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 4. De toelating van rassen en opstanden
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een ras van bij ministeriële regeling aan te wijzen groentegewassen wordt toegelaten indien het
 
@@ -166,7 +192,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij ministeriële regeling kunnen gewassen worden aangewezen waarvan de rassen worden toegelaten indien is voldaan aan de voorwaarden, bedoeld in het eerste lid, en deze rassen blijkens technisch onderzoek voldoen aan het vereiste, bedoeld in [artikel 35, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35).
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een ras van bij ministeriële regeling aan te wijzen landbouwgewassen wordt toegelaten indien het
 
@@ -188,7 +214,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij ministeriële regeling kunnen nadere groepen van rassen worden vastgesteld, waarop de in het tweede lid bedoelde uitzondering van toepassing is.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een opstand, onderscheidenlijk een ras, van bij ministeriële regeling aan te wijzen bosbouwgewassen wordt toegelaten
 
@@ -206,7 +232,7 @@ indien voldaan is aan de bij of krachtens [richtlijn 1999/105/EG](31999L0105) ge
 
 3. Bij ministeriële regeling kunnen voor elk van de categorieën, genoemd in het eerste lid, nadere regels worden gesteld over de toelating van opstanden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Bij ministeriële regeling kunnen overeenkomstig [artikel 85 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=85) nadere regels worden gesteld over de toelating van plantengroepen die niet aan de vereisten van [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35) voldoen.
 
@@ -214,7 +240,7 @@ indien voldaan is aan de bij of krachtens [richtlijn 1999/105/EG](31999L0105) ge
 
 3. De Raad beslist op aanvraag omtrent de toelating, bedoeld in het eerste lid.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een ras dat of een opstand die een genetisch gemodificeerd organisme is als bedoeld in [richtlijn 2001/18/EG](32001L0018), wordt uitsluitend toegelaten op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2012-09-30&g=2012-09-30), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8a&z=2012-09-30&g=2012-09-30), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2012-09-30&g=2012-09-30), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2012-09-30&g=2012-09-30) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2012-09-30&g=2012-09-30) indien overeenkomstig de eerdergenoemde richtlijn toestemming is verleend om dat materiaal in de handel te brengen.
 
@@ -224,13 +250,13 @@ indien voldaan is aan de bij of krachtens [richtlijn 1999/105/EG](31999L0105) ge
 
 4. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de gevallen waarin en de voorwaarden waaronder een toelating als bedoeld in het eerste lid wordt gewijzigd of ingetrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Raad draagt zorg voor de bewaring van het dossier waarop een toelating als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2012-09-30&g=2012-09-30), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2012-09-30&g=2012-09-30), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2012-09-30&g=2012-09-30) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2012-09-30&g=2012-09-30) berust.
 
 2. Het dossier, bedoeld in het eerste lid, bevat alle feiten en gegevens die uit het technisch onderzoek zijn voortgekomen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een toelating ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2012-09-30&g=2012-09-30), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2012-09-30&g=2012-09-30), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2012-09-30&g=2012-09-30), of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2012-09-30&g=2012-09-30) geldt ten hoogste tot en met het tiende kalenderjaar na de toelating.
 
@@ -238,7 +264,7 @@ indien voldaan is aan de bij of krachtens [richtlijn 1999/105/EG](31999L0105) ge
 
 3. De Raad trekt een toelating ingevolge de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=8&z=2012-09-30&g=2012-09-30), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=9&z=2012-09-30&g=2012-09-30), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=10&z=2012-09-30&g=2012-09-30) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=11&z=2012-09-30&g=2012-09-30) in, ingeval naar zijn oordeel niet meer aan de aan de toelating gestelde eisen wordt voldaan.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Met betrekking tot een toegelaten ras wijst de Raad op verzoek, één of meer andere instandhouders aan, dan de in het kader van de toelating aangewezen instandhouder of instandhouders.
 
@@ -252,7 +278,7 @@ indien voldaan is aan de bij of krachtens [richtlijn 1999/105/EG](31999L0105) ge
 
 4. Om de systematische instandhouding van een ras te beoordelen wint de Raad inlichtingen in bij de instelling die belast is met de keuring van teeltmateriaal van dat ras.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het technische onderzoek, bedoeld in [artikel 35, eerste lid, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), wordt in opdracht van de Raad uitgevoerd door een door de Raad daartoe aangewezen instelling.
 
@@ -260,21 +286,21 @@ indien voldaan is aan de bij of krachtens [richtlijn 1999/105/EG](31999L0105) ge
 
 3. Bij ministeriële regeling kunnen regels worden gesteld omtrent de gevallen waarin en de voorwaarden waaronder een ten behoeve van de aanvrager uitgevoerd onderzoek en bij de teelt opgedane praktische ervaringen in de plaats kunnen komen van een door de Raad aangewezen instelling uit te voeren onderzoek.
 
-#### Artikel 17
+##### Artikel 17
 
 Bij ministeriële regeling worden regels gesteld over de wijze waarop een onderzoek als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=16&z=2012-09-30&g=2012-09-30) wordt uitgevoerd en de per gewas vastgestelde kenmerken waarover het onderzoek zich uitstrekt.
 
-#### Artikel 18
+##### Artikel 18
 
 De Raad stelt een of meer protocollen op met betrekking tot de inrichting en uitvoering van het technisch onderzoek, bedoeld in [artikel 35, eerste lid, onderdelen a, b en c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35).
 
-#### Artikel 19
+##### Artikel 19
 
 1. Indien vóór de datum waarop een aanvraag tot toelating van een ras in behandeling kan worden genomen, een procedure bij een andere met rassentoelating of kwekersrechtverlening belaste autoriteit aanhangig is gemaakt, op grond waarvan een ras zal worden onderzocht, wordt onderzocht of is onderzocht op de vereisten, bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=35), kan de Raad besluiten de beoordeling op dat onderzoek te baseren.
 
 2. Bij ministeriële regeling worden regels gesteld over de gevallen waarin en de voorwaarden waaronder de Raad een besluit als bedoeld in het eerste lid kan nemen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Indien voor de toelating van een ras een technisch onderzoek is vereist, wordt het voor dat onderzoek bestemde materiaal binnen een door de Raad gestelde termijn aan de Raad ter beschikking gesteld.
 
@@ -284,11 +310,11 @@ De Raad stelt een of meer protocollen op met betrekking tot de inrichting en uit
 
 #### Paragraaf 5. Kwekersrecht
 
-#### Artikel 21
+##### Artikel 21
 
 Op het technisch onderzoek, bedoeld in [artikel 49, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=49), zijn de [artikelen 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=16&z=2012-09-30&g=2012-09-30), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=18&z=2012-09-30&g=2012-09-30) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&paragraaf=4&artikel=20&z=2012-09-30&g=2012-09-30) van overeenkomstige toepassing.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het gebruik van geoogst materiaal als bedoeld in [artikel 59, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=59) is uitsluitend toegestaan ten aanzien van geoogst materiaal van graangewassen en van het gewas aardappel.
 
@@ -296,7 +322,7 @@ Op het technisch onderzoek, bedoeld in [artikel 49, zevende lid, van de wet](htt
 
 #### Paragraaf 6. Overige bepalingen en slotbepalingen
 
-#### Artikel 23
+##### Artikel 23
 
 Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
 
@@ -306,7 +332,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
 
 - c. het horen van belanghebbenden door de Raad in de bij de Raad te volgen procedures naar aanleiding van bij de Raad ingediende aanvragen en verzoeken.
 
-#### Artikel 24
+##### Artikel 24
 
 De volgende besluiten worden ingetrokken:
 
@@ -332,17 +358,17 @@ De volgende besluiten worden ingetrokken:
 
 - k. [Reglement voor de kamer voor het kwekersrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002572).
 
-#### Artikel 25
+##### Artikel 25
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 26
+##### Artikel 26
 
 Dit besluit wordt aangeduid als: Besluit werkzaamheden Raad voor plantenrassen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 8a
+##### Artikel 8a
 
 Bij ministeriële regeling kunnen regels worden gesteld over de toelating van rassen van bij die regeling aan te wijzen fruitgewassen. Deze regels kunnen betrekking hebben op de eisen voor de officiële registratie van rassen, genoemd in artikel 7, vierde en vijfde lid, van richtlijn 2008/90/EG.
 

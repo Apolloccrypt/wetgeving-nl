@@ -1,13 +1,38 @@
 ---
 title: "Kavelbesluit kavel Beta windenergiegebied IJmuiden Ver"
 identifier: "BWBR0049198"
-categorie: "Overig"
-publicatiedatum: 2024-02-01
-laatste_update: 2024-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049198"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-02-01"
+last_updated: "2024-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049198"
+soort: "ministeriele-regeling"
+stam_id: "16991813"
+version_id: "29881672"
+internal_id: "C42838181"
+label_id: "16902024"
+dtd_version: "2.0"
+original_entry_into_force: "2024-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049198/2024-02-01/0"
+intitule_bron: "Stcrt.2023-35270"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-06"
+intitule_published: "2023-12-28"
+intitule_in_force: "2023-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-35270"
+original_signed_date: "2023-12-06"
+original_published_date: "2023-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-35270"
+entry_into_force_date: "2024-02-01"
+jci_1_3: "jci1.3:c:BWBR0049198&z=2024-02-01&g=2024-02-01"
+jci_1_0: "1.0:c:BWBR0049198&g=2024-02-01"
+citeertitel_status: "redactioneel"
+signed_date: "2023-12-06"
+entry_into_force: "2024-02-01"
 ---
-
 # Kavelbesluit kavel Beta windenergiegebied IJmuiden Ver
 
 ### I. Besluit

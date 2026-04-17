@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst van Straatsburg van 24 maart 1971 betreffende de internationale classificatie van octrooien"
 identifier: "BWBV0003481"
-categorie: "Internationaal recht"
-publicatiedatum: 1982-02-25
-laatste_update: 1982-02-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003481"
+country: "nl"
+rank: "verdrag"
+publication_date: "1982-02-25"
+last_updated: "1982-02-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003481"
+soort: "verdrag"
+stam_id: "10003557723"
+version_id: "10003613412"
+internal_id: "C10006983661"
+label_id: "10003543434"
+dtd_version: "2.0"
+original_entry_into_force: "1975-10-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003481/1982-02-25/0"
+intitule_bron: "Trb.1972-81"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1972-08-08"
+intitule_in_force: "1974-12-05"
+intitule_status: "goed"
+original_publication: "Trb.1972-81"
+original_published_date: "1972-08-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1972-81"
+entry_into_force_date: "1975-10-07"
+jci_1_3: "jci1.3:c:BWBV0003481&z=1982-02-25&g=1982-02-25"
+jci_1_0: "1.0:c:BWBV0003481&g=1982-02-25"
+citeertitel_status: "redactioneel"
+entry_into_force: "1975-10-07"
 ---
-
 # Overeenkomst van Straatsburg van 24 maart 1971 betreffende de internationale classificatie van octrooien
 
 De Overeenkomstsluitende Partijen,
@@ -24,11 +46,11 @@ Gelet op [artikel 19 van het Verdrag van Parijs van 20 maart 1883 tot beschermin
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1. Oprichting van een Bijzondere Unie Aanvaarding van een internationale classificatie
+##### Artikel 1. Oprichting van een Bijzondere Unie Aanvaarding van een internationale classificatie
 
 De landen waarvoor deze Overeenkomst geldt vormen een bijzondere Unie en aanvaarden een gemeenschappelijke classificatie voor octrooien, uitvinderscertificaten, gebruiksmodellen en gebruikscertificaten, „internationale classificatie van octrooien” genaamd (hierna te noemen „classificatie”).
 
-#### Artikel 2. Omschrijving van de classificatie
+##### Artikel 2. Omschrijving van de classificatie
 
 - (a). De classificatie wordt gevormd door:
 
@@ -46,13 +68,13 @@ De landen waarvoor deze Overeenkomst geldt vormen een bijzondere Unie en aanvaar
 
 - (c). De wijzigingen bedoeld in het eerste lid, onder (a), (iii), worden in één enkel authentiek exemplaar, in de Engelse en de Franse taal, nedergelegd bij de Directeur-Generaal.
 
-#### Artikel 3. Talen van de classificatie
+##### Artikel 3. Talen van de classificatie
 
 (1). De classificatie wordt opgesteld in de Engelse en de Franse taal, welke beide teksten gelijkelijk gezaghebbend zijn.
 
 (2). Het Internationale Bureau van de Organisatie (hierna te noemen „het Internationale Bureau”) stelt na raadpleging van de betrokken Regeringen, hetzij aan de hand van een door deze Regeringen voorgestelde vertaling, hetzij op een andere wijze die geen financiële gevolgen heeft voor de begroting van de Bijzondere Unie of voor de Organisatie, officiële teksten van de classificatie vast in de Duitse, de Japanse, de Portugese, de Russische en de Spaanse taal alsmede in andere door de in artikel 7 bedoelde Algemene Vergadering aan te wijzen talen.
 
-#### Artikel 4. Toepassing van de classificatie
+##### Artikel 4. Toepassing van de classificatie
 
 (1). De classificatie draagt slechts een administratief karakter.
 
@@ -76,7 +98,7 @@ de volledige tekens te vermelden van de classificatie gegeven aan de uitvinding 
 
 (6). Indien een land van de Bijzondere Unie de verlening van octrooien toevertrouwt aan een intergouvernementele instantie, neemt het alle maatregelen die in zijn vermogen liggen opdat deze instantie de classificatie overeenkomstig dit artikel toepast.
 
-#### Artikel 5. Commissie van deskundigen
+##### Artikel 5. Commissie van deskundigen
 
 (1). Er wordt een Commissie van deskundigen ingesteld, waarin elk land van de Bijzondere Unie is vertegenwoordigd.
 
@@ -108,13 +130,13 @@ de volledige tekens te vermelden van de classificatie gegeven aan de uitvinding 
 
 - (d). Onthouding geldt niet als stem.
 
-#### Artikel 6. Kennisgeving, inwerkingtreding en openbaarmaking van wijzigingen en andere besluiten
+##### Artikel 6. Kennisgeving, inwerkingtreding en openbaarmaking van wijzigingen en andere besluiten
 
 (1). Alle besluiten van de Commissie van deskundigen betreffende aanvaarding van wijzigingen in de classificatie, alsook de aanbevelingen van de Commissie van deskundigen worden door het Internationale Bureau ter kennis gebracht van de bevoegde instanties van de landen van de Bijzondere Unie. De wijzigingen treden in werking zes maanden na de datum van toezending van de kennisgeving.
 
 (2). Het Internationale Bureau neemt de in werking getreden wijzigingen op in de classificatie. De mededelingen van de wijzigingen worden openbaar gemaakt in de tijdschriften, aangewezen door de in artikel 7 bedoelde Algemene Vergadering.
 
-#### Artikel 7. Algemene Vergadering van de Bijzondere Unie
+##### Artikel 7. Algemene Vergadering van de Bijzondere Unie
 
 - (a). De Bijzondere Unie kent een Algemene Vergadering, samengesteld uit de landen van de Bijzondere Unie.
 
@@ -168,7 +190,7 @@ de volledige tekens te vermelden van de classificatie gegeven aan de uitvinding 
 
 (5). De Algemene Vergadering stelt haar eigen reglement van orde vast.
 
-#### Artikel 8. Internationaal Bureau
+##### Artikel 8. Internationaal Bureau
 
 - (a). De aan de Bijzondere Unie toevallende administratieve taken worden verricht door het Internationale Bureau.
 
@@ -186,7 +208,7 @@ de volledige tekens te vermelden van de classificatie gegeven aan de uitvinding 
 
 (4). Het Internationale Bureau voert alle overige aan hem opgedragen taken uit.
 
-#### Artikel 9. Financiën
+##### Artikel 9. Financiën
 
 - (a). De Bijzondere Unie heeft een begroting.
 
@@ -232,7 +254,7 @@ de volledige tekens te vermelden van de classificatie gegeven aan de uitvinding 
 
 (8). Het nazien der rekeningen wordt verricht, op de wijze voorzien in het financieel reglement, door één of meer landen van de Bijzondere Unie of door onafhankelijke controleurs, die, met hun instemming, zijn aangewezen door de Algemene Vergadering.
 
-#### Artikel 10. Herziening van de Overeenkomst
+##### Artikel 10. Herziening van de Overeenkomst
 
 (1). Deze Overeenkomst kan periodiek worden herzien door speciale conferenties van de landen van de Bijzondere Unie.
 
@@ -240,7 +262,7 @@ de volledige tekens te vermelden van de classificatie gegeven aan de uitvinding 
 
 (3). De artikelen 7, 8, 9 en 11 kunnen worden gewijzigd door herzieningsconferenties of volgens het bepaalde in artikel 11.
 
-#### Artikel 11. Wijziging van sommige bepalingen van de Overeenkomst
+##### Artikel 11. Wijziging van sommige bepalingen van de Overeenkomst
 
 (1). Voorstellen tot wijziging van de artikelen 7, 8, 9 en van dit artikel kunnen worden ingediend door ieder land van de Bijzondere Unie of door de Directeur-Generaal. Deze voorstellen worden door laatstgenoemde ten minste zes maanden voor zij aan de behandeling door de Algemene Vergadering worden onderworpen, medegedeeld aan de landen van de Bijzondere Unie.
 
@@ -252,7 +274,7 @@ de volledige tekens te vermelden van de classificatie gegeven aan de uitvinding 
 
 - (c). Een overeenkomstig het bepaalde onder (a) aanvaarde wijziging bindt alle landen die lid van de Bijzondere Unie worden na de datum waarop de wijziging in werking is getreden overeenkomstig het bepaalde onder (a).
 
-#### Artikel 12. Wijzen waarop landen partij bij de Overeenkomst kunnen worden
+##### Artikel 12. Wijzen waarop landen partij bij de Overeenkomst kunnen worden
 
 (1). Elk land dat partij is bij het [Verdrag van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120) kan partij bij deze Overeenkomst worden door:
 
@@ -266,7 +288,7 @@ de volledige tekens te vermelden van de classificatie gegeven aan de uitvinding 
 
 (4). Het derde lid mag op generlei wijze zo worden uitgelegd dat het de erkenning of stilzwijgende aanvaarding door enig land van de Bijzondere Unie inhoudt van de feitelijke situatie betreffende een gebied waarop deze Overeenkomst door een ander land krachtens dat lid van toepassing wordt verklaard.
 
-#### Artikel 13. Inwerkingtreding van de Overeenkomst
+##### Artikel 13. Inwerkingtreding van de Overeenkomst
 
 - (a). Deze Overeenkomst treedt in werking een jaar na nederlegging van de akten van bekrachtiging of toetreding
 
@@ -280,11 +302,11 @@ de volledige tekens te vermelden van de classificatie gegeven aan de uitvinding 
 
 (2). Bekrachtiging of toetreding houdt van rechtswege in aanvaarding van alle bepalingen en toelating tot alle voordelen in deze Overeenkomst vastgelegd.
 
-#### Artikel 14. Looptijd van de Overeenkomst
+##### Artikel 14. Looptijd van de Overeenkomst
 
 Deze Overeenkomst heeft dezelfde looptijd als het [Verdrag van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120).
 
-#### Artikel 15. Opzegging
+##### Artikel 15. Opzegging
 
 (1). Elk land van de Bijzondere Unie kan deze Overeenkomst opzeggen door een kennisgeving gericht aan de Directeur-Generaal.
 
@@ -292,7 +314,7 @@ Deze Overeenkomst heeft dezelfde looptijd als het [Verdrag van Parijs tot besche
 
 (3). Het recht van opzegging, bedoeld in dit artikel, kan door een land niet worden uitgeoefend vóór de afloop van een termijn van vijf jaar te rekenen van de datum waarop dat land lid is geworden van de Bijzondere Unie.
 
-#### Artikel 16. Ondertekening, talen, kennisgevingen, depositaire functies
+##### Artikel 16. Ondertekening, talen, kennisgevingen, depositaire functies
 
 - (a). Deze Overeenkomst wordt ondertekend in een enkel oorspronkelijk exemplaar, in de Engelse en de Franse taal, welke beide teksten gelijkelijk gezaghebbend zijn.
 
@@ -326,7 +348,7 @@ Deze Overeenkomst heeft dezelfde looptijd als het [Verdrag van Parijs tot besche
 
 - (vii). de ontvangen opzeggingen.
 
-#### Artikel 17. Overgangsbepalingen
+##### Artikel 17. Overgangsbepalingen
 
 (1). Gedurende twee jaar na de inwerkingtreding van deze Overeenkomst kunnen de landen die partij zijn bij het Europees Verdrag maar nog geen lid zijn van de Bijzondere Unie, indien zij zulks wensen, in de Commissie van deskundigen dezelfde rechten uitoefenen alsof zij lid van de Bijzondere Unie zijn.
 

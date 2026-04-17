@@ -1,14 +1,42 @@
 ---
-title: "Wet vervolging en berechting in Nederland van strafbare feiten in verband met neerhalen Malaysia Airlines vlucht MH17"
+title: "Wet van 11 juli 2018, houdende bepalingen samenhangend met de vervolging en berechting in Nederland van strafbare feiten die verband houden met het neerhalen van Malaysia Airlines vlucht MH17 op 17 juli 2014"
 identifier: "BWBR0041260"
-categorie: "Milieu"
-publicatiedatum: 2018-08-25
-laatste_update: 2018-08-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041260"
+country: "nl"
+rank: "wet"
+publication_date: "2018-08-25"
+last_updated: "2018-08-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041260"
+soort: "wet"
+stam_id: "14699803"
+version_id: "25186462"
+internal_id: "C36016091"
+label_id: "14651984"
+dtd_version: "2.0"
+original_entry_into_force: "2018-08-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041260/2018-08-25/0"
+intitule_bron: "Stb.2018-263"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-07-11"
+intitule_published: "2018-08-24"
+intitule_in_force: "2018-08-24"
+intitule_status: "goed"
+original_publication: "Stb.2018-263"
+original_signed_date: "2018-07-11"
+original_published_date: "2018-08-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "34916"
+original_url_id: "stb-2018-263"
+entry_into_force_date: "2018-08-25"
+entry_into_force_dossier: "34916"
+jci_1_3: "jci1.3:c:BWBR0041260&z=2018-08-25&g=2018-08-25"
+jci_1_0: "1.0:c:BWBR0041260&g=2018-08-25"
+citeertitel_status: "redactioneel"
+short_title: "Wet vervolging en berechting in Nederland van strafbare feiten in verband met neerhalen Malaysia Airlines vlucht MH17"
+signed_date: "2018-07-11"
+entry_into_force: "2018-08-25"
 ---
-
-# Wet vervolging en berechting in Nederland van strafbare feiten in verband met neerhalen Malaysia Airlines vlucht MH17
+# Wet van 11 juli 2018, houdende bepalingen samenhangend met de vervolging en berechting in Nederland van strafbare feiten die verband houden met het neerhalen van Malaysia Airlines vlucht MH17 op 17 juli 2014
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +44,7 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is enige wettelijke 
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -24,17 +52,17 @@ In deze wet wordt verstaan onder:
 
 - b. **zaak:** strafbare feiten die verband houden met het neerhalen vlucht MH17 van Malaysia Airlines op 17 juli 2014.
 
-#### Artikel 2
+##### Artikel 2
 
 In afwijking van [artikel 2 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2) is de rechtbank Den Haag bevoegd tot kennisneming van strafbare feiten die verband houden met het neerhalen van Malaysia Airlines vlucht MH17 op 17 juli 2014.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister van Justitie en Veiligheid zendt een verzoek van de Oekraïense autoriteiten tot het instellen van een strafvervolging als bedoeld in artikel 6 van het verdrag, met de daarbij gevoegde stukken aan de officier van justitie bij het landelijk parket.
 
 2. [Artikel 5.3.9, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=5.3.9) is niet van toepassing indien degene op wie het verzoek, bedoeld in het eerste lid, betrekking heeft, zich buiten Nederland bevindt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een verdachte als bedoeld in artikel 8, eerste lid, van het verdrag kan aanwezig zijn bij het onderzoek van de zaak ter terechtzitting met gebruikmaking van videoconferentie.
 
@@ -52,19 +80,19 @@ In afwijking van [artikel 2 van het Wetboek van Strafvordering](https://wetten.o
 
 8. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de uitvoering van dit artikel, voor zover aanvulling op of afwijking van de regels vervat in de op grond van [artikel 131a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=131a) vastgestelde algemene maatregel van bestuur noodzakelijk is.
 
-#### Artikel 5
+##### Artikel 5
 
 De voorzitter van het gerecht in feitelijke aanleg dat de zaak behandelt, kan bepalen dat bij het onderzoek van de zaak ter terechtzitting gebruik wordt gemaakt van de Engelse taal.
 
-#### Artikel 6
+##### Artikel 6
 
 De [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&artikel=54) en [55 van de Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&artikel=55) zijn niet van toepassing in geval van de overdracht van de tenuitvoerlegging op grond van deel V van het verdrag.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt deze wet.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze wet treedt, onder toepassing van [artikel 12, eerste lid, van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 

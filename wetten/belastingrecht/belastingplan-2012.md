@@ -1,14 +1,42 @@
 ---
-title: "Belastingplan 2012"
+title: "Wet van 22 december 2011 houdende wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2012)"
 identifier: "BWBR0030999"
-categorie: "Belastingrecht"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030999"
+country: "nl"
+rank: "wet"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030999"
+soort: "wet"
+stam_id: "11594813"
+version_id: "20045682"
+internal_id: "C28155701"
+label_id: "11568224"
+dtd_version: "2.0"
+original_entry_into_force: "2012-12-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030999/2017-01-01/0"
+intitule_bron: "Stb.2011-639"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-12-22"
+intitule_published: "2011-12-29"
+intitule_in_force: "2011-12-29"
+intitule_status: "goed"
+original_publication: "Stb.2012-668"
+original_signed_date: "2012-12-20"
+original_published_date: "2012-12-27"
+original_effect: "structuurwijziging"
+original_dossier: "33402"
+original_url_id: "stb-2012-668"
+entry_into_force_date: "2012-12-20"
+entry_into_force_dossier: "33402"
+jci_1_3: "jci1.3:c:BWBR0030999&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBR0030999&g=2017-01-01"
+citeertitel_status: "officieel"
+short_title: "Belastingplan 2012"
+signed_date: "2012-12-20"
+entry_into_force: "2012-12-20"
 ---
-
-# Belastingplan 2012
+# Wet van 22 december 2011 houdende wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2012)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,103 +44,103 @@ Alzo wij in overweging genomen hebben, dat het voor het jaar 2012 wenselijk is h
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel XII
+##### Artikel XII
 
 1. Een ingevolge [artikel 12 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12), zoals dat artikel luidde op 31 december 2011, gevormde herbestedingsreserve wordt bij het begin van het eerste boekjaar dat aanvangt op of na 1 januari 2012 aangemerkt als een bestedingsreserve als bedoeld in genoemd artikel 12 zoals dat luidt met ingang van 1 januari 2012, mits wordt voldaan aan de voorwaarden van genoemd artikel 12, zoals dat luidt met ingang van 1 januari 2012.
 
 2. Voor lichamen die een herbestedingsreserve hebben gevormd als bedoeld in [artikel 12 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12) zoals dat artikel luidde op 31 december 2011, en met ingang van het eerste boekjaar dat aanvangt op of na 1 januari 2012 niet voldoen aan de voorwaarden die artikel 12 van de Wet op de vennootschapsbelasting 1969 stelt ter zake van de vorming van een bestedingsreserve, blijft artikel 12 van de Wet op de vennootschapsbelasting 1969 zoals dat luidde op 31 december 2011 van toepassing met betrekking tot die herbestedingsreserve.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Vervallen
 
-#### Artikel XIVa
+##### Artikel XIVa
 
 Wijzigt de Successiewet 1956.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Successiewet 1956.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XXI
+##### Artikel XXI
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 1. De [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=76), [76a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=76a), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=77) en [79 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=79) zoals deze luidden op 31 mei 2012, blijven tot 1 januari 2013 van toepassing voor zover zij betrekking hebben op accijnszegels die vóór 1 juni 2012 zijn aangevraagd.
 
@@ -120,47 +148,47 @@ Wijzigt de Wet op de accijns.
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de overgang van de in de [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=76), [76a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=76a), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=77) en [79 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=79), zoals deze luidden op 31 mei 2011, neergelegde systematiek, naar de op grond van deze wet met ingang van 1 juni 2012 geldende systematiek.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel XXX
+##### Artikel XXX
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 Wijzigt de Mijnbouwwet.
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 Wijzigt de Natuurschoonwet 1928.
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 Wijzigt de Zorgverzekeringswet.
 
-#### Artikel XXXIV
+##### Artikel XXXIV
 
 1. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=1) en [hoofdstuk VA van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA) en de op dat hoofdstuk berustende bepalingen, zoals dat artikel, dat hoofdstuk en die bepalingen luidden op 31 december 2012, blijven van toepassing met betrekking tot:
 
@@ -182,23 +210,23 @@ In afwijking in zoverre van de eerste volzin blijft de regeling inzake het rente
 
 5. Voor zover de in [artikel 30i, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30i) bedoelde renteperiode is gelegen voor 1 januari 2013, geldt de regeling inzake het rentepercentage van [artikel 30f, vijfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30f) zoals dat artikel luidde vóór 1 januari 2013.
 
-#### Artikel XXXV
+##### Artikel XXXV
 
 Wijzigt het Belastingplan 2011.
 
-#### Artikel XXXVI
+##### Artikel XXXVI
 
 Wijzigt de Wet uniformering loonbegrip.
 
-#### Artikel XXXVIa
+##### Artikel XXXVIa
 
 Wijzigt de Wet aanpassing bestuursprocesrecht (Kst. 32 450).
 
-#### Artikel XXXVIb
+##### Artikel XXXVIb
 
 [Artikel 35a van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35a) vindt geen toepassing bij het begin van het kalenderjaar 2012.
 
-#### Artikel XXXVIc
+##### Artikel XXXVIc
 
 1. Voor de toepassing van de vrijstelling van grondwaterbelasting ingevolge [artikel 10, eerste lid, onderdeel b of c, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=10) blijven, indien de onttrekking van het grondwater voortduurt na 31 december 2011, de administratieve verplichtingen ingevolge [artikel 11 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=11), zoals dit artikel luidde op 31 december 2011, alsmede de daarop gebaseerde bepalingen, onverkort van toepassing voor de volledige periode van de onttrekking van het grondwater.
 
@@ -210,23 +238,23 @@ Wijzigt de Wet aanpassing bestuursprocesrecht (Kst. 32 450).
 
 5. Voor het op verzoek verlenen van teruggaaf van afvalstoffenbelasting voor zover de door de belastingplichtige ter zake te ontvangen bedragen niet zijn en niet zullen worden ontvangen, blijven [artikel 92 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=92), zoals dit artikel luidde op 31 december 2011, en de daarop gebaseerde bepalingen van toepassing tot en met 31 december 2014.
 
-#### Artikel XXXVId
+##### Artikel XXXVId
 
 Wijzigt de Wijzigingswet Wet belastingen op milieugrondslag (beperking emissies kolencentrales) (Kst. 31 362).
 
-#### Artikel XXXVIe
+##### Artikel XXXVIe
 
 Wijzigt de Verzamelwet Verkeer en Waterstaat 2010 (Kst. 32 403).
 
-#### Artikel XXXVIf
+##### Artikel XXXVIf
 
 Wijzigt deze wet.
 
-#### Artikel XXXVII
+##### Artikel XXXVII
 
 Ingeval de samenloop van wetten die in 2011 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in één of meer belastingwetten, niet of niet juist is geregeld, of indien als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, kunnen die wetten op dit punt bij ministeriële regeling worden gewijzigd.
 
-#### Artikel XXXVIII
+##### Artikel XXXVIII
 
 1. Deze wet treedt in werking met ingang van 1 januari 2012, met dien verstande dat:
 
@@ -250,21 +278,21 @@ Ingeval de samenloop van wetten die in 2011 in het Staatsblad zijn of worden gep
 
 4. Het eerste lid, onderdeel e, vindt geen toepassing indien de fiscale eenheid, bedoeld in dat onderdeel, op enig tijdstip na 31 december 2016 deel is gaan uitmaken van een andere fiscale eenheid.
 
-#### Artikel XXXIX
+##### Artikel XXXIX
 
 Deze wet wordt aangehaald als: Belastingplan 2012.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel IIIa
+##### Artikel IIIa
 
 In de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) vervalt [artikel 10a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10a.11) met ingang van 1 januari 2022.
 
-#### Artikel VIIa
+##### Artikel VIIa
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel VIIb
+##### Artikel VIIb
 
 In de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) vervalt [artikel 39d](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39d) met ingang van 1 januari 2022.
 

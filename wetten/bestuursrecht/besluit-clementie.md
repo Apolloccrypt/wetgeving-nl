@@ -1,13 +1,39 @@
 ---
-title: "Besluit clementie"
+title: "Besluit van 9 februari 2021, houdende vaststelling van regels met betrekking tot het verlenen van clementie voor geldboetes betreffende kartels (Besluit clementie)"
 identifier: "BWBR0044822"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-02-18
-laatste_update: 2021-02-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044822"
+country: "nl"
+rank: "amvb"
+publication_date: "2021-02-18"
+last_updated: "2021-02-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044822"
+soort: "AMvB"
+stam_id: "15847013"
+version_id: "27528352"
+internal_id: "C38844771"
+label_id: "15782944"
+dtd_version: "2.0"
+original_entry_into_force: "2021-02-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044822/2021-02-18/0"
+intitule_bron: "Stb.2021-73"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-02-09"
+intitule_published: "2021-02-17"
+intitule_in_force: "2021-02-17"
+intitule_status: "goed"
+original_publication: "Stb.2021-73"
+original_signed_date: "2021-02-09"
+original_published_date: "2021-02-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2021-73"
+entry_into_force_date: "2021-02-18"
+jci_1_3: "jci1.3:c:BWBR0044822&z=2021-02-18&g=2021-02-18"
+jci_1_0: "1.0:c:BWBR0044822&g=2021-02-18"
+citeertitel_status: "officieel"
+short_title: "Besluit clementie"
+signed_date: "2021-02-09"
+entry_into_force: "2021-02-18"
 ---
-
 # Besluit van 9 februari 2021, houdende vaststelling van regels met betrekking tot het verlenen van clementie voor geldboetes betreffende kartels (Besluit clementie)
 
 Op de voordracht van de Staatssecretaris van Economische Zaken en Klimaat van 2 november 2020, nr. WJZ / 20238176;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop de Wet tot wijziging van de Mededinging
 
 #### § 1. Begripsbepalingen en reikwijdte
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -52,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 - **Wet:** [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691).
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit is van toepassing op geheime kartels waarvoor de ACM een bestuurlijke boete kan opleggen.
 
@@ -60,11 +86,11 @@ Dit besluit is van toepassing op geheime kartels waarvoor de ACM een bestuurlijk
 
 #### § 2.1. Algemeen
 
-#### Artikel 3
+##### Artikel 3
 
 De ACM beslist op een verzoek om clementie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een clementieverzoeker komt voor clementie in aanmerking, indien de verzoeker:
 
@@ -88,7 +114,7 @@ De ACM beslist op een verzoek om clementie.
 
 #### § 2.2. Boete-immuniteit
 
-#### Artikel 5
+##### Artikel 5
 
 1. De ACM kent een clementieverzoeker boete-immuniteit toe, indien de verzoeker:
 
@@ -110,7 +136,7 @@ De ACM beslist op een verzoek om clementie.
 
 #### § 2.3. Boetevermindering
 
-#### Artikel 6
+##### Artikel 6
 
 1. De ACM kent een clementieverzoeker boetevermindering toe indien:
 
@@ -132,17 +158,17 @@ De ACM beslist op een verzoek om clementie.
 
 6. De ACM deelt een clementieverzoeker uiterlijk bij de verzending aan hem van het rapport als bedoeld in [5:48 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), schriftelijk mede of hem al dan niet voorwaardelijke boetevermindering wordt verleend, inclusief het voorwaardelijke percentage boetevermindering.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien een clementieverzoeker die voldoet aan de voorwaarden, genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=2&sub-paragraaf=2.3&artikel=6&z=2021-02-18&g=2021-02-18), onomstotelijk bewijsmateriaal levert dat door de ACM gebruikt wordt om het bewijs te leveren van aanvullende feiten waardoor de geldboeten hoger zijn dan de geldboeten die anders aan de deelnemers van het geheime kartel zouden zijn opgelegd, neemt de ACM deze aanvullende feiten niet in overweging bij het bepalen van de geldboete die wordt opgelegd aan de clementieverzoeker.
 
 #### § 3. Oriëntatie op een clementieverzoek
 
-#### Artikel 8
+##### Artikel 8
 
 De ACM kan met degene die overweegt een clementieverzoek in te dienen, van gedachten wisselen over een feitencomplex en de toepasselijkheid van dit besluit in dat kader.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Degene die overweegt een clementieverzoek in te dienen kan telefonisch en uitsluitend door tussenkomst van een advocaat aan de ACM vragen of boete-immuniteit zoals bedoeld in [artikel 5, eerste lid, onderdeel d, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=2&sub-paragraaf=2.2&artikel=5&z=2021-02-18&g=2021-02-18), nog beschikbaar is.
 
@@ -150,7 +176,7 @@ De ACM kan met degene die overweegt een clementieverzoek in te dienen, van gedac
 
 #### § 4. Het indienen van een clementieverzoek
 
-#### Artikel 10
+##### Artikel 10
 
 Een clementieverzoek kan worden ingediend door:
 
@@ -160,13 +186,13 @@ Een clementieverzoek kan worden ingediend door:
 
 - c. meerdere natuurlijke personen als bedoeld in [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=51) tegelijk, die opdracht tot of feitelijk leiding aan de deelname van een onderneming aan een geheim kartel hebben gegeven, en het clementieverzoek namens henzelf indienen, mits zij ten tijde van indiening van het clementieverzoek werkzaam zijn bij dezelfde, bij het geheime kartel betrokken onderneming.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De ACM registreert het tijdstip van ontvangst van een clementieverzoek.
 
 2. Op verzoek van de clementieverzoeker bevestigt de ACM schriftelijk de ontvangst van het clementieverzoek, met vermelding van de datum en het tijdstip van ontvangst.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Degene die overweegt een clementieverzoek in te dienen, kan bij de ACM een onvolledig clementieverzoek indienen.
 
@@ -194,7 +220,7 @@ Een clementieverzoek kan worden ingediend door:
 
 6. Indien de clementieverzoeker niet binnen de termijn, bedoeld in het vierde lid, een clementieverzoek indient dat voldoet aan de vereisten van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=4&artikel=14&z=2021-02-18&g=2021-02-18), kan de ACM het clementieverzoek afwijzen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een clementieverzoeker die bij de Europese Commissie een verzoek om clementie heeft ingediend met betrekking tot een vermeend geheim kartel dat het grondgebied van meer dan drie lidstaten beslaat, kan bij de ACM een beknopt clementieverzoek indienen.
 
@@ -212,7 +238,7 @@ Een clementieverzoek kan worden ingediend door:
 
 8. Wanneer de clementieverzoeker overeenkomstig het vierde of vijfde lid een clementieverzoek indient, wordt het clementieverzoek dat voldoet aan de vereisten van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=4&artikel=14&z=2021-02-18&g=2021-02-18), geacht te zijn ingediend op het tijdstip van indiening van het beknopte verzoek, op voorwaarde dat het beknopte verzoek betrekking heeft op hetzelfde vermeende geheime kartel als het clementieverzoek dat bij de Europese Commissie werd ingediend.
 
-#### Artikel 14
+##### Artikel 14
 
 Een clementieverzoek bevat een clementieverklaring met daarin:
 
@@ -230,7 +256,7 @@ Een clementieverzoek bevat een clementieverklaring met daarin:
 
 - c. een verklaring van deelname aan het door de clementieverzoeker beweerde vermeende geheime kartel, indien de clementieverzoeker een onderneming is, of een verklaring dat de clementieverzoeker als natuurlijke persoon als bedoeld in [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=51), opdracht tot of feitelijk leiding aan de deelname van een onderneming aan het vermeende geheime kartel heeft gegeven, indien clementieverzoeker een natuurlijke persoon is.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Clementieverklaringen kunnen schriftelijk, mondeling of op een andere wijze worden verstrekt, waarbij clementieverzoekers de ingediende clementieverklaringen niet in bezit, bewaring of onder hun controle hoeven te nemen.
 
@@ -238,17 +264,17 @@ Een clementieverzoek bevat een clementieverklaring met daarin:
 
 #### § 5. De clementietoezegging
 
-#### Artikel 16
+##### Artikel 16
 
 Met voorwaardelijke clementietoezeggingen stelt de ACM de definitieve volgorde van binnenkomst van clementieverzoeken betreffende een geheim kartel vast.
 
-#### Artikel 17
+##### Artikel 17
 
 Indien een clementieverzoeker zijn verplichtingen op grond van dit besluit niet nakomt, kan de ACM de clementietoezegging intrekken.
 
 #### § 6. Natuurlijke personen
 
-#### Artikel 18
+##### Artikel 18
 
 De ACM legt geen sancties op aan natuurlijke personen die werkzaam zijn of zijn geweest bij een onderneming waarop het clementieverzoek betrekking heeft, indien:
 
@@ -258,7 +284,7 @@ De ACM legt geen sancties op aan natuurlijke personen die werkzaam zijn of zijn 
 
 - c. het clementieverzoek door de onderneming is ingediend voordat de natuurlijke personen door de bevoegde instanties werden gewezen op handhavingsprocedures met betrekking tot het vermeende geheime kartel waarop het clementieverzoek betrekking heeft.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Natuurlijke personen die namens henzelf een clementieverzoek indienen, kunnen in aanmerking komen voor dezelfde boetevermindering als de onderneming waar zij werkzaam zijn, indien de onderneming reeds een clementieverzoek heeft ingediend en de natuurlijke personen verklaren als mede-clementieverzoeker van de onderneming te willen worden aangemerkt en zelfstandig aan de voorwaarden voor boetevermindering, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=2&sub-paragraaf=2.3&artikel=6&z=2021-02-18&g=2021-02-18), voldoen.
 
@@ -268,15 +294,15 @@ De ACM legt geen sancties op aan natuurlijke personen die werkzaam zijn of zijn 
 
 #### § 7. Vertrouwelijkheid
 
-#### Artikel 20
+##### Artikel 20
 
 De ACM gebruikt het bewijsmateriaal, bedoeld in [artikel 5, eerste lid, onderdeel d, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=2&sub-paragraaf=2.2&artikel=5&z=2021-02-18&g=2021-02-18), dat zij verkrijgt van degene die overweegt een clementieverzoek in te dienen tijdens de contacten, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=3&artikel=8&z=2021-02-18&g=2021-02-18) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=3&artikel=9&z=2021-02-18&g=2021-02-18), of door middel van ingediende clementieverzoeken die zij afwijst, niet als bewijs tegen de verstrekker van de informatie tenzij de verstrekker daarin toestemt of de ACM uit andere hoofde over diezelfde informatie beschikt.
 
-#### Artikel 21
+##### Artikel 21
 
 De ACM maakt de hoedanigheid van een onderneming of natuurlijke persoon als clementieverzoeker niet aan derden bekend tot het rapport, bedoeld in [artikel 5:48 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), aan een van de betrokkenen bij het geheime kartel is verzonden, tenzij daartoe een rechtsplicht bestaat of de clementieverzoeker daarmee heeft ingestemd.
 
-#### Artikel 22
+##### Artikel 22
 
 De ACM zendt een clementieverklaring overeenkomstig artikel 12 van [Verordening 1/2003](32003R0001) slechts aan een mededingingsautoriteit van een andere lidstaat van de Europese Unie indien:
 
@@ -286,15 +312,15 @@ De ACM zendt een clementieverklaring overeenkomstig artikel 12 van [Verordening 
 
 #### § 8. Overgangs- en slotbepalingen
 
-#### Artikel 23
+##### Artikel 23
 
 Op clementieverzoeken die voorafgaand aan het tijdstip van inwerkingtreding van dit besluit zijn ontvangen, op clementieverzoeken met betrekking tot een kartel waarvoor voorafgaand aan het tijdstip van inwerkingtreding van dit besluit al clementieverzoeken zijn ontvangen en op boete-immuniteit en boetevermindering die voorafgaand aan het tijdstip van inwerkingtreding van dit besluit is verleend, blijft de Beleidsregel van de Minister van Economische Zaken tot vermindering van geldboetes betreffende kartels van toepassing zoals deze gold onmiddellijk voorafgaand aan dat tijdstip.
 
-#### Artikel 24
+##### Artikel 24
 
 Indien het bij koninklijke boodschap van 25 mei 2020 ingediende voorstel van wet tot wijziging van de Mededingingswet en de Instellingswet Autoriteit Consument en Markt in verband met de implementatie van richtlijn (EU) 2019/1 van het Europees Parlement en de Raad van 11 december 2018 tot toekenning van bevoegdheden aan de mededingingsautoriteiten van de lidstaten voor een doeltreffendere handhaving en ter waarborging van de goede werking van de interne markt (PbEU 2019, L 11) tot wet is of wordt verheven en artikel II, onderdeel J, van die wet in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.
 
-#### Artikel 25
+##### Artikel 25
 
 Dit besluit wordt aangehaald als: Besluit clementie
 

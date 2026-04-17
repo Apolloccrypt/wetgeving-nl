@@ -1,22 +1,47 @@
 ---
 title: "Regeling met België inzake ontslaguitkeringen"
 identifier: "BWBR0019995"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2006-07-05
-laatste_update: 2006-07-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019995"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2006-07-05"
+last_updated: "2006-07-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019995"
+soort: "beleidsregel"
+stam_id: "8472693"
+version_id: "13359522"
+internal_id: "C17935561"
+label_id: "8453224"
+dtd_version: "2.0"
+original_entry_into_force: "2006-07-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019995/2006-07-05/0"
+intitule_bron: "Stcrt.2006-128"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-06-22"
+intitule_published: "2006-07-05"
+intitule_in_force: "2006-07-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-128"
+original_signed_date: "2006-06-22"
+original_published_date: "2006-07-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-128-p11-SC75764"
+entry_into_force_date: "2006-07-05"
+jci_1_3: "jci1.3:c:BWBR0019995&z=2006-07-05&g=2006-07-05"
+jci_1_0: "1.0:c:BWBR0019995&g=2006-07-05"
+citeertitel_status: "redactioneel"
+signed_date: "2006-06-22"
+entry_into_force: "2006-07-05"
 ---
-
 # Regeling met België inzake ontslaguitkeringen
 
 De Staatssecretaris van Financiën heeft het volgende besloten:
 
-#### Artikel 1. Inleiding
+##### Artikel 1. Inleiding
 
 De bevoegde autoriteiten van Nederland en België hebben op basis van artikel 28, paragraaf 3, van het Nederlands-Belgische belastingverdrag van 5 juni 2001 in onderling overleg een regeling vastgesteld waarmee dubbele belasting respectievelijk dubbele vrijstelling wordt voorkomen van periodieke uitkeringen ter vervanging van gederfde of te derven beloningen die inwoners van België uit Nederland verkrijgen in verband met de beëindiging van een (gedeeltelijk) in Nederland uitgeoefende dienstbetrekking. De regeling (inclusief toelichting) is als bijlage bijgevoegd. Volgens artikel 5 van de regeling in samenhang met punt 3 van protocol I bij het belastingverdrag is de regeling van toepassing met ingang van de datum van publicatie van de regeling in de Staatscourant. In dit verband is van belang dat de regeling op 13 oktober 2005 reeds in het Belgisch Staatsblad is gepubliceerd.
 
-#### Artikel 2. Inwerkingtreding
+##### Artikel 2. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag van dagtekening van de Staatscourant waarin het wordt geplaatst.
 

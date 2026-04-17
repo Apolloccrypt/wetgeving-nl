@@ -1,18 +1,43 @@
 ---
 title: "Regeling kinder-, kostwinner- en detacheringstoelage BES"
 identifier: "BWBR0028783"
-categorie: "Overig"
-publicatiedatum: 2011-10-09
-laatste_update: 2011-10-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028783"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2011-10-09"
+last_updated: "2011-10-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028783"
+soort: "ministeriele-regeling-BES"
+stam_id: "11023983"
+version_id: "18012142"
+internal_id: "C25041531"
+label_id: "10998564"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028783/2011-10-09/0"
+intitule_bron: "Stcrt.2010-15087"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-24"
+intitule_published: "2010-10-08"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-15087"
+original_signed_date: "2010-09-24"
+original_published_date: "2010-10-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-15087"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028783&z=2011-10-09&g=2011-10-09"
+jci_1_0: "1.0:c:BWBR0028783&g=2011-10-09"
+citeertitel_status: "redactioneel"
+signed_date: "2010-09-24"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling kinder-, kostwinner- en detacheringstoelage BES
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -20,13 +45,13 @@ In deze regeling wordt verstaan onder:
 
 - b. **bezoldiging:** bezoldiging bedoeld in [artikel 17 van de Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=17).
 
-#### Artikel 2
+##### Artikel 2
 
 De toelagen, bedoeld in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028783&paragraaf=2&z=2011-10-09&g=2011-10-09) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028783&paragraaf=4&z=2011-10-09&g=2011-10-09) worden aan de ambtenaar toegekend door het gezag, dat bevoegd is de bezoldiging aan de ambtenaar toe te kennen of in de toegekende bezoldiging wijziging te brengen.
 
 #### § 2. Kindertoelage
 
-#### Artikel 3
+##### Artikel 3
 
 1. De kindertoelage bedraagt per jaar USD 67,04 voor één kind, USD 100,56 voor twee kinderen en USD 134,08 voor meer dan 2 kinderen, vermeerderd met het in onderstaande kolom 1 aangegeven percentage van bezoldiging en met inachtneming van de in de onderstaande kolommen 2 en 3 aangegeven minima en maxima:
 
@@ -48,17 +73,17 @@ De toelagen, bedoeld in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BW
 
 3. Het totaal bedrag aan kindertoelage wordt naar boven afgerond tot het naaste bedrag in guldens, dat een veelvoud is van twaalf.
 
-#### Artikel 4
+##### Artikel 4
 
 Het genot van kindertoelage vangt aan met ingang van de eerste dag van de maand volgende op die, waarin het recht op kindertoelage is ontstaan en eindigt met ingang van de eerste van de maand, volgende op die, waarin het recht op kindertoelage verloren is gegaan.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De kindertoelage wordt aan de ambtenaar uitbetaald tegelijk met zijn bezoldiging.
 
 2. De kindertoelage kan, indien gegrond vermoeden bestaat, dat zij niet ten goede komt of zal komen aan het kind ten behoeve waarvan zij is toegekend, aan een ander dan aan de ambtenaar betaalbaar gesteld.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Indien beide ouders ambtenaar zijn, heeft slechts de ouder, tot wiens huisgezin het kind behoort, recht op het genot van de kindertoelage.
 
@@ -66,13 +91,13 @@ Het genot van kindertoelage vangt aan met ingang van de eerste dag van de maand 
 
 #### § 3. Kostwinnerstoelage
 
-#### Artikel 6
+##### Artikel 6
 
 1. De kostwinnerstoelage bedraagt per jaar het verschil tussen de bezoldiging, welke de ambtenaar zou genieten, indien hij gehuwd is of gehuwd is geweest, of, als het een vrouwelijke ambtenaar betreft, indien zij gehuwd is geweest en niet is hertrouwd en de bezoldiging, welke hij geniet.
 
 2. Zij kan worden genoten door de ambtenaar, die als enig kostwinner in de zin van het [volgende artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028783&paragraaf=3&artikel=7&z=2011-10-09&g=2011-10-09) wordt aangemerkt.
 
-#### Artikel 7
+##### Artikel 7
 
 Als enig kostwinner wordt aangemerkt:
 
@@ -80,37 +105,37 @@ Als enig kostwinner wordt aangemerkt:
 
 - b. de gehuwde vrouwelijke ambtenaar, wier echtgenoot wegens ziels- of lichaamsgebreken blijvend niet in staat is in het levensonderhoud van zich en zijn gezin te voorzien.
 
-#### Artikel 8
+##### Artikel 8
 
 Het genot van kostwinnerstoelage vangt aan met ingang van de dag van toekenning en eindigt in ieder geval met ingang van de eerste dag, van de maand volgende op die, waarin de omstandigheden, welke tot toekenning aanleiding hebben gegeven, hebben opgehouden te bestaan.
 
-#### Artikel 9
+##### Artikel 9
 
 Geen kostwinnerstoelage wordt toegekend, wanneer degene ten aanzien van wie de ambtenaar als enig kostwinner is aangemerkt uit andere hoofde inkomsten geniet of redelijkerwijs zou kunnen genieten, welke gelijk zijn aan of meer bedragen dan het bedrag bedoeld in [artikel 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028783&paragraaf=3&artikel=6&z=2011-10-09&g=2011-10-09).
 
-#### Artikel 10
+##### Artikel 10
 
 1. De inkomsten, welke degene ten aanzien van wie de ambtenaar als enig kostwinner is aangemerkt, uit andere hoofde geniet of gaat genieten dan wel redelijkerwijs zou kunnen genieten, worden op de kostwinnerstoelage, welke wordt of is toegekend, in mindering gebracht.
 
 2. Voor de berekening van het bedrag van de vermindering worden de inkomsten, over een tijdvak van 6 maanden afgerond naar beneden tot het naaste bedrag in dollars, dat een veelvoud is van zes, vergeleken met de kostwinnerstoelage over hetzelfde tijdvak.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De kostwinnerstoelage wordt aan de ambtenaar uitbetaald tegelijk met zijn bezoldiging.
 
 2. De kostwinnerstoelage kan, indien gegrond vermoeden bestaat, dat zij niet ten goede komt of zal komen aan degene ten behoeve van wie zij is toegekend aan een ander dan aan de ambtenaar betaalbaar worden gesteld.
 
-#### Artikel 12
+##### Artikel 12
 
 De ambtenaar, aan wie een kostwinnerstoelage is toegekend, is gehouden het bevoegd gezag, uit eigen beweging en desgevraagd onverwijld schriftelijk in kennis te stellen van alles wat op de grootte van het bedrag van de toelage van invloed kan zijn, met uitzondering van wijzigingen in zijn bezoldiging.
 
 #### § 4. Standplaats- en detacheringstoelage
 
-#### Artikel 13
+##### Artikel 13
 
 [vervallen]
 
-#### Artikel 14
+##### Artikel 14
 
 1. De ambtenaar, die tijdelijk buiten zijn standplaats te werk wordt gesteld, wordt ter bestrijding van de daaruit voortvloeiende onvermijdelijke uitgaven in het genot gesteld van een detacheringstoelage.
 
@@ -118,15 +143,15 @@ De ambtenaar, aan wie een kostwinnerstoelage is toegekend, is gehouden het bevoe
 
 #### § 5. Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 De ambtenaren, die op grond van wettelijke regelingen, welke vervallen bij de inwerkingtreding van deze regeling, toelagen genieten als bedoeld in de voorgaande artikelen worden voor het verdere genot dier toelagen geacht die toelagen te genieten op grond van toekenning krachtens de onderscheiden artikelen van deze regeling en met inachtneming overigens van de onderscheiden bepalingen van deze regeling.
 
-#### Artikel 15a
+##### Artikel 15a
 
 Deze regeling berust op [artikel 31, onder a, van de Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=31).
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling kinder-, kostwinner- en detacheringstoelage BES.
 

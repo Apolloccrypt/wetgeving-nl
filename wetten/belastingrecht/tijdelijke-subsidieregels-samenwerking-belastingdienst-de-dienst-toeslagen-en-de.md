@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke subsidieregels samenwerking Belastingdienst, de Dienst Toeslagen en de Koninklijke Bibliotheek 2024–2027"
+title: "Tijdelijke subsidieregels samenwerking Belastingdienst, de Dienst Toeslagen en de Koninklijke Bibliotheek 2024–2027 (Digitale Inclusie)"
 identifier: "BWBR0049025"
-categorie: "Belastingrecht"
-publicatiedatum: 2023-12-08
-laatste_update: 2023-12-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049025"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-12-08"
+last_updated: "2023-12-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049025"
+soort: "zbo"
+stam_id: "16952473"
+version_id: "29797572"
+internal_id: "C42709751"
+label_id: "16862974"
+dtd_version: "2.0"
+original_entry_into_force: "2023-12-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049025/2023-12-08/0"
+intitule_bron: "Stcrt.2023-33512"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-28"
+intitule_published: "2023-12-07"
+intitule_in_force: "2023-12-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-33512"
+original_signed_date: "2023-11-28"
+original_published_date: "2023-12-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-33512"
+entry_into_force_date: "2023-12-08"
+jci_1_3: "jci1.3:c:BWBR0049025&z=2023-12-08&g=2023-12-08"
+jci_1_0: "1.0:c:BWBR0049025&g=2023-12-08"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke subsidieregels samenwerking Belastingdienst, de Dienst Toeslagen en de Koninklijke Bibliotheek 2024–2027"
+signed_date: "2023-11-28"
+entry_into_force: "2023-12-08"
 ---
-
 # Tijdelijke subsidieregels samenwerking Belastingdienst, de Dienst Toeslagen en de Koninklijke Bibliotheek 2024–2027 (Digitale Inclusie)
 
 gelet op [artikel 1.2, tweede lid onder a sub ii en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048999&artikel=1.2) en [artikel 1.4, van het Subsidiereglement Koninklijke Bibliotheek 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048999&artikel=1.4)
 
 besluit: vast te stellen de navolgende Tijdelijke regels subsidieverstrekking samenwerking Belastingdienst, de Dienst Toeslagen en de Koninklijke Bibliotheek 2024–2027
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 - **AVG:** Algemene Verordening Gegevensbescherming;
 
@@ -30,17 +56,17 @@ besluit: vast te stellen de navolgende Tijdelijke regels subsidieverstrekking sa
 
 - **Provinciale Ondersteuningsinstelling (POI):** als bedoeld in [artikel 1, onder e, van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=1);
 
-#### Artikel 2. Verhouding [Subsidiereglement Koninklijke Bibliotheek 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048999)
+##### Artikel 2. Verhouding [Subsidiereglement Koninklijke Bibliotheek 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048999)
 
 Voor zover in deze regeling niet iets anders is bepaald, is het bepaalde in het [Subsidiereglement Koninklijke Bibliotheek 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048999) van toepassing.
 
-#### Artikel 3. Subsidiabele activiteiten
+##### Artikel 3. Subsidiabele activiteiten
 
 1. In het kader van de activiteit ‘het aansturen van het netwerk van openbare bibliotheekvoorzieningen door educatie, informatie en reflectie’ en de uitvoering van het Convenant Belastingdienst, de Dienst Toeslagen en de Koninklijke Bibliotheek 2024–2027, subsidieert de Koninklijke Bibliotheek het faciliteren en organiseren van jaarlijks minimaal vier activiteiten waaronder: a) spreekuren, b) invulhulp, c) workshops, en d) informatiebijeenkomsten door maatschappelijke dienstverleners ten behoeve van ondersteuning aan burgers bij het (online) regelen van belasting- en toeslagzaken.
 
 Subsidie wordt verstrekt per deelnemende locatie en bij de planning van de activiteiten moet de bibliotheek rekening houden met landelijke campagnes (zoals Aangifteperiode, Toeslagencheck).
 
-#### Artikel 4. Subsidieplafond
+##### Artikel 4. Subsidieplafond
 
 1. Het subsidieplafond voor 2024–2027 is vastgesteld op € 509.464,– per kalenderjaar, – onder het voorbehoud dat voldoende financiële middelen beschikbaar worden gesteld aan de KB. Indien de Belastingdienst en de Dienst Toeslagen onvoldoende financiële middelen ter beschikking stellen, wordt het subsidieplafond verlaagd en wordt de vaststelling van het nieuwe subsidieplafond bekend gemaakt in de Staatscourant.
 
@@ -50,7 +76,7 @@ Subsidie wordt verstrekt per deelnemende locatie en bij de planning van de activ
 
 4. De hoogte van de subsidie per POI bedraagt € 1.152,– per provincie als vast basisbedrag en € 360,– per deelnemende basisbibliotheek in hun werkgebied.
 
-#### Artikel 5. Subsidieontvanger
+##### Artikel 5. Subsidieontvanger
 
 Voor het uitvoeren van de activiteiten wordt per subsidietijdvak uitsluitend een projectsubsidie verstrekt aan lokale bibliotheken die:
 
@@ -66,7 +92,7 @@ Voor het uitvoeren van de activiteiten wordt per subsidietijdvak uitsluitend een
 
 - f. activiteiten houden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049025&artikel=2&z=2023-12-08&g=2023-12-08) gedurende de subsidieperiode die loopt van 1 januari 2024 tot en met 31 december 2027.
 
-#### Artikel 6. Aanvraag lokale bibliotheek
+##### Artikel 6. Aanvraag lokale bibliotheek
 
 1. De aanvrager dient uiterlijk 31 maart 2024 een aanvraag tot subsidieverlening in. Hiertoe stelt de KB een aanvraagformulier beschikbaar, waarop dient te worden vermeld:
 
@@ -82,7 +108,7 @@ Voor het uitvoeren van de activiteiten wordt per subsidietijdvak uitsluitend een
 
 2. Jaarlijks vindt in november een inventarisatie plaats o.b.v. eventuele aanvragen van bibliotheken om meer locaties te laten deelnemen in het erop volgende kalenderjaar. Uiterlijk in januari van het betreffende kalenderjaar wordt de bijdrage per extra deelnemende locatie bepaald. Indien het subsidieplafond nog niet bereikt is, wordt jaarlijks aan nieuwe basisbibliotheken de kans geboden om ook deel te gaan nemen. Overeenkomstig [artikel 8 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049025&artikel=8&z=2023-12-08&g=2023-12-08) wordt het subsidiebedrag dan bijgesteld.
 
-#### Artikel 7. Aanvraag POI
+##### Artikel 7. Aanvraag POI
 
 De aanvragende POI dient uiterlijk 31 maart 2024 een aanvraag tot subsidieverlening in. Hiertoe stelt de Koninklijke Bibliotheek een aanvraagformulier beschikbaar, waarop dient te worden vermeld:
 
@@ -94,7 +120,7 @@ De aanvragende POI dient uiterlijk 31 maart 2024 een aanvraag tot subsidieverlen
 
 - d. hoe de POI in samenwerking met de Belastingdienst, Dienst Toeslagen netwerkbijeenkomsten organiseert voor maatschappelijke partners.
 
-#### Artikel 8. Verlening en bijstelling vierjarige subsidie onder begrotingsvoorbehoud
+##### Artikel 8. Verlening en bijstelling vierjarige subsidie onder begrotingsvoorbehoud
 
 1. De subsidie wordt uiterlijk binnen acht weken na ontvangst van het aanvraagformulier verleend voor de periode van 1 januari 2024 tot en met 31 december 2027 en/of tot de duur van de regeling.
 
@@ -102,7 +128,7 @@ De aanvragende POI dient uiterlijk 31 maart 2024 een aanvraag tot subsidieverlen
 
 3. Bij de verlening van de subsidie kan de KB bepalen dat het subsidiebedrag jaarlijks door haar wordt bijgesteld.
 
-#### Artikel 9. Jaarlijkse bevoorschotting
+##### Artikel 9. Jaarlijkse bevoorschotting
 
 1. De KB bepaalt in het verleningsbesluit dat in vier termijnen een voorschot wordt verleend;
 
@@ -110,11 +136,11 @@ De aanvragende POI dient uiterlijk 31 maart 2024 een aanvraag tot subsidieverlen
 
 - b. als de subsidie met toepassing van [artikel 8 het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049025&artikel=8&z=2023-12-08&g=2023-12-08) wordt bijgesteld, kan de bevoorschotting overeenkomstig die bijstelling worden gewijzigd.
 
-#### Artikel 10. Vaststelling
+##### Artikel 10. Vaststelling
 
 1. De KB stelt na afloop van de vierjarige subsidieverleningsperiode zonder daarvoor een financiële of inhoudelijke verantwoording noodzakelijk te achten, de subsidie vast.
 
-#### Artikel 11. Weigeringsgrond
+##### Artikel 11. Weigeringsgrond
 
 Het Algemeen Bestuurscollege weigert een subsidie indien:
 
@@ -124,7 +150,7 @@ Het Algemeen Bestuurscollege weigert een subsidie indien:
 
 - c. een aanvraag van een POI niet voldoet en/of geen betrekking heeft op alle activiteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049025&artikel=2&z=2023-12-08&g=2023-12-08).
 
-#### Artikel 12. Verplichtingen
+##### Artikel 12. Verplichtingen
 
 Naast de verplichtingen die zijn opgenomen in het [Subsidiereglement Koninklijke Bibliotheek 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048999), is de subsidieontvanger verplicht:
 
@@ -138,12 +164,12 @@ Naast de verplichtingen die zijn opgenomen in het [Subsidiereglement Koninklijke
 
 - e. bekendheid te geven aan het aanwezige aanbod onder de inwoners in het werkgebied van de subsidieontvanger met behulp van voorlichtings- en promotiemateriaal.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 1. Deze regels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst en vervallen met ingang van 1 januari 2028.
 
 2. Op subsidies die op grond van deze regels zijn verstrekt, blijven deze regels van toepassing.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regels worden aangehaald als: Tijdelijke subsidieregels samenwerking Belastingdienst, de Dienst Toeslagen en de Koninklijke Bibliotheek 2024–2027.

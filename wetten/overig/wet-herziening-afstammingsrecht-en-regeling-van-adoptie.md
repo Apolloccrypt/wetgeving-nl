@@ -1,14 +1,41 @@
 ---
-title: "Wet herziening afstammingsrecht en regeling van adoptie"
+title: "Wet van 24 december 1997 tot herziening van het afstammingsrecht alsmede van de regeling van adoptie"
 identifier: "BWBR0009269"
-categorie: "Overig"
-publicatiedatum: 1998-04-01
-laatste_update: 1998-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009269"
+country: "nl"
+rank: "wet"
+publication_date: "1998-04-01"
+last_updated: "1998-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009269"
+soort: "wet"
+stam_id: "686223"
+version_id: "998372"
+internal_id: "C998371"
+label_id: "664954"
+dtd_version: "2.0"
+original_entry_into_force: "1998-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009269/1998-04-01/0"
+intitule_bron: "Stb.1997-772"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-12-24"
+intitule_published: "1997-12-30"
+intitule_in_force: "1998-03-10"
+intitule_status: "goed"
+original_publication: "Stb.1997-772"
+original_signed_date: "1997-12-24"
+original_published_date: "1997-12-30"
+original_effect: "nieuwe-regeling"
+original_dossier: "24649"
+original_url_id: "stb-1997-772"
+entry_into_force_date: "1998-04-01"
+jci_1_3: "jci1.3:c:BWBR0009269&z=1998-04-01&g=1998-04-01"
+jci_1_0: "1.0:c:BWBR0009269&g=1998-04-01"
+citeertitel_status: "officieel"
+short_title: "Wet herziening afstammingsrecht en regeling van adoptie"
+signed_date: "1997-12-24"
+entry_into_force: "1998-04-01"
 ---
-
-# Wet herziening afstammingsrecht en regeling van adoptie
+# Wet van 24 december 1997 tot herziening van het afstammingsrecht alsmede van de regeling van adoptie
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,15 +43,15 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is het afstammingsrecht
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### ARTIKEL I
+##### ARTIKEL I
 
 Wijzigt Boek 1 van het Burgerlijk Wetboek.
 
-#### ARTIKEL II
+##### ARTIKEL II
 
 Wijzigt Boek 1 van het Burgerlijk Wetboek.
 
-#### ARTIKEL III. OVERGANGSBEPALING
+##### ARTIKEL III. OVERGANGSBEPALING
 
 1. Het voor het tijdstip van inwerkingtreding van deze wet geldende recht blijft van toepassing op procedures waarin de inleidende dagvaarding is betekend dan wel het inleidende verzoekschrift is ingediend, met betrekking tot adoptie of herroeping daarvan alsmede met betrekking tot ontkenning van het vaderschap, vernietiging van een erkenning, inroeping of betwisting van staat, vaststelling van een onderhoudsbijdrage als bedoeld in artikel 394, of vaststelling van een som ineens als bedoeld in artikel 406, zoals deze artikelen luidden onmiddellijk voorafgaande aan het tijdstip van inwerkingtreding van deze wet. Het vervallen van artikel 405, tweede lid, zoals dat luidde onmiddellijk voorafgaande aan het tijdstip van inwerkingtreding van deze wet, heeft evenwel onmiddellijke werking.
 
@@ -40,7 +67,7 @@ Wijzigt Boek 1 van het Burgerlijk Wetboek.
 
 7. Indien een verzoek tot adoptie uitsluitend op de grond van het niet vervuld zijn van de voorwaarde, bedoeld in artikel 228, eerste lid, aanhef en onder d, eerste volzin, zoals dat luidde onmiddellijk voorafgaande aan het tijdstip van inwerkingtreding van deze wet, is afgewezen, blijft de tweede zin van het bedoelde artikellid van toepassing. De in die zin opgenomen verwijzing naar de voorwaarden, gesteld onder e tot en met g, geldt voor dit geval als een verwijzing naar de voorwaarden onder e en f van artikel 228, eerste lid, van deze wet.
 
-#### ARTIKEL IV
+##### ARTIKEL IV
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

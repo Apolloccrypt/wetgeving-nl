@@ -1,14 +1,42 @@
 ---
-title: "Wet rechtspositie rechterlijke ambtenaren"
+title: "Wet van 29 november 1996 tot vaststelling van de gewijzigde Wet rechtspositie rechterlijke ambtenaren (aanvulling met onder meer de onderwerpen omvang van de taak, arbeidstijd, vakantie en verlof)"
 identifier: "BWBR0008365"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008365"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008365"
+soort: "wet"
+stam_id: "198263"
+version_id: "25833312"
+internal_id: "C36827171"
+label_id: "196324"
+dtd_version: "2.0"
+original_entry_into_force: "2019-04-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008365/2026-01-01/0"
+intitule_bron: "Stb.1996-590"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-11-29"
+intitule_published: "1996-12-10"
+intitule_in_force: "1996-12-19"
+intitule_status: "goed"
+original_publication: "Stb.2019-173"
+original_signed_date: "2019-04-17"
+original_published_date: "2019-05-16"
+original_effect: "structuurwijziging"
+original_dossier: "35073"
+original_url_id: "stb-2019-173"
+entry_into_force_date: "2019-04-17"
+entry_into_force_dossier: "35073"
+jci_1_3: "jci1.3:c:BWBR0008365&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0008365&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet rechtspositie rechterlijke ambtenaren"
+signed_date: "2019-04-17"
+entry_into_force: "2019-04-17"
 ---
-
-# Wet rechtspositie rechterlijke ambtenaren
+# Wet van 29 november 1996 tot vaststelling van de gewijzigde Wet rechtspositie rechterlijke ambtenaren (aanvulling met onder meer de onderwerpen omvang van de taak, arbeidstijd, vakantie en verlof)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -62,39 +90,39 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1A.1. Benoeming
 
-#### Artikel 1a
+##### Artikel 1a
 
 Het in deze wet bepaalde ten aanzien van de leden van het College van procureurs-generaal is niet van toepassing op de procureur-generaal, bedoeld in [artikel 130, vierde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=130).
 
-#### Artikel 1b
+##### Artikel 1b
 
 Vervallen
 
-#### Artikel 1c
+##### Artikel 1c
 
 Vervallen
 
-#### Artikel 1d
+##### Artikel 1d
 
 Vervallen
 
-#### Artikel 1e
+##### Artikel 1e
 
 Vervallen
 
-#### Artikel 1f
+##### Artikel 1f
 
 Vervallen
 
 #### § 1A.2. Beëdiging en installatie
 
-#### Artikel 1g
+##### Artikel 1g
 
 Vervallen
 
 ### Hoofdstuk 2. Volledige taak en deeltaak
 
-#### Artikel 2
+##### Artikel 2
 
 1. De benoeming in het ambt van president van, vice-president van, raadsheer in of raadsheer in buitengewone dienst bij de Hoge Raad, senior raadsheer, raadsheer of raadsheer-plaatsvervanger in een gerechtshof, senior rechter A, senior rechter, rechter of rechter-plaatsvervanger in een rechtbank, of procureur-generaal, plaatsvervangend procureur-generaal, advocaat-generaal of advocaat-generaal in buitengewone dienst bij de Hoge Raad, geschiedt bij koninklijk besluit op voordracht van Onze Minister voor het leven.
 
@@ -112,15 +140,15 @@ Vervallen
 
 8. De benoeming in het ambt van rechter in opleiding en officier in opleiding geschiedt bij besluit van Onze Minister.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Tot rechterlijk ambtenaar kan alleen een Nederlander worden benoemd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tot rechterlijk ambtenaar kan worden benoemd degene:
 
@@ -132,21 +160,21 @@ Tot rechterlijk ambtenaar kan alleen een Nederlander worden benoemd.
 
 3. Bij algemene maatregel van bestuur kunnen voorts nadere regels worden gesteld met betrekking tot de beroepsvereisten voor de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b, onder 1° tot en met 7°, 9° en 10°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1).
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
 ### Hoofdstuk 3. Bezoldiging en andere financiële arbeidsvoorwaarden
 
-#### Artikel 7
+##### Artikel 7
 
 De rechterlijke ambtenaren die hun ambt op basis van een aanstelling vervullen, ontvangen een salaris.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 1. De rechterlijke ambtenaren, bedoeld in [artikel 5f, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=2&artikel=5f&z=2026-01-01&g=2026-01-01), die een ambt op basis van een aanwijzing vervullen en niet reeds uit anderen hoofde als rechterlijk ambtenaar salaris genieten, ontvangen over de periode van hun aanwijzing een salaris overeenkomstig het bij en krachtens de [artikelen 1ab](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=1&artikel=1ab&z=2026-01-01&g=2026-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=3&artikel=7&z=2026-01-01&g=2026-01-01) bepaalde.
 
@@ -164,35 +192,35 @@ Vervallen
 
 - e. wordt een plaatsvervangend officier enkelvoudige zittingen gelijkgesteld met een officier enkelvoudige zittingen bij hetzelfde parket.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het genot van het salaris vangt aan met ingang van de dag waarop de rechterlijk ambtenaar in dienst treedt.
 
@@ -208,25 +236,25 @@ Vervallen
 
 7. Het tweede, derde, vijfde en zesde lid zijn van overeenkomstige toepassing ten aanzien van de toelagen die ingevolge het bij of krachtens deze wet bepaalde tot de bezoldiging van de rechterlijk ambtenaar behoren.
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
 ### Hoofdstuk 4. Arbeidsduur, werktijd en werkverdeling
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
@@ -234,87 +262,87 @@ Vervallen
 
 #### Paragraaf 5.1. Vakantie
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 27a
+##### Artikel 27a
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
 #### Paragraaf 5.1. Vakantie
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
 ### Hoofdstuk 6. Overige rechten en plichten
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 1. Het bestuur van de rechtbank onderscheidenlijk het gerechtshof verdeelt de werkzaamheden van de rechterlijke ambtenaren die werkzaam zijn bij dat gerecht.
 
@@ -326,7 +354,7 @@ Vervallen
 
 5. Het hoofd van het parket waarbij rechterlijke ambtenaren werkzaam zijn die tevens zijn benoemd als gedelegeerd Europese aanklager als bedoeld in artikel 13 van de Verordening (EU) 2017/1939 van de Raad van 12 oktober 2017 betreffende nauwere samenwerking bij de instelling bij de instelling van het Europees Openbaar Ministerie («EOM») (PbEU 2017, L 283), deelt aan deze rechterlijke ambtenaren slechts werkzaamheden toe als hen dat niet belet te voldoen aan de verplichtingen die krachtens de verordening op hen rusten.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Voor schade die een rechterlijk ambtenaar bij de vervulling van zijn ambt aan een derde toebrengt en waarvoor hij zelf krachtens de wet aansprakelijk zou zijn, is jegens de derde uitsluitend de Staat aansprakelijk.
 
@@ -340,7 +368,7 @@ Vervallen
 
 6. Het eerste en tweede lid zijn niet van toepassing als artikel 113, derde lid, van de Verordening (EU) 2017/1939 van de Raad van 12 oktober 2017 betreffende nauwere samenwerking bij de instelling bij de instelling van het Europees Openbaar Ministerie («EOM») (PbEU 2017, L 283) van toepassing is.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Een niet voor het leven benoemde rechterlijk ambtenaar onthoudt zich van het openbaren van gedachten of gevoelens en van de uitoefening van de rechten tot vereniging, tot vergadering en tot betoging, indien door de uitoefening van deze rechten naar het oordeel van de functionele autoriteit de goede vervulling van het ambt of het goede functioneren van de rechterlijke macht niet in redelijkheid zou zijn verzekerd.
 
@@ -350,7 +378,7 @@ Vervallen
 
 - b. een vakvereniging.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Rechterlijke ambtenaren, met uitzondering van de plaatsvervangers, rechters in opleiding en officieren in opleiding, kunnen niet tevens advocaat of notaris zijn dan wel anderszins van het verlenen van rechtskundige bijstand een beroep maken.
 
@@ -388,15 +416,15 @@ met dien verstande dat de plaatsvervangers, in afwijking van de onderdelen f en 
 
 10. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de uitvoering van het vijfde, zevende en achtste lid.
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
-#### Artikel 46a
+##### Artikel 46a
 
 Vervallen
 
@@ -404,13 +432,13 @@ Vervallen
 
 #### § 6A.1. Algemeen
 
-#### Artikel 46b
+##### Artikel 46b
 
 [Dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&z=2026-01-01&g=2026-01-01) is alleen van toepassing op de voor het leven benoemde rechterlijke ambtenaren.
 
 #### § 6A.1. Algemeen
 
-#### Artikel 46c
+##### Artikel 46c
 
 Ten aanzien van de rechterlijk ambtenaar kan een disciplinaire maatregel worden opgelegd, indien hij:
 
@@ -420,7 +448,7 @@ Ten aanzien van de rechterlijk ambtenaar kan een disciplinaire maatregel worden 
 
 - c. door zijn handelen of nalaten ernstig nadeel toebrengt aan de goede gang van zaken bij de rechtspraak of het in haar te stellen vertrouwen.
 
-#### Artikel 46d
+##### Artikel 46d
 
 1. De disciplinaire maatregel van schriftelijke berisping wordt, anders dan door de Hoge Raad, opgelegd:
 
@@ -436,7 +464,7 @@ Ten aanzien van de rechterlijk ambtenaar kan een disciplinaire maatregel worden 
 
 3. Gedurende een procedure ingevolge [artikel 46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.5&artikel=46o&z=2026-01-01&g=2026-01-01) wordt jegens de betrokken rechterlijk ambtenaar, anders dan door de Hoge Raad, geen disciplinaire maatregel opgelegd voor de gedraging waarop die procedure betrekking heeft.
 
-#### Artikel 46e
+##### Artikel 46e
 
 1. Een disciplinaire maatregel van schriftelijke berisping wordt niet opgelegd dan nadat de rechterlijk ambtenaar, tevens zijnde president van het gerechtshof of de rechtbank, de president van de Hoge Raad onderscheidenlijk de procureur-generaal bij de Hoge Raad, de betrokken rechterlijk ambtenaar in de gelegenheid heeft gesteld om zijn zienswijze schriftelijk of mondeling naar voren te brengen.
 
@@ -446,7 +474,7 @@ Ten aanzien van de rechterlijk ambtenaar kan een disciplinaire maatregel worden 
 
 #### Paragraaf 5.2. Verlof
 
-#### Artikel 46f
+##### Artikel 46f
 
 1. Een rechterlijk ambtenaar wordt door de Hoge Raad geschorst, indien en voor zolang:
 
@@ -470,7 +498,7 @@ Ten aanzien van de rechterlijk ambtenaar kan een disciplinaire maatregel worden 
 
 4. De Hoge Raad beëindigt een schorsing als bedoeld in het tweede lid zodra de grond hiervoor is vervallen.
 
-#### Artikel 46g
+##### Artikel 46g
 
 1. De Hoge Raad kan bij de beslissing, waarbij de rechterlijk ambtenaar wordt geschorst, bepalen dat tijdens de duur van de schorsing de bezoldiging geheel of gedeeltelijk zal worden ingehouden.
 
@@ -478,7 +506,7 @@ Ten aanzien van de rechterlijk ambtenaar kan een disciplinaire maatregel worden 
 
 #### § 6A.4. Ontslag en herplaatsing
 
-#### Artikel 46h
+##### Artikel 46h
 
 1. De rechterlijk ambtenaar wordt op eigen verzoek bij koninklijk besluit op voordracht van Onze Minister ontslagen.
 
@@ -486,7 +514,7 @@ Ten aanzien van de rechterlijk ambtenaar kan een disciplinaire maatregel worden 
 
 3. Met ingang van de eerste dag van de maand volgende op die waarin de rechterlijk ambtenaar de leeftijd van zeventig jaren heeft bereikt, wordt hij bij koninklijk besluit op voordracht van Onze Minister ontslagen.
 
-#### Artikel 46i
+##### Artikel 46i
 
 1. De rechterlijk ambtenaar kan, wanneer hij wegens ziekte ongeschikt is tot het verrichten van zijn arbeid, door de Hoge Raad worden ontslagen, indien:
 
@@ -522,11 +550,11 @@ Ten aanzien van de rechterlijk ambtenaar kan een disciplinaire maatregel worden 
 
 6. Het eerste lid, onderdeel c, is niet van toepassing op de raadsheren in buitengewone dienst bij en de advocaten-generaal in buitengewone dienst bij de Hoge Raad, de raadsheren-plaatsvervangers in de gerechtshoven en de rechters-plaatsvervangers in de rechtbanken.
 
-#### Artikel 46j
+##### Artikel 46j
 
 Bij de beoordeling of sprake is van een situatie als bedoeld in [artikel 46i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46i&z=2026-01-01&g=2026-01-01), wordt de uitslag betrokken van de beoordeling door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), van de aanvraag op grond van [artikel 64 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=64). Indien de beoordeling in de eerste volzin niet of langer dan een jaar geleden heeft plaatsgevonden, dan wel indien de rechterlijk ambtenaar en de functionele autoriteit het oneens zijn over het ontslag, kan door de functionele autoriteit aan het Uitvoeringsinstituut werknemersverzekeringen een oordeel als bedoeld in [artikel 32, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32) worden gevraagd en betrekt de Hoge Raad dit bij de beoordeling.
 
-#### Artikel 46k
+##### Artikel 46k
 
 1. Aan de rechterlijk ambtenaar, die ongeschikt is tot het verrichten van zijn arbeid wegens ziekte, kan door de Hoge Raad, op voorstel van de functionele autoriteit in een verzoek als bedoeld in [artikel 46o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.5&artikel=46o&z=2026-01-01&g=2026-01-01), een ander ambt of andere functie worden opgedragen bij een gerecht of binnen het gezagsbereik van Onze Minister, indien sprake is van passende arbeid. De rechterlijk ambtenaar is verplicht het ambt dat of de functie die hem wordt opgedragen te aanvaarden.
 
@@ -540,7 +568,7 @@ Bij de beoordeling of sprake is van een situatie als bedoeld in [artikel 46i, ee
 
 6. Het eerste tot en met vijfde lid zijn niet van toepassing op de raadsheren in buitengewone dienst bij en de advocaten-generaal in buitengewone dienst bij de Hoge Raad, de raadsheren-plaatsvervangers in de gerechtshoven en de rechters-plaatsvervangers in de rechtbanken.
 
-#### Artikel 46l
+##### Artikel 46l
 
 1. De rechterlijk ambtenaar wordt door de Hoge Raad ontslagen, indien hij:
 
@@ -554,7 +582,7 @@ Bij de beoordeling of sprake is van een situatie als bedoeld in [artikel 46i, ee
 
 3. Voor de beoordeling of sprake is van ongeschiktheid voor het vervullen van zijn ambt, anders dan wegens ziekte, wordt advies ingewonnen bij een commissie van drie deskundigen. Bij of krachtens algemene maatregel van bestuur worden hieromtrent nadere regels gesteld.
 
-#### Artikel 46m
+##### Artikel 46m
 
 De rechterlijk ambtenaar kan door de Hoge Raad worden ontslagen, indien hij:
 
@@ -566,7 +594,7 @@ De rechterlijk ambtenaar kan door de Hoge Raad worden ontslagen, indien hij:
 
 - d. als raadsheer- of rechter-plaatsvervanger gedurende een termijn van twee jaar niet is opgeroepen voor het verrichten van werkzaamheden als bedoeld in [artikel 5f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=2&artikel=5f&z=2026-01-01&g=2026-01-01), en gedurende die termijn evenmin aangesteld is geweest of tijdelijk is aangewezen als bedoeld in artikel 5f, eerste of derde lid.
 
-#### Artikel 46n
+##### Artikel 46n
 
 1. Ingeval van een ontslag ingevolge de [artikelen 46ca, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.2&artikel=46ca&z=2026-01-01&g=2026-01-01), [46ka](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46ka&z=2026-01-01&g=2026-01-01), [46l](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46l&z=2026-01-01&g=2026-01-01) of [artikel 46m, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46m&z=2026-01-01&g=2026-01-01), kan de Hoge Raad een voorziening treffen onderscheidenlijk kan bij koninklijk besluit op voordracht van Onze Minister een voorziening worden getroffen waarbij de rechterlijk ambtenaar een uitkering wordt verleend die naar het oordeel van de Hoge Raad onderscheidenlijk Onze Minister met het oog op de omstandigheden redelijk is te achten.
 
@@ -578,7 +606,7 @@ De rechterlijk ambtenaar kan door de Hoge Raad worden ontslagen, indien hij:
 
 #### § 6A.5. Procedure bij de Hoge Raad
 
-#### Artikel 46o
+##### Artikel 46o
 
 1. De Hoge Raad neemt de in dit hoofdstuk bedoelde beslissingen op vordering van de procureur-generaal bij de Hoge Raad. Over beëindiging van een schorsing beslist de Hoge Raad op vordering van de procureur-generaal dan wel op verzoek van de betrokken rechterlijk ambtenaar.
 
@@ -588,7 +616,7 @@ De rechterlijk ambtenaar kan door de Hoge Raad worden ontslagen, indien hij:
 
 4. De vordering wordt door de procureur-generaal gemotiveerd en schriftelijk ingesteld. Bij de vordering wordt in elk geval het proces-verbaal, bedoeld in het derde lid, gevoegd.
 
-#### Artikel 46p
+##### Artikel 46p
 
 1. Het onderzoek door de Hoge Raad geschiedt in raadkamer.
 
@@ -600,93 +628,93 @@ De rechterlijk ambtenaar kan door de Hoge Raad worden ontslagen, indien hij:
 
 5. De Hoge Raad doet aan het betrokken gerecht onderscheidenlijk het parket bij de Hoge Raad alsmede aan Onze Minister onverwijld mededeling van een beslissing als bedoeld in het vierde lid.
 
-#### Artikel 46q
+##### Artikel 46q
 
 Indien het ontslag, de schorsing of het bij ongeschiktheid wegens ziekte opdragen van een ander ambt of andere functie van de procureur-generaal in het geding is, worden de in de [artikelen 46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.5&artikel=46o&z=2026-01-01&g=2026-01-01) en [46p](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.5&artikel=46p&z=2026-01-01&g=2026-01-01) aan de procureur-generaal toegekende bevoegdheden en verplichtingen uitgeoefend door de plaatsvervangend procureur-generaal.
 
 ### Hoofdstuk 7. Beroep
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
 ### Hoofdstuk 7. Beroep
 
-#### Artikel 48
+##### Artikel 48
 
 Vervallen
 
-#### Artikel 49
+##### Artikel 49
 
 Vervallen
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
-#### Artikel 51
+##### Artikel 51
 
 Vervallen
 
-#### Artikel 52
+##### Artikel 52
 
 Vervallen
 
-#### Artikel 53
+##### Artikel 53
 
 Vervallen
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 54
+##### Artikel 54
 
 Vervallen
 
-#### Artikel 55
+##### Artikel 55
 
 Deze wet wordt aangehaald als: Wet rechtspositie rechterlijke ambtenaren.
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
-#### Artikel 57
+##### Artikel 57
 
 Vervallen
 
-#### Artikel 58
+##### Artikel 58
 
 Vervallen
 
-#### Artikel 59
+##### Artikel 59
 
 Vervallen
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
-#### Artikel 61
+##### Artikel 61
 
 Vervallen
 
-#### Artikel 62
+##### Artikel 62
 
 Vervallen
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
-#### Artikel 64
+##### Artikel 64
 
 Vervallen
 
-#### Artikel 65
+##### Artikel 65
 
 Vervallen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
@@ -764,7 +792,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 1A.3. Het ambtskostuum
 
-#### Artikel 1h
+##### Artikel 1h
 
 Vervallen
 
@@ -796,7 +824,7 @@ Vervallen
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
@@ -892,7 +920,7 @@ Krachtens de wet is de rechterlijk ambtenaar verplicht tot geheimhouding van de 
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 46ka
+##### Artikel 46ka
 
 1. De rechterlijk ambtenaar, die wegens ziekte ongeschikt is tot het verrichten van zijn arbeid, kan, in afwijking van [artikel 46i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46i&z=2026-01-01&g=2026-01-01), door de Hoge Raad worden ontslagen indien hij zonder deugdelijke grond weigert:
 
@@ -912,7 +940,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
@@ -948,7 +976,7 @@ Krachtens de wet is het deskundig lid verplicht tot geheimhouding van hetgeen in
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 46ha
+##### Artikel 46ha
 
 Onder passende arbeid wordt in de [artikelen 46i](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46i&z=2026-01-01&g=2026-01-01), [46k](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46k&z=2026-01-01&g=2026-01-01) en [46ka](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46ka&z=2026-01-01&g=2026-01-01) verstaan: alle arbeid die voor de krachten en bekwaamheden van de rechterlijk ambtenaar is berekend, tenzij aanvaarding daarvan om redenen van lichamelijke, geestelijke of sociale aard niet van de rechterlijk ambtenaar kan worden gevergd.
 
@@ -958,7 +986,7 @@ Onder passende arbeid wordt in de [artikelen 46i](https://wetten.overheid.nl/jci
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
@@ -1034,7 +1062,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. De benoeming in het ambt van president van, vice-president van of raadsheer in de Hoge Raad onderscheidenlijk procureur-generaal, plaatsvervangend procureur-generaal of advocaat-generaal bij de Hoge Raad kan op verzoek van de betrokkene, nadat hij de leeftijd van eenenzestig jaren heeft bereikt, worden gewijzigd in een benoeming in het ambt van raadsheer in buitengewone dienst onderscheidenlijk advocaat-generaal in buitengewone dienst bij de Hoge Raad.
 
@@ -1042,7 +1070,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. In het ambt van raadsheer in buitengewone dienst bij de Hoge Raad kan tevens worden benoemd degene die als lid is benoemd in een ander onafhankelijk, bij de wet ingesteld orgaan dat in hoogste ressort met bestuursrechtspraak is belast.
 
-#### Artikel 5b
+##### Artikel 5b
 
 1. In geval van benoeming van een rechterlijk ambtenaar in een bij een gerechtshof of rechtbank te vervullen ambt als bedoeld in [artikel 2, eerste, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), wordt bij besluit van de Raad voor de rechtspraak, overeenkomstig de aanbeveling van het betrokken gerechtsbestuur, vastgesteld bij welk gerechtshof of welke rechtbank dat ambt door hem wordt vervuld.
 
@@ -1052,7 +1080,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. Wijziging op verzoek van de betrokken rechterlijk ambtenaar van de vaststelling van het gerechtshof of de rechtbank onderscheidenlijk het parket waarbij een ambt als bedoeld in het eerste lid, tweede lid onderscheidenlijk derde lid wordt vervuld, geschiedt eveneens bij besluit van de Raad voor de rechtspraak, Onze Minister onderscheidenlijk het College van procureurs-generaal.
 
-#### Artikel 5c
+##### Artikel 5c
 
 1. Wanneer bij een gerechtshof of een rechtbank een plaats van senior raadsheer, raadsheer, raadsheer-plaatsvervanger, senior rechter A, senior rechter, rechter of rechter-plaatsvervanger openvalt, maakt het bestuur van dat gerechtshof of die rechtbank een lijst van aanbeveling van zo mogelijk drie kandidaten op.
 
@@ -1066,15 +1094,15 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 6. Wanneer bij de Hoge Raad een plaats van raadsheer openvalt, geeft de Hoge Raad daarvan kennis aan de Tweede Kamer der Staten-Generaal, onder meezending van een door de Hoge Raad, na overleg met de procureur-generaal bij de Hoge Raad, opgemaakte lijst van aanbeveling van zes kandidaten, ten behoeve van de door de Tweede Kamer der Staten-Generaal op te maken voordracht van drie personen. De eerste volzin is eveneens van toepassing wanneer een plaats van raadsheer in buitengewone dienst als bedoeld in [artikel 5a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=2&artikel=5a&z=2026-01-01&g=2026-01-01), openvalt, met dien verstande dat de lijst van aanbeveling drie kandidaten bevat.
 
-#### Artikel 5d
+##### Artikel 5d
 
 Vervallen
 
-#### Artikel 5e
+##### Artikel 5e
 
 Vervallen
 
-#### Artikel 5f
+##### Artikel 5f
 
 1. Een rechterlijk ambtenaar vervult het ambt waarin hij wordt benoemd op basis van een aanstelling voor een gemiddeld aantal uren per week.
 
@@ -1084,7 +1112,7 @@ Vervallen
 
 4. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de aanstelling van rechterlijke ambtenaren en de aanwijzing van rechterlijke ambtenaren.
 
-#### Artikel 5g
+##### Artikel 5g
 
 1. Een rechterlijk ambtenaar legt bij een benoeming in een ambt voorafgaand aan de datum van indiensttreding de eed of belofte af een overeenkomstig een bij algemene maatregel van bestuur vastgesteld formulier.
 
@@ -1100,15 +1128,15 @@ Vervallen
 
 ### Hoofdstuk 3. Salaris en andere financiële arbeidsvoorwaarden
 
-#### Artikel 18a
+##### Artikel 18a
 
 Vervallen
 
-#### Artikel 19a
+##### Artikel 19a
 
 Vervallen
 
-#### Artikel 19b
+##### Artikel 19b
 
 Vervallen
 
@@ -1136,7 +1164,7 @@ Vervallen
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
@@ -1228,7 +1256,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 44a
+##### Artikel 44a
 
 1. In dit artikel en de daarop berustende bepalingen wordt verstaan onder nevenbetrekkingen: de betrekkingen die rechterlijke ambtenaren buiten hun ambt vervullen.
 
@@ -1266,7 +1294,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
@@ -1280,7 +1308,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 1A.1. Benoeming
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. Tot rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding kan slechts worden benoemd degene die in het bezit is van een verklaring omtrent het gedrag, niet ouder dan drie maanden en afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194).
 
@@ -1302,7 +1330,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 6A.2. Disciplinaire maatregelen
 
-#### Artikel 46ca
+##### Artikel 46ca
 
 1. De disciplinaire maatregelen die ten aanzien van de rechterlijk ambtenaar kunnen worden opgelegd, zijn:
 
@@ -1322,7 +1350,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 5. Met het toezicht op de naleving van de voorwaarden als bedoeld in het vierde lid is de functionele autoriteit belast. Ten aanzien van de met rechtspraak belaste rechterlijk ambtenaar, niet zijnde president van een gerecht, wordt deze bevoegdheid uitgeoefend door de president van het gerecht waar betrokkene werkzaam is. Ten aanzien van de rechterlijk ambtenaar die tevens president is van een rechtbank, wordt deze bevoegdheid uitgeoefend door de president van het gerechtshof van het ressort waarbinnen die rechtbank is gelegen. Ten aanzien van de rechterlijk ambtenaar die tevens president is van een gerechtshof, wordt deze bevoegdheid uitgeoefend door de president van de Hoge Raad.
 
-#### Artikel 46fa
+##### Artikel 46fa
 
 1. In de gevallen bedoeld in [artikel 46f, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.3&artikel=46f&z=2026-01-01&g=2026-01-01), kan een daartoe aangewezen enkelvoudige kamer van de Hoge Raad de rechterlijk ambtenaar in verband met onverwijlde spoed buiten functie stellen.
 
@@ -1336,7 +1364,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 6A.1. Algemeen
 
-#### Artikel 46kb
+##### Artikel 46kb
 
 Ten aanzien van een rechterlijk ambtenaar kan, bij wijze van ordemaatregel en om redenen van zwaarwegend organisatorisch belang van het gerecht waar de rechterlijk ambtenaar op dat moment is geplaatst, door de Hoge Raad, op voorstel van de functionele autoriteit in een verzoek als bedoeld in [artikel 46o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.5&artikel=46o&z=2026-01-01&g=2026-01-01), de vaststelling van het gerechtshof of de rechtbank waar het ambt bij wordt vervuld, worden gewijzigd.
 
@@ -1348,7 +1376,7 @@ Ten aanzien van een rechterlijk ambtenaar kan, bij wijze van ordemaatregel en om
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
@@ -1416,7 +1444,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1aa
+##### Artikel 1aa
 
 1. De functionele autoriteit maakt geen onderscheid tussen rechterlijke ambtenaren als bedoeld in [artikel 1, onderdeel b, onder 5° tot en met 10°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1) op grond van een verschil in arbeidsduur in de voorwaarden waaronder een aanstelling wordt verleend, verlengd dan wel beëindigd, tenzij een dergelijk onderscheid objectief gerechtvaardigd is.
 
@@ -1444,7 +1472,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk 3A. Beslag, terugvordering, verrekening en korting
 
-#### Artikel 19c
+##### Artikel 19c
 
 1. Voor de toepassing van dit hoofdstuk wordt verstaan of mede verstaan onder:
 
@@ -1456,17 +1484,17 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. Tenzij anders is bepaald, worden de in dit hoofdstuk genoemde bevoegdheden ten aanzien van een rechterlijk ambtenaar uitgeoefend door Onze Minister onderscheidenlijk, indien het een bij een gerechtshof of rechtbank werkzame rechterlijk ambtenaar betreft, het gerechtsbestuur.
 
-#### Artikel 19d
+##### Artikel 19d
 
 1. Op bezoldiging is, voor zover in dit hoofdstuk niet anders is bepaald, beslag mogelijk overeenkomstig de voorschriften van het gemene recht.
 
 2. Kostenvergoedingen welke verband houden met de dienstverrichting zijn niet vatbaar voor beslag.
 
-#### Artikel 19e
+##### Artikel 19e
 
 Aan de rechterlijk ambtenaar onverschuldigd betaalde bezoldiging kan worden teruggevorderd door Onze Minister onderscheidenlijk het gerechtsbestuur.
 
-#### Artikel 19f
+##### Artikel 19f
 
 1. Met de door Onze Minister onderscheidenlijk het gerechtsbestuur verschuldigde bezoldiging kan worden verrekend hetgeen de rechterlijk ambtenaar als zodanig aan hem zelf verschuldigd is.
 
@@ -1474,7 +1502,7 @@ Aan de rechterlijk ambtenaar onverschuldigd betaalde bezoldiging kan worden teru
 
 3. Verrekening is slechts in zoverre geldig als een beslag op die bezoldiging geldig zou zijn, met dien verstande dat verrekening van hetgeen wegens genoten huisvesting of voeding is verschuldigd eveneens kan plaatsvinden met dat deel van de bezoldiging dat de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) vormt.
 
-#### Artikel 19g
+##### Artikel 19g
 
 1. Onze Minister onderscheidenlijk het gerechtsbestuur kan op de bezoldiging ten behoeve van een schuldeiser van de rechterlijk ambtenaar een korting toepassen, mits de rechterlijk ambtenaar de vordering van de schuldeiser erkent of het bestaan van de vordering blijkt uit een in kracht van gewijsde gegane rechterlijke uitspraak dan wel uit een authentieke akte.
 
@@ -1482,21 +1510,21 @@ Aan de rechterlijk ambtenaar onverschuldigd betaalde bezoldiging kan worden teru
 
 3. Beslag, faillissement, surséance van betaling en toepassing ten aanzien van de rechterlijk ambtenaar van de schuldsaneringsregeling natuurlijke personen sluiten korting uit.
 
-#### Artikel 19h
+##### Artikel 19h
 
 Voor de toepassing van [artikel 475b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b) worden, onverminderd [artikel 19f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=3A&artikel=19f&z=2026-01-01&g=2026-01-01), en [artikel 19g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=3A&artikel=19g&z=2026-01-01&g=2026-01-01), verrekening en korting gelijkgesteld met beslag.
 
-#### Artikel 19i
+##### Artikel 19i
 
 Indien verscheidene schuldeisers uit hoofde van beslag of korting aanspraak hebben op een deel van de bezoldiging geschiedt de verdeling naar evenredigheid van de inschulden, voor zover niet de ene schuldeiser voorrang heeft boven de anderen.
 
-#### Artikel 19j
+##### Artikel 19j
 
 1. Overdracht, inpandgeving of elke andere handeling, waardoor de rechterlijk ambtenaar enig recht op zijn bezoldiging aan een derde toekent is slechts geldig voor dat deel van de bezoldiging waarop beslag geldig zou zijn.
 
 2. Een volmacht tot voldoening of invordering van de bezoldiging is slechts geldig indien zij schriftelijk is verleend en is steeds herroepelijk.
 
-#### Artikel 19k
+##### Artikel 19k
 
 Betaling of afgifte aan een gemachtigde, nadat een volmacht tot voldoening of invorderingen van bezoldiging is geëindigd, ontlast het bevoegd gezag, indien een gegeven opdracht tot de betaling of afgifte niet meer tijdig kon worden ingetrokken, toen het bevoegd gezag van het eindigen van de volmacht kennis kreeg.
 
@@ -1516,7 +1544,7 @@ Betaling of afgifte aan een gemachtigde, nadat een volmacht tot voldoening of in
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
@@ -1584,7 +1612,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1ab
+##### Artikel 1ab
 
 1. Voor zover deze onderwerpen niet in deze wet zijn geregeld, worden bij of krachtens algemene maatregel van bestuur voorschriften vastgesteld betreffende:
 
@@ -1616,7 +1644,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 2. De voorschriften, bedoeld in het eerste lid, worden vastgesteld met inachtneming van de onafhankelijkheid van de voor het leven benoemde rechterlijke ambtenaren.
 
-#### Artikel 1ac
+##### Artikel 1ac
 
 1. De Sectorcommissie rechterlijke macht bestaat uit vertegenwoordigers van:
 
@@ -1664,7 +1692,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
@@ -1678,7 +1706,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 54a
+##### Artikel 54a
 
 1. Bij een gebrek aan capaciteit aan rechterlijke ambtenaren met rechtspraak belast kunnen rechterlijke ambtenaren als bedoeld in [artikel 1, onderdeel b, onder 2° en 3°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1) die op grond van [artikel 46h, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=6A&paragraaf=6A.4&artikel=46h&z=2026-01-01&g=2026-01-01), worden ontslagen vervolgens worden benoemd tot raadsheren-plaatsvervangers of rechters-plaatsvervangers.
 
@@ -1688,7 +1716,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. Raadsheren-plaatsvervangers en rechters-plaatsvervangers die op grond van het eerste lid zijn benoemd, worden met ingang van de eerste dag van de maand volgende op die waarin zij de leeftijd van drieënzeventig jaren hebben bereikt bij koninklijk besluit op voordracht van Onze Minister ontslagen.
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 

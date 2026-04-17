@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit etikettering energiegebruik personenauto’s (aanpassing energielabels nieuwe personenauto’s met reeds bij de fabriek geïnstalleerde aardgas- of LPG-installatie)"
+title: "Besluit van 13 december 2007 tot wijziging van het Besluit etikettering energiegebruik personenauto’s in verband met de aanpassing van energielabels voor nieuwe personenauto’s met een reeds bij de fabriek geïnstalleerde aardgas- of LPG-installatie"
 identifier: "BWBR0023056"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2009-01-01
-laatste_update: 2009-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023056"
+country: "nl"
+rank: "amvb"
+publication_date: "2009-01-01"
+last_updated: "2009-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023056"
+soort: "AMvB"
+stam_id: "9326883"
+version_id: "14985162"
+internal_id: "C20395441"
+label_id: "9305314"
+dtd_version: "2.0"
+original_entry_into_force: "2008-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023056/2009-01-01/0"
+intitule_bron: "Stb.2007-544"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-12-13"
+intitule_published: "2007-12-20"
+intitule_in_force: "2007-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2007-544"
+original_signed_date: "2007-12-13"
+original_published_date: "2007-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2007-544"
+entry_into_force_date: "2008-01-01"
+jci_1_3: "jci1.3:c:BWBR0023056&z=2009-01-01&g=2009-01-01"
+jci_1_0: "1.0:c:BWBR0023056&g=2009-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit etikettering energiegebruik personenauto’s (aanpassing energielabels nieuwe personenauto’s met reeds bij de fabriek geïnstalleerde aardgas- of LPG-installatie)"
+signed_date: "2007-12-13"
+entry_into_force: "2008-01-01"
 ---
-
 # Besluit van 13 december 2007 tot wijziging van het Besluit etikettering energiegebruik personenauto’s in verband met de aanpassing van energielabels voor nieuwe personenauto’s met een reeds bij de fabriek geïnstalleerde aardgas- of LPG-installatie
 
 Op de voordracht van Onze Minister van Economische Zaken van 17 juli 2007, nr. WJZ 7085700, gedaan mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
@@ -20,19 +46,19 @@ Gezien het nader rapport van Onze Minister van Economische Zaken van 11 december
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit etikettering energiegebruik personenauto’s.
 
-#### Artikel II
+##### Artikel II
 
 Vervallen
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Tijdelijk besluit subsidies milieukwaliteit van de elektriciteitsproductie door middel van warmtekrachtkoppeling.
 
-#### Artikel IV
+##### Artikel IV
 
 Dit besluit treedt in werking met ingang 1 januari 2008.
 

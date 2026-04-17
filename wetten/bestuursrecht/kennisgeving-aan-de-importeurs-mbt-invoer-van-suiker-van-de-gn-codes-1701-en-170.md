@@ -1,13 +1,37 @@
 ---
 title: "Kennisgeving aan de importeurs mbt invoer van suiker van de GN-codes 1701 en 1702 vanuit Albanië, Bosnië-Herzegovina, Kroatië, de Federatieve Republiek Joegoslavië, Kosovo, en de Voormalige Joegoslavische Republiek Macedonië (de Westelijke Balkan)"
 identifier: "BWBR0013821"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-07-01
-laatste_update: 2002-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013821"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2002-07-01"
+last_updated: "2002-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013821"
+soort: "beleidsregel"
+stam_id: "8403973"
+version_id: "13276992"
+internal_id: "C18434491"
+label_id: "8384734"
+dtd_version: "2.0"
+original_entry_into_force: "2002-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013821/2002-07-01/0"
+intitule_bron: "Infob.2002-6"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-06-28"
+intitule_published: "2002-01-01"
+intitule_in_force: "2002-01-01"
+intitule_status: "goed"
+original_publication: "Infob.2002-6"
+original_signed_date: "2002-06-28"
+original_published_date: "2002-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-07-01"
+jci_1_3: "jci1.3:c:BWBR0013821&z=2002-07-01&g=2002-07-01"
+jci_1_0: "1.0:c:BWBR0013821&g=2002-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "2002-06-28"
+entry_into_force: "2002-07-01"
 ---
-
 # Kennisgeving aan de importeurs mbt invoer van suiker van de GN-codes 1701 en 1702 vanuit Albanië, Bosnië-Herzegovina, Kroatië, de Federatieve Republiek Joegoslavië, Kosovo, en de Voormalige Joegoslavische Republiek Macedonië (de Westelijke Balkan)
 
 Aan het hoofd van de Directie Douane en de hoofden van de douanedistricten

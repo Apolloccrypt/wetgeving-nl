@@ -1,14 +1,41 @@
 ---
-title: "Machtigingswet oprichting Invest International"
+title: "Wet van 14 juli 2021, houdende machtiging tot oprichting van de Nederlandse financierings- en ontwikkelingsinstelling Invest International (Machtigingswet oprichting Invest International)"
 identifier: "BWBR0045430"
-categorie: "Overig"
-publicatiedatum: 2021-07-21
-laatste_update: 2021-07-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045430"
+country: "nl"
+rank: "wet"
+publication_date: "2021-07-21"
+last_updated: "2021-07-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045430"
+soort: "wet"
+stam_id: "16030943"
+version_id: "27917782"
+internal_id: "C39363781"
+label_id: "15964604"
+dtd_version: "2.0"
+original_entry_into_force: "2021-07-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045430/2021-07-21/0"
+intitule_bron: "Stb.2021-367"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-07-14"
+intitule_published: "2021-07-20"
+intitule_in_force: "2021-07-20"
+intitule_status: "goed"
+original_publication: "Stb.2021-367"
+original_signed_date: "2021-07-14"
+original_published_date: "2021-07-20"
+original_effect: "nieuwe-regeling"
+original_dossier: "35529"
+original_url_id: "stb-2021-367"
+entry_into_force_date: "2021-07-21"
+jci_1_3: "jci1.3:c:BWBR0045430&z=2021-07-21&g=2021-07-21"
+jci_1_0: "1.0:c:BWBR0045430&g=2021-07-21"
+citeertitel_status: "officieel"
+short_title: "Machtigingswet oprichting Invest International"
+signed_date: "2021-07-14"
+entry_into_force: "2021-07-21"
 ---
-
-# Machtigingswet oprichting Invest International
+# Wet van 14 juli 2021, houdende machtiging tot oprichting van de Nederlandse financierings- en ontwikkelingsinstelling Invest International (Machtigingswet oprichting Invest International)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,7 +61,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 2. Onder «Nederlandse economie» wordt in deze wet en de daarop berustende bepalingen mede verstaan de economie van de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 2. Machtiging
+##### Artikel 2. Machtiging
 
 1. Onze Minister van Financiën wordt gemachtigd om namens de Staat der Nederlanden met de Nederlandse Financierings-Maatschappij voor Ontwikkelingslanden N.V. mede op te richten de besloten vennootschap Invest International B.V.
 
@@ -48,11 +75,11 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 2. Doel en taken
 
-#### Artikel 3. Doel
+##### Artikel 3. Doel
 
 Invest International heeft tot doel ondersteuning te bieden voor op het buitenland gerichte activiteiten van ondernemingen en internationale projecten die een bijdrage leveren aan de Nederlandse economie door het verbeteren van de internationale concurrentiepositie en het verdienvermogen, en voor internationale projecten die voorzien in oplossingen voor wereldwijde vraagstukken zoals bijdragen aan duurzame economische ontwikkeling. Invest International ontplooit haar activiteiten additioneel aan de markt, door middel van financiering en projectontwikkeling.
 
-#### Artikel 4. Taken
+##### Artikel 4. Taken
 
 1. Invest International heeft met het oog op het realiseren van het doel, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=2&artikel=3&z=2021-07-21&g=2021-07-21), tot taak:
 
@@ -80,7 +107,7 @@ Invest International heeft tot doel ondersteuning te bieden voor op het buitenla
 
 5. Onze Minister kan een besluit tot instemming als bedoeld in het vierde lid intrekken of wijzigen, indien niet meer wordt voldaan aan de voorwaarden voor het geven van die instemming of aan de voorschriften of beperkingen die aan die instemming verbonden zijn.
 
-#### Artikel 5. Handelingen
+##### Artikel 5. Handelingen
 
 1. Bij de uitoefening van de taken, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=2&artikel=4&z=2021-07-21&g=2021-07-21), kan Invest International:
 
@@ -98,7 +125,7 @@ Invest International heeft tot doel ondersteuning te bieden voor op het buitenla
 
 ### Hoofdstuk 3. Uitoefening aandeelhouderschap staat
 
-#### Artikel 6. Uitoefening aandeelhouderschap
+##### Artikel 6. Uitoefening aandeelhouderschap
 
 Het aandeelhouderschap van de Staat in Invest International wordt uitgeoefend door Onze Minister van Financiën.
 
@@ -106,7 +133,7 @@ Het aandeelhouderschap van de Staat in Invest International wordt uitgeoefend do
 
 #### § 1. Beginselen van financieel beheer
 
-#### Artikel 7. Gescheiden boekhouding ten aanzien van de te onderscheiden taken
+##### Artikel 7. Gescheiden boekhouding ten aanzien van de te onderscheiden taken
 
 1. Indien Invest International of een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=1&artikel=2&z=2021-07-21&g=2021-07-21), verschillende activiteiten verricht, worden gelden die zijn ontvangen voor of uit activiteiten te verrichten voor rekening en risico van de Staat uitsluitend en uiterlijk binnen een door Onze Minister vastgestelde termijn voor het daarvoor bestemde doel aangewend of aan de Staat uitgekeerd.
 
@@ -122,7 +149,7 @@ Het aandeelhouderschap van de Staat in Invest International wordt uitgeoefend do
 
 4. Onze Minister kan in geval van overtreding van het eerste, tweede of derde lid een last onder bestuursdwang opleggen aan Invest International of een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=1&artikel=2&z=2021-07-21&g=2021-07-21).
 
-#### Artikel 8. Jaarverslag
+##### Artikel 8. Jaarverslag
 
 1. Onverminderd de [artikelen 394](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=394) en [395 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=395), zendt Invest International of een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=1&artikel=2&z=2021-07-21&g=2021-07-21), de jaarrekening, bedoeld in [artikel 361, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361), en het bestuursverslag, bedoeld in [artikel 391 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391), jaarlijks aan Onze Minister van Financiën.
 
@@ -130,13 +157,13 @@ Het aandeelhouderschap van de Staat in Invest International wordt uitgeoefend do
 
 #### § 2. Mededinging en staatssteun
 
-#### Artikel 9. Additioneel aan de markt
+##### Artikel 9. Additioneel aan de markt
 
 1. Invest International en een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=1&artikel=2&z=2021-07-21&g=2021-07-21), onthouden zich van uit een oogpunt van goede marktwerking ongewenste mededinging met ondernemingen.
 
 2. Bij algemene maatregel van bestuur kunnen vanuit het oogpunt van goede marktwerking als bedoeld in het eerste lid regels worden gesteld voor de uitvoering van activiteiten door Invest International of een rechtspersoon als bedoeld [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=1&artikel=2&z=2021-07-21&g=2021-07-21), met inbegrip van regels die het uitvoeren van bepaalde activiteiten verbieden of beperken.
 
-#### Artikel 10. Mededingingsklacht
+##### Artikel 10. Mededingingsklacht
 
 1. Ondernemingen hebben het recht een mededingingsklacht in te dienen over de naleving van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=4&paragraaf=2&artikel=9&z=2021-07-21&g=2021-07-21), bij activiteiten, anders dan die krachtens mandaat, volmacht of machtiging van Onze Minister worden verricht, van Invest International of van een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=1&artikel=2&z=2021-07-21&g=2021-07-21).
 
@@ -148,7 +175,7 @@ Het aandeelhouderschap van de Staat in Invest International wordt uitgeoefend do
 
 5. Aan het eind van elk kwartaal doet Invest International verslag over de status van de afhandeling van een ingediende mededingingsklacht aan Onze Minister.
 
-#### Artikel 11. Gevolg schending additionaliteitsbeginsel
+##### Artikel 11. Gevolg schending additionaliteitsbeginsel
 
 1. Indien Invest International, al dan niet naar aanleiding van een mededingingsklacht als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=4&paragraaf=2&artikel=10&z=2021-07-21&g=2021-07-21), vaststelt dat een werkzaamheid ter uitvoering van een taak als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=2&artikel=4&z=2021-07-21&g=2021-07-21), leidt tot uit een oogpunt van goede marktwerking ongewenste mededinging met ondernemingen, draagt Invest International, met inachtneming van de belangen van derden, ervoor zorg dat de ongewenste mededinging binnen een redelijke termijn wordt beëindigd en dat de gevolgen daarvan worden gemitigeerd.
 
@@ -156,7 +183,7 @@ Het aandeelhouderschap van de Staat in Invest International wordt uitgeoefend do
 
 3. Indien de termijn, bedoeld in het eerste of tweede lid, verstrijkt zonder dat Invest International uitvoering heeft gegeven aan de daarin bedoelde verplichtingen, kan Onze Minister namens en op kosten van Invest International er zowel door het verrichten van publiekrechtelijke of privaatrechtelijke rechtshandelingen als door het verrichten van feitelijke handelingen in voorzien dat daaraan alsnog wordt voldaan.
 
-#### Artikel 12. Verbod verstrekken ongeoorloofde staatssteun
+##### Artikel 12. Verbod verstrekken ongeoorloofde staatssteun
 
 1. Invest International en een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=1&artikel=2&z=2021-07-21&g=2021-07-21), verstrekken voor eigen rekening en risico geen ongeoorloofde staatssteun en voeren subsidieregelingen of subsidiebesluiten en daarmee samenhangende werkzaamheden uit in overeenstemming met de toepasselijke regels inzake staatssteun.
 
@@ -172,7 +199,7 @@ Het aandeelhouderschap van de Staat in Invest International wordt uitgeoefend do
 
 #### § 3. Bedrijfsvoering
 
-#### Artikel 13. Verplichting tot aanhouden archief en verplichting tot overdragen aan Rijksarchief
+##### Artikel 13. Verplichting tot aanhouden archief en verplichting tot overdragen aan Rijksarchief
 
 1. Bij het uitoefenen van de taken, bedoeld in [artikel 4, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=2&artikel=4&z=2021-07-21&g=2021-07-21), is de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) van overeenkomstige toepassing op het beheer van en het toezicht op de archiefbescheiden verbonden aan deze taken die bij Invest International, of een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=1&artikel=2&z=2021-07-21&g=2021-07-21), berusten.
 
@@ -182,7 +209,7 @@ Het aandeelhouderschap van de Staat in Invest International wordt uitgeoefend do
 
 ### Hoofdstuk 5. Geldmiddelen
 
-#### Artikel 14. Ontwikkelactiviteiten
+##### Artikel 14. Ontwikkelactiviteiten
 
 1. Onze Minister kan aan Invest International of een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=1&artikel=2&z=2021-07-21&g=2021-07-21), die als doel heeft het uitvoeren van de taak, genoemd in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=2&artikel=4&z=2021-07-21&g=2021-07-21), op aanvraag een subsidie verstrekken voor de kosten verbonden aan het uitvoeren van de taak, genoemd in artikel 4, eerste lid, onderdeel a.
 
@@ -194,7 +221,7 @@ Het aandeelhouderschap van de Staat in Invest International wordt uitgeoefend do
 
 5. Indien Invest International of een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=1&artikel=2&z=2021-07-21&g=2021-07-21), die als doelstelling heeft het uitvoeren van de taak, genoemd in artikel 4, eerste lid, onderdeel a, in grove mate nalatig is bij het vervullen van de taak, genoemd in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=2&artikel=4&z=2021-07-21&g=2021-07-21), kan Onze Minister een last onder bestuursdwang opleggen of een ander tijdelijk die taak laten vervullen.
 
-#### Artikel 15. Onkostenvergoeding voor dienstverlening aan Onze Minister voor tenuitvoerlegging regelingen
+##### Artikel 15. Onkostenvergoeding voor dienstverlening aan Onze Minister voor tenuitvoerlegging regelingen
 
 1. Onze Minister vergoedt de kosten die Invest International of een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=1&artikel=2&z=2021-07-21&g=2021-07-21), maakt bij het uitvoeren van de taken, bedoeld in [artikel 4, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=2&artikel=4&z=2021-07-21&g=2021-07-21).
 
@@ -202,7 +229,7 @@ Het aandeelhouderschap van de Staat in Invest International wordt uitgeoefend do
 
 ### Hoofdstuk 6. Evaluatie
 
-#### Artikel 16. Evaluatie
+##### Artikel 16. Evaluatie
 
 1. Onze Minister zendt in overeenstemming met Onze Minister van Financiën binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de effecten van deze wet in de praktijk.
 
@@ -210,25 +237,25 @@ Het aandeelhouderschap van de Staat in Invest International wordt uitgeoefend do
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
-#### Artikel 17. Overgang roerende zaken en vermogensrechten
+##### Artikel 17. Overgang roerende zaken en vermogensrechten
 
 Roerende zaken en vermogensrechten van de Rijksdienst voor Ondernemend Nederland die zijn vermeld op een door Onze Minister van Economische Zaken en Klimaat in overeenstemming met Onze Minister van Financiën vastgestelde lijst, gaan onder algemene titel over op Invest International of op een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=1&artikel=2&z=2021-07-21&g=2021-07-21), zonder dat daarvoor een akte of betekening nodig is.
 
-#### Artikel 18. Archiefbescheiden
+##### Artikel 18. Archiefbescheiden
 
 De archiefbescheiden die betrekking hebben op de taken, bedoeld in [artikel 4, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=2&artikel=4&z=2021-07-21&g=2021-07-21), worden, voor zover deze niet zijn overgebracht naar een archiefbewaarplaats, op de oprichtingsdatum voor een tijdvak van ten hoogste twintig jaar ter beschikking gesteld aan Invest International.
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 19. Conservatoir beslag
+##### Artikel 19. Conservatoir beslag
 
 Verlof tot het leggen van conservatoir beslag, bedoeld in [artikel 700, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=700) ten laste van Invest International of een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=1&artikel=2&z=2021-07-21&g=2021-07-21), die als doel heeft het uitvoeren van een taak als bedoeld in [artikel 4, eerste lid, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=2&artikel=4&z=2021-07-21&g=2021-07-21), kan slechts worden verleend nadat degene ten laste van wie het verlof wordt verzocht in de gelegenheid is gesteld om te worden gehoord, tenzij het beslag uitsluitend op zaken betrekking heeft.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Deze wet wordt aangehaald als: Machtigingswet oprichting Invest International.
 

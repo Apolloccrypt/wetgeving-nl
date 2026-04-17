@@ -1,80 +1,106 @@
 ---
-title: "Eindejaarsbesluit 2023"
+title: "Besluit van 20 december 2023 tot wijziging van enige uitvoeringsbesluiten op het gebied van de belastingen en enige andere besluiten (Eindejaarsbesluit 2023)"
 identifier: "BWBR0049134"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-02-21
-laatste_update: 2024-02-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049134"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-02-21"
+last_updated: "2024-02-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049134"
+soort: "AMvB"
+stam_id: "16978843"
+version_id: "29848542"
+internal_id: "C42789021"
+label_id: "16889374"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049134/2024-02-21/0"
+intitule_bron: "Stb.2023-511"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-20"
+intitule_published: "2023-12-27"
+intitule_in_force: "2023-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2023-511"
+original_signed_date: "2023-12-20"
+original_published_date: "2023-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2023-511"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0049134&z=2024-02-21&g=2024-02-21"
+jci_1_0: "1.0:c:BWBR0049134&g=2024-02-21"
+citeertitel_status: "officieel"
+short_title: "Eindejaarsbesluit 2023"
+signed_date: "2023-12-20"
+entry_into_force: "2024-01-01"
 ---
-
 # Besluit van 20 december 2023 tot wijziging van enige uitvoeringsbesluiten op het gebied van de belastingen en enige andere besluiten (Eindejaarsbesluit 2023)
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit fiscale eenheid 2003.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Uitvoeringsbesluit Successiewet 1956.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Uitvoeringsbesluit belastingen van rechtsverkeer.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Uitvoeringsbesluit accijns.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Besluit belasting- en invorderingsrente.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Uitvoeringsbesluit Invorderingswet 1990.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Uitvoeringsbesluit Belastingwet BES.
 
-#### Artikel XIV
+##### Artikel XIV
 
 1. Een rechtspersoon als bedoeld in [artikel II, eerste lid, onderdeel a, van de Wet aanpassing fiscale beleggingsinstelling](https://wetten.overheid.nl/jci1.3:c:BWBR0049127&artikel=II) die als gevolg van de toepassing van dat artikel niet langer kwalificeert als beleggingsinstelling als bedoeld in [artikel 28 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) en waarbij de toepassing van artikel II, eerste lid, van de Wet aanpassing fiscale beleggingsinstelling plaatsvindt in de loop van het boekjaar, mag dat boekjaar splitsen in twee afzonderlijke boekjaren, waarbij het eerste boekjaar eindigt op het tijdstip onmiddellijk voorafgaand aan de toepassing van artikel II, eerste lid, van de Wet aanpassing fiscale beleggingsinstelling.
 
 2. Een lichaam dat als gevolg van de inwerkingtreding van [artikel I van de Wet aanpassing fiscale beleggingsinstelling](https://wetten.overheid.nl/jci1.3:c:BWBR0049127&artikel=I) niet langer kwalificeert als beleggingsinstelling als bedoeld in [artikel 28 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) en waarbij die inwerkingtreding valt in de loop van het boekjaar, mag dat boekjaar splitsen in twee afzonderlijke boekjaren, waarbij het eerste boekjaar eindigt op het tijdstip onmiddellijk voorafgaand aan de inwerkingtreding van artikel I van de Wet aanpassing fiscale beleggingsinstelling.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt het Besluit toekomst pensioenen.
 
-#### Artikel XVI
+##### Artikel XVI
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2024, met dien verstande dat:
 
@@ -104,7 +130,7 @@ Wijzigt het Besluit toekomst pensioenen.
 
 - b. [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=III&z=2024-02-21&g=2024-02-21), terug tot en met 1 januari 2022.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Dit besluit wordt aangehaald als: Eindejaarsbesluit 2023.
 

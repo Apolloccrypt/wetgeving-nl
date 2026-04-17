@@ -1,13 +1,35 @@
 ---
 title: "Internationaal Verdrag inzake de beperking van schadelijke aangroeiwerende verfsystemen op schepen"
 identifier: "BWBV0003091"
-categorie: "Internationaal recht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003091"
+country: "nl"
+rank: "verdrag"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003091"
+soort: "verdrag"
+stam_id: "10003330193"
+version_id: "10003360782"
+internal_id: "C10006994401"
+label_id: "10003316504"
+dtd_version: "2.0"
+original_entry_into_force: "2008-09-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003091/2023-01-01/0"
+intitule_bron: "Trb.2004-44"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2004-02-19"
+intitule_in_force: "2008-07-18"
+intitule_status: "goed"
+original_publication: "Trb.2004-44"
+original_published_date: "2004-02-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-44"
+entry_into_force_date: "2008-09-17"
+jci_1_3: "jci1.3:c:BWBV0003091&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBV0003091&g=2023-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2008-09-17"
 ---
-
 # Internationaal Verdrag inzake de beperking van schadelijke aangroeiwerende verfsystemen op schepen
 
 De Partijen bij dit Verdrag,
@@ -30,7 +52,7 @@ Voorts erkennend de noodzaak de ontwikkeling van aangroeiwerende verfsystemen di
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Algemene verplichtingen
+##### Artikel 1. Algemene verplichtingen
 
 1. Elke Partij bij dit Verdrag verplicht zich ertoe de bepalingen ervan volledig ten uitvoer te leggen teneinde de nadelige gevolgen voor het mariene milieu en de gezondheid van de mens, veroorzaakt door aangroeiwerende verfsystemen, te verminderen of uit te bannen.
 
@@ -42,7 +64,7 @@ Zijn het volgende overeengekomen:
 
 5. De Partijen verplichten zich ertoe de voortdurende ontwikkeling van doeltreffende en voor het milieu veilige aangroeiwerende verfsystemen aan te moedigen.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt, tenzij uitdrukkelijk anders is bepaald, verstaan onder:
 
@@ -66,7 +88,7 @@ Voor de toepassing van dit Verdrag wordt, tenzij uitdrukkelijk anders is bepaald
 
 - 10. ,,Technische werkgroep’’, een lichaam bestaande uit vertegenwoordigers van de Partijen, de Leden van de Organisatie, de Verenigde Naties en de Gespecialiseerde Organisaties daarvan, de intergouvernementele organisaties die overeenkomsten hebben met de Organisatie, en de niet-gouvernementele organisaties die in consultatieve verhouding tot de Organisatie staan, waarin bij voorkeur vertegenwoordigers van instanties en laboratoria zitting hebben die zich bezighouden met het analyseren van aangroeiwerende verfsystemen. Deze vertegenwoordigers dienen deskundig te zijn op het gebied van afbraak en uitwerkingen in het milieu, toxicologische gevolgen, mariene biologie, gezondheid van de mens, economische analyse, risicomanagement, internationale scheepvaart, bij aangroeiwerende verfsystemen gebruikte coating-technologie of andere gebieden van deskundigheid benodigd voor de objectieve beoordeling van de technische aspecten van een definitief voorstel.
 
-#### Artikel 3. Toepassing
+##### Artikel 3. Toepassing
 
 1. Tenzij in dit Verdrag anders wordt bepaald, is dit Verdrag van toepassing op:
 
@@ -80,7 +102,7 @@ Voor de toepassing van dit Verdrag wordt, tenzij uitdrukkelijk anders is bepaald
 
 3. Ten aanzien van de schepen van niet-Partijen bij dit Verdrag, passen de Partijen de vereisten van dit Verdrag waar nodig toe teneinde te waarborgen dat dergelijke schepen geen meer begunstigde behandeling wordt gegeven.
 
-#### Artikel 4. Beperkende maatregelen voor aangroeiwerende verfsystemen
+##### Artikel 4. Beperkende maatregelen voor aangroeiwerende verfsystemen
 
 1. In overeenstemming met de in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&bijlage=1&z=2023-01-01&g=2023-01-01) vervatte vereisten verbiedt en/of beperkt elke Partij:
 
@@ -92,11 +114,11 @@ en neemt zij doeltreffende maatregelen om te waarborgen dat deze schepen aan die
 
 2. Schepen die zijn voorzien van een aangroeiwerend verfsysteem dat wordt gecontroleerd door middel van een wijziging van [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&bijlage=1&z=2023-01-01&g=2023-01-01) na de inwerkingtreding van dit Verdrag, mogen dat verfsysteem behouden tot de volgende geplande vernieuwing van dat verfsysteem, maar in geen geval gedurende een tijdvak van meer dan zestig maanden na de aanbrenging ervan, tenzij de Commissie besluit dat uitzonderlijke omstandigheden aanwezig zijn die eerdere uitvoering van de beperkende maatregelen rechtvaardigen.
 
-#### Artikel 5. Beperkende maatregelen voor de in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&bijlage=1&z=2023-01-01&g=2023-01-01) genoemde afvalstoffen
+##### Artikel 5. Beperkende maatregelen voor de in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&bijlage=1&z=2023-01-01&g=2023-01-01) genoemde afvalstoffen
 
 Met inachtneming van de internationale regels, normen en vereisten treft een Partij alle passende maatregelen op haar grondgebied om te vereisen dat afvalstoffen afkomstig van de aanbrenging of verwijdering van een aangroeiwerend verfsysteem dat op grond van [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&bijlage=1&z=2023-01-01&g=2023-01-01) wordt gecontroleerd, worden ingezameld, vervoerd, behandeld en afgevoerd op een veilige en milieuvriendelijke wijze teneinde de gezondheid van de mens en het milieu te beschermen.
 
-#### Artikel 6. Procedure voor het voorstellen van wijzigingen van beperkende maatregelen voor aangroeiwerende verfsystemen
+##### Artikel 6. Procedure voor het voorstellen van wijzigingen van beperkende maatregelen voor aangroeiwerende verfsystemen
 
 1. Elke Partij kan overeenkomstig dit artikel een voorstel tot wijziging van [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&bijlage=1&z=2023-01-01&g=2023-01-01) indienen.
 
@@ -132,7 +154,7 @@ Met inachtneming van de internationale regels, normen en vereisten treft een Par
 
 6. Alleen Partijen kunnen deelnemen aan door de Commissie te nemen besluiten bedoeld in het derde en vijfde lid.
 
-#### Artikel 7. Technische werkgroepen
+##### Artikel 7. Technische werkgroepen
 
 1. De Commissie stelt een technische werkgroep ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&artikel=6&z=2023-01-01&g=2023-01-01) in wanneer een definitief voorstel wordt ontvangen. In omstandigheden waarin meerdere voorstellen tegelijkertijd of na elkaar worden ontvangen, kan de Commissie naar behoefte een of meerdere technische werkgroepen instellen.
 
@@ -142,7 +164,7 @@ Met inachtneming van de internationale regels, normen en vereisten treft een Par
 
 4. Alleen de vertegenwoordigers van Partijen mogen deelnemen in de formulering van aanbevelingen aan de Commissie ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&artikel=6&z=2023-01-01&g=2023-01-01). Een technische werkgroep streeft ernaar unanimiteit te bereiken onder de vertegenwoordigers van de Partijen. Indien unanimiteit niet mogelijk is, deelt de technische werkgroep eventuele minderheidsstandpunten van deze vertegenwoordigers mede.
 
-#### Artikel 8. Wetenschappelijk en technisch onderzoek en monitoring
+##### Artikel 8. Wetenschappelijk en technisch onderzoek en monitoring
 
 1. De Partijen nemen passende maatregelen om wetenschappelijk en technisch onderzoek naar de gevolgen van aangroeiwerende verfsystemen alsmede de monitoring van dergelijke gevolgen te bevorderen. Dergelijk onderzoek dient in het bijzonder betrekking te hebben op waarnemingen, metingen, monsternames, evaluatie en analyse van de gevolgen van aangroeiwerende verfsystemen.
 
@@ -154,7 +176,7 @@ Met inachtneming van de internationale regels, normen en vereisten treft een Par
 
 - c. de waargenomen gevolgen van monitoring- en beoordelingsprogramma’s op het gebied van aangroeiwerende verfsystemen.
 
-#### Artikel 9. Mededeling en uitwisseling van informatie
+##### Artikel 9. Mededeling en uitwisseling van informatie
 
 1. Elke Partij verplicht zich ertoe aan de Organisatie het volgende mede te delen:
 
@@ -166,11 +188,11 @@ Met inachtneming van de internationale regels, normen en vereisten treft een Par
 
 3. Ten aanzien van de door een Partij goedgekeurde, geregistreerde aangroeiwerende verfsystemen of verfsystemen waarvoor een vergunning is afgegeven verstrekt deze Partij aan Partijen die daarom verzoeken, relevante informatie waarop het besluit is gebaseerd, met inbegrip van informatie bedoeld in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&bijlage=3&z=2023-01-01&g=2023-01-01), of andere informatie die geschikt is voor het uitvoeren van een goede evaluatie van het aangroeiwerende verfsysteem of verlangt van de fabrikanten van dergelijke aangroeiwerende verfsystemen zulks te doen. Wettelijk beschermde informatie wordt niet verstrekt.
 
-#### Artikel 10. Onderzoek en certificering
+##### Artikel 10. Onderzoek en certificering
 
 Een Partij draagt er zorg voor dat schepen die bevoegd zijn haar vlag te voeren of onder haar gezag worden geëxploiteerd overeenkomstig de voorschriften van [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&bijlage=4&z=2023-01-01&g=2023-01-01) worden onderzocht en gecertificeerd.
 
-#### Artikel 11. Inspectie van schepen en ontdekking van overtredingen
+##### Artikel 11. Inspectie van schepen en ontdekking van overtredingen
 
 1. Een schip waarop dit Verdrag van toepassing is kan in elke haven, scheepswerf of offshore terminal van een Partij worden geïnspecteerd door functionarissen die door die Partij bevoegd zijn verklaard om vast te stellen of het schip aan dit Verdrag voldoet. Tenzij duidelijke redenen bestaan om aan te nemen dat een schip niet voldoet aan dit Verdrag, zijn deze inspecties beperkt tot:
 
@@ -184,7 +206,7 @@ Een Partij draagt er zorg voor dat schepen die bevoegd zijn haar vlag te voeren 
 
 4. De Partijen werken samen bij de ontdekking van overtredingen en bij de handhaving van dit Verdrag. Een Partij kan een schip tevens inspecteren wanneer het de havens, scheepswerven of offshore terminals onder haar rechtsmacht binnenkomt indien een verzoek om onderzoek van een van de andere Partijen wordt ontvangen, tezamen met afdoende bewijs dat de exploitatie van het schip in strijd is of in strijd is geweest met dit Verdrag. Het rapport van een dergelijk onderzoek wordt gezonden aan de Partij die erom heeft verzocht en aan de bevoegde autoriteit van de Administratie van het betrokken schip, zodat passende maatregelen ingevolge dit Verdrag kunnen worden genomen.
 
-#### Artikel 12. Overtredingen
+##### Artikel 12. Overtredingen
 
 1. Elke overtreding van dit Verdrag is verboden en strafbaar gesteld krachtens de wetgeving van de Administratie van het betrokken schip, ongeacht waar de overtreding plaatsvindt. Indien de Administratie van een dergelijke overtreding op de hoogte is gesteld, onderzoekt zij de zaak en kan de zij de rapporterende Partij verzoeken aanvullend bewijs van de gerapporteerde overtreding te verstrekken. Indien de Administratie ervan overtuigd is dat voldoende bewijsmateriaal voorhanden is om een rechtsvervolging in te stellen met betrekking tot de gerapporteerde overtreding, neemt zij daartoe ten spoedigste stappen overeenkomstig haar wetgeving. De Administratie brengt de Partij die de overtreding heeft gerapporteerd, alsmede de Organisatie, onverwijld op de hoogte van de genomen maatregelen. Indien de Administratie binnen een jaar na ontvangst van de informatie geen maatregelen heeft genomen, brengt zij de Partij die de overtreding heeft gerapporteerd, hiervan op de hoogte.
 
@@ -196,21 +218,21 @@ Een Partij draagt er zorg voor dat schepen die bevoegd zijn haar vlag te voeren 
 
 3. De ingevolge dit artikel krachtens de wetgeving van een Partij vastgestelde straffen dienen streng genoeg te zijn om schending van dit Verdrag, ongeacht waar deze plaatsvindt, tegen te gaan.
 
-#### Artikel 13. Onnodige vertraging of ophouding van schepen
+##### Artikel 13. Onnodige vertraging of ophouding van schepen
 
 1. Al het mogelijke wordt gedaan om te vermijden dat een schip door de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&artikel=11&z=2023-01-01&g=2023-01-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&artikel=12&z=2023-01-01&g=2023-01-01) onnodig wordt opgehouden of vertraagd.
 
 2. Indien, door de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&artikel=11&z=2023-01-01&g=2023-01-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&artikel=12&z=2023-01-01&g=2023-01-01), een schip onnodig wordt opgehouden of vertraagd, is het gerechtigd aanspraak te maken op vergoeding van enig geleden verlies of schade.
 
-#### Artikel 14. Beslechting van geschillen
+##### Artikel 14. Beslechting van geschillen
 
 De Partijen zijn verplicht hun geschillen betreffende de interpretatie of toepassing van dit Verdrag te beslechten via onderhandelingen, feitenonderzoek, bemiddeling, conciliatie, arbitrage, een rechterlijke beslissing, een beroep op regionale organen of akkoorden of andere vreedzame middelen naar hun eigen keuze.
 
-#### Artikel 15. Verhouding tot het internationale recht van de zee
+##### Artikel 15. Verhouding tot het internationale recht van de zee
 
 Niets in dit Verdrag doet afbreuk aan de rechten en verplichtingen van een Staat uit hoofde van het internationaal gewoonterecht zoals neergelegd in het [Verdrag van de Verenigde Naties inzake het recht van de zee](https://wetten.overheid.nl/jci1.3:c:BWBV0003172).
 
-#### Artikel 16. Wijzigingen
+##### Artikel 16. Wijzigingen
 
 1. Dit Verdrag kan worden gewijzigd door een van de in de volgende leden genoemde procedures.
 
@@ -270,7 +292,7 @@ Niets in dit Verdrag doet afbreuk aan de rechten en verplichtingen van een Staat
 
 - b. elke kennisgeving of verklaring gedaan ingevolge dit artikel.
 
-#### Artikel 17. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 17. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Verdrag staat van 1 februari 2002 tot en met 31 december 2002 op de zetel van de Organisatie open voor ondertekening door elke Staat en blijft daarna open voor toetreding door elke Staat.
 
@@ -288,7 +310,7 @@ Niets in dit Verdrag doet afbreuk aan de rechten en verplichtingen van een Staat
 
 5. Van deze verklaringen wordt kennisgegeven aan de Secretaris-Generaal en deze verklaringen vermelden uitdrukkelijk de territoriale eenheden waarop dit Verdrag van toepassing is.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking twaalf maanden na de datum waarop ten minste vijfentwintig Staten waarvan de koopvaardijvloten tezamen ten minste vijfentwintig procent vormen van het bruto tonnage van de wereldkoopvaardijvloot, het zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring hebben ondertekend of de vereiste akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd in overeenstemming met [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&artikel=17&z=2023-01-01&g=2023-01-01).
 
@@ -298,13 +320,13 @@ Niets in dit Verdrag doet afbreuk aan de rechten en verplichtingen van een Staat
 
 4. Na de datum waarop een wijziging van dit Verdrag wordt geacht te zijn aanvaard ingevolge [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&artikel=16&z=2023-01-01&g=2023-01-01), is elke nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding van toepassing op het Verdrag zoals gewijzigd.
 
-#### Artikel 19. Opzegging
+##### Artikel 19. Opzegging
 
 1. Dit Verdrag kan te allen tijde door een Partij worden opgezegd na het verstrijken van twee jaar na de datum waarop dit Verdrag voor die Partij in werking treedt.
 
 2. Opzegging vindt plaats door de nederlegging van een schriftelijke kennisgeving bij de Secretaris-Generaal en wordt van kracht een jaar na de ontvangst ervan of na een in die kennisgeving aangegeven langer tijdvak.
 
-#### Artikel 20. Depositaris
+##### Artikel 20. Depositaris
 
 1. Dit Verdrag wordt nedergelegd bij de Secretaris-Generaal, die voor eensluidend gewaarmerkte afschriften daarvan toezendt aan alle Staten die dit Verdrag hebben ondertekend of daartoe zijn toegetreden.
 
@@ -320,11 +342,11 @@ Niets in dit Verdrag doet afbreuk aan de rechten en verplichtingen van een Staat
 
 - b. het toezenden van dit Verdrag, zodra het in werking treedt, aan het Secretariaat van de Verenigde Naties ter registratie en publicatie overeenkomstig artikel 102 van het Handvest van de Verenigde Naties.
 
-#### Artikel 21. Talen
+##### Artikel 21. Talen
 
 Dit Verdrag is opgesteld in een enkel exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 
-#### Voorschrift 1. Onderzoeken
+##### Voorschrift 1. Onderzoeken
 
 1. Schepen met een brutotonnage van 400 ton en meer, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&artikel=3&z=2023-01-01&g=2023-01-01), op een internationale reis, met uitzondering van vaste of drijvende platforms, drijvende inrichtingen voor opslag en drijvende inrichtingen voor productie, opslag en lossen dienen de hieronder aangegeven onderzoeken te ondergaan:
 
@@ -348,7 +370,7 @@ Dit Verdrag is opgesteld in een enkel exemplaar in de Arabische, de Chinese, de 
 
 - d. In de in onderdeel c beschreven situatie worden, indien het schip zich in de haven van een andere Partij bevindt, de desbetreffende autoriteiten van de havenstaat onverwijld in kennis gesteld. Wanneer de Administratie, een benoemde deskundige of een erkende organisatie de desbetreffende autoriteiten van de havenstaat in kennis hebben gesteld, verleent de Regering van de betrokken havenstaat deze Administratie, deskundige of organisatie alle nodige bijstand om aan hun verplichtingen ingevolge dit voorschrift te voldoen, met inbegrip van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&artikel=11&z=2023-01-01&g=2023-01-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&artikel=12&z=2023-01-01&g=2023-01-01) omschreven maatregelen.
 
-#### Voorschrift 2. Afgifte van of aantekening op een Internationaal Certificaat betreffende het Aangroeiwerend Verfsysteem
+##### Voorschrift 2. Afgifte van of aantekening op een Internationaal Certificaat betreffende het Aangroeiwerend Verfsysteem
 
 1. De Administratie verlangt dat voor een schip waarop [Voorschrift 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&bijlage=4&artikel=1&z=2023-01-01&g=2023-01-01) van toepassing is na de succesvolle afronding van een onderzoek overeenkomstig [Voorschrift 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&bijlage=4&artikel=1&z=2023-01-01&g=2023-01-01), een Certificaat wordt afgegeven. Een onder het gezag van een Partij afgegeven Certificaat wordt door de andere Partijen aanvaard en voor alle doeleinden waarop dit Verdrag van toepassing is, beschouwd als hebbende dezelfde geldigheid als een door henzelf afgegeven Certificaat.
 
@@ -358,7 +380,7 @@ Dit Verdrag is opgesteld in een enkel exemplaar in de Arabische, de Chinese, de 
 
 4. Het Certificaat wordt opgesteld in de vorm die overeenkomt met het model vermeld in Aanhangsel 1 bij deze Bijlage en wordt ten minste opgesteld in de Engelse, de Franse of de Spaanse taal. Indien tevens een officiële taal van de afgevende Staat wordt gebruikt, is deze doorslaggevend in geval van geschillen of verschillen.
 
-#### Voorschrift 3. Afgifte van of aantekening op een Internationaal Certificaat betreffende het Aangroeiwerend Verfsysteem door een andere Partij
+##### Voorschrift 3. Afgifte van of aantekening op een Internationaal Certificaat betreffende het Aangroeiwerend Verfsysteem door een andere Partij
 
 1. Op verzoek van de Administratie kan een andere Partij een schip aan een onderzoek doen onderwerpen en, indien deze ervan overtuigd is dat aan de bepalingen van dit Verdrag wordt voldaan, een Certificaat voor het schip afgeven of hiertoe een machtiging geven en, indien van toepassing, het Certificaat voor het schip aantekenen of hiertoe een machtiging geven, overeenkomstig dit Verdrag.
 
@@ -368,7 +390,7 @@ Dit Verdrag is opgesteld in een enkel exemplaar in de Arabische, de Chinese, de 
 
 4. Er wordt geen Certificaat afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen Partij is.
 
-#### Voorschrift 4. Geldigheid van een Internationaal Certificaat betreffende het Aangroeiwerend Verfsysteem
+##### Voorschrift 4. Geldigheid van een Internationaal Certificaat betreffende het Aangroeiwerend Verfsysteem
 
 1. Een ingevolge [Voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&bijlage=4&artikel=2&z=2023-01-01&g=2023-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&bijlage=4&artikel=3&z=2023-01-01&g=2023-01-01) afgegeven Certificaat verliest zijn geldigheid in elk van de volgende gevallen:
 
@@ -378,7 +400,7 @@ Dit Verdrag is opgesteld in een enkel exemplaar in de Arabische, de Chinese, de 
 
 2. De afgifte door een Partij van een nieuw Certificaat aan een schip dat van een andere Partij is overgegaan kan worden gebaseerd op een nieuw onderzoek of op een geldig Certificaat afgegeven door de vorige Partij wier vlag het schip gerechtigd was te voeren.
 
-#### Voorschrift 5. Verklaring inzake het Aangroeiwerend Verfsysteem
+##### Voorschrift 5. Verklaring inzake het Aangroeiwerend Verfsysteem
 
 1. De Administratie verlangt dat op een schip van een lengte van 24 meter of meer, doch met een brutotonnage van minder dan 400 ton, dat internationale reizen maakt, waarop [artikel 3, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0003091&artikel=3&z=2023-01-01&g=2023-01-01), van toepassing is (met uitzondering van vaste of drijvende platforms, drijvende inrichtingen voor opslag en drijvende inrichtingen voor productie, opslag en lossen) een door de eigenaar of diens bevoegde agent ondertekende verklaring aanwezig is. Een dergelijke Verklaring gaat vergezeld van relevante documentatie (zoals een verfnota of een factuur van een aannemer) of is naar behoren voorzien van een aantekening.
 

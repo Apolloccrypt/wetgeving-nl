@@ -1,13 +1,37 @@
 ---
 title: "Uitvoeringsvoorschriften artikel 11 Belastingregeling voor het Koninkrijk 2002 (Aruba)"
 identifier: "BWBR0013245"
-categorie: "Belastingrecht"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013245"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013245"
+soort: "ministeriele-regeling"
+stam_id: "5158483"
+version_id: "9292102"
+internal_id: "C12383891"
+label_id: "5134084"
+dtd_version: "2.0"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013245/2002-01-01/0"
+intitule_bron: "Stcrt.2001-249"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-12-20"
+intitule_published: "2001-12-27"
+intitule_in_force: "2001-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-249"
+original_signed_date: "2001-12-20"
+original_published_date: "2001-12-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-01-01"
+jci_1_3: "jci1.3:c:BWBR0013245&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0013245&g=2002-01-01"
+citeertitel_status: "officieel"
+signed_date: "2001-12-20"
+entry_into_force: "2002-01-01"
 ---
-
 # Uitvoeringsvoorschriften artikel 11 Belastingregeling voor het Koninkrijk 2002 (Aruba)
 
 In overeenstemming met de Minister van Financiën van Aruba;
@@ -18,13 +42,13 @@ Besluit:
 
 Vast te stellen de navolgende regeling met bijlagen I en II. ¹De bij deze regeling horende bijlagen I en II zullen begin 2002 worden vastgesteld.
 
-#### Artikel 1. Algemeen
+##### Artikel 1. Algemeen
 
 1. Deze regeling neemt over de begrippen van de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464).
 
 2. Deze regeling zal zo nodig worden aangepast bij invoering van een dividendbelasting door Aruba.
 
-#### Artikel 2. Nederlandse dividendbelasting met betrekking tot portfoliodividenden (vrijstellingsprocedure)
+##### Artikel 2. Nederlandse dividendbelasting met betrekking tot portfoliodividenden (vrijstellingsprocedure)
 
 1. Een inwoner van Aruba die, ingevolge artikel 11, tweede lid, van de Belastingregeling voor het Koninkrijk, aanspraak heeft op vermindering van dividendbelasting, levert voor het geldend maken van die aanspraak bij de bevoegde aanslagregelende autoriteit over zijn woonplaats een ingevulde en ondertekende verklaring in tweevoud in op een formulier volgens het in bijlage I opgenomen model (formulier `IB 92 ARU'). Nadat hij een exemplaar van de verklaring, voorzien van dagtekening en ondertekening van de daarop voorkomende bevestiging omtrent de woonplaats, van vorenbedoelde aanslagregelende autoriteit heeft terugontvangen, legt hij dit over bij het innen van de opbrengst van de dividenden.
 
@@ -32,7 +56,7 @@ Vast te stellen de navolgende regeling met bijlagen I en II. ¹De bij deze regel
 
 3. Voorzover dividendbelasting die is ingehouden en afgedragen, ingevolge het tweede lid bij de uitbetaling van de opbrengst niet in aftrek is gebracht, wordt deze aan de vennootschap teruggegeven na indiening van een verzoek bij de inspecteur binnen wiens ambtsgebied zij is gevestigd, onder overlegging van het van een ondertekende bevestiging omtrent de woonplaats voorziene exemplaar van de in het eerste lid bedoelde verklaring. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
-#### Artikel 3. Nederlandse dividendbelasting met betrekking tot portfoliodividenden (teruggaafprocedure)
+##### Artikel 3. Nederlandse dividendbelasting met betrekking tot portfoliodividenden (teruggaafprocedure)
 
 1. Een inwoner van Aruba die, ingevolge artikel 11, tweede lid, van de Belastingregeling voor het Koninkrijk, aanspraak heeft op vermindering van dividendbelasting en die, naar het oordeel van de inspecteur van de Belastingdienst/Particulieren/Ondernemingen buitenland, zijn aanspraak niet op de voet van artikel 2 heeft kunnen geldend maken, heeft recht op teruggaaf van hetgeen aan dividendbelasting meer is ingehouden dan 15 percent. Toetsing zal terzake plaatsvinden aan de hand van de voorwaarden die zijn opgenomen in de Belastingregeling voor het Koninkrijk.
 
@@ -50,7 +74,7 @@ Nadat hij een exemplaar van de verklaring, voorzien van dagtekening en onderteke
 
 De inspecteur van de Belastingdienst/Particulieren/Ondernemingen buitenland beslist op het verzoek bij voor bezwaar vatbare beschikking. Het terug te geven bedrag wordt door de ontvanger van de Belastingdienst/Particulieren/Ondernemingen buitenland aan de belanghebbende overgemaakt.
 
-#### Artikel 4. Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden (vrijstellingsprocedure)
+##### Artikel 4. Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden (vrijstellingsprocedure)
 
 1. Een lichaam dat inwoner van Aruba is, en dat ingevolge artikel 11, derde lid, eerste en tweede volzin, van de Belastingregeling voor het Koninkrijk, aanspraak heeft op vermindering van dividendbelasting, levert voor het geldend maken van die aanspraak bij de bevoegde aanslagregelende autoriteit over zijn plaats van vestiging een ingevulde en ondertekende verklaring in tweevoud in op een formulier volgens het in bijlage II opgenomen model (formulier `IB 95(2) ARU'). Nadat het lichaam een exemplaar van de verklaring, voorzien van dagtekening en ondertekening van de daarop voorkomende bevestiging omtrent de woonplaats, van vorenbedoelde aanslagregelende autoriteit heeft terugontvangen, legt het dit over bij het innen van de dividenden.
 
@@ -76,7 +100,7 @@ De inspecteur van de Belastingdienst/Particulieren/Ondernemingen buitenland besl
 
 6. Het terug te geven bedrag wordt door de ontvanger ten behoeve van de belanghebbende aan de vennootschap overgemaakt.
 
-#### Artikel 5. Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden (teruggaafprocedure)
+##### Artikel 5. Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden (teruggaafprocedure)
 
 1. Indien meer dan 7,5 percent dividendbelasting is ingehouden van dividenden betaald door een vennootschap aan een lichaam dat inwoner van Aruba is, terwijl ingevolge artikel 11, derde lid, eerste volzin, van de Belastingregeling voor het Koninkrijk, de daarop in te houden dividendbelasting 7,5 percent bedraagt, heeft dat lichaam, indien het ter zake van die dividenden is onderworpen aan een belasting met dien verstande dat de feitelijke gecombineerde belastingdruk van woonstaat en bronstaat tezamen op het dividend ten minste 8,3 percent bedraagt, recht op teruggaaf van hetgeen aan dividendbelasting meer is ingehouden dan 7,5 percent.
 
@@ -100,7 +124,7 @@ De inspecteur van de Belastingdienst/Particulieren/Ondernemingen buitenland besl
 
 5. Het terug te geven bedrag wordt door de ontvanger aan de belanghebbende overgemaakt.
 
-#### Artikel 5A. Onderzoek naar het vervuld zijn van de voorwaarde inzake de feitelijke gecombineerde belastingdruk
+##### Artikel 5A. Onderzoek naar het vervuld zijn van de voorwaarde inzake de feitelijke gecombineerde belastingdruk
 
 1. Het onderzoek naar het vervuld zijn van de op basis van [artikel 11, derde lid, eerste en tweede volzin van de Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464&artikel=11) nader gestelde voorwaarde inzake de feitelijk gecombineerde belastingdruk zoals omschreven in het Protocol belastingheffing deelnemingsdividenden Nederland-Aruba, wordt ten behoeve van de ten aanzien van het inhoudingsplichtige lichaam bevoegde aanslagregelende autoriteit in Nederland verricht door Belastingdienst/Particulieren/Ondernemingen buitenland .
 
@@ -118,11 +142,11 @@ Eveneens worden, in geval van een ambtshalve vermindering van de aanslag, afschr
 
 7. Indien de benodigde gegevens, met inachtneming van het bepaalde in de voorgaande leden van dit artikel niet tijdig werden ingezonden dan wel uit het onderzoek als bedoeld in het zesde lid niet is gebleken dat werd voldaan aan de in dat lid genoemde voorwaarde, stelt Belastingdienst/Particulieren/Ondernemingen buitenland de bevoegde aanslagregelende autoriteit in Nederland daarvan tijdig op de hoogte. Deze legt een naheffingsaanslag op met inachtneming van het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013245&artikel=6&z=2002-01-01&g=2002-01-01).
 
-#### Artikel 5B. Samenloop met vermindering van dividendbelasting wegens dooruitdeling
+##### Artikel 5B. Samenloop met vermindering van dividendbelasting wegens dooruitdeling
 
 Voor de toepassing van deze regeling worden voor de beoordeling van de feitelijke gecombineerde belastingdruk verminderingen ingevolge [artikel 11, tweede lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=11) niet in aanmerking genomen.
 
-#### Artikel 6. Naheffing Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden
+##### Artikel 6. Naheffing Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden
 
 1. Indien ten aanzien van deelnemingsdividenden niet binnen de in [artikel 5A](https://wetten.overheid.nl/jci1.3:c:BWBR0013245&artikel=5A&z=2002-01-01&g=2002-01-01) uiterste gestelde termijn overeenkomstig de in dat artikel gestelde wijze werd aangetoond dat in Aruba het dividend is onderworpen aan een belasting met dien verstande dat de feitelijke gecombineerde belastingdruk van woonstaat en bronstaat tezamen op dit dividend ten minste 8,3 percent bedraagt, wordt in Nederland van de Nederlandse vennootschap die het dividend heeft betaald dividendbelasting over het gehele brutobedrag van dat dividend nageheven.
 
@@ -138,23 +162,23 @@ Voor de toepassing van deze regeling worden voor de beoordeling van de feitelijk
 
 Het bepaalde in het tweede, derde en vierde lid is zoveel mogelijk van overeenkomstige toepassing.
 
-#### Artikel 7. Formele bepaling
+##### Artikel 7. Formele bepaling
 
 De in deze regeling bedoelde verklaringen, verzoeken, gegevens en mededelingen moeten duidelijk, stellig en zonder voorbehoud worden gedaan of verstrekt.
 
-#### Artikel 8. Verjaringstermijn
+##### Artikel 8. Verjaringstermijn
 
 Verzoeken om teruggaaf van belasting, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013245&artikel=3&z=2002-01-01&g=2002-01-01), moeten bij de bevoegde inspecteur van de eenheid van de Belastingdienst zijn ingediend binnen een tijdvak van vijf jaren na het einde van het kalenderjaar waarin de belasting is geheven. Verzoeken om teruggaaf van belasting, als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013245&artikel=5&z=2002-01-01&g=2002-01-01), moeten bij de bevoegde inspecteur van de eenheid van de Belastingdienst zijn ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin het dividend betaalbaar werd gesteld.
 
-#### Artikel 9. Formulieren
+##### Artikel 9. Formulieren
 
 De in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013245&artikel=2&z=2002-01-01&g=2002-01-01), [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013245&artikel=3&z=2002-01-01&g=2002-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013245&artikel=4&z=2002-01-01&g=2002-01-01), en [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013245&artikel=5&z=2002-01-01&g=2002-01-01), bedoelde formulieren worden van rijkswege verstrekt. De formulieren zijn op aanvraag kosteloos verkrijgbaar bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn.
 
-#### Artikel 10. Intrekking
+##### Artikel 10. Intrekking
 
 De regeling van de Staatssecretaris van Financiën van 19 december 1996, nr. IFZ96/1632.2 (Nederlandse Staatscourant van 23 december 1996, nr. 248) wordt ingetrokken, met dien verstande dat de bepalingen van die regeling van toepassing blijven met betrekking tot dividenden die zijn betaald of betaalbaar zijn gesteld vóór 1 januari 2002.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: [Uitvoeringsvoorschriften artikel 11 Belastingregeling voor het Koninkrijk 2002 (Aruba)](https://wetten.overheid.nl/jci1.3:c:BWBR0013245).
 

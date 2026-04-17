@@ -1,13 +1,38 @@
 ---
 title: "Verdrag betreffende veiligheid bij het gebruik van asbest"
 identifier: "BWBV0003000"
-categorie: "Internationaal recht"
-publicatiedatum: 2000-09-15
-laatste_update: 2000-09-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003000"
+country: "nl"
+rank: "verdrag"
+publication_date: "2000-09-15"
+last_updated: "2000-09-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003000"
+soort: "verdrag"
+stam_id: "10003288823"
+version_id: "10003312922"
+internal_id: "C10006979871"
+label_id: "10003274804"
+dtd_version: "2.0"
+original_entry_into_force: "2000-09-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003000/2000-09-15/0"
+intitule_bron: "Trb.1987-87"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-09-15"
+intitule_published: "1987-05-26"
+intitule_in_force: "2007-05-10"
+intitule_status: "goed"
+original_publication: "Trb.1987-87"
+original_signed_date: "1999-09-15"
+original_published_date: "1987-05-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1987-87"
+entry_into_force_date: "2000-09-15"
+jci_1_3: "jci1.3:c:BWBV0003000&z=2000-09-15&g=2000-09-15"
+jci_1_0: "1.0:c:BWBV0003000&g=2000-09-15"
+citeertitel_status: "officieel"
+signed_date: "1999-09-15"
+entry_into_force: "2000-09-15"
 ---
-
 # Verdrag betreffende veiligheid bij het gebruik van asbest
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -24,7 +49,7 @@ Aanvaardt heden, de vierentwintigste juni van het jaar negentienhonderd zesentac
 
 ## DEEL I. TOEPASSINGSGEBIED EN BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit Verdrag is van toepassing op alle bezigheden die blootstelling van werknemers aan asbest tijdens de arbeid met zich meebrengen.
 
@@ -32,7 +57,7 @@ Aanvaardt heden, de vierentwintigste juni van het jaar negentienhonderd zesentac
 
 3. De bevoegde autoriteit dient bij de beslissing over het uitsluiten van bepaalde takken van economische bedrijvigheid of bepaalde ondernemingen rekening te houden met de frequentie, duur en mate van blootstelling, alsmede van de aard van de arbeid en de omstandigheden op de werkplek.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van dit Verdrag:
 
@@ -52,7 +77,7 @@ Voor de toepassing van dit Verdrag:
 
 ## DEEL II. ALGEMENE BEGINSELEN
 
-#### Artikel 3
+##### Artikel 3
 
 1. De nationale wetgeving dient de maatregelen voor te schrijven die getroffen moeten worden ter voorkoming en beheersing van, en bescherming van werknemers tegen, gezondheidsgevaren als gevolg van beroepsmatige blootstelling aan asbest.
 
@@ -62,17 +87,17 @@ Voor de toepassing van dit Verdrag:
 
 4. Bij het toestaan van afwijkingen ingevolge het derde lid van dit artikel dient de bevoegde autoriteit te waarborgen, dat er de nodige voorzorgsmaatregelen tot bescherming van de gezondheid van de werknemers worden genomen.
 
-#### Artikel 4
+##### Artikel 4
 
 De bevoegde autoriteit dient de betrokken meest representatieve organisaties van werkgevers en van werknemers te raadplegen over de ter uitvoering van de bepalingen van dit Verdrag te nemen maatregelen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De toepassing van de wetgeving, aangenomen ingevolge artikel 3 van dit Verdrag, dient te worden verzekerd door een toereikend en passend controlestelsel.
 
 2. De nationale wetgeving dient te voorzien in de noodzakelijke maatregelen, met inbegrip van passende sancties teneinde een effectieve toepassing en naleving van de bepalingen van dit Verdrag te verzekeren.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Werkgevers dienen verantwoordelijk te worden gesteld voor de naleving van de voorgeschreven maatregelen.
 
@@ -80,17 +105,17 @@ De bevoegde autoriteit dient de betrokken meest representatieve organisaties van
 
 3. Werkgevers dienen, in samenwerking met de bedrijfsveiligheids- en gezondheidsdiensten, en na raadpleging van de betrokken werknemersvertegenwoordigers, de in noodsituaties te volgen handelwijzen voor te bereiden.
 
-#### Artikel 7
+##### Artikel 7
 
 Werknemers dienen, binnen de grenzen van hun verantwoordelijkheid, te voldoen aan de voorgeschreven veiligheids- en arbeidshygiënische instructies betreffende de voorkoming en het onder controle houden van, en de bescherming tegen, gezondheidsgevaren als gevolg van beroepsmatige blootstelling aan asbest.
 
-#### Artikel 8
+##### Artikel 8
 
 Werkgevers en werknemers of hun vertegenwoordigers dienen op alle niveaux in de onderneming zo nauw mogelijk samen te werken bij de toepassing van de maatregelen die ingevolge dit Verdrag zijn voorgeschreven.
 
 ## DEEL III. BESCHERMENDE EN PREVENTIEVE MAATREGELEN
 
-#### Artikel 9
+##### Artikel 9
 
 De nationale wetgeving, aangenomen ingevolge artikel 3 van dit Verdrag, dient er in te voorzien dat blootstelling aan asbest wordt voorkomen of onder controle gehouden door een of meer van de volgende maatregelen:
 
@@ -98,7 +123,7 @@ De nationale wetgeving, aangenomen ingevolge artikel 3 van dit Verdrag, dient er
 
 - b. het voorschrijven van speciale regels en procedures, met inbegrip van: een autorisatie-regime, voor het gebruik van asbest of van bepaalde asbestsoorten of produkten die asbest bevatten, of voor bepaalde werkprocessen.
 
-#### Artikel 10
+##### Artikel 10
 
 Waar het voor de bescherming van de gezondheid van werknemers noodzakelijk en technisch praktisch uitvoerbaar is, dient de nationale wetgeving te voorzien in een of meer van de volgende maatregelen:
 
@@ -106,27 +131,27 @@ Waar het voor de bescherming van de gezondheid van werknemers noodzakelijk en te
 
 - b. het algeheel of gedeeltelijk verbod van het gebruik van asbest of van bepaalde asbestsoorten of produkten die asbest bevatten, in bepaalde werkprocessen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het gebruik van crocidoliet en produkten die deze vezel bevatten, dient te worden verboden.
 
 2. De bevoegde autoriteit dient, na raadpleging van de betrokken meest representatieve organisaties van werkgevers en van werknemers, de bevoegdheid te hebben om afwijkingen van het in het eerste lid van dit artikel vervatte verbod toe te staan, wanneer vervanging redelijkerwijs niet uitvoerbaar is, mits stappen worden genomen om te waarborgen dat de gezondheid van werknemers niet in gevaar wordt gebracht.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het spuiten van alle vormen van asbest dient te worden verboden.
 
 2. De bevoegde autoriteit dient, na raadpleging van de betrokken meest representatieve organisaties van werkgevers en van werknemers, de bevoegdheid te hebben om afwijkingen van het in het eerste lid van dit artikel vervatte verbod toe te staan wanneer alternatieve methoden redelijkerwijs niet uitvoerbaar zijn, mits stappen worden genomen om te waarborgen dat de gezondheid van werknemers niet in gevaar wordt gebracht.
 
-#### Artikel 13
+##### Artikel 13
 
 De nationale wetgeving, dient er in te voorzien dat werkgevers bepaalde soorten arbeid die blootstelling aan asbest met zich meebrengen moeten melden aan de bevoegde autoriteit, op een wijze en in een omvang zoals door die bevoegde autoriteit voorgeschreven.
 
-#### Artikel 14
+##### Artikel 14
 
 Producenten en leveranciers van asbest en fabrikanten en leveranciers van produkten die asbest bevatten, dienen verantwoordelijk te worden gesteld voor een doelmatige etikettering van de verpakking en, waar van toepassing, van het produkt in een taal en op een manier die gemakkelijk door de betrokken werknemers en gebruikers wordt begrepen, zoals voorgeschreven door de bevoegde autoriteit.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De bevoegde autoriteit dient grenswaarden voor de blootstelling van werknemers aan asbest of andere blootstellingscriteria voor de evaluatie van het werkmilieu voor te schrijven.
 
@@ -136,11 +161,11 @@ Producenten en leveranciers van asbest en fabrikanten en leveranciers van produk
 
 4. Wanneer de ingevolge het derde lid van dit artikel genomen maatregelen de blootstelling aan asbest niet binnen de blootstellingsgrenswaarden brengen of niet aan de andere ingevolge het eerste lid van dit artikel genoemde blootstellingscriteria voldoen, dient de werkgever, zonder kosten voor de werknemers, geschikte beschermende apparatuur voor de ademhaling en speciale beschermende kleding, waar passend, ter beschikking te stellen, te onderhouden en, indien nodig, te vervangen. Beschermende apparatuur voor de ademhaling dient te voldoen aan normen die door de bevoegde autoriteit zijn vastgesteld en alleen te worden gebruikt als een aanvullende, tijdelijke, nood- of buitengewone maatregel en niet als een alternatief voor beheersing via technische maatregelen.
 
-#### Artikel 16
+##### Artikel 16
 
 Elke werkgever dient verantwoordelijk te worden gesteld voor het opstellen en toepassen van praktische maatregelen ter voorkoming en het onder controle houden van de blootstelling aan asbest van de werknemers die hij in dienst heeft en voor hun bescherming tegen de gevaren van asbest.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het afbreken van installaties of bouwwerken die isolatiematerialen met bros asbest bevatten, en het verwijderen van asbest uit gebouwen of bouwwerken waarbij het risico bestaat dat asbest met de lucht wordt meegevoerd, dienen alleen te worden ondernomen door werkgevers of aannemers die door de bevoegde autoriteit zijn erkend als gekwalificeerd voor het uitvoeren van dergelijk werk in overeenstemming met de bepalingen van dit Verdrag en die tot het uitvoeren van dergelijk werk zijn gemachtigd.
 
@@ -154,7 +179,7 @@ Elke werkgever dient verantwoordelijk te worden gesteld voor het opstellen en to
 
 3. De werknemers of hun vertegenwoordigers dienen te worden geraadpleegd over het werkplan waarnaar in het tweede lid van dit artikel wordt verwezen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Wanneer de persoonlijke kleding van de werknemers met asbeststof kan worden verontreinigd, dient de werkgever overeenkomstig de nationale wetgeving en na raadpleging van de werknemersvertegenwoordigers passende werkkleding ter beschikking te stellen, die niet buiten de werkplek dient te worden gedragen.
 
@@ -166,7 +191,7 @@ Elke werkgever dient verantwoordelijk te worden gesteld voor het opstellen en to
 
 5. De werkgever dient aan de werknemers die aan asbest zijn blootgesteld de mogelijkheid te verschaffen om zich op de werkplek te wassen, een bad te nemen of te douchen, al naar gelang passend is.
 
-#### Artikel 19
+##### Artikel 19
 
 1. In overeenstemming met de nationale wetgeving en praktijk dienen werkgevers afval dat asbest bevat, op zodanige wijze af te voeren dat dit noch voor de betrokken werknemers, met inbegrip van diegenen die asbestafval hanteren, noch voor de bevolking in de buurt van de onderneming gevaar voor de gezondheid oplevert.
 
@@ -174,7 +199,7 @@ Elke werkgever dient verantwoordelijk te worden gesteld voor het opstellen en to
 
 ## DEEL IV. TOEZICHT OP HET WERKMILIEU EN DE GEZONDHEID VAN DE WERKNEMERS
 
-#### Artikel 20
+##### Artikel 20
 
 1. Waar dit voor de bescherming van de gezondheid van werknemers noodzakelijk is, dient de werkgever de concentraties van asbeststof dat in de lucht is geraakt op de werkplek te meten en de blootstelling van werknemers aan asbest bij tussenpozen te controleren, onder toepassing van methodes die door de bevoegde autoriteit zijn gespecificeerd.
 
@@ -184,7 +209,7 @@ Elke werkgever dient verantwoordelijk te worden gesteld voor het opstellen en to
 
 4. De werknemers of hun vertegenwoordigers dienen het recht te hebben om toezicht op het werkmilieu te verzoeken en om een beroep te doen op de bevoegde autoriteit wat betreft de resultaten van het toezicht.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Voor werknemers die aan asbest zijn of waren blootgesteld, dienen in overeenstemming met de nationale wetgeving en praktijk, die medische onderzoeken beschikbaar te zijn die nodig zijn voor het toezicht op hun gezondheid in verband met het beroepsgevaar en om beroepsziekten veroorzaakt door blootstelling aan asbest, te diagnostiseren.
 
@@ -198,7 +223,7 @@ Elke werkgever dient verantwoordelijk te worden gesteld voor het opstellen en to
 
 ## DEEL V. INFORMATIE EN VOORLICHTING
 
-#### Artikel 22
+##### Artikel 22
 
 1. De bevoegde autoriteit dient in overleg en samenwerking met de betrokken meest representatieve organisaties van werkgevers en van werknemers, passende voorzieningen te treffen ter bevordering van de verspreiding van informatie aan en de voorlichting van alle betrokkenen inzake de gevaren voor de gezondheid die blootstelling aan asbest met zich meebrengt en inzake methodes voor preventie en toezicht.
 
@@ -208,11 +233,11 @@ Elke werkgever dient verantwoordelijk te worden gesteld voor het opstellen en to
 
 ## DEEL VI. SLOTBEPALINGEN
 
-#### Artikel 23
+##### Artikel 23
 
 De formele bekrachtigingen van dit Verdrag worden aan de Directeur-Generaal van het Internationale Arbeidsbureau medegedeeld en door hem geregistreerd.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Dit Verdrag is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie die hun bekrachtiging door de Directeur-Generaal hebben doen registreren.
 
@@ -220,27 +245,27 @@ De formele bekrachtigingen van dit Verdrag worden aan de Directeur-Generaal van 
 
 3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Ieder Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaar na de datum waarop het Verdrag in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationale Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
 
 2. Ieder Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaar als bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging, voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaar op de voorwaarden, voorzien in dit artikel.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De Directeur-Generaal van het Internationale Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
 
 2. Bij de kennisgeving aan de Leden van de Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Verdrag in werking treedt.
 
-#### Artikel 27
+##### Artikel 27
 
 De Directeur-Generaal van het Internationale Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met het bepaalde in [Artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die hij overeenkomstig de voorgaande artikelen heeft geregistreerd.
 
-#### Artikel 28
+##### Artikel 28
 
 De Raad van Beheer van het Internationale Arbeidsbureau brengt, telkens wanneer deze dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien de Conferentie een nieuw verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag, zal, tenzij het nieuw verdrag anders bepaalt:
 
@@ -250,7 +275,7 @@ De Raad van Beheer van het Internationale Arbeidsbureau brengt, telkens wanneer 
 
 2. Dit Verdrag blijft in elk geval naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe verdrag, houdende herziening, niet hebben bekrachtigd.
 
-#### Artikel 30
+##### Artikel 30
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
 

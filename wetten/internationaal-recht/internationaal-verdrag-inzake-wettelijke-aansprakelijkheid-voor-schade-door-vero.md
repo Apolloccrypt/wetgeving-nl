@@ -1,13 +1,35 @@
 ---
 title: "Internationaal verdrag inzake wettelijke aansprakelijkheid voor schade door verontreiniging door bunkerolie, 2001"
 identifier: "BWBV0003260"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-03-23
-laatste_update: 2001-03-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003260"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-03-23"
+last_updated: "2001-03-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003260"
+soort: "verdrag"
+stam_id: "10003443663"
+version_id: "10003489862"
+internal_id: "C10006996121"
+label_id: "10003429754"
+dtd_version: "2.0"
+original_entry_into_force: "2011-03-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003260/2011-03-23/0"
+intitule_bron: "Trb.2005-329"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2006-01-18"
+intitule_in_force: "2011-04-01"
+intitule_status: "goed"
+original_publication: "Trb.2005-329"
+original_published_date: "2006-01-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2005-329"
+entry_into_force_date: "2011-03-23"
+jci_1_3: "jci1.3:c:BWBV0003260&z=2011-03-23&g=2011-03-23"
+jci_1_0: "1.0:c:BWBV0003260&g=2011-03-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-03-23"
 ---
-
 # Internationaal verdrag inzake wettelijke aansprakelijkheid voor schade door verontreiniging door bunkerolie, 2001
 
 De staten die partij zijn bij dit verdrag,
@@ -28,7 +50,7 @@ De wens koesterend eenvormige internationale regels en procedures aan te nemen v
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit verdrag:
 
@@ -62,7 +84,7 @@ Voor de toepassing van dit verdrag:
 
 - 13. wordt onder „secretaris-generaal” verstaan: de secretaris-generaal van de organisatie.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 Dit verdrag is uitsluitend van toepassing op:
 
@@ -74,7 +96,7 @@ Dit verdrag is uitsluitend van toepassing op:
 
 - b. preventieve maatregelen, waar ook genomen, ter voorkoming of ter beperking van zodanige schade.
 
-#### Artikel 3. Aansprakelijkheid van de scheepseigenaar
+##### Artikel 3. Aansprakelijkheid van de scheepseigenaar
 
 1. De scheepseigenaar op het tijdstip van het voorval is, behoudens het bepaalde in het derde en het vierde lid, aansprakelijk voor schade door verontreiniging, veroorzaakt door bunkerolie aan boord of afkomstig van het schip, mits, zo het voorval bestaat uit een opeenvolging van feiten met dezelfde oorzaak, de scheepseigenaar op het tijdstip van het eerste feit aansprakelijk is.
 
@@ -94,7 +116,7 @@ Dit verdrag is uitsluitend van toepassing op:
 
 6. Geen bepaling van dit verdrag doet afbreuk aan enig recht van verhaal van de scheepseigenaar dat onafhankelijk van dit verdrag bestaat.
 
-#### Artikel 4. Uitsluitingen
+##### Artikel 4. Uitsluitingen
 
 1. Dit verdrag is niet van toepassing op schade door verontreiniging zoals omschreven in het Aansprakelijkheidsverdrag, ongeacht of ten aanzien van die schade wel of geen schadevergoeding verschuldigd is ingevolge dat verdrag.
 
@@ -104,15 +126,15 @@ Dit verdrag is uitsluitend van toepassing op:
 
 4. Met betrekking tot schepen die eigendom zijn van een staat die partij is en die gebruikt worden voor handelsdoeleinden, kan elke staat in rechte worden aangesproken voor de rechter die ingevolge artikel 9 bevoegd is, en doet hij afstand van enig verweer dat is gegrond op zijn hoedanigheid van soevereine staat.
 
-#### Artikel 5. Voorvallen waarbij twee of meer schepen zijn betrokken
+##### Artikel 5. Voorvallen waarbij twee of meer schepen zijn betrokken
 
 Wanneer zich een voorval voordoet waarbij twee of meer schepen zijn betrokken en er ten gevolge daarvan schade door verontreiniging is ontstaan, zijn de scheepseigenaren van alle betrokken schepen, tenzij zij ingevolge artikel 3 van aansprakelijkheid zijn ontheven, hoofdelijk aansprakelijk voor alle schade die redelijkerwijs niet te scheiden is.
 
-#### Artikel 6. Beperking van de aansprakelijkheid
+##### Artikel 6. Beperking van de aansprakelijkheid
 
 Niets in dit verdrag staat in de weg aan het recht van de scheepseigenaar en de persoon of personen die verzekeren of een andere financiële zekerheid stellen om de aansprakelijkheid te beperken uit hoofde van enige toepasselijke nationale of internationale regeling, zoals het Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen, 1976, als gewijzigd.
 
-#### Artikel 7. Verplichte verzekering of financiële zekerheid
+##### Artikel 7. Verplichte verzekering of financiële zekerheid
 
 1. De geregistreerde eigenaar van een schip met een brutotonnage van meer dan 1000 dat geregistreerd is in een staat die partij is, is gehouden een verzekering of andere financiële zekerheid, zoals een bankgarantie of een door een soortgelijke financiële instantie afgegeven garantie, in stand te houden tot dekking van de aansprakelijkheid van de geregistreerde eigenaar voor schade door verontreiniging, tot een bedrag gelijk aan het maximum van aansprakelijkheid krachtens de toepasselijke nationale of internationale beperkingsregeling, doch in geen geval hoger dan een bedrag berekend in overeenstemming met het Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen, 1976, als gewijzigd.
 
@@ -166,11 +188,11 @@ Niets in dit verdrag staat in de weg aan het recht van de scheepseigenaar en de 
 
 15. Een staat kan bij de bekrachtiging, aanvaarding of goedkeuring van, dan wel toetreding tot dit verdrag, of op enig later tijdstip, verklaren dat dit artikel niet van toepassing is op schepen die uitsluitend binnen het in artikel 2, onder a), onder i), bedoelde gebied worden geëxploiteerd.
 
-#### Artikel 8. Termijnen
+##### Artikel 8. Termijnen
 
 Het recht op schadevergoeding krachtens dit verdrag vervalt wanneer niet binnen drie jaar na de datum waarop de schade is ontstaan een rechtsvordering is ingesteld. In geen geval kan echter een rechtsvordering worden ingesteld nadat meer dan zes jaar zijn verstreken na de datum van het voorval dat de schade heeft veroorzaakt. Wanneer het voorval wordt gevormd door een opeenvolging van feiten, loopt de termijn van zes jaar vanaf de datum van het eerste feit.
 
-#### Artikel 9. Bevoegdheid
+##### Artikel 9. Bevoegdheid
 
 1. Indien een voorval schade door verontreiniging heeft veroorzaakt op het grondgebied, de territoriale zee daaronder begrepen, of in een gebied zoals bedoeld in artikel 2, onder a), onder ii) van één of meer staten die partij zijn, dan wel preventieve maatregelen zijn genomen ter voorkoming of beperking van schade door verontreiniging op dit grondgebied, de territoriale zee daaronder begrepen, of in een dergelijk gebied, dan kunnen vorderingen tot schadevergoeding tegen de scheepseigenaar, de verzekeraar of een andere persoon die financiële zekerheid stelt voor de aansprakelijkheid van de scheepseigenaar slechts worden ingesteld bij de rechter van die staat of staten die partij zijn.
 
@@ -178,7 +200,7 @@ Het recht op schadevergoeding krachtens dit verdrag vervalt wanneer niet binnen 
 
 3. Iedere staat die partij is draagt er zorg voor dat zijn rechters bevoegd zijn kennis te nemen van vorderingen tot schadevergoeding ingevolge dit verdrag.
 
-#### Artikel 10. Erkenning en tenuitvoerlegging
+##### Artikel 10. Erkenning en tenuitvoerlegging
 
 1. Beslissingen van een uit hoofde van artikel 9 bevoegde rechter die voor tenuitvoerlegging vatbaar zijn in de staat waarin zij zijn gegeven en waartegen geen gewoon rechtsmiddel meer openstaat, worden erkend in elke andere staat die partij is, tenzij:
 
@@ -188,11 +210,11 @@ Het recht op schadevergoeding krachtens dit verdrag vervalt wanneer niet binnen 
 
 2. Een beslissing die ingevolge het eerste lid is erkend, is vatbaar voor tenuitvoerlegging in iedere staat die partij is, zodra de in die staat vereiste formaliteiten zijn vervuld. Deze formaliteiten mogen niet leiden tot een hernieuwd onderzoek van de zaak.
 
-#### Artikel 11. Voorrangsclausule
+##### Artikel 11. Voorrangsclausule
 
 Dit verdrag gaat boven andere overeenkomsten die op de datum waarop dit verdrag wordt opengesteld voor ondertekening, van kracht zijn of openstaan voor ondertekening, bekrachtiging of toetreding, doch uitsluitend voor zover deze overeenkomsten daarmede in strijd zouden zijn; dit artikel laat evenwel de uit bedoelde overeenkomsten voortvloeiende verplichtingen van de staten die partij zijn tegenover staten die geen partij zijn onverlet.
 
-#### Artikel 12. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 12. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit verdrag staat van 1 oktober 2001 tot en met 30 september 2002 op de zetel van de organisatie open voor ondertekening en blijft daarna openstaan voor toetreding.
 
@@ -208,7 +230,7 @@ Dit verdrag gaat boven andere overeenkomsten die op de datum waarop dit verdrag 
 
 4. Akten van bekrachtiging, aanvaarding, goedkeuring of toetreding die zijn nedergelegd nadat een wijziging van dit verdrag in werking is getreden ten aanzien van alle staten die partij zijn, of nadat alle maatregelen vereist voor de inwerkingtreding van de wijziging ten aanzien van die staten voltooid zijn, worden geacht van toepassing te zijn op het verdrag, zoals gewijzigd door bedoelde wijziging.
 
-#### Artikel 13. Staten met meer dan een rechtsstelsel
+##### Artikel 13. Staten met meer dan een rechtsstelsel
 
 1. Indien een staat twee of meer territoriale eenheden omvat waarin verschillende rechtsstelsels van toepassing zijn op vraagstukken die door dit verdrag worden geregeld, kan hij, op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding, verklaren dat dit verdrag van toepassing is op al zijn territoriale eenheden of slechts op een of meer daarvan en kan hij te allen tijde deze verklaring wijzigen door het indienen van een andere.
 
@@ -224,13 +246,13 @@ Dit verdrag gaat boven andere overeenkomsten die op de datum waarop dit verdrag 
 
 - d. worden de verwijzingen in de artikelen 9 en 10 naar rechters, en naar beslissingen die erkend moeten worden in de staten die partij zijn, uitgelegd als verwijzingen naar de rechters van, respectievelijk de beslissingen die erkend moeten worden in, de desbetreffende territoriale eenheid.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 1. Dit verdrag treedt in werking een jaar na de datum waarop achttien staten, waaronder vijf staten met elk niet minder dan een miljoen brutotonnage, het zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring hebben ondertekend of akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd bij de secretaris-generaal.
 
 2. Ten aanzien van elke staat die dit verdrag bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt nadat aan de in het eerste lid gestelde eisen voor inwerkingtreding is voldaan, treedt dit verdrag in werking drie maanden na de datum van nederlegging door die staat van de daartoe strekkende akte.
 
-#### Artikel 15. Opzegging
+##### Artikel 15. Opzegging
 
 1. Een staat die partij is kan dit verdrag, na de datum waarop het voor die staat in werking is getreden, te allen tijde opzeggen.
 
@@ -238,13 +260,13 @@ Dit verdrag gaat boven andere overeenkomsten die op de datum waarop dit verdrag 
 
 3. Een opzegging wordt van kracht een jaar na de nederlegging van de akte van opzegging bij de secretaris-generaal of na een langere termijn wanneer zulks in die akte is bepaald.
 
-#### Artikel 16. Herziening en wijziging
+##### Artikel 16. Herziening en wijziging
 
 1. De organisatie kan een conferentie tot herziening of wijziging van dit verdrag bijeenroepen.
 
 2. De organisatie roept een conferentie van de staten die partij zijn bijeen tot herziening of wijziging van dit verdrag op verzoek van ten minste een derde van de staten die partij zijn.
 
-#### Artikel 17. Depositaris
+##### Artikel 17. Depositaris
 
 1. Dit verdrag wordt nedergelegd bij de secretaris-generaal.
 
@@ -262,11 +284,11 @@ Dit verdrag gaat boven andere overeenkomsten die op de datum waarop dit verdrag 
 
 - b. zendt voor eensluidend gewaarmerkte afschriften van dit verdrag toe aan alle ondertekenende staten en aan alle staten die tot dit verdrag toetreden.
 
-#### Artikel 18. Toezending aan de Verenigde Naties
+##### Artikel 18. Toezending aan de Verenigde Naties
 
 Zodra dit verdrag in werking treedt, wordt de tekst door de secretaris-generaal toegezonden aan het secretariaat van de Verenigde Naties ter registratie en publicatie overeenkomstig artikel 102 van het Handvest der Verenigde Naties.
 
-#### Artikel 19. Talen
+##### Artikel 19. Talen
 
 Dit verdrag is opgesteld in een enkel oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 

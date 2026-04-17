@@ -1,13 +1,36 @@
 ---
-title: "Deelregeling Internationalisering Creatieve Industrie"
+title: "Besluit van het Bestuur van de Stichting Stimuleringsfonds Creatieve Industrie tot vaststelling van een deelregeling, houdende regels voor het verstrekken van subsidie ter versterking van de internationale positie op het gebied van architectuur, vormgeving en digitale cultuur"
 identifier: "BWBR0038577"
-categorie: "Overig"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038577"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038577"
+soort: "zbo"
+stam_id: "13761533"
+version_id: "23594582"
+internal_id: "C33965681"
+label_id: "13727844"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038577/2017-01-01/0"
+intitule_bron: "Stcrt.2016-51644"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-10-04"
+intitule_in_force: "2016-10-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-51644"
+original_published_date: "2016-10-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-51644"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0038577&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBR0038577&g=2017-01-01"
+citeertitel_status: "officieel"
+short_title: "Deelregeling Internationalisering Creatieve Industrie"
+entry_into_force: "2017-01-01"
 ---
-
 # Besluit van het Bestuur van de Stichting Stimuleringsfonds Creatieve Industrie tot vaststelling van een deelregeling, houdende regels voor het verstrekken van subsidie ter versterking van de internationale positie op het gebied van architectuur, vormgeving en digitale cultuur
 
 **Introductie**
@@ -20,13 +43,13 @@ gezien de op 1 december 2015 door de minister van Onderwijs, Cultuur en Wetensch
 
 besluit:
 
-#### Artikel 1. Doelstellingen deelregeling internationalisering creatieve industrie
+##### Artikel 1. Doelstellingen deelregeling internationalisering creatieve industrie
 
 1. Deze deelregeling is van toepassing op projecten die inhoudelijk bijdragen aan het ontwikkelen, profileren en versterken van de internationale positie van de hedendaagse Nederlandse creatieve industrie.
 
 2. Deze deelregeling geldt in aanvulling op het Subsidiereglement Stimuleringsfonds Creatieve Industrie. Het in dat reglement bepaalde is van toepassing op subsidieverlening op grond van deze deelregeling, voor zover daar in deze deelregeling niet van wordt afgeweken.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Het Bestuur kan met toepassing van deze deelregeling projectsubsidies verstrekken. Subsidies kunnen verleend worden aan projecten, die voldoende bijdragen aan de doelstelling van deze deelregeling en gericht zijn op minstens een van de volgende doelstellingen:
 
@@ -38,11 +61,11 @@ Het Bestuur kan met toepassing van deze deelregeling projectsubsidies verstrekke
 
 - d. het opbouwen en onderhouden van relevante internationale relaties tussen ontwerpers, makers, producenten, opdrachtgevers en culturele instellingen.
 
-#### Artikel 3. Beoordeling van de aanvragen
+##### Artikel 3. Beoordeling van de aanvragen
 
 Voorafgaand aan het besluit wordt beoordeeld in hoeverre het project consistent is in doel, opzet, betrokken deskundigheid, wijze en mate van cofinanciering en publieksbereik.
 
-#### Artikel 4. Voorwaarden voor ondersteuningsmogelijkheden
+##### Artikel 4. Voorwaarden voor ondersteuningsmogelijkheden
 
 Subsidie wordt slechts verleend indien voldaan is aan de volgende voorwaarden:
 
@@ -54,11 +77,11 @@ Subsidie wordt slechts verleend indien voldaan is aan de volgende voorwaarden:
 
 - 4. Het project omvat een voor- en natraject. Het voortraject bestaat minimaal uit een gedegen voorbereiding in samenwerking met relevante partijen. Het natraject bestaat minimaal uit een evaluatie en terugkoppeling van opgedane kennis en ervaring van internationale activiteiten aan vooraf omschreven relevante doelgroepen.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2017.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Internationalisering Creatieve Industrie.
 

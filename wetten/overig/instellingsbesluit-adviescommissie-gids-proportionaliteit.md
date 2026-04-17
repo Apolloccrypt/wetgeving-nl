@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Adviescommissie Gids proportionaliteit"
+title: "Besluit van de Minister van Economische Zaken van 8 mei 2017, nr. WJZ/17035793, tot instelling van de Adviescommissie Gids proportionaliteit (Instellingsbesluit Adviescommissie Gids proportionaliteit)"
 identifier: "BWBR0039543"
-categorie: "Overig"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039543"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039543"
+soort: "ministeriele-regeling"
+stam_id: "13999483"
+version_id: "24089472"
+internal_id: "C34617081"
+label_id: "13961324"
+dtd_version: "2.0"
+original_entry_into_force: "2017-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039543/2023-07-01/0"
+intitule_bron: "Stcrt.2017-27142"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-05-08"
+intitule_published: "2017-05-10"
+intitule_in_force: "2017-05-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-27142"
+original_signed_date: "2017-05-08"
+original_published_date: "2017-05-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-27142"
+entry_into_force_date: "2017-06-01"
+jci_1_3: "jci1.3:c:BWBR0039543&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0039543&g=2023-07-01"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Adviescommissie Gids proportionaliteit"
+signed_date: "2017-05-08"
+entry_into_force: "2017-06-01"
 ---
-
 # Besluit van de Minister van Economische Zaken van 8 mei 2017, nr. WJZ/17035793, tot instelling van de Adviescommissie Gids proportionaliteit (Instellingsbesluit Adviescommissie Gids proportionaliteit)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **adviescommissie:** de Adviescommissie Gids proportionaliteit.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Adviescommissie Gids proportionaliteit.
 
@@ -32,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - b. Het ambtshalve uitbrengen van advies aan de minister over mogelijke wijzigingen van de in artikel 10 van het Aanbestedingsbesluit aangewezen Gids proportionaliteit.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De adviescommissie bestaat uit een voorzitter en vier andere leden.
 
@@ -46,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 - b. twee leden die werkzaam zijn voor een aanbestedende dienst of bij een vertegenwoordiger van aanbestedende diensten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De adviescommissie stelt haar eigen werkwijze schriftelijk vast.
 
@@ -58,11 +84,11 @@ In dit besluit wordt verstaan onder:
 
 5. De minister zendt de verstrekte adviezen zoals bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039543&artikel=2&z=2023-07-01&g=2023-07-01), aan de Tweede Kamer der Staten-Generaal.
 
-#### Artikel 5
+##### Artikel 5
 
 De voorzitter van de adviescommissie ontvangt een vergoeding per vergadering van € 357.
 
-#### Artikel 6
+##### Artikel 6
 
 Ter gelegenheid van de instelling van de adviescommissie worden voor een periode van 1 juni 2017 tot en met 1 juni 2021 tot lid van de adviescommissie benoemd:
 
@@ -76,11 +102,11 @@ Ter gelegenheid van de instelling van de adviescommissie worden voor een periode
 
 - e. de heer M.A.J. Stuijts MSc, te Bladel.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van 1 juni 2017.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Gids proportionaliteit.
 

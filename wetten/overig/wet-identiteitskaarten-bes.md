@@ -1,26 +1,51 @@
 ---
 title: "Wet identiteitskaarten BES"
 identifier: "BWBR0028279"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028279"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028279"
+soort: "wet-BES"
+stam_id: "10739863"
+version_id: "17712832"
+internal_id: "C24784401"
+label_id: "10714544"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028279/2010-10-10/0"
+intitule_bron: "Stb.2010-404"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-16"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-404"
+original_signed_date: "2010-09-16"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-404"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028279&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028279&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-16"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet identiteitskaarten BES
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder openbaar lichaam: het openbaar lichaam Bonaire, Sint Eustatius of Saba.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Ieder, die in het bevolkingregister van een openbaar lichaam is opgenomen en 12 jaar of ouder is, dient in het bezit te zijn van een op hem betrekking hebbende geldige identiteitskaart, door of namens de gezaghebber van het betrokken openbaar lichaam afgegeven, behalve wanneer betrokkene niet in de gelegenheid is gesteld een zodanige identiteitskaart in ontvangst te nemen.
 
 2. De gezaghebber draagt zorg dat betrokkenen in de gelegenheid worden gesteld de in het eerste lid bedoelde identiteitskaart in ontvangst te nemen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onverminderd andere vereisten voor de identiteitskaart bij of krachtens algemene maatregel van bestuur gesteld, dient de identiteitskaart het volgende te bevatten:
 
@@ -42,7 +67,7 @@ In deze wet wordt verstaan onder openbaar lichaam: het openbaar lichaam Bonaire,
 
 3. De identiteitskaart wordt niet uitgereikt alvorens betrokkene daarop zijn handtekening heeft gesteld dan wel de in het eerste lid sub d bedoelde aantekening is opgenomen.
 
-#### Artikel 3
+##### Artikel 3
 
 De identiteitskaart is ongeldig, indien:
 
@@ -54,19 +79,19 @@ De identiteitskaart is ongeldig, indien:
 
 - d. in het daarop vermelde wijzigingen zijn aangebracht.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Degene wiens identiteitskaart ongeldig is geworden, levert die kaart onverwijld in bij de gezaghebber of bij een door deze aangewezen ambtenaar.
 
 2. Een gelijke verplichting als in het voorgaande lid bedoeld rust op elk der erfgenamen van de overledene, evenals op de executeurstestamentair en de beheerders van de nalatenschap, wanneer zij diens identiteitskaart in de nalatenschap aantreffen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Degene wiens identiteitskaart verloren is gegaan, doet daarvan zo mogelijk onder opgave van redenen, onverwijld mededeling aan de gezaghebber of aan door deze aangewezen ambtenaren en legt ten overstaan van deze een schriftelijke verklaring af omtrent de vermissing.
 
 2. Aan het vereiste, bedoeld in het eerste lid, is ook voldaan, indien degene wiens identiteitskaart verloren is gegaan, ten overstaan van de gezaghebber of door deze aangewezen ambtenaren een proces-verbaal van de politie overlegt omtrent de vermissing.
 
-#### Artikel 6
+##### Artikel 6
 
 1. In de gevallen, bedoeld in de [artikelen 4 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028279&artikel=4&z=2010-10-10&g=2010-10-10) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028279&artikel=5&z=2010-10-10&g=2010-10-10) wordt door of namens de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028279&artikel=1&z=2010-10-10&g=2010-10-10) bedoelde gezaghebber een nieuwe identiteitskaart afgegeven.
 
@@ -74,7 +99,7 @@ De identiteitskaart is ongeldig, indien:
 
 3. Bij de vervanging van de identiteitskaart wordt het bij de eerste afgifte gebezigde codegetal als bedoeld in [artikel 2 onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0028279&artikel=2&z=2010-10-10&g=2010-10-10) gehandhaafd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor de afgifte van identiteitskaarten is een bij eilandsverordening vastgestelde vergoeding verschuldigd.
 
@@ -84,7 +109,7 @@ De identiteitskaart is ongeldig, indien:
 
 4. Vergoedingen verkregen voor de afgifte van identiteitskaarten komen ten bate van de kas van het openbaar lichaam waar de identiteitskaart is afgegeven.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld inzake:
 
@@ -102,34 +127,34 @@ De identiteitskaart is ongeldig, indien:
 
 4. De afdracht van de verschuldigde kosten, bedoeld in het derde lid, aan het Rijk vindt plaats volgens bij ministeriële regeling te stellen regels.
 
-#### Artikel 9
+##### Artikel 9
 
 Overtreding van het bepaalde in de [artikelen 1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028279&artikel=1a&z=2010-10-10&g=2010-10-10), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028279&artikel=4&z=2010-10-10&g=2010-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028279&artikel=5&z=2010-10-10&g=2010-10-10) en [6 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028279&artikel=6&z=2010-10-10&g=2010-10-10) wordt gestraft met hechtenis van ten hoogste één maand of geldboete van de eerste categorie.
 
-#### Artikel 10
+##### Artikel 10
 
 Hij, die opzettelijk gebruik maakt van de identiteitskaart van een ander, zich daarbij uitgevende voor de persoon op wie de identiteitskaart betrekking heeft, wordt gestraft hetzij, met gevangenisstraf van ten hoogste één jaar, hetzij met een geldboete van de tweede categorie, hetzij met beide straffen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De feiten strafbaar gesteld bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028279&artikel=9&z=2010-10-10&g=2010-10-10) worden beschouwd als overtreding.
 
 2. Het feit strafbaar gesteld bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028279&artikel=10&z=2010-10-10&g=2010-10-10) wordt beschouwd als misdrijf.
 
-#### Artikel 12
+##### Artikel 12
 
 De kosten aan de uitvoering van deze wet verbonden komen ten laste van de kas van het openbaar lichaam waar de identiteitskaart is afgegeven.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Omtrent de uitvoering van deze wet kunnen nadere regelen worden gesteld bij algemene maatregel van bestuur. Daarbij kan voor wat de afgifte voor de eerste maal van identiteitskaarten betreft worden bepaald, dat de bevoegdheden en verplichtingen, welke in de voorgaande artikelen aan de gezaghebbers zijn toegekend onderscheidenlijk zijn opgelegd, worden uitgeoefend door onderscheidenlijk rusten op de bij die algemene maatregel van bestuur aan te wijzen autoriteit.
 
 2. De bestuurscolleges verlenen de nodige medewerking en verstrekken de nodige gegevens terzake van de uitvoering van deze wet.
 
-#### Artikel 13a
+##### Artikel 13a
 
 De identiteitskaarten die in Bonaire, Sint Eustatius en Saba zijn afgegeven voor de inwerkingtreding van deze wet, behouden de geldigheidsduur die daarin is vermeld tot het bij ministeriële regeling te bepalen tijdstip waarop zij moeten worden vervangen door een identiteitskaart van het model dat na de inwerkingtreding van deze wet is vastgesteld.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze wet wordt aangehaald als: Wet identiteitskaarten BES.

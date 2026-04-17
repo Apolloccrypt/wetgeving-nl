@@ -1,13 +1,35 @@
 ---
 title: "Aanwijzing procesafspraken in strafzaken"
 identifier: "BWBR0048529"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-08-15
-laatste_update: 2023-08-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048529"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-08-15"
+last_updated: "2023-08-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048529"
+soort: "beleidsregel"
+stam_id: "16831643"
+version_id: "29573592"
+internal_id: "C42274711"
+label_id: "16744344"
+dtd_version: "2.0"
+original_entry_into_force: "2023-08-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048529/2023-08-15/0"
+intitule_bron: "Stcrt.2023-22351"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-08-09"
+intitule_in_force: "2023-08-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-22351"
+original_published_date: "2023-08-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-22351"
+entry_into_force_date: "2023-08-15"
+jci_1_3: "jci1.3:c:BWBR0048529&z=2023-08-15&g=2023-08-15"
+jci_1_0: "1.0:c:BWBR0048529&g=2023-08-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-08-15"
 ---
-
 # Aanwijzing procesafspraken in strafzaken
 
 ### Samenvatting

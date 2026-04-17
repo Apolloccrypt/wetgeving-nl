@@ -1,13 +1,35 @@
 ---
 title: "Keurtekenplaat Waarborgwet"
 identifier: "BWBR0033258"
-categorie: "Overig"
-publicatiedatum: 2010-07-09
-laatste_update: 2010-07-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033258"
+country: "nl"
+rank: "zbo"
+publication_date: "2010-07-09"
+last_updated: "2010-07-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033258"
+soort: "zbo"
+stam_id: "12214393"
+version_id: "20427402"
+internal_id: "C28710651"
+label_id: "12185694"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033258/2010-07-09/0"
+intitule_bron: "Stcrt.2010-10689"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-07-09"
+intitule_in_force: "2010-07-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-10689"
+original_published_date: "2010-07-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-10689"
+entry_into_force_date: "2010-07-09"
+jci_1_3: "jci1.3:c:BWBR0033258&z=2010-07-09&g=2010-07-09"
+jci_1_0: "1.0:c:BWBR0033258&g=2010-07-09"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-07-09"
 ---
-
 # Keurtekenplaat Waarborgwet
 
 Al meer dan 600 jaar worden edelmetalen voorwerpen gecontroleerd op het gehalte aan edelmetaal.

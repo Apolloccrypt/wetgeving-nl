@@ -1,14 +1,41 @@
 ---
-title: "Klimaatwet"
+title: "Wet van 2 juli 2019, houdende een kader voor het ontwikkelen van beleid gericht op onomkeerbaar en stapsgewijs terugdringen van de Nederlandse emissies van broeikasgassen teneinde wereldwijde opwarming van de aarde en de verandering van het klimaat te beperken (Klimaatwet)"
 identifier: "BWBR0042394"
-categorie: "Milieu"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042394"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042394"
+soort: "wet"
+stam_id: "15118863"
+version_id: "25917722"
+internal_id: "C36929881"
+label_id: "15067084"
+dtd_version: "2.0"
+original_entry_into_force: "2019-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042394/2026-01-01/0"
+intitule_bron: "Stb.2019-253"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-07-02"
+intitule_published: "2019-07-10"
+intitule_in_force: "2019-07-10"
+intitule_status: "goed"
+original_publication: "Stb.2019-253"
+original_signed_date: "2019-07-02"
+original_published_date: "2019-07-10"
+original_effect: "nieuwe-regeling"
+original_dossier: "34534"
+original_url_id: "stb-2019-253"
+entry_into_force_date: "2019-09-01"
+jci_1_3: "jci1.3:c:BWBR0042394&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0042394&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Klimaatwet"
+signed_date: "2019-07-02"
+entry_into_force: "2019-09-01"
 ---
-
-# Klimaatwet
+# Wet van 2 juli 2019, houdende een kader voor het ontwikkelen van beleid gericht op onomkeerbaar en stapsgewijs terugdringen van de Nederlandse emissies van broeikasgassen teneinde wereldwijde opwarming van de aarde en de verandering van het klimaat te beperken (Klimaatwet)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -40,7 +67,7 @@ In deze wet wordt verstaan onder:
 
 - **Wetenschappelijke Klimaatraad:** de Wetenschappelijke Klimaatraad, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=4&artikel=8&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze wet biedt een kader voor de ontwikkeling van beleid gericht op het onomkeerbaar en stapsgewijs terugdringen van de emissies van broeikasgassen in Nederland teneinde wereldwijde opwarming van de aarde en de verandering van het klimaat te beperken, waarbij Nederland overeenkomstig artikel 2, eerste lid, van de Europese klimaatwet:
 
@@ -54,7 +81,7 @@ In deze wet wordt verstaan onder:
 
 ### Hoofdstuk 2. Klimaatplan
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het klimaatplan bevat de hoofdzaken van het door Onze Ministers die het aangaat te voeren klimaatbeleid gericht op het realiseren van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01), voor de eerstvolgende tien jaren.
 
@@ -74,13 +101,13 @@ In deze wet wordt verstaan onder:
 
 - g. een beschouwing van de gevolgen die het te voeren klimaatbeleid van de regering heeft op de financiële positie van huishoudens, bedrijven en overheden, de werkgelegenheid inclusief scholing en opleiding van werknemers, de ontwikkeling van de economie, het tot stand komen van een eerlijke en betaalbare transitie en voor de betrouwbaarheid van de energievoorziening.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het klimaatplan wordt voor de eerste maal vastgesteld in 2019 en ten minste eens in de vijf jaren opnieuw vastgesteld.
 
 2. Het eerste klimaatplan heeft betrekking op de periode van 2021 tot en met 2030.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Minister stelt in overeenstemming met het gevoelen van de ministerraad en nadat het is overgelegd aan beide kamers der Staten-Generaal, het klimaatplan vast.
 
@@ -92,7 +119,7 @@ In deze wet wordt verstaan onder:
 
 ### Hoofdstuk 3. Verantwoording
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het Planbureau voor de Leefomgeving brengt eenmaal per jaar aan Onze Minister een klimaat- en energieverkenning uit.
 
@@ -106,7 +133,7 @@ In deze wet wordt verstaan onder:
 
 - c. de ontwikkelingen en maatregelen die invloed hebben gehad op de emissies van broeikasgassen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister zendt de klimaat- en energieverkenning op de derde dinsdag van september aan beide kamers der Staten-Generaal.
 
@@ -128,7 +155,7 @@ In deze wet wordt verstaan onder:
 
 ### Hoofdstuk 4. Advisering en overleg
 
-#### Artikel 8
+##### Artikel 8
 
 1. Er is een Wetenschappelijke Klimaatraad.
 
@@ -138,7 +165,7 @@ In deze wet wordt verstaan onder:
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Ten behoeve van de uitvoering van deze wet en het behalen van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01), voert Onze Minister overleg met bestuursorganen van provincies, waterschappen, gemeenten en overige relevante partijen.
 
@@ -146,7 +173,7 @@ In deze wet wordt verstaan onder:
 
 3. Onze Minister bevordert door middel van het overleg het sluiten van overeenkomsten met partijen, gericht op het bereiken van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 10
+##### Artikel 10
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
@@ -154,7 +181,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Deze wet wordt aangehaald als: Klimaatwet.
 
